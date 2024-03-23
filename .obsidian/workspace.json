@@ -13,14 +13,64 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def395b26e45f734",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/Illustrations/Computer System/vmnet.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f30621efe9f6bb49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM Agent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d29ba16d5dd3b1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26d990ee1eb7c16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS_Overview/🌲 Road To CS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bridged  ",
+                "query": "tag:#host-only  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md"
               }
             }
           },
@@ -170,54 +220,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63eecc5769abb347",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-    "CS/Software Engineering/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Products/Docker/Docker.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/angr.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/Vulnerability Databases.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/Exploit Database & Google Hacking & GHDB.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/CVE (Common Vulnerabilities and Exposures).md",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/NIST (National Institution of Standards and Technology).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Databases/NVD (National Vulnerability Database).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/FAQ.md",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇨🇳 IT Laws & Institutions in China/IT Laws & Institutions in China.md",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Electronic & Information Business Fields Research.md",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇬🇧 IT Laws & Institutions in United Kingdom/IT Laws & Institutions in United Kingdom.md",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇺🇸 IT Laws & Institutions in United States/IT Laws & Institutions in United States.md",
-    "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇪🇺 IT Laws & Institutions in European Union/IT Laws & Institutions in European Union.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/VMware Workstation.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/VMware Server.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Switch/OVS (Open vSwitch)/OVS (Open vSwitch).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Network/vde (Virtual Distributed Ethernet).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Switch",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Network/VMware vmnet.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Switch/Virtual Security Switch.md",
+    "CS/CyberSecurity/🥇 Best Practice/Threats & Exploitation/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）.md",
+    "CS/CyberSecurity/🥇 Best Practice/Threats & Exploitation/APT (Advanced Persistent Threat).md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/CyberSecurity/🥇 Best Practice/Threats & Exploitation/Threats & Exploitation.md",
+    "CS/CyberSecurity/🥇 Best Practice/Threats & Exploitation/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management.md",
+    "CS/CyberSecurity/🥇 Best Practice/Threats & Exploitation",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management Life Circle/Risk Assessment.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/⛈️ Risk Management/Risk Management Life Circle/Risk Management Life Circle.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM Agent.md",
+    "Assets/Illustrations/Computer System/vmnet.excalidraw.md",
+    "Assets/Pics/Screenshot 2024-03-22 at 1.30.46 PM.png",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Cybernetics/Cybernetics.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/Apple Operating Systems.md",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/📌 Comprehensive Electronics & Information Technology Services/Apple.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Free Software/OpenVPN/Tunnelblick.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Free Software/OpenVPN/OpenVPN.md",
+    "Assets/Pics/Pasted image 20240321170141.png",
+    "Assets/Pics/Pasted image 20240321170107.png",
+    "Assets/Pics/Pasted image 20240321170052.png",
+    "Assets/Pics/Pasted image 20240321165947.png",
+    "Assets/Pics/Pasted image 20240321165532.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Network/vmnet.framework.md",
+    "CS/🗺 CS_Overview/📆 Conference & Events/Development Events/Apple WWDC (WorldWide Developers Conference).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/tvOS",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/visionOS",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/watchOS",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/iPadOS",
+    "Assets/Pics/Pasted image 20240321143939.png",
     "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇨🇳 IT Laws & Institutions in China",
     "CS/🔑 CS_Core/Laws & Regulations in Electronic & Information Fields/🇪🇺 IT Laws & Institutions in European Union",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Analysis (VA)（漏洞分析）/Vulnerability Metrics/CVSS (Common Vulnerability Scoring System).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Analysis (VA)（漏洞分析）/Vulnerability Metrics/Vulnerability Metrics.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/Vulnerability Analysis (VA)（漏洞分析）/Vulnerability Metrics",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/FAQ.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/Internet Protocols (IP).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/Internet Protocols (IP)/IPv4/IPv4.md",
-    "CS/Software Engineering/👾 Web Development/🥪 Middleware/Logger/Apache Logging Services/Apache Log4j/Apache Log4j.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Web Security Middleware & Frameworks/Apache Shiro.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/IP Layer Network Management/IP Layer Network Management.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/Host & Endpoint Security Products.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/MTD (Mobile Threat Defense).md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/EDR (Endpoint Detection and Response).md",
     "Assets/Pics/Pasted image 20240318214156.png",
     "Assets/Pics/Pasted image 20240318214125.png",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/UES (Unified Endpoint Security)",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Web Security Middleware & Frameworks",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🏹 Vulnerability/📌 Vulnerability Collections",
     "Assets/Pics/Pasted image 20240318203937.png",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Delivery Tools/BadUSB",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/🚀 Life Productivity/Password Management",
-    "Assets/Pics/Screenshot 2024-03-17 at 4.49.59 PM.png",
-    "Assets/Pics/SMP_Symmetric_Multiprocessor_System.png",
-    "Assets/Pics/1920px-Gabinete99.jpg",
-    "Assets/Pics/Screenshot 2024-03-16 at 6.18.32 PM.png",
-    "Assets/Pics/Screenshot 2024-03-16 at 6.15.49 PM.png",
-    "Assets/Pics/Screenshot 2024-03-16 at 6.12.18 PM.png",
-    "Assets/Pics/Centronics-36F.jpg",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

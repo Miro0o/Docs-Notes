@@ -5,11 +5,17 @@
 
 
 ## Res
-[developer.apple.com](https://developer.apple.com)
-[Documentation Archive](https://developer.apple.com/library/archive/navigation/) 
+🏠 https://developer.apple.com
+📂 https://developer.apple.com/library/
+📂 https://developer.apple.com/documentation/
+
 
 ### Related Topics
 ↗ [Apple](../../Electronic%20&%20Information%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Apple.md)
+↗ [Apple WWDC (WorldWide Developers Conference)](../../../🗺%20CS_Overview/📆%20Conference%20&%20Events/Development%20Events/Apple%20WWDC%20(WorldWide%20Developers%20Conference).md)
+
+↗ [Xcode](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDEs/Xcode.md)
+↗ [Swift](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/Swift/Swift.md)
 
 
 
@@ -29,17 +35,6 @@
     </g></g>
 </svg>
 </div>
-
-
-
-
-## WWDC, worldwide Developers Conference
-
-![hero-medium_2x](../../../../Assets/Pics/hero-medium_2x.jpg)
-
-<small><a>https://developer.apple.com/wwdc22/</a></small>
-
-The Worldwide Developers Conference is an information technology conference held annually by Apple Inc. The conference is usually held at Apple Park in California. The event is usually used to showcase new software and technologies in the macOS, iOS, iPadOS, watchOS, and tvOS families as well as other Apple software
 
 
 
