@@ -5,9 +5,11 @@
 
 
 ## Res
+### Related Topics
+↗ [SCA (Static Code Analysis)](../../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/📌%20SCA%20(Static%20Code%20Analysis)/SCA%20(Static%20Code%20Analysis).md)
 
+↗ [LSP (Language Service Protocol)](❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md)
 
-## Intro
 
 
 ## Languages Services
@@ -31,16 +33,6 @@
 
 ### ✏️ Syntax Highlights
 ↗ [Syntax Highlighting](Syntax%20Highlighting.md)
-
-
-
-## Languages Services Projects
-### 🔥 LSP (Languages Services Protocol)
-↗ [LSP (Language Service Protocol)](❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md)
-
-
-### Static Code Analysis
-↗ [Static Code Analysis](Static%20Code%20Analysis.md)
 
 
 

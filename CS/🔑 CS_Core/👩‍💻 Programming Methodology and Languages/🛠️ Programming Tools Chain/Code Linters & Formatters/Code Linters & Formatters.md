@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [LSP (Language Service Protocol)](../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md)
-↗ [Static Code Analysis](../🌋%20Advanced%20Language%20Services/Static%20Code%20Analysis.md)
+↗ [SCA (Static Code Analysis)](../../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/📌%20SCA%20(Static%20Code%20Analysis)/SCA%20(Static%20Code%20Analysis).md)
 
 
 ### Other Resources

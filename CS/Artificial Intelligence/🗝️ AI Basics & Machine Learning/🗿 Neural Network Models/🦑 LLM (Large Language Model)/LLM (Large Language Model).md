@@ -12,6 +12,7 @@
 ↗ [LLM & Federated Learning](../../../../Academics/🗒️%20Papers%20Reading%20Notes/LLM%20&%20Federated%20Learning/LLM%20&%20Federated%20Learning.md) 🎓
 
 
+
 ### Learning Resource
 📖 大规模语言模型：从理论到实践
 https://intro-llm.github.io
@@ -21,6 +22,9 @@ https://intro-llm.github.io
 A collection of papers and resources related to Large Language Models.
 The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223).
 To facilitate the reading of our (English-verison) survey, we also translate a [**Chinese version**](https://github.com/RUCAIBox/LLMSurvey/blob/main/assets/LLM_Survey_Chinese.pdf) for this survey. We will continue to update the Chinese version.
+
+https://github.com/Hannibal046/Awesome-LLM/tree/main
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 
 

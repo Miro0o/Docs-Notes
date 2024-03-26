@@ -102,7 +102,7 @@ The whois command used to be the first step in identifying an IP address for man
 
 
 ### 👉 `Sublist3r`
-↗ [OSINT/ 👉 Sublist3r](../../../OSINT/OSINT.md#👉%20Sublist3r)
+↗ [OSINT/ 👉 Sublist3r](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cyber%20Threat%20Intelligence%20(CTI)/OSINT/OSINT.md#👉%20Sublist3r)
 
 
 
