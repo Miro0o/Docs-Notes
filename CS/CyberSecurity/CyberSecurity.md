@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [LLM & Security](../Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/🗿%20Neural%20Network%20Models/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Projects/LLM%20&%20Security/LLM%20&%20Security.md)
+
+
 ### Projects & Labs
 ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
 🔥 👍 Comprehensive & Introductory security labs/ courses
@@ -44,12 +48,6 @@
 
 🫂 https://www.hackers-arise.com
 Hackers Arise was developed solely to help those who are interested in a career in cyber security. We will have tutorials on all forms of hacking, digital forensics, Linux, information security and just about any subject related to cyber security.
-
----
-📚 https://attack.mitre.org
-MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
-
-With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems for a safer world — by bringing communities together to develop more effective cybersecurity. ATT&CK is open and available to any person or organization for use at no charge.
 
 ---
 🔥 https://www.vulnhub.com/resources/

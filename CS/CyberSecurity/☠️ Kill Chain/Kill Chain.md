@@ -9,7 +9,7 @@
 ↗ [Network Penetration (Pen-testing)](../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 ↗ [Binary Engineering & Software Analysis](../🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 ↗ [Forensics](../🥇%20Best%20Practice/Forensics/Forensics.md)
-↗ [OSINT](../🥇%20Best%20Practice/OSINT/OSINT.md)
+↗ [OSINT](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cyber%20Threat%20Intelligence%20(CTI)/OSINT/OSINT.md)
 ↗ [Security Audit & Security Audit Trail](../🥇%20Best%20Practice/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
 ↗ [Social Engineering & Physical Security](../🥇%20Best%20Practice/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 

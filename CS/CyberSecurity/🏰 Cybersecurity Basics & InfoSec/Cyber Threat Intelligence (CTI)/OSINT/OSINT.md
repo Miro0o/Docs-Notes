@@ -10,6 +10,10 @@
 [CTFshow---网络迷踪---(专题解题思路)](https://www.xl-bit.cn/index.php/archives/594/)
 
 
+### Related Topics
+↗ [Reconnaissance & Exploration](../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+
+
 
 ## Intro
 ![Screenshot 2023-01-20 at 12.24.08 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-20%20at%2012.24.08%20AM.png)
@@ -22,15 +26,15 @@ Sublist3r is a Python-based tool that can be utilized during domain harvesting, 
 
 
 ### 👉 Maltego
-↗ [Meltego](../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/Meltego.md)
+↗ [Meltego](../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/Meltego.md)
 
 
 ### 👉 OSRFramework
-↗ [OSRFramework](../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/OSRFramework.md)
+↗ [OSRFramework](../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon/OSRFramework.md)
 
 
 ### Web Scraping
-↗ [Web Scraping](../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python%20Applications/Web%20Scraping/Web%20Scraping.md)
+↗ [Web Scraping](../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python%20Applications/Web%20Scraping/Web%20Scraping.md)
 
 
 
@@ -40,7 +44,7 @@ Defensive OSINT is typically used to see what is already on internet including b
 
 ### ⭐️ Internet Search Engine & Databases
 #### Googlehacking & GHDB
-↗ [Exploit Database & Google Hacking & GHDB](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/📌%20Vulnerability%20Databases/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/📌%20Vulnerability%20Databases/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 These Google operators are part of the Google query process, and the syntax of searching is as follows:
 ```shell
@@ -77,11 +81,11 @@ What is deleted from the internet is not necessarily deleted from Google. Every 
 
 
 #### exploit-db
-↗ [Exploit Database & Google Hacking & GHDB](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/📌%20Vulnerability%20Databases/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
+↗ [Exploit Database & Google Hacking & GHDB](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/📌%20Vulnerability%20Databases/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 
 
 #### Other Sources...
-↗ [Search Services & Information Index](../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/Search%20Services%20&%20Information%20Index.md)
+↗ [Search Services & Information Index](../../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/Search%20Services%20&%20Information%20Index.md)
 
 https://pastebin.com
 
@@ -128,7 +132,7 @@ Using theHarvester is relatively simple, as there are only a few command switche
 
 ### Creating custom wordlists for cracking passwords
 #### 👉 CUPP
-↗ [CUPP (Common User Password Profiler)](../../☠️%20Kill%20Chain/Credentials%20&%20Password%20Related%20Tools/📌%20Wordlist%20&%20User%20Password%20Profile/CUPP%20(Common%20User%20Password%20Profiler).md)
+↗ [CUPP (Common User Password Profiler)](../../../☠️%20Kill%20Chain/Credentials%20&%20Password%20Related%20Tools/📌%20Wordlist%20&%20User%20Password%20Profile/CUPP%20(Common%20User%20Password%20Profiler).md)
 
 
 #### twofi

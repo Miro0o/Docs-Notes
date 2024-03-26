@@ -85,6 +85,9 @@ https://sushant747.gitbooks.io/total-oscp-guide/content/
 A hub for Linux Tutorials and Tips | LinuxOPsys
 https://linuxopsys.com
 
+川大学生Linux使用指南
+https://docs.qq.com/doc/DUXVUd2hMb3FNSGdI
+
 
 ### 🗣 Linux Communities
 https://kernelnewbies.org
