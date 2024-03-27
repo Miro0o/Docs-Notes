@@ -33,6 +33,5 @@ Many modern electronic devices, such as Internet-enabled [digital watches](http
 
 ## Ref
 [Peripheral | Wikipedia]: https://en.wikipedia.org/wiki/Peripheral
+[hackday.io]: https://hackaday.io/myFeed
 
-
-[hackday.io](https://hackaday.io/myFeed)

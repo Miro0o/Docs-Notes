@@ -21,16 +21,6 @@
             }
           },
           {
-            "id": "def395b26e45f734",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Illustrations/Computer System/vmnet.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "d29ba16d5dd3b1c5",
             "type": "leaf",
             "state": {
@@ -49,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Network Devices Overview.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Computer Bus (Datapath).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,17 +47,33 @@
             }
           },
           {
-            "id": "e9e889c58e4ec681",
+            "id": "7c615451c5522cf6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "020a60744601a62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/Expansion Slot (Internal Bus).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#host-only  ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -133,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Network Devices Overview.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Network Devices Overview.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Network Devices Overview.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md"
               }
             }
           },
@@ -217,54 +223,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e889c58e4ec681",
+  "active": "7c615451c5522cf6",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Switch/Virtual Security Switch.md",
-    "CS/CyberSecurity/🛌 Comprehensive Defense Systems & Security Products/Cyberspace Situation Awareness (CSA)/Cyberspace Situation Awareness (CSA).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cyber Threat Intelligence (CTI)/Cyber Threat Intelligence (CTI).md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Reconnaissance & Exploration.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cyber Threat Intelligence (CTI)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cyber Threat Intelligence (CTI)/OSINT/OSINT.md",
-    "CS/CyberSecurity/🥇 Best Practice/🏕️ ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Second-Stage Boot Loader/Second-Stage Boot Loader.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/EFI & UEFI (Unified Extensible Firmware Interface)/UEFI (Unified Extensible Firmware Interface).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux Distros/Arch Linux/Arch Linux.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transferring/TFTP (Trivial File Transfer Protocol).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/First-Stage Boot Loader.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/coreboot (Formally LinuxBIOS)/coreboot (Formally LinuxBIOS).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/BIOS (Basic IO System)/BIOS (Basic IO System).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/FDT&DT/FDT&DT.md",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/CodeQL.md",
-    "CS/CyberSecurity/🥇 Best Practice/Threats & Exploitation/Threats & Exploitation.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/Static Binary Analysis & SCA Tools.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/📌 SCA (Static Code Analysis)/SCA (Static Code Analysis).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🌋 Advanced Language Services/Advanced Language Services.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🌋 Advanced Language Services/Static Code Analysis.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Linters & Formatters/Code Linters & Formatters.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft Operating Systems/Windows/📌 Windows Kernel/WMI (Windows Management Instrumentation).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft Operating Systems/Windows/Windows.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Microsoft Operating Systems/Windows/📌 Windows Kernel/MMC (Microsoft Management Console?).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/APT (Advanced Persistent Threat).md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM Agent.md",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/🤔 Software Analysis & AI & LLM/Software Analysis & AI & LLM.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM Projects/LLM & Security/LLM & Security.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
-    "Assets/Illustrations/Computer System/vmnet.excalidraw.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/Academics/🗒️ Papers Reading Notes/LLM & Software Analysis/LLM & Software Analysis.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM Projects/LLM & Security/Microsoft Security Copilot.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM Projects/LLM & Software Engineering",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/🗿 Neural Network Models/🦑 LLM (Large Language Model)/LLM Projects/LLM & Security",
+    "CS/Software Engineering/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/github actions.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/System Bus/SMBus (System Management Bus).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/📌 Bus Specifications & Communication Control Systems/IIC (Inter-IC, I2C) & IIC Specification.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/System Bus/PMBus.md",
+    "Assets/Pics/Pasted image 20240327203351.png",
+    "Assets/Pics/Pasted image 20240327203333.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Computer Bus (Datapath).md",
+    "Assets/Pics/Pasted image 20240327200246.png",
+    "Assets/Pics/Pasted image 20240327200211.png",
+    "Assets/Pics/Pasted image 20240327195901.png",
+    "Assets/Pics/Pasted image 20240327195814.png",
+    "Assets/Pics/Pasted image 20240327195618.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Disk Interfaces.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Controllers/Controllers.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Adapter Cards (Expansion Cards)/Adapter Cards (Expansion Cards).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/Expansion Slot (Internal Bus).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Components.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares (Processors)/Configurable Processors (PLDs, Programmable Logic Devices)/FPGA (Field Programmable Gates Arrays).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Ports (External Bus)/Expansion Ports (External Bus).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/📌 Bus Specifications & Communication Control Systems/Bus Specifications & Communication Control Systems.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/📌 Bus Specifications & Communication Control Systems",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/📌 Electronics & Appliances",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Software Providers/Internet Companies",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Software Providers/System Level Software Providers",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Software Providers",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/📌 Electronics & Appliances/Human-Computer Interaction Devices",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/📌 Electronics & Appliances/Graphical & Vocal Devices",
+    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/End Hosts",
+    "Assets/Pics/Pasted image 20240326234439.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cyber Threat Intelligence (CTI)",
     "Assets/Pics/Pasted image 20240324141945.png",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/📌 DCA (Dynamic Code Analysis)/Advanced Dynamic Analysis/Untitled",
-    "CS/CyberSecurity/🥇 Best Practice/🪆 Binary Engineering & Software Analysis/🤔 Software Analysis & AI & LLM",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Switch",
-    "CS/CyberSecurity/🥇 Best Practice/🏕️ ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）",
-    "CS/CyberSecurity/🥇 Best Practice/Threats & Exploitation",
     "Assets/Pics/Screenshot 2024-03-22 at 1.30.46 PM.png",
-    "Assets/Pics/Pasted image 20240321170141.png",
-    "Assets/Pics/Pasted image 20240321170107.png",
-    "Assets/Pics/Pasted image 20240321170052.png",
-    "Assets/Pics/Pasted image 20240321165947.png",
-    "Assets/Pics/Pasted image 20240321165532.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/tvOS",
-    "Assets/Pics/Pasted image 20240321143939.png",
-    "Assets/Pics/Pasted image 20240318214156.png",
-    "Assets/Pics/Pasted image 20240318214125.png",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

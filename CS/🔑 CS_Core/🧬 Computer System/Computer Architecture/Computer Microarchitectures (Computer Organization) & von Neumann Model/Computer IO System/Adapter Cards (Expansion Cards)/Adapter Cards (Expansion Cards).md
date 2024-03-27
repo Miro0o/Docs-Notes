@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Topics
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [NIC (Network Adapter)](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC%20(Network%20Adapter).md)
 
 
 ## Intro
@@ -12,9 +15,7 @@ In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), an **expa
 
 Expansion cards allow the capabilities and interfaces of a computer system to be extended or supplemented in a way appropriate to the tasks it will perform. For example, a high-speed multi-channel data acquisition system would be of no use in a personal computer used for bookkeeping, but might be a key part of a system used for industrial process control. Expansion cards can often be installed or removed in the field, allowing a degree of user customization for particular purposes. Some expansion cards take the form of "daughterboards" that plug into connectors on a supporting system board.
 
-
 ![](Screen%20Shot%202021-10-13%20at%2015.52.16.png)
-
 
 +  Extension Card
 	+  the circuit board is called extension card

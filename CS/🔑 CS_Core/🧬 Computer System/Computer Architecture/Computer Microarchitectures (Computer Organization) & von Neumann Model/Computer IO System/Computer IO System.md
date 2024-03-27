@@ -113,7 +113,9 @@ Block I/O lends itself to **DMA** or **channel I/O processing**.
 
 
 ### I/O Buses and Interfaces
-Each I/O device is connected to the I/O bus by either a **controller** or an **adapter**. The distinction between the two is mainly one of packaging. Controllers are chip sets in the device itself or on the system’s main printed circuit board (often called the motherboard). An adapter is a card that plugs into a slot on the motherboard. Regardless, the purpose of each is to transfer information back and forth between the I/O bus and an I/O device.
+Each I/O device is connected to the I/O bus by either a **controller** or an **adapter**. The distinction between the two is mainly one of packaging. 
+- **Controllers** are chip sets in the device itself or on the system’s main printed circuit board (often called the motherboard).
+- **Adapters** are cards that plug into slots on the motherboard. Regardless, the purpose of each is to transfer information back and forth between the I/O bus and an I/O device.
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%206.47.51PM.png)
 
@@ -121,6 +123,7 @@ Each I/O device is connected to the I/O bus by either a **controller** or an **a
 ↗ [Computer IO System](Computer%20IO%20System.md)
 
 ↗ [von Neumann Based Microarchitecture /Datapath (Bus)](../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 
 
