@@ -14,6 +14,8 @@
 ↗ [Auxiliary Hardware & Peripherals](../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 ↗ [Small Form Factor Computer](Small%20Form%20Factor%20Computer.md)
 
+↗  [Network Devices Overview](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Network%20Devices%20Overview.md)
+
 
 
 ## Intro
@@ -21,6 +23,9 @@
 
 ![](../../../../../../../Assets/Pics/Screenshot%202024-03-16%20at%206.12.18%20PM.png)
 <small>https://en.wikipedia.org/wiki/Computer_hardware#External_links</small>
+
+
+### PCB (Printed Circuit Board)
 
 
 

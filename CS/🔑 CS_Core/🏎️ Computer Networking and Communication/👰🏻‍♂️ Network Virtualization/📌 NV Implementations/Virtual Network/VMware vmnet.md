@@ -5,14 +5,13 @@
 
 
 ## Res
-
-
 ### Related Topics
 
 
 
 ## Intro
 ![vmnet.excalidraw | 800](../../../../../../Assets/Illustrations/Computer%20System/vmnet.excalidraw.md)
+<small>vmnet topology ?</small>
 
 
 
@@ -81,7 +80,7 @@ VMnet1，官方定义为仅主机网路，其默认的网络行为，只与主�
 
 
 ### NAT | `vmnet8`
-①如果虚拟机使用VMnet8，则虚拟机可以通过主机网络，单向（从虚拟机到主机、外网）访问物理主机之外的网络，而主机以外的网络不能访问使用VMnet8的虚拟机。但这个的前提是，主机要能访问外网（或网络上的其他计算机），如果主机不能访问外网，则配置为VMnet8虚拟网卡的虚拟机，也不能访问外网。  
+①如果虚拟机使用VMnet8，则虚拟机可以通过主机网络，单向（从虚拟机到主机、外网）访问物理主机之外的网络，而主机以外的网络不能访问使用VMnet8的虚拟机。但这个的前提是，主机要能访问外网（或网络上的其他计算机），如果主机不能访问外网，则配置为VMnet8虚拟网卡的虚拟机，也不能访问外网。 
 在这里插入图片描述
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240321170107.png)
 ②主机A的VMnet8虚拟网卡，连接到VMnet8虚拟交换机，VMnet8虚拟交换机连接到“虚拟路由器”，“虚拟路由器”再连接到“VMnet0虚拟网卡(也即主机物理网卡)”，并通过“VMnet0虚拟网卡”连接到“VMnet0虚拟交换机”，“VMnet0虚拟交换机”连接到主机物理网络。这也就表明，连接到“VMnet8虚拟交换机”的计算机（虚拟机或主机），需要通过“虚拟路由器”→“VMnet0虚拟网卡”→“VMnet0虚拟交换机”的方向连接到主机物理网络。
@@ -92,9 +91,12 @@ VMnet1，官方定义为仅主机网路，其默认的网络行为，只与主�
 
 
 
-
 ## Ref
 [vmware的vmnet-概念的解说]: https://developer.aliyun.com/article/494310
 [👍  vmware中VMnet0、VMnet1、VMnet8是干什么的]: http://t.csdnimg.cn/4HqoQ
 
 [网络配置三种模式对比（桥接模式，主机模式，网络地址转换）]: https://cloud.tencent.com/developer/article/1184666
+
+[Linux虚拟机VMnet8连接外网（详细）| CSDN]: https://blog.csdn.net/RealityMan/article/details/99696084?fromshare=blogdetail
+
+[👍 VMware虚拟机网络配置-NAT篇 - Long的文章 - 知乎]: https://zhuanlan.zhihu.com/p/130984945

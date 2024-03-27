@@ -10,7 +10,7 @@
 
 ## Intro
 ### Booting
-In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **booting** is the process of starting a [computer](https://en.wikipedia.org/wiki/Computer "Computer") as initiated via [hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware")such as a button or by a [software](https://en.wikipedia.org/wiki/Software "Software") command. After it is switched on, a computer's [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") (CPU) has no software in its [main memory](https://en.wikipedia.org/wiki/Main_memory "Main memory"), so some process must load software into memory before it can be executed. This may be done by hardware or [firmware](https://en.wikipedia.org/wiki/Firmware "Firmware") in the CPU, or by a separate processor in the computer system.
+In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **booting** is the process of starting a [computer](https://en.wikipedia.org/wiki/Computer "Computer") as initiated via [hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware") such as a button or by a [software](https://en.wikipedia.org/wiki/Software "Software") command. After it is switched on, a computer's [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") (CPU) has no software in its [main memory](https://en.wikipedia.org/wiki/Main_memory "Main memory"), so some process must load software into memory before it can be executed. This may be done by hardware or [firmware](https://en.wikipedia.org/wiki/Firmware "Firmware") in the CPU, or by a separate processor in the computer system.
 
 **Boot** is short for **[_bootstrap_](https://en.wikipedia.org/wiki/Bootstrapping "Bootstrapping")** or **bootstrap load** and derives from the phrase _[to pull oneself up by one's bootstraps](https://en.wikipedia.org/wiki/Bootstrapping#Etymology "Bootstrapping")_. The usage calls attention to the requirement that, if most software is loaded onto a computer by other software already running on the computer, some mechanism must exist to load the initial software onto the computer. Early computers used a variety of ad-hoc methods to get a small program into memory to solve this problem. The invention of [read-only memory](https://en.wikipedia.org/wiki/Read-only_memory "Read-only memory") (ROM) of various types solved this paradox by allowing computers to be shipped with a start up program that could not be erased. Growth in the capacity of ROM has allowed ever more elaborate start up procedures to be implemented.
 
@@ -32,11 +32,14 @@ Boot loaders may face peculiar constraints, especially in size; for instance, on
 
 On systems with those constraints, the first program loaded into RAM may not be sufficiently large to load the operating system and, instead, must load another, larger program. The first program loaded into RAM is called a first-stage boot loader, and the program it loads is called a second-stage boot loader.
 
+
 ### 1️⃣ First-Stage Boot Loader
 ↗ [First-Stage Boot Loader](First-Stage%20Boot%20Loader/First-Stage%20Boot%20Loader.md)
 
+
 ### 2️⃣ Second-Stage Boot Loader
 ↗ [Second-Stage Boot Loader](Second-Stage%20Boot%20Loader/Second-Stage%20Boot%20Loader.md)
+
 
 ### 3️⃣ Network Booting
 ↗ [Network Booting](Network%20Booting/Network%20Booting.md)

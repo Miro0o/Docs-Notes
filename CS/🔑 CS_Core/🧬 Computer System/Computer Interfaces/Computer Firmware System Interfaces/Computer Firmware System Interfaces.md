@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Booting & Bootloader](../../Firmware/🌽%20Booting%20&%20Bootloader/Booting%20&%20Bootloader.md)
+↗ [Bootstrap (Boot) & Bootloader](../../Firmware/🌽%20Bootstrap%20(Boot)%20&%20Bootloader/Bootstrap%20(Boot)%20&%20Bootloader.md)
 ↗ [Firmware](../../Firmware/Firmware.md)
 
 
