@@ -12,6 +12,9 @@
 
 For Cloud Native Database, go to ↗ [Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md) and find more !!
 
+↗ [Network-Attached Storage (NAS)](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Network-Attached%20Storage%20(NAS)/Network-Attached%20Storage%20(NAS).md)
+↗ [Large Data Computing Platforms](../../Data%20Science/🧯%20Large%20Data%20Computing%20Platforms/Large%20Data%20Computing%20Platforms.md)
+
 
 ### Courses
 🏫 [UCB CS186 Introduction to Database System](../../🏠%20Assets/Universities/UC%20Berkeley/CS186%20Introduction%20to%20Database%20System/CS186%20Introduction%20to%20Database%20System.md)

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Code Obfuscation](../../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Anti-Reverse%20Engineering/Code%20Obfuscation/Code%20Obfuscation.md)
-↗ [Encodings](../../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
+↗ [Encodings](../../../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 
 

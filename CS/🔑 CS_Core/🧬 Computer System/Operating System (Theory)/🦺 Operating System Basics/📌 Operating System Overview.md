@@ -4,10 +4,19 @@
 
 
 
-## OS Intro
+## Res
+### Related Topics
+
+
+
+## Intro: Operating Systems
 The operating system itself is little more than an ordinary piece of software. It differs from most other software in that it is loaded by booting the computer and is then executed directly by the processor. 
 
 The operating system must have control of the processor (as well as other resources), because one of its many tasks is scheduling the processes that use the CPU. It relinquishes control of the CPU to various application programs during the course of their execution. The operating system is dependent on the processor to regain control when the application either no longer requires the CPU or gives up the CPU as it waits for other resources.
+
+![](../../../../../Assets/Pics/Screenshot%202024-03-28%20at%2010.47.12%20AM.png)
+<small><a>https://en.wikipedia.org/wiki/Operating_system#External_links</a></small>
+
 
 ### Development (History) of OS
 ↗ [Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
@@ -34,20 +43,16 @@ The operating system achieves both goals via the fundamental abstractions shown 
 - processes are abstractions for the processor, main memory, and I/O devices.
 
 ![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%209.33.22PM.png)
-
 #### 1️⃣ Processes
 ↗ [Processes Management (CPU + Main Memory Resource)](../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
-
 #### 2️⃣ Virtual Memory Space
 ↗ [Primary Storage (Main Memory) Technologies & RAM](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 ↗ [Virtual Memory Space & Address Space](../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20Space%20&%20Address%20Space.md)
-
 #### 3️⃣ Files
-↗ [Network Sockets & RPC](../IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
+↗ [Network Sockets](../IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
 ↗ [File & File System](../IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 
 ↗ [IO Generality (via Abstraction)](../IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
-
 #### 4️⃣ Virtual Machine
 The idea of a virtual machine was introduced by IBM in the 1960s, but it has become more prominent recently as a way to manage computers that must be able to run programs designed for multiple operating systems (such as Microsoft Windows, Mac OS X, and Linux) or different versions of the same operating system.
 
@@ -56,6 +61,9 @@ The idea of a virtual machine was introduced by IBM in the 1960s, but it has bec
 
 
 ## Morden Operating Systems
+> ↗ [Operating System (Engineering)](../../../🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
+
+
 ### 👉 Windows
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 

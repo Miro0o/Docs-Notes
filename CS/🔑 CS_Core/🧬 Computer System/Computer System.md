@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
+↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 
 ↗ [Programming Methodology and Languages](../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
@@ -38,7 +38,7 @@ Computer Crash Course
 
 1. Pre Computer System..
 	1. 🚪 Introduction to Computer Science
-		1. 🔗 [Intro to CS](../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
+		1. 🔗 [Intro to Computer Science](../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 		2. [Sophomore College The Intellectual Excitement of Computer Science](https://cs.stanford.edu/people/eroberts/courses/soco/)
 	2. 🧮 Math
 		1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)

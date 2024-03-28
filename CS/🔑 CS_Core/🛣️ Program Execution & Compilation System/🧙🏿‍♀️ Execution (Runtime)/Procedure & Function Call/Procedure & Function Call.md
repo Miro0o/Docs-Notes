@@ -11,9 +11,9 @@
 ↗ [Stack](../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue%20&%20Stack/Stack.md)
 ↗ [Virtual Memory Space & Address Space](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20Space%20&%20Address%20Space.md)
 
-↗ [Network Sockets & RPC](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
+↗ [Network Sockets](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
 ↗ [Network Programming & RPC](../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-↗ [Internal Sockets & LPC](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets%20&%20LPC/Internal%20Sockets%20&%20LPC.md)
+↗ [Internal Sockets](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Internal%20Sockets.md)
 
 ↗ [System Calls](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls.md)
 ↗ [System Core Function Libraries & C Standard Library](../../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
@@ -28,7 +28,7 @@
 
 
 ## 🎯 Local Procedure Call
-> ↗ [Internal Sockets & LPC](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets%20&%20LPC/Internal%20Sockets%20&%20LPC.md)
+> ↗ [Internal Sockets](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Internal%20Sockets.md)
 
 
 ### Local Process Calls Another Local Process
@@ -42,9 +42,9 @@
 
 
 ## 🎯 Remote Procedure Call
-> ↗ [Network Sockets & RPC](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
+> ↗ [Network Sockets](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
 > ↗ [Network Programming & RPC](../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-> ↗ [SE /Middleware /Remote Procedure Call (RPC)](../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Remote%20Procedure%20Call%20(RPC)/Remote%20Procedure%20Call%20(RPC).md)
+> ↗ [SE /Middleware /Remote Procedure Call (RPC)](../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/RPC%20Services/RPC%20Services.md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [File Systems & Operating Systems](📌%20File%20&%20File%20System%20Basics/File%20Systems%20&%20Operating%20Systems.md)
+↗ [File Systems & Operating Systems](🎯%20File%20Systems/File%20Systems%20&%20Operating%20Systems.md)
 
 ↗ [Linux IO & Files Management](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/Linux%20IO%20&%20Files%20Management.md)
 ↗ [Text & File & Dir Management Basics](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
@@ -106,20 +106,20 @@ Users and applications wish to make use of files. Typical operations that must b
 
 Another way of viewing the functions of a file system is shown above. Let us follow this diagram from left to right. 
 #### 1️⃣ File Management Systems (User Level Concerns)
+> ↗ [File Management (User Level)](File%20Management%20(User%20Level)/File%20Management%20(User%20Level).md)
+
 1. Users and application programs **interact** with the file system by means of commands for creating and deleting files and for performing operations on files. 
 2. Before performing any operation, the file system must identify and **locate the selected file**. This requires the use of some sort of **directory** that serves to describe the location of all files, plus their attributes.
 3. In addition, most shared systems enforce user **access control**: Only authorized users are allowed to access particular files in particular ways. 
 4. The basic operations that a user or an application may perform on a file are **performed at the record level**. The user or application views the file as having some structure that organizes the records, such as a sequential structure (e.g., personnel records are stored alphabetically by last name). Thus, to translate user commands into specific file manipulation commands, the **access method** appropriate to this file structure must be employed.
-
-↗ [File Management (User Level)](File%20Management%20(User%20Level)/File%20Management%20(User%20Level).md)
 #### 2️⃣ (Secondary) Storage Management Systems (OS Level Concerns)
+> ↗ [Secondary Storage Management (OS Level)](Secondary%20Storage%20Management%20(OS%20Level)/Secondary%20Storage%20Management%20(OS%20Level).md)
+
 Whereas users and applications are concerned with records or fields, I/O is done on a **block basis**. 
 1. Thus, the records or fields of a file must be organized as a sequence of blocks for output and unblocked after input. To support block I/O of files, several functions are needed. The secondary storage must be managed. 
 	1. This involves allocating files to free blocks on secondary storage and managing free storage so as to know what blocks are available for new files and growth in existing files.
 2. In addition, individual block I/O requests must be **scheduled**; this issue was dealt with in Chapter 11. Both disk scheduling and file allocation are concerned with optimizing performance. As might be expected, these functions therefore need to be considered together. 
 3. Furthermore, the optimization will depend on the **structure of the files** and the **access patterns**. Accordingly, developing an optimum file management system from the point of view of performance is an exceedingly complicated task.
-
-↗ [Secondary Storage Management (OS Level)](Secondary%20Storage%20Management%20(OS%20Level)/Secondary%20Storage%20Management%20(OS%20Level).md)
 
 
 ### Aspects of File Systems 
@@ -127,8 +127,8 @@ Whereas users and applications are concerned with records or fields, I/O is done
 
 
 ## 🎯 Types of File Systems
-↗ [File System Taxonomy](📌%20File%20&%20File%20System%20Basics/File%20System%20Taxonomy.md)
-↗ [File Systems & Operating Systems](📌%20File%20&%20File%20System%20Basics/File%20Systems%20&%20Operating%20Systems.md)
+↗ [File System Taxonomy](🎯%20File%20Systems/File%20System%20Taxonomy.md)
+↗ [File Systems & Operating Systems](🎯%20File%20Systems/File%20Systems%20&%20Operating%20Systems.md)
 
 
 

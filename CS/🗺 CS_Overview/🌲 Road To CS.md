@@ -87,7 +87,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ### 1️⃣ CS Quick Intro /Foundations
 #### Quick CS Intro
-↗ [Intro to CS](💋%20Intro%20to%20CS/Intro%20to%20CS.md)
+↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 #### 🥵 CS Core /Foundation
 This is hard but foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 

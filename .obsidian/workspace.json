@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "cd29d9488097652a",
+            "id": "0bf8291a2c0e198a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Computer Bus (Datapath).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c615451c5522cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "020a60744601a62f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/Expansion Slot (Internal Bus).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -139,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md"
               }
             }
           },
@@ -223,54 +198,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c615451c5522cf6",
+  "active": "0bf8291a2c0e198a",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Second-Stage Boot Loader/Second-Stage Boot Loader.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/EFI & UEFI (Unified Extensible Firmware Interface)/UEFI (Unified Extensible Firmware Interface).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Linux Distros/Arch Linux/Arch Linux.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/File Transferring/TFTP (Trivial File Transfer Protocol).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/Bootstrap (Boot) & Bootloader.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/First-Stage Boot Loader.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/coreboot (Formally LinuxBIOS)/coreboot (Formally LinuxBIOS).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/BIOS (Basic IO System)/BIOS (Basic IO System).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware/🌽 Bootstrap (Boot) & Bootloader/First-Stage Boot Loader/FDT&DT/FDT&DT.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reverse & Binary Analysis Tools/🧭 Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/CodeQL.md",
-    "CS/Software Engineering/☁️ Cloud Native/🧘🏻 Dev(Sec)Ops (Application Level Engineering)/🔃 CI & CD Workflow/github actions.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/System Bus/SMBus (System Management Bus).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/📌 Bus Specifications & Communication Control Systems/IIC (Inter-IC, I2C) & IIC Specification.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/System Bus/PMBus.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Computer Bus (Datapath).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/Network-Attached Storage (NAS).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/AFS (Andrew File System) & OpenAFS/AFS (Andrew File System) & OpenAFS.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/9P/9P.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/SMB (Server Message Block) & CIFS/SMB (Server Message Block) & CIFS.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/Apache Hadoop.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Large Data Computing Platforms.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/MapReduce/MapReduce.md",
+    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/Yarn/Yarn.md",
+    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/File Systems.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NCP (NetWare Core Protocol)/NCP (NetWare Core Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NFS (Network File System)/NFS (Network File System).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Disk and Non-rotating File Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Optic Disk File Systems/Optic Disk File Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/Flash Memory & SSD File Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Flash Memory.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/📌 macOS Kernel/macOS IO & Files Management/macOS IO & Files Management.md",
+    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Storage Devices/Storage Devices.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))/TFAT (Transaction-Safe FAT File System) & TexFAT (Transaction-Safe Extended FAT File System).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)/EROFS (Enhanced Read-Only File System).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)/JFS (Journaled File System).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT/FAT (File Allocation Table) & exFAT.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/APFS",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Optic Disk File Systems",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/Google File System",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NFS (Network File System)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NCP (NetWare Core Protocol)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
+    "Assets/Pics/Screenshot 2024-03-28 at 10.47.12 AM.png",
+    "Assets/Pics/Screenshot 2024-03-28 at 10.42.33 AM.png",
     "Assets/Pics/Pasted image 20240327203351.png",
     "Assets/Pics/Pasted image 20240327203333.png",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Computer Bus (Datapath).md",
     "Assets/Pics/Pasted image 20240327200246.png",
     "Assets/Pics/Pasted image 20240327200211.png",
     "Assets/Pics/Pasted image 20240327195901.png",
     "Assets/Pics/Pasted image 20240327195814.png",
     "Assets/Pics/Pasted image 20240327195618.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Disk Interfaces.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Controllers/Controllers.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Adapter Cards (Expansion Cards)/Adapter Cards (Expansion Cards).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/Expansion Slot (Internal Bus).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Components.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares (Processors)/Configurable Processors (PLDs, Programmable Logic Devices)/FPGA (Field Programmable Gates Arrays).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Ports (External Bus)/Expansion Ports (External Bus).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/📌 Bus Specifications & Communication Control Systems/Bus Specifications & Communication Control Systems.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/📌 Bus Specifications & Communication Control Systems",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/📌 Electronics & Appliances",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Software Providers/Internet Companies",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Software Providers/System Level Software Providers",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Software Providers",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/📌 Electronics & Appliances/Human-Computer Interaction Devices",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/📌 Electronics & Appliances/Graphical & Vocal Devices",
-    "CS/🔑 CS_Core/Electronic & Information Business Fields Research/Hardware Manufacturers/End Hosts",
     "Assets/Pics/Pasted image 20240326234439.png",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cyber Threat Intelligence (CTI)",
-    "Assets/Pics/Pasted image 20240324141945.png",
-    "Assets/Pics/Screenshot 2024-03-22 at 1.30.46 PM.png",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

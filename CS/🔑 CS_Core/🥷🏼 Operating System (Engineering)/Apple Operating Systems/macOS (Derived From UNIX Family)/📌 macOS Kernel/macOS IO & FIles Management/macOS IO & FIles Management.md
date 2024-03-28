@@ -1,4 +1,4 @@
-# macOS IO & FIles Management
+# macOS IO & Files Management
 
 [TOC]
 

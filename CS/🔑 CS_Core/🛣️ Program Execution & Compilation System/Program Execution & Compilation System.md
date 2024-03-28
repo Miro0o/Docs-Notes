@@ -16,7 +16,7 @@
 
 ### Learning Resources
 📖 CSAPP: Computer System: A Programmer's Perspective
-↗ [Intro to CS](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
+↗ [Intro to Computer Science](../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 📖 程序员的自我修养：编译，链接，库
 
@@ -43,8 +43,8 @@ However, there are some important reasons why programmers need to understand how
 <small>A examplary illustration of the compilation, linking, loading & execution process</small>
 
 ### 0️⃣ Information, Encoding, Computer/Digital System Data Representations & Computer File Formats
-↗ [Data Representations & Storage in CS](../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
-↗ [Encodings](../../🗺%20CS_Overview/💋%20Intro%20to%20CS/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
+↗ [Data Representations & Storage in CS](../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
+↗ [Encodings](../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 ↗ [Reliable Data Transfer (RDT)](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 ↗ [Information Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)

@@ -20,7 +20,7 @@
 🎬【计算机组成原理（哈工大刘宏伟）135讲（全）高清】 https://www.bilibili.com/video/BV1t4411e7LH/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
-🏫 [Intro to CS (CSAPP)](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Intro%20to%20CS.md)
+🏫 [Intro to CS (CSAPP)](../../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🏠%20Assets/Universities/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
 🏫 [ETH - Digital Design and Computer Architecture](../../../🏠%20Assets/Universities/ETH/Digital%20Design%20and%20Computer%20Architecture/Digital%20Design%20and%20Computer%20Architecture.md)
@@ -95,7 +95,7 @@ To control computer processors in a programmable way, knowledge about assembly l
 
 
 ### ⭐ Importance Themes In Computer Systems
-↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS_Overview/💋%20Intro%20to%20CS/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
+↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
 #### 👉 Concurrency & Parallelism
 ↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Multiprocessors%20and%20Multicore%20Processors/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 #### 👉 Abstraction & Encapsulation

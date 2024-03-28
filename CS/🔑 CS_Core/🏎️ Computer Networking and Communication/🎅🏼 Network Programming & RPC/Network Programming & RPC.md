@@ -6,12 +6,14 @@
 
 ## Res
 ### Related Topics
-RPC is an implementation of ↗ [IPC (Inter Process Communication)](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
-↗ [Berkeley Sockets & POSIX Sockets & BSD Sockets](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Berkeley%20Sockets%20&%20POSIX%20Sockets%20&%20BSD%20Sockets.md)
-↗ [Network Sockets & RPC](../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
+↗ [System Level Programming](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 
-↗ [SE / Middleware /RPC](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Remote%20Procedure%20Call%20(RPC)/Remote%20Procedure%20Call%20(RPC).md)
-↗ [Cloud Native /RPC](../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/Remote%20Procedure%20Call%20(RPC)/Remote%20Procedure%20Call%20(RPC).md)
+RPC is an implementation of ↗ [IPC (Inter Process Communication)](../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
+↗ [Network Sockets](../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
+↗ [Remote Procedure Call (RPC)](../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
+
+↗ [SE / Middleware /RPC](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/RPC%20Services/RPC%20Services.md)
+↗ [Cloud Native /RPC](../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
 
 
 
@@ -20,7 +22,7 @@ RPC is an implementation of ↗ [IPC (Inter Process Communication)](../../🧬%2
 
 
 ## RPC (Remote Procedure Call)
-↗ [Network Sockets & RPC](../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Network%20Sockets%20&%20RPC.md)
+↗ [Network Sockets](../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
 
 
 
