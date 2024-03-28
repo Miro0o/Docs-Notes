@@ -1,4 +1,4 @@
-# Operating System
+# Operating System (Theory)
 
 [TOC]
 
@@ -54,7 +54,7 @@ https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 
 ## Intro
-### Computer System Overview
+### Computer System Review
 ![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
 <small>Computer System Overveiw</small>
 

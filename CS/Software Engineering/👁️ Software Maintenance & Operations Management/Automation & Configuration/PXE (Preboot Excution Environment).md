@@ -10,6 +10,8 @@
 
 
 ### Related Topics
+↗ [TFTP (Trivial File Transfer Protocol)](../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/File%20Transferring/TFTP%20(Trivial%20File%20Transfer%20Protocol).md)
+↗ [DHCP](../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DHCP.md)
 
 
 

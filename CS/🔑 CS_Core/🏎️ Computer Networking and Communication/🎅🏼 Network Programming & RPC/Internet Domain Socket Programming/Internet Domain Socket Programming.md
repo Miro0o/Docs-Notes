@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Sockets](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Sockets.md)
-↗ [Internet Domain Socket](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets%20&%20RPC/Internet%20Domain%20Socket.md)
+↗ [Internet Domain Socket](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Internet%20Domain%20Socket.md)
 
 
 
