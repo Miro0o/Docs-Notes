@@ -8,6 +8,10 @@
 ### Related Topics
 
 
+### Other Resources
+📄 https://en.wikipedia.org/wiki/Operating_system
+
+
 
 ## Intro: Operating Systems
 The operating system itself is little more than an ordinary piece of software. It differs from most other software in that it is loaded by booting the computer and is then executed directly by the processor. 
@@ -101,3 +105,5 @@ Android is noted here ↗ [Android Architecture](../../../🥷🏼%20Operating%2
 ## Ref
 [History of UNIX]: https://en.wikipedia.org/wiki/History_of_Unix
 [操作系统原理——第2章 操作系统概述]: https://blog.csdn.net/tangkcc/article/details/114852154
+
+[Operating system | wikipedia]: https://en.wikipedia.org/wiki/Operating_system#External_links

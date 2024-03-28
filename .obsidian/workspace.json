@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba0006637174f15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NCP (NetWare Core Protocol)/NCP (NetWare Core Protocol).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73c13ff4dc57945f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/Firmware and Booting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -114,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/Firmware and Booting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/Firmware and Booting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/Firmware and Booting.md"
               }
             }
           },
@@ -198,45 +223,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bf8291a2c0e198a",
+  "active": "73c13ff4dc57945f",
   "lastOpenFiles": [
+    "Assets/Pics/Screenshot 2024-03-28 at 11.57.52 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network Application Communication Architectures.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/CDN (Contend Delivery Network).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DHCP (Dynamic Host Configuration Protocol)/DHCP (Dynamic Host Configuration Protocol).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DHCP (Dynamic Host Configuration Protocol)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/🌉 Internal Sockets/Local Procedure Call (LPC).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Remote Procedure Call (RPC).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/RPC Frameworks/ONC RPC (Sun RPC).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/Operating System (Theory).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/Operating System Services.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/File Systems Implementations.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/File System Taxonomy.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/File Systems & Operating Systems.md",
+    "CS/System Architecture Design/🌌 Distributed Systems/Distributed Storaging/Distributed File System (Network File Systems)/Distributed File System (Network File Systems).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Disk and Non-rotating File Systems.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Specialized File Systems/Specialized File Systems.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NCP (NetWare Core Protocol)/NCP (NetWare Core Protocol).md",
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath)/Computer Bus (Datapath).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/Network-Attached Storage (NAS).md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/AFS (Andrew File System) & OpenAFS/AFS (Andrew File System) & OpenAFS.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/9P/9P.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/SMB (Server Message Block) & CIFS/SMB (Server Message Block) & CIFS.md",
     "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/Apache Hadoop.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Large Data Computing Platforms.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/MapReduce/MapReduce.md",
-    "CS/Data Science/🧯 Large Data Computing Platforms/Apache Hadoop/Yarn/Yarn.md",
-    "CS/🔑 CS_Core/🍕 Database System/Database System.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/File Systems.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NCP (NetWare Core Protocol)/NCP (NetWare Core Protocol).md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NFS (Network File System)/NFS (Network File System).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Disk and Non-rotating File Systems.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Optic Disk File Systems/Optic Disk File Systems.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/Flash Memory & SSD File Systems.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory/Secondary (Auxiliary) Storage Technology/Flash Memory.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/📌 macOS Kernel/macOS IO & Files Management/macOS IO & Files Management.md",
-    "CS/🔑 CS_Core/Auxiliary Hardware & Peripherals/Storage Devices/Storage Devices.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))/TFAT (Transaction-Safe FAT File System) & TexFAT (Transaction-Safe Extended FAT File System).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)/EROFS (Enhanced Read-Only File System).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)/JFS (Journaled File System).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT/FAT (File Allocation Table) & exFAT.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/APFS",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems",
-    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Optic Disk File Systems",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Optic Disk File Systems",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/Google File System",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NFS (Network File System)",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NCP (NetWare Core Protocol)",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
     "Assets/Pics/Screenshot 2024-03-28 at 10.47.12 AM.png",
     "Assets/Pics/Screenshot 2024-03-28 at 10.42.33 AM.png",

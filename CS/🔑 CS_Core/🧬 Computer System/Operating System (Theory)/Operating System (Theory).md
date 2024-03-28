@@ -51,6 +51,8 @@ https://pages.cs.wisc.edu/~remzi/OSTEP/
 [Central Processing Unit (CPU)](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:computer-components/a/central-processing-unit-cpu)
 [Organization of Computer Systems: §4: Processors](https://www.cise.ufl.edu/~mssz/CompOrg/CDA-proc.html)
 
+📄 https://en.wikipedia.org/wiki/Operating_system
+
 
 
 ## Intro

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [File Systems](../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems/File%20Systems.md)
+↗ [File Systems Implementations](../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
 ↗ [Network-Attached Storage (NAS)](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Network-Attached%20Storage%20(NAS)/Network-Attached%20Storage%20(NAS).md)
 ↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
