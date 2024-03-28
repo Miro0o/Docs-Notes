@@ -20,7 +20,7 @@ All machine instructions are input into a special program, the microprogram, tha
 
 A microcode microinstruction is retrieved during each clock cycle. The particular instruction retrieved is a function of the current state of the machine and the value of the microsequencer, which is somewhat like a program counter that selects the next instruction from the control store.
 
-↗ [Firmware](../../../../../../Firmware/Firmware.md)
+↗ [Firmware and Booting](../../../../../../Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 
 
 

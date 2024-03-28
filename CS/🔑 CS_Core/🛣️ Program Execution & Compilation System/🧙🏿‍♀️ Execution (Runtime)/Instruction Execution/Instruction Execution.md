@@ -66,8 +66,8 @@ Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Si
 
 
 🔬 **Microcode (Firmware Level)**
-↗ [Firmware](../../../🧬%20Computer%20System/Firmware/Firmware.md)
-↗ [Microcode](../../../🧬%20Computer%20System/Firmware/Microcode/Microcode.md)
+↗ [Firmware and Booting](../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
+↗ [Microcode](../../../🧬%20Computer%20System/Firmware%20and%20Booting/Microcode/Microcode.md)
 
 
 ⚡️ **Control Signals**

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [File Systems](../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems/File%20Systems.md)
+↗ [File Systems Implementations](../../../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
 ↗ [Distributed File System (Network File Systems)](../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
 
 ↗ [Large Data Computing Platforms](../../../../../Data%20Science/🧯%20Large%20Data%20Computing%20Platforms/Large%20Data%20Computing%20Platforms.md)

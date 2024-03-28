@@ -1,13 +1,21 @@
-# Firmware
+# Firmware and Booting
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
 
 
-## Intro
+
+## Overview: Firmware and Booting
+![](../../../../Assets/Pics/Screenshot%202024-03-28%20at%2011.57.52%20PM.png)
+<small>todo</small>
+
+
+
+## Intro: Firmware
 In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **firmware** is a specific class of computer software that provides the low-level control for a device's specific hardware. 
 
 Firmware, such as the [BIOS](https://en.wikipedia.org/wiki/BIOS "BIOS") of a personal computer, may contain basic functions of a device, and may provide [hardware abstraction](https://en.wikipedia.org/wiki/Hardware_abstraction "Hardware abstraction") services to higher-level software such as operating systems. For less complex devices, firmware may act as the device's complete operating system, performing all control, monitoring and data manipulation functions. Typical examples of devices containing firmware are embedded systems (running embedded software), home and personal-use appliances, computers, and [computer peripherals](https://en.wikipedia.org/wiki/Computer_peripheral "Computer peripheral").
@@ -17,16 +25,10 @@ Firmware is held in [non-volatile memory](https://en.wikipedia.org/wiki/Non-vol
 
 ### Firmware Applications
 #### 1️⃣ Computer
-
-
 #### 2️⃣ Home & Personal-Use Products
 As of 2010, most [portable music players](https://en.wikipedia.org/wiki/Portable_music_player "Portable music player") support firmware upgrades. Some companies use firmware updates to add new playable file formats ([codecs](https://en.wikipedia.org/wiki/Codecs "Codecs")). Other features that may change with firmware updates include the GUI or even the battery life. Most [mobile phones](https://en.wikipedia.org/wiki/Mobile_phone "Mobile phone") have a [firmware over the air](https://en.wikipedia.org/wiki/Firmware_over_the_air "Firmware over the air") firmware upgrade capability for much the same reasons; some may even be upgraded to enhance reception or sound quality.
-
-
 #### 3️⃣ Automobiles
 Since 1996, most [automobiles](https://en.wikipedia.org/wiki/Automobile "Automobile") have employed an on-board computer and various sensors to detect mechanical problems. As of 2010, modern vehicles also employ computer-controlled [anti-lock braking systems](https://en.wikipedia.org/wiki/Anti-lock_braking_system "Anti-lock braking system") (ABS) and computer-operated [transmission control units](https://en.wikipedia.org/wiki/Transmission_control_unit "Transmission control unit") (TCUs). The driver can also get in-dash information while driving in this manner, such as real-time fuel economy and tire pressure readings. Local dealers can update most vehicle firmware.
-
-
 #### 4️⃣ Other Examples
 Other firmware applications include:
 - In home and personal-use products:
@@ -50,7 +52,10 @@ Other firmware applications include:
 
 
 ### Firmware Hacking
-#TODO 
+
+
+
+## Intro: Booting
 
 
 
