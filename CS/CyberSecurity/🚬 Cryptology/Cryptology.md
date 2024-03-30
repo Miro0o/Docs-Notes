@@ -107,12 +107,11 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 ### ⭐️ History of Information & Communication Systems | Secure Communication (保密通讯)
 
 ↗ [History of Information Systems & Security Systems](../History%20of%20Information%20Systems%20&%20Security%20Systems.md)
-
 ↗ [Secure Communication & Cryptosystems](Secure%20Communication%20&%20Cryptosystems.md)
 
 
 ### Cryptology Application
-s
+
 
 
 ## Ref

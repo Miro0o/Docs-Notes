@@ -19,7 +19,6 @@
 #### Courses
 🎬【计算机组成原理（哈工大刘宏伟）135讲（全）高清】 https://www.bilibili.com/video/BV1t4411e7LH/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-
 🏫 [Intro to CS (CSAPP)](../../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🏠%20Assets/Universities/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
@@ -50,12 +49,16 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 📖 csapp
 📖 Computer Organization and Design
 
-微型计算机系统原理及应用 第六版 周明德
+📖 微型计算机系统原理及应用 第六版 周明德
 
-王爽的《汇编语言》
-林立的《单片机原理及应用――基于Proteus和Keil C（第4版）》
-《手把手教你学DSP 基于TMS320F28335的应用开发及实战 微课视频版》
-李正军的《计算机控制系统》
+📖 王爽《汇编语言》
+📖 林立《单片机原理及应用――基于Proteus和Keil C（第4版）》
+📖《手把手教你学DSP 基于TMS320F28335的应用开发及实战 微课视频版》
+📖 李正军的《计算机控制系统》
+
+📖《x86汇编语言：从实模式到保护模式》李忠、王小波、余洁
+📖《x86/x64体系探索与编程》邓志
+📖《一个64位操作系统的设计与实现》田宇
 #### Other Materials
 📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 📄 https://foxsen.github.io/archbase/
@@ -69,7 +72,7 @@ Its intended audience is everyone from performance engineers and practical algor
 
 
 ### Other Resources
-https://www.pcmag.com
+
 
 
 
@@ -92,6 +95,8 @@ Computer Processors strongly relate to **microarchitectures** and **ISA**. Hence
 To control computer processors in a programmable way, knowledge about assembly languages is also expected. 
 
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [Computer Interfaces](../Computer%20Interfaces/Computer%20Interfaces.md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
 
 ### ⭐ Importance Themes In Computer Systems
@@ -106,9 +111,9 @@ To control computer processors in a programmable way, knowledge about assembly l
 
 
 ## Computer Architecture/ISA 🆚 Computer Microarchitecture (Computer Organization)
-
 ![](../../../../Assets/Pics/Pasted%20image%2020240222191459.png)
 <small>Image source from "Computer Architecture - A Quantitative Approach 5" by John L. Hennessy, David A. Patterson (《计算机体系结构：量化研究方法 第 5 版》)</small>
+
 
 ### Microarchitecture/ Computer Organization
 > Q: What is microarchtecture?

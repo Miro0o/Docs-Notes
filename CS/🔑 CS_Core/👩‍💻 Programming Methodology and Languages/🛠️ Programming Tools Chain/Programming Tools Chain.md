@@ -50,8 +50,8 @@ or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineerin
 
 
 More...
-↗ [Binary Engineering & Software Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
-↗ [Reverse & Binary Analysis Tools](../../../CyberSecurity/☠️%20Kill%20Chain/Reverse%20&%20Binary%20Analysis%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Binary Engineering & Software Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+↗ [Reverse & Binary Analysis Tools](../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/📌%20Reverse%20&%20Binary%20Analysis%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 
 
 

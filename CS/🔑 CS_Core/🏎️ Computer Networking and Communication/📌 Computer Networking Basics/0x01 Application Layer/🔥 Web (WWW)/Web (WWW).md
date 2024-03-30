@@ -8,8 +8,8 @@
 ### Web Security
 ↗ [Pentesting](../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen↗ testing/Pentesting.md)
 ↗ [Network Security](../../../../../CyberSecurity/Network%20Security/Network%20Security.md)
-↗ [CTF /Web](../../../../../CyberSecurity/🥇%20Best%20Practice/CTF/Web/Web.md)
-↗ [Network Traffic Analysis](../../../../../CyberSecurity/🥇%20Best%20Practice/Forensics/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
+↗ [CTF /Web](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)
+↗ [Network Traffic Analysis](../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
 
 
 ### Web Development

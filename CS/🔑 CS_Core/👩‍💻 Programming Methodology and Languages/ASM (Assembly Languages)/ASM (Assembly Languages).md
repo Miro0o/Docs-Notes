@@ -6,18 +6,24 @@
 
 ## Res
 ### Related Topics
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 ↗ [CPU (Central Processing Unit)](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Register](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 
-↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-
 ↗ [Instruction Execution](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+
+↗ [Program Debuggers](../🐛%20Programming%20Tools%20Chain/Program%20Debuggers.md)
+↗ [Cybersecurity - Malicious Code Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+↗ [CTF - RE&BE](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/RE%20&%20BE/RE%20&%20BE.md)
+↗ [Cybersecurity - Reverse Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 
 
 ### Where to learn ...
 🏫 [Compilation Principles](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time)/Program%20Language%20Translation%20(Compile-time).md)
 📖 [汇编语言]: "王爽"
 📖 C++反汇编与逆向分析技术揭秘，钱林松，张延清
+
+📖《x86汇编语言：从实模式到保护模式》李忠、王小波、余洁
 
 [阮一峰 一笔而过的入门介绍](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 - [Introduction to reverse engineering and Assembly](https://kakaroto.homelinux.net/2017/11/introduction-to-reverse-engineering-and-assembly/)
@@ -31,17 +37,6 @@
 [Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
 #### Tutorials
 [Welcome to x86asm.net](http://x86asm.net/index.html)
-
-
-### Learn it by doing it!
-#### Tools 
-↗ [Program Debuggers](../🐛%20Programming%20Tools%20Chain/Program%20Debuggers.md)
-#### Projs
-↗ [Cybersecurity - Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
-
-↗ [CTF - RE&BE](../../../CyberSecurity/🥇%20Best%20Practice/CTF/RE%20&%20BE/RE%20&%20BE.md)
-
-↗ [Cybersecurity - Reverse Engineering](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 
 
 

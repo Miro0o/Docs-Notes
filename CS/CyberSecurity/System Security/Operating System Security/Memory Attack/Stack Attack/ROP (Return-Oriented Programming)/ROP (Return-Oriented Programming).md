@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Reverse & Binary Analysis Tools](../../../../../☠️%20Kill%20Chain/Reverse%20&%20Binary%20Analysis%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Reverse & Binary Analysis Tools](../../../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/📌%20Reverse%20&%20Binary%20Analysis%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 
 
 
