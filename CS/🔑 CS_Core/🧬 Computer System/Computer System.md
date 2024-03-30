@@ -23,6 +23,9 @@ Computer Crash Course
 🚧 https://github.com/1c7/crash-course-computer-science-chinese
 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 367.3万
 
+🔥 👍 从裸机启动开始运行一个C++程序
+http://t.csdnimg.cn/fpEXy
+
 
 
 ## Intro

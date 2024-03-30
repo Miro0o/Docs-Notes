@@ -5,7 +5,8 @@
 
 
 ## Res
-↗ [Vulnerability](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability.md)
+### Related Topics
+↗ [Software Vulnerability](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Vulnerability/Software%20Vulnerability.md)
 
 
 

@@ -165,8 +165,7 @@ This is hard but foundational. However, you can learn these knowledges in parall
 https://www.chaspark.com/#/home
 
 ---
-
-https://au.pcmag.com
+https://www.pcmag.com
 
 
 ### CS Course /Training Channels
@@ -474,6 +473,10 @@ https://www.paulfioravanti.com/blog/thanks-past-me/
 http://kimiyoung.github.io
 I am a cofounder of Recurrent AI and an assistant professor of Tsinghua University.
 我的名字是杨植麟。
+
+---
+https://www.cnblogs.com/xiaozi
+一个网络安全爱好者，对技术有着偏执狂一样的追求。
 
 
 ### Communities & Forums

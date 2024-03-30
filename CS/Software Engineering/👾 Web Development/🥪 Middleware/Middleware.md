@@ -11,8 +11,8 @@
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
 ↗ [Software Maintenance & Operations Management](../../👁️%20Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
-↗ [Web Security Middleware & Frameworks](../../../CyberSecurity/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Web%20Security%20Middleware%20&%20Frameworks/Web%20Security%20Middleware%20&%20Frameworks.md)
-↗ [WAF (Web Application Firewall) (Web IPS)](../../../CyberSecurity/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IPS%20(Intrusion%20Prevention%20Systems)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS).md)
+↗ [Web Security Middleware & Frameworks](../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Web%20Security%20Middleware%20&%20Frameworks/Web%20Security%20Middleware%20&%20Frameworks.md)
+↗ [WAF (Web Application Firewall) (Web IPS)](../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IPS%20(Intrusion%20Prevention%20Systems)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS).md)
 
 ↗ [MiddleBoxes](../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/MiddleBoxes/MiddleBoxes.md)
 

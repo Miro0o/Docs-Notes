@@ -101,7 +101,7 @@ Shell在逐行分析内容时，遇到“\n”，认为是一行内容结束。�
 
 
 ### 📚 More Encoding Methods?
-More of this part is included in ↗️ [CTF /Crypto](../../../CyberSecurity/🥇%20Best%20Practice/CTF/Crypto/Crypto.md)
+More of this part is included in ↗️ [CTF /Crypto](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Crypto/Crypto.md)
 
 
 

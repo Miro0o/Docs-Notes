@@ -8,16 +8,23 @@
 ### Related Topics
 ↗ [Computer Networking and Communication](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
+↗ [Protocol & Policy Security](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
+↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
+↗ [Network & Web Security Products](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Network%20&%20Web%20Security%20Products.md)
+
+↗ [Network Penetration (Pen-testing)](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+↗ [Pen-testing Tools](../☠️%20Kill%20Chain/Pen-testing%20Tools/Pen-testing%20Tools.md)
+
 
 ### Learn it by doing it!
-💉 [Network Penetration (Pen-testing)](../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-⚔️ [Red Team & Blue Team](../🥇%20Best%20Practice/Red%20Team%20&%20Blue%20Team/Red%20Team%20&%20Blue%20Team.md)
+💉 [Network Penetration (Pen-testing)](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+⚔️ [Red Team & Blue Team](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Red%20Team%20&%20Blue%20Team/Red%20Team%20&%20Blue%20Team.md)
 
-🎏 [Network Traffic Analysis](../🥇%20Best%20Practice/Forensics/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
-↗ [CTF /Web](../🥇%20Best%20Practice/CTF/Web/Web.md)
+🎏 [Network Traffic Analysis](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Network%20Traffic%20Analysis/Network%20Traffic%20Analysis.md)
+↗ [CTF /Web](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)
 
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
-↗ [Comprehensive Defense Systems & Security Products](../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
+↗ [Comprehensive Defense Systems & Security Products](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
 
 
 🔥 https://github.com/qazbnm456/awesome-web-security
@@ -75,9 +82,9 @@ Recall the Security Tria:
 	- Authentication 
 	- Authorization
 ↗ [Networking Access Control](🏇%20Network%20Security%20Basics%20&%20Protocols/Networking%20Access%20Control/Networking%20Access%20Control.md)
-↗ [InfoSec /Access Control](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
+↗ [InfoSec /Access Control](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
-↗ [IDS (Intrusion Detection Systems)](../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
+↗ [IDS (Intrusion Detection Systems)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
 
 
 

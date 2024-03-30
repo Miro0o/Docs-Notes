@@ -9,13 +9,10 @@
 
 
 
-## Overview: Firmware and Booting
-![](../../../../Assets/Pics/Screenshot%202024-03-28%20at%2011.57.52%20PM.png)
-<small>todo</small>
-
-
-
 ## Intro: Firmware
+![](../../../../Assets/Pics/Screenshot%202024-03-28%20at%2011.57.52%20PM.png)
+<small><a>https://en.wikipedia.org/wiki/Preboot_Execution_Environment#External_links</a></small>
+
 In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **firmware** is a specific class of computer software that provides the low-level control for a device's specific hardware. 
 
 Firmware, such as the [BIOS](https://en.wikipedia.org/wiki/BIOS "BIOS") of a personal computer, may contain basic functions of a device, and may provide [hardware abstraction](https://en.wikipedia.org/wiki/Hardware_abstraction "Hardware abstraction") services to higher-level software such as operating systems. For less complex devices, firmware may act as the device's complete operating system, performing all control, monitoring and data manipulation functions. Typical examples of devices containing firmware are embedded systems (running embedded software), home and personal-use appliances, computers, and [computer peripherals](https://en.wikipedia.org/wiki/Computer_peripheral "Computer peripheral").

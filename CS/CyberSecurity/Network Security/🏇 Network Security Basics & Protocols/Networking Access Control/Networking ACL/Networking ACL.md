@@ -4,7 +4,7 @@
 
 
 
-> 🏃‍♂ Networking ACL is part of [Authentication Model/ACL](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/DAC%20(Discretionary%20Access%20Control)/ACL%20(Access%20Control%20List)%20Based%20AC%20Models/ACL%20(Access%20Control%20List).md).
+> 🏃‍♂ Networking ACL is part of [Authentication Model/ACL](../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/📌%20Access%20Control%20Models/DAC%20(Discretionary%20Access%20Control)/ACL%20(Access%20Control%20List)%20Based%20AC%20Models/ACL%20(Access%20Control%20List).md).
 
 ## Res
 【ACL技术-1-访问控制列表（基本原理）】 https://www.bilibili.com/video/BV1zy4y1t7Fj/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

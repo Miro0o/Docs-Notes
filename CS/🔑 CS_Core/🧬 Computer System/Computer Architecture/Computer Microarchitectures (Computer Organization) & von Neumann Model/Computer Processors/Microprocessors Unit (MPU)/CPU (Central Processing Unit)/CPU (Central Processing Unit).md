@@ -18,6 +18,16 @@
 ↗ [Semiconductor Industry & Companies](../../../../../../Electronic%20&%20Information%20Business%20Fields%20Research/Hardware%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
+### Learning Resources
+🔥 https://eater.net
+- [Build an 8-bit CPU from scratch](https://eater.net/8bit)
+	- 🎬 https://space.bilibili.com/3065282/#/channel/detail
+- [Build a 6502 computer](https://eater.net/6502)
+- [Learn how the Internet works](https://eater.net/inet)
+- [Let’s build a video card!](https://eater.net/vga)
+- [Learn about error detection](https://eater.net/crc)
+
+
 
 ## Overview
 The central processing unit (CPU), or simply processor, is the engine that interprets (or executes) instructions stored in main memory. At its core is a word-size storage device (or register) called the program counter (PC). At any point in time, the PC points at (contains the address of) some machine-language instruction in main memory.2
@@ -153,3 +163,7 @@ It is important to note that the architecture of a machine has a large effect on
 The purpose of this article is to explain how to make a CPU out of rocks and sand as fast as possible without using too many words.  As the world of proprietary hardware and software crushes in around us, we risk losing the ability to make things for ourselves as individuals.  It is for this reason that I felt compelled to learn how one could hypothetically make their own integrated circuits by themself.  Skip to the end of this article for a few more words on this subject and a disclaimer.
 
 [中央处理器(CPU)制造商 | baidu]: https://baike.baidu.com/item/中央处理器%28CPU%29制造商/1690497
+
+[如何动手做出一个 CPU，很简单]: https://mp.weixin.qq.com/s/6WnxSF5QfVZ9pdcofYPKhg
+
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240329161411.png)

@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Software Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
-↗ [Vulnerability](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability.md)
-↗ [Malicious Code Analysis](../../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+↗ [Software Vulnerability](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Vulnerability/Software%20Vulnerability.md)
+↗ [Malicious Code Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
 

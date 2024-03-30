@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Active Recon](../../../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Active%20Recon.md)
-↗ [Hosts(IP) & Network Enumeration](../../../🥇%20Best%20Practice/💉%20Network%20Penetration%20(Pen-testing)/Explore%20&%20Reconnaissance%20Phase/Active%20Recon/Hosts(IP)%20&%20Network%20Enumeration.md)
+↗ [Active Recon](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
+↗ [Hosts(IP) & Network Enumeration](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Hosts(IP)%20&%20Network%20Enumeration.md)
 
 
 ### Resoruces

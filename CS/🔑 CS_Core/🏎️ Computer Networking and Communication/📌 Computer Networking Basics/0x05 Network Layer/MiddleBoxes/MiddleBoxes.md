@@ -19,8 +19,8 @@ NAPT, Network Address and Port Translation is at ↗ [NAPT (Network Address & Po
 This notes can be seen on ↗ [Anonymous Networks /VPN](../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 
 #### ⛑️ Firewalls /IDS
-↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../../CyberSecurity/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
-↗ [Network Security /Firewall](../../../../../CyberSecurity/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
+↗ [Network Security /Intrusion Detection Systems (IDS)](../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/IDS%20(Intrusion%20Detection%20Systems)/IDS%20(Intrusion%20Detection%20Systems).md)
+↗ [Network Security /Firewall](../../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Firewall%20&%20Network%20Filters/Firewall%20&%20Network%20Filters.md)
 
 
 ### Performance Enhancement

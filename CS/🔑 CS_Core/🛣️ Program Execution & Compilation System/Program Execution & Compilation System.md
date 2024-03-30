@@ -6,12 +6,14 @@
 
 ## Res
 ### Related Topics
+↗ [ASM (Assembly Languages)](../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 ↗ [Instruction Basics](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Basics.md)
 ↗ [Operating System (Theory)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 - ↗ [System Level Programming](../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 
 ↗ [Processes Management (CPU + Main Memory Resource)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [Firmware and Booting](../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 
 
 ### Learning Resources
@@ -19,6 +21,9 @@
 ↗ [Intro to Computer Science](../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 📖 程序员的自我修养：编译，链接，库
+
+🔥 👍 从裸机启动开始运行一个C++程序
+http://t.csdnimg.cn/fpEXy
 
 
 
@@ -71,7 +76,7 @@ However, there are some important reasons why programmers need to understand how
 ↗ [Compilation Phase](🚮%20Program%20Language%20Translation%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
 ↗ [Assembly Phase](🚮%20Program%20Language%20Translation%20(Compile-time)/Assembly%20Phase/Assembly%20Phase.md)
 
-↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 
 
 ### 2️⃣/3️⃣ Link & Library (Link-time)
@@ -103,10 +108,10 @@ However, there are some important reasons why programmers need to understand how
 - ↗ [Memory Management (Main Memory + Secondary Memory Resource)](../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 ↗ [System Security](../../../CyberSecurity/System%20Security/System%20Security.md)
-- ↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
-- ↗ [Anti-Reverse Engineering](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Anti-Reverse%20Engineering/Anti-Reverse%20Engineering.md)
-- ↗ [Malicious Code Analysis](../../CyberSecurity/🥇%20Best%20Practice/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
-- ↗ [Vulnerability Analysis (VA)（漏洞分析）](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🏹%20Vulnerability/Vulnerability%20Analysis%20(VA)（漏洞分析）/Vulnerability%20Analysis%20(VA)（漏洞分析）.md)
+- ↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+- ↗ [Anti-Reverse Engineering](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Anti-Reverse%20Engineering/Anti-Reverse%20Engineering.md)
+- ↗ [Malicious Code Analysis](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+- ↗ [Vulnerability Analysis (VA)（漏洞分析）](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Vulnerability/Vulnerability%20Analysis%20(VA)（漏洞分析）/Vulnerability%20Analysis%20(VA)（漏洞分析）.md)
 
 
 
