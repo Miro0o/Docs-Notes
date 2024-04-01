@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Drivers](../Computer%20Interfaces/Computer%20Drivers/Computer%20Drivers.md)
+↗ [FAQ /👉 Difference Between Computer Firmware 🆚 Drivers?](../Computer%20Interfaces/FAQ.md#👉%20Difference%20Between%20Computer%20Firmware%20🆚%20Drivers?)
 
 
 
@@ -31,7 +33,6 @@ Other firmware applications include:
 - In home and personal-use products:
     - Timing and control systems for [washing machines](https://en.wikipedia.org/wiki/Washing_machine "Washing machine")
     - Controlling sound and video attributes, as well as the channel list, in modern [televisions](https://en.wikipedia.org/wiki/Television "Television")
-
 - In [routers](https://en.wikipedia.org/wiki/Network_router "Network router"), [switches](https://en.wikipedia.org/wiki/Network_switch "Network switch"), and [firewalls](https://en.wikipedia.org/wiki/Firewall_(computing) "Firewall (computing)"):
     - [LibreCMC](https://en.wikipedia.org/wiki/LibreCMC "LibreCMC") – a 100% [free software](https://en.wikipedia.org/wiki/Free_software "Free software") router distribution based on the [Linux-libre](https://en.wikipedia.org/wiki/Linux-libre "Linux-libre") kernel
     - [IPFire](https://en.wikipedia.org/wiki/IPFire "IPFire") – an [open-source](https://en.wikipedia.org/wiki/Open-source_software "Open-source software") firewall/router distribution based on the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel")
@@ -39,7 +40,6 @@ Other firmware applications include:
     - [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt "OpenWrt") – an open-source firewall/router distribution based on the Linux kernel
     - [m0n0wall](https://en.wikipedia.org/wiki/M0n0wall "M0n0wall") – an embedded firewall distribution of [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD "FreeBSD")
     - [Proprietary firmware](https://en.wikipedia.org/wiki/Proprietary_firmware "Proprietary firmware")
-
 - In [NAS](https://en.wikipedia.org/wiki/Network-attached_storage "Network-attached storage") systems:
     - [NAS4Free](https://en.wikipedia.org/wiki/NAS4Free "NAS4Free") – an open-source NAS operating system based on FreeBSD
     - [Openfiler](https://en.wikipedia.org/wiki/Openfiler "Openfiler") – an open-source NAS operating system based on the Linux kernel
@@ -53,9 +53,11 @@ Other firmware applications include:
 
 
 ## Intro: Booting
+↗ [Bootstrap (Boot)](🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
 
 
 
 ## Ref
 [Firmware | Wikipedia]: https://en.wikipedia.org/wiki/Firmware
+
 [👍 About Firmware | Beyond Linux® From Scratch (System V Edition) - Version 12.0 - Chapter 3. After LFS Configuration Issues]: https://www.linuxfromscratch.org/blfs/view/12.0/postlfs/firmware.html

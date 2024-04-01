@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Operating System (Engineering)](../../🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
-↗ [Operating System Kernel](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
-↗ [System Core Function Libraries & C Standard Library](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
+↗ [Operating System Kernel](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
+↗ [System Core Function Libraries & C Standard Library](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
 
 
 ### Learning Resources

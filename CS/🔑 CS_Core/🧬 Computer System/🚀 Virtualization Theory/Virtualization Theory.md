@@ -15,8 +15,8 @@
 
 
 ## Overview
-![](../../../../Assets/Pics/Screenshot%202023-03-08%20at%2010.28.49%20AM.png)
-<small>https://zh.wikipedia.org/zh-cn/虛擬化</small>
+![](../../../../Assets/Pics/Screenshot%202024-04-01%20at%203.15.48%20PM.png)
+<small>https://en.wikipedia.org/wiki/Virtualization#External_links</small>
 
 
 ### Virtualization History

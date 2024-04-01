@@ -48,6 +48,9 @@ The fundamental concern of computer science is determining what can and cannot b
 ![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
 <small><a>https://en.wikipedia.org/wiki/Computer_science#External_links</a></small>
 
+![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
+<small>Computer System & Computer Science Overview</small>
+
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
 

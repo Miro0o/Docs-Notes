@@ -9,7 +9,7 @@
 
 ## Database System Overview
 ### Traditional File System
-↗ [File & File System](../../🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+↗ [File & File System](../../🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 
 
 ### History of Database Systems /DBMS

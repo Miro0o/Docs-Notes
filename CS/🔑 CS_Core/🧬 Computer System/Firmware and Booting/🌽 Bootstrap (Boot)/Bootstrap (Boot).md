@@ -1,0 +1,104 @@
+# Bootstrap (Boot)
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+↗ [ASM (Assembly Languages)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [C & CPP](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [Operating System Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
+↗ [Program Execution & Compilation System](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+↗ [Memory Access](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+
+
+### Learning Resources
+🔥 👍 从裸机启动开始运行一个C++程序
+http://t.csdnimg.cn/fpEXy
+
+
+
+## Intro
+### Booting
+> 🔗 https://en.wikipedia.org/wiki/Booting
+
+In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **booting** is the process of starting a [computer](https://en.wikipedia.org/wiki/Computer "Computer") as initiated via [hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware") such as a button or by a [software](https://en.wikipedia.org/wiki/Software "Software") command. After it is switched on, a computer's [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") (CPU) has no software in its [main memory](https://en.wikipedia.org/wiki/Main_memory "Main memory"), so some process must load software into memory before it can be executed. This may be done by hardware or [firmware](https://en.wikipedia.org/wiki/Firmware "Firmware") in the CPU, or by a separate processor in the computer system.
+
+**Boot** is short for **[_bootstrap_](https://en.wikipedia.org/wiki/Bootstrapping "Bootstrapping")** or **bootstrap load** and derives from the phrase _[to pull oneself up by one's bootstraps](https://en.wikipedia.org/wiki/Bootstrapping#Etymology "Bootstrapping")_. The usage calls attention to the requirement that, if most software is loaded onto a computer by other software already running on the computer, some mechanism must exist to load the initial software onto the computer. Early computers used a variety of ad-hoc methods to get a small program into memory to solve this problem. The invention of [read-only memory](https://en.wikipedia.org/wiki/Read-only_memory "Read-only memory") (ROM) of various types solved this paradox by allowing computers to be shipped with a start up program that could not be erased. Growth in the capacity of ROM has allowed ever more elaborate start up procedures to be implemented.
+
+
+### Computer States
+
+
+
+## ⭐️ Modern Boot Loader
+When a computer is turned off, its software‍—‌including operating systems, application code, and data‍—‌remains stored on [non-volatile memory](https://en.wikipedia.org/wiki/Non-volatile_memory "Non-volatile memory"). When the computer is powered on, it typically does not have an operating system or its loader in [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory "Random-access memory") (RAM). The computer first executes a relatively small program stored in [read-only memory](https://en.wikipedia.org/wiki/Read-only_memory "Read-only memory") (ROM, and later [EEPROM](https://en.wikipedia.org/wiki/EEPROM "EEPROM"), [NOR flash](https://en.wikipedia.org/wiki/NOR_flash "NOR flash")) along with some needed data, to initialize CPU and motherboard, to initialize [RAM](https://en.wikipedia.org/wiki/RAM "RAM") (especially on x86 systems), to access the nonvolatile device (usually [block device](https://en.wikipedia.org/wiki/Block_device "Block device"), e.g. NAND flash) or devices from which the operating system programs and data can be loaded into RAM.
+
+The small program that starts this sequence is known as a **bootstrap loader**, **bootstrap** or **boot loader**. Often, **multiple-stage boot loaders** are used, during which several programs of increasing complexity load one after the other in a process of **[chain loading](https://en.wikipedia.org/wiki/Chain_loading "Chain loading")**.
+
+Some earlier computer systems, upon receiving a boot signal from a human operator or a peripheral device, may load a very small number of fixed instructions into memory at a specific location, initialize at least one CPU, and then point the CPU to the instructions and start their execution. These instructions typically start an input operation from some peripheral device (which may be switch-selectable by the operator). Other systems may send hardware commands directly to peripheral devices or I/O controllers that cause an extremely simple input operation (such as "read sector zero of the system device into memory starting at location 1000") to be carried out, effectively loading a small number of boot loader instructions into memory; a completion signal from the I/O device may then be used to start execution of the instructions by the CPU.
+
+Smaller computers often use less flexible but more automatic boot loader mechanisms to ensure that the computer starts quickly and with a predetermined software configuration. In many desktop computers, for example, the bootstrapping process begins with the CPU executing software contained in ROM (for example, the [BIOS](https://en.wikipedia.org/wiki/BIOS "BIOS") of an [IBM PC](https://en.wikipedia.org/wiki/IBM_PC "IBM PC")) at a predefined address (some CPUs, including the Intel [x86 series](https://en.wikipedia.org/wiki/Intel_8086 "Intel 8086") are designed to execute this software after reset without outside help). This software contains rudimentary functionality to search for devices eligible to participate in booting, and load a small program from a special section (most commonly the [boot sector](https://en.wikipedia.org/wiki/Boot_sector "Boot sector")) of the most promising device, typically starting at a fixed [entry point](https://en.wikipedia.org/wiki/Entry_point "Entry point")such as the start of the sector.
+
+Boot loaders may face peculiar constraints, especially in size; for instance, on the IBM PC and compatibles, the boot code must fit in the [Master Boot Record](https://en.wikipedia.org/wiki/Master_Boot_Record "Master Boot Record") (MBR) and the [Partition Boot Record](https://en.wikipedia.org/wiki/Partition_Boot_Record "Partition Boot Record") (PBR), which in turn are limited to a single sector; on the [IBM System/360](https://en.wikipedia.org/wiki/IBM_System/360 "IBM System/360"), the size is limited by the IPL medium, e.g., [card](https://en.wikipedia.org/wiki/Punched_card "Punched card") size, track size.
+
+On systems with those constraints, the first program loaded into RAM may not be sufficiently large to load the operating system and, instead, must load another, larger program. The first program loaded into RAM is called a first-stage boot loader, and the program it loads is called a second-stage boot loader.
+
+
+### 1️⃣ First-Stage Boot Loader
+↗ [First-Stage Boot Loader](First-Stage%20Boot%20Loader/First-Stage%20Boot%20Loader.md)
+
+
+### 2️⃣ Second-Stage Boot Loader
+↗ [Second-Stage Boot Loader (Boot Manager)](Second-Stage%20Boot%20Loader%20(Boot%20Manager)/Second-Stage%20Boot%20Loader%20(Boot%20Manager).md)
+
+
+### 3️⃣ Network Booting
+↗ [Network Booting](Network%20Booting/Network%20Booting.md)
+
+
+
+## Ref
+[Booting | Wikipedia]: https://en.wikipedia.org/wiki/Booting
+
+👍 电脑基础知识普及：BIOS、EFI与UEFI详解！ - 知乎用户fB10GU的文章 - 知乎 https://zhuanlan.zhihu.com/p/54108702
+
+> [what is UEFI, and how is it different from BIOS?](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
+> both UEFI and BIOS are low-level software that starts when you boot your PC before booting your operating system, but UEFI is a more modern solution, supporting larger hard drives, faster boot times, more security features, and—conveniently—graphics and mouse cursors.
+> The BIOS will soon be dead: Intel has announced [plans to completely replace it with UEFI](https://www.anandtech.com/show/12068/intel-to-remove-bios-support-from-uefi-by-2020) on all their [chipsets](https://www.pugetsystems.com/labs/articles/Z97-vs-H97---What-is-the-Difference-562/) by 2020.
+
+[👍 计算机是如何启动的? | 阮一峰]: https://www.ruanyifeng.com/blog/2013/02/booting.html
+计算机的整个启动过程分成四个阶段。
+1. 第一阶段：BIOS
+	1. 硬件自检
+	2. 启动顺序
+2. 第二阶段：主引导记录
+	1. 主引导记录的结构
+	2. 分区表
+3. 第三阶段：硬盘启动
+	1. 情况A：卷引导记录
+	2. 情况B：扩展分区和逻辑分区
+	3. 情况C：启动管理器
+4. 第四阶段：操作系统
+	1. 控制权转交给操作系统后，操作系统的内核首先被载入内存。
+	2. 以Linux系统为例，先载入/boot目录下面的kernel。内核加载成功后，第一个运行的程序是/sbin/init。它根据配置文件（Debian系统是/etc/initab）产生init进程。这是Linux启动后的第一个进程，pid进程编号为1，其他进程都是它的后代。然后，init线程加载系统的各个模块，比如窗口程序和网络程序，直至执行/bin/login程序，跳出登录界面，等待用户输入用户名和密码。
+	3. 至此，全部启动过程完成。
+
+[👍 计算机启动流程]: https://www.initroot.com/linuxintroduction/computerbootprocess.html
+计算机的整个启动过程主要是按顺序执行三个独立存放的程序，分别是：  
+1.存在ROM中的BIOS;  
+2.存放在启动设备（通常就是磁盘）第一个扇区，也就是MBR（Master Boot Record，主引导记录）中的bootloader，常用的bootloader有grub和uboot;  
+3.存放在磁盘中的linux操作系统内核, 通常在/boot目录下，文件名类似boot/vmlinuz-4.15.0-54-generic。
+
+我们知道计算机执行的程序是需要先加载到内存中才能由cpu读取执行，BIOS存放在ROM中，而ROM正是内存的一部分， 只是ROM中的程序在系统掉电后不会消失，相当于是固化到ROM中的固件。BIOS在电脑主板出厂的时候就已经由厂家烧录到ROM中了。 所以在计算机上电的时候，系统首先执行的就是ROM中的BIOS了。
+
+而bootloader和操作系统linux内核程序都是存放在磁盘上的， 这两个程序是在安装linux操作系统的时候安装到磁盘中的，bootloader被安装到磁盘的第一个扇区，即MBR，而linux内核则通常被安装到/boot/目录下。 所以这两个程序在执行之前都需要从磁盘加载到内存中才能执行，bootloader被BIOS加载到内存，而linux内核则由bootloader加载到内存。
+
+综上所述，计算机的整个启动过程可以概述为如下三大步骤：  
+**bios-->bootloader-->linux**  
+**1.执行ROM中的BIOS；  
+2.BIOS将启动设备第一个扇区即MBR中的bootloader加载到内存并执行；  
+3.bootloader将磁盘中的linux内核加载到内存中并执行。**
+
+PC机启动时，cpu首先执行ROM中的BIOS，ROM BIOS会将默认启动驱动器上的引导扇区(MBR)中的bootloader读入内存， bootloader将操作系统内核读入内存，并将控制权交给操作系统内核代码。

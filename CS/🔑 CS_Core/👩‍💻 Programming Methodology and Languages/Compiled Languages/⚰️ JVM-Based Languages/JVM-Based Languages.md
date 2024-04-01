@@ -5,7 +5,8 @@
 
 
 ## Res
-
+### Related Topics
+↗ [Java Virtual Machine (JVM)](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Process%20Level%20Virtualization/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 
 
 
@@ -45,9 +46,5 @@ As of September 2022, according to the TIOBE Index[[1\]](https://en.wikipedia.or
 
 
 
-[Top 14 JVM Languages To Choose From]: https://www.spec-india.com/blog/jvm-languages
-
-
-
 ## Ref
-
+[Top 14 JVM Languages To Choose From]: https://www.spec-india.com/blog/jvm-languages

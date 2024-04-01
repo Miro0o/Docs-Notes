@@ -7,6 +7,7 @@
 ## Res
 📂 https://content-security-policy.com/
 
+
 ### Related Topics
 ↗ [SeedLab - Web Security /👉 Cross-Site Scripting (XSS) Attack Lab](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/SEED%20Project/SeedLab%20-%20Web%20Security.md#👉%20Cross-Site%20Scripting%20(XSS)%20Attack%20Lab)
 
@@ -23,7 +24,7 @@
   content="default-src 'self'; img-src https://*; child-src 'none';" />
 ```
 
-CSP was first designed to reduce the attack surface of ↗ [XSS (Cross Site Scripting)](../../../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks/Injection/XSS%20(Cross%20Site%20Scripting).md) attacks, later versions of the spec also protect against other forms of attack such as Click Jacking.
+CSP was first designed to reduce the attack surface of ↗ [XSS (Cross Site Scripting)](../../../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20&%20OWASP/Injection/XSS%20(Cross%20Site%20Scripting)/XSS%20(Cross%20Site%20Scripting).md) attacks, later versions of the spec also protect against other forms of attack such as Click Jacking.
 
 
 ### CSP Directive

@@ -33,7 +33,7 @@ A theoretical upper bound on the speed-up of a single program as a result of par
 ### Concurrency & Parallelism
 Throughout the history of digital computers, two demands have been constant forces in driving improvements: we want them to do more, and we want them to run faster. Both of these factors improve when the processor does more things at once. We use the term **concurrency** to refer to the general concept of a system with multiple, simultaneous activities, and the term **parallelism** to refer to the use of concurrency to make a system run faster. Parallelism can be exploited at multiple levels of abstraction in a computer system. We highlight three levels here, working from the highest to the lowest level in the system hierarchy.
 #### 👉 Process/Thread-level Concurrency
-↗ [Operating Systems /Concurrency Control](../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
+↗ [Operating Systems /Concurrency Control](../Operating%20System%20(Theory)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
 ↗ [Database Systems /Concurrency Control](../../🍕%20Database%20System/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
 ↗ [OS Level Programming /Concurrency](../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
 #### 👉 Instruction Level Parallelism

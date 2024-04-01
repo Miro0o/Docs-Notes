@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [CPU Internal Bus](../../../Computer%20Bus%20(Datapath)/Other%20Bus/CPU%20Internal%20Bus.md)
-↗ [Processes Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Processes Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20(Theory)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 ↗ [ASM (Assembly Languages)](../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)

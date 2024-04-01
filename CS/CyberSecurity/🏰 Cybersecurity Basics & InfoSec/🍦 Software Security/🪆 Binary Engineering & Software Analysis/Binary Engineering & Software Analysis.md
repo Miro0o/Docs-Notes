@@ -14,7 +14,7 @@
 ↗ [Program Execution & Compilation System](../../../../🔑%20CS_Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 
 ↗ [Operating System Security](../../../System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
-↗ [Operating System Kernel](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
+↗ [Operating System Kernel](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
 ↗ [Operating System (Engineering)](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
 ↗ [Operating System (Theory)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
 

@@ -14,7 +14,7 @@
 - ↗ [Software Vulnerability](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Vulnerability/Software%20Vulnerability.md)
 
 ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
-- ↗ [Web Application Security Risks](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks/Web%20Application%20Security%20Risks.md)
+- ↗ [Web Application Security Risks & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20&%20OWASP/Web%20Application%20Security%20Risks%20&%20OWASP.md)
 
 ↗ [Network Security](../../Network%20Security/Network%20Security.md)
 - ↗ [Network Treats & Attacks](../../Network%20Security/Network%20Treats%20&%20Attacks/Network%20Treats%20&%20Attacks.md)

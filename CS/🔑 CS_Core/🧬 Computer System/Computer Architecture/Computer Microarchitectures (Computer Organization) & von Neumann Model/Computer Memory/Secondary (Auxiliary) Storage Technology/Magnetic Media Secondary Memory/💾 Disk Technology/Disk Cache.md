@@ -28,7 +28,7 @@ This can be done either by
 
 
 ### Replacement Policies
-↗ [Virtual Memory /Replacement Policy](../../../../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Replacement%20Policy/Replacement%20Policy.md)
+↗ [Virtual Memory /Replacement Policy](../../../../../../Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Replacement%20Policy/Replacement%20Policy.md)
 
 ↗ [Cache Memory (高速缓存) /Cache Memory Replacement Policy](../../../Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 

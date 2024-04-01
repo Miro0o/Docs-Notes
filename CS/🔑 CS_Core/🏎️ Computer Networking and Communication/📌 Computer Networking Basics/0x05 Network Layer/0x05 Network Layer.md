@@ -17,7 +17,7 @@
 ↗ [Mobile IP](../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20IP.md)
 
 ↗ [NPU (Network Processing Unit)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
-↗ [SDN (Software Defined Network)](../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md)
+↗ [Software Defined Network (SDN)](../../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 
 
 
@@ -124,7 +124,7 @@ Interestingly, in spite of these well-developed alternatives, the Internet’s b
 #### Network Routing / IP Address Modes / Route Selection
 ↗ [Network Routing (IP Address Modes) (Route Selection)](🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection).md)
 #### SDN
-> 🏃‍♂ For more info, check out ↗ [SDN (Software Defined Network)](../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md) 
+> 🏃‍♂ For more info, check out ↗ [Software Defined Network (SDN)](../../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md) 
 
 🔗 【深入浅出计算机网络 - 4.10 软件定义网络SDN】 https://www.bilibili.com/video/BV19P411J77K/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

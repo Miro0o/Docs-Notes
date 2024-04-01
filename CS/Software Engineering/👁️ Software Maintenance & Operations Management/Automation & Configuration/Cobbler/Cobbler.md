@@ -12,7 +12,7 @@ Cobbler快速入门
 
 
 ### Related Topics
-↗ [PXE (Preboot Excution Environment)](../PXE%20(Preboot%20Excution%20Environment).md)
+↗ [PXE (Preboot Excution Environment)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Firmware%20and%20Booting/🌽%20Bootstrap%20(Boot)/PXE%20(Preboot%20Excution%20Environment).md)
 
 
 

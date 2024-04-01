@@ -5,6 +5,23 @@
 
 
 ## Res
+### Related Topics
+↗ [Network Security](../../Network%20Security/Network%20Security.md)
+↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
+↗ [Network Penetration (Pen-testing)](../../Network%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+
+↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/DWVA/DWVA.md)
+↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/sqli-labs/sqli-labs.md)
+
+↗ [Exploiting Web-based Applications & Services](../../Network%20Security/Network%20Penetration%20(Pen-testing)/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
+↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)
+↗ [Application Layer Attacks](../../Network%20Security/Network%20Treats%20&%20Attacks/Application%20Layer%20Attacks.md)
+
+↗ [SE /BackEndDev](../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
+↗ [SE /FrontendDev](../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [SE /Middleware](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
+
+
 ### Learning Web Security
 🔥 🚧 https://github.com/qazbnm456/awesome-web-security
 Needless to say, most websites suffer from various types of bugs which may eventually lead to vulnerabilities. Why would this happen so often? There can be many factors involved including misconfiguration, shortage of engineers' security skills, etc. To combat this, here is a curated list of Web Security materials and resources for learning cutting-edge penetration techniques, and I highly encourage you to read the article "[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)" first.
@@ -20,27 +37,10 @@ We hope that this project provides you with excellent security guidance in an ea
 
 ### Web Security Trending
 📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-↗ [Web Application Security Risks](🛟%20Web%20Application%20Security%20Risks/Web%20Application%20Security%20Risks.md)
+↗ [Web Application Security Risks & OWASP](🛟%20Web%20Application%20Security%20Risks%20&%20OWASP/Web%20Application%20Security%20Risks%20&%20OWASP.md)
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
 ![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)
-
-
-### Related Topics
-↗ [Network Security](../../Network%20Security/Network%20Security.md)
-↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
-↗ [Network Penetration (Pen-testing)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-
-↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/DWVA/DWVA.md)
-↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/sqli-labs/sqli-labs.md)
-
-↗ [Exploiting Web-based Applications & Services](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Network%20Penetration%20(Pen-testing)/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
-↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)
-↗ [Application Layer Attacks](../../Network%20Security/Network%20Treats%20&%20Attacks/Application%20Layer%20Attacks.md)
-
-↗ [SE /BackEndDev](../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [SE /FrontendDev](../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [SE /Middleware](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
 
 
 

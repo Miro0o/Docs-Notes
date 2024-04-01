@@ -69,27 +69,16 @@ public static String getProperty(String key)
 
 where `key` can be passed as : 
 - file.separator
-
 - java.specification.version
-
 - java.vm.version
-
 - java.class.path
-
 - java.vendor
-
 - java.class.version
-
 - os.arch
-
 - java.compiler
-
 - line.separator
-
 - java.version
-
 - java.vendor.url
-
 - os.name
 
 
@@ -105,14 +94,10 @@ where `key` can be passed as :
 ## 👉 判断对象是否为null
 #java 
 
-
 1. 对象存在实例，但是对象属性都为空 ``
 2. 对象不存在实例 `Object == null`
 
 [判断对象是否为null]: https://www.cnblogs.com/DFX339/p/9945771.html
-
-
-
 
 [通俗易懂，什么是.NET?什么是.NET Framework？什么是.NET Core?]: https://www.cnblogs.com/1996V/p/9037603.html
 
@@ -159,7 +144,6 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.2+8-LTS-86, mixed mode, sharing)
 /Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/bin/jmod
 ```
 
-
 https://blog.csdn.net/caoxiaohong1005/article/details/73611424
 
 https://www.liaoxuefeng.com/wiki/1252599548343744/1280507291631649
@@ -170,7 +154,4 @@ https://www.liaoxuefeng.com/wiki/1252599548343744/1280507291631649
 #java #idea
 
 
-
-
 [使用idea修改jar包源码并重新打包]: https://blog.csdn.net/weixin_43178406/article/details/119037447
-

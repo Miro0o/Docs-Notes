@@ -67,7 +67,7 @@ Common layouts are:
 - [Fully connected network](https://en.wikipedia.org/wiki/Fully_connected_network "Fully connected network"): each node is connected to every other node in the network.
 - [Tree network](https://en.wikipedia.org/wiki/Tree_network "Tree network"): nodes are arranged hierarchically. This is the natural topology for a larger Ethernet network with multiple switches and without redundant meshing.
 ##### Overlay Network
-> Recall Overlay/Underlay Architecture in ↗ [SDN Architecture](../../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20Overview/SDN%20Architecture.md)
+> Recall Overlay/Underlay Architecture in ↗ [SDN Architecture](../../🙌🏻%20Software%20Defined%20Network%20(SDN)/SDN%20Overview/SDN%20Architecture.md)
 
 An [overlay network](https://en.wikipedia.org/wiki/Overlay_network "Overlay network") is a virtual network that is built on top of another network. Nodes in the overlay network are connected by virtual or logical links. Each link corresponds to a path, perhaps through many physical links, in the underlying network. The topology of the overlay network may (and often does) differ from that of the underlying one.
 

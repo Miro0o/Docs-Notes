@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Embedded Hardwares (Processors)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Embedded%20Hardwares%20(Processors).md)
-↗ [Systems on a Chip (SOCs)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Systems%20on%20a%20Chip%20(SOCs).md)
+↗ [Systems on Chip (SOC)](../../Systems%20on%20Chip%20(SOC).md)
 
 
 
