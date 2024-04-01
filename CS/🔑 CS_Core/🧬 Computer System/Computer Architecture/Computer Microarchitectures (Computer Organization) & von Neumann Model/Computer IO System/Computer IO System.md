@@ -15,7 +15,7 @@
 ↗ [Secondary (Auxiliary) Storage Technology](../Computer%20Memory/Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
 ↗ [Computer Networking and Communication](../../../../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
-↗ [Operating System /IO System](../../../Operating%20System%20(Theory)/IO%20System/IO%20System.md)
+↗ [Operating System /IO System](../../../Operating%20System%20(Theory)/OS%20IO%20System/OS%20IO%20System.md)
 
 
 

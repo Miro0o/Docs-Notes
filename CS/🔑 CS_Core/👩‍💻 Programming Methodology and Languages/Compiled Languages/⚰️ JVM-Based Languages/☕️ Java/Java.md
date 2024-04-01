@@ -3,7 +3,6 @@
 [TOC]
 
 ## Res
-### Official Supports
 Oracle Java
 🏠 https://www.java.com/en/
 🏠 https://www.oracle.com/java/
@@ -12,30 +11,7 @@ OpenJDK
 🏠 https://jdk.java.net
 🏠 https://dev.java
 
-↗ [SE /BackEndDev /JavaWeb](../../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Java%20Web/Java%20Web.md)
 
-
-### Learning Guides
-📂 [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
-📂 [Oracle Java official develeper doc](https://dev.java/learn/getting-started-with-java/)
-
-👉 [how2j.cn -- java全栈开发](https://how2j.cn) 
-👉 [Java 全栈知识体系](https://pdai.tech)
-[codebaoku -- 编程宝库](http://www.codebaoku.com)
-
-[Java tutorial -- GeeksforGeeks](https://www.geeksforgeeks.org/java/?ref=shm)
-[Java | Code Cademy](https://www.codecademy.com/catalog/language/java)
-
-[菜鸟](https://www.runoob.com/java/java-tutorial.html)
-[廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
-
-[javaguide](https://javaguide.cn/high-availability/performance-test.html)
-
-🎬 [遇见狂神说](https://space.bilibili.com/95256449)
-🎬 [韩顺平](https://space.bilibili.com/651245581)
-
-
-### Oracle Official Docs
 📂 [oracle - docs](https://docs.oracle.com/en/java/index.html)
 [Java EE documentation](http://docs.oracle.com/javaee)
 
@@ -67,8 +43,29 @@ Java EE provides an API and runtime environment for developing and running large
 
 
 ### Related Projects
+↗ [SE /BackEndDev /JavaWeb](../../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Java%20Web/Java%20Web.md)
 ↗ [Java Virtual Machine (JVM)](../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Process%20Level%20Virtualization/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 ↗ [Java Runtimes (JRE & JDKs)](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Runtimes%20(JRE%20&%20JDKs).md)
+
+
+### Learning Guides
+📂 [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+📂 [Oracle Java official develeper doc](https://dev.java/learn/getting-started-with-java/)
+
+👉 [how2j.cn -- java全栈开发](https://how2j.cn) 
+👉 [Java 全栈知识体系](https://pdai.tech)
+[codebaoku -- 编程宝库](http://www.codebaoku.com)
+
+[Java tutorial -- GeeksforGeeks](https://www.geeksforgeeks.org/java/?ref=shm)
+[Java | Code Cademy](https://www.codecademy.com/catalog/language/java)
+
+[菜鸟](https://www.runoob.com/java/java-tutorial.html)
+[廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
+
+[javaguide](https://javaguide.cn/high-availability/performance-test.html)
+
+🎬 [遇见狂神说](https://space.bilibili.com/95256449)
+🎬 [韩顺平](https://space.bilibili.com/651245581)
 
 
 
@@ -81,9 +78,5 @@ Begin with 📂 [oracle - docs](https://docs.oracle.com/en/java/index.html)
 
 
 
-## Recommend Readings
-[手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
-
-
-
 ## 🤷🏽‍♂️ Ref
+[手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)

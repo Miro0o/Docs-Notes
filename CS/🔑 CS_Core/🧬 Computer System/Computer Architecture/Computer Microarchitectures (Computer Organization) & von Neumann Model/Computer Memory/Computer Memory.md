@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Digital Electronics Foundations](../../../⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
 
-↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20(Theory)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [OS Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20(Theory)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 
 

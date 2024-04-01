@@ -29,14 +29,11 @@ http://t.csdnimg.cn/fpEXy
 
 
 ## Intro
-![](../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)
-<small>Computer System Hierarchical Architecture</small>
+![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
+<small>What can computer do?</small>
 
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
-<small>Computer System Hierarchical Architecture</small>
-
-![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
-<small>What computer can do?</small>
+<small>Computer System & Computer Science Overview</small>
 
 
 1. Pre Computer System..

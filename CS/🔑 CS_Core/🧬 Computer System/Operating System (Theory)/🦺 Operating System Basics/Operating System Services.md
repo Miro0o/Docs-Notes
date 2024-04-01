@@ -54,13 +54,13 @@ As we have mentioned, the operating system is an important interface to the unde
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2012.25.57%20AM.png)
 
 ### 1️⃣ Resource Management in General
-↗ [Processes Management (CPU + Main Memory Resource)](../Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
-↗ [Memory Management (Main Memory + Secondary Memory Resource)](../Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [IO System](../IO%20System/IO%20System.md)
+↗ [OS Processes Management (CPU + Main Memory Resource)](../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [OS IO System](../OS%20IO%20System/OS%20IO%20System.md)
 
 
 ### 2️⃣ Resource Scheduling
-↗ [Scheduling & Resource Management](../Scheduling%20&%20Resource%20Management/Scheduling%20&%20Resource%20Management.md)
+↗ [OS Scheduling & Resource Management](../OS%20Scheduling%20&%20Resource%20Management/OS%20Scheduling%20&%20Resource%20Management.md)
 
 
 ### 3️⃣ Resource Security & Protection

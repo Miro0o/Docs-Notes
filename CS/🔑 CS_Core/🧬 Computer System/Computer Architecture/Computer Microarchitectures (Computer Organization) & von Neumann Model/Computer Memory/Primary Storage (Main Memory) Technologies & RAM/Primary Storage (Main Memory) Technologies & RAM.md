@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 ↗ [Primary Storage (Main Memory) Technologies & RAM](../../Computer%20Memory/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 ↗ [Memory Access](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
@@ -104,7 +104,7 @@ The third mapping scheme we introduce is **N-way set-associative cache mapping**
 
 
 ## 🤔 Cache Memory Replacement Policies
-Similar to ↗ [Replacement Policy](../../../../Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Replacement%20Policy/Replacement%20Policy.md) in virtual memory replacement policies
+Similar to ↗ [Replacement Policy](../../../../Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Replacement%20Policy/Replacement%20Policy.md) in virtual memory replacement policies
 
 
 

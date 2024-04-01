@@ -54,11 +54,14 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 📖 王爽《汇编语言》
 📖 林立《单片机原理及应用――基于Proteus和Keil C（第4版）》
 📖《手把手教你学DSP 基于TMS320F28335的应用开发及实战 微课视频版》
-📖 李正军的《计算机控制系统》
+📖《计算机控制系统》李正军
 
 📖《x86汇编语言：从实模式到保护模式》李忠、王小波、余洁
 📖《x86/x64体系探索与编程》邓志
 📖《一个64位操作系统的设计与实现》田宇
+
+📖 👍 《计算机体系结构基础》 - 胡伟武 汪文祥 苏孟豪 张福新 王焕东 章隆兵 肖俊华 刘 苏 陈新科 吴瑞阳 李晓钰 高燕萍
+https://foxsen.github.io/archbase/
 #### Other Materials
 📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 📄 https://foxsen.github.io/archbase/
@@ -72,7 +75,6 @@ Its intended audience is everyone from performance engineers and practical algor
 
 
 ### Other Resources
-
 
 
 
@@ -105,7 +107,7 @@ To control computer processors in a programmable way, knowledge about assembly l
 ↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Multiprocessors%20and%20Multicore%20Processors/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
 #### 👉 Abstraction & Encapsulation
 ↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](../Operating%20System%20(Theory)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
-↗ [IO Generality (via Abstraction)](../Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
+↗ [IO Generality (via Abstraction)](../Operating%20System%20(Theory)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
 #### 👉 Coupling & Decoupling
 
 

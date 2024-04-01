@@ -24,4 +24,6 @@ https://china.usembassy-china.org.cn/zh/
 
 
 ## Ref
+[CS PhD/Master F1签证]: https://denghilbert.github.io/blog/流程
 
+[美国留学I20和F1签证有什么不同？ - 懂王美签的文章 - 知乎]: https://zhuanlan.zhihu.com/p/363353304

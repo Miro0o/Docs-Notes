@@ -90,8 +90,7 @@ To overcome DDoS, an application firewall known as **Firewall Toolkit (FWTK)** w
 
 This third generation of firewalls could identify whether a communication protocol was being abused or attempted to bypass the firewall on an allowed port. This application-layer filtering allowed the firewall to “perceive” how File Transfer Protocols (FTP) or Hypertext Transfer Protocols (HTTP) work and adapt on the fly to the ways applications made use of these protocols.
 ### UTM (Unified Threat Management)
-↗ [Fortinet](../../../../../../../🔑%20CS_Core/Electronic%20&%20Information%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Fortinet.md)
-
+↗ [UTM (Universal Threat Management)](../NF%20(Next-generation%20Firewall)/UTM%20(Universal%20Threat%20Management).md)
 ### Socket Filters (Endpoint Specific)
 Endpoint-based application firewalls function by determining whether a process should accept any given connection. 
 - Application firewalls filter connections by examining the process ID of data packets against a rule set for the local process involved in the data transmission. 
@@ -139,7 +138,9 @@ Endpoint-based application firewalls function by determining whether a process s
 
 
 ## ⏭️ Next-Generation Firewall (4G, Next G)
-firewall + UTM = NGFW (next generation firewall )
+↗ [NF (Next-generation Firewall)](../NF%20(Next-generation%20Firewall)/NF%20(Next-generation%20Firewall).md)
+
+firewall + UTM = NGFW (next generation firewall)
 
 As of 2012, the [next-generation firewall](https://en.wikipedia.org/wiki/Next-generation_firewall "Next-generation firewall") provides a wider range of inspection at the application layer, extending [deep packet inspection](https://en.wikipedia.org/wiki/Deep_packet_inspection "Deep packet inspection") functionality to include, but is not limited to:
 - [Web filtering](https://en.wikipedia.org/wiki/Web_filtering "Web filtering")

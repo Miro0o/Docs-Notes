@@ -5,6 +5,7 @@
 
 
 ## 👉 Do microcode and micro-operation mean the same?
+#microcode #micro_operation #ASM #computer_architecture
 
 No.
 
@@ -18,6 +19,8 @@ In a few cases, two or more instructions might be combined into one u-op. Modern
 
 
 [Do microcode and micro-operation mean the same? | Reddit]: https://www.reddit.com/r/arm/comments/oi4dk1/comment/h4v7im5/?utm_source=share&utm_medium=web2x&context=3
+
+
 
 ## Ref
 

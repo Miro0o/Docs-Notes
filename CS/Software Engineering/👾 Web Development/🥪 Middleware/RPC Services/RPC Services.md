@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Network Sockets](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
-↗ [Remote Procedure Call (RPC)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
+↗ [Network Sockets](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
+↗ [Remote Procedure Call (RPC)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
 
 ↗ [Network Programming & RPC](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 ↗ [Cloud Native/Remote Procedure Call (RPC)](../../../☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
@@ -17,7 +17,7 @@
 
 
 ## Intro
-look at ↗ [Network Sockets](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
+look at ↗ [Network Sockets](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
 
 
 

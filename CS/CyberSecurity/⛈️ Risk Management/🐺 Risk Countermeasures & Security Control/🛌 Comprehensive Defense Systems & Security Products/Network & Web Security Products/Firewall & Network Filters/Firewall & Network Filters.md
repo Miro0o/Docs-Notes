@@ -119,8 +119,6 @@ There are many factors that come into consideration for architecting a firewall.
 1. Organization‘s ability to implement and develop the architecture
 2. The budget allotted by the organization
 3. Objectives of the network
-
-
 #### 1️⃣ Packet Filtering Router Firewalls (包过滤路由器结构)
 > 过滤路由器作为内外网连接的唯一通道，通过**ACL**策略要求所有的报文都必须在此通过检查，实现报文过滤功能。
 
@@ -131,8 +129,6 @@ Most of organizations have a router as the interface to the Internet. This route
 **Drawbacks**:
 - The length and the complexity of the rule sets implemented to filter the packets can grow and degrade network performance. (路由器规则表的长度随着使用时长不断增加，导致性能不断降低) 
 - Also, it suffers from a lack of auditing and strong authentication mechanisms. (一旦被攻陷后很难发现，而且没有身份鉴别/ 没有日志记录)
-
-
 #### 2️⃣ Multi-Homed Host Firewalls (多宿主主机结构)
 > 多宿主主机具有两个网络适配器的主机系统，采用主机替代路由器执行安全控制功能，性能更高，隔离性更好。
 ##### Dual-Homed Host Firewalls (双宿主主机/堡垒机（**Dual Homed Gateway**）结构)
@@ -144,8 +140,6 @@ This architecture often makes use of Network Address Translation (NATs). NAT is 
 
 - 双宿主主机优于过滤路由器的地方是：堡垒主机的系统软件可用于维护系统日志。
 - 它的致命弱点是：一旦入侵者侵入堡垒主机，则无法保证内部网络的安全
-
-
 #### 3️⃣ Screened Host Firewalls (被屏蔽主机结构)
 > 有两道屏障，一是屏蔽路由器，另外一个是堡垒主机（双宿主主机）屏蔽路由器位于网络的最边缘，负责与外网实施连接，并且参与外网的路由堡垒主机存放在内部网络中，是内部网络中唯一可以连接到外部网络的主机
 > 通常在路由器上设立ACL过滤规则，并通过堡垒主机进行数据转发，来确保内部网络的安全。
@@ -160,8 +154,6 @@ The bastion host stores copies of the internal documents, making it a promising 
 This configuration requires the attacker to hack and compromise two separate systems, before accessing the internal data. In this way, the bastion host and router protects the data and is more effective and secure implementation.
 
 弱点：如果攻击者进入屏蔽主机内，内网中的就会受到很大威胁；这与双宿主主机受攻击时的情形差不多。
-
-
 #### 4️⃣ Screened Subnet Firewalls (with DMZ) (被屏蔽子网结构）
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020231117122339.png)
 
@@ -222,12 +214,14 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 ## Firewall Performance Metrics
 > ↗ [Computer Network Performance Metrics](../../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Performance%20Metrics.md) 
 
+
 ### 1️⃣ Throughput
 > 吞吐量：在不丢包的情况下能够达到的最大速率。该指标直接影响网络的性能。
 > 
 > 衡量标准：吞吐量越大，防火墙的性能越高
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.23.45AM.png)
+
 
 ### 2️⃣ Time lag
 > 时延：入口处输入帧最后1个比特到达至出口处输出帧的第1个比特输出所用的时间间隔
@@ -238,6 +232,7 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.24.13AM.png)
 
+
 ### 3️⃣ Drop Rate
 > 丢包率：在稳态负载下，应由网络设备传输，但由于资源缺乏而被丢弃的帧的百分比。/在连续负载的情况下，防火墙设备由于资源不足应转发但却未转发的帧百分比
 > 
@@ -245,12 +240,14 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.24.36AM.png)
 
+
 ### 4️⃣ Back-To-Back
 > 背靠背：从空闲状态开始，以达到传输介质最小合法间隔极限的传输速率发送相当数量的固定长度的帧，当出现第一个帧丢失时，发送的帧数。（应对突发网络能力/缓存能力）
 > 
 > 衡量标准：背对背包主要是指防火墙缓冲容量的大小, 网络上经常有一些应用会产生大量的突发数据包（例如：**NFS**，备份，路由更新等），而且这样的数据包的丢失可能会产生更多的数据包的丢失，强大缓冲能力可以减小这种突发对网络造成的影响。
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-12-08%20at%209.25.10AM.png)
+
 
 ### 5️⃣ Concurrent Connections
 > 并发连结数：并发连接数是指穿越防火墙的主机之间或主机与防火墙之间能同时建立的最大连接数

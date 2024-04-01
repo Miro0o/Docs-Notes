@@ -475,8 +475,12 @@ I am a cofounder of Recurrent AI and an assistant professor of Tsinghua Universi
 我的名字是杨植麟。
 
 ---
-https://www.cnblogs.com/xiaozi
+👍 https://www.cnblogs.com/xiaozi
 一个网络安全爱好者，对技术有着偏执狂一样的追求。
+
+---
+👍 https://goodapple.top
+CTFer
 
 
 ### Communities & Forums

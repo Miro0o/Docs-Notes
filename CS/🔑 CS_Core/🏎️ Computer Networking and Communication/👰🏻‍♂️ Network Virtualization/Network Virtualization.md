@@ -11,6 +11,7 @@
 
 ↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 ↗ [Cloud Native /VPC](../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS/VPC.md)
+↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 
 
 
@@ -19,14 +20,11 @@
 
 ### 1️⃣ Network Virtualization within Server Host
 #### I/O Virtualization
-
 #### Virtual Access
 
 
 ### 2️⃣ Network Virtualization in Network Access
 #### Infiniband
-
-
 #### FCOE
 
 
@@ -41,33 +39,22 @@ Apart from the underlay network(IP network), **network overlays** are virtual ne
 2️⃣ With the help of Ovelay networks you can achieve and provide **scalable Layer II networks** for a _multitenant cloud_ that extends beyond 4000 VLANs. This capability is very important for private and public cloud hosted environments.  
 
 3️⃣ You can also maintain the fabric scalability and flexibility, because the overlay virtual network no longer needs to be constrained to a single physical location. The overlay encapsulation also allows the underlying infrastructure address space to be administered separately from the tenant address space.
-
-
 #### OTV (Overlay Transport Virtualization)
-
-
 #### LISP (Locator/Identifier Separation Protocol)
-
-
 #### VxLAN (Virtual Extensible LAN)
-
-
 #### NVGRE (Network Virtualization Using Generic Routing Encapsulation)
 NVGRE allows the creation of virtual Layer 2 topologies on top of a physical Layer 3 network. With the help of NVGRE you can achieve by tunneling Ethernet frames inside an IP packet over a physical network. NVGRE supports a 24-bit segment ID or virtual subnet identifier (VSID) similar to VXLAN, providing up to 16 million virtual segments that can uniquely identify a given segment.
 
 The difference between VXLAN and NVGRE is that NVGRE header includes an optional flow ID field. In multi-pathing deployments, network routers and switches that can parse this header can use this field together with the VSID to add flow-based entropy, although this feature requires additional hardware capabilities.
 
-
 > **Note**: Microsoft is one of the major vendor who uses NVGRE concept and still a lot of vendors are doing their efforts to develop NVGRE like Cisco, VMware and Juniper.
-
-
 #### STT (Stateless Transport Tunneling)
 ![](../../../../Assets/Pics/Screenshot%202023-04-16%20at%204.00.25%20PM.png)
 <small> STT tunneling</small>
 
 
 #### 🙌🏻 SDN
-↗ [SDN (Software Defined Network)](../🙌🏻%20SDN%20(Software%20Defined%20Network)/SDN%20(Software%20Defined%20Network).md)
+↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 
 
 

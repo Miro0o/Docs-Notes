@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba0006637174f15a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Network-Attached Storage (NAS)/NCP (NetWare Core Protocol)/NCP (NetWare Core Protocol).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,25 +60,12 @@
             }
           },
           {
-            "id": "7931155f091e9876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/🤔 Software Analysis & AI & LLM/Software Analysis & AI & LLM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0062c947e3658fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Forensics & Traceability Analysis.md",
+                "file": "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -165,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Forensics & Traceability Analysis.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Exclusive/Bochs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Forensics & Traceability Analysis.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Exclusive/Bochs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Forensics & Traceability Analysis.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Exclusive/Bochs.md"
               }
             }
           },
@@ -249,56 +224,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0062c947e3658fac",
+  "active": "73c13ff4dc57945f",
   "lastOpenFiles": [
-    "Assets/Pics/Pasted image 20240330193819.png",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Virtualization Theory.md",
+    "Assets/Pics/Screenshot 2024-04-01 at 3.15.48 PM.png",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Exclusive/Bochs.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
+    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/💅🏻 CSS & HTML Libraries (UI)/Bootstrap/Bootstrap.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/PXE (Preboot Excution Environment).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/🦺 Operating System Basics/📌 Operating System Overview.md",
+    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Motherboard.md",
+    "Assets/Pics/Pasted image 20240401150756.png",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks & OWASP/Injection/WebShell/MemoryShell (内存马)/MemoryShell (内存马).md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks & OWASP/Injection/SQL Injection/SQL Injection.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Summer Camp & Exchange Programs/2024 Interns & Exchanges.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Countries & Research Programs.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific/United States.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/How to do a job interview the right way.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/How to write a Resume the right way.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Interns Overview.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Jobs & Interns Related/Jobs & Interns Related.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
+    "CS/🗺 CS_Overview/This is X/🐭 This is 润/FAQ.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer System.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Systems on Chip (SOC).md",
+    "CS/🗺 CS_Overview/CS of The Year/2024.md",
     "CS/CyberSecurity/⛈️ Risk Management/Risk Management.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/CTF & AWD/CTF & AWD.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Forensics & Traceability Analysis.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Spoofing Attack/Spoofing Attack.md",
-    "CS/CyberSecurity/Network Security/Network Security.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Organization Recognition/Organization Recognition.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Second-Stage Boot Loader (Boot Manager)/Windows Boot Loader",
+    "Assets/Pics/Pasted Image 20240331154158_825.png",
+    "Assets/Pics/Pasted Image 20240331152809_134.png",
+    "Assets/Pics/Pasted Image 20240331150508_282.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer Drivers",
+    "Assets/Pics/Pasted image 20240331133927.png",
+    "Assets/Pics/Pasted image 20240331133657.png",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks & OWASP/Injection/XSS (Cross Site Scripting)",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks & OWASP/Injection/SQL Injection",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Firewall & Network Filters/NF (Next-generation Firewall)",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Software Defined Security (SDS)",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Implementations & Remote Shell/Deprecated Tools before SSH",
+    "Assets/Pics/Pasted image 20240330193819.png",
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Organization Recognition",
-    "CS/CyberSecurity/Network Security/Network Security Monitoring (NSM)/Network Security Monitoring (NSM).md",
     "CS/CyberSecurity/Network Security/Network Security Monitoring (NSM)",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Network & Web Security Products.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Firewall & Network Filters.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Password Attack/Password Attack.md",
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Spoofing Attack/Untitled",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Social Engineering & Physical Security.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Spoofing Attack",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Network Traffic Analysis/Network Traffic Analysis.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities/Vulnerabilities.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🗂️ Protocol & Policy Security/Protocol & Policy Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🗂️ Protocol & Policy Security",
-    "CS/CyberSecurity/⛈️ Risk Management/Risk Management Life Circle/Risk Assessment.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Vulnerability/Major Security Events & Vulnerabilities.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Vulnerability/Software Vulnerability.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/Software Analysis Tools.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Pen-testing Tools.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Password Attack",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control",
-    "CS/CyberSecurity/⛈️ Risk Management/🐄 Cyberspace Assets",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks",
     "Assets/Pics/Pasted image 20240329161411.png",
     "Assets/Pics/Pasted image 20240329161405.png",
-    "Assets/Pics/Screenshot 2024-03-28 at 11.57.52 PM.png",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
-    "Assets/Pics/Screenshot 2024-03-28 at 10.47.12 AM.png",
-    "Assets/Pics/Screenshot 2024-03-28 at 10.42.33 AM.png",
-    "Assets/Pics/Pasted image 20240327203351.png",
-    "Assets/Pics/Pasted image 20240327203333.png",
-    "Assets/Pics/Pasted image 20240327200246.png",
-    "Assets/Pics/Pasted image 20240327200211.png",
-    "Assets/Pics/Pasted image 20240327195901.png",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
     "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",

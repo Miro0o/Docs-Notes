@@ -5,7 +5,9 @@
 
 
 ## Res
-
+### Related Topics
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [Virtual Memory Space & Address Space](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20Space%20&%20Address%20Space.md)
 
 
 
@@ -30,11 +32,13 @@
 Instructions and Data are all values stored in memory. It depends on the CPU to interpret them as what they meant to be useful. 
 Flow links above to dive deep, including how they are formatted, how they are accessed and more.
 
+
 ### Instructions Essentials (指令)
 ↗ [ISA Basics](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/ISA%20Basics.md)
 
 ### Data Essentials (数据)
 ↗ [Data Representations & Storage in CS](../../../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
+
 
 ### Effective Address （有效地址） 
 
@@ -121,9 +125,9 @@ Self-relative addressing computes the address of the operand as an offset from t
 ↗ [Primary Storage (Main Memory) Technologies & RAM](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 
 ↗ [Virtual Memory (Hardware and Control Structure)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
-↗ [Virtual Memory (OS Software Level)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+↗ [Virtual Memory (OS Software Level)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
 
-↗ [Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-23%20at%204.08.45%20PM.png)
