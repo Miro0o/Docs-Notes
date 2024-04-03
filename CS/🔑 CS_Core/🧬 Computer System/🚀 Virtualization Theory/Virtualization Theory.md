@@ -100,3 +100,6 @@ QEMU
 [👍 Introduction to virtualisation | Ubuntu serer docs]: https://ubuntu.com/server/docs/virtualization-introduction
 
 [👍 x86 virtualization | Wikipedia]: https://en.wikipedia.org/wiki/X86_virtualization
+
+[VMWare ESXi简介及运维 | CSDN]: http://t.csdnimg.cn/UBy8f
+![](../../../../Assets/Pics/Pasted%20image%2020240402135030.png)

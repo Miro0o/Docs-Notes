@@ -12,7 +12,7 @@
 ↗ [HTML](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML/HTML.md)
 ↗ [CSS](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS/CSS.md)
 ↗ [JavaScript (Browser End)](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
-↗ [JavaScript](../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/🐝%20JavaScript-Based%20Languages/JavaScript.md)
+↗ [JavaScript-Based Languages](../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/🐝%20JavaScript-Based%20Languages/JavaScript-Based%20Languages.md)
 ↗ [SQL (Structured Query Language)](../../../../🔑%20CS_Core/🍕%20Database%20System/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/🩼%20SQL%20(Structured%20Query%20Language)/SQL%20(Structured%20Query%20Language).md)
 
 ↗ [Middleware](../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)

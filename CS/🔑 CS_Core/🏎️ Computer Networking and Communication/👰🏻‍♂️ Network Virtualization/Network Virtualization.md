@@ -18,6 +18,7 @@
 ## Overview
 ![](../../../../Assets/Pics/Pasted%20image%2020230412170931.png)
 
+
 ### 1️⃣ Network Virtualization within Server Host
 #### I/O Virtualization
 #### Virtual Access
@@ -51,16 +52,13 @@ The difference between VXLAN and NVGRE is that NVGRE header includes an optional
 #### STT (Stateless Transport Tunneling)
 ![](../../../../Assets/Pics/Screenshot%202023-04-16%20at%204.00.25%20PM.png)
 <small> STT tunneling</small>
-
-
 #### 🙌🏻 SDN
 ↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 
 
 
 ## NFV (Network Function Virtualization)
-#TODO 
-
+↗ [NFV (Network Function Virtualization)](NFV%20(Network%20Function%20Virtualization)/NFV%20(Network%20Function%20Virtualization).md)
 
 
 

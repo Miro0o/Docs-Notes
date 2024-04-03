@@ -1,4 +1,4 @@
-# Virtual Security Switch
+# Virtual Switch (vSwitch)
 
 [TOC]
 

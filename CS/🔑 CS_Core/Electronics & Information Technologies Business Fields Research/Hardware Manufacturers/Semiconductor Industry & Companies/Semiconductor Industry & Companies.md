@@ -21,13 +21,11 @@ In 2021, the sales of semiconductors reached a record $555.9 billion, up 26.2 pe
 > 🔗 https://zh.wikipedia.org/zh-cn/半导体厂商销售排名
 
 **半导体厂商销售排名**列出1987年以来全球各大半导体厂商。所谓的半导体厂商可区分成三种：
-
 - 芯片制造商,（如[英特尔](https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%89%B9%E7%88%BE "英特尔")、[三星电子](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90 "三星电子")），设计、制造与销售自有芯片。
 - 无厂半导体公司,（如[高通](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%80%9A "高通")、[联发科](https://zh.wikipedia.org/wiki/%E8%81%94%E5%8F%91%E7%A7%91 "联发科")、[海思](https://zh.wikipedia.org/wiki/%E6%B5%B7%E6%80%9D "海思")、[威盛](https://zh.wikipedia.org/wiki/%E5%A8%81%E7%9B%9B "威盛")、[AMD](https://zh.wikipedia.org/wiki/AMD "AMD")、[辉达](https://zh.wikipedia.org/wiki/%E8%BC%9D%E9%81%94 "辉达")、[瑞昱](https://zh.wikipedia.org/wiki/%E7%91%9E%E6%98%B1 "瑞昱")），设计并销售自己的芯片，制造是委外代工的。
 - 晶圆代工,（如[台积电](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%A9%8D%E9%9B%BB "台积电")、[联电](https://zh.wikipedia.org/wiki/%E8%81%AF%E9%9B%BB "联电")），只制造芯片，不进行设计工作。
 
 根据全球半导体贸易统计组织（WSTS）的数据，2018年全球半导体（含分立器件、光电子、传感器、集成电路）市场规模高达4687.8亿美元，而2019年预计市场规模将超过5000亿美元。整个半导体产业中集成电路（IC）占81%，占比最大。
-
 
 
 

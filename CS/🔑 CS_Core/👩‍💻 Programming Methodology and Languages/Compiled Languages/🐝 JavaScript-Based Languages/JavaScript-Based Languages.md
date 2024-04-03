@@ -14,12 +14,18 @@ ECMA
 📂 https://developer.mozilla.org/en-US/docs/Web/JavaScript/
 MDN Web Docs
 
+
+### Related Topics
+↗ [Microsoft](../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Microsoft.md)
+
+
 ### JS Standards
 
 
 ### Related Topics
 ↗ [JavaScript (Browser End)](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
 ↗ [JS Frameworks for FrontEnd](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/🎃%20JS%20Frameworks%20for%20FrontEnd/JS%20Frameworks%20for%20FrontEnd.md)
+
 
 ### Opensource 
 [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -40,10 +46,6 @@ MDN Web Docs
 ### ☕️ Official
 [JS](https://www.javascript.com) 
 - [Io.js](https://blog.risingstack.com/iojs-overview/) (now merged with JS. )
-
-[npm](https://www.npmjs.com)
-
-[Vue](https://vuejs.org) 
 
 [Require.JS](https://requirejs.org/docs/commonjs.html) (a JS module loader)
 - AMD, CommonJS
@@ -112,11 +114,12 @@ ActionScript
 ## JS Shell
 A JavaScript shell allows you to quickly test snippets of JavaScript code without having to reload a web page. They are extremely useful for developing and debugging code.
 
+
 ### Standalone JavaScript shells
 The following JavaScript shells are stand-alone environments, like Perl or Python.
-
 - [Node.js](https://nodejs.org/) - Node.js is a platform for easily building fast, scalable network applications.
 - [ShellJS](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
+
 
 ### Browser-based JavaScript shells
 The following JavaScript shells run code through the browser's JavaScript engine.
@@ -132,7 +135,13 @@ The following JavaScript shells run code through the browser's JavaScript engine
 - [Vue.js vs React](https://www.codica.com/blog/react-vs-vue/)
 
 ![Top web frameworks the most used by professional developers](https://www.codica.com/static/414da4ed44f3b0f0ea51f9411e526aab/97b8c/The_most_commonly_used_web_frameworks_6d817565c4.jpg "The most commonly used web frameworks")
-
 - [uni-app,Taro,react native和flutter的区别](https://blog.csdn.net/u011590754/article/details/115453390)
 - [Relation between CommonJS, AMD and RequireJS?](https://stackoverflow.com/questions/16521471/relation-between-commonjs-amd-and-requirejs)
 - [XHR (XMLHttpRequest)](https://developer.mozilla.org/en-US/docs/Glossary/XHR_(XMLHttpRequest))
+
+[TypeScript的4种编译方式 | cnblog]: https://www.cnblogs.com/malcolmfeng/p/9375963.html
+
+JavaScript 是于1996年被开发出来的，然后在1997年被提交给 ECMA 国际用于标准化工作，这导致了 ECMAScript 的诞生。同时，由于 JavaScript 与 ECMAScript 规范保持一致，所以可以说 JavaScript 是根据 ECMAScript 所实现的一个例子。因此令我们感到有趣的是：ECMAScript 是基于 JavaScript 的，而同时 JavaScript 又是基于 ECMAScript 的。
+
+TypeScript是微软开发的一门脚本语言，它是JavaScript的超集，它遵循ES6语言规范。ES5，ES6都是脚本语言的规范，JavaScript和TypeScript是两种脚本语言。JavaScript实现了ES5，TypeScript实现了ES6
+

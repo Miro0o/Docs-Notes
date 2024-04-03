@@ -58,7 +58,10 @@ LDP is a loosely knit team of volunteers who provide documentation for many aspe
 📂 👍 https://www.linuxfromscratch.org
 **Linux From Scratch (LFS)** is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
 
-👉 [Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
+🤔 [Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
+
+👍 https://archlinux.org
+Arch Linux Wiki
 
 https://www.linuxprobe.com
 《Linux就该这么学》

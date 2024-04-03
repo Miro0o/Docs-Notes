@@ -62,6 +62,8 @@ https://jwc.scu.edu.cn/info/1069/8955.htm
 https://jwc.scu.edu.cn/info/1069/8957.htm
 关于选派本科生参加2024年秋美国加州大学圣地亚哥分校学期访学项目的通知
 
+https://extendedstudies.ucsd.edu/international-programs/home
+https://extendedstudies.ucsd.edu/international-programs/how-to-enroll/international-programs-admissions
 
 
 ## Ref

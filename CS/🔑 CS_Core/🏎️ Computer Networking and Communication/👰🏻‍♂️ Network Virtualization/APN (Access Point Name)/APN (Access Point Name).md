@@ -1,4 +1,4 @@
-# APN
+# APN (Access Point Name)
 
 [TOC]
 

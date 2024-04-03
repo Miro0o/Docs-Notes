@@ -14,7 +14,8 @@ Android Open Source Project
 
 
 ### Related Topics
-↗ [Google](../../Electronic%20&%20Information%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Google.md)
+↗ [Google](../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Google.md)
+↗ [Android Runtime (ART) and Dalvik](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Process%20Level%20Virtualization/Android%20Runtime%20(ART)%20and%20Dalvik/Android%20Runtime%20(ART)%20and%20Dalvik.md)
 
 
 

@@ -10,8 +10,8 @@
 
 
 ### Related Topics
-↗ [TFTP (Trivial File Transfer Protocol)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/File%20Transferring/TFTP%20(Trivial%20File%20Transfer%20Protocol).md)
-↗ [DHCP (Dynamic Host Configuration Protocol)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DHCP%20(Dynamic%20Host%20Configuration%20Protocol)/DHCP%20(Dynamic%20Host%20Configuration%20Protocol).md)
+↗ [TFTP (Trivial File Transfer Protocol)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/File%20Transferring/TFTP%20(Trivial%20File%20Transfer%20Protocol).md)
+↗ [DHCP (Dynamic Host Configuration Protocol)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/DHCP%20(Dynamic%20Host%20Configuration%20Protocol)/DHCP%20(Dynamic%20Host%20Configuration%20Protocol).md)
 
 
 
@@ -29,4 +29,4 @@ The concept behind the PXE originated in the early days of protocols like BOOTP/
 ## Ref
 [Linux系统自动化安装之pxe实现 | cnblog]: https://www.cnblogs.com/qiuhom-1874/p/11789583.html
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240313214336.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240313214336.png)

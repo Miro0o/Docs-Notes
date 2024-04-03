@@ -25,6 +25,8 @@ Codelabs：[教程指导](https://gitee.com/openharmony/codelabs)
 ↗ [Linux (Derived From UNIX Family)](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [Android & AOSP](../../Android%20&%20AOSP/Android%20&%20AOSP.md)
 
+↗ [🍸 Linux Kernel](../../Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+
 
 
 ## Intro

@@ -52,7 +52,7 @@ Many other middleboxes [RFC 3234] provide capabilities belonging to these three 
 ### Middlebox: Past /Future
 ↗ [Network Virtualization](../../../👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
-↗ [NFV](../../../👰🏻‍♂️%20Network%20Virtualization/NFV/NFV.md)
+↗ [NFV (Network Function Virtualization)](../../../👰🏻‍♂️%20Network%20Virtualization/NFV%20(Network%20Function%20Virtualization)/NFV%20(Network%20Function%20Virtualization).md)
 ↗ [Software Defined Network (SDN)](../../../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 ↗ [Cloud Native](../../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
 
