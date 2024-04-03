@@ -15,6 +15,8 @@
 ↗ [Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md) (CNCF)
 ↗ [OpenSSF (Open Source Security Foundation)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
 
+↗ [CHAOSS (Community Health Analysis in OSS)](../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Free%20Software%20Organizations/CHAOSS%20(Community%20Health%20Analysis%20in%20OSS).md)
+
 🔗 https://www.finos.org (FINOS, Fintech Open Source Foundation)
 We're a Community Creating Open Source Solutions for Financial Services
 Providing an independent setting to deliver software and standards that address common industry challenges and drive innovation.
