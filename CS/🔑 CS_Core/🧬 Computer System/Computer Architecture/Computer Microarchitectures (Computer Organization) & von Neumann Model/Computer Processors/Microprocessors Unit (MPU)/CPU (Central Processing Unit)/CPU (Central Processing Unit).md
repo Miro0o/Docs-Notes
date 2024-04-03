@@ -15,7 +15,7 @@
 ↗ [Instruction Execution](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 ↗ [Memory Access](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
-↗ [Semiconductor Industry & Companies](../../../../../../Electronic%20&%20Information%20Business%20Fields%20Research/Hardware%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+↗ [Semiconductor Industry & Companies](../../../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
 ### Learning Resources

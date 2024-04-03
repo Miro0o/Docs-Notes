@@ -198,7 +198,6 @@ https://www.jianshu.com/p/eee8a7de179c
 
 
 ## 👉 disable "Background item added" notification on macos Ventura
-
 This seems to be a current bug due to migrating from a previous version of macOS and most people are forced to simply wait for an update that resolves the issue.
 
 Consider reinstalling the offending applications. As an added precaution, once they are uninstalled visit these locations and delete the associated Google Launcher and Citrix Systems files:

@@ -1,10 +1,14 @@
-# JS Core - ECMAScript
+# ECMAScript (ES)
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+
+
+### Documentations
 - [ECMAScript Language Specification repo](https://github.com/tc39/ecma262)
 - [ECMAScript Internationalization API Specification repo](https://github.com/tc39/ecma402)
 - [ECMAScript proposals repo](https://github.com/tc39/proposals)
@@ -20,6 +24,7 @@
 
 The core language of JavaScript is standardized by the ECMA TC39 committee as a language named ECMAScript. "ECMAScript" is the term for the language standard, but "ECMAScript" and "JavaScript" can be used interchangeably.
 
+
 ### What falls under the ECMAScript scope?
 Among other things, ECMAScript defines:
 - Language syntax (parsing rules, keywords, control flow, object literal initialization, ...)
@@ -30,6 +35,7 @@ Among other things, ECMAScript defines:
 - [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 - A [module system](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - Basic memory model
+
 
 ### Standardization process
 ECMAScript editions are approved and published as a standard by the ECMA General Assembly on a yearly basis. All development is public on the [Ecma TC39 GitHub organization](https://github.com/tc39), which hosts proposals, the official specification text, and meeting notes.

@@ -13,6 +13,19 @@
 We’ll see that the switch itself is **transparent** to the hosts and routers in the subnet; that is, a host/router addresses a frame to another host/router (rather than addressing the frame to the switch) and happily sends the frame into the LAN, unaware that a switch will be receiving the frame and forwarding it.
 
 
+> 🔗 https://en.wikipedia.org/wiki/Network_switch
+
+A **network switch** (also called **switching hub**, **bridging hub**, and, by the IEEE, **MAC bridge**) is networking hardware that connects devices on a computer network by using packet switching to receive and forward data to the destination device.
+
+A network switch is a **multiport network bridge** that uses MAC addresses to forward data at the data link layer (layer 2) of the OSI model. 
+- Some switches can also forward data at the network layer (layer 3) by additionally incorporating routing functionality. Such switches are commonly known as **layer-3 switches** or **multilayer switches**.
+
+**Switches for Ethernet** are the most common form of network switch. The first MAC Bridge was invented in 1983 by Mark Kempf, an engineer in the Networking Advanced Development group of Digital Equipment Corporation. The first 2 port Bridge product (LANBridge 100) was introduced by that company shortly after. The company subsequently produced multi-port switches for both Ethernet and FDDI such as GigaSwitch. Digital decided to license its MAC Bridge patent in a royalty-free, non-discriminatory basis that allowed IEEE standardization. This permitted a number of other companies to produce multi-port switches, including Kalpana. Ethernet was initially a shared-access medium, but the introduction of the MAC bridge began its transformation into its most-common point-to-point form without a collision domain.
+- Switches also exist for other types of networks including Fibre Channel, Asynchronous Transfer Mode, and InfiniBand.
+
+Unlike repeater hubs, which broadcast the same data out of each port and let the devices pick out the data addressed to them, a network switch learns the identities of connected devices and then only forwards data to the port connected to the device to which it is addressed.
+
+
 
 ## Link Layer Switch Functions
 ↗ [Link Layer Switches Functions](Link%20Layer%20Switches%20Functions.md)
