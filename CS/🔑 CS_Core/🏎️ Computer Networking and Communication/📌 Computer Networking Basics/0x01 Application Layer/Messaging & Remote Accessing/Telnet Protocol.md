@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Terminal Emulators](../../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Terminal%20Emulators.md)
+↗ [Remote Terminal & Communications Programs](../../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Remote%20Terminal%20&%20Communications%20Programs/Remote%20Terminal%20&%20Communications%20Programs.md)
 
 
 

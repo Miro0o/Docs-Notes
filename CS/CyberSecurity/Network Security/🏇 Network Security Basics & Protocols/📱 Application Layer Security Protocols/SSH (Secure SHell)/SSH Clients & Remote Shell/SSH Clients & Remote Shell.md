@@ -1,4 +1,4 @@
-# SSH Implementations & Remote Shell
+# SSH Clients & Remote Shell
 
 [TOC]
 
