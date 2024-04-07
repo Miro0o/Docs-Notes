@@ -669,6 +669,18 @@ book
 - bankbook
 
 boot
+- 靴子，来自 beat,击，打，踢。2. 益处，词源不详。主要用于短语 to boot,除此之外。比较级 better,最高级 best.
+- n. 长靴; 踢; 解雇; 效用; 汽车行李箱  
+- vt. 使穿靴, 踢, 解雇, 有用, 启动
+- [bang](dic://bang), [charge](dic://charge), [rush](dic://rush), [flush](dic://flush), [thrill](dic://thrill), [kick](dic://kick)
+-  [the boot](dic://the boot), [iron boot](dic://iron boot), [iron heel](dic://iron heel)
+- [kick](dic://kick), [kicking](dic://kicking)
+- [reboot](dic://reboot), [bring up](dic://bring up)
+- _n._ [footwear](dic://footwear), [footgear](dic://footgear), [luggage compartment](dic://luggage compartment), [automobile trunk](dic://automobile trunk), [trunk](dic://trunk), [exhilaration](dic://exhilaration), [excitement](dic://excitement)
+- _v._ [kick](dic://kick), [resuscitate](dic://resuscitate), [revive](dic://revive)
+- **shoe**鞋;**heel**脚后跟;**footwear**鞋类;**toe**脚趾;**floppy**叭嗒叭嗒响的;**bootable**可启动的;**loader**装货的人;**reboot**重新启动;**grub**翻掘;**BIOS**基本输入/输出系统Basic Input / Output System）;**insole**鞋内底;
+- You might find you have snow stub follow your boots /你可能发现鞋底有雪.
+- My favorite outfit was the glittery boots and my bumblebee tights /我最喜欢的搭配就是我的闪闪雨鞋和大黄蜂连裤袜。
 - reboot
 - jackboot
 	-  [Hessian boot](dic://Hessian boot), [hessian](dic://hessian), [Wellington](dic://Wellington), [Wellington boot](dic://Wellington boot)

@@ -19,7 +19,7 @@
 ↗ [System Core Function Libraries & C Standard Library](../../../🥷🏼%20Operating%20System%20(Engineering)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
 ↗ [Linux System Calls](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md)
 
-↗ [FAQ /👉 Linux Library Functions Call 🆚 System Call 🆚 Procedure/Function Call](../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/FAQ.md#👉%20Linux%20Library%20Functions%20Call%20🆚%20System%20Call%20🆚%20Procedure/Function%20Call)
+↗ [FAQ /👉 Linux Library Functions Call 🆚 System Call 🆚 Procedure/Function Call](../../../🥷🏼%20Operating%20System%20(Engineering)/FAQ.md#👉%20Linux%20Library%20Functions%20Call%20🆚%20System%20Call%20🆚%20Procedure/Function%20Call)
 
 
 
