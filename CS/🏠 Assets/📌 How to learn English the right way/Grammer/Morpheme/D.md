@@ -2309,7 +2309,7 @@
 		8. humiliator
 		9. humiliation
 		10. humiliating
-	3. hummock
+	3. hummock (hammock)
 		1. **dune**沙丘;**dunes**沙丘;**grassy**长满草的;**vegetation**植物;**grassland**草原，牧场;**tundra**苔原;**ridge**山脉;**meadow**草地;**bog**沼泽;**marsh**湿地;**mound**堆;
 		2. [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hammock](dic://hammock)
 		3. The season was more advanced than at the Creek, two hundred miles to the north, and I noticed that spring flowers were blooming among the lumpy hummocks. /这个季节比在北面两百英里的小溪要早， 我注意到春天的花朵在凹凸不平的小丘之间盛开。

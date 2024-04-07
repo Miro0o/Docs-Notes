@@ -473,12 +473,127 @@
 ### + \*wed- +
 #### + \*wed- (1) + = water, wet
 1. **hydr-, hydro-** = water, 表示“水”，来源于希腊语。表示化学元素“氢”，因为氢燃烧后的产物是水，法国化学家拉瓦锡便用拉丁文把它命名为“水的生成者”。源自希腊语 hudor "water."
-	1. hydric
-	2. etc..
-2. hydrargyr- 表示“水银”。hydr-水 + argyr- 银。
+	1. hydro-
+	2. hydro
+	3. hydric
+	4. hydrocephalus
+		2. hydro-水 + cephal-头 + -us
+	5. hydrodynamics
+		1. n. 流体力学, 水动力学
+	6. hydrocarbon
+		1. n. 碳氢化合物; 烃
+	7. hydro-airplane
+	8. hydroelectric
+	9. hydrofoil
+	10. hydrogen
+	11. hydrology
+		1. hydrograph
+			1. hydrographical
+			2. hydrographist
+		2. hydrological
+		3. hydrologist
+	12. hydrolysis
+	13. hydrolyze
+	14. hydromechanical
+	15. hydromechanics
+	16. hydrometer
+		1. hydrometrical
+		2. hydrometry
+	17. hydronaut
+	18. hydropathy
+		1. hydropathic
+	19. hydrophone
+		1. n. 水中听音器, 检漏器, 水诊器
+	20. hydrophyte
+		1. _n._ [vascular plant](dic://vascular plant), [tracheophyte](dic://tracheophyte)
+		2. **vegetation**植物;**algae**藻类;**aquatic**水生的;**salinity**盐度;**freshwater**淡水的;**plants**植物;**biofilm**生物膜;**shrub**灌木;**biomass**生物量;**grasses**稻科植物类;**vegetative**植物生长的;
+		3. to compare xerophyte and hydrophyte /对比旱生植物和水生植物
+		4. Its stomach contents mainly consist of **hydrophyte**, miscellaneous fishes, shrimps, mollusc, aquatic insects and worms. /胃内物组成有植物、小杂鱼、虾类、贝类、水生昆虫和蠕虫。
+	21. hydropic
+	22. hydroplane
+	23. hydropneumatic
+		1. _[hydropneumatic](dic://hydropneumatic)_  adj. 液压气动的；水气并动的
+	24. hydroponic
+		1. _adj._ [hydroponics](dic://hydroponics), [aquiculture](dic://aquiculture), [tank farming](dic://tank farming)
+		2. **irrigation**灌溉;**greenhouse**温室, 花房;**seedlings**幼苗;**fertilizer**肥料;**gardening**园艺;**plants**植物;**potting**陶器制造;**lettuce**莴苣;**grower**栽培者;**compost**堆肥;**horticulture**园艺学;
+	25. hydropower
+		1. _hydropower station_ 水电站
+		2. _hydropower engineering_ 水利水电工程；水力工程学；水利工程
+		3. Solar power, wind energy, hydropower or bio-fuels. /太阳能、风能、水电还是生物燃料？
+		4. The hydropower station is located on the Jinsha River. /该水电站位于金沙江上。
+		5. The campaign says it's not against hydropower altogether /该活动主办方表示，他并非完全反对水力发电。
+		6. They help provide irrigation and hydropower and protect communities from flooding. /它们提供灌溉和水力发电，并保护社区免受洪水侵袭。
+		7. That accounts for about half of hydropower generation worldwide. /这些设施的发电量大约占到全球水力发电总量的一半。
+	26. hydropsy
+		1. n. 积水；水肿病（等于dropsy）
+		2. dropsy
+	27. hydrosphere
+		1. n. [地物] 水界，[地物] 水圈；水气
+		2. _n._ [layer](dic://layer)
+		3. **oceans**海洋;**groundwater**地下水;**fluxes**流动;**subsurface**地下的;**earth**地球;**sediments**沉淀物;**seawater**海水;**freshwater**淡水的;**atmosphere**大气;**salinity**盐度;**anthropogenic**人类发生的;
+		4. The hydrosphere includes the ocean, rivers, lakes, streams, groundwater and even puddles. /水圈包括海洋、河流、湖泊、溪流、地下水甚至水坑。
+	29. hydrostat
+	30. hydrostatical
+	31. hydrotherapy
+		1. hydrotherapeutic
+	32. hydrothorax
+	33. hydrotropism
+	34. hydrovane
+		1. - n. 水翼；着水板
+	35. hydroxide
+		1. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+		2. **chloride**氯化物;**sulfate**硫酸盐;**oxide**氧化物;**carbonate**碳酸盐;**sulfide**硫化物;**ammonium**铵;**alkali**碱;**oxides**氧化物;**peroxide**过氧化物;**phosphate**磷酸盐;**dioxide**二氧化物;
+		3. Objective To study the clinical effect of indoform and calcium hydroxide paste /目的探讨碘仿氢氧化钙治疗髓腔穿孔的疗效。
+		4. Current entering your saliva from one lead creates hydrogen gas, leaving hydroxideions behind. /电流从导线进入你的唾液中，生成氢气，留下氢氧化物。
+		5. So the formula for Kw becomes simply the hydronium ion concentration times the hydroxide concentration. /水分子既可以释放氢离子，也可以接收氢离子。
+		6. The water and hydroxide ions, by the way, come from a solution of potassium hydroxide. /顺便说一句， 水和氢氧根离子来自氢氧化钾溶液。
+	36. hydrozoan
+	37. hydrase
+	38. anhydrase
+		1. n. 脱水酶, 去水酶
+	39. anhydrous
+		1. an-无 + hydr-水 + -ous...的 → 无水的。
+	40. carbohydrate
+		1. n. 碳水化合物, 糖类
+		2. carbo-碳 + hydr-氢，水 + -ate, 表名词。
+		3. hydr-（水）：九头蛇海德拉  
+		4. 海德拉（Hydra）是希腊神话中巨大的的九头蛇，是希腊神话中最强悍的怪物之父提丰（Typhon）和女首蛇身怪爱克特娜（Echidina）交配所生。赫拉克勒斯要完成的第二项艰巨任务就是杀死九头蛇海德拉。它吞食田地，蹂躏人畜，无恶不作，所吐出来的毒气还使得当地成为的瘟疫沼泽。海德拉的血液和呼出的气息都有毒。并且它有九个头，砍掉每一个头都会再生，而且中间的那一个头还是永生不死的，让赫拉克勒斯大伤脑筋，还好后来他的侄子交给他一个火把，让他每砍掉一个头就用火把烧伤口，让他再也长不出头来。而最后一个头在砍下之后，赫拉克勒斯就把它的头用大石头压着，让它再也不能作怪，最后还把身上所有的箭都沾上了海德拉的毒血，成为赫拉克勒斯后来的武器。  
+		5. 在希腊语中，海德拉的名字Hydra是hydros（水蛇）的阴性形式，而后者来自名词hydor（水）。希腊词根和英语词根hydr-（水）就来源于此。英语中用hydra来命名水螅，因为它头部拥有很多触手，形状与传说中的九头蛇很像。  
+		6. _n._ [macromolecule](dic://macromolecule), [supermolecule](dic://supermolecule)
+		7. **glycogen**糖原;**glucose**葡萄糖;**protein**蛋白质;**fructose**左旋糖;**starch**淀粉;**calorie**卡路里;**caloric**热量的;**carb**汽化器;**sucrose**蔗糖;**nutrient**营养物;**calories**卡路里;
+		8. _carbohydrate metabolism_ [医]碳水化合物代谢
+		9. _complex carbohydrate_ 复合糖；合成碳水化合物
+		10. Cashew nuts are rich in carbohydrate. /腰果含丰富碳水化合物。
+		11. Athletes usually eat a high carbohydrate diet. /运动员通常吃高碳水化合物食物。
+		12. During the fermentation of low carbohydrate beer,carbohydrates in wortwas analysed by HPLC. lt was found that the utilization of maltotriose was the key to im-prove the attenuation degree. /运用HPLC法对低糖啤酒发酵过程中糖组分进行了动态分析，发现麦芽三糖的利用效率是发酵度提高的关键所在。
+		13. The plant uses the carbohydrates to make cellulose. /植物用碳水化合物制造纤维素。
+		14. Some people should eat more carbohydrates than others. /有些人应该比其他人吃更多的碳水化合物。
+		15. The main component of flour is starch, which is a carbohydrate. /面粉的主要成分是淀粉，它是一种碳水化合物。
+		16. hydr-：水  
+		17. hydra：['haɪdrə] n.水螅，九头蛇，难以根除的祸害。  
+		18. hydrant：['haɪdrənt] n. 消防栓；水龙头；给水栓  
+		19. hydrate：['haɪdret] n. 水合物；氢氧化物vt. 使成水化合物vi. 与水化合  
+		20. hydration：[haɪ'dreʃən] n. 水合作用  
+		21. hydraulic：[haɪ'drɔlɪk] adj. 液压的；水力的；水力学的  
+		22. dehydrate：[di'haɪdret] vt. 使…脱水vi. 脱水；去水  
+		23. dehydration： [,dihaɪ'dreʃən] n. 脱水  
+		24. carbohydrate： [,kɑrbo'haɪdret] n. 碳水化合物；糖类
+	41. hydra
+		1. _n._ [mythical monster](dic://mythical monster), [mythical creature](dic://mythical creature), [constellation](dic://constellation), [trouble](dic://trouble), [problem](dic://problem), [hydrozoan](dic://hydrozoan), [hydroid](dic://hydroid)
+		2. **monster**怪物;**dragon**龙;**beast**野兽;**octopus**章鱼;**serpent**蛇;**jellyfish**水母;**squid**鱿鱼;**monsters**怪兽;**demon**魔鬼;**creature**动物，生物;**daemon**半神半人的精灵;
+		3. a hydra-headed social problem. /社会问题难以解决的方面
+		4. The team followed more than two thousand individual hydras for a combination of 3.9 million days /该团队跟踪了 2000 多只单独的九头蛇，总共跟踪了 390 万天。
+		5. It was, like, kind of like the hydra's head. /它有点像九头蛇的头。
+		6. No decline in fertility, or increase in mortality, was observed at any point in the hydra life cycle. /在水螅生命周期的任何时候都没有观察到生育率下降或死亡率增加。
+		7. But there are a few exceptions to this get-older-and-die thing -- including, it turns out, tiny sea creatures called hydras. /但是， 这种变老和死亡的事情也有一些例外——事实证明，包括被称为九头蛇的微小海洋生物。
+	42. rehydrate
+	43. hydric
+	44. hydroid
+	45. hydrous
+2. **hydrargyr-** = 表示“水银”。hydr-水 + argyr- 银。
 	1. arg-
 3. **und-** = wave, 表示“波动”。源自拉丁语 unda "wave."
-	1. abound, 
+	1. abound
 		1. abundance
 		2. abundant
 	2. inundate
@@ -653,7 +768,7 @@
 9. witch
 
 
-### + \*wegh + = to go, move, transport in a vehicle
+### ⭐ + \*wegh + = to go, move, transport in a vehicle
 1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
 	1. ochlocracy
 	2. ochlocratic
@@ -915,6 +1030,7 @@
 				3. Men are often expected to be the breadwinner in a family
 		4. winnable
 	4. vendetta
+		1. 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
 	5. vim
 		1. n. 精力, 生气, 精神
 		2. 1 - 来自拉丁语 vis,力量，精力，-m,宾格后缀，比较 am,him,来自 PIE*weie,追寻，渴求，词源同win,Venus.
@@ -1592,6 +1708,12 @@
 			7. _viscous flow_ 粘性流；滞流
 			8. _viscous fluid_ 粘性流体
 			9. _viscous liquid_ 粘性液体，粘滞流体；黏滞液体，黏性液
+			10. The Magnetic Field Projectual is a sturdy, transparent acrylic case that holds iron filings in a special viscous fluid /磁场投射盒是一坚固、透明的压克力板，里面有铁粉在一种特别的纤维性液体里。
+			11. Volcanic systems can erode canyons by having fluid flow if it's very fluid, not very viscous /如果液态岩浆流畅而不黏稠的话，火山系统可以侵蚀峡谷。
+			12. And the thicker—that is, the more viscous—they are, the more likely they'll clog up those pipes /而且越厚，粘性就相对越大，它们就越有可能堵塞管道。
+			13. The second reveals a viscous texture as silky as orchid petals. /第二口是粘稠的质地，像兰花花瓣一般丝滑。
+			14. The viscous mixture surrounds the crystals, letting them slide and slip past each other /这层胶状物质包裹在骨骼外，使得它们互相之间可以进出。
+			15. It seemed as if these viscous tentacles grew back like the many heads of Hydra./这些粘乎乎的触须就像多头蛇的头一样，不断地长出来。
 		6. viscosity
 			1. _n._ [consistency](dic://consistency), [consistence](dic://consistence), [body](dic://body)
 			2. **viscous**粘性的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**porosity**有孔性，多孔性;**permeability**弥漫;**lubrication**润滑;**fluid**流动的;**lubricant**润滑剂;**thickness**厚,粗;**modulus**模数;**surfactant**表面活性剂;**temperature**温度, 气温;
@@ -1600,7 +1722,11 @@
 			5. _apparent viscosity_ 表观粘度
 			6. _viscosity index_ 粘度指数
 			7. _oil viscosity_ 滑油粘度
-	4. virus
+			8. There's gotta be a good viscosity to it. /它必须有良好的粘度。
+			9. Oh, it is, look at the viscosity. - It's more. /是的，看看它的黏度。- 它更黏。
+			10. This means that we solve these fluid equations by taking care of advection, pressure, and viscosity separately. /这意味着我们解决这些流体方程时，是将对流、压力和粘度分开进行处理的。
+			11. I mean obviously, like it doesn't really have any viscosity. /我的意思是很明显，就像它真的没有任何粘性一样。
+	3. virus
 		1. avirulent, avirulence
 		2. virulent, virulence
 		3. antiviral
@@ -1611,11 +1737,11 @@
 		7. virosin
 		8. virosis
 		9. virucide
-	5. enteroviral
-	6. virion
+	4. enteroviral
+	5. virion
 		1. n. 病毒体，病毒颗粒
-	7. virome
-	8. viruria
+	6. virome
+	7. viruria
 2. bison
 	1. _n._ [bovid](dic://bovid)
 	2. **elk**麋鹿;**buffalo**水牛;**moose**驼鹿;**deer**鹿，梅花鹿;**herds**畜群;**wolves**贪婪者;**wolf**狼;**cattle**牛;**prairie**大草原;**antlers**鹿角;**boar**野猪;
@@ -1887,7 +2013,7 @@
 		14. _[the weal and woe](dic://the%20weal%20and%20woe)_ 指生活上的困苦
 3. wealth
 4. will
-#### + \*wel- (3) + = to turn, to revolve
+#### ⭐ + \*wel- (3) + = to turn, to revolve
 1. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
 	1. elytron
 	2. etc..
@@ -2478,7 +2604,7 @@
 5. aria
 	1. _n._ [song](dic://song), [vocal](dic://vocal)
 	2. **soprano**女高音;**opera**歌剧;**operatic**歌剧的;**Verdi**威尔第;**concerto**协奏曲;**alto**女低音;**duet**二重奏;**lyric**抒情的;**libretto**剧本;**tenor**男高音;**chorus**合唱队;
-#### + \*wer- (3) = to turn, bend
+#### ⭐ + \*wer- (3) = to turn, bend
 1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
 	1. citywards, fieldwards, landwards, moonwards, riverwards, shorewards, sunwards, townwards, 
 		1. costward, earthward, homeward
@@ -3437,27 +3563,142 @@
 		7. rhetorician
 		8. rhetorical, rhetorically
 2. **verb-** = word, 表示“词语”。源自拉丁语 verbum "word."
-	1. deverbative
-	2. nonverbal
-	3. proverb
-	4. reverberant, reverberate (上面有)
-	6. verb
-	7. verbal
-	8. verbatim
-	9. verbiage
-	10. verbicide
-	11. verbify
-	12. verbose
-	13. verboten
-	14. verve
-		1. [vitality](dic://vitality)
-		2. _n._ [energy](dic://energy), [muscularity](dic://muscularity), [vigor](dic://vigor), [vigour](dic://vigour), [vim](dic://vim)
-		3. **gusto**热情,乐趣,津津有味;**vigor**活力，精力;**flair**天资;**finesse**纤细;**vibrancy**振动;**zest**风味;**wit**智力;**enthusiasm**热情, 热心;**vitality**活力，生气;**subtlety**微妙;**swagger**吓唬;
-		4. Kollo sings with supreme verve and flexibility. /科罗唱歌既充满激情，又十分灵活。
-		5. This is sweeping history, told with verve and panache, and it is all the more refreshing for that. /这是一段气势恢宏的历史，言辞间充满了活力和派头，正因为此本书更是令人耳目一新
-	15. adverb
+	1. verb
+	2. verbal
+		1. verbally
+		2. verbalize
+			1. verbalization
+		3. verbalist
+		4. verbalism
+		5. verbalise
+	3. verbatim
+		1. a. 逐字的, 照字面的  ad. 逐字地
+		2. [direct](dic://direct)
+		3. [word for word](dic://word for word)
+		4. _adj._ [exact](dic://exact)
+		5. _n._ [inexact](dic://inexact)
+		6. **excerpts**摘由，节选;**paraphrase**释义;**quoting**引用，引证;**gist**主旨，要点;**abridged**删节的;**quotations**价目;**quote**引述;**transcript**抄本;**excerpt**摘录，引用;**written**书面的，成文的;**copy**复制;
+		7. a verbatim report of the conversation /对该谈话的一字不差的汇报
+		8. a verbatim account of what was said /一字不差的说出别人说了的话
+		9. They are able to listen to a lecture and then repeat it back verbatim, or word-for-word. /听完一个讲座之后，他们能逐字逐句、一字不差地复述下来。
+		10. If a student copies someone else's work verbatim, it's called cheating /比如说一个学生一字不差地抄袭其他人的功课，那这就叫做作弊。
+		11. Okay, so that was verbatim questions /好了，刚才是逐字复述的问题。
+		12. And these studies show that taking notes by hand might help you do that, since you probably won't copy as much verbatim. /这些研究表明，手写笔记可能有助于你做到这一点，因为逐字抄写时，可能记不了那么多。
+	4. verbiage
+		1. n. 罗嗦, 冗词, 措辞
+		2.  [verbalism](dic://verbalism)
+		3. [wording](dic://wording), [diction](dic://diction), [phrasing](dic://phrasing), [phraseology](dic://phraseology), [choice of words](dic://choice of words)
+		4. _n._ [verboseness](dic://verboseness), [verbosity](dic://verbosity), [formulation](dic://formulation), [expression](dic://expression)
+		5. **jargon**行话，术语;**wording**语法;**hyperbole**夸张的语句;**rhetoric**修辞，修辞学;**phrasing**分节法;**nonsensical**无意义的;**lingo**行话;**drivel**淌口水,说傻话;**terminology**专门用语;**flowery**多花的;**extraneous**外部的,外来的;
+		6. to sweep away such verbiage /扫除这些空谈
+		7. to slough off unimportant verbiage /删除无关紧要的空话
+		8. So a lot of the normal vocabulary and verbiage we use, they use in the movies. /所以很多我们平时用到的单词用语，在电影中也会用。
+		9. If you didn't catch that in the verbiage it was a most turd. /如果你没有从措辞中明白这一点，那就是一坨屎。
+		10. And I said the verbiage was too complicated because they were getting late to the line of scrimmage again. /我说措辞太复杂了，因为他们又迟到了混战线。
+		11. Omar says, " It's true that some of the verbiage was written like tongue twisters, but I thought he would have had it down cold by now." There are several words and expressions there /奥马尔说，“的确，有些冗长的文字写得像绕口令，但我想他现在应该已经冷静下来了。 ” 那里有几个单词和表达方式
+	5. verbicide
+		1. n. 滥用词语, 糟蹋词语, 滥用词语者, 糟蹋词语者
+	6. verbify
+		1. vt. 使动词化
+	7. verbose
+		1. a. 用字多的, 冗长的, 累赘的
+		2. verbosity
+		3. verbosely
+	8. verboten
+		1. 来自德语，词源同 forbidden.
+		2. a. 被禁止的
+		3. [forbidden](dic://forbidden), [out(p)](dic://out(p)), [prohibited](dic://prohibited), [proscribed](dic://proscribed), [taboo](dic://taboo), [tabu](dic://tabu)
+		4. _adj._ [impermissible](dic://impermissible)
+		5. _n._ [permissible](dic://permissible), [allowable](dic://allowable)
+		6. **no-no**被禁止的东西;**forbidden**被禁止的;**taboo**禁忌;**permissible**可允许的, 许可的;**strictly**严格地;**frowned**皱眉;**acceptable**合意的;**innocuous**无害的;**obscene**淫秽的;**objectionable**该反对的;**censored**设限，被检查过的;
+		7. Now let’s have a look at some other everyday items that are usually verboten in the penitentiary. /现在让我们来看看监狱中通常禁止使用的其他一些日常用品。
+		8. What it once considered lighthearted banter is now verboten homophobia /曾经被认为是愉快的玩笑，现在是被禁的恐同症。
+		9. **Verboten**, at least on "bad air" days. They kick up dust /严禁使用，至少在空气质量差的那几天，会产生扬尘。
+		10. Some other rules: the passive voice is to be avoided and pop culture references are **verboten**. /一些其他的准则：避免被动语态以及不能涉及流行文化。
+	9. verve
+		1. 来自拉丁语 verba,灵光闪现想出的字词，灵感，词源同 word.原指在写作和艺术方面特殊的才能，引申词义神韵，热情等。
+		2. _n._ (尤指在艺术或文学工作中的)热忱，精力，活力 气魄；神韵
+		3. [vitality](dic://vitality)
+		4. _n._ [energy](dic://energy), [muscularity](dic://muscularity), [vigor](dic://vigor), [vigour](dic://vigour), [vim](dic://vim)
+		5. **gusto**热情,乐趣,津津有味;**vigor**活力，精力;**flair**天资;**finesse**纤细;**vibrancy**振动;**zest**风味;**wit**智力;**enthusiasm**热情, 热心;**vitality**活力，生气;**subtlety**微妙;**swagger**吓唬;
+		6. Kollo sings with supreme verve and flexibility. /科罗唱歌既充满激情，又十分灵活。
+		7. This is sweeping history, told with verve and panache, and it is all the more refreshing for that. /这是一段气势恢宏的历史，言辞间充满了活力和派头，正因为此本书更是令人耳目一新
+		8. If the reaper calls for Prince, with all his talent and verve, he will certainly knock for you /如果死神带走了Prince（美国音乐家），他洋溢的才华和激情也未能让他幸免，那么死神也一定会敲响你的门。
+		9. In short, the past type often clings to the well-established way with nostalgic verve /简而言之，过去的类型往往怀着怀旧的神韵固守既定的方式。
+		10. The verve with which they attacked their assignment was alarming: Each pair went from virgin to wrecked in under a minute. /他们攻击这项任务的气魄是惊人的；每条裤子都在不到一分钟的时间里从处女地变成了废墟。
+		11. This harrowing and astonishing story is told with pace and verve, and is an important addition to Holocaust historiography. /这个令人痛心和惊人的故事以节奏和神韵讲述，是对大屠杀史学的重要补充。
+		12. People are on the streets calling for change with a verve and tenacity we have not seen for a generation. /人们走上街头，以我们一代人从未见过的神韵和坚韧呼吁变革。
+	10. adverb
+		1. ad-,去，往，verb,动词。即修饰动词的词，引申词义副词。
+		2. adverbial
+		3. adverbially
+	11. proverb
+		1. pro-,向前，-verb,说，词源同 verbal.引申词义谚语，格言等。
+		2. n. 谚语, 格言, 箴言  
+		3. vt. 使众所周知, 用谚语表达
+		4. [adage](dic://adage), [saw](dic://saw), [byword](dic://byword)
+		5. _n._ [saying](dic://saying), [expression](dic://expression), [locution](dic://locution)
+		6. **adage**格言，谚语;**sayings**语录;**fable**寓言;**idiom**成语，习语;**parable**寓言，比喻;**phrase**成语;**motto**座右铭，格言;**Confucius**孔子;**axiom**公理;**verse**诗，诗篇;**slogan**标语;
+		7. He is a proverb for carelessness. /他的粗心是人所共知的。
+		8. His punctuality is a proverb. /他严守时间是有名的。
+		9. Like a thorn bush in a drunkard's hand is a proverb in the mouth of a fool. /箴言在愚昧人的口中，好像荆棘刺入醉汉的手。
+		10. As the proverb goes, time is money. /俗语说, 时间就是金钱。
+		11. This is a proverb and you ought to stick it down and learn it by heart. /这是条谚语, 你得把它抄下来记熟。
+		12. 'Don't put all your eggs in one basket' is a proverb. /'不要把你所有的鸡蛋放在一个篮里'/'切忌弧注一掷'是一句谚语。
+		13. There is no way has it a proverb! You just made that up. /根本没这谚语！你自己刚编的吧。
+		14. proverbial
+			1.  来自 proverb,谚语。比喻用法。
+			2. adj. 谚语的，俗话所说的；众所周知的 
+			3. n. （常用于委婉替代谚语或成语中未出现的词）那东西，那玩意儿
+			4. _adj._ [proverb](dic://proverb), [adage](dic://adage), [saw](dic://saw), [byword](dic://byword), [known](dic://known)
+			5. _n._ [unknown](dic://unknown)
+			6. **metaphorical**隐喻般的;**veritable**真正的，名副其实的;**turd**可鄙的人;**smack**掌击声;**flaming**燃烧的;**giant**巨人;**fabled**寓言中的，虚构的;**bum**流浪汉;**goddamn**讨厌的;**literal**逐字的;**arse**屁股;
+			7. For one, this goes right against the proverbial “all calories are equal.” /首先 这和公认的“卡路里都是等价”的概念背道而驰。
+			8. Personal-finance experts have long considered the proverbial nest egg to be sacrosanct. /长期以来，个人理财专家都认为众所周知的（养老）存款是坚决不能染指的。
+			9. His oblique command was to become a proverbial case of gangsterism dressed in plausible deniability. /亨利二世通过拐弯抹角的命令让自己合理地置身事外，并打造出了一场众所周知的犯罪案件。
+			10. Sounds like you're still searching for a needle in the proverbial haystack /看来你还是在大海捞针啊。
+			11. I mean, sometimes, you're in a completely distributive negotiation with limited slices of proverbial pie /我的意思是，有时，你是在一个完全的分配性谈判中，只有有限的几块众所周知的馅饼。
+		15. proverbially
+		16. proverbialist
+	12. deverbative
+	13. nonverbal
+		2. a. 非言辞语的, 不用语言的
+	14. reverberant, reverberate (上面有)
 3. rheme
-4. word 
+	1. n. 表位, 述位（提供新信息的句子成分）
+4. word
+	1. n. 话, 消息, 词, 诺言, 命令  vt. 用言辞表达
+	2. wordy
+		1. adj. 冗长的；口头的；唠叨的；文字的
+		2. [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy)
+		3. _adj._ [prolix](dic://prolix)
+		4. _n._ [concise](dic://concise)
+		5. **succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**prose**散文;**concise**简明的，简洁的;**disjointed**脱离开的,不连贯的;**ramble**漫步;**confusing**莫名其妙的, 难以理解的;**tedious**冗长乏味的;**pretentious**自命不凡的;**nonsensical**无意义的;
+		6. a wordy and repetitive account. /一篇冗长且重复的报告。
+		7. His wordy and empty speech was a frost. /他的冗长空洞的讲话使人厌烦。
+		8. a long-winded speaker 
+		9. on the publication of Worcester's dictionary, a wordy war arose. /伍斯特氏词典一出版，一场文字战就爆发了。
+		10. If that is too wordy, you can simply say he is no fool. /如果你嫌太冗长，那么，你也可以简单地说" 他可不是傻瓜。"
+		11. Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive. /除了口头和相应的战略内容，未来政府需要作出更多的行动来创造条件，使得体育运动蓬勃发展
+		12. In your letter of application, say just enough to give a good account of yourself without being wordy. /在你的求职信中，不要罗嗦，只要说得足够好就可以了。
+	4. wordless
+	5. wording
+	6. wordbook
+		1. n. 词典；字汇表；歌词集
+		2. _n._ [reference book](dic://reference book), [reference](dic://reference), [reference work](dic://reference work), [book of facts](dic://book of facts)
+		3. **dictionary**词典, 字典;**vocabulary**词汇;**thesaurus**同类词汇编;**lexicon**词典，辞典;**lexical**词汇的;
+	8. wordage
+	9. word-splitting
+	10. word-spining
+	11. word-perfect
+	12. word-painter
+	13. word-hoard
+	14. word-formation
+	15. word-deaf
+	16. word-building
+	17. word-blind
+	18. watchword
+	19. etc.. (todo)
 
 
 ### + \*werg- + = to work
@@ -3786,6 +4027,66 @@
 	5. vernamycin
 
 
+### + \*wet- + 
+1. **veter-** = old, 表示“老”。源自拉丁语 vetus "old."
+	1. inveteracy
+		1. n. 根深蒂固, 积习
+		2. in-进入，使 + veter-老的，长时间的 + -acy
+		3. She and her father would unquestionably be guilty of this crime, and this woman (the inveteracy of whose pursuit cannot be described) would wait to add that strength to her case, and make herself doubly sure /毫无疑问，她和她的父亲将犯下这一罪行，而这个女人（其追求的狂热程度无法描述）会等着为她的案子增添这种力量，并使自己加倍确定。
+		4. Without premeditation, to her own surprise, and indeed terror, she had given vent, for once, to the inveteracy of her resentment, cherished against this kinsman for thirty years /出乎她自己的意料， 甚至是恐惧， 她毫无预谋地发泄了三十年来对这个亲戚的积怨。
+		5. The **inveteracy** of people's prejudices is out of your imagination. /人们偏见的根深蒂固远远超出了你的想象。
+		6. His fine brushwork rigorous modeling portraits, portrait of attention fluid lines, robust hearty, free-style, completely out of the old ladies painted figures Sophie **inveteracy** trivial detail. /他的工笔人物画造型严谨，刻画入微线条流畅，刚健爽朗，风格清闲，完全摆脱了旧人物仕女画柔靡琐细的积习。
+	2. inveterate
+		1. a. 根深的, 成癖的, 积习的
+		2. in-进入，使 + veter-老的，长时间的 + -ate, 表形容词，引申词义积习难改的，上瘾的。
+		3. _adj._ [addicted](dic://addicted)
+		4. _n._ [unaddicted](dic://unaddicted)
+		5. **ardent**热情的;**avid**渴望的，贪婪的;**habitual**惯常的;**compulsive**极有趣的;**incurable**不能医治的;**staunch**坚固的;**long-time**为时已久的，历久的;**lifelong**终身的;**fervent**强烈的;**admirer**赞赏者;**die-hard**顽固的;
+		6. an inveterate seer of sights. /锲而不舍的名胜观光者
+		7. an inveterate disease /宿疾, 老毛病
+		8. he was an inveterate gambler. /他是个积习难改的赌徒。
+		9. inveterate preferences /根深蒂固的嗜好
+		10. The trilling wire in the blood sings below inveterate scars appeasing long-forgotten wars /血液中发着颤音的弦在永不消失的伤疤下歌唱，安抚那早已忘却的战争。
+		11. As an inveterate traveler, his work changed as often as his landscapes did, especially in Venice. /作为一生游历各地的画家，他的作品会随着所游历之地的地形而发生变化，尤其是威尼斯。 
+		12. The necessity of economizing it, acquired under the Empire, had grown to be the most inveterate of his habits /节约开支的必要性，在帝国统治下获得，已经成为他最根深蒂固的习惯。
+	3. veteran
+		1. n. 老手, 退伍军人, 老兵, 老树  
+		2. a. 老兵的, 老练的, 经验丰富的
+		3. 来自 PIE*wet,年，岁月，词源同 wether.引申词义有经验的，退役的老兵
+	4. veterinarian
+		1. veterinarian [,vet(ə)rɪ'neərɪən] n.兽医。拉丁词根vet-,veter-表示year，与希腊词根eter-比如eternal [ɪ'tɜːn(ə)l] adj.永恒的；不朽的以及日耳曼词源的单词wether ['weðə] n.阉羊同源。阉割要等羊羔长到合适月份，婴儿头六个月内有来自母体的天然免疫力，而家畜也得长到足够大才能干活。 
+	5. veterinary
+		1. a. 兽医的  n. 兽医
+		2. 来自拉丁语 veterinum,驮畜，驮兽，词源同 veal,wether.引申词义兽医。
+		3. _n._ [doctor](dic://doctor), [doc](dic://doc), [physician](dic://physician), [MD](dic://MD), [Dr.](dic://Dr.), [medico](dic://medico)
+		4. _adj._ [veterinarian](dic://veterinarian), [veterinary surgeon](dic://veterinary surgeon), [vet](dic://vet), [veterinary medicine](dic://veterinary medicine)
+		5. **veterinarian**兽医;**medical**医学的;**equine**马的;**vet**诊疗;**animal**动物;**pet**宠物;**livestock**家畜, 牲畜;**medicine**药;**biomedical**生物医学的;**dental**牙齿的，牙的;**radiology**放射学,辐射学;
+	6. vet
+		1. n. 兽医; 退伍军人; 审查  
+		2. v. 审查, 仔细检查
+		3. 缩写自 veteran​​​​
+		4. vetting
+		5. unvetted
+2. **vitell-** = = vitellus, 表示“卵黄”。源自拉丁语 vitulus "calf, yearling."
+	1. veal
+		1. n. 小牛肉  vt. 宰小牛
+		2. 来自拉丁语 vitulus,小牛，字母 t 脱落，来自 PIE*wet,年，词源同 vellum,wether.原指尚未成年的小牛，后指小牛肉。
+		3. _n._ [meat](dic://meat)
+		4. **beef**牛肉;**lamb**羔羊，小羊;**pork**猪肉;**meat**肉，肉类;**steak**牛排;**braised**炖熟的;**chicken**小鸡;**risotto**意大利调味饭;**ravioli**略有馅的水饺;**sausage**香肠;**fillet**无骨的鱼或肉排;
+		5. Grilled veal, tomato tapenade, and roasted eggplants. /烧烤小牛肉 配番茄酱和烤茄子。
+		6. The recipe calls beef, veal or mutton. /菜谱上说用牛肉、小牛肉或羊肉。
+	2. vitellus
+		1. n. 卵黄
+		2. vitellin
+			1. n. 卵黄磷蛋白
+		3. vitelline
+			1. a. 卵黄的
+3. etesian
+4. wether (weather /whether /ether /wither /wetter /tether)
+	1. male sheep especially a castrated one
+	2. " Wethers must live their time as well as other sheep, poor soul." /“阉了的羊也得跟其它羊群一样地过日子呀，可怜的人。
+
+
 
 ## wi
 ### with- 表示“向后，相反”。
@@ -3934,7 +4235,7 @@
 
 
 ## wr
-### + \*wrad- + = branch, root
+### ⭐ + \*wrad- + = branch, root
 1. **rad-, radi-** 表示“桡骨”。源自拉丁语 radius "beam."
 	1. etc..
 2. **rad-, radic-** = root, 表示“根”， 和 root 同源。源自拉丁语 radix "root."
@@ -4223,3 +4524,29 @@
 2. **retro-** 表示“向后，倒退，之前”。源自拉丁语 retro "backward, back, behind."
 	1. retro-rocket
 	2. retroat
+
+
+
+## wr
+### + \*wesr- +
+1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
+	1. primavera
+		1. _n._ 白桃花心木(中美洲出产的一种树木或其木材)
+		2. He can have a nice spaghetti primavera. No cream. I'm not going to give hime something else. /他可以吃到美味的春意面。没有奶油。我不会给他别的东西。
+		3. Let's talk about my primavera sauce pancetta frying off in a pan, render out that fat get it all nice and golden brown and crispy, remove that. /让我们来谈谈我的意面酱，意式烟肉，在平底锅里煎，把脂肪煎出来，让它变得金黄酥脆，把它拿出来。
+	3. vernal
+		1. a. 春天的, 和煦的, 青春的
+		2. 来自拉丁语 ver,春季。
+		3. [youthful](dic://youthful), [young](dic://young)
+		4. _adj._ [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
+		5. _n._ [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
+		6. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
+		7. _vernal equinox_ n. 春分；春分点（约在3月20日）
+		8. The linnet chirps her vernal song /红雀吱喳鸣叫着她春天的歌。
+		9. And if vernal pools had a mascot, it would probably be these fairy shrimp. /如果春池有吉祥物的话，可能是这些仙女虾。
+		10. Let tulips trust not the warm **vernal** rain. /让郁金香相信春天的绵绵细雨。
+		11. Dead place with light, and life, and **vernal** air. /充满生命的活力和炯炯光明。
+		12. One day before the vernal equinox. Dad? - Yeah. Mark that. /春分点的前一天 爸? - 画个记号。
+		13. vernalize
+			1. vt. 进行春化处理；以人工方法促进发育（等于 vernalise）
+		14. vernalization

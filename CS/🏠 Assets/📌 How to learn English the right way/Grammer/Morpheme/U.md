@@ -72,13 +72,50 @@
 
 
 ## um
+### ⭐ -um,-ium   
+表示金属元素。1811 年瑞典化学家 Berzelius 建议，为统一化学元素的命名起见，凡金属元素一律用拉丁词根命名，用 -um 为词尾。以后所发现的新金属元素，都遵照了这个建议。
+1. actinium
+2. aluminium
+	1. alumin-铝 + -um，1746年德国人波特（J.H.Pott）从明矾制得一种氧化物，即氧化铝。18世纪末，法国化学家拉瓦锡（Antoine Laurent de Lavoisier，1743-1794）认为这是一种未知金属的氧化物，但极难还原析出。英国化学家戴维（Humphry Davy，1778-1829）费尽心力，试图提取纯铝，也没有成功。后来他把这种想象中的金属命名为Aluminum。
+3. americium
+4. ammonium
+5. calcium
+	1. 1.calculate（计算）：用来计数的小石子  
+	2. 古代罗马人很早就学会了使用石子来计数。据记载，在公元前15世纪，古罗马的工程师Vitruvius 还发明了一种利用石子来计算距离的仪器。这种仪器安装在车轮上，车轮每转动一次，就有一粒石子落到一个容器里。通过数容器里的石子就可以算出车轮驶过的距离。拉丁语calculus表示鹅卵石或小石子。由于石子在算术中的广泛应用，calculus一词进入英语后，除了表示“结石”外，还可以表示“微积分”。英语单词calculate（计算）则源自拉丁文calculatus，后来表示使用石子计数的做法。英语单词calcium（钙）也与calculus有关，因为石头的主要成分就是钙。  
+	3. calc-：石头，钙  
+	4. chalk：[tʃɔk] n. 粉笔；白垩；用粉笔划的记号adj. 用粉笔写的  
+	5. calculus： ['kælkjʊləs]n.结石，微积分  
+	6. calculate：['kælkjʊleɪt] v.计算，打算，预测  
+	7. calculation：[,kælkju'leʃən] n. 计算；估计；计算的结果；深思熟虑  
+	8. calculator： ['kælkjuletɚ] n. 计算器；计算者  
+	9. calcium：['kælsɪəm] n.钙  
+	10. calcify： ['kælsɪfaɪ] vi. 钙化；变成石灰质vt. 使钙化；使思想僵化 
+	11. caulk（捻缝）：用于船体填隙的石灰捻料  
+	12. 古时候在修建木船时，需要用特殊捻料来填补船板中的细小裂缝或结合处形成的细缝。古人很早就发现，利用石灰和其他材质混合制成的捻料特别适合填补船体缝隙，可以随着船板一起热胀冷缩，这样就可以保证船板不会透水。因此，英语中表示“填隙”的单词caulk就与石灰有关。caulk来自拉丁语calicare，而后者来自名词calx（石灰、石灰岩）。与caulk同源的单词有chalk（粉笔、白垩）、calcium（钙）等。  
+	13. caulk：[kɔk] vt.填隙使不漏水，捻缝  
+	14. chalk：[tʃɔk] n.粉笔，白垩  
+	15. calcium： ['kælsɪəm] n. 钙
+6. helium
+7. lithium
+8. magnesium
+9. natrium
+	1. natr-钠 + -ium
+10. plumbum
+11. uranium
+12. sodium
+	1. soda【苏打】 + -ium金属元素后素。因最早从氢氧化钠 (sodium hydroxide) 中分离出来而得名。化学符号Na缩写自natrium，瑞典化学家Berzelius根据natron（一种钠）给出的元素的另一个名字。
+	2. 
+13. etc..
+
+
 ### umbr-
 = shadow, 表示“影子”。源自拉丁语 umbra "shadow."
 
 
 
+
 ## up
-### + \*uper- + = over
+### ⭐ + \*uper- + = over
 1. **hyper-** = 表示“超过，太多”。源自希腊语 huper "over."
 	1.  etc..
 2. **over-** = 表示“过度，过分；在上”，或表强调，表整个，表完全。源自古英语 ofer "over."
@@ -120,23 +157,69 @@
 	9. etc..
 3. **sum-, summ-** = add up, 表示“总，加”。源自拉丁语 summus "highest, topmost."
 	1. consummate
-		1. unconsummated
-		2. consummator
-		3. consummation
-		4. consummately
-	2. summa
-	3. summand, 
-	4. summary
+		1. con-全部 + summ-总和 + -ate, 表动词 → 全部总和 → 完全。
+		2. adj. 技艺高超的；完美无缺的；圆满的；炉火纯青的
+		3. v. （初次）同房；通过性交使（婚姻或两人的关系）圆满
+		4. 使完整；使完美
+		5. _v._ [carry through](dic://carry through), [accomplish](dic://accomplish), [execute](dic://execute), [carry out](dic://carry out), [action](dic://action), [fulfill](dic://fulfill), [fulfil](dic://fulfil)
+		6. _adj._ [skilled](dic://skilled), [perfect](dic://perfect), [unmitigated](dic://unmitigated)
+		7. _n._ [unskilled](dic://unskilled), [imperfect](dic://imperfect), [mitigated](dic://mitigated)
+		8. **masterful**善于控制别人的;**skillful**熟练的;**deft**灵巧的;**impeccable**无瑕疵的;**virtuoso**艺术品鉴赏家;**shrewd**精明的;**first-rate**第一流的,最佳的;**adept**熟练的;**unsurpassed**未被凌驾的,非常卓越的;**epitome**缩影;**quintessential**精髓的;
+		9. a consummate musician /一位技艺高超的音乐家
+		10. a consummate bore /一个十足的讨人嫌
+		11. This consummated their happiness /这使他们的幸福达到了顶点。
+		12. she dressed with consummate elegance /她着装极为高雅。
+		13. consummate a business transaction. /完成商业交易
+		14. With excellent business management, consummate hypervisor, scientific marketing technique, our products have enjoyed a good reputation far and vide /圣和公司从进入市场，由其高瞻远瞩的经营理念，完善的管理模式，科学的营销手段，赢得广大客户的普遍赞誉与好评。
+		15. Later, she asserted that the marriage, it was never consummated. /后来她声称婚后从未圆房。
+		16. It takes both patience and consummate skill /这需要耐心与完美的技巧。
+		17. Ramesses was a consummate self-publicist, and a completely unscrupulous one at that. /拉美西斯极擅宣传自己，不择手段。
+		18. unconsummated
+		19. consummator
+		20. consummation
+		21. consummately
+	3. summa
+		1. Cum is with, laude is honor, summa is highest. /暨是有的，优等是荣誉，总结是最高的。
+		2. You could also say cum summa laude, but that's not ever done. /你也可以说 cum summa laude，但从来没有这样做过。
+		3. The highest degree you can receive from a university would be summa cum laude. /您可以从大学获得的最高学位是优异成绩。
+		4. Jeremy Heyl graduated **summa** cum laude with a degree in Astrophysics /杰里米• 海尔以一等全优成绩获得天文学学位。
+	4. summand
+		1. sum【总数】 + -m- + -and
+		2. n. [数] 被加数
+	5. summary
 		1. summarize
 		2. summarise
 		3. summarily
-	5. summator
-	6. summing-up
-	7. summit
-		1. summitry
-	8. sum
-	9. consomme
+	6. summator
+	7. summing-up
+	8. summit
+		1. n. 顶点, 最高阶层, 最高级会议  
+		2. a. 政府首脑的, 最高级的
+		3. summ-总和 + it表名词 → 山的顶峰像数量总和 → 一样 → 最高数量 → 最高峰。
+		4. 来自古法语 somete,山顶，小词形式于 som,山顶，来自拉丁语 summus,最高的，词源同 sum.后引申词义峰会。
+		5.  [acme](dic://acme), [height](dic://height), [elevation](dic://elevation), [peak](dic://peak), [pinnacle](dic://pinnacle), [superlative](dic://superlative), [meridian](dic://meridian), [tiptop](dic://tiptop), [top](dic://top)
+		6.  [peak](dic://peak), [crown](dic://crown), [crest](dic://crest), [top](dic://top), [tip](dic://tip)
+		7. [summit meeting](dic://summit meeting)
+		8. _n._ [degree](dic://degree), [level](dic://level), [stage](dic://stage), [point](dic://point), [topographic point](dic://topographic point), [place](dic://place), [spot](dic://spot)
+		9. _v._ [reach](dic://reach), [make](dic://make), [attain](dic://attain), [hit](dic://hit), [arrive at](dic://arrive at), [gain](dic://gain)
+		10. **ascent**上升;**mountain**山脉;**ridge**山脉;**trailhead**小道的起点;**climb**攀登;**conference**会议;**hike**远足;**Everest**珠穆朗玛峰;**climbers**脚扣;**plateau**高原;**meeting**会议;
+		11. _summit conference_ 高峰会议；首脑会议
+		12. a summit of francophone countries. /法语国家的峰会。
+		13. a spectacular sunrise over the summit of the mountain. /山顶上壮观的日出景象。
+		14. I was just getting up steam to get to the summit of mountain /我正鼓足干劲爬上山顶。
+		15. The blizzard forced them to delay their summit bid. /暴风雪迫使他们推迟登顶。
+		16. summitry
+			1. _n._ 最高级会议的举行;以举行最高级会议为手段的外交手法
+	9. sum
+	10. consomme
+		1. n. 清炖肉汤；肉煮的清汤
+		2. _n._ [soup](dic://soup)
+		3. **broth**肉汤;**soup**汤，羹;**risotto**意大利调味饭;**miso**味噌，日本豆面酱;**stew**炖，炖汤;**veal**小牛肉;**sauce**调味汁;**soups**汤类;**puree**浓汤;**braised**炖熟的;**ravioli**略有馅的水饺;
+		4. Some dishes are unequivocally high-end: a perfectly clear consomme, for instance. /有些菜肴的高端地位无可置疑：例如，澄澈透明的法式清汤。
+		5. I'll have dinner " A" . I'll have the consomme soup and the steak, well done /我点Ａ餐。我要清炖肉汤和牛排，全熟的。
+		6. In the 1760s, Mathurin Roze opened a series of shops that boasted a special meat soup called consomme /在 1760 年代， Mathurin Roze 开设了一系列商店， 以一种名为清汤的特殊肉汤为荣。
 4. **super-, supr-** = above, over, beyond, 表示“超级，超过，在...上”。源自拉丁语 super "above, over;" supra "above, beyond."
+	1. etc..
 5. **sur-** = "over, above, beyond, in addition," 表示“超过，在上面”。源自拉丁语 super "above, over," 后借道古法语进入英语。
 	1. surbase
 	2. surcease
@@ -330,6 +413,25 @@
 
 
 ## ur
+### uran-,urano- = 表示“天空”，医学专业引申为“上颌，腭”。
+1. uranography
+	1. Uranus（天王星）：第一代神王乌拉诺斯  
+	2. 希腊神话中，天神乌拉诺斯（Uranus）是大地女神盖亚通过单性繁殖所生，诞生于盖亚的指尖，掌管天空。后来，在爱神厄洛斯的影响下，盖亚与乌拉诺斯进行两性繁殖，生出了众多神灵。所以乌拉诺斯既是盖亚的儿子，又是她的丈夫，他们的后代主要包括十二泰坦神以及数名独眼巨人与百臂巨人。因为这些神灵都是乌拉诺斯的子女，所以乌拉诺斯就自然成为了第一代神王。  
+	3. 希腊神话有个规律，那就是儿子推翻老子上位，而老子则相反设法避免此事发生。乌拉诺斯的做法简单粗暴，直接把盖亚与他所生的所有孩子都塞回盖亚体内，不让他们来到这个世界。时间长了，盖亚实在受不了了，就号召孩子们起来反抗。其他孩子慑于父亲淫威，不敢有所表示，只有最小也是最强壮的儿子克洛诺斯答应帮助母亲推翻父亲。盖亚交给克洛诺斯一把锋利的石镰刀，让他埋伏好。等到乌拉诺斯在盖亚身上发泄淫威时，克洛诺斯手持镰刀，一刀就隔断了乌拉诺斯的命根子。乌拉诺斯惨叫一声，逃到天上，从此再不敢靠近大地女神。天和地从此就实现了分离。  
+	4. 乌拉诺斯的名字Uranus在希腊语中的含义是“天”，由词干uran-（天）和名词后缀-us构成。英语中表示“天”的词根uran-就来源于此。1781年，英籍德国天文学家赫瑟尔首次发现一颗新行星，便用Uranus命名，中文译为“天王星”。8年后，德国化学家克拉普罗特首次从沥青中分离出一种新的化学元素。为了纪念赫瑟尔及其发现的新行星，便以Uranus来命名，称为uranium，这便是用于制造核裂变的常用元素铀。  
+	5. uran-：天，天体  
+	6. Uranus：['juərənəs] n.天王星，天神乌拉诺斯  
+	7. uranium：[jʊ'reɪnɪəm] n.铀元素  
+	8. uranolite：['jʊrənəʊlaɪt] n.陨石  
+	9. uranology：[,jʊərə'nɒlədʒɪ] n.天体学  
+	10. uranometry：[,jʊərə'nɒmɪtrɪ] n.天体测量学  
+	11. uranography：[jʊrə'nɒgrəfɪ] n.天象图学  
+	12. uranoscopy：[jʊ'rɑ:nəskəpɪ] n.天体观察
+2. uranic
+3. uranious
+4. uranium
+
+
 ### urb- = city
 1. urban
 	1. urbanology

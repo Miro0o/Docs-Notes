@@ -184,7 +184,7 @@
 		1. indi-,在内，在里，来自 in-的扩大形式，-ig,缺乏，需要，来自拉丁语 egere,需要的，来自 PIE*angh,紧的，紧缩的，词源同 anguish,anxious.引申词义贫穷的。
 
 
-### + \*eghs- + = out
+### ⭐ + \*eghs- + = out
 1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
 	1. exoteric
 		1. exo-外 + ter-比较级后缀 + -ic
@@ -415,7 +415,7 @@
 11. Janus
 
 
-### + \*eis- + = strong
+### ⭐ + \*eis- + = strong
 1. **-estrol** = 示“雌酚”。源自希腊语 oistros "gadfly, goad, anything causing madness."
 	1. etc..
 2. **estr-, estro-** = 表示“发情”，多用于医学词汇。源自希腊语 oistros "gadfly, goad, anything causing madness."
@@ -470,7 +470,7 @@
 
 
 ## el
-### electr- = electric, 表示“电的”。来自古希腊语 elektron "amber."
+### ⭐ electr- = electric, 表示“电的”。来自古希腊语 elektron "amber."
 1. etc...
 
 
@@ -626,9 +626,156 @@
 		5. carcinoembryonic
 		6. embryotoxicity
 2. **em-, en-** = 表示“入、内、在...之内、使...”，来自古法语 en-。在字母 b, m, p 前拼写同化为 em-。
+	1. etc.
 3. **endo-** = within, 表示“内部”。源自希腊语 endon, endo- "within."
+	1. endoblast
+		1. 内胚层 
+		2. 内变晶
+	2. endocarditis
+	3. endocardium
+	4. endocarp
+	5. endocentric
+	6. endocrine
+	7. endoderm
+	8. endodermis
+	9. endodontia
+	10. endogamous
+	11. endogamy
+	12. endogen
+	13. endogenic
+	14. endogenous
+	15. endolymph
+	16. endometritis
+	17. endometrium
+	18. endomixis
+	19. endomorph
+	20. endomorphic
+	21. endomysium
+	22. endoneuriu
+	23. endoparasite
+	24. endophyte
+	25. endoplasm
+	26. endorphin
+	27. endoscope
+	28. endoscopic
+	29. endoskeleton
+	30. endosmosis
+	31. endosperm
+	32. endosteum
+	33. endothelial
+	34. endothelium
+	35. endotherm
+	36. endotoxin
+	37. endotracheal
+	38. endocytose
+	39. Endodermis
+	40. endogen
+	41. endonexin
+	42. endoperoxide
+	43. endoplasmic
+	44. endosome
+	45. endosonography
+	46. Endosperm
+	47. endosymbiosis
+	48. endotherm
+	49. endotoxemia
+	50. Hindustani
+	51. indigence
+	52. indigency
+	53. indigene
+	54. indigenous
+	55. indigent
+		1. indigently
+	56. industry
+		1. indu-在内，在里 + -stry来自-stru , 建造，建设。
+		2. n. 工业, 生产制造; 行业; 勤劳
+		3. subindustry
+		4. multi-industry
+		5. industrious
+			1. _adj._ [diligent](dic://diligent), [enterprising](dic://enterprising)
+			2. _n._ [negligent](dic://negligent), [unenterprising](dic://unenterprising), [nonenterprising](dic://nonenterprising)
+				1. [diligent](dic://diligent) 多指为一定的目的或追求而勤奋。  
+				2. [industrious](dic://industrious) 指由习惯养成或天性形成的勤奋。
+				3. **hard-working**勤勉的,努力工作的;**hardworking**苦干的,不辞辛劳的;**enterprising**有事业心的;**resourceful**资源丰富的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**tenacious**抓紧的;**prosperous**繁荣的;**shrewd**精明的;**skillful**熟练的;**productive**多产的, 富饶的;
+			3. If the tiller is industrious, the farmland is productive /人勤地不懒。
+			5. He isn't particularly clever but industrious /"他并不特别聪明,但很勤奋。"
+		6. industrial
+			1. preindustrial
+			2. industrially
+			3. industrialize, industrialise
+				1. industrialization
+				2. industrialized
+			4. industrialist
+			5. industrialism
+		7. industria
+			1. n. 工业；工业化的行政型态
 4. **enter-, inter-** = 表示“在…之间，相互，内”。由 in- + ter-（土地）组成。在医学领域 enter- 表示“小肠”，已单独列出。
-	1. interim
+	1. enter
+	2. entertain
+	3. enterprise
+		1. entrepreneur
+	4. exenterate
+	5. intellect
+		1. intelligence
+		2. intelligent
+		4. intelligibility
+		5. intelligible
+			1. unintelligible
+		6. intelligibly
+	6. interact
+	7. interblend
+	8. interborough
+	9. intercalary
+	10. intercalate
+	11. intercede
+	12. intercellular
+	13. intercept
+		1. intercession
+		2. intercessor
+		3. intercessory
+	14. interchange
+	15. intercity
+	16. interclass
+	17. intercollegiate
+	18. intercolonial
+	19. intercolumnar
+	20. intercom
+	21. intercommunicate
+		1. intercommunication
+		2. intercommunion
+	22. interconnect
+		1. interconnected
+	23. intercontinental
+	24. interconversion
+	25. interconvertible
+	26. intercooler
+	27. intercostal
+	28. intercourse
+	29. intercrop
+	30. intercross
+	31. intercultural
+	32. intercurrent
+	33. interdental
+	34. interdepartmental
+	35. interdepend
+		1. interdependence
+		2. interdependent
+	36. interbreed
+	37. interdict
+	38. interdigitate
+	40. interest
+	41. interface
+	42. interfere
+	43. interflow
+	44. interfluent
+	45. interfuse
+	46. intergalactic
+	47. interglactic
+	48. intergenerational
+	49. interglacial
+	50. intergroup
+	51. intergrowth
+	53. interim
 		1.  [meantime](dic://meantime), [meanwhile](dic://meanwhile), [lag](dic://lag)
 		2. _n._ [time interval](dic://time interval), [interval](dic://interval)
 		3. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
@@ -642,15 +789,258 @@
 			6. _interim measure_ 临时措施
 			7. _interim certificate_ 临时证书
 			8. _interim storage_ 临时贮藏，暂时贮藏；临时存储器
-5. **enter-** = small intestine, 表示“小肠”。源自希腊语 enteron "intestine."
-6. **ento-** = 表示“内、在内”，来自希腊语。
-7. **eso-** = within, 表示“内”。源自希腊语 eso "within."
-	1. esoteric
-		1. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
-		2. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
-8. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
-9. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
-10. **intim-** = inmost, 表示“内心的”。
+	54. interior
+	55. interjacent
+	56. interject
+	57. interlace
+	58. interlard
+	59. interlay
+	60. interleaf
+	61. interleave
+	62. interline
+	63. interlink
+	64. interlock
+	65. interlocution
+		1. interlocutor
+		2. interlocutory
+	67. interlope
+	68. interlude
+	69. interlunar
+	70. intermarriage
+	71. intermarry
+	72. intermeddle
+	73. intermediary
+		2. intermediate
+		3. intermedium
+	74. intermezzo
+	75. intermigration
+	76. intermingle
+	77. intermission
+	78. intermit
+	79. intermix
+	80. intermolecular
+	81. intern
+	82. internal
+	83. international
+	84. interne
+	85. internecine
+	86. internee
+	87. internist
+	88. internment
+	89. internship
+	90. internuncio
+	91. interoceanic
+	92. interoceptor
+	93. interosculate
+	94. interpage
+	95. interpellate
+	96. interpenetrate
+	97. interpersonal
+	98. interphase
+	99. interphone
+	100. interplanetary
+	101. interplant
+	102. interplay
+	103. interplead
+	104. interpolate
+	105. interpolymer
+	106. interpose
+	107. interposition
+	108. interpret
+	109. interracial
+	110. interregnum
+	111. interrelate
+	112. interrogate
+	113. interrupt
+	114. interscholastic
+	115. intersect
+	116. interserevice
+	117. intersex
+		1. intersexual
+	118. intersolubility
+	119. interspace
+	120. interspecific
+	121. intersperse
+	122. interstage
+	123. interstate
+	124. interstellar
+	125. interstice
+	126. interstitial
+	127. interstratify
+	128. intertexture
+	129. intertillage
+	130. intertribal
+	131. intertropical
+	132. intertwine
+	133. intertwist
+	134. interuniversity
+	135. interurban
+	136. interval
+	137. intervale
+	138. intervallic
+	139. intervene
+	140. intervertebral
+	141. interview
+	142. intervolve
+	143. interweave
+	144. interwind
+	145. interzonal
+	147. intestine
+	148. interesse
+	154. interfaith
+	155. interferon
+	156. intergenic
+	157. interlinear
+	158. interlingua
+	159. interlunar
+	160. intermezzo
+	162. entry
+	163. entrance
+		1. entrant
+		2. entree
+	164. entrepot
+	165. entrepreneur
+	166. entresol
+6. **enter-** = small intestine, 表示“小肠”。源自希腊语 enteron "intestine."
+	1. bilioenteric
+	2. coelenterate
+	3. coelenteron
+	5. dysentery
+		1. n. 痢疾
+		2. dysenteric
+	6. enteral
+		1. adj. 肠的；肠内的
+		2. [enteric](dic://enteric)
+		3. [intestinal](dic://intestinal), [enteric](dic://enteric)
+		4. _adj._ [enteron](dic://enteron), [intestine](dic://intestine), [bowel](dic://bowel), [gut](dic://gut)
+		5. **intravenous**进入静脉的;**dosing**精密分注;**supplementation**增补;**gastrointestinal**胃与肠的;**feeding**饲养;**postoperative**手术后的;**subcutaneous**皮下的;**infusion**灌输;**intestinal**肠的;**cannula**套管，插管;**hepatic**肝的;
+		6. On the day 1 postoperatively,the patients received tither enteral nutrition or parenteral nutrition. /在术后第1日开始行肠内营养或肠外营养支持。
+		7. Up to now this concept is not studied adequately for **enteral** nutrition /截至目前这个概念是不充分的研究肠内营养。
+	7. enteric
+		1. adj. [解]肠的；[药]肠溶的（等于enteral）
+		2.  [enteral](dic://enteral)
+		3.  [intestinal](dic://intestinal), [enteral](dic://enteral)
+		4. _adj._ [enteron](dic://enteron), [intestine](dic://intestine), [bowel](dic://bowel), [gut](dic://gut)
+		5. **intestinal**肠的;**gastrointestinal**胃与肠的;**digestive**消化的;**bacterial**细菌的;**mucosal**粘膜的;**gastric**胃的;**probiotic**前生命期的;**pathogenic**引起疾病的;**coated**上涂料的，上胶的;**bowel**肠;**intestine**肠;
+		6. _enteric coating_ [医]肠溶衣
+		7. Our second brain is the brain in our gut or the ENS (the enteric nervous system). /我们的第二大脑是我们肠道或肠神经系统中的大脑。
+		8. Through this network of nerve connections, your big brain communicates stress to your enteric, or intestinal nervous system. /通过这个系统中神经纤维间的联系，你的大脑向你的肠道，或者说肠神经系统传递了压力的信号 
+	8. neteritis
+	9. enterocele
+	10. enteroendocrine
+	11. enterogastrone
+	12. enteroinvasive
+	13. enteron
+		1. n. [解剖][动] 肠；消化管
+		2. the alimentary canal (especially of an embryo or a coelenterate)
+	15. enteropathogenic
+	16. enterostomy
+	17. enterotomy
+		1. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
+		2. **resection**切除术;**incision**切开;**endoscopic**内窥镜的,内窥镜检查的;**postoperative**手术后的;**suture**缝合;**surgical**外科的;**hysterectomy**子宫切除;**hernia**脱肠;**lesion**损害;**dissection**解剖，切开;**insertion**插入;
+	18. enteroviral
+	19. enterovirus
+	20. entrails
+	21. gastroenteric
+	22. gastroenterologist
+	23. gastroenterology
+	24. mesenteric
+		1. _adj._ [mesentery](dic://mesentery)
+		2. **aortic**大动脉的;**hepatic**肝的;**intestinal**肠的;**venous**静脉的;**aorta**主动脉;**abdominal**腹部的;**carotid**颈动脉的;**vascular**血管的;**lymphatic**淋巴的;**lymph**淋巴，淋巴液;**endothelial**内皮的;
+	25. mesenteritis
+	26. mesentery
+	27. parenteral
+		1. parenterally
+7. **ento-** = 表示“内、在内”，来自希腊语。
+	1. entoblast
+	2. entoderm
+	3. entogastric
+	4. entozoon
+	5. Entoblast
+	6. Entoderm
+	7. Entozoon
+8. **eso-** = within, 表示“内”。源自希腊语 eso "within."
+	1. esoteric (intrinsic, exorcise)
+		1. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
+		2. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
+		3. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
+		4. esoteric interests. /少数人的利益
+		5. esoteric philosophical debates. /深奥的哲学辩论。
+		6. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
+		7. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
+		8. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
+		9. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
+9. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
+	1. etc.. (too many!)
+10. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
+	1. initial
+		1. Initial
+		2. initially
+		3. initialize, initialise
+			1. uninitialized
+			2. reinitialize
+			3. initializing
+			4. initializer
+			5. initialization
+		4. initialing
+		5. initiate
+			1. uninitiated
+				1. For the uninitiated, elocution is the art of formal speaking, with due attention paid to pronunciation, grammar, style, and tone. /对于外行来说，演说术是正式演讲的艺术，要注意发音、语法、风格和语气。
+				2. She looked up with the inward stare that made the uninitiated tremble /她抬起头来，内心的凝视让外行人颤抖。
+				3. And so, for the uninitiated, it may not seem like much of a trail at all /因此，对于不熟悉的人来说，它可能看起来根本不是什么小路。
+			2. initiatory
+				1. _adj._ [opening](dic://opening)
+				2. _n._ [closing](dic://closing)
+				3. **initiation**开始,创始;**rites**仪式;**ritual**仪式;**mystical**神秘的;**rituals**典礼;**rite**仪式;**mystic**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**invocation**祈祷,乞求;**manifestation**显示;**occult**神秘的;
+			3. initiator
+				1. _n._ [leader](dic://leader)
+				2. **originator**创作者;**facilitator**帮助者;**initiating**启动的;**initiate**开始，创始;**catalyst**催化剂;**participant**参与者;**initiation**开始,创始;**proponent**支持者,拥护者;**mediator**调停者;**intermediary**中间人;**founder**沉没;
+				3. a great initiator in art /艺术上伟大的创始人
+				4. coinitiator
+					1. _[coinitiator](dic://coinitiator)_  [高分子] 共引发剂
+				5. photoinitiator
+			4. initiative
+			5. initiation
+				1. _n._ [ceremony](dic://ceremony), [ceremonial](dic://ceremonial), [ceremonial occasion](dic://ceremonial occasion), [observance](dic://observance), [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement)
+				2. **initiating**启动的;**initiate**开始，创始;**onset**开始，着手;**completion**完成, 结束;**maturation**化脓;**activation**活化,激活,活化作用;**formation**形成, 构成;**rites**仪式;**induction**归纳法;**ritual**仪式;**termination**终止;
+				3. _crack initiation_ 裂纹萌生；裂纹开裂
+				4. the initiation of another program /开始另一计划的实施
+				5. It was my initiation into the world of high fashion. /这是我初次涉足高级时装界。
+				6. an initiation ceremony for new members of the organization /为该组织的新成员举行的入会仪式
+				7. Either way, l look at it as my initiation to Seattle. /不管怎么样 我希望把这事看作我在西雅图的开始。
+				8. Notice that this is set up as a religious initiation into a mystery. /注意这种宗教的口吻正在引出神话。
+				9. Branding. Some gangs use it as an initiation. /印记 一些黑帮以此作为入会证明。
+			6. preinitiation
+		6. initiative
+		7. initiator
+	3. commence
+		1.  [get down](dic://get down), [begin](dic://begin), [get](dic://get), [start out](dic://start out), [start](dic://start), [set about](dic://set about), [set out](dic://set out)
+		2.  [begin](dic://begin), [lead off](dic://lead off), [start](dic://start)
+		3.  [start](dic://start), [start up](dic://start up), [embark on](dic://embark on)
+		4. _v._ [begin](dic://begin), [lead off](dic://lead off), [start](dic://start)
+			1. [begin](dic://begin) 最常用词，含义广泛，其反义词是end，多用于行动、工作等的开始。  
+			2. [start](dic://start) 在许多场合可与begin通用，但start侧重动作的起点。  
+			3. [commence](dic://commence) 可与begin换用，但commence系书面正式用词，语气庄重，特指有正式程序或一定仪式，或某种正式行动的“开始”。  
+			4. [initiate](dic://initiate) 指创始或发起，侧重某过程的第一步，不考虑结束，强调起始。  
+			5. [inaugurate](dic://inaugurate) 指正式而隆重的开始。
+			6. **begin**开始;**proceed**开始;**cease**停止;**begun**开始;**undertake**担任, 承揽;**start**开始;**proceeding**行动;**initiate**开始，创始;**scheduled**预定的;**precede**领先，在…之前;**embark**上船或飞机;
+		5. _commence business_ 开始营业
+		6. We will commence with this work /我们将开始这项工作。
+		7. Come on then, Squirrels! Let the search commence! /好了，松鼠们！我们开始搜索吧！
+		8. But they hastened it by overfeeding, bringing the day nearer when underfeeding would commence. /可他们居然还大喂特喂，使限量喂食的日子提前到来，不得不又克扣定量。
+		9. Today the sodacious pursuit greets the audience before the official procession of Floyd's commences. /今天，在弗洛伊德的正式游行开始之前，这场狂欢的追逐向观众致意。
+		10. However, when the lemmings' food supply becomes too low to support the population, a singular migration commences /但是，当它们的食物供应少到无法喂饱整个族群时，一次非凡的迁徙就开始了。
+		11. The ceremony will commence as soon as the minister arrives. /部长一到典礼就开始。
+		12. recommence
+			1. _v._ [begin](dic://begin), [lead off](dic://lead off), [start](dic://start), [commence](dic://commence), [get down](dic://get down), [get](dic://get), [start out](dic://start out)
+			2. **commence**开始;**cease**停止;**resumption**重新开始;**begin**开始;**continue**仍旧，连续;**ceased**中止;**begun**开始;**continued**继续的,延续的;**proceed**开始;**ceases**停止;**subside**平息;
+			3. Charles once gone, the chemist and the cure recommenced their discussions. /夏尔一走开，药剂师和神甫又恢复辩论了。
+			4. Perhaps, Mr. Wilson, you would have the great kindness to recommence your narrative. /威尔逊先生，可不可以请你费心从头讲讲这件事情的经过。
+			5. Down they sat again, and recommenced with single guinea stakes; and the play went on smartly. /他们又坐了下来，开始下一个基尼的注；赌局进行得很激烈。
+			6. He recommenced his walk, but soon again stopped, and this time just before me /他重新开始走路，但很快又停了下来，这次就在我面前。
+			7. He trembled; his heart was ready to burst: then, taking up the book again, he recommenced reading, in a voice broken by sobs. /他颤抖着；他的心快要炸裂了：然后，他又拿起书， 开始读起来，声音因抽泣而断断续续。
+		13. commencement
+11. **intim-** = inmost, 表示“内心的”。
 	1. intimacy
 		1. [familiarity](dic://familiarity), [closeness](dic://closeness)
 		2. [affair](dic://affair), [affaire](dic://affaire), [liaison](dic://liaison), [involvement](dic://involvement), [amour](dic://amour)
@@ -680,12 +1070,53 @@
 			2. _[the pursuit of intimation](dic://the%20pursuit%20of%20intimation)_ 追求暗示
 		14. intimately
 11. **intra-** = 表示“在内，内部”。
+	1. intracellular
+	2. intracollegiate
+	3. intracranial
+	4. intrados
+	5. intraluminal
+	6. intramural
+	7. intramuscular
+	8. intranational
+	9. intraocular
+	10. intraparty
+	11. intraperitoneal
+	12. intrapersonal
+	13. intrastate
+	14. intrauterine
+	15. intravascular
+	16. intravenous
+	17. interventional
+	18. intraabdominal
+	19. intraalveolar
+	20. intraaortic
+	21. intraarterial
+	22. intraarticular
+	23. intraepithelial
+	24. intragenic
+	25. intraject
+	26. intralipid
+	27. intraoperative
+	28. intraspecific
 12. **intro-** = 表示“向内，入内”。
-	1. intrinsic
+	1. intrinsic (esoteric)
 		1. _adj._ [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [inherent](dic://inherent), [integral](dic://integral), [inner](dic://inner), [internal](dic://internal)
 		2. _n._ [extrinsic](dic://extrinsic), [external](dic://external)
 		3. **inherent**固有的;**innate**先天的;**intrinsically**从本质上;**underlying**根本的;**value**价值;**fundamental**基本的;**characteristic**典型的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**uniqueness**唯一性;**observable**观察得到的;**immaterial**非物质的;
-		4. intrinsical
+		4. _intrinsic value_ 内在规定
+		5. _intrinsic viscosity_ 特性粘度；固有粘度；本征粘度
+		6. _intrinsic quality_ 内在质量
+		7. _intrinsic motivation_ 内在动机；内在激励
+		8. _intrinsic safety_ 内在安全，本质安全
+		9. _intrinsic property_ 本征性质，固有特性
+		10. The brooch has little intrinsic value /这枚胸针没有一点实质的价值。
+		11. The intrinsic worth of the pen is 30 yuan /这支钢笔本身价值是30元。
+		12. astronomers can gauge the star's intrinsic brightness. /天文学家可以判断出星星的内在亮度。
+		13. access to the arts is intrinsic to a high quality of life. /接触艺术是高质量生活之本。
+		14. At the theoretical level, there is an intrinsic conflict between EJ and non-Anthropocentric environmentalism /在理论的层次，环境正义与根源于自然中心主义的环境主义间，存在著难解的矛盾。
+		15. The results show that under microwave irradiation, the intrinsic viscosity and the conversion of the polycondensate are raised. /结果表明，微波辐射能提高缩聚物的特性粘数和转化率。
+		16. Meanwhile, certain defects related to the intrinsic problems and inadaptability of this system begin to appear under the new historical conditions /同时，在新的历史条件下，因信访制度中存在的缺陷和不适应性而产生的弊端逐步显现。
+		17. intrinsical
 	3. introduce
 		1. introduciton
 		2. introductive
@@ -696,19 +1127,27 @@
 		2. _[introgression](dic://introgression)_  n. 基因渗入；渐渗现象
 		3. _[introgression lines](dic://introgression%20lines)_  导入系; 渐渗系; 渗入系;
 	5. introit
-		1. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
-		2. **liturgy**礼拜仪式;**hymn**赞美诗;**liturgical**礼拜仪式的;**hymns**赞美诗;**choral**合唱队的;**chant**圣歌;**choir**合唱队;**carols**颂歌;**Epiphany**主显节;**carol**欢乐地歌唱;**sung**唱歌;
-	6. introjection
-		1. alienation离间,疏远;dissociation分离;Freud佛洛伊德;subjectivity主观性;narcissism自恋，自我陶醉;projection投掷,发射,喷射;psychotherapy精神疗法;ego自我;psyche心灵;somatic躯体的;narcissistic自我陶醉的;
-	7. intromit
+		1. n. 圣餐式前所唱的赞美歌；入祭文
+		2. a composition of vocal music that is appropriate for opening church services
+		3. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
+		4. **liturgy**礼拜仪式;**hymn**赞美诗;**liturgical**礼拜仪式的;**hymns**赞美诗;**choral**合唱队的;**chant**圣歌;**choir**合唱队;**carols**颂歌;**Epiphany**主显节;**carol**欢乐地歌唱;**sung**唱歌;
+	7. introjection
+		1. n. 投入；心力投入
+		2. _n._ [internalization](dic://internalization), [internalisation](dic://internalisation), [incorporation](dic://incorporation)
+		3. alienation离间,疏远;dissociation分离;Freud佛洛伊德;subjectivity主观性;narcissism自恋，自我陶醉;projection投掷,发射,喷射;psychotherapy精神疗法;ego自我;psyche心灵;somatic躯体的;narcissistic自我陶醉的;
+		4. 心力内投是一种防御机制，指把我们所欣赏的外部的或是他人的特质，品格等，结合到自身的行为，观念上来。
+		5. 例子：有些神经症患者会通过模仿他人来减轻自身的焦虑。生活中，这种机制在群体中体现得比较广泛，群体人员之间互相模仿以更好地融入群体；朋友、夫妻之间相处久了也会越来越像。
+		6. 安娜·弗洛伊德的自我心理学理论中认为，人的自我能够控制本我的力量，儿时父母或教师的期望，要求，理想会在儿童的内心发生心力内投，这时形成超我。
+		7. 
+	8. intromit
 		1. [admit](dic://admit), [allow in](dic://allow in), [let in](dic://let in)
 		2. _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
-	8. introrse
+	9. introrse
 		1. adj. 内曲的
-	9. introspect
+	10. introspect
 		1. _v._ [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse)
 		2. **introspection**内省;**introspective**好反省的;**ponder**仔细考虑;**meditate**考虑;**analyse**分析;**reflection**映像, 倒影;**criticise**批评;**observe**观察;**consciously**有意识地;**contemplate**深思, 细想, 仔细考虑;**rethink**再想;
-	10. introvert
+	11. introvert
 		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		2. _v._ [draw in](dic://draw in), [retract](dic://retract), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 		3. _n._ [extrovert](dic://extrovert), [extravert](dic://extravert)
@@ -721,17 +1160,17 @@
 13. and
 
 
-### -ence = 表名词，“性质，状态”。
+### ⭐ -ence = 表名词，“性质，状态”。
 1. abhorrence
 2. etc,
 
 
-### -ency,-iency = 表名词，-ence 的变体。
+### ⭐ -ency,-iency = 表名词，-ence 的变体。
 1. circumambiency
 2. etc.
 
 
-### -ent
+### ⭐ -ent
 #### -ent, 表人
 1. adherent
 2. agent
@@ -839,47 +1278,92 @@
 	29. obverse, obvert, obversion
 	30. obviate, obviation
 	31. obvious, obviously
-	32. occasion, occasional. 
-	33. occident, occidental
-	34. occlude, ...
+	32. occasion
+		1. oc-使 + cas-落下 + -ion名词后缀 → 使…落下 → 事情发生。
+		2. n. （某事发生的）时刻，时候；<正式>时机，适当的机会；特殊（或重大）场合，特殊（或重大）事件；<正式>理由，原因 
+		3. v. <正式> 引起，惹起
+		4.  [juncture](dic://juncture)
+		5. [affair](dic://affair), [social occasion](dic://social occasion), [function](dic://function), [social function](dic://social function)
+		6. _n._ [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event), [social event](dic://social event), [reason](dic://reason), [ground](dic://ground)
+		7. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make)
+			1. [chance](dic://chance) 侧重指偶然或意外的机会，有时也指正常或好的机会。  
+			2. [opportunity](dic://opportunity) 侧重指有利或适合于采取行动，以达到某一目的或实现某种愿望的最佳时机或机会。  
+			3. [occasion](dic://occasion) 指特殊时机或良机，也指时节。
+			4. **momentous**重大的, 严重的;**celebration**庆祝;**anniversary**周年纪念;**birthday**生日，诞辰;**special**特别的;**commemorate**纪念;**commemoration**纪念;**day**一天;**celebrate**庆祝;**circumstance**环境;**event**事件，大事;
+			5. _on the occasion_ 在那时；值此…之际
+			6. _special occasion_ 特别的时刻；特别的场合
+			7. _on the occasion of_ 值此…之际
+			8. A birthday is no occasion for tears. /生日可不是哭鼻子的时候。
+			9. There was no occasion to do so /没有理由这样做。
+			10. a gladsome occasion; a gladsome smile /令人高兴的时刻；欢乐的微笑
+			11. it is customary to mark an occasion like this with a toast. /为这样的盛会举杯祝贺是习俗。
+			12. She rose to the occasion and won the election. /她抓住时机振奋精神，一举赢得了选举
+			13. I want to take this occasion to thank you. /我想借此机会向你表示感谢。
+			14. something vital must have occasioned this visit /肯定有什么重大的事导致了这次访问。
+			15. occasionality
+				1. n. 偶然性
+				2. Transcending subjectivist aesthetics, Gadmer s discussion of **occasionality** in his "Truth and Method" Bridges his artistic ontology and hermeneutical ontology on a universal level /伽达默尔在《真理与方法》一书中对艺术作品偶缘性问题的讨论，是他超越主观论美学而从艺术本体论向普遍意义的诠释学本体论过渡的一座桥梁。
+				3. _[occasionality and inevitability](dic://occasionality%20and%20inevitability)_ 偶然性和必然性
+			16. occasional
+	34. occident (orient)
+		1. oc-一再 + cid-落下 + -ent表名词。
+		2. n. 欧美国家；西方
+		3. occident - 日本素有Land of the Rising Sun（旭日之国）的别称，而亚洲（特别是远东）则一向被欧美人称为the Orient（东方）。orient一词源于拉丁语sōl oriēns（旭日），其中oriēns作rising（正在升起的）解，也可以说orient就是来自oriēns。在作形容词用时，orient除了表示“东方的”之外，至今仍然保留了“升起的”这一原义。orient和east的区别在于，前者属诗歌语言，而后者属普通词汇。orient在作名词用时，表示“东方（国家）”或“远东”，在美国英语中也常作动词用，表示“以……为方向（或目标）”、“定……的方位”、“使熟悉情况”等义，相当于英国英语orientate。  
+		4. 对古罗马占卜者来说，东预示吉祥。他们以观察鸟的飞向来预卜吉凶。神鸟从笼子里放出，若朝东飞则为吉兆。基督教徒也接受了这种迷信看法。基督教堂常以位于东端的圣坛定其朝向。若神鸟朝西飞则为凶兆，因为昔日教士总是将西与死亡及毁灭相联系。与orient相对的occident其词源就反映了这层含义。occident源于拉丁语occidēns 'setting'（落下的）。因为日落于西，所以occident后被转义表示“西方”或“西方的”，而且常与死亡相联系。英语成语go west也含有“死”或“完蛋”之意。
+		5. [western hemisphere](dic://western hemisphere), [New World](dic://New World)
+		6. _n._ [region](dic://region), [hemisphere](dic://hemisphere)
+		7. **Oriental**东方人的;**modernity**现代性;**Asiatic**亚洲人;
+		8. First of all, food systems between China and **Occident** are different. /首先，西方国家和中国的进餐方式不同。
+		9. If we stare at outside, we wil be doomed to admire **Occident** trucks. /如果眼睛死盯着外面，我们注定会对欧美卡车羡慕不已。
+		10. Our cultural beliefs caused many problems traveling through the **Occident**. /我们在文化上的信仰导致了许多在西方国家旅游时的问题。
+		11. occidental
+			1. _adj._ 西方的，西洋的
+			2. _adv._ 西方地；西洋地
+			3. _n._ [inhabitant](dic://inhabitant), [habitant](dic://habitant), [dweller](dic://dweller), [denizen](dic://denizen), [indweller](dic://indweller), [artificial language](dic://artificial language)
+			4. _adj._ [western](dic://western)
+			5. _n._ [eastern](dic://eastern)
+			6. **western**西方的，西部的;**Oriental**东方人的;**pacific**和平的;**civilization**文明, 文化;**modernity**现代性;**civilisation**文明;**eastern**东方的;**postmodern**后现代主义的;**bourgeois**资产阶级的;**cosmopolitan**世界性的;**Asiatic**亚洲人;
+			7. an Asian challenge to occidental dominance. /亚洲对西方统治地位的挑战。
+			8. On the occasion of an earlier operation, an occult occidental gave occasion to her attention. /在早先的一次手术之际，一个神秘的西洋人引起她的注意
+	35. occlude, ...
 		1. occlusion
 		2. disocclude
 		3. occluder
 		4. occlusive
 		5. occlusior
-	35. occult
+	36. occult
 		1. occultation
 		2. occultism
-	36. occupy, ..
+	37. occupy, ..
 		1. preoccupied, preoccupy
 		2. occupation
 		3. occupant, occupancy
-	37. occur, ..
+	38. occur, ..
 		1. occurrent
-	38. offend, ...
+	39. offend, ...
 		1. offense, ...
-	39. offer, ...
-	40. oppilate
+	40. offer, ...
+	41. oppilate
 		1. oppilation, oppilative
-	41. opportune
+	42. opportune
 		3. opportunity
 		4. opportunistic
 		5. inopportune
 		6. ...
-	42. oppose, opposent
+	43. oppose, opposent
 		1. unopposed, opposite
 		2. opposing
-	43. oppress
+	44. oppress
 		1. oppressive, oppressor
 		2. oppression
-	44. opprobrious
+	45. opprobrious
 		1. opprobrium
-	45. oppugn, oppugner
-	46. ostensible, ostensive, ostensory, ostentation, ostentatious
-	47. obsolesce, obsolescent, obsolescence
-	48. obsolete, obsoletism, obsoleting
-	49. omissible, omission, omissive, omit
-	50. oust, ouster
+	46. oppugn, oppugner
+	47. ostensible, ostensive, ostensory, ostentation, ostentatious
+	48. obsolesce, obsolescent, obsolescence
+	49. obsolete, obsoletism, obsoleting
+	50. omissible, omission, omissive, omit
+	51. oust, ouster
 9. **opisth-** 表示“后部”源自希腊语 opisthen "behind, at the back."
 	1. etc..
 10. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
@@ -896,8 +1380,20 @@
 		2. _equilateral triangle_ 等边三角形
 		3. _n._ [figure](dic://figure)
 		4. _adj._ [equal](dic://equal)
-	2. 
-2. equilibrate, equilibrant
+		5. an equilateral triangle /等边三角形。
+		6. equilateral hyperbola /直角双曲线, 等轴双曲线
+2. equilibrate
+	1. v. (使)平衡, 与...平衡
+	2. equi-相等 + libr-天平，平衡 + -ate
+	3. _v._ [change state](dic://change state), [turn](dic://turn), [match](dic://match), [fit](dic://fit)
+	4. **equilibrium**平衡,均势;**stabilize**稳定;**temperature**温度, 气温;**normalize**使正常;**evaporate**蒸发;**dissipate**驱散;**absorb**吸收;
+	5. Air rushes into the pleural cavity, and the intrapleural pressure increases as it equilibrates with the atmospheric pressure /气体涌入胸膜腔，随着逐渐与大气压保持平衡，胸膜内压升高。
+	6. Its temperature equilibrates with body temperature, regardless of the temperature on the outside. /不管外界温度如何，吸入气体的温度与体温相平衡。
+	7. Henry's law is applied to gas exchange as the partial pressures for oxygen and carbon dioxide equilibrate across the respiratory membrane. /Henry定律适用于气体交换，因为氧气和二氧化碳的分压在整个呼吸膜上达到平衡。
+	8. First, the formation may not supply enough fluid in a short enough time to **equilibrate** with the tester. /首先，地层不可能在很短的时间内提供足的液体，以便和测试器取得平衡。
+	9. equilibrant
+		1. n. 平衡；平衡力；平衡状态
+		2. The mathematics model of the error is built. The best position and value of the **equilibrant** are calculated through optimizing /建立了修正前和修正后的柱面镜面形误差的数学模型，并通过优化计算，找出了最佳平衡力的作用点和大小。
 3. equilibrist, equilibrium
 	1. **thermodynamic**热力的;**dynamical**动力的,有力量的;**entropy**熵;**homeostasis**动态静止,动态平衡,自我平衡,原状稳定;**imbalance**不平衡;**equation**方程式，等式;**balance**平衡;**elasticity**弹性;**stability**稳定, 稳固;**oscillation**振动;**optimal**最理想的;
 4. equimolal, equimolar, equimolecular, 
@@ -954,6 +1450,7 @@
 		2. iniquitous
 		3. inequable
 16. equalize
+	1. equal【平等的】 + -ize, 表动词
 17. equanimity
 	1. equ-相等 + anim-生命 + -ity, 表名词 → 生命平静 → 沉着。
 	2. anim-（生命）：代表生命之源的灵魂  
@@ -975,21 +1472,22 @@
 	9. In fact, she could endure the hospital with equanimity now because it was a perfect happy hunting ground. /事实上，她现在对医院里的事情已能镇静地应付了，因为那里还是一个很好很愉快的狩猎场呢。
 	10. Endurance and despair, equanimity and gloom, the tints of health and the pallor of death, mingled weirdly in his face /忍耐和绝望，平静和忧郁，健康的气色和死亡的灰白，在他脸上不可思议地交织在一起。
 18. equant
-	1. _[equant](dic://equant)_  adj. 等分的；等径的; n. 易广；等分；均衡点；对应点；想象的天体运行轨道（（托勒密天文体系中的）;
-	2. 
+	1. equ-相等 + -ate, 表动词。
+	2. _[equant](dic://equant)_  adj. 等分的；等径的; n. 易广；等分；均衡点；对应点；想象的天体运行轨道（（托勒密天文体系中的）;
 19. egalitarian
-	1. _n._ [moralist](dic://moralist)
-	2. _adj._ [democratic](dic://democratic)
-	3. _n._ [elitist](dic://elitist)
-	4. _n._ [undemocratic](dic://undemocratic)
-	5. **utopian**空想的;**democratic**民主的;**idealistic**理想主义的;**equality**平等;**equitable**公正的,合理的;**patriarchal**家长的;**altruistic**利他的,无私心的;**society**社会;**liberal**慷慨的;**individualism**个人主义;**communal**公共的;
-	6. _[Egalitarian criterion](dic://Egalitarian%20criterion)_ 平等判准
-	7. _[egalitarian criteria](dic://egalitarian%20criteria)_ 分配均等判断准则
-	8. _[egalitarian family](dic://egalitarian%20family)_ 平权家庭
-	9. _[egalitarian inheritance](dic://egalitarian%20inheritance)_ 均分继承
-	10. _[egalitarian consciousness](dic://egalitarian%20consciousness)_ 平等意识
-	11. a fairer, more egalitarian society. /一个更加公平、平等的社会。
-	12. the university is a symbol of the nation's egalitarian spirit. /这所大学是该国平等精神的象征。
+	1. egal-,平等，词源同 equal.字母 g,q 音变。
+	2. _n._ [moralist](dic://moralist)
+	3. _adj._ [democratic](dic://democratic)
+	4. _n._ [elitist](dic://elitist)
+	5. _n._ [undemocratic](dic://undemocratic)
+	6. **utopian**空想的;**democratic**民主的;**idealistic**理想主义的;**equality**平等;**equitable**公正的,合理的;**patriarchal**家长的;**altruistic**利他的,无私心的;**society**社会;**liberal**慷慨的;**individualism**个人主义;**communal**公共的;
+	7. _[Egalitarian criterion](dic://Egalitarian%20criterion)_ 平等判准
+	8. _[egalitarian criteria](dic://egalitarian%20criteria)_ 分配均等判断准则
+	9. _[egalitarian family](dic://egalitarian%20family)_ 平权家庭
+	10. _[egalitarian inheritance](dic://egalitarian%20inheritance)_ 均分继承
+	11. _[egalitarian consciousness](dic://egalitarian%20consciousness)_ 平等意识
+	12. a fairer, more egalitarian society. /一个更加公平、平等的社会。
+	13. the university is a symbol of the nation's egalitarian spirit. /这所大学是该国平等精神的象征。
 
 
 
@@ -1325,7 +1823,7 @@
 11. yes
 
 
-### -esce = Commence of actions /events /phenomenon, etc.
+### ⭐ -esce = Commence of actions /events /phenomenon, etc.
 1. acquiesce, acquiescent, acquiescence
 2. adolesce
 3. rejuvenesce
@@ -1350,7 +1848,9 @@
 16. opalesce
 17. phosphoresce
 18. recrudesce, recrudescent, recrudescence
-### -escence 复合后缀（-esce + -ence），表示“动作的起始”，名词后缀。
+
+
+### ⭐ -escence 复合后缀（-esce + -ence），表示“动作的起始”，名词后缀。
 1. adolescence
 2. etc..
 

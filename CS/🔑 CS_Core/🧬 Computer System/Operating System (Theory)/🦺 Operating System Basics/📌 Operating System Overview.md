@@ -69,8 +69,6 @@ The idea of a virtual machine was introduced by IBM in the 1960s, but it has bec
 
 
 ### 👉 Windows
-![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
-
 More of Windows can be found at ↗ [Windows Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20Kernel/Windows%20Kernel.md).
 
 
@@ -88,17 +86,11 @@ More of Linux can be found at :
 
 
 ### 👉 MacOS
-![[../../../../../Assets/Pics/os X archi.jpeg]]
-
-macOS is noted here ↗ [macOS Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel/macOS%20Kernel.md).
+macOS is noted here ↗ [macOS Kernel (xnu) & Darwin](../../../🥷🏼%20Operating%20System%20(Engineering)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20Kernel%20(xnu)%20&%20Darwin.md).
 
 
 ### 👉 Android
-![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.01.30%20PM.png)
-
-![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.05.49%20PM.png)
-
-Android is noted here ↗ [Android Architecture](../../../🥷🏼%20Operating%20System%20(Engineering)/Android%20&%20AOSP/Android%20Architecture/Android%20Architecture.md).
+Android is noted here ↗ [Android Kernel](../../../🥷🏼%20Operating%20System%20(Engineering)/Android%20&%20AOSP/Android%20Kernel/Android%20Kernel.md).
 
 
 

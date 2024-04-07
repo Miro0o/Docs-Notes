@@ -26,7 +26,7 @@
 ↗ [Linux File Types & Formats](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20Types%20&%20Formats/Linux%20File%20Types%20&%20Formats.md)
 #### OMF (Object Module Format)
 #### Mach-O Universal Binary
-↗ [Mach-O Universal Binary](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/Mach-O%20Universal%20Binary.md)
+↗ [Mach-O Universal Binary](../../../../../🥷🏼%20Operating%20System%20(Engineering)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20Types%20&%20Formats/Mach-O%20Universal%20Binary.md)
 
 
 ### 👉 Executable Object Files (可执行目标文件)

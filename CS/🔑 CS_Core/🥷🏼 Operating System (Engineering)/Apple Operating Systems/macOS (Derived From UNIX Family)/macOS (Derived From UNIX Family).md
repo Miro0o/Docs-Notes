@@ -47,6 +47,8 @@ MACGF官网是一个专注于macOS系统生产力软件下载，简直就是Mac�
 
 
 ## Architecture
+![[../../../../../../Assets/Pics/os X archi.jpeg]]
+
 ![MacOS_Architecture](../../../../../Assets/Pics/MacOS_Architecture.svg)
 
 

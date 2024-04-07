@@ -1762,14 +1762,13 @@ _delicate balance_ 微妙的平衡
 		2. _n._ [roofing material](dic://roofing material), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment), [roofing](dic://roofing)
 		3. **bashing**用废矸石充填采空区;**criticise**批评;
 		4. **rub**擦;**lotion**洗液;**sunscreen**遮光剂;**dollop**团，块;**smeared**弄脏的;**liberally**不受限制地,公平地,大方地;**lather**肥皂泡;**soak**吸收，吸入;**sprinkle**洒;**indulge**迁就;**bathe**沐浴;
-	3. 
-	4. slattern
-		1. [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
-		2.  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
-		3. _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
-		4. **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
-		5. _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
-	5. sleazy
+	2. slattern
+		6. [streetwalker](dic://streetwalker), [street girl](dic://street girl), [hooker](dic://hooker), [hustler](dic://hustler), [floozy](dic://floozy), [floozie](dic://floozie)
+		7.  [slut](dic://slut), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
+		8. _n._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
+		9. **slut**懒妇;**whore**卖淫，娼妓;**housewife**家庭主妇;**maid**女仆;**prostitute**娼妓;**twat**笨蛋;**cunt**女性阴部;**mistress**情妇;**lady**女士，夫人;**filthy**污秽的;**trashy**碎屑的;
+		10. _[slattern slut trapes](dic://slattern%20slut%20trapes)_ 懒妇
+	3. sleazy
 		1. sleazy：['slizi]  adj.质地薄的，廉价的，低俗的，肮脏的，破烂的
 		2. [seamy](dic://seamy), [seedy](dic://seedy), [sordid](dic://sordid), [squalid](dic://squalid)
 		3. [bum](dic://bum), [cheap](dic://cheap), [cheesy](dic://cheesy), [chintzy](dic://chintzy), [crummy](dic://crummy), [punk](dic://punk), [tinny](dic://tinny)
@@ -1777,7 +1776,7 @@ _delicate balance_ 微妙的平衡
 		5. _adj._ [thin](dic://thin), [inferior](dic://inferior), [disreputable](dic://disreputable)
 		6. _n._ [thick](dic://thick), [superior](dic://superior), [reputable](dic://reputable)
 		7. **seedy**多种子的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**slimy**黏滑的;**trashy**碎屑的;**sordid**肮脏的;**shady**成荫的;**crass**粗鲁的;**dishonest**不诚实的;**filthy**污秽的;**devious**弯曲的;**depraved**堕落的;
-	6. slip
+	4. slip
 		1. [faux pas](dic://faux pas), [gaffe](dic://gaffe), [solecism](dic://solecism), [gaucherie](dic://gaucherie)
 		2. [slip-up](dic://slip-up), [miscue](dic://miscue), [parapraxis](dic://parapraxis)
 		3. [cutting](dic://cutting)
@@ -1896,7 +1895,7 @@ _delicate balance_ 微妙的平衡
 		3. _n._ [slob](dic://slob), [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person), [adulterer](dic://adulterer), [fornicator](dic://fornicator)
 		4. **whore**卖淫，娼妓;**cunt**女性阴部;**bitch**母狗，母狼;**babe**婴儿，小孩;**pussy**猫咪;**hottie**热水瓶;**twat**笨蛋;**fucked**受骗的;**asshole**屁眼儿,肛门;**horny**角状的;**dick**阴茎;
 	10. slop
-		1.  1 - 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop,slosh,slough,sludge.用于指泔水，剩饭菜。 (lei-)
+		1. 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop,slosh,slough,sludge.用于指泔水，剩饭菜。 (lei-)
 		2. [slops](dic://slops), [swill](dic://swill), [pigswill](dic://pigswill), [pigwash](dic://pigwash)
 		3. [mire](dic://mire)
 		4. [treacle](dic://treacle), [mush](dic://mush)
@@ -1975,7 +1974,7 @@ _delicate balance_ 微妙的平衡
 		8. sloughing
 			1. **shedding**蜕落;**peeling**剥皮，去皮;**skin**皮肤;**rotting**深蚀刻;**piling**打桩;**tearing**痛苦的;**stripping**抽锭,脱模,拆模;**necrosis**坏死;**erosion**侵蚀，腐蚀;**scarring**结疤;**softening**变软;
 	8. slouch
-		1.  来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.
+		1. 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.
 		2. n. 没精打采的样子, 耷拉, 笨人 
 		3. vi. 没精打采地走, 耷拉着 vt. 使低垂
 		4.  slouchy
@@ -2037,15 +2036,34 @@ _delicate balance_ 微妙的平衡
 		10. slusher
 			1. n. 烂泥；污水；水泥砂浆；胡说八道 vt. 溅湿；给…灌砂浆；给…上润滑油
 	13. sloven
-		1. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
-		2. _n._ [vulgarian](dic://vulgarian)
-		3. **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
+		1. n. 懒散的人；不修边幅的人
+		2. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
+		3. _n._ [vulgarian](dic://vulgarian)
+		4. **vulgar**粗俗的;**filthy**污秽的;**wretched**可怜的;**careless**粗心的;**bourgeois**资产阶级的;
+		5. Such sloven work habits will never produce good products /这样马马虎虎的工作习惯决不能生产出优质产品来。
+		6. I really cannot bear the sight of that sloven woman. /我连看也不想看那个邋遢的女人。
+		7. which differ as much from each other as the air of a plain man from that of a sloven: it is one thing to be tricked up, and another not to be dressed at all /两者的区别犹如朴素人与邋遢者面貌的不同：着装打扮与衣着不整完全是两码事。
+		8. In fact, for example, they even advised women against turning into frights and slovens. /事实上，例如，他们甚至建议女性不要恐惧以及不修边幅。
+		9. At school, boys become gluttons and slovens, and, instead of cultivating domestic affections, very early rush into the libertinism which destroys the constitution before it is formed; hardening the heart as it weakens the understanding. /在学校里，男孩子变得贪吃又邋遢，不去培养家庭感情，而是很早就开始放荡不羁，未及体质就毁掉了；使心变硬，因为它削弱了理解力。
 1. litotes
 	1. n. 曲言法；间接肯定法；反叙法
 	2. [meiosis](dic://meiosis)
 	3. [rhetorical device](dic://rhetorical device), [understatement](dic://understatement)
 	4. **adjective**形容词;**colloquial**口语的, 会话的;**idiom**成语，习语;**hyperbole**夸张的语句;**phrase**成语;**verb**动词;**noun**名词;**rhetorical**修辞的;**word**单词;**grammatical**语法的;**allusion**暗示;
 2. litotral
+
+
+### + \*leie- +
+1. **lim-** 表示“饥饿”, 源自希腊语 limos（hunger）。Limos 是希腊神话中的饥饿之神。源自希腊语 limos "hunger, famine."
+	1. bulimia (anorexia)
+		1. bu-,牛，此处表强调，词源同 bovine. -lim,饥饿。
+		2. _n._ [eating disorder](dic://eating disorder), [hunger](dic://hunger), [hungriness](dic://hungriness)
+		3. **anorexia**厌食;**dieting**节食;**alcoholism**酒精中毒;**addiction**瘾，吸毒成瘾;**depression**沮丧;**disorder**混乱;**relapse**再度堕落;**binge**狂欢作乐;**obesity**肥大，肥胖;**schizophrenia**精神分裂症;**self-esteem**自尊;
+		4. Bulimia nervosa 神经性暴食症
+		5. People with bulimia are usually normal weight or overweight, whereas people with anorexia are underweight. /暴食症患者通常体重正常或超重，但厌食症患者是体重过轻者。
+		6. The binging and purging cycles associated with bulimia can result in a number of serious side effects /暴食症带来的暴食和排食的循环，可带来一系列严重的后果。
+		7. In addition, individuals with bulimia are at higher risk of developing diabetes mellitus, which makes for a particularly dangerous combination /另外，暴食症患者得糖尿病的风险更高，这两种病的叠加极其危险。
+		8. Well, in some ways, bulimia and anorexia are still addictions /嗯，从某些方面来说，暴食症和厌食症仍然是一种成瘾行为。
 
 
 ### + \*leikw- + = to leave
@@ -2100,15 +2118,45 @@ _delicate balance_ 微妙的平衡
 				2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
 3. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."
 	1. eclipse
-		1. ecliptic
-	2. ellipse
-		1. ellipsis
-		2. ellipsograph
-		3. ellipsoid
+		1. ec-出 + lips-离开 + -e，[太阳]离开 → 日。
+		2. ec-,向外，-lipse,留下，词源同 leave,ellipse.即留下一块阴影。
+		3. n. 日食，月食；黯然失色；羽毛暗淡期；消失，丧失 
+		4. v. 遮住……的光，使黯然失色
+		5. [occultation](dic://occultation)
+		6. [overshadow](dic://overshadow)
+		7. [occult](dic://occult)
+		8. _n._ [interruption](dic://interruption), [break](dic://break)
+		9. _v._ [excel](dic://excel), [stand out](dic://stand out), [surpass](dic://surpass), [overshadow](dic://overshadow), [obscure](dic://obscure), [bedim](dic://bedim), [overcloud](dic://overcloud)
+		10. **moon**月亮;**solar**太阳的;**lunar**月的, 月球的;**comet**彗星;**twilight**黎明，黄昏;**solstice**至;**sunrise**日出;**sun**太阳;**meteor**流星;**telescope**望远镜;**astronomy**天文学;
+		11. _solar eclipse_ n. ［天］日食
+		12. _total solar eclipse_ 日全食
+		13. _total eclipse_ [天]日全食；月全食
+		14. _lunar eclipse_ [天]月蚀
+		15. _partial eclipse_ n. 偏食，日偏食
+		16. took the eclipse as a sign from God /把月蚀当作神的预示
+		17. the election result marked the eclipse of the traditional right and centre /选举结果标志着传统的右翼和中间势力的没落。
+		18. a sea of blue sky violently eclipsed by showers /雨水无情地遮暗了无垠的蓝色天空。
+		19. the eclipses portend some major events. /日食月食预示某些重大事件可能发生。
+		20. Our happiness was soon eclipsed by the terrible news. /我们的快乐很快就被可怕的消息蒙上一层阴影
+		21. In its place, came nothing but a weariness so vast that it eclipsed everything /取而代之的是一种巨大的疲倦，使一切都黯然失色。
+		22. In October, a partial solar eclipse will be visible from North America. /今年10月，北美将能观测到日偏食。
+		23. ecliptic
+	3. ellipse
+		1. n. [数] 椭圆形，[数] 椭圆
+		2. [oval](dic://oval)
+		3. _n._ [conic section](dic://conic section), [conic](dic://conic)
+		4. **rectangle**长方形, 矩形;**polygon**多边形;**circle**圆;**triangle**三角;**curvature**弯曲;**spherical**球的;**elliptical**椭圆的;**rectangular**矩形的;**oval**卵形的;**geometrical**几何的;**triangular**三角形的;
+		5. Besides, error curve and error ellipse are analyzed.So, it is shown that error ellipse is inutility, and error curve is useful and effective /对中桩的误差曲线和误差椭圆的分析认为，误差椭圆无实际意义，误差曲线实用而有效。
+		6. The size of the brain lesions was varied, the appearances were punctiform, mottling, patching, ellipse and so on. /病灶大小不一，形态可为斑片状、斑点状、圆形、类圆形。
+		7. For one thing, it's not a perfect circle, it's quite an elongated ellipse /至少不是一个标准的圆形，而更像是一个拉长的椭圆。
+		8. An ellipse is an asymmetrically shaped closed oval /任何椭圆都是对称封闭的椭圆形。
+		9. ellipsis
+		10. ellipsograph
+		11. ellipsoid
 			1. semiellipsoid
 			2. hyperellipsoid
 			3. ellipsoidal
-		4. elliptic
+		12. elliptic
 			1. semielliptic
 			2. hyperelliptic
 			3. ellipticity, biellipticity
@@ -2118,9 +2166,9 @@ _delicate balance_ 微妙的平衡
 				1. subelliptical
 				2. ellipticalness
 				3. elliptically
-	3. lipography
-	4. liptobiolite
-	5. liptobiolith
+	4. lipography
+	5. liptobiolite
+	6. liptobiolith
 4. lend
 5. loan
 
@@ -2318,10 +2366,100 @@ _delicate balance_ 微妙的平衡
 
 ### + \*leip- + = to stick, adhere
 1. **adip-** = fat, 表示“脂肪”，特别是软脂 (soft fat)。源自拉丁语 adipem "soft fat of animals, fat, lard."
+	1. adipocere
+	2. adipose
+		1. a. 动物脂肪的, 肥胖的 n. 动物脂肪
+		2. adip-脂肪 + -ose
+	3. adipocyte
+	4. adipokines
+	5. adiponectin
 2. **aliphat-** = fat, 表示“脂肪”。源自希腊语 aleiphein "to anoint with oil."
+	1. aliphatic
+		1. aliphat-脂肪 + -ic表形容词
+		2. a. 脂肪族的
+	2. aliphatics
 3. **lipo-** = fat, 表示“脂肪, 肥胖”, 用于医学术语。源自希腊语 lipos "fat."
-	1. 
+	1. lipophilic
+		1. _adj._ [oleophilic](dic://oleophilic)
+		2. _n._ [oleophobic](dic://oleophobic)
+		3. **hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**lipids**脂肪，油脂;**lipid**油脂;**soluble**可溶的，可溶解的;**polymeric**聚合的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**aqueous**水的，水般的;**aromatic**芳香的，芬芳的;**unsaturated**不饱和的;**surfactant**表面活性剂;**alkyl**烷基的，烃基的;
+		4. Poison dart frogs secrete **lipophilic** alkaloid toxins through their skin /毒镖蛙在身体皮肤下隐藏着亲脂性的碱性毒液。
+		5. It is a way to incorporate the hydrophilic Arbutin in **lipophilic** media /这是一种以纳入媒体的亲水亲油性熊果苷。
+	2. lipoprotein
+	3. lipotropic
+	4. lipoid
+		1. n. 类脂  a. 类脂的
+		2. lipoidosis
+		3. lipodolytic
+		4. lipoidic
+		5. lipoidemia
+		6. lipoidase
+		7. lipoidal
+		8. lipoidaemia
+		9. cerolipoid
+		10. antilipoid
+		11. alipoidic
+		12. etc..
+	5. lipoma
+		1. lip-脂肪 + -oma肿瘤
+	6. lipase
+		1. lip-脂肪 + -ase酶
+		2. lipasic
+	7. lipid
+		1. n. 脂类, 类脂物, 脂质
+		2. 来自希腊语 lipos,脂肪，来自 PIE*leip,脂肪，油脂，粘附，词源同 adipose,leave,liver.
+		3. [lipide](dic://lipide), [lipoid](dic://lipoid) 
+		4. _n._ [macromolecule](dic://macromolecule), [supermolecule](dic://supermolecule)
+		5. **cholesterol**胆固醇;**LDL**低密度脂蛋白;**membrane**膜;**carbohydrate**碳水化合物;**glucose**葡萄糖;**intracellular**细胞内的;**metabolic**新陈代谢的;**albumin**白蛋白，清蛋白;**protein**蛋白质;**fatty**脂肪的;**vesicles**囊泡;
+		6. This enzyme normally breaks down a lipid called GM2 ganglioside /HEX-A正常情况下能降解一种叫做GM2神经节苷脂的脂质。
+		7. Just like the proteins, these lipids can also get into the urine, causing lipiduria. /和蛋白质同理，这些脂肪也可以进入尿液，导致脂尿症。
+		8. Just like the proteins, these lipids can also get into the urine, causing hyperlipiduria. /正如蛋白质一样，这些脂质也能进入尿中，称为高脂尿。
+		9. Some whales build up waxes, along with lipids and keratin protein into what's called earplugs /有的鲸会产生鲸蜡、油脂和角蛋白，组成被称为“耳塞”的东西。
+		10. And they're " naked" because the capsid isn't covered by a lipid membrane. /它们之所以是“裸露的”，因为衣壳没有被脂质膜覆盖。
+		11. lipidosis
+		12. lipidome
+			1. - 脂质组
+		13. lipidol
+		14. lipidic
+		15. lipidemia
+		16. etc..
+	8. liposucion
 4. leave
+	1. n. 许可, 告别, 请假, 休假  
+	2. vt. 离开, 剩下, 遗忘, 委托, 丢弃  
+	3. vi. 出发, 离开, 生叶
+	4. v. 离开（某人或某处）；离开居住地点（或群体、工作单位等）；与……脱离关系， 离开（某人）；不立刻做，不马上处理；使保留，让……处于（某种状态、某地等）；给……留下（不愉快的东西）；留下（信息或答复）；遗留，遗忘；剩下（食物或饮料）；遗下（家人）；（去世时）遗赠，遗留；把……留交，交托；递送，递交；留（空隙或空白）；留给（指有限的机会）；不再谈论；（数学）剩余，余下 
+	5. n. 假期，休假；准许，许可；（斯努克、槌球等）收盘球势，（球被击后）停留的位置
+	6. leaving no stones unturned千方百计。公元前479年，第二次希波战争最后一役普拉提之战，波斯人战败逃散。坊间传说波斯人藏匿了大量财宝。神谕告诉希腊人：leaving no stones unturned.最终希腊人还是找到了珍宝。After the scandal，the companysays it will leave no stone unturned to keep alive.
+	7. French leave n.不辞而别；擅离职守，尤指不和聚会的主人告别而悄然离去。可能源自英法北美战争中，曾有140名法国士兵被英军俘虏，被关押到一座湖心岛的当夜，法国士兵利用对地形的熟悉集体逃脱。可是同样的现象，法语里叫做filer à l'anglaise，意思是to leave English style，即像英国人那样离开
+	8. 来自 PIE\*leubh,关心，爱，许可，词源同 love,believe.引申词义许可，批准，准假。 
+	9. 来自 PIE\*leip,粘附，停留，油脂，词源同 lipid,live,relinquish.其原义为留下，留在后面，保持，后来词义戏剧性的指离开，可能是受 leave(请假，辞别)的影响
+	10. [leave of absence](dic://leave of absence)
+	11. [farewell](dic://farewell), [leave-taking](dic://leave-taking), [parting](dic://parting)
+	12. [go forth](dic://go forth), [go away](dic://go away)
+	13. [leave alone](dic://leave alone), [leave behind](dic://leave behind)
+	14. [exit](dic://exit), [go out](dic://go out), [get out](dic://get out)
+	15. [allow for](dic://allow for), [allow](dic://allow), [provide](dic://provide)
+	16. [result](dic://result), [lead](dic://lead)
+	17. [depart](dic://depart), [pull up stakes](dic://pull up stakes)
+	18. [entrust](dic://entrust)
+	19. [bequeath](dic://bequeath), [will](dic://will)
+	20.  [leave behind](dic://leave behind)
+	21. [impart](dic://impart), [give](dic://give), [pass on](dic://pass on)
+	22. [forget](dic://forget)
+	23. _n._ [time off](dic://time off), [permission](dic://permission), [departure](dic://departure), [going](dic://going), [going away](dic://going away), [leaving](dic://leaving)
+	24. _v._ [make](dic://make), [get](dic://get), [refrain](dic://refrain), [forbear](dic://forbear), [move](dic://move), [yield](dic://yield), [give](dic://give)
+	25. _n._ [arrive](dic://arrive), [get](dic://get), [come](dic://come)
+		1. [abandon](dic://abandon) 强调永远或完全放弃或抛弃人或事物等，这可能是被迫的，也可能是自愿的。  
+		2. [desert](dic://desert) 着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。 
+		3. [forsake](dic://forsake) 侧重断绝感情上的依恋，自愿抛弃所喜欢的人或物。也指抛弃信仰或改掉恶习。  
+		4. [leave](dic://leave) 普通用词，指舍弃某事或某一职业，或终止同一某人的关系，但不涉及动机与果。  
+		5. [give up](dic://give up) 普通用语，侧重指没有希望或因外界压力而放弃。
+	26. **let**允许，让;**rejoin**回答;**abandon**离弃;**take**拿，取;**stay**停留;**want**需要;**give**给;**alone**单独的;**depart**离开;**return**返回;**arrive**到达;
+	27. wayleave
+	28. leave-taking
+	29. leave-breaker
+	30. broad-leaved
 5. life
 6. live
 7. liver
@@ -2404,7 +2542,7 @@ _delicate balance_ 微妙的平衡
 2. lied
 
 
-### + \*leu- + = to loosen, divide, cut apart
+### ⭐ + \*leu- + = to loosen, divide, cut apart
 1. **-less** = 表形容词 「Old English」leas, "loose, free from, without, untrue, lacking"
 	1. etc..
 2. **lysis, -lytic** = 名词和动词后缀，“分解，分开，溶解”「Greeks」luein, "to loopsen, release, untie"
@@ -2753,7 +2891,7 @@ _delicate balance_ 微妙的平衡
 		5. Susan uttered the lugubrious discourse three times slowly, and when it was completed the image had considerably diminished. /苏珊把这悲哀的咒语慢慢念了三遍，等她念完，蜡像已熔化变小了很多。
 
 
-### + \*leuk- + = light, brightness
+### ⭐ + \*leuk- + = light, brightness
 1. **leuc-, leuk-** = 表示“白，白细胞”。源自希腊语 leukos "clear, white."
 	1. leucocyte
 	2. leuycocythaemia
@@ -3362,7 +3500,7 @@ _delicate balance_ 微妙的平衡
 			2. n. 平衡, 平静, 均衡
 
 
-### + \*lithos +
+### ⭐ + \*lithos +
 1. **-lite** = stone, 表示“...石"，和词根 lith- 同源。
 	1. aerolite
 	2. etc..
@@ -3425,7 +3563,7 @@ _delicate balance_ 微妙的平衡
 
 
 ## lo
-### + \*-lo- + = secondary suffix, forming diminutives
+### ⭐ + \*-lo- + = secondary suffix, forming diminutives
 1. **-al, -ial** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.
 	1. abacterial
 	2. etc..

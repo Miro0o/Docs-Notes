@@ -433,14 +433,108 @@
 
 ### + \*sawel- + = the sun, to shine
 1. **hel-, hello-** = sun, 表示“太阳”。源自希腊语 helios "sun."
-	1. etc...
+	1. anthelion
+	2. aphelion
+	3. heliocentric
+	4. heliochrome
+	5. heliochromy
+	6. heliogram
+	7. heliograph
+	8. heliography
+	9. heliogravure
+	10. heliolithic
+	11. heliometer
+	12. Helios
+	13. helioscope
+	14. helioses
+	15. heliostat
+	16. heliotherapy
+	17. heliotrope
+	18. heliotype
+	19. parhelion
+	20. herihelion
+	21. photoheliograph
+	22. hyrheliometer
+	23. spectroheliograph
+	24. heliosis
+	25. heliacal
+	26. helianthus
+	27. helicon
+	28. helium
+		1. helio-（太阳）：第一代太阳神赫利俄斯  
+		2. 赫利俄斯（Helios）是希腊神话中古老的太阳神，光亮之神许珀里翁的儿子。在后世神话中，他与光明神阿波罗逐渐混为一体。传说火神赫菲斯托斯为他打造了太阳车，并铸造了金色的太阳神殿。 每天当曙光女神厄俄斯打开天门时，赫利俄斯便驾着由四匹喷火神马所拉的太阳车，开始向西巡游，直到黄昏时才降临俄克阿诺斯彼岸。  
+		3. 在希腊神话中，太阳神赫利俄斯的领地是罗得岛（Rhodes）。罗得岛上曾经矗立着一座巨大无比的太阳神雕像，高达30米，被列为古代世界的七大奇迹之一。  
+		4. 赫利俄斯在凡间有个私生子叫做法厄同（Phaeton）。有天，法厄同向赫利俄斯哭诉，说别人不相信他是神的儿子，还辱骂他。赫利俄斯为了安慰儿子，就答应满足他的一个愿望。结果法厄同要求驾驶赫利俄斯的太阳车一天。赫利俄斯无法反悔，只得同意。法厄同启动太阳车后，在天穹横冲直撞，距离大地越来越近，把大地几乎都烤焦了，江河湖泊的水都蒸发干了，据说非洲受害最严重，人都晒成了黑炭，撒哈拉沙漠就是这样造成的。天神宙斯看到这种情景，暴怒之下，一个霹雳就把法厄同劈了下来。这个调皮的倒霉孩子就这样死于非命。  
+		5. 赫利俄斯的名字Helios在希腊语中表示“太阳”，英语词根helio-（太阳）就来源于此。另一个更常见的词根sol-（太阳）来自拉丁语，与helio-同源，都源自原始印欧语。  
+		6. 1868年法国的杨森利用分光镜观察太阳表面，发现一条新的黄色谱线，并认为是属于太阳上的某个未知元素，故名氦（helium）。古希腊人将一星期的第一天献给太阳神赫利俄斯，称为Hemera Heliou（太阳神之日）。古罗马人继承了古希腊人的这种传统，将星期日称为dies solis。古代英国人依葫芦画瓢，将星期日称为Sunnandæg，到了现代英语中演变成了Sunday。  
+		7. helio-：太阳  
+		8. heliosis：[,hilɪ'osɪs] n.中暑，日射病  
+		9. helioscope：['hiːlɪəskəʊp] n.太阳观测镜，太阳望远镜  
+		10. heliotherapy：[,hiːlɪə(ʊ)'θerəpɪ] n.日晒疗法  
+		11. helium：['hiːlɪəm] n.化学元素氦  
+		12. heliolatry： [,hiːlɪ'ɒlətrɪ]  n.太阳崇拜 
+	29. parhelic
+		1. par-旁边 + hel-太阳 + -ic
+		2. adj. 幻日的
+		3. [parheliacal](dic://parheliacal)
+		4. _adj._ [parhelion](dic://parhelion), [mock sun](dic://mock sun), [sundog](dic://sundog)
+		5. **annular**环形的，有环纹的;**concentric**同一中心的,同轴的;**planar**平坦的;**circle**圆;**halo**光环;**spherical**球的;
+		6. a bright spot on the parhelic circle; caused by diffraction by ice crystals /出现在太阳旁边的一个常常形成光亮的环的明亮光斑；是由于冰晶衍射造成的。
 2. **sol-** = sun, 表示“太阳”。源自拉丁语 sol "the sun."
 	1. insolate (insulate)
+		1. in-进入 + sol-太阳 + -ate, 表动词 → 放在太阳之中 → 曝晒。
+		2. vt. 使曝晒
+		3. [sun](dic://sun), [solarize](dic://solarize), [solarise](dic://solarise)
+		4. insolation
 	2. parasol
+		2. n. 阳伞
+		3. parasol - 降落伞起初用于体育运动和飞行人员救生，后来又广泛用于空投物资和空降人员、回收飞行器或探空仪器等。最早使用降落伞是在18世纪末，第一次表演跳伞的是法国人，用以表示“降落伞”的parachute本是法语。在法语中para-意为warding off（防，避），chute意为fall（降落，下降），所以在字面上parachute是“防止降落”的意思，但汉语却将之译为“降落伞”。作动词用时则表示“跳降落伞”、“伞投”或“空投”。英语还有一个词parasol，结构和parachute极为相似。parasol意为“（女用）阳伞”，它源自意大利语parasole，由para- 'warding off'（防，避）和sole 'sun'（太阳）合成，按字面讲是“防太阳晒”的意思。表示“雨伞”的法语单词parapluie，其结构也大致相同，字面上含有“防雨水”之义。
+		4. 1.parapet ['pærəpɪt] n.栏杆；扶手；矮护墙。para-在这里并不是如paradox悖论和paradise天堂及paralysis瘫痪中的前缀para-表around,abnormal等，而是词根par-表准备，在这里表抵挡、防卫等。parapet中的-pet不是宠物，而是词根pect-表胸腔经过意大利语后的变体，于是parapet是起防卫作用的“胸墙”。  
+		5. 2.parasol ['pærəsɒl] 是遮挡（par-）阳光（词根sol-表太阳，如solar太阳的）的遮阳伞；parachute ['pærəʃuːt]是减缓降落（chute的词根是cad,cas，表to fall down，如occident西方的是太阳落山的方向）的降落伞。而法语中的雨伞是parapluie，词根pluv-表示雨水、冲洗，雨伞就是用来挡雨的啦。
+		6. para-,保护，防御，sol,太阳，词源同 solstice,sun.
+		7. [sunshade](dic://sunshade)
+		8. _n._ [shade](dic://shade)
+		9. **umbrella**雨伞;**wicker**柳条;**gazebo**露台，眺望台;**canopy**天篷;**veranda**阳台;**kimono**和服;**scooter**小轮摩托车;**awning**雨篷;**rattan**藤杖，藤条;**shade**树荫;**lantern**灯笼;
+		10. Chinese parasol leaves are also big but their stems are not as tough. /梧桐叶也很大，但是它们的根不够韧。
+		11. Scarlett dug her fingers into the upholstery of the carriage and for a moment her parasol wavered. /思嘉把手指伸进马车的帷帘里，她的阳伞也跟着抖动了好一会儿
+		12. Thankfully there wasn't rain and the parasol went unused. /谢天谢地没有下雨，遮阳伞也没用。
+		13. The brightly coloured parasols danced and dipped like monstrous butterflies /鲜艳的遮阳伞像巨大的蝴蝶一样舞动着。
 	3. solar
-	4. solstice
-		1. solstitial
-	5. solunar
+		1. helio-（太阳）：第一代太阳神赫利俄斯  
+		2. 赫利俄斯（Helios）是希腊神话中古老的太阳神，光亮之神许珀里翁的儿子。在后世神话中，他与光明神阿波罗逐渐混为一体。传说火神赫菲斯托斯为他打造了太阳车，并铸造了金色的太阳神殿。 每天当曙光女神厄俄斯打开天门时，赫利俄斯便驾着由四匹喷火神马所拉的太阳车，开始向西巡游，直到黄昏时才降临俄克阿诺斯彼岸。  
+		3. 在希腊神话中，太阳神赫利俄斯的领地是罗得岛（Rhodes）。罗得岛上曾经矗立着一座巨大无比的太阳神雕像，高达30米，被列为古代世界的七大奇迹之一。  
+		4. 赫利俄斯在凡间有个私生子叫做法厄同（Phaeton）。有天，法厄同向赫利俄斯哭诉，说别人不相信他是神的儿子，还辱骂他。赫利俄斯为了安慰儿子，就答应满足他的一个愿望。结果法厄同要求驾驶赫利俄斯的太阳车一天。赫利俄斯无法反悔，只得同意。法厄同启动太阳车后，在天穹横冲直撞，距离大地越来越近，把大地几乎都烤焦了，江河湖泊的水都蒸发干了，据说非洲受害最严重，人都晒成了黑炭，撒哈拉沙漠就是这样造成的。天神宙斯看到这种情景，暴怒之下，一个霹雳就把法厄同劈了下来。这个调皮的倒霉孩子就这样死于非命。  
+		5. 赫利俄斯的名字Helios在希腊语中表示“太阳”，英语词根helio-（太阳）就来源于此。另一个更常见的词根sol-（太阳）来自拉丁语，与helio-同源，都源自原始印欧语。  
+		6. 1868年法国的杨森利用分光镜观察太阳表面，发现一条新的黄色谱线，并认为是属于太阳上的某个未知元素，故名氦（helium）。古希腊人将一星期的第一天献给太阳神赫利俄斯，称为Hemera Heliou（太阳神之日）。古罗马人继承了古希腊人的这种传统，将星期日称为dies solis。古代英国人依葫芦画瓢，将星期日称为Sunnandæg，到了现代英语中演变成了Sunday。
+		7. sol-：太阳  
+		8. solar： ['solɚ]  adj. 太阳的；日光的；与太阳相关的n. 日光浴室  
+		9. solarium： [sə'lɛrɪəm] n. 日光浴室；日晷  
+		10. insolate： ['ɪnsə'let] vt. 使曝晒  
+		11. insolation： [,ɪnsə'leʃən] n. 日晒；日光浴；中暑；日射病  
+		12. solstice： ['sɑlstəs] n. 至，至日；至点
+		13. subsolar
+		14. solarize
+			1. solarization
+		15. solarius
+		16. solarium
+		17. solarism
+		18. Solaris
+		19. lunisolar
+		20. extrasolar
+		21. circumsolar
+	5. solstice
+		1. sol,太阳，-st,站住，停止，词源同 stand,-ice,名词后缀。字面意思即太阳停止的地方，用于指夏至（北回归线）或冬至（南回归线）。
+		2. _n._ [cosmic time](dic://cosmic time)
+		3. **winter**冬季;**sun**太阳;**springtime**春季，春天;**moon**月亮;**pagan**异教的;**Hanukkah**光明节;**sunrise**日出;**autumn**秋天;**summer**夏季;**eclipse**日或月食;**summertime**夏季;
+		4. _winter solstice_ 冬至（节气）
+		5. _summer solstice_ 夏至
+		6. vernal equinox 春分
+		7. autumnal equinox 秋分
+		8. Roche says he'll perform in the peace for 182 days from winter solstice until summer solstice /罗奇说，从冬至到夏至，他将在和平中表演182天。
+		9. During Winter Solstice in North China, eating dumplings is essential to the festival. /在北方，冬至一定要吃饺子。
+		10. Winter solstice, summer equinox, solar eclipse or lunar eclipse? /冬至、夏分、日食还是月食？
+		11. solstitial
+	6. solunar
 		1. subsolar
 		2. solarize
 		3. solarius
@@ -450,10 +544,10 @@
 		7. lunisolar
 		8. extrasolar
 		9. circumsolar
-	6. turnsole
-	7. solaode
-	8. Solasteridae
-	9. Solifuga
+	7. turnsole
+	8. solaode
+	9. Solasteridae
+	10. Solifuga
 3. south
 4. sun
 
@@ -1487,7 +1581,7 @@
 	4. counseling
 
 
-### + \*sem- + = one
+### ⭐ + \*sem- + = one
 1. **-some** = 表形容词，“充满…的，具有…倾向的”。
 	1. adventuresome
 	2. awesome
@@ -1534,13 +1628,13 @@
 		3. gruesomely
 	18. handsome
 		1. hand 的引申义，即手边的，方便的 + -some,形容词后缀。后来引申灵巧的，体贴的，大方的，慷慨的等多种词义，但主要用于形容男子潇洒的，英俊的，实质上即暖男。
-		2. handsome - 该词由hand加形容词后缀-some构成。由于它早已丧失了原始词义，所以一般人对其理据就很难理解。在亨利八世时代（1509-1547），handsome是handy（近便的）或easy to handle（易于操纵）的意思。16世纪20年代有位作家谈到德国人的长剑不如罗马短剑那样灵便，就用了handsome一词来表示“灵便的”。最先将这个词用于今义的当数英国诗人斯宾塞（Edmund Spenser, 1552-1599）和英国剧作家、诗人莎士比亚，他们在16世纪90年代用handsome来表示“（男子）漂亮的”。它的另两个词义：“精巧的”（如a handsomepiece of work）和“可观的”（如a handsome tip）原先仅用于美国英语，但如今可能也已在整个英语世界通用了。
-			1. He was handsome, brilliant, witty and generally the center of attention wherever he was. (CAE) 他英俊潇洒、才华横溢、说话风趣，每到一处都成了众人瞩目的中心
-			2. He earns/gets a handsome salary in his present job. 他现在的工作薪水相当可观。
-			3. She left a very handsome tip on the plate. 她在盘子上留下了数目不小的小费。
-		5. unhandsome
-		6. handsomeness
-		7. handsomely
+		2. handsome - 该词由hand加形容词后缀-some构成。由于它早已丧失了原始词义，所以一般人对其理据就很难理解。在亨利八世时代（1509-1547），handsome是handy（近便的）或easy to handle（易于操纵）的意思。16世纪20年代有位作家谈到德国人的长剑不如罗马短剑那样灵便，就用了handsome一词来表示“灵便的”。最先将这个词用于今义的当数英国诗人斯宾塞（Edmund Spenser, 1552-1599）和英国剧作家、诗人莎士比亚，他们在16世纪90年代用handsome来表示“（男子）漂亮的”。它的另两个词义：“精巧的”（如a handsomepiece of work）和“可观的”（如a handsome tip）原先仅用于美国英语，但如今可能也已在整个英语世界通用了
+			1. he was handsome, brilliant, witty and generally the center of attention wherever he was. /他英俊潇洒、才华横溢、说话风趣，每到一处都成了众人瞩目的中心
+			2. he earns/gets a handsome salary in his present job/他现在的工作薪水相当可观。
+			4. She left a very handsome tip on the plate. 她在盘子上留下了数目不小的小费。
+		3. unhandsome
+		4. handsomeness
+		5. handsomely
 	19. humoursome
 	20. irksome
 		1. a. 厌恶的, 讨厌的, 令人厌烦的
@@ -1593,14 +1687,14 @@
 		6. _[Winsome rosy cloud](dic://Winsome%20rosy%20cloud)_ 娟霞
 		7. a winsome smile 一个动人的笑容。
 	45. worrisome
-2. **haplo** = 表示“单纯, 单独”。源自希腊语 haploos, haplous "single, simple."
+3. **haplo** = 表示“单纯, 单独”。源自希腊语 haploos, haplous "single, simple."
 	1. haplology
 	2. etc...
-3. **hendeca-** = eleven, 表示“十一”。
+4. **hendeca-** = eleven, 表示“十一”。
 	1. hendecagon
 	2. hendecasyllable
 	3. etc..
-4. **hetero-** = 表示“异类，异种”。源自希腊语 heteros "one of two, other."
+5. **hetero-** = 表示“异类，异种”。源自希腊语 heteros "one of two, other."
 	1. heterodox, heterodoxy
 	2. heterogeneity
 		1. _n._ [nonuniformity](dic://nonuniformity)
@@ -1628,9 +1722,9 @@
 	9. heterosexual
 	10. heteroclite
 	11. etc..
-5. **homal-** = 表示“平”。源自希腊语 homalos "like, even, level."
+6. **homal-** = 表示“平”。源自希腊语 homalos "like, even, level."
 	1. etc...
-6. **homo-** = 表示“同类的”。源自希腊语 homos "same."
+7. **homo-** = 表示“同类的”。源自希腊语 homos "same."
 	1. anomaly
 	2. homily
 	3. homocentric
@@ -1648,7 +1742,7 @@
 	13. homonym, homophone
 	14. homophobia
 	15. homosexual
-7. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
+8. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
 	1. assemble, assemling
 		1. subassembly, reassembly, preassembly, postassembly
 		5. misassembly
@@ -1805,9 +1899,9 @@
 		7. singularity
 		8. singularise
 		9. nonsingular
-8. seem
-9. single
-10. some
+9. seem
+10. single
+11. some
 
 
 ### + \*sen- + = old
@@ -2930,12 +3024,20 @@
 		2. ascription
 		3. ascribable
 	4. circumscribe
-		1. circumscription
-	5. conscribe
+		1. _v._ [trace](dic://trace), [draw](dic://draw), [line](dic://line), [describe](dic://describe), [delineate](dic://delineate), [decrease](dic://decrease), [lessen](dic://lessen)
+		2. **constrain**强迫, 强使;**confine**限制;**define**定义;**restrict**限制;**encompass**围绕;**curtail**截断, 缩短;**restrain**抑制，控制;**extend**延伸;**regulate**调节，规定;**redefine**重新定义;**constrained**不舒服的,被强迫的,拘泥的;
+		3. circumscribe a city on a map /在地图上圈出一个城市
+		4. Lawmakers paid their respects in a ceremony circumscribed by COVID protocols. /议员们在新冠肺炎协议限制下的仪式上致以敬意。
+		5. In the country, changes were slow, interests circumscribed, and memories long /在乡下，变化缓慢，兴趣有限，记忆长久。
+		6. It was a new country to him and the change from the monotony of the circumscribed view in the jungle was pleasing /对他来说这是一个新的国家， 从丛林中局限的单调景色中脱颖而出的变化令人愉悦。
+		7. Unlike Europeans, whose lives have long been circumscribed by meddling governments and diktats from Brussels, Americans are supposed to be free to choose, for better or for worse. /与欧洲国家不同，它们长期受爱管闲事的某国政府和欧盟指令的“压制”，而美 国应该是一个到处充满自由选择的国度，无论结果如
+		8. They circumscribed two men, having at present the aspect of silhouettes, sitting in a dog-cart and pushing along in the teeth of the wind. /他们包围了两个男人，他们现在有轮廓，坐在狗车里，在风中推着车。
+		9. circumscription
+	6. conscribe
 		1. vt. 征召入伍, 招募
 		2. conscript
 		3. conscription
-	6. describe
+	7. describe
 		1. descriptive
 			1. descriptiveness
 			2. descriptively
@@ -2947,12 +3049,12 @@
 		6. describable
 			1. indescribable
 			2. indescribability
-	7. inscribe
+	8. inscribe
 		1. in-进入 + scrib-写 + -e → 刻写进去 → 铭刻。
 		2. inscribable
 		3. inscriptive
 		4. inscription
-	8. prescribe
+	9. prescribe
 		1. vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
 		2. 1 - pro-,在前，提前，-scribe,写，词源同 describe,prescribe.即写在前面的话，说在前面的丑话，引申词义禁令，禁止。
 		3. prescript
@@ -2966,7 +3068,7 @@
 				4. _[prescriptive linguistics](dic://prescriptive%20linguistics)_  [语] 规范语言学; [语] 规定语言学;
 		6. imprescriptible
 		7. imprescriptibility
-	9. transcribe
+	10. transcribe
 		1. transcript
 			1. transcriptive
 			2. transcription
@@ -2976,8 +3078,8 @@
 		2. transcriptome
 		3. transcripton
 		4. transcriptor
-	10. imperscriptible
-	11. subscribe
+	11. imperscriptible
+	12. subscribe
 		1. ubsubscribe, unsubscripted
 		2. subscriber
 		3. oversubscribe
@@ -2987,32 +3089,127 @@
 		7. subscript
 		8. subscription
 			1. oversubscription
-	12. superscribe, superscription
-	13. escribe
-		1. escritoire
-	14. manuscript
-	15. nondescript
+	13. superscribe, superscription
+	14. escribe
+		1. vt. 作（圆）旁切
+		2. escritoire
+	15. manuscript
+		1. _n._ [writing](dic://writing), [written material](dic://written material), [piece of writing](dic://piece of writing), [autograph](dic://autograph)
+		2. **unpublished**未出版的,未出版发行的;**publication**出版;**authorship**著述;**copy**复制;**drafts**精绵;**book**书籍;**novel**新奇的;**handwritten**手写的;**writing**笔迹;**publishing**出版，出版业，出版社;**novella**短篇故事;
+		3. _original manuscript_ 原稿
+		4. a manuscript written in cursive characters /用草写体写成的手稿
+		5. To my mortification, my manuscript was rejected. /使我感到失面子的是:我的稿件被退了回来。
+		6. laboriously copying out an old manuscript /费劲地抄出一份旧的手稿
+		7. her autobiography remained in manuscript /她的自传还是手稿，尚未出版。
+	16. nondescript
 		1. **unassuming**谦逊的;**unremarkable**寻常的,不值得注意的;**bland**乏味的;**drab**单调的;**forgettable**容易被忘的,可忘记的;**innocuous**无害的;**uninteresting**无趣的,令人厌倦的;**faceless**无个性的;**dreary**沉闷的，枯燥的;**obscure**模糊的;**seedy**多种子的;
 		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		3. [ordinary](dic://ordinary)
-	16. rescript
-	17. typescript
-	18. typoscript
-	19. descry
-		1. descrier
-		2. descried
-	20. festschrift
-	21. scrabble
+		4. cafeterias serving nondescript glop. /供应平常的糊状食品的自助餐厅
+		5. she lived in a nondescript suburban apartment block /她住在一个毫无特征的市郊公寓楼里。
+		6. As in the case of Stella, a smart timid girl from a nondescript Midwestern town. /以史黛拉为例，她是来自中西部小镇的一个聪明、胆小的女孩。
+		7. Floating in the flood waters, it looks like nondescript vegetation until you notice it's moving. /它漂在水上的时候就像普通的植物一样，但你会发现它在动。
+		8. Yeah, Of think I saw that next to that ambiguous vague thing by the nondescript place /那条我看到，名状的，无特徵的，是放在那个不确定的地方边上，那个不知道是什么东西的旁边
+	17. rescript
+		1. n. 法令；布告；抄件
+		2. [decree](dic://decree), [edict](dic://edict), [fiat](dic://fiat), [order](dic://order) 
+		3. [revision](dic://revision), [revisal](dic://revisal), [revise](dic://revise)
+		4.  [rewrite](dic://rewrite), [revision](dic://revision)
+		5. _n._ [answer](dic://answer), [reply](dic://reply), [response](dic://response), [act](dic://act), [enactment](dic://enactment), [rewriting](dic://rewriting), [revising](dic://revising)
+		6. **decree**法令;**decrees**法令;**proclamation**宣布,声明,公告;**emperor**皇帝，君主;**writ**令状;**declaration**宣布, 宣告, 声明;**memorandum**记录;
+	18. typescript
+	19. typoscript
+	20. descry
+		1. des-强调 + cry【尖叫】。引申词义突然看到，尖叫。
+		2. vt. 看见；发现；察看
+		3. [spot](dic://spot), [espy](dic://espy), [spy](dic://spy)
+		4. _v._ [sight](dic://sight)
+		5. **ascertain**弄清, 确定, 查明;**discern**识别;**ere**在…以前;**nigh**近于;**afar**遥远地;**doth**从事;**whence**出于什么原因;**countenance**面容，表情;**thee**你;**apprehend**理解;**scarcely**简直没有;
+		6. Their wakeful sentinel had descried danger, and this was his warning. /他们那警觉的岗哨发现有危险情况，发出警报。
+		7. The US entertainment giant has descried as the biggest step it has ever taken /美国文化娱乐巨头称公司迈出了史上最重要一步。
+		8. Before long, he descried an oil area by using a derrick. /不久，他利用钻塔察看到一处油田。
+		9. I then descried Mr. and Mrs. Hubble; the last-named in a decent speechless paroxysm in a corner. /然后我谴责哈勃先生和夫人;最后一个名字是在一个体面的无语阵发声在角落里。
+		10. He can **descry** a way of overcoming the difficulty. /他能找到克服困难的办法。
+		11. If you **descry** that some stars suddenly turned bright. /你发现有的星星突然变亮。
+		12. And the house of Joseph sent to **descry** Bethel. /约瑟家打发人去窥探伯特利。
+		13. Following the sound, Mr. Bumble raised his head and descried a man looking out of a door, breast-high, on the second story. /顺着声音，班布尔先生抬起头，看到二楼有一个齐胸高的男人正从门外张望。
+		14. descrier
+		15. descried
+	21. festschrift
+		1. n. 纪念文集；纪念论文集
 	22. scramble
-		1. unscramble
-		2. scrambler
-		3. scrambled
-		4. descrambler
+		2. 可能来自 scrabble 的鼻音形式，来自 scrabble,刮，擦，乱翻，乱打，引申诸相关比喻义。
+		3. v. 爬, 攀登; 抢夺; 艰难地（或仓促地）完成; 扰乱; 紧急起飞; 炒（蛋）  
+		4. n. 爬，攀登; 扰乱; 争抢; 摩托车越野赛; [美国英语]煎炒(鸡蛋)
+		5. _vi._ 快速爬行，匍匐前进；攀登
+		6. 争夺，争抢
+		7. (军事飞机)紧急起飞
+		8. _vt._ (用黄油)炒蛋
+		9. 扰频或倒频使(电话通话等)只可由有特殊接收器的人收听
+		10. 混杂；把…搅乱
+		11. _n._ 爬行，攀登
+		12. 争夺，抢夺
+		13. [scuffle](dic://scuffle)
+		14. [scamper](dic://scamper), [scurry](dic://scurry)
+		15. [clamber](dic://clamber), [shin](dic://shin), [shinny](dic://shinny), [skin](dic://skin), [struggle](dic://struggle), [sputter](dic://sputter)
+		16. [jumble](dic://jumble), [throw together](dic://throw together)
+		17. [beat](dic://beat)
+		18. _n._ [struggle](dic://struggle), [battle](dic://battle), [haste](dic://haste), [hurry](dic://hurry), [rush](dic://rush), [rushing](dic://rushing)
+		19. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [climb](dic://climb), [disorder](dic://disorder), [disarray](dic://disarray)
+		20. _n._ [unscramble](dic://unscramble)
+		21. **frantically**疯狂地;**rush**匆促;**frantic**狂乱的，疯狂的;**attempt**企图，试图;**regroup**重新组合;**climb**攀登;**last-minute**最后的,归根究底的;**hurry**匆忙，急忙;**desperate**令人绝望的;
+		22. _scramble for_ 争夺；勉强拼凑
+		23. scramble for a living /勉强凑合着过日子
+		24. a mad scramble for the bus. /上公共汽车时的狂冲乱挤
+		25. scramble to one's feet /急忙站起
+		26. scramble for power and wealth /争权夺利
+		27. scramble the pages of a manuscript /把手稿的页码搞乱
+		28. The children scrambled up the hill. /孩子们爬上这座小山。
+		29. I tried to scramble to my feet. /我奋力笨拙地站起来。
+		30. Researchers have been scrambling to find the cause. /研究人员一直在努力寻找原因。
+		31. European nations are also scrambling to get their citizens out of Kabul /欧洲国家也在争先恐后地将他们的公民接出喀布尔。
+		32. This is the scramble for the land ISIS built and lost. /这是对ISIS建造的和失去的土地的争夺。
+		33. She scrambled out of the water and ran off, howling. /她从水里爬出来，嚎叫着跑掉了。
+		34. So it left them kind of scrambling /这使他们陷入了混乱。
+		35. There was an undignified **scramble** for the best seats. /大家争抢最好的位子，真是有失体统。
+		36. More than three million fans are expected to **scramble** for tickets /预计会有三百万以上的歌迷抢购门票。
+		37. unscramble
+		38. scrambler
+		39. scrambled
+		40. descrambler
 	23. scrap
-		1. scraps
-		2. scrappy
-		3. scrapbook
-		4. scrap-iron
+		1. n. （纸、布等的）碎片，小块；丝毫，一丁点；废品，废弃材料（=scrap metal）；吃剩的东西，残羹剩饭（scraps）；<非正式>小摩擦，小口角；<英，非正式>极瘦小的人（常指小孩） 
+		2. v. （因不切实际而）放弃，抛弃（计划、体系）；把（旧机器、旧汽车等当）作废料处理，报废；<非正式>打架，吵架；激烈竞争 
+		3. adj. （金属、纸张）废弃的，报废的；零碎的
+		4. [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck)
+		5. [rubbish](dic://rubbish), [trash](dic://trash)
+		6. [fight](dic://fight), [fighting](dic://fighting), [combat](dic://combat)
+		7. [trash](dic://trash), [junk](dic://junk)
+		8.  [quarrel](dic://quarrel), [dispute](dic://dispute), [argufy](dic://argufy), [altercate](dic://altercate)
+		9. _n._ [fragment](dic://fragment), [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter), [waste product](dic://waste product), [piece](dic://piece), [conflict](dic://conflict)
+		10. _v._ [discard](dic://discard), [fling](dic://fling), [toss](dic://toss), [toss out](dic://toss out), [toss away](dic://toss away), [chuck out](dic://chuck out), [cast aside](dic://cast aside)
+			1. [bit](dic://bit) 侧重指微小，一点点，小碎片。  
+			2. [piece](dic://piece) 最普通用词，多指从整体上分割下来的东西，可大可小。  
+			3. [sheet](dic://sheet) 侧重指平整很薄的一张或一片。  
+			4. [slice](dic://slice) 多指切得很薄的一片食物。  
+			5. [fragment](dic://fragment) 指破裂的，不完整的，不可完整的碎片。  
+			6. [scrap](dic://scrap) 侧重指废弃的零碎之物。
+		11. **salvage**打捞;**leftover**残留物;**recycled**回收站;**recycle**使再循环;**scrappy**爱打架的;**scrapbook**剪贴簿;**junk**垃圾，废物;**pile**堆;**chipboard**硬纸板,纸板;**heap**堆;**stash**藏匿处;
+		12. do a dummy run on some scrap material. /用一些废料做实验。
+		13. a jumble of paper scraps in a drawer. /抽屉里一堆杂乱的纸屑
+		14. we're burning scrap lumber /我们在烧废木料。
+		15. scraped my knee on the sidewalk. /我的膝盖在人行道上刮破了
+		16. scraped through by a narrow margin /勉强过关
+		17. Every scrap of land in the town has been built on. /城中的每片土地上都有建筑物。
+		18. He looks like he’s been in a scrap /他看上去好像跟人打过架。
+		19. In the end, the decision to scrap the project was unanimous. /最后，大家一致决定放弃这一项目。
+		20. The government is also scrapping some corporate tax deductions. /政府也将撤消部分公司税减免政策。
+		21. Scraps and bones is no kind of dinner. /菜羹冷炙和骨头怎么能叫饭呢。
+		22. Instead, they would offer these table scraps to the enslaved communities /相反，他们会把这些奶酪残渣提供给被奴役的社区。
+		23. scraps
+		24. scrappy
+		25. scrapbook
+		26. scrap-iron
 	24. scrape
 		1. **wipe**擦;**chop**砍;**rub**擦;**pry**打听;**scratch**抓痕;**pull**拉;**rip**撕;**remove**移开;**squeeze**挤;**carve**雕刻;**muck**垃圾;
 		2. [noise](dic://noise), [wound](dic://wound), [lesion](dic://lesion), [bow](dic://bow), [bowing](dic://bowing), [obeisance](dic://obeisance), [blemish](dic://blemish)
@@ -3023,23 +3220,126 @@
 		7. [scratch](dic://scratch), [scar](dic://scar), [mark](dic://mark)
 		8. [abrasion](dic://abrasion), [scratch](dic://scratch), [excoriation](dic://excoriation)
 		9. [scraping](dic://scraping), [scratch](dic://scratch), [scratching](dic://scratching)
-		10. skyscrape
-		11. scrapple
-		12. scraping
-		13. scraper
-	25. scratch
-		1. scratchy
-		2. scratcher
-		3. scratchback
-		4. microscratch
-		5. backscratcher
-	26. scrawl
-2. scarify
-3. screeve
-4. scrivener
-5. serif
-6. shrift
-7. shrive
+		10. _scrape together_ 东拼西凑
+		11. _scrape up_ vt. 积攒；积蓄；凑集
+		12. _scrape off_ 刮掉；擦去
+		13. _scrape along_ 勉强糊口
+		14. _scrape through_ 勉强通过
+		15. skyscrape
+			1. Enjoy a 365-degree view of beautiful forests, beaches, as well as skyscrapers! /缆车里可以365度全方位欣赏美丽的森林、海滩和摩天大楼！
+			2. Modern skyscrapers dominate the city's skyline, but it also has verdant parks and gardens. /现代化的摩天大楼高耸入云，但这里也建有绿意盎然的公园和花园。
+		16. scrapple
+			1. n. 玉米肉饼
+			2. _n._ [dish](dic://dish)
+			3. **sausage**香肠;**bacon**熏猪肉;**pancakes**薄烤饼;**brisket**胸肉;**lard**猪油;**waffles**华夫饼干;**sausages**香肠， 腊肠;**ham**火腿;**fried**油炸的，油煎的;**pancake**薄烤饼;**Philly**费城;
+		17. scraping
+		18. scraper
+	25. scrabble
+		1. 改写自 scrape,刮，擦，-le,表反复。引申词义乱翻，乱找。
+		2. v. （忙乱地）扒寻，摸索；（为了找到或抓牢）抓，摸；（动物）用爪子乱抓，挣扎；乱涂；在……上乱扒；快爬；努力，尽力；苦求 
+		3. n. 抓，扒；摸索；努力，尽力；挣扎；涂鸦；（Scrabble）（商标）拼字游戏
+		4. [scribble](dic://scribble), [doodle](dic://doodle)
+		5. [grope for](dic://grope for)
+		6.  [scribble](dic://scribble)
+		7. _n._ [drawing](dic://drawing), [word game](dic://word game), [board game](dic://board game)
+		8. _v._ [feel](dic://feel), [write](dic://write)
+		9. **crossword**纵横填字谜;**solitaire**单人纸牌戏,单人跳棋,单粒宝石;**puzzle**使…困惑;**alphabet**字母表，字母系统;**jigsaw**线锯;**puzzles**智力游戏;
+		10. _scrabble for_ 争夺
+		11. scrabble for a living /为谋生而挣扎
+		12. scrabble about in the sand /在沙里扒找
+		13. scrabble up a meal for a visitor /为来访者胡乱弄了点饭菜
+		14. she scrabbled at the grassy slope, desperate for purchase /她在青草坡上乱抓，拼命想抓住一个受力物。
+		15. he heard the scrabble of claws behind him /他听到背后有爪子的抓爬声。
+		16. scrabble about for sth. dropped under the table /扒来扒去(或摸索着)寻找掉在桌下的某物
+		17. The memory of thousands of years scrabbling for food faded /数千年艰苦觅食的记忆逐渐淡忘。
+		18. We're not playing naughty word scrabble. You just have a dirty mind /我们没玩什么“拼脏字”游戏，是你自己思想肮脏。
+	26. scratch
+		1. v. （用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）；（用爪子）抓，刨；（鸟、哺乳动物，尤指鸡）用嘴（或爪子）扒地找食物；寻觅（难找的人或物）（scratch for）；艰难生活（scratch along）；勾掉，划去（写下的字）；<非正式> 仓促写下；（用尖利物）刮擦出声音；<非正式> 取消，撤销（想法或计划）；<非正式>（使）退出比赛；（用刮擦技法）播放唱片 
+		2. n. （某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠；刮擦声 ；唱片的嚓嚓声（指唱片纹道与唱针的摩擦噪声）；刮擦（多用于快板乐中，用手制止唱片转动，使其来回移动发出有节奏的嚓嚓声的技巧）；（高尔夫）零让步（表明选手不弱，能在场上达到规定击球的次数）；<非正式> 钱 
+		3. adj. （球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫球员）无让杆的，无让步优待的；碰巧的；打草稿用的
+		4. you scratch my back and I'll scratch yours让我们互相帮助。旧时英国海员工作时犯了酗酒或脱岗等错误时，会被绑在桅杆上，由其它水手用鞭子抽。因为挥舞鞭子的人将来犯错也会遭受同样的刑罚，所以行刑人有意地下手很轻。Reciprocal altruism?That is "you scratch my back and I'll scratch yours". ​​​​
+		5. start from the scratch从头开始；白手起家。赛马时，起跑线是在地上用剑或矛尖挖（scratch）出的一条线，如果某个选手比赛途中抄近路或跑错了赛道，那对不起，需要违规选手回到起点重新开始。If we have to start from scratch then it all takestime.如果我们要从头开始，那么这一切需要时间。
+		6.  [abrasion](dic://abrasion), [scrape](dic://scrape), [excoriation](dic://excoriation)
+		7. [incision](dic://incision), [prick](dic://prick), [slit](dic://slit), [dent](dic://dent)
+		8.  [boodle](dic://boodle), [bread](dic://bread), [cabbage](dic://cabbage), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [loot](dic://loot), [moolah](dic://moolah), [pelf](dic://pelf), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
+		9. [chicken feed](dic://chicken feed)
+		10. [scrape](dic://scrape), [scraping](dic://scraping), [scratching](dic://scratching)
+		11. [scribble](dic://scribble), [scrawl](dic://scrawl), [cacography](dic://cacography)
+		12. [scrape](dic://scrape), [scar](dic://scar), [mark](dic://mark)
+		13. [rub](dic://rub), [fray](dic://fray), [fret](dic://fret), [chafe](dic://chafe)
+		14.  [scrape](dic://scrape), [scratch up](dic://scratch up)
+		15.  [rub](dic://rub), [itch](dic://itch)
+		16. [cancel](dic://cancel), [call off](dic://call off), [scrub](dic://scrub)
+		17. [strike](dic://strike), [expunge](dic://expunge), [excise](dic://excise)
+		18. [scrape](dic://scrape), [scrape up](dic://scrape up), [come up](dic://come up)
+		19. [engrave](dic://engrave), [grave](dic://grave), [inscribe](dic://inscribe)
+		20. _n._ [wound](dic://wound), [lesion](dic://lesion), [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [money](dic://money), [mash](dic://mash)
+		21. _v._ [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact), [incise](dic://incise), [irritate](dic://irritate), [delete](dic://delete)
+		22. **itch**痒;**scrape**用工具刮;**dent**凹痕;**scraped**报废;**tear**撕掉，扯下;**wipe**擦;**start**开始;**rebuild**重建;
+		23. scratch 'n sniff. /抓挖和嗅探
+		24. a scratch on her arm /她手臂上的一道抓痕。
+		25. to scratch the paint off the wall /从墙上刮下油漆
+		26. a scratch on her hand /她手上的抓痕
+		27. a scratch or cut in Henry's arm had mortified. /亨利胳膊上的擦伤或割伤已形成坏疽。
+		28. The cat scratched itself /猫自己抓痒
+		29. I scratched myself on the tree /我被树划伤了。
+		30. The scratch on your hand will soon be well /你手上的划伤不久就会好。
+		31. That cat will scratch you with its claws. /那猫会用爪子抓你的。
+		32. scratch a few lines to a friend /潦草地写几句话给一位朋友
+		33. scratch where it itches /搔痒; [喻]迎合人意
+		34. scratchy
+			1. _adj._ (录音等)发出咝咝沙沙声的
+			2. (衣服)粗糙的,让人感到刺痒的
+			3. (书写等)潦草的
+			4. 拼凑成的, 临时组成的
+			5. 不规则的；参差不齐的
+			6. [abrasive](dic://abrasive)
+			7.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+			8. [spotty](dic://spotty), [uneven](dic://uneven)
+			9.  [grating](dic://grating), [gravel](dic://gravel), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough)
+			10. _adj._ [rough](dic://rough), [unsmooth](dic://unsmooth), [ill-natured](dic://ill-natured), [inconsistent](dic://inconsistent), [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
+			11. _n._ [smooth](dic://smooth), [good-natured](dic://good-natured), [consistent](dic://consistent), [euphonious](dic://euphonious), [euphonous](dic://euphonous)
+			12. **itchy**发痒的;**lumpy**粗笨的;**grainy**粒状的;**fuzzy**模糊的;**soft**温柔的，温和的;**dusty**落满灰尘的;**patchy**斑驳的;**muffled**听不清的;**prickly**多刺的;**ragged**衣衫褴褛的;**sandpaper**砂纸;
+			13. scratchy handwriting. /潦草的手迹
+			14. a scratchy fabric /令人发痒的布料
+			15. a scratchy ink sketch of a man on horseback. /一幅人骑马的钢笔速写。
+			16. Oh. I was stirring my mud pie with a scratchy stick. /哦。我之前用一根扎人的棍子搅拌我的泥馅饼。
+			17. " Do you have long teeth and scratchy claws? " I asked /“你有长牙齿和抓痒的爪子吗？”我问。
+			18. Sophie had seen that quilt. It was scratchy and drab. Not fit for a baby /索菲见过被子。它沙哑而单调。不适合宝宝。
+			19. Instead the word was lost on scratchy old equipment operating nearly a quarter million miles away /然而，这个词在25万英里之外操作的粗糙的旧设备上却丢失了。
+		35. The earliest scratchy recording of a pope was that of Leo XIII on a wax cylinder /最早的教皇声音文档是记录在蜡筒唱片上利奥十三世的声音。
+		36. scratcher
+			1. _n._ [workman](dic://workman), [workingman](dic://workingman), [working man](dic://working man), [working person](dic://working person), [person](dic://person), [individual](dic://individual), [someone](dic://someone)
+			2. **head**头;**kitty**小猫，猫咪;
+			3. That is not a scratcher of any variety /它根本不是什么挠痒的。
+			4. The Achan is the, that is a scratchers. /亚干是，那是一个抓挠者。
+			5. On average, you buy scratcher tickets and you're gonna lose money, just like any other gambling. /平均来说，你买刮刮乐，你会赔钱，就像其他赌博一样。
+		37. scratchback
+			1. n. 搔背用的小扒子
+		38. microscratch
+		39. backscratcher
+	27. scrawl
+		1. 可能来自 scribe,写，拼写受影响于 sprawl,蔓延，杂乱无章的展开。引申词义潦草的写。
+		2. vt. 潦草地写
+		3. vi. 乱写
+		4. n. 潦草的笔迹
+		5. [scribble](dic://scribble), [scratch](dic://scratch), [cacography](dic://cacography)
+		6. _n._ [handwriting](dic://handwriting), [hand](dic://hand), [script](dic://script)
+		7. _v._ [write](dic://write)
+		8. **handwritten**手写的;**handwriting**书法, 字迹;**notepad**记事手册;**legible**易读的;**chalkboard**黑板;**jot**略记;**doodle**涂鸦;**lettering**字体;**graffiti**墙上乱写乱画的东西;**pencil**铅笔;**pen**钢笔;
+		9. Don’t scrawl on the wall. /不要在墙上乱涂。
+		10. scrawl all over the wall /在墙上到处乱涂
+		11. I didn't want to spoil the page with my clumsy scrawl. /我不想我那笨拙不堪的鬼画符把作业纸给毁了。
+		12. “What do you mean? ” Harry scrawled, blotting the page in his excitement. /“你是什么意思？”哈利潦草地写，激动得把纸都戳破了。
+		13. He scrawled an enormous loopy signature on the note and handed it back to Hermione /他在纸条上龙飞风舞地签上一个大大的、花体的名字，又把纸条还给赫敏。
+		14. Henry's story, scrawled in 11 notebooks, comforts Catherine as her lover can no longer. /这位亨利先生的故事潦草地记叙在他留下的11本笔记中，让凯瑟琳的心得到了死去的情人再也无法给予的抚慰。
+		15. I can't be expected to read this **scrawl**! /这种潦潦草草的东西我能看懂吗！
+3. scarify
+4. screeve
+5. scrivener
+6. serif
+7. shrift
+8. shrive
 
 
 ### + \*skreu- + = to cut; cutting tool
@@ -5795,6 +6095,108 @@
 	1. 
 
 
+### strid-,strif-,striv-
+1. stride
+	1. n. 大步，阔步；步态，步伐；步距，步幅；步速；进展，进步；<非正式>裤子（strides）；钢琴跨越弹奏法 v. 大步走，阔步走；跨越，跨过；<文>跨坐在……上，跨立在……上
+	2. strid-竞争 + -e → 竞争走路 → 大步走。
+	3.  来自古英语 stridan,跨坐，上马，来自 Proto-Germanic*stridanan,斗争，争斗，词源同 strife,strive.可能来自 PIE*ster,展开，铺开，伸展，词源同 strew,structure,strand.该词在其大多数日耳曼同源词中都保留原义斗争，争斗，吵架，争吵，在英语中引申词义大步走，阔步走可能是取其奋勇向前之意。
+	5. [pace](dic://pace), [tread](dic://tread)
+	6. [footstep](dic://footstep), [pace](dic://pace), [step](dic://step)
+	7. _n._ [step](dic://step), [indefinite quantity](dic://indefinite quantity), [advancement](dic://advancement), [progress](dic://progress)
+	8. _v._ [walk](dic://walk), [traverse](dic://traverse), [track](dic://track), [cover](dic://cover), [cross](dic://cross), [pass over](dic://pass over), [get over](dic://get over)
+		1. [walk](dic://walk) 最常用词，中性词，指除跑、跳之外所有移步的动作。  
+		2. [stride](dic://stride) 着重步子大而且节奏有力，流露出匆忙、烦恼、得意等情绪。  
+		3. [stroll](dic://stroll) 多指走走停停，步子缓慢，悠闲自得，漫无目的。  
+		4. [strut](dic://strut) 指大摇大摆地走，含过分自信或自高自大意味。  
+		5. [pace](dic://pace) 指踱步，走步
+	9. **gait**步法，步态;**trot**疾走;**pace**步速;**stepped**踏;**stepping**改变;**leaps**跳跃，剧增，急变;**step**步，脚步;**paces**步调;**leap**跳，跳跃;**cadence**节奏;**swagger**吓唬;
+	10. _in stride_ ◎不影响正常活动地;◎泰然自若地;
+	11. _stride over_ v. 跨过
+	12. _hit one's stride_ 使出干劲
+	13. a stride pianist /用跨越弹奏法演奏的钢琴家。
+	14. stride a brook. /跨越一小溪
+	15. new wealth enabled Britain to stride the world once more. /新的财富使得英国能再次屹立于世。
+	16. With two strides he crossed the room /他两大步就穿过了房间。
+	17. making great strides in their studies. /在学习上取得很大的进步
+	18. Tom has made enormous strides at school this year. /今年汤姆的学业进步很大。
+	19. It seems like you take everything in stride, you know? /你从容处理所有的事？
+	20. Trump never seemed to hit his stride on the trip. /特朗普此行似乎没有顺利的事情。
+	21. bestride
+		1. vt. 跨骑, 横跨, 跨过, 控制
+		2.  [hop on](dic://hop on), [mount](dic://mount), [mount up](dic://mount up), [get on](dic://get on), [jump on](dic://jump on), [climb on](dic://climb on)
+		3. _v._ [move](dic://move)
+		4. **dominate**支配;**behemoth**巨兽;**topple**倾倒;**mighty**有力的;**towering**激烈的;**conquer**战胜，征服;**reshape**改造;
+		5. he bestrides Alberta politics today. /他控制了当今阿尔伯塔省的政局。
+		6. There is, however, little chance of a single company bestriding the entire industry. /然而，一家公司超越整个行业的可能性很小。
+		7. Now they bestride the world, having seen their valuations, and their role as critical infrastructure, amplified by the pandemic /现在，由于疫情的影响，他们已经成为全球关键基础设施的重要组成部分，并且他们的估值也得到了提升。
+		8. It was Chapin's practice, as it is the practice of overseers generally, immediately on arising, to bestride his horse, always saddled and bridled and ready for him—the particular business of some slave—and ride into the field. /这是查宾的做法， 就像一般监督员的做法一样，一起床，就骑上他的马，总是备好鞍， 系好缰绳，为他做好准备——这是一些奴隶的特殊职责——然后骑马进入田野。
+		9. America's media companies **bestride** the globe /美国的传媒公司主宰了全球。
+	22. astride
+		1. ad. 跨着
+		2. [astraddle](dic://astraddle)
+		3. _[astride overskirt](dic://astride%20overskirt)_  妇女骑马裙
+		4. _[stand astride](dic://stand%20astride)_  两脚分开站立
+		5. _[astride a bicycle](dic://astride%20a%20bicycle)_  骑着一辆自行车
+		6. a figure astride a horse. /一个骑在马上的人影。
+		7. He rode astride /他骑在马背上。
+		8. the port stands astride an international route. /港口横跨在一条国际航道的两侧。
+		9. this picturesque village astride the River Coln /这个风景如画的村庄横跨科恩河。
+		10. That pretty girl rode astride the horse /那位漂亮的小姑娘两腿叉开骑在马上。
+		11. Spurred riders sat astride sleek mare /装着马刺的骑手两脚分开跨在光滑的母马上
+1. strife
+	1. n. 争吵, 竞争, 冲突
+	2.  [discord](dic://discord)
+	3. _n._ [disorder](dic://disorder), [conflict](dic://conflict), [struggle](dic://struggle), [battle](dic://battle)
+	4. [controversy](dic://controversy) 侧重指深刻的意见分歧，多指对引起广泛兴趣或非常重要的问题的辨论。  
+	5. [argument](dic://argument) 指辩论双方均以事实或理由来说服对方的辨论。  
+	6. [conflict](dic://conflict) 指双方坚持已见、互不妥协，怀有敌意的争论，多暗示分歧极为严重，有时用语言无法解决，只得诉诸武力。   
+	7. [debate](dic://debate) 通常指经过仔细组织和计划的个人或团体之间的辩论。  
+	8. [dispute](dic://dispute) 普通用词，侧重指长时间，言词激烈，针锋相对的争辩。  
+	9. [quarrel](dic://quarrel) 普通用词，既可指言词激烈的争吵，也可指温和的言词上的不和。  
+	10. [strife](dic://strife) 指因不可缓和的矛盾而引起的争吵或斗殴。
+	11. **discord**不和;**turmoil**混乱，骚动;**unrest**不安;**upheaval**剧变;**bloodshed**流血,虐杀;**conflict**冲突，矛盾;**enmity**敌意;**chaos**混沌，混乱;**animosity**憎恨, 仇恨, 敌意;**quarrel**吵架;**anguish**苦闷;
+	12. _[civil strife](dic://civil%20strife)_  国内冲突; 内乱; 
+	13. _[internal strife](dic://internal%20strife)_  内讧；萧墙之祸；内乱
+	14. strife within the community. /社区内部的冲突。
+	15. the fratricidal strife within the Party. /党内的争斗。
+	16. Internal strife defeats the purpose of teamwork. /内部争斗挫伤了团队合作的目的
+	17. We want harmony and friendship, not conflict and strife. /我们希望和平与友谊，而非冲突与争执。
+	18. Every grain of rice requires such effort and such strife. /不努力就没收获，每粒米都是这样。
+	19. Boy and soldier, in peace or strife. /男孩和士兵，在和平或冲突中。
+2. strive
+	1. vi. 努力, 奋斗, 斗争
+	2. 来自中古英语 striven,艰难尝试，努力，奋斗，来自古法语动词 estriver,争吵，争斗，来自古法语名词 estrif,争吵，争斗，改写自 estrit,争吵，来自 Proto-Germanic*strido,纷争，斗争，战斗，词源同 stride.后主要用于褒义词义努力，奋斗，原词义见名词 strife,纷争，冲突。
+	3. [endeavor](dic://endeavor), [endeavour](dic://endeavour)
+	4. [reach](dic://reach), [strain](dic://strain)
+	5. _v._ [try](dic://try), [seek](dic://seek), [attempt](dic://attempt), [essay](dic://essay), [assay](dic://assay), [tug](dic://tug), [labor](dic://labor)
+		1. [attempt](dic://attempt) 较正式用词，侧重已经开始，且希望完成，但常隐含着不一定有预期的结果。  
+		2. [try](dic://try) 普通用词，可与attempt换用，但强调努力或尝试，后跟不定式表示努力或争取；后跟动名词表示尝试。  
+		3. [endeavour](dic://endeavour) 正式用词，指尽最大努力、认真地克服困难去做某事。  
+		4. [strive](dic://strive) 和endeavour一样，表示付出巨大努力，但strive侧重劳累与紧张，而不强调努力的结果。
+	6. **aspire**渴望;**endeavour**尽力,竭力;**encourage**鼓励, 激励;**seek**寻找;**achieve**完成;**uphold**支持;**assure**保证;**tirelessly**不厌倦地;**ensure**保证，确保;**attain**达到，实现;**continually**不停地
+	7. _strive for_ 争取，奋斗
+	8. _strive to develop_ 努力发展；大力发展
+	9. _strive after_ 奋斗；争取
+	10. _strive against_ 反抗
+	11. _strive for freedom_ 力争自由
+	12. scholars must strive against bias /学者必须和偏见作斗争。
+	13. strive hard to make greater progress /努力争取更大的进步
+	14. Strive for the best, prepare for the worst. /作最坏的打算,争取最好的结果。
+	15. Yes, but I have this urge to strive for perfection. /是的，但我总是想着更完美些。
+	16. It is a way for us to strive to gain health. /这是一种寻求健康的方式。
+	17. It is not selfish to strive for it. /努力追求快乐算不上是自私。
+	18. striver
+		1. [slave](dic://slave), [hard worker](dic://hard worker)
+		2. _n._ [worker](dic://worker)
+		3. **wannabe**想达到目标的人;**idealistic**理想主义的;**dreamer**梦想家;**aspiring**有抱负的;**self-made**自造的;**middle-class**中产阶级的;**self-centered**自我为中心的,利己主义的;**neurotic**神经过敏的;**worldly**世间的;**thinker**思想家;**devotee**爱好者;
+		4. Only such a striver is valuable. /惟有这样的奋斗者才是富有价值的。
+		5. Maybe the striver thing is all an act, and maybe it's just a coincidence that my coffee tasted like her perfume. /也许勤奋只是表现出来的，我的咖啡尝起来像她的香水味这也许也纯属巧合。
+		6. A strong case for the dull striver was made by Tomas Chamorro-Premuzic, a psychologist at University College London, in an article for the Harvard Business Review in 2015 entitled " The best managers are boring managers" . /伦敦大学学院的心理学家托马斯·查莫罗-普雷穆季奇在2015年为《哈佛商业评论》撰写了一篇文章，题为《最好的经理人是无趣的经理人》，文章为支持沉闷但努力的人进行了有力论证。
+		7. The **striver** contrives to derive that privacy can't be deprived. /奋斗者想方设法推导得出隐私(权)不可剥夺。
+		8. Time for **striver** is kind of treasure, for lazy person, is a kind of burden. /时间对奋斗者而言，是一种财富，对懒惰者而言，是一种累赘。
+	19. striven
+
+
 ### stup- = stun, 表示“使震惊”。源自拉丁语 stupere "to be stunned."
 1. stupefacient
 	1. a. 麻醉性的, 使不省人事的  n. 麻醉剂
@@ -5806,8 +6208,8 @@
 	5. _[protective stupefaction](dic://protective%20stupefaction)_ 保护性昏迷
 4. stupefy
 	1. 来自拉丁语 stupere,震惊，困惑，词源同 stupid.-fy,使。
-	2.  [besot](dic://besot)
-	3.  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+	2. [besot](dic://besot)
+	3. [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 	4. [stun](dic://stun)
 	5. _v._ [desensitize](dic://desensitize), [desensitise](dic://desensitise), [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle)
 	6. **amuse**使发笑;**dazzle**耀眼的光;**frighten**使惊吓;**arouse**引起;**stun**打昏;**excite**刺激…，使…兴奋;**amaze**使吃惊;**seduce**引诱;**humiliate**蒙羞;**overwhelm**覆盖, 淹没;**subdue**征服;
@@ -5993,6 +6395,21 @@
 	3. hedonist
 2. **suav-** = sweet, delightful, 表示“甜的，高兴的”。源自拉丁语 suavis "delightful."
 	1. suave
+		1. [debonair](dic://debonair), [debonaire](dic://debonaire), [debonnaire](dic://debonnaire)
+		2. [politic](dic://politic), [smooth](dic://smooth), [bland](dic://bland)
+		3. affable, suave, moderate men...smugly convinced of their respectability
+		4. _adj._ [refined](dic://refined), [diplomatic](dic://diplomatic), [diplomatical](dic://diplomatical)
+		5. _n._ [unrefined](dic://unrefined), [undiplomatic](dic://undiplomatic)
+		6. **handsome**英俊的;**dashing**雄纠纠的;**flamboyant**显眼的, 浮夸的, 炫耀的;**classy**漂亮的;**sultry**闷热的;**charismatic**有魅力的;**seductive**诱惑的;**good-looking**好看的;**sophisticated**老练的;**brash**仓促的，性急的;**sexy**性感的;
+		7. _[gentle suave](dic://gentle%20suave)_ 文质彬彬
+		8. _[Vinho tinto suave](dic://Vinho%20tinto%20suave)_ 最喜爱的饮料
+		9. _[a suave manner](dic://a%20suave%20manner)_ 温文尔雅的举止
+		10. all the waiters were suave and deferential /所有侍者都温文尔雅、毕恭毕敬。
+		11. That same year he made his Broadway debut, playing a suave radio journalist /在那同一年里，他初次在百老汇登台，扮演一个温文而雅的电台记者。
+		12. Wooden exterior and marmoreal ground bring a comfortable suave with doughty recept /创意性采光设计，使大堂，餐厅，书吧及桑拿池浴均能充分领略室外自然景观。
+		13. I just prefer to be suave, do it with panache and finesse. /我只是喜欢考究点的 要有派头又有手段的。
+		14. You do it in your own suave way /你可以用你自己的那种温和方式。 
+		15. Even in anger, he was suave and satirical, and whisky usually served to intensify these qualities. /即使发怒时，他也是温和而诙谐的，威士忌往往只会使他的这种脾性更加突出罢了。
 	2. suavity
 	3. assuage
 		1. unassuaged
@@ -6142,7 +6559,7 @@
 3. sweat
 
 
-### + \*swen- +  = to sing, make sound
+### ⭐ + \*swen- +  = to sing, make sound
 1. **son-** = sound, 表示“声音”。源自拉丁语 sonus "a sound," sonare "to sound."
 	1. sonar
 	2. sonant
@@ -6174,7 +6591,16 @@
 		10. personage
 			1. **statesman**政治家;**nobleman**贵族;**deity**神;**exalted**尊贵的;**gentleman**绅士;**stature**身高，身材;**regal**帝王的;**illustrious**著名的, 杰出的, 卓越的;**person**人;**countenance**面容，表情;**nobility**贵族;
 		11. persona
-			1. **personality**人格, 个性;**character**个性;**demeanor**行为;**ego**自我;**archetype**原型;**personalities**人身攻击;**identity**身份;**charisma**非凡的领导力;**avatar**电影《阿凡达》;**swagger**吓唬;**introspective**好反省的;
+			1. [character](dic://character), [role](dic://role), [theatrical role](dic://theatrical role), [part](dic://part)
+			2. [image](dic://image)
+			3. _n._ [portrayal](dic://portrayal), [characterization](dic://characterization), [enactment](dic://enactment), [personation](dic://personation), [appearance](dic://appearance), [visual aspect](dic://visual aspect)
+			4. **personality**人格, 个性;**character**个性;**demeanor**行为;**ego**自我;**archetype**原型;**personalities**人身攻击;**identity**身份;**charisma**非凡的领导力;**avatar**电影《阿凡达》;**swagger**吓唬;**introspective**好反省的;
+			5. The diplomat was persona non grata. /这位外交官不受欢迎
+			6. Without the persona or soul, humans would be disanimate /没有角色或灵魂，人类就会失去生命。
+			7. in my last term I became persona grata to a group of Newnham College girls. /最后一学期，我成了受一群纽纳姆大学女生青睐的人。
+			8. And then like your modeling persona is like someone else. /然后你做模特的时候就像另一个人。
+			9. Some adopted relatively mild personas, sticking with the pack, building a trusted brand. /一些人选择了相对温和的角色，坚持包装，打造一个值得信赖的品牌。
+			10. Dominic Cummings, his adviser, dresses scruffily, which suits his persona as the " eccentric genius" . /他的顾问多米尼克? 卡明斯穿着邋遢，这正符合他作为“古怪天才”的形象。
 		12. nonperson
 		13. layperson
 		14. personate
