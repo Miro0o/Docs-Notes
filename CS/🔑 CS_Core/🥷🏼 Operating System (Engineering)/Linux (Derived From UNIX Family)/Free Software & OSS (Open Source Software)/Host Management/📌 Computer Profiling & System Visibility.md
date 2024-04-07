@@ -55,19 +55,26 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 
 ## 🎯 Logging
 ### 👉 `dmesg`
-[dmesg](https://www.man7.org/linux/man-pages/man1/dmesg.1.html)
+📂 [dmesg](https://www.man7.org/linux/man-pages/man1/dmesg.1.html)
+
+display the system message buffer
+Dmesg displays the contents of the system message buffer.  This command needs to be run as root.
 
 
 ### 👉 `log` | `syslog` | `logger` | `journalctl`
-[log show](https://www.manpagez.com/man/1/log/) 
+[log show](https://www.manpagez.com/man/1/log/)
 
-[logger](https://www.man7.org/linux/man-pages/man1/logger.1.html) 
+[logger](https://www.man7.org/linux/man-pages/man1/logger.1.html)
 
-[journalctl](https://www.man7.org/linux/man-pages/man1/journalctl.1.html) 
+[journalctl](https://www.man7.org/linux/man-pages/man1/journalctl.1.html)
 
 
 ### 👉 `lnav`
 [lnav](http://lnav.org/)
+
+lnav - ncurses-based log file viewer
+
+The log file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels.  Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file.  It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
 
 
 
@@ -143,7 +150,9 @@ python - cProfile
 The du command is a standard Linux/Unix command that **allows a user to gain disk usage information quickly**. It is best applied to specific directories and allows many variations for customizing the output to meet your needs. As with most commands, the user can take advantage of many options or flags.
 #### 👉 `lsblk` | `df` | `pydf`
 
-#### 👉 `fdisk` | `hdisk` | `mount` | `free`
+#### 👉 `fdisk` | `hdisk` | `gdisk`
+
+#### 👉 `mount` | `free`
 
 #### 👉 `vmstat`
 

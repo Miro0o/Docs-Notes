@@ -578,6 +578,96 @@ boner
 -  [cram](dic://cram), [grind away](dic://grind away), [drum](dic://drum), [bone up](dic://bone up), [swot](dic://swot), [get up](dic://get up), [mug up](dic://mug up), [swot up](dic://swot up)
 - _[pull a boner](dic://pull%20a%20boner)_  犯大错误; 闹大笑话;
 
+book
+- book（书籍）：古日耳曼人用山毛榉做成的书  
+- 在古代日耳曼人生活的北欧区域，山毛榉是当地最常见的树种，因此古代日耳曼人使用山毛榉作为书写的材料。他们把山毛榉削成一片一片的木片，在木片上刻字，这就是他们最早的“书”。所以，英语单词book（书）与beech（山毛榉）同源。单词book在古英语中拼写为boc，它源自日耳曼语bokiz，意思就是“山毛榉”。在德语中，表示“书”的单词是buch，表示“山毛榉”的单词是buche。这也是日耳曼人用山毛榉作为书写材料的证据。  
+- book：[bʊk] n.图书，书籍vt.预订，登记  
+- beech：[biːtʃ] n.山毛榉
+- yearbook
+- workbook
+- wordbook
+- textbook
+- stylebook
+- studbook
+- storybook
+- sketchbook
+- scrapbook
+- scorebook
+- schoolbook
+- roadbook
+- psalmbook
+- promptbook
+- pollbook
+- pocketbook
+- playbook
+- phrasebook
+- passbook
+- overbook
+- open-book
+- notebook
+- non-book
+- matchbook
+- logbook
+- jestbook
+- hymnbook
+- hornbook
+- herdbook
+- handbook
+- guidebook
+- giftbook
+- exercisebook
+- daybook
+- copybook
+- cookbook
+- clipbook
+- classbook
+- chequebook
+- checksbook
+- checkbook
+- chapbook
+- cashbook
+- casebook
+- bookworm
+- bookwork
+- bookstore
+- bookstall
+- bookstack
+- bookshop
+- bookshelf, bookshelves
+- bookselling
+- bookseller
+- bookplate
+- bookmobile
+- bookmarker
+- bookman
+- bookmaking
+- bookmaker
+- booklore
+- booklet
+- booklearned
+- bookkeepter
+- bookkeeping
+- bookish
+- bookings
+- booking
+- bookie
+- bookhunter
+- bookend
+	- a support placed at the end of a row of books to keep them upright (on a shelf or table)
+	- And then, bookend them or sandwich them accordingly
+	- _n._ [support](dic://support)
+	- **centerpiece**中心装饰品;**prelude**前奏;**interlude**中间;**montage**蒙太奇;**vignette**装饰图案;**juxtaposition**并置,并列;**epilogue**结语，收场白;**complement**相辅相成;**poignant**尖锐的;**penultimate**倒数第二的;**reminiscent**提醒的, 暗示的;
+- bookcase
+- bookbinding
+- bookbindery
+- bookbinder
+- bookable
+- book-token
+- book-stand
+- book-phrase
+- blankbook
+- bankbook
+
 boot
 - reboot
 - jackboot
@@ -785,6 +875,9 @@ brackish
 - a brackish personality /令人作呕的个性
 - a thin, brackish gruel /稀而难以下咽的粥
 - spluttering brackish water, he struggled to regain his feet /他喀喀地吐了几口苦水后便挣扎着想要重新站起来。
+
+brand
+ - gwher-
 
 breast
 - single-breasted, double-breasted
@@ -1458,6 +1551,9 @@ chamfer
 change
 - etc.. (todo)
 
+charisma
+- ka-
+
 check
 - etc..
 
@@ -1511,6 +1607,14 @@ cherub
 	- a round, cherubic face. 圆胖可爱的脸。
 	- The star of the team was a blond, cherubic, and psychologically intense self-taught young engineer named Burrell Smith, who worshipped the code work of Wozniak and tried to pull off similar dazzling feats. 团队中的明星是一个叫伯勒尔·史密斯的无师自通的年轻工程师。他有一头金发，长着一张娃娃脸，内心却极其严肃认真，他十分崇拜沃兹尼亚克编写的代码，自己也想做出一些耀眼的成就
 
+chide
+-  [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+- _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+- **accuse**控告，指控;**criticize**评论, 批评;**rebuke**指责，非难;**embarrass**使窘迫;**criticise**批评;**mocking**嘲弄的;**condemn**判刑，定罪;**taunt**嘲弄;**denounce**谴责;**accusing**指责的;**shun**避开, 回避, 避免;
+- He chided her for carelessness. /他因她的粗心大意而责备她。
+- she chided him for not replying to her letters. /她为他不回信而责骂他。
+- This was a poor message, AdWeek chided, at a time when " hustle culture feels downright toxic. /这是一个糟糕的信息，《广告周刊》指责说，在“喧嚣文化感觉彻头彻尾有毒”的时候。
+
 chunk
 - [ball](dic://ball), [clod](dic://clod), [glob](dic://glob), [lump](dic://lump), [clump](dic://clump)
 - [lump](dic://lump)
@@ -1519,8 +1623,8 @@ chunk
 - _v._ [roll up](dic://roll up), [collect](dic://collect), [accumulate](dic://accumulate), [pile up](dic://pile up), [amass](dic://amass), [compile](dic://compile), [hoard](dic://hoard)
 - **sliver**裂片;**portion**部分;**amount**总计，合计;**sizable**相当大的;**slice**薄片;**sizeable**大的，相当大的;**hunk**大块，大片;**swath**细长的列;**fraction**小部分;**amounts**数量，总额;**piece**件;
 - chunky 
-	-  [lumpy](dic://lumpy)
-	-  [dumpy](dic://dumpy), [low-set](dic://low-set), [squat](dic://squat), [squatty](dic://squatty), [stumpy](dic://stumpy)
+	- [lumpy](dic://lumpy)
+	- [dumpy](dic://dumpy), [low-set](dic://low-set), [squat](dic://squat), [squatty](dic://squatty), [stumpy](dic://stumpy)
 	- _adj._ [unshapely](dic://unshapely), [short](dic://short)
 	- **skinny**皮的;**boxy**四四方方的;**meaty**多肉的;**textured**有织纹的;**thick**厚的;**chubby**圆胖的，丰满的;**funky**畏缩的;**lumpy**粗笨的;**sleek**圆滑的;**clunky**沉重的;**creamy**含乳脂的;
 - chunking
@@ -1531,7 +1635,6 @@ churl, churlish
 - _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [hoarder](dic://hoarder)
 - **bastard**私生的;**tyrant**暴君;**wretched**可怜的;**coward**懦夫，懦弱的人;**heathen**异教徒;**pompous**浮夸的;**scorn**轻蔑;**beggar**乞丐;**doth**从事;
 - n. 吝啬鬼；乡下人；粗暴的人；（中世纪的）农民
-- 
 
 chic
 - [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [swank](dic://swank), [last word](dic://last word)
@@ -1539,6 +1642,11 @@ chic
 
 chimera
 - **mutant**突变体;**creature**动物，生物;**hybrid**混合物;**unicorn**独角兽;**cloning**克隆;**fusion**融合物;**demon**魔鬼;**phantom**幽灵;**beast**野兽;**humanoid**像人的;**monster**怪物;
+- Pagoni VR through its project chimera created the VR experience with Auden's class at Temple University /帕格尼VR公司与安东所在的坦普尔大学的班级合作，通过其项目嵌合体创造了虚拟现实体验。
+- A chimera of storm clouds and plastic rubbish and burning trees. /由暴雨云、塑胶垃圾，和燃烧的树木组成的一只吐火怪物。 
+- So maybe you create this sort of this chimera, right? This hybrid. /因此你创造的是种幻想，是种混合体，对吗？
+- Of course, at the moment, these buildings seem less like real residential spaces, and rather more like chimeras /当然，就目前而言，这些建筑看起来不太像真正的住宅空间，而更像是海市蜃楼。
+- He was a chimera in Mike's eyes. /在迈克的眼里，他是个妖怪！
 
 chip
 - n. 屑片, 薄片, 碎片, 芯片; 炸薯条; 缺口  
@@ -1564,6 +1672,22 @@ chip
 - chipboard
 - blue-chip
 - biochip
+
+chirp
+- n. 唧唧声；喳喳声；啁啾声
+- vi. 吱喳而鸣；尖声地说；咂嘴打招呼
+- vt. 吱喳而鸣；尖声地说；咂嘴向…打招呼
+- [peep](dic://peep), [twirp](dic://twirp), [cheep](dic://cheep), [chirrup](dic://chirrup)
+- [tweedle](dic://tweedle)
+- _n._ [sound](dic://sound)
+- _v._ [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose), [sing](dic://sing)
+- **crickets**蟋蟀;**squeak**告密;**whistling**吹笛;**beep**嘟嘟响;**whine**闹声;**audible**听得见的;**noise**响声;**vibrate**振动;**noises**噪音，响声，噪音;**howl**怒吼;**screeching**发动机啸声;
+- Guess that one won't be chirping anymore, will it? /这下哔不出来了吧？
+- The animals and their nocturnal chirps are beloved in their native Puerto Rico. /考齐蛙和它们的夜鸣在波多黎各本地非常受欢迎。
+- It was already understood that these birds chirp as they lead humans to beehives. /人们发现当向蜜鸟开始鸣叫时，它就会指引人们去寻找蜂巢。
+- One of the smoke alarms is chirping. /有个烟雾警报器在叫
+- The ground squirrel gayly chirps by his den. /地松鼠在窝边欢快地叫着。
+- The sounds of the neighborhood now, laughter, birds chirping, trees blowing /现在，随之取代的是欢笑声，鸟鸣声，树摇声。
 
 choice
 1. of superior grade
@@ -1973,6 +2097,10 @@ dally
 - [trifle](dic://trifle), [play](dic://play)
 - [act](dic://act), [move](dic://move), [behave](dic://behave), [do](dic://do), [talk](dic://talk), [speak](dic://speak), [consider](dic://consider)
 - _dally with_ 漫不经心地对待；调戏
+
+Damascus
+- 叙利亚古城，以出产丝织品和钢铁著称。
+- n. 大马士革
 
 dapple
 - [spot](dic://spot), [speckle](dic://speckle), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation)
@@ -2467,12 +2595,7 @@ fangle
 	- The new " fangled" and " dangled" metals that " bemuse" and " bespangle" . /新的装饰和悬挂的金属使人眼花缭乱。
 
 fathom
-- unfathomed
-- unfathomable
-- fathomless
-- fathometer
-- fathomable
-	- **inconceivable**不可思议的;**conceivable**可想到的, 可相信的, 可想像的;**incomprehensible**费解的;**unimaginable**不能想象的;**imaginable**可想像的;**understandable**能懂的;**unthinkable**不能考虑的, 不能接受的, 不可想像的, 难以置信的;**plausible**貌似真实的，貌似有理的;**justifiable**可证明为正当的;**inexplicable**无法说明的;**comprehend**理解, 领会;
+- pete-
 
 favor
 - well-favoured, well-favored
@@ -3167,20 +3290,7 @@ garland
 - garlandage
 
 garble
-- [falsify](dic://falsify), [distort](dic://distort), [warp](dic://warp)
-- _v._ [misrepresent](dic://misrepresent), [belie](dic://belie)
-- **unintelligible**不可能理解的;**nonsensical**无意义的;**incoherent**不连贯的;**incomprehensible**费解的;**babbling**胡说;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**nonsense**谬论;**jargon**行话，术语;**decipher**译解;**drivel**淌口水,说傻话;**decode**译码，解码;
-- ungrabled
-- garbling
-- garbled
-	- [confused](dic://confused), [disconnected](dic://disconnected), [disjointed](dic://disjointed), [disordered](dic://disordered), [illogical](dic://illogical), [scattered](dic://scattered), [unconnected](dic://unconnected)
-	- _adj._ [incoherent](dic://incoherent)
-	- _n._ [coherent](dic://coherent), [consistent](dic://consistent), [logical](dic://logical), [ordered](dic://ordered), [orderly](dic://orderly)
-	- **unintelligible**不可能理解的;**muddled**混乱的;**incoherent**不连贯的;**distorted**扭歪的,受到曲解的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**incomprehensible**费解的;**disjointed**脱离开的,不连贯的;**nonsensical**无意义的;**muffled**听不清的;**cryptic**秘密的,隐秘的;**confusing**莫名其妙的, 难以理解的;
-- _[garbled statement](dic://garbled%20statement)_ 错用语句; 翻译; 错用语句英语; 
-- _[garbled message](dic://garbled%20message)_ 错乱讯息; 翻译; 
-- _[circuit garbling](dic://circuit%20garbling)_ 线路干扰; 线路干扰英语; 
-- _[garble elucidate](dic://garble%20elucidate)_ 曲解
+- krei-
 
 garrotte
 - [garrote](dic://garrote), [garotte](dic://garotte), [iron collar](dic://iron collar)
@@ -3919,6 +4029,17 @@ ham
 - ham-handed
 - ham-fisted
 
+hammock (hummock)
+-  [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hummock](dic://hummock)s
+-  [sack](dic://sack)
+- _n._ [hill](dic://hill), [bed](dic://bed)
+- **tarp**油布;**gazebo**露台，眺望台;**porch**门廊;**canopy**天篷;**tent**帐篷;**veranda**阳台;**patio**天井;**webbing**带子，边带;**sling**投掷;**trampoline**蹦床;**backyard**后院;
+- The hammock swings. /吊床摇摆。
+- a hammock was slung between two trees /吊床悬挂在两棵树之间。
+- We anchored the hammock to the tree. /我们把吊床牢牢地系在树上。
+- I think Naked Guy's using a hammock. It's like a Play-Doh fat factory /丑裸男在睡吊床 好像猪肉工厂喔。
+- He's taking a nap in his hammock. /他正在吊床上睡小觉。
+
 hamper (tamper)
 1. top-hamper
 2. [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
@@ -4346,6 +4467,13 @@ helter-skelter
 - n. 旋转楼梯；杂乱无序；混乱
 - **frenetic**狂热的;**frenzied**狂乱的;**frantic**狂乱的，疯狂的;**chaotic**混乱的，无秩序的;**hurried**匆忙的;**orderly**整齐的;**fro**向后;**disarray**无秩序;**dizzying**使人眩晕的，使人头昏眼花的;**disjointed**脱离开的,不连贯的;**manic**狂热的;
 -  [disorganized](dic://disorganized), [disorganised](dic://disorganised), [hurried](dic://hurried)
+
+hermetic
+- hermetic（密封的）：埃及神话中的智慧之神托特  
+- 很多炼金术士、神秘学学者和新柏拉图学派学者认为，埃及神话中的智慧之神托特（Thoth，又译透特或图特）等同于希腊神话中的赫尔墨斯（Hermes）。托特是古埃及神话的智慧之神，相传是古埃及文字的发明者。人们将托特尊称为“三倍伟大的赫尔墨斯”，因为他是最伟大的哲学家、最伟大的祭司、最伟大的国王。三倍伟大还有另一种解释：那就是托特（或赫尔墨斯）的学问被分为三大分支：炼金术、占星术和巫术，它们被认为是宇宙智慧的三个方面。托特创立了赫尔墨斯神智学，据说完全密封玻璃瓶的方法就是他发明的。从赫尔墨斯的名字Hermes衍生出英语单词hermetic。  
+- hermetic：[hɜː'metɪk] adj.密封的，不透气的，炼金术的n.炼金术士  
+- hermetical：[hɝ'mɛtɪkəl] adj.不透气的，与外界隔绝的  
+- hermeticism：[hə:'metisizəm] n.赫尔墨斯神智学
 
 hero
 - hero（英雄）：神与凡人结合所生的半神  
@@ -5150,6 +5278,7 @@ jam
 	- Freezes and ice jams on rivers are possible /河流可能结冰并产生冰坝。
 - _paper jam_ （复印机的）卡纸
 - _jam jar_ 果酱罐
+- battering jam
 - logjam
 - jampacked
 - jammy
@@ -6337,6 +6466,17 @@ mine
 	- **destroyer**驱逐舰;**submarine**潜艇;**frigate**护卫舰;**battleship**战列舰;**warship**战船，军舰;**torpedo**鱼雷;**cruiser**巡洋舰;**warships**战舰，战船;**tanker**油轮;**sonar**声纳;**schooner**纵帆船;
 - etc.
 
+minion
+- n. 宠儿；宠臣；部下；奴才；受人崇拜者 
+- adj. [古语、罕用语]精致的；优雅的；娇美的；漂亮的 
+- n. 小黄人（卡通角色）
+- a servile or fawning dependant
+- _n._ [dependant](dic://dependant), [dependent](dic://dependent)
+- **mage**博学者;**monster**怪物;**demon**魔鬼;**spawn**卵;**monsters**怪兽;**villain**坏人，恶棍;**boss**老板;**rogue**流氓;**horde**游牧部落;**creature**动物，生物;**enemy**敌人，仇敌;
+- Harry and his godfather Sirius Black are in a tumultuous showdown with Voldemort's minions. /哈利和他的教父，小天狼星·布莱克正与伏地魔随从们战作一团。
+- And there's no way in hell I'm gonna play the role of your little minion. /而且，让我给你做跟班，门都没有。
+- Him and every single one of his minions. /他跟他所有的奴才。
+
 mildew
 - [mold](dic://mold)
 - _n._ [spoilage](dic://spoilage), [spoiling](dic://spoiling), [fungus](dic://fungus)
@@ -6747,6 +6887,43 @@ orgy
 - _n._ [indulgence](dic://indulgence), [indulging](dic://indulging), [pampering](dic://pampering), [humoring](dic://humoring), [rite](dic://rite), [religious rite](dic://religious rite), [revel](dic://revel)
 - **threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**gangbang**一群男子与一女子的淫乱活动;**extravaganza**娱乐表演;**fisting**拳指性交;**masturbation**手淫;**anal**肛门的;**frenzy**狂怒;**sex**性别;**voyeur**偷看下流场面的人;**porn**<口>色情文学，色情描写，色情刊物;**bestiality**兽性;
 - orgiastic
+
+ought
+- aux. 应该, 大概  n. 责任
+- 来自古英语 ahte,拥有的，所有的，来自 agan 的过去分词，拥有，所有，词源同 own,owe.后词义由拥有的引申为有义务去支付或偿还，并最终在语法上演变成虚拟情态动词。
+
+owe
+- vt. 亏欠, 负...债, 归功于, 怀有, 应给予, 感恩  vi. 欠钱
+- 来自古英语 agan,拥有，所有，来自 Proto-Germanic*aigan,占有，来自 PIE*aik,掌握，掌管，词源同 ought,own.其现义来自古英语习语 agan to geldanne,用拥有的去支付或偿还，即 own to
+- owing
+
+own
+- n. 自己的  
+- a. 自己的, 嫡亲的, 同胞的  
+- vt. 拥有, 支配, 自认, 承认, 顺从于  
+- vi. 承认, 供认
+- aboard/abroad、abode/adobe、note/tone、now/own...这样的现象叫anagram ['ænəgræm] n.易位构词，指重新安排一个单词、名字或短语中的字母顺序而变成另外一个单词、名字或短语。希腊前缀ana-与介词on同源，多表back,up，希腊词根gram表something written。哦，dormitory宿舍岂不是dirty room了吗？
+- own up to
+	- 承认，坦白：承认自己通常做了不好的事情；坦白某事。
+	- Japan needs to be more humble about owning up to its historical legacy. /日本需要更谦卑地承认自己的历史遗产。”
+	- When you evade responsibility, you refuse to own up to something you did. /当你逃避责任的时候，你拒绝承认自己做的事情。
+	- Did you always own up to them? /你是不是总欠别人恩情?
+	- I'm still waiting for someone to **own** **up** to the breakages /我还在等着有人承认把东西打碎了。
+	- The teacher is waiting for someone to **own** **up** to the graffiti. /老师在等着有人承认乱涂乱画的行为。
+	- People sometimes make mistakes, but the important thing is that they **own** **up** to what they've done. /人们有时会犯错，但重要的是承认自己所做的事情。
+- unowned
+- owner
+	- shipowner
+	- ownership
+	- ownerless
+	- owner-pessant
+	- owner-coccupied
+	- owner-driver
+	- nonowner
+	- mill-owner
+	- landowner
+	- co-owner
+- disown
 
 
 
@@ -7787,14 +7964,23 @@ rich
 - derichment
 - autorich
 
+riddle
+- krei-
+- waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
+
 rife
--  来自古英语 rife,大量的，普通的，盛行的，来自 Proto-Germanic*rif,可能来自 PIE*rei,撕，扯，砍，词源同 river,rift.通常用于形容坏事的盛行。
+- 来自古英语 rife,大量的，普通的，盛行的，来自 Proto-Germanic*rif,可能来自 PIE*rei,撕，扯，砍，词源同 river,rift.通常用于形容坏事的盛行。
+- - adj. 普遍的；流行的；盛传的
 - [overabundant](dic://overabundant), [plethoric](dic://plethoric)
 - [prevailing](dic://prevailing), [prevalent](dic://prevalent)
 - _adj._ [current](dic://current), [abundant](dic://abundant)
 - _n._ [noncurrent](dic://noncurrent), [scarce](dic://scarce)
 - **riddled**泛滥的;**rampant**猖獗的;**replete**充满的;**fraught**担心的，忧虑的;**awash**被浪冲打的;**plagued**折磨;**teeming**多产的，丰富的;**abound**充满;**brimming**盈满的;**beset**困扰;**prevalent**普遍的, 盛行的, 流行的;
 - The organization is rife with carpetbaggers /该组织充斥着投机分子。
+- Poor instruction by teachers who physically beat their pupils is rife . /老师教学质量普遍差，体罚学生更是家常便饭。
+- Or children might run rife at a party. /或者孩子们也可能在派对上到处乱跑。
+- But the war's aftermath was rife with insecurity. /但战后的局势充满了不安全因素。
+- They carry dengue fever, which is rife here at the moment. /它们携带着登革热病毒，目前登革热在这里很流行。
 
 rig
 - gear (including necessary machinery) for a particular enterprise
@@ -7852,6 +8038,38 @@ rite
 	- ritulize
 	- ritualistic
 	- ritualist
+
+rive
+- _vt._ 猛地劈开[撕开]
+- 劈开(木头或石头)
+- [rend](dic://rend), [rip](dic://rip), [pull](dic://pull)
+- [cleave](dic://cleave), [split](dic://split)
+- _v._ [tear](dic://tear), [rupture](dic://rupture), [snap](dic://snap), [bust](dic://bust)
+- **drive**开车;**gorge**峡，峡谷;**creek**小溪;
+- rive the heart with grief /忧心欲碎
+-  The crowd scatters terrified. A man rives in agony on the ground. Another lies lifeless on the snow. /人群惊恐四散。一名男子在地上痛苦挣扎着，另一个人一动不动地躺在雪地中。
+- They'd be riven to bits, ere ever they'd be different'. /他们会被撕成碎片，在他们变得不同之前。
+- He planted a rice paddy, an upland rive and some glutinous rice /他种植水稻、旱稻和糯米。
+
+rivet
+- 来自古法语 rivet,钉子，铆钉，来自 river,固定，系牢，钉紧，词源不详。可能进一步来自拉丁语 ripa,河岸，海滨，来自 PIE*rei,撕开，劈，砍，词源同 rift,riven,riparian.
+- n. 铆钉
+- vt. 铆接；固定；（把目光、注意力等）集中于
+- [stud](dic://stud)
+-  [concentrate](dic://concentrate), [focus](dic://focus), [center](dic://center), [centre](dic://centre), [pore](dic://pore)
+- _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation), [pin](dic://pin)
+- _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [absorb](dic://absorb)
+- **fastener**扣件;**fastening**扣处, 扣法;**fasten**扎牢;**shank**胫;**weld**焊接;**screw**旋，拧;**screws**潜水员病;**bolt**门闩;**buckle**扣住;**welded**焊接的;**bolts**螺栓;
+- _blind rivet_ 盲孔铆钉；空心铆钉
+- _rivet machine_ 制铆钉机；铆钉机；拉钉机
+- _rivet joint_ 铆钉接合
+- all eyes were riveted on him. /所有的目光都集中到他身上。
+- I was absolutely riveted by herstory. /她的故事完全把我吸引住了.
+- My attention was riveted by a slight movement in the bushes. /我的注意力被灌木丛中的轻微晃动吸引住了。
+- he was riveted by the newsreels shown on television. /他被电视上播放的新闻片吸引住了。
+- Right, so a riveting book, you're riveted to the book /所以一本引人入胜的书，你被这本书深深吸引。
+- Flat head rivets would reduce wind drag. /用平头铆钉可以减小风阻。
+- I was riveted. I loved it so much. /我被吸引住了。我非常喜欢它。
 
 rob
 - robe：古代抢劫所得最主要的掠夺品 
@@ -8285,10 +8503,37 @@ scumble
 - [application](dic://application), [coating](dic://coating), [covering](dic://covering)
 - a writer who scumbled the line that divides history and fiction.
 
+scurf (scuff)
+- scurfy
+- scurfskin
+- scruff
+	- [nape](dic://nape), [nucha](dic://nucha)
+	- _n._ [rear](dic://rear), [backside](dic://backside), [back end](dic://back end)
+	- **neck**脖子;**beard**胡须;**chin**下巴;**moustache**小胡子;**shave**剃;**tugging**牵引感;**beards**胡须;
+	- the scruff of the neck /颈背
+	- The barman took her by the scruff of the neck and threw her out. /酒吧男招待一把揪住她的颈背，将她扔了出去。
+	- he grabbed him by the scruff of his neck /他揪住他的后颈。
+	- " Gran'ma gave him to me, " she cried excitedly, holding the kitten out by the scruff. /" 妈妈给我的，" 她兴奋地叫道，一面抓住小猫的颈背把它提起来。
+	- But Hagrid groaned and pulled him back by the scruff of his neck. /海格哼了一声，揪住哈利的脖领，把他拽了回来。
+	- scruffy
+		- adj. 破旧的；肮脏的；不整齐的
+		- _adj._ [worn](dic://worn)
+		- _n._ [new](dic://new)
+		- **bearded**有芒的;**ragged**衣衫褴褛的;**handsome**英俊的;**grumpy**脾气暴躁的;**shabby**破旧的;**haired**有毛发的;**smelly**有臭味的，发臭的;**overgrown**长得很快;**crusty**易怒的;**middle-aged**中年的;**unassuming**谦逊的;[seedy](dic://seedy)
+		- a scruffy appearance /不整洁的外表
+		- a teenager in scruffy jeans and a baggy T-shirt. /一个穿着破旧牛仔裤和宽松T恤衫的少年。
+		- Despite her scruffy clothes, there was an air of sophistication about her. /尽管她衣衫褴褛，但神态老练世故。
+		- I wouldn't want to appear too scruffy. /我不想别人看上去一身邋遢。
+		- Yeah... everyone was wearing black! I felt really scruffy /就是嘛，每个人都穿着黑色的衣服，我真觉得自惭形秽啊。
+		- And they could use only a scruffy corner of it. /而他们只能使用这个海滩的一个邋遢的角落。
+	- scruffiness
+
 scrumpy
+- n. （英国西南部产的）苹果烈酒
 - strong cider
 - _n._ [cider](dic://cider), [cyder](dic://cyder)
 - **cider**苹果汁;**pint**品脱;**ale**麦芽酒;**pints**品脱;**lager**窖藏啤酒;**cask**木桶，桶;**pub**酒馆;**marmalade**果子酱;**beer**啤酒;**brandy**白兰地酒;**daft**愚蠢可笑的;
+- It's time to sample the pure apple taste of scrumpy, along with its 6.8 alcohol content. /是时候品尝 scrunpy 的纯苹果味，以及它的 6. 8 酒精含量。
 
 scrumptious
 -  scrump-,可能来自拟声词，模仿食物清脆的声音，拼写受 sumptuous 影响，-ous,形容词后缀。
@@ -8740,6 +8985,20 @@ sift
 - unsifted
 - sifting
 - sifter
+
+silhouette
+- silhouette（剪影）：厉行节俭的法国财务大臣西卢埃特  
+- 英语单词silhouette（剪影）来自18世纪法国财务大臣Etienne de Silhouette的名字。在他担任财务大臣时，法国因为“七年战争”而陷入财务危机。他上任后厉行节俭政策，禁止铺张奢华，因此遭到很多人尤其是有钱人的憎恶。为了嘲笑他，人们把他的名字当成了各种便宜货的代名词。当时在法国出现了一种便宜的肖像方法，即在纸上剪出人物的外部轮廓。与常规的肖像画相比，这种剪影方式非常便宜。人们便沿用一贯的恶搞，将其称呼为silhouette。没想到后来这个词竟然长盛不衰，成为了对“剪影”的正式称呼。  
+- silhouette：[,sɪlʊ'et] n.剪影，轮廓
+- _n._ [outline](dic://outline), [lineation](dic://lineation), [drawing](dic://drawing)
+- _v._ [project](dic://project), [represent](dic://represent), [interpret](dic://interpret)
+- **cutout**布或纸上剪下的图案花样;**cut-out**图案,花样;**neckline**领口，领圈;**sleek**圆滑的;**geometric**几何学的;**boxy**四四方方的;**shape**形状;**skirt**裙子;**sleeveless**无袖的;**bodice**女服的紧身上衣;**sculpted**雕刻;
+- _in silhouette_ 成剪影；呈现轮廓
+- saw the dark silhouette of the family waving farewell. /看见挥手道别的那一家人的黑色剪影
+- a figure silhouetted darkly against the trees. /树林衬映出的一个黑影。
+- the ridge formed a stark silhouette against the sky. /山脊在天空的衬托下显出光秃秃的轮廓。
+- The door of the comm center shot open, spilling yellow glare into the gloom and limning the silhouette of a man half collapsed against the frame. /突然，通讯中心的门打开了，一片耀眼的黄光泻入了室内的昏暗当中，勾勒出了一个虚弱地靠在门框边上的人影。
+- Rathbone cast a long silhouette. Who would be bold enough to don the deerstalker next? /拉斯伯恩的形象深入人心。接下来谁有胆量戴上猎人帽呢？
 
 simmer
  - 改写自 simperen,煨，炖，可能来自拟声词，模仿水轻微沸腾时发出的汩汩声。引申比喻义怒火郁积，酝酿等。
@@ -10059,10 +10318,27 @@ stout
 - stout-heartedly
 
 strap
+- vt. 用带捆绑；用皮条抽打；约束
+- n. 皮带；带；磨刀皮带；鞭打
+- vi. 精力旺盛地工作；受束缚
 - [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [trounce](dic://trounce)
-- **buckle**扣住;**buckles**带扣;**sling**投掷;**clasp**扣子;**holster**手枪皮套;**pouch**小袋;**belt**地带;**wrist**腕关节;**Velcro**维可牢;**zipper**拉链;**drawstring**拉带,细绳;
-- [tie](dic://tie), [bind](dic://bind), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [sharpen](dic://sharpen), [fasten](dic://fasten)
 - [leather strip](dic://leather strip), [hanger](dic://hanger), [band](dic://band), [whip](dic://whip)
+- [tie](dic://tie), [bind](dic://bind), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [sharpen](dic://sharpen), [fasten](dic://fasten)
+- _n._ [unstrap](dic://unstrap)
+- **buckle**扣住;**buckles**带扣;**sling**投掷;**clasp**扣子;**holster**手枪皮套;**pouch**小袋;**belt**地带;**wrist**腕关节;**Velcro**维可牢;**zipper**拉链;**drawstring**拉带,细绳;
+- strap on a wrist watch /带上手表
+- The straps hold the baby in securely./带子把婴儿安全地系在里面。
+- the strap of his shoulder bag. /他的挎包带。
+- the straps that galled their shoulders /那些磨痛了他们肩膀的带子。
+- Climbers can strap sharp nails on to help get a foothold on a slippery slope /登山运动员可以在靴子上捆上尖钉,这样有助于在很滑的陡坡上站住脚。
+- He bought a new watch because the old one's strap broke. /他买了块新表，因为原来的那块手表的带子断了。
+- Will that shoulder be wearing a spaghetti strap and Chanel No. 5? /是不是准备穿一件性感吊带衫配上香奈儿5号香水？
+- Yet we can strap her in here, see /但我们可以把她绑在这里。
+- And so they...but they have short straps, right /所以它们有很短的带子。
+- And hello, you can't strap me down. I didn't do anything /你不能把我绑住 我又没做什么。
+- He looped the **strap** over his shoulder /他把带子绕了一个圈挎在肩上。
+- Nancy gripped the **strap** of her beach bag. /南希抓住自己海滩休闲包的带子
+- She pulled the **strap** of her nightgown onto her shoulder. /她把睡衣的带子拉到她的肩上。
 - unstrap
 	- **straps**绳;**strap**用带捆绑;**fasten**扎牢;**strapped**用皮绳捆住的;**buckle**扣住;**buckles**带扣;**detach**分离;**sling**投掷;**backpack**远足用的背包;**tow**拖;**harness**马具, 挽具;
 	- Would Vivian unstrap her synthetic leg alone, or would he help her /是维维安自己动手摘下义肢呢，抑或是他从旁协助？
@@ -10070,18 +10346,33 @@ strap
 - understrapper
 - strapwork
 - strapping
+	- adj. 魁梧的，高大健壮的 
+	- n. 橡皮膏；皮带，捆扎带
+	- _adj._ [robust](dic://robust)
+	- _n._ [frail](dic://frail)
 	- **buckles**带扣;**hauling**搬运;**brace**箍子;**carrying**运送的;**chaps**皮套裤;**punching**穿孔;**buckle**扣住;**padded**有装填垫料的;**hooking**挂钩;**donning**插筒管;**lifting**举起的，起重的;
+	- He’s a strapping lad—already bigger than his father /他是一个魁梧的小伙子——已经比他父亲高了。
+	- Bandages spun up Ron's leg, strapping it tightly to a splint. /绷带跳到罗恩褪上，把腿紧紧包扎好，固定在薄木条上。
+	- You put away the drink cart and you're strapping in /空姐会收好小餐车 大家扣好安全带。
+	- Oh, when I was 22, I was a strapping blonde oak of a man /当我 22 岁那会儿，我还是个健壮的金发美少年。
+	- The cute little cherubic cloud baby we know as Cupid used to be a strapping young hunk named Eros /我们所知道的那个可爱的头顶云朵的小天使，被称为丘比特，曾经是一个英俊的小伙子，名叫厄洛斯。
+	- Don't drive without putting on your seatbelt or strapping it on /切勿在未系好安全带或系好安全带的情况下开车。
 - strapper
 	- **jockey**赛马的骑师;**boot**使穿靴;**trainer**训练员;**colt**小马;**gelding**去势;**filly**小雌马，小母马;**horse**马;**stallion**种马;**rider**附文;**saddle**鞍，鞍状物;**paddock**围场;
 - strapped
 - strappado
 	- **bondage**奴役身份;**torture**折磨;**rope**绳，绳索;**punishment**处罚, 受罚;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**servitude**奴隶状态;**chained**装链的;**clamps**夹子;
 	- [torture](dic://torture), [torturing](dic://torturing)
+	- The wheel, the gibbet, the strappado, kept good guard around the place of refuge, and lay in watch incessantly for their prey, like sharks around a vessel /轮子、绞刑架、绞刑架在避难所周围保持着良好的守卫，并不断地守望着它们的猎物，就像鲨鱼在船只周围一样。
 - strapless
 	- **sleeveless**无袖的;**bodice**女服的紧身上衣;**gown**长袍，长外衣;**chiffon**薄绸;**halter**绞索;**neckline**领口，领圈;**dress**给…穿衣;**tulle**薄纱;**dresses**连衣裙;**V-neck**V型领;**bra**胸罩;
 	- _[strapless](dic://strapless)_  adj. 无带的；无背带的；无肩带的
 	- _[strapless bra](dic://strapless%20bra)_  无带胸罩
 	- Wearing strapless is kind of like playing Russian roulette. /穿无肩带有点像玩俄罗斯轮盘赌。
+	- She was wearing a low strapless dress that hugged her curves cleverly /她身穿一件紧贴着她的身体的曲线的低胸露肩连衣裙。
+	- The key to looking sexy in a strapless frock? A flawless fit. /穿无肩带连衣裙看上去性感的关键？那就是非常合身。
+	- This top is Kate, it's very cute, strapless, and the leather jacket is also Kate /件上衣是凯特的，很可爱，露肩的，皮夹克也是凯特的。
+	- I can't decide between my backless or my strapless. /我不知道是穿那件裸背裙还是那件裸肩裙。
 - straphang, straphanger
 	- **subway**地铁;**MTA**报文传送代理;**commuter**通勤者，经常乘公共车辆往返者;**BART**从男爵;**Amtrak**美国铁路公司;**motorist**驾车旅行的人，开汽车的人;**NYPD**纽约市警察局;**streetcar**路面电车;**cab**出租汽车;**passenger**乘客, 旅客;**NYC**纽约市;
 - straoo-oil
@@ -10283,7 +10574,7 @@ swank
 - swankpot
 	- _n._ 爱炫耀的人; 喜欢摆架子的人; 虚张声势的人
 
-swart (tenebrous)
+swart (tenebrous, negro, nocturne)
 - 来自古英语 sweart,黑的，暗的，来自 Proto-Germanic*swarta,黑的，来自 PIE*swordo,黑的，脏的，词源同 sordid,肮脏的。引申词义有毒的，邪恶的等。
 -  [dark-skinned](dic://dark-skinned), [dusky](dic://dusky), [swarthy](dic://swarthy)
 - _adj._ [brunet](dic://brunet), [brunette](dic://brunette)
@@ -10294,6 +10585,15 @@ swart (tenebrous)
 	- _adj._ [brunet](dic://brunet), [brunette](dic://brunette)
 	- _n._ [blond](dic://blond), [blonde](dic://blonde), [light-haired](dic://light-haired)
 	- **blond**金发的;**bearded**有芒的;**handsome**英俊的;**tanned**被晒成棕褐色的;**skinned**剥了皮的;**haired**有毛发的;**chubby**圆胖的，丰满的;**blonde**金发碧眼的;**middle-aged**中年的;**good-looking**好看的;**Caucasian**高加索人;
+	- In the summer, their swarthy bodies nearly swelled because of the swelter. /在夏天，因为闷热，他们黝黑的身体几乎都要膨胀了。
+	- He was of medium height, swarthy of complexion, and possibly about fifty years of age /他中等身材， 皮肤黝黑，大概五十岁左右。
+	- He was tall, slim, rather swarthy, with large saucy eyes /他身材高大，身材苗条，皮肤黝黑，有一双俏皮的大眼睛。
+	- All right? Two swarthy outsiders with exotic names. /好吧 两个有着怪异名字的深皮肤外人。
+	- Behind the swarthy Mountain the sun had gone down in waveless gold. /在黝黑的山后， 太阳已经落下了无波的金色。
+	- He stood for a long time lost in thought, and at last a curdling smile lit up his **swarthy** face. /他站在那里沉思了许久，最后一丝狞笑照亮了他黝黑的脸庞。
+	- A swarthy boy opened a book and propped it nimbly under the breastwork of his satchel. /一个面色黧黑的少年打开书本，麻利地将它支在书包这座胸墙底下。
+	- Two swarthy outsiders with exotic names. /两个有着怪异名字的深皮肤外人。
+	- And he has everything, charisma, swarthy good looks, money, status and enemies. /他拥有了世上的一切，他魅力十足、 黝黑俊俏、财富、地位，当然，还有敌人。
 	- swarthiness
 	- swarthily
 
@@ -10514,6 +10814,23 @@ tater
 - _[tater tots](dic://tater%20tots)_  炸薯球; 油炸土豆丸子; 
 - _[tater tot](dic://tater%20tot)_  一种以土豆为原材料的油炸食品
 
+taunt
+- 来自法语 tant pour tant,以眼还眼，以牙还牙，原倍奉还，来自 tant,等同，同样，词源同tantamount,pour,为了，词源同 for.引申词义嘲笑，奚落。
+- n. 嘲弄；讥讽
+- vt. 逗弄；奚落
+- adj. 很高的
+-  [twit](dic://twit), [taunting](dic://taunting)s
+-  [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [twit](dic://twit), [rally](dic://rally), [ride](dic://ride)
+- _n._ [aggravation](dic://aggravation), [irritation](dic://irritation), [provocation](dic://provocation)
+- _v._ [mock](dic://mock), [bemock](dic://bemock)
+- **harass**使烦恼;**tease**取笑;**mocking**嘲弄的;**humiliate**蒙羞;**annoy**骚扰;**teasing**戏弄;**ridicule**嘲笑;**torment**折磨，使痛苦;**retaliate**报复, 反击;**intimidate**恐吓, 威胁;**insult**侮辱;
+- taunt sb. with cowardice /嘲笑某人懦怯
+- drilling taunt about politics /辛辣的政治抨击
+- They taunted him with being poor. /他们讥笑他穷。
+- for five years she was stalked by a man who would taunt and threaten her /五年来她一直受到一个男子的骚扰，该男子经常辱骂并威胁她。
+- I couldn't let you rise to your father's last taunt. /我不能让你听到你父亲临终前的讽刺。
+- Taunting the psychotic spouse, I realized, was not a wise move /我感觉，跟神经质的配偶争执一定是不明智的。
+
 tawdry
 - [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [trashy](dic://trashy)
 - [cheapjack](dic://cheapjack), [shoddy](dic://shoddy)
@@ -10666,15 +10983,64 @@ tiara (crown, coronet)
 - _n._ [jewelled headdress](dic://jewelled headdress)
 - **brooch**胸针，领针;**crown**王冠;**jewels**珠宝;**necklace**项链;**headband**头饰带;**wig**假发;**princess**王妃;**gown**长袍，长外衣;**coronation**加冕礼;**sash**肩带;**earrings**耳环;
 
+tithe
+- tithe [taɪð] n.什一税；小部分，vi.缴什一税，vt.课什一税。没错，这个单词和tenth有关系，它指的是中世纪每个基督徒必须向教会缴纳其收成的十分之一（one tenth）的规定，以支持教区教堂和牧师的需求。注意到tithe的发音与tenth是有区别的，可以比较tooth牙齿和teethe [tiːð] vi.长牙齿；出乳牙。
+- n. 什一税, 十分之一, 小部分  
+- vt. 课什一税  vi. 缴什一税
+- 十一奉献
+	- 什一奉献（或什一税、什一捐），常用于指犹太教和基督宗教的宗教奉献，欧洲封建社会时代被用来指教会向成年教徒征收的宗教税。
+	- 源于《圣经旧约》时代，其希伯来文原意是「十分之一」。在古代近东的国家，其中有迦南、腓尼基、阿拉伯等国都有什一奉献的习俗以维持崇拜及国家支出。
+- _n._ [levy](dic://levy), [offering](dic://offering)
+- _v._ [charge](dic://charge), [bill](dic://bill), [levy](dic://levy), [impose](dic://impose), [pay](dic://pay)
+- **church**教堂;**congregation**人群;**parish**教区;**commandment**戒条;**Deuteronomy**申命记;**pay**支付，付;**taxes**赋税;
+- I haven't heard a tithe of it /我一点也没听到过。
+- he hadn't said a tithe of the prayers he knew. /他还未念完自己所知祷文的1/10。
+- Tell them I'll ignore their operations as long as they give me a ducal tithe. /告诉他们，只要他们给我公爵的什一税，我就会无视他们的行动。
+- Whoever would redeem any of their tithe must add a fifth of the value to it /人若要赎这十分之一的什么物，就要加上五分之一。
+
 tilt
-- 1 - 来自古英语 tealt,倾斜的，不稳的，来自 Proto-Germanic*taltaz,倾斜，摇晃。引申词义倾斜，倾侧，可能进一步引申词义马上打斗，骑马比武，并抽象化为打击，抨击。
-- [joust](dic://joust)
-- [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation), [argument](dic://argument), [arguing](dic://arguing)
-- [list](dic://list), [inclination](dic://inclination), [lean](dic://lean), [leaning](dic://leaning)
-- [rock](dic://rock), [careen](dic://careen), [sway](dic://sway)
-- [lean](dic://lean), [tip](dic://tip), [slant](dic://slant), [angle](dic://angle)
-- [cant](dic://cant), [cant over](dic://cant over), [slant](dic://slant), [pitch](dic://pitch)
-- [careen](dic://careen), [wobble](dic://wobble), [shift](dic://shift)
+- 来自古英语 tealt,倾斜的，不稳的，来自 Proto-Germanic*taltaz,倾斜，摇晃。引申词义倾斜，倾侧，可能进一步引申词义马上打斗，骑马比武，并抽象化为打击，抨击。
+- vi. 倾斜；翘起；以言词或文字抨击
+- vt. 使倾斜；使翘起
+- n. 倾斜
+- a combat between two mounted knights tilting against each other with blunted lances
+	- [joust](dic://joust)
+- a contentious speech act; a dispute where there is strong disagreement
+	- [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation), [argument](dic://argument), [arguing](dic://arguing)
+- the property possessed by a line or surface that departs from the vertical
+	- [list](dic://list), [inclination](dic://inclination), [lean](dic://lean), [leaning](dic://leaning)
+- pitching dangerously to one side
+	- [rock](dic://rock), [careen](dic://careen), [sway](dic://sway)
+- to incline or bend from a vertical position
+	- [lean](dic://lean), [tip](dic://tip), [slant](dic://slant), [angle](dic://angle)
+- heel over
+	- [cant](dic://cant), [cant over](dic://cant over), [slant](dic://slant), [pitch](dic://pitch)
+- move sideways or in an unsteady way
+	- [careen](dic://careen), [wobble](dic://wobble), [shift](dic://shift)
+- a tilt at the European Cup /向欧洲杯的冲刺。
+- tilting at injustices /与不公正作斗争 
+- the tilt of her head. /她侧着的脑袋。
+- tilt a soup bowl; tilt a chair backward. /把汤碗倾斜；使椅子后仰
+- he tilts at his prey. /他刺向猎物。
+- the lonely hero tilting at the system. /抨击体制的孤身勇士。
+- a slight tilt; a slight surplus /小斜坡；稍有余额
+- adjusting the tilt of a writing table /调整书桌的倾斜面
+- the court's tilt toward conservative rulings /法庭偏向于保守派的裁定
+- tilted her hat at a rakish angle; /她把帽子放荡地斜戴着；
+- You tilt your head forward when you bow. /鞠躬时，你的头倾向前。
+- He answered with a **tilt** of his head /他歪着头回答。
+- uptilt (uptick)
+	- v. 向上倾斜
+- tip-tilted
+- tiltometer
+- tilting
+- tilted
+	- [atilt](dic://atilt), [canted](dic://canted), [leaning](dic://leaning), [tipped](dic://tipped)
+	- _adj._ [inclined](dic://inclined)
+	- _n._ [horizontal](dic://horizontal), [vertical](dic://vertical), [perpendicular](dic://perpendicular)
+	- **slanted**有倾向的;**leaned**倾身;**rotated**旋转的;**angled**成角的;**leaning**倾向，爱好;**sideways**向侧面地;**bent**爱好，嗜好;**swung**摇摆;**bowed**有弓的;**horizontally**水平地;**slid**滑;
+	- Gasoline drained slowly from the tilted can /煤油慢慢从倾斜的油罐里流出来
+- atilt
 
 time
 - timely
@@ -10874,7 +11240,22 @@ twaddle (hogwash)
 - **drivel**淌口水,说傻话;**nonsense**谬论;**inane**愚蠢的;**rubbish**垃圾，废物;**nonsensical**无意义的;**bullshit**胡说;**crap**废话;**idiocy**白痴;**hyperbole**夸张的语句;**idiotic**白痴的;**pretentious**自命不凡的;
 - _[ignorant twaddle](dic://ignorant%20twaddle)_ 无知妄说
 - _[twaddle tendency](dic://twaddle%20tendency)_ 讲废话的倾向
-- taddler
+- toddler
+- waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
+
+twit (tweet)
+- _n._ 蠢人；傻子；笨蛋 
+- 嘲笑，揶揄，挖苦，非难
+- _vt._ 非难；愚弄；嘲笑；责难
+- [twerp](dic://twerp), [twirp](dic://twirp)
+- [taunt](dic://taunt), [taunting](dic://taunting)
+-  [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [taunt](dic://taunt), [rally](dic://rally), [ride](dic://ride)
+- _n._ [simpleton](dic://simpleton), [simple](dic://simple), [aggravation](dic://aggravation), [irritation](dic://irritation), [provocation](dic://provocation)
+- _v._ [mock](dic://mock), [bemock](dic://bemock)
+- **moron**痴愚者;**idiot**白痴;**drivel**淌口水,说傻话;**idiots**白痴，极蠢的人;**whiny**烦躁的;**idiotic**白痴的;**twat**笨蛋;**hypocrite**伪君子;**stupid**愚蠢的;**pompous**浮夸的;**idiocy**白痴;
+- Stop messing around, you silly twit! /别胡闹了, 你这个蠢货!
+- It twitted that it is a worthless decision from an illegal government /嘲笑这是非法政府采取的毫无价值的决定。
+- Irina Rodnina twitted a photo-collage showing an unidentified hand offering the US President a banana /伊琳娜·罗德尼娜在Twitter上发布一个拼贴图片，上面身份不明者的一只手给美国总统递了一根香蕉。
 
 
 
@@ -10891,12 +11272,10 @@ urge
 -  来自 PIE*wreg,推，驱动，词源同 wreak,wrack.
 - urger
 - urgent
-	- 
 - urgency
 
 utter
 - utter - 英语中有两个utter。一个是用以加强语势的形容词utter（完全的，彻头彻尾的），另一个是动词utter（说出）。乍一看，除了字形相同之外，在意义上两者几乎没有什么共同点。但它们都源于古英语副词ūt 'out'（外面）。形容词utter在古英语原作ūtera，是ūt的比较级，原义为outer，towards the outer limits（外面的，向外伸至极限），例如在1526年廷德尔（William Tyndale, 1492?-1536）的《圣经》英译本中utter darkness指“外面的黑暗”。以后该形容词的词义从“向外伸至极限”逐渐引申为“十足的”或“彻头彻尾的”，所以在19世纪英国小说家司各特（Sir Walter Scott, 1771-1832）的作品The Talisman (1925)中utter darkness就不再指“外面的黑暗”，而是指“全然的黑暗”了。
-- 
 
 
 
@@ -10922,14 +11301,13 @@ vanilla
 - _vanilla ice cream_ 香草冰淇淋
 - _vanilla bean_ 香草豆荚
 - _vanilla extract_ 香草精，香草萃
-- 
 
 _plain vanilla_ 单纯功能
 
 vapid
-- 1 - 来自 vapor,蒸气，蒸发，用于指酒的酒精蒸发掉的，乏味的。
+- 来自 vapor,蒸气，蒸发，用于指酒的酒精蒸发掉的，乏味的。
 - a. 乏味的, 走了气味的, 无生气的, 无趣味的
--  [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [insipid](dic://insipid), [savorless](dic://savorless), [savourless](dic://savourless)
+- [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [insipid](dic://insipid), [savorless](dic://savorless), [savourless](dic://savourless)
 - _adj._ [tasteless](dic://tasteless), [unstimulating](dic://unstimulating), [unexciting](dic://unexciting)
 - _n._ [tasty](dic://tasty), [stimulating](dic://stimulating)
 - _[piquant vapid](dic://piquant%20vapid)_ 开胃的

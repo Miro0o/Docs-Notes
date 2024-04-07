@@ -288,16 +288,23 @@
 ### ⭐ + \*reg- + = move in a straight line
 1. **orex-** = appetite，表示“食欲”。源自希腊语 orexis 表示 "appetite, desire," oregein "to desire, long for."
 	1. orexis
-		1. _[orexis](dic://orexis)_  n. 欲望；食欲
-		2. it is my orexis, without any aim /那只是我心底的欲望，没有任何目的
-	2. anorexia
-		1. 1. a prolonged disorder of eating due to loss of appetite
-		3. _n._ [eating disorder](dic://eating disorder)
-		4. **dieting**节食;**obesity**肥大，肥胖;**alcoholism**酒精中毒;**depression**沮丧;**schizophrenia**精神分裂症;**hypothyroidism**甲状腺机能减退;**addiction**瘾，吸毒成瘾;**malnutrition**营养失调，营养不良;**disorder**混乱;**illness**疾病;**psychosis**精神病;
-		5. _anorexia nervosa_ 神经性食欲缺乏
-		6. Anorexia is a common eating disorder /厌食是一种常见的饮食紊乱症。
-		7. the media dubbed anorexia ‘the slimming disease’. /媒体给厌食症起了一个别名： “减肥病”。
-		8. Anorexia can creep up on young girls when they least expect it /年轻女子可能在最没有防备的情況下患上厌食症。
+		1. orex-食欲 + -is
+		2. _[orexis](dic://orexis)_  n. 欲望；食欲
+		3. it is my orexis, without any aim /那只是我心底的欲望，没有任何目的
+		4. The moonshining night is a real but grim world which contained the female tragical fate, the sentiment story mixed orexis and the pale windy life form. /月光下是一个真实而又冷酷的世界：充满悲剧的女性命运、交织着欲望的感情故事、苍白虚无的人生形式。
+		5. Do you feel hungry frequently? Is **orexis** bloom a good thing? .最近时常感觉饿吗？食欲旺盛是好事吗？
+	2. anorexia (bulimia)
+		1. an-无，没有 + orex-食欲 + -ia病 → 厌食的。
+		2. n. 食欲缺乏, 厌食
+		3. a prolonged disorder of eating due to loss of appetite
+		4. _n._ [eating disorder](dic://eating disorder)
+		5. **dieting**节食;**obesity**肥大，肥胖;**alcoholism**酒精中毒;**depression**沮丧;**schizophrenia**精神分裂症;**hypothyroidism**甲状腺机能减退;**addiction**瘾，吸毒成瘾;**malnutrition**营养失调，营养不良;**disorder**混乱;**illness**疾病;**psychosis**精神病;
+		6. _anorexia nervosa_ 神经性食欲缺乏
+		7. Anorexia is a common eating disorder /厌食是一种常见的饮食紊乱症。
+		8. the media dubbed anorexia ‘the slimming disease’. /媒体给厌食症起了一个别名： “减肥病”。
+		9. Anorexia can creep up on young girls when they least expect it /年轻女子可能在最没有防备的情況下患上厌食症。
+		10. The following adverse reactions may occasionally occur: dryness of the mouth, thirst, drowsiness, fatigue, dizziness, heartburn, anorexia, abdominal discomfort and exanthema. /偶尔可能出现下列副作用：口干、口渴、发困、乏力、头晕、心部烧灼感、食欲不振、腹部不适、药疹。
+		11. People with bulimia are usually normal weight or overweight, whereas people with anorexia are underweight. /暴食症患者通常体重正常或超重，但厌食症患者是体重过轻者。
 2. **reck-** = heed,留意
 	1. reck (rack)
 		1. v. 顾虑；介意；和……相干；有关系

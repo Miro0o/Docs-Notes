@@ -66,7 +66,7 @@
 	7. 
 
 
-### + \*mak- +
+### ⭐ + \*mak- +
 1. **maci-** = lean, 表示“瘦”。源自拉丁语 maciare "to make thin."
 	1. emaciate
 		1. **starve**饿死;**feeble**微弱的，无力的;**sickly**有病的，苍白的;**countenance**面容，表情;**starved**饥饿的;**wretched**可怜的;**destitute**赤贫的, 贫苦的;**frail**虚弱的;**flesh**肉体;**fleshy**肉的;**nourish**滋养;
@@ -282,7 +282,7 @@
 	6. morose, moroseness
 	7. morosis
 2. mood
-#### + \*me- (2) + = in the middle
+#### ⭐ + \*me- (2) + = in the middle
 1. **meta-** 表示“超过，改变，在...之后”。源自希腊语 meta "between, with, beside, after."
 	1. metabiology
 	2. metacarpal
@@ -536,10 +536,59 @@
 			2. irremediable
 3. **medit-** = to ponder
 	1. meditate
-		1. premeditate
-		2. meditator
-		3. meditative
-		4. meditation
+		1. 来自拉丁语 meditari,沉思，思考，考虑，来自 PIE*med,测量，考虑，词源同 measure,medical.引申词义沉思，冥想。也有可能来自拉丁语 medius,中间的，词源同 middle.即思考天人之间的联系。比较 mediator.
+		2. vt. 想, 考虑, 计划  vi. 沉思, 反省
+		3.  [chew over](dic://chew over), [think over](dic://think over), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [ruminate](dic://ruminate), [speculate](dic://speculate)
+		4. [study](dic://study), [contemplate](dic://contemplate)
+		5. _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
+			1. [think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。  
+			2. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。  
+			3. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。  
+			4. [muse](dic://muse) 通常指漫无目的地猜想。  
+			5. [reason](dic://reason) 指根据资料、证据或事实进行推断，作出结论或判断的逻辑思维活动。  
+			6. [reflect](dic://reflect) 指回想或回顾，侧重认真而冷静地反复地思考某个问题，尤指对已发生事情的思索。   
+			7. [speculate](dic://speculate) 指推论过程，隐含在证据不足的基础上作出推测或设想。
+		6. **stillness**静止,不动;**contemplation**沉思;**relax**放松，休息;**pray**祈祷;**ponder**仔细考虑;**yoga**瑜珈;**contemplative**沉思的;**prayer**恳求;**mindful**留心的;**solitude**孤独;
+		7. meditate a change in the office arrangements /计划改变一下办事处的安排
+		8. he went off to meditate on the new idea. /他走开去深思这新的想法。
+		9. they had suffered severely, and they began to meditate retreat. /他们损失惨重，所以开始考虑撤退。
+		10. Meditate the white light, transport a great quality of white light energy from kronen-charka /观想白色的光,慢慢地从顶轮输进大量的白色光能,
+		11. People assume they can never meditate because they can't stop thinking. /人们认为他们永远不会冥想，因为他们无法停止思考。
+		12. premeditate
+			1. adj. 预谋的；预先考虑的；经预先计划的 
+			2. v. 预谋（premeditate 的过去式和过去分词）；预先考虑
+			3. _adj._ [planned](dic://planned), [plotted](dic://plotted), [calculated](dic://calculated), [deliberate](dic://deliberate), [measured](dic://measured), 
+			4. _n._ [unpremeditated](dic://unpremeditated)
+			5. **deliberate**深思熟虑的;**purposeful**有目的的;**intentional**存心的;**provocation**激怒;**murder**谋杀，凶杀;**malice**怨恨;**heinous**可憎的;**methodical**有条理的, 井然的;**motive**动机，目的;**reckless**鲁莽的，不顾后果的;**murderous**蓄意谋杀的;
+			6. _[premeditated design](dic://premeditated%20design)_ 翻译
+			7. _[premeditated homicide](dic://premeditated%20homicide)_ 谋杀
+			8. _[premeditated intent](dic://premeditated%20intent)_ 预谋
+			9. _[The murder wasn't exactly premeditated](dic://The%20murder%20wasn%27t%20exactly%20premeditated)_ 那次谋杀并不是真正预谋的
+			10. She carefully premeditated each step of her plan /她仔细地考虑她的每步计划。
+			11. She called that " a cruel, premeditated political stunt." /她称这是“残忍的、有预谋的政治噱头”
+			12. Most of these homicides were premeditated. /这些谋杀大都是有预谋的。
+			13. Which means her crime is premeditated. /这表示她是有预谋犯罪。
+			14. Premeditated murder is the most serious charge tried in our criminal courts /漫长复杂的审理程序已经结束 这是一宗一级谋杀案。
+			15. Arnold Pistorious said the South African prosecutors own forensic evidence refuted the possibility of a premeditated murder. /阿诺德·皮斯托利斯说，南非检察官有法医证据可排除预谋杀人的可能。
+			16. unpremediated
+			17. premeditation
+				1. n. 预谋；预先设想
+				2.  [forethought](dic://forethought)
+				3. _n._ [planning](dic://planning), [preparation](dic://preparation), [provision](dic://provision), [mens rea](dic://mens rea), [malice aforethought](dic://malice aforethought)
+				4. **malice**怨恨;**provocation**激怒;**murder**谋杀，凶杀;**deliberate**深思熟虑的;**circumstantial**详细的;**deliberation**审议;**homicide**杀人;**motive**动机，目的;**intent**热切的;**self-defense**正当防卫;**manslaughter**过失杀人;
+				5. If I can prove there's no premeditation, I can plead voluntary manslaughter /如果我能证明那不是预谋的，我就能向法庭承认误杀。
+				6. Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her intreaty that she would not give in to it /我跟你说句话，”说过这话，她便把吉蒂拉了出去。
+				7. A judge appeared in the prison. " I occasioned death by premeditation, " said Julien to him. " I bought the pistols and had them loaded at so-and-so's, a gunsmith. Article 1342 of the penal code is clear. I deserve death, and I expect it" . /一位法官出现在监狱里。 “我故意杀人，”于连对他说。 “我买了手枪，让他们在某某枪匠那里上膛。刑法第 1342 条很明确。我应该死，我预料到了”。
+			19. premeditated
+		13. meditator
+		14. meditative
+			1. _adj._ [thoughtful](dic://thoughtful)
+			2. _n._ [thoughtless](dic://thoughtless)
+			3. **contemplative**沉思的;**stillness**静止,不动;**contemplation**沉思;**introspective**好反省的;**zen**禅;**serene**平静的;**hypnotic**催眠的，催眠术的;**mystical**神秘的;**tranquil**安静的，平静的;**soothing**使人宽心的;**calming**平静的;
+			4. It is so calming and meditative /它让人内心平静，沉思。
+			5. Once you've gone through the whole body, focus on clearing your mind into a meditative state. /全身放松后，精力集中在清除杂念上，进入冥想状态。
+			6. She found him in a **meditative** mood /她见他正在沉思。
+		15. meditation
 4. **mod-** = mode, manner
 	1. mode
 	2. 1. modal
@@ -591,7 +640,7 @@
 3. empty
 
 
-### + \*medhyo- + = middle
+### ⭐ + \*medhyo- + = middle
 1. **med-, mid-** = middle, 表示“中间”。源自拉丁语 medius "middle, half."
 	1. midstream, midsummer, midterm, midtown, midway, midweek, midwinter, midyear, Midwest, midcourt,  midnight, midpoint, midrib, midsemester, midseciton, midmorning, midland, midleg, midline, middorsal, midfield, midbrain, midcult, midday
 	2. midwife
@@ -662,7 +711,16 @@
 		9. intermedium
 	18. midi
 	19. melee
-		1. **stun**打昏;**mage**博学者;**combat**与…战斗;**DPS**数据表示系统;**brawl**争吵;**weapon**武器，兵器;**mana**神力，超自然力量;**combos**过滤器组合;**cooldown**变凉, 平静下来;**armor**装甲;**skirmish**小冲突，小规模战斗;
+		1. n. 混战，冲突；混乱的人群或事物
+		2. [scrimmage](dic://scrimmage), [battle royal](dic://battle royal)
+		3. _n._ [disturbance](dic://disturbance)
+		4. **stun**打昏;**mage**博学者;**combat**与…战斗;**DPS**数据表示系统;**brawl**争吵;**weapon**武器，兵器;**mana**神力，超自然力量;**combos**过滤器组合;**cooldown**变凉, 平静下来;**armor**装甲;**skirmish**小冲突，小规模战斗;
+		5. police plunging into the melee /警察插手互殴；
+		6. the melee of people that were always thronging the streets. /总是拥塞街道的混乱人群。
+		7. Seb waded into the melee and started to beat off the boys /塞勃投入搏斗并打退了那些男孩。
+		8. At least 140 police officers injured in the melee. /至少140名警察在混战中受伤。
+		9. Below, beneath the stone-and-timber battlements of a small castle, a melee was in progress. /下面，在一座小城堡的木石城垛下，一场团队比武正在进行。
+		10. They counter **melee** heroes and fragile ranged ones /他们克制团战英雄和其他脆弱的远程英雄。
 	20. mezzanine
 		1. **staircase**楼梯;**loft**顶楼;**stairway**阶梯，楼梯;**floor**地板，地面;**terrace**梯田;**balcony**阳台;**upstairs**在楼上，向楼上;**stairwell**楼梯井;**walkway**通道，走道;**elevator**电梯;**stair**楼梯，阶梯;
 		2. _n._ [balcony](dic://balcony), [floor](dic://floor), [level](dic://level), [storey](dic://storey), [story](dic://story)
@@ -1064,7 +1122,7 @@
 4. much
 
 
-### + \*mei- +
+### ⭐ + \*mei- +
 #### + \*mei- (1) + = to change, go, move
 1. **immuno-** = "im-" + "muni-", 「latin」munus, "duty, work, gift",
 	1. immunobiology
@@ -1961,7 +2019,7 @@
 		4. melanocortin
 	3. Melanesian
 2. mullet
-#### + \*mel- (4)+ = strong, great, numerous
+#### ⭐ + \*mel- (4)+ = strong, great, numerous
 1. **melior-** = better, 表示“更好”，这里 -or 表示比较级。源自拉丁语 melior "better."
 	1. meliority
 	2. meliorate
@@ -2131,8 +2189,8 @@
 2. mildew
 
 
-### ⭐ + \*men- +
-#### men (1), think, remember, have one's mind aroused
+### + \*men- +
+#### ⭐ men (1), think, remember, have one's mind aroused
 1. **-mancy** = divination, 表示“占卜”。源自希腊语 mantis "seer."
 	1. etc..
 2. **-mania** = craving, insanity, 表示“痴迷；疯癫”。源自希腊语 mania "madness."
@@ -2538,7 +2596,7 @@
 		3.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 
 
-### + \*(s)mer- +
+### ⭐ + \*(s)mer- +
 1. **mer-,mero-,-mere** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."
 	1. centromere
 	2. metamere
@@ -2984,7 +3042,7 @@
 		2. The anti-war drama All Quiet on the Western Front (1930) was based on the novel by Erich Maria **Remarque** /反战电影《新西线无战事》（1930）是基于埃里希·马里亚·**雷马克**写的小说改编。
 
 
-### + \*merph- + = form
+### ⭐ + \*merph- + = form
 1. **-form** = 化学词汇后缀，中文译作“...仿”。来自拉丁语 forma "form, shape, contour, apearance, beauty."
 	1. 
 2. **form-** = shape, 表示“形状”。来自拉丁语 forma "form, shape, contour, apearance, beauty."

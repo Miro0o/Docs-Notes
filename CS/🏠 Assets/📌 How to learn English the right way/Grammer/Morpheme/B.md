@@ -18,7 +18,7 @@
 	6. _bring home the bacon_ 成功；谋生
 
 
-### + \*bak- + = bar, stick
+### ⭐ + \*bak- + = bar, stick
 1. **bacill-** = bacillus, “杆菌”， 「Latin」baculum "rod, walking, stick"
 	1. bacillary
 		1. adj. 杆状的；杆状细菌的
@@ -334,7 +334,7 @@
 
 ## bh
 ### + \*bha- +
-#### + \*bha- (1) + = to shine
+#### ⭐ + \*bha- (1) + = to shine
 1. **phan-,phen-,phas-,fant-,fan-** = show, 表示“显示”。源自希腊语 phainein "to bring to light."
 	1. phanerogam
 		1. _[phanerogam](dic://phanerogam)_  n. [植] 显花植物
@@ -438,7 +438,7 @@
 	3. etc...
 3. **phot-, phos-** = light, 表示“光”。源自希腊语 phos (词干 phot-) "light."
 	1. etc..
-#### + \*bha- (2) + = to speak
+#### ⭐ + \*bha- (2) + = to speak
 1. **ban-** = prohibit, 表示“禁止、禁令”。原始日耳曼语词源，分别通过古法语，古英语，晚期拉丁语，意大利语进入英语。
 	1. abandon
 	2. ban
@@ -597,7 +597,7 @@
 	12. etc...
 
 
-### + \*bhag- +
+### ⭐ + \*bhag- +
 1. **esophag-** = esophagus, 表示“食管”，由 eso- + phag- 组成。
 	1. esophageal, oesophageal
 		1. a. 食管的
@@ -1588,52 +1588,255 @@
 #### + \*bhel- (2) + = to blow, swell
 1. **ball-, bol-** = = throw, dance, ball, 表示“抛，舞，球”。源自希腊语 ballein "to throw"
 	1. ball
+		1. 1.balloon（气球）：古代击打充气皮球的游戏  
+		2. 英语单词balloon来自意大利语pallone（large ball，大球），源自palla（ball，球）。在16世纪70年代，balloon指的是一种用皮革制成、里面充气膨胀的大球，可以用球棍击打。这种游戏也被称为balloon。17世纪时，人们将烟花材料塞进纸板制成的大球中，可以发射到天上去。这种用于烟花表演的纸板大球也被称为balloon。1783年，孟格菲兄弟发明热气球后，人们用balloon来表示热气球。最后，balloon才被用来表示用于修饰或游戏的小气球。  
+		3. balloon： [bə'luːn]n.气球，热气球adj.像气球一样膨胀的v.（使）激增，（使）膨胀  
+		4. ball：[bɔl] n. 球；舞会vi. 成团块vt. 捏成球形  
+		5. 2.ballet（芭蕾）：意大利宫廷宴会中的舞蹈表演  
+		6. 英语单词ballet（芭蕾）来自意大利语balletto，是ballo（ball、舞会）的指小形式，字面意思就是“小型舞会”，原本指的是15世纪时流行于意大利宫廷中的一种舞蹈表演，在宫廷宴会中，经常会有这种舞蹈表演来娱乐宾客。我们知道，ball（舞会）是指以跳舞为主要内容的社交活动，在舞会中，所有人在大部分时间都在跳舞，而ballet则仅仅在宴会的一部分时间进行，跳舞的也仅仅是一部分人，大部分人则在旁观看。从这个意义看，ballet确实是ball的缩小形式，所以ballet拼写为ball的指小形式正是它们之间关系的恰当描述。  
+		7. ballet源自意大利，兴旺于法国，经由法语进入英语，所以发音也具有法语特点，最后一个t不发音。  
+		8. ballet：[bæ'le] n.芭蕾舞，芭蕾舞剧  
+		9. ball：[bɔːl] n.舞会，球
+		10. slimeball
+			1. n. 粘球；可鄙的人，讨厌的人
+			2. He was a slimeball, but he was hot. /他是个混蛋 不过挺性感的。
+			3. Yeah, he's nice on the surface, but he's really a slimeball /菲尔：是啊，他表面上很好，但他真的是个粘液球。
+		12. gumball
+			1. - n. 口香糖球；警车顶灯  vt. 警车亮着顶灯行驶
+			2. It can be in a vending or gumball machine, pay phone or toll plaza /地点可以是自动贩卖机或是糖果机，，投币电话机或收费广场。
+			3. Why'd you say that you want a gumball? /你为什么说你想要口香糖？
+			4. You certainly can't give her that stupid gumball ring. /你总不能给她那枚廉价的戒指。
+			5. Do I get the tweety bird with gumball eyes or the ninja turtle with gumball eyes? /我是拿长着胶球眼睛的翠迪鸟还是长着胶球眼睛的忍者神龟呢？
+		13. golfball
+		14. flyball
+			1. n. 飞球
+		15. dodgeball
+			1. _n._ 躲避球
+		16. ballroom
+			1. large room used mainly for dancing
+				1. _synonymous：_ [dance hall](dic://dance hall), [dance palace](dic://dance palace)
+			2. _n._ [room](dic://room)
+			3. **dance**舞蹈;**dancing**舞蹈;**hall**门厅，走廊;**auditorium**观众席, 听众席;**banquet**宴会，盛宴;**dancer**舞女;**waltz**跳华尔兹舞;**dancers**舞蹈家;**ballet**芭蕾舞剧;**gymnasium**健身房, 体育馆;**foyer**门厅，休息室;
+			4. _ballroom dancing_ 交际舞
+			5. _ballroom dance_ 舞厅舞；社交舞
+		17. ballproof
+			1. - 防弹的
+		18. ballpoint
+			1. _n._ [pen](dic://pen)
+			2. **pen**钢笔;**pens**钢笔;**pencil**铅笔;**pencils**铅笔;**ink**涂墨水于;**crayon**蜡笔，有色粉笔;**eraser**擦除器;**stylus**唱针;**typewriter**打字机;**notepad**记事手册;**graphite**石墨;
+			3. _ballpoint pen_ n. 原子笔，圆珠笔
+			4. Lucky you. Now santa can bring you a useless collection of ballpoint pens... /真幸运 接着圣诞老人会送你一套无用的圆珠笔。
+			5. The tall lad sat farther back holding a ballpoint poised over a red-edged pad. /高个子坐在更靠后的位置， 手里拿着一支圆珠笔， 放在红边便签本上。
+			6. I found pens impractical, it can be messy, it's not as good as a ballpoint pen, it's expensive. /我发现钢笔不实用、写出来的字很乱，不如圆珠笔好用，而且很贵。
+			7. He snapped the cap on his **ballpoint**. /他吧嗒一声扣上圆珠笔的笔帽。
+		19. ballpark
+			1. _n._ [stadium](dic://stadium), [bowl](dic://bowl), [arena](dic://arena), [sports stadium](dic://sports stadium), [scope](dic://scope), [range](dic://range), [reach](dic://reach)
+			2. **stadium**露天大型运动场;**baseball**棒球运动;**stadiums**体育馆;**Wrigley**箭牌;**clubhouse**俱乐部;**dugout**独木舟;**outfield**外场;**Orioles**金莺队;**MLB**金属链带;**infield**内野;**Padres**神父;
+			3. ballpark lights; ballpark seating /运动场用灯；运动场座位
+			4. You know, I don't need the actual number. Just a ballpark. /我不需要确切的数字 差不多就行了。
+			5. Are you guys interested in using the ballpark for your kitchen operations, here at Washington DC /你们有没有兴趣在华盛顿特区使用棒球场来作为厨房。
+			6. What is the oldest operating ballpark in Major League Baseball? /美国职业棒球大联盟中运营时间最长的球场是哪个
+		20. balling
+		21. ballcock
+			1. 浮球旋塞
+		22. ball-flower
 	2. ballad
-		1. ballerina
-		2. ballet
-	3. balloon
-	4. ballot
-	5. balls
+		1. ball【舞】 + ad → 伴随舞蹈的歌谣 → 民歌。
+		2. ballad（民谣）：中世纪法国人跳舞时的伴奏歌曲  
+		3. 英语单词ballad（民谣）来自法语ballade，与英语单词ballade（叙事曲；三节联韵诗）同源，原本指的是中世纪法国舞会中演奏的一种常见歌曲，其中的ball就是“舞蹈”的意思，整个单词的字面意思就是“舞曲”。这种歌曲的歌词通常是三节，每一节由八行构成，称为ballade，中文译为“三节联韵诗”。  
+		4. 这种诗歌一般是关于各种英雄传说的叙事诗歌，也就是民谣，因此ballad就被翻译成“民谣”，在中世纪，这种适合跳舞的音乐属于世俗流行音乐，对其相对的是诸如宗教音乐一类的严肃音乐。因此，ballad还含有“流行叙事歌曲”的含义。  
+		5. ballad：['bæləd] n.歌谣，民谣，叙事歌谣，流行叙事歌曲  
+			1.  [lay](dic://lay)
+			2. _n._ [song](dic://song), [vocal](dic://vocal), [poem](dic://poem), [verse form](dic://verse form)
+			3. **song**歌曲;**lyric**抒情的;**duet**二重奏;**melody**旋律;**sung**唱歌;**songs**歌曲，歌集;**lyrics**歌词;**melodic**有旋律的;**hymn**赞美诗;**anthem**赞美诗;**lyrical**抒情诗调的;
+		6. ballade：[bæ'lɑd] n. 叙事曲；三节联韵诗
+			1. _n._ [poem](dic://poem), [verse form](dic://verse form)
+			2. **ballad**歌谣，民谣;**melody**旋律;**concerto**协奏曲;**Chopin**肖邦;**duet**二重奏;**poem**诗;**waltz**跳华尔兹舞;**symphonic**交响乐的;**lyric**抒情的;**piano**钢琴;**song**歌曲;
+		7. " Come now, " said Villon—" about this ballade. How does it run so far" ? And beating time with his hand, he read it aloud to Tabary. /“来吧，” 维庸说——“关于这首民谣。它跑得这么远” ？ 他用手打拍子， 大声朗读给塔巴里听。
+	3. ballet
+		1. ballet（芭蕾）：意大利宫廷宴会中的舞蹈表演  
+		2. 英语单词ballet（芭蕾）来自意大利语balletto，是ballo（ball、舞会）的指小形式，字面意思就是“小型舞会”，原本指的是15世纪时流行于意大利宫廷中的一种舞蹈表演，在宫廷宴会中，经常会有这种舞蹈表演来娱乐宾客。我们知道，ball（舞会）是指以跳舞为主要内容的社交活动，在舞会中，所有人在大部分时间都在跳舞，而ballet则仅仅在宴会的一部分时间进行，跳舞的也仅仅是一部分人，大部分人则在旁观看。从这个意义看，ballet确实是ball的缩小形式，所以ballet拼写为ball的指小形式正是它们之间关系的恰当描述。  
+		3. ballet源自意大利，兴旺于法国，经由法语进入英语，所以发音也具有法语特点，最后一个t不发音。
+		4. ball：[bɔːl] n.舞会，球
+		5. ballet：[bæ'le] n.芭蕾舞，芭蕾舞剧  
+		6. [concert dance](dic://concert dance)
+		7. _n._ [stage dancing](dic://stage dancing), [choreography](dic://choreography), [music](dic://music)
+		8. **ballerina**芭蕾舞女演员;**dance**舞蹈;**dancer**舞女;**choreography**舞台舞蹈设计;**dancers**舞蹈家;**choreographer**舞蹈指导;**tango**探戈舞曲;**dancing**舞蹈;**recital**背诵;**gymnastics**体操;**opera**歌剧;
+		9. _ballet dancer_ 芭蕾舞蹈家
+		10. _water ballet_ [体]花样游泳；水上芭蕾舞
+		11. a lithe ballet dancer. /一个自然优雅的芭蕾舞演员
+		12. ballet is the most perishable of arts. /芭蕾舞是最易消亡的艺术。
+		13. the ballets did not find favour with the public. /芭蕾舞剧不受大众喜爱。
+		14. Looks like someone wants to be a ballet dancer /看来某人想成为芭蕾舞者呢。
+		15. ballerina
+			1. _n._ [ballet dancer](dic://ballet dancer)
+			2. **ballet**芭蕾舞剧;**dancer**舞女;**gymnast**体操运动员;**choreographer**舞蹈指导;**skater**溜冰者;**dancers**舞蹈家;**princess**王妃;**diva**歌剧中的首席女主角;**actress**女演员;**mermaid**美人鱼;**dance**舞蹈;
+	4. ballista
+		1. _n._ (古代用以发射石弹等的)抛石机, 投石器
+		2.  [catapult](dic://catapult), [arbalest](dic://arbalest), [arbalist](dic://arbalist), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
+		3. _n._ [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
+		4. **archers**弓箭手;**archer**弓箭手;**cannon**大炮;**cannons**大炮;**turret**角楼;**spear**矛，枪;**launcher**发射者;**artillery**炮, 大炮;**chariot**二轮战车;**projectile**发射体;**infantry**步兵;
+		5. **Ballista**: Ancient missile launcher designed to hurl long arrows or heavy Balls /投石机：古代投掷物体之发射器，用作发射长箭或重型球状物。
+	5. ballistic
+		1. ball-抛 + -istic表形容词
+		2. _adj._ [ballistics](dic://ballistics), [ballistic trajectory](dic://ballistic trajectory)
+		3. **missile**导弹;**supersonic**超声波的;**projectile**发射体;**missiles**导弹;**bullet**子弹;**bullets**子弹;**thermal**热的，热量的;**rocket**火箭;**long-range**远程的;**handgun**手枪;**kinetic**运动的;
+		4. _ballistic missile_ n. 弹道飞弹，弹道导弹
+		5. _ballistic trajectory_ 射击弹导；弹道轨迹
+		6. _intercontinental ballistic missile_ 洲际弹道导弹；洲际导弹
+		7. ballistic missile defense system /弹道导弹防御系统
+		8. hey were seeking to pierce the anti-ballistic-missile defences. /他们正在设法突破反弹道导弹防御系统。
+		9. North Korea test-fired an ICBM, an intercontinental ballistic missile early Wednesday morning. /朝鲜在周三早上试射了一枚洲际弹道导弹。
+		10. These ballistic missiles normally follow a curve. /这些弹道导弹通常都有一个轨道。
+		11. ballistics
+		12. ballisite
+	6. balloon
+		1. 1.balloon（气球）：古代击打充气皮球的游戏  
+		2. 英语单词balloon来自意大利语pallone（large ball，大球），源自palla（ball，球）。在16世纪70年代，balloon指的是一种用皮革制成、里面充气膨胀的大球，可以用球棍击打。这种游戏也被称为balloon。17世纪时，人们将烟花材料塞进纸板制成的大球中，可以发射到天上去。这种用于烟花表演的纸板大球也被称为balloon。1783年，孟格菲兄弟发明热气球后，人们用balloon来表示热气球。最后，balloon才被用来表示用于修饰或游戏的小气球。  
+		3. balloon： [bə'luːn]n.气球，热气球adj.像气球一样膨胀的v.（使）激增，（使）膨胀  
+		4. ball：[bɔl] n. 球；舞会vi. 成团块vt. 捏成球形
+		5. ballonet
+			1. n. 气室(调节气球升降)
+		6. ballute
+			1. n. 气球降落伞
+	7. ballot
+		1. ballot（选票）：古代希腊和罗马用来投票的黑白小球  
+		2. 在古代希腊，人们很早就发明了匿名投票的方法。跟我们现在使用纸质选票的方法不同，那时候的人们使用青铜片、筹码或小球等材料来投票，用不同形状或颜色代表赞同或反对。其中，用小球做成的选票就是英语单词ballot（选票）的来源。ballot源自意大利语pallotte，是palla（ball，球）的指小词，意思就是“小球”。英语单词balloon（气球）同样源于意大利语palla（球），表示“大球”。英语单词blackball表示“黑色小球”，也就是“反对票”的意思。  
+		3. He has already voted by absentee **ballot**. /他已经通过缺席投票的方式投了票。
+		4. Shall we vote vivavoce or by ballot? /我们要囗头表决还是投票表决？
+		5. ballot：['bælət]n.投票，选票v.投票  
+		6. [vote](dic://vote), [voting](dic://voting), [balloting](dic://balloting)
+		7. _n._ [document](dic://document), [written document](dic://written document), [papers](dic://papers), [choice](dic://choice), [selection](dic://selection), [option](dic://option), [pick](dic://pick)
+		8. _v._ [vote](dic://vote)
+		9. **voting**投票的;**referendum**公民投票权;**election**选举;**voters**投票者列表;**vote**投票，选举;**votes**投票;**voter**选举人，投票人;**polling**投票;**electoral**选举的;**candidacy**候选人的地位;**mayoral**市长的;
+		10. the ballot was held in accordance with trade union rules /投票根据工会规定举行。
+		11. I can't even see the ballot without my glasses /没有眼镜 我连选票都看不清。
+		12. He should agree to recount the ballots. /他应该同意重新计算选票。
+		13. balloon：[bə'luːn] n.气球v.激增，如气球般膨胀adj.像气球般鼓起的  
+		14. blackball：['blækbɔːl] vt.投反对票，排斥n.反对票
+	9. balls
 		1. baseball
 		2. basketball
-		3. blackball
-		4. blowball
-		5. brandyball
-		6. cannonball
-		7. cornball
-			1. _[cornball homebred unsophisticated](dic://cornball%20homebred%20unsophisticated)_ 不懂世故的
-		8. eyeball
-		9. fireball
-		10. football
-		11. fuzzball
-		12. goofball, oddball, screwball
-			1. **goofy**傻瓜的，愚笨的;**lovable**可爱的，讨人喜欢的;**silliness**愚蠢;**wacky**乖僻的，古怪的;**antics**滑稽动作;**idiot**白痴;**moron**痴愚者;**sidekick**伙伴,插袋;**sarcastic**讽刺的;**nerd**讨厌的人;**nerdy**书呆子式的;
-			2. **joke**玩笑，笑话;**comedian**喜剧演员;**goofy**傻瓜的，愚笨的;**sarcastic**讽刺的;**joking**戏谑的;**jokes**笑话;**funny**有趣的;**pranks**恶作剧;**mischievous**淘气的, 顽皮的;**humor**幽默，诙谐;**hilarious**十分有趣的, 非常滑稽的;
-		13. fnadball
-		14. feelball
-		15. highball
-			1. **martini**马提尼;**cocktail**鸡尾酒;**whiskey**威士忌酒;**vodka**伏特加酒;**gin**杜松子酒;**liqueur**利口酒;**glass**玻璃;**brandy**白兰地酒;**jug**水壶;**tequila**龙舌兰酒;**whisky**威士忌酒;
-		16. kickball
-		17. kittenball
-		18. meatball
-			1. **sausage**香肠;**pizza**比萨饼;**hamburger**汉堡包;**burger**汉堡包;**lasagna**卤汁面条;**sandwich**三明治;**ravioli**略有馅的水饺;**pasta**面团;**sauce**调味汁;**veggie**素食者;**salad**色拉;
-		19. mothball
-		20. netbakll
-		21. no-ball
-		23. pinball
-		24. puffball
-		26. snowball
-		27. softball
-		28. speedball
-		29. spitball
-		30. stinkball
-		31. stoolball
-		32. tetherball
-		33. trapball
-		34. volleyball
-	6. anabolic
+		3. blowball
+		4. brandyball
+		5. cannonball
+			1. n. 炮弹
+		6. cornball
+			1. n. （非正式）观念陈腐的人，多愁善感的人；乡巴佬 
+			2. adj. （非正式）陈腐的，过时的；愚蠢的，似乡巴佬的
+			3. _[cornball homebred unsophisticated](dic://cornball%20homebred%20unsophisticated)_ 不懂世故的
+			4. a cornball movie. /俗套而又伤感的电影。
+			5. Trying to discourage me with some cornball mixtape /想用一些粗俗的混音带来让我知难而退。
+			6. This was at just the moment when I was thinking, I gotta do something other than these cornball villains /就在那一刻，我在想，除了这些玉米球恶棍之外，我还得做点什么。
+			7. I know it's a **cornball** thing /我知道这是陈词滥调。
+			8. He made such a **cornball** marriage proposal that the girl laughed out loud. /他那多愁善感的求婚方式，让那女孩忍不住大声地笑了出来。
+		7. eyeball
+			1. n. 眼球; v. 瞪着; 逼视
+			2. _n._ [capsule](dic://capsule)
+			3. _v._ [look](dic://look)
+			4. **eye**眼睛;**cornea**角膜;**eyelid**眼皮;**skull**头盖骨，脑壳;**eyes**眼睛;**ocular**眼睛的;**eyelids**眼睑;**retina**视网膜;**blink**眨眼;**poke**刺，捅;**forehead**前额，额头;
+		8. fireball
+			1. n. 火球, 大流星
+		9. football
+		10. fuzzball
+		11. handball
+			1. n. 墙手球, 墙手球运动
+		12. goofball
+			1. n. 催眠药片, 兴奋剂, 镇静剂, 神经失常的人, 怪人
+			2.  [fathead](dic://fathead), [goof](dic://goof), [bozo](dic://bozo), [jackass](dic://jackass), [goose](dic://goose), [cuckoo](dic://cuckoo), [twat](dic://twat), [zany](dic://zany)
+			3. _n._ [fool](dic://fool), [sap](dic://sap), [saphead](dic://saphead), [muggins](dic://muggins), [tomfool](dic://tomfool)
+			4. **goofy**傻瓜的，愚笨的;**lovable**可爱的，讨人喜欢的;**silliness**愚蠢;**wacky**乖僻的，古怪的;**antics**滑稽动作;**idiot**白痴;**moron**痴愚者;**sidekick**伙伴,插袋;**sarcastic**讽刺的;**nerd**讨厌的人;**nerdy**书呆子式的;
+			5. In the intervening years he became something of a jokester and goofball. /。其间多年，他变成了一个乱开玩笑的怪人。
+			6. Of course. You were acting like a goofball /当然了。你表现得就像个蠢货。
+			7. This is just another of his **goofball** ideas. /这是他的又一个愚蠢想法。
+			8. **joke**玩笑，笑话;**comedian**喜剧演员;**goofy**傻瓜的，愚笨的;**sarcastic**讽刺的;**joking**戏谑的;**jokes**笑话;**funny**有趣的;**pranks**恶作剧;**mischievous**淘气的, 顽皮的;**humor**幽默，诙谐;**hilarious**十分有趣的, 非常滑稽的;
+		13. screwball
+			1. n. 怪人, 疯子, 内曲线球  a. 怪僻的, 精神有点怪的
+			2. _n._ 曲线球,怪人,略带神经病的人
+			3. _adj._ 怪僻的,奇妙的,精神有点怪的
+			4. _n._ [eccentric](dic://eccentric), [eccentric person](dic://eccentric person), [flake](dic://flake), [oddball](dic://oddball), [geek](dic://geek), [pitch](dic://pitch), [delivery](dic://delivery)
+			5. _adj._ [impractical](dic://impractical)
+			6. _n._ [practical](dic://practical)
+			7. **comedic**喜剧的;**comedy**喜剧;**comedies**喜剧;**noir**轮盘戏中黑色数字的;**melodrama**情节剧;**wacky**乖僻的，古怪的;**offbeat**离奇的;**farce**笑剧,闹剧,滑稽戏;**sitcom**情景喜剧;**silliness**愚蠢;**comical**滑稽的，好笑的
+			8. _[screwball](dic://screwball)_  n. 怪人；略带神经病的人；内曲线球; adj. 精神有点怪的；怪僻的; 
+			9. _[screwball comedy](dic://screwball%20comedy)_  神经喜剧
+			10. But when I get a screwball case, I come away from court saying, 'What am I doing here? ' /但是当我接手那种无厘头的案子时，走出法庭后我都会不禁问自己，“我这是在干什么呢？”
+			11. You mean you like screwball and slapstick humor. /凯尔：你是说你喜欢怪诞和闹剧式的幽默。
+			12. That **screwball** is wearing his shirt inside out /那个怪人把他的衬衣反着穿。
+		15. oddball
+			1.  [eccentric](dic://eccentric), [eccentric person](dic://eccentric person), [flake](dic://flake), [geek](dic://geek)
+			2. _n._ [anomaly](dic://anomaly), [unusual person](dic://unusual person)
+			3. **offbeat**离奇的;**quirky**诡诈的;**wacky**乖僻的，古怪的;**eccentric**古怪的, 怪癖的;**odd**奇数的;**bizarre**奇异的;**idiosyncratic**特殊物质的,特殊的,异质的;**goofy**傻瓜的，愚笨的;**weird**怪异的;**weirdness**古怪,命运;**unusual**与众不同的;
+			4. A self-confessed oddball, Mr Murakami is a peculiar memoirist /并不否认自己是一个怪人，村上春树先生是一位特别的传记作家。
+			5. He was always an oddball. Him and his whole family. /他一直就很古怪。他全家都是这样的。
+			6. In fact, our planet is something of a geological oddball given what we know about our solar system neighbors. /事实上，根据我们对太阳系邻居的了解，我们的星球在地质学上是一个怪胎。
+			7. There's always these thousands of new laws every January 1, always some oddballones. Do you have a favorite? /每逢元旦，新法律总有千千万，还有些总是古里古怪。有你最喜欢的吗？
+		16. fastball
+		17. feelball
+		18. highball
+			1. n. 高杯酒；（非正式）铁路信号灯 v. （非正式）快速前进；故意高估……的价值（或成本等）
+			2. n. 掺了姜汁啤酒的威士忌, 掺了苏打水的威士忌
+			3. _n._ [mixed drink](dic://mixed drink)
+			4. **martini**马提尼;**cocktail**鸡尾酒;**whiskey**威士忌酒;**vodka**伏特加酒;**gin**杜松子酒;**liqueur**利口酒;**glass**玻璃;**brandy**白兰地酒;**jug**水壶;**tequila**龙舌兰酒;**whisky**威士忌酒;
+			5. 'Yes, highballs, ' agreed Gatsby, and then to Mr. Wolfshiem: 'It's too hot over there.' /" 好的，来几杯姜汁威士忌，" 盖茨比同意，然后对沃尔夫山姆先生说，" 那边太热了。"
+			6. I wondered why Fred had sent them and I offered a highball. /我想知道为什么弗雷德派他们来， 我提出了一个高球。
+			7. He smelled of highballs, in a nice way /他闻起来有威士忌的味道， 味道不错。
+			8. Here you are – a Bloody Mary in a highball. /斯宾塞：给你——高球杯中的血腥玛丽。
+		19. kickball
+		20. kittenball
+		21. meatball
+			1. n. 肉团, 愚蠢, 飞机降落目标
+			2. **sausage**香肠;**pizza**比萨饼;**hamburger**汉堡包;**burger**汉堡包;**lasagna**卤汁面条;**sandwich**三明治;**ravioli**略有馅的水饺;**pasta**面团;**sauce**调味汁;**veggie**素食者;**salad**色拉;
+			3. But today I make “fried fish meatball”, and I prefer the fish meatball is harder, so I add some flour into the fishpaste /不过今天我要做的是炸鱼球，而且我个人偏向硬一些的鱼球，所以我加了面粉在里面。
+			4. Why didn't those meatballs include you? /这些混蛋为什么不带上你？
+		22. mothball
+			1. 1. _n._ 卫生球,樟脑球
+			2. _adj._ 后备的
+			3. n. 樟脑丸, 保藏  
+			4. vt. 封存  
+			5. a. 封存的
+			6.  [camphor ball](dic://camphor ball)
+			7. _n._ [ball](dic://ball), [globe](dic://globe), [orb](dic://orb)
+			8. _v._ [store](dic://store)
+			9. **demolish**毁坏;**retire**退休;**coal-fired**烧煤的;**renovate**修复;**stockpile**囤聚的物资;**dismantle**拆开, 拆卸;
+			10. He keep his car in mothballs during the winter. /在冬天，他把汽车搁置不用。
+			11. " I wonder is that more mothballs? " she thought, stooping down to feel it with her hand. /“不知那是不是樟脑球？”她想，一面弯下身子用手摸。
+			12. He's got enough on his hands, getting the uniforms out of mothballs. /他已经够忙的了，还得把军装给整理出来。
+			13. The portrait of her that once hung at her alma mater Oxford University was mothballed /她那曾挂在母校牛津大学的肖像也被封存。
+			14. A mothball was not useful at all. /樟脑丸根本没效。
+			15. Fearful of another Chernobyl or Fukushima, it mothballed its nuclear reactors. /由于担心再次发生切尔诺贝利事故或福岛事故，它封存了核反应堆。
+		23. netbakll
+			1. n. 无挡板蓝球
+		24. no-ball
+			1. n. 犯规投球  vi. 犯规投球
+		25. pinball
+		26. puffball
+		27. snowball
+			1. n. 雪球, 果味冰霜卷, 滚雪球式的募捐法  
+			2. vt. 向...丢雪球, 使滚雪球般增长  vi. 打雪仗, 滚雪球般增长
+			3. 1. _n._ 雪球
+			4. _vi._ (计划、问题等)滚雪球似地迅速增大
+			5. 根本不可能(做某事)；机会渺茫
+			6. _n._ [sand verbena](dic://sand verbena), [frozen dessert](dic://frozen dessert), [ball](dic://ball)
+			7. _v._ [increase](dic://increase), [pelt](dic://pelt), [bombard](dic://bombard)
+			8. **snowman**雪人;**snow**雪，积雪;**snowflake**雪花,雪片;**avalanche**雪崩;
+			9. She hasn't a snowball's chance in hell of persuading her boyfriend to take her to Hawaii for a holiday. /她毫无可能说服其男朋友带她去夏威夷度假。
+			10. Look at this traffic! I’m afraid we haven’t got a snowball’s chance in hell of getting to the airport in time /看看有多少车！恐怕我们根本没有指望能及时赶到机场。
+			11. So this highlights the opportunity for a virtuous cycle where the effect can snowball. /因此，这突显了良性循环的机会，在这种循环中，影响可能会像滚雪球一样越来越大。
+			12. All this publicity has had a **snowball** effect on the sales of their latest album /所有这些宣传对他们最新唱片的销售产生了一种滚雪球效应。
+		28. softball
+			1. n. 垒球运动, 垒球
+		29. speedball
+		30. spitball
+		31. stinkball
+		32. stoolball
+		33. tetherball
+			1. n. 绳球
+		34. trapball
+		35. volleyball
+	10. anabolic
 		1. ana-上 + bol-抛 + -ic
-		2. - adj. 合成代谢的；同化的
+		2. adj. 合成代谢的；同化的
 		3. of or related to the synthetic phase of metabolism
 		4. characterized by or promoting constructive metabolism
 			1. some athletes take anabolic steroids to increase muscle size temporarily
@@ -1642,97 +1845,177 @@
 		7.  Anabolic steroids" are a common type of performance-enhancing drugs /“合成代谢类固醇”是一种常见的性能增强药物。
 		8. Normally, testosterone binds to this, but anabolic steroids can too. /通常情况下，睾丸激素会与此结合，但合成代谢类固醇也可以。
 		9. anabolism (catabolism, metabolsm)
-			1. _n._ [assimilation](dic://assimilation), [absorption](dic://absorption)
-			2. _n._ [catabolism](dic://catabolism), [katabolism](dic://katabolism), [dissimilation](dic://dissimilation), [destructive metabolism](dic://destructive metabolism)
-			3. **anabolic**合成代谢的;**metabolism**新陈代谢;**glycogen**糖原;**metabolic**新陈代谢的;**creatine**肌酸，肌肉素;**cortisol**皮质醇;**testosterone**睾丸激素;**carbohydrate**碳水化合物;**biosynthesis**生物合成;**muscle**肌肉;**synthesis**综合, 综合法;
-	7. catabolic, katabolism
-		1. **metabolic**新陈代谢的;**anabolic**合成代谢的;**metabolism**新陈代谢;**anaerobic**厌氧菌的;**glycogen**糖原;**biochemical**生物化学的;**aerobic**需氧的;**oxidative**氧化的;**oxidation**氧化;**enzymatic**酶的;**carbohydrate**碳水化合物;
-		2. catabolism
-		3. catabolize
-	8. diabolic, diabolical
-		1. **demonic**有魔力的，恶魔的;**sinister**阴险的;**malevolent**有恶意的;**devious**弯曲的;**murderous**蓄意谋杀的;**evil**邪恶的;**depraved**堕落的;**sadistic**残酷成性的;**unholy**不神圣的;**nefarious**极坏的;**monstrous**极可恶的;
-		2. **devious**弯曲的;**sinister**阴险的;**nefarious**极坏的;**malevolent**有恶意的;**murderous**蓄意谋杀的;**evil**邪恶的;**cunning**狡猾的;**insidious**隐伏的;**demonic**有魔力的，恶魔的;**wicked**邪恶的;**sadistic**残酷成性的;
-		3.  [devilish](dic://devilish), [diabolical](dic://diabolical), [mephistophelian](dic://mephistophelian), [mephistophelean](dic://mephistophelean)
-		4.  [demonic](dic://demonic), [diabolical](dic://diabolical), [fiendish](dic://fiendish), [hellish](dic://hellish), [infernal](dic://infernal), [satanic](dic://satanic), [unholy](dic://unholy)
-		5. diabolism
-	9. discobolus
-	10. ecbolic
-	11. hyperbola
-		1. **quadratic**二次的;**tangent**切线的，相切的;**algebraic**代数的;**curvature**弯曲;**polynomial**多项式;**Euler**欧拉;**algebra**代数学;**triangle**三角;**rectangle**长方形, 矩形;**equation**方程式，等式;**hyperbolic**双曲线的;
-		2. _n._ [conic section](dic://conic section), [conic](dic://conic)
-		3. 
-	12. hyperbole
+			1. n. 合成代谢
+			2. _n._ [assimilation](dic://assimilation), [absorption](dic://absorption)
+			3. _n._ [catabolism](dic://catabolism), [katabolism](dic://katabolism), [dissimilation](dic://dissimilation), [destructive metabolism](dic://destructive metabolism)
+			4. **anabolic**合成代谢的;**metabolism**新陈代谢;**glycogen**糖原;**metabolic**新陈代谢的;**creatine**肌酸，肌肉素;**cortisol**皮质醇;**testosterone**睾丸激素;**carbohydrate**碳水化合物;**biosynthesis**生物合成;**muscle**肌肉;**synthesis**综合, 综合法;
+			5. **Anabolism** is when energy is created and stored, and catabolism is when energy is released /合成代谢是生成和储存能量，而分解代谢则是能量的释放。
+			6. The formation approaches of higher alcohols include degradation metabolism and **anabolism** /  高级醇的生成途径有降解代谢和合成代谢两种。
+	11. catabolic, katabolism
+		1. a. 分解代谢的
+		2. **metabolic**新陈代谢的;**anabolic**合成代谢的;**metabolism**新陈代谢;**anaerobic**厌氧菌的;**glycogen**糖原;**biochemical**生物化学的;**aerobic**需氧的;**oxidative**氧化的;**oxidation**氧化;**enzymatic**酶的;**carbohydrate**碳水化合物;
+		3. For a start, oestrogen is anabolic, building up muscle, while progesterone is catabolic, breaking it down /首先，雌激素是合成代谢的，可以增强肌肉，而黄体酮是分解代谢的，可以分解肌肉。
+		4. This catabolic state leaves people feeling hungry, also known as polyphagia; " Phagia" means eating, and " Poly" means a lot. /该分解代谢过程会让人感到饥饿，也叫多食Polyphagia；其中Phagia指吃食，而Poly指多。
+		5. Going on, say, a 1000 calorie cut, not only sucks, but it sets your body into a nutrient-lacking catabolic state, increasing the likelihood of muscle breakdown. /比方说，减少1000卡的热量，这不仅糟糕而且会使你的身体进入营养不足的代谢阶段，增加了肌肉分解的可能性。
+		6. But for now, you've learned all about the vital nutrients — including water, vitamins, minerals, carbs, fats, and proteins — as well as how anabolic reactions build structures and require energy, while catabolic reactions tear things apart and release energy. /但是现在，你已经了解了所有重要的营养物质——包括水、维生素、矿物质、碳水化合物、脂肪和蛋白质——以及合成代谢反应如何构建结构和需要能量，而分解代谢反应将东西分开并释放能量
+		7. catabolism
+			1. cata-下 + bol-扔 + -ism
+			2. n. 异化作用, 分解代谢
+		8. catabolize
+	12. diabolic, diabolical
+		1. a. 恶魔的, 恶毒的, 凶暴的, 恶魔似的, (非正式)非常可憎的
+		2. dia-穿过 + bol-抛 + -ic表形容词。源自希腊语 diabollos“诽谤，攻击”，字面含义“扔过去”。
+		3. **demonic**有魔力的，恶魔的;**sinister**阴险的;**malevolent**有恶意的;**devious**弯曲的;**murderous**蓄意谋杀的;**evil**邪恶的;**depraved**堕落的;**sadistic**残酷成性的;**unholy**不神圣的;**nefarious**极坏的;**monstrous**极可恶的;
+		4. **devious**弯曲的;**sinister**阴险的;**nefarious**极坏的;**malevolent**有恶意的;**murderous**蓄意谋杀的;**evil**邪恶的;**cunning**狡猾的;**insidious**隐伏的;**demonic**有魔力的，恶魔的;**wicked**邪恶的;**sadistic**残酷成性的;
+		5.  [devilish](dic://devilish), [diabolical](dic://diabolical), [mephistophelian](dic://mephistophelian), [mephistophelean](dic://mephistophelean)
+		6.  [demonic](dic://demonic), [diabolical](dic://diabolical), [fiendish](dic://fiendish), [hellish](dic://hellish), [infernal](dic://infernal), [satanic](dic://satanic), [unholy](dic://unholy)
+		7. There was a diabolic gleam in his eyes as if something amused him greatly /那时他眼里闪耀着一丝残忍的光辉，仿佛有什么叫他大为高兴似的。
+		8. This is the diabolic world of the camp. /这是营地的恶魔世界。
+		9. This will ensure that the physical profile of the wire is very small, so as Leather face rushes forwards he isn't able to see it in the dark, but it'll also serve another, much more diabolic purpose /这将确保电线的物理轮廓非常小，因此当 Leatherface 向前冲时， 他无法在黑暗中看到它， 但它也会用于另一个更邪恶的目的。
+		10. diabolism
+	13. discobolus
+		1. n. (古希腊或罗马的)掷铁饼者, 掷铁饼者塑像
+	14. hyperbola
+		1. parabola [pə'ræb(ə)lə] n.抛物线。希腊前缀para-表alongside,beside，希腊词根bol-表to throw。三种圆锥曲线中（另外两种是椭圆和双曲线），抛物线的离心率=1(para-)，hyperbola [haɪ'pɜːbələ] n.双曲线，离心率&gt;1，因为希腊前缀hyper-与拉丁前缀super-同源，表over,above，椭圆的离心率&lt;1。 ​​​​
+		2. **quadratic**二次的;**tangent**切线的，相切的;**algebraic**代数的;**curvature**弯曲;**polynomial**多项式;**Euler**欧拉;**algebra**代数学;**triangle**三角;**rectangle**长方形, 矩形;**equation**方程式，等式;**hyperbolic**双曲线的;
+		3. _n._ [conic section](dic://conic section), [conic](dic://conic)
+		4. Results The difference values calculated were various with the arch form, the sequence was oval, round, parabola, catenuliform, and hyperbola from big difference to smell. /牙弓深度的差值按从大到小的顺序排列为：椭圆形、圆形、抛物线形、悬链形、双曲线形。
+		5. The orbit is now a hyperbola, which is similar to a parabola, but is even more open /这种轨道是条双曲线，类似于抛物线，但更加开放。
+	15. hyperbole
+		1. hyper-过多 + bol-抛 + -e → 话抛得很高 → 夸张法。
 		2. **exaggeration**夸张;**disingenuous**不真诚的;**overblown**停息的,盛开过的;**rhetoric**修辞，修辞学;**sarcasm**讽刺;**ludicrous**荒唐可笑的,滑稽可笑的;**silliness**愚蠢;**nonsense**谬论;**laughable**荒唐可笑的;**idiocy**白痴;**absurd**荒谬的;
 		3. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
-		4. 
-	13. parable
-		1. parabolus
-		2. **allegory**寓言;**fable**寓言;**metaphor**隐喻;**tale**故事;**proverb**谚语，格言;**prophetic**预言的,先知的;**verse**诗，诗篇;**Jesus**耶稣;**sermon**布道, 讲道, 说教;**allusion**暗示;**scripture**经文;
-		3.  [fable](dic://fable), [allegory](dic://allegory), [apologue](dic://apologue)
-	14. parabola
-		1. **quadratic**二次的;**curvature**弯曲;**curve**曲线;**tangent**切线的，相切的;**vertex**顶点;**concave**凹的，凹面的;**slope**倾斜;**convex**凸面的;**rectangle**长方形, 矩形;**equation**方程式，等式;**geometry**几何学;
-		2. parabolic
-		3. parabolical
-		4. paraboloid
-	15. symbol
-	16. amphibole
-		1. amphibology
-		2. ampholbolous
-	17. belt
-	18. bolus
-	19. bullet
+		4. aggrandise, amplify, bombastic, grandiloquent, grandiose, hyperbole, rhetorical, turgid. 
+		5. to express with hyperbole /表达时使用夸张法
+		6. American humor is founded largely on hyperbole/美式幽默主要以夸张为基础。
+	16. parable
+		1. n. （尤指《圣经》中耶稣所讲的的）（道德或宗教）寓言 
+		2. n. 寓言, 隐晦的比较
+		3. para-在周围 + ble-=bole扔，投掷， 即扔在旁边的，引申词义打比方，讲寓言故事。
+		4. 1 - 来自希腊语 parabole,比较，对话，类比，来自 para-,在旁，在周围，-bole,扔，投掷，词源同ballet,ballistic.即扔在旁边的，引申词义打比方，讲寓言故事。拼写受-able 影响俗化。
+		5.  [fable](dic://fable), [allegory](dic://allegory), [apologue](dic://apologue)
+		6. **allegory**寓言;**fable**寓言;**metaphor**隐喻;**tale**故事;**proverb**谚语，格言;**prophetic**预言的,先知的;**verse**诗，诗篇;**Jesus**耶稣;**sermon**布道, 讲道, 说教;**allusion**暗示;**scripture**经文;
+		7. I realized these men's stories formed an urgent parable about America. /我意识到这些男人的故事 形成了一个关于美国的比喻。
+		8. The parable of the good Samaritan. /正是有关撒玛利亚人的寓言故事。
+		9. Maybe this was the real lesson of the parable. /也许那则寓言的教育意义正在于此。
+		10. parabolus
+	17. parabola
+		1. para-在旁，在周围 + -bol扔，投掷，即扔在旁边的，用于几何术语指抛物线。
+		2. **quadratic**二次的;**curvature**弯曲;**curve**曲线;**tangent**切线的，相切的;**vertex**顶点;**concave**凹的，凹面的;**slope**倾斜;**convex**凸面的;**rectangle**长方形, 矩形;**equation**方程式，等式;**geometry**几何学;
+		3. All you need is a jetliner, a parabola and voila, you're weightless. /你需要的只是一架客机, 飞行个抛物线, 然后看看自己, 你已经失重了。
+		4. Or you could even think of it as a three-dimensional parabola. /或者您甚至可以将其视为三维抛物线。
+		5. parabolic
+			1. a. 寓言的, 比喻的, 抛物线的, 抛物线状的
+		6. parabolical
+		7. paraboloid
+			1. n. 抛物面
+	18. symbol
+		1.  sym-,一起，一致，-bol,扔，投掷，词源同 ballistic,problem,parabolic.引申词义象征，符号。
+		2. n. 符号, 象征, 代号, 信条
+		3. sym-共同 + bol-抛 → 共同抛出的标志 → 象征。
+	19. amphibole
+		1. n. 闪石
+		2. amphibology
+			1. n. 语言模棱两可, 意义含混的词句
+		3. ampholbolous
+			1. a. 模棱两可的
+	20. belt
+		1. n. 腰带, 皮带; 传送带; 地带, 地区; 狠打  
+		2. v. 狠打; 飞奔; 用带系住
+		3. 自 PIE*bhel,膨胀，鼓起，词源同 ball.指鼓起来的一圈，绕一圈的带子
+	21. bolus
+	22. bullet
 		1. bulletwound
 		2. bulletproof
 		3. bullet-headed
 		4. bullet-head
-	20. devil
-		1. **demon**魔鬼;**demons**守护程序;**evil**邪恶的;**demonic**有魔力的，恶魔的;**angel**天使;**serpent**蛇;**angels**天使投资人;**wicked**邪恶的;**temptation**诱惑, 引诱;**sinner**罪人;**hell**地狱;
-		2. kill-devil, go-devil, devil-doger, devil-box
-		4. devilwood
-		5. devilry, devilment
+	23. devil
+		1. 来自拉丁语diabolus, 穿过，诽谤，攻击，词源同diabolic.来自dia-，穿过，-ball, 投掷，词源同ballistic, kill. 后用于指魔鬼。devil ’s advocate 故意唱反调的人来自天主教神学名词。原指教堂的一项特殊职务，其职能是对即将宣圣或成为圣徒的凡人进行行为或德行审查，以确保成为圣徒者德行之完美，其对应职务为God’s advocate. 其原先功能部分类似于现在的中纪委，而现在的词义就类似于走过场，一唱一和以使程序完美。
+		2. devil（魔鬼）：希腊语对圣经中“撒旦”的翻译  
+		3. 英语单词devil（魔鬼）的真正历史比所传devil乃do-evil（作恶）之缩略的古老传说要复杂得多。希伯来文的犹太教圣典《旧约》中的Satan（撒旦）实际上是devil的前身，它的意思是adversary（敌手），即“上帝的敌手”。当希伯来文的《旧约》被译成希腊文时，译者将Satan（撒旦）翻译成了diabolos一词，后来演变为英语单词devil。其实，diabolos在希腊文中原义是“诽谤者”，是圣经的影响才使它获得我们今天熟悉的词义“魔鬼”或“恶魔”的。  
+		4. devil：['dev(ə)l] n.魔鬼，撒旦，恶棍，淘气鬼vt.虐待，折磨  
+		5. devilish：['dɛvəlɪʃ] adj. 邪恶的；精力旺盛的；魔鬼似的adv. 非常；极度地  
+		6. devilry：['dev(ə)lrɪ] n. 恶行；残暴  
+		7. devilment：['dɛvlmənt] n. 恶作剧；怪事  
+		8. daredevil：['dɛrdɛvl] n. 铤而走险的人，蛮勇的人adj. 蛮勇的，不怕死的
+		9. **demon**魔鬼;**demons**守护程序;**evil**邪恶的;**demonic**有魔力的，恶魔的;**angel**天使;**serpent**蛇;**angels**天使投资人;**wicked**邪恶的;**temptation**诱惑, 引诱;**sinner**罪人;**hell**地狱;
+		10. kill-devil, go-devil, devil-doger, devil-box
+		11. devilwood
+		12. devilry, devilment
 			1. [mischief](dic://mischief), [mischief-making](dic://mischief-making), [mischievousness](dic://mischievousness), [deviltry](dic://deviltry), [devilment](dic://devilment), [rascality](dic://rascality), [roguery](dic://roguery), [roguishness](dic://roguishness), [shenanigan](dic://shenanigan)
 			2. [evil](dic://evil), [immorality](dic://immorality), [wickedness](dic://wickedness), [iniquity](dic://iniquity), [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
 			3. **mischief**伤害;**treachery**背信弃义, 不忠, 背叛;**sorcery**魔术，巫术;**wickedness**邪恶;**mayhem**大混乱, 大破坏;**malice**怨恨;**madness**疯狂;**witchcraft**巫术;**cunning**狡猾的;**sinister**阴险的;**malevolent**有恶意的;
-		6. devilkin
-		7. devilism
-		8. devilish
+		13. devilkin
+		14. devilism
+		15. devilish
 			1. devilishness
 			2. devilshly
-		9. devilfish
-		10. devildom
-		11. devil-may-care
-		12. daredevil
+		16. devilfish
+		17. devildom
+		18. devil-may-care
+		19. daredevil
 			1. daredeviltry
 			2. daredevilry
-		13. bedevil
-			1. bedevilment
-	21. ballute
+		20. bedevil
+			1. vt. 使痛苦；虐待；使苦恼
+			2. [torment](dic://torment), [rag](dic://rag), [crucify](dic://crucify), [dun](dic://dun), [frustrate](dic://frustrate)
+			3. [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [confound](dic://confound), [discombobulate](dic://discombobulate)
+			4. _v._ [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy), [chevy](dic://chevy), [chevvy](dic://chevvy)
+			5. **beset**困扰;**plagued**折磨;**persist**持续，固执;**haunt**常出没于…;**frustrate**使不成功, 挫败, 阻止;**dogged**顽强的;**troublesome**令人烦恼的;**arise**发生;**confront**遭遇;**contend**竞争;**hapless**运气不好的，倒霉的;
+			6.  Domestic woes bedevil the French president, Emmanuel Macron /法国总统埃马纽埃尔·马克龙深受国内问题的困扰。
+			7. This polarisation is Mrs May's legacy-and it will bedevil her successor /这种两极分化是梅遗留下来的问题，也将困扰她的继任者。
+			8. Negotiators from the EU and Britain are grappling with a bedeviled issue of the border on the island of Ireland. /来自欧盟和英国的谈判代表正在努力解决爱尔兰岛边界的棘手问题。
+			9. bedevilment
+	24. ballute
 		1. _[ballute](dic://ballute)_  n. [航] 气球式降落伞
-	22. embolus, emboli
-		1. an abnormal particle (e.g. an air bubble or part of a clot) circulating in the blood
-		2. **clot**凝块;**thrombosis**血栓形成;**aorta**主动脉;**venous**静脉的;**infarction**梗塞;**aneurysm**动脉瘤;**artery**动脉;**ventricle**室,脑室,心室;**catheter**导管;**pulmonary**肺的,肺部的;**lesion**损害;
-		3. _[pulmonary embolus](dic://pulmonary%20embolus)_  肺栓子
-		4. embolism
+	25. embolus, emboli
+		1. em-在...内 + bl-=bol-抛 + -em
+		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
+		3. an abnormal particle (e.g. an air bubble or part of a clot) circulating in the blood
+		4. **clot**凝块;**thrombosis**血栓形成;**aorta**主动脉;**venous**静脉的;**infarction**梗塞;**aneurysm**动脉瘤;**artery**动脉;**ventricle**室,脑室,心室;**catheter**导管;**pulmonary**肺的,肺部的;**lesion**损害;
+		5. _[pulmonary embolus](dic://pulmonary%20embolus)_  肺栓子
+		6. embolism
 			1. [intercalation](dic://intercalation)
 			2. _n._ [time interval](dic://time interval), [interval](dic://interval), [occlusion](dic://occlusion)
 			3. **thrombosis**血栓形成;**hemorrhage**出血;**aneurysm**动脉瘤;**clot**凝块;**infarction**梗塞;**venous**静脉的;**pulmonary**肺的,肺部的;**edema**瘤腺体;**stenosis**狭窄;**rupture**破裂;**coronary**冠状的;
-	23. emblem
+	26. emblem
 		1. n. 象征, 徽章, 符号  vt. 用象征表示
 		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
 		1. [allegory](dic://allegory)
 		2. _n._ [design](dic://design), [pattern](dic://pattern), [figure](dic://figure), [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation)
 		3. **insignia**徽章;**symbol**符号;**logo**商标，徽标;**badge**徽章;**crest**冠;**medallion**大奖章;**emblematic**象征的;**symbols**符号;**iconography**图解,插图;**eagle**鹰;**flag**旗帜，国旗;
-		5. embolise, embolize
-			1. embolisation
-			2. embolization
-		6. emblematize
-		7. emblematist
-		8. emblematic
-	25. problem
-		1. 来自希腊语 problema,难题，问题，来自 proballein,扔在前面，提出难题，来自 pro-,向前，-ball,扔，投掷，词源同 ballistic,parable.
-		2. problematic
-		3. problematical
-		4. subproblem
+		4. Harry noticed the emblem embroidered on their chests: a wand and bone, crossed /一根魔杖与骨头组成的十字。
+		5. But the union gave us this emblem. /但联合王国有这样的纹章。
+		6. It is the last state to unstitch the emblem of the Confederacy from official regalia /这是最后一个从官方徽章上移除邦联徽章的州。
+		7. Ships in peril fill his mind, and those ships become an emblem of the country /那些损毁的船只充斥在他脑海里，渐渐的成为了国家的一种象征。
+		8.  emblematize
+			1. vt. 成为……的标记；象征
+		10. emblematist
+		11. emblematic
+	1. embolise, embolize
+		5. v. （使）栓塞
+		6. embolisation
+		7. embolization
+		8. embolism
+			1. em在...内 + bol-抛 + -ism
+			2. n. 闰日, 栓塞
+			3. _n._ [time interval](dic://time interval), [interval](dic://interval), [occlusion](dic://occlusion)
+			4. **thrombosis**血栓形成;**hemorrhage**出血;**aneurysm**动脉瘤;**clot**凝块;**infarction**梗塞;**venous**静脉的;**pulmonary**肺的,肺部的;**edema**瘤腺体;**stenosis**狭窄;**rupture**破裂;**coronary**冠状的;
+			5. a pulmonary embolism /肺栓塞
+			6. Could be an air embolism. -I got it. /可能是空气栓塞。- 我知道了。
+			7. She had what's called a pulmonary embolism. /她得了肺栓塞。
+			8. Worse, it can result in part of the scar breaking off and causing a stroke or pulmonary embolism. /更糟糕的是，它可能导致部分疤痕脱落，导致中风或肺血栓。
+			9. Embolism is the mobilization of a thrombus, a clot. /栓塞是血栓、血块的活动。
+			10. ecbolic
+				1. pl. 栓子, 栓
+			11. embolus
+				1. n. 栓子, 栓塞物
+	2. problem
+		1. n. 问题, 难题  a. 成问题的, 难处理的
+		2. 来自希腊语 problema,难题，问题，来自 proballein,扔在前面，提出难题，来自 pro-,向前，-ball,扔，投掷，词源同 ballistic,parable.
+		3. problematic
+		4. problematical
+		5. subproblem
 2. **bol-** 这是一组同源词，基本含义表示 swell（扩张）。
 	1. bold
 	2. bole
@@ -1752,7 +2035,7 @@
 		2. _v._ [fail](dic://fail), [go wrong](dic://go wrong), [miscarry](dic://miscarry)
 		3. **daft**愚蠢可笑的;**bugger**家伙;**arse**屁股;**nonsense**谬论;**yer**你的,你们的;**twat**笨蛋;**drivel**淌口水,说傻话;
 	5. bale
-		1. - n. 包；捆；灾祸；不幸 vt. 将……打包
+		1. n. 包；捆；灾祸；不幸 vt. 将……打包
 		2. _n._ [bundle](dic://bundle), [sheaf](dic://sheaf), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center)
 		3. _v._ [roll up](dic://roll up), [collect](dic://collect), [accumulate](dic://accumulate), [pile up](dic://pile up), [amass](dic://amass), [compile](dic://compile), [hoard](dic://hoard)
 		4. **hay**干草;**straw**稻草;**barn**谷仓;**cotton**棉花;**rope**绳，绳索;**manure**施肥于;**alfalfa**紫花苜蓿;**pallets**货盘;**hoop**箍;**pallet**简陋的小床;**cob**雄天鹅;
@@ -1787,7 +2070,7 @@
 		3. **ledge**壁架;**rock**岩石;**sandstone**砂岩;**quarry**采石场;**pebble**卵石;**hill**小山;**cliffs**悬崖，峭壁;**granite**花岗岩;**cliff**绝壁;**limestone**石灰岩;**stone**
 	10. bowl
 	11. bulk
-		1. 1. n. 体积，容量；大块；大多数，大部分vt. 使扩大，使形成大量；使显得重要
+		1. n. 体积，容量；大块；大多数，大部分vt. 使扩大，使形成大量；使显得重要
 		2. [majority](dic://majority)
 		3. [mass](dic://mass), [volume](dic://volume)
 		4. [bulge](dic://bulge)
@@ -1805,10 +2088,20 @@
 		4. She burst into the room with her usual ebullience, and immediately start talking to everyone /她像往常一样兴高采烈地冲进了房间，立刻跟大家攀谈起来。
 		5. And now let's talk about Venice, AKA, the floating city, which has so much rich history, art, architecture, and charm, that it can bring a sort of ebullience to many who visit. /现在让我们谈谈威尼斯，又名水上城市，这座城市拥有着丰富的历史，艺术、建筑和魅力，令许多游客流连忘返。
 	15. ebullient
-	16. ebullition
-	17. follicle
+		1. _adj._ [spirited](dic://spirited)
+		2. _n._ [spiritless](dic://spiritless)
+		3. **exuberant**兴高采烈的;**boisterous**热闹的;**upbeat**上升;**buoyant**有浮力的;**joyous**令人高兴的;**cheerful**高兴的;**energetic**精力充沛的, 充满活力的;**raucous**沙哑的;**enthusiastic**满腔热情的, 热心的;**cheery**愉快的，活泼的;**flamboyant**显眼的, 浮夸的, 炫耀的;
+		4. adj. 热情洋溢的；沸腾的
+		5. I would say somewhere between ebullient and ecstatic. /我想这里的氛围介于兴高采烈和狂喜之间。
+		6. At this he lapsed into ebullient laughter again-and so did I, my suspicions gradually receding /他又发出了一串串的笑声，我也笑了，我的怀疑慢慢被消除。
+		7. " The sloop Anarchy, " wrote an ebullient journalist, " when last heard from was ashore on Union rocks." The First Election. /“无政府状态号单桅帆船， ” 一位热情洋溢的记者写道，“最后一次听到消息是在联合礁上。 ” 第一次选举。
+		8. The Prime Minister was in **ebullient** mood. /首相兴致勃勃。
+	17. ebullition
+	18. follicle
 		1. _n._ [vesicle](dic://vesicle), [cyst](dic://cyst)
 		2. **ovary**子房;**cyst**胞,包囊,膀胱;**hair**头发;**embryo**胚胎;**scalp**头皮;**epithelium**上皮;**ovarian**卵巢的;**ovulation**排卵;**cysts**囊;**uterus**子宫;**gland**腺;
+		3. _hair follicle_ 毛囊
+		4. _follicle stimulating hormone_ 促滤泡激素，促卵泡激素
 3. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
 	1. bolograph
 	2. bolometer
@@ -1832,7 +2125,12 @@
 		9. **idyllic**牧歌的，田园诗的;**picturesque**如画的;**tranquil**安静的，平静的;**serene**平静的;**quaint**离奇有趣的;**countryside**乡下, 农村;**rural**农村的，乡下的;**rustic**乡村的;**lush**丰富的，豪华的;**small-town**偏狭的,小都市的,土里土气的;**secluded**隐退的，隐居的;
 		10. _[bucolic refuge](dic://bucolic%20refuge)_ 世外桃源
 		11. _[bucolic idyllic](dic://bucolic%20idyllic)_ 牧歌的
-		12. bucolically
+		12. We are getting super countryside with bucolic ponds. /我们正在接近拥有田园池塘的超级乡村。
+		13. He was playing a pipe while, in the background, cattle grazed by green palms in some bucolic corner of Cambodia. /牛儿在吃草，背后是柬埔寨某些村落里可见的绿棕榈。
+		14. The bucolic character at Hayslope, you perceive, was not of that entirely genial, merry, broad-grinning sort, apparently observed in most districts visited by artists. /您会发现，干草坡的田园风格并不完全是和蔼可亲、快乐、咧嘴笑的那种， 显然在艺术家访问过的大多数地区都能看到。
+		15. For in those days the keenest of bucolic minds felt a whispering awe at the sight of the gentry, such as of old men felt when they stood on tiptoe to watch the gods passing by in tall human shape /因为在那些日子里，最敏锐的田园精神一看到绅士们就会发出一种低语般的敬畏，就像老人踮起脚尖看着神灵以高大的人形从身边经过时的感觉一样。
+		16. Thorntown’s **bucolic** bliss was thanks to a corporate sponsor, Campbell Soup /斯隆小镇的田园般的欢乐多亏了一家企业的赞助——Campbell soup。
+		17. bucolically
 	5. bugle (bulge _n._ 膨胀, 肿起 _vi._ 膨胀, 凸出, 鼓起)
 		1. 1. _n._ 号角，军号 喇叭
 		2. (装饰女服用的)柱状玻璃(或塑料)小珠 匍匐筋骨草；筋骨草属植物
@@ -1851,8 +2149,8 @@
 			1. _n._ [trumpeter](dic://trumpeter), [cornetist](dic://cornetist)
 			2. **soldier**军人;**trumpeter**号手;**trumpet**喇叭;**sergeant**军士;**colonel**陆军上校;**battalion**营;**trumpets**干脐菇;**regiment**把…编成团;**cavalry**骑兵;**soldiers**士兵;**drummer**鼓手;
 	7. bull
-		1.  [bruiser](dic://bruiser), [strapper](dic://strapper), [Samson](dic://Samson)
-		2.  [bullshit](dic://bullshit), [Irish bull](dic://Irish bull), [horseshit](dic://horseshit), [shit](dic://shit), [crap](dic://crap), [dogshit](dic://dogshit)
+		1. [bruiser](dic://bruiser), [strapper](dic://strapper), [Samson](dic://Samson)
+		2. [bullshit](dic://bullshit), [Irish bull](dic://Irish bull), [horseshit](dic://horseshit), [shit](dic://shit), [crap](dic://crap), [dogshit](dic://dogshit)
 		3. [cop](dic://cop), [copper](dic://copper), [fuzz](dic://fuzz), [pig](dic://pig)
 		4. [Taurus](dic://Taurus)
 		5.  [bull's eye](dic://bull's eye)
@@ -1879,6 +2177,8 @@
 		26. bullring
 		27. bullouus
 		28. bullock
+			1. _n._ [bull](dic://bull), [young mammal](dic://young mammal), [cattle](dic://cattle), [cows](dic://cows), [kine](dic://kine), [oxen](dic://oxen), [Bos taurus](dic://Bos taurus)
+			2. **ox**牛;**donkey**驴子;**cattle**牛;**cow**奶牛，母牛;**bull**公牛;**horse**马;**goat**山羊;**chariot**二轮战车;**mule**骡子;**buffalo**水牛;**lamb**羔羊，小羊;
 		29. bullnecked
 		30. bullish, bullishness
 		31. bullhorn
@@ -1893,39 +2193,46 @@
 		40. bullboat
 		41. bull-roarer
 		42. bull-puncher
-	8. bulimia
-		1. _n._ [eating disorder](dic://eating disorder), [hunger](dic://hunger), [hungriness](dic://hungriness)
-		2. **anorexia**厌食;**dieting**节食;**alcoholism**酒精中毒;**addiction**瘾，吸毒成瘾;**depression**沮丧;**disorder**混乱;**relapse**再度堕落;**binge**狂欢作乐;**obesity**肥大，肥胖;**schizophrenia**精神分裂症;**self-esteem**自尊;
-	9. buffalo
+	8. bulimia (anorexia)
+		1. bu-,牛，此处表强调，词源同 bovine. -lim,饥饿。
+		2. _n._ [eating disorder](dic://eating disorder), [hunger](dic://hunger), [hungriness](dic://hungriness)
+		3. **anorexia**厌食;**dieting**节食;**alcoholism**酒精中毒;**addiction**瘾，吸毒成瘾;**depression**沮丧;**disorder**混乱;**relapse**再度堕落;**binge**狂欢作乐;**obesity**肥大，肥胖;**schizophrenia**精神分裂症;**self-esteem**自尊;
+		4. Bulimia nervosa 神经性暴食症
+		5. People with bulimia are usually normal weight or overweight, whereas people with anorexia are underweight. /暴食症患者通常体重正常或超重，但厌食症患者是体重过轻者。
+		6. The binging and purging cycles associated with bulimia can result in a number of serious side effects /暴食症带来的暴食和排食的循环，可带来一系列严重的后果。
+		7. In addition, individuals with bulimia are at higher risk of developing diabetes mellitus, which makes for a particularly dangerous combination /另外，暴食症患者得糖尿病的风险更高，这两种病的叠加极其危险。
+		8. Well, in some ways, bulimia and anorexia are still addictions /嗯，从某些方面来说，暴食症和厌食症仍然是一种成瘾行为。
+	10. buffalo
 		1.  [American bison](dic://American bison), [American buffalo](dic://American buffalo), [Bison bison](dic://Bison bison)
 		2.  [Old World buffalo](dic://Old World buffalo)
 		3. _n._ [bison](dic://bison), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center), [game](dic://game), [bovid](dic://bovid)
 		4. _v._ [overawe](dic://overawe), [cow](dic://cow)
 		5. **bison**北美野牛;**elk**麋鹿;**cow**奶牛，母牛;**goat**山羊;**moose**驼鹿;**cattle**牛;**deer**鹿，梅花鹿;**chicken**小鸡;**herds**畜群;**cowboys**牛仔;**rhino**钱;
 		6. _water buffalo_ 水牛
-6. **follicul-** = follicle, 表示“小囊”，其中 -icul 是小词后缀。
+5. **follicul-** = follicle, 表示“小囊”，其中 -icul 是小词后缀。
 	1. follicular
 	2. epifolliculitis
 	3. folliculin
 	4. folliculitis
 	5. folliculoma
-7. **phall-** = penis, 表示“阴茎”。源自希腊语 phallos "phallus."
+6. **phall-** = penis, 表示“阴茎”。源自希腊语 phallos "phallus."
 	1. phallus
-		2. 阴茎；阳物之图像；[生]交接器原基（分化后则成为阴蒂或阴茎）
-		3. [genus Phallus](dic://genus Phallus)
-		4.  [penis](dic://penis), [member](dic://member)s
-		5. _n._ [fungus genus](dic://fungus genus), [erectile organ](dic://erectile organ)
-		6. **penis**阳物，阴茎;**vagina**阴道;**dildo**假阴茎;**dick**阴茎;**anus**肛门;**genitals**生殖器;**cock**公鸡;**erect**使竖立;**penile**阴茎的，用阴茎的;**erection**直立;**semen**精液;
-		7. Indeed, she said, it was not a phallus at all, but “Little Louise /诚如她所说，它根本不是一个阳具，而是“小路易丝”。
-		8. phallic
-			1.  [priapic](dic://priapic)
-			2. _adj._ [penis](dic://penis), [phallus](dic://phallus), [member](dic://member), [male](dic://male)
-			3. _n._ [female](dic://female), [androgynous](dic://androgynous)
-			4. **penis**阳物，阴茎;**fleshy**肉的;**pointy**尖的;**grotesque**奇形怪状的;**vagina**阴道;**sexual**性的;**symbolism** 象征主义, 象征手法;**symbolic**使用符号的;**suggestive**提示性的;**genitals**生殖器;**erect**使竖立;
-			5. Sheldon's looking up the phallic symbolism of root vegetables in Renaissance paintings. /谢尔顿正在查阅文艺复兴画作中植物根茎的阳物崇拜符号。
-			6. The next stage is the phallic stage. /下一阶段是阳具阶段。
-			7. Not on the phallic rocket, but anybody else /不是在阳具火箭上，而是在其他任何人身上。
-			8. Okay, so we shall have plenty of alcohol and many phallic party favors. /好的 我们要有很多酒和很多情趣用品。
+		1. 阴茎；阳物之图像；[生]交接器原基（分化后则成为阴蒂或阴茎）
+		2. [genus Phallus](dic://genus Phallus)
+		3.  [penis](dic://penis), [member](dic://member)s
+		4. _n._ [fungus genus](dic://fungus genus), [erectile organ](dic://erectile organ)
+		5. **penis**阳物，阴茎;**vagina**阴道;**dildo**假阴茎;**dick**阴茎;**anus**肛门;**genitals**生殖器;**cock**公鸡;**erect**使竖立;**penile**阴茎的，用阴茎的;**erection**直立;**semen**精液;
+		6. Indeed, she said, it was not a phallus at all, but “Little Louise /诚如她所说，它根本不是一个阳具，而是“小路易丝”。
+		7. phallic
+			1. a. 阴茎的, 生殖器的, 阳物崇拜的
+			2.  [priapic](dic://priapic)
+			3. _adj._ [penis](dic://penis), [phallus](dic://phallus), [member](dic://member), [male](dic://male)
+			4. _n._ [female](dic://female), [androgynous](dic://androgynous)
+			5. **penis**阳物，阴茎;**fleshy**肉的;**pointy**尖的;**grotesque**奇形怪状的;**vagina**阴道;**sexual**性的;**symbolism** 象征主义, 象征手法;**symbolic**使用符号的;**suggestive**提示性的;**genitals**生殖器;**erect**使竖立;
+			6. Sheldon's looking up the phallic symbolism of root vegetables in Renaissance paintings. /谢尔顿正在查阅文艺复兴画作中植物根茎的阳物崇拜符号。
+			7. The next stage is the phallic stage. /下一阶段是阳具阶段。
+			8. Not on the phallic rocket, but anybody else /不是在阳具火箭上，而是在其他任何人身上。
+			9. Okay, so we shall have plenty of alcohol and many phallic party favors. /好的 我们要有很多酒和很多情趣用品。
 		9. microphallus
 		10. macrophallus
 		11. hydrophallus
@@ -1934,9 +2241,13 @@
 		1. _[ithyphallic](dic://ithyphallic)_  猥亵的诗; 猥亵诗的;
 	3. phallocampsis
 	4. phallocrypsis
-8. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
-	1. etc..
-9. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
+7. **phell-** = cork, 表示“栓塞”。源自希腊语 phellos "cork."
+	1. phellem
+		1. n. 木栓层
+	2. phelloderm
+	3. phellogen
+		1. n. 木栓形成层
+8. **phleb-** = vein, 表示“静脉”，用于医学词汇。源自希腊语 phlebos "vein."
 	1. phlebitis
 		1. _[phlebitis](dic://phlebitis)_  n. [内科] 静脉炎
 		2. _n._ [inflammation](dic://inflammation), [redness](dic://redness), [rubor](dic://rubor)
@@ -1946,8 +2257,8 @@
 	5. phlebotomy
 		1. _[phlebotomy](dic://phlebotomy)_  n. 刺骼；放血
 	6. arteriophlebotomy
-10. fool
-11. billow （pillow, willow）
+9. fool
+10. billow （pillow, willow）
 	1. 词源同 ball,球，鼓起。
 	2. n. 巨浪  
 	3. vi. 象巨浪般汹涌, 象巨浪般波动  
@@ -2153,7 +2464,23 @@
 		13. a portfolio that is tempered to the investor's needs /调整得适合投资者需求的有价证券
 	6. dihydrofolic
 1. **phyll-, phyllo-** = leaf, 表示“叶”。源自于希腊语 phyllon "leaf"
-	1. etc...
+	1. phyllome
+	2. carpophyll
+	3. chlorophyll
+	4. chlorophyllite
+	5. erythrophyll
+	6. phylloxera
+	7. podophyllin
+	8. tetraphyllos
+	9. chlorophyll
+		1. _n._ [pigment](dic://pigment)
+		2. **photosynthesis**光合作用;**nutrient**营养物;**algae**藻类;**pigments**颜料，染料;**antioxidant**抗氧化剂;**fluorescence**发荧光;**pigment**颜料;**nitrogen**氮;**glutathione**谷胱甘肽;**hemoglobin**血红素;**biomass**生物量;
+		3. Chlorophyll is produced by the action of light on the plants’ leaves. /光对植物的叶子发生作用从而产生叶绿素。
+		4. This paper investigated the technics of chlorophyll abstraction from spinage and the synthesis of chlorophyllous zinc sodium /摘要文章研究了从天然植物中提取叶绿素的方法和叶绿素锌钠盐制备的工艺。
+		5. The DL spectrum of Lagerstroemia speciosa lamin a is more complex than the fluorescence spectrum of exsomatize chlorophyll and the former contains more physiological message /叶片的延迟发光光谱比离体叶绿素荧光光谱复杂，延迟发光光谱包含有更多的生理学信息。
+	10. dasyphyllous
+	11. Phylloxera
+	12. xanthophyl
 2. blade
 3. blood
 4. bleed
@@ -2171,7 +2498,7 @@
 	4. _n._ [curse](dic://curse), [beshrew](dic://beshrew), [damn](dic://damn), [bedamn](dic://bedamn), [anathemize](dic://anathemize), [anathemise](dic://anathemise), [imprecate](dic://imprecate)
 	5. **pray**祈祷;**thank**感谢;**prayers**祈祷;**praying**祈祷;**thankful**感谢的;**dear**亲爱的;**prays**祈求;**grateful**感谢的;**thanking**致谢，感谢;**hope**希望;**almighty**全能的;
 	6. _god bless_ 上帝保佑
-7. bloom
+6. bloom
 
 
 ### + ⭐ \*bhendh- + = to bind
@@ -3342,7 +3669,7 @@
 		7. Now let’s have a look at some other everyday items that are usually verboten in the penitentiary. /现在让我们来看看监狱中通常禁止使用的其他一些日常用品。
 
 
-### + \*bheue- +
+### ⭐ + \*bheue- +
 1. **-phyma** = a swelling, tumor, 表示“肿，肿瘤”。源自希腊语 phyma "a growth, tumor."
 	1. arthrophyma
 		1. arthro-关节 + -phyma, 肿
@@ -3381,7 +3708,7 @@
 		3. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
 		4. **medicine**药;**alchemy**点金术;**botany**植物学;**geometry**几何学;**psychic**精神的;**metaphysics**形而上学,玄学;**physiology**生理学;**potions**药剂，药水;**science**科学;**maths**数学;**mathematical**数学的;
 	2. physical
-		1. 1 - 来自 physic,自然科学，-al,形容词后缀。引申词义大自然的，自然界的，物质的，身体的，肉体的，躯体的，物理的等。
+		1. 来自 physic,自然科学，-al,形容词后缀。引申词义大自然的，自然界的，物质的，身体的，肉体的，躯体的，物理的等。
 	3. physician
 		1. physic【医学，医冶】 + -ian , 人。
 	4. physiolatry
@@ -3397,7 +3724,8 @@
 		7. _anatomy and physiology_ 解剖生理学；解剖学与生理学
 		8. _exercise physiology_ 运动生理学；运动生物学
 		9. _cell physiology_ 细胞生理学
-		10. pathophysiological
+		10. physiological
+		11. pathophysiological
 			1. a. 病理生理学的
 			2. patho-感情 + physio-自然 + -logical...科学
 	7. physics
@@ -3490,6 +3818,15 @@
 13. build
 	1. 1 - 来自 PIE*bheue,存在，生长，居住。词源同 booth,bothy.
 14. fiat
+	1. n. 命令；许可；政法 /vt. 批准；颁布
+	3. a legally binding command or decision entered on the court record (as if issued by a court or judge)
+		1. _synonymous：_ [decree](dic://decree), [edict](dic://edict), [order](dic://order), [rescript](dic://rescript)
+	4. _n._ [act](dic://act), [enactment](dic://enactment)
+	5. **currency**货币;**monetary**财政的;**coinage**造币;**sovereign**元首;
+	6. The forces were interchangeable if not reversible, but he could see only an absolute fiat in electricity as in faith. /这些力即使不可逆也是可以互换的， 但他只能看到电力和信仰一样的绝对命令。
+	7. And gold is the perfect thing to do that because you look around and the euro as another fiat currency holds the same risks. /黄金是做到这一点的完美之选， 因为环顾四周， 欧元作为另一种法定货币也面临着同样的风险。
+	8. It indicates a spontaneous, Promethean rebelliousness against that fiat that this recurrent season shall bring foul times, cold darkness, misery and death /一年一度的冬季把冷风凄雨、晦冥昏暗、愁苦死亡带到世间。人们点燃篝火，就是一种自发的、普罗米修斯型的叛逆习俗，来反抗这种节令。
+	9. It is the fiat of fate, from which no power of genius can absolve you. /命运法则旨在于此，没有任何天才可以逃逸或逃离其外。
 15. future
 	1. 自拉丁语 futurus,将来，未来，来自 PIE*bheue,存在，是，词源同 be,physic.
 16. huband

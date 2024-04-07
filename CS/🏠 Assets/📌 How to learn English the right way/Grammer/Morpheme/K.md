@@ -2,6 +2,13 @@
 ### + \*ka- +
 1. **car-, char-** = dear, 表示“可爱的”。源自拉丁语 carus "dear."
 	1. charismatic
+		1. charisma（领袖气质）：神授的非凡才能  
+		2. 英语单词charisma本是一个基督教专用术语，指某些基督徒因为蒙受神恩而被赋予的一种天赋，如医治病人、说各种方言、展现神迹等，出于《圣经•新约》的《哥林多前书》。古时人们对一些基督徒身上展现出来的异于常人的才能感到不可思议，因此解释为神的恩惠。
+		3. 20世纪初，社会学家韦伯（Max Weber）将该词引入社会学领域，提出了“魅力型领导理论”，指领导者利用其自身的魅力（charisma）鼓励追随者并作出重大组织变革的一种领导理论。在这里，charisma指的是领导者对下属的一种天然的吸引力、感染力和影响力。因此，charisma一词超越神学界，在社会中得到广泛应用，常常用来形容某些人尤其是国家领袖身上的那种非凡魅力。
+		4. charisma： [kə'rɪzmə] n.领袖气质，非凡魅力，非凡的领导力
+			1. charisma - charisma在17世纪是一个纯粹的神学术语，20世纪中期被社会学家政治化，以后经记者和政治家一再使用成了一个时髦词（vogue word），不时在报刊上露面。20世纪60年代肯尼迪（John F. Kennedy, 1917-1963）任美国总统时，记者屡屡用charisma一词来形容肯尼迪所具有的那种领袖人物的非凡魅力，使该词在大众传播媒介中一下子流行了起来。  
+			2. 该词借自希腊语，原希腊词最早见于《圣经·新约》的希腊文译本，常以复数形式charismata出现，用以指“神授的超凡能力”（如能治病、预言等）。17世纪时英语从希腊语借用了这个神学术语，作charism, 1875年开始拼作charisma，最后后者成了较为常用的拼写形式。几个世纪以来，charisma一直用于宗教意义，就是说只用来形容摩西、耶稣等非凡的宗教人物。这个词的今义“神秘的个人魅力”始用于20世纪德国社会学家韦伯（Max Weber, 1864-1920）死后出版的著作《论经济和社会法》（Wirtschaftund Gesellschaft）。该书直到1947年才译成英语。charisma的这一世俗用法被社会学家所广为接受。到了20世纪60年代，charisma一词又被广泛用来形容领袖人物的领袖气质和个人魅力。今天似乎有一种将charisma的词义进一步扩大化的趋向，把它用作appeal（吸引力）或magnetism（吸引力，魅力）的同义词。除了具有非凡魅力的政治领袖之外，各类名人，包括福音传道者、影星、运动员、将军和作家等，皆可用charisma一词来形容。一些评论家强烈批评将charisma通俗化的这一做法，然而，一个词使用多了，其结果往往是会导致词义的扩大或一般化的。
+		5. charismatic：[,kærɪz'mætɪk] adj. 超凡魅力的；神赐能力的
 	2. charity
 	3. charlady
 	4. cherish
@@ -11,20 +18,64 @@
 
 ### + \*kae-id- + = to cut, hew
 1. **cid-, cis-** = cut, kill, 表示“切开，杀”。也可用于词尾表示“杀，切断”，形式为 -cide。源自拉丁语 caedere "to cut."
-	1. circumcise
-	2. concise
-	3. concision
-	4. decide
-	5. deicide
-	6. exicde
-	7. excise
-	8. incise
-		1. incisor
-		2. incision
-		3. incisal
-		4. incised
-		5. incisure
-		6. incisive
+	1. abscise (excise, excide)
+		1. vt. 切除 vi. 脱离；被切除
+		2. _v._ [shed](dic://shed), [cast](dic://cast), [cast off](dic://cast off), [shake off](dic://shake off), [throw](dic://throw), [throw off](dic://throw off), [throw away](dic://throw away)
+		3. abscissa
+			1. n. [数][天] 横坐标；横线
+			2. the value of a coordinate on the horizontal axis
+			3. _n._ [Cartesian coordinate](dic://Cartesian coordinate)
+			4. **graph**图表;**axis**轴;**amplitude**广阔;**normalized**正火的;
+		5. abscission
+			1. _n._ [shedding](dic://shedding), [sloughing](dic://sloughing), [removal](dic://removal), [remotion](dic://remotion)
+			2. **apoptosis**细胞死;**elongation**延伸;**germination**萌芽,发生;**biosynthesis**生物合成;**flowering**开花的;**photosynthesis**光合作用;**maturation**化脓;**fertilization**受精, 受胎;**bud**芽，萌芽;**pruning**修剪;**necrosis**坏死;
+			3. That's actually part of a process known as abscission, where most deciduous trees shed their leaves after their colors change from a loss of chlorophyll, the chemical that's involved in photosynthesis. /这实际上是称为脱落的过程的一部分，大多数落叶树在颜色因叶绿素损失而改变后脱落，叶绿素是参与光合作用的化学物质。
+	2. circumcise
+		1. vt. 割除...的包皮, 对...进行环切术, 割除...的阴蒂, 净(心)
+		2. _v._ [cut](dic://cut), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+		3. **genitals**生殖器;**genital**生殖的;
+		4. So circumcise your heart, and stiffen your neck no longer. /所以你们要将心里的污秽除掉，不可再硬着颈项。
+		5. And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you /你们都要受割礼．〔受割礼原文作割阳皮十四二十三二十四二十五节同〕这是我与你们立约的证据。
+		6. And some protective behaviors-such as condom use-increased, particularly among circumcised men /而一些保护行为，诸如尤其接受手术的男性增加了使用安全套的意识。
+		7. The Jewish Torah, however, is inconveniently specific: God told Abraham to circumcisehis heirs on the eighth day. /然而，犹太律法则明确规定：神吩咐亚伯拉罕，在其子嗣出生第八天时为他们行割礼。
+	3. concise
+		1. a. 简洁的, 简明的
+		2. con-加强 + cis-切 + -e → 切掉多余的 → 简明的。
+		3. concision
+	4. excise
+		1. n. (烟、酒等)消费税, 货物税, 国产税  vt. 切除
+		2. ex-外 + cis-切 + -e → 切出 → 切除。
+		3. 来自拉丁语 accensum,评估，估税，来自 cens-,评估，审查，词源同 census.因词义与 excise有所重合，因而拼写受 excise影响俗化。  
+		4. ex-,向外，-cis,砍，切，词源同 decide,circumcise.
+		5.  [excise tax](dic://excise tax) 
+		6.  [strike](dic://strike), [scratch](dic://scratch), [expunge](dic://expunge)
+		7. _n._ [indirect tax](dic://indirect tax)
+		8. _v._ [delete](dic://delete), [cancel](dic://cancel), [tax](dic://tax), [cut out](dic://cut out)
+		9. **tax**向…课税;**levy**征收;**taxes**赋税;**taxation**课税，征税;**imposition**强加,被迫接受;**tariff**关税表;**import**输入;**exemption**免除;**GST**格林威治恒星时;**exempt**免除;**taxing**费力的;
+		10. _excise tax_ 消费税；特许权税
+		11. _excise office_ 税务署
+		12. the rate of excise duty on spirits. /酒税税率。
+		13.  excised goods /征税商品。
+		14. excised the tumor; excised two scenes from the film. /切掉一个肿瘤；切掉电影中两个场景
+		15. Customs and excise receipts rose 2.5 per cent. /关税及消费税收入提高了2.5%。
+	5. incise
+		1. vt. 切割, 雕刻
+		2. in-进入，使 + cis-切，砍，刻 + -e。词源同 excise,circumcise.
+		3. _v._ [cut](dic://cut)
+		4. **carve**雕刻;**suture**缝合;**etch**蚀刻;
+		5. a button incised with a skull /雕饰着头骨的纽扣。
+		6. the wound was incised and drained. /伤口被切开，脓液被排出。
+		7. the incised margin of a leaf. /叶片的锯齿状边缘
+		8. incised the tablet with chisels; a plateau that had been deeply incised by streams. /用凿子凿石桌；被河流划出深深沟壑的高原
+		9. figures incised on upright stones. /雕刻在竖立石块上的图形。
+		10. His name was incised on the stone. /他的名字刻在了石头上。
+		11. Flexible and sharp, it can incise, expose, exenterate and heal. /它灵活多变又清晰明确，能雕刻、能揭露、能清洁、能治愈。
+		12. incisor
+		13. incision
+		14. incisal
+		15. incised
+		16. incisure
+		17. incisive
 			1. in-进入 + cis-切开 + -ive, 表形容词 → 切人的 → 一针见血的，是单词incise 派生的形容词。
 			2. a. 敏锐的, 机敏的, 激烈的, 切入的, 锋利的
 			3. [acute](dic://acute), [discriminating](dic://discriminating), [keen](dic://keen), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
@@ -40,77 +91,169 @@
 			13. a trenchant argument. /a biting aphorism./a crisp reply./a cutting remark.
 			14. the narrative is bookended by a pair of incisive essays. /这篇叙述文头尾部分都有深刻的短论。
 			15. an incisive and piquant style of writing; /锋利、辛辣的写作风格；
-	9. precis
-	10. precise
-	11. recision
-	12. abscise
-		1. abscissa
-		2. abscission
-	13. aminocidin
-	14. cement
-	15. cementite
-	16. chisel
+	6. precis
+		1. n. 摘要, 梗概, 大意, 概要  
+		2. vt. 摘...的要点, 写...的大意
+		3. pre-预先 + cis-剪，切 → 摘要，大纲。
+		4. a sketchy summary of the main points of an argument or theory
+			1. [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract)
+		5. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
+		6. _v._ [sum up](dic://sum up), [summarize](dic://summarize), [summarise](dic://summarise), [resume](dic://resume)
+		7. **succinct**简洁的;**concise**简明的，简洁的;**summary**扼要的;**gist**主旨，要点;**synopsis**概要，大纲;**brief**简短的，简洁的;**compendium**摘要,纲要;**essay**散文;**summation**总和,加在一起;**rebuttal**反驳;**summarize**总结, 概述;
+		8. Precis this chapter in two pages. /用两页写出这一章的大意。
+		9. a precis aims to express a passage more economically /提要就是要将一段文章更加简洁地表达出来。
+		10. I suppose further that you need a **precis** of the idea so you can decide whether the suggestion is feasible and warrants more exploration. /我进一步假设您需要有一个大致的想法，以使得您可以决定那个建议是否切实可行而且确保深入的研究。
+	7. precise
+		1. a. 精确的, 严谨的, 明确的
+		2. pre-向前 + cis-切，雕刻 + -e → 向前雕刻，继续雕刻 → 精确的。
+		3. _adj._ [dead](dic://dead), [fine](dic://fine), [finespun](dic://finespun), [hairsplitting](dic://hairsplitting), [meticulous](dic://meticulous), [punctilious](dic://punctilious), [microscopic](dic://microscopic)
+		4. _n._ [imprecise](dic://imprecise), [incorrect](dic://incorrect), [wrong](dic://wrong)
+			1. [accurate](dic://accurate) 指通过谨慎的努力达到符合事实或实际，侧重不同程度的准确性，与事实无出入。
+			2. [exact](dic://exact) 着重在质与量方面的准确，语气比accurate强。
+			3. [precise](dic://precise) 侧重极端准确，更强调细节的精确无误。  
+			4. [right](dic://right) 使用广泛，可与这些词中的correct换用，但常暗示道德、理解、行动等方面的正确。
+			5. [true](dic://true) 暗指绝对准确，尤指复制品与原件丝毫不差。
+			6. [correct](dic://correct) 最常用词，主要指按一定标准或规则来衡量，没有谬误和差错或无缺点错误。
+		5. **accurate**精确的, 准确的，正确无误的;**exact**精确的;**meticulous**极仔细的;**concise**简明的，简洁的;**pinpoint**查明;**detailed**详细的，精细的;**succinct**简洁的;**exacting**苛求的;**nuanced**微妙的;**proper**适当的;**straightforward**正直的, 坦率的;
+		6. presicion
+			1. _n._ [exactness](dic://exactness), [exactitude](dic://exactitude)
+			2. _n._ [impreciseness](dic://impreciseness), [imprecision](dic://imprecision)
+			3. **accuracy**精确度，准确性;**finesse**纤细;**dexterity**灵巧;**subtlety**微妙;**craftsmanship**技巧;**smoothness**平滑;**exacting**苛求的;**meticulous**极仔细的;**clarity**清楚，明晰;**artistry**艺术性;**machining**加工;
+	8. recision
+		1. n. 取消, 废除
+	9. cement
+		1. [cementum](dic://cementum)
+		2. _n._ [concrete](dic://concrete), [building material](dic://building material), [adhesive material](dic://adhesive material), [adhesive agent](dic://adhesive agent), [adhesive](dic://adhesive), [filling](dic://filling), [fill](dic://fill)
+		3. _v._ [bind](dic://bind), [coat](dic://coat), [surface](dic://surface), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
+		4. **concrete**实在的，具体的;**plaster**灰泥;**bricks**砖块;**slurry**泥浆;**limestone**石灰岩;**asphalt**沥青;**masonry**石工行业;**brick**砖，砖块;**grout**用薄泥浆填塞;**slab**厚片;**slabs**平板;
+		5. The cement is barreled. /水泥已经装桶了。
+		6. cement a concrete floor /在混凝土地面上涂以水泥
+		7. Let's cement the parts together. /咱们来把这些部件粘接在一起吧
+		8. The cement plant is going full blast. /水泥厂正大力发展生产。
+	10. cementite
+		1. cement【水泥】 + -ite
+		2. _n._ 渗碳体,碳化铁
+	11. chisel
 		1. **hammer**敲打;**carving**雕刻;**screwdriver**螺丝起子;**carve**雕刻;**lathe**用车床加工;**knife**刀;**axe**斧;**blade**刀片，刀锋;**hammers**锤子;**pliers**钳子;**stone**石头;
 		2. [edge tool](dic://edge tool)
 		3. [deceive](dic://deceive), [lead on](dic://lead on), [delude](dic://delude), [cozen](dic://cozen), [victimize](dic://victimize), [victimise](dic://victimise), [carve](dic://carve)
 		4. [cheat](dic://cheat)
 		5. [cheat](dic://cheat), [rip off](dic://rip off)
 		6. chiseled face
-	17. cisgender
-	18. cissexual
-	19. gancidin
-		1. hadicidin
-		2. methocidin
-		3. mitecidin
-		4. mycocidal
-		5. mycocidin
-		6. rhodocidin
-		7. takacidin
-		8. valacidin
-	20. vibriocidal
-	21. tumoricidal
-	22. aborticide
+		7. _chisel edge_ （钻头）横刃；凿锋
+		8. hollow chisel mortiser /角凿机
+		9. carefully chisel a recess inside the pencil line /仔细在铅笔线以内凿一道凹槽。
+		10. always tries to chisel in on our conversations. /总是不识相地插进我们的交谈
+		11. This chisel is useful for getting into awkward spaces /这凿子在要伸入到犄角儿里时十分有用。
+		12. The electrician chiseled a hole in the wall to fit a door bell /电工在墙上凿了个孔,以便装上门铃。
+		13. Camille used a hammer and chisel to carve out a figure from the marble /卡米尔用锤子和凿子将大理石雕刻出一个人像。
+		14. Contouring is pretty much the must-have, you just want a really really chiseled face /修容基本上是美式妆容必不可少的了，要的是那种轮廓分明的脸颊。
+		15. But living things are not chiseled. /但活的东西不是被凿出来的。
+	12. cisgender
+		1. n. 顺性别, 个人的生理性别与其行为或其扮演的角色完全匹配
+		2. cissexual
+	13. aminocidin
+		1. _[aminocidin](dic://aminocidin)_ 氨基杀菌素
+	14. gancidin
+		1. _n._ 灭癌素
+	15. hadicidin
+		1. n. 哈迪杀菌素
+	16. methocidin
+	17. mitecidin
+	18. mycocidal
+	19. mycocidin
+	20. rhodocidin
+	21. takacidin
+	22. valacidin
+	23. aborticide
 		1. bactericide
+			1. bacteri-细菌 + cid-杀 + -e
 		2. biocide
-		3. feticide
-		4. filicide
-		5. fratricide
-		6. fungicide
-		7. genocide
-			1. genocidal
-		8. germicide
-		9. herbicide
-		10. homicide
-		11. infanticide
-		12. insecticide
-		13. larvicide
-		14. matricide
-		15. miticide
-		16. mosquitocide
-		17. parassiticide
-		18. parricide
-		19. patricide
-		20. pesticide
-		21. phytocide
-		22. raticide
-		23. regicide
-		24. rodenticide
-		25. sororicide
-		26. sporicidal
-		27. sporicide
-		28. suicide
-		29. tickicide
-		30. tyrannicide
-		31. uxoricide
-		32. verbicide
-		33. vermicidal
-		34. vermicide
-		35. viricide
-		36. virucide
-		37. vulpicide
-		38. weedicide
-		39. algaecide
-		40. arboricides
+			1. n. 杀虫剂
+		3. decide
+			1. de-加强 + cid-切 + -e → 切下去 → 下决心。
+		4. deicide
+			1. n. 杀神
+			2. dei-神 + cid-杀 + -e
+		5. exicde
+			1. vt. 切开, 切除
+			2. ex-离开 + cid-切开 + -e
+		6. feticide
+			1. n. 杀害胎儿, 堕胎
+			2. fet-胎儿 + -i- + cid-杀 + -e
+		7. filicide
+			1. fili-子女 + cid-杀 + -e
+			2. affiliate（使附属）：古罗马人收养儿子的做法  
+			3. 古罗马实行长子继承制。为了避免死后无人继承财产，没有儿子的人一般会收养一名养子，连罗马皇帝也大量采用这种方法。罗马第一个皇帝屋大维本是凯撒的侄孙，后被凯撒选为继承人，成为其养子。屋大维死后由养子提比略继承皇位。五贤帝期间，由于没有儿子，前四个皇帝都是选择贤良之士作为自己的继承人，以养子身份继承皇位。直到第五个皇帝，即伟大的哲学家皇帝马可•奥里略，他死后由亲生儿子康茂德即位（即好莱坞大片《角斗士》里面那个弑父夺位的皇帝）。康茂德残暴无能，五贤帝所创立的黄金时代一去不复返。  
+			4. 在拉丁语中，表示“领养”的单词是affiliare，由ad（to）+filius（son）组合而成，字面意思就是“使其成为儿子”。filius（son）就是英语词根fili-（子女）的词源。  
+			5. 英语单词affiliate就源自拉丁语affiliare，原意是“收养儿子”，后来衍生出“接纳、使成为附属”之意。  
+			6. fili-：子女，儿子，分支 
+				1. affiliate： [ə'fɪlɪeɪt] vt.使附属，接纳，使紧密联系vi.参加，加入，发生联系n.联号，隶属机构
+				2. affiliation：[əfɪlɪ'eɪʃ(ə)n] n.加入，联盟，从属关系，友好关系
+				3. filial： ['fɪlɪəl] adj.孝顺的，子女的，当做子女的
+				4. filiation：[,fɪlɪ'eʃən] n. 父子关系；起源；私生子父亲之鉴定；分支
+				5. filiale： ['faɪlɪæl] n.子公司，分公司
+				6. filicide： ['fɪlə,saɪd] n. 杀子女者
+		8. fratricide
+			1. n. 兄弟杀害的行为, 杀害兄弟者
+			2. fratri-兄弟 + cid-杀 + -e
+		9. fungicide
+			1. n. 杀真菌剂
+			2. fungi-菌 + cid-杀 + -e。
+		10. genocide
+			1. genocide - genocide乃希腊语génos 'race'（种族）与源于拉丁语的组合语素-cide（杀）之结合体，意为“种族灭绝”或“灭绝种族的大屠杀”。该词为美国杜克大学（Duke University）教授莱姆金（Rapael Lemkin）所杜撰，1945年用于对纳粹战犯的正式起诉书中。三年后，联合国通过一项公约，宣布genocide为违反国际法的一种罪行。
+			2. genocidal
+				1. a. 种族灭绝的
+		12. germicide
+			1. germ【细菌】 + -i- + cid-杀 + -e
+		13. herbicide
+			1. herbi-草 + cid-杀 + -e
+		14. homicide
+			1. 来自拉丁语 homo,人，-cid,杀，词源同 herbicide.
+			2. homi-人 + cid-杀 + -e
+		15. infanticide
+		16. insecticide
+		17. larvicide
+		18. matricide
+		19. miticide
+			1. n. 杀螨药
+		20. mosquitocide
+		21. parassiticide
+		22. parricide
+		23. patricide
+		24. pesticide
+		25. phytocide
+		26. raticide
+			1. n. 杀鼠药, 灭鼠药
+		27. regicide
+			1. n. 弑君
+		28. rodenticide
+		29. sororicide
+		30. sporicide
+			1. sporicidal
+		31. suicide
+			1. sui-自己 + cid-杀 + -e
+		32. tickicide
+			1. n. 杀蜱药
+		33. tyrannicide
+			1. n. 诛弑暴君, 诛杀暴君者
+		34. uxoricide
+			1. n. 杀妻, 杀妻者
+			2. uxor-妻子 + -i- + cid-杀 + -e
+		35. verbicide
+			1. n. 滥用词语, 糟蹋词语, 滥用词语者, 糟蹋词语者
+		36. vermicide
+			1. vermicidal
+		37. viricide /virucide
+			1. n. 杀病毒剂
+		38. vulpicide
+			1. n. 杀狐
+		39. weedicide
+		40. algaecide
+		41. arboricides
+		42. vibriocidal
+			1. a. 杀弧菌的
+		43. tumoricidal
 2. Caesar
 3. caesura
 4. scissor
@@ -196,7 +339,7 @@
 	7. 
 
 
-### + \*kamp- +
+### ⭐ + \*kamp- +
 1. **camp-** = field, 表示“田野”。
 	1. champaign
 		1. **champagne**香槟酒;**bottle**瓶子;**wine**酒，葡萄酒;**bottles**瓶子;**toast**烤面包;**scotch**弄伤;**glass**玻璃;**cork**软木;**brandy**白兰地酒;**bubbly**起泡的;
@@ -1243,7 +1386,7 @@
 
 
 ### + \*kar +
-#### + \*kar- (1) + = hard
+#### ⭐ + \*kar- (1) + = hard
 1. **-ard** = 表名词，“不好的人”。源自日耳曼语 *-hart, *-hard "hold, hardy."
 	1. bastard
 		1. bastard（私生子）：诞生于驮鞍之上的孩子  
@@ -1726,8 +1869,8 @@
 	1. v. 被称为... 的
 
 
-### ⭐ + \*kel- +
-#### + \*kel- (1) +
+### + \*kel- +
+#### ⭐ + \*kel- (1) +
 1. **-clasia, -clasis** = break, 表示“破碎”。源自希腊语klasis "breaking"，源自 klan "to break"【webster】。
 	1. iconoclasm
 	2. plagioclase
@@ -1797,7 +1940,7 @@
 12. halt
 13. holt
 	1. _[holt](dic://holt)_  n. 小林；林丘；杂木林; n. (Holt)人名；(英、德、罗、匈、瑞典)霍尔特；(法、西)奥尔特
-#### + \*kel- (2) + = to conceal
+#### ⭐ + \*kel- (2) + = to conceal
 1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
 	1. apocalypse
 	2. apocalyptic, apocalyptical
@@ -2254,7 +2397,7 @@
 #### + \*ken- (1) +
 1. **con-**= set oneself in motion, 表示“处于活动状态”。
 	1. conation
-		1. 1 - 来自 PIE*ken,运，移动，努力，词源同 cinema,deacon.
+		1. 来自 PIE*ken,运，移动，努力，词源同 cinema,deacon.
 		2. _[conation](dic://conation)_  n. [心理] 意动；努力；乞求
 		3. **emotion-conation**:  情感 
 		4. **Law of conation**:  意动律 
@@ -2381,7 +2524,7 @@
 	4. Cestoda
 
 
-### + \*(s)kep- +
+### ⭐ + \*(s)kep- +
 1. **-scape** 表示“风光”，原指地形地貌。来自 shape。源自荷兰语 -schap, -ship "condition."
 	1. airscape
 	2. cityscape
@@ -2452,7 +2595,7 @@
 
 
 ### + \*ker- +
-#### + \*ker- (1) + = horn, head
+#### ⭐ + \*ker- (1) + = horn, head
 1. **carot-** = 表示“颈动脉；睡眠”。压迫两侧颈动脉，就可能因为刺激颈动脉窦导致人失去知觉，就像睡着了一样。源自希腊语 karoun "to supefy, be stupefied."
 	1. carotic
 		1. adj. 恍惚的，昏迷的
@@ -2745,7 +2888,7 @@
 	2. _n._ [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck), [scrap](dic://scrap)
 	3. **mites**螨虫类;**lice**虱子;**rashes**发疹，疹;**rust**锈;**sores**褥疮;**blight**枯萎病;**dermatitis**皮肤炎;**pimples**丘疹，面疱;**fungus**真菌，霉菌;**eczema**湿疹;**mildew**霉
 11. shore
-#### + \*ker- (3)+ = to grow
+#### ⭐ + \*ker- (3)+ = to grow
 1. **cor-** = boy, girl, 「Greeks」koros, "boy, sun"; kore "girl"
 	1. hypocorism
 	2. hypocoristic
@@ -3265,7 +3408,7 @@
 
 
 ### + \*kers- +
-#### + \*kers- (2) + = to run
+#### ⭐ + \*kers- (2) + = to run
 1. **car-** = car, 表示“车”，引申为“跑，携带，运输”等。源自拉丁语 carrus "a two-wheeled carriage."
 	1. car
 		1. car - car源于凯尔特语中的一个词，这个词在凯撒大帝听来就像karra，于是他就把两轮战车和马车称作karra。以后karra拉丁化为carra/carrus。car（一度作carre）约在1300年首次出现于英语，是通过法语从拉丁语演化而来的，最初指运货马车或大车。到了19世纪中期，car只是在诗中作为chariot（战车）的同义词用。19世纪末期，英国英语用motorcar一词来指“汽车”，但是没过多久该词就被缩略为car。英语的另一个词carriage（马车），究其根源也是出自拉丁语carrus。火车发明后，美国人用car来指“载客车厢”，用于此义的car可以看成是carriage的缩略形式。可见car本是一个行将就木的词，现代科学技术给它注入了活力，使它重新获得了新生。与car，carriage同出一源的英语单词还有chariot（马拉战车），carry（运载），career（生涯），charge（负荷，装满）等。
@@ -4003,7 +4146,7 @@
 	4. **suppress**抑制;**dismiss**离开;**stifle**使窒息;**quell**镇压;**thwart**反对;**overturn**推翻;**oust**剥夺;**curtail**截断, 缩短;**undermine**在某物下挖洞或挖通道;**compel**强迫，迫使;**discredit**败坏…的名声;
 
 
-### + \*(s)keu- + = to cover, conceal
+### ⭐ + \*(s)keu- + = to cover, conceal
 1. **coil-, cul-** = 表示“后面、底部”源自拉丁语 culus "the rump, backside."
 	1. recoil
 		1. [kick](dic://kick)
@@ -4178,42 +4321,256 @@
 ### + \*keue- + = to swell, vault, hole, arch, cavity
 1. **cav-** = hole
 	1. cave
-	2. cavelet
-	3. caveman
-	4. cavern
-	5. cavitation
-	6. concave
+		1. vt. 使凹陷，使塌落；在…挖洞穴
+		2. vi. 凹陷，塌落；投降
+		3. n. 洞穴，窑洞
+		4. int. <英，俚>当心！
+		5. [undermine](dic://undermine)
+		6. [spelunk](dic://spelunk)
+		7. _n._ [geological formation](dic://geological formation), [formation](dic://formation)
+		8. _v._ [hollow](dic://hollow), [hollow out](dic://hollow out), [core out](dic://core out), [explore](dic://explore)
+			1. [hole](dic://hole) 最普通用词，泛指实体上的洞、孔或坑，不涉及其大小、深浅或穿透与否。  
+			2. [cave](dic://cave) 指出洞、窑洞或溶洞，可以是天然的或人造的。  
+			3. [cavity](dic://cavity) 比hole正式，指实体内中或表面的空洞或空腔。  
+			4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。   
+			5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞
+		9. **lair**巢穴;**subterranean**地表下面的;**canyon**峡谷;**dungeon**地牢，土牢;**tomb**坟墓;**hut**小屋;**cellar**地窖;**basement**地下室;**prehistoric**史前的;**fortress**要塞;**lava**火山岩浆;
+		10. They took refuge in a cave yesterday. /他们昨天是在一个洞里避难的。
+		11. troglophile A non-obligate cave visitor or dweller. /穴居的非专一性的洞穴生物。
+		12. The dark, dank cave gave me the willies. /这阴暗潮湿的山洞使我感到心惊肉跳
+		13. cave in
+			1. 坍塌；塌陷：某物坍塌或塌陷的行为或状态。 
+			2. 塌方；塌陷位置：某物坍塌或塌陷的位置。 
+			3. 屈服；让步：屈服或让步的行为。
+			4. the government's cave-in to industry pressure. /政府对实业界压力的屈服。
+			5. the manager caved in to his demands. /经理屈从了他的要求。
+			6. Walls just felt like they was caving in. /就感觉四周墙壁全塌了。
+			7. That it hadn't, you know, caved in or anything. /看看有没有塌下去呀？
+		15. cavity
+			1. n. 洞，腔；(牙齿的) 龋洞
+			2. [pit](dic://pit)
+			3. [enclosed space](dic://enclosed space)
+			4.  [caries](dic://caries), [dental caries](dic://dental caries), [tooth decay](dic://tooth decay)
+			5. [bodily cavity](dic://bodily cavity), [cavum](dic://cavum)
+			6. _n._ [hole](dic://hole), [hollow](dic://hollow), [space](dic://space), [decay](dic://decay), [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part)
+				1. [hole](dic://hole) 最普通用词，泛指实体上的洞、孔或坑，不涉及其大小、深浅或穿透与否。  
+				2. [cave](dic://cave) 指出洞、窑洞或溶洞，可以是天然的或人造的。  
+				3. [cavity](dic://cavity) 比hole正式，指实体内中或表面的空洞或空腔。  
+				4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。   
+				5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞
+				6. **waveguide**波导管;**orifice**孔口;**diaphragm**膈,隔膜;**chamber**室，膛;**passageway**通道;**aperture**孔，穴;**hole**洞，孔;**casing**盒;**slit**撕裂;**dielectric**电介质;**annular**环形的，有环纹的;
+				7. a cavity in the earth /地下穴洞
+				8. the cavity in a tooth /齿洞
+				9. There's a cavity in the boy's tooth /这个男孩的牙上有一个洞。
+				10. The nasal cavity is one of the busiest dypasses for metaboly of a man /呼吸时，鼻毛先将空气中较大的杂物挡住；
+				11. The pericardium is a pouch or cavity that the heart sits inside of. /心脏位于心包腔中。
+				12. The deposited mineral quickly hardens, completely filling the cavity. /沉积的矿物质迅速固化，将龋齿完全填充。
+				13. Get rid of a cavity? Are you stuck with a cavity once you have it? / 防止蛀牙？你长过蛀牙吗？
+		16. cave-house
+	3. cavelet
+	4. caveman
+	5. cavern
+		1.  [cavern out](dic://cavern out)
+		2. _n._ [enclosure](dic://enclosure), [natural enclosure](dic://natural enclosure), [cave](dic://cave)
+		3. _v.[hollow](dic://hollow), [hollow out](dic://hollow out), [core out](dic://core out)
+		4. **cave**使凹陷，使塌落;**caves**洞穴;**subterranean**地表下面的;**dungeon**地牢，土牢;**lair**巢穴;**tunnels**隧道;**tunnel**隧道;**passageway**通道;**underground**地下的;**canyon**峡谷;**crypt**地窖,教堂地下室;
+		5. a dark cavern of a shop. /家像一个黑沉沉的山洞似的商店。
+		6. caverns of cavernous body /海绵体腔
+		7. The cavern walls echoed his cries. /大山洞的四壁回响着他的喊声。
+		8. a stream came crashing through a narrow cavern to scour out a round pool below /一条小溪哗啦从小洞中流过在下面冲成一个圆形的池塘。
+		9. She saw an enormous cavern with a high rocky roof. /呈现在眼前的是一个有着高高的石头屋顶的巨大洞穴。
+		10. cavernitis
+			1. 【医】 [阴茎]海绵体炎
+		11. caverna
+			1. _n._ 腔,(空)洞,盂
+		12. caverne
+		13. caverned
+			1. adj. 穴居的；<诗>凹成洞穴的；中空的 
+			2. vt. 关在洞穴中；把……挖空（cavern 的过去式和过去分词）
+			3. The rock was caverned out to make a tunnel. /挖出岩石造隧道。
+			4. The bomb caverned the hotel in the government-held part of the city was apparently being known as a base by government troops./遭遇炸弹袭击的这家酒店处于政府军掌控的部分，显然这里是政府军的据点。
+		15. cavernoscope 
+			1. 【医】 肺空洞镜
+		16. cavernostomy
+			1. 【医】 [肺]空洞造口术
+		17. etc..
+	6. cavitation
+		1. Cavitation creates bubbles because the very low pressure essentially tears a gap in the water /空化会产生气泡，因为非常低的压力会撕裂水中的缝隙。
+		2. When scientists tried making cavitation bubbles in water that had extra argon dissolved inside, the light became longer and brighter. /当科学家们试图在溶解了额外氩气的水中制造空化气泡时，光变得更长更亮。
+	7. concave
 		1. **concave**凹的，凹面的;**convex**凸面的;**curvature**弯曲;**slope**倾斜;**sidewall**边墙，侧壁;**sloping**倾斜的;**anterior**前面的;**posterior**(在时间;**symmetric**相称性的,均衡的;**curved**弯曲的;**contour**轮廓;
 		2. _n._ [solid](dic://solid), [shape](dic://shape), [form](dic://form), [configuration](dic://configuration), [contour](dic://contour), [conformation](dic://conformation)
 		3. _[concavity](dic://concavity)_  n. 凹面；凹度
 		4. _[concavity slide](dic://concavity%20slide)_  载物凹玻片；凹载玻片
-		5. concavity
-	7. excavate
-	8. cage
-	9. caveolin
-	10. caviate
-2. **celi-, coeli-** = abdomen
-3. **cumul-** = 堆积，由膨胀引申到强大是church的本意
+		5. A concave mirror would project a real inverted image of the silverpoint onto the panel, which van Eyck would trace /凹面镜把颠倒的实像投射到木板上，于是范艾克便可以在板子上描画。
+		6. For them, the mask is concave and rotates in one direction /对他们来说，面具是凹陷的，并且朝一个方向旋转。
+		7. Red blood cells are tiny by concave disc-shaped cells known as erythrocytes /红细胞很小，被称为红细胞的凹盘状细胞。s
+		8. He flapped across the room, chest concave, shoulders rounded, arms hanging limp, feet wide apart, chin thrust forward. /他拍打着穿过房间，胸部凹陷，肩膀圆润，双臂无力地垂下，双脚分开，下巴向前。
+		9. He had a **concave** chest /他曾有一个凹陷的箱子。
+		10. concavity
+			1. _n._ [solid](dic://solid), [shape](dic://shape), [form](dic://form), [configuration](dic://configuration), [contour](dic://contour), [conformation](dic://conformation)
+			2. **concave**凹的，凹面的;**convex**凸面的;**curvature**弯曲;**slope**倾斜;**sidewall**边墙，侧壁;**sloping**倾斜的;**anterior**前面的;**posterior**(在时间;**symmetric**相称性的,均衡的;**curved**弯曲的;**contour**轮廓;
+		11. planoconcave
+		12. convexoconcave
+		13. concavoconcave
+		14. biconcave
+	8. excavate
+		1. v. 挖空, 挖出, 凿通
+		2. [unearth](dic://unearth) 
+		3. [dig up](dic://dig up), [turn up](dic://turn up)
+		4. [dig](dic://dig), [hollow](dic://hollow)
+		5. _v._ [uncover](dic://uncover), [bring out](dic://bring out), [unveil](dic://unveil), [reveal](dic://reveal), [obtain](dic://obtain), [hollow](dic://hollow), [hollow out](dic://hollow out)
+		6. **dig**挖，掘;**dug**挖，翻土;**bury**埋葬;**unearthed**掘出的;**digging**挖掘，采掘;**reconstruct**重建;**archaeological**考古学的;**archaeologist**考古学家;**demolish**毁坏;**quarry**采石场;**construct**修建, 建立;
+		7. excavate an ancient burial site /发掘古墓群
+		8. They plan to excavate a large hole /他们计划挖个大洞。
+		9. Excavate coal is primary production link in coal mine production, therefor, Weaving excavate coal working face supersedure plan has instructional meaning. /采煤是煤矿生产中的主要生产环节,因而编制采煤工作面接替计划对煤矿生产具有指导性意义。
+		10. Several man-made ponds will also be excavated for drainage purposes. /此外，当局亦会挖掘数个人造池塘作排水之用。
+		11. And the archaeologists need scores of workers to carefully excavate it. /考古学家需要数十名工人仔细挖掘它。
+		12. The number one pit is the only one among the nine large-scale pits that has been excavated /一号墓坑是九个大型坑中唯一一个已被挖掘的。
+		13. excavtor
+		14. excavation
+	9. cage
+		1. n. 笼, 牢房, 战俘营  
+		2. vt. 关进笼内
+		3. cage - 该词来自荷兰语de kooi，其中de乃定冠词，相当于英语the，kooi意为“笼子”，与英语cage（笼子）是同源词，都源于拉丁语cavea（笼子）。以后kooi转指四周有网围住，用以诱捕野禽的水塘。英语将这个词连同定冠词一起借了过来，所以到了英语中就变为decoy。在捕猎野禽时，要诱其进入罗网或枪的射程内，诱饵或引诱物是不可少的。因此，到了后来decoy就转义为“诱饵”或“诱惑物”，作动词用时则表示“引诱”或“诱骗”。
+		4. age - jail源自俗拉丁语(Vulgar Latin) cavea 'cage'（笼子）的指小形式caveola 'little cage'（小笼子）。它之所以有两种拼写形式jail与gaol是因为它们通过不同的渠道进入英语，前者取道古法语jaiole，后者则取道诺曼法语gaiole。三百多年前一些英国方言将gaol的首字母发成/ɡ/，另一些方言则读作/dʒ/，最后后一种读音战胜了前一种读音，和jail的读音趋同了，但仍保留gaol这一形式。在现代英语中英国英语一般用gaol，而美国英语则多用jail。cage一词亦源于同一拉丁词，故在意义上和jail有密切联系。cage除指“笼子”外，和jail一样也可指“牢房”或“监狱”。实际上牢房就好比笼子，汉语就有“牢笼”的说法。
+		5. uncage
+		6. encage
+		7. cagy
+		8. cager
+		9. cageling
+		10. birdcage
+	10. caveolin
+	11. caviate
+3. **celi-, coeli-** = abdomen
+	1. coelacanth
+		1. _n._ 腔棘鱼
+		2. _adj._ 腔棘鱼类的
+		3. _n._ [crossopterygian](dic://crossopterygian), [lobefin](dic://lobefin), [lobe-finned fish](dic://lobe-finned fish)
+		4. **shark**鲨鱼;**fossils**化石;**vertebrate**脊椎动物;**octopus**章鱼;**mammal**哺乳动物;**fossil**化石;**whale**鲸;**fishes**鱼类;**sharks**鲨鱼;**dinosaur**过时、落伍的人或事物;**eel**鳝鱼;
+		5. These are two whole coelacanth in our preserved in alcohol. /这是我们在酒精中保存的两条完整的腔棘鱼标本。
+		6. Even the modern coelacanth, on closer examination, had to be put in a different genus from any known fossil. /经过仔细观察，甚至就连现代腔棘鱼都必须得归类于不同于任何已知化石的种类。
+	3. coelenterate
+	4. coelenteron
+		1. _n._ 腔肠动物的腔肠体
+		2. _n._ [sac](dic://sac)
+		3. **larval**幼虫状态的;**epithelium**上皮;**organism**有机体;**intestine**肠;**mucosa**粘膜;**cytoplasm**细胞质;**jellyfish**水母;**mucus**粘液;**ventral**腹部的;**anus**肛门;**larvae**幼虫;
+	6. coelom /coelome
+		1. _n._ 体腔
+		2. _n._ [cavity](dic://cavity), [bodily cavity](dic://bodily cavity), [cavum](dic://cavum)
+		3. **epithelium**上皮;**larval**幼虫状态的;**cavity**洞，凹处;**gills**鳃;**vertebrate**脊椎动物;**circulatory**循环的;**ventricle**室,脑室,心室;**ventral**腹部的;**sac**液囊;**intestine**肠;**anterior**前面的;
+		4. Oocytes of female **coelom** were counted. /计数雌性个体体腔卵细胞。
+	8. celiac /coeliac
+		1. adj. 腹腔的；腹的
+		2. [coeliac](dic://coeliac)
+		3. _adj._ [celiac disease](dic://celiac disease), [abdominal cavity](dic://abdominal cavity), [abdomen](dic://abdomen)
+		4. **gluten**麸质;**autoimmune**自身免疫的;**IBS**情报库系统;**allergy**过敏症;**thyroid**甲状腺;**lupus**狼疮;**hypothyroidism**甲状腺机能减退;**IBD**进口科;**colitis**结肠炎;**disease**病，疾病;**diabetes**糖尿病;
+		5. Celiac disease, also called celiac sprue is an autoimmune disease that affects the small intestine /乳糜泻又称乳糜腹泻是一种影响小肠的自身免疫性疾病。
+		6. Any deeper, and I would have cut your celiac artery. /再深一点 我就会切断你的腹动脉了。
+		7. Gluten is only harmful to those who are diagnosed with celiac disease /麦胶蛋白仅对被诊断患有乳糜泻的人才是有害的。
+		8. Can you explain the link between **celiac** and infertility /你能解释一下麸质过敏症和不孕症之间的联系吗？
+4. **cumul-** = 堆积，由膨胀引申到强大是church的本意
 	1. cumulate
-		1. accumulate， 
-		2. cumulation, cumulative
-	2. cumulous
-		1. cumulonimbus,
-		2. cumulostratus
-	3. cumulus
-	4. cumulite
-	5. cumulophyric
-4. **cy-, cyes-** = pregnancy, 
-5. **cym-** = 波纹
-6. **cymb-** = “凹舟状”
-7. **koil-** = hollow, "空"
-8. church
-9. enceinte
+		1. collect or gather
+			1. _synonymous：_ [accumulate](dic://accumulate), [conglomerate](dic://conglomerate), [pile up](dic://pile up), [gather](dic://gather), [amass](dic://amass)
+		2. _v._ [increase](dic://increase)
+		3. **accumulate**堆积;**accumulation**积聚;**accrue**自然增加;**aggregate**数, 总计;**accumulating**聚积;**consolidate**巩固;
+		4. the systems cumulate data over a period of years. /该系统积累了数年的资料。
+		5. Plutonic rocks consisting of pyroxene, pigeonite and plagioclase, the source of cumulate eucrites /包括辉石、易变辉石、和斜长石等火成岩，来自于推积性的喷发。
+		6. Maybe that's why it all too " cumulated" in a serious desire to take the " plunge" without " stratosphere" /也许这就是为什么它总是兴奋于在一个没有“平流层”的情况下采取降落的这么严肃的愿望。
+		7. accumulate
+			1. accumulation
+			2. accumulatior
+			3. accumulative
+			4. accumulating
+		8. cumulation, cumulative
+	3. cumulous
+		1. adj. 积云状的
+		2. thrown together in a pile
+			1. _synonymous：_ [heaped](dic://heaped), [heaped-up](dic://heaped-up), [piled](dic://piled)
+		3. _adj._ [concentrated](dic://concentrated)
+		4. _n._ [distributed](dic://distributed)
+		5. **clouds**云彩，白云;**cloud**云;**puffy**一阵阵吹的;**overcast**阴暗的;**misty**模糊的;**cloudy**多云的;**thunderstorm**雷电交加的暴风雨;**silvery**似银的，银色的;**sky**天空;**mist**薄雾;**haze**疑惑;
+		6. Towers of cumulous convection that you see on Jupiter are three times taller. /在木星上看到的塔状积雨云比地球的高三倍。
+		7. This morning it looked like the image of itself reflected in deep water, white and cumulous above, with cavernous distortions underneath /今天早上，它看起来就像是自己倒映在深水中的倒影，上面是白色的积雪，下面是海绵状的扭曲。
+		8. cumulonimbus
+			1. Cumulonimbus cloud 积雨云
+		9. cumulostratus
+	5. cumulus
+		1. n. 积云；堆积；堆积物
+		2.  [cumulus cloud](dic://cumulus cloud)
+		3.  [pile](dic://pile), [heap](dic://heap), [mound](dic://mound), [agglomerate](dic://agglomerate), [cumulation](dic://cumulation)
+		4. _n._ [cloud](dic://cloud), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+		5. **clouds**云彩，白云;**cloud**云;**mens**精神;**gel**胶化;
+		6. This will be just fair-weather cumulus on our way back to Florida. /这只是我们返回佛罗里达州途中的天气晴朗的积云。
+		7. At the dentist's, he hovered near the ceiling. As a test pilot, he found secret spaces in cumulus clouds /在牙科诊所，他盯着天花板发呆。当试飞员时，他在积云中发现了秘密空间。
+		8. Besides the periodical shower-bearing cumuli there is a thin, diffused, fog-like cloud overhead. /除了周期性的阵雨积云外， 头顶上还有一层薄薄的、弥散的、雾状的云。
+	7. cumulite
+	8. cumulophyric
+5. **cy-, cyes-** = pregnancy, 
+	1. cyesis
+		1. \[美 /saɪ'isɪs/\]
+		2. n. [妇产] 怀孕；[妇产] 妊娠
+		3. cy-怀孕 + -esis
+		4. Methods The clinical data of 20 cornual cyesis patients were analyzed in symptom, pathology and treatment /方法分析20例宫角妊娠的临床资料,总结临床症状、病理所见,及治疗原则。
+		5. **cyesis term**:  妊娠足月 
+		6. **cornual cyesis**:  宫角妊娠
+	3. cyogenic
+		1. 【医】 引起妊娠的, 致孕的
+	4. cyesiology
+		1. 【医】 妊娠学
+	5. cyesiognosis
+		1. 【医】 妊娠诊断
+	6. cyesedema
+		1. 【医】 妊娠水肿
+6. **cym-** = 波纹
+	1. cyme
+	2. cymene
+	3. cymometer
+	4. cymoscope
+	5. cymose
+	6. cymous
+	7. kymograph
+7. **cymb-** = “凹舟状”
+	1. cymbal
+	2. cymbiform
+8. **koil-** = hollow, "空"
+9. church
+	1. 来自 PIE*keue,膨胀，增强，词源同 cumulative,accumulate.词义由膨胀外延到强大，强壮，上帝，上帝的世俗所在，其方言变体 kirk.
+	2. n. 教堂, 礼拜, 教会  
+	3. vt. 使人接受宗教仪式  
+	4. a. 教堂的
+	5. unchurch
+	6. low-church
+	7. churchyard
+		1. _n._ [yard](dic://yard)
+		2. **cemetery**墓地;**chapel**小教堂;**graveyard**墓地,坟场;**chancel**高坛;**parish**教区;**graves**坟墓;**grave**严肃的;**mausoleum**陵墓;**crypt**地窖,教堂地下室;**tomb**坟墓;**footpath**小路;
+	8. churchy
+		1. adj. 唯教会独尊的；教会的；恪守教会仪式的；仪式的
+	9. churchwoman
+	10. churchwarden
+	11. churchman
+	12. churchly
+		1. [churchlike](dic://churchlike)
+		2. _adj._ [religious](dic://religious)
+		3. _n._ [irreligious](dic://irreligious)
+		4. **ecclesiastical**基督教会的;**theological**神学的;**doctrinal**学说的;**liturgical**礼拜仪式的;**ecumenical**一般的,普通的,基督宗教合一的,普世教会的;**liturgy**礼拜仪式;**clergy**牧师;**pious**虔诚的;**secular**世俗的;**pastoral**田园的;**religious**宗教的;
+		5. churchlike silence; the pure fragrance of churchly incense. /象教堂般肃穆；香味纯正的教会熏香。
+		6. For many poor, young, urban blacks, King was too middle-class and genteel, too Southern, too **churchly** and high-flown; Malcolm had lived as they had /对于许多贫穷的生活在都市的年轻黑人来说，马丁·路德·金太中产阶级、太绅士、太南方、太教会了，并且太高尚了；而马尔科姆成长的环境和他们的生活环境一样。
+	13. churchism
+	14. churching
+	15. churchgoing
+	16. churchgoer
+		1. _n._ [religious person](dic://religious person)
+		2. **devout**虔诚的;**pastor**牧师;**preacher**传教士;**evangelical**福音的;**clergyman**牧师;**atheist**无神论者;**church**教堂;**vicar**教区牧师，教堂牧师;**congregation**人群;**deacon**执事;**Pentecostal**圣灵降临节的;
+	17. Christchurch
+10. enceinte
+	1. 医】 妊娠的
 
 
 
 ## kl
-### + \*klau- + = hook, peg, crooked or forked branch
+### ⭐ + \*klau- + = hook, peg, crooked or forked branch
 1. **-cleisis-, -clisis** 表示“闭合”，复数形式：cleises,-clises。源自希腊语 kleistos "closed."
 	1. colpocleisis
 	2. etc..
@@ -4245,14 +4602,13 @@
 		2. **piano**钢琴;**keyboard**键盘;**violin**小提琴;**concerto**协奏曲;**pianos**钢琴;**oboe**双簧管;**virtuoso**艺术品鉴赏家;**flute**长笛;**viola**中提琴，中提琴演奏者;**Bach**巴赫;**clarinet**单簧管;
 	5. conclave
 		1. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**convened**集合;
-		2. 
 	6. enclave
 		1. _n._ [district](dic://district), [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
 		2. **outpost**前哨;**suburb**郊区;**oasis**绿洲;**neighborhood**地区;**hideaway**潜伏处;**stronghold**要塞;**hilltop**小山顶;**affluent**富裕的;**suburban**土气的;**upscale**高消费的;**secluded**隐退的，隐居的;
 	7. clef
 		1. **chord**弦;**treble**三倍的;
 		2. 
-4. **cleid-, cleido- ** 表示“锁骨”，用于医学专业。源自希腊语 kleis (词干 kleid-) "key."
+4. **cleid-, cleido-** 表示“锁骨”，用于医学专业。源自希腊语 kleis (词干 kleid-) "key."
 	1. etc..
 5. **clitor-** 表示“阴蒂”，因被小阴唇覆盖而得名。源自希腊语 kleitoris。和表示关闭的 close 同源。
 	1. clitoris
@@ -4264,57 +4620,97 @@
 	5. clitoridean
 6. **clos-, clud-, clus-** = close, 表示“关闭”。源自拉丁语 claudere 及变体 cludere "to shut", 其过去分词 clusus.
 	1. close
-		2. closemouthed
-		3. closer
-		4. closetool
-		5. closeup
-		6. closing
-		7. reclosing
-		8. closure
-		9. closet
-		10. closely
-		11. closed
-		12. close-up
-		13. close-set
-		14. close-packed
-		15. close-packed
-		16. close-lipped
-		17. close-knit
-		18. close-in
-		19. close-hauled
-		20. close-grained
-		21. close-fitting
-		22. close-fisted
-		23. close-cut
-		24. close-cropped
-	2. cloture
-		1. **filibuster**妨碍议事;**senators**参议员;**bipartisan**两党的;**vote**投票，选举;**senate**参议院，上院;**caucus**干部会议;**repeal**废除;
-		2. [closure](dic://closure), [gag rule](dic://gag rule), [gag law](dic://gag law)
-		3. [order](dic://order), [rules of order](dic://rules of order), [parliamentary law](dic://parliamentary law), [parliamentary procedure](dic://parliamentary procedure)
-		4. [end](dic://end), [terminate](dic://terminate)
-	3. clause
-	4. aquiclude
-	5. conclude
-		1. conclusive
-		2. conclusion
-		3. concluding
-	6. exclude
-		1. exclusive
-		2. exclusion
-		3. excluding
-		4. excludable
-	7. include
-		1. inclusion
-		2. inclusive
+		1. [stopping point](dic://stopping point), [finale](dic://finale), [finis](dic://finis), [finish](dic://finish), [last](dic://last), [conclusion](dic://conclusion)
+		2. [conclusion](dic://conclusion), [end](dic://end), [closing](dic://closing), [ending](dic://ending)
+		3. [finale](dic://finale), [closing curtain](dic://closing curtain), [finis](dic://finis)
+		4. [close up](dic://close up), [fold](dic://fold), [shut down](dic://shut down), [close down](dic://close down)
+		5. [shut](dic://shut)
+		6. [conclude](dic://conclude)
+		7. [shut](dic://shut)
+		8. [come together](dic://come together)
+		9. [close up](dic://close up)
+		10. [fill up](dic://fill up)
+		11. [near](dic://near), [nigh](dic://nigh)
+		12. [faithful](dic://faithful)
+		13. [tight](dic://tight)
+		14. [confining](dic://confining)
+		15. [airless](dic://airless), [stuffy](dic://stuffy), [unaired](dic://unaired)
+		16. [tight](dic://tight)
+		17. [snug](dic://snug), [close-fitting](dic://close-fitting)
+		18. [cheeseparing](dic://cheeseparing), [near](dic://near), [penny-pinching](dic://penny-pinching), [skinny](dic://skinny)
+		19. [closelipped](dic://closelipped), [closemouthed](dic://closemouthed), [secretive](dic://secretive), [tightlipped](dic://tightlipped)
+		20. [near](dic://near), [nigh](dic://nigh)
+		21. [closely](dic://closely), [tight](dic://tight)
+		22. _n._ [end](dic://end), [ending](dic://ending), [section](dic://section), [subdivision](dic://subdivision), [finish](dic://finish), [finishing](dic://finishing)
+		23. _v._ [end](dic://end), [terminate](dic://terminate), [barricade](dic://barricade), [block](dic://block), [blockade](dic://blockade), [stop](dic://stop), [block off](dic://block off)
+		24. _adj._ [adjacent](dic://adjacent), [next](dic://next), [ambient](dic://ambient), [appressed](dic://appressed), [adpressed](dic://adpressed), [approximate](dic://approximate)
+		25. _n._ [open](dic://open), [open up](dic://open up)
+		26. _n._ [distant](dic://distant), [careless](dic://careless), [inaccurate](dic://inaccurate), [unequal](dic://unequal), [unconfined](dic://unconfined), [ventilated](dic://ventilated), [coarse](dic://coarse)
+			1. [complete](dic://complete) 侧重指完成预定的任务或使某事完善，补足缺少的部分等。  
+			2. [finish](dic://finish) 与complete基本同义，着重圆满地结束或完成已着手的事。  
+			3. [end](dic://end) 最普通用词，着重事情的完成。也指某种活动因达到目的而自然结束或由于某种原因而突然中止。  
+			4. [close](dic://close) 普通用词，着重行为的终止或结束，不强调其目的。  
+			5. [conclude](dic://conclude) 正式用词，多指以某事或活动达到预期目的而告终。  
+			6. [terminate](dic://terminate) 强调有一个空间和时间的限度，届时必须终止。书面语用词。  
+			7. [accomplish](dic://accomplish) 正式用词，强调一个过程的完成；也可指依靠努力达到一定目的，或取得一定的结果
+		27. **proximity**接近, 附近;**near**近的;**closeness**接近;**distance**距离;**open**营业着的;**reopen**使再开，使重开;**distant**遥远的;**far**很;**quiet**安静的;**nowhere**无处;**dangerously**危险地;
+		28. closemouthed
+		29. closer
+		30. closetool
+		31. closeup
+		32. closing
+		33. reclosing
+		34. closure
+		35. closet
+		36. closely
+		37. closed
+		38. close-up
+		39. close-set
+		40. close-packed
+		41. close-packed
+		42. close-lipped
+		43. close-knit
+		44. close-in
+		45. close-hauled
+		46. close-grained
+		47. close-fitting
+		48. close-fisted
+		49. close-cut
+		50. close-cropped
+	3. cloture
+		1. n. 讨论终结 v. 结束辩论
+		2. **filibuster**妨碍议事;**senators**参议员;**bipartisan**两党的;**vote**投票，选举;**senate**参议院，上院;**caucus**干部会议;**repeal**废除;
+		3. [closure](dic://closure), [gag rule](dic://gag rule), [gag law](dic://gag law)
+		4. [order](dic://order), [rules of order](dic://rules of order), [parliamentary law](dic://parliamentary law), [parliamentary procedure](dic://parliamentary procedure)
+		5. [end](dic://end), [terminate](dic://terminate)
+		6. Sixty votes would be required for cloture on limiting further debate on the seven nominations /终止辩论要得到60票的支持，才能限制对七名候选人的辩论。
+		7. Senator, the -- I enter a motion to reconsider the vote by which cloture was invoke on this nomination /参议员，我提出一项动议，重新考虑对这一提名援引 cloture 的投票。
+	4. clause
+	5. aquiclude
+	6. conclude
+		1. con-全部 + clud-关闭 + -e → 全部关掉 → 结束。
+		2. conclusive
+		3. conclusion
+		4. concluding
+	7. exclude
+		1. ex-出 + clud-关闭 + -e → 关出去 → 排除。
+		2. exclusive
+		3. exclusion
+		4. excluding
+		5. excludable
+	8. include
+		1. in-进入 + clud-关闭 + -e → 关进去 → 包括。
+		2. inclusion
+		3. inclusive
 			1. inclusivity
 			2. inclusiveness
 			3. inclusively
 			4. all-inclusive
-		3. including
-		4. includible
-		5. included
-		6. includable
-	8. occlude
+		4. including
+		5. includible
+		6. included
+		7. includable
+	9. occlude
 		1. oc-一再 + clud-关 + -e → 一再关起来不畅通 → 堵塞。
 		2. vt. 使闭塞, 隔断, 挡住  vi. 咬合
 		3. **occlusion**闭塞;**obstruct**阻塞;**distort**扭曲;**displace**取代;**inhibit**抑制;**penetrate**穿过, 刺入, 渗入;**illuminate**使明亮;**impede**阻止;**constrain**强迫, 强使;**diffuse**散开的;**confine**限制;
@@ -4330,49 +4726,64 @@
 		9. occlusor
 			1. 闭壳肌〔蛤; 闭肌; 闭塞体;
 	10. preclude
-		1.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [forbid](dic://forbid)
-		2.  [rule out](dic://rule out), [close out](dic://close out)
-		3. **necessitate**使…成为必要, 需要;**prohibit**阻止，禁止;**impede**阻止;**exclude**排除;**hinder**成为阻碍;**prevent**预防，防止;**disqualify**丧失资格;**negate**否定;**inhibit**抑制;**imply**暗示;**barring**不包括;
-		4. _v._ [obviate](dic://obviate), [rid of](dic://rid of), [eliminate](dic://eliminate)
+		1. pre-预先 + clud-关闭 → 提前关闭 → 阻止。
+		2.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [forbid](dic://forbid)
+		3.  [rule out](dic://rule out), [close out](dic://close out)
+		4. **necessitate**使…成为必要, 需要;**prohibit**阻止，禁止;**impede**阻止;**exclude**排除;**hinder**成为阻碍;**prevent**预防，防止;**disqualify**丧失资格;**negate**否定;**inhibit**抑制;**imply**暗示;**barring**不包括;
+		5. _v._ [obviate](dic://obviate), [rid of](dic://rid of), [eliminate](dic://eliminate)
 			1. _[precluded](dic://precluded)_  排除
 			2. _[preclude from](dic://preclude%20from)_  阻止；妨碍
 			3. _[preclude all misunderstanding](dic://preclude%20all%20misunderstanding)_  排除所有误解
 			4. _[preclude sb from doing sth](dic://preclude%20sb%20from%20doing%20sth)_  阻止某人做某事
-		8. preclusion
-		9. preclusive
-	11. seclude
-		1.  [sequester](dic://sequester), [sequestrate](dic://sequestrate), [withdraw](dic://withdraw)
-		2. _v._ [isolate](dic://isolate), [insulate](dic://insulate)
-		3. **seclusion**隔绝,隔离,隐居;**confine**限制;**solitude**孤独;**isolate**使孤立;**tranquil**安静的，平静的;**oneself**自己;**detach**分离;**quiet**安静的;**relax**放松，休息;**immerse**沉浸;**hideaway**潜伏处;
-		4. _[seclude from the world](dic://seclude%20from%20the%20world)_  与世隔绝
-		5. seclusion
-		6. seclusive
-	13. disclose
-		1. undisclosed
-		2. disclosure
-	14. enclose
-		1.  [envelop](dic://envelop), [enfold](dic://enfold), [enwrap](dic://enwrap), [wrap](dic://wrap)
-		2.  [hold in](dic://hold in), [confine](dic://confine)
-		3.  [close in](dic://close in), [inclose](dic://inclose), [shut in](dic://shut in)
-		4.  [insert](dic://insert), [inclose](dic://inclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
-		5. _v._ [cover](dic://cover), [hold](dic://hold), [bear](dic://bear), [carry](dic://carry), [contain](dic://contain), [surround](dic://surround), [skirt](dic://skirt)
+		6. preclusion
+		7. preclusive
+	11. seclude (recluse, claustral)
+		1. se-分开 + clud-关闭 + -e → 分开关 → 隐居的。
+		2.  [sequester](dic://sequester), [sequestrate](dic://sequestrate), [withdraw](dic://withdraw)
+		3. _v._ [isolate](dic://isolate), [insulate](dic://insulate)
+		4. **seclusion**隔绝,隔离,隐居;**confine**限制;**solitude**孤独;**isolate**使孤立;**tranquil**安静的，平静的;**oneself**自己;**detach**分离;**quiet**安静的;**relax**放松，休息;**immerse**沉浸;**hideaway**潜伏处;
+		5. _[seclude from the world](dic://seclude%20from%20the%20world)_  与世隔绝
+		6. seclusion
+		7. seclusive
+	12. disclose
+		1. dis-打开 + clos-关 + -e → 把关的打开 → 揭发。
+		2. undisclosed
+		3. disclosure
+	13. enclose
+		1. en-进入 + clos-关 + -e → 被关起来 → 包围。
+		2. [envelop](dic://envelop), [enfold](dic://enfold), [enwrap](dic://enwrap), [wrap](dic://wrap)
+		3. [hold in](dic://hold in), [confine](dic://confine)
+		4. [close in](dic://close in), [inclose](dic://inclose), [shut in](dic://shut in)
+		5. [insert](dic://insert), [inclose](dic://inclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
+		6. _v._ [cover](dic://cover), [hold](dic://hold), [bear](dic://bear), [carry](dic://carry), [contain](dic://contain), [surround](dic://surround), [skirt](dic://skirt)
 			1. [enclose](dic://enclose) 指把某物四周围住或封闭起来，使之与外界隔绝。  
 			2. [encircle](dic://encircle) 侧重在某事物周围围成圈状。  
 			3. [envelop](dic://envelop) 着重指把某个物体完全包起来或整个封起来。  
 			4. [fence](dic://fence) 通常指用栅栏栏开或围起来。  
 			5. [surround](dic://surround) 普通用词，既可指环绕、围绕，也可指军事上的包围。
-		6. **attach**系，绑;**confine**限制;**furnish**供应;**surround**围绕;**contain**包含;**enclosure**圈占, 围绕;**affixed**粘贴;**attached**附加的;**allow**允许;**extend**延伸;**send**发送，寄;
-		7. _[enclosed motor](dic://enclosed%20motor)_  封闭电动机
-		8. _[enclosed place](dic://enclosed%20place)_  围封地方
-		9. _[enclose herewith](dic://enclose%20herewith)_  随函附上
-		10. _[enclosed building](dic://enclosed%20building)_  围封式建筑物；封闭式建筑
-		11. _[enclose in](dic://enclose%20in)_  禁闭在…内，关在…内; 在（信封、包裹等）中装有，附有，附寄; 
-		12. _[enclosing class](dic://enclosing%20class)_  封闭类；内附类
-		13. exclosure
-		14. unenclosed
-		15. enclosing
-		16. encloser
-		17. enclosed
+		7. **attach**系，绑;**confine**限制;**furnish**供应;**surround**围绕;**contain**包含;**enclosure**圈占, 围绕;**affixed**粘贴;**attached**附加的;**allow**允许;**extend**延伸;**send**发送，寄;
+		8. _[enclosed motor](dic://enclosed%20motor)_  封闭电动机
+		9. _[enclosed place](dic://enclosed%20place)_  围封地方
+		10. _[enclose herewith](dic://enclose%20herewith)_  随函附上
+		11. _[enclosed building](dic://enclosed%20building)_  围封式建筑物；封闭式建筑
+		12. _[enclose in](dic://enclose%20in)_  禁闭在…内，关在…内; 在（信封、包裹等）中装有，附有，附寄; 
+		13. _[enclosing class](dic://enclosing%20class)_  封闭类；内附类
+		14. exclosure /enclosure
+			1. _n._ 圈占, 围绕
+			2. 圈占地, 圈用地
+			3. 附件, 装入物
+			4. _n._ [artifact](dic://artifact), [artefact](dic://artefact), [insertion](dic://insertion), [introduction](dic://introduction), [intromission](dic://intromission), [space](dic://space), [document](dic://document)
+			5. **enclosed**被附上的;**cage**笼，兽笼;**casing**盒;**cages**笼子;**enclose**围绕;**sanctuary**圣所;**containment**控制;**fence**栅栏;**zoo**动物园;**perimeter**周边;**chassis**底盘，底架;
+			6. an enclosure ten acres in extent /面积达10英亩的围场。
+			7. I received your enclosure with gratitude /附件收到, 十分感谢。There's a special enclosure where you can look at the horses before the race starts. /"这里有一处特备的围场,在比赛前你可以先看看马。"
+			8. And now he was walking past the trees, through a gap in the enclosure fence. /现在他正从树丛旁走过，穿过围场栅栏上的一道豁口。
+			9. The aluminum enclosure is all from recycled material. /因为它的铝外壳全部来自回收材料。
+			10. His enclosure didn't have room to do much flying /它的围栏没有足够的空间让它飞行。
+		15. unenclosed
+		16. enclosing
+		17. encloser
+			1. n. 外壳；罩壳
+		18. enclosed
 	16. foreclose
 		1. 来自古法语forclos, 关在外面。for-, 外面，词源同foreign. clos,关闭，词源同close. 拼写受fore影响。后用于经济学名词。
 		2. vt. 阻止, 排除, 预先处理, 取消抵押品赎回权  vi. 取消抵押品赎回权
@@ -4384,43 +4795,61 @@
 		8. _[Foreclose Upon](dic://Foreclose%20Upon)_ 取消抵押品赎回权
 		9. _[right to foreclose](dic://right%20to%20foreclose)_ 止赎的权利
 		10. Foreclosure 法院拍卖房屋
-		11. Some 3m households were eventually foreclosed on in 2008. 2008 年，大约 300 万户家庭最终被取消抵押品赎回权。
-		12. **foreclosure**丧失抵押品赎回权,排斥;**mortgage**抵押;**refinance**再为…筹钱,再供…资金;**lenders**放款人;**lender**贷方;**lien**留置权;**liens**留置权;**loans**借贷;**refinancing**重新募集资金;**borrower**剽窃者，借用人;**vacate**空出，腾出;
-		13. 
-		14. forclosure
-	18. inclose
-		1. [enclose](dic://enclose), [close in](dic://close in), [shut in](dic://shut in)
-		2. [insert](dic://insert), [enclose](dic://enclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
-		3. **enclose**围绕;**aforesaid**上述的;**Excellency**优点;**furnish**供应;**enclosed**被附上的;**confine**限制;
-		4. inclosure
+		11. **foreclosure**丧失抵押品赎回权,排斥;**mortgage**抵押;**refinance**再为…筹钱,再供…资金;**lenders**放款人;**lender**贷方;**lien**留置权;**liens**留置权;**loans**借贷;**refinancing**重新募集资金;**borrower**剽窃者，借用人;**vacate**空出，腾出;
+		12. Some 3m households were eventually foreclosed on in 2008. 2008 年，大约 300 万户家庭最终被取消抵押品赎回权。
+		13. the bank was threatening to foreclose on his mortgage. /银行威胁要取消他的回赎抵押权。
+		14. The banker doesn't know whether or not to foreclose which would be a disaster. /银行可能会扣下抵押品，这是个隐患。
+		15. People who find themselves upside down in their mortgage often have no choice but to foreclose. /当人们发现自己负债与贷款关系" 颠倒" 之后，他们通常不得不取消抵押品赎回权。
+		16. It gets worse. She just lost her job and can't make payments. The bank is threatening to foreclose! /还有更糟糕的。她刚丢了工作，没法还款了。银行警告说要取消赎回权了。
+		17. The farmers grasped why their friend, Kermit, was killed before John foreclosed on his family farm. /农民们明白了为什么他们的朋友克米特在约翰取消其家庭农场的赎回权之前就被杀了。 
+		18. They can't foreclose on nothing they didn't give you. /他们不能取消他们没有给你的任何东西的赎回权。
+		19. forclosure
+	17. inclose
+		1. v. 围绕；随信附上（等于 enclose）
+		2. [enclose](dic://enclose), [close in](dic://close in), [shut in](dic://shut in)
+		3. [insert](dic://insert), [enclose](dic://enclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
+		4. **enclose**围绕;**aforesaid**上述的;**Excellency**优点;**furnish**供应;**enclosed**被附上的;**confine**限制;
+		5. The old boundary lines did not inclose the new fields;the old explanations and interpretations would not fit the new facts /旧的界线没有围住新的领域； 旧的解释和解释不符合新的事实。
+		6. It is likely to fall, if ever the neighbouring lands are completely inclosed /如果邻近的土地被完全封闭， 它很可能会倒塌。
+		7. The necessary occupation of a ditcher prepares him to work in the trenches, and to fortify a camp, as well as to inclose a field. /挖沟工的必要职业使他准备好在战壕里工作， 加固营地，以及封闭一块田地。
+		8. inclosure
 			1. **enclosure**圈占, 围绕;**churchyard**墓地,境内;**enclosed**被附上的;**aforesaid**上述的;**enclose**围绕;**meadow**草地;**manor**庄园;**pasture**牧场;**boundary**分界线;
-	19. recloser
-	20. recluse
-		1. [hermit](dic://hermit), [solitary](dic://solitary), [solitudinarian](dic://solitudinarian), [troglodyte](dic://troglodyte)
-		2. [reclusive](dic://reclusive), [withdrawn](dic://withdrawn)
-		3. [loner](dic://loner), [lone wolf](dic://lone wolf), [lone hand](dic://lone hand)
-		4. [unsocial](dic://unsocial)
-		5. **hermit**隐士;**solitary**孤独的;**outcast**流浪的人;**lonely**寂寞的;**solitude**孤独;**widow**使成寡妇;**introvert**个性内向者;**seclusion**隔绝,隔离,隐居;**eccentric**古怪的, 怪癖的;**monk**僧侣，修道士;**ghost**鬼，幽灵;
-		6. reclusive
+	18. recloser
+	19. recluse (seclude, claustral)
+		1. n. 隐士；隐居者 
+		2. adj. 隐居的
+		3. re-返回 + clus-关闭 + -e → 返回[家中]关起来 → 隐居。
+		4. re-,表强调，-clus,关闭，词源同 close,claustrophobia.引申词义喜欢独处的人。
+		5. [hermit](dic://hermit), [solitary](dic://solitary), [solitudinarian](dic://solitudinarian), [troglodyte](dic://troglodyte)
+		6. [reclusive](dic://reclusive), [withdrawn](dic://withdrawn)
+		7. [loner](dic://loner), [lone wolf](dic://lone wolf), [lone hand](dic://lone hand)
+		8. [unsocial](dic://unsocial)
+		9. **hermit**隐士;**solitary**孤独的;**outcast**流浪的人;**lonely**寂寞的;**solitude**孤独;**widow**使成寡妇;**introvert**个性内向者;**seclusion**隔绝,隔离,隐居;**eccentric**古怪的, 怪癖的;**monk**僧侣，修道士;**ghost**鬼，幽灵;
+		10. a recluse who never appears in public
+		11. Or you don't want the herd anymore, and you become a recluse. /或者你不想再要群体了，你成了一个隐士。
+		12. A recluse is a person who lives alone away from the world and avoids other people. /隐士就是一个离群索居的人。
+		13. reclusive
 			1. **secretive**遮遮掩掩的,守口如瓶的,秘密的;**eccentric**古怪的, 怪癖的;**enigmatic**谜的;**hermit**隐士;**mysterious**神秘的;**aloof**冷淡的;**estranged**疏远的;**neurotic**神经过敏的;**brooding**沉思的;**solitary**孤独的;**introvert**个性内向者;
 	21. unclose
-	22. cloisonne
+		1. vt. 打开；揭露 vi. 打开，开
+		2. By degrees, other shops began to be unclosed, and a few scattered people were met with. /渐渐地，其他店铺也开始开门营业，接见了几个零散的人。
+	23. cloisonne
 		1. **porcelain**瓷, 瓷器;**enamel**珐琅;**brooch**胸针，领针;**ceramic**陶器的;**lacquer**涂漆;**pewter**锡铅合金,白镴;**pottery**陶器;**jade**碧玉;**vase**花瓶;**antique**古老的，年代久远的;**ornate**华丽的;
 		2. [adorned](dic://adorned), [decorated](dic://decorated)
 		3. [enamelware](dic://enamelware)
-	23. cloister
+	24. cloister
 		1. **convent**女修道院;**monastery**修道院;**abbey**大修道院，大寺院;**monastic**僧侣;**chapel**小教堂;**cathedral**大教堂;**courtyard**庭院, 院子;**basilica**长方形会堂;**nave**中殿;**abbot**男修道院院长;**Romanesque**罗马式的;
 		2. [residence](dic://residence), [court](dic://court), [courtyard](dic://courtyard)
 		3. [surround](dic://surround), [environ](dic://environ), [encircle](dic://encircle), [circle](dic://circle), [round](dic://round), [ring](dic://ring), [isolate](dic://isolate)
 		4. [religious residence](dic://religious residence)
-	24. claustral
+	25. claustral
 		1. claustr-关闭 + -al
 		2. _adj._ 修道院的,隐遁的
 		3. _[claustral recluse reclusive](dic://claustral%20recluse%20reclusive)_ 隐遁的
 		4. _[claustral cloistral monasterial](dic://claustral%20cloistral%20monasterial)_ 修道院的
 		5. claustrophobia, claustrophobic
-	25. sluice
-		1. - 来自早期拼写 scluse,来自古法语 escluse,来自拉丁语 exclusa,水闸，闸门，来自 ex-,向外，-claus,关闭，阻挡，词源同 close,conclusion.引申动词词义冲洗，流泻。
+	26. sluice
+		1. 来自早期拼写 scluse,来自古法语 escluse,来自拉丁语 exclusa,水闸，闸门，来自 ex-,向外，-claus,关闭，阻挡，词源同 close,conclusion.引申动词词义冲洗，流泻。
 		2. n. 水门, 水闸, 蓄水  
 		3. vt. 泄洪, 冲洗  vi. 奔流
 		3. [sluiceway](dic://sluiceway), [penstock](dic://penstock)
@@ -4430,18 +4859,27 @@
 		7. [conduit](dic://conduit)
 		8. **dam**筑坝;**gates**大门;**dredging**挖泥;**chute**斜槽;**river**河，江;**mill**磨坊;**drainage**排水;**gate**大门;**creek**小溪;**sump**污水坑;**canal**运河;
 		9. _sluice gate_ n. 水闸；水门
-		10. sluicy
-			1. 
-7. clathrate
+		10. They sluice the streets down every morning. /他们每天早晨冲洗街道。
+		11. a sluice with cold water /用冷水冲洗。
+		12. a sluice gate. /水闸。
+		13. crews sluiced down the decks of their ship. /船员们冲洗船甲板。
+		14. We opened the sluice and water poured in. /我们打开闸门, 水就涌了进来。
+		15. sluicy
+			1. adj.像水闸的；<诗>似从水闸泄出般的；<诗>涌流而出的
+8. clathrate
 	1. _[clathrate](dic://clathrate)_  adj. 窗格形的；网格状的; n. 包合物；笼形物; 
 	2. _[clathrate compound](dic://clathrate%20compound)_  包含物
 	3. _[clathrate hydrate](dic://clathrate%20hydrate)_  笼型水合物
 	4. _adj._ [reticulate](dic://reticulate), [reticular](dic://reticular), [enclosed](dic://enclosed)
 	5. _n._ [nonreticulate](dic://nonreticulate), [unenclosed](dic://unenclosed)
 	6. **methane**甲烷;**hydrogen**氢;**nitrogen**氮;**CO2**二氧化碳;**carbonate**碳酸盐;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**boron**硼;**helium**氦;**thermodynamic**热力的;**hexagonal**六角形的;**molecule**分子;
+	7. Organic matter may also be trapped in ice: on land in areas of permafrost, and at the bottom of the sea in molecular structures called clathrates. /在陆地上的永久冻土地区，在海底被称为笼形化合物的分子结构中。
+	8. He thinks the liberation of methane stored at the bottom of the ocean in structures called clathrates is the most likely culprit. /他认为出现这种现象的最可能诱因是甲烷气体的释放, 这些甲烷气体释放前存储在海底称作" 笼形包合物" 的结构中。
+	9. Gas hydrate is a kind of ice **clathrate** hydrate /气体水合物是一类笼形结构的冰状晶体。
+	10. There exist different weak interactions in the **clathrate** complexation /得到的笼形包合物中存在不同的弱相互作用。
 
 
-### + \*klei- + = to clean, bend
+### ⭐ + \*klei- + = to clean, bend
 1. **clim-** = 表示“气候”。原意表示“倾斜”，因希腊人发现气候与太阳和地面的倾角有关而得名。源自希腊语 klima "sloping surface of the earth."
 	1. climagram
 	2. climagraph
@@ -4613,7 +5051,7 @@
 	10. he had honed his mind to a razor edge /他把自己的头脑磨炼得极为敏锐。
 
 
-### + \*kom- + = beside, near, by, with
+### ⭐ + \*kom- + = beside, near, by, with
 1. ==**co-, com-, col-, cor-** = come, with, together; 表示强调==
 	1. accomplice
 	2. accomplish
@@ -5185,7 +5623,11 @@
 		2. praecribrum
 		3. postcribrum
 5. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
-	1. criminal
+	1. crime
+		1. noncrime
+		2. crimeless
+		3. anticrime
+	2. criminal
 		1. supercriminal
 		2. noncriminal
 		3. criminaloid
@@ -5194,26 +5636,59 @@
 		6. criminality
 		7. criminalistics
 		8. arch-criminal
-	2. criminate
-		1. recriminate
+	3. criminate
+		1. vt. 定罪；使负罪；责备
+		2. _v._ [charge](dic://charge), [accuse](dic://accuse), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		3. **prosecute**检举、告发某人;**confine**限制;**injure**伤害，损害;**habitually**习惯地;**compel**强迫，迫使;**betray**背叛;
+		4. And it is inadvisable to criminate the abettor separately by the aspect of legislation and judicature. /在个罪意义的立法和司法操作中也不宜于对教唆犯单独定罪。
+		5. To criminate the Monk, the constellated Mirror was produced, which Matilda had accidentally left in his chamber. /为了指控僧侣， 玛蒂尔达不小心将它留在了他的房间里， 制作了星座镜子。
+		6. While many indoor theft, it is very difficult to criminate those of larceny according to the above standard. /但很多入户盗窃行为，仅以以上标准难以对其进行定罪处罚。
+		7. recriminate
 			1. recriminative
 			2. recrimination
-		2. incriminate
-			1. incriminatory
-			2. incriminating
-		3. criminatory
-			1. recriminatory
-			2. discriminatory
-		4. criminative
-		5. crimination
-	3. criminological
-	4. criminologist
-	5. criminology
-	6. criminous
-	7. crime
-		1. noncrime
-		2. crimeless
-		3. anticrime
+				1. n. 反责，反控；（互相）指责，批评（常复数）
+				2. _n._ [accusation](dic://accusation), [accusal](dic://accusal)
+				3. **resentment**愤恨,不满,怨恨;**animosity**憎恨, 仇恨, 敌意;**indignation**愤怒, 愤慨, 气愤;**mistrust**不信任;**hostility**敌意;**retribution**应得的惩罚或赔偿;**anger**怒，愤怒;**condemnation**谴责;**humiliation**丢脸，耻辱;**cynicism**犬儒主义;**hatred**憎恨;
+				4. _[post-mortem recriminations](dic://post-mortem%20recriminations)_ 事后的反责
+				5. _[crimination and recrimination](dic://crimination%20and%20recrimination)_ 翻译；互相嫁祸罪 
+				6. It has unleashed a day of bitterness and recrimination inside the Conservative Party. /保守党内部也是相互指责。
+				7. Because you can imagine if there is a no deal Brexit in January, they're going to be all mighty recriminations. /可以想象，如果一月份英国脱欧没有达成协议，他们将会相互指责。
+				8. And I think there would be quite serious recriminations. /我认为会有相当严重的指责。
+				9.  The mutual recriminations come at a highly sensitive time /相互指责发生在一个高度敏感的时刻。
+				10. Nico says, " What's done is done and I'm tired of blame and recriminations." /Nico 说：“事情已经过去了， 我已经厌倦了责备和相互指责。
+				11. But every now and then Nathan would disappear and we were left alone, sitting beside each other, the short distance between us jangling with unspoken recriminations /但内森时不时地会消失，我们被单独留下，坐在一起，我们之间的短暂距离与不言自明的指责。
+				12. Amid mutual suspicion and **recrimination** after a row about IRA spying at Stormont, the experiment in power-sharing broke down in October 2002 /在就爱尔兰共和军在斯托蒙特进行情报活动一事发生争执后，双方相互猜忌，彼此谴责。分权的尝试也因此于2002年10月宣告失败
+		8. incriminate
+			1. _vt._ 使(某人)显得有罪, 牵连, 归罪于
+			2. _v._ [suggest](dic://suggest), [evoke](dic://evoke), [paint a picture](dic://paint a picture), [charge](dic://charge), [accuse](dic://accuse)
+			3. **embarrass**使窘迫;**prosecute**检举、告发某人;**discredit**败坏…的名声;**betray**背叛;**testify**作证;**prosecution**起诉, 诉讼;**accuse**控告，指控;**conceal**隐藏;**compel**强迫，迫使;**accomplice**从犯, 帮凶, 同谋;**intimidate**恐吓, 威胁;
+			4. He incriminated the thief to the judge. /他向法官控告了那个偷窃的人。
+			5. He had been forced to incriminate himself in cross-examinations. /他在盘问中被迫受到牵连。
+			6. Don't ask anything that's gonna like incriminate us cos this is permanant. /别问那种会让咱们被逮捕的问题，这可不是开玩笑的。
+			7. Ms. Boatman, I should caution you that you may plead the fifth in order to avoid incriminating yourself. /博特曼小姐，我提醒你可以提用第五修正案，以免自证其罪。
+			8. incriminatory
+			9. incriminating
+		10. criminatory
+			1. adj. 控告的；定罪的；责备的
+			2. recriminatory
+				1. _adj._ [inculpatory](dic://inculpatory), [inculpative](dic://inculpative)
+				2. _n._ [exculpatory](dic://exculpatory)
+				3. **vengeful**复仇的，报复的;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**hysterical**情绪异常激动的, 歇斯底里般的;**hostile**敌对的，敌方的;**uncivil**不文明的;**murderous**蓄意谋杀的;**antagonistic**敌对的;**vicious**恶的, 邪恶的;**cynical**愤世嫉俗的;**combative**好战的;
+				4. And they left the tent together, this pot-bellied man and florid woman, in the antipathetic, recriminatory mood of the average husband and wife of Christendom. /他们一起离开了帐篷， 这个大腹便便的男人和红润的女人， 怀着基督教世界普通夫妻那种反感、互相指责的心情。
+			3. discriminatory
+		12. criminative
+		13. crimination
+	5. criminological
+	6. criminologist
+	7. criminology
+		1. _n._ [sociology](dic://sociology)
+		2. **sociology**社会学;**psychology**心理;**anthropology**人类学;**forensics**取证，法医学;**forensic**法院的;**jurisprudence**法学及其分支;**economics**经济学;**psychiatry**精神病学;**neuroscience**神经系统科学;**humanities**人文学科;**crime**罪行，犯罪;
+		3. The relationship between victimology and criminology is a longstanding issue within the academic realm. /摘要被害入学与犯罪学之间的关系问题是学界的一个宿疑。
+		4. You've just graduated from U.C. Santa Barbara with a degree in criminology. /你刚刚从加州大学圣巴巴拉分校获得犯罪学学位。
+		5. We saw this in criminology, in studies of policing, gang prevention and reentry. /我们在犯罪学、治安、帮派预防和重返社会的研究中看到了这一点。
+		6. But he is not overly sentimental, he writes about criminology, how the police deal with the media and the perverted beliefs behind the crimes /但他并没有过度感伤。他写到犯罪学，警察怎样与媒体周旋，怎样应对罪行背后扭曲的信仰。
+	8. criminous
+		1. adj. 犯了罪的；犯罪（性）的
 6. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
 	1. autocrine
 	2. crinophagy
@@ -5273,10 +5748,39 @@
 	4. incretin
 	5. incretodiagnosis
 9. garble
+	1. garble - 该词源出原义为sift（筛）的阿拉伯语gharbala，很可能是通过香料贸易于15世纪末取道意大利语（作garbellare）和法语（作garbeler）进入英语之中的。英国同东方进行香料贸易之后，在伦敦城里随之出现了所谓garbler of spices（香料筛选员）的政府公务员，他们进出商店、仓库等地，检查香料，并将其杂质筛去。可见，garble在英语中的原始词义也是“筛选”。到了17世纪它才开始蒙上贬义，表示“使混乱不清”、“歪曲”和“使错乱”等，在现代英语中常以过去分词形式出现，作形容词用。
+	2. [falsify](dic://falsify), [distort](dic://distort), [warp](dic://warp)
+	3. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie)
+	4. **unintelligible**不可能理解的;**nonsensical**无意义的;**incoherent**不连贯的;**incomprehensible**费解的;**babbling**胡说;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**nonsense**谬论;**jargon**行话，术语;**decipher**译解;**drivel**淌口水,说傻话;**decode**译码，解码;
+	5. ungrabled
+	6. garbling
+	7. garbled
+		1. [confused](dic://confused), [disconnected](dic://disconnected), [disjointed](dic://disjointed), [disordered](dic://disordered), [illogical](dic://illogical), [scattered](dic://scattered), [unconnected](dic://unconnected)
+		2. _adj._ [incoherent](dic://incoherent)
+		3. _n._ [coherent](dic://coherent), [consistent](dic://consistent), [logical](dic://logical), [ordered](dic://ordered), [orderly](dic://orderly)
+		4. **unintelligible**不可能理解的;**muddled**混乱的;**incoherent**不连贯的;**distorted**扭歪的,受到曲解的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**incomprehensible**费解的;**disjointed**脱离开的,不连贯的;**nonsensical**无意义的;**muffled**听不清的;**cryptic**秘密的,隐秘的;**confusing**莫名其妙的, 难以理解的;
+		5. _[garbled statement](dic://garbled%20statement)_ 错用语句; 翻译; 错用语句英语; 
+		6. _[garbled message](dic://garbled%20message)_ 错乱讯息; 翻译; 
+		7. _[circuit garbling](dic://circuit%20garbling)_ 线路干扰; 线路干扰英语; 
+		8. _[garble elucidate](dic://garble%20elucidate)_ 曲解
 10. riddle
+	1. n. 谜语；谜一般的人（或事）；（筛分土石的）粗筛 
+	2. v. 猜（某人）出的（谜），为（某人）解（谜）；<古> 打谜语般地说，出谜；把……打得满是窟窿；（尤指令人不快之事）充斥，布满；用粗筛筛；摇动（炉栅）使灰落下
+	3. [conundrum](dic://conundrum), [enigma](dic://enigma), [brain-teaser](dic://brain-teaser)
+	4. [permeate](dic://permeate), [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue)
+	5. _n._ [problem](dic://problem), [sieve](dic://sieve), [screen](dic://screen)
+	6. _v._ [pierce](dic://pierce), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify)
+	7. waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
+	8. **puzzle**使…困惑;**mystery**神秘，秘密;**conundrum**谜,猜不透的难题,难答的问题;**enigma**谜，不可思议的东西;**puzzles**智力游戏;**solve**解决;**mysteries**古代的秘密宗教仪式;**puzzling**使莫明其妙的;**answer**符合;**paradox**悖论;**solving**解决办法;
+	9. riddle a target with bullets /用子弹把耙子打成蜂窝似的
+	10. This ladder is riddled with woodworm. /这个梯子已经让蛀虫蛀了很多洞.
+	11. I'll riddle you with bullets! /我要用子弹把你打得尽是窟窿。
+	12. a riddle that haunted me all morning /一个困扰我整个上午的谜语
+	13. Russia is a riddle wrapped in a mystery inside an enigma /俄罗斯是被包藏在一个闷葫芦里面的神秘物体之中的谜。
+	14. Her typing was slow and riddled with mistakes. /她打字打得慢不说，还老出错。
 
 
-### + \*kre-no- + = grain
+### ⭐ + \*kre-no- + = grain
 1. **corn-** = grain, 表示“种子”，和 grain 同源源自古英语 corn "grain."
 	1. corn
 		1. corncob
@@ -5479,7 +5983,7 @@
 5. serenely
 
 
-### + \*ksun- + = with (preposition & preverb)
+### ⭐ + \*ksun- + = with (preposition & preverb)
 1. **sym, syn- 共同，相同，对称 （sun, xun, 「ancient Greeks」"together with"）**
 	1. asymptote
 		1. _n._ [straight line](dic://straight line)
@@ -5928,7 +6432,7 @@
 7. wheel
 
 
-### + \*kwenth- +
+### ⭐ + \*kwenth- +
 1. **-pathy,-pathic,-pathia** = 表示“...病”或“治病法”。源自希腊语 pathos "suffering, passion, emotion, feelings."
 	1. arthropathy
 	2. axonopathy
@@ -6081,7 +6585,7 @@
 5. squash
 
 
-### + \*kwetwer- + = four
+### ⭐ + \*kwetwer- + = four
 1. **quadri-, quadru-, quart-** = = four, 表示“四”。源自拉丁语 quattuor "four."
 	1. quadruple
 	12. quadruplet
@@ -6131,7 +6635,7 @@
 5. square
 
 
-### + \*kwo- + = stem of relative and interrogative pronouns
+### ⭐ + \*kwo- + = stem of relative and interrogative pronouns
 1. **neutr-** = middle, 表示“中间”。其中 ne- 表示否定 + utr- 相当于 either, 即不在任何一边, 也就是位于中间状态。源自拉丁语 uter "either of two."
 	1. neuter
 		1. [impersonal](dic://impersonal)

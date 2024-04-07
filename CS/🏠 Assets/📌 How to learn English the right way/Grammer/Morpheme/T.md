@@ -402,7 +402,7 @@
 	1. [endowment](dic://endowment), [gift](dic://gift), [natural endowment](dic://natural endowment)
 
 
-### + \*tem- + = to cut
+### ⭐ + \*tem- + = to cut
 1. **-ectomy** = 表示“切除...手术”，由ec- + tomy组成。源自希腊语 temnein "to cut."
 	1. appendectomy
 	2. carcinectomy
@@ -422,9 +422,50 @@
 	7. colotomy
 	8. etc...
 4. **entom-** = insect, 表示“昆虫”，由 en- + tom- 复合而成。
+	1. entomic
+	2. entomical
+	3. entomology
+	4. entomophilous
 5. **templ-** = temple, 表示“庙”，和表示切割的词根“tom-”同源。源自拉丁语 templum "temple, shrine, open place for observation."
 	1. contemplate
+		1. _v._ [view](dic://view), [consider](dic://consider), [look at](dic://look at), [take](dic://take), [deal](dic://deal), [think](dic://think), [cogitate](dic://cogitate)
+		2. **ponder**仔细考虑;**consider**认为;**fathom**英寻;**envision**预想;**comprehend**理解, 领会;**imagine**想像;**examine**调查;**observe**观察;**considering**鉴于;**foresee**预知;**anticipate**先于…行动;
+		3. I contemplated the startling turn of events. /我回想着事情出人意料的变化。
+		4. Too complicated to even contemplate dating, double check. It's ok. /过于复杂而不能开始新恋情，更好了。这都没什么。
+		5. Halfway down, the carpenters contemplate the newly finished roof. /进程过半的时候，木匠们凝视着刚刚完工的屋顶。
+		6. The Buddha has not always been there for us to contemplate. /佛陀其实并没有供人瞻仰的具体形象。
+		7. It alone provides us with at least the potential to contemplate the Forms. /它至少给我们提供了探索这些形式的可能
+		8. We are not contemplating putting boots on the ground /我们不考虑输送地面部队。
+		9. What are you doing? -Just contemplating the next hundred years /做什么呢？ -在做下一百年的打算。
+		10. uncomtemplated
+			1. a. 未经思考的, 未料想到的, 意外的
+		11. contemplator
+		12. contemplative
+		13. contemplation
+			1. [reflection](dic://reflection), [reflexion](dic://reflexion), [rumination](dic://rumination), [musing](dic://musing), [thoughtfulness](dic://thoughtfulness)
+			2. _n._ [stare](dic://stare), [consideration](dic://consideration)
+			3. **introspection**内省;**meditation**默想, 默念;**meditative**沉思的;**stillness**静止,不动;**solitude**孤独;**reflection**映像, 倒影;**meditating**沉思的;**deliberation**审议;**introspective**好反省的;**serenity**平静，宁静;**meditate**考虑;
+			4. the contemplation of beauty /对美的深思
+			5. the road is too busy for leisurely contemplation of the scenery. /路上的交通太繁忙了，无睱欣赏景色。
+			6. She was lost in contemplation of the scene in front of her. /她给眼前的这一幕深深地吸引住了。
+			7. She bought three dresses in contemplation of her trip /她为了作一次旅行买了三套衣服。
+			8. That's a big step to undertake, and needs proper contemplation and skepticism. /这是一大步，需要适当的思考和怀疑。
+			9. Contemplation the history of the pineapple suggest a curious overlap between love and economics. /细细回味菠萝的历史，不难发现人们对事物的喜爱与它的价格之间有一种奇怪的重叠。
 	2. temple
+		1. n.庙宇，寺院，神殿，太阳穴  
+		2. temple（寺庙）：古罗马人为占卜划出的区域  
+		3. 古罗马人在占卜时，会用手或魔杖在空中划出一块区域，然后观察这片天空中所发生的事，如飞鸟从何方飞入。还有可能在地面上划出一块区域，然后在这个区域内进行占卜。英语单词temple（寺庙）就跟这种占卜做法有关。它来自拉丁文templum，本意是“划出来用来占卜的区域”，其中的tem就是“划分”的意思。  
+		4. 英语单词contemplate（沉思）也与观鸟占卜法有关。它由拉丁文com和templum构成，其中的com表示加强语气，因此contemplate的本意是“划出一片区域，然后仔细观察”。contemplate既含有“注视”的意思，又含有“沉思”的意思，因为占卜时需要在仔细观察的同时思考所见迹象所表示的吉凶意味。  
+		5. [synagogue](dic://synagogue), [tabernacle](dic://tabernacle) 
+		6. _n._ [place of worship](dic://place of worship), [house of prayer](dic://house of prayer), [house of God](dic://house of God), [house of worship](dic://house of worship), [feature](dic://feature), [lineament](dic://lineament), [building](dic://building)
+		7. **shrine**圣地;**palace**宫殿;**synagogue**犹太人集会;**sanctuary**圣所;**monastery**修道院;**tomb**坟墓;**altar**祭坛;**deity**神;**basilica**长方形会堂;**church**教堂;**mosque**清真寺;
+		8. contemplate： ['kɒntempleɪt; -təm-] v.注视，沉思，冥思苦想  
+		9. contemplation： [,kɒntem'pleɪʃ(ə)n]n.注视，沉思，意图
+		10. a temple of Olympian Zeus /奥林匹斯山的宙斯殿。
+		11. the archaic temple at Corinth. /科林斯的古庙。
+		12. the stately Temple of Heaven /宏伟堂皇的天坛
+		13. the library, a temple of learning. /图书馆，一座知识的殿堂
+		14. The roof of the ancient temple caved in because of bad maintenance. /那座古老的宙宇由于维护不好屋顶塌了下来。
 6. **tom-, tem-, ton-** = cut, 表示“切割”，来自拉丁语。源自希腊语 temnein "to cut."
 	1. atom
 	2. diatom
@@ -448,49 +489,68 @@
 ### ⭐ + \*teme- +
 1. **temer-** = 原意表示“天黑”，引申为“害怕”和“鲁莽”。源自拉丁语 temere "blandly, rashly."
 	1. timid
-		1. [cautious](dic://cautious)
-		2. [diffident](dic://diffident), [shy](dic://shy), [unsure](dic://unsure)
-		3. [faint](dic://faint), [fainthearted](dic://fainthearted), [faint-hearted](dic://faint-hearted)
-		4. _n._ [people](dic://people)
-		5. _adj._ [bashful](dic://bashful), [coy](dic://coy), [fearful](dic://fearful), [timorous](dic://timorous), [trepid](dic://trepid), [intimidated](dic://intimidated), [mousy](dic://mousy)
-		6. _n._ [brave](dic://brave)
-		7. _n._ [bold](dic://bold), [confident](dic://confident), [brave](dic://brave), [courageous](dic://courageous)
-		8. **shy**害羞的;**meek**温顺的;**frightened**害怕的;**fearful**可怕的;**cautious**谨慎的;**hesitant**踌躇的;**fearless**无畏的;**aloof**冷淡的;**clumsy**笨拙的;**wary**机警的;**cowardly**怯懦的，懦弱的;
-	2. intimidate
-		1. _v._ [frighten](dic://frighten), [fright](dic://fright), [scare](dic://scare), [affright](dic://affright), [discourage](dic://discourage)
+		1. 来自拉丁语 timere,使恐惧，可能来自 PIE*teme,黑暗的，词源同 temerity,tenebrous.
+		2. [cautious](dic://cautious)
+		3. [diffident](dic://diffident), [shy](dic://shy), [unsure](dic://unsure)
+		4. [faint](dic://faint), [fainthearted](dic://fainthearted), [faint-hearted](dic://faint-hearted)
+		5. _n._ [people](dic://people)
+		6. _adj._ [bashful](dic://bashful), [coy](dic://coy), [fearful](dic://fearful), [timorous](dic://timorous), [trepid](dic://trepid), [intimidated](dic://intimidated), [mousy](dic://mousy)
+		7. _n._ [brave](dic://brave)
+		8. _n._ [bold](dic://bold), [confident](dic://confident), [brave](dic://brave), [courageous](dic://courageous)
+		9. **shy**害羞的;**meek**温顺的;**frightened**害怕的;**fearful**可怕的;**cautious**谨慎的;**hesitant**踌躇的;**fearless**无畏的;**aloof**冷淡的;**clumsy**笨拙的;**wary**机警的;**cowardly**怯懦的，懦弱的;
+	3. intimidate
+		1. in-,进入，使，timid,胆小的，害怕的。即使害怕，恐吓，威胁。
+		2. _v._ [frighten](dic://frighten), [fright](dic://fright), [scare](dic://scare), [affright](dic://affright), [discourage](dic://discourage)
 			1. [alarm](dic://alarm) 着重指某人意识到危险而突然产生的惊恐。  
 			2. [frighten](dic://frighten) 普通用词，使用广泛，指产生突然、短暂的惊慌、恐怖感。  
 			3. [startle](dic://startle) 强调突然使人惊骇或震惊。  
 			4. [terrify](dic://terrify) 语气最强，指惊骇得六神无主，魂飞魄散。  
 			5. [scare](dic://scare) 指非正式文体中可与frighten换用，但语气较重，侧重人受惊吓后立即停下正在干的事或跑掉。  
 			6. [intimidate](dic://intimidate) 特指恐吓某人，迫使其做某事。
-		2. **frighten**使惊吓;**harass**使烦恼;**embarrass**使窘迫;**humiliate**蒙羞;**threaten**威胁;**dissuade**劝阻，劝止;**bully**欺凌弱小者;**retaliate**报复, 反击;**discredit**败坏…的名声;**alienate**使疏远，离间;**persuade**说服，劝说;
-	3. temerarious
-		1. _[temerarious](dic://temerarious)_  adj. 鲁莽的；不顾一切的；极大胆的
-		2. _adj._ [bold](dic://bold)
-		3. _n._ [timid](dic://timid)
-		4. **audacious**大胆的, 有冒险精神的;**pious**虔诚的;**daring**大胆的，勇敢的;**heretical**异教的;**foolish**愚蠢的;**hasty**匆忙的;**timid**羞怯的;**dogmatic**教条的;
-	5. temerity
+		3. **frighten**使惊吓;**harass**使烦恼;**embarrass**使窘迫;**humiliate**蒙羞;**threaten**威胁;**dissuade**劝阻，劝止;**bully**欺凌弱小者;**retaliate**报复, 反击;**discredit**败坏…的名声;**alienate**使疏远，离间;**persuade**说服，劝说;
+	5. temerarious
+		1. 来自 temerity,鲁莽，-ous,形容词后缀。
+		2. _[temerarious](dic://temerarious)_  adj. 鲁莽的；不顾一切的；极大胆的
+		3. _adj._ [bold](dic://bold)
+		4. _n._ [timid](dic://timid)
+		5. **audacious**大胆的, 有冒险精神的;**pious**虔诚的;**daring**大胆的，勇敢的;**heretical**异教的;**foolish**愚蠢的;**hasty**匆忙的;**timid**羞怯的;**dogmatic**教条的;
+	7. temerity
+		1. 来自拉丁语 temere,盲目，冲动，鲁莽，来自 PIE*teme,黑暗，词源同 tenebrous,黑暗的。
+		2. n. 鲁莽，冒失；蛮勇
 		1. [audacity](dic://audacity), [audaciousness](dic://audaciousness)
 		2. _n._ [boldness](dic://boldness), [daring](dic://daring), [hardiness](dic://hardiness), [hardihood](dic://hardihood)
-		3. **audacity**厚颜无耻;**dared**敢于;**dare**的风险;**dares**敢;**gall**擦伤;**denounce**谴责;**accuse**控告，指控;**gleefully**极快乐地,欢欣地;**criticise**批评;**refusal**拒绝;**foolishly**愚蠢地;
+		3. **audacity**厚颜无耻;**dared**敢于;**dare**的风险;**dares**敢;**gall**擦伤;**denounce**谴责;**accuse**控告，指控;**gleefully**极快乐地,欢欣地;**criticise**批评;**refusal**拒绝;**foolishly**愚蠢地; nerve
 		4. _[Imagine Her Temerity](dic://Imagine%20Her%20Temerity)_ 想象一下她鲁莽
 		5. _[temerity pusillanimity](dic://temerity%20pusillanimity)_ 大胆; 蛮勇; 胆怯断; 
 		6. _[temerity circumspection](dic://temerity%20circumspection)_ 鲁莽
 		7. _[forwardness temerity](dic://forwardness%20temerity)_ 卤莽
+		8. had the nerve to deny it 
+		9. He had the temerity to call me a liar /他竟胆敢说我撒谎。
+		10. no one had the temerity to question his conclusions /没人冒失到对他的结论提出异议。
+		11. Beating against the strings that had been put in without order or concert and had been tuned with temerity, the hammers let go /锤子敲打着没有秩序或音乐会地安放并且被鲁莽调音的琴弦，松开了。
 	1. timorous
-		1. [fearful](dic://fearful), [trepid](dic://trepid)
-		2. _adj._ [timid](dic://timid)
-		3. _n._ [bold](dic://bold)
-		4. **timid**羞怯的;**fearful**可怕的;**frightened**害怕的;**meek**温顺的;**aloof**冷淡的;**feeble**微弱的，无力的;**cowardly**怯懦的，懦弱的;**anxious**渴望的;**foolish**愚蠢的;**restless**焦躁不安的;**apprehensive**忧虑的;
-		5. [Timor](dic://Timor)n. 帝汶岛（马来群岛中的一座岛屿）
+		1. adj. 胆怯的；胆小的；羞怯的
+		2. 来自拉丁语 timor,恐惧，胆小，来自拉丁语 timere,使恐惧，词源不详，词源同 timid.
+		3. [fearful](dic://fearful), [trepid](dic://trepid)
+		4. _adj._ [timid](dic://timid)
+		5. _n._ [bold](dic://bold)
+		6. **timid**羞怯的;**fearful**可怕的;**frightened**害怕的;**meek**温顺的;**aloof**冷淡的;**feeble**微弱的，无力的;**cowardly**怯懦的，懦弱的;**anxious**渴望的;**foolish**愚蠢的;**restless**焦躁不安的;**apprehensive**忧虑的;
+		7. [Timor](dic://Timor)n. 帝汶岛（马来群岛中的一座岛屿）
+		8. She is as timorous as a rabbit /她胆小得像只兔子。
+		9. in a timorous and trepid manner /以胆小、惊恐的方式。
+		10. timorous of venturing an opinion. /由于胆怯而不敢发表意见
+		11. Too timorous to protest the disrespect with which she was being treated, the young woman could only accept it with resignation. /这个年轻的女人太懦弱了以致无力抗争她所遭受的不敬，她只能接受这一事实。
+		12. Their intention to become husband and wife, at first halting and timorous, had accumulated momentum with the lapse of hours, till it now bore down every obstacle in its course /他们结为夫妻的打算， 起初犹豫不决， 胆小怕事，随着时间的流逝， 势头越来越大， 直到现在克服了过程中的每一个障碍。
 1. **tenebr-** = dark, 表示“黑暗”。源自拉丁语 tenebrae "darkness."
-	1. tenebrific (swart)
+	1. tenebrific (swart, negro, nocturne)
 		1. _adj._ 产生黑暗的;阴暗的;阴沉的
 	2. tenebrous
-		1. _adj._ [dark](dic://dark)
-		2. _n._ [light](dic://light)
-		3. **shadowy**有阴影的;**dark**黑暗的，深色的;**ethereal**天上的;**eerie**可怕的;**ominous**不祥的;**darkness**黑暗;**enigmatic**谜的;**brooding**沉思的;**ghostly**幽灵的;**otherworldly**非现实世界的;**sinister**阴险的;
+		1. adj. 黑暗的；阴暗的；晦涩的
+		2. _adj._ [dark](dic://dark)
+		3. _n._ [light](dic://light)
+		4. **shadowy**有阴影的;**dark**黑暗的，深色的;**ethereal**天上的;**eerie**可怕的;**ominous**不祥的;**darkness**黑暗;**enigmatic**谜的;**brooding**沉思的;**ghostly**幽灵的;**otherworldly**非现实世界的;**sinister**阴险的;
+		5. What Gloria hoped in the tenebrous depths of her soul, what she expected that great gift of money to bring about, is difficult to imagine /格洛丽亚在她阴暗的灵魂深处所希望的， 她所期望的那笔巨额金钱礼物会带来什么， 是难以想象的。
+		6. During the first debate, live shots of Fulton County jail, where Mr Trump was due to turn himself in, had the air of a villain's lair, the tenebrous place standing in for the elusive man. /在第一场辩论中，富尔顿县监狱（特朗普将在那里自首）的现场镜头有一种恶棍巢穴的气氛，这个阴暗的地方代表了这个难以捉摸的男人。
 
 
 ### temn-,tempt- ＝ scorn, 表示“藐视”。
@@ -508,7 +568,7 @@
 	9. _beneath contempt_ 卑鄙到极点的
 
 
-### + \*temp- + = stretched
+### ⭐ + \*temp- + = stretched
 1. **tempor-** = time, age, season, 表示“时间”或时间引起的现象。
 	1. contemporize
 		1. **modernize**现代化;**reinvent**重新使用;**revitalize**使恢复元气,使具有新的活力;**redefine**重新定义;**renovate**修复;**re-create**改造;**revive**苏醒;**revamp**修补;**infuse**使充满;**reworking**再次加工,再造,再加工;**rework**重做;
@@ -660,7 +720,7 @@
 6. Thursday
 
 
-### + \*ten- + = to stretch
+### ⭐ + \*ten- + = to stretch
 1. **-tene** = ribbon,“带”，用来指减数分裂中染色体的形状或数目，中文译作“...线期”。源自拉丁语 taenia "taenia, band."
 	1. etc...
 2. **tain-, ten-, tin-** = hold, 表示“拿住”，来自拉丁语，原意表示“展开”。
@@ -1098,7 +1158,7 @@
 
 
 ### + \*tere- +
-#### + \*tere- (1) + = to rub, turn
+#### ⭐ + \*tere- (1) + = to rub, turn
 1. **-tresis, -tresia** = perforation, 表示“孔，穿孔”。源自希腊语 tresis "perforation."
 	1. tresis
 	2. etc..
@@ -1839,7 +1899,7 @@ abstemious
 		6. Principle of **thwartwise** motion in tufting machine, hardware and function of Programmable Multi-Axis Controller (PMAC) and controlling process were presented /叙述了地毯簇绒机中横动运动的伺服控制，提出了基于可编程多轴控制器（PMAC）运动控制卡的半闭环控制系统。
 
 
-### test- 表示“壳，罐子，陶片，龟，头”。源自拉丁语 testudo (词干 testudin-) "tortoise."
+### ⭐ test- 表示“壳，罐子，陶片，龟，头”。源自拉丁语 testudo (词干 testudin-) "tortoise."
 1. testacean
 2. testy (test -> trei-)
 	1. [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [tetchy](dic://tetchy), [techy](dic://techy)
@@ -2246,7 +2306,7 @@ abstemious
 
 
 ## ti
-### -tic,-atic,-etic,-itic = 表形容词，通常放在一个名词前，“与…相关的，…的”。
+### ⭐ -tic,-atic,-etic,-itic = 表形容词，通常放在一个名词前，“与…相关的，…的”。
 1. apathetic
 2. etc..
 
@@ -3351,7 +3411,7 @@ abstemious
 
 
 ## tu
-### -ture,-ature,-iture 表名词，通常在单词或词根以t结尾时使用，表示“一般状态，行为”。
+### ⭐ -ture,-ature,-iture 表名词，通常在单词或词根以t结尾时使用，表示“一般状态，行为”。
 1. armature
 2. candidature
 3. caricature
@@ -3550,7 +3610,7 @@ abstemious
 
 
 ## tw
-### + \*(s)twer- +
+### ⭐ + \*(s)twer- +
 1. **turb-** = stir, 表示“搅动”。源自希腊语 turbe "tumult, disorder."
 	1. turbo
 		1. turbocharger

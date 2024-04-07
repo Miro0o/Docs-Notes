@@ -442,7 +442,14 @@
 		13. paleface
 	3. palisade
 		1. n. 木栅 vt. 用栅栏围护
-		2. palisade [,pælɪ'seɪd] n.栅栏；木桩；细胞层，vt.用栅栏围护。前边说bailey是城堡的外栅，那可以想象到一定是用尖头的木桩固定在地面上，同理，表示木桩的拉丁词根pal-也有单词impale [ɪm'peɪl] v.刺穿；钉住；使绝望和pale [peɪl] n.栅栏等存在。换个思路，中文里的“栅”字，从木，册象形也。 ​​​​
+		2. palisade [,pælɪ'seɪd] n.栅栏；木桩；细胞层，vt.用栅栏围护。前边说bailey是城堡的外栅，那可以想象到一定是用尖头的木桩固定在地面上，同理，表示木桩的拉丁词根pal-也有单词impale [ɪm'peɪl] v.刺穿；钉住；使绝望和pale [peɪl] n.栅栏等存在。换个思路，中文里的“栅”字，从木，册象形也。 ​​
+		3. [wall](dic://wall), [fence](dic://fence), [fence in](dic://fence in), [surround](dic://surround) 
+		4. _n._ [fortification](dic://fortification), [munition](dic://munition)
+		5. _v._ [protect](dic://protect)
+		6. **fortification**加强;**fortifications**防御工事;**fort**堡垒;**fortress**要塞;**fortified**加强的;**citadel**城堡;**fence**栅栏;**fences**围墙;**moat**护城河;**perimeter**周边;**garrison**守备部队, 卫戍部队;
+		7. There is a palisade between the two yards. /两个院子中间有一道篱笆。
+		8. They surrounded the yard with a palisade /他们用篱笆把院子围起来了。
+		9. The smallest veins are in direct contact with chlorenchyma, both palisade and spongy tissue. /最小的脉是直接和栅栏组织及海绵组织的绿色组织相联结。
 	4. pole
 		1. 来自古英语 pal,杆，桩，来自拉丁语 palus,杆，桩，来自 PIE*pag,固定，词源同 pale,pile,pillar.拼写比较 rule,regulate.  
 		2. 来自拉丁语 polus,地级，天空，来自希腊语 polos,轴心，地轴，来自 PIE*kwel,转，转动，词源同 cycle,wheel.  
@@ -462,8 +469,46 @@
 		16. catchpole
 		17. antipole
 6. fang
+	1. _n._ [Bantu](dic://Bantu), [Bantoid language](dic://Bantoid language), [canine](dic://canine), [canine tooth](dic://canine tooth), [eyetooth](dic://eyetooth), [eye tooth](dic://eye tooth), [dogtooth](dic://dogtooth)
+	2. **fangs**尖牙;**claws**爪子;**dragon**龙;**claw**爪;**dagger**匕首，短剑;**teeth**牙齿;**bite**咬;**jaws**狭口;**vampire**吸血鬼;**dragons**龙;**tang**强烈的味道;
+	3. The piercing wind fanged his ears. /刺骨的寒风吹得他耳朵疼痛。
+	4. Dogs came lunging forward with their fangs bared. /狗龇牙咧嘴地扑过来。
+	5. The dog fleshed his fangs in the deer's leg. /狗用尖牙咬住了鹿腿。
+	6. The snake sank its fangs into its victim. /蛇咬住了猎物。
+	7. It looked as if Norbert's fangs were poisonous. /看来诺伯的牙齿是有毒的。
+		1. Take those stupid fangs out, Dale /脱下你那愚蠢的獠牙 戴尔。
 7. fast
-8. fay
+	1. adj. 快的，迅速的；系牢的，紧缚的；寻欢作乐的；不褪色的；忠实的，可靠的
+	2. adv. 快速地；坚定地，牢固地
+	3. v. 斋戒，禁食
+	4. n. 斋戒，斋戒期
+	5. [fasting](dic://fasting)
+	6. [barred](dic://barred), [bolted](dic://bolted), [latched](dic://latched), [locked](dic://locked), [secured](dic://secured)
+	7. [debauched](dic://debauched), [degenerate](dic://degenerate), [degraded](dic://degraded), [dissipated](dic://dissipated), [dissolute](dic://dissolute), [libertine](dic://libertine), [profligate](dic://profligate), [riotous](dic://riotous)
+	8.  [flying](dic://flying), [quick](dic://quick)
+	9. [firm](dic://firm), [immobile](dic://immobile)
+	10.  [firm](dic://firm), [loyal](dic://loyal), [truehearted](dic://truehearted)
+	11. _n._ [abstinence](dic://abstinence)
+	12. _v._ [abstain](dic://abstain), [refrain](dic://refrain), [desist](dic://desist)
+	13. _adj._ [accelerated](dic://accelerated), [accelerating](dic://accelerating), [alacritous](dic://alacritous), [blistering](dic://blistering), [hot](dic://hot), [red-hot](dic://red-hot), [double-quick](dic://double-quick)
+	14. _n._ [slow](dic://slow), [rough](dic://rough), [unsmooth](dic://unsmooth), [unfastened](dic://unfastened), [pervious](dic://pervious), [moral](dic://moral), [amoral](dic://amoral)
+	15. **slow**慢的;**quick**迅速的，快的;**quickly**很快地;**easy**容易的;**slower**较慢的;**rapid**迅速的，急促的;**rapidly**迅速地;**paced**步伐的;**speed**加速，迅速前行;**furious**狂怒的;**speedy**快的;
+	16. fast film. 
+	17. fast colors /不易褪的颜色
+	18. a fast grip /紧握 
+	19. fast friends /忠诚的朋友
+	20. fast bowling /快投。
+	21. a fast learner./学得快的人。
+	22. ran with a fast crowd. /与一伙放荡不羁的人交往
+	23. hard and fast rules /严格的规定
+	24. fall into a fast sleep /酣睡起来
+9. fay
+	1. n. 小仙女；妖精
+	2. vi. 接合
+	3. vt. 接合
+	4.  [fairy](dic://fairy), [faery](dic://faery), [faerie](dic://faerie), [sprite](dic://sprite)
+	5. _n._ [spiritual being](dic://spiritual being), [supernatural being](dic://supernatural being)
+	6. **ay**唉！呜呼！;**ere**在…以前;**j**字母j;**lee**保护;**ana**言论集;**ted**翻晒;**bi**元素铋的符号;**ber**比特误差率;**ri**里;**carol**欢乐地歌唱;**fa**足球协会;
 
 
 ### + \*pal- + = to touch, feel, shake, strike softly
@@ -1675,7 +1720,34 @@
 ### + ⭐ \*pele- +
 #### + \*pele- (1) + = to fill
 1. **-ful** = 表形容词，“有…的”，和单词full同源。
+	1. artful
+	2. awful
+	3. baleful
+	4. baneful
+	5. bashful
+	6. beautiful
+	7. blameful
+	8. blissful
+	9. boastful
+	10. bodeful
+	11. bountiful
+	12. brimful
+	13. careful
+	14. changeful
+	15. cheerful
+	16. colourful
+	17. deathful
+	18. etc..
 2. **-ful** = 表名词，“满，量”，和单词full同源。
+	1. apronful
+	2. armful
+	3. bagful
+	4. basinful
+	5. basketful
+	6. bellyful
+	7. boatful
+	8. bowful
+	9. etc..
 3. **ple-. plet-, pli-** = to fill, 表示“填满”。源自拉丁语 plere "to fill"
 	1. complete
 		1. uncompleted
@@ -1748,6 +1820,9 @@
 		3. compliance
 			1. noncompliance
 			2. incompliance
+		4. compliancy
+			1. _n._ [agreeableness](dic://agreeableness), [agreeability](dic://agreeability)
+			2. **compliance**服从,听从,顺从;**compliant**遵从的,依从的,顺从的,屈从的;**interoperability**互用性,协同工作的能力;**conformity**依照, 遵从;**standardization**标准化;**HIPAA**健康保险流通与责任法案;**compatibility**适合，一致;**requirements**必要条件;**stringent**严格的;**assurance**保证，担保;**regulations**规程;
 	12. pleomorph
 	13. supply
 		1. sundersupply
@@ -1769,7 +1844,27 @@
 			5. supplementary
 			6. supplemental
 4. **pleb-** = the people, 表示“群众”。源自拉丁语 plebs, plebes "the people, multitude."
+	1. plebe
+	2. plebeian
+		1. plebeianism
+	3. plebiscite
+		1. plebiscitary
+	4. plebs
+	5. plebisitum
 5. **pleio-, pleo-, pul-** = 表示“多”。源自希腊语 pleon, pleion "more."
+	1. manipulate
+		1. manipulable
+		2. manipulation
+		3. manipulatory
+		4. manipulator
+		5. manipulative
+		6. manipulation
+		7. manipulating
+	2. pleonasm
+		1. pleonastic
+	3. pleiotropic
+	4. pleistocene
+	5. pliocene
 6. **plen-** = full, 表示“满”。源自拉丁语 plenus "full."
 	1. plenary
 		2. **keynote**主音;**symposium**讨论会, 专题报告;**conference**会议;**seminar**讨论会，研讨班;**session**会议;**convened**集合;**lecture**演讲;**presentation**介绍;**meeting**会议;**proceedings**诉讼，诉讼程序;**congress**国会;
@@ -1829,64 +1924,325 @@
 	7. deplenish
 		1. vt. 用尽；耗尽
 1. **pleth-** = full, 表示“满”。源自希腊语 plethein "to be full."
-2. **plu-** = more，表示“多”，和词根 pleio-, plen- 等同源。源自拉丁语 pluvia "rain."
+	1. plethora
+	2. plethoric
+	3. aeroplethysmograph
+	4. etc..
+2. **plu-, plur-, plor-** = more，表示“多”，和词根 pleio-, plen- 等同源。源自拉丁语 pluvia "rain."
+	1. plural
+		1. plurally
+		2. pluralize
+		3. plurality
+		4. pluralistic
+		5. pluralist
+		6. pluralism
+	2. plus
+		1. surplusage
+		2. pluperfect
+		3. overplus
+		4. nonplus
+			1. nonplussed
+		5. cost-plus
+	3. surplus
+		1. surplusage
 3. **poly-** = 表示“多”，来自希腊语。源自希腊语 polus "much, many."
 	1. polymath
 		1. _n._ [initiate](dic://initiate), [learned person](dic://learned person), [pundit](dic://pundit), [savant](dic://savant)
 		2. **mathematician**数学家;**philosopher**哲学家;**physicist**物理学家;**astronomer**天文学家;**thinker**思想家;**poet**诗人;**historian**历史学家, 史学工作者;**linguist**语言学家;**scholar**学者;**theologian**神学家;**theorist**理论家;
-	2. etc..
+	2. polychrestic
+		1. _adj._ (药品等)有多种用途的;多能的;(话)有多种意义的
+	3. polychrome
+	4. etc..
 4. fill
 5. folk
 6. full
 #### + \*pele- (2) + = flat, to spread
 1. **-plasia** = molding, 表示“形成，生成”。源自希腊语 plassein "to mold"
+	1. dysplasia
+		1. _n._ 发育异常；发育不良，(由发育异常形成的)异常结构
+		2. Leukoplakia may show cells that have undergone some degree of dysplasia, meaning they look abnormal in some way, but are not cancerous, or malignant, yet. /白斑可能还意味着某些细胞经历了一定程度的不典型增生，即它们在某些方面看起来不正常，但还不是癌性/恶性的。
+		3. This dysplasia increases the chance that these cells might eventually develop into laryngeal cancer /异型增生增加了最终进展为喉癌的可能。
+		4. Fibromuscular dysplasia, which affects young women, can cause the walls of the large- and medium-sized arteries to thicken. /像是肌纤维发育不良，多见于年轻女性，可能会导致大、中型动脉血管壁变厚。
+	2. hyperplasia
+		1. _n._ [dysplasia](dic://dysplasia)
+		2. **carcinoma**癌;**fibrosis**纤维化，纤维变性;**necrosis**坏死;**epithelium**上皮;**epithelial**上皮的;**apoptosis**细胞死;**lesion**损害;**infarction**梗塞;**edema**瘤腺体;**atrophy**萎缩，萎缩症;**hepatic**肝的;
+		3. nutritional gill disease Gill hyperplasia caused by a deficency of pantothenic acid in the diet. /营养性鳃病由于饵料中泛酸的缺乏而引起鳃部的畸形增殖。
+		4. Objective: To study the effect of Ulinastatin on brain weight and cerebrocellular degeneration、necrosis、apoptosis and gliocyte hyperplasia of hypoxic-ischemia encephalopathy in newborn rats /目的：探讨乌司他丁对新生鼠缺氧缺血性脑病脑重量及脑细胞变性、坏死、凋亡、胶质细胞增生的影响。
+	3. hypoplasia
+		1. _n._ [dysplasia](dic://dysplasia)
+		2. **abnormalities**异常情况;**congenital**先天的,天生的;**abnormality**不正常,反常,变态,畸形;**atrophy**萎缩，萎缩症;**stenosis**狭窄;**insufficiency**不充足,不足;**fibrosis**纤维化，纤维变性;**retardation**延迟;**cranial**头盖的;**lesion**损害;**edema**瘤腺体;
+	4. metaplasia
+		1. n. [医] 化生，[医] 转化；[医] 组织变形
+	5. neoplasia
+		1. n. 瘤形成
 2. **palm-, pelm-** = palm, 表示“手掌”。源自拉丁语 palma "palm of hand."
+	1. palm
+		1. n. 手掌，手心；（手套的）掌部；（制帆工用的）护掌；棕榈树；（作为奖赏或胜利象征的）棕榈叶；鹿角的扁平部分 
+		2. v. 把……藏在手中（尤指玩戏法）；（篮球）持球犯规；用手挡（球）
+		3. [thenar](dic://thenar)
+		4. [palm tree](dic://palm tree)
+		5. [decoration](dic://decoration), [laurel wreath](dic://laurel wreath), [medal](dic://medal), [medallion](dic://medallion), [ribbon](dic://ribbon)
+		6.  [handle](dic://handle)
+		7. _n._ [area](dic://area), [region](dic://region), [linear unit](dic://linear unit), [tree](dic://tree), [award](dic://award), [accolade](dic://accolade), [honor](dic://honor)
+		8. _v._ [touch](dic://touch)
+		9. **coconut**椰子;**hand**手，手艺;**finger**手指;**forearm**前臂;**mango**芒果;**grove**小树林;**cane**手杖;**olive**橄榄;**trees**树木;**fingers**梳状剔除器;**tree**树;
+		10. a pool bordered by palm trees. /周围围着棕榈树的池子。
+		11. the sea is fringed by palm trees /海边有一排棕榈树。
+		12. she placed the money on the palm of her hand. /她将钱放在她的手掌上。
+		13. They can't palm off that tale on us. /他们那套话骗不了我们。
+		14. the dense perplexity of dwarf palm, garlanded creepers, glossy undergrowth /矮棕树、花环形匍匐植物和有光泽的林下灌丛密密麻麻缠绕在一起。
+		15. After a long time, he landed on Buddha's palm again. /过了好长时间，他回到了如来的手掌里。
+		16. palmy
+			1. adj. 繁荣的；多棕榈的
+			2. [booming](dic://booming), [flourishing](dic://flourishing), [prospering](dic://prospering), [prosperous](dic://prosperous), [roaring](dic://roaring), [thriving](dic://thriving)
+			3. _adj._ [successful](dic://successful)
+			4. [unsuccessful](dic://unsuccessful)
+			5. **bygone**过去的;**heyday**全盛期;**nigh**近于;
+			6. the palmy days of the 1970s. /20世纪70年代的兴旺时期。
+			7. " It must have been just like the palmy days of the British drama"  /“那一定就像英剧的辉煌岁月”。
+			8. This idea transported her into the palmiest days of the age of Charles IX. /这个想法将她带入了查理九世最辉煌的岁月。
+		3. palmprint
+		4. palmoplantar
+		5. palmist
+			1. palmistry
+		6. paliped
+		7. palmful
+			1. n. 满把；一把的量
+		8. palmetto
+		9. palmer
+			1. n. 朝圣者；变戏法的人；毛虫（尤指北美的小舌麦蛾幼虫）
+		10. palmate
+			1. adj. （叶子）掌状的；（鹿角）掌形的；有蹼的
+			2. [palm-shaped](dic://palm-shaped)
+			3. _adj._ [webbed](dic://webbed), [compound](dic://compound)
+			4. _n._ [unwebbed](dic://unwebbed), [simple](dic://simple), [unsubdivided](dic://unsubdivided)
+			5. **deciduous**每年落叶的;**shrub**灌木;**whitish**带白色的;**leaf**叶子;**foliage**叶子;**slender**微薄的;**yellowish**微黄色的;**dorsal**背的，背侧的;**basal**基础的;**apical**顶上的, 顶点的;
+			6. semipalmate
+			7. palmature
+				1. n. 蹼指
+			8. palmation
+				1. n. 手掌状，掌状结构
+			9. palmatifid
+		1. palmar
+			1. adj. 掌中的，手掌的
+			2. [volar](dic://volar)
+			3. _adj._ [palm](dic://palm), [thenar](dic://thenar), [sole](dic://sole)
+			4. **plantar**脚底的;**cutaneous**皮肤的;**dorsal**背的，背侧的;**anterior**前面的;**medial**中间的;**femoral**股骨的;**extremities**末端;**proximal**最接近的，邻近的;**distal**末梢的，末端的;**ventral**腹部的;**venous**静脉的;
+			5. transpalmar
+			6. radiopalmar
+			7. palmaris
+			8. palmary
+				1. adj. 杰出的；卓越的
+		3. palmae
+		4. palmaceous
+			1. adj. 棕榈科的
+		5. palma
+		6. bipalmate
+	2. palmister
+	3. palmitin
+		1. tripalmitin
+		2. monopalmitin
+		3. dipalmitin
+	4. pelmet
+		1. n. 门帘盒；装饰窗帘
+		2. _n._ [framework](dic://framework), [frame](dic://frame), [framing](dic://framing)
+		3. [cornice](dic://cornice), [valance](dic://valance), [valance board](dic://valance board)
+		4. **curtains**灾难;**headboard**床头板;**curtain**窗帘;**blinds**百叶窗;**chandelier**枝形吊灯;**drapes**窗帘;**pleated**起褶的;**shelving**倾斜，架子;**sash**肩带;**skirt**裙子;**tulle**薄纱;
+	5. pelmet
 3. **patell-** 表示“髌骨、膝盖骨”。和pan-同源。
+	1. patella
+		1. n. [解剖]膝盖骨
+		2. [genus Patella](dic://genus Patella)
+		3. _n._ [sesamoid bone](dic://sesamoid bone), [sesamoid](dic://sesamoid), [os sesamoideum](dic://os sesamoideum), [mollusk genus](dic://mollusk genus)
+		4. **tendon**腱;**ligament**韧带;**femur**股骨;**knee**膝盖，膝;**cartilage**软骨;**ankle**踝关节，踝;**ligaments**韧带;**femoral**股骨的;**tendons**肌腱，腱;**pelvis**骨盆;**plantar**脚底的;
+		5. If you feel the patella, you can tell it's artificial /如果摸到髌骨，就知道是人造的。
+		6. Two fingers from the patella. Fishmouth incision /离膝盖骨两指 作鱼口式切口。
+	3. patellar
+	4. patellate
+		1. adj. 膝盖骨形状的
+	5. Patella
 4. **plan-** = wandering, 表示“漫游”。源自希腊语 planetai "wandering."
+	1. planet
+		1. planetology
+		2. planetoid
+		3. planetography
+		4. planetographic
+		5. planetocentric
+		6. planetfall
+		7. planetesimal
+		8. planetary
+		9. planetarium
+		10. planet-struck
+		11. planet-stricken
+		12. interplanetary
 5. **plan-, plain-** = wandering, 表示“漫游”。源自希腊语 planetai "wandering."
+	1. explain
+		1. unexplained
+		2. unexplainable
+		3. self-explaining
+		4. explanatory
+			1. self-explanatory
+			2. explanatorily
+		5. explanation
+		6. exlainable
+	2. plain
+		1. [field](dic://field), [champaign](dic://champaign)
+		2. [knit](dic://knit), [knit stitch](dic://knit stitch), [plain stitch](dic://plain stitch)
+		3. [complain](dic://complain), [kick](dic://kick), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch)
+		4. [apparent](dic://apparent), [evident](dic://evident), [manifest](dic://manifest), [patent](dic://patent), [unmistakable](dic://unmistakable)
+		5. [unpatterned](dic://unpatterned)
+		6.  [sheer](dic://sheer), [unmingled](dic://unmingled), [unmixed](dic://unmixed)
+		7.  [unvarnished](dic://unvarnished)
+		8. [bare](dic://bare), [spare](dic://spare), [unembellished](dic://unembellished), [unornamented](dic://unornamented)
+		9. [homely](dic://homely)
+		10. [obviously](dic://obviously), [evidently](dic://evidently), [manifestly](dic://manifestly), [patently](dic://patently), [apparently](dic://apparently), [plainly](dic://plainly)
+		11. _n._ [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [knitting stitch](dic://knitting stitch)
+		12. _adj._ [obvious](dic://obvious), [austere](dic://austere), [severe](dic://severe), [stark](dic://stark), [stern](dic://stern),   
+		13. _n._ [unobvious](dic://unobvious), [fancy](dic://fancy), [patterned](dic://patterned), [impure](dic://impure), [indirect](dic://indirect), [adorned](dic://adorned), [decorated](dic://decorated)
+			1. [apparent](dic://apparent) 强调显而易见或一想便知。这个词从动词appear派生而来，故有时含有表面如此而事实上未必的意味。
+			2. [obvious](dic://obvious) 语气较强，指极为明显，有目共睹，无需说明和论证。
+			3. [evident](dic://evident) 指根据事实成为显然的。
+			4. [clear](dic://clear) 普通用词，侧重清楚明白。
+			5. [plain](dic://plain) 普通用词，含义与clear很接近，可通用，但plain着重简单明了，不复杂。
+			6. [distinct](dic://distinct) 较正式用词，指轮廓的清楚或定义、含义的明确，不会弄错。
+			7. [definite](dic://definite) 语气肯定，着重明白无误，无可怀疑。
+			8. [manifest](dic://manifest) 语义较强，书面用词，强调一目了然，暗示不要任何推论就一清二楚。
+		14. **simple**简单的;**boring**令人厌烦的;**bland**乏味的;**downright**完全地;**flowery**多花的;**fashioned**…式的,…风的;**silly**愚蠢的;**just**正好，恰好;**simplistic**过分单纯化的;**ordinary**普通的;**stupid**愚蠢的;
+		15. plaintext
+		16. plainspoken
+		17. plainsong
+		18. plainsman
+		19. plainness
+		20. plainly
+		21. plainclothesman
+		22. plainclothes
+		23. peneplain
+		24. floodplain
+	4. complanate
+	5. complanation
+	6. esplanade
+	7. plan
+		1. unplanned
+		2. subplan
+		3. street-plan
+		4. preplan
+		5. planomiller
+		6. planology
+		7. planing
+		8. planner
+		9. planned
+		10. planless
+		11. planing
+		12. backplan
+	8. planar
+		1. unplanar
+		2. planarize
+		3. planarization
+		4. planarity
+		5. outerplanar
+		6. nonplanar
+		7. multiplanar
+		8. isoplanar
+		9. interplanar
+		10. hexaplanar
+		11. coplanar
+		12. biplanar
+	9. plane
+		1. warplane
+			1. _n._ [heavier-than-air craft](dic://heavier-than-air craft), [military vehicle](dic://military vehicle)
+			2. **aircraft**飞机，航空器;**airliner**班机;**bomber**轰炸机;**helicopter**直升机;**UAV**无人机;**fighter**战士，斗争者;**drone**雄蜂;**warship**战船，军舰;**missile**导弹;**airfield**飞机场;**airplane**飞机;
+		2. tryingplane
+		3. triplane
+		4. taxiplane
+		5. stratoplane
+		6. ski-plane
+		7. seaplane
+		8. sailplane
+		9. rotaplane
+		10. quadruplane
+		11. quadriplane
+		12. proofplane
+		13. polyplane
+		14. planes
+		15. planer
+		16. airplane
+		17. aeroplane
+		18. etc..
+	10. planform
+		1. n. （从上向下看物体的）平面图，俯视图
+	11. planimeter
+	12. planimetry
+		1. n. 平面几何；测面法
+	13. planish
+		1. vt. 压平；打平；（金属等的）精轧
+		2. planisher
+	14. planishere
+	15. plano-concave
+	16. plano-convex
+	17. planography
+	18. planometer
+		1. n. 平面规；测平器
+	19. plaice
+		1. _n._ [flounder](dic://flounder), [righteye flounder](dic://righteye flounder), [righteyed flounder](dic://righteyed flounder)
+		2. **fillets**嵌条;**fish**捕鱼，钓鱼;**fillet**无骨的鱼或肉排;**cod**鳕鱼;**eel**鳝鱼;**prawns**大虾，对虾;**herring**鲱;**salmon**鲑鱼;**trout**鳟鱼;**scallops**扇贝;**mussels**淡菜;
+	20. plankter
 6. **plas-, plast-, -plasty, -plasm** = mold, 表示“模式”。源自希腊语 plasma "something molded or created"。医学领域常引申为“血浆”或“原生质”，“形成”等。源自希腊语 plassein "to mold"
 	1. anaplasty
-		1. anaplastic
-	2. autoplasty
-	3. keratoplasty
-	4. rhinoplasty
-		1. rhinoplastic
-	5. zooplasty
-		1. zooplastic
-	6. bioplasm
-	7. bioplast
-	8. cataplasm
-	9. centroplasm
-	10. centroplast
-	11. ceroplastic
-	12. ceroplastics
-	13. chloroplast
-	14. chromoplast
-	15. cosmoplastic
-	16. cytoplasm
-	17. ectoplasm
-	18. endoplasm
-	19. exoplasm
-	20. galvanoplastics
-	21. hyaloplasm
-	22. hypoplastic
-	23. karyoplasm
-	24. metaplasm
-	25. microplasma
-	26. neoplasm
-	27. neoplastic
-	28. nucleoplasm
-	29. osteoplastic
-	30. plasma
-	31. plasmatron
-	32. plasmin
-	33. plasmodium
-	34. plasmolysis
-	35. plaster
-	36. plastic
-		1.  [fictile](dic://fictile), [moldable](dic://moldable)
-		2.  [pliant](dic://pliant)
-		3.  [formative](dic://formative), [shaping](dic://shaping)
+		1. n. [外科] 整形术
+		2. anaplastic
+	3. autoplasty
+		1. n. 自身组织移植手术
+	4. keratoplasty
+		1. n. 角膜移植术；[眼科] 角膜成形术
+		2. _n._ [plastic surgery](dic://plastic surgery), [reconstructive surgery](dic://reconstructive surgery), [anaplasty](dic://anaplasty), [transplant](dic://transplant), [transplantation](dic://transplantation), [organ transplant](dic://organ transplant)
+		3. **corneal**角膜的;**cornea**角膜;**transplantation**移植;**cataract**大瀑布;**ocular**眼睛的;**retinal**视网膜的;**glaucoma**青光眼;**ablation**切除;**endothelial**内皮的;**surgical**外科的;
+	6. rhinoplasty
+		1. _n._ 鼻整形术
+		2. _n._ [face lift](dic://face lift), [facelift](dic://facelift), [lift](dic://lift), [face lifting](dic://face lifting), [cosmetic surgery](dic://cosmetic surgery), [rhytidectomy](dic://rhytidectomy), [rhytidoplasty](dic://rhytidoplasty)
+		3. **liposuction**吸脂术;**surgery**外科;**surgeon**外科医生;**facelift**整容手术;**nose**鼻子;**cosmetic**化妆用的;**surgical**外科的;**implants**移植物;**incision**切开;**augmentation**增加;**implant**灌输;
+		4. rhinoplastic
+	8. zooplasty
+		1. n. 动物组织移植术
+		2. zooplastic
+	10. bioplasm
+		1. n. 原生质
+	11. bioplast
+		1. _n._ 原生质细胞,原生体
+	12. cataplasm
+		1. _n._ [dressing](dic://dressing), [medical dressing](dic://medical dressing)
+		2. **ointment**油膏;**ulcers**溃疡，疡;**emulsion**乳状液;**bandage**绷带;**ulcer**溃疡;**dermatitis**皮肤炎;**plaster**灰泥;
+		3. n. 糊剂；[药] 泥罨剂
+	13. centroplasm
+	14. centroplast
+	15. ceroplastic
+	16. ceroplastics
+	17. chloroplast
+	18. chromoplast
+	19. cosmoplastic
+	20. cytoplasm
+	21. ectoplasm
+	22. endoplasm
+	23. exoplasm
+	24. galvanoplastics
+	25. hyaloplasm
+	26. hypoplastic
+	27. karyoplasm
+	28. metaplasm
+	29. microplasma
+	30. neoplasm
+	31. neoplastic
+	32. nucleoplasm
+	33. osteoplastic
+	34. plasma
+	35. plasmatron
+	36. plasmin
+	37. plasmodium
+	38. plasmolysis
+	39. plaster
+	40. plastic
+		1. [fictile](dic://fictile), [moldable](dic://moldable)
+		2. [pliant](dic://pliant)
+		3. [formative](dic://formative), [shaping](dic://shaping)
 		4. _n._ [solid](dic://solid)
 		5. _adj._ [elastic](dic://elastic), [impressionable](dic://impressionable), [impressible](dic://impressible), [constructive](dic://constructive)
 		6. **cardboard**硬纸板;**polystyrene**聚苯乙烯;**polycarbonate**聚碳酸脂;**silicone**硅树脂;**polyethylene**聚乙烯;**PVC**聚氯乙烯;**polypropylene**聚丙烯;**thermoplastic**热后可塑性的;**rubber**橡胶;**aluminum**铝;**metal**金属;
@@ -1897,18 +2253,18 @@
 		11. plasticity
 		12. plastify
 			1. v. （使）塑化；用塑料处理（等于 plasticize）
-	37. plastid
+	41. plastid
 		1. **mitochondrial**线粒体的;**eukaryotic**真核状态的;**mitochondria**线粒体;**biosynthesis**生物合成;**cytoplasm**细胞质;**cytoplasmic**细胞质的;**phylogenetic**系统发生的,动植物种类史的;**genomes**基因组;**photosynthesis**光合作用;**nucleotide**核苷酸;**genome**基因组;
-	38. plastron
+	42. plastron
 		1. _n._ [shirtfront](dic://shirtfront), [breastplate](dic://breastplate), [aegis](dic://aegis), [egis](dic://egis), [pad](dic://pad), [exoskeleton](dic://exoskeleton)
 		2. **turtle**海龟;**tortoise**迟缓的人;**ventral**腹部的;**turtles**乌龟;**tunic**束腰外衣;**underside**下侧;**dorsal**背的，背侧的;**bodice**女服的紧身上衣;**beak**鸟嘴;**plumage**翅膀;**vertebrae**椎骨;
-	39. poroplastic
-	40. protoplasm
-	41. protoplasmic
-	42. protoplast
-	43. somatoplasm
-	44. thermoplastic
-	45. toxoplasmosis
+	43. poroplastic
+	44. protoplasm
+	45. protoplasmic
+	46. protoplast
+	47. somatoplasm
+	48. thermoplastic
+	49. toxoplasmosis
 7. field
 8. floor
 #### + \*pele- (3) + 
@@ -3212,21 +3568,43 @@
 		2. jeopardize
 
 
-### + \*pet- + = to rush, to fly
-1. **-ptene**
-2. **-ptosia, -ptosis**
+### ⭐ + \*pet- + = to rush, to fly
+1. **-ptene** = flying, 表示“飞”源自希腊语 ptenos "winged, flying."
+	1. elaeoptene
+		1. 【医】 油萜, 挥发油精
+	2. oleoptene
+		1. 【医】 油萜, 挥发油精
+2. **-ptosia, -ptosis** = 表示“...下垂”，用于构成医学词汇。
 	1. gastroptosis
+		1. n. 腹裂(畸形)
 	2. ptosis
+		1. \[美 /'tosɪs/\]
+		2. n. 下垂；下垂症；上睑下垂
+		3. _n._ [prolapse](dic://prolapse), [prolapsus](dic://prolapsus), [descensus](dic://descensus)
+		4. **eyelid**眼皮;**ocular**眼睛的;**glaucoma**青光眼;**eyelids**眼睑;**atrophy**萎缩，萎缩症;**cataract**大瀑布;**asymmetry**不对称;**edema**瘤腺体;**corneal**角膜的;**hernia**脱肠;**congenital**先天的,天生的;
+		5. Any disease affecting them would lead to ptosis or drooping of upper eyelid /任何影响他们的疾病都会导致上睑下垂。
+		6. When this nerve is injured, it causes Horner's syndrome, which is a triad of three symptoms: meiosis or constricted pupil, ptosis (a droopy eyelid), and anhidrosis (the inability to sweat). /T1受损会引起Horner综合征，由一组三联征构成——瞳孔缩小、上睑下垂、无汗。
 	3. proptosis
-3. **pen-, penn-, pinn- = feather, wing**
+		1. n. [眼科] 突出；[眼科] 前垂
+3. **pen-, penn-, pinn-** = feathers, 表示“羽毛”。源自拉丁语 penna, pinna "feather, wing."
 	1. pinna
-	2. pen
-		1. uppen, playpen, pigpen, hogpen
-		2. penster, penner, penman
-		3. penicillate
+		1. n. 翼, 鳍及相当的器官, 羽片, 耳廓
+	2. pen (ballpoint)
+		1. pen（笔）：古人用翎管做成的笔  
+		2. 古代欧洲人曾使用芦苇杆制成的“笔”，写在纸莎草做成的纸上。约在公元七世纪出现“翎管笔”，即用天鹅或大雁的翎管做笔。 pen一词在古英语中写作penn，来源于拉丁语的penna，意思是“羽毛、翎管”，即羽毛制成的笔。  
+		3. 现代普遍使用的钢笔诞生于19世纪初。它的发明是一个有趣的故事。据说，一名叫做华特曼的英国人在用传统的羽毛笔签字时，羽毛笔漏水，把合同弄脏了。他回去取新合同时，被竞争对手乘虚而入抢先签署了合同。他深受刺激，决心设计一种更加先进的笔。他利用植物体内的毛细管输送液体的原理，发明了钢笔。  
+		4. pen： [pen] n.笔，钢笔
+		6. uppen, playpen, pigpen, hogpen
+		7. penster
+			1. n. （下等）作者；帮闲文人
+		8. penner
+			1. n. 执笔人；写作人
+		9. penman
+		10. penicillate
 			1. pen【n. 笔】 + cil-绒毛 + -ate, 表形容词
 			2. 【医】 毛笔形的, 帚形的
-		4. pencraft
+		11. pencraft
+			1. n. 书法；执笔
 	3. pennant
 		1. n. 尖旗, 三角旗, 三角锦旗, 三角信号旗
 		2. pennant - 从公元6世纪起直至19世纪中叶，即在钢笔尖出现之前，欧洲人一直是用鸟类羽毛（如鹅毛等）来制笔的。因此，当我们知道意指“笔”的pen其词源是意为“羽毛”的拉丁词penna，我们就不会感到惊奇了。该拉丁词是通过法语penne进入英语的，英语形式最初亦作penne，原指“羽毛笔”（quill-pen）。英语里还有几个和羽毛有关的词，如pennant（小燕尾旗，三角旗），pinion（羽毛，翅膀），pennate（羽状的，有翼的）等，也源于该拉丁词。
@@ -3237,6 +3615,13 @@
 		7. _[narrow pennant](dic://narrow%20pennant)_ 长三角旗
 		8. _[towing pennant](dic://towing%20pennant)_ 短拖缆
 		9. _[convoy pennant](dic://convoy%20pennant)_ 护航三角识别旗
+		10. a pennant lolling from the mast /信号旗松散地从桅杆上垂下来
+		11. a pennant argent, charged with a cross gules. /饰有红十字的银白色三角旗。
+		12. pennants flying from the masthead. /在桅顶飘扬的信号旗
+		13. pennants flaunting in the wind. /迎风招展的三角旗
+		14. Some football fans settle for pennants or jerseys. /一些足球迷会选择一些锦旗或球衣。
+		15. " I wonder if the Cards will ever win a pennant? " /“不知卡斯队能不能终于夺标？”
+		16. But I'll swear it's a warship, because there's a long pennant streaming from the peak of its mainmast /但我能肯定那是一艘战舰，因为它的大桅杆顶端飘着一面长长的战旗。”
 	4. pennon
 		1. n. 细长三角旗, 小燕尾旗, 枪旗, 鸟翼
 		2. pennon ['penən] n.（长矛等上的）狭长三角旗；燕尾旗；旗帜；翼。拉丁词根pen(n)-表示翅膀，与日耳曼词源的feather ['feðə] n.羽毛，同源。好玩的是，比pennon小一号的是pencel ['pensəl] n.狭旗；小燕尾旗，-cel这里是指小后缀。更好玩的是，pencel与我们熟悉的单词pencil铅笔的读音完全一样！ ​​​​
@@ -3249,7 +3634,8 @@
 		4. _n._ [unfeathered](dic://unfeathered), [featherless](dic://featherless)
 		5. **axial**轴的;**dorsal**背的，背侧的;**taxa**分类;**muscle**肌肉;**genus**类，种;**morphological**形态学的;
 		6. Conclusions There was a tendon plate in Biceps brachii of rabbit, muscle fibers arranged into ring-**pennate** shape. /结论家兔肱二头肌内有一腱板，肌束排列成环羽状。
-	6. penniferous, penniform,
+	6. penniferous, penniform
+		1. adj. 有羽的
 	7. panache
 		1. panache [pə'næʃ] n.羽饰；灿烂；耍派头。拉丁词源的这几个单词有关，pen钢笔（前身是羽毛笔）。pinnacle ['pɪnək(ə)l] n.高峰；小尖塔；尖峰；极点，vt.造小尖塔；置于尖顶上；置于高处。pennate ['penət] adj.有翼的。都和羽毛（翅尖）有关。panache本指帽子上起装饰用的羽毛，即“小翅膀”。
 		2.  [dash](dic://dash), [elan](dic://elan), [flair](dic://flair), [style](dic://style)
@@ -3257,6 +3643,11 @@
 		4. **flair**天资;**finesse**纤细;**elegance**典雅;**sophistication**老练;**swagger**吓唬;**gusto**热情,乐趣,津津有味;**subtlety**微妙;**poise**平衡;**whimsy**怪念头;**charisma**非凡的领导力;**wit**智力;
 		5. She dresses with great panache /她穿著十分浮华。
 		6. And some of Ford's rivals have seemed to have more panache and trendiness in a crowded market. /在竞争激烈的市场上，福特的竞争对手们似乎生产出更华丽更能引领潮流的新款汽车。
+		7. I just prefer to be suave, do it with panache and finesse /我只是喜欢考究点的 要有派头又有手段的。
+		8. We will remember you; you fleet footed fashionista with panache smashed on the red carpe /我们会记得你的；你这个步伐敏捷、风度翩翩的时尚达人在红毯上被撞得粉碎。
+		9. With her sanguine temperament she would play gaily and with panache and might run into a vein of luck /以她乐观的气质，她会快乐而华丽地玩耍，并且可能会碰上好运。
+		10. I shall not abandon the facts, he concluded with typical Dickensian panache, until there shall have been a considerable Spontaneous Combustion of the testimony on which human occurrences are usually received. /“我不会放弃事实，”他以典型的狄更斯式的豪言壮语总结道，“一直到大众广泛接受诸多关于人体自燃现象的证明为止。
+		11. Running the farm consumed Dad's childhood. I doubt he expected to go to college. Still, the way Mother tells it, back then Dad was bursting with energy, laughter and panache. /父亲的童年都耗在经营农场上。我怀疑他从没想过去上大学。尽管如此，母亲说当年父亲活力四射，爱闹爱笑，神气十足。
 4. **==pet- = seek, to go forward==**
 	1. petition
 		1. petitioner, petitionary
@@ -3292,7 +3683,7 @@
 		2. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
 		3. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
 	9. peripetia, peripeteia
-		1. - 剧情突变，情节或命运的突变
+		1. 剧情突变，情节或命运的突变
 	10. propitiate,
 		1. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
 		2. propitious
@@ -3311,14 +3702,24 @@
 		3. photorepeater
 5. **potam- = river**
 	1. hippopotamus
-		1.  [hippo](dic://hippo), [river horse](dic://river horse), [Hippopotamus amphibius](dic://Hippopotamus amphibius)
-		2. _n._ [even-toed ungulate](dic://even-toed ungulate), [artiodactyl](dic://artiodactyl), [artiodactyl mammal](dic://artiodactyl mammal)
-		3. **giraffe**长颈鹿;**crocodile**鳄鱼;**elephant**象;**gorilla**大猩猩;**rhino**钱;**alligator**短吻鳄;**mammal**哺乳动物;**zebra**斑马;**dolphin**海豚;**monkey**猴子;**lion**狮子;
-	2. Mesopotamia
+		1. hippo-马 + potam-河 + -us，即河中的马。
+		2. hippopotamus [,hɪpə'pɒtəməs] n. [脊椎] 河马。希腊词根hippo-表示马，potam-表示河，这样hippopotamus字面意就是“river-horse”了。《圣经》(约伯记)中记载的 behemoth [bɪ'hiːmɒθ] n.巨兽；河马，adj.巨大的；高大的，据学者考证应该就是河马。实际生物学上河马与猪的关系比与马近多了。
+		3.  [hippo](dic://hippo), [river horse](dic://river horse), [Hippopotamus amphibius](dic://Hippopotamus amphibius)
+		4. _n._ [even-toed ungulate](dic://even-toed ungulate), [artiodactyl](dic://artiodactyl), [artiodactyl mammal](dic://artiodactyl mammal)
+		5. **giraffe**长颈鹿;**crocodile**鳄鱼;**elephant**象;**gorilla**大猩猩;**rhino**钱;**alligator**短吻鳄;**mammal**哺乳动物;**zebra**斑马;**dolphin**海豚;**monkey**猴子;**lion**狮子;
+		6. Hippopotamuses teem in this river. /这条河里有很多河马。
+		7. There also we encounter the hippopotamus and the still more frightful rhinoceros /我们还在那里遇见过河马甚至还有更吓人的犀牛。
+		8. My first children's book published was about hippopotamus and a mouse that fall in love /我的第一本儿童读物是关于河马和老鼠相爱的。
+		9. Hippopotamuses are mammals, and they make milk. /河马是哺乳动物，它们产奶。
+		10. I rescued great Auntie from a hungry hippopotamus at the zoo and then went back for her handbag /我在动物园从一只饥饿的河马手中救出了姨祖母，然后又回去拿回了她的手提包。
+		11. The UK government looks increasingly like a python that has swallowed a **hippopotamus**. /英国政府越看越像是一条吞下河马的巨蟒。
+	3. Mesopotamia
 		1. **Persia**波斯;**Anatolia**安纳托利亚;**Egypt**埃及;**Baghdad**巴格达;**Iraq**伊拉克;**antiquity**古代;**Assyrian**亚述的;**Babylonian**巴比伦人;**Persians**波斯，波斯人;**Indus**印第安座;**Syria**叙利亚共和国;
-	3. potamic
-	4. potamology
-	5. potamometer
+	4. potamic
+		1. adj. 河流的；江河的
+	5. potamology
+		1. n. 河川学；[地理][水文] 河流学
+	6. potamometer
 6. **pter- = feather, wing,** 
 	1. pterodactyl
 	2. pterosaur
@@ -3331,8 +3732,14 @@
 		1. **hawk**鹰;**hummingbird**蜂鸟;**owl**猫头鹰;**bird**鸟;**avian**鸟类的;**plumage**翅膀;**birds**鸟类;**beak**鸟嘴;**taxon**分类单元;**sparrow**麻雀;**owls**猫头鹰;
 	8. archaeopteryx
 		1. **fossils**化石;**fossil**化石;**dinosaur**过时、落伍的人或事物;**creationism**创造宇宙说,特别创造说;**beak**鸟嘴;**reptiles**爬行类;**bird**鸟;**reptile**爬虫类的;**vertebrate**脊椎动物;
-7. **ptil-**
-8. **pto- = to fall**
+7. **ptil-** = feather, 表示“羽毛”。源自希腊语 ptilon "soft feathers, down, plume."
+	1. neossoptile
+		1. n. 幼鸟羽, 雏羽
+	2. protoptile
+		1. n. 原始羽毛
+	3. teleoptile
+		1. n. 成羽
+8. **pto-** = to fall, 表示“下降”。源自希腊语 piptein "to fall," ptotos "falling, fallen," ptosis "a fall."
 	1. asymptote
 		1. **exponential**指数的;**quadratic**二次的;**infinity**无穷;**curve**曲线;**slope**倾斜;**singularity**异常,奇怪,奇特;**tangent**切线的，相切的;**equation**方程式，等式;**equilibrium**平衡,均势;**approximation**接近;**theta**希腊语字母表中第八个字母;
 		2. _[slant asymptote](dic://slant%20asymptote)_  斜渐近线
@@ -3343,6 +3750,63 @@
 	3. apoptosis, apoptotic
 	4. ptomain, ptomaine
 9. feather
+	1. n. 羽毛 
+	2. vi. 长羽毛  vt. 用羽毛装饰
+	3. birds of a feather flock together物以类聚人以群分。同种类的鸟确实喜欢聚集在一起，飞行时，栖息时都如此，为什么呢？这样做的主要原因是可以降低单飞时被鹰隼等猛禽抓住的概率。 All his friends are dishonest. Birds of a feather flock together. 他所有的朋友都不诚实，物以类聚人以群分呀。 ​​​​  
+	4. feather in your cap值得炫耀之事。中世纪英国，战场上表现英勇的骑士会在战斗结束后被皇室授予羽毛，羽毛戴在帽子上，象征荣耀。1346年，英法百年战争中的第一场战役中，英国王子爱德华表现勇敢，被授予了一个他的手下败将的头冠（上插三根鸵鸟羽毛），到现在，这顶冠还是英国皇太子的象征符号。 ​​​​
+	5.  [plume](dic://plume), [plumage](dic://plumage) 
+	6.  [feathering](dic://feathering)
+	7. [square](dic://square)
+	8. [square](dic://square)
+	9.  [fledge](dic://fledge)
+	10. _n._ [body covering](dic://body covering), [animal material](dic://animal material), [rotation](dic://rotation), [rotary motion](dic://rotary motion)
+	11. _v._ [join](dic://join), [conjoin](dic://conjoin), [cover](dic://cover), [paddle](dic://paddle), [row](dic://row), [grow](dic://grow), [develop](dic://develop)
+	12. **ruffle**弄皱;**ruffled**有褶饰边的;**bird**鸟;**peacock**孔雀;**beak**鸟嘴;**goose**鹅;**plumage**翅膀;**tail**尾部;**wings**飞行章;**owl**猫头鹰;**hat**帽子;
+	13. Thick, pearly tears were trickling down the glossy feathers. /大滴大滴珍珠般的泪珠顺着它富有光泽的羽毛滚落下来。
+	14. Here's Emma playing Hermione levitating a feather. /Emma扮演赫敏练习漂浮咒，让一根羽毛飘了起来。
+	15. Their heads are crowned by thin, yellow feathers /它们的头上戴着薄薄的黄色羽毛。
+	16. She's already ruffling some feathers in Washington. /她已经激怒了华盛顿的一些人。
+	17. Have you ever observed that " birds of a feather flock together" ? /你是否注意到物以类聚人以群分。
+	18. Are you taking the feathers out of the chicken? /你们还在拔鸡毛吗？
+	19. I taped the base of the **feather** onto the velvet. /我用胶带把羽毛的根部粘到天鹅绒上。
+	20. The **feather** must be removed with a straight, firm pull /羽毛必须笔直地用力一拔才能拔掉。
+	21. The chick will soon **feather** out /这只小鸡很快就要长羽毛了。
+	22. pinfeather
+	23. midfeather
+	24. horsefeather
+	25. feathery
+		1. adj. 柔软如羽毛的；生有羽毛的
+		2. [featherlike](dic://featherlike)
+		3. [feathered](dic://feathered), [plumy](dic://plumy)
+		4. _adj._ [feathered](dic://feathered), [adorned](dic://adorned), [decorated](dic://decorated)
+		5. _n._ [unfeathered](dic://unfeathered), [featherless](dic://featherless), [unadorned](dic://unadorned), [undecorated](dic://undecorated)
+		6. **feathered**有羽毛的;**feather**羽毛;**feathers**羽状裂缝;**silvery**似银的，银色的;**velvety**天鹅绒般柔软的;**fleshy**肉的;**fluffy**蓬松的;**ruffled**有褶饰边的;**silky**丝的;**dainty**秀丽的;**furry**毛皮的;
+		7. the antennae are divided into large feathery plumes. /触角被分成了硕大的羽状物。
+		8. There lay the pure, feathery snowflake like a lovely little star. /那片纯净轻柔的雪花就像一颗可爱的小星星。
+		9. And let's keep flying high with more feathery friends. /和你们的朋友们一起继续翱翔吧。
+		10. Until now, fossilized evidence of feathery dinosaurs has come from China /目前，有羽毛恐龙的化石证据出自中国。
+		11. Unaccustomed to the feathery weight of a mortal, the radiant horses climbed higher and higher /由于不习惯凡人轻如鸿毛的重量，马儿越爬升越高。
+		12. I'm applying the gel pretty generously and brushing the hairs in the opposite direction to make them more feathery. /我现在非常随意地把眉胶刷到眉毛上，把眉毛往相反的方向刷，让它显得更浓密。
+		13. featheriness
+	27. featherweight
+	28. featherstitch
+	29. featherpate
+		1. featherpated
+	30. featherless
+	31. feathering
+	32. featherhead
+		1. featherheaded
+	33. featheredged
+		1. adj. 薄边的
+	34. feathered
+	35. featherbrain
+		1. n. 愚笨的人，马大哈；健忘的人，轻浮的人
+		2. featehrbrained
+	36. featherbed
+		1. featherbedding
+	37. feather-footed
+	38. featherback
+		1. - n. 细鳞弓背鱼
 
 
 ### + \*pete- + = to spread
@@ -3415,9 +3879,36 @@
 		7. repass, surpass, trespass, underpass, 
 4. **pet-** = 原义为延伸，引申为花瓣
 	1. petal
-		1. etc...
-5. **petal-** = 花瓣
-6. fathom
+		1. 来自 PIE*pete,展开，词源同 patent,feather.后用于指花瓣。
+		2. _n._ [floral leaf](dic://floral leaf)
+		3. **flower**花;**leaf**叶子;**blooms**水华;**floral**用花制作的;**lotus**莲花;**bloom**花;**orchid**兰花;**daisy**雏菊;**lilac**淡紫色;**blossom**开花;**lily**百合花，百合;
+		4. satiny gardenia petals /缎子似的栀子花瓣
+		5. subacute petals and sepals. /略尖的花瓣及萼片
+		6. the remaining petals fluttered to the ground /残存的花瓣飘落到地上。
+		7. Please, I've came so far to see your petals in bloom /我远道而来是为了一睹你的芳泽。
+		8. etc...
+5. fathom
+	1. 来自 PIE*pet,展开，伸展，词源同 feather,compete.用作长度单位法寻，约略等于成人双臂展开长度。引申词义探索，彻底了解。
+	2. _n._ （测量水深的长度单位）英寻  
+	3. _v._ 彻底了解；测量……的深度
+	4.  [fthm](dic://fthm)
+	5.  [penetrate](dic://penetrate), [bottom](dic://bottom)
+	6. [sound](dic://sound)
+	7. _n._ [linear unit](dic://linear unit), [volume unit](dic://volume unit), [capacity unit](dic://capacity unit), [capacity measure](dic://capacity measure), [cubage unit](dic://cubage unit), [cubic measure](dic://cubic measure), [cubic content unit](dic://cubic content unit)
+	8. _v._ [understand](dic://understand), [quantify](dic://quantify), [measure](dic://measure)
+	9. **comprehend**理解, 领会;**imagine**想像;**understand**懂;**contemplate**深思, 细想, 仔细考虑;**wonder**惊奇;**grasp**理解;**explain**说明，解释;**inconceivable**不可思议的;**honestly**公正地;**hardly**几乎不，简直不;**know**知道;
+	10. I will never really fathom the female psyche /我永远无法真正猜透女性的心理。
+	11. I can't fathom what you really meant /我不能领会你的真正用意。
+	12. One bait was down forty fathoms /有个鱼饵下沉到四十英寻的深处。
+	13. But who can fathom the subtleties of the human heart? /但是话又说回来，谁能理解人心的奥秘呢？
+	14. For the next hour our frigate kept up this pace without gaining a fathom! /多进二米也办不到！
+	15. We're trying to **fathom** out what's going on. /我们正在努力弄清楚发生了什么事。
+	16. fathomless
+	17. fathometer
+	18. fathomable
+		1. **inconceivable**不可思议的;**conceivable**可想到的, 可相信的, 可想像的;**incomprehensible**费解的;**unimaginable**不能想象的;**imaginable**可想像的;**understandable**能懂的;**unthinkable**不能考虑的, 不能接受的, 不可想像的, 难以置信的;**plausible**貌似真实的，貌似有理的;**justifiable**可证明为正当的;**inexplicable**无法说明的;**comprehend**理解, 领会;
+	19. unfathomable
+	20. unfathomed
 
 
 ### + \*peue- +
@@ -3477,12 +3968,11 @@
 		7. _[expurgated bound](dic://expurgated%20bound)_ 修正限
 		8. _[expurgated edition](dic://expurgated%20edition)_ 删节本; 修订版; 
 		9. _[expurgated version](dic://expurgated%20version)_ 删节版
-		10. 
-		11. unexpurgated
-		12. expurgatory
+		10. unexpurgated
+		11. expurgatory
 			1. expurgatorial
-		13. expurgator
-		14. expurgation
+		12. expurgator
+		13. expurgation
 	5. spurge
 		1. any of numerous plants of the genus Euphorbia; usually having milky often poisonous juice n. 大戟，大戟树；泽漆 /adj. 大戟科的
 		2. _n._ [shrub](dic://shrub), [bush](dic://bush)
@@ -3516,46 +4006,66 @@
 ### + \*(s)peud- + = to push, repulse, (维基词典将其归类到 “paw-, to strike”)
 1. **pud-** = = feel shame, 表示“感到羞耻”。源自拉丁语 pudere "to feel shame."
 	1. pudendum
-		1. 1 - 来自拉丁语 pudendum,阴部，羞耻区，来自 pudere,感到羞耻，感到害羞，来自 pudare,剪枝，思考，来自 PIE*pu,击，打，思考，词源同 pave,compute,repute.该词常见于复数形式 pudenda.
-		2. 1. human external genital organs collectively especially of a female
-		3. **vagina**阴道;**anus**肛门;**genitals**生殖器;**pubic**阴部的;**buttocks**臀部;**genital**生殖的;**orifice**孔口;**rectum**直肠;**fleshy**肉的;**navel**肚脐;**penis**阳物，阴茎;
-		4. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
-		5. _[lesser lip of pudendum](dic://lesser%20lip%20of%20pudendum)_  [解剖] 小阴唇
-	3. pudency
+		1. 来自拉丁语 pudendum,阴部，羞耻区，来自 pudere,感到羞耻，感到害羞，来自 pudare,剪枝，思考，来自 PIE*pu,击，打，思考，词源同 pave,compute,repute.该词常见于复数形式 pudenda.
+		2. n. （尤指女性的）外生殖器；外阴
+		3. human external genital organs collectively especially of a female
+		4. **vagina**阴道;**anus**肛门;**genitals**生殖器;**pubic**阴部的;**buttocks**臀部;**genital**生殖的;**orifice**孔口;**rectum**直肠;**fleshy**肉的;**navel**肚脐;**penis**阳物，阴茎;
+		5. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
+		6. _[lesser lip of pudendum](dic://lesser%20lip%20of%20pudendum)_  [解剖] 小阴唇
+		7. Conclusion The cream has therapeutic effect on pudendum leukoplakia,and it is safe and convenient. /结论该制剂治疗外阴白斑疗效确切,使用安全方便。
+	2. pudency
 		1. pud-害羞 + -ency, 表名词
 		2. _[pudency](dic://pudency)_  n. 害羞，羞怯
-	4. pudicity
-		2. _[pudicity](dic://pudicity)_  n. 羞怯；贞节；谦虚
-	6. impudent, impudently
-		1. 1 - im-,不，非，-pud,思考，羞耻心，词源同 impute,pudendum.即没有羞耻心的，无耻的，后引申词义不谦虚的，粗鲁的，无礼的。
+		3. Discard your pudency, fondle me audaciously. /丢弃你的羞怯，大胆地爱抚我。
+	3. pudicity
+		1. _[pudicity](dic://pudicity)_  n. 羞怯；贞节；谦虚
+		2. I would keep pudicity in the harmonious entironment and keep nobleness in magnanimous heart for ever /无论出于哪种目的，都是一种无聊的目的。糖果公主伍泰洋永远是贞于和谐，贵在包容。
+		3. There is a pudicity in noble minds which withholds them from speaking of their personal sufferings; proudly they hide the extent of their woes from hearts that love them, feeling a merciful joy in doing so. /高贵的头脑中有一种愚蠢，使他们不愿谈论自己的苦难。他们自豪地向爱他们的心隐藏他们的痛苦程度，并在这样做时感到仁慈的快乐。
+		4. On the other hand, the former inherited from the latter heavy consciousness of male chauvinism, especially the element of paternal culture of **pudicity** and gentleness. /另一方面，前者因袭了后者较浓的传统男权性别意识，特别是“贞”与“柔”等父系文化因子
+	4. impudent, impudently
+		1. im-,不，非，-pud,思考，羞耻心，词源同 impute,pudendum.即没有羞耻心的，无耻的，后引申词义不谦虚的，粗鲁的，无礼的。
 		2. [insolent](dic://insolent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
 		3. [fresh](dic://fresh), [impertinent](dic://impertinent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
 		4. _adj._ [disrespectful](dic://disrespectful), [forward](dic://forward)
 		5. _n._ [respectful](dic://respectful), [backward](dic://backward)
 		6. **mischievous**淘气的, 顽皮的;**brazen**黄铜制的;**arrogant**自大的，傲慢的;**audacious**大胆的, 有冒险精神的;**brash**仓促的，性急的;**foolish**愚蠢的;**vulgar**粗俗的;**cheeky**无耻的;**pompous**浮夸的;**sly**狡猾的;**careless**粗心的;
-		7. impudence
+		7. an impudent misrepresentation. /一篇无耻的不实报导。
+		8. He is the most impudent fellow in nature /他是世界上最厚颜无耻的家伙。
+		9. The teacher threatened to kick the impudent pupil out of the room. /老师威胁着要把这无礼的小学生撵出教室。
+		10. he could have strangled this impudent upstart. /他真想扼死这无礼的暴发户。
+		11. One of them, more impudent than the rest, put out his hand to pull the Marionette's nose. /他们中最大胆妄为的孩子伸手去抓木偶的鼻子。
+		12. " That is a fiction—an impudent invention to vex me" . /“那是虚构的——一个让我烦恼的无礼的发明” 。
+		13. impudence
 			1. [cheek](dic://cheek), [impertinence](dic://impertinence)
 			2. [crust](dic://crust), [gall](dic://gall), [impertinence](dic://impertinence), [insolence](dic://insolence), [cheekiness](dic://cheekiness), [freshness](dic://freshness)
 			3. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [rudeness](dic://rudeness)
 			4. **audacity**厚颜无耻;**arrogance**傲慢;**boldness**大胆;**folly**愚蠢;**foolishness**愚蠢;**brazen**黄铜制的;**cowardice**懦弱;**indignation**愤怒, 愤慨, 气愤;**countenance**面容，表情;**hubris**傲慢;**stupidity**愚笨;
-		8. impudicity
+			5. My presence in his sanctum was evidently esteemed a piece of impudence too shameful for remark. /我在他的圣地出现，显然被他看作是羞于提及的莽撞事情。
+			6. Rufus was so startled by the sudden ringing of the bell, that all his impudence could not support him /鲁弗斯被突如其来的铃声完全弄懵了，他的所有鲁莽无法自圆其说。
+			7. Villon turned out his hands with a gesture of inimitable impudence. /维庸以一种无法模仿的厚颜无耻的姿势伸出双手。
+			8. She started; till a humorous impudence sparkled in her eyes, and she spoke. /她开始; 直到她眼中闪过一丝幽默的无礼之色， 她才开口说话。
+		14. impudicity
 			1. n. 无耻, 放肆
 			2. _One more impudicity_ 放肆一把
 			3. _impudicity presumption run wild wanton_ 放肆
 			4. _shameless impudicity cheeky blushless blatant_ 无耻的
-	7. repudiate
-		1. 1 - 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
+	5. repudiate
+		1. 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
 		2. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
 		3. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
 		4. _[totally repudiate](dic://totally%20repudiate)_  完全否定; 全盘否定; 
 		5. _[repudiate contract](dic://repudiate%20contract)_  [法] 否认合同有效
 		6. _[repudiate espouse](dic://repudiate%20espouse)_ 批判
 		7. _[repudiate debts](dic://repudiate%20debts)_ 赖帐
-		8. repudiator
-		9. repudiation
+		8. to repudiate a charge of murder /否认谋杀案的指控
+		9. They also repudiated any emotions and effects that anybody may have had towards the nonhuman. /他们也否定了任何人类可能对非人类产生的情感和感情。
+		10. The protesters called for the Catholic Church to repudiate centuries-old decrees that were used to justify the seizure of Native lands. /抗议者呼吁天主教会推翻数百年前的一些法令，这些法令曾被用来为没收原住民土地辩护。
+		11. He utterly repudiated the narrow construction of our national charter /他完全否定了我们国家宪章的狭隘结构。
+		12. repudiator
+		13. repudiation
 			1. _n._ [rejection](dic://rejection), [refusal](dic://refusal), [exposure](dic://exposure)
 			2. **condemnation**谴责;**rejection**拒绝;**abandonment**放弃;**acknowledgment**承认;**affirmation**肯定;**defiance**蔑视;**betrayal**背叛;**declaration**宣布, 宣告, 声明;**denial**否认;**denounce**谴责;**unequivocal**只有一种含意的;
-		10. nonrepudiation
+		14. nonrepudiation
 			1. _[nonrepudiation](dic://nonrepudiation)_  n. 认可；不可抵赖性；非否认性
 
 
@@ -4295,7 +4805,7 @@
 		7. diplomatic：[,dɪplə'mætɪk] adj.外交的，老练的  
 		8. diplomacy：[dɪ'pləʊməsɪ] n.外交  
 		9. diploid：['dɪplɒɪd] adj. 双倍的；倍数的；双重的n. 二倍体；倍数染色体
-		10. 1. a document certifying the successful completion of a course of study
+		10. a document certifying the successful completion of a course of study
 			1. [sheepskin](dic://sheepskin)
 		11. _n._ [certificate](dic://certificate), [certification](dic://certification), [credential](dic://credential), [credentials](dic://credentials)
 		12. **graduate**授予…学位;**degree**程度，等级;**certificate**证明书, 执照;**doctorate**博士学位;**graduation**毕业;**graduated**刻度的;**bachelor**单身汉;**coursework**课程作业;**postgraduate**研究生;**qualification**合格证书;**vocational**职业的;
@@ -4333,104 +4843,209 @@
 3. **plex-** = braid, fold, 表示“编，重叠”。源自拉丁语 plectere (过去分词 plexus) "to weave, plait, entwine."
 	1. plexus
 		1. n. (血管、神经等的)丛
+		2. paraplexus
+		3. neuroplexus
+		4. metaplexus
+		5. ganlioplexus
+		6. epiplexus
 	2. complex
-		1. complexion
-			1. complexion（肤色）：人体四种体液的组合  
-			2. 英语单词complexion（肤色）其实也与四体液学说有关。它来自拉丁语complexionem（组合），本意是人体四种体液的组合，与英语单词complex（复合体，复合的）同源，表示由体液组合所决定的人的脾性。古代人又认为人的脾性能通过肤色显露出来，就像中国人所说的“相由心生”，因此complexion一词又衍生出“肤色、面色”的含义。  
-			3. complexion： [kəm'plekʃ(ə)n] n.肤色，面色，情况，局面  
-			4. complex：['kɒmpleks] adj. 复杂的；合成的n. 复合体；综合设施  
-			5. complexity：[kəm'plɛksəti] n. 复杂，复杂性；复杂错综的事物
-			6. **skin**皮肤;**pigmentation**色素淀积;**radiance**光辉;**oily**油的;**youthful**年轻的;**acne**痤疮，粉刺;**tanned**被晒成棕褐色的;**tan**棕褐色;**wrinkles**皱纹;**countenance**面容，表情;**makeup**化妆品;
-				1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。  
-				2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。   
-				3. [nature](dic://nature) 指天生的、不可改变性格。  
-				4. [personality](dic://personality) 主要指一个人稳定的心理特征。  
-				5. [disposition](dic://disposition) 书面用词，指人的主要爱好或思想、精神方面的重要习性、气质。也可指短暂的情绪。  
-				6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
-	3. diplex
+		1. com-共同 + plex-折叠 → 全部重叠 → 复杂的。
+		2. complex fraction繁分数。是分子和/或分母包含了分数的分数。complex ['kɒmpleks] adj.复杂的；合成的，n. 复合体；综合设施。词根plex-简单说是词根plect-表编织、折叠的过去分词，女孩子的辫子就叫plait，所以complex就是“plaited together”。至于complex作名词情结，是瑞士心理学家荣格的创造。
+		3. com-,表强调，-plect,编织，组成，词源 apply,implicate.即多成分的，复杂的。
+		4. polycomplex
+		5. immunocomplex
+		6. heterocomplex
+		7. complexus
+		8. complexone
+		9. complexity
+			1. n. 复杂性，错综复杂；复杂之处，费解之处
+			2. _n._ [quality](dic://quality)
+			3. _n._ [simplicity](dic://simplicity), [simpleness](dic://simpleness)
+			4. [complexity](dic://complexity) 着重指极度复杂而难于辨认的关系。  
+			5. [complication](dic://complication) 指纷乱复杂到令人难于理解的地步。
+			6. **richness**丰富;**subtlety**微妙;**nuance**细微差别;**robustness**强度;**sophistication**老练;**simplicity**简单, 朴素, 率直;**simplification**简单化;**inherent**固有的;**heterogeneity**异质性;**ambiguity**歧义;**interplay**相互作用
+			7. _computational complexity_ 计算复杂性
+			8. _time complexity_ 时间复杂度
+			9. _complexity analysis_ 复杂度分析；成分分析
+			10. _complexity theory_ 复杂理论
+			11. axiomatic complexity theory /公理复杂性理论
+			12. the complexities of family life. /家庭生活中的复杂因素。
+			13. The complexity of the road map puzzled me. /错综复杂的公路图把我搞糊涂了。
+		11. complexing
+		12. compleximetry
+		13. complexation
+		14. complexant
+		15. autocomplex
+	3. complexion
+		1. n. 肤色，气色；概貌，局势
+		2. complexion（肤色）：人体四种体液的组合  
+		3. com-全部 + plex-折叠 + -ion, 表名词 → 全部表情重叠于面部 → 面色。
+		4. 英语单词complexion（肤色）其实也与四体液学说有关。它来自拉丁语complexionem（组合），本意是人体四种体液的组合，与英语单词complex（复合体，复合的）同源，表示由体液组合所决定的人的脾性。古代人又认为人的脾性能通过肤色显露出来，就像中国人所说的“相由心生”，因此complexion一词又衍生出“肤色、面色”的含义。  
+		5. complexion： [kəm'plekʃ(ə)n] n.肤色，面色，情况，局面  
+		6. complex：['kɒmpleks] adj. 复杂的；合成的n. 复合体；综合设施  
+		7. complexity：[kəm'plɛksəti] n. 复杂，复杂性；复杂错综的事物
+		8. **skin**皮肤;**pigmentation**色素淀积;**radiance**光辉;**oily**油的;**youthful**年轻的;**acne**痤疮，粉刺;**tanned**被晒成棕褐色的;**tan**棕褐色;**wrinkles**皱纹;**countenance**面容，表情;**makeup**化妆品;
+			1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。  
+			2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。   
+			3. [nature](dic://nature) 指天生的、不可改变性格。  
+			4. [personality](dic://personality) 主要指一个人稳定的心理特征。  
+			5. [disposition](dic://disposition) 书面用词，指人的主要爱好或思想、精神方面的重要习性、气质。也可指短暂的情绪。  
+			6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
+			7. a complexion that sunburnt easily. /容易被晒黑的肤色。
+			8. the complexion of the game changed./ 比赛的形势改变了。
+			9. a swarthy complexion /黝黑的肤色
+			10. Her resignation puts a different complexion on things. /她一辞职局面就全变了。
+			11. Years of heavy drinking had given Alison a florid complexion /长期酗酒使艾莉森面色绯红。
+			12. He was as strong as a man of steel and, his dark complexion set off by clother of coarse cloth, looked like a countryman. /他本来是一副铜筋铁骨，黑皮肤衬着那一套大布之衣，看去像个乡下人。
+			13. As such, he illustrates the changing complexion of America's rich. /因此，他反映了着美国富人阶层面貌的变化。
+			14. Use a formula that is heavy enough to smooth out your complexion without becoming cakey. /使用的粉底能让你的皮肤显得光滑清爽就足够了。
+			15. I see. Well, this puts a different complexion on it. -Yeah. Especially in this weather. /那就麻烦了。 -特别是这么冷的天。
+			16. I think beige is much with your complexion. /我觉得米色非常贴合你的肤色。
+			17. The complexion of the audience is also changing-slowly. /观众的群体也在慢慢改变。
+			18. She thought that the pink really brought out her complexion. She had really pretty blue eyes. /她认为粉红色十分突显出她的肤色。她有非常漂亮的蓝眼睛。
+		9. complexionless
+		10. complexioned
+			1. adj. 有……肤色的；脸色……的
+			2. Both were fair complexioned and slenderly made; both possessed faces full of distinction and intelligence. /两人肤色白皙，身材苗条。两人都拥有充满尊贵和智慧的面孔。
+			3. She was rather thin, but young, and fresh-complexioned, and her eyes sparkled as bright as diamonds /她的确很瘦，但是很年轻，而且脸色很好，眼睛像宝石一样有闪闪发亮。
+			4. Standing at the curb was a dark-**complexioned** young man /Standing at the curb was a dark-**complexioned** young man
+		11. complexional
+	5. diplex
 		1. a. 双重通信的, 双重的
-	4. duplex
+	6. duplex
 		1. a. 双的, 复式的, 双联的, 二重的, 二倍的
-	5. perplex
-		1.  [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
-		2.  [complicate](dic://complicate)
-		3. _v_ [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
-		4. **frustrate**使不成功, 挫败, 阻止;**confuse**使混乱;**amuse**使发笑;**puzzling**使莫明其妙的;**baffling**令人困惑的;**annoy**骚扰;**amaze**使吃惊;**enlighten**启发;**puzzled**困惑的;**baffle**使…困惑;**baffled**带有挡板的;
-		5. _[perplexed](dic://perplexed)_  adj. 困惑的；不知所措的
-		6. _[be perplexed](dic://be%20perplexed)_  迷惘
-	6. multiplex
+	7. perplex
+		1. per-,完全的，-plex,卷，缠绕，词源同 ply,complex.引申词义使困惑。
+		2.  [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+		3.  [complicate](dic://complicate)
+		4. _v_ [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
+		5. **frustrate**使不成功, 挫败, 阻止;**confuse**使混乱;**amuse**使发笑;**puzzling**使莫明其妙的;**baffling**令人困惑的;**annoy**骚扰;**amaze**使吃惊;**enlighten**启发;**puzzled**困惑的;**baffle**使…困惑;**baffled**带有挡板的;
+		6. _[perplexed](dic://perplexed)_  adj. 困惑的；不知所措的
+		7. _[be perplexed](dic://be%20perplexed)_  迷惘
+		8. perplexity
+		9. perplexing
+		10. perplexed
+	8. multiplex
 		1. 1 - multi-,许多，多个，-plex,倍数，词源同 imply,complex.
 		2. a. 多样的, 许多的, 多路传输的  v. 多路传输
-	7. plexglass
-	8. simple
-	9. simplex
-		1. a. 简单的, 单一的
-		2. 来自拉丁语simplex,单倍的，来自PIE*sem,一，词源同same,-plex,倍数，词源同simple,complex.
-	10. triplex, triplexer
+	9. plexglass
+	10. simple
+		1. a. 简单的, 普通的, 朴素的, 单纯的, 绝对的, 初级的, 原始的, 迟钝的 
+		2. n. 出身低微者, 傻子
+		3. simply
+		4. simplistic
+			1. such a simplistic approach is no longer tenable /这样一个过分简单化的方法再也站不住脚了。
+			2. Other scholars say that this view is too simplistic /其他学者称这样的评论过于简单化了。
+		5. simplist
+		6. simplism
+		7. simplify
+			1. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+			2. _n._ [complicate](dic://complicate), [perplex](dic://perplex)
+			3. **streamline**把…做成流线型;**complicate**使复杂化;**automate**使自动化，使自动操作;**streamlining**流线;**simpler**更简单的;**standardize**使合乎规格;**reduce**减少;**easier**容易些的，更简单的;**improve**改善，增进;**enhance**提高;**optimize**使最优化，使完善;
+			4. an overhaul of court procedure to simplify litigation /为简化诉讼而对法庭程序进行的革新。
+			5. a bill to simplify the Byzantine tax structure. /一项简化错综复杂的财税结构的议案
+			6. simplifier
+			7. simplification
+			8. oversimplify
+		9. simplicity
+		10. simnpliciter
+		11. simpleton
+			1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+			2. **moron**痴愚者;**idiot**白痴;**fool**开玩笑;**uneducated**未受良好教育的;**deluded**轻信的;**illiterate**目不识丁的,文盲的;**ignorant**无知的;**dumb**哑的，无说话能力的;**gullible**易受骗的;**clueless**无线索的;**naive**天真的，幼稚的;
+			3. Which brings us back to that hulking simpleton over there. /这也挺符合那边那个大傻冒的形象。
+			4. His brothers thought that he did not know very much, and called him a simpleton. /他的哥哥们认为他不谙世事，便叫他傻蛋。
+			5. He was very proud of the two older boys, but he thought the youngest son was a simpleton /他以两个大儿子为骄傲，却认为自己的小儿子是个傻瓜。
+			6. We finally lose our terror of coming across as a simpleton and a yokel. /我们终于不再害怕被认为是一个傻瓜和乡巴佬。
+			7. Since being smart means that you won't be as stimulated by the things that keep us simpletons happy. /因为聪明意味着 凡人的快乐再也不能使你快乐。
+		12. simpler
+		13. simpleminded
+		14. simplehearted
+	11. simplex
+		1. adj. 单一的；（通讯系统、计算机电路等）单工的 
+		2. n. 简单词；单形
+		3. 来自拉丁语simplex,单倍的，来自PIE*sem,一，词源同same,-plex,倍数，词源同simple,complex.
+		4. _adj._ [unidirectional](dic://unidirectional), [simple](dic://simple)
+		5. n._ [bidirectional](dic://bidirectional), [complex](dic://complex)
+		6. **duplex**二倍的，双重的;**herpes**疱疹;
+		7. These include giant cells associated with variola, herpes simplex and parainfluenza /这些包括有关天花、疱疹以及副流感的巨细胞。
+		8. As for viruses, the main culprits are enteroviruses, especially coxsackie virus, and herpes simplex virus. /至于病毒，罪魁祸首是肠道病毒，尤其是手足口病毒、单纯疱疹病毒等。
+		9. It used to be the most impoverished village within the Yanbian Korean Autonomous Prefecture in Jilin due to the simplex industrial structure /由于产业结构单一，红旗村曾是吉林省延边自治州最穷的村庄。
+		10. An inquest found newborn Jennifer Schofield died from Herpes **Simplex** Virus /尸检调查发现新生婴儿詹尼佛·斯科菲尔德死于单一性疱疹病毒Herpes Simplex Virus (HSV)。
+	12. triplex, triplexer
 		1. tri-三 + plex, 重叠
+		2. [ternary](dic://ternary), [treble](dic://treble), [triple](dic://triple)
+		3. _adj._ [multiple](dic://multiple)
+		4. _n._ [single](dic://single)
+		5. **duplex**二倍的，双重的;**penthouse**楼顶房屋;**condominium**公寓;**condo**分户出售公寓大厦;**apartment**一套房间, 一户;**townhouse**市政厅,镇公所;**bungalow**平房;**simplex**单一的;**multiplex**多元的;**high-rise**有多层的;
+		6. Oh, then it's not a duplex or triplex, like those over there /哦, 那就不那边2层或3层的。
+		7. We live in a **triplex** house of a multilayer apartment /我们住在多层公寓大楼的一个三室套间里。
 4. ==**plic-, pli-, ply-** = fold, 表示“重叠，折叠”。源自拉丁语 plicare "to fold."==
 	1. accomplice
 		1. ac-加强 + com-共同 + plic-折叠 + -e → 共同重叠在一起[做事] → 同谋。
+		2. _n._ [assistant](dic://assistant), [helper](dic://helper), [help](dic://help), [supporter](dic://supporter)
+		3. **perpetrator**做坏事者;**murderer**凶手;**victim**牺牲者;**assailant**攻击者;**mastermind**策划者;**informant**报告者,告密者;**suspects**嫌疑犯;**robber**强盗;**thief**小偷，贼;**robbery**抢劫，盗窃;**murder**谋杀，凶杀;
+		4. But there was an accomplice waiting in the wings. /可那儿正有一个同伴在戎装待命。
+		5. Krampus is considered the evil accomplice of St  Nicholas. /克拉普斯被认为是圣尼古拉斯的邪恶同伴。
+		6. It does so using an unsuspecting accomplice: the bumble-bee /而达成这种目标借助的不是别的，正是大黄蜂。
 	2. complicate
 		1. com-全部 + plic-折叠 + -ate, 表动词 → 全部重叠起来 → 弄复杂。
-		2. complicancy, complicacy
-			1. n. 一致(符合, 顺从, 顺性, 柔量)
+		2. complicacy
 		3. complicity
 			1. n. 同谋, 串通, 复杂
-	4. duplicate
+	3. duplicate
 		1. du-二 + plic-重复 + -ate → 重复第二份 → 复制。
 		2. duplicitous
 		3. duplicity
 			1. du-二 + plic-重复 + -ity, 表名词，引申义欺骗
-	5. quadruplicate
-	6. explicable, explicate
+	4. quadruplicate
+	5. explicate
 		1. ex-出 + plic-折叠 + -ate, 表动词 → 把重叠的东西弄出来 → 解释。
-	7. explicit, 
+		2. explicable
+	6. explicit
 		1. a. 详述的, 清楚的, 直言的
 		2. inexplicability
 		3. inexclicable
 		4. inexplicably
-	8. implicit
-	9. implicate
-	10. multiply
-	11. replicate
+	7. implicit
+	8. implicate
+	9. multiply
+	10. replicate
 		1. replica, plica
 			1. 1 - 来自拉丁语 replica,复制，重复，来自 replicare,复制，词源同 replicate.
-	12. supplicate
+	11. supplicate
 		1. sup-下 + plic-重叠 + -ate, 表动词 → (膝盖)重叠跪下 → 恳求。
 		2. suppliance, suppliant
-	13. triplicate
+	12. triplicate
 		1. triplicity
 			1. n. 三倍, 三个一组, 三位一体
-	14. applique
-	15. ply
+	13. applique
+	14. ply
 		1. n. 厚度, 板层  
 		2. vt. 使用, 使劲挥舞, 从事, 折, 弯  vi. 辛勤工作, 定期航行
 		2. pliability, pliable, pliancy, pliant
 		3. apply
 		4. imply
 		5. reply
-	16. plication
+	15. plication
 		1. n. 折襞, 皱纹, 细褶皱
 		2. fundoplication
 		3. centuplicate
 		4. sextuplicate
-	17. display
-	18. exploit
+	16. display
+	17. exploit
 		1. 1 - ex-,向外，-ploit,卷，词源同 imply,implicate.即展开，结果，功绩。后在 19 世纪初由于法国空想社会主义者，尤其是圣西门用该词指剥削，压榨，使得这一词义广泛传播。
 		2. n. 功绩, 勋绩  vt. 开发, 利用, 开拓, 剥削
-	19. ploy
+	18. ploy
 		1. n. 计策; 手段
 		2. 缩写自 deploy,部署，词源同 ply,complicate.引申词义计谋，策略，花招等。
 		3. employ
 			1. 1 - em-,进入，使，-ploy,编织，卷入，词源同 deploy,imply,implicate.即成为其中的一份子。
 		4. deploy
-	20. splay
+	19. splay
 		1. vt. 使（手指、腿等）叉开, 分开, 张开, 展开  
 		2. n. 八字形展开  a. 向外张开的
-5. **ploc-** 
-6. flax
-7. plagiary
+5. flax
+6. plagiary
 
 
 ### + \*pleu- + = to flow, to float, to swim

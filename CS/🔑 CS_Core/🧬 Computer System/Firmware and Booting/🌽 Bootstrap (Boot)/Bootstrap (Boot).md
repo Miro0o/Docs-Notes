@@ -12,6 +12,9 @@
 ↗ [Program Execution & Compilation System](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 ↗ [Memory Access](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
+↗ [TPM & TSS](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20&%20TSS.md)
+↗ [TPM](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20Project/TPM.md)
+
 
 ### Learning Resources
 🔥 👍 从裸机启动开始运行一个C++程序
@@ -31,8 +34,38 @@ In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **booting
 ### Computer States
 
 
+### Chain Loading
+
+
+### Boot Devices
+
+
+
+## POST (Power-On Self-Test)
+> 🔗 https://en.wikipedia.org/wiki/Power-on_self-test
+
+A power-on self-test (POST) is a process performed by firmware or software routines immediately after a computer or other digital electronic device is powered on.
+
+The results of the POST may be displayed on a panel that is part of the device, output to an external device, or stored for future retrieval by a diagnostic tool. Since a self-test might detect that the system's usual human-readable display is non-functional, an indicator lamp or a speaker may be provided to show error codes as a sequence of flashes or beeps. In addition to running tests, the POST process may also set the initial state of the device from firmware.
+
+In the case of a computer, the POST routines are part of a device's pre-boot sequence; if they complete successfully, the bootstrap loader code is invoked to load an operating system.
+
+
+
+## Boot Sequence
+### BIOS Boot Sequence
+
+
+### UEFI Boot Sequence
+
+
+### Other Boot Sequences
+
+
 
 ## ⭐️ Modern Boot Loader
+> 🔗 https://en.wikipedia.org/wiki/Booting#Modern_boot_loaders
+
 When a computer is turned off, its software‍—‌including operating systems, application code, and data‍—‌remains stored on [non-volatile memory](https://en.wikipedia.org/wiki/Non-volatile_memory "Non-volatile memory"). When the computer is powered on, it typically does not have an operating system or its loader in [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory "Random-access memory") (RAM). The computer first executes a relatively small program stored in [read-only memory](https://en.wikipedia.org/wiki/Read-only_memory "Read-only memory") (ROM, and later [EEPROM](https://en.wikipedia.org/wiki/EEPROM "EEPROM"), [NOR flash](https://en.wikipedia.org/wiki/NOR_flash "NOR flash")) along with some needed data, to initialize CPU and motherboard, to initialize [RAM](https://en.wikipedia.org/wiki/RAM "RAM") (especially on x86 systems), to access the nonvolatile device (usually [block device](https://en.wikipedia.org/wiki/Block_device "Block device"), e.g. NAND flash) or devices from which the operating system programs and data can be loaded into RAM.
 
 The small program that starts this sequence is known as a **bootstrap loader**, **bootstrap** or **boot loader**. Often, **multiple-stage boot loaders** are used, during which several programs of increasing complexity load one after the other in a process of **[chain loading](https://en.wikipedia.org/wiki/Chain_loading "Chain loading")**.
@@ -47,15 +80,21 @@ On systems with those constraints, the first program loaded into RAM may not be 
 
 
 ### 1️⃣ First-Stage Boot Loader
-↗ [First-Stage Boot Loader](First-Stage%20Boot%20Loader/First-Stage%20Boot%20Loader.md)
+↗ [First-Stage Boot Loader (System Firmware)](First-Stage%20Boot%20Loader%20(System%20Firmware)/First-Stage%20Boot%20Loader%20(System%20Firmware).md)
 
 
 ### 2️⃣ Second-Stage Boot Loader
-↗ [Second-Stage Boot Loader (Boot Manager)](Second-Stage%20Boot%20Loader%20(Boot%20Manager)/Second-Stage%20Boot%20Loader%20(Boot%20Manager).md)
+↗ [Second-Stage Boot Loader & Boot Manager](Second-Stage%20Boot%20Loader%20&%20Boot%20Manager/Second-Stage%20Boot%20Loader%20&%20Boot%20Manager.md)
 
 
 ### 3️⃣ Network Booting
-↗ [Network Booting](Network%20Booting/Network%20Booting.md)
+↗ [Network Booting](Second-Stage%20Boot%20Loader%20&%20Boot%20Manager/🛰️%20Network%20Booting/Network%20Booting.md)
+
+
+### Embedded and Multi-stage Boot Loaders
+Many embedded systems must boot immediately. For example, waiting a minute for a digital television or a GPS navigation device to start is generally unacceptable. Therefore, such devices have software systems in ROM or flash memory so the device can begin functioning immediately; little or no loading is necessary, because the loading can be precomputed and stored on the ROM when the device is made.
+
+Large and complex systems may have boot procedures that proceed in multiple phases until finally the operating system and other programs are loaded and ready to execute. Because operating systems are designed as if they never start or stop, a boot loader might load the operating system, configure itself as a mere process within that system, and then irrevocably transfer control to the operating system. The boot loader then terminates normally as any other process would.
 
 
 
@@ -73,17 +112,17 @@ On systems with those constraints, the first program loaded into RAM may not be 
 1. 第一阶段：BIOS
 	1. 硬件自检
 	2. 启动顺序
-2. 第二阶段：主引导记录
+2. 第二阶段：主引导记录 (MBR)
 	1. 主引导记录的结构
 	2. 分区表
 3. 第三阶段：硬盘启动
-	1. 情况A：卷引导记录
-	2. 情况B：扩展分区和逻辑分区
+	1. 情况A：卷引导记录 (VBR)
+	2. 情况B：扩展分区和逻辑分区 (EBR)
 	3. 情况C：启动管理器
 4. 第四阶段：操作系统
 	1. 控制权转交给操作系统后，操作系统的内核首先被载入内存。
 	2. 以Linux系统为例，先载入/boot目录下面的kernel。内核加载成功后，第一个运行的程序是/sbin/init。它根据配置文件（Debian系统是/etc/initab）产生init进程。这是Linux启动后的第一个进程，pid进程编号为1，其他进程都是它的后代。然后，init线程加载系统的各个模块，比如窗口程序和网络程序，直至执行/bin/login程序，跳出登录界面，等待用户输入用户名和密码。
-	3. 至此，全部启动过程完成。
+5. 至此，全部启动过程完成。
 
 [👍 计算机启动流程]: https://www.initroot.com/linuxintroduction/computerbootprocess.html
 计算机的整个启动过程主要是按顺序执行三个独立存放的程序，分别是：  
@@ -102,3 +141,4 @@ On systems with those constraints, the first program loaded into RAM may not be 
 3.bootloader将磁盘中的linux内核加载到内存中并执行。**
 
 PC机启动时，cpu首先执行ROM中的BIOS，ROM BIOS会将默认启动驱动器上的引导扇区(MBR)中的bootloader读入内存， bootloader将操作系统内核读入内存，并将控制权交给操作系统内核代码。
+

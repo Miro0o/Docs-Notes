@@ -1570,25 +1570,77 @@
 	9. etc..
 
 
+### alkal-   
+表示“碱”，源自阿拉伯语 al-qaliy (the ashes)。al-是阿拉伯语中的定冠词 "the"。
+1. alkali
+	1. n. 碱；可溶性无机盐
+	2. adj. 碱性的
+	3. alkali（碱）：古阿拉伯人从灰烬中提取的物质  
+	4. 在中世纪时，阿拉伯人就掌握了从生长于海边盐碱地上的藜科植物saltwort（猪毛草）中提取碱的方法。他们焚烧这种植物，从灰烬中获得碱类物质。在阿拉伯语中，这种来自灰烬的碱被称为al-qali，其中al是定冠词，qali就是“灰烬”的意思。英语单词alkali就源自阿拉伯语al-qali，表示“碱”。  
+	5. alkali：['ælkəlaɪ] n.碱adj.碱性的  
+	6. alkaline：['ælkəlaɪn] adj.碱性的，碱的  
+	7. alkaloid：['ælkə'lɔɪd] n. 生物碱；植物碱基
+	8. alkali - 中世纪阿拉伯化学家从生于海边的藜科植物（saltwort）提取碳酸钠，把它叫做al-qali，意思是ashes of saltwort（藜灰）。嗣后，英国化学家将该阿拉伯词音译过来，作alkali，用以指汉语所称的“碱”。
+	9. [base](dic://base)
+	10. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound), [salt](dic://salt)
+	11. **alkaline**碱性的，碱的;**acid**酸，<俚>迷幻药;**hydroxide**氢氧化物;**acidic**酸的，酸性的;**aqueous**水的，水般的;**carbonate**碳酸盐;**ammonium**铵;**sulphur**硫磺;**sulfur**用硫磺处理;**silica**硅土;**boron**硼;
+	12. the remaining alkali is filtrated. /剩下的碱经过了过滤。
+	13. As to blastfurnace slag, the higher the vitreous body content in amorphous state, the better the effect of reducing alkali aggregate reaction /对于高炉炉渣而言，非晶态玻璃体含量愈高，抑制碱集料反应的效果愈好；
+	14. These right over here are the alkali. /这些就在这里是碱。
+	15. And hydrogen is not considered an alkali metal /氢不被认为是碱金属。
+3. alkalescence
+4. alkalescent
+5. alkalify
+	1. v. （使）成碱化
+	2. [alkalize](dic://alkalize), [alkalise](dic://alkalise), [basify](dic://basify)
+	3. _v._ [change state](dic://change state), [turn](dic://turn)
+6. alkaline
+7. alkalize
+8. alkaloid
+	1. n. [有化] 生物碱；植物碱基
+	2. _n._ [organic compound](dic://organic compound)
+	3. **metabolite**代谢物;**stimulant**兴奋剂;**toxin**毒质;**pharmacological**药理学的;**medicinal**医学的;**caffeine**咖啡因;**nicotine**尼古丁;**cytotoxic**细胞毒素的;**biosynthesis**生物合成;**narcotic**麻醉的;**opium**鸦片;
+	4. an alkaloid extracted from the nightshade family /从茄属植物中提取的生物碱
+	5. This is the chemical formula for what alkaloid? /这是什么生物碱的化学式？
+	6. Tobacco contains an alkaloid called nicotine /烟草含有一种叫做尼古丁的生物碱。
+	7. Alkaloids have many functions and effects, but almost all a bitter in taste. /生物碱有许多功能和作用，但几乎所有的苦味。
+	8. It was but for a moment, for the action of the alkaloid is rapid. /可是这一切只是一会儿功夫，因为那种生物硷的作用发挥得很快。
+	9. It's a mild natural stimulant, a type of alkaloid. /它是一种温和的天然兴奋剂，一种生物碱。
+9. alkalosis
+10. antalkali
+
+
 ### almon-, alm- = alms, 表示“施舍，救济”
 1. almoner
-	1. _n._ [social worker](dic://social worker), [caseworker](dic://caseworker), [welfare worker](dic://welfare worker)
-	2. **chaplain**牧师;**vicar**教区牧师，教堂牧师;**abbot**男修道院院长;**treasurer**司库,财务主管;**archbishop**大主教;**deacon**执事;**bishop**主教;**nobleman**贵族;**abbey**大修道院，大寺院;**pope**教皇，罗马教皇;**clergyman**牧
-	3. [medical social worker](dic://medical social worker)
-2. alms
-	1. _n._ [contribution](dic://contribution), [donation](dic://donation)
-	2. **beggar**乞丐;**penance**使…以苦行赎罪;**destitute**赤贫的, 贫苦的;**piety**虔诚;**needy**贫穷的;**charity**施舍;**pious**虔诚的;**abbot**男修道院院长;**monk**僧侣，修道士;**pilgrims**朝圣者;**pilgrim**朝圣者;
-	3. _[alms bowl](dic://alms%20bowl)_  钵盂
-	4. _[alms box](dic://alms%20box)_  布施箱；（教堂内或门口的）施舍箱
-	5. _[soup in alms bowl](dic://soup%20in%20alms%20bowl)_  砂钵汤
-	6. almonry
+	1. n. 施赈人员；救济品分发员
+	2. _n._ [social worker](dic://social worker), [caseworker](dic://caseworker), [welfare worker](dic://welfare worker)
+	3. **chaplain**牧师;**vicar**教区牧师，教堂牧师;**abbot**男修道院院长;**treasurer**司库,财务主管;**archbishop**大主教;**deacon**执事;**bishop**主教;**nobleman**贵族;**abbey**大修道院，大寺院;**pope**教皇，罗马教皇;**clergyman**牧
+	4. [medical social worker](dic://medical social worker)
+	5. She had her doctor in ordinary, her grand almoner, her chamberlain, her first lady of honor, her prime minister; above all, her chancellor, a chancellor who would fain have said much to her. /她有她的普通医生、她的大施主、她的内侍、她的第一夫人、她的首相。最重要的是，她的大臣，一个愿意对她说很多话的大臣。
+3. alms
+	1. n. 捐献；救济物，施舍金
+	2. _n._ [contribution](dic://contribution), [donation](dic://donation)
+	3. **beggar**乞丐;**penance**使…以苦行赎罪;**destitute**赤贫的, 贫苦的;**piety**虔诚;**needy**贫穷的;**charity**施舍;**pious**虔诚的;**abbot**男修道院院长;**monk**僧侣，修道士;**pilgrims**朝圣者;**pilgrim**朝圣者;
+	4. _[alms bowl](dic://alms%20bowl)_  钵盂
+	5. _[alms box](dic://alms%20box)_  布施箱；（教堂内或门口的）施舍箱
+	6. _[soup in alms bowl](dic://soup%20in%20alms%20bowl)_  砂钵汤
+	7. It was their religious duty to give alms to the poor /施舍穷人是他们的宗教义务。
+	8. " Give us some alms, we beg of you! We are old, tired, and sick." /“施舍施舍我们吧，求你了，我们又老又累还生着病。”
+	9. Monasteries also had an obligation to offer hospitality to travellers and alms to the poor /寺院还有义务招待旅行者并向穷人提供救济。
+	10. And this was supplemented by alms given by pilgrims traveling through the Kingdom /来到古格王朝的朝圣者所捐献的香火钱更增加了国王的财富。
+	11. Do not forget to give me an alms. /别忘了给我施舍。
+	12. I hear that a great man doesn't drink a thief's water or accept **alms**.  /我听说有志之士不喝盗泉之水，廉洁之士不吃嗟来之食。
+	13. almonry
 		1. _[almonry](dic://almonry)_  n. 施赈所
-	7. almswoman
-	8. almsman
-	9. almshouse
-		1. _[almshouse](dic://almshouse)_  n. 公立救济院；私立济贫院或养老院
-	10. almsgiving
-	11. almsgiver
+	14. almswoman
+	15. almsman
+	16. almshouse
+		1. n. 公立救济院；私立济贫院或养老院
+		2. _[almshouse](dic://almshouse)_  n. 公立救济院；私立济贫院或养老院
+		3. There were almshouses and almsmen everywhere. /到处是贫民所和受施舍者。
+		4. " Peter was a bad liver, and almshouses won't cover it, when he's had the impudence to show it at the last" /“彼得的肝脏不好， 救济院不会收拾它， 当他最后厚颜无耻地表现出来时” 。
+	18. almsgiving
+	19. almsgiver
 
 
 
@@ -1643,12 +1695,19 @@
 ### + \*ambhi- + = around
 1. **ambi-** 表示“两个，两种，两边，周围”。源自拉丁语 ambo "both."
 	1. ambit
-		2. ambience, ambiance
-		3. ambient
-		4. circumambience, circumambience
+		1. n. 范围；周围
+		2. [scope](dic://scope), [range](dic://range), [reach](dic://reach), [orbit](dic://orbit), [compass](dic://compass)
+		3. _n._ [extent](dic://extent)
+		4. **purview**范围，权限;**scope**视野;**remit**宽恕;**statutory**法定的;**encompass**围绕;**applicability**适用性;**jurisdiction**司法权;**realm**领域，范围;**confines**范围;**definition**定义, 释义;**jurisdictional**司法权的;
+		5. the ambit of municipal legislation /市议会的立法范围；
+		6. Her case falls within the **ambit** of moral law /她的案子属于道德法的范围。
+		7. What's the price **ambit**? /价格范畴是多少？
+		8. ambience, ambiance
+		9. ambient
+		10. circumambience, circumambience
 			1. circumambiency
 			2. circumambient
-	2. ambiguity
+	3. ambiguity
 		1. _n._ [saying](dic://saying), [expression](dic://expression), [locution](dic://locution), [unclearness](dic://unclearness)
 		2. _n._ [unambiguity](dic://unambiguity), [unequivocalness](dic://unequivocalness)
 		3. **confusion**惶惑;**ambiguous**模棱两可的;**uncertainty**不确定;**inconsistency**矛盾;**contradiction**矛盾;**nuance**细微差别;**misunderstanding**误会;**paradox**悖论;**inherent**固有的;**dichotomy**一分成二,对分;**dissonance**不一致;
@@ -1708,15 +1767,15 @@
 		12. surgeons had to amputate her left hand /外科医生不得不截掉她的左手。
 		13. amputee, amputator
 		14. amputation, reamputation
-	13. ancillary
+	12. ancillary
 		1. _adj._ [supportive](dic://supportive)
 		2. _n._ [unsupportive](dic://unsupportive)
 		3. **incidental**附属的;**miscellaneous**多方面的;**auxiliary**助动词;**provision**提供，供给，给养，供应品;**additional**增加的, 额外的, 另外的;**supplementary**增补的;**extraneous**外部的,外来的;**supplemental**补足的,追加的;**sundry**杂的;**value-added**增值的;**services**服务;
 		4. _ancillary equipment_ 辅助设备；外部设备；外围设备
 		5. _ancillary service_ 附属设备；辅助性服务
 		6. _ancillary materials_ 辅助材料
-	14. anfractuosity, anfractuous
-	15. umlaut
+	13. anfractuosity, anfractuous
+	14. umlaut
 2. **ambul-** = walk, 表示“行走，走路”，复合词根 ambi-两边 + ul-走。源自拉丁语 ambulare "to go around, walk."
 	1. ambulate
 		1. **crutches**拐杖，支撑物;**ambulatory**走动的,流动的,非固定的 回廊;**gait**步法，步态;**wheelchair**轮椅;**walker**步行者;**walk**步行，走;**bathe**沐浴;**wheeled**有轮的;**patients**病人;

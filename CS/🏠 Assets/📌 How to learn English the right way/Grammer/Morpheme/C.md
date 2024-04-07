@@ -3,20 +3,152 @@
 = stone, 表示“石头”，引申为“计算”。来自拉丁语。拉丁语 ca- 进入法语一般变为 cha-, 所以经由法语进入英语的 chalk 和 clac- 同源。拉丁语 calcio 还表示“脚踝”，所以医学上用 calcane(o)- 表示“跟"，意大利语用 calcio 表示足球，著名的 AC 米兰俱乐部中的 C 即来源于此。由脚踝也会引申出“踢”的含义，比如 recalcitrant 字面含义“踢回去”。
 
 1. calculate
-2. calculi
-3. calculous
-4. recalcitrate
-	1. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
-	2. _recalcitrate_  vi. 不服从；顽抗；踢回去
-	3. _contrary implacability obduracy pertinacity recalcitrate_ 执拗
-	4. recalcitrant
+	1. calculate（计算）：用来计数的小石子  
+	2. 古代罗马人很早就学会了使用石子来计数。据记载，在公元前15世纪，古罗马的工程师Vitruvius 还发明了一种利用石子来计算距离的仪器。这种仪器安装在车轮上，车轮每转动一次，就有一粒石子落到一个容器里。通过数容器里的石子就可以算出车轮驶过的距离。拉丁语calculus表示鹅卵石或小石子。由于石子在算术中的广泛应用，calculus一词进入英语后，除了表示“结石”外，还可以表示“微积分”。英语单词calculate（计算）则源自拉丁文calculatus，后来表示使用石子计数的做法。英语单词calcium（钙）也与calculus有关，因为石头的主要成分就是钙。  
+	3. calc-：石头，钙  
+	4. chalk：[tʃɔk] n. 粉笔；白垩；用粉笔划的记号adj. 用粉笔写的  
+	5. calculus： ['kælkjʊləs]n.结石，微积分  
+	6. calculate：['kælkjʊleɪt] v.计算，打算，预测  
+	7. calculation：[,kælkju'leʃən] n. 计算；估计；计算的结果；深思熟虑  
+	8. calculator： ['kælkjuletɚ] n. 计算器；计算者  
+	9. calcium：['kælsɪəm] n.钙  
+	10. calcify： ['kælsɪfaɪ] vi. 钙化；变成石灰质vt. 使钙化；使思想僵化
+	11. calculability
+		1. incalculability
+	12. calculable
+		1. incalculable
+3. calcium
+	1. _n._ [metallic element](dic://metallic element), [metal](dic://metal)
+	2. **potassium**钾;**magnesium**镁;**sodium**钠;**manganese**锰;**carbonate**碳酸盐;**phosphate**磷酸盐;**phosphorus**磷;**nutrient**营养物;**boron**硼;**zinc**镀锌于…;**folate**叶酸;
+4. calculi
+5. calculous
+	1. _adj._ [calculus](dic://calculus), [concretion](dic://concretion)
+	2. **calculus**结石;**gallbladder**胆囊;**mathematical**数学的;**arithmetic**算术;**algebra**代数学;**renal**肾脏的，肾的;**algebraic**代数的;**urinary**尿壶;**obstructive**阻碍的;**gout**痛风;**mathematics**数学;
+6. calculus
+	1. n. 微积分；（数，逻）演算（法），计算（法）；（医）（尤指肾或胆囊的）结石，石
+	2. [concretion](dic://concretion)
+	3. [tartar](dic://tartar), [tophus](dic://tophus)
+	4. [infinitesimal calculus](dic://infinitesimal calculus)
+	5. _n._ [rock](dic://rock), [stone](dic://stone), [crust](dic://crust), [incrustation](dic://incrustation), [encrustation](dic://encrustation), [pure mathematics](dic://pure mathematics)
+	6. **algebra**代数学;**mathematics**数学;**math**数学;**mathematical**数学的;**algebraic**代数的;**arithmetic**算术;**geometry**几何学;**equation**方程式，等式;**maths**数学;**physics**物理学;**quadratic**二次的;
+	7. The Ukraine scandal changes the calculus. /然而，乌克兰丑闻改变了这一格局。
+	8. But a series of increasingly unfortunate events completely changed the entire calculus of power. /但一系列越来越不幸的事件彻底改变了整个权力的划分。
+	9. " The calculus for this disease is proximity, congestion and time, " he added. /“因为根据距离、拥堵程度还有时间就能推算出某个地方的疫情会有多严重，”他又说道。
+	10. The much more productive warm-up to have done would have been the calculus of Bob's approach. /更有成效的热身 将是鲍勃方法的演算。
+7. calcarious
+	1. adj.钙质的，石灰质的（同 calcareous）
+8. calcic
+	1. adj. 钙的；含钙的
+	2. _adj._ [calcium](dic://calcium), [Ca](dic://Ca), [atomic number 20](dic://atomic number 20)
+	3. **sedimentary**沉积的;**carbonate**碳酸盐;**soils**土壤;**limestone**石灰岩;**alkaline**碱性的，碱的;**crystalline**水晶的;**sediments**沉淀物;**volcanic**火山的;**acidic**酸的，酸性的;**phosphate**磷酸盐;**alkali**碱;
+9. calciferol
+	1. n. [生化]钙化醇；维生素 D2
+	2. _n._ [fat-soluble vitamin](dic://fat-soluble vitamin)
+	3. **vitamin**维生素;**calcium**钙;**folate**叶酸;**aspirin**阿司匹林;**magnesium**镁;**progesterone**孕酮,黄体酮;**dosages**剂量;**estrogen**雌性激素;**soluble**可溶的，可溶解的;**vitamins**维生素;**prednisone**强的松;
+10. calciferous
+	1. adj. 含钙的；[生物] 含碳酸钙的
+11. calcimine
+	1. n. 墙粉；粉刷用涂料 
+	2. vt. 刷墙粉于；粉刷
+12. calcine
+	1. v. 锻烧，焙烧；（使）氧化 
+	2. n. 煅烧产物
+	3. _v._ [heat](dic://heat), [heat up](dic://heat up)
+	4. **slurry**泥浆;**kiln**在干燥炉干燥;**alkali**碱;**furnace**火炉，熔炉;**molten**熔化的;**silica**硅土;**carbonate**碳酸盐;**sulphur**硫磺;**ash**灰;**coal**煤;**plutonium**钚;
+	5. There was a calcined mass which she broke up with the poker. /有一团烧焦的东西， 她用拨火棍把它弄碎了。
+	6. In Colombia, a product based on this technology was commercialized a few months ago, and in the Ivory Coast, the full-scale plant is being commissioned to calcineclays. /在哥伦比亚， 一种基于该技术的产品已于几个月前实现商业化，而在科特迪瓦， 全规模工厂正投入使用以煅烧粘土。
+	7. I saw another at work to calcine ice into gunpowder; who likewise showed me a treatise he had written concerning the malleability of fire, which he intended to publish /我看到另一个人在把冰块煅烧成火药；他还给我看了一篇他写的关于火的可塑性的论文，他打算发表这篇论文。
+13. calcineurin
+	1. 钙调磷酸酶
+14. calciosilicosis
+15. discalced
+	1. _adj._ (修士或修女)赤脚的; 仅穿拖鞋的
+	2. _n._ [calced](dic://calced), [shod](dic://shod)
+	3. **Franciscan**圣方济各会的;**monastic**僧侣;**nun**修女，尼姑;**convent**女修道院;**Benedictine**圣本笃修会修士;**barefoot**赤脚的;**monk**僧侣，修道士;**saint**圣徒;**Dominican**多米尼加的;**monastery**修道院;
+16. inculcate (indoctrinate)
+	1. vt. 教育；谆谆教诲；教授；反复灌输
+	2. _v._ [drill](dic://drill)
+	3. **instill**徐徐滴入;**impart**给予，传授;**cultivate**耕作, 种植;**educate**教育;**teach**教;**reinforce**增强;**nurture**养育;**perpetuate**使永存;**motivate**刺激;**develop**开发;**propagate**繁殖;
+	4. inculcate the young with a sense of duty. /向年轻人灌输责任感
+	5. they will try to inculcate you with a respect for culture. /他们会谆谆教导你要尊重文化。
+	6. We failed to inculcate students with love of knowledge. /我们未能通过谆谆教诲使学生们热爱知识。
+	7. It also aims to inculcate values such as telling the truth or not stealing /它的目的就是灌输价值观，比如要说真话，不能偷盗。
+17. recalcitrate
+	1. vi. 不服从；顽抗；踢回去
+	2. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
+	3. _recalcitrate_  vi. 不服从；顽抗；踢回去
+	4. _contrary implacability obduracy pertinacity recalcitrate_ 执拗
+	5. recalcitrant
 		1. [fractious](dic://fractious), [refractory](dic://refractory)
 		2. _adj._ [disobedient](dic://disobedient), [defiant](dic://defiant), [noncompliant](dic://noncompliant)
 		3. _n._ [obedient](dic://obedient), [compliant](dic://compliant)
 		4. **stubborn**顽固的;**unruly**不守规矩的;**troublesome**令人烦恼的;**wayward**任性的;**hapless**运气不好的，倒霉的;**belligerent**好战的;**beleaguered**饱受批评的;**defiant**挑衅的;**rebellious**叛逆的;**would-be**想要成为的,自称自许的,自充的;**erstwhile**过去的, 从前的;
-5. etc..
+		5. a class of recalcitrant fifteen-year-olds. /一群桀骜不驯的15岁少年。
+		6. wrung the truth out of the recalcitrant witness. /从那个顽固的目击者口中逼出事情的真像
+		7. The university suspended the most recalcitrant demonstrators. /该大学对最为桀骜不驯的学生做了暂令停学的处理。
+18. recalcitrance
+	1. _n._ [intractability](dic://intractability), [intractableness](dic://intractableness)
+	2. **unwillingness**不情愿;**refusal**拒绝;**impatience**急躁;**reluctance**不愿意;**insistence**坚持;**hostility**敌意;**defiance**蔑视;**inaction**不活动;**arrogance**傲慢;**incompetence**无能力;**contempt**轻视，蔑视;
+	3. Your recalcitrance obliges firmness on my part. /你不服从，迫使我这方面更坚定了。
+19. calx
+	1. n. 矿灰；金属灰；生石灰
+	2. [calcium oxide](dic://calcium oxide), [quicklime](dic://quicklime), [lime](dic://lime), [calcined lime](dic://calcined lime), [fluxing lime](dic://fluxing lime), [unslaked lime](dic://unslaked lime), [burnt lime](dic://burnt lime)
+	3. _n._ [oxide](dic://oxide)
+	4. **carbonate**碳酸盐;**sulphur**硫磺;**sulfur**用硫磺处理;**manganese**锰;**magnesium**镁;
+20. caulk
+	1. v. 用填料（或密封剂）密封；补（船的）漏洞；填补（缝隙） 
+	2. n. 防水填料，密封剂
+	3. [caulking](dic://caulking)
+	4. _n._ [sealant](dic://sealant), [sealer](dic://sealer)
+	5. _v._ [seal](dic://seal), [seal off](dic://seal off)
+	6. caulk（捻缝）：用于船体填隙的石灰捻料  
+	12. 古时候在修建木船时，需要用特殊捻料来填补船板中的细小裂缝或结合处形成的细缝。古人很早就发现，利用石灰和其他材质混合制成的捻料特别适合填补船体缝隙，可以随着船板一起热胀冷缩，这样就可以保证船板不会透水。因此，英语中表示“填隙”的单词caulk就与石灰有关。caulk来自拉丁语calicare，而后者来自名词calx（石灰、石灰岩）。与caulk同源的单词有chalk（粉笔、白垩）、calcium（钙）等。  
+	13. caulk：[kɔk] vt.填隙使不漏水，捻缝  
+	14. chalk：[tʃɔk] n.粉笔，白垩  
+	15. calcium： ['kælsɪəm] n. 钙
+	7. **sealant**密封剂;**drywall**纸面石膏板;**epoxy**环氧的;**sealer**盖印人;**grout**用薄泥浆填塞;**glue**粘合;**putty**油灰;**adhesive**粘合剂;**paint**油漆;**plywood**夹板，胶合板;**fiberglass**玻璃纤维;
+	8. caulk a pipe joint; caulked the cracks between the boards with mud /堵住水管接头的缝隙；填塞木板和泥之间的缝
+	9. an ink cartridge; a disposable cartridge of caulking compound. /油墨块；可弃式填塞物
+	10. But the caulking mallet is full of it. /我这个捻缝的木槌里可都是音乐。
+	11.  And shall I caulk the seams, sir? " moving his hand as with a caulking-iron. /“我要把缝隙都堵死吗，先生？”他挥着手，像左右摆着一把堵缝凿。
+21. causeway
+	1. n. 堤道；铺道 
+	2. vt. 筑堤道于……
+	3. _n._ [road](dic://road), [route](dic://route)
+	4. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [pave](dic://pave)
+	5. **bridge**桥;**jetty**码头;**pier**水上平台, 码头;**walkway**通道，走道;**waterway**水路;**footpath**小路;**boardwalk**用木板铺成的小道;**peninsula**半岛;**ferry**渡口;**wharf**码头;**lagoon**泻湖;
+	6. As he fled, Benandonner tore up the rocks connecting the shores, breaking up the causeway /当他逃离时，Benandonner撕毁了连接海岸的岩石，打破了堤道。
+	7. " By the causeway? Against Moat Cailin" ? /" 通过堤道？强攻卡林湾？"
+	8. It's the site of what we call a causewayed enclosure. /堤道围墙的所在地。
+	9. The narrow causeway meandered sinuously among the green rice-fields /狭窄的堤道在绿色的稻田间蜿蜒曲折。
+22. chalk
+	1. vt. 用粉笔写；用白垩粉擦；记录；规划
+	2. n. 粉笔；白垩；用粉笔划的记号
+	3. adj. 用粉笔写的
+	4. vi. 变成白垩状
+	5.  [methamphetamine](dic://methamphetamine), [methamphetamine hydrochloride](dic://methamphetamine hydrochloride), [Methedrine](dic://Methedrine), [meth](dic://meth), [deoxyephedrine](dic://deoxyephedrine), [chicken feed](dic://chicken feed), [crank](dic://crank), [glass](dic://glass), [ice](dic://ice), [shabu](dic://shabu), [trash](dic://trash)
+	6. _n._ [calcite](dic://calcite), [white](dic://white), [whiteness](dic://whiteness), [amphetamine](dic://amphetamine), [pep pill](dic://pep pill), [upper](dic://upper), [speed](dic://speed)
+	7. _v._ [draw](dic://draw)
+	8. **crayon**蜡笔，有色粉笔;**pencil**铅笔;**chalkboard**黑板;**sand**沙;**whiteboard**白色书写板;**eraser**擦除器;**crayons**蜡笔;**paint**油漆;**clay**泥土;**pencils**铅笔;**drawing**图画;
+	9. _chalk it up_ v. 记帐；宣布
+	10. _french chalk_ n. 滑石粉
+	11. _chalk up_ 记下；取得；归咎于
+	12. _a piece of chalk_ 一支粉笔
+	13. _know chalk from cheese_ 有判断力[通常用于否定句]
+	14. _white chalk_ 白粉笔
+	15. a chalk pit where cowslips bloomed. /开着野樱草花的白垩矿场。
+	16. Chalk that up to experience. /把那事归于经验问题
+	17. The chalk jarred against the blackboard. /粉笔在黑板上发出吱吱声。
+	18. I chalked my sleeplessness up to nerves. /我把失眠归于神经紧张。
+	19. a sidewalk fruit stand; sidewalk chalk artists. /街旁的一水果摊；街头粉笔画师
+	20. Will a black chalk chalk on a white blackboard? /黑色的粉笔会在白色的黑板上写字吗?
+	21. No dude, not by a long chalk. /远远不是。
+	22. 
+23. osteocalcin
 
-### cancel-,carcer- = prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得名。chancery 原指站在栏杆后面的法庭引导员。源自拉丁语 cancer "lattice;" carcer "enclosure, prison, barrier."
+
+### cancel-,carcer-
+prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得名。chancery 原指站在栏杆后面的法庭引导员。源自拉丁语 cancer "lattice;" carcer "enclosure, prison, barrier."
 1. chancel
 	1. n. 高坛
 	2. [sanctuary](dic://sanctuary), [bema](dic://bema)
@@ -230,7 +362,6 @@
 15. wormcast
 
 
-
 ### + \*cauda- + = tail
 1. **caud-** = tail, 拉丁语 cauda【尾巴】, coda 是 cauda 常用的方言表示.
 	1. caudate
@@ -260,23 +391,73 @@
 
 ### caval- = horse, 表示“马”。
 1. chevalier
-	1. _n._ [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [singer](dic://singer), [vocalist](dic://vocalist)
-	2. **knight**骑士，武士;**nobleman**贵族;**knights**骑兵，骑士;**Monsieur**先生;**colonel**陆军上校;**prince**王子，国君;**lieutenant**中尉;**duke**公爵，君主;**baron**男爵;
+	1. chevalier（骑士）：法国贵族的最低级别  
+	2. 英语单词chevalier和cavalier都表示“骑士”、“武士”，它们有什么联系和区别呢？其实，它们词源相同，都来自拉丁语caballarius，意思是horseman（骑马的人）。不同的是，cavalier是从意大利语进入英语的，仅仅表示一种职业，如军队中的“骑兵”，而chevalier是从法语进入英语的，除了“骑士”本意外，还是一种贵族身份和荣誉称号。在法国，chevalier是贵族等级中最低一层，且不可世袭。这一点和英国的knight（骑士）一样。  
+	3. chevalier：[,ʃevə'lɪə] n.骑士，武士  
+	4. cavalier： [,kævə'lɪə] n.骑士，武士adj.傲慢的，漫不经心的，无忧无虑的
+	5. _n._ [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [singer](dic://singer), [vocalist](dic://vocalist)
+	6. **knight**骑士，武士;**nobleman**贵族;**knights**骑兵，骑士;**Monsieur**先生;**colonel**陆军上校;**prince**王子，国君;**lieutenant**中尉;**duke**公爵，君主;**baron**男爵;
+	7. "Messire Galiot de Genoilhac, chevalier, seigneur de Brussac, master of the king's artillery!" /“加利奥•德•热努阿克大人，骑士，普鲁萨克的领主，
+	8. Moreover, I myself, will be her preux chevalier, sixty and gouty though I be. /而且，我自己，将是她的假骑士， 虽然我已经六十多岁， 还患有痛风病。
+	9.  Both hands, " replied the chevalier, laughing. /“双手，”骑士笑着回答。
 2. chivalry
-	1. [gallantry](dic://gallantry), [politesse](dic://politesse)
-	2. [knightliness](dic://knightliness)
-	3. _n._ [courtesy](dic://courtesy), [good manners](dic://good manners), [principle](dic://principle)
-	4. **knights**骑兵，骑士;**knight**骑士，武士;**nobility**贵族;**heroism**英勇，英雄气概;**bravery**勇敢;**morality**道德;**morals**道德;**romance**浪漫史;**manners**礼貌;**patriotism**爱国主义;**medieval**中世纪的;
+	4. [gallantry](dic://gallantry), [politesse](dic://politesse)
+	5. [knightliness](dic://knightliness)
+	6. _n._ [courtesy](dic://courtesy), [good manners](dic://good manners), [principle](dic://principle)
+	7. **knights**骑兵，骑士;**knight**骑士，武士;**nobility**贵族;**heroism**英勇，英雄气概;**bravery**勇敢;**morality**道德;**morals**道德;**romance**浪漫史;**manners**礼貌;**patriotism**爱国主义;**medieval**中世纪的;
+	8. a quixotic act of chivalry /表现出空想的骑士精神的行动
+	9. their relations with women were models of chivalry and restraint. /他们与女性的关系是有礼有节的典范。
+	10. He was admired for his chivalry /他因他的骑士风度而受到景仰。
+	11. Mercifully, some vestiges of Mike's chivalry still survived; he came to stand beside me. /所幸迈克身上残余的骑士精神还在，他走过来站到了我旁边。
 3. cavalcade
-	1. _n._ [procession](dic://procession)
-	2. **procession**队伍, 行列;**parade**游行;**litany**冗长而枯燥的陈述;**slew**沼地;**plethora**过剩;**extravaganza**娱乐表演;**veritable**真正的，名副其实的;**spectacle**壮观的场面或景象;**assorted**混杂的;**flurry**一阵疾风;**mayhem**大混乱, 大破坏;
-4. cavalier
-5. caverlry
+	1. caval-马 + cade。原指马队，现指车队，特指有摩托车开道的车队。
+	2. 来自拉丁语 caballus,马。原指马队，现指车队，特指有摩托车开道的车队。
+	3. _n._ [procession](dic://procession)
+	4. **procession**队伍, 行列;**parade**游行;**litany**冗长而枯燥的陈述;**slew**沼地;**plethora**过剩;**extravaganza**娱乐表演;**veritable**真正的，名副其实的;**spectacle**壮观的场面或景象;**assorted**混杂的;**flurry**一阵疾风;**mayhem**大混乱, 大破坏;
+	5. These fun processions have their origins in the military cavalcades of ancient cities such as Sumeria and Rome. /这些有趣的游行起源于苏美尔和罗马等古城的军队庆祝活动。
+	6. The cavalcade of men and mules and machines came to a stop while the overseer studied our position. /当监工研究我们的位置时， 人、骡子和机器的行列停了下来。
+	7. The cavalcade, following the sweep of the drive, quickly turned the angle of the house, and I lost sight of it /队伍随着车道的扫过，迅速转过房子的角度，我就看不见它了。
+	8. Considering the cavalcade of disasters that  befell Europe after the fall of the Roman Empire, nothing could describe the Renaissance  better than a complete rebirth of Europe /考虑到罗马帝国灭亡后降临在欧洲的一连串灾难，没有什么比欧洲的完全重生更能描述文艺复兴了。
+	9. A general movement among the domestics, and a low sound of gentle voices, announced the approach of those whose presence alone was wanted to enable the cavalcade to move /佣人之间的普遍运动，以及柔和的低沉声音，宣布那些只需要在场就可以使行列移动的人的到来。
+4. cavalry
+	1. n. 骑兵；装甲兵；装甲部队
+	2. troops trained to fight on horseback
+		1. _synonymous：_ [horse cavalry](dic://horse cavalry), [horse](dic://horse)
+	3. _n._ [military personnel](dic://military personnel), [soldiery](dic://soldiery), [troops](dic://troops), [army unit](dic://army unit)
+	4. **infantry**步兵;**army**陆军，军队;**artillery**炮, 大炮;**regiment**把…编成团;**troops**部队;**battalion**营;**brigade**旅;**garrison**守备部队, 卫戍部队;**militia**义勇军;**soldiers**士兵;**knights**骑兵，骑士;
+	5. _[cavalry brigade](dic://cavalry%20brigade)_ 骑兵旅
+	6. _[cavalry horse](dic://cavalry%20horse)_ 骑兵马；骑兵用马
+	7. _[cavalry bone](dic://cavalry%20bone)_ 骑士骨
+	8. _[light cavalry](dic://light%20cavalry)_ 轻骑
+	9. _[black cavalry](dic://black%20cavalry)_ 黑马
+	10. _[cavalry carrier](dic://cavalry%20carrier)_ 装甲运输车
+	11. _[Shatuo cavalry](dic://Shatuo%20cavalry)_ 沙陀骑兵
+	12. A day. Less. We should send out cavalry to meet them. /一天或更短。我们应该即刻派骑兵过去。
+	13. Relax, hot shot. It's the cavalry. /放松 神枪手 是大部队。
+	14. We are not expecting the cavalry to come charging in. /我们没有期待骑兵来掌管。
+	15. cavalier
+		1. _n._ 对女人彬彬有礼的绅士,对女人献殷勤的男子
+		2. <古>骑士,骑手
+		3. <史>英内战时查理一世的支持者,保皇党成员
+		4. _adj._ 随便的,傲慢的,蔑视的,草率的
+		5. [chevalier](dic://chevalier)
+		6. [Royalist](dic://Royalist)
+		7.  [high-handed](dic://high-handed)
+		8. _n._ [male aristocrat](dic://male aristocrat), [monarchist](dic://monarchist), [royalist](dic://royalist)
+		9. _adj._ [domineering](dic://domineering)
+		10. _n._ [submissive](dic://submissive)
+		11. **dismissive**轻视的, 轻蔑的, 鄙视的;**careless**粗心的;**reckless**鲁莽的，不顾后果的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**regal**帝王的;**attitude**态度;**temperament**性格, 性情, 气质;**irresponsible**不负责任的;**brazen**黄铜制的;
+		12. Anne was irritated by his cavalier attitude. /安妮被他漫不经心的态度惹恼了。
+		13. a cavalier attitude toward the suffering of others /对于他人苦难的轻慢态度
+		14. And then he called his cavalie /接着，他叫来了武士。
+		15. I, uh, how can you be so cavalier about all this? /我 呃 你怎能如此无忧无虑？
+		16. I felt rather indignant at having two characters whom I had admired treated in this cavalier style. /我听到他把我所钦佩的两个人物说成这样一文不值，心中感到非常恼怒。
+
 
 
 ## ch
 ### chron- = time, 表示“时间”，来自希腊神语 khronickos。
-1. anachronic, 
+1. anachronic
 	1. anachronistic
 	2. anachronism, parachronism
 	3. anachronous
@@ -297,6 +478,7 @@
 6. chronometer, chronometry
 7. chronoscope, chronometric, microchronometer
 8. crony, cronism
+
 
 
 ## ci

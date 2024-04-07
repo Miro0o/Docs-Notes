@@ -59,7 +59,7 @@
 
 
 ## nd
-### + \*ndher- +
+### ⭐ + \*ndher- +
 1. **infra-** = "below, underneath, beneath; later than, smaller, inferior to," 表示“下，低”。源自拉丁语 infra "below."
 2. ==**under-** = beneath, below, underneath, 表示“在…下”。源自古英语 under "under."==
 	1. under
@@ -100,7 +100,7 @@
 
 
 ## ne
-### + \*ne- + = no, not
+### ⭐ + \*ne- + = no, not
 1. **an-** = 表示“不，无”。
 2. **im-, in-, il-, ir-** = 表示“无，没有（not,opposite）”，来自拉丁语 in-。在字母 b, m, p 前拼写同化为 im-；在字母l前拼写同化为 il-；在拼写r前拼写同化为 ir-。同时，该拉丁语前缀进入古法语大量拼写演变为 en-, 并由古法语进入英语，但是进入现代英语除了enemy, enmity 这两个词流传下来，其它都已废弃。源自拉丁语 in- "not."
 3. **neg-** = = deny, 表示“否认”，原始印欧语形式为 \*ne- (no, not)，和词根 un- 同源。源自拉丁语 negare "to deny," 及拉丁语前缀 neg- "not."
@@ -339,17 +339,152 @@
 			1. **innoxious substance**:  无害物质
 	4. nuisance
 		1. nu-=noc-伤害 + -i- + -ance, 表名词，用来指妨害行为，讨厌的人。
-		2. **annoyance**烦恼;**annoying**恼人的;**irritating**气人的, 使人不愉快的;**pests**害虫;**troublesome**令人烦恼的;**menace**威胁;**bothersome**引起麻烦的;**pest**害虫;**inconvenience**不便;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**obnoxious**可憎的;
-		3. [annoyance](dic://annoyance), [bother](dic://bother), [botheration](dic://botheration), [pain](dic://pain), [infliction](dic://infliction), [pain in the neck](dic://pain in the neck), [pain in the ass](dic://pain in the ass)
-		4. _public nuisance_ n. 妨害公众安宁；妨害公众利益的人或事物
-		5. _noise nuisance_ 噪声危害
-		6. Don't make yourself a nuisance to others /不要做一个令人讨厌的人。
-		7. I was a nuisance, an incumbrance, and a pest. /我是一个讨厌的东西，一个累赘，和一个祸害。
-		8. abate the smoke nuisance in big cities /消除大城市中讨厌的煤烟
+		2. n. 麻烦事，讨厌的人（或事物、情况）；损害，妨害；骚扰行为，妨害行为
+		3. **annoyance**烦恼;**annoying**恼人的;**irritating**气人的, 使人不愉快的;**pests**害虫;**troublesome**令人烦恼的;**menace**威胁;**bothersome**引起麻烦的;**pest**害虫;**inconvenience**不便;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**obnoxious**可憎的;
+		4. [annoyance](dic://annoyance), [bother](dic://bother), [botheration](dic://botheration), [pain](dic://pain), [infliction](dic://infliction), [pain in the neck](dic://pain in the neck), [pain in the ass](dic://pain in the ass)
+		5. _public nuisance_ n. 妨害公众安宁；妨害公众利益的人或事物
+		6. _noise nuisance_ 噪声危害
+		7. Don't make yourself a nuisance to others /不要做一个令人讨厌的人。
+		8. I was a nuisance, an incumbrance, and a pest. /我是一个讨厌的东西，一个累赘，和一个祸害。
+		9. abate the smoke nuisance in big cities /消除大城市中讨厌的煤烟
+		10. computers can be a blinking nuisance to operators. /对操作者来说，电脑可以是烦人的累赘。
+		11. What a nuisance! I've forgotten my ticket /真讨厌，我忘记带票了。
+		12. Having to stand in line was a nuisance. The disruptive child was a nuisance to the class. /不得不排队真讨厌。这个捣蛋的学生令全班人讨厌
+		13. You're a nuisance sometimes, but we love you just the same. /你有时令人讨厌, 但我们仍然爱你。
+		14. The drunk was making a nuisance of himself and so the manager threw him out on his ear. /那醉汉自己招人讨厌, 因此经理不客气地把他打发走了。
+		15. Like any other pollution, it's a nuisance to society. /和其他任何一种污染一样，它对社会有害。
+		16. They are basically a nuisance – they just get in the way. /硬币太碍事了。
 	5. pernicious
 		1. per-完全的 + nic-毒 + -ious形容词后缀 → 有毒的。
 		2. **insidious**隐伏的;**deleterious**有害的;**harmful**能造成损害的;**destructive**破坏性的, 毁灭性的;**pervasive**普遍的;**vile**卑鄙的;**noxious**有害的;**perverse**任性的,固执的;**debilitating**使衰弱的;**nefarious**极坏的;**virulent**剧毒的;
 		3. This week we're digging into a related issue, which is in fact the most pernicious problem that perpetually plagues pupils - procrastination.
+
+
+### + \*nekwt- +
+1. **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
+	1. denigrate
+		1. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at), [charge](dic://charge), [accuse](dic://accuse)
+		2. **discredit**败坏…的名声;**criticize**评论, 批评;**undermine**在某物下挖洞或挖通道;**criticise**批评;**disparaging**轻蔑的;**condemn**判刑，定罪;**denounce**谴责;**accuse**控告，指控;**humiliate**蒙羞;**embarrass**使窘迫;**ridicule**嘲笑;
+	2. negro
+		4. [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negroid](dic://Negroid)
+		5. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [person of color](dic://person of color)
+		6. _adj._ [black](dic://black)
+		7. _n._ [white](dic://white)
+		8. **Negroes**黑人;**African**非洲的，非洲人的;**Hispanic**西班牙的;**American**美国人;**Harlem**黑人住宅区;**whites**白带;**Cuban**古巴人;**NAACP**全国有色人种协进会;**Creole**克里奥尔人;**Latinos**拉丁美洲人;**Klan**三K党;
+	3. nigrescence
+		1. n. 变黑；（眼睛、头发、皮肤等的）黑色
+		2. nigrescent
+	3. nigrify
+		1. vt. 使……成黑色；变黑
+		2. [blacken](dic://blacken), [melanize](dic://melanize), [melanise](dic://melanise), [black](dic://black)
+		3. _v._ [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color)
+		4. 
+	5. nigritude
+		1. - n. 黑；漆黑；邪恶
+	6. negress
+		1. _n._ [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negro](dic://Negro), [Negroid](dic://Negroid)
+		2. **Negro**黑人;**Negroes**黑人;**woman**女性;**Slaves**斯拉夫人;**lady**女士，夫人;**Creole**克里奥尔人;
+	7. Negrillo
+	8. Negrito
+		1. n. 矮小黑人
+	4. negrofy
+	5. negrohead
+		1. n. 块状粗劣橡胶；黑色压缩烟砖
+	6. Negroid
+	7. negrophilism
+	8. negrophobe
+	9. nigger
+		1.  [nigga](dic://nigga), [spade](dic://spade), [coon](dic://coon), [jigaboo](dic://jigaboo), [nigra](dic://nigra)
+		2. _n._ [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negro](dic://Negro), [Negroid](dic://Negroid)
+		3. **racist**种族主义者;**Negroes**黑人;**bigot**偏执的人;**slur**诽谤;**bitch**母狗，母狼;**redneck**红脖子;**thug**暴徒;**Negro**黑人;**racism**种族主义，种族歧视;**whore**卖淫，娼妓;**derogatory**不敬的;
+		4. a nigger in the fence /<美俚>暗藏的动机, 不可告人的目的
+		5. Cap'n, I'm real sorry they picked you to defend that nigger that raped my Mayella. /先生，真抱歉他们选了你给那个强奸我家梅耶拉的黑鬼辩护。
+		6. niggerhead
+		7. nigger-lover
+		8. nigger-driver
+		9. nigger-brown
+2. **noct-** = night, 表示“夜晚”。源自拉丁语 nox (词干 noct-) "night," noctua "night owl."
+	1. equinoctial
+	2. noctalpia
+	3. noctambulate
+	4. pernoctation
+	5. noctambulism
+	6. noctiflorous
+	7. noctiluca
+	8. noctilucence
+	9. noctilucent
+	10. noctivagant
+	11. nocturia
+	12. nocturn
+		1. _[nocturn](dic://nocturn)_  n. （天主教）夜祷
+		2. In this article, I trace back the history of **nocturn** and make analysis to his OP. 9, then discuss how Chopin succefully inherited from tradition while carrying forward this style at the same time. /本文通过对肖邦夜曲的追溯和肖邦夜曲OP.9的一组作品的分析，来探讨肖邦在继承传统的同时如何将夜曲这一体裁发扬光大
+	13. nocturne
+		1. n. 夜曲；夜景；夜景画
+		2. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
+		3. **concerto**协奏曲;**Chopin**肖邦;**symphony**交响乐;**waltz**跳华尔兹舞;**piano**钢琴;**orchestral**管弦乐队的;**chromatic**有颜色的,颜色鲜艳的;**moonlight**月光;**symphonic**交响乐的;**Liszt**李斯特;**melody**旋律; 
+		4. Additionally, this song also includes the rhythms of Mazurka, Nocturnes, and Barcarole.As for tempo rubato, the prelude and postlude are both very dramatized /除此之外，此曲亦可见马厝卡、夜曲、船歌的节奏，弹性速度方面，导奏及尾奏皆富于戏剧化。
+		5. Go back and give me the nocturne over again. /回去把夜曲给我重一遍。
+	14. nocturnal
+		1. adj. 在夜间的；（指生物）夜间活动的
+		2. nocturnally
+		3. nocturnality
+	15. equinox
+		1. _n._ [cosmic time](dic://cosmic time), [celestial point](dic://celestial point)
+		2. **solstice**至;**eclipse**日或月食;**springtime**春季，春天;**sunrise**日出;**moon**月亮;**equator**赤道;**meridian**子午线的;**autumn**秋天;**spring**春天;**Passover**逾越节;**sun**太阳;
+		3. _autumnal equinox_ 秋分
+		4. _vernal equinox_ n. 春分；春分点（约在3月20日）
+		5. _spring equinox_ n. 春分
+		6. It's the second equinox of the year. /这是一年中的第二个昼夜平分点。
+		7. Where does the word equinox come from? /“equinox”（昼夜平分）这个词从何而来？
+		8. This year's equinox was on September 22nd /今年的秋分是9月22日。
+		9. The word equinox comes from two Latin words that mean 'equal' and 'night'. /“Equinox”这个词来源于两个拉丁词语，意思分别是“相等”和“夜晚”。
+	16. noctuid
+		1. n. 夜蛾 
+		2. adj. 夜蛾（科）的
+		3. [noctuid moth](dic://noctuid moth), [owlet moth](dic://owlet moth)
+		4. _n._ [moth](dic://moth)
+		5. **moth**蛾;**larvae**幼虫;**larval**幼虫状态的;**insect**昆虫;**beetles**甲壳虫，甲虫;**genera**种;**genus**类，种;**beetle**甲虫;**insects**昆虫;
+	18. noctule
+		1. n. （欧洲，印尼及菲律宾等地的）褐色大蝙蝠
+3. night
+
+
+### + \*nepot- +
+1. **nepot-** 表示“裙带关系”，来自拉丁语，原意表示“孙子，孙女”。源自拉丁语 nepos "grandson, nephew;" neptis "granddaughter, niece."
+	1. nepotic
+		1. a. 裙带关系的, 袒护亲戚的, 起用亲戚的
+	2. nepotism
+		1. _n._ [discrimination](dic://discrimination), [favoritism](dic://favoritism), [favouritism](dic://favouritism)
+		2. **corruption**堕落;**bribery**贿赂;**mismanagement**办错,管理不善;**incompetence**无能力;**dishonesty**不诚实的行为;**patronage**赞助;**hypocrisy**伪善;**jealousy**嫉妒;**rampant**猖獗的;**hereditary**遗传的;**bureaucracy**政府机构;
+		3. He has an incurable and widespread nepotism. /他们有不可救药的，到处蔓延的裙带主义。
+		4. So, it was a little bit of nepotism. /所以有点裙带关系。
+		5. It's found numerous problems such as nepotism and embezzlement connected to Three Gorges Dam projects. /此前的报告发现，三峡大坝工程存在裙带关系行为和挪用公款等问题。
+		6. Unfortunately, JQA's posting abroad triggered cries of nepotism among Jefferson supporters. /不幸的是，他儿子派驻海外引发了杰斐逊支持者的裙带关系的指责。
+		7. There's no nepotism or inside a trading. /没有裙带关系或交易内部。
+		8. His recent expose accused Becciu of nepotism, including steering church funds for charity to an NGO run by his brother. /他最近曝光的信息指控贝丘任人唯亲，包括把教会的慈善基金捐给他哥哥经营的一个非政府组织。
+	3. nepotist
+		1. n. 任人惟亲者
+		2. _n._ [important person](dic://important person), [influential person](dic://influential person), [personage](dic://personage)
+		3. **dictator**独裁者;**elitist**优秀人材;**corrupt**腐败的，贪污的;**self-serving**自私的,自私自利的;**fascist**法西斯主义者;**bastard**私生的;**tyrant**暴君;**incompetent**无能力的;**authoritarian**权力主义的,专制的;**hypocritical**伪善的;**cabal**阴谋;
+2. nephew
+	1. nepotism（裙带关系）：教会高官起用自己的私生子  
+	2. 中世纪期间，和世俗社会一样，基督教会中也存在严重的腐败问题。一些教会高官生活腐化，不仅贪污腐败，还蓄养情妇。生下私生子后，往往对外宣称是自己的nephew（侄子或外甥）。这些人往往会想方设法把所谓的nephew安排到教会的肥差或重要位置上。人们对此现象十分反感，在拉丁语将其称为nepotismo，其中nepo就是nephew的意思。英语单词nepotism就来源于此，用来表示“裙带关系”。
+	3. nepotism：['nepətɪz(ə)m] n.裙带关系，起用亲戚，任人唯亲  
+	4. nephew：['nɛfju] n.侄子，外甥
+	5. great-nephew
+	6. grandnephew
+3. niece
+	1. 来自古法语 niece,侄女，孙女，来自 niepce,来自拉丁语 neptia,孙女，-a,表阴性，词源同 nephew.后仅用于指侄女，外甥女
+	2. _n._ [kinswoman](dic://kinswoman)
+	3. _n._ [nephew](dic://nephew)
+	4. **granddaughter**孙女;**daughter**女儿;**nephew**侄子;**sister-in-law**夫或妻的姊妹;**aunt**伯母;**sister**姐妹;**cousin**堂兄弟姊妹;**daughter-in-law**儿媳妇;**grandson**孙子;**son**儿子;**brother-in-law**内兄;
+	5. My niece was left in my trust for the weekend. /我受托周末照顾我的外甥女。
+	6. fond of ballet; fond of my nieces and nephews. /喜欢芭蕾舞；喜爱我的外甥与外甥女
+	7. She is a niece of Emperor Naruhito. /她是德仁天皇的侄女。
+	8. 'Like, the chief of surgery's niece' /外科主任的小侄女。
+	9. grandniece
+		1. _n._ [niece](dic://niece)
+		2. **granddaughter**孙女;**niece**外甥女，侄女;**grandson**孙子;**daughter**女儿;**nephew**侄子;**aunt**伯母;**sister-in-law**夫或妻的姊妹;**daughter-in-law**儿媳妇;**cousin**堂兄弟姊妹;**grandmother**祖母;**sister**姐妹;
 
 
 ### + \*nes- +
@@ -474,7 +609,7 @@
 		9. circumnutate
 
 
-### + \*newo- +
+### ⭐ + \*newo- +
 1. **neo-**  new, 表示“新的”。源自希腊语 newos, neos "new."
 	1. neonatal
 	2. etc....

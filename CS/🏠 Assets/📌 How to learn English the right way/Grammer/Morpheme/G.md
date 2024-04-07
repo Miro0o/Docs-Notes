@@ -1221,8 +1221,8 @@
 
 
 
-### ⭐ + \*ghel- +
-#### + \*ghel- (2) + = to shine, yellow, green
+### + \*ghel- +
+#### ⭐ + \*ghel- (2) + = to shine, yellow, green
 1. **arsen-** 表示“砷”。
 2. **chlor-** = green, 表示“绿”。用在化学领域表示"氯"源自希腊语 khloros "green, greenish yellow;" khloos "greenish color."
 3. **chol-, chole-, cholo-** = bile, 表示“胆，胆汁”。古希腊人认为霍乱与黑胆汁过多有关，所以也表示“霍乱”。源自希腊语 khole "bile."
@@ -1244,7 +1244,6 @@
 	2. melancholy
 		1. melancholia
 		2. melancholic
-	3. 
 	4. etc..
 4. **cholang-** = bile vessel, 表示“胆管”，chol- + ang-组成。= bile vessel, 表示“胆管”，chol- + ang-组成。
 5. **choledoch-** = bile duct, 表示“胆总管”，第二部分doch- "to take, receive" 同源。
@@ -2096,7 +2095,8 @@
 	10. metencephalic
 3. gable
 
-### + \*gheu- + = to pour
+
+### ⭐ + \*gheu- + = to pour
 1. **choan-** = funnel, 表示“漏斗”。源自希腊语 khoane "funnel."
 	1. etc..
 2. **chy-, chym-, chyl-** = juice, 表示“汁，体液”。医学上 chyl-, chylo- 表示“乳糜”。源自希腊语 khumos "juice," khulos "juice."
@@ -3456,7 +3456,7 @@
 	18. gangrenopsis
 
 
-### + \*gre-no- + = grain
+### ⭐ + \*gre-no- + = grain
 1. **corn-** = grain, 「Old English」corn, "grain"
 	1. cron
 		1. broomcron, barleycorn
@@ -4170,7 +4170,9 @@
 	3. 在古代，为了区分牲畜，牧场主往往会用烙铁在牲畜身上打上烙印。因此，单词brand在这种场景下衍生出火印、烙印的意思。而动物身上的烙印就是最早的品牌了，所以后来人们在表示商品的品牌时，依然沿用brand一词。  
 	4. brand：[brænd] n.品牌，商标，烙印vt.给……打烙印，印商标于……，铭刻于  
 	5. brand-new： ['brænd'nju] adj.崭新的，新鲜出炉的
-	6. 
+	6. off brand
+		1. 非品牌产品：指不属于知名品牌的产品，通常价格较低，质量和口碑也相对较差。
+		2. They're not Cheetos either, that's this off brand, my mom found them, shout out to my mom, she found them, and they go crazy /他们也不是奇多， 那是假牌子， 我妈妈找到了他们，对我妈妈大喊， 她找到了，他们疯了。
 4. brandy
 	1. brandy（白兰地）：葡萄酒蒸馏浓缩后制成的烧酒  
 	2. 13世纪那些到法国沿海运盐的荷兰船只将法国干邑地区盛产的葡萄酒运至北海沿岸国家，这些葡萄酒深受欢迎。约在16世纪中叶，为便于葡萄酒的出口，减少海运的船舱占用空间，同时也为避免因长途运输发生的葡萄酒变质现象，干邑地区的酒商把葡萄酒加以蒸馏浓缩后出口，然后输入国的厂家再按比例兑水稀释出售。这种把葡萄酒加以蒸馏后制成的酒即为早期的法国白兰地。当时，荷兰人称这种酒为“brandewijn”，在英语中拼写为brandywine，字面意思是“烧过的葡萄酒”（Burnt Wine）。英语单词brandy就是brandywine的缩写。  
@@ -4183,10 +4185,10 @@
 	4. his father was preaching fire and brimstone sermons. /他父亲在作有关地狱磨难的说教。
 	5. Fire and brimstone, it's hailing! Conseil said. And poisoned hail perhaps! /真怪! 下雹子了! 康塞尔说，可能是有毒的雹子呢!
 	6. Sulphur is the proper name of the yellow powder called brimstone. /有一种黄色粉末，传统上叫做“硫磺”，它的正式名称叫“硫”。
-7. brindle
+6. brindle
 	1. n. 斑, 斑纹
-8. burn
-9. furnace
+7. burn
+8. furnace
 	1. 1 - 来自拉丁语 fornax,炉子，烤炉，来自 PIE*gwher,热，暖和，词源同 warm,thermal,burn.
 	3. n. 火炉, 熔炉, 考验  vt. 在炉中烧
 	4. _n._ [chamber](dic://chamber)
@@ -4200,7 +4202,7 @@
 	12. the furnace of the sun; an attic room that is a furnace in the summer /阳光下的闷热地带；在夏天象火炉一样的阁楼
 	13. discovered straight off that the furnace wasn't working. /立刻发现炉子出了毛病
 	14. The furnace is stuck on high, Jack /暖气炉还卡在高温了，杰克。
-10. warm
+9. warm
 
 
 ### +\*gwn- +

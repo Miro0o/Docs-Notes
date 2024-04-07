@@ -1041,3 +1041,4 @@ sarcomas
 ### -ous,-itious,-eous,-ious,-uous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
 1. adventitious
 	1. advent【来到】 + -itious形容词后缀 → [突然]来到的 → 偶然的。
+2. etc..

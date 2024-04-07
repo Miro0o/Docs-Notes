@@ -220,23 +220,158 @@
 
 ### + \*fin- + = = end, boundary, 表示“结束，范围，限制”，来自拉丁语 finis "boundary, end"。
 1. affine
-2. affinity
-	1. affinal
-3. confine
-4. define
-5. final
-6. finance
-7. fine
+	1. adj. （数）仿射的 
+	2. n. 姻亲
+	3.  [affinal](dic://affinal)
+	4. _n._ [kin](dic://kin), [kinsperson](dic://kinsperson), [family](dic://family)
+	5. _adj._ [affine transformation](dic://affine transformation), [related](dic://related)
+	6. _n._ [unrelated](dic://unrelated)
+	7. **algebraic**代数的;**topological**拓扑的;**invariant**无变化的,不变的;**tensor**张量;**quadratic**二次的;**orthogonal**直角的,直交的;**polynomial**多项式;**convex**凸面的;**topology**拓扑学;**symmetric**相称性的,均衡的;**inverse**倒转;
+	8. _affine transformation_ 仿射变换
+	9. _affine space_ 仿射空间
+	10. We like to call these operations affine transformations. /我们喜欢称这些操作为仿射变换。
+	11. So the fully scientific description would be that we add a regularization term that stipulates, that these colors only undergo affine transformations. /所以完全科学的描述就是，我们在公式中添加一个正则项，规定这些颜色只能进行仿射变换。
+	13. histaffine
+	14. equiaffine
+	15. affined
+3. affinity
+	1. [chemical attraction](dic://chemical attraction)
+	2.  [phylogenetic relation](dic://phylogenetic relation)
+	3.  [kinship](dic://kinship)
+	4. _n._ [force](dic://force), [attraction](dic://attraction), [attractive force](dic://attractive force), [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship), [relation](dic://relation)
+	5. _n._ [consanguinity](dic://consanguinity), [blood kinship](dic://blood kinship), [cognation](dic://cognation)
+	6. **fondness**溺爱;**kinship**亲属关系，家属关系;**similarity**类似, 相似;**penchant**嗜好;**propensity**倾向;**specificity**特性;**familiarity**熟悉，精通;**closeness**接近;**innate**先天的;**selectivity**选择性;**interest**兴趣，爱好;
+	7. _affinity chromatography_ 亲和色谱法
+	8. _electron affinity_ 电子亲合性
+	9. negative electron affinity photoemitter /负电子亲合力光电发射体
+	10. a dye with an affinity for synthetic fabrics. /对合成纤维具有亲和力的染液。
+	11. he had a special affinity with horses. /他对马有天生的喜爱。
+	12. She feels a strong affinity for him. /她对他很有吸引力。
+	13. He has a natural affinity with numbers. /他天生就喜欢数字。
+	14. Many girls do show an affinity for craft skills. /确实有许多女孩子喜爱手工。
+	15. affinal
+	16. electroaffinity
+5. confine
+	1.  [limit](dic://limit), [circumscribe](dic://circumscribe)
+	2. [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [throttle](dic://throttle)
+	3.  [enclose](dic://enclose), [hold in](dic://hold in)
+	4. [detain](dic://detain)
+	5. [restrain](dic://restrain), [hold](dic://hold)
+	6. _v._ [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain)
+	7. _n._ [free](dic://free), [liberate](dic://liberate), [release](dic://release), [unloose](dic://unloose), [unloosen](dic://unloosen), [loose](dic://loose)
+	8. [confine](dic://confine) 指监禁或幽禁；也指任何使行动受到限制的行为。  
+	9. [imprison](dic://imprison) 较正式用词，多指较长时间的监禁。  
+	10. [jail](dic://jail) (英国用gaol)多指审判之间的拘禁或对罪行较轻的罪犯的监禁
+	11. **restrict**限制;**restrain**抑制，控制;**constrain**强迫, 强使;**allow**允许;**preclude**妨碍;**exclude**排除;**curtail**截断, 缩短;**enclose**围绕;**occupy**占据，占领;**displace**取代;**devote**奉献;
+	12. within the confines of one county. /在一国的国境内
+	13. beyond the confines of human knowledge /超出人类知识的范围
+	14. I shall confine myself to the subject of geography. /我将专攻地理学。
+	15. He is confined to the house by illness. /他因病而闭门不出。
+	16. you've confined yourself to what you know. /你只局限于你知道的事。
+	17. the hermetic confines of an isolated life. /与世隔绝生活的不受外界干扰的区域
+	18. unconfined
+	19. nonconfinement
+	20. confines
+	21. confinement
+	22. confined
+7. define
+	1. well-defined
+	2. user-defined
+	3. undefined
+	4. redefine
+	5. predefine
+	6. multidefined
+	7. ill-defined
+	8. ill-define
+	9. definite
+	10. defining
+	11. definable
+	12. definability
+8. final
+	1. semifinal
+	2. quarterfinal
+	3. finally
+	4. finalize
+	5. finality
+	6. finalist
+	7. finalise
+	8. finalin
+	9. finale
+9. finance
+	1. refinancing
+	2. refinance
+	3. financing
+	4. financier
+	5. financial
+	6. finances
+10. fine
 	1. finery
 		1. _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress)
 		2. **garb**装束;**attire**服装;**splendor**光彩;**dressed**穿好衣服的;**opulent**富裕的;**decked**装了甲板的;**costumes**服装;**dress**给…穿衣;**trappings**服饰;**jewels**珠宝;**robes**礼服;
-8. finial
-9. finis
-10. finish
-11. finite
-	1. infinite
-	2. transfinite
-12. refine
+	2. ultrafining
+	3. thermofiner
+	4. superfine
+	5. pentafining
+	6. hyperfie
+	7. hydrofining
+	8. hydrafiner
+	9. fining
+	10. finick
+	11. finical
+	12. finesse
+	13. finespun
+	14. fineness
+	15. finely
+	16. finecomb
+	17. fine-tooth-comb
+	18. fine-looking
+	19. fine-grained
+	20. fine-drawn
+	21. fine-cut
+	22. finable
+	23. extrafine
+	24. centrifiner
+11. finial
+12. finis
+13. finish
+	1. unfinished
+	2. superfinishing
+	3. superfinish
+	4. semifinished
+	5. prefinish
+	6. hydrofinishing
+	7. hydrofinish
+	8. finisher
+	9. finished
+	10. finishabilitys
+14. finite
+	1. non-finite
+	2. finiteness
+	3. infinite
+		1. semiinfinite
+		2. infinity
+		3. infinitude
+		4. ionfinitive
+		5. infinitival
+		6. infinitesimal
+		7. infiniteness
+		8. infinitely
+	4. transfinite
+15. refine
+	1. unrefined
+	2. refinish
+	3. refining
+		1. prerefining
+		2. overrefining
+		3. hydrorefining
+		4. electrorefining
+	4. refinery
+		1. suger-refinery
+	5. refiner
+	6. refinement
+	7. refined
+	8. overrefine
+	9. electrorefine
 
 
 

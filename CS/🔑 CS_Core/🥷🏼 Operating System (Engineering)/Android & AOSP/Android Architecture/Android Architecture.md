@@ -1,7 +1,0 @@
-# Android Architecture
-
-[TOC]
-
-
-
-#TODO 
