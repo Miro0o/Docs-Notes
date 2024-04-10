@@ -970,23 +970,23 @@
 	7. chief
 		1. 来自词根cap- , 头，词源同captain , chef
 		2. chief - achieve似乎是个简单的词，但其历史却相当复杂，说来有点令人难以置信。它源于拉丁文短语ad caput venire 'come to ahead'（出脓头，达到顶点）。古罗马人有时用此语来表示“死”。以后古法语借用了此语的前半部ad caput，并据此造了动词achever'finish'（完成）。该词进入英语之后，形式作achieve。在乔叟时代，甚而一直到了莎士比亚时代，achieve仍被用以表示“死”或“杀死”。莎翁在《亨利五世》（1599）一剧中就把achieve用于此义。亨利王对法国使臣蒙乔（Montjoy）说了这样一句话：“Bid them achieve me andthen sell my bones.”（叫他们先杀了我，然后再卖我的骨头。）（第4幕第3场）此义后来逐渐丧失，在现代英语中achieve通常表示“完成”、“实现”、“达到”等义。另有几个英语单词，如chief（首领，主要的），mischief（恶作剧）等，同achieve有亲缘关系，因为它们也源自拉丁语caput（头）
-		3. By the age of 30, he had already achieved fame and wealth /他在而立之年就已名利双收。
-		5. chiefton
-			1. chieftonship
-			2. chieftoncy
-		6. chieftain
+		3. By the age of 30, he had already achieved fame and wealth /他在而立之年就已名利双收。
+		4. chiefton
+			2. chieftonship
+			3. chieftoncy
+		5. chieftain
 			1. _[chieftain](dic://chieftain)_  n. 酋长；首领
 			2. _n._ [leader](dic://leader)
 			3. **warlord**军阀;**tribe**部落;**clan**宗族;**warrior**战士，勇士;**nobleman**贵族;**tribal**部落的;**barbarian**野蛮人;**bandit**强盗;**tribes**部落;**clans**宗族;**king**国王;
 			4. chieftainship
 			5. chieftaincy
-		8. chiefship
-		9. chiefmate
+		6. chiefship
+		7. chiefmate
 			1. 大副
-		10. chiefly
-		11. chiefless
+		8. chiefly
+		9. chiefless
 			1. _[chiefless](dic://chiefless)_ 没有首领的
-		12. chiefdom
+		10. chiefdom
 	9. kerchief
 		1. a square scarf that is folded into a triangle and worn over the head or about the neck
 		2. _n._ [scarf](dic://scarf)
@@ -1067,29 +1067,34 @@
 			2. _[precipitin test](dic://precipitin%20test)_  [免疫] 沉淀素试验；沈淀素检验
 			3. **antibody**抗体;**antigen**抗原;**electrophoresis**电气泳动;**arc**弧;**antigens**抗原;**reagent**试剂;
 	14. cap
-		1. whitecap
+		1. cap off
+			1. 完成，结束：指以某种方式结束或完成某事。 
+			2. 加上顶盖，封顶：指在某物的顶部加上一个盖子或顶部结构。
+			3. So, that caps off another show. /所以，节目到这结束。
+			4. **Cap** **off** a day on the water with an early cocktail. /让我们先来杯鸡尾酒结束一天的水上活动吧。
+		3. whitecap
 			1. _n._ 白帽队队员,浪端的白泡沫
-		2. uncap
+		4. uncap
 			1. _[uncap](dic://uncap)_  vt. 脱掉帽子；打开盖; vi. 脱帽致意;
-		3. turncap
+		5. turncap
 			1. _[turncap](dic://turncap)_  n. 旋转帽；旋帽
-		4. snowcap
+		6. snowcap
 			1. a covering of snow (as on a mountain peak)
 			2. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover)
 			3. **glacier**冰河，冰川;**glaciers**冰河;**mountain**山脉;**snow**雪，积雪;**volcano**火山;**mountains**山，山地，山脉，高山;**snowfall**降雪;**snowflake**雪花,雪片;**tundra**苔原;**arctic**北极的;**alpine**阿尔卑斯山的，高山的;
-		5. skycap /redcap
+		7. skycap /redcap
 			1. n. 机场行李搬运工
 			2. _[baggage clerk redcap](dic://baggage%20clerk%20redcap)_ 行李搬运员
-		6. skullcap /scullcap
+		8. skullcap /scullcap
 			1. n. 并头草属的植物；无边便帽；头盖骨（考古学）
-		7. sidecap
+		9. sidecap
 			1. _[sidecap](dic://sidecap)_ 侧板帽
-		8. ridgecap
-		10. nightcap
-		11. mudcap
-		12. mobcap
+		10. ridgecap
+		11. nightcap
+		12. mudcap
+		13. mobcap
 			1. n. 室内头巾式女帽
-		13. madcap
+		14. madcap
 			1. a reckless impetuous irresponsible person
 				1.  [daredevil](dic://daredevil), [hothead](dic://hothead), [swashbuckler](dic://swashbuckler), [lunatic](dic://lunatic), [harum-scarum](dic://harum-scarum)
 			2. characterized by undue haste and lack of thought or deliberation
@@ -1100,7 +1105,7 @@
 			6. **wacky**乖僻的，古怪的;**manic**狂热的;**antics**滑稽动作;**frenetic**狂热的;**irreverent**不敬的;**mayhem**大混乱, 大破坏;**eccentric**古怪的, 怪癖的;**bizarre**奇异的;**raucous**沙哑的;**offbeat**离奇的;**mischievous**淘气的, 顽皮的;
 			7. a surreal, madcap novel /一部超现实的怪诞有趣小说。
 			8. madcap rail privatization plans /轻率的铁路私有化方案。
-		14. kneecap
+		15. kneecap
 			1. [patella](dic://patella), [kneepan](dic://kneepan)
 			2. _n._ [sesamoid bone](dic://sesamoid bone), [sesamoid](dic://sesamoid), [os sesamoideum](dic://os sesamoideum)
 			3. _v._ [shoot](dic://shoot), [hit](dic://hit), [pip](dic://pip)
@@ -1108,14 +1113,14 @@
 			5. _[kneecapping](dic://kneecapping)_  （恐怖分子）用枪击穿膝盖骨（或腿部）的报复行为（kneecap 的现在分词）
 			6. _[kneecap support](dic://kneecap%20support)_ 护膝
 			7. _[kneecap supporter](dic://kneecap%20supporter)_ 护膝
-		15. keycap
+		16. keycap
 			1. _[keycap](dic://keycap)_  n. 键帽
-		16. hubcap
+		17. hubcap
 			1. _n._ [cap](dic://cap)
 			2. **wheel**车轮;**fender**防卫物;**windshield**挡风玻璃;**wheels**旋转;**tire**疲劳;**truck**卡车;**axle**车轴;**headlight**的前灯;**vehicle**车辆;**grille**格子;**car**汽车;
 			3. _[hubcaps](dic://hubcaps)_  n. 轮毂；自以为了不起的人（hubcap的复数）
-		17. headcap
-		18. handicap, handicapped
+		18. headcap
+		19. handicap, handicapped
 			1. handicap（障碍）：赌博时设置赔率的方式  
 			2. 赌博是古今中外很多人都喜欢玩的游戏。赌博时需要解决的一种重要问题是保障公平性，使各方获胜的概率大致相同。例如，拿球赛进行赌博时，如果强弱分明，赌弱队赢的人就会吃亏，这时就需要调整两支球队的赔率，提高弱队的赔率，降低强队的赔率，这样才能实现公平，吸引人们参与赌博。那么，由谁来决定赔率呢？以前是由中立的第三方仲裁来决定赔率，决定的方式叫做hand in cap。参与赌博的双方都拿出一定的担保金，抓在手中。然后双方都把手放到帽子里。第三方仲裁宣布赔率后，参赌双方将手从帽子里拿出来。如果接受这个赔率则将手摊开，如果不接受赔率则以握拳表示。如果双方都接受赔率，则可以开始赌博，仲裁取走帽子里的担保金作为酬金。如果双方都不接受赔率，则赌博取消，仲裁也可取走帽子里的担保金，但自己的声望受损，以后就很难再被人邀请来充任仲裁了。如果一方接受另一方不接受，则赌博取消，接受赔率的一方取走帽子里的担保金，仲裁因为没能完成任务而空手而归。  
 			3. 英语单词handicap就来自hand in cap，指的是赌博或比赛时为了实现公平性而进行的各种调整和设置。除了设置赔率外，另外最常用的方式是给优势方设置障碍或不利条件，如在赛马比赛中，给优势赛马增加负重。因此，handicap又衍生出“障碍、不利条件”的含义。在现代英语中，常用handicapped代替disabled，用来委婉地表示“身体残疾的”，意思是你太优秀了，老天为了让其他人能与你公平竞争才给你设置了一些不利条件。  
@@ -1132,29 +1137,29 @@
 			11. _[handicapped](dic://handicapped)_  adj. 残废的；有生理缺陷的; n. 残疾人；缺陷者; 
 			12. _[physical handicap](dic://physical%20handicap)_  身体缺陷；生理缺陷
 			13. _[mental handicap](dic://mental%20handicap)_  心理缺陷；心智障碍
-		19. haircap
-		20. foolscap
-		21. flatcap
-		22. earcap
+		20. haircap
+		21. foolscap
+		22. flatcap
+		23. earcap
 			1. _[earcap](dic://earcap)_  n. 耳套
-		23. cocap
-		24. cloud-capped
-		25. chincap
-		26. capper
+		24. cocap
+		25. cloud-capped
+		26. chincap
+		27. capper
 			1. n. 封口机；帽商；制造器具的盖子的人；诱饵；装盖的人；托儿
 			2. The perfect capper to the perfect evening. So good night /一个完美的夜晚，一个完美的结束。那么晚安了。
 		28. capful
 			1. _n._ [containerful](dic://containerful)
 			2. **tablespoon**大汤匙,大调羹;**teaspoon**一茶匙的量;**quart**夸脱;**tsp**一茶匙的量;**rinse**冲洗掉;**tbsp**汤匙;**gallons**加仑;**gallon**加仑;**spoonful**一匙;**detergent**洗涤剂;**bleach**使漂白，使变白;
 		29. blackcap
-	15. cape
+	16. cape
 		1. **robe**长袍，礼服;**tunic**束腰外衣;**costume**服装，装束;**cloak**斗蓬;**cowl**蒙头斗篷;**jumpsuit**跳伞装;**cod**鳕鱼;**vest**背心;**gown**长袍，长外衣;**superhero**超级英雄;**jacket**夹克;
 		2. [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [cloak](dic://cloak)
 		3. [ness](dic://ness)
 		4.  [mantle](dic://mantle)
 		5. _n._ [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [cloak](dic://cloak)
 		6. **robe**长袍，礼服;**tunic**束腰外衣;**costume**服装，装束;**cloak**斗蓬;**cowl**蒙头斗篷;**jumpsuit**跳伞装;**cod**鳕鱼;**vest**背心;**gown**长袍，长外衣;**superhero**超级英雄;**jacket**夹克;
-	16. capital
+	17. capital
 		1. capit-头 + -al → 头的 → 首要的 → 首都。
 		2. capital（资本）：用来衡量资产多寡的牲畜头数  
 		3. 英语单词capital来自拉丁语capitale，而capitale是形容词capitalis（主要的、头的）的名词形式，原意为“头、首领”，还可以表示牲畜的“头数”。由于古代牲畜是很重要的财产，拥有多少头牲畜代表了拥有财富的多少，所以表示牲畜的“头数”的拉丁语capitale产生了“资本、财富”的含义。相应的，英语单词capital也含有“首都、省会、资本”等多种含义。  

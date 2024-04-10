@@ -4,8 +4,13 @@
 
 
 ## Res
+🏠 https://www.android.com
 🏠 https://source.android.com
 Android Open Source Project
+🏠 https://developer.android.com/studio/ 
+
+📂 https://developer.android.com
+Android for Developers
 
 📂 https://source.android.com/docs/setup/about
 📂 https://android-developers.googleblog.com
@@ -15,7 +20,7 @@ Android Open Source Project
 
 ### Related Topics
 ↗ [Google](../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Google.md)
-↗ [Android Runtime (ART) and Dalvik](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Process%20Level%20Virtualization/Android%20Runtime%20(ART)%20and%20Dalvik/Android%20Runtime%20(ART)%20and%20Dalvik.md)
+↗ [Android Runtime (ART) and Dalvik](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Android%20Runtime%20(ART)%20and%20Dalvik/Android%20Runtime%20(ART)%20and%20Dalvik.md)
 
 
 

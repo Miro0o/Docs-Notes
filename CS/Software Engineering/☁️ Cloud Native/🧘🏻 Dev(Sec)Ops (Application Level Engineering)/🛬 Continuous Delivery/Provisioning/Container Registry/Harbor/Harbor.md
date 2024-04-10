@@ -1,7 +1,13 @@
-# [VM Harbor](https://goharbor.io)
+# Harbor
 
 [TOC]
 
+
+
+## Res
+🏠 https://goharbor.io
+
+📂 [Harbor 2.6 Documentation](https://goharbor.io/docs/2.6.0/)
 
 
 > VM Harbor 🆚 Docker's [Registry](https://docs.docker.com/registry/introduction/) :
@@ -16,19 +22,11 @@ Harbor is an **open source registry** that secures artifacts with policies and r
 
 
 
-## 🧑🏿‍🦯 Guides
-### 💎 Res
-
-📂 [Harbor 2.6 Documentation](https://goharbor.io/docs/2.6.0/)
-
-
-
+## Intro
 ### 🌈 Set up
 #### Installation
 
 > 📂 [Harbor Installation and Configuration](https://goharbor.io/docs/2.5.0/install-config/)
-
-
 
 1. Make sure that your target host meets the [Harbor Installation Prerequisites](https://goharbor.io/docs/2.5.0/install-config/installation-prereqs/).
 2. [Download the Harbor Installer](https://goharbor.io/docs/2.5.0/install-config/download-installer/)
@@ -36,11 +34,7 @@ Harbor is an **open source registry** that secures artifacts with policies and r
 4. [Configure the Harbor YML File](https://goharbor.io/docs/2.5.0/install-config/configure-yml-file/)
 5. [Configure Enabling Internal TLS](https://goharbor.io/docs/2.5.0/install-config/configure-internal-tls/)
 6. [Run the Installer Script](https://goharbor.io/docs/2.5.0/install-config/run-installer-script/) (run `./install.sh`)
-
-
-
 #### Configuration
-
 > 📂 [Configure the Harbor YAML File](https://goharbor.io/docs/1.10/install-config/configure-yml-file/)
 
 1. Modify hostname. (localhost/ 127.0.0.1 is banned. Harbor runs on a different host from client.)
@@ -67,24 +61,15 @@ Harbor is an **open source registry** that secures artifacts with policies and r
 >
 > By default Harbor uses local storage for the registry, but you can optionally configure the `storage_service` setting so that Harbor uses external storage. For information about how to configure the storage backend of a registry for different storage providers, see the [Registry Configuration Reference](https://docs.docker.com/registry/configuration/#storage) in the Docker documentation. 
 
-
-
 Everytime `Harbor.yml` file modified, run `./prepare` . 
 
 ‼️MAKE SURE that lima has write access to the Harbor's location.  👀 See Troubleshootings: Attempting to mount a writable directory under a read-only directory doesn't work#873 for further info. 
-
-
-
 #### Lifecycle Management
-
 > 📂 [Reconfigure Harbor and Manage the Harbor Lifecycle](https://goharbor.io/docs/2.2.0/install-config/reconfigure-manage-lifecycle/)
 
 You use `docker-compose` to manage the lifecycle of Harbor. This topic provides some useful commands. You must run the commands in the directory in which `docker-compose.yml` is located.
 
 See the [Docker Compose command-line reference](https://docs.docker.com/compose/reference/)for more information about `docker-compose`.
-
-
-
 #### Https Access
 
 > 📂 [Configure HTTPS Access to Harbor](https://goharbor.io/docs/2.5.0/install-config/configure-https/) 
@@ -92,27 +77,22 @@ See the [Docker Compose command-line reference](https://docs.docker.com/compose/
 >  👍 [IP地址自签名证书](https://www.cnblogs.com/dirigent/p/15246731.html) 
 
 1. Have a self-certificated CA
-
    1. Generate a CA certificate private key. `ca.key`
    2. Use private key to generate CA certificate. `ca.crt`
 
 2. Have a CA certificated public-private key pair for host server. 
-
    1. Generate a private key for server. `harbor.key`
    2. Generate a certificate signing request(CSR) by this private key. `harbor.csr`
    3. Use private key + CSR + v3 extension file under specified configuration fule to generate a public key. `harbor.crt`
 
 3. Assign Certificate to Harbor and Docker
-
    1. Harbor: `/data/cert/`
    2. Docker: `~/.docker/certs.d/ip[:port]`
 
 4. Configure Harbor for https service
-
    1. `harbor.yml`
 
 5. Reload Docker service & Harbor service
-
    1. Docker:
       1. `sudo launchctl restart docker` (macOS)
       2. `sudo systemctl restart docker` (Ubuntu)
@@ -122,14 +102,11 @@ See the [Docker Compose command-line reference](https://docs.docker.com/compose/
       3. `sudo docker compose up -d`
 
 6. Trust Certificate on a OS level (optional, for harbor host)
-
    1. `cat intermediate-certificate.pem >> yourdomain.com.crt`
-
    2. ```shell
       cp yourdomain.com.crt /usr/local/share/ca-certificates/yourdomain.com.crt 
       update-ca-certificates
       ```
-
 
 
 ```shell
@@ -145,9 +122,6 @@ openssl req -new -days 208 -key server.key -out server.csr -config openssl.cnf
 openssl x509 -days 208 -req -sha256 -extfile v3.ext -CA ca.crt -CAkey ca.key -CAcreateserial -in server.csr -out server.crt
 
 ```
-
-
-
 ##### Other Explanations...
 👍 **[数字签名与HTTPS详解](https://www.cnblogs.com/rinack/p/10743355.html)** (真的很详细)
 
@@ -157,17 +131,13 @@ openssl x509 -days 208 -req -sha256 -extfile v3.ext -CA ca.crt -CAkey ca.key -CA
 
 3、服务器获取到这个已经含有数字签名并带有公钥的证书，将该证书发送给客户端。当客户端收到该公钥数字证书后，会验证其有效性。大部分客户端都会预装CA机构的公钥，也就是CA公钥。客户端使用CA公钥对数字证书上的签名进行验证，这个验证的过程就是使用CA公钥对CA私钥加密的内容进行解密，将解密后的内容与服务端的Public Key所生成的Hash值进行匹配，如果匹配成功，则说明该证书就是相应的服务端发过来的。否则就是非法证书。
 
-
-
 **[How to create a https server on localhost](https://stackoverflow.com/questions/43677457/how-to-create-a-https-server-on-localhost)** 
 
 You need to do two things: 
-
 - generate a self-signed SSL certificate and 
 - add it to the trusted certificates
 
 Managed to do this on a macOS like so:
-
 - In order to **generate the SSL certificate**, run the follosing command in a terminal (according to the [instructions from Let's Encrypt](https://letsencrypt.org/docs/certificates-for-localhost/)):
 
 ```shell
@@ -182,12 +152,8 @@ openssl req -x509 -out localhost.crt -keyout localhost.key \
 ```shell
 sudo security add-trusted-cert -d -r trustRoot -k "/Library/Keychains/System.keychain" "/private/tmp/certs/certname.cer"
 ```
-
-
 #### Now you are ready to enjoy VM Harbor !
 Pertaining VM Harbor usages go to [Harbor 2.6 Documentation](https://goharbor.io/docs/2.6.0/).
-
-
 #### 🔗 Refs
 [Harbor： Harbor卸载安装及基本使用教程]:https://blog.csdn.net/qq_42428264/article/details/120641414
 [failed to login harbor dashboard #13630]:https://github.com/goharbor/harbor/issues/13630
@@ -196,7 +162,4 @@ Pertaining VM Harbor usages go to [Harbor 2.6 Documentation](https://goharbor.io
 
 
 
-
-
-## Extensive readings...
-
+## Ref

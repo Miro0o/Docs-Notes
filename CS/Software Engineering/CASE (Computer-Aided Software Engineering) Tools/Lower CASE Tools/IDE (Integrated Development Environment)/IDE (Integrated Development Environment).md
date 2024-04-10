@@ -1,4 +1,4 @@
-# IDEs
+# IDE (Integrated Development Environment)
 
 [TOC]
 

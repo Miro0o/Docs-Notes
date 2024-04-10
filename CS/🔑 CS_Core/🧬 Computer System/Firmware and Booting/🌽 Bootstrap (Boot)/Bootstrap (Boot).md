@@ -19,10 +19,23 @@
 ### Learning Resources
 🔥 👍 从裸机启动开始运行一个C++程序
 http://t.csdnimg.cn/fpEXy
+于是在经过了一系列研究和实验之后，笔者决定起笔这一个系列的文章。在这个系列文章中将会介绍：
+- x86体系的结构和启动过程
+- 如何编写一个简单的MBR(Master Boot Record)，然后进入内核程序
+- 如何从用C/C++来生成内核程序（包括编译、链接、转载的方法）
+- 站在内核的角度看到的内存结构是怎样的
+- C/C++程序的内存分布是怎样的，各部分加载到内存中的形态是怎样的
+- C代码和C++代码编译方式的异同
 
 
 
 ## Intro
+先插一句话，现在很多人用UEFI BIOS这个称呼。这里为了区分：
+- BIOS一律指传统BIOS，
+- UEFI BIOS一律称呼为UEFI。
+- UEFI下的BIOS设置，一律称为UEFI设置。
+
+
 ### Booting
 > 🔗 https://en.wikipedia.org/wiki/Booting
 
@@ -53,13 +66,15 @@ In the case of a computer, the POST routines are part of a device's pre-boot seq
 
 
 ## Boot Sequence
-### BIOS Boot Sequence
+### 🎯 BIOS Boot Sequence
+↗ [BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20BIOS%20(Basic%20IO%20System)/BIOS%20(Basic%20IO%20System).md)
 
 
-### UEFI Boot Sequence
+### 🎯 UEFI BIOS Boot Sequence
+↗ [UEFI BIOS](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
 
 
-### Other Boot Sequences
+### 🎯 Other Boot Sequences
 
 
 
@@ -141,4 +156,13 @@ Large and complex systems may have boot procedures that proceed in multiple phas
 3.bootloader将磁盘中的linux内核加载到内存中并执行。**
 
 PC机启动时，cpu首先执行ROM中的BIOS，ROM BIOS会将默认启动驱动器上的引导扇区(MBR)中的bootloader读入内存， bootloader将操作系统内核读入内存，并将控制权交给操作系统内核代码。
+
+[🎬计算机在交给操作系统之前所做的事情，UEFI 和 BIOS  的故事]: https://www.bilibili.com/video/BV1kR4y177GX/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+[科普贴：BIOS和UEFI的启动项 - 王诗峣的文章 - 知乎]: https://zhuanlan.zhihu.com/p/31365115
+
+先插一句话，现在很多人用UEFI BIOS这个称呼。这里为了区分：
+- BIOS一律指传统BIOS，
+- UEFI BIOS一律称呼为UEFI。
+- UEFI下的BIOS设置，一律称为UEFI设置。
 
