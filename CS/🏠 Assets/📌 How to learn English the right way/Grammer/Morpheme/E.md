@@ -387,16 +387,31 @@
 			3. subtransient
 		5. transitional
 	17. issue
-		1. - 来自古法语 issue,出口，出去，来自拉丁语 exire,出去，词源同 exit,ion.由向外走出引申问题，议题，期刊，发行等多种词义。
-		2. unissued
-		3. reissue
-		4. overissue
-		5. nonissue
-		6. issuer
-		7. issueless
-		8. issuance
-		9. issuable
-	19. sudden
+		1. 来自古法语 issue,出口，出去，来自拉丁语 exire,出去，词源同 exit,ion.由向外走出引申问题，议题，期刊，发行等多种词义。
+		2. n. 发行, 问题, 后果, 流出, 出口, 争端  
+		3. vi. 发行, 流出, 造成...结果, 传下  
+		4. vt. 使流出, 放出, 发行, 发布, 发给
+		5. at issue
+			1. 争议中的；讨论中的
+			2. _[matter at issue](dic://matter%20at%20issue)_  争论点；正在讨论的问题 
+			3. In my one memorable exchange with him, I pointed out that his argument on the question **at** **issue** was circular /在我与他的一次令人难忘的交流中，我指出，他在这个问题上的论点是循环的。
+			4. It looks like what's **at** **issue** is less how long your food stays on the floor and much more how contaminated with bacteria that patch of floor happens to be /看起来问题的焦点不太在于你的食物在地上停留的时间长短，而更在于那块地被细菌污染到了什么程度。
+			5. But that's not at issue here. /但不是现在要争论的问题。
+		6. unissued
+		7. reissue
+		8. overissue
+		9. nonissue
+		10. issuer
+		11. issueless
+			1. - adj. 无子女的；无结果的；徒劳的
+			2. The caricature is unfair, but it could enliven what has been a largely **issueless** election /这种讽刺虽不公平，但这多多少少也活跃了一下波澜不惊的大选。
+			3. Have on parental caress by every means, next issueless pester genu disturbing, everyday carefree, live easily comfortable /上有父母亲的百般呵护，下无子女的缠膝烦扰，天天无忧无虑的，活得轻松安闲。
+		12. issuance
+		13. issuable
+			1. adj. 可发行的；[法] 可提出抗辩的；可成为争论点的
+			2. issuable currency; issuable securities. /可发行的货币；可发行的债券
+			3. a corporation's issuable profits. /一个公司的可增殖的利润
+	18. sudden
 		1.  - 来自盎格鲁诺曼法语 sudein,改写自拉丁语 subitaneus,来自 subitus,突然的，来自 sub,在下，向上，-it,走，词源同 exit,itinerary.即向上走来的，引申词义突然走来的，突然的。
 		2. suddenly
 		3. suddenness

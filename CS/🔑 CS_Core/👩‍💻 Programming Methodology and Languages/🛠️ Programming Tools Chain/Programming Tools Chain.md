@@ -5,8 +5,9 @@
 
 
 ## Res
+### Related Topics
 ↗ [SE /CASE Tools](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
-
+↗ [IDE (Integrated Development Environment)](../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/IDE%20(Integrated%20Development%20Environment).md)
 
 
 ## Text Editors
@@ -16,8 +17,8 @@ or IDEs at ↗ [Software Engineering /CASE Tools](../../../Software%20Engineerin
 
 
 ## Compilers
-> ↗ [Program Language Translation (Compile-time)](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20(Compile-time)/Program%20Language%20Translation%20(Compile-time).md)
-> ↗ [CC (Compiler Compiler)](CC%20(Compiler%20Compiler)/CC%20(Compiler%20Compiler).md)
+> ↗ [Program Language Translation & Compilation Theory (Compile-time)](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+> ↗ [CC (Compiler Compilers)](Program%20Execution%20Related%20Tools%20Chain/Compilers/CC%20(Compiler%20Compilers)/CC%20(Compiler%20Compilers).md)
 
 
 ↗ [gcc (GNU C Compiler)](🚠%20Application%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gcc%20(GNU%20C%20Compiler)/gcc%20(GNU%20C%20Compiler).md)

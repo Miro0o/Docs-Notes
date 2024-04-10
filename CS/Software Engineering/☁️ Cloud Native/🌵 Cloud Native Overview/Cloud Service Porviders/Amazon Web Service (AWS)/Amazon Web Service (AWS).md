@@ -1,15 +1,14 @@
-# [AWS](https://aws.amazon.com)
+# Amazon Web Service (AWS)
 
 [TOC]
-
-![](../../../../../../../../../Assets/Pics/D9FE9AC9-DD57-4FB0-BDB7-3A87F5BC6920.png)
-
-
-🏗 [Amazon Console](https://ap-northeast-1.console.aws.amazon.com/console/home?region=ap-northeast-1#)
 
 
 
 ## Res
+🏠 https://aws.amazon.com
+🏗 [Amazon Console](https://ap-northeast-1.console.aws.amazon.com/console/home?region=ap-northeast-1#)
+
+
 ### Others
 🌟 [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
@@ -97,6 +96,11 @@ The AWS General Reference provides information that is useful across Amazon Web 
 - [AWS Support Overview](https://aws.amazon.com/premiumsupport/?nc1=f_dr)
 - [Legal](https://aws.amazon.com/legal/?nc1=f_cc)
 - [AWS Careers](https://www.amazon.jobs/aws)
+
+
+
+## Intro
+![](../../../../../../../../../Assets/Pics/D9FE9AC9-DD57-4FB0-BDB7-3A87F5BC6920.png)
 
 
 

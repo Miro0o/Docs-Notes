@@ -681,6 +681,11 @@
 	4. ingest
 		1. **ingestion**摄取;**consume**消耗，消费;**inhale**吸入;**swallow**燕子;**eat**吃，喝;**digest**消化;**consuming**消费的;**devour**毁灭;**toxins**毒素，毒质;**chew**咀嚼;**assimilate**吸收, 消化;
 		2. [absorb](dic://absorb), [assimilate](dic://assimilate), [take in](dic://take in)
+		3. ingestive
+		4. ingestion
+		5. ingestible
+		6. ingesta
+		7. hyperingestion
 	5. gesture, gesticulate
 		1. **gestures**手势，姿态;**yell**大叫，叫喊;**waving**挥手;**clapping**掌声;**clap**鼓掌，拍手;**loudly**大声地，响亮地;**speak**说话;**converse**相反的，逆向的;**animate**使有生气;**gesture**姿态;**shout**呼喊;
 	6. suggest

@@ -1,13 +1,14 @@
-# 🚀 Troubleshootings
+# Troubleshooting
+
+
 
 ## 👉 Configure http access to Harbor
+#harbor #docker #container 
 
 IDK why this bug kep comming to me ! 😡 I've tried loads of solution online and none of them worked! 🤬
 
 
-
-### Description:
-
+### Description
 Harbor need a `daemon.json` file to config http access. However no matter how i tried to restart docker service after i edit the file the docker won't read the configuration.  I still have no idea where went wrong. 
 
 
@@ -129,9 +130,7 @@ DOCKER_OPTS="--config-file=/etc/docker/daemon.json"
 See [Configure https access to Hartbor](https://goharbor.io/docs/1.10/install-config/configure-https/).
 
 
-
-### 🖇 Links:
-
+### Refs
 [Add Insecure Registry to Docker]:https://stackoverflow.com/questions/42211380/add-insecure-registry-to-docker
 [Docker repository server gave HTTP response to HTTPS client]:https://stackoverflow.com/questions/49674004/docker-repository-server-gave-http-response-to-https-client
 [--insecure-registry should be on "docker pull" #8887]:https://github.com/moby/moby/issues/8887

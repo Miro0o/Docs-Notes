@@ -1,4 +1,4 @@
-# Wasm (WebAssembly)
+# WASM (WebAssembly)
 
 [TOC]
 

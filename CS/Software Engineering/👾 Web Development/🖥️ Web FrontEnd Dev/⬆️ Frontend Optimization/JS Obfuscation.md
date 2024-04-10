@@ -151,7 +151,7 @@ jsnice
 
 
 ## WebAssembly
- ↗️ [WASM](../🚜%20WASM/WASM.md)
+ ↗️ [WASM (WebAssembly)](../🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
 
 
 
