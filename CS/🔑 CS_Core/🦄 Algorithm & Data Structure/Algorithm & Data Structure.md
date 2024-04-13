@@ -72,8 +72,6 @@ Welcome To PKU JudgeOnline
 https://dmoj.ca
 Welcome to the DMOJ: Modern Online Judge!
 
-
-### Matches /Others
 https://codeforces.com
 
 https://www.nowcoder.com

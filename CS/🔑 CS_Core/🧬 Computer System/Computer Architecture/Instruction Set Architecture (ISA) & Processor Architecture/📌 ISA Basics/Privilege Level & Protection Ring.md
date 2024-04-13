@@ -8,9 +8,9 @@
 ### Related Topics
 ↗ [CPU (Central Processing Unit)](../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [Operating System (Theory)](../../../Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+↗ [Operating System (Theory Part)](../../../Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
 
-↗ [OS /Privilege Level & System Calls](../../../Operating%20System%20(Theory)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls.md)
+↗ [OS /Privilege Level & System Calls](../../../Operating%20System%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls.md)
 ↗ [Instruction Execution /Interrupts](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Interrupts.md)
 ↗ [ASM /Interrupts](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 

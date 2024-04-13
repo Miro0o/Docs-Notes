@@ -66,60 +66,68 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 
 
-## A Serious Roadmap..
+## 🚀 A Serious CS Roadmap
 ### 0️⃣ Before you hit the road ...
-[我们需要怎样的数学教育？](../🏠%20Assets/Miscs/我们需要怎样的数学教育？.md)
+↗ [我们需要怎样的数学教育？](../🏠%20Assets/Miscs/我们需要怎样的数学教育？.md)
 
-[How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+↗ [How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 
-[科技创新人才培养 -- 钱学森](../🏠%20Assets/Miscs/科技创新人才培养.md)
+↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Miscs/科技创新人才培养.md)
 
-[斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Miscs/斯坦福大学计算机专业培养方案剖析.md)
+↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Miscs/斯坦福大学计算机专业培养方案剖析.md)
 
-[What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
+🔗 [What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
-[How to ask question the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
+🔗 [How to ask question the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 - STFM/RTFM
 
-[大学生活质量指北](../🏠%20Assets/大学生活质量指北/大学生活质量指北.md)
+↗ [大学生活质量指北](../🏠%20Assets/大学生活质量指北/大学生活质量指北.md)
 
 
 ### 1️⃣ CS Quick Intro /Foundations
-#### Quick CS Intro
-↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-#### 🥵 CS Core /Foundation
-This is hard but foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
-
-↗ [Math & Theoretical Computer Science (TCS)](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-↗ [Programming Methodology and Languages](../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-
-↗ [Computer Networking and Communication](../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
-↗ [Database System](../🔑%20CS_Core/🍕%20Database%20System/Database%20System.md)
+1. Quick CS Intro
+	1. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+	2. ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
+2. CS Core /Foundation
+	1. This is hard but foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
+	2. ↗ [Programming Methodology and Languages](../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+	3. ↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	4. ↗ [Computer Networking and Communication](../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+	5. ↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
 
 
 ### 💯 CS Specific Fields
-#### ⚔️ Security Hacker
-↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
+![computer_architecture_and_computer_science.excalidraw | 800](../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 
-[Security Development Notes](https://testercc.github.io)
-#### 👷🏻 Software Developer
-↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
+1. Theoretical Computer Science & Algorithms
+	1. ↗ [Math & Theoretical Computer Science (TCS)](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+	2. ↗ [Algorithm & Data Structure](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+2. Computer Security
+	1. ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
+3. Software Engineering
+	1. ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
+	2. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
+	3. ↗ [Program Execution & Compilation System](../🔑%20CS_Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+4. System Architecture /Cloud
+	1. ↗ [Cloud Native](../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
+	2. ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
+	3. ↗ [Awesome Architect](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
+5. Data Scientist /AI
+	1. ↗ [Data Science](../Data%20Science/Data%20Science.md)
+	2. ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
+6. IoT /Hardware /Computer Engineering
+	1. ↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+	2. ↗ [Computer System](../🔑%20CS_Core/🧬%20Computer%20System/Computer%20System.md)
+7. Web3 /Metaverse /Cryptocurrency
+	1. ↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
+8. etc..
 
-[Java 全栈知识体系](https://pdai.tech)
-#### 🏙️ System Architect
-↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
-↗ [Awesome Architect](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
-#### 🤖 Data Scientist /AI
-↗ [Data Science](../Data%20Science/Data%20Science.md)
-↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
-#### ☁️ IoT /Cloud
-↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
-↗ [Cloud Native](../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
-#### 🔮 Web3 /Metaverse /Cyrpto
-↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
+
+### CS & IT Academia & Industry
+↗ [Academic Conference in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20in%20Electronics%20&%20Information%20Fields.md)
+↗ [Academic Institutions in Electronic & Information Fields](../Academics/🏢%20Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS_Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 
 

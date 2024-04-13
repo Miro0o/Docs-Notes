@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [CPU Internal Bus](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces/Other%20Bus/CPU%20Internal%20Bus.md)
-↗ [OS Processes Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20(Theory)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Processes Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 ↗ [Microcontrollers (MCU)](../../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
 ↗ [Systems on Chip (SOC)](../../../Systems%20on%20Chip%20(SOC).md)

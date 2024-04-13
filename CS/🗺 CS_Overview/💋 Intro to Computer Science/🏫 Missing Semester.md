@@ -8,7 +8,6 @@
 > 🌬 Read about the [motivation behind this class](https://missing.csail.mit.edu/about/).
 
 
-
 See 💬 text tutorial on [./missing-semester](https://missing.csail.mit.edu)
 
 And 🎬 video course on [MIT公开课 - 6.NULL 你计算机科学教育中遗失的一学期（完结·中英字幕·机翻）](https://www.bilibili.com/video/BV14E411J7n2?p=3&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
@@ -16,7 +15,7 @@ And 🎬 video course on [MIT公开课 - 6.NULL 你计算机科学教育中遗�
 Remember to go through 🚵‍♂️ every excersie&resource on that day's course list.
 
 
-↗ [Free Software & OSS (Open Source Software)](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
+↗ [Free Software & OSS (Open Source Software)](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 ↗ [📌 Awesome Open Source CLI Software](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 
@@ -42,18 +41,13 @@ To name just few:
 - `$$` - Process identification number (PID) for the current script
 - `!!` - Entire last command, including arguments. A common pattern is to execute a command only for it to fail due to missing permissions; you can quickly re-execute the command with sudo by doing `sudo !!`
 - `$_` - Last argument from the last command. If you are in an interactive shell, 
-
-
 #### Cmd execute
 **`$()` `$(())` and `$[[]]` `$[]`**
-
 
 **Process Substitution: `<()`**
 🔗 [What is the difference between `[` and `[[` test?](http://mywiki.wooledge.org/BashFAQ/031)
 
-
 **`test`**
-
 #### Shell Globbing
 - wildcards
 - curly braces
@@ -91,12 +85,9 @@ diff <(ls foo) <(ls bar)
 [env](https://www.man7.org/linux/man-pages/man1/env.1.html) 
 
 
-
 ### Shell tools
 #### General Text Filter
 **[fzf](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings#ctrl-r)** 
-
-
 #### Finding how-to
 **`-h`  or  `--help` flags**
 
@@ -107,8 +98,6 @@ diff <(ls foo) <(ls bar)
 🔗 also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
 [📌 Awesome Open Source CLI Software](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 [🤯 Awesome List](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
-
-
 #### Finding files
 **`find`**
 
@@ -127,10 +116,8 @@ find . -name '*.tmp' -exec rm {} \;
 find . -name '*.png' -exec convert {} {}.jpg \;
 ```
 
-
 **`fd`**
 `fd` is an alternative to `find`. Aims to be faster and easier to use than `find`.
-
 ```shell
  cheat:fd
 # Simple search:
@@ -157,16 +144,12 @@ fd -E <file or directories which should be excluded> <search query>
 - ` sudo /usr/libexec/locate.updatedb`
 
 🔗 [locate vs find: usage, pros and cons of each other](https://unix.stackexchange.com/questions/60205/locate-vs-find-usage-pros-and-cons-of-each-other) 
-
-
 #### Finding codes
 [`grep`](https://www.man7.org/linux/man-pages/man1/grep.1.html)
 - [ack](https://github.com/beyondgrep/ack3)
 - zgrep, lzgrep, etc...
 - [ag](https://github.com/ggreer/the_silver_searcher) (The Silver Search)
 - [rg](https://github.com/BurntSushi/ripgrep) (Ripgrep)
-
-
 #### Finding shell cmds
 `history` 
 
@@ -176,7 +159,6 @@ fd -E <file or directories which should be excluded> <search query>
 
 > You can modify your shell’s history behavior, like preventing commands with a leading space from being included. This comes in handy when you are typing commands with passwords or other bits of sensitive information. To do this, add `HISTCONTROL=ignorespace` to your `.bashrc` or `setopt HIST_IGNORE_SPACE` to your `.zshrc`. If you make the mistake of not adding the leading space, you can always manually remove the entry by editing your `.bash_history` or `.zhistory`.
 
-
 **history-based autosuggestions**
 
 #### Dir Navigation
@@ -184,12 +166,9 @@ fd -E <file or directories which should be excluded> <search query>
 
 - `z` to jump around
 
-
 [`autojump`](https://github.com/wting/autojump). 
 
 >  🔍  More complex tools exist to quickly get an overview of a directory structure: [`tree`](https://linux.die.net/man/1/tree), [`broot`](https://github.com/Canop/broot) or even full fledged file managers like [`nnn`](https://github.com/jarun/nnn) or [`ranger`](https://github.com/ranger/ranger).
-
- 
 
 [Hammerspoon](https://www.hammerspoon.org/)
 
@@ -206,7 +185,6 @@ fd -E <file or directories which should be excluded> <search query>
 #TODO
 
 
-
 ### RE -- Regular Expression
 
 👍 [short interactive regex tutorial](https://regexone.com/)
@@ -216,9 +194,7 @@ fd -E <file or directories which should be excluded> <search query>
 #TODO
 
 
-
 ### `awk`
-
 To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml), 
 
 #TODO
@@ -251,12 +227,9 @@ To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml),
 
 
 
-
-
 ## 5️⃣ [Command-Line Environment](https://missing.csail.mit.edu/2020/command-line/)
 
 ### `ssh` - `mosh` - `et`
-
 **[SSH](https://www.openssh.com/)** stands for Secure Shell. It's the de facto standard for secure communication between two hosts on internet (LAN as well). 
 
 **[Mosh](https://github.com/jarun/nnn/tree/master/plugins#installation)** is improved ssh. It adds some convinient features for dev test settings, though it has security concern under production environment for its UDP usage and port number attribution strategy. However, some of it's fancy functions such as internet roam and autometically reconnect after exiting shell still makes it a handy tool in dev.
@@ -264,13 +237,8 @@ To learn awk begin with:  [Idiomatic awk](https://safjan.com/feeds/all.rss.xml),
 [**Eternal Terminal (ET)**](https://eternalterminal.dev) is a remote shell that automatically reconnects without interrupting the session. 📂 Learn how to install and use it [here](https://eternalterminal.dev/usermanual).
 
 ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.openssh.com/) and [autossh](https://linux.die.net/man/1/autossh) as well)
-
-
-
 #### SSH
-
 TBD..
-
 
 
 use config file manage connections: 
@@ -288,37 +256,24 @@ Host *
 ```
 
 <small>My ssh config file </small>
-
-
-
-
-
 #### Mosh
 
 ![img](../../../Assets/Pics/v2-75b9660a647a9b439d797e3fb731b21b_1440w.png)
 
 <small>Mosh Communication Architecture</small>
 
-
-
 TODO
 
 
-
-#### Refs :
-
+#### Refs
 [mosh - 一款替代SSH的UDP远程终端软件]: https://zhuanlan.zhihu.com/p/28414523
 [使用 Mosh 来优化 SSH 连接]: https://www.cnblogs.com/sunweiye/p/12003616.html
 [ssh 配置文件详解]: https://www.jianshu.com/p/1e793e386beb
 
 
-
-
-
 ### `pfctl` - `iptable`
 
 🛩 Refer to  [GNU/CLI -- iptables](../🔑 CS_Core/Computer System/OS/GNU-Linux/GNU/GNU-CLI.md#iptables).
-
 
 
 ### [`tmux`](https://github.com/tmux/tmux)
@@ -332,7 +287,6 @@ TODO
 [tmuxcheatsheet](https://tmuxcheatsheet.com)
 
 
-
 ### `ps`
 [Linux进程之如何查看进程详情？（ps命令）](https://juejin.cn/post/6844903721369862152#heading-1)
 
@@ -342,14 +296,12 @@ TODO
 `pstree`
 
 
-
 ### [`asdf`](https://asdf-vm.com)
 `asdf` is a tool version manager. All tool version definitions are contained within one file (`.tool-versions`) which you can check in to your project's Git repository to share with your team, ensuring everyone is using the **exact** same versions of tools.
 
 The old way of working required multiple CLI version managers, each with their distinct API, configurations files and implementation (e.g. `$PATH` manipulation, shims, environment variables, etc...). `asdf` provides a single interface and configuration file to simplify development workflows, and can be extended to all tools and runtimes via a simple plugin interface.
 
 - [Does asdf use Homebrew to install packages?](https://elixirforum.com/t/does-asdf-use-homebrew-to-install-packages/42321) 
-
 
 
 ### 🤦🏼 Others
@@ -379,8 +331,7 @@ The old way of working required multiple CLI version managers, each with their d
 > I have doced git topic [here](../🔑 CS_Core/Software/CLI/VersionControl/Git.md).
 
 
-
-### Res:
+### Res
 - [Pro Git](https://git-scm.com/book/en/v2) is **highly recommended reading**. Going through Chapters 1–5 should teach you most of what you need to use Git proficiently, now that you understand the data model. The later chapters have some interesting, advanced material.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) is a short guide on how to recover from some common Git mistakes.
 - [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) is a short explanation of Git’s data model, with less pseudocode and more fancy diagrams than these lecture notes.
@@ -392,6 +343,7 @@ The old way of working required multiple CLI version managers, each with their d
 
 ## 7️⃣ [Debugging and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/)
 [Reverse debugging for Python](https://morepypy.blogspot.com/2016/07/reverse-debugging-for-python.html)
+
 
 ### Logging
 [dmesg](https://www.man7.org/linux/man-pages/man1/dmesg.1.html)
@@ -405,30 +357,23 @@ The old way of working required multiple CLI version managers, each with their d
 [journalctl](https://www.man7.org/linux/man-pages/man1/journalctl.1.html) 
 
 
-
 ### Debugging
 #### Python
 [pdb](https://docs.python.org/3/library/pdb.html) 
 
 [ipdb](https://pypi.org/project/ipdb/) 
-
-
 #### C-like
 [gdb](https://www.gnu.org/software/gdb/) 
 
 - [pwndbg](https://github.com/pwndbg/pwndbg) 
 
 [lldb](https://lldb.llvm.org/) 
-
-
 #### System Calls
 [strace](https://www.man7.org/linux/man-pages/man1/strace.1.html) 
 
 [dtrace](http://dtrace.org/blogs/about/) 
 
 [dtruss](https://www.manpagez.com/man/1/dtruss/) 
-
-
 #### Network
 [tcpdump](https://www.man7.org/linux/man-pages/man1/tcpdump.1.html)
 
@@ -468,21 +413,14 @@ For other languages people have compiled comprehensive lists of useful static an
 #### Timing
 Real time / User time / Sys time 
 
-
 python -m  [time](https://docs.python.org/3/library/time.html) 
-
-
 #### Profiler
 🎛 CPU
-
 - There are two main types of CPU profilers: *tracing* and *sampling* profilers. 
-
 - python - cProfile
-
 -  [line_profiler](https://github.com/pyutils/line_profiler)
 
 📸 Memory
-
 - [Valgrind](https://valgrind.org/) 
 - [memory-profiler](https://pypi.org/project/memory-profiler/)
 
@@ -520,6 +458,7 @@ If you want to test these tools you can also artificially impose loads on the ma
 
 [replit](https://blog.replit.com)
 
+
 ### Build System
 
 make
@@ -537,7 +476,6 @@ The exact meaning of each one varies between projects, but one relatively common
 - If a new release does not change the API, increase the patch version.
 - If you *add* to your API in a backwards-compatible way, increase the minor version.
 - If you change the API in a non-backwards-compatible way, increase the major version.
-
 
 
 ### CI
@@ -567,7 +505,6 @@ $$
 where $p(n)$ stands for possibilites of N happended. 
 
 
-
 ### Cryptographic hash functions & KDF
 
 [lifetimes of cryptographic hash functions](https://valerieaurora.org/hash.html) 
@@ -589,11 +526,7 @@ An example of a symmetric cryptosystem in wide use today is [AES](https://en.wik
 
 
 Encrypting files for storage in an untrusted cloud service. This can be combined with KDFs, so you can encrypt a file with a passphrase. Generate `key = KDF(passphrase)`, and then store `encrypt(file, key)`.
-
-
-
 #### Asymmetric Cryptography
-
 - [PGP email encryption](https://en.wikipedia.org/wiki/Pretty_Good_Privacy). People can have their public keys posted online (e.g. in a PGP keyserver, or on [Keybase](https://keybase.io/)). Anyone can send them encrypted email.
 - Private messaging. Apps like [Signal](https://signal.org/) and [Keybase](https://keybase.io/) use asymmetric keys to establish private communication channels.
 - Signing software. Git can have GPG-signed commits and tags. With a posted public key, anyone can verify the authenticity of downloaded software.
@@ -601,37 +534,23 @@ Encrypting files for storage in an untrusted cloud service. This can be combined
 
 
 ### Case Studies
-
 #### Password managers
 
 This is an essential tool that everyone should try to use (e.g. [KeePassXC](https://keepassxc.org/), [pass](https://www.passwordstore.org/), and [1Password](https://1password.com/)).
-
-
-
 #### Two-factor authentication
 
 [Two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (2FA) requires you to use a passphrase (“something you know”) along with a 2FA authenticator (like a [YubiKey](https://www.yubico.com/), “something you have”) in order to protect against stolen passwords and [phishing](https://en.wikipedia.org/wiki/Phishing) attacks.
-
-
-
 #### Full disk encryption
 
 You can use [cryptsetup + LUKS](https://wiki.archlinux.org/index.php/Dm-crypt/Encrypting_a_non-root_file_system) on Linux,[BitLocker](https://fossbytes.com/enable-full-disk-encryption-windows-10/) on Windows, or [FileVault](https://support.apple.com/en-us/HT204837) on macOS. 
-
-
-
 #### Private messaging
 
 Use [Signal](https://signal.org/) or [Keybase](https://keybase.io/). 
-
-
-
 #### SSH
 
 >  Refer to [earlier lecture](https://missing.csail.mit.edu/2020/command-line/#remote-machines). 
 
 In use, once the server knows the client’s public key (stored in the`.ssh/authorized_keys` file), a connecting client can prove its identity using asymmetric signatures. This is done through [challenge-response](https://en.wikipedia.org/wiki/Challenge–response_authentication).
-
 
 
 
@@ -706,7 +625,6 @@ When your machine boots up, before the operating system is loaded, the[BIOS](htt
 [Docker](https://www.docker.com/) is conceptually similar but it uses containers instead.
 
 Popular Cloud services include [Amazon AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/),[ Microsoft Azure](https://azure.microsoft.com/),[DigitalOcean](https://www.digitalocean.com/).
-
 
 
 ### Notebook Programming

@@ -40,6 +40,7 @@
 ## ⭐ Risk Management Concepts /Glossary
 ![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
 
+![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 
 ### Assets
 > ↗ [Cyberspace Assets](🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)

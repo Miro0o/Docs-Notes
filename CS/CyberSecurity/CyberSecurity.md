@@ -44,8 +44,12 @@
 
 
 ### Learning Resources
+💻 https://testercc.github.io
+
+---
 📖 Computer & Internet Security: A Hands-on Approach by Wenliang Du
 
+---
 🫂 https://www.hackers-arise.com
 Hackers Arise was developed solely to help those who are interested in a career in cyber security. We will have tutorials on all forms of hacking, digital forensics, Linux, information security and just about any subject related to cyber security.
 
@@ -208,7 +212,7 @@ shadow brokers
 
 
 ## Intro
-### ⭐ Information & Information Systems?
+### What is Information & Information Systems?
 ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
 
 信息的性质
@@ -229,6 +233,7 @@ shadow brokers
 信息系统工作流程
 ![](../../../Assets/Pics/Screenshot%202023-11-01%20at%209.02.11PM.png)
 
+
 ### What is Cyberspace?
 ![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.42.17AM.png)
 
@@ -237,7 +242,7 @@ shadow brokers
 
 ### What is Cybersecurity?
 > 网络空间安全：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。
-> 信息安全： ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> 信息安全：重点在信息资源本身的保护。 ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
 (4+2+4)
 网络空间安全涉及到在网络空间中**电磁设备**、**信息通信系统**、**运行数据**、**系统应用**中所存在的安全问题，**既要防止、保护**包括互联网、各种电信网与通信系统、各种传播系统与广电网、各种计算机系统、各类关键工业设施中的嵌入式处理器和控制器等在内的信息通信技术系统及其所承载的数据免受攻击；**也要防止、应对**运用或滥用这些信息通信技术系统而波及到政治安全、经济安全、文化安全、社会安全、国防安全等情况的发生。针对上述风险，需要采取**法律**、**管理**、**技术**、**自律**等综合手段来进行应对，确保信息通信技术系统及其所承载数据的**机密性**、**可鉴别性（包括完整性、真实性、不可抵赖性）**、**可用性**、**可控性**得到保障。
@@ -261,6 +266,9 @@ shadow brokers
 ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 
 ![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
+#### Computer /Information /Cyber Security & Risk Management
+![risk_management_and_software_security.excalidraw | 1000](../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+
 
 ### Why is Cybersecurity?
 Two main reasons of security issues:

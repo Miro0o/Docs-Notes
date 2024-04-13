@@ -45,7 +45,7 @@ Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Si
 👩‍💻 **Software Level** 
 ↗ [Software Engineering](../../../../../../Software%20Engineering/Software%20Engineering.md)
 ↗ [Cloud Native](../../../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
-↗ [Operating System (Theory)](../../../🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+↗ [Operating System (Theory Part)](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
 
 
 💻 **Program Level**
