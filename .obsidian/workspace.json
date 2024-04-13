@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d9f032c604f5b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md"
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md"
               }
             }
           },
@@ -211,54 +224,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0062c947e3658fac",
+  "active": "6d9f032c604f5b10",
   "lastOpenFiles": [
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Image Flasher & Formatters/EasyUEFI.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Image Flasher & Formatters/bootice.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Image Flasher & Formatters/diskgenius.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security/Software Supply Chains Security.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Discrete Mathematics.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Heuristic Algorithms/Heuristic Algorithms.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🦾 Operations Research/Operation Research.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Heuristic Algorithms",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
+    "Assets/Illustrations/Computer System/OS_booting.excalidraw.md",
+    "Assets/Illustrations/Computer System/protection_ring.excalidraw.md",
+    "Assets/Illustrations/Computer System/pty_tty_console.excalidraw.md",
+    "Assets/Illustrations/Computer System/vmnet.excalidraw.md",
+    "Assets/Illustrations/Computer System/x86_history.excalidraw.md",
+    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
+    "Assets/Illustrations/Computer Network/tour_at_internet.excalidraw.md",
+    "Assets/Illustrations/Computer Network/globle_internet_architecture.excalidraw.md",
+    "Assets/Illustrations/Computer Network",
+    "Assets/Illustrations/Computer System/application_load_and_run.excalidraw.md",
+    "Assets/Illustrations/Math/Triangle_Inequity.excalidraw.md",
+    "Assets/Illustrations/Math/mean_value_theorem.excalidraw.md",
+    "Assets/Illustrations/computing.excalidraw.md",
+    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.md",
+    "Assets/Illustrations/Computer System/Untitled.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Analysis.md",
+    "CS/CyberSecurity/Network Security/Network Penetration (Pen-testing)/Network Penetration (Pen-testing).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
     "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/📌 UEFI BIOS/UEFI BIOS.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer Firmware System Interfaces/EFI & UEFI (Unified Extensible Firmware Interface)/EFI & UEFI (Unified Extensible Firmware Interface).md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/💅🏻 CSS & HTML Libraries (UI)/Bootstrap/Bootstrap.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Virtualization Theory.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/🏗️ HCI (Hyber-Converged Infrastructure)/HCI (Hyber-Converged Infrastructure).md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
-    "CS/🔑 CS_Core/Electronics & Information Technologies Business Fields Research/Software Providers/System Level Software Providers/Nutanix.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/🐋 Container Technology/Container Technology.md",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/OS Level Virtualization.md",
-    "CS/Software Engineering/☁️ Cloud Native/🏂 OS Level Virtualization & Containers Technology/OS Level Virtualization & Containers Technology.md",
-    "CS/🔑 CS_Core/Electronics & Information Technologies Business Fields Research/Software Providers/System Level Software Providers/VMWare.md",
-    "CS/🔑 CS_Core/Electronics & Information Technologies Business Fields Research/Software Providers/System Level Software Providers/SmartX.md",
-    "CS/🔑 CS_Core/Electronics & Information Technologies Business Fields Research/Hardware Manufacturers/Semiconductor Industry & Companies/Semiconductor Industry & Companies.md",
+    "Assets/Pics/Pasted Image 20240411232309_504.png",
+    "Assets/Illustrations/Computer Security",
+    "Assets/Pics/Screenshot 2024-04-11 at 10.17.29 PM.png",
+    "Assets/Pics/Screenshot 2024-04-11 at 10.09.43 PM.png",
+    "Assets/Pics/Screenshot 2024-04-11 at 10.02.29 PM.png",
+    "Assets/Pics/Screenshot 2024-04-11 at 9.56.19 PM.png",
+    "Assets/Pics/Screenshot 2024-04-11 at 9.52.18 PM.png",
     "Assets/Pics/Pasted image 20240410132451.png",
     "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/🏗️ HCI (Hyber-Converged Infrastructure)",
-    "CS/Software Engineering/☁️ Cloud Native/Cloud Native.md",
-    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/Cloud Service Porviders/Amazon Web Service (AWS)/Amazon Web Service (AWS).md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/😅 Wiki & Resources/Wiki Projects.md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/😅 Wiki & Resources/😅 Wiki & Resources.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/📌 SCA (Static Code Analysis)/SCA (Static Code Analysis).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Binary Engineering & Software Analysis.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/📌 SCA (Static Code Analysis)/SAST (Static Application Security Testing).md",
-    "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/🔮 Tensor Compilers",
     "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Lower CASE Tools/IDE (Integrated Development Environment)/Microsoft Visual Studio",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/STMicroelectronics open 64",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/Intel icc",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtimes/🚒 JS Engines (JS Compilation)/Mozilla SpiderMonkey",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/Nvidia nvcc",
-    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/CPU-assisted Virtualization/ARM Virtualization",
-    "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Second-Stage Boot Loader & Boot Manager/xorboot",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Interfaces/Computer Firmware System Interfaces/EFI & UEFI (Unified Extensible Firmware Interface)",
     "Assets/Pics/Screenshot 2024-04-04 at 6.23.38 PM.png",
     "Assets/Pics/Screenshot 2024-04-04 at 6.22.39 PM.png",
     "Assets/Pics/Screenshot 2024-04-04 at 6.19.50 PM.png",
-    "Assets/Pics/Pasted image 20240402135041.png",
-    "Assets/Pics/Pasted image 20240402135030.png",
-    "Assets/Pics/Pasted image 20240402125029.png",
-    "Assets/Pics/Screenshot 2024-04-01 at 3.15.48 PM.png",
-    "Assets/Pics/Pasted image 20240401150756.png",
-    "Assets/Pics/Pasted Image 20240331154158_825.png",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",

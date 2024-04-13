@@ -80,7 +80,7 @@ Its intended audience is everyone from performance engineers and practical algor
 
 ## Intro
 ### Computer Organization & Architecture
-![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
+![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System Architecture Hierarchy (von Neumann Model) </small>
 
 ![](../../../../Assets/Pics/Screenshot%202022-11-13%20at%201.55.36%20PM.png)

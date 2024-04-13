@@ -1662,8 +1662,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 531,
-			"versionNonce": 1742491025,
+			"version": 535,
+			"versionNonce": 693454021,
 			"isDeleted": false,
 			"id": "YYIMvGX14AxNDnrWE4EAL",
 			"fillStyle": "hachure",
@@ -1684,7 +1684,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918116,
+			"updated": 1712918791979,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1713,8 +1713,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 528,
-			"versionNonce": 1258189681,
+			"version": 532,
+			"versionNonce": 909796389,
 			"isDeleted": false,
 			"id": "-fsAW16Gv4I0x2JElTTs1",
 			"fillStyle": "hachure",
@@ -1735,7 +1735,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918119,
+			"updated": 1712918791982,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1764,8 +1764,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 512,
-			"versionNonce": 133611999,
+			"version": 516,
+			"versionNonce": 190607723,
 			"isDeleted": false,
 			"id": "89FtjensUGfKqZlYcx7_O",
 			"fillStyle": "hachure",
@@ -1786,7 +1786,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918044,
+			"updated": 1712918791924,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1815,8 +1815,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 507,
-			"versionNonce": 1710492977,
+			"version": 511,
+			"versionNonce": 1754417381,
 			"isDeleted": false,
 			"id": "4gNCbpvsx2nCCFhjuSnIR",
 			"fillStyle": "hachure",
@@ -1837,7 +1837,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918057,
+			"updated": 1712918791929,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1866,8 +1866,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 1004,
-			"versionNonce": 1636404895,
+			"version": 1008,
+			"versionNonce": 935404843,
 			"isDeleted": false,
 			"id": "wOmW6E78-VqUPR9FwkScL",
 			"fillStyle": "hachure",
@@ -1876,11 +1876,11 @@ to communicate with Shell  ^8vZeTcce
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 367.5132943578974,
+			"x": 367.51259613837686,
 			"y": 1409.6536701841578,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 7.2331794745368825,
+			"width": 7.232727140808947,
 			"height": 104.09223448405191,
 			"seed": 2079821140,
 			"groupIds": [],
@@ -1888,7 +1888,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918068,
+			"updated": 1712918791932,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1910,15 +1910,15 @@ to communicate with Shell  ^8vZeTcce
 					0
 				],
 				[
-					-7.2331794745368825,
+					-7.232727140808947,
 					-104.09223448405191
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 267,
-			"versionNonce": 552099231,
+			"version": 268,
+			"versionNonce": 1741963307,
 			"isDeleted": false,
 			"id": "pln2mwFynTS8SVZT5LuF5",
 			"fillStyle": "hachure",
@@ -1939,7 +1939,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453917966,
+			"updated": 1712918791921,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1964,8 +1964,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 541,
-			"versionNonce": 950087167,
+			"version": 545,
+			"versionNonce": 893455371,
 			"isDeleted": false,
 			"id": "nkZt8qkzlwPMcIVYW9JSv",
 			"fillStyle": "hachure",
@@ -1986,7 +1986,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918046,
+			"updated": 1712918791924,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2015,8 +2015,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 312,
-			"versionNonce": 755194463,
+			"version": 313,
+			"versionNonce": 1463739371,
 			"isDeleted": false,
 			"id": "UzPh2eq_30MhTvOatML73",
 			"fillStyle": "hachure",
@@ -2037,7 +2037,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918058,
+			"updated": 1712918791930,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2062,8 +2062,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 425,
-			"versionNonce": 9662161,
+			"version": 426,
+			"versionNonce": 2083477253,
 			"isDeleted": false,
 			"id": "oTMreMREeT7xFmniNo86g",
 			"fillStyle": "hachure",
@@ -2084,7 +2084,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918070,
+			"updated": 1712918791933,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2156,8 +2156,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 371,
-			"versionNonce": 2144335217,
+			"version": 372,
+			"versionNonce": 70110757,
 			"isDeleted": false,
 			"id": "Oe6B3zvY1FCFA5_2fQ1Q9",
 			"fillStyle": "hachure",
@@ -2178,7 +2178,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918048,
+			"updated": 1712918791924,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2203,8 +2203,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 655,
-			"versionNonce": 916512081,
+			"version": 659,
+			"versionNonce": 1543804805,
 			"isDeleted": false,
 			"id": "TfyW5B0pyAsOPhjZvqmPa",
 			"fillStyle": "hachure",
@@ -2225,7 +2225,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918120,
+			"updated": 1712918791982,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2405,8 +2405,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 702,
-			"versionNonce": 2032779167,
+			"version": 703,
+			"versionNonce": 1354304043,
 			"isDeleted": false,
 			"id": "Hlj70eyh37HN9sFljDMLE",
 			"fillStyle": "hachure",
@@ -2427,7 +2427,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918106,
+			"updated": 1712918791949,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2452,8 +2452,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 865,
-			"versionNonce": 232029457,
+			"version": 869,
+			"versionNonce": 2005809733,
 			"isDeleted": false,
 			"id": "5gWxEbk2GPtPVRNETGkus",
 			"fillStyle": "hachure",
@@ -2474,7 +2474,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918128,
+			"updated": 1712918791986,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2917,8 +2917,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 667,
-			"versionNonce": 1852878481,
+			"version": 668,
+			"versionNonce": 1689196997,
 			"isDeleted": false,
 			"id": "qFLzhNdxgdgY4GatIA_ZG",
 			"fillStyle": "hachure",
@@ -2939,7 +2939,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918081,
+			"updated": 1712918791936,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3275,8 +3275,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 108,
-			"versionNonce": 398222015,
+			"version": 109,
+			"versionNonce": 576276427,
 			"isDeleted": false,
 			"id": "TMBx2q7jBzxZJhMwF5-VQ",
 			"fillStyle": "hachure",
@@ -3297,7 +3297,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918073,
+			"updated": 1712918791934,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3322,8 +3322,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 129,
-			"versionNonce": 771853119,
+			"version": 130,
+			"versionNonce": 493718091,
 			"isDeleted": false,
 			"id": "AGYZ3M5QmfNLcqivtnHdI",
 			"fillStyle": "hachure",
@@ -3344,7 +3344,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918093,
+			"updated": 1712918791941,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3369,8 +3369,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 120,
-			"versionNonce": 1428098097,
+			"version": 121,
+			"versionNonce": 1639928805,
 			"isDeleted": false,
 			"id": "3brmC8vqgurcna4JREVaP",
 			"fillStyle": "hachure",
@@ -3391,7 +3391,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918102,
+			"updated": 1712918791947,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3416,8 +3416,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 169,
-			"versionNonce": 179330577,
+			"version": 173,
+			"versionNonce": 1893044037,
 			"isDeleted": false,
 			"id": "Co74nz7l7FkdzNy0Ogh1s",
 			"fillStyle": "hachure",
@@ -3438,7 +3438,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918103,
+			"updated": 1712918791948,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3467,8 +3467,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 137,
-			"versionNonce": 644029503,
+			"version": 139,
+			"versionNonce": 1171672907,
 			"isDeleted": false,
 			"id": "Q7ykKYcv_vTsSW90bIfG5",
 			"fillStyle": "hachure",
@@ -3489,7 +3489,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918123,
+			"updated": 1712918791984,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3522,8 +3522,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 165,
-			"versionNonce": 974850865,
+			"version": 167,
+			"versionNonce": 1693540069,
 			"isDeleted": false,
 			"id": "_IR7C56vvC8Uf0FXYTDxG",
 			"fillStyle": "hachure",
@@ -3544,7 +3544,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918123,
+			"updated": 1712918791984,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3577,8 +3577,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 36,
-			"versionNonce": 1460325841,
+			"version": 37,
+			"versionNonce": 2060730885,
 			"isDeleted": false,
 			"id": "w9QqF1k12gxO2sM7bZuvF",
 			"fillStyle": "hachure",
@@ -3599,7 +3599,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918111,
+			"updated": 1712918791952,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3624,8 +3624,8 @@ to communicate with Shell  ^8vZeTcce
 		},
 		{
 			"type": "arrow",
-			"version": 69,
-			"versionNonce": 150137777,
+			"version": 73,
+			"versionNonce": 292010341,
 			"isDeleted": false,
 			"id": "hD81IOK1HcxH5Nv-lR8vq",
 			"fillStyle": "hachure",
@@ -3646,7 +3646,7 @@ to communicate with Shell  ^8vZeTcce
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702453918112,
+			"updated": 1712918791952,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4181,12 +4181,40 @@ to communicate with Shell  ^8vZeTcce
 			"baseline": 67
 		},
 		{
-			"id": "zu5trSC6cp48wohJB6dRt",
 			"type": "rectangle",
+			"version": 160,
+			"versionNonce": 1010673777,
+			"isDeleted": false,
+			"id": "zu5trSC6cp48wohJB6dRt",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": -695.626572860653,
 			"y": 1794.5355080661159,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
 			"width": 579.6576605902777,
 			"height": 100.08355034722207,
+			"seed": 961694161,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1702454012781,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "TQH67T1o",
+			"type": "text",
+			"x": 945.1178257939582,
+			"y": 1046.6503898204598,
+			"width": 11.71875,
+			"height": 24,
 			"angle": 0,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
@@ -4196,22 +4224,30 @@ to communicate with Shell  ^8vZeTcce
 			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
-			"roundness": {
-				"type": 3
-			},
-			"seed": 961694161,
-			"version": 160,
-			"versionNonce": 1010673777,
-			"isDeleted": false,
+			"roundness": null,
+			"seed": 1102857317,
+			"version": 2,
+			"versionNonce": 2053398635,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1702454012781,
+			"updated": 1712918810024,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
-		"viewBackgroundColor": "#fdf8f6",
+		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1971c2",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -4224,10 +4260,10 @@ to communicate with Shell  ^8vZeTcce
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1055.92611984416,
-		"scrollY": -191.00025009085516,
+		"scrollX": 1564.6643415372614,
+		"scrollY": -478.0461269100278,
 		"zoom": {
-			"value": 0.45
+			"value": 0.36457517027854913
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

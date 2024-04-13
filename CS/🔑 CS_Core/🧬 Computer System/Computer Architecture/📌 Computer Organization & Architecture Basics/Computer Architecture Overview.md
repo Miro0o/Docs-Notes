@@ -31,7 +31,7 @@ CEN, Comité Européen de Normalisation
 
 
 ## 🪜 Computer Architecture Hierarchy
-![computer_architecture.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
+![computer_architecture.excalidraw | 800](../../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer Architecture Hierarchy</small>
 
 ![](../../../../../Assets/Pics/Screenshot%202023-06-25%20at%201.14.53%20AM.png)

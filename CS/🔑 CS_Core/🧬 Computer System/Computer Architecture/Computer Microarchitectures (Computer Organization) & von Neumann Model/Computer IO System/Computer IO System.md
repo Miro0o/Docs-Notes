@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Bus (Datapath)](../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
-- ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Computer Bus (Datapath) & Interfaces](../Computer%20Bus%20(Datapath)%20&%20Interfaces/Computer%20Bus%20(Datapath)%20&%20Interfaces.md)
+- ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)%20&%20Interfaces/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 ↗ [Auxiliary Hardware & Peripherals](../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 
@@ -119,11 +119,11 @@ Each I/O device is connected to the I/O bus by either a **controller** or an **a
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-10-16%20at%206.47.51PM.png)
 
-↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)%20&%20Interfaces/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 ↗ [Computer IO System](Computer%20IO%20System.md)
 
-↗ [von Neumann Based Microarchitecture /Datapath (Bus)](../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
-↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [von Neumann Based Microarchitecture /Datapath (Bus)](../Computer%20Bus%20(Datapath)%20&%20Interfaces/Computer%20Bus%20(Datapath)%20&%20Interfaces.md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)%20&%20Interfaces/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 
 

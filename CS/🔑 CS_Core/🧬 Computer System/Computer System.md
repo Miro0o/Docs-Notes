@@ -32,7 +32,7 @@ http://t.csdnimg.cn/fpEXy
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computer do?</small>
 
-![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
+![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
 
 

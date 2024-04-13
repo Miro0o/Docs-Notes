@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
-↗ [Vulnerability Assessment（漏洞危害评估）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Vulnerability/Vulnerability%20Assessment（漏洞危害评估）/Vulnerability%20Assessment（漏洞危害评估）.md)
+↗ [Vulnerability Assessment（漏洞危害评估）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Assessment（漏洞危害评估）/Vulnerability%20Assessment（漏洞危害评估）.md)
 ↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 
