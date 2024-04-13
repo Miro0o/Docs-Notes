@@ -32,6 +32,8 @@ the web's most extensive mathematics resource
 🧰 https://www.geogebra.org/
 Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more
 
+📖 吴军通识数学讲义
+
 
 ### 📝 Math Course List for CS
 https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html

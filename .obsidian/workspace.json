@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,16 +60,11 @@
             }
           },
           {
-            "id": "6d9f032c604f5b10",
+            "id": "359ad757b71638a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -123,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -140,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,36 +214,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d9f032c604f5b10",
+  "active": "359ad757b71638a4",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Supply Chains Security/Software Supply Chains Security.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Discrete Mathematics.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Heuristic Algorithms/Heuristic Algorithms.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🦾 Operations Research/Operation Research.md",
-    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Heuristic Algorithms",
-    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
-    "Assets/Illustrations/Computer System/OS_booting.excalidraw.md",
-    "Assets/Illustrations/Computer System/protection_ring.excalidraw.md",
-    "Assets/Illustrations/Computer System/pty_tty_console.excalidraw.md",
-    "Assets/Illustrations/Computer System/vmnet.excalidraw.md",
-    "Assets/Illustrations/Computer System/x86_history.excalidraw.md",
-    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
-    "Assets/Illustrations/Computer Network/tour_at_internet.excalidraw.md",
-    "Assets/Illustrations/Computer Network/globle_internet_architecture.excalidraw.md",
-    "Assets/Illustrations/Computer Network",
-    "Assets/Illustrations/Computer System/application_load_and_run.excalidraw.md",
-    "Assets/Illustrations/Math/Triangle_Inequity.excalidraw.md",
-    "Assets/Illustrations/Math/mean_value_theorem.excalidraw.md",
-    "Assets/Illustrations/computing.excalidraw.md",
-    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.md",
-    "Assets/Illustrations/Computer System/Untitled.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Analysis.md",
-    "CS/CyberSecurity/Network Security/Network Penetration (Pen-testing)/Network Penetration (Pen-testing).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
     "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
+    "Assets/Illustrations/Computer System/application_load_and_run.excalidraw.md",
+    "CS/🗺 CS_Overview/🥂 Welcome to CS.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Algorithm & Data Structure.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+    "CS/🗺 CS_Overview/Institutes & Organizations in CS & IT.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "CS/🗺 CS_Overview/对计算机科学的思考.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
+    "CS/CyberSecurity/⛈️ Risk Management/Risk Management.md",
+    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
+    "CS/🗺 CS_Overview/CS Lingoes.md",
+    "CS/🗺 CS_Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Data Representations & Storage in CS.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Queue & Stack/Stack.md",
+    "CS/🗺 CS_Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Encodings.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Stack Attack/Stack Attack.md",
+    "CS/CyberSecurity/System Security/Operating System Security/Memory Attack/Stack Attack/Stack Overflow/Stack Overflow.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Graph.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Data Structures/Tree/📌 Basic Tree & Derivatives/Heap.md",
+    "CS/🗺 CS_Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Information, Data, Number and Math in Digital Systems.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/🪪 Software License & Open Source (Free Software)/Software License & Open Source (Free Software).md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/🪪 Software License & Open Source (Free Software)/(Free) Software Licenses/MPL.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/🪪 Software License & Open Source (Free Software)/(Free) Software Licenses/MIT License.md",
+    "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Heuristic Algorithms",
+    "Assets/Illustrations/Computer Network",
     "Assets/Pics/Pasted Image 20240411232309_504.png",
     "Assets/Illustrations/Computer Security",
     "Assets/Pics/Screenshot 2024-04-11 at 10.17.29 PM.png",

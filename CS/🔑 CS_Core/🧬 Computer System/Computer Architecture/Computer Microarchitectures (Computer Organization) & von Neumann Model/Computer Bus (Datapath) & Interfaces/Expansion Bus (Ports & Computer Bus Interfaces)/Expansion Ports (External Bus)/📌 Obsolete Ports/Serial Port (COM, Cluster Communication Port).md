@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Serial Communication Programs](../../../../../../../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Remote%20Terminal%20&%20Communications%20Programs/Serial%20Communication%20Programs/Serial%20Communication%20Programs.md)
+↗ [Serial Communication Programs](../../../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Remote%20Terminal%20&%20Other%20Communications%20Programs/Serial%20Communication%20Programs/Serial%20Communication%20Programs.md)
 
 
 

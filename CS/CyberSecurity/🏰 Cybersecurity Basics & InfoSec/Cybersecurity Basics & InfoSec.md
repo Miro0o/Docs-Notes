@@ -23,7 +23,6 @@ It is part of [information risk management](https://en.wikipedia.org/wiki/Risk_m
 It typically involves preventing or reducing the probability of unauthorized/inappropriate access to [data](https://en.wikipedia.org/wiki/Data), or the unlawful use, [disclosure](https://en.wikipedia.org/wiki/Data_breach), disruption, deletion, corruption, modification, inspection, recording, or devaluation of information. It also involves actions intended to reduce the adverse impacts of such incidents. Protected information may take any form, e.g. electronic or physical, tangible (e.g. [paperwork](https://en.wikipedia.org/wiki/Document)) or intangible (e.g. [knowledge](https://en.wikipedia.org/wiki/Knowledge)). 
 
 Information security's primary focus is the balanced protection of the [confidentiality](https://en.wikipedia.org/wiki/Confidentiality), [integrity](https://en.wikipedia.org/wiki/Integrity), and [availability](https://en.wikipedia.org/wiki/Availability) of data (also known as the CIA triad) while maintaining a focus on efficient [policy](https://en.wikipedia.org/wiki/Policy) implementation, all without hampering organization [productivity](https://en.wikipedia.org/wiki/Productivity). This is largely achieved through a structured [risk management](https://en.wikipedia.org/wiki/Risk_management) process that involves: 
-
 - identifying information and related [assets](https://en.wikipedia.org/wiki/Asset_(computer_security)), plus potential [threats](https://en.wikipedia.org/wiki/Threat_(computer)), [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing)), and impacts;
 - evaluating the risks;
 - deciding how to address or treat the risks i.e. to avoid, mitigate, share or accept them;
@@ -31,6 +30,9 @@ Information security's primary focus is the balanced protection of the [confiden
 - monitoring the activities, making adjustments as necessary to address any issues, changes and improvement opportunities.
 
 To standardize this discipline, academics and professionals collaborate to offer guidance, policies, and industry standards on [password](https://en.wikipedia.org/wiki/Password), [antivirus software](https://en.wikipedia.org/wiki/Antivirus_software), [firewall](https://en.wikipedia.org/wiki/Firewall_(computing)), [encryption software](https://en.wikipedia.org/wiki/Encryption_software), [legal liability](https://en.wikipedia.org/wiki/Legal_liability), [security awareness](https://en.wikipedia.org/wiki/Security_awareness) and training, and so forth. This [standardization](https://en.wikipedia.org/wiki/Standardization) may be further driven by a wide variety of laws and regulations that affect how data is accessed, processed, stored, transferred and destroyed. However, the implementation of any standards and guidance within an entity may have limited effect if a culture of [continual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) isn't adopted.
+
+![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+<small>Computer Security & Risk Management</small>
 
 
 ### Difference Between InfoSec & CyberSec?
@@ -51,7 +53,7 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 ## 🛡️ InfoSec Principles & Objectives
-> 网络空间安全：↗ [CyberSecurity /What is Cybersecurity?](../CyberSecurity.md#What%20is%20Cybersecurity?)
+> 网络空间安全：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。↗ [CyberSecurity /What is Cybersecurity?](../CyberSecurity.md#What%20is%20Cybersecurity?)
 > 信息安全：重点在信息资源本身的保护。
 > 
 > ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)

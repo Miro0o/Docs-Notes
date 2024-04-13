@@ -18,6 +18,7 @@ And maybe ↗ [8086 ASM](../../../🔑%20CS_Core/👩‍💻%20Programming%20Met
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.38%20PM.png)
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.45%20PM.png)
 
+
 ### Unsigned Binary Integer 
 #### Excess-M Representation
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.06.29%20PM.png)
@@ -26,12 +27,8 @@ And maybe ↗ [8086 ASM](../../../🔑%20CS_Core/👩‍💻%20Programming%20Met
 ### Signed Binary Integer
 #### Signed Magnitude
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.02.36%20PM.png)
-
-
 #### 1's Complement 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.02.59%20PM.png)
-
-
 #### 2's Complement
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.03.07%20PM.png)
 
@@ -39,7 +36,6 @@ And maybe ↗ [8086 ASM](../../../🔑%20CS_Core/👩‍💻%20Programming%20Met
 
 ## Data Types In CS
 > 🔗 https://www.ibm.com/docs/en/ibm-mq/7.5?topic=platforms-standard-data-types
-
 
 ![](../../../../Assets/Pics/Screenshot%202023-03-28%20at%204.51.18%20PM.png)
 
@@ -88,14 +84,10 @@ a stack cannot be accessed randomly, which makes it difficult to generate effici
 > ↗ [Instruction Formats](../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Formats.md) - reverse polish notation
 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.31.50%20PM.png)
-
-
 #### 2️⃣ Accumulator Architecture
 Accumulator architectures such as MARIE, with one operand implicitly in the accumulator, minimize the internal complexity of the machine and allow for very short instructions. But because the accumulator is only temporary storage, memory traffic is very high.
 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.32.32%20PM.png)
-
-
 #### 3️⃣ GPR (General Purpose Register) Architecture
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
@@ -115,13 +107,10 @@ However, because all operands must be named, using registers results in longer i
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.32.43%20PM.png)
 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.32.53%20PM.png)
-
 ##### Memory-Memory
 Memory-memory architectures may have two or three operands in memory, allowing an instruction to perform an operation without requiring any operand to be in a register.
-
 ##### Memory-Register
 Register-memory architectures require a mix, where at least one operand is in a register and one is in memory.
-
 ##### Load-Store (Register-Register)
 Load-store architectures require data to be moved into registers before any operations on those data are performed.
 
@@ -143,39 +132,12 @@ In computing, a **code segment**, also known as a **text segment** or simply
 
 
 ### Stack Segment
-⏬ See below "Stack" section.
+↗ [Stack](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue%20&%20Stack/Stack.md)
 
 
 
-## Stack
-↗ [Data Structure /Stack](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue%20&%20Stack/Stack.md)
-↗ [Stack Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Stack%20Attack/Stack%20Attack.md)
-
-
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.15.14%20PM.png)
-
-### Stack Segment /Stack Frame
-A stack frame is a data structure used to keep track of information about a subroutine call, while a stack segment is a segment of memory used by the operating system to store the call stack.
-
-
-> 🔗 [汇编中的栈帧理解](https://blog.csdn.net/yhchinabest/article/details/103881857)
-
-> 🔗 [Data Segment](https://en.wikipedia.org/wiki/Data_segment)
-> The stack segment **contains the call stack, a LIFO structure, typically located in the higher parts of memory**. A "stack pointer" register tracks the top of the stack; it is adjusted each time a value is "pushed" onto the stack. The set of values pushed for one function call is termed a "stack frame".
-
->  🔗 [Stack-Based Memory Allocation](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
->  If a region of memory lies on the thread's stack, that memory is said to have been allocated on the stack, i.e. stack-based memory allocation (SBMA). This is contrasted with a [heap-based memory allocation](https://en.wikipedia.org/wiki/Heap-based_memory_allocation "Heap-based memory allocation") (HBMA). The SBMA is often closely coupled with a [function call stack](https://en.wikipedia.org/wiki/Call_stack#Functions_of_the_call_stack "Call stack").
-
-
-
-### Stack Overflow
-![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%201.44.33%20PM.png)
-
-
-
-## Heap
-↗ [Data Structure /Heap](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Basic%20Tree%20&%20Derivatives/Heap.md)
-↗ [Heap Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Heap%20Attack/Heap%20Attack.md)
+## Data Structures in CS
+↗ [Data Structures](../../../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Data%20Structures.md)
 
 
 

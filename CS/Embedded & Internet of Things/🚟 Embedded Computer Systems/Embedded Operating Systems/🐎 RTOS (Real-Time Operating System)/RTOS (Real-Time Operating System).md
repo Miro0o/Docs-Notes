@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Real-Time Scheduling](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/OS%20Scheduling%20&%20Resource%20Management/Real-Time%20Scheduling/Real-Time%20Scheduling.md)
+↗ [Real-Time Scheduling](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/Real-Time%20Scheduling/Real-Time%20Scheduling.md)
 
 
 

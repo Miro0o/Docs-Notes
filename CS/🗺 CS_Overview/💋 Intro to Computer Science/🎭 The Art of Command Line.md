@@ -11,7 +11,6 @@
 ## Intro
 
 The full list of the content of this tutorial is as below: 
-
 - [Meta](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md#meta)
 - [Basics](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md#basics)
 - [Everyday use](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md#everyday-use)

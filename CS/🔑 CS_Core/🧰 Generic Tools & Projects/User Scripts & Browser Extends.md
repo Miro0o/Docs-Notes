@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Script Management](🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20Management.md)
-↗ [Shell & Script Programming](../🥷🏼%20Operating%20System%20(Engineering)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
+↗ [Shell & Script Programming](../🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
 
 ↗ [Browsers](Browsers.md)
 

@@ -5,9 +5,9 @@
 
 
 ## Res
-↗ [Operating System (Theory)](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
+↗ [Operating System (Theory Part)](../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
 
-↗ [Operating System (Engineering)](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
+↗ [Operating System (Engineering Part)](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
 
 
 

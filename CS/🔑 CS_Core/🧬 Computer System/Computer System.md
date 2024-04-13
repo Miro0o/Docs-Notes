@@ -49,8 +49,8 @@ http://t.csdnimg.cn/fpEXy
 	5. Computer Organization & Architecture
 		1. ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 	6. 🎛️ Operating System
-		1. ↗ [Operating System (Theory)](Operating%20System%20(Theory)/Operating%20System%20(Theory).md)
-		2. ↗ [Operating System (Engineering)](../🥷🏼%20Operating%20System%20(Engineering)/Operating%20System%20(Engineering).md)
+		1. ↗ [Operating System (Theory Part)](Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
+		2. ↗ [Operating System (Engineering Part)](../🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
 2. Further Steps in CS Core...
 	1. Languages Programming & Compilation Principles
 		1. ↗ [Programming Methodology and Languages](../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)

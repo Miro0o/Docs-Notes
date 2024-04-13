@@ -12,7 +12,7 @@
 
 🎬 https://youtu.be/VF4In6rIPGc
 
-↗ [The GNU Netcat (NC)](../../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20GNU%20Netcat%20(NC).md)
+↗ [The GNU Netcat (NC)](../../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20GNU%20Netcat%20(NC).md)
 
 
 
