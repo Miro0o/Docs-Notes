@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Software Security](../Software%20Security.md)
-↗ [Software Vulnerability](../Software%20Vulnerability/Software%20Vulnerability.md)
+↗ [Software Vulnerability](../🐒%20Software%20Vulnerability/Software%20Vulnerability.md)
 ↗ [System Security](../../../System%20Security/System%20Security.md)
 ↗ [Software Testing](../../../../Software%20Engineering/👁️%20Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 

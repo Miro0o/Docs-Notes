@@ -29,7 +29,7 @@
 ## 🎯 History of x86 Architecture
 > Intel & AMD are main design companies of x86 architecture (?)  
 
-![[../../../../../../Assets/Illustrations/Computer System/x86 history.excalidraw]]
+![[../../../../../../Assets/Illustrations/Computer System/x86_history.excalidraw]]
 
 ### 🕰️ Major Timeline
 #### 8008 (8-bit)

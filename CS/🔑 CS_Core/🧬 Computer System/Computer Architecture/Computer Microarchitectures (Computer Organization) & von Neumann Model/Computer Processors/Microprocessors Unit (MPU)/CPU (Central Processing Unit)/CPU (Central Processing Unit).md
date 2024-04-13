@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [CPU Internal Bus](../../../Computer%20Bus%20(Datapath)/Other%20Bus/CPU%20Internal%20Bus.md)
+↗ [CPU Internal Bus](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces/Other%20Bus/CPU%20Internal%20Bus.md)
 ↗ [OS Processes Management (CPU + Main Memory Resource)](../../../../../Operating%20System%20(Theory)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 ↗ [Microcontrollers (MCU)](../../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20(Processors)/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
@@ -68,7 +68,7 @@ Similarly:
 
 #TODO 
 #### 1️⃣ Datapath
-For other bus look at ↗ [Computer Bus (Datapath)](../../../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
+For other bus look at ↗ [Computer Bus (Datapath) & Interfaces](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces/Computer%20Bus%20(Datapath)%20&%20Interfaces.md)
 #### 2️⃣ Control Unit
 a module responsible for sequencing operations and making sure the correct data are where they need to be at the correct time.
 
@@ -116,7 +116,7 @@ or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Programming%20Methodolo
 >
 >However, certain buses also have their own clocks. **Bus clocks** are one of them. Bus clocks are usually slower than CPU clocks, causing bottleneck problems.
 >
->↗ [Computer Bus (Datapath)](../../../Computer%20Bus%20(Datapath)/Computer%20Bus%20(Datapath).md)
+>↗ [Computer Bus (Datapath) & Interfaces](../../../Computer%20Bus%20(Datapath)%20&%20Interfaces/Computer%20Bus%20(Datapath)%20&%20Interfaces.md)
 #### CPU Clock Basics
 #### 📈 Minimal Clock Cycle Time
 Most machines are synchronous: There is a master clock signal, which ticks (changing from 0 to 1 to 0 and so on) at regular intervals. Registers must wait for the clock to tick before new data can be loaded. 

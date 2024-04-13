@@ -13,7 +13,7 @@
 ↗ [Computer Architecture](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ↗ [Computer Components](../🧬%20Computer%20System/Computer%20Components.md)
-↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 
 

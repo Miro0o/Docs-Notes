@@ -57,7 +57,7 @@ https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 ## Intro
 ### Computer System Review
-![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture.excalidraw.md)
+![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System Overveiw</small>
 
 ↗ [Computer Architecture Overview](../Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20Overview.md)
