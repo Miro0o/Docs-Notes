@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Malicious Code Analysis](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Analysis/Malicious%20Code%20Analysis.md)
+↗ [Malicious Code Detection & Analysis](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Analysis/Malicious%20Code%20Detection%20&%20Analysis.md)
 ↗ [Vulnerability Discovery（漏洞检测）](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
 - ↗ [Vulnerability Scanners](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Discovery（漏洞检测）/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
 

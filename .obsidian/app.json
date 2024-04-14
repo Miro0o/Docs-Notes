@@ -14,9 +14,9 @@
     "Books/"
   ],
   "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": true,
-    "margin": "0",
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "2",
     "downscalePercent": 100
   },
   "focusNewTab": true
