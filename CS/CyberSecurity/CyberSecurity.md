@@ -287,6 +287,9 @@ Security issues sources:
 ↗ [History of Information Systems & Security Systems](History%20of%20Information%20Systems%20&%20Security%20Systems.md)
 
 ↗ [Risk Management](⛈️%20Risk%20Management/Risk%20Management.md)
+- ↗ [Cybersecurity Threats & Attacks](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+- ↗ [Risk Countermeasures & Security Control](⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
+
 ↗ [Information Assurance (IA)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
 ↗ [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
 

@@ -14,7 +14,7 @@
 
 
 ## Risk Management Four Stages (四个阶段)
-### 1️⃣ Risk Management Setup (背景建立)
+### 1️⃣ Risk Management Initialization (背景建立)
 背景建立是网络空间安全风险管理的第一步骤，确定风险管理的对象和范围，确立实施风险管理的准备，进行相关信息的调查和分析。
 
 ![](../../../../../Assets/Pics/Screenshot%202023-11-03%20at%201.39.00PM.png)

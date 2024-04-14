@@ -1,4 +1,4 @@
-# Malicious Code Analysis
+# Malicious Code Detection & Analysis
 
 [TOC]
 
