@@ -7,6 +7,18 @@
 ## Res
 ### Related Topics
 ↗ [Search Services & Information Index](😅%20Wiki%20&%20Resources/Search%20Services%20&%20Information%20Index.md)
+↗ [JS Engines (JS Compilation)](../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
+
+
+### Others
+https://chromium.github.io/octane/#
+Octane 2.0是由Google开发的JavaScript性能基准测试。它包含17个测试用例，这些测试用例涵盖了从运算和字符串操作到DOM操作和数据结构操作等广泛的JavaScript使用场景。这些测试用例旨在测试JavaScript引擎的整体性能和实际应用场景下的性能表现。
+
+在进行Octane 2.0测试时，每个测试用例都会运行多次，并且测试结果将根据这些运行次数计算得出。然后，将所有测试的分数相加，得出最终的得分。
+
+Octane 2.0测试可以帮助开发人员评估不同JavaScript引擎的性能，例如V8引擎，该引擎驱动着Google Chrome浏览器。
+
+需要注意的是，Octane 2.0测试并不是完整的浏览器性能测试，它只测试了JavaScript引擎的性能。因此，它可能无法完全反映浏览器的实际性能表现。
 
 
 
