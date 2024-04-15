@@ -60,8 +60,9 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 📖《x86/x64体系探索与编程》邓志
 📖《一个64位操作系统的设计与实现》田宇
 
-📖 👍 《计算机体系结构基础》 - 胡伟武 汪文祥 苏孟豪 张福新 王焕东 章隆兵 肖俊华 刘 苏 陈新科 吴瑞阳 李晓钰 高燕萍
-https://foxsen.github.io/archbase/
+📖 👍 《计算机体系结构基础》 - 胡伟武 汪文祥 苏孟豪 张福新 王焕东 章隆兵 肖俊华 刘 苏 陈新科 吴瑞阳 李晓钰 高燕萍 | https://foxsen.github.io/archbase/
+- 龙芯中科公司为本书提供了[官方网页](https://www.loongson.cn/LoongsonLab/OpenAccessLibrary)。
+- 机械工业出版社提供的[精排电子版](https://www.loongson.cn/pdf/computer.pdf)。
 #### Other Materials
 📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 📄 https://foxsen.github.io/archbase/

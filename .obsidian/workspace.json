@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Browsers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Browsers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Browsers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md"
+                "file": "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Browsers.md"
               }
             }
           },
@@ -225,10 +225,19 @@
   },
   "active": "359ad757b71638a4",
   "lastOpenFiles": [
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Troubleshooting.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Semi-conductor Media Storage & Flash Storage.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Troubleshooting.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/😅 Wiki & Resources/😅 Wiki & Resources.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/😅 Wiki & Resources/Wiki Projects.md",
+    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/Browsers.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtimes/🚒 JS Engines (JS Compilation)/JS Engines (JS Compilation).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/High Performance Computer （HPC）.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/System Software.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Performance Metrics & Analysis/Performance Metrics & Analysis.md",
     "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
     "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/Firmware and Booting.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Systems on Chip (SOC).md",
@@ -238,7 +247,6 @@
     "Assets/Pics/Pasted image 20240414145108.png",
     "Assets/Pics/Pasted image 20240414144958.png",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🤵 Non-von Neumann Based Microarchitectures/Non-von Neumann Based Microarchitectures.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Semi-conductor Media Storage & Flash Storage.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Circuit Based Secondary Storage.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/SSD (Solid State Disk).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Microfilm & Microfiche.md",
@@ -249,14 +257,6 @@
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Magnetic Media Secondary Storage/Magnetic Media Secondary Storage.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Computer Memory & Storage.md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Primary Storage (Main Memory) Technologies & RAM.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/openGL/openGL.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Graphics Rendering Frameworks.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/IMC (In-Memory Computing)/IMC (In-Memory Computing).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Computer Processors.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/MMU (Memory Management Unit).md",
     "Assets/Pics/Pasted image 20240414133043.png",
     "Assets/Pics/Pasted Image 20240414105435_248.png",
     "Assets/Pics/Screenshot 2024-04-13 at 9.51.04 PM.png",
