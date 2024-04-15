@@ -1,4 +1,4 @@
-# Optical Media Secondary Memory
+# Optical Media Secondary Storage
 
 [TOC]
 

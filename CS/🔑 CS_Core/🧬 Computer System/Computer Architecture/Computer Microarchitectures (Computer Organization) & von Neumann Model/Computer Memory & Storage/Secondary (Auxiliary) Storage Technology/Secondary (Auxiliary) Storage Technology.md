@@ -18,20 +18,20 @@ Even the first computer designs, [Charles Babbage](https://en.wikipedia.org/wik
 
 
 ### Sequential Access Memory
-↗ [Magnetic Tapes](Magnetic%20Media%20Secondary%20Memory/Magnetic%20Tapes.md)
+↗ [Magnetic Tapes](Magnetic%20Media%20Secondary%20Storage/Magnetic%20Tapes.md)
 
-↗ [Compact Disk (CD)](Optical%20Media%20Secondary%20Memory/Compact%20Disk%20(CD).md)
-↗ [Digital Versatile Disk (DVD)](Optical%20Media%20Secondary%20Memory/Digital%20Versatile%20Disk%20(DVD).md)
-↗ [Blue Disk (BD)](Optical%20Media%20Secondary%20Memory/Blue%20Disk%20(BD).md)
+↗ [Compact Disk (CD)](Optical%20Media%20Secondary%20Storage/Compact%20Disk%20(CD).md)
+↗ [Digital Versatile Disk (DVD)](Optical%20Media%20Secondary%20Storage/Digital%20Versatile%20Disk%20(DVD).md)
+↗ [Blue Disk (BD)](Optical%20Media%20Secondary%20Storage/Blue%20Disk%20(BD).md)
 
 
 ### RAM (Random Access Memory)
 #### Disk Drive Technology
-↗ [Disk Technology](Magnetic%20Media%20Secondary%20Memory/💾%20Disk%20Technology/Disk%20Technology.md)
-↗ [Hard Disk Driver (HDD)](Magnetic%20Media%20Secondary%20Memory/Hard%20Disk%20Driver%20(HDD).md)
-↗ [Floppy Disk](Magnetic%20Media%20Secondary%20Memory/Floppy%20Disk.md)
+↗ [Disk Technology](Magnetic%20Media%20Secondary%20Storage/💾%20Disk%20Technology/Disk%20Technology.md)
+↗ [Hard Disk Driver (HDD)](Magnetic%20Media%20Secondary%20Storage/Hard%20Disk%20Driver%20(HDD).md)
+↗ [Floppy Disk](Magnetic%20Media%20Secondary%20Storage/Floppy%20Disk.md)
 
-↗ [SSD (Solid State Disk)](Circuit%20Based%20Secondary%20Memory/SSD%20(Solid%20State%20Disk).md)
+↗ [SSD (Solid State Disk)](Semi-conductor%20Media%20Storage%20&%20Flash%20Storage/SSD%20(Solid%20State%20Disk).md)
 
 
 ### Futural Data Storage

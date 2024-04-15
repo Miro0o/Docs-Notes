@@ -8,14 +8,15 @@
 ### Related Topics
 ↗ [Computer Bus (Datapath) & Interfaces](../Computer%20Bus%20(Datapath)%20&%20Interfaces/Computer%20Bus%20(Datapath)%20&%20Interfaces.md)
 - ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Bus%20(Datapath)%20&%20Interfaces/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Computer Interfaces](../../../Computer%20Interfaces/Computer%20Interfaces.md)
 
 ↗ [Auxiliary Hardware & Peripherals](../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 
 ↗ [ASM /Interfaces](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
-↗ [Secondary (Auxiliary) Storage Technology](../Computer%20Memory/Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
+↗ [Secondary (Auxiliary) Storage Technology](../Computer%20Memory%20&%20Storage/Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
 ↗ [Computer Networking and Communication](../../../../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
-↗ [Operating System /IO System](../../../Operating%20System%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
+↗ [Operating System Theory /IO System](../../../Operating%20System%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
 
 
 
