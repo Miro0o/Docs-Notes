@@ -39,7 +39,7 @@ As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20
 
 
 ### 📚 Storage Virtualization
-↗ [Operating System / Memory Management /Memory Virtualization](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+↗ [Operating System / Memory Management /Memory Virtualization](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
 
 
 ### 👩🏼‍🍳 Service Virtualization
@@ -80,7 +80,7 @@ QEMU
 ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
 
 ↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
-↗ [Graphics Rendering Frameworks](🧩%20Graphics%20Rendering%20Frameworks/Graphics%20Rendering%20Frameworks.md)
+↗ [Graphics Rendering Frameworks](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/🧩%20Graphics%20Rendering%20Frameworks/Graphics%20Rendering%20Frameworks.md)
 
 
 

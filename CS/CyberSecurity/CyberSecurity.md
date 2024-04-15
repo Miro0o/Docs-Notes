@@ -96,7 +96,16 @@ https://www.amazon.com/Internet-Security-Hands-Approach-Computer/dp/1733003967/r
 📖《网络攻防术》朱俊虎，网络空间安全学科规划教材
 
 
-### Info & Res
+### Info & Res & News
+https://www.aqniu.com
+安全牛
+
+安全内参
+
+buffree
+
+
+
 👍 📄 安全圈，黄诚
 https://www.sec-wiki.com/
 https://secdr.org
@@ -208,6 +217,15 @@ vupen
 NSO
 hacking team
 shadow brokers
+
+http://www.china-cia.org.cn
+中国网络安全产业联盟
+
+联盟的名称为“中国网络安全产业联盟”（以下简称“联盟”）。英文名称为China Cybersecurity Industry Alliance，英文缩写CCIA。联盟是由绿盟科技集团股份有限公司等积极投身于网络安全产业发展，开展网络安全理论研究、技术研发、产品研制、测评认证、教育培训、安全服务等相关业务的企事业单位以及用户单位自愿组成，属于全国性非营利行业组织。
+
+联盟的宗旨是搭建产业创新平台，聚合产业势能，营造良好产业发展环境，促进产业创新发展，加强行业自律，提升网络安全技术产业和服务水平，推动网络安全产业做大做强，提升中国网络安全产业竞争力和国际话语权，维护用户网络安全和利益，为实现网络强国战略提供坚实保障。
+
+联盟遵守中华人民共和国宪法、法律、法规，遵守社会道德风尚。接受中央网信办网络安全协调局业务指导和监督管理。
 
 
 
@@ -325,3 +343,7 @@ Lots of links & resources related to cybersecurity
 [👍 remote code execution (RCE)]: https://www.techtarget.com/searchwindowsserver/definition/remote-code-execution-RCE
 
 [👍 信息安全学习卷起来，内含各种学习资源]: https://mp.weixin.qq.com/s/t0wVXVEfqwstgjeZJI9E6A
+
+[网络安全行业全景图（2023年4月第十版）发布 | 安全牛]: https://www.aqniu.com/focus/95236.html
+![](../../Assets/Pics/Pasted%20image%2020240414133043.png)
+

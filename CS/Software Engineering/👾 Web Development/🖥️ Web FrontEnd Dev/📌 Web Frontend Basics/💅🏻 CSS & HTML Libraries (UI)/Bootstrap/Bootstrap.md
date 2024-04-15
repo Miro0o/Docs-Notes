@@ -1,9 +1,15 @@
-# [Bootstrap](https://getbootstrap.com)
+# Bootstrap
 
-<img src="../../../../../../Assets/Pics/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67.png" alt="Bootstrap logo" style="zoom:50%;" />
+[TOC]
 
+
+
+## Res
+![|200](../../../../../../../Assets/Pics/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67.png)
 <p align="center" dir="auto">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  <br>
+  <a href="https://getbootstrap.com" rel="nofollow"><strong>🏠 BootStrap Homepage</strong></a>
   <br>
   <a href="https://getbootstrap.com/docs/5.2/" rel="nofollow"><strong>Explore Bootstrap docs »</strong></a>
   <br>
@@ -21,11 +27,11 @@
 </p>
 
 
-[TOC]
+### Related Topics
 
 
 
-
+## Intro
 ### Install via package manager
 
 Install Bootstrap’s source Sass and JavaScript files via npm, RubyGems, Composer, or Meteor. Package managed installs don’t include documentation or our full build scripts. You can also [use our npm template repo](https://github.com/twbs/bootstrap-npm-starter) to quickly generate a Bootstrap project via npm.
@@ -55,3 +61,6 @@ When you only need to include Bootstrap’s compiled CSS or JS, you can use [jsD
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 ```
+
+
+## Ref

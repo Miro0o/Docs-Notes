@@ -1,4 +1,4 @@
-# Computer Memory
+# Computer Memory & Storage
 
 [TOC]
 
@@ -95,7 +95,6 @@ There are three basic forms of locality:
 ### 1️⃣ Volatile Memory (Registers /Cache Memory /Main Memory)
 #### Registers
 ↗ [Register](../Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
-
 #### RAM (Random Access Memory)
 > RAM is somewhat of a misnomer; a more appropriate name is read-write memory
 > 
@@ -117,7 +116,6 @@ The different types of SRAM include asynchronous SRAM, synchronous SRAM, and pip
 
 ### 2️⃣ Non-Volatile Memory (Secondary Memory)
 ↗ [Secondary (Auxiliary) Storage Technology](Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
-
 #### ROM (Read-Only Memory)
 There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory. 
 - **PROM (programmable read-only memory)** is a variation on ROM. PROMs can be programmed by the user with the appropriate equipment. Whereas ROMs are hardwired, PROMs have fuses that can be blown to program the chip. Once programmed, the data and instructions in PROM cannot be changed. 

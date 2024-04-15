@@ -1,4 +1,4 @@
-# SSD (Solid State Disk)
+# Magnetic Media Secondary Storage
 
 [TOC]
 

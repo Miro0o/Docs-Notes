@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Host Management/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
+                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
+                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
+                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md"
+                "file": "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md"
               }
             }
           },
@@ -225,42 +225,43 @@
   },
   "active": "359ad757b71638a4",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks & OWASP/Web Application Security Risks & OWASP.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/国产替代与信创产业.md",
-    "CS/CyberSecurity/sketch2.md",
-    "CS/CyberSecurity/Sketch.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Architectures.md",
-    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
-    "CS/CyberSecurity/⛈️ Risk Management/Risk Management.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Risk Countermeasures & Security Control.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Information Assurance (IA).md",
-    "CS/CyberSecurity/⛈️ Risk Management/Risk Management Life Circle/Risk Management Life Circle.md",
-    "Assets/Pics/Pasted Image 20240414105435_248.png",
-    "CS/CyberSecurity/⛈️ Risk Management/🐄 Cyberspace Assets/Cyberspace Assets.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🏕️ ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/CIA Threats & Countermeasures.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Binary Engineering & Software Analysis.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Analysis/Malicious Code Detection & Analysis.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Analysis/Malicious Code Detection - A Survey.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Analysis/Malicious Code Detection - A Survey copy.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Troubleshooting.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/FAQ.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/🛌 Single-Board Computer (SBC)/Raspberry Pi/Raspberry Pi.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
     "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
-    "CS/Academics/Academics.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/Firmware and Booting.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Systems on Chip (SOC).md",
+    "Assets/Pics/Pasted image 20240414145150.png",
+    "Assets/Pics/Pasted image 20240414145139.png",
+    "Assets/Pics/Pasted image 20240414145124.png",
+    "Assets/Pics/Pasted image 20240414145108.png",
+    "Assets/Pics/Pasted image 20240414144958.png",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🤵 Non-von Neumann Based Microarchitectures/Non-von Neumann Based Microarchitectures.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Semi-conductor Media Storage & Flash Storage.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Circuit Based Secondary Storage.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/SSD (Solid State Disk).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Microfilm & Microfiche.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/Secure Digital Card.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/USB Flash Drive (USB Stick).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage/PSSD (Portable SSD).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Optical Media Secondary Storage/Optical Media Secondary Storage.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Magnetic Media Secondary Storage/Magnetic Media Secondary Storage.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Computer Memory & Storage.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technology/Semi-conductor Media Storage & Flash Storage",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Primary Storage (Main Memory) Technologies & RAM.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/openGL/openGL.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Graphics Rendering Frameworks.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/IMC (In-Memory Computing)/IMC (In-Memory Computing).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Computer Processors.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/MMU (Memory Management Unit).md",
+    "Assets/Pics/Pasted image 20240414133043.png",
+    "Assets/Pics/Pasted Image 20240414105435_248.png",
     "Assets/Pics/Screenshot 2024-04-13 at 9.51.04 PM.png",
     "Assets/Pics/Screenshot 2024-04-13 at 9.43.42 PM.png",
     "Assets/Pics/Screenshot 2024-04-13 at 9.37.59 PM.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.33.08 PM.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.32.49 PM.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.28.44 PM.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.27.10 PM.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.26.28 PM.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.25.57 PM.png",
-    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Heuristic Algorithms",
     "Assets/Illustrations/Computer Network",
     "Assets/Illustrations/Computer Security",
@@ -270,7 +271,6 @@
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/STMicroelectronics open 64",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/Intel icc",
     "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtimes/🚒 JS Engines (JS Compilation)/Mozilla SpiderMonkey",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Program Execution Related Tools Chain/Compilers/Nvidia nvcc",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",

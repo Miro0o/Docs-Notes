@@ -1,4 +1,4 @@
-# Main Memory
+# Primary Storage (Main Memory) Technologies & RAM
 
 [TOC]
 
@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
-↗ [Primary Storage (Main Memory) Technologies & RAM](../../Computer%20Memory/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
+↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 ↗ [Memory Access](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
@@ -121,7 +121,7 @@ Memory traffic is also reduced with this method. The disadvantage is that main m
 
 
 ## Levels of Cache (Cache Hierarchy)
-> Recall Memroy Hierarchy discussied in [Memory /Memory Hierarchy](../../Computer%20Memory/Computer%20Memory.md)
+> Recall Memroy Hierarchy discussied in [Memory /Memory Hierarchy](../Computer%20Memory%20&%20Storage.md)
 > 
 > Hierarchy in a hierarchy!
 

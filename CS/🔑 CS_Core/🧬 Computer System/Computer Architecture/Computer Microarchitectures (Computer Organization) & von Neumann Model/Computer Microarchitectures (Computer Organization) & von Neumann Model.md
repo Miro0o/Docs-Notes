@@ -8,8 +8,10 @@
 ### Related Topics
 ↗ [Digital Electronics Foundations](../../⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
 ↗ [Physics For CS](../../🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
-
 ↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+
+↗ [Firmware and Booting](../../Firmware%20and%20Booting/Firmware%20and%20Booting.md)
+↗ [Bootstrap (Boot)](../../Firmware%20and%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
 
 
 
@@ -28,7 +30,7 @@ In computer engineering, ==**microarchitecture**, also called **computer orga
 
 
 ## Microarchitecture Models
-### 1️⃣ Von Neumann & Derivative Models
+### 🎯 Von Neumann & Derivative Models
 The **von Neumann architecture** -- also known as the **von Neumann model** or **Princeton architecture** --- is a computer architecture based on a 1945 description by [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), and by others, in the _[First Draft of a Report on the EDVAC](https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC "First Draft of a Report on the EDVAC")_
 
 The document describes a design architecture for an electronic digital computer with these components:
@@ -70,12 +72,47 @@ Today’s version of the **stored-program machine architecture (von neumann mode
 The term "von Neumann architecture" has evolved to refer to any **stored-program computer** in which an **instruction fetch** and a **data operation** cannot occur at the same time (since they share a common bus). This is referred to as the [von Neumann bottleneck](https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck), which often limits the performance of the corresponding system
 
 The design of a von Neumann architecture machine is simpler than in a [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture "Harvard architecture") machine -- which is also a stored-program system, yet has one dedicated set of address and data buses for reading and writing to memory, and another set of address and data buses to fetch instructions.
+#### 1️⃣ Arithmetic Logic Unit
+#### 2️⃣ Control Unit
+#### 3️⃣ Memory Unit
+#### 3️⃣ Input /Output Unit
 
 
-### 2️⃣ Non-Von Neumann Models
+### 🎯 Non-Von Neumann Models
 More is at ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md).
 #### Harvard Based Models
 ![](../../../../../Assets/Pics/Pasted%20image%2020230302132344.png)
+
+
+
+## Microarchitecture Designs
+### Developments of Von Neumann Microarchitecture Designs
+> 🔗 https://foxsen.github.io/archbase/计算机组成原理和结构.html#计算机系统硬件结构发展
+
+#### 1️⃣ CPU-GPU-北桥-南桥四片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145108.png)
+
+
+#### 2️⃣ CPU-北桥-南桥三片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145124.png)
+
+
+#### 3️⃣ CPU-弱北桥-南桥三片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145139.png)
+
+#### 4️⃣ CPU-南桥两片结构
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145150.png)
+
+
+#### 5️⃣ SoC单片结构
+↗ [Systems on Chip (SOC)](Systems%20on%20Chip%20(SOC).md)
+
+![|300](../../../../../Assets/Pics/Pasted%20image%2020240414144958.png)
+
+
+
+### non-Von Neumann Microarchitecture Designs
+↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 
 
 

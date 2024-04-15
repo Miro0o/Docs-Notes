@@ -41,6 +41,7 @@ The term "**microprocessor**" refers to a single implemented processor and, very
 
 > 👀 This section only focuses on processor implementation under von Neumann-based microarchitecture.
 
+
 ### CPU in a von Neumann Model
 ![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
 <small>The Modified von Neumann Architecture</small>
@@ -130,8 +131,6 @@ Therefore, the **minimum clock cycle time** must be at least as great as the **m
 >  What if we “shorten” the distance between registers to shorten the propagation delay?
 >  
 >  We could do this by adding registers between the output registers and the corresponding input registers. But recall that registers cannot change values until the clock ticks, so we have, in effect, increased the number of clock cycles. For example, an instruction that would require two clock cycles might now require three or four (or more, depending on where we locate the additional registers).
-
-
 #### 📉 Maximal Clock Cycle Time
 System components have defined performance bounds, indicating the maximum time required for the components to perform their functions. Manufacturers guarantee that their components will run within these bounds in the most extreme circumstances. When we connect all of the components together serially, where one component must complete its task before another can function properly, it is important to be aware of these performance bounds so we are able to synchronize the components properly. 
 

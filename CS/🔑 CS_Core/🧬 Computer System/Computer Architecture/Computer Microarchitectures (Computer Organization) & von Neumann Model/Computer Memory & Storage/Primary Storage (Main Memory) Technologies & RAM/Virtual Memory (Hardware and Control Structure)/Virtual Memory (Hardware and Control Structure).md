@@ -52,7 +52,7 @@ The most common way to implement virtual memory is by using **paging**, a method
 
 
 ### Locality & Thrashing
-> Recall ↗ [Principle of Locality](../../../Computer%20Memory/Computer%20Memory.md)
+> Recall ↗ [Principle of Locality](../../Computer%20Memory%20&%20Storage.md)
 
 Thus, at any one time, only a few pieces of any given process are in memory, and therefore more processes can be maintained in memory. Furthermore, time is saved because unused pieces are not swapped in and out of memory. However, the OS must be **clever** about how it manages this scheme. In the steady state, practically all of main memory will be occupied with process pieces, so the processor and OS have direct access to as many processes as possible. Thus, when the OS brings one piece in, it must throw another out. If it throws out a piece just before it is used, then it will just have to go get that piece again almost immediately. Too much of this leads to a condition known as **thrashing**: **The system spends most of its time swapping pieces rather than executing instructions.** 
 
