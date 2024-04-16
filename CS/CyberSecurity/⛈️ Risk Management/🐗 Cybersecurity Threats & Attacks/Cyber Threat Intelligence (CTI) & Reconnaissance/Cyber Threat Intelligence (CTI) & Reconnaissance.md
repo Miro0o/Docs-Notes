@@ -8,8 +8,12 @@
 ### Related Topics
 ↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 
-↗ [Vulnerability Assessment（漏洞危害评估）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Assessment（漏洞危害评估）/Vulnerability%20Assessment（漏洞危害评估）.md)
-↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+↗ [Software Vulnerability](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Software%20Vulnerability.md)
+- ↗ [Vulnerability Discovery（漏洞检测）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
+- ↗ [Vulnerability Assessment（漏洞危害评估）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Assessment（漏洞危害评估）/Vulnerability%20Assessment（漏洞危害评估）.md)
+
+↗ [Cyberspace Assets](../../🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
+- ↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
 
 ### Other Resource
@@ -17,6 +21,9 @@
 This repository contains the MITRE ATT&CK® and CAPEC™ datasets expressed in STIX 2.0. See [USAGE](https://github.com/mitre/cti/blob/master/USAGE.md) or [USAGE-CAPEC](https://github.com/mitre/cti/blob/master/USAGE-CAPEC.md) for information on using this content with [python-stix2](https://github.com/oasis-open/cti-python-stix2).
 
 If you are looking for ATT&CK represented in STIX 2.1, please see the [attack-stix-data](https://github.com/mitre-attack/attack-stix-data) GitHub repository. Both MITRE/CTI (this repository) and attack-stix-data will be maintained and updated with new ATT&CK releases for the foreseeable future, but the data model of attack-stix-data includes quality-of-life improvements not found on MITRE/CTI. Please see the [attack-stix-data USAGE document](https://github.com/mitre-attack/attack-stix-data) for more information on the improved data model of that repository.
+
+https://x.threatbook.com
+威胁分析与情报共享社区 | 威胁分析更高效，情报共享更简单
 
 
 
@@ -38,8 +45,6 @@ In this chapter, you will learn the principles and practices of passive reconnai
 - Using scripts to automatically gather OSINT data Obtaining user information
 - Profiling users for password lists
 - Using social media to extract words
-
-
 
 
 
