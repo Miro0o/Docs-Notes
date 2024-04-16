@@ -18,7 +18,7 @@
 ↗ [Operating System (Engineering Part)](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
 ↗ [Operating System (Theory Part)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
 
-↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/📌%20Reverse%20&%20Binary%20Analysis%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 
 
 ### Learning Resources
