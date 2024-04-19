@@ -27,7 +27,8 @@
 CSP was first designed to reduce the attack surface of ↗ [XSS (Cross Site Scripting)](../../../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20&%20OWASP/Injection/XSS%20(Cross%20Site%20Scripting)/XSS%20(Cross%20Site%20Scripting).md) attacks, later versions of the spec also protect against other forms of attack such as Click Jacking.
 
 
-### CSP Directive
+
+## CSP Directive
 > 🔗 https://content-security-policy.com/
 
 The `Content-Security-Policy` header value is made up of one or more directives, multiple directives are separated with a semicolon `;`

@@ -129,6 +129,3 @@ TBD..
 ## Ref
 [Information Security | Wikipedia]: https://en.wikipedia.org/wiki/Information_security#Further_reading
 
-[张瑜, 潘小明, LIUQingzhong, 曹均阔, 罗自强. APT攻击与防御. 清华大学学报(自然科学版), 2017, 57(11): 1127-1133.]: http://jst.tsinghuajournals.com/CN/rhhtml/20171102.htm
-
-[高级威胁攻击技战术分析]: https://0x666.club/tradecraft-analysis/

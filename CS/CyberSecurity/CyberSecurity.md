@@ -42,6 +42,9 @@
 12.[正在申请加入的项目](https://github.com/knownsec/404StarLink/issues)  
 13.[星链计划视频演示栏目-星际奇兵](https://github.com/knownsec/404StarLink/blob/master/column/starlink_project_video.md)
 
+https://tool.chinaz.com
+站长之家
+
 
 ### Learning Resources
 💻 https://testercc.github.io
@@ -93,7 +96,19 @@ https://www.amazon.com/Internet-Security-Hands-Approach-Computer/dp/1733003967/r
 2、安全域维度：应用安全、数据安全、主机安全、办公安全、安全合规。
 有些学习资料是是redteam人员的需要具备的基础，也是blueteam需要掌握的，我会放在`攻防通用`里面。
 
+---
 📖《网络攻防术》朱俊虎，网络空间安全学科规划教材
+
+---
+https://csrc.nist.gov/glossary
+Security Glossary
+
+This Glossary includes **terminology from the final version of NIST's cybersecurity and privacy publications**—[Federal Information Processing Standards](https://csrc.nist.gov/publications/fips) (FIPS), [NIST Special Publications](https://csrc.nist.gov/publications/sp) (SPs), and [NIST Internal/Interagency Reports](https://csrc.nist.gov/publications/ir) (IRs)—and from Committee on National Security Systems (CNSS) Instruction [CNSSI-4009](https://www.cnss.gov/CNSS/issuances/Instructions.cfm). It may be expanded to include relevant terminology from external or supplemental U.S. Government sources, such as applicable laws, regulations, or policy.
+
+---
+https://wiki.wgpsec.org
+狼组安全团队公开知识库
+致力于打造信息安全乌托邦
 
 
 ### Info & Res & News
@@ -192,6 +207,8 @@ https://bbs.kanxue.com
 https://www.52pojie.cn
 
 ---
+**阿里云 先知平台**
+https://xz.aliyun.com
 
 
 ### Certificates
@@ -212,11 +229,15 @@ CISA
 CISM
 
 
-### Security Companies & Organizations
+### Security Institutions & Companies & Organizations
 vupen
 NSO
 hacking team
 shadow brokers
+
+https://csrc.nist.gov
+NIST CSRC (Computer Security Resource Center)
+The **Computer Security Resource Center (CSRC)** has information on many of NIST's cybersecurity- and information security-related projects, publications, news and events. CSRC supports people and organizations in government, industry, and academia—both in the U.S. and internationally.
 
 http://www.china-cia.org.cn
 中国网络安全产业联盟

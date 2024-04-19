@@ -110,6 +110,18 @@ Overall, Podman cannot always work as a replacement for Docker. But you can defi
 
 
 
+## 👉 Container exited with code 0
+#docker #container 
+
+The answer is actually the first comment. I'll explain Miguel's comment a bit.
+
+First, we need to understand that a Docker container runs a single command. The container will be running as long as that process the command started is running. Once the process is completed and exits then the container will stop.
+
+With that understanding, we can make an assumption of what is happening in your case. When you start your `dvpt` service it runs the command `mkdir /root/essai/`. That command creates the folder and then exits. At this point, the Docker container is stopped because the process exited (with status 0, indicating that `mkdir` completed with no error).
+
+[exited with code 0 docker | Stackoverflow]: https://stackoverflow.com/a/44891777/16542494
+
+
 ## Ref
 1. 👍 [Docker配置文件-Dockerfile详解](https://www.cnblogs.com/pengrj/p/13600185.html) 
 2. [Docker容器的创建、启动、和停止](https://www.cnblogs.com/linjiqin/p/8608975.html) 
