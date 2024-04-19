@@ -55,6 +55,8 @@ ET is inspired & based on [**mosh**](https://mosh.org/). ([ssh](https://www.open
 
 `curl` is powered by `libcurl` for all transfer-related features.
 
+[How to trust self-signed certificate in cURL command line? | Unix & Linux]: https://unix.stackexchange.com/a/582310/541298
+
 ---
 GNU `Wget` is a free utility for non-interactive download of files from the Web.  It supports HTTP, HTTPS, and FTP protocols, as well as retrieval through HTTP proxies.
 

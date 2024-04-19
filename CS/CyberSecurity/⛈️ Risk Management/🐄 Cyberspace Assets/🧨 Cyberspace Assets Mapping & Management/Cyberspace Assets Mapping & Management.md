@@ -7,10 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Reconnaissance & Exploration](../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
-↗ [Active Recon](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
+↗ [Active Recon](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
 
 ↗ [Attack Surface Management (ASM)](../🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
-↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
 http://whatweb.bugscaner.com/look/
 
@@ -50,13 +50,13 @@ _Censys_ helps organizations, individuals, and researchers find and monitor eve
 ### 1️⃣ Network Assets Detection
 > 网络资产探测是指利用一定技术手段获取目标主机的设备属性信息和应用属性信息，包括IP存活性探测、端口/服务探测、操作系统探测、流量采集、别名解析、DNS探测、应用类型探测等方面，如图2所示。
 
-↗ [Active Recon](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
+↗ [Active Recon](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
 
 
 ### 2️⃣ Network Assets Identification
 > 网络资产识别主要有设备组件识别、应用组件识别、业务类型推断3个方面，常用的技术手段是资产指纹比对。网络资产在协议实现、网络应用等方面存在差异，如开放的端口/服务信息、banner信息、Web网页数据等，对这些差异进行特征提取可得到该资产的特征指纹，网络资产指纹库积累了大量网络资产指纹。资产指纹比对是将目标主机的特征指纹和指纹库进行匹配，从而实现资产属性识别。
 
-↗ [Active Recon](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
+↗ [Active Recon](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Active%20Recon/Active%20Recon.md)
 
 
 ### 3️⃣ Network Topology Construction

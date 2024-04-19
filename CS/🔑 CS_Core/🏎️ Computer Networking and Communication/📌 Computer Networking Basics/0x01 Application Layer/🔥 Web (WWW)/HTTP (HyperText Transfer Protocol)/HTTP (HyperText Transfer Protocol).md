@@ -5,16 +5,17 @@
 
 
 ## Res
+### Related Topics
 ↗ [HTTPS (HTTP Security)](../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md)
 
 
+### Learning Resoruces
 📂 [MDN Docs /HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [Tutorials on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP#tutorials)
 - [MDN Docs Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP#reference)
 - [Tools & resources](https://developer.mozilla.org/en-US/docs/Web/HTTP#tools_resources) 
 
 📂 [HTTP Specifications](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications)
-
 
 🎬【深入浅出计算机网络 - 6.7 万维网WWW】 https://www.bilibili.com/video/BV1Bd4y1z7bd/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -46,15 +47,10 @@
 
 ### 🎯 Basic Aspects of HTTP
 #### Simple
-
 #### Extensible
-
 #### Stateless, but not Sessionless
-
-
 #### 🐝 HTTP and Connection
 Before a client and server can exchange an HTTP request/response pair, they must establish a TCP connection, a process which requires several round-trips. 
-
 - The default behavior of **HTTP/1.0** is to open a separate TCP connection for each HTTP request/response pair. This is less efficient than sharing a single TCP connection when multiple requests are sent in close succession.
 
 Relentless efforts have been made to mitigate this flaw:
@@ -65,7 +61,7 @@ Relentless efforts have been made to mitigate this flaw:
 [![img](../../../../../../../Assets/Pics/336px-HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg.png)](https://en.wikipedia.org/wiki/File:HTTP-1.1_vs._HTTP-2_vs._HTTP-3_Protocol_Stack.svg)
 <small>Protocol Stack of HTTP/3 compared to HTTP/1.1 and HTTP/2</small>
 
-More at ↗ [HTTP Connection Management](HTTP%20Basics/HTTP%20Connection%20Management.md)
+More at ↗ [HTTP Connection Management](📌%20HTTP%20Basics/HTTP%20Connection%20Management.md)
 
 
 
@@ -81,7 +77,7 @@ Here is a list of common features controllable with HTTP:
 
 
 ## HTTP Messages Format
-As in ↗ [HTTP Messages Format](HTTP%20Basics/HTTP%20Messages%20Format.md)
+As in ↗ [HTTP Messages Format](📌%20HTTP%20Basics/HTTP%20Messages%20Format.md)
 
 
 
@@ -90,7 +86,7 @@ As in ↗ [HTTP Messages Format](HTTP%20Basics/HTTP%20Messages%20Format.md)
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230319141942.png)
 
-More at ↗ [HTTP Messages Format](HTTP%20Basics/HTTP%20Messages%20Format.md)
+More at ↗ [HTTP Messages Format](📌%20HTTP%20Basics/HTTP%20Messages%20Format.md)
 
 
 

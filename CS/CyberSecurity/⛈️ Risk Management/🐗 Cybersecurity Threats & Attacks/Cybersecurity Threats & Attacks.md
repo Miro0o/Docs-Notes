@@ -22,6 +22,16 @@
 
 
 ## Intro
+### IOA (Indicator of Attack)
+
+
+### IOC (Indicator of Compromise)
+
+
+### POC (Proof of Concepts)
+
+
+### Exp (Exploit)
 
 
 
@@ -84,3 +94,8 @@
 - 基于名字空间/名字的散列值 (MD5/SHA1) 生成
 - 基于随机数生成
 
+[张瑜, 潘小明, LIUQingzhong, 曹均阔, 罗自强. APT攻击与防御. 清华大学学报(自然科学版), 2017, 57(11): 1127-1133.]: http://jst.tsinghuajournals.com/CN/rhhtml/20171102.htm
+
+[高级威胁攻击技战术分析]: https://0x666.club/tradecraft-analysis/
+
+[IOA VS IOC]: https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/ioa-vs-ioc/
