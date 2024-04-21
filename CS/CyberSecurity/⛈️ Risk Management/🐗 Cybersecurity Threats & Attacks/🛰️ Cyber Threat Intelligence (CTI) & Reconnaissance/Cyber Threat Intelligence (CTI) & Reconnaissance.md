@@ -121,6 +121,11 @@ FortiGuard
 - 漏洞和漏洞利用代码；
 - 攻陷指标（IoC）。
 
+---
+https://github.com/hslatman/awesome-threat-intelligence/tree/main?tab=readme-ov-file#research
+
+A concise definition of Threat Intelligence: _evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard_.
+
 
 ### Reconnaissance
 > Penetration

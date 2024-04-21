@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+↗ [Digital Forensics and Incident Response (DFIR)](../Disaster%20&%20Incidence%20Response%20(IR)/Digital%20Forensics%20and%20Incident%20Response%20(DFIR).md)
 
 
 

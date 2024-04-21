@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/PCI (Peripheral Component Interconnect)/PCIe (PCI-Express)/PCIe (PCI-Express).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/PCI (Peripheral Component Interconnect)/PCIe (PCI-Express)/PCIe (PCI-Express).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/PCI (Peripheral Component Interconnect)/PCIe (PCI-Express)/PCIe (PCI-Express).md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/PCI (Peripheral Component Interconnect)/PCIe (PCI-Express)/PCIe (PCI-Express).md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md"
               }
             }
           },
@@ -224,8 +224,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "136465c9f65b5c06",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/Digital Forensics and Incident Response (DFIR).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Forensics & Traceability Analysis.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/PCI (Peripheral Component Interconnect)/PCIe (PCI-Express)/PCIe (PCI-Express).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/AGP (Accelerated Graphics Port)/AGP (Accelerated Graphics Port).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/ISA (Industry Standard Architecture)/ISA (Industry Standard Architecture).md",
     "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/PCI (Peripheral Component Interconnect)/PCI (Peripheral Component Interconnect).md",
@@ -243,16 +247,12 @@
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/TTP (Tactics, Techniques, and Procedure).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
     "CS/🔑 CS_Core/🧰 Generic Tools & Projects/😅 Wiki & Resources/Wiki Projects.md",
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Operation Center (SOC)/Security Operation Center (SOC).md",
     "CS/Software Engineering/👷🏻 Dev Pattern/RX/FRP (FRP (Functional Reactive Programming)/FRP (FRP (Functional Reactive Programming).md",
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Hunting.md",
     "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/goby.md",
     "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Commercial Products/tailscale.md",
-    "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/🥋 Orchestration & Management/API Gateway/ngrok/ngrok.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Operation Center (SOC)/Security Orchestration, Automation, and Response (SOAR).md",
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Operation Center (SOC)",
     "CS/Web3 & Cryptocurrency/Cryptocurrency/Mining Software",
     "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Cobalt Strike (Previous Armitage)",
