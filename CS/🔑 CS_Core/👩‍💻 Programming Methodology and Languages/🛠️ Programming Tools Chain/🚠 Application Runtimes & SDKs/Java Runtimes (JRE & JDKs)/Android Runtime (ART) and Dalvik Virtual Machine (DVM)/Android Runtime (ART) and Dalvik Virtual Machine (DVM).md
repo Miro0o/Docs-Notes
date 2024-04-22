@@ -1,4 +1,4 @@
-# Android Runtime (ART) and Dalvik
+# Android Runtime (ART) and Dalvik Virtual Machine (DVM)
 
 [TOC]
 

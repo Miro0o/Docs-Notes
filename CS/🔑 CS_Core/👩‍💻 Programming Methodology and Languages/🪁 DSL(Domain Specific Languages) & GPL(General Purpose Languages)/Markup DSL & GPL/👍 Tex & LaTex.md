@@ -25,7 +25,7 @@ This is an unofficial reference manual for LaTeX. See below for the [Table of C
 
 
 ### Other Links
-↗ [Tex & LaTex Editors](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Editors/Tex%20&%20LaTex%20Editors.md)
+↗ [Tex & LaTex Related Tools](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Tex%20&%20LaTex%20Related%20Tools/Tex%20&%20LaTex%20Related%20Tools.md)
 
 https://www.overleaf.com/project
 online LaTex editor
@@ -85,9 +85,11 @@ Berkeley计算机系教授 Christos Papadimitriou 曾说过一句半开玩笑的
 🔗 https://blog.csdn.net/qingdujun/article/details/80805613
 about the layout of the article. 
 
+
 ### math syntax basics
 🔗 https://zhuanlan.zhihu.com/p/124275975
 about the math equation in tex.
+
 
 ### set relations
 🔗 https://cloud.tencent.com/developer/article/1495188
@@ -111,4 +113,6 @@ about the math equation in tex.
 
 
 ## Ref
-
+[LaTex支持中文的三种方式 | CSDN]: http://t.csdnimg.cn/UvhOd
+[LaTeX Error: File `ctex.sty' not found | StackExchange]: https://tex.stackexchange.com/q/687540/312951
+[How do I add a .sty file to my MacTeX/TeXShop installation? | StackExchange]: https://tex.stackexchange.com/q/10252/312951

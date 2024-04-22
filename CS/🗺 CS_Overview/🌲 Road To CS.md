@@ -517,7 +517,10 @@ Launchpad is an open source suite of tools that help people and teams to work to
 
 ---
 https://www.howtogeek.com
-news & tips & articles about IT/CS 
+news & tips & articles about IT/CS
+
+---
+https://forum.exetools.com
 
 
 ### Campus Lifes

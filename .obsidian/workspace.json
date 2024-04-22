@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Disk Interfaces.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Disk Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md",
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Disk Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Disk Interfaces.md"
+                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Disk Interfaces.md"
               }
             }
           },
@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +223,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ad63de66a49eac",
+  "active": "136465c9f65b5c06",
   "lastOpenFiles": [
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Computer Bus (Datapath) & Interfaces.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces/Expansion Bus (Ports & Computer Bus Interfaces)/Disk Interfaces.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs)/Android Runtime (ART) and Dalvik Virtual Machine (DVM)/Android Runtime (ART) and Dalvik Virtual Machine (DVM).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Decompiling Techniques/Decompiling Techniques.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Disassembly Techniques/Disassembly Techniques.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/SRE (Software Reverse Engineering).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Anti-Reverse Engineering & Software Protection/Anti-Reverse Engineering & Software Protection.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/JEB/JEB.md",
+    "CS/🗺 CS_Overview/🌲 Road To CS.md",
+    "Assets/Pics/Pasted image 20240422152104.png",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/Docs Tools/Tex & LaTex Related Tools/Tex & LaTex Related Tools.md",
+    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
+    "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
+    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
+    "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/Digital Forensics and Incident Response (DFIR).md",
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Forensics & Traceability Analysis/Forensics & Traceability Analysis.md",
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
@@ -236,23 +252,7 @@
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Network Management/Network Management Basics.md",
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Active Recon/DNS & Domain Reconnaissance.md",
     "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Active Recon/Hosts(IP) & Network Enumeration.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Active Recon/Active Recon.md",
-    "CS/Software Engineering/👾 Web Development/🥪 Middleware/🪇 Reverse Proxy Servers/Reverse Proxy Servers.md",
-    "CS/Software Engineering/👾 Web Development/🥪 Middleware/🪇 Reverse Proxy Servers/frp (A Fast Reverse Proxy).md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/Reverse Tunneling.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Network/Windows Network.md",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Microsoft Operating Systems/Windows/Windows.md",
     "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Network",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🏕️ ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）/ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/TTP (Tactics, Techniques, and Procedure).md",
-    "CS/🔑 CS_Core/🧰 Generic Tools & Projects/😅 Wiki & Resources/Wiki Projects.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Operation Center (SOC)/Security Operation Center (SOC).md",
-    "CS/Software Engineering/👷🏻 Dev Pattern/RX/FRP (FRP (Functional Reactive Programming)/FRP (FRP (Functional Reactive Programming).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Hunting.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/goby.md",
-    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT (Network Address Translation).md",
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Operation Center (SOC)",
     "CS/Web3 & Cryptocurrency/Cryptocurrency/Mining Software",
     "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Cobalt Strike (Previous Armitage)",
@@ -268,7 +268,6 @@
     "Assets/Pics/Pasted Image 20240414105435_248.png",
     "Assets/Pics/Screenshot 2024-04-13 at 9.51.04 PM.png",
     "Assets/Pics/Screenshot 2024-04-13 at 9.43.42 PM.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.37.59 PM.png",
     "CS/🔑 CS_Core/🦄 Algorithm & Data Structure/Heuristic Algorithms",
     "Assets/Illustrations/Computer Network",
     "Assets/Illustrations/Computer Security",

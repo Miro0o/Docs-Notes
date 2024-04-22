@@ -20,7 +20,7 @@
 ↗ [ArkTS](../../../Compiled%20Languages/🐝%20JavaScript-Based%20Languages/ArkTS/ArkTS.md)
 
 ↗ [JS Engines (JS Compilation)](../JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
-↗ [Android Runtime (ART) and Dalvik](../Java%20Runtimes%20(JRE%20&%20JDKs)/Android%20Runtime%20(ART)%20and%20Dalvik/Android%20Runtime%20(ART)%20and%20Dalvik.md)
+↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](../Java%20Runtimes%20(JRE%20&%20JDKs)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM).md)
 
 
 
