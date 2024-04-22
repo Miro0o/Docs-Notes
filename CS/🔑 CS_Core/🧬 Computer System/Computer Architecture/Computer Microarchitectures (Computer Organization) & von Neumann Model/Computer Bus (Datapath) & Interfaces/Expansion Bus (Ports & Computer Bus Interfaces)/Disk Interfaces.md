@@ -26,4 +26,12 @@ Today, the majority of computers are switching from ATA and SCSI to SATA disk dr
 
 
 ## Ref
+[SSD中，SATA、m2、PCIE和NVME各有什么意义呢？ - 知乎]: https://www.zhihu.com/question/48972075
 
+[#SATA# 常用硬盘一览 之《协议、总线、接口》| CSDN]: http://t.csdnimg.cn/IEn6O
+
+现实生活中，硬盘的种类可谓是多种多样，有时候搞得头晕。今天，我们总结一下。并不会涉及很深的知识点，只是比较初浅的认识。lr
+
+硬盘想要正常工作，离不开三个条件：数据协议做沟通、传输总线做媒介、物理接口来接入。
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240422152104.png)

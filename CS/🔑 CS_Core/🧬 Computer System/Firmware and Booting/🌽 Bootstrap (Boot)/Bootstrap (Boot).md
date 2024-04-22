@@ -130,7 +130,8 @@ Large and complex systems may have boot procedures that proceed in multiple phas
 > The BIOS will soon be dead: Intel has announced [plans to completely replace it with UEFI](https://www.anandtech.com/show/12068/intel-to-remove-bios-support-from-uefi-by-2020) on all their [chipsets](https://www.pugetsystems.com/labs/articles/Z97-vs-H97---What-is-the-Difference-562/) by 2020.
 
 [👍 计算机是如何启动的? | 阮一峰]: https://www.ruanyifeng.com/blog/2013/02/booting.html
-计算机的整个启动过程分成四个阶段。
+
+计算机的整个(BIOS)启动过程分成四个阶段。
 1. 第一阶段：BIOS
 	1. 硬件自检
 	2. 启动顺序

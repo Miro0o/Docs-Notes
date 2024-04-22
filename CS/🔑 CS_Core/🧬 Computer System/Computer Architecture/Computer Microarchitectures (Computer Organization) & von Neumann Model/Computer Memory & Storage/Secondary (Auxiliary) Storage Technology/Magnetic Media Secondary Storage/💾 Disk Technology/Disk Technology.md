@@ -14,7 +14,7 @@
 
 
 ### Disk Interfaces
-↗ [Disk Interfaces](../../../../Computer%20Bus%20(Datapath)%20&%20Interfaces/Disk%20Interfaces.md)
+↗ [Disk Interfaces](../../../../Computer%20Bus%20(Datapath)%20&%20Interfaces/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Disk%20Interfaces.md)
 
 
 

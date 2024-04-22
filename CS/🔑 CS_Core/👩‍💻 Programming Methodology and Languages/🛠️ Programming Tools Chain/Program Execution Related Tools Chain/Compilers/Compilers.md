@@ -26,7 +26,7 @@
 - ↗ [Google V8](../../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Google%20V8/Google%20V8.md)
 
 ↗ [Java Runtimes (JRE & JDKs)](../../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Runtimes%20(JRE%20&%20JDKs).md)
-- ↗ [Android Runtime (ART) and Dalvik](../../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Android%20Runtime%20(ART)%20and%20Dalvik/Android%20Runtime%20(ART)%20and%20Dalvik.md)
+- ↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](../../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM).md)
 - ↗ [Java Virtual Machine (JVM)](../../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 
 ↗ [Huawei HarmonyOS Runtimes & ArkCompiler](../../🚠%20Application%20Runtimes%20&%20SDKs/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler.md)
