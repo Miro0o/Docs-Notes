@@ -1,12 +1,23 @@
-# Disk Interfaces
+# Disk Buses & Interfaces
 
 [TOC]
 
 
+
 ## Res
+### Related Topics
+↗ [PCIe (PCI-Express)](../PCI%20(Peripheral%20Component%20Interconnect)/PCIe%20(PCI-Express)/PCIe%20(PCI-Express).md)
+
 
 
 ## Intro
+> 🔗 http://t.csdnimg.cn/IEn6O
+
+硬盘想要正常工作，离不开三个条件：数据协议做沟通、传输总线做媒介、物理接口来接入。
+
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020240422152104.png)
+
+---
  Disk interface
 	+ IDE (Iintegrated Drive Electronics)
 		+ variant of IDE --- **ATA** ()
@@ -28,10 +39,14 @@ Today, the majority of computers are switching from ATA and SCSI to SATA disk dr
 ## Ref
 [SSD中，SATA、m2、PCIE和NVME各有什么意义呢？ - 知乎]: https://www.zhihu.com/question/48972075
 
-[#SATA# 常用硬盘一览 之《协议、总线、接口》| CSDN]: http://t.csdnimg.cn/IEn6O
+[👍 #SATA# 常用硬盘一览 之《协议、总线、接口》| CSDN]: http://t.csdnimg.cn/IEn6O
 
-现实生活中，硬盘的种类可谓是多种多样，有时候搞得头晕。今天，我们总结一下。并不会涉及很深的知识点，只是比较初浅的认识。lr
+现实生活中，硬盘的种类可谓是多种多样，有时候搞得头晕。今天，我们总结一下。并不会涉及很深的知识点，只是比较初浅的认识。
 
-硬盘想要正常工作，离不开三个条件：数据协议做沟通、传输总线做媒介、物理接口来接入。
+[👍 ATA/SATA/SCSI/SAS/FC总线简介 | cnblog]: https://www.cnblogs.com/liuzhengliang/p/5548451.html
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240422152104.png)
+ATA/SATA/SCSI/SAS/FC 都是应用于存储领域的总线，
+- ATA 发展至今经过多次修改和升级，每新一代的接口都建立在前一代标准之上，并保持着向后兼容性。到目前为止，一共推出7 个版本： ATA-1 、 ATA-2 、 ATA-3 、 ATA-4 、 ATA-5 、 ATA-6 、 ATA-7 。
+- SATA 有两个标准，分别为 SATA 和 SATA II 。 SATA 的有效带宽为 150MB/s ，数据速率为 1.5Gbps( 传输的数据经过了8B/10B 变换， 150MB/s*10=1.5Gbps) ， SATA II 的有效带宽为 300MB/s ，数据速率为 3Gbps 。
+- 内置型SCSI 总线接口有三种：分别为50PIN 、68PIN 和80PIN。 外置型SCSI 总线接口有七种：分别为Apple SCSI 、Centronics 、SCSI-2 、Sun Microsystem 、SCSI-3 、Wide SCSI-2 、SCA。
+- etc..

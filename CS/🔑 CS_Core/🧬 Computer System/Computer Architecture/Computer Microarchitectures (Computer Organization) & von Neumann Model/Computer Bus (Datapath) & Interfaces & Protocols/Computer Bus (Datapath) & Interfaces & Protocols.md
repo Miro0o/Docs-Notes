@@ -1,4 +1,4 @@
-# Computer Bus (Datapath) & Interfaces
+# Computer Bus (Datapath) & Interfaces & Protocols
 
 [TOC]
 
@@ -46,6 +46,13 @@
 不同的总线包含的内容也有所不同，有的总线包含以上所有的层级，有的总线可能只包含部分层级。
 
 总线技术的应用简化了计算机的设计，使得人们可以专注于部件的开发，促进了分工合作。计算机在发展过程中，形成了各种各样的总线，有些总线发展为行业标准，有专门的组织和结构去制定规范，有些总线虽然没有明文规定，却也成为事实上的标准。这些总线，有的已经逐渐消失，有的还在不断演进。随着计算机产业的发展，未来还会不断出现新的总线。计算机总线的发展趋势是：内部化、串行化和统一化。随着集成电路行业器件集成度的不断提高，越来越多的功能被集成到单个芯片中，因此许多外部总线逐渐被内部化。串行总线由于占用的引脚个数少，总线速度高，因此逐渐替代并行总线成为主流。在市场竞争中，由于马太效应，不同设备的接口逐渐向少数几种总线标准集中，特别是在消费电子领域，USB接口逐渐成为IO设备的标准接口，总线接口越来越统一化。
+
+---
+🔗 https://en.wikipedia.org/wiki/Bus_(computing)#External_links
+
+![](../../../../../../Assets/Pics/Screenshot%202024-04-22%20at%2011.00.41%20PM.png)
+
+In computer architecture, a bus (historically also called data highway or databus) is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including communication protocols
 
 
 ### Features of Bus

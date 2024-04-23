@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../Computer%20Bus%20(Datapath)%20&%20Interfaces/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 ↗ [NIC (Network Adapter)](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC%20(Network%20Adapter).md)
 
 
