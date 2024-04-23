@@ -14,6 +14,9 @@ Other good resources:
 3. 🔥 https://cs-sop.org/ is a super cool platform which makes SoPs from past CS applicants accessible to all.
 4. [Get LaTeX for Mac, Linux, or Windows](https://www.latex-project.org/get/)
 
+https://berkeleyglobal.zendesk.com/hc/en-us/articles/6831453854231-How-can-I-write-a-good-Statement-of-Purpose-essay
+How can I write a good Statement of Purpose essay? | UCB
+
 
 
 ## Intro

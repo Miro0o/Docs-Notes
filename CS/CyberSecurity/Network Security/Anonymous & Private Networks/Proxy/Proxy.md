@@ -114,3 +114,5 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 [拆解“翻墙”：50个“翻墙”行政处罚案例之解析]: https://mp.weixin.qq.com/s/4AUBEY39EaIhbxjO94J7Og
 
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaSnMfKUYm4sOz6tmzmupuLMQFxalo6DkfFsqbg1ibgCq7z3tIepetsiaDnuUUunds8fgsb7VoeF20DnpA29sZ1icA/640?wx_fmt=png)
+
+[SwitchyOmega | github]: https://github.com/FelisCatus/SwitchyOmega

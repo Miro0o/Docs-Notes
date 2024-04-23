@@ -6,7 +6,7 @@
 
 ## OS Programming Abstraction
 ### Bus
-↗ [Computer Bus (Datapath) & Interfaces](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces/Computer%20Bus%20(Datapath)%20&%20Interfaces.md)
+↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
 
 
 ### CPU
