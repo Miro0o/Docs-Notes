@@ -26,7 +26,7 @@
 
 
 ### TCP/IP 4 Layer Model
-↗ [Internet and TCP&IP Protocol Suites](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20TCP&IP%20Protocol%20Suites/Internet%20and%20TCP&IP%20Protocol%20Suites.md)
+↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
 
 
 ### Other Network Protocol Suites

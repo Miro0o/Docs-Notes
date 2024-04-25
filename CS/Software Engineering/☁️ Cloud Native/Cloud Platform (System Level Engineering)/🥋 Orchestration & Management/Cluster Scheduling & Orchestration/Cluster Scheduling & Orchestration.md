@@ -7,7 +7,7 @@
 ## Res
 📂 https://landscape.cncf.io/guide#orchestration-management--scheduling-orchestration
 
-↗ [CloudFoundry](../../../🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/PaaS/CloudFoundry.md)
+↗ [CloudFoundry](../../../🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/PaaS%20(Platform%20as%20a%20Service)/CloudFoundry.md)
 
 
 

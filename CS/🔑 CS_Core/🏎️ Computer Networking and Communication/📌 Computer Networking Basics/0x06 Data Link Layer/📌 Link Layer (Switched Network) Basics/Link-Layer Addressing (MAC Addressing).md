@@ -76,7 +76,7 @@ This is exactly the network layer service to route package from network to netwo
 
 ## Link Layer (Tier-2) Switches Addressing
 
-↗ [Link Layer Switches Functions](Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switches/Link%20Layer%20Switches%20Functions.md)
+↗ [Link Layer (Tier-2) Switch](Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switch.md)
 
 
 

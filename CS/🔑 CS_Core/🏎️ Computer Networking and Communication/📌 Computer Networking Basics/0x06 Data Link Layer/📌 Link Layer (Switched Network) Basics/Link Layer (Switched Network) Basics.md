@@ -9,7 +9,7 @@
 
 ## Intro
 ### Link Layer Services
-↗ [Link Layer (Tier-2) Switches](Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switches/Link%20Layer%20(Tier-2)%20Switches.md)
+↗ [Link Layer (Tier-2) Switch](Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switch.md)
 
 
 ### Link Layer Switches

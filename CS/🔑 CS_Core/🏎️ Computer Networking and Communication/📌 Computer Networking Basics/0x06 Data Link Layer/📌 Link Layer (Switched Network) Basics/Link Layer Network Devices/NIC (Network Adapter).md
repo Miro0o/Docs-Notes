@@ -7,7 +7,12 @@
 ## Res
 【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=27&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+
+### Related Topics
+↗ [Virtual NIC (vNIC)](../../../../👰🏻‍♂️%20Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Physical%20Layer/Virtual%20NIC%20(vNIC)/Virtual%20NIC%20(vNIC).md)
 ↗ [MAC (Media Access Control) Protocol](../📌%20MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
+
+↗ [Physical Layer Network Devices](../../../0x07%20Physical%20Layer/Physical%20Layer%20Network%20Devices/Physical%20Layer%20Network%20Devices.md)
 
 
 

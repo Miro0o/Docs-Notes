@@ -17,6 +17,8 @@
 ↗ [OpenSSF (Open Source Security Foundation)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family).md)
 
+↗ [OpenStack](../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/OpenStack/OpenStack.md)
+
 
 ### Communities
 https://www.freedesktop.org/

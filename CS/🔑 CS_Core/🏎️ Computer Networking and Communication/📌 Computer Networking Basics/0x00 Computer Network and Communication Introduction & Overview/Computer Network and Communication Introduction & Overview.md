@@ -17,14 +17,14 @@
 
 
 ### Comput Network Taxonomy 
-#### ☎️ Switching Methods
+#### by Switching Methods
 ↗ [History of Computer Networks and Internet /Evolution of Communication Technologies](History%20of%20Computer%20Networks.md)
-#### 🧞‍♀️ Users
+#### by Users
 Public Network
 Private Network
-#### ⛓️ Link Media
+#### by Link Media
 ↗ [0x07 Physical Layer](../0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
-#### 🌄 Spatial Scope (Geographic Scale)
+#### by Spatial Scope (Geographic Scale)
 > 🔗 [Computer network](https://en.wikipedia.org/wiki/Computer_network)
 
 ![Data Networks classification by spatial scope.svg](../../../../../Assets/Pics/150px-Data_Networks_classification_by_spatial_scope.svg-20221203085442189.png)
@@ -51,7 +51,7 @@ Private Network
 - [Cloud](https://en.wikipedia.org/wiki/Internet_area_network)
 - [Internet](https://en.wikipedia.org/wiki/Internet "Internet")
 - [Interplanetary Internet](https://en.wikipedia.org/wiki/Interplanetary_Internet)
-#### 🕸️ Topology
+#### by Topology
 Common layouts are:
 - [Bus network](https://en.wikipedia.org/wiki/Bus_network "Bus network"): all nodes are connected to a common medium along this medium.
 	- This was the layout used in the original [Ethernet](https://en.wikipedia.org/wiki/Ethernet "Ethernet"), called [10BASE5](https://en.wikipedia.org/wiki/10BASE5 "10BASE5") and [10BASE2](https://en.wikipedia.org/wiki/10BASE2 "10BASE2"). 

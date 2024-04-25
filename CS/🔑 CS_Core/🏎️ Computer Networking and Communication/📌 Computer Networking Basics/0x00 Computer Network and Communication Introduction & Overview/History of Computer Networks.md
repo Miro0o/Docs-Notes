@@ -5,7 +5,8 @@
 
 
 ## Res
-↗ [Internet and TCP&IP Protocol Suites](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20TCP&IP%20Protocol%20Suites/Internet%20and%20TCP&IP%20Protocol%20Suites.md)
+### Related Topics
+↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
 
 
 
@@ -22,14 +23,10 @@
 
 ### 3️⃣ Packet Switching (Store-Forward Switching) (分组交换)
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%2010.13.01%20AM.png)
-
-
 #### 3️⃣-1️⃣ Datagram Switching Network
 > Connection-less, UDP
 
 **Datagram packet switching** is a packet switching method that treats each packet, or datagram, as a separate entity. Each packet is routed via the network on its own. It is a service that **does not require a connection**. Because there is no specific channel for a connection session, there is no need to reserve resources. As a result, packets have a header with all the destination’s information. The intermediate nodes assess a packet’s header and select an appropriate link to a different node closer to the destination.
-
-
 #### 3️⃣-2️⃣ Virtual Circuit Switching Network
 > Connection-oriented, TCP
 
@@ -39,8 +36,6 @@
 ### Summary
 #### Circuit Switching 🆚 Message Switching 🆚 Packet Switching 
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%209.41.57%20AM.png)
-
-
 #### Datagram Switching 🆚 VS Switching
 ##### Datagram Switching Pros & Cons
 **Advantages of Datagram Switching:**
@@ -53,7 +48,6 @@
 - Higher error rates: Datagram switching is more susceptible to errors than virtual circuit switching, as there is no guaranteed delivery or error correction.
 - Lack of QoS: Datagram switching does not provide any Quality of Service guarantees, meaning that different types of traffic may be treated equally.
 - Increased network congestion: Without a pre-established path for each packet, datagram switching can lead to increased network congestion and potential delays.
-
 ##### VC Switching Pros & Cons
 **Advantages of Virtual Circuit Switching:**
 - Guaranteed delivery: Virtual circuit switching provides guaranteed delivery of packets, reducing the likelihood of lost or corrupted data.
@@ -65,7 +59,6 @@
 - Limited scalability: Virtual circuit switching is less scalable than datagram switching and may not be suitable for large networks.
 - Increased setup time: Virtual circuit switching requires a setup time for each connection, which can lead to increased latency and delay.
 - Fixed data rates: Virtual circuit switching typically supports fixed data rates, which may not be suitable for applications that require variable packet sizes or data rates.
-
 ##### Similarities Between Datagram & VC
 - Both are packet-switching technologies: Datagram switching and virtual circuit switching are both packet-switching technologies, which means that they break up data into small packets for transmission across a network.
 - Both can handle multiple transmissions simultaneously: Both Datagram and virtual circuit switching can handle multiple transmissions simultaneously by dividing data into packets and transmitting them separately.
@@ -74,21 +67,20 @@
 - Both can handle variable-length packets: Datagram and virtual circuit switching can handle variable-length packets, which means that they can adjust to the size of the data being transmitted.
 - Both can support QoS (Quality of Service): Both Datagram and virtual circuit switching can support QoS, which allows for the prioritization of certain types of data over others.
 - Both can support fragmentation: Both Datagram and virtual circuit switching can support fragmentation, which allows for large data packets to be broken up into smaller packets for transmission across a network.
-
 ##### Difference Between Datagram & VC
 
-|   |   |
-|---|---|
-|**Datagram Switching**|**Virtual Circuit**|
-|It is connection less service. There is no need for reservation of resources as there is no dedicated path for a connection session.|Virtual circuits are connection-oriented, which means that there is a reservation of resources like buffers, bandwidth, etc. for the time during which the new setup VC is going to be used by a data transfer session.|
-|All packets are free to use any available path. As a result, intermediate routers calculate routes on the go due to dynamically changing routing tables on routers.|The first sent packet reserves resources at each server along the path. Subsequent packets will follow the same path as the first sent packet for the connection time.|
-|Data packets reach the destination in random order, which means they need not reach in the order in which they were sent out.|Packets reach in order to the destination as data follows the same path.|
-|Every packet is free to choose any path, and hence all the packets must be associated with a header containing information about the source and the upper layer data.|All the packets follow the same path and hence a global header is required only for the first packet of connection and other packets will not require it.|
-|Datagram networks are not as reliable as Virtual Circuits.|Virtual Circuits are highly reliable.|
-|Efficiency high, delay more|Efficiency low and delay less|
-|But it is always easy and cost-efficient to implement datagram networks as there is no need of reserving resources and making a dedicated path each time an application has to communicate.|Implementation of virtual circuits is costly as each time a new connection has to be set up with reservation of resources and extra information handling at routers.|
-|A Datagram based network is a true packet switched network. There is no fixed path for transmitting data.|A virtual circuit network uses a fixed path for a particular session, after which it breaks the connection and another path has to be set up for the next session.|
-|Widely used in Internet|Used in X.25, ATM(Asynchronous Transfer Mode)|
+|                                                                                                                                                                                             |                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Datagram Switching**                                                                                                                                                                      | **Virtual Circuit**                                                                                                                                                                                                     |
+| It is connection less service. There is no need for reservation of resources as there is no dedicated path for a connection session.                                                        | Virtual circuits are connection-oriented, which means that there is a reservation of resources like buffers, bandwidth, etc. for the time during which the new setup VC is going to be used by a data transfer session. |
+| All packets are free to use any available path. As a result, intermediate routers calculate routes on the go due to dynamically changing routing tables on routers.                         | The first sent packet reserves resources at each server along the path. Subsequent packets will follow the same path as the first sent packet for the connection time.                                                  |
+| Data packets reach the destination in random order, which means they need not reach in the order in which they were sent out.                                                               | Packets reach in order to the destination as data follows the same path.                                                                                                                                                |
+| Every packet is free to choose any path, and hence all the packets must be associated with a header containing information about the source and the upper layer data.                       | All the packets follow the same path and hence a global header is required only for the first packet of connection and other packets will not require it.                                                               |
+| Datagram networks are not as reliable as Virtual Circuits.                                                                                                                                  | Virtual Circuits are highly reliable.                                                                                                                                                                                   |
+| Efficiency high, delay more                                                                                                                                                                 | Efficiency low and delay less                                                                                                                                                                                           |
+| But it is always easy and cost-efficient to implement datagram networks as there is no need of reserving resources and making a dedicated path each time an application has to communicate. | Implementation of virtual circuits is costly as each time a new connection has to be set up with reservation of resources and extra information handling at routers.                                                    |
+| A Datagram based network is a true packet switched network. There is no fixed path for transmitting data.                                                                                   | A virtual circuit network uses a fixed path for a particular session, after which it breaks the connection and another path has to be set up for the next session.                                                      |
+| Widely used in Internet                                                                                                                                                                     | Used in X.25, ATM(Asynchronous Transfer Mode)                                                                                                                                                                           |
 
 
 
