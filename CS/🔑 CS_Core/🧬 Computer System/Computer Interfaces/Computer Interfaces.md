@@ -14,6 +14,7 @@
 - ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 ↗ [OS IO System](../Operating%20System%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
+↗ [Berkeley Sockets & POSIX Sockets & BSD Sockets](../Operating%20System%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Berkeley%20Sockets%20&%20POSIX%20Sockets%20&%20BSD%20Sockets.md)
 
 ↗ [Human-Computer Interaction](../../../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
 

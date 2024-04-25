@@ -17,13 +17,13 @@
 
 ## Cloud Service Delivery Models
 ### IaaS
-↗ [IaaS](IaaS/IaaS.md)
+↗ [IaaS (Infrastructure as a Service)](IaaS%20(Infrastructure%20as%20a%20Service)/IaaS%20(Infrastructure%20as%20a%20Service).md)
 
 ### PaaS
-↗ [PaaS](PaaS/PaaS.md)
+↗ [PaaS (Platform as a Service)](PaaS%20(Platform%20as%20a%20Service)/PaaS%20(Platform%20as%20a%20Service).md)
 
 ### SaaS
-↗ [SaaS](SaaS/SaaS.md)
+↗ [SaaS (Software as a Service)](SaaS%20(Software%20as%20a%20Service)/SaaS%20(Software%20as%20a%20Service).md)
 
 ### FaaS
 

@@ -4,6 +4,12 @@
 
 
 ## Res
+### Related Topics
+↗ [OpenVPN Project & OpenVPN Community Project](../👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/📌%20OpenVPN%20Project%20&%20OpenVPN%20Community%20Project/OpenVPN%20Project%20&%20OpenVPN%20Community%20Project.md)
+↗ [WireGuard](../👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
+
+
+
 ### Proxy & GFW Info
 [墙知乎](https://wallzhihu.com)
 
@@ -20,6 +26,14 @@ duyaoss机场测速
 	1. SPV54-EMK9S-HUH77-QXWB0
 4. [米白云](https://docs.mebi.me/docs/intro)
 	1. 没用过，不知道怎么样；文档写得挺好看的
+5. [搬瓦工机场 Just My Socks](https://justmysockss.org/)
+2. [wgetcloud](https://invite.wgetcloud.ltd/auth/register?code=oikW)
+3. [搬瓦工自建](https://v2ray-x.com/banwagon-v2ray/)
+
+美国住宅IP代理可以使用：[https://oxylabs.io/](https://oxylabs.io/)，按流量计费，$15/G，按需使用，建议使用switchOmega浏览器插件设置只对openai.com域名走代理，跑不了多少流量。
+
+住宅IP的vps可以使用：[https://www.soladrive.com/support/aff.php?aff=146](https://www.soladrive.com/support/aff.php?aff=146)，进入网站后选择Residential IP VPS即可，$25每月，流量2T/月，适合于平时除了用chatGPT还顺便用来解锁netflix看看视频的。
+
 
 ### Guidelines
 🚧 https://github.com/hoochanlon/fq-book

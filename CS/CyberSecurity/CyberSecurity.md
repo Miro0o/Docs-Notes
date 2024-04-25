@@ -42,9 +42,6 @@
 12.[正在申请加入的项目](https://github.com/knownsec/404StarLink/issues)  
 13.[星链计划视频演示栏目-星际奇兵](https://github.com/knownsec/404StarLink/blob/master/column/starlink_project_video.md)
 
-https://tool.chinaz.com
-站长之家
-
 
 ### Learning Resources
 💻 https://testercc.github.io

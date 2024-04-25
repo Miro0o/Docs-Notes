@@ -7,8 +7,8 @@
 ## Res
 🏠 https://jwt.io
 
-↗ [OKTA](../../../../../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS/Identity%20Cloud/OKTA/OKTA.md)
-↗ [Auth0](../../../../../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS/Identity%20Cloud/OKTA/Auth0.md)
+↗ [OKTA](../../../../../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/OKTA/OKTA.md)
+↗ [Auth0](../../../../../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/OKTA/Auth0.md)
 
 
 

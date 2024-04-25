@@ -23,7 +23,7 @@ What Is ChatGPT Doing … and Why Does It Work?
 
 ## Intro
 ### ChatGPT: how to get one 
-↗ [Identity forgery](../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Identity%20forgery.md)
+↗ [Identity & Records Forgery](../../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Identity%20&%20Records%20Forgery.md)
 
 
 

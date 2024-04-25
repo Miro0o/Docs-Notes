@@ -52,7 +52,7 @@
 
 ![](../../../../../../Assets/Pics/Screenshot%202024-04-22%20at%2011.00.41%20PM.png)
 
-In computer architecture, a bus (historically also called data highway or databus) is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including communication protocols
+In computer architecture, a **bus** (historically also called **data highway** or **databus**) is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including communication protocols.
 
 
 ### Features of Bus
@@ -115,20 +115,20 @@ Bus（总线）具有以下特点：
 
 
 
-## Types of Bus
+## 🎯 Types of Bus
 ### Buses By Directions
 > 🔗 https://foxsen.github.io/archbase/计算机总线接口技术.html
 
 按照数据传递的方向，总线可以分为单向总线和双向总线。单向总线是指数据只能从一端传递到另一端，而不能反向传递。单向总线也称为单工总线。双向总线是指数据可以在两个方向上传递，既可以从A端传递到B端，也可以从B端传递到A端。双向总线也称为双工总线。双工总线又可分为半双工总线和全双工总线。半双工总线是指在一个时间段内，数据只能从一个方向传送到另一个方向，数据不能同时在两个方向传递。全双工总线是指数据可以同时在两个方向传递。全双工总线包含两组数据线，分别用于两个方向的数据传输。
 
 
-### Buses By Signals
+### Buses By Signal Transmission
 > 🔗 https://foxsen.github.io/archbase/计算机总线接口技术.html
 
 按照总线使用的信号类型，总线可以分为并行总线和串行总线。并行总线包含多位传输线，在同一时刻可以传输多位数据，而串行总线只使用一位传输线，同一时刻只传输一位数据。并行总线的优点在于相同频率下总线的带宽更大，但正因为采用了同一时刻并行传输多位数据的方法，必须保证多位数据在同一时刻到达。这样就会对总线的宽度和频率产生限制，同时也对主板设计提出了更高的要求。与并行总线相反，一般串行总线只使用一位传输线，同一时刻只能传输一位数据，而且使用编码的方式将时钟频率信息编码在传输的数据之中。因此，串行总线的传输频率可以大大提升。PCI总线、DDR总线等都是传统的并行总线，而USB、SATA、PCIE等都是串行总线。以串行总线传输方式为基础，使用多条串行总线进行数据传输的方式正在被广泛采用。以PCIE协议为例，PCIE的接口规范中，可以使用x1、x4、x8、x16等不同宽度的接口，其中，x16就是采用16对串行总线进行数据传输。多位串行总线与并行总线的根本差别在于，多位串行总线的每一个数据通道都是相对独立传输的，它们独立进行编解码，在接收端恢复数据之后再进行并行数据之间的对齐。而并行总线使用同一个时钟对所有的数据线进行同时采样，因此对数据传输线之间的对齐有非常严格的要求。
 
 
-### Buses By Functions
+### Buses By Functions /Signals Types
 #### 1️⃣ Address Bus
 Address lines indicate the location (e.g., in memory) that the data should be either read from or written to.
 #### 2️⃣ Data Bus
@@ -141,8 +141,7 @@ Control lines indicate which device has permission to use the bus and for what p
 
 ### Buses By Location
 > 按照总线在计算机系统中所处的物理位置，总线可以分为片上总线、内存总线、系统总线和设备总线。
-
-#### 1️⃣ Internal Bus (System Bus)
+#### 1️⃣ Internal Bus (On-Chip Bus)｜片上总线
 > ↗ [System Bus](System%20Bus/System%20Bus.md)
 
 The internal bus connects the CPU, memory, and all other internal components
@@ -150,14 +149,21 @@ The internal bus connects the CPU, memory, and all other internal components
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230302132111.png)
-#### 2️⃣ External Bus (Expansion Bus)
+#### 2️⃣ External Bus (Expansion Bus) | 设备总线
 > ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
 External buses connect external devices, peripherals, expansion slots, and I/O ports to the rest of the computer.
-#### 3️⃣ Local Bus
+#### 3️⃣ Local Bus (System Bus) | 系统总线
 > ↗ [Local Bus](Local%20Bus/Local%20Bus.md)
 
 Data buses that connect a peripheral device **directly to the CPU**.
+
+Also called the "system bus," a local bus is the pathway between the CPU, memory and peripheral controller chips. The term was popular in the early 1990s with the introduction of the VESA local bus (see [VL-bus](https://www.pcmag.com/encyclopedia/term/vl-bus)).
+
+![](https://i.pcmag.com/imagery/encyclopedia-terms/local-bus-localbus.fit_lim.size_1024x.gif)
+<small>https://www.pcmag.com/encyclopedia/term/local-bus</small>
+#### 4️⃣ Memory Bus | 内存总线
+
 #### Other Buses
 ↗ [Backplane Bus](Other%20Bus/Backplane%20Bus.md)
 ↗ [CPU Internal Bus](Other%20Bus/CPU%20Internal%20Bus.md)

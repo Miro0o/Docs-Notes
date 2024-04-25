@@ -10,7 +10,9 @@
 ↗ [Hardware-assisted Virtualization](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md) (Chipset-assisted Virtualization/Network Virtualization)
 
 ↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
-↗ [Cloud Native /VPC](../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS/VPC.md)
+↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
+
+↗ [Cloud Native /VPC](../../../Software%20Engineering/☁️%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS%20(Infrastructure%20as%20a%20Service)/VPC.md)
 ↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 
 
@@ -18,19 +20,22 @@
 ## Overview
 ![](../../../../Assets/Pics/Pasted%20image%2020230412170931.png)
 
+![](../../../../Assets/Pics/Pasted%20image%2020230413110142.png)
+<small>https://zhuanlan.zhihu.com/p/332290846</small>
 
-### 1️⃣ Network Virtualization within Server Host
+
+### 1️⃣ Network Virtualization within Host
 #### I/O Virtualization
 #### Virtual Access
 
 
-### 2️⃣ Network Virtualization in Network Access
+### 2️⃣ Network Virtualization in Network Connection
 #### Infiniband
 #### FCOE
 
 
-### 3️⃣ Network Virtualization in Network Exchange ==(Overlay Transport Protols)==
-#### Overlays Networks Overview
+### 3️⃣ Network Virtualization in Network Exchange ==(Overlay Transport Protocols)==
+#### Network Virtualization Overlays (NOV2 /NOV3)
 Apart from the underlay network(IP network), **network overlays** are virtual networks of interconnected nodes that share an underlying physical network, allowing deployment of applications that require specific network topologies without the need to modify the underlying network.  
 
 1️⃣ With the help of Network overlay, you can optimise the device functions and also reduces the complexity of the network devices.
@@ -43,7 +48,10 @@ Apart from the underlay network(IP network), **network overlays** are virtual ne
 #### OTV (Overlay Transport Virtualization)
 #### LISP (Locator/Identifier Separation Protocol)
 #### VxLAN (Virtual Extensible LAN)
+↗ [vLAN & VxLAN](vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 #### NVGRE (Network Virtualization Using Generic Routing Encapsulation)
+↗ [GRE (Generic Routing Encapsulation)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
+
 NVGRE allows the creation of virtual Layer 2 topologies on top of a physical Layer 3 network. With the help of NVGRE you can achieve by tunneling Ethernet frames inside an IP packet over a physical network. NVGRE supports a 24-bit segment ID or virtual subnet identifier (VSID) similar to VXLAN, providing up to 16 million virtual segments that can uniquely identify a given segment.
 
 The difference between VXLAN and NVGRE is that NVGRE header includes an optional flow ID field. In multi-pathing deployments, network routers and switches that can parse this header can use this field together with the VSID to add flow-based entropy, although this feature requires additional hardware capabilities.
@@ -75,7 +83,6 @@ The difference between VXLAN and NVGRE is that NVGRE header includes an optional
 > - Xsigo:  提供基于Infiniband技术的数据中心全虚拟化方案。
 > - NextIO：提供基于PCIe技术 的I/O虚拟化产品。
 
-
 [Comparison: VXLAN vs NVGRE vs STT vs LISP - Overlay Network Technologies]: https://www.routexp.com/2020/03/comparison-vxlan-vs-nvgre-vs-stt-vs.html
 
 [SDN与网络虚拟化 | SDNLAB]: https://www.sdnlab.com/15475.html#:~:text=网络虚拟化是一种,实现弹性的网络%E3%80%82
@@ -84,6 +91,6 @@ The difference between VXLAN and NVGRE is that NVGRE header includes an optional
 
 [理解（计算、网络，存储）虚拟化，只需一篇文章]: https://blog.csdn.net/weixin_57726902/article/details/124072149
 
-华为云计算（3）——网络虚拟化 - IT小组的文章 - 知乎 https://zhuanlan.zhihu.com/p/332290846
-![](../../../../Assets/Pics/Pasted%20image%2020230413110142.png)
+[华为云计算（3）——网络虚拟化 - IT小组的文章 - 知乎]: https://zhuanlan.zhihu.com/p/332290846
+
 

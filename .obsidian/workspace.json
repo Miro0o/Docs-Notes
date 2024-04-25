@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/SwitchOmega.md",
+                "file": "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack/OpenStack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/SwitchOmega.md",
+                "file": "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack/OpenStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/SwitchOmega.md",
+                "file": "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack/OpenStack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/SwitchOmega.md"
+                "file": "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack/OpenStack.md"
               }
             }
           },
@@ -208,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,52 +226,52 @@
   },
   "active": "136465c9f65b5c06",
   "lastOpenFiles": [
+    "Assets/Pics/Pasted image 20240425133210.png",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/SwitchOmega.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Computer Bus (Datapath) & Interfaces & Protocols.md",
-    "Assets/Pics/Screenshot 2024-04-22 at 11.00.41 PM.png",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/Disk Buses & Interfaces.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/NVMe.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/AHCI (Advanced Host Controller Interface).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/M.2/M-key.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/M.2/B-key.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/U.2",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/M.2",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/PCI (Peripheral Component Interconnect)/PCIe (PCI-Express)/PCIe (PCI-Express).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA Express.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/mSATA.md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/FC (Fiber Channel).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/IDE (Integrated Device Electronics).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/SCSI (Small Computer System Interface) Based/SCSI (Small Computer System Interface).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/SCSI (Small Computer System Interface) Based/SAS (Serial Attached SCSI).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/SCSI (Small Computer System Interface) Based",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/ATA (also PATA, Parallel ATA).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA).md",
-    "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs)/Java Virtual Machine (JVM)/Java Virtual Machine (JVM).md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs)/Android Runtime (ART) and Dalvik Virtual Machine (DVM)/Android Runtime (ART) and Dalvik Virtual Machine (DVM).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Decompiling Techniques/Decompiling Techniques.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Disassembly Techniques/Disassembly Techniques.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/SRE (Software Reverse Engineering).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Anti-Reverse Engineering & Software Protection/Anti-Reverse Engineering & Software Protection.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/JEB/JEB.md",
-    "CS/🗺 CS_Overview/🌲 Road To CS.md",
-    "Assets/Pics/Pasted image 20240422152104.png",
-    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows Kernel/Windows IO & Files Management/Windows Network",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Operation Center (SOC)",
-    "CS/Web3 & Cryptocurrency/Cryptocurrency/Mining Software",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Reconnaissance & Exploration/Cobalt Strike (Previous Armitage)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Analysis/Language Specific Code Analysis/Android Malware Analysis",
-    "Assets/Pics/Pasted image 20240414145150.png",
-    "Assets/Pics/Pasted image 20240414145139.png",
-    "Assets/Pics/Pasted image 20240414145124.png",
-    "Assets/Pics/Pasted image 20240414145108.png",
-    "Assets/Pics/Pasted image 20240414144958.png",
-    "Assets/Pics/Pasted image 20240414133043.png",
-    "Assets/Pics/Pasted Image 20240414105435_248.png",
-    "Assets/Pics/Screenshot 2024-04-13 at 9.51.04 PM.png",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/Independent Proxy Servers/CCProxy (Win).md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/Independent Proxy Servers",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/Independent Proxy Clients",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/📌 Clash core project (Clash)/Clash Clients",
+    "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/OpenStack/OpenStack.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/vLAN & VxLAN/vLAN & VxLAN.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Switched LAN.md",
+    "CS/Software Engineering/☁️ Cloud Native/Cloud Native.md",
+    "Assets/Pics/Pasted image 20240424231729.png",
+    "Assets/Pics/Pasted image 20240424231719.png",
+    "Assets/Pics/Pasted image 20240424231710.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Free Software & OSS (Open Source Software)/Free Software & OSS (Open Source Software).md",
+    "Assets/Pics/Pasted image 20240424230321.png",
+    "Assets/Pics/Pasted image 20240424230252.png",
+    "Assets/Pics/Pasted image 20240424230243.png",
+    "Assets/Pics/Pasted image 20240424230153.png",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/Cloud Service (Delivery) Models.md",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/FaaS (Function as a Service)/FaaS (Function as a Service).md",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/FaaS (Function as a Service)",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/SaaS (Software as a Service)/SaaS (Software as a Service).md",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/PaaS (Platform as a Service)/PaaS (Platform as a Service).md",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/IaaS (Infrastructure as a Service)/IaaS (Infrastructure as a Service).md",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/IaaS (Infrastructure as a Service)/Rackspace.md",
+    "CS/Software Engineering/☁️ Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/IaaS (Infrastructure as a Service)/VPC.md",
+    "CS/Software Engineering/🏇 Galleries/🤡 ALL IN ONE/Telegram/Telegram.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Link Layer/VETH (Virtual Ethenet).md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Free Software/VTun.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Free Software/n2n.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Free Software/FreeLAN.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Commercial Products/ZeroTier.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Implementations.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Link Layer/Linux TAP (network TAP).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Network Layer/Linux TUN (network TUNnel).md",
+    "Assets/Pics/Pasted image 20240424215254.png",
+    "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network.md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Link Layer/vde (Virtual Distributed Ethernet).md",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Network Layer/Virtual Network (vNetwork)",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Physical Layer",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Network Layer",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Link Layer",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/📌 NV Implementations/Virtual Link Layer/Virtual Bridge",
+    "Assets/Pics/Screenshot 2024-04-24 at 9.37.22 PM.png",
+    "CS/🔑 CS_Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT with IPv4",
+    "Assets/Pics/Pasted image 20240423222918.png",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",

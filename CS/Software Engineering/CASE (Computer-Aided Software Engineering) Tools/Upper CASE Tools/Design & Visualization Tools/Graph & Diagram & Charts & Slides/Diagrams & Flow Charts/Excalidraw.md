@@ -6,7 +6,7 @@
 
 ## Res
 🏠 https://excalidraw.com
-💻 https://github.com/excalidraw/excalidraw
+🚧 https://github.com/excalidraw/excalidraw
 
 📂 Don't forget to check out our [Documentation](https://docs.excalidraw.com/)!
 

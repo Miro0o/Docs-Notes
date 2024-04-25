@@ -4,22 +4,23 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":clapper:",
+    ":thumbsup:",
+    ":bricks:",
     ":link:",
     ":arrow_upper_right:",
-    ":thumbsup:",
-    ":open_file_folder:",
+    ":star:",
     ":construction:",
     ":house:",
-    ":clapper:",
+    ":open_file_folder:",
+    ":man_technologist:",
     ":point_right:",
     ":fire:",
-    ":man_technologist:",
     ":thinking:",
     ":people_hugging:",
     ":page_facing_up:",
     ":book:",
     ":computer:",
-    ":star:",
     ":vs:",
     ":mag:",
     ":paperclip:",
@@ -102,7 +103,6 @@
     ":running_man:",
     ":grey_question:",
     ":arrow_double_down:",
-    ":adhesive_bandage:",
-    ":man:"
+    ":adhesive_bandage:"
   ]
 }
