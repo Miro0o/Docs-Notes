@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 
 
 
@@ -18,26 +19,6 @@ There are four principal addressing methods in the [Internet Protocol](https://
 - [Multicast](https://en.wikipedia.org/wiki/Multicast "Multicast") delivers a message to a group of nodes that have expressed interest in receiving the message using a **one-to-many-of-many** or **many-to-many-of-many** association; datagrams are routed simultaneously in a single transmission to many recipients. Multicast differs from broadcast in that the destination address designates a subset, not necessarily all, of the accessible nodes.
 
 - [Anycast](https://en.wikipedia.org/wiki/Anycast) delivers a message to any one out of a group of nodes, typically the one nearest to the source using a **one-to-one-of-many** association where datagrams are routed to any single member of a group of potential receivers that are all identified by the same destination address. The routing algorithm selects the single receiver from the group based on which is the nearest according to some distance or cost measure.
-
-
-
-## IP Datagram Routing Configuration
-### 👷🏻 Static Routing Configuration
-🔗【深入浅出计算机网络 - 4.3 静态路由配置】 https://www.bilibili.com/video/BV1vB4y1n7pW/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-- 默认路由
-- 特定主机路由
-
-
-![Screenshot 2022-11-26 at 4.09.26 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%204.09.26%20PM.png)
-
-![Screenshot 2022-11-26 at 4.09.43 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-26%20at%204.09.43%20PM.png)
-
-
-
-### 🕊️ Dynamic Routing Configuration
-
-![Screenshot 2022-11-20 at 2.02.09 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%202.02.09%20PM.png)
 
 
 

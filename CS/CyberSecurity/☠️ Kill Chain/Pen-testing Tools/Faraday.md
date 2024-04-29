@@ -21,6 +21,7 @@
 ## Intro
 Faraday introduces a new concept – **IPE (Integrated Penetration-Test Environment)** which is a multiuser Penetration testing IDE. Faraday is designed for distributing, indexing, and analyzing the data generated during a security audit. It was made to let you take advantage of the available tools in the community in a truly multiuser way.
 
+
 ### Open Source Vulnerability Manager
 Security has two difficult tasks: designing smart ways of getting new information, and keeping track of findings to improve remediation efforts. With Faraday, you may focus on discovering vulnerabilities while we help you with the rest. Just use it in your terminal and get your work organized on the run. Faraday was made to let you take advantage of the available tools in the community in a truly multiuser way.
 

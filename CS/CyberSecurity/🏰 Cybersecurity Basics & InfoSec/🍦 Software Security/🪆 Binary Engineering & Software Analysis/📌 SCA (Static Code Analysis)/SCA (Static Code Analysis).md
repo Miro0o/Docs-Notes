@@ -16,7 +16,7 @@
 ↗ [Compilers](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Program%20Execution%20Related%20Tools%20Chain/Compilers/Compilers.md)
 
 ↗ [SRE (Software Reverse Engineering)](../SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
-↗ [IDA Pro](../../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/IDA%20Pro/IDA%20Pro.md)
+↗ [IDA Pro](../../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/IDA%20Pro/IDA%20Pro.md)
 ↗ [gdb (GNU DeBugger)](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
 ↗ [x86_64 ASM](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86_64%20ASM/x86_64%20ASM.md)
 

@@ -26,7 +26,7 @@ There are prerequisites that need to be set up in Gophish before launching the p
 
 ## Escalating an attack using DNS redirection
 ### 👉 `BetterCap`
-↗ [BetterCap](../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/BetterCap/BetterCap.md)
+↗ [BetterCap](../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/BetterCap/BetterCap.md)
 ↗ [Social Engineering & Physical Security](Social%20Engineering%20&%20Physical%20Security.md)
 
 

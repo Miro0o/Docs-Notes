@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Software Analysis & AI & LLM](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/🤔%20Software%20Analysis%20&%20AI%20&%20LLM/Software%20Analysis%20&%20AI%20&%20LLM.md)
+↗ [Software Analysis & AI & LLM](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Software%20Analysis%20&%20AI%20&%20LLM.md)
 
 
 

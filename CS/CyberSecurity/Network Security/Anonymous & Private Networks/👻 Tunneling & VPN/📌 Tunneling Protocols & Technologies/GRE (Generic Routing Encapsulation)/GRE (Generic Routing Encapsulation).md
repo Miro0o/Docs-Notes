@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+
 
 
 ## Intro
@@ -14,6 +16,7 @@ Generic Routing Encapsulation, or GRE, is a protocol for encapsulating data pack
 - **GRE is a way to load one type of packet within another type of packet so that the first packet can cross a network it could not normally cross**, just as one type of vehicle (the car) is loaded onto another type of vehicle (the ferry) to cross terrain that it otherwise could not. 
 	- For instance, suppose a company needs to set up a connection between the [local area networks (LANs)](https://www.cloudflare.com/learning/network-layer/what-is-a-lan/) in their two different offices. Both LANs use the latest version of the [Internet Protocol](https://www.cloudflare.com/learning/network-layer/internet-protocol/), IPv6. But in order to get from one office network to another, traffic must pass through a network managed by a third party — which is somewhat outdated and only supports the older IPv4 protocol.
 	- With GRE, the company could send traffic through this network by encapsulating IPv6 packets within IPv4 packets. Referring back to the analogy, the IPv6 packets are the car, the IPv4 packets are the ferry, and the third-party network is the water.
+
 
 
 ## Ref

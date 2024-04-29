@@ -57,7 +57,7 @@ Data are stored more permanently on external mass storage devices, of which the 
 
 External, nonvolatile memory is also referred to as **secondary memory** or **auxiliary memory**. These are used to store program and data files, and are usually visible to the programmer only in terms of files and records, as opposed to individual bytes or words.
 
-↗ [Secondary (Auxiliary) Storage Technology](Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
+↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
 #### 4️⃣ Off-line Bulk Memory
 Off-line bulk memory (which includes tertiary memory and off-line storage) requires either human or robotic intervention before any data can be accessed; the data must be transferred from the storage media to secondary memory. 
 
@@ -91,7 +91,7 @@ There are three basic forms of locality:
 
 
 
-## 🪠 Types of Memory (Engineering Level)
+## 🪠 Types of Memory & Storage (Engineering Level)
 ### 1️⃣ Volatile Memory (Registers /Cache Memory /Main Memory)
 #### Registers
 ↗ [Register](../Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
@@ -115,7 +115,7 @@ The different types of SRAM include asynchronous SRAM, synchronous SRAM, and pip
 
 
 ### 2️⃣ Non-Volatile Memory (Secondary Memory)
-↗ [Secondary (Auxiliary) Storage Technology](Secondary%20(Auxiliary)%20Storage%20Technology/Secondary%20(Auxiliary)%20Storage%20Technology.md)
+↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
 #### ROM (Read-Only Memory)
 There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory. 
 - **PROM (programmable read-only memory)** is a variation on ROM. PROMs can be programmed by the user with the appropriate equipment. Whereas ROMs are hardwired, PROMs have fuses that can be blown to program the chip. Once programmed, the data and instructions in PROM cannot be changed. 

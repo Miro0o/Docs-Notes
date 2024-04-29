@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [SeedLab - Software Security / Set-UID](../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/SEED%20Project/SeedLab%20-%20Software%20Security.md)
-↗ [Text & File & Dir Management Basics](../../../Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
+↗ [Text & File & Dir Management Basics](../../../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
 
 
 

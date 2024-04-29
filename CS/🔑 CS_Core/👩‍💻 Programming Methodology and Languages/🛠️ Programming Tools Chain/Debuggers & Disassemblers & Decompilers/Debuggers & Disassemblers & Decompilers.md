@@ -7,15 +7,15 @@
 ## Res
 ### Related Topics
 ↗ [Reverse & Binary Analysis Tools](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
-↗ [Hex & Binary Manipulation](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Manipulation.md)
+↗ [Hex & Binary Manipulation](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Manipulation.md)
 
 ↗ [gdb (GNU DeBugger)](../🚠%20Application%20Runtimes%20&%20SDKs/🐐%20GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
 - pwngdb
 - etc.
 ↗ [lldb](../🚠%20Application%20Runtimes%20&%20SDKs/🦅%20LLVM/lldb/lldb.md)
 - etc.
-↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/IDA%20Pro/IDA%20Pro.md)
-↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/IDA%20Pro/Hex-Rays%20Decompiler.md)
+↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/IDA%20Pro/IDA%20Pro.md)
+↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/IDA%20Pro/Hex-Rays%20Decompiler.md)
 
 
 

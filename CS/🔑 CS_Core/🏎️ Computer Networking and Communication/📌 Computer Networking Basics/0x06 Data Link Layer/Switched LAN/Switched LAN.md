@@ -9,8 +9,6 @@
 ↗ [Link Layer (Switched Network) Basics](../📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20(Switched%20Network)%20Basics.md)
 ↗ [Computer Network and Communication Introduction & Overview](../../0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
 
-↗ [vLAN & VxLAN](../../../👰🏻‍♂️%20Network%20Virtualization/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
-
 
 
 ## Intro
@@ -93,7 +91,7 @@ In the case of a **dialup modem connection** between two hosts, the link connect
 
 
 ### Virtual LAN (vLAN)
-↗ [vLAN & VxLAN](../../../👰🏻‍♂️%20Network%20Virtualization/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+↗ [vLAN & VxLAN](vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 
 
 

@@ -42,7 +42,7 @@ A data center can have hundreds of thousands of servers, which must be powered a
 
 ==The trending is, as the rise of cloud computing, major providers begin transferring buesiness from data center to cloud. ==
 
-↗ [Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
+↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 
 
 

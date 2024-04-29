@@ -110,7 +110,10 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 ↗ [Secure Communication & Cryptosystems](Secure%20Communication%20&%20Cryptosystems.md)
 
 
-### Cryptology Application
+
+## Cryptographic Software
+![](../../../Assets/Pics/Screenshot%202024-04-26%20at%203.28.56%20PM.png)
+<small>https://en.wikipedia.org/wiki/Encryption_software</small>
 
 
 

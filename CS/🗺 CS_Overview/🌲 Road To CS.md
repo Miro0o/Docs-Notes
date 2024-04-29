@@ -110,7 +110,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 	2. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
 	3. ↗ [Program Execution & Compilation System](../🔑%20CS_Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 4. System Architecture /Cloud
-	1. ↗ [Cloud Native](../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md)
+	1. ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 	2. ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
 	3. ↗ [Awesome Architect](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
 5. Data Scientist /AI
