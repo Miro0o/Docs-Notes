@@ -25,7 +25,7 @@ Linux supports seven different types of files. These file types are the Regular 
 |Named pipe files|Allow processes to send data to other processes or receive data from other processes.|
 
 ### Identify the Types of Files
-↗ [Text & File & Dir Management Basics /File Type & File Head](../../../../Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md#File%20Type%20&%20File%20Head)
+↗ [Text & File & Dir Management Basics /File Type & File Head](../../../../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md#File%20Type%20&%20File%20Head)
 
 |   |   |
 |---|---|

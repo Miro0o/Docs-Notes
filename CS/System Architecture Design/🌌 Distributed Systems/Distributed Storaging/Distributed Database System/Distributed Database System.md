@@ -16,7 +16,7 @@
 
 #### Document DBMS
 ↗ [MongoDB](../../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/Document%20Database/MongoDB/MongoDB.md)
-↗ [Opensearch](../../../../Software%20Engineering/☁️%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Observability%20&%20Analysis/Logging/Opensearch/Opensearch.md)
+↗ [Opensearch](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Observability%20&%20Analysis/Logging/Opensearch/Opensearch.md)
 
 #### RDBMS
 ↗ [TiDB](../../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/RDBMS%20(Relational)/TiDB/TiDB.md)

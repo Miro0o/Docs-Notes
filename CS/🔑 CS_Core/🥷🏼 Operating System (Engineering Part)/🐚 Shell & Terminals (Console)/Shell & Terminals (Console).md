@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [GUI Desktop Environments & Windowing Systems](../Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
+↗ [GUI Desktop Environments & Windowing Systems](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
 ↗ [Messaging & Remote Accessing](../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/Messaging%20&%20Remote%20Accessing.md)
 ↗ [SSH (Secure SHell)](../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 

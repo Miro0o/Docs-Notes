@@ -20,7 +20,7 @@
 
 
 ## Intro
-> 💡 IPsec is mostly replaced by [TLS (Transport Layer Security)](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS%20Protocol/📌%20TLS%20(Transport%20Layer%20Security)/TLS%20(Transport%20Layer%20Security).md) 
+> 💡 IPsec is mostly replaced by [TLS (Transport Layer Security) Protocols](../../🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS%20Protocol/📌%20TLS%20(Transport%20Layer%20Security)%20Protocols/TLS%20(Transport%20Layer%20Security)%20Protocols.md) 
 ### IPsec Overview
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-01%20at%201.36.50%20PM.png)
 

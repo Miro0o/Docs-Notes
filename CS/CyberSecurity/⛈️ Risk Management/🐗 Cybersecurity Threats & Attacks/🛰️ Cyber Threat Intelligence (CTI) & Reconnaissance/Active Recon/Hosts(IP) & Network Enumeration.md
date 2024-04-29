@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Host Discovery (Ping Scanning)](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning).md)
+↗ [Host Discovery (Ping Scanning)](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Host%20Discovery%20(Ping%20Scanning)/Host%20Discovery%20(Ping%20Scanning).md)
 
 
 ### IP Information Search Sites
@@ -21,6 +21,10 @@ https://ipinfo.io
 Accurate IP address data that keeps pace with secure, specific, and forward-looking use cases.
 
 https://en.ntunhs.net/IPInfo/EN/index.html
+
+https://www.chaipip.com/aiwen.html
+精确IP-地理位置定位
+
 
 
 ## Intro
@@ -57,14 +61,14 @@ We will now see traffic on **DNS**, **NBNS**, **BROWSER**, and other protocols t
 
 
 ### 👉 ifconfig
-> ↗ [Network Management Basics /👉 `ifconfig` (deprecated) --> `ip` | `ipconfig`](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md#👉%20`ifconfig`%20(deprecated)%20-->%20`ip`%20|%20`ipconfig`)
-> ↗ [Nettools /ifconfig](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools.md#👉%20ifconfig)
+> ↗ [Network Management Basics /👉 `ifconfig` (deprecated) --> `ip` | `ipconfig`](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md#👉%20`ifconfig`%20(deprecated)%20-->%20`ip`%20|%20`ipconfig`)
+> ↗ [Nettools /ifconfig](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools.md#👉%20ifconfig)
 
 
 
 ## ARP broadcasting
 ### 👉 nmap
-↗ [Nmap](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Project%20Products/Nmap.md)
+↗ [Nmap](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Project%20Products/Nmap.md)
 
 
 ### 👉 arp-scan
@@ -172,7 +176,7 @@ The first step that attackers would look for is any identified network device on
 
 
 ### 👉 Metasploit
-[Metasploit Framework (MSF)](../../../../☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
+[Metasploit Framework (MSF)](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Metasploit%20Framework%20(MSF)/Metasploit%20Framework%20(MSF).md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Linux Bridge](../../../../👰🏻‍♂️%20Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Link%20Layer/Virtual%20Bridge/Linux%20Bridge.md)
+↗ [Linux Bridge](../../../../👰🏻‍♂️%20Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Link%20Layer/Linux%20Bridge.md)
 
 
 

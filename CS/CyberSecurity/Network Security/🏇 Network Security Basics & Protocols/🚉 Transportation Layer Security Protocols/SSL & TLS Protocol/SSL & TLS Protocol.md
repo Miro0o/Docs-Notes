@@ -8,9 +8,14 @@
 ### Learning Resources
 【深入浅出计算机网络 - 7.7 网络体系结构各层采取的安全措施——运输层】 https://www.bilibili.com/video/BV1bU4y1S7gz/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+
 ### Related Topics
 ↗ [HTTPS (HTTP Security)](../../📱%20Application%20Layer%20Security%20Protocols/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md) 
+↗ [PKI Scheme (Centralized)](../../../../🚬%20Cryptology/Key%20Management/📌%20Key%20Management%20Life%20Circle/🚛%20Key%20Distribution/Asymmetric%20Key%20Distribution%20(AKD)/AKD%20via%20Public%20Key%20Certificates/🏦%20PKI%20Scheme%20(Centralized)/PKI%20Scheme%20(Centralized).md)
+↗ [Secure Communication & Cryptosystems](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md)
 
+↗ [SSH (Secure SHell)](../../📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
+↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)
 
 
 
@@ -66,7 +71,6 @@ SSL协议有两个重要概念，SSL会话和SSL连接
 		- **压缩方法（Compression method）**；压缩数据的算法优先于加密算法。
 		- **加密规格（Cipher spec）**：指定批量数据加密算法（例如空，DES等等）和用于MAC（Message Authentication Code，消息鉴别码）计算的散列算法（例如MD5或SHA-1）。该参数同时确定了密码属性，如hash_size。
 		- **主密码（Master secret）**：由客户机和服务器共享的48字节长的密码是否可恢复（is resumable）：用来确定会话是否可用于初始化新连接的标志。
-
 #### SSL Security & Improvement
 SSL标准协议存在着以下不容忽视的缺点
 - 不符合《商用密码管理条例》中对商用密码产品不得使用国外密码算法的规定。
@@ -80,7 +84,6 @@ SSL标准协议存在着以下不容忽视的缺点
 ![](../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%205.29.28PM.png)
 
 SSL protocol Stack. The SSL Record Protocol provides basic security services to upper layer protocols. The SSL Handshake Protocol among three upper layer protocols is used to negotiate security parameters for an SSL connection. The other two protocols in the upper layer protocols, Change Cipher Spec Protocol and Alert Protocol, are supplementary for SSL. The SSL Record Protocol fragments the application message into blocks of 214 bytes or less and optionally
-
 #### 1️⃣ SSL Record Protocol
 SSL记录协议为SSL连接提供了两种服务
 - 机密性：握手协议为SSL有效载荷的常规密码定义共享秘密密钥。
@@ -93,7 +96,6 @@ SSL记录协议为SSL连接提供了两种服务
 ![](../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%205.37.48PM.png)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%205.39.38PM.png)
-
 #### 2️⃣ SSL Handshake Protocol
 ![](../../../../../../Assets/Pics/Screenshot%202023-12-16%20at%205.44.19PM.png)
 
@@ -107,7 +109,7 @@ SSL记录协议为SSL连接提供了两种服务
 
 
 ## 🎯 TLS (Transport Layer Security，传输层安全)
-↗ [TLS (Transport Layer Security)](📌%20TLS%20(Transport%20Layer%20Security)/TLS%20(Transport%20Layer%20Security).md)
+↗ [TLS (Transport Layer Security) Protocols](📌%20TLS%20(Transport%20Layer%20Security)%20Protocols/TLS%20(Transport%20Layer%20Security)%20Protocols.md)
 
 
 

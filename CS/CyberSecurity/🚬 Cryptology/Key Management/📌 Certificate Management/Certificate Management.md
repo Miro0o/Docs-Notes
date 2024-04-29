@@ -9,7 +9,7 @@
 ↗ [X.509 Public Key Certificate Standard](../📌%20Key%20Management%20Life%20Circle/🚛%20Key%20Distribution/Asymmetric%20Key%20Distribution%20(AKD)/AKD%20via%20Public%20Key%20Certificates/X.509%20Public%20Key%20Certificate%20Standard/X.509%20Public%20Key%20Certificate%20Standard.md)
 
 ↗ [PKI Scheme (Centralized)](../📌%20Key%20Management%20Life%20Circle/🚛%20Key%20Distribution/Asymmetric%20Key%20Distribution%20(AKD)/AKD%20via%20Public%20Key%20Certificates/🏦%20PKI%20Scheme%20(Centralized)/PKI%20Scheme%20(Centralized).md)
-↗ [OpenSSL Project](../../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS%20Protocol/OpenSSL%20Project/OpenSSL%20Project.md)
+↗ [OpenSSL Project](../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🚉%20Transportation%20Layer%20Security%20Protocols/SSL%20&%20TLS%20Protocol/SSL%20&%20TLS%20Implementations/OpenSSL%20Project/OpenSSL%20Project.md)
 
 
 

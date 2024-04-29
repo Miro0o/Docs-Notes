@@ -39,6 +39,12 @@
 🙈 See ↗ [Automata Theory and Formal Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Automata%20Theory%20and%20Formal%20Language%20Theory.md) for detailed FSM info.
 
 
+### RDT Developments & Main Design Thoughts
+1. ↗ [Stop-and-Wait (SW)](Stop-and-Wait%20(SW).md)
+2. ↗ [Go-Back-N (GBN)](Go-Back-N%20(GBN).md)
+3. ↗ [Select Repeat (SR)](Select%20Repeat%20(SR).md)
+
+
 
 ## 📌 ARQ (Automatic Repeat reQuest)
 Control messages allowing the receiver to let the sender know what has been received correctly, and what has been received in error and thus requires repeating --- in a computer network setting, reliable data transfer protocols based on such retransmission are known as **ARQ (Automatic Repeat reQuest)** protocols.
@@ -57,7 +63,6 @@ Fundamentally, **three additional protocol capabilities are required in ARQ prot
 
 
 ## Pipelined RDT (Pipelined Error Recovery)
-
 ![](../../../../../Assets/Pics/Screenshot%202023-04-15%20at%2010.25.21%20AM.png)
 
 Pipelining has the following consequences for reliable data transfer protocols:
@@ -71,22 +76,6 @@ Two basic approaches toward pipelined error recovery can be identified: **Go-Bac
 
 ## Sliding-Windows Protocol （滑动窗口协议）
 #TODO 
-
-
-
-
-## Essentials of RDT
-### 🚴‍♀️ Stop-and-Wait (SW)
-↗ [Stop-and-Wait (SW)](Stop-and-Wait%20(SW).md)
-
-
-### 🚴‍♀️ Go-back-N (GBN)
-↗ [Go-Back-N (GBN)](Go-Back-N%20(GBN).md)
-
-
-### 🚴‍♀️ Selective Repeat (SR)
-↗ [Select Repeat (SR)](Select%20Repeat%20(SR).md)
-
 
 
 

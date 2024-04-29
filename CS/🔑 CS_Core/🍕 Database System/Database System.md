@@ -10,7 +10,7 @@
 ↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 ↗ [Parallel Computing](../🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
 
-For Cloud Native Database, go to ↗ [Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Native/Cloud%20Native.md) and find more !!
+For Cloud Native Database, go to ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md) and find more !!
 
 ↗ [Network-Attached Storage (NAS) & NAS Protocols](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols.md)
 ↗ [Large Data Computing Platforms](../../Data%20Science/🧯%20Large%20Data%20Computing%20Platforms/Large%20Data%20Computing%20Platforms.md)

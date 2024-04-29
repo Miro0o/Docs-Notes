@@ -79,7 +79,7 @@ https://m.nmgfic.com/dzgd/101733.html
 https://www.ptxz.com/soft/71649.htm
 微信/支付宝模拟器 👍
 
-https://tool.dvgod.com/scan_pay.html
+https://tool.dvgod.com/
 微信/支付宝截图生成-网页版
 
 https://www.goodsunlc.com/status/screenshots/wxzd.html

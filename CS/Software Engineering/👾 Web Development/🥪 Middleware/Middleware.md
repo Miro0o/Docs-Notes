@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Cloud Native](../../☁️%20Cloud%20Native/Cloud%20Native.md)
-↗ [Cloud Platform (System Level Engineering)](../../☁️%20Cloud%20Native/Cloud%20Platform%20(System%20Level%20Engineering)/Cloud%20Platform%20(System%20Level%20Engineering).md)
-↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
+↗ [Cloud Computing & Cloud Native](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+↗ [Cloud Operating System & Platform (System Level Engineering)](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
+↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
 ↗ [Software Maintenance & Operations Management](../../👁️%20Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
 ↗ [Web Security Middleware & Frameworks](../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Web%20Security%20Middleware%20&%20Frameworks/Web%20Security%20Middleware%20&%20Frameworks.md)

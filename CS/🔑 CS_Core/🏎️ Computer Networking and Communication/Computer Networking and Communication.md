@@ -63,12 +63,12 @@ Beej's Guide to Network Concepts
 
 
 ### 👩‍🔬 Labs
-↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
+↗ [Linux SoftwareNetwork Management /Basics](../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Management%20Basics.md)
 #### Wireshark Labs
 🔗 https://gaia.cs.umass.edu/kurose_ross/wireshark.php
 
-I'm using ↗ [TermShark](../../CyberSecurity/☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark%20CLI/TermShark.md) for package sniffing & analysing
-Termshark is based on ↗ [Wireshark](../../CyberSecurity/☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark.md) (Specifically based on ↗ [TShark](../../CyberSecurity/☠️%20Kill%20Chain/Pen-testing%20Tools/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark%20CLI/TShark.md))
+I'm using ↗ [TermShark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark%20CLI/TermShark.md) for package sniffing & analysing
+Termshark is based on ↗ [Wireshark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark.md) (Specifically based on ↗ [TShark](../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Wireshark/Wireshark%20CLI/TShark.md))
 #### Building TCP/IP Stack
 🔗 https://github.com/cs144/sponge\
 

@@ -365,3 +365,4 @@ Lots of links & resources related to cybersecurity
 [网络安全行业全景图（2023年4月第十版）发布 | 安全牛]: https://www.aqniu.com/focus/95236.html
 ![](../../Assets/Pics/Pasted%20image%2020240414133043.png)
 
+[defence stratagy | wikipedia]: https://en.wikipedia.org/wiki/Defense_strategy_(computing)

@@ -116,3 +116,6 @@ about the math equation in tex.
 [LaTex支持中文的三种方式 | CSDN]: http://t.csdnimg.cn/UvhOd
 [LaTeX Error: File `ctex.sty' not found | StackExchange]: https://tex.stackexchange.com/q/687540/312951
 [How do I add a .sty file to my MacTeX/TeXShop installation? | StackExchange]: https://tex.stackexchange.com/q/10252/312951
+
+[LaTex输入中文英文混排 | CSDN]: http://t.csdnimg.cn/xnwFP
+[LaTeX支持中文英文混排编译的三种方式-Slager - 中奥智能SINOAUS的文章 - 知乎]: https://zhuanlan.zhihu.com/p/381759570
