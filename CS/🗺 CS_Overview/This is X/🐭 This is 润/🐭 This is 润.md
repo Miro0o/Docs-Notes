@@ -35,6 +35,9 @@ http://cs.mfa.gov.cn ｜ 中国领事服务馆
 [美国签证预约时间](https://tuixue.online/visa/)
 北京/上海/广州/沈阳美签最早预约时间查询
 
+https://www.rcime.com
+Immigration Medical Examination ｜ 出国移民体检
+
 
 ### General CS Info
 https://www.universities.com

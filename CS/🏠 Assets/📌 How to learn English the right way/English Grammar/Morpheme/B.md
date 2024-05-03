@@ -339,15 +339,18 @@
 	1. phanerogam
 		1. _[phanerogam](dic://phanerogam)_  n. [植] 显花植物
 	2. diaphaneity
-		1. diaphanous
-			1. _adj._ [thin](dic://thin)
-			2. _n._ [thick](dic://thick)
-			3. **ethereal**天上的;**translucent**半透明的;**silvery**似银的，银色的;**chiffon**薄绸;**lacy**花边的;**airy**通风的;**luminous**发光的;**crystalline**水晶的;**tulle**薄纱;**iridescent**彩虹色的;**veil**面纱;
-			4. a diaphanous dress of pale gold. /淡金色的精致连衣裙。
-			5. he pupils were attired in their prettiest frocks, and as Sara danced particularly well, she was very much brought forward, and Mariette was requested to make her as diaphanous and fine as possible. /学生们穿着他们最漂亮的连衣裙，由于萨拉的舞蹈特别好，她被提出来了，玛丽埃特被要求让她尽可能地轻盈和精致。
+		1. dia-穿过 + phane-显示 + -ity, 表名词
+		2. diaphanous
+			1. dia-,穿过，-phan 发光，显现，词源同 phantasm,photo.即透光的，半透明的。
+			2. _adj._ [thin](dic://thin)
+			3. _n._ [thick](dic://thick)
+			4. **ethereal**天上的;**translucent**半透明的;**silvery**似银的，银色的;**chiffon**薄绸;**lacy**花边的;**airy**通风的;**luminous**发光的;**crystalline**水晶的;**tulle**薄纱;**iridescent**彩虹色的;**veil**面纱;
+			5. a diaphanous dress of pale gold. /淡金色的精致连衣裙。
+			6. he pupils were attired in their prettiest frocks, and as Sara danced particularly well, she was very much brought forward, and Mariette was requested to make her as diaphanous and fine as possible. /学生们穿着他们最漂亮的连衣裙，由于萨拉的舞蹈特别好，她被提出来了，玛丽埃特被要求让她尽可能地轻盈和精致。
+			7. diaphanous dreams of glory./幻灭的美梦
 	3. emphatic (exclamatory)
-		1.  [emphasized](dic://emphasized), [emphasised](dic://emphasised)
-		2.  [exclamatory](dic://exclamatory)
+		1. [emphasized](dic://emphasized), [emphasised](dic://emphasised)
+		2. [exclamatory](dic://exclamatory)
 		3. [forceful](dic://forceful)
 		4. _adj._ [stressed](dic://stressed), [accented](dic://accented), [forceful](dic://forceful), [assertive](dic://assertive)
 		5. _n._ [unstressed](dic://unstressed), [forceless](dic://forceless), [unforceful](dic://unforceful), [unassertive](dic://unassertive)
@@ -400,17 +403,23 @@
 		2. phenomenal
 		3. phenomenological
 		4. phenomenology
-	15. sycophancy
-		1. n. 追随, 奉承, 谄媚
-		2. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
-		3. **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
-		4. **servitude**奴隶状态;**cowardice**懦弱;**arrogance**傲慢;**indifference**不关心,不在乎;**abject**卑贱的;**disdain**蔑视;**contempt**轻视，蔑视;**tyranny**暴政;**obedience**服从;**selfishness**自私;**humility**谦卑，谦逊;
-		5. [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
-		6. _[sycophancy](dic://sycophancy)_  n. 谄媚；奉承；追随；拍马屁
-		7. _[sycophancy y](dic://sycophancy%20y)_ 阿谀奉承
-		8. _[subservient all sycophancy or obsequiousness](dic://subservient%20all%20sycophancy%20or%20obsequiousness)_ 形容行为卑屈如奴才
-		9. Seeing clearly requires a vision unclouded either by rage or by sycophancy. 看得清楚需要不受愤怒或阿谀奉承的影响。
-		10. sycophant
+	15. sycophancy (idiosyncrasy)
+		1. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
+		2. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
+		3. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
+		4. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
+		5. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
+		6. syco-[=flg无花果] + phan-显示 + -cy
+		7. n. 追随, 奉承, 谄媚
+		8. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
+		9. **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
+		10. **servitude**奴隶状态;**cowardice**懦弱;**arrogance**傲慢;**indifference**不关心,不在乎;**abject**卑贱的;**disdain**蔑视;**contempt**轻视，蔑视;**tyranny**暴政;**obedience**服从;**selfishness**自私;**humility**谦卑，谦逊;
+		11. [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
+		12. _[sycophancy](dic://sycophancy)_  n. 谄媚；奉承；追随；拍马屁
+		13. _[sycophancy y](dic://sycophancy%20y)_ 阿谀奉承
+		14. _[subservient all sycophancy or obsequiousness](dic://subservient%20all%20sycophancy%20or%20obsequiousness)_ 形容行为卑屈如奴才
+		15. Seeing clearly requires a vision unclouded either by rage or by sycophancy. 看得清楚需要不受愤怒或阿谀奉承的影响。
+		16. sycophant
 			1. syco-[=flg无花果] + phant-显现 → 显示无花果 → 献上无花果 → 拍马屁。
 			2. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
 			3. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
@@ -419,8 +428,8 @@
 			6. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
 			7. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
 			8. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
-		11. sycophantish
-		12. sycophantic
+		17. sycophantish
+		18. sycophantic
 	17. theophany
 		1. theo-神 + phany-显示
 		2. _n._ [manifestation](dic://manifestation)
@@ -438,6 +447,63 @@
 	3. etc...
 3. **phot-, phos-** = light, 表示“光”。源自希腊语 phos (词干 phot-) "light."
 	1. etc..
+4. beacon
+	1. n. 烽火; 灯塔; 指路人  
+	2. v. 照亮
+	3. beckon ['bek(ə)n] v.召唤；吸引；示意，n.表召唤的点头；手势。这个单词不太好记，但招财猫the beckoning cat都见过吧？而且用食指或勾手召唤别人的姿势也做过好多次吧？实际上，明白beckon实际是beacon ['biːk(ə)n] n.灯塔这个单词的异体就明白了。这两个单词追溯到印欧根的意思是“to shine”。
+	4. 来自 PIE*bha,发光，照耀，词源同 fantasy,幻想物。
+5. beckon
+	1. v. 招手示意, 召唤, 吸引  
+	2. n. 表召唤的点头(或手势)
+	3. beckon ['bek(ə)n] v.召唤；吸引；示意，n.表召唤的点头；手势。这个单词不太好记，但招财猫the beckoning cat都见过吧？而且用食指或勾手召唤别人的姿势也做过好多次吧？实际上，明白beckon实际是beacon ['biːk(ə)n] n.灯塔这个单词的异体就明白了。这两个单词追溯到印欧根的意思是“to shine”。
+	4. 
+6. berry
+	1. n. 浆果  
+	2. vi. 采集浆果
+	3. 可能来自 bur,毛，刺。指生长莓子的灌木，后指莓子。
+7. buoy
+	1. n. 浮标, 航标, 救生圈  
+	2. vt. 使浮起, 鼓励
+	3. 词源同 beacon,灯塔，来自 PIE*bha,照明，闪光。
+	4.  [buoy up](dic://buoy up)
+	5. _n._ [reference point](dic://reference point), [point of reference](dic://point of reference), [reference](dic://reference)
+	6. _v._ [float](dic://float), [swim](dic://swim), [hold](dic://hold), [support](dic://support), [sustain](dic://sustain), [hold up](dic://hold up), [mark](dic://mark)
+	7. **mooring**下锚;**shore**岸;**anchor**锚;**boat**小船;**lifeboat**救生艇，救生船;**sailboat**帆船;**vessel**容器，器皿;**tide**潮汐;**tug**用力拉;**sail**航行;**raft**筏;
+	8. _mooring buoy_ 系泊浮筒；系船浮筒
+	9. _life buoy_ 救生圈；救生衣
+	10. to buoy up the economy /繁荣经济
+	11. the price is buoyed up by investors. /投资者使价格一路飙升。
+	12. A buoy marked the entrance to the anchorage. /停泊处的入口有一个浮标作标记。
+	13. I let the water buoy up my weight /我任水把我浮起。
+	14. the party was buoyed by an election victory. /竞选获胜，该党情绪一片高涨。
+	15. We were buoyed up by good news./我们为好消息所鼓舞。
+	16. Studies have shown that music can buoy mood, fend off depression and improve sleep. /研究表明，音乐可以提振情绪，抵御抑郁，改善睡眠。
+	17. sonobuoy
+	18. radiosonobuoy
+		1. - 无线电音漂筒
+	19. buoyant
+		1.  [floaty](dic://floaty)
+		2.  [chirpy](dic://chirpy), [perky](dic://perky)
+		3. _adj._ [light](dic://light), [cheerful](dic://cheerful)
+		4. _n._ [heavy](dic://heavy), [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+		5. **upbeat**上升;**exuberant**兴高采烈的;**energetic**精力充沛的, 充满活力的;**bouncy**有弹性的;**cheerful**高兴的;**optimistic**乐观的, 乐观主义的;**joyous**令人高兴的;**uplifting**令人振奋的;**resilient**适应力强的;**cheery**愉快的，活泼的;**lively**活泼的;
+		6. _buoyant force_ 浮力
+		7. Cork is a very buoyant material. /软木是极易浮起的材料。
+		8. a buoyant balloon; buoyant spirits. /一个漂浮起来的气球；高涨的情绪
+		9. in a buoyant mood. /轻松的心情
+		10. the Scottish champions were buoyant after they disposed of English champions Leeds. /苏格兰冠军在战胜英格兰冠军利兹队后感到轻松愉快。
+		11. If so, a buoyant market will force their hand soon. /如果这样，活跃的市场很快会强迫他们双手。
+	20. buoyancy
+		1. [perkiness](dic://perkiness)
+		2. [airiness](dic://airiness)
+		3. [irrepressibility](dic://irrepressibility)
+		4. _n._ [cheerfulness](dic://cheerfulness), [blitheness](dic://blitheness), [lightness](dic://lightness), [weightlessness](dic://weightlessness), [tendency](dic://tendency), [inclination](dic://inclination), [liveliness](dic://liveliness)
+		5. **buoyant**有浮力的;**gravity**重力，地心引力;**lightness**光亮度;**propulsion**推进;**buoy**浮标;**diver**潜水者;**rudder**飞机方向舵;**ballast**压舱物，压载物;**helium**氦;**underwater**在水中生长的;**float**使漂浮;
+		6. Manatees fart to maintain the right buoyancy in water /海牛放屁是为了在水中保持适当的浮力。
+		7. Shella's injuries have affected her buoyancy. /希娜的伤影响了她的浮性。
+		8. Their size gives them increased buoyancy and musculature to be great swimmers /它们的体型增加了它们的的浮力和肌肉组织，使得它们成为了优秀的游泳运动员。
+	21. buoyance
+	22. buoyage
 #### ⭐ + \*bha- (2) + = to speak
 1. **ban-** = prohibit, 表示“禁止、禁令”。原始日耳曼语词源，分别通过古法语，古英语，晚期拉丁语，意大利语进入英语。
 	1. abandon
@@ -553,11 +619,11 @@
 		5. dysphasia, paraphasia
 		6. phatic
 	3. apophasis
-		1. - n. 故抑其词；以求婉达
+		1. n. 故抑其词；以求婉达
 		2. _n._ [rhetorical device](dic://rhetorical device)
 		3. **rhetorical**修辞的;**metaphysics**形而上学,玄学;**allusion**暗示;**discourse**论文;**adjective**形容词;**rhetoric**修辞，修辞学;
 	4. prophecy, prohesy
-		1. prophet,
+		1. prophet
 		2. prophetical
 		3. prophetic
 			1. _adj._ [adumbrative](dic://adumbrative), [foreshadowing](dic://foreshadowing), [prefigurative](dic://prefigurative), [apocalyptic](dic://apocalyptic), [apocalyptical](dic://apocalyptical), [revelatory](dic://revelatory), [clairvoyant](dic://clairvoyant)
@@ -585,6 +651,11 @@
 	2. anthem
 		1. _n._ [song](dic://song), [vocal](dic://vocal), [religious song](dic://religious song)**song**歌曲;**hymn**赞美诗;**sung**唱歌;**ballad**歌谣，民谣;**lyric**抒情的;**chorus**合唱队;**sang**sing的过去式;**lyrics**歌词;**sing**唱歌;**melody**旋律;**chant**圣歌;
 	3. allophone
+		1. (linguistics) any of various acoustically different forms of the same phoneme
+		2. _n._ [phoneme](dic://phoneme)
+		3. **vowel**元音;**consonant**辅音;**vowels**元音，母音;**dialects**乡土语言，方言;**syllable**音节;**pronunciation**发音;**phonetic**语音的，语音学的;**lexical**词汇的;**dialect**方言，土话;
+		4. n. 音位变体
+		5. **Allophone** is a phonetic variant of a phoneme. /音位变体就是音位的语音变异。
 	4. antiphonal
 	5. aphonia, dysphonia
 	6. banns

@@ -626,6 +626,23 @@
 		3. sumptuously
 
 
+### -eme = unit, 表示“...单位”
+1. grapheme
+	1. n. 书写单位, 字素
+	2. graph,写，文字，-eme,单位，见 phoneme.
+2. morpheme
+	1. n. 语素, 词素
+	2. phoneme ['fəʊniːm] n.音素；音位，词根phon表声音，而-eme是其希腊来源phonema的-ema部分，希腊后缀-ma表示行为结果，所以phoneme就是a sound made。后来这个-eme在语言学有了延伸，表示unit，如morpheme n.词素，就是smallestmeaningful unit in a language，包括我们常说的词根和前缀&amp;后缀。
+3. phoneme
+	1. n. 音素, 音位
+4. semanteme
+	1. n. 义素(语义单位)
+5. tagmeme
+	1. n. 法位
+6. taxeme
+	1. n. 语法特点
+
+
 
 ## en
 ### ⭐ + \*en- + =in

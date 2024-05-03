@@ -7,7 +7,7 @@
 ## Res
 🏠 https://flask.palletsprojects.com/en/2.2.x/
 
-> Flask is using ↗ [Jinja](../../../../🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating%20Engines%20&%20Languages/Jinja/Jinja.md) as its templating languages for web generating.
+> Flask is using ↗ [Jinja](../../../../🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Jinja/Jinja.md) as its templating languages for web generating.
 
 
 
