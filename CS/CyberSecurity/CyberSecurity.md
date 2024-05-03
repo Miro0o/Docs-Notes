@@ -109,6 +109,9 @@ https://wiki.wgpsec.org
 
 
 ### Info & Res & News
+📄 🤔 https://assume-breach.medium.com/im-not-a-pentester-and-you-might-not-want-to-be-one-either-8b5701808dfc
+I’m Not A Pentester (And You Might Not Want To Be One Either)
+
 https://www.aqniu.com
 安全牛
 
