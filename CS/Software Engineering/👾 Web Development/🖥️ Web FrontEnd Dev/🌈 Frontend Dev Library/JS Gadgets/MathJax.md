@@ -8,7 +8,7 @@
 🏠 https://www.mathjax.org
 📂 https://docs.mathjax.org/en/latest/basic/mathjax.html
 
-↗ [👍 Tex & LaTex](../../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/👍%20Tex%20&%20LaTex.md)
+↗ [👍 Tex & LaTex](../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/👍%20Tex%20&%20LaTex.md)
 
 📌 📃 https://math.meta.stackexchange.com/q/5020
 **MathJax basic tutorial and quick reference**

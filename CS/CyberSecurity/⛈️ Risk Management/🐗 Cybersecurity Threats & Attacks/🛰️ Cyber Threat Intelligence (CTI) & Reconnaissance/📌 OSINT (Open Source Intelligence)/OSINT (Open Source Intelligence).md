@@ -35,7 +35,7 @@ Sublist3r is a Python-based tool that can be utilized during domain harvesting, 
 
 
 ### Web Scraping
-↗ [Web Scraping](../../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python%20Applications/Web%20Scraping/Web%20Scraping.md)
+↗ [Web Scraping](../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python%20Applications/Web%20Scraping/Web%20Scraping.md)
 
 
 
@@ -86,7 +86,7 @@ What is deleted from the internet is not necessarily deleted from Google. Every 
 
 
 #### Other Sources...
-↗ [Search Services & Information Index](../../../../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/Search%20Services%20&%20Information%20Index.md)
+↗ [Search Services & Information Index](../../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/Search%20Services%20&%20Information%20Index.md)
 
 https://pastebin.com
 

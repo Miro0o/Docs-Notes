@@ -3891,6 +3891,7 @@ grot (krau-)
 - grotesque
 
 ground
+- 来自古英语 grund,底部，尤指海底。后词义通用化。
 -  [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [solid ground](dic://solid ground), [terra firma](dic://terra firma)
 - [reason](dic://reason)
 - [earth](dic://earth)
@@ -3911,6 +3912,16 @@ ground
 	- [ground](dic://ground) 含义与basis和foundation接近。一般指某种决定、论点或关系的基础，也可指某种原因的基础。
 - **floor**地板，地面;**footing**立足处;**soil**土地;**grass**草;**feet**脚;**stomping**跺脚;**pavement**人行道;**bare**空的;**tarmac**柏油碎石路面;**turf**草皮;**surface**表面;
 - _on the ground_ 在地上；当场；在决斗
+	- 在地面上：指在地面上，与空中或其他位置相对。 
+	- 实际情况：指真实的、实际存在的情况或情况。 
+	- 基础：指某事物的基础或基础。
+	- Sebastian Usher assesses the situation on the ground. /以下是塞巴斯汀·厄舍对该事件的实地报道。
+	- Facts on the ground - Facts on the ground is a diplomatic term that means the situation in reality as opposed to in the abstract.
+- _on the ground of_ 以…为理由；因为
+	- _[on the ground of illness](dic://on%20the%20ground%20of%20illness)_  以健康不佳为理由
+	- _[on the grounds of self-preservation](dic://on%20the%20grounds%20of%20self-preservation)_  因为自我保护
+	- The legislation significantly curtails the court's ability to review government decisions on the ground of " reasonableness" /这项立法极大地限制了法院以“合理”理由审查政府决定的能力。
+	- As is apparent from **the** description, ERIN BROCKOVICH is film treading **on** **the** **ground** **of** earlier films /从上述描述中可以明显地看出，《永不妥协》走的是以前电影的老路。
 - _to the ground_ 彻底地
 - _ground someone in something_ 给某人在某方面打下良好基础
 - _common ground_ （争论双方的）共同基础；一致之处
@@ -3929,7 +3940,6 @@ ground
 - _on ground_ 在地面
 - _soft ground_ 软弱地基；软土地面；不稳定地层；弱土质
 - _ground pressure_ 地面压力
-- _on the ground of_ 以…为理由；因为
 - _find common ground_ 找到共同点
 - _training ground_ 训练场地
 - _open ground_ 开阔地，露天地
@@ -4717,18 +4727,78 @@ hide
 - waist-high
 - etc..
 
-hitch
-- **tow**拖;**towing**拖车，拖吊;**trailer**预告片;**winch**卷扬机,绞车,辘轳;**ride**骑马;**axle**车轴;**tailgate**后挡板;**truck**卡车;**wagon**货车，四轮马车;**rope**绳，绳索;
+hit
+-  来自古英语 hittan,接触，掉落，来自 PIE*keid,掉落，掉下，词源同 accident,deciduous.引申词义击，打。
+- hit so hard
+	- - 被猛烈打击：指某人或某物受到了强烈的打击或冲击，通常用于形容身体或情感上的打击。
+	- Why should Japan, **so** far from the storm's centre, have been **hit** **so** **hard**? /日本离风暴中心如此之远，为何会受到如此强烈的冲击呢？
+	- One reason for his optimism is his explanation for why the Asian economies were **hit** **so** **hard** in the first place /他持乐观态度的一个理由，是他对亚洲经济为何比世界其他地区遭受冲击更大的解释。
+	- 
+
+hitch (ditch, pitch, itch, bitch) (inch, pinch, finch, snatch, sntich)
+- 来自中古英语 icchen,猛拉，猝动，引申词义钩住。词义搭免费车缩写自 hitchhike.
+- n. 暂时的困难（或问题）, 小故障  v. 搭便车; 钩住; 提起衣服; 攀上, 跃上
+- cinch, glitch
+- [enlistment](dic://enlistment), [term of enlistment](dic://term of enlistment), [tour of duty](dic://tour of duty), [duty tour](dic://duty tour), [tour](dic://tour) 
+- [arrest](dic://arrest), [check](dic://check), [halt](dic://halt), [stay](dic://stay), [stop](dic://stop), [stoppage](dic://stoppage)
+- [hang-up](dic://hang-up), [rub](dic://rub), [snag](dic://snag)
+- [hindrance](dic://hindrance), [hinderance](dic://hinderance), [preventive](dic://preventive), [preventative](dic://preventative), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance), [interference](dic://interference)
+- [hobble](dic://hobble), [limp](dic://limp)
+- [catch](dic://catch)
+- [limp](dic://limp), [gimp](dic://gimp), [hobble](dic://hobble)
+- [buck](dic://buck), [jerk](dic://jerk)
+- [hitchhike](dic://hitchhike), [thumb](dic://thumb)
 - [time period](dic://time period), [period of time](dic://period of time), [period](dic://period), [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness), [obstacle](dic://obstacle)
 - [attach](dic://attach), [walk](dic://walk), [move](dic://move), [ride](dic://ride), [connect](dic://connect), [link](dic://link), [tie](dic://tie)
-- [hindrance](dic://hindrance), [hinderance](dic://hinderance), [preventive](dic://preventive), [preventative](dic://preventative), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance), [interference](dic://interference)
+- **tow**拖;**towing**拖车，拖吊;**trailer**预告片;**winch**卷扬机,绞车,辘轳;**ride**骑马;**axle**车轴;**tailgate**后挡板;**truck**卡车;**wagon**货车，四轮马车;**rope**绳，绳索;
+- _without a hitch_ 顺利地，成功地，容易地；不停地 (cinch)
+	- 顺利地，没有任何问题或困难地：指某个事件或活动进行时没有出现任何问题或困难。
+	- The transportation initially went off without a hitch. /运输工作一开始进行得很顺利。
+	- His drive to Paris went without a hitch /他开车去的巴黎，旅途一帆风顺。
+	- Everything went off without a hitch. I don't think it could have gone better /没有半点差错。我想不到比这更好的事了
+	- I want everything to be well-planned and to go without a hitch. /我希望一切都计划周密，顺利进行。
+- There is a hitch somewhere /什么地方出了毛病。
+- a hitch in our plans. /我们计划耽搁一阵
+- hitch a horse to a tree /把马栓在树上
+- hitch a ride to the station /搭车去车站
+- hitch up one's suspenders /拉紧吊带
+- a three-year  hitch in the army /在军队服役三年
+- We got hitched last weekend. /
 - unhitch
+	- _v._ [undo](dic://undo)
+	- _n._ [hitch](dic://hitch), [catch](dic://catch)
+	- **hitch**钩;**tow**拖;**pull**拉;**wagon**货车，四轮马车;**caravan**旅行队;**fasten**扎牢;**winch**卷扬机,绞车,辘轳;**towing**拖车，拖吊;**trailer**预告片;**unload**卸;**RV**娱乐车;
+	- _[unhitch a ladder](dic://unhitch%20a%20ladder)_  脱开梯子 
+	- " Hold on a minute while I unhitch the colt, " Denis called to her, springing toward the shed. /“稍等一下，我给小马拴上马，”丹尼斯冲着棚子冲她喊道。
+	- Pa called, " Caroline, if you'll come take this pail of honey, I'll go unhitch." 195 Ma came out to the wagon, disappointed. /爸爸喊道：“卡罗琳，如果你来拿这桶蜂蜜，我就去解套。” 195 马妈妈失望地走到马车旁。
+	- " Yes, " she says. " I will" . So I told her where to be, and went to the livery stable. I hurried and got there just as they were unhitching the hack. /“是的，”她说。 “我会”。所以我告诉她要去哪里，然后去了马房。就在他们解开马车的时候，我赶紧赶到了那里。
 - hitchhike
+	- _n._ 搭便车(旅行)
+	- _vi._ <美><口>作搭便车式的旅行
+	- _v._ [ride](dic://ride)
+	- **traveled**富有旅行经验的;**trip**旅行;**trek**艰苦跋涉;**detour**使…绕道而行;**travelled**有旅行经验的;**overland**陆上的;**ride**骑马;**traveling**旅行的;**cross-country**越野的;**someplace**在某处;**stopover**中途停留;
+	- From there, he hitchhiked to Paris in a lorry. /从那里他又搭上卡车到了巴黎。
+	- To me, you've never been hotter, and I've seen you hitchhike in a bikini. /我觉得你现在的样子最性感，而我可是看过比你穿比基尼搭便车时的样子呢。
 	- hitchhiking
 - hitchy
 	- adj. 蹒跚的，颠簸的；急跳的
 
 hind
+- 单词A：hart [hɑːt] n.雄赤鹿。单词B：hind [haɪnd] n.雌鹿，adj.后部的。单词C：horn [hɔːn] n.角；喇叭。哎，A是horneddeer有角的鹿，即有C的deer，B是hornless的鹿，即没有C的鹿。ABC三个单词相关。这里的关键是：拉丁词根corn和horn同源！想到了鸳鸯、凤凰...琴瑟、琵琶，脑洞大开的节奏。 ​​​​
+-  来自 Proto-Germanic*hind,后面，词源同 behind.进一步可能来自 PIE*ken,使运动，移动，词源同 cinema,conation,kinetic.即运动准备，后腿发力，引申词义后面的，后腿的。
+-  [back(a)](dic://back(a)), [hinder(a)](dic://hinder(a))
+- _n._ [grouper](dic://grouper), [red deer](dic://red deer), [Cervus elaphus](dic://Cervus elaphus)
+- _adj._ [posterior](dic://posterior)
+- _n._ [anterior](dic://anterior)
+	- [back](dic://back) 作为副词或形容词时，强调所修饰物的位置以及动作运动方向。  
+	- [ward](dic://ward) ward可用于人或物，指向后的，落后的或迟钝的。  
+	- [hind](dic://hind) 指成对并且分前后的东西的“后面的”。  
+	- [behind](dic://behind) 指一物同它物相对的位置或场所
+	- **tail**尾部;**paw**抓，扒;**dorsal**背的，背侧的;**legs**木头支架;**fore**在前部的;**hoof**步行;**leg**腿;**snout**鼻子;**limbs**四肢;**calf**小牛;**calves**小牛;
+- _hind leg_ 后腿；后肢
+- _hind limb_ 后肢
+- _hind wing_ 后翅
+- the hinder end of its body /它躯体后端。
 - hindsight
 - hindquarter, hindquarters
 - hindmost, hindermost
@@ -4736,15 +4806,29 @@ hind
 - hindlimb
 - hindgut
 - hinder
-	-  [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
+	- [impede](dic://impede)
+	- [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
 	- [handicap](dic://handicap), [hamper](dic://hamper)
 	- [prevent](dic://prevent), [keep](dic://keep), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid), [disadvantage](dic://disadvantage)
 	- [posterior](dic://posterior)
+	- _n._ [anterior](dic://anterior)
+		- [block](dic://block) 语气强烈，指有效堵住了通道，使人或物无法通过。  
+		- [bar](dic://bar) 含义与block很接近，指阻塞通道或禁止出入，但有对暗示不用障碍物的阻止或禁止。  
+		- [hinder](dic://hinder) 语气较轻，多指阻碍、拖延人或事，强调使进展速度缓慢下来。  
+		- [obstruct](dic://obstruct) 正式用词，语气强，多指以干扰或设置障碍的方式阻碍交通，使不能自由畅通。  
+		- [prevent](dic://prevent) 含义广泛，指采取预防措施或设置障碍去阻止某人或某事。  
+		- [hamper](dic://hamper) 侧重因受到约束或阻碍而造成的行动困难。
+	- **impede**阻止;**inhibit**抑制;**obstruct**阻塞;**interfere**干预;**impair**削弱;**hindrance**起妨碍作用的事物或人;**discourage**使气馁;**hamper**妨碍;**undermine**在某物下挖洞或挖通道;**jeopardize**危及, 损害;**diminish**使减少;
+	- Heavy snow hindered construction work. /大雪阻碍了建筑工程的进展。
+	- And this really hindered their capacity to cooperate. /而这阻碍了它们的合作能力。”
 	- hinderance
 	- hinderiand
 - hindbrain
+	- _n._ [neural structure](dic://neural structure)
 	- **cortex**皮质;**ventral**腹部的;**cortical**皮质的;**neurons**神经原，神经细胞;**neuronal**神经元的;**dorsal**背的，背侧的;**hippocampus**马头鱼尾的怪兽;**mammalian**哺乳动物;**embryonic**胚芽的;**anterior**前面的;**neuron**神经元，神经单位;
+	- We call these chambers the prosencephalon, the mesencephalon, and the rhombencephalon -- or forebrain, midbrain, and hindbrain. /我们称这些脑室为前脑、中脑和菱形脑室或者前脑、中脑和后脑。
 - behind
+	- behindhand
 
 hoar (grizzled)
 - 来自古英语 har,灰白的，老的，词源同 herring,hare.引申词义霜。
@@ -4781,11 +4865,18 @@ hoard
 - _v._ [save](dic://save), [lay aside](dic://lay aside), [save up](dic://save up), [store](dic://store), [hive away](dic://hive away), [lay in](dic://lay in), [put in](dic://put in)
 - **stockpile**囤聚的物资;**stash**藏匿处;**horde**游牧部落;**treasure**财富，财产;**plunder**抢夺;**loot**掠夺品;**trove**被发现的东西;**treasury**财政部;**looting**抢劫;**piles**痔疮;**surplus**过剩;
 - word-hoard
-	- - n. 词汇表；个人词汇量
+	- n. 词汇表；个人词汇量
 - hoarding
 - hoarder
+	- n. 贮藏者；囤积者
 	- _n._ [saver](dic://saver)
 	- **junkie**有毒瘾者;**addict**有瘾的人，入迷的人;**OCD**强迫性神经官能症;**compulsive**极有趣的;**stash**藏匿处;**obsessive**萦绕于心的;**collector**收集者, 收取者;**closet**壁橱;**fanatic**狂热入迷者;**snob**势利小人，势利眼;**clutter**杂乱，混乱;
+	- _[He is a hoarder](dic://He%20is%20a%20hoarder)_ 他是个守财奴
+	- _[Trophy hoarder](dic://Trophy%20hoarder)_ 冠军专业户
+	- _[Animal Hoarder](dic://Animal%20Hoarder)_ 动物囤积者
+	- _[wardrobe hoarder](dic://wardrobe%20hoarder)_ 囤衣狂
+	- Early adopters and gadget hoarders aside, people want to know why they need the new products. /刨去最早尝鲜者和设备收藏癖，人们想知道为什么需要这些新产品。
+	- I've been a junk hoarder for my whole life, so I like different things /我做了一辈子的废品囤积者，所以我很喜欢各式各样的东西。
 - dishoarding
 
 hoarse (coarse)
@@ -6697,6 +6788,12 @@ mud
 	- [mud](dic://mud) 指湿土，尤指雨后稀泥、污泥。  
 	- [ground](dic://ground) 通常指大地的表面，也可指土壤、泥土或场地。
 - **muck**垃圾;**muddy**泥泞的;**dirt**污垢，泥土;**puddles**划桨留下的水旋涡;**puddle**水坑，泥潭;**sand**沙;**gravel**砂砾;**slime**黏液;**dung**动物的粪便;**wet**潮湿的;**lava**火山岩浆;
+- throw mud
+	- 抛泥：指故意诽谤或攻击他人，尤指在公众场合中使用恶意言辞或不实信息来破坏对方的声誉。
+	- All he's trying to do is to **throw** **mud** at my name. /他所作的一切都是为了往我的名字上抹黑。
+	- Remember that whenever you **throw** **mud** at somebody you lose ground /记得，当你向别人掷块土，那你可少了一块地。
+	- She likes to **throw** **mud** at people. /她喜欢说别人坏话。
+	- You're not asking questions. You're throwing mud. /你哪里是在问问题 明明是在泼脏水。
 - mudslinging
 - mudslinger
 - mudsill
@@ -7054,7 +7151,9 @@ paltry
 - [negligible](dic://negligible), [trifling](dic://trifling)
 - [valuable](dic://valuable), [ample](dic://ample)
 
-pamper
+pamper (pander)
+- 可能来自 pap,流食，软质食物，-er,表反复。即塞满食物，引申词义娇惯，纵容。插入鼻音字母 m,比较 instinct,stick
+- vt. 纵容; 细心照料; <古>使吃饱
 - [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
 - **indulge**迁就;**spa**矿泉;**indulgent**放纵的;**pedicure**修趾甲术;**rejuvenate**使变得年轻, 使恢复活力;**soothe**安慰;**nourish**滋养;**massages**按摩;**luxurious**奢侈的;**relax**放松，休息;**massage**按摩;
 - _[pampers](dic://pampers)_  v. 纵容；饮食过度；使过分满足（pamper的三单形式）
@@ -7062,12 +7161,18 @@ pamper
 - _[be pampered](dic://be%20pampered)_  娇生惯养; 被宠爱; 被纵容; 
 - _[pamper yourself](dic://pamper%20yourself)_  放纵自己; 慰劳自己; 善待自己;
 - it's nice to be pampered for a change /偶尔被关照一下还挺好的。
+- At the spa. Go pamper yourself /去做水疗 让自己放松下。
+- Ants do all this inside enormous colonies pampered by thousands of older sisters. /蚂蚁在成千上万的姐姐的宠爱下，在巨大的蚁群里进行这一切。
+- Why don't you let your mother **pamper** you for a while? /为什么你不让你妈妈照顾你一会儿呢？
 - paltriness
 
 pampas
 - the vast grassy plains of northern Argentina
 - **plains**平地，平原;**Argentinian**阿根廷人;**Argentina**阿根廷;**Andean**安第斯山脉的;**prairie**大草原;**grass**草;**Chilean**智利人;**Uruguayan**乌拉圭人;**Andes**安第斯山脉;**grasses**稻科植物类;**Paraguay**巴拉圭;
 - [geographical area](dic://geographical area), [geographic area](dic://geographic area), [geographical region](dic://geographical region), [geographic region](dic://geographic region)
+
+pander (pamper)
+- pant- Pandora
 
 parchment
 - 来自拉丁语 pergamena,来自希腊语 Pergamon,小亚细亚古国 Mysia 城市名，位于现土耳其境内 Bergama.因产于该地而得名，埃及纸莎草替代书写材料。拼写通俗化。
@@ -7170,7 +7275,19 @@ pert
 	- Not obtrusive, go up pertly courtship, you can refuse for certain. /不要莽撞，冒冒失失上去求爱，你肯定会遭拒绝。
 	- Fancy a man not able to ride! ' said she rather pertly. /“想不到一个不会骑马的人！”她相当得体地说。
 
+pimp
+- 词源不详，可能来自中古法语 pimpant,聪明的，英俊的，后用于俚语拉皮条，皮条客，帅哥等。
+
+pimping
+
+pimple
+- n. 丘疹, 小脓疱
+- 可能来自 pap,乳头，词源同 papilla,乳头状突起，丘疹。-le,小词后缀。
+- pimply
+- pimpled
+
 pin
+-  来自古英语 pinn,插销，螺栓，来自 Proto-Germanic*penn,突点，尖，来自拉丁语 pinna,箭，尖点，来自 PIE*spei,尖，刺点，词源同 pinnacle,spike.引申词义大头针，钢钉，插销，瓶柱等多种词义。
 - unpin
 - underpin
 	-  [corroborate](dic://corroborate), [bear out](dic://bear out), [support](dic://support)
@@ -7261,6 +7378,19 @@ pinch
 - penny-pinch
 - monopinch
 - belly-pinched
+
+pinnacle
+- n. 小尖塔, 尖峰, 高峰, 极点  
+- vt. 造小尖塔, 置于尖顶上
+- pinnacled
+
+pinny
+- n. 围嘴儿, 围巾
+- [jumper](dic://jumper), [pinafore](dic://pinafore)
+- _n._ [dress](dic://dress), [frock](dic://frock)
+- **apron**围裙;**aprons**围裙;**overalls**工作裤;**trousers**裤子，长裤;**handkerchief**手帕;**blouse**宽松的上衣;**sewing**缝纫;**brooch**胸针，领针;**mum**<英口>妈妈，母亲;**dress**给…穿衣;**scarf**围巾;
+- There's one of my pocket-handkins" ! cried Lucie—" and there's my pinny" ! /“这是我的一只手帕” ！露西叫道——“这是我的腰带” ！
+- Yes, that sounds like a lot. I can see I'm going to have to get my pinny on a bit more at home, Alice /没错，听上去工作量很大。看来我也应该多花点时间在家里围上围裙做家务了。
 
 pique
 - n. 赌气, 愤怒, 不快, 凹凸织物  vt. 伤害...自尊心, 激怒, 刺激, 引起兴趣, 使兴奋
@@ -8154,18 +8284,10 @@ rig
 - **rigorous**严格的，严厉的;**objectivity**客观性,客观现实;**sophistication**老练;**discipline**纪律;**rigidity**硬度，刚性;**originality**独创性;**vigor**活力，精力;**academic**学院的;**honesty**诚实，正直;**complexity**复杂;**rationality**理性;
 
 rip
--  来自 Proto-Germanic*ruppona,撕，拉，来自 PIE*reup,拉，扯，抢夺，词源同 rob,rupture.引申诸相关词义。
-- unrip
-- riptide
-- ripsnorting
-- ripsnorter
-- ripsaw
-- riproaring
-- ripping
-- ripper
-- ripoff
-- ripcord
-- rip-roarious
+-  rei- (1)
+
+rive
+- rei-(1)
 
 rite
 - ritual
@@ -9594,6 +9716,62 @@ smithereens
 - **smashed**喝醉酒的;**blow**吹;**blown**吹制的，吹出的;**smashing**粉碎性的，猛烈的;**shattered**疲惫不堪的;**blew**吹;**blowing**吹气法;**smash**打碎;**shatter**打碎;**blasted**枯萎的;**blasting**爆炸;
 - [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
 
+smoke
+- n. 烟, 雾气, 烟熏剂, 抽烟, 烟色  
+- vi. 吸烟, 冒烟, 弥漫  
+- vt. 以烟熏, 抽烟而导致...
+- 来自中古英语 smoke,烟，来自古英语 smoca,烟，来自 Proto-Germanic*smukona,冒烟，来自PIE*smeugh,冒烟，可能与 smell 有词源上的联系。引申词义抽烟，吸烟等。
+- smoky
+	- _adj._ [blackened](dic://blackened), [smoking](dic://smoking), [smoke-filled](dic://smoke-filled), [tasty](dic://tasty)
+	- _n._ [smokeless](dic://smokeless), [tasteless](dic://tasteless)
+	- **smokey**多烟的;**earthy**土的;**sultry**闷热的;**spicy**辛辣的;**smoke**烟;**tangy**有刺激性的;**blackened**涂上辣椒粉和调味品后油炸的;**velvety**天鹅绒般柔软的;**dark**黑暗的，深色的;**smoked**熏制的;**pungent**刺激性的;
+		- a smoky haze. /如烟般的雾气
+		- smoky sausages /烟肠
+		- smoky eyes. /烟灰色眼睛。
+		- a packet of smoky bacon crisps /一包熏肉味薯片
+		-  a smoky jazz sound with spooky atmospherics /气氛阴森的烟感爵士音响效果。
+		- the wine is pungently smoky and peppery on the nose. /这酒烟熏味重而且辣得刺鼻。
+		- a crowd of men and women moiled in the smoky haze /一群男女在烟雾中慌乱地走动。
+		- It looks very cool and smoky. /就会看起来很酷，很有朦胧感。
+		- The mix might lessen the smoky flavor. /混合而成的葡萄酒可能会使烟味减轻。
+		- That's how she created that amazing smoky eye, and who doesn't love a smoky eye? /这就是她如何创造出那迷人的烟熏眼的，谁不喜欢烟熏眼呢？
+		- They smiled and waved in their smoky way /她们微笑着，挥了挥手，用她们轻烟似的姿态。
+- smoko
+- smoking-room
+- smoking
+- smokily
+- smoketeria
+- smokestone
+- smokestack
+- smokescreen
+- smoker
+- smokeproof
+- smokeless
+- smokejack
+- smokehouse
+- smokechaser
+- smokebox
+- smoke-in
+- smoke-dried
+- smokable
+- smog
+- nonsmoking
+- nonsmoker
+- chain-smoke
+- smoke out 侦察出；找出。
+	- 獾藏在洞里不肯出来，猎狗面对狭小的洞口束手无策？错，用烟往洞里灌，把它熏出来。蛇、鼠和獾等会钻洞的动物一出洞口，直接拿下，所以smoke out就是“查出”或“找出”。
+	- The president, whose current term expires in March, may be using Hamid to smoke out his critics.​​​​  
+- blowing smoke up your ass 奉承；美化；放烟雾弹。
+	- 旧时对溺水之人会将一根直管插入溺水者的那个啥（ass，屁股），另一头连接风箱和烟熏器，希望借助进入人体的烟来提高被救助者的体温，汉语“吹牛皮”的画面应该一样辣眼睛
+	- Yes, got hte highest score this time, i am not blowing smoke up your ass.
+- smoking gun
+	- 确凿证据：指能够证明犯罪者身份的信息或证据。
+	- Were you expecting, Ghislaine, to see some kind of smoking gun? /Ghislaine，你是在期待找出一些确凿的证据吗？
+	- These gases could literally be the smoking gun for life on Mars /这些气体可以说是火星生命存在的确切证据。
+	- hat's why I call it the smoking gun of human causation. /这就是为什么我称之为人类因果关系的确凿证据。
+	- A smoking gun refers to information or evidence that proves that something is true. /确凿的证据指的是证明某事是真实的信息或证据。
+	- The short answer is no. There is a lot of smoke here. There is no smoking gun /简单的回答是没有。现在有很多说法，但是并没有确凿的证据。
+
 snack
 - [bite](dic://bite), [collation](dic://collation)
 - [nosh](dic://nosh)
@@ -9634,21 +9812,96 @@ snappy
 - _n._ [good-natured](dic://good-natured), [spiritless](dic://spiritless), [hot](dic://hot), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish), [lethargic](dic://lethargic), [unergetic](dic://unergetic)
 - **witty**诙谐的;**quick**迅速的，快的;**sassy**无礼的;**crisp**脆的;**catchy**引人注意的;**succinct**简洁的;**snarky**恶声恶气的，咬人的;**sharp**急剧的;**edgy**尖利的;**slick**光滑的;**lively**活泼的;
 - _[make it snappy](dic://make%20it%20snappy)_  vi. 干脆点，赶紧
+- a snappy dresser. /穿着时髦者。
+- snappy catchphrases /巧妙醒目的广告语。
+- a snappy retort /刺人的回答
+- a short, snappy article /简短而有力的文章
+- he was one hell of a  snappy dresser. /他是个衣着入时的典范。
+- anything unusual made her snappy and nervous /任何不寻常的事都会让她心情烦躁、神经紧张。
+- She was wearing a snappy little red number. /她身着一款时髦的红色衣服。
+- If you don’t make it snappy, we’ll miss the train /你再不赶紧，我们就赶不上火车了。
+- We'll provide a short, snappy, memorable definition./我们将提供一个简短、活泼、令人难忘的定义。
+- Today I've got another short and snappy lesson for you. /今天呢，我给大家准备了非常短小精悍的一节课程
+- She used short sentences and clear, snappy dialogue to help readers follow information /她用简短的句子，言简意赅的对话，来帮助读者了解掌握信息。
 
 snarl (pneu-)
 
 snatch
 -  可能来自中古荷兰语 snacken,抓，抢，咬，词源同 snack,snap.插入字母 t,比较 bake,batch.
 - vt. 抢走; 偷窃; 乘机获得  n. 抢夺, 偷窃; 只言片语; 女性阴部
+- [bit](dic://bit)
+- [cunt](dic://cunt), [puss](dic://puss), [pussy](dic://pussy), [slit](dic://slit), [twat](dic://twat)
+- [kidnapping](dic://kidnapping)
+- [catch](dic://catch), [grab](dic://grab), [snap](dic://snap)
+- [snatch up](dic://snatch up), [snap](dic://snap)
+-  [kidnap](dic://kidnap), [nobble](dic://nobble), [abduct](dic://abduct)
+- _n._ [fragment](dic://fragment), [female genitalia](dic://female genitalia), [female genitals](dic://female genitals), [female genital organ](dic://female genital organ), [fanny](dic://fanny), [capture](dic://capture), [seizure](dic://seizure)
+- _v._ [seize](dic://seize), [prehend](dic://prehend), [clutch](dic://clutch)
+	- [take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。  
+	- [grasp](dic://grasp) 指紧紧抓住、抓牢。  
+	- [grab](dic://grab) 指粗暴而急迫的抓住。  
+	- [grip](dic://grip) 语气比grasp强，指用手的最大力量紧紧抓住。  
+	- [clasp](dic://clasp) 指用手紧握或用臂紧抱。  
+	- [clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。  
+	- [snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。  
+	- [seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作。
+- **grab**攫取;**seize**抓住;**steal**剽窃;**grabs**抓住;**grabbing**抓;**pull**拉;**snag**障碍;**clinch**互相紧紧抱住;**swoop**突然袭击;**pluck**摘;**squeeze**挤;
+- she snatched at the handle. /她试图抓住把手。
+- snatch a thing from a person's hand /从旁人手中抢东西
+- be snatched away by premature death /突然夭折
+- victory was snatched from the jaws of defeat. /反败为胜。
+- picking up snatches of conversation /听到了对话的只言片语。
+- Champers for the good Doctor and her miracle snatch /问问那个好医生和她有魔力的下体就知道了。
+- It's beautiful on the body, it is snatched. /穿上会很漂亮，很吸引人。
+- Except for your super seductive snatch power /除了你们极具诱惑的色诱本领。
 - snatchy
 - snatcher
 
 snazzy
 - a. 华丽的, 华丽而俗气的, 时髦的
-- 1 - 俚语，可能来自 snappy 和 jazzy 的合成词。
+- 俚语，可能来自 snappy 和 jazzy 的合成词。
+- _adj._ [stylish](dic://stylish), [fashionable](dic://fashionable)
+- _n._ [styleless](dic://styleless), [unstylish](dic://unstylish)
+- **nifty**俏皮的;**fancy**想像力;**flashy**闪光的;**groovy**吸引人的, 绝妙的;**funky**畏缩的;**stylish**时髦的;**shiny**有光泽的，擦亮的;**sleek**圆滑的;**classy**漂亮的;**eye-catching**令人注意的;**neat**整洁的;
+- snazzy little silk dresses /时髦的短款丝质服装。
+- She was wearing a snazzy little red number. /她身着一款时髦的红色连衣裙。
+- Crockett and Tubbs, you look snazzy /好帅啊，像《迈阿密风云》里似的。
+- Well, I've made this very snazzy clipboard. /我做了这个特别时髦的剪贴板。
+- The fastest growing part of defence spending is on snazzy programmes like space and hypersonics. /国防开支增长最快的部分是太空和超音速等时髦项目。
 
 sneak
 - 可能来自中古英语 sniken,爬，蜷缩，来自 Proto-Germanic*snikana,爬，来自 PIE*sneg,爬，词源同 snail, snake. 引申词义偷偷地走，溜走。
+- v. 偷偷地走，潜行；偷带，私运；<非正式>偷走（不重要的或小的东西）；偷偷地做（或获得）；<英>（尤作儿童用语）打小报告，告密 
+- n. <英>打小报告的人，告状者（尤指儿童）；<非正式>鬼鬼祟祟的人；四分卫快速带球切入；<美，非正式>旅游鞋，软帮运动鞋；偷偷摸摸的行为 
+- adj. 出其不意的，偷偷摸摸的
+- [prowler](dic://prowler), [stalker](dic://stalker)
+- [fink](dic://fink), [snitch](dic://snitch), [snitcher](dic://snitcher), [stoolpigeon](dic://stoolpigeon), [stool pigeon](dic://stool pigeon), [stoolie](dic://stoolie), [sneaker](dic://sneaker), [canary](dic://canary)
+- [mouse](dic://mouse), [creep](dic://creep), [pussyfoot](dic://pussyfoot)
+- [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
+- [slip](dic://slip)
+- [furtive](dic://furtive), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
+- _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [intruder](dic://intruder), [interloper](dic://interloper), [trespasser](dic://trespasser), [informer](dic://informer), [betrayer](dic://betrayer)
+- _v._ [walk](dic://walk), [act](dic://act), [move](dic://move), [steal](dic://steal), [pass](dic://pass), [hand](dic://hand), [reach](dic://reach)
+- _adj._ [concealed](dic://concealed)
+- _n._ [unconcealed](dic://unconcealed)
+- **snuck**动词sneak的过去式和过去分词;**peek**偷看;**sneaky**鬼鬼祟祟的;**steal**剽窃;**grab**攫取;**glimpse**一瞥，一看;**peeking**瞥;**catch**赶上;**preview**预览;**squeeze**挤;**peep**偷
+- _sneak out_ 渐隐；偷偷溜走
+- _sneak in_ 淡入，渐显
+- _sneak out of_ 逃避；偷偷溜出
+- _sneak attack_ n. 偷袭
+- _sneak preview_ 影片未公开宣布的预演；内部预映；试映
+- _sneak peek_ 先睹为快；快速前瞻
+- _sneak up on_ 偷偷地接近（等于creep up on）
+- a sneak attack by terrorists. /恐怖分子的突然袭击
+- a sneaking hunch. /逐渐明显的驼背
+- a sneaking suspicion /潜在萦绕的怀疑
+- sneak candy into one's mouth; sneaked a look at the grade sheet /偷偷地把糖塞进嘴巴；偷偷地瞥了一眼成绩单
+- have a sneaking fondness for jazz /内心喜爱爵士乐
+- she sneaked on us. /她打我们的小报告。
+- someone sneaked a camera inside. /有人偷偷带进了一架照相机。
+- How long have you two been sneaking around? /你们俩地下情多久了？
+- Jack put on jeans, a warm sweatshirt, and sneakers. /杰克穿上牛仔裤，套上一件运动衫，脚蹬球鞋。
+- You **sneak** a look at your watch to see how long you've got to wait /你偷偷看一眼手表，看还要等多久。
 
 sneer (pneu-)
 - [leer](dic://leer)
@@ -10003,6 +10256,20 @@ speck
 - specked
 - flyspeck
 
+spelunk
+- 来自拉丁语 spelunca,来自希腊语 spelynx,来自 spelos,洞穴，可能来自 PIE*spel,分开，劈开，词源同 spill,splinter.
+- v. 洞穴研究，洞穴探险
+- [cave](dic://cave)
+- _v._ [explore](dic://explore)
+- **cave**使凹陷，使塌落;**caves**洞穴;**dig**挖，掘;**dive**跳水;**delve**钻研;**crawl**爬行;**explore**探测;**traverse**横贯;**subterranean**地表下面的;**dungeon**地牢，土牢;**lurk**潜伏;
+- a lamp mounted on a spelunker’s hard hat /安装在洞穴探险者坚固帽子上的灯
+- Unless you're an avid spelunker, or a troglodyte, the answer is probably not too often /除非你是一名洞穴探索爱好者或者一名穴居人。
+- It may also be referred to as "draining" (when exploring drains) "urban spelunking", "urban caving", or "building hacking" /它同样也被称为“下水道探索”，“城市洞穴探险”，“建筑探险”等等。
+- That agent rossi wrote up that I'm still spelunking for. /犯罪现场记录 我仍在深入研究。
+- Spelunking is the act of exploring these different caves. /洞穴探险是探索这些不同洞穴的行为。
+- spelunking
+- spelunker
+
 spider
 - 来自古英语 spider,蜘蛛，来自 Proto-Germanic*spin,纺织，来自 PIE*spen,纺织，词源同spin,spindle.-der,-ther,工具格后缀，词源同 rudder,tether.因蜘蛛善织网而得名。
 - [wanderer](dic://wanderer)
@@ -10013,6 +10280,27 @@ spider
 	- _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
 	- **blooms**水华;**shrub**灌木;**flower**花;**orchid**兰花;**flowering**开花的;**bloom**花;**blooming**盛开的;**lilac**淡紫色;**tulips**郁金香;**cactus**仙人掌;**fern**蕨类植物;
 - spiderlike
+
+spill
+- [spillway](dic://spillway), [wasteweir](dic://wasteweir)
+- [spillage](dic://spillage), [release](dic://release)
+- [tumble](dic://tumble), [fall](dic://fall)
+- [slop](dic://slop), [splatter](dic://splatter)
+- [run out](dic://run out)
+- [shed](dic://shed), [disgorge](dic://disgorge)
+- [shed](dic://shed), [pour forth](dic://pour forth)
+- [talk](dic://talk)
+- _n._ [liquid](dic://liquid), [conduit](dic://conduit), [flow](dic://flow), [stream](dic://stream), [slip](dic://slip), [trip](dic://trip)
+- _v._ [move](dic://move), [displace](dic://displace), [run](dic://run), [flow](dic://flow), [feed](dic://feed), [course](dic://course), [pour](dic://pour)
+- **leak**漏洞，裂缝;**contamination**污染;**oil**油;**clean-up**打扫,卫生扫除;**leaking**漏泄，渗漏;**disaster**不幸;**cleanup**清除;**puddle**水坑，泥潭;**contaminated**受污染的;**refinery**精炼厂;**catastrophe**大灾难;
+- you'll spill that tea if you're not careful /你一不小心就会把茶水泼出来的。
+- some of the wine spilled on to the floor. /一些酒泼到了地板上。
+- students began to spill out of the building. /学生们开始快速涌出大楼。
+- he was reluctant to spill her address. /他不愿意透露她的地址。
+- The coffee is so full that it might spill over. /咖啡太满可能会溢出来。
+- He spilled it that Bill was their ringleader. /他透露比尔是他们的主谋。
+- the legal sanctions against oil spills are virtually ineffective. /对石油外溢的法律制裁实际上是无效的。
+- years of frustration spilled over into violence. /多年的失意终于爆发成暴力行为。
 
 spin
 - 来自古英语 spinnan,纺纱，织线，来自 Proto-Germanic*spenwan,弯，转，纺织，来自 PIE*spen,弯，转，纺织，词源同 spider,spinner.引申诸相关词义。
@@ -10032,21 +10320,40 @@ spin
 - word-spinning
 - tailspin
 - spinster
+	- n. 老姑娘；未婚女人
 	- [old maid](dic://old maid)
 	- [spinner](dic://spinner), [thread maker](dic://thread maker)
 	- _n._ [unmarried woman](dic://unmarried woman), [maker](dic://maker), [shaper](dic://shaper)
 	- **widowed**鳏居的;**widow**使成寡妇;**unmarried**未婚的;**housewife**家庭主妇;**belle**美女;**lady**女士，夫人;**middle-aged**中年的;**socialite**社会名流;**heiress**女继承人;**aunt**伯母;**clergyman**牧师;
+	- a formidably hearty spinster of fifty-five. /一个出奇强健的55岁单身女人。
+	- He left his Montana ranch to his spinster sister. /他把他在蒙大拿州的大牧场留给了他未婚的妹妹。
+	- The spinster wasting away in her tattered wedding dress. /未婚女子穿著破烂的结婚礼服日渐消瘦。
+	- Their idea was to target bachelors and spinsters, offering the comfort of a new possession to ease their loneliness /他们的目标就是单身一族和未婚女性，购买欲将让他们缓解孤独。
+	- I bet she's a cool, not weird, spinster /我确定她是一位很酷也不诡异的未婚女性。
+	- I always figured I'd be a spinster who lived with Carrie. /
+	  我一直以为会当老处女和凯莉相依为命。
 	- spinsterhood
 - spinor
 - spinning
 - spinnery
+	- People who don't work in a spinnery mostly have no idea about doffing. /不在纺织工厂工作的人大多不理解什麽是落纱。
+	- The design in this paper comes from a practical project of a **spinnery**. Our design and control object is the electrical spindle motor of weaving producing process. /本文的设计是来自于企业的一个实际的工程应用项目，设计控制对象为纺丝机电锭电机。
 - spinney
+	- n. （英）灌木林；小树林
 	- _n._ [brush](dic://brush), [brushwood](dic://brushwood), [coppice](dic://coppice), [copse](dic://copse), [thicket](dic://thicket)
 	- **woodland**林地;**meadow**草地;**willow**柳木制品;**grove**小树林;**meadows**草地;**beech**山毛榉;**woods**树林;**footpath**小路;**marsh**湿地;**orchard**果园;**brook**小河;
+	- So you mean there isn't any actual wildlife in the spinney at all? /就是说树林里根本没有野生动物？
+	- There are forest, **spinney** , open woodland, plough field, grass and rock around the Great Wall /长城周围的土地利用类型主要有有林地， 灌木林， 疏林地， 耕地， 荒草地和裸岩。
+	- It happened that there was in the yard a pile of timber which had been stacked there ten years earlier when a beech **spinney** was cleared. /碰巧，在庄园的场院里，有一堆十年前在清理一片榉树林时堆在那儿的木材，至今已经很合用了。
 - spinner
+	- n. 纺纱机；纺纱工人；旋床工人；旋式诱饵
 	- [spinster](dic://spinster), [thread maker](dic://thread maker)
 	- _n._ [maker](dic://maker), [shaper](dic://shaper), [game equipment](dic://game equipment), [fisherman's lure](dic://fisherman's lure), [fish lure](dic://fish lure)
 	- **spinning**纺纱;**bowler**投球手;**spin**旋转;**batsman**击球手，打者;**spins**尖硬纤维;**wheel**车轮;**bowling**滚木球戏;**rotor**转子;**wicket**三柱门;**bat**蝙蝠;**propeller**螺旋桨;
+	- He wishes he had his spinner /他真想有自己的旋转玩具。
+	- Many teachers barred students from using fidget spinners during class. /许多教师禁止学生在课堂上玩指尖陀螺。
+	- On video-sharing websites, vloggers have amassed millions of views from performing tricks with their fidget spinners. /在视频分享网站上，博主们通过表演指尖陀螺获得了上百万的点击量。
+	- I put spinners on it, and that was when a song riding spinners they ran spin it, they don't stop /我在上面安装了能转动的轮圈，播放音乐就开始持续转动。
 	- spinnerette
 	- spinneret
 - spinnability
@@ -10054,14 +10361,44 @@ spin
 	- 美〉起导向作用者
 - spindrift
 - spin-off
+	- n. 副产品；资产分派，让产易股
 	- The German company will now spin off its lifts division, its most profitable business /家德国公司现将拆分其最盈利的电梯业务。
+	- After a good quarter or two, you spin it off? /在经历一个或两个旺季之后 你就可以使其分拆了吗？
+	- Stem cells found in embryos can spin off a wide range of tissue types. /胚胎干细胞可以分化成多种组织类型。
+	- Shark Tank investments, chain restaurant spin offs, food trucks or carts or hot dog stands. /鲨鱼坦克投资，连锁餐厅分拆，食品卡车或手推车或热狗摊。
+	- As a last resort, he is said to be willing to contemplate spinning TikTok off. /据说，作为最后的手段，他愿意考虑拆分TikTok。
+	- He later signed another order, giving ByteDance 90 days to sell or spin off TikTok in the United States /随后，他又签署了另一项行政令，要求字节跳动在90天内出售或分拆抖音在美国的业务。
 - spin-dry
 - spin-drier
 - sidespin
 
 spiral
+- [helix](dic://helix)
+- [volute](dic://volute)
+- [coil](dic://coil), [volute](dic://volute), [whorl](dic://whorl), [helix](dic://helix)
+- [gyrate](dic://gyrate), [coil](dic://coil)
+- [corkscrew](dic://corkscrew)
+- [coiling](dic://coiling), [helical](dic://helical), [spiraling](dic://spiraling), [volute](dic://volute), [voluted](dic://voluted), [whorled](dic://whorled), [turbinate](dic://turbinate)
+- _n._ [curve](dic://curve), [curved shape](dic://curved shape), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation), [structure](dic://structure), [construction](dic://construction)
+- _v._ [turn](dic://turn), [wind](dic://wind), [twist](dic://twist), [curve](dic://curve)
+- _adj._ [coiled](dic://coiled)
+- _n._ [uncoiled](dic://uncoiled), [straight](dic://straight)
+- **downward**向下的，下降的;**downwards**向下;**helical**螺旋形的;**vortex**涡流;**curving**弯曲的;**staircase**楼梯;**cascade**小瀑布;**circular**圆形的;**upward**向上的;**helix**螺旋;**swirl**漩涡;
+- a spiral notebook /螺旋形活页簿
+- this spiral of deprivation and environmental degradation. /贫困和环境退化所造成的处境恶化。
+- he spotted a spiral of smoke. /他看见了一道缭绕上升的烟雾。
+- After contrast and analyse, it was found that wall-hung spiral chute is ascendant and oecumenical than wall-laid spiral chute. /通过对比得出了壁挂式相对嵌入式螺旋溜槽的优越性及技术经济效果。
+- Their profits began to spiral down disastrously. /他们的利润开始螺旋形地急剧下降。
+- If prices continue to spiral out of control, it is reasonable to expect the eventual collapse of the stock market. /如果价格继续失去控制地上涨，我们有理由相信股市将最终垮掉。
+- He resumed working but was now spiraling /他重新开始工作，但现在情况不断恶化。
+- I hope it's not going to spiral it all down. /我希望不会继续呈现螺旋下降的趋势。
+
+split
+- 1 - 来自 Proto-Germanic*spleit,分开，来自 PIE*splei,分开，来自 PIE*spel,分开，劈开，词源同spill,split,flint.引申诸相关词义。
+- 
 
 splint
+- 能来自中古低地德语 splinte,薄铁板，铁片，来自 PIE*splei,分开，来自 PIE*spel,分开，劈开，词源同 spill,split,flint.原指盔甲的交叠的铁片，后引申词义夹板。
 - _n._ [paring](dic://paring), [sliver](dic://sliver), [shaving](dic://shaving), [mechanical device](dic://mechanical device)
 - _v._ [treat](dic://treat), [care for](dic://care for)
 - **bandage**绷带;**crutches**拐杖，支撑物;**ankle**踝关节，踝;**brace**箍子;**prosthesis**弥补;**prosthetic**假体的;**orthopedic**整形手术 的;**sling**投掷;**wrist**腕关节;**gauze**薄纱;**braces**背带;
@@ -10265,8 +10602,13 @@ stake
 - Our entire relationship might be at stake. / 我俩的关系就摇摇欲坠了。
 - The stakes are high in this room /这里竞争是很激烈的。
 - The mission is monumental. The personal and professional stakes are huge /这个任务具有纪念碑意义。个人和职业风险是巨大的。
-- sweepstakes
-- sweepstake
+- sweepstakes /sweepstake
+	- n. 独得的赌金,赌金独得赛马,赌金,比赛
+	- The entry ticket must be filled out completely and deposited in the specific sweepstake boxes during the sweepstake period.Incomplete entries will be voided. /每位顾客每天限领壹张摸彩券，摸彩券必须填写完整，并投入店内摸彩箱中，资料填写不齐全者无效。
+	- A sweepstake for when you'll be fired. /就你什么时候会被炒鱿鱼打赌。
+	- Good training is always desirable, whether the race be for place, cup, or sweepstakes /良好的训练总是可取的，无论比赛是名次、杯赛还是抽奖。
+	- Paul says, " Enter to win one of three grand prizes: a TV, a Hawaiian vacation, and a brand new car! " Paul is saying that the prizes for the sweepstake are a television, a vacation in Hawaii, and a new ca /保罗说，“参加比赛可赢取三项大奖之一：一台电视、一次夏威夷假期和一辆全新的汽车！”保罗说抽奖活动的奖品是一台电视、一次夏威夷假期和一辆新车。
+	- A " sweepstake" – more often used in the plural, " sweepstakes" – is a promotion in which people fill out a form and give it to the company and then the company picks a winner /” “抽奖活动” ——更常用于复数形式，“抽奖活动” ——是一种促销活动， 人们填写表格并将其交给公司， 然后公司选出获胜者。
 - staking
 - stakeout
 	- _n._ [surveillance](dic://surveillance)

@@ -11,12 +11,12 @@
 ↗ [System Security](../../../System%20Security/System%20Security.md)
 ↗ [Software Testing](../../../../Software%20Engineering/👁️%20Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 
-↗ [Program Execution & Compilation System](../../../../🔑%20CS_Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+↗ [Program Execution & Compilation System](../../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 
 ↗ [Operating System Security](../../../System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
-↗ [Operating System Kernel](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
-↗ [Operating System (Engineering Part)](../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
-↗ [Operating System (Theory Part)](../../../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
+↗ [Operating System Kernel](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
+↗ [Operating System (Engineering Part)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
+↗ [Operating System (Theory Part)](../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
 
 ↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 
@@ -78,7 +78,7 @@ Just a collection of notes, snippets and other goodies..
 
 
 ### Program Execution
-↗ [Program Execution & Compilation System](../../../../🔑%20CS_Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+↗ [Program Execution & Compilation System](../../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 
 #### Stack
 

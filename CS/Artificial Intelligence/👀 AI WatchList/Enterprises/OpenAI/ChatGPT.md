@@ -12,7 +12,7 @@
 🔗 https://www.promptboom.com
 free & personal use
 
-↗ [Awesome AI](../../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI.md)
+↗ [Awesome AI](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI.md)
 
 
 ### Learn ChatGPT

@@ -2143,23 +2143,24 @@
 #### + \*kele- (1) + = warm
 1. **calori-, cale-** = heat, 表示“热”。源自拉丁语 calere "to be warm," calor "heat."
 	1. calorie
-		2. calorific
-			1. **caloric**热量的;**calorie**卡路里;**calories**卡路里;**carbohydrate**碳水化合物;**nutritional**营养的;**nutritious**有营养的, 滋养的;**fat**肥的，胖的;**fructose**左旋糖;**consumption**消费;**nutrient**营养物;**savoury**咸味的;
-		3. calorify
-		4. calorimeter
-		5. calorimetry
-		6. caloric
-		7. ..
-		8. calefacient
+		1. calorific
+			2. **caloric**热量的;**calorie**卡路里;**calories**卡路里;**carbohydrate**碳水化合物;**nutritional**营养的;**nutritious**有营养的, 滋养的;**fat**肥的，胖的;**fructose**左旋糖;**consumption**消费;**nutrient**营养物;**savoury**咸味的;
+		2. calorify
+		3. calorimeter
+		4. calorimetry
+		5. caloric
+		6. ..
+		7. calefacient
 			1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
-		9. calefactory
+		8. calefactory
 			1. **heating**加热;**cooling**冷却的;**hearth**炉床;**assemblage**聚集;
 			2. adj. 温暖的；增温的; n. 取暖房；增温物质;
-		10. calefy
+		9. calefy
 			1. vt. 使…变暖; vi. 变暖;
-		11. calenture
+		10. calenture
 			1. 中暑；热带地方的热病
-		12. calescence
+			2. **Calenture** is a fever formerly supposed to affect sailors in the tropics. /热病是一种发烧型疾病，以前认为会影响热带地区的水手。
+		11. calescence
 			1. _n._ 渐增温
 			2. decalescence
 	2. nonchalance
@@ -2169,32 +2170,69 @@
 	4. caldron
 	5. cauldron
 	6. chafe
-		1. [annoyance](dic://annoyance), [vexation](dic://vexation)
-		2. [gall](dic://gall), [fret](dic://fret)
-		3. [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [gravel](dic://gravel), [vex](dic://vex), [devil](dic://devil)
-		4. [excoriate](dic://excoriate)
-		5. [rub](dic://rub), [fray](dic://fray), [fret](dic://fret), [scratch](dic://scratch)
-		6. [tenderness](dic://tenderness), [soreness](dic://soreness), [rawness](dic://rawness), [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
-		7. [irritate](dic://irritate), [feel](dic://feel), [experience](dic://experience), [displease](dic://displease), [abrade](dic://abrade), [corrade](dic://corrade), [abrase](dic://abrase)
-		8. **irritate**激怒;**loosen**放松;**itch**痒;**abrasion**磨损;**rub**擦;**irritation**刺激;**tighten**变紧;**wrinkle**皱纹;**itchy**发痒的;**tugging**牵引感;**loosening**松散;
+		1. vt. 擦破；擦热；擦痛；激怒 
+		2. vi. 擦伤；磨擦；激怒 
+		3. n. 擦伤；气恼
+		4. [annoyance](dic://annoyance), [vexation](dic://vexation)
+		5. [gall](dic://gall), [fret](dic://fret)
+		6. [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [gravel](dic://gravel), [vex](dic://vex), [devil](dic://devil)
+		7. [excoriate](dic://excoriate)
+		8. [rub](dic://rub), [fray](dic://fray), [fret](dic://fret), [scratch](dic://scratch)
+		9. [tenderness](dic://tenderness), [soreness](dic://soreness), [rawness](dic://rawness), [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
+		10. [irritate](dic://irritate), [feel](dic://feel), [experience](dic://experience), [displease](dic://displease), [abrade](dic://abrade), [corrade](dic://corrade), [abrase](dic://abrase)
+		11. **irritate**激怒;**loosen**放松;**itch**痒;**abrasion**磨损;**rub**擦;**irritation**刺激;**tighten**变紧;**wrinkle**皱纹;**itchy**发痒的;**tugging**牵引感;**loosening**松散;
 			1. _[chafe mark](dic://chafe%20mark)_  灰路；摩擦痕
 			2. _[chafe at](dic://chafe%20at)_  发怒
 			3. _[chafe against](dic://chafe%20against)_  冲击; 摩擦; 
 			4. _[chafe under](dic://chafe%20under)_  因受到…而感到烦恼; 为…发怒;
-		12. chafing
+		12. chafed at the delay. /因迟延而感到恼火
+		13. A stiff collar may chafe your neck. /硬的衣领会擦伤你的脖子。
+		14. The clients chafed at the delay. /顾客们因被耽搁而感到心烦意乱。
+		15. to prevent chafe the ropes should lie flat /为了防止磨损，绳子应该拉直放平。
+		16. he chafed some feeling into his frozen hands /他搓得冻僵的双手有了些知觉。
+		17. Most climbers simply chafe to reach the tops of mountains. /大多数登山者爬到山顶的时候，身上都少不了各种绳带的勒痕。
+		18. They - you know, they chafed against each other at times because they were both alpha male personalities. /二人有时会发生一些摩擦，因为他们都是阿尔法男。
+		19. The poor schoolmaster sat in the same place, holding the small, cold hand in his, and chafing it /可怜的教师还坐在原来的地方，握着那只又小又冷的手，摩擦着。
+		20. chafing
 	8. chaffer
 		1. [haggle](dic://haggle), [higgle](dic://higgle), [huckster](dic://huckster)
 		2. [chew the fat](dic://chew the fat), [shoot the breeze](dic://shoot the breeze), [chat](dic://chat), [confabulate](dic://confabulate), [confab](dic://confab), [chitchat](dic://chitchat), [chatter](dic://chatter), [natter](dic://natter), [gossip](dic://gossip), [jaw](dic://jaw), [claver](dic://claver), [visit](dic://visit)
 		3. [dicker](dic://dicker), [bargain](dic://bargain), [converse](dic://converse), [discourse](dic://discourse)
-		4. chafferer
+		4. The chaffering Red Man bartering blankets and furs for powder and whisky had passed farther on /讨价还价的红人用毯子和皮草换取火药和威士忌已经走得更远了。
+		5. Soames checked his instinctive "Not particular"--he would not chaffer with this alien. /索米斯抑制着那句“无所谓”的口头禅没有说--跟这个外国家伙犯不着噜苏。
+		6. chafferer
 	9. electrocalorimeter
 	10. recalesce
 	11. scald
 		1. sunscald
 		2. scalding
 2. coddle
-3. lee
-4. lukewarm
+	1. vt. 娇养；溺爱（等于 mollycoddle）；用文火煮(蛋)
+	2. 来自拉丁语 calidium,热饮，词源同 calorie,卡路里。词义由温暖到溺爱。
+	3.  [pamper](dic://pamper), [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
+	4. _v._ [treat](dic://treat), [handle](dic://handle), [do by](dic://do by), [cook](dic://cook)
+	5. **pamper**纵容;**appease**使平息;**soothe**安慰;**punish**严厉对待;**tolerate**忍受;**embarrass**使窘迫;**nurture**养育;**blame**责备;**pretend**假装;**cuddle**拥抱;**humiliate**蒙羞;
+	6. I was coddled and cosseted /我以前娇生惯养。
+	7. It coddles the country from a damning reality. /继续纵容着这个现实已经如此糟糕的国家
+	8. I'm not really sure it's about coddling. /我不觉得这和宠溺有关系。
+	9. But the distortion of incentives leads to higher unemployment and divisions between coddled insiders and a precariat /但是，激励机制的扭曲导致失业率上升，得到悉心照料的内部人员和不稳定型无产者之间的分歧也随之加剧。
+	10. Even as web entrepreneurs are coddled in London, a shortage of skilled engineers pushes up labour costs in Aberdeen. /甚至是在人才济济的伦敦，技术型工程师的短缺还是增加了阿伯丁劳工的花费。
+4. lee
+	1. n. 保护；背风处 
+	2. adj. 保护的；庇荫的；避风的
+5. lukewarm
+	1. lukewarm - 这其实是个复合形容词，由luke加warm组成。luke在中古英语作louke，源于荷兰语leuk，意思就是tepid（微温的）。既然luke本身已足以表示lukewarm的意义，再加上warm就似乎显得多余了。然而，这并不影响lukewarm一词的通用。
+	2.  [tepid](dic://tepid)
+	3. [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [tepid](dic://tepid)
+	4. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
+	5. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
+	6. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+	7. _lukewarm water_ 温水
+	8. give only a  lukewarm support /仅予以不热心的支持
+	9. Britain is lukewarm about the proposal /英国对这项提议很冷淡。
+	10. Polite but lukewarm reviews are the kiss of death for a commercial film /客气而不热情的评论只会葬送一部商业影片。
+	11. Should make the patient maintains lukewarm thaw quiet, can give when necessary tranquillizer and aconite. /应使病人保持温暖和安静，必要时可给以镇静剂和止痛剂。
+	12.  It will serve" . The water was lukewarm /" 可以。" 水温略有点高。
 #### + \*kele- (2) + = to shout
 1. **calend-** = first day
 	1. calendar
@@ -3413,6 +3451,7 @@
 
 
 ### + \*kers- +
+#### \*kers- (1) ?
 #### ⭐ + \*kers- (2) + = to run
 1. **car-** = car, 表示“车”，引申为“跑，携带，运输”等。源自拉丁语 carrus "a two-wheeled carriage."
 	1. car
@@ -5841,6 +5880,10 @@
 ### + \*kreue- +
 #### + \*kreue- (1) +
 1. **creas-, creo-** = row, 表示“生肉”。源自希腊语 kreas "flesh."
+	1. creatine
+	2. creatin
+	3. creosote
+	4. creophagy
 2. **crud-** = raw, 表示“生的”。源自拉丁语 crudus "bloody, raw." 
 	1. crude
 		1. crudity

@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [File Systems Implementations](../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
-↗ [Network-Attached Storage (NAS) & NAS Protocols](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols.md)
-↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../🔑%20CS_Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [File Systems Implementations](../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/🎯%20File%20Systems%20Implementations/File%20Systems%20Implementations.md)
+↗ [Network-Attached Storage (NAS) & NAS Protocols](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols.md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 ↗ [Distributed Storaging](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Storaging/Distributed%20Storaging.md)
 ↗ [Distributed File System (Network File Systems)](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)

@@ -6,14 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Virtualization Theory](../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
-↗ [Network Virtualization](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+↗ [Virtualization Theory](../../🔑%20CS%20Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Network Virtualization](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
 ↗ [Cloud Security](../../CyberSecurity/System%20Security/🎅🏼%20Cloud%20Security/Cloud%20Security.md)
 ↗ [Edge & Frog Computing](../../Embedded%20&%20Internet%20of%20Things/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
 
 ↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
-↗ [Parallel Computing](../../🔑%20CS_Core/🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
 
 
 ### Cloud Native Computing Foundation (CNCF)

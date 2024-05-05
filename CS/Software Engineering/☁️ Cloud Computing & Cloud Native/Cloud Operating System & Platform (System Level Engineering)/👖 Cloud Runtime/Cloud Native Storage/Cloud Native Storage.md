@@ -8,8 +8,8 @@
 📂 https://landscape.cncf.io/guide#runtime--cloud-native-storage
 
 ### Related Topics
-↗ [Database System](../../../../../🔑%20CS_Core/🍕%20Database%20System/Database%20System.md)
-↗ [DBMS](../../../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/DBMS.md)
+↗ [Database System](../../../../../🔑%20CS%20Core/🍕%20Database%20System/Database%20System.md)
+↗ [DBMS](../../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS/DBMS.md)
 
 ↗ [Cloud Database](../../../🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Cloud%20Database.md)
 ↗ [Distributed Storaging](../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Storaging/Distributed%20Storaging.md)

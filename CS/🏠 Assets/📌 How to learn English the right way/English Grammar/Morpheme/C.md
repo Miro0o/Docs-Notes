@@ -362,6 +362,54 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 15. wormcast
 
 
+### cat-,caten-= chain, 表示“链”。
+1. catenaria
+	1. n. 悬链线, 链状  
+	2. a. 悬链线的, 链状的
+2. catenarian
+	1. n. 链曲线(链, 吊线)a. 悬链线状的(垂曲线的)
+3. catenary
+	1. n. 链, 悬链线, 链状物  
+	2. a. 悬链线的
+	3. _n._ [curve](dic://curve), [curved shape](dic://curved shape)
+	4. **electrification**充电,电气化;**electrified**电气化的;**cables**电缆;**rail**横杆;**geometry**几何学;
+	5. If you were to slice a real igloo in half, you'd see a shape called a catenary. /如果把真正的冰屋分成两部分，你可以看见悬链线的形状。
+	6. A catenary arch distributes weight more evenly than a half circle, without bulging or buckling /链状比半圆更能承受住重量，并且不会被压弯。
+	7. If you watched my video about the science of igloos, you remember that this shape, called a catenary arch, distributes tension and compression more evenly than a half circle shape. /如果你看我关于冰屋原理的视频，那么你会记得这种称为悬链线拱的形状比半圆形更均匀地分布张力和压力。
+4. catenate
+	1. vt. 连接, 把...连接成链状  
+	2. a. 链状的
+	3. Capital modern works notebook canny repair service center is a section notebook maintenance, Wraps service outside notebook, notebook accessory sales is all-in-one specialize it serve **catenate** agency /首都现代办公笔记本电脑精修服务中心是集笔记本维修、笔记本外包服务、笔记本配件销售为一体的专业化IT服务连锁机构。
+5. catenulate
+	1. a. 链状的
+6. catena
+	1. n. 连续，系列；彼此相连接的东西；（尤指）专业丛书 
+	2. Then can become the own brand but the **catena** management hotel. /才能形成自己的品牌而连锁经营饭店。
+	3. Pertaining to the arrangement of a series of items in a **catena**. /在链表或串中安排一组项目。
+7. chain
+	1. unchain
+	2. subchain
+	3. midchain
+	4. lock-chain
+	5. interchain
+	6. enchain
+	7. chainwale
+	8. chainsgang
+	9. chainsaw
+	10. chainman
+	11. chainlet
+	12. chainless
+	13. chaining
+	14. chaingratestoker
+	15. chain-smoke
+	16. chain-reacting
+	17. chain-react
+	18. carbochain
+8. chignon
+	1. 来自拉丁语 catena,链子，词源同 chain.因形似链子而得名。插入字母 g.
+	2. n. 发髻
+
+
 ### + \*cauda- + = tail
 1. **caud-** = tail, 拉丁语 cauda【尾巴】, coda 是 cauda 常用的方言表示.
 	1. caudate
@@ -762,7 +810,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		1. _adj._ 冷漠的的,漠不关心的
 		2. _n._ 漠不关心的人
 	8. procure
-		1. - 来自拉丁语 procurare,关心，照看，管理，看护，来自 pro-,向前，代表，-cur,关切，照看，词源同 cure,pedicure.引申词义得到，获得，特指费尽心力取得。
+		1. 来自拉丁语 procurare,关心，照看，管理，看护，来自 pro-,向前，代表，-cur,关切，照看，词源同 cure,pedicure.引申词义得到，获得，特指费尽心力取得。
 		3. v. 获得 (尤指难以获得的东西); 诱使（妇女）卖淫
 		4.  [secure](dic://secure)
 		5.  [pander](dic://pander), [pimp](dic://pimp)

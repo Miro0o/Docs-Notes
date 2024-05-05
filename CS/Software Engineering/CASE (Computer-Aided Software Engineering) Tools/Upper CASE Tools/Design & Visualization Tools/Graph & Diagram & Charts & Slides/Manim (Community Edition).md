@@ -9,7 +9,7 @@
 🚧 https://github.com/manimCommunity/manim
 📂 https://docs.manim.community/en/stable/index.html
 
-↗ [manimgl](../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Graphics%20&%20Visualization/manimgl.md)
+↗ [manimgl](../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Third-party%20Libs/Graphics%20&%20Visualization/manimgl.md)
 ↗ [Manim Slides](Slides/Manim%20Slides.md)
 
 

@@ -625,6 +625,22 @@
 			8. pardon：['pɑːd(ə)n] n.vt.原谅  
 			9. dose：[dos] n. 剂量；一剂，一服v. 服药；给药  
 			10. dowry：['daʊri] n. 嫁妆；天资；亡夫遗产  Dorothy：['dɒrəθɪ]  n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora
+		4. pander (pamper, ponder, sander, lander, gander)
+			1. pander（拉皮条）：战地红娘潘达罗斯  
+			2. 潘达罗斯（Pandaros）是希腊神话中特洛伊战争期间特洛伊军队的将领之一，是特洛伊第一神箭手。擅长射箭的阿波罗曾将自己的弓箭赠与他。他在特洛伊王子特洛伊罗斯（Troilus）央求之下，凭着如簧巧舌，安排外甥女克瑞西达（Cressida）跟特洛伊罗斯在花园里幽会偷情。两个年轻人互诉衷曲，发誓永不变心。然而，克瑞西达的父亲已经投靠希腊军队，并提出用被俘的特洛伊将领安泰诺换他的女儿，交战双方都接受了这一提议。因此，克瑞西达不得不告别爱人，被交换到希腊军营，并最终成为了希腊将领狄俄墨得斯的情妇。两个年轻人的纯洁爱情就这样被战火无情地毁灭了，而充当“红娘”的潘达罗斯也背上了“淫媒”的恶名。英文pander就来自潘达罗斯的名字Pandaros，指拉皮条或拉皮条的人，也常常引申解作迎合低俗或不合理要求。  
+			3. pander：['pændə] vt.为……拉皮条vi.迎合，勾引，怂恿，拉皮条n.拉皮条者，怂恿者，老鸨
+			4. vi. 勾引, 怂恿, 卑劣地迎合  n. 拉皮条者, 怂恿者, 助恶者
+			5.  [pimp](dic://pimp), [procurer](dic://procurer), [panderer](dic://panderer), [pandar](dic://pandar), [fancy man](dic://fancy man), [ponce](dic://ponce)
+			6.  [gratify](dic://gratify), [indulge](dic://indulge)
+			7. [pimp](dic://pimp), [procure](dic://procure)
+			8. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+			9. _v._ [provide](dic://provide), [supply](dic://supply), [ply](dic://ply), [cater](dic://cater)
+			10. **appease**使平息;**alienate**使疏远，离间;**cater**提供饮食及服务;**offend**冒犯;**satisfy**令人满意;**crass**粗鲁的;**elitist**优秀人材;**subvert**推翻;**garner**贮藏;**populist**平民主义者;**attract**吸引;
+			11. Don’t pander to such people /不要迎合这样的人。
+			12. the lowest panders of a venal press /为金钱所收买的新闻界最卑鄙的助恶者。
+			13. Who pandered to her every need? /是谁答应她所有的要求？
+			14. Some fear, however, that this sort of remark is mere pandering to moderates and the West /然而，一些人担心，这种言辞只不过是为了迎合中立派和西方国家。
+			15. Starting to sound like pandering. - Uh, yes, dear. I just... /听着有点像拉皮条 -是 我只是。
 	11. panegyric, panegyrist, panegyrize
 		1. n. 赞颂, 颂词, 推崇备至
 		2. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
@@ -666,11 +682,12 @@
 			1. pamphlet：[ˈpæmflɪt] n.小册子  
 			2. pamphleteer： ['pæmflə'tɪr] vi. 写小册子；评论时事n. 小册子作者；檄文执笔者
 2. **pancreas- pancreat-** = pan + creas， 「Greeks」 kreas, "flesh"
-	1. pancreas
-	2. pancreatic, 
+	1. kerue-(1)
+	2. pancreas
+	3. pancreatic, 
 		1. splenopancreatic
-	3. pancreatin
-	4. pancreatitis
+	4. pancreatin
+	5. pancreatitis
 
 
 ### pap- 原意“隆起”，两种小词形式：papil- = nipple, 表示“乳头”，来自拉丁语papilla。papul-表示丘疹。
@@ -3301,10 +3318,18 @@
 2. fear
 #### + \*per- (4) + = to strike
 1. **-pressin** = 加压素，加压素类强心药。
+	1. vasopressin
 2. **press-, prim-** = press, 表示“挤压”。源自拉丁语 premere (过去分词 pressus) "to press."
 	1. press
-		1. treadle-press
-		2. pressure
+		1. press ahead
+			1. 继续前进：继续朝着目标前进。
+			2. But the incentives for grocers to press ahead are huge. /但杂货商推进这一进程的动力是巨大的。
+			3. The priority now is to fix frayed banking systems, press ahead with a banking union. /目前的当务之急是修复受损的银行系统，推进银行同盟。
+			4. They have independent views on teaching. They were really courageous in terms of pressing ahead reforms /“他们在教学方面有自已独立的观点。在推进改革方面，他们真的很勇敢。
+			5. China will press ahead with high-quality Belt and Road cooperation to make it high-standard, sustainable and people-centered. /中国将坚持高标准、可持续、惠民生的目标，积极推进高质量共建“一带一路”。
+			6. Since world gender equality is far from being realized, we will **press** **ahead** with this great process. /因为全球范围内的性别平等还远未实现，所以我们将继续推进这一伟大的进程。
+		3. treadle-press
+		4. pressure
 			1. underpressure
 			2. uncipressure
 			3. pressurize, pressurise
@@ -3326,13 +3351,13 @@
 			15. angiopressure
 			16. acupressure
 			17. acufilopressure
-		4. pressing
+		5. pressing
 			1. _n._ [push](dic://push), [pushing](dic://pushing), [part](dic://part), [portion](dic://portion)
 			2. _adj._ [imperative](dic://imperative)
 			3. _n._ [beseeching](dic://beseeching)
 			4. **button**按钮;**tapping**出渣;**facing**饰面;**pushing**莽撞的;**squeezing**挤;**addressing**寻址;**push**推动;**buttons**纽扣;**tackling**装备，用具;**holding**支持;**rubbing**摩擦;
-		5. press-up
-	2. compress
+		6. press-up
+	3. compress
 		1. uncompress
 		2. decompress
 		3. compressure
@@ -3343,7 +3368,7 @@
 		8. compressing
 		9. compressible
 		10. compressed
-	3. depress
+	4. depress
 		1. vasodepressor
 		2. manic-depressive
 		3. depressor
@@ -3353,7 +3378,7 @@
 		7. depressing
 		8. depressible
 		9. depressant
-	4. express
+	5. express
 		1. unexpressed
 		2. superexpress
 		3. overexpress
@@ -3366,18 +3391,18 @@
 		10. expressible
 		11. expresser
 		12. expressage
-	5. impress
+	6. impress
 		1. etc... (todo)
-	6. oppress
+	7. oppress
 		1. oppressor
 		2. oppressive
 			1. **repressive**镇压的;**tyrannical**暴君的,暴君似的;**stifling**沉闷的;**oppression**压迫手段;**authoritarian**权力主义的,专制的;**totalitarian**极权主义的;**tyranny**暴政;**unjust**不公平的，不公正的;**overbearing**专横的,傲慢的;**coercive**强制的;**patriarchal**家长的;
 			2. _adj._ [heavy](dic://heavy), [domineering](dic://domineering)
 		3. oppression
-	7. hot-press
-	8. key-press
-	9. letterpress
-	10. clothespress
+	8. hot-press
+	9. key-press
+	10. letterpress
+	11. clothespress
 3. print
 #### + \*per- (5) + = to traffic in, to sell
 1. **porn-** = prostitute, sell, 表示“妓女，卖”。源自希腊语 porne "prostitute," 源自 pernanai "to sell."

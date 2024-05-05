@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Artificial Intelligence](../../Artificial%20Intelligence/Artificial%20Intelligence.md)
-↗ [Awesome AI](../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI.md)
+↗ [Awesome AI](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI.md)
 ↗ [ALoT](../../Embedded%20&%20Internet%20of%20Things/ALoT.md)
 
 ### AI Products

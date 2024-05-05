@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [0x05 Network Layer](../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/0x05%20Network%20Layer.md)
+↗ [0x05 Network Layer](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/0x05%20Network%20Layer.md)
 ↗ [Anonymous & Private Networks /VPN](../../Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 
 

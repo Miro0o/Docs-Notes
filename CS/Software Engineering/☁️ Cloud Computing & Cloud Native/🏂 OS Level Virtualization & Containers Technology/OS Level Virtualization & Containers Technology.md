@@ -6,21 +6,21 @@
 
 ## Res
 ### Related Topics
-↗ [OS Level Virtualization](../../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
-↗ [Container Technology](../../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/🐋%20Container%20Technology/Container%20Technology.md)
+↗ [OS Level Virtualization](../../../🔑%20CS%20Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
+↗ [Container Technology](../../../🔑%20CS%20Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/🐋%20Container%20Technology/Container%20Technology.md)
 
 
 
 ## Intro
 ### 🦷 Virtualization Technology Review
 Visit virtualization technologies theory at
-↗ [Virtualization Theory](../../../🔑%20CS_Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Virtualization Theory](../../../🔑%20CS%20Core/🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
 
 Containers (OS Virtualization)
 ↗ [Container Products](🐋%20Container%20Products/Container%20Products.md)
 
 Network Virtualizations
-↗ [Network Virtualization](../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 
 Other Virtualizations...
 tbd...

@@ -145,27 +145,49 @@
 		1. n. 哥罗丁, 氯仿吗啡酊
 3. eat
 4. etch
-5. fret
-	1. [stew](dic://stew), [sweat](dic://sweat), [lather](dic://lather), [swither](dic://swither)
-	2. [worn spot](dic://worn spot)
-	3. [Greek fret](dic://Greek fret), [Greek key](dic://Greek key), [key pattern](dic://key pattern)
-	4. [fuss](dic://fuss), [niggle](dic://niggle)
-	5. [chafe](dic://chafe), [gall](dic://gall)[eat into](dic://eat into), [rankle](dic://rankle), [grate](dic://grate)
-	6. [choke](dic://choke), [gag](dic://gag)
-	7. [rub](dic://rub), [fray](dic://fray), [chafe](dic://chafe), [scratch](dic://scratch)
-	8. [erode](dic://erode), [eat away](dic://eat away)
-	9. [eat away](dic://eat away)
-	10. _n._ [agitation](dic://agitation), [spot](dic://spot), [speckle](dic://speckle), [dapple](dic://dapple), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation)
-	11. _v._ [worry](dic://worry), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [irritate](dic://irritate), [annoy](dic://annoy)
+5. fret, Fret 品(吉他)
+	1. 来自 Proto-Germonic*fra-etan,吞噬，吃尽，来自*fra-,完全的，词源同 per-,*etan,吃，词源同eat.用来指魔鬼或维京海盗，后用于心理含义，指焦虑紧张等。  
+	2. 来自古法语 frete,格子饰，回纹饰。
+	3. n. 烦躁, 磨损, 焦急, 网状饰物  
+	4. vi. 烦恼, 不满, 磨损  
+	5. vt. 使烦恼, 腐蚀, 使磨损, 使起波纹
+	6. [stew](dic://stew), [sweat](dic://sweat), [lather](dic://lather), [swither](dic://swither)
+	7. [worn spot](dic://worn spot)
+	8. [Greek fret](dic://Greek fret), [Greek key](dic://Greek key), [key pattern](dic://key pattern)
+	9. [fuss](dic://fuss), [niggle](dic://niggle)
+	10. [chafe](dic://chafe), [gall](dic://gall)[eat into](dic://eat into), [rankle](dic://rankle), [grate](dic://grate)
+	11. [choke](dic://choke), [gag](dic://gag)
+	12. [rub](dic://rub), [fray](dic://fray), [chafe](dic://chafe), [scratch](dic://scratch)
+	13. [erode](dic://erode), [eat away](dic://eat away)
+	14. [eat away](dic://eat away)
+	15. _n._ [agitation](dic://agitation), [spot](dic://spot), [speckle](dic://speckle), [dapple](dic://dapple), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation)
+	16. _v._ [worry](dic://worry), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [irritate](dic://irritate), [annoy](dic://annoy)
 		1. [worry](dic://worry) 普通用词，着重使人焦虑、烦恼或深深不安。   
 		2. [brood](dic://brood) 语气比worry强，多指沉思、沮丧或忧郁。  
 		3. [care](dic://care) 多指极强烈的关心和忧虑。常带纯客观的意味。  
 		4. [fret](dic://fret) 通常指因悲哀、焦虑或忧愁等所困扰的心理状态。 
-	12. v. 烦恼，发愁；（通过摩擦或啮咬）使磨损，使销蚀；（经侵蚀而）形成（沟，通道）；打着涟漪流动（或移动）；给（弦乐器）装品；把琴弦压在音品上演奏（某音）；用回纹装饰 
-	13. n. （吉他等指板上定音的）品；（从海上飘来的）雾，海雾；烦躁，苦恼，焦急；（艺术，建筑）回纹饰；（纹章）钻石上的回纹饰图案
-	14. **worry**烦恼;**worrying**令人担心的;**don**先生，阁下;**forget**忘记;
-	15. _fret over_ 为…着急
-	16. Fret 品(吉他)
+	17. v. 烦恼，发愁；（通过摩擦或啮咬）使磨损，使销蚀；（经侵蚀而）形成（沟，通道）；打着涟漪流动（或移动）；给（弦乐器）装品；把琴弦压在音品上演奏（某音）；用回纹装饰 
+	18. n. （吉他等指板上定音的）品；（从海上飘来的）雾，海雾；烦躁，苦恼，焦急；（艺术，建筑）回纹饰；（纹章）钻石上的回纹饰图案
+	19. **worry**烦恼;**worrying**令人担心的;**don**先生，阁下;**forget**忘记;
+	20. _fret over_ 为…着急
+	21. fretwork
+	22. fretum
+	23. fretty, fretted
+		1. adj. 焦躁的；腐蚀的；附有弦马的 
+		2. v. 烦躁；侵蚀；耗损（fret 的过去分词）
+		3. [interlaced](dic://interlaced), [latticed](dic://latticed), [latticelike](dic://latticelike)
+		4. _adj._ [fret](dic://fret), [reticulate](dic://reticulate), [reticular](dic://reticular)
+		5. _n._ [unfretted](dic://unfretted), [nonreticulate](dic://nonreticulate)
+		6. **worried**担心的;**lamented**令人遗憾的;**bowed**有弓的;**nervously**神经质地;**wailing**哭号;**lamenting**悲伤的,悲哀的;**cried**哭泣;**rattled**慌乱的;**worrying**令人担心的;**unsettled**未处理的;
+		7. fretted notes. /将琴弦压在品上奏出的音。
+		8. rope that fretted a groove in the post; /在柱子上磨出槽来的绳子；
+		9. They rolled up to his lips and fretted them /它们滚到他的嘴唇上， 抚弄着它们。
+		10. squelchy clay that fretted between his toes. /在他脚趾间嘎吱嘎吱地翻滚着的泥土。
+		11. intricately carved and fretted balustrades. /雕刻精致的有回纹装饰的栏杆。
+		12. The stream from the mountain slope fretted a channel through the soft earth along the mountain foot /"山坡上下来的小溪流侵袭着松软的土地,沿着山脚跟形成了一条沟渠。"
+	24. fretting
+	25. fretsaw
+	26. fretful
 6. ort
 	1. 来自古英语*oraet,即 eat-out,吃剩物，来自 or-,离开，词源同 ordeal,out,-aet,吃，词源同 eat.
 
@@ -1583,6 +1605,43 @@
 3. earnest
 4. raise
 5. rise
+
+
+### \*ere-
+#### \*ere- (2)
+1. **ret-, reticul** = net, 表示“网”。源自拉丁语 rete, retis "a net" (+ -icul, 小词后缀 )。
+	1. retiary
+		1. a. 结网的, 网的  
+		2. n. 结网的蜘蛛
+	2. reticle
+		1. n. 分划板, 标准片, 标线
+	3. reticular
+	4. reticulate
+		1. a. 网状的  
+		2. v. (使)成网状
+	5. reticulocyte
+	6. reticulum
+		1. n. 网状质, 网状组织, 蜂巢胃
+	7. retiform
+		1. a. 网状的
+	8. retting
+	9. reticul-nodular
+		1. a. 网状结节
+	10. reticule
+		1. n. 手提袋, 网袋（女用的）
+		2. 来自法语 reticule,发网，来自拉丁语 reticulum,小网，来自 rete,网，-cul,小词后缀。后用于指手提袋，特别是女用网袋。
+	11. reticuloendothelial
+2. **retin-** = retina, 表示“视网膜”。源自拉丁语 rete, retis "a net" + -in, 小词后缀。
+	1. retina
+		1. n. 视网膜
+		2. 来自拉丁语 retina,视网膜，来自 rete,网，-ina,小词后缀。比喻用法。
+	2. retinae
+	3. retinal
+	4. retinitis
+		1. n. 视网膜炎
+	5. retinoscope
+		1. n. 视网膜镜
+	6. retinoscopy
 
 
 ### + \*eredh- +

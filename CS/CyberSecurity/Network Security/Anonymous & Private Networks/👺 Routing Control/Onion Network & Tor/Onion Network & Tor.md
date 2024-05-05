@@ -18,7 +18,7 @@ The hidden wiki exists in many forms since the tor network started, it was alway
 You can find sites for buying drugs and guns, fake identification, credit cards, bank accounts and even hackers for hire on the hidden wiki.
 
 ### Toolboxes
-↗ [Whonix](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Whonix/Whonix.md)
+↗ [Whonix](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Whonix/Whonix.md)
 
 https://bridges.torproject.org/bridges?transport=obfs4
 official channel for obtaining obfs4 bridge (an alternative is using telegram bot)

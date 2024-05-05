@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Networking and Communication](../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
 ↗ [Protocol & Policy Security](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🗂️%20Protocol%20&%20Policy%20Security/Protocol%20&%20Policy%20Security.md)
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)

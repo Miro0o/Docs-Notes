@@ -4381,67 +4381,6 @@
 			2. **excesses**越轨;**mismanagement**办错,管理不善;**folly**愚蠢;**immorality**不道德,无道义;**greed**贪婪，贪心;**hubris**傲慢;**wasteful**浪费的，不经济的;**incompetence**无能力;**austerity**严厉;**hypocrisy**伪善;**stupidity**愚笨;
 
 
-### + \*bhreie- +
-1. **frict-**  friction, 表示“摩擦”。
-	1. fray (defray)
-		2. [affray](dic://affray), [disturbance](dic://disturbance), [ruffle](dic://ruffle)
-		3. [frazzle](dic://frazzle)
-		4. [rub](dic://rub), [fret](dic://fret), [chafe](dic://chafe), [scratch](dic://scratch)
-		5. _n._ [fight](dic://fight), [fighting](dic://fighting), [combat](dic://combat), [scrap](dic://scrap)
-		6. _v._ [break](dic://break), [wear](dic://wear), [wear out](dic://wear out), [bust](dic://bust), [fall apart](dic://fall apart), [touch](dic://touch), [adjoin](dic://adjoin)
-		7. **tangle**混乱状态;**battle**战役;**plunge**投入;**bandwagon**乐队花车;
-		8. _[enter the fray](dic://enter%20the%20fray)_ 进入战场
-		9. _[This reverse the fray](dic://This%20reverse%20the%20fray)_ 这下扭转了战局 
-		10. fray the edge of a shirt sleeve /磨破衬衫的袖口
-		11. Are you ready for the fray? /你准备好斗争一番了吗？
-		12. This material frays easily /这种材料很容易磨损。
-	2. friable
-	3. fricative
-		1. fric-摩擦 + -ative
-	4. friction
-		1.  [clash](dic://clash)
-		2.  [rubbing](dic://rubbing)
-		3.  [detrition](dic://detrition), [rubbing](dic://rubbing)
-		4. _n._ [conflict](dic://conflict), [resistance](dic://resistance), [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail), [sweat](dic://sweat)
-		5. **tension**张力，拉力;**lubrication**润滑;**abrasion**磨损;**lubricant**润滑剂;**roughness**粗糙;**inertia**惯性;**torque**转矩，扭矩;**vibration**震动;**pressure**压力;**damping**阻尼;**viscous**粘性的;
-	5. frivolity
-		1. n. 轻薄, 轻率, 不足取的事
-		2. frivol【虚度日子, 做无聊事】 + -ity, 表名词
-		3. _n._ [trait](dic://trait), [triviality](dic://triviality), [trivia](dic://trivia), [trifle](dic://trifle), [small beer](dic://small beer), [folly](dic://folly), [foolery](dic://foolery)
-		4. _n._ [seriousness](dic://seriousness), [earnestness](dic://earnestness), [serious-mindedness](dic://serious-mindedness), [sincerity](dic://sincerity)
-		5. **silliness**愚蠢;**frivolous**不重要的,不必要的;**whimsy**怪念头;**indulgence**放纵;**absurdity**荒谬;**foolishness**愚蠢;**cynicism**犬儒主义;**seriousness**严肃;**craziness**发狂,热中,狂热;**light-hearted**轻松的;**boredom**厌倦;
-		6. His frivolity annoys the other people in the office /他的轻浮使办公室里的其他人感到不快。
-		7. People enjoy a few frivolities during their holidays /人们在假期里轻松地娱乐一番。
-	6. frivolous
-		1. _adj._ [airheaded](dic://airheaded), [dizzy](dic://dizzy), [empty-headed](dic://empty-headed), [featherbrained](dic://featherbrained), [giddy](dic://giddy), [light-headed](dic://light-headed), [lightheaded](dic://lightheaded)
-		2. **silly**愚蠢的;**pointless**无意义的;**extravagant**奢侈的, 铺张的;**childish**幼稚的，孩子气的;**outrageous**骇人的;**unnecessary**不必要的, 多余的;**wasteful**浪费的，不经济的;**baseless**无根据的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**superfluous**过多的;
-		3. It might seem frivolous, but it's not /这看上去可能不值一提，但并非如此。
-		4. It can be frivolous, but it doesn't have to be /快乐可能是无意义的，但也不一定如此。
-		5. They shun books with naughty or frivolous children, or where youngsters outsmart their elders /他们不会出版那些关于淘气或者不务正业的孩子的书籍，以及那些描述孩子的智慧超过大人的书籍。
-		6. For every story of successful investment and charitable giving there is a more sensational story of frivolous spending. /既然有成功投资和慈善捐赠的美事佳话，自然也会有胡乱消费的骇人故事。
-	7. affricate
-		4. af- + fric-摩擦 + -ate
-		5. _n._ [obstruent](dic://obstruent)
-		6. **consonant**辅音;**vowel**元音;**vowels**元音，母音;**phonetic**语音的，语音学的;**pronunciation**发音;**alveolar**肺泡的;**syllable**音节;**dialects**乡土语言，方言;
-		7. _[affricate](dic://affricate)_  n. 塞擦音；破擦音; vt. 使发成塞擦音;
-	8. dentifrice
-		1. n. 牙膏；牙粉
-		2. denti-牙齿 + -frice, 摩
-		3. dandelion（蒲公英）：叶子像狮子牙齿的植物  
-		4. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。
-		5. dent-：齿，牙齿，锯齿，凹痕
-		6. dandelion：['dændɪlaɪən] n.蒲公英 
-		7. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
-		8. dentist：['dɛntɪst] n. 牙科医生  
-		9. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  
-		10. dentifrice： ['dɛntə,frɪs] n. 牙膏；牙粉
-		11. _n._ [cleansing agent](dic://cleansing agent), [cleanser](dic://cleanser), [cleaner](dic://cleaner)
-		12. **toothpaste**牙膏;**toothbrush**牙刷;**gum**树胶;**whitening**变白,白粉;**fluoride**氟化物;**dental**牙齿的，牙的;**enamel**珐琅;**gums**牙龈，树胶;**periodontal**牙齿周围的,齿根膜的;**antibacterial**抗菌的;**Colgate**高露洁;
-		13. _[dentifrice toothpaste](dic://dentifrice%20toothpaste)_ 牙膏
-		14. _[desensitizing dentifrice](dic://desensitizing%20dentifrice)_ 脱敏牙膏
-		15. Time like hardly using up **dentifrice**, as long as you crush it, it must have a little! /时间就像快用完的牙膏，只要你去挤，总还有一点。
-
-
 ### + \*bhreg- + = to break
 1. **br-** = break, 表示“破碎”。
 	1. brake
@@ -4778,6 +4717,153 @@
 	31. saxifrage
 	32. septifragal
 	33. thermofractograph
+
+
+### + \*bhreie- +
+1. **frict-**  friction, 表示“摩擦”。
+	1. fray (defray)
+		2. [affray](dic://affray), [disturbance](dic://disturbance), [ruffle](dic://ruffle)
+		3. [frazzle](dic://frazzle)
+		4. [rub](dic://rub), [fret](dic://fret), [chafe](dic://chafe), [scratch](dic://scratch)
+		5. _n._ [fight](dic://fight), [fighting](dic://fighting), [combat](dic://combat), [scrap](dic://scrap)
+		6. _v._ [break](dic://break), [wear](dic://wear), [wear out](dic://wear out), [bust](dic://bust), [fall apart](dic://fall apart), [touch](dic://touch), [adjoin](dic://adjoin)
+		7. **tangle**混乱状态;**battle**战役;**plunge**投入;**bandwagon**乐队花车;
+		8. _[enter the fray](dic://enter%20the%20fray)_ 进入战场
+		9. _[This reverse the fray](dic://This%20reverse%20the%20fray)_ 这下扭转了战局 
+		10. fray the edge of a shirt sleeve /磨破衬衫的袖口
+		11. Are you ready for the fray? /你准备好斗争一番了吗？
+		12. This material frays easily /这种材料很容易磨损。
+	2. friable
+		1. a. 易碎的, 易成粉末的, 脆弱的
+		2. 来自拉丁语 friare,磨擦，词源同 friction.即易磨的，易碎的。
+		3.  [light](dic://light), [sandy](dic://sandy) 
+		4. _adj._ [breakable](dic://breakable), [loose](dic://loose)
+		5. _n._ [unbreakable](dic://unbreakable), [compact](dic://compact)
+		6. **crumbly**脆的;**fibrous**纤维的，纤维性的;**brittle**易碎的，脆弱的;**porous**能渗透的;**granular**粒状的;**powdery**粉的;**soils**土壤;**granules**颗粒剂;**limestone**石灰岩;**lumpy**粗笨的;**moist**潮湿的;
+		7. If there is pathology near the surface, the brain's surface can be friable, where just the nearest touch can cause bleeding /如果大脑表面附近有病理，大脑表面可能会很脆，只要轻轻接触就会导致出血。
+		8. he soil was friable between her fingers /她手指间的土壤很易捏碎。
+	3. fricative
+		1. fric-摩擦 + -ative
+	4. friction
+		1.  [clash](dic://clash)
+		2.  [rubbing](dic://rubbing)
+		3.  [detrition](dic://detrition), [rubbing](dic://rubbing)
+		4. _n._ [conflict](dic://conflict), [resistance](dic://resistance), [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail), [sweat](dic://sweat)
+		5. **tension**张力，拉力;**lubrication**润滑;**abrasion**磨损;**lubricant**润滑剂;**roughness**粗糙;**inertia**惯性;**torque**转矩，扭矩;**vibration**震动;**pressure**压力;**damping**阻尼;**viscous**粘性的;
+	5. frivolity
+		1. n. 轻薄, 轻率, 不足取的事
+		2. frivol【虚度日子, 做无聊事】 + -ity, 表名词
+		3. _n._ [trait](dic://trait), [triviality](dic://triviality), [trivia](dic://trivia), [trifle](dic://trifle), [small beer](dic://small beer), [folly](dic://folly), [foolery](dic://foolery)
+		4. _n._ [seriousness](dic://seriousness), [earnestness](dic://earnestness), [serious-mindedness](dic://serious-mindedness), [sincerity](dic://sincerity)
+		5. **silliness**愚蠢;**frivolous**不重要的,不必要的;**whimsy**怪念头;**indulgence**放纵;**absurdity**荒谬;**foolishness**愚蠢;**cynicism**犬儒主义;**seriousness**严肃;**craziness**发狂,热中,狂热;**light-hearted**轻松的;**boredom**厌倦;
+		6. His frivolity annoys the other people in the office /他的轻浮使办公室里的其他人感到不快。
+		7. People enjoy a few frivolities during their holidays /人们在假期里轻松地娱乐一番。
+	6. frivolous
+		1. _adj._ [airheaded](dic://airheaded), [dizzy](dic://dizzy), [empty-headed](dic://empty-headed), [featherbrained](dic://featherbrained), [giddy](dic://giddy), [light-headed](dic://light-headed), [lightheaded](dic://lightheaded)
+		2. **silly**愚蠢的;**pointless**无意义的;**extravagant**奢侈的, 铺张的;**childish**幼稚的，孩子气的;**outrageous**骇人的;**unnecessary**不必要的, 多余的;**wasteful**浪费的，不经济的;**baseless**无根据的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**superfluous**过多的;
+		3. It might seem frivolous, but it's not /这看上去可能不值一提，但并非如此。
+		4. It can be frivolous, but it doesn't have to be /快乐可能是无意义的，但也不一定如此。
+		5. They shun books with naughty or frivolous children, or where youngsters outsmart their elders /他们不会出版那些关于淘气或者不务正业的孩子的书籍，以及那些描述孩子的智慧超过大人的书籍。
+		6. For every story of successful investment and charitable giving there is a more sensational story of frivolous spending. /既然有成功投资和慈善捐赠的美事佳话，自然也会有胡乱消费的骇人故事。
+	7. affricate
+		4. af- + fric-摩擦 + -ate
+		5. _n._ [obstruent](dic://obstruent)
+		6. **consonant**辅音;**vowel**元音;**vowels**元音，母音;**phonetic**语音的，语音学的;**pronunciation**发音;**alveolar**肺泡的;**syllable**音节;**dialects**乡土语言，方言;
+		7. _[affricate](dic://affricate)_  n. 塞擦音；破擦音; vt. 使发成塞擦音;
+	8. dentifrice
+		1. n. 牙膏；牙粉
+		2. denti-牙齿 + -frice, 摩
+		3. dandelion（蒲公英）：叶子像狮子牙齿的植物  
+		4. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。
+		5. dent-：齿，牙齿，锯齿，凹痕
+		6. dandelion：['dændɪlaɪən] n.蒲公英 
+		7. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
+		8. dentist：['dɛntɪst] n. 牙科医生  
+		9. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  
+		10. dentifrice： ['dɛntə,frɪs] n. 牙膏；牙粉
+		11. _n._ [cleansing agent](dic://cleansing agent), [cleanser](dic://cleanser), [cleaner](dic://cleaner)
+		12. **toothpaste**牙膏;**toothbrush**牙刷;**gum**树胶;**whitening**变白,白粉;**fluoride**氟化物;**dental**牙齿的，牙的;**enamel**珐琅;**gums**牙龈，树胶;**periodontal**牙齿周围的,齿根膜的;**antibacterial**抗菌的;**Colgate**高露洁;
+		13. _[dentifrice toothpaste](dic://dentifrice%20toothpaste)_ 牙膏
+		14. _[desensitizing dentifrice](dic://desensitizing%20dentifrice)_ 脱敏牙膏
+		15. Time like hardly using up **dentifrice**, as long as you crush it, it must have a little! /时间就像快用完的牙膏，只要你去挤，总还有一点。
+
+
+### \*bhren- = to project; edge + 
+1. **front-** = forehead, 表示“前额”。源自拉丁语 frons "forehead, front."
+	1. front
+		1. front row seat
+			1. - 前排座位：指在观看演出、比赛或其他活动时位于最前排的座位。通常被认为是最佳观赏位置。
+			2. Neville was cowering in his front row seat. /第一排的纳威往后缩了缩。
+			3. I even offered him front row seats to that sold-out show next weekend. /光买瓶红酒就花了我不少钱。我甚至还给了他下周末那个早已抢购一空的演出的前排座位。
+			4. So that health info you think you're looking up in private, Google's got a front row seat. /所以你以为你私底下在看的健康资讯，Google 其实看得一清二楚。
+			5. And Mark Meadows, as White House Chief of Staff, would have had a front row seat to all of this. /而马克·梅多斯作为白宫幕僚长，对这一切应该会有近距离的观察。
+			6. Today, we are all offered front row seats. /我们仿佛身处贵宾席。
+		2. frontolysis
+		3. frontology
+		4. frontogenesis
+		5. frontman
+		6. frontloader
+		7. frontbench
+		8. front-runner
+		9. front-page
+		10. front-office
+		11. front-line
+		12. anafront
+		13. forefront
+		14. frontage
+		15. frontager
+		16. frontal
+		17. frontier
+		18. frontispiece
+		19. frontless
+		20. frontward
+			1. frontwards
+		21. battlefront
+		22. katafront
+		23. lakefront
+		24. new-front
+		25. prefrontal
+		26. seafront
+		27. shirtfront
+		28. storefront
+		29. upfront
+		30. waterfront
+	3. effrontery
+	4. confront
+		1. confrontation
+	5. affront
+		1. [insult](dic://insult)
+		2.  [diss](dic://diss), [insult](dic://insult)
+		3. _n._ [discourtesy](dic://discourtesy), [offense](dic://offense), [offence](dic://offence), [offensive activity](dic://offensive activity)
+		4. _v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
+		5. **insult**侮辱;**disrespect**失礼,无礼;**mockery**嘲弄;**decency**正派;**disdain**蔑视;**travesty**滑稽模仿;**insulting**侮辱的;**offend**冒犯;**disregard**不顾, 不理会, 无视;**intolerable**无法忍受的;**unacceptable**不能接受的;
+		6. _[put an affront upon somebody](dic://put%20an%20affront%20upon%20somebody)_ 当众侮辱某人
+		7. Such behavior is an affront to society. /这种行为是对社会的蔑视
+		8. It was an affront to common decency /这是对社会礼仪的公然冒犯。
+		9. Your behaviour is an affront to public decency. /你的行为有伤风化。
+		10. How can you stomach their affronts? /你怎么能够忍受他们的侮辱？
+		11. Leaving during his speech was an affront to the speaker. /当讲话的人正在讲话时离去, 是对他的一种不尊敬。
+		12. But unions said this was an affront to French values /但据空乘人员工会表示，此举违背法国价值观。
+		13. In this heat every extra gesture was an affront to the common store of life. /在这酷热的大气，每一个多余的手势都是滥用生活的公有财富。
+		14. Travers stopped in his tracks, clearly affronted. /特莱维尔停下脚步，显然是被激怒了。
+		15. There's no need to take it as a personal affront /但这家伙就是个骗子。
+		16. The White House Press Secretary Jen Psaki called the events of last Sunday a direct affront to international norms /白宫新闻发言人珍·萨基称上周日的事件是对国际准则的直接践踏。
+		17. affronted
+			1. she was affronted by his familiarity /他亲昵的举动冒犯了她。
+			2. Nearly Headless Nick looked highly affronted. /无头尼克看来象是被严重侮辱的样子。
+			3. " No, " said Harry, ignoring Hermione's affronted look at being cut off in her defence of Kreacher. /”没有，" 哈利说，假装没有看见赫敏为克利切辩护时被突然打断的恼火神情。
+2. brink
+	1. 可能同 break,分开，切开。
+	2. n. 边缘, 陡岸
+	3. [threshold](dic://threshold), [verge](dic://verge)
+	4. [verge](dic://verge)
+	5. _n._ [boundary](dic://boundary), [edge](dic://edge), [bound](dic://bound), [border](dic://border), [limit](dic://limit)
+	6. **verge**边缘;**cusp**尖端;**abyss**深渊;**collapse**倒塌;**collapsing**压扁,毁坏,断裂;**imminent**迫近的;**impending**即将发生的;**plunging**跳进的,突进的;**turmoil**混乱，骚动;**midst**当中，中间;**danger**危险;
+	7. on the  brink of the grave /濒于死亡
+	8. the brink of a cliff /悬崖的边缘
+	9. a brink-of-war policy /战争边缘政策
+	10. The country is teetering on the brink of civil war. /这个国家正处在内战的边缘。
+	11. In the sultry summer day; Where the wild birds bathe and drink, And the wild flowers fringe the brink. /在闷热的夏日里，流向野鸟游泳喝水的地方，去滋养那路边的野花，让它们快快开放。
 
 
 ### + \*bhreue- + = to bubble, boil, effervesce

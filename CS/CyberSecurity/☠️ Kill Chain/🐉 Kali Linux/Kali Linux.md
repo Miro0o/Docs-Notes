@@ -24,7 +24,7 @@
 
 ### Related Fields
 ↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Debian Based Linux](../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Debian%20Based%20Linux.md)
+↗ [Debian Based Linux](../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Debian%20Based%20Linux.md)
 
 
 

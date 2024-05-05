@@ -1417,14 +1417,20 @@
 		6. assailant
 		7. assailable. unassailable
 	3. salacious
-		1. 1 - 来自拉丁语 salax,性欲旺盛的，来自 salire,跳，词源同 salient,sally,result.-acious,形容词后缀，词源同 sagacious.比喻用法，引申词义性交。
-		2. _adj._ [sexy](dic://sexy), [dirty](dic://dirty)
-		3. _n._ [unsexy](dic://unsexy), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
-		4. **scandalous**令人反感的;**sordid**肮脏的;**lewd**淫荡的;**sleazy**质地薄的;**sensational**轰动的;**erotic**色情的;**vulgar**粗俗的;**provocative**刺激的;**juicy**多汁的;**obscene**淫秽的;**gossip**小道传闻;
-		5. _[salacious secret history](dic://salacious%20secret%20history)_ 隐秘的风流史
-		6. _[Deficiency of salacious](dic://Deficiency%20of%20salacious)_ 虚情的暧昧
-		7. _[hideous conduct salacious story](dic://hideous%20conduct%20salacious%20story)_ 卑鄙丑恶的行迹
-		8. salacity
+		1. 来自拉丁语 salax,性欲旺盛的，来自 salire,跳，词源同 salient,sally,result.-acious,形容词后缀，词源同 sagacious.比喻用法，引申词义性交。
+		2. adj. 好色的；猥亵的；淫荡的
+		3. _adj._ [sexy](dic://sexy), [dirty](dic://dirty)
+		4. _n._ [unsexy](dic://unsexy), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+		5. **scandalous**令人反感的;**sordid**肮脏的;**lewd**淫荡的;**sleazy**质地薄的;**sensational**轰动的;**erotic**色情的;**vulgar**粗俗的;**provocative**刺激的;**juicy**多汁的;**obscene**淫秽的;**gossip**小道传闻;
+		6. _[salacious secret history](dic://salacious%20secret%20history)_ 隐秘的风流史
+		7. _[Deficiency of salacious](dic://Deficiency%20of%20salacious)_ 虚情的暧昧
+		8. _[hideous conduct salacious story](dic://hideous%20conduct%20salacious%20story)_ 卑鄙丑恶的行迹
+		9. his salacious grin faltered. /他那淫荡的龇牙咧嘴的笑收了起来。
+		10. Maribel also harbours a salacious secret history  /玛丽贝尔也有一段不为人知的风流韵事。
+		11. Cambridge University Library holds around 8 million books, manuscripts, maps and journals and it was thought some more salacious material. /剑桥大学图书馆拥有约800万册书、手稿、地图和期刊，而且有人认为这里有一些颇为淫秽的资料。
+		12. And we're attracted to the salacious, the provocative /我们被淫秽的、挑逗的所吸引。
+		13. Sally continues, she says these shows are full of salacious details that nobody should talk about in public. /莎莉继续说，她说这些节目充满了色情细节， 任何人都不应该在公共场合谈论这些细节。
+		14. salacity
 			1.  [obscenity](dic://obscenity), [lewdness](dic://lewdness), [bawdiness](dic://bawdiness), [salaciousness](dic://salaciousness)
 			2. _n._ [indecency](dic://indecency)
 	5. salience
@@ -4326,8 +4332,18 @@
 			1. **frugal**节俭的;**reckless**鲁莽的，不顾后果的;**irresponsible**不负责任的;**greedy**贪婪的;**extravagant**奢侈的, 铺张的;**wealthy**富有的;**wasteful**浪费的，不经济的;**selfish**自私的;**foolish**愚蠢的;**spoiled**被宠坏的;**self-centered**自我为中心的,利己主义的;
 			2. _n._ [prodigal](dic://prodigal), [profligate](dic://profligate), [squanderer](dic://squanderer)
 			3. _adj._ [wasteful](dic://wasteful)
-		2. spender, 
-		3. overspend, outspend, misspend
+		2. spender
+			1. n. 挥金如土的人；挥霍者；用钱的人
+			2. [spendthrift](dic://spendthrift), [spend-all](dic://spend-all), [scattergood](dic://scattergood)
+			3. [disburser](dic://disburser), [expender](dic://expender)
+			4. _n._ [poet](dic://poet), [literary critic](dic://literary critic), [prodigal](dic://prodigal), [profligate](dic://profligate), [squanderer](dic://squanderer), [customer](dic://customer), [client](dic://client)
+			5. **frugal**节俭的;**splurge**卖弄;**expenditure**花费, 使用;**saver**救助者;**gambler**赌徒;**billionaire**亿万富翁;**extravagant**奢侈的, 铺张的;**shopper**购物者;**money**钱;**millionaire**百万富翁;
+			6. Someone who spends a lot is a big spender. /花钱大手大脚的人就是挥金如土。
+			7. Millennials are expected to be big spenders over the next ten years. /在未来的十年里，千禧一代将会成为消费大户。
+			8. Carrefour focused on Bangkok’s higher spenders and stuck to its hypermarket format. /而家乐福则定位于曼谷的高端消费群体，坚持“大型卖场”路线。
+			9. Are you a saver or a spender, Sam? /萨姆，你是存钱的人还是花钱的人？
+			10. South Koreans are normally among the top ten spenders on international travel, according to the World Bank. /根据世界银行的数据，韩国人通常名列国际旅游消费的前十名。
+		4. overspend, outspend, misspend
 	3. stipend, stipendiary
 		1. _n._ [regular payment](dic://regular payment)
 		2. **allowance**零用钱;**subsidy**津贴;**tuition**学费;**salary**薪水;**scholarship**奖学金;**reimbursement**偿还;**paycheck**付薪水的支票，薪水;**grant**授予，允许;**expenses**开支;**paid**付清的;**remuneration**酬报,酬劳;

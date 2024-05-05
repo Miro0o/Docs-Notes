@@ -269,15 +269,237 @@
 	- _rat on_ 撤销；背叛，告发
 
 
+### \*rei-
+#### \*rei- (1) 
+1. **rim-** = fissure, 表示“裂缝”。源自拉丁语 rima "crack, cleft, fissure."
+	1. rimose
+	2. rimous
+2. **ripe-** = ripe, 表示“成熟”。源自古英语 ripe "ripe ready for reaping."
+	1. rareripe
+		1. a. 早熟的  n. 早熟水果
+	2. ripe
+		1. a. 成熟的, 熟练的, 成年的
+		2. 来自古英语 ripe,熟的，成熟的，来自 Proto-Germanic*ripijaz,分开的，来自 PIE*rep,拉，抢，抓，词源同 reap,rip.比喻用法。
+	3. overripe
+	4. ripely
+	5. ripen
+	6. ripeness
+		1. n. 成熟, 圆通, 完成
+	7. underripe
+	8. unripe
+3. **riv-** = stream, 表示“河流”。源自拉丁语 ripa "bank."
+	1. river
+		1. rival（对手）：在河两面争夺河水的人  
+		2. 英语单词rival和river（河流）同源，来自古拉丁文rivalis，本意是“河对面的人、共饮一江水的人”。在古代，围绕一江一河往往会展开激烈的争夺，由近邻演变为对手。所以当rivalis借道法语进入英语并演变为rival时，很快被赋予了“竞争对手、敌手”的含义。  
+		3. rival： ['raɪvl] n.竞争对手，敌手adj.竞争的v.竞争  
+		4. rivalry： ['raɪvlri] n. 竞争；对抗；竞赛  
+		5. rivalrous： ['raɪvlrəs] adj. 敌对性的；有竞争性的  
+		6. unrivalled：[ʌn'raɪv(ə)ld]  adj. 无与伦比的；无敌的  
+		7. river： ['rɪvɚ] n. 河，江
+		8. upriver
+		9. riverwards
+		10. riverward
+		11. riverside
+			1. _n._ [bank](dic://bank), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center)
+			2. **river**河，江;**waterfront**海〔湖〕滨;**lakeside**湖边;**promenade**人行道;**wharf**码头;**picturesque**如画的;**estuary**河口;**parkland**公用场地;**creek**小溪;**hilltop**小山顶;**hillside**山坡，山腹;
+		12. riverine
+			1. Most riverine accidents had nothing to do with them. /河边发生的大部分事故与它们无关。
+			2. The embankments along the river were built to protect regions from riverine flooding /沿河的堤防是为了保护地区免受河流洪水的侵袭。
+		13. riverhead
+		14. riverboat
+		15. riverbed
+		16. riverain
+			1. adj. 住在河边的，河边的；河的 
+			2. n. 住在河边的人
+			3. _[riverain state](dic://riverain%20state)_ 沿河国
+			4. _[riverain nation](dic://riverain%20nation)_ 沿河国
+			5. _[riverain tribes](dic://riverain%20tribes)_ 河滨部落
+			6. _[starlight riverain](dic://starlight%20riverain)_ 星星河流
+	2. arrive
+		1. 1.arrive（到达）：水路运输中船只抵达河岸  
+		2. 英语单词arrive（到达）与river（河流）有关系吗？没错，它们其实是同源词。古代交通不发达，公路很少，所以天然形成的河流及大洋是非常重要的交通途径。英语单词arrive（到达）就与古代的水运方式有关。arrive源自拉丁语arripare，由ad+ripa组合构成。ad表示toward、 near（靠近），因为后面的ripa以r开头所以改写为ar；ripa表示“河岸、海岸”，如英语单词riparian（河边居民）。英语单词river（河流）与arrive同源，它源自拉丁语riparius（河岸的）。  
+		3. arrive：[ə'raɪv] vi.达到，达成。记：ar（=ad，靠近）+rive（river的岸边）→靠岸  
+		4. arrival：[ə'raɪv(ə)l] n.到达，到来，到达者  
+		5. river：['rɪvə] n.河，江  
+		6. riparian： [raɪ'peərɪən] n.河边居民，河岸拥有者adj.河边的 
+		7. arriviste
+		8. arrivist
+		9. arriver
+		10. arrival
+			1. interarrival
+	3. riviera
+	4. riparian
+		1. arrive [ə'raɪv] vi.到达。前缀ar-是ad-在r-音前被同化的结果，意思不变，还是at或to，-rive部分同river，是拉丁词根ripa-表河岸。之前提过，拉丁元音中的p在法语里变作v，所以比较这个单词：riparian [raɪ'peərɪən] adj.河边的，n.河边居民。arrive本指come to shore，后扩大为所有方式的到达。
+		2. _adj._ [riverbank](dic://riverbank), [riverside](dic://riverside)
+		3. **wetland**湿地;**wetlands**沼泽地;**vegetation**植物;**habitat**栖息地，产地;**grassland**草原，牧场;**watershed**分水岭;**habitats**栖息地;**mangrove**红树林;**waterway**水路;**easement**缓和;**creek**小溪;
+		4. all the riparian states must sign an agreement. /沿岸各州都必须签订协议。
+		5. First, to avoid interference from other bears, they often carry captured salmon to the stream bank or into the riparian (streamside) forest before eating. /熊在成年后大部份时间都独来独往，只在春、夏两季保留数星期求偶。
+		6. Riparian landowners in all states (including those with appropriative water laws)generally have rights to use their adjoining surface waters for such nonconsumptive uses as fishing and recreation. /所有州的拥有河岸土地的人（包括那些享有合理性权利的人），都有在不不损耗地表水的前提下使用水资源的权利，如钓鱼.消遣.娱乐。
+		7. In the Western U.S., the lower 48, aspen, second to riparian systems, are the most biodiverse forests that we have. /在位于美国西部的下48州，就生物多样性的丰富程度来说，山杨林仅次于河岸系统。
+4.  rip (riff, reap)
+	1. 来自 Proto-Germanic*ruppona,撕，拉，来自 PIE*reup,拉，扯，抢夺，词源同 rob,rupture.引申诸相关词义。
+	2. [rake](dic://rake), [rakehell](dic://rakehell), [profligate](dic://profligate), [blood](dic://blood), [roue](dic://roue)
+	3.  [rent](dic://rent), [snag](dic://snag), [split](dic://split), [tear](dic://tear)
+	4.  [riptide](dic://riptide), [tide rip](dic://tide rip), [crosscurrent](dic://crosscurrent), [countercurrent](dic://countercurrent)
+	5. [rent](dic://rent), [split](dic://split)
+	6.  [rend](dic://rend), [rive](dic://rive), [pull](dic://pull)
+	7. _n._ [libertine](dic://libertine), [debauchee](dic://debauchee), [rounder](dic://rounder), [opening](dic://opening), [gap](dic://gap), [turbulence](dic://turbulence), [turbulency](dic://turbulency)
+	8. _v._ [tear](dic://tear), [rupture](dic://rupture), [snap](dic://snap), [bust](dic://bust), [shoot](dic://shoot), [shoot down](dic://shoot down), [charge](dic://charge)
+	9. [tear](dic://tear) 最普通用词，指有意或无意地把布或纸等没接缝的材料撕开。可作引申用。  
+	10. [rip](dic://rip) 侧重指用力把布料等物撕开，也可指用粗暴手段把某物撕裂。   
+	11. [split](dic://split) 非正式用词，指有力的切断、劈开或撕裂的动作。
+	12. **tore**撕开;**tear**撕掉，扯下;**tearing**痛苦的;**pull**拉;**chop**砍;**cut**伤口;**shove**推, 猛推, 乱推;**burn**燃烧;**scrape**用工具刮;**slap**掌击;**shred**碎片;
+	13. _rip off_ [俚]偷窃；扯掉；欺诈；剥削
+	14. _let rip_ [口语];◎毫无拘束地讲话；自由自在地行动；纵情欢乐;◎让(感情等)奔放;
+	15. _rip out_ 扯掉；狠狠地发出
+	16. _rip up_ 撕碎，撕毁
+	17. _let it rip_ ◎不要担心；别理会后果；听其自然;◎用心好好干;◎让(车、船、机器等)不限速度行驶，开足马力前进[亦作let her rip];
+	18. rip-off artists /贼；骗子；敲竹杠的人。
+	19. a rip-roaring derby match /一场充满活力的德比马赛。
+	20. He had seen the rip in the book. /他看到了书里的裂缝。
+	21. the story rips along at a cracking pace /故事以激动人心的速度发展着。
+	22. the brass sections let rip with sheer gusto. /铜管乐器组倾情演奏。
+	23. rip-offs of all the latest styles. /仿造所有最新款式的冒牌货。
+	24. There’s a straight road ahead. Let it rip! /前面是一条直路。全速前进！
+	25. He was furious. He let rip at me with a stream of abuse. /他非常愤怒，对我破口大骂。
+	26. she knew if she forced it she would rip it. /她知道如果使足劲会撕开它。
+	27. the body of the woman to the right is modelled in softer, riper forms. /右边女子的体形表现得更柔和、更成熟。
+	28. designer label clothes are just expensive rip-offs /标出设计师的衣服只是抬价的噱头而已。
+	29. a fan tried to rip his trousers off during a show. /在演出中一个狂热仰慕者试图扯下他的裤子。
+	30. Whose hair are you ripping out? ” /你去拔谁的头发？”
+	31. Development should be planned, not let rip. /开发前需要规划，而不任其发展。
+	32. unrip
+		1. vt. 割开；撕开；透露
+	33. riptide
+	34. ripsnorting
+	35. ripsnorter
+	36. ripsaw
+		1. [splitsaw](dic://splitsaw)
+		2. _n._ [handsaw](dic://handsaw), [hand saw](dic://hand saw), [carpenter's saw](dic://carpenter's saw)
+		3. **saws**锯片;**blade**刀片，刀锋;**chainsaw**用链锯割,肢解;**lathe**用车床加工;**jig**跳吉格舞;**cutter**刀具，切割机;**grinder**研磨者;**blades**刀刃;
+	37. riproaring
+	38. ripping
+	39. ripper
+		1. n. 撕裂者；粗齿锯；裂具
+		2. _jack the ripper_ 开膛手杰克（英国伦敦系列凶杀案的凶手绰号）
+		3. _n._ [murderer](dic://murderer), [liquidator](dic://liquidator), [manslayer](dic://manslayer)
+		4. **rip**撕;**ripping**劈的;**seam**缝;**cutter**刀具，切割机;**rips**花水;
+		5. everyone had a ripper time. /人人都过得特别快乐。
+		6. Or you could say " Bloody ripper! " when something's really great like when you win the lotto. /“Bloody ripper！”，当某件事情真的很棒的时候，比如说你中了彩票。
+		7. Ripper is a good expression when something's going well or it's good like " ah ripper! " /当事情进展顺利时，ripper 是一个很好的表达，比如说“ah ripper！”
+		8. And I was like, woof, we've got a ripper here. /我心想，哇， 这真是一场可怕的大火啊。
+		9. And the good time's probably here and a ripper of a time and an ace time is like like maybe a little bit lower. /而 good time 差不多是这么好，而 a ripper of a time 比这要好，然后 an ace time 大概差一点点。
+	40. ripoff
+	41. ripcord
+		1. _n._ [cord](dic://cord)
+		2. **parachute**降落伞;**chute**斜槽;**pull**拉;**webbing**带子，边带;**rope**绳，绳索;**tether**系绳;**sheath**鞘;
+		3. n. 开伞索
+	42. rip-roarious
+5. reap
+	44. [harvest](dic://harvest), [glean](dic://glean)
+	45. [draw](dic://draw)
+	46. _v._ [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together), [derive](dic://derive), [gain](dic://gain)
+	47. **sow**播种;**benefits**利益，收益;**rewards**奖励;**outweigh**比…重;**benefit**利益，好处;**maximize**取…最大值;**sown**播种;**accrue**自然增加;**harvest**收获;**recoup**偿还;**prosper**繁盛;
+	48. _reap the benefits of_ 获得益处
+	49. reap profits at the expense of others /损人利已
+	50. reap bumper harvests in succession /连续获得丰收
+	51. the company is poised to reap the benefits of this investment. /该公司做好准备收获这一投资的收益。
+	52. The ground must have been ploughed, and sowed, and harrowed, and reaped /首先得犁地，再播种，还要耙地，最后才能收获。
+	53. But not everyone is reaping the benefits /但并非每个人都得以从中受益。
+6. rift (rip)
+	1. n. （人际关系）不和，分歧；裂缝，裂口；地堑，裂谷 
+	2. v. 开裂，断裂；使断裂，使开裂
+	3. [rupture](dic://rupture), [breach](dic://breach), [break](dic://break), [severance](dic://severance), [falling out](dic://falling out)
+	4. _n._ [opening](dic://opening), [gap](dic://gap), [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure)
+	5. **schism**分裂;**discord**不和;**animosity**憎恨, 仇恨, 敌意;**rupture**破裂;**enmity**敌意;**gap**缺口;**alliance**联盟，联合;**divide**分开;**strife**冲突;**feud**长期不和;**gulf**海湾
+	6. _rift valley_ 裂谷；地堑
+	7. _rift zone_ 裂谷带；断裂带
+	8. _great rift_ 大裂缝
+	9. a rift within the lute /不和[疯癫]的前兆
+	10. a growing rift between the two parties /两党裂痕加深
+	11. The sun appeared through a rift in the clouds /太阳从云层间隙中冒出来。
+	12. These rugged limestone hills in a rift valley. /这些崎岖不平的石灰岩山丘位于裂谷之中。
+	13. The fallout from last month's failed coup has deepened a rift between Ankara and its Western allies. /上个月军变发生以后，土耳其与西方同盟分歧加深。
+7. rigatoni
+8. rive
+	1. _vt._ 猛地劈开[撕开]
+	2. 劈开(木头或石头)
+	3. [rend](dic://rend), [rip](dic://rip), [pull](dic://pull)
+	4. [cleave](dic://cleave), [split](dic://split)
+	5. _v._ [tear](dic://tear), [rupture](dic://rupture), [snap](dic://snap), [bust](dic://bust)
+	6. **drive**开车;**gorge**峡，峡谷;**creek**小溪;
+	7. rive the heart with grief /忧心欲碎
+	8. The crowd scatters terrified. A man rives in agony on the ground. Another lies lifeless on the snow /人群惊恐四散。一名男子在地上痛苦挣扎着，另一个人一动不动地躺在雪地中。
+	9. Amid this pressure the hacker underground, riven by squabbles and splits over personality and policy, has turned on itself. /这些地下黑客组织不光面临着外界压力，在个性和政策上的争执分歧也让自己焦头烂额，引火烧身。
+	10. They'd be riven to bits, ere ever they'd be different'. /他们会被撕成碎片，在他们变得不同之前。
+	11. This plant now looks entirely at home on the banks of English rives. /这种植物现在看起来完全像在英国河流岸边的家。
+	12. He planted a rice paddy, an upland rive and some glutinous rice /他种植水稻、旱稻和糯米。
+9. reeve
+	1. n. 地方行政官，城镇长官；（村镇议会的）民选议长；雌性流苏鹬 
+	2. v. （绳索）穿过；把（绳、滑轮）缚紧
+	3. _n._ [ruff](dic://ruff), [Philomachus pugnax](dic://Philomachus pugnax)
+	4. _v._ [pass through](dic://pass through)
+	5. **constable**警察;**councillor**政务会委员;**warden**看守人;**mayor**市长;**miller**碾磨工;**treasurer**司库,财务主管;**abbot**男修道院院长;**lord**上帝;**sheriff**州长;**township**镇区;**trustee**受托人;
+10. rope
+
+
 ### + \*reie- + = to flow, run
 1. **riv-** = flow, 「Latin」rivus, "stream"
 	1. derive
-		1. misderive, derived, derivate
-		2. derivant
-		3. derivation, derivative, derivable
+		1. v. 获得，取得；起源于，来自；提取，衍生（化学物质）
+		2. [deduce](dic://deduce), [infer](dic://infer), [deduct](dic://deduct)
+		3. [gain](dic://gain)
+		4. [educe](dic://educe)
+		5. [come](dic://come), [descend](dic://descend)
+		6. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude), [obtain](dic://obtain), [evolve](dic://evolve), [make](dic://make), [create](dic://create)
+		7. **derivation**发展;**infer**推断;**deduce**推论，推断;**originate**发起;**glean**收集;**distinguish**辨别, 区别;**generate**使形成;**obtain**获得;**benefit**利益，好处;**quantify**量化;**ascribed**随意取得的;
+		8. _derive from_ 源出，来自，得自；衍生于
+		9. This is exactly how I derived my palette /我就是这样推导出我的色彩板。
+		10. Humans derive meaning and pleasure from making stuff /人类会从制造物品的过程中寻找意义和乐趣。
+		11. That relationship can be derived from the Pythagorean theorem. /这种关系源于毕达哥拉斯定理。
+		12. This part of the brain is where our instincts derive from. /大脑的这一部分是我们本能的来源。
+		13. These are pollutants or particles derived from human activity, or dust from other continents. /这些污染物或颗粒来自人类活动或其他大陆上的灰尘。
+		14. Most patients **derive** enjoyment from leafing through old picture albums /大部分病人能从翻阅旧相册中获得乐趣。
+		15. misderive
+		16. derived
+		17. derivate
+		18. derivant
+		19. derivation
+		20. derivative
+			1. n. 派生物，衍生物；派生词；（金融）衍生工具（产品）；导数，微商 
+			2. adj. 非独创的，模仿他人的；（金融产品）衍生的
+			3. _n._ [calculation](dic://calculation), [computation](dic://computation), [figuring](dic://figuring), [reckoning](dic://reckoning), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document)
+			4. _adj._ [derived](dic://derived)
+			5. _n._ [underived](dic://underived)
+			6. **derived**导出的;**quadratic**二次的;
+			7. _second derivative_ 二次导数
+			8. _financial derivative_ 金融衍生产品；金融衍生物
+			9. _partial derivative_ 偏导数；偏微商
+			10. _derivative financial instruments_ n. 衍生金融工具
+			11. _derivative action_ 微商作用
+			12. _directional derivative_ 方向导数
+			13. _derivative instrument_ 衍生工具；衍生产品；派生票据；派生证券
+			14. _cellulose derivative_ 纤维素衍生物
+			15. _time derivative_ 时间导数，时间微商
+			16. equity-based derivative products /基于股权的衍生产品。
+			17. Darwin's work is derivative of the moral philosophers. /达尔文的工作受到伦理学家的影响。
+			18. a highly derivative prose style /毫无创意的散文风格
+			19. That's a, that's repetitive, it looks lazy, it's derivative. /这样就重复了，看起来很懒，直抄题目。
+		21. derivable
 	2. rival
-		1. unrivalled, rivalship, rivalry
-		2. outrival, corrival
+		1. rival（对手）：在河两面争夺河水的人  
+		2. 英语单词rival和river（河流）同源，来自古拉丁文rivalis，本意是“河对面的人、共饮一江水的人”。在古代，围绕一江一河往往会展开激烈的争夺，由近邻演变为对手。所以当rivalis借道法语进入英语并演变为rival时，很快被赋予了“竞争对手、敌手”的含义。  
+		3. rival： ['raɪvl] n.竞争对手，敌手adj.竞争的v.竞争  
+		4. rivalry： ['raɪvlri] n. 竞争；对抗；竞赛  
+		5. rivalrous： ['raɪvlrəs] adj. 敌对性的；有竞争性的  
+		6. unrivalled：[ʌn'raɪv(ə)ld]  adj. 无与伦比的；无敌的  
+		7. river： ['rɪvɚ] n. 河，江
+		8. unrivalled
+		9. rivalship
+		10. rivalry
+		11. outrival
+		12. corrival
+			1. n. 竞争的对手
 	3. rivulet
 2. rennet
 3. Rhine
@@ -1249,9 +1471,18 @@
 	3. roborant
 		1. n. 强壮剂; adj. 起强壮作用的;
 	4. robust
-		1. [full-bodied](dic://full-bodied), [racy](dic://racy), [rich](dic://rich)
-		2. _adj._ [beefy](dic://beefy), [burly](dic://burly), [husky](dic://husky), [strapping](dic://strapping), [buirdly](dic://buirdly), [big-boned](dic://big-boned), [big-chested](dic://big-chested)
-		3. _n._ [frail](dic://frail), [tasteless](dic://tasteless), [weak](dic://weak), [refined](dic://refined)
+		1. robust（强壮的）：用作建材的红色硬木  
+		2. 古代罗马人发现一种颜色发红的橡木质地特别坚硬，因此广泛使用这种橡木作为建筑材料。这种橡木在拉丁语中称为rubus，来自ruber（red，红色）。rubus的形容词是robustus，本意是“rubus做的”。由于rubus特别坚硬，因此robustus也就衍生出“坚硬、强壮，像橡树一样”的意思。英语单词robust就来源于robustus。英语中表示“红色”的词根rub-同样来自拉丁语ruber（红色）。  
+		3. rub-：红色，红色的  
+		4. red： [rɛd] n. 红色，红颜料；赤字adj. 红色的  
+		5. robust： [rə(ʊ)'bʌst] adj.强健的，强壮的，粗野的，粗鲁的  
+		6. ruby：['rubi] n. 红宝石；红宝石色adj. 红宝石色的vt. 使带红宝石色  
+		7. rubicund：['ruːbɪk(ə)nd] adj. 红润的；透红的  
+		8. rubric： ['rubrɪk] n. 红字标题；红色印刷；题目adj. 印为红字的
+		9. robust - 当我们用robust一词来形容一个人的时候，若照原字面义讲，那是说他“像栎树（橡树）一样健壮”。robust源于拉丁语rōbustus 'oaken'（栎木般坚实的），词根为rōbur 'oak, strength'（栎；力量）。因此，robust一般释义为“强健的”、“健壮的”或“茁壮的”。另一英语单词corroborate（证实；巩固）也源出该拉丁词根。
+		10. [full-bodied](dic://full-bodied), [racy](dic://racy), [rich](dic://rich)
+		11. _adj._ [beefy](dic://beefy), [burly](dic://burly), [husky](dic://husky), [strapping](dic://strapping), [buirdly](dic://buirdly), [big-boned](dic://big-boned), [big-chested](dic://big-chested)
+		12. _n._ [frail](dic://frail), [tasteless](dic://tasteless), [weak](dic://weak), [refined](dic://refined)
 			1. [healthy](dic://healthy) 指身体无病，也可指身心健全、正常的。  
 			2. [sound](dic://sound) 侧重身体各部分或器官没有病，无任何缺陷，即健康。  
 			3. [robust](dic://robust) 强调身体强健。  
@@ -1262,10 +1493,10 @@
 			8. [tough](dic://tough) 着重指人的体格健壮。  
 			9. [wholesome](dic://wholesome) 多指能给人留下身体健康、思想健全或品德良好等印象。  
 			10. [fit](dic://fit) 既可指健壮又可指健全无病。
-		4. **strong**强壮的;**well-balanced**匀称的;**sturdy**强健的;**scalable**可攀登的;**durable**耐用的，持久的;**vigorous**有力的;**remarkably**引人注目地;**sophisticated**老练的;**impressively**令人难忘地;**consistent**始终如一的;**cost-effective**有成本效益的,划算的;
-		5. robustness
-		6. robustly
-		7. robustious
+		13. **strong**强壮的;**well-balanced**匀称的;**sturdy**强健的;**scalable**可攀登的;**durable**耐用的，持久的;**vigorous**有力的;**remarkably**引人注目地;**sophisticated**老练的;**impressively**令人难忘地;**consistent**始终如一的;**cost-effective**有成本效益的,划算的;
+		14. robustness
+		15. robustly
+		16. robustious
 3. **rub-** = red, 表示“红”。源自拉丁语 ruber "red;" rubere "to be red;" rubeus "red;" rubicundus "red, ruddy;" rubidus "red."
 	1. bilirubin
 	2. erubescent
@@ -1370,14 +1601,32 @@
 
 ## ru
 ### rud- = rude, 表示“原始，粗野”。
-1. erudite
-	1. **eloquent**雄辩的，有口才的;**witty**诙谐的;**astute**机敏的;**insightful**有深刻见解的;**perceptive**敏感的;**thoughtful**沉思的, 思考的;**intelligent**聪明的;**irreverent**不敬的;**opinionated**固执己见的,武断的;**scholarly**学术性的;**enlightening**有启迪的;
-	2. erudition
-	3. eruditely
-3. rude
-	1. ruder
-	2. rudeness
-	3. rudely
+1. erudite (pandit)
+	1. e-指“出，外”，rud-和单词rude（粗鲁无礼的）同源，博学的人所受文化熏陶较深厚，言行举止一般会脱离粗鲁无礼的层次。
+	2. a. 博学的  n. 博学者
+	3. **eloquent**雄辩的，有口才的;**witty**诙谐的;**astute**机敏的;**insightful**有深刻见解的;**perceptive**敏感的;**thoughtful**沉思的, 思考的;**intelligent**聪明的;**irreverent**不敬的;**opinionated**固执己见的,武断的;**scholarly**学术性的;**enlightening**有启迪的;
+	4. erudition
+	5. eruditely
+3. rude (crude)
+	1. 来自拉丁语 rudis,粗糙的，粗鲁的，词源不详。可能来自 PIE*kreue,生肉，带血的肉，词源同 raw,crude.
+	2. a. 粗鲁无礼的, 粗陋的, 粗暴的, 原始的, 未开化的, 大略的, 崎岖不平的, 狂暴的
+	3.  [ill-mannered](dic://ill-mannered), [bad-mannered](dic://bad-mannered), [unmannered](dic://unmannered), [unmannerly](dic://unmannerly)
+	4. [ill-bred](dic://ill-bred), [bounderish](dic://bounderish), [lowbred](dic://lowbred), [underbred](dic://underbred), [yokelish](dic://yokelish)
+	5. [uncivil](dic://uncivil)
+	6. [natural](dic://natural), [raw(a)](dic://raw(a))
+	7. [crude](dic://crude), [primitive](dic://primitive)
+	8. _adj._ [impolite](dic://impolite), [unrefined](dic://unrefined), [unprocessed](dic://unprocessed), [early](dic://early)
+	9. _n._ [polite](dic://polite), [refined](dic://refined), [processed](dic://processed), [late](dic://late),  
+	10. **disrespectful**失礼的,无礼的;**condescending**降低身份的,屈尊的;**polite**有礼貌的，客气的;**unfriendly**不友好的;**insulting**侮辱的;**unprofessional**非专业化的, 外行的;**obnoxious**可憎的;**arrogant**自大的，傲慢的;**pushy**有进取心的;**unhelpful**无用的;**crass**粗鲁的;
+	11. rude mechanicals /粗鲁的工人。
+	12. a rude coffin. /一口粗制的棺材。
+	13. rude crafts. /粗糙的手工活
+	14. It is rude to snatch. /攫夺是不礼貌的。
+	15. To be rude to the old is not proper /对老人粗鲁是不适当的。
+	16. 
+	17. ruder
+	18. rudeness
+	19. rudely
 4. ruderal
 	1. adj. （植物）生长在荒地上（或垃圾堆上）的 
 	2. n. 生长在荒地上（或垃圾堆上）的植物
@@ -1398,19 +1647,33 @@
 
 ### rumen-,rumin- 表示“反刍”。
 1. ruminate
-	1. [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [speculate](dic://speculate)
-	2. _v._ [eat](dic://eat), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
-	3. **ponder**仔细考虑;**contemplate**深思, 细想, 仔细考虑;**ramble**漫步;**meditate**考虑;**dwell**居住;**reminisce**追忆;**dissect**切细;**linger**逗留, 徘徊;**wander**徘徊;**speculate**思索;**musings**沉思;
-	4. ruminator
-	5. ruminative
+	1. rumin-=rumen反刍动物的第一胃 + -ate, 表动词。
+	2. v. 反刍, 沉思
+	3. [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [speculate](dic://speculate)
+	4. _v._ [eat](dic://eat), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
+	5. **ponder**仔细考虑;**contemplate**深思, 细想, 仔细考虑;**ramble**漫步;**meditate**考虑;**dwell**居住;**reminisce**追忆;**dissect**切细;**linger**逗留, 徘徊;**wander**徘徊;**speculate**思索;**musings**沉思;
+	6. ruminator
+	7. ruminative
 		1. _adj._ [thoughtful](dic://thoughtful)
 		2. _n._ [thoughtless](dic://thoughtless)
 		3. **introspective**好反省的;**contemplative**沉思的;**meditative**沉思的;**melancholy**忧郁, 悲哀;**brooding**沉思的;**meandering**蜿蜒的河流,漫步,聊天;**moody**喜怒无常的;**somber**昏暗的;**lyrical**抒情诗调的;**evocative**引起…记忆的, 唤起…感情的;**haunting**不易忘怀的，萦绕于心头的;
-	6. rumination
+	8. rumination
 		1. [contemplation](dic://contemplation), [reflection](dic://reflection), [reflexion](dic://reflexion), [musing](dic://musing), [thoughtfulness](dic://thoughtfulness)
 		2. _n._ [consideration](dic://consideration), [chew](dic://chew), [chewing](dic://chewing), [mastication](dic://mastication), [manduction](dic://manduction), [vomit](dic://vomit), [vomiting](dic://vomiting)
 		3. **contemplation**沉思;**introspective**好反省的;**introspection**内省;**melancholy**忧郁, 悲哀;**contemplative**沉思的;**musings**沉思;**preoccupation**全神贯注，入神;**meditative**沉思的;**meditation**默想, 默念;**brooding**沉思的;**existential**有关存在的;
+	9. ruminant
+		1. a. 反刍类的, 沉思的, 默想的  
+		2. n. 反刍动物
 2. rumen
-	1. rumenotomy
-	2. rumenitis
-3. ruminant
+	1. 源自拉丁语 rumen "the throat," 瘤胃是反刍动物的第一胃。贝爷在《荒野求生》第二季中剖开骆驼腹部取水时多次提到 rumen。
+	2. rumenotomy
+	3. rumenitis
+
+
+
+## ry
+### ⭐ -ry = 表名词，通常放在一个完整的单词后面。
+1. almonry
+2. ancientry
+3. archdeaconry
+4. etc..

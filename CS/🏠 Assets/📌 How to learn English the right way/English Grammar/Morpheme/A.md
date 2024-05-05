@@ -8,7 +8,7 @@
 	1. alli-蒜 + -aceous表形容词
 
 
-### ab, ac, ad, af, ag, al, an, ap, ar, as, at-
+### ⭐ ab, ac, ad, af, ag, al, an, ap, ar, as, at-
 
 > 来自拉丁介词ad，表示"朝、向、去，或弱化为强调〞。在宇母b, f, g, 1, n, p, r, s, t前同化为 ab-, af-, ag-, al-, an-, ap-, ar-, as-, at-；在c, k, qu前同化为ac-；在sc, sp,st 前缩写成a-
 

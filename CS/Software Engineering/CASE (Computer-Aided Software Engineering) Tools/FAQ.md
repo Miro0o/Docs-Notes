@@ -315,7 +315,7 @@ https://blog.csdn.net/Felicity294250051/article/details/53606158
 ## 👉 Using Git on iOS?
 #iOS #git #linux 
 
-I recently discovered fairly new iOS app called ↗ [iSH](../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/iSH.md). In short it's Alpine Linux. I was excited to see this and I couldn't help myself from tinkering with it. It comes with a package manager (apk). I was able to install bash (google it) and change how the prompt looks and etc. Not _everything_ that you would expect is in there and some things probably just don’t work (because apps have limited access to device hardware etc).
+I recently discovered fairly new iOS app called ↗ [iSH](../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/iSH.md). In short it's Alpine Linux. I was excited to see this and I couldn't help myself from tinkering with it. It comes with a package manager (apk). I was able to install bash (google it) and change how the prompt looks and etc. Not _everything_ that you would expect is in there and some things probably just don’t work (because apps have limited access to device hardware etc).
 ...
 
 [Using Git on iOS (the free way)]: https://dev.to/cookrdan/using-git-on-ios-1l1n
