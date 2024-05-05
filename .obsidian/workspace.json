@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51e5980f42a853e7",
+        "id": "8b27b6449ae99046",
         "type": "tabs",
         "children": [
           {
-            "id": "63eecc5769abb347",
+            "id": "8f4aebbd41fe99ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🥷🏼 Operating System (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,59 +21,19 @@
             }
           },
           {
-            "id": "d29ba16d5dd3b1c5",
+            "id": "fc3abe8aca83c5b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Native Hypervisor/VMware ESXi & VMware vSphere/VMware ESXi & VMware vSphere.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bf8291a2c0e198a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0062c947e3658fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS_Core/🧬 Computer System/Firmware and Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "136465c9f65b5c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md"
               }
             }
           },
@@ -223,48 +183,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "136465c9f65b5c06",
+  "active": "8f4aebbd41fe99ee",
   "lastOpenFiles": [
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific/Canada.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific/United States.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific/Singapore.md",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/Countries & Research Programs/Contries Specific/Thailand.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Scripts & Automation/IDAPython.md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating/Web Templating Apps & Frameworks/streamlit.md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating/Web Templating Engines & Languages/Web Templating Engines & Languages.md",
-    "CS/🔑 CS_Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating",
-    "CS/🗺 CS_Overview/This is X/🐭 This is 润/🐭 This is 润.md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Web Templating/Web Templating Apps & Frameworks",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/🤖 WebApps/WebAPPs.md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/Frontend Optimization.md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/JS Obfuscation.md",
-    "CS/Software Engineering/👾 Web Development/🖥️ Web FrontEnd Dev/⬆️ Frontend Optimization/AST.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/IDA Pro/IDA Pro Usage/IDA Scripts & Automation/IDA Scripts & Automation.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/IDA Pro/IDA Pro.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Software Analysis/Malicious Code Detection - A Survey.md",
-    "CS/CyberSecurity/Application Security/Virtualization Security/Android Security/Android Malware Analysis/Android Malware Analysis.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/androguard.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Software Analysis/Malicious Code Detection & Analysis.md",
-    "CS/CyberSecurity/Application Security/Virtualization Security/Android Security/Android Security.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/axplorer.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/Faraday.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack Components/OpenStack Storage Service/OpenStack File Storage (Manila)",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack Components/OpenStack Storage Service/OpenStack Block Storage (Cinder)",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack Components/OpenStack Storage Service/OpenStack Object Storage (Swift)",
+    "CS/🔑 CS Core/🍕 Database System/Professional, Legal, and Ethical Issues in Data Management.md",
+    "CS/🔑 CS Core/🍕 Database System/Database System Security & Administration.md",
+    "CS/🔑 CS Core/🍕 Database System/Database System.md",
+    "CS/🗺 CS Overview/CS Community Lingo.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "CS/🗺 CS Overview/🥂 Welcome to CS.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/CS International Universities & Countries' Lives.md",
+    "CS/🗺 CS Overview/CS of The Year/2024.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Admission Materials/Personal Statement (PS).md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/FAQ.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/Academics/Academics.md",
+    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/NJU/计算机系统基础/计算机系统基础.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🗺 CS Overview/Obsidian Test Features/Test Canvans.canvas",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation/Network Emulation.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))/TFAT (Transaction-Safe FAT File System) & TexFAT (Transaction-Safe Extended FAT File System).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)/JFS (Journaled File System).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT/FAT (File Allocation Table) & exFAT.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)/EROFS (Enhanced Read-Only File System).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Management (User Level)/File Organization & Access Methods/Sequential File/Indexed Sequential File (Index + Sequence)/Indexed Sequential File (Index + Sequence).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Carrier Sense Multiple Access (CSMA)/CSMA with Collision Detection (CSMA-CD)/CSMA with Collision Detection (CSMA-CD).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Carrier Sense Multiple Access (CSMA)/CSMA with Collision Avoidance (CSMA-CA)/CSMA with Collision Avoidance (CSMA-CA).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication)（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/PIM-DM/PIM-DM.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication)（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/MOSPF/MOSPF.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication)（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/DVMRP/DVMRP.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide & Internal Implementations/TCG Emulation",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide & Internal Implementations/QEMU Test & Build System",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide & Internal Implementations/Internal QEMU Subsystem Information",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide & Internal Implementations/Internal QEMU APIs",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Management (User Level)/File Organization & Access Methods/Sequential File/Indexed Sequential File (Index + Sequence)",
     "Assets/Pics/Pasted image 20240428004026.png",
     "Assets/Pics/Screenshot 2024-04-27 at 3.59.06 PM.png",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🌵 Cloud Native Overview/🗿 Cloud Models/Cloud Service (Delivery) Models/Private Cloud as a Service",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack Deployment Tools",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack Client Tools",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack Components",
     "Assets/Pics/Pasted image 20240427154740.png",
     "Assets/Pics/Screenshot 2024-04-27 at 3.46.31 PM.png",
-    "CS/Software Engineering/☁️ Cloud Native/Cloud Platform (System Level Engineering)/Cloud Operating System",
     "Assets/Pics/Pasted image 20240427104642.png",
     "Assets/Pics/Pasted image 20240427104355.png",
     "Assets/Pics/Pasted image 20240427103356.png",
@@ -274,7 +235,6 @@
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",
-    "CS/🗺 CS_Overview/Test Features/Test Canvans.canvas",
     "CS/CyberSecurity/☠️ Kill Chain/Reverse Tools & Disassemblers/Untitled/Untitled.canvas",
     "CS/🔑 CS_Core/👩‍💻 Languages Programming/ASM/Untitled/Untitled.canvas"
   ]

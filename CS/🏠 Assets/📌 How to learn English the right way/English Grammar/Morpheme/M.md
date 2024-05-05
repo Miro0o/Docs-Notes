@@ -3307,15 +3307,38 @@
 			5. _[commissariat de police](dic://commissariat%20de%20police)_ 警察局
 		8. commissarial
 	6. transmittal
-8. ==demise, premise, promise, remise, surmise==
+8. promise
+	1. promissory, promisor
+9. compromise
+10. premise
+	1. [premiss](dic://premiss), [assumption](dic://assumption)
+	2. [precede](dic://precede), [preface](dic://preface), [introduce](dic://introduce)
+	3. [premiss](dic://premiss)
+	4. _n._ [postulate](dic://postulate), [posit](dic://posit)
+	5. _v._ [set forth](dic://set forth), [expound](dic://expound), [exposit](dic://exposit), [state](dic://state), [say](dic://say), [tell](dic://tell), [presuppose](dic://presuppose)
+	6. **notion**概念;**concept**观念，概念;**assumption**假定, 臆断;**idea**主意;**argument**争吵;**storyline**故事情节;**preposterous**反常的,荒谬的;**proposition**论点;**plot**阴谋;**conclusion**结尾;**story**故事;
+	7. _on the premise_ 在…前提下
+	8. _major premise_ n. [逻]（三段论法的）大前提
+	9. _off the premises_ (尤指酒店)店外，屋外，建筑物外
+	10. the fundamental premise of the report. /报告的基本主张。
+	11. if the premise is true, then the conclusion must be true. /如果前提正确，那么结论必定正确。
+	12. a surprise inspection of the premises by the health inspector /卫生检查员对这些场所的突击检查
+	13. some of his premises seem ill-chosen. /看来他的一些前提选择不当。
+	14. the premises were safe at the time of the letting. /出租时，房产是安全的。
+	15. the reforms were premised on our findings. /改革以我们的调查结果为前提。
+	16. Let me premise my argument with a bit of history. /让我引述一些史实作为我立论的前提。
+	17. began with a good premise but developed it without imagination. /由一个好的前提开始，却由于毫无想象力而将其变得越来越复杂
+	18. We have a warrant to search the premises /我们有搜索这栋宅邸的授权令。
+	19. Are the inferences valid? Does the conclusion follow the premises? /推断有效吗？结论与前提一致吗？
+	20. premises
+12. demise, 
 	1. demisable
-	2. premises
-	3. promissory, promisor
-	4. compromise
-9. mess, messcook, messboy, mess-up, messy
-10. message
+13. remise
+14. surmise
+15. mess, messcook, messboy, mess-up, messy
+16. message
 	1. messenger, messman, messmate, messtin, 
-11. missile
+17. missile
 	1. missilery, missileman,
 	2. contra-missile
 

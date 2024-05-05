@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Programming Methodology and Languages](../../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-- ↗ [PHP](../../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/PHP/PHP.md)
-- ↗ [sed](../../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
-- ↗ [awk](../../../../../../🔑%20CS_Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
+↗ [Programming Methodology and Languages](../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+- ↗ [PHP](../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/PHP/PHP.md)
+- ↗ [sed](../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/sed.md)
+- ↗ [awk](../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/awk.md)
 
 
 

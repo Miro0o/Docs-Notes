@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Academics Productivity](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Academics%20Productivity.md)
+↗ [Academics Productivity](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Academics%20Productivity.md)
 
 
 ### How-to
@@ -75,7 +75,7 @@ Academic ranks in the United States
 ## Open Access
 > 🔗 https://sustech.libguides.com/c.php?g=936835&p=6776041
 
-↗ [Paper Search & Visualization](../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Paper%20Search%20&%20Visualization.md)
+↗ [Paper Search & Visualization](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Paper%20Search%20&%20Visualization.md)
 
 
 
@@ -92,6 +92,17 @@ Academic ranks in the United States
 ### 科研评价与分析平台
 
 ### 论文收录引用检索证明
+
+
+### \* Bibliometrics Related Indexes 🙈
+#### World University Ranking
+- https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
+- https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
+- https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
+- https://www.usnews.com/best-colleges/rankings/national-universities | U.S. News, 
+#### Journal/Conference Evaluation
+
+#### Research Entity /Fields Research
 
 
 

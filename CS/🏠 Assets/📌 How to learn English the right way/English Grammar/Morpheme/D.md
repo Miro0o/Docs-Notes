@@ -2406,7 +2406,7 @@
 4. chameleon
 
 
-### ⭐ + \*dhigw- +
+### + \*dhigw- +
 1. **fix-** =  fix, 表示“固定”。源自拉丁语 figere "to fasten, fix."
 	1. affix
 		1. **attach**系，绑;**fasten**扎牢;**attached**附加的;**enclose**围绕;**designate**指派, 委任;**adhesive**粘合剂;**stickers**尖刀，贴纸;**assign**分配;**suffix**添后缀;**sticker**尖刀;**denote**表示，指示;
@@ -2434,16 +2434,33 @@
 			2. fixedness
 			3. fixedly
 			4. fixed-length
-		4. fixer, fixing, fixity, fixture
-		5. infix, postfix, prefix, suffix, transfix
+		4. fixer
+			1. [influence peddler](dic://influence peddler)
+			2.  [fixing agent](dic://fixing agent)
+			3. [mender](dic://mender), [repairer](dic://repairer)
+			4. [methadone](dic://methadone), [methadone hydrochloride](dic://methadone hydrochloride), [methadon](dic://methadon), [dolophine hydrochloride](dic://dolophine hydrochloride), [synthetic heroin](dic://synthetic heroin)
+			5. _n._ [important person](dic://important person), [influential person](dic://influential person), [personage](dic://personage), [compound](dic://compound), [chemical compound](dic://chemical compound), [skilled worker](dic://skilled worker), [trained worker](dic://trained worker)
+			6. **handyman**手巧的人;**realtor**房地产经纪人;
+			7. We need to find that fixer and hunt down the real killer. /我们必须找出那名掮客 扳倒真凶。
+			8. There's no way Chad's paying a fixer to have himself found guilty. /查德不可能花钱雇掮客给自己定罪。
+			9. We can't nail Reston without catching his fixer. /抓不到掮客 就无法将雷斯顿定罪。
+			10. But I think the fixer knows I'm here. /不过我想那掮客知道我在这里。
+			11. He is the president's longtime fixer, whose acts included paying hush money to the porn star Stormy Daniels /他很长时间以来一直担任总统的代理疏通者，曾向艳星斯托米·丹尼尔斯支付封口费。
+			12. But I have a lead on the fixer's location. /但我有线索找那名掮客了。
+			13. Donald Trump's former fixer, Michael Cohen, has testified before a grand jury in New York. /唐纳德·特朗普的前经纪人迈克尔·科恩在纽约的一个大陪审团前作证。
+			14. He's also pardoned long-time fixer Roger Stone who is convicted of lying under oath to congress. /特朗普还赦免了长期担任调停者的罗杰·斯通，斯通因向国会宣誓时撒谎而被定罪。
+		5. fixing
+		6. fixity
+		7. fixture
+		8. infix, postfix, prefix, suffix, transfix
 			1. prefixion, prefixing, prefixation, prefixal
 			2. suffixation, suffixal
 			3. transfixion, transfixation
-		6. fixable, unfix
+		9. fixable, unfix
 			1. unfixed
-		7. well-fixed
-		8. dorsifixed
-		9. demi-fixed
+		10. well-fixed
+		11. dorsifixed
+		12. demi-fixed
 	3. crucifix
 		1.  [rood](dic://rood), [rood-tree](dic://rood-tree)
 		2. _n._ [Cross](dic://Cross), [gymnastic exercise](dic://gymnastic exercise)
@@ -2834,6 +2851,51 @@
 
 
 
+## dl
+### ⭐ \*dlegh-
+1. **dulg-, dult-** = 表示“不变的、固定的”。源自拉丁语。
+	1. indulge
+		1. vt. 纵情于, 使高兴, 放任, 迁就  vi. 沉溺
+		3. v. 沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）
+		4. 回构自indulgence , 爱好，纵容（in-进入，使 + dulg-长的，长时间的）。
+		5. [gratify](dic://gratify), [pander](dic://pander) 
+		6. [luxuriate](dic://luxuriate)
+		7. [pamper](dic://pamper), [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil)
+		8. _v._ [provide](dic://provide), [supply](dic://supply), [ply](dic://ply), [cater](dic://cater), [consume](dic://consume), [eat up](dic://eat up), [use up](dic://use up)
+		9. **indulgence**放纵;**indulgent**放纵的;**partake**参与;**revel**狂欢;**pamper**纵容;**enjoy**喜爱;**splurge**卖弄;**savor**使有风味;**crave**渴望;**dine**进餐，用餐;**decadent**颓废的;
+		10. _indulge in_ vt. 沉湎于，沉溺于
+		11. indulgent
+			1. self-indulgent
+		12. indulgency
+		13. indulgence
+			1. self-indulgence
+				1. _n._ [indiscipline](dic://indiscipline), [undiscipline](dic://undiscipline), [indulgence](dic://indulgence), [indulging](dic://indulging), [pampering](dic://pampering), [humoring](dic://humoring)
+				2. **indulgence**放纵;**selfishness**自私;**narcissism**自恋，自我陶醉;**laziness**怠惰;**indulgent**放纵的;**consumerism**商品的消费和销售性服务;**cynicism**犬儒主义;**indulge**迁就;**greed**贪婪，贪心;**hubris**傲慢;**excesses**越轨;
+				3. " Speak, vermin! " she said again. " Or do you want my dwarf to find you a tongue with his whip? What is the meaning of all this gluttony, this waste, this self indulgence? Where did you get all these things?" “说呀，坏蛋。”她又说，“难道你们想要我的小矮人用鞭子叫你们开口吗？你们大吃大喝，铺张浪费，纵情欢乐，是什么意思？这一切东西你们究竟从哪儿弄来的？”
+				4. The boy is half insane with hysteria and **self-indulgence** /这个男孩歇斯底里、任性放纵，成了半个疯子了。
+			2. overindulgence
+				1. _n._ [indulgence](dic://indulgence), [indulging](dic://indulging), [pampering](dic://pampering), [humoring](dic://humoring)
+				2. **indulgence**放纵;**excesses**越轨;**hangover**宿醉;**booze**酒;**laziness**怠惰;**unhealthy**不健康的;**indulgent**放纵的;**excessive**过度的, 过分的;**binge**狂欢作乐;**dieting**节食;**consumerism**商品的消费和销售性服务;
+				3. Hence, it is necessary for us to use Internet in a reasonable way and restrain from overindulgence /因此，我们很有必要以一种合理的方式使用互联网，避免过度沉迷。
+				4. So material overindulgence is having too much of what looks good for too long or too often /因此，物质上的过度放纵是指长时间或频繁地拥有太多看起来不错的东西。
+				5. But how does the hormone induce overindulgence? /但是这种激素是如何引起过度饮食的呢？
+			3. overindulge
+	2. indult
+2. **plev-** = pledge, 表示“许诺”。源自拉丁语 plevium "pledge, guarantee."
+	1. replevin
+		1. n. 追回原物之诉
+	2. replevy
+		1. re-再 + plev-许诺 + -y
+		2. vt. 具保收回
+		3. vt. （凭诉讼）索回扣押物；归还非法带走的财物 
+		4. n. 追回原物诉讼；对非法带走财物的归还（同 replevin）
+		5. The products replevy contingency plans according to risk of product and executed by procedure of emergency regulation. /产品追回应急计划，应根据产品的风险程度确定，按《紧急应变程序》中的有关规定执行。
+3. play
+4. pledge
+5. plight
+
+
+
 ## dn
 ### \*dnghu-
 1. **lingu-** = language, 表示“语言”，原意为“舌头”。源自拉丁语 lingua "tongue."
@@ -2972,6 +3034,7 @@
 		3. disendowment
 		4. disendow
 	17. Pandora
+		1. 腊神话中的第一个女凡人，因 Prometheus 把火把从天上带到人间，宙斯为惩罚他，合众神之力，创造出一个无比美丽但没有智慧的女子 Pandora,派她到人间成为 Prometheus 的弟弟Epimetheus 的妻子，并送她一个盒子作为礼物，即充满各种灾难的潘多拉魔盒，并再三警告她不要将这个盒子打开。但很不幸，在好奇心的驱使下，魔鬼被打开了，各种灾难降临人间，仅希望留在盒子里。Pandora 字面意思为众神的礼物，来自 pan-,全，泛，-dora,给，礼物，嫁妆，词源同 data,dowry.Prometheus 字面意思为先知，智者，Epimetheus 字面意思为后知，笨蛋。
 	18. paradoner
 	19. apodosis
 	20. data

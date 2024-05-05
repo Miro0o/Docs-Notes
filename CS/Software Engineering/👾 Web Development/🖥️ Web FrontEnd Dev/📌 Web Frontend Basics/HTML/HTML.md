@@ -34,7 +34,7 @@ On December 31, 2020, Adobe ended support of Flash.
 
 ## Video Streaming
 ↗ [Video & Streaming Service](../../../Video%20&%20Streaming%20Service/Video%20&%20Streaming%20Service.md)
-↗ [Video Streaming & OTT](../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/Video%20Streaming%20&%20OTT/Video%20Streaming%20&%20OTT.md)
+↗ [Video Streaming & OTT](../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Video%20Streaming%20&%20OTT/Video%20Streaming%20&%20OTT.md)
 
 ↗ [Adobe Flash Player](../../../Video%20&%20Streaming%20Service/Streaming%20Applications%20&%20Implementations/Adobe%20Flash%20Player.md)
 

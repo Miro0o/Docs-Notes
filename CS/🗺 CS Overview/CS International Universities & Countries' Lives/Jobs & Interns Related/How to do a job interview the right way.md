@@ -1,0 +1,85 @@
+# How to do a job interview the right way
+
+[TOC]
+
+
+
+## Res
+### Dev Interview
+↗ [Algorithm & Data Structure](../../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+
+[帅地玩编程](https://www.iamshuaidi.com)
+> 1. [C++面试题阅读指南（必看）](https://www.iamshuaidi.com/2309.html)
+> 2. [Java面试题面试题阅读指南（必看）](https://www.iamshuaidi.com/?p=763)
+> 3. [操作系统面试题阅读指南（必看）](https://www.iamshuaidi.com/?p=1346)
+> 4. [计算机网络面试题阅读指南（必看）](https://www.iamshuaidi.com/?p=673)
+> 5. [MySQL面试题阅读指南（必看）](https://www.iamshuaidi.com/?p=1402)
+> 6. [Redis面试题阅读指南（必看）](https://www.iamshuaidi.com/1864.html)
+> 7. [消息队列和Zookeeper面试题阅读指南（必看）](https://www.iamshuaidi.com/?p=1633)
+
+[公众号迹寒编程，华为鸿蒙工程师，华中科技大学计算机硕士](https://www.zhihu.com/people/durantbon/posts)
+
+[0voice 整理it资料的百科全库](https://github.com/0voice)
+
+👍 https://www.topgoer.cn/docs/gomianshiti/mianshiti
+Go 语言面试题 ｜ 此专栏面试题转自公众号“Golang来啦”,下方有关注二维码。
+
+
+### Security Interview
+史上最全网络安全面试题总结 - 黑客前沿的文章 - 知乎
+https://zhuanlan.zhihu.com/p/350519082
+
+
+### 🏙️ Company
+#### Tencent
+[一亩三分地 - 腾讯](https://www.1point3acres.com/bbs/tag/腾讯-53-1.html)
+#### Alibaba
+[一亩三分地 - 阿里](https://www.1point3acres.com/bbs/tag/腾讯-53-1.html)
+
+[面了50次阿里，把50篇面试经历都搞下来了，长记性了](https://blog.csdn.net/m0_37907797/article/details/120222985)
+
+[「面经分享」-一年工作经验阿里三面](https://developer.aliyun.com/article/979297)
+
+
+### 🏍️ Position
+#### Cloud Native /Golang
+[云原生白皮书 & K8s、Docker面试题](https://chegva.com/4746.html)
+
+[「架构师面试-云原生-1」-云原生面试之Docker面试题大全30题](https://blog.csdn.net/chongfa2008/article/details/121974496)
+
+[【阿里巴巴】Go岗-春招实习阶段性总结（已OC）](https://www.iamshuaidi.com/3893.html)
+
+OS /networking /database /languages /algorithm /Linux
+
+Project /
+#### Java
+
+
+
+## Intro
+
+
+
+## 📝 My Interview Log
+### 字节
+1. 数据库实现？ES? 文档存储在mysql的方式？检索的方式？
+2. web安全漏洞？防范措施？
+	1. sql 注入？
+	2. xss？
+3. cookie 和 session？
+4. openstack 和 k8s?
+5. docker 和 k8s？
+6. 算法题
+
+
+### 绿盟
+啥也没问，直接入职。
+
+
+### 美团
+
+
+
+## Ref
+[硅谷程序员基本素养-拥有随时跳槽的能力 | 一亩三分地]: https://www.1point3acres.com/bbs/thread-1014734-1-1.html
+

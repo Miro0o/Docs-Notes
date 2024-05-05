@@ -9,11 +9,11 @@
 ↗ [Access Control (访问控制)](../../../Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
 ↗ [WAF (Web Application Firewall) (Web IPS)](../IPS%20(Intrusion%20Prevention%20Systems)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS).md)
-↗ [Free Software /Firewall & Network Filters](../../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Firewall%20&%20Network%20Filters.md)
+↗ [Free Software /Firewall & Network Filters](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Firewall%20&%20Network%20Filters.md)
 - netfilters
 - iptables
 - etc.
-↗ [Packet Analyzing & Sniffing & Spoofing](../../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
+↗ [Packet Analyzing & Sniffing & Spoofing](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
 
 ↗ [Internet Censorship & GFW (Great FireWall)](../../../../../Network%20Security/Anonymous%20&%20Private%20Networks/Internet%20Censorship%20&%20GFW%20(Great%20FireWall).md)
 ↗ [OpenWRT](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/OpenWRT/OpenWRT.md)
@@ -63,7 +63,7 @@
 4. 限制网络暴露
 
 ![img](../../../../../../../Assets/Pics/021217_0051_6.png)
-↗ [iptables](../../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
+↗ [iptables](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
 
 防火墙的检测与过滤技术
 - 应用代理（**Application Proxy**）：工作在应用层，通过编写不同的应用代理程序，实现对应用层数据的检测和分析。
@@ -212,7 +212,7 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 
 
 ## Firewall Performance Metrics
-> ↗ [Computer Network Performance Metrics](../../../../../../🔑%20CS_Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Performance%20Metrics.md) 
+> ↗ [Computer Network Performance Metrics](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Performance%20Metrics.md) 
 
 
 ### 1️⃣ Throughput
@@ -304,7 +304,7 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 > 🤔 防火墙硬件架构的发展趋势: 
 > 最佳组合：在系统控制与管理、数据高速处理转发等方面，通用CPU和可编程ASIC将各司其职，共同为防火墙系统提供灵活的服务！
 ##### 基于X86体系的通用CPU架构
-↗ [CPU (Central Processing Unit)](../../../../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [CPU (Central Processing Unit)](../../../../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 通用 CPU 架构又被称为 x86 架构，采用通用 CPU 和 PCI 总线接口，可编程性高，更灵活、更易扩展。产品功能主要由软件实现，代表产品包含了大部分的开源/商业软件防火墙（基于*nix 系统）。
 
 X86架构防火墙中，其CPU具有高灵活性、高扩展性的特性；
@@ -320,7 +320,7 @@ ASIC 架构（Application Specific Integrated Circuit），专用集成电路，
 - 传统的ASIC芯片技术的最大不足就是缺乏灵活性，开发难度大。一旦指令或计算逻辑固化到硬件中，就很难修改升级、增加新的功能。而且，ASIC设计和制造周期长，研发费用高。
 - 现代的ASIC芯片技术增加了可编程性，从而能够同时满足灵活性和高性能的要求。从实现功能方面看，ASIC防火墙可以很容易地集成VPN、内容过滤和防病毒等功能。
 ##### 基于网络处理器的NPU架构
-↗ [NPU (Network Processing Unit)](../../../../../../🔑%20CS_Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+↗ [NPU (Network Processing Unit)](../../../../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
 
 NP 架构（Network Processor），网络处理器，通用 CPU 架构和 ASIC 架构的折衷，开发难度较低，性能较好，具有灵活性/可扩展性。代表产品是大部分国内的商业硬件防火墙。
 

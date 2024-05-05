@@ -581,9 +581,13 @@
 ### ⭐ + \*-yo- +
 1. **-ary** = 表形容词，“…的”。
 	1. accessary
+	2. etc..
 2. **-eer** = 表名词，“…人员”。
 	1. auctioneer
+	2. etc..
 3. **-er** = 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。
 	1. abandoner
+	2. etc..
 4. **ory-, -atory** = 表形容词，“…的”。源自拉丁语 -atorius, adjective suffix for agent nouns in -ator.
 	1. acclamatory
+	2. etc.

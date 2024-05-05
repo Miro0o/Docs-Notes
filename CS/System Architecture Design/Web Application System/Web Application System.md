@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [DS Web Services' Architectures](../../🔑%20CS_Core/🍕%20Database%20System/🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
+↗ [DS Web Services' Architectures](../../🔑%20CS%20Core/🍕%20Database%20System/🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
 
 ↗ [Web Development](../../Software%20Engineering/👾%20Web%20Development/Web%20Development.md)
 ↗ [Web BackEnd Dev](../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)

@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [PGlite](../../../../🔑%20CS_Core/🍕%20Database%20System/👔%20DBMS/☕️%20Object-Relational%20Database/PostgreSQL/PGlite.md)
+↗ [PGlite](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS/☕️%20Object-Relational%20Database/PostgreSQL/PGlite.md)
 
 
 

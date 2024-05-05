@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Projects
-↗ [Nettools/ 👉 netstat](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools.md#👉%20netstat)
-↗ [Process Management Basics/ 👉 `lsof`](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/🪆%20Process%20Management/Process%20Management%20Basics.md#👉%20`lsof`)
+↗ [Nettools/ 👉 netstat](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Nettools.md#👉%20netstat)
+↗ [Process Management Basics/ 👉 `lsof`](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/🪆%20Process%20Management/Process%20Management%20Basics.md#👉%20`lsof`)
 
 ↗ [nmap /Port Scanning](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Nmap%20Proj/⭐️%20Nmap%20Mechanisms%20&%20Network%20Scanning%20Principles/Port%20Scanning/Port%20Scanning.md)
 
@@ -44,7 +44,7 @@ Using nmap for port discovery is very noisy—it will be detected and logged by 
 
 
 ## 👉 `netcat` (NC) | `ncat`
-↗ [The GNU Netcat (NC)](../../../../../🔑%20CS_Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20GNU%20Netcat%20(NC).md)
+↗ [The GNU Netcat (NC)](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20GNU%20Netcat%20(NC).md)
 ↗ [Ncat (Netcat for the 21th century)](../../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Nmap%20Proj/Nmap%20Project%20Products/Ncat%20(Netcat%20for%20the%2021th%20century).md)
 
 > While attackers utilize the proxying application and Tor network, it is also possible to write their own custom network port scanner. The following one-line command can be utilized during penetration testing to identify the list of open ports just by using netcat: `while read r; do nc -v -z $r 1-65535; done < iplist`

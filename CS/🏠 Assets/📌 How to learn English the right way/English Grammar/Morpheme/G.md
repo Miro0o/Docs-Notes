@@ -1472,7 +1472,7 @@
 			4. **sparkly**闪耀的;**glitter**闪烁;**shimmery**闪烁的;**sequins**亮片;**glittering**闪闪发亮的;**shimmer**微光;**sparkle**发火花, 闪耀;**rhinestone**莱茵石，水钻;**shiny**有光泽的，擦亮的;**metallic**金属的，含金属的;**pink**粉红色;
 		13. glittering
 		14. aglitter
-	18. glitch
+	18. glitch (hitch, error)
 		1. _n._ [defect](dic://defect), [fault](dic://fault), [flaw](dic://flaw)
 		2. [bug](dic://bug)
 		4. **malfunction**故障;**flaw**瑕疵，缺点;**bug**臭虫，小虫;**fix**安装;**hiccups**打嗝，呃逆;**error**错误;**workaround**工作区;**problem**难题;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**mishap**灾祸;**lag**落后，滞后，缓慢移动 n. 相隔的时间;
@@ -1499,18 +1499,35 @@
 		1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
 		2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
 		3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
-		4. [gloating](dic://gloating), [glee](dic://glee)
-		5. [triumph](dic://triumph), [crow](dic://crow)
-	1. gloom
+		4. [gloating](dic://gloating), [glee](dic://glee)
+		5. [triumph](dic://triumph), [crow](dic://crow)
+	22. gloom
 		1. gloomy
 			1. [grim](dic://grim), [darkening](dic://darkening)
 			2. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
 			3. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
 			4. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
-	2. glum, glumly, glumpy
+	23. glum, glumly, glumpy
 		1. **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
-9. gold
-10. guilder
+1. gall
+	1. 来自 PIE*ghel,发光，照耀，词源同 yellow,gold,chlorine.因胆呈黄绿色而得名。引申词义恼怒。
+	2.  [saddle sore](dic://saddle sore)
+	3.  [resentment](dic://resentment), [bitterness](dic://bitterness), [rancor](dic://rancor), [rancour](dic://rancour)
+	4. [bile](dic://bile)
+	5.  [crust](dic://crust), [impertinence](dic://impertinence), [impudence](dic://impudence), [insolence](dic://insolence), [cheekiness](dic://cheekiness), [freshness](dic://freshness)
+	6. [chafe](dic://chafe), [fret](dic://fret)
+	7. [irk](dic://irk)
+	8. _n._ [animal disease](dic://animal disease), [sore](dic://sore), [plant tissue](dic://plant tissue), [hostility](dic://hostility), [enmity](dic://enmity), [ill will](dic://ill will), [digestive juice](dic://digestive juice)
+	9. _v._ [irritate](dic://irritate), [anger](dic://anger)
+	10. **bladder**膀胱;**audacity**厚颜无耻;**gallbladder**胆囊;**bile**胆汁;**guts**飞碟游戏;**cyst**胞,包囊,膀胱;
+	11. _gall bladder_ n. 胆囊；[解]苦胆
+	12. _crown gall_ [植病]冠瘿病
+	13. in the gall of bitterness /吃苦受难
+	14. They haven't the gall to steal. /他们没有胆量去偷。
+	15. a galling delay; a galling setback to their plans. /令人懊恼的延迟；计划的令人烦恼的挫折
+	16. It galls to think that he is earning so much money. /一想到他挣那么多钱就有气。
+2. gold
+3. guilder
 	1. _n._ [Surinamese monetary unit](dic://Surinamese monetary unit), [Dutch monetary unit](dic://Dutch monetary unit)
 	2. **euro**欧元;**pence**便士;**currency**货币;**dollar**美元;**rupee**卢比;**Euros**带雨东南暴风;**coinage**造币;**Antilles**安的列斯群岛;**coin**硬币;
 	3. guild
@@ -1519,11 +1536,11 @@
 		3. guild [gɪld] n.协会；同业公会。中世纪欧洲许多小镇上，从业者为保护自身利益和垄断原材料和销售市场联合起来成立的公会很是普遍。那guild怎么得名的呢？是因为入会者需要缴纳会费。会费是什么呢？是金币。那问题来了，什么样的金币呢？guilder ['gɪldə] n.荷兰盾；金币，和gold一定有关系的对吧？
 		4. **mage**博学者;**faction**派别;**raid**袭击;**clan**宗族;**raiders**突击者;**quests**过关模式;**dungeon**地牢，土牢;**healers**医治者;**healer**医治者;**loot**掠夺品;**dungeons**地下城;
 		5. [club](dic://club), [social club](dic://social club), [society](dic://society), [gild](dic://gild), [lodge](dic://lodge), [order](dic://order)
-	5. guildsman
+	4. guildsman
 		1. - 基尔特公会会员
-	6. guildhall
-	7. guild-master
-12. guilt
+	5. guildhall
+	6. guild-master
+4. guilt
 	1. 词源不详。可能来自 guild,付款，支付。引申词义支付罚金，赎罪。
 	2. [guiltiness](dic://guiltiness)
 	3.  [guilty conscience](dic://guilty conscience), [guilt feelings](dic://guilt feelings), [guilt trip](dic://guilt trip)
@@ -1562,7 +1579,7 @@
 		14. bloodguilty
 	17. guiltless
 	18. bloodguilt
-14. jaundice
+5. jaundice
 	1. n. 黄疸, 偏见, 乖僻  vt. 使患黄疸, 使怀偏见
 	2. 来自古法语 jaunice,来自拉丁语 galbinus,来自 PIE*ghel,黄色，黄绿色，词源同 yellow,gold,gall.字母 l 软化成字母 u,插入字母 d.引申词义黄疸。
 	3. [icterus](dic://icterus)
@@ -1570,8 +1587,8 @@
 	5. _n._ [symptom](dic://symptom), [disagreeableness](dic://disagreeableness)
 	6. _v._ [deform](dic://deform), [distort](dic://distort), [strain](dic://strain), [affect](dic://affect)
 	7. **anemia**贫血;**cirrhosis**硬化;**constipation**便秘;**fever**发烧，发热;**diarrhea**腹泻，痢疾;**liver**肝脏;**rashes**发疹，疹;**pneumonia**肺炎;**gallbladder**胆囊;**vomiting**呕吐;**bronchitis**支气管炎;
-16. yellow
-17. zloty
+6. yellow
+7. zloty
 	1. **euro**欧元;**yen**日元;**rupee**卢比;**EUR**欧洲，欧洲人;**Euros**带雨东南暴风;**currency**货币;**Poland**波兰;**Warsaw**华沙;**Krakow**克拉科夫;**PLN**波兰货币兹罗提在ISO 4217体系中的代码;**Lithuanian**立陶宛人;
 
 
@@ -3196,32 +3213,64 @@
 1. grind
 	1. v. 磨碎; 磨快, 磨光; 磨擦（发出刺耳声）; 嘎嘎作响地缓慢移动  
 	2. n. 令人疲劳（或厌倦）的工作, 苦差事; 刺耳的摩擦声; 刻苦用功的人
-	3. 1 - 来自 PIE*ghrendh,磨，来自*ghreu 的鼻音形式，词源同 grit,grist.
-	4. organ-grinder
+	3. 来自 PIE*ghrendh,磨，来自*ghreu 的鼻音形式，词源同 grit,grist.
+	4. [swot](dic://swot), [nerd](dic://nerd), [wonk](dic://wonk), [dweeb](dic://dweeb)
+	5. [mill](dic://mill), [pulverization](dic://pulverization), [pulverisation](dic://pulverisation)
+	6. [crunch](dic://crunch), [cranch](dic://cranch), [craunch](dic://craunch)
+	7. [grate](dic://grate)
+	8. [mash](dic://mash), [crunch](dic://crunch), [bray](dic://bray), [comminute](dic://comminute)
+	9. [labor](dic://labor), [labour](dic://labour), [toil](dic://toil), [fag](dic://fag), [travail](dic://travail), [drudge](dic://drudge), [dig](dic://dig), [moil](dic://moil)
+	10. _n._ [learner](dic://learner), [scholar](dic://scholar), [assimilator](dic://assimilator), [labor](dic://labor), [labour](dic://labour), [toil](dic://toil), [crush](dic://crush)
+	11. _v._ [press](dic://press), [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise), [work](dic://work), [do work](dic://do work)
+	12. **grinder**研磨者;**axe**斧;**sharpen**变锋利;**grit**砂砾;**ax**削减;**slog**猛击;**halt**停止;**chop**砍;**axes**轴线;**mill**磨坊;
+	13. _daily grind_ 日常工作
+	14. _grind down_ 折磨；磨损
+	15. _an axe to grind_ 另有所图；有不同意见；别有用心
+	16. _grind out_ 用功做出；机械地做出；生拼硬凑地写出
+	17. _grind up_ 磨碎
+	18. grind a lens. /打磨镜片
+	19. grind the teeth /咬牙切齿
+	20. grind wheat into flour. /把小麦磨成面粉
+	21. the crunch and grind of bulldozers. /推土机嘎吱嘎吱碾过的声音。
+	22. grinding poverty /极度贫困。
+	23. the grinding roar of the lorries. /卡车刺耳的轰鸣声。
+	24. grind balls for bearings /磨轴承滚珠
+	25. grind away at English studies /刻苦攻读英语
+	26. grinding for a test; grinding away at housework. /为考试埋头苦读；埋头做家务
+	27. the rail talks grind on. /火车旅途中的谈话慢吞吞地继续着。
+	28. the truck was grinding slowly up the hill. /卡车吱吱嘎嘎地慢慢向山上爬行。
+	29. We have separate areas for welding, grinding and sawing. /我们有单独的区域用来焊接、打磨和切割。
+	30. Did you play hardball? Did you grind him? /你采取强硬措施了吗? 你和他争辩了吗?
+	31. Bank robbery was good, consistent work but also kind of a grind. /抢银行很好，是份持久性的工作，但也是份苦差事。
+	32. grind to a halt
+		1. This city would grind to a halt. /城市将会拥堵不堪。
+		2. If that happens, the economy would really grind to a halt /如果这种情况发生，那希腊经济就会陷入停顿状态。
+	33. organ-grinder
 		1. _n._ [showman](dic://showman), [promoter](dic://promoter), [impresario](dic://impresario)
 		2. **monkey**猴子;**beggar**乞丐;**monkeys**猴子;**circus**马戏团;**prostitute**娼妓;**policeman**警察;**organist**风琴演奏者;
-	5. grindstone
+	34. grindstone
 		1. n. 磨石, 砂轮, 石磨
 		2. _n._ [stone](dic://stone), [sharpener](dic://sharpener)
 		3. **nose**鼻子;**grind**磨碎;**lathe**用车床加工;**mill**磨坊;**grinding**刺耳的;
-	6. grinding
+	35. grinding
 		1. grindingly
 		2. electrogrinding
-	7. grinder
-	8. grindability
-	9. gerund-grinder
+	36. grinder
+	37. grindability
+	38. gerund-grinder
 		1. n. 拉丁语教师, 学究式的教师
 2. congruence
-	1. **equivalence**均等;**similarity**类似, 相似;**symmetry**对称;**coherence**条理性,连贯性,一致性;**contradiction**矛盾;**convergence**集中,收敛;**duality**二元性;**divergence**分叉，叉开;**invariant**无变化的,不变的;**correlation**相互的关系;**theorem**定理;
+	1. con-强调 + gru-磨 + -ence, 表名词 → 互相磨合 → 适合，一致。
+	2. **equivalence**均等;**similarity**类似, 相似;**symmetry**对称;**coherence**条理性,连贯性,一致性;**contradiction**矛盾;**convergence**集中,收敛;**duality**二元性;**divergence**分叉，叉开;**invariant**无变化的,不变的;**correlation**相互的关系;**theorem**定理;
 		1. _[congruence](dic://congruence)_  n. 一致；适合；[数] 全等
 		2. _[congruence class](dic://congruence%20class)_  [数] 同余类
 		3. _[congruence relation](dic://congruence%20relation)_  [数] 全等关系; [数] 同余关系; 
 		4. _[goal congruence](dic://goal%20congruence)_  目标一致性; 目标一致; 
 		5. _[congruence transformation](dic://congruence%20transformation)_  [数] 全等变换; 同余变换; 
 		6. _[linear congruence](dic://linear%20congruence)_  线性同余
-	2. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
-	3. incongruence, congruency
-	4. congruent, incongruent
+	3. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
+	4. incongruence, congruency
+	5. congruent, incongruent
 		1. _adj._ [appropriate](dic://appropriate), [harmonious](dic://harmonious), [coincident](dic://coincident), [coinciding](dic://coinciding), [identical](dic://identical), [superposable](dic://superposable)
 		2. **aligned**对齐的;**consistent**始终如一的;**correspond**相符合, 相一致;**correlated**有相互关系的;**identical**同一的;**analogous**相似的,可比拟的;**orthogonal**直角的,直交的;**symmetrical**对称的;**symmetric**相称性的,均衡的;**dissimilar**不同的;**mirrored**装有镜子的;
 		3. _[congruent](dic://congruent)_  adj. 适合的，一致的；全等的；和谐的
@@ -3230,22 +3279,22 @@
 		6. _[congruent angle](dic://congruent%20angle)_  [数] 全等角
 		7. _[congruent integers](dic://congruent%20integers)_ 同余整数
 		8. _[congruent triperspectives](dic://congruent%20triperspectives)_ 全等三角形
-	5. congruity,
+	6. congruity, (gratuity)
 		1. **coherence**条理性,连贯性,一致性;**harmony**协调;**similarity**类似, 相似;**harmonious**和谐的;**conformity**依照, 遵从;**perception**感知;**dissonance**不一致;**propriety**①礼貌,规矩;**uniformity**一致;**juxtaposition**并置,并列;**symmetry**对称;
 		2. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
 		3. [incongruity](dic://incongruity), [incongruousness](dic://incongruousness)
 		4. incongruity
 			1. **absurdity**荒谬;**juxtaposition**并置,并列;**irony**讽刺;**contradiction**矛盾;**inconsistency**矛盾;**discrepancy**差异, 不符合;**dichotomy**一分成二,对分;**dissonance**不一致;**ambiguity**歧义;**paradoxical**似是而非的 矛盾的 诡论的;**paradox**悖论;
-	6. congruous, incongruous
+	7. congruous, incongruous
 		1. **harmonious**和谐的;**dissimilar**不同的;**agreeable**欣然同意的;**wholly**完全地;**mutually**互相地;**pleasing**合意的;**incompatible**合不来的, 不能和谐相处的;**analogous**相似的,可比拟的;**consistent**始终如一的;**distinguishable**可区别的,可辨别的;**compatible**可以并存的, 相容的, 协调的;
 		2. [appropriate](dic://appropriate), [harmonious](dic://harmonious), [compatible](dic://compatible)
 		3. incongruousness
 		4. incongruously
-3. grisly, grisliness
+4. grisly, grisliness
 	1. **gruesome**可怕的;**gory**血淋淋的;**macabre**可怕的;**horrifying**令人恐惧的,使人惊骇的;**horrific**可怕的;**ghastly**可怕的;**grotesque**奇形怪状的;**grim**冷酷的;**terrifying**可怕的;**harrowing**令人伤心的,令人痛苦的;**brutal**残忍的;
 	2. [ghastly](dic://ghastly), [grim](dic://grim), [gruesome](dic://gruesome), [macabre](dic://macabre), [sick](dic://sick)
 	3. [alarming](dic://alarming)
-4. grit, 
+5. grit
 	1. **tenacity**固执;**gritty**有砂砾的;**toughness**有粘性;**sandpaper**砂纸;**abrasive**磨料;**perseverance**坚持不懈;**grime**尘垢;**fortitude**坚韧, 刚毅;**swagger**吓唬;**finesse**纤细;**grinding**刺耳的;
 	2. [gritrock](dic://gritrock), [gritstone](dic://gritstone)
 	3. [backbone](dic://backbone), [guts](dic://guts), [moxie](dic://moxie), [sand](dic://sand), [gumption](dic://gumption)
@@ -3253,10 +3302,10 @@
 	5. gritter
 	6. gritstone
 		1. **sandstone**砂岩;**limestone**石灰岩;**boulder**大圆石;**boulders**岩石;**granite**花岗岩;**quarry**采石场;**stone**石头;**slabs**平板;**brick**砖，砖块;**cliffs**悬崖，峭壁;**spire**尖塔;
-	7. grits
+	7. grits (gratis)
 		1. **shrimp**虾;**biscuits**饼干;**oysters**牡蛎，蚝;**pancakes**薄烤饼;**waffles**华夫饼干;**gravy**肉汁;**porridge**粥，糊;**macaroni**通心面条;**oatmeal**燕麦粥;**catfish**鲶鱼;**slaw**卷心菜沙拉，卷心菜色拉;
 	8. degritting
-5. gruel
+6. gruel
 	1. **porridge**粥，糊;**rations**配给量;**soup**汤，羹;**pudding**布丁;**oatmeal**燕麦粥;**stew**炖，炖汤;**thin**薄的;**rice**稻;**tasteless**无味的;**cereal**谷类食品;**nutritious**有营养的, 滋养的;
 		1. _[Fruit gruel](dic://Fruit%20gruel)_ 水果粥
 		2. _[maize gruel](dic://maize%20gruel)_ 玉米粥; 棒子面粥; 
@@ -3266,18 +3315,25 @@
 		6. _[cook gruel endure](dic://cook%20gruel%20endure)_ 熬粥
 		7. _[instant gruel flake](dic://instant%20gruel%20flake)_ 方便粥
 	2. grueling
-6. chrism, chrismly
-	1. **consecration**奉献;**sacrament**圣事,圣礼;**liturgy**礼拜仪式;**anointed**涂油于…;**liturgical**礼拜仪式的;**incense**香;**Eucharist**圣餐;**communion**交流;**deacon**执事;**baptism**洗礼;
+7. chrism, chrismly
+	1. n. 圣油；圣油仪式
 	2. [chrisom](dic://chrisom), [sacramental oil](dic://sacramental oil), [holy oil](dic://holy oil)
 	3. [ointment](dic://ointment), [unction](dic://unction), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)
-	4. chrisom
-		1. [chrism](dic://chrism), [sacramental oil](dic://sacramental oil), [holy oil](dic://holy oil)
-		2. [ointment](dic://ointment), [unction](dic://unction), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)
-	5. chrismon
+	4. **consecration**奉献;**sacrament**圣事,圣礼;**liturgy**礼拜仪式;**anointed**涂油于…;**liturgical**礼拜仪式的;**incense**香;**Eucharist**圣餐;**communion**交流;**deacon**执事;**baptism**洗礼;
+	5. The chrism is on thine head, — on mine, the dew /可怜我，头上承受著凉透的夜露。
 	6. chrismatory
+		1. n. 装圣油的容器
 	7. chrismation
-	8. chrismaline
-	9. chrismal
+		1. n. 搽圣油
+	8. chrisma, chrismon
+		1. n. 软膏；领袖魅力（又称克里斯玛）；基督的象征（等于chrismon）
+		2. Do you expect to use your personal chrisma in presentation so that you can influence others with your thoughts and ideas? /您是否渴望――施展自己的个性魅力，使您的思想见解得到认同？
+		3. chrismaline
+		4. chrismal
+	9. chrisom
+		1. n. [宗]初生婴孩的白色洗礼巾/洗礼服；[古]婴儿
+		2. [chrism](dic://chrism), [sacramental oil](dic://sacramental oil), [holy oil](dic://holy oil)
+		3. [ointment](dic://ointment), [unction](dic://unction), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)
 
 
 ### grand- = grand, 表示“大的”，来自于拉丁语。
@@ -3970,37 +4026,98 @@
 			13. disagreeable
 			14. agreeably
 			15. agreeableness
-	2. gratulate, gratulant
-		1. gratulatory, gratulation
-		2. congratulate
-			1. congrats, congratulant
-			2. congratulatory
-			3. congratulation
-	3. gratis
+	2. gratulate
+		1. _v._ 欢迎,祝
+		2. We supply any types of air-cooling and water-cooling single screw air compressor, gratulateto choose and buy! /我们供应各种型号的风冷式、水冷式单螺杆压缩机，欢迎客户选购！
+		3. gratulant
+			1. adj. 表示满足的；祝贺的
+		4. gratulatory, gratulation
+		5. congratulate
+			1. v. 祝贺，向……道贺；感到高兴（或自豪）
+			2. _v._ [praise](dic://praise), [wish](dic://wish), [bid](dic://bid), [feel](dic://feel), [experience](dic://experience), [gloat](dic://gloat), [triumph](dic://triumph)
+			3. [celebrate](dic://celebrate) 通常指举行盛大隆重的仪式庆祝或纪念有意义的日子或某件事情，多暗示节日般的欢乐场面。  
+			4. [congratulate](dic://congratulate) 指对他人祝贺为目的，希望他人幸福或走运。
+			5. **commend**推荐;**applaud**向…喝彩;**thank**感谢;**congrats**祝贺;**thanking**致谢，感谢;**proud**自豪的;**kudos**荣誉;**delighted**喜欢的, 高兴的;**honored**已承兑或付款的;**announce**宣布;**celebrate**庆祝;
+			6. One can congratulate oneself on one's victories /一个人也可以自己庆祝自己的胜利
+			7. congrats, congratulant
+			8. congratulatory
+			9. congratulation
+	4. gratis
 		1. gratis dictum, 空言；空洞的主张；不受法律拘束的自动陈述
 			1. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
 			2. [for free](dic://for free), [free of charge](dic://free of charge)
-	4. gratuity, gratuitous
-		3. gratuitously
-		4. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
-		5. **free**自由的，不受约束的;**porno**色情作品;**download**下载;
-		6. **crass**粗鲁的;**superfluous**过多的;**over-the-top**过多的;**unnecessary**不必要的, 多余的;**unwarranted**没有根据的, 无正当理由的;**gory**血淋淋的;**nudity**裸露;**silliness**愚蠢;**pointless**无意义的;**explicit**清楚的;**obscene**淫秽的;
-	5. gratify
-		1. **satisfy**令人满意;**desire**欲望;**desires**欲望;**arouse**引起;**excite**刺激…，使…兴奋;**insatiable**不知足的;**appease**使平息;**amuse**使发笑;**indulge**迁就;**cater**提供饮食及服务;**fulfill**履行;
-		2. grateful
+		2. _[gratis investment](dic://gratis%20investment)_ 无偿投资
+		3. _[appropriate gratis](dic://appropriate%20gratis)_ 无偿拨款
+		4. _[entrada gratis](dic://entrada%20gratis)_ 免票
+		5. _[gratis verteilt](dic://gratis%20verteilt)_ 赠阅杂志
+		6. _[gratis services](dic://gratis%20services)_ 免费服务
+		7. I am satisfied with him. The old fish is doing Charles a good service, and gratis too /我对他很满意。这条老鱼帮了查尔斯大忙，而且还是免费的。
+		8. Every day, he would bring some food to the old man gratis. /每天，他都免费地带些食品给这个老人。
+		9. And the institution itself, being in debt, was only too glad to get a gratis course from an educated and accomplished man like Mr. Hale, let the subject be what it might. /而该机构本身，负债累累，非常高兴能从像黑尔先生这样受过良好教育和有成就的人那里获得免费课程，让主题成为可能。
+		10. I knew his help wouldn't be given **gratis**. /我知道他的帮助不会是无偿的。
+	5. gratuity
+		1. n. 赏钱，小费；赠物；退职金
+		2.  [tip](dic://tip), [pourboire](dic://pourboire), [baksheesh](dic://baksheesh), [bakshish](dic://bakshish), [bakshis](dic://bakshis), [backsheesh](dic://backsheesh)
+		3. _n._ [fringe benefit](dic://fringe benefit), [perquisite](dic://perquisite), [perk](dic://perk), [prize](dic://prize), [award](dic://award)
+		4. **waiter**服务员，侍者;**buffet**自助餐;**payable**应付的;**fee**酬金;**entree**主菜;**tipping**倾卸台;**tax**向…课税;**waitress**女服务员;**valet**贴身男仆;**fare**费, 票价;
+		5. _[commuted gratuity](dic://commuted%20gratuity)_  经折算的酬金；折算酬金
+		6. _[commuted pension gratuity](dic://commuted%20pension%20gratuity)_  经折算的退休酬金
+		7. _[pro rata gratuity](dic://pro%20rata%20gratuity)_  按比例领取酬金
+		8. No gratuity accepted. /不收小费。
+		9. Gratuities for waiters are included in the bill. /给侍者的小费包括在帐单中
+		10. He lost his job, no gratuity at all. /他没有任何养老金地失去了工作。
+		11. The debtor, for fear of a very severe execution, was obliged, without any further gratuity, to vote for the candidate whom the creditor recommended /债务人由于担心处决非常严厉，不得不在没有任何进一步酬金的情况下投票给债权人推荐的候选人。
+		12. gratuitous, gratuitously
+			1. adj. 无理由的，无端的；免费的
+			2. _adj._ [unmerited](dic://unmerited), [unpaid](dic://unpaid), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded)
+			3. _n._ [merited](dic://merited), [deserved](dic://deserved), [paid](dic://paid), [necessary](dic://necessary)
+			4. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
+			5. **free**自由的，不受约束的;**porno**色情作品;**download**下载;
+			6. **crass**粗鲁的;**superfluous**过多的;**over-the-top**过多的;**unnecessary**不必要的, 多余的;**unwarranted**没有根据的, 无正当理由的;**gory**血淋淋的;**nudity**裸露;**silliness**愚蠢;**pointless**无意义的;**explicit**清楚的;**obscene**淫秽的;
+			7. gratuitous criticism. /没有根据的批评
+			8. solicitors provide a form of gratuitous legal advice. /诉状律师提供某种形式的免费法律咨询。
+			9. His films are full of gratuitous violence. /他拍的影片充满了不必要的暴力。
+			10. The video of the gratuitous beating of a Black man has deeply shocked France /这段无端殴打黑人的视频使法国深感震惊。
+			11. Since physicas was julia's favorite subject, she enjoyed providing gratuitous assistance to celia. /因为物理是朱丽亚最喜欢的课，她喜欢为西莉亚提供义务辅导。
+	6. gratify
+		1. grat-感谢 + -ify使… → 使[人]满足 , 高兴。
+		2. [satisfy](dic://satisfy) 
+		3. [pander](dic://pander), [indulge](dic://indulge)
+		4. _v._ [provide](dic://provide), [supply](dic://supply), [ply](dic://ply), [cater](dic://cater)
+		5. **satisfy**令人满意;**desire**欲望;**desires**欲望;**arouse**引起;**excite**刺激…，使…兴奋;**insatiable**不知足的;**appease**使平息;**amuse**使发笑;**indulge**迁就;**cater**提供饮食及服务;**fulfill**履行;
+		6. to gratify the queen, and gain the court /讨好女王，拉拢王室成员。
+		7. to gratify a child's thirst for knowledge /满足儿童的求知欲望
+		8. it's gratifying seeing everybody gelling. /看到大家融洽相处真令人高兴。
+		9. And as long as her father was near her, they were always gratified hastily. /她像杰拉尔德那样很容易发脾气，发作起来便突然大叫大喊，可是一旦她的愿望得到满足就压根儿忘了。
+		10. What makes me especially pleased and gratified is the attention it calls to the issue. /让我特别高兴和欣慰的是它引起了人们对这个问题的关注。
+		11. grateful
 			1. ungrateful, ungratefulness, ungratefully
 			2. gratefulness
 			3. gratefully
-		3. gratifying, gratifyingly
-		4. gratification
-	6. gratitude
-		1. **kindness**仁慈;**appreciation**欣赏;**generosity**慷慨, 大方, 宽容;**admiration**钦佩;**grateful**感谢的;**thanking**致谢，感谢;**thankful**感谢的;**compassion**怜悯, 同情;**joy**欢乐，快乐;**devotion**热爱;**thank**感谢;
-	7. ingrate
-		1. **bastard**私生的;**hypocrite**伪君子;**arrogant**自大的，傲慢的;**wretched**可怜的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**bitch**母狗，母狼;**heartless**无情的;**whiny**烦躁的;**coward**懦夫，懦弱的人;**idiot**白痴;**pompous**浮夸的;
-		2. ingratitude
-	8. ingratiate, ingratiating
-		1. **persuade**说服，劝说;**embarrass**使窘迫;**alienate**使疏远，离间;**appease**使平息;**convince**使确信，使信服;**entice**诱使;**impress**给…以深刻印象, 使铭记;**humiliate**蒙羞;**seduce**引诱;**intimidate**恐吓, 威胁;**oust**剥夺;
-	9. grace, graces
+		12. gratifying, gratifyingly
+		13. gratification
+	7. gratitude
+		1. _n._ [feeling](dic://feeling)
+		2. _n._ [ingratitude](dic://ingratitude), [ungratefulness](dic://ungratefulness)
+		3. **kindness**仁慈;**appreciation**欣赏;**generosity**慷慨, 大方, 宽容;**admiration**钦佩;**grateful**感谢的;**thanking**致谢，感谢;**thankful**感谢的;**compassion**怜悯, 同情;**joy**欢乐，快乐;**devotion**热爱;**thank**感谢;
+	8. ingrate
+		1. [thankless wretch](dic://thankless wretch), [ungrateful person](dic://ungrateful person)
+		2. _n._ [unwelcome person](dic://unwelcome person), [persona non grata](dic://persona non grata)
+		3. **bastard**私生的;**hypocrite**伪君子;**arrogant**自大的，傲慢的;**wretched**可怜的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**bitch**母狗，母狼;**heartless**无情的;**whiny**烦躁的;**coward**懦夫，懦弱的人;**idiot**白痴;**pompous**浮夸的;
+		4. It would take an ingrate great courage to work on ways to dispel such measures /一个不知感激为何物的人理直气壮的否定这些措施。
+		5. That ingrate can't stop hounding me for five minutes /这忘恩负义的家伙 5分钟也不让我闲着。
+		6. ingratitude
+	10. ingratiate
+		1. vt. 使迎合；使讨好；使逢迎
+		2. _v._ [manipulate](dic://manipulate), [keep in line](dic://keep in line), [control](dic://control)
+		3. pander, indulge, gratify
+		4. **persuade**说服，劝说;**embarrass**使窘迫;**alienate**使疏远，离间;**appease**使平息;**convince**使确信，使信服;**entice**诱使;**impress**给…以深刻印象, 使铭记;**humiliate**蒙羞;**seduce**引诱;**intimidate**恐吓, 威胁;**oust**剥夺;
+		5. a sycophantic attempt to ingratiate herself with the local aristocracy. /她阿谀奉承讨好地方权贵的企图。
+		6. She quickly sought to ingratiate herself with the new administration. /她很快就试图使她自己获得新政府的欢心
+		7. Jobs had an easier time ingratiating himself with the engineers who worked one floor above /乔布斯与在楼上工作的工程师们相处甚欢。
+		8. Well, I have, uh, " an ingratiating wit, trustworthy smile, " according to the Plainview Herald. /我有 " 出众的智慧，迷人的笑容" 《普莱维先驱报》是这么评价的。
+		9. ingratiating
+	11. grace, graces
 		1. ungracious, ungraceful
 			1. scapegrace
 		2. gracious, graceful

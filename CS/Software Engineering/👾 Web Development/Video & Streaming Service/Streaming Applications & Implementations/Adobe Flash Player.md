@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topicss
-↗ [Adobes Family](../../../../🔑%20CS_Core/🧰%20Generic%20Tools%20&%20Projects/Creation%20&%20Graphics/Adobes%20Family.md)
+↗ [Adobes Family](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Creation%20&%20Graphics/Adobes%20Family.md)
 ↗ [Web Browsers Development](../../Web%20Browsers%20Development/Web%20Browsers%20Development.md)
 
 

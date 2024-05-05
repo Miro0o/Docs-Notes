@@ -19,7 +19,7 @@
 
 
 ### Related Topics
-↗ [Math (Discrete Mathematics)](../🔑%20CS_Core/🦄%20Algorithm%20&%20Data%20Structure/Math%20(Discrete%20Mathematics)/Math%20(Discrete%20Mathematics).md)
+↗ [Math (Discrete Mathematics)](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Math%20(Discrete%20Mathematics)/Math%20(Discrete%20Mathematics).md)
 
 
 

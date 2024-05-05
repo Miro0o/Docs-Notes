@@ -18,7 +18,7 @@
 
 🤙🏾 [install Git](https://git-scm.com/book/it/v2/Per-Iniziare-Installing-Git)
 
-🪠 And More ... (🔗 cited from [🏫 Missing Semester](../../../../../🗺%20CS_Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md))
+🪠 And More ... (🔗 cited from [🏫 Missing Semester](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md))
 - [Pro Git](https://git-scm.com/book/en/v2) is **highly recommended reading**. Going through Chapters 1–5 should teach you most of what you need to use Git proficiently, now that you understand the data model. The later chapters have some interesting, advanced material.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) is a short guide on how to recover from some common Git mistakes.
 - [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) is a short explanation of Git’s data model, with less pseudocode and more fancy diagrams than these lecture notes.

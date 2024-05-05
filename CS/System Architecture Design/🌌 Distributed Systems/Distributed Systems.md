@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Systems
-↗ [Parallel Computing](../../🔑%20CS_Core/🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
 
 
 ### Learning Resources
