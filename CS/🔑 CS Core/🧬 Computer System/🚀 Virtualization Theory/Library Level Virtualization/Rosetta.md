@@ -19,4 +19,3 @@ Rosetta is not an app that you open or interact with. **Rosetta works automatic
 ## Ref
 [What is Rosetta 2 on Mac?]: https://www.howtogeek.com/822889/what-is-rosetta-2-on-mac/
 
-
