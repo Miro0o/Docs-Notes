@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a12ffa1ac79b13da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/IDA Pro/IDA Pro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md"
               }
             }
           },
@@ -185,33 +198,35 @@
   },
   "active": "8f4aebbd41fe99ee",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🍕 Database System/Professional, Legal, and Ethical Issues in Data Management.md",
-    "CS/🔑 CS Core/🍕 Database System/Database System Security & Administration.md",
-    "CS/🔑 CS Core/🍕 Database System/Database System.md",
-    "CS/🗺 CS Overview/CS Community Lingo.md",
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
-    "CS/🗺 CS Overview/🥂 Welcome to CS.md",
-    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/CS International Universities & Countries' Lives.md",
-    "CS/🗺 CS Overview/CS of The Year/2024.md",
-    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Admission Materials/Personal Statement (PS).md",
-    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/FAQ.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Troubleshootings.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/JEB Pro/JEB Automation & JebScript (JEB Python)/JEB Automation & JebScript (JEB Python).md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/JEB Pro/JEB Pro.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/JEB Pro/JEB Automation & JebScript (JEB Python)/JebScript (JEB Python).md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/IDA Pro/IDA Pro.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Library Level Virtualization/🍷 Wine Project/Wine Project.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Library Level Virtualization/Rosetta.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Library Level Virtualization/🍷 Wine Project/Third-party Wine App/wineskin project.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/DXVK.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Library Level Virtualization/🍷 Wine Project/Third-party Wine App/⭐️ Crossover.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Library Level Virtualization/🍷 Wine Project/Third-party Wine App/DOSBox.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtimes Environments/Python Interpreters & Implementations/Cython.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtimes Environments/Python Interpreters & Implementations/Jython.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Contries Specific/United States.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Contries Specific/Singapore.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Frida.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/JEB Pro/JEB Automation & JebScript (JEB Python)",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Smali Code/Smali Code.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
-    "CS/Academics/Academics.md",
-    "CS/🏠 Assets/Universities/🇨🇳 Mainland China/NJU/计算机系统基础/计算机系统基础.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Debuggers & Disassemblers & Decompilers/adb.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Smali Code",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Debuggers & Disassemblers & Decompilers/Debuggers & Disassemblers & Decompilers.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
+    "CS/🔑 CS Core/🍕 Database System/Professional, Legal, and Ethical Issues in Data Management.md",
     "CS/🗺 CS Overview/Obsidian Test Features/Test Canvans.canvas",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation/Network Emulation.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))/TFAT (Transaction-Safe FAT File System) & TexFAT (Transaction-Safe Extended FAT File System).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)/JFS (Journaled File System).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT/FAT (File Allocation Table) & exFAT.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)/EROFS (Enhanced Read-Only File System).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Management (User Level)/File Organization & Access Methods/Sequential File/Indexed Sequential File (Index + Sequence)/Indexed Sequential File (Index + Sequence).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Carrier Sense Multiple Access (CSMA)/CSMA with Collision Detection (CSMA-CD)/CSMA with Collision Detection (CSMA-CD).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Carrier Sense Multiple Access (CSMA)/CSMA with Collision Avoidance (CSMA-CA)/CSMA with Collision Avoidance (CSMA-CA).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication)（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/PIM-DM/PIM-DM.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication)（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/MOSPF/MOSPF.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/IP Multicasting (Group Communication)（多播，组播）/Multicast Route Selection Protocols/Source-Based Tree Route Selection/DVMRP/DVMRP.md",
     "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/🛖 System Emulation (Full Emulation)/Network Emulation",
     "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide & Internal Implementations/TCG Emulation",
     "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/Hypervisors Implementation/Hosted Hypervisor/Independant/QEMU/QEMU Develop Guide & Internal Implementations/QEMU Test & Build System",
@@ -220,8 +235,6 @@
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/TFAT (Transaction-Safe FAT File System) & TexFAT (TFAT (Transaction-Safe Extended FAT File System))",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/JFS (Journaled File System)",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/FAT (File Allocation Table) & exFAT",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Disk and Non-rotating File Systems/Flash Memory & SSD File Systems/EROFS (Enhanced Read-Only File System)",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Management (User Level)/File Organization & Access Methods/Sequential File/Indexed Sequential File (Index + Sequence)",
     "Assets/Pics/Pasted image 20240428004026.png",
     "Assets/Pics/Screenshot 2024-04-27 at 3.59.06 PM.png",
     "Assets/Pics/Pasted image 20240427154740.png",

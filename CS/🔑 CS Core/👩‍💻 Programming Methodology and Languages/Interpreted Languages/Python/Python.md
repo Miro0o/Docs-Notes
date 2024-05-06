@@ -83,3 +83,4 @@ Many projects have their own coding style guidelines. In the event of any confli
 
 
 ## Ref
+[Python — meaning of prefix f, r, u, b]: https://medium.com/@jchen001/python-meaning-of-prefix-f-r-u-b-f1b669315e4b

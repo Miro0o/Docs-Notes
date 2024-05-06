@@ -9,7 +9,7 @@
 🚧 https://github.com/pnfsoftware
 - https://github.com/pnfsoftware/jeb-samplecode/tree/master | Sample scripts and extensions for JEB Decompiler.
 📂 https://www.pnfsoftware.com/jeb/manual/
-
+📂 https://www.pnfsoftware.com/blog/ (JEB in Action - JEB Blogs)
 
 
 ### Related Topics

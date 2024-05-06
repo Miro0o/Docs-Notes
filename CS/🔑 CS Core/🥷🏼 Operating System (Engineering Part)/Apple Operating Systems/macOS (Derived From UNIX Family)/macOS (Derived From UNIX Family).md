@@ -17,6 +17,10 @@ cssclasses:
 
 
 ## ⛲️ Resources
+### Related Topis
+↗ [Rosetta](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Rosetta.md)
+
+
 ### macOS Dev
 ⭐️ https://github.com/nicolashery/mac-dev-setup
 A beginner's guide to setting up a development environment on macOS

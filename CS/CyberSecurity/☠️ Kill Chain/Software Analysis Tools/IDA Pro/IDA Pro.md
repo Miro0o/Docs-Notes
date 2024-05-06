@@ -33,3 +33,5 @@
 [🎬 OD和IDA的使用方法(逆向工具)]: https://www.bilibili.com/video/BV1164y1S7NB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 [MacOS安装IDA Pro 7.0 Crack]: https://ylcao.top/2022/01/09/macos安装ida-pro-7-0-crack全过程/
+
+[在m2 macbook pro的wine上跑idapro 8.3（趟坑python插件） - 一片枫叶的文章 - 知乎]: https://zhuanlan.zhihu.com/p/690072041
