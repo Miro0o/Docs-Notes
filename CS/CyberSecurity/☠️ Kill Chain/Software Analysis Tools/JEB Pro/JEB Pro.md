@@ -8,8 +8,11 @@
 🏠 https://www.pnfsoftware.com
 🚧 https://github.com/pnfsoftware
 - https://github.com/pnfsoftware/jeb-samplecode/tree/master | Sample scripts and extensions for JEB Decompiler.
-📂 https://www.pnfsoftware.com/jeb/manual/
+📂 https://www.pnfsoftware.com/jeb/manual/ (Software Mannual)
 📂 https://www.pnfsoftware.com/blog/ (JEB in Action - JEB Blogs)
+
+🎬 https://www.youtube.com/c/JEBDecompiler
+Demo and tutorial videos for JEB Decompiler.
 
 
 ### Related Topics

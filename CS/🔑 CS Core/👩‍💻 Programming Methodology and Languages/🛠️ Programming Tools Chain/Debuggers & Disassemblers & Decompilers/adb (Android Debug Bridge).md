@@ -1,4 +1,4 @@
-# Smali Code
+# adb (Android Debug Bridge)
 
 [TOC]
 

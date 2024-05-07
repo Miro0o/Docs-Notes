@@ -13,6 +13,10 @@
 ### 👉 Wikipedia
 
 
+### 👉 Wikiwand
+🏠 https://www.wikiwand.com
+
+
 ### 👉 DBpedia
 🏠 https://www.dbpedia.org
 
@@ -26,10 +30,6 @@
 
 ### 👉 Wikipedia Commons
 🏠 https://commons.wikimedia.org/wiki/Main_Page
-
-
-### 👉 Wikiwand
-🏠 https://www.wikiwand.com
 
 
 ### 👉 wikidata
