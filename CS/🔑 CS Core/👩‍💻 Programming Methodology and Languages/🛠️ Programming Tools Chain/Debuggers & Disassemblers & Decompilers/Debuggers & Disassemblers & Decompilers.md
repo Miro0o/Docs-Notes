@@ -21,7 +21,7 @@
 ↗ [IDA Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/IDA%20Pro/IDA%20Pro.md)
 - ↗ [Hex-Rays Decompiler](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/IDA%20Pro/Hex-Rays%20Decompiler.md)
 
-[JEB Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/JEB%20Pro/JEB%20Pro.md)
+↗ [JEB Pro](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/JEB%20Pro/JEB%20Pro.md)
 
 
 

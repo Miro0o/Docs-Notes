@@ -5,8 +5,10 @@
 
 
 ## Res
-🏠 
-🚧 
+🚧 https://github.com/pnfsoftware
+
+🚧 https://github.com/pnfsoftware/jeb-samplecode
+Sample scripts and extensions for JEB Decompiler.
 
 
 ### Related Topics

@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Linkers](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Program%20Execution%20Related%20Tools%20Chain/Linkers/Linkers.md)
+↗ [Linkers](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Linkers.md)
 
 
 

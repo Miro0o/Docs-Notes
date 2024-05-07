@@ -12,7 +12,7 @@
 
 ↗ [Auxiliary Hardware & Peripherals](../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 
-↗ [ASM /Interfaces](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
+↗ [ASM /Interfaces](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/⚡️%20ASM%20Advance/Interfaces/Interfaces.md)
 ↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](../Computer%20Memory%20&%20Storage/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
 ↗ [Computer Networking and Communication](../../../../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 
