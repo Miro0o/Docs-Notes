@@ -17,6 +17,10 @@ Features:
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426)talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 
+### Related Topics
+↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+
+
 
 ## Intro
 ### 如何使用 GitHub
@@ -34,7 +38,6 @@ GitHub 之所以成功，我想是得益于“我为人人，人人为我”的�
 
 ## 👩‍💻 Github CLI
 🏠 https://cli.github.com
-
 📂 https://cli.github.com/manual/
 
 GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your terminal or your scripts.
@@ -42,14 +45,18 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 - [Usage examples](https://cli.github.com/manual/examples)
 - [Community extensions](https://github.com/topics/gh-extension)
 
+> There are also other github client CLI tools at ↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+
 
 
 ## 🧸 Github Extensions
 ### 👉 `GCM`
 ↗ [GCM (Git Credential Manager)](../Git%20Key%20Management%20&%20Access%20Conrol/Git%20Credentials%20Helper/GCM%20(Git%20Credential%20Manager).md)
 
+
 ### 👉 `GitHubpage` | `GithubBook`
 ↗ [Github Page & Github Book](../../../../../👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
+
 
 ### 👉 `Giscus`
 ↗ [giscus](../../../../../👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Commenting/giscus.md)

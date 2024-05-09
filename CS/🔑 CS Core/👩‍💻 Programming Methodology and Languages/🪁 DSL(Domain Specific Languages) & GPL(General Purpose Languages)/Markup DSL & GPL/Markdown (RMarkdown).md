@@ -5,16 +5,20 @@
 
 
 ## Res
-### Learn MD
-[MarkdownGuide](https://www.markdownguide.org)
-[md 写作规范](https://stdrc.cc/style-guides/markdown)
-
 ### Related Topics
 ↗ [Mermaid](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/JS%20Gadgets/Mermaid.md)
 ↗ [MathJax](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/JS%20Gadgets/MathJax.md)
 ↗ [Markdown Related Tools](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Integrated%20CASE%20Tools/Docs%20Tools/Markdown%20Related%20Tools/Markdown%20Related%20Tools.md)
 
 ↗ [MkDocs](../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/MkDocs.md)
+
+↗ [Awesome CLI Integration](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+
+
+### Learn MD
+[MarkdownGuide](https://www.markdownguide.org)
+[md 写作规范](https://stdrc.cc/style-guides/markdown)
+
 
 ### Other Res
 https://hackmd.io/home

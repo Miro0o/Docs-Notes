@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Artificial Intelligence/Awesome AI/Awesome NLP & LLM Projects & Services.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Artificial Intelligence/Awesome AI/Awesome NLP & LLM Projects & Services.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Artificial Intelligence/Awesome AI/Awesome NLP & LLM Projects & Services.md"
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md"
               }
             }
           },
@@ -184,8 +183,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1bf8810ad21cf312",
+  "active": "7739000e3ef076a1",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/📌 Awesome Open Source CLI Software/Awesome CLI Integration.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+    "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/DBMS (DataBase Management System) Implementations.md",
+    "CS/🔑 CS Core/🍕 Database System/Risk Management & Data Recovery.md",
+    "CS/Artificial Intelligence/Awesome AI/Awesome NLP & LLM Projects & Services.md",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/Docs Tools/Markdown Related Tools/Markdown Related Tools.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/Markdown (RMarkdown).md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Browsers.md",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/User Management.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Clients & Remote Shell/SSH Clients & Remote Shell.md",
@@ -193,7 +203,6 @@
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Files & Texts Filters.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/File Navigation & Explorer.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/📌 Awesome Open Source CLI Software/Awesome File & Dir Management.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/GNU Binutils.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/📇 Docs Management.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/termius.md",
@@ -202,16 +211,6 @@
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Remote Terminal & Other Communications Programs/SecureCRT.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH (Secure SHell).md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Clients & Remote Shell/ET (Eternal Terminal).md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome NLP & LLM Projects & Services.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome AI.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome Acoustic Projects & Services.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome CV Projects & Services.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Computer Systems.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome AI Assistant/Awesome AI Code Assistant.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome AI Assistant/Awesome AI Arts & Graphics Assistant.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome AI Assistant/Awesome AI Assistant.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome AI Assistant/Awesome AI Docs & Articles Assistant.md",
     "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Operating Systems/TrueNAS",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/ZFS & openZFS",
     "Assets/Pics/Pasted image 20240508170638.png",
