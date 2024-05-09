@@ -574,6 +574,15 @@ Application materials
 #### 👉 McGill University
 
 #### 👉 Ottawa University
+The School of Electrical Engineering and Computer Science
+https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science
+
+Sedna (Engineering Trustworthy IoT Systems)
+https://www.uoiot.ca
+
+Nanda Laboratory (AI for software engineering automation | Software engineering for AI-enabled systems)
+https://www.nanda-lab.ca
+
 ##### Master of Computer Science
 https://catalogue.uottawa.ca/en/graduate/master-computer-science/#text
 

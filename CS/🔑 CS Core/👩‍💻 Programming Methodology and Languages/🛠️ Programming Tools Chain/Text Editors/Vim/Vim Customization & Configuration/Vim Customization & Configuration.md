@@ -188,7 +188,7 @@ After installing NERDTree, the best way to learn it is to turn on the Quick Help
 
 
 ### 👉 [nnn.vim](https://github.com/mcchrish/nnn.vim)
-File Explorer nnn's vim extension ↗ [Awesome File & Dir Management](../../../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
+File Explorer nnn's vim extension ↗ [Awesome File & Dir Management](../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
 
 **Requirements**
 1.  n³
@@ -295,7 +295,7 @@ python3 install.py --all
 
 
 #### 👉 [codeium](https://codeium.com) -- AI Powered Code Assistant?
-↗ [Awesome AI Code Assistant](../../../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI%20Assistant/Awesome%20AI%20Code%20Assistant.md)
+↗ [Awesome NLP & LLM Projects & Services](../../../../../../Artificial%20Intelligence/Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 
 
 ### 🎉 Static Code Analyzers

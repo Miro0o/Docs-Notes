@@ -6,17 +6,23 @@
 
 ## Res
 ### Related Topics
-↗ [Awesome File & Dir Management](../../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
-↗ [Awesome CLI Integration](../../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
-↗ [Awesome Text Processing & Data Manipulation](../../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Text%20Processing%20&%20Data%20Manipulation.md)
+↗ [Awesome File & Dir Management](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
+↗ [Awesome CLI Integration](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+↗ [Awesome Text Processing & Data Manipulation](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Text%20Processing%20&%20Data%20Manipulation.md)
 
 
 
-## File Management Basics
-### 👉 `ls` | `tree`
+## File & Directory Management Basics
+### 👉 `ls` | `eva` | `lsd`
 
 
-### 👉 `cat` | `head`/`tail` | `more`/`less`
+### 👉 `tree`
+
+
+### 👉 `cat` | `bat`
+
+
+### 👉 `head`/`tail` | `more`/`less`
 
 
 ### 👉 `touch` | `mkdir`

@@ -10,9 +10,11 @@
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 ↗ [Distributed File System (Network File Systems)](../../../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
+↗ [Cloud Native Storage](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/👖%20Cloud%20Runtime/Cloud%20Native%20Storage/Cloud%20Native%20Storage.md)
 ↗ [Database System](../../../../../../🍕%20Database%20System/Database%20System.md)
+↗ [Cloud Database](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Cloud%20Database.md)
 
-↗ [Network-Attached Storage (NAS) & NAS Protocols](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols.md)
+↗ [NAS (Network-Attached Storage) Protocols](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
 ↗ [Storage Area Network (SAN)](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/Storage%20Area%20Network%20(SAN).md)
 
 

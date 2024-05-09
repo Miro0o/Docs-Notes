@@ -55,6 +55,7 @@ Warning: Please be advised if you have a bug in Iceweasel, because it is not pro
 [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy
 
 [Arc](https://arc.net/) - A better way to use the internet
+"Arc is the Chrome replacement I’ve been waiting for"
 
 
 

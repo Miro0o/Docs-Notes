@@ -12,7 +12,7 @@
 
 For Cloud Native Database, go to ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md) and find more !!
 
-↗ [Network-Attached Storage (NAS) & NAS Protocols](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols/Network-Attached%20Storage%20(NAS)%20&%20NAS%20Protocols.md)
+↗ [NAS (Network-Attached Storage) Protocols](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
 ↗ [Large Data Computing Platforms](../../Data%20Science/🧯%20Large%20Data%20Computing%20Platforms/Large%20Data%20Computing%20Platforms.md)
 
 

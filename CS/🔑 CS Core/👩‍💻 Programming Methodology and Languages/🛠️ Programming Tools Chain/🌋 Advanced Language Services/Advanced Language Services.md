@@ -14,7 +14,7 @@
 
 ## Languages Services
 ### 🤖 Code Autocompletion & Code Prompts
-↗ [Awesome AI Code Assistant](../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI%20Assistant/Awesome%20AI%20Code%20Assistant.md)
+↗ [Awesome NLP & LLM Projects & Services](../../../../Artificial%20Intelligence/Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 ↗ [Code Autocompletion & Code Prompts](Code%20Autocompletion%20&%20Code%20Prompts.md)
 
 
@@ -23,7 +23,7 @@
 
 
 ### 🔮 Code Predicting
-↗ [Awesome AI Code Assistant](../../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20AI/Awesome%20AI%20Assistant/Awesome%20AI%20Code%20Assistant.md)
+↗ [Awesome NLP & LLM Projects & Services](../../../../Artificial%20Intelligence/Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 ↗ [Code Predicting](Code%20Predicting.md)
 
 

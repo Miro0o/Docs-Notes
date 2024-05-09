@@ -1,4 +1,4 @@
-# SSH
+# SSH (Secure SHell)
 
 [TOC]
 
@@ -11,7 +11,11 @@
 
 
 ## Res
-✨ [SSH Official Docs](https://www.ssh.com/academy/ssh)
+📂 [SSH Official Docs](https://www.ssh.com/academy/ssh)
+
+
+### Related Topics
+↗ [Shell & Terminals (Console)](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 
 
 

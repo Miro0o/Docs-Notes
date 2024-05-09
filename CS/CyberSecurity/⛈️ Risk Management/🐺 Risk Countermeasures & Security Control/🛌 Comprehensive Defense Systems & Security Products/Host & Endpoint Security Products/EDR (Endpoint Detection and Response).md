@@ -24,6 +24,10 @@ The Endpoint Detection and Response Solutions (EDR) market is defined as solutio
 
 
 
+## MDR (Managed Detection and Response)
+
+
+
 ## Ref
 [Endpoint Detection and Response (EDR) Solutions Reviews and Ratings | Gartner]: https://www.gartner.com/reviews/market/endpoint-detection-and-response-solutions
 

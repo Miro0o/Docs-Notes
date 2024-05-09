@@ -109,7 +109,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 4. System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 	2. ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
-	3. ↗ [Awesome Architect](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/Awesome%20SE/Awesome%20Architect.md)
+	3. ↗ [Awesome Architect](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 5. Data Scientist /AI
 	1. ↗ [Data Science](../Data%20Science/Data%20Science.md)
 	2. ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -172,6 +172,16 @@ https://www.chaspark.com/#/home
 ---
 https://www.pcmag.com
 
+---
+OSC 开源社区
+https://www.oschina.net
+
+---
+阮一峰的网络日志
+https://www.ruanyifeng.com
+
+---
+
 
 ### CS Course /Training Channels
 ---
@@ -202,18 +212,15 @@ Classes at CMU can be hard. This guide is to give some insight on what to expect
 **edX**
 🏠 https://www.edx.org/
 
-
 ---
 **THEITZY**
 🏠 https://www.theitzy.com
 - this is an all-in-one online course platform. it aggregates selected courses from mainstream online course platforms like udemy in one site. 
 
-
 ---
 **Socratica**
 🏠 https://www.socratica.com
 A course platform.
-
 
 ---
 **CBT Nuggets**
@@ -221,6 +228,16 @@ https://www.cbtnuggets.com
 For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technology training available anytime, anywhere.
 
 🎬 "cntnuggest" on youtube!
+
+---
+**3blue1brown**
+https://www.youtube.com/@3blue1brown
+↗ [🧠 This is Science](This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+
+---
+李永乐
+https://www.youtube.com/@TchLiyongle
+↗ [🧠 This is Science](This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 
 ### CS Tutorials /Books

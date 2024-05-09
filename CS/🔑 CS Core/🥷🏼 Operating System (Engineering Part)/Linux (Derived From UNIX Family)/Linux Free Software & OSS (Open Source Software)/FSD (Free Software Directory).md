@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [FSF (Free Software Foundation)](../../🪪%20Software%20License%20&%20Open%20Source%20(Free%20Software)/Free%20Software%20Organizations/FSF%20(Free%20Software%20Foundation).md)
+↗ [FSF (Free Software Foundation)](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/FSF%20(Free%20Software%20Foundation).md)
 
 
 ### High Priority Projects

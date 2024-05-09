@@ -263,24 +263,45 @@
 1. **junct-, join-, jug-** = join, 表示“结合，连接”。源自拉丁语 iugum "yoke," iungere "to join."
 	1. adjunct
 		1. n. 附属物, 附件, 助手, 修饰语  a. 附属的
+		2. adjunctive
+		3. adjunction
 	2. conjunct
+		1. conjuncture
+		2. conjunctly
+		3. conjunctive
+		4. conjunction
 	3. disjunct
+		1. disjunctor
+		2. disjunctive
+		3. disjunction
 	4. injuction
 		1. in-不 + junction【连接】 → 不让连接 → 禁止令。
 		2. injunctive
-	6. juction
+	5. juction
 		1. n. 连接, 会合处, 交叉点
-	7. juncture
+		2. unijunction
+		3. thermojunction
+		4. T-junction
+		5. sejunction
+		6. junctional
+		7. homojunction
+		8. heterojunction
+		9. exjunction
+		10. dijunction
+		11. abjunction
+	6. juncture
 		1. n. 接合, 连接, 接缝
-	8. jugular
+		2. junctura
+	7. jugular
 		1. yoga（瑜伽）：追求“合一”的修行方式  
 		2. yoga（瑜伽）起源于印度，一种达到身体、心灵与精神和谐统一的运动方式，包括调身的体位法、调息的呼吸法、调心的冥想法等。英语单词yoga来自梵语yoga-s，其含义是“一致”、“结合”或“和谐”，而后者又来自原始印欧语词根yeug-（结合）。所以yoga一词的字面意思就是“合一”，这正是瑜伽运动的宗旨，即身心合一和天人合一。  
 			1. 与yoga同源的单词还有yoke（轭）、jugular（颈部的）  
 			2. yoga：['jəʊgə] n.瑜伽  
 			3. yoke：[jəʊk] n.轭，束缚v.结合，上轭  
 			4. jugular：['dʒʌgjʊlə] adj.颈部的，咽喉的，颈静脉的n.颈静脉
-	9. subjunctive
-	10. join
+		3. transjugular
+	8. subjunctive
+	9. join
 		1. joinder
 		2. joint
 			1.  [articulation](dic://articulation), [articulatio](dic://articulatio)
@@ -302,21 +323,43 @@
 			13. a joint of ham. /大块火腿肉。
 			14. joint military maneuvers /联合军事演习
 			15. immobility of a joint /僵硬关节
-	11. adjoin
+			16. unjoint
+			17. synovial joint
+			18. suture joint
+			19. subjoint
+			20. scarfjoint
+			21. loose-jointed
+			22. jointworm
+			23. jointure
+			24. jointure
+			25. jointress
+			26. jointer
+			27. jointed
+			28. joint-stock
+			29. hopjoint
+			30. double-jointed
+			31. disjoint
+			32. conjoints
+			33. conjoint
+			34. abjoint
+	10. adjoin
 		1.  [border](dic://border), [edge](dic://edge), [abut](dic://abut), [march](dic://march), [butt](dic://butt), [butt against](dic://butt against), [butt on](dic://butt on)
 		2. [touch](dic://touch), [meet](dic://meet), [contact](dic://contact)
 		3. _v._ [touch](dic://touch), [meet](dic://meet), [contact](dic://contact), [add](dic://add)
 		4. **adjacent**邻近的，毗连的;**enclose**围绕;**likewise**也;**furnish**供应;
 		5. A pantry adjoins the kitchen. /食品储藏室与厨房毗连
 		6. the gates are flush with the adjoining fencing /大门与边上的围栏一样高。
-	12. conjoin
+		7. adjoining
+		8. adjoiner
+	11. conjoin
 		1. _vt. & vi._ 结合, 联合
 		2. [marry](dic://marry), [get married](dic://get married), [wed](dic://wed), [hook up with](dic://hook up with), [get hitched with](dic://get hitched with), [espouse](dic://espouse)
 		3. _v._ [connect](dic://connect), [link](dic://link), [tie](dic://tie), [link up](dic://link up), [unite](dic://unite), [unify](dic://unify)
 		4. **unite**使…混合;**intersect**)相交;**combine**使联合，使结合;**converge**集中于一点;**dissimilar**不同的;**necessitate**使…成为必要, 需要;**unify**统一;**merge**合并;**detach**分离;**merges**合并;**likewise**也;
 		5. an approach which conjoins theory and method. /结合了理论和方法的态度。
 		6. Conjoined twin baby boys in Syria have been evacuated from a rebel stronghold to a Children's hospital in Damascus. /叙利亚连体男婴已从反对派阵地转移到大马士革儿童医院
-	14. disjoin
+		7. conjoined
+	12. disjoin
 		1. [disjoint](dic://disjoint)
 		2. _v._ [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide), [part](dic://part)
 		3. _n._ [join](dic://join), [bring together](dic://bring together), [conjoin](dic://conjoin)
@@ -333,7 +376,7 @@
 			8. disjointed sentences. /不连贯的句子
 			9. the loss of the area disjointed military plans. /该地区的沦陷打乱了军事计划。
 			10. To make things more confusing, Benjy's narration is disjointed in time, slipping between past and present without warning. /为了让事情更加混乱，本吉的叙述在时间上是支离破碎的，毫无预警地在过去和现在之间切换。
-	16. enjoin
+	13. enjoin
 		1. 1 - en-,进入，使，join,连接。字面意思即参与，施加影响，进一步指责令，嘱咐。参照 interdict.
 		2. [order](dic://order), [tell](dic://tell), [say](dic://say)
 		3. _v._ [forbid](dic://forbid), [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow), [request](dic://request)
@@ -346,19 +389,19 @@
 		10. the code enjoined members to trade fairly /章程要求所有成员进行公平贸易。
 		11. the charitable deeds enjoined on him by religion /宗教要求他进行的善行。
 		12. Don't mention it, ' he enjoined me eagerly. /" 没有关系，" 他恳切地嘱咐我。
-	17. rejoin
+	14. rejoin
 		1.  [retort](dic://retort), [come back](dic://come back), [repay](dic://repay), [return](dic://return), [riposte](dic://riposte)
 		2. _v._ [join](dic://join), [fall in](dic://fall in), [get together](dic://get together), [answer](dic://answer), [reply](dic://reply), [respond](dic://respond)
 		3. **join**参加;**reunite**使再结合;**re-enter**再次进入或加入中;**reunited**重聚;**abandon**离弃;**leave**离开;**regroup**重新组合;**return**返回;**departed**过去的;**joining**连接,接缝,连接物;**leaving**离开;
 		4. _[rejoining](dic://rejoining)_  n. 再连接；团聚; v. 使再连接；再加入（rejoin的ing形式）;
 		5. The same day it rejoined the world health organization /就在同一天，它重新加入了世界卫生组织。
 		6. Essentially as an invitation for their spirits to rejoin the living. /本质上是邀请他们的灵魂回到活人身边。
-	18. subjoin
+	15. subjoin
 		1. - vt. 增补；附加
 		2. _v._ [append](dic://append), [tag on](dic://tag on), [tack on](dic://tack on), [tack](dic://tack), [hang on](dic://hang on)
 		3. **preface**前言;**doubtless**无疑地, 肯定地;**furnish**供应;**aforesaid**上述的;**omit**省略;**viz**即;**particulars**事实;**enclose**围绕;
 		4.  The ceremony is quite broken off, " subjoined the voice behind us /“仪式完全中断了，”我们身后的声音附和道。
-	20. conjugate
+	16. conjugate
 		1. v. 结合, 配合, 使成对, 结亲  
 		2. a. 结合的, 成对的; 同根变形的  n. 同根变形词
 		3. In English“to have ” conjugates irregularly. /英语中“to have”变化不规则。
@@ -367,7 +410,15 @@
 		6. You don't need to conjugate the verb. /你不需要改变动词的形式。
 		7. conjugal
 			1. con-共同 + jug-轭 + -al形容词后缀 → 共同在轭下 → 共同承担夫妻责任。
-	22. subjugate (capitulate)
+		8. microconjugate
+		9. homoconjugate
+		10. heteroconjugate
+		11. glycoconjugate
+		12. equiconjugate
+		13. conjugative
+		14. conjugation
+		15. biconjugate
+	17. subjugate (capitulate)
 		2. subjugate（征服）：强迫俘虏从矛轭下走过  
 		3. 在古罗马时期，在战场上被俘的俘虏会受到一种特别的处置：获胜军队的士兵将两只长矛交叉搭成一个轭，强迫战俘们低下头，从矛轭下通过。这种仪式象征着获胜者对战俘的征服。英语单词subjugate就源自这种做法。它来自拉丁语subjugatus，是动词subjugare的过去分词形式，词干由sub（下面）+jug（结合、轭），字面意思就是“在轭的下面”，即强迫战俘从矛轭的下面通过。习语pass under the yoke（从矛轭下面通过）就是“低头认输”的意思。  
 			1. subjugate：['sʌbdʒuɡet] vt. 征服；使服从；克制  
@@ -378,7 +429,7 @@
 		5. **subdue**征服;**conquer**战胜，征服;**liberate**解放;**humiliate**蒙羞;**destroy**毁坏;**invade**侵略;**subvert**推翻;**dominate**支配;**overthrow**打倒;**intimidate**恐吓, 威胁;**suppress**抑制;
 		6. Imperialism has not been able to subjugate China. /帝国主义不能征服中国。
 		7. the new ruler firmly subjugated the Church to the state. /新统治者果断地使教会从属于国家。
-	23. jostle
+	18. jostle
 		1. 1 - 来自 joust,推挤，打斗，-le,表反复。引申词义竞争，争夺。拼写比较 claim,clamor.
 		2. _n._ [shove](dic://shove)
 		3. _v._ [make](dic://make), [work](dic://work), [push](dic://push), [force](dic://force)
@@ -387,20 +438,20 @@
 		6. photographs to jostle the mind and the funny bone /搅扰心智和触发幽默感的照片。
 		7. a jumble of images jostled for attention. /纷乱的图像令人目不暇接。
 		8. jostled my way through the mob. /从人群中挤过去
-	24. joust
+	19. joust
 		1. joust [dʒaʊst] n. 竞技；厮打，vi. 进行马上长矛比武；竞争。 jousting长枪比武大赛是两名骑士之间的武术竞技，在中世纪最为兴盛。参赛的骑士主要用长枪攻击疾驰过来的对手，把对方打下马的骑士为胜利者。来自拉丁词根jug-,juxta-,junct-，表to join together，双方come together时才能互相攻击。
 		2. _n._ [struggle](dic://struggle), [battle](dic://battle)
 		3. _v._ [contend](dic://contend), [fight](dic://fight), [struggle](dic://struggle)
 		4. **duel**决斗;**knights**骑兵，骑士;**knight**骑士，武士;**sparring**拳击;**battle**战役;**duke**公爵，君主;**sword**刀，剑;**skirmish**小冲突，小规模战斗;**brawl**争吵;**swords**宝剑;**head-to-head**肉搏战,白刃战;
 		5. _[jousting](dic://jousting)_  v. 马上长枪比武；参加比赛（joust的现在分词）; n. 竞争；比赛;
 		6. a politician who relishes a joust with reporters. /喜欢和记者过不去的政治家
-	25. junta
+	20. junta
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **dictatorship**独裁;**dictator**独裁者;**coup**政变;**regime**政权，政体;**authoritarian**权力主义的,专制的;**Mugabe**穆加比;**government**政府;**military**军事的;**Burma**缅甸;**Burmese**缅甸的;**Myanmar**缅甸;
 		3. _[military junta](dic://military%20junta)_  军事执政团
 		4. _[military junta of salvation](dic://military%20junta%20of%20salvation)_ 军人救国委员会
 		5. the ruling junta; ruling circles of the government. /执政的军人集团；政府的执政人员
-	26. junto
+	21. junto
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **que**阙;**con**欺骗，哄骗;
 		3. [cabal](dic://cabal), [faction](dic://faction), [camarilla](dic://camarilla)

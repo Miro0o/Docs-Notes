@@ -2596,59 +2596,275 @@
 		3.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 
 
-### ⭐ + \*(s)mer- +
+### + \*(s)mer- +
 1. **mer-,mero-,-mere** = part, 表示“部分，分配”，并由分配引申为“奖励”。源自希腊语 méros "part."
-	1. centromere
-	2. metamere
-	3. dimer
-	4. dimerous
-	5. emeritus
-	6. isomer
-	7. meristem
-	8. merit
-	9. meroblast
-	10. merohedral
-	11. metamer
-	12. metamerism
-	13. monomer
-	14. polymer
-	15. telomerase
-	16. etc..
+	1. emeritus
+	2. merit
+		1. meritorious
+			1. adj. 有功的，值得赞扬的；<美>（诉讼，要求）可能成功的
+			2. _adj._ [worthy](dic://worthy)
+			3. _n._ [unworthy](dic://unworthy)
+			4. **merit**优点，价值;**deserving**值得的;**honorable**可敬的,荣誉的,光荣的;**commendable**值得表扬的;**selfless**无私的;**honourable**诚实的, 正直的;**awarded**已获得;**distinguished**卓越的;**worthy**有价值的;**exemplary**杰出的;**award**授予;
+			5. _[Meritorious Winners](dic://Meritorious%20Winners)_ 一等奖；国际一等奖
+			6. _[Reward Meritorious](dic://Reward%20Meritorious)_ 犒赏有功之臣
+			7. _[meritorious works](dic://meritorious%20works)_ 善功; 善工; 
+			8. _[Meritorious Newcomer](dic://Meritorious%20Newcomer)_ 优秀新人奖
+			9. He wrote a meritorious theme about his visit to the cotton mill. /他写了一篇关于参观棉纺织厂的有价值的论文。
+			10. He was praised for his meritorious service. /他由于出色地工作而受到称赞。
+			11. These scholarships are awarded to meritorious students regardless of their backgrounds. /这些奖学金颁给成绩优异的学生，不论他们的背景为何。
+			12. I know only one way in which I could have played a meritorious part as an active citizen — by becoming a schoolmaster in some little country town, and teaching half a dozen teachable boys to love study for its own sake. /我只知道一种方法可以让我作为一名积极的公民发挥功绩——成为某个乡村小镇的校长， 并教导半打可教的男孩为了学习而热爱学习。
+			13. 
+		2. meritocracy
+		3. merited
+			1. v. 值得，应受（merit 的过去式及过去分词） 
+			2. adj. 应得的；理所当然的
+			3. [deserved](dic://deserved)
+			4. _adj._ [condign](dic://condign)
+			5. _n._ [unmerited](dic://unmerited)
+			6. **deserved**应得的;**deserving**值得的;**worthy**有价值的;**warranted**担保的;**justified**有正当理由的，合理的;**deserve**应受，应得;**well-deserved**罪有应得的;**noteworthy**值得注意的;**praise**赞扬;**justifiable**可证明为正当的;**unworthy**不值得的;
+			7. He merited all the praise which had been given to him. /他理应受到人们给他的一切称赞。
+			8. It was the big reveal after two years of suspense, now with a story that merited Walter Pater's hyperbole. /消失了两年后，现在她的故事很能呼应沃尔特‧佩特对其夸张的叙述。
+			9. The case was different when President Eliot himself hinted that Adams's services merited recognition /当艾略特总统本人暗示亚当斯的服务值得认可时，情况就不同了。
+			10. Her honest ostentatious nature made the sharing of a merited dishonor as bitter as it could be to any mortal /她诚实而爱炫耀的本性使分担应有的耻辱对任何凡人来说都是痛苦的。
+			11. For all the pretence of due legal process and distaste at Ms Yingluck's nepotism, this was not an offence that merited the ousting of a prime minister. /所有对于相应法定程序的托词以及英拉裙带关系的愤恨都不足以成为剥夺一国总理的理由。
+		4. unmerited
+			1. adj. 无功受禄的；不当的；不应受的
+			2. _adj._ [gratuitous](dic://gratuitous), [undeserved](dic://undeserved), [unworthy](dic://unworthy)
+			3. _n._ [merited](dic://merited), [deserved](dic://deserved), [worthy](dic://worthy)
+			4. **unwarranted**没有根据的, 无正当理由的;**unjustified**不公正的;**unworthy**不值得的;**grace**优雅;**gratuitous**不必要的, 未要求的;**unearned**非劳动所得的;**unjust**不公平的，不公正的;**unfair**不公平的，不公正的;**unjustly**不义地;**undue**过度的，过分的;**unqualified**不
+			5. But incredible and unmerited luck was with the three of us. /但是我们三个人都得到了难以置信的好运。
+			6. The appellation was not flattering, but not unmerited. /这个称呼并不讨人喜欢， 但也并非没有资格。
+			7. God passes out grace, his unmerited grace /神赐下恩典，他不配得的恩典。
+			8. Young Robinson was quite ashamed at the thought of this unmerited kindness, and heartily repented of his behavior. Philip went home quite satisfied. /小罗宾逊想到这份好意时感到非常惭愧，发自内心地对自己的行为表示后悔。菲利普心里非常满足地回到家。
+		5. demerit
+			1. n. 缺点，短处；过失
+			2.  [fault](dic://fault)
+			3. _n._ [mark](dic://mark), [stigma](dic://stigma), [brand](dic://brand), [stain](dic://stain), [worth](dic://worth)
+			4. _n._ [merit](dic://merit), [virtue](dic://virtue)
+			5. **merit**优点，价值;**points**点;**penalty**处罚;**transgression**犯罪;**fines**细骨料;
+			6. In the final analysis, the merits of the exam system outweigh its demerits. /最后，考试的好处要多余它的坏处。
+			7. By these days it was a demerit to be muscular /到这个时代，肌肉发达乃是个缺陷。
+			8. The young man was relieved from the awkwardness of making any further protestations of his own demerits, by an exclamation from Chingachgook, and the attitude of riveted attention assumed by his son /Chingachgook 的一声惊呼，以及他儿子所表现出的全神贯注的态度，让这个年轻人不再为自己的过失做出任何进一步的抗议而感到尴尬。
+	3. meretricious (tawdry)
+		7. meretricious [,merɪ'trɪʃəs] adj.俗气的；娼妓的；俗丽的。希腊神话中对应的命运三女神叫Moirai，词根moir-,mer-表分配；制定（份额）等。命运女神决定了我们活多少年。meretricious中的tric-部分，同aviatrix [,eɪvɪ'eɪtrɪks] n.女飞行员，中的-trix部分，表女性，娼妓靠媚俗赚钱（份额）。 ​​​​
+		8. 来自拉丁语 meretrix,妓女，来自3 mereri,挣钱，赚取自己应得的部分，来自 PIE*mer,smer,砍，切，分配，词源同 merit,polymer.-trix,表阴性，词源同 dominatrix.字面意思即赚钱的女人，用于委婉语指妓女。并由此引申多种贬义词义。最终词源可能同 market,mercy.
+		9. adj. 俗气的；娼妓的；华丽而庸俗的
+		10. _adj._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
+		11. _n._ [tasteful](dic://tasteful), [sincere](dic://sincere)
+		12. **crass**粗鲁的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**self-serving**自私的,自私自利的;**trashy**碎屑的;**banal**陈腐的;**disingenuous**不真诚的;**pernicious**很有害的;**pretentious**自命不凡的;**dishonest**不诚实的;**sordid**肮脏的;
+		13. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [trashy](dic://trashy)
+		14. meretricious relationships. /嫖娼关系
+		15. meretricious ornamentation /俗气的装饰
+		16. a meretricious yet stylish book; /俗不可耐但却时髦的书
+		17. meretricious souvenirs for the tourist trade. /没有真正价值的俗丽旅游纪念品。
+		18. longueurs and passages of meretricious vulgarity /乏味的段落和极其庸俗的章节
+		19. " I am your verdict." In office, his talent for zingers and impish charm soon seemed meretricious /“我是你的裁决。”在办公室里，他的活力和顽皮的魅力很快就显得很庸俗。
+		20. He was a son of God—a phrase which, if it means anything, means just that—and he must be about His Father's Business, the service of a vast, vulgar and meretricious beauty. /他是上帝的儿子——这个称号，如果有什么意义的话，就是字面的意思——因此他必须为他的天父效命，献身于一种博大、庸俗、华而不实的美。
+		21. If there is anything more degrading, immoral, unnatural, than another in my life, it is this meretricious contract with Arabella which has been called doing the right thing! /如果说我生命中还有比其他任何事情更可耻、更不道德、更不自然的事情， 那就是与阿拉贝拉签订的这份华而不实的合同， 这被称为做正确的事！
+	4. meristem
+		1. undifferentiated tissue from which new cells are formed, as at the tip of a stem or root
+		2. _n._ [plant tissue](dic://plant tissue)
+		3. **apical**顶上的, 顶点的;**bud**芽，萌芽;**elongation**延伸;**germination**萌芽,发生;**basal**基础的;**vegetative**植物生长的;**flowering**开花的;**apoptosis**细胞死;**ovary**子房;**photosynthesis**光合作用;**seedlings**幼苗;
+		4. _apical meristem_ [植]顶端分生组织
+		5. They also have lateral meristems that allow roots and stems to thicken as the plant grows. /它们也有侧面分生组织，使根和茎随着植物生长而变粗。
+		6. If the root needs to branch off, a new root with its own meristem busts out from the center of the old one, Alien-style. /如果根需要分支，一个带有自己分生组织的新根就会像外星来物一样从旧根的中心伸出来。
+		7. promeristem
+		8. mesomeristem
+		9. meristematic
+		10. eumeristem
+			1. - n. 真分生组织
+		11. antimeristem
+			1. n. 抗分生霉素
+	5. meroblast
+		13. _n._ 部分裂卵,不全裂卵
+	6. merohedral
+		1. [晶体] 缺面的
+	7. metamer
+		1. n. 条件等色；[有化] 位变异构体
+		2. metamerism
+			1. _n._ 位变异构,体节性
+	8. isomer
+		1. n. [化学] 同分异构物；[核] 同质异能素
+		2. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+		3. **metabolite**代谢物;**ester**酯;**methyl**甲基;**molecule**分子;**ligand**配合基;**amine**胺;**benzene**苯;**esters**酯类;**monomer**单体;**ethyl**乙烷基;**ligands**配体;
+		4. the trans isomer of stilbene. /反式芪异构体。
+		5. the cis isomer of stilbene. /顺式异构体芪。
+		6. But pentane, C5H12, has 3 possible isomers and C6H14, known as hexane, has 5 /但是戊烷 C5H12 有 3 种可能的异构体， 而称为己烷的 C6H14 有 5 种。
+		7. But if the parts are different, it's possible to have two totally different isomers of the same compound /但是，如果部分不同，则同一化合物可能有两种完全不同的异构体。
+		8. stereoisomer
+		9. photoisomer
+		10. mesoisomer
+		11. levoisomer
+		12. laevoisomer
+		13. isomery
+		14. isomerous
+		15. isomerize
+		16. isomerization
+		17. isomerism
+	9. monomer
+		1. n. 单体；单元结构
+		2. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+		3. **polymerization**聚合;**copolymer**共聚物;**polymer**聚合物;**polymers**聚合物;**polymeric**聚合的;**molecule**分子;**amine**胺;**polypeptide**多肽;**ethylene**乙烯;**ligand**配合基;**subunits**子单位;
+		4. The catalyst breaks down the waste into its two base monomers: DMT, dimethyl terephthalate, and MEG, monoethylene glycol. /DMT，也就是对苯二甲酸二甲酯，和 MEG，单乙二醇。
+		5. The monomers are simply added together and no by products are formed. /单体简单地加在一起， 没有副产物形成。
+	10. dimer
+		1. n. [有化]二聚物；二量体
+		2. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+		3. **monomer**单体;**ligand**配合基;**molecule**分子;**subunits**子单位;**subunit**亚组;**ligands**配体;**molecules**分子学;**peptide**肽;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**benzene**苯;**helix**螺旋;
+		4. photodimer
+		5. interdimers
+		6. homodimer
+		7. dimerize
+		8. dimerization
+		9. dimerisation
+		10. dimeric
+		11. codimer
+		12. allodimer
+		13. dimerous
+	11. polymer
+		1. poly-多，复，聚 + mer-部分。 poly-,多，复，聚，-mer,部分，词源同 merit,isomer,monomer.
+		2. n. [高分子]聚合物
+		3. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+		4. **polymeric**聚合的;**copolymer**共聚物;**thermoplastic**热后可塑性的;**monomer**单体;**resin**树脂;**polyethylene**聚乙烯;**polyurethane**聚亚安酯;**polymerization**聚合;**silicone**硅树脂;**polypropylene**聚丙烯;**polystyrene**聚苯乙烯;
+		5. _polymer science_ 高分子科学；高分子材料
+		6. _organic polymer_ 有机高分子；有机聚合物
+		7. _functional polymer_ 功能高分子；功能聚合物；官能高聚物
+		8. _polymer chemistry_ 高分子化学；聚合物化学
+		9. _crystalline polymer_ 晶体状聚合物；结晶聚合物
+		10. _polymer chain_ 高分子链；聚合物链
+		11. _polymer film_ 聚合物膜；高分子膜
+		12. _polymer blend_ 共混聚合物
+		13. _high polymer material_ 高分子材料
+		14. the ideal disposable polymer would depolymerize naturally. /理想的一次性聚合物会自然解聚。
+		15. the flexibility of the polymer chain allows extensive convolution. /聚合物链的柔韧性允许大幅度的弯曲。
+		16. The videodisc is made of liquid crystal polymers. /影碟是由液晶聚合物制成的。
+		17. Acetic acid ethenyl ester, polymer with ethene and ethenol; /乙烯与乙酸乙烯酯和乙烯醇的聚合物;
+		18. What we have is a polymer that essentially self heals. /我们拥有的是一种本质上可以自我修复的聚合物。
+		19. Both have three main components: solvents, pigments, and polymers. /溶剂、色素和聚合体。
+		20. Polymers are compounds that are basically chains of repeating sections. /聚合物是基本上是重复部分链的化合物。
+		21. It inspired David Solomon, a polymer chemist. /这点醒了高分子化学家大卫·所罗门。
+		22. thermopolymer
+			1. - n. 热聚合物
+		23. terpolymerization
+		24. terpolymer
+		25. superpolymer
+		26. spiropolymer
+		27. prepolymer
+		28. polymerize
+		29. polymerism
+		30. polymeride
+		31. polymerid
+		32. polymeric
+			1. adj. 聚合的；聚合体的
+			2. _adj._ [polymer](dic://polymer)
+			3. **polymer**聚合物;**polymers**聚合物;**thermoplastic**热后可塑性的;**polyethylene**聚乙烯;**copolymer**共聚物;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**polyurethane**聚亚安酯;**monomer**单体;**inorganic**无机的;**aqueous**水的，水般的;**porous**能渗透的;
+			4. _polymeric material_ 聚合材料；聚合物材料
+			5. _polymeric matrix_ 聚合物基体
+			6. The article introduces the determination and computing method of basicity of the polysalt like polymeric aluminum ferric-calcium magnesium salt flocculants. /本文介绍了多元盐如复合铝铁钙镁盐絮凝剂盐基度的测试及其计算方法。
+			7. Technically, Mariana's Web can only be accessed through an algorithm called polymericfalcighol derivation. /从技术上讲，Mariana 的 Web 只能通过称为聚合镰刀醇推导的算法访问。
+			8. Some plastic, from a soda bottle, fishing line or a plethora of other possible polymericsources, found itself near the fire and melted /瓶装苏达饮料，鱼线或者其它可能含有多聚物成分的塑料，被遗弃在篝火边之后融化掉。
+			9. Membranes have been around for a number of years, and they're based on polymericmaterials that separate based on size, or they can separate based on charge. /膜已经存在很多年了，它们基于根据尺寸分离的聚合材料， 或者它们可以根据电荷分离。
+		33. polymeria
+		34. polymera
+		35. photopolymer
+			1. - n. [高分子] 光聚合物，[高分子] 光敏聚合物；感光性树脂（尤用于印刷制版的）
+		36. nitropolymer
+			1. - n. 硝基聚合物
+		37. multipolymer
+		38. interpolymer
+			1. - n. [高分子] 互聚物
+		39. heteropolymer
+		40. electropolylmer
+		41. elastopolymer
+		42. dipolymer
+		43. depolymerize
+		44. copolymer
+		45. bipolymer
+		46. autopolymer
+		47. etc..
+	12. tetramer
+		4. _n._ 四聚物
+		5. tetramerous
+			1. adj. 四部分的
+	13. pentamer
+		1. pentamerous
+		2. adj. [植] 五基数的；[昆] 五跗节的；由五个部分组成的
+		3. _adj._ [divided](dic://divided)
+		4. _n._ [united](dic://united)
+		5. **symmetrical**对称的;**axial**轴的;**petals**花瓣;**fleshy**肉的;**symmetric**相称性的,均衡的;**genera**种;**lobes**耳垂;
+	14. heptamer
+		1. n. 七聚物
+	15. dendrimers
+		1. 树枝状大分子
+	16. telomerase
+		1. telo-终端 + mere-部分
+		2. n. 端粒酶（核糖体蛋白酶）
+		3. _n._ [enzyme](dic://enzyme)
+		4. **enzyme**酶;**polymerase**聚合酶;**apoptosis**细胞死;**RNA**核糖核酸;**enzymes**酶类，酵素;**overexpression**超表达;**glutathione**谷胱甘肽;**methylation**甲基化作用;**gene**基因，遗传因子;**enzymatic**酶的;**cytotoxic**细胞毒素的;
+		5. So it was thanks to their plentiful telomerase that our pond scum critters never got old. /因此， 正是由于它们丰富的端粒酶，我们的池塘浮渣生物才不会变老。
+		6. But when we analyze the cells chemically we find something very interesting, a chemical in them, an enzyme called telomerase./但是当我们对细胞进行化学分析时， 我们发现了一些非常有趣的东西，它们中的一种化学物质， 一种叫做端粒酶的酶。
+	17. centromere
+		1. centro-中心 + mere
+		2. n. 着丝点, 着丝粒
+		3. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
+		4. **chromosome**染色体;**chromosomal**染色体的;**chromatin**核染质;**cytoplasmic**细胞质的;**histone**组蛋白;**cytoplasm**细胞质;**loci**地点;**methylation**甲基化作用;**recombination**再结合;**nuclei**核心，核子;**homologous**相应的;
+	18. metamere
+		1. n. 体节（等于 metamer）
 
 
 ### + \*mer- +
 #### + \*mer- (2) + = to die, to rub away, harm
 1. **mar-** = wither, 表示“枯萎”。源自希腊语 marainein "to waste away, wither."
 	1. amaranth
-	2. marasmic
-	3. marasmus
-	4. marasmatic
+		1. n. 紫红色；不凋花；苋属植物
+		2. _n._ [grain](dic://grain), [caryopsis](dic://caryopsis), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+		3. **quinoa**藜麦;**buckwheat**荞麦;**barley**大麦;**sunflower**向日葵;**millet**粟;**maize**黄色的，玉米色的;**lentils**扁豆;**legumes**豆类;**wheat**小麦;**oat**燕麦;**rice**稻;
+		4. Annuals that are good for cutting include cosmos, globe amaranth, larkspur, and Queen Anne's lace. /适合剪下来的一年生植物包括大波斯菊、千日红、千鸟草和野胡萝卜花。
+		5. Ancient grains like quinoa and amaranth are gracing our tables again. /藜麦和苋菜等古老谷物再次出现在我们的餐桌上。
+		6. Morris Mutunga grows vegetables like kale, spinach and amaranth on his farm in the Athi River area /莫里斯·穆通加在他位于阿西河地区的农场种植羽衣甘蓝、菠菜和苋菜等蔬菜。
+		7. But if some folks amaranth like the wind from the tumbleweed takeover, planting the plant themselves or somewhere else, you can see why it's certainly no desert rose. /但是，如果有些人像风一样，从杂草丛生的杂草中，把他们自己扎根在杂草里或者其他地方，你就能明白为什么没有沙漠玫瑰了。
+	3. marasmic
+		1. - adj. 衰弱的
+	4. marasmus
+		1. n. 消瘦, 消耗
+		2. _n._ [malnutrition](dic://malnutrition)
+		3. **malnutrition**营养失调，营养不良;**starvation**挨饿, 饥饿;**anemia**贫血;**atrophy**萎缩，萎缩症;**anorexia**厌食;**insufficiency**不充足,不足;**dehydration**脱水;**diarrhea**腹泻，痢疾;**tuberculosis**肺结核;**constipation**便秘;**edema**瘤腺体;
+	5. marasmatic
 2. **mor-, morb-** = disease, 表示“病”。源自拉丁语 morbus "disease."
 	1. morbid
-		1. ghoulish
-		2. [diseased](dic://diseased), [pathologic](dic://pathologic), [pathological](dic://pathological)
-		3. [unwholesome](dic://unwholesome), [offensive](dic://offensive), [unhealthy](dic://unhealthy)
-		4. **macabre**可怕的;**gruesome**可怕的;**melancholy**忧郁, 悲哀;**grotesque**奇形怪状的;**creepy**令人毛骨悚然的;**demented**发狂的，疯狂的;**ghastly**可怕的;**perverse**任性的,固执的;**depressing**令人沮丧的;**grim**冷酷的;**horrifying**令人恐惧的,使人惊骇的;
-		5. premorbid
-		6. morbidostatic
-		7. morbidness
-		8. morbidly
-		9. morbidity
-		10. comorbid
-	2. morbific
+		1. adj. 由病引起的；病态的；恐怖的；病变部位的
+		2. ghoulish
+		3. [diseased](dic://diseased), [pathologic](dic://pathologic), [pathological](dic://pathological)
+		4. [unwholesome](dic://unwholesome), [offensive](dic://offensive), [unhealthy](dic://unhealthy)
+		5. **macabre**可怕的;**gruesome**可怕的;**melancholy**忧郁, 悲哀;**grotesque**奇形怪状的;**creepy**令人毛骨悚然的;**demented**发狂的，疯狂的;**ghastly**可怕的;**perverse**任性的,固执的;**depressing**令人沮丧的;**grim**冷酷的;**horrifying**令人恐惧的,使人惊骇的;
+		6. _morbid obesity_ 病态肥胖
+		7. the treatment of morbid obesity. /病态肥胖的治疗。
+		8. imaginings of a morbid strain. /一种病态的设想
+		9. he had long held a morbid fascination with the horrors of contemporary warfare. /他长时间一直对当代战争的恐怖有一种病态的专注。
+		10. It’s morbid to dwell on cemeteries and such like /不厌其烦地谈论墓地以及诸如此类的事是一种病态。
+		11. " No, that's too morbid. It should be pink." /" 不，那个太恐怖了，还是要粉红。"
+		12. Dr. Koothrappali, I'm not... I love this country! The-the baseball, the freedom, the rampant morbid obesity! /库萨帕里博士 我不是来... 我爱这个国家 这里有棒球、自由和一大堆病态的肥胖人士！
+		13. premorbid
+		14. morbidostatic
+		15. morbidness
+		16. morbidly
+		17. morbidity
+		18. comorbid
+	3. morbific
 		1. **pathogenic**引起疾病的;**organism**有机体;**diseases**病害;**infectious**传染的;**malignant**有恶意的;**deleterious**有害的;**pernicious**很有害的;**ailment**小病;**bacterium**细菌;**infection**传染;**parasites**寄生生物;
 		2. morbifical
 		3. antimorbific
-	3. morbili, morbiliform
+	4. morbili, morbiliform
 		1. [measles](dic://measles), [rubeola](dic://rubeola)
 		2. **smallpox**天花;**vaccination**种痘;**polio**脊髓灰质炎;**influenza**流行性感冒;**vaccine**疫苗;**flu**流感;**meningitis**脑膜炎;**malaria**疟疾;**vaccines**疫苗;**cholera**霍乱;**dengue**登革热;
-	4. lactimorbus
-	5. morbigenous
+	5. lactimorbus
+	6. morbigenous
 3. **mord-, mors-** = bite, 表示“咬”。源自拉丁语 mordere "to bite."
 	1. remorse
-		1. **guilt**内疚;**regret**遗憾;**regrets**后悔;**sorrow**悲伤;**anguish**苦闷;**sympathy**同情;**sadness**悲哀;**empathy**移情作用;**anger**怒，愤怒;**disgust**厌恶，嫌恶;**betrayal**背叛;
-		2. [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
-		3. [compunction](dic://compunction), [self-reproach](dic://self-reproach)
+		1. re-,向后，往回，mors-,咬，词源同 mordant,morsel.比喻用法。
+		2. **guilt**内疚;**regret**遗憾;**regrets**后悔;**sorrow**悲伤;**anguish**苦闷;**sympathy**同情;**sadness**悲哀;**empathy**移情作用;**anger**怒，愤怒;**disgust**厌恶，嫌恶;**betrayal**背叛;
+		3. [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
+		4. [compunction](dic://compunction), [self-reproach](dic://self-reproach)
 			1. _[without remorse](dic://without%20remorse)_  毫不后悔地; 不间断地; 无情地; 冷血悍将（电影名，Without Remorse）; 
 			2. _[remorse and reform](dic://remorse%20and%20reform)_  改过自新
 		5. remorseless
@@ -2656,28 +2872,30 @@
 			1. **remorse**懊悔, 悔恨, 自责;**distraught**心烦意乱;**heartbroken**悲伤的;**wronged**被委屈的;**disgusted**厌恶的;**angry**生气的;**apologized**道歉的;**guilty**有罪的;**embarrassed**尴尬的;**apologetic**道歉的;**betrayed**出卖，背叛;
 			2. [penitent](dic://penitent), [repentant](dic://repentant)
 			3. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
-	2. mordacious, mordacity
+	3. mordacious, mordacity
 		1. [sarcastic](dic://sarcastic), [dangerous](dic://dangerous), [unsafe](dic://unsafe)
 		2. [unsarcastic](dic://unsarcastic), [safe](dic://safe)
-	3. mordancy, mordant
+	4. mordancy, mordant
 		4. [coloring material](dic://coloring material), [colouring material](dic://colouring material), [color](dic://color), [colour](dic://colour)
 		5. [sarcastic](dic://sarcastic), [destructive](dic://destructive)
 		6. [black](dic://black), [grim](dic://grim)
 		7. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
 		8. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
-	4. morsel
-		1. [bit](dic://bit), [bite](dic://bite)
-		2. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
-		3. **nibble**细咬;**mouthful**一口，满口;**spoonful**一匙;**nugget**天然金块，矿块;**devour**毁灭;**bite**咬;**delectable**令人愉快的;**savor**使有风味;**tidbit**小栏报导;**sliver**裂片;**chew**咀嚼;
-	5. muzzle (nozzle )
-		1. [gun muzzle](dic://gun muzzle)
-		2. [gag](dic://gag)
-		3. [opening](dic://opening), [face](dic://face), [restraint](dic://restraint), [constraint](dic://constraint)
-		4. [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit), [hush](dic://hush), [quieten](dic://quieten), [silence](dic://silence)
-		5. **recoil**畏缩, 退缩;**snout**鼻子;**pistol**手枪;**gun**枪;**rifle**步枪;**barrel**桶;**tail**尾部;**nose**鼻子;**projectile**发射体;**paw**抓，扒;**firearm**枪炮;
-		6. unmuzzle
-		7. muzzle-loader
-	6. smart
+	5. morsel
+		1. morsel ['mɔːs(ə)l] n.一口；（食物）少量。拉丁词根mord-,mors-表示咬，后缀-el指小，所以morsel就是你能一口（量少）吞下（咬）的食物。类似逻辑，单词bit [bɪt] n.比特；少量；马嚼子；一点，adj.很小的，adv.有点儿，与bite咬和bait诱饵等日耳曼词源单词有关。一口咬下去，差不多都是那个量。 ​​​​
+		2. [bit](dic://bit), [bite](dic://bite)
+		3. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
+		4. **nibble**细咬;**mouthful**一口，满口;**spoonful**一匙;**nugget**天然金块，矿块;**devour**毁灭;**bite**咬;**delectable**令人愉快的;**savor**使有风味;**tidbit**小栏报导;**sliver**裂片;**chew**咀嚼;
+	7. muzzle (nozzle )
+		1. 来自古法语 musel,口鼻，猪鼻，狗鼻，可能来自拉丁语 morsus,咬，词源同 mordant,morsel.引申词义给狗，马等动物带的口套，以及枪口等。
+		2. [gun muzzle](dic://gun muzzle)
+		3. [gag](dic://gag)
+		4. [opening](dic://opening), [face](dic://face), [restraint](dic://restraint), [constraint](dic://constraint)
+		5. [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit), [hush](dic://hush), [quieten](dic://quieten), [silence](dic://silence)
+		6. **recoil**畏缩, 退缩;**snout**鼻子;**pistol**手枪;**gun**枪;**rifle**步枪;**barrel**桶;**tail**尾部;**nose**鼻子;**projectile**发射体;**paw**抓，扒;**firearm**枪炮;
+		7. unmuzzle
+		8. muzzle-loader
+	9. smart
 		1. adj. 聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的 
 		2. v. （身体部位）感到刺痛；（因批评、失败等）难过，烦恼
 		3. n. 剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）
@@ -2719,45 +2937,204 @@
 		31. smart-aleck
 		32. smart-alec
 		33. outsmart
-	8. smirch, besmirch
+	10. smirch (smirk)
+		1. 原意表示“折磨”，s-=ex- + mirch=mord-咬 → 折磨 → 弄脏。
+		2. vt. 沾污, 弄脏  
+		3. n. 脏污, 污点
+		4.  [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [slur](dic://slur)
+		5.  [blot](dic://blot), [smear](dic://smear), [spot](dic://spot), [stain](dic://stain)
+		7. besmirch
+		8. [defame](dic://defame), [slander](dic://slander), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear), [sully](dic://sully), [besmirch](dic://besmirch)
+		9. _n._ [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar), [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
+		10. _v._ [smear](dic://smear), [charge](dic://charge), [accuse](dic://accuse)
+		11. **stain**沾污;**tarnish**晦暗;**countenance**面容，表情;**smear**涂抹;**reproach**责备;**betray**背叛;**mar**损伤;
+		12. _[smirch phenomenon](dic://smirch%20phenomenon)_ 污斑现象
+		13. the window was smirched by heat and smoke. /窗户被热气和烟雾弄脏了。
+		14. hostile faces smirched by the grime and rust /敌视、沾满污垢和铁锈的脸
+		15. My own career's just one long brazen smirch of 'em! /我自己的职业生涯只是对她们的长期厚颜无耻的污蔑！
+		16. The worst scandals of the eighteenth century were relatively harmless by the side of this, which smirched executive, judiciary, banks, corporate systems, professions, and people, all the great active forces of society, in one dirty cesspool of vulgar corruption /18 世纪最严重的丑闻与此相比相对无害， 它使行政部门、司法部门、银行、公司系统、专业人士和人民， 所有社会上的积极力量， 都陷入了低俗腐败的肮脏污水池中。
 4. **mort-** = death, 表示“死”。源自拉丁语 mors (词干 mort-) "death."
 	1. mort
+		1. n. 通知猎物已死的号角声, 很多, 许多
 	2. mortal
-		1. premortal, postmortal, mortally, mortality
+		1. mor-（死亡）：死神墨尔斯  
+		2. 在罗马神话中，死神叫做墨尓斯（Mors），对应于希腊神话中的桑纳托斯。在西方文化中，墨尓斯常被描绘为身着黑色长袍，手持长柄镰刀的阴森老人。墨尓斯的名字Mors在拉丁语中就是“死亡”的意思，英语中表示“死亡”的词根mor-/mort-就来源于此。  
+		3. mor-/mort-：死亡  
+		4. mortal：['mɔːt(ə)l] adj.凡人的，致死的，总有一死的n.人类，凡人  
+		5. mortality：[mɔː'tælɪtɪ] n.死亡数，死亡率，必死性  
+		6. immortal：[ɪ'mɔːt(ə)l] adj.不朽的，长生不死的，神仙的n.神仙，不朽人物  
+		7. immortality： [,ɪmɔr'tæləti] n. 不朽；不朽的声名；不灭  
+		8. morbid：['mɔrbɪd] adj. 病态的；由病引起的；恐怖的；病变部位的  
+		9. moribund：['mɒrɪbʌnd] adj.垂死的，停滞不前的n.垂死的人  
+		10. mortician：[mɔː'tɪʃ(ə)n] n.殡葬业者，丧事承办人  
+		11. mortuary：['mɔːtjʊərɪ; -tʃʊ-] n.太平间adj.死的，悲哀的  
+		12. mortify： ['mɔrtɪfaɪ] vt. 抑制；苦修；使…感屈辱vi. 禁欲；苦行；约束  
+		13. premortal, postmortal
+		14. mortally
+		15. mortality
 			1. overmortality
 			2. natimortality
-		2. immortal
+		16. immortal
 			1. immortally
 			2. immortalize
 			3. immortality
 			4. immortalise, immortalisation
-		3. immortelle
-		4. mortician
-		5. mortify
+		17. immortelle
+		18. mortician
+		19. mortify
 			1. mortifying
 			2. mortification
-		6. mortise, mortiser
-	3. mortuary, morgue
-	4. moribund
-	5. mortgage, amortize
-		1. unmortgaged, submortgage, mortgager, mortgagee
-		2. unamortized, amortizement, amortization
-	6. antemortem, postmortem
+		20. mortise, mortiser
+	3. morgue
+		1. n. 陈尸所；资料室，资料档案
+		2. [mortuary](dic://mortuary), [dead room](dic://dead room)
+		3. _n._ [building](dic://building), [edifice](dic://edifice)
+		4. **corpse**尸体;**coroner**验尸官;**corpses**尸体;**hospital**医院;**autopsy**验尸;**cemetery**墓地;**coffin**棺材;**graveyard**墓地,坟场;**casket**匣子;**dead**无生命的;**mausoleum**陵墓;
+		5. _[hospital morgue](dic://hospital%20morgue)_ 医院停尸间
+		6. _[mortuary morgue](dic://mortuary%20morgue)_ 医院中停放尸体的房间
+		7. _[makeshift morgue](dic://makeshift%20morgue)_ 临时停尸间；姑且停尸间
+		8. And outside the morgue, there is a decorated car waiting. /太平间外候着一辆花车。
+	5. mortuary
+		1. n. 太平间；停尸间
+		2. adj. 死的；悲哀的
+		3. [morgue](dic://morgue), [dead room](dic://dead room)
+		4. _n._ [building](dic://building), [edifice](dic://edifice)
+		5. _adj._ [death](dic://death), [funeral](dic://funeral)
+		6. **burial**埋葬;**funeral**葬礼;**casket**匣子;**cremation**火化;**cemetery**墓地;**coffin**棺材;**corpse**尸体;**mausoleum**陵墓;**graveyard**墓地,坟场;**tomb**坟墓;**funerals**丧葬;
+		7. _[mortuary refrigerator](dic://mortuary%20refrigerator)_ 太平冰箱
+		8. _[mortuary practices](dic://mortuary%20practices)_ 墓葬制度
+		9. _[mortuary morgue](dic://mortuary%20morgue)_ 医院中停放尸体的房间
+		10. _[Mortuary practice](dic://Mortuary%20practice)_ 殡葬事宜
+		11. _[mortuary lift](dic://mortuary%20lift)_ 殡仪馆电梯
+		12. _[public mortuary](dic://public%20mortuary)_ 公众殓房
+		13. corpses laid out on cold mortuary slabs /放在冰冷的停尸桌上的尸体
+		14. He spent a week at a funeral home researching mortuary procedures for his new novel /他在一个举行葬礼的家庭中呆了二星期以对他的新小说中的丧葬程序进行研究这个句子，
+		15. Later, his body was taken to the mortuary in a procession. /不久，巴里奥的尸体被运往太平间。
+		16. After the pastel-coloured 1980s, it seemed to smack of the mortuary or the operating theatre. /跟在柔和色彩占主流的20世纪80年代之后，这里似乎有点像太平间或手术室。
+		17. Sorry, got to dash. I think I left my riding crop in the mortuary. /抱歉，赶时间。我大概把马鞭忘在停尸间了。
+		18. Of course, Hatshepsut's masterpiece was her mortuary temple, the Djeser-Djeseru or " Holy of Holies." /当然，哈特谢普苏特的杰作是她的“祭庙”、“哈特谢普苏特神庙”或“至圣所”。
+	6. moribund
+		1. [stagnant](dic://stagnant)
+		2. _adj._ [undynamic](dic://undynamic), [adynamic](dic://adynamic), [dying](dic://dying)
+		3. _n._ [dynamic](dic://dynamic), [dynamical](dic://dynamical), [nascent](dic://nascent)
+		4. **stagnant**停滞的;**revive**苏醒;**ailing**生病的，身体不舒服的;**revived**复活的，再生的;**beleaguered**饱受批评的;**nascent**初期的;**defunct**死的;**lifeless**无生命的;**resurrect**使复活;**feeble**微弱的，无力的;**dead**无生命的;
+		5. the moribund commercial property market. /凋敝的商用房地产交易市场。
+		6. moribund customs; a moribund way of life /过时的风俗；过时的生活方式
+		7. The moribund Post Office Advisory Board was replaced. /这个不起作用的邮局顾问委员会已被替换。
+		8. The moribund economy emerged from recession. /奄奄一息的经济从衰退中复苏。
+		9. All these moribund sexagenarians had the appearance of childish girls. /所有这些六十多岁的垂死的人都有着青春少女的容貌。
+		10. They say a Biden victory could restart the moribund israeli-palestinian peace process /他们说拜登的胜利可以重启死气沉沉的巴以和平进程。
+		11. If a dynamic manufacturing sector was offset by a moribund services sector, a country could grow modestly overall, but still become more expensive /如果充满活力的制造业被停滞的服务业所抵消，一个国家的整体增长可能会温和，但成本仍然会更高。
+		12. Frustrated by the moribund Doha round of trade liberalisation, which has been stuck in a cul-de-sac since 2008, the world's rich economies have gone their own way. /2008年至今，多哈回合关于贸易自由化的谈判一直处于僵化状态。对此，失望的发达经济体决定自己开辟出新的道路。
+	7. mortgage
+		1.  mortgage（抵押贷款）：以父亲遗产为担保的贷款  
+			2. 在古代西方，家庭中的长子在法律上拥有继承父亲遗产的权利。如果长子需要一大笔钱，而又无法从其父亲那里获得，他往往会找其他人借款。而其他人之所以愿意借钱给他，看中的是他的长子继承权，相信他将来继承遗产后可以偿还债务。借钱的时候，借款人会立下誓言，等他父亲去世，他继承遗产后就会偿还债务及其利息。这就是英语单词mortgage的来源。mortgage由mort和gage组成，mort表示“死亡”，gage表示“誓言、保证”，所以mortgage一词的字面含义就是“死亡保证”，即以其父亲的死亡（等于遗产）为保证的贷款。  
+			3. mortgage： ['mɔːgɪdʒ] vt.n.抵押贷款  
+			4. mortal： ['mɔrtl] adj. 凡人的；致死的；终有一死的n. 人类，凡人
+		2. _n._ 抵押借款
+		3. 抵押债款的利息
+		4. _vt._ 抵押
+		5. _n._ [security interest](dic://security interest)
+		6. _v._ [owe](dic://owe)
+		7. **refinance**再为…筹钱,再供…资金;**refinancing**重新募集资金;**loan**贷款;**loans**借贷;**foreclosure**丧失抵押品赎回权,排斥;**lender**贷方;**lenders**放款人;**debt**债务;**repayment**偿还;**borrower**剽窃者，借用人;**FHA**联邦住宅管理局;
+		8. mortgage oneself to the cause /献身于事业
+		9. placed a cap on mortgage rates. /给抵押利率定一个上限
+		10. borrowers falling behind with their mortgage repayments /拖欠按揭还款的借款人。
+		11. And every month, I have to pay the mortgage. /每个月我都必须支付抵押贷款。
+		12. In return, the bank gets a piece of paper, called a mortgage. /作为回报，银行会得到叫做抵押贷款的单据。
+		13. amortize
+		14. unmortgaged, submortgage, mortgager, mortgagee
+		15. unamortized, amortizement, amortization
+	9. antemortem, postmortem
 		1. premortal, postmortal
-	7. ambrosial
-	8. amortisseur
-	9. kinemortophobia
-	10. mortain
-	11. murder
-		1. self-murder
-		2. murderous
-		3. murderess
-		4. murderer
-		5. murderee
-		6. lustmurder
-5. mortar
-6. muder
-7. murrain
+	10. ambrosial
+		1. ambrosia（美味）：神的食物  
+		2. 在希腊神话中，众神食用的食物叫做ambrosia，神仙们食用后可以永葆美貌并长生不老。该词由a（不）+mbrotos（=mortos，死亡）+名词后缀-ia，字面意思就是“长生不死”。英语单词ambrosia就来源于此。
+		3. 仙馔密酒（Ambrosia）是指希腊神话中诸神的食物。在希腊神话中，只有片断及零碎的史诗曾经描述仙馔密酒，因此仙馔密酒曾被形容为食物，又被形容为饮料，更被形容为涂在身体上的软膏，而希腊语中仙馔密酒是长生不老的意思，故一般认为吃到仙馔密酒就能得到永恒的生命。其中一个传说指希腊的英雄阿基里斯曾被他的母亲特堤斯涂上仙馔密酒而得到不死之身。
+		4. ambrosia：[æm'brəʊzɪə] n.神的食物，特别美味的食物  
+		5. ambrosial：[æm'brəʊzjəl] adj.特别美味的，可口的，芬香的  
+		6. ambrosian：[æm'brəuzjəl,-zjən] adj.特别美味的，可口的，芬香的；神的，敬神的，适用于神的
+		7. _adj._ [tasty](dic://tasty), [heavenly](dic://heavenly)
+		8. _n._ [tasteless](dic://tasteless), [earthly](dic://earthly)
+		9. **delectable**令人愉快的;**luscious**甘美的;**sublime**高尚的;**scrumptious**可口的,美味的;**heavenly**神圣的;**exquisite**精致的, 精美的;**alluring**迷人的，吸引人的;**blissful**充满喜悦的;**mouth-watering**流着口水的;**wondrous**令人惊奇的;**fragrant**芳香的;
+		10. It's a heady combination: ambrosial and intellectual; sensual with a bitter aftertaste. /美味与智慧；感官上带有苦涩的余味。
+		11. Inevitably he blames social media, which inundate users with images of finely sculpted bodies, flawless outfits, ambrosial holidays and exquisite weddings. /不可避免地，柯伦将此归咎于社交媒体，社交媒体让用户淹没在雕塑般的优美身材、完美的穿搭、奢华优裕的度假和精致的婚礼图片之中。
+		12. It had been easy to work themselves up to a sense of how hot and deserted the city was getting, of how cool and ambrosial were the charms of Marietta. /很容易让自己感觉到这座城市变得多么炎热和荒凉，玛丽埃塔的魅力是多么凉爽和迷人。
+		13. The **ambrosial** aroma of the roast whetted our appetites /烤肉的香味刺激了我们的食欲。
+		14. The **ambrosial** and essential part of the fruit is lost with the bloom which is rubbed off in the market cart, and they become mere provender. /水果的美味和它那本质的部分，在装上了车子运往市场去的时候，跟它的鲜丽一起给磨损了，它变成了仅仅是食品。
+	11. amortisseur
+		1. n. 阻尼器；减震器；消音器
+	12. kinemortophobia
+	13. mortain
+		1. n. （Mortain）人名；（法）莫尔坦
+	14. murder
+		1. vt. 谋杀，凶杀
+		2. n. 谋杀，凶杀
+		3. vi. 杀人，犯杀人罪
+		4.  [slaying](dic://slaying), [execution](dic://execution)
+		5. [slay](dic://slay), [hit](dic://hit), [dispatch](dic://dispatch), [bump off](dic://bump off), [off](dic://off), [polish off](dic://polish off), [remove](dic://remove)
+		6. [mangle](dic://mangle), [mutilate](dic://mutilate)
+		7. _n._ [homicide](dic://homicide)
+		8. _v._ [kill](dic://kill), [falsify](dic://falsify), [distort](dic://distort), [garble](dic://garble), [warp](dic://warp)
+			1. [kill](dic://kill) 普通用词，含义广泛，泛指以任何方式使人、动物或植物死亡。  
+			2. [murder](dic://murder) 指谋杀或凶杀。  
+			3. [slaughter](dic://slaughter) 本义指大批宰杀动物，也指像屠宰牲畜一样一次杀死许多人。  
+			4. [massacre](dic://massacre) 语气比slaughter强。指大屠杀，尤指屠杀失去了自卫能力的人。  
+			5. [assassinate](dic://assassinate) 通常指因政治原因用非法手段杀害政治领袖人物或短名人士。  
+			6. [execute](dic://execute) 指依法处死罪犯。
+		9. **homicide**杀人;**kidnapping**诱拐;**killings**杀戮;**crime**罪行，犯罪;**slaying**杀戮;**manslaughter**过失杀人;**crimes**犯罪;**robbery**抢劫，盗窃;**assassination**暗杀;**rape**强奸，掠夺;**massacre**残杀;
+		10. murder most foul. /最残酷的谋杀。
+		11. a sensational murder trial /一次轰动性的谋杀审判。
+		12. that exercise is murder on the lumbar regions. /1. 那种锻炼方法让我的腰部受够了罪。
+		13. self-murder
+		14. murderous
+			1. _adj._ 蓄意谋杀的;杀人的;凶残的
+			2. <口>极厉害的;要命的
+			3. _adv._ 蓄意谋杀地;杀人地;凶残地
+			4. _n._ 蓄意谋杀;杀人;凶残
+			5. _adj._ [bloody](dic://bloody)
+			6. _n._ [bloodless](dic://bloodless)
+			7. **vengeful**复仇的，报复的;**sadistic**残酷成性的;**malevolent**有恶意的;**deranged**疯狂的;**crazed**癫狂的;**vicious**恶的, 邪恶的;**ruthless**无情的，残忍的;**violent**猛烈的;**psychotic**精神病的;**demented**发狂的，疯狂的;**savage**残酷的;
+			8. murderous acts of terrorism. /恐怖主义的残暴行为。
+			9. a group of murderous thugs. /一群残忍的罪犯
+			10. Summers in Washington bring murderous heat and humidity. /华盛顿的夏天酷热而潮湿。
+			11. It had been murderous and tyrannous and remained grimly authoritarian. /此前这个凶残专横的政权一直实行严厉的威权统治。
+			12. the team had a murderous schedule of four games in ten days /这个队的赛程紧得要命，十天要打四场。
+			13. Fearless and unworried at all times, whether dealing with religious debate, a patricidal prince, or a murderous outlaw. /尽管面对着宗教争论，一个杀父的王子或者一个杀人的歹徒，他都一直都是无畏和镇定自若。
+			14. Out of the murderous innocence of the sea. /出自大海凶悍的无邪。
+		16. murderess
+		17. murderer
+		18. murderee
+		19. lustmurder
+6. mortar
+	1. 比较单词：mortar ['mɔːtə] n.迫击炮；臼；研钵；灰浆，vt.用灰泥涂抹，这种东西对于对手和要研磨的对象来说，不就是在toharm,to rub or to cut吗？另外morbid ['mɔːbɪd] adj.病态的；由病引起的；恐怖的；病变部位的。病怎么得的？因为被伤害了。不过坊间谐音记忆morbid为“毛病的”，也挺好。 ​​​​
+	2. 来自拉丁语 mortarium,研钵，捣药罐，搅拌碗，词源不详。可能来自 PIE*mer,捣碎，伤害，来自 PIE*smi,砍，劈，词源同 smith.后引申词义捣灰池，灰泥，砂浆等。
+	3. [howitzer](dic://howitzer), [trench mortar](dic://trench mortar)
+	4. _n._ [high-angle gun](dic://high-angle gun), [building material](dic://building material), [vessel](dic://vessel)
+	5. _v._ [plaster](dic://plaster), [daub](dic://daub)
+	6. **bricks**砖块;**brick**砖，砖块;**masonry**石工行业;**grenade**手榴弹;**grenades**手榴弹;**cement**水泥;**artillery**炮, 大炮;**shells**贝壳;**stone**石头;**stones**小石头;**concrete**实在的，具体的;
+	7. _cement mortar_ 水泥砂浆；水泥灰浆
+	8. _dry mortar_ 干灰浆；稠砂浆
+	9. _polymer mortar_ 聚合物灰浆
+	10. _lime mortar_ 石灰砂浆
+	11. _brick and mortar_ 实体的；砖块和灰浆
+	12. _resin mortar_ 诗灰浆；树脂胶浆；树脂砂浆
+	13. the bricks-and-mortar banks. /传统模式运营的银行。
+	14. brick-and-mortar classrooms; a brick-and-mortar bookstore /传统教室；传统书店
+	15. troops being pounded with mortar fire; /军队被迫连续轰击；
+	16. The mason flushed the joint with mortar. /泥工用灰浆把接缝处抹平。
+	17. Or if I'm gonna make tea, I use a mortar. /或者如果我要泡茶，我会用研钵。
+	18. The explosive growth of online shopping and the death of brick and mortar stores. /在线购物的爆炸式增长和实体店的死亡。
+	19. And there was a mortar that landed very close to where people had gathered /在非常靠近人群聚集地的地方有一门迫击炮。
+	20. Many people in the area use stone mortars and pestles made by the stone carvers. /该地区的许多人使用石雕工人制作的石臼和研钵。
+	21. The glass can withstand mortar attack. /这玻璃连炮都轰不开。
+	22. Our civic and social lives form the mortar of American society – and a pillar of public health. /我们的公民和社会生活构成了美国社会的粘合剂，也在公共卫生领域发挥支柱的作用。
+	23. n. 砂浆，灰浆；迫击炮，迫击炮弹；研钵，臼；（烟花或救生索的）发射器 
+	24. v. 用迫击炮攻击（或袭击）； 用灰泥涂抹，结合
+8. murrain
+	1. n. 家畜传染病；[古]瘟疫
+	2. _n._ [animal disease](dic://animal disease)
+	3. **cattle**牛;**diseases**病害;**disease**病，疾病;**plague**瘟疫;**livestock**家畜, 牲畜;**swine**猪;**famine**饥荒;**gout**痛风;**herds**畜群
 
 
 ### merc-,merch- = trade, 表示“交易”。

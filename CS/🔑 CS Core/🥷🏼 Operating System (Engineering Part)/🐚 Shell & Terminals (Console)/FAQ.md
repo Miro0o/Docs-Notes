@@ -130,7 +130,7 @@ To know the correspondence between a master and slave, we can call the [_ptsnam
 
 Basically, **a PTY enables bi-directional communication similar to pipes**. Unlike pipes, it provides a terminal interface to any process that requires it.
 ##### PTY Applications
-↗ [Awesome CLI Windows Manager](../../🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Windows%20Manager.md)
+↗ [Awesome CLI Windows Manager](../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Windows%20Manager.md)
 #### Terminal Emulator
 In essence, **a terminal emulator requests as many PTYs as it needs from the OS**, often presenting them as tabs or windows in the GUI. Let’s follow how that works and how it links to the concepts of TTY and PTY.
 

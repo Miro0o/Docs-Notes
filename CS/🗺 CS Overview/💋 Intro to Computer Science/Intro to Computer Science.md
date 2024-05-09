@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [🤯 Awesome List](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/🤯%20Awesome%20List.md)
+↗ [🤯 Awesome List](../🤯%20Awesome%20List.md)
 ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 - ↗ [Computer Components](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Components.md)
 - ↗ [Computer Architecture](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)

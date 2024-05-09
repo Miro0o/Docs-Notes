@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Codec & Media Formats & Standards](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 ↗ [Data Compression Technologies](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
-↗ [ASCII Arts](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
+↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 
 
 ### Other Resources

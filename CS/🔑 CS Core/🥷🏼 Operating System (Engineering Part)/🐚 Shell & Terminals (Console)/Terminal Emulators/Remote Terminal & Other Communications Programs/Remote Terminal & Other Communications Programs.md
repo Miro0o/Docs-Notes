@@ -17,7 +17,7 @@
 ↗ [Anonymous & Private Networks](../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
 ↗ [Xshell](../📌%20Windows%20Console%20&%20ConPTY%20Based/Xshell.md)
-↗ [Tabby](../📌%20Pseudo%20tty%20(pty)%20Based/Tabby.md)
+↗ [Tabby](../Tabby.md)
 
 
 
