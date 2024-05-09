@@ -14,12 +14,14 @@
 
 ## File & Directory Management Basics
 ### 👉 `ls` | `eva` | `lsd`
+↗ [Awesome CLI Integration](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 ### 👉 `tree`
 
 
-### 👉 `cat` | `bat`
+### 👉 `cat` | `bat` | `ccat`
+↗ [Awesome CLI Integration](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 ### 👉 `head`/`tail` | `more`/`less`

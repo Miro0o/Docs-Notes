@@ -5,7 +5,7 @@
 
 ## Res
 Recall ↗ [Database System Languages](../../../⚜️%20Database%20System%20Design/Database%20System%20Languages.md)
-↗ [DBMS /Relational Database](../../../👔%20DBMS/RDBMS%20(Relational)/RDBMS%20(Relational).md)
+↗ [DBMS /Relational Database](../../../👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/RDBMS%20(Relational).md)
 
 
 
