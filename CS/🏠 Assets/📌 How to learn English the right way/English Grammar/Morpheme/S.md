@@ -1998,6 +1998,10 @@
 		4. _v._ [agree](dic://agree)
 		5. _n._ [dissent](dic://dissent)
 		6. **consent**同意;**tacit**缄默的;**ratification**正式批准;**acknowledgment**承认;**unequivocal**只有一种含意的;**ratify**批准;**acceptance**接受, 认可;**approval**赞成;**affirmation**肯定;**unanimous**全体一致的;**proclamation**宣布,声明,公告;
+		7. unassented
+		8. assentor
+		9. assentient
+		10. assentation
 	2. desnesitise
 	3. dissent
 		1. [protest](dic://protest), [objection](dic://objection)
@@ -2008,12 +2012,20 @@
 		6. _n._ [assent](dic://assent), [accede](dic://accede), [acquiesce](dic://acquiesce)
 		7. **opposition**反对;**discontent**不满;**disagreement**分歧, 意见不合;**protest**抗议;**outrage**暴行;**dissident**有异议的;**defiance**蔑视;**indignation**愤怒, 愤慨, 气愤;**disapproval**不赞同, 反对;**protests**抗议;**hostility**敌意;
 		8. dissension
-	5. nonsense
-	6. resent
+		9. dissenting
+		10. dissentiente
+		11. dissentient
+		12. dissenter
+	4. nonsense
+		1. nonsensical
+		2. nononsense
+	5. resent
 		1. [resend](dic://resend)
 		2. _v._ [dislike](dic://dislike)
 		3. **resentful**感到愤恨的, 表示愤恨的, 憎恨的;**despise**轻视，鄙视;**loathe**讨厌，厌恶;**dislike**不喜欢，厌恶;**hate**憎恨;**annoyed**恼怒的;**complain**发牢骚;**insist**坚持，强调;**misunderstand**误会, 误解;**bother**烦扰，打扰;**sympathize**同情, 支持;
-	7. consent
+		4. resentment
+		5. resentful
+	6. consent
 		1.  [accept](dic://accept), [go for](dic://go for)
 		2. _n._ [permission](dic://permission)
 		3. _v._ [react](dic://react), [respond](dic://respond)
@@ -2024,7 +2036,12 @@
 			5. [subscribe](dic://subscribe) 指完全地赞成已阐明的立场。多用于比较愿意支持一种立场或为一种立场所辨护的情况。
 		4. **permission**允许, 许可, 准许;**assent**赞成;**authorization**授权,批准;**authorisation**授权;**approval**赞成;**agreement**协定, 协议, 契约;**agreeing**同意;**prior**在先的，在前的;**consensual**经双方同意的, 一致同意的;**decree**法令;**expressly**清楚地;
 		5. consensus
-	8. sense
+		6. consentingly
+		7. consentient
+		8. consentience
+		9. consenter
+		10. consentaneous
+	7. sense
 		7. insensibly
 		8. sensitometer
 		9. supersensuous
@@ -2033,37 +2050,224 @@
 			1. _adj._ [sentient](dic://sentient), [animate](dic://animate)
 			2. _n._ [insentient](dic://insentient), [insensate](dic://insensate)
 			3. **senses**感觉;**sensual**感觉的;**transcendental**超凡的;**perceptual**知觉的,有知觉的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**tactile**触觉的，有触觉的;**transcendent**卓越的;**consciousness**意识;**sensory**感觉的;**experiential**经验的,经验上的,根据经验的;
-	9. sentence
-		1. sentential
-			1. **predicate**断言;**verb**动词;**grammatical**语法的;**semantic**语义的;**lexical**词汇的;**verbs**动词;**syntax**语法;**nouns**名词;**semantics**语义学;**conjugate**列出变化形式;**linguistic**语言的, 语言学的, 语言研究
-			2. sententious
-			3. sententious
+			4. sensation
+				1. subsensation
+				2. sensational
+					1. sensationalize
+					2. sensationalist
+					3. sensationalism
+				3. paleosensation
+			5. insensate
+		12. sensus
+			1. -n. 感觉
+			2. sensuous
+			3. sensuously
+		14. sensual
+			1. adj. 感官的，愉悦感官的；肉欲的，性感的；喜爱感官享受（尤指情欲）的
+			2. [animal(a)](dic://animal(a)), [carnal](dic://carnal), [fleshly](dic://fleshly)
+			3. [sultry](dic://sultry)
+			4. _adj._ [physical](dic://physical), [hot](dic://hot)
+			5. _n._ [mental](dic://mental), [cold](dic://cold)
+			6. **erotic**色情的;**sensuality**喜爱感官享受;**seductive**诱惑的;**sexy**性感的;**sultry**闷热的;**carnal**肉体的;**alluring**迷人的，吸引人的;**kinky**奇形怪状的，怪癖的;**luscious**甘美的;**romantic**浪漫的;**intoxicating**醉人的;
+			7. He was a sensual man, and yet was indifferent to sensual things. /他是一个耽于饮食声色的人，但对这些事物又毫不在意。
+			8. They are sensual with an unashamed violence that leaves you breathless. /它们是肉感的，简直大胆到不顾廉耻的地步，叫你看了目瞪口呆。
+			9. Pantone describes the orange-pink hue as gentle, warm and cozy, subtly sensual and heartfelt /潘通色彩研究所形容这种橘粉色柔和、温暖、舒适，带点小性感，而且很贴心。
+			10. You must want real life, not mere pleasure of sensual gratification /为此，你必须将自己的终极目标设定为获取真正的生活，而决不能因为一些世俗的感官享受就感到心满意足。
+			11. The bear is powerful and sensual, although thin because he is out of his time /熊既强有力又肉感，却因为不合时令而瘦削。
+			12. The Old Testament heroine is shown daringly nude and sensual, holding the head of the Holofernes like a trophy. /这位旧约中的女主人公大胆地裸露和感性，手持荷罗孚尼的头像奖杯一样。
+			13. supersensual
+			14. sensually
+			15. sensuality
+			16. sensualist
+			17. sensualism
+			18. sensualise
+			19. pretersensual
+			20. consensual
+			21. etc..
+		16. sensor
+			1. thermosensor
+			2. sensorivasomotor
+			3. sensorium
+			4. sensorineural
+			5. sensorimotor
+			6. sensorimetabolism
+			7. sensoriglandular
+			8. sensorial
+			9. psychosensorial
+			10. piezosensor
+			11. photosensor
+			12. microsensor
+			13. hypersensor
+			14. hygrosensor
+			15. biosensor
+			16. etc..
+		17. sensitize
+			1. sensitizing
+			2. sensitizin
+			3. sensitizer
+			4. sensitization
+			5. photosensitive
+			6. hyposensitive
+			7. desensitize
+			8. cosensitize
+			9. autosensitized
+		18. sensitive
+			1. uviosensitive
+			2. thermosensitive
+			3. supersensitive
+			4. sensitivity
+			5. insensitive
+			6. oversensitive
+			7. etc..
+		19. sensing
+		20. sensible
+			1. supersensible
+			2. sensibilizer
+			3. sensibilization
+			4. sensibility
+			5. rachisensible
+			6. insensible
+		21. senses
+		22. senseless
+		23. missense
+			1. n. [生]错义
+			2. adj. 错义的
+		24. direction-sense
+		25. antisense
+	8. sentence
+		1. 来自古法语 sentence,裁决，判断，决定，来自拉丁语 sententia,裁决，决定，表达思想，现在分词格名词形式于 sentire,感觉，感知，发表意见，来自 PIE*sent,感觉，词源同 sense.引申词义教条，训导，格言等。后主要用于语法格指句子，即一个完整的表达。
+		2. n. 句子, 命题, 宣判  
+		3. vt. 宣判, 判决
+		4. [conviction](dic://conviction), [judgment of conviction](dic://judgment of conviction), [condemnation](dic://condemnation) 
+		5. [prison term](dic://prison term), [time](dic://time)
+		6.  [condemn](dic://condemn), [doom](dic://doom)
+		7. _n._ [string of words](dic://string of words), [word string](dic://word string), [linguistic string](dic://linguistic string), [final judgment](dic://final judgment), [final decision](dic://final decision), [term](dic://term)
+		8. _v._ [declare](dic://declare)
+		9. **paragraph**段落;**phrase**成语;**imprisonment**关押,监禁;**prison**监狱;**word**单词;**words**言语;**jail**监狱;**punctuation**标点法, 标点符号的使用;**phrasing**分节法;**conviction**确信, 坚定的信仰;**footnote**脚注;
+		10. sentence construction /句法结构。
+		11. spatchcock a sentence into an essay /在一篇文章中补入一句话
+		12. a five-year sentence will act as a deterrent /五年监禁将起到威慑作用。
+		13. Criminals get harsher sentences based on their appearances. /长相更凶狠的罪犯，受到的判罚更重。
+		15. sentential
+			1. adj. 句子的；判决的
+			2. **predicate**断言;**verb**动词;**grammatical**语法的;**semantic**语义的;**lexical**词汇的;**verbs**动词;**syntax**语法;**nouns**名词;**semantics**语义学;**conjugate**列出变化形式;**linguistic**语言的, 语言学的, 语言研究
+			3. [sententious](dic://sententious)adj. 说教的 卖弄文采的,咬文嚼字的 爱用格言〔警句〕的
+			4. [penitential](dic://penitential)adj. 后悔的,忏悔的,苦行赎罪的 n. 赎罪规则书
+			5. _[sentential connective](dic://sentential%20connective)_ 命题联结词；语句连词
+			6. _[sentential adverbial](dic://sentential%20adverbial)_ 整句状语；修饰整句的副词语
+			7. _[sentential object](dic://sentential%20object)_ 句宾语
+			8. _[sentential variable](dic://sentential%20variable)_ 命题变元; 语句变元; 语句变数; 
+			9. _[sentential concepts](dic://sentential%20concepts)_ 句式观念
+		16. sententious
+			1. sentence,教条，教导，格言，-ous,形容词后缀。
+			2. _adj._ 说教的
+			3. 卖弄文采的,咬文嚼字的
+			4. 爱用格言〔警句〕的
+			5. a. 金玉良言的, 说教式的, 富于格言的
+			6. _adj._ [pretentious](dic://pretentious), [concise](dic://concise)
+			7. _n._ [unpretentious](dic://unpretentious), [prolix](dic://prolix)
+			8. **pompous**浮夸的;**pretentious**自命不凡的;**vulgar**粗俗的;**witty**诙谐的;**banal**陈腐的;**wry**面部肌肉扭曲的;**eloquent**雄辩的，有口才的;**pious**虔诚的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**solemn**庄严的，严肃的;
+			9. a sententious essayist /爱用警句的杂文家
+			10. he tried to encourage his men with sententious rhetoric. /他试图用说教的言词鼓励他的士兵。
+			11. Another long and deliberate pause succeeded these sententious questions and ready replies. /在这些陈词滥调的问题和准备好的答复之后， 又一次长时间的、刻意的停顿。
+			12. He usually expressed his meaning by short sententious phrases uttered in a soft voice. /他通常用柔和的声音说出简短的句子来表达他的意思。
+		18. unsentenced
+		19. sentencing
+		20. presentence
+		21. matrixsentence
 	10. sentience
-		1. **sentient**有感觉力的;**consciousness**意识;**beings**人;**humans**人类;**non-human**非人类的;**humanity**人类;**immortality**不朽,不朽的声名;**humanoid**像人的;**self-awareness**自我意识;**superhuman**超人的;**intellect**智力;
-		2. [consciousness](dic://consciousness), [faculty](dic://faculty), [mental faculty](dic://mental faculty), [module](dic://module), [animateness](dic://animateness), [aliveness](dic://aliveness), [liveness](dic://liveness)
-		3. sentiency
-		4. sentient
-			1. **beings**人;**humanoid**像人的;**non-human**非人类的;**humans**人类;**inanimate**无生命的;**alien**外国的;**human**人的;**creature**动物，生物;**robots**机器人;**robot**机器人;**immortal**长生的;
-			2. insentient
-			3. presentient
-	11. sentiment
-		4. **sympathy**同情;**optimism**乐观;**stamp**邮票;**stamped**盖上邮戳的;**emotion**情感;**embellishment**装饰,修饰,润色;**feelings**情感;**sentimental**伤感的, 多愁善感的;**patriotic**爱国的;**fervor**热情;**embossing**浮雕;
-	12. sentry, sentinel
-		1. [lookout](dic://lookout), [lookout man](dic://lookout man), [sentinel](dic://sentinel), [watch](dic://watch), [spotter](dic://spotter), [scout](dic://scout), [picket](dic://picket)
-		2. [watchman](dic://watchman), [watcher](dic://watcher), [security guard](dic://security guard)
-		3. **guarding**保护的;**guard**警戒;**garrison**守备部队, 卫戍部队;**guards**警卫;**soldier**军人;**sniper**狙击兵;**snipers**狙击手;**fortress**要塞;**fort**堡垒;**outpost**前哨;**barracks**兵营，营房;
-		4. _stand sentry_ 站岗，守卫
-		5. _sentry box_ 岗亭
-	13. insencerely
-	14. sensitimeter
-	15. sensitometric
-	16. sensory
-		1. visuosensory
-		2. viscerosensory
-		3. vasosensory
-		4. etc...
-2. send
-3. widdershins
+		1. - n. 感觉性；感觉能力；知觉
+		2. **sentient**有感觉力的;**consciousness**意识;**beings**人;**humans**人类;**non-human**非人类的;**humanity**人类;**immortality**不朽,不朽的声名;**humanoid**像人的;**self-awareness**自我意识;**superhuman**超人的;**intellect**智力;
+		3. [consciousness](dic://consciousness), [faculty](dic://faculty), [mental faculty](dic://mental faculty), [module](dic://module), [animateness](dic://animateness), [aliveness](dic://aliveness), [liveness](dic://liveness)
+		4. _[Digital Sentience](dic://Digital%20Sentience)_ 数字感觉；数字化感知
+		5. _[animal sentience](dic://animal%20sentience)_ 尽管动物感知；动物感知能力
+		6. Whoa, Dad, you can't, like, endow a creature with sentience and then rip it away /爸 你不能给一个生物思想然后剥夺掉。
+		7. To understand why chatbots aren't currently experiencing sentience or emotions, it helps to recap how they work /为了理解为什么聊天机器人目前没有感知能力或情感，我们可以回顾一下它们是如何工作的。
+		8. It's not like achieving sentience, or anything like that. /这不像获得知觉或类似的东西。
+		9. A key issue is **sentience**, or the ability to feel pleasure and pain. /一个关键的问题是知觉，或者能够感受到快乐和痛苦。
+		10. sentiency
+			1. n. 感觉；知觉
+			2. _n._ [faculty](dic://faculty), [mental faculty](dic://mental faculty), [module](dic://module)
+			3. **sentient**有感觉力的;**consciousness**意识;**intellect**智力;**beings**人;**cognition**认识;**organism**有机体;**innate**先天的;**bodily**整体地;**superhuman**超人的;**exertion**努力;**primordial**原始的;
+		12. sentient
+			1. 来自拉丁语 sentire,感觉，感知，词源同 sense.-ent,形容词后缀。
+			2. adj. 有感情的；有感觉力的；意识到的 
+			3. n. 有知觉的人
+			4. [animate](dic://animate)
+			5. _adj._ [sensate](dic://sensate), [conscious](dic://conscious)
+			6. _n._ [insentient](dic://insentient), [insensate](dic://insensate), [unconscious](dic://unconscious)
+			7. **beings**人;**humanoid**像人的;**non-human**非人类的;**humans**人类;**inanimate**无生命的;**alien**外国的;**human**人的;**creature**动物，生物;**robots**机器人;**robot**机器人;**immortal**长生的;
+			8. The fate of hundreds of billions of sentient life-forms /上千亿有神智的生命的命运。
+			9. But it does sound like a sentient entity – sentient describes a living thing that experiences feelings. /但它确实听起来像是一个有知觉的实体——“有知觉的”描述的是一种能感受各种感觉的生物。
+			10. These are precious sentient beings that deserve a second chance of life. /这些珍贵的有感情的生物应该得到第二次生命的机会。
+			11. When you came to me, I was merely a sentient colony of ants. /咪咪豆，听我说，你来找我时，我只是一个有感觉力的蚁群。
+			12. insentient
+			13. presentient
+	12. sentiment
+		1. 来自拉丁语 sentire,感觉，感知，词源同 sense.-ment,名词后缀。原指客观的感觉，后词义感情化，多用于指伤感，哀伤
+		2. _n._ [feeling](dic://feeling), [belief](dic://belief)
+			1. [emotion](dic://emotion) 普通用词，词义中性。泛指因外界刺激而引起思想情感从细微变化到最强烈的发作。   
+			2. [feeling](dic://feeling) 普通用词，含义广。多指具体的或内心的感受，或表露出来的强烈情感。  
+			3. [passion](dic://passion) 指极强烈的感情、尤指愤怒、爱好等。也常指两性间的爱情。  
+			4. [affection](dic://affection) 指对人的爱慕或深厚、温柔的感情。  
+			5. [sentiment](dic://sentiment) 一般指由一种思想激起的感情，含较大的理智因素。
+		3. **sympathy**同情;**optimism**乐观;**stamp**邮票;**stamped**盖上邮戳的;**emotion**情感;**embellishment**装饰,修饰,润色;**feelings**情感;**sentimental**伤感的, 多愁善感的;**patriotic**爱国的;**fervor**热情;**embossing**浮雕;
+		4. an intense sentiment of horror. /强烈的恐惧感。
+		5. There's no place for sentiment in business. /做生意不能感情用事。
+		6. Cloying speech or sentiment. /令人腻烦的语言或情感
+		7. green sentiment has waxed and waned /青春的激情此起彼伏。
+		8. Many sentiments are embalmed in poetry /诗歌中充满着许多美好的感情。
+		9. found public sentiment running against him /发现公众反对他的情绪
+		10. Anti-American sentiment is running high in some countries. /反美情绪在一些国家中越演越烈
+		11. Should sentiment be controlled by reason? /感情应受理智的控制吗?
+		12. But in adults, dreams are much more complicated reflections of their more sophisticated sentiments. /但对于成年人来说，梦更复杂地反映了他们更复杂的情感。
+		13. Don't get me wrong. I appreciate the sentiment. /别误会，我了解你的用意。
+		14. Apparently a number of other experts shared that sentiment. /似乎有些专家也持同样的观点。
+		15. sentimental
+		16. presentiment
+	14. sentry
+		1. n. 哨兵, 步兵
+		2. [lookout](dic://lookout), [lookout man](dic://lookout man), [sentinel](dic://sentinel), [watch](dic://watch), [spotter](dic://spotter), [scout](dic://scout), [picket](dic://picket)
+		3. [watchman](dic://watchman), [watcher](dic://watcher), [security guard](dic://security guard)
+		4. **guarding**保护的;**guard**警戒;**garrison**守备部队, 卫戍部队;**guards**警卫;**soldier**军人;**sniper**狙击兵;**snipers**狙击手;**fortress**要塞;**fort**堡垒;**outpost**前哨;**barracks**兵营，营房;
+		5. _stand sentry_ 站岗，守卫
+		6. _sentry box_ 岗亭
+		7. _stand sentinel_ 站岗，放哨，守卫
+	15. sentinel
+		1. 来自中古法语 sentinelle,来自拉丁语 sentinella,哨兵，可能来自拉丁语 sentire,感觉，听，看，词源同 sense.
+		2. n. 哨兵
+		3. vt. 守卫，放哨
+		4. [lookout](dic://lookout), [lookout man](dic://lookout man), [sentry](dic://sentry), [watch](dic://watch), [spotter](dic://spotter), [scout](dic://scout), [picket](dic://picket)
+		5. _n._ [watchman](dic://watchman), [watcher](dic://watcher), [security guard](dic://security guard)
+		6. _stand sentinel_ 站岗，放哨，守卫
+		7. soldiers stood sentinel with their muskets /士兵们持枪站 岗。
+		8. The sentinel was stationed on a hill. /哨兵被派在山上站岗。
+		9. a tall round tower standing sentinel over the river. /一座高高耸立在河上方的圆塔。
+		10. Fling the lying sentinel over the cliffs. /“把那个撒谎的岗哨扔到悬崖上去。
+		11. The colossal pillars stand mute sentinel over a remote alpine wilderness. /这些巨大的石柱静静地伫立在偏远的高山荒野上。
+		12. Their wakeful sentinel had descried danger, and this was his warning. /他们那警觉的岗哨发现有危险情况，发出警报。
+		13. Shanghai watches for 15 categories of infectious disease at more than 5,700 sentinel sites. /上海设立了超过5700个哨点，密切关注15类传染病。
+		14. We are through the line of sentinels. Everything depends on speed. Hurry on! /咱们已经闯过了警戒线了。一切就靠迅速了，快跑！
+	16. insincerely
+	17. sensitimeter
+	18. sensitometric
+	19. sensory
+		1. adj. 感觉的；知觉的；传递感觉的
+		2. [centripetal](dic://centripetal), [receptive](dic://receptive)
+		3. [sensorial](dic://sensorial)
+		4. [sensational](dic://sensational)
+		5. _adj._ [afferent](dic://afferent), [sensation](dic://sensation), [esthesis](dic://esthesis), [aesthesis](dic://aesthesis), [sense experience](dic://sense experience), [sense impression](dic://sense impression), [sense datum](dic://sense datum)
+		6. _n._ [efferent](dic://efferent), [motorial](dic://motorial), [extrasensory](dic://extrasensory), [paranormal](dic://paranormal)
+		7. **auditory**听众;**perceptual**知觉的,有知觉的;**olfactory**嗅觉的;**tactile**触觉的，有触觉的;**senses**感觉;**neurological**神经病学的;**stimuli**刺激;**cognitive**认识的;**visual**视觉的，视力的;**stimulation**刺激;**aural**耳的;
+		8. parts of the body known collectively as the sensory system /统称为感觉系统的身体部位
+		9. The quality of sensory and preservation and remanet microbe of fresh and cooked beef treated by different ultra high pressure was investigated /研究了不同超高压处理对鲜、热牛肉的感观特性、保藏性和残存微生物的彩响。
+		10. Researchers call these sensory devices olfactory receptors /研究人员把这些感知工具叫做嗅觉感受器。
+		11. visuosensory
+		12. viscerosensory
+		13. vasosensory
+		14. etc...
+3. send
+4. widdershins
 
 
 ### + \*sep- + = to taste, perceive

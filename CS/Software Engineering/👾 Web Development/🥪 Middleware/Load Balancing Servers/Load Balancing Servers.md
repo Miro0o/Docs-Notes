@@ -23,3 +23,4 @@ Load Balancing can be classified into two types based on the behavior of the alg
 ## Ref
 [Static vs Dynamic Load Balancing | GeeksforGeeks]: https://www.geeksforgeeks.org/static-vs-dynamic-load-balancing/
 
+[阿里云三大负载均衡器SLB（ALB、NLB、CLB）概念、架构组成及使用场景总结]: https://mp.weixin.qq.com/s/i3bGZ7IcNEBTyuUQDlUWeA

@@ -3325,9 +3325,15 @@ gaffe
 - [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup)
 -  [faux pas](dic://faux pas), [solecism](dic://solecism), [slip](dic://slip), [gaucherie](dic://gaucherie)
 - [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
-- Even careful presidents make gaffes under constant scrutiny.
+- Even careful presidents make gaffes under constant scrutiny. /即使是谨慎的总统也会在不断的审视下失态。
+- he transposed a gaffe by the mayor into a public-relations advantage. /他把市长的失态转变成了公关优势。
+- He didn’t realize what a gaffe he’d made. /他没意识到自己已出乖露丑。
+- He also often uses note cards to avoid verbal gaffes /他还经常使用便签卡来避免言语上的失态。
+- This is why they considered it a political gaffe, because most Americans think themselves as extremely hardworking. /这被认为是政治上的一派胡言。因为大部分美国人都认为自己十分勤奋。
 
 gag
+- vt. 塞住…的口；钳制…的言论；使窒息 vi. 窒息；作呕；插科打诨
+- n. 塞口物；讨论终结；箝制言论
 - [joke](dic://joke), [laugh](dic://laugh), [jest](dic://jest), [jape](dic://jape)
 - [muzzle](dic://muzzle)
 - [choke](dic://choke), [fret](dic://fret)
@@ -3341,8 +3347,6 @@ gag
 - _gag reflex_ 咽反射；呕反射
 - It's the ball gag. I thought you wanted it. /球形嘴塞。不是你要的么。
 - We didn't know if it was a gag. /我们不知道这是不是恶作剧。
-- vt. 塞住…的口；钳制…的言论；使窒息 vi. 窒息；作呕；插科打诨
-- n. 塞口物；讨论终结；箝制言论
 - gagster
 - gagman
 - gaglaw
@@ -3351,14 +3355,39 @@ gag
 - gagbit
 
 gain
-- ungained
+- n. 增益, 获得, 利润, 收获, 增加  
+- vt. 得到, 增进, 赚到  
+- vi. 获利, 增加
+- 来自 PIE*weie,努力，追寻，词源同 virile,venison,Venus.原指农业收成。
+- ungainly
+	- 来自古英语 ungeinliche,来自 un-,不，非，gein,直的，词源同 again,against,-liche,词源同-ly,形容词后缀。即不直的，引申词义形状不好的，难看的，不雅的，笨拙的。
+	- n-不，非 + gain-直的 + -ly, 表形容词。即不直的，引申词义形状不好的，难看的，不雅的，笨拙的。
+	- a. 难看的, 不优雅的, 粗陋的
+	- [gawky](dic://gawky), [clumsy](dic://clumsy), [clunky](dic://clunky), [unwieldy](dic://unwieldy)
+	- [awkward](dic://awkward), [bunglesome](dic://bunglesome), [clumsy](dic://clumsy)
+	- _adj._ [awkward](dic://awkward), [unwieldy](dic://unwieldy), [unmanageable](dic://unmanageable)
+	- _n._ [graceful](dic://graceful), [wieldy](dic://wieldy)
+	- **clumsy**笨拙的;**unwieldy**笨拙的;**clunky**沉重的;**awkward**笨拙的;**cumbersome**笨重的;**bulky**庞大的;**diminutive**小的;**boxy**四四方方的;**unattractive**不吸引人的;**awkwardly**别扭地;**ugly**丑陋的;
+	- I thought him terribly ungainly when he danced. /我觉得他跳舞时显得极其笨拙。
+	- But the thick versions for really icy water are heavy and ungainly. /可是在冰水中穿着厚厚的潜水服又沉重又笨拙。
+	- Jo added the notion that brusque, ungainly kids could go out and do and still get a man. /乔强化了直率、笨拙的孩子们可以出去工作、可以去追求男人的观念。
+	- He was lank and ungainly but, even with his wooden peg, he moved as swiftly as a snake. /此人其貌不扬，虽然装了假腿，走起路来却和长虫一样快。
+	- A little bit muscular but awkward and ungainly /有点肌肉发达但笨拙笨拙。
+	- ungainliness
 - regain
 - gainly
 	- _[gainly well-turned](dic://gainly%20well-turned)_ 姿态优美的
 	- _[elegant genteel gainly graceful](dic://elegant%20genteel%20gainly%20graceful)_ 优雅
 - gainings
 - gainful
+	- [paid](dic://paid), [paying](dic://paying)
+	- _adj._ [profitable](dic://profitable)
+	- _n._ [unprofitable](dic://unprofitable)
 	- **employment**雇用, 就业;**livelihood**生计,谋生之道;**sustenance**食物;**productive**多产的, 富饶的;**healthful**有益健康的;**pursuits**追求;**fruitful**多产的;
+	- he soon found gainful employment. /他很快找到了报酬颇丰的工作。
+	- Many view gainful employment as a birthright /许多人认为能获得职业是与生俱来的权利
+	- You know, this gainful employment thing is really starting to cut into our social life. /你有没有觉得，这个所谓收入不错的工作开始干扰我们的社交生活了
+	- Employment is huge because it's estimated that about 85 percent of those on the spectrum may never have a totally gainful employment. /就业形势非常严峻, 因为据估计约85%的自闭症患者可能从未有经济来源。
 - gainer
 - gainable
 
@@ -3441,8 +3470,8 @@ gaud
 
 gauge
 - [gage](dic://gage)
--  [standard of measurement](dic://standard of measurement)
--  [bore](dic://bore), [caliber](dic://caliber), [calibre](dic://calibre)
+- [standard of measurement](dic://standard of measurement)
+- [bore](dic://bore), [caliber](dic://caliber), [calibre](dic://calibre)
 - [estimate](dic://estimate), [approximate](dic://approximate), [guess](dic://guess), [judge](dic://judge)
 - _n._ [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device), [standard](dic://standard), [criterion](dic://criterion), [measure](dic://measure), [touchstone](dic://touchstone)
 - _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
@@ -3472,7 +3501,7 @@ gauge
 - audigauge
 
 gauze
-- 1. (medicine) bleached cotton cloth of plain weave used for bandages and dressings
+- (medicine) bleached cotton cloth of plain weave used for bandages and dressings
 - a net of transparent fabric with a loose open weave
 - [gauze bandage](dic://gauze bandage)
 - [netting](dic://netting), [veiling](dic://veiling)
@@ -3534,6 +3563,9 @@ gift
 - foregift
 
 gimcrack
+- a. 华而不实的  
+- n. 华而不实的东西, 小玩意
+- 词源不详，可能来自拟声词。gim-,沙沙作响，crack,破裂声。即金属装饰片哗啦作响的声音，花里胡哨的，引申词义劣质的。
 - [folderal](dic://folderal), [falderol](dic://falderol), [frill](dic://frill), [gimcrackery](dic://gimcrackery), [nonsense](dic://nonsense), [trumpery](dic://trumpery)
 - [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
 - _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
@@ -3541,33 +3573,85 @@ gimcrack
 - _n._ [tasteful](dic://tasteful)
 - **edifice**大厦;**superfluous**过多的;**grandiose**宏伟的;**shoddy**劣质的;**banal**陈腐的;**trappings**服饰;**contrived**不自然的;**pretentious**自命不凡的;\
 - And all of a sudden, that gimcrack knocks my window and decidedly came to pick me up without even telling me /那个死蠢忽然间敲我墙口并打算在没通知我的情况下接我去跟他吃饭。
+- And all of a sudden, that gimcrack knocks my window and decidedly came to pick me up without even telling me /那个死蠢忽然间敲我墙口并打算在没通知我的情况下接我去跟他吃饭。
+- The gimcrack, slipshod, ecologically disastrous building developments in Northern Cyprus may last just 10 years, all things being well. /在塞浦路斯北部，那些华而不实的、草率的、造成生态灾难的建筑开发也许只会持续10年，而现在一切都很好。
+- " And do you expect me to pay for this gimcrack excursion of yours" ? /“你希望我为你的这种花哨的旅行买单吗” ？
+- Exquisite and expensive playthings lay enlaced with the gimcrack contents of Christmas crackers. /精美而昂贵的玩具与圣诞饼干的小玩意儿交织在一起。
+- They'd got ideas and lived up the hill in gimcrack villas you'd be afraid to sneeze in.  /他们有了主意， 住在山上的豪华别墅里， 你不敢在里面打喷嚏。
+- Th' old squire looked up at this, and peered in his way at the screen, and said, 'One pound thirteen for a gimcrack like that! /老乡绅抬头看了看这个，从他的路上凝视着屏幕，说，像这样的小玩意要一英镑十三！
 - gimmick
+	- n. 暗机关  
+	- vt. 耍花招改变, 使暗机关
+	- 来自 gimcrack 的拼写变体，花里胡哨，花招，把戏。
 	- [catch](dic://catch)
 	- [doodad](dic://doodad), [doohickey](dic://doohickey), [doojigger](dic://doojigger), [gizmo](dic://gizmo), [gismo](dic://gismo), [gubbins](dic://gubbins), [thingamabob](dic://thingamabob), [thingumabob](dic://thingumabob), [thingmabob](dic://thingmabob), [thingamajig](dic://thingamajig), [thingumajig](dic://thingumajig), [thingmajig](dic://thingmajig), [thingummy](dic://thingummy), [whatchamacallit](dic://whatchamacallit), [whatchamacallum](dic://whatchamacallum), [whatsis](dic://whatsis), [widget](dic://widget)
 	- [device](dic://device), [twist](dic://twist)
 	- _n._ [drawback](dic://drawback), [stuff](dic://stuff), [maneuver](dic://maneuver), [manoeuvre](dic://manoeuvre), [tactical maneuver](dic://tactical maneuver), [tactical manoeuvre](dic://tactical manoeuvre)
 	- **ploy**策略;**novelty**新奇;**ruse**诡计;**stunt**绝技;**lame**瘸的;**fad**一时的爱好;**trick**诡计;**contrived**不自然的;**tactic**策略，战略;**joke**玩笑，笑话;**storyline**故事情节;
+	- a new gimmick to encourage people to go to the cinema /鼓动大众去看电影的新噱头
+	- He dismissed the event as just a publicity gimmick. /他不理会这件事，只当它是一种宣传手法。
+	- Yeah. It's the whole gimmick. Yeah, exactly. /是的。这就是整个噱头。
+	- And each one has a gimmick in order to survive. /为了生存，每个细菌都有花招。
+	- Yeah, you know, the whole point of the video. - That's the whole gimmick! /是啊，这就是视频的意义所在。 - 这就是整个的噱头！
+	- Cook said the company doesn't depend on gimmicks. /库克称苹果公司从不使用此种低劣手段。
 	- gimmicky
 - gicracky
+	- [folderal](dic://folderal), [falderol](dic://falderol), [frill](dic://frill), [gimcrackery](dic://gimcrackery), [nonsense](dic://nonsense), [trumpery](dic://trumpery)
+	- [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
+	- _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+	- _adj._ [tasteless](dic://tasteless)
+	- _n._ [tasteful](dic://tasteful)
+	- **edifice**大厦;**superfluous**过多的;**grandiose**宏伟的;**shoddy**劣质的;**banal**陈腐的;**trappings**服饰;**contrived**不自然的;**pretentious**自命不凡的;
+	- plastic gimcrack cookware. /花哨的塑料厨具。
 
 gin
--  [snare](dic://snare), [noose](dic://noose)
--  [cotton gin](dic://cotton gin)
--  [gin rummy](dic://gin rummy), [knock rummy](dic://knock rummy)
+- n. 杜松子酒，琴酒；<美>轧棉机；<美>金拉米纸牌（同 gin rummy，纸牌游戏）；（捕捉动物的）铁丝捕捉器（同 gin trap）；三角起重机；<俚，冒犯>澳大利亚土著妇女 
+- vt. 用轧棉机采棉；设陷阱捕捉；<美>在金拉米纸牌游戏中获胜 
+- v. <古>开始 
+- conj. <方，苏格兰>如果
+- [snare](dic://snare), [noose](dic://noose)
+- [cotton gin](dic://cotton gin)
+- [gin rummy](dic://gin rummy), [knock rummy](dic://knock rummy)
 - _n._ [liquor](dic://liquor), [spirits](dic://spirits), [booze](dic://booze), [hard drink](dic://hard drink), [hard liquor](dic://hard liquor), [John Barleycorn](dic://John Barleycorn), [strong drink](dic://strong drink)
 - _v._ [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide), [part](dic://part), [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare)
 - **whiskey**威士忌酒;**vodka**伏特加酒;**whisky**威士忌酒;**rum**古怪的;**martini**马提尼;**brandy**白兰地酒;**tonic**补药;**liqueur**利口酒;**cocktail**鸡尾酒;**tequila**龙舌兰酒;**booze**酒;
 - _gin and tonic_ 琴酒补剂；杜松子酒补剂
 - _cotton gin_ 轧花机；轧棉机
+- A gin and tonic, please. /请来一杯杜松子酒补剂。
+- Was it how you invented the cotton gin? /你发明轧棉机的过程？
+- Biggest item is definitely gin, so that's gonna go in first. /最大的一件东西肯定是杜松子酒，所以就先把这个放进去。
+- Add the gin, Campari, and sweet vermouth. /再加入琴酒、金巴利和甜香艾酒。
 - ginning
 - ginner
 - gin-palace
 - gin up
-	- At times, that anger is exploited by politicians, to gin up votes along racial lines, or to make up for a politician's own failings
+	- At times, that anger is exploited by politicians, to gin up votes along racial lines, or to make up for a politician's own failings /有时，这种愤怒会被政客利用，以拉拢种族界线的选票，或弥补政客自身的失败。
+	- But I would not be surprised if we see Donald Trump take advantage of this process, and attempt to use it to gin up additional media coverage /但如果我们看到唐纳德·特朗普利用这一过程，并试图利用它来增加媒体的报道，我不会感到惊讶。
 
 ginger
+- n. 生姜；姜（产于东南亚，外表似竹）；姜黄色；长着姜黄色头发的人；姜味汽水（ginger ale 的简称）；精神，活力 
+- v. 用姜给……调味；激励，使有生气（ginger sb./sth. up） 
+- adj. （主要指毛发或动物毛皮）姜黄色的；姜味的
+- [powdered ginger](dic://powdered ginger)
+- [gingerroot](dic://gingerroot)
+- [pep](dic://pep), [peppiness](dic://peppiness)
+- [gingery](dic://gingery)
+- _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [spice](dic://spice), [flavorer](dic://flavorer), [flavourer](dic://flavourer), [flavoring](dic://flavoring), [flavouring](dic://flavouring)
+- _v._ [zest](dic://zest), [spice](dic://spice), [spice up](dic://spice up)
+- _adj._ [colored](dic://colored), [coloured](dic://coloured), [colorful](dic://colorful)
+- _n._ [uncolored](dic://uncolored), [uncoloured](dic://uncoloured)
+- **cinnamon**肉桂;**coriander**芫荽,香菜;**turmeric**姜黄;**cardamom**小豆蔻;**garlic**大蒜;**peppermint**薄荷;**fennel**茴香;**cucumber**黄瓜;**nutmeg**肉豆蔻种子中的核仁;**chilli**红辣椒;**rosemary**迷迭香;
+- to ginger up a performance /使表演更加生动活泼
+- Ginger shall be hot in the mouth /生姜吃到嘴里总是辣的。
+- There is no ginger in him /他毫无生气[活力]。
+- a ginger snap /小姜脆饼
+- he puts some ginger in the poet. /他为这诗人注入了某种活力。
+- I could see his ginger head bobbing about. /我可以看到他姜黄色的脑袋在上下移动。
+- she slapped his hand lightly to ginger him up. /她拍拍他的手让他振作起来。
+- Or we sometimes say, he's a ginger. /或者我们有时会说，他是个红头发。
+- If it's blonde, almost ginger, you can say strawberry blonde. /如果它是接近姜黄色的金色，你可以说草莓红色。
 - gingery
-	- - adj. 易怒的；姜似的；辛辣的；姜味的
+	- adj. 易怒的；姜似的；辛辣的；姜味的
 	-  [ginger](dic://ginger)
 	- _adj._ [tasty](dic://tasty), [colored](dic://colored), [coloured](dic://coloured), [colorful](dic://colorful)
 	- _n._ [tasteless](dic://tasteless), [uncolored](dic://uncolored), [uncoloured](dic://uncoloured)
@@ -3585,7 +3669,8 @@ ginger
 	- _n._ [cake](dic://cake)
 	- **marshmallow**药属葵,药属葵蜜饯;**snowman**雪人;**pumpkin**南瓜;**cupcakes**纸杯蛋糕;**cupcake**纸托蛋糕;**cheesecake**奶酪蛋糕;**cake**蛋糕;**chocolate**巧克力;**toffee**乳脂糖，太妃糖;**meringue**调合蛋白;**cinnamon**肉桂;
 	- _[gingerbread](dic://gingerbread)_  n. 姜饼；华而不实的装饰; adj. （装饰）华而不实的;
-	- r]a high-gabled gingerbread house. /一幢有高高的山墙、外部装饰过分雕琢的房屋。
+	- a high-gabled gingerbread house. /一幢有高高的山墙、外部装饰过分雕琢的房屋。
+	- As with **gingerbread** men and gummy bears, the dilemma when served a locust is whether to begin eating it head or legs first /就像吃姜饼的人和小熊软糖一样，吃蝗虫时的窘境是先吃它的头还是腿。
 - ginger-race
 
 give
@@ -3602,6 +3687,7 @@ give
 	- _[serious misgivings](dic://serious%20misgivings)_ 深深的忧虑
 	- _[above misgiving](dic://above%20misgiving)_ 无可怀疑
 - misgive
+	- v. 使怀疑；使担心；使害怕
 - life-giving
 	- **nourishing**有营养的,滋养多的;**nourishment**食物, 滋养品;**divine**神圣的;**sacred**神圣的;**sustenance**食物;**invigorating**精神充沛的,爽快的;**nourish**滋养;**transformative**有改革能力的,变化的,变形的;**nutritious**有营养的, 滋养的;**life-saving**延长寿命;**spiritual**精神上的;
 	- [invigorating](dic://invigorating)
@@ -8908,6 +8994,32 @@ scrounge
 - _[scrounge for sth](dic://scrounge%20for%20sth)_ 白拿
 - She’s always on the scrounge for cigarettes. Why doesn’t she buy her own? /她总向人讨要香烟，为什么自己不买呢？
 
+secular
+- 来自拉丁语 saecularis,现时的，现世的，来自 saeculum,现时，现世，可能来自 PIE*se,播种，耕种，词源同 seed,semen.-cul,-culum,工具格后缀，词源同 oracle,hibernacle.比喻用法，即相比于神和宗教的永恒，种子只有一次生命过程，引申词义世俗的，非宗教的。
+- adj. 非宗教的，世俗的；现实世界的；（教士）教区的，在俗的；政府的而非教会的，民事的；（天文）缓慢的，长期的；（经济）（波动，趋势）长期性的；（尤指古罗马的庆祝活动）每世纪一次的，约百年一次的 
+- n. 在俗牧师；平信徒，普通信徒
+-  [layman](dic://layman), [layperson](dic://layperson)
+-  [laic](dic://laic), [lay](dic://lay)
+- _n._ [commoner](dic://commoner), [common man](dic://common man), [common person](dic://common person)
+- _adj._ [profane](dic://profane)
+- _n._ [sacred](dic://sacred)
+- **religious**宗教的;**secularism**世俗主义;**humanist**人道主义者;**fundamentalist**信奉正统派基督教的人;**orthodox**正统的;**pagan**异教的;**ecclesiastical**基督教会的;**evangelical**福音的;**religion**宗教信仰;**Christian**基督徒;**liberal**慷慨的;
+- _secular variation_ 长期变化
+- _secular trend_ 长期趋势
+- secular music /非宗教音乐
+- concerted secular music for voices. /分声部演唱的世俗歌曲。
+- putting ecclesiastical vestments to secular use was considered sacrilege '把教堂法衣用于非宗教性场合被认为是亵渎神圣。
+- The EU was overmighty and too secular. /欧盟权力过大，还俗不可耐。'
+- Larry Summers of Harvard University talks about secular stagnation /哈佛大学的拉里·萨默斯就此提出了“长期停滞”。
+- secularize
+	- _v._ [change state](dic://change state), [turn](dic://turn), [transfer](dic://transfer)
+	- **secular**世俗的;**abolish**废除，废止;**modernize**现代化;**secularism**世俗主义;**subvert**推翻;**Christianity**基督教;**Protestantism**新教;**religion**宗教信仰;**curtail**截断, 缩短;**Jesuits**耶稣会;**undermine**在某物下挖洞或挖通道;
+	- secularization
+- secularist
+	- n. 现世主义者, 宗教与教育分离论者
+- secularism
+- secularity
+
 seem
 - unseemly
 	- [indecent](dic://indecent), [indecorous](dic://indecorous), [unbecoming](dic://unbecoming), [uncomely](dic://uncomely), [untoward](dic://untoward)
@@ -11335,11 +11447,23 @@ taunt
 - Taunting the psychotic spouse, I realized, was not a wise move /我感觉，跟神经质的配偶争执一定是不明智的。
 
 tawdry
+- tawdry(俗丽)：喜爱华丽蕾丝的圣奥黛丽  
+- 公元7世纪时，在英国有一位名叫奥黛丽（Audrey）的公主，为了逃婚而隐居在一座名叫Ely的小岛上。公主在小岛上创建了一家修道院并自任院长。公主年轻时讲究打扮，喜欢在颈部系上名贵的蕾丝装饰物。年老时患上咽喉癌，公主便认为这是上帝对自己年轻时爱慕虚荣的惩罚。公主死后被基督教会封为圣徒，并被当地人封为该岛的保护神。在每年的公主纪念日上，岛上都会有热闹的集市。集市上卖的最多的商品就是妇女所用的各种颈部修饰品，如项链、蕾丝等。小贩们高声叫卖：“St. Andrey’s lace”（圣奥黛丽的蕾丝），最后逐渐演变为tawdry lace。由于公主因为臭美而遭到上帝惩罚，并且小贩们所卖的这种小饰品通常廉价而又俗气，因此tawdry lace就被人用来表示“廉价而又俗丽的东西”，有时候缩略为tawdry。  
+- tawdry：['tɔːdrɪ] adj.廉价而又俗丽的，庸俗艳丽的n.俗丽的东西
+- adj. 俗丽而不值钱的；俗气的；花里胡哨的
+2. （故事、事件）令人讨厌的，卑鄙的，不道德的
 - [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [trashy](dic://trashy)
 - [cheapjack](dic://cheapjack), [shoddy](dic://shoddy)
 - _adj._ [tasteless](dic://tasteless), [inferior](dic://inferior)
 - _n._ [tasteful](dic://tasteful), [superior](dic://superior)
 - **sordid**肮脏的;**sleazy**质地薄的;**trashy**碎屑的;**scandalous**令人反感的;**crass**粗鲁的;**seedy**多种子的;**banal**陈腐的;**tacky**俗气的;**vulgar**粗俗的;**shameful**可耻的;**ghastly**可怕的;
+- _[tawdry clothing](dic://tawdry%20clothing)_ 廉价而花哨的
+- _[tawdry exquisite](dic://tawdry%20exquisite)_ 俗丽的
+- the tawdry business of politics /肮脏的政治交易。
+- But two tawdry facts remained: Mr Musharraf had never won an unrigged election; /但他的两个污点依然存在：从未赢过一场他未加操控的选举；
+- It might be a decision to conduct a tawdry affair. /也许是决定搞风流韵事。
+- I wouldn't like to see this family dragged into a tawdry, local brouhaha. /我不希望这个家庭被牵扯进本地的闹剧。
+- Long lines of dull brick houses were only relieved by the coarse glare and tawdry brilliancy of public-houses at the corner /直到在街角看到一些粗俗、耀眼的酒肆以前，两旁一直都是连续不断的暗灰色的砖房。
 
 tax
 - taxing

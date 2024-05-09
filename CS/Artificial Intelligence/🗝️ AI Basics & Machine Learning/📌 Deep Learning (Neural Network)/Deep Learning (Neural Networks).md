@@ -35,7 +35,7 @@ https://zhuanlan.zhihu.com/p/38431213 知乎花书各章笔记
 🏫 https://cs230.stanford.edu 
 
 ### Models
-↗ [Neural Network Models](../🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)
+↗ [Neural Network Models](🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)
 
 
 

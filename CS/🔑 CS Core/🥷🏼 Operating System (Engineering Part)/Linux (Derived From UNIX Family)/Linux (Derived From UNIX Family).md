@@ -92,7 +92,7 @@ https://linuxopsys.com
 https://docs.qq.com/doc/DUXVUd2hMb3FNSGdI
 
 
-### 🗣 Linux Communities
+### 🗣 Linux & Free Software Communities
 https://kernelnewbies.org
 Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their [Kernel](https://kernelnewbies.org/Kernel)s and more experienced developers willing to share their knowledge. 
 
@@ -114,6 +114,9 @@ Forum for Linux/Unix questions
 
 👍 🔥 https://itsfoss.com
 **It’s FOSS** is an award-winning web-portal that focuses on Open Source in general and Linux in particular.
+
+https://www.linuxfans.org
+中国Linux公社
 
 
 ### Other Resources

@@ -81,8 +81,15 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 ## 🎯 Resource Monitoring
 > ↗ [Hardware Profiling](../../../../Auxiliary%20Hardware%20&%20Peripherals/Hardware%20Profiling.md)
 ### General Monitoring
-#### 👉 `top` | `htop` | `gtop`
+#### 👉 `top` | `htop` | `gtop` | `btop` 👍 
+https://github.com/aristocratos/btop
+
+##### More Alike Projects..
+https://github.com/bvaisvil/zenith
+Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+
 #### 👉 `glances`
+
 #### 👉 `dstat`
  `Dstat` is a versatile replacement for `vmstat`, `iostat` and `ifstat`. `Dstat` overcomes some of the limitations of these programs and adds some
  extra features.

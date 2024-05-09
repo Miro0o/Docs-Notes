@@ -95,7 +95,7 @@ More specific contents follow ↗️ [ML Learning Models](ML Learning Models/ML 
 
 
 ### 2️⃣ Model Selection
-↗ [Statistical Machine Learning Methods](🗿%20Statistical%20Machine%20Learning%20Methods/Statistical%20Machine%20Learning%20Methods.md)
+↗ [Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Statistical%20Machine%20Learning%20Methods/Statistical%20Machine%20Learning%20Methods.md)
 ↗ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 

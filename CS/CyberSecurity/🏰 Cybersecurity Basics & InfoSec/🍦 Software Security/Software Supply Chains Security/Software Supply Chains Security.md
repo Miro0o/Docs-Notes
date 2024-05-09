@@ -17,7 +17,7 @@
 ↗ [Programming Tools Chain](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-- ↗ [Dev(Sec)Ops (Application Level Engineering)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
+- ↗ [Dev(Sec)Ops (Application Level Engineering)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
 ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/👷🏻%20Dev%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 ↗ [SDL (Secure Development Lifecycle)](SDL%20(Secure%20Development%20Lifecycle).md)
@@ -79,7 +79,7 @@
 在解决软件研发过程的供应链安全问题时，需要贴合SDLC（软件开发生命周期）考虑供应链安全风险。
 为此，Goolge提出了SLSA（Supply-chain Levels for Software Artifacts）框架，微软提出了SCIM（Supply Chain Integrity Model）框架以及CNCF（云原生计算基金会）的软件供应链最佳实践，三种框架都强调对于源代码、第三方依赖、构建系统、制品、发布、部署的安全性。
 #### DevSecOps
-↗ [Dev(Sec)Ops (Application Level Engineering)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🧘🏻%20Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
+↗ [Dev(Sec)Ops (Application Level Engineering)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 #### Microsoft SDL (Security Development Lifecycle)
 ↗ [SDL (Secure Development Lifecycle)](SDL%20(Secure%20Development%20Lifecycle).md)
 

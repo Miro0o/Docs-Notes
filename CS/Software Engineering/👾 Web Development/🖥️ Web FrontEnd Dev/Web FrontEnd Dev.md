@@ -33,7 +33,7 @@ The World Wide Web Consortium (W3C) is an [international community](https://www.
 
 
 ### Galleries
-↗ [Frontend Galleries](../../🏇%20Galleries/Web%20Application%20Galleries/Web%20Frontend%20Galleries/Frontend%20Galleries.md)
+↗ [Frontend Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Frontend%20Galleries/Frontend%20Galleries.md)
 
 
 

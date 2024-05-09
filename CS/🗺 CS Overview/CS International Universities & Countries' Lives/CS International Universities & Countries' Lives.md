@@ -33,7 +33,7 @@ https://www.rcime.com
 Immigration Medical Examination ｜ 出国移民体检
 
 
-### General International Universities & Countries' Lives
+### General Information about International Universities & Countries' Lives
 [The GradCafe](https://www.thegradcafe.com/)
 实时录取结果更新，PhD dp比较多
 
@@ -46,8 +46,11 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
 - https://www.usnews.com/best-colleges/rankings/national-universities | U.S. News, 
 
+https://www.payscale.com/college-salary-report
+College Salary Report (US)
 
-### CS Related Resources
+
+### CS Related Information
 #### General CS Info
 [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/) (Canada + U.S.)
 CS Open Rankings 是结合了 U.S. News, csrankings.org, placement rank, best paper awards 进行的综合排名

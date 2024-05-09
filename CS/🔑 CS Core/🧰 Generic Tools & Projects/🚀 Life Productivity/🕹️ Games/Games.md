@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Graphics Rendering Frameworks](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/🧩%20Graphics%20Rendering%20Frameworks/Graphics%20Rendering%20Frameworks.md)
-↗ [ASCII Arts](../../🕶️%20Awesome%20List/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
+↗ [ASCII Arts](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 
 
 ### Sources
