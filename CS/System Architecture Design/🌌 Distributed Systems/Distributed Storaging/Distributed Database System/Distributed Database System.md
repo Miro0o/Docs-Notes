@@ -11,7 +11,7 @@
 
 ### List of Distributed DBMS
 #### K-V DBMS
-↗ [Redis](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/Key-Value%20DBMS/Redis/Redis.md)
+↗ [Redis](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/Key-Value%20DBMS/Redis%20&%20Open%20Redis%20Forks/Redis.md)
 ↗ [Memcached](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/Key-Value%20DBMS/Memcached/Memcached.md)
 
 #### Document DBMS

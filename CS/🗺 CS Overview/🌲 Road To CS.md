@@ -66,9 +66,9 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ## 🚀 A Serious CS Roadmap
 ### 0️⃣ Before you hit the road ...
-↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Miscs/科技创新人才培养.md)
-↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Miscs/斯坦福大学计算机专业培养方案剖析.md)
-↗ [我们需要怎样的数学教育？](../🏠%20Assets/Miscs/我们需要怎样的数学教育？.md)
+↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/科技创新人才培养.md)
+↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
+↗ [我们需要怎样的数学教育？](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
 ↗ [How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 
 🔗 [What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
@@ -79,7 +79,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 - [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 - [xy problem](https://xyproblem.info)
 
-↗ [大学生活质量指北](../🏠%20Assets/大学生活质量指北/大学生活质量指北.md)
+↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 
 ### 1️⃣ CS Quick Intro /Foundations
@@ -184,6 +184,9 @@ https://www.ruanyifeng.com
 
 
 ### CS Course /Training Channels
+**哔哩大学计算机学院**
+🎬 https://space.bilibili.com/3493285983160582?plat_id=1&share_from=space&share_medium=iphone&share_plat=ios&share_session_id=45500281-6E65-4AAD-82EE-5EA13123733A&share_source=WEIXIN&share_tag=s_i&spmid=main.space-contribution.0.0&timestamp=1713443322&unique_k=tVeA7cI
+
 ---
 **FreeCodeCamp**
 🏠 https://github.com/freeCodeCamp/freeCodeCamp
@@ -232,12 +235,12 @@ For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technolo
 ---
 **3blue1brown**
 https://www.youtube.com/@3blue1brown
-↗ [🧠 This is Science](This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../🏠%20Assets/This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 李永乐
 https://www.youtube.com/@TchLiyongle
-↗ [🧠 This is Science](This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../🏠%20Assets/This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 
 ### CS Tutorials /Books

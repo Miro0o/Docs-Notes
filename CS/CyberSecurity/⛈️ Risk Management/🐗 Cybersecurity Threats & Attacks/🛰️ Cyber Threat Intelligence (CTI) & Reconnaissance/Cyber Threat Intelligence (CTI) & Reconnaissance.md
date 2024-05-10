@@ -6,8 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
+↗ [STIX (Structured Threat Information Expression)](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Data%20Representation%20(GPL%20&%20DSL)/Data%20Representation%20&%20Exchanging%20(DSL)/STIX%20(Structured%20Threat%20Information%20Expression).md)
+↗ [TAXII (Trusted Automated Exchange of Intelligence Information)](TAXII%20(Trusted%20Automated%20Exchange%20of%20Intelligence%20Information).md)
 
+↗ [Social Engineering & Physical Security](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Social%20Engineering%20&%20Physical%20Security/Social%20Engineering%20&%20Physical%20Security.md)
 ↗ [Software Vulnerability](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Software%20Vulnerability.md)
 - ↗ [Vulnerability Discovery（漏洞检测）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
 - ↗ [Vulnerability Assessment（漏洞危害评估）](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Vulnerability%20Assessment（漏洞危害评估）/Vulnerability%20Assessment（漏洞危害评估）.md)
@@ -39,6 +41,9 @@ Security lists for SOC detections
 https://intelx.io/tools?tab=telegram
 IntelligenceX  Telegram
 
+
+### Cyber Threat Intelligence Platforms (TPI)
+#### China-Based Providers
 https://x.threatbook.com
 微步在线 
 
@@ -71,6 +76,13 @@ https://ti.360.cn
 
 https://yundunnext.console.aliyun.com/?spm=a2c4g.182074.0.0.49d11e37f4iGls&p=sasti#/overview
 阿里云 威胁情报中心
+
+#### Outside-China Providers
+https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=c6c33da0-d1ee-42dd-9427-018dc7d32277
+OASIS Cyber Threat Intelligence (CTI) TC
+
+https://app.crowdsec.net/cti
+crowdsec
 
 https://exchange.xforce.ibmcloud.com/
 IBM X-Force
@@ -121,10 +133,9 @@ FortiGuard
 - 漏洞和漏洞利用代码；
 - 攻陷指标（IoC）。
 
----
-https://github.com/hslatman/awesome-threat-intelligence/tree/main?tab=readme-ov-file#research
+> 📎 https://github.com/hslatman/awesome-threat-intelligence/tree/main?tab=readme-ov-file#research
 
-A concise definition of Threat Intelligence: _evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard_.
+**A concise definition of Threat Intelligence**: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard.
 
 
 ### Reconnaissance
@@ -168,3 +179,5 @@ In this chapter, you will learn the principles and practices of passive reconnai
 [👍 信息收集总结]: http://uuzdaisuki.com/2021/05/31/信息收集总结/
 
 [👍 https://www.aqniu.com/vendor/96051.html]: 免费获取全球开源威胁情报的9个来源
+
+[The 27 Best Cybersecurity Sites in 2024 | UpGuard]: https://www.upguard.com/blog/cybersecurity-websites

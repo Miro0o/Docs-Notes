@@ -6,7 +6,7 @@
 
 ## Res
 ### Theories & Skills
-↗ [HTTP (HyperText Transfer Protocol)](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🔥%20Web%20(WWW)/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
+↗ [HTTP (HyperText Transfer Protocol)](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
 ↗ [DS Web Services' Architectures](../../../🔑%20CS%20Core/🍕%20Database%20System/🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
 ↗ [Distributed Systems](../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 ↗ [Middleware](../🥪%20Middleware/Middleware.md)

@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7739000e3ef076a1",
+            "id": "207180f9d0c3ab99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bf8810ad21cf312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Artificial Intelligence/Awesome AI/Awesome NLP & LLM Projects & Services.md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md"
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md"
               }
             }
           },
@@ -183,55 +171,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7739000e3ef076a1",
+  "active": "207180f9d0c3ab99",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/📌 Awesome Open Source CLI Software/Awesome CLI Integration.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
-    "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/DBMS (DataBase Management System) Implementations.md",
-    "CS/🔑 CS Core/🍕 Database System/Risk Management & Data Recovery.md",
-    "CS/Artificial Intelligence/Awesome AI/Awesome NLP & LLM Projects & Services.md",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/Docs Tools/Markdown Related Tools/Markdown Related Tools.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/Markdown (RMarkdown).md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Browsers.md",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/👩🏼‍🍳 Git Services Providers/Github.md",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/User Management.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Clients & Remote Shell/SSH Clients & Remote Shell.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Remote Terminal & Other Communications Programs/Remote Terminal & Other Communications Programs.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Files & Texts Filters.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/File Navigation & Explorer.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/📌 Awesome Open Source CLI Software/Awesome File & Dir Management.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/GNU Binutils.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/📇 Docs Management.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/termius.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Tabby.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/📌 Pseudo tty (pty) Based/Alacrity.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Remote Terminal & Other Communications Programs/SecureCRT.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH (Secure SHell).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
+    "CS/Software Engineering/🤖 AI x SE/AIGC (AI-Generated Content) & AGI (Artificial General Intelligence)/AIGC (AI-Generated Content) & AGI (Artificial General Intelligence).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
+    "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/Key-Value DBMS/Redis & Open Redis Forks/Valkey.md",
+    "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/Key-Value DBMS/Redis & Open Redis Forks/Redis.md",
+    "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/Key-Value DBMS/Redis & Open Redis Forks/Redict.md",
+    "CS/Artificial Intelligence/Artificial Intelligence.md",
+    "Assets/Pics/Pasted image 20240510154638.png",
+    "Assets/Pics/Pasted image 20240510154631.png",
+    "Assets/Pics/Pasted image 20240510154621.png",
+    "Assets/Pics/Pasted image 20240510154609.png",
+    "Assets/Pics/Pasted image 20240510154559.png",
+    "CS/🔑 CS Core/🧬 Computer System/Chips & Processors (in General).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Computer Processors.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer (Hardware) Components.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Processors/Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 Basic CPU Components/CPU Cache.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Hunting.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities/Vulnerabilities.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "CS/Academics/Academics.md",
+    "CS/🏠 Assets/Personal Learning, University, and Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Wargames/Wargames.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Pikachu/Pikachu.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Cyber Ranges & Labs.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Wargames",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🎯 Ranges Environments/Vulhub.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Pikachu",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🎯 Ranges Environments/pwndocker.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
+    "Assets/Pics/Pasted image 20240510151232.png",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/GRE (Generic Routing Encapsulation)/GRE (Generic Routing Encapsulation).md",
+    "Assets/Pics/Pasted image 20240510151215.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DHCP (Dynamic Host Configuration Protocol)/DHCP (Dynamic Host Configuration Protocol).md",
+    "Assets/Pics/Pasted image 20240510151144.png",
+    "Assets/Pics/Pasted image 20240510151123.png",
+    "Assets/Pics/Pasted image 20240510151102.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW) Protocols/WebRTC",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation (GPL & DSL)/Data Representation & Exchanging (DSL)",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation (GPL & DSL)/Data Representation & Exchanging (GPL)",
     "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Operating Systems/TrueNAS",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/ZFS & openZFS",
-    "Assets/Pics/Pasted image 20240508170638.png",
-    "Assets/Pics/Pasted image 20240508170630.png",
-    "Assets/Pics/Pasted image 20240508170622.png",
-    "Assets/Pics/Pasted image 20240508170614.png",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/NAS (Network-Attached Storage) Protocols/AFS (Apple File System)",
     "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Application Dev Frameworks/Dify.AI",
     "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Application Dev Frameworks",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Fine Tuing",
-    "CS/Software Engineering/🤖 AI x SE/AI & Gaming",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/XDR (Extended Detection and Response)",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/AlmaLinux",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/Text2X",
-    "Assets/Pics/Pasted image 20240507191822.png",
-    "CS/🗺 CS Overview/Obsidian Test Features/Test Canvans.canvas",
-    "Assets/Pics/Pasted image 20240428004026.png",
-    "Assets/Pics/Screenshot 2024-04-27 at 3.59.06 PM.png",
-    "Assets/Pics/Pasted image 20240427154740.png",
-    "Assets/Pics/Screenshot 2024-04-27 at 3.46.31 PM.png",
-    "Assets/Pics/Pasted image 20240427104642.png",
+    "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Untitled.canvas",

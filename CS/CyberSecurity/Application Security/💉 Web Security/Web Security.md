@@ -10,8 +10,8 @@
 ↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 ↗ [Network Penetration (Pen-testing)](Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 
-↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/DWVA/DWVA.md)
-↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/sqli-labs/sqli-labs.md)
+↗ [DWVA](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/DWVA/DWVA.md)
+↗ [sqli-labs](../../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/sqli-labs/sqli-labs.md)
 
 ↗ [Exploiting Web-based Applications & Services](Network%20Penetration%20(Pen-testing)/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
 ↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)

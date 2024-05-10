@@ -45,7 +45,6 @@ https://lib.tsinghua.edu.cn/info/1147/3359.htm
 
 [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com)
 
-
 **期刊等级的划分：**
 北大核心
 南大核心
@@ -53,7 +52,6 @@ SCI， Science Citation Index
 SSCI，Social Sciences Citation Index
 CSSCI，中文社会科学引文索引
 
-### Academic Evaluation
 https://www.nature.com/nature-index/institution-outputs/generate/all/global/all
 Nature Index
 
@@ -212,3 +210,5 @@ Academic ranks in the United States
 	2. connected paper
 5. 通过文献找到相对应的代码
 	1. paper with code
+
+[👍 为什么现在有些研究生想退学？ - 哈里叔叔的回答 - 知乎]: https://www.zhihu.com/question/27479057/answer/834579040

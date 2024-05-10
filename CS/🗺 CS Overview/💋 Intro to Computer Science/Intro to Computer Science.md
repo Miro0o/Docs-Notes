@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [🤯 Awesome List](../🤯%20Awesome%20List.md)
 ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
-- ↗ [Computer Components](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Components.md)
+- ↗ [Computer (Hardware) Components](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20(Hardware)%20Components.md)
 - ↗ [Computer Architecture](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ↗ [🌲 Road To CS](../🌲%20Road%20To%20CS.md)
@@ -16,10 +16,10 @@
 
 
 ### Courses
-🏫 [CMU/ICS](../../🏠%20Assets/Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
+🏫 [CMU/ICS](../../🏠%20Assets/Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 
-🏫 [NJU/计算机系统基础](../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/NJU/计算机系统基础/计算机系统基础.md)
-🏫 [Harvard/CS50x](../../🏠%20Assets/Universities/Harvard/CS50x/CS50x.md)
+🏫 [NJU/计算机系统基础](../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/计算机系统基础/计算机系统基础.md)
+🏫 [Harvard/CS50x](../../🏠%20Assets/Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
 
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
@@ -28,7 +28,7 @@
 📖 [CSAPP](http://csapp.cs.cmu.edu/3e/home.html)
 - [CSAPP Blog Page](http://csappbook.blogspot.com)
 - [gitbook chinese version (partial)](https://hansimov.gitbook.io/csapp/)
-- ↗ [15-213, 14-513, 15-513 (ICS)](../../🏠%20Assets/Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
+- ↗ [15-213, 14-513, 15-513 (ICS)](../../🏠%20Assets/Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 
 📖 New Perspectives Computer Concepts Comprehensive, June Jamrich Parsons
 🔗 https://www.amazon.com/Perspectives-Computer-Concepts-Comprehensive-MindTap/dp/0357674618

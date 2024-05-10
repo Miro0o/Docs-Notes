@@ -55,3 +55,6 @@ NAT 的实现方式有三种：静态网络地址转换、动态网络地址转�
 ## Ref
 [👍 Telegram: we get the IP address of the interlocutor]: https://n0a.pw/telegram-get-remote-ip/
 
+[👍 全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240510150735.png)

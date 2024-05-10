@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Cyber Ranges & Labs](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
-↗ [SEED Project](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/SEED%20Project/SEED%20Project.md)
+↗ [SEED Project](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
 ↗ [Risk Management](../⛈️%20Risk%20Management/Risk%20Management.md)
 ↗ [Software Security](🍦%20Software%20Security/Software%20Security.md)
 

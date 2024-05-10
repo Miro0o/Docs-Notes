@@ -66,7 +66,7 @@ od - dump files in octal and other formats
 
 
 ### 👉 bless
-> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
+> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
 
 
 

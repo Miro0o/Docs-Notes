@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [K8s](../../../../Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/Cluster%20Scheduling%20&%20Orchestration/🏗️%20K8s/K8s.md)
+↗ [Kubernetes (K8S)](../../../../Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🥋%20Orchestration%20&%20Management/Cluster%20Scheduling%20&%20Orchestration/🏗️%20Kubernetes%20(K8S)/Kubernetes%20(K8S).md)
 
 
 

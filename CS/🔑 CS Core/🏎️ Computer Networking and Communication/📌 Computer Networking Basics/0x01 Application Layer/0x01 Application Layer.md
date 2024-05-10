@@ -14,11 +14,14 @@
 ## Intro
 [Application Layer | Wikipedia](https://en.wikipedia.org/wiki/Application_layer)
 
+### Network Stacks & Application Layer
+![](../../../../../../Assets/Pics/Pasted%20image%2020240510144223.png)
+<small>https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA</small>
+
 
 
 ## 🧑🏽‍🏫 Principles of Network Applications
 ### 1️⃣ Network Application Architectures
-
 ↗ [Network Application Communication Architectures](Network%20Application%20Communication%20Architectures.md)
 
 
