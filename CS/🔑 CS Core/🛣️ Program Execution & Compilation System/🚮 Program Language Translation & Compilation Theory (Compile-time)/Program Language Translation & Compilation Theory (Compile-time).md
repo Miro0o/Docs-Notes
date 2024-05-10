@@ -6,10 +6,10 @@
 
 ## Res
 ### Courses & Books
-🏫 [Stanford /CS143: Compilers](../../../🏠%20Assets/Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
+🏫 [Stanford /CS143: Compilers](../../../🏠%20Assets/Courses%20of%20Universities/Stanford/CS%20143%20Compilers/CS143:%20Compilers.md)
 
-🏫 [NJU / 软件分析](../../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/NJU/软件分析/软件分析.md)
-🏫 [UNDT /编译原理](../../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/UNDT/编译原理/编译原理.md)
+🏫 [NJU / 软件分析](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/软件分析/软件分析.md)
+🏫 [UNDT /编译原理](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/UNDT/编译原理/编译原理.md)
 
 🎬【第一课，编译原理介绍】 https://www.bilibili.com/video/BV1kq4y147DF?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 

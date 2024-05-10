@@ -10,7 +10,7 @@
 
 
 ### Projects & Labs
-↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
+↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
 🔥 👍 Comprehensive & Introductory security labs/ courses
 
 ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
@@ -109,6 +109,8 @@ https://wiki.wgpsec.org
 
 
 ### Info & Res & News
+> ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+
 📄 🤔 https://assume-breach.medium.com/im-not-a-pentester-and-you-might-not-want-to-be-one-either-8b5701808dfc
 I’m Not A Pentester (And You Might Not Want To Be One Either)
 
@@ -118,8 +120,6 @@ https://www.aqniu.com
 安全内参
 
 buffree
-
-
 
 👍 📄 安全圈，黄诚
 https://www.sec-wiki.com/
@@ -150,6 +150,10 @@ https://wikileaks.org
 ---
 **Security Week**
 https://www.securityweek.com
+
+---
+**The Hacker News**
+https://thehackernews.com
 
 
 ### Events & Community
@@ -369,3 +373,32 @@ Lots of links & resources related to cybersecurity
 ![](../../Assets/Pics/Pasted%20image%2020240414133043.png)
 
 [defence stratagy | wikipedia]: https://en.wikipedia.org/wiki/Defense_strategy_(computing)
+
+[The Top Cybersecurity Websites and Blogs of 2024 | UpGuard]: https://www.upguard.com/blog/cybersecurity-websites
+
+[👍 信息安全前沿技术有哪些？ - 知乎]: https://www.zhihu.com/question/25024086
+四大顶会如下，简称：S&P、CCS、Security、NDSS 
+- **CCS**（ACM Conference on Computer and Communications Security）
+- **NDSS**（Network and Distributed System Security Symposium）
+- **Oakland S&P**（IEEE Symposium on Security & Privacy)
+- **USENIX Security**（USENIX Security Symposium
+
+[从事网络安全领域在以后会吃香吗？ - FDrag0n的回答 - 知乎]: https://www.zhihu.com/question/452434830/answer/2788137074
+
+别来，国内已经饱和了，除了顶尖人士其他没什么缺口。
+
+在行业内干过应该可以达成一个共识，**单独的安全是没有价值的**。
+
+对于甲方型厂商，安全的价值在于帮助业务解决安全问题。
+
+在乙方型厂商，安全的价值在于卖出产品，包括但不限于安全产品，安全服务，安全培训等等。
+
+在toc市场，没有多少人会为安全付款，几乎等于无价值
+
+在tob市场，安全的价值在于满足监管要求，以及减少漏洞造成的损失
+
+在tog市场，安全的价值在于花掉对应的资金，并且购买安全产品附赠的服务
+
+只有tow市场才是安全正统，只有这里会养一些纯粹的安全研究人员，但是人数需求不会太大，毕竟外包人员是一个既好用又不担责的伟大发明
+
+当然这只是在说合法的那部分，如果是非法的部分那只能说是相当的赚钱。

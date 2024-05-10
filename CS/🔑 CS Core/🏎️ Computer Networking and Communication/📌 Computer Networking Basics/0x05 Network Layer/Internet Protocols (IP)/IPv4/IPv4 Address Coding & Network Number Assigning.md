@@ -21,7 +21,7 @@ Subnet is device interfaces that can physically reach each other without passing
 
 
 
-## IPv4 Address Coding Methods
+## 🎯 IPv4 Address Coding Methods
 ![Screenshot 2022-11-20 at 12.26.00 PM](../../../../../../../Assets/Pics/Screenshot%202022-11-20%20at%2012.26.00%20PM.png)
 
 
@@ -192,3 +192,7 @@ IP地址分为公有IP地址和私有IP地址。
 组播地址，注意它和广播的区别。从224.0.0.0到239.255.255.255都是这样的地址。
 外网地址是除了内网和组播地址以外的地址范围
 ```
+
+[全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240510145621.png)
+

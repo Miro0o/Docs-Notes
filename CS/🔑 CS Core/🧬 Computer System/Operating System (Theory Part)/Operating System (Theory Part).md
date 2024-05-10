@@ -13,15 +13,15 @@
 
 ### Learning Resources
 #### Courses
-🏫 [NJU /操作系统](../../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
-🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
-🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
+🏫 [NJU /操作系统](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
+🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
+🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Courses%20of%20Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
 > Learning in action by ↗ [Operating System (Engineering Part)](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
 > Theoretical knowledge begins with ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
 
-🇨🇳 ↗ [NJU /操作系统](../../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
-🇨🇳 ↗ [HIT OS /Operating System](../../../🏠%20Assets/Universities/🇨🇳%20Mainland%20China/HIT/HIT%20OS%20-%20Operating%20System.md)
+🇨🇳 ↗ [NJU /操作系统](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
+🇨🇳 ↗ [HIT OS /Operating System](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/HIT/HIT%20OS%20-%20Operating%20System.md)
 #### Books
 ↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [UNIX Family](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/UNIX%20Family/UNIX%20Family.md)

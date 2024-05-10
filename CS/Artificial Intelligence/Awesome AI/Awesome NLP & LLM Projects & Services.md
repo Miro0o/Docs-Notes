@@ -43,15 +43,15 @@ Related Projects
 [ChatGPT-Clone](https://github.com/xtekky/chatgpt-clone)
 [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
 #### poe
-
+https://poe.com
 #### devv
 https://devv.ai/zh
 #### You
 https://you.com/
-
 #### Suno AI
 #### Coze
 #### Groq
+https://wow.groq.com/why-groq/
 #### pi
 
 
@@ -61,9 +61,8 @@ https://you.com/
 
 ↗ [OpenAI /chatGPT](../../../../Artificial%20Intelligence/👀%20AI%20WatchList/Enterprises/OpenAI/ChatGPT.md)
 ↗ [Prompt Engineering](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20Prompt%20Engineering/Prompt%20Engineering.md)
-
 #### Claude
-
+https://www.anthropic.com/app-unavailable-in-region?utm_source=country
 #### Gemini
 
 

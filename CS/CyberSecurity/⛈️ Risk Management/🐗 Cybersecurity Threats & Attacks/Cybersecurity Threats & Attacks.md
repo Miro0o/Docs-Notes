@@ -99,3 +99,5 @@
 [高级威胁攻击技战术分析]: https://0x666.club/tradecraft-analysis/
 
 [IOA VS IOC]: https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/ioa-vs-ioc/
+
+[暗网简介：Akira Ransomware]: https://mp.weixin.qq.com/s/jkrW1WG_gGmnkJD4slic4g

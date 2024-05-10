@@ -45,3 +45,9 @@ See the 802.1Q standard [IEEE 802.1q 2005] for more details.
 
 ## Ref
 [👍 深入理解lan、vlan、vxlan《OpenStack 网络》]: https://developer.aliyun.com/article/945531#slide-1
+
+[👍 全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240510151034.png)
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240510151102.png)

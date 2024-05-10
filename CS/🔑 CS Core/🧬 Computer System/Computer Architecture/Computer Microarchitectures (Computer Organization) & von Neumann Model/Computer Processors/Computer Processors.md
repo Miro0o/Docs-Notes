@@ -12,6 +12,12 @@
 ↗ [Digital Electronics Foundations](../../../⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
 ↗ [OS Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
+↗ [Semiconductor Industry & Companies](../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+
+
+### Other Resources
+🎬 👍【芯片放大几万倍，你会看到什么？】 https://www.bilibili.com/video/BV17F4m1T7M2/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Overview

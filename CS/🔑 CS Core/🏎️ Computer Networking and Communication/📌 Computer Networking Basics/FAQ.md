@@ -39,7 +39,7 @@
 ## 👉 pipelining, parallelism, concurrency
 #pipelining #parallelism #concurrency #http
 
-> ↗ [HTTP Connection Management](0x01%20Application%20Layer/🔥%20Web%20(WWW)/HTTP%20(HyperText%20Transfer%20Protocol)/📌%20HTTP%20Basics/HTTP%20Connection%20Management.md)
+> ↗ [HTTP Connection Management](0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/📌%20HTTP%20Basics/HTTP%20Connection%20Management.md)
 
 > TL;DR
 > **concurrency**: multiple task request concur at the same time

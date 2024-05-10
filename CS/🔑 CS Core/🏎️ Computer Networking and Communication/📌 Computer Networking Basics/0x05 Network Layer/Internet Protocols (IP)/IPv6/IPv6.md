@@ -8,7 +8,9 @@
 🔗【深入浅出计算机网络 - 4.9.1 IPv6引进的主要变化】 https://www.bilibili.com/video/BV1VY4y1J7GV/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
+### Related Topics
 ↗ [NDP (Neighbor Discovery Protocol) (IPv6)](../../🚙%20Data%20Plane%20(Forwarding)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6)/NDP%20(Neighbor%20Discovery%20Protocol)%20(IPv6).md)
+
 
 
 ## Overview
@@ -53,3 +55,7 @@
 ## Ref
 [IPv6 Addressing Overview. -- 「Oracle」System Administration Guide: IP Services]: https://docs.oracle.com/cd/E18752_01/html/816-4554/ipv6-overview-10.html
 [IPv4 and IPv6 address formats -- 「IBM」TS3500 Tape Library]: https://www.ibm.com/docs/en/ts3500-tape-library?topic=functionality-ipv4-ipv6-address-formats
+
+[👍 全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
+
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240510150942.png)

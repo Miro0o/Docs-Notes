@@ -24,7 +24,11 @@
 
 
 
-## Physical Networks
+## Physical Networks & Communication Media
+![](../../../../../Assets/Pics/Pasted%20image%2020240510145217.png)
+<small>https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA</small>
+
+
 ### Wired Network
 The following classes of wired technologies are used in computer networking.
 - _[Coaxial cable](https://en.wikipedia.org/wiki/Coaxial_cable "Coaxial cable")_ is widely used for cable television systems, office buildings, and other work sites for local area networks. Transmission speed ranges from 200 million bits per second to more than 500 million bits per second.

@@ -7,7 +7,9 @@
 ## Res
 📂 [ WebSockets API (WebSockets)| Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
-↗ [WebSocket](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🔥%20Web%20(WWW)/WebSocket/WebSocket.md)
+
+### Related Topics
+↗ [WebSocket](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/WebSocket/WebSocket.md)
 
 
 

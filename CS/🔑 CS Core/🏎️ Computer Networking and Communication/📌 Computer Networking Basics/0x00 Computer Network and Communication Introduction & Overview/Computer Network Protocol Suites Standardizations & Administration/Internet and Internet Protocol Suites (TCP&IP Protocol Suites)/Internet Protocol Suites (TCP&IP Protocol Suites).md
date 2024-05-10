@@ -21,6 +21,9 @@ The **Internet protocol suite,** commonly known as **TCP/IP,** is a framework fo
 ### Layering Architecture
 The Internet protocol suite provides [end-to-end data communication](https://en.wikipedia.org/wiki/End-to-end_principle) specifying how data should be packetized, addressed, transmitted, [routed](https://en.wikipedia.org/wiki/Routing), and received. This functionality is organized into four [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer), which classify all related protocols according to each protocol's scope of networking. 
 
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240510144928.png)
+<small>https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA</small>
+
 
 ### Protocol Stack
 An implementation of the layers for a particular application forms a [protocol stack](https://en.wikipedia.org/wiki/Protocol_stack). From lowest to highest, the layers are 
