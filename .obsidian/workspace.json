@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57b750b8ead4e5bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/2024 Interns & Exchanges.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/2024 Interns & Exchanges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/2024 Interns & Exchanges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/2024 Interns & Exchanges.md"
               }
             }
           },
@@ -171,11 +184,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "207180f9d0c3ab99",
+  "active": "57b750b8ead4e5bb",
   "lastOpenFiles": [
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/2023 Summer Camp & Exchanges.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/Summer Camp & Exchange Programs & Interns.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/2024 Interns & Exchanges.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Contries Specific/Canada.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Contries Specific/Singapore.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Text & File & Dir Management Basics.md",
     "CS/Software Engineering/🤖 AI x SE/AIGC (AI-Generated Content) & AGI (Artificial General Intelligence)/AIGC (AI-Generated Content) & AGI (Artificial General Intelligence).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
     "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/Key-Value DBMS/Redis & Open Redis Forks/Valkey.md",
     "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/Key-Value DBMS/Redis & Open Redis Forks/Redis.md",
     "CS/🔑 CS Core/🍕 Database System/👔 DBMS (DataBase Management System) Implementations/Key-Value DBMS/Redis & Open Redis Forks/Redict.md",
@@ -198,16 +217,10 @@
     "CS/CyberSecurity/CyberSecurity.md",
     "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Wargames/Wargames.md",
     "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Pikachu/Pikachu.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Cyber Ranges & Labs.md",
     "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Wargames",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🎯 Ranges Environments/Vulhub.md",
     "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Pikachu",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🎯 Ranges Environments/pwndocker.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🫱🏻‍🫲🏿 Network Layer Security/IPSec (Internet Protocol Security) & IPSec VPN/IPSec (Internet Protocol Security) & IPSec VPN.md",
     "Assets/Pics/Pasted image 20240510151232.png",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/📌 Tunneling Protocols & Technologies/GRE (Generic Routing Encapsulation)/GRE (Generic Routing Encapsulation).md",
     "Assets/Pics/Pasted image 20240510151215.png",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🚔 Network Managements & Standards/DHCP (Dynamic Host Configuration Protocol)/DHCP (Dynamic Host Configuration Protocol).md",
     "Assets/Pics/Pasted image 20240510151144.png",
     "Assets/Pics/Pasted image 20240510151123.png",
     "Assets/Pics/Pasted image 20240510151102.png",
