@@ -2,6 +2,10 @@
 
 [TOC]
 
+
+
+## Info
+
 [关于选派本科生参加香港理工大学2023国际暑期线下课程项目（“大川视界”项目）的通知](https://jwc.scu.edu.cn/info/1081/8990.htm)
 
 
@@ -60,4 +64,15 @@
 项目费用： $4500/人，包含：学费、材料费、食宿费、保险费、课程包含的活动费；不包含：接送机场来回费用及其他个人消费等。
 
 
+
+## 2023 - SoC Summer Workshop
 [NUS Summar workshop ](https://sws.comp.nus.edu.sg/Application.html)
+
+
+### Robotics
+https://www.tinkercad.com/dashboard?type=activities&class=1GMkFEazq5m
+
+
+### Deep Learning
+password for quiz
+funky#Husky123#
