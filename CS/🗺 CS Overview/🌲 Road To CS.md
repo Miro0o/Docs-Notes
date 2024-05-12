@@ -48,7 +48,7 @@ CS自学指南
 - [四川大学飞跃手册](http://scu-flying.com/)
 
 
-### 🌍 Other Selected Sites
+### 🌍 Other Selected Guidance Sites
 [roadmap.sh](https://roadmap.sh)
 
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
@@ -70,6 +70,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
 ↗ [我们需要怎样的数学教育？](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
 ↗ [How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+- ↗ [外语学习误区及真实方法](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -82,59 +83,74 @@ https://github.com/hoochanlon/hamulete/tree/master
 ↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 
-### 1️⃣ CS Quick Intro /Foundations
+### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
 1. Quick CS Intro
-	1. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-	2. ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
+	1. ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md#📌%20Guidelines%20&%20Roadmaps)
+	2. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+	3. ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
 2. CS Core /Foundation
-	1. This is hard but foundational. However, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
+	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. ↗ [Computer Networking and Communication](../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	5. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 
 
-### 💯 CS Specific Fields
+### 2️⃣ CS Specific Fields
 ![computer_architecture_and_computer_science.excalidraw | 800](../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 
 1. Theoretical Computer Science & Algorithms
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 	2. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-2. Computer Security
+	3. etc.
+2. Data Scientist /AI
+	5. ↗ [Data Science](../Data%20Science/Data%20Science.md)
+	6. ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
+	7. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	8. etc.
+3. Computer Security
 	1. ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
-3. Software Engineering
+	2. ↗ [Cryptology](../CyberSecurity/🚬%20Cryptology/Cryptology.md)
+	3. etc.
+4. Software Engineering
 	1. ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
-	2. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
-	3. ↗ [Program Execution & Compilation System](../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
-4. System Architecture /Cloud
+	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	4. ↗ [Program Execution & Compilation System](../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+	5. etc.
+5. System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 	2. ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
 	3. ↗ [Awesome Architect](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
-5. Data Scientist /AI
-	1. ↗ [Data Science](../Data%20Science/Data%20Science.md)
-	2. ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
+	5. etc.
 6. IoT /Hardware /Computer Engineering
 	1. ↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 	2. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	3. etc.
 7. Web3 /Metaverse /Cryptocurrency
-	1. ↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
-8. etc..
+	5. ↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
+	6. etc.
+8. Human-Computer Interaction
+	1. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
+9. etc..
 
 
-### CS & IT Academia & Industry
-↗ [Academic Conference in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20in%20Electronics%20&%20Information%20Fields.md)
-↗ [Academic Institutions in Electronic & Information Fields](../Academics/🏢%20Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+### 3️⃣ Dig into CS/IT Academia or Industry
+↗ [Academics](../Academics/Academics.md)
+- ↗ [Academic Conference in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20in%20Electronics%20&%20Information%20Fields.md)
+- ↗ [Academic Institutions in Electronic & Information Fields](../Academics/🏢%20Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 
 
 ## 🎉 More Res
-> ↗ [😅 Wiki & Resources](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources/😅%20Wiki%20&%20Resources.md)
+> ↗ [😅 Wiki & Resources](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources.md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 
 
-### IT & CS Updates /Trending/ News /Analysis
-
+### Generic IT Knowledge
+#### IT & CS Updates /Trending/ News /Analysis
 ---
 **Gartner** 
 [Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
@@ -181,9 +197,41 @@ https://www.oschina.net
 https://www.ruanyifeng.com
 
 ---
+**Github Trending**
 
+---
+**Hacker News**
+https://news.ycombinator.com
+Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
 
-### CS Course /Training Channels
+---
+🔈 https://hnrss.github.io/#activity-parameters
+hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
+#### Enterprise's Updates
+↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+
+#### CS/IT Communities & Forums
+**launchpad help**
+🏠 https://help.launchpad.net
+
+Launchpad is an open source suite of tools that help people and teams to work together on software projects. [See the tour](https://launchpad.net/+tour) for an introduction to what you can do with Launchpad.
+
+---
+**Learn Code The Hard Way**
+🏠 🫂 https://forum.learncodethehardway.com
+
+---
+[编程黑洞网](http://129.226.226.195/)
+看起来像一个机翻外网文章的合集。
+
+---
+https://www.howtogeek.com
+news & tips & articles about IT/CS
+
+---
+https://forum.exetools.com
+
+#### CS-Related Course /Training Online Channels 🎬
 **哔哩大学计算机学院**
 🎬 https://space.bilibili.com/3493285983160582?plat_id=1&share_from=space&share_medium=iphone&share_plat=ios&share_session_id=45500281-6E65-4AAD-82EE-5EA13123733A&share_source=WEIXIN&share_tag=s_i&spmid=main.space-contribution.0.0&timestamp=1713443322&unique_k=tVeA7cI
 
@@ -241,9 +289,7 @@ https://www.youtube.com/@3blue1brown
 李永乐
 https://www.youtube.com/@TchLiyongle
 ↗ [🧠 This is Science](../🏠%20Assets/This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
-
-
-### CS Tutorials /Books
+#### CS-Related Tutorials /Websites /Books 📝
 ---
 [guru99](https://www.guru99.com)
 
@@ -253,22 +299,17 @@ https://www.youtube.com/@TchLiyongle
 ---
 [javatpoint](https://www.javatpoint.com)
 
-
 ---
 [ochicken Libiary ](https://ochicken.top/Library/)
-
 
 ---
 [web.dev](https://web.dev/learn/)
 
-
 ---
 [Call For Code](https://callforcode.org)
 
-
 ---
 📂 [learnku.com](https://learnku.com)
-
 
 ---
 📚 [invent with python](https://inventwithpython.com)
@@ -280,7 +321,6 @@ I'm Al Sweigart, and I write books to teach beginners to code. I put them online
 
 Get started today. And good luck on your programming journey!
 
-
 ---
 👨‍💻 [wolframalpha](https://www.wolframalpha.com)
 - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology
@@ -291,7 +331,6 @@ Get started today. And good luck on your programming journey!
 
 ---
 🎬 [HackerSploit](https://www.youtube.com/HackerSploit)
-
 
 ---
 🎬 [Linux Academy](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
@@ -307,10 +346,10 @@ Welcome to the CertBros Youtube channel! Not your average IT training Get involv
 very useful site about various topics in CS!
 
 
-### Blogs /Docs Online
+### Specific Technical Knowledge
+#### (Personal) Technical Blogs /Docs
 📖 [图灵社区 - 中文站](https://m.ituring.com.cn)
 著名的图灵出版社，里面有很多优质的计算机科学相关的读物。
-
 
 ---
 📝 👥 [LUG@USTC](https://lug.ustc.edu.cn)
@@ -318,14 +357,12 @@ very useful site about various topics in CS!
 
 中国科学技术大学 Linux 用户协会是由中国科学技术大学在校的 GNU/Linux 爱好者发起并组成的团体，旨在联合科大的 GNU/Linux 使用者，搭建信息交流共享的平台，宣传自由软件的价值，提高自由软件社区文化氛围，推广自由软件的应用。
 
-
 ---
 📂 [云图 – 云计算图志](https://cloud-atlas.readthedocs.io/zh_CN/latest/index.html#cloud-atlas)
 
 > 开源技术赋予我们站在巨人的肩膀上做到更高更强的可能，成长为 `全栈工程师` 。我想通过开源技术来构建 `one personal cloud` ，实现完整的数据中心的构建和运维，实现IaaS，PaaS，SaaS。从存储、网络、虚拟化，从操作系统到数据库，从Web服务到消息中间件，只要是基础的服务，结合DevOps的自动化能力来实现持续集成、持续交付。
 
 很全面
-
 
 ---
 📝 👨‍💻 [Linux学习笔记](https://www.huweihuang.com/linux-notes/)
@@ -339,31 +376,10 @@ very useful site about various topics in CS!
 > 
 > 个人博客：[www.huweihuang.com](https://www.huweihuang.com/)
 
-
----
-👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
-
-[编程随想收藏的各色网站](https://github.com/programthink/sites)
-新闻时事类 ｜ 政治类 ｜ 财经类 ｜ IT技术类 ｜ 科普类 ｜ 编程类
-
-[【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
-政治 ｜ 心理学 ｜ 历史 ｜ 经济 ｜ 管理 ｜ 社会学 ｜ 文艺 ｜ 哲学 ｜ 科普 ｜ 军事 ｜ IT
-> 这里汇总了俺收藏的各类电子书（不断增加中）。俺每隔几个月会在博客上通知大伙儿，近期更新了哪些书。俺博客的网址是：[https://program-think.blogspot.com/](https://program-think.blogspot.com/)
-> 
-> 因为俺博客在【墙外】，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）进行订阅，以获取电子书更新的通知。博客的订阅地址是：[https://feeds2.feedburner.com/programthink](https://feeds2.feedburner.com/programthink)
-
-[编程随想收藏的开源项目](https://github.com/programthink/opensource)
-本目录放置：面向程序员的开源代码库清单（含示例代码）。
-为了方便查找，根据“编程语言”归类。（目前先整理两个编程语言，今后有空再补充其它语言）
-- [C/C++](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
-- [Python](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
-
-
 ---
 👍 👨‍🎨 [ARTHURCHIAO'S BLOG](https://arthurchiao.github.io/)
 
 Many articles & translations!
-
 
 ---
 👨‍💻 https://learnbyexample.github.io/about/
@@ -400,15 +416,55 @@ Hi! I'm Julia. Here are my programming zines!
 (mainly about common CS basics in a more illustrating way)
 
 ---
+https://www.howtogeek.com
+
+---
+👨‍💻 https://www.xjimmy.com
+中间件 ｜ 虚拟化 ｜ 自动化管理 ｜ 编程 ｜ 服务集群 ｜ 安全
+
+---
+👨‍💻 https://www.joshwcomeau.com
+Mainly about tutorials on CSS /frontend dev
+
+---
+https://www.paulfioravanti.com
+code /language / mech/ Learning stenography
+https://www.paulfioravanti.com/blog/thanks-past-me/
+
+#### (Enterprise) Technical Supports & Blogs & Product Manuals
+↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+
+
+---
 https://developers.redhat.com
 Redhat Developer
 
-https://www.howtogeek.com
+---
+https://support.huawei.com/enterprise/zh/index.html
+华为 - 产品/行业解决方案 技术支持
 
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
 > ↗ [Academic Research Group Profiles](../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
+
+---
+👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
+
+[编程随想收藏的各色网站](https://github.com/programthink/sites)
+新闻时事类 ｜ 政治类 ｜ 财经类 ｜ IT技术类 ｜ 科普类 ｜ 编程类
+
+[【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
+政治 ｜ 心理学 ｜ 历史 ｜ 经济 ｜ 管理 ｜ 社会学 ｜ 文艺 ｜ 哲学 ｜ 科普 ｜ 军事 ｜ IT
+> 这里汇总了俺收藏的各类电子书（不断增加中）。俺每隔几个月会在博客上通知大伙儿，近期更新了哪些书。俺博客的网址是：[https://program-think.blogspot.com/](https://program-think.blogspot.com/)
+> 
+> 因为俺博客在【墙外】，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）进行订阅，以获取电子书更新的通知。博客的订阅地址是：[https://feeds2.feedburner.com/programthink](https://feeds2.feedburner.com/programthink)
+
+[编程随想收藏的开源项目](https://github.com/programthink/opensource)
+本目录放置：面向程序员的开源代码库清单（含示例代码）。
+为了方便查找，根据“编程语言”归类。（目前先整理两个编程语言，今后有空再补充其它语言）
+- [C/C++](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
+- [Python](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
 
 ---
 👨‍💻 [小卒过河 | 后台&系统 ](https://icoty.github.io)
@@ -422,10 +478,6 @@ https://www.howtogeek.com
 ---
 👨‍💻 https://haobin-tan.netlify.app
 Software Concept Developer / Innovation Manager for Algorithms
-
----
-👨‍💻 https://www.xjimmy.com
-中间件 ｜ 虚拟化 ｜ 自动化管理 ｜ 编程 ｜ 服务集群 ｜ 安全
 
 ---
 👨‍💻 https://www.fullstackpython.com/about-author.html
@@ -470,10 +522,6 @@ I'm an applied researcher, focused on creating user interfaces that expand what 
 I believe personal computers can enable [transformative tools for thought](https://numinous.productions/ttft/): environments that radically transform what people can think and do, so much so that we expand the set of thoughts it’s possible to think. I want to produce _alien cognitive and creative powers_—as wondrous and magical to us today as a modern visual effects artist might seem to a cave painter.
 
 ---
-👨‍💻 https://www.joshwcomeau.com
-Mainly about tutorials on CSS /frontend dev
-
----
 👨‍💻 https://ln.hixie.ch
 former google employee. 
 first learn him from 🔗 [Reflecting on 18 years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
@@ -490,11 +538,6 @@ https://anotherdayu.com/about/
 https://dougallj.wordpress.com
 
 ---
-https://www.paulfioravanti.com
-code /language / mech/ Learning stenography
-https://www.paulfioravanti.com/blog/thanks-past-me/
-
----
 http://kimiyoung.github.io
 I am a cofounder of Recurrent AI and an assistant professor of Tsinghua University.
 我的名字是杨植麟。
@@ -508,50 +551,23 @@ I am a cofounder of Recurrent AI and an assistant professor of Tsinghua Universi
 CTFer
 
 
-### Communities & Forums
-
----
-**Hacker News**
-https://news.ycombinator.com
-Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
-
-🔈 https://hnrss.github.io/#activity-parameters
-hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
-
----
-**launchpad help**
-🏠 https://help.launchpad.net
-
-Launchpad is an open source suite of tools that help people and teams to work together on software projects. [See the tour](https://launchpad.net/+tour) for an introduction to what you can do with Launchpad.
-
----
-**Learn Code The Hard Way**
-🏠 🫂 https://forum.learncodethehardway.com
-
----
-[编程黑洞网](http://129.226.226.195/)
-看起来像一个机翻外网文章的合集。
-
----
-https://www.howtogeek.com
-news & tips & articles about IT/CS
-
----
-https://forum.exetools.com
-
-
 ### Campus Lifes
+↗ [CS International Universities & Countries' Lives](CS%20International%20Universities%20&%20Countries'%20Lives/CS%20International%20Universities%20&%20Countries'%20Lives.md)
+↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+
+
 ---
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
 ---
 [复习考研的那些事儿～～](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination)
 
----
-[大学生活质量指北](../🏠 Assets/大学生活质量指北/大学生活质量指北.md)
-
 
 ### Career Guidance & Opportunities
+#### CS Professional Career
+↗ [CS & IT Jobs & Interns Related](CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
+
+#### non-CS Professional Career
 ---
 🔥 https://www.imaginephd.com
 a career exploration and planning tool for the humanities and social sciences.
@@ -567,7 +583,7 @@ a career exploration and planning tool for the humanities and social sciences.
 - [Careers Site](https://careers.google.com/?src=Online/Google%20Website/ByF&utm_source=byf&utm_medium=byf_site&utm_campaign=)
 
 
-### ⚰️ WLB
+### ⚰️ Work-Life Balance (WLB)
 ---
 https://github.com/AnsonZnl/RehabilitationGuide
 颈椎病康复指南

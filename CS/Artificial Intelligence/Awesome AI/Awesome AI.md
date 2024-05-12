@@ -31,5 +31,19 @@ https://www.aigc.cn/
 ## Intro
 
 
+## AlphaFold
+🏠 https://deepmind.google/technologies/alphafold/
+Alphafold | Google Deepmind
+
+🚧 https://github.com/google-deepmind/alphafold
+Open source code for AlphaFold.
+
+🔍 https://alphafold.ebi.ac.uk
+AlphaFold Protein Structure Database
+
+📄 https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/
+AlphaFold 3 predicts the structure and interactions of all of life’s molecules
+
+
 
 ## Ref

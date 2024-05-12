@@ -1,4 +1,4 @@
-# Opensearch
+# Opensearch Project
 
 [TOC]
 
@@ -8,7 +8,9 @@
 🏠 https://opensearch.org
 📂 https://opensearch.org/docs/latest/
 
-↗ [Elasticsearch](../ELK/Elasticsearch.md)
+
+### Related Topics
+↗ [Elasticsearch](../📲%20Embedding%20Database/Elasticsearch.md)
 
 
 

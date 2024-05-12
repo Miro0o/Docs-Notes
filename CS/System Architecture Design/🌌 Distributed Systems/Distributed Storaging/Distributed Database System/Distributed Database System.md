@@ -11,21 +11,21 @@
 
 ### List of Distributed DBMS
 #### K-V DBMS
-↗ [Redis](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/Key-Value%20DBMS/Redis%20&%20Open%20Redis%20Forks/Redis.md)
-↗ [Memcached](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/Key-Value%20DBMS/Memcached/Memcached.md)
+↗ [Redis](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/KVDBMS%20(Key-Value)/Redis%20&%20Open%20Redis%20Forks/Redis.md)
+↗ [Memcached](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/KVDBMS%20(Key-Value)/Memcached/Memcached.md)
 
 #### Document DBMS
-↗ [MongoDB](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/Document%20Database/MongoDB/MongoDB.md)
-↗ [Opensearch](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Observability%20&%20Analysis/Logging/Opensearch/Opensearch.md)
+↗ [MongoDB](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/Document%20Database/MongoDB/MongoDB.md)
+↗ [Opensearch Project](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Opensearch%20Project/Opensearch%20Project.md)
 
 #### RDBMS
-↗ [TiDB](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/TiDB/TiDB.md)
-↗ [CockroachDB](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/CockroachDB/CockroachDB.md)
-↗ [Vitess](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/Vitess/Vitess.md)
-↗ [MySQL Cluster](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/MySQL%20Cluster/MySQL%20Cluster.md)
+↗ [TiDB](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/TiDB/TiDB.md)
+↗ [CockroachDB](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/CockroachDB/CockroachDB.md)
+↗ [Vitess](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/Vitess/Vitess.md)
+↗ [MySQL Cluster](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/RDBMS%20(Relational)/MySQL%20Cluster/MySQL%20Cluster.md)
 
 #### Column-oriented DBMS
-↗ [HBase](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/Column%20Oriented%20Database/Hbase/HBase.md)
+↗ [HBase](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/Column%20Oriented%20Database/Hbase/HBase.md)
 
 
 
