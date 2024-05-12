@@ -1,10 +1,24 @@
-# Search Services & Information Index
+# Search Services
 
 [TOC]
 
 
 
-## General Search Services
+## Res
+### Related Topics
+↗ [Awesome NLP & LLM Projects & Services](../../../Artificial%20Intelligence/Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+
+↗ [Data Science](../../../Data%20Science/Data%20Science.md)
+- ↗ [Large Data Computing Platforms](../../../Data%20Science/🧯%20Large%20Data%20Computing%20Platforms/Large%20Data%20Computing%20Platforms.md)
+
+↗ [DBMS (DataBase Management System) Implementations](../../🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
+- ↗ [Database Engines & Search Engines](../../🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Database%20Engines%20&%20Search%20Engines.md)
+- ↗ [Embedding Database](../../🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/📲%20Embedding%20Database/Embedding%20Database.md)
+
+
+
+## 🎯 Generic Global Search Services
 1. [Google](https://www.reliablesoft.net/top-10-search-engines-in-the-world/#google)
    No need for further introductions. [**Google**](https://www.google.com/) holds first place in search with a stunning difference of 88.28% from second place Bing.
 
@@ -50,10 +64,43 @@
 
 
 
-## Wiki
-1. wikipedia
-2. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
-3. 
+## Domain-specific Search Tasks
+> ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+
+
+### openk9
+https://www.openk9.io
+
+
+
+
+
+## 🎯 Dark Web Search & Tor
+↗ [Dark web](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Dark%20web.md)
+↗ [Onion Network & Tor](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Onion%20Network%20&%20Tor/Onion%20Network%20&%20Tor.md)
+
+
+
+## 🎯 LLM-Empowered Search
+> ↗ [Awesome NLP & LLM Projects & Services](../../../Artificial%20Intelligence/Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+
+
+### Perplexity
+
+
+### devv
+https://devv.ai/zh
+
+
+### You
+https://you.com/
+
+
+### Exa
+https://exa.ai/
+
+
+### Tavily RAG search
 
 
 

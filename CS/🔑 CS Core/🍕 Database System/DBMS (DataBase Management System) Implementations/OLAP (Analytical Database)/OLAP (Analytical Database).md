@@ -1,4 +1,4 @@
-# Key-Value DBMS
+# OLAP (Analytical Database)
 
 [TOC]
 

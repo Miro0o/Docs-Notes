@@ -23,7 +23,7 @@
 ↗ [Hardware Profiling](../Auxiliary%20Hardware%20&%20Peripherals/Hardware%20Profiling.md)
 
 ↗ [实用工具箱](../../🗺%20CS%20Overview/CS自学指南（转）/实用工具箱.md)
-↗ [😅 Wiki & Resources](😅%20Wiki%20&%20Resources/😅%20Wiki%20&%20Resources.md)
+↗ [😅 Wiki & Resources](😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources.md)
 
 
 

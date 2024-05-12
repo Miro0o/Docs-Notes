@@ -19,7 +19,6 @@
 
 
 
-
 ## Intern List
 ### SmartX
 https://www.smartx.com/global/
@@ -48,7 +47,7 @@ work in progress....
 ----
 updates 2024.5.7
 already took the offer and begin course selecting process.
-
+#### Course Selection
 2024 Fall
 - [ ] CSI 2372 - Advanced Programming Concepts With C++
 - [x] CSI 3105 - Design and Analysis of Algorithms I
@@ -78,7 +77,43 @@ already took the offer and begin course selecting process.
 - [ ] CSI 5311 - Distributed Databases and Transaction Processing
 - [ ] CSI 5345 - Internet of Things (IoT) Security
 - [x] CSI 5389 - Electronic Commerce Technologies (+1 combined)
+#### Costs
+##### Study & Campus Fees
+https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international
+https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees
+https://www.uottawa.ca/study/fees-financial-support/university-fees/estimating-total-university-fees
 
+https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees
+
+----
+Examples of university fees for a full-time first-year international student in an undergraduate program — two terms:
+
+| Type of fees                                | Amount for Fall term         | Amount for Winter term       |
+| ------------------------------------------- | ---------------------------- | ---------------------------- |
+| Tuition for program                         | $\$31,582.15*10\% = \$28424$ | $\$31,582.15*10\% = \$28424$ |
+| U-Pass                                      | $223.48                      | $212.71                      |
+| Health Services                             | $26.14                       | $26.14                       |
+| Sports                                      | $59.70                       | $59.70                       |
+| University Centre                           | $15.66                       | $15.66                       |
+| Insurance (dental and health)               | $83.30                       | $86.33                       |
+| UHIP (insurance for international students) | $252.00                      | $252.00                      |
+| UOSU                                        | $108.01                      | $108.01                      |
+| Faculty student associations                | varies                       | varies                       |
+| Incidental fees                             | varies                       | varies                       |
+| Administrative fees                         | varies                       | varies                       |
+| Total per term                              | ≈$29177                      | ≈$29185                      |
+Total for two terms: ≈$58362
+
+\*CAD$
+\*Fees Explanations:
+- Tuition Fee
+	- 33 or fewer units (usually 11 or fewer courses) - CA$31,582.15 
+	- 10% discount for 3+1+1 students
+	- ≈ $28424
+- other remains the same.
+##### Accommodation Fees
+https://www.uottawa.ca/campus-life/housing
+##### Living Fees
 
 ### UC Berkeley
 https://extension.berkeley.edu/international/academic/berkeley-global-access/visiting-student/

@@ -19,7 +19,7 @@ https://gitlib.com/architecture/
 
 
 ### Galleries
-↗ [DS Web Services' Architectures](../🔑%20CS%20Core/🍕%20Database%20System/🪐%20Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
+↗ [DS Web Services' Architectures](../🔑%20CS%20Core/🍕%20Database%20System/Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
 ↗ [System & Cloud Architecture Design Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/System%20&%20Cloud%20Architecture%20Design%20Galleries/System%20&%20Cloud%20Architecture%20Design%20Galleries.md)
 
 

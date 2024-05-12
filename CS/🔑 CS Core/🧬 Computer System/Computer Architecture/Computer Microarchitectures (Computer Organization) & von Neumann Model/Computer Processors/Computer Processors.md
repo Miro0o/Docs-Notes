@@ -12,7 +12,7 @@
 ↗ [Digital Electronics Foundations](../../../⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
 ↗ [OS Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
-↗ [Semiconductor Industry & Companies](../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+↗ [Semiconductor Industry & Companies](../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
 ### Other Resources

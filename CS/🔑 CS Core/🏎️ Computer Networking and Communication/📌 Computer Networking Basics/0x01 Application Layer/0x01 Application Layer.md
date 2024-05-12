@@ -10,9 +10,12 @@
 ↗ [Terminal Emulators](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Terminal%20Emulators.md)
 
 
+### Learning Resources
+[Application Layer | Wikipedia](https://en.wikipedia.org/wiki/Application_layer)
+
+
 
 ## Intro
-[Application Layer | Wikipedia](https://en.wikipedia.org/wiki/Application_layer)
 
 ### Network Stacks & Application Layer
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240510144223.png)

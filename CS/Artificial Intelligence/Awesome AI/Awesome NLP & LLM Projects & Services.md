@@ -28,8 +28,7 @@ Introducing Noi: an AI-enhanced, customizable browser designed to streamline you
 - **Discover More**: There are numerous details waiting for your discovery...
 
 
-### LLM Platforms
-#### Perplexity
+### LLM Access Platforms
 #### forefront.ai
 🏠 https://chat.forefront.ai
 #### Phind
@@ -44,16 +43,13 @@ Related Projects
 [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)
 #### poe
 https://poe.com
-#### devv
-https://devv.ai/zh
-#### You
-https://you.com/
 #### Suno AI
 #### Coze
 #### Groq
 https://wow.groq.com/why-groq/
 #### pi
-
+### LLM Search Platforms
+↗ [Search Services](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/Search%20Services.md)
 
 ### LLM Models
 #### ChatGPT

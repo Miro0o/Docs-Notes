@@ -5,21 +5,22 @@
 
 
 ## Res
-🔗 【深入浅出计算机网络 - 3.1 数据链路层概述】 https://www.bilibili.com/video/BV1WG411b7op/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-[Data Link Layer | Wikipedia](https://en.wikipedia.org/wiki/Data_link_layer)
-
-
 ### Related Data Link Layer Implementations
+↗ [OS IO System](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
+↗ [IO Control Methods](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/📌%20IO%20Control%20Methods/IO%20Control%20Methods.md)
+
+↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
+- ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
+- ↗ [Bus Specifications & Communication Control Systems](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/📌%20Bus%20Specifications%20&%20Communication%20Control%20Systems/Bus%20Specifications%20&%20Communication%20Control%20Systems.md)
+
 ↗ [Mobile Network (Cellular Network)](../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20(Cellular%20Network)/Mobile%20Network%20(Cellular%20Network).md)
 ↗ [Physical & Link Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/Physical%20&%20Link%20Layer%20Security.md)
 
-↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
-↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
-↗ [Bus Specifications & Communication Control Systems](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/📌%20Bus%20Specifications%20&%20Communication%20Control%20Systems/Bus%20Specifications%20&%20Communication%20Control%20Systems.md)
 
-↗ [OS IO System](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
-↗ [IO Control Methods](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/📌%20IO%20Control%20Methods/IO%20Control%20Methods.md)
+### Learning Resources
+🎬 【深入浅出计算机网络 - 3.1 数据链路层概述】 https://www.bilibili.com/video/BV1WG411b7op/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+[Data Link Layer | Wikipedia](https://en.wikipedia.org/wiki/Data_link_layer)
 
 
 

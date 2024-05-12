@@ -11,6 +11,11 @@
 📄 👨‍💻 🫂 https://metrics.torproject.org
 Tor Metrics archives historical data about the Tor ecosystem, collects data from the public Tor network and related services, and assists in developing novel approaches to safe, privacy preserving data collection.
 
+
+### Related Topics
+↗ [Dark web](../../Dark%20web.md)
+
+
 ### Tor Networks Sites Index
 📄 https://hiddenwikitor.com
 The hidden wiki exists in many forms since the tor network started, it was always a place where people could find other hidden service URLs.
@@ -35,9 +40,6 @@ Tor bridges collector
 
 https://torscan-ru.ntc.party
 Tor relay workers for use as Bridge (bridges)
-
-### Related Topics
-↗ [Dark web](../../Dark%20web.md)
 
 
 

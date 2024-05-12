@@ -10,6 +10,11 @@
 
 
 ### Related Topics
+↗ [Web API Dev & Data Access Layer](../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API%20Dev%20&%20Data%20Access%20Layer.md)
+↗ [DBMS (DataBase Management System) Implementations](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
+- ↗ [Vector Database](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/Vector%20Database/Vector%20Database.md)
+
+↗ [Prompt Engineering](../🚮%20Prompt%20Engineering/Prompt%20Engineering.md)
 
 
 ### Related Projects
@@ -17,7 +22,17 @@ https://www.coze.com
 
 
 
-## Intro
+## LLM + Agent = LLM + Memory + Knowledge + Tools
+![](../../../../../Assets/Pics/Pasted%20image%2020240512204130.png)
+<small>https://docs.phidata.com/introduction</small>
+
+**Problem:** LLMs have limited context and cannot take actions.  
+**Solution:** Add memory, knowledge and tools.
+- **Memory:** Enables LLMs to have long-term conversations by storing **chat history** in a database.
+- **Knowledge:** Provides LLMs with **business context** by storing information in a vector database.
+- **Tools:** Enable LLMs to **take actions** like pulling data from an API, sending emails or querying a database.
+
+Memory & knowledge make LLMs **smarter** while tools make them **autonomous**.
 
 
 

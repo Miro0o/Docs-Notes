@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [PGlite](../../../../🔑%20CS%20Core/🍕%20Database%20System/👔%20DBMS%20(DataBase%20Management%20System)%20Implementations/☕️%20Object-Relational%20Database/PostgreSQL/PGlite.md)
+↗ [PGlite](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/Object-Relational%20Database/PostgreSQL/PGlite.md)
 
 
 

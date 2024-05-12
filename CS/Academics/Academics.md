@@ -60,6 +60,14 @@ Nature Index
 https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_States
 Academic ranks in the United States
 
+https://www.zhihu.com/column/c_196483113
+计算机论文精选 | 知乎
+
+https://hoochanlon.github.io/hamulete/
+https://github.com/hoochanlon/hamulete/tree/master
+🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+(This repo has been cloned to local!🥰 -- notes from miro)
+
 
 
 ## Intro
