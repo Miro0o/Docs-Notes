@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Awesome CLI Integration](../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+↗ [Awesome CLI Integration](../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 
@@ -48,15 +48,18 @@ https://poe.com
 #### Groq
 https://wow.groq.com/why-groq/
 #### pi
+#### Together
+#### Anyscale
+#### Mistral
 ### LLM Search Platforms
-↗ [Search Services](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/Search%20Services.md)
+↗ [Search Services](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/Search%20Services.md)
 
 ### LLM Models
 #### ChatGPT
 🏠 https://chat.openai.com/chat
 
-↗ [OpenAI /chatGPT](../../../../Artificial%20Intelligence/👀%20AI%20WatchList/Enterprises/OpenAI/ChatGPT.md)
-↗ [Prompt Engineering](../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20Prompt%20Engineering/Prompt%20Engineering.md)
+↗ [OpenAI /chatGPT](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/📌%20LLM%20Lists%20&%20Ranking/OpenAI%20ChatGPT.md)
+↗ [Prompt Engineering](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20Prompt%20Engineering/Prompt%20Engineering.md)
 #### Claude
 https://www.anthropic.com/app-unavailable-in-region?utm_source=country
 #### Gemini

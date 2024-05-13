@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Deep Learning (Neural Networks)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 ↗ [Transformers (Encoder-Decoder)](../../🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/🗿%20Neural%20Network%20Models/Transformers%20(Encoder-Decoder)/Transformers%20(Encoder-Decoder).md)
 
 ↗ [LangChain](../../../Software%20Engineering/🤖%20AI%20x%20SE/LLM%20Dev/LLM%20Application%20Dev%20Frameworks/LangChain/LangChain.md)
@@ -26,8 +27,14 @@ A collection of papers and resources related to Large Language Models.
 The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223).
 To facilitate the reading of our (English-verison) survey, we also translate a [**Chinese version**](https://github.com/RUCAIBox/LLMSurvey/blob/main/assets/LLM_Survey_Chinese.pdf) for this survey. We will continue to update the Chinese version.
 
-https://github.com/Hannibal046/Awesome-LLM/tree/main
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+
+---
+🔥 🪜 https://github.com/Hannibal046/Awesome-LLM/tree/main
+Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+
+![|500](../../../../Assets/Pics/Pasted%20image%2020240512212009.png)
+
+---
 
 
 

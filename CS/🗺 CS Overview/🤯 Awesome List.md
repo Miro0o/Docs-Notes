@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [实用工具箱](../../../🗺%20CS%20Overview/CS自学指南（转）/实用工具箱.md)
 ↗ [Galleries & Awesome SE](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
-↗ [Awesome AI](../Artificial%20Intelligence/Awesome%20AI/Awesome%20AI.md)
+↗ [Awesome AI](../Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20AI.md)
 ↗ [📌 Awesome Open Source CLI Software](../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 

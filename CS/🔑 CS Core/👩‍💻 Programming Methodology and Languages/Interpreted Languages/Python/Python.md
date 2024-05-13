@@ -6,6 +6,7 @@
 
 ## Res
 🏠 https://www.python.org
+🚧 https://github.com/python
 📂 https://docs.python.org/3/
 Python language documentations
 
@@ -13,7 +14,7 @@ Python language documentations
 📄 https://wiki.python.org/moin/BeginnersGuide
 Beginner's Guide to Python
 
-📄 https://devguide.python.org
+📂 👍 https://devguide.python.org
 Python Developer's Guide
 
 📃 https://peps.python.org
@@ -22,7 +23,11 @@ Python Enhancement Proposals (PEPs)
 
 ### Related Topics
 ↗ [Python Runtimes Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Runtimes%20Environments.md)
+↗ [cpython](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Interpreters%20&%20Implementations/cpython.md)
+
 ↗ [Python Web](../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Python%20Web/Python%20Web.md)
+↗ [Python Managers](../../🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Python%20Managers/Python%20Managers.md)
+↗ [Python Based AI](../../../../Artificial%20Intelligence/🛫%20Frameworks%20&%20Implementations%20&%20SDKs/ML%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
 
 
 ### 🚊 Tutorials
@@ -68,6 +73,7 @@ https://github.com/myangeline/python/tree/master
 
 ### Python Libraries & Runtimes
 ↗ [Python Runtimes Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Runtimes%20Environments.md)
+↗ [cpython](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Interpreters%20&%20Implementations/cpython.md)
 
 
 ### 🔔 Python Code Style & PEP8

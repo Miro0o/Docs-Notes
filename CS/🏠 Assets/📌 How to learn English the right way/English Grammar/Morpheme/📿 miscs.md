@@ -619,6 +619,13 @@ book
 - daybook
 - copybook
 - cookbook
+	-  [cookery book](dic://cookery book)
+	- _n._ [reference book](dic://reference book), [reference](dic://reference), [reference work](dic://reference work), [book of facts](dic://book of facts)
+	- **recipe**食谱;**cookery**烹调术;**book**书籍;**chef**厨师，大师傅;**e-book**电子图书;**cooking**烹饪;**foodie**美食家;**memoir**传记;**author**作者;**tome**册;**culinary**厨房的;
+	- He runs two restaurants and has written a cookbook. /他经营着两家餐厅，还写了一本食谱。
+	- Dates were used in many dishes, we have ancient cookbooks /很多菜肴都用枣子，我们有古老的食谱。
+	- Still, plenty of people buy these cookbooks for the recipes /尽管如此，还是有很多人是为了这些食谱而买书。
+	- This is my mother's cookbook. It is one of my most cherished items from her. /这是我妈妈的烹饪书。这是她送给我的最珍贵的东西之一。
 - clipbook
 - classbook
 - chequebook
@@ -1997,6 +2004,28 @@ conn
 - You're half right. You got the conn, brother. 你说对了一半 指挥权在你 哥哥。
 - have the conn 
 
+cook
+- uncooked
+- sea-cook
+- pressure-cook
+- precook
+- pastrycook
+- overcooked
+- messcook
+- cookware
+- cookstove
+- cookshop
+- cookout
+- coking
+- cookie
+- cookhouse
+- cookery
+	- cookery-book
+- cooker
+- cooked
+- cookbook
+	- see "book"
+- cook-general
 
 coquet
 -  [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquette](dic://coquette), [romance](dic://romance), [philander](dic://philander), [mash](dic://mash)
@@ -2023,11 +2052,6 @@ coquet
 	- _v._ [talk](dic://talk), [speak](dic://speak)
 	- **belle**美女;**femme**女人,妻子,女同性恋者;**mistress**情妇;**seductive**诱惑的;**dainty**秀丽的;**petite**娇小的，小个子的;**diva**歌剧中的首席女主角;**flirt**调情;**brunette**浅黑色的;**ballerina**芭蕾舞女演员;**sassy**无礼的;
 - coquetry
-
-cougar
--  [puma](dic://puma), [catamount](dic://catamount), [mountain lion](dic://mountain lion), [painter](dic://painter), [panther](dic://panther), [Felis concolor](dic://Felis concolor)
-- _n._ [wildcat](dic://wildcat)
-- **coyote**一种产于北美大草原的小狼;**grizzly**灰色的;**beaver**海狸;**moose**驼鹿;**hunter**猎人;**wolf**狼;**elk**麋鹿;**hottie**热水瓶;**cub**幼兽;**predator**食肉动物;**fox**欺骗;
 
 cork
 -  [phellem](dic://phellem)
@@ -2061,6 +2085,11 @@ cork
 - corker
 - corked
 - corkage
+
+cougar
+-  [puma](dic://puma), [catamount](dic://catamount), [mountain lion](dic://mountain lion), [painter](dic://painter), [panther](dic://panther), [Felis concolor](dic://Felis concolor)
+- _n._ [wildcat](dic://wildcat)
+- **coyote**一种产于北美大草原的小狼;**grizzly**灰色的;**beaver**海狸;**moose**驼鹿;**hunter**猎人;**wolf**狼;**elk**麋鹿;**hottie**热水瓶;**cub**幼兽;**predator**食肉动物;**fox**欺骗;
 
 cow
 - cowfish

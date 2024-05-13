@@ -3710,6 +3710,11 @@
 		10. I covenanted with him for house /我同他订立了住房协定。
 		11. A " covenant" is a serious, official agreement or promise. /“covenant”是一份严肃的、正式的协议或是承诺。
 		12. Racial covenants restricted them from certain neighborhoods /种族条款限制他们进入特定社区。
+		13. The money was given to us by deed of covenant. /这笔钱是根据契约书付给我们的。
+		14. covenants entered into by all the shareholders inter se /所有股东在他们内部之间相互签订的协议。
+		15. Under the old covenant there was showbread, but it came to an end with the old dispensation to which it belonged /旧约时代也有「供饼」，但那是属于旧约的，如今已被取代。
+		16. Racial covenants restricted them from certain neighborhoods /种族条款限制他们进入特定社区。
+		17. We make love It is a very sacred covenant. /我们做爱　这是圣约。
 	5. intervene
 		1. [interfere](dic://interfere) 侧重指无权或未获允许而妨碍、阻扰、干涉他人之事。
 		2. [intervene](dic://intervene) 书面用词，指介入争端，进行调停，也指干涉他人之事。 
