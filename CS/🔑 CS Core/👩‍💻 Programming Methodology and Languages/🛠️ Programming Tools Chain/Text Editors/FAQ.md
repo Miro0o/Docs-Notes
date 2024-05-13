@@ -8,6 +8,8 @@
 
 
 ## 👉 Remap hotkey on `Neovintinge`
+#SublimeText2
+
 >  [How do I remap escape when in Sublime Text vintage mode?](https://stackoverflow.com/questions/9620812/how-do-i-remap-escape-when-in-sublime-text-vintage-mode) 
 
 1. For [Vintageous](https://github.com/guillermooo/Vintageous) plugin, use [the following key binding](https://github.com/guillermooo/Vintageous/wiki/Using-jj-instead-of-Esc):
@@ -34,7 +36,9 @@ However neither works for me 🤷🏽‍♂️
 
 
 
-## 👉 Set Defaul Indentation to Spaces /Tabs
+## 👉 Set Default Indentation to Spaces /Tabs
+#SublimeText2 
+
 Indentation settings determine the size of the tab stops, and control whether the **Tab** key should insert tabs or spaces. In addition to the automatic detection, they can be customized globally, per-syntax type, or per-file.
 - [Basic Settings](https://www.sublimetext.com/docs/indentation.html#basic-settings)
 - [Indentation Detection](https://www.sublimetext.com/docs/indentation.html#indentation-detection)

@@ -80,6 +80,11 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 
 
+## Vim History --- from vi to vim
+> 🔗 https://mp.weixin.qq.com/s/0BXnvponBNlsu7oEbXjuRA
+
+
+
 ## 🤤 Vim Customization
 ↗ [Vim Customization & Configuration](Vim%20Customization%20&%20Configuration/Vim%20Customization%20&%20Configuration.md)
 

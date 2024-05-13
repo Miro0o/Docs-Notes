@@ -5,21 +5,30 @@
 
 
 ## 🤙🏾 Res
-### Related Topicss
-↗ [Awesome AI](Awesome%20AI/Awesome%20AI.md)
+### Related Topics
+↗ [Awesome AI](👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20AI.md)
 ↗ [AI x SE](../../Software%20Engineering/🤖%20AI%20x%20SE/AI%20x%20SE.md)
 ↗ [MLOps](../../Software%20Engineering/🤖%20AI%20x%20SE/MLOps/MLOps.md)
 
+↗ [LLM (Large Language Model)](Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
-### Blogs
-[AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/) 
+
+### Learning Resources
 
 
 ### Websites & Communities
-[机器之心](https://www.jiqizhixin.com)
-[kaggle](https://www.kaggle.com)
-[huggingface](https://huggingface.co)
-[kaggle](https://www.kaggle.com)
+https://www.jiqizhixin.com
+机器之心
+
+https://huggingface.co
+huggingface
+
+https://www.kaggle.com
+kaggle
+
+
+### Others
+[AI and Social Science – Brendan O'Connor](http://brenocon.com/blog/) 
 
 
 

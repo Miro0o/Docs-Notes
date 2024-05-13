@@ -10,7 +10,7 @@
 
 
 ### 👉 Emacs
-↗ [emacs](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/emacs.md)
+↗ [GNU emacs](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/GNU%20emacs.md)
 
 
 ### 👉 R

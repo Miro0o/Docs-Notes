@@ -1,4 +1,4 @@
-# chatGPT
+# OpenAI ChatGPT
 
 [TOC]
 
@@ -12,7 +12,7 @@
 🔗 https://www.promptboom.com
 free & personal use
 
-↗ [Awesome AI](../../../Awesome%20AI/Awesome%20AI.md)
+↗ [Awesome AI](../../../👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20AI.md)
 
 
 ### Learn ChatGPT

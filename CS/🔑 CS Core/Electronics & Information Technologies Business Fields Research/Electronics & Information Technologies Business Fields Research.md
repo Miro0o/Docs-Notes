@@ -10,6 +10,8 @@
 ↗ [Institutes & Organizations in CS & IT](../../🗺%20CS%20Overview/Institutes%20&%20Organizations%20in%20CS%20&%20IT.md)
 ↗ [IT Entrepreneurship & Business](../../🗺%20CS%20Overview/IT%20Entrepreneurship%20&%20Business/IT%20Entrepreneurship%20&%20Business.md)
 
+↗ [AI WatchList](../../Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
+
 
 
 ## Intro: Electronics Industry

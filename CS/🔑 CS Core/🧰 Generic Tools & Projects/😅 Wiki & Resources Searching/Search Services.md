@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Awesome NLP & LLM Projects & Services](../../../Artificial%20Intelligence/Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+↗ [Awesome NLP & LLM Projects & Services](../../../Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
 ↗ [Data Science](../../../Data%20Science/Data%20Science.md)
@@ -82,7 +82,7 @@ https://www.openk9.io
 
 
 ## 🎯 LLM-Empowered Search
-> ↗ [Awesome NLP & LLM Projects & Services](../../../Artificial%20Intelligence/Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
+> ↗ [Awesome NLP & LLM Projects & Services](../../../Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 
 
 ### Perplexity
