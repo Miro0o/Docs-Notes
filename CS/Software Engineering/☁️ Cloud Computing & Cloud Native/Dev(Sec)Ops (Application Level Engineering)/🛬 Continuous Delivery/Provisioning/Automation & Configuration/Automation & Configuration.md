@@ -7,7 +7,7 @@
 ## Res
 📂 https://landscape.cncf.io/guide#provisioning--automation-configuration
 
-↗ [Automation & Configuration](../../../../../👁️%20Software%20Maintenance%20&%20Operations%20Management/Automation%20&%20Configuration/Automation%20&%20Configuration.md)
+↗ [Automation & Configuration](../../../../../Software%20Maintenance%20&%20Operations%20Management/Automation%20&%20Configuration/Automation%20&%20Configuration.md)
 
 
 

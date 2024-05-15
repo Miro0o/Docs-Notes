@@ -957,6 +957,39 @@
 	24. sedile
 	25. sessile
 	26. siege
+		1. siege [siːdʒ] n.围攻；包围；围城；不断袭击；长期努力，vt.围攻；包围，日耳曼词源，同属日耳曼词源的单词有seat和sit以及settle等，与拉丁词源的sedan [sɪ'dæn] n. 轿车；轿子以及希腊词根hedr-表示座位、立体的面同源。siege本意是seat，军事上的围城是“sitting down before a fortress”。 ​​​​  
+		2. 但是在英国亚瑟王的传奇故事中，Siege Perilous（也叫做The Perilous Seat）中的siege就是其本意“seat”了。巫师梅林为亚瑟王的圆桌骑士们保留了一把椅子，谁能找到传说中的“圣杯”，谁才有资格坐那把椅子。同时理解单词besiege [bɪ'siːdʒ] vt. 围困；包围；烦扰The troops besieged the fort. ​​​​  
+		3. 类似逻辑，leaguer ['liːgə] n.围攻；盟员，vt. 围攻（盟员是另外一个词源），与lay和lie（躺）都是同源的日耳曼语词源单词，那就不光是“坐”下来，而是要“躺”在围攻城市的军营中了。同样比较单词;beleaguer [bɪ'liːgə] vt. 围攻；围，Enemy troopsbeleaguered the city.敌军围困了这座城。 ​​​​
+		4. 来自古法语 sege,座位，来自通俗拉丁语*sedicum,座位，来自 sedere,坐下，词源同 set,sit,seat.引申比喻义包围，封锁，字面意思即即军队在包围的城墙四周安营扎寨。siege mentality 包围心态（感觉周围都是敌人而戒心重）比喻用法。
+		5. 1. n. 围攻；包围；围城；不断袭击；长期努力
+		6. vt. 围攻；包围
+		7. [besieging](dic://besieging), [beleaguering](dic://beleaguering), [military blockade](dic://military blockade)
+		8. _n._ [blockade](dic://blockade), [encirclement](dic://encirclement)
+		9. **besieged**被包围;**garrison**守备部队, 卫戍部队;**fortress**要塞;**citadel**城堡;**bombardment**炮击;**fortifications**防御工事;**blockade**封锁;**fort**堡垒;**battle**战役;**skirmish**小冲突，小规模战斗;**truce**休战;
+		10. _under siege_ 被包围
+		11. _lay siege to_ 包围，围攻；努力追求
+		12. _raise the siege_ 停止围攻；解围
+		13. a siege engine. /攻城车。
+		14. a siege of asthma. /气喘病的长期折磨
+		15. an exhaustive siege of illness /一场耗蚀体力的大病
+		16. the siege ended peacefully. /这次围攻是以和平方式结束的。
+		17. Verdun had withstood a siege of ten weeks. /凡尔顿经受住了十周的围困。
+		18. A siege often brings them to terms. /围攻常迫使他们接受条件。
+		19. the press laid siege to her flat. /新闻记者把她的公寓围得水泄不通。
+		20. Against the wrackful siege of battering days, /风霜岁月的无情砥砺？
+		21. This new camp is inhabited with those who survived the siege of Douma /这个新营地住着那些在杜马袭击中幸存下来的人。
+		22. The prosecutor died during the operation aimed at ending the siege. /这名检察官在意在结束包围的行动中身亡。
+		23. Security forces in Kenya have ended a siege in the capital Nairobi. /肯尼亚的安保部队终结了首都内罗比的围攻。
+		24. But it has declared a " complete siege" of the coastal Palestinian territory /但以色列已宣布对巴勒斯坦沿海领土进行“全面包围”。
+		25. Troy was under siege for ten years. /特洛伊城被围困了十年。
+		26. siege-works
+		27. siege-train
+		28. siege-basket
+			1. n. 篾筐
+		29. besiege
+			1. vt. 围攻, 包围
+			2. besieged
+			3. besiegement
 5. nest
 6. soot
 

@@ -13,11 +13,11 @@
 
 
 ### Web Development
-↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [Web BackEnd Dev](../../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [Middleware](../../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
-- ↗ [Web API Dev & Data Access Layer](../../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API%20Dev%20&%20Data%20Access%20Layer.md)
-- ↗ [Web API](../../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API/Web%20API.md)
+↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [Web BackEnd Dev](../../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
+↗ [Middleware](../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Middleware.md)
+- ↗ [Web API Dev & Data Access Layer](../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API%20Dev%20&%20Data%20Access%20Layer.md)
+- ↗ [Web API](../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API/Web%20API.md)
 
 ↗ [Network Application Communication Architectures](../Network%20Application%20Communication%20Architectures.md)
 
@@ -57,12 +57,12 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 ### Web Browser /Front End
 ↗ [Browsers](../../../../🧰%20Generic%20Tools%20&%20Projects/Browsers.md)
-↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 
 
 ### Web Server /Back End
-↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
+↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
+↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Middleware.md)
 
 
 

@@ -17,9 +17,9 @@
 ↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)
 ↗ [Application Layer Attacks](../../Network%20Security/Network%20Treats%20&%20Attacks/Application%20Layer%20Attacks.md)
 
-↗ [SE /BackEndDev](../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
-↗ [SE /FrontendDev](../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [SE /Middleware](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
+↗ [SE /BackEndDev](../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
+↗ [SE /FrontendDev](../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [SE /Middleware](../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Middleware.md)
 
 
 ### Learning Web Security

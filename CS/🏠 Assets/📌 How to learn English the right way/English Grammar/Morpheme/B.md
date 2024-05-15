@@ -1748,6 +1748,7 @@
 		3. _n._ [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
 		4. **archers**弓箭手;**archer**弓箭手;**cannon**大炮;**cannons**大炮;**turret**角楼;**spear**矛，枪;**launcher**发射者;**artillery**炮, 大炮;**chariot**二轮战车;**projectile**发射体;**infantry**步兵;
 		5. **Ballista**: Ancient missile launcher designed to hurl long arrows or heavy Balls /投石机：古代投掷物体之发射器，用作发射长箭或重型球状物。
+		6. 
 	5. ballistic
 		1. ball-抛 + -istic表形容词
 		2. _adj._ [ballistics](dic://ballistics), [ballistic trajectory](dic://ballistic trajectory)
@@ -1785,7 +1786,7 @@
 		12. He should agree to recount the ballots. /他应该同意重新计算选票。
 		13. balloon：[bə'luːn] n.气球v.激增，如气球般膨胀adj.像气球般鼓起的  
 		14. blackball：['blækbɔːl] vt.投反对票，排斥n.反对票
-	9. balls
+	8. balls
 		1. baseball
 		2. basketball
 		3. blowball
@@ -1905,7 +1906,7 @@
 			1. n. 绳球
 		34. trapball
 		35. volleyball
-	10. anabolic
+	9. anabolic
 		1. ana-上 + bol-抛 + -ic
 		2. adj. 合成代谢的；同化的
 		3. of or related to the synthetic phase of metabolism
@@ -1922,7 +1923,7 @@
 			4. **anabolic**合成代谢的;**metabolism**新陈代谢;**glycogen**糖原;**metabolic**新陈代谢的;**creatine**肌酸，肌肉素;**cortisol**皮质醇;**testosterone**睾丸激素;**carbohydrate**碳水化合物;**biosynthesis**生物合成;**muscle**肌肉;**synthesis**综合, 综合法;
 			5. **Anabolism** is when energy is created and stored, and catabolism is when energy is released /合成代谢是生成和储存能量，而分解代谢则是能量的释放。
 			6. The formation approaches of higher alcohols include degradation metabolism and **anabolism** /  高级醇的生成途径有降解代谢和合成代谢两种。
-	11. catabolic, katabolism
+	10. catabolic, katabolism
 		1. a. 分解代谢的
 		2. **metabolic**新陈代谢的;**anabolic**合成代谢的;**metabolism**新陈代谢;**anaerobic**厌氧菌的;**glycogen**糖原;**biochemical**生物化学的;**aerobic**需氧的;**oxidative**氧化的;**oxidation**氧化;**enzymatic**酶的;**carbohydrate**碳水化合物;
 		3. For a start, oestrogen is anabolic, building up muscle, while progesterone is catabolic, breaking it down /首先，雌激素是合成代谢的，可以增强肌肉，而黄体酮是分解代谢的，可以分解肌肉。
@@ -1933,7 +1934,7 @@
 			1. cata-下 + bol-扔 + -ism
 			2. n. 异化作用, 分解代谢
 		8. catabolize
-	12. diabolic, diabolical
+	11. diabolic, diabolical
 		1. a. 恶魔的, 恶毒的, 凶暴的, 恶魔似的, (非正式)非常可憎的
 		2. dia-穿过 + bol-抛 + -ic表形容词。源自希腊语 diabollos“诽谤，攻击”，字面含义“扔过去”。
 		3. **demonic**有魔力的，恶魔的;**sinister**阴险的;**malevolent**有恶意的;**devious**弯曲的;**murderous**蓄意谋杀的;**evil**邪恶的;**depraved**堕落的;**sadistic**残酷成性的;**unholy**不神圣的;**nefarious**极坏的;**monstrous**极可恶的;
@@ -1944,22 +1945,22 @@
 		8. This is the diabolic world of the camp. /这是营地的恶魔世界。
 		9. This will ensure that the physical profile of the wire is very small, so as Leather face rushes forwards he isn't able to see it in the dark, but it'll also serve another, much more diabolic purpose /这将确保电线的物理轮廓非常小，因此当 Leatherface 向前冲时， 他无法在黑暗中看到它， 但它也会用于另一个更邪恶的目的。
 		10. diabolism
-	13. discobolus
+	12. discobolus
 		1. n. (古希腊或罗马的)掷铁饼者, 掷铁饼者塑像
-	14. hyperbola
+	13. hyperbola
 		1. parabola [pə'ræb(ə)lə] n.抛物线。希腊前缀para-表alongside,beside，希腊词根bol-表to throw。三种圆锥曲线中（另外两种是椭圆和双曲线），抛物线的离心率=1(para-)，hyperbola [haɪ'pɜːbələ] n.双曲线，离心率&gt;1，因为希腊前缀hyper-与拉丁前缀super-同源，表over,above，椭圆的离心率&lt;1。 ​​​​
 		2. **quadratic**二次的;**tangent**切线的，相切的;**algebraic**代数的;**curvature**弯曲;**polynomial**多项式;**Euler**欧拉;**algebra**代数学;**triangle**三角;**rectangle**长方形, 矩形;**equation**方程式，等式;**hyperbolic**双曲线的;
 		3. _n._ [conic section](dic://conic section), [conic](dic://conic)
 		4. Results The difference values calculated were various with the arch form, the sequence was oval, round, parabola, catenuliform, and hyperbola from big difference to smell. /牙弓深度的差值按从大到小的顺序排列为：椭圆形、圆形、抛物线形、悬链形、双曲线形。
 		5. The orbit is now a hyperbola, which is similar to a parabola, but is even more open /这种轨道是条双曲线，类似于抛物线，但更加开放。
-	15. hyperbole
+	14. hyperbole
 		1. hyper-过多 + bol-抛 + -e → 话抛得很高 → 夸张法。
 		2. **exaggeration**夸张;**disingenuous**不真诚的;**overblown**停息的,盛开过的;**rhetoric**修辞，修辞学;**sarcasm**讽刺;**ludicrous**荒唐可笑的,滑稽可笑的;**silliness**愚蠢;**nonsense**谬论;**laughable**荒唐可笑的;**idiocy**白痴;**absurd**荒谬的;
 		3. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
 		4. aggrandise, amplify, bombastic, grandiloquent, grandiose, hyperbole, rhetorical, turgid. 
 		5. to express with hyperbole /表达时使用夸张法
 		6. American humor is founded largely on hyperbole/美式幽默主要以夸张为基础。
-	16. parable
+	15. parable
 		1. n. （尤指《圣经》中耶稣所讲的的）（道德或宗教）寓言 
 		2. n. 寓言, 隐晦的比较
 		3. para-在周围 + ble-=bole扔，投掷， 即扔在旁边的，引申词义打比方，讲寓言故事。
@@ -1970,7 +1971,7 @@
 		8. The parable of the good Samaritan. /正是有关撒玛利亚人的寓言故事。
 		9. Maybe this was the real lesson of the parable. /也许那则寓言的教育意义正在于此。
 		10. parabolus
-	17. parabola
+	16. parabola
 		1. para-在旁，在周围 + -bol扔，投掷，即扔在旁边的，用于几何术语指抛物线。
 		2. **quadratic**二次的;**curvature**弯曲;**curve**曲线;**tangent**切线的，相切的;**vertex**顶点;**concave**凹的，凹面的;**slope**倾斜;**convex**凸面的;**rectangle**长方形, 矩形;**equation**方程式，等式;**geometry**几何学;
 		3. All you need is a jetliner, a parabola and voila, you're weightless. /你需要的只是一架客机, 飞行个抛物线, 然后看看自己, 你已经失重了。
@@ -1980,27 +1981,27 @@
 		6. parabolical
 		7. paraboloid
 			1. n. 抛物面
-	18. symbol
+	17. symbol
 		1.  sym-,一起，一致，-bol,扔，投掷，词源同 ballistic,problem,parabolic.引申词义象征，符号。
 		2. n. 符号, 象征, 代号, 信条
 		3. sym-共同 + bol-抛 → 共同抛出的标志 → 象征。
-	19. amphibole
+	18. amphibole
 		1. n. 闪石
 		2. amphibology
 			1. n. 语言模棱两可, 意义含混的词句
 		3. ampholbolous
 			1. a. 模棱两可的
-	20. belt
+	19. belt
 		1. n. 腰带, 皮带; 传送带; 地带, 地区; 狠打  
 		2. v. 狠打; 飞奔; 用带系住
 		3. 自 PIE*bhel,膨胀，鼓起，词源同 ball.指鼓起来的一圈，绕一圈的带子
-	21. bolus
-	22. bullet
+	20. bolus
+	21. bullet
 		1. bulletwound
 		2. bulletproof
 		3. bullet-headed
 		4. bullet-head
-	23. devil
+	22. devil
 		1. 来自拉丁语diabolus, 穿过，诽谤，攻击，词源同diabolic.来自dia-，穿过，-ball, 投掷，词源同ballistic, kill. 后用于指魔鬼。devil ’s advocate 故意唱反调的人来自天主教神学名词。原指教堂的一项特殊职务，其职能是对即将宣圣或成为圣徒的凡人进行行为或德行审查，以确保成为圣徒者德行之完美，其对应职务为God’s advocate. 其原先功能部分类似于现在的中纪委，而现在的词义就类似于走过场，一唱一和以使程序完美。
 		2. devil（魔鬼）：希腊语对圣经中“撒旦”的翻译  
 		3. 英语单词devil（魔鬼）的真正历史比所传devil乃do-evil（作恶）之缩略的古老传说要复杂得多。希伯来文的犹太教圣典《旧约》中的Satan（撒旦）实际上是devil的前身，它的意思是adversary（敌手），即“上帝的敌手”。当希伯来文的《旧约》被译成希腊文时，译者将Satan（撒旦）翻译成了diabolos一词，后来演变为英语单词devil。其实，diabolos在希腊文中原义是“诽谤者”，是圣经的影响才使它获得我们今天熟悉的词义“魔鬼”或“恶魔”的。  
@@ -2037,9 +2038,9 @@
 			7. This polarisation is Mrs May's legacy-and it will bedevil her successor /这种两极分化是梅遗留下来的问题，也将困扰她的继任者。
 			8. Negotiators from the EU and Britain are grappling with a bedeviled issue of the border on the island of Ireland. /来自欧盟和英国的谈判代表正在努力解决爱尔兰岛边界的棘手问题。
 			9. bedevilment
-	24. ballute
+	23. ballute
 		1. _[ballute](dic://ballute)_  n. [航] 气球式降落伞
-	25. embolus, emboli
+	24. embolus, emboli
 		1. em-在...内 + bl-=bol-抛 + -em
 		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
 		3. an abnormal particle (e.g. an air bubble or part of a clot) circulating in the blood
@@ -2049,7 +2050,7 @@
 			1. [intercalation](dic://intercalation)
 			2. _n._ [time interval](dic://time interval), [interval](dic://interval), [occlusion](dic://occlusion)
 			3. **thrombosis**血栓形成;**hemorrhage**出血;**aneurysm**动脉瘤;**clot**凝块;**infarction**梗塞;**venous**静脉的;**pulmonary**肺的,肺部的;**edema**瘤腺体;**stenosis**狭窄;**rupture**破裂;**coronary**冠状的;
-	26. emblem
+	25. emblem
 		1. n. 象征, 徽章, 符号  vt. 用象征表示
 		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
 		1. [allegory](dic://allegory)
@@ -5126,6 +5127,105 @@
 7. loose-bodied
 8. strong-bodied
 9. unbodied
+
+
+### bomb- = drum, 表示“鼓”。
+1. bomb
+	1. n. 炸弹，爆炸装置；失败的东西；长传，长传球；大笔钱；高压容器，喷雾器；<非正式>很好的人，很好的事；（形状和威力）像炸弹样的物体；<非正式>掺大麻的香烟 
+	2. v. 轰炸，炸毁；疾行，快速前进；<非正式>失败；重击（球）
+	3. [bomb calorimeter](dic://bomb calorimeter)
+	4. [turkey](dic://turkey), [dud](dic://dud)
+	5. [bombard](dic://bombard)
+	6. [fail](dic://fail), [flunk](dic://flunk), [flush it](dic://flush it)
+	7. _n._ [explosive device](dic://explosive device), [weaponry](dic://weaponry), [arms](dic://arms), [implements of war](dic://implements of war), [weapons system](dic://weapons system), [munition](dic://munition), [calorimeter](dic://calorimeter)
+	8. _v._ [attack](dic://attack), [assail](dic://assail)
+	9. **grenade**手榴弹;**explosion**爆炸;**nuke**核武器;**explosive**爆炸的, 爆发的;**grenades**手榴弹;**dynamite**炸药;**blast**爆炸;**explode**爆炸，爆发;**terrorist**恐怖分子;**nukes**核发电站;**munitions**军需品;
+	10. The bomb exploded /炸弹爆炸了
+	11. A bomb found him. /炸弹打中了他。
+	12. The bomb blew the car to smithereens /炸弹将汽车炸得粉碎。
+	13. The bomb had a long fuse /这种炸弹有很长的导火线。
+	14. They found a live bomb in the valley. /他们在山谷里发现一枚未爆炸的炸弹。
+	15. We built one bomb, it's not a real bomb, it's no plutonium. /我们制造了一个炸弹，当然，那不是真正的炸弹，没有钚。
+	16. The bomber dropped several bombs on a village. /轰炸机在村庄里投下几枚炸弹。
+	17. The **bomb** was primed, ready to explode /炸弹已准备好，可随时引爆。
+3. bomb-disposal
+4. bomb-dropping
+5. bomb-hatch
+6. bombard
+	1. [bombardon](dic://bombardon)
+	2. [pelt](dic://pelt)
+	3. [bomb](dic://bomb)
+	4. [barrage](dic://barrage)
+	5. _n._ [shawm](dic://shawm), [bass](dic://bass)
+	6. _v._ [throw](dic://throw), [attack](dic://attack), [assail](dic://assail), [round](dic://round), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault)
+	7. **barrage**弹幕;**overwhelm**覆盖, 淹没;**inundated**洪泛的;**harass**使烦恼;**besieged**被包围;**invade**侵略;**distract**转移;**send**发送，寄;**ignore**驳回诉讼，忽视，不理睬;**annoy**骚扰;**blasted**枯萎的;
+	8. _[bombarding beam](dic://bombarding%20beam)_ 轰击束
+	9. _[bombarding particle](dic://bombarding%20particle)_ 轰击粒子；入射粒子；撞击粒子
+	10. _[bombarding effect](dic://bombarding%20effect)_ 轰击作用
+	11. _[particle bombarding](dic://particle%20bombarding)_ 撞击粒子
+	12. _[bombard insurance](dic://bombard%20insurance)_ 火险
+	13. _[bombarding energy](dic://bombarding%20energy)_ 轰击能量；轰卉量
+	14. _[bombarding radiation](dic://bombarding%20radiation)_ 轰击辐射
+7. bombast
+	1. n. 夸大的言辞 
+	2. adj. 夸大的
+	3. 来自拉丁语 bombyx,丝，丝棉。吹嘘义可能来自 bomb.
+	4. [fustian](dic://fustian), [rant](dic://rant), [claptrap](dic://claptrap), [blah](dic://blah)
+	5. _n._ [grandiosity](dic://grandiosity), [magniloquence](dic://magniloquence), [ornateness](dic://ornateness), [grandiloquence](dic://grandiloquence), [rhetoric](dic://rhetoric)
+	6. **hyperbole**夸张的语句;**rhetoric**修辞，修辞学;**subtlety**微妙;**overblown**停息的,盛开过的;**grandiose**宏伟的;**cynicism**犬儒主义;**grandeur**庄严;**swagger**吓唬;**melodrama**情节剧;**hubris**傲慢;**pompous**浮夸的;
+	7. Not everyone was convinced by such bombast. /并非所有人都信服此类高调言论。
+	8. Colleagues soon found Kennedy to be an odd combination of bombast and self-effacement. /同事们很快便发现，肯尼迪是一个夸夸其谈和自谦两者兼具的奇葩。
+	9. For a while, in Cairo and Beirut, he worked for Radio Palestine, but the bombast and sloganeering of politics repelled him. /他曾在开罗和贝鲁特为巴勒斯坦广播电台工作过一段时间，但他对政治的夸夸其谈和口号感到厌恶。
+	10. It's not bombast that I cured her broken bosom bone with borax. /这不是夸大的言辞，我曾用硼砂治疗过她断了的胸骨。
+	11. After all this sort of bombast, you know, I can do it better, the Americans aren't helping us. /在所有这些夸张之后， 你知道，我可以做得更好， 美国人没有帮助我们。
+	12. bombastic
+		1. adj. 辞藻华丽空洞的，浮夸的
+		2. _adj._ [rhetorical](dic://rhetorical)
+		3. _n._ [unrhetorical](dic://unrhetorical)
+		4. **brash**仓促的，性急的;**pompous**浮夸的;**grandiose**宏伟的;**over-the-top**过多的;**flamboyant**显眼的, 浮夸的, 炫耀的;**overblown**停息的,盛开过的;**crass**粗鲁的;**exuberant**兴高采烈的;**boisterous**热闹的;**pretentious**自命不凡的;**raucous**沙哑的;
+		5. _[bombastic speaker](dic://bombastic%20speaker)_ 大放厥词的演说家
+		6. _[bombastic shade](dic://bombastic%20shade)_ 稻草色调
+		7. _[bombastic amount](dic://bombastic%20amount)_ 冗余数
+		8. _[architecture bombastic project](dic://architecture%20bombastic%20project)_ 反复建设
+		9. _[bombastic exaggerated exaggeratory](dic://bombastic%20exaggerated%20exaggeratory)_ 言过其实的
+		10. aggrandise, amplify, bombastic, grandiloquent, grandiose, hyperbole, rhetorical, turgid. /表“ 浮夸、夸大” 之意:
+		11. The candidate spoke in a bombastic way of all that he would do if elected /候选人大肆吹嘘, 一旦他当选将要如何如何。
+		12. How Young Indians are Changing the World, Ms Poonam's first book, contains an abundance of bombastic characters /普那姆第一本书《梦想者：印度青年如何改变世界》，描绘了很多怀有远大志向的人物。
+		13. Her tone can be bombastic, breathless and laden with pathos, just as it was on the city streets /她的语调是爆炸性的、令人难以喘气的、充满痛苦的，正像开罗街道上所发生的事情一样。
+		14. Jack Kirby, just because again, I don't draw like him but his storytelling was big and bombastic /杰克·科比，再说一次，我画画不像他，但他讲故事又宏大又夸夸其谈。
+		15. We cut to the studio logos, but then, there's no bombastic continuation, no famous rapper stepping in /我们切到工作室的标志，但是，没有夸张的情境延续，没有著名说唱歌手的歌声引入。
+		16. Eager patrons lined up around the block to watch the bombastic courtroom scene. /热切的顾客排队围绕街区观看那场声势浩大的法庭戏景。
+8. bombazine
+	1. n. 用丝绸、棉纱、毛等织成的斜纹布
+	2. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
+	3. **silk**蚕丝;**tunic**束腰外衣;**muslin**平纹细布;**bonnet**软帽;**satin**缎子;**cloth**布，织物;**wool**羊毛;**blouse**宽松的上衣;**scarlet**猩红;**handkerchief**手帕;**shawl**围巾，长
+	4. There are many kinds of marriage shoes in China, for example the Lanzi shoe, **bombazine** shoes, Xie shoes and bridegroom-dancing shoes /在中国有很多种婚鞋，如：缆子鞋、丝绸鞋、楔鞋和新郎舞鞋。
+	5. On May 15, 1925, factory of Shanghai Japan **bombazine** produced the event of Gu Zhenggong of shoot dead worker one case, aroused the intense indignation of masses /1925年5月15日，上海日本棉纱厂发生了一起枪杀工人顾正红的事件，激起了群众的强烈愤慨
+9. bombed-out
+10. bomber
+	1. [grinder](dic://grinder), [hero](dic://hero), [hero sandwich](dic://hero sandwich), [hoagie](dic://hoagie), [hoagy](dic://hoagy), [Cuban sandwich](dic://Cuban sandwich), [Italian sandwich](dic://Italian sandwich), [poor boy](dic://poor boy), [sub](dic://sub), [submarine](dic://submarine), [submarine sandwich](dic://submarine sandwich), [torpedo](dic://torpedo), [wedge](dic://wedge), [zep](dic://zep)
+	2. _n._ [airplane](dic://airplane), [aeroplane](dic://aeroplane), [plane](dic://plane), [warplane](dic://warplane), [military plane](dic://military plane), [person](dic://person), [individual](dic://individual)
+	3. **Luftwaffe**德国空军;**terrorist**恐怖分子;**aircraft**飞机，航空器;**airliner**班机;**suicide**自杀;**torpedo**鱼雷;**fighter**战士，斗争者;**terror**恐怖;**jacket**夹克;**submarine**潜艇;**anti-aircraft**防空用的
+	4. _suicide bomber_ 人体炸弹
+	5. _stealth bomber_ 隐形轰炸机
+	6. The bombers will go in soon /轰炸机很快就要出动。
+	7. Our bombers sent the bridge up /我们的轰炸机把桥炸毁了。
+	8. Jerry has some 200 dive-bombers at Spitzbergen. /德国人在斯匹次卑尔根岛大约有200多架俯冲轰炸机。
+	9. one of the bombers had scored a direct hit. /其中一架轰炸机直接命中目标。
+	10. Enemy bombers reduced the city to rubble. /敌人的轰炸机把城市夷为平地
+	11. He flew a bomber during the war. /他在战时驾驶轰炸机。
+	12. she called for those who helped the bombers to be ostracized. /她要求放逐那些为轰炸机提供帮助的人。
+	13. The Tornado jet fighter-bomber has two air intakes. /旋风式喷气轰炸机有两个空气入口。
+	14. And they say ISIS used 18 child bombers in 2015. /据该组织说，ISIS在2015年使用过18名儿童爆炸袭击者。
+	15. A gun fight broke out when guards stopped two bombers from entering the crowded stadium. /保安拦住两名试图进入拥挤体育馆的爆炸者，于是枪斗就开始了。
+11. bombinate
+	1. - vi. 发嗡嗡声
+12. bombing
+13. bombproof
+14. bombshell
+15. bombsight
+16. bombsite
+	1. n. 被炸区域
 
 
 

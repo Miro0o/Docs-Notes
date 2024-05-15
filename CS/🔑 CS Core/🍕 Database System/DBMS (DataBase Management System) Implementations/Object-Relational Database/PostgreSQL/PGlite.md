@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [WASM (WebAssembly)](../../../../../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
+↗ [WASM (WebAssembly)](../../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🚜%20WASM%20(WebAssembly)/WASM%20(WebAssembly).md)
 ↗ [[sqli]]
 
 

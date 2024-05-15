@@ -43,7 +43,7 @@ Java EE provides an API and runtime environment for developing and running large
 
 
 ### Related Projects
-↗ [SE /BackEndDev /JavaWeb](../../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Java%20Web/Java%20Web.md)
+↗ [SE /BackEndDev /JavaWeb](../../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Java%20Web/Java%20Web.md)
 ↗ [Java Virtual Machine (JVM)](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 ↗ [Java Runtimes (JRE & JDKs)](../../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Runtimes%20(JRE%20&%20JDKs).md)
 

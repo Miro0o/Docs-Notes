@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Monitoring & Analyzing](../../../../../👁️%20Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/Monitoring%20&%20Analyzing.md)
+↗ [Monitoring & Analyzing](../../../../../Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/Monitoring%20&%20Analyzing.md)
 
 
 

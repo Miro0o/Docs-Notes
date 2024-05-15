@@ -19,7 +19,7 @@
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 - ↗ [Dev(Sec)Ops (Application Level Engineering)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
-↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/👷🏻%20Dev%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Dev%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 ↗ [SDL (Secure Development Lifecycle)](SDL%20(Secure%20Development%20Lifecycle).md)
 
 
@@ -27,7 +27,7 @@
 ## Intro
 ### Software Supply Chains Security 🆚 Software Development Life Circle (SDLC)
 > ↗ [SDL (Secure Development Lifecycle)](SDL%20(Secure%20Development%20Lifecycle).md)
-> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/👷🏻%20Dev%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Dev%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 > 🔗 [软件供应链安全白皮书 (2021) | 悬镜安全 - 中国信通院](http://mogesec.com/wp-content/uploads/2021/12/软件供应链安全白皮书（2021）.pdf)
 
@@ -91,7 +91,7 @@
 #### SCA & SBOM
 ↗ [SCA (Software Composition Analysis) & SBOM](🤔%20Software%20Supply%20Chains%20Security%20Related%20Projects/SCA%20(Software%20Composition%20Analysis)%20&%20SBOM/SCA%20(Software%20Composition%20Analysis)%20&%20SBOM.md)
 #### Code Analysis & Software Testing
-↗ [Software Testing](../../../../Software%20Engineering/👁️%20Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Network Penetration (Pen-testing)](../../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
 ↗ [Malicious Code Detection & Analysis](../🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Analysis.md)
 

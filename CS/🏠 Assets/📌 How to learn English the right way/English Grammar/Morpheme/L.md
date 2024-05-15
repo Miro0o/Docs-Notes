@@ -1643,9 +1643,9 @@ _delicate balance_ 微妙的平衡
 ### ⭐ + \*(s)lei- + = slimy, sticky, slippery
 1. **lib-,lim-,slim-** = smooth，表示“滑”。原意表示“泥泞的”。由“滑”引申出“擦”的意思。
 	1. lime
-		1. 1 - 来自拉丁语 limus,污泥，黏质物，来自 PIE*slei,黏的，滑的，词源同 slime,delete,liniment.引申词义涂沫，石灰。  
-		2. 2 - 来自波斯语 limun,柠檬，桔类，词源同 lemon.  
-		3. 3 - 来自古英语 lind,欧椴树，词源同 linden.拼写比较 lamp,lantern.
+		1. 来自拉丁语 limus,污泥，黏质物，来自 PIE*slei,黏的，滑的，词源同 slime,delete,liniment.引申词义涂沫，石灰。  
+		2. 来自波斯语 limun,柠檬，桔类，词源同 lemon.  
+		3. 来自古英语 lind,欧椴树，词源同 linden.拼写比较 lamp,lantern.
 		4.  [calcium hydroxide](dic://calcium hydroxide), [slaked lime](dic://slaked lime), [hydrated lime](dic://hydrated lime), [calcium hydrate](dic://calcium hydrate), [caustic lime](dic://caustic lime), [lime hydrate](dic://lime hydrate)
 		5.  [calcium oxide](dic://calcium oxide), [quicklime](dic://quicklime), [calx](dic://calx), [calcined lime](dic://calcined lime), [fluxing lime](dic://fluxing lime), [unslaked lime](dic://unslaked lime), [burnt lime](dic://burnt lime)
 		6.  [birdlime](dic://birdlime)
@@ -1699,16 +1699,27 @@ _delicate balance_ 微妙的平衡
 			1. n. 水磨；研粉
 		5. levigating
 	9. loam
-		1.  1 - 来自古英语 lam,污泥，泥沼，来自 PIE*slei,黏，滑，词源同 slime,slip,lime.引申词义肥沃土壤。
-		2. 1. a rich soil consisting of a mixture of sand and clay and decaying organic materials
-		3. _n._ [soil](dic://soil), [dirt](dic://dirt)
-		4. **soils**土壤;**soil**土地;**sandy**含沙的;**peat**泥煤;**mulch**覆盖物，护盖物;**clay**泥土;**manure**施肥于;**limestone**石灰岩;**gravel**砂砾;**compost**堆肥;**sandstone**砂岩;
-		5. _sandy loam_ 砂壤土；砂质壤土
-		6. _clay loam_ 粘壤土；黏性壤土
-		7. _silt loam_ 粉砂壤土[建]
-		8. loamy
-	11. slick
-		1. - 来自古英语-slician,使光滑，来自 Proto-Germanic*slikana,滑动，来自 PIE*sleig,滑动，来自PIE*slei,滑的，词源同 slime,slip.引申诸相关词义。
+		1. n. 壤土；肥土（含有黏土、沙和有机物质的土地）；亚黏土 
+		2. vt. 用壤土填
+		3. 来自古英语 lam,污泥，泥沼，来自 PIE*slei,黏，滑，词源同 slime,slip,lime.引申词义肥沃土壤。
+		4. a rich soil consisting of a mixture of sand and clay and decaying organic materials
+		5. _n._ [soil](dic://soil), [dirt](dic://dirt)
+		6. **soils**土壤;**soil**土地;**sandy**含沙的;**peat**泥煤;**mulch**覆盖物，护盖物;**clay**泥土;**manure**施肥于;**limestone**石灰岩;**gravel**砂砾;**compost**堆肥;**sandstone**砂岩;
+		7. _sandy loam_ 砂壤土；砂质壤土
+		8. _clay loam_ 粘壤土；黏性壤土
+		9. _silt loam_ 粉砂壤土[建]
+		10. We found the burrow of this merciless hunter and it's a loam wasp. /我们找到了这种无情杀手的洞穴它是一只沃土黄蜂。
+		11. So we call that loam, right, and water, as it rains, easily absorbs into that loam or that earthy top soi /我们称之为壤土和水，当开始下雨的时候，壤土或者泥土表层部分很容易就会吸水。
+		12. In cold, plants are housed in paper shelters, their roots set in loam warmed by subterranean air pipes heated by buried charcoal. /在寒冷的天气里，植物被安置在纸棚里，它们的根扎在土壤中，通过埋在地下的木炭加热的地下空气管道取暖。
+		13. When the rich loam had taken the edge off their hunger, the trees turned to an earth of the kind you see in Somerset, which is almost pink. /那块肥沃的泥土赶走了他们的饥饿后，树神们换了一块萨默塞特地区可以看到的泥土，这片泥土几乎是粉色的。
+		14. loamy
+			1. adj. 肥沃的
+			2. _n._ [loamless](dic://loamless)
+			3. **soils**土壤;**sandy**含沙的;**soil**土地;**earthy**土的;**gravel**砂砾;**peat**泥煤;**grassy**长满草的;**powdery**粉的;**acidic**酸的，酸性的;**moist**潮湿的;**dirt**污垢，泥土;
+			4. And within about six months the orange peels had been converted from orange peels into this thick black loamy soil /“在大约6个月内，橘子皮就变成了这种丰厚肥沃的黑土。
+			5. Okay, so all that said, that's the… that's loamy soil. /好吧，说了这么多，那就是… … 那是肥沃的土壤。
+	10. slick
+		1. 来自古英语-slician,使光滑，来自 Proto-Germanic*slikana,滑动，来自 PIE*sleig,滑动，来自PIE*slei,滑的，词源同 slime,slip.引申诸相关词义。
 		2. [slickness](dic://slickness), [slipperiness](dic://slipperiness), [slip](dic://slip)
 		3. [slick magazine](dic://slick magazine), [glossy](dic://glossy)
 		4. [sleek](dic://sleek)
@@ -1719,7 +1730,7 @@ _delicate balance_ 微妙的平衡
 		9. slickster
 		10. slickness
 		11. slicker
-	13. slight
+	11. slight
 		1. 1 - 来自古英语种 sliht,光滑的，来自 Proto-Germanic*slihtaz,光滑的，来自 PIE*slei,滑的，词源同 slime,slip.引申词义平的，引申比喻义轻微的，略微的。  
 		2. 2 - 来自 slight,平的，引申动词词义平等对待，后词义贬义化为冷淡对待，进一步恶化为轻视，怠慢，侮辱。
 		3.  [rebuff](dic://rebuff)
