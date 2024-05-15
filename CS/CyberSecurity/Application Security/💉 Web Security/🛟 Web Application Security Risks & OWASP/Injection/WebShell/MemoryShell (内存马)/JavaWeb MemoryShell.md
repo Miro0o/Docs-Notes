@@ -11,8 +11,8 @@
 
 ### Related Topics
 ↗ [Java](../../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
-↗ [Java Web](../../../../../../../Software%20Engineering/👾%20Web%20Development/🗄️%20Web%20BackEnd%20Dev/Java%20Web/Java%20Web.md)
-↗ [Apache Tomcat](../../../../../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Application%20Servers/Apache%20Tomcat/Apache%20Tomcat.md)
+↗ [Java Web](../../../../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Java%20Web/Java%20Web.md)
+↗ [Apache Tomcat](../../../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Application%20Servers/Apache%20Tomcat/Apache%20Tomcat.md)
 
 
 

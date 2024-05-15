@@ -445,7 +445,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 
 ### PPL & Personal Blogs
-> ↗ [Web Blog Themes](../Software%20Engineering/👾%20Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
+> ↗ [Web Blog Themes](../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
 > ↗ [Academic Research Group Profiles](../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
 ---

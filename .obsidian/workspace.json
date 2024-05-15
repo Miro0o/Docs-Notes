@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a23d8a9048f3472a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/JEB Pro/JEB Pro.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md"
               }
             }
           },
@@ -213,33 +200,36 @@
   },
   "active": "44878f1a0da168ed",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Software Analysis/Malicious Code Detection - A Survey.md",
     "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/JEB Pro/JEB Pro.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/IDA Pro/IDA Pro.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL/bpython.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtimes Environments/Python Interpreters & Implementations/cpython.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python Applications/Python Applications.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL/iPython.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtimes Environments/Python Interpreters & Implementations/Jython.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation (GPL & DSL)/Data Representation & Exchanging (DSL)/STIX (Structured Threat Information Expression).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Python Managers.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking/LLM Lists & Ranking.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Text Editors.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/2024 Interns & Exchanges.md",
+    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Summer Camp & Exchange Programs/Summer Camp & Exchange Programs & Interns.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Commercial Products/tailscale.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Troubleshooting.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/VS Code.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Troubleshooting.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/FAQ.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/GNU emacs.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking/Google Gemini.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking/Aliyun Qwen.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking/LLM Lists & Ranking.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL/bpython.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/PES (Pro Evolution Soccer).md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Software Industry & Providers/Gaming Companies",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/GTA (Grand Theft Auto).md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/Wo Long Fallen Dynasty.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/4399",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/Horizon.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/FIFA & FC.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/AOE (Age of Empire).md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/Video Games.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Game Hosts.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Games.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/📌 Graphic Game Engines & Game Dev/Graphic Game Engines & Game Dev.md",
+    "CS/Software Engineering/🧩 Graphics Rendering Frameworks/DirectX/DirectX.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Games on Apple & macOS.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL",
     "Assets/Pics/Pasted image 20240512212009.png",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking",
     "Assets/Pics/Pasted image 20240512204130.png",
@@ -256,9 +246,6 @@
     "Assets/Pics/Pasted image 20240510154559.png",
     "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Wargames",
     "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Pikachu",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/🔥 Web (WWW) Protocols/WebRTC",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation (GPL & DSL)/Data Representation & Exchanging (DSL)",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Data Representation (GPL & DSL)/Data Representation & Exchanging (GPL)",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Web & DBMS](Web%20&%20DBMS.md)
 ↗ [Web Application System](../../../System%20Architecture%20Design/Web%20Application%20System/Web%20Application%20System.md)
-↗ [Web Development](../../../Software%20Engineering/👾%20Web%20Development/Web%20Development.md)
+↗ [Web Development](../../../Software%20Engineering/Web%20Development/Web%20Development.md)
 
 
 
@@ -64,7 +64,7 @@
 ![](../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.30%20PM.png)
 
 
-> 🔗 More of Modle-View-Control architecture is at [MVC](../../../Software%20Engineering/👾%20Web%20Development/👩🏻‍🎨%20Design%20Pattern/MVC.md)
+> 🔗 More of Modle-View-Control architecture is at [MVC](../../../Software%20Engineering/Web%20Development/👩🏻‍🎨%20Design%20Pattern/MVC.md)
 
 | Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
 | - | - |
@@ -95,8 +95,8 @@
 
 
 #### Middleware
-↗ [Software Engineering /Middleware](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
-↗ [TP Monitor](../../../Software%20Engineering/👁️%20Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
+↗ [Software Engineering /Middleware](../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Middleware.md)
+↗ [TP Monitor](../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
 
 
 

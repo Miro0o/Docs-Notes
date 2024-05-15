@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Design Pattern /Serverless](../../../../../../Software%20Engineering/👾%20Web%20Development/👩🏻‍🎨%20Design%20Pattern/Serverless/Serverless.md)
+↗ [Design Pattern /Serverless](../../../../../../Software%20Engineering/Web%20Development/👩🏻‍🎨%20Design%20Pattern/Serverless/Serverless.md)
 
 
 

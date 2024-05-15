@@ -433,13 +433,12 @@
 		4. vt. 使变苍白, 使失色, 用栅栏围
 		5. 来自 pallere,苍白的，发白的，来自 PIE*pel,苍白的，发白的，词源同 fallow,pallor.
 		6. 来自拉丁语 palus,栅栏，围篱，桩，来自 PIE*pag,固定，标记，词源同 page,pole,palisade.拼写比较 rule,regulate.
-		7. 
-		8. paly
-		9. palish
-		10. paling
-		11. paleness
-		12. palely
-		13. paleface
+		7. paly
+		8. palish
+		9. paling
+		10. paleness
+		11. palely
+		12. paleface
 	3. palisade
 		1. n. 木栅 vt. 用栅栏围护
 		2. palisade [,pælɪ'seɪd] n.栅栏；木桩；细胞层，vt.用栅栏围护。前边说bailey是城堡的外栅，那可以想象到一定是用尖头的木桩固定在地面上，同理，表示木桩的拉丁词根pal-也有单词impale [ɪm'peɪl] v.刺穿；钉住；使绝望和pale [peɪl] n.栅栏等存在。换个思路，中文里的“栅”字，从木，册象形也。 ​​

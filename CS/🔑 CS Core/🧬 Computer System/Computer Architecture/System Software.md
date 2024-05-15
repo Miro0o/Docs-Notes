@@ -33,7 +33,7 @@ Although our model of a computer system places only the operating system in the 
 #### 🤔 Cloud Computing
 ↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
 #### Middleware in Web Software
-↗ [Middleware](../../../Software%20Engineering/👾%20Web%20Development/🥪%20Middleware/Middleware.md)
+↗ [Middleware](../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Middleware.md)
 
 
 

@@ -9,7 +9,7 @@
 ↗ [Software Security](../Software%20Security.md)
 ↗ [Software Vulnerability](../🐒%20Software%20Vulnerability/Software%20Vulnerability.md)
 ↗ [System Security](../../../System%20Security/System%20Security.md)
-↗ [Software Testing](../../../../Software%20Engineering/👁️%20Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 
 ↗ [Program Execution & Compilation System](../../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 

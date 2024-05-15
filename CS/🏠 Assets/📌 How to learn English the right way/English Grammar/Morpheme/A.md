@@ -1215,6 +1215,99 @@
 9. edge
 
 
+### + \*aks- +
+1. **ax-** = axis, 表示“轴”。源自希腊语 axon "axis," 和拉丁语 axis "axle, pivot."
+	1. axes
+		1. pl. 斧头, 轴, 轴线
+		2. broadax
+	2. axial
+		1. a. 轴的, 成轴的, 轴向的
+		2. [axile](dic://axile)
+		3. _adj._ [axis](dic://axis), [axis of rotation](dic://axis of rotation), [lengthwise](dic://lengthwise), [lengthways](dic://lengthways)
+		4. _n._ [crosswise](dic://crosswise)
+		5. **radial**半径的;**transverse**横向的;**annular**环形的，有环纹的;**helical**螺旋形的;**lateral**侧面的，横向的;**axis**轴;**radially**放射状地;**longitudinal**经度的,纵向的;**rotational**转动的,轮流的;**cylindrical**圆柱形的;**curvature**弯曲;
+		6. _axial force_ 轴向力
+		7. _axial flow_ 轴流；轴向流动
+		8. _axial load_ 轴向载荷；轴向负荷；轴向荷载
+		9. _axial compression_ 轴向挤压
+		10. _axial direction_ 轴向
+		11. _axial fan_ 轴流式通风机；轴流式风扇；轴两扇风机
+		12. _axial symmetry_ 轴对称性
+		13. _axial velocity_ 轴向速度，轴流速度
+		14. _axial stress_ 轴向应力；轴应力
+		15. the axial rotation rate of the Earth. /地球绕轴心自转的速度。
+		16. the change of astigmatic axial /散光轴向的改变
+		17. Also known as axial tilt or obliquity. /也被称为转轴倾角(axial tilt)或倾角(obliquity)。
+		18. Your skeleton is divided into two systems — the axial and appendicular skeletons. /你的骨骼分为两个系统——轴向骨骼和附肢骨骼。
+		20. uniaxial
+		21. subaxial
+		22. preaxial
+		23. postaxial
+		24. periaxial
+		25. paraxial
+		26. neuraxial
+		27. monaxial
+		28. hypaxial
+		29. homaxial
+		30. heteraxial
+		31. gingivobuccoaxial
+		32. equiaxial
+		33. epaxial
+		34. coaxial
+		35. buccoaxial
+		36. biaxial
+		37. axialite
+		38. adaxial
+		39. abaxial
+	4. axile
+		1. a. 轴的, 轴上的
+	5. axis
+		1. axis ['æksɪs] n. 轴；轴线；轴心国。ax [æks] vt. 削减；用斧修整；解雇，n. 斧头。axe [æks] n. 斧，vt. 削减；用斧砍。第二个单词ax实际来自第三个单词axe，但它很low的样子使得英国人现在很不喜欢实际使用。这三个单词有共同点吗？单词axes是这三个单词做名词讲是共同的复数形式，人生大赢家呀！
+		2. [axis of rotation](dic://axis of rotation) 
+		3. [bloc](dic://bloc)
+		4.  [axis vertebra](dic://axis vertebra)
+		5. _n._ [line](dic://line), [mechanism](dic://mechanism), [stalk](dic://stalk), [stem](dic://stem), [alliance](dic://alliance), [coalition](dic://coalition), [alignment](dic://alignment)
+		6. **axial**轴的;**perpendicular**垂直的;**radial**半径的;**horizontal**水平的, 与地平线平行的;**pivot**枢轴;**angle**角，角度;**curvature**弯曲;**transverse**横向的;**rotate**旋转;**orthogonal**直角的,直交的;**orientation**方向;
+		7. the earth’s axis of rotation /地球的旋转轴
+		8. the vertical axis is given on a logarithmic scale. /纵轴用对数尺标示。
+		9. a planet turning on its axis; /行星以自己的轴为中心旋转；
+		10. Remember, the price of strawberries is on the vertical axis, and quantity is on the horizontal axis. /记住，草莓价格在纵轴上，数量在横轴。
+		11. Profane space has no axis Mundi, no cosmic tree or pillar leading to the heavens /世俗空间没有轴心，没有通向天堂的宇宙树或支柱。
+		12. n. 轴，轴线；对称中心线，对称轴；（国家间的）联盟；斑鹿 
+		13. z-axis
+		14. y-axis
+		15. x-axis
+		16. secondary axis
+		17. pseudaxis
+		18. neuraxis
+		19. macroaxis
+		20. clinoaxis
+		21. brachyaxis
+	6. axle
+		1. n. 轴, 车轴
+		2. axletree
+	7. axon
+		1. n. 轴突; 轴索
+	8. coaxal
+		1. a. 共轴的, 同轴的
+	9. oxter
+		1. n. 腋, 腋窝
+2. **axill-** = armpit, 表示“腋窝”。源自拉丁语 axilla "armpit."
+	1. axilla
+	2. axillae
+	3. axillary
+		1. adj. 腋窝的；腋生的；叶腋的
+		2. n. 腋羽
+		3. [alar](dic://alar)
+		4. _adj._ [axil](dic://axil), [armpit](dic://armpit), [axilla](dic://axilla), [axillary cavity](dic://axillary cavity), [axillary fossa](dic://axillary fossa)
+		5. **thoracic**胸的;**lymph**淋巴，淋巴液;**cutaneous**皮肤的;**cervical**子宫颈的;**dorsal**背的，背侧的;**abdominal**腹部的;**anterior**前面的;**femoral**股骨的;**subcutaneous**皮下的;**apical**顶上的, 顶点的;**basal**基础的;
+		6. enlargement of the axillary lymph nodes. /腋淋巴结肿大。
+		7. axillary hari is an ambisexual trait /腋毛是两性共同的特征
+		8. Proper placement of the axillary roll is under the thorax caudad to the axilla. /腋窝卷的正确使用方法，是放在腋窝的尾端的胸廓下。
+		9. n this case, oral and rectal temperature readings are more accurate than axillary temp. /在这种情况下，口腔和直肠温度读数比腋窝温度更准确。
+	5. axillas
+
+
 
 ## al
 ### + \*al +
@@ -1222,9 +1315,9 @@
 1. **al-, ali-, altern-, altru-, ulter-** = others, to change, 「Latin」alius, "another, other, different"
 	1. alter
 		2. unaltered, altermode
-		3. alterative, alteration
+	2. alterative, alteration
 		4. alterant, alterable
-	2. alternate, alternant
+	3. alternate, alternant
 		1. _n._ [stand-in](dic://stand-in), [substitute](dic://substitute), [relief](dic://relief), [reliever](dic://reliever), [backup](dic://backup), [backup man](dic://backup man), [fill-in](dic://fill-in)
 		2. _v._ [change](dic://change), [alter](dic://alter), [vary](dic://vary), [exchange](dic://exchange), [memorize](dic://memorize), [memorise](dic://memorise), [con](dic://con)
 		3. _adj._ [cyclic](dic://cyclic), [cyclical](dic://cyclical), [secondary](dic://secondary)
@@ -1232,11 +1325,11 @@
 		5. **alternatives**其它选择;**preferred**首选的;**alternatively**做为选择,二者择一地;**plausible**貌似真实的，貌似有理的;**multiple**多样的;**option**选择权;**appropriate**适当的, 恰当的;**different**不同的, 差异的;**non-standard**不标准的,不规范的;**preferable**更好的, 更适合的, 更可取的;
 		6. alternate permutation /交错排列
 		7. alternate winter and summer /冬夏交替
-	3. altercate, altercation
+	4. altercate, altercation
 		1. _v._ [argue](dic://argue), [contend](dic://contend), [debate](dic://debate), [fence](dic://fence)
 		2. **quarrel**吵架;**assemblage**聚集;**likewise**也;**agreeable**欣然同意的;**apprehend**理解;
 		3. I actually lived next door to the Wilsons and overheard the altercation that took place after the incident had occurred. /我就住在 Wilson 家隔壁，无意中听到事件发生后他们的争执。
-	4. altruist
+	5. altruist
 		1. n. 利他主义者, 无私者
 		2. altru-异，他人 + -ist表人，一般为专家
 		3. altruism（利他主义）：法国哲学家孔德杜撰的哲学术语  
@@ -1244,15 +1337,15 @@
 		5. altruism：['æltruɪzəm] n.利他主义  
 		6. altruist：['æltrʊ,ɪst] n.利他主义者  
 		7. altruistic：[,æltrʊ'ɪstɪk] adj.利他的，无私的
-	5. alien
+	6. alien
 		1. unaliened
 		2. alienor, alienee, alienate
 			1. alienator, alienation,
 			2. abalienated, abalienate
 		3. alienism, alienist
 		4. inalienable, alienability
-	6. alias
-	7. alibi
+	7. alias
+	8. alibi
 		1. alibi（借口）：以不在犯罪现场为由的无罪辩解  
 		2. 18世纪时，英语单词alibi是一个法律术语，意为“以犯罪发生时身处其他地方为由进行无罪辩解”。它源自拉丁语alibi，字面意思是somewhere else（在其他地方），是拉丁语alius（other）的位置格。英语词根ali-（其他）及单词alias（别名）、alien（外国的）都源自拉丁语alius。  
 		3. 后来，alibi的词义得到扩展，用来泛指任何的借口、托辞。  
@@ -1260,7 +1353,7 @@
 		5. alibi：['ælɪbaɪ] n.借口，托辞v.辩解，找托辞开脱  
 		6. alias：[ˈeɪliəs] n. 别名，化名adv. 别名叫；化名为  
 		7. alien：[ˈeliən,ˈeljən] adj. 外国的；相异的，性质不同的；不相容的n. 外国人，外侨；外星人vt. 让渡，转让
-	8. allegory
+	9. allegory
 		1. all-=al-其它 + egor-群体、广场 + -ory名词后缀 → 在广场演讲时说的大道理。
 		2. allegory（寓言）：暗含另一层意思的公开演说  
 		3. 在古希腊时代，人们喜欢在市场等公共场所闲聊，很多政治家、思想家也喜欢在公共场所发表演讲，谈论哲学或政治。在谈及一些不便于明说的敏感话题或为了增加演说的趣味性，他们往往会采用讽喻的手法，用虚构的角色和故事来暗指、讽刺某人或某种现象。这种用来讽喻现实的虚构故事在希腊语中就被称为allegoria，由allos（不同的、另一个）+agoreuein（公开演说）构成，字面意思就是“暗含另一层意思的公开演说”。英语单词allegory就来自希腊语allegoria。  
@@ -1268,14 +1361,14 @@
 		5. allegory：['ælɪg(ə)rɪ] n.寓言，讽喻  
 		6. allegorical：[,ælɪ'gɒrɪk(ə)l] adj.讽喻的，寓言的，寓意的
 		7. allegorist, allegorical, allegorically
-	9. allergy, allergen
+	10. allergy, allergen
 		1. allergic, allergin, allergia, allergist
 		2. deallergize, allergization
 		3. photoallergy, parallergy, neuroallergy, metallergy
 			1. parallergia, parallergin
 		4. allergenic, allergenicity
 		5. aeroallergen
-	10. adulterate, adulterant
+	11. adulterate, adulterant
 		1. _[adulterate](dic://adulterate)_  v. 在（饮食）中掺入低劣杂质，掺假; adj. 掺假的，不纯的；通奸的;
 		2. _v._ [corrupt](dic://corrupt), [spoil](dic://spoil)
 		3. _adj._ [impure](dic://impure)
@@ -1283,7 +1376,7 @@
 		5. **dilute**稀释, 冲淡;**purify**净化;**ingest**咽下;**procure**获得，取得;**distort**扭曲;**deceive**欺骗;**subvert**推翻;**alter**改变，更改;**counterfeit**仿制品, 伪造物;**enrich**使肥沃;**undermine**在某物下挖洞或挖通道;
 		6. adulterate remedies. /掺假药物。
 		7. milk adulterated with water /搀了水的牛奶
-	11. adultery
+	12. adultery
 		1. extramarital sex that willfully and maliciously interferes with marriage relations
 			1. adultery is often cited as grounds for divorce
 			2. [criminal conversation](dic://criminal conversation), [fornication](dic://fornication)
@@ -1291,7 +1384,7 @@
 		3. **infidelity**不信神;**immorality**不道德,无道义;**polygamy**一夫多妻，一妻多夫，多配偶;**cheating**行骗，欺骗行为;**idolatry**偶像崇拜;**sin**过失;**homosexuality**同性恋;**murder**谋杀，凶杀;**transgression**犯罪;**marriage**结婚;**divorce**使离婚，使分离;
 		4. adulterous, adulterine
 		5. adulteress, adulterer
-	12. subaltern
+	13. subaltern
 2. **allo-** = other, 「Greek」, alos, "other"
 	1. parallel
 		1. unparalleled

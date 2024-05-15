@@ -582,18 +582,15 @@ https://www.uoiot.ca
 
 Nanda Laboratory (AI for software engineering automation | Software engineering for AI-enabled systems)
 https://www.nanda-lab.ca
-
 ##### Master of Computer Science
 https://catalogue.uottawa.ca/en/graduate/master-computer-science/#text
 
 - Have a bachelor of science degree with honours in computer science (or equivalent), with a minimum average of B (70%).
 
 Note: International candidates must check the [admission equivalencies](https://www.uottawa.ca/graduate-studies/international/study-uottawa/admission-equivalencies) for the diploma they received in their country of origin.
-
 - Identify at least one professor who is willing to supervise your research and thesis. We recommend that you contact potential thesis supervisors as soon as possible.
 
 **The Accelerated Stream has three additional requirements. Candidates must:**
-
 - Complete up to 6 units from the OCICS master’s courses each with 70% (B) or higher grade (taken during their Bachelor’s program in Computer Science or Software Engineering).
 - Have an admission average of A- (80%) or higher.
 - Have a thesis supervisor.

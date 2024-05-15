@@ -1529,134 +1529,165 @@
 		8. nonprofit
 		9. 
 7. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
-	1. facies
-		1. superfacies
-		2. microfacies
-		3. hydrofacies
-	2. barefaced
-		1. _adj._ [overt](dic://overt), [open](dic://open), [unashamed](dic://unashamed)
-		2. _n._ [covert](dic://covert),  
-		3. **brazen**黄铜制的;**shameless**无耻的;**blatant**明目张胆的;**falsehood**谎言;**lie**躺下;**shamelessly**不知羞耻地;**liar**说谎的人;**dishonesty**不诚实的行为;**blatantly**公开地;**hypocrisy**伪善;**audacious**大胆的, 有冒险精神的;
-	3. bifacial
-	4. blackface
-	5. boldface, boldfaced
-		1.  [bold face](dic://bold face), [bold](dic://bold)
-		2. _n._ [font](dic://font), [fount](dic://fount), [typeface](dic://typeface), [face](dic://face)
-		3. _v._ [print](dic://print), [impress](dic://impress)
-		4. **italics**斜体字，斜体;**parentheses**parenthesis的复数，圆括号;**asterisk**星号;**underline**在…下面划线;**bold**大胆的，英勇的;**headings**标题;**punctuation**标点法, 标点符号的使用;**footnote**脚注;**paragraph**段落;
-	6. boniface
-	7. facade
-		1.  [frontage](dic://frontage), [frontal](dic://frontal)
-		2.  [window dressing](dic://window dressing)
-		3. _n._ [front](dic://front), [misrepresentation](dic://misrepresentation), [deceit](dic://deceit), [deception](dic://deception)
-		4. **exterior**外部的;**edifice**大厦;**stucco**粉饰，粉刷;**building**建筑;**plaza**广场;**veneer**薄片镶饰;**dome**圆屋顶;**courtyard**庭院, 院子;**cladding**包层;**arch**拱门;**nave**中殿;
-	8. face
-		1. whiteface
-		2. whey-face, whey-faced
-		3. volte-faced
-		4. weasel-faced
-		5. twofaced
-		6. tallow-faced
-		7. subface
-		8. square-faced
-		9. spotface
-		10. smooth-faced
-		11. shamefaced
-		12. self-faced
-		13. rightabout-face
-		14. right-face
-		15. reface
-		16. rearface
-		17. rat-face
-		18. postface
-		19. poker-faced
-		20. pasty-faced
-		21. paleface
-		22. outface
-		23. open-faced
-		24. moonfaced
-		25. janus-faced
-		26. interface
-		27. horsefaced
-		28. hatchet-faced
-		29. hard-face
-		30. full-faced
-		31. facing
-		32. facial
-		33. facet
-		34. facer
-		35. faceplate
-		36. facepiece
-		37. faceometer
-		38. faceoff
-		39. facelift
-		40. faceless
-		41. faced
-		42. facecloth
-		43. face-to-face
-		44. face-saving
-		45. face-saver
-		46. face-lifting
-		47. face-harden
-		48. face-cream
-		49. face-ache
-		50. enface
+	1. facade
+		2. _n._ <建>(房屋的)正面
+		3. 假象;外观
+		4. [frontage](dic://frontage), [frontal](dic://frontal)
+		5. [window dressing](dic://window dressing)
+		6. _n._ [front](dic://front), [misrepresentation](dic://misrepresentation), [deceit](dic://deceit), [deception](dic://deception)
+		7. **exterior**外部的;**edifice**大厦;**stucco**粉饰，粉刷;**building**建筑;**plaza**广场;**veneer**薄片镶饰;**dome**圆屋顶;**courtyard**庭院, 院子;**cladding**包层;**arch**拱门;**nave**中殿;
+		8. the ornate facade of the Palace /宫殿装饰华丽的正面
+		9. the frail facade of petit bourgeois respectability. /小资产阶级体面外表的不堪一击。
+		10. the grim facts behind the facade of gaiety /欢乐外表后面的冷酷事实
+		11. her flawless public facade masked private despair. /她在公开场合的完美形象掩饰了内心的绝望。
+		12. The only wizarding hospital we know of,St. Mungo's is located behind the facade of Purge and Dowse, Ltd.in London. /我们所知的唯一一所巫师医院,人们从伦敦的淘淘百货公司的正面进入圣芒戈.
+		13. He's just, you know, keeping up a facade /他只是勇敢面对。
+		14. It's the whole facade, and they dance too /就是会让人想要跳舞，而且他们也跳了。
+		15. The village also put a priority on designing the facades of the village homes /同时，村里还重点对墙的外观进行了设计。
+		16. The facade is so beautiful but the foundations are far from solid. /正面很漂亮，但地基却很不牢固。
+		17. A group of people damaged the facade of the building before physically attacking diplomats. /一群人破坏了大楼的外墙，然后对外交官进行人身攻击。
+		18. But its facade belies a dark history. /但它的外表掩盖了一段黑暗的历史。
+	2. face
+		1. facies
+			1. superfacies
+			2. microfacies
+			3. hydrofacies
+		2. barefaced
+			1. adj. 公然的，厚颜无耻的；不戴面具的；素颜的
+			2. _adj._ [overt](dic://overt), [open](dic://open), [unashamed](dic://unashamed)
+			3. _n._ [covert](dic://covert),  
+			4. **brazen**黄铜制的;**shameless**无耻的;**blatant**明目张胆的;**falsehood**谎言;**lie**躺下;**shamelessly**不知羞耻地;**liar**说谎的人;**dishonesty**不诚实的行为;**blatantly**公开地;**hypocrisy**伪善;**audacious**大胆的, 有冒险精神的;
+			5. a barefaced hypocrite /无耻的伪君子；
+			6. The most furious anarchist become the most barefaced apostate. /最激烈的无政府主义者，居然成了最露骨的变节者。
+			7. his years of working barefaced, breathing down dust. /他不戴面具工作、老是吃灰尘的那几年。
+			8. Barefaced liars lie easily and often. They lie through their teeth, we like to say. /厚颜无耻的撒谎者会经常、轻易地撒谎。我们一般会说，他们谎话连篇。
+			9. So Rob is a 'barefaced liar' because he's obviously telling a lie without any embarrassment. /所以，罗布是一个“无耻的骗子”，因为很明显他毫不尴尬地说了谎。
+			10. So, they're making a joke about going barefaced — so, not having a mask on your face. /所以，他们在开玩笑说要露脸，也就是说，脸上不戴口罩。
+		3. bifacial
+		4. blackface
+		5. boldface, boldfaced
+			1. adj. 厚颜无耻的；冒失的；粗体字的
+			2.  [bold face](dic://bold face), [bold](dic://bold)
+			3. _n._ [font](dic://font), [fount](dic://fount), [typeface](dic://typeface), [face](dic://face)
+			4. _v._ [print](dic://print), [impress](dic://impress)
+			5. **italics**斜体字，斜体;**parentheses**parenthesis的复数，圆括号;**asterisk**星号;**underline**在…下面划线;**bold**大胆的，英勇的;**headings**标题;**punctuation**标点法, 标点符号的使用;**footnote**脚注;**paragraph**段落;
+			6. I would highlight-- boldface and underline what you just said /我要强调——黑体并强调你刚才所说的话。
+			7. You're now a boldfaced name. You're in play. /你的名字现在加粗了 成名人了。
+			8. I've emphasized the key portion in **boldface** /我用粗体强调了其中的关键部分。
+			9. Turning she saw a tall handsome woman with a bold face and a mass of red hair, too red to be true. /思嘉转过身来，发现那是一个漂亮的高个女子，一头浓密的头发红得令人难以置信，脸上的表情也俗不可耐。
+			10. She stood at the door for a moment, nerving herself for the interview, and then with a bold face joined him. /她在门口站了一会儿， 为接受采访鼓足了勇气，然后才硬着头皮走到他身边。
+			11. 
+		6. boniface
+			1. n. 小旅店的老板，小餐馆老板
+			2. [host](dic://host), [innkeeper](dic://innkeeper)
+			3. _n._ [missionary](dic://missionary), [saint](dic://saint), [patron](dic://patron)
+			4. **john**厕所;**peter**逐渐消失;
+		7. whiteface
+		8. whey-face, whey-faced
+		9. volte-faced
+		10. weasel-faced
+		11. twofaced
+		12. tallow-faced
+		13. subface
+		14. square-faced
+		15. spotface
+		16. smooth-faced
+		17. shamefaced
+		18. self-faced
+		19. rightabout-face
+		20. right-face
+		21. reface
+		22. rearface
+		23. rat-face
+		24. postface
+		25. poker-faced
+		26. pasty-faced
+		27. paleface
+		28. outface
+		29. open-faced
+		30. moonfaced
+		31. janus-faced
+		32. interface
+		33. horsefaced
+		34. hatchet-faced
+		35. hard-face
+		36. full-faced
+		37. facing
+		38. facial
+		39. facet
+		40. facer
+		41. faceplate
+		42. facepiece
+		43. faceometer
+		44. faceoff
+		45. facelift
+		46. faceless
+		47. faced
+		48. facecloth
+		49. face-to-face
+		50. face-saving
+		51. face-saver
+		52. face-lifting
+		53. face-harden
+		54. face-cream
+		55. face-ache
+		56. enface
 			1. enface
-		51. efface
+		57. efface
 			1. [obliterate](dic://obliterate)
 			2.  [erase](dic://erase), [rub out](dic://rub out), [score out](dic://score out), [wipe off](dic://wipe off)
 			3. _v._ [blur](dic://blur), [dim](dic://dim), [slur](dic://slur), [humble](dic://humble), [delete](dic://delete), [cancel](dic://cancel)
 			4. **erase**抹去;**diminish**使减少;**displace**取代;**countenance**面容，表情;**alter**改变，更改;**conceal**隐藏;**reconstruct**重建;**distort**扭曲;**indelible**擦不掉的;**reshape**改造;**arouse**引起;
 			5. effaceable
-				1. - adj. 能擦掉的；可抹去的；会被忘却的
+				1. adj. 能擦掉的；可抹去的；会被忘却的
 			6. self-effacing
 				1. _adj._ [unassertive](dic://unassertive)
 				2. _n._ [assertive](dic://assertive)
 				3. **unassuming**谦逊的;**down-to-earth**务实的;**wry**面部肌肉扭曲的;**witty**诙谐的;**sarcastic**讽刺的;**irreverent**不敬的;**endearing**惹人喜爱的;**low-key**抑制的,软调的;**humble**谦逊的;**brash**仓促的，性急的;**dignified**高贵的;
 			7. self-effacement
-		52. doughface
-		53. dollface
-		54. dogface
-		55. deface
+		58. doughface
+		59. dollface
+		60. dogface
+		61. deface
 			1. [disfigure](dic://disfigure), [blemish](dic://blemish)
 			2. _v._ [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate), [mutilate](dic://mutilate), [mangle](dic://mangle)
 			3. **destroy**毁坏;**graffiti**墙上乱写乱画的东西;**vandals**破坏文化遗产的人;**adorn**装饰;**steal**剽窃;**vandalism**汪达尔人作风;**tarnish**晦暗;**subvert**推翻;**erase**抹去;**demolish**毁坏;**alter**改变，更改;
 			4. deface an inscription /磨损碑文
 			5. he defaced library books. /他在图书馆的书上乱画乱写。
 			6. The wall of the Jewish cemetery in Vienna has been defaced with swastikas. /维也纳的犹太墓地围墙被喷涂了纳粹标志。
-		56. counterface
-		57. coal-face
-		58. clockface
-		59. brazen-faced
+		62. counterface
+		63. coal-face
+		64. clockface
+		65. brazen-faced
 			1. _[brazenfaced](dic://brazenfaced)_  adj. 厚脸皮的
-		60. bold-faced
-		61. bold-face
-		62. bald-faced
-		63. about-face
-	9. superface
-		1. _[superface](dic://superface)_  n. 顶面
-		2. superficial
-			1. _adj._ [ostensible](dic://ostensible), [dilettante](dic://dilettante), [dilettantish](dic://dilettantish), [dilettanteish](dic://dilettanteish), [sciolistic](dic://sciolistic)
-			2. _n._ [profound](dic://profound), [significant](dic://significant), [important](dic://important), [deep](dic://deep)
-			3. **shallow**浅的;**banal**陈腐的;**trivial**不重要的，琐碎的;**simplistic**过分单纯化的;**unimportant**不重要的;**pretentious**自命不凡的;**materialistic**唯物论的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**self-centered**自我为中心的,利己主义的;**crass**粗鲁的;**cursory**粗略的;
-		3. superficiary
-			1. _n._ (每年付租金的)租地造屋者
-		4. superficies
-	11. surface
-		1. surficial
-			1. _adj._ [surface](dic://surface), [Earth's surface](dic://Earth's surface)
-			2. **sedimentary**沉积的;**subsurface**地下的;**sediments**沉淀物;**sediment**沉淀物;**geologic**地质的;**aquifer**蓄水层;**groundwater**地下水;**geological**地质的;**geology**地质情况;**topographic**地质的;**bedrock** 根底;
-		2. unsurfaced
-		3. undersurface
-		4. surfaction
-		5. surfactant
-		6. srfacing
-		7. etc..
-	12. typeface
-	13. faciation
-	14. lithofacies
-	15. petrofacies
-	16. tectofacies
+		66. bold-faced
+		67. bold-face
+		68. bald-faced
+		69. about-face
+		70. superface
+			1. _[superface](dic://superface)_  n. 顶面
+			2. superficial
+				1. _adj._ [ostensible](dic://ostensible), [dilettante](dic://dilettante), [dilettantish](dic://dilettantish), [dilettanteish](dic://dilettanteish), [sciolistic](dic://sciolistic)
+				2. _n._ [profound](dic://profound), [significant](dic://significant), [important](dic://important), [deep](dic://deep)
+				3. **shallow**浅的;**banal**陈腐的;**trivial**不重要的，琐碎的;**simplistic**过分单纯化的;**unimportant**不重要的;**pretentious**自命不凡的;**materialistic**唯物论的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**self-centered**自我为中心的,利己主义的;**crass**粗鲁的;**cursory**粗略的;
+			3. superficiary
+				1. _n._ (每年付租金的)租地造屋者
+			4. superficies
+		71. surface
+			1. surficial
+				1. _adj._ [surface](dic://surface), [Earth's surface](dic://Earth's surface)
+				2. **sedimentary**沉积的;**subsurface**地下的;**sediments**沉淀物;**sediment**沉淀物;**geologic**地质的;**aquifer**蓄水层;**groundwater**地下水;**geological**地质的;**geology**地质情况;**topographic**地质的;**bedrock** 根底;
+			2. unsurfaced
+			3. undersurface
+			4. surfaction
+			5. surfactant
+			6. srfacing
+			7. etc..
+		72. typeface
+		73. faciation
+		74. lithofacies
+		75. petrofacies
+		76. tectofacies
 8. **the-, thec-, thet-** = setting
 	1. apothecary
 		1. apothecary（药剂师）：存储药材并对外销售的人  
@@ -1683,8 +1714,14 @@
 		3. **heresy**异教;**heretical**异教的;**orthodoxy**正统说法;**antithesis**对照;**dogma**教条，教理;**tantamount**等于;**heretics**异教徒;**despised**受轻视的;**abomination**厌恶;**elitist**优秀人材;**dogmatic**教条的;
 		4. anathematize
 			1. v. 诅咒, 强烈遣责, 宣布革出教门
-			2. _v._ [deplore](dic://deplore)
-			3. **heretics**异教徒;**heretical**异教的;**heresy**异教;**condemn**判刑，定罪;**denounce**谴责;**renounce**宣布放弃;**affirm**断言;**reject**拒绝;**rebuke**指责，非难;**profess**公开表示;**repent**忏悔;
+			2. vi. 诅咒；强烈遣责；开除教籍 
+			3. vt. 诅咒；强烈遣责；宣布革出教门
+			4. _v._ [deplore](dic://deplore)
+			5. **heretics**异教徒;**heretical**异教的;**heresy**异教;**condemn**判刑，定罪;**denounce**谴责;**renounce**宣布放弃;**affirm**断言;**reject**拒绝;**rebuke**指责，非难;**profess**公开表示;**repent**忏悔;
+			6. he anathematized them as ‘bloody scroungers’. /他咒骂他们是“该死的要饭的”。
+			7. He had rather be damned with Plato than saved with those who anathematized him /他宁可让自己的灵魂与柏拉图一道被罚入地狱, 也不愿和谴责他的人们一起升入天国。
+			8. Korak looked searchingly down upon her, mentally anathematizing the broad-brimmed hat that hid her features from his eyes. /科拉克仔细地俯视着她， 在精神上诅咒那顶遮住她的容貌的宽边帽。
+			9. And further we **anathematize** such as do not confess the resurrection of the dead, as well as all heresies which are not in accord with the true faith. /除此之外，我们也咒诅不相信死人复活，和所有不根据真信仰的异端。
 	9. cinematheque
 		1. n. 影片储藏室；实验电影院
 	10. discotheque
@@ -1697,9 +1734,17 @@
 		3. [name](dic://name)
 		4. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [word picture](dic://word picture)
 		5. **nickname**绰号;**moniker**名字;**derogatory**不敬的;**connotation**内涵;**synonym**同义词;**allusion**暗示;**phrase**成语;**adjective**形容词;**slur**诽谤;**disparaging**轻蔑的;**etymology**词源学;
+		6. an epithet that sums up my feelings /简洁地表达了我思想感情的形容词
+		7. old men are often unfairly awarded the epithet ‘dirty’. /老人常常被不公正地用“脏”来描述。
+		8. He absolutely deserves the epithet 'the Great', he really was. /他绝对值得配得上伟人的封号, 他是实至名归。
+		9. In spite of that, my friends never used the epithet " self-centered" when referring to me. /对于我，他们太慷慨了。
+		10. One turned out to have used a racial epithet to jovially address a (white) friend in 2009 /其中一人在2009年曾用种族侮辱性称号打趣一位（白人）朋友。
+		11. On the other hand, harsh and hard-hearted are the epithets allotted to the creditor. /另一方面，“冷酷”和“铁石心肠”这些词语则一股脑安到债主头上。
+		12. I say, given your overall demeanor and your freewheeling use of epithets, I'm willing to bet that he was provoked. /我看，你这么失礼又乱称呼别人诨名，我肯定是你挑衅他的。
+		13. Lilia praised and petted him on his return, calling him brave and a hero and other endearing epithets /莉莉亚在他回来时称赞和抚摸他， 称他勇敢、英雄和其他可爱的绰号。
 	12. theme
 		1. 中古英语 teme, theme (源自古法语 teme), 源自中古拉丁语 thema, 源自希腊语 théma “proposition, deposit,” 和 tithénai “to put, set down”有亲缘关系。
-	13. thesaurus,
+	13. thesaurus
 		1. hesaurus - 19世纪直接借自拉丁语，源于希腊语thēsaurós，本义为treasure（财宝）或treasure house（宝库）。在凯撒（Julius Caesar, 100-44 BC）时代，当thesaurus进入拉丁语时，它喻指storehouse of knowledge（知识宝库）；在文艺复兴时期，它成了几部大型希腊语、拉丁语辞书的书名；到了近代，在不太严格的意义上，它又常被作为“词典”、“词语汇编”（lexicon）甚至“百科全书”的同义词使用，有时也指某一学科如音乐、医学等的词汇选编。但在今天，对大多数人来说，thesaurus意指“类属词典”或“同类词汇编”，不论是按类属排列的还是按字母排列的。此义是英国医师、语言学者罗热（Peter Mark Roget, 1779-1869）首先使用的，并首次体现于他编纂的《英语词语类属词典》（Thesaurus ofEnglish Words and Phrases）。该词典按概念领域对词语进行分类，其编纂目的，正如他本人所说的，是“为表达思想提供便利，为文学创作提供帮助”。自1852年问世以来它几经修订和扩充，但直到今天依然经久不衰。
 		2. 英语的另一个词treasure（财宝）和thesaurus有亲缘关系，它可以说间接源自thesaurus这个拉丁语借词，其终极词源也是希腊语thēsaurós，但它转道法语trésor，所以演变为treasure这一形式，于12世纪进入英语。  
 		3. 例　You should keep a thesaurus right next to your dictionary. (FWF) 你应该在词典旁边放一本分类词
@@ -1721,30 +1766,90 @@
 		10. **trove**被发现的东西;**priceless**无价的;**gem**宝石;**jewel**宝石;**gems**宝石;**hoard**储藏, 积存;**jewels**珠宝;**riches**财富;**precious**宝贵的;**loot**掠夺品;**hunt**打猎;
 		11. _treasure trove_ n. 无主珍宝，无主埋藏物
 		12. treasury, treasurehouse
+		13. You don't need a thesaurus. Just write from here /你不必用" 辞典" 要用这里写。
+		14. Of course, it does, it's smart, I used a thesaurus. /当然有，很聪明，我用了同义词词典。
 9. deed
-	1. [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
-	2. [deed of conveyance](dic://deed of conveyance), [title](dic://title)
-	3. _n._ [accomplishment](dic://accomplishment), [achievement](dic://achievement), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
-	4. [act](dic://act) 一般指具体的、短暂的或个别的行为，强调行为的完成及其效果。  
+	16. [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
+	17. [deed of conveyance](dic://deed of conveyance), [title](dic://title)
+	18. _n._ [accomplishment](dic://accomplishment), [achievement](dic://achievement), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
+	19. [act](dic://act) 一般指具体的、短暂的或个别的行为，强调行为的完成及其效果。  
 		1. [action](dic://act) 普通用词，着重行动的过程。  
 		2. [deed](dic://deed) 较庄重用词，除泛指各种行为外，还可用于指某种高尚或伟大的行为，故常译作“功绩，业绩”。  
 		3. [operation](dic://operation) 多指一连串行动或行为的完成方式。  
 		4. [performance](dic://performance) 主要指行动的方式方法。
-	5. **conveyance**运输;**easement**缓和;**lien**留置权;
-	6. _good deed_ 善事，好事
-	7. _in deed_ 真正；实际上
-	8. _title deed_ [律]所有权证书（尤指地契）
-	9. _trust deed_ 信托书，委托书；信托契约
-	10. _do a good deed_ 做一件好事
-	11. _deed tax_ 契税
-	12. a deed of indemnity. /免责书。
-	13. Deeds must second words. /言行必须一致。
-	14. deeds that redound to one's discredit /损害个人信誉的行为
-	15. This is the deed to John's plantation. /这是约翰农场的契约。
-	16. emblazoning a heroine's deeds in song /在歌曲中颂扬女英雄的事迹
+	20. **conveyance**运输;**easement**缓和;**lien**留置权;
+	21. _good deed_ 善事，好事
+	22. _in deed_ 真正；实际上
+	23. _title deed_ [律]所有权证书（尤指地契）
+	24. _trust deed_ 信托书，委托书；信托契约
+	25. _do a good deed_ 做一件好事
+	26. _deed tax_ 契税
+	27. a deed of indemnity. /免责书。
+	28. Deeds must second words. /言行必须一致。
+	29. deeds that redound to one's discredit /损害个人信誉的行为
+	30. This is the deed to John's plantation. /这是约翰农场的契约。
+	31. emblazoning a heroine's deeds in song /在歌曲中颂扬女英雄的事迹
 10. deem
+	1. v. 认为，相信
+	2. 词源见 “doom”
+	3. [hold](dic://hold), [view as](dic://view as), [take for](dic://take for)
+	4. _v._ [see](dic://see), [consider](dic://consider), [reckon](dic://reckon), [view](dic://view), [regard](dic://regard)
+		1. [consider](dic://consider) 指经过考虑和观察后得出的结论。  
+		2. [think](dic://think) 普通用词，指按照自己的意见提出看法。  
+		3. [believe](dic://believe) 通常指根据一定的证据，经思考后而认为属实。  
+		4. [count](dic://count) 指作出判断后而得出的看法等。  
+		5. [deem](dic://deem) 正式用词，常用于法律、文学，强调作判断而不是思考。  
+		6. [reckon](dic://reckon) 指对人或事作全面“权衡”，把各方面意见考虑进去后得出结论。  
+		7. [regard](dic://regard) 侧重凭外表或表面现象作判断。多强调观点。
+	5. **considered**考虑过的;**consider**认为;**appropriate**适当的, 恰当的;**necessary**必要的;**unworthy**不值得的;**ought**应该，应当;**might**可能;**worthy**有价值的;**declare**宣布，声明;**should**应该;**would**将，将要;
+	6. Even the term 'cringe' might someday be deemed 'cringe.' /甚至‘cringe’这个词有一天也可能被视为是一种难为情。
+	7. How big of a threat do you deem that? /你认为威胁性有多大？
+	8. There are some who would not deem it wise. /有人会觉得此举并不明智。
+	9. I deem it an honor to serve you. /我认为为您服务是一项光荣。
+	10. Other areas deemed high-risk include subways and cinemas. /其他高风险地区还包括地铁和电影院。
+	11. Was deemed a dead or living Tell! /视死如归，生者死者的袒露秘密。
+	12. " I deemed in prudent, " said the deeper-voiced goblin. /“我想谨慎一些，”嗓音低沉的妖精说。
+	13. But, some things are so bad that mainstream culture deems them unspeakable. /然而，有些坏事令人发指到主流文化对其噤若寒蝉。
 11. do
 12. doom
+	1. n. 厄运, 不幸, 法律, 宣告, 判决, 死亡  
+	2. vt. 命中注定, 判决
+	3. doom（厄运）：上帝的末日审判  
+	4. 英语单词doom来自古英语dom，表示“判断、裁定、定罪”，同源单词有deem（认为、相信）。同源的还有后缀-dom，表示某种评价或裁定，如wisdom（明智）、freedom（自由）。基督教进入英国后，英国人就用doomsday表示基督教中上帝的“末日审判”，并常常简略为doom。因此doom一词衍生出“厄运、末日、命中注定的悲惨结局”等含义。  
+	5. 注意到doomsday的意思是最后审判日，是的，单词doom [duːm] n.厄运；死亡；判决；世界末日，vt. 注定；判决；使失败的本意就是“判决”，元音交替形式deem [diːm] v.认为；评价；视作，就是在做判断，而传说中俄罗斯的国家机构“杜马”写作Duma['du:mə] n.杜马，意思是议会，是立法（裁断）机关。 ​​​​
+	6. doom：[duːm] n. 厄运，世界末日，命中注定的悲惨结局；判决vt.判决，注定，使失败  
+	7. deem：[diːm] vt. 认为，视作；相信vi. 认为，持某种看法；作某种评价  
+	8. doomsday：['duːmzdeɪ] n. 世界末日；最后的审判日
+	9. [doomsday](dic://doomsday), [day of reckoning](dic://day of reckoning), [end of the world](dic://end of the world)
+	10. [destine](dic://destine), [fate](dic://fate), [designate](dic://designate)
+	11.  [sentence](dic://sentence), [condemn](dic://condemn)
+	12. _n._ [destiny](dic://destiny), [fate](dic://fate)
+	13. _v._ [ordain](dic://ordain), [declare](dic://declare), [guarantee](dic://guarantee), [ensure](dic://ensure), [insure](dic://insure), [assure](dic://assure), [secure](dic://secure)
+		1. [destiny](dic://destiny) 普通用词，侧重预先注定的命运，对未来命运的美好憧憬。  
+		2. [fate](dic://fate) 较庄严用词，多指不幸的命运，暗示不可避免，令人畏惧和人的意志无法改变，宿命论色彩较浓。   
+		3. [lot](dic://lot) 多指偶然的运气或终身遭受的不幸命运。  
+		4. [doom](dic://doom) 指最终的，常常是灾难性或毁灭性的命运，隐含不可避免的意味。  
+		5. [luck](dic://luck) 普通日常用词，指好的或坏的运气，尤多指好运气，有时也指成功或愉快的结局。  
+		6. [fortune](dic://fortune) 普通用词，指由机会或运气来决定的一种命运，如暗示一种比fate好的运气或一种愉快的未来
+	14. **gloom**忧郁;**apocalypse**启示, 天启;**apocalyptic**预示灾祸的;**demise**死亡，终止;**Armageddon**世界末日善恶决战的战场;**impending**即将发生的;**oblivion**遗忘;**thrash**打;**dread**惧怕;**gloomy**黑暗的;**calamity**不幸事件;
+	15. foredoom
+	16. doomster
+		1. n. 预言灾难的人；审判者；宣判人
+	17. doomsday
+		1. [Judgment Day](dic://Judgment Day), [Judgement Day](dic://Judgement Day), [Day of Judgment](dic://Day of Judgment), [Day of Judgement](dic://Day of Judgement), [Last Judgment](dic://Last Judgment), [Last Judgement](dic://Last Judgement), [Last Day](dic://Last Day), [day of reckoning](dic://day of reckoning), [crack of doom](dic://crack of doom), [end of the world](dic://end of the world)
+		2. [doom](dic://doom), [day of reckoning](dic://day of reckoning), [end of the world](dic://end of the world)
+		3. _n._ [day](dic://day), [destiny](dic://destiny), [fate](dic://fate)
+		4. **apocalypse**启示, 天启;**apocalyptic**预示灾祸的;**Armageddon**世界末日善恶决战的战场;**doom**厄运;**prophecy**预言;**catastrophe**大灾难;**prophetic**预言的,先知的;**rapture**兴高采烈;**calamity**不幸事件;**catastrophic**灾难性的;**prediction**预言;
+		5. we'll be here till doomsday if you go blethering on. /如果你继续胡说，我们就要永远呆在这儿了。
+		6. The Doomsday Clock is a symbolic clockface that the Bulletin has maintained since 1947 at its headquarters on the campus of the University of Chicago. /末日时钟是1947年起在芝加哥大学校园公报总部立起的一个象徵性「钟面」。
+		7. Yes. This is the science fiction doomsday scenario. /是的。这就是科幻小说中的末日场景。
+	18. doomsaying
+	19. doomsayer
+		1. n. 灾难预言者；凶事预示者
+	20. doomed
+		1. [cursed](dic://cursed), [damned](dic://damned), [unredeemed](dic://unredeemed), [unsaved](dic://unsaved)
+		2. [ill-fated](dic://ill-fated), [ill-omened](dic://ill-omened), [ill-starred](dic://ill-starred), [unlucky](dic://unlucky)
+		3. **destined**命定的;**hopeless**绝望的;**fail**失败，不及格;**hopelessly**绝望地;**ill-fated**走恶运的,注定要遭受罚的;**inevitable**不可避免的, 必然发生的;**disastrous**灾难性的;**futile**无用的;**failure**失败;**miserable**悲惨的;**ultimately**最后;
 13. purdah
 
 
@@ -1808,6 +1913,128 @@
 	5. tephrosis
 		1. 【医】 焚化, 灰化, 火葬
 		2. tephr-灰 + -osis表状况
+
+
+### + \*dhei- + to suck
+1. **femin-, fecun-, felic-** = 拉丁词根fe-“吸允、吸奶、乳汁”。fecun- 表示“肥沃的”；femin- 表示“女人”；felic- 表示“幸福”。源自拉丁语 femina "woman," fecundus "fruitful," felix "fruitful, fertile, lucky, happy."
+	1. feme, female, femme, feminine
+		1. feminize, feminist, feminism, 
+		2. unfeminine, femininity
+		3. femininely
+		4. feminality, femineity
+		5. effeminate, effeminacy
+	2. felon
+		1. felony, felonry
+		2. felonious, 
+	3. fecund, infecund, fecundity, fecundate
+		1. fecundity, fecundate
+		2. fecundator, fecundation, superfecundation, hyperfecundation, autofecundation
+	4. felicitate, felicitation
+		1. felicific, infelicific
+		2. felicitous
+		3. felicity, infelicity
+2. **fet-** = productive, 表示“生产”。源自拉丁语 fetus "pregnancy, childbearing, offspring."
+	1. effete
+	2. fetus
+		1. fetal, foetal, 
+		2. fetation, foetation
+			1. superfetation
+			2. multifetation
+			3. intrafetation
+			4. exfetation
+		3. feticide
+		4. fetology, fetologist
+3. **fil-, fili-** = child, 表示“子女”。源自拉丁语 filius "son," filia "daughter."
+	1. affiliate
+		1. unaffiliated
+		2. disaffiliate
+		3. affiliation
+	2. filiate
+		1. filial, unfilial, filially
+		2. filiation
+		3. filicide
+4. **thel-** = nipple, female, 表示“乳头”或“女性”，原意表示“吸允”。因为乳头表面的即是表皮，所以还用来和 epi-，endo- 等搭配表示“...皮”。源自希腊语 thele "nipple," thelus "female."
+	1. 
+5. fennel
+
+
+### + \*dheigh- + = to form, build
+1. **fict-, fig-** = 表示“塑造，虚构”。源自拉丁语 figura "form, shape," fingere "to shape."
+	1. configure
+		1. reconfigure
+		2. reconfigurable
+		3. misconfigure
+		4. configuring
+		5. configurator
+		6. configuration
+		7. configurate
+	2. effigy
+	3. faint
+		1. faintness
+		2. faintly
+		3. faintish
+		4. fainting
+		5. fainthearted
+		6. faint-heart
+	4. feign
+		1.  来自 PIE*dheigh,揉捏，建造，词源同 dough,fiction.引申词义虚假，假装。
+		2.  [sham](dic://sham), [pretend](dic://pretend), [affect](dic://affect), [dissemble](dic://dissemble)
+		3.  [simulate](dic://simulate), [assume](dic://assume), [sham](dic://sham)
+		4. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [dissemble](dic://dissemble), [pretend](dic://pretend), [act](dic://act)
+		5. **pretend**假装;**seeming**外观;**pretended**假装的;**utter**以口发出声音;**pretending**假装的;**induce**引诱;**pretense**借口;**profess**公开表示;**disdain**蔑视;**conceal**隐藏;**elicit**引出, 探出;
+		6. _feign death_ 假死；装死
+		7. feigned
+		8. unfeigned
+			1. _adj._ [sincere](dic://sincere)
+			2. _n._ [insincere](dic://insincere)
+			3. **sincerity**真实, 诚挚;**sincere**真诚的;**piety**虔诚;**genuine**真实的，真正的;**admiration**钦佩;**countenance**面容，表情;**eagerness**渴望;**affection**感情;**astonishment**惊讶, 惊奇;**zeal**热心;**reverence**敬礼;
+			4. a broad smile of unfeigned delight 洋溢着由衷的笑容。
+	5. feint
+	6. fictile
+		1. **assemblage**聚集;**plastic**可塑的;**porcelain**瓷, 瓷器;**fleshy**肉的;
+	7. fiction
+		1. nonfiction
+		2. fictionist
+		3. fictioneer
+		4. fictional, fictionally
+	8. fictitious, fictifiously
+	9. fictive
+	10. figment
+	11. figuline
+	12. figure
+		1. transfigure, transfiguration
+		2. three-figure
+		3. subfigure
+		4. refigure
+		5. prefigure
+			1. [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate), [envisage](dic://envisage), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
+			2. **depict**描画;**precede**领先，在…之前;**resemble**类似，像;**evoke**引起，唤起;**embody**体现，使具体化;**herald**使者, 预报者;**prelude**前奏;**forerunner**先驱, 开路人;**allegory**寓言;**imagines**成虫;**utopian**空想的;
+			3. prefigurative
+			4. prefiguration
+		7. figurine
+		8. figurehead
+		9. figured
+		10. figure-skate
+		11. figurative
+			1. figurativeness
+			2. figuratively
+		12. figuration
+		13. figurate
+		14. figural
+		15. figurable
+		16. figurability
+		17. disfigure
+			1. disfigurement
+			2. disfiguration
+2. **thigm-, thix-** = touching, 表示“接触”。源自希腊语 thinganein "to touch."
+	1. thixotropy
+	2. Thigmotrichida
+	3. thixotrometer
+	4. hemothigmic
+	5. thixolabile
+3. dairy
+4. dough
+5. lady
 
 
 ### + \*dhes- + = forming words for religious concepts
@@ -2022,128 +2249,6 @@
 		5. 
 	14. enthuse
 		1. enthusiasm, enthusiast, 
-
-
-### + \*dhei- + to suck
-1. **femin-, fecun-, felic-** = 拉丁词根fe-“吸允、吸奶、乳汁”。fecun- 表示“肥沃的”；femin- 表示“女人”；felic- 表示“幸福”。源自拉丁语 femina "woman," fecundus "fruitful," felix "fruitful, fertile, lucky, happy."
-	1. feme, female, femme, feminine
-		1. feminize, feminist, feminism, 
-		2. unfeminine, femininity
-		3. femininely
-		4. feminality, femineity
-		5. effeminate, effeminacy
-	2. felon
-		1. felony, felonry
-		2. felonious, 
-	3. fecund, infecund, fecundity, fecundate
-		1. fecundity, fecundate
-		2. fecundator, fecundation, superfecundation, hyperfecundation, autofecundation
-	4. felicitate, felicitation
-		1. felicific, infelicific
-		2. felicitous
-		3. felicity, infelicity
-2. **fet-** = productive, 表示“生产”。源自拉丁语 fetus "pregnancy, childbearing, offspring."
-	1. effete
-	2. fetus
-		1. fetal, foetal, 
-		2. fetation, foetation
-			1. superfetation
-			2. multifetation
-			3. intrafetation
-			4. exfetation
-		3. feticide
-		4. fetology, fetologist
-3. **fil-, fili-** = child, 表示“子女”。源自拉丁语 filius "son," filia "daughter."
-	1. affiliate
-		1. unaffiliated
-		2. disaffiliate
-		3. affiliation
-	2. filiate
-		1. filial, unfilial, filially
-		2. filiation
-		3. filicide
-4. **thel-** = nipple, female, 表示“乳头”或“女性”，原意表示“吸允”。因为乳头表面的即是表皮，所以还用来和 epi-，endo- 等搭配表示“...皮”。源自希腊语 thele "nipple," thelus "female."
-	1. 
-5. fennel
-
-
-### + \*dheigh- + = to form, build
-1. **fict-, fig-** = 表示“塑造，虚构”。源自拉丁语 figura "form, shape," fingere "to shape."
-	1. configure
-		1. reconfigure
-		2. reconfigurable
-		3. misconfigure
-		4. configuring
-		5. configurator
-		6. configuration
-		7. configurate
-	2. effigy
-	3. faint
-		1. faintness
-		2. faintly
-		3. faintish
-		4. fainting
-		5. fainthearted
-		6. faint-heart
-	4. feign
-		1.  来自 PIE*dheigh,揉捏，建造，词源同 dough,fiction.引申词义虚假，假装。
-		2.  [sham](dic://sham), [pretend](dic://pretend), [affect](dic://affect), [dissemble](dic://dissemble)
-		3.  [simulate](dic://simulate), [assume](dic://assume), [sham](dic://sham)
-		4. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [dissemble](dic://dissemble), [pretend](dic://pretend), [act](dic://act)
-		5. **pretend**假装;**seeming**外观;**pretended**假装的;**utter**以口发出声音;**pretending**假装的;**induce**引诱;**pretense**借口;**profess**公开表示;**disdain**蔑视;**conceal**隐藏;**elicit**引出, 探出;
-		6. _feign death_ 假死；装死
-		7. feigned
-		8. unfeigned
-			1. _adj._ [sincere](dic://sincere)
-			2. _n._ [insincere](dic://insincere)
-			3. **sincerity**真实, 诚挚;**sincere**真诚的;**piety**虔诚;**genuine**真实的，真正的;**admiration**钦佩;**countenance**面容，表情;**eagerness**渴望;**affection**感情;**astonishment**惊讶, 惊奇;**zeal**热心;**reverence**敬礼;
-			4. a broad smile of unfeigned delight 洋溢着由衷的笑容。
-	5. feint
-	6. fictile
-		1. **assemblage**聚集;**plastic**可塑的;**porcelain**瓷, 瓷器;**fleshy**肉的;
-	7. fiction
-		1. nonfiction
-		2. fictionist
-		3. fictioneer
-		4. fictional, fictionally
-	8. fictitious, fictifiously
-	9. fictive
-	10. figment
-	11. figuline
-	12. figure
-		1. transfigure, transfiguration
-		2. three-figure
-		3. subfigure
-		4. refigure
-		5. prefigure
-			1. [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate), [envisage](dic://envisage), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
-			2. **depict**描画;**precede**领先，在…之前;**resemble**类似，像;**evoke**引起，唤起;**embody**体现，使具体化;**herald**使者, 预报者;**prelude**前奏;**forerunner**先驱, 开路人;**allegory**寓言;**imagines**成虫;**utopian**空想的;
-			3. prefigurative
-			4. prefiguration
-		7. figurine
-		8. figurehead
-		9. figured
-		10. figure-skate
-		11. figurative
-			1. figurativeness
-			2. figuratively
-		12. figuration
-		13. figurate
-		14. figural
-		15. figurable
-		16. figurability
-		17. disfigure
-			1. disfigurement
-			2. disfiguration
-2. **thigm-, thix-** = touching, 表示“接触”。源自希腊语 thinganein "to touch."
-	1. thixotropy
-	2. Thigmotrichida
-	3. thixotrometer
-	4. hemothigmic
-	5. thixolabile
-3. dairy
-4. dough
-5. lady
 
 
 ### + \*dheu- +

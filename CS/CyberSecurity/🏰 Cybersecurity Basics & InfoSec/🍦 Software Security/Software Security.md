@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Software Testing](../../../Software%20Engineering/👁️%20Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
+↗ [Software Testing](../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Vulnerability Exploration（漏洞利用）](🐒%20Software%20Vulnerability/Vulnerability%20Exploration（漏洞利用）/Vulnerability%20Exploration（漏洞利用）.md)
 
 ↗ [Application Security](../../Application%20Security/Application%20Security.md)

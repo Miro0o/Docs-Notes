@@ -279,6 +279,19 @@ baobab
 - **mango**芒果;**coconut**椰子;**tree**树;**trees**树木;**papaya**木瓜;**cashew**腰果树;**palm**手掌;**rainforest**雨林;**Africa**非洲;**cacao**可可豆;**banana**香蕉;
 - **coconut**椰子;**mango**芒果;**almond**杏仁;**pecan**美洲山核桃;**hazelnut**榛树;**peanut**花生;**cardamom**小豆蔻;**almonds**杏仁;**cacao**可可豆;**pecans**胡桃;**walnuts**核桃;
 
+bard (bombard)
+- bard（吟游诗人）：古代凯尔特民族中的吟游诗人  
+- 英语单词bard（吟游诗人）来自古代凯尔特语，原指古代凯尔特人中专门从事诗歌创作和吟唱的人。这种人通常世代相传，成为一个相对固定的社会阶层。他们从小就从长辈那里学习本民族、氏族的历史和民族传说，学习诗歌创作的各种技艺，长大后成为职业诗人，创作诗歌并四处吟唱。他们受托为国王或其他显贵创作诗歌，歌颂其祖宗或客户自己的英勇事迹。如果收到的报酬太少，他们还会编些讽刺诗歌来讽刺这些吝啬鬼。  
+- 在法国和英格兰，吟游诗人的传统逐渐消失，但在爱尔兰或威尔士都保存下来。爱尔兰的吟游诗人通过咏唱保存了颂诗的传统。在威尔士，“bard”一词一直是诗人的同义词。虽然在中世纪末这类诗人衰落了，但在威尔士至今仍有专门的“吟游诗人大会”（Order ofthe Bards），并在每年举行的“全国诗人和音乐家年会”中举办各种活动。在活动中，吟游诗人仍必须按照经典的吟游诗体，以头韵和行内韵的严谨格律写诗。  
+- bard：[bɑːd] n.（凯尔特民族中的）吟游诗人
+- bardolatry
+	- n. 莎士比亚崇拜
+
+barding
+- n. 坐骑用盔甲；纹章的或铠甲式的马饰
+- v. 在…上覆盖熏肉片；给战马装上铠甲（bard的ing形式）
+- His horse's heavy **barding** and his own flashing armor were enough to announce his presence to anyone for miles around. /他的马的厚重战马专用铠甲和他自己的闪光的护甲都足够向周围几英里内的任何人暴露他的位
+
 barge
 - barge（驳船）：古埃及人用来运输货物的船只  
 - 古埃及人生活在尼罗河畔，很早就学会了造船航行的技术。为了充分利用尼罗河水的自然力量，他们还发明了最早的驳船，在科普特语中称为baris。这种船用橡胶树的木板做成，宽敞结实，据古代历史学家希罗多德在其名著《历史》一书中记载，一次可以装载上千塔兰特（古代重量单位，大约60公斤）的货物。古埃及人用柳木和芦苇编织成筏子，将其系在baris前面，为它提供牵引力，并在baris的尾部用绳子绑块石头来保持方向，轻快的筏子就会拖着沉重的baris沿尼罗河顺流而下。英语单词barge就源自古埃及人制造的这种baris，用来表示平底、宽大的货船，即所谓的驳船。这种船行动迟缓笨拙，所以barge一词又衍生出“笨拙或粗鲁地闯入”之意。  
@@ -2363,15 +2376,7 @@ dowdy, dowdish
 - **drab**单调的;**unattractive**不吸引人的;**bland**乏味的;**glamorous**富有魅力的;**shabby**破旧的;**dreary**沉闷的，枯燥的;**old-fashioned**老式的;**boxy**四四方方的;**hideous**可怕的;**dull**钝的;**ugly**丑陋的;
 
 doom
-- foredoom
-- doomster
-- doomsday
-- doomsaying
-- doomsayer
-- doomed
-	- [cursed](dic://cursed), [damned](dic://damned), [unredeemed](dic://unredeemed), [unsaved](dic://unsaved)
-	- [ill-fated](dic://ill-fated), [ill-omened](dic://ill-omened), [ill-starred](dic://ill-starred), [unlucky](dic://unlucky)
-	- **destined**命定的;**hopeless**绝望的;**fail**失败，不及格;**hopelessly**绝望地;**ill-fated**走恶运的,注定要遭受罚的;**inevitable**不可避免的, 必然发生的;**disastrous**灾难性的;**futile**无用的;**failure**失败;**miserable**悲惨的;**ultimately**最后;
+- dhe-
 
 douse
 - 1 - 词源不详，可能来自拟声词。
@@ -4132,14 +4137,39 @@ guard
 	- blackguardism
 
 guff
+- n. 胡说, 废话
+- 拟声词，模仿夸夸其谈的声音。
 - unacceptable behavior (especially ludicrously false statements)
 	- [bunk](dic://bunk), [bunkum](dic://bunkum), [buncombe](dic://buncombe), [rot](dic://rot), [hogwash](dic://hogwash)
+- _n._ [drivel](dic://drivel), [garbage](dic://garbage)
 - **drivel**淌口水,说傻话;**nonsense**谬论;**crap**废话;**bullshit**胡说;**daft**愚蠢可笑的;**rubbish**垃圾，废物;**bugger**家伙;**bloke**家伙;**inane**愚蠢的;**stuff**材料;**spouting**喷射;
+- No one's giving you any guff about being a stripper, are they? /没人对你当作舞女的事，说什么废话吧？
+-  To hear more guff about a mother's love? - Mr Bryant, that's not fair./还要听什么关于母爱的废话吗？- 布莱恩先生，这不公平。
+- " No, " she sighed, " just some guff about the bass player in the Weird Sisters getting married." /“没有，”她叹了口气，“都是关于古怪姐妹演唱组的低音乐器手结婚的无聊废话。”
+- I don't need any guff from the fellas that work for me. /不需要手下人之言。
+- To some this may sound like marketing guff but it is precisely the sort of thing investors and prospective staff still want to hear. /对一些人来说，这听起来像是营销废话，但这恰恰是投资者和潜在员工仍然希望听到的事情。
+- We suspect that there will be all sorts of self-justifying **guff** from them. /我们怀疑他们会带来各种各样的自我辩解。
 - guffaw
+	- n. 哄笑；狂笑
+	- vi. 哄笑
+	- vt. 大笑着说
 	- **chuckle**咯咯的笑，轻声地笑;**giggle**傻笑;**laugh**笑;**laughter**笑声;**groan**呻吟;**giggles**笑声;**gasp**喘息;**laughing**可笑的;**cringe**畏缩;**yawn**哈欠;**smirk**傻笑;
 	- [belly laugh](dic://belly laugh)
+	- [laugh loudly](dic://laugh loudly)
+	- _n._ [laugh](dic://laugh), [laughter](dic://laughter)
+	- _v._ [laugh](dic://laugh), [express joy](dic://express joy), [express mirth](dic://express mirth)
+	- both men guffawed at the remark /两人对此言都报以狂笑。
+	- a mingled guffaw from Heathcliff and Hareton /希刺克厉夫与哈里顿一起放声大笑
+	- They will put your name in the pot.They will let you off the hook.Fat people will gab, giggle, guffaw, galumph, gyrate, and gossip /他们直接切入问题的要害，而胖人则让事情处于模糊和朦胧的状态———事情本来就是这样。
+	- Neil surprised us with his deep guffaw. /尼尔的狂笑声惊到我们了。
+	- Moaning Myrtle sped them on their way with a hearty guffaw /哭泣的桃金娘兴高采烈地粗声大笑，使得他们更加快了脚步。
+	- " He's got Crabbe and Goyle transforming into girls? " guffawed Ron. /“他把克拉布和高尔变成了女生？”罗恩说着大笑起来。
+	- To show amusement, teased, chortled, guffawed. /表现出愉悦、嘲笑、欢笑、狂笑。
 
 guggle
+- - v. 发汩汩声；汩汩地流；（婴儿）咯咯作声（同 gurgle） 
+- n. （人高兴发出的）咯咯声；（水流的）汩汩声（同 gurgle）
+- 
 
 guile
 - **cunning**狡猾的;**finesse**纤细;**deceit**欺骗;**subtlety**微妙;**treachery**背信弃义, 不忠, 背叛;**ingenuity**足智多谋, 心灵手巧;**wit**智力;**malice**怨恨;**charisma**非凡的领导力;**deception**欺骗;**tenacity**固执;
@@ -4158,12 +4188,15 @@ guile
 	- beguilement
 
 gultch
--  - 词源同 gully,深沟。
+-  词源同 gully,深沟。
 
 guppy
 - **goldfish**金鱼;**fish**捕鱼，钓鱼;**fishes**鱼类;**aquarium**水族馆;**shark**鲨鱼;**dolphin**海豚;**jellyfish**水母;**octopus**章鱼;**turtle**海龟;**catfish**鲶鱼;**sharks**鲨鱼;
 
 gush
+- 1. _vi._ 喷，涌
+- 滔滔不绝地说话
+- _n._ 涌出；迸发
 - [flush](dic://flush), [outpouring](dic://outpouring)
 - [effusion](dic://effusion), [outburst](dic://outburst), [blowup](dic://blowup), [ebullition](dic://ebullition)
 - [spurt](dic://spurt), [spirt](dic://spirt), [spout](dic://spout)
@@ -4173,6 +4206,22 @@ gush
 - [pour](dic://pour), [praise](dic://praise), [run](dic://run), [flow](dic://flow), [feed](dic://feed), [course](dic://course)
 - **drool**流口水;**giddy**头晕的;**swoon**昏晕;**dripping**滴下物;**spew**呕吐;**weep**哭泣;**burst**爆炸;**moan**呻吟;**spilling**跌下;**spewing**压出,榨出,吐花,吐毛;**trickle**滴;
 - _gush over_ 滔滔不绝地说
+- a gush of tears /泪如泉涌
+- water gushing from a hydrant. /水从消防龙头中喷涌而出
+- blood gushing from a wound /伤口涌出的血
+- a sudden spurt of blood gushed into her eyes /一股血喷进她的眼里。
+- the blood gushed out in scarlet streams. /鲜红的血一股股涌出。
+- her mother's sudden gush of fury and vitriol. /她母亲突然间的大发雷霆和尖刻指责。
+- Clear water gushed into the irrigational channel. /清澈的水涌进了灌溉渠道。
+- The wound re-opened in a gush of blood. /伤口又裂开了，血流如注。
+- Footage has shown a torrent of water gushing through the Dhauliganga River. /视频显示，湍急的水流涌过了道里甘加河。
+- But some positively gush about how Slack has simplified office communication. /但有人对Slack赞不绝口，称其简化了办公通讯。
+- The sea gushed forward and backward; it was a mournful sound /海浪反复拍击着岩石，发出悲怆的声响。
+- gusher
+	- n. 喷油井；说话滔滔不绝的人
+	- It was not till 1859 that the first " oil gusher" of western Pennsylvania opened up an entirely new source of wealth. /直到 1859 年， 宾夕法尼亚州西部的第一个“油井” 才开辟了一个全新的财富来源。
+	- And a bizarre sight in the Philadelphia skyline Sunday morning - a gusher of water streaming from the side of a 61-story skyscraper. /周日早上，费城天际线上突现一道奇异景观——61层摩天大楼侧面喷出水流。
+	- Some ranchers with an instinct for water, like that of the miner for metal, sank wells into the dry sand and were rewarded with gushers that " soused the thirsty desert and turned its good-for-nothing sand into good-for-anything loam." /一些对水有本能的牧场主， 就像金属矿工对水的本能一样，在干涸的沙地上打井， 并得到井喷作为奖励， 这些井“浸湿了干涸的沙漠， 把一无是处的沙子变成了万能的肥土。
 
 gut
 - tialgut
@@ -4630,8 +4679,112 @@ heart
 	- _adj._ [sincere](dic://sincere)
 	- _n._ [insincere](dic://insincere)
 	- **sincere**真诚的;**heartfelt**衷心的;**unwavering**不动摇的,坚定的;**unequivocal**只有一种含意的;**fervent**强烈的;**enthusiastic**满腔热情的, 热心的;**unconditional**无条件的;**commitment**承诺;**enthusiastically**热心地;**steadfast**坚定的;**devotion**热爱;
+	- whole-heartedly
 - warmhearted
-- etc..
+- truehearted
+- tenderhearted
+- sweetheart
+- stronghearted
+- stouthearted
+- stout-heartedness
+- stout-heartedly
+- stonyhearted
+- softhearted
+- single-hearted
+- simplehearted
+- proudhearted
+- pigeonhearted
+- oxheart
+- openhearted
+- marble-hearted
+- lionhaerted
+- lionheart
+- light-hearted
+- large-hearted
+- kindhearted
+- ironhearted
+- hollow-hearted
+- high-hearted
+- henhearted
+- heavyhearted
+- hearty
+	- adj. 健壮的；精神饱满的；衷心的；丰盛的
+	- n. 朋友们；伙伴们
+	- [cordial](dic://cordial)
+	- [satisfying](dic://satisfying), [solid](dic://solid), [square](dic://square), [substantial](dic://substantial)
+	- [full-blooded](dic://full-blooded), [lusty](dic://lusty), [red-blooded](dic://red-blooded)
+	- _adj._ [warm](dic://warm), [wholesome](dic://wholesome), [healthy](dic://healthy), [complete](dic://complete)
+	- _n._ [cool](dic://cool), [unwholesome](dic://unwholesome), [unhealthy](dic://unhealthy), [incomplete](dic://incomplete), [uncomplete](dic://uncomplete)
+	- **tasty**美味的;**delicious**美味的;**flavorful**充满…味道的,可口的;**scrumptious**可口的,美味的;**wholesome**有益健康的;**rousing**活泼的;**warm**温暖的;**meaty**多肉的;**delectable**令人愉快的;**savory**可口的;**heartfelt**衷心的;
+	- _hale and hearty_ 精神充沛的，矍铄的；老当益壮的，健壮的
+	- hearty support /全力支持
+	- a hearty chowder. /营养丰富的杂烩
+	- a hearty meal /一顿丰盛晚餐
+	- hearty congratulations. /衷心祝贺。
+	- a hearty glow of health /容光焕发
+	- a person with a hearty appetite. /好胃口的人
+	- a rough but hearty welcome /虽不周到但热情诚心的欢迎
+	- a hearty and boisterous character. /欢快喧闹的性格。
+	- He ate a hearty breakfast. /他享用了一顿丰盛的早餐。
+	- a big, bluff, hearty man. /身材高大、言行坦率的热心人。
+	- a formidably hearty spinster of fifty-five. /一个出奇强健的55岁单身女人。
+	- they deserve a hearty slap on the back for their efforts. /他们的努力值得衷心赞扬。
+	- sent hearty greetings; /表示热烈的祝贺；
+	- received hearty thanks /接受诚恳的感谢。
+	- Fawcett gave me a hearty handshake /福西特和我亲切地握了握手。
+	- Percy Weasley let out a hearty laugh /珀西韦斯莱放声大笑起来。
+	- Moaning Myrtle sped them on their way with a hearty guffaw. /哭泣的桃金娘兴高采烈地粗声大笑，使得他们更加快了脚步。
+	- I overhear that the hearty man heartily yearns for my harness in the barn./我无意中听说那个热忱的人十分向往我的牲口棚中的马具。
+	- He gave Harry a hearty wink and strode off. /他亲切地朝哈利眨了眨眼，迈着方步走开了。
+- heartworm
+- haertwood
+- heartwater
+- heartthrob
+- heartstrings
+- heartstring
+- heartstricken
+- heartsore
+- heartsick
+- heartsease
+- heartrending
+- heartless
+- heartland
+- haertfelt
+- hearten
+- hearted
+- heartburn
+	- heartburning
+- heartbroken
+- heartbreak
+- heartbeat
+- heartache
+- heart-whole
+- heart-to-heart
+- heart-struck
+- heart-stirring
+- heart-searching
+- heart-free
+- hardhearted
+- halfhearted
+- greenheart
+- greathearted
+- greatehearted
+- good-hearted
+- fullhearted
+- falsehearted
+- fainthearted
+- faintheart
+- downhearted
+- dishearten
+	- dishearteningly
+	- disheartened
+- coldhearted
+	- coldheartedness
+	- coldheartedly
+- chickenhearted
+- brokenhearted
+- blackhearted
+- bighearted
 
 heave
 - _vt._ 举；拉；扔，抛 _vt. & vi._ 喘息；发出 呕吐
@@ -5786,6 +5939,18 @@ kempt
 	- _n._ [combed](dic://combed), [groomed](dic://groomed), [tidy](dic://tidy)
 	- **overgrown**长得很快;**unattractive**不吸引人的;**ragged**衣衫褴褛的;**unruly**不守规矩的;**dilapidated**破旧的;**filthy**污秽的;**smelly**有臭味的，发臭的;**tattered**破烂的，衣衫褴褛的;**unsightly**不悦目的;**dirty**污秽的;**disorganized**紊乱的, 无组织的;
 
+khan
+- n. 可汗, 商队宿店
+- 来自土耳其语 kan,王子，主人，缩写自 khaqan,统治者，词源同汉语可汗，成吉思汗。
+- [caravansary](dic://caravansary), [caravanserai](dic://caravanserai), [caravan inn](dic://caravan inn)
+- _n._ [ruler](dic://ruler), [swayer](dic://swayer), [hostel](dic://hostel), [hostelry](dic://hostelry), [inn](dic://inn), [lodge](dic://lodge), [auberge](dic://auberge)
+- **sultan**苏丹;**Akbar**阿克巴;**Imran**伊姆兰;**Rashid**拉希德;**Iqbal**伊克巴尔;**Mohammad**穆罕默德;**Shahid**舍希德;**Turkic**突厥语;**Mustafa**穆斯塔法;**Ali**阿里;**Kamal**卡马尔;
+- _genghis khan_ n. 成吉思汗
+- _kublai khan_ 忽必烈（中国元朝皇帝）
+- Genghis Khan’s armies destroyed everything in their path. /成吉思汗的军队所过之处都被烧杀抢掠光了。
+- Marco Polo’s travelogue mentions that Kublai Khan sent envoys to Malgache /马可波罗游记中提到忽必烈曾派使节到马尔加什。
+- It will also be cheaper than ever before, we are already starting to see these things emerge with the birth of khan academy, educational YouTube channels and an increase in quality in online courses /它也将比以前更便宜，随着可汗学院的出现、YouTube 教育频道和在线课程质量的提高，我们已经开始看到这些产品的出现。
+
 kink
 - **kinky**奇形怪状的，怪癖的;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**fetish**迷信;**erotica**色情作品;**bondage**奴役身份;**erotic**色情的;**submissive**顺从的, 唯命是从的;**deviant**不正常的人,异常的人;**queer**奇怪的;**sexuality**性征;**bisexual**两性的;
 -  a painful muscle spasm especially in the neck or back ('rick' and 'wrick' are British)
@@ -5906,11 +6071,15 @@ knead
 - knead and shape children /培养塑造儿童
 - The masseur kneaded my back /那个按摩师给我推拿了背。
 
+Kurultai
+- 库尔勒台：源于蒙古和突厥等游牧民族的政治和军事会议，通常在重要事件发生时召开，如选举领导人、制定战争策略等。
+- In 1206, a Mongol confederation met at kurultai, or Great Conference, and declared Temujin as their leader formally /1206 年，蒙古邦联召开忽里勒台（意为大聚会），正式宣布铁木真为他们的领袖。
+
 
 
 ## L
 lac
-- 1. resinlike substance secreted by certain lac insects; used in e.g. varnishes and sealing wax
+- resinlike substance secreted by certain lac insects; used in e.g. varnishes and sealing wax
 - shellack
 - shellac
 	- shellacking
@@ -6571,6 +6740,13 @@ major
 
 man
 
+mangonel
+- n. 投石机（古代打仗用的）；军用射石机
+- [catapult](dic://catapult), [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
+- _n._ [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
+- **artillery**炮, 大炮;**archers**弓箭手;**cannon**大炮;**gunpowder**火药;**siege**围攻;**spears**矛，长矛;**cannons**大炮;**citadel**城堡;**fortress**要塞;**mortars**研钵;**spear**矛，枪;
+- The original Mangonel was first used in Roman times to fling large rocks at enemies.This Mangonel, though bearing some resemblance to its forebear, is far larger than its Roman counterparts. /投石车可向敌军投掷巨石，于罗马时期古典战争中即已大显身手，但中世纪投石车射程远远超过罗马时代的前身。
+
 mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) PIE (\*mag "to knead, fashion, fit")
 - mangle
 	- **rip**撕;**parse**从语法上分析;**distort**扭曲;**rearrange**重新安排;**chop**砍;**scrape**用工具刮;**spit**吐口水;**stomp**跺;
@@ -6582,27 +6758,48 @@ mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) 
 	- the car was mangled almost beyond recognition. /这辆轿车被毁得面目全非。
 - maul
 	- vt. 袭击, 撕咬; 轻易击败; 粗手粗脚地摆弄; 抨击
+	- v. 袭击，撕咬；轻易击败（尤用于体育报告中）；猛烈抨击；粗手粗脚地摆弄，粗暴地对待；（比赛）惨败；（英国橄榄）围挤抢球 
+	- n. 大槌（等于beetle）；（英国橄榄）围挤抢球 
+	-  来自古法语 mail,来自拉丁语 malleus,铁锤，词源同 mallet.引申词义重锤敲打，伤害，打伤，以及动物袭击，撕咬等。
+	- n. （Maul）（美、德）毛尔（人名）
 	- **axe**斧;**scrum**扭打，混乱;**claw**爪;**claws**爪子;**hammer**敲打;**melee**混战，格斗;**chop**砍;**hammers**锤子;**jaws**狭口;**chuck**丢弃，抛掷;**stomp**跺;
 	- [sledge](dic://sledge), [sledgehammer](dic://sledgehammer)
 	- [cleave](dic://cleave), [split](dic://split), [rive](dic://rive), [deface](dic://deface), [disfigure](dic://disfigure), [blemish](dic://blemish)
 	- The hunter was mauled by a lion /这名猎人被一头狮子撕裂了皮肉。
+	- The package was mauled by the careless messenger. /包裹被粗心的信使弄得很破旧 
+	- The novel was mauled by the New York critics. /这本小说受到纽约评论家的抨击。
+	- the team were mauled 4-0 by Manchester City / 该队被曼城队以4比0打得惨败。
+	- Meanwhile, mom was gently mauling her babies /与此同时，熊妈妈正在轻轻地抚弄她的孩子。
+	- She can't have people over because a chimp mauled a clown at her birthday party. /她不能找人来陪她，因为一头猩猩在她的生日派对上伤了一个小丑。
+	- But unbelievably, he was actually able to kill the bear but was left badly mauled and unconscious /难以置信的是，他居然杀死了这头母熊，但自己也受伤严重且不省人事。
 	- mauley
 		- _[mauley](dic://mauley)_  n. 手；拳头; n. (Mauley)人名；(英)毛利;
-	- mawkish
-		- adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的
-		- _adj._ [emotional](dic://emotional)
-		- _n._ [unemotional](dic://unemotional)
-		- [bathetic](dic://bathetic), [drippy](dic://drippy), [hokey](dic://hokey), [maudlin](dic://maudlin), [mushy](dic://mushy), [schmaltzy](dic://schmaltzy), [schmalzy](dic://schmalzy), [sentimental](dic://sentimental), [soppy](dic://soppy), [soupy](dic://soupy), [slushy](dic://slushy)
-		- **sentimental**伤感的, 多愁善感的;**crass**粗鲁的;**melodrama**情节剧;**banal**陈腐的;**corny**谷类的;**melancholy**忧郁, 悲哀;**cheesy**干酪质的;**pretentious**自命不凡的;**cynical**愤世嫉俗的;**contrived**不自然的;**overdone**把…煮得过久;
-		- _[mawkish verses](dic://mawkish%20verses)_ 无病呻吟而成的诗句
-		- _[mawkish unsentimental](dic://mawkish%20unsentimental)_ 自作多情的
-		- _[mawkish wine](dic://mawkish%20wine)_ 无味的酒
-		- _[mawkish response](dic://mawkish%20response)_ 情感反应
-		- the mawkish smell of warm beer /热啤酒的怪味。
+- mawkish
+	- adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的
+	- 来自中古英语mauk , 蛆，蛆虫，缩写自mathek。字面意思即长蛆的，来自古代观念认为人发狂或异想天开是因为脑子里长虫了。因此，引申词义无病呻吟的，易伤感的。-k , 小词后缀，同-kin , -ish , 形容词后缀。
+	- _adj._ [emotional](dic://emotional)
+	- _n._ [unemotional](dic://unemotional)
+	- [bathetic](dic://bathetic), [drippy](dic://drippy), [hokey](dic://hokey), [maudlin](dic://maudlin), [mushy](dic://mushy), [schmaltzy](dic://schmaltzy), [schmalzy](dic://schmalzy), [sentimental](dic://sentimental), [soppy](dic://soppy), [soupy](dic://soupy), [slushy](dic://slushy)
+	- **sentimental**伤感的, 多愁善感的;**crass**粗鲁的;**melodrama**情节剧;**banal**陈腐的;**corny**谷类的;**melancholy**忧郁, 悲哀;**cheesy**干酪质的;**pretentious**自命不凡的;**cynical**愤世嫉俗的;**contrived**不自然的;**overdone**把…煮得过久;
+	- _[mawkish verses](dic://mawkish%20verses)_ 无病呻吟而成的诗句
+	- _[mawkish unsentimental](dic://mawkish%20unsentimental)_ 自作多情的
+	- _[mawkish wine](dic://mawkish%20wine)_ 无味的酒
+	- _[mawkish response](dic://mawkish%20response)_ 情感反应
+	- the mawkish smell of warm beer /热啤酒的怪味。
 - maim
+	- 来自古法语 mahaignier,伤害，使受伤，使残疾，来自 PIE*mai,砍，切，词源同 mangle,mayhem.进一步来自 PIE*smi,砍，切，词源同 smith.
+	- vt. 使残废, 使不能工作, 使伤残
+	- _v._ [injure](dic://injure), [wound](dic://wound)
 	- **injure**伤害，损害;**kill**杀死;**inflict**把…强加给, 使承受, 遭受;**cripple**使跛, 受伤致残;**humiliate**蒙羞;**destroy**毁坏;**harass**使烦恼;**kidnap**绑架;**threaten**威胁;**intimidate**恐吓, 威胁;**killing**杀害的;
 	- a wrist maimed in an accident; /在事故中受伤的手腕；
 	- they are prepared to kill or maim innocents in pursuit of a cause. /他们为了某种目的准备不惜杀戮、残害无辜者。
+	- He was seriously maimed in the war. /他在战争中受了重伤。
+	- You may thank your lucky stars that you were just slightly hurt while the others were either killed or maimed for life in that accident/ 在那件不幸的事故中, 你仅仅受了一点轻伤, 而其他的人不是死了就是终生残废, 你真是幸运。
+	- By returning, you may ensure that fewer souls are maimed, fewer families are torn apart. /话又说回来，你可能会使更多的灵魂免于受到伤害，使更多的家庭免于妻离子散。
+	- Harry glanced over his shoulder to where the small, maimed creature trembled under the chair. .哈利扭头看了看那边椅子下面发抖的受伤的小生命。
+	- maiming
+	- mainmer
+	- maimed
 - meson
 	- **carpenter**木工, 木匠;**jar**广口瓶;**masonry**石工行业;**miller**碾磨工;**craftsman**工匠;**blacksmith**铁匠;**stone**石头;**potter**陶艺家，制陶工人;**brick**砖，砖块;**smith**铁匠;**baker**面包师;
 	- _[meson capture](dic://meson%20capture)_  [高能] 介子俘获
@@ -6675,6 +6872,9 @@ marshal
 - marshalcy
 
 martinet
+- martinet（严格执行纪律的人）：严酷操练士兵的法国军官马丁内特  
+- 马丁内特（Jean Martinet）是17世纪时法国的一名军官，曾经担任陆军中校和总检察长等职务。他是近代历史上第一位伟大的军事训练大师。他对尚处于起步阶段的现代军队进行了改革，制定了一整套标准化的军事训练体系。通过这套体系，能够快速将新兵培养为训练有素的战士。然而，这套训练体系十分严格，受训者在接受严酷训练时往往会情不自禁地咒骂创立了这套体系的马丁内特。因此他的姓氏Martinet也就成了“严格执行纪律的人”的代名词。  
+- martinet：[,mɑːtɪ'net] n. 严格执行纪律的人
 - **tyrannical**暴君的,暴君似的;**authoritarian**权力主义的,专制的;**sadistic**残酷成性的;**tyrant**暴君;**colonel**陆军上校;**overbearing**专横的,傲慢的;**headmaster**校长;**sergeant**军士;**ruthless**无情的，残忍的;**pompous**浮夸的;**dictator**独裁者;
 - [disciplinarian](dic://disciplinarian), [moralist](dic://moralist)
 - [authoritarian](dic://authoritarian), [dictator](dic://dictator)
@@ -6706,6 +6906,9 @@ match
 - etc.. (todo)
 
 maudlin
+- maudlin（多愁善感的）：圣经中爱掉眼泪的女人抹大拉  
+- 英语单词maudlin来自《圣经》里的一个女性人物：抹大拉的玛利亚。很久以来这个女人一直以一个被耶稣拯救的妓女形象出现在基督教的传说里：她用忏悔的眼泪为耶稣洗脚，用密软的黑发把它们擦干；在耶稣被钉上十字架行刑的日日夜夜里哀哭祈祷、喂他喝水；耶稣死后她进入停尸的墓穴预备亲自用油脂为其净身，却意外发现耶稣死而复活。由于抹大拉常常以流泪的形象出现，所以她的名字成为了多愁善感者的代名词。  
+- maudlin：['mɔːdlɪn] adj.多愁善感的，易伤感的，易流泪的n.伤感
 - [bathetic](dic://bathetic), [drippy](dic://drippy), [hokey](dic://hokey), [mawkish](dic://mawkish), [mushy](dic://mushy), [schmaltzy](dic://schmaltzy), [schmalzy](dic://schmalzy), [sentimental](dic://sentimental), [soppy](dic://soppy), [soupy](dic://soupy), [slushy](dic://slushy)
 - **melancholy**忧郁, 悲哀;**sentimental**伤感的, 多愁善感的;**somber**昏暗的;**melodrama**情节剧;**poignant**尖锐的;**cynical**愤世嫉俗的;**crass**粗鲁的;**introspective**好反省的;**corny**谷类的;**banal**陈腐的;**pretentious**自命不凡的;
 - [emotional](dic://emotional)
@@ -6716,10 +6919,22 @@ maudlin
 
 maverick
 - _[mavericks](dic://mavericks)_  n. 未打烙印的无畜主动物；尤指离开母牛的小牛；独来独往的人；标新立异的人，不合常规的人; adj. 未打烙印的;
+- - n. 没打烙印的动物；持不同意见的人 
+- vt. 用不正当手段获取 
+- vi. 迷途；背离 
+- adj. 未打烙印的；行为不合常规的；特立独行的
+- maverick（独行侠）：特立独行的牧场主马华力  
+- 在19世纪的美国德克萨斯州，有一位名叫山姆•马华力（Samuel Maverick）的牧场主，被当地人看作是特立独行者。按照当时的习俗，牧场上的牛、马等牲畜都要打上本牧场的烙印，这样牲畜丢失后，人们根据身上的烙印就能识别是哪家牧场的牲畜。但这位马华力却偏偏不肯按照惯例给牲畜打上烙印。不过这样也好，以后凡是见到身上没有烙印的牲畜，大家就知道是马华力家牧场的了。马华力也因为此事而出名。  
+- 不过，据历史学家考证，当年马华力不愿给牲畜打烙印并非出自特立独行考虑，而是对放牧之事缺乏兴趣。因为这位马华力在历史上扮演的更重要角色是一名律师和政治家。当时的德克萨斯州还属于墨西哥，正在争取独立。马华力积极参加了德克萨斯独立革命，亲自率领部队冲锋陷阵，击败了墨西哥军队，参加了墨西哥军队的投降仪式，并成为《德克萨斯独立宣言》的签署者之一。  
+- 不管怎样，马华力在美国历史上成了特立独行的典型。他的姓氏Maverick也因此青史留名，成为了“特立独行者”的代名词。美国NBA联盟中，德州达拉斯小牛队的英文名就是Dalas Maverick，表达的就是这种叛逆不羁、特立独行的精神，译为“达拉斯特立独行队”可能更精确。著名电影“壮志凌云”中，汤姆•克鲁斯所饰演的主角的代号就是maverick（独行侠），正好契合他的性格特征。  
+- maverick：['mæv(ə)rɪk] n.特立独行者，独行侠；没打烙印的牲畜adj.特立独行的，不按常规的；未打烙印的（牲畜）
 - [irregular](dic://irregular), [unorthodox](dic://unorthodox)
 - [rebel](dic://rebel)
 - [nonconformist](dic://nonconformist), [recusant](dic://recusant), [calf](dic://calf)
 - **renegade**变节者;**visionary**幻想的;**fearless**无畏的;**intrepid**无畏的;**unorthodox**非正统的, 非传统的, 非正规的;**charismatic**有魅力的;**stalwart**坚定的;**eccentric**古怪的, 怪癖的;**populist**平民主义者;**brash**仓促的，性急的;**innovator**改革者;
+- Katalin Kariko, scientific maverick who paved way for mRNA vaccines /卡塔琳·卡里科，为 mRNA 疫苗铺平道路的科学特立独行者。
+- Throughout all of it, Senator McCain defined himself as a maverick. /经历了这些之后，麦凯恩参议员把自己称为一名自行其是的人。
+- " Top Gun: Maverick" (six nominations) has the outline and kit of a war film /《壮志凌云2: 独行侠》(获六项提名)具备战争电影的框架和全套要素。
 
 mavin
 - 1. someone who is dazzlingly skilled in any field
@@ -6731,6 +6946,10 @@ maythron
 mayonnaise
 - **mayo**蛋黄酱;**ketchup**番茄酱;**vinaigrette**色拉调味汁;**pickles**腌渍物;**mustard**芥菜;**sauce**调味汁;**salad**色拉;**vinegar**醋;**condiments**调味品;**avocado**鳄梨;**pesto**<美>香蒜沙司;
 - [dressing](dic://dressing), [salad dressing](dic://salad dressing)
+- Egg mayonnaise is made with mayonnaise and hard-boiled eggs. /鸡蛋美乃滋是用蛋黄酱和煮老的鸡蛋做成的。
+- Mr. Meeseeks, open Jerry's stupid mayonnaise jar. /使命必达先生 打开Jerry那愚蠢的美乃滋罐子。
+- Maggie! Can I have some mayonnaise, please. /玛吉！请给我一些蛋黄酱。
+- One person's making a mayonnaise, one person's putting butter in a pan. /一个人在做蛋黄酱，一个人在平底锅里放黄油。
 
 mazarine
 - n. 深蓝色；深蓝色服装; adj. 深蓝色的（等于mazarine blue）;
@@ -7316,6 +7535,49 @@ pare
 - cheese-paring
 
 patch
+- n. 小片; 补丁; 色斑; 小块土地; 一段时间  
+- vt. 补缀
+- n. 眼罩；斑点；碎片；小块土地
+2. vt. 修补；掩饰；解决
+3. vi. 打补丁
+- 来自古法语 pieche,来自 piece 方言变体，引申词义小块，斑点，补丁等。插入字母 t,比较bake,batch.
+- [spot](dic://spot), [speckle](dic://speckle), [dapple](dic://dapple), [fleck](dic://fleck), [maculation](dic://maculation)
+-  [plot](dic://plot), [plot of ground](dic://plot of ground)
+- [while](dic://while), [piece](dic://piece), [spell](dic://spell)
+- [temporary hookup](dic://temporary hookup)
+- [mend](dic://mend), [darn](dic://darn)
+- [eyepatch](dic://eyepatch)
+- [bandage](dic://bandage)
+- [piece](dic://piece)
+-  [patch up](dic://patch up)
+- [piece](dic://piece)
+- _n._ [marking](dic://marking), [tract](dic://tract), [piece of land](dic://piece of land), [piece of ground](dic://piece of ground), [parcel of land](dic://parcel of land), [parcel](dic://parcel), [piece of cloth](dic://piece of cloth)
+- _v._ [join](dic://join), [conjoin](dic://conjoin), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [repair](dic://repair)
+	- [mend](dic://mend) 通常指较简单的修复过程，一般不需要专门技术或特殊工具。  
+	- [repair](dic://repair) 可与mend换用，但一般指需要较高的职业技能和使用较复杂的工具进行修理。 
+	- [patch](dic://patch) 通常指用类似材料修补破洞、裂缝或磨损的地方。  
+	- [fix](dic://fix) 多用于美语，仅用于指带有安装固定性质的修理。
+- **bug**臭虫，小虫;**bandage**绷带;**update**更新;**kernel**核心，要点;**firmware**固件;**fix**安装;**bugs**发疯的，疯狂的;
+- _patch up_ 修补；平息；拼凑
+- _in patches_ 在有些部分；在有些时候
+- _patch test_ n. [医]斑片试验；皮肤过敏试验
+- _not a patch on_ 与…不能比，比不上；远不如…，远不及，比…差得远
+	- My new phone isn't a patch on the old one /我的新手机比旧的差太多了。
+	- My holiday at home wasn't a patch on a trip abroad. /我在国内出游比不上出国旅行。
+	- I know some people disagree, but for me the Olympics isn't a patch on the World Cup /我知道有些人不同意，但对我来说，奥运会比不上世界杯。
+	- There were others, of course, but **not** **a** **patch** **on** my Robin /当然， 那时还有其他人，但他们连罗宾的一丝一毫都比不上！
+- a superciliary patch of color /眼上部的一块色斑
+- a rooty patch of soil. /土壤中多根的一小块地
+- a patch of waste ground /一块闲置的空地。
+- a patch was used to mend the garment. /用补丁块缝补这衣服。
+- It's not proper to patch the roof with nailsick boards /用多次钉过钉而不结实的木板修补屋顶是不适当的。
+- It's just a rough patch, that’s all. /弥补一下，道个歉, 就这么简单。
+- Instead relations have been patched up. /如今巴美关系反而有所缓解。
+- We have got wet patches on the wall. /墙上有湿斑。
+- They are very isolated in these small forest patches. /它们在这片小森林里非常孤立。
+-  Who, uh, who did this to your pumpkin patch? /谁把你的南瓜摆设搞成那样了？
+-  /It watched one patch of sky for years and found thousands of planets多年来，它观测着一片天空，发现了数千颗行星。
+- We can **patch** up those holes /我们能补上那些漏洞。
 - phonepatch
 - patchy
 - patchwork
@@ -7338,6 +7600,7 @@ pea
 - etc.. (todo)
 
 peeve
+- 来自 peevish 的回构词。
 - **gripe**抱怨;**dislike**不喜欢，厌恶;**no-no**被禁止的东西;**annoyance**烦恼;**rant**咆哮;**pet**宠物;**mine**矿山，矿井;
 - [temper](dic://temper), [mood](dic://mood), [humor](dic://humor), [humour](dic://humour)
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile)
@@ -11758,6 +12021,9 @@ topple
 - [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down), [push](dic://push), [force](dic://force)
 - [tumble](dic://tumble), [tip](dic://tip)
 
+tor
+- 石山
+
 torso
 - 来自意大利语 torso,树干，来自拉丁语 thyrsus,树干，茎，来自希腊语 thyrsos,茎，词源同 thyrsus,酒神手杖，权杖。引申词义躯干，身躯。
 - n. 躯干, 裸体躯干雕像
@@ -11780,6 +12046,32 @@ tosh
 totemic
 - **totem**图腾;**mythic**神话的;**mythological**神话的;**archetypal**原型的;**symbolic**使用符号的;**sculptural**雕刻的;**mythical**神话的;**primal**最初的;**tribal**部落的;**kinship**亲属关系，家属关系;**emblematic**象征的;
 
+tower
+- n. 塔，塔楼；（发送信号等的）塔台；塔状堆积物；高柜，高架子；高层建筑，办公大楼；立式机箱；伦敦塔（the Tower） 
+- v. （比周围的人或物）高出许多，屹立；胜过，超过（其他人或机构）；（尤指猎鹰为捕抓猎物俯冲前）高飞，翱翔
+- [column](dic://column), [pillar](dic://pillar)
+- [tugboat](dic://tugboat), [tug](dic://tug), [towboat](dic://towboat)
+- [loom](dic://loom), [predominate](dic://predominate), [hulk](dic://hulk)
+- _n._ [structure](dic://structure), [construction](dic://construction), [shape](dic://shape), [form](dic://form), [boat](dic://boat)
+- _v._ [rise](dic://rise), [lift](dic://lift), [rear](dic://rear)
+- **skyscraper**摩天大楼;**spire**尖塔;**dome**圆屋顶;**building**建筑;**castle**城堡;**fortress**要塞;**tallest**最高的;**high-rise**有多层的;**citadel**城堡;**turret**角楼;**lighthouse**灯塔;
+- towering ambition /远大的抱负。
+- a towering intellect. /杰出的知识分子
+- He was in a towering rage /他在大发雷霆。
+- the tower is the centrepiece of the park. /这座塔是公园里最引人注目的东西。
+- the ivory tower of academia. /学术界的象牙塔。
+- a tower overlooking the city /俯瞰全市的塔楼
+- Suppose that he builds some elaborate tower /假设他搭了座很精致的塔。
+- The barrier included guard towers placed along large concrete walls. /障碍包括大型混凝土墙，并在其旁边设立警卫塔。
+- and exposes a tower of fairy shrimp samples. /并露出一架子的仙女虾样本。
+- watchtower
+- towery
+	- - adj. 高耸的；有塔的
+	- 
+- towerman
+- towering
+- towered
+
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
@@ -11792,6 +12084,15 @@ trammel
 - _[trammel net](dic://trammel%20net)_  n. 鸟网；鱼网
 - untrammel
 - entrammel
+
+trebuchet (ballista)
+- n. (中世的)抛石机, 小型秤, 小天平
+- A trebuchet ([French](French_Language.html "French Language") _trébuchet_) is a type of [siege engine](Siege_engine.html "Siege engine") most frequently used in the [Middle Ages](Middle_Ages.html "Middle Ages"). It is sometimes called a counterweight trebuchet or counterpoise trebuchet, to distinguish it from an earlier weapon called the traction trebuchet, where men pulling ropes provided the power.
+- [catapult](dic://catapult), [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebucket](dic://trebucket)
+- _n._ [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
+- **cannon**大炮;**rockets**火箭，烟火;**cannons**大炮;**gunpowder**火药;**launcher**发射者;**projectile**发射体;**castle**城堡;**archers**弓箭手;**rocket**火箭;**siege**围攻;**artillery**炮, 大炮;
+- A trebuchet consists of a long beam attached to a pivot rod on a heavy frame. /抛石机是由一个带转轴的长梁连接在底座上构成的。
+- And work double-time on those siege towers and trebuchets /加快搭建攻城塔和投石机的速度。
 
 triage
 - n. 分类；伤员验伤分类
@@ -11887,6 +12188,21 @@ tulle
 - n. 薄纱
 - **chiffon**薄绸;**ruffles**皱纹;**lace**花边;**sequins**亮片;**bodice**女服的紧身上衣;**satin**缎子;**ruffle**弄皱;**crepe**绉绸;**strapless**无带的,无背带的,无吊带的;**skirt**裙子;**pleated**起褶的;
 - gazar
+
+turret
+-  来自拉丁语 turris,高塔，塔楼，高层建筑，词源同 tor,tower.-et,小词后缀。引申词义炮塔。
+- n. 炮塔；角楼；小塔；攻城用的冲车 
+- n. 防御塔（游戏《英雄联盟》中的防御建筑）
+- [gun enclosure](dic://gun enclosure), [gun turret](dic://gun turret)
+- _n._ [tower](dic://tower), [platform](dic://platform), [weapons platform](dic://weapons platform)
+- **gunner**炮手，枪手;**cannon**大炮;**cannons**大炮;**armament**武器;**anti-aircraft**防空用的;**hull**船体;**tower**塔;**torpedo**鱼雷;**launcher**发射者;**artillery**炮, 大炮;**tank**坦克;
+- _turret lathe_ 六角车床，转塔车床；多角车床
+- _gun turret_ 炮塔
+- the gunner injured his arm in the turret mechanism. /炮手在炮塔机械装置中伤了手臂。
+- We're taking fire from an automated turret. /我们遭遇了自动炮塔。
+- This was the same turret that was used on Germany's main battle ships. /这个炮塔与德国主战舰上使用的炮塔相同。
+- Gun turret. Are you all right? /炮塔你还好吗？
+- Silhouetted on the dark horizon, high on the cliff over the lake, stood the many turrets and towers of Hogwarts castle.  /在黑暗的地平线上，在湖对面高高的悬崖顶端，耸立着霍格沃茨城堡的角楼和高塔的剪影。
 
 twaddle (hogwash)
 - [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [drool](dic://drool), [humbug](dic://humbug), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [tosh](dic://tosh)
@@ -12223,21 +12539,134 @@ wee
 -  [bitty](dic://bitty), [bittie](dic://bittie), [teensy](dic://teensy), [teentsy](dic://teentsy), [teeny](dic://teeny), [weeny](dic://weeny), [weensy](dic://weensy), [teensy-weensy](dic://teensy-weensy), [teeny-weeny](dic://teeny-weeny), [itty-bitty](dic://itty-bitty), [itsy-bitsy](dic://itsy-bitsy)
 - **little**小的;**teeny**极小的;**bit**少量;**tad**少量;**tiny**微小的;**bugger**家伙;**cheeky**无耻的;**fella**<俚>伙伴;**sleepy**困乏的;**lad**少年，小伙子;**daft**愚蠢可笑的;
 
+wheel
+- wheelwright
+	- _n._ [wright](dic://wright)
+	- **blacksmith**铁匠;**carpenter**木工, 木匠;**apprentice**学徒, 徒弟;**craftsman**工匠;**miller**碾磨工;**clergyman**牧师;**carpentry**木工手艺;**smith**铁匠;**apprenticeship**学徒期;**barber**为…理发;**grocer**杂货店;
+	- She was a wheelwright's orphan. And she was hungry. /她爹是车匠 父母双亡。她当时饥肠辘辘。
+	- n. 车轮（尤指木轮）修造工，轮匠
+- wheelsman
+- wheelman
+- wheelless
+	- adj. 没有轮子的，无轮的
+- wheelhorse
+- wheeler
+- wheelchair
+	- _n._ [chair](dic://chair)
+	- **handicapped**残疾的;**crutches**拐杖，支撑物;**walker**步行者;**scooter**小轮摩托车;**wheeled**有轮的;**handicap**障碍;**disability**无能力, 无力;**motorized**装上发动机的;**disabled**残废的，有缺陷的;**bicycle**自行车;**chair**椅子;
+- wheelbase
+	- _n._ 前后轮之车轮轴距离,轴距
+	- _n._ [distance](dic://distance)
+	- **chassis**底盘，底架;**sedan**轿车;**sedans**箱式轿车;**hatchback**装有向上开的后车门的小轿车;**coupe**小轿车;**axles**四轴;**axle**车轴;**fenders**防撞垫;**drivetrain**动力传动系统;**legroom**放脚空间;**cornering**转弯,股票囤积,回转;
+	- Regulators multiply a car's wheelbase length by its width to get a footprint /监管机构将一辆车的轴距长度乘以其宽度，从而得到其足迹。
+	- That's over the wheelbase. Are you completely unfamiliar with the suspension characteristics of a pre-1980 Pullmanbuilt Superliner Deluxe passenger coach? /这座位正好在轴距上，你难道一点不清楚80年代前所造豪华乘坐席悬挂系统的特性吗？
+	- 
+- wheelbarrow
+	- _n._ [handcart](dic://handcart), [pushcart](dic://pushcart), [cart](dic://cart), [go-cart](dic://go-cart)
+	- _v._ [transport](dic://transport)
+	- **shovel**铁铲;**tractor**拖拉机;**hauling**搬运;**cart**二轮运货马车;**trolley**手推车;**wheeled**有轮的;**mulch**覆盖物，护盖物;**lorry**卡车;**forklift**铲车;**bucket**【C】水桶;**wagon**货车，四轮马车;
+	- the wheelbarrow can be awkward to manoeuvre. /独轮手车很难操纵。
+	- Is that wheelbarrow going to tump over? .那个手推车是不是快倒了?
+	- we trundled a wheelbarrow down to the river and collected driftwood. /我们费力地推着手推车来到河边收集浮木。
+	- So you've better have brought a wheelbarrow or something. /所以你最好带了个手推车什么的。
+	- This ancient version of a wheelchair was basically a wheelbarrow that was refitted to carry someone around /这种古代版本的轮椅简单来说就是一辆经过改装的手推车，可以载人。
+	- One lady brought biscuit on a wheelbarrow. It weighed nearly 500 pounds. /一位女士用手推车运来一个饼干，重达500磅左右。
+- wheelage
+- web-wheel
+- waterwheel
+- treadwheel
+- three-wheel
+- stern-wheeler
+- steering-wheel
+- side-wheeler
+- pitch-wheel
+- pinwheel
+- nosewheel
+- handwheel
+- gearwheel
+- freewheel
+- four-wheeler
+- four-wheel
+- flywheel
+- drivewheel
+- cogwheel
+	- [gear](dic://gear), [gear wheel](dic://gear wheel), [geared wheel](dic://geared wheel)
+	- _n._ [wheel](dic://wheel)
+	- **cog**给…装配齿轮;**gears**齿轮，传动装置;
+	- Take two cogwheels with two teeth /拿两个有两个齿的齿轮。
+- cartwheel
+
 weeny
 - [bitty](dic://bitty), [bittie](dic://bittie), [teensy](dic://teensy), [teentsy](dic://teentsy), [teeny](dic://teeny), [wee](dic://wee), [weensy](dic://weensy), [teensy-weensy](dic://teensy-weensy), [teeny-weeny](dic://teeny-weeny), [itty-bitty](dic://itty-bitty), [itsy-bitsy](dic://itsy-bitsy)
 - **teeny**极小的;**tiny**微小的;**wee**极小的;**little**小的;**minuscule**小写字;**small**少的，小的;**tad**少量;**bit**少量;**bugger**家伙;**dainty**秀丽的;**insignificant**无价值的, 无意义的, 无用的;
+- _adj._ [small](dic://small), [little](dic://little)
+- _n._ [large](dic://large), [big](dic://big)
+- _[teeny weeny](dic://teeny%20weeny)_  小小的; 小额的;
+- doesn't he have a teeny-weeny twinge of conscience?. /难道他一丁点儿都不感到内疚吗？。
+- No, just for a teeny weeny bit. /没有啦，只是一点点。
+- The weeny's waking up from a nap. /小狗从午睡中醒来。
+- Look, the sunshine has made my plant grow a tiny weeny bit. /看，阳光让我的植物长出了一点点。
 
 weep
+- vi. 哭泣；流泪；哀悼；滴落；渗出液体
+- vt. 悲叹；哭泣；流泪；流出或渗出液
+- n. 哭泣；滴下；[俚]眼泪
 - _v._ [express emotion](dic://express emotion), [express feelings](dic://express feelings)
 - [cry](dic://cry) 普通用词。指因痛苦、悲哀或伤感等出声地哭。  
 - [weep](dic://weep) 书面用词，指小哭或无声地哭，侧重流泪。  
 - [sob](dic://sob) 指抽泣、呜咽。 cunning,sly
 - **cry**叫喊;**mourn**哀悼;**lament**悲叹;**sorrow**悲伤;**sob**啜泣，呜咽;**cried**哭泣;**rejoice**高兴;**tears**眼泪;**tremble**战栗;**laugh**笑;**crying**叫喊的，嚎哭的;
+- _weep for_ 为…而哭泣
+- _weep over_ 因…而哭泣；为…流泪
+- Don't weep about me. /别为我哭泣。
+- weep sb.'s untimely death /为某人的早死而悲叹
+- weep bitter tears of remorse. /流下悔恨痛苦的泪水
+- Laugh and the world laughs with you, weep and you weep alone /当你笑时, 整个世界同你一起欢笑, 当你哭泣时, 却只有你一人独自悲哀。
+- she was weeping loudly and her nose was running. /她大声哭泣，鼻子流着鼻涕。
+- St Ambrose would weep bitter tears when confessing a sinner. /圣安布罗斯聆听罪人忏悔时，会流下悲苦的泪水。
+- She swooned, she wept, she ravishingly died, a vision of unknowable Swedish beauty /她昏倒了，她哭泣了，她令人神魂颠倒地死去了，这是一种道不明的瑞典之美。
+- She was weeping freely. I was extraordinarily touched /她的眼泪一个劲儿往下落。我心里难过极了。
+- And the forest was weeping tears of sap begging to be saved. /森林洒下哭泣的树液，苦苦乞求救援。
+- Yes! Did you want me to weep with joy? /废话 难不成你还想让我留下幸福的泪水？
+- Do not weep, Princess, I have an idea /不要哭，公主，我有办法。
 - weepy
+	- _adj._ 要哭的；眼泪汪汪的
+	- (故事、电影等)使人伤心的
+	- _adj._ [tearful](dic://tearful)
+	- _n._ [tearless](dic://tearless), [dry-eyed](dic://dry-eyed)
+	- **sobbing**湿透的;**whiny**烦躁的;**cranky**暴躁的;**sad**悲哀的，令人悲痛的;**hysterical**情绪异常激动的, 歇斯底里般的;**sentimental**伤感的, 多愁善感的;**crying**叫喊的，嚎哭的;**weeping**哭泣的，滴水的;**giddy**头晕的;**melancholy**忧郁, 悲哀;**mushy**糊状的;
+	- a weepy clingy child. /动不动就哭又离不开人的小孩
+	- She is still feeling weepy /她仍觉得想哭。
+	- Stop being weepy! I can’t stand you anymore! /别再哭哭啼啼的，我再也受不了你了！
+	- Interesting. That might explain my weepy days in the middle of the month. /有意思 难怪我每月中旬都会两眼泪汪汪。
+	- She was boisterous and garrulous one minute, then weepy and furious the next. /前一分钟她还在喧闹、喋喋不休，下一分钟就又哭又怒。
 - weeping
 - weeper
 
 wedge
+- [wedge shape](dic://wedge shape), [cuneus](dic://cuneus)
+- [bomber](dic://bomber), [grinder](dic://grinder), [hero](dic://hero), [hero sandwich](dic://hero sandwich), [hoagie](dic://hoagie), [hoagy](dic://hoagy), [Cuban sandwich](dic://Cuban sandwich), [Italian sandwich](dic://Italian sandwich), [poor boy](dic://poor boy), [sub](dic://sub), [submarine](dic://submarine), [submarine sandwich](dic://submarine sandwich), [torpedo](dic://torpedo), [zep](dic://zep)
+- [hacek](dic://hacek)
+- [wedge heel](dic://wedge heel)
+- [chock](dic://chock)
+- [lodge](dic://lodge), [stick](dic://stick), [deposit](dic://deposit)
+- [squeeze](dic://squeeze), [force](dic://force)
+- _n._ [triangle](dic://triangle), [trigon](dic://trigon), [trilateral](dic://trilateral), [sandwich](dic://sandwich), [diacritical mark](dic://diacritical mark), [diacritic](dic://diacritic), [heel](dic://heel)
+- _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [move](dic://move), [displace](dic://displace)
+- **heel**脚后跟;**triangular**三角形的;**shaft**柄;**cone**圆锥体，圆锥形;**angled**成角的;**shank**胫;**conical**圆锥形的;**concave**凹的，凹面的;**toe**脚趾;**hole**洞，孔;
+- a wedge of pie /一块楔形的馅饼
+- wedge oneself into a crowd /挤在人群中间
+- a wedge in the war on poverty. /引起对贫困宣战的一项起因
+- wedge a window to prevent it from rattling /用楔将窗户塞紧, 使不作响
+- The box won't wedge into such a narrow space. /那盒无法塞进那么小的地方去。
+- I'm not trying to drive a wedge between you and your father. /我并非想使你和你父亲不和。
+- He wedged himself through the narrow window. /他从狭窄的窗户中挤了过去。
+- he invested his wedge in stocks and shares /他把他的收入投资股票。
+- she wedged her holdall between two bags /她在两个袋子之间夹了一个手提包。
+- Now wouldn't that drive a wedge in your relationship? /这难道不会破坏你们的关系吗？
+- We share it across all the wedges that too often divide us /我们跨越所有经常使我们分裂的因素。
+- Can't give a wedge to law enforcement, a way in. /不能给司法机关留有契机。
+- What she's trying to do is, she's trying to drive a wedge between us. /这就是她想要做的，她想要挑拨我们的关系。
 - wedgy
 - wedging
 - wedgie
@@ -12249,12 +12678,28 @@ welter
 - - 来自 PIE*wel,转，卷，拱起，词源同 vault,weal.引申词义杂乱的一堆。
 - [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
 - **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
+- [wallow](dic://wallow)
+- _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder)
+- _v._ [roll over](dic://roll over), [move](dic://move)
+- there's such a welter of conflicting rules /有一大批杂乱的互相冲突的规定。
+- a welter of papers and magazines /一堆混乱报纸与杂志
+- amidst this welter of confusing signals, it's difficult to winnow out the truth. /在杂乱无章的信号之中，要辨别真相很困难。
+- the attack petered out in a welter of bloody, confused fighting. /那次攻击结果变成了一次血腥的、一片混乱的战斗。
+- They came in with a whole welter of songs /他们回来时带回了大量的歌曲。
+- Grant's mind was a welter of broken ends and unrelated facts. /格兰特的脑子里满是支离破碎和不相关的事实。
+- Gazing out at the bleak expanse of tents extending for miles over a trodden welter of slush and snow, Anthony saw the impracticability of trudging to a telephone that night. /安东尼凝视着在踩踏的泥泞和积雪的泥泞中延伸数英里的凄凉帐篷， 看到那天晚上跋涉到电话是不切实
+- " And looks a lot like Betty, too, " said Camilla, and then disappeared shrieking amid a welter of skirts and pantalets and bobbing hats, as Betty, who did have a long face, began pinching her. /" 而且长得也很像赫蒂，" 卡米拉说，这惹得长脸的赫蒂动手来拧她，她尖叫一声就躲到一大堆裙子，长裤子和晃动的帽子中间去了。
 
 whimsy
 - [notion](dic://notion), [whim](dic://whim), [whimsey](dic://whimsey)
 - [flightiness](dic://flightiness), [arbitrariness](dic://arbitrariness), [whimsicality](dic://whimsicality), [whimsey](dic://whimsey), [capriciousness](dic://capriciousness)
 - _n._ [idea](dic://idea), [thought](dic://thought), [irresponsibility](dic://irresponsibility), [irresponsibleness](dic://irresponsibleness)
 - **whimsy**怪念头;**whimsical**异想天开的,闹着玩的;**silliness**愚蠢;**flair**天资;**humor**幽默，诙谐;**elegance**典雅;**sensibility**感情;**humour**诙谐;**fanciful**想像的;**weirdness**古怪,命运;**charm**魅力，吸引力;**childlike**天真的;**absurdity**荒谬;**melancholy**忧郁, 悲哀;**subtlety**微妙;**eccentricity**古怪行为;
+- His speech was full of whimsy. /他妙语如珠。
+- the film is an awkward blend of whimsy and moralizing. /这部电影是离奇情节和说教的蹩脚结合
+- I have a strong suspicion our hosts are inclined to whimsy /我有很强的预感，这家主人喜欢奇思妙想。
+- It’s in villages like these where common-sense has stood firm against the fickle winds of architectural whimsy /在这样的村庄里，奇异妙想的建筑风格敌不过平凡常见的建筑。
+- They bring a sense of whimsy and nostalgia. /它们能勾起大家的各种情怀。
 - whimsied
 - whimsical, whimsically
 	- _adj._ [arbitrary](dic://arbitrary)

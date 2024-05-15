@@ -6,8 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Graphics Rendering Frameworks](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/🧩%20Graphics%20Rendering%20Frameworks/Graphics%20Rendering%20Frameworks.md)
+↗ [Graphics Rendering Frameworks](../../../../Software%20Engineering/🧩%20Graphics%20Rendering%20Frameworks/Graphics%20Rendering%20Frameworks.md)
 ↗ [ASCII Arts](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
+
+↗ [AI & Gaming](../../../../Software%20Engineering/🤖%20AI%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
 
 
 ### Sources
@@ -15,13 +17,15 @@
 [Game Engines | Github Collection](https://github.com/collections/game-engines)
 
 
-### Games Collections
+### Linux /CLI Games Collections
 - [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. 
 - [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. https://github.com/CleverRaven/Cataclysm-DDA
 - [Awesome List /Gaming](https://github.com/sindresorhus/awesome#gaming)
 
 https://2pt.com.au
 Games and interactive digital playthings.
+
+↗ [Games on CLI](Games%20on%20CLI.md)
 
 
 ### Games Emulators
@@ -42,7 +46,6 @@ Preferred Options:
 ↗ [Parallel Desktop](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
 ↗ [VMware Fusion](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
 
-
 Obselet solusions: virtualBox, Boot Camp, and Windows 365
 - Oracle’s free **VirtualBox** is another option for running a virtual Windows system, but you’ll need patience and expertise to get it working; stay away from this method if the prospect of partitioning your hard drive or system RAM sounds daunting. Apps won’t run as quickly or as smoothly as they do with commercial solutions, and you still need to purchase a Windows license to use with VirtualBox.
 
@@ -51,16 +54,13 @@ Obselet solusions: virtualBox, Boot Camp, and Windows 365
 - You may remember that Microsoft recently announced a business-centric service called **[Windows 365](https://www.pcmag.com/news/what-is-windows-365-cloud-pc)** that lets end-users access a full, cloud-based version of Windows on nearly any platform. That platform is not intended for consumers, however, and its future is unclear after [Microsoft suspended the free trials due to high demand](https://www.pcmag.com/news/microsoft-suspends-free-trials-for-cloud-based-windows-365-due-to-high).
 
 
-
 ### 2️⃣ Look for Mac-Friendly Games
 Are you kidding me ? Minecraft is nice on mac though. 
 
 
-### 3️⃣ Get PC Games Running Under Interpretors 
+### 3️⃣ Get PC Games Running Under Interpreters
 #### Wine Project
 ↗ [Wine Project](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
-
-
 #### Proton
 https://www.protondb.com
 
@@ -74,7 +74,7 @@ https://www.protondb.com
 
 
 
-## Games to go
+## Open Games
 ### 👉 Cataclysm: Dark Days Ahead
 🏠 https://github.com/CleverRaven/Cataclysm-DDA
 
