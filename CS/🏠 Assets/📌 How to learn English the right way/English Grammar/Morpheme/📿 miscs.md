@@ -9313,20 +9313,7 @@ secular
 - secularity
 
 seem
-- unseemly
-	- [indecent](dic://indecent), [indecorous](dic://indecorous), [unbecoming](dic://unbecoming), [uncomely](dic://uncomely), [untoward](dic://untoward)
-	- _adj._ [improper](dic://improper)
-	- _n._ [proper](dic://proper)
-	- **scandalous**令人反感的;**distasteful**使人不愉快的;**shameful**可耻的;**disgraceful**可耻的,丢脸的,不光彩的;**perverse**任性的,固执的;**egregious**极坏的;**embarrassing**令人为难的;**outrageous**骇人的;**sordid**肮脏的;**crass**粗鲁的;**obscene**淫秽的;
-	- _[inglorious scandalous shabby unseemly](dic://inglorious%20scandalous%20shabby%20unseemly)_ 不体面的
-	- Everyone was shocked by his unseemly conduct. /大家都被他不得体的举动震惊了。
-- seemly
-- seemliness
-- seeming
-	- well-seeming
-	- seemingly
-- meseems
-- beseem
+- sem-
 
 seeth
 - _adj._ [agitated](dic://agitated)
