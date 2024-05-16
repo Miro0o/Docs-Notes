@@ -687,14 +687,22 @@
 			1. _adj._ [semen](dic://semen), [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come)
 			2. **epithelial**上皮的;**epithelium**上皮;**uterine**子宫的;**mammary**乳房的;**ovary**子房;**tubular**管状的;**cystic**膀胱的，胆囊的;**intestinal**肠的;**renal**肾脏的，肾的;**endothelial**内皮的;**hepatic**肝的;
 	2. disseminate
-		1. dis-分开 + semin-种子 + -ate, 表动词 → 散布(种子)。
-		2. _v._ [publicize](dic://publicize), [publicise](dic://publicise), [air](dic://air), [bare](dic://bare)
-		3. **distribute**分配, 分给;**publicize**宣传;**propagate**繁殖;**publish**发表;**promote**促进;**transmit**传达;**synthesize**合成;**educate**教育;**circulate**循环, 流通;**develop**开发;**mobilize**动员，调动;
-	4. inseminate
+		1. - v. <正式>散布，传播（信息、知识等）
+		2. dis-分开 + semin-种子 + -ate, 表动词 → 散布(种子)。
+		3. _v._ [publicize](dic://publicize), [publicise](dic://publicise), [air](dic://air), [bare](dic://bare)
+		4. **distribute**分配, 分给;**publicize**宣传;**propagate**繁殖;**publish**发表;**promote**促进;**transmit**传达;**synthesize**合成;**educate**教育;**circulate**循环, 流通;**develop**开发;**mobilize**动员，调动;
+		5. disseminate information. /散布消息
+		6. disseminated colonic cancer /已扩散的结肠癌。
+		7. Digital technology makes it easy to disseminate libel widely and anonymously. /数字技术使广泛和匿名传播诽谤变得容易。
+		8. So, it really impacts everybody when people disseminate fake news /所以，当人们传播假新闻时，它真的在影响每一个人。
+		9. A joint statement urges governments not to disseminate misleading information. /一份联合声明敦促政府不要散播误导性消息。
+		10. After all, books have been employed as a major means to disseminate knowledge. /毕竟，书籍也是传播知识的重要载体。
+		11. It will not be disseminated in the press /也不会被媒体报导。
+	3. inseminate
 		1. in-进入，使 + semin-种子 + -ate
 		2. _v._ [sow](dic://sow), [sough](dic://sough), [seed](dic://seed), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 		3. **sperm**精液;**semen**精液;**fertilized**受精;**embryo**胚胎;**IVF**试管受精;**embryos**晶胚;**mating**交配，交尾;**mated**成对的;**offspring**子女, 子孙, 后代;**ovulation**排卵;**vagina**阴道;
-	6. seminal
+	4. seminal
 		1. semen【精子，精液】 + -ar形容词后缀。引申词义萌芽的，影响深远的。拼写比较omen,ominous。
 		2.  [germinal](dic://germinal), [originative](dic://originative)
 		3. _adj._ [semen](dic://semen), [seed](dic://seed), [seminal fluid](dic://seminal fluid), [ejaculate](dic://ejaculate), [cum](dic://cum), [come](dic://come), [original](dic://original)
@@ -703,11 +711,11 @@
 		6. _seminal fluid_ 精液
 		7. _seminal vesicle_ 精囊
 		8. _seminal plasma_ 精浆；精清
-	8. seminar
+	5. seminar
 		1. - 来自德语 Seminar,研讨会，讨论会，来自拉丁语 seminarium,育种室，来自 semen,种子，-arium,表地方。
 		2. _n._ [conference](dic://conference), [course](dic://course), [course of study](dic://course of study), [course of instruction](dic://course of instruction), [class](dic://class)
 		3. **symposium**讨论会, 专题报告;**lecture**演讲;**workshop**工场;**conference**会议;**lectures**演讲，讲演;**presentation**介绍;**keynote**主音;**session**会议;**sessions**会议;**plenary**全体出席的;**meeting**会议;
-	10. semination
+	6. semination
 		1. _semination_  n. 播种；传播；授精
 2. Saturn
 3. season
@@ -1804,63 +1812,170 @@
 	15. homosexual
 8. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
 	1. assemble, assemling
-		1. subassembly, reassembly, preassembly, postassembly
+		1. as-不断 + semble【相同】 → 把相同的东西放到一起 → 收集、集合。
+		2. vt. 集合, 收集, 装配 
+		3. vi. 集合
+		4. subassembly, reassembly, preassembly, postassembly
 		5. misassembly
 		6. microassembly
 		7. disassembly (not dissemble)
+			1. n. 拆卸；分解
+			2. _n._ [activity](dic://activity)
+			3. _n._ [assembly](dic://assembly), [assemblage](dic://assemblage), [gathering](dic://gathering), [fabrication](dic://fabrication)
+			4. **disassemble**解开,分解;**assembly**集会;**dismantling**分解;**machining**加工;**installation**安装;**repair**修复;**assembling**装配;**inspection**检查,视察;**internals**内控者,内部组织;**modification**缓和,限制,减轻;**assemble**集合，聚集;
+			5. _[disassembly](dic://disassembly)_  n. 拆卸；分解
+			6. _[component disassembly](dic://component%20disassembly)_  部件拆分; 组件分解; 
+			7. _[disassembly window](dic://disassembly%20window)_  反汇编窗口
+			8. The ball slide is also named as trinodal slides. Before installation, let's have a look at the disassembly of the ball slides /三节导轨又名滚珠导轨。在安装之前，我们首先介绍三节导轨的拆卸。
+			9. This is where the work of disassembly begins: In your face-hole, which scientists call your mouth /这就是拆解工作开始的地方：在你的脸洞里，科学家称之为你的嘴。
+			10. When it comes to what your digestive system ultimately does, just think of it as a sort of disassembly line /当涉及到你的消化系统最终做什么时，就把它想象成一条拆解线。
+			11. Together, these two groups on the digestive disassembly line work in six steps to destroy your food and release and recycle its nutrients. /这两组在消化拆解生产线上一起工作，分六个步骤来破坏你的食物，释放和回收它的营养。
 		8. assemblywoman, assemblyman
 		9. assembler
 			1. etc..
 		10. assemblage
-			1. _n._ [social group](dic://social group), [system](dic://system), [group action](dic://group action), [group](dic://group), [grouping](dic://grouping)
-			2. **grouping**分组，分类;**edifice**大厦;**sculptural**雕刻的;**assortment**分类;**collage**抽象拚贴画;**fauna**动物群;**assorted**混杂的;**dwelling**住处;**aggregation**聚集,集成;**heterogeneous**由很多种类组成的;**sculpture**雕塑;
+			1. _n._ (聚集在一起的)一堆东西，一群人
+			2. 聚集，集会
+			3. 装配；组合
+			4. 组合成的艺术品
+			5. _n._ [social group](dic://social group), [system](dic://system), [group action](dic://group action), [group](dic://group), [grouping](dic://grouping)
+			6. **grouping**分组，分类;**edifice**大厦;**sculptural**雕刻的;**assortment**分类;**collage**抽象拚贴画;**fauna**动物群;**assorted**混杂的;**dwelling**住处;**aggregation**聚集,集成;**heterogeneous**由很多种类组成的;**sculpture**雕塑;
+			7. assemblage technology /装配技术
+			8. a loose assemblage of diverse groups. /不同群体的松散集合。
+			9. some vast assemblage of gears and cogs. /某种用齿轮和嵌齿装配成的庞大机器。
+			10. His sets were simple, sometimes sinister assemblages of wide shallow steps and narrow columns. /他的布景很简单 有时是由又宽又浅的台阶和狭窄的柱子组成的灾难性组合。
+			11. What was the occasion of this excited assemblage? /为什么要开这个大会呢？
+			12. At the end, Jobs stood in front of the assemblage and gave a soliloquy. /到最后，乔布斯站在众人面前，发表了一番独白。
+			13. This is the northernmost assemblage of Big Trees that may fairly be called a forest. /这是最北端的大树群， 堪称森林。
+			14. The Leopard's giant form, towering above all the others, caused a sudden hush to fall on the assemblage. /豹子巨大的身躯高高在上，让人群突然安静下来。
 	2. assimilate
 		1. _v._ [learn](dic://learn), [larn](dic://larn), [acquire](dic://acquire), [adjust](dic://adjust), [conform](dic://conform), [adapt](dic://adapt), [change](dic://change)
 		2. _n._ [dissimilate](dic://dissimilate)
 		3. **integrate**使结合成为整体;**absorb**吸收;**adapt**使适应;**synthesize**合成;**comprehend**理解, 领会;**expel**驱逐;**digest**消化;**incorporate**合并;**infiltrate**渗透;**absorbed**一心一意的;**consolidate**巩固;
-		5. disassimilate, dissimilate, dissimilitude, dissimilation
-		6. assimilable
-		7. assimilability
-		8. inassimilable
-		9. assimilative, assimilation
-		10. disassimilation
-	4. dissemble, dissembler (dissimulate)
-		1. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [disguise](dic://disguise)
-		2. **conceal**隐藏;**disassemble**解开,分解;**fabricate**编造, 捏造, 虚构;**dismantle**拆开, 拆卸;**deceive**欺骗;**assemble**集合，聚集;**betray**背叛;**hide**隐藏;**distort**扭曲;**falsehood**谎言;**exaggerate**扩大, 增加;
+		4. _[assimilate into](dic://assimilate%20into)_  （使）逐渐混合于（某一更大的群体）; 使同化;
+		5. assimilate life to a dream /把人生比作梦
+		6. assimilate knowledge /吸收知识
+		7. Marie tried to assimilate the week's events /玛丽试着融会贯通这个星期里发生的事。
+		8. philosophers had assimilated thought to perception. /哲学家认为思维与感知相似。
+		9. Some foreigners assimilate easily into our way of life. /有些外国人很容易被我们的生活方式同化。
+		10. He tried to assimilate himself into the new community. /他试图使自己与新社区的居民融为一体。
+		11. They assimilated their customs and behavior to the new environment. /他们改变了他们的风俗和行为以适应新环境。
+		12. Consonants are frequently assimilated to neighboring consonants. /辅音往往被其邻近的辅音同化。
+		13. Many people who are disillusioned in reality assimilate life to a dream. /许多对现实失望的人把人生比作一场梦。
+		14. Kindergartens are all about getting kids assimilated what schools like /幼儿园都是为了让孩子们习惯学校的样子。
+		15. It let us assimilate ourselves to the world, and to others. /它让我们融入世界，融入他人。
+		16. disassimilate
+			1. _vt._ 使异化
+			2. **分解代谢**
+		18. assimilable
+		19. assimilability
+		20. inassimilable
+		21. assimilative, assimilation
+		22. disassimilation
+	3. dissimilate, dissimilitude
+		1. _[dissimilate](dic://dissimilate)_  vi. 变得不同; vt. 变得不同;
+		2. dissimilation
+			1.  [catabolism](dic://catabolism), [katabolism](dic://katabolism), [destructive metabolism](dic://destructive metabolism)
+			2. _n._ [linguistic process](dic://linguistic process), [organic process](dic://organic process), [biological process](dic://biological process)
+			3. **assimilation**同化;**consonant**辅音;**vowel**元音;**vowels**元音，母音;**pronunciation**发音;**syllable**音节;**derivation**发展;**phonetic**语音的，语音学的;**dialects**乡土语言，方言;**fermentation**发酵;**colonization**殖民地的开拓,殖民;
+			4. The incline of self-hobbling, which meals debasing his or other people" moral expectation through brickbat, is a dissimilation to the function of impulsing an individual take action /通过自贬性自我道德预言，放低他人、自己对自身的道德要求的自我阻碍倾向，是行为动力功能异化的反映。
+			5. What is assimilation, **dissimilation** and metathesis? /什么是同化、异化和换位？
+	4. dissemble (dissimulate)
+		1. vt. 掩饰，掩盖；假装; vi. 隐藏，掩饰（思想、感情等）;
+		2. _vt._ 假装；掩饰(感情、意图等)
+		3. dis-不 + semble【相同】 → 不相同装做相同 → 掩饰。
+		4. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [disguise](dic://disguise)
+		5. **conceal**隐藏;**disassemble**解开,分解;**fabricate**编造, 捏造, 虚构;**dismantle**拆开, 拆卸;**deceive**欺骗;**assemble**集合，聚集;**betray**背叛;**hide**隐藏;**distort**扭曲;**falsehood**谎言;**exaggerate**扩大, 增加;
+		6. **dissemble understanding**:  装出理解的样子 
+		7. **dissemble innocence**:  装出一副无辜的样子
+		8. I tried to dissemble an interest I didn’t feel. /我设法假装感到兴趣。
+		9. dissemble anger with a smile /用微笑掩饰愤怒
+		10. In politics, too, Mann knows how to dissemble and compromise /在政治上，曼也懂得如何掩饰和妥协。
+		11. I turned from him with a feeling of contempt which I did not seek to dissemble /我怀着一种不想掩饰的轻蔑之情转过身去。
+		12. " Oh, nothing particular" ! Catherine answered, dissembling for the first time in her life. /“哦，没什么特别的”！凯瑟琳回答，生平第一次掩饰。
+		13. She had lived too long among people who dissembled politely not to feel disturbed at hearing her own thoughts put into words /因为一般人在听到别人说出他们自己的心思时，总是委婉地掩饰着并不惊慌的感觉，而她在这些人中生活是太久了，怎能不受影响呢？
+		14. The former president exhibited a pattern of dissembling about the material he took from the White House, creating legal risk not just for himself but also some of his lawyers. /对他从白宫拿走的材料遮遮掩掩，不仅给他自己，也给他的一些律师带来法律风险。
+		15. dissembler
 	5. ensemble
-		1. _n._ [musical organization](dic://musical organization), [musical organisation](dic://musical organisation), [musical group](dic://musical group), [cast](dic://cast), [cast of characters](dic://cast of characters), [dramatis personae](dic://dramatis personae), [chorus](dic://chorus)
-		2. **orchestra**管弦乐队;**quintet**五重奏，五重唱;**quartet**四重奏;**troupe**剧团, 艺术团体;**musical**音乐的;**soloist**独唱者;**orchestral**管弦乐队的;**cellist**大提琴演奏家;**choral**合唱队的;**outfit**全套装备, 全套工具;**trio**三重唱;
-		3. [tout ensemble](dic://tout ensemble)
-		4. [corps de ballet](dic://corps de ballet)
-		5. [supporting players](dic://supporting players)
+		1. en-进入，使 + semble【相同，同时】，即多乐器同时演奏。
+		2. n. 全体, 合唱曲, (女人的)全套服装
+		3. n. （经常在一起演出的小型）乐团，剧团，舞剧团；全体，整体；全套服装；合奏（曲），合唱（曲）；成套的东西；演出者之间的配合；（主物理）系综 
+		4. adj. 合奏的，合演的
+		5. _n._ [musical organization](dic://musical organization), [musical organisation](dic://musical organisation), [musical group](dic://musical group), [cast](dic://cast), [cast of characters](dic://cast of characters), [dramatis personae](dic://dramatis personae), [chorus](dic://chorus)
+		6. **orchestra**管弦乐队;**quintet**五重奏，五重唱;**quartet**四重奏;**troupe**剧团, 艺术团体;**musical**音乐的;**soloist**独唱者;**orchestral**管弦乐队的;**cellist**大提琴演奏家;**choral**合唱队的;**outfit**全套装备, 全套工具;**trio**三重唱;
+		7. [tout ensemble](dic://tout ensemble)
+		8. [corps de ballet](dic://corps de ballet)
+		9. [supporting players](dic://supporting players)
+		10. _canonical ensemble_ 正则系综，典范系综
+		11. _ensemble average_ 总体均值；统计平均值
+		12. Like, with " Orange is the New Black, " it was like, now everything must be sort of ensemble. /就像《女子监狱》一样，现在所有的东西都必须是整体的
+		13. Of the 2019 Met Gala, Criss forever left his mark on the fashion industry with this dramatic Valmont ensemble /在2019年Met Gala慈善晚宴上，克里斯身穿瓦尔蒙特套装精彩亮相，在时尚界留下了不朽的一笔
+		14. Anyone in the ensemble cast had a reason to pull the trigger. /剧组里的每个人都有开枪的理由。
+		15. The ensemble was created by Gabriela Hearst, an American designer of Uruguayan descent. /这套服装是由乌拉圭裔美国设计师加布里埃拉·赫斯特设计的。
+		16. Clapping is very prominent in all these old ensemble recordings of Black folk music /在所有这些黑人民间音乐的老合奏录音中，拍手是非常突出的。
+		17. The group is one of just a handful of all-women ensembles in Ivory Coast /这个团体是 科特迪瓦为数不多的全女子乐队。
+		18. When were you doing your Henry street, and Negro ensemble, what years were those? /你是什么时候在亨利街剧场和黑人剧团演出的，那是什么时候？
+		19. So the only place you can achieve that goal is if you're in front of the ensemble. /为了达到这个目的指挥必须站在整个乐团的最前面。
+		20. Mr. Titterton is chairman of the Omega **Ensemble** but has been the group's official page turner for the past four years. /蒂特顿先生是欧米茄乐团的主席，但在过去的四年里，他一直是该乐团的官方翻页人。
 	6. facsimile
-		1. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
-		2. _v._ [telecommunicate](dic://telecommunicate)
+		1. facsimile - 原先写成两个词，作fac simile，系直接借自拉丁语。fac是拉丁语动词facere 'to make'的祈使式，simile是similis'similar, like'的中性形式，fac simile两词连用则是make similar（使……相似，使……一模一样）之意。facsimile于17世纪进入英语，用以指“摹（真）本”、“复制本”，偶尔作动词用，表示“摹写”、“使……一模一样”，今天人们赋之以一些新的词义，如“电传真”、“传真通信”和“传真传输”，用于这些词义时，facsimile通常被缩略为fax。
+		2. n. 摹(真)本, 传真 
+		3. vt. 传真, 临摹  
+		4. a. 复制的
+		5. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
+		6. _v._ [telecommunicate](dic://telecommunicate)
 			1. [copy](dic://copy) 普通用词，含义广泛，指精确的或不精确的复制品。
 			2. [duplicate](dic://duplicate) 常指完全一模一样，可代替原件的复制品。
 			3. [model](dic://model) 可指按某物式样制造、按比例缩小的模型，也可指某物未制成之前做出的模型。
 			4. [reproduction](dic://reproduction) 批按原物复制的产品，着重复制品与原物相似。
 			5. [facsimile](dic://facsimile) 含义与copy大体相同，但较文雅。
-		3. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
-		4. _in facsimile_ 一模一样，逼真
-		5. _facsimile transmission_ 传真发送
-		6. _facsimile machine_ n. 传真机
-		7. telefacsimile
-		8. radiofacsimile
-		9. microfacsimile
-	7. resemble,
+		7. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
+		8. _in facsimile_ 一模一样，逼真
+		9. _facsimile transmission_ 传真发送
+		10. _facsimile machine_ n. 传真机
+		11. This a facsimile edition of an eighteenth century book. /这是一本18世纪书籍的复制版。
+		12. The idea for a facsimile transmission was first proposed by Scottish clockmaker Alexander Bain in 1843. /传真传输的设想是由爱尔兰钟表匠亚历山大.贝恩于1843年首次提出。
+		13. Either party may demonstrate its execution or acceptance of this Agreement by facsimile transmitted via telecopier showing the transmitting parties' signature thereon. /双方中的任意一方如果要通过发送传真来签署或接受本协议必须有发送传真方在传真件上的亲笔签名。
+		14. Or a reasonable facsimile prepared by someone claiming to be Luigi, but who sounds suspiciously like Jackie Chan /或者是看菜单挺正宗 说是由某位叫路易吉做的 可电话里的声音却听着山寨得像成龙。
+		15. Yet it has always been possible to make very accurate facsimiles of pretty well any fine art work. /然而，总是有可能对任何美术作品进行非常准确的复制。
+		16. The facsimile of the tomb of Tutankhamun in the Valley of the Kings. /图坦卡蒙墓在帝王谷的复制品。
+		17. telefacsimile
+		18. radiofacsimile
+		19. microfacsimile
+	8. resemble,
 		1. _v._ [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe), [tally](dic://tally)
 		2. **mimic**模仿，摹拟;**reminiscent**提醒的, 暗示的;**imitate**模仿，仿效;**appear**出现;**identical**同一的;**depict**描画;**indistinguishable**难区分的,不能分辨的;**correspond**相符合, 相一致;**akin**同族的;**resemblance**相似, 形似;**like**喜欢;
-		3. resemblance
-			1. _n._ [likeness](dic://likeness), [alikeness](dic://alikeness), [similitude](dic://similitude)
-			2. **similarity**类似, 相似;**parallels**导轨;**likeness**相似物;**resemble**类似，像;**allusion**暗示;**bears**熊;**uncanny**可怕的;**coincidental**巧合的;**peculiar**特殊的;**unmistakable**错不了的;**similar**相似的;
-	8. semblable
+		3. some people resemble their dogs. /有些人和他们的狗有相似之处。
+		4. An orange resembles a grapefruit. /橘子和葡萄柚很相似。
+		5. His nails resemble the ivory keys of the spinet. /他的指甲象白色的琴键一样。
+		6. Well, children usually resemble their parents. /嗯, 孩子总是像父亲的。
+		7. The Coffee plant is a shrub which resembles the laurel /咖啡树是一种类似于月桂树的植物。
+		8. resemblance
+			1. n. 相似，相像；相似点，相似之处；相似物
+			2. _n._ [likeness](dic://likeness), [alikeness](dic://alikeness), [similitude](dic://similitude)
+			3. **similarity**类似, 相似;**parallels**导轨;**likeness**相似物;**resemble**类似，像;**allusion**暗示;**bears**熊;**uncanny**可怕的;**coincidental**巧合的;**peculiar**特殊的;**unmistakable**错不了的;**similar**相似的;
+			4. _[family resemblance](dic://family%20resemblance)_  家族类似性
+			5. _[interpretive resemblance](dic://interpretive%20resemblance)_  阐释性的相似
+			6. _[striking resemblance](dic://striking%20resemblance)_  惊人的相似
+			7. _[cultural resemblance](dic://cultural%20resemblance)_  文化类似
+			8. _[accidental resemblance](dic://accidental%20resemblance)_  偶同
+			9. _[coefficient resemblance](dic://coefficient%20resemblance)_  类似系数
+			10. any resemblance between their reports is purely coincidental /他们报告中的任何相似之处都纯属巧合。
+			11. the physical resemblances between humans and apes. /人与猿之间身体上的相似之处。
+			12. Both men began discussing the striking resemblance between each other.And found many more crazy similarities /他们俩开始讨论着惊人的相似。然后发现了更多惊人的共同点。
+	9. semblable
 		1. adj. 外表的；相似的; n. 类似;
-	9. semblance
+	10. semblance
 		1. _n._ [appearance](dic://appearance), [visual aspect](dic://visual aspect), [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
 		2. **normalcy**常态;**pretense**借口;**sort**种类;**sanity**明智;**devoid**缺乏的;**regain**恢复;**lack**缺乏;**sense**官能, 感官;**proper**适当的;**requisite**必要的事物;**decency**正派;
-		3. an insubstantial semblance
-	10. similar
+		3. an insubstantial semblance /不实在的表象
+		4. bear the semblance of an angel /有天使的外表
+		5. a feeble semblance of sth /微弱的相似
+		6. not a semblance of truth to the story. /故事里没有丝毫真实的成分
+		7. By now any semblance of normality had disappeared /到了现在，任何常态的假象都消失了。
+		8. the holly, providently planted about the house, to cheat winter of its dreariness, and to throw in a semblance of green summer to cheer the fireside /窗台饰有盆花，居所四周植有冬青，聊以消解寒冬之孤寂，室内炉火熊熊，虽非夏日，宅前院后绿意浓浓，亦使居者倍感惬意；
+		9. I'd be lying if I said this didn't have some semblance of nostalgia. /我要说不是 肯定是在撒谎。
+	11. similar
 		1.  [alike(p)](dic://alike(p)), [like](dic://like)
 		2.  [exchangeable](dic://exchangeable), [interchangeable](dic://interchangeable), [standardized](dic://standardized), [standardised](dic://standardised)
 		3. _adj._ [kindred](dic://kindred), [related](dic://related), [analogous](dic://analogous), [correspondent](dic://correspondent), [confusable](dic://confusable), [mistakable](dic://mistakable)
@@ -1884,15 +1999,15 @@
 			1. _adj._ [probable](dic://probable), [likely](dic://likely)
 			2. _n._ [improbable](dic://improbable), [unlikely](dic://unlikely)
 			3. **indubitably**无疑地;**assemblage**聚集;**contrived**不自然的;**believable**可信的;**moreover**此外;**artful**狡猾的;**precisely**精确地;**imaginative**富于想像力的;**fantastical**空想的,捕风捉影的;**likewise**也;
-	11. simile
+	12. simile
 		1. _n._ [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
 		2. **metaphor**隐喻;**analogy**类似;**allusion**暗示;**metaphorical**隐喻般的;**stanza**诗节;**allegory**寓言;**poem**诗;**idiom**成语，习语;**parable**寓言，比喻;**fable**寓言;**anecdote**奇闻;
 			1. similize
-	12. similitude
+	13. similitude
 		1. _n._ [similarity](dic://similarity), [duplicate](dic://duplicate), [duplication](dic://duplication)
 		2. _n._ [unlikeness](dic://unlikeness), [dissimilitude](dic://dissimilitude)
 		3. **likeness**相似物;**resemblance**相似, 形似;**similarity**类似, 相似;**geometrical**几何的;**countenance**面容，表情;**contradiction**矛盾;**allusion**暗示;**hath**有;**manifestation**显示;**peculiar**特殊的;**divine**神圣的;
-	13. simulate ,simulant
+	14. simulate ,simulant
 		1. [imitate](dic://imitate), [copy](dic://copy)
 		2.  [model](dic://model)
 		3. [assume](dic://assume), [sham](dic://sham), [feign](dic://feign)
@@ -1901,7 +2016,7 @@
 		6. dissimulate (dissemble)
 			1. dis-强调，整个的 + simulate【假装，模仿】。即模仿出来的，看起来像真的。
 			2. dissimilator, dissimulation
-	14. same
+	15. same
 		7. selfsame
 			1. _adj._ [same](dic://same)
 			2. _n._ [other](dic://other)
@@ -1909,12 +2024,16 @@
 		8. samey
 			1. adj. （非正式）千篇一律的
 		9. sameness
-	15. simulacrum
+	16. simulacrum
 		1. _n._ [semblance](dic://semblance), [gloss](dic://gloss), [color](dic://color), [colour](dic://colour), [representation](dic://representation)
 		2. **imitation**模仿, 仿效;**illusion**幻觉，错觉;**facsimile**副本;**hologram**全息图;**imaginary**想像中的, 假想的, 虚构的;**semblance**外表;**postmodern**后现代主义的;**antithesis**对照;**utopian**空想的;**likeness**相似物;**replica**复制品，复制物;
-	16. simulcast
-	17. simultaneity, simultaneous
-	18. simple
+		3. Then, you try to perturb this simulacrum with plausible future human actions, to see what picture appears. /然后，你要尝试用未来可能的人类行为扰乱这个拟像，看看会出现什么情况。
+		4. The flipside is that online interaction is still hidden behind the simulacrum of pixels and megabytes. /另一方面，在线交互仍然隐藏在像素和兆字节的模拟背后。
+		5. What engineers propose is thus a simulacrum of the solar reaction. /因此，工程师提出的是模拟太阳反应。
+		6. Creating the crystal ball is thus a two-stage process. First, you have to build a simulacrum of how Earth's climate works /因此，创建水晶球是一个两阶段的过程。首先，你需要建立一个地球气候运行的模拟模型。
+	17. simulcast
+	18. simultaneity, simultaneous
+	19. simple
 		1. simply
 		2. simplistic
 		3. simplist
@@ -1924,11 +2043,11 @@
 		7. simpliciter
 		8. simpleton
 		9. simpleminded, simplehearted
-	19. simplex
+	20. simplex
 		1. _adj._ [unidirectional](dic://unidirectional), [simple](dic://simple)
 		2. _n._ [bidirectional](dic://bidirectional), [complex](dic://complex)
 		3. **duplex**二倍的，双重的;**herpes**疱疹;
-	20. sincere
+	21. sincere
 		1. sincere [sɪn'sɪə] adj.真诚的；真实的。拉丁前缀sin(e)-表without，和希腊词根idio-表个人的以及日耳曼词源的self（without others）同源，词根cer-表蜡。米开朗琪罗在成为雕塑家前工作过的采石场习惯用蜡来遮盖大理石的瑕疵处，后来罗马元老院命令大理石制品要“sine cera”，即“without wax”。
 		2. 然而，大多数权威人士认为，sincere一词系源于拉丁语sincērus（纯粹的，不掺假的）。
 		4.  [earnest](dic://earnest), [solemn](dic://solemn)
@@ -1938,11 +2057,14 @@
 		8. sincerity
 		9. sincerely
 		10. insincere, insinserity
-	21. singular
-		1. _n._ [form](dic://form), [word form](dic://word form), [signifier](dic://signifier), [descriptor](dic://descriptor)
-		2. _adj._ [extraordinary](dic://extraordinary), [strange](dic://strange), [unusual](dic://unusual), [individual](dic://individual), [single](dic://single)
-		3. _n._ [plural](dic://plural), [plural form](dic://plural form)
-		4. _n._ [ordinary](dic://ordinary), [familiar](dic://familiar), [common](dic://common), [plural](dic://plural), [multiple](dic://multiple)
+	22. singular
+		1. _adj._ 〈语〉单数的
+		2. 〈正〉突出的, 卓越的, 非凡的
+		3. _n._ 单数形式(的词)
+		4. _n._ [form](dic://form), [word form](dic://word form), [signifier](dic://signifier), [descriptor](dic://descriptor)
+		5. _adj._ [extraordinary](dic://extraordinary), [strange](dic://strange), [unusual](dic://unusual), [individual](dic://individual), [single](dic://single)
+		6. _n._ [plural](dic://plural), [plural form](dic://plural form)
+		7. _n._ [ordinary](dic://ordinary), [familiar](dic://familiar), [common](dic://common), [plural](dic://plural), [multiple](dic://multiple)
 			1. [queer](dic://queer) 指一种无法解释的怪诞，强调事物的奇特和不可思议。 
 			2. [odd](dic://odd) 通常指不规律、偶尔出现的人或事物，往往令人困惑或奇怪。 
 			3. [funny](dic://funny) 较通俗用词，指奇怪得滑稽可笑或反常。 
@@ -1954,12 +2076,55 @@
 			9. [quaint](dic://quaint) 指古色古香，使人感到既奇怪又有趣。  
 			10. [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
 			11. **plural**复数的;**peculiar**特殊的;**noun**名词;**distinct**清楚的;**pronoun**代词;**verb**动词;**adjective**形容词;**superlative**最上的;**nouns**名词;**transcendent**卓越的;**idiosyncratic**特殊物质的,特殊的,异质的;
-		5. singularly
-		6. singularize
-		7. singularity
-		8. singularise
-		9. nonsingular
+		8. a story of singular interest /一部非常有趣的小说
+		9. Such poise is singular in one so young. /这样年青的人便表现出这样的泰然自若真是让人惊异。
+		10. he had the singular good fortune not to die in the trenches /他运气特别好，没有死在战壕中。
+		11. no explanation accompanied this rather singular statement. /对于这条非常奇怪的陈述，没有解释。
+		12. The young man has a singular ear for music /这个年轻人对音乐有非凡的欣赏力。
+		13. But " it's also a singular" story, Truitt said. /但是" 它也是一个奇异非凡的" 故事，特鲁伊特说。
+		14. The number can be singular or plural. /数可以是单数或复数。
+		15. " This is extraordinary—very singular, " he repeated. /" 这可怪了！ 这可少见！" 他重复说
+		16. singularly
+		17. singularize
+		18. singularity
+		19. singularise
+		20. nonsingular
 9. seem
+	1. 来自中古英语 semen,使合适，使匹配，使合乎举止，来自 Proto-Germanic*somiz,合适的，标致的，来自 PIE*sem,一，整体，词源同 same,assemble.引申词义外表，表面，后词义抽象化为看来，似乎，好像等。原词义见 seemly,得体的，合乎礼仪的。
+	2. v. （涉及推断）似乎，看来；（用于表示谨慎、礼貌或委婉）好像，可能
+	3. [look](dic://look), [appear](dic://appear)
+	4. _v._ [be](dic://be), [appear](dic://appear)
+	5. [appear](dic://appear) 指从感观印象看似乎是如此，但有时着重指因视野、观点限制而产生的歪曲印象。  
+	6. [look](dic://look) 指从样子看起来，侧重通过视觉而建立的印象。  
+	7. [seem](dic://seem) 多指从主观印象或个反应得出的看法。
+	8. **might**可能;**tend**趋向，倾向;**appear**出现;**not**不;**don**先生，阁下;**necessarily**必要地, 必需地;**quite**很;**really**实际上，事实上;**may**可能，可以;**hardly**几乎不，简直不;**certainly**无疑地;
+	9. _seem to be_ 看来，好像
+	10. _seem like_ 看起来像；看上去像…；好像…
+	11. _seem to do_ 似乎做；好像
+	12. they seem to get on pretty well. /他们看来相处得很不错。
+	13. an angry-seeming man. /一个看似生气的人。
+	14. Does this conversation seem tedious to me? /我觉得这对话无聊吗？
+	15. unseemly
+		1. a. 不合适的, 不适宜的, 不得体的
+		2. [indecent](dic://indecent), [indecorous](dic://indecorous), [unbecoming](dic://unbecoming), [uncomely](dic://uncomely), [untoward](dic://untoward)
+		3. _adj._ [improper](dic://improper)
+		4. _n._ [proper](dic://proper)
+		5. **scandalous**令人反感的;**distasteful**使人不愉快的;**shameful**可耻的;**disgraceful**可耻的,丢脸的,不光彩的;**perverse**任性的,固执的;**egregious**极坏的;**embarrassing**令人为难的;**outrageous**骇人的;**sordid**肮脏的;**crass**粗鲁的;**obscene**淫秽的;
+		6. _[inglorious scandalous shabby unseemly](dic://inglorious%20scandalous%20shabby%20unseemly)_ 不体面的
+		7. Everyone was shocked by his unseemly conduct. /大家都被他不得体的举动震惊了。
+	17. seemly
+	18. seemliness
+	19. seeming
+		1. well-seeming
+		2. seemingly
+	20. meseems
+	21. beseem
+		1. v. 适合于
+		2.  [befit](dic://befit), [suit](dic://suit)
+		3. _v._ [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe), [gibe](dic://gibe), [tally](dic://tally)
+		4. **doth**从事;**thee**你;**thy**你的;**thou**你;**countenance**面容，表情;**lest**唯恐，以免;**ere**在…以前;**hath**有;**scarcely**简直没有;**nigh**近于;**ye**Yemen 也门;
+		5. It did not beseem him to leave his friend without help /他不应置朋友于不顾而离去。
+		6. So that no wonder if, next to Othello himself (but at far distance, as beseems a virtuous wife), the gentle Desdemona loved and trusted Cassio. /因此，难怪温柔的苔丝狄蒙娜是否除了奥赛罗本人（但距离很远，似乎是一位贤惠的妻子）之外， 还喜爱并信任凯西奥。
 10. single
 11. some
 

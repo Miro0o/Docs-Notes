@@ -112,6 +112,14 @@ about the math equation in tex.
 
 
 
+## Latex Packages
+### FontAwesome
+↗ [Fonts](../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/Graphics%20&%20Design/Fonts.md)
+
+🔗 https://www.ctan.org/pkg/fontawesome
+
+
+
 ## Ref
 [LaTex支持中文的三种方式 | CSDN]: http://t.csdnimg.cn/UvhOd
 [LaTeX Error: File `ctex.sty' not found | StackExchange]: https://tex.stackexchange.com/q/687540/312951

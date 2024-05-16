@@ -381,6 +381,8 @@ Applicants admitted to the Department of Computer Science graduate program usual
 ##### Graduate Program: Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
 #### 👉 University of California, Berkeley (UCB)
+https://grad.berkeley.edu
+https://guide.berkeley.edu/courses/
 ##### computer science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
 
@@ -584,7 +586,6 @@ Nanda Laboratory (AI for software engineering automation | Software engineering 
 https://www.nanda-lab.ca
 ##### Master of Computer Science
 https://catalogue.uottawa.ca/en/graduate/master-computer-science/#text
-
 - Have a bachelor of science degree with honours in computer science (or equivalent), with a minimum average of B (70%).
 
 Note: International candidates must check the [admission equivalencies](https://www.uottawa.ca/graduate-studies/international/study-uottawa/admission-equivalencies) for the diploma they received in their country of origin.
