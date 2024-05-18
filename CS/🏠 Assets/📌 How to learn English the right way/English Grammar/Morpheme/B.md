@@ -3175,19 +3175,44 @@
 		7. collator
 			1. _[collator](dic://collator)_  n. 整理器；核对人；校对机
 		8. collation
-			1. _n._ [meal](dic://meal), [repast](dic://repast), [collection](dic://collection), [collecting](dic://collecting), [assembling](dic://assembling), [aggregation](dic://aggregation), [comparison](dic://comparison)
-			2. **sorting**整理;**parsing**剖析;**data**资料;**dissemination**散播;**compendium**摘要,纲要;**grouping**分组，分类;
-		9. collating
-	5. delate (dilate)
-		1. vt. 控告, 告发
-		2. they may delate my slackness to my patron. /他们可能向我的赞助人告发我的懒散。
+			1. _n._ <正>核对，校勘；考订，对照
+			2. 冷食小吃，便餐
+			3. _n._ [meal](dic://meal), [repast](dic://repast), [collection](dic://collection), [collecting](dic://collecting), [assembling](dic://assembling), [aggregation](dic://aggregation), [comparison](dic://comparison)
+			4. **sorting**整理;**parsing**剖析;**data**资料;**dissemination**散播;**compendium**摘要,纲要;**grouping**分组，分类;
+			5. collation of ancient books /古籍整理
+			6. It would be an enormous night reception with palms and an orchestra and all the porches shrouded in canvas, and a collation that made her mouth water in anticipation. /四周的回廊全要用帆布遮起来，那各式小吃使她想一想都要流口水。
+			7. He had prepared a collation for me in the Barnwell parlor, and he too ordered his shopman to " come out of the gangway" as my sacred person passed /他在巴恩威尔客厅为我准备了一份整理，他也命令他的购物者在我神圣的人经过时" 走出巷道"
+			8. At luncheon things were better--it was always a fine meal; a thousand lunches in inns and restaurants, wagon-lits, buffets, and aeroplanes were a mighty collation to have taken together. /午餐时情况要好一些——总是一顿美餐；在旅馆和餐馆、马车灯、自助餐和飞机上吃上千顿午餐是一个强大的整理。
+			9. After you've been on the road for ten years a real Sunday dinner in a real home has got Sherry's flossiest efforts looking like a picnic collation with ants in the pie /在你出差十年之后，在真正的家中享用一次真正的星期天晚餐，雪莉 (Sherry) 最松软的努力看起来就像是在野餐时与馅饼里的蚂蚁做的整理。
+		10. collating
+	4. delate (dilate)
+		1. de-离开 + late-拿出
+		2. vt. 控告, 告发
+		3. they may delate my slackness to my patron. /他们可能向我的赞助人告发我的懒散。
 		4. delator
 		5. delation
 			1. _[delation](dic://delation)_  n. 告发，控告
 			2. _[chromosomal delation](dic://chromosomal%20delation)_ 染色体缺失
 			3. _[gene delation](dic://gene%20delation)_ 基因缺失
 			4. to accept and handle the public delation of environment events; /受理环境事件公众举报
-	6. dilatory
+	6. dilate
+		1. vasodilative
+		2. vasodilatin
+		3. vasodilatatoria
+		4. dilator
+			1. vasodilator
+			2. pylorodilator
+			3. iridodilator
+			4. cardiodilator
+			5. bronchodilator
+		5. dilatometer
+		6. dilation
+			1. vasodilation
+		7. dilatant
+		8. dilatancy
+		9. dilatable
+		10. arteriodilating
+	7. dilatory
 		1. a. 拖拉的
 		2. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
 		3. vasodilatory
@@ -3199,7 +3224,7 @@
 		9. The boss sacked a dilatory worker yesterday /昨天老板开除了一个凡事都爱拖延的人。
 		10. After a pause he added 'sir' in a dilatory, grudging way. /停了一会他才慢吞吞地、勉勉强强地加了一声" 先生" 。
 		11. At the moment there could have been nothing more natural than that Ned should dash himself from the roof in the pursuit of dilatory tradesmen /眼下，内德为了追赶拖延的商人而从屋顶上跳下来再自然不过了。
-	7. elate
+	8. elate
 		1. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
 		2. vt. 使兴高采烈, 使得意
 		3.  [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate)
@@ -3208,19 +3233,19 @@
 		6. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
 		7. He was greatly elated by success. /他因获得成功而得意洋洋。
 		8. elation, ellated
-	8. illation
+	9. illation
 		1. il-进入 + lat-拿 + -ion, 表名词
-		2. - n. 演绎；推论；推定
+		2. n. 演绎；推论；推定
 		3. Of, relating to, or of the nature of an **illation** /推论的，与推理有关的，或具有推理的性质的。
 		5. illative, 
-	9. legislate
+	10. legislate
 		1. legis-法律 + lat-放 + -e → 放出法律 → 立法。
 		2. n. 推定, 推论, 演绎
 		3. legislature
 		4. legislator
 		5. legislative
 		6. legislation
-	10. oblate (prolate)
+	11. oblate (prolate)
 		1. n. 献身于修会的俗人  a. 献身修会的, 扁圆的, 椭圆的
 		2. [pumpkin-shaped](dic://pumpkin-shaped)
 		3. _n._ [religious person](dic://religious person)
@@ -3238,7 +3263,7 @@
 			6. Thinkers and poets throughout the ages have offered the courtesan the oblation of their mercy /各个时期的思想家和诗人都把仁慈的怜悯心奉献给娼家女子。
 			7. I would proffer the most exquisite oblations of flowery banners, garlands, as well as nautch, music, scented ointments, and canopies, for veneration of all Buddhas. /以诸最胜妙华鬘，伎乐涂香及伞盖，如是最胜庄严具，我以供养诸如来。
 		11. oblateness
-	11. prelate (prelect, vi. 讲课；讲演)
+	12. prelate (prelect, vi. 讲课；讲演)
 		1. n. 高级教士
 		2. pre-,在前，早于，-lat,携带，承载，词源同 relate,translate.后用于指高级神职人员。
 		3. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [primate](dic://primate)
@@ -3250,31 +3275,31 @@
 		9. prelatical
 			1. _adj._ 高位者的,教长政治的
 		10. prelatic
-	12. prolate (oblate)
+	13. prolate (oblate)
 		1. a. 扁长的, 扩展的, 延长的
 		2. prolative
-	13. relate
+	14. relate
 		1. re-向后，往回 + lat-拿，带。即带回来，引申词系联系，相关。
 		2. re-,向后，往回，-lat,拿，带，词源同 translate,prelate.即带回来，引申词系联系，相关。
 		3. unrelated, related, interrelate, correlate
 		4. relator, relater
 		5. relative
 		6. relation
-	14. sublate
+	15. sublate
 		1. vt. 否定, 消除
 		2. **sublate capital**:  扬弃资本 
 		3. **sublate alienation**:  扬弃异化
 		4. **self-sublate**:  自我扬弃
 		5. I'll **sublate** that predestined, ominous borderline /我要扬弃那命定不祥的界线。
-	15. superlative
-		1. 1 - super-,在上，上方，-lat,携带，承载，词源同 relate,translate.用于语法格指形容词最高级形式。
+	16. superlative
+		1. super-,在上，上方，-lat,携带，承载，词源同 relate,translate.用于语法格指形容词最高级形式。
 		2. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
 		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
 		4. _adj._ [superior](dic://superior)
 		5. _n._ [inferior](dic://inferior)
 		6. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
 		7. Tech CEOs compete with each other for superlatives /各技术巨头相互竞争，力求推出最优秀的产品。
-	16. translate
+	17. translate
 		1. trans-交换 + lat-拿 + -e → 交换拿出 → 翻译。
 7. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad

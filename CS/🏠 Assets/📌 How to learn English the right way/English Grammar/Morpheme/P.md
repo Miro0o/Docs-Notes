@@ -2646,13 +2646,24 @@
 	1. pericardiac, pericardial, pericarditis, pericardium
 	2. pericarp, pericranium, periderm, perianth, periapt,
 	3. perigean, perigee, perihelion, perilune
-	4. perigon, perimeter, 
-	5. period, periodic
+	4. perigon
+	5. perimeter
+		1. _n._ [boundary](dic://boundary), [edge](dic://edge), [bound](dic://bound), [line](dic://line), [size](dic://size)
+		2. **rim**边，边缘;**guard**警戒;**fence**栅栏;**guarding**保护的;**guards**警卫;**corners**角落;**border**边界;**fences**围墙;**edges**边界;**circle**圆;**rectangle**长方形, 矩形;
+		3. _wetted perimeter_ [地]湿周
+		4. _perimeter blasting_ 光面爆破；周边爆破；巷道周边爆破法
+		5. the perimeter of a rectangle. /矩形的四边。
+		6. the perimeter of the garden /那花园的边缘。
+		7. Now that you have one of the control points, park your anti-tank soldiers in the chokepoint perimeter zone /现在，你有一个控制点，你的公园式反坦克士兵在瓶颈周边地带。
+		8. Set up a perimeter around the marina. /在码头拉起警戒线。
+		9. I wanna be able to fortify my perimeter, I want access control. /我要加固我的防线，我要有控制权。
+		10. Now if you'll excuse me, I need to secure the perimeter. /不好意思，我要去巡视周边治安了。
+	6. period, periodic
 		1. periodicity, periodical
 		2. aperiodic
-	6. periodontics, periodontal
-	7. periostitis
-	8. peripatetic
+	7. periodontics, periodontal
+	8. periostitis
+	9. peripatetic
 		1. 1 - 来自希腊语 peripatein,走动，讲学，授课，来自 peri-,在周围，-pat,走动，词源同 path,foot.该词原用于形容古希腊哲学家亚里士多德给弟子讲课时，喜欢边走边讲，后引申词义巡回工作的，流动的等。
 		2. _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
 		3. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
