@@ -1449,13 +1449,13 @@ caliber, calibre
 	- 
 	- calipers
 	- caliper
+- calibrate (collate)
+	- **adjust**校准;**monitor**监视器，监听器，监控器，班长;**calculate**计算;**detect**发现;**quantify**量化;**assess**评定;**accurately**准确地;**gauges**计量表，仪表;**analyze**对…进行分析，分解;**evaluate**评价;**measurement**测量，测量法;
+	- [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [tag](dic://tag), [label](dic://label), [mark](dic://mark), [measure](dic://measure)
 - calibrator
 - calibration
 	- **measurement**测量，测量法;**adjustment**调整;**correction**改〔纠〕正;**spectrometer**分光计, 分光仪;**sampling**抽样;**calculation**计算;**sensor**传感器;**interpolation**窜改;**initialization**设定初值,初始化;**diagnostics**诊断学;**estimation**估计, 评价, 判断;
 	- intercalibration
-- calibrate
-	- **adjust**校准;**monitor**监视器，监听器，监控器，班长;**calculate**计算;**detect**发现;**quantify**量化;**assess**评定;**accurately**准确地;**gauges**计量表，仪表;**analyze**对…进行分析，分解;**evaluate**评价;**measurement**测量，测量法;
-	- [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [tag](dic://tag), [label](dic://label), [mark](dic://mark), [measure](dic://measure)
 
 call
 - call for

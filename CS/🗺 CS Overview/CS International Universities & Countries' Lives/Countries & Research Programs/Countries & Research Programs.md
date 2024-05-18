@@ -396,7 +396,7 @@ https://eecs.berkeley.edu/academics/graduate/
 		5. Experience in programming, algorithms, data structures, and theory at or above the undergraduate level.
 	4. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
 2. Research-Oriented Degree Programs
-#### 👉 University of California, S
+#### 👉 University of California, San Diego
 #### 👉 Purdue University
 ##### Cybersecurity and Trusted Systems /Masters
 https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology

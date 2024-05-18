@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Software Vulnerability](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Software%20Vulnerability.md)
-- ↗ [Vulnerability Databases](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/📌%20Vulnerability%20Databases/Vulnerability%20Databases.md)
+- ↗ [Vulnerability Databases & Sources](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/📌%20Vulnerability%20Databases%20&%20Sources/Vulnerability%20Databases%20&%20Sources.md)
 
 
 
