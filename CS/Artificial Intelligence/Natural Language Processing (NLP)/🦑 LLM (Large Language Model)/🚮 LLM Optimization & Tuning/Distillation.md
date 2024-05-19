@@ -1,13 +1,12 @@
-# EndNote
+# Distillation
 
 [TOC]
 
 
 
 ## Res
-🏠 https://endnote.com
+🏠 
 🚧 
-
 
 
 ### Related Topics

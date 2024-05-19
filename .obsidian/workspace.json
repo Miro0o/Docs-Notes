@@ -13,67 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL/bpython.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1120655e77ad72ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking/LLM Lists & Ranking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44878f1a0da168ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability/📌 Vulnerability Databases & Sources/Vulnerability Databases & Sources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "814ae0ceb2813558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/docs/申报书2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda471961daa1b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -140,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md"
+                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md"
               }
             }
           },
@@ -209,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,13 +171,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dda471961daa1b78",
+  "active": "207180f9d0c3ab99",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "Assets/docs/申报书2.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL/bpython.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking/LLM Lists & Ranking.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability/📌 Vulnerability Databases & Sources/Vulnerability Databases & Sources.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/Bib-Management.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Pre-Training/Pre-Training.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Academics Productivity.md",
+    "CS/Academics/Academics.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/EndNote.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/mendeley.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/Zotero.md",
+    "Assets/docs/2024信安赛作品申报书.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Distillation.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Agent/LLM Agent.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Pre-Training",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Fine Tuning",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Office Softwares/Microsoft Office Suites (Word, PowerPoint, Excel).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Listening/News report/NBC/Meet the press/2024/2024.5.19.md",
+    "Assets/Pics/Screenshot 2024-05-18 at 8.14.21 PM.png",
+    "Assets/Pics/Pasted image 20240518195546.png",
+    "Assets/Pics/Pasted image 20240518193338.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/NAS (Network-Attached Storage) Protocols/SMB (Server Message Block) & CIFS/NetBIOS (Network Basic Input_Output System).md",
+    "Assets/Pics/Pasted image 20240518192642.png",
+    "Assets/Pics/Pasted image 20240518192124.png",
+    "Assets/Pics/Screenshot 2024-05-18 at 7.18.34 PM.png",
+    "Assets/Pics/Screenshot 2024-05-18 at 7.14.52 PM.png",
+    "Assets/Pics/Screenshot 2024-05-18 at 7.14.24 PM.png",
+    "Assets/Pics/Screenshot 2024-05-18 at 7.14.07 PM.png",
+    "Assets/Pics/Screenshot 2024-05-18 at 7.13.47 PM.png",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
     "Assets/Pics/申报书2.md",
     "Assets/docs",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability/📌 Vulnerability Databases & Sources/OSV (Open Source Vulnerability).md",
@@ -238,40 +213,12 @@
     "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities/Vulnerabilities.md",
     "CS/CyberSecurity/⛈️ Risk Management/Risk Management Life Circle/Risk Assessment.md",
     "CS/CyberSecurity/⛈️ Risk Management/Risk Management.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/OpenSSF (Open Source Security Foundation)/OpenSSF (Open Source Security Foundation).md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/OpenSSF (Open Source Security Foundation)",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/NodeJS Managers/Package Mangers/Yarn.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/NodeJS Managers/Package Mangers/PnPm.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/NodeJS Managers/Package Mangers/NPM (Node Package Manager).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Software Analysis/Malicious Code Detection - A Survey.md",
-    "CS/Software Engineering/🧩 Graphics Rendering Frameworks/Vulkan Project/Vulkan Project.md",
-    "CS/Software Engineering/🤖 AI x SE/AI & Gaming/AI & Gaming.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Games.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Game Hosts.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Games on Apple & macOS.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/📌 Graphic Game Engines & Game Dev/Graphic Game Engines & Game Dev.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/Video Games.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/AOE (Age of Empire).md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/FIFA & FC.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games/Horizon.md",
     "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Software Industry & Providers/Gaming Companies",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/4399",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL",
-    "Assets/Pics/Pasted image 20240512212009.png",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking",
-    "Assets/Pics/Pasted image 20240512204130.png",
-    "CS/🔑 CS Core/🍕 Database System/DBMS (DataBase Management System) Implementations/Vector Database",
-    "CS/🔑 CS Core/🍕 Database System/DBMS (DataBase Management System) Implementations/🏋️ Database Engines & Search Engines/📲 Embedding Database",
-    "Assets/Pics/Pasted image 20240512191110.png",
-    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related",
-    "Assets/Pics/Pasted image 20240512151446.png",
-    "Assets/Pics/Pasted image 20240512151441.png",
-    "Assets/Pics/Pasted image 20240510154638.png",
-    "Assets/Pics/Pasted image 20240510154631.png",
-    "Assets/Pics/Pasted image 20240510154621.png",
-    "Assets/Pics/Pasted image 20240510154609.png",
-    "Assets/Pics/Pasted image 20240510154559.png",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

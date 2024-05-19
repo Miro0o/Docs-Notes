@@ -1,13 +1,12 @@
-# EndNote
+# Pre-Training
 
 [TOC]
 
 
 
 ## Res
-🏠 https://endnote.com
+🏠 
 🚧 
-
 
 
 ### Related Topics

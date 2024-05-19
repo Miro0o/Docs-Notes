@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Academics Productivity](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Academics%20Productivity.md)
+↗ [Bib-Management](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🎓%20Academics%20Productivity/Bib-Management/Bib-Management.md)
 
 
 ### How-to

@@ -14,7 +14,7 @@
 ↗ [DBMS (DataBase Management System) Implementations](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/DBMS%20(DataBase%20Management%20System)%20Implementations.md)
 - ↗ [Vector Database](../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/Vector%20Database/Vector%20Database.md)
 
-↗ [Prompt Engineering](../🚮%20Prompt%20Engineering/Prompt%20Engineering.md)
+↗ [Prompt Engineering](../🚮%20LLM%20Optimization%20&%20Tuning/Prompt%20Engineering/Prompt%20Engineering.md)
 
 
 ### Related Projects

@@ -1,13 +1,12 @@
-# EndNote
+# mendeley
 
 [TOC]
 
 
 
 ## Res
-🏠 https://endnote.com
+🏠 
 🚧 
-
 
 
 ### Related Topics
