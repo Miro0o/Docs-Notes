@@ -36,7 +36,7 @@ Paste the IP address you want to check in the field below and get its scan resul
 
 Once a tester has identified the targets that have an online presence and contain items of interest, the next step is to identify the IP addresses and routes to the target.
 
-DNS reconnaissance is concerned with identifying who owns a particular domain or series of IP addresses (the sort of information gained with whois although this has been completely changed with the General Data Protection Regulation (GDPR) enforcement across Europe from May 2018), the DNS information defining the actual domain names and IP addresses assigned to the target and the route between the penetration tester or the attacker and the final target.
+DNS reconnaissance is concerned with identifying who owns a particular domain or series of IP addresses (the sort of information gained with whois although this has been completely changed with the **General Data Protection Regulation (GDPR)** enforcement across Europe from May 2018), the DNS information defining the actual domain names and IP addresses assigned to the target and the route between the penetration tester or the attacker and the final target.
 
 This information gathering is semi-active—some of the information is available from freely available open sources such as DNSstuff.com, while other information is available from third parties such as DNS registrars. Although the registrar may collect IP addresses and data concerning requests made by the attacker, it is rarely provided to the end target. The information that could be directly monitored by the target, such as DNS server logs, is almost never reviewed or retained.
 

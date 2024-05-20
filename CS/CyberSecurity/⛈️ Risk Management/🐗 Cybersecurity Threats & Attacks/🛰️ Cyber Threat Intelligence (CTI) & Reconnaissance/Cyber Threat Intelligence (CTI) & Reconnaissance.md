@@ -20,7 +20,7 @@
 ↗ [Security Operation Center (SOC)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Operation%20Center%20(SOC)/Security%20Operation%20Center%20(SOC).md)
 
 
-### Other Resource
+### Projects / Data Sources
 🔥 👍 https://github.com/hslatman/awesome-threat-intelligence/tree/main
 awesome-threat-intelligence
 A curated list of awesome Threat Intelligence resources
@@ -40,6 +40,9 @@ Security lists for SOC detections
 
 https://intelx.io/tools?tab=telegram
 IntelligenceX  Telegram
+
+https://www.secrss.com/articles?author=奇安信威胁情报中心
+奇安信威胁情报中心
 
 
 ### Cyber Threat Intelligence Platforms (TPI)

@@ -57,7 +57,7 @@ Here, we simply replaced the square of the weights by the sum of the absolute va
 
 
 ### 4️⃣ (Data) Dimensionality Reduction
-↗ [Dimensionality Reduction (Data Compression)](../../../../📌%20Statistical%20Learning%20Theory/🗿%20Statistical%20Machine%20Learning%20Methods/Unsupervised%20Learning/Dimensionality%20Reduction%20(Data%20Compression)/Dimensionality%20Reduction%20(Data%20Compression).md)
+↗ [Dimensionality Reduction (Data Compression)](../../../../📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Unsupervised%20Learning/Dimensionality%20Reduction%20(Data%20Compression)/Dimensionality%20Reduction%20(Data%20Compression).md)
 
 An alternative way to reduce the complexity of the model and avoid overfitting is dimensionality reduction via feature selection, which is especially useful for un-regularized models. There are two main categories of dimensionality reduction techniques: **feature selection** and **feature extraction**. Via feature selection, we select a subset of the original features, whereas in feature extraction, we derive information from the feature set to construct a new feature subspace.
 
