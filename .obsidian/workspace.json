@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "207180f9d0c3ab99",
+            "id": "fe22662ef6337370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "977cd195124967f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Architectures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Web3 & Cryptocurrency/Web3/NFT.md"
+                "file": "CS/CyberSecurity/CyberSecurity.md"
               }
             }
           },
@@ -155,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,54 +183,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "207180f9d0c3ab99",
+  "active": "fe22662ef6337370",
   "lastOpenFiles": [
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Basics & InfoSec.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/Cybersecurity Architectures.md",
+    "Assets/Pics/Pasted Image 20240520152222_971.png",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
+    "Assets/Pics/Screenshot 2024-05-20 at 1.46.37 PM.png",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/RLHF (Reinforcement learning from Human Feedback).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability/📌 Vulnerability Databases & Sources/Exploit Database & Google Hacking & GHDB.md",
+    "Assets/Pics/Pasted image 20240520132257.png",
+    "Assets/Pics/Pasted image 20240520132243.png",
+    "Assets/Pics/Pasted image 20240520132208.png",
+    "CS/Artificial Intelligence/Robotics/AutoDriving/AutoDriving.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/Theoretical Foundation of RL/Theoretical Foundation of RL.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/AI Basics & Machine Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Types of Classic ML Tasks & Statistical Machine Learning Methods.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/Statistical Learning Theory.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/Reinforcement Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/⭐️ RL Algorithms/Dynamic Programming.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/⭐️ RL Algorithms/Temporal Difference Learning.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/⭐️ RL Algorithms/RL Algorithms.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/⭐️ RL Algorithms/Monte Carlo.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/ML.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Active Recon/DNS & Domain Reconnaissance.md",
+    "CS/🏠 Assets/How to make money the quick way.md",
+    "CS/🏠 Assets/How to keep a heathy life the right way.md",
+    "CS/Web3 & Cryptocurrency/Web3/NFT.md",
+    "CS/🏠 Assets/How to keep a heathy life the right way",
     "CS/Web3 & Cryptocurrency/Web3 & Cryptocurrency.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL/bpython.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking/LLM Lists & Ranking.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability/📌 Vulnerability Databases & Sources/Vulnerability Databases & Sources.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/Bib-Management.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Pre-Training/Pre-Training.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Academics Productivity.md",
-    "CS/Academics/Academics.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/EndNote.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/mendeley.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🎓 Academics Productivity/Bib-Management/Zotero.md",
-    "Assets/docs/2024信安赛作品申报书.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Distillation.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Agent/LLM Agent.md",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Pre-Training",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/Fine Tuning",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Office Softwares/Microsoft Office Suites (Word, PowerPoint, Excel).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Listening/News report/NBC/Meet the press/2024/2024.5.19.md",
     "Assets/Pics/Screenshot 2024-05-18 at 8.14.21 PM.png",
     "Assets/Pics/Pasted image 20240518195546.png",
     "Assets/Pics/Pasted image 20240518193338.png",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/NAS (Network-Attached Storage) Protocols/SMB (Server Message Block) & CIFS/NetBIOS (Network Basic Input_Output System).md",
     "Assets/Pics/Pasted image 20240518192642.png",
     "Assets/Pics/Pasted image 20240518192124.png",
-    "Assets/Pics/Screenshot 2024-05-18 at 7.18.34 PM.png",
-    "Assets/Pics/Screenshot 2024-05-18 at 7.14.52 PM.png",
-    "Assets/Pics/Screenshot 2024-05-18 at 7.14.24 PM.png",
-    "Assets/Pics/Screenshot 2024-05-18 at 7.14.07 PM.png",
-    "Assets/Pics/Screenshot 2024-05-18 at 7.13.47 PM.png",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "Assets/Pics/申报书2.md",
     "Assets/docs",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability/📌 Vulnerability Databases & Sources/OSV (Open Source Vulnerability).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability/Software Vulnerability.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities/Vulnerabilities.md",
-    "CS/CyberSecurity/⛈️ Risk Management/Risk Management Life Circle/Risk Assessment.md",
-    "CS/CyberSecurity/⛈️ Risk Management/Risk Management.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/OpenSSF (Open Source Security Foundation)",
     "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Software Industry & Providers/Gaming Companies",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/4399",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🚀 Life Productivity/🕹️ Games/Video Games",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python REPL",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/📌 LLM Lists & Ranking",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

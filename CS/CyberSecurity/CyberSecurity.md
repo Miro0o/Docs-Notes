@@ -107,6 +107,15 @@ https://wiki.wgpsec.org
 狼组安全团队公开知识库
 致力于打造信息安全乌托邦
 
+---
+📄 注册信息安全专业人员知识体系大纲（**CISE/CISO**）
+版本：4.2
+生效日期：2019 年3 月1 日
+
+本大纲从我国国情出发，结合我国网络基础设施和重要信息系统安全保障的实际需求，以知识体系的全面性和实用性为原则，涵盖了CISP 中的CISE、CISO两类注册人员和CISM 需要掌握的知识要点，是CISM 和CISE/CISO 教材编制、讲师授课、学员学习以及考试命题的重要依据。
+
+![|400](../../Assets/Pics/Screenshot%202024-05-20%20at%201.46.37%20PM.png)
+
 
 ### Info & Res & News
 > ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
@@ -164,12 +173,6 @@ https://thehackernews.com
 
 
 ---
-**中国信息安全测评中心**
-http://www.itsec.gov.cn
-- [注册信息安全专业人员（CISP）](https://www.nisphome.cn/article-detail?id=143)
-	- 注册信息安全专业人员，英文名称 Certified Information Security Professional，简称 CISP，是面向信息安全企业、信息安全咨询服务机构、信息安全测评机构、政府机构、社会各组织、团体、大专院校以及企事业单位中负责信息系统建设、运行维护和管理工作的信息安全专业人员所颁发的专业资质证书。是中国信息安全测评中心为满足社会各界对于专业安全人员的迫切需求，建立和发展的一套信息安全保障人才体系战略，从 2002 年开始启动了CISP资质。
-
----
 **CSAW**
 🏠 https://www.csaw.io
 
@@ -215,24 +218,6 @@ https://www.52pojie.cn
 https://xz.aliyun.com
 
 
-### Certificates
----
-ISC2 /CISSP Certificate
-https://www.isc2china.org/
-https://www.isc2.org
-
-ISC2 serves to **educate**, **empower, embrace and engage** our members through every step of their careers.
-
-ISC2(国际信息系统安全认证联盟) 成立于1989年，是**全球网络、信息、软件与基础设施安全认证会员制非营利组织**，是为信息安全专业人士职业生涯提供教育及认证服务的全球领导者。总部位于美国，区域办公室设在伦敦、香港及北京（授权中国代理办事处）。ISC2以其一流的信息安全人才教育与培养计划，以及 “**金牌标准**” 安全认证而享誉全球。
-
----
-OSCP 
-CompTIA A+ /CompTIA Security+
-CSX
-CISA
-CISM
-
-
 ### Security Institutions & Companies & Organizations
 vupen
 NSO
@@ -256,6 +241,7 @@ http://www.china-cia.org.cn
 
 ## Intro
 ### What is Information & Information Systems?
+#### Basics of Information
 ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
 
 信息的性质
@@ -275,7 +261,14 @@ http://www.china-cia.org.cn
 
 信息系统工作流程
 ![](../../../Assets/Pics/Screenshot%202023-11-01%20at%209.02.11PM.png)
+#### 4 Layers in Information Systems
+![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.51.19AM.png)
 
+
+### What is Information (System) Security?
+↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+
+![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
 
 ### What is Cyberspace?
 ![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.42.17AM.png)
@@ -284,8 +277,13 @@ http://www.china-cia.org.cn
 
 
 ### What is Cybersecurity?
-> 网络空间安全：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。
-> 信息安全：重点在信息资源本身的保护。 ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+> 网络空间安全：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。与信息安全以数据保护为中心不同，网络空间安全强调数据+人（社会组织）两个核心资产的保护。与这些核心资产相关的资产，如信息系统软硬件，社会舆论，国家领土完整性等，也自然而然地囊括进来。
+> 
+> 信息安全：重点在信息资源本身的保护。当然也涉及支持信息资源的信息系统的保护，但是对系统的保护的目的也是从保护信息资源本身出发的。 ↗ [Cybersecurity Basics & InfoSec/ Objectives of InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+
+> 🔗 [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
+
+![risk_management_and_software_security.excalidraw | 1000](../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 
 (4+2+4)
 网络空间安全涉及到在网络空间中**电磁设备**、**信息通信系统**、**运行数据**、**系统应用**中所存在的安全问题，**既要防止、保护**包括互联网、各种电信网与通信系统、各种传播系统与广电网、各种计算机系统、各类关键工业设施中的嵌入式处理器和控制器等在内的信息通信技术系统及其所承载的数据免受攻击；**也要防止、应对**运用或滥用这些信息通信技术系统而波及到政治安全、经济安全、文化安全、社会安全、国防安全等情况的发生。针对上述风险，需要采取**法律**、**管理**、**技术**、**自律**等综合手段来进行应对，确保信息通信技术系统及其所承载数据的**机密性**、**可鉴别性（包括完整性、真实性、不可抵赖性）**、**可用性**、**可控性**得到保障。
@@ -303,14 +301,6 @@ http://www.china-cia.org.cn
 - 组织管理问题——人+技术系统+组织内部环境
 - 社会问题——法制、舆论
 - 国家安全问题——信息战、网络虚拟空间
-#### 4 Layers in Information Systems & Cybersecurity
-![](../../../Assets/Pics/Screenshot%202023-10-08%20at%208.51.19AM.png)
-#### Information Security & CIA Triad
-↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
-
-![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
-#### Computer /Information /Cyber Security & Risk Management
-![risk_management_and_software_security.excalidraw | 1000](../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 
 
 ### Why is Cybersecurity?
@@ -325,16 +315,120 @@ Security issues sources:
 
 
 
-## Cybersecurity Basics
+## ✨ Cybersecurity Basics
 ↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 ↗ [History of Information Systems & Security Systems](History%20of%20Information%20Systems%20&%20Security%20Systems.md)
+
+↗ [Security Industry & Companies](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
+
+↗ [Information Assurance (IA)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
+↗ [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
 
 ↗ [Risk Management](⛈️%20Risk%20Management/Risk%20Management.md)
 - ↗ [Cybersecurity Threats & Attacks](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 - ↗ [Risk Countermeasures & Security Control](⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
 
-↗ [Information Assurance (IA)](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Information%20Assurance%20(IA).md)
-↗ [Cybersecurity Architectures](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Architectures.md)
+
+
+## Security Training /Qualification / Certificates
+### CNCERT | 中国信息安全测评中心
+🏠 http://www.itsec.gov.cn
+🔍 http://www.itsec.gov.cn/ryzc/
+
+[注册信息安全专业人员（CISP）](https://www.nisphome.cn/article-detail?id=143)
+- 注册信息安全专业人员，英文名称 Certified Information Security Professional，简称 CISP，是面向信息安全企业、信息安全咨询服务机构、信息安全测评机构、政府机构、社会各组织、团体、大专院校以及企事业单位中负责信息系统建设、运行维护和管理工作的信息安全专业人员所颁发的专业资质证书。是中国信息安全测评中心为满足社会各界对于专业安全人员的迫切需求，建立和发展的一套信息安全保障人才体系战略，从 2002 年开始启动了CISP资质。
+
+- NISP | 国家信息安全水平考试
+- CISP | 国家注册信息安全专业人员
+	- CISD | 国家注册信息安全开发人员
+	- CISE | 国家注册信息安全工程师
+	- CISO | 国家注册信息安全管理员
+	- CISM | 国家注册信息安全员
+	- CISP-A ｜ 国家注册信息安全审计师
+	- CISP-DSG ｜ 安全治理 
+	- CISP-PTE/PTS ｜ 渗透
+	- CISP-IRE/IRS ｜ 安全响应
+- CCSC
+
+
+### ITSTEC | 信息产业信息安全测评中心
+🏠 http://www.itstec.org.cn
+
+- NSATP
+- NSATP-A
+- NSATP-D
+
+
+### $(ISC)^2$
+🏠 https://www.isc2china.org/
+🏠 https://www.isc2.org
+
+> ISC2 serves to **educate**, **empower, embrace and engage** our members through every step of their careers.
+> 
+> ISC2(国际信息系统安全认证联盟) 成立于1989年，是**全球网络、信息、软件与基础设施安全认证会员制非营利组织**，是为信息安全专业人士职业生涯提供教育及认证服务的全球领导者。总部位于美国，区域办公室设在伦敦、香港及北京（授权中国代理办事处）。ISC2以其一流的信息安全人才教育与培养计划，以及 “**金牌标准**” 安全认证而享誉全球。
+
+- CCSP | 云安全专家认证
+- CISSP | 国际注册信息系统安全专家
+
+
+### OFFSEC
+🏠 https://www.offsec.com/
+
+- OSCP | 国际注册渗透测试认证
+- OSEP | 高级渗透测试专家认证
+- OSWE | 高级Web渗透测试专家认证
+
+### EXIN
+- DSOM
+- DPO
+- ISO
+- DevOps Foundation /Professional /Master
+- PDPF /PDPP
+- ISO27001 Foundation /Professional
+
+
+### ISACA (Information Systems Audit and Control Association)
+- CSX
+- CISA
+- CDPSE
+- CRISC
+- CISM
+- CGEIT
+- COBIT5.0
+
+
+### CompTIA (Computing Technology Industry Association)
+- A+
+- Security+
+
+
+### CSA (Cloud Security Association)
+🏠 https://cloudsecurityalliance.org
+
+- C-CCSK
+- CZTP
+- CDSP
+- CBP
+- CCSSP
+
+
+### IAPP (International Association of Privacy Professionals)
+- 注册信息隐私经理 /注册信息隐私技术专家 /注册信息隐私专家
+
+
+### APMG (APM Group, Association for Project Management)
+- ISO27001 Auditor | ISO27001 审核员
+- ISO27001 Foundation | 信息安全管理体系认证
+
+
+### PeopleCert
+- PRINCE2
+- ITIL4 Foundation
+- ITIL4MP
+	- CDS
+	- DSV
+	- HVIT
+	- DPI
 
 
 
@@ -402,3 +496,9 @@ Lots of links & resources related to cybersecurity
 只有tow市场才是安全正统，只有这里会养一些纯粹的安全研究人员，但是人数需求不会太大，毕竟外包人员是一个既好用又不担责的伟大发明
 
 当然这只是在说合法的那部分，如果是非法的部分那只能说是相当的赚钱。
+
+[网络安全人员需要考的几本证书（含金量高），建议收藏 | CSDN]: http://t.csdnimg.cn/oZe3k
+
+[安全牛课堂 | 网安人必备的四大攻防资质]: https://www.aqniu.com/industry/82486.html
+
+[👍 网安人考证盘点 - 这些高质量的资质证书，你pick了哪几个？ | 看雪学苑]: https://bbs.kanxue.com/article-20000.htm

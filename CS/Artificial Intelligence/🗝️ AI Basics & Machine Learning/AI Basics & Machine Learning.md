@@ -5,6 +5,16 @@
 
 
 ## Res
+### Related Topics
+↗️ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+↗ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+
+↗️ [Possibilities & Statistics](../🔑 CS_Core/🧮 Math for CS/Possibilities & Statistics/Possibilities & Statistics.md) 
+↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
+↗️ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
+↗️ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
+
+
 ### Learning Resource
 🎬【00 预告【动手学深度学习v2】】 https://www.bilibili.com/video/BV1if4y147hS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
@@ -22,16 +32,6 @@ Python Machine Learning, 3rd Ed. to be published December 12th, 2019
 
 👍 👨‍💻 https://fullstackdeeplearning.com
 News, community, and courses for people building AI-powered products.
-
-
-
-↗️ [AI Basics & Machine Learning](🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)
-↗️ [Deep Learning (Neural Networks)](🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
-
-↗️ [Possibilities & Statistics](../🔑 CS_Core/🧮 Math for CS/Possibilities & Statistics/Possibilities & Statistics.md) 
-↗️ [Linear Algebra](../🔑 CS_Core/🧮 Math for CS/🧊 Algebra/Linear Algebra/Linear Algebra.md) 
-↗️ [Statistical Learning Theory](📌%20Statistical%20Learning%20Theory/Statistical%20Learning%20Theory.md)
-↗️ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 
 ### Keras Resources
@@ -52,15 +52,9 @@ News, community, and courses for people building AI-powered products.
 ## 🌄 Overview
 ### Machine Learning System
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.50.14%20PM.png)
-
 #### Neuron's Structure
-
-
 #### Activation Function
-
-
 #### Loss Function
-
 
 
 ### Roles in ML
@@ -74,9 +68,35 @@ News, community, and courses for people building AI-powered products.
 
 
 ### Types of Machine Learning Models
-![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.19.21%20PM.png)
+![](../../Assets/Pics/Screenshot%202023-01-28%20at%208.19.21%20PM.png)
 
-More specific contents follow ↗️ [ML Learning Models](ML Learning Models/ML Learning Models.md).
+More specific contents follow ↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md) and ↗ [Neural Network Models](📌%20Deep%20Learning%20(Neural%20Network)/🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)
+
+
+
+## Types of Machine Learning Problems
+![Screenshot 2023-01-28 at 12.26.51 PM](../../../../../Assets/Pics/Screenshot%202023-01-28%20at%2012.26.51%20PM.png)
+
+↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
+
+
+### 1️⃣ Supervised Learning
+↗️ [Supervised Learning](Supervised Learning/Supervised Learning.md)
+
+
+### 2️⃣ Semi-supervised learning
+#### Self-training
+
+#### GAN
+generating fake data with trivial label from unlabeled data.
+
+
+### 3️⃣ Reinforcement learning
+↗ [Reinforcement Learning](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Reinforcement%20Learning/Reinforcement%20Learning.md)
+
+
+### 4️⃣ Unsupervised learning
+↗ [Unsupervised Learning](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Unsupervised%20Learning/Unsupervised%20Learning.md)
 
 
 
@@ -84,6 +104,8 @@ More specific contents follow ↗️ [ML Learning Models](ML Learning Models/ML 
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.07.44%20PM.png)
 
 ![](../../../../Assets/Pics/Screenshot%202023-01-28%20at%208.08.33%20PM.png)
+
+↗ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 
 ### 0️⃣ Problem Formulation
@@ -95,7 +117,7 @@ More specific contents follow ↗️ [ML Learning Models](ML Learning Models/ML 
 
 
 ### 2️⃣ Model Selection
-↗ [Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Statistical%20Machine%20Learning%20Methods/Statistical%20Machine%20Learning%20Methods.md)
+↗ [Types of Classic ML Tasks & Statistical Machine Learning Methods](📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods.md)
 ↗ [Deep Learning (Neural Networks)](📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 
 

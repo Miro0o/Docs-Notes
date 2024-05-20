@@ -1,10 +1,11 @@
-# Statistical Machine Learning Methods
+# Types of Classic ML Tasks & Statistical Machine Learning Methods
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
 ↗ [Deep Learning (Neural Networks)](../../📌%20Deep%20Learning%20(Neural%20Network)/Deep%20Learning%20(Neural%20Networks).md)
 ↗ [Statistical Learning Theory](../Statistical%20Learning%20Theory.md)
 
