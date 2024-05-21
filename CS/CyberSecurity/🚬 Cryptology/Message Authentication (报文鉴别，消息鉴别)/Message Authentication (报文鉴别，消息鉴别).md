@@ -38,7 +38,7 @@ Recall the objective of cryptology:
 
 
 ### 2️⃣ Asymmetric Key Based Message Authentication
-↗ [Asymmetric Cipher](🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher/Asymmetric%20Cipher.md)
+↗ [Asymmetric Cipher (Public-Key Cryptography)](../🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
 
 
 ### 3️⃣ Message Digest (Hash Function) Based Message Authentication

@@ -9,6 +9,7 @@ var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __defNormalProp = (obj, key2, value) => key2 in obj ? __defProp(obj, key2, { enumerable: true, configurable: true, writable: true, value }) : obj[key2] = value;
 var __esm = (fn, res) => function __init() {
   return fn && (res = (0, fn[__getOwnPropNames(fn)[0]])(fn = 0)), res;
 };
@@ -36,6 +37,10 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+var __publicField = (obj, key2, value) => {
+  __defNormalProp(obj, typeof key2 !== "symbol" ? key2 + "" : key2, value);
+  return value;
+};
 
 // node_modules/.pnpm/base64-js@1.5.1/node_modules/base64-js/index.js
 var require_base64_js = __commonJS({
@@ -673,7 +678,7 @@ var require_buffer = __commonJS({
       return slowToString.apply(this, arguments);
     };
     Buffer2.prototype.toLocaleString = Buffer2.prototype.toString;
-    Buffer2.prototype.equals = function equals2(b) {
+    Buffer2.prototype.equals = function equals3(b) {
       if (!Buffer2.isBuffer(b))
         throw new TypeError("Argument must be a Buffer");
       if (this === b)
@@ -1934,9 +1939,9 @@ var init_polyfill_buffer = __esm({
   }
 });
 
-// node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/lib/index.js
+// node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/lib/index.js
 var require_lib = __commonJS({
-  "node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/lib/index.js"(exports2, module2) {
+  "node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/lib/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var AsyncLock2 = function(opts) {
@@ -2073,12 +2078,13 @@ var require_lib = __commonJS({
       if (self2.domainReentrant && !!process.domain) {
         exec = process.domain.bind(exec);
       }
+      var maxPending = opts.maxPending || self2.maxPending;
       if (!self2.queues[key2]) {
         self2.queues[key2] = [];
         exec(true);
       } else if (self2.domainReentrant && !!process.domain && process.domain === self2.domains[key2]) {
         exec(false);
-      } else if (self2.queues[key2].length >= self2.maxPending) {
+      } else if (self2.queues[key2].length >= maxPending) {
         done(false, new Error("Too many pending tasks in queue " + key2));
       } else {
         var taskFn = function() {
@@ -2159,9 +2165,9 @@ var require_lib = __commonJS({
   }
 });
 
-// node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/index.js
+// node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/index.js
 var require_async_lock = __commonJS({
-  "node_modules/.pnpm/async-lock@1.4.0/node_modules/async-lock/index.js"(exports2, module2) {
+  "node_modules/.pnpm/async-lock@1.4.1/node_modules/async-lock/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     module2.exports = require_lib();
@@ -6795,9 +6801,9 @@ var require_pify = __commonJS({
   }
 });
 
-// node_modules/.pnpm/ignore@5.2.4/node_modules/ignore/index.js
+// node_modules/.pnpm/ignore@5.3.1/node_modules/ignore/index.js
 var require_ignore = __commonJS({
-  "node_modules/.pnpm/ignore@5.2.4/node_modules/ignore/index.js"(exports2, module2) {
+  "node_modules/.pnpm/ignore@5.3.1/node_modules/ignore/index.js"(exports2, module2) {
     init_polyfill_buffer();
     function makeArray(subject) {
       return Array.isArray(subject) ? subject : [subject];
@@ -6829,6 +6835,13 @@ var require_ignore = __commonJS({
       return slashes.slice(0, length - length % 2);
     };
     var REPLACERS = [
+      [
+        // remove BOM
+        // TODO:
+        // Other similar zero-width characters?
+        /^\uFEFF/,
+        () => EMPTY
+      ],
       // > Trailing spaces are ignored unless they are quoted with backslash ("\")
       [
         // (a\ ) -> (a )
@@ -7339,14 +7352,14 @@ var require_diff3 = __commonJS({
     init_polyfill_buffer();
     var onp = require_onp();
     function longestCommonSubsequence(file1, file2) {
-      var diff2 = new onp(file1, file2);
-      diff2.compose();
-      var ses = diff2.getses();
+      var diff3 = new onp(file1, file2);
+      diff3.compose();
+      var ses = diff3.getses();
       var root2;
       var prev;
       var file1RevIdx = file1.length - 1, file2RevIdx = file2.length - 1;
       for (var i = ses.length - 1; i >= 0; --i) {
-        if (ses[i].t === diff2.SES_COMMON) {
+        if (ses[i].t === diff3.SES_COMMON) {
           if (prev) {
             prev.chain = {
               file1index: file1RevIdx,
@@ -7364,9 +7377,9 @@ var require_diff3 = __commonJS({
           }
           file1RevIdx--;
           file2RevIdx--;
-        } else if (ses[i].t === diff2.SES_DELETE) {
+        } else if (ses[i].t === diff3.SES_DELETE) {
           file1RevIdx--;
-        } else if (ses[i].t === diff2.SES_ADD) {
+        } else if (ses[i].t === diff3.SES_ADD) {
           file2RevIdx--;
         }
       }
@@ -7656,9 +7669,9 @@ var require_ms = __commonJS({
   }
 });
 
-// node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/common.js
+// node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/common.js
 var require_common2 = __commonJS({
-  "node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/common.js"(exports2, module2) {
+  "node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/common.js"(exports2, module2) {
     init_polyfill_buffer();
     function setup(env) {
       createDebug.debug = createDebug;
@@ -7820,16 +7833,16 @@ var require_common2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/browser.js
+// node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/browser.js
 var require_browser = __commonJS({
-  "node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/browser.js"(exports2, module2) {
+  "node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/browser.js"(exports2, module2) {
     init_polyfill_buffer();
     exports2.formatArgs = formatArgs;
     exports2.save = save;
     exports2.load = load;
     exports2.useColors = useColors;
     exports2.storage = localstorage();
-    exports2.destroy = (() => {
+    exports2.destroy = /* @__PURE__ */ (() => {
       let warned = false;
       return () => {
         if (!warned) {
@@ -7990,9 +8003,9 @@ var require_browser = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/src/index.js
+// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/src/index.js
 var require_src = __commonJS({
-  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/src/index.js"(exports2) {
+  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/src/index.js"(exports2) {
     "use strict";
     init_polyfill_buffer();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
@@ -8035,9 +8048,9 @@ var require_src = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/index.js
+// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/index.js
 var require_dist = __commonJS({
-  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/index.js"(exports2) {
+  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/index.js"(exports2) {
     "use strict";
     init_polyfill_buffer();
     function __export3(m) {
@@ -8754,15 +8767,15 @@ var require_implementation = __commonJS({
         }
       };
       keysShim = function keys(object) {
-        var isObject = object !== null && typeof object === "object";
-        var isFunction = toStr.call(object) === "[object Function]";
+        var isObject2 = object !== null && typeof object === "object";
+        var isFunction2 = toStr.call(object) === "[object Function]";
         var isArguments = isArgs(object);
-        var isString = isObject && toStr.call(object) === "[object String]";
+        var isString = isObject2 && toStr.call(object) === "[object String]";
         var theKeys = [];
-        if (!isObject && !isFunction && !isArguments) {
+        if (!isObject2 && !isFunction2 && !isArguments) {
           throw new TypeError("Object.keys called on a non-object");
         }
-        var skipProto = hasProtoEnumBug && isFunction;
+        var skipProto = hasProtoEnumBug && isFunction2;
         if (isString && object.length > 0 && !has.call(object, 0)) {
           for (var i = 0; i < object.length; ++i) {
             theKeys.push(String(i));
@@ -8837,6 +8850,69 @@ var require_object_keys = __commonJS({
       return Object.keys || keysShim;
     };
     module2.exports = keysShim;
+  }
+});
+
+// node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/index.js
+var require_es_errors = __commonJS({
+  "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    module2.exports = Error;
+  }
+});
+
+// node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/eval.js
+var require_eval = __commonJS({
+  "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/eval.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    module2.exports = EvalError;
+  }
+});
+
+// node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/range.js
+var require_range = __commonJS({
+  "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/range.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    module2.exports = RangeError;
+  }
+});
+
+// node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/ref.js
+var require_ref = __commonJS({
+  "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/ref.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    module2.exports = ReferenceError;
+  }
+});
+
+// node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/syntax.js
+var require_syntax = __commonJS({
+  "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/syntax.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    module2.exports = SyntaxError;
+  }
+});
+
+// node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/type.js
+var require_type = __commonJS({
+  "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/type.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    module2.exports = TypeError;
+  }
+});
+
+// node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/uri.js
+var require_uri = __commonJS({
+  "node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors/uri.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    module2.exports = URIError;
   }
 });
 
@@ -8918,45 +8994,86 @@ var require_has_symbols = __commonJS({
   }
 });
 
-// node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/implementation.js
+// node_modules/.pnpm/has-proto@1.0.1/node_modules/has-proto/index.js
+var require_has_proto = __commonJS({
+  "node_modules/.pnpm/has-proto@1.0.1/node_modules/has-proto/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var test = {
+      foo: {}
+    };
+    var $Object = Object;
+    module2.exports = function hasProto() {
+      return { __proto__: test }.foo === test.foo && !({ __proto__: null } instanceof $Object);
+    };
+  }
+});
+
+// node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/implementation.js
 var require_implementation2 = __commonJS({
-  "node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/implementation.js"(exports2, module2) {
+  "node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/implementation.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var ERROR_MESSAGE = "Function.prototype.bind called on incompatible ";
-    var slice = Array.prototype.slice;
     var toStr = Object.prototype.toString;
+    var max = Math.max;
     var funcType = "[object Function]";
+    var concatty = function concatty2(a, b) {
+      var arr = [];
+      for (var i = 0; i < a.length; i += 1) {
+        arr[i] = a[i];
+      }
+      for (var j = 0; j < b.length; j += 1) {
+        arr[j + a.length] = b[j];
+      }
+      return arr;
+    };
+    var slicy = function slicy2(arrLike, offset) {
+      var arr = [];
+      for (var i = offset || 0, j = 0; i < arrLike.length; i += 1, j += 1) {
+        arr[j] = arrLike[i];
+      }
+      return arr;
+    };
+    var joiny = function(arr, joiner) {
+      var str = "";
+      for (var i = 0; i < arr.length; i += 1) {
+        str += arr[i];
+        if (i + 1 < arr.length) {
+          str += joiner;
+        }
+      }
+      return str;
+    };
     module2.exports = function bind(that) {
       var target = this;
-      if (typeof target !== "function" || toStr.call(target) !== funcType) {
+      if (typeof target !== "function" || toStr.apply(target) !== funcType) {
         throw new TypeError(ERROR_MESSAGE + target);
       }
-      var args = slice.call(arguments, 1);
+      var args = slicy(arguments, 1);
       var bound;
       var binder = function() {
         if (this instanceof bound) {
           var result = target.apply(
             this,
-            args.concat(slice.call(arguments))
+            concatty(args, arguments)
           );
           if (Object(result) === result) {
             return result;
           }
           return this;
-        } else {
-          return target.apply(
-            that,
-            args.concat(slice.call(arguments))
-          );
         }
+        return target.apply(
+          that,
+          concatty(args, arguments)
+        );
       };
-      var boundLength = Math.max(0, target.length - args.length);
+      var boundLength = max(0, target.length - args.length);
       var boundArgs = [];
       for (var i = 0; i < boundLength; i++) {
-        boundArgs.push("$" + i);
+        boundArgs[i] = "$" + i;
       }
-      bound = Function("binder", "return function (" + boundArgs.join(",") + "){ return binder.apply(this,arguments); }")(binder);
+      bound = Function("binder", "return function (" + joiny(boundArgs, ",") + "){ return binder.apply(this,arguments); }")(binder);
       if (target.prototype) {
         var Empty = function Empty2() {
         };
@@ -8969,9 +9086,9 @@ var require_implementation2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/index.js
+// node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/index.js
 var require_function_bind = __commonJS({
-  "node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/index.js"(exports2, module2) {
+  "node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var implementation = require_implementation2();
@@ -8979,25 +9096,32 @@ var require_function_bind = __commonJS({
   }
 });
 
-// node_modules/.pnpm/has@1.0.3/node_modules/has/src/index.js
-var require_src2 = __commonJS({
-  "node_modules/.pnpm/has@1.0.3/node_modules/has/src/index.js"(exports2, module2) {
+// node_modules/.pnpm/hasown@2.0.1/node_modules/hasown/index.js
+var require_hasown = __commonJS({
+  "node_modules/.pnpm/hasown@2.0.1/node_modules/hasown/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
+    var call = Function.prototype.call;
+    var $hasOwn = Object.prototype.hasOwnProperty;
     var bind = require_function_bind();
-    module2.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
+    module2.exports = bind.call(call, $hasOwn);
   }
 });
 
-// node_modules/.pnpm/get-intrinsic@1.2.0/node_modules/get-intrinsic/index.js
+// node_modules/.pnpm/get-intrinsic@1.2.4/node_modules/get-intrinsic/index.js
 var require_get_intrinsic = __commonJS({
-  "node_modules/.pnpm/get-intrinsic@1.2.0/node_modules/get-intrinsic/index.js"(exports2, module2) {
+  "node_modules/.pnpm/get-intrinsic@1.2.4/node_modules/get-intrinsic/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var undefined2;
-    var $SyntaxError = SyntaxError;
+    var $Error = require_es_errors();
+    var $EvalError = require_eval();
+    var $RangeError = require_range();
+    var $ReferenceError = require_ref();
+    var $SyntaxError = require_syntax();
+    var $TypeError = require_type();
+    var $URIError = require_uri();
     var $Function = Function;
-    var $TypeError = TypeError;
     var getEvalledConstructor = function(expressionSyntax) {
       try {
         return $Function('"use strict"; return (' + expressionSyntax + ").constructor;")();
@@ -9028,16 +9152,18 @@ var require_get_intrinsic = __commonJS({
       }
     }() : throwTypeError;
     var hasSymbols = require_has_symbols()();
-    var getProto = Object.getPrototypeOf || function(x) {
+    var hasProto = require_has_proto()();
+    var getProto = Object.getPrototypeOf || (hasProto ? function(x) {
       return x.__proto__;
-    };
+    } : null);
     var needsEval = {};
-    var TypedArray = typeof Uint8Array === "undefined" ? undefined2 : getProto(Uint8Array);
+    var TypedArray = typeof Uint8Array === "undefined" || !getProto ? undefined2 : getProto(Uint8Array);
     var INTRINSICS = {
+      __proto__: null,
       "%AggregateError%": typeof AggregateError === "undefined" ? undefined2 : AggregateError,
       "%Array%": Array,
       "%ArrayBuffer%": typeof ArrayBuffer === "undefined" ? undefined2 : ArrayBuffer,
-      "%ArrayIteratorPrototype%": hasSymbols ? getProto([][Symbol.iterator]()) : undefined2,
+      "%ArrayIteratorPrototype%": hasSymbols && getProto ? getProto([][Symbol.iterator]()) : undefined2,
       "%AsyncFromSyncIteratorPrototype%": undefined2,
       "%AsyncFunction%": needsEval,
       "%AsyncGenerator%": needsEval,
@@ -9054,10 +9180,10 @@ var require_get_intrinsic = __commonJS({
       "%decodeURIComponent%": decodeURIComponent,
       "%encodeURI%": encodeURI,
       "%encodeURIComponent%": encodeURIComponent,
-      "%Error%": Error,
+      "%Error%": $Error,
       "%eval%": eval,
       // eslint-disable-line no-eval
-      "%EvalError%": EvalError,
+      "%EvalError%": $EvalError,
       "%Float32Array%": typeof Float32Array === "undefined" ? undefined2 : Float32Array,
       "%Float64Array%": typeof Float64Array === "undefined" ? undefined2 : Float64Array,
       "%FinalizationRegistry%": typeof FinalizationRegistry === "undefined" ? undefined2 : FinalizationRegistry,
@@ -9068,10 +9194,10 @@ var require_get_intrinsic = __commonJS({
       "%Int32Array%": typeof Int32Array === "undefined" ? undefined2 : Int32Array,
       "%isFinite%": isFinite,
       "%isNaN%": isNaN,
-      "%IteratorPrototype%": hasSymbols ? getProto(getProto([][Symbol.iterator]())) : undefined2,
+      "%IteratorPrototype%": hasSymbols && getProto ? getProto(getProto([][Symbol.iterator]())) : undefined2,
       "%JSON%": typeof JSON === "object" ? JSON : undefined2,
       "%Map%": typeof Map === "undefined" ? undefined2 : Map,
-      "%MapIteratorPrototype%": typeof Map === "undefined" || !hasSymbols ? undefined2 : getProto((/* @__PURE__ */ new Map())[Symbol.iterator]()),
+      "%MapIteratorPrototype%": typeof Map === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto((/* @__PURE__ */ new Map())[Symbol.iterator]()),
       "%Math%": Math,
       "%Number%": Number,
       "%Object%": Object,
@@ -9079,15 +9205,15 @@ var require_get_intrinsic = __commonJS({
       "%parseInt%": parseInt,
       "%Promise%": typeof Promise === "undefined" ? undefined2 : Promise,
       "%Proxy%": typeof Proxy === "undefined" ? undefined2 : Proxy,
-      "%RangeError%": RangeError,
-      "%ReferenceError%": ReferenceError,
+      "%RangeError%": $RangeError,
+      "%ReferenceError%": $ReferenceError,
       "%Reflect%": typeof Reflect === "undefined" ? undefined2 : Reflect,
       "%RegExp%": RegExp,
       "%Set%": typeof Set === "undefined" ? undefined2 : Set,
-      "%SetIteratorPrototype%": typeof Set === "undefined" || !hasSymbols ? undefined2 : getProto((/* @__PURE__ */ new Set())[Symbol.iterator]()),
+      "%SetIteratorPrototype%": typeof Set === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto((/* @__PURE__ */ new Set())[Symbol.iterator]()),
       "%SharedArrayBuffer%": typeof SharedArrayBuffer === "undefined" ? undefined2 : SharedArrayBuffer,
       "%String%": String,
-      "%StringIteratorPrototype%": hasSymbols ? getProto(""[Symbol.iterator]()) : undefined2,
+      "%StringIteratorPrototype%": hasSymbols && getProto ? getProto(""[Symbol.iterator]()) : undefined2,
       "%Symbol%": hasSymbols ? Symbol : undefined2,
       "%SyntaxError%": $SyntaxError,
       "%ThrowTypeError%": ThrowTypeError,
@@ -9097,16 +9223,18 @@ var require_get_intrinsic = __commonJS({
       "%Uint8ClampedArray%": typeof Uint8ClampedArray === "undefined" ? undefined2 : Uint8ClampedArray,
       "%Uint16Array%": typeof Uint16Array === "undefined" ? undefined2 : Uint16Array,
       "%Uint32Array%": typeof Uint32Array === "undefined" ? undefined2 : Uint32Array,
-      "%URIError%": URIError,
+      "%URIError%": $URIError,
       "%WeakMap%": typeof WeakMap === "undefined" ? undefined2 : WeakMap,
       "%WeakRef%": typeof WeakRef === "undefined" ? undefined2 : WeakRef,
       "%WeakSet%": typeof WeakSet === "undefined" ? undefined2 : WeakSet
     };
-    try {
-      null.error;
-    } catch (e) {
-      errorProto = getProto(getProto(e));
-      INTRINSICS["%Error.prototype%"] = errorProto;
+    if (getProto) {
+      try {
+        null.error;
+      } catch (e) {
+        errorProto = getProto(getProto(e));
+        INTRINSICS["%Error.prototype%"] = errorProto;
+      }
     }
     var errorProto;
     var doEval = function doEval2(name) {
@@ -9124,7 +9252,7 @@ var require_get_intrinsic = __commonJS({
         }
       } else if (name === "%AsyncIteratorPrototype%") {
         var gen = doEval2("%AsyncGenerator%");
-        if (gen) {
+        if (gen && getProto) {
           value = getProto(gen.prototype);
         }
       }
@@ -9132,6 +9260,7 @@ var require_get_intrinsic = __commonJS({
       return value;
     };
     var LEGACY_ALIASES = {
+      __proto__: null,
       "%ArrayBufferPrototype%": ["ArrayBuffer", "prototype"],
       "%ArrayPrototype%": ["Array", "prototype"],
       "%ArrayProto_entries%": ["Array", "prototype", "entries"],
@@ -9185,7 +9314,7 @@ var require_get_intrinsic = __commonJS({
       "%WeakSetPrototype%": ["WeakSet", "prototype"]
     };
     var bind = require_function_bind();
-    var hasOwn = require_src2();
+    var hasOwn = require_hasown();
     var $concat = bind.call(Function.call, Array.prototype.concat);
     var $spliceApply = bind.call(Function.apply, Array.prototype.splice);
     var $replace = bind.call(Function.call, String.prototype.replace);
@@ -9294,9 +9423,9 @@ var require_get_intrinsic = __commonJS({
   }
 });
 
-// node_modules/.pnpm/has-property-descriptors@1.0.0/node_modules/has-property-descriptors/index.js
+// node_modules/.pnpm/has-property-descriptors@1.0.1/node_modules/has-property-descriptors/index.js
 var require_has_property_descriptors = __commonJS({
-  "node_modules/.pnpm/has-property-descriptors@1.0.0/node_modules/has-property-descriptors/index.js"(exports2, module2) {
+  "node_modules/.pnpm/has-property-descriptors@1.0.1/node_modules/has-property-descriptors/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var GetIntrinsic = require_get_intrinsic();
@@ -9326,40 +9455,110 @@ var require_has_property_descriptors = __commonJS({
   }
 });
 
-// node_modules/.pnpm/define-properties@1.2.0/node_modules/define-properties/index.js
+// node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js
+var require_gopd = __commonJS({
+  "node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var GetIntrinsic = require_get_intrinsic();
+    var $gOPD = GetIntrinsic("%Object.getOwnPropertyDescriptor%", true);
+    if ($gOPD) {
+      try {
+        $gOPD([], "length");
+      } catch (e) {
+        $gOPD = null;
+      }
+    }
+    module2.exports = $gOPD;
+  }
+});
+
+// node_modules/.pnpm/define-data-property@1.1.2/node_modules/define-data-property/index.js
+var require_define_data_property = __commonJS({
+  "node_modules/.pnpm/define-data-property@1.1.2/node_modules/define-data-property/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var hasPropertyDescriptors = require_has_property_descriptors()();
+    var GetIntrinsic = require_get_intrinsic();
+    var $defineProperty = hasPropertyDescriptors && GetIntrinsic("%Object.defineProperty%", true);
+    if ($defineProperty) {
+      try {
+        $defineProperty({}, "a", { value: 1 });
+      } catch (e) {
+        $defineProperty = false;
+      }
+    }
+    var $SyntaxError = require_syntax();
+    var $TypeError = require_type();
+    var gopd = require_gopd();
+    module2.exports = function defineDataProperty(obj, property, value) {
+      if (!obj || typeof obj !== "object" && typeof obj !== "function") {
+        throw new $TypeError("`obj` must be an object or a function`");
+      }
+      if (typeof property !== "string" && typeof property !== "symbol") {
+        throw new $TypeError("`property` must be a string or a symbol`");
+      }
+      if (arguments.length > 3 && typeof arguments[3] !== "boolean" && arguments[3] !== null) {
+        throw new $TypeError("`nonEnumerable`, if provided, must be a boolean or null");
+      }
+      if (arguments.length > 4 && typeof arguments[4] !== "boolean" && arguments[4] !== null) {
+        throw new $TypeError("`nonWritable`, if provided, must be a boolean or null");
+      }
+      if (arguments.length > 5 && typeof arguments[5] !== "boolean" && arguments[5] !== null) {
+        throw new $TypeError("`nonConfigurable`, if provided, must be a boolean or null");
+      }
+      if (arguments.length > 6 && typeof arguments[6] !== "boolean") {
+        throw new $TypeError("`loose`, if provided, must be a boolean");
+      }
+      var nonEnumerable = arguments.length > 3 ? arguments[3] : null;
+      var nonWritable = arguments.length > 4 ? arguments[4] : null;
+      var nonConfigurable = arguments.length > 5 ? arguments[5] : null;
+      var loose = arguments.length > 6 ? arguments[6] : false;
+      var desc = !!gopd && gopd(obj, property);
+      if ($defineProperty) {
+        $defineProperty(obj, property, {
+          configurable: nonConfigurable === null && desc ? desc.configurable : !nonConfigurable,
+          enumerable: nonEnumerable === null && desc ? desc.enumerable : !nonEnumerable,
+          value,
+          writable: nonWritable === null && desc ? desc.writable : !nonWritable
+        });
+      } else if (loose || !nonEnumerable && !nonWritable && !nonConfigurable) {
+        obj[property] = value;
+      } else {
+        throw new $SyntaxError("This environment does not support defining a property as non-configurable, non-writable, or non-enumerable.");
+      }
+    };
+  }
+});
+
+// node_modules/.pnpm/define-properties@1.2.1/node_modules/define-properties/index.js
 var require_define_properties = __commonJS({
-  "node_modules/.pnpm/define-properties@1.2.0/node_modules/define-properties/index.js"(exports2, module2) {
+  "node_modules/.pnpm/define-properties@1.2.1/node_modules/define-properties/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var keys = require_object_keys();
     var hasSymbols = typeof Symbol === "function" && typeof Symbol("foo") === "symbol";
     var toStr = Object.prototype.toString;
     var concat = Array.prototype.concat;
-    var origDefineProperty = Object.defineProperty;
-    var isFunction = function(fn) {
+    var defineDataProperty = require_define_data_property();
+    var isFunction2 = function(fn) {
       return typeof fn === "function" && toStr.call(fn) === "[object Function]";
     };
-    var hasPropertyDescriptors = require_has_property_descriptors()();
-    var supportsDescriptors = origDefineProperty && hasPropertyDescriptors;
+    var supportsDescriptors = require_has_property_descriptors()();
     var defineProperty = function(object, name, value, predicate) {
       if (name in object) {
         if (predicate === true) {
           if (object[name] === value) {
             return;
           }
-        } else if (!isFunction(predicate) || !predicate()) {
+        } else if (!isFunction2(predicate) || !predicate()) {
           return;
         }
       }
       if (supportsDescriptors) {
-        origDefineProperty(object, name, {
-          configurable: true,
-          enumerable: false,
-          value,
-          writable: true
-        });
+        defineDataProperty(object, name, value, true);
       } else {
-        object[name] = value;
+        defineDataProperty(object, name, value);
       }
     };
     var defineProperties = function(object, map) {
@@ -9377,17 +9576,72 @@ var require_define_properties = __commonJS({
   }
 });
 
-// node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/index.js
+// node_modules/.pnpm/set-function-length@1.2.1/node_modules/set-function-length/index.js
+var require_set_function_length = __commonJS({
+  "node_modules/.pnpm/set-function-length@1.2.1/node_modules/set-function-length/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var GetIntrinsic = require_get_intrinsic();
+    var define2 = require_define_data_property();
+    var hasDescriptors = require_has_property_descriptors()();
+    var gOPD = require_gopd();
+    var $TypeError = require_type();
+    var $floor = GetIntrinsic("%Math.floor%");
+    module2.exports = function setFunctionLength(fn, length) {
+      if (typeof fn !== "function") {
+        throw new $TypeError("`fn` is not a function");
+      }
+      if (typeof length !== "number" || length < 0 || length > 4294967295 || $floor(length) !== length) {
+        throw new $TypeError("`length` must be a positive 32-bit integer");
+      }
+      var loose = arguments.length > 2 && !!arguments[2];
+      var functionLengthIsConfigurable = true;
+      var functionLengthIsWritable = true;
+      if ("length" in fn && gOPD) {
+        var desc = gOPD(fn, "length");
+        if (desc && !desc.configurable) {
+          functionLengthIsConfigurable = false;
+        }
+        if (desc && !desc.writable) {
+          functionLengthIsWritable = false;
+        }
+      }
+      if (functionLengthIsConfigurable || functionLengthIsWritable || !loose) {
+        if (hasDescriptors) {
+          define2(
+            /** @type {Parameters<define>[0]} */
+            fn,
+            "length",
+            length,
+            true,
+            true
+          );
+        } else {
+          define2(
+            /** @type {Parameters<define>[0]} */
+            fn,
+            "length",
+            length
+          );
+        }
+      }
+      return fn;
+    };
+  }
+});
+
+// node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/index.js
 var require_call_bind = __commonJS({
-  "node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/index.js"(exports2, module2) {
+  "node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var bind = require_function_bind();
     var GetIntrinsic = require_get_intrinsic();
+    var setFunctionLength = require_set_function_length();
+    var $TypeError = require_type();
     var $apply = GetIntrinsic("%Function.prototype.apply%");
     var $call = GetIntrinsic("%Function.prototype.call%");
     var $reflectApply = GetIntrinsic("%Reflect.apply%", true) || bind.call($call, $apply);
-    var $gOPD = GetIntrinsic("%Object.getOwnPropertyDescriptor%", true);
     var $defineProperty = GetIntrinsic("%Object.defineProperty%", true);
     var $max = GetIntrinsic("%Math.max%");
     if ($defineProperty) {
@@ -9398,18 +9652,15 @@ var require_call_bind = __commonJS({
       }
     }
     module2.exports = function callBind(originalFunction) {
-      var func = $reflectApply(bind, $call, arguments);
-      if ($gOPD && $defineProperty) {
-        var desc = $gOPD(func, "length");
-        if (desc.configurable) {
-          $defineProperty(
-            func,
-            "length",
-            { value: 1 + $max(0, originalFunction.length - (arguments.length - 1)) }
-          );
-        }
+      if (typeof originalFunction !== "function") {
+        throw new $TypeError("a function is required");
       }
-      return func;
+      var func = $reflectApply(bind, $call, arguments);
+      return setFunctionLength(
+        func,
+        1 + $max(0, originalFunction.length - (arguments.length - 1)),
+        true
+      );
     };
     var applyBind = function applyBind2() {
       return $reflectApply(bind, $apply, arguments);
@@ -9422,9 +9673,9 @@ var require_call_bind = __commonJS({
   }
 });
 
-// node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/callBound.js
+// node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/callBound.js
 var require_callBound = __commonJS({
-  "node_modules/.pnpm/call-bind@1.0.2/node_modules/call-bind/callBound.js"(exports2, module2) {
+  "node_modules/.pnpm/call-bind@1.0.6/node_modules/call-bind/callBound.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var GetIntrinsic = require_get_intrinsic();
@@ -9440,9 +9691,9 @@ var require_callBound = __commonJS({
   }
 });
 
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/implementation.js
+// node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/implementation.js
 var require_implementation3 = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/implementation.js"(exports2, module2) {
+  "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/implementation.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var objectKeys = require_object_keys();
@@ -9486,9 +9737,9 @@ var require_implementation3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/polyfill.js
+// node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/polyfill.js
 var require_polyfill = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/polyfill.js"(exports2, module2) {
+  "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/polyfill.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var implementation = require_implementation3();
@@ -9536,9 +9787,9 @@ var require_polyfill = __commonJS({
   }
 });
 
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/shim.js
+// node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/shim.js
 var require_shim = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/shim.js"(exports2, module2) {
+  "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/shim.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var define2 = require_define_properties();
@@ -9557,9 +9808,9 @@ var require_shim = __commonJS({
   }
 });
 
-// node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/index.js
+// node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/index.js
 var require_object = __commonJS({
-  "node_modules/.pnpm/object.assign@4.1.4/node_modules/object.assign/index.js"(exports2, module2) {
+  "node_modules/.pnpm/object.assign@4.1.5/node_modules/object.assign/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var defineProperties = require_define_properties();
@@ -9614,16 +9865,42 @@ var require_functions_have_names = __commonJS({
   }
 });
 
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/implementation.js
-var require_implementation4 = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/implementation.js"(exports2, module2) {
+// node_modules/.pnpm/set-function-name@2.0.1/node_modules/set-function-name/index.js
+var require_set_function_name = __commonJS({
+  "node_modules/.pnpm/set-function-name@2.0.1/node_modules/set-function-name/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
+    var define2 = require_define_data_property();
+    var hasDescriptors = require_has_property_descriptors()();
     var functionsHaveConfigurableNames = require_functions_have_names().functionsHaveConfigurableNames();
-    var $Object = Object;
     var $TypeError = TypeError;
-    module2.exports = function flags() {
-      if (this != null && this !== $Object(this)) {
+    module2.exports = function setFunctionName(fn, name) {
+      if (typeof fn !== "function") {
+        throw new $TypeError("`fn` is not a function");
+      }
+      var loose = arguments.length > 2 && !!arguments[2];
+      if (!loose || functionsHaveConfigurableNames) {
+        if (hasDescriptors) {
+          define2(fn, "name", name, true, true);
+        } else {
+          define2(fn, "name", name);
+        }
+      }
+      return fn;
+    };
+  }
+});
+
+// node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/implementation.js
+var require_implementation4 = __commonJS({
+  "node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/implementation.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var setFunctionName = require_set_function_name();
+    var $TypeError = require_type();
+    var $Object = Object;
+    module2.exports = setFunctionName(function flags() {
+      if (this == null || this !== $Object(this)) {
         throw new $TypeError("RegExp.prototype.flags getter called on non-object");
       }
       var result = "";
@@ -9652,16 +9929,13 @@ var require_implementation4 = __commonJS({
         result += "y";
       }
       return result;
-    };
-    if (functionsHaveConfigurableNames && Object.defineProperty) {
-      Object.defineProperty(module2.exports, "name", { value: "get flags" });
-    }
+    }, "get flags", true);
   }
 });
 
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/polyfill.js
+// node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/polyfill.js
 var require_polyfill2 = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/polyfill.js"(exports2, module2) {
+  "node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/polyfill.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var implementation = require_implementation4();
@@ -9693,9 +9967,9 @@ var require_polyfill2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/shim.js
+// node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/shim.js
 var require_shim2 = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/shim.js"(exports2, module2) {
+  "node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/shim.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var supportsDescriptors = require_define_properties().supportsDescriptors;
@@ -9724,9 +9998,9 @@ var require_shim2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/index.js
+// node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/index.js
 var require_regexp_prototype = __commonJS({
-  "node_modules/.pnpm/regexp.prototype.flags@1.5.0/node_modules/regexp.prototype.flags/index.js"(exports2, module2) {
+  "node_modules/.pnpm/regexp.prototype.flags@1.5.2/node_modules/regexp.prototype.flags/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var define2 = require_define_properties();
@@ -9744,9 +10018,9 @@ var require_regexp_prototype = __commonJS({
   }
 });
 
-// node_modules/.pnpm/has-tostringtag@1.0.0/node_modules/has-tostringtag/shams.js
+// node_modules/.pnpm/has-tostringtag@1.0.2/node_modules/has-tostringtag/shams.js
 var require_shams2 = __commonJS({
-  "node_modules/.pnpm/has-tostringtag@1.0.0/node_modules/has-tostringtag/shams.js"(exports2, module2) {
+  "node_modules/.pnpm/has-tostringtag@1.0.2/node_modules/has-tostringtag/shams.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var hasSymbols = require_shams();
@@ -9784,16 +10058,16 @@ var require_is_arguments = __commonJS({
   }
 });
 
-// (disabled):node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/util.inspect
+// (disabled):node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/util.inspect
 var require_util = __commonJS({
-  "(disabled):node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/util.inspect"() {
+  "(disabled):node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/util.inspect"() {
     init_polyfill_buffer();
   }
 });
 
-// node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/index.js
+// node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/index.js
 var require_object_inspect = __commonJS({
-  "node_modules/.pnpm/object-inspect@1.12.3/node_modules/object-inspect/index.js"(exports2, module2) {
+  "node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect/index.js"(exports2, module2) {
     init_polyfill_buffer();
     var hasMap = typeof Map === "function" && Map.prototype;
     var mapSizeDescriptor = Object.getOwnPropertyDescriptor && hasMap ? Object.getOwnPropertyDescriptor(Map.prototype, "size") : null;
@@ -10007,6 +10281,12 @@ var require_object_inspect = __commonJS({
       }
       if (isString(obj)) {
         return markBoxed(inspect(String(obj)));
+      }
+      if (typeof window !== "undefined" && obj === window) {
+        return "{ [object Window] }";
+      }
+      if (obj === global) {
+        return "{ [object globalThis] }";
       }
       if (!isDate(obj) && !isRegExp(obj)) {
         var ys = arrObjKeys(obj, inspect);
@@ -10301,15 +10581,15 @@ var require_object_inspect = __commonJS({
   }
 });
 
-// node_modules/.pnpm/side-channel@1.0.4/node_modules/side-channel/index.js
+// node_modules/.pnpm/side-channel@1.0.5/node_modules/side-channel/index.js
 var require_side_channel = __commonJS({
-  "node_modules/.pnpm/side-channel@1.0.4/node_modules/side-channel/index.js"(exports2, module2) {
+  "node_modules/.pnpm/side-channel@1.0.5/node_modules/side-channel/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var GetIntrinsic = require_get_intrinsic();
     var callBound = require_callBound();
     var inspect = require_object_inspect();
-    var $TypeError = GetIntrinsic("%TypeError%");
+    var $TypeError = require_type();
     var $WeakMap = GetIntrinsic("%WeakMap%", true);
     var $Map = GetIntrinsic("%Map%", true);
     var $weakMapGet = callBound("WeakMap.prototype.get", true);
@@ -10413,15 +10693,14 @@ var require_side_channel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/internal-slot@1.0.5/node_modules/internal-slot/index.js
+// node_modules/.pnpm/internal-slot@1.0.7/node_modules/internal-slot/index.js
 var require_internal_slot = __commonJS({
-  "node_modules/.pnpm/internal-slot@1.0.5/node_modules/internal-slot/index.js"(exports2, module2) {
+  "node_modules/.pnpm/internal-slot@1.0.7/node_modules/internal-slot/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
-    var GetIntrinsic = require_get_intrinsic();
-    var has = require_src2();
+    var hasOwn = require_hasown();
     var channel = require_side_channel()();
-    var $TypeError = GetIntrinsic("%TypeError%");
+    var $TypeError = require_type();
     var SLOT = {
       assert: function(O, slot) {
         if (!O || typeof O !== "object" && typeof O !== "function") {
@@ -10453,7 +10732,7 @@ var require_internal_slot = __commonJS({
           throw new $TypeError("`slot` must be a string");
         }
         var slots = channel.get(O);
-        return !!slots && has(slots, "$" + slot);
+        return !!slots && hasOwn(slots, "$" + slot);
       },
       set: function(O, slot, V) {
         if (!O || typeof O !== "object" && typeof O !== "function") {
@@ -10873,313 +11152,19 @@ var require_object_is = __commonJS({
   }
 });
 
-// node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js
-var require_is_callable = __commonJS({
-  "node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var fnToStr = Function.prototype.toString;
-    var reflectApply = typeof Reflect === "object" && Reflect !== null && Reflect.apply;
-    var badArrayLike;
-    var isCallableMarker;
-    if (typeof reflectApply === "function" && typeof Object.defineProperty === "function") {
-      try {
-        badArrayLike = Object.defineProperty({}, "length", {
-          get: function() {
-            throw isCallableMarker;
-          }
-        });
-        isCallableMarker = {};
-        reflectApply(function() {
-          throw 42;
-        }, null, badArrayLike);
-      } catch (_) {
-        if (_ !== isCallableMarker) {
-          reflectApply = null;
-        }
-      }
-    } else {
-      reflectApply = null;
-    }
-    var constructorRegex = /^\s*class\b/;
-    var isES6ClassFn = function isES6ClassFunction(value) {
-      try {
-        var fnStr = fnToStr.call(value);
-        return constructorRegex.test(fnStr);
-      } catch (e) {
-        return false;
-      }
-    };
-    var tryFunctionObject = function tryFunctionToStr(value) {
-      try {
-        if (isES6ClassFn(value)) {
-          return false;
-        }
-        fnToStr.call(value);
-        return true;
-      } catch (e) {
-        return false;
-      }
-    };
-    var toStr = Object.prototype.toString;
-    var objectClass = "[object Object]";
-    var fnClass = "[object Function]";
-    var genClass = "[object GeneratorFunction]";
-    var ddaClass = "[object HTMLAllCollection]";
-    var ddaClass2 = "[object HTML document.all class]";
-    var ddaClass3 = "[object HTMLCollection]";
-    var hasToStringTag = typeof Symbol === "function" && !!Symbol.toStringTag;
-    var isIE68 = !(0 in [,]);
-    var isDDA = function isDocumentDotAll() {
-      return false;
-    };
-    if (typeof document === "object") {
-      all = document.all;
-      if (toStr.call(all) === toStr.call(document.all)) {
-        isDDA = function isDocumentDotAll(value) {
-          if ((isIE68 || !value) && (typeof value === "undefined" || typeof value === "object")) {
-            try {
-              var str = toStr.call(value);
-              return (str === ddaClass || str === ddaClass2 || str === ddaClass3 || str === objectClass) && value("") == null;
-            } catch (e) {
-            }
-          }
-          return false;
-        };
-      }
-    }
-    var all;
-    module2.exports = reflectApply ? function isCallable(value) {
-      if (isDDA(value)) {
-        return true;
-      }
-      if (!value) {
-        return false;
-      }
-      if (typeof value !== "function" && typeof value !== "object") {
-        return false;
-      }
-      try {
-        reflectApply(value, null, badArrayLike);
-      } catch (e) {
-        if (e !== isCallableMarker) {
-          return false;
-        }
-      }
-      return !isES6ClassFn(value) && tryFunctionObject(value);
-    } : function isCallable(value) {
-      if (isDDA(value)) {
-        return true;
-      }
-      if (!value) {
-        return false;
-      }
-      if (typeof value !== "function" && typeof value !== "object") {
-        return false;
-      }
-      if (hasToStringTag) {
-        return tryFunctionObject(value);
-      }
-      if (isES6ClassFn(value)) {
-        return false;
-      }
-      var strClass = toStr.call(value);
-      if (strClass !== fnClass && strClass !== genClass && !/^\[object HTML/.test(strClass)) {
-        return false;
-      }
-      return tryFunctionObject(value);
-    };
-  }
-});
-
-// node_modules/.pnpm/for-each@0.3.3/node_modules/for-each/index.js
-var require_for_each = __commonJS({
-  "node_modules/.pnpm/for-each@0.3.3/node_modules/for-each/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var isCallable = require_is_callable();
-    var toStr = Object.prototype.toString;
-    var hasOwnProperty = Object.prototype.hasOwnProperty;
-    var forEachArray = function forEachArray2(array, iterator, receiver) {
-      for (var i = 0, len = array.length; i < len; i++) {
-        if (hasOwnProperty.call(array, i)) {
-          if (receiver == null) {
-            iterator(array[i], i, array);
-          } else {
-            iterator.call(receiver, array[i], i, array);
-          }
-        }
-      }
-    };
-    var forEachString = function forEachString2(string, iterator, receiver) {
-      for (var i = 0, len = string.length; i < len; i++) {
-        if (receiver == null) {
-          iterator(string.charAt(i), i, string);
-        } else {
-          iterator.call(receiver, string.charAt(i), i, string);
-        }
-      }
-    };
-    var forEachObject = function forEachObject2(object, iterator, receiver) {
-      for (var k in object) {
-        if (hasOwnProperty.call(object, k)) {
-          if (receiver == null) {
-            iterator(object[k], k, object);
-          } else {
-            iterator.call(receiver, object[k], k, object);
-          }
-        }
-      }
-    };
-    var forEach2 = function forEach3(list, iterator, thisArg) {
-      if (!isCallable(iterator)) {
-        throw new TypeError("iterator must be a function");
-      }
-      var receiver;
-      if (arguments.length >= 3) {
-        receiver = thisArg;
-      }
-      if (toStr.call(list) === "[object Array]") {
-        forEachArray(list, iterator, receiver);
-      } else if (typeof list === "string") {
-        forEachString(list, iterator, receiver);
-      } else {
-        forEachObject(list, iterator, receiver);
-      }
-    };
-    module2.exports = forEach2;
-  }
-});
-
-// node_modules/.pnpm/available-typed-arrays@1.0.5/node_modules/available-typed-arrays/index.js
-var require_available_typed_arrays = __commonJS({
-  "node_modules/.pnpm/available-typed-arrays@1.0.5/node_modules/available-typed-arrays/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var possibleNames = [
-      "BigInt64Array",
-      "BigUint64Array",
-      "Float32Array",
-      "Float64Array",
-      "Int16Array",
-      "Int32Array",
-      "Int8Array",
-      "Uint16Array",
-      "Uint32Array",
-      "Uint8Array",
-      "Uint8ClampedArray"
-    ];
-    var g = typeof globalThis === "undefined" ? global : globalThis;
-    module2.exports = function availableTypedArrays() {
-      var out = [];
-      for (var i = 0; i < possibleNames.length; i++) {
-        if (typeof g[possibleNames[i]] === "function") {
-          out[out.length] = possibleNames[i];
-        }
-      }
-      return out;
-    };
-  }
-});
-
-// node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js
-var require_gopd = __commonJS({
-  "node_modules/.pnpm/gopd@1.0.1/node_modules/gopd/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var GetIntrinsic = require_get_intrinsic();
-    var $gOPD = GetIntrinsic("%Object.getOwnPropertyDescriptor%", true);
-    if ($gOPD) {
-      try {
-        $gOPD([], "length");
-      } catch (e) {
-        $gOPD = null;
-      }
-    }
-    module2.exports = $gOPD;
-  }
-});
-
-// node_modules/.pnpm/is-typed-array@1.1.10/node_modules/is-typed-array/index.js
-var require_is_typed_array = __commonJS({
-  "node_modules/.pnpm/is-typed-array@1.1.10/node_modules/is-typed-array/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var forEach2 = require_for_each();
-    var availableTypedArrays = require_available_typed_arrays();
-    var callBound = require_callBound();
-    var $toString = callBound("Object.prototype.toString");
-    var hasToStringTag = require_shams2()();
-    var gOPD = require_gopd();
-    var g = typeof globalThis === "undefined" ? global : globalThis;
-    var typedArrays = availableTypedArrays();
-    var $indexOf = callBound("Array.prototype.indexOf", true) || function indexOf(array, value) {
-      for (var i = 0; i < array.length; i += 1) {
-        if (array[i] === value) {
-          return i;
-        }
-      }
-      return -1;
-    };
-    var $slice = callBound("String.prototype.slice");
-    var toStrTags = {};
-    var getPrototypeOf = Object.getPrototypeOf;
-    if (hasToStringTag && gOPD && getPrototypeOf) {
-      forEach2(typedArrays, function(typedArray) {
-        var arr = new g[typedArray]();
-        if (Symbol.toStringTag in arr) {
-          var proto = getPrototypeOf(arr);
-          var descriptor = gOPD(proto, Symbol.toStringTag);
-          if (!descriptor) {
-            var superProto = getPrototypeOf(proto);
-            descriptor = gOPD(superProto, Symbol.toStringTag);
-          }
-          toStrTags[typedArray] = descriptor.get;
-        }
-      });
-    }
-    var tryTypedArrays = function tryAllTypedArrays(value) {
-      var anyTrue = false;
-      forEach2(toStrTags, function(getter, typedArray) {
-        if (!anyTrue) {
-          try {
-            anyTrue = getter.call(value) === typedArray;
-          } catch (e) {
-          }
-        }
-      });
-      return anyTrue;
-    };
-    module2.exports = function isTypedArray(value) {
-      if (!value || typeof value !== "object") {
-        return false;
-      }
-      if (!hasToStringTag || !(Symbol.toStringTag in value)) {
-        var tag2 = $slice($toString(value), 8, -1);
-        return $indexOf(typedArrays, tag2) > -1;
-      }
-      if (!gOPD) {
-        return false;
-      }
-      return tryTypedArrays(value);
-    };
-  }
-});
-
-// node_modules/.pnpm/is-array-buffer@3.0.2/node_modules/is-array-buffer/index.js
+// node_modules/.pnpm/is-array-buffer@3.0.4/node_modules/is-array-buffer/index.js
 var require_is_array_buffer = __commonJS({
-  "node_modules/.pnpm/is-array-buffer@3.0.2/node_modules/is-array-buffer/index.js"(exports2, module2) {
+  "node_modules/.pnpm/is-array-buffer@3.0.4/node_modules/is-array-buffer/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var callBind = require_call_bind();
     var callBound = require_callBound();
     var GetIntrinsic = require_get_intrinsic();
-    var isTypedArray = require_is_typed_array();
-    var $ArrayBuffer = GetIntrinsic("ArrayBuffer", true);
-    var $Float32Array = GetIntrinsic("Float32Array", true);
+    var $ArrayBuffer = GetIntrinsic("%ArrayBuffer%", true);
     var $byteLength = callBound("ArrayBuffer.prototype.byteLength", true);
-    var abSlice = $ArrayBuffer && !$byteLength && new $ArrayBuffer().slice;
-    var $abSlice = abSlice && callBind(abSlice);
+    var $toString = callBound("Object.prototype.toString");
+    var abSlice = !!$ArrayBuffer && !$byteLength && new $ArrayBuffer(0).slice;
+    var $abSlice = !!abSlice && callBind(abSlice);
     module2.exports = $byteLength || $abSlice ? function isArrayBuffer(obj) {
       if (!obj || typeof obj !== "object") {
         return false;
@@ -11194,12 +11179,8 @@ var require_is_array_buffer = __commonJS({
       } catch (e) {
         return false;
       }
-    } : $Float32Array ? function IsArrayBuffer(obj) {
-      try {
-        return new $Float32Array(obj).buffer === obj && !isTypedArray(obj);
-      } catch (e) {
-        return typeof obj === "object" && e.name === "RangeError";
-      }
+    } : $ArrayBuffer ? function isArrayBuffer(obj) {
+      return $toString(obj) === "[object ArrayBuffer]";
     } : function isArrayBuffer(obj) {
       return false;
     };
@@ -11595,13 +11576,223 @@ var require_which_collection = __commonJS({
   }
 });
 
-// node_modules/.pnpm/which-typed-array@1.1.9/node_modules/which-typed-array/index.js
+// node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js
+var require_is_callable = __commonJS({
+  "node_modules/.pnpm/is-callable@1.2.7/node_modules/is-callable/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var fnToStr = Function.prototype.toString;
+    var reflectApply = typeof Reflect === "object" && Reflect !== null && Reflect.apply;
+    var badArrayLike;
+    var isCallableMarker;
+    if (typeof reflectApply === "function" && typeof Object.defineProperty === "function") {
+      try {
+        badArrayLike = Object.defineProperty({}, "length", {
+          get: function() {
+            throw isCallableMarker;
+          }
+        });
+        isCallableMarker = {};
+        reflectApply(function() {
+          throw 42;
+        }, null, badArrayLike);
+      } catch (_) {
+        if (_ !== isCallableMarker) {
+          reflectApply = null;
+        }
+      }
+    } else {
+      reflectApply = null;
+    }
+    var constructorRegex = /^\s*class\b/;
+    var isES6ClassFn = function isES6ClassFunction(value) {
+      try {
+        var fnStr = fnToStr.call(value);
+        return constructorRegex.test(fnStr);
+      } catch (e) {
+        return false;
+      }
+    };
+    var tryFunctionObject = function tryFunctionToStr(value) {
+      try {
+        if (isES6ClassFn(value)) {
+          return false;
+        }
+        fnToStr.call(value);
+        return true;
+      } catch (e) {
+        return false;
+      }
+    };
+    var toStr = Object.prototype.toString;
+    var objectClass = "[object Object]";
+    var fnClass = "[object Function]";
+    var genClass = "[object GeneratorFunction]";
+    var ddaClass = "[object HTMLAllCollection]";
+    var ddaClass2 = "[object HTML document.all class]";
+    var ddaClass3 = "[object HTMLCollection]";
+    var hasToStringTag = typeof Symbol === "function" && !!Symbol.toStringTag;
+    var isIE68 = !(0 in [,]);
+    var isDDA = function isDocumentDotAll() {
+      return false;
+    };
+    if (typeof document === "object") {
+      all = document.all;
+      if (toStr.call(all) === toStr.call(document.all)) {
+        isDDA = function isDocumentDotAll(value) {
+          if ((isIE68 || !value) && (typeof value === "undefined" || typeof value === "object")) {
+            try {
+              var str = toStr.call(value);
+              return (str === ddaClass || str === ddaClass2 || str === ddaClass3 || str === objectClass) && value("") == null;
+            } catch (e) {
+            }
+          }
+          return false;
+        };
+      }
+    }
+    var all;
+    module2.exports = reflectApply ? function isCallable(value) {
+      if (isDDA(value)) {
+        return true;
+      }
+      if (!value) {
+        return false;
+      }
+      if (typeof value !== "function" && typeof value !== "object") {
+        return false;
+      }
+      try {
+        reflectApply(value, null, badArrayLike);
+      } catch (e) {
+        if (e !== isCallableMarker) {
+          return false;
+        }
+      }
+      return !isES6ClassFn(value) && tryFunctionObject(value);
+    } : function isCallable(value) {
+      if (isDDA(value)) {
+        return true;
+      }
+      if (!value) {
+        return false;
+      }
+      if (typeof value !== "function" && typeof value !== "object") {
+        return false;
+      }
+      if (hasToStringTag) {
+        return tryFunctionObject(value);
+      }
+      if (isES6ClassFn(value)) {
+        return false;
+      }
+      var strClass = toStr.call(value);
+      if (strClass !== fnClass && strClass !== genClass && !/^\[object HTML/.test(strClass)) {
+        return false;
+      }
+      return tryFunctionObject(value);
+    };
+  }
+});
+
+// node_modules/.pnpm/for-each@0.3.3/node_modules/for-each/index.js
+var require_for_each = __commonJS({
+  "node_modules/.pnpm/for-each@0.3.3/node_modules/for-each/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var isCallable = require_is_callable();
+    var toStr = Object.prototype.toString;
+    var hasOwnProperty = Object.prototype.hasOwnProperty;
+    var forEachArray = function forEachArray2(array, iterator, receiver) {
+      for (var i = 0, len = array.length; i < len; i++) {
+        if (hasOwnProperty.call(array, i)) {
+          if (receiver == null) {
+            iterator(array[i], i, array);
+          } else {
+            iterator.call(receiver, array[i], i, array);
+          }
+        }
+      }
+    };
+    var forEachString = function forEachString2(string, iterator, receiver) {
+      for (var i = 0, len = string.length; i < len; i++) {
+        if (receiver == null) {
+          iterator(string.charAt(i), i, string);
+        } else {
+          iterator.call(receiver, string.charAt(i), i, string);
+        }
+      }
+    };
+    var forEachObject = function forEachObject2(object, iterator, receiver) {
+      for (var k in object) {
+        if (hasOwnProperty.call(object, k)) {
+          if (receiver == null) {
+            iterator(object[k], k, object);
+          } else {
+            iterator.call(receiver, object[k], k, object);
+          }
+        }
+      }
+    };
+    var forEach2 = function forEach3(list, iterator, thisArg) {
+      if (!isCallable(iterator)) {
+        throw new TypeError("iterator must be a function");
+      }
+      var receiver;
+      if (arguments.length >= 3) {
+        receiver = thisArg;
+      }
+      if (toStr.call(list) === "[object Array]") {
+        forEachArray(list, iterator, receiver);
+      } else if (typeof list === "string") {
+        forEachString(list, iterator, receiver);
+      } else {
+        forEachObject(list, iterator, receiver);
+      }
+    };
+    module2.exports = forEach2;
+  }
+});
+
+// node_modules/.pnpm/available-typed-arrays@1.0.6/node_modules/available-typed-arrays/index.js
+var require_available_typed_arrays = __commonJS({
+  "node_modules/.pnpm/available-typed-arrays@1.0.6/node_modules/available-typed-arrays/index.js"(exports2, module2) {
+    "use strict";
+    init_polyfill_buffer();
+    var possibleNames = [
+      "BigInt64Array",
+      "BigUint64Array",
+      "Float32Array",
+      "Float64Array",
+      "Int16Array",
+      "Int32Array",
+      "Int8Array",
+      "Uint16Array",
+      "Uint32Array",
+      "Uint8Array",
+      "Uint8ClampedArray"
+    ];
+    var g = typeof globalThis === "undefined" ? global : globalThis;
+    module2.exports = function availableTypedArrays() {
+      var out = [];
+      for (var i = 0; i < possibleNames.length; i++) {
+        if (typeof g[possibleNames[i]] === "function") {
+          out[out.length] = possibleNames[i];
+        }
+      }
+      return out;
+    };
+  }
+});
+
+// node_modules/.pnpm/which-typed-array@1.1.14/node_modules/which-typed-array/index.js
 var require_which_typed_array = __commonJS({
-  "node_modules/.pnpm/which-typed-array@1.1.9/node_modules/which-typed-array/index.js"(exports2, module2) {
+  "node_modules/.pnpm/which-typed-array@1.1.14/node_modules/which-typed-array/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var forEach2 = require_for_each();
     var availableTypedArrays = require_available_typed_arrays();
+    var callBind = require_call_bind();
     var callBound = require_callBound();
     var gOPD = require_gopd();
     var $toString = callBound("Object.prototype.toString");
@@ -11609,55 +11800,104 @@ var require_which_typed_array = __commonJS({
     var g = typeof globalThis === "undefined" ? global : globalThis;
     var typedArrays = availableTypedArrays();
     var $slice = callBound("String.prototype.slice");
-    var toStrTags = {};
     var getPrototypeOf = Object.getPrototypeOf;
+    var $indexOf = callBound("Array.prototype.indexOf", true) || /** @type {(array: readonly unknown[], value: unknown) => keyof array} */
+    function indexOf(array, value) {
+      for (var i = 0; i < array.length; i += 1) {
+        if (array[i] === value) {
+          return i;
+        }
+      }
+      return -1;
+    };
+    var cache = { __proto__: null };
     if (hasToStringTag && gOPD && getPrototypeOf) {
       forEach2(typedArrays, function(typedArray) {
-        if (typeof g[typedArray] === "function") {
-          var arr = new g[typedArray]();
-          if (Symbol.toStringTag in arr) {
-            var proto = getPrototypeOf(arr);
-            var descriptor = gOPD(proto, Symbol.toStringTag);
-            if (!descriptor) {
-              var superProto = getPrototypeOf(proto);
-              descriptor = gOPD(superProto, Symbol.toStringTag);
-            }
-            toStrTags[typedArray] = descriptor.get;
+        var arr = new g[typedArray]();
+        if (Symbol.toStringTag in arr) {
+          var proto = getPrototypeOf(arr);
+          var descriptor = gOPD(proto, Symbol.toStringTag);
+          if (!descriptor) {
+            var superProto = getPrototypeOf(proto);
+            descriptor = gOPD(superProto, Symbol.toStringTag);
           }
+          cache["$" + typedArray] = callBind(descriptor.get);
+        }
+      });
+    } else {
+      forEach2(typedArrays, function(typedArray) {
+        var arr = new g[typedArray]();
+        var fn = arr.slice || arr.set;
+        if (fn) {
+          cache["$" + typedArray] = callBind(fn);
         }
       });
     }
     var tryTypedArrays = function tryAllTypedArrays(value) {
-      var foundName = false;
-      forEach2(toStrTags, function(getter, typedArray) {
-        if (!foundName) {
-          try {
-            var name = getter.call(value);
-            if (name === typedArray) {
-              foundName = name;
+      var found = false;
+      forEach2(
+        // eslint-disable-next-line no-extra-parens
+        /** @type {Record<`\$${TypedArrayName}`, typeof cache>} */
+        /** @type {any} */
+        cache,
+        /** @type {(getter: typeof cache, name: `\$${TypedArrayName}`) => void} */
+        function(getter, typedArray) {
+          if (!found) {
+            try {
+              if ("$" + getter(value) === typedArray) {
+                found = $slice(typedArray, 1);
+              }
+            } catch (e) {
             }
-          } catch (e) {
           }
         }
-      });
-      return foundName;
+      );
+      return found;
     };
-    var isTypedArray = require_is_typed_array();
+    var trySlices = function tryAllSlices(value) {
+      var found = false;
+      forEach2(
+        // eslint-disable-next-line no-extra-parens
+        /** @type {any} */
+        cache,
+        /** @type {(getter: typeof cache, name: `\$${TypedArrayName}`) => void} */
+        function(getter, name) {
+          if (!found) {
+            try {
+              getter(value);
+              found = $slice(name, 1);
+            } catch (e) {
+            }
+          }
+        }
+      );
+      return found;
+    };
     module2.exports = function whichTypedArray(value) {
-      if (!isTypedArray(value)) {
+      if (!value || typeof value !== "object") {
         return false;
       }
-      if (!hasToStringTag || !(Symbol.toStringTag in value)) {
-        return $slice($toString(value), 8, -1);
+      if (!hasToStringTag) {
+        var tag2 = $slice($toString(value), 8, -1);
+        if ($indexOf(typedArrays, tag2) > -1) {
+          return tag2;
+        }
+        if (tag2 !== "Object") {
+          return false;
+        }
+        return trySlices(value);
+      }
+      if (!gOPD) {
+        return null;
       }
       return tryTypedArrays(value);
     };
   }
 });
 
-// node_modules/.pnpm/array-buffer-byte-length@1.0.0/node_modules/array-buffer-byte-length/index.js
+// node_modules/.pnpm/array-buffer-byte-length@1.0.1/node_modules/array-buffer-byte-length/index.js
 var require_array_buffer_byte_length = __commonJS({
-  "node_modules/.pnpm/array-buffer-byte-length@1.0.0/node_modules/array-buffer-byte-length/index.js"(exports2, module2) {
+  "node_modules/.pnpm/array-buffer-byte-length@1.0.1/node_modules/array-buffer-byte-length/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var callBound = require_callBound();
@@ -11672,9 +11912,9 @@ var require_array_buffer_byte_length = __commonJS({
   }
 });
 
-// node_modules/.pnpm/deep-equal@2.2.1/node_modules/deep-equal/index.js
+// node_modules/.pnpm/deep-equal@2.2.3/node_modules/deep-equal/index.js
 var require_deep_equal = __commonJS({
-  "node_modules/.pnpm/deep-equal@2.2.1/node_modules/deep-equal/index.js"(exports2, module2) {
+  "node_modules/.pnpm/deep-equal@2.2.3/node_modules/deep-equal/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var assign2 = require_object();
@@ -11957,8 +12197,19 @@ var require_deep_equal = __commonJS({
       }
       var aWhich = whichTypedArray(a);
       var bWhich = whichTypedArray(b);
-      if ((aWhich || bWhich) && aWhich !== bWhich) {
+      if (aWhich !== bWhich) {
         return false;
+      }
+      if (aWhich || bWhich) {
+        if (a.length !== b.length) {
+          return false;
+        }
+        for (i = 0; i < a.length; i++) {
+          if (a[i] !== b[i]) {
+            return false;
+          }
+        }
+        return true;
       }
       var aIsBuffer = isBuffer(a);
       var bIsBuffer = isBuffer(b);
@@ -12902,7 +13153,7 @@ var require_template = __commonJS({
         v: hoganEscape,
         // triple stache
         t: coerceToString,
-        render: function render2(context, partials, indent2) {
+        render: function render(context, partials, indent2) {
           return this.ri([context], partials || {}, indent2);
         },
         // render internal -- a hook for overrides that catches partials too
@@ -13154,9 +13405,9 @@ var require_hogan = __commonJS({
   }
 });
 
-// node_modules/.pnpm/feather-icons@4.29.0/node_modules/feather-icons/dist/feather.js
+// node_modules/.pnpm/feather-icons@4.29.1/node_modules/feather-icons/dist/feather.js
 var require_feather = __commonJS({
-  "node_modules/.pnpm/feather-icons@4.29.0/node_modules/feather-icons/dist/feather.js"(exports2, module2) {
+  "node_modules/.pnpm/feather-icons@4.29.1/node_modules/feather-icons/dist/feather.js"(exports2, module2) {
     init_polyfill_buffer();
     (function webpackUniversalModuleDefinition(root2, factory) {
       if (typeof exports2 === "object" && typeof module2 === "object")
@@ -13236,7 +13487,7 @@ var require_feather = __commonJS({
             /*! exports provided: activity, airplay, alert-circle, alert-octagon, alert-triangle, align-center, align-justify, align-left, align-right, anchor, aperture, archive, arrow-down-circle, arrow-down-left, arrow-down-right, arrow-down, arrow-left-circle, arrow-left, arrow-right-circle, arrow-right, arrow-up-circle, arrow-up-left, arrow-up-right, arrow-up, at-sign, award, bar-chart-2, bar-chart, battery-charging, battery, bell-off, bell, bluetooth, bold, book-open, book, bookmark, box, briefcase, calendar, camera-off, camera, cast, check-circle, check-square, check, chevron-down, chevron-left, chevron-right, chevron-up, chevrons-down, chevrons-left, chevrons-right, chevrons-up, chrome, circle, clipboard, clock, cloud-drizzle, cloud-lightning, cloud-off, cloud-rain, cloud-snow, cloud, code, codepen, codesandbox, coffee, columns, command, compass, copy, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, cpu, credit-card, crop, crosshair, database, delete, disc, divide-circle, divide-square, divide, dollar-sign, download-cloud, download, dribbble, droplet, edit-2, edit-3, edit, external-link, eye-off, eye, facebook, fast-forward, feather, figma, file-minus, file-plus, file-text, file, film, filter, flag, folder-minus, folder-plus, folder, framer, frown, gift, git-branch, git-commit, git-merge, git-pull-request, github, gitlab, globe, grid, hard-drive, hash, headphones, heart, help-circle, hexagon, home, image, inbox, info, instagram, italic, key, layers, layout, life-buoy, link-2, link, linkedin, list, loader, lock, log-in, log-out, mail, map-pin, map, maximize-2, maximize, meh, menu, message-circle, message-square, mic-off, mic, minimize-2, minimize, minus-circle, minus-square, minus, monitor, moon, more-horizontal, more-vertical, mouse-pointer, move, music, navigation-2, navigation, octagon, package, paperclip, pause-circle, pause, pen-tool, percent, phone-call, phone-forwarded, phone-incoming, phone-missed, phone-off, phone-outgoing, phone, pie-chart, play-circle, play, plus-circle, plus-square, plus, pocket, power, printer, radio, refresh-ccw, refresh-cw, repeat, rewind, rotate-ccw, rotate-cw, rss, save, scissors, search, send, server, settings, share-2, share, shield-off, shield, shopping-bag, shopping-cart, shuffle, sidebar, skip-back, skip-forward, slack, slash, sliders, smartphone, smile, speaker, square, star, stop-circle, sun, sunrise, sunset, table, tablet, tag, target, terminal, thermometer, thumbs-down, thumbs-up, toggle-left, toggle-right, tool, trash-2, trash, trello, trending-down, trending-up, triangle, truck, tv, twitch, twitter, type, umbrella, underline, unlock, upload-cloud, upload, user-check, user-minus, user-plus, user-x, user, users, video-off, video, voicemail, volume-1, volume-2, volume-x, volume, watch, wifi-off, wifi, wind, x-circle, x-octagon, x-square, x, youtube, zap-off, zap, zoom-in, zoom-out, default */
             /***/
             function(module3) {
-              module3.exports = { "activity": '<polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>', "airplay": '<path d="M5 17H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-1"></path><polygon points="12 15 17 21 7 21 12 15"></polygon>', "alert-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line>', "alert-octagon": '<polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2"></polygon><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line>', "alert-triangle": '<path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line>', "align-center": '<line x1="18" y1="10" x2="6" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="18" y1="18" x2="6" y2="18"></line>', "align-justify": '<line x1="21" y1="10" x2="3" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="21" y1="18" x2="3" y2="18"></line>', "align-left": '<line x1="17" y1="10" x2="3" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="17" y1="18" x2="3" y2="18"></line>', "align-right": '<line x1="21" y1="10" x2="7" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="21" y1="18" x2="7" y2="18"></line>', "anchor": '<circle cx="12" cy="5" r="3"></circle><line x1="12" y1="22" x2="12" y2="8"></line><path d="M5 12H2a10 10 0 0 0 20 0h-3"></path>', "aperture": '<circle cx="12" cy="12" r="10"></circle><line x1="14.31" y1="8" x2="20.05" y2="17.94"></line><line x1="9.69" y1="8" x2="21.17" y2="8"></line><line x1="7.38" y1="12" x2="13.12" y2="2.06"></line><line x1="9.69" y1="16" x2="3.95" y2="6.06"></line><line x1="14.31" y1="16" x2="2.83" y2="16"></line><line x1="16.62" y1="12" x2="10.88" y2="21.94"></line>', "archive": '<polyline points="21 8 21 21 3 21 3 8"></polyline><rect x="1" y="3" width="22" height="5"></rect><line x1="10" y1="12" x2="14" y2="12"></line>', "arrow-down-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="8 12 12 16 16 12"></polyline><line x1="12" y1="8" x2="12" y2="16"></line>', "arrow-down-left": '<line x1="17" y1="7" x2="7" y2="17"></line><polyline points="17 17 7 17 7 7"></polyline>', "arrow-down-right": '<line x1="7" y1="7" x2="17" y2="17"></line><polyline points="17 7 17 17 7 17"></polyline>', "arrow-down": '<line x1="12" y1="5" x2="12" y2="19"></line><polyline points="19 12 12 19 5 12"></polyline>', "arrow-left-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="12 8 8 12 12 16"></polyline><line x1="16" y1="12" x2="8" y2="12"></line>', "arrow-left": '<line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline>', "arrow-right-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="12 16 16 12 12 8"></polyline><line x1="8" y1="12" x2="16" y2="12"></line>', "arrow-right": '<line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline>', "arrow-up-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="16 12 12 8 8 12"></polyline><line x1="12" y1="16" x2="12" y2="8"></line>', "arrow-up-left": '<line x1="17" y1="17" x2="7" y2="7"></line><polyline points="7 17 7 7 17 7"></polyline>', "arrow-up-right": '<line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline>', "arrow-up": '<line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline>', "at-sign": '<circle cx="12" cy="12" r="4"></circle><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"></path>', "award": '<circle cx="12" cy="8" r="7"></circle><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>', "bar-chart-2": '<line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line>', "bar-chart": '<line x1="12" y1="20" x2="12" y2="10"></line><line x1="18" y1="20" x2="18" y2="4"></line><line x1="6" y1="20" x2="6" y2="16"></line>', "battery-charging": '<path d="M5 18H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h3.19M15 6h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-3.19"></path><line x1="23" y1="13" x2="23" y2="11"></line><polyline points="11 6 7 12 13 12 9 18"></polyline>', "battery": '<rect x="1" y="6" width="18" height="12" rx="2" ry="2"></rect><line x1="23" y1="13" x2="23" y2="11"></line>', "bell-off": '<path d="M13.73 21a2 2 0 0 1-3.46 0"></path><path d="M18.63 13A17.89 17.89 0 0 1 18 8"></path><path d="M6.26 6.26A5.86 5.86 0 0 0 6 8c0 7-3 9-3 9h14"></path><path d="M18 8a6 6 0 0 0-9.33-5"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "bell": '<path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.73 21a2 2 0 0 1-3.46 0"></path>', "bluetooth": '<polyline points="6.5 6.5 17.5 17.5 12 23 12 1 17.5 6.5 6.5 17.5"></polyline>', "bold": '<path d="M6 4h8a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z"></path><path d="M6 12h9a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z"></path>', "book-open": '<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>', "book": '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>', "bookmark": '<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>', "box": '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line>', "briefcase": '<rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>', "calendar": '<rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>', "camera-off": '<line x1="1" y1="1" x2="23" y2="23"></line><path d="M21 21H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h3m3-3h6l2 3h4a2 2 0 0 1 2 2v9.34m-7.72-2.06a4 4 0 1 1-5.56-5.56"></path>', "camera": '<path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle>', "cast": '<path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path><line x1="2" y1="20" x2="2.01" y2="20"></line>', "check-circle": '<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline>', "check-square": '<polyline points="9 11 12 14 22 4"></polyline><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path>', "check": '<polyline points="20 6 9 17 4 12"></polyline>', "chevron-down": '<polyline points="6 9 12 15 18 9"></polyline>', "chevron-left": '<polyline points="15 18 9 12 15 6"></polyline>', "chevron-right": '<polyline points="9 18 15 12 9 6"></polyline>', "chevron-up": '<polyline points="18 15 12 9 6 15"></polyline>', "chevrons-down": '<polyline points="7 13 12 18 17 13"></polyline><polyline points="7 6 12 11 17 6"></polyline>', "chevrons-left": '<polyline points="11 17 6 12 11 7"></polyline><polyline points="18 17 13 12 18 7"></polyline>', "chevrons-right": '<polyline points="13 17 18 12 13 7"></polyline><polyline points="6 17 11 12 6 7"></polyline>', "chevrons-up": '<polyline points="17 11 12 6 7 11"></polyline><polyline points="17 18 12 13 7 18"></polyline>', "chrome": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="21.17" y1="8" x2="12" y2="8"></line><line x1="3.95" y1="6.06" x2="8.54" y2="14"></line><line x1="10.88" y1="21.94" x2="15.46" y2="14"></line>', "circle": '<circle cx="12" cy="12" r="10"></circle>', "clipboard": '<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>', "clock": '<circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>', "cloud-drizzle": '<line x1="8" y1="19" x2="8" y2="21"></line><line x1="8" y1="13" x2="8" y2="15"></line><line x1="16" y1="19" x2="16" y2="21"></line><line x1="16" y1="13" x2="16" y2="15"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="12" y1="15" x2="12" y2="17"></line><path d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"></path>', "cloud-lightning": '<path d="M19 16.9A5 5 0 0 0 18 7h-1.26a8 8 0 1 0-11.62 9"></path><polyline points="13 11 9 17 15 17 11 23"></polyline>', "cloud-off": '<path d="M22.61 16.95A5 5 0 0 0 18 10h-1.26a8 8 0 0 0-7.05-6M5 5a8 8 0 0 0 4 15h9a5 5 0 0 0 1.7-.3"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "cloud-rain": '<line x1="16" y1="13" x2="16" y2="21"></line><line x1="8" y1="13" x2="8" y2="21"></line><line x1="12" y1="15" x2="12" y2="23"></line><path d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"></path>', "cloud-snow": '<path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25"></path><line x1="8" y1="16" x2="8.01" y2="16"></line><line x1="8" y1="20" x2="8.01" y2="20"></line><line x1="12" y1="18" x2="12.01" y2="18"></line><line x1="12" y1="22" x2="12.01" y2="22"></line><line x1="16" y1="16" x2="16.01" y2="16"></line><line x1="16" y1="20" x2="16.01" y2="20"></line>', "cloud": '<path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"></path>', "code": '<polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline>', "codepen": '<polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"></polygon><line x1="12" y1="22" x2="12" y2="15.5"></line><polyline points="22 8.5 12 15.5 2 8.5"></polyline><polyline points="2 15.5 12 8.5 22 15.5"></polyline><line x1="12" y1="2" x2="12" y2="8.5"></line>', "codesandbox": '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="7.5 4.21 12 6.81 16.5 4.21"></polyline><polyline points="7.5 19.79 7.5 14.6 3 12"></polyline><polyline points="21 12 16.5 14.6 16.5 19.79"></polyline><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line>', "coffee": '<path d="M18 8h1a4 4 0 0 1 0 8h-1"></path><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path><line x1="6" y1="1" x2="6" y2="4"></line><line x1="10" y1="1" x2="10" y2="4"></line><line x1="14" y1="1" x2="14" y2="4"></line>', "columns": '<path d="M12 3h7a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-7m0-18H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h7m0-18v18"></path>', "command": '<path d="M18 3a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3H6a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3V6a3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3h12a3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path>', "compass": '<circle cx="12" cy="12" r="10"></circle><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>', "copy": '<rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>', "corner-down-left": '<polyline points="9 10 4 15 9 20"></polyline><path d="M20 4v7a4 4 0 0 1-4 4H4"></path>', "corner-down-right": '<polyline points="15 10 20 15 15 20"></polyline><path d="M4 4v7a4 4 0 0 0 4 4h12"></path>', "corner-left-down": '<polyline points="14 15 9 20 4 15"></polyline><path d="M20 4h-7a4 4 0 0 0-4 4v12"></path>', "corner-left-up": '<polyline points="14 9 9 4 4 9"></polyline><path d="M20 20h-7a4 4 0 0 1-4-4V4"></path>', "corner-right-down": '<polyline points="10 15 15 20 20 15"></polyline><path d="M4 4h7a4 4 0 0 1 4 4v12"></path>', "corner-right-up": '<polyline points="10 9 15 4 20 9"></polyline><path d="M4 20h7a4 4 0 0 0 4-4V4"></path>', "corner-up-left": '<polyline points="9 14 4 9 9 4"></polyline><path d="M20 20v-7a4 4 0 0 0-4-4H4"></path>', "corner-up-right": '<polyline points="15 14 20 9 15 4"></polyline><path d="M4 20v-7a4 4 0 0 1 4-4h12"></path>', "cpu": '<rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line>', "credit-card": '<rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect><line x1="1" y1="10" x2="23" y2="10"></line>', "crop": '<path d="M6.13 1L6 16a2 2 0 0 0 2 2h15"></path><path d="M1 6.13L16 6a2 2 0 0 1 2 2v15"></path>', "crosshair": '<circle cx="12" cy="12" r="10"></circle><line x1="22" y1="12" x2="18" y2="12"></line><line x1="6" y1="12" x2="2" y2="12"></line><line x1="12" y1="6" x2="12" y2="2"></line><line x1="12" y1="22" x2="12" y2="18"></line>', "database": '<ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path>', "delete": '<path d="M21 4H8l-7 8 7 8h13a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"></path><line x1="18" y1="9" x2="12" y2="15"></line><line x1="12" y1="9" x2="18" y2="15"></line>', "disc": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle>', "divide-circle": '<line x1="8" y1="12" x2="16" y2="12"></line><line x1="12" y1="16" x2="12" y2="16"></line><line x1="12" y1="8" x2="12" y2="8"></line><circle cx="12" cy="12" r="10"></circle>', "divide-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="8" y1="12" x2="16" y2="12"></line><line x1="12" y1="16" x2="12" y2="16"></line><line x1="12" y1="8" x2="12" y2="8"></line>', "divide": '<circle cx="12" cy="6" r="2"></circle><line x1="5" y1="12" x2="19" y2="12"></line><circle cx="12" cy="18" r="2"></circle>', "dollar-sign": '<line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>', "download-cloud": '<polyline points="8 17 12 21 16 17"></polyline><line x1="12" y1="12" x2="12" y2="21"></line><path d="M20.88 18.09A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.29"></path>', "download": '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line>', "dribbble": '<circle cx="12" cy="12" r="10"></circle><path d="M8.56 2.75c4.37 6.03 6.02 9.42 8.03 17.72m2.54-15.38c-3.72 4.35-8.94 5.66-16.88 5.85m19.5 1.9c-3.5-.93-6.63-.82-8.94 0-2.58.92-5.01 2.86-7.44 6.32"></path>', "droplet": '<path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path>', "edit-2": '<path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path>', "edit-3": '<path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>', "edit": '<path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>', "external-link": '<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line>', "eye-off": '<path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "eye": '<path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle>', "facebook": '<path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>', "fast-forward": '<polygon points="13 19 22 12 13 5 13 19"></polygon><polygon points="2 19 11 12 2 5 2 19"></polygon>', "feather": '<path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path><line x1="16" y1="8" x2="2" y2="22"></line><line x1="17.5" y1="15" x2="9" y2="15"></line>', "figma": '<path d="M5 5.5A3.5 3.5 0 0 1 8.5 2H12v7H8.5A3.5 3.5 0 0 1 5 5.5z"></path><path d="M12 2h3.5a3.5 3.5 0 1 1 0 7H12V2z"></path><path d="M12 12.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 1 1-7 0z"></path><path d="M5 19.5A3.5 3.5 0 0 1 8.5 16H12v3.5a3.5 3.5 0 1 1-7 0z"></path><path d="M5 12.5A3.5 3.5 0 0 1 8.5 9H12v7H8.5A3.5 3.5 0 0 1 5 12.5z"></path>', "file-minus": '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="9" y1="15" x2="15" y2="15"></line>', "file-plus": '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="12" y1="18" x2="12" y2="12"></line><line x1="9" y1="15" x2="15" y2="15"></line>', "file-text": '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline>', "file": '<path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>', "film": '<rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect><line x1="7" y1="2" x2="7" y2="22"></line><line x1="17" y1="2" x2="17" y2="22"></line><line x1="2" y1="12" x2="22" y2="12"></line><line x1="2" y1="7" x2="7" y2="7"></line><line x1="2" y1="17" x2="7" y2="17"></line><line x1="17" y1="17" x2="22" y2="17"></line><line x1="17" y1="7" x2="22" y2="7"></line>', "filter": '<polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>', "flag": '<path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path><line x1="4" y1="22" x2="4" y2="15"></line>', "folder-minus": '<path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path><line x1="9" y1="14" x2="15" y2="14"></line>', "folder-plus": '<path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path><line x1="12" y1="11" x2="12" y2="17"></line><line x1="9" y1="14" x2="15" y2="14"></line>', "folder": '<path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>', "framer": '<path d="M5 16V9h14V2H5l14 14h-7m-7 0l7 7v-7m-7 0h7"></path>', "frown": '<circle cx="12" cy="12" r="10"></circle><path d="M16 16s-1.5-2-4-2-4 2-4 2"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>', "gift": '<polyline points="20 12 20 22 4 22 4 12"></polyline><rect x="2" y="7" width="20" height="5"></rect><line x1="12" y1="22" x2="12" y2="7"></line><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"></path><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"></path>', "git-branch": '<line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path>', "git-commit": '<circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line>', "git-merge": '<circle cx="18" cy="18" r="3"></circle><circle cx="6" cy="6" r="3"></circle><path d="M6 21V9a9 9 0 0 0 9 9"></path>', "git-pull-request": '<circle cx="18" cy="18" r="3"></circle><circle cx="6" cy="6" r="3"></circle><path d="M13 6h3a2 2 0 0 1 2 2v7"></path><line x1="6" y1="9" x2="6" y2="21"></line>', "github": '<path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>', "gitlab": '<path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"></path>', "globe": '<circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>', "grid": '<rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect>', "hard-drive": '<line x1="22" y1="12" x2="2" y2="12"></line><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path><line x1="6" y1="16" x2="6.01" y2="16"></line><line x1="10" y1="16" x2="10.01" y2="16"></line>', "hash": '<line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line>', "headphones": '<path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path>', "heart": '<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>', "help-circle": '<circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line>', "hexagon": '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>', "home": '<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline>', "image": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline>', "inbox": '<polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path>', "info": '<circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line>', "instagram": '<rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>', "italic": '<line x1="19" y1="4" x2="10" y2="4"></line><line x1="14" y1="20" x2="5" y2="20"></line><line x1="15" y1="4" x2="9" y2="20"></line>', "key": '<path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"></path>', "layers": '<polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline>', "layout": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line>', "life-buoy": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="4.93" y1="4.93" x2="9.17" y2="9.17"></line><line x1="14.83" y1="14.83" x2="19.07" y2="19.07"></line><line x1="14.83" y1="9.17" x2="19.07" y2="4.93"></line><line x1="14.83" y1="9.17" x2="18.36" y2="5.64"></line><line x1="4.93" y1="19.07" x2="9.17" y2="14.83"></line>', "link-2": '<path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line>', "link": '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>', "linkedin": '<path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>', "list": '<line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line>', "loader": '<line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line>', "lock": '<rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path>', "log-in": '<path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"></path><polyline points="10 17 15 12 10 7"></polyline><line x1="15" y1="12" x2="3" y2="12"></line>', "log-out": '<path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line>', "mail": '<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline>', "map-pin": '<path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle>', "map": '<polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line>', "maximize-2": '<polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line>', "maximize": '<path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>', "meh": '<circle cx="12" cy="12" r="10"></circle><line x1="8" y1="15" x2="16" y2="15"></line><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>', "menu": '<line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>', "message-circle": '<path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path>', "message-square": '<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>', "mic-off": '<line x1="1" y1="1" x2="23" y2="23"></line><path d="M9 9v3a3 3 0 0 0 5.12 2.12M15 9.34V4a3 3 0 0 0-5.94-.6"></path><path d="M17 16.95A7 7 0 0 1 5 12v-2m14 0v2a7 7 0 0 1-.11 1.23"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line>', "mic": '<path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line>', "minimize-2": '<polyline points="4 14 10 14 10 20"></polyline><polyline points="20 10 14 10 14 4"></polyline><line x1="14" y1="10" x2="21" y2="3"></line><line x1="3" y1="21" x2="10" y2="14"></line>', "minimize": '<path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>', "minus-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="8" y1="12" x2="16" y2="12"></line>', "minus-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="8" y1="12" x2="16" y2="12"></line>', "minus": '<line x1="5" y1="12" x2="19" y2="12"></line>', "monitor": '<rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line>', "moon": '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>', "more-horizontal": '<circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle>', "more-vertical": '<circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle>', "mouse-pointer": '<path d="M3 3l7.07 16.97 2.51-7.39 7.39-2.51L3 3z"></path><path d="M13 13l6 6"></path>', "move": '<polyline points="5 9 2 12 5 15"></polyline><polyline points="9 5 12 2 15 5"></polyline><polyline points="15 19 12 22 9 19"></polyline><polyline points="19 9 22 12 19 15"></polyline><line x1="2" y1="12" x2="22" y2="12"></line><line x1="12" y1="2" x2="12" y2="22"></line>', "music": '<path d="M9 18V5l12-2v13"></path><circle cx="6" cy="18" r="3"></circle><circle cx="18" cy="16" r="3"></circle>', "navigation-2": '<polygon points="12 2 19 21 12 17 5 21 12 2"></polygon>', "navigation": '<polygon points="3 11 22 2 13 21 11 13 3 11"></polygon>', "octagon": '<polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2"></polygon>', "package": '<line x1="16.5" y1="9.4" x2="7.5" y2="4.21"></line><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line>', "paperclip": '<path d="M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"></path>', "pause-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="10" y1="15" x2="10" y2="9"></line><line x1="14" y1="15" x2="14" y2="9"></line>', "pause": '<rect x="6" y="4" width="4" height="16"></rect><rect x="14" y="4" width="4" height="16"></rect>', "pen-tool": '<path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle>', "percent": '<line x1="19" y1="5" x2="5" y2="19"></line><circle cx="6.5" cy="6.5" r="2.5"></circle><circle cx="17.5" cy="17.5" r="2.5"></circle>', "phone-call": '<path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-forwarded": '<polyline points="19 1 23 5 19 9"></polyline><line x1="15" y1="5" x2="23" y2="5"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-incoming": '<polyline points="16 2 16 8 22 8"></polyline><line x1="23" y1="1" x2="16" y2="8"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-missed": '<line x1="23" y1="1" x2="17" y2="7"></line><line x1="17" y1="1" x2="23" y2="7"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-off": '<path d="M10.68 13.31a16 16 0 0 0 3.41 2.6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7 2 2 0 0 1 1.72 2v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.42 19.42 0 0 1-3.33-2.67m-2.67-3.34a19.79 19.79 0 0 1-3.07-8.63A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91"></path><line x1="23" y1="1" x2="1" y2="23"></line>', "phone-outgoing": '<polyline points="23 7 23 1 17 1"></polyline><line x1="16" y1="8" x2="23" y2="1"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone": '<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "pie-chart": '<path d="M21.21 15.89A10 10 0 1 1 8 2.83"></path><path d="M22 12A10 10 0 0 0 12 2v10z"></path>', "play-circle": '<circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon>', "play": '<polygon points="5 3 19 12 5 21 5 3"></polygon>', "plus-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line>', "plus-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line>', "plus": '<line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line>', "pocket": '<path d="M4 3h16a2 2 0 0 1 2 2v6a10 10 0 0 1-10 10A10 10 0 0 1 2 11V5a2 2 0 0 1 2-2z"></path><polyline points="8 10 12 14 16 10"></polyline>', "power": '<path d="M18.36 6.64a9 9 0 1 1-12.73 0"></path><line x1="12" y1="2" x2="12" y2="12"></line>', "printer": '<polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect>', "radio": '<circle cx="12" cy="12" r="2"></circle><path d="M16.24 7.76a6 6 0 0 1 0 8.49m-8.48-.01a6 6 0 0 1 0-8.49m11.31-2.82a10 10 0 0 1 0 14.14m-14.14 0a10 10 0 0 1 0-14.14"></path>', "refresh-ccw": '<polyline points="1 4 1 10 7 10"></polyline><polyline points="23 20 23 14 17 14"></polyline><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"></path>', "refresh-cw": '<polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>', "repeat": '<polyline points="17 1 21 5 17 9"></polyline><path d="M3 11V9a4 4 0 0 1 4-4h14"></path><polyline points="7 23 3 19 7 15"></polyline><path d="M21 13v2a4 4 0 0 1-4 4H3"></path>', "rewind": '<polygon points="11 19 2 12 11 5 11 19"></polygon><polygon points="22 19 13 12 22 5 22 19"></polygon>', "rotate-ccw": '<polyline points="1 4 1 10 7 10"></polyline><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path>', "rotate-cw": '<polyline points="23 4 23 10 17 10"></polyline><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>', "rss": '<path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle>', "save": '<path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline>', "scissors": '<circle cx="6" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><line x1="20" y1="4" x2="8.12" y2="15.88"></line><line x1="14.47" y1="14.48" x2="20" y2="20"></line><line x1="8.12" y1="8.12" x2="12" y2="12"></line>', "search": '<circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>', "send": '<line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>', "server": '<rect x="2" y="2" width="20" height="8" rx="2" ry="2"></rect><rect x="2" y="14" width="20" height="8" rx="2" ry="2"></rect><line x1="6" y1="6" x2="6.01" y2="6"></line><line x1="6" y1="18" x2="6.01" y2="18"></line>', "settings": '<circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>', "share-2": '<circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>', "share": '<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line>', "shield-off": '<path d="M19.69 14a6.9 6.9 0 0 0 .31-2V5l-8-3-3.16 1.18"></path><path d="M4.73 4.73L4 5v7c0 6 8 10 8 10a20.29 20.29 0 0 0 5.62-4.38"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "shield": '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>', "shopping-bag": '<path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path>', "shopping-cart": '<circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>', "shuffle": '<polyline points="16 3 21 3 21 8"></polyline><line x1="4" y1="20" x2="21" y2="3"></line><polyline points="21 16 21 21 16 21"></polyline><line x1="15" y1="15" x2="21" y2="21"></line><line x1="4" y1="4" x2="9" y2="9"></line>', "sidebar": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line>', "skip-back": '<polygon points="19 20 9 12 19 4 19 20"></polygon><line x1="5" y1="19" x2="5" y2="5"></line>', "skip-forward": '<polygon points="5 4 15 12 5 20 5 4"></polygon><line x1="19" y1="5" x2="19" y2="19"></line>', "slack": '<path d="M14.5 10c-.83 0-1.5-.67-1.5-1.5v-5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v5c0 .83-.67 1.5-1.5 1.5z"></path><path d="M20.5 10H19V8.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"></path><path d="M9.5 14c.83 0 1.5.67 1.5 1.5v5c0 .83-.67 1.5-1.5 1.5S8 21.33 8 20.5v-5c0-.83.67-1.5 1.5-1.5z"></path><path d="M3.5 14H5v1.5c0 .83-.67 1.5-1.5 1.5S2 16.33 2 15.5 2.67 14 3.5 14z"></path><path d="M14 14.5c0-.83.67-1.5 1.5-1.5h5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5h-5c-.83 0-1.5-.67-1.5-1.5z"></path><path d="M15.5 19H14v1.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5z"></path><path d="M10 9.5C10 8.67 9.33 8 8.5 8h-5C2.67 8 2 8.67 2 9.5S2.67 11 3.5 11h5c.83 0 1.5-.67 1.5-1.5z"></path><path d="M8.5 5H10V3.5C10 2.67 9.33 2 8.5 2S7 2.67 7 3.5 7.67 5 8.5 5z"></path>', "slash": '<circle cx="12" cy="12" r="10"></circle><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"></line>', "sliders": '<line x1="4" y1="21" x2="4" y2="14"></line><line x1="4" y1="10" x2="4" y2="3"></line><line x1="12" y1="21" x2="12" y2="12"></line><line x1="12" y1="8" x2="12" y2="3"></line><line x1="20" y1="21" x2="20" y2="16"></line><line x1="20" y1="12" x2="20" y2="3"></line><line x1="1" y1="14" x2="7" y2="14"></line><line x1="9" y1="8" x2="15" y2="8"></line><line x1="17" y1="16" x2="23" y2="16"></line>', "smartphone": '<rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line>', "smile": '<circle cx="12" cy="12" r="10"></circle><path d="M8 14s1.5 2 4 2 4-2 4-2"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>', "speaker": '<rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect><circle cx="12" cy="14" r="4"></circle><line x1="12" y1="6" x2="12.01" y2="6"></line>', "square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>', "star": '<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>', "stop-circle": '<circle cx="12" cy="12" r="10"></circle><rect x="9" y="9" width="6" height="6"></rect>', "sun": '<circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>', "sunrise": '<path d="M17 18a5 5 0 0 0-10 0"></path><line x1="12" y1="2" x2="12" y2="9"></line><line x1="4.22" y1="10.22" x2="5.64" y2="11.64"></line><line x1="1" y1="18" x2="3" y2="18"></line><line x1="21" y1="18" x2="23" y2="18"></line><line x1="18.36" y1="11.64" x2="19.78" y2="10.22"></line><line x1="23" y1="22" x2="1" y2="22"></line><polyline points="8 6 12 2 16 6"></polyline>', "sunset": '<path d="M17 18a5 5 0 0 0-10 0"></path><line x1="12" y1="9" x2="12" y2="2"></line><line x1="4.22" y1="10.22" x2="5.64" y2="11.64"></line><line x1="1" y1="18" x2="3" y2="18"></line><line x1="21" y1="18" x2="23" y2="18"></line><line x1="18.36" y1="11.64" x2="19.78" y2="10.22"></line><line x1="23" y1="22" x2="1" y2="22"></line><polyline points="16 5 12 9 8 5"></polyline>', "table": '<path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"></path>', "tablet": '<rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line>', "tag": '<path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>', "target": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle>', "terminal": '<polyline points="4 17 10 11 4 5"></polyline><line x1="12" y1="19" x2="20" y2="19"></line>', "thermometer": '<path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"></path>', "thumbs-down": '<path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"></path>', "thumbs-up": '<path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>', "toggle-left": '<rect x="1" y="5" width="22" height="14" rx="7" ry="7"></rect><circle cx="8" cy="12" r="3"></circle>', "toggle-right": '<rect x="1" y="5" width="22" height="14" rx="7" ry="7"></rect><circle cx="16" cy="12" r="3"></circle>', "tool": '<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>', "trash-2": '<polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line>', "trash": '<polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>', "trello": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><rect x="7" y="7" width="3" height="9"></rect><rect x="14" y="7" width="3" height="5"></rect>', "trending-down": '<polyline points="23 18 13.5 8.5 8.5 13.5 1 6"></polyline><polyline points="17 18 23 18 23 12"></polyline>', "trending-up": '<polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline>', "triangle": '<path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>', "truck": '<rect x="1" y="3" width="15" height="13"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle>', "tv": '<rect x="2" y="7" width="20" height="15" rx="2" ry="2"></rect><polyline points="17 2 12 7 7 2"></polyline>', "twitch": '<path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"></path>', "twitter": '<path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>', "type": '<polyline points="4 7 4 4 20 4 20 7"></polyline><line x1="9" y1="20" x2="15" y2="20"></line><line x1="12" y1="4" x2="12" y2="20"></line>', "umbrella": '<path d="M23 12a11.05 11.05 0 0 0-22 0zm-5 7a3 3 0 0 1-6 0v-7"></path>', "underline": '<path d="M6 3v7a6 6 0 0 0 6 6 6 6 0 0 0 6-6V3"></path><line x1="4" y1="21" x2="20" y2="21"></line>', "unlock": '<rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 9.9-1"></path>', "upload-cloud": '<polyline points="16 16 12 12 8 16"></polyline><line x1="12" y1="12" x2="12" y2="21"></line><path d="M20.39 18.39A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.3"></path><polyline points="16 16 12 12 8 16"></polyline>', "upload": '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line>', "user-check": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><polyline points="17 11 19 13 23 9"></polyline>', "user-minus": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="23" y1="11" x2="17" y2="11"></line>', "user-plus": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="20" y1="8" x2="20" y2="14"></line><line x1="23" y1="11" x2="17" y2="11"></line>', "user-x": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="18" y1="8" x2="23" y2="13"></line><line x1="23" y1="8" x2="18" y2="13"></line>', "user": '<path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle>', "users": '<path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path>', "video-off": '<path d="M16 16v1a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h2m5.66 0H14a2 2 0 0 1 2 2v3.34l1 1L23 7v10"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "video": '<polygon points="23 7 16 12 23 17 23 7"></polygon><rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>', "voicemail": '<circle cx="5.5" cy="11.5" r="4.5"></circle><circle cx="18.5" cy="11.5" r="4.5"></circle><line x1="5.5" y1="16" x2="18.5" y2="16"></line>', "volume-1": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>', "volume-2": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>', "volume-x": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><line x1="23" y1="9" x2="17" y2="15"></line><line x1="17" y1="9" x2="23" y2="15"></line>', "volume": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>', "watch": '<circle cx="12" cy="12" r="7"></circle><polyline points="12 9 12 12 13.5 13.5"></polyline><path d="M16.51 17.35l-.35 3.83a2 2 0 0 1-2 1.82H9.83a2 2 0 0 1-2-1.82l-.35-3.83m.01-10.7l.35-3.83A2 2 0 0 1 9.83 1h4.35a2 2 0 0 1 2 1.82l.35 3.83"></path>', "wifi-off": '<line x1="1" y1="1" x2="23" y2="23"></line><path d="M16.72 11.06A10.94 10.94 0 0 1 19 12.55"></path><path d="M5 12.55a10.94 10.94 0 0 1 5.17-2.39"></path><path d="M10.71 5.05A16 16 0 0 1 22.58 9"></path><path d="M1.42 9a15.91 15.91 0 0 1 4.7-2.88"></path><path d="M8.53 16.11a6 6 0 0 1 6.95 0"></path><line x1="12" y1="20" x2="12.01" y2="20"></line>', "wifi": '<path d="M5 12.55a11 11 0 0 1 14.08 0"></path><path d="M1.42 9a16 16 0 0 1 21.16 0"></path><path d="M8.53 16.11a6 6 0 0 1 6.95 0"></path><line x1="12" y1="20" x2="12.01" y2="20"></line>', "wind": '<path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"></path>', "x-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line>', "x-octagon": '<polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2"></polygon><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line>', "x-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="9" x2="15" y2="15"></line><line x1="15" y1="9" x2="9" y2="15"></line>', "x": '<line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>', "youtube": '<path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>', "zap-off": '<polyline points="12.41 6.75 13 2 10.57 4.92"></polyline><polyline points="18.57 12.91 21 10 15.66 10"></polyline><polyline points="8 8 3 14 12 14 11 22 16 16"></polyline><line x1="1" y1="1" x2="23" y2="23"></line>', "zap": '<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>', "zoom-in": '<circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line>', "zoom-out": '<circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="8" y1="11" x2="14" y2="11"></line>' };
+              module3.exports = { "activity": '<polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>', "airplay": '<path d="M5 17H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-1"></path><polygon points="12 15 17 21 7 21 12 15"></polygon>', "alert-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line>', "alert-octagon": '<polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2"></polygon><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line>', "alert-triangle": '<path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line>', "align-center": '<line x1="18" y1="10" x2="6" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="18" y1="18" x2="6" y2="18"></line>', "align-justify": '<line x1="21" y1="10" x2="3" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="21" y1="18" x2="3" y2="18"></line>', "align-left": '<line x1="17" y1="10" x2="3" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="17" y1="18" x2="3" y2="18"></line>', "align-right": '<line x1="21" y1="10" x2="7" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="21" y1="18" x2="7" y2="18"></line>', "anchor": '<circle cx="12" cy="5" r="3"></circle><line x1="12" y1="22" x2="12" y2="8"></line><path d="M5 12H2a10 10 0 0 0 20 0h-3"></path>', "aperture": '<circle cx="12" cy="12" r="10"></circle><line x1="14.31" y1="8" x2="20.05" y2="17.94"></line><line x1="9.69" y1="8" x2="21.17" y2="8"></line><line x1="7.38" y1="12" x2="13.12" y2="2.06"></line><line x1="9.69" y1="16" x2="3.95" y2="6.06"></line><line x1="14.31" y1="16" x2="2.83" y2="16"></line><line x1="16.62" y1="12" x2="10.88" y2="21.94"></line>', "archive": '<polyline points="21 8 21 21 3 21 3 8"></polyline><rect x="1" y="3" width="22" height="5"></rect><line x1="10" y1="12" x2="14" y2="12"></line>', "arrow-down-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="8 12 12 16 16 12"></polyline><line x1="12" y1="8" x2="12" y2="16"></line>', "arrow-down-left": '<line x1="17" y1="7" x2="7" y2="17"></line><polyline points="17 17 7 17 7 7"></polyline>', "arrow-down-right": '<line x1="7" y1="7" x2="17" y2="17"></line><polyline points="17 7 17 17 7 17"></polyline>', "arrow-down": '<line x1="12" y1="5" x2="12" y2="19"></line><polyline points="19 12 12 19 5 12"></polyline>', "arrow-left-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="12 8 8 12 12 16"></polyline><line x1="16" y1="12" x2="8" y2="12"></line>', "arrow-left": '<line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline>', "arrow-right-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="12 16 16 12 12 8"></polyline><line x1="8" y1="12" x2="16" y2="12"></line>', "arrow-right": '<line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline>', "arrow-up-circle": '<circle cx="12" cy="12" r="10"></circle><polyline points="16 12 12 8 8 12"></polyline><line x1="12" y1="16" x2="12" y2="8"></line>', "arrow-up-left": '<line x1="17" y1="17" x2="7" y2="7"></line><polyline points="7 17 7 7 17 7"></polyline>', "arrow-up-right": '<line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline>', "arrow-up": '<line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline>', "at-sign": '<circle cx="12" cy="12" r="4"></circle><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"></path>', "award": '<circle cx="12" cy="8" r="7"></circle><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>', "bar-chart-2": '<line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line>', "bar-chart": '<line x1="12" y1="20" x2="12" y2="10"></line><line x1="18" y1="20" x2="18" y2="4"></line><line x1="6" y1="20" x2="6" y2="16"></line>', "battery-charging": '<path d="M5 18H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h3.19M15 6h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-3.19"></path><line x1="23" y1="13" x2="23" y2="11"></line><polyline points="11 6 7 12 13 12 9 18"></polyline>', "battery": '<rect x="1" y="6" width="18" height="12" rx="2" ry="2"></rect><line x1="23" y1="13" x2="23" y2="11"></line>', "bell-off": '<path d="M13.73 21a2 2 0 0 1-3.46 0"></path><path d="M18.63 13A17.89 17.89 0 0 1 18 8"></path><path d="M6.26 6.26A5.86 5.86 0 0 0 6 8c0 7-3 9-3 9h14"></path><path d="M18 8a6 6 0 0 0-9.33-5"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "bell": '<path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.73 21a2 2 0 0 1-3.46 0"></path>', "bluetooth": '<polyline points="6.5 6.5 17.5 17.5 12 23 12 1 17.5 6.5 6.5 17.5"></polyline>', "bold": '<path d="M6 4h8a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z"></path><path d="M6 12h9a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z"></path>', "book-open": '<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>', "book": '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>', "bookmark": '<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>', "box": '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line>', "briefcase": '<rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>', "calendar": '<rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>', "camera-off": '<line x1="1" y1="1" x2="23" y2="23"></line><path d="M21 21H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h3m3-3h6l2 3h4a2 2 0 0 1 2 2v9.34m-7.72-2.06a4 4 0 1 1-5.56-5.56"></path>', "camera": '<path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle>', "cast": '<path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path><line x1="2" y1="20" x2="2.01" y2="20"></line>', "check-circle": '<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline>', "check-square": '<polyline points="9 11 12 14 22 4"></polyline><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path>', "check": '<polyline points="20 6 9 17 4 12"></polyline>', "chevron-down": '<polyline points="6 9 12 15 18 9"></polyline>', "chevron-left": '<polyline points="15 18 9 12 15 6"></polyline>', "chevron-right": '<polyline points="9 18 15 12 9 6"></polyline>', "chevron-up": '<polyline points="18 15 12 9 6 15"></polyline>', "chevrons-down": '<polyline points="7 13 12 18 17 13"></polyline><polyline points="7 6 12 11 17 6"></polyline>', "chevrons-left": '<polyline points="11 17 6 12 11 7"></polyline><polyline points="18 17 13 12 18 7"></polyline>', "chevrons-right": '<polyline points="13 17 18 12 13 7"></polyline><polyline points="6 17 11 12 6 7"></polyline>', "chevrons-up": '<polyline points="17 11 12 6 7 11"></polyline><polyline points="17 18 12 13 7 18"></polyline>', "chrome": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="21.17" y1="8" x2="12" y2="8"></line><line x1="3.95" y1="6.06" x2="8.54" y2="14"></line><line x1="10.88" y1="21.94" x2="15.46" y2="14"></line>', "circle": '<circle cx="12" cy="12" r="10"></circle>', "clipboard": '<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>', "clock": '<circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>', "cloud-drizzle": '<line x1="8" y1="19" x2="8" y2="21"></line><line x1="8" y1="13" x2="8" y2="15"></line><line x1="16" y1="19" x2="16" y2="21"></line><line x1="16" y1="13" x2="16" y2="15"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="12" y1="15" x2="12" y2="17"></line><path d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"></path>', "cloud-lightning": '<path d="M19 16.9A5 5 0 0 0 18 7h-1.26a8 8 0 1 0-11.62 9"></path><polyline points="13 11 9 17 15 17 11 23"></polyline>', "cloud-off": '<path d="M22.61 16.95A5 5 0 0 0 18 10h-1.26a8 8 0 0 0-7.05-6M5 5a8 8 0 0 0 4 15h9a5 5 0 0 0 1.7-.3"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "cloud-rain": '<line x1="16" y1="13" x2="16" y2="21"></line><line x1="8" y1="13" x2="8" y2="21"></line><line x1="12" y1="15" x2="12" y2="23"></line><path d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"></path>', "cloud-snow": '<path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25"></path><line x1="8" y1="16" x2="8.01" y2="16"></line><line x1="8" y1="20" x2="8.01" y2="20"></line><line x1="12" y1="18" x2="12.01" y2="18"></line><line x1="12" y1="22" x2="12.01" y2="22"></line><line x1="16" y1="16" x2="16.01" y2="16"></line><line x1="16" y1="20" x2="16.01" y2="20"></line>', "cloud": '<path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"></path>', "code": '<polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline>', "codepen": '<polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"></polygon><line x1="12" y1="22" x2="12" y2="15.5"></line><polyline points="22 8.5 12 15.5 2 8.5"></polyline><polyline points="2 15.5 12 8.5 22 15.5"></polyline><line x1="12" y1="2" x2="12" y2="8.5"></line>', "codesandbox": '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="7.5 4.21 12 6.81 16.5 4.21"></polyline><polyline points="7.5 19.79 7.5 14.6 3 12"></polyline><polyline points="21 12 16.5 14.6 16.5 19.79"></polyline><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line>', "coffee": '<path d="M18 8h1a4 4 0 0 1 0 8h-1"></path><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path><line x1="6" y1="1" x2="6" y2="4"></line><line x1="10" y1="1" x2="10" y2="4"></line><line x1="14" y1="1" x2="14" y2="4"></line>', "columns": '<path d="M12 3h7a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-7m0-18H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h7m0-18v18"></path>', "command": '<path d="M18 3a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3H6a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3V6a3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3h12a3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path>', "compass": '<circle cx="12" cy="12" r="10"></circle><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>', "copy": '<rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>', "corner-down-left": '<polyline points="9 10 4 15 9 20"></polyline><path d="M20 4v7a4 4 0 0 1-4 4H4"></path>', "corner-down-right": '<polyline points="15 10 20 15 15 20"></polyline><path d="M4 4v7a4 4 0 0 0 4 4h12"></path>', "corner-left-down": '<polyline points="14 15 9 20 4 15"></polyline><path d="M20 4h-7a4 4 0 0 0-4 4v12"></path>', "corner-left-up": '<polyline points="14 9 9 4 4 9"></polyline><path d="M20 20h-7a4 4 0 0 1-4-4V4"></path>', "corner-right-down": '<polyline points="10 15 15 20 20 15"></polyline><path d="M4 4h7a4 4 0 0 1 4 4v12"></path>', "corner-right-up": '<polyline points="10 9 15 4 20 9"></polyline><path d="M4 20h7a4 4 0 0 0 4-4V4"></path>', "corner-up-left": '<polyline points="9 14 4 9 9 4"></polyline><path d="M20 20v-7a4 4 0 0 0-4-4H4"></path>', "corner-up-right": '<polyline points="15 14 20 9 15 4"></polyline><path d="M4 20v-7a4 4 0 0 1 4-4h12"></path>', "cpu": '<rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line>', "credit-card": '<rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect><line x1="1" y1="10" x2="23" y2="10"></line>', "crop": '<path d="M6.13 1L6 16a2 2 0 0 0 2 2h15"></path><path d="M1 6.13L16 6a2 2 0 0 1 2 2v15"></path>', "crosshair": '<circle cx="12" cy="12" r="10"></circle><line x1="22" y1="12" x2="18" y2="12"></line><line x1="6" y1="12" x2="2" y2="12"></line><line x1="12" y1="6" x2="12" y2="2"></line><line x1="12" y1="22" x2="12" y2="18"></line>', "database": '<ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path>', "delete": '<path d="M21 4H8l-7 8 7 8h13a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"></path><line x1="18" y1="9" x2="12" y2="15"></line><line x1="12" y1="9" x2="18" y2="15"></line>', "disc": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle>', "divide-circle": '<line x1="8" y1="12" x2="16" y2="12"></line><line x1="12" y1="16" x2="12" y2="16"></line><line x1="12" y1="8" x2="12" y2="8"></line><circle cx="12" cy="12" r="10"></circle>', "divide-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="8" y1="12" x2="16" y2="12"></line><line x1="12" y1="16" x2="12" y2="16"></line><line x1="12" y1="8" x2="12" y2="8"></line>', "divide": '<circle cx="12" cy="6" r="2"></circle><line x1="5" y1="12" x2="19" y2="12"></line><circle cx="12" cy="18" r="2"></circle>', "dollar-sign": '<line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>', "download-cloud": '<polyline points="8 17 12 21 16 17"></polyline><line x1="12" y1="12" x2="12" y2="21"></line><path d="M20.88 18.09A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.29"></path>', "download": '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line>', "dribbble": '<circle cx="12" cy="12" r="10"></circle><path d="M8.56 2.75c4.37 6.03 6.02 9.42 8.03 17.72m2.54-15.38c-3.72 4.35-8.94 5.66-16.88 5.85m19.5 1.9c-3.5-.93-6.63-.82-8.94 0-2.58.92-5.01 2.86-7.44 6.32"></path>', "droplet": '<path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path>', "edit-2": '<path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path>', "edit-3": '<path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>', "edit": '<path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>', "external-link": '<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line>', "eye-off": '<path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "eye": '<path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle>', "facebook": '<path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>', "fast-forward": '<polygon points="13 19 22 12 13 5 13 19"></polygon><polygon points="2 19 11 12 2 5 2 19"></polygon>', "feather": '<path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path><line x1="16" y1="8" x2="2" y2="22"></line><line x1="17.5" y1="15" x2="9" y2="15"></line>', "figma": '<path d="M5 5.5A3.5 3.5 0 0 1 8.5 2H12v7H8.5A3.5 3.5 0 0 1 5 5.5z"></path><path d="M12 2h3.5a3.5 3.5 0 1 1 0 7H12V2z"></path><path d="M12 12.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 1 1-7 0z"></path><path d="M5 19.5A3.5 3.5 0 0 1 8.5 16H12v3.5a3.5 3.5 0 1 1-7 0z"></path><path d="M5 12.5A3.5 3.5 0 0 1 8.5 9H12v7H8.5A3.5 3.5 0 0 1 5 12.5z"></path>', "file-minus": '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="9" y1="15" x2="15" y2="15"></line>', "file-plus": '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="12" y1="18" x2="12" y2="12"></line><line x1="9" y1="15" x2="15" y2="15"></line>', "file-text": '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline>', "file": '<path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>', "film": '<rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect><line x1="7" y1="2" x2="7" y2="22"></line><line x1="17" y1="2" x2="17" y2="22"></line><line x1="2" y1="12" x2="22" y2="12"></line><line x1="2" y1="7" x2="7" y2="7"></line><line x1="2" y1="17" x2="7" y2="17"></line><line x1="17" y1="17" x2="22" y2="17"></line><line x1="17" y1="7" x2="22" y2="7"></line>', "filter": '<polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>', "flag": '<path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path><line x1="4" y1="22" x2="4" y2="15"></line>', "folder-minus": '<path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path><line x1="9" y1="14" x2="15" y2="14"></line>', "folder-plus": '<path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path><line x1="12" y1="11" x2="12" y2="17"></line><line x1="9" y1="14" x2="15" y2="14"></line>', "folder": '<path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>', "framer": '<path d="M5 16V9h14V2H5l14 14h-7m-7 0l7 7v-7m-7 0h7"></path>', "frown": '<circle cx="12" cy="12" r="10"></circle><path d="M16 16s-1.5-2-4-2-4 2-4 2"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>', "gift": '<polyline points="20 12 20 22 4 22 4 12"></polyline><rect x="2" y="7" width="20" height="5"></rect><line x1="12" y1="22" x2="12" y2="7"></line><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"></path><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"></path>', "git-branch": '<line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path>', "git-commit": '<circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line>', "git-merge": '<circle cx="18" cy="18" r="3"></circle><circle cx="6" cy="6" r="3"></circle><path d="M6 21V9a9 9 0 0 0 9 9"></path>', "git-pull-request": '<circle cx="18" cy="18" r="3"></circle><circle cx="6" cy="6" r="3"></circle><path d="M13 6h3a2 2 0 0 1 2 2v7"></path><line x1="6" y1="9" x2="6" y2="21"></line>', "github": '<path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>', "gitlab": '<path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"></path>', "globe": '<circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>', "grid": '<rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect>', "hard-drive": '<line x1="22" y1="12" x2="2" y2="12"></line><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path><line x1="6" y1="16" x2="6.01" y2="16"></line><line x1="10" y1="16" x2="10.01" y2="16"></line>', "hash": '<line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line>', "headphones": '<path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path>', "heart": '<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>', "help-circle": '<circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line>', "hexagon": '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>', "home": '<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline>', "image": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline>', "inbox": '<polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path>', "info": '<circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line>', "instagram": '<rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>', "italic": '<line x1="19" y1="4" x2="10" y2="4"></line><line x1="14" y1="20" x2="5" y2="20"></line><line x1="15" y1="4" x2="9" y2="20"></line>', "key": '<path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"></path>', "layers": '<polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline>', "layout": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line>', "life-buoy": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="4.93" y1="4.93" x2="9.17" y2="9.17"></line><line x1="14.83" y1="14.83" x2="19.07" y2="19.07"></line><line x1="14.83" y1="9.17" x2="19.07" y2="4.93"></line><line x1="14.83" y1="9.17" x2="18.36" y2="5.64"></line><line x1="4.93" y1="19.07" x2="9.17" y2="14.83"></line>', "link-2": '<path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line>', "link": '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>', "linkedin": '<path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>', "list": '<line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line>', "loader": '<line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line>', "lock": '<rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path>', "log-in": '<path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"></path><polyline points="10 17 15 12 10 7"></polyline><line x1="15" y1="12" x2="3" y2="12"></line>', "log-out": '<path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line>', "mail": '<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline>', "map-pin": '<path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle>', "map": '<polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line>', "maximize-2": '<polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line>', "maximize": '<path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>', "meh": '<circle cx="12" cy="12" r="10"></circle><line x1="8" y1="15" x2="16" y2="15"></line><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>', "menu": '<line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>', "message-circle": '<path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path>', "message-square": '<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>', "mic-off": '<line x1="1" y1="1" x2="23" y2="23"></line><path d="M9 9v3a3 3 0 0 0 5.12 2.12M15 9.34V4a3 3 0 0 0-5.94-.6"></path><path d="M17 16.95A7 7 0 0 1 5 12v-2m14 0v2a7 7 0 0 1-.11 1.23"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line>', "mic": '<path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line>', "minimize-2": '<polyline points="4 14 10 14 10 20"></polyline><polyline points="20 10 14 10 14 4"></polyline><line x1="14" y1="10" x2="21" y2="3"></line><line x1="3" y1="21" x2="10" y2="14"></line>', "minimize": '<path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>', "minus-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="8" y1="12" x2="16" y2="12"></line>', "minus-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="8" y1="12" x2="16" y2="12"></line>', "minus": '<line x1="5" y1="12" x2="19" y2="12"></line>', "monitor": '<rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line>', "moon": '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>', "more-horizontal": '<circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle>', "more-vertical": '<circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle>', "mouse-pointer": '<path d="M3 3l7.07 16.97 2.51-7.39 7.39-2.51L3 3z"></path><path d="M13 13l6 6"></path>', "move": '<polyline points="5 9 2 12 5 15"></polyline><polyline points="9 5 12 2 15 5"></polyline><polyline points="15 19 12 22 9 19"></polyline><polyline points="19 9 22 12 19 15"></polyline><line x1="2" y1="12" x2="22" y2="12"></line><line x1="12" y1="2" x2="12" y2="22"></line>', "music": '<path d="M9 18V5l12-2v13"></path><circle cx="6" cy="18" r="3"></circle><circle cx="18" cy="16" r="3"></circle>', "navigation-2": '<polygon points="12 2 19 21 12 17 5 21 12 2"></polygon>', "navigation": '<polygon points="3 11 22 2 13 21 11 13 3 11"></polygon>', "octagon": '<polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2"></polygon>', "package": '<line x1="16.5" y1="9.4" x2="7.5" y2="4.21"></line><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line>', "paperclip": '<path d="M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"></path>', "pause-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="10" y1="15" x2="10" y2="9"></line><line x1="14" y1="15" x2="14" y2="9"></line>', "pause": '<rect x="6" y="4" width="4" height="16"></rect><rect x="14" y="4" width="4" height="16"></rect>', "pen-tool": '<path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle>', "percent": '<line x1="19" y1="5" x2="5" y2="19"></line><circle cx="6.5" cy="6.5" r="2.5"></circle><circle cx="17.5" cy="17.5" r="2.5"></circle>', "phone-call": '<path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-forwarded": '<polyline points="19 1 23 5 19 9"></polyline><line x1="15" y1="5" x2="23" y2="5"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-incoming": '<polyline points="16 2 16 8 22 8"></polyline><line x1="23" y1="1" x2="16" y2="8"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-missed": '<line x1="23" y1="1" x2="17" y2="7"></line><line x1="17" y1="1" x2="23" y2="7"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone-off": '<path d="M10.68 13.31a16 16 0 0 0 3.41 2.6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7 2 2 0 0 1 1.72 2v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.42 19.42 0 0 1-3.33-2.67m-2.67-3.34a19.79 19.79 0 0 1-3.07-8.63A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91"></path><line x1="23" y1="1" x2="1" y2="23"></line>', "phone-outgoing": '<polyline points="23 7 23 1 17 1"></polyline><line x1="16" y1="8" x2="23" y2="1"></line><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "phone": '<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>', "pie-chart": '<path d="M21.21 15.89A10 10 0 1 1 8 2.83"></path><path d="M22 12A10 10 0 0 0 12 2v10z"></path>', "play-circle": '<circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon>', "play": '<polygon points="5 3 19 12 5 21 5 3"></polygon>', "plus-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line>', "plus-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line>', "plus": '<line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line>', "pocket": '<path d="M4 3h16a2 2 0 0 1 2 2v6a10 10 0 0 1-10 10A10 10 0 0 1 2 11V5a2 2 0 0 1 2-2z"></path><polyline points="8 10 12 14 16 10"></polyline>', "power": '<path d="M18.36 6.64a9 9 0 1 1-12.73 0"></path><line x1="12" y1="2" x2="12" y2="12"></line>', "printer": '<polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect>', "radio": '<circle cx="12" cy="12" r="2"></circle><path d="M16.24 7.76a6 6 0 0 1 0 8.49m-8.48-.01a6 6 0 0 1 0-8.49m11.31-2.82a10 10 0 0 1 0 14.14m-14.14 0a10 10 0 0 1 0-14.14"></path>', "refresh-ccw": '<polyline points="1 4 1 10 7 10"></polyline><polyline points="23 20 23 14 17 14"></polyline><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"></path>', "refresh-cw": '<polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>', "repeat": '<polyline points="17 1 21 5 17 9"></polyline><path d="M3 11V9a4 4 0 0 1 4-4h14"></path><polyline points="7 23 3 19 7 15"></polyline><path d="M21 13v2a4 4 0 0 1-4 4H3"></path>', "rewind": '<polygon points="11 19 2 12 11 5 11 19"></polygon><polygon points="22 19 13 12 22 5 22 19"></polygon>', "rotate-ccw": '<polyline points="1 4 1 10 7 10"></polyline><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path>', "rotate-cw": '<polyline points="23 4 23 10 17 10"></polyline><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>', "rss": '<path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle>', "save": '<path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline>', "scissors": '<circle cx="6" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><line x1="20" y1="4" x2="8.12" y2="15.88"></line><line x1="14.47" y1="14.48" x2="20" y2="20"></line><line x1="8.12" y1="8.12" x2="12" y2="12"></line>', "search": '<circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>', "send": '<line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>', "server": '<rect x="2" y="2" width="20" height="8" rx="2" ry="2"></rect><rect x="2" y="14" width="20" height="8" rx="2" ry="2"></rect><line x1="6" y1="6" x2="6.01" y2="6"></line><line x1="6" y1="18" x2="6.01" y2="18"></line>', "settings": '<circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>', "share-2": '<circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>', "share": '<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line>', "shield-off": '<path d="M19.69 14a6.9 6.9 0 0 0 .31-2V5l-8-3-3.16 1.18"></path><path d="M4.73 4.73L4 5v7c0 6 8 10 8 10a20.29 20.29 0 0 0 5.62-4.38"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "shield": '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>', "shopping-bag": '<path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path>', "shopping-cart": '<circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>', "shuffle": '<polyline points="16 3 21 3 21 8"></polyline><line x1="4" y1="20" x2="21" y2="3"></line><polyline points="21 16 21 21 16 21"></polyline><line x1="15" y1="15" x2="21" y2="21"></line><line x1="4" y1="4" x2="9" y2="9"></line>', "sidebar": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="3" x2="9" y2="21"></line>', "skip-back": '<polygon points="19 20 9 12 19 4 19 20"></polygon><line x1="5" y1="19" x2="5" y2="5"></line>', "skip-forward": '<polygon points="5 4 15 12 5 20 5 4"></polygon><line x1="19" y1="5" x2="19" y2="19"></line>', "slack": '<path d="M14.5 10c-.83 0-1.5-.67-1.5-1.5v-5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v5c0 .83-.67 1.5-1.5 1.5z"></path><path d="M20.5 10H19V8.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"></path><path d="M9.5 14c.83 0 1.5.67 1.5 1.5v5c0 .83-.67 1.5-1.5 1.5S8 21.33 8 20.5v-5c0-.83.67-1.5 1.5-1.5z"></path><path d="M3.5 14H5v1.5c0 .83-.67 1.5-1.5 1.5S2 16.33 2 15.5 2.67 14 3.5 14z"></path><path d="M14 14.5c0-.83.67-1.5 1.5-1.5h5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5h-5c-.83 0-1.5-.67-1.5-1.5z"></path><path d="M15.5 19H14v1.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5z"></path><path d="M10 9.5C10 8.67 9.33 8 8.5 8h-5C2.67 8 2 8.67 2 9.5S2.67 11 3.5 11h5c.83 0 1.5-.67 1.5-1.5z"></path><path d="M8.5 5H10V3.5C10 2.67 9.33 2 8.5 2S7 2.67 7 3.5 7.67 5 8.5 5z"></path>', "slash": '<circle cx="12" cy="12" r="10"></circle><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"></line>', "sliders": '<line x1="4" y1="21" x2="4" y2="14"></line><line x1="4" y1="10" x2="4" y2="3"></line><line x1="12" y1="21" x2="12" y2="12"></line><line x1="12" y1="8" x2="12" y2="3"></line><line x1="20" y1="21" x2="20" y2="16"></line><line x1="20" y1="12" x2="20" y2="3"></line><line x1="1" y1="14" x2="7" y2="14"></line><line x1="9" y1="8" x2="15" y2="8"></line><line x1="17" y1="16" x2="23" y2="16"></line>', "smartphone": '<rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line>', "smile": '<circle cx="12" cy="12" r="10"></circle><path d="M8 14s1.5 2 4 2 4-2 4-2"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line>', "speaker": '<rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect><circle cx="12" cy="14" r="4"></circle><line x1="12" y1="6" x2="12.01" y2="6"></line>', "square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>', "star": '<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>', "stop-circle": '<circle cx="12" cy="12" r="10"></circle><rect x="9" y="9" width="6" height="6"></rect>', "sun": '<circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>', "sunrise": '<path d="M17 18a5 5 0 0 0-10 0"></path><line x1="12" y1="2" x2="12" y2="9"></line><line x1="4.22" y1="10.22" x2="5.64" y2="11.64"></line><line x1="1" y1="18" x2="3" y2="18"></line><line x1="21" y1="18" x2="23" y2="18"></line><line x1="18.36" y1="11.64" x2="19.78" y2="10.22"></line><line x1="23" y1="22" x2="1" y2="22"></line><polyline points="8 6 12 2 16 6"></polyline>', "sunset": '<path d="M17 18a5 5 0 0 0-10 0"></path><line x1="12" y1="9" x2="12" y2="2"></line><line x1="4.22" y1="10.22" x2="5.64" y2="11.64"></line><line x1="1" y1="18" x2="3" y2="18"></line><line x1="21" y1="18" x2="23" y2="18"></line><line x1="18.36" y1="11.64" x2="19.78" y2="10.22"></line><line x1="23" y1="22" x2="1" y2="22"></line><polyline points="16 5 12 9 8 5"></polyline>', "table": '<path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"></path>', "tablet": '<rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line>', "tag": '<path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>', "target": '<circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle>', "terminal": '<polyline points="4 17 10 11 4 5"></polyline><line x1="12" y1="19" x2="20" y2="19"></line>', "thermometer": '<path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"></path>', "thumbs-down": '<path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"></path>', "thumbs-up": '<path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>', "toggle-left": '<rect x="1" y="5" width="22" height="14" rx="7" ry="7"></rect><circle cx="8" cy="12" r="3"></circle>', "toggle-right": '<rect x="1" y="5" width="22" height="14" rx="7" ry="7"></rect><circle cx="16" cy="12" r="3"></circle>', "tool": '<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>', "trash-2": '<polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line>', "trash": '<polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>', "trello": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><rect x="7" y="7" width="3" height="9"></rect><rect x="14" y="7" width="3" height="5"></rect>', "trending-down": '<polyline points="23 18 13.5 8.5 8.5 13.5 1 6"></polyline><polyline points="17 18 23 18 23 12"></polyline>', "trending-up": '<polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline>', "triangle": '<path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>', "truck": '<rect x="1" y="3" width="15" height="13"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle>', "tv": '<rect x="2" y="7" width="20" height="15" rx="2" ry="2"></rect><polyline points="17 2 12 7 7 2"></polyline>', "twitch": '<path d="M21 2H3v16h5v4l4-4h5l4-4V2zM11 11V7M16 11V7"></path>', "twitter": '<path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>', "type": '<polyline points="4 7 4 4 20 4 20 7"></polyline><line x1="9" y1="20" x2="15" y2="20"></line><line x1="12" y1="4" x2="12" y2="20"></line>', "umbrella": '<path d="M23 12a11.05 11.05 0 0 0-22 0zm-5 7a3 3 0 0 1-6 0v-7"></path>', "underline": '<path d="M6 3v7a6 6 0 0 0 6 6 6 6 0 0 0 6-6V3"></path><line x1="4" y1="21" x2="20" y2="21"></line>', "unlock": '<rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 9.9-1"></path>', "upload-cloud": '<polyline points="16 16 12 12 8 16"></polyline><line x1="12" y1="12" x2="12" y2="21"></line><path d="M20.39 18.39A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.3"></path><polyline points="16 16 12 12 8 16"></polyline>', "upload": '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line>', "user-check": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><polyline points="17 11 19 13 23 9"></polyline>', "user-minus": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="23" y1="11" x2="17" y2="11"></line>', "user-plus": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="20" y1="8" x2="20" y2="14"></line><line x1="23" y1="11" x2="17" y2="11"></line>', "user-x": '<path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="18" y1="8" x2="23" y2="13"></line><line x1="23" y1="8" x2="18" y2="13"></line>', "user": '<path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle>', "users": '<path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path>', "video-off": '<path d="M16 16v1a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h2m5.66 0H14a2 2 0 0 1 2 2v3.34l1 1L23 7v10"></path><line x1="1" y1="1" x2="23" y2="23"></line>', "video": '<polygon points="23 7 16 12 23 17 23 7"></polygon><rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>', "voicemail": '<circle cx="5.5" cy="11.5" r="4.5"></circle><circle cx="18.5" cy="11.5" r="4.5"></circle><line x1="5.5" y1="16" x2="18.5" y2="16"></line>', "volume-1": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>', "volume-2": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>', "volume-x": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><line x1="23" y1="9" x2="17" y2="15"></line><line x1="17" y1="9" x2="23" y2="15"></line>', "volume": '<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>', "watch": '<circle cx="12" cy="12" r="7"></circle><polyline points="12 9 12 12 13.5 13.5"></polyline><path d="M16.51 17.35l-.35 3.83a2 2 0 0 1-2 1.82H9.83a2 2 0 0 1-2-1.82l-.35-3.83m.01-10.7l.35-3.83A2 2 0 0 1 9.83 1h4.35a2 2 0 0 1 2 1.82l.35 3.83"></path>', "wifi-off": '<line x1="1" y1="1" x2="23" y2="23"></line><path d="M16.72 11.06A10.94 10.94 0 0 1 19 12.55"></path><path d="M5 12.55a10.94 10.94 0 0 1 5.17-2.39"></path><path d="M10.71 5.05A16 16 0 0 1 22.58 9"></path><path d="M1.42 9a15.91 15.91 0 0 1 4.7-2.88"></path><path d="M8.53 16.11a6 6 0 0 1 6.95 0"></path><line x1="12" y1="20" x2="12.01" y2="20"></line>', "wifi": '<path d="M5 12.55a11 11 0 0 1 14.08 0"></path><path d="M1.42 9a16 16 0 0 1 21.16 0"></path><path d="M8.53 16.11a6 6 0 0 1 6.95 0"></path><line x1="12" y1="20" x2="12.01" y2="20"></line>', "wind": '<path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"></path>', "x-circle": '<circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line>', "x-octagon": '<polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2"></polygon><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line>', "x-square": '<rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="9" y1="9" x2="15" y2="15"></line><line x1="15" y1="9" x2="9" y2="15"></line>', "x": '<line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>', "youtube": '<path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>', "zap-off": '<polyline points="12.41 6.75 13 2 10.57 4.92"></polyline><polyline points="18.57 12.91 21 10 15.66 10"></polyline><polyline points="8 8 3 14 12 14 11 22 16 16"></polyline><line x1="1" y1="1" x2="23" y2="23"></line>', "zap": '<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>', "zoom-in": '<circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line>', "zoom-out": '<circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="8" y1="11" x2="14" y2="11"></line>' };
             }
           ),
           /***/
@@ -13369,12 +13620,12 @@ var require_feather = __commonJS({
             /*! no static exports found */
             /***/
             function(module3, exports3, __webpack_require__) {
-              var isObject = __webpack_require__(
+              var isObject2 = __webpack_require__(
                 /*! ../internals/is-object */
                 "./node_modules/core-js/internals/is-object.js"
               );
               module3.exports = function(it) {
-                if (!isObject(it)) {
+                if (!isObject2(it)) {
                   throw TypeError(String(it) + " is not an object");
                 }
                 return it;
@@ -13641,7 +13892,7 @@ var require_feather = __commonJS({
                 "./node_modules/core-js/internals/well-known-symbol.js"
               );
               var TO_STRING_TAG = wellKnownSymbol("toStringTag");
-              var CORRECT_ARGUMENTS = classofRaw(function() {
+              var CORRECT_ARGUMENTS = classofRaw(/* @__PURE__ */ function() {
                 return arguments;
               }()) == "Arguments";
               var tryGet = function(it, key2) {
@@ -13970,12 +14221,12 @@ var require_feather = __commonJS({
                 /*! ../internals/global */
                 "./node_modules/core-js/internals/global.js"
               );
-              var isObject = __webpack_require__(
+              var isObject2 = __webpack_require__(
                 /*! ../internals/is-object */
                 "./node_modules/core-js/internals/is-object.js"
               );
               var document2 = global2.document;
-              var exist = isObject(document2) && isObject(document2.createElement);
+              var exist = isObject2(document2) && isObject2(document2.createElement);
               module3.exports = function(it) {
                 return exist ? document2.createElement(it) : {};
               };
@@ -14289,7 +14540,7 @@ var require_feather = __commonJS({
                 /*! ../internals/global */
                 "./node_modules/core-js/internals/global.js"
               );
-              var isObject = __webpack_require__(
+              var isObject2 = __webpack_require__(
                 /*! ../internals/is-object */
                 "./node_modules/core-js/internals/is-object.js"
               );
@@ -14317,7 +14568,7 @@ var require_feather = __commonJS({
               var getterFor = function(TYPE) {
                 return function(it) {
                   var state;
-                  if (!isObject(it) || (state = get(it)).type !== TYPE) {
+                  if (!isObject2(it) || (state = get(it)).type !== TYPE) {
                     throw TypeError("Incompatible receiver, " + TYPE + " required");
                   }
                   return state;
@@ -15287,19 +15538,19 @@ var require_feather = __commonJS({
             /*! no static exports found */
             /***/
             function(module3, exports3, __webpack_require__) {
-              var isObject = __webpack_require__(
+              var isObject2 = __webpack_require__(
                 /*! ../internals/is-object */
                 "./node_modules/core-js/internals/is-object.js"
               );
               module3.exports = function(it, S) {
-                if (!isObject(it))
+                if (!isObject2(it))
                   return it;
                 var fn, val;
-                if (S && typeof (fn = it.toString) == "function" && !isObject(val = fn.call(it)))
+                if (S && typeof (fn = it.toString) == "function" && !isObject2(val = fn.call(it)))
                   return val;
-                if (typeof (fn = it.valueOf) == "function" && !isObject(val = fn.call(it)))
+                if (typeof (fn = it.valueOf) == "function" && !isObject2(val = fn.call(it)))
                   return val;
-                if (!S && typeof (fn = it.toString) == "function" && !isObject(val = fn.call(it)))
+                if (!S && typeof (fn = it.toString) == "function" && !isObject2(val = fn.call(it)))
                   return val;
                 throw TypeError("Can't convert object to primitive value");
               };
@@ -15328,7 +15579,7 @@ var require_feather = __commonJS({
             /*! no static exports found */
             /***/
             function(module3, exports3, __webpack_require__) {
-              var isObject = __webpack_require__(
+              var isObject2 = __webpack_require__(
                 /*! ../internals/is-object */
                 "./node_modules/core-js/internals/is-object.js"
               );
@@ -15338,7 +15589,7 @@ var require_feather = __commonJS({
               );
               module3.exports = function(O, proto) {
                 anObject(O);
-                if (!isObject(proto) && proto !== null) {
+                if (!isObject2(proto) && proto !== null) {
                   throw TypeError("Can't set " + String(proto) + " as a prototype");
                 }
               };
@@ -15455,7 +15706,7 @@ var require_feather = __commonJS({
             /***/
             function(module3, exports3) {
               var g;
-              g = function() {
+              g = /* @__PURE__ */ function() {
                 return this;
               }();
               try {
@@ -15501,7 +15752,7 @@ var require_feather = __commonJS({
                 }
                 return target;
               };
-              var _createClass = function() {
+              var _createClass = /* @__PURE__ */ function() {
                 function defineProperties(target, props) {
                   for (var i = 0; i < props.length; i++) {
                     var descriptor = props[i];
@@ -15716,10 +15967,10 @@ var require_feather = __commonJS({
             /*!***********************!*\
               !*** ./src/tags.json ***!
               \***********************/
-            /*! exports provided: activity, airplay, alert-circle, alert-octagon, alert-triangle, align-center, align-justify, align-left, align-right, anchor, archive, at-sign, award, aperture, bar-chart, bar-chart-2, battery, battery-charging, bell, bell-off, bluetooth, book-open, book, bookmark, box, briefcase, calendar, camera, cast, chevron-down, chevron-up, circle, clipboard, clock, cloud-drizzle, cloud-lightning, cloud-rain, cloud-snow, cloud, codepen, codesandbox, code, coffee, columns, command, compass, copy, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, cpu, credit-card, crop, crosshair, database, delete, disc, dollar-sign, droplet, edit, edit-2, edit-3, eye, eye-off, external-link, facebook, fast-forward, figma, file-minus, file-plus, file-text, film, filter, flag, folder-minus, folder-plus, folder, framer, frown, gift, git-branch, git-commit, git-merge, git-pull-request, github, gitlab, globe, hard-drive, hash, headphones, heart, help-circle, hexagon, home, image, inbox, instagram, key, layers, layout, life-bouy, link, link-2, linkedin, list, lock, log-in, log-out, mail, map-pin, map, maximize, maximize-2, meh, menu, message-circle, message-square, mic-off, mic, minimize, minimize-2, minus, monitor, moon, more-horizontal, more-vertical, mouse-pointer, move, music, navigation, navigation-2, octagon, package, paperclip, pause, pause-circle, pen-tool, percent, phone-call, phone-forwarded, phone-incoming, phone-missed, phone-off, phone-outgoing, phone, play, pie-chart, play-circle, plus, plus-circle, plus-square, pocket, power, printer, radio, refresh-cw, refresh-ccw, repeat, rewind, rotate-ccw, rotate-cw, rss, save, scissors, search, send, settings, share-2, shield, shield-off, shopping-bag, shopping-cart, shuffle, skip-back, skip-forward, slack, slash, sliders, smartphone, smile, speaker, star, stop-circle, sun, sunrise, sunset, tablet, tag, target, terminal, thermometer, thumbs-down, thumbs-up, toggle-left, toggle-right, tool, trash, trash-2, triangle, truck, tv, twitch, twitter, type, umbrella, unlock, user-check, user-minus, user-plus, user-x, user, users, video-off, video, voicemail, volume, volume-1, volume-2, volume-x, watch, wifi-off, wifi, wind, x-circle, x-octagon, x-square, x, youtube, zap-off, zap, zoom-in, zoom-out, default */
+            /*! exports provided: activity, airplay, alert-circle, alert-octagon, alert-triangle, align-center, align-justify, align-left, align-right, anchor, archive, at-sign, award, aperture, bar-chart, bar-chart-2, battery, battery-charging, bell, bell-off, bluetooth, book-open, book, bookmark, box, briefcase, calendar, camera, cast, chevron-down, chevron-up, circle, clipboard, clock, cloud-drizzle, cloud-lightning, cloud-rain, cloud-snow, cloud, codepen, codesandbox, code, coffee, columns, command, compass, copy, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, cpu, credit-card, crop, crosshair, database, delete, disc, dollar-sign, droplet, edit, edit-2, edit-3, eye, eye-off, external-link, facebook, fast-forward, figma, file-minus, file-plus, file-text, film, filter, flag, folder-minus, folder-plus, folder, framer, frown, gift, git-branch, git-commit, git-merge, git-pull-request, github, gitlab, globe, hard-drive, hash, headphones, heart, help-circle, hexagon, home, image, inbox, instagram, key, layers, layout, life-buoy, link, link-2, linkedin, list, lock, log-in, log-out, mail, map-pin, map, maximize, maximize-2, meh, menu, message-circle, message-square, mic-off, mic, minimize, minimize-2, minus, monitor, moon, more-horizontal, more-vertical, mouse-pointer, move, music, navigation, navigation-2, octagon, package, paperclip, pause, pause-circle, pen-tool, percent, phone-call, phone-forwarded, phone-incoming, phone-missed, phone-off, phone-outgoing, phone, play, pie-chart, play-circle, plus, plus-circle, plus-square, pocket, power, printer, radio, refresh-cw, refresh-ccw, repeat, rewind, rotate-ccw, rotate-cw, rss, save, scissors, search, send, settings, share-2, shield, shield-off, shopping-bag, shopping-cart, shuffle, skip-back, skip-forward, slack, slash, sliders, smartphone, smile, speaker, star, stop-circle, sun, sunrise, sunset, tablet, tag, target, terminal, thermometer, thumbs-down, thumbs-up, toggle-left, toggle-right, tool, trash, trash-2, triangle, truck, tv, twitch, twitter, type, umbrella, unlock, user-check, user-minus, user-plus, user-x, user, users, video-off, video, voicemail, volume, volume-1, volume-2, volume-x, watch, wifi-off, wifi, wind, x-circle, x-octagon, x-square, x, youtube, zap-off, zap, zoom-in, zoom-out, default */
             /***/
             function(module3) {
-              module3.exports = { "activity": ["pulse", "health", "action", "motion"], "airplay": ["stream", "cast", "mirroring"], "alert-circle": ["warning", "alert", "danger"], "alert-octagon": ["warning", "alert", "danger"], "alert-triangle": ["warning", "alert", "danger"], "align-center": ["text alignment", "center"], "align-justify": ["text alignment", "justified"], "align-left": ["text alignment", "left"], "align-right": ["text alignment", "right"], "anchor": [], "archive": ["index", "box"], "at-sign": ["mention", "at", "email", "message"], "award": ["achievement", "badge"], "aperture": ["camera", "photo"], "bar-chart": ["statistics", "diagram", "graph"], "bar-chart-2": ["statistics", "diagram", "graph"], "battery": ["power", "electricity"], "battery-charging": ["power", "electricity"], "bell": ["alarm", "notification", "sound"], "bell-off": ["alarm", "notification", "silent"], "bluetooth": ["wireless"], "book-open": ["read", "library"], "book": ["read", "dictionary", "booklet", "magazine", "library"], "bookmark": ["read", "clip", "marker", "tag"], "box": ["cube"], "briefcase": ["work", "bag", "baggage", "folder"], "calendar": ["date"], "camera": ["photo"], "cast": ["chromecast", "airplay"], "chevron-down": ["expand"], "chevron-up": ["collapse"], "circle": ["off", "zero", "record"], "clipboard": ["copy"], "clock": ["time", "watch", "alarm"], "cloud-drizzle": ["weather", "shower"], "cloud-lightning": ["weather", "bolt"], "cloud-rain": ["weather"], "cloud-snow": ["weather", "blizzard"], "cloud": ["weather"], "codepen": ["logo"], "codesandbox": ["logo"], "code": ["source", "programming"], "coffee": ["drink", "cup", "mug", "tea", "cafe", "hot", "beverage"], "columns": ["layout"], "command": ["keyboard", "cmd", "terminal", "prompt"], "compass": ["navigation", "safari", "travel", "direction"], "copy": ["clone", "duplicate"], "corner-down-left": ["arrow", "return"], "corner-down-right": ["arrow"], "corner-left-down": ["arrow"], "corner-left-up": ["arrow"], "corner-right-down": ["arrow"], "corner-right-up": ["arrow"], "corner-up-left": ["arrow"], "corner-up-right": ["arrow"], "cpu": ["processor", "technology"], "credit-card": ["purchase", "payment", "cc"], "crop": ["photo", "image"], "crosshair": ["aim", "target"], "database": ["storage", "memory"], "delete": ["remove"], "disc": ["album", "cd", "dvd", "music"], "dollar-sign": ["currency", "money", "payment"], "droplet": ["water"], "edit": ["pencil", "change"], "edit-2": ["pencil", "change"], "edit-3": ["pencil", "change"], "eye": ["view", "watch"], "eye-off": ["view", "watch", "hide", "hidden"], "external-link": ["outbound"], "facebook": ["logo", "social"], "fast-forward": ["music"], "figma": ["logo", "design", "tool"], "file-minus": ["delete", "remove", "erase"], "file-plus": ["add", "create", "new"], "file-text": ["data", "txt", "pdf"], "film": ["movie", "video"], "filter": ["funnel", "hopper"], "flag": ["report"], "folder-minus": ["directory"], "folder-plus": ["directory"], "folder": ["directory"], "framer": ["logo", "design", "tool"], "frown": ["emoji", "face", "bad", "sad", "emotion"], "gift": ["present", "box", "birthday", "party"], "git-branch": ["code", "version control"], "git-commit": ["code", "version control"], "git-merge": ["code", "version control"], "git-pull-request": ["code", "version control"], "github": ["logo", "version control"], "gitlab": ["logo", "version control"], "globe": ["world", "browser", "language", "translate"], "hard-drive": ["computer", "server", "memory", "data"], "hash": ["hashtag", "number", "pound"], "headphones": ["music", "audio", "sound"], "heart": ["like", "love", "emotion"], "help-circle": ["question mark"], "hexagon": ["shape", "node.js", "logo"], "home": ["house", "living"], "image": ["picture"], "inbox": ["email"], "instagram": ["logo", "camera"], "key": ["password", "login", "authentication", "secure"], "layers": ["stack"], "layout": ["window", "webpage"], "life-bouy": ["help", "life ring", "support"], "link": ["chain", "url"], "link-2": ["chain", "url"], "linkedin": ["logo", "social media"], "list": ["options"], "lock": ["security", "password", "secure"], "log-in": ["sign in", "arrow", "enter"], "log-out": ["sign out", "arrow", "exit"], "mail": ["email", "message"], "map-pin": ["location", "navigation", "travel", "marker"], "map": ["location", "navigation", "travel"], "maximize": ["fullscreen"], "maximize-2": ["fullscreen", "arrows", "expand"], "meh": ["emoji", "face", "neutral", "emotion"], "menu": ["bars", "navigation", "hamburger"], "message-circle": ["comment", "chat"], "message-square": ["comment", "chat"], "mic-off": ["record", "sound", "mute"], "mic": ["record", "sound", "listen"], "minimize": ["exit fullscreen", "close"], "minimize-2": ["exit fullscreen", "arrows", "close"], "minus": ["subtract"], "monitor": ["tv", "screen", "display"], "moon": ["dark", "night"], "more-horizontal": ["ellipsis"], "more-vertical": ["ellipsis"], "mouse-pointer": ["arrow", "cursor"], "move": ["arrows"], "music": ["note"], "navigation": ["location", "travel"], "navigation-2": ["location", "travel"], "octagon": ["stop"], "package": ["box", "container"], "paperclip": ["attachment"], "pause": ["music", "stop"], "pause-circle": ["music", "audio", "stop"], "pen-tool": ["vector", "drawing"], "percent": ["discount"], "phone-call": ["ring"], "phone-forwarded": ["call"], "phone-incoming": ["call"], "phone-missed": ["call"], "phone-off": ["call", "mute"], "phone-outgoing": ["call"], "phone": ["call"], "play": ["music", "start"], "pie-chart": ["statistics", "diagram"], "play-circle": ["music", "start"], "plus": ["add", "new"], "plus-circle": ["add", "new"], "plus-square": ["add", "new"], "pocket": ["logo", "save"], "power": ["on", "off"], "printer": ["fax", "office", "device"], "radio": ["signal"], "refresh-cw": ["synchronise", "arrows"], "refresh-ccw": ["arrows"], "repeat": ["loop", "arrows"], "rewind": ["music"], "rotate-ccw": ["arrow"], "rotate-cw": ["arrow"], "rss": ["feed", "subscribe"], "save": ["floppy disk"], "scissors": ["cut"], "search": ["find", "magnifier", "magnifying glass"], "send": ["message", "mail", "email", "paper airplane", "paper aeroplane"], "settings": ["cog", "edit", "gear", "preferences"], "share-2": ["network", "connections"], "shield": ["security", "secure"], "shield-off": ["security", "insecure"], "shopping-bag": ["ecommerce", "cart", "purchase", "store"], "shopping-cart": ["ecommerce", "cart", "purchase", "store"], "shuffle": ["music"], "skip-back": ["music"], "skip-forward": ["music"], "slack": ["logo"], "slash": ["ban", "no"], "sliders": ["settings", "controls"], "smartphone": ["cellphone", "device"], "smile": ["emoji", "face", "happy", "good", "emotion"], "speaker": ["audio", "music"], "star": ["bookmark", "favorite", "like"], "stop-circle": ["media", "music"], "sun": ["brightness", "weather", "light"], "sunrise": ["weather", "time", "morning", "day"], "sunset": ["weather", "time", "evening", "night"], "tablet": ["device"], "tag": ["label"], "target": ["logo", "bullseye"], "terminal": ["code", "command line", "prompt"], "thermometer": ["temperature", "celsius", "fahrenheit", "weather"], "thumbs-down": ["dislike", "bad", "emotion"], "thumbs-up": ["like", "good", "emotion"], "toggle-left": ["on", "off", "switch"], "toggle-right": ["on", "off", "switch"], "tool": ["settings", "spanner"], "trash": ["garbage", "delete", "remove", "bin"], "trash-2": ["garbage", "delete", "remove", "bin"], "triangle": ["delta"], "truck": ["delivery", "van", "shipping", "transport", "lorry"], "tv": ["television", "stream"], "twitch": ["logo"], "twitter": ["logo", "social"], "type": ["text"], "umbrella": ["rain", "weather"], "unlock": ["security"], "user-check": ["followed", "subscribed"], "user-minus": ["delete", "remove", "unfollow", "unsubscribe"], "user-plus": ["new", "add", "create", "follow", "subscribe"], "user-x": ["delete", "remove", "unfollow", "unsubscribe", "unavailable"], "user": ["person", "account"], "users": ["group"], "video-off": ["camera", "movie", "film"], "video": ["camera", "movie", "film"], "voicemail": ["phone"], "volume": ["music", "sound", "mute"], "volume-1": ["music", "sound"], "volume-2": ["music", "sound"], "volume-x": ["music", "sound", "mute"], "watch": ["clock", "time"], "wifi-off": ["disabled"], "wifi": ["connection", "signal", "wireless"], "wind": ["weather", "air"], "x-circle": ["cancel", "close", "delete", "remove", "times", "clear"], "x-octagon": ["delete", "stop", "alert", "warning", "times", "clear"], "x-square": ["cancel", "close", "delete", "remove", "times", "clear"], "x": ["cancel", "close", "delete", "remove", "times", "clear"], "youtube": ["logo", "video", "play"], "zap-off": ["flash", "camera", "lightning"], "zap": ["flash", "camera", "lightning"], "zoom-in": ["magnifying glass"], "zoom-out": ["magnifying glass"] };
+              module3.exports = { "activity": ["pulse", "health", "action", "motion"], "airplay": ["stream", "cast", "mirroring"], "alert-circle": ["warning", "alert", "danger"], "alert-octagon": ["warning", "alert", "danger"], "alert-triangle": ["warning", "alert", "danger"], "align-center": ["text alignment", "center"], "align-justify": ["text alignment", "justified"], "align-left": ["text alignment", "left"], "align-right": ["text alignment", "right"], "anchor": [], "archive": ["index", "box"], "at-sign": ["mention", "at", "email", "message"], "award": ["achievement", "badge"], "aperture": ["camera", "photo"], "bar-chart": ["statistics", "diagram", "graph"], "bar-chart-2": ["statistics", "diagram", "graph"], "battery": ["power", "electricity"], "battery-charging": ["power", "electricity"], "bell": ["alarm", "notification", "sound"], "bell-off": ["alarm", "notification", "silent"], "bluetooth": ["wireless"], "book-open": ["read", "library"], "book": ["read", "dictionary", "booklet", "magazine", "library"], "bookmark": ["read", "clip", "marker", "tag"], "box": ["cube"], "briefcase": ["work", "bag", "baggage", "folder"], "calendar": ["date"], "camera": ["photo"], "cast": ["chromecast", "airplay"], "chevron-down": ["expand"], "chevron-up": ["collapse"], "circle": ["off", "zero", "record"], "clipboard": ["copy"], "clock": ["time", "watch", "alarm"], "cloud-drizzle": ["weather", "shower"], "cloud-lightning": ["weather", "bolt"], "cloud-rain": ["weather"], "cloud-snow": ["weather", "blizzard"], "cloud": ["weather"], "codepen": ["logo"], "codesandbox": ["logo"], "code": ["source", "programming"], "coffee": ["drink", "cup", "mug", "tea", "cafe", "hot", "beverage"], "columns": ["layout"], "command": ["keyboard", "cmd", "terminal", "prompt"], "compass": ["navigation", "safari", "travel", "direction"], "copy": ["clone", "duplicate"], "corner-down-left": ["arrow", "return"], "corner-down-right": ["arrow"], "corner-left-down": ["arrow"], "corner-left-up": ["arrow"], "corner-right-down": ["arrow"], "corner-right-up": ["arrow"], "corner-up-left": ["arrow"], "corner-up-right": ["arrow"], "cpu": ["processor", "technology"], "credit-card": ["purchase", "payment", "cc"], "crop": ["photo", "image"], "crosshair": ["aim", "target"], "database": ["storage", "memory"], "delete": ["remove"], "disc": ["album", "cd", "dvd", "music"], "dollar-sign": ["currency", "money", "payment"], "droplet": ["water"], "edit": ["pencil", "change"], "edit-2": ["pencil", "change"], "edit-3": ["pencil", "change"], "eye": ["view", "watch"], "eye-off": ["view", "watch", "hide", "hidden"], "external-link": ["outbound"], "facebook": ["logo", "social"], "fast-forward": ["music"], "figma": ["logo", "design", "tool"], "file-minus": ["delete", "remove", "erase"], "file-plus": ["add", "create", "new"], "file-text": ["data", "txt", "pdf"], "film": ["movie", "video"], "filter": ["funnel", "hopper"], "flag": ["report"], "folder-minus": ["directory"], "folder-plus": ["directory"], "folder": ["directory"], "framer": ["logo", "design", "tool"], "frown": ["emoji", "face", "bad", "sad", "emotion"], "gift": ["present", "box", "birthday", "party"], "git-branch": ["code", "version control"], "git-commit": ["code", "version control"], "git-merge": ["code", "version control"], "git-pull-request": ["code", "version control"], "github": ["logo", "version control"], "gitlab": ["logo", "version control"], "globe": ["world", "browser", "language", "translate"], "hard-drive": ["computer", "server", "memory", "data"], "hash": ["hashtag", "number", "pound"], "headphones": ["music", "audio", "sound"], "heart": ["like", "love", "emotion"], "help-circle": ["question mark"], "hexagon": ["shape", "node.js", "logo"], "home": ["house", "living"], "image": ["picture"], "inbox": ["email"], "instagram": ["logo", "camera"], "key": ["password", "login", "authentication", "secure"], "layers": ["stack"], "layout": ["window", "webpage"], "life-buoy": ["help", "life ring", "support"], "link": ["chain", "url"], "link-2": ["chain", "url"], "linkedin": ["logo", "social media"], "list": ["options"], "lock": ["security", "password", "secure"], "log-in": ["sign in", "arrow", "enter"], "log-out": ["sign out", "arrow", "exit"], "mail": ["email", "message"], "map-pin": ["location", "navigation", "travel", "marker"], "map": ["location", "navigation", "travel"], "maximize": ["fullscreen"], "maximize-2": ["fullscreen", "arrows", "expand"], "meh": ["emoji", "face", "neutral", "emotion"], "menu": ["bars", "navigation", "hamburger"], "message-circle": ["comment", "chat"], "message-square": ["comment", "chat"], "mic-off": ["record", "sound", "mute"], "mic": ["record", "sound", "listen"], "minimize": ["exit fullscreen", "close"], "minimize-2": ["exit fullscreen", "arrows", "close"], "minus": ["subtract"], "monitor": ["tv", "screen", "display"], "moon": ["dark", "night"], "more-horizontal": ["ellipsis"], "more-vertical": ["ellipsis"], "mouse-pointer": ["arrow", "cursor"], "move": ["arrows"], "music": ["note"], "navigation": ["location", "travel"], "navigation-2": ["location", "travel"], "octagon": ["stop"], "package": ["box", "container"], "paperclip": ["attachment"], "pause": ["music", "stop"], "pause-circle": ["music", "audio", "stop"], "pen-tool": ["vector", "drawing"], "percent": ["discount"], "phone-call": ["ring"], "phone-forwarded": ["call"], "phone-incoming": ["call"], "phone-missed": ["call"], "phone-off": ["call", "mute"], "phone-outgoing": ["call"], "phone": ["call"], "play": ["music", "start"], "pie-chart": ["statistics", "diagram"], "play-circle": ["music", "start"], "plus": ["add", "new"], "plus-circle": ["add", "new"], "plus-square": ["add", "new"], "pocket": ["logo", "save"], "power": ["on", "off"], "printer": ["fax", "office", "device"], "radio": ["signal"], "refresh-cw": ["synchronise", "arrows"], "refresh-ccw": ["arrows"], "repeat": ["loop", "arrows"], "rewind": ["music"], "rotate-ccw": ["arrow"], "rotate-cw": ["arrow"], "rss": ["feed", "subscribe"], "save": ["floppy disk"], "scissors": ["cut"], "search": ["find", "magnifier", "magnifying glass"], "send": ["message", "mail", "email", "paper airplane", "paper aeroplane"], "settings": ["cog", "edit", "gear", "preferences"], "share-2": ["network", "connections"], "shield": ["security", "secure"], "shield-off": ["security", "insecure"], "shopping-bag": ["ecommerce", "cart", "purchase", "store"], "shopping-cart": ["ecommerce", "cart", "purchase", "store"], "shuffle": ["music"], "skip-back": ["music"], "skip-forward": ["music"], "slack": ["logo"], "slash": ["ban", "no"], "sliders": ["settings", "controls"], "smartphone": ["cellphone", "device"], "smile": ["emoji", "face", "happy", "good", "emotion"], "speaker": ["audio", "music"], "star": ["bookmark", "favorite", "like"], "stop-circle": ["media", "music"], "sun": ["brightness", "weather", "light"], "sunrise": ["weather", "time", "morning", "day"], "sunset": ["weather", "time", "evening", "night"], "tablet": ["device"], "tag": ["label"], "target": ["logo", "bullseye"], "terminal": ["code", "command line", "prompt"], "thermometer": ["temperature", "celsius", "fahrenheit", "weather"], "thumbs-down": ["dislike", "bad", "emotion"], "thumbs-up": ["like", "good", "emotion"], "toggle-left": ["on", "off", "switch"], "toggle-right": ["on", "off", "switch"], "tool": ["settings", "spanner"], "trash": ["garbage", "delete", "remove", "bin"], "trash-2": ["garbage", "delete", "remove", "bin"], "triangle": ["delta"], "truck": ["delivery", "van", "shipping", "transport", "lorry"], "tv": ["television", "stream"], "twitch": ["logo"], "twitter": ["logo", "social"], "type": ["text"], "umbrella": ["rain", "weather"], "unlock": ["security"], "user-check": ["followed", "subscribed"], "user-minus": ["delete", "remove", "unfollow", "unsubscribe"], "user-plus": ["new", "add", "create", "follow", "subscribe"], "user-x": ["delete", "remove", "unfollow", "unsubscribe", "unavailable"], "user": ["person", "account"], "users": ["group"], "video-off": ["camera", "movie", "film"], "video": ["camera", "movie", "film"], "voicemail": ["phone"], "volume": ["music", "sound", "mute"], "volume-1": ["music", "sound"], "volume-2": ["music", "sound"], "volume-x": ["music", "sound", "mute"], "watch": ["clock", "time"], "wifi-off": ["disabled"], "wifi": ["connection", "signal", "wireless"], "wind": ["weather", "air"], "x-circle": ["cancel", "close", "delete", "remove", "times", "clear"], "x-octagon": ["delete", "stop", "alert", "warning", "times", "clear"], "x-square": ["cancel", "close", "delete", "remove", "times", "clear"], "x": ["cancel", "close", "delete", "remove", "times", "clear"], "youtube": ["logo", "video", "play"], "zap-off": ["flash", "camera", "lightning"], "zap": ["flash", "camera", "lightning"], "zoom-in": ["magnifying glass"], "zoom-out": ["magnifying glass"] };
             }
           ),
           /***/
@@ -15789,7 +16040,7 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 init_polyfill_buffer();
 
-// node_modules/.pnpm/isomorphic-git@1.23.0/node_modules/isomorphic-git/index.js
+// node_modules/.pnpm/isomorphic-git@1.25.3/node_modules/isomorphic-git/index.js
 init_polyfill_buffer();
 var import_async_lock = __toESM(require_async_lock(), 1);
 var import_sha1 = __toESM(require_sha1(), 1);
@@ -15799,7 +16050,7 @@ var import_pify = __toESM(require_pify(), 1);
 var import_ignore = __toESM(require_ignore(), 1);
 var import_clean_git_ref = __toESM(require_lib2(), 1);
 var import_diff3 = __toESM(require_diff3(), 1);
-var BaseError = class extends Error {
+var BaseError = class _BaseError extends Error {
   constructor(message) {
     super(message);
     this.caller = "";
@@ -15814,7 +16065,7 @@ var BaseError = class extends Error {
     };
   }
   fromJSON(json) {
-    const e = new BaseError(json.message);
+    const e = new _BaseError(json.message);
     e.code = json.code;
     e.data = json.data;
     e.caller = json.caller;
@@ -15825,7 +16076,7 @@ var BaseError = class extends Error {
     return true;
   }
 };
-var UnmergedPathsError = class extends BaseError {
+var UnmergedPathsError = class _UnmergedPathsError extends BaseError {
   /**
    * @param {Array<string>} filepaths
    */
@@ -15833,12 +16084,12 @@ var UnmergedPathsError = class extends BaseError {
     super(
       `Modifying the index is not possible because you have unmerged files: ${filepaths.toString}. Fix them up in the work tree, and then use 'git add/rm as appropriate to mark resolution and make a commit.`
     );
-    this.code = this.name = UnmergedPathsError.code;
+    this.code = this.name = _UnmergedPathsError.code;
     this.data = { filepaths };
   }
 };
 UnmergedPathsError.code = "UnmergedPathsError";
-var InternalError = class extends BaseError {
+var InternalError = class _InternalError extends BaseError {
   /**
    * @param {string} message
    */
@@ -15846,18 +16097,18 @@ var InternalError = class extends BaseError {
     super(
       `An internal error caused this command to fail. Please file a bug report at https://github.com/isomorphic-git/isomorphic-git/issues with this error message: ${message}`
     );
-    this.code = this.name = InternalError.code;
+    this.code = this.name = _InternalError.code;
     this.data = { message };
   }
 };
 InternalError.code = "InternalError";
-var UnsafeFilepathError = class extends BaseError {
+var UnsafeFilepathError = class _UnsafeFilepathError extends BaseError {
   /**
    * @param {string} filepath
    */
   constructor(filepath) {
     super(`The filepath "${filepath}" contains unsafe character sequences`);
-    this.code = this.name = UnsafeFilepathError.code;
+    this.code = this.name = _UnsafeFilepathError.code;
     this.data = { filepath };
   }
 };
@@ -16034,7 +16285,7 @@ function renderCacheEntryFlags(entry) {
   flags.nameLength = Math.min(Buffer.from(entry.path).length, 4095);
   return (flags.assumeValid ? 32768 : 0) + (flags.extended ? 16384 : 0) + ((flags.stage & 3) << 12) + (flags.nameLength & 4095);
 }
-var GitIndex = class {
+var GitIndex = class _GitIndex {
   /*::
    _entries: Map<string, CacheEntry>
    _dirty: boolean // Used to determine if index needs to be saved to filesystem
@@ -16061,26 +16312,29 @@ var GitIndex = class {
   }
   static async from(buffer2) {
     if (Buffer.isBuffer(buffer2)) {
-      return GitIndex.fromBuffer(buffer2);
+      return _GitIndex.fromBuffer(buffer2);
     } else if (buffer2 === null) {
-      return new GitIndex(null);
+      return new _GitIndex(null);
     } else {
       throw new InternalError("invalid type passed to GitIndex.from");
     }
   }
   static async fromBuffer(buffer2) {
+    if (buffer2.length === 0) {
+      throw new InternalError("Index file is empty (.git/index)");
+    }
+    const index2 = new _GitIndex();
+    const reader = new BufferCursor(buffer2);
+    const magic = reader.toString("utf8", 4);
+    if (magic !== "DIRC") {
+      throw new InternalError(`Invalid dircache magic file number: ${magic}`);
+    }
     const shaComputed = await shasum(buffer2.slice(0, -20));
     const shaClaimed = buffer2.slice(-20).toString("hex");
     if (shaClaimed !== shaComputed) {
       throw new InternalError(
         `Invalid checksum in GitIndex buffer: expected ${shaClaimed} but saw ${shaComputed}`
       );
-    }
-    const index2 = new GitIndex();
-    const reader = new BufferCursor(buffer2);
-    const magic = reader.toString("utf8", 4);
-    if (magic !== "DIRC") {
-      throw new InternalError(`Inavlid dircache magic file number: ${magic}`);
     }
     const version2 = reader.readUInt32BE();
     if (version2 !== 2) {
@@ -16247,11 +16501,11 @@ var GitIndex = class {
     writer.writeUInt32BE(this.entriesFlat.length);
     let entryBuffers = [];
     for (const entry of this.entries) {
-      entryBuffers.push(GitIndex._entryToBuffer(entry));
+      entryBuffers.push(_GitIndex._entryToBuffer(entry));
       if (entry.stages.length > 1) {
         for (const stage of entry.stages) {
           if (stage && stage !== entry) {
-            entryBuffers.push(GitIndex._entryToBuffer(stage));
+            entryBuffers.push(_GitIndex._entryToBuffer(stage));
           }
         }
       }
@@ -16506,18 +16760,18 @@ function STAGE() {
   Object.freeze(o);
   return o;
 }
-var NotFoundError = class extends BaseError {
+var NotFoundError = class _NotFoundError extends BaseError {
   /**
    * @param {string} what
    */
   constructor(what) {
     super(`Could not find ${what}.`);
-    this.code = this.name = NotFoundError.code;
+    this.code = this.name = _NotFoundError.code;
     this.data = { what };
   }
 };
 NotFoundError.code = "NotFoundError";
-var ObjectTypeError = class extends BaseError {
+var ObjectTypeError = class _ObjectTypeError extends BaseError {
   /**
    * @param {string} oid
    * @param {'blob'|'commit'|'tag'|'tree'} actual
@@ -16528,23 +16782,23 @@ var ObjectTypeError = class extends BaseError {
     super(
       `Object ${oid} ${filepath ? `at ${filepath}` : ""}was anticipated to be a ${expected} but it is a ${actual}.`
     );
-    this.code = this.name = ObjectTypeError.code;
+    this.code = this.name = _ObjectTypeError.code;
     this.data = { oid, actual, expected, filepath };
   }
 };
 ObjectTypeError.code = "ObjectTypeError";
-var InvalidOidError = class extends BaseError {
+var InvalidOidError = class _InvalidOidError extends BaseError {
   /**
    * @param {string} value
    */
   constructor(value) {
     super(`Expected a 40-char hex object id but saw "${value}".`);
-    this.code = this.name = InvalidOidError.code;
+    this.code = this.name = _InvalidOidError.code;
     this.data = { value };
   }
 };
 InvalidOidError.code = "InvalidOidError";
-var NoRefspecError = class extends BaseError {
+var NoRefspecError = class _NoRefspecError extends BaseError {
   /**
    * @param {string} remote
    */
@@ -16553,12 +16807,12 @@ var NoRefspecError = class extends BaseError {
 [remote "${remote}"]
 	fetch = +refs/heads/*:refs/remotes/origin/*
 `);
-    this.code = this.name = NoRefspecError.code;
+    this.code = this.name = _NoRefspecError.code;
     this.data = { remote };
   }
 };
 NoRefspecError.code = "NoRefspecError";
-var GitPackedRefs = class {
+var GitPackedRefs = class _GitPackedRefs {
   constructor(text2) {
     this.refs = /* @__PURE__ */ new Map();
     this.parsedConfig = [];
@@ -16584,7 +16838,7 @@ var GitPackedRefs = class {
     return this;
   }
   static from(text2) {
-    return new GitPackedRefs(text2);
+    return new _GitPackedRefs(text2);
   }
   delete(ref) {
     this.parsedConfig = this.parsedConfig.filter((entry) => entry.ref !== ref);
@@ -16594,7 +16848,7 @@ var GitPackedRefs = class {
     return this.parsedConfig.map(({ line }) => line).join("\n") + "\n";
   }
 };
-var GitRefSpec = class {
+var GitRefSpec = class _GitRefSpec {
   constructor({ remotePath, localPath, force, matchPrefix }) {
     Object.assign(this, {
       remotePath,
@@ -16617,7 +16871,7 @@ var GitRefSpec = class {
     if (remoteIsGlob !== localIsGlob) {
       throw new InternalError("Invalid refspec");
     }
-    return new GitRefSpec({
+    return new _GitRefSpec({
       remotePath,
       localPath,
       force,
@@ -16647,7 +16901,7 @@ var GitRefSpec = class {
     return null;
   }
 };
-var GitRefSpecSet = class {
+var GitRefSpecSet = class _GitRefSpecSet {
   constructor(rules = []) {
     this.rules = rules;
   }
@@ -16656,7 +16910,7 @@ var GitRefSpecSet = class {
     for (const refspec of refspecs) {
       rules.push(GitRefSpec.from(refspec));
     }
-    return new GitRefSpecSet(rules);
+    return new _GitRefSpecSet(rules);
   }
   add(refspec) {
     const rule = GitRefSpec.from(refspec);
@@ -16697,8 +16951,30 @@ function compareRefNames(a, b) {
   }
   return tmp;
 }
+var memo = /* @__PURE__ */ new Map();
 function normalizePath(path2) {
-  return path2.replace(/\/\.\//g, "/").replace(/\/{2,}/g, "/").replace(/^\/\.$/, "/").replace(/^\.\/$/, ".").replace(/^\.\//, "").replace(/\/\.$/, "").replace(/(.+)\/$/, "$1").replace(/^$/, ".");
+  let normalizedPath = memo.get(path2);
+  if (!normalizedPath) {
+    normalizedPath = normalizePathInternal(path2);
+    memo.set(path2, normalizedPath);
+  }
+  return normalizedPath;
+}
+function normalizePathInternal(path2) {
+  path2 = path2.split("/./").join("/").replace(/\/{2,}/g, "/");
+  if (path2 === "/.")
+    return "/";
+  if (path2 === "./")
+    return ".";
+  if (path2.startsWith("./"))
+    path2 = path2.slice(2);
+  if (path2.endsWith("/."))
+    path2 = path2.slice(0, -2);
+  if (path2.length > 1 && path2.endsWith("/"))
+    path2 = path2.slice(0, -1);
+  if (path2 === "")
+    return ".";
+  return path2;
 }
 function join(...parts) {
   return normalizePath(parts.map(normalizePath).join("/"));
@@ -16806,7 +17082,7 @@ var findLastIndex = (array, callback) => {
     return callback(item) ? index2 : lastIndex;
   }, -1);
 };
-var GitConfig = class {
+var GitConfig = class _GitConfig {
   constructor(text2) {
     let section = null;
     let subsection = null;
@@ -16832,7 +17108,7 @@ var GitConfig = class {
     });
   }
   static from(text2) {
-    return new GitConfig(text2);
+    return new _GitConfig(text2);
   }
   async get(path2, getall = false) {
     const normalizedPath = normalizePath$1(path2).path;
@@ -16951,7 +17227,7 @@ var refpaths = (ref) => [
   `refs/remotes/${ref}/HEAD`
 ];
 var GIT_FILES = ["config", "description", "index", "shallow", "commondir"];
-var GitRefManager = class {
+var GitRefManager = class _GitRefManager {
   static async updateRemoteRefs({
     fs,
     gitdir,
@@ -16979,12 +17255,12 @@ var GitRefManager = class {
     const refspec = GitRefSpecSet.from(refspecs);
     const actualRefsToWrite = /* @__PURE__ */ new Map();
     if (pruneTags) {
-      const tags2 = await GitRefManager.listRefs({
+      const tags2 = await _GitRefManager.listRefs({
         fs,
         gitdir,
         filepath: "refs/tags"
       });
-      await GitRefManager.deleteRefs({
+      await _GitRefManager.deleteRefs({
         fs,
         gitdir,
         refs: tags2.map((tag2) => `refs/tags/${tag2}`)
@@ -16993,7 +17269,7 @@ var GitRefManager = class {
     if (tags) {
       for (const serverRef of refs.keys()) {
         if (serverRef.startsWith("refs/tags") && !serverRef.endsWith("^{}")) {
-          if (!await GitRefManager.exists({ fs, gitdir, ref: serverRef })) {
+          if (!await _GitRefManager.exists({ fs, gitdir, ref: serverRef })) {
             const oid = refs.get(serverRef);
             actualRefsToWrite.set(serverRef, oid);
           }
@@ -17016,7 +17292,7 @@ var GitRefManager = class {
     const pruned = [];
     if (prune) {
       for (const filepath of refspec.localNamespaces()) {
-        const refs2 = (await GitRefManager.listRefs({
+        const refs2 = (await _GitRefManager.listRefs({
           fs,
           gitdir,
           filepath
@@ -17028,7 +17304,7 @@ var GitRefManager = class {
         }
       }
       if (pruned.length > 0) {
-        await GitRefManager.deleteRefs({ fs, gitdir, refs: pruned });
+        await _GitRefManager.deleteRefs({ fs, gitdir, refs: pruned });
       }
     }
     for (const [key2, value] of actualRefsToWrite) {
@@ -17050,7 +17326,7 @@ var GitRefManager = class {
 `, "utf8");
   }
   static async deleteRef({ fs, gitdir, ref }) {
-    return GitRefManager.deleteRefs({ fs, gitdir, refs: [ref] });
+    return _GitRefManager.deleteRefs({ fs, gitdir, refs: [ref] });
   }
   static async deleteRefs({ fs, gitdir, refs }) {
     await Promise.all(refs.map((ref) => fs.rm(join(gitdir, ref))));
@@ -17085,24 +17361,24 @@ var GitRefManager = class {
     let sha;
     if (ref.startsWith("ref: ")) {
       ref = ref.slice("ref: ".length);
-      return GitRefManager.resolve({ fs, gitdir, ref, depth });
+      return _GitRefManager.resolve({ fs, gitdir, ref, depth });
     }
     if (ref.length === 40 && /[0-9a-f]{40}/.test(ref)) {
       return ref;
     }
-    const packedMap = await GitRefManager.packedRefs({ fs, gitdir });
+    const packedMap = await _GitRefManager.packedRefs({ fs, gitdir });
     const allpaths = refpaths(ref).filter((p) => !GIT_FILES.includes(p));
     for (const ref2 of allpaths) {
       sha = await fs.read(`${gitdir}/${ref2}`, { encoding: "utf8" }) || packedMap.get(ref2);
       if (sha) {
-        return GitRefManager.resolve({ fs, gitdir, ref: sha.trim(), depth });
+        return _GitRefManager.resolve({ fs, gitdir, ref: sha.trim(), depth });
       }
     }
     throw new NotFoundError(ref);
   }
   static async exists({ fs, gitdir, ref }) {
     try {
-      await GitRefManager.expand({ fs, gitdir, ref });
+      await _GitRefManager.expand({ fs, gitdir, ref });
       return true;
     } catch (err) {
       return false;
@@ -17112,7 +17388,7 @@ var GitRefManager = class {
     if (ref.length === 40 && /[0-9a-f]{40}/.test(ref)) {
       return ref;
     }
-    const packedMap = await GitRefManager.packedRefs({ fs, gitdir });
+    const packedMap = await _GitRefManager.packedRefs({ fs, gitdir });
     const allpaths = refpaths(ref);
     for (const ref2 of allpaths) {
       if (await fs.exists(`${gitdir}/${ref2}`))
@@ -17139,7 +17415,7 @@ var GitRefManager = class {
     }
     if (ref.startsWith("ref: ")) {
       ref = ref.slice("ref: ".length);
-      return GitRefManager.resolveAgainstMap({ ref, fullref, depth, map });
+      return _GitRefManager.resolveAgainstMap({ ref, fullref, depth, map });
     }
     if (ref.length === 40 && /[0-9a-f]{40}/.test(ref)) {
       return { fullref, oid: ref };
@@ -17148,7 +17424,7 @@ var GitRefManager = class {
     for (const ref2 of allpaths) {
       const sha = map.get(ref2);
       if (sha) {
-        return GitRefManager.resolveAgainstMap({
+        return _GitRefManager.resolveAgainstMap({
           ref: sha.trim(),
           fullref: ref2,
           depth,
@@ -17165,7 +17441,7 @@ var GitRefManager = class {
   }
   // List all the refs that match the `filepath` prefix
   static async listRefs({ fs, gitdir, filepath }) {
-    const packedMap = GitRefManager.packedRefs({ fs, gitdir });
+    const packedMap = _GitRefManager.packedRefs({ fs, gitdir });
     let files = null;
     try {
       files = await fs.readdirDeep(`${gitdir}/${filepath}`);
@@ -17186,17 +17462,17 @@ var GitRefManager = class {
   }
   static async listBranches({ fs, gitdir, remote }) {
     if (remote) {
-      return GitRefManager.listRefs({
+      return _GitRefManager.listRefs({
         fs,
         gitdir,
         filepath: `refs/remotes/${remote}`
       });
     } else {
-      return GitRefManager.listRefs({ fs, gitdir, filepath: `refs/heads` });
+      return _GitRefManager.listRefs({ fs, gitdir, filepath: `refs/heads` });
     }
   }
   static async listTags({ fs, gitdir }) {
-    const tags = await GitRefManager.listRefs({
+    const tags = await _GitRefManager.listRefs({
       fs,
       gitdir,
       filepath: `refs/tags`
@@ -17281,7 +17557,7 @@ function nudgeIntoShape(entry) {
   }
   return entry;
 }
-var GitTree = class {
+var GitTree = class _GitTree {
   constructor(entries) {
     if (Buffer.isBuffer(entries)) {
       this._entries = parseBuffer(entries);
@@ -17293,7 +17569,7 @@ var GitTree = class {
     this._entries.sort(comparePath);
   }
   static from(tree) {
-    return new GitTree(tree);
+    return new _GitTree(tree);
   }
   render() {
     return this._entries.map((entry) => `${entry.mode} ${entry.type} ${entry.oid}    ${entry.path}`).join("\n");
@@ -17523,6 +17799,8 @@ var StreamReader = class {
     let { done, value } = await this.stream.next();
     if (done) {
       this._ended = true;
+      if (!value)
+        return Buffer.alloc(0);
     }
     if (value) {
       value = Buffer.from(value);
@@ -17693,7 +17971,7 @@ function otherVarIntDecode(reader, startWith) {
   } while (byte & 128);
   return result;
 }
-var GitPackIndex = class {
+var GitPackIndex = class _GitPackIndex {
   constructor(stuff) {
     Object.assign(this, stuff);
     this.offsetCache = {};
@@ -17728,7 +18006,7 @@ var GitPackIndex = class {
       offsets.set(hashes[i], reader.readUInt32BE());
     }
     const packfileSha = reader.slice(20).toString("hex");
-    return new GitPackIndex({
+    return new _GitPackIndex({
       hashes,
       crcs: {},
       offsets,
@@ -17794,7 +18072,7 @@ var GitPackIndex = class {
       o.end = end;
       o.crc = crc;
     }
-    const p = new GitPackIndex({
+    const p = new _GitPackIndex({
       pack: Promise.resolve(pack),
       packfileSha,
       crcs,
@@ -18076,7 +18354,7 @@ async function _readObject({
   }
   throw new InternalError(`invalid format "${result.format}"`);
 }
-var AlreadyExistsError = class extends BaseError {
+var AlreadyExistsError = class _AlreadyExistsError extends BaseError {
   /**
    * @param {'note'|'remote'|'tag'|'branch'} noun
    * @param {string} where
@@ -18086,12 +18364,12 @@ var AlreadyExistsError = class extends BaseError {
     super(
       `Failed to create ${noun} at ${where} because it already exists.${canForce ? ` (Hint: use 'force: true' parameter to overwrite existing ${noun}.)` : ""}`
     );
-    this.code = this.name = AlreadyExistsError.code;
+    this.code = this.name = _AlreadyExistsError.code;
     this.data = { noun, where, canForce };
   }
 };
 AlreadyExistsError.code = "AlreadyExistsError";
-var AmbiguousError = class extends BaseError {
+var AmbiguousError = class _AmbiguousError extends BaseError {
   /**
    * @param {'oids'|'refs'} nouns
    * @param {string} short
@@ -18103,12 +18381,12 @@ var AmbiguousError = class extends BaseError {
         ", "
       )}). Use a longer abbreviation length to disambiguate them.`
     );
-    this.code = this.name = AmbiguousError.code;
+    this.code = this.name = _AmbiguousError.code;
     this.data = { nouns, short, matches };
   }
 };
 AmbiguousError.code = "AmbiguousError";
-var CheckoutConflictError = class extends BaseError {
+var CheckoutConflictError = class _CheckoutConflictError extends BaseError {
   /**
    * @param {string[]} filepaths
    */
@@ -18118,12 +18396,12 @@ var CheckoutConflictError = class extends BaseError {
         ", "
       )}`
     );
-    this.code = this.name = CheckoutConflictError.code;
+    this.code = this.name = _CheckoutConflictError.code;
     this.data = { filepaths };
   }
 };
 CheckoutConflictError.code = "CheckoutConflictError";
-var CommitNotFetchedError = class extends BaseError {
+var CommitNotFetchedError = class _CommitNotFetchedError extends BaseError {
   /**
    * @param {string} ref
    * @param {string} oid
@@ -18132,40 +18410,40 @@ var CommitNotFetchedError = class extends BaseError {
     super(
       `Failed to checkout "${ref}" because commit ${oid} is not available locally. Do a git fetch to make the branch available locally.`
     );
-    this.code = this.name = CommitNotFetchedError.code;
+    this.code = this.name = _CommitNotFetchedError.code;
     this.data = { ref, oid };
   }
 };
 CommitNotFetchedError.code = "CommitNotFetchedError";
-var EmptyServerResponseError = class extends BaseError {
+var EmptyServerResponseError = class _EmptyServerResponseError extends BaseError {
   constructor() {
     super(`Empty response from git server.`);
-    this.code = this.name = EmptyServerResponseError.code;
+    this.code = this.name = _EmptyServerResponseError.code;
     this.data = {};
   }
 };
 EmptyServerResponseError.code = "EmptyServerResponseError";
-var FastForwardError = class extends BaseError {
+var FastForwardError = class _FastForwardError extends BaseError {
   constructor() {
     super(`A simple fast-forward merge was not possible.`);
-    this.code = this.name = FastForwardError.code;
+    this.code = this.name = _FastForwardError.code;
     this.data = {};
   }
 };
 FastForwardError.code = "FastForwardError";
-var GitPushError = class extends BaseError {
+var GitPushError = class _GitPushError extends BaseError {
   /**
    * @param {string} prettyDetails
    * @param {PushResult} result
    */
   constructor(prettyDetails, result) {
     super(`One or more branches were not updated: ${prettyDetails}`);
-    this.code = this.name = GitPushError.code;
+    this.code = this.name = _GitPushError.code;
     this.data = { prettyDetails, result };
   }
 };
 GitPushError.code = "GitPushError";
-var HttpError = class extends BaseError {
+var HttpError = class _HttpError extends BaseError {
   /**
    * @param {number} statusCode
    * @param {string} statusMessage
@@ -18173,12 +18451,12 @@ var HttpError = class extends BaseError {
    */
   constructor(statusCode, statusMessage, response) {
     super(`HTTP Error: ${statusCode} ${statusMessage}`);
-    this.code = this.name = HttpError.code;
+    this.code = this.name = _HttpError.code;
     this.data = { statusCode, statusMessage, response };
   }
 };
 HttpError.code = "HttpError";
-var InvalidFilepathError = class extends BaseError {
+var InvalidFilepathError = class _InvalidFilepathError extends BaseError {
   /**
    * @param {'leading-slash'|'trailing-slash'|'directory'} [reason]
    */
@@ -18190,12 +18468,12 @@ var InvalidFilepathError = class extends BaseError {
       message = `"filepath" should not be a directory.`;
     }
     super(message);
-    this.code = this.name = InvalidFilepathError.code;
+    this.code = this.name = _InvalidFilepathError.code;
     this.data = { reason };
   }
 };
 InvalidFilepathError.code = "InvalidFilepathError";
-var InvalidRefNameError = class extends BaseError {
+var InvalidRefNameError = class _InvalidRefNameError extends BaseError {
   /**
    * @param {string} ref
    * @param {string} suggestion
@@ -18205,44 +18483,47 @@ var InvalidRefNameError = class extends BaseError {
     super(
       `"${ref}" would be an invalid git reference. (Hint: a valid alternative would be "${suggestion}".)`
     );
-    this.code = this.name = InvalidRefNameError.code;
+    this.code = this.name = _InvalidRefNameError.code;
     this.data = { ref, suggestion };
   }
 };
 InvalidRefNameError.code = "InvalidRefNameError";
-var MaxDepthError = class extends BaseError {
+var MaxDepthError = class _MaxDepthError extends BaseError {
   /**
    * @param {number} depth
    */
   constructor(depth) {
     super(`Maximum search depth of ${depth} exceeded.`);
-    this.code = this.name = MaxDepthError.code;
+    this.code = this.name = _MaxDepthError.code;
     this.data = { depth };
   }
 };
 MaxDepthError.code = "MaxDepthError";
-var MergeNotSupportedError = class extends BaseError {
+var MergeNotSupportedError = class _MergeNotSupportedError extends BaseError {
   constructor() {
     super(`Merges with conflicts are not supported yet.`);
-    this.code = this.name = MergeNotSupportedError.code;
+    this.code = this.name = _MergeNotSupportedError.code;
     this.data = {};
   }
 };
 MergeNotSupportedError.code = "MergeNotSupportedError";
-var MergeConflictError = class extends BaseError {
+var MergeConflictError = class _MergeConflictError extends BaseError {
   /**
    * @param {Array<string>} filepaths
+   * @param {Array<string>} bothModified
+   * @param {Array<string>} deleteByUs
+   * @param {Array<string>} deleteByTheirs
    */
-  constructor(filepaths) {
+  constructor(filepaths, bothModified, deleteByUs, deleteByTheirs) {
     super(
       `Automatic merge failed with one or more merge conflicts in the following files: ${filepaths.toString()}. Fix conflicts then commit the result.`
     );
-    this.code = this.name = MergeConflictError.code;
-    this.data = { filepaths };
+    this.code = this.name = _MergeConflictError.code;
+    this.data = { filepaths, bothModified, deleteByUs, deleteByTheirs };
   }
 };
 MergeConflictError.code = "MergeConflictError";
-var MissingNameError = class extends BaseError {
+var MissingNameError = class _MissingNameError extends BaseError {
   /**
    * @param {'author'|'committer'|'tagger'} role
    */
@@ -18250,12 +18531,12 @@ var MissingNameError = class extends BaseError {
     super(
       `No name was provided for ${role} in the argument or in the .git/config file.`
     );
-    this.code = this.name = MissingNameError.code;
+    this.code = this.name = _MissingNameError.code;
     this.data = { role };
   }
 };
 MissingNameError.code = "MissingNameError";
-var MissingParameterError = class extends BaseError {
+var MissingParameterError = class _MissingParameterError extends BaseError {
   /**
    * @param {string} parameter
    */
@@ -18263,12 +18544,12 @@ var MissingParameterError = class extends BaseError {
     super(
       `The function requires a "${parameter}" parameter but none was provided.`
     );
-    this.code = this.name = MissingParameterError.code;
+    this.code = this.name = _MissingParameterError.code;
     this.data = { parameter };
   }
 };
 MissingParameterError.code = "MissingParameterError";
-var MultipleGitError = class extends BaseError {
+var MultipleGitError = class _MultipleGitError extends BaseError {
   /**
    * @param {Error[]} errors
    * @param {string} message
@@ -18277,25 +18558,25 @@ var MultipleGitError = class extends BaseError {
     super(
       `There are multiple errors that were thrown by the method. Please refer to the "errors" property to see more`
     );
-    this.code = this.name = MultipleGitError.code;
+    this.code = this.name = _MultipleGitError.code;
     this.data = { errors };
     this.errors = errors;
   }
 };
 MultipleGitError.code = "MultipleGitError";
-var ParseError = class extends BaseError {
+var ParseError = class _ParseError extends BaseError {
   /**
    * @param {string} expected
    * @param {string} actual
    */
   constructor(expected, actual) {
     super(`Expected "${expected}" but received "${actual}".`);
-    this.code = this.name = ParseError.code;
+    this.code = this.name = _ParseError.code;
     this.data = { expected, actual };
   }
 };
 ParseError.code = "ParseError";
-var PushRejectedError = class extends BaseError {
+var PushRejectedError = class _PushRejectedError extends BaseError {
   /**
    * @param {'not-fast-forward'|'tag-exists'} reason
    */
@@ -18307,12 +18588,12 @@ var PushRejectedError = class extends BaseError {
       message = " because tag already exists";
     }
     super(`Push rejected${message}. Use "force: true" to override.`);
-    this.code = this.name = PushRejectedError.code;
+    this.code = this.name = _PushRejectedError.code;
     this.data = { reason };
   }
 };
 PushRejectedError.code = "PushRejectedError";
-var RemoteCapabilityError = class extends BaseError {
+var RemoteCapabilityError = class _RemoteCapabilityError extends BaseError {
   /**
    * @param {'shallow'|'deepen-since'|'deepen-not'|'deepen-relative'} capability
    * @param {'depth'|'since'|'exclude'|'relative'} parameter
@@ -18321,12 +18602,12 @@ var RemoteCapabilityError = class extends BaseError {
     super(
       `Remote does not support the "${capability}" so the "${parameter}" parameter cannot be used.`
     );
-    this.code = this.name = RemoteCapabilityError.code;
+    this.code = this.name = _RemoteCapabilityError.code;
     this.data = { capability, parameter };
   }
 };
 RemoteCapabilityError.code = "RemoteCapabilityError";
-var SmartHttpError = class extends BaseError {
+var SmartHttpError = class _SmartHttpError extends BaseError {
   /**
    * @param {string} preview
    * @param {string} response
@@ -18335,12 +18616,12 @@ var SmartHttpError = class extends BaseError {
     super(
       `Remote did not reply using the "smart" HTTP protocol. Expected "001e# service=git-upload-pack" but received: ${preview}`
     );
-    this.code = this.name = SmartHttpError.code;
+    this.code = this.name = _SmartHttpError.code;
     this.data = { preview, response };
   }
 };
 SmartHttpError.code = "SmartHttpError";
-var UnknownTransportError = class extends BaseError {
+var UnknownTransportError = class _UnknownTransportError extends BaseError {
   /**
    * @param {string} url
    * @param {string} transport
@@ -18350,31 +18631,31 @@ var UnknownTransportError = class extends BaseError {
     super(
       `Git remote "${url}" uses an unrecognized transport protocol: "${transport}"`
     );
-    this.code = this.name = UnknownTransportError.code;
+    this.code = this.name = _UnknownTransportError.code;
     this.data = { url, transport, suggestion };
   }
 };
 UnknownTransportError.code = "UnknownTransportError";
-var UrlParseError = class extends BaseError {
+var UrlParseError = class _UrlParseError extends BaseError {
   /**
    * @param {string} url
    */
   constructor(url) {
     super(`Cannot parse remote URL: "${url}"`);
-    this.code = this.name = UrlParseError.code;
+    this.code = this.name = _UrlParseError.code;
     this.data = { url };
   }
 };
 UrlParseError.code = "UrlParseError";
-var UserCanceledError = class extends BaseError {
+var UserCanceledError = class _UserCanceledError extends BaseError {
   constructor() {
     super(`The operation was canceled.`);
-    this.code = this.name = UserCanceledError.code;
+    this.code = this.name = _UserCanceledError.code;
     this.data = {};
   }
 };
 UserCanceledError.code = "UserCanceledError";
-var IndexResetError = class extends BaseError {
+var IndexResetError = class _IndexResetError extends BaseError {
   /**
    * @param {Array<string>} filepaths
    */
@@ -18382,7 +18663,7 @@ var IndexResetError = class extends BaseError {
     super(
       `Could not merge index: Entry for '${filepath}' is not up to date. Either reset the index entry to HEAD, or stage your unstaged chages.`
     );
-    this.code = this.name = IndexResetError.code;
+    this.code = this.name = _IndexResetError.code;
     this.data = { filepath };
   }
 };
@@ -18469,14 +18750,14 @@ function parseTimezoneOffset(offset) {
 function negateExceptForZero$1(n) {
   return n === 0 ? n : -n;
 }
-var GitAnnotatedTag = class {
+var GitAnnotatedTag = class _GitAnnotatedTag {
   constructor(tag2) {
     if (typeof tag2 === "string") {
       this._tag = tag2;
     } else if (Buffer.isBuffer(tag2)) {
       this._tag = tag2.toString("utf8");
     } else if (typeof tag2 === "object") {
-      this._tag = GitAnnotatedTag.render(tag2);
+      this._tag = _GitAnnotatedTag.render(tag2);
     } else {
       throw new InternalError(
         "invalid type passed to GitAnnotatedTag constructor"
@@ -18484,7 +18765,7 @@ var GitAnnotatedTag = class {
     }
   }
   static from(tag2) {
-    return new GitAnnotatedTag(tag2);
+    return new _GitAnnotatedTag(tag2);
   }
   static render(obj) {
     return `object ${obj.object}
@@ -18565,7 +18846,7 @@ ${obj.gpgsig ? obj.gpgsig : ""}`;
     let { signature } = await sign({ payload, secretKey });
     signature = normalizeNewlines(signature);
     const signedTag = payload + signature;
-    return GitAnnotatedTag.from(signedTag);
+    return _GitAnnotatedTag.from(signedTag);
   }
 };
 function indent(str) {
@@ -18574,28 +18855,28 @@ function indent(str) {
 function outdent(str) {
   return str.split("\n").map((x) => x.replace(/^ /, "")).join("\n");
 }
-var GitCommit = class {
+var GitCommit = class _GitCommit {
   constructor(commit2) {
     if (typeof commit2 === "string") {
       this._commit = commit2;
     } else if (Buffer.isBuffer(commit2)) {
       this._commit = commit2.toString("utf8");
     } else if (typeof commit2 === "object") {
-      this._commit = GitCommit.render(commit2);
+      this._commit = _GitCommit.render(commit2);
     } else {
       throw new InternalError("invalid type passed to GitCommit constructor");
     }
   }
   static fromPayloadSignature({ payload, signature }) {
-    const headers = GitCommit.justHeaders(payload);
-    const message = GitCommit.justMessage(payload);
+    const headers = _GitCommit.justHeaders(payload);
+    const message = _GitCommit.justMessage(payload);
     const commit2 = normalizeNewlines(
       headers + "\ngpgsig" + indent(signature) + "\n" + message
     );
-    return new GitCommit(commit2);
+    return new _GitCommit(commit2);
   }
   static from(commit2) {
-    return new GitCommit(commit2);
+    return new _GitCommit(commit2);
   }
   toObject() {
     return Buffer.from(this._commit, "utf8");
@@ -18606,7 +18887,7 @@ var GitCommit = class {
   }
   // Todo: allow setting the headers and message
   message() {
-    return GitCommit.justMessage(this._commit);
+    return _GitCommit.justMessage(this._commit);
   }
   parse() {
     return Object.assign({ message: this.message() }, this.headers());
@@ -18618,7 +18899,7 @@ var GitCommit = class {
     return commit2.slice(0, commit2.indexOf("\n\n"));
   }
   parseHeaders() {
-    const headers = GitCommit.justHeaders(this._commit).split("\n");
+    const headers = _GitCommit.justHeaders(this._commit).split("\n");
     const hs = [];
     for (const h of headers) {
       if (h[0] === " ") {
@@ -18677,7 +18958,7 @@ var GitCommit = class {
     return headers;
   }
   static render(obj) {
-    return GitCommit.renderHeaders(obj) + "\n" + normalizeNewlines(obj.message);
+    return _GitCommit.renderHeaders(obj) + "\n" + normalizeNewlines(obj.message);
   }
   render() {
     return this._commit;
@@ -18701,12 +18982,12 @@ var GitCommit = class {
   }
   static async sign(commit2, sign, secretKey) {
     const payload = commit2.withoutSignature();
-    const message = GitCommit.justMessage(commit2._commit);
+    const message = _GitCommit.justMessage(commit2._commit);
     let { signature } = await sign({ payload, secretKey });
     signature = normalizeNewlines(signature);
-    const headers = GitCommit.justHeaders(commit2._commit);
+    const headers = _GitCommit.justHeaders(commit2._commit);
     const signedCommit = headers + "\ngpgsig" + indent(signature) + "\n" + message;
-    return GitCommit.from(signedCommit);
+    return _GitCommit.from(signedCommit);
   }
 };
 async function resolveTree({ fs, cache, gitdir, oid }) {
@@ -19106,47 +19387,72 @@ async function rmRecursive(fs, filepath) {
     await fs.rmdir(filepath);
   }
 }
+function isPromiseLike(obj) {
+  return isObject(obj) && isFunction(obj.then) && isFunction(obj.catch);
+}
+function isObject(obj) {
+  return obj && typeof obj === "object";
+}
+function isFunction(obj) {
+  return typeof obj === "function";
+}
+function isPromiseFs(fs) {
+  const test = (targetFs) => {
+    try {
+      return targetFs.readFile().catch((e) => e);
+    } catch (e) {
+      return e;
+    }
+  };
+  return isPromiseLike(test(fs));
+}
+var commands = [
+  "readFile",
+  "writeFile",
+  "mkdir",
+  "rmdir",
+  "unlink",
+  "stat",
+  "lstat",
+  "readdir",
+  "readlink",
+  "symlink"
+];
+function bindFs(target, fs) {
+  if (isPromiseFs(fs)) {
+    for (const command of commands) {
+      target[`_${command}`] = fs[command].bind(fs);
+    }
+  } else {
+    for (const command of commands) {
+      target[`_${command}`] = (0, import_pify.default)(fs[command].bind(fs));
+    }
+  }
+  if (isPromiseFs(fs)) {
+    if (fs.rm)
+      target._rm = fs.rm.bind(fs);
+    else if (fs.rmdir.length > 1)
+      target._rm = fs.rmdir.bind(fs);
+    else
+      target._rm = rmRecursive.bind(null, target);
+  } else {
+    if (fs.rm)
+      target._rm = (0, import_pify.default)(fs.rm.bind(fs));
+    else if (fs.rmdir.length > 2)
+      target._rm = (0, import_pify.default)(fs.rmdir.bind(fs));
+    else
+      target._rm = rmRecursive.bind(null, target);
+  }
+}
 var FileSystem = class {
   constructor(fs) {
     if (typeof fs._original_unwrapped_fs !== "undefined")
       return fs;
     const promises = Object.getOwnPropertyDescriptor(fs, "promises");
     if (promises && promises.enumerable) {
-      this._readFile = fs.promises.readFile.bind(fs.promises);
-      this._writeFile = fs.promises.writeFile.bind(fs.promises);
-      this._mkdir = fs.promises.mkdir.bind(fs.promises);
-      if (fs.promises.rm) {
-        this._rm = fs.promises.rm.bind(fs.promises);
-      } else if (fs.promises.rmdir.length > 1) {
-        this._rm = fs.promises.rmdir.bind(fs.promises);
-      } else {
-        this._rm = rmRecursive.bind(null, this);
-      }
-      this._rmdir = fs.promises.rmdir.bind(fs.promises);
-      this._unlink = fs.promises.unlink.bind(fs.promises);
-      this._stat = fs.promises.stat.bind(fs.promises);
-      this._lstat = fs.promises.lstat.bind(fs.promises);
-      this._readdir = fs.promises.readdir.bind(fs.promises);
-      this._readlink = fs.promises.readlink.bind(fs.promises);
-      this._symlink = fs.promises.symlink.bind(fs.promises);
+      bindFs(this, fs.promises);
     } else {
-      this._readFile = (0, import_pify.default)(fs.readFile.bind(fs));
-      this._writeFile = (0, import_pify.default)(fs.writeFile.bind(fs));
-      this._mkdir = (0, import_pify.default)(fs.mkdir.bind(fs));
-      if (fs.rm) {
-        this._rm = (0, import_pify.default)(fs.rm.bind(fs));
-      } else if (fs.rmdir.length > 2) {
-        this._rm = (0, import_pify.default)(fs.rmdir.bind(fs));
-      } else {
-        this._rm = rmRecursive.bind(null, this);
-      }
-      this._rmdir = (0, import_pify.default)(fs.rmdir.bind(fs));
-      this._unlink = (0, import_pify.default)(fs.unlink.bind(fs));
-      this._stat = (0, import_pify.default)(fs.stat.bind(fs));
-      this._lstat = (0, import_pify.default)(fs.lstat.bind(fs));
-      this._readdir = (0, import_pify.default)(fs.readdir.bind(fs));
-      this._readlink = (0, import_pify.default)(fs.readlink.bind(fs));
-      this._symlink = (0, import_pify.default)(fs.symlink.bind(fs));
+      bindFs(this, fs);
     }
     this._original_unwrapped_fs = fs;
   }
@@ -19520,7 +19826,8 @@ async function add({
   gitdir = join(dir, ".git"),
   filepath,
   cache = {},
-  force = false
+  force = false,
+  parallel = true
 }) {
   try {
     assertParameter("fs", _fs);
@@ -19529,14 +19836,30 @@ async function add({
     assertParameter("filepath", filepath);
     const fs = new FileSystem(_fs);
     await GitIndexManager.acquire({ fs, gitdir, cache }, async (index2) => {
-      return addToIndex({ dir, gitdir, fs, filepath, index: index2, force });
+      return addToIndex({
+        dir,
+        gitdir,
+        fs,
+        filepath,
+        index: index2,
+        force,
+        parallel
+      });
     });
   } catch (err) {
     err.caller = "git.add";
     throw err;
   }
 }
-async function addToIndex({ dir, gitdir, fs, filepath, index: index2, force }) {
+async function addToIndex({
+  dir,
+  gitdir,
+  fs,
+  filepath,
+  index: index2,
+  force,
+  parallel
+}) {
   filepath = Array.isArray(filepath) ? filepath : [filepath];
   const promises = filepath.map(async (currentFilepath) => {
     if (!force) {
@@ -19554,17 +19877,32 @@ async function addToIndex({ dir, gitdir, fs, filepath, index: index2, force }) {
       throw new NotFoundError(currentFilepath);
     if (stats.isDirectory()) {
       const children2 = await fs.readdir(join(dir, currentFilepath));
-      const promises2 = children2.map(
-        (child) => addToIndex({
-          dir,
-          gitdir,
-          fs,
-          filepath: [join(currentFilepath, child)],
-          index: index2,
-          force
-        })
-      );
-      await Promise.all(promises2);
+      if (parallel) {
+        const promises2 = children2.map(
+          (child) => addToIndex({
+            dir,
+            gitdir,
+            fs,
+            filepath: [join(currentFilepath, child)],
+            index: index2,
+            force,
+            parallel
+          })
+        );
+        await Promise.all(promises2);
+      } else {
+        for (const child of children2) {
+          await addToIndex({
+            dir,
+            gitdir,
+            fs,
+            filepath: [join(currentFilepath, child)],
+            index: index2,
+            force,
+            parallel
+          });
+        }
+      }
     } else {
       const object = stats.isSymbolicLink() ? await fs.readlink(join(dir, currentFilepath)).then(posixifyPathBuffer) : await fs.read(join(dir, currentFilepath));
       if (object === null)
@@ -20726,7 +21064,7 @@ var GitPktLine = class {
           return true;
         return buffer2;
       } catch (err) {
-        console.log("error", err);
+        stream.error = err;
         return true;
       }
     };
@@ -21101,8 +21439,8 @@ function filterCapabilities(server, client) {
 }
 var pkg = {
   name: "isomorphic-git",
-  version: "1.23.0",
-  agent: "git/isomorphic-git@1.23.0"
+  version: "1.25.3",
+  agent: "git/isomorphic-git@1.25.3"
 };
 var FIFO = class {
   constructor() {
@@ -21129,8 +21467,8 @@ var FIFO = class {
     }
   }
   destroy(err) {
-    this._ended = true;
     this.error = err;
+    this.end();
   }
   async next() {
     if (this._queue.length > 0) {
@@ -21197,7 +21535,7 @@ var GitSideBand = class {
       if (line === true) {
         packetlines.end();
         progress.end();
-        packfile.end();
+        input.error ? packfile.destroy(input.error) : packfile.end();
         return;
       }
       switch (line[0]) {
@@ -21212,11 +21550,13 @@ var GitSideBand = class {
         case 3: {
           const error = line.slice(1);
           progress.write(error);
+          packetlines.end();
+          progress.end();
           packfile.destroy(new Error(error.toString("utf8")));
           return;
         }
         default: {
-          packetlines.write(line.slice(0));
+          packetlines.write(line);
         }
       }
       nextBit();
@@ -21326,9 +21666,16 @@ async function parseUploadPackResponse(stream) {
       } else if (line.startsWith("NAK")) {
         nak = true;
         done = true;
+      } else {
+        done = true;
+        nak = true;
       }
       if (done) {
-        resolve({ shallows, unshallows, acks, nak, packfile, progress });
+        stream.error ? reject(stream.error) : resolve({ shallows, unshallows, acks, nak, packfile, progress });
+      }
+    }).finally(() => {
+      if (!done) {
+        stream.error ? reject(stream.error) : resolve({ shallows, unshallows, acks, nak, packfile, progress });
       }
     });
   });
@@ -21617,6 +21964,8 @@ async function _fetch({
     });
   }
   const packfile = Buffer.from(await collect(response.packfile));
+  if (raw.body.error)
+    throw raw.body.error;
   const packfileSha = packfile.slice(-20).toString("hex");
   const res = {
     defaultBranch: response.HEAD,
@@ -21884,6 +22233,7 @@ async function currentBranch({
   }
 }
 async function _deleteBranch({ fs, gitdir, ref }) {
+  ref = ref.startsWith("refs/heads/") ? ref : `refs/heads/${ref}`;
   const exist = await GitRefManager.exists({ fs, gitdir, ref });
   if (!exist) {
     throw new NotFoundError(ref);
@@ -22001,15 +22351,19 @@ async function expandOidPacked({
 }
 async function _expandOid({ fs, cache, gitdir, oid: short }) {
   const getExternalRefDelta = (oid) => _readObject({ fs, cache, gitdir, oid });
-  const results1 = await expandOidLoose({ fs, gitdir, oid: short });
-  const results2 = await expandOidPacked({
+  const results = await expandOidLoose({ fs, gitdir, oid: short });
+  const packedOids = await expandOidPacked({
     fs,
     cache,
     gitdir,
     oid: short,
     getExternalRefDelta
   });
-  const results = results1.concat(results2);
+  for (const packedOid of packedOids) {
+    if (results.indexOf(packedOid) === -1) {
+      results.push(packedOid);
+    }
+  }
   if (results.length === 1) {
     return results[0];
   }
@@ -22142,6 +22496,9 @@ async function mergeTree({
   const baseTree = TREE({ ref: baseOid });
   const theirTree = TREE({ ref: theirOid });
   const unmergedFiles = [];
+  const bothModified = [];
+  const deleteByUs = [];
+  const deleteByTheirs = [];
   const results = await _walk({
     fs,
     cache,
@@ -22193,6 +22550,7 @@ async function mergeTree({
             }).then(async (r) => {
               if (!r.cleanMerge) {
                 unmergedFiles.push(filepath);
+                bothModified.push(filepath);
                 if (!abortOnConflict) {
                   const baseOid2 = await base.oid();
                   const ourOid2 = await ours.oid();
@@ -22207,6 +22565,43 @@ async function mergeTree({
               }
               return r.mergeResult;
             });
+          }
+          if (base && !ours && theirs && await base.type() === "blob" && await theirs.type() === "blob") {
+            unmergedFiles.push(filepath);
+            deleteByUs.push(filepath);
+            if (!abortOnConflict) {
+              const baseOid2 = await base.oid();
+              const theirOid2 = await theirs.oid();
+              index2.delete({ filepath });
+              index2.insert({ filepath, oid: baseOid2, stage: 1 });
+              index2.insert({ filepath, oid: theirOid2, stage: 3 });
+            }
+            return {
+              mode: await theirs.mode(),
+              oid: await theirs.oid(),
+              type: "blob",
+              path: path2
+            };
+          }
+          if (base && ours && !theirs && await base.type() === "blob" && await ours.type() === "blob") {
+            unmergedFiles.push(filepath);
+            deleteByTheirs.push(filepath);
+            if (!abortOnConflict) {
+              const baseOid2 = await base.oid();
+              const ourOid2 = await ours.oid();
+              index2.delete({ filepath });
+              index2.insert({ filepath, oid: baseOid2, stage: 1 });
+              index2.insert({ filepath, oid: ourOid2, stage: 2 });
+            }
+            return {
+              mode: await ours.mode(),
+              oid: await ours.oid(),
+              type: "blob",
+              path: path2
+            };
+          }
+          if (base && !ours && !theirs && await base.type() === "blob") {
+            return void 0;
           }
           throw new MergeNotSupportedError();
         }
@@ -22256,7 +22651,12 @@ async function mergeTree({
         }
       });
     }
-    return new MergeConflictError(unmergedFiles);
+    return new MergeConflictError(
+      unmergedFiles,
+      bothModified,
+      deleteByUs,
+      deleteByTheirs
+    );
   }
   return results.oid;
 }
@@ -24547,7 +24947,13 @@ async function _renameBranch({
   });
   await GitRefManager.writeRef({ fs, gitdir, ref: fullnewref, value });
   await GitRefManager.deleteRef({ fs, gitdir, ref: fulloldref });
-  if (checkout2) {
+  const fullCurrentBranchRef = await _currentBranch({
+    fs,
+    gitdir,
+    fullname: true
+  });
+  const isCurrentBranch = fullCurrentBranchRef === fulloldref;
+  if (checkout2 || isCurrentBranch) {
     await GitRefManager.writeSymbolicRef({
       fs,
       gitdir,
@@ -25319,7 +25725,7 @@ var index = {
 var isomorphic_git_default = index;
 
 // src/main.ts
-var import_obsidian30 = require("obsidian");
+var import_obsidian31 = require("obsidian");
 
 // src/lineAuthor/lineAuthorIntegration.ts
 init_polyfill_buffer();
@@ -25333,7 +25739,7 @@ var import_obsidian4 = require("obsidian");
 var path = __toESM(require("path"));
 var import_path = require("path");
 
-// node_modules/.pnpm/github.com+Vinzent03+git-js@6b9a2d899bc8256e38a1d6f0b8a88116ba2bf56a_supports-color@7.2.0/node_modules/simple-git/dist/esm/index.js
+// node_modules/.pnpm/simple-git@https+++codeload.github.com+Vinzent03+git-js+tar.gz+6b9a2d899bc8256e38a1d6f0b8a881_rku6lxlylrt42756swupwur2wa/node_modules/simple-git/dist/esm/index.js
 init_polyfill_buffer();
 var import_file_exists = __toESM(require_dist(), 1);
 var import_debug = __toESM(require_browser(), 1);
@@ -25348,15 +25754,15 @@ var __getOwnPropNames2 = Object.getOwnPropertyNames;
 var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __hasOwnProp2 = Object.prototype.hasOwnProperty;
 var __propIsEnum = Object.prototype.propertyIsEnumerable;
-var __defNormalProp = (obj, key2, value) => key2 in obj ? __defProp2(obj, key2, { enumerable: true, configurable: true, writable: true, value }) : obj[key2] = value;
+var __defNormalProp2 = (obj, key2, value) => key2 in obj ? __defProp2(obj, key2, { enumerable: true, configurable: true, writable: true, value }) : obj[key2] = value;
 var __spreadValues = (a, b) => {
   for (var prop in b || (b = {}))
     if (__hasOwnProp2.call(b, prop))
-      __defNormalProp(a, prop, b[prop]);
+      __defNormalProp2(a, prop, b[prop]);
   if (__getOwnPropSymbols)
     for (var prop of __getOwnPropSymbols(b)) {
       if (__propIsEnum.call(b, prop))
-        __defNormalProp(a, prop, b[prop]);
+        __defNormalProp2(a, prop, b[prop]);
     }
   return a;
 };
@@ -25684,19 +26090,19 @@ var init_simple_git_options = __esm2({
     };
   }
 });
-function appendTaskOptions(options, commands = []) {
+function appendTaskOptions(options, commands2 = []) {
   if (!filterPlainObject(options)) {
-    return commands;
+    return commands2;
   }
-  return Object.keys(options).reduce((commands2, key2) => {
+  return Object.keys(options).reduce((commands22, key2) => {
     const value = options[key2];
     if (filterPrimitives(value, ["boolean"])) {
-      commands2.push(key2 + "=" + value);
+      commands22.push(key2 + "=" + value);
     } else {
-      commands2.push(key2);
+      commands22.push(key2);
     }
-    return commands2;
-  }, commands);
+    return commands22;
+  }, commands2);
 }
 function getTrailingOptions(args, initialPrimitive = 0, objectOnly = false) {
   const command = [];
@@ -25821,18 +26227,18 @@ function checkIsRepoTask(action) {
     case "root":
       return checkIsRepoRootTask();
   }
-  const commands = ["rev-parse", "--is-inside-work-tree"];
+  const commands2 = ["rev-parse", "--is-inside-work-tree"];
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     onError,
     parser
   };
 }
 function checkIsRepoRootTask() {
-  const commands = ["rev-parse", "--git-dir"];
+  const commands2 = ["rev-parse", "--git-dir"];
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     onError,
     parser(path2) {
@@ -25841,9 +26247,9 @@ function checkIsRepoRootTask() {
   };
 }
 function checkIsBareRepoTask() {
-  const commands = ["rev-parse", "--is-bare-repository"];
+  const commands2 = ["rev-parse", "--is-bare-repository"];
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     onError,
     parser
@@ -25931,18 +26337,18 @@ function configurationErrorTask(error) {
     }
   };
 }
-function straightThroughStringTask(commands, trimmed2 = false) {
+function straightThroughStringTask(commands2, trimmed2 = false) {
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser(text2) {
       return trimmed2 ? String(text2).trim() : text2;
     }
   };
 }
-function straightThroughBufferTask(commands) {
+function straightThroughBufferTask(commands2) {
   return {
-    commands,
+    commands: commands2,
     format: "buffer",
     parser(buffer2) {
       return buffer2;
@@ -25987,9 +26393,9 @@ function cleanWithOptionsTask(mode, customArgs) {
   return cleanTask(cleanMode, options);
 }
 function cleanTask(mode, customArgs) {
-  const commands = ["clean", `-${mode}`, ...customArgs];
+  const commands2 = ["clean", `-${mode}`, ...customArgs];
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser(text2) {
       return cleanSummaryParser(mode === "n", text2);
@@ -26150,13 +26556,13 @@ function asConfigScope(scope, fallback) {
   return fallback;
 }
 function addConfigTask(key2, value, append22, scope) {
-  const commands = ["config", `--${scope}`];
+  const commands2 = ["config", `--${scope}`];
   if (append22) {
-    commands.push("--add");
+    commands2.push("--add");
   }
-  commands.push(key2, value);
+  commands2.push(key2, value);
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser(text2) {
       return text2;
@@ -26164,12 +26570,12 @@ function addConfigTask(key2, value, append22, scope) {
   };
 }
 function getConfigTask(key2, scope) {
-  const commands = ["config", "--null", "--show-origin", "--get-all", key2];
+  const commands2 = ["config", "--null", "--show-origin", "--get-all", key2];
   if (scope) {
-    commands.splice(1, 0, `--${scope}`);
+    commands2.splice(1, 0, `--${scope}`);
   }
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser(text2) {
       return configGetParser(text2, key2);
@@ -26177,12 +26583,12 @@ function getConfigTask(key2, scope) {
   };
 }
 function listConfigTask(scope) {
-  const commands = ["config", "--list", "--show-origin", "--null"];
+  const commands2 = ["config", "--list", "--show-origin", "--null"];
   if (scope) {
-    commands.push(`--${scope}`);
+    commands2.push(`--${scope}`);
   }
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser(text2) {
       return configListParser(text2);
@@ -26253,9 +26659,9 @@ function grep_default() {
       if (typeof searchTerm === "string") {
         searchTerm = grepQueryBuilder().param(searchTerm);
       }
-      const commands = ["grep", "--null", "-n", "--full-name", ...options, ...searchTerm];
+      const commands2 = ["grep", "--null", "-n", "--full-name", ...options, ...searchTerm];
       return this._runTask({
-        commands,
+        commands: commands2,
         format: "utf-8",
         parser(stdOut) {
           return parseGrep(stdOut);
@@ -26301,12 +26707,12 @@ __export2(reset_exports, {
   resetTask: () => resetTask
 });
 function resetTask(mode, customArgs) {
-  const commands = ["reset"];
+  const commands2 = ["reset"];
   if (isValidResetMode(mode)) {
-    commands.push(`--${mode}`);
+    commands2.push(`--${mode}`);
   }
-  commands.push(...customArgs);
-  return straightThroughStringTask(commands);
+  commands2.push(...customArgs);
+  return straightThroughStringTask(commands2);
 }
 function getResetMode(mode) {
   if (isValidResetMode(mode)) {
@@ -26463,10 +26869,10 @@ var init_tasks_pending_queue = __esm2({
     TasksPendingQueue.counter = 0;
   }
 });
-function pluginContext(task, commands) {
+function pluginContext(task, commands2) {
   return {
     method: first(task.commands) || "",
-    commands
+    commands: commands2
   };
 }
 function onErrorReceived(target, logger) {
@@ -26725,11 +27131,11 @@ var init_change_working_directory = __esm2({
   }
 });
 function checkoutTask(args) {
-  const commands = ["checkout", ...args];
-  if (commands[1] === "-b" && commands.includes("-B")) {
-    commands[1] = remove2(commands, "-B");
+  const commands2 = ["checkout", ...args];
+  if (commands2[1] === "-b" && commands2.includes("-B")) {
+    commands2[1] = remove2(commands2, "-B");
   }
-  return straightThroughStringTask(commands);
+  return straightThroughStringTask(commands2);
 }
 function checkout_default() {
   return {
@@ -26803,7 +27209,7 @@ var init_parse_commit = __esm2({
   }
 });
 function commitTask(message, files, customArgs) {
-  const commands = [
+  const commands2 = [
     "-c",
     "core.abbrev=40",
     "commit",
@@ -26812,7 +27218,7 @@ function commitTask(message, files, customArgs) {
     ...customArgs
   ];
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser: parseCommitResult
   };
@@ -26837,11 +27243,11 @@ var init_commit = __esm2({
   }
 });
 function hashObjectTask(filePath, write) {
-  const commands = ["hash-object", filePath];
+  const commands2 = ["hash-object", filePath];
   if (write) {
-    commands.push("-w");
+    commands2.push("-w");
   }
-  return straightThroughStringTask(commands, true);
+  return straightThroughStringTask(commands2, true);
 }
 var init_hash_object = __esm2({
   "src/lib/tasks/hash-object.ts"() {
@@ -26889,15 +27295,15 @@ function hasBareCommand(command) {
   return command.includes(bareCommand);
 }
 function initTask(bare = false, path2, customArgs) {
-  const commands = ["init", ...customArgs];
-  if (bare && !hasBareCommand(commands)) {
-    commands.splice(1, 0, bareCommand);
+  const commands2 = ["init", ...customArgs];
+  if (bare && !hasBareCommand(commands2)) {
+    commands2.splice(1, 0, bareCommand);
   }
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser(text2) {
-      return parseInit(commands.includes("--bare"), path2, text2);
+      return parseInit(commands2.includes("--bare"), path2, text2);
     }
   };
 }
@@ -27099,14 +27505,14 @@ __export2(diff_exports, {
 });
 function diffSummaryTask(customArgs) {
   let logFormat = logFormatFromCommand(customArgs);
-  const commands = ["diff"];
+  const commands2 = ["diff"];
   if (logFormat === "") {
     logFormat = "--stat";
-    commands.push("--stat=4096");
+    commands2.push("--stat=4096");
   }
-  commands.push(...customArgs);
-  return validateLogFormatConfig(commands) || {
-    commands,
+  commands2.push(...customArgs);
+  return validateLogFormatConfig(commands2) || {
+    commands: commands2,
     format: "utf-8",
     parser: getDiffParser(logFormat)
   };
@@ -27569,18 +27975,18 @@ function pushTagsTask(ref = {}, customArgs) {
   return pushTask(ref, customArgs);
 }
 function pushTask(ref = {}, customArgs) {
-  const commands = ["push", ...customArgs];
+  const commands2 = ["push", ...customArgs];
   if (ref.branch) {
-    commands.splice(1, 0, ref.branch);
+    commands2.splice(1, 0, ref.branch);
   }
   if (ref.remote) {
-    commands.splice(1, 0, ref.remote);
+    commands2.splice(1, 0, ref.remote);
   }
-  remove2(commands, "-v");
-  append(commands, "--verbose");
-  append(commands, "--porcelain");
+  remove2(commands2, "-v");
+  append(commands2, "--verbose");
+  append(commands2, "--porcelain");
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser: parsePushResult
   };
@@ -27753,7 +28159,7 @@ var init_StatusSummary = __esm2({
   }
 });
 function statusTask(customArgs) {
-  const commands = [
+  const commands2 = [
     "status",
     "--porcelain",
     "-b",
@@ -27763,7 +28169,7 @@ function statusTask(customArgs) {
   ];
   return {
     format: "utf-8",
-    commands,
+    commands: commands2,
     parser(text2) {
       return parseStatusSummary(text2);
     }
@@ -27930,7 +28336,7 @@ var init_scheduler = __esm2({
   "src/lib/runners/scheduler.ts"() {
     init_utils();
     init_git_logger();
-    createScheduledTask = (() => {
+    createScheduledTask = /* @__PURE__ */ (() => {
       let id = 0;
       return () => {
         id++;
@@ -28100,22 +28506,22 @@ __export2(branch_exports, {
   deleteBranchTask: () => deleteBranchTask,
   deleteBranchesTask: () => deleteBranchesTask
 });
-function containsDeleteBranchCommand(commands) {
+function containsDeleteBranchCommand(commands2) {
   const deleteCommands = ["-d", "-D", "--delete"];
-  return commands.some((command) => deleteCommands.includes(command));
+  return commands2.some((command) => deleteCommands.includes(command));
 }
 function branchTask(customArgs) {
   const isDelete = containsDeleteBranchCommand(customArgs);
-  const commands = ["branch", ...customArgs];
-  if (commands.length === 1) {
-    commands.push("-a");
+  const commands2 = ["branch", ...customArgs];
+  if (commands2.length === 1) {
+    commands2.push("-a");
   }
-  if (!commands.includes("-v")) {
-    commands.splice(1, 0, "-v");
+  if (!commands2.includes("-v")) {
+    commands2.splice(1, 0, "-v");
   }
   return {
     format: "utf-8",
-    commands,
+    commands: commands2,
     parser(stdOut, stdErr) {
       if (isDelete) {
         return parseBranchDeletions(stdOut, stdErr).all[0];
@@ -28204,14 +28610,14 @@ function disallowedCommand(command) {
   return /^--upload-pack(=|$)/.test(command);
 }
 function cloneTask(repo, directory, customArgs) {
-  const commands = ["clone", ...customArgs];
-  filterString(repo) && commands.push(repo);
-  filterString(directory) && commands.push(directory);
-  const banned = commands.find(disallowedCommand);
+  const commands2 = ["clone", ...customArgs];
+  filterString(repo) && commands2.push(repo);
+  filterString(directory) && commands2.push(directory);
+  const banned = commands2.find(disallowedCommand);
   if (banned) {
     return configurationErrorTask(`git.fetch: potential exploit argument blocked.`);
   }
-  return straightThroughStringTask(commands);
+  return straightThroughStringTask(commands2);
 }
 function cloneMirrorTask(repo, directory, customArgs) {
   append(customArgs, "--mirror");
@@ -28278,16 +28684,16 @@ function disallowedCommand2(command) {
   return /^--upload-pack(=|$)/.test(command);
 }
 function fetchTask(remote, branch2, customArgs) {
-  const commands = ["fetch", ...customArgs];
+  const commands2 = ["fetch", ...customArgs];
   if (remote && branch2) {
-    commands.push(remote, branch2);
+    commands2.push(remote, branch2);
   }
-  const banned = commands.find(disallowedCommand2);
+  const banned = commands2.find(disallowedCommand2);
   if (banned) {
     return configurationErrorTask(`git.fetch: potential exploit argument blocked.`);
   }
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser: parseFetchResult
   };
@@ -28334,12 +28740,12 @@ __export2(pull_exports, {
   pullTask: () => pullTask
 });
 function pullTask(remote, branch2, customArgs) {
-  const commands = ["pull", ...customArgs];
+  const commands2 = ["pull", ...customArgs];
   if (remote && branch2) {
-    commands.splice(1, 0, remote, branch2);
+    commands2.splice(1, 0, remote, branch2);
   }
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser(stdOut, stdErr) {
       return parsePullResult(stdOut, stdErr);
@@ -28400,29 +28806,29 @@ function addRemoteTask(remoteName, remoteRepo, customArgs = []) {
   return straightThroughStringTask(["remote", "add", ...customArgs, remoteName, remoteRepo]);
 }
 function getRemotesTask(verbose) {
-  const commands = ["remote"];
+  const commands2 = ["remote"];
   if (verbose) {
-    commands.push("-v");
+    commands2.push("-v");
   }
   return {
-    commands,
+    commands: commands2,
     format: "utf-8",
     parser: verbose ? parseGetRemotesVerbose : parseGetRemotes
   };
 }
 function listRemotesTask(customArgs = []) {
-  const commands = [...customArgs];
-  if (commands[0] !== "ls-remote") {
-    commands.unshift("ls-remote");
+  const commands2 = [...customArgs];
+  if (commands2[0] !== "ls-remote") {
+    commands2.unshift("ls-remote");
   }
-  return straightThroughStringTask(commands);
+  return straightThroughStringTask(commands2);
 }
 function remoteTask(customArgs = []) {
-  const commands = [...customArgs];
-  if (commands[0] !== "remote") {
-    commands.unshift("remote");
+  const commands2 = [...customArgs];
+  if (commands2[0] !== "remote") {
+    commands2.unshift("remote");
   }
-  return straightThroughStringTask(commands);
+  return straightThroughStringTask(commands2);
 }
 function removeRemoteTask(remoteName) {
   return straightThroughStringTask(["remote", "remove", remoteName]);
@@ -28439,10 +28845,10 @@ __export2(stash_list_exports, {
 });
 function stashListTask(opt = {}, customArgs) {
   const options = parseLogOptions(opt);
-  const commands = ["stash", "list", ...options.commands, ...customArgs];
-  const parser3 = createListLogSummaryParser(options.splitter, options.fields, logFormatFromCommand(commands));
-  return validateLogFormatConfig(commands) || {
-    commands,
+  const commands2 = ["stash", "list", ...options.commands, ...customArgs];
+  const parser3 = createListLogSummaryParser(options.splitter, options.fields, logFormatFromCommand(commands2));
+  return validateLogFormatConfig(commands2) || {
+    commands: commands2,
     format: "utf-8",
     parser: parser3
   };
@@ -28469,11 +28875,11 @@ function initSubModuleTask(customArgs) {
   return subModuleTask(["init", ...customArgs]);
 }
 function subModuleTask(customArgs) {
-  const commands = [...customArgs];
-  if (commands[0] !== "submodule") {
-    commands.unshift("submodule");
+  const commands2 = [...customArgs];
+  if (commands2[0] !== "submodule") {
+    commands2.unshift("submodule");
   }
-  return straightThroughStringTask(commands);
+  return straightThroughStringTask(commands2);
 }
 function updateSubModuleTask(customArgs) {
   return subModuleTask(["update", ...customArgs]);
@@ -28523,9 +28929,9 @@ var init_TagList = __esm2({
             return singleSorted(toNumber(partsA[0]), toNumber(partsB[0]));
           }
           for (let i = 0, l = Math.max(partsA.length, partsB.length); i < l; i++) {
-            const diff2 = sorted(toNumber(partsA[i]), toNumber(partsB[i]));
-            if (diff2) {
-              return diff2;
+            const diff3 = sorted(toNumber(partsA[i]), toNumber(partsB[i]));
+            if (diff3) {
+              return diff3;
             }
           }
           return 0;
@@ -28713,9 +29119,9 @@ var require_git = __commonJS2({
     Git2.prototype.branchLocal = function(then) {
       return this._runTask(branchLocalTask2(), trailingFunctionArgument2(arguments));
     };
-    Git2.prototype.raw = function(commands) {
-      const createRestCommands = !Array.isArray(commands);
-      const command = [].slice.call(createRestCommands ? arguments : commands, 0);
+    Git2.prototype.raw = function(commands2) {
+      const createRestCommands = !Array.isArray(commands2);
+      const command = [].slice.call(createRestCommands ? arguments : commands2, 0);
       for (let i = 0; i < command.length && createRestCommands; i++) {
         if (!filterPrimitives2(command[i])) {
           command.splice(i, command.length - i);
@@ -28807,8 +29213,8 @@ var require_git = __commonJS2({
       return this._runTask(task, trailingFunctionArgument2(arguments));
     };
     Git2.prototype.revparse = function() {
-      const commands = ["rev-parse", ...getTrailingOptions2(arguments, true)];
-      return this._runTask(straightThroughStringTask2(commands, true), trailingFunctionArgument2(arguments));
+      const commands2 = ["rev-parse", ...getTrailingOptions2(arguments, true)];
+      return this._runTask(straightThroughStringTask2(commands2, true), trailingFunctionArgument2(arguments));
     };
     Git2.prototype.show = function(options, then) {
       return this._runTask(straightThroughStringTask2(["show", ...getTrailingOptions2(arguments, 1)]), trailingFunctionArgument2(arguments));
@@ -29190,6 +29596,7 @@ var DEFAULT_SETTINGS = {
   disablePush: false,
   pullBeforePush: true,
   disablePopups: false,
+  disablePopupsForNoChanges: false,
   listChangedFilesInMessageBody: false,
   showStatusBar: true,
   updateSubmodules: false,
@@ -29208,6 +29615,8 @@ var DEFAULT_SETTINGS = {
   submoduleRecurseCheckout: false,
   gitDir: "",
   showFileMenu: true,
+  authorInHistoryView: "hide",
+  dateInHistoryView: false,
   lineAuthor: {
     show: false,
     followMovement: "inactive",
@@ -29333,6 +29742,11 @@ function getDisplayPath(path2) {
     return path2;
   return path2.split("/").last().replace(".md", "");
 }
+function formatMinutes(minutes) {
+  if (minutes === 1)
+    return "1 minute";
+  return `${minutes} minutes`;
+}
 
 // src/gitManager/gitManager.ts
 init_polyfill_buffer();
@@ -29341,15 +29755,24 @@ var GitManager = class {
     this.plugin = plugin;
     this.app = plugin.app;
   }
-  getVaultPath(path2) {
+  // Constructs a path relative to the vault from a path relative to the git repository
+  getRelativeVaultPath(path2) {
     if (this.plugin.settings.basePath) {
       return this.plugin.settings.basePath + "/" + path2;
     } else {
       return path2;
     }
   }
-  asRepositoryRelativePath(path2, relativeToVault) {
-    return relativeToVault && this.plugin.settings.basePath.length > 0 ? path2.substring(this.plugin.settings.basePath.length + 1) : path2;
+  // Constructs a path relative to the git repository from a path relative to the vault
+  //
+  // @param doConversion - If false, the path is returned as is. This is added because that parameter is often passed on to functions where this method is called.
+  getRelativeRepoPath(path2, doConversion = true) {
+    if (doConversion) {
+      if (this.plugin.settings.basePath.length > 0) {
+        return path2.substring(this.plugin.settings.basePath.length + 1);
+      }
+    }
+    return path2;
   }
   _getTreeStructure(children2, beginLength = 0) {
     const list = [];
@@ -29370,7 +29793,7 @@ var GitManager = class {
         list.push({
           title,
           path: path2,
-          vaultPath: this.getVaultPath(path2),
+          vaultPath: this.getRelativeVaultPath(path2),
           children: this._getTreeStructure(
             childrenWithSameTitle,
             (beginLength > 0 ? beginLength + title.length : title.length) + 1
@@ -29381,7 +29804,7 @@ var GitManager = class {
           title: restPath,
           data: first2,
           path: first2.path,
-          vaultPath: this.getVaultPath(first2.path)
+          vaultPath: this.getRelativeVaultPath(first2.path)
         });
         children2.remove(first2);
       }
@@ -29461,10 +29884,10 @@ var GitManager = class {
       const files = chunks.join(", ");
       template = template.replace("{{files}}", files);
     }
-    const moment5 = window.moment;
+    const moment6 = window.moment;
     template = template.replace(
       "{{date}}",
-      moment5().format(this.plugin.settings.commitDateFormat)
+      moment6().format(this.plugin.settings.commitDateFormat)
     );
     if (this.plugin.settings.listChangedFilesInMessageBody) {
       template = template + "\n\nAffected files:\n" + (status2 != null ? status2 : await this.status()).staged.map((e) => e.path).join("\n");
@@ -29522,32 +29945,29 @@ var SimpleGit = class extends GitManager {
     this.plugin.setState(1 /* status */);
     const status2 = await this.git.status((err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
+    const allFilesFormatted = status2.files.map((e) => {
+      const res = this.formatPath(e);
+      return {
+        path: res.path,
+        from: res.from,
+        index: e.index === "?" ? "U" : e.index,
+        working_dir: e.working_dir === "?" ? "U" : e.working_dir,
+        vault_path: this.getRelativeVaultPath(res.path)
+      };
+    });
     return {
-      changed: status2.files.filter((e) => e.working_dir !== " ").map((e) => {
-        const res = this.formatPath(e);
-        return {
-          path: res.path,
-          from: res.from,
-          working_dir: e.working_dir === "?" ? "U" : e.working_dir,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
-      staged: status2.files.filter((e) => e.index !== " " && e.index != "?").map((e) => {
-        const res = this.formatPath(e, e.index === "R");
-        return {
-          path: res.path,
-          from: res.from,
-          index: e.index,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
+      all: allFilesFormatted,
+      changed: allFilesFormatted.filter((e) => e.working_dir !== " "),
+      staged: allFilesFormatted.filter(
+        (e) => e.index !== " " && e.index != "U"
+      ),
       conflicted: status2.conflicted.map(
         (path2) => this.formatPath({ path: path2 }).path
       )
     };
   }
   async submoduleAwareHeadRevisonInContainingDirectory(filepath) {
-    const repoPath = this.asRepositoryRelativePath(filepath, true);
+    const repoPath = this.getRelativeRepoPath(filepath);
     const containingDirectory = path.dirname(repoPath);
     const args = ["-C", containingDirectory, "rev-parse", "HEAD"];
     const result = this.git.raw(args);
@@ -29607,7 +30027,7 @@ var SimpleGit = class extends GitManager {
     }
   }
   async blame(path2, trackMovement, ignoreWhitespace) {
-    path2 = this.asRepositoryRelativePath(path2, true);
+    path2 = this.getRelativeRepoPath(path2);
     if (!await this.isTracked(path2))
       return "untracked";
     const inSubmodule = await this.getSubmoduleOfFile(path2);
@@ -29665,10 +30085,14 @@ var SimpleGit = class extends GitManager {
     dispatchEvent(new CustomEvent("git-head-update"));
     return res.summary.changes;
   }
-  async commit(message) {
+  async commit({
+    message,
+    amend
+  }) {
     this.plugin.setState(4 /* commit */);
     const res = (await this.git.commit(
       await this.formatCommitMessage(message),
+      amend ? ["--amend"] : [],
       (err) => this.onError(err)
     )).summary.changes;
     dispatchEvent(new CustomEvent("git-head-update"));
@@ -29677,7 +30101,7 @@ var SimpleGit = class extends GitManager {
   }
   async stage(path2, relativeToVault) {
     this.plugin.setState(3 /* add */);
-    path2 = this.asRepositoryRelativePath(path2, relativeToVault);
+    path2 = this.getRelativeRepoPath(path2, relativeToVault);
     await this.git.add(["--", path2], (err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
   }
@@ -29696,7 +30120,7 @@ var SimpleGit = class extends GitManager {
   }
   async unstage(path2, relativeToVault) {
     this.plugin.setState(3 /* add */);
-    path2 = this.asRepositoryRelativePath(path2, relativeToVault);
+    path2 = this.getRelativeRepoPath(path2, relativeToVault);
     await this.git.reset(["--", path2], (err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
   }
@@ -29706,7 +30130,7 @@ var SimpleGit = class extends GitManager {
     this.plugin.setState(0 /* idle */);
   }
   async hashObject(filepath) {
-    filepath = this.asRepositoryRelativePath(filepath, true);
+    filepath = this.getRelativeRepoPath(filepath);
     const inSubmodule = await this.getSubmoduleOfFile(filepath);
     const args = inSubmodule ? ["-C", inSubmodule.submodule] : [];
     const relativeFilepath = inSubmodule ? inSubmodule.relativeFilepath : filepath;
@@ -29732,6 +30156,12 @@ var SimpleGit = class extends GitManager {
       [branchInfo.current],
       (err) => this.onError(err)
     );
+    if (!branchInfo.tracking && this.plugin.settings.updateSubmodules) {
+      this.plugin.log(
+        "No tracking branch found. Ignoring pull of main repo and updating submodules only."
+      );
+      return;
+    }
     await this.git.fetch((err) => this.onError(err));
     const upstreamCommit = await this.git.revparse(
       [branchInfo.tracking],
@@ -29783,7 +30213,7 @@ var SimpleGit = class extends GitManager {
         return {
           path: e,
           working_dir: "P",
-          vault_path: this.getVaultPath(e)
+          vault_path: this.getRelativeVaultPath(e)
         };
       });
     } else {
@@ -29791,17 +30221,9 @@ var SimpleGit = class extends GitManager {
     }
   }
   async push() {
-    this.plugin.setState(1 /* status */);
-    const status2 = await this.git.status();
-    const trackingBranch = status2.tracking;
-    const currentBranch2 = status2.current;
-    const remoteChangedFiles = (await this.git.diffSummary(
-      [currentBranch2, trackingBranch, "--"],
-      (err) => this.onError(err)
-    )).changed;
     this.plugin.setState(5 /* push */);
     if (this.plugin.settings.updateSubmodules) {
-      await this.git.env({ ...process.env, OBSIDIAN_GIT: 1 }).subModule(
+      const res = await this.git.env({ ...process.env, OBSIDIAN_GIT: 1 }).subModule(
         [
           "foreach",
           "--recursive",
@@ -29809,7 +30231,21 @@ var SimpleGit = class extends GitManager {
         ],
         (err) => this.onError(err)
       );
+      console.log(res);
     }
+    const status2 = await this.git.status();
+    const trackingBranch = status2.tracking;
+    const currentBranch2 = status2.current;
+    if (!trackingBranch && this.plugin.settings.updateSubmodules) {
+      this.plugin.log(
+        "No tracking branch found. Ignoring push of main repo and updating submodules only."
+      );
+      return void 0;
+    }
+    const remoteChangedFiles = (await this.git.diffSummary(
+      [currentBranch2, trackingBranch, "--"],
+      (err) => this.onError(err)
+    )).changed;
     await this.git.env({ ...process.env, OBSIDIAN_GIT: 1 }).push((err) => this.onError(err));
     return remoteChangedFiles;
   }
@@ -29833,6 +30269,9 @@ var SimpleGit = class extends GitManager {
     const status2 = await this.git.status((err) => this.onError(err));
     const trackingBranch = status2.tracking;
     const currentBranch2 = status2.current;
+    if (!trackingBranch) {
+      return false;
+    }
     const remoteChangedFiles = (await this.git.diffSummary([currentBranch2, trackingBranch, "--"])).changed;
     return remoteChangedFiles !== 0;
   }
@@ -29858,16 +30297,21 @@ var SimpleGit = class extends GitManager {
     };
   }
   async getRemoteUrl(remote) {
-    return await this.git.remote(
-      ["get-url", remote],
-      (err, url) => this.onError(err)
-    ) || void 0;
+    try {
+      return await this.git.remote(["get-url", remote]) || void 0;
+    } catch (error) {
+      if (error.toString().contains(remote)) {
+        return void 0;
+      } else {
+        this.onError(error);
+      }
+    }
   }
   // https://github.com/kometenstaub/obsidian-version-history-diff/issues/3
   async log(file, relativeToVault = true, limit) {
     let path2;
     if (file) {
-      path2 = this.asRepositoryRelativePath(file, relativeToVault);
+      path2 = this.getRelativeRepoPath(file, relativeToVault);
     }
     const res = await this.git.log(
       {
@@ -29879,26 +30323,30 @@ var SimpleGit = class extends GitManager {
       (err) => this.onError(err)
     );
     return res.all.map((e) => {
-      var _a2, _b;
+      var _a2, _b, _c, _d;
       return {
         ...e,
-        refs: e.refs.split(", "),
+        author: {
+          name: e.author_name,
+          email: e.author_email
+        },
+        refs: e.refs.split(", ").filter((e2) => e2.length > 0),
         diff: {
           ...e.diff,
-          files: e.diff.files.map((f) => ({
+          files: (_b = (_a2 = e.diff) == null ? void 0 : _a2.files.map((f) => ({
             ...f,
             status: f.status,
             path: f.file,
             hash: e.hash,
-            vault_path: this.getVaultPath(f.file)
-          }))
+            vault_path: this.getRelativeVaultPath(f.file)
+          }))) != null ? _b : []
         },
-        fileName: (_b = (_a2 = e.diff) == null ? void 0 : _a2.files.first()) == null ? void 0 : _b.file
+        fileName: (_d = (_c = e.diff) == null ? void 0 : _c.files.first()) == null ? void 0 : _d.file
       };
     });
   }
   async show(commitHash, file, relativeToVault = true) {
-    const path2 = this.asRepositoryRelativePath(file, relativeToVault);
+    const path2 = this.getRelativeRepoPath(file, relativeToVault);
     return this.git.show(
       [commitHash + ":" + path2],
       (err) => this.onError(err)
@@ -29987,8 +30435,6 @@ var SimpleGit = class extends GitManager {
       ["-r", "--list", `${remote}*`],
       (err) => this.onError(err)
     );
-    console.log(remote);
-    console.log(res);
     const list = [];
     for (const item in res.branches) {
       list.push(res.branches[item].name);
@@ -30299,12 +30745,13 @@ var import_obsidian8 = require("obsidian");
 // src/gitManager/isomorphicGit.ts
 init_polyfill_buffer();
 
-// node_modules/.pnpm/diff@5.1.0/node_modules/diff/lib/index.mjs
+// node_modules/.pnpm/diff@5.2.0/node_modules/diff/lib/index.mjs
 init_polyfill_buffer();
 function Diff() {
 }
 Diff.prototype = {
   diff: function diff(oldString, newString) {
+    var _options$timeout;
     var options = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
     var callback = options.callback;
     if (typeof options === "function") {
@@ -30333,42 +30780,53 @@ Diff.prototype = {
     if (options.maxEditLength) {
       maxEditLength = Math.min(maxEditLength, options.maxEditLength);
     }
+    var maxExecutionTime = (_options$timeout = options.timeout) !== null && _options$timeout !== void 0 ? _options$timeout : Infinity;
+    var abortAfterTimestamp = Date.now() + maxExecutionTime;
     var bestPath = [{
-      newPos: -1,
-      components: []
+      oldPos: -1,
+      lastComponent: void 0
     }];
-    var oldPos = this.extractCommon(bestPath[0], newString, oldString, 0);
-    if (bestPath[0].newPos + 1 >= newLen && oldPos + 1 >= oldLen) {
+    var newPos = this.extractCommon(bestPath[0], newString, oldString, 0);
+    if (bestPath[0].oldPos + 1 >= oldLen && newPos + 1 >= newLen) {
       return done([{
         value: this.join(newString),
         count: newString.length
       }]);
     }
+    var minDiagonalToConsider = -Infinity, maxDiagonalToConsider = Infinity;
     function execEditLength() {
-      for (var diagonalPath = -1 * editLength; diagonalPath <= editLength; diagonalPath += 2) {
+      for (var diagonalPath = Math.max(minDiagonalToConsider, -editLength); diagonalPath <= Math.min(maxDiagonalToConsider, editLength); diagonalPath += 2) {
         var basePath = void 0;
-        var addPath = bestPath[diagonalPath - 1], removePath = bestPath[diagonalPath + 1], _oldPos = (removePath ? removePath.newPos : 0) - diagonalPath;
-        if (addPath) {
+        var removePath = bestPath[diagonalPath - 1], addPath = bestPath[diagonalPath + 1];
+        if (removePath) {
           bestPath[diagonalPath - 1] = void 0;
         }
-        var canAdd = addPath && addPath.newPos + 1 < newLen, canRemove = removePath && 0 <= _oldPos && _oldPos < oldLen;
+        var canAdd = false;
+        if (addPath) {
+          var addPathNewPos = addPath.oldPos - diagonalPath;
+          canAdd = addPath && 0 <= addPathNewPos && addPathNewPos < newLen;
+        }
+        var canRemove = removePath && removePath.oldPos + 1 < oldLen;
         if (!canAdd && !canRemove) {
           bestPath[diagonalPath] = void 0;
           continue;
         }
-        if (!canAdd || canRemove && addPath.newPos < removePath.newPos) {
-          basePath = clonePath(removePath);
-          self2.pushComponent(basePath.components, void 0, true);
+        if (!canRemove || canAdd && removePath.oldPos + 1 < addPath.oldPos) {
+          basePath = self2.addToPath(addPath, true, void 0, 0);
         } else {
-          basePath = addPath;
-          basePath.newPos++;
-          self2.pushComponent(basePath.components, true, void 0);
+          basePath = self2.addToPath(removePath, void 0, true, 1);
         }
-        _oldPos = self2.extractCommon(basePath, newString, oldString, diagonalPath);
-        if (basePath.newPos + 1 >= newLen && _oldPos + 1 >= oldLen) {
-          return done(buildValues(self2, basePath.components, newString, oldString, self2.useLongestToken));
+        newPos = self2.extractCommon(basePath, newString, oldString, diagonalPath);
+        if (basePath.oldPos + 1 >= oldLen && newPos + 1 >= newLen) {
+          return done(buildValues(self2, basePath.lastComponent, newString, oldString, self2.useLongestToken));
         } else {
           bestPath[diagonalPath] = basePath;
+          if (basePath.oldPos + 1 >= oldLen) {
+            maxDiagonalToConsider = Math.min(maxDiagonalToConsider, diagonalPath - 1);
+          }
+          if (newPos + 1 >= newLen) {
+            minDiagonalToConsider = Math.max(minDiagonalToConsider, diagonalPath + 1);
+          }
         }
       }
       editLength++;
@@ -30376,7 +30834,7 @@ Diff.prototype = {
     if (callback) {
       (function exec() {
         setTimeout(function() {
-          if (editLength > maxEditLength) {
+          if (editLength > maxEditLength || Date.now() > abortAfterTimestamp) {
             return callback();
           }
           if (!execEditLength()) {
@@ -30385,7 +30843,7 @@ Diff.prototype = {
         }, 0);
       })();
     } else {
-      while (editLength <= maxEditLength) {
+      while (editLength <= maxEditLength && Date.now() <= abortAfterTimestamp) {
         var ret = execEditLength();
         if (ret) {
           return ret;
@@ -30393,36 +30851,45 @@ Diff.prototype = {
       }
     }
   },
-  pushComponent: function pushComponent(components, added, removed) {
-    var last2 = components[components.length - 1];
+  addToPath: function addToPath(path2, added, removed, oldPosInc) {
+    var last2 = path2.lastComponent;
     if (last2 && last2.added === added && last2.removed === removed) {
-      components[components.length - 1] = {
-        count: last2.count + 1,
-        added,
-        removed
+      return {
+        oldPos: path2.oldPos + oldPosInc,
+        lastComponent: {
+          count: last2.count + 1,
+          added,
+          removed,
+          previousComponent: last2.previousComponent
+        }
       };
     } else {
-      components.push({
-        count: 1,
-        added,
-        removed
-      });
+      return {
+        oldPos: path2.oldPos + oldPosInc,
+        lastComponent: {
+          count: 1,
+          added,
+          removed,
+          previousComponent: last2
+        }
+      };
     }
   },
   extractCommon: function extractCommon(basePath, newString, oldString, diagonalPath) {
-    var newLen = newString.length, oldLen = oldString.length, newPos = basePath.newPos, oldPos = newPos - diagonalPath, commonCount = 0;
+    var newLen = newString.length, oldLen = oldString.length, oldPos = basePath.oldPos, newPos = oldPos - diagonalPath, commonCount = 0;
     while (newPos + 1 < newLen && oldPos + 1 < oldLen && this.equals(newString[newPos + 1], oldString[oldPos + 1])) {
       newPos++;
       oldPos++;
       commonCount++;
     }
     if (commonCount) {
-      basePath.components.push({
-        count: commonCount
-      });
+      basePath.lastComponent = {
+        count: commonCount,
+        previousComponent: basePath.lastComponent
+      };
     }
-    basePath.newPos = newPos;
-    return oldPos;
+    basePath.oldPos = oldPos;
+    return newPos;
   },
   equals: function equals(left, right) {
     if (this.options.comparator) {
@@ -30450,7 +30917,16 @@ Diff.prototype = {
     return chars.join("");
   }
 };
-function buildValues(diff2, components, newString, oldString, useLongestToken) {
+function buildValues(diff3, lastComponent, newString, oldString, useLongestToken) {
+  var components = [];
+  var nextComponent;
+  while (lastComponent) {
+    components.push(lastComponent);
+    nextComponent = lastComponent.previousComponent;
+    delete lastComponent.previousComponent;
+    lastComponent = nextComponent;
+  }
+  components.reverse();
   var componentPos = 0, componentLen = components.length, newPos = 0, oldPos = 0;
   for (; componentPos < componentLen; componentPos++) {
     var component = components[componentPos];
@@ -30461,16 +30937,16 @@ function buildValues(diff2, components, newString, oldString, useLongestToken) {
           var oldValue = oldString[oldPos + i];
           return oldValue.length > value2.length ? oldValue : value2;
         });
-        component.value = diff2.join(value);
+        component.value = diff3.join(value);
       } else {
-        component.value = diff2.join(newString.slice(newPos, newPos + component.count));
+        component.value = diff3.join(newString.slice(newPos, newPos + component.count));
       }
       newPos += component.count;
       if (!component.added) {
         oldPos += component.count;
       }
     } else {
-      component.value = diff2.join(oldString.slice(oldPos, oldPos + component.count));
+      component.value = diff3.join(oldString.slice(oldPos, oldPos + component.count));
       oldPos += component.count;
       if (componentPos && components[componentPos - 1].added) {
         var tmp = components[componentPos - 1];
@@ -30479,23 +30955,14 @@ function buildValues(diff2, components, newString, oldString, useLongestToken) {
       }
     }
   }
-  var lastComponent = components[componentLen - 1];
-  if (componentLen > 1 && typeof lastComponent.value === "string" && (lastComponent.added || lastComponent.removed) && diff2.equals("", lastComponent.value)) {
-    components[componentLen - 2].value += lastComponent.value;
+  var finalComponent = components[componentLen - 1];
+  if (componentLen > 1 && typeof finalComponent.value === "string" && (finalComponent.added || finalComponent.removed) && diff3.equals("", finalComponent.value)) {
+    components[componentLen - 2].value += finalComponent.value;
     components.pop();
   }
   return components;
 }
-function clonePath(path2) {
-  return {
-    newPos: path2.newPos,
-    components: path2.components.slice(0)
-  };
-}
 var characterDiff = new Diff();
-function diffChars(oldStr, newStr, options) {
-  return characterDiff.diff(oldStr, newStr, options);
-}
 var extendedWordChars = /^[A-Za-z\xC0-\u02C6\u02C8-\u02D7\u02DE-\u02FF\u1E00-\u1EFF]+$/;
 var reWhitespace = /\S/;
 var wordDiff = new Diff();
@@ -30517,11 +30984,11 @@ wordDiff.tokenize = function(value) {
   }
   return tokens;
 };
-function diffWordsWithSpace(oldStr, newStr, options) {
-  return wordDiff.diff(oldStr, newStr, options);
-}
 var lineDiff = new Diff();
 lineDiff.tokenize = function(value) {
+  if (this.options.stripTrailingCr) {
+    value = value.replace(/\r\n/g, "\n");
+  }
   var retLines = [], linesAndNewlines = value.split(/(\n|\r\n)/);
   if (!linesAndNewlines[linesAndNewlines.length - 1]) {
     linesAndNewlines.pop();
@@ -30673,11 +31140,11 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
   if (typeof options.context === "undefined") {
     options.context = 4;
   }
-  var diff2 = diffLines(oldStr, newStr, options);
-  if (!diff2) {
+  var diff3 = diffLines(oldStr, newStr, options);
+  if (!diff3) {
     return;
   }
-  diff2.push({
+  diff3.push({
     value: "",
     lines: []
   });
@@ -30689,12 +31156,12 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
   var hunks = [];
   var oldRangeStart = 0, newRangeStart = 0, curRange = [], oldLine = 1, newLine = 1;
   var _loop = function _loop2(i2) {
-    var current = diff2[i2], lines = current.lines || current.value.replace(/\n$/, "").split("\n");
+    var current = diff3[i2], lines = current.lines || current.value.replace(/\n$/, "").split("\n");
     current.lines = lines;
     if (current.added || current.removed) {
       var _curRange;
       if (!oldRangeStart) {
-        var prev = diff2[i2 - 1];
+        var prev = diff3[i2 - 1];
         oldRangeStart = oldLine;
         newRangeStart = newLine;
         if (prev) {
@@ -30713,7 +31180,7 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
       }
     } else {
       if (oldRangeStart) {
-        if (lines.length <= options.context * 2 && i2 < diff2.length - 2) {
+        if (lines.length <= options.context * 2 && i2 < diff3.length - 2) {
           var _curRange2;
           (_curRange2 = curRange).push.apply(_curRange2, _toConsumableArray(contextLines(lines)));
         } else {
@@ -30727,7 +31194,7 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
             newLines: newLine - newRangeStart + contextSize,
             lines: curRange
           };
-          if (i2 >= diff2.length - 2 && lines.length <= options.context) {
+          if (i2 >= diff3.length - 2 && lines.length <= options.context) {
             var oldEOFNewline = /\n$/.test(oldStr);
             var newEOFNewline = /\n$/.test(newStr);
             var noNlBeforeAdds = lines.length == 0 && curRange.length > hunk.oldLines;
@@ -30748,7 +31215,7 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
       newLine += lines.length;
     }
   };
-  for (var i = 0; i < diff2.length; i++) {
+  for (var i = 0; i < diff3.length; i++) {
     _loop(i);
   }
   return {
@@ -30759,16 +31226,19 @@ function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, ne
     hunks
   };
 }
-function formatPatch(diff2) {
+function formatPatch(diff3) {
+  if (Array.isArray(diff3)) {
+    return diff3.map(formatPatch).join("\n");
+  }
   var ret = [];
-  if (diff2.oldFileName == diff2.newFileName) {
-    ret.push("Index: " + diff2.oldFileName);
+  if (diff3.oldFileName == diff3.newFileName) {
+    ret.push("Index: " + diff3.oldFileName);
   }
   ret.push("===================================================================");
-  ret.push("--- " + diff2.oldFileName + (typeof diff2.oldHeader === "undefined" ? "" : "	" + diff2.oldHeader));
-  ret.push("+++ " + diff2.newFileName + (typeof diff2.newHeader === "undefined" ? "" : "	" + diff2.newHeader));
-  for (var i = 0; i < diff2.hunks.length; i++) {
-    var hunk = diff2.hunks[i];
+  ret.push("--- " + diff3.oldFileName + (typeof diff3.oldHeader === "undefined" ? "" : "	" + diff3.oldHeader));
+  ret.push("+++ " + diff3.newFileName + (typeof diff3.newHeader === "undefined" ? "" : "	" + diff3.newHeader));
+  for (var i = 0; i < diff3.hunks.length; i++) {
+    var hunk = diff3.hunks[i];
     if (hunk.oldLines === 0) {
       hunk.oldStart -= 1;
     }
@@ -31021,7 +31491,9 @@ var MyAdapter = class {
   async saveAndClear() {
     if (this.index !== void 0) {
       await this.adapter.writeBinary(
-        this.plugin.gitManager.getVaultPath(this.gitDir + "/index"),
+        this.plugin.gitManager.getRelativeVaultPath(
+          this.gitDir + "/index"
+        ),
         this.index,
         {
           ctime: this.indexctime,
@@ -31065,6 +31537,7 @@ var IsomorphicGit = class extends GitManager {
       "110": "DA",
       // Technically, two files: first one is deleted "D " and second one is untracked "??"
       "111": "  ",
+      "113": "MM",
       "120": "DA",
       // Same as "110"
       "121": " M",
@@ -31168,7 +31641,7 @@ var IsomorphicGit = class extends GitManager {
       const conflicted = [];
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
-      return { changed, staged, conflicted };
+      return { all: status2, changed, staged, conflicted };
     } catch (error) {
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
@@ -31184,18 +31657,20 @@ var IsomorphicGit = class extends GitManager {
     try {
       await this.checkAuthorInfo();
       await this.stageAll({ status: status2, unstagedFiles });
-      return this.commit(message);
+      return this.commit({ message });
     } catch (error) {
       this.plugin.displayError(error);
       throw error;
     }
   }
-  async commit(message) {
+  async commit({
+    message
+  }) {
     try {
       await this.checkAuthorInfo();
       this.plugin.setState(4 /* commit */);
       const formatMessage = await this.formatCommitMessage(message);
-      const hadConflict = this.plugin.localStorage.getConflict() === "true";
+      const hadConflict = this.plugin.localStorage.getConflict();
       let parent = void 0;
       if (hadConflict) {
         const branchInfo = await this.branchInfo();
@@ -31208,7 +31683,7 @@ var IsomorphicGit = class extends GitManager {
           parent
         })
       );
-      this.plugin.localStorage.setConflict("false");
+      this.plugin.localStorage.setConflict(false);
       return;
     } catch (error) {
       this.plugin.displayError(error);
@@ -31216,15 +31691,12 @@ var IsomorphicGit = class extends GitManager {
     }
   }
   async stage(filepath, relativeToVault) {
-    const gitPath = this.asRepositoryRelativePath(
-      filepath,
-      relativeToVault
-    );
+    const gitPath = this.getRelativeRepoPath(filepath, relativeToVault);
     let vaultPath;
     if (relativeToVault) {
       vaultPath = filepath;
     } else {
-      vaultPath = this.getVaultPath(filepath);
+      vaultPath = this.getRelativeVaultPath(filepath);
     }
     try {
       this.plugin.setState(3 /* add */);
@@ -31280,7 +31752,7 @@ var IsomorphicGit = class extends GitManager {
   async unstage(filepath, relativeToVault) {
     try {
       this.plugin.setState(3 /* add */);
-      filepath = this.asRepositoryRelativePath(filepath, relativeToVault);
+      filepath = this.getRelativeRepoPath(filepath, relativeToVault);
       await this.wrapFS(
         isomorphic_git_default.resetIndex({ ...this.getRepo(), filepath })
       );
@@ -31414,13 +31886,15 @@ var IsomorphicGit = class extends GitManager {
         path: file.path,
         working_dir: "P",
         index: "P",
-        vault_path: this.getVaultPath(file.path)
+        vault_path: this.getRelativeVaultPath(file.path)
       }));
     } catch (error) {
       progressNotice == null ? void 0 : progressNotice.hide();
       if (error instanceof Errors.MergeConflictError) {
         this.plugin.handleConflict(
-          error.data.filepaths.map((file) => this.getVaultPath(file))
+          error.data.filepaths.map(
+            (file) => this.getRelativeVaultPath(file)
+          )
         );
       }
       this.plugin.displayError(error);
@@ -31546,7 +32020,7 @@ var IsomorphicGit = class extends GitManager {
       throw error;
     }
   }
-  async branchIsMerged(branch2) {
+  async branchIsMerged(_) {
     return true;
   }
   async init() {
@@ -31676,6 +32150,10 @@ var IsomorphicGit = class extends GitManager {
         const completeMessage = log2.commit.message.split("\n\n");
         return {
           message: completeMessage[0],
+          author: {
+            name: log2.commit.author.name,
+            email: log2.commit.author.email
+          },
           body: completeMessage.slice(1).join("\n\n"),
           date: new Date(
             log2.commit.committer.timestamp
@@ -31689,7 +32167,9 @@ var IsomorphicGit = class extends GitManager {
               return {
                 path: item.path,
                 status: item.type,
-                vault_path: this.getVaultPath(item.path),
+                vault_path: this.getRelativeVaultPath(
+                  item.path
+                ),
                 hash: log2.oid,
                 binary: void 0
               };
@@ -31713,7 +32193,7 @@ var IsomorphicGit = class extends GitManager {
     );
     await this.setConfig(`branch.${branch2}.remote`, remote);
   }
-  updateGitPath(gitPath) {
+  updateGitPath(_) {
     return;
   }
   async getFileChangesCount(commitHash1, commitHash2) {
@@ -31775,7 +32255,7 @@ var IsomorphicGit = class extends GitManager {
     });
     return res.map((file) => {
       return {
-        vault_path: this.getVaultPath(file.path),
+        vault_path: this.getRelativeVaultPath(file.path),
         filepath: file.path
       };
     });
@@ -31855,7 +32335,7 @@ var IsomorphicGit = class extends GitManager {
     }
   }
   async getDiffString(filePath, stagedChanges = false, hash2) {
-    const vaultPath = this.getVaultPath(filePath);
+    const vaultPath = this.getRelativeVaultPath(filePath);
     const map = async (file, [A]) => {
       if (filePath == file) {
         const oid = await A.oid();
@@ -31889,12 +32369,12 @@ var IsomorphicGit = class extends GitManager {
           return void 0;
         throw err;
       });
-      const diff2 = createPatch(
+      const diff3 = createPatch(
         vaultPath,
         previousContent != null ? previousContent : "",
         commitContent != null ? commitContent : ""
       );
-      return diff2;
+      return diff3;
     }
     const stagedBlob = (await isomorphic_git_default.walk({
       ...this.getRepo(),
@@ -31914,21 +32394,21 @@ var IsomorphicGit = class extends GitManager {
           return void 0;
         throw err;
       });
-      const diff2 = createPatch(
+      const diff3 = createPatch(
         vaultPath,
         headContent != null ? headContent : "",
         stagedContent
       );
-      return diff2;
+      return diff3;
     } else {
       let workdirContent;
-      if (await app.vault.adapter.exists(vaultPath)) {
-        workdirContent = await app.vault.adapter.read(vaultPath);
+      if (await this.app.vault.adapter.exists(vaultPath)) {
+        workdirContent = await this.app.vault.adapter.read(vaultPath);
       } else {
         workdirContent = "";
       }
-      const diff2 = createPatch(vaultPath, stagedContent, workdirContent);
-      return diff2;
+      const diff3 = createPatch(vaultPath, stagedContent, workdirContent);
+      return diff3;
     }
   }
   async getLastCommitTime() {
@@ -31944,7 +32424,7 @@ var IsomorphicGit = class extends GitManager {
       index: status2[0] == "?" ? "U" : status2[0],
       working_dir: status2[1] == "?" ? "U" : status2[1],
       path: row[this.FILE],
-      vault_path: this.getVaultPath(row[this.FILE])
+      vault_path: this.getRelativeVaultPath(row[this.FILE])
     };
   }
   async checkAuthorInfo() {
@@ -32082,7 +32562,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                 plugin.settings.autoSaveInterval
               );
               new import_obsidian8.Notice(
-                `Automatic ${commitOrBackup} enabled! Every ${plugin.settings.autoSaveInterval} minutes.`
+                `Automatic ${commitOrBackup} enabled! Every ${formatMinutes(
+                  plugin.settings.autoSaveInterval
+                )}.`
               );
             } else if (plugin.settings.autoSaveInterval <= 0) {
               plugin.clearAutoBackup() && new import_obsidian8.Notice(
@@ -32095,8 +32577,12 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         })
       );
       if (!plugin.settings.setLastSaveToLastCommit)
-        new import_obsidian8.Setting(containerEl).setName(`Auto Backup after file change`).setDesc(
-          `If turned on, do auto ${commitOrBackup} every ${plugin.settings.autoSaveInterval} minutes after last change. This also prevents auto ${commitOrBackup} while editing a file. If turned off, it's independent from the last change.`
+        new import_obsidian8.Setting(containerEl).setName(`Auto Backup after stopping file edits`).setDesc(
+          `Requires the ${commitOrBackup} interval not to be 0.
+                        If turned on, do auto ${commitOrBackup} every ${formatMinutes(
+            plugin.settings.autoSaveInterval
+          )} after stopping file edits.
+                        This also prevents auto ${commitOrBackup} while editing a file. If turned off, it's independent from the last change.`
         ).addToggle(
           (toggle) => toggle.setValue(plugin.settings.autoBackupAfterFileChange).onChange((value) => {
             plugin.settings.autoBackupAfterFileChange = value;
@@ -32136,7 +32622,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                   plugin.settings.autoPushInterval
                 );
                 new import_obsidian8.Notice(
-                  `Automatic push enabled! Every ${plugin.settings.autoPushInterval} minutes.`
+                  `Automatic push enabled! Every ${formatMinutes(
+                    plugin.settings.autoPushInterval
+                  )}.`
                 );
               } else if (plugin.settings.autoPushInterval <= 0) {
                 plugin.clearAutoPush() && new import_obsidian8.Notice(
@@ -32164,7 +32652,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
                 plugin.settings.autoPullInterval
               );
               new import_obsidian8.Notice(
-                `Automatic pull enabled! Every ${plugin.settings.autoPullInterval} minutes.`
+                `Automatic pull enabled! Every ${formatMinutes(
+                  plugin.settings.autoPullInterval
+                )}.`
               );
             } else if (plugin.settings.autoPullInterval <= 0) {
               plugin.clearAutoPull() && new import_obsidian8.Notice("Automatic pull disabled!");
@@ -32181,8 +32671,8 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         })
       );
       new import_obsidian8.Setting(containerEl).setName("Commit message on auto backup/commit").setDesc(
-        "Available placeholders: {{date}} (see below), {{hostname}} (see below) and {{numFiles}} (number of changed files in the commit)"
-      ).addText(
+        "Available placeholders: {{date}} (see below), {{hostname}} (see below), {{numFiles}} (number of changed files in the commit) and {{files}} (changed files in commit message)"
+      ).addTextArea(
         (text2) => text2.setPlaceholder("vault backup: {{date}}").setValue(plugin.settings.autoCommitMessage).onChange((value) => {
           plugin.settings.autoCommitMessage = value;
           plugin.saveSettings();
@@ -32191,8 +32681,8 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
       containerEl.createEl("br");
       containerEl.createEl("h3", { text: "Commit message" });
       new import_obsidian8.Setting(containerEl).setName("Commit message on manual backup/commit").setDesc(
-        "Available placeholders: {{date}} (see below), {{hostname}} (see below) and {{numFiles}} (number of changed files in the commit)"
-      ).addText(
+        "Available placeholders: {{date}} (see below), {{hostname}} (see below), {{numFiles}} (number of changed files in the commit) and {{files}} (changed files in commit message)"
+      ).addTextArea(
         (text2) => text2.setPlaceholder("vault backup: {{date}}").setValue(
           plugin.settings.commitMessage ? plugin.settings.commitMessage : ""
         ).onChange((value) => {
@@ -32200,14 +32690,14 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
           plugin.saveSettings();
         })
       );
-      new import_obsidian8.Setting(containerEl).setName("{{date}} placeholder format").setDesc(
-        `Specify custom date format. E.g. "${DATE_TIME_FORMAT_SECONDS}"`
-      ).addText(
+      const datePlaceholderSetting = new import_obsidian8.Setting(containerEl).setName("{{date}} placeholder format").addText(
         (text2) => text2.setPlaceholder(plugin.settings.commitDateFormat).setValue(plugin.settings.commitDateFormat).onChange(async (value) => {
           plugin.settings.commitDateFormat = value;
           await plugin.saveSettings();
         })
       );
+      datePlaceholderSetting.descEl.innerHTML = `
+            Specify custom date format. E.g. "${DATE_TIME_FORMAT_SECONDS}. See <a href="https://momentjs.com">Moment.js</a> for more formats.`;
       new import_obsidian8.Setting(containerEl).setName("{{hostname}} placeholder replacement").setDesc("Specify custom hostname for every device.").addText(
         (text2) => {
           var _a2;
@@ -32273,7 +32763,32 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
       }
     }
     containerEl.createEl("br");
-    containerEl.createEl("h3", { text: "Miscellaneous" });
+    containerEl.createEl("h3", { text: "History View" });
+    new import_obsidian8.Setting(containerEl).setName("Show Author").setDesc("Show the author of the commit in the history view").addDropdown((dropdown) => {
+      const options = {
+        hide: "Hide",
+        full: "Full",
+        initials: "Initials"
+      };
+      dropdown.addOptions(options);
+      dropdown.setValue(plugin.settings.authorInHistoryView);
+      dropdown.onChange(async (option) => {
+        plugin.settings.authorInHistoryView = option;
+        plugin.saveSettings();
+        plugin.refresh();
+      });
+    });
+    new import_obsidian8.Setting(containerEl).setName("Show Date").setDesc(
+      "Show the date of the commit in the history view. The {{date}} placeholder format is used to display the date."
+    ).addToggle(
+      (toggle) => toggle.setValue(plugin.settings.dateInHistoryView).onChange((value) => {
+        plugin.settings.dateInHistoryView = value;
+        plugin.saveSettings();
+        plugin.refresh();
+      })
+    );
+    containerEl.createEl("br");
+    containerEl.createEl("h3", { text: "Source Control View" });
     new import_obsidian8.Setting(containerEl).setName(
       "Automatically refresh Source Control View on file changes"
     ).setDesc(
@@ -32298,14 +32813,26 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         plugin.setRefreshDebouncer();
       })
     );
+    containerEl.createEl("br");
+    containerEl.createEl("h3", { text: "Miscellaneous" });
     new import_obsidian8.Setting(containerEl).setName("Disable notifications").setDesc(
       "Disable notifications for git operations to minimize distraction (refer to status bar for updates). Errors are still shown as notifications even if you enable this setting"
     ).addToggle(
       (toggle) => toggle.setValue(plugin.settings.disablePopups).onChange((value) => {
         plugin.settings.disablePopups = value;
+        this.display();
         plugin.saveSettings();
       })
     );
+    if (!plugin.settings.disablePopups)
+      new import_obsidian8.Setting(containerEl).setName("Hide notifications for no changes").setDesc(
+        "Don't show notifications when there are no changes to commit/push"
+      ).addToggle(
+        (toggle) => toggle.setValue(plugin.settings.disablePopupsForNoChanges).onChange((value) => {
+          plugin.settings.disablePopupsForNoChanges = value;
+          plugin.saveSettings();
+        })
+      );
     new import_obsidian8.Setting(containerEl).setName("Show status bar").setDesc(
       "Obsidian must be restarted for the changes to take affect"
     ).addToggle(
@@ -32328,7 +32855,7 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         plugin.saveSettings();
       })
     );
-    new import_obsidian8.Setting(containerEl).setName("Show changes files count in status bar").addToggle(
+    new import_obsidian8.Setting(containerEl).setName("Show the count of modified files in the status bar").addToggle(
       (toggle) => toggle.setValue(plugin.settings.changedFilesInStatusBar).onChange((value) => {
         plugin.settings.changedFilesInStatusBar = value;
         plugin.saveSettings();
@@ -32468,7 +32995,9 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         plugin.saveSettings();
       });
     });
-    new import_obsidian8.Setting(containerEl).setName("Disable on this device").addToggle(
+    new import_obsidian8.Setting(containerEl).setName("Disable on this device").setDesc(
+      "Disables the plugin on this device. This setting is not synced."
+    ).addToggle(
       (toggle) => toggle.setValue(plugin.localStorage.getPluginDisabled()).onChange((value) => {
         plugin.localStorage.setPluginDisabled(value);
         if (value) {
@@ -32892,7 +33421,7 @@ var LineAuthoringSubscriber = class {
   async notifyLineAuthoring(id, la) {
     if (this.view === void 0) {
       console.warn(
-        `Obsidian Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
+        `Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
       );
       return;
     }
@@ -33335,9 +33864,9 @@ var LineAuthoringGutter = class extends import_view.GutterMarker {
         break;
       case "natural language":
         dateTimeFormatting = (time) => {
-          const diff2 = time.diff((0, import_obsidian10.moment)());
+          const diff3 = time.diff((0, import_obsidian10.moment)());
           const addFluentSuffix = true;
-          return import_obsidian10.moment.duration(diff2).humanize(addFluentSuffix);
+          return import_obsidian10.moment.duration(diff3).humanize(addFluentSuffix);
         };
         break;
       default:
@@ -33642,7 +34171,7 @@ var LineAuthorProvider = class {
   }
   async trackChanged(file) {
     this.trackChangedHelper(file).catch((reason) => {
-      console.warn("Obsidian Git: Error in trackChanged." + reason);
+      console.warn("Git: Error in trackChanged." + reason);
       return Promise.reject(reason);
     });
   }
@@ -33651,7 +34180,7 @@ var LineAuthorProvider = class {
       return;
     if (file.path === void 0) {
       console.warn(
-        "Obsidian Git: Attempted to track change of undefined filepath. Unforeseen situation."
+        "Git: Attempted to track change of undefined filepath. Unforeseen situation."
       );
       return;
     }
@@ -33708,7 +34237,7 @@ var LineAuthoringFeature = class {
       const file = obsView == null ? void 0 : obsView.file;
       if (!this.lineAuthorInfoProvider) {
         console.warn(
-          "Obsidian Git: undefined lineAuthorInfoProvider. Unexpected situation."
+          "Git: undefined lineAuthorInfoProvider. Unexpected situation."
         );
         return;
       }
@@ -33735,7 +34264,7 @@ var LineAuthoringFeature = class {
   }
   activateFeature() {
     try {
-      if (!this.isAvailableOnCurrentPlatform())
+      if (!this.isAvailableOnCurrentPlatform().available)
         return;
       setTextColorCssBasedOnSetting(this.plg.settings.lineAuthor);
       this.lineAuthorInfoProvider = new LineAuthorProvider(this.plg);
@@ -33743,10 +34272,7 @@ var LineAuthoringFeature = class {
       this.activateCodeMirrorExtensions();
       console.log(this.plg.manifest.name + ": Enabled line authoring.");
     } catch (e) {
-      console.warn(
-        "Obsidian Git: Error while loading line authoring feature.",
-        e
-      );
+      console.warn("Git: Error while loading line authoring feature.", e);
       this.deactivateFeature();
     }
   }
@@ -33886,7 +34412,7 @@ var StatusBar = class {
     this.plugin = plugin;
     this.messages = [];
     this.base = "obsidian-git-statusbar-";
-    this.statusBarEl.setAttribute("aria-label-position", "top");
+    this.statusBarEl.setAttribute("data-tooltip-position", "top");
     addEventListener("git-refresh", this.refreshCommitTimestamp.bind(this));
   }
   displayMessage(message, timeout) {
@@ -33967,8 +34493,8 @@ var StatusBar = class {
     var _a2;
     const timestamp = this.lastCommitTimestamp;
     if (timestamp) {
-      const moment5 = window.moment;
-      const fromNow = moment5(timestamp).fromNow();
+      const moment6 = window.moment;
+      const fromNow = moment6(timestamp).fromNow();
       this.statusBarEl.ariaLabel = `${this.plugin.offlineMode ? "Offline: " : ""}Last Commit: ${fromNow}`;
       if ((_a2 = this.unPushedCommits) != null ? _a2 : 0 > 0) {
         this.statusBarEl.ariaLabel += `
@@ -34017,7 +34543,7 @@ var ChangedFilesModal = class extends import_obsidian14.FuzzySuggestModal {
     let working_dir = "";
     let index2 = "";
     if (item.working_dir != " ")
-      working_dir = `Working dir: ${item.working_dir} `;
+      working_dir = `Working Dir: ${item.working_dir} `;
     if (item.index != " ")
       index2 = `Index: ${item.index}`;
     return `${working_dir}${index2} | ${item.vault_path}`;
@@ -34086,7 +34612,7 @@ async function openLineInGitHub(editor, file, manager) {
   }
   const { isGitHub, branch: branch2, repo, user } = data;
   if (isGitHub) {
-    const path2 = manager.asRepositoryRelativePath(file.path, true);
+    const path2 = manager.getRelativeRepoPath(file.path);
     const from = editor.getCursor("from").line + 1;
     const to = editor.getCursor("to").line + 1;
     if (from === to) {
@@ -34109,7 +34635,7 @@ async function openHistoryInGitHub(file, manager) {
     return;
   }
   const { isGitHub, branch: branch2, repo, user } = data;
-  const path2 = manager.asRepositoryRelativePath(file.path, true);
+  const path2 = manager.getRelativeRepoPath(file.path);
   if (isGitHub) {
     window.open(
       `https://github.com/${user}/${repo}/commits/${branch2}/${path2}`
@@ -34139,7 +34665,7 @@ async function getData(manager) {
     `remote.${remote}.url`
   );
   const [isGitHub, httpsUser, httpsRepo, sshUser, sshRepo] = remoteUrl.match(
-    /(?:^https:\/\/github\.com\/(.*)\/(.*)\.git$)|(?:^git@github\.com:(.*)\/(.*)\.git$)/
+    /(?:^https:\/\/github\.com\/(.*)\/(.*)\.git$)|(?:^[a-zA-Z]+@github\.com:(.*)\/(.*)\.git$)/
   );
   return {
     result: "success",
@@ -34197,10 +34723,10 @@ var LocalStorageSettings = class {
     return app.saveLocalStorage(this.prefix + "hostname", value);
   }
   getConflict() {
-    return app.loadLocalStorage(this.prefix + "conflict");
+    return app.loadLocalStorage(this.prefix + "conflict") == "true";
   }
   setConflict(value) {
-    return app.saveLocalStorage(this.prefix + "conflict", value);
+    return app.saveLocalStorage(this.prefix + "conflict", `${value}`);
   }
   getLastAutoPull() {
     return app.loadLocalStorage(this.prefix + "lastAutoPull");
@@ -34256,13 +34782,13 @@ var LocalStorageSettings = class {
 // src/ui/diff/diffView.ts
 init_polyfill_buffer();
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/diff2html.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff2html.js
 init_polyfill_buffer();
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/diff-parser.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff-parser.js
 init_polyfill_buffer();
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/types.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/types.js
 init_polyfill_buffer();
 var LineType;
 (function(LineType2) {
@@ -34283,8 +34809,14 @@ var DiffStyleType = {
   WORD: "word",
   CHAR: "char"
 };
+var ColorSchemeType;
+(function(ColorSchemeType2) {
+  ColorSchemeType2["AUTO"] = "auto";
+  ColorSchemeType2["DARK"] = "dark";
+  ColorSchemeType2["LIGHT"] = "light";
+})(ColorSchemeType || (ColorSchemeType = {}));
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/utils.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/utils.js
 init_polyfill_buffer();
 var specials = [
   "-",
@@ -34312,8 +34844,8 @@ function unifyPath(path2) {
   return path2 ? path2.replace(/\\/g, "/") : path2;
 }
 function hashCode(text2) {
-  var i, chr, len;
-  var hash2 = 0;
+  let i, chr, len;
+  let hash2 = 0;
   for (i = 0, len = text2.length; i < len; i++) {
     chr = text2.charCodeAt(i);
     hash2 = (hash2 << 5) - hash2 + chr;
@@ -34322,36 +34854,21 @@ function hashCode(text2) {
   return hash2;
 }
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/diff-parser.js
-var __spreadArray = function(to, from, pack) {
-  if (pack || arguments.length === 2)
-    for (var i = 0, l = from.length, ar; i < l; i++) {
-      if (ar || !(i in from)) {
-        if (!ar)
-          ar = Array.prototype.slice.call(from, 0, i);
-        ar[i] = from[i];
-      }
-    }
-  return to.concat(ar || Array.prototype.slice.call(from));
-};
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff-parser.js
 function getExtension(filename, language) {
-  var filenameParts = filename.split(".");
+  const filenameParts = filename.split(".");
   return filenameParts.length > 1 ? filenameParts[filenameParts.length - 1] : language;
 }
 function startsWithAny(str, prefixes) {
-  return prefixes.reduce(function(startsWith, prefix) {
-    return startsWith || str.startsWith(prefix);
-  }, false);
+  return prefixes.reduce((startsWith, prefix) => startsWith || str.startsWith(prefix), false);
 }
 var baseDiffFilenamePrefixes = ["a/", "b/", "i/", "w/", "c/", "o/"];
 function getFilename(line, linePrefix, extraPrefix) {
-  var prefixes = extraPrefix !== void 0 ? __spreadArray(__spreadArray([], baseDiffFilenamePrefixes, true), [extraPrefix], false) : baseDiffFilenamePrefixes;
-  var FilenameRegExp = linePrefix ? new RegExp("^".concat(escapeForRegExp(linePrefix), ' "?(.+?)"?$')) : new RegExp('^"?(.+?)"?$');
-  var _a2 = FilenameRegExp.exec(line) || [], _b = _a2[1], filename = _b === void 0 ? "" : _b;
-  var matchingPrefix = prefixes.find(function(p) {
-    return filename.indexOf(p) === 0;
-  });
-  var fnameWithoutPrefix = matchingPrefix ? filename.slice(matchingPrefix.length) : filename;
+  const prefixes = extraPrefix !== void 0 ? [...baseDiffFilenamePrefixes, extraPrefix] : baseDiffFilenamePrefixes;
+  const FilenameRegExp = linePrefix ? new RegExp(`^${escapeForRegExp(linePrefix)} "?(.+?)"?$`) : new RegExp('^"?(.+?)"?$');
+  const [, filename = ""] = FilenameRegExp.exec(line) || [];
+  const matchingPrefix = prefixes.find((p) => filename.indexOf(p) === 0);
+  const fnameWithoutPrefix = matchingPrefix ? filename.slice(matchingPrefix.length) : filename;
   return fnameWithoutPrefix.replace(/\s+\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(?:\.\d+)? [+-]\d{4}.*$/, "");
 }
 function getSrcFilename(line, srcPrefix) {
@@ -34360,39 +34877,36 @@ function getSrcFilename(line, srcPrefix) {
 function getDstFilename(line, dstPrefix) {
   return getFilename(line, "+++", dstPrefix);
 }
-function parse(diffInput, config) {
-  if (config === void 0) {
-    config = {};
-  }
-  var files = [];
-  var currentFile = null;
-  var currentBlock = null;
-  var oldLine = null;
-  var oldLine2 = null;
-  var newLine = null;
-  var possibleOldName = null;
-  var possibleNewName = null;
-  var oldFileNameHeader = "--- ";
-  var newFileNameHeader = "+++ ";
-  var hunkHeaderPrefix = "@@";
-  var oldMode = /^old mode (\d{6})/;
-  var newMode = /^new mode (\d{6})/;
-  var deletedFileMode = /^deleted file mode (\d{6})/;
-  var newFileMode = /^new file mode (\d{6})/;
-  var copyFrom = /^copy from "?(.+)"?/;
-  var copyTo = /^copy to "?(.+)"?/;
-  var renameFrom = /^rename from "?(.+)"?/;
-  var renameTo = /^rename to "?(.+)"?/;
-  var similarityIndex = /^similarity index (\d+)%/;
-  var dissimilarityIndex = /^dissimilarity index (\d+)%/;
-  var index2 = /^index ([\da-z]+)\.\.([\da-z]+)\s*(\d{6})?/;
-  var binaryFiles = /^Binary files (.*) and (.*) differ/;
-  var binaryDiff = /^GIT binary patch/;
-  var combinedIndex = /^index ([\da-z]+),([\da-z]+)\.\.([\da-z]+)/;
-  var combinedMode = /^mode (\d{6}),(\d{6})\.\.(\d{6})/;
-  var combinedNewFile = /^new file mode (\d{6})/;
-  var combinedDeletedFile = /^deleted file mode (\d{6}),(\d{6})/;
-  var diffLines2 = diffInput.replace(/\\ No newline at end of file/g, "").replace(/\r\n?/g, "\n").split("\n");
+function parse(diffInput, config = {}) {
+  const files = [];
+  let currentFile = null;
+  let currentBlock = null;
+  let oldLine = null;
+  let oldLine2 = null;
+  let newLine = null;
+  let possibleOldName = null;
+  let possibleNewName = null;
+  const oldFileNameHeader = "--- ";
+  const newFileNameHeader = "+++ ";
+  const hunkHeaderPrefix = "@@";
+  const oldMode = /^old mode (\d{6})/;
+  const newMode = /^new mode (\d{6})/;
+  const deletedFileMode = /^deleted file mode (\d{6})/;
+  const newFileMode = /^new file mode (\d{6})/;
+  const copyFrom = /^copy from "?(.+)"?/;
+  const copyTo = /^copy to "?(.+)"?/;
+  const renameFrom = /^rename from "?(.+)"?/;
+  const renameTo = /^rename to "?(.+)"?/;
+  const similarityIndex = /^similarity index (\d+)%/;
+  const dissimilarityIndex = /^dissimilarity index (\d+)%/;
+  const index2 = /^index ([\da-z]+)\.\.([\da-z]+)\s*(\d{6})?/;
+  const binaryFiles = /^Binary files (.*) and (.*) differ/;
+  const binaryDiff = /^GIT binary patch/;
+  const combinedIndex = /^index ([\da-z]+),([\da-z]+)\.\.([\da-z]+)/;
+  const combinedMode = /^mode (\d{6}),(\d{6})\.\.(\d{6})/;
+  const combinedNewFile = /^new file mode (\d{6})/;
+  const combinedDeletedFile = /^deleted file mode (\d{6}),(\d{6})/;
+  const diffLines2 = diffInput.replace(/\\ No newline at end of file/g, "").replace(/\r\n?/g, "\n").split("\n");
   function saveBlock() {
     if (currentBlock !== null && currentFile !== null) {
       currentFile.blocks.push(currentBlock);
@@ -34426,7 +34940,7 @@ function parse(diffInput, config) {
   }
   function startBlock(line) {
     saveBlock();
-    var values;
+    let values;
     if (currentFile !== null) {
       if (values = /^@@ -(\d+)(?:,\d+)? \+(\d+)(?:,\d+)? @@.*/.exec(line)) {
         currentFile.isCombined = false;
@@ -34457,11 +34971,11 @@ function parse(diffInput, config) {
   function createLine(line) {
     if (currentFile === null || currentBlock === null || oldLine === null || newLine === null)
       return;
-    var currentLine = {
+    const currentLine = {
       content: line
     };
-    var addedPrefixes = currentFile.isCombined ? ["+ ", " +", "++"] : ["+"];
-    var deletedPrefixes = currentFile.isCombined ? ["- ", " -", "--"] : ["-"];
+    const addedPrefixes = currentFile.isCombined ? ["+ ", " +", "++"] : ["+"];
+    const deletedPrefixes = currentFile.isCombined ? ["- ", " -", "--"] : ["-"];
     if (startsWithAny(line, addedPrefixes)) {
       currentFile.addedLines++;
       currentLine.type = LineType.INSERT;
@@ -34480,7 +34994,7 @@ function parse(diffInput, config) {
     currentBlock.lines.push(currentLine);
   }
   function existHunkHeader(line, lineIdx) {
-    var idx = lineIdx;
+    let idx = lineIdx;
     while (idx < diffLines2.length - 3) {
       if (line.startsWith("diff")) {
         return false;
@@ -34492,17 +35006,17 @@ function parse(diffInput, config) {
     }
     return false;
   }
-  diffLines2.forEach(function(line, lineIndex) {
+  diffLines2.forEach((line, lineIndex) => {
     if (!line || line.startsWith("*")) {
       return;
     }
-    var values;
-    var prevLine = diffLines2[lineIndex - 1];
-    var nxtLine = diffLines2[lineIndex + 1];
-    var afterNxtLine = diffLines2[lineIndex + 2];
+    let values;
+    const prevLine = diffLines2[lineIndex - 1];
+    const nxtLine = diffLines2[lineIndex + 1];
+    const afterNxtLine = diffLines2[lineIndex + 2];
     if (line.startsWith("diff --git") || line.startsWith("diff --combined")) {
       startFile();
-      var gitDiffStart = /^diff --git "?([a-ciow]\/.+)"? "?([a-ciow]\/.+)"?/;
+      const gitDiffStart = /^diff --git "?([a-ciow]\/.+)"? "?([a-ciow]\/.+)"?/;
       if (values = gitDiffStart.exec(line)) {
         possibleOldName = getFilename(values[1], void 0, config.dstPrefix);
         possibleNewName = getFilename(values[2], void 0, config.srcPrefix);
@@ -34515,7 +35029,7 @@ function parse(diffInput, config) {
     }
     if (line.startsWith("Binary files") && !(currentFile === null || currentFile === void 0 ? void 0 : currentFile.isGitDiff)) {
       startFile();
-      var unixDiffBinaryStart = /^Binary files "?([a-ciow]\/.+)"? and "?([a-ciow]\/.+)"? differ/;
+      const unixDiffBinaryStart = /^Binary files "?([a-ciow]\/.+)"? and "?([a-ciow]\/.+)"? differ/;
       if (values = unixDiffBinaryStart.exec(line)) {
         possibleOldName = getFilename(values[1], void 0, config.dstPrefix);
         possibleNewName = getFilename(values[2], void 0, config.srcPrefix);
@@ -34538,7 +35052,7 @@ function parse(diffInput, config) {
       currentFile.deletedLines = 0;
       currentFile.blocks = [];
       currentBlock = null;
-      var message = typeof config.diffTooBigMessage === "function" ? config.diffTooBigMessage(files.length) : "Diff too big to be displayed";
+      const message = typeof config.diffTooBigMessage === "function" ? config.diffTooBigMessage(files.length) : "Diff too big to be displayed";
       startBlock(message);
       return;
     }
@@ -34562,7 +35076,7 @@ function parse(diffInput, config) {
       createLine(line);
       return;
     }
-    var doesNotExistHunkHeader = !existHunkHeader(line, lineIndex);
+    const doesNotExistHunkHeader = !existHunkHeader(line, lineIndex);
     if (currentFile === null) {
       throw new Error("Where is my file !!!");
     }
@@ -34631,13 +35145,344 @@ function parse(diffInput, config) {
   return files;
 }
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/file-list-renderer.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/file-list-renderer.js
 init_polyfill_buffer();
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/render-utils.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/render-utils.js
 init_polyfill_buffer();
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/rematch.js
+// node_modules/.pnpm/diff@5.1.0/node_modules/diff/lib/index.mjs
+init_polyfill_buffer();
+function Diff2() {
+}
+Diff2.prototype = {
+  diff: function diff2(oldString, newString) {
+    var options = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
+    var callback = options.callback;
+    if (typeof options === "function") {
+      callback = options;
+      options = {};
+    }
+    this.options = options;
+    var self2 = this;
+    function done(value) {
+      if (callback) {
+        setTimeout(function() {
+          callback(void 0, value);
+        }, 0);
+        return true;
+      } else {
+        return value;
+      }
+    }
+    oldString = this.castInput(oldString);
+    newString = this.castInput(newString);
+    oldString = this.removeEmpty(this.tokenize(oldString));
+    newString = this.removeEmpty(this.tokenize(newString));
+    var newLen = newString.length, oldLen = oldString.length;
+    var editLength = 1;
+    var maxEditLength = newLen + oldLen;
+    if (options.maxEditLength) {
+      maxEditLength = Math.min(maxEditLength, options.maxEditLength);
+    }
+    var bestPath = [{
+      newPos: -1,
+      components: []
+    }];
+    var oldPos = this.extractCommon(bestPath[0], newString, oldString, 0);
+    if (bestPath[0].newPos + 1 >= newLen && oldPos + 1 >= oldLen) {
+      return done([{
+        value: this.join(newString),
+        count: newString.length
+      }]);
+    }
+    function execEditLength() {
+      for (var diagonalPath = -1 * editLength; diagonalPath <= editLength; diagonalPath += 2) {
+        var basePath = void 0;
+        var addPath = bestPath[diagonalPath - 1], removePath = bestPath[diagonalPath + 1], _oldPos = (removePath ? removePath.newPos : 0) - diagonalPath;
+        if (addPath) {
+          bestPath[diagonalPath - 1] = void 0;
+        }
+        var canAdd = addPath && addPath.newPos + 1 < newLen, canRemove = removePath && 0 <= _oldPos && _oldPos < oldLen;
+        if (!canAdd && !canRemove) {
+          bestPath[diagonalPath] = void 0;
+          continue;
+        }
+        if (!canAdd || canRemove && addPath.newPos < removePath.newPos) {
+          basePath = clonePath(removePath);
+          self2.pushComponent(basePath.components, void 0, true);
+        } else {
+          basePath = addPath;
+          basePath.newPos++;
+          self2.pushComponent(basePath.components, true, void 0);
+        }
+        _oldPos = self2.extractCommon(basePath, newString, oldString, diagonalPath);
+        if (basePath.newPos + 1 >= newLen && _oldPos + 1 >= oldLen) {
+          return done(buildValues2(self2, basePath.components, newString, oldString, self2.useLongestToken));
+        } else {
+          bestPath[diagonalPath] = basePath;
+        }
+      }
+      editLength++;
+    }
+    if (callback) {
+      (function exec() {
+        setTimeout(function() {
+          if (editLength > maxEditLength) {
+            return callback();
+          }
+          if (!execEditLength()) {
+            exec();
+          }
+        }, 0);
+      })();
+    } else {
+      while (editLength <= maxEditLength) {
+        var ret = execEditLength();
+        if (ret) {
+          return ret;
+        }
+      }
+    }
+  },
+  pushComponent: function pushComponent(components, added, removed) {
+    var last2 = components[components.length - 1];
+    if (last2 && last2.added === added && last2.removed === removed) {
+      components[components.length - 1] = {
+        count: last2.count + 1,
+        added,
+        removed
+      };
+    } else {
+      components.push({
+        count: 1,
+        added,
+        removed
+      });
+    }
+  },
+  extractCommon: function extractCommon2(basePath, newString, oldString, diagonalPath) {
+    var newLen = newString.length, oldLen = oldString.length, newPos = basePath.newPos, oldPos = newPos - diagonalPath, commonCount = 0;
+    while (newPos + 1 < newLen && oldPos + 1 < oldLen && this.equals(newString[newPos + 1], oldString[oldPos + 1])) {
+      newPos++;
+      oldPos++;
+      commonCount++;
+    }
+    if (commonCount) {
+      basePath.components.push({
+        count: commonCount
+      });
+    }
+    basePath.newPos = newPos;
+    return oldPos;
+  },
+  equals: function equals2(left, right) {
+    if (this.options.comparator) {
+      return this.options.comparator(left, right);
+    } else {
+      return left === right || this.options.ignoreCase && left.toLowerCase() === right.toLowerCase();
+    }
+  },
+  removeEmpty: function removeEmpty2(array) {
+    var ret = [];
+    for (var i = 0; i < array.length; i++) {
+      if (array[i]) {
+        ret.push(array[i]);
+      }
+    }
+    return ret;
+  },
+  castInput: function castInput2(value) {
+    return value;
+  },
+  tokenize: function tokenize2(value) {
+    return value.split("");
+  },
+  join: function join4(chars) {
+    return chars.join("");
+  }
+};
+function buildValues2(diff3, components, newString, oldString, useLongestToken) {
+  var componentPos = 0, componentLen = components.length, newPos = 0, oldPos = 0;
+  for (; componentPos < componentLen; componentPos++) {
+    var component = components[componentPos];
+    if (!component.removed) {
+      if (!component.added && useLongestToken) {
+        var value = newString.slice(newPos, newPos + component.count);
+        value = value.map(function(value2, i) {
+          var oldValue = oldString[oldPos + i];
+          return oldValue.length > value2.length ? oldValue : value2;
+        });
+        component.value = diff3.join(value);
+      } else {
+        component.value = diff3.join(newString.slice(newPos, newPos + component.count));
+      }
+      newPos += component.count;
+      if (!component.added) {
+        oldPos += component.count;
+      }
+    } else {
+      component.value = diff3.join(oldString.slice(oldPos, oldPos + component.count));
+      oldPos += component.count;
+      if (componentPos && components[componentPos - 1].added) {
+        var tmp = components[componentPos - 1];
+        components[componentPos - 1] = components[componentPos];
+        components[componentPos] = tmp;
+      }
+    }
+  }
+  var lastComponent = components[componentLen - 1];
+  if (componentLen > 1 && typeof lastComponent.value === "string" && (lastComponent.added || lastComponent.removed) && diff3.equals("", lastComponent.value)) {
+    components[componentLen - 2].value += lastComponent.value;
+    components.pop();
+  }
+  return components;
+}
+function clonePath(path2) {
+  return {
+    newPos: path2.newPos,
+    components: path2.components.slice(0)
+  };
+}
+var characterDiff2 = new Diff2();
+function diffChars(oldStr, newStr, options) {
+  return characterDiff2.diff(oldStr, newStr, options);
+}
+var extendedWordChars2 = /^[A-Za-z\xC0-\u02C6\u02C8-\u02D7\u02DE-\u02FF\u1E00-\u1EFF]+$/;
+var reWhitespace2 = /\S/;
+var wordDiff2 = new Diff2();
+wordDiff2.equals = function(left, right) {
+  if (this.options.ignoreCase) {
+    left = left.toLowerCase();
+    right = right.toLowerCase();
+  }
+  return left === right || this.options.ignoreWhitespace && !reWhitespace2.test(left) && !reWhitespace2.test(right);
+};
+wordDiff2.tokenize = function(value) {
+  var tokens = value.split(/([^\S\r\n]+|[()[\]{}'"\r\n]|\b)/);
+  for (var i = 0; i < tokens.length - 1; i++) {
+    if (!tokens[i + 1] && tokens[i + 2] && extendedWordChars2.test(tokens[i]) && extendedWordChars2.test(tokens[i + 2])) {
+      tokens[i] += tokens[i + 2];
+      tokens.splice(i + 1, 2);
+      i--;
+    }
+  }
+  return tokens;
+};
+function diffWordsWithSpace(oldStr, newStr, options) {
+  return wordDiff2.diff(oldStr, newStr, options);
+}
+var lineDiff2 = new Diff2();
+lineDiff2.tokenize = function(value) {
+  var retLines = [], linesAndNewlines = value.split(/(\n|\r\n)/);
+  if (!linesAndNewlines[linesAndNewlines.length - 1]) {
+    linesAndNewlines.pop();
+  }
+  for (var i = 0; i < linesAndNewlines.length; i++) {
+    var line = linesAndNewlines[i];
+    if (i % 2 && !this.options.newlineIsToken) {
+      retLines[retLines.length - 1] += line;
+    } else {
+      if (this.options.ignoreWhitespace) {
+        line = line.trim();
+      }
+      retLines.push(line);
+    }
+  }
+  return retLines;
+};
+var sentenceDiff2 = new Diff2();
+sentenceDiff2.tokenize = function(value) {
+  return value.split(/(\S.+?[.!?])(?=\s+|$)/);
+};
+var cssDiff2 = new Diff2();
+cssDiff2.tokenize = function(value) {
+  return value.split(/([{}:;,]|\s+)/);
+};
+function _typeof2(obj) {
+  "@babel/helpers - typeof";
+  if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
+    _typeof2 = function(obj2) {
+      return typeof obj2;
+    };
+  } else {
+    _typeof2 = function(obj2) {
+      return obj2 && typeof Symbol === "function" && obj2.constructor === Symbol && obj2 !== Symbol.prototype ? "symbol" : typeof obj2;
+    };
+  }
+  return _typeof2(obj);
+}
+var objectPrototypeToString2 = Object.prototype.toString;
+var jsonDiff2 = new Diff2();
+jsonDiff2.useLongestToken = true;
+jsonDiff2.tokenize = lineDiff2.tokenize;
+jsonDiff2.castInput = function(value) {
+  var _this$options = this.options, undefinedReplacement = _this$options.undefinedReplacement, _this$options$stringi = _this$options.stringifyReplacer, stringifyReplacer = _this$options$stringi === void 0 ? function(k, v) {
+    return typeof v === "undefined" ? undefinedReplacement : v;
+  } : _this$options$stringi;
+  return typeof value === "string" ? value : JSON.stringify(canonicalize2(value, null, null, stringifyReplacer), stringifyReplacer, "  ");
+};
+jsonDiff2.equals = function(left, right) {
+  return Diff2.prototype.equals.call(jsonDiff2, left.replace(/,([\r\n])/g, "$1"), right.replace(/,([\r\n])/g, "$1"));
+};
+function canonicalize2(obj, stack, replacementStack, replacer, key2) {
+  stack = stack || [];
+  replacementStack = replacementStack || [];
+  if (replacer) {
+    obj = replacer(key2, obj);
+  }
+  var i;
+  for (i = 0; i < stack.length; i += 1) {
+    if (stack[i] === obj) {
+      return replacementStack[i];
+    }
+  }
+  var canonicalizedObj;
+  if ("[object Array]" === objectPrototypeToString2.call(obj)) {
+    stack.push(obj);
+    canonicalizedObj = new Array(obj.length);
+    replacementStack.push(canonicalizedObj);
+    for (i = 0; i < obj.length; i += 1) {
+      canonicalizedObj[i] = canonicalize2(obj[i], stack, replacementStack, replacer, key2);
+    }
+    stack.pop();
+    replacementStack.pop();
+    return canonicalizedObj;
+  }
+  if (obj && obj.toJSON) {
+    obj = obj.toJSON();
+  }
+  if (_typeof2(obj) === "object" && obj !== null) {
+    stack.push(obj);
+    canonicalizedObj = {};
+    replacementStack.push(canonicalizedObj);
+    var sortedKeys = [], _key;
+    for (_key in obj) {
+      if (obj.hasOwnProperty(_key)) {
+        sortedKeys.push(_key);
+      }
+    }
+    sortedKeys.sort();
+    for (i = 0; i < sortedKeys.length; i += 1) {
+      _key = sortedKeys[i];
+      canonicalizedObj[_key] = canonicalize2(obj[_key], stack, replacementStack, replacer, _key);
+    }
+    stack.pop();
+    replacementStack.pop();
+  } else {
+    canonicalizedObj = obj;
+  }
+  return canonicalizedObj;
+}
+var arrayDiff2 = new Diff2();
+arrayDiff2.tokenize = function(value) {
+  return value.slice();
+};
+arrayDiff2.join = arrayDiff2.removeEmpty = function(value) {
+  return value;
+};
+
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/rematch.js
 init_polyfill_buffer();
 function levenshtein(a, b) {
   if (a.length === 0) {
@@ -34646,12 +35491,12 @@ function levenshtein(a, b) {
   if (b.length === 0) {
     return a.length;
   }
-  var matrix = [];
-  var i;
+  const matrix = [];
+  let i;
   for (i = 0; i <= b.length; i++) {
     matrix[i] = [i];
   }
-  var j;
+  let j;
   for (j = 0; j <= a.length; j++) {
     matrix[0][j] = j;
   }
@@ -34667,24 +35512,21 @@ function levenshtein(a, b) {
   return matrix[b.length][a.length];
 }
 function newDistanceFn(str) {
-  return function(x, y) {
-    var xValue = str(x).trim();
-    var yValue = str(y).trim();
-    var lev = levenshtein(xValue, yValue);
+  return (x, y) => {
+    const xValue = str(x).trim();
+    const yValue = str(y).trim();
+    const lev = levenshtein(xValue, yValue);
     return lev / (xValue.length + yValue.length);
   };
 }
 function newMatcherFn(distance2) {
-  function findBestMatch(a, b, cache) {
-    if (cache === void 0) {
-      cache = /* @__PURE__ */ new Map();
-    }
-    var bestMatchDist = Infinity;
-    var bestMatch;
-    for (var i = 0; i < a.length; ++i) {
-      for (var j = 0; j < b.length; ++j) {
-        var cacheKey = JSON.stringify([a[i], b[j]]);
-        var md = void 0;
+  function findBestMatch(a, b, cache = /* @__PURE__ */ new Map()) {
+    let bestMatchDist = Infinity;
+    let bestMatch;
+    for (let i = 0; i < a.length; ++i) {
+      for (let j = 0; j < b.length; ++j) {
+        const cacheKey = JSON.stringify([a[i], b[j]]);
+        let md;
         if (!(cache.has(cacheKey) && (md = cache.get(cacheKey)))) {
           md = distance2(a[i], b[j]);
           cache.set(cacheKey, md);
@@ -34697,29 +35539,23 @@ function newMatcherFn(distance2) {
     }
     return bestMatch;
   }
-  function group(a, b, level, cache) {
-    if (level === void 0) {
-      level = 0;
-    }
-    if (cache === void 0) {
-      cache = /* @__PURE__ */ new Map();
-    }
-    var bm = findBestMatch(a, b, cache);
+  function group(a, b, level = 0, cache = /* @__PURE__ */ new Map()) {
+    const bm = findBestMatch(a, b, cache);
     if (!bm || a.length + b.length < 3) {
       return [[a, b]];
     }
-    var a1 = a.slice(0, bm.indexA);
-    var b1 = b.slice(0, bm.indexB);
-    var aMatch = [a[bm.indexA]];
-    var bMatch = [b[bm.indexB]];
-    var tailA = bm.indexA + 1;
-    var tailB = bm.indexB + 1;
-    var a2 = a.slice(tailA);
-    var b2 = b.slice(tailB);
-    var group1 = group(a1, b1, level + 1, cache);
-    var groupMatch = group(aMatch, bMatch, level + 1, cache);
-    var group2 = group(a2, b2, level + 1, cache);
-    var result = groupMatch;
+    const a1 = a.slice(0, bm.indexA);
+    const b1 = b.slice(0, bm.indexB);
+    const aMatch = [a[bm.indexA]];
+    const bMatch = [b[bm.indexB]];
+    const tailA = bm.indexA + 1;
+    const tailB = bm.indexB + 1;
+    const a2 = a.slice(tailA);
+    const b2 = b.slice(tailB);
+    const group1 = group(a1, b1, level + 1, cache);
+    const groupMatch = group(aMatch, bMatch, level + 1, cache);
+    const group2 = group(a2, b2, level + 1, cache);
+    let result = groupMatch;
     if (bm.indexA > 0 || bm.indexB > 0) {
       result = group1.concat(result);
     }
@@ -34731,19 +35567,7 @@ function newMatcherFn(distance2) {
   return group;
 }
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/render-utils.js
-var __assign = function() {
-  __assign = Object.assign || function(t) {
-    for (var s, i = 1, n = arguments.length; i < n; i++) {
-      s = arguments[i];
-      for (var p in s)
-        if (Object.prototype.hasOwnProperty.call(s, p))
-          t[p] = s[p];
-    }
-    return t;
-  };
-  return __assign.apply(this, arguments);
-};
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/render-utils.js
 var CSSLineClass = {
   INSERTS: "d2h-ins",
   DELETES: "d2h-del",
@@ -34756,12 +35580,11 @@ var defaultRenderConfig = {
   matching: LineMatchingType.NONE,
   matchWordsThreshold: 0.25,
   maxLineLengthHighlight: 1e4,
-  diffStyle: DiffStyleType.WORD
+  diffStyle: DiffStyleType.WORD,
+  colorScheme: ColorSchemeType.LIGHT
 };
 var separator = "/";
-var distance = newDistanceFn(function(change) {
-  return change.value;
-});
+var distance = newDistanceFn((change) => change.value);
 var matcher = newMatcherFn(distance);
 function isDevNullName(name) {
   return name.indexOf("dev/null") !== -1;
@@ -34782,35 +35605,43 @@ function toCSSClass(lineType) {
       return CSSLineClass.DELETES;
   }
 }
+function colorSchemeToCss(colorScheme) {
+  switch (colorScheme) {
+    case ColorSchemeType.DARK:
+      return "d2h-dark-color-scheme";
+    case ColorSchemeType.AUTO:
+      return "d2h-auto-color-scheme";
+    case ColorSchemeType.LIGHT:
+    default:
+      return "d2h-light-color-scheme";
+  }
+}
 function prefixLength(isCombined) {
   return isCombined ? 2 : 1;
 }
 function escapeForHtml(str) {
   return str.slice(0).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;").replace(/\//g, "&#x2F;");
 }
-function deconstructLine(line, isCombined, escape) {
-  if (escape === void 0) {
-    escape = true;
-  }
-  var indexToSplit = prefixLength(isCombined);
+function deconstructLine(line, isCombined, escape = true) {
+  const indexToSplit = prefixLength(isCombined);
   return {
     prefix: line.substring(0, indexToSplit),
     content: escape ? escapeForHtml(line.substring(indexToSplit)) : line.substring(indexToSplit)
   };
 }
 function filenameDiff(file) {
-  var oldFilename = unifyPath(file.oldName);
-  var newFilename = unifyPath(file.newName);
+  const oldFilename = unifyPath(file.oldName);
+  const newFilename = unifyPath(file.newName);
   if (oldFilename !== newFilename && !isDevNullName(oldFilename) && !isDevNullName(newFilename)) {
-    var prefixPaths = [];
-    var suffixPaths = [];
-    var oldFilenameParts = oldFilename.split(separator);
-    var newFilenameParts = newFilename.split(separator);
-    var oldFilenamePartsSize = oldFilenameParts.length;
-    var newFilenamePartsSize = newFilenameParts.length;
-    var i = 0;
-    var j = oldFilenamePartsSize - 1;
-    var k = newFilenamePartsSize - 1;
+    const prefixPaths = [];
+    const suffixPaths = [];
+    const oldFilenameParts = oldFilename.split(separator);
+    const newFilenameParts = newFilename.split(separator);
+    const oldFilenamePartsSize = oldFilenameParts.length;
+    const newFilenamePartsSize = newFilenameParts.length;
+    let i = 0;
+    let j = oldFilenamePartsSize - 1;
+    let k = newFilenamePartsSize - 1;
     while (i < j && i < k) {
       if (oldFilenameParts[i] === newFilenameParts[i]) {
         prefixPaths.push(newFilenameParts[i]);
@@ -34828,10 +35659,10 @@ function filenameDiff(file) {
         break;
       }
     }
-    var finalPrefix = prefixPaths.join(separator);
-    var finalSuffix = suffixPaths.join(separator);
-    var oldRemainingPath = oldFilenameParts.slice(i, j + 1).join(separator);
-    var newRemainingPath = newFilenameParts.slice(i, k + 1).join(separator);
+    const finalPrefix = prefixPaths.join(separator);
+    const finalSuffix = suffixPaths.join(separator);
+    const oldRemainingPath = oldFilenameParts.slice(i, j + 1).join(separator);
+    const newRemainingPath = newFilenameParts.slice(i, k + 1).join(separator);
     if (finalPrefix.length && finalSuffix.length) {
       return finalPrefix + separator + "{" + oldRemainingPath + " \u2192 " + newRemainingPath + "}" + separator + finalSuffix;
     } else if (finalPrefix.length) {
@@ -34847,10 +35678,10 @@ function filenameDiff(file) {
   }
 }
 function getHtmlId(file) {
-  return "d2h-".concat(hashCode(filenameDiff(file)).toString().slice(-6));
+  return `d2h-${hashCode(filenameDiff(file)).toString().slice(-6)}`;
 }
 function getFileIcon(file) {
-  var templateName = "file-changed";
+  let templateName = "file-changed";
   if (file.isRename) {
     templateName = "file-renamed";
   } else if (file.isCopy) {
@@ -34864,13 +35695,10 @@ function getFileIcon(file) {
   }
   return templateName;
 }
-function diffHighlight(diffLine1, diffLine2, isCombined, config) {
-  if (config === void 0) {
-    config = {};
-  }
-  var _a2 = __assign(__assign({}, defaultRenderConfig), config), matching = _a2.matching, maxLineLengthHighlight = _a2.maxLineLengthHighlight, matchWordsThreshold = _a2.matchWordsThreshold, diffStyle = _a2.diffStyle;
-  var line1 = deconstructLine(diffLine1, isCombined, false);
-  var line2 = deconstructLine(diffLine2, isCombined, false);
+function diffHighlight(diffLine1, diffLine2, isCombined, config = {}) {
+  const { matching, maxLineLengthHighlight, matchWordsThreshold, diffStyle } = Object.assign(Object.assign({}, defaultRenderConfig), config);
+  const line1 = deconstructLine(diffLine1, isCombined, false);
+  const line2 = deconstructLine(diffLine2, isCombined, false);
   if (line1.content.length > maxLineLengthHighlight || line2.content.length > maxLineLengthHighlight) {
     return {
       oldLine: {
@@ -34883,19 +35711,15 @@ function diffHighlight(diffLine1, diffLine2, isCombined, config) {
       }
     };
   }
-  var diff2 = diffStyle === "char" ? diffChars(line1.content, line2.content) : diffWordsWithSpace(line1.content, line2.content);
-  var changedWords = [];
+  const diff3 = diffStyle === "char" ? diffChars(line1.content, line2.content) : diffWordsWithSpace(line1.content, line2.content);
+  const changedWords = [];
   if (diffStyle === "word" && matching === "words") {
-    var removed = diff2.filter(function(element2) {
-      return element2.removed;
-    });
-    var added = diff2.filter(function(element2) {
-      return element2.added;
-    });
-    var chunks = matcher(added, removed);
-    chunks.forEach(function(chunk) {
+    const removed = diff3.filter((element2) => element2.removed);
+    const added = diff3.filter((element2) => element2.added);
+    const chunks = matcher(added, removed);
+    chunks.forEach((chunk) => {
       if (chunk[0].length === 1 && chunk[1].length === 1) {
-        var dist = distance(chunk[0][0], chunk[1][0]);
+        const dist = distance(chunk[0][0], chunk[1][0]);
         if (dist < matchWordsThreshold) {
           changedWords.push(chunk[0][0]);
           changedWords.push(chunk[1][0]);
@@ -34903,11 +35727,11 @@ function diffHighlight(diffLine1, diffLine2, isCombined, config) {
       }
     });
   }
-  var highlightedLine = diff2.reduce(function(highlightedLine2, part) {
-    var elemType = part.added ? "ins" : part.removed ? "del" : null;
-    var addClass = changedWords.indexOf(part) > -1 ? ' class="d2h-change"' : "";
-    var escapedValue = escapeForHtml(part.value);
-    return elemType !== null ? "".concat(highlightedLine2, "<").concat(elemType).concat(addClass, ">").concat(escapedValue, "</").concat(elemType, ">") : "".concat(highlightedLine2).concat(escapedValue);
+  const highlightedLine = diff3.reduce((highlightedLine2, part) => {
+    const elemType = part.added ? "ins" : part.removed ? "del" : null;
+    const addClass = changedWords.indexOf(part) > -1 ? ' class="d2h-change"' : "";
+    const escapedValue = escapeForHtml(part.value);
+    return elemType !== null ? `${highlightedLine2}<${elemType}${addClass}>${escapedValue}</${elemType}>` : `${highlightedLine2}${escapedValue}`;
   }, "");
   return {
     oldLine: {
@@ -34921,12 +35745,19 @@ function diffHighlight(diffLine1, diffLine2, isCombined, config) {
   };
 }
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/file-list-renderer.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/file-list-renderer.js
 var baseTemplatesPath = "file-summary";
 var iconsBaseTemplatesPath = "icon";
-function render(diffFiles, hoganUtils) {
-  var files = diffFiles.map(function(file) {
-    return hoganUtils.render(baseTemplatesPath, "line", {
+var defaultFileListRendererConfig = {
+  colorScheme: defaultRenderConfig.colorScheme
+};
+var FileListRenderer = class {
+  constructor(hoganUtils, config = {}) {
+    this.hoganUtils = hoganUtils;
+    this.config = Object.assign(Object.assign({}, defaultFileListRendererConfig), config);
+  }
+  render(diffFiles) {
+    const files = diffFiles.map((file) => this.hoganUtils.render(baseTemplatesPath, "line", {
       fileHtmlId: getHtmlId(file),
       oldName: file.oldName,
       newName: file.newName,
@@ -34934,62 +35765,50 @@ function render(diffFiles, hoganUtils) {
       deletedLines: "-" + file.deletedLines,
       addedLines: "+" + file.addedLines
     }, {
-      fileIcon: hoganUtils.template(iconsBaseTemplatesPath, getFileIcon(file))
+      fileIcon: this.hoganUtils.template(iconsBaseTemplatesPath, getFileIcon(file))
+    })).join("\n");
+    return this.hoganUtils.render(baseTemplatesPath, "wrapper", {
+      colorScheme: colorSchemeToCss(this.config.colorScheme),
+      filesNumber: diffFiles.length,
+      files
     });
-  }).join("\n");
-  return hoganUtils.render(baseTemplatesPath, "wrapper", {
-    filesNumber: diffFiles.length,
-    files
-  });
-}
-
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/line-by-line-renderer.js
-init_polyfill_buffer();
-var __assign2 = function() {
-  __assign2 = Object.assign || function(t) {
-    for (var s, i = 1, n = arguments.length; i < n; i++) {
-      s = arguments[i];
-      for (var p in s)
-        if (Object.prototype.hasOwnProperty.call(s, p))
-          t[p] = s[p];
-    }
-    return t;
-  };
-  return __assign2.apply(this, arguments);
+  }
 };
-var defaultLineByLineRendererConfig = __assign2(__assign2({}, defaultRenderConfig), { renderNothingWhenEmpty: false, matchingMaxComparisons: 2500, maxLineSizeInBlockForComparison: 200 });
+
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/line-by-line-renderer.js
+init_polyfill_buffer();
+var defaultLineByLineRendererConfig = Object.assign(Object.assign({}, defaultRenderConfig), { renderNothingWhenEmpty: false, matchingMaxComparisons: 2500, maxLineSizeInBlockForComparison: 200 });
 var genericTemplatesPath = "generic";
 var baseTemplatesPath2 = "line-by-line";
 var iconsBaseTemplatesPath2 = "icon";
 var tagsBaseTemplatesPath = "tag";
-var LineByLineRenderer = function() {
-  function LineByLineRenderer2(hoganUtils, config) {
-    if (config === void 0) {
-      config = {};
-    }
+var LineByLineRenderer = class {
+  constructor(hoganUtils, config = {}) {
     this.hoganUtils = hoganUtils;
-    this.config = __assign2(__assign2({}, defaultLineByLineRendererConfig), config);
+    this.config = Object.assign(Object.assign({}, defaultLineByLineRendererConfig), config);
   }
-  LineByLineRenderer2.prototype.render = function(diffFiles) {
-    var _this = this;
-    var diffsHtml = diffFiles.map(function(file) {
-      var diffs;
+  render(diffFiles) {
+    const diffsHtml = diffFiles.map((file) => {
+      let diffs;
       if (file.blocks.length) {
-        diffs = _this.generateFileHtml(file);
+        diffs = this.generateFileHtml(file);
       } else {
-        diffs = _this.generateEmptyDiff();
+        diffs = this.generateEmptyDiff();
       }
-      return _this.makeFileDiffHtml(file, diffs);
+      return this.makeFileDiffHtml(file, diffs);
     }).join("\n");
-    return this.hoganUtils.render(genericTemplatesPath, "wrapper", { content: diffsHtml });
-  };
-  LineByLineRenderer2.prototype.makeFileDiffHtml = function(file, diffs) {
+    return this.hoganUtils.render(genericTemplatesPath, "wrapper", {
+      colorScheme: colorSchemeToCss(this.config.colorScheme),
+      content: diffsHtml
+    });
+  }
+  makeFileDiffHtml(file, diffs) {
     if (this.config.renderNothingWhenEmpty && Array.isArray(file.blocks) && file.blocks.length === 0)
       return "";
-    var fileDiffTemplate = this.hoganUtils.template(baseTemplatesPath2, "file-diff");
-    var filePathTemplate = this.hoganUtils.template(genericTemplatesPath, "file-path");
-    var fileIconTemplate = this.hoganUtils.template(iconsBaseTemplatesPath2, "file");
-    var fileTagTemplate = this.hoganUtils.template(tagsBaseTemplatesPath, getFileIcon(file));
+    const fileDiffTemplate = this.hoganUtils.template(baseTemplatesPath2, "file-diff");
+    const filePathTemplate = this.hoganUtils.template(genericTemplatesPath, "file-path");
+    const fileIconTemplate = this.hoganUtils.template(iconsBaseTemplatesPath2, "file");
+    const fileTagTemplate = this.hoganUtils.template(tagsBaseTemplatesPath, getFileIcon(file));
     return fileDiffTemplate.render({
       file,
       fileHtmlId: getHtmlId(file),
@@ -35001,38 +35820,33 @@ var LineByLineRenderer = function() {
         fileTag: fileTagTemplate
       })
     });
-  };
-  LineByLineRenderer2.prototype.generateEmptyDiff = function() {
+  }
+  generateEmptyDiff() {
     return this.hoganUtils.render(genericTemplatesPath, "empty-diff", {
       contentClass: "d2h-code-line",
       CSSLineClass
     });
-  };
-  LineByLineRenderer2.prototype.generateFileHtml = function(file) {
-    var _this = this;
-    var matcher2 = newMatcherFn(newDistanceFn(function(e) {
-      return deconstructLine(e.content, file.isCombined).content;
-    }));
-    return file.blocks.map(function(block) {
-      var lines = _this.hoganUtils.render(genericTemplatesPath, "block-header", {
+  }
+  generateFileHtml(file) {
+    const matcher2 = newMatcherFn(newDistanceFn((e) => deconstructLine(e.content, file.isCombined).content));
+    return file.blocks.map((block) => {
+      let lines = this.hoganUtils.render(genericTemplatesPath, "block-header", {
         CSSLineClass,
         blockHeader: file.isTooBig ? block.header : escapeForHtml(block.header),
         lineClass: "d2h-code-linenumber",
         contentClass: "d2h-code-line"
       });
-      _this.applyLineGroupping(block).forEach(function(_a2) {
-        var contextLines = _a2[0], oldLines = _a2[1], newLines = _a2[2];
+      this.applyLineGroupping(block).forEach(([contextLines, oldLines, newLines]) => {
         if (oldLines.length && newLines.length && !contextLines.length) {
-          _this.applyRematchMatching(oldLines, newLines, matcher2).map(function(_a3) {
-            var oldLines2 = _a3[0], newLines2 = _a3[1];
-            var _b2 = _this.processChangedLines(file, file.isCombined, oldLines2, newLines2), left2 = _b2.left, right2 = _b2.right;
-            lines += left2;
-            lines += right2;
+          this.applyRematchMatching(oldLines, newLines, matcher2).map(([oldLines2, newLines2]) => {
+            const { left, right } = this.processChangedLines(file, file.isCombined, oldLines2, newLines2);
+            lines += left;
+            lines += right;
           });
         } else if (contextLines.length) {
-          contextLines.forEach(function(line) {
-            var _a3 = deconstructLine(line.content, file.isCombined), prefix = _a3.prefix, content = _a3.content;
-            lines += _this.generateSingleLineHtml(file, {
+          contextLines.forEach((line) => {
+            const { prefix, content } = deconstructLine(line.content, file.isCombined);
+            lines += this.generateSingleLineHtml(file, {
               type: CSSLineClass.CONTEXT,
               prefix,
               content,
@@ -35041,7 +35855,7 @@ var LineByLineRenderer = function() {
             });
           });
         } else if (oldLines.length || newLines.length) {
-          var _b = _this.processChangedLines(file, file.isCombined, oldLines, newLines), left = _b.left, right = _b.right;
+          const { left, right } = this.processChangedLines(file, file.isCombined, oldLines, newLines);
           lines += left;
           lines += right;
         } else {
@@ -35050,13 +35864,13 @@ var LineByLineRenderer = function() {
       });
       return lines;
     }).join("\n");
-  };
-  LineByLineRenderer2.prototype.applyLineGroupping = function(block) {
-    var blockLinesGroups = [];
-    var oldLines = [];
-    var newLines = [];
-    for (var i = 0; i < block.lines.length; i++) {
-      var diffLine = block.lines[i];
+  }
+  applyLineGroupping(block) {
+    const blockLinesGroups = [];
+    let oldLines = [];
+    let newLines = [];
+    for (let i = 0; i < block.lines.length; i++) {
+      const diffLine = block.lines[i];
       if (diffLine.type !== LineType.INSERT && newLines.length || diffLine.type === LineType.CONTEXT && oldLines.length > 0) {
         blockLinesGroups.push([[], oldLines, newLines]);
         oldLines = [];
@@ -35078,51 +35892,49 @@ var LineByLineRenderer = function() {
       newLines = [];
     }
     return blockLinesGroups;
-  };
-  LineByLineRenderer2.prototype.applyRematchMatching = function(oldLines, newLines, matcher2) {
-    var comparisons = oldLines.length * newLines.length;
-    var maxLineSizeInBlock = Math.max.apply(null, [0].concat(oldLines.concat(newLines).map(function(elem) {
-      return elem.content.length;
-    })));
-    var doMatching = comparisons < this.config.matchingMaxComparisons && maxLineSizeInBlock < this.config.maxLineSizeInBlockForComparison && (this.config.matching === "lines" || this.config.matching === "words");
+  }
+  applyRematchMatching(oldLines, newLines, matcher2) {
+    const comparisons = oldLines.length * newLines.length;
+    const maxLineSizeInBlock = Math.max.apply(null, [0].concat(oldLines.concat(newLines).map((elem) => elem.content.length)));
+    const doMatching = comparisons < this.config.matchingMaxComparisons && maxLineSizeInBlock < this.config.maxLineSizeInBlockForComparison && (this.config.matching === "lines" || this.config.matching === "words");
     return doMatching ? matcher2(oldLines, newLines) : [[oldLines, newLines]];
-  };
-  LineByLineRenderer2.prototype.processChangedLines = function(file, isCombined, oldLines, newLines) {
-    var fileHtml = {
+  }
+  processChangedLines(file, isCombined, oldLines, newLines) {
+    const fileHtml = {
       right: "",
       left: ""
     };
-    var maxLinesNumber = Math.max(oldLines.length, newLines.length);
-    for (var i = 0; i < maxLinesNumber; i++) {
-      var oldLine = oldLines[i];
-      var newLine = newLines[i];
-      var diff2 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
-      var preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? __assign2(__assign2({}, diff2 !== void 0 ? {
-        prefix: diff2.oldLine.prefix,
-        content: diff2.oldLine.content,
+    const maxLinesNumber = Math.max(oldLines.length, newLines.length);
+    for (let i = 0; i < maxLinesNumber; i++) {
+      const oldLine = oldLines[i];
+      const newLine = newLines[i];
+      const diff3 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
+      const preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
+        prefix: diff3.oldLine.prefix,
+        content: diff3.oldLine.content,
         type: CSSLineClass.DELETE_CHANGES
-      } : __assign2(__assign2({}, deconstructLine(oldLine.content, isCombined)), { type: toCSSClass(oldLine.type) })), { oldNumber: oldLine.oldNumber, newNumber: oldLine.newNumber }) : void 0;
-      var preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? __assign2(__assign2({}, diff2 !== void 0 ? {
-        prefix: diff2.newLine.prefix,
-        content: diff2.newLine.content,
+      } : Object.assign(Object.assign({}, deconstructLine(oldLine.content, isCombined)), { type: toCSSClass(oldLine.type) })), { oldNumber: oldLine.oldNumber, newNumber: oldLine.newNumber }) : void 0;
+      const preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
+        prefix: diff3.newLine.prefix,
+        content: diff3.newLine.content,
         type: CSSLineClass.INSERT_CHANGES
-      } : __assign2(__assign2({}, deconstructLine(newLine.content, isCombined)), { type: toCSSClass(newLine.type) })), { oldNumber: newLine.oldNumber, newNumber: newLine.newNumber }) : void 0;
-      var _a2 = this.generateLineHtml(file, preparedOldLine, preparedNewLine), left = _a2.left, right = _a2.right;
+      } : Object.assign(Object.assign({}, deconstructLine(newLine.content, isCombined)), { type: toCSSClass(newLine.type) })), { oldNumber: newLine.oldNumber, newNumber: newLine.newNumber }) : void 0;
+      const { left, right } = this.generateLineHtml(file, preparedOldLine, preparedNewLine);
       fileHtml.left += left;
       fileHtml.right += right;
     }
     return fileHtml;
-  };
-  LineByLineRenderer2.prototype.generateLineHtml = function(file, oldLine, newLine) {
+  }
+  generateLineHtml(file, oldLine, newLine) {
     return {
       left: this.generateSingleLineHtml(file, oldLine),
       right: this.generateSingleLineHtml(file, newLine)
     };
-  };
-  LineByLineRenderer2.prototype.generateSingleLineHtml = function(file, line) {
+  }
+  generateSingleLineHtml(file, line) {
     if (line === void 0)
       return "";
-    var lineNumberHtml = this.hoganUtils.render(baseTemplatesPath2, "numbers", {
+    const lineNumberHtml = this.hoganUtils.render(baseTemplatesPath2, "numbers", {
       oldNumber: line.oldNumber || "",
       newNumber: line.newNumber || ""
     });
@@ -35136,58 +35948,43 @@ var LineByLineRenderer = function() {
       line,
       file
     });
-  };
-  return LineByLineRenderer2;
-}();
-var line_by_line_renderer_default = LineByLineRenderer;
-
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/side-by-side-renderer.js
-init_polyfill_buffer();
-var __assign3 = function() {
-  __assign3 = Object.assign || function(t) {
-    for (var s, i = 1, n = arguments.length; i < n; i++) {
-      s = arguments[i];
-      for (var p in s)
-        if (Object.prototype.hasOwnProperty.call(s, p))
-          t[p] = s[p];
-    }
-    return t;
-  };
-  return __assign3.apply(this, arguments);
+  }
 };
-var defaultSideBySideRendererConfig = __assign3(__assign3({}, defaultRenderConfig), { renderNothingWhenEmpty: false, matchingMaxComparisons: 2500, maxLineSizeInBlockForComparison: 200 });
+
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/side-by-side-renderer.js
+init_polyfill_buffer();
+var defaultSideBySideRendererConfig = Object.assign(Object.assign({}, defaultRenderConfig), { renderNothingWhenEmpty: false, matchingMaxComparisons: 2500, maxLineSizeInBlockForComparison: 200 });
 var genericTemplatesPath2 = "generic";
 var baseTemplatesPath3 = "side-by-side";
 var iconsBaseTemplatesPath3 = "icon";
 var tagsBaseTemplatesPath2 = "tag";
-var SideBySideRenderer = function() {
-  function SideBySideRenderer2(hoganUtils, config) {
-    if (config === void 0) {
-      config = {};
-    }
+var SideBySideRenderer = class {
+  constructor(hoganUtils, config = {}) {
     this.hoganUtils = hoganUtils;
-    this.config = __assign3(__assign3({}, defaultSideBySideRendererConfig), config);
+    this.config = Object.assign(Object.assign({}, defaultSideBySideRendererConfig), config);
   }
-  SideBySideRenderer2.prototype.render = function(diffFiles) {
-    var _this = this;
-    var diffsHtml = diffFiles.map(function(file) {
-      var diffs;
+  render(diffFiles) {
+    const diffsHtml = diffFiles.map((file) => {
+      let diffs;
       if (file.blocks.length) {
-        diffs = _this.generateFileHtml(file);
+        diffs = this.generateFileHtml(file);
       } else {
-        diffs = _this.generateEmptyDiff();
+        diffs = this.generateEmptyDiff();
       }
-      return _this.makeFileDiffHtml(file, diffs);
+      return this.makeFileDiffHtml(file, diffs);
     }).join("\n");
-    return this.hoganUtils.render(genericTemplatesPath2, "wrapper", { content: diffsHtml });
-  };
-  SideBySideRenderer2.prototype.makeFileDiffHtml = function(file, diffs) {
+    return this.hoganUtils.render(genericTemplatesPath2, "wrapper", {
+      colorScheme: colorSchemeToCss(this.config.colorScheme),
+      content: diffsHtml
+    });
+  }
+  makeFileDiffHtml(file, diffs) {
     if (this.config.renderNothingWhenEmpty && Array.isArray(file.blocks) && file.blocks.length === 0)
       return "";
-    var fileDiffTemplate = this.hoganUtils.template(baseTemplatesPath3, "file-diff");
-    var filePathTemplate = this.hoganUtils.template(genericTemplatesPath2, "file-path");
-    var fileIconTemplate = this.hoganUtils.template(iconsBaseTemplatesPath3, "file");
-    var fileTagTemplate = this.hoganUtils.template(tagsBaseTemplatesPath2, getFileIcon(file));
+    const fileDiffTemplate = this.hoganUtils.template(baseTemplatesPath3, "file-diff");
+    const filePathTemplate = this.hoganUtils.template(genericTemplatesPath2, "file-path");
+    const fileIconTemplate = this.hoganUtils.template(iconsBaseTemplatesPath3, "file");
+    const fileTagTemplate = this.hoganUtils.template(tagsBaseTemplatesPath2, getFileIcon(file));
     return fileDiffTemplate.render({
       file,
       fileHtmlId: getHtmlId(file),
@@ -35199,8 +35996,8 @@ var SideBySideRenderer = function() {
         fileTag: fileTagTemplate
       })
     });
-  };
-  SideBySideRenderer2.prototype.generateEmptyDiff = function() {
+  }
+  generateEmptyDiff() {
     return {
       right: "",
       left: this.hoganUtils.render(genericTemplatesPath2, "empty-diff", {
@@ -35208,30 +36005,25 @@ var SideBySideRenderer = function() {
         CSSLineClass
       })
     };
-  };
-  SideBySideRenderer2.prototype.generateFileHtml = function(file) {
-    var _this = this;
-    var matcher2 = newMatcherFn(newDistanceFn(function(e) {
-      return deconstructLine(e.content, file.isCombined).content;
-    }));
-    return file.blocks.map(function(block) {
-      var fileHtml = {
-        left: _this.makeHeaderHtml(block.header, file),
-        right: _this.makeHeaderHtml("")
+  }
+  generateFileHtml(file) {
+    const matcher2 = newMatcherFn(newDistanceFn((e) => deconstructLine(e.content, file.isCombined).content));
+    return file.blocks.map((block) => {
+      const fileHtml = {
+        left: this.makeHeaderHtml(block.header, file),
+        right: this.makeHeaderHtml("")
       };
-      _this.applyLineGroupping(block).forEach(function(_a2) {
-        var contextLines = _a2[0], oldLines = _a2[1], newLines = _a2[2];
+      this.applyLineGroupping(block).forEach(([contextLines, oldLines, newLines]) => {
         if (oldLines.length && newLines.length && !contextLines.length) {
-          _this.applyRematchMatching(oldLines, newLines, matcher2).map(function(_a3) {
-            var oldLines2 = _a3[0], newLines2 = _a3[1];
-            var _b2 = _this.processChangedLines(file.isCombined, oldLines2, newLines2), left2 = _b2.left, right2 = _b2.right;
-            fileHtml.left += left2;
-            fileHtml.right += right2;
+          this.applyRematchMatching(oldLines, newLines, matcher2).map(([oldLines2, newLines2]) => {
+            const { left, right } = this.processChangedLines(file.isCombined, oldLines2, newLines2);
+            fileHtml.left += left;
+            fileHtml.right += right;
           });
         } else if (contextLines.length) {
-          contextLines.forEach(function(line) {
-            var _a3 = deconstructLine(line.content, file.isCombined), prefix = _a3.prefix, content = _a3.content;
-            var _b2 = _this.generateLineHtml({
+          contextLines.forEach((line) => {
+            const { prefix, content } = deconstructLine(line.content, file.isCombined);
+            const { left, right } = this.generateLineHtml({
               type: CSSLineClass.CONTEXT,
               prefix,
               content,
@@ -35241,12 +36033,12 @@ var SideBySideRenderer = function() {
               prefix,
               content,
               number: line.newNumber
-            }), left2 = _b2.left, right2 = _b2.right;
-            fileHtml.left += left2;
-            fileHtml.right += right2;
+            });
+            fileHtml.left += left;
+            fileHtml.right += right;
           });
         } else if (oldLines.length || newLines.length) {
-          var _b = _this.processChangedLines(file.isCombined, oldLines, newLines), left = _b.left, right = _b.right;
+          const { left, right } = this.processChangedLines(file.isCombined, oldLines, newLines);
           fileHtml.left += left;
           fileHtml.right += right;
         } else {
@@ -35254,16 +36046,16 @@ var SideBySideRenderer = function() {
         }
       });
       return fileHtml;
-    }).reduce(function(accomulated, html2) {
+    }).reduce((accomulated, html2) => {
       return { left: accomulated.left + html2.left, right: accomulated.right + html2.right };
     }, { left: "", right: "" });
-  };
-  SideBySideRenderer2.prototype.applyLineGroupping = function(block) {
-    var blockLinesGroups = [];
-    var oldLines = [];
-    var newLines = [];
-    for (var i = 0; i < block.lines.length; i++) {
-      var diffLine = block.lines[i];
+  }
+  applyLineGroupping(block) {
+    const blockLinesGroups = [];
+    let oldLines = [];
+    let newLines = [];
+    for (let i = 0; i < block.lines.length; i++) {
+      const diffLine = block.lines[i];
       if (diffLine.type !== LineType.INSERT && newLines.length || diffLine.type === LineType.CONTEXT && oldLines.length > 0) {
         blockLinesGroups.push([[], oldLines, newLines]);
         oldLines = [];
@@ -35285,76 +36077,72 @@ var SideBySideRenderer = function() {
       newLines = [];
     }
     return blockLinesGroups;
-  };
-  SideBySideRenderer2.prototype.applyRematchMatching = function(oldLines, newLines, matcher2) {
-    var comparisons = oldLines.length * newLines.length;
-    var maxLineSizeInBlock = Math.max.apply(null, [0].concat(oldLines.concat(newLines).map(function(elem) {
-      return elem.content.length;
-    })));
-    var doMatching = comparisons < this.config.matchingMaxComparisons && maxLineSizeInBlock < this.config.maxLineSizeInBlockForComparison && (this.config.matching === "lines" || this.config.matching === "words");
+  }
+  applyRematchMatching(oldLines, newLines, matcher2) {
+    const comparisons = oldLines.length * newLines.length;
+    const maxLineSizeInBlock = Math.max.apply(null, [0].concat(oldLines.concat(newLines).map((elem) => elem.content.length)));
+    const doMatching = comparisons < this.config.matchingMaxComparisons && maxLineSizeInBlock < this.config.maxLineSizeInBlockForComparison && (this.config.matching === "lines" || this.config.matching === "words");
     return doMatching ? matcher2(oldLines, newLines) : [[oldLines, newLines]];
-  };
-  SideBySideRenderer2.prototype.makeHeaderHtml = function(blockHeader, file) {
+  }
+  makeHeaderHtml(blockHeader, file) {
     return this.hoganUtils.render(genericTemplatesPath2, "block-header", {
       CSSLineClass,
       blockHeader: (file === null || file === void 0 ? void 0 : file.isTooBig) ? blockHeader : escapeForHtml(blockHeader),
       lineClass: "d2h-code-side-linenumber",
       contentClass: "d2h-code-side-line"
     });
-  };
-  SideBySideRenderer2.prototype.processChangedLines = function(isCombined, oldLines, newLines) {
-    var fileHtml = {
+  }
+  processChangedLines(isCombined, oldLines, newLines) {
+    const fileHtml = {
       right: "",
       left: ""
     };
-    var maxLinesNumber = Math.max(oldLines.length, newLines.length);
-    for (var i = 0; i < maxLinesNumber; i++) {
-      var oldLine = oldLines[i];
-      var newLine = newLines[i];
-      var diff2 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
-      var preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? __assign3(__assign3({}, diff2 !== void 0 ? {
-        prefix: diff2.oldLine.prefix,
-        content: diff2.oldLine.content,
+    const maxLinesNumber = Math.max(oldLines.length, newLines.length);
+    for (let i = 0; i < maxLinesNumber; i++) {
+      const oldLine = oldLines[i];
+      const newLine = newLines[i];
+      const diff3 = oldLine !== void 0 && newLine !== void 0 ? diffHighlight(oldLine.content, newLine.content, isCombined, this.config) : void 0;
+      const preparedOldLine = oldLine !== void 0 && oldLine.oldNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
+        prefix: diff3.oldLine.prefix,
+        content: diff3.oldLine.content,
         type: CSSLineClass.DELETE_CHANGES
-      } : __assign3(__assign3({}, deconstructLine(oldLine.content, isCombined)), { type: toCSSClass(oldLine.type) })), { number: oldLine.oldNumber }) : void 0;
-      var preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? __assign3(__assign3({}, diff2 !== void 0 ? {
-        prefix: diff2.newLine.prefix,
-        content: diff2.newLine.content,
+      } : Object.assign(Object.assign({}, deconstructLine(oldLine.content, isCombined)), { type: toCSSClass(oldLine.type) })), { number: oldLine.oldNumber }) : void 0;
+      const preparedNewLine = newLine !== void 0 && newLine.newNumber !== void 0 ? Object.assign(Object.assign({}, diff3 !== void 0 ? {
+        prefix: diff3.newLine.prefix,
+        content: diff3.newLine.content,
         type: CSSLineClass.INSERT_CHANGES
-      } : __assign3(__assign3({}, deconstructLine(newLine.content, isCombined)), { type: toCSSClass(newLine.type) })), { number: newLine.newNumber }) : void 0;
-      var _a2 = this.generateLineHtml(preparedOldLine, preparedNewLine), left = _a2.left, right = _a2.right;
+      } : Object.assign(Object.assign({}, deconstructLine(newLine.content, isCombined)), { type: toCSSClass(newLine.type) })), { number: newLine.newNumber }) : void 0;
+      const { left, right } = this.generateLineHtml(preparedOldLine, preparedNewLine);
       fileHtml.left += left;
       fileHtml.right += right;
     }
     return fileHtml;
-  };
-  SideBySideRenderer2.prototype.generateLineHtml = function(oldLine, newLine) {
+  }
+  generateLineHtml(oldLine, newLine) {
     return {
       left: this.generateSingleHtml(oldLine),
       right: this.generateSingleHtml(newLine)
     };
-  };
-  SideBySideRenderer2.prototype.generateSingleHtml = function(line) {
-    var lineClass = "d2h-code-side-linenumber";
-    var contentClass = "d2h-code-side-line";
+  }
+  generateSingleHtml(line) {
+    const lineClass = "d2h-code-side-linenumber";
+    const contentClass = "d2h-code-side-line";
     return this.hoganUtils.render(genericTemplatesPath2, "line", {
-      type: (line === null || line === void 0 ? void 0 : line.type) || "".concat(CSSLineClass.CONTEXT, " d2h-emptyplaceholder"),
-      lineClass: line !== void 0 ? lineClass : "".concat(lineClass, " d2h-code-side-emptyplaceholder"),
-      contentClass: line !== void 0 ? contentClass : "".concat(contentClass, " d2h-code-side-emptyplaceholder"),
+      type: (line === null || line === void 0 ? void 0 : line.type) || `${CSSLineClass.CONTEXT} d2h-emptyplaceholder`,
+      lineClass: line !== void 0 ? lineClass : `${lineClass} d2h-code-side-emptyplaceholder`,
+      contentClass: line !== void 0 ? contentClass : `${contentClass} d2h-code-side-emptyplaceholder`,
       prefix: (line === null || line === void 0 ? void 0 : line.prefix) === " " ? "&nbsp;" : line === null || line === void 0 ? void 0 : line.prefix,
       content: line === null || line === void 0 ? void 0 : line.content,
       lineNumber: line === null || line === void 0 ? void 0 : line.number
     });
-  };
-  return SideBySideRenderer2;
-}();
-var side_by_side_renderer_default = SideBySideRenderer;
+  }
+};
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/hoganjs-utils.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/hoganjs-utils.js
 init_polyfill_buffer();
 var Hogan3 = __toESM(require_hogan());
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/diff2html-templates.js
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff2html-templates.js
 init_polyfill_buffer();
 var Hogan2 = __toESM(require_hogan());
 var defaultTemplates = {};
@@ -35392,7 +36180,9 @@ defaultTemplates["file-summary-line"] = new Hogan2.Template({ code: function(c, 
 defaultTemplates["file-summary-wrapper"] = new Hogan2.Template({ code: function(c, p, i) {
   var t = this;
   t.b(i = i || "");
-  t.b('<div class="d2h-file-list-wrapper">');
+  t.b('<div class="d2h-file-list-wrapper ');
+  t.b(t.v(t.f("colorScheme", c, p, 0)));
+  t.b('">');
   t.b("\n" + i);
   t.b('    <div class="d2h-file-list-header">');
   t.b("\n" + i);
@@ -35557,7 +36347,9 @@ defaultTemplates["generic-line"] = new Hogan2.Template({ code: function(c, p, i)
 defaultTemplates["generic-wrapper"] = new Hogan2.Template({ code: function(c, p, i) {
   var t = this;
   t.b(i = i || "");
-  t.b('<div class="d2h-wrapper">');
+  t.b('<div class="d2h-wrapper ');
+  t.b(t.v(t.f("colorScheme", c, p, 0)));
+  t.b('">');
   t.b("\n" + i);
   t.b("    ");
   t.b(t.t(t.f("content", c, p, 0)));
@@ -35759,75 +36551,45 @@ defaultTemplates["tag-file-renamed"] = new Hogan2.Template({ code: function(c, p
   return t.fl();
 }, partials: {}, subs: {} });
 
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/hoganjs-utils.js
-var __assign4 = function() {
-  __assign4 = Object.assign || function(t) {
-    for (var s, i = 1, n = arguments.length; i < n; i++) {
-      s = arguments[i];
-      for (var p in s)
-        if (Object.prototype.hasOwnProperty.call(s, p))
-          t[p] = s[p];
-    }
-    return t;
-  };
-  return __assign4.apply(this, arguments);
-};
-var HoganJsUtils = function() {
-  function HoganJsUtils2(_a2) {
-    var _b = _a2.compiledTemplates, compiledTemplates = _b === void 0 ? {} : _b, _c = _a2.rawTemplates, rawTemplates = _c === void 0 ? {} : _c;
-    var compiledRawTemplates = Object.entries(rawTemplates).reduce(function(previousTemplates, _a3) {
-      var _b2;
-      var name = _a3[0], templateString = _a3[1];
-      var compiledTemplate = Hogan3.compile(templateString, { asString: false });
-      return __assign4(__assign4({}, previousTemplates), (_b2 = {}, _b2[name] = compiledTemplate, _b2));
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/hoganjs-utils.js
+var HoganJsUtils = class {
+  constructor({ compiledTemplates = {}, rawTemplates = {} }) {
+    const compiledRawTemplates = Object.entries(rawTemplates).reduce((previousTemplates, [name, templateString]) => {
+      const compiledTemplate = Hogan3.compile(templateString, { asString: false });
+      return Object.assign(Object.assign({}, previousTemplates), { [name]: compiledTemplate });
     }, {});
-    this.preCompiledTemplates = __assign4(__assign4(__assign4({}, defaultTemplates), compiledTemplates), compiledRawTemplates);
+    this.preCompiledTemplates = Object.assign(Object.assign(Object.assign({}, defaultTemplates), compiledTemplates), compiledRawTemplates);
   }
-  HoganJsUtils2.compile = function(templateString) {
+  static compile(templateString) {
     return Hogan3.compile(templateString, { asString: false });
-  };
-  HoganJsUtils2.prototype.render = function(namespace, view, params, partials, indent2) {
-    var templateKey = this.templateKey(namespace, view);
+  }
+  render(namespace, view, params, partials, indent2) {
+    const templateKey = this.templateKey(namespace, view);
     try {
-      var template = this.preCompiledTemplates[templateKey];
+      const template = this.preCompiledTemplates[templateKey];
       return template.render(params, partials, indent2);
     } catch (e) {
-      throw new Error("Could not find template to render '".concat(templateKey, "'"));
+      throw new Error(`Could not find template to render '${templateKey}'`);
     }
-  };
-  HoganJsUtils2.prototype.template = function(namespace, view) {
-    return this.preCompiledTemplates[this.templateKey(namespace, view)];
-  };
-  HoganJsUtils2.prototype.templateKey = function(namespace, view) {
-    return "".concat(namespace, "-").concat(view);
-  };
-  return HoganJsUtils2;
-}();
-var hoganjs_utils_default = HoganJsUtils;
-
-// node_modules/.pnpm/diff2html@3.4.35/node_modules/diff2html/lib-esm/diff2html.js
-var __assign5 = function() {
-  __assign5 = Object.assign || function(t) {
-    for (var s, i = 1, n = arguments.length; i < n; i++) {
-      s = arguments[i];
-      for (var p in s)
-        if (Object.prototype.hasOwnProperty.call(s, p))
-          t[p] = s[p];
-    }
-    return t;
-  };
-  return __assign5.apply(this, arguments);
-};
-var defaultDiff2HtmlConfig = __assign5(__assign5(__assign5({}, defaultLineByLineRendererConfig), defaultSideBySideRendererConfig), { outputFormat: OutputFormatType.LINE_BY_LINE, drawFileList: true });
-function html(diffInput, configuration) {
-  if (configuration === void 0) {
-    configuration = {};
   }
-  var config = __assign5(__assign5({}, defaultDiff2HtmlConfig), configuration);
-  var diffJson = typeof diffInput === "string" ? parse(diffInput, config) : diffInput;
-  var hoganUtils = new hoganjs_utils_default(config);
-  var fileList = config.drawFileList ? render(diffJson, hoganUtils) : "";
-  var diffOutput = config.outputFormat === "side-by-side" ? new side_by_side_renderer_default(hoganUtils, config).render(diffJson) : new line_by_line_renderer_default(hoganUtils, config).render(diffJson);
+  template(namespace, view) {
+    return this.preCompiledTemplates[this.templateKey(namespace, view)];
+  }
+  templateKey(namespace, view) {
+    return `${namespace}-${view}`;
+  }
+};
+
+// node_modules/.pnpm/diff2html@3.4.47/node_modules/diff2html/lib-esm/diff2html.js
+var defaultDiff2HtmlConfig = Object.assign(Object.assign(Object.assign({}, defaultLineByLineRendererConfig), defaultSideBySideRendererConfig), { outputFormat: OutputFormatType.LINE_BY_LINE, drawFileList: true });
+function html(diffInput, configuration = {}) {
+  const config = Object.assign(Object.assign({}, defaultDiff2HtmlConfig), configuration);
+  const diffJson = typeof diffInput === "string" ? parse(diffInput, config) : diffInput;
+  const hoganUtils = new HoganJsUtils(config);
+  const { colorScheme } = config;
+  const fileListRendererConfig = { colorScheme };
+  const fileList = config.drawFileList ? new FileListRenderer(hoganUtils, fileListRendererConfig).render(diffJson) : "";
+  const diffOutput = config.outputFormat === "side-by-side" ? new SideBySideRenderer(hoganUtils, config).render(diffJson) : new LineByLineRenderer(hoganUtils, config).render(diffJson);
   return fileList + diffOutput;
 }
 
@@ -35863,8 +36625,10 @@ var DiffView = class extends import_obsidian17.ItemView {
   }
   async setState(state, result) {
     this.state = state;
+    if (import_obsidian17.Platform.isMobile) {
+      this.leaf.view.titleEl.textContent = this.getDisplayText();
+    }
     await this.refresh();
-    return;
   }
   getState() {
     return this.state;
@@ -35883,35 +36647,37 @@ var DiffView = class extends import_obsidian17.ItemView {
     if (((_a2 = this.state) == null ? void 0 : _a2.file) && !this.gettingDiff && this.plugin.gitManager) {
       this.gettingDiff = true;
       try {
-        let diff2 = await this.plugin.gitManager.getDiffString(
+        let diff3 = await this.plugin.gitManager.getDiffString(
           this.state.file,
           this.state.staged,
           this.state.hash
         );
         this.contentEl.empty();
-        if (!diff2) {
+        if (!diff3) {
           if (this.plugin.gitManager instanceof SimpleGit && await this.plugin.gitManager.isTracked(
             this.state.file
           )) {
-            diff2 = [
+            diff3 = [
               `--- ${this.state.file}`,
               `+++ ${this.state.file}`,
               ""
             ].join("\n");
           } else {
             const content = await this.app.vault.adapter.read(
-              this.plugin.gitManager.getVaultPath(this.state.file)
+              this.plugin.gitManager.getRelativeVaultPath(
+                this.state.file
+              )
             );
             const header = `--- /dev/null
 +++ ${this.state.file}
 @@ -0,0 +1,${content.split("\n").length} @@`;
-            diff2 = [
+            diff3 = [
               ...header.split("\n"),
               ...content.split("\n").map((line) => `+${line}`)
             ].join("\n");
           }
         }
-        const diffEl = this.parser.parseFromString(html(diff2), "text/html").querySelector(".d2h-file-diff");
+        const diffEl = this.parser.parseFromString(html(diff3), "text/html").querySelector(".d2h-file-diff");
         this.contentEl.append(diffEl);
       } finally {
         this.gettingDiff = false;
@@ -35922,12 +36688,18 @@ var DiffView = class extends import_obsidian17.ItemView {
 
 // src/ui/history/historyView.ts
 init_polyfill_buffer();
-var import_obsidian20 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 
 // src/ui/history/historyView.svelte
 init_polyfill_buffer();
 
-// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/internal/index.mjs
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/index.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/animations.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/utils.js
 init_polyfill_buffer();
 function noop() {
 }
@@ -35945,14 +36717,20 @@ function is_function(thing) {
   return typeof thing === "function";
 }
 function safe_not_equal(a, b) {
-  return a != a ? b == b : a !== b || (a && typeof a === "object" || typeof a === "function");
+  return a != a ? b == b : a !== b || a && typeof a === "object" || typeof a === "function";
 }
 function is_empty(obj) {
   return Object.keys(obj).length === 0;
 }
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/environment.js
+init_polyfill_buffer();
 var is_client = typeof window !== "undefined";
 var now = is_client ? () => window.performance.now() : () => Date.now();
 var raf = is_client ? (cb) => requestAnimationFrame(cb) : noop;
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/loop.js
+init_polyfill_buffer();
 var tasks = /* @__PURE__ */ new Set();
 function run_tasks(now2) {
   tasks.forEach((task) => {
@@ -35977,12 +36755,47 @@ function loop(callback) {
     }
   };
 }
-var globals = typeof window !== "undefined" ? window : typeof globalThis !== "undefined" ? globalThis : global;
-var ResizeObserverSingleton = class {
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/style_manager.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/dom.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/ResizeObserverSingleton.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/globals.js
+init_polyfill_buffer();
+var globals = typeof window !== "undefined" ? window : typeof globalThis !== "undefined" ? globalThis : (
+  // @ts-ignore Node typings have this
+  global
+);
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/ResizeObserverSingleton.js
+var ResizeObserverSingleton = class _ResizeObserverSingleton {
+  /** @param {ResizeObserverOptions} options */
   constructor(options) {
+    /**
+     * @private
+     * @readonly
+     * @type {WeakMap<Element, import('./private.js').Listener>}
+     */
+    __publicField(this, "_listeners", "WeakMap" in globals ? /* @__PURE__ */ new WeakMap() : void 0);
+    /**
+     * @private
+     * @type {ResizeObserver}
+     */
+    __publicField(this, "_observer");
+    /** @type {ResizeObserverOptions} */
+    __publicField(this, "options");
     this.options = options;
-    this._listeners = "WeakMap" in globals ? /* @__PURE__ */ new WeakMap() : void 0;
   }
+  /**
+   * @param {Element} element
+   * @param {import('./private.js').Listener} listener
+   * @returns {() => void}
+   */
   observe(element2, listener) {
     this._listeners.set(element2, listener);
     this._getObserver().observe(element2, this.options);
@@ -35991,18 +36804,23 @@ var ResizeObserverSingleton = class {
       this._observer.unobserve(element2);
     };
   }
+  /**
+   * @private
+   */
   _getObserver() {
     var _a2;
-    return (_a2 = this._observer) !== null && _a2 !== void 0 ? _a2 : this._observer = new ResizeObserver((entries) => {
+    return (_a2 = this._observer) != null ? _a2 : this._observer = new ResizeObserver((entries) => {
       var _a3;
       for (const entry of entries) {
-        ResizeObserverSingleton.entries.set(entry.target, entry);
-        (_a3 = this._listeners.get(entry.target)) === null || _a3 === void 0 ? void 0 : _a3(entry);
+        _ResizeObserverSingleton.entries.set(entry.target, entry);
+        (_a3 = this._listeners.get(entry.target)) == null ? void 0 : _a3(entry);
       }
     });
   }
 };
 ResizeObserverSingleton.entries = "WeakMap" in globals ? /* @__PURE__ */ new WeakMap() : void 0;
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/dom.js
 var is_hydrating = false;
 function start_hydrating() {
   is_hydrating = true;
@@ -36026,18 +36844,27 @@ function get_root_for_style(node) {
   if (!node)
     return document;
   const root2 = node.getRootNode ? node.getRootNode() : node.ownerDocument;
-  if (root2 && root2.host) {
-    return root2;
+  if (root2 && /** @type {ShadowRoot} */
+  root2.host) {
+    return (
+      /** @type {ShadowRoot} */
+      root2
+    );
   }
   return node.ownerDocument;
 }
 function append_empty_stylesheet(node) {
   const style_element = element("style");
+  style_element.textContent = "/* empty */";
   append_stylesheet(get_root_for_style(node), style_element);
   return style_element.sheet;
 }
 function append_stylesheet(node, style) {
-  append2(node.head || node, style);
+  append2(
+    /** @type {Document} */
+    node.head || node,
+    style
+  );
   return style.sheet;
 }
 function insert(target, node, anchor) {
@@ -36089,7 +36916,8 @@ function set_data(text2, data) {
   data = "" + data;
   if (text2.data === data)
     return;
-  text2.data = data;
+  text2.data = /** @type {string} */
+  data;
 }
 function set_input_value(input, value) {
   input.value = value == null ? "" : value;
@@ -36102,13 +36930,23 @@ function set_style(node, key2, value, important) {
   }
 }
 function toggle_class(element2, name, toggle) {
-  element2.classList[toggle ? "add" : "remove"](name);
+  element2.classList.toggle(name, !!toggle);
 }
 function custom_event(type, detail, { bubbles = false, cancelable = false } = {}) {
-  const e = document.createEvent("CustomEvent");
-  e.initCustomEvent(type, bubbles, cancelable, detail);
-  return e;
+  return new CustomEvent(type, { detail, bubbles, cancelable });
 }
+function get_custom_elements_slots(element2) {
+  const result = {};
+  element2.childNodes.forEach(
+    /** @param {Element} node */
+    (node) => {
+      result[node.slot || "default"] = true;
+    }
+  );
+  return result;
+}
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/style_manager.js
 var managed_styles = /* @__PURE__ */ new Map();
 var active = 0;
 function hash(str) {
@@ -36171,6 +37009,18 @@ function clear_rules() {
     managed_styles.clear();
   });
 }
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/await_block.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/transitions.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/scheduler.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/lifecycle.js
+init_polyfill_buffer();
 var current_component;
 function set_current_component(component) {
   current_component = component;
@@ -36189,6 +37039,8 @@ function bubble(component, event) {
     callbacks.slice().forEach((fn) => fn.call(this, event));
   }
 }
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/scheduler.js
 var dirty_components = [];
 var binding_callbacks = [];
 var render_callbacks = [];
@@ -36262,6 +37114,8 @@ function flush_render_callbacks(fns) {
   targets.forEach((c) => c());
   render_callbacks = filtered;
 }
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/transitions.js
 var promise;
 function wait() {
   if (!promise) {
@@ -36323,12 +37177,16 @@ function create_bidirectional_transition(node, fn, params, intro) {
   let running_program = null;
   let pending_program = null;
   let animation_name = null;
+  let original_inert_value;
   function clear_animation() {
     if (animation_name)
       delete_rule(node, animation_name);
   }
   function init3(program, duration) {
-    const d = program.b - t;
+    const d = (
+      /** @type {Program['d']} */
+      program.b - t
+    );
     duration *= Math.abs(d);
     return {
       a: t,
@@ -36341,7 +37199,13 @@ function create_bidirectional_transition(node, fn, params, intro) {
     };
   }
   function go(b) {
-    const { delay: delay2 = 0, duration = 300, easing = identity, tick: tick2 = noop, css } = config || null_transition;
+    const {
+      delay: delay2 = 0,
+      duration = 300,
+      easing = identity,
+      tick: tick2 = noop,
+      css
+    } = config || null_transition;
     const program = {
       start: now() + delay2,
       b
@@ -36349,6 +37213,17 @@ function create_bidirectional_transition(node, fn, params, intro) {
     if (!b) {
       program.group = outros;
       outros.r += 1;
+    }
+    if ("inert" in node) {
+      if (b) {
+        if (original_inert_value !== void 0) {
+          node.inert = original_inert_value;
+        }
+      } else {
+        original_inert_value = /** @type {HTMLElement} */
+        node.inert;
+        node.inert = true;
+      }
     }
     if (running_program || pending_program) {
       pending_program = program;
@@ -36368,7 +37243,15 @@ function create_bidirectional_transition(node, fn, params, intro) {
           dispatch(node, running_program.b, "start");
           if (css) {
             clear_animation();
-            animation_name = create_rule(node, t, running_program.b, running_program.duration, 0, easing, config.css);
+            animation_name = create_rule(
+              node,
+              t,
+              running_program.b,
+              running_program.duration,
+              0,
+              easing,
+              config.css
+            );
           }
         }
         if (running_program) {
@@ -36398,7 +37281,8 @@ function create_bidirectional_transition(node, fn, params, intro) {
     run(b) {
       if (is_function(config)) {
         wait().then(() => {
-          config = config(options);
+          const opts = { direction: b ? "in" : "out" };
+          config = config(opts);
           go(b);
         });
       } else {
@@ -36411,51 +37295,73 @@ function create_bidirectional_transition(node, fn, params, intro) {
     }
   };
 }
-var _boolean_attributes = [
-  "allowfullscreen",
-  "allowpaymentrequest",
-  "async",
-  "autofocus",
-  "autoplay",
-  "checked",
-  "controls",
-  "default",
-  "defer",
-  "disabled",
-  "formnovalidate",
-  "hidden",
-  "inert",
-  "ismap",
-  "loop",
-  "multiple",
-  "muted",
-  "nomodule",
-  "novalidate",
-  "open",
-  "playsinline",
-  "readonly",
-  "required",
-  "reversed",
-  "selected"
-];
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/each.js
+init_polyfill_buffer();
+function ensure_array_like(array_like_or_iterator) {
+  return (array_like_or_iterator == null ? void 0 : array_like_or_iterator.length) !== void 0 ? array_like_or_iterator : Array.from(array_like_or_iterator);
+}
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/spread.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/ssr.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/shared/boolean_attributes.js
+init_polyfill_buffer();
+var _boolean_attributes = (
+  /** @type {const} */
+  [
+    "allowfullscreen",
+    "allowpaymentrequest",
+    "async",
+    "autofocus",
+    "autoplay",
+    "checked",
+    "controls",
+    "default",
+    "defer",
+    "disabled",
+    "formnovalidate",
+    "hidden",
+    "inert",
+    "ismap",
+    "loop",
+    "multiple",
+    "muted",
+    "nomodule",
+    "novalidate",
+    "open",
+    "playsinline",
+    "readonly",
+    "required",
+    "reversed",
+    "selected"
+  ]
+);
 var boolean_attributes = /* @__PURE__ */ new Set([..._boolean_attributes]);
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/shared/utils/names.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/Component.js
+init_polyfill_buffer();
 function create_component(block) {
   block && block.c();
 }
-function mount_component(component, target, anchor, customElement) {
+function mount_component(component, target, anchor) {
   const { fragment, after_update } = component.$$;
   fragment && fragment.m(target, anchor);
-  if (!customElement) {
-    add_render_callback(() => {
-      const new_on_destroy = component.$$.on_mount.map(run).filter(is_function);
-      if (component.$$.on_destroy) {
-        component.$$.on_destroy.push(...new_on_destroy);
-      } else {
-        run_all(new_on_destroy);
-      }
-      component.$$.on_mount = [];
-    });
-  }
+  add_render_callback(() => {
+    const new_on_destroy = component.$$.on_mount.map(run).filter(is_function);
+    if (component.$$.on_destroy) {
+      component.$$.on_destroy.push(...new_on_destroy);
+    } else {
+      run_all(new_on_destroy);
+    }
+    component.$$.on_mount = [];
+  });
   after_update.forEach(add_render_callback);
 }
 function destroy_component(component, detaching) {
@@ -36476,7 +37382,7 @@ function make_dirty(component, i) {
   }
   component.$$.dirty[i / 31 | 0] |= 1 << i % 31;
 }
-function init2(component, options, instance10, create_fragment10, not_equal, props, append_styles2, dirty = [-1]) {
+function init2(component, options, instance10, create_fragment10, not_equal, props, append_styles2 = null, dirty = [-1]) {
   const parent_component = current_component;
   set_current_component(component);
   const $$ = component.$$ = {
@@ -36527,7 +37433,7 @@ function init2(component, options, instance10, create_fragment10, not_equal, pro
     }
     if (options.intro)
       transition_in(component.$$.fragment);
-    mount_component(component, options.target, options.anchor, options.customElement);
+    mount_component(component, options.target, options.anchor);
     end_hydrating();
     flush();
   }
@@ -36536,53 +37442,232 @@ function init2(component, options, instance10, create_fragment10, not_equal, pro
 var SvelteElement;
 if (typeof HTMLElement === "function") {
   SvelteElement = class extends HTMLElement {
-    constructor() {
+    constructor($$componentCtor, $$slots, use_shadow_dom) {
       super();
-      this.attachShadow({ mode: "open" });
-    }
-    connectedCallback() {
-      const { on_mount } = this.$$;
-      this.$$.on_disconnect = on_mount.map(run).filter(is_function);
-      for (const key2 in this.$$.slotted) {
-        this.appendChild(this.$$.slotted[key2]);
+      /** The Svelte component constructor */
+      __publicField(this, "$$ctor");
+      /** Slots */
+      __publicField(this, "$$s");
+      /** The Svelte component instance */
+      __publicField(this, "$$c");
+      /** Whether or not the custom element is connected */
+      __publicField(this, "$$cn", false);
+      /** Component props data */
+      __publicField(this, "$$d", {});
+      /** `true` if currently in the process of reflecting component props back to attributes */
+      __publicField(this, "$$r", false);
+      /** @type {Record<string, CustomElementPropDefinition>} Props definition (name, reflected, type etc) */
+      __publicField(this, "$$p_d", {});
+      /** @type {Record<string, Function[]>} Event listeners */
+      __publicField(this, "$$l", {});
+      /** @type {Map<Function, Function>} Event listener unsubscribe functions */
+      __publicField(this, "$$l_u", /* @__PURE__ */ new Map());
+      this.$$ctor = $$componentCtor;
+      this.$$s = $$slots;
+      if (use_shadow_dom) {
+        this.attachShadow({ mode: "open" });
       }
     }
+    addEventListener(type, listener, options) {
+      this.$$l[type] = this.$$l[type] || [];
+      this.$$l[type].push(listener);
+      if (this.$$c) {
+        const unsub = this.$$c.$on(type, listener);
+        this.$$l_u.set(listener, unsub);
+      }
+      super.addEventListener(type, listener, options);
+    }
+    removeEventListener(type, listener, options) {
+      super.removeEventListener(type, listener, options);
+      if (this.$$c) {
+        const unsub = this.$$l_u.get(listener);
+        if (unsub) {
+          unsub();
+          this.$$l_u.delete(listener);
+        }
+      }
+    }
+    async connectedCallback() {
+      this.$$cn = true;
+      if (!this.$$c) {
+        let create_slot = function(name) {
+          return () => {
+            let node;
+            const obj = {
+              c: function create() {
+                node = element("slot");
+                if (name !== "default") {
+                  attr(node, "name", name);
+                }
+              },
+              /**
+               * @param {HTMLElement} target
+               * @param {HTMLElement} [anchor]
+               */
+              m: function mount(target, anchor) {
+                insert(target, node, anchor);
+              },
+              d: function destroy(detaching) {
+                if (detaching) {
+                  detach(node);
+                }
+              }
+            };
+            return obj;
+          };
+        };
+        await Promise.resolve();
+        if (!this.$$cn) {
+          return;
+        }
+        const $$slots = {};
+        const existing_slots = get_custom_elements_slots(this);
+        for (const name of this.$$s) {
+          if (name in existing_slots) {
+            $$slots[name] = [create_slot(name)];
+          }
+        }
+        for (const attribute of this.attributes) {
+          const name = this.$$g_p(attribute.name);
+          if (!(name in this.$$d)) {
+            this.$$d[name] = get_custom_element_value(name, attribute.value, this.$$p_d, "toProp");
+          }
+        }
+        for (const key2 in this.$$p_d) {
+          if (!(key2 in this.$$d) && this[key2] !== void 0) {
+            this.$$d[key2] = this[key2];
+            delete this[key2];
+          }
+        }
+        this.$$c = new this.$$ctor({
+          target: this.shadowRoot || this,
+          props: {
+            ...this.$$d,
+            $$slots,
+            $$scope: {
+              ctx: []
+            }
+          }
+        });
+        const reflect_attributes = () => {
+          this.$$r = true;
+          for (const key2 in this.$$p_d) {
+            this.$$d[key2] = this.$$c.$$.ctx[this.$$c.$$.props[key2]];
+            if (this.$$p_d[key2].reflect) {
+              const attribute_value = get_custom_element_value(
+                key2,
+                this.$$d[key2],
+                this.$$p_d,
+                "toAttribute"
+              );
+              if (attribute_value == null) {
+                this.removeAttribute(this.$$p_d[key2].attribute || key2);
+              } else {
+                this.setAttribute(this.$$p_d[key2].attribute || key2, attribute_value);
+              }
+            }
+          }
+          this.$$r = false;
+        };
+        this.$$c.$$.after_update.push(reflect_attributes);
+        reflect_attributes();
+        for (const type in this.$$l) {
+          for (const listener of this.$$l[type]) {
+            const unsub = this.$$c.$on(type, listener);
+            this.$$l_u.set(listener, unsub);
+          }
+        }
+        this.$$l = {};
+      }
+    }
+    // We don't need this when working within Svelte code, but for compatibility of people using this outside of Svelte
+    // and setting attributes through setAttribute etc, this is helpful
     attributeChangedCallback(attr2, _oldValue, newValue) {
-      this[attr2] = newValue;
+      var _a2;
+      if (this.$$r)
+        return;
+      attr2 = this.$$g_p(attr2);
+      this.$$d[attr2] = get_custom_element_value(attr2, newValue, this.$$p_d, "toProp");
+      (_a2 = this.$$c) == null ? void 0 : _a2.$set({ [attr2]: this.$$d[attr2] });
     }
     disconnectedCallback() {
-      run_all(this.$$.on_disconnect);
+      this.$$cn = false;
+      Promise.resolve().then(() => {
+        if (!this.$$cn) {
+          this.$$c.$destroy();
+          this.$$c = void 0;
+        }
+      });
     }
-    $destroy() {
-      destroy_component(this, 1);
-      this.$destroy = noop;
-    }
-    $on(type, callback) {
-      if (!is_function(callback)) {
-        return noop;
-      }
-      const callbacks = this.$$.callbacks[type] || (this.$$.callbacks[type] = []);
-      callbacks.push(callback);
-      return () => {
-        const index2 = callbacks.indexOf(callback);
-        if (index2 !== -1)
-          callbacks.splice(index2, 1);
-      };
-    }
-    $set($$props) {
-      if (this.$$set && !is_empty($$props)) {
-        this.$$.skip_bound = true;
-        this.$$set($$props);
-        this.$$.skip_bound = false;
-      }
+    $$g_p(attribute_name) {
+      return Object.keys(this.$$p_d).find(
+        (key2) => this.$$p_d[key2].attribute === attribute_name || !this.$$p_d[key2].attribute && key2.toLowerCase() === attribute_name
+      ) || attribute_name;
     }
   };
 }
+function get_custom_element_value(prop, value, props_definition, transform) {
+  var _a2;
+  const type = (_a2 = props_definition[prop]) == null ? void 0 : _a2.type;
+  value = type === "Boolean" && typeof value !== "boolean" ? value != null : value;
+  if (!transform || !props_definition[prop]) {
+    return value;
+  } else if (transform === "toAttribute") {
+    switch (type) {
+      case "Object":
+      case "Array":
+        return value == null ? null : JSON.stringify(value);
+      case "Boolean":
+        return value ? "" : null;
+      case "Number":
+        return value == null ? null : value;
+      default:
+        return value;
+    }
+  } else {
+    switch (type) {
+      case "Object":
+      case "Array":
+        return value && JSON.parse(value);
+      case "Boolean":
+        return value;
+      case "Number":
+        return value != null ? +value : value;
+      default:
+        return value;
+    }
+  }
+}
 var SvelteComponent = class {
+  constructor() {
+    /**
+     * ### PRIVATE API
+     *
+     * Do not use, may change at any time
+     *
+     * @type {any}
+     */
+    __publicField(this, "$$");
+    /**
+     * ### PRIVATE API
+     *
+     * Do not use, may change at any time
+     *
+     * @type {any}
+     */
+    __publicField(this, "$$set");
+  }
+  /** @returns {void} */
   $destroy() {
     destroy_component(this, 1);
     this.$destroy = noop;
   }
+  /**
+   * @template {Extract<keyof Events, string>} K
+   * @param {K} type
+   * @param {((e: Events[K]) => void) | null | undefined} callback
+   * @returns {() => void}
+   */
   $on(type, callback) {
     if (!is_function(callback)) {
       return noop;
@@ -36595,16 +37680,32 @@ var SvelteComponent = class {
         callbacks.splice(index2, 1);
     };
   }
-  $set($$props) {
-    if (this.$$set && !is_empty($$props)) {
+  /**
+   * @param {Partial<Props>} props
+   * @returns {void}
+   */
+  $set(props) {
+    if (this.$$set && !is_empty(props)) {
       this.$$.skip_bound = true;
-      this.$$set($$props);
+      this.$$set(props);
       this.$$.skip_bound = false;
     }
   }
 };
 
-// node_modules/.pnpm/tslib@2.5.0/node_modules/tslib/tslib.es6.js
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/dev.js
+init_polyfill_buffer();
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/shared/version.js
+init_polyfill_buffer();
+var PUBLIC_VERSION = "4";
+
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/internal/disclose-version/index.js
+init_polyfill_buffer();
+if (typeof window !== "undefined")
+  (window.__svelte || (window.__svelte = { v: /* @__PURE__ */ new Set() })).v.add(PUBLIC_VERSION);
+
+// node_modules/.pnpm/tslib@2.6.2/node_modules/tslib/tslib.es6.mjs
 init_polyfill_buffer();
 function __awaiter(thisArg, _arguments, P, generator) {
   function adopt(value) {
@@ -36635,38 +37736,45 @@ function __awaiter(thisArg, _arguments, P, generator) {
 }
 
 // src/ui/history/historyView.svelte
-var import_obsidian19 = require("obsidian");
+var import_obsidian20 = require("obsidian");
 
-// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/index.mjs
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/index.js
 init_polyfill_buffer();
 
 // src/ui/history/components/logComponent.svelte
 init_polyfill_buffer();
+var import_obsidian19 = require("obsidian");
 
-// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/transition/index.mjs
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/transition/index.js
 init_polyfill_buffer();
 
-// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/easing/index.mjs
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/easing/index.js
 init_polyfill_buffer();
 function cubicOut(t) {
   const f = t - 1;
   return f * f * f + 1;
 }
 
-// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/transition/index.mjs
+// node_modules/.pnpm/svelte@4.2.10/node_modules/svelte/src/runtime/transition/index.js
 function slide(node, { delay: delay2 = 0, duration = 400, easing = cubicOut, axis = "y" } = {}) {
   const style = getComputedStyle(node);
   const opacity = +style.opacity;
   const primary_property = axis === "y" ? "height" : "width";
   const primary_property_value = parseFloat(style[primary_property]);
   const secondary_properties = axis === "y" ? ["top", "bottom"] : ["left", "right"];
-  const capitalized_secondary_properties = secondary_properties.map((e) => `${e[0].toUpperCase()}${e.slice(1)}`);
+  const capitalized_secondary_properties = secondary_properties.map(
+    (e) => `${e[0].toUpperCase()}${e.slice(1)}`
+  );
   const padding_start_value = parseFloat(style[`padding${capitalized_secondary_properties[0]}`]);
   const padding_end_value = parseFloat(style[`padding${capitalized_secondary_properties[1]}`]);
   const margin_start_value = parseFloat(style[`margin${capitalized_secondary_properties[0]}`]);
   const margin_end_value = parseFloat(style[`margin${capitalized_secondary_properties[1]}`]);
-  const border_width_start_value = parseFloat(style[`border${capitalized_secondary_properties[0]}Width`]);
-  const border_width_end_value = parseFloat(style[`border${capitalized_secondary_properties[1]}Width`]);
+  const border_width_start_value = parseFloat(
+    style[`border${capitalized_secondary_properties[0]}Width`]
+  );
+  const border_width_end_value = parseFloat(
+    style[`border${capitalized_secondary_properties[1]}Width`]
+  );
   return {
     delay: delay2,
     duration,
@@ -36679,7 +37787,7 @@ function slide(node, { delay: delay2 = 0, duration = 400, easing = cubicOut, axi
 init_polyfill_buffer();
 var import_obsidian18 = require("obsidian");
 function add_css(target) {
-  append_styles(target, "svelte-pmbo0n", "main.svelte-pmbo0n .nav-file-title-content.svelte-pmbo0n{display:flex;align-items:center}");
+  append_styles(target, "svelte-1wbh8tp", "main.svelte-1wbh8tp .nav-file-title.svelte-1wbh8tp{align-items:center}");
 }
 function create_if_block(ctx) {
   let div;
@@ -36711,8 +37819,9 @@ function create_if_block(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       ctx[7](null);
       mounted = false;
       run_all(dispose);
@@ -36746,12 +37855,14 @@ function create_fragment(ctx) {
   );
   let t3;
   let span_data_type_value;
+  let div3_data_path_value;
   let div3_aria_label_value;
   let mounted;
   let dispose;
   let if_block = show_if && create_if_block(ctx);
   return {
     c() {
+      var _a2, _b;
       main = element("main");
       div3 = element("div");
       div0 = element("div");
@@ -36764,22 +37875,32 @@ function create_fragment(ctx) {
       t2 = space();
       span = element("span");
       t3 = text(t3_value);
-      attr(div0, "class", "tree-item-inner nav-file-title-content svelte-pmbo0n");
+      attr(div0, "class", "tree-item-inner nav-file-title-content");
       attr(div1, "class", "buttons");
       attr(span, "class", "type");
       attr(span, "data-type", span_data_type_value = /*diff*/
       ctx[0].status);
       attr(div2, "class", "git-tools");
-      attr(div3, "class", "tree-item-self is-clickable nav-file-title");
+      attr(div3, "class", "tree-item-self is-clickable nav-file-title svelte-1wbh8tp");
+      attr(div3, "data-path", div3_data_path_value = /*diff*/
+      ctx[0].vault_path);
       attr(
         div3,
-        "aria-label-position",
+        "data-tooltip-position",
         /*side*/
         ctx[3]
       );
       attr(div3, "aria-label", div3_aria_label_value = /*diff*/
       ctx[0].vault_path);
-      attr(main, "class", "tree-item nav-file svelte-pmbo0n");
+      toggle_class(
+        div3,
+        "is-active",
+        /*view*/
+        ((_a2 = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _a2.file) == /*diff*/
+        ctx[0].vault_path && /*view*/
+        ((_b = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _b.hash)
+      );
+      attr(main, "class", "tree-item nav-file svelte-1wbh8tp");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -36815,6 +37936,7 @@ function create_fragment(ctx) {
       }
     },
     p(ctx2, [dirty]) {
+      var _a2, _b;
       if (dirty & /*diff*/
       1 && t0_value !== (t0_value = getDisplayPath(
         /*diff*/
@@ -36849,11 +37971,16 @@ function create_fragment(ctx) {
       ctx2[0].status)) {
         attr(span, "data-type", span_data_type_value);
       }
+      if (dirty & /*diff*/
+      1 && div3_data_path_value !== (div3_data_path_value = /*diff*/
+      ctx2[0].vault_path)) {
+        attr(div3, "data-path", div3_data_path_value);
+      }
       if (dirty & /*side*/
       8) {
         attr(
           div3,
-          "aria-label-position",
+          "data-tooltip-position",
           /*side*/
           ctx2[3]
         );
@@ -36863,12 +37990,24 @@ function create_fragment(ctx) {
       ctx2[0].vault_path)) {
         attr(div3, "aria-label", div3_aria_label_value);
       }
+      if (dirty & /*view, diff*/
+      3) {
+        toggle_class(
+          div3,
+          "is-active",
+          /*view*/
+          ((_a2 = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _a2.file) == /*diff*/
+          ctx2[0].vault_path && /*view*/
+          ((_b = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _b.hash)
+        );
+      }
     },
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       if (if_block)
         if_block.d();
       mounted = false;
@@ -36878,13 +38017,13 @@ function create_fragment(ctx) {
 }
 function instance($$self, $$props, $$invalidate) {
   let side;
-  let { diff: diff2 } = $$props;
+  let { diff: diff3 } = $$props;
   let { view } = $$props;
   let buttons = [];
   window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian18.setIcon)(b, b.getAttr("data-icon"))), 0);
   function open(event) {
     var _a2;
-    const file = view.app.vault.getAbstractFileByPath(diff2.vault_path);
+    const file = view.app.vault.getAbstractFileByPath(diff3.vault_path);
     if (file instanceof import_obsidian18.TFile) {
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
@@ -36895,9 +38034,9 @@ function instance($$self, $$props, $$invalidate) {
       type: DIFF_VIEW_CONFIG.type,
       active: true,
       state: {
-        file: diff2.path,
+        file: diff3.path,
         staged: false,
-        hash: diff2.hash
+        hash: diff3.hash
       }
     });
   }
@@ -36912,7 +38051,7 @@ function instance($$self, $$props, $$invalidate) {
   }
   $$self.$$set = ($$props2) => {
     if ("diff" in $$props2)
-      $$invalidate(0, diff2 = $$props2.diff);
+      $$invalidate(0, diff3 = $$props2.diff);
     if ("view" in $$props2)
       $$invalidate(1, view = $$props2.view);
   };
@@ -36923,7 +38062,7 @@ function instance($$self, $$props, $$invalidate) {
         $$invalidate(3, side = view.leaf.getRoot().side == "left" ? "right" : "left");
     }
   };
-  return [diff2, view, buttons, side, open, showDiff, focus_handler, div_binding];
+  return [diff3, view, buttons, side, open, showDiff, focus_handler, div_binding];
 }
 var LogFileComponent = class extends SvelteComponent {
   constructor(options) {
@@ -36995,11 +38134,20 @@ function create_else_block(ctx) {
       set_style(div0, "padding-right", "5px");
       set_style(div0, "display", "flex");
       attr(div1, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
+      toggle_class(
+        div1,
+        "is-collapsed",
+        /*closed*/
+        ctx[4][
+          /*entity*/
+          ctx[8].title
+        ]
+      );
       attr(div2, "class", "tree-item-inner nav-folder-title-content svelte-1lnl15d");
       attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
       attr(
         div3,
-        "aria-label-position",
+        "data-tooltip-position",
         /*side*/
         ctx[5]
       );
@@ -37037,6 +38185,18 @@ function create_else_block(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
+      if (!current || dirty & /*closed, hierarchy*/
+      17) {
+        toggle_class(
+          div1,
+          "is-collapsed",
+          /*closed*/
+          ctx[4][
+            /*entity*/
+            ctx[8].title
+          ]
+        );
+      }
       if ((!current || dirty & /*hierarchy*/
       1) && t2_value !== (t2_value = /*entity*/
       ctx[8].title + ""))
@@ -37045,7 +38205,7 @@ function create_else_block(ctx) {
       32) {
         attr(
           div3,
-          "aria-label-position",
+          "data-tooltip-position",
           /*side*/
           ctx[5]
         );
@@ -37103,8 +38263,9 @@ function create_else_block(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div4);
+      }
       if (if_block)
         if_block.d();
       mounted = false;
@@ -37164,8 +38325,9 @@ function create_if_block2(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       destroy_component(logfilecomponent);
     }
   };
@@ -37243,8 +38405,9 @@ function create_if_block_1(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       destroy_component(logtreecomponent);
       if (detaching && div_transition)
         div_transition.end();
@@ -37311,16 +38474,17 @@ function create_each_block(ctx) {
       current = false;
     },
     d(detaching) {
-      if_blocks[current_block_type_index].d(detaching);
-      if (detaching)
+      if (detaching) {
         detach(if_block_anchor);
+      }
+      if_blocks[current_block_type_index].d(detaching);
     }
   };
 }
 function create_fragment2(ctx) {
   let main;
   let current;
-  let each_value = (
+  let each_value = ensure_array_like(
     /*hierarchy*/
     ctx[0].children
   );
@@ -37357,8 +38521,10 @@ function create_fragment2(ctx) {
     p(ctx2, [dirty]) {
       if (dirty & /*hierarchy, view, closed, plugin, side, fold*/
       119) {
-        each_value = /*hierarchy*/
-        ctx2[0].children;
+        each_value = ensure_array_like(
+          /*hierarchy*/
+          ctx2[0].children
+        );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context(ctx2, each_value, i);
@@ -37404,8 +38570,9 @@ function create_fragment2(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       destroy_each(each_blocks, detaching);
     }
   };
@@ -37462,15 +38629,12 @@ var LogTreeComponent = class extends SvelteComponent {
 var logTreeComponent_default = LogTreeComponent;
 
 // src/ui/history/components/logComponent.svelte
-function add_css3(target) {
-  append_styles(target, "svelte-1t6egnt", ".git-ref.svelte-1t6egnt{color:var(--text-accent)}");
-}
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[8] = list[i];
+  child_ctx[9] = list[i];
   return child_ctx;
 }
-function create_if_block_2(ctx) {
+function create_if_block_4(ctx) {
   let div;
   let t_value = (
     /*log*/
@@ -37481,7 +38645,7 @@ function create_if_block_2(ctx) {
     c() {
       div = element("div");
       t = text(t_value);
-      attr(div, "class", "git-ref svelte-1t6egnt");
+      attr(div, "class", "git-ref");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -37494,8 +38658,83 @@ function create_if_block_2(ctx) {
         set_data(t, t_value);
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
+    }
+  };
+}
+function create_if_block_3(ctx) {
+  let div;
+  let t_value = (
+    /*authorToString*/
+    ctx[7](
+      /*log*/
+      ctx[0]
+    ) + ""
+  );
+  let t;
+  return {
+    c() {
+      div = element("div");
+      t = text(t_value);
+      attr(div, "class", "git-author");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      append2(div, t);
+    },
+    p(ctx2, dirty) {
+      if (dirty & /*log*/
+      1 && t_value !== (t_value = /*authorToString*/
+      ctx2[7](
+        /*log*/
+        ctx2[0]
+      ) + ""))
+        set_data(t, t_value);
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div);
+      }
+    }
+  };
+}
+function create_if_block_2(ctx) {
+  let div;
+  let t_value = (0, import_obsidian19.moment)(
+    /*log*/
+    ctx[0].date
+  ).format(
+    /*plugin*/
+    ctx[3].settings.commitDateFormat
+  ) + "";
+  let t;
+  return {
+    c() {
+      div = element("div");
+      t = text(t_value);
+      attr(div, "class", "git-date");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      append2(div, t);
+    },
+    p(ctx2, dirty) {
+      if (dirty & /*log, plugin*/
+      9 && t_value !== (t_value = (0, import_obsidian19.moment)(
+        /*log*/
+        ctx2[0].date
+      ).format(
+        /*plugin*/
+        ctx2[3].settings.commitDateFormat
+      ) + ""))
+        set_data(t, t_value);
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div);
+      }
     }
   };
 }
@@ -37575,8 +38814,9 @@ function create_if_block3(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -37586,7 +38826,7 @@ function create_if_block3(ctx) {
 function create_else_block2(ctx) {
   let each_1_anchor;
   let current;
-  let each_value = (
+  let each_value = ensure_array_like(
     /*log*/
     ctx[0].diff.files
   );
@@ -37616,8 +38856,10 @@ function create_else_block2(ctx) {
     p(ctx2, dirty) {
       if (dirty & /*view, log*/
       3) {
-        each_value = /*log*/
-        ctx2[0].diff.files;
+        each_value = ensure_array_like(
+          /*log*/
+          ctx2[0].diff.files
+        );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context2(ctx2, each_value, i);
@@ -37654,9 +38896,10 @@ function create_else_block2(ctx) {
       current = false;
     },
     d(detaching) {
-      destroy_each(each_blocks, detaching);
-      if (detaching)
+      if (detaching) {
         detach(each_1_anchor);
+      }
+      destroy_each(each_blocks, detaching);
     }
   };
 }
@@ -37730,7 +38973,7 @@ function create_each_block2(ctx) {
       ),
       diff: (
         /*file*/
-        ctx[8]
+        ctx[9]
       )
     }
   });
@@ -37751,7 +38994,7 @@ function create_each_block2(ctx) {
       if (dirty & /*log*/
       1)
         logfilecomponent_changes.diff = /*file*/
-        ctx2[8];
+        ctx2[9];
       logfilecomponent.$set(logfilecomponent_changes);
     },
     i(local) {
@@ -37770,6 +39013,7 @@ function create_each_block2(ctx) {
   };
 }
 function create_fragment3(ctx) {
+  var _a2;
   let main;
   let div4;
   let div3;
@@ -37777,25 +39021,37 @@ function create_fragment3(ctx) {
   let t0;
   let div2;
   let t1;
+  let t2;
+  let t3;
   let div1;
-  let t2_value = (
+  let t4_value = (
     /*log*/
     ctx[0].message + ""
   );
-  let t2;
-  let div1_aria_label_value;
-  let t3;
+  let t4;
+  let div3_aria_label_value;
+  let t5;
   let current;
   let mounted;
   let dispose;
   let if_block0 = (
     /*log*/
-    ctx[0].refs.length > 0 && create_if_block_2(ctx)
+    ctx[0].refs.length > 0 && create_if_block_4(ctx)
   );
-  let if_block1 = !/*isCollapsed*/
+  let if_block1 = (
+    /*plugin*/
+    ctx[3].settings.authorInHistoryView != "hide" && /*log*/
+    ((_a2 = ctx[0].author) == null ? void 0 : _a2.name) && create_if_block_3(ctx)
+  );
+  let if_block2 = (
+    /*plugin*/
+    ctx[3].settings.dateInHistoryView && create_if_block_2(ctx)
+  );
+  let if_block3 = !/*isCollapsed*/
   ctx[4] && create_if_block3(ctx);
   return {
     c() {
+      var _a3;
       main = element("main");
       div4 = element("div");
       div3 = element("div");
@@ -37806,22 +39062,47 @@ function create_fragment3(ctx) {
       if (if_block0)
         if_block0.c();
       t1 = space();
-      div1 = element("div");
-      t2 = text(t2_value);
-      t3 = space();
       if (if_block1)
         if_block1.c();
+      t2 = space();
+      if (if_block2)
+        if_block2.c();
+      t3 = space();
+      div1 = element("div");
+      t4 = text(t4_value);
+      t5 = space();
+      if (if_block3)
+        if_block3.c();
       attr(div0, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
+      toggle_class(
+        div0,
+        "is-collapsed",
+        /*isCollapsed*/
+        ctx[4]
+      );
       attr(div1, "class", "tree-item-inner nav-folder-title-content");
-      attr(div1, "aria-label", div1_aria_label_value = /*log*/
-      ctx[0].message);
+      attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
+      attr(div3, "aria-label", div3_aria_label_value = `${/*log*/
+      ctx[0].refs.length > 0 ? (
+        /*log*/
+        ctx[0].refs.join(", ") + "\n"
+      ) : ""}${/*log*/
+      (_a3 = ctx[0].author) == null ? void 0 : _a3.name}
+${(0, import_obsidian19.moment)(
+        /*log*/
+        ctx[0].date
+      ).format(
+        /*plugin*/
+        ctx[3].settings.commitDateFormat
+      )}
+${/*log*/
+      ctx[0].message}`);
       attr(
-        div1,
-        "aria-label-position",
+        div3,
+        "data-tooltip-position",
         /*side*/
         ctx[5]
       );
-      attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
       attr(div4, "class", "tree-item nav-folder");
       toggle_class(
         div4,
@@ -37840,23 +39121,39 @@ function create_fragment3(ctx) {
       if (if_block0)
         if_block0.m(div2, null);
       append2(div2, t1);
-      append2(div2, div1);
-      append2(div1, t2);
-      append2(div4, t3);
       if (if_block1)
-        if_block1.m(div4, null);
+        if_block1.m(div2, null);
+      append2(div2, t2);
+      if (if_block2)
+        if_block2.m(div2, null);
+      append2(div2, t3);
+      append2(div2, div1);
+      append2(div1, t4);
+      append2(div4, t5);
+      if (if_block3)
+        if_block3.m(div4, null);
       current = true;
       if (!mounted) {
         dispose = listen(
           div3,
           "click",
           /*click_handler*/
-          ctx[7]
+          ctx[8]
         );
         mounted = true;
       }
     },
     p(ctx2, [dirty]) {
+      var _a3, _b;
+      if (!current || dirty & /*isCollapsed*/
+      16) {
+        toggle_class(
+          div0,
+          "is-collapsed",
+          /*isCollapsed*/
+          ctx2[4]
+        );
+      }
       if (
         /*log*/
         ctx2[0].refs.length > 0
@@ -37864,7 +39161,7 @@ function create_fragment3(ctx) {
         if (if_block0) {
           if_block0.p(ctx2, dirty);
         } else {
-          if_block0 = create_if_block_2(ctx2);
+          if_block0 = create_if_block_4(ctx2);
           if_block0.c();
           if_block0.m(div2, t1);
         }
@@ -37872,42 +39169,86 @@ function create_fragment3(ctx) {
         if_block0.d(1);
         if_block0 = null;
       }
+      if (
+        /*plugin*/
+        ctx2[3].settings.authorInHistoryView != "hide" && /*log*/
+        ((_a3 = ctx2[0].author) == null ? void 0 : _a3.name)
+      ) {
+        if (if_block1) {
+          if_block1.p(ctx2, dirty);
+        } else {
+          if_block1 = create_if_block_3(ctx2);
+          if_block1.c();
+          if_block1.m(div2, t2);
+        }
+      } else if (if_block1) {
+        if_block1.d(1);
+        if_block1 = null;
+      }
+      if (
+        /*plugin*/
+        ctx2[3].settings.dateInHistoryView
+      ) {
+        if (if_block2) {
+          if_block2.p(ctx2, dirty);
+        } else {
+          if_block2 = create_if_block_2(ctx2);
+          if_block2.c();
+          if_block2.m(div2, t3);
+        }
+      } else if (if_block2) {
+        if_block2.d(1);
+        if_block2 = null;
+      }
       if ((!current || dirty & /*log*/
-      1) && t2_value !== (t2_value = /*log*/
+      1) && t4_value !== (t4_value = /*log*/
       ctx2[0].message + ""))
-        set_data(t2, t2_value);
-      if (!current || dirty & /*log*/
-      1 && div1_aria_label_value !== (div1_aria_label_value = /*log*/
-      ctx2[0].message)) {
-        attr(div1, "aria-label", div1_aria_label_value);
+        set_data(t4, t4_value);
+      if (!current || dirty & /*log, plugin*/
+      9 && div3_aria_label_value !== (div3_aria_label_value = `${/*log*/
+      ctx2[0].refs.length > 0 ? (
+        /*log*/
+        ctx2[0].refs.join(", ") + "\n"
+      ) : ""}${/*log*/
+      (_b = ctx2[0].author) == null ? void 0 : _b.name}
+${(0, import_obsidian19.moment)(
+        /*log*/
+        ctx2[0].date
+      ).format(
+        /*plugin*/
+        ctx2[3].settings.commitDateFormat
+      )}
+${/*log*/
+      ctx2[0].message}`)) {
+        attr(div3, "aria-label", div3_aria_label_value);
       }
       if (!current || dirty & /*side*/
       32) {
         attr(
-          div1,
-          "aria-label-position",
+          div3,
+          "data-tooltip-position",
           /*side*/
           ctx2[5]
         );
       }
       if (!/*isCollapsed*/
       ctx2[4]) {
-        if (if_block1) {
-          if_block1.p(ctx2, dirty);
+        if (if_block3) {
+          if_block3.p(ctx2, dirty);
           if (dirty & /*isCollapsed*/
           16) {
-            transition_in(if_block1, 1);
+            transition_in(if_block3, 1);
           }
         } else {
-          if_block1 = create_if_block3(ctx2);
-          if_block1.c();
-          transition_in(if_block1, 1);
-          if_block1.m(div4, null);
+          if_block3 = create_if_block3(ctx2);
+          if_block3.c();
+          transition_in(if_block3, 1);
+          if_block3.m(div4, null);
         }
-      } else if (if_block1) {
+      } else if (if_block3) {
         group_outros();
-        transition_out(if_block1, 1, 1, () => {
-          if_block1 = null;
+        transition_out(if_block3, 1, 1, () => {
+          if_block3 = null;
         });
         check_outros();
       }
@@ -37924,20 +39265,25 @@ function create_fragment3(ctx) {
     i(local) {
       if (current)
         return;
-      transition_in(if_block1);
+      transition_in(if_block3);
       current = true;
     },
     o(local) {
-      transition_out(if_block1);
+      transition_out(if_block3);
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       if (if_block0)
         if_block0.d();
       if (if_block1)
         if_block1.d();
+      if (if_block2)
+        if_block2.d();
+      if (if_block3)
+        if_block3.d();
       mounted = false;
       dispose();
     }
@@ -37951,6 +39297,15 @@ function instance3($$self, $$props, $$invalidate) {
   let { showTree } = $$props;
   let { plugin } = $$props;
   let isCollapsed = true;
+  function authorToString(log3) {
+    const name = log3.author.name;
+    if (plugin.settings.authorInHistoryView == "full") {
+      return name;
+    } else if (plugin.settings.authorInHistoryView == "initials") {
+      const words = name.split(" ").filter((word) => word.length > 0);
+      return words.map((word) => word[0].toUpperCase()).join("");
+    }
+  }
   const click_handler = () => $$invalidate(4, isCollapsed = !isCollapsed);
   $$self.$$set = ($$props2) => {
     if ("log" in $$props2)
@@ -37979,12 +39334,22 @@ function instance3($$self, $$props, $$invalidate) {
         $$invalidate(5, side = view.leaf.getRoot().side == "left" ? "right" : "left");
     }
   };
-  return [log2, view, showTree, plugin, isCollapsed, side, logsHierarchy, click_handler];
+  return [
+    log2,
+    view,
+    showTree,
+    plugin,
+    isCollapsed,
+    side,
+    logsHierarchy,
+    authorToString,
+    click_handler
+  ];
 }
 var LogComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-    init2(this, options, instance3, create_fragment3, safe_not_equal, { log: 0, view: 1, showTree: 2, plugin: 3 }, add_css3);
+    init2(this, options, instance3, create_fragment3, safe_not_equal, { log: 0, view: 1, showTree: 2, plugin: 3 });
   }
 };
 var logComponent_default = LogComponent;
@@ -37999,7 +39364,7 @@ function create_if_block4(ctx) {
   let div1;
   let div0;
   let current;
-  let each_value = (
+  let each_value = ensure_array_like(
     /*logs*/
     ctx[6]
   );
@@ -38033,8 +39398,10 @@ function create_if_block4(ctx) {
     p(ctx2, dirty) {
       if (dirty & /*view, showTree, logs, plugin*/
       71) {
-        each_value = /*logs*/
-        ctx2[6];
+        each_value = ensure_array_like(
+          /*logs*/
+          ctx2[6]
+        );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context3(ctx2, each_value, i);
@@ -38071,8 +39438,9 @@ function create_if_block4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div1);
+      }
       destroy_each(each_blocks, detaching);
     }
   };
@@ -38262,8 +39630,9 @@ function create_fragment4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       ctx[7](null);
       ctx[9](null);
       if (if_block)
@@ -38288,8 +39657,8 @@ function instance4($$self, $$props, $$invalidate) {
   plugin.app.workspace.onLayoutReady(() => {
     window.setTimeout(
       () => {
-        buttons.forEach((btn) => (0, import_obsidian19.setIcon)(btn, btn.getAttr("data-icon"), 16));
-        (0, import_obsidian19.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
+        buttons.forEach((btn) => (0, import_obsidian20.setIcon)(btn, btn.getAttr("data-icon")));
+        (0, import_obsidian20.setIcon)(layoutBtn, showTree ? "list" : "folder");
       },
       0
     );
@@ -38334,7 +39703,7 @@ function instance4($$self, $$props, $$invalidate) {
       $: {
         if (layoutBtn) {
           layoutBtn.empty();
-          (0, import_obsidian19.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
+          (0, import_obsidian20.setIcon)(layoutBtn, showTree ? "list" : "folder");
         }
       }
     }
@@ -38361,7 +39730,7 @@ var HistoryView = class extends SvelteComponent {
 var historyView_default = HistoryView;
 
 // src/ui/history/historyView.ts
-var HistoryView2 = class extends import_obsidian20.ItemView {
+var HistoryView2 = class extends import_obsidian21.ItemView {
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -38393,8 +39762,8 @@ var HistoryView2 = class extends import_obsidian20.ItemView {
 
 // src/ui/modals/branchModal.ts
 init_polyfill_buffer();
-var import_obsidian21 = require("obsidian");
-var BranchModal = class extends import_obsidian21.FuzzySuggestModal {
+var import_obsidian22 = require("obsidian");
+var BranchModal = class extends import_obsidian22.FuzzySuggestModal {
   constructor(branches) {
     super(app);
     this.branches = branches;
@@ -38424,8 +39793,8 @@ var BranchModal = class extends import_obsidian21.FuzzySuggestModal {
 
 // src/ui/modals/ignoreModal.ts
 init_polyfill_buffer();
-var import_obsidian22 = require("obsidian");
-var IgnoreModal = class extends import_obsidian22.Modal {
+var import_obsidian23 = require("obsidian");
+var IgnoreModal = class extends import_obsidian23.Modal {
   constructor(app2, content) {
     super(app2);
     this.content = content;
@@ -38463,16 +39832,16 @@ var IgnoreModal = class extends import_obsidian22.Modal {
 
 // src/ui/sourceControl/sourceControl.ts
 init_polyfill_buffer();
-var import_obsidian29 = require("obsidian");
+var import_obsidian30 = require("obsidian");
 
 // src/ui/sourceControl/sourceControl.svelte
 init_polyfill_buffer();
-var import_obsidian28 = require("obsidian");
+var import_obsidian29 = require("obsidian");
 
 // src/ui/modals/discardModal.ts
 init_polyfill_buffer();
-var import_obsidian23 = require("obsidian");
-var DiscardModal = class extends import_obsidian23.Modal {
+var import_obsidian24 = require("obsidian");
+var DiscardModal = class extends import_obsidian24.Modal {
   constructor(app2, deletion, filename) {
     super(app2);
     this.deletion = deletion;
@@ -38528,15 +39897,15 @@ var DiscardModal = class extends import_obsidian23.Modal {
 
 // src/ui/sourceControl/components/fileComponent.svelte
 init_polyfill_buffer();
-var import_obsidian25 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 
-// node_modules/.pnpm/obsidian-community-lib@2.0.2_fbkkrmn4giwwsr5htt45gr2jni/node_modules/obsidian-community-lib/dist/index.js
+// node_modules/.pnpm/obsidian-community-lib@https+++codeload.github.com+Vinzent03+obsidian-community-lib+tar.gz+e6_dmashd4lm54vdqd2gnfngnqe2m/node_modules/obsidian-community-lib/dist/index.js
 init_polyfill_buffer();
 
-// node_modules/.pnpm/obsidian-community-lib@2.0.2_fbkkrmn4giwwsr5htt45gr2jni/node_modules/obsidian-community-lib/dist/utils.js
+// node_modules/.pnpm/obsidian-community-lib@https+++codeload.github.com+Vinzent03+obsidian-community-lib+tar.gz+e6_dmashd4lm54vdqd2gnfngnqe2m/node_modules/obsidian-community-lib/dist/utils.js
 init_polyfill_buffer();
 var feather = __toESM(require_feather());
-var import_obsidian24 = require("obsidian");
+var import_obsidian25 = require("obsidian");
 function hoverPreview(event, view, to) {
   const targetEl = event.target;
   app.workspace.trigger("hover-link", {
@@ -38549,8 +39918,8 @@ function hoverPreview(event, view, to) {
 }
 
 // src/ui/sourceControl/components/fileComponent.svelte
-function add_css4(target) {
-  append_styles(target, "svelte-pmbo0n", "main.svelte-pmbo0n .nav-file-title-content.svelte-pmbo0n{display:flex;align-items:center}");
+function add_css3(target) {
+  append_styles(target, "svelte-1wbh8tp", "main.svelte-1wbh8tp .nav-file-title.svelte-1wbh8tp{align-items:center}");
 }
 function create_if_block5(ctx) {
   let div;
@@ -38582,8 +39951,9 @@ function create_if_block5(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       ctx[11](null);
       mounted = false;
       run_all(dispose);
@@ -38621,12 +39991,14 @@ function create_fragment5(ctx) {
   );
   let t5;
   let div4_data_type_value;
+  let div6_data_path_value;
   let div6_aria_label_value;
   let mounted;
   let dispose;
   let if_block = show_if && create_if_block5(ctx);
   return {
     c() {
+      var _a2, _b, _c;
       main = element("main");
       div6 = element("div");
       div0 = element("div");
@@ -38643,7 +40015,7 @@ function create_fragment5(ctx) {
       t4 = space();
       div4 = element("div");
       t5 = text(t5_value);
-      attr(div0, "class", "tree-item-inner nav-file-title-content svelte-pmbo0n");
+      attr(div0, "class", "tree-item-inner nav-file-title-content");
       attr(div1, "data-icon", "undo");
       attr(div1, "aria-label", "Discard");
       attr(div1, "class", "clickable-icon");
@@ -38655,16 +40027,27 @@ function create_fragment5(ctx) {
       attr(div4, "data-type", div4_data_type_value = /*change*/
       ctx[0].working_dir);
       attr(div5, "class", "git-tools");
-      attr(div6, "class", "tree-item-self is-clickable nav-file-title");
+      attr(div6, "class", "tree-item-self is-clickable nav-file-title svelte-1wbh8tp");
+      attr(div6, "data-path", div6_data_path_value = /*change*/
+      ctx[0].vault_path);
       attr(
         div6,
-        "aria-label-position",
+        "data-tooltip-position",
         /*side*/
         ctx[3]
       );
       attr(div6, "aria-label", div6_aria_label_value = /*change*/
       ctx[0].vault_path);
-      attr(main, "class", "tree-item nav-file svelte-pmbo0n");
+      toggle_class(
+        div6,
+        "is-active",
+        /*view*/
+        ((_a2 = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _a2.file) == /*change*/
+        ctx[0].vault_path && !/*view*/
+        ((_b = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _b.hash) && !/*view*/
+        ((_c = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _c.staged)
+      );
+      attr(main, "class", "tree-item nav-file svelte-1wbh8tp");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -38720,6 +40103,7 @@ function create_fragment5(ctx) {
       }
     },
     p(ctx2, [dirty]) {
+      var _a2, _b, _c;
       if (dirty & /*change*/
       1 && t0_value !== (t0_value = getDisplayPath(
         /*change*/
@@ -38754,11 +40138,16 @@ function create_fragment5(ctx) {
       ctx2[0].working_dir)) {
         attr(div4, "data-type", div4_data_type_value);
       }
+      if (dirty & /*change*/
+      1 && div6_data_path_value !== (div6_data_path_value = /*change*/
+      ctx2[0].vault_path)) {
+        attr(div6, "data-path", div6_data_path_value);
+      }
       if (dirty & /*side*/
       8) {
         attr(
           div6,
-          "aria-label-position",
+          "data-tooltip-position",
           /*side*/
           ctx2[3]
         );
@@ -38768,12 +40157,25 @@ function create_fragment5(ctx) {
       ctx2[0].vault_path)) {
         attr(div6, "aria-label", div6_aria_label_value);
       }
+      if (dirty & /*view, change*/
+      3) {
+        toggle_class(
+          div6,
+          "is-active",
+          /*view*/
+          ((_a2 = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _a2.file) == /*change*/
+          ctx2[0].vault_path && !/*view*/
+          ((_b = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _b.hash) && !/*view*/
+          ((_c = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _c.staged)
+        );
+      }
     },
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       if (if_block)
         if_block.d();
       ctx[12](null);
@@ -38789,7 +40191,7 @@ function instance5($$self, $$props, $$invalidate) {
   let { view } = $$props;
   let { manager } = $$props;
   let buttons = [];
-  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian25.setIcon)(b, b.getAttr("data-icon"))), 0);
+  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian26.setIcon)(b, b.getAttr("data-icon"))), 0);
   function hover(event) {
     if (app.vault.getAbstractFileByPath(change.vault_path)) {
       hoverPreview(event, view, change.vault_path);
@@ -38799,7 +40201,7 @@ function instance5($$self, $$props, $$invalidate) {
     var _a2;
     const file = view.app.vault.getAbstractFileByPath(change.vault_path);
     console.log(event);
-    if (file instanceof import_obsidian25.TFile) {
+    if (file instanceof import_obsidian26.TFile) {
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
@@ -38888,16 +40290,16 @@ function instance5($$self, $$props, $$invalidate) {
 var FileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-    init2(this, options, instance5, create_fragment5, safe_not_equal, { change: 0, view: 1, manager: 9 }, add_css4);
+    init2(this, options, instance5, create_fragment5, safe_not_equal, { change: 0, view: 1, manager: 9 }, add_css3);
   }
 };
 var fileComponent_default = FileComponent;
 
 // src/ui/sourceControl/components/pulledFileComponent.svelte
 init_polyfill_buffer();
-var import_obsidian26 = require("obsidian");
-function add_css5(target) {
-  append_styles(target, "svelte-pmbo0n", "main.svelte-pmbo0n .nav-file-title-content.svelte-pmbo0n{display:flex;align-items:center}");
+var import_obsidian27 = require("obsidian");
+function add_css4(target) {
+  append_styles(target, "svelte-1wbh8tp", "main.svelte-1wbh8tp .nav-file-title.svelte-1wbh8tp{align-items:center}");
 }
 function create_fragment6(ctx) {
   let main;
@@ -38917,6 +40319,7 @@ function create_fragment6(ctx) {
   );
   let t2;
   let span_data_type_value;
+  let div2_data_path_value;
   let div2_aria_label_value;
   let mounted;
   let dispose;
@@ -38930,21 +40333,23 @@ function create_fragment6(ctx) {
       div1 = element("div");
       span = element("span");
       t2 = text(t2_value);
-      attr(div0, "class", "tree-item-inner nav-file-title-content svelte-pmbo0n");
+      attr(div0, "class", "tree-item-inner nav-file-title-content");
       attr(span, "class", "type");
       attr(span, "data-type", span_data_type_value = /*change*/
       ctx[0].working_dir);
       attr(div1, "class", "git-tools");
-      attr(div2, "class", "tree-item-self is-clickable nav-file-title");
+      attr(div2, "class", "tree-item-self is-clickable nav-file-title svelte-1wbh8tp");
+      attr(div2, "data-path", div2_data_path_value = /*change*/
+      ctx[0].vault_path);
       attr(
         div2,
-        "aria-label-position",
+        "data-tooltip-position",
         /*side*/
         ctx[1]
       );
       attr(div2, "aria-label", div2_aria_label_value = /*change*/
       ctx[0].vault_path);
-      attr(main, "class", "tree-item nav-file svelte-pmbo0n");
+      attr(main, "class", "tree-item nav-file svelte-1wbh8tp");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -38997,11 +40402,16 @@ function create_fragment6(ctx) {
       ctx2[0].working_dir)) {
         attr(span, "data-type", span_data_type_value);
       }
+      if (dirty & /*change*/
+      1 && div2_data_path_value !== (div2_data_path_value = /*change*/
+      ctx2[0].vault_path)) {
+        attr(div2, "data-path", div2_data_path_value);
+      }
       if (dirty & /*side*/
       2) {
         attr(
           div2,
-          "aria-label-position",
+          "data-tooltip-position",
           /*side*/
           ctx2[1]
         );
@@ -39015,8 +40425,9 @@ function create_fragment6(ctx) {
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       mounted = false;
       run_all(dispose);
     }
@@ -39034,7 +40445,7 @@ function instance6($$self, $$props, $$invalidate) {
   function open(event) {
     var _a2;
     const file = view.app.vault.getAbstractFileByPath(change.vault_path);
-    if (file instanceof import_obsidian26.TFile) {
+    if (file instanceof import_obsidian27.TFile) {
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
@@ -39059,16 +40470,16 @@ function instance6($$self, $$props, $$invalidate) {
 var PulledFileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-    init2(this, options, instance6, create_fragment6, safe_not_equal, { change: 0, view: 4 }, add_css5);
+    init2(this, options, instance6, create_fragment6, safe_not_equal, { change: 0, view: 4 }, add_css4);
   }
 };
 var pulledFileComponent_default = PulledFileComponent;
 
 // src/ui/sourceControl/components/stagedFileComponent.svelte
 init_polyfill_buffer();
-var import_obsidian27 = require("obsidian");
-function add_css6(target) {
-  append_styles(target, "svelte-pmbo0n", "main.svelte-pmbo0n .nav-file-title-content.svelte-pmbo0n{display:flex;align-items:center}");
+var import_obsidian28 = require("obsidian");
+function add_css5(target) {
+  append_styles(target, "svelte-1wbh8tp", "main.svelte-1wbh8tp .nav-file-title.svelte-1wbh8tp{align-items:center}");
 }
 function create_if_block6(ctx) {
   let div;
@@ -39094,8 +40505,9 @@ function create_if_block6(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       ctx[10](null);
       mounted = false;
       dispose();
@@ -39131,12 +40543,14 @@ function create_fragment7(ctx) {
   );
   let t4;
   let div3_data_type_value;
+  let div5_data_path_value;
   let div5_aria_label_value;
   let mounted;
   let dispose;
   let if_block = show_if && create_if_block6(ctx);
   return {
     c() {
+      var _a2, _b, _c;
       main = element("main");
       div5 = element("div");
       div0 = element("div");
@@ -39151,7 +40565,7 @@ function create_fragment7(ctx) {
       t3 = space();
       div3 = element("div");
       t4 = text(t4_value);
-      attr(div0, "class", "tree-item-inner nav-file-title-content svelte-pmbo0n");
+      attr(div0, "class", "tree-item-inner nav-file-title-content");
       attr(div1, "data-icon", "minus");
       attr(div1, "aria-label", "Unstage");
       attr(div1, "class", "clickable-icon");
@@ -39160,16 +40574,27 @@ function create_fragment7(ctx) {
       attr(div3, "data-type", div3_data_type_value = /*change*/
       ctx[0].index);
       attr(div4, "class", "git-tools");
-      attr(div5, "class", "tree-item-self is-clickable nav-file-title");
+      attr(div5, "class", "tree-item-self is-clickable nav-file-title svelte-1wbh8tp");
+      attr(div5, "data-path", div5_data_path_value = /*change*/
+      ctx[0].vault_path);
       attr(
         div5,
-        "aria-label-position",
+        "data-tooltip-position",
         /*side*/
         ctx[3]
       );
       attr(div5, "aria-label", div5_aria_label_value = /*change*/
       ctx[0].vault_path);
-      attr(main, "class", "tree-item nav-file svelte-pmbo0n");
+      toggle_class(
+        div5,
+        "is-active",
+        /*view*/
+        ((_a2 = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _a2.file) == /*change*/
+        ctx[0].vault_path && !/*view*/
+        ((_b = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _b.hash) && /*view*/
+        ((_c = ctx[1].plugin.lastDiffViewState) == null ? void 0 : _c.staged)
+      );
+      attr(main, "class", "tree-item nav-file svelte-1wbh8tp");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -39218,6 +40643,7 @@ function create_fragment7(ctx) {
       }
     },
     p(ctx2, [dirty]) {
+      var _a2, _b, _c;
       if (dirty & /*change*/
       1 && t0_value !== (t0_value = getDisplayPath(
         /*change*/
@@ -39252,11 +40678,16 @@ function create_fragment7(ctx) {
       ctx2[0].index)) {
         attr(div3, "data-type", div3_data_type_value);
       }
+      if (dirty & /*change*/
+      1 && div5_data_path_value !== (div5_data_path_value = /*change*/
+      ctx2[0].vault_path)) {
+        attr(div5, "data-path", div5_data_path_value);
+      }
       if (dirty & /*side*/
       8) {
         attr(
           div5,
-          "aria-label-position",
+          "data-tooltip-position",
           /*side*/
           ctx2[3]
         );
@@ -39266,12 +40697,25 @@ function create_fragment7(ctx) {
       ctx2[0].vault_path)) {
         attr(div5, "aria-label", div5_aria_label_value);
       }
+      if (dirty & /*view, change*/
+      3) {
+        toggle_class(
+          div5,
+          "is-active",
+          /*view*/
+          ((_a2 = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _a2.file) == /*change*/
+          ctx2[0].vault_path && !/*view*/
+          ((_b = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _b.hash) && /*view*/
+          ((_c = ctx2[1].plugin.lastDiffViewState) == null ? void 0 : _c.staged)
+        );
+      }
     },
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       if (if_block)
         if_block.d();
       ctx[11](null);
@@ -39281,13 +40725,12 @@ function create_fragment7(ctx) {
   };
 }
 function instance7($$self, $$props, $$invalidate) {
-  let formattedPath;
   let side;
   let { change } = $$props;
   let { view } = $$props;
   let { manager } = $$props;
   let buttons = [];
-  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian27.setIcon)(b, b.getAttr("data-icon"), 16)), 0);
+  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian28.setIcon)(b, b.getAttr("data-icon"))), 0);
   function hover(event) {
     if (app.vault.getAbstractFileByPath(change.vault_path)) {
       hoverPreview(event, view, change.vault_path);
@@ -39296,7 +40739,7 @@ function instance7($$self, $$props, $$invalidate) {
   function open(event) {
     var _a2;
     const file = view.app.vault.getAbstractFileByPath(change.vault_path);
-    if (file instanceof import_obsidian27.TFile) {
+    if (file instanceof import_obsidian28.TFile) {
       (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
@@ -39337,11 +40780,6 @@ function instance7($$self, $$props, $$invalidate) {
       $$invalidate(8, manager = $$props2.manager);
   };
   $$self.$$.update = () => {
-    if ($$self.$$.dirty & /*change*/
-    1) {
-      $:
-        formattedPath = change.vault_path;
-    }
     if ($$self.$$.dirty & /*view*/
     2) {
       $:
@@ -39366,15 +40804,15 @@ function instance7($$self, $$props, $$invalidate) {
 var StagedFileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-    init2(this, options, instance7, create_fragment7, safe_not_equal, { change: 0, view: 1, manager: 8 }, add_css6);
+    init2(this, options, instance7, create_fragment7, safe_not_equal, { change: 0, view: 1, manager: 8 }, add_css5);
   }
 };
 var stagedFileComponent_default = StagedFileComponent;
 
 // src/ui/sourceControl/components/treeComponent.svelte
 init_polyfill_buffer();
-function add_css7(target) {
-  append_styles(target, "svelte-1lnl15d", "main.svelte-1lnl15d .nav-folder-title-content.svelte-1lnl15d{display:flex;align-items:center}");
+function add_css6(target) {
+  append_styles(target, "svelte-hup5mn", "main.svelte-hup5mn .nav-folder-title.svelte-hup5mn{align-items:center}");
 }
 function get_each_context4(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -39419,7 +40857,7 @@ function create_else_block3(ctx) {
   ctx[5][
     /*entity*/
     ctx[15].title
-  ] && create_if_block_4(ctx);
+  ] && create_if_block_42(ctx);
   function click_handler_3() {
     return (
       /*click_handler_3*/
@@ -39454,14 +40892,23 @@ function create_else_block3(ctx) {
       set_style(div0, "padding-right", "5px");
       set_style(div0, "display", "flex");
       attr(div1, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
-      attr(div2, "class", "tree-item-inner nav-folder-title-content svelte-1lnl15d");
+      toggle_class(
+        div1,
+        "is-collapsed",
+        /*closed*/
+        ctx[5][
+          /*entity*/
+          ctx[15].title
+        ]
+      );
+      attr(div2, "class", "tree-item-inner nav-folder-title-content");
       set_style(div3, "width", "11px");
       attr(div4, "class", "buttons");
       attr(div5, "class", "git-tools");
-      attr(div6, "class", "tree-item-self is-clickable nav-folder-title");
+      attr(div6, "class", "tree-item-self is-clickable nav-folder-title svelte-hup5mn");
       attr(
         div6,
-        "aria-label-position",
+        "data-tooltip-position",
         /*side*/
         ctx[6]
       );
@@ -39499,12 +40946,24 @@ function create_else_block3(ctx) {
       append2(div7, t6);
       current = true;
       if (!mounted) {
-        dispose = listen(div7, "click", click_handler_3);
+        dispose = listen(div7, "click", stop_propagation(click_handler_3));
         mounted = true;
       }
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
+      if (!current || dirty & /*closed, hierarchy*/
+      33) {
+        toggle_class(
+          div1,
+          "is-collapsed",
+          /*closed*/
+          ctx[5][
+            /*entity*/
+            ctx[15].title
+          ]
+        );
+      }
       if ((!current || dirty & /*hierarchy*/
       1) && t2_value !== (t2_value = /*entity*/
       ctx[15].title + ""))
@@ -39523,7 +40982,7 @@ function create_else_block3(ctx) {
       64) {
         attr(
           div6,
-          "aria-label-position",
+          "data-tooltip-position",
           /*side*/
           ctx[6]
         );
@@ -39545,7 +41004,7 @@ function create_else_block3(ctx) {
             transition_in(if_block1, 1);
           }
         } else {
-          if_block1 = create_if_block_4(ctx);
+          if_block1 = create_if_block_42(ctx);
           if_block1.c();
           transition_in(if_block1, 1);
           if_block1.m(div7, t6);
@@ -39581,8 +41040,9 @@ function create_else_block3(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div7);
+      }
       if_block0.d();
       if (if_block1)
         if_block1.d();
@@ -39597,7 +41057,7 @@ function create_if_block7(ctx) {
   let if_block;
   let t;
   let current;
-  const if_block_creators = [create_if_block_13, create_if_block_22, create_if_block_3];
+  const if_block_creators = [create_if_block_13, create_if_block_22, create_if_block_32];
   const if_blocks = [];
   function select_block_type_1(ctx2, dirty) {
     if (
@@ -39676,8 +41136,9 @@ function create_if_block7(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       if (~current_block_type_index) {
         if_blocks[current_block_type_index].d();
       }
@@ -39738,12 +41199,11 @@ function create_else_block_1(ctx) {
       ctx = new_ctx;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div0);
-      if (detaching)
         detach(t);
-      if (detaching)
         detach(div1);
+      }
       mounted = false;
       run_all(dispose);
     }
@@ -39781,14 +41241,15 @@ function create_if_block_5(ctx) {
       ctx = new_ctx;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       mounted = false;
       dispose();
     }
   };
 }
-function create_if_block_4(ctx) {
+function create_if_block_42(ctx) {
   let div;
   let treecomponent;
   let div_transition;
@@ -39869,15 +41330,16 @@ function create_if_block_4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       destroy_component(treecomponent);
       if (detaching && div_transition)
         div_transition.end();
     }
   };
 }
-function create_if_block_3(ctx) {
+function create_if_block_32(ctx) {
   let pulledfilecomponent;
   let current;
   pulledfilecomponent = new pulledFileComponent_default({
@@ -40103,16 +41565,17 @@ function create_each_block4(ctx) {
       current = false;
     },
     d(detaching) {
-      if_blocks[current_block_type_index].d(detaching);
-      if (detaching)
+      if (detaching) {
         detach(if_block_anchor);
+      }
+      if_blocks[current_block_type_index].d(detaching);
     }
   };
 }
 function create_fragment8(ctx) {
   let main;
   let current;
-  let each_value = (
+  let each_value = ensure_array_like(
     /*hierarchy*/
     ctx[0].children
   );
@@ -40129,7 +41592,7 @@ function create_fragment8(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(main, "class", "svelte-1lnl15d");
+      attr(main, "class", "svelte-hup5mn");
       toggle_class(
         main,
         "topLevel",
@@ -40147,10 +41610,12 @@ function create_fragment8(ctx) {
       current = true;
     },
     p(ctx2, [dirty]) {
-      if (dirty & /*hierarchy, plugin, view, fileType, FileType, closed, fold, side, unstage, stage, discard*/
+      if (dirty & /*hierarchy, plugin, view, fileType, closed, fold, side, unstage, stage, discard*/
       2031) {
-        each_value = /*hierarchy*/
-        ctx2[0].children;
+        each_value = ensure_array_like(
+          /*hierarchy*/
+          ctx2[0].children
+        );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context4(ctx2, each_value, i);
@@ -40196,8 +41661,9 @@ function create_fragment8(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       destroy_each(each_blocks, detaching);
     }
   };
@@ -40292,15 +41758,15 @@ var TreeComponent = class extends SvelteComponent {
         fileType: 3,
         topLevel: 4
       },
-      add_css7
+      add_css6
     );
   }
 };
 var treeComponent_default = TreeComponent;
 
 // src/ui/sourceControl/sourceControl.svelte
-function add_css8(target) {
-  append_styles(target, "svelte-48bivb", `.commit-msg-input.svelte-48bivb.svelte-48bivb{width:100%;overflow:hidden;resize:none;padding:7px 5px;background-color:var(--background-modifier-form-field)}.git-commit-msg.svelte-48bivb.svelte-48bivb{position:relative;padding:0;width:calc(100% - var(--size-4-8));margin:4px auto}main.svelte-48bivb .git-tools .files-count.svelte-48bivb{padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center}.git-commit-msg-clear-button.svelte-48bivb.svelte-48bivb{position:absolute;background:transparent;border-radius:50%;color:var(--search-clear-button-color);cursor:var(--cursor);top:-4px;right:2px;bottom:0px;line-height:0;height:var(--input-height);width:28px;margin:auto;padding:0 0;text-align:center;display:flex;justify-content:center;align-items:center;transition:color 0.15s ease-in-out}.git-commit-msg-clear-button.svelte-48bivb.svelte-48bivb:after{content:"";height:var(--search-clear-button-size);width:var(--search-clear-button-size);display:block;background-color:currentColor;-webkit-mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");-webkit-mask-repeat:no-repeat}`);
+function add_css7(target) {
+  append_styles(target, "svelte-11adhly", `.commit-msg-input.svelte-11adhly.svelte-11adhly{width:100%;overflow:hidden;resize:none;padding:7px 5px;background-color:var(--background-modifier-form-field)}.git-commit-msg.svelte-11adhly.svelte-11adhly{position:relative;padding:0;width:calc(100% - var(--size-4-8));margin:4px auto}main.svelte-11adhly .git-tools .files-count.svelte-11adhly{padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center}.nav-folder-title.svelte-11adhly.svelte-11adhly{align-items:center}.git-commit-msg-clear-button.svelte-11adhly.svelte-11adhly{position:absolute;background:transparent;border-radius:50%;color:var(--search-clear-button-color);cursor:var(--cursor);top:-4px;right:2px;bottom:0px;line-height:0;height:var(--input-height);width:28px;margin:auto;padding:0 0;text-align:center;display:flex;justify-content:center;align-items:center;transition:color 0.15s ease-in-out}.git-commit-msg-clear-button.svelte-11adhly.svelte-11adhly:after{content:"";height:var(--search-clear-button-size);width:var(--search-clear-button-size);display:block;background-color:currentColor;mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");mask-repeat:no-repeat;-webkit-mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");-webkit-mask-repeat:no-repeat}`);
 }
 function get_each_context5(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -40325,7 +41791,7 @@ function create_if_block_8(ctx) {
   return {
     c() {
       div = element("div");
-      attr(div, "class", "git-commit-msg-clear-button svelte-48bivb");
+      attr(div, "class", "git-commit-msg-clear-button svelte-11adhly");
       attr(div, "aria-label", div_aria_label_value = "Clear");
     },
     m(target, anchor) {
@@ -40342,8 +41808,9 @@ function create_if_block_8(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       mounted = false;
       dispose();
     }
@@ -40399,7 +41866,7 @@ function create_if_block8(ctx) {
   );
   let if_block1 = (
     /*changesOpen*/
-    ctx[12] && create_if_block_42(ctx)
+    ctx[12] && create_if_block_43(ctx)
   );
   let if_block2 = (
     /*lastPulledFiles*/
@@ -40453,18 +41920,22 @@ function create_if_block8(ctx) {
       if (if_block2)
         if_block2.c();
       attr(div0, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
+      toggle_class(div0, "is-collapsed", !/*stagedOpen*/
+      ctx[13]);
       attr(div1, "class", "tree-item-inner nav-folder-title-content");
       attr(div2, "data-icon", "minus");
       attr(div2, "aria-label", "Unstage");
       attr(div2, "class", "clickable-icon");
       attr(div3, "class", "buttons");
-      attr(div4, "class", "files-count svelte-48bivb");
+      attr(div4, "class", "files-count svelte-11adhly");
       attr(div5, "class", "git-tools");
-      attr(div6, "class", "tree-item-self is-clickable nav-folder-title");
+      attr(div6, "class", "tree-item-self is-clickable nav-folder-title svelte-11adhly");
       attr(div7, "class", "staged tree-item nav-folder");
       toggle_class(div7, "is-collapsed", !/*stagedOpen*/
       ctx[13]);
       attr(div8, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
+      toggle_class(div8, "is-collapsed", !/*changesOpen*/
+      ctx[12]);
       attr(div9, "class", "tree-item-inner nav-folder-title-content");
       attr(div10, "data-icon", "undo");
       attr(div10, "aria-label", "Discard");
@@ -40473,10 +41944,10 @@ function create_if_block8(ctx) {
       attr(div11, "aria-label", "Stage");
       attr(div11, "class", "clickable-icon");
       attr(div12, "class", "buttons");
-      attr(div13, "class", "files-count svelte-48bivb");
+      attr(div13, "class", "files-count svelte-11adhly");
       attr(div14, "class", "git-tools");
-      attr(div15, "class", "tree-item-self is-clickable nav-folder-title");
-      attr(div16, "class", "changes nav-folder");
+      attr(div15, "class", "tree-item-self is-clickable nav-folder-title svelte-11adhly");
+      attr(div16, "class", "changes tree-item nav-folder");
       toggle_class(div16, "is-collapsed", !/*changesOpen*/
       ctx[12]);
       attr(div17, "class", "tree-item-children nav-folder-children");
@@ -40555,6 +42026,11 @@ function create_if_block8(ctx) {
       }
     },
     p(ctx2, dirty) {
+      if (!current || dirty[0] & /*stagedOpen*/
+      8192) {
+        toggle_class(div0, "is-collapsed", !/*stagedOpen*/
+        ctx2[13]);
+      }
       if ((!current || dirty[0] & /*status*/
       64) && t4_value !== (t4_value = /*status*/
       ctx2[6].staged.length + ""))
@@ -40587,6 +42063,11 @@ function create_if_block8(ctx) {
         toggle_class(div7, "is-collapsed", !/*stagedOpen*/
         ctx2[13]);
       }
+      if (!current || dirty[0] & /*changesOpen*/
+      4096) {
+        toggle_class(div8, "is-collapsed", !/*changesOpen*/
+        ctx2[12]);
+      }
       if ((!current || dirty[0] & /*status*/
       64) && t12_value !== (t12_value = /*status*/
       ctx2[6].changed.length + ""))
@@ -40602,7 +42083,7 @@ function create_if_block8(ctx) {
             transition_in(if_block1, 1);
           }
         } else {
-          if_block1 = create_if_block_42(ctx2);
+          if_block1 = create_if_block_43(ctx2);
           if_block1.c();
           transition_in(if_block1, 1);
           if_block1.m(div16, null);
@@ -40658,8 +42139,9 @@ function create_if_block8(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div18);
+      }
       ctx[34](null);
       if (if_block0)
         if_block0.d();
@@ -40749,8 +42231,9 @@ function create_if_block_6(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -40760,7 +42243,7 @@ function create_if_block_6(ctx) {
 function create_else_block_2(ctx) {
   let each_1_anchor;
   let current;
-  let each_value_2 = (
+  let each_value_2 = ensure_array_like(
     /*status*/
     ctx[6].staged
   );
@@ -40790,8 +42273,10 @@ function create_else_block_2(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*status, view, plugin*/
       67) {
-        each_value_2 = /*status*/
-        ctx2[6].staged;
+        each_value_2 = ensure_array_like(
+          /*status*/
+          ctx2[6].staged
+        );
         let i;
         for (i = 0; i < each_value_2.length; i += 1) {
           const child_ctx = get_each_context_2(ctx2, each_value_2, i);
@@ -40828,9 +42313,10 @@ function create_else_block_2(ctx) {
       current = false;
     },
     d(detaching) {
-      destroy_each(each_blocks, detaching);
-      if (detaching)
+      if (detaching) {
         detach(each_1_anchor);
+      }
+      destroy_each(each_blocks, detaching);
     }
   };
 }
@@ -40952,7 +42438,7 @@ function create_each_block_2(ctx) {
     }
   };
 }
-function create_if_block_42(ctx) {
+function create_if_block_43(ctx) {
   let div;
   let current_block_type_index;
   let if_block;
@@ -41028,8 +42514,9 @@ function create_if_block_42(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -41039,7 +42526,7 @@ function create_if_block_42(ctx) {
 function create_else_block_12(ctx) {
   let each_1_anchor;
   let current;
-  let each_value_1 = (
+  let each_value_1 = ensure_array_like(
     /*status*/
     ctx[6].changed
   );
@@ -41069,8 +42556,10 @@ function create_else_block_12(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*status, view, plugin*/
       67) {
-        each_value_1 = /*status*/
-        ctx2[6].changed;
+        each_value_1 = ensure_array_like(
+          /*status*/
+          ctx2[6].changed
+        );
         let i;
         for (i = 0; i < each_value_1.length; i += 1) {
           const child_ctx = get_each_context_1(ctx2, each_value_1, i);
@@ -41107,9 +42596,10 @@ function create_else_block_12(ctx) {
       current = false;
     },
     d(detaching) {
-      destroy_each(each_blocks, detaching);
-      if (detaching)
+      if (detaching) {
         detach(each_1_anchor);
+      }
+      destroy_each(each_blocks, detaching);
     }
   };
 }
@@ -41271,7 +42761,7 @@ function create_if_block_14(ctx) {
       attr(div0, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
       attr(div1, "class", "tree-item-inner nav-folder-title-content");
       attr(span, "class", "tree-item-flair");
-      attr(div2, "class", "tree-item-self is-clickable nav-folder-title");
+      attr(div2, "class", "tree-item-self is-clickable nav-folder-title svelte-11adhly");
       attr(div3, "class", "pulled nav-folder");
       toggle_class(div3, "is-collapsed", !/*lastPulledFilesOpen*/
       ctx[14]);
@@ -41344,8 +42834,9 @@ function create_if_block_14(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div3);
+      }
       if (if_block)
         if_block.d();
       mounted = false;
@@ -41359,7 +42850,7 @@ function create_if_block_23(ctx) {
   let if_block;
   let div_transition;
   let current;
-  const if_block_creators = [create_if_block_32, create_else_block4];
+  const if_block_creators = [create_if_block_33, create_else_block4];
   const if_blocks = [];
   function select_block_type_2(ctx2, dirty) {
     if (
@@ -41429,8 +42920,9 @@ function create_if_block_23(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(div);
+      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -41440,7 +42932,7 @@ function create_if_block_23(ctx) {
 function create_else_block4(ctx) {
   let each_1_anchor;
   let current;
-  let each_value = (
+  let each_value = ensure_array_like(
     /*lastPulledFiles*/
     ctx[7]
   );
@@ -41470,8 +42962,10 @@ function create_else_block4(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*lastPulledFiles, view*/
       130) {
-        each_value = /*lastPulledFiles*/
-        ctx2[7];
+        each_value = ensure_array_like(
+          /*lastPulledFiles*/
+          ctx2[7]
+        );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context5(ctx2, each_value, i);
@@ -41508,13 +43002,14 @@ function create_else_block4(ctx) {
       current = false;
     },
     d(detaching) {
-      destroy_each(each_blocks, detaching);
-      if (detaching)
+      if (detaching) {
         detach(each_1_anchor);
+      }
+      destroy_each(each_blocks, detaching);
     }
   };
 }
-function create_if_block_32(ctx) {
+function create_if_block_33(ctx) {
   let treecomponent;
   let current;
   treecomponent = new treeComponent_default({
@@ -41650,6 +43145,7 @@ function create_fragment9(ctx) {
   let t8;
   let t9;
   let div11;
+  let main_data_type_value;
   let current;
   let mounted;
   let dispose;
@@ -41739,13 +43235,14 @@ function create_fragment9(ctx) {
         /*rows*/
         ctx[15]
       );
-      attr(textarea, "class", "commit-msg-input svelte-48bivb");
+      attr(textarea, "class", "commit-msg-input svelte-11adhly");
       attr(textarea, "spellcheck", "true");
       attr(textarea, "placeholder", "Commit Message");
-      attr(div10, "class", "git-commit-msg svelte-48bivb");
+      attr(div10, "class", "git-commit-msg svelte-11adhly");
       attr(div11, "class", "nav-files-container");
       set_style(div11, "position", "relative");
-      attr(main, "class", "svelte-48bivb");
+      attr(main, "data-type", main_data_type_value = SOURCE_CONTROL_VIEW_CONFIG.type);
+      attr(main, "class", "svelte-11adhly");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -41924,8 +43421,9 @@ function create_fragment9(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching)
+      if (detaching) {
         detach(main);
+      }
       ctx[23](null);
       ctx[24](null);
       ctx[25](null);
@@ -41967,8 +43465,8 @@ function instance9($$self, $$props, $$invalidate) {
   plugin.app.workspace.onLayoutReady(() => {
     window.setTimeout(
       () => {
-        buttons.forEach((btn) => (0, import_obsidian28.setIcon)(btn, btn.getAttr("data-icon"), 16));
-        (0, import_obsidian28.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
+        buttons.forEach((btn) => (0, import_obsidian29.setIcon)(btn, btn.getAttr("data-icon")));
+        (0, import_obsidian29.setIcon)(layoutBtn, showTree ? "list" : "folder");
       },
       0
     );
@@ -41984,7 +43482,7 @@ function instance9($$self, $$props, $$invalidate) {
           plugin.setState(0 /* idle */);
           return false;
         }
-        plugin.promiseQueue.addTask(() => plugin.gitManager.commit(commitMessage).then(() => {
+        plugin.promiseQueue.addTask(() => plugin.gitManager.commit({ message: commitMessage }).then(() => {
           if (commitMessage !== plugin.settings.commitMessage) {
             $$invalidate(2, commitMessage = "");
           }
@@ -42011,6 +43509,21 @@ function instance9($$self, $$props, $$invalidate) {
         $$invalidate(6, status2 = void 0);
         return;
       }
+      const unPushedCommits = yield plugin.gitManager.getUnpushedCommits();
+      buttons.forEach((btn) => {
+        var _a2, _b;
+        if (import_obsidian29.Platform.isMobile) {
+          btn.removeClass("button-border");
+          if (btn.id == "push" && unPushedCommits > 0) {
+            btn.addClass("button-border");
+          }
+        } else {
+          (_a2 = btn.firstElementChild) === null || _a2 === void 0 ? void 0 : _a2.removeAttribute("color");
+          if (btn.id == "push" && unPushedCommits > 0) {
+            (_b = btn.firstElementChild) === null || _b === void 0 ? void 0 : _b.setAttr("color", "var(--text-accent)");
+          }
+        }
+      });
       $$invalidate(6, status2 = plugin.cachedStatus);
       if (plugin.lastPulledFiles && plugin.lastPulledFiles != lastPulledFiles) {
         $$invalidate(7, lastPulledFiles = plugin.lastPulledFiles);
@@ -42070,7 +43583,7 @@ function instance9($$self, $$props, $$invalidate) {
     plugin.promiseQueue.addTask(() => plugin.pullChangesFromRemote().finally(triggerRefresh2));
   }
   function discard() {
-    new DiscardModal(view.app, false, plugin.gitManager.getVaultPath("/")).myOpen().then((shouldDiscard) => {
+    new DiscardModal(view.app, false, plugin.gitManager.getRelativeVaultPath("/")).myOpen().then((shouldDiscard) => {
       if (shouldDiscard === true) {
         plugin.promiseQueue.addTask(() => plugin.gitManager.discardAll({ status: plugin.cachedStatus }).finally(() => {
           dispatchEvent(new CustomEvent("git-refresh"));
@@ -42163,7 +43676,7 @@ function instance9($$self, $$props, $$invalidate) {
       $: {
         if (layoutBtn) {
           layoutBtn.empty();
-          (0, import_obsidian28.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
+          (0, import_obsidian29.setIcon)(layoutBtn, showTree ? "list" : "folder");
         }
       }
     }
@@ -42218,13 +43731,13 @@ function instance9($$self, $$props, $$invalidate) {
 var SourceControl = class extends SvelteComponent {
   constructor(options) {
     super();
-    init2(this, options, instance9, create_fragment9, safe_not_equal, { plugin: 0, view: 1 }, add_css8, [-1, -1]);
+    init2(this, options, instance9, create_fragment9, safe_not_equal, { plugin: 0, view: 1 }, add_css7, [-1, -1]);
   }
 };
 var sourceControl_default = SourceControl;
 
 // src/ui/sourceControl/sourceControl.ts
-var GitView = class extends import_obsidian29.ItemView {
+var GitView = class extends import_obsidian30.ItemView {
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -42280,7 +43793,7 @@ var BranchStatusBar = class {
 };
 
 // src/main.ts
-var ObsidianGit = class extends import_obsidian30.Plugin {
+var ObsidianGit = class extends import_obsidian31.Plugin {
   constructor() {
     super(...arguments);
     this.gitReady = false;
@@ -42355,7 +43868,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       id: "edit-gitignore",
       name: "Edit .gitignore",
       callback: async () => {
-        const path2 = this.gitManager.getVaultPath(".gitignore");
+        const path2 = this.gitManager.getRelativeVaultPath(".gitignore");
         if (!await this.app.vault.adapter.exists(path2)) {
           this.app.vault.adapter.write(path2, "");
         }
@@ -42422,7 +43935,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
             active: true,
             state: {
               staged: false,
-              file: this.gitManager.asRepositoryRelativePath(
+              file: this.gitManager.getRelativeRepoPath(
                 file.path,
                 true
               )
@@ -42434,17 +43947,28 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     this.addCommand({
       id: "view-file-on-github",
       name: "Open file on GitHub",
-      editorCallback: (editor, { file }) => openLineInGitHub(editor, file, this.gitManager)
+      editorCallback: (editor, { file }) => {
+        if (file)
+          return openLineInGitHub(editor, file, this.gitManager);
+      }
     });
     this.addCommand({
       id: "view-history-on-github",
       name: "Open file history on GitHub",
-      editorCallback: (_, { file }) => openHistoryInGitHub(file, this.gitManager)
+      editorCallback: (_, { file }) => {
+        if (file)
+          return openHistoryInGitHub(file, this.gitManager);
+      }
     });
     this.addCommand({
       id: "pull",
       name: "Pull",
       callback: () => this.promiseQueue.addTask(() => this.pullChangesFromRemote())
+    });
+    this.addCommand({
+      id: "fetch",
+      name: "fetch",
+      callback: () => this.promiseQueue.addTask(() => this.fetch())
     });
     this.addCommand({
       id: "switch-to-remote-branch",
@@ -42455,13 +43979,13 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       id: "add-to-gitignore",
       name: "Add file to gitignore",
       checkCallback: (checking) => {
-        const file = app.workspace.getActiveFile();
+        const file = this.app.workspace.getActiveFile();
         if (checking) {
           return file !== null;
         } else {
-          app.vault.adapter.append(
-            this.gitManager.getVaultPath(".gitignore"),
-            "\n" + this.gitManager.asRepositoryRelativePath(
+          this.app.vault.adapter.append(
+            this.gitManager.getRelativeVaultPath(".gitignore"),
+            "\n" + this.gitManager.getRelativeRepoPath(
               file.path,
               true
             )
@@ -42517,6 +44041,20 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         })
       )
     });
+    if (import_obsidian31.Platform.isDesktopApp) {
+      this.addCommand({
+        id: "commit-amend-staged-specified-message",
+        name: "Commit Amend",
+        callback: () => this.promiseQueue.addTask(
+          () => this.commit({
+            fromAutoBackup: false,
+            requestCustomMessage: true,
+            onlyStaged: true,
+            amend: true
+          })
+        )
+      });
+    }
     this.addCommand({
       id: "commit-staged-specified-message",
       name: "Commit staged with specific message",
@@ -42568,6 +44106,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       callback: async () => this.removeRemote()
     });
     this.addCommand({
+      id: "set-upstream-branch",
+      name: "Set upstream branch",
+      callback: async () => this.setUpstreamBranch()
+    });
+    this.addCommand({
       id: "delete-repo",
       name: "CAUTION: Delete repository",
       callback: async () => {
@@ -42586,14 +44129,14 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
               `${this.settings.basePath}/.git`,
               true
             );
-            new import_obsidian30.Notice(
+            new import_obsidian31.Notice(
               "Successfully deleted repository. Reloading plugin..."
             );
             this.unloadPlugin();
             this.init();
           }
         } else {
-          new import_obsidian30.Notice("No repository found");
+          new import_obsidian31.Notice("No repository found");
         }
       }
     });
@@ -42614,12 +44157,13 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (!await this.isAllInitialized())
           return;
         const status2 = await this.gitManager.status();
+        console.log(status2);
         this.setState(0 /* idle */);
         if (status2.changed.length + status2.staged.length > 500) {
           this.displayError("Too many changes to display");
           return;
         }
-        new ChangedFilesModal(this, status2.changed).open();
+        new ChangedFilesModal(this, status2.all).open();
       }
     });
     this.addCommand({
@@ -42685,7 +44229,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         }, 1e3)
       );
     }
-    if (import_obsidian30.Platform.isDesktop && this.settings.showBranchStatusBar) {
+    if (import_obsidian31.Platform.isDesktop && this.settings.showBranchStatusBar) {
       const branchStatusBarEl = this.addStatusBarItem();
       this.branchBar = new BranchStatusBar(branchStatusBarEl, this);
       this.registerInterval(
@@ -42700,7 +44244,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   setRefreshDebouncer() {
     var _a2;
     (_a2 = this.debRefresh) == null ? void 0 : _a2.cancel();
-    this.debRefresh = (0, import_obsidian30.debounce)(
+    this.debRefresh = (0, import_obsidian31.debounce)(
       () => {
         if (this.settings.refreshSourceControl) {
           this.refresh();
@@ -42712,17 +44256,17 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async showNotices() {
     const length = 1e4;
-    if (this.manifest.id === "obsidian-git" && import_obsidian30.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
-      new import_obsidian30.Notice(
-        "Obsidian Git is now available on mobile! Please read the plugin's README for more information.",
+    if (this.manifest.id === "obsidian-git" && import_obsidian31.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
+      new import_obsidian31.Notice(
+        "Git is now available on mobile! Please read the plugin's README for more information.",
         length
       );
       this.settings.showedMobileNotice = true;
       await this.saveSettings();
     }
     if (this.manifest.id === "obsidian-git-isomorphic") {
-      new import_obsidian30.Notice(
-        "Obsidian Git Mobile is now deprecated. Please uninstall it and install Obsidian Git instead.",
+      new import_obsidian31.Notice(
+        "Git Mobile is now deprecated. Please uninstall it and install Git instead.",
         length
       );
     }
@@ -42741,11 +44285,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     menu.addItem((item) => {
       item.setTitle(`Git: Stage`).setIcon("plus-circle").setSection("action").onClick((_) => {
         this.promiseQueue.addTask(async () => {
-          if (file instanceof import_obsidian30.TFile) {
+          if (file instanceof import_obsidian31.TFile) {
             await this.gitManager.stage(file.path, true);
           } else {
             await this.gitManager.stageAll({
-              dir: this.gitManager.asRepositoryRelativePath(
+              dir: this.gitManager.getRelativeRepoPath(
                 file.path,
                 true
               )
@@ -42758,11 +44302,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     menu.addItem((item) => {
       item.setTitle(`Git: Unstage`).setIcon("minus-circle").setSection("action").onClick((_) => {
         this.promiseQueue.addTask(async () => {
-          if (file instanceof import_obsidian30.TFile) {
+          if (file instanceof import_obsidian31.TFile) {
             await this.gitManager.unstage(file.path, true);
           } else {
             await this.gitManager.unstageAll({
-              dir: this.gitManager.asRepositoryRelativePath(
+              dir: this.gitManager.getRelativeRepoPath(
                 file.path,
                 true
               )
@@ -42806,6 +44350,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       "git-head-update",
       this.refreshUpdatedHead.bind(this)
     );
+    this.app.workspace.offref(this.openEvent);
     this.app.metadataCache.offref(this.modifyEvent);
     this.app.metadataCache.offref(this.deleteEvent);
     this.app.metadataCache.offref(this.createEvent);
@@ -42849,7 +44394,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     };
   }
   get useSimpleGit() {
-    return import_obsidian30.Platform.isDesktopApp;
+    return import_obsidian31.Platform.isDesktopApp;
   }
   async init() {
     var _a2;
@@ -42867,7 +44412,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           this.displayError("Cannot run git command");
           break;
         case "missing-repo":
-          new import_obsidian30.Notice(
+          new import_obsidian31.Notice(
             "Can't find a valid git repository. Please create one via the given command or clone an existing repo.",
             1e4
           );
@@ -42875,6 +44420,10 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         case "valid":
           this.gitReady = true;
           this.setState(0 /* idle */);
+          this.openEvent = this.app.workspace.on(
+            "active-leaf-change",
+            (leaf) => this.handleViewActiveState(leaf)
+          );
           this.modifyEvent = this.app.vault.on("modify", () => {
             this.debRefresh();
           });
@@ -42913,7 +44462,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async createNewRepo() {
     await this.gitManager.init();
-    new import_obsidian30.Notice("Initialized new repo");
+    new import_obsidian31.Notice("Initialized new repo");
     await this.init();
   }
   async cloneNewRepo() {
@@ -42922,7 +44471,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     if (url) {
       const confirmOption = "Vault Root";
       let dir = await new GeneralModal({
-        options: [confirmOption],
+        options: this.gitManager instanceof IsomorphicGit ? [confirmOption] : [],
         placeholder: "Enter directory for clone. It needs to be empty or not existent.",
         allowEmpty: this.gitManager instanceof IsomorphicGit
       }).open();
@@ -42930,7 +44479,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (dir === confirmOption) {
           dir = ".";
         }
-        dir = (0, import_obsidian30.normalizePath)(dir);
+        dir = (0, import_obsidian31.normalizePath)(dir);
         if (dir === "/") {
           dir = ".";
         }
@@ -42942,7 +44491,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           });
           const containsConflictDir = await modal2.open();
           if (containsConflictDir === void 0) {
-            new import_obsidian30.Notice("Aborted clone");
+            new import_obsidian31.Notice("Aborted clone");
             return;
           } else if (containsConflictDir === "YES") {
             const confirmOption2 = "DELETE ALL YOUR LOCAL CONFIG AND PLUGINS";
@@ -42958,7 +44507,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
                 true
               );
             } else {
-              new import_obsidian30.Notice("Aborted clone");
+              new import_obsidian31.Notice("Aborted clone");
               return;
             }
           }
@@ -42971,11 +44520,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (depth !== "") {
           depthInt = parseInt(depth);
           if (isNaN(depthInt)) {
-            new import_obsidian30.Notice("Invalid depth. Aborting clone.");
+            new import_obsidian31.Notice("Invalid depth. Aborting clone.");
             return;
           }
         }
-        new import_obsidian30.Notice(`Cloning new repo into "${dir}"`);
+        new import_obsidian31.Notice(`Cloning new repo into "${dir}"`);
         const oldBase = this.settings.basePath;
         const customDir = dir && dir !== ".";
         if (customDir) {
@@ -42988,8 +44537,8 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           this.saveSettings();
           throw error;
         }
-        new import_obsidian30.Notice("Cloned new repo.");
-        new import_obsidian30.Notice("Please restart Obsidian");
+        new import_obsidian31.Notice("Cloned new repo.");
+        new import_obsidian31.Notice("Please restart Obsidian");
         if (customDir) {
           this.saveSettings();
         }
@@ -43012,6 +44561,9 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       return;
     const filesUpdated = await this.pull();
     this.setUpAutoBackup();
+    if (filesUpdated === false) {
+      return;
+    }
     if (!filesUpdated) {
       this.displayMessage("Everything is up-to-date");
     }
@@ -43037,10 +44589,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       fromAutoBackup,
       requestCustomMessage,
       commitMessage
-    }))
+    })) {
       return;
+    }
     if (!this.settings.disablePush) {
-      if (await this.gitManager.canPush()) {
+      if (await this.remotesAreSet() && await this.gitManager.canPush()) {
         if (this.settings.syncMethod != "reset" && this.settings.pullBeforePush) {
           await this.pull();
         }
@@ -43056,11 +44609,12 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     fromAutoBackup,
     requestCustomMessage = false,
     onlyStaged = false,
-    commitMessage
+    commitMessage,
+    amend = false
   }) {
     if (!await this.isAllInitialized())
       return false;
-    let hadConflict = this.localStorage.getConflict() === "true";
+    let hadConflict = this.localStorage.getConflict();
     let changedFiles;
     let status2;
     let unstagedFiles;
@@ -43068,7 +44622,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       this.mayDeleteConflictFile();
       status2 = await this.updateCachedStatus();
       if (status2.conflicted.length == 0) {
-        this.localStorage.setConflict("false");
+        this.localStorage.setConflict(false);
         hadConflict = false;
       }
       if (fromAutoBackup && status2.conflicted.length > 0) {
@@ -43095,7 +44649,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       } else {
         unstagedFiles = await this.gitManager.getUnstagedFiles();
         changedFiles = unstagedFiles.map(({ filepath }) => ({
-          vault_path: this.gitManager.getVaultPath(filepath)
+          vault_path: this.gitManager.getRelativeVaultPath(filepath)
         }));
       }
     }
@@ -43107,7 +44661,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       let cmtMessage = commitMessage != null ? commitMessage : commitMessage = fromAutoBackup ? this.settings.autoCommitMessage : this.settings.commitMessage;
       if (fromAutoBackup && this.settings.customMessageOnAutoBackup || requestCustomMessage) {
         if (!this.settings.disablePopups && fromAutoBackup) {
-          new import_obsidian30.Notice(
+          new import_obsidian31.Notice(
             "Auto backup: Please enter a custom commit message. Leave empty to abort"
           );
         }
@@ -43124,21 +44678,21 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
       let committedFiles;
       if (onlyStaged) {
-        committedFiles = await this.gitManager.commit(cmtMessage);
+        committedFiles = await this.gitManager.commit({
+          message: cmtMessage,
+          amend
+        });
       } else {
         committedFiles = await this.gitManager.commitAll({
-          // A type error occurs here because `this.settings.autoCommitMessage` is possibly undefined.
-          // However, since `this.settings.autoCommitMessage` is always set to string in `this.migrateSettings`,
-          // `undefined` is never passed here. Therefore, temporarily ignore this error.
-          // @ts-ignore
           message: cmtMessage,
           status: status2,
-          unstagedFiles
+          unstagedFiles,
+          amend
         });
       }
       if (this.gitManager instanceof SimpleGit) {
         if ((await this.updateCachedStatus()).conflicted.length == 0) {
-          this.localStorage.setConflict("false");
+          this.localStorage.setConflict(false);
         }
       }
       let roughly = false;
@@ -43167,7 +44721,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           const file = this.app.vault.getAbstractFileByPath(
             f.vault_path
           );
-          if (file instanceof import_obsidian30.TFile) {
+          if (file instanceof import_obsidian31.TFile) {
             return file.stat.size >= 1e8;
           }
           return false;
@@ -43190,7 +44744,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     if (!await this.remotesAreSet()) {
       return false;
     }
-    const hadConflict = this.localStorage.getConflict() === "true";
+    const hadConflict = this.localStorage.getConflict();
     if (this.gitManager instanceof SimpleGit)
       await this.mayDeleteConflictFile();
     let status2;
@@ -43205,9 +44759,9 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       this.setState(6 /* conflicted */);
       return false;
     }
-    {
-      console.log("Pushing....");
-      const pushedFiles = await this.gitManager.push();
+    console.log("Pushing....");
+    const pushedFiles = await this.gitManager.push();
+    if (pushedFiles !== void 0) {
       console.log("Pushed!", pushedFiles);
       if (pushedFiles > 0) {
         this.displayMessage(
@@ -43216,13 +44770,16 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       } else {
         this.displayMessage(`No changes to push`);
       }
-      this.offlineMode = false;
-      this.setState(0 /* idle */);
-      return true;
     }
+    this.offlineMode = false;
+    this.setState(0 /* idle */);
+    dispatchEvent(new CustomEvent("git-refresh"));
+    return true;
   }
-  /// Used for internals
-  /// Returns whether the pull added a commit or not.
+  /** Used for internals
+      Returns whether the pull added a commit or not.
+  
+      See {@link pullChangesFromRemote} for the command version. */
   async pull() {
     if (!await this.remotesAreSet()) {
       return false;
@@ -43235,7 +44792,16 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       );
       this.lastPulledFiles = pulledFiles;
     }
-    return pulledFiles.length != 0;
+    return pulledFiles.length;
+  }
+  async fetch() {
+    if (!await this.remotesAreSet()) {
+      return;
+    }
+    await this.gitManager.fetch();
+    this.displayMessage(`Fetched from remote`);
+    this.offlineMode = false;
+    dispatchEvent(new CustomEvent("git-refresh"));
   }
   async mayDeleteConflictFile() {
     const file = this.app.vault.getAbstractFileByPath(
@@ -43243,7 +44809,8 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     );
     if (file) {
       this.app.workspace.iterateAllLeaves((leaf) => {
-        if (leaf.view instanceof import_obsidian30.MarkdownView && leaf.view.file.path == file.path) {
+        var _a2;
+        if (leaf.view instanceof import_obsidian31.MarkdownView && ((_a2 = leaf.view.file) == null ? void 0 : _a2.path) == file.path) {
           leaf.detach();
         }
       });
@@ -43342,20 +44909,34 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       return branch2;
     }
   }
+  // Ensures that the upstream branch is set.
+  // If not, it will prompt the user to set it.
+  //
+  // An exception is when the user has submodules enabled.
+  // In this case, the upstream branch is not required,
+  // to allow pulling/pushing only the submodules and not the outer repo.
   async remotesAreSet() {
+    if (this.settings.updateSubmodules) {
+      return true;
+    }
     if (!(await this.gitManager.branchInfo()).tracking) {
-      new import_obsidian30.Notice("No upstream branch is set. Please select one.");
-      const remoteBranch = await this.selectRemoteBranch();
-      if (remoteBranch == void 0) {
-        this.displayError("Aborted. No upstream-branch is set!", 1e4);
-        this.setState(0 /* idle */);
-        return false;
-      } else {
-        await this.gitManager.updateUpstreamBranch(remoteBranch);
-        return true;
-      }
+      new import_obsidian31.Notice("No upstream branch is set. Please select one.");
+      return await this.setUpstreamBranch();
     }
     return true;
+  }
+  async setUpstreamBranch() {
+    const remoteBranch = await this.selectRemoteBranch();
+    if (remoteBranch == void 0) {
+      this.displayError("Aborted. No upstream-branch is set!", 1e4);
+      this.setState(0 /* idle */);
+      return false;
+    } else {
+      await this.gitManager.updateUpstreamBranch(remoteBranch);
+      this.displayMessage(`Set upstream branch to ${remoteBranch}`);
+      this.setState(0 /* idle */);
+      return true;
+    }
   }
   async setUpAutoBackup() {
     if (this.settings.setLastSaveToLastCommit) {
@@ -43366,39 +44947,39 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
     }
     if (!this.timeoutIDBackup && !this.onFileModifyEventRef) {
-      const lastAutos = await this.loadLastAuto();
+      const lastAutos = this.loadLastAuto();
       if (this.settings.autoSaveInterval > 0) {
         const now2 = /* @__PURE__ */ new Date();
-        const diff2 = this.settings.autoSaveInterval - Math.round(
+        const diff3 = this.settings.autoSaveInterval - Math.round(
           (now2.getTime() - lastAutos.backup.getTime()) / 1e3 / 60
         );
-        this.startAutoBackup(diff2 <= 0 ? 0 : diff2);
+        this.startAutoBackup(diff3 <= 0 ? 0 : diff3);
       }
     }
   }
   async setUpAutos() {
     this.setUpAutoBackup();
-    const lastAutos = await this.loadLastAuto();
+    const lastAutos = this.loadLastAuto();
     if (this.settings.differentIntervalCommitAndPush && this.settings.autoPushInterval > 0) {
       const now2 = /* @__PURE__ */ new Date();
-      const diff2 = this.settings.autoPushInterval - Math.round(
+      const diff3 = this.settings.autoPushInterval - Math.round(
         (now2.getTime() - lastAutos.push.getTime()) / 1e3 / 60
       );
-      this.startAutoPush(diff2 <= 0 ? 0 : diff2);
+      this.startAutoPush(diff3 <= 0 ? 0 : diff3);
     }
     if (this.settings.autoPullInterval > 0) {
       const now2 = /* @__PURE__ */ new Date();
-      const diff2 = this.settings.autoPullInterval - Math.round(
+      const diff3 = this.settings.autoPullInterval - Math.round(
         (now2.getTime() - lastAutos.pull.getTime()) / 1e3 / 60
       );
-      this.startAutoPull(diff2 <= 0 ? 0 : diff2);
+      this.startAutoPull(diff3 <= 0 ? 0 : diff3);
     }
   }
   async discardAll() {
     await this.gitManager.discardAll({
       status: this.cachedStatus
     });
-    new import_obsidian30.Notice(
+    new import_obsidian31.Notice(
       "All local changes have been discarded. New files remain untouched."
     );
   }
@@ -43417,7 +44998,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
           "modify",
           () => this.autoBackupDebouncer()
         );
-        this.autoBackupDebouncer = (0, import_obsidian30.debounce)(
+        this.autoBackupDebouncer = (0, import_obsidian31.debounce)(
           () => this.doAutoBackup(),
           time,
           true
@@ -43501,18 +45082,18 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
   }
   async handleConflict(conflicted) {
     this.setState(6 /* conflicted */);
-    this.localStorage.setConflict("true");
+    this.localStorage.setConflict(true);
     let lines;
     if (conflicted !== void 0) {
       lines = [
         "# Conflicts",
-        "Please resolve them and commit them using the commands `Obsidian Git: Commit all changes` followed by `Obsidian Git: Push`",
+        "Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`",
         "(This file will automatically be deleted before commit)",
         "[[#Additional Instructions]] available below file list",
         "",
         ...conflicted.map((e) => {
           const file = this.app.vault.getAbstractFileByPath(e);
-          if (file instanceof import_obsidian30.TFile) {
+          if (file instanceof import_obsidian31.TFile) {
             const link = this.app.metadataCache.fileToLinktext(
               file,
               "/"
@@ -43573,9 +45154,7 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
     if (remoteName) {
       this.displayMessage("Fetching remote branches");
       await this.gitManager.fetch(remoteName);
-      const branches = await this.gitManager.getRemoteBranches(
-        remoteName
-      );
+      const branches = await this.gitManager.getRemoteBranches(remoteName);
       const branchModal = new GeneralModal({
         options: branches,
         placeholder: "Select or create a new remote branch by typing its name and selecting it"
@@ -43610,25 +45189,60 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
       this.app.workspace.openLinkText(this.conflictOutputFile, "/", true);
     }
   }
+  handleViewActiveState(leaf) {
+    var _a2, _b;
+    if (!(leaf == null ? void 0 : leaf.view.getState().file))
+      return;
+    const sourceControlLeaf = this.app.workspace.getLeavesOfType(SOURCE_CONTROL_VIEW_CONFIG.type).first();
+    const historyLeaf = this.app.workspace.getLeavesOfType(HISTORY_VIEW_CONFIG.type).first();
+    (_a2 = sourceControlLeaf == null ? void 0 : sourceControlLeaf.view.containerEl.querySelector(`div.nav-file-title.is-active`)) == null ? void 0 : _a2.removeClass("is-active");
+    (_b = historyLeaf == null ? void 0 : historyLeaf.view.containerEl.querySelector(`div.nav-file-title.is-active`)) == null ? void 0 : _b.removeClass("is-active");
+    if ((leaf == null ? void 0 : leaf.view) instanceof DiffView) {
+      const path2 = leaf.view.state.file;
+      this.lastDiffViewState = leaf.view.getState();
+      let el;
+      if (sourceControlLeaf && leaf.view.state.staged) {
+        el = sourceControlLeaf.view.containerEl.querySelector(
+          `div.staged div.nav-file-title[data-path='${path2}']`
+        );
+      } else if (sourceControlLeaf && leaf.view.state.staged === false && !leaf.view.state.hash) {
+        el = sourceControlLeaf.view.containerEl.querySelector(
+          `div.changes div.nav-file-title[data-path='${path2}']`
+        );
+      } else if (historyLeaf && leaf.view.state.hash) {
+        el = historyLeaf.view.containerEl.querySelector(
+          `div.nav-file-title[data-path='${path2}']`
+        );
+      }
+      el == null ? void 0 : el.addClass("is-active");
+    } else {
+      this.lastDiffViewState = void 0;
+    }
+  }
   // region: displaying / formatting messages
   displayMessage(message, timeout = 4 * 1e3) {
     var _a2;
     (_a2 = this.statusBar) == null ? void 0 : _a2.displayMessage(message.toLowerCase(), timeout);
     if (!this.settings.disablePopups) {
-      new import_obsidian30.Notice(message, 5 * 1e3);
+      if (!this.settings.disablePopupsForNoChanges || !message.startsWith("No changes")) {
+        new import_obsidian31.Notice(message, 5 * 1e3);
+      }
     }
-    console.log(`git obsidian message: ${message}`);
+    this.log(message);
   }
   displayError(message, timeout = 10 * 1e3) {
     var _a2;
     if (message instanceof Errors.UserCanceledError) {
-      new import_obsidian30.Notice("Aborted");
+      new import_obsidian31.Notice("Aborted");
       return;
     }
     message = message.toString();
-    new import_obsidian30.Notice(message, timeout);
+    new import_obsidian31.Notice(message, timeout);
     console.log(`git obsidian error: ${message}`);
     (_a2 = this.statusBar) == null ? void 0 : _a2.displayMessage(message.toLowerCase(), timeout);
+  }
+  log(message) {
+    console.log(`${this.manifest.id}: ` + message);
   }
 };
 /*! Bundled license information:

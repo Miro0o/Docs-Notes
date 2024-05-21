@@ -12,6 +12,7 @@
 
 ↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 ↗ [Virtual Routing and Forwarding (VRF)](../📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Virtual%20Routing%20and%20Forwarding%20(VRF).md)
+
 ↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 - ↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 - ↗ [SSH Tunneling](../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/📌%20SSH%20Basics/SSH%20Tunneling.md)
@@ -39,6 +40,11 @@
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230412170938.png)
 
+↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
+↗ [APN (Access Point Name)](APN%20(Access%20Point%20Name).md)
+↗ [Overlay Network](Overlay%20Network.md)
+
 
 
 ## Network Virtualization Technologies Taxonomy
@@ -64,7 +70,7 @@ Apart from the underlay network(IP network), **network overlays** are virtual ne
 
 3️⃣ You can also maintain the fabric scalability and flexibility, because the overlay virtual network no longer needs to be constrained to a single physical location. The overlay encapsulation also allows the underlying infrastructure address space to be administered separately from the tenant address space.
 #### OTV (Overlay Transport Virtualization)
-↗ [Overlay Network](Overlay%20Network/Overlay%20Network.md)
+↗ [Overlay Network](Overlay%20Network.md)
 #### LISP (Locator/Identifier Separation Protocol)
 
 #### VxLAN (Virtual Extensible LAN)

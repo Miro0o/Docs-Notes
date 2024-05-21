@@ -221,6 +221,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S1574013721000137?via%3Dih
 
 
 ### 恶意软件检测难题
+↗ [Anti-Reverse Engineering & Software Protection](../Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Reverse%20Engineering%20&%20Software%20Protection.md)
 #### 混淆技术
 https://www.mdpi.com/2076-3417/12/17/8482
 这些技术最初用于保护软件接触者的知识产权，但最后，恶意程序的编写者利用这些技术将其恶意软件转移到更难分析和检测的不同形式[106,107]。插入死码、注册表重新分配、指令重新排序和指令替换等技术被用来更新恶意软件的特征，同时实现相同的功能[108,109]。根据文献[87]，近 50%的未知恶意程序是旧恶意程序的不同变种，而文献[75]报告称，只有 20% 的新恶意软件是未见过的恶意软件，其中 80% 是相同恶意软件的不同变种。因此，由于恶意软件有多个变种，且各具特色，因此基于特征、序列或频率建立的恶意软件检测和分类模型的检测准确率很低。

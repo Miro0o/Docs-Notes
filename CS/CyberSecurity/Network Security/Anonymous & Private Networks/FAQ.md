@@ -4,7 +4,7 @@
 
 
 
-## 👉 How to Circumvent GFW 🇨🇳
+## 👉 How to Circumvent GFW and use Tor Network
 #GFW #network #proxy #Tor 
 
 📄 [how to circumvent GFW](https://support.torproject.org/censorship/connecting-from-china/)
@@ -155,3 +155,14 @@ Here is a very detailed tutorial about how to set up proxy from both cli & ui vi
 - 在 **任意** 订阅上使用你的规则
 - 拥有跨平台的、通用的、自动同步的自定义规则列表
 下面是正文，原文链接在 [https://luxirty.com/article/custom-clash-rule](https://luxirty.com/article/custom-clash-rule) 内容跟这里没区别，只多了一两句话
+
+
+
+## 👉 Comparing IPsec VPN vs SSL VPN
+#VPN #IPSec #SSL/TLS
+
+A Secure Socket Layer ([SSL](https://www.techtarget.com/searchsecurity/definition/Secure-Sockets-Layer-SSL)) VPN is another approach to securing a public network connection. The two can be used together or individually depending on the circumstances and security requirements.
+
+With an IPsec VPN, IP packets are protected as they travel to and from the IPsec gateway at the edge of a private network and remote hosts and networks. An SSL VPN protects traffic as it moves between remote users and an SSL gateway. IPsec VPNs support all IP-based applications, while SSL VPNs only support browser-based applications, though they can support other applications with custom development.
+
+Learn more about [how IPsec VPNs and SSL VPNs differ](https://www.techtarget.com/searchsecurity/feature/Tunnel-vision-Choosing-a-VPN-SSL-VPN-vs-IPSec-VPN)_ _in terms of authentication and access control, defending against attacks and client security. See what is best for your organization and where one type works best over the other.
