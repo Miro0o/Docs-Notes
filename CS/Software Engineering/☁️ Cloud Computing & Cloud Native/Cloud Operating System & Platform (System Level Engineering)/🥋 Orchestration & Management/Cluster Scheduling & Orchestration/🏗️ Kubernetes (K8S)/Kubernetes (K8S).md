@@ -46,5 +46,6 @@ curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 
 [👍 02-kubeadm初始化Kubernetes集群]: https://www.cnblogs.com/winstom/p/11159165.html
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230413102648.png)
+
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230413102702.png)
 

@@ -76,7 +76,7 @@ https://www.openk9.io
 
 
 ## 🎯 Dark Web Search & Tor
-↗ [Dark web](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Dark%20web.md)
+↗ [Darknet](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Darknet.md)
 ↗ [Onion Network & Tor](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Onion%20Network%20&%20Tor/Onion%20Network%20&%20Tor.md)
 
 

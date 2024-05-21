@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-
+↗ [Vulnerabilities](../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md)
 
 
 

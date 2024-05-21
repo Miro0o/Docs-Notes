@@ -26,4 +26,6 @@
 
 
 ## Ref
+[Encryption software | wikipedia]: https://en.wikipedia.org/wiki/Encryption_software#References
 
+![](../../../Assets/Pics/Screenshot%202024-05-21%20at%205.22.35%20PM.png)

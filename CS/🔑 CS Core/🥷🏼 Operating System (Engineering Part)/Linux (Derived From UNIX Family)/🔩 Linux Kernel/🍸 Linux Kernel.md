@@ -55,6 +55,9 @@ Professional Linux Kernel Architecture - Wolfgang Mauerer
 
 📂 [Embedded Linux Wiki](https://elinux.org/Main_Page)
 
+📄 https://developer.ibm.com/articles/l-linux-kernel/
+IBM | Anatomy of Linux Kernel
+
 
 
 ## Intro

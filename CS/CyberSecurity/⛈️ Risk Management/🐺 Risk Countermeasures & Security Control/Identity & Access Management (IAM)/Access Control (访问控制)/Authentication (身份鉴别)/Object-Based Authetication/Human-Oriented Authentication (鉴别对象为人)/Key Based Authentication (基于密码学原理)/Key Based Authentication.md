@@ -20,7 +20,7 @@
 - 要求验证者有声称者的有效公钥
 - 声称者有仅由自己知道和使用的秘密签名私钥
 
-↗ [Asymmetric Cipher](../../../../../../../../🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher/Asymmetric%20Cipher.md)
+↗ [Asymmetric Cipher (Public-Key Cryptography)](../../../../../../../../🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
 
 ### 👉 Certification Based Authentication (基于证书)
 Generally, for certificate-based authentication, the system will generate a digital certificate to validate the user. It can be generated from the user’s unique Id like voter ID, passport, or other. It contains the user’s public key and digital signature, with this system will identify the right user, A system takes a digital sign from a user and uses cryptography to make sure it’s a valid user. 

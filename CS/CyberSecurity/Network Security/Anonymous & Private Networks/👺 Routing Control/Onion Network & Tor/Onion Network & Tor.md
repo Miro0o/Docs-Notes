@@ -13,7 +13,7 @@ Tor Metrics archives historical data about the Tor ecosystem, collects data from
 
 
 ### Related Topics
-↗ [Dark web](../../Dark%20web.md)
+↗ [Darknet](../../Darknet.md)
 
 
 ### Tor Networks Sites Index
