@@ -9,7 +9,6 @@
 ↗ [WireGuard](../👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
 
 
-
 ### Proxy & GFW Info
 [墙知乎](https://wallzhihu.com)
 
@@ -19,7 +18,8 @@ duyaoss机场测速
 🔗 https://9.234456.xyz/abc.html
 机场推广列表
 
-### Proxy Service Providers
+
+### Proxy Services
 1. [qianglie](https://www.qianglie.com/#/profile)
 2. [AgentNEO](https://neoladder.com/dashboard)
 3. [GLaDOS](https://glados.rocks/register)
@@ -130,3 +130,4 @@ Because the Great Firewall blocks destination IP addresses and domain names and 
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/iaSnMfKUYm4sOz6tmzmupuLMQFxalo6DkfFsqbg1ibgCq7z3tIepetsiaDnuUUunds8fgsb7VoeF20DnpA29sZ1icA/640?wx_fmt=png)
 
 [SwitchyOmega | github]: https://github.com/FelisCatus/SwitchyOmega
+

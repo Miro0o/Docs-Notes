@@ -49,3 +49,6 @@ kaggle
 
 ![](../../Assets/Pics/Pasted%20image%2020240510154638.png)
 
+[Ilya sutskever's list of classic deep learning papers | X]: https://x.com/keshavchan/status/1787861946173186062
+
+[AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q

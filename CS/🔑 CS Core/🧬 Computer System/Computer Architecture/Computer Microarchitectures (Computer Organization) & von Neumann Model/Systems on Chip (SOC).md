@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Microchips, Chips, Computer Chips & IC (in General)](../../Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
 
 
 
@@ -19,6 +20,11 @@ A system on a chip is **a single piece of silicon** that contains all circuits r
 > For example, an Internet router may have several RISC processors that handle communications traffic and a CISC processor for configuration and management of the router itself.
 
 Although microcontroller memory is usually measured in kilobytes, SOCs can include memory on the order of megabytes. With their larger memories, SOCs accommodate full-featured **real-time operating systems**. The great advantage of SOCs is that they are faster, smaller, and more reliable, and they consume less power than the several chips they replace.
+
+---
+🔗 第一章 数字逻辑概论 - 罗小罗同学的文章 - 知乎 - https://zhuanlan.zhihu.com/p/485020828
+
+**SoC是将电子系统中所有不同的功能块集成在一个芯片中，称为片上系统**，如手机芯片、数字电视芯片、DVD芯片等。SoC 芯片的规模远大于普通的 ASIC，其设计方法进一步分工细化，出现了IP（Intellectual Property）设计和 SoC系统设计。**IP内核模块是一种已经过验证的、可重利用的、具有某种确定功能的模块。将数字电路中常用的但比较复杂的功能块**，如微处理器、微控制器、滤波器、嵌入式存储器、数字信号处理器等**设计成可修改参数的模块，让用户直接调用这些模块**，这样可以大大减轻工程师的负担，避免重复劳动。随着 CPLD/FPGA的规模越来越大，设计越来越复杂，**使用IP核是一个发展趋势**。
 
 
 ### off-the-self SOCs 🆚 Customization of SOCs

@@ -5,6 +5,11 @@
 
 
 ## Res
+### Related Topics
+↗ [Neural Network Models](🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)
+↗ [LLM (Large Language Model)](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+
+
 ### Learning Resource
 >  More on machine learning go to ↗️ [AI Basics & Machine Learning](../AI%20Basics%20&%20Machine%20Learning.md)
 
@@ -34,8 +39,8 @@ https://zhuanlan.zhihu.com/p/38431213 知乎花书各章笔记
 
 🏫 https://cs230.stanford.edu 
 
-### Models
-↗ [Neural Network Models](🗿%20Neural%20Network%20Models/Neural%20Network%20Models.md)
+🔥 📄 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+Papers must know to understand the world of deep learning & AIGC
 
 
 
@@ -62,3 +67,5 @@ Components in artificial neural networks:
 3.  **Bias:** Bias in a neural network is required to shift the activation function across the plane either towards the left or the right. We will cover it in more detail later.
 4.  **Summation function:** It is defined as the function which sums up the product of the weight and the features with bias.
 5.  **Activation function:** It is required to add non-linearity to the neural network model
+
+[AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q

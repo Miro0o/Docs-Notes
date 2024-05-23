@@ -48,15 +48,20 @@ Iceweasel is a rebranding of Mozilla Firefox. It is essentially Firefox but with
 
 Warning: Please be advised if you have a bug in Iceweasel, because it is not provided by a supported Ubuntu repository, the Ubuntu project is unable to provide support or a fix. If you want support, you may want to use firefox.1
 
+
+### 👉 Arc
+🏠 https://arc.net
+
+A better way to use the internet
+"Arc is the Chrome replacement I’ve been waiting for"
+
+
 ### Others..
 [LibreWolf](https://librewolf.net/) - A fork of Firefox, focused on privacy, security and freedom.
 
 [Vivaldi](https://vivaldi.com/) - The browser that puts you in control.
 
 [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy
-
-[Arc](https://arc.net/) - A better way to use the internet
-"Arc is the Chrome replacement I’ve been waiting for"
 
 
 

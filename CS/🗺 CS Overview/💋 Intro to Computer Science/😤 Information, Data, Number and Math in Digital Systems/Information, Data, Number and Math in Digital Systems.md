@@ -13,7 +13,7 @@
 
 ↗ [Algorithm & Data Structure](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
-↗ [Digital Electronics Foundations](../../../🔑%20CS%20Core/🧬%20Computer%20System/⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../🔑%20CS%20Core/🧬%20Computer%20System/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 
 

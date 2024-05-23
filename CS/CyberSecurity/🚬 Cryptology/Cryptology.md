@@ -126,3 +126,9 @@ Data Confidentiality, Data Integrity, Authentication and Non-repudiation are cor
 [1.6 密码系统的安全性（二）]: https://learnku.com/docs/cryptography/16-security-of-cryptographic-system-2/8922
 
 [🤔 关于密评，这10个问题你一定要知道！]: http://www.lingpan.cn/newsinfo/1183029.html
+
+[👍 密码学最好的课程是什么？ - 知乎]: https://www.zhihu.com/question/390212555
+直接上干货，个人觉得不用看别的了
+1. https://www.coursera.org/learn/cryptography
+2. https://www.coursera.org/learn/crypto
+3. https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH

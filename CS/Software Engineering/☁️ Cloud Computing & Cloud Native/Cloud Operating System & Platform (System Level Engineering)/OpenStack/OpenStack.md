@@ -54,7 +54,6 @@ Beyond standard infrastructure-as-a-service functionality, additional components
 
 
 ## OpenStack Organization &  Architecture
-
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240427154740.png)
 <small>https://www.openstack.org/software/</small>
 

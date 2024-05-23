@@ -10,6 +10,8 @@
 ↗ [System Level Programming](📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 ↗ [Embedded Operating Systems](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)
 
+↗ [OpenStack](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/OpenStack/OpenStack.md)
+
 
 ### Docs & Communities
 👥 📂 https://wiki.osdev.org/Main_Page
