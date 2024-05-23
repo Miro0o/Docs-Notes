@@ -308,6 +308,10 @@ https://www.uva.nl/en
 美国留学费用一年大概多少人民币呢？ - 小软学姐的回答 - 知乎 https://www.zhihu.com/question/484483695/answer/2550226160
 
 29所美国计算机硕士院校硕士项目申请难度分析汇总！ - 三只企鹅的文章 - 知乎 https://zhuanlan.zhihu.com/p/66272453
+
+美国人心中的顶尖大学，这可比排名真实多了…… - 再来人留学的文章 - 知乎
+https://zhuanlan.zhihu.com/p/529652091
+
 #### 👉 Arizona State University (ASU)
 ##### Computer Science (Cybersecurity), MS
 Applicants must fulfill the requirements of both the Graduate College and the Ira A. Fulton Schools of Engineering.

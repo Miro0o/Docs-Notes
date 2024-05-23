@@ -169,7 +169,7 @@ https://thehackernews.com
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Road%20To%20CTF.md)
 
-↗ [Security Related Conferences & Journals](../../Academics/🎻%20Academic%20Conference%20in%20Electronics%20&%20Information%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ---
@@ -189,7 +189,7 @@ CSAW (see-SAW) is the world's most comprehensive student-run cybersecurity event
 - Hack my Robot
 
 ---
-↗ [Defcon](../🗺%20CS%20Overview/📆%20Conference%20&%20Events/Security%20Events/Defcon.md)
+↗ [Defcon](../🗺%20CS%20Overview/📆%20Industry%20Conference%20&%20Events/Security%20Events/Defcon.md)
 
 DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
 

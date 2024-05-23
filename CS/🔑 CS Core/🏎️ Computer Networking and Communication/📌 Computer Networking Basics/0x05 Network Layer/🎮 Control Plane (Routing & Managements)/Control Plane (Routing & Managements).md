@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [NPU (Network Processing Unit)](../../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+↗ [NPU (Network Processing Unit)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
 
 
 ## Intro

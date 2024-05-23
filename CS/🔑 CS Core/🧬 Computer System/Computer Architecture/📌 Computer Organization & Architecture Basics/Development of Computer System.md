@@ -48,7 +48,7 @@
 
 
 ### 4️⃣ Quantum Computer
-↗ [Quantum Computing](../../Quantum%20Computing/Quantum%20Computing.md)
+↗ [Quantum Computing](../../Computing%20Systems/Quantum%20Computing/Quantum%20Computing.md)
 
 
 

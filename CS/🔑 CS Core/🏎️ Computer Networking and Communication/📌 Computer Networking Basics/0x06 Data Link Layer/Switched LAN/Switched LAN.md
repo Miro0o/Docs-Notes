@@ -101,3 +101,5 @@ In the case of a **dialup modem connection** between two hosts, the link connect
 [👍 全网最全网络基础思维导图（38张) | SDNLAB]: https://mp.weixin.qq.com/s/jlstOkjnJtrLKOGtWedebA
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240510150821.png)
+
+[👍 看MikroTik暴打H3C，顺便对比选型网络方案]: https://mp.weixin.qq.com/s/nuUsE-jnqxcmNOvqq-p8aw

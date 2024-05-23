@@ -137,7 +137,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ### 3️⃣ Dig into CS/IT Academia or Industry
 ↗ [Academics](../Academics/Academics.md)
-- ↗ [Academic Conference in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20in%20Electronics%20&%20Information%20Fields.md)
+- ↗ [Academic Conference & Journals in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
 - ↗ [Academic Institutions in Electronic & Information Fields](../Academics/🏢%20Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
@@ -604,3 +604,6 @@ https://github.com/Anduin2017/HowToCook
 👍 程序员能纯靠技术渡过中年危机吗？ - 接地气的陈老师的回答 - 知乎
 https://www.zhihu.com/question/264237428/answer/320325900
 
+[程序员核心竞争力 | 脉脉]: https://maimai.cn/n/content/feed-detail?efid=oPRMEXqLWHNV5X2b1dGPow&fid=1832670358&id=1832670358&share_channel=5&share_uid=234632291&operation_id=2_0513m8IsUZZ3h3cO7d9&use_rn=1&_share_channel=copy_link
+
+[落地才是大佬的核心竞争力]: 

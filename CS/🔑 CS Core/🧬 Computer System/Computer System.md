@@ -45,7 +45,7 @@ http://t.csdnimg.cn/fpEXy
 	3. 🍎 Physics
 		1. ↗ [Physics For CS](🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
 	4. ⛏ Electronic Technique Foundations
-		1. ↗ [Digital Electronics Foundations](⚡️%20Digital%20Electronics%20Foundations/Digital%20Electronics%20Foundations.md)
+		1. ↗ [Digital (Logic) Electronics Foundations](⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 	5. Computer Organization & Architecture
 		1. ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 	6. 🎛️ Operating System

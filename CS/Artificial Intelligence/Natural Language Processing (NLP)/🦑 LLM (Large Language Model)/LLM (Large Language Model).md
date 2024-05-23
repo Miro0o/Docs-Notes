@@ -27,12 +27,33 @@ A collection of papers and resources related to Large Language Models.
 The organization of papers refers to our survey [**"A Survey of Large Language Models"**](https://arxiv.org/abs/2303.18223).
 To facilitate the reading of our (English-verison) survey, we also translate a [**Chinese version**](https://github.com/RUCAIBox/LLMSurvey/blob/main/assets/LLM_Survey_Chinese.pdf) for this survey. We will continue to update the Chinese version.
 
+🔥 📄 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+Papers must know to understand the world of deep learning & AIGC
 
 ---
 🔥 🪜 https://github.com/Hannibal046/Awesome-LLM/tree/main
 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ![|500](../../../../Assets/Pics/Pasted%20image%2020240512212009.png)
+
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main#awesome-llm-) 
+    - [Milestone Papers](https://github.com/Hannibal046/Awesome-LLM/tree/main#milestone-papers)
+    - [Other Papers](https://github.com/Hannibal046/Awesome-LLM/tree/main#other-papers)
+    - [Open LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main#open-llm)
+    - [LLM Training Frameworks](https://github.com/Hannibal046/Awesome-LLM/tree/main#llm-training-frameworks)
+    - [LLM Evaluation Frameworks](https://github.com/Hannibal046/Awesome-LLM/tree/main#llm-evaluation-frameworks)
+    - [Tools for deploying LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main#deploying-tools)
+    - [Tutorials about LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main#tutorials)
+    - [Courses about LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main#courses)
+    - [Opinions about LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main#opinions)
+    - [Other Useful Resources](https://github.com/Hannibal046/Awesome-LLM/tree/main#other-useful-resources)
+    - [Contributing](https://github.com/Hannibal046/Awesome-LLM/tree/main#contributing)
+
+Trending LLM Projects
+- [LWM](https://github.com/LargeWorldModel/LWM) - Large World Model (LWM) is a general-purpose large-context multimodal autoregressive model.
+- [Sora](https://openai.com/sora) - Sora is an AI model that can create realistic and imaginative scenes from text instructions.
+- [Gemma](https://blog.google/technology/developers/gemma-open-models/) - Gemma is built for responsible AI development from the same research and technology used to create Gemini models.
+- [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 
 ---
 
@@ -43,11 +64,11 @@ Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ 
 
 
 ## Ref
-什么是LLM大语言模型？Large Language Model，从量变到质变 - 艾凡AFan的文章 - 知乎 https://zhuanlan.zhihu.com/p/622518771
+[什么是LLM大语言模型？Large Language Model，从量变到质变 - 艾凡AFan的文章 - 知乎]: https://zhuanlan.zhihu.com/p/622518771
 
-👍 大语言模型调研汇总 - guolipa的文章 - 知乎 https://zhuanlan.zhihu.com/p/614766286
+[👍 大语言模型调研汇总 - guolipa的文章 - 知乎]: https://zhuanlan.zhihu.com/p/614766286
 
-[大语言模型综述 | 中国人民大学高瓴人工智能学院]: http://ai.ruc.edu.cn/research/science/20230605100.html
+[👍 大语言模型综述 | 中国人民大学高瓴人工智能学院]: http://ai.ruc.edu.cn/research/science/20230605100.html
 
 [基于自然语言处理的漏洞检测方法综述]: https://m.fx361.com/news/2022/1215/16831048.html
 
@@ -62,3 +83,4 @@ Prompt Injection 是一种攻击技术，黑客或恶意攻击者操纵 AI 模�
 
 [深入剖析大模型安全问题：Langchain框架的隐藏风险 | 腾讯技术工程]: https://www.secrss.com/articles/59635
 
+[👍 AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q

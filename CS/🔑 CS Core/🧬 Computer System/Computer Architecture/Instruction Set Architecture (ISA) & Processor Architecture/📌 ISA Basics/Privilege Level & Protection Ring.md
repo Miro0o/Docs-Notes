@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [CPU (Central Processing Unit)](../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [CPU (Central Processing Unit)](../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 ↗ [Operating System (Theory Part)](../../../Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
 

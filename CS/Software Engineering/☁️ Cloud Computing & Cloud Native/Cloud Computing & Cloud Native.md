@@ -13,7 +13,7 @@
 ↗ [Edge & Frog Computing](../../Embedded%20&%20Internet%20of%20Things/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
 
 ↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
-↗ [Parallel Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
 
 
 ### Cloud Native Computing Foundation (CNCF)
