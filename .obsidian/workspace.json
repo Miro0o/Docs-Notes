@@ -19,8 +19,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cd912764806f939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cbb99ac26282abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/docs/2024信安赛作品申报书.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edfbb765ddacceb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/Culture Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -87,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack.md",
+                "file": "CS/CyberSecurity/Culture Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack.md",
+                "file": "CS/CyberSecurity/Culture Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack.md"
+                "file": "CS/CyberSecurity/Culture Security.md"
               }
             }
           },
@@ -156,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,55 +211,55 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dbc91973e3ce6f8f",
+  "active": "edfbb765ddacceb5",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Operating System (Engineering Part).md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
-    "CS/Software Engineering/🤖 AI x SE/LLM Dev/LLM Dev.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
-    "CS/Artificial Intelligence/Artificial Intelligence.md",
-    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Academic Conference & Journals in Electronics & Information Fields.md",
-    "CS/Academics/Academics.md",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/AI Networking/UEC (Ultra Ethernet Consortium).md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/🗿 Neural Network Models/Mamba/Mamba.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/🗿 Neural Network Models/CNN (Convolutional Neural Network)/YOLO (You Only Look Once)/YOLO (You Only Look Once).md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/3️⃣ Model Training/Model Validation/Task-specific Evaluation Metrics/Object Detection & YOLO.md",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/AI Chips & Processors/AI Chips & Processors.md",
-    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/🗿 Neural Network Models/Mamba",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/AI Networking/Ali HPN7.0.md",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/AI Networking/AI Networking.md",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/Untitled",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/AI Networking",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/AI Chips & Processors",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models/AI Infrastructure for Large Scale Deep Learning Models.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/C2 Proxy.md",
-    "CS/Artificial Intelligence/📌 AI Infrastructure for Large Scale Deep Learning Models",
-    "Assets/Pics/Pasted image 20240523155149.png",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/eBPF/eBPF.md",
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/👍 Vim.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Browsers.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Evaluation & Benchmarking Datasets.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/Network Emulators/Huawei Ensp_Pro.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/Network Emulators/Network Emulators.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/Network Emulators/Mininet.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/👰🏻‍♂️ Network Virtualization/Network Emulators",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/IDC & Data Center Networking",
-    "Assets/Pics/Pasted image 20240523150520.png",
-    "Assets/Cheat Sheets/科来《网络通讯协议图2023版》.pdf",
-    "Assets/Pics/Pasted image 20240523143039.png",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/ASIC (Application-Specific Integrated Circuit)/Semi-Customized ASIC/PPU (Physical Processing Unit)",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/ASIC (Application-Specific Integrated Circuit)/Semi-Customized ASIC/DSP (Digital Signal Processor)",
-    "Assets/Pics/Screenshot 2024-05-23 at 2.14.52 PM.png",
-    "Assets/Pics/Screenshot 2024-05-23 at 2.09.33 PM.png",
-    "Assets/Pics/Screenshot 2024-05-23 at 2.05.33 PM.png",
-    "Assets/Pics/Pasted image 20240523131535.png",
-    "Assets/Pics/Screenshot 2024-05-21 at 5.23.42 PM.png",
-    "Assets/Pics/Screenshot 2024-05-21 at 5.22.35 PM.png",
-    "Assets/Pics/Screenshot 2024-05-21 at 5.21.52 PM.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
+    "CS/CyberSecurity/Culture Security.md",
+    "Assets/docs/2024信安赛作品申报书.md",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/K8S.excalidraw.png",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/K8S.excalidraw.md",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/llm_agent_arch.excalidraw.md",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/File_Process.excalidraw.md",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.md",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.md",
     "Untitled.canvas",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.png",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.svg",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/File_Process.excalidraw.png",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.png",
+    "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.svg",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Motherboard & Mainboard.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/👧🏽 MARIE.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture and Flynn's Taxonomy.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/NUMA (Non-Uniform Memory Access)/NUMA (Non-Uniform Memory Access).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computing Systems/Parallel Computing/Parallel Computing.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessors and Multicore Processors.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Parallel Computing & Multiprocessor Architectures.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Computer Processors & Logic Chips.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/NUMA (Non-Uniform Memory Access)",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Vector Processors",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP).md",
+    "CS/🔑 CS Core/🧬 Computer System/System Software.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture and Flynn's Taxonomy",
+    "CS/🔑 CS Core/🧬 Computer System/Computing Systems/High Performance Computer (HPC).md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reconnaissance & Exploration/XMap.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🐐 GCC (The GNU Compiler Collection)/gcc (GNU C Compiler)/gcc (GNU C Compiler).md",
+    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Tree/Tree.md",
+    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Tree/Red-Black Tree (RB-Tree).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/epoll.md",
+    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Tree/Red-Black Tree (RB-Tree)",
+    "CS/Software Engineering/CLI Software Development/Untitled",
+    "CS/Software Engineering/CLI Software Development",
+    "Assets/Pics/Pasted image 20240525190610.png",
+    "Assets/Pics/Pasted image 20240525150554.png",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/JAVA Bytecode",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/JDK (Java Development Kit) Tools",
+    "Assets/Pics/Pasted image 20240523155149.png",
+    "Assets/Pics/Pasted image 20240523150520.png",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

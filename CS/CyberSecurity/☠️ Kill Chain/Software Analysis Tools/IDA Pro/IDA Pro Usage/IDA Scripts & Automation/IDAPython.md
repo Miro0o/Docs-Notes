@@ -40,3 +40,6 @@ IDApython主要有三个模块（这个我忘记在哪里看的了，之前摘�
 [How to execute ida-decompiler python script from IDAPython inside IDA Pro | Stackoverflow]: https://stackoverflow.com/q/20962038/16542494
 [IDAFunctionsDecompiler | Github]: https://github.com/JCGdev/IDAFunctionsDecompiler
 [ida-batch_decompile]:https://github.com/tintinweb/ida-batch_decompile
+
+[Is there a way to install Python 3 modules into IDAPython with pip? | StackExchange]: https://reverseengineering.stackexchange.com/q/30122/41934
+

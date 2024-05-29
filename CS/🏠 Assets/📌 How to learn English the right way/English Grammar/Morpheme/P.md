@@ -433,12 +433,46 @@
 		4. vt. 使变苍白, 使失色, 用栅栏围
 		5. 来自 pallere,苍白的，发白的，来自 PIE*pel,苍白的，发白的，词源同 fallow,pallor.
 		6. 来自拉丁语 palus,栅栏，围篱，桩，来自 PIE*pag,固定，标记，词源同 page,pole,palisade.拼写比较 rule,regulate.
-		7. paly
-		8. palish
-		9. paling
-		10. paleness
-		11. palely
-		12. paleface
+		7.  [picket](dic://picket)
+		8.  [blanch](dic://blanch), [blench](dic://blench)
+		9. [pallid](dic://pallid), [wan](dic://wan), [sick](dic://sick)
+		10. [pallid](dic://pallid)
+		11. [pallid](dic://pallid), [wan](dic://wan)
+		12. _n._ [strip](dic://strip)
+		13. _v._ [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color)
+		14. _adj._ [light](dic://light), [light-colored](dic://light-colored), [weak](dic://weak), [colorless](dic://colorless), [colourless](dic://colourless), [thin](dic://thin)
+		15. _n._ [dark](dic://dark), [strong](dic://strong), [colorful](dic://colorful), [colourful](dic://colourful), [full](dic://full)
+		16. **reddish**微红的;**greenish**呈绿色的;**yellowish**微黄色的;**brownish**呈褐色的;**brown**棕色的，褐色的;**silvery**似银的，银色的;**sickly**有病的，苍白的;**crimson**深红;**whitish**带白色的;**dark**黑暗的，深色的;**beige**米黄色;
+		17. _pale yellow_ adj. 淡黄色，浅黄色
+		18. _turn pale_ 变得苍白（脸色）
+		19. _pale green_ 淡绿，浅绿
+		20. _in pale_ (纹章图案)一个竖置于另一个之上的；(单图案)竖置于中部的
+		21. _pale pink_ 浅桃红，苍桃红色
+		22. _pale blue_ 淡蓝色
+		23. _pale brown_ 浅褐色，淡棕色
+		24. _pale red_ 浅红，淡红色
+		25. _look pale_ 面色苍白
+		26. _beyond the pale_ 在…范围之外
+		27. _pale purple_ 淡紫色，淡白紫；青莲色
+		28. _pale and wan_ 没有血色，脸色苍白
+		29. pale downy hair /柔软的浅色头发。
+		30. he was pale with exhaustion. /他累得脸色苍白。
+		31. pale pink politics. /带左倾色彩的政治观点。
+		32. an attractive girl with a pale complexion /肤色苍白的动人女孩。
+		33. it is a pale imitation of continental cheeses. /这是欧洲奶酪的一种不太成功的仿制品。
+		34. a pale shimmer of moonlight. /暗淡的月光。
+		35. Glancing disastrous light before that sunbeam pale. /在日光暗淡之前凝视着那毁灭的光亮。
+		36. He was pale green by now. /他这时脸色发青。
+		37. And beyond the pale, you tip the scales with record-setting veggies. /此外，还得吃点创造了记录的砂锅菜。
+		38. And I'm sorry... but that behavior is beyond the pale and cannot be tolerated. We are no longer friends /我也很抱歉...那这种行为让人忍无可忍 不可原谅 我们不再是朋友了。
+		39. It seemed beyond the pale of wildest conjecture to suppose that the Hon. /假设 Hon 似乎超出了最疯狂的猜测。
+		40. Yet it would be beyond the pale for them to declare that they want " appropriate firming of monetary policy and associated weakness in the stockmarket" -even if their meanings are closely aligned. /但是，如果他们宣称想要“适当紧缩的货币政策和相关的疲软的股市”就过分了，即使这两种说法几乎是一个意思。
+		41. paly
+		42. palish
+		43. paling
+		44. paleness
+		45. palely
+		46. paleface
 	3. palisade
 		1. n. 木栅 vt. 用栅栏围护
 		2. palisade [,pælɪ'seɪd] n.栅栏；木桩；细胞层，vt.用栅栏围护。前边说bailey是城堡的外栅，那可以想象到一定是用尖头的木桩固定在地面上，同理，表示木桩的拉丁词根pal-也有单词impale [ɪm'peɪl] v.刺穿；钉住；使绝望和pale [peɪl] n.栅栏等存在。换个思路，中文里的“栅”字，从木，册象形也。 ​​
@@ -3994,22 +4028,29 @@
 		13. purgatorial
 		14. purgatory
 		15. purge
-			1. [purging](dic://purging), [purgation](dic://purgation)
-			2. [purging](dic://purging)
-			3. [purify](dic://purify), [sanctify](dic://sanctify)
-			4. [flush](dic://flush), [scour](dic://scour)
-			5.  [vomit](dic://vomit), [vomit up](dic://vomit up), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [disgorge](dic://disgorge), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
-			6. _n._ [clearing](dic://clearing), [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
-			7. _v._ [persecute](dic://persecute), [oppress](dic://oppress), [acquit](dic://acquit), [assoil](dic://assoil), [clear](dic://clear), [discharge](dic://discharge), [exonerate](dic://exonerate)
-			8. _n._ [rehabilitate](dic://rehabilitate)
-			9. **cleanse**净化;**rid**使去掉;**cleansing**清洁,使清洁的人或物;**expel**驱逐;**remove**移开;**purify**净化;**suppress**抑制;**dump**倾倒;**cleansed**清洗过的;**wipe**擦;**eliminate**消除, 排除;
-			10. _purge gas_ 净化气体；吹扫用的气体
-			11. _purge of_ 清洗，清除
-			12. _air purge_ 空气吹扫；空气净化
-			13. _gas purge_ 气体清洗；气体净化
-			14. an opportunity to purge the party of unsatisfactory members. /清除党内不称心的党员的好时机。
-			15. Try to purge your spirit of hatred. /尽量涤净你灵魂中的仇恨。
-			16. a purge of the ruling class is absolutely necessary. /完全有必要对统治阶级进行一次清洗。
+			1. n. 净化, 清除, 泻药  
+			2. v. (使)净化, 清除, (使)通便
+			3. v. 清洗（组织中的异己分子）；清除，排除（不愉快的情况或感觉）；删除（不需要的东西） ；催泻，通便；<法律>弥补，消除（蔑视法庭罪）；（尤指由于患有贪食症）使吐出吃下的食物，催吐 
+			4. n. （对异己的）清洗，排除；泻药
+			5. 来自拉丁语 purgare,纯化，清洗，使干净，来自 purigare,使纯化，来自 purus,纯的，词源同pure,-ig,驱动，使，做，词源同 agent,litigate.
+			6. [purging](dic://purging), [purgation](dic://purgation)
+			7. [purging](dic://purging)
+			8. [purify](dic://purify), [sanctify](dic://sanctify)
+			9. [flush](dic://flush), [scour](dic://scour)
+			10.  [vomit](dic://vomit), [vomit up](dic://vomit up), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [disgorge](dic://disgorge), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
+			11. _n._ [clearing](dic://clearing), [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
+			12. _v._ [persecute](dic://persecute), [oppress](dic://oppress), [acquit](dic://acquit), [assoil](dic://assoil), [clear](dic://clear), [discharge](dic://discharge), [exonerate](dic://exonerate)
+			13. _n._ [rehabilitate](dic://rehabilitate)
+			14. **cleanse**净化;**rid**使去掉;**cleansing**清洁,使清洁的人或物;**expel**驱逐;**remove**移开;**purify**净化;**suppress**抑制;**dump**倾倒;**cleansed**清洗过的;**wipe**擦;**eliminate**消除, 排除;
+			15. _purge gas_ 净化气体；吹扫用的气体
+			16. _purge of_ 清洗，清除
+			17. _air purge_ 空气吹扫；空气净化
+			18. _gas purge_ 气体清洗；气体净化
+			19. an opportunity to purge the party of unsatisfactory members. /清除党内不称心的党员的好时机。
+			20. Try to purge your spirit of hatred. /尽量涤净你灵魂中的仇恨。
+			21. a purge of the ruling class is absolutely necessary. /完全有必要对统治阶级进行一次清洗。
+			22. And they try to purge us, we got to purge them first. /而且他们想杀我们的话 我们先把他们弄死。
+			23. I like that word, purge a bunch of stuff./我喜欢这个词，清理一堆东西。
 		16. unpurged
 	2. compurgation
 		1. com-一起 + purg-纯洁 + -ation

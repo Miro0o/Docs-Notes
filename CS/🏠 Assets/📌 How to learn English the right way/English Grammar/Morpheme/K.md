@@ -2673,7 +2673,17 @@
 		2. four-cornered
 		3. cornerwise
 		4. cornerways
-		5. cornerstone
+		5. cornerstone (capstone)
+			1. n. 奠基石, 基础
+			2. _n._ [assumption](dic://assumption), [supposition](dic://supposition), [supposal](dic://supposal), [stone](dic://stone)
+			3. **foundational**基本的;**foundation**建立, 设立, 创办;**hallmark**品质证明;**mainstay**支柱;**bedrock**根底;**groundwork**基础工作;**underpinning**基础,支柱,支撑;**integral**构成整体所必需的;**pillar**柱子，柱形物;**pillars**柱子;**centerpiece**中心装饰品;
+			4. _[spiritual cornerstone](dic://spiritual%20cornerstone)_ 精神基石 
+			5. the cornerstone of an argument. /争论的基础
+			6. Hard work is the cornerstone of success. /努力工作是成功的首要因素。
+			7. Wage control is the cornerstone of the government’s economic policy. /控制工资是政府经济政策的基础。
+			8. The mayor laid the cornerstone of the new library. /市长为新图书馆奠基。
+			9. Natural selection is the cornerstone principle of evolution /物竞天择说是进化论的基础原则。
+			10. The doctrine of surplus value is the **cornerstone** of Marx's economic theory. /剩余价值学说是马克思经济理论的基石。
 		6. corneror
 		7. cornerer
 		8. cornered
@@ -2863,15 +2873,58 @@
 		1. 来自盎格鲁法语*escauberc,剑鞘，来自 Proto-Germanic*sker-berg,剑鞘，来自 PIE*sker,砍，劈，词源同 score,shear,-berg,保护，来自 PIE*berg,保护，词源同 burg,bury.词义由砍，劈引申为刀，剑。
 		2. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
 	5. scar
-	6. scarp
-	7. share
-	8. sharp
-	9. shear
+		1. score（分数）：古代用来计数的刻痕  
+		2. 在人类进化的早期，人们就已经发明了各种方法来记录数字，有代表性的方法有石子计数法、结绳计数法和刻痕计数法等。刻痕计数法就是在木头、兽骨、石块上留下刻痕，通过刻痕来记录数字。1937年在维斯托尼斯（摩拉维亚）发现一根40万年前的幼狼前肢骨，7英寸长，上面有55道很深的刻痕。这是已发现的用刻痕方法计数的最早资料。  
+		3. 在古代北欧地区，牧羊人利用刻痕计数法来记录自己的羊群数量。英语单词score就源自北欧语skor，本意是“刻痕”。由于当地人采用20进制，一条刻痕代表20，所以score也就含有“20”的意思。  
+		4. 单词scar（疤痕）的来源也与score相关，都出自古北欧语。  
+		5. score：[skɔː] n.分数，二十，刻痕，配乐v.计分，得分，刻划，记下，评价  
+		6. scar：[skɑr] vt. 伤害；给留下伤痕vi. 结疤；痊愈n. 创伤；伤痕
+	6. score
+		1. n. 得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量  
+		2. vt. 刻划, 划线, 获得, 评价, 把...记下  
+		3. vi. 刻痕, 记分, 得分
+		4. - n. （游戏或比赛中的）得分，比分；（测验的）评分，分数；<非正式>实情，真相（the score）；<非正式>毒品到手；<非正式>犯罪所得；<正式>二十，约二十个（复数 score）；<正式>很多，大量（scores）；（一首乐曲的）总谱；（电影或戏剧的）配乐；刻痕，划痕；宿怨；<史>（尤指酒馆中有对应顾客名字刻痕的）往来账户 
+		5. v. （在运动、比赛或考试中）得（分）；评分，打分数；（在游戏或比赛中）记分；（棒球）使（队友）得分；<非正式>（使）成功，赢得；<英，非正式> （尤指在辩论等活动中机灵地）驳倒，挫败（score off）；<非正式>购买，弄到（毒品）；<美，非正式>得到（某事物）；<非正式>（通常指与新认识的人）发生性关系；为……写总谱，为……配乐；（在表面上）刻痕，画线；画掉，删去（score sth. out/through）；检测（实验细胞、菌落等），并记录有某种特征的数量
+		6.  [mark](dic://mark), [grade](dic://grade)
+		7.  [musical score](dic://musical score)
+		8. [account](dic://account)
+		9. [scotch](dic://scotch)
+		10. [grudge](dic://grudge), [grievance](dic://grievance)
+		11.  [sexual conquest](dic://sexual conquest)
+		12. [hit](dic://hit), [tally](dic://tally), [rack up](dic://rack up)
+		13. [nock](dic://nock), [mark](dic://mark)
+		14. [seduce](dic://seduce), [make](dic://make)
+		15. [grade](dic://grade), [mark](dic://mark)
+		16. _n._ [evaluation](dic://evaluation), [valuation](dic://valuation), [rating](dic://rating), [sheet music](dic://sheet music), [number](dic://number), [set](dic://set), [reason](dic://reason)
+		17. _v._ [gain](dic://gain), [advance](dic://advance), [win](dic://win), [pull ahead](dic://pull ahead), [make headway](dic://make headway), [get ahead](dic://get ahead), [gain ground](dic://gain ground)
+		18. **tally**帐;**rating**等级;**scoreboard**记分板;**points**点;**goal**目标;**credit**信用，信誉;**touchdown**触地;**orchestral**管弦乐队的;
+		19. What sober man's key could have scored those grooves? /清醒的人插钥匙，不是一插就进去吗？
+		20. They cheer like mad when the strikers score /当前锋进球时他们疯狂地欢呼。
+		21. score sheet
+			1. Now, on this little score sheet, there is at the end a place for a score /现在，在这个小记分表上，最后有一个地方可以得分。
+			2. Let me show you how to make a score sheet. /让我来教你如何制作成绩单。
+		22. underscore
+		23. threescore
+		24. fourscore
+		25. sixscore
+		26. eightscore
+		27. scoring
+		28. scorer
+		29. scoreless
+		30. scorekeeping
+		31. scorekeeper
+		32. scorecard
+		33. scorebook
+		34. autoscore
+	7. scarp
+	8. share
+	9. sharp
+	10. shear
 		1. _n._ [deformation](dic://deformation), [edge tool](dic://edge tool)
 		2. _v._ [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [trim](dic://trim), [lop](dic://lop), [dress](dic://dress), [prune](dic://prune)
 		3. **tensile**拉力的;**deformation**损形;**axial**轴的;**deflection**突然转向,偏斜,偏离;**permeability**弥漫;**stiffness**僵硬;**friction**摩擦，摩擦力;**stress**压力;**turbulence**气体或水的涡流;**rigidity**硬度，刚性;**viscosity**黏稠;
-	10. shirt
-	11. short
+	11. shirt
+	12. short
 		1. shortcoming
 		2. short-lived
 		3. shortish
@@ -2885,8 +2938,8 @@
 		11. short-run
 		12. cold-short
 		13. etc..
-	12. skirt
-	13. 
+	13. skirt
+	14. 
 7. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius

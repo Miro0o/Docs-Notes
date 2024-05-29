@@ -295,39 +295,111 @@
 	9. metalanguage
 	10. metalinguistics
 	11. metamer
+		1. n. 条件等色；[有化] 位变异构体
 	12. metamere
 	13. metamorphic
-	14. metamorphism
-	15. metamorphose
-	16. metamorphosis
-	17. metaphase
-	18. metaphor
+		1. - adj. 变质的；变性的；变态的
+		2. _adj._ [metamorphosis](dic://metamorphosis), [metabolism](dic://metabolism), [epimorphic](dic://epimorphic), [hemimetabolous](dic://hemimetabolous), [hemimetabolic](dic://hemimetabolic), [hemimetamorphous](dic://hemimetamorphous), [hemimetamorphic](dic://hemimetamorphic)
+		3. _n._ [nonmetamorphic](dic://nonmetamorphic)
+		4. **sedimentary**沉积的;**tectonic**构造的;**magma**岩浆;**geologic**地质的;**geological**地质的;**volcanic**火山的;**crystalline**水晶的;**deformation**损形;**glacial**冰的;**limestone**石灰岩;**strata**层;
+		5. It's a metamorphic rock, which means it becomes something new under extreme heat and pressure without melting. /这是一种变质岩，这意味着它在极端高温和高压下会变成新的东西而不会融化。
+		6. And baby bees do their change locked inside tiny hexagonal prison cells like some weird dystopian metamorphic " Matrix." /小蜜蜂们把自己锁在狭小的六边形牢房里，就像一个怪异的反乌托邦蜕变“黑客帝国”。
+		7. The new metamorphic rocks are typically harder, more compact, and are more resistant to weathering. /新的变质岩通常更硬、 更致密，并且更耐风化。
+	15. metamorphism
+	16. metamorphose
+	17. metamorphosis
+	18. metaphase
+	19. metaphor
 		1. **metaphorical**隐喻般的;**analogy**类似;**allegory**寓言;**allusion**暗示;**metaphorically**用比喻地;**symbolism** 象征主义, 象征手法;**literal**逐字的;**symbolic**使用符号的;**figurative**比喻的;**idiom**成语，习语;**parable**寓言，比喻;
 		2. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
-	19. metaphrase
-	20. metaphysic
-	21. metaplasia
-	22. metaplasm
-	23. metapsychology
-	24. metascope
-	25. metastable
-	26. metastasis
-		1. **tumor**肿瘤;**tumors**肿瘤;**tumour**肿瘤;**carcinoma**癌;**melanoma**黑素瘤;**cancers**癌症;**cancer**癌症;**colorectal**结肠直肠的;**malignant**有恶意的;**resection**切除术;**lymphoma**淋巴瘤;
-		2. [pathologic process](dic://pathologic process), [pathological process](dic://pathological process), [organic process](dic://organic process), [biological process](dic://biological process)
-		3. metastasize
-		4. metastatic
-	27. metatarsal
-	28. metatarsus
-	29. metathesis
-	30. metathorax
-	31. metatrophy
-	32. metazoan
-	33. metempsychosis
-	34. metencephalic
-	35. metencephalon
-	36. meteor
-	37. method
-	38. etc..
+	20. metaphrase
+		1. n. 直译，逐字翻译
+		2. vt. 逐字翻译
+	21. metaphrast
+		1. _n._ 改编者,改写者(如将散文改写成诗歌的人)
+	22. metaphysic
+		1. _[metaphysic](dic://metaphysic)_  n. 形而上学；玄学; adj. 玄学的；形而上学的（等于 metaphysical）;
+		2. a belief in luck, the metaphysic of the gambler. /笃信运气，赌博者的基本原则
+		3. Metaphysics is part and parcel of the idealist world outlook. /形而上学是唯心主义世界观的组成部分。
+		4. And it had no truck with metaphysics of any kind /它没有任何形式的形而上学。
+	23. metaplasia
+		1. n. [医] 化生，[医] 转化；[医] 组织变形
+	24. metaplasm
+	25. metapsychology
+	26. metascope
+		1. n. 红外线显示器；红外线指示器
+	27. metastable
+	28. metastasis
+		1. meta-,改变，-st,站立，位于，词源同 stand.-asis,表状态。后指疾病从身体一个部位转移到另一个部位。
+		2. **tumor**肿瘤;**tumors**肿瘤;**tumour**肿瘤;**carcinoma**癌;**melanoma**黑素瘤;**cancers**癌症;**cancer**癌症;**colorectal**结肠直肠的;**malignant**有恶意的;**resection**切除术;**lymphoma**淋巴瘤;
+		3. [pathologic process](dic://pathologic process), [pathological process](dic://pathological process), [organic process](dic://organic process), [biological process](dic://biological process)
+		4. Metastases to the myocardium are less common, but arise more commonly when cancer spreads via the blood /然而转移到心肌并不是很常见，但是当癌细胞传播到血液中时，心肌癌的可能性将会升高。
+		5. Then they give you a high-dose chemotherapy, and you have metastasis. /然后他们给你一个高剂量的化疗，你有转移。
+		6. metastasize
+			1. vi. 转移；迁徙
+			2. _v._ [spread](dic://spread), [distribute](dic://distribute)
+			3. **metastasis**转移;**tumors**肿瘤;**metastases**移位变化;**cancerous**癌的;**tumor**肿瘤;**malignant**有恶意的;**cancers**癌症;**melanoma**黑素瘤;**tumour**肿瘤;**cancer**癌症;**carcinoma**癌;
+			4. cancers that metastasize to the brain /转移到脑部的癌。
+			5. Ms. Carver, unfortunately we found that the cancer has metastasized to your chest wall. /Carver 夫人，很不幸，我们发现癌细胞已经转移到你的胸腔了。
+			6. Immature teratomas tend to be malignant and metastasize quickly /未成熟畸胎瘤有恶性倾向，并且转移很快。
+			7. The cancer had metastasized to my lymph nodes and the statistics were not great for long-term survival /癌细胞已经扩散到我的淋巴腺。从统计数据来看，我的时间不多了。
+		7. metastatic
+			1. Got a lot of metastatic disease here. /我们这儿又有很多转移瘤。
+			2. This widespread calcification of healthy tissues is called metastatic calcification. /这种广泛的健康组织钙化称为转移性钙化。
+			3. When this happens the cancer has become metastatic and is most dangerous. /当这种情况发生时，癌症就已经转移，这是最危险的。
+	30. metatarsal
+		1. _adj._ 跖骨的
+		2. _n._ 跖骨
+		3. _n._ [bone](dic://bone), [os](dic://os)
+		4. _adj._ [metatarsus](dic://metatarsus)
+		5. **femur**股骨;**ankle**踝关节，踝;**toe**脚趾;**fracture**破裂，断裂;**vertebrae**椎骨;**femoral**股骨的;**plantar**脚底的;**shin**胫骨;**tendon**腱;**ligament**韧带;**heel**脚后跟;
+		6. I broke all five metatarsals across the top of my foot, did a Lisfranc fracture which is that this part of the foot /我脚上所有的五个髌骨都骨折了，做了利弗兰奇骨折手术，也就是脚的这部分。
+		7. High levels of uric acid can also cause gouty arthritis, most commonly in the first metatarsaljoint which is the base of the big toe /高尿酸会导致痛风性关节炎，最常发生于第一跖骨关节即拇趾的基底部。
+		8. I broke two fingers on my left hand, and a metatarsal, which poked through the skin of my foot and caused one of the medical students to faint. /我折断了左手的两根手指和一块跖骨，它戳穿了我脚上的皮肤， 导致一名医学生晕倒。
+	31. metatarsus
+	32. metathesis
+		1. _n._ [linguistic process](dic://linguistic process), [chemical reaction](dic://chemical reaction), [reaction](dic://reaction)
+		2. **polymerization**聚合;**phonetic**语音的，语音学的;**vowel**元音;**derivation**发展;**synthesis**综合, 综合法;**consonant**辅音;**pronunciation**发音;**vowels**元音，母音;**hydrolysis**水解;**catalytic**接触反应的;
+		3. n. 音位转换；置换作用；交换；[医] 病变移植
+	33. metathorax
+	34. metatrophy
+		1. n. 寄生吸食，后生营养（特指菌类）；营养障碍
+	35. metazoan
+		1. adj. 后生动物的；多细胞动物的 
+		2. n. 后生动物；多细胞动物
+		3. _n._ [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature), [fauna](dic://fauna)
+		4. **vertebrate**脊椎动物;**eukaryotic**真核状态的;**mammalian**哺乳动物;**taxa**分类;**phylogenetic**系统发生的,动植物种类史的;**genomes**基因组;**mammals**哺乳类;**homology**相同;**organism**有机体;**proteins**蛋白质;**bacterial**细菌的;
+		5. The metazoan zooplankton species were mainly composed of eurythermal ones and only a few thermophil ones were also found. /星湖的后生浮游动物基本上为广温种类，兼具一些嗜暖种。
+		6. Several **Metazoan** ! I would like to ask the mountain toward the river side is what? /几位后生！请问那座山向著大河的一面是个什麽样子？
+	36. metempsychosis
+	37. metencephalic
+	38. metencephalon
+	39. meteor
+		1. n. 流星；大气现象
+		2. [shooting star](dic://shooting star)
+		3. [meteoroid](dic://meteoroid)
+		4. _n._ [light](dic://light), [visible light](dic://visible light), [visible radiation](dic://visible radiation), [extraterrestrial object](dic://extraterrestrial object), [estraterrestrial body](dic://estraterrestrial body)
+		5. **meteorite**陨星;**fireball**火球;**comet**彗星;**asteroid**小行星;**comets**彗星;**lightning**闪电;**thunderstorm**雷电交加的暴风雨;**celestial**天的, 天空的;**orb**天体;**sky**天空;**extraterrestrial**地球外的;
+		6. _meteor shower_ [天]流星雨
+		7. On a clear night scores of meteors streak the sky /在晴朗的夜晚, 好几十颗流星划破长空。
+		8. the best times to observe these meteors are after moonset. /观察这些流星的最佳时刻是月落之后。
+		9. Others speculated it was a meteor or aliens. /其他人则猜测它是一颗流星或者外星人。
+		10. Those are the meteors, not to be confused with meteoroids or meteorites. /那些就是流星，不要和流星体或陨石搞混。
+	40. method
+		1. n. 方法，办法；条理；体验派表演方法
+		2. [method acting](dic://method acting)
+		3. _n._ [know-how](dic://know-how), [acting](dic://acting), [playing](dic://playing), [playacting](dic://playacting), [performing](dic://performing)
+			1. [manner](dic://manner) 多指行动的特殊方式或独特的方法。  
+			2. [method](dic://method) 指有系统、有条理地办事或解决问题的方法。  
+			3. [way](dic://way) 普通用词，可指一般的方法，有时也指个人的方法或方式，也可指特殊的方式或方法。  
+			4. [mode](dic://mode) 书面用词，常指因个人爱好或传统习俗等因素而遵循的方法。  
+			5. [fashion](dic://fashion) 着重独特的程序或方式，尤指个人的偏爱或习惯。  
+			6. [means](dic://means) 指为达到某种目的或目标而采用的方法、手段或途径。  
+			7. [approach](dic://approach) 指从事某事的特别方法、途径。
+		4. **technique**技术;**methodology**方法学;**techniques**技术;**procedure**程序;**approach**接近;**apparatus**运动器械, 器具, 仪器;**calculation**计算;**estimation**估计, 评价, 判断;**mechanism**机械装置;**algorithm**算法;**tactic**策略，战略;
+		5. _analysis method_ 解析法；离子微探针质谱仪分析法
+		6. _design method_ 设计方法，设计法
+	41. etc..
 #### + \*me- (3) + = to measure
 1. **-meter** = instrument to measure, 表示“（测量）仪器”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
 2. **-metry** = process of measuring, 表示“（测量）术”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."

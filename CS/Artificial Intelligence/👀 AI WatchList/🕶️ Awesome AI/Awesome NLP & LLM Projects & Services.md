@@ -45,6 +45,7 @@ Related Projects
 https://poe.com
 #### Suno AI
 #### Coze
+https://www.coze.com
 #### Groq
 https://wow.groq.com/why-groq/
 #### pi

@@ -49,9 +49,9 @@ NIST - The documentation of a predetermined set of instructions or procedures to
 - 建立计算机安全事件应急响应工作组与国家、行业相关组织的联络、报告和协调机制。
 
 #### Incidence Response Mechanisms
-![](../../../../../Assets/Pics/Screenshot%202023-11-01%20at%207.31.56PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-01%20at%207.31.56PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-01%20at%207.31.38PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-01%20at%207.31.38PM.png)
 
 
 
@@ -63,15 +63,15 @@ An incident response plan is a documented, written plan with 6 distinct phases t
 #### NIST Framework
 > 🔗 https://www.hhs.gov/sites/default/files/cybersecurity-incident-response-plans.pdf
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-02%20at%209.30.21AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-02%20at%209.30.21AM.png)
 
 > Currently in a draft phase, with an expected release date of early 2024.
 
 
 ### Incidence Response Lifecycle
-![](../../../../../Assets/Pics/Pasted%20image%2020231101194601.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020231101194601.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-11-02%20at%209.25.58AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-11-02%20at%209.25.58AM.png)
 
 #### 1️⃣ Preparation
 This phase will be the work horse of your incident response planning, and in the end, the most crucial phase to protect your business. Part of this phase includes:  

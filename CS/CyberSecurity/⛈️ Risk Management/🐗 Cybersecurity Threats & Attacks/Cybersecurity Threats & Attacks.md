@@ -22,20 +22,24 @@
 
 
 ## Intro
-### IOA (Indicator of Attack)
+### Glossary
+#### IOA (Indicator of Attack)
 
 
-### IOC (Indicator of Compromise)
+#### IOC (Indicator of Compromise)
 
 
-### POC (Proof of Concepts)
+#### POC (Proof of Concepts)
 
 
-### Exp (Exploit)
+#### EXP (Exploit)
 
 
 
 ## Major Threats & Countermeasures
+↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+
+
 ### 1️⃣ /2️⃣ /3️⃣ CIA Threats
 ↗ [CIA Threats & Countermeasures](CIA%20Threats%20&%20Countermeasures.md)
 
@@ -74,7 +78,6 @@
 验证者发送随机值（如质询）：不可预测、不重复
 
 ↗ [Chaos Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Chaos%20Theory/Chaos%20Theory.md)
-
 ###### Challenge /Response
 ↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 

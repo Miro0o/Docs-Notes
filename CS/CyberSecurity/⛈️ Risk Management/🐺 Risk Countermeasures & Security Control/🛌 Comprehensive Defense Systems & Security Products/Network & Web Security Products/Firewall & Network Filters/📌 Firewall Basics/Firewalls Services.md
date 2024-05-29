@@ -48,9 +48,9 @@
 - 基于网址
 - 基于**MAC**地址
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.22.58AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.22.58AM.png)
 
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.23.13AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.23.13AM.png)
 
 ### 👉 Authentication 
 多种鉴别方式和第三方鉴别
@@ -60,7 +60,7 @@
 - 支持**S/KEY** 、**SECUID**、**VIECA**、**LDAP**、域鉴别等鉴别
 
 ### 👉 IP-MAC Binding
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.24.02AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.24.02AM.png)
 
 ### 👉 Log Audit
 1. 会话日志：即普通连接日志
@@ -74,12 +74,12 @@
 
 ## Extended Firewall Services
 ### 👉 DHCP Support
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.24.17AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.24.17AM.png)
 
 ### 👉 NAT（网络地址转换）
 > 仅对IP进行转换
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-01-05%20at%2012.57.51PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202024-01-05%20at%2012.57.51PM.png)
 
 - 隐藏了内部网络的结构
 - 内部网络可以使用私有**IP**地址
@@ -88,16 +88,16 @@
 ### 👉 MAP（地址/端口映射）
 > 对IP+port number进行转换
 
-![](../../../../../../../../Assets/Pics/Screenshot%202024-01-05%20at%2012.58.49PM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202024-01-05%20at%2012.58.49PM.png)
 
 1. 公开服务器可以使用私有地址
 2. 隐藏内部网络结构
 
 ### 👉 High-Availability
 #### Two-host Recovery (双机热备)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.25.50AM.png)
+![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.25.50AM.png)
 #### Load-Balancing
-↗ [Load Balancing Servers](../../../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Load%20Balancing%20Servers/Load%20Balancing%20Servers.md)
+↗ [Load Balancing Servers](../../../../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Load%20Balancing%20Servers/Load%20Balancing%20Servers.md)
 
 负载均衡算法：
 - 轮流

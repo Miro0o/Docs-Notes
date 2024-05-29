@@ -112,16 +112,17 @@
 	10. But the caulking mallet is full of it. /我这个捻缝的木槌里可都是音乐。
 	11.  And shall I caulk the seams, sir? " moving his hand as with a caulking-iron. /“我要把缝隙都堵死吗，先生？”他挥着手，像左右摆着一把堵缝凿。
 21. causeway
-	1. n. 堤道；铺道 
-	2. vt. 筑堤道于……
-	3. _n._ [road](dic://road), [route](dic://route)
-	4. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [pave](dic://pave)
-	5. **bridge**桥;**jetty**码头;**pier**水上平台, 码头;**walkway**通道，走道;**waterway**水路;**footpath**小路;**boardwalk**用木板铺成的小道;**peninsula**半岛;**ferry**渡口;**wharf**码头;**lagoon**泻湖;
-	6. As he fled, Benandonner tore up the rocks connecting the shores, breaking up the causeway /当他逃离时，Benandonner撕毁了连接海岸的岩石，打破了堤道。
-	7. " By the causeway? Against Moat Cailin" ? /" 通过堤道？强攻卡林湾？"
-	8. It's the site of what we call a causewayed enclosure. /堤道围墙的所在地。
-	9. The narrow causeway meandered sinuously among the green rice-fields /狭窄的堤道在绿色的稻田间蜿蜒曲折。
-22. chalk
+	1. 来自 calc-,石子，石灰，词源同 calculate,chalk.指用石子或石灰铺的路。s
+	2. n. 堤道；铺道 
+	3. vt. 筑堤道于……
+	4. _n._ [road](dic://road), [route](dic://route)
+	5. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [pave](dic://pave)
+	6. **bridge**桥;**jetty**码头;**pier**水上平台, 码头;**walkway**通道，走道;**waterway**水路;**footpath**小路;**boardwalk**用木板铺成的小道;**peninsula**半岛;**ferry**渡口;**wharf**码头;**lagoon**泻湖;
+	7. As he fled, Benandonner tore up the rocks connecting the shores, breaking up the causeway /当他逃离时，Benandonner撕毁了连接海岸的岩石，打破了堤道。
+	8. " By the causeway? Against Moat Cailin" ? /" 通过堤道？强攻卡林湾？"
+	9. It's the site of what we call a causewayed enclosure. /堤道围墙的所在地。
+	10. The narrow causeway meandered sinuously among the green rice-fields /狭窄的堤道在绿色的稻田间蜿蜒曲折。
+23. chalk
 	1. vt. 用粉笔写；用白垩粉擦；记录；规划
 	2. n. 粉笔；白垩；用粉笔划的记号
 	3. adj. 用粉笔写的
@@ -144,7 +145,7 @@
 	20. Will a black chalk chalk on a white blackboard? /黑色的粉笔会在白色的黑板上写字吗?
 	21. No dude, not by a long chalk. /远远不是。
 	22. 
-23. osteocalcin
+24. osteocalcin
 
 
 ### cancel-,carcer-

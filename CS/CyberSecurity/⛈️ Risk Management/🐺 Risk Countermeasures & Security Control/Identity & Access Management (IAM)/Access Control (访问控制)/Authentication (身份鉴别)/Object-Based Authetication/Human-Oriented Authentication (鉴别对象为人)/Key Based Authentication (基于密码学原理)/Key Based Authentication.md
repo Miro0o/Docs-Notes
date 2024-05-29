@@ -9,9 +9,9 @@
 
 
 ## Intro
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.01.08PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.01.08PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.47PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.47PM.png)
 
 
 
@@ -26,16 +26,16 @@
 Generally, for certificate-based authentication, the system will generate a digital certificate to validate the user. It can be generated from the user’s unique Id like voter ID, passport, or other. It contains the user’s public key and digital signature, with this system will identify the right user, A system takes a digital sign from a user and uses cryptography to make sure it’s a valid user. 
 
 ### One-direction Authentication
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.44PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.44PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.53PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.56.53PM.png)
 
 ### Mutual Authentication
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.03PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.03PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.12PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.12PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.19PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.19PM.png)
 
 
 
@@ -57,19 +57,19 @@ Token-based authentication is a process in which users identify with unique toke
 
 ### Authentication Without Trusted Third Party
 #### On-direction Authentication
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.24PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.24PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.36PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.36PM.png)
 
 #### Mutual Authentication
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.47PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.47PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.57PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.54.57PM.png)
 
 ### Authentication via Trusted Third Party (Mutual Authentication)
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.13PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.13PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.23PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.55.23PM.png)
 
 
 
@@ -80,14 +80,14 @@ Token-based authentication is a process in which users identify with unique toke
 ↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
 
 ### One-direction Authentication
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.06PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.06PM.png)
 
 ### Mutual Authentication
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.22PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.22PM.png)
 
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.31PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.58.31PM.png)
 
 
 

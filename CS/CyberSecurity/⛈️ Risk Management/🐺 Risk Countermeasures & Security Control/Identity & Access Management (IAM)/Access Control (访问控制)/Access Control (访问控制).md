@@ -15,7 +15,7 @@
 
 
 ## Intro
-![](../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.29.39%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.29.39%20PM.png)
 
 访问控制：合法的主体访问合法的客体
 - 目标：防止对任何资源（如计算资源、通信资源或信息资源）进行未授权的访问，从而使资源在授权范围内使用，决定用户能做什么，也决定代表一定用户利益的程序能做什么。
@@ -25,7 +25,7 @@
 	- **合法用户对系统资源的非法使用**
 - 作用：机密性、完整性和可用性
 
-![](../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.25.15%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.25.15%20PM.png)
 
 > 🔗 https://en.wikipedia.org/wiki/Access_control
 
@@ -38,7 +38,7 @@ In the field of access control, there are three major aspects:
 - Computer Security
 - Telecommunication Security
 
-![](../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.30.09%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-26%20at%205.30.09%20PM.png)
 
 
 
@@ -49,10 +49,10 @@ In the field of access control, there are three major aspects:
 
 ### Access Control Mechanisms /Taxonomy
 #### High-Layer /Low-Layer AC
-![](../../../../../../Assets/Pics/Pasted%20image%2020231101144813.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020231101144813.png)
 
 #### AAA Mechanism
-![](../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%202.56.16%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%202.56.16%20PM.png)
 
 
 

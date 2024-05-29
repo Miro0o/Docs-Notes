@@ -13,7 +13,7 @@
 
 
 ## Intro
-![](../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.00.20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.00.20PM.png)
 <small>NAC的功能：鉴别 - 认证 - 授权。比通常讲的访问控制多了一个安全认证，相当于是质量检测。要防止身份合法但是自身安全质量低于标准的成员进入系统。</small>
 
 
@@ -22,7 +22,7 @@
 
 
 ### NAC Services & Functions
-![](../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.59.57PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.59.57PM.png)
 
 > All-in-One Policy Compliance and Remediation Solution
 
@@ -42,9 +42,9 @@
 
 ### NAC Working Process
 #### User Perspective
-![](../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.01.28PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.01.28PM.png)
 #### System Perspective
-![](../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.00.50PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2011.00.50PM.png)
 
 
 
@@ -52,9 +52,9 @@
 ### IEEE 802.1x Standards
 > ↗ [IEEE 802.1x](../../../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/📌%20Physical%20&%20Link%20Layer%20Standards/IEEE%20802.1x/IEEE%20802.1x.md)
 
-![](../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.58.15PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.58.15PM.png)
 
-![](../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.58.26PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-12-04%20at%2010.58.26PM.png)
 
 
 

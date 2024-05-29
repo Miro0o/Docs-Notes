@@ -3061,7 +3061,23 @@
 		2. enormous
 			1. e-出 + norm-规则 + -ous形容词后缀 → 出了正常状态 → 巨大的 , 过分的。
 	3. norm
-		1. 来自拉丁语 norma,木工的方尺，准则，可能来自希腊语 gnome,裁决，判断的基准，来自PIE*gne,知道，了解，词源同 know,gnome,notice.
+		1. n. 基准, 模范, 标准, 准则, 平均数
+		2. 来自拉丁语 norma,木工的方尺，准则，可能来自希腊语 gnome,裁决，判断的基准，来自PIE*gne,知道，了解，词源同 know,gnome,notice.
+		3.  [average](dic://average)
+		4. _n._ [standard](dic://standard), [criterion](dic://criterion), [measure](dic://measure), [touchstone](dic://touchstone), [statistic](dic://statistic)
+		5. **commonplace**平凡的;**standard**标准;**acceptable**合意的;**normal**正常的;**prevalent**普遍的, 盛行的, 流行的;**unheard**听不到的;**deviation**背离,偏离;**nowadays**现今;**exception**例外;**uncommon**不寻常的;**usual**通常的，惯例的;
+		6. _social norm_ 社会规范
+		7. _matrix norm_ 矩阵范数
+		8. departure from the norm
+			1. 偏离常规
+			2. According to **the** experts, these behaviors only signal infidelity if they're a **departure** **from** **the** **norm**. /根据专家说法，这些行为只在他们违反常态的时候证明他们有不忠行为。
+			3. **The** us Marine Corps' decision in **the** late 1960s to buy **the** British Aerospace Harrier was a significant **departure** **from** **the** **norm**, which usually involved trade going in **the** opposite direction. /美国海军陆战队1960s末决定购买英国航空航天的“鹞”是一次对正常决策的重大背离，通常交易是引向相反方向的。
+			4. Yet it becomes a striking **departure** **from** **the** historical **norm** when you look back and find that profits last hit such a lofty percentage of GDP more than 50 years ago and dropped shortly thereafter. /然而，往回看看，与历史正常水平相比，这已经发生了显著的背离，你会发现，上一次发生利润在GDP中的占比如此之高的时间已经是50多年前了，随后就急剧下降。
+		9. the norms of good behaviour in the Civil Service. /行政事务中的良好行为规范。
+		10. spotless behaviour is seemingly the norm in his organization /无可挑剔的行为似乎是他所在组织的道德准则。
+		11. Of his age, the child is above the norm in arithmetic /在他那个年龄, 这个孩子的算术能力是超过标准的。
+		12. And so it is basically the new norm. /所以可以说这是一种新常态。
+		13. Yes. Failure is the norm here. /是的。失败是司空见惯的事情。
 	4. normal
 		1. normability
 		2. normative
@@ -3085,7 +3101,7 @@
 		4. **abnormality**不正常,反常,变态,畸形;**abnormalities**异常情况;**normal**正常的;**atypical**非典型的;**anomalous**不规则的,反常的;**irregular**不对称的, 不规则的;**pathological**病理学的;**unnatural**不自然的;**deviant**不正常的人,异常的人;**unusual**与众不同的;**malignant**有恶意的
 		5. abnormity
 		6. abnormous
-	7. micronormal
+	6. micronormal
 4. **not-** = know, 同源 gn-
 	1. notable
 		1. notably

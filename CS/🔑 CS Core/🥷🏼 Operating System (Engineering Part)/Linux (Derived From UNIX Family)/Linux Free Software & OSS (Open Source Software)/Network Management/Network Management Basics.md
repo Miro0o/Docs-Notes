@@ -148,7 +148,7 @@ Description: **The Internet Systems Consortium DHCP Client**, `dhclient`, provid
 
 
 #### 👉 `tcpdump`
-↗ [tcpdump](../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/tcpdump.md)
+↗ [tcpdump](tcpdump.md)
 
 
 

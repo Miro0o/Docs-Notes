@@ -1017,21 +1017,59 @@
 		7. vindicator
 		8. vindication
 	3. win
-		1. winsome
+		1. vt. 赢得, 打胜, 成功  
+		2. vi. 获胜, 达到, 影响  
+		3. n. 胜利, 赢, 收益
+		4. 来自 PIE*wen,努力，奋斗，争取，词源同 Venus,virile.其原义为劳作，斗争，见 breadwinner,后引申词义赢，战胜，并成为其主要词义。
+		5.  [winnings](dic://winnings), [profits](dic://profits)
+		6. [acquire](dic://acquire), [gain](dic://gain)
+		7.  [gain](dic://gain), [advance](dic://advance), [pull ahead](dic://pull ahead), [make headway](dic://make headway), [get ahead](dic://get ahead), [gain ground](dic://gain ground)
+		8.  [succeed](dic://succeed), [come through](dic://come through), [bring home the bacon](dic://bring home the bacon), [deliver the goods](dic://deliver the goods)
+		9. _n._ [victory](dic://victory), [triumph](dic://triumph), [financial gain](dic://financial gain)
+		10. _v._ [get](dic://get), [acquire](dic://acquire)
+		11. _n._ [lose](dic://lose)
+			1. [acquire](dic://acquire) 强调通过不断的、持续的努力而获得某物，也指日积月累地渐渐地获得。书面语用词。  
+			2. [obtain](dic://obtain) 较正式用词，着重通过巨大努力、要求而得到所需或盼望已久的东西。   
+			3. [gain](dic://gain) 侧重指经过努力或有意识行动而取得某种成就或获得某种利益或好处。  
+			4. [get](dic://get) 普通用词，使用广泛，可指以任何方式得到某物，也不一定要经过努力。  
+			5. [win](dic://win) 主要指通过努力、斗争、比赛等而获得胜利。  
+			6. [earn](dic://earn) 侧重指依靠自己的劳动或因付出代价与有功而获得。  
+			7. [secure](dic://secure) 强调要通过努力或竞争，或需要付出代价才能获得所渴望的东西。
+		12. **victory**胜利;**winner**胜利者;**clinch**互相紧紧抱住;**contest**争辩;**prize**奖品;**championship**锦标赛,冠军赛;**lose**使沉溺于;**winners**成功者;**defeat**击败，战胜;**victorious**胜利的;**victor**胜利者;
+		13. _win over_ 说服，胜诉；争取到…
+			1. 说服：在反对之后，说服（某人）接受和支持某事物（如一个想法）。
+			2. You want to win over a crowd? /你想吸引大家的注意力吗？
+			3. All this is won over the Welsh government. /他们还是赢得了威尔士政府的支持。
+			4. Both times they won over a million dollars. /每次奖金都超过了一百万美元。
+			5. 
+		15. _win at_ 在…取胜
+		16. _win against_ 赢，打败
+		17. _win back_ 重获
+		18. _win on_ 影响；胜过
+		19. _win victory_ 赢得胜利
+		20. _win out_ 最后获得成功
+		21. _win through_ 完成
+		22. _win approval_ 得到支持，获得通过
+		23. _stand to win_ 一定赢
+		24. _attitude to win_ 渴望胜利
+		25. _born to win_ 天生大赢家；强者的诞生；生而为赢
+		26. _win hands down_ 轻易获胜；毫不费劲地跑赢（赛马）
+		27. _win first prize_ 赢得头奖；获一等奖；得第一名
+		28. winsome
 			1. win【收获，愉悦，享受】 + -some, 表形容词，引申词义迷人的，楚楚动人的。
 			2. 来自 win 的古义，收获，愉悦，享受，引申词义迷人的，楚楚动人的。
-		2. winning
+		29. winning
 			1. winnings
-		3. winner
+		30. winner
 			1. prizewinner
 			2. breadwinner
 				1. breadwinner - 这是少数几个仍然保留着盎格鲁撒克逊单词winnan（即今win）的古义to toil（苦干）的词语之一。breadwinner可以解释为one who toils to obtain bread。bread在俚语中作“钱”解，可能源自1935年左右伦敦佬用以指“钱”的同韵俚语bread and honey。  
 				2. 例She became the sole breadwinner when her husband lost his job. 她丈夫丢了工作之后她成了唯一养家活口的人。
 				3. Men are often expected to be the breadwinner in a family
-		4. winnable
-	4. vendetta
+		31. winnable
+	5. vendetta
 		1. 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
-	5. vim
+	6. vim
 		1. n. 精力, 生气, 精神
 		2. 1 - 来自拉丁语 vis,力量，精力，-m,宾格后缀，比较 am,him,来自 PIE*weie,追寻，渴求，词源同win,Venus.
 		3.  [energy](dic://energy), [vitality](dic://vitality)
@@ -3434,53 +3472,137 @@
 		1. _[appendant appendix garniture](dic://appendant%20appendix%20garniture)_ 附属品
 		2. _[accretion garniture make weight](dic://accretion%20garniture%20make%20weight)_ 添加物
 	2. garrison
-		1. [fort](dic://fort)
-		2. _n._ [military post](dic://military post), [post](dic://post), [abolitionist](dic://abolitionist), [emancipationist](dic://emancipationist), [military personnel](dic://military personnel), [soldiery](dic://soldiery), [troops](dic://troops)
-		3. _v._ [station](dic://station), [post](dic://post), [base](dic://base), [send](dic://send), [place](dic://place)
-		4. **army**陆军，军队;**fortress**要塞;**troops**部队;**fort**堡垒;**barracks**兵营，营房;**fortifications**防御工事;**battalion**营;**regiment**把…编成团;**outpost**前哨;**citadel**城堡;**siege**围攻;
-	3. garment
-		1. undergarment, garments
-	4. garish (brash, garnish, garner, posh)
-		1. tastelessly showy
+		1. n. 守备队, 驻军, 要塞  
+		2. vt. 守备, 派兵驻守
+		3. garr-供应 + ison表动词 → 供应物资的驻军。
+		4. 来自 PIE*wer,保护，防御，词源同 warrant,weir.原指城堡守卫，后指卫戍部队。
+		5. [fort](dic://fort)
+		6. _n._ [military post](dic://military post), [post](dic://post), [abolitionist](dic://abolitionist), [emancipationist](dic://emancipationist), [military personnel](dic://military personnel), [soldiery](dic://soldiery), [troops](dic://troops)
+		7. _v._ [station](dic://station), [post](dic://post), [base](dic://base), [send](dic://send), [place](dic://place)
+		8. **army**陆军，军队;**fortress**要塞;**troops**部队;**fort**堡垒;**barracks**兵营，营房;**fortifications**防御工事;**battalion**营;**regiment**把…编成团;**outpost**前哨;**citadel**城堡;**siege**围攻;
+	4. garment (garb)
+		1. n. 衣服, 衣装, 外表
+		2. gar-装饰 + -ment表名词 → 装饰的东西 → 衣服。
+		3.  [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [garb](dic://garb), [raiment](dic://raiment), [tog](dic://tog), [habilitate](dic://habilitate), [fit out](dic://fit out), [apparel](dic://apparel)
+		4. _n._ [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
+		5. _v._ [change state](dic://change state), [turn](dic://turn)
+			1. [clothes](dic://clothes) 普通用词，多指包括上衣、内衣或裤子等具体的一件件衣服。  
+			2. [clothing](dic://clothing) 常用词，集合名词，是衣服的总称。  
+			3. [coat](dic://coat) 指上衣、外衣、大衣、外套及女式上装。  
+			4. [dress](dic://dress) 多指正式场合或为某些特定用途而穿的服装，也指童装或女性穿的连衣裙。  
+			5. [garment](dic://garment) 语气庄重，正式用词，复数形式可与clothes换用，指身上全部穿着。单数形式指单件衣服，尤指长袍、外套等外面的衣服。  
+			6. [robe](dic://robe) 指长袍，也指浴衣、晨衣。  
+			7. [gown](dic://gown) 指女人穿的长服，尤指教士、法官、教授等的礼服或妇女的睡衣等，也指长袍。  
+			8. [uniform](dic://uniform) 指某团体或组织统一做的制服，如军服、校服等。  
+			9. [costume](dic://costume) 指流行某一地区或某一时代的服装，也指演员的戏装。  
+			10. [suit](dic://suit) 指一套服装，一般有几件配成一套的套装。
+		6. **clothing**服装;**textile**纺织品，织物;**fabric**织物;**tunic**束腰外衣;**clothes**衣服;**muslin**平纹细布;**apparel**衣服;**sewn**缝纫，缝上;**blouse**宽松的上衣;**fabrics**纤维织物;**dress**给…穿衣;
+		7. _garment industry_ 制衣业；成衣业
+		8. _garment factory_ 服装厂，成衣工厂
+		9. _garment leather_ 衣服革
+		10. _garment design_ 衣服设计
+		11. _fur garment_ 裘皮服装
+		12. _garment bag_ 保护衣服用的塑胶套
+		13. _silk garment_ 丝绸服装；绸衣
+		14. the lining of a garment /衣服的衬里
+		15. the flimsy garment fell from her. /薄薄的衣服从她身上滑落。
+		16. crochet garments are in vogue this season /这一季节流行钩针编织服装。
+		17. interline a garment with an inner lining /衣服里面加上内衬
+		18. Every garment in the shop has a price mark sewn on it. /店里每一件衣服都缝有价签。
+		19. undergarment, garments
+	5. garish (brash, garnish, garner, posh)
+		1. a. 穿着花哨的, 炫耀的, 过分装饰的
+		2. 可能和 garnish【装饰】有关，也就是 gar-装饰 + -ish表形容词。
+		3. tastelessly showy
 			1. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
-		2. _dj._ [tasteless](dic://tasteless)
-		3. _n._ [tasteful](dic://tasteful)
-		4. **hideous**可怕的;**flashy**闪光的;**tacky**俗气的;**ghastly**可怕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**neon**氖;**grotesque**奇形怪状的;**over-the-top**过多的;**drab**单调的;**bland**乏味的;**extravagant**奢侈的, 铺张的;
-		5. garish makeup /
-		6. garish shirts in all sorts of colours /
-		7. They must look queer in their garish frames on the walls of the peasant house /这些画镶着很讲究的金框子，挂在一家村舍的墙上是多么不伦不类呀！
-	6. garnishment
-		1. - n. 出庭传票；扣押令；装饰
-		2. _[Restrictionon Garnishment](dic://Restrictionon%20Garnishment)_ 扣押之限制
-		3. _[wage garnishments](dic://wage%20garnishments)_ 扣发工资;
-		4. _n._ [court order](dic://court order)
-		5. **lien**留置权;**debtor**债务人;**creditor**债权人，贷方;**liens**留置权;**foreclosure**丧失抵押品赎回权,排斥;**debtors**债务人;**restraining**抑制的,遏制的,控制的;**payment**付款，支付;**withholding**扣交;**paycheck**付薪水的支票，薪水;**wage**工资;
-		6. If your defaulted debt is subject to wage **garnishment**, you may not be able to consolidate /如果你是受债务拖欠工资扣押，你可不能巩固。
-		7. She finally buy the cake with the most beautiful **garnishment**. /她最后买下了装饰最漂亮的那个蛋糕。
-	7. garnisher
-	8. garnishee
+		4. _dj._ [tasteless](dic://tasteless)
+		5. _n._ [tasteful](dic://tasteful)
+		6. **hideous**可怕的;**flashy**闪光的;**tacky**俗气的;**ghastly**可怕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**neon**氖;**grotesque**奇形怪状的;**over-the-top**过多的;**drab**单调的;**bland**乏味的;**extravagant**奢侈的, 铺张的;
+		7. garish makeup /
+		8. garish shirts in all sorts of colours /
+		9. They must look queer in their garish frames on the walls of the peasant house /这些画镶着很讲究的金框子，挂在一家村舍的墙上是多么不伦不类呀！
+	6. garnish
+		1. n. 装饰, 装饰品  vt. 装饰
+		2. v. 装饰（尤指食物）；（为合法扣押属于债务人或被告的钱财）传讯（第三方） 
+		3. n. （为增加色香味而添加的）配菜，装饰品 
+		4. n. （Garnish）（美、英）加尼什（人名）
+		5. 来自法语。来自 PIE*wer,保护，隐藏，词源同 warrant,weir.后指装饰。
+		6.  [garnishee](dic://garnishee)
+		7. [trim](dic://trim), [dress](dic://dress)
+		8. _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+		9. _v._ [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize), [decorate](dic://decorate), [adorn](dic://adorn)
+		10. **parsley**荷兰芹，欧芹;**cilantro**芫荽叶;**chives**香葱，细香葱;**vinaigrette**色拉调味汁;**appetizer**开胃品;**salad**色拉;**dill**莳萝;**coriander**芫荽,香菜;**sprinkle**洒;**dessert**餐后甜点;**lemon**柠檬色的;
+		11. _[swept and garnished](dic://swept%20and%20garnished)_  adj. 打扫干净并布置一新的
+		12. The turkey was served with a garnish of parsley. /做好的火鸡上面配上芫荽菜做点缀。
+		13. capers are often used to garnish cocktail savouries /马槟榔常用来点缀餐前开胃小菜。
+		14. the IRS garnished his earnings. /美国国税局扣押了他的所得。
+		15. Her robes were garnished with gems. /她的礼服上装饰着宝石。
+		16. This is a garnish with a little bit of egg. /这个主要是配菜，然后用一点鸡蛋。
+		17. garnishment
+			2. n. 出庭传票；扣押令；装饰
+			3. _[Restrictionon Garnishment](dic://Restrictionon%20Garnishment)_ 扣押之限制
+			4. _[wage garnishments](dic://wage%20garnishments)_ 扣发工资;
+			5. _n._ [court order](dic://court order)
+			6. **lien**留置权;**debtor**债务人;**creditor**债权人，贷方;**liens**留置权;**foreclosure**丧失抵押品赎回权,排斥;**debtors**债务人;**restraining**抑制的,遏制的,控制的;**payment**付款，支付;**withholding**扣交;**paycheck**付薪水的支票，薪水;**wage**工资;
+			7. If your defaulted debt is subject to wage **garnishment**, you may not be able to consolidate /如果你是受债务拖欠工资扣押，你可不能巩固。
+			8. She finally buy the cake with the most beautiful **garnishment**. /她最后买下了装饰最漂亮的那个蛋糕。
+		18. garnisher
+		19. garnishee
 4. **guarant-, war-** = to protect, 「Old French」garant, "warrrant, authorization", to guard, to protect, to guarantee
 	1. warrant
 		2. etc.
 	2. ward
-		1. wardship
+		1. n. 监视；保卫；病房
+		2. vt. 避开；保卫；守护
+		3. [hospital ward](dic://hospital ward)
+		4.  [cellblock](dic://cellblock)
+		5.  [guard](dic://guard)
+		6. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [administrative district](dic://administrative district)
+		7. _v._ [protect](dic://protect)
+		8. **hospital**医院;**council**理事会;**councillor**政务会委员;**district**区域;**precinct**选区;**warden**看守人;**psychiatric**精神病的;**inpatient**住院病人;**nurse**看护，护理;**psych**用精神分析治疗;**borough**自治的市镇;
+		9. _ward off_ 避开；挡住
+		10. _isolation ward_ n. 隔离病房
+		11. _surgical ward_ 外科病房
+		12. _medical ward_ 内科病房
+		13. _maternity ward_ 产科病房
+		14. _ward inspection_ 病室巡诊，查房
+		15. _watch and ward_ 日夜守卫；时刻戒备
+		16. the ward and care of the Crown /对王权的监护和照管。
+		17. a maternity ward with 30 beds. /一个有30个床位的产科病房
+		18. ward off an opponent's blows /避开对手的一击
+		19. it was his duty to ward the king. /他的职责是保卫国王。
+		20. The interns spent the first month in the internal medical ward and the next month in the srugical ward. /"实习医生第一个月在内科病房实习,第二个月在外科病房。"
+		21. A warder appeared at the cell door /一个看守出现在牢门口。
+		22. a wee dram to ward off the winter chill. /防寒的一点点烈酒。
+		23. it was no good trying to ward things off /推三阻四是于事无补的。
+		24. wardship
 			1. _[Neonatus wardship](dic://Neonatus%20wardship)_ 新生婴儿监护室
-		2. wardroom
-		3. wardrobe
+		25. wardroom
+		26. wardrobe
 			1. **closet**壁橱;**outfit**全套装备, 全套工具;**outfits**全套装备;**dresser**梳妆台;**clothes**衣服;**menswear**男服;**closets**衣柜;**clothing**服装;**cupboard**食橱;**cardigan**羊毛衫，开襟羊毛衫;**attire**服装;
 			2. [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
-		4. warder
+		27. warder
 			1. **warden**看守人;**constable**警察;**inmate**同住者;**prisoner**囚犯，犯人;**prison**监狱;**magistrate**地方法官, 治安官;**guards**警卫;**servant**仆人，佣人;**correctional**改正的,矫正的,修正的;**policeman**警察;**mage**博学者;
 			2. wardress
-		5. warden
-	3. guaranty
+		28. warden
+	4. guaranty
 		7. guarantor
 		8. guarantee
-	4. garage, garageman
-	4. garret
-		1. _n._ [floor](dic://floor), [level](dic://level), [storey](dic://storey), [story](dic://story)
-		2. **attic**阁楼;**loft**顶楼;**cellar**地窖;**miller**碾磨工;**basement**地下室;**upstairs**在楼上，向楼上;**stairwell**楼梯井;**convent**女修道院;**hut**小屋;**house**住宅;
-		3. garreteer
+	5. garage, garageman
+	6. garret
+		1. n. 阁楼；顶楼
+		2. [loft](dic://loft), [attic](dic://attic)
+		3. _n._ [floor](dic://floor), [level](dic://level), [storey](dic://storey), [story](dic://story)
+		4. **attic**阁楼;**loft**顶楼;**cellar**地窖;**miller**碾磨工;**basement**地下室;**upstairs**在楼上，向楼上;**stairwell**楼梯井;**convent**女修道院;**hut**小屋;**house**住宅;
+		5. _[garret floor](dic://garret%20floor)_  顶楼层；阁楼层
+		6. _[garret room](dic://garret%20room)_  顶楼房
+		7. _[garret beam](dic://garret%20beam)_  顶楼梁
+		8. _[have a rat in the garret](dic://have%20a%20rat%20in%20the%20garret)_  头脑不正常, 有点精神病, 行为乘张; 感觉不舒服, 心情不好
+		9. Many still envision them as loners toiling in their garrets, perhaps with a nasty cough. /艺术家在很多人的印象中还是生活在破烂不堪的顶层小屋里，不喜欢和人相处，在窄小的房间里踱步，还不时发出难以忍受的咳嗽。
+		10. He lives in a garret of our house, on another staircase. /泼来可西的家就在我家屋顶的小阁上。
+		11. He begun its inspection without delay, scouring it from cellar to garret /他马上开始把整个住宅巡视一番，从地窖到阁楼处处都跑遍了。
+		12. But inside, it was altogether charming, and the happy bride saw no fault from garret to cellar. /然而屋里却是一片温馨迷人的气息，那快乐的新娘觉得从阁楼到地下室简直是无可挑剔。
+		14. garreteer
 5. **overt-**
 	1. overt (covert)
 		1.  [open](dic://open)

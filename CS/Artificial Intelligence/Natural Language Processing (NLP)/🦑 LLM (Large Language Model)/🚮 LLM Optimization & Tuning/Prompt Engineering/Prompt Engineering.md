@@ -5,6 +5,13 @@
 
 
 ## Res
+### Related Topics
+
+
+### Learning Resources
+https://www.promptingguide.ai
+intro to PE
+
 1. [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 2. [Learn Prompting](https://learnprompting.org/)
 3. [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
@@ -26,4 +33,3 @@ Prompt engineering is not just about designing and developing prompts. It encomp
 
 
 ## Ref
-

@@ -49,6 +49,9 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 https://www.payscale.com/college-salary-report
 College Salary Report (US)
 
+https://www.numbeo.com/cost-of-living/
+Cost of Living
+
 
 ### CS Related Information
 #### General CS Info

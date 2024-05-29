@@ -25,18 +25,15 @@
 ↗ [JS Engines (JS Compilation)](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
 - ↗ [Google V8](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Google%20V8/Google%20V8.md)
 
-↗ [Java Runtimes (JRE & JDKs)](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Runtimes%20(JRE%20&%20JDKs).md)
-- ↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM).md)
-- ↗ [Java Virtual Machine (JVM)](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
+↗ [Java Runtimes (JRE & JDKs Tools)](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools).md)
+- ↗ [Java Compilers](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Compilers/Java%20Compilers.md)
+- ↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM).md)
+- ↗ [Java Virtual Machine (JVM)](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 
 ↗ [Huawei HarmonyOS Runtimes & ArkCompiler](../🚠%20Application%20Runtimes%20&%20SDKs/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler.md)
 
 
 ### Other Resources
-🔥 https://godbolt.org
-🚧 https://github.com/compiler-explorer/compiler-explorer
-Compiler Explorer
-
 https://quick-bench.com
 Quick Bench is a micro benchmarking tool intended to quickly and simply compare the performance of two or more code snippets.
 
@@ -44,6 +41,33 @@ Quick Bench is a micro benchmarking tool intended to quickly and simply compare 
 
 ## Intro
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
+
+↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+
+
+
+## Online Compilers
+### 👉 Compiler Explorer 🔥
+🔥 https://godbolt.org
+🚧 https://github.com/compiler-explorer/compiler-explorer
+
+Run compilers interactively from your web browser and interact with the assembly
+
+
+### 👉 `OnlinedGdb`
+
+
+### 👉 `Jdoodle`
+
+
+### 👉 `Codechef`
+
+
+### 👉 `Repl`
+
+
+### 👉 `CompileJava`
+
 
 
 ## Ref

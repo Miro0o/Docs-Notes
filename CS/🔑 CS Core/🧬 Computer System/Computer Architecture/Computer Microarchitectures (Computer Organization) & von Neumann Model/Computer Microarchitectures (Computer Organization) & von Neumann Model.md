@@ -105,7 +105,7 @@ More is at ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neuma
 
 
 #### 5️⃣ SoC单片结构
-↗ [Systems on Chip (SOC)](Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SOC)](../Systems%20on%20Chip%20(SOC).md)
 
 ![|300](../../../../../Assets/Pics/Pasted%20image%2020240414144958.png)
 

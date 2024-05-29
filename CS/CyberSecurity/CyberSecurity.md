@@ -82,7 +82,7 @@ https://c4pr1c3.github.io/cuc-ns/
 This is a very comprehensive security course tutorial. Haven't looked into it yet. 
 
 ---
-📖 Computer & Internet Security: A Hands-on Approach 3rd ed. Edition
+🔥 📖 Computer & Internet Security: A Hands-on Approach 3rd ed. Edition
 by wenliang Du
 https://www.amazon.com/Internet-Security-Hands-Approach-Computer/dp/1733003967/ref=sr_1_1?keywords=wenliang+du&qid=1706865163&sr=8-1
 
@@ -115,6 +115,11 @@ https://wiki.wgpsec.org
 本大纲从我国国情出发，结合我国网络基础设施和重要信息系统安全保障的实际需求，以知识体系的全面性和实用性为原则，涵盖了CISP 中的CISE、CISO两类注册人员和CISM 需要掌握的知识要点，是CISM 和CISE/CISO 教材编制、讲师授课、学员学习以及考试命题的重要依据。
 
 ![|400](../../Assets/Pics/Screenshot%202024-05-20%20at%201.46.37%20PM.png)
+
+
+---
+https://www.hacker101.com
+Hacker101 is a free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 
 
 ### Info & Res & News
