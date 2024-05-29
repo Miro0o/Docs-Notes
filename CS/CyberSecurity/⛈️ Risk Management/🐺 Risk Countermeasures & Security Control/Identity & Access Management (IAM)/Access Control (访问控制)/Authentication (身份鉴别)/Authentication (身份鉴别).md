@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
-↗ [Identity Cloud](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
+↗ [Identity Cloud](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
 ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 
 
@@ -37,9 +37,9 @@ The property that ensures that the identity of a subject or resource is the one 
 - 鉴别是最重要的安全服务之一。鉴别服务提供了关于某个实体身份的保证。（所有其它的安全服务都依赖于该服务）
 - 鉴别可以对抗假冒攻击的危险
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.30.57%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.30.57%20PM.png)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-01%20at%204.07.54PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-01%20at%204.07.54PM.png)
 
 身份鉴别与其它机制的关系
 - 访问控制：作为访问控制服务的一种必要支持，访问控制服务的执行依赖于确知的身份（访问控制服务直接对达到机密性、完整性、可用性及合法使用目标提供支持）；
@@ -80,7 +80,7 @@ The property that ensures that the identity of a subject or resource is the one 
 (3)攻击者，可以窃听和伪装申请者，骗取验证者的信任。
 (4)鉴别系统在必要时会有第三方，即可信赖者( 可信第三方，TP「Trusted Thired Party」)参与仲裁。
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-06%20at%208.40.24AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-06%20at%208.40.24AM.png)
 
 
 
@@ -168,39 +168,39 @@ Data Origin Authentication (数据原发鉴别)
 
 ### 1️⃣ 按保护等级分类
 #### 0级鉴别（无保护）
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.04.51PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.04.51PM.png)
 #### 1级鉴别（抗泄露保护）
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.07PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.07PM.png)
 #### 2级鉴别（抗泄露和对不同验证者重放的保护）
 ↗ [Cybersecurity Threats & Attacks /4️⃣ Relay Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.21PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.21PM.png)
 #### 3级鉴别（抗泄露和对同一验证者重放的保护）
 ↗ [Cybersecurity Threats & Attacks /4️⃣ Relay Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.34PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.05.34PM.png)
 #### 4级鉴别（抗泄露和对相同/不同验证者重放的保护）
 ↗ [Cybersecurity Threats & Attacks /4️⃣ Relay Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
 ##### 惟一数机制
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.32PM.png)
 ##### 质询机制
 ↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.44PM.png)
 ##### 专用加密质询机制
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.57PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.06.57PM.png)
 ##### 计算响应机制
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.07.09PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.07.09PM.png)
 
 ### 2️⃣ 按机制的配置分类
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.36PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.48PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.55PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.04PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.13PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.21PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.29PM.png)
-![](../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.44PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.36PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.48PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.46.55PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.04PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.13PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.21PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.29PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%203.47.44PM.png)
 
 #### 涉及可信第三方的模型
 ##### 阶段模型
@@ -263,7 +263,7 @@ Data Origin Authentication (数据原发鉴别)
 - 时效性
 	- 涉及防止消息重放攻击。
 
-![](../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
 
 ### Relay Attacks
 ↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Relay%20Attacks)

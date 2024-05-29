@@ -15,7 +15,7 @@
 ↗ [Computer IO System](../Computer%20IO%20System/Computer%20IO%20System.md)
 
 ↗ [Motherboard & Mainboard](../Motherboard%20&%20Mainboard.md)
-↗ [Systems on Chip (SOC)](../Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SOC)](../../Systems%20on%20Chip%20(SOC).md)
 
 
 

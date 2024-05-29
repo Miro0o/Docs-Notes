@@ -2724,6 +2724,17 @@ facete
 	- **sarcastic**讽刺的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**snarky**恶声恶气的，咬人的;**joking**戏谑的;**jest**玩笑;**disingenuous**不真诚的;**hyperbole**夸张的语句;**ironic**讽刺的;**silly**愚蠢的;**sarcasm**讽刺;**condescending**降低身份的,屈尊的;
 - facetiae
 
+fall
+- n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天  
+- vi. 倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低  
+- a. 秋天的
+- 来自 PIE*pol,*spol,掉落，词源可能同 spill,spoil.
+- fall - fall作“秋天”解，仅用于美国英语，在英国英语中一般用autumn。autumn源自拉丁语autumnus，fall则由the fall of theleaf（亦作the fall of leaves或leaf-fall）缩略而来。该短语本义是“落叶”，但常喻指“落叶时节”，即“秋天”。汉语成语“叶落知秋”、“一叶知秋”，恰能说明这一比喻。fall其实并非道地美语。英国人早先也用fall来指“秋天”，只是以后用autumn来取代，而美国人则沿袭使用至今。我们在16至17世纪英国文人德莱顿（John Dryden, 1631-1700）、德雷顿（Michael Drayton, 1563-1631）、米德尔顿（Thomas Middleton, 1570-1627）等的作品里还能找到fall的这一用法。（参见autumn，harvest）
+- fall落下和fell砍伐，B组：lie躺和lay放下，C组：rise上升和raise升起，D组：sit和set......什么关系呢？以上四组单词中后边的单词叫causative verb使役动词，理解为to cause to do就欧了。所以fell就是to cause to fall，lay是to cause to lie，set是to causeto sit，raise是to cause to rise。
+- fall on one's face
+	- 摔倒，跌倒：指一个人失去平衡，面部朝下地摔倒在地。 
+	- 失败，不成功：指一个人在尝试做某事时未能达到预期的目标或结果。
+
 falter
 - [hesitation](dic://hesitation), [waver](dic://waver), [faltering](dic://faltering)
 - [waver](dic://waver)
@@ -3048,8 +3059,8 @@ flamenco
 - _[flamenco legato](dic://flamenco%20legato)_ 精彩的钢琴与吉他合奏; 弗拉门戈连奏; 
 - _[Spanish line and flamenco taps](dic://Spanish%20line%20and%20flamenco%20taps)_ 西班牙舞姿与弗朗明哥踢踏步
 
-flare
--  - 词源不详。可能来自辅音丛 bl-,吹，鼓起，拟声词，词源同 blow,blossom.即张开，展开，火势更旺，加剧等。
+flare (flair)
+- 词源不详。可能来自辅音丛 bl-,吹，鼓起，拟声词，词源同 blow,blossom.即张开，展开，火势更旺，加剧等。
 - [flair](dic://flair)
 - [flash](dic://flash)
 - [solar flare](dic://solar flare)
@@ -3093,6 +3104,60 @@ flare
 
 flash
 -  拟声词，模仿物体或火把快速闪过的声音。比较 clash,dash,flush,splash.引申各相关词义。
+
+flat
+- flat（公寓）：楼房中一个独立居住单元  
+- 无论是在中国还是在外国，古人们住的一般都是独立的房屋。但是随着城市的出现，越来越多的人聚居在城市里。由于城市土地价格随着城市经济的发展而提高，中低收入阶层无力支付独立房屋的费用，此时就出现了多户人家共同居住在一栋建筑的情况。这种供多户人家居住的建筑就是公寓。  
+- 在古罗马时代，罗马城中就出现了这种公寓，拉丁语中称为insulae。据记载，在罗马帝国晚期，罗马城中就已经有5000座最高7层、20米高的insulae。据阿拉伯地理学家Al-Muqaddasi描述，在10世纪的埃及开罗，大部分人口都居住在高层的公寓中，每一栋公寓能容纳200多口人。  
+- 在英国，公寓出现得很晚。人们习惯居住在独立的房屋中。直到19世纪末期，这种观念才有所转变。随着城市化进程和人口增加，伦敦城中传统的独立房屋的价格日益昂贵，越来越多的人负担不低，特别是对于年轻的未婚男女。因此，公寓楼的概念应运而生。这张楼房由多层构成，每一层都是单独的一套居住单位，人们可以购买或租用楼房中的一层。在英语中，人们管这种楼房中的一套居住单位称为flat，本意是“一层，一个平面”，而一栋公寓楼则称为a block of flats。flat中的一个房间称作apartment，意思是flat中的一个part（部分）。但到了美国，美国人逐渐用apartment来表示一套公寓。但是在英国、香港、新加坡等英联邦国家中，人们还是使用flat来表示一套公寓。 
+- flat： [flæt] n.公寓，平地，平面adj.平地，单调的，平坦的，扁平的  
+- apartment： [ə'pɑːtm(ə)nt] n.公寓（美式英语），房间（英式英语）
+- flatworm
+- flatwork
+- flatwise
+- flatways
+- flatware
+- flatty
+- flattop
+- flattish
+- flattie
+- flatter
+	- unflattering (unflagging)
+		- adj. 不吸引人的，不好看的；耿直的；有损形象的，不敢恭维的；不奉承的；贬损的
+		- _n._ [flattering](dic://flattering)
+		- **flattering**奉承的;**embarrassing**令人为难的;**disparaging**轻蔑的;**unattractive**不吸引人的;**scandalous**令人反感的;**damning**咒骂的;**ugly**丑陋的;**distasteful**使人不愉快的;**inaccurate**有错误的,不正确的;**hideous**可怕的;**scathing**严厉的;
+		- an unflattering portrait. /本来面目的画像。
+		- make an unflattering remark /真言无讳
+		- gave the film an unflattering review. /给电影以坦率的评论
+		-  Others panned the color as boring, out-of-touch and unflattering./但也有一些人认为这个颜色乏味、落伍、不衬肤色。
+		- I do unflattering impressions of you for my friends /还在朋友面前捏造你的负面形象。
+		- Clemenceau despised the sculptor, August Rodin, who had once done an unflattering sculpture of him. /克列孟梭鄙视雕刻家奥古斯特·罗丹，因为他曾经为他做过一尊不讨人喜欢的雕塑。
+		- One lives on them better than on unflattering ones. /一个人靠他们过日子比靠不讨人喜欢的人过得好。
+		- It can be inferred that Facebook is self-enhancer's paradise because people can withhold their **unflattering** sides /可以推断，Facebook 是自我增强者的天堂，因为人们可以保留自己不讨喜的一面。
+	- flattery
+	- flattering
+	- flatterer
+- flatten
+	- flattener
+- flatsedge
+- flatscope
+- flatness
+	- unflatness
+- flatly
+- flatlet
+- flatland
+- flatiron
+- flathead
+- flatfoot
+- flatfish
+- flatfile
+- flatcar
+- flatcap
+- flatboat
+- flat-roofed
+- flat-out
+- flat-hat
+- flat-footed
 
 fleck
 - [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [scrap](dic://scrap)
@@ -3163,8 +3228,123 @@ flummox
 - [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
 - _[flummox to confuse](dic://flummox%20to%20confuse)_ 打乱
 
+fold
+- n. 折层, 折, 羊栏, 折痕, 信徒  
+- vt. 折叠, 包, 合拢, 交迭  
+- vi. 折叠起来, 彻底失败
+- 来自 PIE*pel,折叠，词源同 triple,diplomat.羊栏义词源不详。
+- unfold
+	- v. 打开，展开；呈现，逐渐明朗；发生，发展
+	- [blossom](dic://blossom), [blossom out](dic://blossom out), [blossom forth](dic://blossom forth)
+	- [stretch](dic://stretch), [stretch out](dic://stretch out), [extend](dic://extend)
+	- [spread](dic://spread), [spread out](dic://spread out), [open](dic://open)
+	- _v._ [develop](dic://develop), [uncover](dic://uncover), [bring out](dic://bring out), [unveil](dic://unveil), [reveal](dic://reveal), [change shape](dic://change shape), [change form](dic://change form)
+	- _n._ [fold](dic://fold), [fold up](dic://fold up), [turn up](dic://turn up)
+		- [unfold](dic://unfold) 主要指把原来包好、卷好或叠好的东西再打开。  
+		- [open](dic://open) 普通用词，指把原来关起来或盖紧的东西打开
+	- **unravel**解开;**happen**发生;**emerge**浮现;**happening**动词happen的现在分词形式.;**begin**开始;**watch**注视;**evolve**发展，进化;**watching**观看，守望;**observe**观察;**ensue**跟着发生，接着发生;**happened**发生;
+	- Buds unfold in the sunshine /花蕾在阳光下开放。
+	- The landscape unfolded before me. /风景展现在我的眼前。
+	- He unfolded a map. /他摊开地图。
+	- there was a fascinating scene unfolding before me. /我眼前呈现出一幅迷人景象。
+	-  The stage is a chanteur unfolds, realization art value place./舞台是一个歌唱者展现自我 ，实现艺术价值的地方
+	- Is it time to break the taboo and unfold the false mythology? /现在到了打破禁忌和揭开神秘的时候了。
+	- Pace is the speed at which your narrative unfolds /节奏指的是你叙事的速度。
+	- We'll updating you on this story as it unfolds /随着故事的展开，我们会及时向你报道。
+	- A similar story unfolds in the commuting data. /通勤数据也体现了类似的问题。
+	- The two researchers want to determine how the disaster unfolded. /这两位研究人员想要确定灾难是如何发生的。
+	- unfolding
+- sheepfold
+	- _n._ [pen](dic://pen)
+	- **shepherd**带领;**sheep**羊，绵羊;**pasture**牧场;**monastery**修道院;**barn**谷仓;**fortress**要塞;**goats**山羊;**vineyard**葡萄园;**meadow**草地;**hut**小屋;**hillside**山坡，山腹;
+	- " There was a sheepfold, but no sheep" /" 羊圈是有的，不过没有羊。"
+	- Almost every morning there was another new lamb in the sheepfold /羊棚里几乎每天早晨都会多一只小羊羔。
+	- She thought she could walk back across the field, and get over the stile; and then, in the very next field, she thought she remembered there was a hovel of furze near a sheepfold. /她想她可以走回去穿过田野， 跨过栅栏； 然后，就在下一块田地里， 她想她记得羊圈附近有一窝金雀花。
+- refold
+	- - vt. 再折起；将……再打折
+	- It's the board that you're playing can fold and unfold and refold in all sorts of different ways. /你玩的棋盘可以以各种不同的方式折叠、展开和折叠。
+	- " At school needlework was pretty much the only thing I was any good at." I smoothed out the creases on my lap and prepared to refold a jacket /针线活几乎是我唯一擅长的事情。 ” 我抚平膝盖上的折痕， 准备重新折叠一件夹克。
+	- refolding
+- pinfold
+- onefold
+- manifolding
+- infolding
+- gateold
+- foldout
+	- n. 插页，折页
+	-  [gatefold](dic://gatefold)
+	- _n._ [page](dic://page)
+	- **booklet**小册子;**futon**蒲团;**full-size**动物完全长大的,全长的;**booklets**小册子;**sofa**沙发;**full-sized**普通号;**cardboard**硬纸板;**hardback**精装本;**poster**海报，广告;**inset**插入物;**folding**可折叠的;
+	- Actually, you're sitting on it. It's a foldout. /你就坐在我床上呢 这是沙发床。
+	- Send invitation letter as well as company poster **foldout**. /发邀请函同时附带贵公司宣传页；
+	- In its shadow, dozens of employees sit cramped at a handful of **foldout** tables /在它的影子底下，几十个员工和几张折叠桌子挤坐在一起。
+- folding
+- folder
+	-  [booklet](dic://booklet), [brochure](dic://brochure), [leaflet](dic://leaflet), [pamphlet](dic://pamphlet)
+	- _n._ [book](dic://book), [covering](dic://covering)
+	- **file**文件;**directory**人名地址录, 号码簿;**filename**文件名;**notepad**记事手册;**config**显示配置信息命令;**executable**实行的,执行的;**overwrite**写在…上面,写得过多;**tab**标签;**archive**存档;**pane**窗格;**repository**仓库，贮藏室，存放处;
+- foldaway
+- foldable
+	- adj. 可折叠的；可合拢的
+	- The foldable display market is proliferating with improved technology. /随着技术的改进，可折叠屏市场正在激增。
+	- There is a foldable table, books, a smile and a deep knowledge of grammar. /乔文只有一张可折叠的桌子、几本书、一个微笑和深厚的语法知识。
+	- So we have to fold it and hexagons pack together very nicely and are very foldable. /所以我们要把它和六边形很好地组合在一起，而且是可折叠的。
+	- It's not only wearable and **foldable**, but also washable /它不仅可穿戴、可折叠，还可水洗。
+- fanfold
+- faldboat
+- faldstool
+- enfold
+	- [envelop](dic://envelop), [enwrap](dic://enwrap), [wrap](dic://wrap), [enclose](dic://enclose)
+	- _v._ [cover](dic://cover)
+	- **embrace**包含;**bosom**胸;**unfold**打开;**cocoon**茧;**nourish**滋养;**enclose**围绕;**cling**紧贴;**encompass**围绕;**outstretched**扩张的;**adorn**装饰;**softly**温柔地;
+	- he shut off the engine and silence enfolded them. /他关掉发动机，一时间他们陷入沉寂。
+	- The mother was enfolding her baby in her arms. /母亲把婴儿抱在自己怀里。
+	- I wanted to be completely his again, enfolded, possessed. /我想再次完全属于他，被包围，被占有。
+	-  She was enfolded in that familiar, eager, strong embrace./她被那个熟悉的、热切的、有力的拥抱所包围。
+	- He put his face into her bosom and his arms enfolded her. /他把脸埋进她的怀里， 双臂环住她。
+	- The darkness and the sound of the rain enfolded us. /黑暗和雨声包围了我们。
+	- Enfold all life supreme humaneness would And teach all things how become good they should. /包容一切生命至尊仁义，教导万物应如何成善。
+- centrefold
+- blindfold
+	- _vt._ (尤指用布)挡住(某人)的视线，蒙住(某人)的眼睛
+	- 使不理解，使迟钝；蒙骗
+	- _n._ 蒙眼的绷带〔布等〕
+	- 障眼物；蒙蔽人的事物
+	- _adj. & adv._ 被蒙住眼睛的(地)，盲目的(地)
+	- 不谨慎的(地)，鲁莽的(地)，轻率的(地)
+	- _n._ [cloth covering](dic://cloth covering)
+	- _v._ [cover](dic://cover)
+	- _adj._ [blind](dic://blind), [unsighted](dic://unsighted)
+	- _n._ [sighted](dic://sighted)
+	- **handcuffs**手铐;**panties**女式短裤;**bondage**奴役身份;**veil**面纱;**robe**长袍，礼服;**blind**瞎的;**gag**塞住…的口;**cloak**斗蓬;**goggles**护目镜;**rope**绳，绳索;**dildo**假阴茎;
+	- Remove your blindfolds. - Oh! - Oh, yeah. /摘下你们的眼罩。哦！- 哦，不错。
+	- I've got to wear this blindfold. Hey, no peeking /我得戴上这个眼罩。嘿，不许偷看。
+	- Just as she was about to remove the **blindfold** for him, the telephone rang and she went to answer it. /就在她要为他打开眼罩的时候，电话响了起来，她赶去接电话了。
+	- The reporter was taken **blindfold** to a secret location. /那位记者被蒙着眼睛带到了一处秘密的地方。
+- billfold
+
 fond
+- 来自古英语 fon,傻，简单，词源同 fun.词义由傻引申为发狂，喜爱，溺爱等。类似词义演变比较 infatuation.
+- a. 喜欢的, 宠爱的, 温柔的
+-  [affectionate](dic://affectionate), [caring](dic://caring), [lovesome](dic://lovesome), [tender](dic://tender), [warm](dic://warm) 
+- [adoring](dic://adoring), [doting](dic://doting)
+-  [partial(p)](dic://partial(p))
+- _adj._ [loving](dic://loving), [foolish](dic://foolish),   
+- _n._ [unloving](dic://unloving), [wise](dic://wise), [disinclined](dic://disinclined)
+- **enamored**迷恋的;**wary**机警的;**nostalgic**对往事怀恋的, 怀旧的;**particularly**特别;**liking**嗜好，爱好;**memories**回忆;**penchant**嗜好;**dislike**不喜欢，厌恶;**envious**羡慕的;**keen**敏锐的，敏捷的;**especially**尤其, 特别;
+- He is fond of study. /他喜欢学习。
+- a fond embrace. /深情的拥抱
+- He is fond of bathing. /他喜欢游泳。
+- They were fond of boating. /他们喜欢划船。
+- He was fond of celery. /他喜欢吃芹菜。
 - fondly
+	-  [lovingly](dic://lovingly)
+	- _adv._ [adoring](dic://adoring), [doting](dic://doting), [fond](dic://fond)
+	- **affectionately**挚爱地,亲切地;**reminisce**追忆;**remember**记得;**vividly**生动地;**remembering**记住;**nostalgic**对往事怀恋的, 怀旧的;**lovingly**钟爱地;**recall**回想起，记起;**memories**回忆;**cherish**珍爱;**jokingly**开玩笑地;
+	- She is looking fondly at the plants he had nurtured. /她深情地看着他培育的植物。
+	- The outcome was not what he fondly expected. /结果并不象他天真地希望的那样。
+	- I had fondly imagined that riding a mule would be easy. /我曾经天真地以为骑骡子很容易。
+	- The cockboat is ten thousands, remembering fondly such as the mountain, flying more a thousand mountains and rivers, arriving at you, and you total 沐 love the river enjoy to tie up /轻舟万帆，思念如山，飞越千山万水，来到你身边，与你共沐爱河享缠绵！
 - fondness
 	- [fancy](dic://fancy), [partiality](dic://partiality)
 	- [affection](dic://affection), [affectionateness](dic://affectionateness), [tenderness](dic://tenderness), [heart](dic://heart), [warmness](dic://warmness), [warmheartedness](dic://warmheartedness), [philia](dic://philia)
@@ -3174,6 +3354,7 @@ fond
 	- _fondness for_ 喜欢；喜爱
 - fonding
 - fondle
+	-  来自 fond,喜爱。
 	- Touch lightly and with affection, with brushing motions
 	- _v._ [caress](dic://caress)
 	- **masturbate**)进行手淫;**stroking**击;**tease**取笑;**lick**舔;**breasts**胸脯;**crotch**胯部，分叉处;**seduce**引诱;**snatch**抢夺;**cuddle**拥抱;**drool**流口水;**tickle**使发痒;
@@ -3181,11 +3362,13 @@ fond
 	- Discard your pudency, fondle me audaciously 丢弃你的羞怯，大胆地爱抚我。
 	- Mrs Williams fondled her cat as it sat beside he /威廉夫人抚摸着蹲在身边的小猫。
 - fondant
+	- 来自 found-,融化，注入，词源同 foundry, confound.用来指一种软糖。
 	- candy made of a thick creamy sugar paste
 	- _n._ [candy](dic://candy), [confect](dic://confect)
 	- **buttercream**奶油;**frosting**霜状白糖;**ganache**甘那许;**icing**结冰;**cake**蛋糕;**cakes**蛋糕;**cupcakes**纸杯蛋糕;**cupcake**纸托蛋糕;**meringue**调合蛋白;**pastry**油酥点心;**tulle**薄纱;
 
-forage
+forage (scrounge)
+- 来自 Proto-Germanic*fodram,食物，觅食，词源同 food,fodder.
 - [eatage](dic://eatage), [pasture](dic://pasture), [pasturage](dic://pasturage), [grass](dic://grass)
 - **grazing**牧草;**graze**擦伤;**pasture**牧场;**alfalfa**紫花苜蓿;**grasses**稻科植物类;**livestock**家畜, 牲畜;**feed**喂养;**habitat**栖息地，产地;**rations**配给量;**vegetation**植物;**grassland**草原，牧场;
 - **meager**贫乏的;**scrape**用工具刮;**scraps**残羹剩饭;**find**发现;**leftover**残留物;**procure**获得，取得;**afford**给予，提供;**spare**备用的;**scour**冲刷;**get**获得，得到;**gather**收集;
@@ -3195,12 +3378,9 @@ forage
 - _forage plant_ 饲用植物；饲料植物
 - _forage crop_ 饲料作物
 - It was perfect weather, the bees were out foraging, everything was wonderful. /气很好，蜜蜂外出觅食，一切都很美好。
-- scrounge
-	- [forage](dic://forage)
-	- [schnorr](dic://schnorr), [shnorr](dic://shnorr), [cadge](dic://cadge)
-	- _v._ [hunt](dic://hunt), [run](dic://run), [hunt down](dic://hunt down), [track down](dic://track down), [beg](dic://beg)
-	- **meager**贫乏的;**scrape**用工具刮;**scraps**残羹剩饭;**find**发现;**leftover**残留物;**procure**获得，取得;**afford**给予，提供;**spare**备用的;**scour**冲刷;**get**获得，得到;**gather**收集;
 - forager
+	- n. 粮秣征收员, 抢劫者
+	- forage【饲料】 + -er, 表人，是单词forage 派生的动作执行者（施动）名词。
 	- _n._ [hunter](dic://hunter)
 	- **hunter**猎人;**farmer**农夫，农民;**naturalist**博物学家;**gardener**花匠;**anthropologist**人类学家;**subsistence**存活, 生存, 维生之道;**foodie**美食家;**chef**厨师，大师傅;**predator**食肉动物;**eater**食者;**botanist**植物学家
 
@@ -3439,9 +3619,64 @@ gamut
 - a face that expressed a gamut of emotions, from rage to peaceful contentment. /一张表情丰富的脸，能表现从极其愤怒到平和的满意
 - This means that the gamut runs widely, from groping to the most savage rapes /这意味着范围很广，从猥亵到最野蛮的强奸。
 
+game
+- 但是，日耳曼自身来源的英语单词（包括北欧语来源）拼写中的g，基本都发“硬”音，看几个：game（g+a），get（g+e），girl（g+i），go（g+o）和guest（g+u）等。这也是判断单词来源的依据之一。 ​​​​
+- n. 游戏, 比赛; 娱乐; 运动; 体育活动; 一局, 一场; 职业; 野味  
+- v. 赌博  
+- a. 勇敢的, 敢尝试的
+- [biz](dic://biz)
+- [plot](dic://plot), [secret plan](dic://secret plan)
+- [bet on](dic://bet on), [back](dic://back), [gage](dic://gage), [stake](dic://stake), [punt](dic://punt)
+- [crippled](dic://crippled), [halt](dic://halt), [halting](dic://halting), [lame](dic://lame), [gimpy](dic://gimpy)
+- [gamy](dic://gamy), [gamey](dic://gamey), [gritty](dic://gritty), [mettlesome](dic://mettlesome), [spirited](dic://spirited), [spunky](dic://spunky)
+- _n._ [contest](dic://contest), [competition](dic://competition), [activity](dic://activity), [diversion](dic://diversion), [recreation](dic://recreation), [animal](dic://animal), [animate being](dic://animate being)
+- _v._ [bet](dic://bet), [wager](dic://wager), [play](dic://play)
+- _adj._ [unfit](dic://unfit), [brave](dic://brave), [courageous](dic://courageous)
+- _n._ [fit](dic://fit), [healthy](dic://healthy), [cowardly](dic://cowardly), [fearful](dic://fearful)
+	- [athletics](dic://athletics) 集合名词，常指需要体力与技术的sports与games，特指跳高、跑等竞技项目。  
+	- [sport](dic://sport) 含义比athletics广泛，指各种形式的体育运动，尤指户外的如游泳、钓鱼、划船、登山等运动。  
+	- [game](dic://game) 主要指决定胜负的游戏、比赛，通常有一定的规则，参加者必须遵守，如蓝球、足球等。也作“运动会”解。
+- **gameplay**游戏设置;**play**演奏;**player**演员;**arcade**拱廊;**tournament**锦标赛;**players**队员，参与者;**playing**比赛;**RPG**角色扮演游戏;**playable**可演奏的;**role-playing**角色扮演;**replay**重新比赛;
+- The game was a washout. /这场比赛因雨提前结束。
+- a game leg /一条跛腿
+- a game-show hostess. /一位舞女。
+- He is game for anything. /他对什么都有兴趣。
+- That was a game and a half! /那场比赛十分精彩!
+- Are you game for a swim /你愿意去游泳吗
+- Well, their marriage is a zero sum game. /嗯 他们的婚姻是零和博弈。
+- He understands the game inside and out. /他对比赛规则了如指掌。
+- game changer
+	- 游戏改变者；规则改变者；游戏规则改变者；变革者
+	- A game changer, yes, if it works. /这会是划时代的成就，没错，如果能实现的话。
+	- We have 'empty', 'game changer' and 'hot air /我们有“无意义的”、“规则改变者”和“空话”。
+	- Meanwhile, a Korean team from MIT came up with another potential game changer /与此同时，麻省理工学院的一支韩国团队提出了另一个潜在的改变目前规则的方法。
+	-  The baton has been a game changer for Kyungho /这根指挥棒改变了Kyungho的演奏方式。
+	- And, you know, technology is really a game changer, I think, in urbanisation /我觉得科技在城市化中处于力挽狂澜的角色。
+- playgame
+- gamy
+- gaming
+- gamester
+	- n. 赌徒，赌棍
+	- Jane heard them with horror. A gamester! she cried. This is wholly unexpected. I had not an idea of it. /吉英听得心惊肉跳，不禁叫道：“好一个赌棍！这真是完全出人意料；我想也不曾想到。”
+	- Neither could I wonder at all this, when I saw such an interruption of lineages, by pages, lackeys, valets, coachmen, gamesters, fiddlers, players, captains, and pickpockets. /当我看到侍从、仆人、贴身男仆、马车夫、赌徒、提琴手、演奏家、船长和扒手如此中断血统时，我也不会对此感到惊讶。
+- gamesome
+- gamesmanship
+- games
+- gameness
+- gamely
+- gamekeeper
+- gamecock
+	- n. 斗鸡；好斗者；勇敢有生气的人
+	-  [fighting cock](dic://fighting cock)
+	-  [hell-kite](dic://hell-kite), [hell-rooster](dic://hell-rooster)
+	- _n._ [cock](dic://cock), [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper)
+	- **rooster**公鸡;**bulldog**牛头犬，恶犬;**mascot**吉祥物;**LSU**通用登陆舰;**football**足球，橄榄球;
+- game bag
+	- 猎物袋：一种用于装猎物的袋子，通常由猎人在打猎时使用。
 
 gape
 - n. 裂口, 张嘴, 打哈欠  vi. 裂开, 张嘴, 打哈欠
+- 来自 PIE*ghai,打呵欠，张口，词源同 yawn.引申词义吃惊。
 - [goggle](dic://goggle), [gawp](dic://gawp), [gawk](dic://gawk)
 -  [yawn](dic://yawn), [yaw](dic://yaw)
 - _n._ [facial expression](dic://facial expression), [facial gesture](dic://facial gesture), [stare](dic://stare)
@@ -3452,14 +3687,33 @@ gape
 - gapeseed
 - gaper
 - agape
+	-  [agape love](dic://agape love)
+	- [love feast](dic://love feast)
+	-  [gaping](dic://gaping)
+	- _n._ [love](dic://love), [religious ceremony](dic://religious ceremony), [religious ritual](dic://religious ritual)
+	- _adj._ [open](dic://open), [opened](dic://opened)
+	- _n._ [closed](dic://closed), [shut](dic://shut)
+	- **mouth**口，嘴;**adoration**爱慕;**awe**使敬畏;**amazement**惊奇, 惊愕;**speechless**说不出话的;
+	- A horse, its mouth agape in death agony, is spilling its guts. /画中的那匹马大张着挣扎在死亡边缘呼，内脏外流。
+	- Parvaneh stares at him, agape, and can't even think of anything to say. /帕尔瓦娜大张着嘴，瞪着他，不知道该如何开口。
+	- The weak countries were agape and aghast. /弱小的国家目瞪口呆并吓呆了。
+	- Look at Jesus' mouth, just agape in speechless anguish /看看耶稣的嘴，因无法名状的痛苦而张开。
+	-  I was sitting next to a row of kids and I watched them a lot during the show, and their mouths were agape. /我坐在一排孩子旁边， 在演出期间我看了很多他们， 他们的嘴巴张得大大的。
+	- There were silvery tuna, their sleek bodies glinting like knives; iridescent parrotfish, their vibrant scales a tapestry of color; and massive groupers, their mouths agape in a silent, perpetual yawn. /有银色的金枪鱼，光滑的身体像刀一样闪闪发光；彩虹色的鹦嘴鱼，它们充满活力的鳞片是彩色的挂毯；和巨大的石斑鱼，它们张大嘴巴，无声地打哈欠。
 
-garb
+garb (garment)
 - n. 服装, 衣服; 制服; 奇装异服
 - [attire](dic://attire), [dress](dic://dress)
 - [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment), [habilitate](dic://habilitate), [fit out](dic://fit out), [apparel](dic://apparel)
 - _n._ [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
 - _v._ [change state](dic://change state), [turn](dic://turn)
 - **attire**服装;**donning**插筒管;**dressed**穿好衣服的;**robes**礼服;**outfits**全套装备;**costumes**服装;**costume**服装，装束;**wearing**磨损的;**clothing**服装;**robe**长袍，礼服;**dress**给…穿衣;
+- garb oneself as a sailor /打扮成水手模样
+- the black and brown garb of a Franciscan friar. /圣方济各修道士的黑色和褐色装束。
+- she was garbed in Indian shawls. /她别出心裁地穿着印第安毛织披巾。
+- presented their radical ideas in the garb of moderation. /在温和外衣后面表现了他们的激进观点
+- She doffs her garb worn under fire and wears again female attire /脱我战时袍着我旧时裳。
+- " I need to change into fresh garb, Your Grace. May I have your leave" ? /" 我得换身衣服，陛下，可以先告退吗？"
 
 garland
 - _n._ [singer](dic://singer), [vocalist](dic://vocalist), [vocalizer](dic://vocalizer), [vocaliser](dic://vocaliser), [actress](dic://actress), [city](dic://city), [metropolis](dic://metropolis)
@@ -4345,19 +4599,77 @@ hamper (tamper)
 4. **hinder**成为阻碍;**impede**阻止;**obstruct**阻塞;**jeopardize**危及, 损害;**inhibit**抑制;**impair**削弱;**undermine**在某物下挖洞或挖通道;**hindrance**起妨碍作用的事物或人;**interfere**干预;**disrupt**使分裂;**curtail**截断, 缩短;
 
 ==hand==
+- hand(s) down
+	- 传承：将（财产、知识、传统等）从一代传给下一代。 
+	- 传递：将（消息、信息等）传递给他人。
+	-  [hand-me-down](dic://hand-me-down), [hand-down](dic://hand-down)
+	- _v._ [pass on](dic://pass on)
+	- _adj._ [old](dic://old)
+	- _n._ [new](dic://new)
+	- _[hands down win hands down](dic://hands%20down%20win%20hands%20down)_  轻易大胜
+	- _[Win hands down](dic://Win%20hands%20down)_  深得人心; 轻易取胜; 
+	- _[Hand me Down](dic://Hand%20me%20Down)_  流传; 由兄长传下来的旧衣服; 出版者; 需要传递下去的物品;
+	- _[beat hands down](dic://beat%20hands%20down)_  相传击败; 向下敲打手中;
+	- These religious explanations were handed down from generation to generation in the form of myths /这些宗教上的解释透过神话的形式代代流传下来。
+	- The recipe, handed down from mother to daughte /蛋糕的制作方法，由母亲亲手传给女儿，并且各自对其加以修饰。
+	- Or if you win hands down? /还有“你轻而易举地赢了”又是什么意思？
+	- Exhale, clamp the hands down, step back, high point. /呼气，双手向下，后退，抬到高点。
+	- The directors will **hand** **down** their decision tomorrow. /董事们明天将宣布他们的决定。
 - workhand
+	- - n. 人手；佣工
 - unhand
+	- _v._ [let go of](dic://let go of), [let go](dic://let go), [release](dic://release), [relinquish](dic://relinquish)
+	- **sir**阁下，先生;**dare**的风险;**beg**恳求;
+	- " Truly. Now unhand the girl and come give me a kiss" . /" 当然是真的。快来吧，放开那孩子，过来给我一个热切的吻吧。"
+	-  Oh, unhand your sword. One cry from me and Shagga will burst in and kill you. With an axe, not a wineskin" . /" 哦，剑是危险的东西，快放下。你莫非不知我出一声，夏嘎就会冲进来把你大卸八块么？他杀人可是拿斧子，不是用酒袋哪。"
 - underhand
+	- _adj._ 暗中或秘密进行的；诡诈的
+	- (球赛时投球)低手的
+	- _adv._ 秘密地，不正当地
+	- (投球时)低手地
+	- _adj._ [crooked](dic://crooked), [corrupt](dic://corrupt)
+	- _n._ [overhand](dic://overhand), [overhanded](dic://overhanded), [overarm](dic://overarm), [straight](dic://straight), [square](dic://square)
+	- **devious**弯曲的;**dishonest**不诚实的;**deceptive**可能欺骗的, 导致误解的;**tactic**策略，战略;**manipulative**控制的,操纵的;**sneaky**鬼鬼祟祟的;**unethical**不道德的;**nefarious**极坏的;**tactics**战术;**ploy**策略;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
+	- underhand bowling. /投低手球。
+	- sneaky, underhand tactics. /狡猾阴险的策略。
+	- The ball is served underhand and should be batted diagonally across the court. /以下投手势发球，对角线击球穿过球场。
+	- Lastly, people cannot just choose to ignore advertising because advertisers use many underhand methods to get their message across. /最后，人们无法选择忽略广告，因为广告商使用许多卑鄙的方法来传播他们的信息。
+	- Well, I assure you it's nothing underhand. /我保证这绝对是合法正当的。
+	- 
 - sword-hand
 - stagehand
 - shorthand
 	- shorthanded
 - shake-hands
 - secondhand
+	- _adj._ [secondary](dic://secondary), [old](dic://old)
+	- _n._ [primary](dic://primary), [new](dic://new)
+	- **second-hand**用过的;**vintage**收获;**antique**古老的，年代久远的;**buy**购买;**consignment**托付货物;**bookshop**书店;**smoke**烟;**thrift**节俭;**shop**商店;
 - round-hand
 - right-hand
 - overhand
 - offhand
+	- _adj._ 漫不经心的；不在乎的
+	- _adv._ 未经核实地；不假思索地；即席地
+	-  [ad-lib](dic://ad-lib), [extemporaneous](dic://extemporaneous), [extemporary](dic://extemporary), [extempore](dic://extempore), [impromptu](dic://impromptu), [offhanded](dic://offhanded), [off-the-cuff](dic://off-the-cuff),
+	-  [offhanded](dic://offhanded)
+	- [offhanded](dic://offhanded), [offhandedly](dic://offhandedly)
+	-  [offhanded](dic://offhanded), [offhandedly](dic://offhandedly)
+	- _adj._ [unprepared](dic://unprepared), [careless](dic://careless)
+	- _n._ [prepared](dic://prepared), [careful](dic://careful)
+	- **remark**评论;**casually**偶然地;**odd**奇数的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mention**说起;**recall**回想起，记起;**disparaging**轻蔑的;**vaguely**暧昧地;**remarks**摘要;**anecdote**奇闻;**recollection**回忆, 追忆;
+	- be offhand with sb. /对人简慢, 无礼
+	- you were a bit offhand with her this afternoon. /今天下午你对她有点爱理不理。
+	- I can't tell offhand how much it will cost. /我不能立刻告诉你它值多少钱。
+	- He answered in such an offhand manner that I wondered if he’d misheard me /他如此满不在乎的回答教我怀疑他是不是听错了我的话。
+	- He should be offhand and careless, as other men were. /他应该像别的男人那样，随便一点，自然一点。
+	- She presented herself at his place with an offhand air. /她满不在乎地去找他。
+	- Well, offhand I can't think of what else to suggest. /这样的话 我一时也想不出什么建议了。
+	- I would say, offhand, that spiders and pigs were fully as interesting as Henry Fussy. /我可以不假思索地说，蜘蛛和猪完全与亨利·富西一样有趣。
+	- " Are you having any luck with that? " he asked in an offhand tone. /“有什么进展吗？”他唐突地问道。
+	- It will be clear enough to you soon, he said, in an offhand way. /不久就会完全明白了。
+	- Someone, maybe even a friend, who makes an offhand remark that makes you question yourself and your abilities. /有的人，甚至可能是你的朋友，随口说了一句话，就让你质疑自己和自己的能力。
+	- I should have said offhand that there was nothing left to frighten me. /我应该马上说没有什么可以吓到我了。
 - master-hand
 - longhand
 - left-hand
@@ -4369,7 +4681,10 @@ hamper (tamper)
 - handwoven
 - handwork
 	- handworked
-- handwheel
+- handwheel (handbarrow)
+	- _n._ [wheel](dic://wheel), [control](dic://control), [controller](dic://controller)
+	- **lever**杠杆;**lathe**用车床加工;**spindle**轴;**knob**把手;**actuator**执行机构;**rotary**旋转的，转动的;**valve**阀;**solenoid**螺线管;**flange**凸缘;**servo**伺服;**needle**针;
+	- n. 手轮，操纵轮；驾驶盘
 - handshow
 - handshake
 - handset
@@ -8282,7 +8597,12 @@ Quixote
 
 ## R
 rabbit
+- n. 兔子  
+- vi. 猎兔  
+- vt. 让...见鬼去. vi.[英国俚语]唠叨, 喋喋不休(常与on about连用).
 - rabbit hole
+	- 兔子洞：一种复杂、离奇或困难的状态或情况，被认为是一个人掉进或下降的洞。尤其是在追求某事物（如答案或解决方案）的过程中，会导致其他问题、困难或追求。
+	- Unfortunately, some fall down this rabbit hole and they never return. /不幸的是，有些人掉进这个兔子洞后就再也回不来了。
 	- You don't want to go down that rabbit hole. /这可是一条不归路啊。
 	- It was like falling down the rabbit hole. Nothing was normal. /就像掉进了兔子洞。一切都很奇怪。
 	- I was going down this rabbit hole. /我陷入了困惑当中。
@@ -8294,6 +8614,7 @@ rabbit
 - rabbifoot
 - rabbitfish
 - jackrabbit
+	- n. 长耳大野兔
 
 racket
 - **racquet**球拍;**badminton**羽毛球;**tennis**网球;**extortion**敲诈,勒索,逼取;**backhand**反手抽击;
@@ -8477,7 +8798,22 @@ reach
 
 read
 - reread
-- readabout
+- readout
+	- n. 读出；读出器
+	- [read-out](dic://read-out)
+	- _n._ [output signal](dic://output signal), [output](dic://output), [information](dic://information), [info](dic://info), [electronic device](dic://electronic device)
+	- **calibration**调准;**sensor**传感器;**circuitry**电路;**sensors**传感器，感应器;**measurement**测量，测量法;**detector**检测器;**microcontroller**微型控制器,微控制器;**programmable**可编程的;**signal**信号;**microprocessor**微处理机;**odometer**里程表，里程计;
+	- **Minimum readout**:  最小示值；最小读数；小示值；蕞小示值 
+	- `**digital readout**:  数字读数；控制器
+	- **end readout**:  最终读出
+	- _digital readout_ [计]数字读出；数字尺
+	- All readout kits feature overrange protection and are equipped with hoses, carrying case and instructions. /所有读出器组件都有过量程保护，并且配置软管、手提箱和说明书。
+	- The nurse was checking the paper readout on my heart monitor. /那个护士正在检查我的心电监护仪所打印出来的纸条。
+	- Both Washington and Moscow quickly issued readouts of the call. /华盛顿和莫斯科都迅速发布了有关这通电话的信息。
+	- A subtle shift in a digital readout could reveal the clue they're looking for. /读数的细微变化就可以给出他们寻找的线索。
+	- It added, " We welcome the WHO review and look forward to the readout and decision." /它还表示，“我们欢迎世界卫生组织的审查，并期待结果和决定。”
+	- But there was no mention in the State Department readout of that conversation anything about the audiotapes. /但是美国国务院对这场会谈的记录中并未提及相关录音。
+	- He glanced at the computer readout on the dashboard. /他瞥了一眼仪表盘上的电脑读数。
 - readme
 - reader
 - readable
@@ -8980,6 +9316,78 @@ salvia
 - [sage](dic://sage)
 - [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
 
+sand
+- n. 沙, 沙子, 沙滩; 浅黄灰色; <北美>刚毅  
+- vt. 打磨; 撒沙, 以沙掩盖
+- 来自古英语 sand,沙，来自 Proto-Germanic*samdaz,沙，来自 PIE*sem,倾泻，涌出。引申动词词义磨砂，用砂纸打磨
+- sands are running out时间将尽。古人用日晷（那得是晴天）和沙漏计时，沙漏吗，里边装的是沙子（sands，这里要用复数），上瓶中的沙子全部漏进下瓶，一个标准时间过去。国足踢亚洲劲旅尼泊尔队，下半场了，比分落后，留给中国队的时间不多了，直播中听过n次了。Be quick，the sands are running out. ​​​​ 
+- plow(plough) the sands徒劳无功。人类很早就知道沙漠或海滩上是无法种植庄稼的，而这句习语也产生在好几百年前。最早的记载来自英国作家Robert Greene写于1590年的戏剧《Never Too Late》中。值得说的是，作为作家，Robert Greene在世时很出名，可是现在，他最为显著的身份是莎士比亚的一个诋毁者。
+- sanded
+	- adj. 沙地的；铺沙的；满地是沙的 
+	- v. 往……上撒沙子；用砂纸磨；掺沙子（sand 的过去分词）
+	- a clear night sanded with stars /布满星斗的晴空夜晚
+	- The stain will have to be sanded out /这斑点必须用砂纸磨掉。
+	- The surface of the table must be sanded down. /这张桌子的表面得用砂纸磨光。
+	- And I've already got this cut out and approximately sanded out /我已经把这个剪下来了，差不多磨平了。
+	- Then the rover is sanded to scuff the shiny, smooth aluminium which helps the paint adhere better. /然后用砂纸打磨铝板，使之不再光滑从而便于油漆粘附。
+	- The road which the carriages traversed was sanded. /马车经过的道路是用沙子铺成的。
+	- The tiles can be sanded and assembled into furniture, and also cut into smaller products like coasters, or even domino pieces. /这些砖片能被研磨并组装成家具，并也被切成较小型的产品，像是杯垫，甚至是骨牌等等。
+- sandy
+	- [friable](dic://friable), [light](dic://light)
+	- _adj._ [loose](dic://loose), [blond](dic://blond), [blonde](dic://blonde), [light-haired](dic://light-haired), [beachy](dic://beachy), [beachlike](dic://beachlike)
+	- _n._ [compact](dic://compact), [brunet](dic://brunet), [brunette](dic://brunette), [cliffy](dic://cliffy), [clifflike](dic://clifflike)
+	- **sand**沙;**rocky**岩石的，多岩石的;**beach**海滩;**dunes**沙丘;**beaches**海滩;**dune**沙丘;**sands**沙漠;**gravel**砂砾;**pebble**卵石;**grassy**长满草的;**muddy**泥泞的; [flaxen](dic://flaxen)
+	- [arenaceous](dic://arenaceous), [sandlike](dic://sandlike)
+	- 
+- sandwort
+- sandstorm
+- sandstone
+- sandshoe
+- shandpump
+- sandpit
+- sandpiper
+	- _n._ [shorebird](dic://shorebird), [shore bird](dic://shore bird), [limicoline bird](dic://limicoline bird)
+	- **marsh**湿地;**sparrow**麻雀;**plumage**翅膀;**bird**鸟;**birding**玩鸟;**ducks**薄帆布工作服，帆布裤子;**turtle**海龟;**birds**鸟类;**hawk**鹰;**waterfowl**水鸟,水禽;
+	- But they're indistinguishable from the tracks of a modern sandpiper or a plover on a lake shore /但它们与现代鹬和湖边的鸻留下的足迹别无二致。
+	- Next came a sandpiper and gazed at me with much the same guileless expression of eye as the Ouzel. /接下来是一只矶鹬， 它用与欧泽尔一样朴实无华的眼神注视着我。
+	- The researchers think that long-distance fliers such as the American golden-plover and the white-rumped sandpiper picked up the spores while lining their nests. /研究人员们认为像美洲金珩和白尾斑鹬这样的长距离飞鸟在巢旁等待出发时会夹带这些微型孢子。
+- sandpipe
+- sandpaper
+	- _n._ [abrasive](dic://abrasive), [abradant](dic://abradant), [abrasive material](dic://abrasive material)
+	- _v._ [smooth](dic://smooth), [smoothen](dic://smoothen)
+	- **sanding**砂纸打磨;**sanded**沙地的;**abrasive**磨料;**grit**砂砾;**rubbing**摩擦;**plywood**夹板，胶合板;**varnish**虚饰;**eraser**擦除器;**putty**油灰;**acetone**丙酮;**drywall**纸面石膏板;
+	- _[sandpaper](dic://sandpaper)_  n. 砂纸; vt. 用砂纸擦光; 
+	- _[mineral sandpaper](dic://mineral%20sandpaper)_  矿物砂纸
+	-  All right, just wait till I get some sandpaper before you put anything on top of it./好了，等我去拿一些砂纸，然后你再往上面放东西。
+- sandmould
+- sandmold
+- sandman
+- sandiver
+- sanding
+- sandiness
+- sandhopper
+- sandhog
+- sandglass
+- sandfly
+- sander
+- sanded
+- sanddrift
+- sandculture
+- sandcastle
+- sandcasting
+- sandboy
+- sandbox
+- sandblast
+- sandbed
+- sandbath
+- sandbar
+- sandbank
+- sandbag
+- sand-cast
+- sand-break
+- quicksand
+- greensand
+
 sardonic
 - **wry**面部肌肉扭曲的;**sarcastic**讽刺的;**witty**诙谐的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**sly**狡猾的;**snarky**恶声恶气的，咬人的;**irreverent**不敬的;**cynical**愤世嫉俗的;**humorous**诙谐的，幽默的;**satirical**含讽刺意味的, 嘲讽的;**caustic**腐蚀性的;
 - [sarcastic](dic://sarcastic)
@@ -9019,6 +9427,9 @@ scathe
 - scathing
 - scatheless
 
+scar
+- scar：[skɑr] vt. 伤害；给留下伤痕vi. 结疤；痊愈n. 创伤；伤痕
+
 scare
 - [panic](dic://panic)
 - [panic attack](dic://panic attack)
@@ -9047,6 +9458,36 @@ scare
 - scared
 - scarecow
 
+scavenge
+- v. （从废弃物中）觅食, 捡破烂; 食腐
+- 英语单词scavenger来自诺曼时代的英国法语scawager，本意是“在大街上对外地商人征收关税的人”。在封建时期，商人到外地经商需要向当地领主缴纳税金，称为scawage，而负责征收scawage的人就是scawager。英语单词scavenger就来源于此。后来，这些人又增加了负责街道清洁的职责，因此scavenger又产生了“清道夫、拾荒者”的含义，后来又产生了“食腐动物”的含义。
+- scavenge - 从14世纪至16世纪，许多英国城镇都制定了保护本地商人的法律。外来行商（travelling merchants）若把货品在市场上摊开展示出来卖，就会被征收一种名为scavage（字面义为“展示”）的税，负责收此税金的人被称作scavager。16世纪的scavager除了收税还有保持街道清洁的职责。与此同时，scavager的词形演变为scavenger，变化形式和messenger（送信人←messager←message），passenger（乘客←passager←passage）二词完全相同，中间多了一个插入音n。后来这项税被取消了，scavenger就转指“清道夫”，最后又变成“捡破烂者”的代称。到了17世纪从scavenger逆构出动词scavenge，用以表示“在废弃物中捡可用物品”，如今反倒比scavenger常用得多。
+- scavenge：['skævɪndʒ] vt. 打扫；排除废气；以…为食vi. 清除污物；打扫
+- [salvage](dic://salvage)
+-  [clean](dic://clean)
+- _v._ [clean](dic://clean), [make clean](dic://make clean), [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together), [feed](dic://feed)
+- **recycle**使再循环;**forage**饲料;**scraps**残羹剩饭;**scour**冲刷;**survive**活得长;**hunt**打猎;**fend**供养;**roam**漫游，漫步;**starve**饿死;**replenish**补充;**devour**毁灭;
+- scavenge in a rubbish heap /在垃圾堆里捡有用之物
+- The fish and crabs scavenge for decaying tissue /鱼和蟹搜寻腐烂的组织为食。
+- people sell junk scavenged from the garbage. /人们出售从垃圾中捡来的废旧物。
+- the city dump where the squatters scavenge to survive /许多人蹲在那里靠捡破烂为生的城市垃圾堆。
+- The wave of mud engulfed scores of freelance miners scavenging the area /泥石流吞没了大量在该地区捡拾垃圾的自由矿工。
+- I don't know. In these times right now, people are scavenging to pay their bills /我不知道。现在这个时候，人们到处都在掏钱付账。
+- In Accra, Amoah was quickly reduced to scavenging and begging. /在阿克拉，阿莫亚很快沦落到拾荒乞讨的地步。
+- You haven't moved since I left to scavenge this morning. /今早我去做清道夫后，你根本没挪窝。
+- scavenger
+	- ['skævɪn(d)ʒə] n.食腐动物，清道夫，拾荒者
+	- scavenger（清道夫）：古代对外地商人征收关税的人  
+	- n. 食腐动物；清道夫；[助剂] 清除剂；拾荒者
+	- _n._ [chemical agent](dic://chemical agent), [hoarder](dic://hoarder), [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature)
+	- **hunt**打猎;**hunter**猎人;
+	- _radical scavenger_ 游离基清除剂
+	- _scavenger hunt_ 寻物游戏（参加者在规定的时间内寻找指定的物品，以先找到者或先找到的队为胜）
+	- Where there is carrion, there are usually scavengers. /哪里有腐肉，哪里就有食腐动物。
+	- Abby plans a scavenger hunt after work. /雅碧打算在下班后举行一场寻宝游戏。
+	-  Socializing can also give scavengers an immune boost./社交同样可以给清道夫一个免疫助推力。
+	- Their role has now changed from hunter to scavenger. /它们如今从猎手变成了捡食者。
+
 screech
 - n. 尖声喊叫, 尖叫声, 刹车声  
 - vt. 尖声讲  vi. 发出尖声
@@ -9062,6 +9503,9 @@ screech
 - a screech of brakes. /刹车时的刺耳响声。
 - The monkeys were screeching in the trees. /猴子在树上尖声叫着。
 - a bus screeched to a halt /公共汽车嘎的一声停住了。
+
+score
+- (s)ker-(1), scar
 
 scud
 - [dart](dic://dart), [dash](dic://dash), [scoot](dic://scoot), [flash](dic://flash), [shoot](dic://shoot)
@@ -9276,7 +9720,9 @@ schmuck, schnook, schmo, schmoe
 
 schoduler
 
-scrounge
+scrounge (scavenger)
+- 俚语，词源不详。
+- v. 乞讨; 骗取; 搜寻
 - [forage](dic://forage)
 - [schnorr](dic://schnorr), [shnorr](dic://shnorr), [cadge](dic://cadge)
 - _v._ [hunt](dic://hunt), [run](dic://run), [hunt down](dic://hunt down), [track down](dic://track down), [beg](dic://beg)
@@ -9285,6 +9731,11 @@ scrounge
 - _[scrounge a living](dic://scrounge%20a%20living)_ 靠乞讨过日子
 - _[scrounge for sth](dic://scrounge%20for%20sth)_ 白拿
 - She’s always on the scrounge for cigarettes. Why doesn’t she buy her own? /她总向人讨要香烟，为什么自己不买呢？
+- He scrounged a cigarette from his roommate /他向同室居住的人要了一支香烟。
+- While I worked three jobs and went out on whatever auditions I could scrounge up. /那个时候我打着三份工，然后去参加任何我能找到的试镜。
+- Seems like any time you see a squirrel, it's busy doing something-headed somewhere; scrounging for food /好像任何时候看到松鼠，它们都在忙碌——忙着前往某地或是寻找食物。
+- My family was resourceful enough to scrounge clothing for the next day. /家人足够有能力找到第二天能穿的衣服。
+-  " I'll walk to the edge of the village with you, " said Sirius, " see if I can scrounge another paper." /“我和你们一起走到村边，”小天狼星说，“看能不能再偷到一两份报纸。”
 
 secular
 - 来自拉丁语 saecularis,现时的，现世的，来自 saeculum,现时，现世，可能来自 PIE*se,播种，耕种，词源同 seed,semen.-cul,-culum,工具格后缀，词源同 oracle,hibernacle.比喻用法，即相比于神和宗教的永恒，种子只有一次生命过程，引申词义世俗的，非宗教的。
@@ -9333,6 +9784,7 @@ shag
 - _n._ [tobacco](dic://tobacco), [baccy](dic://baccy), [tangle](dic://tangle), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
 - _v._ [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
 - **carpet**地毯;**rug**小地毯;**carpeting**毛毯;**carpets**地毯;**rugs**地毯;**hooker**扭夺时的中心选手;**disco**的士高;**haired**有毛发的;**haircut**理发;**fling**掷，抛;**fuck**与性交
+- 来自古英语 sceacga,毛发，粗毛，来自 Proto-Germanic*skaggija,胡子，胡渣，来自 PIE*skek,摇摆，摇晃，词源同 shake.引申俚语词义粗烟丝，性交等。
 - wall-to-wall shag carpet. /墙根到墙根的长绒地毯。She totally shagged someone, ' said Natasha /她完全和别人上床了，”娜塔莎说。
 - " What a to do? " That means what a shag /“怎么办？”这意味着多么糟糕。
 - Or she's shagged too many married tenants. /要么就是和太多已婚同事纠缠不清。
@@ -9343,6 +9795,10 @@ shag
 	- _adj._ [ungroomed](dic://ungroomed), [rough](dic://rough), [unsmooth](dic://unsmooth)
 	- _n._ [groomed](dic://groomed), [smooth](dic://smooth)
 	- **hairy**多毛的;**fluffy**蓬松的;**haired**有毛发的;**mane**鬃毛;**beard**胡须;**bearded**有芒的;**curly**卷曲的;**blond**金发的;**furry**毛皮的;**bald**秃顶的;**wavy**多浪的;
+	- shaggy hair. /粗浓的毛发
+	- a huge shaggy Alsatian. /一头高大的、毛发粗乱的德国牧羊犬。
+	- His shaggy grey hair fell loosely across his brow. /他凌乱的白发蓬松地搭在额头。
+	- " Not really, " said Hagrid, shaking his shaggy head/ “不完全是，”海格摇着乱蓬蓬的脑袋说。
 	- shagginess
 - shagbark
 
@@ -9396,6 +9852,38 @@ shackle
 	- **dilapidated**破旧的;**makeshift**权宜之计, 临时代用的物品;**derelict**玩忽职守的;**shack**小室;**crumbling**皱纹;**sprawling**蔓生的;**seedy**多种子的;**shabby**破旧的;**tattered**破烂的，衣衫褴褛的;**quaint**离奇有趣的;**desolate**荒凉的;
 - hamshackle
 	- _[hamshackle](dic://hamshackle)_  vt. 束缚；将头和前足绑在一起
+
+shake
+-  来自古英语 sceacan,摇动，摇晃，来自 Proto-Germanic*skakana,摇动，摇摆，来自 PIE*skek,摇动，摇晃，词源同 shag,shock.
+- n. 摇动, 震动; 奶昔  
+- vt. 摇动, 动摇, 使震动, 挥舞  
+- vi. 震动, 发抖, 动摇
+- shake up
+	- n. 人事改组；（体系）剧变；动摇
+	- _n._ [organization](dic://organization), [organisation](dic://organisation)
+	- _v._ [move](dic://move), [displace](dic://displace), [organize](dic://organize), [organise](dic://organise), [shake](dic://shake), [agitate](dic://agitate), [arouse](dic://arouse)
+	- **overhaul**彻底检查;**revamp**修补;**upheaval**剧变;**restructuring**重组;**restructure**重建, 改建, 重组;**reorganization**改组;**realignment**重新排列,再结盟;**reforms**改革;**reform**改革，改良;**layoffs**解雇;**changes**变化，改变;
+	- But Donald Trump is shaking this up /但是唐纳德·特朗普正在动摇这一想法。
+- world-shaking
+- unshakable
+- shaky
+	- shakiness
+	- shakily
+- shaking
+- shakeup
+- shaker
+	- boneshaker
+- shaken
+	- unshaken
+- shakedown
+- shake-out
+- shake-off
+- shake-hands
+- shakable
+- milkshake
+- handshake
+	- handshaking
+- earthshaking
 
 shallow
 - 来自古英语 sceald,浅的，来自 Proto-Germanic*skalaz,晒干的，浅的，来自 PIE*skel,使变干，可能来自 PIE*skai,照耀，照射，词源同 shine,sheen.引申比喻义浅薄的。
@@ -11996,11 +12484,36 @@ tonus
 - [tension](dic://tension), [tensity](dic://tensity), [tenseness](dic://tenseness), [tautness](dic://tautness)
 
 tonic
-- 1 - 来自 tone,身体健康性，-ic,形容词后缀。现词义缩写自 tonic water,让身体健康的水，原为一种保健品，因加入奎宁，通常叫奎宁水，引申词义补药，滋补品等，后词义也与 toner 相融合。
+- n. 补药；主调音或基音
+- adj. 滋补的；声调的；使精神振作的
+- 来自 tone,身体健康性，-ic,形容词后缀。现词义缩写自 tonic water,让身体健康的水，原为一种保健品，因加入奎宁，通常叫奎宁水，引申词义补药，滋补品等，后词义也与 toner 相融合。
+-  [tonic water](dic://tonic water), [quinine water](dic://quinine water)
+- [pop](dic://pop), [soda](dic://soda), [soda pop](dic://soda pop), [soda water](dic://soda water)
+- [keynote](dic://keynote)
+-  [restorative](dic://restorative)
+- [tonal](dic://tonal)
+- [accented](dic://accented)
+-  [bracing](dic://bracing), [brisk](dic://brisk), [energizing](dic://energizing), [energising](dic://energising), [fresh](dic://fresh), [refreshing](dic://refreshing), [refreshful](dic://refreshful)
+- _n._ [soft drink](dic://soft drink), [note](dic://note), [musical note](dic://musical note), [tone](dic://tone), [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament)
+- _adj._ [tonicity](dic://tonicity), [tonus](dic://tonus), [tone](dic://tone), [tonal](dic://tonal), [invigorating](dic://invigorating)
+- _n._ [atonic](dic://atonic), [unaccented](dic://unaccented), [atonal](dic://atonal), [unkeyed](dic://unkeyed), [debilitating](dic://debilitating)
 - **gin**杜松子酒;**stimulant**兴奋剂;**vodka**伏特加酒;**ginger**姜;**antidote**解毒剂;**herbal**草本的;**balm**香油;**soothing**使人宽心的;**liqueur**利口酒;**brandy**白兰地酒;**whiskey**威士忌酒;
 - [tonicity](dic://tonicity), [tonus](dic://tonus), [tone](dic://tone), [tonal](dic://tonal), [invigorating](dic://invigorating)
 - [atonic](dic://atonic), [unaccented](dic://unaccented), [atonal](dic://atonal), [unkeyed](dic://unkeyed), [debilitating](dic://debilitating)
 - [bracing](dic://bracing), [brisk](dic://brisk), [energizing](dic://energizing), [energising](dic://energising), [fresh](dic://fresh), [refreshing](dic://refreshing), [refreshful](dic://refreshful)
+- _hair tonic_ 生发油
+- _tonic wine_ 滋补酒
+- _tonic water_ 开胃水；奎宁水
+- _gin and tonic_ 琴酒补剂；杜松子酒补剂
+- a tonic reflex. /肌肉紧张反射
+- a tonic convulsion or spasm /肌肉因紧张而颤动或痉挛
+- phasic and tonic stretch reflexes /阶段性紧张肌伸张反射。
+- It will be marketed as a tonic for the elderly /这将作为老年人滋补品在市场上销售。
+- This tonic will work miracles for your depression. /这种补药对治疗你的忧郁症十分有效
+- The exhilarating ripple of her voice was a wild tonic in the rain /她那悠扬的嗓音在雨中听了使人陶醉。
+- Some are harmless like drinking garlic water or basic herbal tonics but others are dangerous. /有些对人体无害，比如喝大蒜水或普通的由草药制成的保健药，但有些则是有害的。
+- We said this is the tonic. /我们说主和弦在这里。
+- Sea air is Nature's best **tonic** for mind and body. /海上的空气是大自然赋予的对人们身心的最佳补品。
 
 topple
 - 来自 top,顶端，头部，-le,表反复。特殊用法或比喻用法，引申词义从顶部摔下，倒塌等。

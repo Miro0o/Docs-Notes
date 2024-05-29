@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Disaster & Incidence Response (IR)](Disaster%20&%20Incidence%20Response%20(IR)/Disaster%20&%20Incidence%20Response%20(IR).md)
-↗ [SRC (Security Response Center) & CERT CSIRT CIRT](Disaster%20&%20Incidence%20Response%20(IR)/SRC%20(Security%20Response%20Center)%20&%20CERT%20CSIRT%20CIRT.md)
+↗ [Disaster & Incidence Response (IR)](../Disaster%20&%20Incidence%20Response%20(IR)/Disaster%20&%20Incidence%20Response%20(IR).md)
+↗ [SRC (Security Response Center) & CERT CSIRT CIRT](../Disaster%20&%20Incidence%20Response%20(IR)/SRC%20(Security%20Response%20Center)%20&%20CERT%20CSIRT%20CIRT.md)
 
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 

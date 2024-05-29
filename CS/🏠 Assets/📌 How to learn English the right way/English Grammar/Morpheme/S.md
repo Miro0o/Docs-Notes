@@ -1113,6 +1113,22 @@
 	5. _sickle cell disease_ 贫血；镰状细胞疾病
 	6. _sickle cell anemia_ [医]镰状细胞性贫血
 7. skin
+	1. n. 皮肤, 皮  
+	2. vt. 剥皮, 在...植皮  
+	3. vi. 长皮, 愈合, 蜕皮
+	4. There is more than one way to skin a cat.办法不是只有一种。整个句子里没有复杂的单词，唯一需要注意的是skin这里是动词“剥皮”的含义。skin，日耳曼词源，与拉丁词根seg-,sect-表to cut同源，如segment ['segm(ə)nt] vt&amp;vi.分割，n.段；部分，和sector ['sektə] n.部门；扇形；象限仪；函数尺。 
+	5. 来自古诺斯语 skinn,兽皮，毛皮，来自 Proto-Germanic*skintha,分开，剥皮，来自 PIE*sken,砍，切，来自 PIE*sek,砍，切，词源同 segment,shear.后词义通用化为皮肤。
+	6. under the skin
+		1. 在皮肤下：指在皮肤下面或深入到某人/某物的内部。 
+		2. 深入人心：指某事物或某人的影响力或情感深入到某人的内心。 
+		3. 了解某人/某物的本质：指深入了解某人/某物的真实本质或内在特征。
+	7. get under the skin
+		1. 抓住了最主要的特质 / - 惹恼，激怒：使某人感到非常不舒服或生气。
+		2. What exactly is it about these questions that gets under the skin? /这些令人心动的问题讲的什么内容呢？
+		3. Indeed, Flesh and Bone **gets** **under** **the** **skin** of its characters, who all have their own dark pasts. /事实上，《骨肉之躯》触及了人物皮囊之下的内心世界，他们都有各自不堪回首的过往。
+		4. It has resulted in a winning novel that is exciting, brilliantly written and **gets** deep **under** **the** **skin** of **the** Thatcherite 80s, Smith said. /“最终获奖的小说令人兴奋，写作上才华横溢而且深入到上世纪80年代撒切尔时期深层问题，”史密斯说。​​​​
+	8. woolskin
+	9. etc.
 8. zax
 
 
@@ -4661,6 +4677,37 @@
 			20. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
 			21. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
 7. spy
+
+
+### + \*spel- +
+1. **spoil-, spol-** = booty, 表示“抢劫、破坏”。源自拉丁语 spolium "hide torn from an animal, armor stripped from an enemy, booty."
+	1. spoil
+		1. n. 战利品, 赃物, 奖品, 变质, 次品  
+		2. vt. 损坏, 破坏, 溺爱  
+		3. vi. 腐坏, 掠夺
+		4. 来自拉丁语 spoliare,抢劫，打劫，剥落，剥除衣服，来自 spolium,战利品，原义为剥皮，来自 PIE*spel,分开，劈开，词源同 spill,split.引申词义破坏，糟蹋等，后用于指家长对小孩的溺爱，娇惯，纵容，即糟蹋小孩。
+		5. unspoilt
+		6. unspoiled
+		7. spoilt
+		8. spoilsport
+		9. spoilsman
+		10. spoiler
+		11. spoiled
+		12. spoilage
+			1. n. 变质, 糟蹋, 损耗, 损坏
+			2. spoil,变质，腐坏，腐败，-age,名词后缀。
+	2. spoliate
+		1. vt. 强夺, 掠夺
+		2. 
+	3. spoliator
+		1. n. 抢劫者, 掠夺者
+	4. spoliatory
+		1. a. 抢劫的, 掠夺的, 毁灭文件的, 窜改文件的
+	5. despoil
+		1. vt. 夺取, 掠夺
+		2. de-,向下，离开，spoil,掠夺。即掠夺，夺走。
+2. spelt
+3. spill
 
 
 ### + ⭐ \*spen- + = to draw, stretch, spin

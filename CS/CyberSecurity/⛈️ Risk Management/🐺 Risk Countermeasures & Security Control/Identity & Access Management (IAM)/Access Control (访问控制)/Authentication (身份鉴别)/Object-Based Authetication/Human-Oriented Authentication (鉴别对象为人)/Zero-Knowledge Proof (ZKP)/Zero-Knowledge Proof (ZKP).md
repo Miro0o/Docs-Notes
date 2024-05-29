@@ -28,11 +28,11 @@
 
 ### Examples of ZKP
 #### 1️⃣ Cave Problem
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.00.07%20PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.00.07%20PM.png)
 
 
 #### 2️⃣ Number Theory Problem
-![](../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.58.12%20PM.png)
+![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.58.12%20PM.png)
 
 
 

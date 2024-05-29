@@ -550,6 +550,14 @@ I am a cofounder of Recurrent AI and an assistant professor of Tsinghua Universi
 👍 https://goodapple.top
 CTFer
 
+---
+https://quantithinker-yingshi.github.io
+
+Hi there! I am Yingshi Huang, and you can also call me WingsWong. I am a (pre-) psychometrician working on computerized adaptive testing, insufficient response detection, and online calibration. I obsess about questions like how to efficiently and effectively measure examinees' abilities, how to give an optimal design, and how to provide students with a productive and tailored learning experience.  
+I got a B.S. in psychology from the School of Psychology at [South China Normal University](http://english.scnu.edu.cn/) (2016-2020) and an M.A. in psychometrics from the Collaborative Innovation Center of Assessment for Basic Education Quality at [Beijing Normal University](https://english.bnu.edu.cn/) (2020-2023). Now, I am pursuing a Ph.D. at [University of California, Los Angeles](https://seis.ucla.edu/) (2023-present), and work with [Minjeong Jeon](https://sites.google.com/site/arbormj/home).  
+  
+You can find my ResearchGate [here](https://www.researchgate.net/profile/Huang-Yingshi) and CV [here](https://quantithinker-yingshi.github.io/Yingshi_CV.pdf).
+
 
 ### Campus Lifes
 ↗ [CS International Universities & Countries' Lives](CS%20International%20Universities%20&%20Countries'%20Lives/CS%20International%20Universities%20&%20Countries'%20Lives.md)
@@ -597,6 +605,17 @@ https://github.com/geekan/HowToLiveLonger
 ---
 https://github.com/Anduin2017/HowToCook
 程序员做饭指南
+
+---
+https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf
+认知偏差知识手册 - 飞书
+
+---
+https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
+
+The Cognitive Bias Codex
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 
 
 

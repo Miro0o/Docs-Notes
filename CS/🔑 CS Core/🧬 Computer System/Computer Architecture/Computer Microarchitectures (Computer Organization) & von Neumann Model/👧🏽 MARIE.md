@@ -28,7 +28,6 @@ MARIE:
 
 ### MARIE ISA
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.56.06%20PM.png)
-
 #### MARIE Instruction Encoding
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%201.56.16%20PM.png)
 
@@ -45,8 +44,6 @@ MARIE:
 ### 📬 Addressing Modes
 #### Direct Addressing
 Direct addressing **visits the content of the objects** (instructions or data).
-
-
 #### Indirect Addressing
 Indirect addressing **visits the ADDRESS of the content of the objects** (instructions or data).
 

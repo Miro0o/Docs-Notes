@@ -82,6 +82,12 @@ https://quine.sh/quests/creator?questId=3
 profile widget  
 
 
+### Embed File /Code /Page from github to your website
+🏠 https://emgithub.com/
+🚧 https://github.com/yusanshi/emgithub?tab=readme-ov-file
+Embed a file from GitHub repository just like GitHub Gist.
+
+
 
 ## Ref
 [SSH keypair setup for GitHub (or GitHub/GitLab/BitBucket, etc, etc)]: https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278
