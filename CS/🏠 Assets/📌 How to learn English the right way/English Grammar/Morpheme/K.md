@@ -2743,7 +2743,13 @@
 		4. _[True Carnage](dic://True%20Carnage)_ 真实大屠杀
 		5. _[Primal Carnage](dic://Primal%20Carnage)_ 原始杀戮; 原始杀戮灭绝; 原始大屠杀冲击; 原始杀害; 
 		6. _[Total Carnage](dic://Total%20Carnage)_ 黑珍珠部队; 绝地大屠杀;
+		7. From the air, we can see the carnage. /从空中我们就可以看到这场台风肆虐的痕迹。
+		8. Though poaching is still a problem, strict laws have reduced this senseless carnage. /虽然偷猎仍是个问题，但严格的法律已使滥杀减少。
+		9. That's why you have the carnage. /这就是为什么会有成堆的尸体。
+		10. But the plaster workshop was very small and it was complete carnage. /雕塑作坊很小，里面完全是一团糟。
+		11. Naturally, everyone began to ask who could be responsible for such carnage /自然，每个人都开始质问，是谁犯下这滔天罪行。
 	3. carnal (corporal)
+		1. carn-肉 + -al形容词后缀。
 		2.  [animal(a)](dic://animal(a)), [fleshly](dic://fleshly), [sensual](dic://sensual)
 		3. _adj._ [physical](dic://physical), [flesh](dic://flesh)
 		4. _n._ [mental](dic://mental)
@@ -2756,7 +2762,22 @@
 	4. carnify
 		1. _v._ [change state](dic://change state), [turn](dic://turn)
 	5. carnival
+		1. carnival（狂欢节）：大斋期开始前的“谢肉节”  
+		2. “狂欢节”在英语中为carnival，来自拉丁文carne vale，等于英语中的“flesh, farewell!”（肉，再见！），所以依其本意应译为“谢肉节”。根据基督教的教义，基督复活节前40天是一个为期40天的大斋期，即四旬斋（lent）。斋期里，人们禁止娱乐，禁食肉食，反省、忏悔以纪念复活节前3天遭难的耶稣，生活肃穆沉闷。因此，在四旬斋开始前三天，人们便抓紧时间开始纵情吃喝玩乐。一些主张宗教改革的人如新教徒便借此举办各种狂欢活动，挑战天主教的权威。荷兰画家Pieter Bruegel的名画《狂欢者与斋戒者的斗争》（Fight Between Carnival and Lent）便反映了两教派之间的斗争。  
+		3. 因为再过三天就要跟肉食说拜拜了，这三天故此得名carnival（谢肉节）。久而久之，纵情狂欢的carnival倒成了一个盛大节日，而四旬斋却逐渐被人遗忘。  
+		4. carnival的前半部分是词根carn-，表示“肉”。该词根衍生众多与“肉”有关的单词。  
+		5. carn-：肉  
+		6. carnal：['kɑːn(ə)l] adj.肉体的，性欲的  
+		7. carnival：['kɑːnɪv(ə)l] n.狂欢节，嘉年华，饮宴狂欢  
+		8. carnivore： ['kɑːnɪvɔː] n.食肉动物，食虫植物  
+		9. carnivorous：[kɑː'nɪv(ə)rəs] adj.食肉的，肉食性的  
+		10. carcass： ['kɑrkəs] n.（人或动物的）尸体，残骸；（除脏去头备食用的）畜体  
+		11. reincarnate： [,riːɪn'kɑːneɪt] vt.使转世化身adj.转世化身的。记：re再次+in进入+carn肉体+ate动词后缀
 	6. carnivore, carnivorous
+		2. _n._ [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal), [predator](dic://predator), [predatory animal](dic://predatory animal)
+		3. **vegetarian**素食者;**predator**食肉动物;**mammal**哺乳动物;**animal**动物;**reptile**爬虫类的;**vegan**严格的素食主义者;**foodie**美食家;**cougar**美洲狮，美洲豹;**eater**食者;**mammals**哺乳类;**meat**肉，肉类;
+		4. large carnivores, as the bear or lion. /大的食肉动物，如熊或狮子
+		5. The big cats aren't the only carnivores in town. /大型猫科动物并不是这里唯一的食肉动物。
 	7. carny
 		1. _carny_  n. 巡回演艺团; vt. 哄骗;
 	8. discarnate
@@ -2780,18 +2801,18 @@
 			2.  [personification](dic://personification)
 			3. _n._ [personification](dic://personification), [religious doctrine](dic://religious doctrine), [church doctrine](dic://church doctrine), [gospel](dic://gospel), [creed](dic://creed), [time](dic://time), [embodiment](dic://embodiment)
 			4. **reincarnation**再投胎,再生,转世;**iteration**反复;**version**译文;**reborn**再生的;**offshoot**分支;**manifestation**显示;**forerunner**先驱, 开路人;**original**原物;**existence**存在;**rebirth**复兴;**eponymous**齐名的;
-		11. . incarnadine
+		11. incarnadine
 			1. _v._ [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour), [color in](dic://color in)
 			2. **crimson**深红;**scarlet**猩红;
 			3. _[incarnadine](dic://incarnadine)_  n. 鲜红色，深粉红色; adj. 鲜红色的，深粉红色的; v. （使）呈鲜红色；染红;
 	10. carcase, carcass
-		1. 1. the dead body of an animal especially one slaughtered and dressed for food
+		1. the dead body of an animal especially one slaughtered and dressed for food
 			1. _n._ [body](dic://body), [dead body](dic://dead body)
 		2. corpse: 1. the dead body of a human being (different from carcase)
 			1. [cadaver](dic://cadaver), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains) 
 		3. **carcass**尸体;**meat**肉，肉类;**lamb**羔羊，小羊;**fillet**无骨的鱼或肉排;**poultry**家禽;**butcher**屠杀;**fillets**嵌条;**corpse**尸体;**butchers**屠宰者;**boar**野猪;**slaughter**残杀;
 	11. carrion
-		1. 1. _n._ 动物尸体的腐肉 污秽的东西
+		1. _n._ 动物尸体的腐肉 污秽的东西
 		2. _adj._ 腐肉的; 腐臭的;吃腐肉的;腐败的; 秽行的
 		3. _n._ [body](dic://body), [dead body](dic://dead body)
 		4. **vultures**秃鹰;**carcass**尸体;**prey**捕食;**corpses**尸体;**corpse**尸体;**forage**饲料;**insects**昆虫;**dung**动物的粪便;**fowl**鸟;**rotting**深蚀刻;**birds**鸟类;
@@ -2939,7 +2960,6 @@
 		12. cold-short
 		13. etc..
 	13. skirt
-	14. 
 7. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius
@@ -2948,22 +2968,37 @@
 	5. scorpionism
 8. **shrub-** = bush
 	1. shrub
-		1. _n._ [woody plant](dic://woody plant), [ligneous plant](dic://ligneous plant)
-		2. **deciduous**每年落叶的;**evergreen**常绿的;**flowering**开花的;**bush**矮树丛;**cactus**仙人掌;**vegetation**植物;**foliage**叶子;**herb**香草，药草;**tree**树;**fern**蕨类植物;**blooms**水华;
-		3. undershrub
-		4. shrubland
-		5. shrubby
-		6. shrubbery
+		1. [bush](dic://bush)
+		2. _n._ [woody plant](dic://woody plant), [ligneous plant](dic://ligneous plant)
+		3. **deciduous**每年落叶的;**evergreen**常绿的;**flowering**开花的;**bush**矮树丛;**cactus**仙人掌;**vegetation**植物;**foliage**叶子;**herb**香草，药草;**tree**树;**fern**蕨类植物;**blooms**水华;
+		4. a shrub of spreading habit. /有蔓生习性的灌木。
+		5. There is a small evergreen shrub on the hillside /山腰上有一小块常绿灌木丛。
+		6. a shrub that displays hardiness /长得很坚实的灌木
+		7. The Coffee plant is a shrub which resembles the laurel. /咖啡树是一种类似于月桂树的植物。
+		8. But pack rats seem to eat these noxious shrubs with impunity. /而林鼠似乎吃下这些有毒物质后身体并没有出现问题。
+		9. undershrub
+		10. shrubland
+		11. shrubby
+			1. adj. 灌木的；灌木繁茂的；灌木一般的
+			2. [fruticose](dic://fruticose), [fruticulose](dic://fruticulose)
+			3. _adj._ [shrub](dic://shrub), [bush](dic://bush)
+			4. **shrub**灌木;**shrubs**灌木;**deciduous**每年落叶的;**grasses**稻科植物类;**woody**木质的;**evergreen**常绿的;**grassy**长满草的;**grassland**草原，牧场;**vegetation**植物;**flowering**开花的;**woodland**林地;
+			5. As I drove, all along the roadside shrubby birch kept close company with the car. /当我开车时，路边的灌木丛中的桦树一直与汽车紧紧相伴。
+		13. shrubbery
 	3. scrub
-		1. [chaparral](dic://chaparral), [bush](dic://bush)
-		2. [scrubbing](dic://scrubbing), [scouring](dic://scouring)
-		3. [scour](dic://scour)
-		4. [scrub up](dic://scrub up)
-		5. [cancel](dic://cancel), [call off](dic://call off), [scratch](dic://scratch)
-		6. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany), [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
-		7. _v._ [rub](dic://rub), [wash](dic://wash), [lave](dic://lave)
-		8. _adj._ [unimproved](dic://unimproved)
-		9. _n._ [improved](dic://improved)
+		1. n. 矮树；洗擦；擦洗者；矮小的人（或物）
+		2. vt. 用力擦洗；使净化
+		3. vi. 擦洗；进行手臂消毒
+		4. adj. 矮小的；临时凑合的；次等的
+		5. [chaparral](dic://chaparral), [bush](dic://bush)
+		6. [scrubbing](dic://scrubbing), [scouring](dic://scouring)
+		7. [scour](dic://scour)
+		8. [scrub up](dic://scrub up)
+		9. [cancel](dic://cancel), [call off](dic://call off), [scratch](dic://scratch)
+		10. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany), [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
+		11. _v._ [rub](dic://rub), [wash](dic://wash), [lave](dic://lave)
+		12. _adj._ [unimproved](dic://unimproved)
+		13. _n._ [improved](dic://improved)
 			1. [clean](dic://clean) 是这些动词中最常用的词，指将某物或某处的污物等清除掉，弄干净。  
 			2. [clear](dic://clear) 指清除不要的东西。  
 			3. [sweep](dic://sweep) 指用扫帚等进行清扫，也用作比喻。  
@@ -2971,14 +3006,94 @@
 			5. [mop](dic://mop) 侧重指用拖把擦洗地板，有时也指擦干净或擦去。  
 			6. [wipe](dic://wipe) 多指用布、纸等物把东西擦净，也指擦掉某物。  
 			7. [scrub](dic://scrub) 指用硬刷、肥皂或水用力地擦洗某物。
-		10. **wash**洗涤;**cleanser**清洁剂;**brush**刷子;**lotion**洗液;**cleansing**清洁,使清洁的人或物;**cleanse**净化;**rinse**冲洗掉;**wipe**擦;**mop**擦干;**soap**肥皂;**wipes**擦拭巾;
-		11. underscrub
-		12. scrubwoman
-		13. scrubby
-		14. scrubbing
-		15. scrubber
-		16. scrub-up
+		14. **wash**洗涤;**cleanser**清洁剂;**brush**刷子;**lotion**洗液;**cleansing**清洁,使清洁的人或物;**cleanse**净化;**rinse**冲洗掉;**wipe**擦;**mop**擦干;**soap**肥皂;**wipes**擦拭巾;
+		15. underscrub
+		16. scrubwoman
+		17. scrubby
+			1. adj. 矮小的；树丛繁盛的
+			2. [scrabbly](dic://scrabbly)
+			3. [scrawny](dic://scrawny), [stunted](dic://stunted)
+			4. _adj._ [wooded](dic://wooded), [inferior](dic://inferior)
+			5. _n._ [unwooded](dic://unwooded), [treeless](dic://treeless), [superior](dic://superior)
+			6. **scrub**用力擦洗;**overgrown**长得很快;**grassy**长满草的;**grassland**草原，牧场;**woodland**林地;**barren**贫瘠的;**arid**干旱的;**brush**刷子;**sandy**含沙的;**dusty**落满灰尘的;**prickly**多刺
+			7. London's, in particular, mostly protects scrubby agricultural fields and pony paddocks. /尤其是伦敦的绿化带只是保护矮小的农业土地还有小马围场。
+			8. He moves his way through scrubby pines. /他只能在乱树丛间摸索前行。
+			9. " I don't think so, " said a wizard with a scrubby brown beard. /“我不这样认为，”一位留着棕色短胡子楂儿的巫师说话了。
+			10. " There's nothing to see. I live in a scrubby little room in a hotel" . /“没什么可看的。我住在旅馆一个破旧的小房间里” 。
+			11. He ran over the dry, cracked ground, past scrubby bushes and scattered gum trees. /他跑过干裂的地面，经过灌木丛和零散的桉树。
+		18. scrubbing
+		19. scrubber
+		20. scrub-up
 9. screen
+	1. n. 屏幕, 银幕, 荧光屏; 影视; 屏风, 掩蔽物; 纱窗  
+	2. vt. 掩藏, 遮蔽; 庇护; 筛查, 调查, 筛选; 放映
+	3. n. 屏幕，荧光屏；银幕；电影（总称）；屏风，隔板；掩蔽物，屏障；纱窗，纱门；（医疗）化验，检查；（机动车的）挡风玻璃；（篮球、冰球等运动的）掩护；掩护部队，护航舰队；大筛子，滤网；（纱门或纱窗的）金属丝，塑料线；（印刷）网屏，网版；屏蔽器 
+	4. v. 隐藏，遮蔽；庇护，包庇；检查，筛查；审查，甄别；筛选，检查排除；防止（或免受）电磁干扰；放映（影片），播放（电视节目）；分析，评估；加网印刷
+	5. 自中古英语 scren,挡风屏，炉挡，火炉栏，来自 Proto-Germanic*skirmiz,挡开，屏障，保护，来自 PIE*sker,砍，切，分开，词源同 shear,share.引申诸相关词义及比喻义银屏，电影等。
+	6. [silver screen](dic://silver screen), [projection screen](dic://projection screen)
+	7.  [blind](dic://blind)
+	8.  [CRT screen](dic://CRT screen)
+	9. [cover](dic://cover), [covert](dic://covert), [concealment](dic://concealment)
+	10. [sieve](dic://sieve)
+	11. [screen door](dic://screen door)
+	12. [test](dic://test)
+	13.  [screen out](dic://screen out), [sieve](dic://sieve), [sort](dic://sort)
+	14.  [block out](dic://block out)
+	15. [riddle](dic://riddle)
+	16. [shield](dic://shield)
+	17. _n._ [surface](dic://surface), [protective covering](dic://protective covering), [protective cover](dic://protective cover), [protection](dic://protection), [display](dic://display), [video display](dic://video display), [covering](dic://covering)
+	18. _v._ [check](dic://check), [analyze](dic://analyze), [analyse](dic://analyse), [study](dic://study), [examine](dic://examine), [canvass](dic://canvass), [canvas](dic://canvas)
+		1. [conceal](dic://conceal) 正式用词，多强调有目的、有意识，巧妙地进行隐藏或隐瞒。  
+		2. [hide](dic://hide) 普通用词，既可指有意地隐藏，又可指无意或偶然地藏匿。  
+		3. [screen](dic://screen) 指把处于被发现的人或物掩盖起来，使其不被发现。
+	19. **onscreen**在银幕上;**on-screen**在计算机屏幕上看到的;**LCD**液晶显示屏;**projector**放映机;**display**显示;**backlit**从背后照亮的;**backlight**背后照明;**keypad**按键;**cursor**游标，指针;**keyboard**键盘;**icon**图标;
+	20. screen sb. from blame /包庇某人
+	21. a narcissistic silent screen star /孤芳自赏的影星
+	22. they were off-screen lovers. /他们是荧幕外的情侣。
+	23. under screen of night /在夜幕的掩护下
+	24. They hid behind the screen of bushes. /他们躲在灌木丛后。
+	25. her big-screen debut /她在电影中的首次演出。
+	26. How in the hell do they screen for that? /这要怎么筛选？
+	27. It was really wild to do green screen. /用绿幕还挺疯狂的。
+	29. windscreen
+	30. wide-screen
+	31. unscreened
+		1. adj. 未筛过的；未屏蔽的；未经检查过的；未用帘幕遮住的
+		2. transfusion with unscreened blood. /输入未经检查的血液。
+	32. telescreen
+	33. sunscreen
+	34. smokescreen
+	35. small-screen
+	36. silk-screen
+	37. screenwriter
+		1. _n._ [scriptwriter](dic://scriptwriter)
+		2. **filmmaker**电影摄制者;**screenplay**电影剧本;**novelist**小说家;**writer**作家;**playwright**剧作家;**cinematographer**电影摄影技师;**actor**行动者;**producer**生产者;**lyricist**抒情诗人;**animator**鼓舞者;**actress**女演员;
+		3. What's a screenwriter to do now that the Soviet Union's gone and the Cold War is a microwaved warmish mush? /苏联既已瓦解，冷战成为过去，如今的编剧们又该怎样写呢？
+		4. Which I think should start with potty training, but I'm not a screenwriter. /个人认为应该从如厕训练开始，可惜我不是编剧。
+	38. screenshot
+	39. screenplay
+		1. _n._ [script](dic://script), [book](dic://book), [playscript](dic://playscript)
+		2. **screenwriter**电影剧本作家;**script**手迹;**film**胶卷;**novel**新奇的;**movie**电影;**sequel**续集;**cinematography**电影术;**novella**短篇故事;**filmmaker**电影摄制者;**directorial**管理的;**filmmaking**电影摄制,制片;
+		3. Daniel Kwan and Daniel Scheinert together won best director and best original screenplay. /丹尼尔·关和丹尼尔·谢纳特共同获得了最佳导演和最佳原创剧本奖。
+		4. Everything Everywhere All at Once also won for best editing and best original screenplay. /《瞬息全宇宙》还获得了 “最佳剪辑” 和 “最佳原创剧本” 奖。
+	40. screenland
+	41. screening
+		1. _n._ [display](dic://display), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [concealment](dic://concealment), [concealing](dic://concealing)
+		2. **testing**测试;**film**胶卷;**profiling**压型;**diagnostic**诊断的, 判断的;**evaluation**估价,评价;**vetting**审查，审核;**documentary**纪录片;**treatment**处理;**premiere**首位的;**examination**检查, 调查;**surveillance**盯梢, 监视;
+		3. _screening test_ 筛选试验；屏蔽试验
+		4. _screening process_ 筛选工序；过虑程式
+		5. _silk screening_ 丝印；丝幕法；丝网漏印法
+		6. _window screening_ 窗纱
+		7. _screening machine_ 筛分机；筛选机
+		8. _screening effect_ 屏蔽效应
+		9. _health screening_ 健康检查；健康普查；卫生局的筛选
+		10. _preliminary screening_ 初步筛选
+		11. _screening experiment_ 筛选实验；屏蔽实验
+		12. _screening agent_ 掩蔽剂；遮蔽剂
+		13. _genetic screening_ 基因筛检；遗传筛查
+		14. _screening procedure_ 甄别程序；筛选步骤
+		15. _coarse screening_ 粗筛选
+	42. screenage
 10. scurf
 	1. - n. 头皮屑
 	2. _n._ [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck), [scrap](dic://scrap)

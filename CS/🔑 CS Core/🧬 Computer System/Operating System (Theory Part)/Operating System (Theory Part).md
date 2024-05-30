@@ -7,8 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Operating System (Engineering Part)](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
-↗ [Operating System Kernel](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
-↗ [System Core Function Libraries & C Standard Library](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
+
+↗ [Operating System Components & Runtime Libraries](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+- ↗ [Operating System Kernel (Kernel Mode)](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+- ↗ [System Core Function Libraries & C Standard Library (User Mode)](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 
 
 ### Learning Resources

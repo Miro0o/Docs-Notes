@@ -25,11 +25,11 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ### Related Topics
 ↗ [Linux Kernel Security Mechanism](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Kernel%20Security%20Mechanism/Linux%20Kernel%20Security%20Mechanism.md)
-↗ [Operating System Kernel](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
+↗ [Operating System Kernel (Kernel Mode)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 ↗ [Operating System (Theory Part)](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
 
-↗ [System Core Function Libraries & C Standard Library](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
-- ↗ [GNU C Library (glibc)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
+↗ [System Core Function Libraries & C Standard Library (User Mode)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
+- ↗ [GNU C Library (glibc)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
 ↗ [Operating System Components & Runtime Libraries](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [OS Level Programming with C & CPP](../../📟%20System%20Level%20Programming/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
@@ -46,7 +46,7 @@ Linux内核之旅是一个完全自由和开放的平台，它的建设是在西
 👨‍💻 👍 https://linux-kernel-labs.github.io/refs/heads/master/index.html
 Linux Kernel Teaching
 This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
-- This content is based on the [Operatings Systems 2](http://ocw.cs.pub.ro/courses/so2) course from the Computer Science and Engineering Department, the Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest.
+- This content is based on the [Operatings Systems 2](http://ocw.cs.pub.ro/courses/so2) course from the Computer Science and Engineering Department, the Faculty of Automatic Control and Computers, **University POLITEHNICA of Bucharest**.
 - You can get the latest version at [http://github.com/linux-kernel-labs](http://github.com/linux-kernel-labs).
 
 📖 http://www.kroah.com/lkn/
@@ -67,7 +67,7 @@ IBM | Anatomy of Linux Kernel
 
 
 
-## Linux Kernel Components & Architecture
+## 🎯 Linux Kernel Components & Architecture
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel#Architecture_and_features
 
@@ -75,11 +75,11 @@ IBM | Anatomy of Linux Kernel
 <small>Image source from wikipedia: Linux Kernel </small>
 
 
-### Linux Kernel Components
+### Linux Kernel Components Overview
 ![](../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.48.02%20PM.png)
 
 Briefly, the principal kernel components are the following:
-- **Signals**: The kernel uses signals to call into a process. For example, signals are used to notify a process of certain faults, such as division by zero. Table 2.6 gives a few examples of signals.
+- **Signals**: The kernel uses signals to call into a process. For example, signals are used to notify a process of certain faults, such as division by zero. 
 - **System calls**: The system call is the means by which a process requests a specific kernel service. There are several hundred system calls, which can be roughly grouped into six categories:
 	- file system
 	- process
@@ -213,7 +213,7 @@ This documentation does not include rustdoc generated information.
 
 
 
-## 👩‍💻 Linux User & Administrator
+## 👩‍💻 Linux Kernel User & Administrator
 > 🔗 https://www.kernel.org/doc/html/next/index.html
 
 - [The Linux kernel user's and administrator's guide](https://www.kernel.org/doc/html/next/admin-guide/index.html)
