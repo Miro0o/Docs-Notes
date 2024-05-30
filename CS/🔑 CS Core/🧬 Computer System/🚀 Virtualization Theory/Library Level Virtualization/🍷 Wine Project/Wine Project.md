@@ -11,8 +11,8 @@
 - [Wine Forums](https://forum.winehq.org)
 
 ### Related Topics
-↗ [Vulkan Project](../../../../../Software%20Engineering/🧩%20Graphics%20Rendering%20Frameworks/Vulkan%20Project/Vulkan%20Project.md)
-↗ [Graphics Rendering Frameworks](../../../../../Software%20Engineering/🧩%20Graphics%20Rendering%20Frameworks/Graphics%20Rendering%20Frameworks.md)
+↗ [Vulkan Project](../../../../../Software%20Engineering/🧩%20(3D)%20Graphics%20Rendering%20Frameworks/Vulkan%20Project/Vulkan%20Project.md)
+↗ [(3D) Graphics Rendering Frameworks](../../../../../Software%20Engineering/🧩%20(3D)%20Graphics%20Rendering%20Frameworks/(3D)%20Graphics%20Rendering%20Frameworks.md)
 
 ↗ [Rosetta](../Rosetta.md)
 

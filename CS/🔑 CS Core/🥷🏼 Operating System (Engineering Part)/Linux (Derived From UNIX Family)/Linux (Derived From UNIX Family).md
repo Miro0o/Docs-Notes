@@ -189,8 +189,8 @@ The Linux loadable modules have two important characteristics:
 
 ### 🔩 Linux Kernel & System Core Libraries
 ↗ [🍸 Linux Kernel /Linux Kernel Components](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md#Linux%20Kernel%20Components)
-↗ [System Core Function Libraries & C Standard Library](../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
-↗ [GNU C Library (glibc)](../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
+↗ [System Core Function Libraries & C Standard Library (User Mode)](../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
+↗ [GNU C Library (glibc)](../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
 ↗ [Privilege Level & Protection Ring](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 

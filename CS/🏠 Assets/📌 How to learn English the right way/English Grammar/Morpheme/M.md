@@ -4210,9 +4210,30 @@
 	7. morosis
 2. **mol-** = heap, 表示“堆”。源自拉丁语 moles "heavy bulk, mass, massive structure."
 	1. demolish
-	2. demolishion
+		1. de-相反 + mol-堆 + -ish表动词 → 不成堆 → 破坏。
+	2. demolition
+		1. de-相反 + mol-堆 + -ition表名词。
 	3. molecule
-		1. etc..
+		1. mole-堆 + -cule小 → 很小的东西堆在一起 → 分子。
+		2. n. 分子, 些微
+		3. supermolecule
+		4. polarmolecule
+		5. molecular
+			1. unimolecular
+			2. supramolecular
+			3. polymolecularity
+			4. polymolecular
+			5. monomolecular
+			6. molecularity
+			7. macromolecular
+			8. intramolecular
+			9. intermolecular
+			10. gram-molecular
+			11. equimolecular
+			12. bimolecular
+		6. macromolecule
+		7. biomolecule
+		8. biomacromolecule
 	4. mole
 		1. molugram
 		2. molozonide
@@ -4221,11 +4242,19 @@
 		5. molehill
 		6. molectronics
 	5. molest
-		1.  来自拉丁语 molestus,麻烦的，难以控制的，来自 moles,大块，词源同 mole,demolish.引申词义麻烦，烦恼，苦恼，后特别用于指性骚扰。
-		2. unmolested
-		3. molestation
-		4. molester
-3. mood
+		1. 来自拉丁语 molestus,麻烦的，难以控制的，来自 moles,大块，词源同 mole,demolish.引申词义麻烦，烦恼，苦恼，后特别用于指性骚扰。
+		2. vt. 妨碍, 干扰, 调戏
+		3.  [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy), [chevy](dic://chevy), [chevvy](dic://chevvy), [beset](dic://beset), [plague](dic://plague), [provoke](dic://provoke)
+		4. _v._ [assail](dic://assail), [assault](dic://assault), [set on](dic://set on), [attack](dic://attack), [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to)
+		5. **molestation**骚扰,干扰,调戏;**harass**使烦恼;**kidnap**绑架;**pedophile**恋童癖者;**pervert**使堕落, 把…引入邪路, 使变坏;**rapist**强奸犯;**humiliate**蒙羞;**raped**强暴;**rape**强奸，掠夺;**seduce**引诱;**sexually**性别上地;
+		6. He molested children and was sent to jail /他猥亵儿童, 进了监狱。
+		7. So, you wanna wait until he actually molests one of our kids? /那么，你是想等到他侵犯了我们的其中一个孩子之后？
+		8. Eight months before, Allen is fired for molesting students. /8个月前艾伦 因骚扰学童被开除。
+		9. Yes. Well, in between benefit galas, it seems that Simone has been molesting my son, possibly for years. /对，在举办慈善晚宴之间，似乎萨蒙妮在性骚扰我儿子，可能已经多年了。
+		10. unmolested
+		11. molestation
+		12. molester
+4. mood
 
 
 

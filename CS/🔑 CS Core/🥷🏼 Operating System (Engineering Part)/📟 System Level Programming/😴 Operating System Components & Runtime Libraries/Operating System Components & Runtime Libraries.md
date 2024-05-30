@@ -9,15 +9,15 @@
 ↗ [Program Execution & Compilation System](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 ↗ [Library Level Virtualization](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
 
-↗ [Computer OS Interfaces](../../../🧬%20Computer%20System/Computer%20Interfaces/Computer%20OS%20Interfaces/Computer%20OS%20Interfaces.md)
-- ↗ [POSIX (Portable Operating System Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces/Computer%20OS%20Interfaces/🦶🏽%20POSIX%20(Portable%20Operating%20System%20Interface)/POSIX%20(Portable%20Operating%20System%20Interface).md)
+↗ [System Call Interfaces (SCI)](../../../🧬%20Computer%20System/Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
+- ↗ [POSIX (Portable Operating System Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/🦶🏽%20POSIX%20(Portable%20Operating%20System%20Interface)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
 ↗ [C-like Runtimes](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
 ↗ [OS Level Programming with C & CPP](../OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
-↗ [Operating System Kernel](🫀%20Operating%20System%20Kernel/Operating%20System%20Kernel.md)
-↗ [System Core Function Libraries & C Standard Library](📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library.md)
-- ↗ [GNU C Library (glibc)](📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
+↗ [Operating System Kernel (Kernel Mode)](🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+↗ [System Core Function Libraries & C Standard Library (User Mode)](📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
+- ↗ [GNU C Library (glibc)](📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
 ↗ [OS Level Virtualization](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
 
@@ -46,7 +46,7 @@ API函数库是连接用户软件和系统内核桥梁，或者是“协议”�
 
 如果各系统平台都能提供相同的系统函数库，那么开发者在这个系统函数库基础之上编写软件代码，那么就很容易将软件移植到各个系统平台。**然而，这只是个美好的愿望**，IEEE就是为了达成这样的愿望才牵头制定POSIX标准。POSIX标准主要就是针对[UNIX API](http://www.unix.org/apis.html)而制订，**不管函数如何包装、功能如何实现，但API按照标准约定来（比如函数变量等符号名称、数据结构、参数类型与个数、基本工具命令名称等）**，Linux完全兼容POSIX标准（部分函数符合POSIX，部分函数是Linux专有，即是POSIX的超集），微软声称Windows部分兼容POSIX标准。
 
-> 💡 世界上总共有两种系统函数库标准：↗ [POSIX (Portable Operating System Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces/Computer%20OS%20Interfaces/🦶🏽%20POSIX%20(Portable%20Operating%20System%20Interface)/POSIX%20(Portable%20Operating%20System%20Interface).md) 和 windows标准。
+> 💡 世界上总共有两种系统函数库标准：↗ [POSIX (Portable Operating System Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/🦶🏽%20POSIX%20(Portable%20Operating%20System%20Interface)/POSIX%20(Portable%20Operating%20System%20Interface).md) 和 windows标准。
 
 主流os内核通常是C语言写成，系统函数库通常以一个或多个链接库文件的形式提供，`其中最重要的是C标准库`，其他的链接库往往调用C标准库而实现，当然也可能直接调用系统内核函数，甚至混合。不同系统平台有多种主流的C标准库共存：
 - [BSD libc](https://en.wikipedia.org/wiki/BSD_libc)，由BSD系统发布；

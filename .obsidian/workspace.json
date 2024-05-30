@@ -32,35 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4cbb99ac26282abd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/docs/2024信安赛作品申报书.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edfbb765ddacceb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/Culture Security.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Culture Security.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Culture Security.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Culture Security.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md"
               }
             }
           },
@@ -195,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,45 +185,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "edfbb765ddacceb5",
+  "active": "4cd912764806f939",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
-    "CS/CyberSecurity/Culture Security.md",
     "Assets/docs/2024信安赛作品申报书.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/Operating System (Theory Part).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Operating System (Engineering Part).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/Operating System Components & Runtime Libraries.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/Operating System Kernel (Kernel Mode).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/📌 System Core Function Libraries & C Standard Library (User Mode)/System Core Function Libraries & C Standard Library (User Mode).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/System Level Programming.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Computer Graphics Programming.md",
+    "CS/Software Engineering/🧩 (3D) Graphics Rendering Frameworks/openGL/openGL.md",
+    "CS/Software Engineering/🧩 (3D) Graphics Rendering Frameworks/(3D) Graphics Rendering Frameworks.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/Kernel Debugging.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces/System Call Interfaces (SCI)/🦶🏽 POSIX (Portable Operating System Interface)/POSIX (Portable Operating System Interface).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces/System Call Interfaces (SCI)/System Call Interfaces (SCI).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/JIT (Just-in-Time) Compiler.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/eBPF/eBPF.md",
+    "Assets/Pics/Pasted image 20240529164502.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/Network Programming & RPC.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🎅🏼 Network Programming & RPC/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+    "CS/CyberSecurity/Culture Security.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/K8S.excalidraw.png",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/K8S.excalidraw.md",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/llm_agent_arch.excalidraw.md",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/File_Process.excalidraw.md",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.md",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.md",
     "Untitled.canvas",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.png",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.svg",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/File_Process.excalidraw.png",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.png",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.svg",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Motherboard & Mainboard.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/👧🏽 MARIE.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture and Flynn's Taxonomy.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/NUMA (Non-Uniform Memory Access)/NUMA (Non-Uniform Memory Access).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computing Systems/Parallel Computing/Parallel Computing.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessors and Multicore Processors.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Parallel Computing & Multiprocessor Architectures.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Computer Processors & Logic Chips.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/NUMA (Non-Uniform Memory Access)",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Vector Processors",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP).md",
-    "CS/🔑 CS Core/🧬 Computer System/System Software.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture and Flynn's Taxonomy",
-    "CS/🔑 CS Core/🧬 Computer System/Computing Systems/High Performance Computer (HPC).md",
-    "CS/CyberSecurity/☠️ Kill Chain/Reconnaissance & Exploration/XMap.md",
-    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🐐 GCC (The GNU Compiler Collection)/gcc (GNU C Compiler)/gcc (GNU C Compiler).md",
-    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Tree/Tree.md",
-    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Tree/Red-Black Tree (RB-Tree).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/epoll.md",
     "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Tree/Red-Black Tree (RB-Tree)",
     "CS/Software Engineering/CLI Software Development/Untitled",
     "CS/Software Engineering/CLI Software Development",
@@ -259,7 +234,6 @@
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Virtual Machine (JVM)/JAVA Bytecode",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/JDK (Java Development Kit) Tools",
     "Assets/Pics/Pasted image 20240523155149.png",
-    "Assets/Pics/Pasted image 20240523150520.png",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

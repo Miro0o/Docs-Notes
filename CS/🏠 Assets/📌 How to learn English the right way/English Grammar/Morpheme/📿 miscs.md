@@ -12377,6 +12377,61 @@ tiara (crown, coronet)
 - _n._ [jewelled headdress](dic://jewelled headdress)
 - **brooch**胸针，领针;**crown**王冠;**jewels**珠宝;**necklace**项链;**headband**头饰带;**wig**假发;**princess**王妃;**gown**长袍，长外衣;**coronation**加冕礼;**sash**肩带;**earrings**耳环;
 
+tit
+- n. 奶头; 山雀; 讨厌鬼, 窝囊废
+- n. 乳头；山雀；各种小鸟；小马；少妇；轻打
+- 来自古英语 titt,奶头，词源同 teat,最终词源不详，可能来自拟声词，模仿吸奶的声音。  
+- 用于表示各种小动物或小物件，词源不详。
+- [breast](dic://breast), [bosom](dic://bosom), [knocker](dic://knocker), [boob](dic://boob), [titty](dic://titty)
+- [nipple](dic://nipple), [mammilla](dic://mammilla), [mamilla](dic://mamilla), [pap](dic://pap), [teat](dic://teat)
+- [titmouse](dic://titmouse)
+- _n._ [mammary gland](dic://mammary gland), [mamma](dic://mamma), [reproductive organ](dic://reproductive organ), [sex organ](dic://sex organ), [oscine](dic://oscine), [oscine bird](dic://oscine bird)
+- **tat**梭织，梭编;**boob**蠢材，笨蛋;**boobs**乳房;**nipple**奶嘴;**pussy**猫咪;**busty**大胸脯的，胸部丰满的;**cock**公鸡;**cunt**女性阴部;**dick**阴茎;**slut**懒妇;**twat**笨蛋;
+- _tit for tat_ 以牙还牙，针锋相对
+- Tits can be fashion-victims, too, apparently. /显然，山雀也可能被潮流牵着鼻子走。
+- OK. Hearing about a diplomatic tit for tat between the United States and Turkey /好。以上是美国和土耳其在外交上展开的报复。
+- titty
+	- tit【奶头】 + -y, 表名词
+	-  [breast](dic://breast), [bosom](dic://bosom), [knocker](dic://knocker), [boob](dic://boob), [tit](dic://tit)s
+	- _n._ [mammary gland](dic://mammary gland), [mamma](dic://mamma)
+	- **tit**山雀;**boob**蠢材，笨蛋;**boobs**乳房;**babe**婴儿，小孩;**busty**大胸脯的，胸部丰满的;**dick**阴茎;**slut**懒妇;**hottie**热水瓶;**fucking**用以增强表示愤怒,烦恼等的语气;**pussy**猫咪;**fuck**与性交;
+	- There's no tougher titty than a psychotic break, Rick. /有比神经崩溃更烫手的山芋吗，Rick。
+	- But it's-- - I call it a titty bar. /但是这... -我叫它奶吧。
+	- I have a rockin' body and a titty full of milk. /看着我这动感的身体和饱含奶汁的奶子。
+	- Somebody took him to the titty bar. /有人带他去了脱衣舞夜总会。
+
+titch
+- n.（用于谈论或称呼）小不点儿
+- n. 矮个
+- titchy
+	- adj. 非常小的
+	- The billions they have raked in make bankers' bonuses look titchy. /他们捞回来上百亿的资金让银行家的分红显得寒碜。
+	- 'Compared with me, that hen is titchy small! /‘和我比起来，那只母鸡还小呢！
+
+titter
+- n. 嗤笑, 傻笑  
+- vi. 吃吃地笑, 傻笑
+- [giggle](dic://giggle)
+- _n._ [laugh](dic://laugh), [laughter](dic://laughter)
+- _v._ [laugh](dic://laugh), [express joy](dic://express joy), [express mirth](dic://express mirth)
+- **giggle**傻笑;**chuckle**咯咯的笑，轻声地笑;**laugh**笑;**groan**呻吟;**giggles**笑声;**shudder**震动;**laughter**笑声;**moan**呻吟;**cringe**畏缩;**smirk**傻笑;**amuse**使发笑;
+- A titter broke out from the elegant Greeks. /举止优雅的希腊人当即发出一阵窃笑。
+- There were titters from the crowd. /观众席上发出了吃吃的笑声。
+- The curtain went down on a titter and some groans /幕布在窃笑声和呻吟声中落下。
+
+tittle-tattle
+- n. 闲聊, 漫谈
+
+titer
+- n. 滴定度, 滴定量
+- [titre](dic://titre)
+- _n._ [concentration](dic://concentration)
+- **antibody**抗体;**antigen**抗原;**vaccination**种痘;**assay**试验;**antigens**抗原;**vaccine**疫苗;**immunization**免疫;**rabies**狂犬病，恐水病;**virus**病毒;**albumin**白蛋白，清蛋白;**serum**浆液;
+- Mrs. Cline's tox screen and titer both came back negative. I was sure I was right about that. /Cline 太太的毒理分析和滴定试验结果都是阴性的。对此我确信自己是对的。
+- John Doe's lumbar puncture and tetanus titer are negative. /无名氏腰穿和破伤风滴度都没有问题。
+- A single titer over 160 would be a big clue. /单滴定量超过160将是一个重大线索. - " 这就是为什么我使唤你."
+- microtiter
+
 tithe
 - tithe [taɪð] n.什一税；小部分，vi.缴什一税，vt.课什一税。没错，这个单词和tenth有关系，它指的是中世纪每个基督徒必须向教会缴纳其收成的十分之一（one tenth）的规定，以支持教区教堂和牧师的需求。注意到tithe的发音与tenth是有区别的，可以比较tooth牙齿和teethe [tiːð] vi.长牙齿；出乳牙。
 - n. 什一税, 十分之一, 小部分  
@@ -12391,6 +12446,23 @@ tithe
 - he hadn't said a tithe of the prayers he knew. /他还未念完自己所知祷文的1/10。
 - Tell them I'll ignore their operations as long as they give me a ducal tithe. /告诉他们，只要他们给我公爵的什一税，我就会无视他们的行动。
 - Whoever would redeem any of their tithe must add a fifth of the value to it /人若要赎这十分之一的什么物，就要加上五分之一。
+
+title
+- title ['taɪt(ə)l] n.冠军；标题；头衔；权利；字幕，vt.加标题于；赋予头衔；把…称为，adj.冠军的；标题的；头衔的。title在拉丁语里本意是“记号”，也指拉丁单词est（是，体现为÷）。写完拉丁字母后，学童还要写两个符号：&amp;（表and）和÷（title），最后写amen（完）。于是，x,y,z,&amp;,title,amen。 ​​​​
+- 来自古法语 title,名称，标题，书的章节，来自拉丁语 titulus,铭文，碑文，牌匾，荣誉，题首，标记，词源同 titular,tilde.后引申诸多词义。
+- untitled
+- titular
+- titlist
+- titling
+- titleholder
+- titled
+- subtitles
+- subtitle
+- intitule
+- entitle
+	- unentitled
+	- entitlement
+	- disentitle
 
 tilt
 - 来自古英语 tealt,倾斜的，不稳的，来自 Proto-Germanic*taltaz,倾斜，摇晃。引申词义倾斜，倾侧，可能进一步引申词义马上打斗，骑马比武，并抽象化为打击，抨击。

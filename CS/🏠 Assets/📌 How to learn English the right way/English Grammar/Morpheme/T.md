@@ -2157,8 +2157,134 @@ abstemious
 2. thew
 #### + \*teue- (2) + = to swell
 1. **obtur-** = 表示“封闭”ob- + tur-, 源自拉丁语 turare "to stop up."
+	1. obturate
+		1. vt. 封闭；填塞；密闭
+		2. [obstruct](dic://obstruct), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
+		3. _v._ [impede](dic://impede), [hinder](dic://hinder)
+		4. **orifice**孔口;**cavity**洞，凹处;**penetrate**穿过, 刺入, 渗入;**apical**顶上的, 顶点的;**suture**缝合;
 2. **som-** = body, 表示“身体”。源自希腊语 soma "body."
+	1. psychosomatic
+	2. autosome
+		1. n. 正染色体，常染色体
+		2. [somatic chromosome](dic://somatic chromosome)
+		3. _n._ [chromosome](dic://chromosome)
+		4. **chromosome**染色体;**autosomal**常染色体的;**chromosomal**染色体的;**alleles**对立形质;**allele**等位基因;**gene**基因，遗传因子;**mutation**突变;**loci**地点;**locus**轨迹;**genotype**基因型;**recessive**后退的;
+	3. somatic
+		1. [bodily](dic://bodily), [corporal](dic://corporal), [corporeal](dic://corporeal)
+		2. _adj._ [physical](dic://physical)
+		3. _n._ [mental](dic://mental)
+		4. **chromosomal**染色体的;**physiological**生理的， 生理学的;**cutaneous**皮肤的;**integrative**综合的;**neurological**神经病学的;**sensory**感觉的;**psychological**心理的;**neuronal**神经元的;**epigenetic**外成的;**autonomic**自主的;**bodily**整体地;
+		5. _somatic cell_ 体细胞
+		6. _somatic embryo_ 体细胞胚
+		7. _somatic hybridization_ 体细胞杂交
+	4. somatogenic
+	5. somatological
+	6. somatology
+	7. somatoplasm
+	8. somatotype
+	9. centrosome
+	10. chondrinosome
+	11. chromosomal
+	12. chromosome
+	13. foursome
+	14. karyosome
+	15. lysosome
+	16. microsome
+	17. monosome
+	18. ribosome
+	19. schistosome
+	20. soma
+	21. somite
+	22. threesome
+	23. trypanosome
+	24. twosome
+	25. autophagosome
+	26. disomy
+	27. endosome
+	28. leptosome
+	29. microsomal
+	30. phagosome
+	31. proteasome
+	32. ribosomal
+	33. schistosomiasis
+	34. somatosensory
+	35. transfersome
+	36. trisomy
 3. **tuber-** = bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling."
+	1. tuber
+		2. [genus Tuber](dic://genus Tuber)
+		3. _n._ [stalk](dic://stalk), [stem](dic://stem), [fungus genus](dic://fungus genus)
+		4. **potato**土豆，马铃薯;**potatoes**马铃薯;**root**根;**vegetable**蔬菜;**seedlings**幼苗;**leaf**叶子;**maize**黄色的，玉米色的;**cabbage**卷心菜，甘蓝菜，脑袋;**starch**淀粉;**pea**豌豆;**plant**植物;
+		5. _pinellia tuber_ [药草]半夏；[药草]半夏粉末
+		6. The potato is a tuber plant. /马铃薯是块茎植物。
+		7. At the stage of tuberization to tuber-expanding, the growth of leaves, stalks and tubers reached the maximum. /块茎形成到块茎膨大始期，阶段吸硫量和吸硫速率均达到最大值，成熟收获时降到最低值。
+		8. Find some tubers, share 'em with your friends. /找一些块茎，就和你的朋友分享。
+		9. Guinness said they had found the tuber of a gourd. /吉尼斯称，他们发现它是一个葫芦的块茎。
+		10. The tuber is a stem that grows out of the gourd. /这个块茎是从葫芦里长出来的茎。
+	2. tubercle
+		1. n. （皮肤、骨头或植物上的）结节，疣粒，小块茎；（肺）结核结节
+		2. [nodule](dic://nodule)
+		3. [tuberosity](dic://tuberosity), [eminence](dic://eminence)
+		4. _n._ [lesion](dic://lesion), [plant process](dic://plant process), [enation](dic://enation), [process](dic://process), [outgrowth](dic://outgrowth), [appendage](dic://appendage)
+		5. **dorsal**背的，背侧的;**whitish**带白色的;**ventral**腹部的;**lesion**损害;**anterior**前面的;**apical**顶上的, 顶点的;**mucosa**粘膜;**cutaneous**皮肤的;**glands**腺体;**gland**腺;**posterior**(在时间;
+		6. _tubercle bacillus_ [医]结核菌
+		7. All around it is a series of very odd tubercles and nobbles and bobbles. /圆顶的周围是一系列奇形怪状的结节凸起。
+		8. The air pressure from that kind of  speed could damage the bird's lungs, but the falcon small tubercles blow  the airflow away from their nostrils. /这种速度产生的气压可能会损坏鸟类的肺部，但猎鹰的小结节会将气流从鼻孔吹走。
+	4. tubercled
+	5. tuberculate
+		1. _adj._ [nodule](dic://nodule), [tubercle](dic://tubercle)
+		2. **whitish**带白色的;**fleshy**肉的;**yellowish**微黄色的;**apical**顶上的, 顶点的;**dorsal**背的，背侧的;**conical**圆锥形的;**brownish**呈褐色的;**greenish**呈绿色的;**ribbed**有棱纹的;**fibrous**纤维的，纤维性的;**reddish**微红的;
+		3. _adj._ 长有小瘤的,结核性的
+	6. tuberculin
+	7. tuberculise
+	8. tuberculize
+	9. tuberculoid
+	10. tuberculosis
+		1. _n._ 肺结核
+		2. _n._ [infectious disease](dic://infectious disease)
+		3. **syphilis**梅毒;**pneumonia**肺炎;**malaria**疟疾;**disease**病，疾病;**cholera**霍乱;**smallpox**天花;**influenza**流行性感冒;**meningitis**脑膜炎;**measles**麻疹;**polio**脊髓灰质炎;**infection**传染;
+	11. tubercular
+		1. adj. 结核的；[医] 结节的；瘤状的
+		2. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
+		3. _adj._ [tubercle](dic://tubercle), [tuberosity](dic://tuberosity), [eminence](dic://eminence), [tuberculosis](dic://tuberculosis), [TB](dic://TB), [T.B.](dic://T.B.), [ill](dic://ill)
+		4. _n._ [well](dic://well)
+		5. **tuberculosis**肺结核;**syphilis**梅毒;**sickly**有病的，苍白的;**pneumonia**肺炎;**bronchitis**支气管炎;**pulmonary**肺的,肺部的;**lung**肺;**diseased**患病的;**destitute**赤贫的, 贫苦的;**meningitis**脑膜炎;**polio**脊髓灰质炎;
+	12. tuberculous
+		1. adj. 肺结核的，小瘤的
+		2. _adj._ [ill](dic://ill), [sick](dic://sick)
+		3. _n._ [well](dic://well)
+		4. **tuberculosis**肺结核;**pneumonia**肺炎;**syphilis**梅毒;**meningitis**脑膜炎;**pulmonary**肺的,肺部的;**cutaneous**皮肤的;**rheumatoid**类风湿病的;**bronchitis**支气管炎;**asymptomatic**无临床症状的;**bovine**牛的;**lung**肺;
+	13. tuberculum
+	14. tuberose
+		1. _n._ 晚香玉
+		2. _adj._ 块茎状的,似块茎的
+		3. _n._ [flower](dic://flower)
+		4. **jasmine**茉莉;**fragrance**香味;**musk**麝香;**perfume**香水;**perfumes**香料;**scent**气味;**scents**气味;**orchid**兰花;**fragrant**芳香的;**scented**有气味的;**lavender**淡紫色;
+	15. tuberosity
+		1. _n._ [process](dic://process), [outgrowth](dic://outgrowth), [appendage](dic://appendage)
+		2. **femur**股骨;**anterior**前面的;**ligament**韧带;**medial**中间的;**tendon**腱;**posterior**(在时间;**vertebral**椎骨的;**femoral**股骨的;**dislocation**转位;**fracture**破裂，断裂;**lateral**侧面的，横向的;
+	16. tuberous
+		1. _adj._ [tuber](dic://tuber)
+		2. **fleshy**肉的;**succulent**汁多味美的;**fibrous**纤维的，纤维性的;**nodules**小瘤;**flowering**开花的;**sclerosis**硬化;**cystic**膀胱的，胆囊的;**aortic**大动脉的;**shrub**灌木;**congenital**先天的,天生的;
+		3. _tuberous sclerosis_ 结节状硬化（症）；结节性脑硬化
+		4. _tuberous root_ n. [植]块状根
+	17. protuberance
+		1. n. 突起，突出；结节，瘤
+		2.  [bulge](dic://bulge), [bump](dic://bump), [hump](dic://hump), [gibbosity](dic://gibbosity), [gibbousness](dic://gibbousness), [jut](dic://jut), [prominence](dic://prominence), [protrusion](dic://protrusion), [extrusion](dic://extrusion),
+		3. _n._ [projection](dic://projection), [condition](dic://condition), [status](dic://status)
+		4. **bulge**膨胀, 肿起;**elongated**细长的;**conical**圆锥形的;**concave**凹的，凹面的;**fleshy**肉的;**cylindrical**圆柱形的;**bony**骨的;**orifice**孔口;**flange**凸缘;**elongate**拉长;**ridge**山脉;
+		5. It's unclear exactly what purpose the protuberances serve. /这个突起物的作用仍不清楚。
+		6. It is my belief your great protuberance, that they are in league with Elves! /大王我相信，他们跟精灵族是一伙的！
+		7. There is nothing like a thorough drenching for reducing the protuberances of clothes, but Elfride's seemed to cling to her like a glove. /没有什么比彻底湿透更能减少衣服的突起了，但 Elfride 的衣服似乎像手套一样紧贴在她身上
+	18. protuberant
+		1. adj. 突起的；招人注意的；显著的
+		2. [bellied](dic://bellied), [bellying](dic://bellying), [bulbous](dic://bulbous), [bulging](dic://bulging), [bulgy](dic://bulgy)
+		3. _adj._ [protrusive](dic://protrusive)
+		4. _n._ [intrusive](dic://intrusive)
+		5. **fleshy**肉的;**elongated**细长的;**bulging**打气;**bony**骨的;**concave**凹的，凹面的;**elongate**拉长;**conical**圆锥形的;**bulge**膨胀, 肿起;**cylindrical**圆柱形的;**deformed**畸形的;**slender**微薄的;
+		6. his protuberant eyes fluttered open. /他那凸出的眼睛猛然睁开。
+		7. " I think so, " replied Ollivander, his protuberant eyes upon Harry's face. " You ask deep questions, Mr. Potter. Wandlore is a complex and mysterious branch of magic." /“我想是的，”奥利凡德回答，他的凸眼睛盯着哈利的脸，“你问的问题很深奥，波特先生。魔杖学是一门复杂而神秘的魔法学科。”
+		8. A flat smile illuminated his face; his bald head shone rosily in a garland of red curls; his little protuberant stomach shook with silent chucklings as he swept in his gains. /他的脸上洋溢着淡淡的微笑。他的光头在红色卷发的花环中闪闪发光。当他扫荡他的收获时，他隆起的小肚子随着无声的咯咯笑而颤抖。
 4. **tum-** = to swell, 表示“肿”。源自拉丁语 tumere "to swell, be swollen, be proud;" tumulus "raised heap of earth, mound."
 	1. contumacy
 	2. contumely
@@ -2217,6 +2343,8 @@ abstemious
 		10. thimble
 		11. nose-thumbing
 5. **tyl-** = callus, 表示“胼胝”源自希腊语 tulos "callus, lump."
+	1. tylosis
+		1. n. 胼胝形成
 6. butter
 7. sorites
 8. sorus
@@ -2306,6 +2434,22 @@ abstemious
 
 
 ## ti
+### titan- = 表示“巨人”，“钛”。
+1. Titan
+2. Titaness
+3. Titanic
+	1. titanic（巨大的）：身材巨大的泰坦神  
+	2. 在希腊神话中，天神乌拉诺斯和大地女神盖亚结合后，生下十二位身材巨大的神祇，被称为“泰坦”（Titan，或译为“提坦”）。依据赫西俄德《神谱》，十二位泰坦神分别是：俄刻阿洛斯、科俄斯、克利俄斯、许珀里翁、伊阿珀托斯、忒亚、瑞亚、忒弥斯、莫涅摩绪涅、福柏、忒堤斯、克洛诺斯。他们曾应母亲盖亚的要求，在最小的泰坦神克罗诺斯的率领下，阉割了天神乌拉诺斯，推翻了他的统治，成为新一代统治者。但他们被同样克洛诺斯的儿子、奥林巴斯诸神的领袖宙斯推翻。  
+	3. 依据赫西俄德《神谱》的说法，“泰坦”（Titan）一词是天神乌拉诺斯对这些子女所起的诨名，意思是“紧张者”：“伟大的乌拉诺斯父神在责骂自己生的这些孩子时，常常用浑名称他们为泰坦（紧张者）。他说他们曾在紧张中犯过一个可怕的罪恶，将来要受到报应的。”  
+	4. 航海史上最出名的邮轮“泰坦尼克号”（Titanic）的名字就来源于Titan，意思是“巨大的”。此外，极其坚固、可耐高温、强酸强碱的金属钛（titanium）以及身形庞大的雷龙（titanosaur）的名字也来源于此。  
+	5. Titan：['taitən] n.泰坦神，提坦神，巨人  
+	6. titanic：[taɪ'tænɪk] adj.巨大的n.泰坦尼克号  
+	7. titanium：[taɪ'teɪnɪəm; tɪ-] n.金属元素钛  
+	8. titanosaur：['taɪtənəsɔː] n.雷龙（白垩纪一种两栖食草大恐龙）
+4. Titanism
+5. titanium
+
+
 ### ⭐ -tic,-atic,-etic,-itic = 表形容词，通常放在一个名词前，“与…相关的，…的”。
 1. apathetic
 2. etc..
