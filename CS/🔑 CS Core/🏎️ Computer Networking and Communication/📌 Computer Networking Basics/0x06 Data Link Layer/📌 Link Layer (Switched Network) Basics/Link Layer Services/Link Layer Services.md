@@ -30,7 +30,7 @@
 
 ## Error Control & RDT
 ### 3️⃣ Error Control
-> ↗ [Error Control](../../../Error%20Control/Error%20Control.md)
+> ↗ [Error Control & EDAC](../../../Error%20Control%20&%20EDAC/Error%20Control%20&%20EDAC.md)
 
 > A full treatment of the theory and implementation of this topic is itself the topic of many textbooks (e.g., [Schwartz 1980] or [Bertsekas 1991]), and our treatment here is necessarily brief. Our goal here is to develop an intuitive feel for the capabilities that error-detection and -correction techniques provide and to see how a few simple techniques work and are used in practice in the link layer.
 

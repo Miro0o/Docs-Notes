@@ -1,4 +1,4 @@
-# Error Control
+# Error Control & EDAC
 
 [TOC]
 

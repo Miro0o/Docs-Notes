@@ -29,6 +29,7 @@ QS World University Rankings by Subject 2023: Computer Science and Information S
 
 
 ## 🧔🏼‍♀️ Europe
+### Europe Overview
 ### 🇪🇺 Associated Programes
 #### 👉 SECCLO
 🏠 https://www.secclo.eu
@@ -302,7 +303,7 @@ https://www.uva.nl/en
 
 ## 🧔🏻‍♀️🧔🏿‍♀️ North American
 ### 🇺🇸 USA
-
+#### USA Overview
 美国计算机研究生留学院校推荐? - Edward Shi的回答 - 知乎 https://www.zhihu.com/question/531736432/answer/2520737813
 
 美国留学费用一年大概多少人民币呢？ - 小软学姐的回答 - 知乎 https://www.zhihu.com/question/484483695/answer/2550226160
@@ -386,7 +387,21 @@ Applicants admitted to the Department of Computer Science graduate program usual
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
 #### 👉 University of California, Berkeley (UCB)
 https://grad.berkeley.edu
+
 https://guide.berkeley.edu/courses/
+Courses - 
+
+https://dare.berkeley.edu
+DARE: Diversifying Access to Research in Engineering
+UC Berkeley program for promoting undergraduate research opportunities in EE&CS
+
+https://vcresearch.berkeley.edu/datascience
+Labs - Data Science, AI & Robotics
+- [swarm Lab](https://swarmlab.berkeley.edu)
+	- Our research is committed to advancing the state of the art in cyber-physical systems (CPS) foundations and applications in the Internet of things (IoT).
+- [sky lab](https://sky.cs.berkeley.edu)
+- [CLTC (Center for Long Term Cybersecurity)](https://cltc.berkeley.edu)
+	- CLTC and U.S. Department of Education Announce Partnership for Advancing Cybersecurity in Education (PACE)
 ##### computer science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
 

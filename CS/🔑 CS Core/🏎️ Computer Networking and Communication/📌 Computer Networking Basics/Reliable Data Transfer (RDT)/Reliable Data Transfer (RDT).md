@@ -9,7 +9,7 @@
 
 🔗 【深入浅出计算机网络 - 3.2.3 （1）可靠传输的相关基本概念】 https://www.bilibili.com/video/BV1mG41157Tb/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-↗ [Error Control](../Error%20Control/Error%20Control.md)
+↗ [Error Control & EDAC](../Error%20Control%20&%20EDAC/Error%20Control%20&%20EDAC.md)
 
 
 ## Intro

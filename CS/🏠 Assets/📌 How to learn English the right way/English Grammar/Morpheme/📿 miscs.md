@@ -2451,6 +2451,28 @@ drain
 - barrel-drain
 - autodrainage
 
+drape
+- 来自 PIE*dhrebh,击，打，即对棉花，麻布等原材料的初步加工及弹制，其原义见 drab.后该词词义通用化，也用来指加工过的帘子，帷幕等。
+- n. 布帘, 褶皱  
+- vt. 用布帘覆盖, 披上  
+- vi. 成褶皱状
+-  [curtain](dic://curtain), [drapery](dic://drapery), [mantle](dic://mantle), [pall](dic://pall)
+- _n._ [blind](dic://blind), [screen](dic://screen), [furnishing](dic://furnishing), [manner](dic://manner), [mode](dic://mode), [style](dic://style), [way](dic://way)
+- _v._ [arrange](dic://arrange), [set up](dic://set up), [cover](dic://cover)
+- **fabric**织物;**chiffon**薄绸;**shawl**围巾，长方形披巾;**garment**衣服，服装;**muslin**平纹细布;**scarf**围巾;**gown**长袍，长外衣;**curtains**灾难;**tunic**束腰外衣;**robe**长袍，礼服;**pleats**活褶;
+- the drape of an overcoat /大衣的样式
+- the body was draped in a blanket /尸体被裹在一条毯子里。
+- velvet drapes beautifully. /天鹅绒以优美的褶裥状垂下。
+- drape a cloak over one's shoulders /把斗篷披在肩上
+- a beautifully draped skirt/一件有漂亮褶皱的裙。
+- adjusted the drape of the gown. /调整一下长袍的下垂式样
+- she draped a shawl around her shoulders. /她随便裹了条披肩。
+- undrape
+- drapery
+- draper
+- sparadrap
+- linendraper
+
 dreary
 1. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear)
 	1. [dull](dic://dull) 指缺乏鲜明、吸引力或情趣而显得乏味、沉闷。  
