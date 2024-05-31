@@ -1143,20 +1143,6 @@
 	9. _[tepid fevered](dic://tepid%20fevered)_ 不热情的
 
 
-### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
-1. terse
-	1.  [crisp](dic://crisp), [curt](dic://curt), [laconic](dic://laconic)
-	2. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
-	3. laconic, curt, taciturn, succinct
-3. absterge
-	1. vt. 擦去；去垢
-	2. abstersion
-	3. abstersive
-5. deterge
-	1. _v._ [wipe off](dic://wipe off), [wipe away](dic://wipe away)
-	2. detersive
-
-
 ### + \*tere- +
 #### ⭐ + \*tere- (1) + = to rub, turn
 1. **-tresis, -tresia** = perforation, 表示“孔，穿孔”。源自希腊语 tresis "perforation."
@@ -1267,8 +1253,8 @@
 		2. _n._ [surgical instrument](dic://surgical instrument), [drill](dic://drill)
 		3. _v._ [bore](dic://bore), [drill](dic://drill)
 		4. **skull**头盖骨，脑壳;**needle**针;
-	14. tribulation
-		1. 1 - 来自拉丁语 tribulare,压制，镇压，折磨，来自 terere,转，刮，摩擦，词源同 turn,throw.-bul,工具格后缀，词源同 table,tintinnabulation.引申词义忧患，痛苦磨难等。
+	14. tribulation (trebuchet)
+		1. 来自拉丁语 tribulare,压制，镇压，折磨，来自 terere,转，刮，摩擦，词源同 turn,throw.-bul,工具格后缀，词源同 table,tintinnabulation.引申词义忧患，痛苦磨难等。
 		2. _n._ [affliction](dic://affliction)
 		3. [trial](dic://trial), [visitation](dic://visitation)
 		4. **rapture**兴高采烈;**deliverance**解救;**affliction**折磨;**persecution**迫害或受迫害;**calamity**不幸事件;**salvation**拯救;**strife**冲突;**Armageddon**世界末日善恶决战的战场;**wickedness**邪恶;**anguish**苦闷;**woe**悲哀，悲痛;
@@ -1278,6 +1264,92 @@
 		8. _[hardship tribulation](dic://hardship%20tribulation)_ 困苦
 		9. Great Tribulation
 	15. turn
+		1. n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折  
+		2. vt. 使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通  
+		3. vi. 转动, 转弯, 转向, 翻转, 回转, 改变, 转身, 变成, 变质, 晕眩, 易脱手
+		4. turn over a new leaf洗心革面。leaf叶子和洗心革面有啥关系呢？有这里的leaf指的是书籍中的“一张”，翻开“新篇章”。不过叶子和书籍中的一张的联系在另一个单词中体现出来了：portfolio [pɔːt'fəʊlɪəʊ] n.公文包；文件夹，词根port-表携带、港口，-folio本意指叶子，因为纸张的样子象叶片。 ​​​​  
+		5. turn a blind eye 装作没看见。英国海军将领Horatio Nelson有一只眼睛是瞎的，在1801年的一场海战中，英军总指挥HydeParker爵士命令英军撤退，但Horatio Nelson认为应该继续进攻，所以他故意将单筒望远镜放在那只瞎眼前并说没看到命令撤退的旗语。We shall not turn a blind eye to poverty anymore. ​​​​  
+		6. leaving no stones unturned千方百计。公元前479年，第二次希波战争最后一役普拉提之战，波斯人战败逃散。坊间传说波斯人藏匿了大量财宝。神谕告诉希腊人：leaving no stones unturned.最终希腊人还是找到了珍宝。After the scandal，thecompany says it will leave no stone unturned to keep alive. ​​​​
+		7. 来自古英语 turnian,旋转，转动，来自拉丁语 tornare,磨，磨圆，用车床加工，来自 PIE*ter,*tere,转动，摩擦，旋转，可能缩写自 PIE*stwer,转动，旋转，词源同 storm,stir,turbid.
+		8. well-turned
+		9. upturn
+			1. _n._ [improvement](dic://improvement)
+			2. **downturn**低迷时期;**uptick**报升;**decline**下降;**slowdown**减速;**slump**下降，衰落;**recession**经济衰退;**resurgence**复苏;**fortunes**命运，机遇;**growth**生长;**year-on-year**与上年同期数字相比的;**boom**发隆隆声;
+			3. Experts have forecast an upturn in the stock market. /专家已预测股票市场价格有上升趋势。
+			4. The cat was sitting on an upturned crate /猫儿蹲坐在倒放的板条箱上。
+			5. upturned
+		11. unturned
+			1. adj. 未翻转的；未颠倒的；不转动的
+		12. turnup
+		13. turntable
+		14. turnstone
+			1. _n._ 翻石鹬(性喜翻石觅食)
+		15. turnstile
+		16. turnsole
+		17. turnsol
+		18. turnsick
+		19. turnpike
+		20. turnover
+		21. turnout /turnouts
+			1. n. 到场人数，参加人数；（选举的）投票人数，投票率；<美>公路避车道，临时停车道；<美>岔道口；（铁道）会让点，道岔；装束，穿着；全套车马；（芭蕾）外开性
+			2. n. 到场人数；票数；战斗服；消防衣（turnout的复数）
+			3. [widening](dic://widening)
+			4.  [siding](dic://siding), [railroad siding](dic://railroad siding), [sidetrack](dic://sidetrack)
+			5. [output](dic://output), [outturn](dic://outturn)
+			6. [outfit](dic://outfit), [getup](dic://getup), [rig](dic://rig)
+			7. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [part](dic://part), [portion](dic://portion), [railroad track](dic://railroad track), [railroad](dic://railroad), [railway](dic://railway)
+			8. **attendance**出席;**voters**投票者列表;**polling**投票;**election**选举;**voter**选举人，投票人;**voting**投票的;**vote**投票，选举;**ballots**不记名票;**electoral**选举的;**electorate**选民;
+			9. _[turnout coat](dic://turnout%20coat)_  战斗服上衣
+			10. _[turnout lane](dic://turnout%20lane)_  [交] 避车道
+			11. _[turnout time](dic://turnout%20time)_  出动时间
+			12. _[turnout gear](dic://turnout%20gear)_  消防战斗服
+			13. _[turnout board](dic://turnout%20board)_  消防调度记事牌
+			14. _[turnout area](dic://turnout%20area)_  责任区
+			15. _[fire fighting turnout](dic://fire%20fighting%20turnout)_  消防战斗服
+			16. The turnout of voters was low in many localities. /财政区。
+			17. There was a good turnout for the concert. /参加音乐会的人很多。
+			18. a heavy turnout; heavy casualties /大产出；重大伤亡
+			19. his turnout was exceedingly elegant. /他的穿着非常优雅。
+			20. The concert attracted a large turnout. /音乐会吸引了大批的观众。
+			21. There has been a great increase in the factory’s turnout this year. /今年这家工厂的产量提高不少。
+			22. Firemen are ready at all times for a sudden turnout. /消防队员时刻准备着紧急出动。
+			23. Efforts should also be made to increase voter turnout. /除此之外也应该努力增加投票人的参与率。
+			24. That's nearly double the turnout of the 2009 election. /这几乎是2009年大选参加投票人数的两倍。
+			25. 2019 saw the biggest turnout with nearly 650 exhibitors and 3,600 booths. /2019年参展人数最多，有近650家参展商和3600个展位。
+			26. It was the highest turnout for a Georgia run-off election on record. /这是有记录以来佐治亚州第二轮选举的最高投票率。
+			27. The birds' gregarious nature ensues a big turnout to the feast. /由于这些鸟的群居特性，进食也就成了大规模的集体盛宴。
+			28. There appears to be a high turnout with long queues at polling stations. /看来投票率很高，投票站排起了长队。
+			29. Well, looks like you're gonna get a pretty solid turnout, Tucker. /看起来参加的人不少啊，塔克。
+		22. turnoff
+		23. turnkey
+		24. turning
+		25. turnery
+		26. turnera
+		27. turner
+		28. turned-on
+		29. turndown
+		30. turncock
+		31. turncoat
+		32. turncap
+		33. turnbuckle
+		34. turnbench
+		35. turnaround
+		36. turnabout
+		37. turn-screw
+		38. turn-round
+		39. turn-in
+		40. return
+			1. returnless
+			2. returnee
+			3. returned
+			4. returnable
+		41. overturn
+		42. outturn
+		43. multiturn
+		44. malturned
+		45. downturn
+		46. ampere-turn
+		47. about-turn
 8. **trogl-** = hole, 表示“洞”。源自希腊语 trogle "hole."
 	1. etc..
 9. **trypan-** = 表示“锥虫”。源自希腊语 trupe "hole."
@@ -1563,8 +1635,22 @@
 7. through
 
 
+### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
+1. terse
+	1.  [crisp](dic://crisp), [curt](dic://curt), [laconic](dic://laconic)
+	2. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
+	3. laconic, curt, taciturn, succinct
+3. absterge
+	1. vt. 擦去；去垢
+	2. abstersion
+	3. abstersive
+5. deterge
+	1. _v._ [wipe off](dic://wipe off), [wipe away](dic://wipe away)
+	2. detersive
+
+
 ### term-
-abstemious
+- abstemious
 
 
 ### + \*terkw + 

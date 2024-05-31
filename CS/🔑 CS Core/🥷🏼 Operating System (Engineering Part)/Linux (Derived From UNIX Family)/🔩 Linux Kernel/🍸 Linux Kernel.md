@@ -43,7 +43,7 @@ http://kerneltravel.net (Linux 内核之旅 | 西安邮电大学)
 Linux内核之旅是一个完全自由和开放的平台，它的建设是在西邮陈莉君教授和在腾讯工作十多年的许振文师兄的指导下完成的，我们的运作方式与国际开源社区一样，所有人都可以共建Linux内核之旅平台，我们都是贡献者，也是受益者。
 我们与其他社区合作共同分享内核知识，旨在让更多的人受益。在这里，你可以和我们一起学习Linux内核知识，你可以在Linux内核之旅网站和Linux内核之旅微信公众平台投稿你的学习笔记和心得，你可以在我们的GitHub平台学习和分享内核实验代码，你还可以免费报名陈莉君教授主讲的内核mooc，在讨论区留下你的疑问，就有机会获得陈莉君教授的亲自答疑。
 
-👨‍💻 👍 https://linux-kernel-labs.github.io/refs/heads/master/index.html
+👨‍💻 👍 https://linux-kernel-labs.github.io/refs/heads/master/index.html 🔥🔥🔥
 Linux Kernel Teaching
 This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
 - This content is based on the [Operatings Systems 2](http://ocw.cs.pub.ro/courses/so2) course from the Computer Science and Engineering Department, the Faculty of Automatic Control and Computers, **University POLITEHNICA of Bucharest**.
@@ -64,6 +64,51 @@ IBM | Anatomy of Linux Kernel
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel#
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
+
+
+### Linux Kernel Development
+> 🔗 https://www.kernel.org/doc/html/next/index.html
+
+- [A guide to the Kernel Development Process](https://www.kernel.org/doc/html/next/process/development-process.html)
+- [Submitting patches: the essential guide to getting your code into the kernel](https://www.kernel.org/doc/html/next/process/submitting-patches.html)
+- [Code of conduct](https://www.kernel.org/doc/html/next/process/code-of-conduct.html)
+- [Kernel Maintainer Handbook](https://www.kernel.org/doc/html/next/maintainer/index.html)
+- [All development-process docs](https://www.kernel.org/doc/html/next/process/index.html)
+
+- [Linux kernel licensing rules](https://www.kernel.org/doc/html/next/process/license-rules.html)
+- [How to write kernel documentation](https://www.kernel.org/doc/html/next/doc-guide/index.html)
+- [Development tools for the kernel](https://www.kernel.org/doc/html/next/dev-tools/index.html)
+
+- [Kernel Testing Guide](https://www.kernel.org/doc/html/next/dev-tools/testing-overview.html)
+- [Kernel Hacking Guides](https://www.kernel.org/doc/html/next/kernel-hacking/index.html)
+- [Linux Tracing Technologies](https://www.kernel.org/doc/html/next/trace/index.html)
+- [fault-injection](https://www.kernel.org/doc/html/next/fault-injection/index.html)
+- [Kernel Livepatching](https://www.kernel.org/doc/html/next/livepatch/index.html)
+#### Linux development model
+> 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html
+
+The Linux kernel is one the largest open source projects in the world with thousands of developers contributing code and millions of lines of code changed for each release.
+
+It is distributed under the GPLv2 license, which simply put, requires that any modification of the kernel done on software that is shipped to customer should be made available to them (the customers), although in practice most companies make the source code publicly available.
+
+There are many companies (often competing) that contribute code to the Linux kernel as well as people from academia and independent developers.
+
+The current development model is based on doing releases at fixed intervals of time (usually 3 - 4 months). New features are merged into the kernel during a one or two week merge window. After the merge window, a release candidate is done on a weekly basis (rc1, rc2, etc.)
+#### Maintainer hierarchy
+> 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html
+
+In order to scale the development process, Linux uses a hierarchical maintainership model:
+
+- Linus Torvalds is the maintainer of the Linux kernel and merges pull requests from subsystem maintainers
+- Each subsystem has one or more maintainers that accept patches or pull requests from developers or device driver maintainers
+- Each maintainer has its own git tree, e.g.:
+    - Linux Torvalds: git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+    - David Miller (networking): git://git.kernel.org/pub/scm/linux/kernel/git/davem/net.git/
+- Each subsystem may maintain a -next tree where developers can submit patches for the next merge window
+
+Since the merge window is only a maximum of two weeks, most of the maintainers have a -next tree where they accept new features from developers or maintainers downstream while even when the merge window is closed.
+
+Note that bug fixes are accepted even outside merge window in the maintainer's tree from where they are periodically pulled by the upstream maintainer regularly, for every release candidate.
 
 
 
@@ -98,10 +143,44 @@ Briefly, the principal kernel components are the following:
 - **Physical memory**: Manages the pool of page frames in real memory and allocates pages for virtual memory.
 - **Interrupts**: Handle interrupts from peripheral devices.
 
+----
+![](../../../../../Assets/Pics/Pasted%20image%2020240530135137.png)
 
-### Linux Kernel Subsystems
 
+
+### Linux Kernel Source Code Layout
+> 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html
+
+![](../../../../../Assets/Pics/Pasted%20image%2020240530135006.png)
+
+These are the top level of the Linux source code folders:
+- arch - contains architecture specific code; each architecture is implemented in a specific sub-folder (e.g. arm, arm64, x86)
+- block - contains the block subsystem code that deals with reading and writing data from block devices: creating block I/O requests, scheduling them (there are several I/O schedulers available), merging requests, and passing them down through the I/O stack to the block device drivers
+- certs - implements support for signature checking using certificates
+- crypto - software implementation of various cryptography algorithms as well as a framework that allows offloading such algorithms in hardware
+- Documentation - documentation for various subsystems, Linux kernel command line options, description for sysfs files and format, device tree bindings (supported device tree nodes and format)
+- drivers - driver for various devices as well as the Linux driver model implementation (an abstraction that describes drivers, devices buses and the way they are connected)
+- firmware - binary or hex firmware files that are used by various device drivers
+- fs - home of the Virtual Filesystem Switch (generic filesystem code) and of various filesystem drivers
+- include - header files
+- init - the generic (as opposed to architecture specific) initialization code that runs during boot
+- ipc - implementation for various Inter Process Communication system calls such as message queue, semaphores, shared memory
+- kernel - process management code (including support for kernel thread, workqueues), scheduler, tracing, time management, generic irq code, locking
+- lib - various generic functions such as sorting, checksums, compression and decompression, bitmap manipulation, etc.
+- mm - memory management code, for both physical and virtual memory, including the page, SL*B and CMA allocators, swapping, virtual memory mapping, process address space manipulation, etc.
+- net - implementation for various network stacks including IPv4 and IPv6; BSD socket implementation, routing, filtering, packet scheduling, bridging, etc.
+- samples - various driver samples
+- scripts - parts the build system, scripts used for building modules, kconfig the Linux kernel configurator, as well as various other scripts (e.g. checkpatch.pl that checks if a patch is conform with the Linux kernel coding style)
+- security - home of the Linux Security Module framework that allows extending the default (Unix) security model as well as implementation for multiple such extensions such as SELinux, smack, apparmor, tomoyo, etc.
+- sound - home of ALSA (Advanced Linux Sound System) as well as the old Linux sound framework (OSS)
+- tools - various user space tools for testing or interacting with Linux kernel subsystems
+- usr - support for embedding an initrd file in the kernel image
+- virt - home of the KVM (Kernel Virtual Machine) hypervisor
+
+
+### Linux Kernel Subsystems API Manual
 > 🔗 https://www.kernel.org/doc/html/next/subsystem-apis.html#
+> 📎 https://docs.kernel.org/subsystem-apis.html
 #### 1️⃣ Core Subsystems
 - [Core API Documentation](https://www.kernel.org/doc/html/next/core-api/index.html)
 - [Driver implementer's API guide](https://www.kernel.org/doc/html/next/driver-api/index.html)
@@ -109,7 +188,26 @@ Briefly, the principal kernel components are the following:
 - [Power Management](https://www.kernel.org/doc/html/next/power/index.html)
 - [Scheduler](https://www.kernel.org/doc/html/next/scheduler/index.html)
 - [Timers](https://www.kernel.org/doc/html/next/timers/index.html)
-- [Locking](https://www.kernel.org/doc/html/next/locking/index.html)
+##### Locking
+📎 https://www.kernel.org/doc/html/next/locking/index.html
+
+- [Lock types and their rules](https://docs.kernel.org/locking/locktypes.html)
+- [Runtime locking correctness validator](https://docs.kernel.org/locking/lockdep-design.html)
+- [Lock Statistics](https://docs.kernel.org/locking/lockstat.html)
+- [Kernel Lock Torture Test Operation](https://docs.kernel.org/locking/locktorture.html)
+- [Generic Mutex Subsystem](https://docs.kernel.org/locking/mutex-design.html)
+- [RT-mutex implementation design](https://docs.kernel.org/locking/rt-mutex-design.html)
+- [RT-mutex subsystem with PI support](https://docs.kernel.org/locking/rt-mutex.html)
+- [Sequence counters and sequential locks](https://docs.kernel.org/locking/seqlock.html)
+- [Locking lessons](https://docs.kernel.org/locking/spinlocks.html)
+- [Wound/Wait Deadlock-Proof Mutex Design](https://docs.kernel.org/locking/ww-mutex-design.html)
+- [Proper Locking Under a Preemptible Kernel: Keeping Kernel Code Preempt-Safe](https://docs.kernel.org/locking/preempt-locking.html)
+- [Lightweight PI-futexes](https://docs.kernel.org/locking/pi-futex.html)
+- [Futex Requeue PI](https://docs.kernel.org/locking/futex-requeue-pi.html)
+- [Hardware Spinlock Framework](https://docs.kernel.org/locking/hwspinlock.html)
+- [Percpu rw semaphores](https://docs.kernel.org/locking/percpu-rw-semaphore.html)
+- [A description of what robust futexes are](https://docs.kernel.org/locking/robust-futexes.html)
+- [The robust futex ABI](https://docs.kernel.org/locking/robust-futex-ABI.html)
 #### 2️⃣ Human Interfaces
 - [Input Documentation](https://www.kernel.org/doc/html/next/input/index.html)
 - [Human Interface Devices (HID)](https://www.kernel.org/doc/html/next/hid/index.html)
@@ -155,41 +253,12 @@ Briefly, the principal kernel components are the following:
 
 
 
-## Linux API (Developer)
-> 🔗 https://www.kernel.org/doc/html/next/index.html
-
-- [Core API Documentation](https://www.kernel.org/doc/html/next/core-api/index.html)
-- [Driver implementer's API guide](https://www.kernel.org/doc/html/next/driver-api/index.html)
-
-
-
 ## Linux Kernel & Hardware
 > 🔗 https://www.kernel.org/doc/html/next/index.html
 
 - [The Linux kernel firmware guide](https://www.kernel.org/doc/html/next/firmware-guide/index.html)
 - [Open Firmware and Devicetree](https://www.kernel.org/doc/html/next/devicetree/index.html)
 - [CPU Architectures](https://www.kernel.org/doc/html/next/arch/index.html)
-
-
-
-## Linux Kernel Development
-> 🔗 https://www.kernel.org/doc/html/next/index.html
-
-- [A guide to the Kernel Development Process](https://www.kernel.org/doc/html/next/process/development-process.html)
-- [Submitting patches: the essential guide to getting your code into the kernel](https://www.kernel.org/doc/html/next/process/submitting-patches.html)
-- [Code of conduct](https://www.kernel.org/doc/html/next/process/code-of-conduct.html)
-- [Kernel Maintainer Handbook](https://www.kernel.org/doc/html/next/maintainer/index.html)
-- [All development-process docs](https://www.kernel.org/doc/html/next/process/index.html)
-
-- [Linux kernel licensing rules](https://www.kernel.org/doc/html/next/process/license-rules.html)
-- [How to write kernel documentation](https://www.kernel.org/doc/html/next/doc-guide/index.html)
-- [Development tools for the kernel](https://www.kernel.org/doc/html/next/dev-tools/index.html)
-
-- [Kernel Testing Guide](https://www.kernel.org/doc/html/next/dev-tools/testing-overview.html)
-- [Kernel Hacking Guides](https://www.kernel.org/doc/html/next/kernel-hacking/index.html)
-- [Linux Tracing Technologies](https://www.kernel.org/doc/html/next/trace/index.html)
-- [fault-injection](https://www.kernel.org/doc/html/next/fault-injection/index.html)
-- [Kernel Livepatching](https://www.kernel.org/doc/html/next/livepatch/index.html)
 
 
 

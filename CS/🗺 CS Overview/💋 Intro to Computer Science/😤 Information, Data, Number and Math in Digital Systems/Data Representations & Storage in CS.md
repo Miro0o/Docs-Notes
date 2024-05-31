@@ -51,7 +51,7 @@ More at ↗ [Encodings](Encodings.md)
 
 
 ## Error Control
-↗ [Computer Network /Error Control](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Error%20Control/Error%20Control.md)
+↗ [Computer Network /Error Control](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Error%20Control%20&%20EDAC/Error%20Control%20&%20EDAC.md)
 
 
 
