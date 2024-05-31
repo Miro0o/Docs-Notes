@@ -1,4 +1,4 @@
-# Cgroup
+# Linux cgroup (control group)
 
 [TOC]
 

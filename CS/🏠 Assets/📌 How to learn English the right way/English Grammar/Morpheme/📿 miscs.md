@@ -2453,8 +2453,8 @@ drain
 
 drape
 - 来自 PIE*dhrebh,击，打，即对棉花，麻布等原材料的初步加工及弹制，其原义见 drab.后该词词义通用化，也用来指加工过的帘子，帷幕等。
-- n. 布帘, 褶皱  
-- vt. 用布帘覆盖, 披上  
+- n. 布帘, 褶皱
+- vt. 用布帘覆盖, 披上
 - vi. 成褶皱状
 -  [curtain](dic://curtain), [drapery](dic://drapery), [mantle](dic://mantle), [pall](dic://pall)
 - _n._ [blind](dic://blind), [screen](dic://screen), [furnishing](dic://furnishing), [manner](dic://manner), [mode](dic://mode), [style](dic://style), [way](dic://way)

@@ -52,20 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "458c9ace2988046e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md"
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md"
               }
             }
           },
@@ -208,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +211,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "458c9ace2988046e",
+  "active": "98dc678220f6ac72",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Virtual Memory (OS Software Level).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory Space & Address Space.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Instruction Execution/Memory Access.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux cgroup (control group) Based OS Virtualization.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux cgroup (control group).md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux Namespace.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Ports (External Bus)/📌 Special-purpose Ports/SCSI.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/File_Process_v2.excalidraw",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
     "Assets/Illustrations/File_Process_v2.excalidraw",
     "Assets/Pics/Pasted image 20240530135137.png",
     "Assets/Pics/Pasted image 20240530135006.png",
@@ -242,18 +240,9 @@
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/Operating System (Theory Part).md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Operating System (Engineering Part).md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/Operating System Components & Runtime Libraries.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/📌 System Core Function Libraries & C Standard Library (User Mode)/System Core Function Libraries & C Standard Library (User Mode).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/System Level Programming.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Computer Graphics Programming.md",
-    "CS/Software Engineering/🧩 (3D) Graphics Rendering Frameworks/openGL/openGL.md",
-    "CS/Software Engineering/🧩 (3D) Graphics Rendering Frameworks/(3D) Graphics Rendering Frameworks.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/Kernel Debugging.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces/System Call Interfaces (SCI)/🦶🏽 POSIX (Portable Operating System Interface)/POSIX (Portable Operating System Interface).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces/System Call Interfaces (SCI)/System Call Interfaces (SCI).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls.md",
     "Assets/Pics/Pasted image 20240529164502.png",
     "Assets/Illustrations/LLM_Agent_yunxiaoxi/K8S.excalidraw.png",
     "Untitled.canvas",
