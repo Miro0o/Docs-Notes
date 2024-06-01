@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-↗ [Operation Research](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🦾%20Operations%20Research/Operation%20Research.md)
+↗ [Operation Research](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
 
 ↗ [Artificial Intelligence](../../Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [AI Basics & Machine Learning](../../Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/AI%20Basics%20&%20Machine%20Learning.md)

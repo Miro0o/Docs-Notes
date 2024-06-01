@@ -20,10 +20,12 @@
 
 
 ## Intro
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240531205346.png)
+<small>Linux Kernel Networking Stack. src:<a>https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html</a></small>
 
 
 
-## Linux Network Virtualization Brief Introduction
+## 🚀 Linux Network Virtualization Brief Introduction
 ### Linux NIC Virtualization Technologies
 > 🔗 https://heitaoq66.github.io/2020/03/19/openstack学习-网络管理/
 

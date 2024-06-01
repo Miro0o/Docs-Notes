@@ -22,7 +22,7 @@ The latest release at the time of this writing is **Windows 10**. Windows 10 inc
 
 
 ## Windows Architecture
-↗ [Windows Kernel](📌%20Windows%20Kernel/Windows%20Kernel.md)
+↗ [Windows NT (New Technology) Kernel](📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20NT%20(New%20Technology)%20Kernel.md)
 
 
 

@@ -42,7 +42,6 @@ In discussing the link layer, we’ll see that there are two fundamentally diffe
 - The second type of link-layer channel is the **point-to-point communication link**, such as that often found between two routers connected by a long-distance link, or between a user’s office computer and the nearby Ethernet switch to which it is connected. Coordinating access to a point-to-point link is simpler; the reference material on this book’s Web site has a detailed discussion of the **Point-to-Point Protocol (PPP)**, which is used in settings ranging from dial-up service over a telephone line to high-speed point-to-point frame transport over fiber-optic links.
 
 ↗ [Broadcast Channels](Switched%20LAN/Broadcast%20Channels/Broadcast%20Channels.md)
-
 ↗ [P2P Channels](Switched%20LAN/P2P%20Channels/P2P%20Channels.md)
 
 
@@ -59,8 +58,6 @@ Figure 6.2 shows a typical host architecture. The Ethernet capabilities are eith
 - On the receiving side, a controller receives the entire frame, and extracts the network-layer datagram. If the link layer performs error detection, then it is the sending controller that sets the error-detection bits in the frame header and it is the receiving controller that performs error detection.
 
 ↗ [NIC (Network Adapter)](📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/NIC%20(Network%20Adapter).md)
-
-
 #### 2️⃣ Software Level Implementation
 > Figure 6.2 shows that while most of the link layer is implemented in hardware, part of the link layer is implemented in software that runs on the host’s CPU. 
 
@@ -79,3 +76,9 @@ Thus, the link layer is a combination of hardware and software -- the place in t
 
 
 ## Ref
+串口通信，ttl，uart，usb这些这间的区别是什么? - Frank Stewart的回答 - 知乎
+https://www.zhihu.com/question/301957174/answer/528945046
+
+串口通信，ttl，uart，usb这些这间的区别是什么? - 亿佰特物联网应用的回答 - 知乎
+https://www.zhihu.com/question/301957174/answer/3221820354
+

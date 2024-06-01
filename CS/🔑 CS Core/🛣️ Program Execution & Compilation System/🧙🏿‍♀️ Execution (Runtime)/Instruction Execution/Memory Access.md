@@ -6,8 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [CPU (Central Processing Unit)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [Virtual Memory Space & Address Space](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20Space%20&%20Address%20Space.md)
+↗ [Address Space](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
 
 
 
