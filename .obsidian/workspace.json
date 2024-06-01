@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbc91973e3ce6f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/OpenStack/OpenStack.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cd912764806f939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2bf39def78198a5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/Operating System Kernel (Kernel Mode).md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,20 +21,15 @@
             }
           },
           {
-            "id": "98dc678220f6ac72",
+            "id": "de327c84455a1398",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SMP  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -126,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,55 +175,55 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "98dc678220f6ac72",
+  "active": "de327c84455a1398",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory (OS Software Level)/Virtual Memory (OS Software Level).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Virtual Memory Space & Address Space.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Execution (Runtime)/Instruction Execution/Memory Access.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/0x06 Data Link Layer.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network and Communication Introduction & Overview/Information, Signals, and Communication Technology Intro.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Electronics Computer Engineering (ECE).md",
+    "CS/🔑 CS Core/🧬 Computer System/⚡️ Digital (Logic) Electronics Foundations/Digital (Logic) Electronics Foundations.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/📌 Electronics Computer Engineering (ECE)",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/CPU-assisted Virtualization/x86 Virtualization/Intel VT-x/Intel VT-x.md",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.png",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.svg",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/FAQ.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Mathematical Logics.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/System Bus/SMBus (System Management Bus).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Architectural Layer & Booting/Architectural Layer & Booting.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux VFS (Virtual Filesystem Switch, Virtual File System).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Architectural Layer & Booting",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Virtual Memory (Hardware and Control Structure)/Virtual Memory (Hardware and Control Structure).md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux cgroup (control group) Based OS Virtualization.md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux cgroup (control group).md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux Namespace.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Ports (External Bus)/📌 Special-purpose Ports/SCSI.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/File_Process_v2.excalidraw",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
-    "Assets/Illustrations/File_Process_v2.excalidraw",
-    "Assets/Pics/Pasted image 20240530135137.png",
-    "Assets/Pics/Pasted image 20240530135006.png",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/Operating System Kernel (Kernel Mode).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/OS Kernel Architectures/Monokernel (Monolithic Kernel).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/OS Kernel Architectures/Microkernel (μ-kernel).md",
-    "CS/🗺 CS Overview/CS International Universities & Countries' Lives/Countries & Research Programs/Countries & Research Programs.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Error Control & EDAC/Error Detection Code (EDC)/Error Detection Code (EDC).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/Error Control & EDAC/Error Control & EDAC.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/🔞 OpenStack/OpenStack.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
-    "Assets/docs/2024信安赛作品申报书.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/Operating System (Theory Part).md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Operating System (Engineering Part).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/Operating System Components & Runtime Libraries.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/📌 System Core Function Libraries & C Standard Library (User Mode)/System Core Function Libraries & C Standard Library (User Mode).md",
-    "Assets/Pics/Pasted image 20240529164502.png",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/K8S.excalidraw.png",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/Linux's BTRFS (Better FS, Butter FS, B-Tree FS)/Linux's BTRFS (Better FS, Butter FS, B-Tree FS).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/Arch Linux/Arch Linux.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/File Systems Implementations.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/XFS (Extend File System).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/File Systems & Operating Systems.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/Linux's BTRFS (Better FS, Butter FS, B-Tree FS)",
+    "Assets/Pics/Pasted image 20240601141419.png",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/NTFS (NT File System)",
+    "Assets/Pics/Pasted image 20240601111912.png",
+    "Assets/Pics/Pasted image 20240601111417.png",
+    "Assets/Pics/Pasted image 20240601111405.png",
+    "Assets/Pics/Pasted image 20240601111200.png",
+    "Assets/Pics/Pasted image 20240601105310.png",
+    "Assets/Pics/Pasted image 20240601105225.png",
+    "Assets/Pics/Pasted image 20240601105218.png",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls",
+    "CS/CyberSecurity/System Security/🎅🏼 Cloud Security/🩳 Cloud-Native System Runtime Security",
+    "CS/CyberSecurity/System Security/🎅🏼 Cloud Security/Risks & Threats in Cloud",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Block IO Management",
+    "CS/CyberSecurity/System Security/Operating System Security/🐏 Linux Kernel Security Mechanism & LSM/Smack",
+    "CS/CyberSecurity/System Security/Operating System Security/🐏 Linux Kernel Security Mechanism & LSM/Tomoyo",
     "Untitled.canvas",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.png",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/LLM Training.excalidraw.svg",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/File_Process.excalidraw.png",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.png",
-    "Assets/Illustrations/LLM_Agent_yunxiaoxi/prompt_engineering.excalidraw.svg",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/NUMA (Non-Uniform Memory Access)",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Vector Processors",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture and Flynn's Taxonomy",
-    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Tree/Red-Black Tree (RB-Tree)",
-    "CS/Software Engineering/CLI Software Development/Untitled",
-    "CS/Software Engineering/CLI Software Development",
-    "Assets/Pics/Pasted image 20240525190610.png",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

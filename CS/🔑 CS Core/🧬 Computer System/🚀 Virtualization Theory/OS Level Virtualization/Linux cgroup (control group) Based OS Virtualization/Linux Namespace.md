@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [🍸 Linux Kernel](../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
-↗ [Process Management & Scheduling](../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/⭕️%20Process%20Management%20&%20Scheduling/Process%20Management%20&%20Scheduling.md)
+↗ [Task Management & Scheduling (Process & Threads)](../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/⭕️%20Task%20Management%20&%20Scheduling%20(Process%20&%20Threads)/Task%20Management%20&%20Scheduling%20(Process%20&%20Threads).md)
 
 
 

@@ -29,7 +29,7 @@
 
 
 ### Interrupts
-↗ [Interrupts](Interrupts.md)
+↗ [Interrupts (Software & Hardware)](Interrupts%20(Software%20&%20Hardware).md)
 
 
 

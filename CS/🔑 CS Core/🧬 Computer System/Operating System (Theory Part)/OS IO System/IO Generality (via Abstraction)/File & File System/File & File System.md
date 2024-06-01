@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [File Systems & Operating Systems](🎯%20File%20Systems%20Implementations/File%20Systems%20&%20Operating%20Systems.md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 ↗ [Linux IO & Files Management](../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/Linux%20IO%20&%20Files%20Management.md)
 ↗ [Text & File & Dir Management Basics](../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Text%20&%20File%20&%20Dir%20Management%20Basics.md)
@@ -137,3 +138,4 @@ Whereas users and applications are concerned with records or fields, I/O is done
 
 [👍 Linux Cygwin知识库（二）：目录、文件及基本操作]: https://silaoa.github.io/2019/2019-05-04-Linux%20Cygwin知识库（二）：目录、文件及基本操作.html
 
+[如何选择文件系统：EXT4、Btrfs 和 XFS]: https://linux.cn/article-7083-1.html

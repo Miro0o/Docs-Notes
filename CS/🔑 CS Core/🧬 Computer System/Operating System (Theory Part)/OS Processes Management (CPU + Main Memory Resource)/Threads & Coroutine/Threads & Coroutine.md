@@ -11,6 +11,22 @@
 
 
 ## Intro
+> 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/processes.html
+
+A thread is the basic unit that the kernel process scheduler uses to allow applications to run the CPU. A thread has the following characteristics:
+- Each thread has its own stack and together with the register values it determines the thread execution state
+- A thread runs in the context of a process and all threads in the same process share the resources
+- The kernel schedules threads not processes and user-level threads (e.g. fibers, coroutines, etc.) are not visible at the kernel level
+
+The typical thread implementation is one where the threads is implemented as a separate data structure which is then linked to the process data structure. For example, the **Windows kernel** uses such an implementation:
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601105206.png)
+
+Linux uses a different implementation for threads. The basic unit is called a task (hence the `struct task_struct`) and it is used for both threads and processes. Instead of embedding resources in the task structure it has pointers to these resources.
+
+Thus, if two threads are the same process will point to the same resource structure instance. If two threads are in different processes they will point to different resource structure instances.
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020240601105310.png)
 
 
 

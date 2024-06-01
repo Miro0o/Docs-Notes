@@ -13,6 +13,8 @@
 ↗ [HDLs (Hardware Definition Languages)](../../../Embedded%20&%20Internet%20of%20Things/HDLs%20(Hardware%20Definition%20Languages)/HDLs%20(Hardware%20Definition%20Languages).md)
 ↗ [Verilog](../../../Embedded%20&%20Internet%20of%20Things/HDLs%20(Hardware%20Definition%20Languages)/Verilog/Verilog.md)
 
+↗ [Electronics Computer Engineering (ECE)](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Electronics%20Computer%20Engineering%20(ECE).md)
+
 
 ### Learning Resources
 

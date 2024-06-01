@@ -51,7 +51,6 @@ https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
 - [ ] 应用回归分析
 
 - [ ] 数值最优化方法
-
 - [ ] 凸优化
 
 - [x] 概率论与数理统计
@@ -60,7 +59,6 @@ https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
 - [ ] 积分变换
 
 - [ ] 博弈论
-
 - [ ] 信息论
 
 
@@ -104,5 +102,3 @@ It is difficult to circumscribe the theoretical areas precisely. The [ACM](http
 
 ## Ref
 [ACM Special Interest Group on Algorithms and Computation Theory ()]: https://www.sigact.org
-
-

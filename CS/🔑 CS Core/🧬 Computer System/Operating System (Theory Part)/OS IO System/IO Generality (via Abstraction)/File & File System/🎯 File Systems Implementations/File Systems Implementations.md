@@ -10,13 +10,17 @@
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 ↗ [Distributed File System (Network File Systems)](../../../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
-↗ [Cloud Native Storage](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/👖%20Cloud%20Runtime/Cloud%20Native%20Storage/Cloud%20Native%20Storage.md)
+↗ [Cloud Native Storage](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Runtime/Cloud%20Native%20Storage/Cloud%20Native%20Storage.md)
 ↗ [Database System](../../../../../../🍕%20Database%20System/Database%20System.md)
 ↗ [Cloud Database](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Cloud%20Database.md)
 
 ↗ [NAS (Network-Attached Storage) Protocols](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
 ↗ [Storage Area Network (SAN)](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/Storage%20Area%20Network%20(SAN).md)
 
+↗ [macOS File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20System.md)
+- ↗ [HFS (Hierarchical File System) & HFS+ (macOS Extended)](../../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/🧃%20HFS%20(Hierarchical%20File%20System)%20&%20HFS+%20(macOS%20Extended)/HFS%20(Hierarchical%20File%20System)%20&%20HFS+%20(macOS%20Extended).md)
+↗ [Window File System](../../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/Window%20File%20System.md)
+- ↗ [NTFS (NT File System)](../../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20IO%20&%20Files%20Management/Windows%20File%20System/NTFS%20(NT%20File%20System)/NTFS%20(NT%20File%20System).md)
 
 
 ### Other Resources
@@ -110,3 +114,5 @@ These are not really file systems; they allow access to file systems from an ope
 ## Ref
 [👍 File system | Wikipedia]: https://en.wikipedia.org/wiki/File_system#
 [👍 List of File Systems | Wikipedia]: https://en.wikipedia.org/wiki/List_of_file_systems
+
+[如何选择文件系统：EXT4、Btrfs 和 XFS]: https://linux.cn/article-7083-1.html

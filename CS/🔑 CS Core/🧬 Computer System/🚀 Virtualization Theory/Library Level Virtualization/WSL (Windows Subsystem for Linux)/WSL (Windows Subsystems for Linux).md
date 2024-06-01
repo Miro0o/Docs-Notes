@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [POSIX (Portable Operating System Interface)](../../../Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/🦶🏽%20POSIX%20(Portable%20Operating%20System%20Interface)/POSIX%20(Portable%20Operating%20System%20Interface).md)
+↗ [POSIX (Portable Operating System Interface)](../../../Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 ↗ [Windows](../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
 
 
