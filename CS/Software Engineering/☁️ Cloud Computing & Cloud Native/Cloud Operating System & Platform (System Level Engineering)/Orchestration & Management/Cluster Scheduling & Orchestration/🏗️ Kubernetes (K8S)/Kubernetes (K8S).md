@@ -12,14 +12,26 @@
 
 🚧 https://github.com/kubernetes
 
+
+### Related Topics
+↗ [Google](../../../../../../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Google.md)
+↗ [PaaS (Platform as a Service)](../../../../🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/PaaS%20(Platform%20as%20a%20Service)/PaaS%20(Platform%20as%20a%20Service).md)
+
+↗ [OpenStack](../../../🔞%20OpenStack/OpenStack.md)
+
+
 ### Learning resources
 ⭐️ 📑  [Kubernetes 基础教程 | jimmysong 云原生](https://lib.jimmysong.io/kubernetes-handbook/)
 [尚硅谷 -- 云原生](https://www.yuque.com/leifengyang/oncloud/vfvmcd)
 [Kubernetes免费教程 -- 入门 ｜ kuboard](https://kuboard.cn/learning/)
 
-👉 [k9s](https://k9scli.io) : Kubernetes CLI to magage clusters. 
-
-[kubernetes 高可用部署工具：sealos](https://icloudnative.io/posts/sealos/)
+👍👍 https://www.huweihuang.com/
+https://www.huweihuang.com/kubernetes-notes/
+Kubernetes 学习笔记
+https://www.huweihuang.com/k8s-source-code-analysis/
+Kubernetes 源码分析笔记
+https://www.huweihuang.com/docker-notes/
+Docker 学习笔记
 
 
 

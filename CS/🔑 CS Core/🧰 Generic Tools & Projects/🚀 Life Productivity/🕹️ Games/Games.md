@@ -43,8 +43,8 @@ Games and interactive digital playthings.
 ### 1️⃣ Installing Windows via Dual-Boot or Virtualization
 Preferred Options: 
 
-↗ [Parallel Desktop](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
-↗ [VMware Fusion](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
+↗ [Parallel Desktop](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
+↗ [VMware Fusion](../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
 
 Obselet solusions: virtualBox, Boot Camp, and Windows 365
 - Oracle’s free **VirtualBox** is another option for running a virtual Windows system, but you’ll need patience and expertise to get it working; stay away from this method if the prospect of partitioning your hard drive or system RAM sounds daunting. Apps won’t run as quickly or as smoothly as they do with commercial solutions, and you still need to purchase a Windows license to use with VirtualBox.

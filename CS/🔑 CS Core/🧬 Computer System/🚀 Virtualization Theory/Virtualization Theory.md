@@ -12,10 +12,16 @@
 
 > Describes virtualization technology in general, and introduces `libvirt` — the unified interface to virtualization — and detailed information on specific hypervisors.
 
+📂  [译｜论文｜可虚拟化第三代（计算机）架构的规范化条件（ACM, 1974）](https://arthurchiao.art/blog/formal-requirements-for-virtualizable-arch-zh/)
+Popek & Goldberg, 1974
+
 
 ### Related Topics
 ↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
 ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
+
+↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+↗ [VMWare](../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Providers/VMWare.md)
 
 
 
@@ -23,37 +29,40 @@
 ![](../../../../Assets/Pics/Screenshot%202024-04-01%20at%203.15.48%20PM.png)
 <small>https://en.wikipedia.org/wiki/Virtualization#External_links</small>
 
+> 📎 https://www.cnblogs.com/bj-mr-li/p/11407927.html
+
+虚拟化是一个广义的术语，是指计算元件在虚拟的基础上而不是真实的基础上运行，是一个为了简化管理、优化资源的解决方案。
+
+在X86平台虚拟化技术中，新引入的虚拟化层通常称为虚拟机监控器（Virtual MachineMonitor, VMM）， 也叫做Hypervisor。 虚拟机监控器运行的环境，也就是真实的物理平台，称之为宿主机。而虚拟出来的平台通常称为客户机，里面运行的系统对应地也称为客户机操作系统，如下图。
+
+1974年，Popek和Goldberg在一篇论文中定义了“经典虚拟化(Classical virtualization)”的基本需求，他们认为，一款真正意义上的VMM至少要符合三个方面的标准：
+- 等价执行（Equivalient execution）：除了资源的可用性及时间上的不同之外，程序在虚拟化环境中及真实环境中的执行是完全相同的。
+- 性能（Performance）：指令集中的大部分指令要能够直接运行于CPU上。
+- 安全（Safety）：VMM要能够完全控制系统资源。
+
+
+### Virtualization & Emulation
+#virtualization #emulation
+
+
 
 ### Virtualization History
 ↗ [Virtualization Development History & Timeline](Virtualization%20Development%20History%20&%20Timeline.md)
 
 
-
-## 🎲 Virtualization by Objects
-### 🕶️ Virtual Reality
-As in ↗ [AI /Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
-
-
-### 🎰 Virtual Machine
-#### Platform Virtualization
-#### Application Virtualization
-
-
-### 🥅 Network Virtualization
-As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md).
-
-
-### 📚 Storage Virtualization
-↗ [Operating System / Memory Management /Memory Virtualization](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
-
-
-### 👩🏼‍🍳 Service Virtualization
-As in ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md).
-
-
-### More...
-1. Application virtualization (Sandbox)
-2. Desktop virtualization
+### 🎲 Virtualization by Objects
+1. Virtual Reality
+	1. As in ↗ [AI /Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
+2. Virtual Machine
+	1. Platform Virtualization
+	2. Application Virtualization(Sandbox)
+	3. Desktop virtualization
+3. Network Virtualization
+	1. As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+4. Storage Virtualization
+	1. ↗ [Operating System / Memory Management /Memory Virtualization](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
+5. Service Virtualization
+	1. As in ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md).
 
 
 
@@ -61,14 +70,12 @@ As in ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁�
 ### 1️⃣ Hardware Abstraction Level
 At this level virtualizations are often referred as Hypervisors, or VMM (virtual machine manager).
 
-> As in ↗ [Hardware Level Virtualization (Hypervisors)](Hardware%20Level%20Virtualization%20(Hypervisors)/Hardware%20Level%20Virtualization%20(Hypervisors).md)
+> As in ↗ [Hardware Level Virtualization & Hypervisors](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hardware%20Level%20Virtualization%20&%20Hypervisors.md)
 
-
-Bochs
-QEMU
-[VMware ESXi](https://zh.wikipedia.org/wiki/VMware_ESXi "VMware ESXi")
-[Hyper-V](https://zh.wikipedia.org/wiki/Hyper-V "Hyper-V")
-[Citrix](https://zh.wikipedia.org/wiki/%E6%80%9D%E6%9D%B0%E7%B3%BB%E7%BB%9F "思杰系统")。
+↗ [Bochs](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Exclusive/Bochs.md)
+↗ [QEMU](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/QEMU/QEMU.md)
+↗ [VMware ESXi & VMware vSphere](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Native%20Hypervisor/VMware%20ESXi%20&%20VMware%20vSphere/VMware%20ESXi%20&%20VMware%20vSphere.md)
+↗ [Microsoft Hyper-V](Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Native%20Hypervisor/Microsoft%20Hyper-V/Microsoft%20Hyper-V.md)
 
 
 ### Software Abstraction Level
@@ -99,12 +106,11 @@ QEMU
 
 [理解（计算、网络，存储）虚拟化，只需一篇文章]: https://blog.csdn.net/weixin_57726902/article/details/124072149
 
-
-[📂 译｜论文｜可虚拟化第三代（计算机）架构的规范化条件（ACM, 1974）]: https://arthurchiao.art/blog/formal-requirements-for-virtualizable-arch-zh/
-
 [👍 Introduction to virtualisation | Ubuntu serer docs]: https://ubuntu.com/server/docs/virtualization-introduction
 
 [👍 x86 virtualization | Wikipedia]: https://en.wikipedia.org/wiki/X86_virtualization
 
 [VMWare ESXi简介及运维 | CSDN]: http://t.csdnimg.cn/UBy8f
 ![](../../../../Assets/Pics/Pasted%20image%2020240402135030.png)
+
+[Virtualization | The linux kernel]: https://linux-kernel-labs.github.io/refs/heads/master/lectures/virt.html#classic-virtualization

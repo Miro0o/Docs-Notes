@@ -29,7 +29,8 @@ tbd...
 ### 🫦 Containers & Orchestration Technology
 ↗ [Cluster Scheduling & Orchestration](../Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cluster%20Scheduling%20&%20Orchestration/Cluster%20Scheduling%20&%20Orchestration.md)
 ↗ [Orchestration & Management](../Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Orchestration%20&%20Management.md)
-↗ [Container Implementations](🐋%20Container%20Implementations/Container%20Implementations.md)
+
+↗ [Container Implementations](🐋%20Container%20Implementations/Container%20Implementations.md) 👈
 
 
 

@@ -4258,7 +4258,7 @@
 7. scrag
 	1. 1. vt. 绞死；扼杀；排挤掉…
 	2. n. 皮包骨的人或动物；弱不禁风的植物；[俚]脖子；羊颈肉（等于scragend）
-	3. - v. （非正式）粗暴对待；痛打；（英式橄榄球）搂住（对手）脖子；扼杀；杀死；谋杀 
+	3. v. （非正式）粗暴对待；痛打；（英式橄榄球）搂住（对手）脖子；扼杀；杀死；谋杀 
 	4. n. 骨瘦如柴的人（或动物）；（非正式）人的脖子；羊颈肉
 	5. [thin person](dic://thin person), [skin and bones](dic://skin and bones)
 	6. [scrag end](dic://scrag end)
@@ -4275,17 +4275,117 @@
 1. **fend-, fens-** = strike, 「Latin」defendere, "to ward off, to strike against, be offensive, offend"
 	1. defend
 		1. defense, defence
-	2. fend, fence
-	3. offend
-		1. offense, offence
+		2. undefended
+		3. defender
+		4. defendant
+			1. codefendant
+	2. fend
+		1. forfend
+		2. fender
+			1. fenderless
+	3. fence
+		1. on the fence
+			1. 犹豫不决：指在做决定或表达观点时犹豫不决，无法下定论。 
+			2. 中立：指在争议或争论中保持中立立场，不偏袒任何一方。
+			3. [undecided](dic://undecided)
+			4. _adj._ [indecisive](dic://indecisive)
+			5. _n._ [decisive](dic://decisive)
+			6. And frankly, the kids are on the fence. gaby! /坦白地讲 孩子们不介意的！
+			7. Others are just simply on the fence. /还有一些逊尼派则保持中立。
+			8. That is something I'm on the fence on /我对此持怀疑态度。
+			9. I'm not on the fence about whether I should be angry. /我没怀疑过我是否该生气。
+			10. If it's desirable, that is something I'm on the fence on /是否有望达到，我持观望态度。
+			11. I have to admit I was kind of on the fence about you /我得承认 我是有点喜欢你。
+		3. unfenced
+		4. fencing
+		5. fencer
+		6. fenceless
+		7. fence-sitter
+		8. fence-hanger
+	5. offend
+		1. v. 得罪, 冒犯; 犯罪; 违背, 违反; <体育>进攻
+		2. of-一再 + fend-打击 → 一再打击[别人] → 得罪。
+		3.  of-,向前，朝向，-fend,攻击，词源同 defend,manifest.引申词义进攻，冒犯。
+		4. offense, offence
+		5. offensive
+			1. inoffensive
+			2. counteroffensive
+		6. offenseless
+		7. offenseful
 2. bane
-	1. [curse](dic://curse), [scourge](dic://scourge), [nemesis](dic://nemesis)
-	2. _n._ [affliction](dic://affliction)
-	3. **boon**恩惠;**existence**存在;**scourge**鞭打;**hindrance**起妨碍作用的事物或人;**ubiquitous**普遍存在的;**mainstay**支柱;**dreaded**令人畏惧的，可怕的;**nemesis**报应;**curse**咒骂;**menace**威胁;**troublesome**令人烦恼的;
-	4. _[Acquire Typhon's Bane](dic://Acquire%20Typhon%27s%20Bane)_ 获得提丰之祸
-	5. _[Lord Foul's Bane](dic://Lord%20Foul%27s%20Bane)_ 法尔的毒药
-	6. _[Black Bart's Bane](dic://Black%20Bart%27s%20Bane)_ 私贩之祸根
+	1. bane - bane源自古英语bana 'murderer'（杀人犯，凶手），首次以poison（毒物，毒药）的意义出现在1398年一篇题为On theProperties of Things（论物性）的论文中。文中有个句子henbane is mannis bane，意思是说“henbane（天仙子）这种植物对人体有毒害作用”。此义早已不用，仅残存于表示植物的一些复合词中，如fleabane（飞蓬，据信可驱跳蚤，故名），henbane（天仙子，对家禽尤其有毒），ratsbane（有杀鼠毒性的植物，也指“杀鼠药”），wolfsbane（狼毒乌头）等。bane的词义虽几经演变，但至今仍用于贬义，现一般多指“灾星”或“祸根”。
+	2. n. 烦恼之源, 祸根, 毒药, 灭亡的原因, 灭亡
+	3. [curse](dic://curse), [scourge](dic://scourge), [nemesis](dic://nemesis)
+	4. _n._ [affliction](dic://affliction)
+	5. **boon**恩惠;**existence**存在;**scourge**鞭打;**hindrance**起妨碍作用的事物或人;**ubiquitous**普遍存在的;**mainstay**支柱;**dreaded**令人畏惧的，可怕的;**nemesis**报应;**curse**咒骂;**menace**威胁;**troublesome**令人烦恼的;
+	6. _[Acquire Typhon's Bane](dic://Acquire%20Typhon%27s%20Bane)_ 获得提丰之祸
+	7. _[Lord Foul's Bane](dic://Lord%20Foul%27s%20Bane)_ 法尔的毒药
+	8. _[Black Bart's Bane](dic://Black%20Bart%27s%20Bane)_ 私贩之祸根
+	9. the bane of one's existence /致命的事物；克星
+	10. the telephone was the bane of my life . /电话是我生活的灾难。
+	11. I don't know about you, but mosquitoes are the bane of my digital existence /我不知道你们的情况，但是蚊子是我的数字生活的烦恼之源。
+	12. The aristocratic tradition embedded in British higher education is its bane /英国高等教育中根深蒂固的贵族传统是它的祸根。
 3. gun
+	1. six-gun
+	2. shotgun
+		1. [scattergun](dic://scattergun)
+		2. _n._ [firearm](dic://firearm), [piece](dic://piece), [small-arm](dic://small-arm)
+		3. **pistol**手枪;**rifle**步枪;**handgun**手枪;**revolver**左轮手枪;**gun**枪;**pistols**手枪;**firearm**枪炮;**rifles**来福枪;**ammo**弹药;**weapon**武器，兵器;**firearms**火器，枪炮;
+		4. _ride shotgun_ 运输途中担任护卫；坐在汽车前面的旅客座上
+		5. My turn to ride shotgun today! /今天轮到我坐前面了。
+		6. The robbers used a sawn-off shotgun in the raid. /劫匪在袭击中用锯断的猎枪。
+		7. he reloaded the chamber of the shotgun with fresh cartridges /他给猎枪重新装上弹药。
+		8. Without a shotgun you cannot drive away the wolves and jackals. /不用猎枪,赶不走豺狼。
+		9. The shooter had a shotgun and a revolver. /枪手有一把猎枪和一把左轮手枪。
+	3. scatter-gun
+	4. pop-gun
+	5. photogun
+	6. machinegun
+	7. handgun
+		1. [pistol](dic://pistol), [side arm](dic://side arm), [shooting iron](dic://shooting iron)
+		2. _n._ [firearm](dic://firearm), [piece](dic://piece), [small-arm](dic://small-arm)
+		3. **firearm**枪炮;**pistol**手枪;**gun**枪;**firearms**火器，枪炮;**revolver**左轮手枪;**pistols**手枪;**rifle**步枪;**shotgun**霰弹猎枪;**guns**枪炮;**holster**手枪皮套;**rifles**来福枪;
+		4. The government has imposed a ban on the sale of handguns. /政府下令禁止出售手枪。
+		5. Drew also said that the boy used a 9mm handgun in the shooting. /德鲁还说，这名男孩在此次枪击事件中使用了一把9毫米手枪。
+	8. gunwale
+	9. gunstock
+	10. gunsmith
+	11. gunslinger
+	12. gunsight
+	13. gunshot
+	14. gunship
+	15. gunrunning
+	16. gunrunner
+		1. _n._ [smuggler](dic://smuggler), [runner](dic://runner), [contrabandist](dic://contrabandist), [moon curser](dic://moon curser), [moon-curser](dic://moon-curser)
+		2. **gangster**歹徒，流氓;**mercenary**雇用的,为钱的,唯利是图的;**smuggling**走私;**assassin**刺客，暗杀者;**renegade**变节者;**fugitive**逃亡者;**cartel**卡特尔;**gambler**赌徒;**financier**金融家;**bandit**强盗;**thug**暴徒;
+	17. gunpowder
+	18. gunport
+	19. gunpoint
+	20. gunning
+	21. gunnery
+	22. gunner
+	23. gunned
+	24. gunnage
+	25. gunmetal
+	26. gunman
+	27. gunlock
+	28. gunlayer
+	29. gunfire
+	30. gunfight
+	31. gundog
+	32. guncotton
+	33. gunboating
+	34. gunboat
+	35. gunbarrel
+	36. gun-shy
+	37. gun-howitzer
+	38. distress-gun
+	39. blowgun
+		1. n. 吹箭筒；喷漆的器具
+		2. [blowpipe](dic://blowpipe), [blowtube](dic://blowtube), [blow tube](dic://blow tube)
+		3. _n._ [tube](dic://tube), [tubing](dic://tubing)
+		4. **dart**镖;**archery**箭术;**pistol**手枪;**darts**射镖游戏;**archer**弓箭手;**rifle**步枪;**projectile**发射体;**shotgun**霰弹猎枪;**pistols**手枪;**grenade**手榴弹;**revolver**左轮手枪;
+	41. antigun
 
 
 ### + \*gwher- +

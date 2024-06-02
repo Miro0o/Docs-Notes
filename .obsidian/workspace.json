@@ -24,12 +24,30 @@
             "id": "de327c84455a1398",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux Namespace.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f6e3bff8fd419b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md"
+              }
             }
           },
           {
@@ -175,38 +197,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de327c84455a1398",
+  "active": "0f6e3bff8fd419b2",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/0x06 Data Link Layer.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/0x05 Network Layer.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x00 Computer Network and Communication Introduction & Overview/Information, Signals, and Communication Technology Intro.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Electronics Computer Engineering (ECE).md",
-    "CS/🔑 CS Core/🧬 Computer System/⚡️ Digital (Logic) Electronics Foundations/Digital (Logic) Electronics Foundations.md",
+    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Data Structures.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Docker/Docker.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/Kubernetes (K8S).md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/Kubernetes Deployments & Tools/sealos.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/Kubernetes Deployments & Tools",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/K9S.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/CPU Virtualization.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Virtualization Theory.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Cloud Operating System & Platform (System Level Engineering).md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Hardware Level Virtualization & Hypervisors.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Computing & Cloud Native.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/FAQ.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/🔞 OpenStack/OpenStack.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Cloud Runtime/Cloud Runtime.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/runc/runc.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux Namespace.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/AMQP (Advanced Message Queuing Protocol)/AMQP (Advanced Message Queuing Protocol).md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Container Implementations.md",
+    "Assets/Pics/Pasted image 20240602102502.png",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Containerd (Container Daemon)/Containerd (Container Daemon).md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Containerd (Container Daemon)/cri-containerd.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/Open Container Initiative (OCI).md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/OS Level Virtualization & Containers Technology.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/crun",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/runc",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/Containers Runtime VMM Solutions/Containers Runtime VMM Solutions.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/Container Repositories.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Cloud Runtime/Cloud Native Network/CNI (Container Network Interface).md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Untitled",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/Memory Virtualization",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/📌 Electronics Computer Engineering (ECE)",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization (Hypervisors)/📌 Hardware-assisted Virtualization/CPU-assisted Virtualization/x86 Virtualization/Intel VT-x/Intel VT-x.md",
-    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
     "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.png",
     "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.svg",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/FAQ.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Mathematical Logics.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/System Bus/SMBus (System Management Bus).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Parallel Computing & Multiprocessor Architectures/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Architectural Layer & Booting/Architectural Layer & Booting.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux VFS (Virtual Filesystem Switch, Virtual File System).md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Architectural Layer & Booting",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File & File System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/🔞 OpenStack/OpenStack.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/javac (Java Programming Language Compiler)/javac (Java Programming Language Compiler).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/Linux's BTRFS (Better FS, Butter FS, B-Tree FS)/Linux's BTRFS (Better FS, Butter FS, B-Tree FS).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/Arch Linux/Arch Linux.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/File Systems Implementations.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/XFS (Extend File System).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/File Systems & Operating Systems.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/Linux's BTRFS (Better FS, Butter FS, B-Tree FS)",
     "Assets/Pics/Pasted image 20240601141419.png",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/NTFS (NT File System)",
@@ -216,13 +244,7 @@
     "Assets/Pics/Pasted image 20240601111200.png",
     "Assets/Pics/Pasted image 20240601105310.png",
     "Assets/Pics/Pasted image 20240601105225.png",
-    "Assets/Pics/Pasted image 20240601105218.png",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls",
-    "CS/CyberSecurity/System Security/🎅🏼 Cloud Security/🩳 Cloud-Native System Runtime Security",
-    "CS/CyberSecurity/System Security/🎅🏼 Cloud Security/Risks & Threats in Cloud",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Block IO Management",
-    "CS/CyberSecurity/System Security/Operating System Security/🐏 Linux Kernel Security Mechanism & LSM/Smack",
-    "CS/CyberSecurity/System Security/Operating System Security/🐏 Linux Kernel Security Mechanism & LSM/Tomoyo",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
