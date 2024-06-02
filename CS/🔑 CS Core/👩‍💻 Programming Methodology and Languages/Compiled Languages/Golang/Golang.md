@@ -46,6 +46,9 @@ _欢迎大家加我微信大家一起学习 **yzy85215215** (需要视频教�
 【Golang深入理解GPM模型】 https://www.bilibili.com/video/BV19r4y1w7Nx/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 【zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)】 https://www.bilibili.com/video/BV1wE411d7th/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+🤔 https://www.huweihuang.com/golang-notes/
+Golang 学习笔记
+
 
 
 ## Intro

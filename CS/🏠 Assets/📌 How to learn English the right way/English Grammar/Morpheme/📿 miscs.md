@@ -9410,7 +9410,30 @@ sand
 - quicksand
 - greensand
 
+sapphire
+- a. 天蓝色的  
+- n. 蓝宝石, 刚玉宝石, 天蓝色
+- sapphire - 意指“蓝宝石”的sapphire一词借自古法语safir，并可一直溯源至梵语sanipriya，其原意为dear/precious to the planetSaturn（土星所珍视的）。但西方占星术常把sapphire与金星（Venus）而不是与土星（Saturn）相联系。  
+- 昔日，蓝宝石一直被用于各种目的。蓝宝石被认为可以治病，特别是眼疾，佩带蓝宝石还被认为可使人身心保持安宁与平静。但在今天蓝宝石和紫晶（amethyst）只作珍贵装饰品用，几乎不作他用。
+-  [azure](dic://azure), [cerulean](dic://cerulean), [lazuline](dic://lazuline), [sky-blue](dic://sky-blue)
+- _n._ [transparent gem](dic://transparent gem), [corundom](dic://corundom), [corundum](dic://corundum), [jewel](dic://jewel), [gem](dic://gem), [precious stone](dic://precious stone), [blue](dic://blue)
+- _adj._ [chromatic](dic://chromatic)
+- _n._ [achromatic](dic://achromatic)
+- **emerald**绿宝石，翡翠;**gemstone**宝石;**quartz**石英;**diamond**钻石，金刚石;**ruby**红宝石;**opal**猫眼石，蛋白石;**crystal**水晶;**bezel**刀具的刃角;**jade**碧玉;**diamonds**钻石;**turquoise**绿松石
+- _sapphire crystal_ 蓝宝石玻璃；蓝宝石晶体；蓝宝石水晶镜面
+- _sapphire blue_ 宝石蓝
+- a sapphire that was cut cabochon. /切削成凸圆形的蓝宝石
+- And covers herself in rubies, emeralds, and sapphires. /再戴上红宝石 绿翡翠和蓝宝石。
+- Did I mention the sparkly bits are genuine sapphire? /我告诉过你那些发光的点是纯蓝宝石吗?
+
+sardinia
+
 sardonic
+- a. 嘲笑的, 冷笑的, 讥讽的
+- sardonic（冷笑的）：盛产令人狂笑而死的毒草的撒丁岛  
+- 传说地中海中撒丁岛（sardinia）上有一种毒草，其毒性足以致命。误食者会肌肉抽搐，狂笑不止而死，死的时候脸上依然保持一种古怪的笑容。古希腊诗人荷马将这种笑容称为“撒丁式笑容”，翻译成英语就是sardonic smile，单词sardonic就来自撒丁岛的名字sardinia，现在常常用来表示“冷笑的”、“讥讽的”。  
+- sardonic：[saː'dɔnɪk] 撒丁式的，冷笑的，讽刺的  
+- sardonically：[sa:'dɔnikəli] adv.冷嘲地，讽刺地
 - **wry**面部肌肉扭曲的;**sarcastic**讽刺的;**witty**诙谐的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**sly**狡猾的;**snarky**恶声恶气的，咬人的;**irreverent**不敬的;**cynical**愤世嫉俗的;**humorous**诙谐的，幽默的;**satirical**含讽刺意味的, 嘲讽的;**caustic**腐蚀性的;
 - [sarcastic](dic://sarcastic)
 - _[sardonic smiles](dic://sardonic%20smiles)_ 冷笑
@@ -9440,16 +9463,38 @@ scant (recant, kan-)
 - **meager**贫乏的;**paltry**不足取的;**considerable**相当大的;**mere**仅仅的;**ample**丰富的;**substantial**大量的;**copious**丰富的;**cursory**粗略的;**dearth**缺乏;**handful**一把;**sparse**稀疏的;
 
 scathe
+- _vt._ <诗>伤害；损害(尤指使之枯萎)
+- _n._ 伤害，损伤
 - [damage](dic://damage), [harm](dic://harm), [hurt](dic://hurt)
 - _n._ [change of integrity](dic://change of integrity)
 - **wreak**发泄;**mortal**致命的;
 - _[damnification damnify mar scathe trauma](dic://damnification%20damnify%20mar%20scathe%20trauma)_ 损伤
+- One day, a scathing schoolmistress who wore a scarf scathed his selfpride. /一天，一名带围巾的严厉的女教员伤害了他的自尊心。
+- Safety, little **scathe** on the fabric strength. /使用安全，对织物强度的损伤极小。
 - unscathed
+	- _adj._ [uninjured](dic://uninjured)
+	- _n._ [injured](dic://injured)
 	- **unharmed**无恙的;**survived**幸存的;**intact**完整的;**escaped**溜走;**thankfully**感谢地;**survive**活得长;**untouched**未触及的;**fortunately**幸运地;**uneventful**无特别事件的;**unaffected**不受影响的;**miraculously**神奇地;
+	- The children escaped unscathed. /这些孩子平安逃脱。
+	- The company came through the crisis apparently unscathed. /公司挺过了危机，显然没受什么损失。
+	-  Amazingly, the driver walked away from the accident completely unscathed./让人惊讶的是，司机在车祸中安然生还。
+	- In contrast, poultry's image as a healthy meat survives unscathed /相比之下，鸡肉作为健康肉类的形象却毫发无损。
+	- But the essential structure of Notre Dame emerges from its ordeal unscathed. /但是巴黎圣母院的核心结构逃过了这场灾难。
+	- Such is the strength of Revelin, that when the quake's dust finally settled, the fortress emerged unscathed. /在地震结束过后，拉夫林堡却如此强稳。
 - scathing
+	- [blistering](dic://blistering), [scalding](dic://scalding), [vituperative](dic://vituperative)
+	- _adj._ [critical](dic://critical)
+	- _n._ [uncritical](dic://uncritical)
+	- **damning**咒骂的;**criticism**批评, 批判, 指责;**stinging**激烈的;**satirical**含讽刺意味的, 嘲讽的;**disparaging**轻蔑的;**snarky**恶声恶气的，咬人的;**impassioned**充满激情的, 热烈的;**dismissive**轻视的, 轻蔑的, 鄙视的;**caustic**腐蚀性的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**sarcastic**讽刺的;
+	- He made a scathing attack on the statement. /他对那声明进行了严厉的抨击。
+	- she launched a scathing attack on the Prime Minister. /她对首相发起猛烈抨击。
+	- Her speech was a scathing indictment of the government’s record on crime. /她的演讲强烈指责了政府在犯罪问题上的表现。
+	- Loud and scathing, Draco Malfoy's voice echoed around the courtyard /德拉科马尔福响亮尖刻的声音在院子里回荡。
+	- As seen in what passed for scathing satire at the time. /从当时被认为是尖锐讽刺的作品中可以看出。
 - scatheless
 
 scar
+- (s)ker- (1)
 - scar：[skɑr] vt. 伤害；给留下伤痕vi. 结疤；痊愈n. 创伤；伤痕
 
 scare

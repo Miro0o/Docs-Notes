@@ -9,7 +9,7 @@
 🫂 https://www.dockone.io
 
 
-### Learning Docs
+### Learning Resources
 📂 [Docker Docs](https://docs.docker.com)
 🗺 [Docker 学习路线 ](https://www.cnblogs.com/poloyy/p/15257059.html)
 [Docker 中文指南](https://www.widuu.com/docker/index.html)
@@ -18,9 +18,11 @@
 [Docker.com - Educational Resources](https://docs.docker.com/get-started/resources/)
 [Docker 教程 -- 菜鸟](https://www.runoob.com/docker/docker-tutorial.html)
 
+👍👍 https://www.huweihuang.com/
+https://www.huweihuang.com/docker-notes/
+Docker 学习笔记
 
-### Learn in Action!
-[Docker Kubernetes Lab Handbook](https://docker-k8s-lab.readthedocs.io/en/latest/index.html)
+🤔 [Docker Kubernetes Lab Handbook](https://docker-k8s-lab.readthedocs.io/en/latest/index.html)
 
 
 

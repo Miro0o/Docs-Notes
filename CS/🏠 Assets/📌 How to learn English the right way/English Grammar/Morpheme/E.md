@@ -222,7 +222,18 @@
 		6. _exotic plant_ 外来植物；引入的植物
 		7. _exotic dancer_ 脱衣舞女
 		8. exoticism
-	4. tbd..
+	3. eff
+		1. _n._ 字母f
+		2. _v._ 弄糟,滚开,咒骂
+		3. _v._ [copulate](dic://copulate), [mate](dic://mate), [pair](dic://pair), [couple](dic://couple)
+		4. **ow**哦，哎哟;**fuck**与性交;**gee**向右！前进！快！;**shit**屎;
+		5. There was a lot of effing and blinding going on. /咒骂声没完没了。
+		6. Nick? - Are you effing with me right now? /尼克？- 你现在是在开玩笑还是怎样？
+		7. And I thought, " Well, eff that. I don't want to do that." /于是我想，“好吧，这个划掉。我不想干这个。”
+		8. Don't eff with an effort.I know that look. /别装了，看你表情就知道。
+		9. Like if you're 38, who gives an eff? /就像如果你 38 岁， 谁会产生影响？
+		10. Your language is seriously effed up. /你的语言被严重影响了。
+	5. tbd..
 2. **ecto-** = 表示“外”，一般用于医学领域。源自希腊语 ex, ek "out of, from."
 	1. etc...
 3. **eczem-** = = ec- + zem-, 字面含义向外冒泡，医学上指“湿疹”。源自希腊语 zeein, zein "to boil."]

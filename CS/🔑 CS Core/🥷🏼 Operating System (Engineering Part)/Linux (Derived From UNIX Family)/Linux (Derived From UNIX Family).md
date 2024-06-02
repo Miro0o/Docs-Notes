@@ -82,14 +82,17 @@ Ryan's Tutorials
 http://c.biancheng.net/view/vip_3499.html
 C语言中文网
 
-total-oscp-guide
 https://sushant747.gitbooks.io/total-oscp-guide/content/
+total-oscp-guide
 
-A hub for Linux Tutorials and Tips | LinuxOPsys
 https://linuxopsys.com
+A hub for Linux Tutorials and Tips | LinuxOPsys
 
-川大学生Linux使用指南
 https://docs.qq.com/doc/DUXVUd2hMb3FNSGdI
+川大学生Linux使用指南
+
+🤔 https://www.huweihuang.com/linux-notes/
+Linux 学习笔记
 
 
 ### 🗣 Linux & Free Software Communities

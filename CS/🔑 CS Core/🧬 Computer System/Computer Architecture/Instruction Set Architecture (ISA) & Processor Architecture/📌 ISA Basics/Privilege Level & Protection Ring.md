@@ -44,8 +44,8 @@ In computer terms, _supervisor mode_ is a hardware-mediated flag that can be c
 
 In a monolithic kernel, the operating system runs in supervisor mode and the applications run in user mode. Other types of OS, like those with an [exokernel](https://en.wikipedia.org/wiki/Exokernel "Exokernel") or [microkernel](https://en.wikipedia.org/wiki/Microkernel "Microkernel"), do not necessarily share this behavior.
 #### 2️⃣ Hypervisor Mode
-> ↗ [Hardware-assisted Virtualization](../../../🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md)
-> ↗ [x86 Virtualization](../../../🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20(Hypervisors)/📌%20Hardware-assisted%20Virtualization/CPU-assisted%20Virtualization/x86%20Virtualization/x86%20Virtualization.md)
+> ↗ [Hardware-assisted Virtualization](../../../🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md)
+> ↗ [x86 Virtualization](../../../🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/📌%20Hardware-assisted%20Virtualization/CPU-assisted%20Virtualization/x86%20Virtualization/x86%20Virtualization.md)
 
 Recent CPUs from Intel and AMD offer x86 virtualization instructions for a hypervisor to control Ring 0 hardware access. Although they are mutually incompatible, both Intel VT-x (codenamed "`Vanderpool`") and AMD-V (codenamed "`Pacifica`") create a new "Ring −1" so that a guest operating system can run Ring 0 operations natively without affecting other guests or the host OS.
 
