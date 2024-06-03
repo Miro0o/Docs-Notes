@@ -42,6 +42,9 @@ https://zhuanlan.zhihu.com/p/38431213 知乎花书各章笔记
 🔥 📄 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
 Papers must know to understand the world of deep learning & AIGC
 
+[Practical Deep Learning for Coders](https://course.fast.ai/) course from [fast.ai](https://www.fast.ai/)
+This course is extremely practical and oriented in a top-down manner, meaning that you learn how to implement ideas in code and use all the relevant tools first, then dig deeper into the details afterwards to understand how everything works. If you’re new to the space and want to quickly get a working understanding of AI-related tools, how to use them, and how they work, start with these videos.
+
 
 
 ## Intro

@@ -7,11 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [API (Application Program Interface)](../../../../Computer%20Interfaces/API%20(Application%20Program%20Interface).md)
-↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
+↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 ↗ [POSIX (Portable Operating System Interface)](../../../../Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
 ↗ [Internet Domain Socket](../../../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Internet%20Domain%20Socket.md)
-- ↗ [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
+- ↗ [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
 ↗ [UNIX Domain Sockets (POSIX)](🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(POSIX).md)
 
 

@@ -30,3 +30,5 @@ Reinforcement learning from human feedback (RLHF) is a machine learning (ML) tec
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240520132243.png)
 
 ![](../../../../../../Assets/Pics/Pasted%20image%2020240520132257.png)
+
+[👍 2023年神秘而难以理解的大模型强化学习技术：RLHF PPO，DPO，以及InstructGPT，DeepSpeed-Chat， LLama2，Baichuan2的RLHF - 是念的文章 - 知乎]: https://zhuanlan.zhihu.com/p/662753985

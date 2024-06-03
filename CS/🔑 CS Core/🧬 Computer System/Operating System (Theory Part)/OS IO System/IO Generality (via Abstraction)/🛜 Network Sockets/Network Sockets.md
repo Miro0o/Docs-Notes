@@ -1,4 +1,4 @@
-# Network Sockets & RPC
+# Network Sockets
 
 [TOC]
 
@@ -9,8 +9,8 @@
 ↗ [IPC (Inter Process Communication)](../../../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
 - [IPC /Sockets](../../../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Sockets.md)
 
-↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-- [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/🎅🏼%20Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
+↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
+- [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
 
 ↗ [Cloud /Remote Procedure Call (RPC)](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/Cloud%20RPC%20Services.md)
 ↗ [Web Dev /Middleware /Remote Procedure Call (RPC)](../../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/RPC%20Services/RPC%20Services.md)
@@ -24,48 +24,14 @@
 
 ### What is Network Socket
 A **network socket** is a software structure within a [network node](https://en.wikipedia.org/wiki/Node_(networking)) of a [computer network](https://en.wikipedia.org/wiki/Computer_network) that serves as an endpoint for sending and receiving data across the network. The structure and properties of a socket are defined by an [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API) for the networking architecture. Sockets are created only during the lifetime of a [process](https://en.wikipedia.org/wiki/Process_(computing)) of an application running in the node.
+#### Socket in Internet
+Because of the standardization of the [TCP/IP](https://en.wikipedia.org/wiki/TCP/IP) protocols in the development of the [Internet](https://en.wikipedia.org/wiki/Internet), the term network socket is most commonly used in the context of the *Internet protocol suite*, and is therefore often also referred to as **Internet socket**. In this context, a socket is externally identified to other hosts by its **socket address**, which is the triad of [transport protocol](https://en.wikipedia.org/wiki/Transport_protocol), [IP address](https://en.wikipedia.org/wiki/IP_address), and [port number](https://en.wikipedia.org/wiki/Port_number).
+#### Socket in IPC
+The term socket is also used for the software endpoint of node-internal [inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) (IPC), which often uses the same API as a network socket.
 
 
-### Socket in Internet
-Because of the standardization of the [TCP/IP](https://en.wikipedia.org/wiki/TCP/IP) protocols in the development of the [Internet](https://en.wikipedia.org/wiki/Internet), the term *network socket* is most commonly used in the context of the *Internet protocol suite*, and is therefore often also referred to as **Internet socket**. In this context, a socket is externally identified to other hosts by its **socket address**, which is the triad of [transport protocol](https://en.wikipedia.org/wiki/Transport_protocol), [IP address](https://en.wikipedia.org/wiki/IP_address), and [port number](https://en.wikipedia.org/wiki/Port_number).
-
-
-### Socket in IPC
-The term *socket* is also used for the software endpoint of node-internal [inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication) (IPC), which often uses the same API as a network socket.
-
-
-
-## RPC
-**Remote Procedure Call (RPC)** is a particular technique enabling applications to talk to each other. It's one way of structuring app communication.
-
-Modern apps are composed of numerous individual services that must communicate in order to collaborate. RPC is one option for handling the communication between applications.
-
-RPC provides a tightly coupled and highly opinionated way of handling communication between services. It allows for bandwidth-efficient communications and many programming languages enable RPC interface implementations.
-
-> 🔗 https://en.wikipedia.org/wiki/Remote_procedure_call
-
-In [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing "Distributed computing"), a **remote procedure call** (**RPC**) is when a computer program causes a procedure (subroutine) to execute in a different [address space](https://en.wikipedia.org/wiki/Address_space "Address space") (commonly on another computer on a shared network), which is written as if it were a normal (local) procedure call, without the programmer explicitly writing the details for the remote interaction. That is, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote. 
-- This is a form of client–server interaction (caller is client, executor is server), typically implemented via a **request–response message-passing system**. 
-- In the object-oriented programming paradigm, RPCs are represented by **remote method invocation (RMI)**. 
-- The RPC model implies a level of **location transparency**, namely that calling procedures are largely the same whether they are local or remote, but usually, they are not identical, so local calls can be distinguished from remote calls. Remote calls are usually orders of magnitude slower and less reliable than local calls, so distinguishing them is important.
-
-RPCs are a form of inter-process communication (IPC), in that different processes have different address spaces: if on the same host machine, they have distinct virtual address spaces, even though the physical address space is the same; while if they are on different hosts, the physical address space is different. Many different (often incompatible) technologies have been used to implement the concept.
-
-
-### Sequence of Events 
-1. The client calls the client [stub](https://en.wikipedia.org/wiki/Stub_(distributed_computing) "Stub (distributed computing)"). The call is a local procedure call, with parameters pushed on to the stack in the normal way.
-2. The [client stub](https://en.wikipedia.org/wiki/Class_stub "Class stub") packs the parameters into a message and makes a system call to send the message. Packing the parameters is called [marshalling](https://en.wikipedia.org/wiki/Marshalling_(computer_science) "Marshalling (computer science)").
-3. The client's local [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") sends the message from the client machine to the server machine.
-4. The local [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") on the server machine passes the incoming packets to the [server stub](https://en.wikipedia.org/wiki/Class_skeleton "Class skeleton").
-5. The server stub unpacks the parameters from the message. Unpacking the parameters is called [unmarshalling](https://en.wikipedia.org/wiki/Unmarshalling "Unmarshalling").
-6. Finally, the server stub calls the server procedure. The reply traces the same steps in the reverse direction.
-
-
-### Standard Contact Mechanisms
-To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an [interface description language](https://en.wikipedia.org/wiki/Interface_description_language "Interface description language") (IDL) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
-
-> For more at ↗ [IDL (Interface Description Language)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)/IDL%20(Interface%20Description%20Language).md)
-
+### RPC (Remote Procedure Call)
+↗ [Remote Procedure Call (RPC)](Remote%20Procedure%20Call%20(RPC).md)
 
 
 ## Types of Network Sockets

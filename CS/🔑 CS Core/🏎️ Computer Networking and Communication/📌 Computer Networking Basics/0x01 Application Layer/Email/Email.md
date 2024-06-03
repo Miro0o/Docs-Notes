@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Email Clients](../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/Remote%20Terminal%20&%20Other%20Communications%20Programs/Email%20Clients/Email%20Clients.md)
+↗ [Email Clients](../../../../🧰%20Generic%20Tools%20&%20Projects/Email%20Clients/Email%20Clients.md)
 
 
 

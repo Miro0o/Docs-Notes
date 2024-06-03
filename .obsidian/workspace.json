@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x07 Physical Layer/0x07 Physical Layer.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux Namespace.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "0f6e3bff8fd419b2",
+            "id": "b96ba7b18e48ff37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e275e993660fcfe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SMP  ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md"
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md"
               }
             }
           },
@@ -197,54 +210,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f6e3bff8fd419b2",
+  "active": "b96ba7b18e48ff37",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Data Structures.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Docker/Docker.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/Kubernetes (K8S).md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/Kubernetes Deployments & Tools/sealos.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/High Performance Network (HPN).md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/FAQ.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/VNC (Virtual Network Computing).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Servers/XQuartz (macOS).md",
+    "Assets/Pics/Pasted image 20240603224347.png",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/XManager.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window Manager.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/MobaXterm.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK Applications & User Scenarios.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/xterm & xterm based.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/RFB (Remote Frame Buffer)/RFB (Remote Frame Buffer).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments & Windowing Systems.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/GUI Windowing Systems Standards & Implementations.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🎛️ OS Core Software Package/BusyBox.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🎛️ OS Core Software Package/Utilities.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/Remote Administration(Access) Tools (RAT).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/SurfaceFlinger.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/Wayland & XWayland.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Remote Terminal & Other Communications Programs/MobaXterm.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Google Mail.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Microsoft Outlook.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Apple Mail.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Email Clients.md",
+    "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/ML Programming & Frameworks/⭐️ Python Based AI/TRL (Transformer Reinforcement Learning)",
+    "Assets/Pics/Pasted image 20240602210117.png",
+    "Assets/Pics/Pasted image 20240602210028.png",
+    "Assets/Pics/Pasted image 20240602204515.png",
+    "Assets/Pics/Pasted image 20240602204501.png",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/Untitled",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/📌 IO Models",
+    "Assets/Pics/Pasted image 20240602165740.png",
+    "Assets/Pics/Pasted image 20240602165622.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/RDMA (Remote DMA)/RoCE (RDMA over Converged Ethernet) & IBoE (IB over Ethernet)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/RDMA (Remote DMA)/InfiniBand (IB)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/XDP (Express Data Path)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/RDMA (Remote DMA)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)",
+    "Assets/Pics/Pasted image 20240602124953.png",
+    "Assets/Pics/Pasted image 20240602124823.png",
+    "Assets/Pics/Pasted image 20240602124115.png",
     "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/Kubernetes Deployments & Tools",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/K9S.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/CPU Virtualization.md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Virtualization Theory.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Cloud Operating System & Platform (System Level Engineering).md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Hardware Level Virtualization & Hypervisors.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Computing & Cloud Native.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/FAQ.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/🔞 OpenStack/OpenStack.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Cloud Runtime/Cloud Runtime.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/runc/runc.md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/OS Level Virtualization/Linux cgroup (control group) Based OS Virtualization/Linux Namespace.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/AMQP (Advanced Message Queuing Protocol)/AMQP (Advanced Message Queuing Protocol).md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Container Implementations.md",
-    "Assets/Pics/Pasted image 20240602102502.png",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Containerd (Container Daemon)/Containerd (Container Daemon).md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/Containerd (Container Daemon)/cri-containerd.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/Open Container Initiative (OCI).md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/OS Level Virtualization & Containers Technology.md",
     "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/crun",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/runc",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/Containers Runtime VMM Solutions/Containers Runtime VMM Solutions.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/Container Repositories.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Cloud Runtime/Cloud Native Network/CNI (Container Network Interface).md",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Untitled",
-    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/Memory Virtualization",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/📌 Electronics Computer Engineering (ECE)",
-    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.png",
-    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.svg",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/Architectural Layer & Booting",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems Implementations/Other File Systems' Implementations/Linux's BTRFS (Better FS, Butter FS, B-Tree FS)",
-    "Assets/Pics/Pasted image 20240601141419.png",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/NTFS (NT File System)",
-    "Assets/Pics/Pasted image 20240601111912.png",
-    "Assets/Pics/Pasted image 20240601111417.png",
-    "Assets/Pics/Pasted image 20240601111405.png",
-    "Assets/Pics/Pasted image 20240601111200.png",
-    "Assets/Pics/Pasted image 20240601105310.png",
-    "Assets/Pics/Pasted image 20240601105225.png",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

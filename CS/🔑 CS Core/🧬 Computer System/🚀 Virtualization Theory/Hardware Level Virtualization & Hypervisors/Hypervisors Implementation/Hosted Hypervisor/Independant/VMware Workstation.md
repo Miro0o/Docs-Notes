@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [VMware vmnet](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/VMware%20vmnet.md)
+↗ [VMware vmnet](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/📌%20NV%20Implementations/Virtual%20Network%20Layer/Virtual%20Network%20(vNetwork)/VMware%20vmnet.md)
 ↗ [VMware ESXi & VMware vSphere](../../Native%20Hypervisor/VMware%20ESXi%20&%20VMware%20vSphere/VMware%20ESXi%20&%20VMware%20vSphere.md)
 ↗ [VMware Server](VMware%20Server.md)
 

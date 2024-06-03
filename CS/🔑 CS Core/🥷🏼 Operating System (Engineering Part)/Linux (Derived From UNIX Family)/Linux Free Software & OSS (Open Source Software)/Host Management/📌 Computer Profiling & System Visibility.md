@@ -198,3 +198,31 @@ This repository is Google’s current implementation of TCMalloc, used by ~all o
 [Classic SysAdmin: Linux 101: 5 Commands for Checking Memory Usage in Linux]: https://www.linuxfoundation.org/blog/blog/classic-sysadmin-linux-101-5-commands-for-checking-memory-usage-in-linux
 
 [dmidecode command in Linux with Examples]: https://www.geeksforgeeks.org/dmidecode-command-in-linux-with-examples/
+
+[How to get CPU utilisation, RAM utilisation in MAC from commandline]: https://stackoverflow.com/questions/28168054/how-to-get-cpu-utilisation-ram-utilisation-in-mac-from-commandline
+
+What is the objection to `top` in logging mode?
+```shell
+top -l 1 | grep -E "^CPU|^Phys"
+
+CPU usage: 3.27% user, 14.75% sys, 81.96% idle 
+PhysMem: 5807M used (1458M wired), 10G unused.
+```
+
+Or use `sysctl`
+``` shell
+sysctl vm.loadavg
+vm.loadavg: { 1.31 1.85 2.00 }
+```
+
+Or use `vm_stat`
+``` shell
+vm_stat
+Mach Virtual Memory Statistics: (page size of 4096 bytes)
+Pages free:                                3569.
+Pages active:                            832177.
+Pages inactive:                          283212.
+Pages speculative:                      2699727.
+Pages throttled:                              0.
+Pages wired down:                        372883.
+```

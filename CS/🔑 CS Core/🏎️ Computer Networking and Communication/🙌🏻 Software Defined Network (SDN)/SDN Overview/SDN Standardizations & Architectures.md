@@ -59,7 +59,7 @@ TBD
 
 
 ### 3️⃣ Overlay
-> ↗ [Overlay Network](../../👰🏻‍♂️%20Network%20Virtualization/Overlay%20Network.md)
+> ↗ [Overlay Network](../../Network%20Virtualization/Overlay%20Network.md)
 
 ![What Is Overlay Network? Overlay Network vs. Underlay Network - Huawei](../../../../../Assets/Pics/download.png)
 #### Overlay
@@ -67,7 +67,7 @@ TBD
 
 
 ### 4️⃣ NFV (Network Function Virtualization)
-> ↗ [NFV (Network Function Virtualization)](../../👰🏻‍♂️%20Network%20Virtualization/NFV%20(Network%20Function%20Virtualization)/NFV%20(Network%20Function%20Virtualization).md)
+> ↗ [NFV (Network Function Virtualization)](../../Network%20Virtualization/NFV%20(Network%20Function%20Virtualization)/NFV%20(Network%20Function%20Virtualization).md)
 
 
 ![Network Function Virtualization (NFV) Architecture - Techplayon](../../../../../Assets/Pics/nfv-arc-3.png)

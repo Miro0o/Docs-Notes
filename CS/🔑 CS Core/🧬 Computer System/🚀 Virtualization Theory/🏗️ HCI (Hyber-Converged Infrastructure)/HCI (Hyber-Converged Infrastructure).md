@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Network Virtualization](../../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization](../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 ↗ [Software Defined Network (SDN)](../../../🏎️%20Computer%20Networking%20and%20Communication/🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 
