@@ -17,7 +17,7 @@ Popek & Goldberg, 1974
 
 
 ### Related Topics
-↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
@@ -58,7 +58,7 @@ Popek & Goldberg, 1974
 	2. Application Virtualization(Sandbox)
 	3. Desktop virtualization
 3. Network Virtualization
-	1. As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+	1. As in ↗ [Computer Network /Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 4. Storage Virtualization
 	1. ↗ [Operating System / Memory Management /Memory Virtualization](../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Virtual%20Memory%20(Hardware%20and%20Control%20Structure)/Virtual%20Memory%20(Hardware%20and%20Control%20Structure).md)
 5. Service Virtualization
@@ -91,7 +91,7 @@ At this level virtualizations are often referred as Hypervisors, or VMM (virtual
 ### 5️⃣ Service Level
 ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
 
-↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/👰🏻‍♂️%20Network%20Virtualization/Network%20Virtualization.md)
+↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 ↗ [(3D) Graphics Rendering Frameworks](../../../Software%20Engineering/🧩%20(3D)%20Graphics%20Rendering%20Frameworks/(3D)%20Graphics%20Rendering%20Frameworks.md)
 
 

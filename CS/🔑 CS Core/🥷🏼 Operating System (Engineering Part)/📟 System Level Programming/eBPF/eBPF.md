@@ -11,6 +11,8 @@
 
 
 ### Related Topics
+↗ [Operating System Kernel (Kernel Mode)](../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+↗ [🍸 Linux Kernel](../../Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
 
 ### Documentation

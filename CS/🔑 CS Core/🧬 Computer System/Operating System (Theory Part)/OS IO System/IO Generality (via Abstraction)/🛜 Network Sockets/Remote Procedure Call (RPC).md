@@ -30,6 +30,39 @@ RPC其实也是种C/S的编程模式，其工作过程大致包含以下几个�
 11. 对返回值进行可能的转换后，客户程序存根最终返回客户函数。
 
 
+---
+**Remote Procedure Call (RPC)** is a particular technique enabling applications to talk to each other. It's one way of structuring app communication.
+
+Modern apps are composed of numerous individual services that must communicate in order to collaborate. RPC is one option for handling the communication between applications.
+
+RPC provides a tightly coupled and highly opinionated way of handling communication between services. It allows for bandwidth-efficient communications and many programming languages enable RPC interface implementations.
+
+> 🔗 https://en.wikipedia.org/wiki/Remote_procedure_call
+
+In [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing "Distributed computing"), a **remote procedure call** (**RPC**) is when a computer program causes a procedure (subroutine) to execute in a different [address space](https://en.wikipedia.org/wiki/Address_space "Address space") (commonly on another computer on a shared network), which is written as if it were a normal (local) procedure call, without the programmer explicitly writing the details for the remote interaction. That is, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote. 
+- This is a form of client–server interaction (caller is client, executor is server), typically implemented via a **request–response message-passing system**. 
+- In the object-oriented programming paradigm, RPCs are represented by **remote method invocation (RMI)**. 
+- The RPC model implies a level of **location transparency**, namely that calling procedures are largely the same whether they are local or remote, but usually, they are not identical, so local calls can be distinguished from remote calls. Remote calls are usually orders of magnitude slower and less reliable than local calls, so distinguishing them is important.
+
+RPCs are a form of inter-process communication (IPC), in that different processes have different address spaces: if on the same host machine, they have distinct virtual address spaces, even though the physical address space is the same; while if they are on different hosts, the physical address space is different. Many different (often incompatible) technologies have been used to implement the concept.
+
+
+### Sequence of Events 
+1. The client calls the client [stub](https://en.wikipedia.org/wiki/Stub_(distributed_computing) "Stub (distributed computing)"). The call is a local procedure call, with parameters pushed on to the stack in the normal way.
+2. The [client stub](https://en.wikipedia.org/wiki/Class_stub "Class stub") packs the parameters into a message and makes a system call to send the message. Packing the parameters is called [marshalling](https://en.wikipedia.org/wiki/Marshalling_(computer_science) "Marshalling (computer science)").
+3. The client's local [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") sends the message from the client machine to the server machine.
+4. The local [operating system](https://en.wikipedia.org/wiki/Operating_system "Operating system") on the server machine passes the incoming packets to the [server stub](https://en.wikipedia.org/wiki/Class_skeleton "Class skeleton").
+5. The server stub unpacks the parameters from the message. Unpacking the parameters is called [unmarshalling](https://en.wikipedia.org/wiki/Unmarshalling "Unmarshalling").
+6. Finally, the server stub calls the server procedure. The reply traces the same steps in the reverse direction.
+
+
+### Standard Contact Mechanisms
+To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an [interface description language](https://en.wikipedia.org/wiki/Interface_description_language "Interface description language") (IDL) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
+
+> For more at ↗ [IDL (Interface Description Language)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)/IDL%20(Interface%20Description%20Language).md)
+
+
+
 
 ## Ref
 [SUN RPC简介 | cnblog]: https://www.cnblogs.com/yunnotes/archive/2013/04/19/3032535.html

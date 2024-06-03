@@ -62,7 +62,6 @@ Trending LLM Projects
 ## Intro
 
 
-
 ## Ref
 [什么是LLM大语言模型？Large Language Model，从量变到质变 - 艾凡AFan的文章 - 知乎]: https://zhuanlan.zhihu.com/p/622518771
 

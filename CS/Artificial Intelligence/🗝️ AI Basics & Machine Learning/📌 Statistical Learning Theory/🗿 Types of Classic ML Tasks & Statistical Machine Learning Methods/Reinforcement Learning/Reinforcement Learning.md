@@ -5,6 +5,12 @@
 
 
 ## Res
+### Related Topics
+
+
+### Learning Resources
+https://spinningup.openai.com/en/latest/user/introduction.html
+Welcome to Spinning Up in Deep RL! This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
 
 

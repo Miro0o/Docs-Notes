@@ -94,6 +94,10 @@ https://docs.qq.com/doc/DUXVUd2hMb3FNSGdI
 🤔 https://www.huweihuang.com/linux-notes/
 Linux 学习笔记
 
+https://www.cnblogs.com/bj-mr-li/tag/linux练习/
+https://www.cnblogs.com/bj-mr-li/tag/Linux作业/
+一个网友的Linux作业记录
+
 
 ### 🗣 Linux & Free Software Communities
 https://kernelnewbies.org
@@ -153,10 +157,11 @@ are welcome, but I won’t promise I’ll implement them :-)
 
 Linus (torvalds@kruuna.helsinki.fi)
 ```
+![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
 
 As Torvalds indicates, his starting point for creating Linux was Minix, an operating system developed by Andrew S. Tanenbaum for educational purposes.
 
-The rest, as they say, is history. Linux has evolved into a technical and cultural phenomenon. By combining forces with the GNU project, the Linux project has developed a complete, Posix-compliant version of the Unix operating system, including the kernel and all of the supporting infrastructure. Linux is available on a wide array of computers, from handheld devices to mainframe computers. A group at IBM has even ported Linux to a wristwatch!
+The rest, as they say, is history. Linux has evolved into a technical and cultural phenomenon. By combining forces with the ↗ [GNU (GNU's Not Unix)](🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md), the Linux project has developed a complete, Posix-compliant version of the Unix operating system, including the kernel and all of the supporting infrastructure. Linux is available on a wide array of computers, from handheld devices to mainframe computers. A group at IBM has even ported Linux to a wristwatch!
 
 
 ### Linux Development Model

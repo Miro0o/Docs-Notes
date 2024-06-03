@@ -19,7 +19,7 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 
 ## 🎯 Configuration & Customizations
-### VSCode Themes & Icons 
+### VSCode Themes & Icons
 
 
 
@@ -45,4 +45,3 @@ Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize
 While trying to figure out how to use Visual Studio for the very same purpose you asked, I observed and found that for a C++ project, there should be only one starting point, that is, only one `main()` function.
 
 So, instead of creating a new project every time, **just change the name of (`main()`) functions in the unused C++ files to something else**, like the filename or anything.
-
