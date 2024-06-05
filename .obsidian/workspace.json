@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bf39def78198a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "de327c84455a1398",
             "type": "leaf",
             "state": {
@@ -52,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/FAQ.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b372ddc0263c6c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/0x06 Data Link Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "126f8769eee5e24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/LLM Supervised Fine Tuning (SFT)/LLM Supervised Fine Tuning (SFT).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sysctl  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -110,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+                "file": "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/LLM Supervised Fine Tuning (SFT)/LLM Supervised Fine Tuning (SFT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+                "file": "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/LLM Supervised Fine Tuning (SFT)/LLM Supervised Fine Tuning (SFT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md"
+                "file": "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/LLM Supervised Fine Tuning (SFT)/LLM Supervised Fine Tuning (SFT).md"
               }
             }
           },
@@ -210,35 +224,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b96ba7b18e48ff37",
+  "active": "126f8769eee5e24c",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/High Performance Network (HPN).md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Protocols/SFTP (Secure FTP).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/0x06 Data Link Layer.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer (Switched Network) Basics.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/System Services Management.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/Process Management Basics.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/System Level Programming.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/OS Level Programming with C & CPP/Process Management/IPC (Internal)/IPC (Internal).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/OS Level Programming with C & CPP/Process Management/Concurrency.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/OS Level Programming with C & CPP/Process Management/Process Management.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)/SPDK (Storage Plane Development Kit)/SPDK (Storage Plane Development Kit).md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)/High Performance Storage (HPS).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/High Performance Computer (HPC).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/High Performance Computing/High Performance Computing.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/Computing & Computing Systems.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/High Performance Computing",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Computer Storage & Database Systems.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)/SPDK (Storage Plane Development Kit)",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/sysctl.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/FAQ.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/User Management.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/FAQ.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/VNC (Virtual Network Computing).md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/High Performance Network (HPN).md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/VNC (Virtual Network Computing)/VNC (Virtual Network Computing).md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Servers/XQuartz (macOS).md",
     "Assets/Pics/Pasted image 20240603224347.png",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/XManager.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window Manager.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/MobaXterm.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK Applications & User Scenarios.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/xterm & xterm based/xterm & xterm based.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Messaging & Remote Accessing/RFB (Remote Frame Buffer)/RFB (Remote Frame Buffer).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments & Windowing Systems.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/GUI Windowing Systems Standards & Implementations.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🎛️ OS Core Software Package/BusyBox.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🎛️ OS Core Software Package/Utilities.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Remote Administration(Access) Tools (RAT)/Remote Administration(Access) Tools (RAT).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/SurfaceFlinger.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/Wayland & XWayland.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Remote Terminal & Other Communications Programs/MobaXterm.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Google Mail.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Microsoft Outlook.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Apple Mail.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x01 Application Layer/Email/Email.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Email Clients/Email Clients.md",
     "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/ML Programming & Frameworks/⭐️ Python Based AI/TRL (Transformer Reinforcement Learning)",
     "Assets/Pics/Pasted image 20240602210117.png",
     "Assets/Pics/Pasted image 20240602210028.png",
@@ -251,13 +269,9 @@
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/RDMA (Remote DMA)/RoCE (RDMA over Converged Ethernet) & IBoE (IB over Ethernet)",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/RDMA (Remote DMA)/InfiniBand (IB)",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/XDP (Express Data Path)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/RDMA (Remote DMA)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)",
     "Assets/Pics/Pasted image 20240602124953.png",
     "Assets/Pics/Pasted image 20240602124823.png",
     "Assets/Pics/Pasted image 20240602124115.png",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/Cluster Scheduling & Orchestration/🏗️ Kubernetes (K8S)/Kubernetes Deployments & Tools",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/🏂 OS Level Virtualization & Containers Technology/🐋 Container Implementations/crun",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

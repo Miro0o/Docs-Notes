@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Elasticsearch](../../../../../../../🔑%20CS%20Core/🍕%20Database%20System/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/📲%20Embedding%20Database/Elasticsearch.md)
+↗ [Elasticsearch](../../../../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/📲%20Embedding%20Database/Elasticsearch.md)
 
 
 

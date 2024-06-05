@@ -11,7 +11,7 @@
 
 ↗ [Distributed File System (Network File Systems)](../../../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Storaging/Distributed%20File%20System%20(Network%20File%20Systems)/Distributed%20File%20System%20(Network%20File%20Systems).md)
 ↗ [Cloud Native Storage](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Runtime/Cloud%20Native%20Storage/Cloud%20Native%20Storage.md)
-↗ [Database System](../../../../../../🍕%20Database%20System/Database%20System.md)
+↗ [Database System](../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
 ↗ [Cloud Database](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Cloud%20Database.md)
 
 ↗ [NAS (Network-Attached Storage) Protocols](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
@@ -67,7 +67,7 @@ Some other projects that aren't "pure" database file systems but that use some a
 - Many [Web content management systems](https://en.wikipedia.org/wiki/Web_content_management_system "Web content management system") use a [relational DBMS](https://en.wikipedia.org/wiki/Database_management_system "Database management system") to store and retrieve files. For example, [XHTML](https://en.wikipedia.org/wiki/XHTML "XHTML") files are stored as [XML](https://en.wikipedia.org/wiki/XML "XML") or text fields, while image files are stored as blob fields; [SQL](https://en.wikipedia.org/wiki/SQL "SQL") SELECT (with optional [XPath](https://en.wikipedia.org/wiki/XPath "XPath")) statements retrieve the files, and allow the use of a sophisticated logic and more rich information associations than "usual file systems." Many CMSs also have the option of storing only [metadata](https://en.wikipedia.org/wiki/Metadata "Metadata") within the database, with the standard filesystem used to store the content of files.
 - Very large file systems, embodied by applications like [Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop "Apache Hadoop") and [Google File System](https://en.wikipedia.org/wiki/Google_File_System "Google File System"), use some _database file system_ concepts.
 
-↗ [Database System](../../../../../../🍕%20Database%20System/Database%20System.md)
+↗ [Database System](../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
 #### Transactional File System
 #### ⭐️ Network File Systems (Distributed File Systems)
 A _network file system_ or a _distributed file system_ is a file system that acts as a client for a remote file access protocol, providing access to files on a server. Programs using local interfaces can transparently create, manage and access hierarchical directories and files in remote network-connected computers. 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [DHCP Server (DHCP Distributed Database)](../../../../../🍕%20Database%20System/Directory%20Services/DHCP%20Server%20(DHCP%20Distributed%20Database)/DHCP%20Server%20(DHCP%20Distributed%20Database).md)
+↗ [DHCP Server (DHCP Distributed Database)](../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/DHCP%20Server%20(DHCP%20Distributed%20Database)/DHCP%20Server%20(DHCP%20Distributed%20Database).md)
 
 
 ### Learning Resources

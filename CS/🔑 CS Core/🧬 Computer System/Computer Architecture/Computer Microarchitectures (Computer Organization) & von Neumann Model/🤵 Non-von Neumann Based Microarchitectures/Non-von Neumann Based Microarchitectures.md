@@ -46,7 +46,7 @@ Pure Harvard architectures are typically used in microcontrollers (an entire com
 
 
 ### Quantum Computing
-↗ [Quantum Computing](../../../Computing%20Systems/Quantum%20Computing/Quantum%20Computing.md)
+↗ [Quantum Computing](../../../Computing%20&%20Computing%20Systems/Quantum%20Computing/Quantum%20Computing.md)
 
 
 
