@@ -6,7 +6,8 @@
 
 ## Res
 🏠 https://www.dpdk.org
-🚧 https://github.com/DPDK/dpdk
+🚧 https://github.com/DPDK/dpdk (`dpdk` only)
+🚧 http://git.dpdk.org/ (`dpdk` and related tools/libs/etc.)
 
 📂 http://core.dpdk.org
 📂 http://doc.dpdk.org/guides/linux_gsg/
@@ -22,6 +23,20 @@ Report bugs and issues to the development mailing list: dev@dpdk.org
 ↗ [The Linux Foundation](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/The%20Linux%20Foundation.md)
 ↗ [Intel](../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Intel.md)
 ↗ [SPDK (Storage Plane Development Kit)](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/High%20Performance%20Storage%20(HPS)/SPDK%20(Storage%20Plane%20Development%20Kit)/SPDK%20(Storage%20Plane%20Development%20Kit).md)
+
+
+### Learning Resources
+https://blog.csdn.net/haolipengzhanshen/category_9269298.html
+DPDK入门教程 👍 
+
+https://github.com/0voice/dpdk_engineer_manual
+冲破内核瓶颈，让I/O性能飙升】DPDK工程师手册，官方文档，最新视频，开源项目，实战案例，论文，大厂内部ppt，知名工程师一览表
+
+https://dpdk-docs.readthedocs.io/en/latest/howto/index.html
+dpdk 文档中文版
+
+https://www.xiexianbin.cn/sdn/dpdk/must-read-for-dpdk-beginner/index.html
+本文将助于各位有志于从事 `DPDK` 工作或需要了解该领域背景的人群快速入门 DPDK。
 
 
 
@@ -67,6 +82,11 @@ The DPDK uses the Open Source BSD-3-Clause license for the core libraries and dr
 ![](../../../../../Assets/Pics/Pasted%20image%2020240602165622.png)
 
 
+### DPDK: Glossary & Basic Concepts
+> 🔗 https://www.cnblogs.com/janeysj/p/15029450.html
+> 🔗 https://www.xiexianbin.cn/sdn/dpdk/dpdk-glossary/index.html?to_index=1
+
+
 
 ## Ref
 [👍 What is DPDK?]: https://www.packetcoders.io/what-is-dpdk/
@@ -75,3 +95,14 @@ The DPDK uses the Open Source BSD-3-Clause license for the core libraries and dr
 
 [DPDK : 用 TestPMD 测试 DPDK 性能和功能 | CSDN]: https://blog.csdn.net/hhd1988/article/details/123009368
 [DPDK测试testpmd]: https://www.cnblogs.com/hjxiamen/p/17947295
+
+[👍 DPDK 从入门到入门]: https://nxw.name/2022/what-is-dpdk
+
+![|400](../../../../../Assets/Pics/Pasted%20image%2020240605223714.png)
+
+![|400](../../../../../Assets/Pics/Pasted%20image%2020240605223724.png)
+
+![](../../../../../Assets/Pics/Pasted%20image%2020240605223728.png)
+
+
+[ DPDK入门实践1——基本概念 | cnblog]: https://www.cnblogs.com/janeysj/p/15029450.html
