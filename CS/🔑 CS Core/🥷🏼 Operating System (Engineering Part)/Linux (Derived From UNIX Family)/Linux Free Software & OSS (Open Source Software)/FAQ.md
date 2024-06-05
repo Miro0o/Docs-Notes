@@ -129,9 +129,18 @@ sysctl fs.inotify.max_user_watches=524288
 
 The two tools are complementary: `sysctl` allows you to try a setting temporarily (the changes it makes don’t persist over reboots), and once you’ve decided on an appropriate value, writing it to a file in `/etc/sysctl.d` will ensure that `systemd-sysctl` sets it during boot. Again, see [How to set and understand fs.notify.max_user_watches](https://unix.stackexchange.com/q/444998/86440).
 
-
-
 [Diffence between `systemd-sysctl` and `sysctl`]: https://unix.stackexchange.com/questions/709586/diffence-between-systemd-sysctl-and-sysctlA
+
+---
+/etc/init.d is part of the old SyS init process and remains in systemd initialization based systems for backwards compatibility. [https://en.wikipedia.org/wiki/Init](https://en.wikipedia.org/wiki/Init)  
+  
+sysctl is a utility to set kernel parameters both real time (/proc/sys) and at boot up via sysctl.conf.  
+  
+systemd is the newer initialization process.  
+  
+systemctl is the utility among other things that starts/stops and enables services for systemd based systems.
+
+[「SOLVED」 Systemctl - sysctl - systemd ]: https://www.linuxquestions.org/questions/linux-server-73/systemctl-sysctl-systemd-4175729121/
 
 
 

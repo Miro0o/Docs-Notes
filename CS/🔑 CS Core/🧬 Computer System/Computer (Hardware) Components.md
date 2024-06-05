@@ -12,7 +12,7 @@
 ### Related Topics
 ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
 ↗ [Auxiliary Hardware & Peripherals](../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
-↗ [Small Form Factor Computer](Computing%20Systems/Small%20Form%20Factor%20Computer.md)
+↗ [Small Form Factor Computer](Computing%20&%20Computing%20Systems/Small%20Form%20Factor%20Computer.md)
 
 ↗  [Network Devices Overview](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Network%20Devices%20Overview.md)
 

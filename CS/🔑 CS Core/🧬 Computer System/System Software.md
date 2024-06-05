@@ -26,7 +26,7 @@ Although our model of a computer system places only the operating system in the 
 ##### Compilers
 ↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 ##### Database Systems
-↗ [Database System](../🍕%20Database%20System/Database%20System.md)
+↗ [Database System](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
 
 
 ### 2️⃣ System Level Services in Distributed System
