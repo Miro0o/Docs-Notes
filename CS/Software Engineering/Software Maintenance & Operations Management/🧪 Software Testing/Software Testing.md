@@ -161,7 +161,7 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 
 
-## Recommended Reading
+## Ref
 - [Best Software Testing Tools 2023 [QA Test Automation Tools\]](https://www.softwaretestinghelp.com/tools/)
 - [Alpha Testing and Beta Testing (A Complete Guide)](https://www.softwaretestinghelp.com/what-is-alpha-testing-beta-testing/)
 - [Software Testing QA Assistant Job](https://www.softwaretestinghelp.com/software-testing-qa-assistant-job/)
@@ -170,3 +170,5 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 - [Software Testing Technical Content Writer Freelancer Job](https://www.softwaretestinghelp.com/software-testing-technical-content-writer-freelancer-job/)
 - [Types of Risks in Software Projects](https://www.softwaretestinghelp.com/types-of-risks-in-software-projects/)
 - [Best QA Software Testing Services from SoftwareTestingHelp](https://www.softwaretestinghelp.com/best-qa-software-testing-service-provider-company/)
+
+[🤔 常见的二十种软件测试方法详解（史上最全） | cnblog]: https://www.cnblogs.com/ybqjymy/p/16727372.html
