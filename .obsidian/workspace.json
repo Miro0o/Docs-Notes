@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/RLHF (Reinforcement learning from Human Feedback).md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK Testing/TestPMD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 597.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/RLHF (Reinforcement learning from Human Feedback).md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/RLHF (Reinforcement learning from Human Feedback).md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/RLHF (Reinforcement learning from Human Feedback).md"
+                "file": "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md"
               }
             }
           },
@@ -199,15 +200,35 @@
   },
   "active": "b96ba7b18e48ff37",
   "lastOpenFiles": [
-    "Assets/Pics/Pasted image 20240605224024.png",
+    "Assets/Illustrations/Computer Network/dpdk_test.excalidraw.png",
+    "Assets/Illustrations/Computer Network/dpdk_test.excalidraw.svg",
+    "Assets/Illustrations/Computer Network/dpdk_test.excalidraw.md",
+    "Assets/Pics/Pasted Image 20240606165615_645.png",
+    "Assets/Pics/Pasted Image 20240606165444_628.png",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK Testing/TestPMD.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK Testing/DPDK Testing.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+    "Assets/Pics/Pasted image 20240606131723.png",
+    "Assets/Pics/Pasted image 20240606131637.png",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages in a Nutshell.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Computer Graphics Programming.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/C Sharp/C Sharp.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/Compiled + Interpreted Languages.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/📌 GUI Windowing Systems Standards & Implementations/X Window System (X11, X Project)/X Window System (X11, X Project).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages",
+    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network.md",
+    "Assets/Pics/Pasted image 20240606100215.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK Testing/DPDK Testing.md",
+    "CS/Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Statistical Learning Theory/🗿 Types of Classic ML Tasks & Statistical Machine Learning Methods/Reinforcement Learning/RLHF (Reinforcement learning from Human Feedback).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/Unified Endpoint Security (UES)/Unified Endpoint Security (UES).md",
+    "Assets/Pics/Pasted image 20240605224024.png",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/DPDK (Data Plane Development Kits)/DPDK Testing",
     "Assets/Pics/Pasted image 20240605223728.png",
     "Assets/Pics/Pasted image 20240605223724.png",
-    "Assets/Pics/Pasted image 20240605223714.png",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
     "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/🤖 Test Automation/Test Automation.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux System Libraries/Linux System Libraries.md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/Operating System Components & Runtime Libraries.md",
@@ -217,34 +238,13 @@
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/0x06 Data Link Layer.md",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Optimization & Tuning/LLM Supervised Fine Tuning (SFT)/LLM Supervised Fine Tuning (SFT).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Protocols/SFTP (Secure FTP).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer (Switched Network) Basics.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/System Services Management.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/Process Management Basics.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/System Level Programming.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/OS Level Programming with C & CPP/Process Management/IPC (Internal)/IPC (Internal).md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/OS Level Programming with C & CPP/Process Management/Concurrency.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/OS Level Programming with C & CPP/Process Management/Process Management.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)/SPDK (Storage Plane Development Kit)/SPDK (Storage Plane Development Kit).md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)/High Performance Storage (HPS).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/High Performance Computer (HPC).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/High Performance Computing/High Performance Computing.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/Computing & Computing Systems.md",
     "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/High Performance Computing",
     "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)",
     "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)/SPDK (Storage Plane Development Kit)",
     "CS/🔑 CS Core/🍕 Computer Storage & Database Systems",
-    "Assets/Pics/Pasted image 20240603224347.png",
     "CS/Artificial Intelligence/🛫 Frameworks & Implementations & SDKs/ML Programming & Frameworks/⭐️ Python Based AI/TRL (Transformer Reinforcement Learning)",
-    "Assets/Pics/Pasted image 20240602210117.png",
-    "Assets/Pics/Pasted image 20240602210028.png",
-    "Assets/Pics/Pasted image 20240602204515.png",
-    "Assets/Pics/Pasted image 20240602204501.png",
     "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/Untitled",
     "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS IO System/📌 IO Models",
-    "Assets/Pics/Pasted image 20240602165740.png",
-    "Assets/Pics/Pasted image 20240602165622.png",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN)/RDMA (Remote DMA)/RoCE (RDMA over Converged Ethernet) & IBoE (IB over Ethernet)",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

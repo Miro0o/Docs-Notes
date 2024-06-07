@@ -98,6 +98,9 @@ https://www.cnblogs.com/bj-mr-li/tag/linux练习/
 https://www.cnblogs.com/bj-mr-li/tag/Linux作业/
 一个网友的Linux作业记录
 
+https://www.cnblogs.com/theseventhson/category/2185410.html?page=1
+Linux 源码解读
+
 
 ### 🗣 Linux & Free Software Communities
 https://kernelnewbies.org

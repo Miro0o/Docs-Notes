@@ -10,7 +10,9 @@
 🚧 http://git.dpdk.org/ (`dpdk` and related tools/libs/etc.)
 
 📂 http://core.dpdk.org
-📂 http://doc.dpdk.org/guides/linux_gsg/
+- 📂 http://doc.dpdk.org/guides/ 🇺🇸
+- 📂 https://dpdk-docs.readthedocs.io/en/latest/howto/index.html | `dpdk` 文档中文版 🇨🇳
+- 📂 http://doc.dpdk.org/api/
 
 Please check the doc directory for release notes,
 API documentation, and sample application information.
@@ -31,9 +33,6 @@ DPDK入门教程 👍
 
 https://github.com/0voice/dpdk_engineer_manual
 冲破内核瓶颈，让I/O性能飙升】DPDK工程师手册，官方文档，最新视频，开源项目，实战案例，论文，大厂内部ppt，知名工程师一览表
-
-https://dpdk-docs.readthedocs.io/en/latest/howto/index.html
-dpdk 文档中文版
 
 https://www.xiexianbin.cn/sdn/dpdk/must-read-for-dpdk-beginner/index.html
 本文将助于各位有志于从事 `DPDK` 工作或需要了解该领域背景的人群快速入门 DPDK。
@@ -87,6 +86,10 @@ The DPDK uses the Open Source BSD-3-Clause license for the core libraries and dr
 > 🔗 https://www.xiexianbin.cn/sdn/dpdk/dpdk-glossary/index.html?to_index=1
 
 
+### DPDK Source Code Structure
+> 🔗 https://dpdk-docs.readthedocs.io/en/latest/prog_guide/source_org.html
+
+
 
 ## Ref
 [👍 What is DPDK?]: https://www.packetcoders.io/what-is-dpdk/
@@ -106,3 +109,8 @@ The DPDK uses the Open Source BSD-3-Clause license for the core libraries and dr
 
 
 [ DPDK入门实践1——基本概念 | cnblog]: https://www.cnblogs.com/janeysj/p/15029450.html
+
+[DPDK开发快速入门 | CSDN]: http://t.csdnimg.cn/rVExR
+![](../../../../../Assets/Pics/Pasted%20image%2020240606100215.png)
+
+[👍 DPDK 初学者入门必读]: https://www.xiexianbin.cn/sdn/dpdk/must-read-for-dpdk-beginner/index.html
