@@ -74,8 +74,12 @@ This is an upcoming high performance computing book titled “Algorithms for Mod
 
 Its intended audience is everyone from performance engineers and practical algorithm researchers to undergraduate computer science students who have just finished an advanced algorithms course and want to learn more practical ways to speed up a program than by going from $O(n\log{n})$ to $O(n\log⁡{\log⁡{n}})$.
 
+https://www.cnblogs.com/jvStarBlog/category/1585578.html
+计算机组成原理 - 随笔
+
 
 ### Other Resources
+
 
 
 

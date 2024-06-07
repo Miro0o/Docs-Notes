@@ -11,7 +11,7 @@ See [JDK 20 Documentation](https://www.oracle.com/pls/topic/lookup?ctx=javase20
 
 
 ### Related Topics
-↗ [JVM-Based Languages](../../../../Compiled%20Languages/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
+↗ [JVM-Based Languages](../../../../Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
 ↗ [JVM Security](../../../../../../CyberSecurity/Application%20Security/Virtualization%20Security/JVM%20Security/JVM%20Security.md)
 
 
