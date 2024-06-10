@@ -127,5 +127,5 @@ ch* commands:
 2. dstat
 3. iostat
 4. nfsstat
-5. vm_stat
+5. vmstat
 6. etc..

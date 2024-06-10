@@ -8,6 +8,11 @@
 
 
 
+## Interfaces
+### 👉 `lspci` | `lsscsi` | `lsusb`
+
+
+
 ## Terminal /pty Management
 ### 👉 `stty`
 

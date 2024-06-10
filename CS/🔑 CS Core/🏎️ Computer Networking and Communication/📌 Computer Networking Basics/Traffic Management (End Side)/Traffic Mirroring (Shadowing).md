@@ -71,6 +71,7 @@ Network engineers or administrators use port mirroring to analyze and debug data
 
 > 流量镜像是在端口镜像的基础上，将源端口与ACL（Access Control List，访问控制列表）关联，根据ACL规则对报文进行过滤，达到只镜像指定报文的目的。源端口只有匹配到ACL中permit类型的ACE（Access Control Entry，访问控制条目）的报文才能被镜像到目的端口。一个源端口只能关联一个ACL。
 
+
 ### 3️⃣ VLAN Mirroring
 VLAN镜像是指将指定VLAN内所有活动接口的报文镜像到观察端口。用户可以对某个VLAN或者某些VLAN内的报文进行监控。
 

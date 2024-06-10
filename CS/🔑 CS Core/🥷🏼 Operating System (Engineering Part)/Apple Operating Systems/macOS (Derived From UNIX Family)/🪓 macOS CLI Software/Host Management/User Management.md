@@ -45,7 +45,7 @@ endutxent, getutxent, getutxid, getutxline, pututxline, setutxent – user accou
 
 
 ### 👉 `launchctl`
-#TODO 
+↗ [launchd & launchctl](../Process%20Management/System%20Service%20Management/launchd%20&%20launchctl.md)
 
 
 ### 👉 `chpass` | `chfn` | `chsh`

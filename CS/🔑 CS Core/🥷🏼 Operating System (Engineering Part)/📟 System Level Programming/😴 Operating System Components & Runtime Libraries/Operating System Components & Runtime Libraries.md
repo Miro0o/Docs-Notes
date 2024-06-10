@@ -13,7 +13,7 @@
 - ↗ [POSIX (Portable Operating System Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
 ↗ [C-like Runtimes](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
-↗ [OS Level Programming with C & CPP](../OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
+↗ [OS Level Programming with C & CPP](../OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
 ↗ [Operating System Kernel (Kernel Mode)](🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)

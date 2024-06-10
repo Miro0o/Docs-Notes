@@ -7,7 +7,12 @@
 ## Res
 
 
-## Intro
+## 👉 `system_profiler`
+
+
+
+## 👉 `sysctl`
+
 
 
 ## Ref

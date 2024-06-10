@@ -106,10 +106,11 @@ Description: **The Internet Systems Consortium DHCP Client**, `dhclient`, provid
 > 🔗 https://wiki.linuxquestions.org/wiki/Dhcpcd
 
 **dhcpcd** is a mature and stable standards compliant [DHCP](https://wiki.linuxquestions.org/wiki/DHCP "DHCP") [client](http://en.wikipedia.org/wiki/Client_(computing)). It is used to obtain an IP address and other information from a dhcp [server](https://wiki.linuxquestions.org/wiki/Server "Server"), renew the IP address lease time, and automatically configure the [network interface](https://wiki.linuxquestions.org/wiki/Network_interface "Network interface"). The program performs a similar function as [dhclient](https://wiki.linuxquestions.org/wiki/Dhclient "Dhclient").
-#### 👉 `netstat` (deprecated) --> `ss` | `hashcat`
+#### 👉 `netstat` (deprecated) --> `ss` (Socket Statistics)
 ↗ [Nettools /👉 `netstat`](Nettools.md#👉%20`netstat`)
 
-`ss` stands for "Socket Statistics". It is a potent tool for inspecting and displaying detailed information about network sockets on a Linux system. The ‘`ss`’ command is an indispensable resource for network administrators, system administrators, and developers, offering insights into network connections, routing tables, and more.
+---
+`ss` stands for "**Socket Statistics**". It is a potent tool for inspecting and displaying detailed information about network sockets on a Linux system. The ‘`ss`’ command is an indispensable resource for network administrators, system administrators, and developers, offering insights into network connections, routing tables, and more.
 
 [👍 How To Use Linux SS Command]: https://phoenixnap.com/kb/ss-command
 1. [Linux ss Command Examples](https://phoenixnap.com/kb/ss-command#ftoc-heading-1)
@@ -127,13 +128,44 @@ Description: **The Internet Systems Consortium DHCP Client**, `dhclient`, provid
     12. [Check Man Pages or List All Commands](https://phoenixnap.com/kb/ss-command#ftoc-heading-13)
 2. [netstat VS ss Command](https://phoenixnap.com/kb/ss-command#ftoc-heading-14)
 #### 👉 `ifconfig` (deprecated) --> `ip`
-↗ [Nettools /👉 ifconfig](Nettools.md#👉%20ifconfig)
+↗ [Nettools /👉 `ifconfig`](Nettools.md#👉%20ifconfig)
+
+---
+> `ip` is for linux OS. for macOS, there is a wrapper program 🔗 [iproute2mac](https://github.com/brona/iproute2mac) as an alternative. 
+
+The **ip command** is used to assign an address to a network interface and/or configure network interface parameters on Linux operating systems. This command replaces old good and now deprecated ifconfig command on modern Linux distributions.
+```shell
+ip OBJECT help  
+ip OBJECT h  
+ip a help  
+ip r help
+```
+
+|               |                  |                                                     |
+| ------------- | ---------------- | --------------------------------------------------- |
+| Object        | Abbreviated form | Purpose                                             |
+| **link**      | l                | Network device.                                     |
+| **address**   | a  <br>addr      | Protocol (IP or IPv6) address on a device.          |
+| **addrlabel** | addrl            | Label configuration for protocol address selection. |
+| **neighbour** | n  <br>neigh     | ARP or NDISC cache entry.                           |
+| **route**     | r                | Routing table entry.                                |
+| **rule**      | ru               | Rule in routing policy database.                    |
+| **maddress**  | m  <br>maddr     | Multicast address.                                  |
+| **mroute**    | mr               | Multicast routing cache entry.                      |
+| **tunnel**    | t                | Tunnel over IP.                                     |
+| **xfrm**      | x                | Framework for IPsec protocol.                       |
+|               |                  |                                                     |
+|               |                  |                                                     |
+
+[👍 Linux ip Command Examples]: https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/
+[ip command in Mac OS X terminal]: https://superuser.com/q/687310/1656771
+
 #### 👉 `bind9` | `dnsutils`
 
 
 ### Network Usage
 #### 👉 `nethogs`
- [`nethogs`](https://github.com/raboof/nethogs)
+[`nethogs`](https://github.com/raboof/nethogs)
 #### 👉 `iftop`
 [`iftop`](http://www.ex-parrot.com/pdw/iftop/)
 #### 👉 `nload`

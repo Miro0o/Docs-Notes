@@ -23,12 +23,7 @@
 
 
 
-## 👉 `netstat`
-↗ [Nettools/ 👉 netstat](../../Network%20Management/Nettools.md#👉%20netstat)
-
-
-
-## 👉 `chkconfig`
+## 👉 `sysvinit` / `chkconfig`
 ↗ [Sysvinit & chkconfig](Sysvinit%20&%20chkconfig.md)
 
 
