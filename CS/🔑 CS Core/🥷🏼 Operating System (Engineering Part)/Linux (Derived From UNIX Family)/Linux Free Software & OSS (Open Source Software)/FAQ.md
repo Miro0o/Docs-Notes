@@ -144,8 +144,8 @@ systemctl is the utility among other things that starts/stops and enables servic
 
 
 
-## 👉 Difference between `ipconfig` and `ifconfig`?
-#ipconfig #ifconfig #linux #network 
+## 👉 Difference between `ipconfig` /`ifconfig` /`ip`?
+#ipconfig #ifconfig #linux #network #ip 
 
 
 

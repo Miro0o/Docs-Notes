@@ -23,6 +23,7 @@ NB: some projects (like Debian and RedHat) use a net-tools based but different *
 ## 👉 `ifconfig`
 > `ifconfig` is old. Use `ip` command instead of `ifconfig`.
 > ↗ [Network Management Basics /👉 `ifconfig` (deprecated) --> `ip`](Network%20Management%20Basics.md#👉%20`ifconfig`%20(deprecated)%20-->%20`ip`)
+> 
 
 `ifconfig` (interface configuration) command is used to configure the kernel-resident network interfaces. It is used at the boot time to set up the interfaces as necessary. After that, it is usually used when needed during debugging or when you need system tuning. Also, this command is used to assign the IP address and netmask to an interface or to enable or disable a given interface.
 
@@ -51,7 +52,7 @@ route add -net 192.168.1.0 netmask 255.255.255.0 gw 192.168.1.1
 ```
 
 ifconfig returns DHCP configured information of the host. 
-- `ine`t: The IP information obtained by the DHCP server should provide us with at least one active subnet which can be utilized to identify the list of live systems and services through different scanning techniques.
+- `inet`: The IP information obtained by the DHCP server should provide us with at least one active subnet which can be utilized to identify the list of live systems and services through different scanning techniques.
 - `netmask`: This information can be utilized to calculate the subnet ranges. From the previous screenshot, we have `255.255.240.0`, which means CIDR is /20 and potentially we can expect `4094` hosts on the same subnet.
 - **Default gateway**: The IP information of the gateway will provide the opportunity to ping other similar gateway IP's. For example, if your default gateway IP is `192.168.1.1` by using ping scans attackers may be able to enumerate other similar IPs such as `192.168.2.1`, `192.168.3.1`, and so on.
 -  **Other IP address**: DNS information can be obtained by accessing the `/etc/resolv.conf` file. The IP addresses in this file are commonly addressed in all of the subnets and domain information will also be automatically available in the same file.

@@ -42,9 +42,7 @@ If this aim is achieved, potential benefits for implemented database include:
 ### Update Anomalies with Redundant Data
 #### 1️⃣ Insertion Anomalies
 
-
 #### 2️⃣ Deletion Anomalies
-
 
 #### 3️⃣ Modification Anomalies
 
@@ -71,14 +69,9 @@ We can avoid these update anomalies by decomposing the original relation into th
 When a functional dependency exists, the attribute or group of attributes on the left-hand side of the arrow is called the **determinant**. For example, in Figure above, A is the determinant of B. We demonstrate the identification of a functional dependency in the following example.
 
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%209.07.04%20PM.png)
-
-
 #### Full Functional Dependency
 An additional characteristic of functional dependencies that is useful for normalization is that their determinants should have the **minimal number of attributes** necessary to maintain the functional dependency with the attribute(s) on the righthand side. This requirement is called **full functional dependency**.
-
 ##### Partial Functional Dependency
-
-
 #### Transitive Functional Dependency
 **Transitive Dependency**: A condition where a, B, and C are attributes of a relation such that if a ® B and B ® C, then C is transitively dependent on a via B (provided that a is not functionally dependent on B or C).
 
@@ -93,10 +86,8 @@ skip
 
 ### 🧭 Inference Rules for Functional Dependencies
 How do we begin to identify useful functional dependencies on a relation? Normally, the database designer starts by specifying functional dependencies that are semantically obvious; however, there are usually numerous other functional dependencies. In fact, the task of specifying all possible functional dependencies for “real” database projects is more often than not impractical. However, in this section we do consider an approach that helps identify the complete set of functional dependencies for a relation and then discuss how to achieve a minimal set of functional dependencies that can represent the complete set.
-
 #### Closure of Functional Dependencies (函数依赖闭包)
 The set of all functional dependencies that are implied by a given set of functional dependencies X is called the **closure** of X, written X+. We clearly need a set of rules to help compute X+ from X. 
-
 #### Armstrong's Axioms
 A set of inference rules, called Armstrong’s axioms, specifies how new functional dependencies can be inferred from given ones (Armstrong, 1974). For our discussion, let A, B, and C be subsets of the attributes of the relation R. Armstrong’s axioms are as follows:
 1. **Reflexivity**: If B is a subset of a, then a ® B
@@ -106,7 +97,6 @@ A set of inference rules, called Armstrong’s axioms, specifies how new functio
 Note that each of these three rules can be directly proved from the definition of functional dependency.
 - The rules are **complete** (完备的) in that given a set X of functional dependencies, all functional dependencies implied by X can be derived from X using these rules. 
 - The rules are also **sound**（有效的）in that no additional functional dependencies can be derived that are not implied by X. In other words, the rules can be used to derive the closure of X+.
-
 #### Further Derived Rules
 Several further rules can be derived from the three given previously that simplify the practical task of computing X+. In the following rules, let D be another subset of the attributes of relation r. Then:
 4. **Self-determination**: a®a
@@ -141,18 +131,14 @@ For the relational data model, it is important to recognize that it is only Firs
 
 ### Process of Normalization
 ![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-22%20at%209.17.42%20PM.png)
-
-
 #### 👉 Unnormalized Form (UNF)
 > 数据制成表
 
 A table that contains one or more repeating groups.
-
 #### 👉 1NF
 > 每个表数据项（每一行）的每个属性（每一列）的值只能且必须是一个。
 
 A relation in which the intersection of each row and column contains one and only one value.
-
 #### 👉 2NF
 > 每个关系必须有主键，且其他非主键的属性完全函数依赖于主键。（即从主键P可以唯一地有一个映射找到非主键NP, F(P) = NP；且这个主键是最小的）
 > 更一般的定义是将上面的主键和非主键改为替补键（candidate key）和非替补键。
@@ -160,7 +146,6 @@ A relation in which the intersection of each row and column contains one and onl
 A relation that is in first normal form and every non-primary-key attribute is **fully functionally** dependent on the primary key.
 
 > 🤔 General Definition: A relation that is in first normal form and every non-candidate-key attribute is fully functionally dependent on any candidate key.
-
 #### 👉 3NF
 > 满足2NF基础上，每个关系的非主键之间没有和主键传递依赖。即两个非主键A，B之间和主键P没有关系 P = F(A), A = F(B), B -> A -> P。
 > （由于已经满足第二范式，所以主键一定可以推到非主键的，所以这里也可以定义为在2NF基础之上非主键之间没有函数依赖）
@@ -179,8 +164,6 @@ A relation that is in first and second normal form and in which no non-primary-k
 > When using the general definitions of 2NF and 3NF, we must be aware of partial and transitive dependencies on all candidate keys and not just the primary key. This can make the process of normalization more complex; however, the general definitions place additional constraints on the relations and may identify hidden redundancy in relations that could be missed.
 > 
 > The trade-off is whether it is better to keep the process of normalization simpler by examining dependencies on primary keys only, which allows the identification of the most problematic and obvious redundancy in relations, or to use the general definitions and increase the opportunity to identify missed redundancy. In fact, it is often the case that whether we use the definitions based on primary keys or the general definitions of 2NF and 3NF, the decomposition of relations is the same.
-
-
 #### 👉 BCNF
 > 在第三范式的基础上，数据库表中如果不存在任何字段((不光是非主属性，2NF和3NF所限制的都是非主属性))对任一候选关键字段的传递函数依赖和部分函数依赖则符合第三范式。
 > 或，在第三范式的基础上，任一关系的决定方（determinant）都是候选键，则关系满足BCNF。
@@ -256,14 +239,8 @@ The potential to violate BCNF may occur when:
 **结论**
 满足范式要求的数据库设计是结构清晰的，同时可避免数据冗余和操作异常。这并不意味着不符合范式要求的设计一定是错误的，在数据库表中存在1：1或1：N关系这种较特殊的情况下，合并导致的不符合范式要求反而是合理的。在我们设计数据库的时候，一定要时刻考虑范式的要求。
 
----
-
-
 #### 👉 4NF
-
-
 #### 👉 5NF
-
 
 
 

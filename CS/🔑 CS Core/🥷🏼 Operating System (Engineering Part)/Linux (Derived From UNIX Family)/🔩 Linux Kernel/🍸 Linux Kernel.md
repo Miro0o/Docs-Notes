@@ -32,7 +32,7 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 - ↗ [GNU C Library (glibc)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
 ↗ [Operating System Components & Runtime Libraries](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
-↗ [OS Level Programming with C & CPP](../../📟%20System%20Level%20Programming/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
+↗ [OS Level Programming with C & CPP](../../📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
 
 ### Learning Guides

@@ -10,7 +10,7 @@
 🚧 http://git.dpdk.org/ (`dpdk` and related tools/libs/etc.)
 
 📂 http://core.dpdk.org
-- 📂 http://doc.dpdk.org/guides/ 🇺🇸
+- 📂 http://doc.dpdk.org/guides/ | `dpdk` official english documentation 🇺🇸
 - 📂 https://dpdk-docs.readthedocs.io/en/latest/howto/index.html | `dpdk` 文档中文版 🇨🇳
 - 📂 http://doc.dpdk.org/api/
 

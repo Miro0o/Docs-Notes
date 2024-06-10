@@ -41,9 +41,9 @@ kali Linux离线攻击工具中的Cache-dump，lsadump与pwdump均为creddump套
 kali下一款ZIP压缩包密码破解工具。
 #### 👉 Hashcat
 强大的密码破解软件，系列软件包含Hashcat，oclHashcat，还有一个单独新出的oclRausscrack，其区别为Hashcat只支持CPU破解，oclGausscrack则支持gpu加速，oclHashcat则分为AMD版和NAVID版。
+↗ [hashcat](hashcat.md)
 #### 👉 Hashid
 简单易用的哈希分析工具，可以判断哈希或哈希文件是何种哈希算法加密的。
-
 #### 👉 Pyrit
 无线网络密码破解工具，借助GPU加速。
 #### 👉 Rcrack

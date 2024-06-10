@@ -12,6 +12,10 @@
 
 ## 🎯 System Configurations & Runtimes
 ### 👉 `lscpu`
+↗ [macOS /Computer Profiling](../../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Host%20Management/Computer%20Profiling.md)
+```
+system_profiler SPHardwareDataType
+```
 
 
 ### 👉 `lshw` | `hwinfo`
@@ -47,12 +51,6 @@ To persistently change the hostname, use the `hostnamectl` command, or directly 
 
 
 
-
-## 🎯 Interfaces Info
-### 👉 `lspci` | `lsscsi` | `lsusb`
-
-
-
 ## 🎯 Logging
 ### 👉 `dmesg`
 📂 [dmesg](https://www.man7.org/linux/man-pages/man1/dmesg.1.html)
@@ -83,11 +81,9 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop` | `btop` 👍 
 https://github.com/aristocratos/btop
-
 ##### More Alike Projects..
 https://github.com/bvaisvil/zenith
 Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-
 #### 👉 `glances`
 
 #### 👉 `dstat`
@@ -162,9 +158,13 @@ The du command is a standard Linux/Unix command that **allows a user to gain di
 #### 👉 `mount` | `free`
 
 #### 👉 `vmstat`
+> ↗ [📌 Computer Profiling & System Visibility /👉 `dstat`](📌%20Computer%20Profiling%20&%20System%20Visibility.md#👉%20`dstat`)
 
+`vmstat` reports information about processes, memory, paging, block IO, traps, disks and cpu activity.
+
+The  first  report  produced gives averages since the last reboot.  Additional reports give information on a sampling period of length delay.  The process and memory reports are instantaneous in either case.
 #### 👉 `dmidecode`
-The dmidecode command is different from all other commands. It extracts hardware information by reading data from the [SMBOIS data structures](https://en.wikipedia.org/wiki/System_Management_BIOS) (also called DMI tables).
+The `dmidecode` command is different from all other commands. It extracts hardware information by reading data from the [SMBOIS data structures](https://en.wikipedia.org/wiki/System_Management_BIOS) (also called DMI tables).
 #### 👉 `hdparm`
 
 #### 👀 Looking up files under `/proc/`
