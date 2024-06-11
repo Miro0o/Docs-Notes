@@ -7,10 +7,13 @@
 ## Res
 ### Related Topics
 ↗ [FSF (Free Software Foundation)](Free%20Software%20Organizations/FSF%20(Free%20Software%20Foundation).md)
-[Linux Free Software & OSS (Open Source Software)](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
+↗ [Linux Free Software & OSS (Open Source Software)](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [Linux Free Software & OSS (Open Source Software)](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
+
+↗ [Shell & Script Programming](../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
+↗ [🎭 The Art of Command Line](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🎭%20The%20Art%20of%20Command%20Line.md)
 
 
 

@@ -14,7 +14,7 @@
 ↗ [VMware Server](../../Hosted%20Hypervisor/Independant/VMware%20Server.md)
 ↗ [VMware Workstation](../../Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
 
-↗ [IDC & Data Center Networking](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/IDC%20&%20Data%20Center%20Networking/IDC%20&%20Data%20Center%20Networking.md)
+↗ [IDC & Data Center Networking](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/IDC%20&%20Data%20Center%20Networking.md)
 
 
 

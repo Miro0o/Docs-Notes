@@ -5,7 +5,10 @@
 
 
 ## Res
-🔍 https://pypi.org
+🏠 🔍 https://pypi.org
+
+
+### Related Topics
 ↗ [The Python Standard Library](../../../../Interpreted%20Languages/Python/The%20Python%20Standard%20Library/The%20Python%20Standard%20Library.md)
 
 

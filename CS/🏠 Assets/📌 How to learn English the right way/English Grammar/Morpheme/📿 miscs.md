@@ -1,8 +1,19 @@
 # miscs
+
+
+
 ## Logs
 2023/8/26 ✅
 2023/11/12 ✅ (glimpse through)
 2023/11/20~22 ✅ (glimpse through)
+
+
+## phrases in other languages
+ 1. bona fide
+	 1.  [authentic](dic://authentic), [unquestionable](dic://unquestionable), [veritable](dic://veritable)
+	 2. _adj._ [sincere](dic://sincere), [genuine](dic://genuine), [echt](dic://echt)
+	 3. _n._ [insincere](dic://insincere), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
+	 4. One of your classmates is a bona fide movie star. /你有位同学是货真价实的电影明星。
 
 
 
@@ -262,8 +273,53 @@ baloney
 - [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
 - **bullshit**胡说;**nonsense**谬论;**crap**废话;**bogus**伪造的;**phony**假的，欺骗的;**drivel**淌口水,说傻话;**hyperbole**夸张的语句;**disingenuous**不真诚的;**shit**屎;**moron**痴愚者;**self-serving**自私的,自私自利的;
 
+bang
+- n. 重击, 突然巨响; 刘海  
+- v. 猛敲, 重击; 砰的关上; 碰撞
+- _n._ [blow](dic://blow), [bump](dic://bump), [noise](dic://noise), [hairdo](dic://hairdo), [hairstyle](dic://hairstyle), [hair style](dic://hair style), [coiffure](dic://coiffure)
+- _v._ [hit](dic://hit), [sound](dic://sound), [go](dic://go), [close](dic://close), [shut](dic://shut), [travel](dic://travel), [move](dic://move)
+- **buck**雄鹿;**thump**重击;**smack**掌击声;**slap**掌击;**blow**吹;**gong**锣;**butt**笑柄;**ass**驴子;**arse**屁股;**knock**敲;**whack**重打;
+- a whiz-bang technician /很优秀的技术人员
+- a nasty bang on the head. /对头部的猛击。
+- There was a bang as the gun was fired. /当枪开火的时候发出砰的一声响。
+- to bang the door shut /砰地一声关上门
+- a slam-bang action cartoon. /一部喧闹的动画片。
+- The arrow hit bang on the target /箭正中靶心
+- Some couples go to strip clubs and have gang bangs. /有些情侣去了脱衣舞俱乐部，然后就不可描述了。
+- gang bang
+	- 团体性侵犯：指多人对一个人进行性侵犯的行为。
+	- _[gang bang](dic://gang%20bang)_  重击；轮奸
+- wiz-bang
+	- n. 爆竹的一种；自动操纵的飞弹；杰出的人或事物
+	- adj. [美俚]杰出的
+	-  [whizzbang](dic://whizzbang), [whizbang shell](dic://whizbang shell)
+	- _n._ [shell](dic://shell), [firecracker](dic://firecracker), [cracker](dic://cracker), [banger](dic://banger)
+	- **nifty**俏皮的;**gadgets**小配件;**tech**技术学院或学校;**gadget**小器具;**bullshit**胡说;**high-tech**高科技;**fancy**想像力;**flashy**闪光的;**stuff**材料;
+	- It doesn't try to impress users with its **whizbang** technology or visual style - though it might have both /它不会试图用尖端科技和视觉风格来让用户印象深刻—尽管它有时是这样的。
+- slap-bang
+	- a. 猛烈的, 匆促的, 草率的, 粗心的, 卤莽的  
+	- ad. 猛烈地, 匆促地, 草率地, 粗心地, 卤莽地
+- slam-bang
+- banger
+	- n. 敲打的人, 砰然作响的东西, 香肠, 鞭炮, 旧汽车
+- bang up
+	- - 严重损坏：指造成广泛的破坏。
+	- Our computers are **bang** **up** to date /我们的电脑是最先进的。
+	- If you bang into something, you might get banged up. /如果你撞上了某物，你有可能会受伤。
+	- Bree got a little banged up but the nurse says she's going to be okay. /布里也受了点伤，不过护士说她会没事的。
+	- Nick managed to get the door closed, but the ram continued to bang up against it. /尼克终于把门关上了，但那只公羊还在不断地敲击车门。
+	- He was in a car accident and was banged up pretty badly. /他遭遇了车祸，被撞受伤，非常严重。
+	- So you want to take the bangs up a little bit? /要不要把刘海往上梳一点?
+	- Banged up my leg pretty bad. /把腿摔得挺严重的。
+- bang bang
+	- n. 砰砰的枪声, (喻)暴烈行为, 射击
+
 banter
 - buffoonery, facetious, chaffing, badinage, bantering, quizzical, waggish
+- [raillery](dic://raillery), [give-and-take](dic://give-and-take), [backchat](dic://backchat)
+- [kid](dic://kid), [chaff](dic://chaff), [jolly](dic://jolly), [josh](dic://josh)
+- _n._ [repartee](dic://repartee)
+- _v._ [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait)
 - **bickering**争吵;**chatting**聊天;**joking**戏谑的;**flirting**玩弄;**antics**滑稽动作;**conversation**交谈, 谈话, 会话;**teasing**戏弄;**laughing**可笑的;**mocking**嘲弄的;**talking**说话的，多嘴的;**silliness**愚蠢;
 - [bantering](dic://bantering), [facetious](dic://facetious), [tongue-in-cheek](dic://tongue-in-cheek)
 - _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
@@ -272,6 +328,14 @@ banter
 - _[bantering novel](dic://bantering%20novel)_ 谐谑小说
 - _[bantering poem](dic://bantering%20poem)_ 谐谑诗
 - _[a bantering tone](dic://a%20bantering%20tone)_ 戏谑的口吻; 我;
+- the men bantered with the waitresses. /男人们和女招待谈笑逗趣。
+- He bantered with his grandchildren. /他和他的几个孙子逗乐。
+- The students exchanged banter with each other. /同学们互相开玩笑。
+- I really enjoy our banter at work! /我真的很喜欢我们工作时的玩笑！
+- Sure, I engaged in some friendly e-mail banter. /好吧，我确实有开一些无害的邮件玩笑。
+- Hello. Hello. All right, let's dispense with the friendly banter. /你好 好啊 得 我们就省掉假惺惺的友好吧。
+- You don't have to do the banter, but what's it cost me? /其实不用非得逗她 不过我又不会少块肉对吧？
+- It was banter. Has this country come to the point where you can't joke with the help? /我开玩笑呢。美国什么时候成这样了不能跟佣人开玩笑？
 
 baobab
 - n. 猴面包树
@@ -2730,10 +2794,7 @@ even
 - evenhanded
 
 eye
-- eyesore
-	- 1. something very ugly and offensive
-	- **unsightly**不悦目的;**nuisance**讨厌的东西;**unattractive**不吸引人的;**dilapidated**破旧的;**ugly**丑陋的;**hideous**可怕的;**disrepair**失修,破损;**blight**枯萎病;**derelict**玩忽职守的;**overgrown**长得很快;**redevelopment**恢复经济发展,重点恢复;
-	- _n._ [ugliness](dic://ugliness)
+- okw-
 
 
 
@@ -8384,6 +8445,21 @@ pry
 - _pry bar_ 撬杆；杠杆
 - Don't pry into the affairs of others. /莫管闲事。
 - Looks like someone tried to pry this drawer open. /看样子有人想撬开这抽屉。
+- to pry up a floorboard /撬起一块地板
+- prying open the door. /把门撬开。
+- Her front teeth pried up the lip of paper with the utmost care. /她的门牙小心翼翼地撬开纸唇。
+- Kiki got a chisel and pried up the board, but found nothing under it. /琪琪拿了一把凿子把木板撬了起来， 但在下面什么也没有发现。
+- pry away
+	- 撬开：用工具如撬棍等将物体从原来的位置或固定状态中分离出来。
+	- But in those early days they did pry away some valuable territory like Egypt and the holy land and eventually they got into Spain /但在早期他们确实撬走了一些有价值的领土，比如埃及和圣地，最终他们进入了西班牙。
+	- He clutches my wrists, trying to **pry** my hands **away**. /他捉住我的手腕，想要把我的手掰走。
+	- Jack managed to **pry** **away** a large stone blocking the entrance /
+- pry into
+	- 窥探，打听：试图了解别人不想让你知道的事情，或者过分干涉别人的私人生活。
+	- The inquisitors pry into sex lives " over and over again" ./审问者“一遍又一遍”地窥探性生活。
+	- Sir, I replied, without prying into who you are, might I venture to identify you as an artist? /船长，我并不想知道您是什么人，但我现在可以猜测您是一位艺术家吧？
+	- It was difficult for those with nefarious purposes to pry into its inner workings /那些心怀不轨的人很难窥探其内部运作。
+	- She likes to **pry** **into** private affairs of others. /她喜欢打听别人的私事。
 - prying
 	-  [nosiness](dic://nosiness), [snoopiness](dic://snoopiness)
 	- [nosy](dic://nosy), [nosey](dic://nosey), [snoopy](dic://snoopy)
@@ -8391,7 +8467,8 @@ pry
 	- _adj._ [curious](dic://curious)
 	- _n._ [incurious](dic://incurious)
 	- **hiding**隐匿;**locking**锁定;**peeking**瞥;**shielded**隔离的，屏蔽了的，防护的，铠装的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**exposing**遗弃;**spying**侦探;**probing**好探索的;**intrusion**闯入;**watchful**注意的;**ripping**劈的;
-- pryer
+- pryer (prayer)
+	- n. 窥探者；好打听的人
 - prier
 
 pulpit
@@ -10157,6 +10234,8 @@ shrine
 
 shrink
 -  来自古英语 scrincan,收缩，枯萎，凋谢，来自 Proto-Germanic*skrink,收缩，来自 PIE*sker,弯，转，词源同 ring,curve,scrimp.引申词义缩小，缩水等。
+- v. （使）缩小，减少；（通常指布料、衣服等洗后）缩水，皱缩；退缩，畏缩；畏避，回避（工作、责任等） 
+- n. <非正式> 精神病学家，心理学家；收缩；畏缩
 - [psychiatrist](dic://psychiatrist), [head-shrinker](dic://head-shrinker)
 - [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [wither](dic://wither)
 - [flinch](dic://flinch), [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [wince](dic://wince), [recoil](dic://recoil), [quail](dic://quail)
@@ -10170,12 +10249,22 @@ shrink
 	- [compress](dic://compress) 指把乱而不成形的东西压成一定形状。  
 	- [contract](dic://contract) 主要指以内、外部力量进行紧缩，也可用作引申。  
 	- [shrink](dic://shrink) 侧重指因收缩而达不到原有的长度、体积或容积。
-	- **shrinkage**收缩;**disappear**不见, 消失;**grow**生长;**wrap**包;**vanish**消失;**flatten**使……平坦;**compress**受压缩小;**diminish**使减少;**deteriorate**恶化;**reshape**改造;**erode**腐蚀，侵蚀;
+- **shrinkage**收缩;**disappear**不见, 消失;**grow**生长;**wrap**包;**vanish**消失;**flatten**使……平坦;**compress**受压缩小;**diminish**使减少;**deteriorate**恶化;**reshape**改造;**erode**腐蚀，侵蚀;
 - _shrink from_ 退避；在…前面畏缩
 - _shrink into oneself_ 缩成一团；变得沉默
 - _shrink film_ 收缩薄膜
 - _shrink fit_ 烧嵌；热配合；冷缩配合
 - _shrink wrap_ 收缩包裹；热缩塑料包
+- I've seen a **shrink** already /我已经看过了精神病医生。
+- All wood tends to **shrink**. /所有的木头都会收缩。
+- If you give up exercise, your muscles **shrink** and fat increases. By the same token, if you expend more energy you will lose fat. /如果你放弃锻炼，肌肉就会萎缩，脂肪会增多。同样地，如果你消耗较多的体能，你就会减掉脂肪。
+- In Britain and Italy the workforce has actually shrunk /在英国和意大利，劳动力实际上已经缩减。
+- These beauties have already shrunk quite a bit. /这些美味的食材已经变软了。
+- automatic shrinking of the pupils of the eyes in strong light. /强光下瞳孔不由自主的缩小 
+- Washing wool in hot water will shrink it. /在热水中洗毛织品会使其缩水。
+- A shy man shrinks from meeting strangers /羞怯的人怕见生人。
+- a shrink-wrapped dictionary /一部用收缩薄膜包装的词典
+- 
 
 shrivel
 - 词源不详，可能与 shrink 与相联系。比较 shake,shiver.

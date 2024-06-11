@@ -1909,11 +1909,24 @@ _delicate balance_ 微妙的平衡
 	4. slab
 	5. slat
 	6. slit
-		1. - n. 裂缝, 投币口, 狭长裂口  
+		1. n. 裂缝, 投币口, 狭长裂口  
 		2. vt. 切开, 扯裂, 使有狭缝  vi. 纵切, 纵裂
 		3. slitter
 	7. slot
 	8. slob
+		1. [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person)
+		2. _n._ [vulgarian](dic://vulgarian)
+		3. **loser**失败者;**moron**痴愚者;**lazy**懒惰的;**slut**懒妇;**bastard**私生的;**filthy**污秽的;**hypocrite**伪君子;**bitch**母狗，母狼;**asshole**屁眼儿,肛门;**whore**卖淫，娼妓;**snob**势利小人，势利眼;
+		4. _[fat slob](dic://fat%20slob)_ 胖懒虫
+		5. _[slob trout](dic://slob%20trout)_ 欧鳟
+		6. _[slob ice](dic://slob%20ice)_ 海面乱冰；密积冰泥
+		7. _[slob land](dic://slob%20land)_ 低盐滩
+		8. _[rich slob](dic://rich%20slob)_ 有钱的懒汉
+		9. _[You idle slob](dic://You%20idle%20slob)_ 你这个懒虫
+		10. And you...you are an unbelievable slob. A slovenly, angry intern. I am Preston Burke. /而你呢，你是个懒鬼。邋邋遢遢，坏脾气的实习生。我是 Preston Burke.
+		11. Nice dress. Oh, this? I'm dressed like a slob today. /裙子很漂亮。哦，这条？我今天穿得像邋遢鬼似的。
+		12. See, it's only because I work with a bunch of slobs. /那只是因为我跟一群懒汉一起工作
+		13. If we all went out looking like a slob like me, it would be a pretty dreary world. /如果每个人都像我这个懒虫一样这样穿出门那这个世界将会多么无趣。
 	9. slut
 		1. [slattern](dic://slattern), [slovenly woman](dic://slovenly woman), [trollop](dic://trollop)
 		2. [adulteress](dic://adulteress), [fornicatress](dic://fornicatress), [hussy](dic://hussy), [jade](dic://jade), [loose woman](dic://loose woman), [strumpet](dic://strumpet), [trollop](dic://trollop)

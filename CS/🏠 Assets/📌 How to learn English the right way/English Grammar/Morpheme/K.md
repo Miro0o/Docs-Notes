@@ -6653,44 +6653,97 @@
 	1. arthropathy
 	2. axonopathy
 	3. etc..
-2. **path-** = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings."
-	1. pathetic
-		1.  [hapless](dic://hapless), [miserable](dic://miserable), [misfortunate](dic://misfortunate), [piteous](dic://piteous), [pitiable](dic://pitiable), [pitiful](dic://pitiful), [poor](dic://poor), [wretched](dic://wretched)
-		2. [pitiable](dic://pitiable), [pitiful](dic://pitiful)
-		3. [ridiculous](dic://ridiculous), [silly](dic://silly)
-		4. _adj._ [unfortunate](dic://unfortunate), [contemptible](dic://contemptible), [undignified](dic://undignified)
-		5. _n._ [fortunate](dic://fortunate), [estimable](dic://estimable), [dignified](dic://dignified)
-		6. **pitiful**可怜的，令人同情的;**laughable**荒唐可笑的;**idiotic**白痴的;**ridiculous**可笑的, 荒谬的;**stupid**愚蠢的;**lame**瘸的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**disgraceful**可耻的,丢脸的,不光彩的;**feeble**微弱的，无力的;**disgusting**令人厌恶的;
-		7. apathetic
-		8. antipathetic
-		9. antipathetical
-	3. allopath
-	4. neuropath
-	5. neuropathist
-	6. osteopath
-	7. sympathy
+2. **path-** = feeling, suffering, 表示“感情，遭受（病痛）”。源自希腊语 pathos "suffering, passion, emotion, feelings." (pathagorean)
+	1. pathogen
+		1. _n._ [microorganism](dic://microorganism), [micro-organism](dic://micro-organism), [infectious agent](dic://infectious agent), [infective agent](dic://infective agent)
+		2. **bacterial**细菌的;**bacterium**细菌;**pathogenic**引起疾病的;**infection**传染;**parasite**寄生虫;**fungal**真菌的;**virulence**毒力,毒性,恶意;**bacteria**细菌;**virus**病毒;**microbial**微生物的;**fungus**真菌，霉菌;
+	2. pathogene
+		1. - n. 病原体
+		2. pathogenesis
+		3. pathogenetic
+		4. pathogenic
+		5. pathogeny
+		6. pathognomonic
+	3. pathognomy
+		1. 病征学
+	4. pathology
+		1. _n._ [medical science](dic://medical science), [ill health](dic://ill health), [unhealthiness](dic://unhealthiness), [health problem](dic://health problem)
+		2. **pathological**病理学的;**pathologist**病理学者;**radiology**放射学,辐射学;**neurology**神经病学;**clinical**临床的;**etiology**病因学;**neurological**神经病学的;**physiology**生理学;**psychiatry**精神病学;**disease**病，疾病;**abnormality**不正常,反常,变态,畸形;
+		3. _plant pathology_ 植物病理学
+		4. _clinical pathology_ 临床病理学
+		5. _forensic pathology_ 法医病理学
+		6. the pathology of cancer. /癌症的病理
+		7. We send it off to the pathology lab /我们把它送到病理实验室。
+		8. Any larger, and there may be cardiac pathology /如果心脏左右缘距离偏大，则可能存在病变。
+		9. pathological
+		10. pathologist
+		11. pathologic
+			1. _adj._ [unhealthy](dic://unhealthy), [pathology](dic://pathology)
+			2. _n._ [healthy](dic://healthy)
+			3. **pathological**病理学的;**histological**组织学的;**pathology**病理学;**biochemical**生物化学的;**physiological**生理的， 生理学的;**malignant**有恶意的;**lesion**损害;**abnormalities**异常情况;**etiology**病因学;**abnormality**不正常,反常,变态,畸形;**morphological**形态学的;
+			4. _adj._ [unhealthy](dic://unhealthy), [pathology](dic://pathology)
+			5. Objective: To determine the nascence of histogenetic, pathologic and clinic findings in patient with epithelioid sarcoma. /目的探讨上皮样肉瘤的组织发生、病理、临床表现。
+	5. pathometer
+		1. _n._ (通过测定身体电脉冲来确定受测人是否说谎的)探谎器
+	6. pathophysiology
+		3. n. 病理生理学
+		4. pathophysiologic
+	7. pathomechanism
+	8. pathos
+		1. n. （境况、文章、艺术品或人的）感染力；同情，怜悯；痛苦，受难
+		2. bathos（矫揉造作）：对感伤煽情的讽刺  
+		3. 在修辞学中有一个修辞手法叫做pathos，字面意思是“感伤”，指利用各种哀怨动人的句子层层递进地打动人，也就是我们常说的“煽情”。英语单词pathetic（可怜的、感伤的）就是pathos的形容词。后来，英国诗人亚历山大•蒲柏根据pathos杜撰了bathos（突降法）一词，指从崇高、庄严的情境突然下降至普通甚至庸俗的情境，从而产生一种幽默效果。单词bathos来自希腊语bathos（深度），因此被译为“突降法”。它是对pathos（感伤）的讽刺，因此含有“无病呻吟、故作感伤”之意。英语单词bathetic是人们模仿pathetic的构词方式从bathos衍生出来的形容词，表示“无病呻吟的、故作感伤的、庸俗的”，还可以表示“突降法的”。  
+		4. bathos：['beɪθɒs] n.突降法，矫揉造作，无病呻吟  
+		5. bathetic：[bə'θetɪk] adj.突降法的，矫揉造作的，无病呻吟的  
+		6. pathos：['peɪθɒs] n.感伤，悲怅，哀怨动人的词句  
+		7. pathetic：[pə'θetɪk] adj.可怜的，感伤的，悲哀的
+		8. [poignancy](dic://poignancy)
+		9. [commiseration](dic://commiseration), [pity](dic://pity), [ruth](dic://ruth)
+		10. _n._ [quality](dic://quality), [sympathy](dic://sympathy), [fellow feeling](dic://fellow feeling), [expressive style](dic://expressive style), [style](dic://style)
+		11. **melodrama**情节剧;**melancholy**忧郁, 悲哀;**subtlety**微妙;**emotion**情感;**humour**诙谐;**humor**幽默，诙谐;**sadness**悲哀;**tenderness**柔软;**irony**讽刺;**sensibility**感情;**anguish**苦闷;
+		12. There is abundant pathos in her words. /她的话里富有动人哀怜的力量。
+		13. The pathos of the situation brought tears to our eyes /情况令人怜悯,看得我们不禁流淚。
+		14. the actor injects his customary humour and pathos into the role. /这个演员把他惯常的幽默和哀婉感染力融入到这个角色之中。
+		15. Pathos is the unavoidable pain intertwined with our growth. /悲怆是我们成长过程中不可避免的痛苦。
+		16. Her tone can be bombastic, breathless and laden with pathos, just as it was on the city streets. /她的语调是爆炸性的、令人难以喘气的、充满痛苦的，正像开罗街道上所发生的事情一样。
+		17. What unutterable pathos was in his voice! /他的声音里是多么难言的悲痛！
+	9. pathetic
+		19.  [hapless](dic://hapless), [miserable](dic://miserable), [misfortunate](dic://misfortunate), [piteous](dic://piteous), [pitiable](dic://pitiable), [pitiful](dic://pitiful), [poor](dic://poor), [wretched](dic://wretched)
+		20. [pitiable](dic://pitiable), [pitiful](dic://pitiful)
+		21. [ridiculous](dic://ridiculous), [silly](dic://silly)
+		22. _adj._ [unfortunate](dic://unfortunate), [contemptible](dic://contemptible), [undignified](dic://undignified)
+		23. _n._ [fortunate](dic://fortunate), [estimable](dic://estimable), [dignified](dic://dignified)
+		24. **pitiful**可怜的，令人同情的;**laughable**荒唐可笑的;**idiotic**白痴的;**ridiculous**可笑的, 荒谬的;**stupid**愚蠢的;**lame**瘸的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**disgraceful**可耻的,丢脸的,不光彩的;**feeble**微弱的，无力的;**disgusting**令人厌恶的;
+		25. apathetic
+		26. antipathetic
+		27. antipathetical
+	10. psychopath
+		1. psycho-,精神，心理，-path,疾病，词源同 pathology.
+		2. _n._ [neurotic](dic://neurotic), [psychoneurotic](dic://psychoneurotic), [mental case](dic://mental case)
+		3. **psycho**心理分析，精神分析;**psychotic**精神病的;**deranged**疯狂的;**murderer**凶手;**sadistic**残酷成性的;**lunatic**精神错乱的;**rapist**强奸犯;**murderous**蓄意谋杀的;**madman**疯子，狂人;**schizophrenic**精神分裂症的;**maniac**疯子，躁狂者;
+		4. _[psychopath](dic://psychopath)_  n. 精神病患者
+		5. _[sexual psychopath](dic://sexual%20psychopath)_  性欲变态人格者
+		6. They are the psychopaths of the sea Kenz. /她们是海里的精神病 肯吉。
+		7. Yeah, I mean, the guy was a bona fide psychopath. /所以没给我们选择的余地。
+	11. sociopath
+	12. sympathies
+		1. sympathise
+		2. sympathize
+	13. telepathy
+		1. telepathist
+	14. allopath
+	15. neuropath
+		1. neuropathist
+	16. osteopath
+	17. sympathy
 		1. sympathetic
 		2. unsympathetic
-	8. apathy
-	9. dyspathy
+	18. apathy
+	19. antipathy
+	20. dyspathy
 		1. _[dyspathy](dic://dyspathy)_  厌恶
-	10. pathogen
-	11. pathogene
-		1. pathogenesis
-		2. pathogenetic
-		3. pathogenic
-		4. pathogeny
-		5. pathognomonic
-	12. pathognomy
-	13. pathology
-		1. pathological
-		2. pathologist
-	14. empathy, empathic
+	21. empathy, empathic
 		1. empathise
-	15. pathologic
-		1. **pathological**病理学的;**histological**组织学的;**pathology**病理学;**biochemical**生物化学的;**physiological**生理的， 生理学的;**malignant**有恶意的;**lesion**损害;**abnormalities**异常情况;**etiology**病因学;**abnormality**不正常,反常,变态,畸形;**morphological**形态学的;
-		2. _adj._ [unhealthy](dic://unhealthy), [pathology](dic://pathology)
-	16. etc..
 3. **penth-** = sorrow, 表示“懊悔”。源自希腊语 penthos "grief."
 	1. nepenthic
 4. **sympath-** = 表示“交感神经”。源自希腊语 pathos "suffering, passion, emotion, feelings."

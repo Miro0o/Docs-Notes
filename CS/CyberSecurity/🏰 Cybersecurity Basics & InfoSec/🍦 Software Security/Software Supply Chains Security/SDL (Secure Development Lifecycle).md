@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Dev%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 
 

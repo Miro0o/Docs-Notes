@@ -1,3 +1,7 @@
+---
+excalidraw-plugin: parsed
+tags: []
+---
 ## wa
 ### + \*wal +
 1. **vail-, val-** = from **latin (valere) "to be strong"
@@ -1224,11 +1228,45 @@
 		6. viewing
 		7. viewfinder
 		8. viewer
+			1. viewership
+				1. Queen Elizabeth Junior High School represents part of our Canadian viewership /这所学校就是英国女王伊丽莎白初中，这里的很多同学都是我们加拿大的观众。
+				2. That exceeds the online viewership of the next most popular television series by 278m. /这比收视率排名第二的电视剧高2.78亿次。
+				3. And when Taylor started attending Kansas City Chiefs games to support her other half, viewership spiked, too /当泰勒开始参加堪萨斯城酋长队的比赛来支持她的另一半时，收视率也因之飙升了。
+				4. So, releasing an entire season all at once doesn't kill viewership /所以，一次性放出一整季并不会影响收视率。
 		9. viewdisk
 		10. viewdata
 		11. televiewer
 		12. review
+			1. [reappraisal](dic://reappraisal), [revaluation](dic://revaluation), [reassessment](dic://reassessment)
+			2.  [critique](dic://critique), [critical review](dic://critical review), [review article](dic://review article)
+			3. [follow-up](dic://follow-up), [followup](dic://followup), [reexamination](dic://reexamination)
+			4. [limited review](dic://limited review)
+			5. [revue](dic://revue)
+			6.  [recapitulation](dic://recapitulation), [recap](dic://recap)
+			7. [brushup](dic://brushup)
+			8. [inspection](dic://inspection)
+			9. [reexamine](dic://reexamine)
+			10. [critique](dic://critique)
+			11.  [go over](dic://go over), [survey](dic://survey)
+			12. [brush up](dic://brush up), [refresh](dic://refresh)
+			13.  [look back](dic://look back), [retrospect](dic://retrospect)
+			14. _n._ [appraisal](dic://appraisal), [assessment](dic://assessment), [criticism](dic://criticism), [literary criticism](dic://literary criticism), [examination](dic://examination), [scrutiny](dic://scrutiny), [accounting](dic://accounting)
+			15. _v._ [analyze](dic://analyze), [analyse](dic://analyse), [study](dic://study), [examine](dic://examine), [canvass](dic://canvass), [canvas](dic://canvas), [evaluate](dic://evaluate)
+				1. [magazine](dic://magazine) 指刊登各种文章、小说、诗歌、评议的杂志。   
+				2. [journal](dic://journal) 本义为“日报”，现在可指定期发生的周刊、月刊、季刊等或指学术团体出版的刊物、杂志或学报。  
+				3. [periodical](dic://periodical) 通常指除日报以外的定期出版刊物。  
+				4. [publication](dic://publication) 指出版物，发行物。  
+				5. [newspaper](dic://newspaper) 一般指每日出版的报纸。  
+				6. [review](dic://review) 多指登载评论性文章或讨论重大事件的文章的刊物。  
+				7. [press](dic://press) 系报刊总称，也指报界或报业。
+				8. **reviewer**评论者，评论家;**summary**扼要的;**evaluation**估价,评价;**comment**评论;**feedback**反馈;**report**报告;**recommendation**推荐, 劝告, 建议;**critique**批评;**assessment**估价;**read**阅读;**article**物品;
+			16. _literature review_ 文献回顾；文献综述；文献评论
+			17. _judicial review_ n. 司法审查；复审
+			18. _comprehensive review_ 全面审查
+			19. _general review_ 总复习；一般性综述
 		13. rearview
+			1. In his rearview mirror, Edward's eyes were on me. /爱德华在从后视镜里看我。
+			2. That appears on the screen in the dashboard or a rearview mirror. /你可以在仪表板屏幕上或者后视镜里看到后面的情况。
 		14. purview
 			1. _n._ [scope](dic://scope), [range](dic://range), [reach](dic://reach), [orbit](dic://orbit), [compass](dic://compass), [ambit](dic://ambit)
 			2. **remit**宽恕;**scope**视野;**realm**领域，范围;**prerogative**权利,特权;**jurisdiction**司法权;**confines**范围;**auspices**支持;**beyond**超过;**discretionary**任意的,无条件的;**authority**威信，权力;**mandate**命令;
@@ -3585,11 +3623,43 @@
 			1. **warden**看守人;**constable**警察;**inmate**同住者;**prisoner**囚犯，犯人;**prison**监狱;**magistrate**地方法官, 治安官;**guards**警卫;**servant**仆人，佣人;**correctional**改正的,矫正的,修正的;**policeman**警察;**mage**博学者;
 			2. wardress
 		28. warden
-	4. guaranty
+	4. guard
+		1. n. 守卫者, 警戒, 护卫队, 防护装置  
+		2. vt. 保卫, 看守, 当心  
+		3. vi. 防止, 警惕, 警卫, 看守
+		5.  [safety](dic://safety), [safety device](dic://safety device)
+		6. [bodyguard](dic://bodyguard)
+		7. [precaution](dic://precaution), [safeguard](dic://safeguard)
+		8. [guard duty](dic://guard duty), [sentry duty](dic://sentry duty), [sentry go](dic://sentry go)
+		9.  [ward](dic://ward)
+		10. [defend](dic://defend), [hold](dic://hold)
+		11. _n._ [defender](dic://defender), [guardian](dic://guardian), [protector](dic://protector), [shielder](dic://shielder), [lineman](dic://lineman), [device](dic://device), [position](dic://position)
+		12. _v._ [watch](dic://watch), [observe](dic://observe), [follow](dic://follow), [watch over](dic://watch over), [keep an eye on](dic://keep an eye on), [protect](dic://protect), [act](dic://act)
+			1. [defend](dic://defend) 普通用词，指用武力或其它措施使人或物不受损害，消除危险。用作比喻时，指坚持某种行动、决定或意见。   
+			2. [protect](dic://protect) 普通用词，指用某种手段作为防御工具以防危险或伤害。  
+			3. [safeguard](dic://safeguard) 语气强，指采取积极措施预防可能发生的一切攻击或危险。  
+			4. [guard](dic://guard) 普通用词，指保持警惕以防可能的攻击或伤害。  
+			5. [shield](dic://shield) 语气比protect强，但侧重防止迫在眉睫的攻击或伤害。  
+			6. [shelter](dic://shelter) 通常指寻找安全地方躲避风雨或使人免遭危害。  
+			7. [harbour](dic://harbour) 贬义词，指隐匿或非法保护、窝藏。
+		13. **perimeter**周边;**defensive**防卫的;**security**保护，安全;**bodyguard**警卫员;**defender**防卫者，守卫者;**gate**大门;**warden**看守人;**defense**防卫，防护;**policeman**警察;**linebacker**中后位;**lock**锁，锁上;
+		14. guard rail
+			1. 护栏：一种用于保护人员或车辆不会从高处掉落或越过边缘的栏杆或护栏。
+			2. The bus apparently hit a highway guard rail, crashed and caught fire. /这辆大巴车显然撞上了高速公路的护栏，撞毁并起火。
+			3. The guard rails, where on that freezing night fathers hugged their children, set them in the lowering lifeboats and leaned out to catch a final glimpse of their loved ones. /护栏，在那个寒冷的夜晚，父亲们拥抱着他们的孩子，把他们放在降低的救生艇上，探出头去看他们所爱的人最后一眼。
+			4. As a society, we have an opportunity to try to put some guard rails in place and not zoom through those levels of capability more quickly than we can handle. /作为一个社会，我们有机会尝试设置一些护栏，并且不要以我们无法处理的速度快速地提高这些能力水平。
+		16. guard against infection./预防传染
+		17. station a guard at the gate /门口设置一个警卫员
+		18. review guard of honour /检阅仪仗队
+		19. Guard what you say. /说话时要谨慎
+		20. a guard against tooth decay /防止虫牙的东西
+		21. we must be on guard against such temptation. /我们应警惕这种诱惑。
+		22. Guard dog to guard the hot dogs? I don't think so. /看守热狗的看门狗吗 算了。
+	5. guaranty
 		7. guarantor
 		8. guarantee
-	5. garage, garageman
-	6. garret
+	6. garage, garageman
+	7. garret
 		1. n. 阁楼；顶楼
 		2. [loft](dic://loft), [attic](dic://attic)
 		3. _n._ [floor](dic://floor), [level](dic://level), [storey](dic://storey), [story](dic://story)

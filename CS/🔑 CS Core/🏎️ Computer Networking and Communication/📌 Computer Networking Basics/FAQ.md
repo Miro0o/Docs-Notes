@@ -36,7 +36,7 @@
 
 
 
-## 👉 pipelining, parallelism, concurrency
+## 👉 pipelining, parallelism, concurrency in HTTP Connection Management
 #pipelining #parallelism #concurrency #http
 
 > ↗ [HTTP Connection Management](0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/📌%20HTTP%20Basics/HTTP%20Connection%20Management.md)
@@ -47,6 +47,7 @@
 > **pipelining**: a kind of mechanism to accelerate processing speed via enabling parallel computing without losing task sequential dependency. 
 > 
 > **parallelism**: pipelining is a (rudimentary though) method to achieve parallelism, i.e concurrently processing a sequential task by dividing it into parallel tasks without changing the ultimate outcome thus achieving parallel computing and improving processing speed.
+
 
 ### HTTP Pipelining
 **HTTP pipelining** is a feature of **HTTP/1.1** that allows ==multiple HTTP requests to be sent over a single TCP connection== without waiting for the corresponding responses
@@ -64,6 +65,7 @@
 [pipelining | TechTarget]: https://www.techtarget.com/whatis/definition/pipelining
 
 > Pipelining is the process of storing and prioritizing computer instructions that the processor executes. The pipeline is a "logical pipeline" that lets the processor perform a single instruction in multiple steps. The processing happens in a continuous, orderly, somewhat overlapped manner.
+
 
 ### HTTP Parallel Connection
 ```xml

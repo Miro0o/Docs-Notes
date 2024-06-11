@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Information, Data, Number and Math in Digital Systems](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
+::[Digital (Logic) Electronics Foundations](⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [Programming Methodology and Languages](../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
@@ -23,8 +24,11 @@ Computer Crash Course
 🚧 https://github.com/1c7/crash-course-computer-science-chinese
 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 367.3万
 
-🔥 👍 从裸机启动开始运行一个C++程序
 http://t.csdnimg.cn/fpEXy
+🔥 👍 从裸机启动开始运行一个C++程序
+
+https://www.cnblogs.com/ysocean/tag/深入理解计算机系统/
+深入理解计算系统 - 随笔
 
 
 
@@ -43,7 +47,7 @@ http://t.csdnimg.cn/fpEXy
 	2. 🧮 Math
 		1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 	3. 🍎 Physics
-		1. ↗ [Physics For CS](🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
+		1. ↗ [Physics For CS](⚡️%20Digital%20(Logic)%20Electronics%20Foundations/🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
 	4. ⛏ Electronic Technique Foundations
 		1. ↗ [Digital (Logic) Electronics Foundations](⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 	5. Computer Organization & Architecture

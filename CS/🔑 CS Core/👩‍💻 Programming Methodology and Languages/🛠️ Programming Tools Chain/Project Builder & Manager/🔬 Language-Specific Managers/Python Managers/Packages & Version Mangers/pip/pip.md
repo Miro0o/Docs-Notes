@@ -16,7 +16,7 @@ We release updates regularly, with a new version every 3 months. Find more detai
 - [Release notes](https://pip.pypa.io/en/stable/news.html)
 - [Release process](https://pip.pypa.io/en/latest/development/release-process/)
 
-> ⚠  It is not recommended mixing pip and conda. Reasons can be seen at ↗ [FAQ](../../FAQ.md)
+> ⚠  It is not recommended mixing pip and conda. Reasons can be seen at ↗ [FAQ](../../../../FAQ.md)
 
 
 

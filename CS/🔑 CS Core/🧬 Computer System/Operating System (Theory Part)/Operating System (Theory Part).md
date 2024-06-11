@@ -25,6 +25,9 @@
 🇨🇳 ↗ [NJU /操作系统](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
 🇨🇳 ↗ [HIT OS /Operating System](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/HIT/HIT%20OS%20-%20Operating%20System.md)
 #### Books
+↗ [Computer System](../Computer%20System.md)
+↗ [Computer Architecture](../Computer%20Architecture/Computer%20Architecture.md)
+
 ↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [UNIX Family](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/UNIX%20Family/UNIX%20Family.md)
 ↗ [Windows](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
@@ -38,8 +41,35 @@
 👍 📖 Operating Systems: Three Easy Pieces
 https://pages.cs.wisc.edu/~remzi/OSTEP/
 
-
 📖 大话处理器（？偶尔看到，不知道怎么样）
+
+🤔 http://www.harley.com/books/sg3.html
+Harley Hahn's Guide to Unix and Linux
+
+👍 https://jyywiki.cn/OS/References.md
+1. 编程基础
+	1. Brian W. Kernighan and Dennis M. Ritchie. _The C programming language_ (2nd Edition). Prentice Hall, 1998.
+	2. [The CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard). Software Engineering Institute of Carnegie Mellon University, 2016.
+	3. [pwn.college: Learn to hack](https://pwn.college/)
+2. UNIX/Linux 编程
+	1. Jlevy Hollowa. [_The Art of Command Line_](https://github.com/jlevy/the-art-of-command-line).
+	2. Gerard Beekmans. [Linux from Scratch](http://linuxfromscratch.org/).
+	3. Harley Hahn. _[Harley Hahn's Guide to Unix and Linux](http://www.harley.com/books/sg3.html)_. McGraw-Hill Higher Education, 2008.
+	4. Michael Kerrisk. _The Linux Programming Interface: A Linux and UNIX System Programming Handbook_. No Starch Press, 2010.
+	5. W. Richard Stevens and Stephen A. Rago. _[Advanced Programming in the UNIX® Environment](http://www.apuebook.com/apue3e.html)_ (3rd Edition). Addison-Wesley, 2013.
+3. 操作系统原理
+	1. 陈海波、夏虞斌. _[现代操作系统：原理与实现](http://ipads.se.sjtu.edu.cn/mospi/)_. 机械工业出版社, 2020.
+	2. Thomas Anderson, Michael Dahlin. _Operating Systems: Principles and Practice_ (2nd Edition). Recursive Books, 2014.
+	3. John R. Levine. _[Linkers and Loaders](https://linker.iecc.com/)_. Morgan-Kauffman, 1999.
+	4. Robert Love. _Linux Kernel Development: A Thorough Guide to the Design and Implementation of the Linux Kernel_ (3rd Edition). Addison-Wesley, 2010.
+	5. Marshall Kirk McKusick, Keith Bostic, Michael J. Karels, and John S. Quarterman. _[The Design and Implementation of the 4.4BSD Operating System](https://www.freebsd.org/doc/en/books/design-44bsd/book.html)_. Addison-Wesley Longman, 1996.
+4. Finally, The Friendly Manual
+	1. Linux manpages (tldr, man, info, ...): [man7.org](https://www.man7.org/)
+	2. [Bourne-Again Shell (bash)](https://www.gnu.org/software/bash/manual/html_node/index.html)
+	3. [GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/)
+	4. [GNU Debugger (gdb)](https://sourceware.org/gdb/documentation/)
+	5. [Binutils (ld, as, objdump, and more)](https://sourceware.org/binutils/docs/)
+	6. [GNU Make](https://www.gnu.org/software/make/manual/html_node/index.html)
 #### Learning by doing!
 💻 [Writing an OS in Rust](https://os.phil-opp.com/)
 💻 [OSDev - wiki](https://wiki.osdev.org/Main_Page)
@@ -56,6 +86,9 @@ https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 
 ## Intro
+> 🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 ### Computer System Review
 ![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System Overveiw</small>

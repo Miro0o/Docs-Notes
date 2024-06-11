@@ -10,6 +10,7 @@
 
 
 ### Related Topics
+↗ [vLAN & VxLAN](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 
 
 ### Learning Resources
@@ -24,3 +25,4 @@
 ## Ref
 [👍 openstack学习-网络管理(转)]: https://heitaoq66.github.io/2020/03/19/openstack学习-网络管理/
 
+[👍 深入理解lan、vlan、vxlan《OpenStack 网络》]: https://developer.aliyun.com/article/945531#slide-1

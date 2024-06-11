@@ -33,6 +33,68 @@
 5. Narcomedusae
 
 
+### + \*nas- +
+1. **nar-**
+	1. naris
+		1. _n._ [orifice](dic://orifice), [opening](dic://opening), [porta](dic://porta)
+		2. **nostrils**鼻孔;**nasal**鼻的;**anterior**前面的;**orifice**孔口;**apical**顶上的, 顶点的;
+2. **nas-, naso-**
+	1. nasopharyngeal
+	2. nasal
+		1. [nasal consonant](dic://nasal consonant)
+		2. [nasal bone](dic://nasal bone), [os nasale](dic://os nasale)
+		3. [rhinal](dic://rhinal)
+		4. [adenoidal](dic://adenoidal), [pinched](dic://pinched)
+		5. _n._ [consonant](dic://consonant), [bone](dic://bone), [os](dic://os)
+		6. _adj._ [nose](dic://nose), [olfactory organ](dic://olfactory organ), [high](dic://high), [high-pitched](dic://high-pitched)
+		7. _n._ [low](dic://low), [low-pitched](dic://low-pitched)
+		8. **sinus**静脉窦;**alveolar**肺泡的;**sinuses**鼻窦;**airway**导气管;**mucous**黏液的;**nose**鼻子;**mucus**粘液;**airways**航空公司;**mucosal**粘膜的;**nostrils**鼻孔;**vaginal**阴道的;
+	3. nasogastric
+	4. nasotracheal
+	5. nasturtium
+3. ness
+	1. n. 海角；突端
+	2. [cape](dic://cape)
+	3. _n._ [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma)
+	4. **ted**翻晒;**ber**比特误差率;**ter**三次;**dis**冥府;**er**呃;**tor**岩山;**ting**铃的响声,丁丁声;**ho**呵;**in-**在…内;**re-**表示“又,再”之义;**tho**可是,不过;
+	5. _loch ness monster_ 尼斯湖水怪（相传在尼斯湖出现的一种巨型怪兽） 
+4. nose
+	1. _n._ 鼻子
+	2. 似鼻子的东西
+	3. 嗅觉
+	4. _vt._ 嗅
+	5. _vi._ 窥探, 探听, 四处查看
+	6. _vt. & vi._ 小心翼翼地前进
+	7. [olfactory organ](dic://olfactory organ)
+	8. [nozzle](dic://nozzle)
+	9. [intrude](dic://intrude), [horn in](dic://horn in), [pry](dic://pry), [poke](dic://poke)
+	10. [scent](dic://scent), [wind](dic://wind)
+	11. [nuzzle](dic://nuzzle)
+	12. _n._ [chemoreceptor](dic://chemoreceptor), [front](dic://front), [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [symbol](dic://symbol), [smell](dic://smell), [sense of smell](dic://sense of smell)
+	13. _v._ [search](dic://search), [look](dic://look), [advance](dic://advance), [bring forward](dic://bring forward), [smell](dic://smell), [push](dic://push), [force](dic://force)
+	14. **nostrils**鼻孔;**chin**下巴;**snout**鼻子;**forehead**前额，额头;**throat**喉咙;**sinuses**鼻窦;**cheek**面颊，脸颊;**ear**耳朵;**mouth**口，嘴;**tail**尾部;**palate**腭;
+	15. _on the nose_ 正好，恰恰
+	16. _runny nose_ 流鼻涕
+	17. _by a nose_ 几乎；以些微之差
+	18. _pay through the nose_ 被勒索；被敲竹杠
+	19. _nose for_ v. 探听
+	20. _long nose_ 长鼻子；长鼻梁；高鼻子
+	21. _nose into_ 查探，探听
+	22. _nose out_ 比……略胜一筹
+	23. _stuffy nose_ 曲差
+	24. _red nose_ 红鼻子
+	25. _running nose_ 流鼻涕；[医]鼻漏
+	26. _bloody nose_ 出血的鼻子
+	27. _blow your nose_ 擦鼻涕，擤鼻涕
+	28. _nose job_ 鼻子整形手术
+	29. _nose piece_ 突鼻组件；喷嘴；换镜旋座；测头管壳
+	30. _nose up_ v. 升起
+	31. _have a nose for_ 对…敏感，很善于发现
+	32. _nose to nose_ 面对面
+	33. Seriously, have you picked your nose today? -Okay.. /认真的问题，你今天挖过鼻孔吗？- 嗯，好吧。
+6. nuzzle
+
+
 ### + \*nau- +
 #### + \*nau- (2) + = boat
 1. **naus-, naut-** = ship, sailor, 「Greeks」naus, "ship", nautes, "sailor"

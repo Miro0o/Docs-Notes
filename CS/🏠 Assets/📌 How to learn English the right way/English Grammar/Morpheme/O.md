@@ -318,6 +318,19 @@
 	3. _daisy chain_ 链，环；雏菊花环
 	4. 1. Daisies studded the meadow. 雏菊点缀的草地
 5. eye
+	1. n. 眼睛, 视力, 看  
+	2. vt. 看, 注视
+	3. turn a blind eye 装作没看见。英国海军将领Horatio Nelson有一只眼睛是瞎的，在1801年的一场海战中，英军总指挥HydeParker爵士命令英军撤退，但Horatio Nelson认为应该继续进攻，所以他故意将单筒望远镜放在那只瞎眼前并说没看到命令撤退的旗语。We shall not turn a blind eye to poverty anymore. ​​​​
+	4.  来自 PIE*okw,看，词源同 optical.asd
+	5. eye-popping
+		1. - adj. 使人瞠目的；惊人的
+		2. For sure, there is little shortage of **eye-popping** scenery around here /可以肯定的是，这里不缺乏令人着迷的景象。
+		3.  Dad's reprinting! " she told Harry, her eyes popping excitedly. " He can't believe it, he says people seem even more interested in this than the Crumple-Horned Snorkacks! " /“爸爸在重印了！”她兴奋地瞪大了眼睛说，“他不能相信，他说人们对这个似乎比对弯角鼾兽还感兴趣！”
+	6. eyesore
+		1. something very ugly and offensive
+		2. **unsightly**不悦目的;**nuisance**讨厌的东西;**unattractive**不吸引人的;**dilapidated**破旧的;**ugly**丑陋的;**hideous**可怕的;**disrepair**失修,破损;**blight**枯萎病;**derelict**玩忽职守的;**overgrown**长得很快;**redevelopment**恢复经济发展,重点恢复;
+		3. _n._ [ugliness](dic://ugliness)
+	7. etc.
 6. ogle
 	1. _v._ [look](dic://look)
 	2. **peruse**详细考察;**drool**流口水;**admiring**赞赏的，羡慕的;**stare**凝视，盯着看;**flaunt**炫耀;**wander**徘徊;**topless**上空的;**revel**狂欢;**naked**裸体的;**swoon**昏晕;**indulge**迁就;
