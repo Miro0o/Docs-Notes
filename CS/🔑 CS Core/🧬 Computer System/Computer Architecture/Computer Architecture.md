@@ -110,7 +110,7 @@ To control computer processors in a programmable way, knowledge about assembly l
 ↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
 
 #### 👉 Concurrency & Parallelism
-↗ [Parallel Computing & Multiprocessor Architectures](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Parallel%20Computing%20&%20Multiprocessor%20Architectures/Parallel%20Computing%20&%20Multiprocessor%20Architectures.md)
+↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 #### 👉 Abstraction & Encapsulation
 ↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](../Operating%20System%20(Theory%20Part)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
 ↗ [IO Generality (via Abstraction)](../Operating%20System%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)

@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [Operating System (Theory Part)](../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
+
+
 ### Courses & Books
 🏫 [UCB /CS161 Computer Security](../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
 🏫 [MIT /6.5660 Computer System Security](../../🏠%20Assets/Courses%20of%20Universities/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)

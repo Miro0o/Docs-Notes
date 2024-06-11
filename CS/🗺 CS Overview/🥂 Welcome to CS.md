@@ -3,5 +3,4 @@
 [TOC]
 
 
-Feel free to explore the world!
-
+**Don't Panic.** ——The Hitchhiker's Guide to the Galaxy

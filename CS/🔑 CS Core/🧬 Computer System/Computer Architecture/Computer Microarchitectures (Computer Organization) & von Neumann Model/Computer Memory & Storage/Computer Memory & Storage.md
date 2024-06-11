@@ -43,11 +43,11 @@ The way out of the above dilemma is to not rely on a single memory component or 
 
 The base types that normally constitute the hierarchical memory system include **registers**, **cache**, **main memory**, **secondary memory**, and o**ff-line bulk memory**.
 #### 0️⃣ Registers
-↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
+↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 #### 1️⃣ Cache Memory (高速缓存/ 主存和CPU之间的缓冲内存)
 Main memory is usually extended with a higher-speed, smaller cache. The cache is not usually visible to the programmer or, indeed, to the processor. It is a device for staging the movement of data between main memory and processor registers to improve performance.
 
-↗ [CPU Cache](../🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/CPU%20Cache.md)
+↗ [CPU Cache](../🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/CPU%20Cache.md)
 #### 2️⃣ Main Memory (Primary Memory)（主存）
 ↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 ##### 👻 Virtual Memory
@@ -94,7 +94,7 @@ There are three basic forms of locality:
 ## 🪠 Types of Memory & Storage (Engineering Level)
 ### 1️⃣ Volatile Memory (Registers /Cache Memory /Main Memory)
 #### Registers
-↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
+↗ [Register](../🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 #### RAM (Random Access Memory)
 > RAM is somewhat of a misnomer; a more appropriate name is read-write memory
 > 
@@ -127,7 +127,8 @@ There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory.
 
 
 ## Memory Organization & Access
-As in ↗ [Memory Access](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+↗ [Address Space](../../../Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
+↗ [Memory Access](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
 

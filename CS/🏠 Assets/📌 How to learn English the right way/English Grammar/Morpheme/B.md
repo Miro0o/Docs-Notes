@@ -3575,6 +3575,119 @@
 	3. iceberg
 
 
+### + \*bhes- +
+#### + \*bhes- (1) +
+#### + \*bhes- (2) +
+1. **psych-, psycho-** = soul, 表示“灵魂，心理，精神”。源自希腊语 psykhe "spirit, soul."
+	1. psyche
+		1. n. 灵魂, 精神, 普赛克(希腊神话中人类灵魂的化身)
+		2. psych-（心理）：爱上丘比特的少女普绪克  
+			4. 希腊神话中，普绪克（Psyche）是一名美貌的凡人少女。她长得如此美丽，以至于人们都认为她是爱神阿芙洛狄忒下凡，不再去供奉真正的阿芙洛狄忒了。阿芙洛狄忒十分气愤，就命令儿子厄洛斯下凡，用爱情之箭让普绪克爱上一名丑陋的怪兽。没想到厄洛斯一看到普绪克，惊为天人，竟然爱上了普绪克。厄洛斯杀死了怪兽，并让普绪克住在自己的神殿里，每天夜里与她幽会，但不许她点灯看见自己的脸。  
+			5. 普绪克的两个姐姐妒忌她，怂恿她偷看这个每天与自己幽会的男人。普绪克也按捺不住自己的好奇心，于是在一天夜里，乘厄洛斯熟睡后，偷偷点起油灯查看。当她看到与自己幽会的竟然是一个异常英俊的男人时，不由得心旌摇荡，溅出一滴油落在厄洛斯脸上。厄洛斯惊醒后大为恼怒，抛下普绪克飞走了。  
+			6. 失去爱人的普绪克后悔莫及，四处寻找爱人。后来，她来到了阿芙洛狄忒的神殿，成为了阿芙洛狄忒的奴隶。阿芙洛狄忒想出各种法子来刁难她，安排她去完成一些几乎不可能完成的任务，如把混在一起的谷物分开、从暴躁的绵羊上割取金羊毛、从恶龙守卫的山溪中汲水。但普绪克都在神灵的帮助下完成了这些任务。阿芙洛狄忒布置的最后一项任务是让她拿着一个黄金盒子，到冥后那里带回一盒子“美貌”。在回来的路上，虽然神灵一直在警告普绪克不要打开盒子，但她还是控制不住自己的好奇心，打开了盒子想看看里面装的到底是什么东西。没想到，从盒子里面出来的是冥界的睡眠鬼，它爬到普绪克身上，使她陷入了永远的沉睡之中。  
+			7. 最后，厄洛斯发现沉睡中的普绪克，原谅并解救了她。众神被她对厄洛斯执着的爱情感动了，赐予她一碗长生不老水，使她升天成仙，掌管“灵魂”，还与厄洛斯结成了夫妻。  
+			8. 普绪克的名字Psyche在希腊语中就是“灵魂”的意思。从她的名字中产生了表示“灵魂、精神、心理”的英语单词psyche和词根
+			9. psych-。  
+			10. psych-/psycho-：心理，精神，心智  
+			11. psyche：['saɪkɪ] n.灵魂、精神、心智  
+			12. psychology：[saɪ'kɒlədʒɪ] n.心理学，心理状态  
+			13. psychotic：[saɪ'kɒtɪk] adj.精神病的n.精神病人  
+			14. psychiatry：[saɪ'kaɪətrɪ]n.精神病学  
+			15. psychiatrist：[saɪ'kaɪətrɪst] n. 精神病学家，精神病医生  
+			16. psychic：['saɪkɪk] adj. 精神的；心灵的；灵魂的；超自然的n. 灵媒；巫师  
+			17. psychopathic： [,saɪkə'pæθɪk] adj. 精神病的；精神错乱的n. 精神变态者  
+			18. psychoanalysis： ['saɪkoə'næləsɪs] n. 精神分析；心理分析
+			19. psychical
+			20. psychics
+		3. [mind](dic://mind), [head](dic://head), [brain](dic://brain), [nous](dic://nous)
+		4. [soul](dic://soul)
+		5. _n._ [cognition](dic://cognition), [knowledge](dic://knowledge), [noesis](dic://noesis), [spirit](dic://spirit), [mythical being](dic://mythical being)
+		6. **subconscious**下意识的;**soul**灵魂;**consciousness**意识;**emotions**情绪;**ego**自我;**psychological**心理的;**ingrained**牢固的, 极难除掉的;**unconscious**失去知觉的;**psychologically**精神上地;**minds**思想;**perception**感知;
+		7. He psyched it all out by himself. /他自己对它完全以心理分析方法分析出来。
+		8. The coach psyched the team before the game. /教练在赛前使队员在心理上充分作好准备
+		9. Here we are, boys! Are you psyched or what? /兄弟们 就是这了 激不激动?
+		10. President Donald Trump says sports are good for the nation's psyche. /唐纳德·特朗普总统表示，体育运动对国家精神有益。
+		11. Don't let that psyche you out /不要让这种精神压力成为你的拖累。
+		12. On a psyche evaluation. For our own protection. /
+		13. psychedelia
+		14. psychedelic
+		15. psychic
+			1. a. 灵魂的, 精神的, 心灵的 
+			2. n. 巫师, 灵物, 心灵现象
+	2. psych
+		4. vt. 精神分析治疗, 使作好心理准备
+		5. 俚语，来自 psyche,灵魂，心理。常见于习语 psych someone out.
+	3. psychal
+	4. psycho
+		1. n. 心理分析, 精神神经病患者  
+		2. a. 精神变态的, 精神神经病的
+	5. psychoactive
+	6. psychoanalyze
+		1. psychoanalyse
+		2. psychoanalysis
+		3. psychoanalyst
+		4. psychoanalytic
+		5. psychoanalytical
+	7. psychochemistry
+	8. psychodrama
+	9. psychodynamic
+		1. psychodynamics
+	10. psychogenesis
+		1. psychogenisis
+	11. psychograph
+	12. psychokinesis
+	13. psychology
+	14. psychometry
+		1. psychomotor
+		2. psychometrics
+	15. psychooneurosis
+		1. psychoneurotic
+	16. psychopath
+		1. psychopathic
+		2. psychopathology
+		3. psychopathy
+		4. psychophysics
+	17. psychosurgery
+	18. psychophysiology
+	19. psychosomati
+	20. psychotechnology
+	21. psychotherapy
+		1. psychotherapist
+	22. psychotic
+		1. a. 精神病的  
+		2. n. 精神病患者
+	23. psychotropic
+		1. a. 治疗精神病的
+	24. neuro-psychic
+	25. panpsychism
+		1. n. [哲]泛心论, 万有精神论
+	26. psychiatry
+		1. n. 精神病学, 精神病治疗
+		2. psychiatrist
+		3. psychiatrics
+		4. psychiatrical
+		5. psychiatric
+			1. psychiatry【精神病学】 + -ic表形容词，是单词psychiatry 派生的形容词。
+			2. _adj._ 精神病学的;治疗精神病的
+			3. _adj._ [psychiatry](dic://psychiatry), [psychopathology](dic://psychopathology), [psychological medicine](dic://psychological medicine)
+			4. **psychiatry**精神病学;**mental**精神的;**psychiatrist**精神病专家, 精神病医生;**inpatient**住院病人;**psych**用精神分析治疗;**psychological**心理的;**psychosis**精神病;**schizophrenia**精神分裂症;**outpatient**门诊病人;**medical**医学的;**psychotherapy**精神疗法;
+			5. _psychiatric disorders_ 精神疾病
+			6. _psychiatric nursing_ 精神病护理
+			7. florid symptoms of psychiatric disorder. 充分显现的精神紊乱症状。
+			8. a community care programme for psychiatric patients /针对精神病患者的社区保健方案
+			9. The court has no power to order a psychiatric examination of the child’s parents. /法院无权要求对孩子的父母进行精神病检查。
+			10. Glen Gabbard, director of the psychiatric clinic at Baylor College of Medicine in Texas, studied hundreds of fictional film psychiatrists to co-write the book “Psychiatry and the Cinema”. /美国德州贝勒医学院（BaylorCollegeofMedicineinTexas）精神病临床主任葛琳·嘉宝（GlenGabbard）研究了数百名虚构影片精神病医师，并合著了《精神病学与电影（PsychiatryandtheCinema）》一书
+			11. Finally, psychiatric overtones refers to symptoms like a depressed mood and confusion. /最后，精神病预兆指的是抑郁情绪和精神错乱等症状。
+			12. He landed in a **psychiatric** ward /他住进了精神病病房。
+		7. orthopsychiatry
+		8. neuropsychiatry
+	27. psychosis
+	28. psychosocial
+	29. psychostimulant
+3. **psychr-** = code, 表示“冷”。来自希腊语。源自希腊语 psykhros "code."
+	1. todo..
+
+
 ### + \*bheudh- + = be aware, make aware
 1. **bid** = = to ask, to demand, to pray. 表示“要求, 请求, 祈祷”. 源自古英语 beodan "to proclaim."
 	1. bid

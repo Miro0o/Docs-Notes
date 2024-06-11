@@ -4094,8 +4094,29 @@
 1. **nub-, nupt-** = wedding, 表示“婚姻”。源自拉丁语 nubere "to marry, take a husband."
 	1. nuptial
 		1. 1 - 词源同 nubile,适婚的，婚姻的，-pt,过去分词后缀。
+		2. [bridal](dic://bridal), [spousal](dic://spousal)
+		3. _adj._ [wedding](dic://wedding), [wedding ceremony](dic://wedding ceremony), [nuptials](dic://nuptials), [hymeneals](dic://hymeneals)
+		4. **courtship**求爱;**wedding**结婚;**marital**婚姻的;**bride**新娘;**bridal**新娘的;**marriage**结婚;**mating**交配，交尾;**honeymoon**蜜月;**matrimonial**婚姻的;**wed**结婚;**rites**仪式;
+		5. nuptial plumage /婚羽。
+		6. moments of nuptial bliss. /幸福婚姻的美妙时刻。
+		7. What with pre-nuptial arrangements, palimony, child custody, we have become accustomed to the short-lived, high octane relationships on which glossy magazines feed. /婚前筹备，生活费，孩子的抚养权——对于这些八卦杂志热衷的短暂而充斥着火药味的关系，我们逐渐习以为常。
+		8. We are hear tonight to celebrate the upcoming nuptials of my best friend Howard Wolowitz. Hear! Hear! /今晚我们庆祝我的挚友，霍华德·沃洛维茨即将到来的婚礼。干杯，干杯！
+		9. But since the 1980s the extravagance of nuptials has matched the country's rise. /但自20世纪80年代起，国家的崛起开始带来婚礼的铺张。Though her nuptials were far from pleasing Antonia, Leonella's speedy return gave her Niece much delight. /虽然她的婚礼远非令安东尼娅高兴， 但莱昂内拉的迅速归来让她的侄女非常高兴。
 	2. prenuptial
 		1. pre-前 + nupt-婚姻 + -ial表形容词
+		2. adj. 婚礼前的；结婚前的；交配前的
+		3. _adj._ [wedding](dic://wedding), [wedding ceremony](dic://wedding ceremony), [nuptials](dic://nuptials), [hymeneals](dic://hymeneals)
+		4. **divorce**使离婚，使分离;**marriage**结婚;**marital**婚姻的;**spousal**婚礼;**wedding**结婚;**wed**结婚;**probate**遗嘱认证;**courtship**求爱;**honeymoon**蜜月;**matrimonial**婚姻的;**vows**婚誓;
+		5. prenuptial pregnancy. /未婚先孕。
+		6. Another problem is a prenuptial agreement signed under pressure. /另一个问题是出于压力而签订的婚前协议。
+		7. Protecting children from a previous marriage is a strong reason for prenuptial contracts. /保护前一次婚姻的孩子是签署婚前契约的一个重要原因。
+		8. But prenuptial agreements are also for lesser known, although wealthy, folks /但婚前协议也适用于那些不甚有名却很富有的人。
+		9. prenup
+			1. _n._ 〈美〉〈口〉婚前协议
+			2. Paul insists there's no **prenup** between him and Heather Mills. /保罗坚称他与海瑟•米尔斯之间没有婚前协议。
+			3. You know, when he was finalizing the prenup. /他敲定婚前协议的时候。
+			4. So you're saying if I became a famous movie star, we got married, you wouldn't sign a prenup? Absolutely not. /你是说，假如我成了电影明星，我们结婚的话，你不愿意签婚前协议? 当然签。
+			5. A local news report about a prenup and marriage breakup would make a fine satiric tale. /条关于婚前协议和婚姻破裂的当地新闻报导掀起一场讽刺风波。
 	3. connubial
 		1. 源自拉丁语 conubium "marriage," 词根组成：con-强调 + nub-婚姻 + -ial表形容词。
 		2. con-,表强调，-nub,婚姻，词源同 nubile,nuptial
@@ -5795,13 +5816,28 @@
 		8. _[built on stilts](dic://built%20on%20stilts)_  架空
 		9. _[walk on stilts](dic://walk%20on%20stilts)_  踩高跷
 	68. stoic, stolid (staid, 1. characterized by dignity and propriety)
-		1. [unemotional person](dic://unemotional person)
-		2. [stoical](dic://stoical)
-		3. _n._ [philosopher](dic://philosopher), [adult](dic://adult), [grownup](dic://grownup)
-		4. _adj._ [unemotional](dic://unemotional), [Stoicism](dic://Stoicism)
-		5. _n._ [emotional](dic://emotional)
-		6. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
-	69. store
+		1. stoic - 公元前308年左右，古希腊哲学家芝诺（Zeno of Citium, 336?-264?BC）创立了一个新的学派。其哲学体系以伦理学为中心，宣扬宿命论、神秘主义与禁欲主义，主张对神意与不可避免的命运无条件地屈从。  
+		2. 芝诺通常在雅典集市的画廊柱下讲学，人们称此地点为Stoā Poikilē 'Painted Portico'（有画的柱廊），因为那里的柱廊装饰着壁画。也正因为如此，这一派学者被称为Stoics（由拉丁语stōicus演化而来），汉语译为“画廊派”、“柱廊派”或音译作“斯多葛派”。由于这一派学者有高度自制力，不以苦乐为意，能忍受困苦与不幸而无怨言，所以到了16世纪首字母小写的stoic常用以喻指“恬淡寡欲的人”、“坚忍克己的人”或“禁欲主义者”；在用作形容词时，stoic表示“坚忍的”、“恬淡寡欲的”；从stoic派生的stoicism原指“斯多葛派”，而今则被赋予“坚忍”、“自制”、“禁欲”等义。
+		3. a. 斯多葛派的, 禁欲主义的, 不以苦乐为意的, 坚忍的, 淡泊的  
+		4. n. 斯多葛派学者, 画廊派的人, 禁欲主义者, 不介意苦乐的人, 高度自制的人
+		5. [unemotional person](dic://unemotional person)
+		6. [stoical](dic://stoical)
+		7. _n._ [philosopher](dic://philosopher), [adult](dic://adult), [grownup](dic://grownup)
+		8. _adj._ [unemotional](dic://unemotional), [Stoicism](dic://Stoicism)
+		9. _n._ [emotional](dic://emotional)
+		10. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
+		11. stoicism
+			1. [stolidity](dic://stolidity), [stolidness](dic://stolidness)
+			2. _n._ [unemotionality](dic://unemotionality), [emotionlessness](dic://emotionlessness), [philosophical doctrine](dic://philosophical doctrine), [philosophical theory](dic://philosophical theory)
+			3. **humility**谦卑，谦逊;**gentleness**温和;**fortitude**坚韧, 刚毅;**heroism**英勇，英雄气概;**cynicism**犬儒主义;**calmness**平静，安宁;**bravery**勇敢;**composure**镇静, 沉着;**indifference**不关心,不在乎;**poise**平衡;**resilience**弹回;
+			4. _[schools of stoicism](dic://schools%20of%20stoicism)_ 斯多亚学派 
+			5. They reacted to the appalling weather with typical British stoicism /他们忍受着恶劣天气的煎熬,表现了英国人典型的坚忍不拔的精神。
+			6. Stoicism , school of philosophy, founded in ancient Greece, opposed to Epicureanism in its views of life and duty. /斯多葛哲学，创立于古希腊，对生命和责任的看法和伊壁鸠鲁学说完全相反。
+			7. Extraordinary stoicism earned Gans his lasting popularity in America. /非凡的隐忍力使得Gans在美国的受欢迎程度长久不衰。
+			8. Meme bore up under the exhibitions with the same stoicism that she had dedicated to her apprenticeship /梅梅以她在学徒生涯中所献身的那种坚忍态度忍受着展览。
+		12. stoical
+			1. 
+	70. store
 		1. superstore
 		2. storewide
 		3. storethrough
@@ -5836,7 +5872,7 @@
 		23. megastore
 		24. drugstore
 		25. bookstore
-	70. stultify
+	71. stultify
 		1. [cripple](dic://cripple)
 		2. [prove](dic://prove), [demonstrate](dic://demonstrate), [establish](dic://establish), [show](dic://show), [shew](dic://shew), [ridicule](dic://ridicule), [roast](dic://roast)
 		3. stultification
@@ -5844,17 +5880,17 @@
 			2. _n._ [derision](dic://derision), [degradation](dic://degradation), [debasement](dic://debasement)
 			3. **stagnation**停滞;**malaise**不舒服;**alienation**离间,疏远;**apathy**冷漠，无兴趣，漠不关心;**tyranny**暴政;**complacency**自满;**boredom**厌倦;**disintegration**瓦解;**abject**卑贱的;**mediocrity**平庸,第二流;**preoccupation**全神贯注，入神;
 		5. **stifle**使窒息;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**deprive**使丧失，剥夺;**undermine**在某物下挖洞或挖通道;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**obstruct**阻塞;**compel**强迫，迫使;**impair**削弱;
-	71. varistor, 
-	72. armistice
+	72. varistor, 
+	73. armistice
 		1. _n._ [peace](dic://peace)
 		2. **truce**休战;**cease-fire**停火;**ceasefire**停火;**treaty**条约，协议;**surrender**投降;**agreement**协定, 协议, 契约;**disarmament**解除武装;**war**战争，斗争;**ultimatum**最后通牒;**stalemate**僵局;**pact**条约;
-	73. extant
+	74. extant
 		1. _adj._ [living](dic://living), [surviving](dic://surviving)
 		2. _n._ [extinct](dic://extinct), [nonextant](dic://nonextant)
 		3. **surviving**继续存在的;**earliest**最早;**unpublished**未出版的,未出版发行的;**preserved**保存的;**existent**生存者;**ancient**古代的;**extinct**灭绝的，绝种的;**manuscript**手稿, 原稿, 底稿;**remains**残余;**archaic**古代的;**exist**存在;
-	74. statin
+	75. statin
 		1. n. 他汀类药物；抑制素（statin的复数形式）；降低胆固醇药物
-	75. stet
+	76. stet
 		1. _v._ [invalidate](dic://invalidate), [annul](dic://annul), [quash](dic://quash), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify), [direct](dic://direct)
 		2. - v. 对……加注表示不删，保留 
 		3. n. 保留，不删
@@ -6818,9 +6854,31 @@
 ## su
 ### sug-, surrect- = to rise
 1. surge
+	1. n. 巨涌, 汹涌, 澎湃  
+	2. vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松  
+	3. vt. 使汹涌奔腾, 急放
+	4. su-=sub-下方 + rg-=reg-直 + -e。这个词的本义是“自下而上直直升起”，平静的水面骤然升高，巨浪便汹涌而来。
+	5. source [sɔːs] n.来源；水源；原始资料。它在法语里表示河流的源头，其实是单词surge [sɜːdʒ] n.汹涌；大浪；巨涌，v.汹涌的法语版。sur-表up from under,rg-表to rise up，所以source就是“水涌了上来”，那resource [rɪ'sɔːs] n.资源；办法；智谋，就同resurge [ri'sɝdʒ] vi.复活；再起。 
+	6. 来自拉丁语 surgere,上升，升起，缩写自 surrigere,来自 sur-,在下，向上，regere,拉直，升直，词源同 regulate,erect.引申词义涌动，浪涌，比喻义激增，飞涨。
+	7. surge pricing (dynamic pricing)​​​​
+		1. - 动态定价，也称需求定价或基于时间的定价。这是一种收入管理定价策略，企业根据当前市场需求设置灵活的产品或服务价格
+		2. The comparison may overstate the power of surge pricing. /这个对比可能夸大了峰时价格机制的作用。
+		3. Well, now, restaurants are experimenting with surge pricing too. /现在，餐馆也在尝试动态定价。
+		4. We'll hear from our correspondent about shortages and surging prices. /来听一下我们的记者关于短缺和价格飙升的报道。
+		5. When demand in an area spikes and the waiting time for a car rises, **surge** **pricing** kicks in; /当需求在某个地区急剧上涨，以及等待时长增加，动态定价策略就发挥作用了；
 2. sortie
-3. source
-4. insurrection
+	1. n. 出击，突围；（短暂）出门，外出；尝试参与 
+	2. vi. 突围，反守为攻
+	3. [sally](dic://sally)
+	4. _n._ [military action](dic://military action), [action](dic://action), [flight](dic://flight), [flying](dic://flying)
+	5. **reconnaissance**侦察;**squadron**中队;**bombardment**炮击;**rendezvous**约会;**convoy**护航队;**Luftwaffe**德国空军;**airfield**飞机场;**ambush**埋伏，伏击;**attack**攻击;**raid**袭击;**skirmish**小冲突，小规模战斗;
+	6. His first sortie into the world of film-making wasn’t very successful /他初次涉足影坛时, 不太成功。
+	7. Caspian and other captains of course made many sorties into the open country. /凯斯宾和他的部将们也曾向平原发动了几次反击。
+	8. One estimate is that NATO's nearly 8,000 strike sorties killed fewer than a dozen civilians. /有人估计北约近8000架次的行动造成的平民死亡人数不足12人。
+	9. Now you do one sortie you're exhausted, you're soaking wet. /现在你做了一次出击你就筋疲力尽了，你全身湿透了。
+	10. The US Air Force flew no less than 25 sorties over the area over the next few weeks to collect atmospheric samples. /在接下来的几周内，美国空军在该地区出动了不少于 25 架次，以收集大气样本。
+4. source
+5. insurrection
 	1. [rebellion](dic://rebellion), [revolt](dic://revolt), [rising](dic://rising), [uprising](dic://uprising)
 	2. _n._ [conflict](dic://conflict), [struggle](dic://struggle), [battle](dic://battle)
 	3. **revolt**反抗;**rebellion**叛乱;**uprising**起义;**mutiny**兵变;**insurgency**叛乱,叛乱状态;**overthrow**打倒;**unrest**不安;**secession**脱离;**rioting**暴乱;**riots**暴动;**rebels**反叛者;
@@ -6857,6 +6915,7 @@
 	2. _n._ [assets](dic://assets), [asset](dic://asset), [plus](dic://plus), [inventiveness](dic://inventiveness), [ingeniousness](dic://ingeniousness), [ingenuity](dic://ingenuity), [cleverness](dic://cleverness)
 	3. **resources**资源;**allocation**配给, 分配, 拨出;**utilization**利用;**invaluable**无法估计的, 非常宝贵的;**tool**工具，用具;**repository**仓库，贮藏室，存放处;**asset**资产;**source**来源;**valuable**贵重的;**information**消息;**handbook**手册;
 11. assurgent
+	1. adj. 上升的；斜上性的（等于 ascending）
 
 
 ### + \*(e)su- + = good

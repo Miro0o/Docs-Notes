@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Script Management](🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20Management.md)
+↗ [Script & Add-ons Management](🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
 ↗ [Shell & Script Programming](../🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
 
 ↗ [Browsers](Browsers.md)
@@ -22,7 +22,7 @@ User scripts put you in control of your browsing experience. Once installed, the
 
 ### How to use a user script?
 1. Step 1: install a user script manager
-	1. ↗ [Script Management](🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20Management.md)
+	1. ↗ [Script & Add-ons Management](🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
 	2. etc.
 2. Step 2: install a user script
 	1. https://greasyfork.org/en/scripts

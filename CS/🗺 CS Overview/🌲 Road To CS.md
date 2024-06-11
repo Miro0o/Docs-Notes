@@ -80,6 +80,8 @@ https://github.com/hoochanlon/hamulete/tree/master
 - [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 - [xy problem](https://xyproblem.info)
 
+🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
+
 ↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 

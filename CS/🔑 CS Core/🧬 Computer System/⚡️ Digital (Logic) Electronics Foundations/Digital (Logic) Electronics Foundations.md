@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Boolean Algebra](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧊%20Algebra/Boolean%20Algebra/Boolean%20Algebra.md)
-↗ [Physics For CS](../🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
+↗ [Physics For CS](🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
 ↗ [Theory of Computation](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [HDLs (Hardware Definition Languages)](../../../Embedded%20&%20Internet%20of%20Things/HDLs%20(Hardware%20Definition%20Languages)/HDLs%20(Hardware%20Definition%20Languages).md)

@@ -2477,6 +2477,27 @@
 
 ### + \*ghrendh- + 
 1. **chondr-** = cartilage, 表示“软骨；颗粒”。源自希腊语 khondros "granule, groats," hence "cartilage."
+	1. chondrite
+		1. n. 球粒状陨石
+	2. chondrine
+		1. chondr-软骨 + -ine
+	3. chondrocranium
+		1. chondro-软骨 + cran-颅 + -ium
+	4. hypochondria
+		1. n. 疑病症（过度担忧个人健康问题，通常集中于某些特定的症状，比如心脏或者胃部不适）
+		2. _n._ [anxiety](dic://anxiety), [anxiousness](dic://anxiousness)
+		3. **paranoia**偏执狂，妄想狂;**neurotic**神经过敏的;**hysteria**不正常的兴奋;**anxiety**焦虑;**narcissism**自恋，自我陶醉;**depression**沮丧;**illness**疾病;**ailment**小病;**psychosis**精神病;**phobia**恐惧症;**symptoms**病徵;
+		4. You see, they were both right, and so they stood their ground. Over the years, my mothers hypochondria only intensified, and my paren'ts fighting followed /你看 他们都是对的 所以他们坚持自己的立场 多年来 我母亲的疑病症愈演愈烈 我父母的争吵也随之而来 苏。
+		5. Howie, this is just your hypochondria. /华仔 这只是你的臆想病犯了。
+		6. We tend to think of **hypochondria** as a kind of selfishness. /我们倾向于将强迫症视为某种自私的表现。
+		7. hypochondriac
+			1. 来自 hypochondria,疑心病，疑病症。
+	6. chondrinosome
+		1. chondrino-颗粒 + some-身体
+	7. mitochondria
+		1. mito-线 + chondr-颗粒 + -ia
+		2. mitochondrion
+		3. mitochondrial
 2. **fren-** = = curb，表示“控制、限制”。源自拉丁语 frendere "to grind."
 	1. frenum
 	2. refrain

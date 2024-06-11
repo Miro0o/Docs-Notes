@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+↗ [Digital (Logic) Electronics Foundations](../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 
 
@@ -38,7 +40,7 @@ One tape might contain several jobs. This allowed the mainframe CPU to continual
 - Timers were added to jobs to allow for brief interruptions so the monitor could send pending I/O to the tape units. This allowed I/O and CPU computations to occur in parallel.
 
 This process, prevalent in the late 1960s to late 1970s, was known as **Simultaneous Peripheral Operations On-Line**, or **SPOOLing**, and it is ==the simplest form of multiprogramming==. The word has stuck in the computer lexicon, but its contemporary meaning refers to printed output that is written to disk prior to being sent to the printer.
-##### Multiprogramming Systems and Operating Systems
+##### Multiprogramming Systems and Operating Systems (OS Concepts Proposed) 👈👈👈
 **Multiprogramming systems** (established in the late 1960s and continuing to the present day) extend the idea of spooling and batch processing to allow several executing programs to be in memory concurrently. This is achieved by cycling through processes, allowing each one to use the CPU for a specific slice of time. 
 
 Monitors were able to handle multiprogramming to a certain extent. They could start jobs, spool operations, perform I/O, switch between user jobs, and give some protection between jobs. It should be clear, however, that the monitor’s job was becoming more complex, necessitating software that was more elaborate. It was at this point that monitors evolved into the software we now know as **operating systems**.
@@ -48,18 +50,19 @@ Terminals were connected to systems that allowed access by multiple concurrent u
 In a time-sharing system, the CPU switches between user sessions very quickly, giving each user a small slice of processor time. This procedure of switching between processes is called **context switching**. The operating system performs these context switches quickly, in essence giving the user a personal virtual machine.
 ##### Time-sharing OS 🆚 Multiprogramming
 
-| S.No. | TIME SHARING | MULTIPROGRAMMING |
-|-|-|-|
-| 01. | Time Sharing is the logical extension of multiprogramming, in this time sharing Operating system many users/processes are allocated with computer resources in respective time slots. | Multiprogramming operating system allows to execute multiple processes by monitoring their process states and switching in between processes. |
-|02.|Processors time is shared with multiple users that’s why it is called as time sharing operating system.|Processor and memory underutilization problem is resolved and multiple programs runs on CPU that’s why it is called multiprogramming.|
-|03.|In this process, two or more users can use a processor in their terminal.|In this, the process can be executed by a single processor.|
-|04.|Time sharing OS has fixed time slice.|Multi-programming OS has no fixed time slice.|
-|05.|In time sharing OS system, execution power is taken off before finishing of execution.|In multi-programming OS system before finishing a task the execution power is not taken off.|
-|06.|Here the system works for the same or less time on each processes.|Here the system does not take same time to work on different processes.|
-|07.|In time sharing OS system depends on time to switch between different processes.|In Multiprogramming OS, system depends on devices to switch between tasks such I/O interrupts etc.|
-|08.|System model of time sharing system is multiple programs and multiple users.|System model of multiprogramming system is multiple programs.|
-|09.|Time sharing system minimizes response time.|Multiprogramming system maximizes processor use.|
-|10.|Example: Windows NT.|Example: Mac OS.|
+| S.No. | TIME SHARING                                                                                                                                                                          | MULTIPROGRAMMING                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01.   | Time Sharing is the logical extension of multiprogramming, in this time sharing Operating system many users/processes are allocated with computer resources in respective time slots. | Multiprogramming operating system allows to execute multiple processes by monitoring their process states and switching in between processes. |
+| 02.   | Processors time is shared with multiple users that’s why it is called as time sharing operating system.                                                                               | Processor and memory underutilization problem is resolved and multiple programs runs on CPU that’s why it is called multiprogramming.         |
+| 03.   | In this process, two or more users can use a processor in their terminal.                                                                                                             | In this, the process can be executed by a single processor.                                                                                   |
+| 04.   | Time sharing OS has fixed time slice.                                                                                                                                                 | Multi-programming OS has no fixed time slice.                                                                                                 |
+| 05.   | In time sharing OS system, execution power is taken off before finishing of execution.                                                                                                | In multi-programming OS system before finishing a task the execution power is not taken off.                                                  |
+| 06.   | Here the system works for the same or less time on each processes.                                                                                                                    | Here the system does not take same time to work on different processes.                                                                       |
+| 07.   | In time sharing OS system depends on time to switch between different processes.                                                                                                      | In Multiprogramming OS, system depends on devices to switch between tasks such I/O interrupts etc.                                            |
+| 08.   | System model of time sharing system is multiple programs and multiple users.                                                                                                          | System model of multiprogramming system is multiple programs.                                                                                 |
+| 09.   | Time sharing system minimizes response time.                                                                                                                                          | Multiprogramming system maximizes processor use.                                                                                              |
+| 10.   | Example: Windows NT.                                                                                                                                                                  | Example: Mac OS.                                                                                                                              |
+|       |                                                                                                                                                                                       |                                                                                                                                               |
 
 
 
@@ -75,7 +78,6 @@ Typically, in a multiprocessing environment, the CPUs cooperate with each other 
 Distributed systems can be viewed in two different ways. 
 
 A distributed collection of workstations on a LAN, each with its own operating system, is typically referred to as a **networked system**. These systems were motivated by a need for multiple computers to share resources. 
-
 - A **networked operating system** includes the necessary **provisions**, such as remote command execution, remote file access, and remote login, to attach machines to the network. User processes also have the ability to communicate over the network with processes on other machines. 
 
 - **Networked file systems** are one of the most important applications of networked systems. These allow multiple machines to share one logical file system, although the machines are located in different geographical locations and may have different architectures and unrelated operating systems. Synchronization among these systems is an important issue, but communication is even more important, because this communication may occur over large networked distances. 

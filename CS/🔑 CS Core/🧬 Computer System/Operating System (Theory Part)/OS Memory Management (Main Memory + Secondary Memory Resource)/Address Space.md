@@ -6,13 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Memory Access](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+↗ [Memory Access](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
-↗ [Memory Attack](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Memory%20Attack.md)
+↗ [Memory Threats](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Memory%20Threats.md)
 - ↗ [Stack](../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Queue%20&%20Stack/Stack.md)
-	- ↗ [Stack Attack](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Stack%20Attack/Stack%20Attack.md)
+	- ↗ [Stack Attack](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Stack%20Attack/Stack%20Attack.md)
 - ↗ [Heap](../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Basic%20Tree%20&%20Derivatives/Heap.md)
-	- ↗ [Heap Attack](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Heap%20Attack/Heap%20Attack.md)
+	- ↗ [Heap Attack](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Heap%20Attack/Heap%20Attack.md)
+↗ [Memory Protection Mechanism](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Protection%20Mechanism/Memory%20Protection%20Mechanism.md)
 
 
 

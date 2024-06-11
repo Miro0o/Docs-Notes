@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Procedure & Function Call](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Procedure%20&%20Function%20Call/Procedure%20&%20Function%20Call.md)
+↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 ↗ [Local Procedure Call (LPC)](../../../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Local%20Procedure%20Call%20(LPC).md)
 
 

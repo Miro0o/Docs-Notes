@@ -4,11 +4,12 @@
 
 
 
+## Res
 
-![](../../../Assets/Pics/cowsay.png)
 
 
 ## Intro
+![](../../../Assets/Pics/cowsay.png)
 
 The full list of the content of this tutorial is as below: 
 - [Meta](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md#meta)
@@ -34,6 +35,7 @@ The full list of the content of this tutorial is as below:
 - [Data Science at the Command Line](http://datascienceatthecommandline.com/#tools): More commands and tools helpful for doing data science, from the book of the same name
 
 
+
 ## Some Excerptions 
 ### macOS only
 These are items relevant *only* on macOS.
@@ -46,3 +48,6 @@ These are items relevant *only* on macOS.
 - Be aware macOS is based on BSD Unix, and many commands (for example `ps`, `ls`, `tail`, `awk`, `sed`) have many subtle variations from Linux, which is largely influenced by System V-style Unix and GNU tools. You can often tell the difference by noting a man page has the heading "BSD General Commands Manual." In some cases GNU versions can be installed, too (such as `gawk` and `gsed` for GNU awk and sed). If writing cross-platform Bash scripts, avoid such commands (for example, consider Python or `perl`) or test carefully.
 - To get macOS release information, use `sw_vers`.
 
+
+
+## Ref

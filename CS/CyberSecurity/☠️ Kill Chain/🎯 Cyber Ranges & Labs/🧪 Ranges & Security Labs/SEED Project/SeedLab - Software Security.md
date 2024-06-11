@@ -8,7 +8,7 @@
 
 
 ## 👉 Buffer_Overflow_Server
-↗ [Stack Overflow](../../../../System%20Security/Operating%20System%20Security/Memory%20Attack/Stack%20Attack/Stack%20Overflow/Stack%20Overflow.md)
+↗ [Stack Overflow](../../../../System%20Security/Operating%20System%20Security/Memory%20Threats/Stack%20Attack/Stack%20Overflow/Stack%20Overflow.md)
 
 
 [(SEED-Lab)Buffer Overflow Vulnerability Lab缓冲区溢出 ｜ CSDN]: https://blog.csdn.net/qq_51927659/article/details/122765712

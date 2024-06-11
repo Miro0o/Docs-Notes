@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [MMU (Memory Management Unit)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/MMU%20(Memory%20Management%20Unit).md)
+↗ [MMU (Memory Management Unit)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/MMU%20(Memory%20Management%20Unit).md)
 
 
 

@@ -10,7 +10,7 @@ Go to ↗ [von Neumann Arch /Memory](../../../🔑%20CS%20Core/🧬%20Computer%2
 And maybe ↗ [8086 ASM](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
 
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+↗ [Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
 
@@ -92,7 +92,7 @@ Accumulator architectures such as MARIE, with one operand implicitly in the accu
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
 > ↗ [Instruction Formats /Instruction length](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Formats.md)
-> ↗ [Memory /Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+> ↗ [Memory /Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 
 

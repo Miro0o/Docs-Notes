@@ -9,7 +9,7 @@
 ↗ [Microchips, Chips, Computer Chips & IC (in General)](../../📌%20Computer%20Organization%20&%20Architecture%20Basics/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
 ↗ [Digital (Logic) Electronics Foundations](../../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
-↗ [CPU (Central Processing Unit)](Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [CPU (Central Processing Unit)](📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Embedded Hardwares & Chips](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)
 - ↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
 - [Single-Board Computer (SBC)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
@@ -49,13 +49,13 @@ Traditional processors are typically based on silicon; however, researchers have
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-28%20at%209.35.38%20PM.png)
 
-↗ [Microprocessors Unit (MPU)](Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
+↗ [Microprocessors Unit (MPU)](📌%20Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
 ↗ [Microcontrollers (MCU)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Standardized%20Processors%20(off-the-shelf)/📌%20Microcontrollers%20(MCU)/Microcontrollers%20(MCU).md)
 ↗ [Single-Board Computer (SBC)](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
 
 
 ### Microprocessor (MPU)
-↗ [Microprocessors Unit (MPU)](Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
+↗ [Microprocessors Unit (MPU)](📌%20Microprocessors%20Unit%20(MPU)/Microprocessors%20Unit%20(MPU).md)
 #### Multiprocessor & Multicore Organization
 ↗ [Multiprocessors and Multicore Processors](Multiprocessors%20and%20Multicore%20Processors/Multiprocessors%20and%20Multicore%20Processors.md)
 

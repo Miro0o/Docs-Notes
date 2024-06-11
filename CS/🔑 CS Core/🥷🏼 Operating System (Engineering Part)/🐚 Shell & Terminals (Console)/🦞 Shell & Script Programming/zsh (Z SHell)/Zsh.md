@@ -37,8 +37,8 @@
 
 
 ## Zsh Themes /Frameworks
-↗ [oh-my-zsh](../../Shell%20Helper/Shell%20Script%20Manager%20&%20Framework/oh-my-zsh.md)
-↗ [Powerlevel10k](../../Shell%20Helper/Shell%20Themes/Powerlevel10k.md)
+↗ [oh-my-zsh](../🧑‍🍳%20Shell%20Helper/Shell%20Script%20Manager%20&%20Framework/oh-my-zsh.md)
+↗ [Powerlevel10k](../🧑‍🍳%20Shell%20Helper/Shell%20Themes/Powerlevel10k.md)
 
 
 

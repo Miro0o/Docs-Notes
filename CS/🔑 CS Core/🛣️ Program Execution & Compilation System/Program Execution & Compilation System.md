@@ -96,17 +96,17 @@ However, there are some important reasons why programmers need to understand how
 
 ### 4️⃣ Execution (Runtime)
 ↗ [ISA /Instruction Basics](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Basics.md)
-↗ [ISA /Instruction Execution](🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
+↗ [ISA /Instruction Execution](🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.05.51%20AM.png)
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
 
-↗ [von Neumann Based Microarchitecture /Memory Access](🧙🏿‍♀️%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
-↗ [System Security /Memory Attack](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Attack/Memory%20Attack.md)
+↗ [von Neumann Based Microarchitecture /Memory Access](🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+↗ [System Security /Memory Attack](../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Memory%20Threats.md)
 
-↗ [Execution (Runtime)](🧙🏿‍♀️%20Execution%20(Runtime)/Execution%20(Runtime).md)
+↗ [Program Execution (Runtime)](🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)
 ↗ [Application Runtimes & SDKs](../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
 
 ↗ [Operating System (Theory Part)](../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)

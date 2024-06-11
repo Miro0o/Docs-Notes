@@ -9,6 +9,7 @@
 ↗ [Files Management](../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Files%20Management.md)
 ↗ [Knowledge Management](../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Knowledge%20Management/Knowledge%20Management.md)
 
+↗ [Commands CheatCheet & Online Search](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Commands%20CheatCheet%20&%20Online%20Search.md)
 ↗ [Dash](../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Dash.md)
 
 
@@ -17,7 +18,7 @@
 How to get docs & cheat sheets about a given command? There are a lot!
 
 For built-in support, there are `man`, `info`, `apropos`, etc.
-For online cheat sheets, ↗ [Cheat.sh](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Cheat.sh.md), ↗ [explainshell](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/explainshell.md), ↗ [oh-my-zsh](../../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20Helper/Shell%20Script%20Manager%20&%20Framework/oh-my-zsh.md), and many more!
+For online cheat sheets, ↗ [Cheat.sh](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Cheat.sh.md), ↗ [explainshell](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/explainshell.md), ↗ [oh-my-zsh](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Shell%20Script%20Manager%20&%20Framework/oh-my-zsh.md), and many more!
 For emulator support, there are many emulators that integrate AI support for commands how-to, like ↗ [warp](../../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/warp.md)!
 
 
