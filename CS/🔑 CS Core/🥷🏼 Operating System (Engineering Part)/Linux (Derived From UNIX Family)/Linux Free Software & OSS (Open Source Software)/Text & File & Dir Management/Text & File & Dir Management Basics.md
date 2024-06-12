@@ -10,6 +10,8 @@
 ↗ [Awesome CLI Integration](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 ↗ [Awesome Text Processing & Data Manipulation](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Text%20Processing%20&%20Data%20Manipulation.md)
 
+↗ [Files Management](../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Files%20Management.md)
+
 
 
 ## File & Directory Management Basics
@@ -156,3 +158,22 @@ certutil -hashfile \<filename\> [md5]
 
 ## Ref
 [👍 Linux Cygwin知识库（二）：目录、文件及基本操作]: https://silaoa.github.io/2019/2019-05-04-Linux%20Cygwin知识库（二）：目录、文件及基本操作.html
+
+[How to Copy a File to Multiple Directories in Linux | geeksforgeeks]: https://www.geeksforgeeks.org/how-to-copy-a-file-to-multiple-directories-in-linux/
+```shell
+# use xargs
+xargs -n 1 cp -v xyz.txt<<<"dir1 dir2 /home/kalilinux/dir3" 
+echo "dir1 dir2 /home/kalilinux/dir3" | xargs -n 1 cp -v xyz.txt
+
+# use find
+find dir1 dir2 /home/kalilinux/dir3 -maxdepth 0 -exec cp xyz.txt {} \;
+
+# use shell loop
+for dest in dir1 /home/kalilinux/dir2 /home/kalilinux/dir3 ; do cp -v xyz.txt “$dest” ; done
+
+# use tee
+tee /home/kalilinux/dir1/xyz.txt /home/kalilinux/dir2/xyz.txt /home/kalilinux/dir3/xyz.txt< xyz.txt
+
+# use GNU parallel
+parallel cp -v xyz.txt ::: /home/kalilinux/dir1 /home/kalilinux/dir2 dir3
+```

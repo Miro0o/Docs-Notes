@@ -138,3 +138,16 @@ nc -n
 
 
 [netcat nc: getnameinfo: Temporary failure in name resolution]: https://unix.stackexchange.com/questions/592086/netcat-nc-getnameinfo-temporary-failure-in-name-resolution
+
+
+
+## 👉 Linux Kernel `Insmod` Failed: Version Magic ... Should Be ... | Invalid Module Format
+#linux_kernel #ismod #Version_magic
+
+
+
+[Error building linux kernel module (Invalid module format) ]:https://www.linuxquestions.org/questions/linux-kernel-70/error-building-linux-kernel-module-invalid-module-format-4175704765/
+
+[How to add SMP and Preempt in Kernel module version magic? | StackOveflow]: https://stackoverflow.com/q/55925642
+
+Check whether `CONFIG_PREEMPT` and `CONFIG_SMP` is enabled in the kernel config of the kernel which you are using to compile your kernel module. Enable it in your kernel and then recompile your module using this config.

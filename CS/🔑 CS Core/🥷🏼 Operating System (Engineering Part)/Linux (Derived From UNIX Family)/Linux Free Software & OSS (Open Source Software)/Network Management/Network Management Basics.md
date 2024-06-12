@@ -162,6 +162,19 @@ ip r help
 
 #### 👉 `bind9` | `dnsutils`
 
+#### 👉 `ethtools`
+
+#### 👉 `lspci`
+
+[PCIe网卡查看工具 | Cnblog]: https://www.cnblogs.com/codestack/p/14042843.html
+
+首先在x86系统中PCIe支持256个Bus， 每条Bus支持32个Device， 每个Device支持8个Function，所以PCIe设备关键信息组成为：DBDF(Domain,Bus,Deivce,Function)
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020240611095255.png)
+
+#### 👉 `dmidecode`
+↗ [📌 Computer Profiling & System Visibility](../Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md)
+
 
 ### Network Usage
 #### 👉 `nethogs`

@@ -6,6 +6,8 @@
 
 ## How-To
 ### 👉 Start a http server using python module http.server
+#python_http_server
+
  [Python_使用python快速启用HTTP服务器](https://www.cnblogs.com/testlearn/p/16072669.html) 
 
 ```shell
@@ -14,6 +16,8 @@ python -m http.server [port] [-d server-dir]
 
 
 ### 👉 Generating `requirement.txt`
+#requirement_txt #python 
+
 ```shell
 $ pip freeze > requirements.txt
 
@@ -29,6 +33,7 @@ $ pipreqs . --encoding=utf8--force
 
 
 ### 👉 求模逆元
+#python #inverse_element
 ``` python 
 pow(a, -1, m)
 
@@ -46,6 +51,7 @@ print(invert(3,7))  #3是要求逆元的数，7是模数
 
 
 ### 👉 数字进制转换，数字-字符转换
+#python #math 
 
 ```python
 # 字符 -> 字符ascii 码 （int类型，10进制）
@@ -87,6 +93,7 @@ print bytes(b'\x31\x32\x65').decode('ascii')
 
 
 ### 👉 What is `PYTHONPATH` and how to set it
+#python #PYTHONPATH
 
 in terminal:
 ```shell
@@ -102,6 +109,8 @@ import sys sys.path.append('/home/ershisui/')
 
 
 ### 👉 Convert Bytes to String 
+#python #string 
+
 Different ways to convert Bytes to string in Python:
 - Using [decode()](https://www.geeksforgeeks.org/python-strings-decode-method/) method
 - Using [str()](https://www.geeksforgeeks.org/python-str-function/) function
@@ -114,6 +123,8 @@ Different ways to convert Bytes to string in Python:
 
 
 ### 👉 命令行传参数
+#python #cmdline
+
 **1️⃣ sys.argv**
 
 sys模块是很常用的模块， 它封装了与python解释器相关的数据，例如sys.modules里面有已经加载了的所有模块信息，sys.path里面是PYTHONPATH的内容，而sys.argv则封装了传入的参数数据。 
@@ -283,6 +294,8 @@ run( main=None, argv=None )
 
 
 ### 👉 几种Python执行时间的计算方法
+#python #time
+
 https://blog.csdn.net/wangshuang1631/article/details/54286551
 
 ```python
@@ -311,24 +324,53 @@ print end-start
 
 
 ### 👉 Read Dictionary from File in Python
+#python #file #syntax 
 
 [How to read Dictionary from File in Python? | Geeksforgeeks]: https://www.geeksforgeeks.org/how-to-read-dictionary-from-file-in-python/
 
 
 ### 👉 numpy & array
+#python #numpy #syntax 
 
 
 [numpy数组初始化方法总结]: https://blog.csdn.net/m0_37602827/article/details/93595325
 
 
+### 👉 How do I find the location of Python module (downloading) sources?
+#python #module
+
+I realize this answer is 4 years late, but the existing answers are misleading people.
+
+The right way to do this is never `__file__`, or trying to walk through `sys.path` and search for yourself, etc. (unless you need to be backward compatible beyond 2.1).
+
+It's the [`inspect`](http://docs.python.org/library/inspect.html) module—in particular, `getfile` or `getsourcefile`.
+
+Unless you want to learn and implement the rules (which are documented, but painful, for CPython 2.x, and not documented at all for other implementations, or 3.x) for mapping `.pyc` to `.py` files; dealing with .zip archives, eggs, and module packages; trying different ways to get the path to `.so`/`.pyd` files that don't support `__file__`; figuring out what Jython/IronPython/PyPy do; etc. In which case, go for it.
+
+Meanwhile, every Python version's source from 2.0+ is available online at `http://hg.python.org/cpython/file/X.Y/` (e.g., [2.7](http://hg.python.org/cpython/file/2.7/) or [3.3](http://hg.python.org/cpython/file/3.3/)). So, once you discover that `inspect.getfile(datetime)` is a `.so` or `.pyd` file like `/usr/local/lib/python2.7/lib-dynload/datetime.so`, you can look it up inside the Modules directory. Strictly speaking, there's no way to be sure of which file defines which module, but nearly all of them are either `foo.c` or `foomodule.c`, so it shouldn't be hard to guess that [datetimemodule.c](http://hg.python.org/cpython/file/2.7/Modules/datetimemodule.c) is what you want.
+
+---
+If you're using pip to install your modules, just `pip show $module` the location is returned.
+
+---
+Another way to check if you have multiple python versions installed, from the terminal.
+
+```shell
+$ python3 -m pip show pyperclip
+$ python -m pip show pyperclip
+```
+
+[How do I find the location of Python module sources? | StackOverflow]: https://stackoverflow.com/q/269795
+
+
 
 ## What-is
 ### 👉 [Difference between open and codecs.open in Python](https://stackoverflow.com/questions/5250744/difference-between-open-and-codecs-open-in-python)
-#python #codec 
+#python #codec #syntax 
 
 
 ### 👉 [Difference between 'cls' and 'self' in Python classes?](https://stackoverflow.com/questions/4613000/difference-between-cls-and-self-in-python-classes)
-#python #cls
+#python #cls #syntax 
 
 The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.python.org/dev/peps/pep-0008/#function-and-method-arguments) . As Adrien said, this is not mandatory. It's a coding style. `PEP 8` says:
 
@@ -340,19 +382,21 @@ The distinction between `"self"` and `"cls"` is defined in [`PEP 8`](http://www.
 
 
 ### 👉 Assert, isinstance
-#python 
+#python #assert #isinstance #syntax 
 
 [python中assert、isinstance的用法]: https://blog.csdn.net/qiqicos/article/details/78993748
 [Python assert isinstance() Vector]: https://stackoverflow.com/questions/47268107/python-assert-isinstance-vector
 
 
 ### 👉 Operator overloading
-#python 
+#python #operator_overload #syntax 
 
 [浅析Python运算符重载](https://blog.csdn.net/goodlixueyong/article/details/52589979)
 
 
 ### 👉 pyhon is & ==
+#python #equation #syntax 
+
 https://www.runoob.com/note/24872
 
 is 判断两个变量是否是引用同一个内存地址。
@@ -363,7 +407,7 @@ is 判断两个变量是否是引用同一个内存地址。
 
 
 ### 👉 What does the 'b' character do in front of a string literal?
-#python 
+#python #string #syntax 
 
 [Python 3.x](http://www.diveintopython3.net/strings.html) makes a clear distinction between the types:
 - `str` = `'...'` literals = a sequence of Unicode characters (Latin-1, UCS-2 or UCS-4, [depending on the widest character in the string](https://www.python.org/dev/peps/pep-0393/))
@@ -422,7 +466,7 @@ False
 
 
 ### 👉 Variable scope (global variable & local variable) | `UnboundLocalError`
-#python 
+#python #variable 
 
 Python doesn't have variable declarations, so it has to figure out the [scope](http://docs.python.org/3.3/tutorial/classes.html#python-scopes-and-namespaces) of variables itself. It does so by a simple rule: If there is an assignment to a variable inside a function, that variable is considered local.[[1]](http://docs.python.org/3.3/faq/programming.html#what-are-the-rules-for-local-and-global-variables-in-python) Thus, the line
 ```python
@@ -438,8 +482,9 @@ If `counter` is a global variable, the [`global`](http://docs.python.org/3.3/
 
 
 
-
 ## 👉 case/match expression
-
+#python #syntax
 
 [How to use multiple cases in Match (switch in other languages) cases in Python 3.10]: https://stackoverflow.com/questions/69642889/how-to-use-multiple-cases-in-match-switch-in-other-languages-cases-in-python-3
+
+

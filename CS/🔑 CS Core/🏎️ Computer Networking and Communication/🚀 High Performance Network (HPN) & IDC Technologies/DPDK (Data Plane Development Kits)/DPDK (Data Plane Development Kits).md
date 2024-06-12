@@ -114,3 +114,5 @@ The DPDK uses the Open Source BSD-3-Clause license for the core libraries and dr
 ![](../../../../../Assets/Pics/Pasted%20image%2020240606100215.png)
 
 [👍 DPDK 初学者入门必读]: https://www.xiexianbin.cn/sdn/dpdk/must-read-for-dpdk-beginner/index.html
+
+[👍 linux源码解读（三十二）：dpdk核心源码解析（二） | Cnblog]: https://www.cnblogs.com/theseventhson/p/16038708.html

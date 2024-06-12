@@ -5,6 +5,7 @@
 
 
 ## 👉 Uninstall python
+#python 
 
 
 [Uninstall Python on Mac]: https://nektony.com/how-to/uninstall-python-on-mac

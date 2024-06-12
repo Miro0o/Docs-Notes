@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12ae94e7e974c606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessors and Multicore Processors.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd2d7aa31d27157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Security Related Conferences & Journals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de16db53a3a4b29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#parallelism  ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -127,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md"
+                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md"
               }
             }
           },
@@ -211,36 +171,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de16db53a3a4b29f",
+  "active": "de327c84455a1398",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/📌 DCA (Dynamic Code Analysis)/DCA (Dynamic Code Analysis).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+    "Assets/Pics/Pasted image 20240612164620.png",
+    "Assets/Pics/Pasted image 20240612164615.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/kni.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/DTS (DPDK Test Suite).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessors and Multicore Processors.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/📟 Systems & Resources Mangement/pexpect.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/NFV (Network Function Virtualization)/OPNFV (Open Platform for NFV Project).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/NFV (Network Function Virtualization)/NFV (Network Function Virtualization).md",
+    "Assets/Pics/1200px-NFV_Architecture_v15_Wiki.svg.png",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/IPC (Inter Process Communication).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Other Linux Kernel Topics/Linux System Signals.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls/System Signals & Exception Handling.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls/System Calls.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/test (DPDK API test).md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/Process Management Basics.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Control Signals' Pattern.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/Signal/Signal.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/User Management.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Linux Free Software & OSS (Open Source Software).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Troubleshootings.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Files & Texts Filters.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Troubleshooting.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel Management.md",
+    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "Assets/Pics/Pasted image 20240611095255.png",
     "Assets/Pics/Pasted image 20240610235007.png",
-    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ISA Based ASM.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86_64 ASM (x64 ASM)/x86_64 ASM (x64 ASM).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86_32 ASM (x86 ASM)/x86_32 ASM (x86 ASM).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/8086 ASM/8086 ASM.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86_32/x86_32.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86_64/x86_64.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/8086 ISA.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Instruction Encoding.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/ARM Architecture Family/ARM64 Processor (AArch64, ARMv8)/ARM64 Processor (AArch64, ARMv8).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86_32/x86_32 Instructions.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/CPU (Central Processing Unit)/CPU (Central Processing Unit).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86_64/x86_64 Instructions.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/OS Processes Management (CPU + Main Memory Resource).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Interrupts (Software & Hardware).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Computer Memory & Storage.md",
     "Assets/Pics/Pasted image 20240610215026.png",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Address Space.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/FAQ.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/Operating System (Theory Part).md",
     "Assets/Pics/Pasted image 20240610152812.png",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/🧑🏽‍🏫 Mini OS Kernels/Fuchsia",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/🫀 Operating System Kernel (Kernel Mode)/🧑🏽‍🏫 Mini OS Kernels/seL4",
@@ -251,11 +214,8 @@
     "Assets/Illustrations/Computer Network/dpdk_test.excalidraw.png",
     "Assets/Illustrations/Computer Network/Drawing 2024-06-07 11.13.29.excalidraw.png",
     "Assets/Illustrations/Computer Network/Drawing 2024-06-07 11.13.29.excalidraw.svg",
-    "Assets/Illustrations/Computer Network/dpdk_test.excalidraw.svg",
-    "Assets/Pics/Pasted Image 20240606165615_645.png",
-    "Assets/Pics/Pasted Image 20240606165444_628.png",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Testing",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🤤 Linux Test Project (LTP)",
     "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/High Performance Computing",
     "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/High Performance Storage (HPS)",

@@ -58,6 +58,9 @@ find . -name '*.tmp' -exec rm {} \;
 find . -name '*.png' -exec convert {} {}.jpg \;
 ```
 
+[Linux find 命令 | 菜鸟]: https://www.runoob.com/linux/linux-comm-find.html
+[Find 命令介绍]: https://wangchujiang.com/linux-command/c/find.html
+
 
 ### 👉 `locate`
 - ` sudo /usr/libexec/locate.updatedb`
