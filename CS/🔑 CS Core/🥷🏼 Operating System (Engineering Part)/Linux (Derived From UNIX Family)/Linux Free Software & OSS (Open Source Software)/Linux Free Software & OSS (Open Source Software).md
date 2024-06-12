@@ -47,8 +47,18 @@ https://www.ruanyifeng.com
 https://github.com/trending
 Github Trendings
 
-
 Gitee Trendings
+
+
+### Other Resources
+🔍 👍 https://www.runoob.com/linux/linux-command-manual.html
+Linux 命令大全
+
+https://wangchujiang.com/linux-command/
+Linux 命令搜索
+
+https://learnku.com/server/wikis/40214
+server - wikis | 一些常用命令解释
 
 
 

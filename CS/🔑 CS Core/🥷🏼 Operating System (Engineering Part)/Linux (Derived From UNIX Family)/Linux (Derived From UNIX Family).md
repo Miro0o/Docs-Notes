@@ -72,6 +72,8 @@ http://linux.vbird.org
 
 https://www.runoob.com/linux/linux-tutorial.html
 菜鸟
+https://www.runoob.com/linux/linux-command-manual.html
+Linux 命令大全
 
 https://www.linuxcool.com
 Linux 命令查询

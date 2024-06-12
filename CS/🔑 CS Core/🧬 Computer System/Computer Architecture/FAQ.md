@@ -98,3 +98,11 @@ Although Apple's Power Macintosh line featured RISC-based chips and Windows NT w
 
 **The Overall RISC Advantage** 
 Today, the Intel x86 is arguable the only chip which retains CISC architecture. This is primarily due to advancements in other areas of computer technology. The price of RAM has decreased dramatically. In 1977, 1MB of DRAM cost about $5,000. By 1994, the same amount of memory cost only $6 (when adjusted for inflation). Compiler technology has also become more sophisticated, so that the RISC use of RAM and emphasis on software has become ideal.
+
+
+
+## ISA 🆚 ASM ? Differences & Commons
+#ISA #ASM 
+
+[Are instruction set and assembly language the same thing? | Stackoverflow]: https://stackoverflow.com/a/5384544/16542494
+

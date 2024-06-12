@@ -20,7 +20,6 @@ A file management system is that **set of system software that provides services
 - To minimize or eliminate the potential for **lost or destroyed data**
 - To provide a standardized set of **I/O interface routines** to user processes
 - To provide I/O support for multiple users, in the case of **multiple-user systems**
-
 #### Minimal User Requirements For File Management System
 With respect to the first point, meeting user requirements, the extent of such requirements depends on the variety of applications and the environment in which the computer system will be used. For an interactive, general-purpose system, the following constitute a minimal set of requirements:
 1. Each user should be able to create, delete, read, write, and modify files.
@@ -35,4 +34,5 @@ These objectives and requirements should be kept in mind throughout our discussi
 
 
 ## Ref
+[👍 Linux Cygwin知识库（二）：目录、文件及基本操作]: https://silaoa.github.io/2019/2019-05-04-Linux%20Cygwin知识库（二）：目录、文件及基本操作.html
 
