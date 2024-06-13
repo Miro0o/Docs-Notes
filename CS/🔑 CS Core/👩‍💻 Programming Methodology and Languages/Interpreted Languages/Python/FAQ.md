@@ -8,11 +8,12 @@
 ### 👉 Start a http server using python module http.server
 #python_http_server
 
- [Python_使用python快速启用HTTP服务器](https://www.cnblogs.com/testlearn/p/16072669.html) 
-
 ```shell
 python -m http.server [port] [-d server-dir]
 ```
+
+[通用技术 python 内置的 HTTP Server 是怎么实现的？]: https://www.testerhome.com/topics/32262
+[Python_使用python快速启用HTTP服务器]: https://www.cnblogs.com/testlearn/p/16072669.html
 
 
 ### 👉 Generating `requirement.txt`

@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d97f28af4c8db4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessor Architectures & Parallel Computing/Multiprocessor Architectures & Parallel Computing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#python_http_server  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessor Architectures & Parallel Computing/Multiprocessor Architectures & Parallel Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessor Architectures & Parallel Computing/Multiprocessor Architectures & Parallel Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md"
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessor Architectures & Parallel Computing/Multiprocessor Architectures & Parallel Computing.md"
               }
             }
           },
@@ -171,16 +184,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de327c84455a1398",
+  "active": "d97f28af4c8db4d2",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/Parallel Computing/Parallel Computing.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessor Architectures & Parallel Computing/Multiprocessor Architectures & Parallel Computing.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture and Flynn's Taxonomy.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessor Architectures & Parallel Computing/Asymmetric Multiprocessing (AMP).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessors and Multicore Processors.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/FAQ.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessor Architectures & Parallel Computing/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)/Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computing & Computing Systems/Parallel Computing/Parallel Programming.md",
+    "CS/🔑 CS Core/🧬 Computer System/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/📌 Hardware-assisted Virtualization/Chipset-assisted Virtualization/Network Virtualization/Intel VT-c/Intel VT-c.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/P4 Language.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/The Python Standard Library/OS & Networking/Internet Protocols and Support/http - HTTP Modules.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
     "Assets/Pics/Pasted image 20240612164620.png",
     "Assets/Pics/Pasted image 20240612164615.png",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/kni.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/DTS (DPDK Test Suite).md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multiprocessors and Multicore Processors.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtimes Environments/Python Third-party Libs/📟 Systems & Resources Mangement/pexpect.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/FAQ.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/NFV (Network Function Virtualization)/OPNFV (Open Platform for NFV Project).md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/NFV (Network Function Virtualization)/NFV (Network Function Virtualization).md",
     "Assets/Pics/1200px-NFV_Architecture_v15_Wiki.svg.png",
@@ -191,16 +215,6 @@
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/test (DPDK API test).md",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/Process Management Basics.md",
     "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Control Signals' Pattern.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/Signal/Signal.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/User Management.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Linux Free Software & OSS (Open Source Software).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Troubleshootings.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Files & Texts Filters.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Troubleshooting.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel Management.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
     "Assets/Pics/Pasted image 20240611095255.png",
     "Assets/Pics/Pasted image 20240610235007.png",
     "Assets/Pics/Pasted image 20240610215026.png",
@@ -213,7 +227,6 @@
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/OS Level Programming in Different Languages",
     "Assets/Illustrations/Computer Network/dpdk_test.excalidraw.png",
     "Assets/Illustrations/Computer Network/Drawing 2024-06-07 11.13.29.excalidraw.png",
-    "Assets/Illustrations/Computer Network/Drawing 2024-06-07 11.13.29.excalidraw.svg",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing",
     "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🤤 Linux Test Project (LTP)",

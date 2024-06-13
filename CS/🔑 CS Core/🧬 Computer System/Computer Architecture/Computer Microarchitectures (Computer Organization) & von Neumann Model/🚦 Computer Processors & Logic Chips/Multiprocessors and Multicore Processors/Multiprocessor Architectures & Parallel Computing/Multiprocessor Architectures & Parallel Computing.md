@@ -28,6 +28,9 @@ The engineering implementation to parallel computing or parallel processing can 
 
 > 💡 For more of parallelism at system software level, go to ↗ [Operating System Design](../../../../../Operating%20System%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Operating%20System%20Design.md)
 
+![](../../../../../../../../Assets/Pics/Screenshot%202024-03-17%20at%204.49.59%20PM.png)
+<small>https://en.wikipedia.org/wiki/Parallel_computing</small>
+
 
 ### Amdahl’s Law (Gene Amdahl)
 Even parallel computing has its limits, however. As the number of processors increases, so does the overhead of managing how tasks are distributed to those processors.
@@ -46,7 +49,8 @@ As an example, consider the case where a part of the system that initially consu
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020230304154759.png)
 <small>Flynn's Taxonomy of Computer Architectures</small>
 
-> 🔗 Further reading: [Duncan's Taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
+↗ [Computer Architecture and Flynn's Taxonomy](../../../../📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20and%20Flynn's%20Taxonomy.md)
+🔗 Further reading: [Duncan's Taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 
 
 
@@ -69,6 +73,7 @@ As an example, consider the case where a part of the system that initially consu
 
 
 ### Asymmetric Multiprocessing (AMP)
+↗ [Asymmetric Multiprocessing (AMP)](Asymmetric%20Multiprocessing%20(AMP).md)
 
 
 ### 💦 Alternative Parallel Processing Approaches
@@ -84,4 +89,5 @@ As an example, consider the case where a part of the system that initially consu
 
 
 ## Ref
+[👍 Symmetric Multiprocessing (SMP) and Asymmetric Multiprocessing (AMP)]: https://www.acontis.com/en/symmetric-multiprocessing-and-asymmetric-multiprocessing.html
 
