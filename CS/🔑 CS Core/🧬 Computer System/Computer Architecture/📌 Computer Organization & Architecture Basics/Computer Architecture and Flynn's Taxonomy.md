@@ -56,14 +56,16 @@ Not implemented.
 
 
 ### Shared Memory Machines (SMM)
-#### 1️⃣ SMP (Shared Memory Multiprocessors)
+#### 1️⃣ SMP (Shared Memory Multiprocessors /Symmetric Multiprocessing)
 ↗ [Symmetric Multiprocessing & Shared Memory Multiprocessors (SMP)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP)/Symmetric%20Multiprocessing%20&%20Shared%20Memory%20Multiprocessors%20(SMP).md)
 #### 2️⃣ NUMA (Non-Uniform Memory Access)
 ↗ [NUMA (Non-Uniform Memory Access)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/NUMA%20(Non-Uniform%20Memory%20Access)/NUMA%20(Non-Uniform%20Memory%20Access).md)
 
 
-### Event-Driven Machines 
+### Event-Driven Machines
 
 
 
 ## Ref
+[Computer Architecture | Flynn’s taxonomy]: https://www.geeksforgeeks.org/computer-architecture-flynns-taxonomy/
+[Flynn's taxonomy | wikipedia]: https://en.wikipedia.org/wiki/Flynn%27s_taxonomy
