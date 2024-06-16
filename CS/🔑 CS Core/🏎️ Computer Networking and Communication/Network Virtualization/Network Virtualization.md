@@ -20,6 +20,8 @@
 ↗ [Cloud Native /VPC](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/IaaS%20(Infrastructure%20as%20a%20Service)/VPC.md)
 ↗ [Software Defined Network (SDN)](../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
 
+↗ [OpenStack Networking Service (Neutron)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🔞%20OpenStack/OpenStack%20Components/OpenStack%20Networking%20Service%20(Neutron)/OpenStack%20Networking%20Service%20(Neutron).md)
+
 
 
 ## Overview
@@ -119,5 +121,8 @@ The difference between VXLAN and NVGRE is that NVGRE header includes an optional
 [理解（计算、网络，存储）虚拟化，只需一篇文章]: https://blog.csdn.net/weixin_57726902/article/details/124072149
 
 [华为云计算（3）——网络虚拟化 - IT小组的文章 - 知乎]: https://zhuanlan.zhihu.com/p/332290846
+
+[👍 openstack学习-网络管理(转)]: https://heitaoq66.github.io/2020/03/19/openstack学习-网络管理/
+![](../../../../Assets/Pics/Pasted%20image%2020240614000553.png)
 
 

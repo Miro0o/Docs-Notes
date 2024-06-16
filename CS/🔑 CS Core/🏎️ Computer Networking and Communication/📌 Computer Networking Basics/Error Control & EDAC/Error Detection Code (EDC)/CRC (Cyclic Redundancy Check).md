@@ -1,13 +1,16 @@
-# CRC
+# CRC (Cyclic Redundancy Check)
 
 [TOC]
 
 
 
 ## Res
-【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=20&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
+### Related Topics
 ↗ [Algebraic Structure & Abstract Algebra & Modern Algebra](../../../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🧊%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra/Algebraic%20Structure%20&%20Abstract%20Algebra%20&%20Modern%20Algebra.md)
+
+
+### Learning Resources
+【深入浅出计算机网络 微课视频】 https://www.bilibili.com/video/BV1NT411g7n6/?p=20&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🔗 [CRC 循环冗余校验 在线计算](http://www.ip33.com/crc.html)
 
@@ -32,7 +35,6 @@ Here $$M(x)$$ is the original message polynomial and $$G(x)$$ is the degree-n ge
 $$R(x) = M(x) \times x^n \mod G(x)$$
 
 Polynomial addition modulo 2 is the same as [bitwise XOR](https://en.wikipedia.org/wiki/Exclusive_or#Bitwise_operation). Since XOR is the inverse of itself, polynominal subtraction modulo 2 is the same as bitwise XOR too.
-
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-01-12%20at%204.43.46%20PM.png)
 <small>【CRC原理和程序实现方法1】 https://www.bilibili.com/video/BV1Jy4y187oG/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d</small>

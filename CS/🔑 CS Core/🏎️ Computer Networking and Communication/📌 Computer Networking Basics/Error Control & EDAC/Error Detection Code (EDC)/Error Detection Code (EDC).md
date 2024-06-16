@@ -96,7 +96,7 @@ Checksum schemes include parity bits, [check digits](https://en.wikipedia.org/wi
 ### Cyclic Redundancy Check
 > 📄 Main article: [Cyclic redundancy check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
 > 
-> Details at ↗ [CRC](CRC.md)
+> Details at ↗ [CRC (Cyclic Redundancy Check)](CRC%20(Cyclic%20Redundancy%20Check).md)
 
 A *cyclic redundancy check* (CRC) is a non-secure [hash function](https://en.wikipedia.org/wiki/Hash_function) designed to detect accidental changes to digital data in computer networks. It is not suitable for detecting maliciously introduced errors. It is characterized by the specification of a *generator polynomial*, which is used as the [divisor](https://en.wikipedia.org/wiki/Divisor) in a [polynomial long division](https://en.wikipedia.org/wiki/Polynomial_long_division) over a [finite field](https://en.wikipedia.org/wiki/Finite_field), taking the input data as the [dividend](https://en.wikipedia.org/wiki/Dividend). The [remainder](https://en.wikipedia.org/wiki/Remainder) becomes the result.
 
