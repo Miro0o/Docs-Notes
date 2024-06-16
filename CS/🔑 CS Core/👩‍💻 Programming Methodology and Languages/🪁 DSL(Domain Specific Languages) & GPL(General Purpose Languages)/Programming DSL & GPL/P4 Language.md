@@ -23,3 +23,5 @@
 [益思芯知识讲堂 | 什么是P4编程语言？]: http://www.resnics.com/news/yi-si-xin-zhi-shi-jiang-tang-shi-me-shi-p4-bian-cheng-yu-yan-
 
 [👍 P4语言编程详解 | SDNLab]: https://www.sdnlab.com/17882.html
+
+[P4语言介绍]: https://yeya24.github.io/post/p4/
