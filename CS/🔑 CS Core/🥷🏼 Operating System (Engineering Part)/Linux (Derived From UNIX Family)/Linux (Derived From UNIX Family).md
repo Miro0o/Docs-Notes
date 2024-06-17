@@ -137,6 +137,10 @@ https://developer.ibm.com/technologies/linux/
 
 
 ## Intro
+![](../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.48.13%20PM.png)
+<small>https://en.wikipedia.org/wiki/Linux</small>
+
+
 ### The Origin Of Linux
 In August 1991, a Finnish graduate student named Linus Torvalds modestly announced a new Unix-like operating system kernel:
 ```

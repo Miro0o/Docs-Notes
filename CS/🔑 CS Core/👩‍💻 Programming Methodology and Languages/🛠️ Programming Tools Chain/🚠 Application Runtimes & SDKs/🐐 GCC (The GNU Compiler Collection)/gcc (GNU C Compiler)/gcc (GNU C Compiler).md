@@ -8,6 +8,9 @@
 📂 https://gcc.gnu.org/onlinedocs/
 
 
+### Related Topics
+
+
 
 ## Intro
 > `gcc`早期仅支持c语言，那时`gcc`就单指GNU C Compiler，后来`gcc`支持了c以外的c++、fortran、object-c等编程语言，就演变为指代GNU Compiler Collection。Cygwin中，有关`gcc`的软件包被分拆为核心组件包`gcc-core`（仅支持c语言）和语言支持包如`gcc-g++`、`gcc-fortran`、`gcc-ada`、`gcc-objc`、`gcc-objc++`等多个。

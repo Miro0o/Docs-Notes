@@ -108,25 +108,7 @@ Description: **The Internet Systems Consortium DHCP Client**, `dhclient`, provid
 **dhcpcd** is a mature and stable standards compliant [DHCP](https://wiki.linuxquestions.org/wiki/DHCP "DHCP") [client](http://en.wikipedia.org/wiki/Client_(computing)). It is used to obtain an IP address and other information from a dhcp [server](https://wiki.linuxquestions.org/wiki/Server "Server"), renew the IP address lease time, and automatically configure the [network interface](https://wiki.linuxquestions.org/wiki/Network_interface "Network interface"). The program performs a similar function as [dhclient](https://wiki.linuxquestions.org/wiki/Dhclient "Dhclient").
 #### 👉 `netstat` (deprecated) --> `ss` (Socket Statistics)
 ↗ [Nettools /👉 `netstat`](Nettools.md#👉%20`netstat`)
-
----
-`ss` stands for "**Socket Statistics**". It is a potent tool for inspecting and displaying detailed information about network sockets on a Linux system. The ‘`ss`’ command is an indispensable resource for network administrators, system administrators, and developers, offering insights into network connections, routing tables, and more.
-
-[👍 How To Use Linux SS Command]: https://phoenixnap.com/kb/ss-command
-1. [Linux ss Command Examples](https://phoenixnap.com/kb/ss-command#ftoc-heading-1)
-    1. [List All Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-2)
-    2. [List Listening Sockets](https://phoenixnap.com/kb/ss-command#ftoc-heading-3)
-    3. [List TCP Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-4)
-    4. [List UDP Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-5)
-    5. [List Unix Sockets](https://phoenixnap.com/kb/ss-command#ftoc-heading-6)
-    6. [List Raw Sockets](https://phoenixnap.com/kb/ss-command#ftoc-heading-7)
-    7. [List Connections to a Specific IP Address](https://phoenixnap.com/kb/ss-command#ftoc-heading-8)
-    8. [Check Process IDs](https://phoenixnap.com/kb/ss-command#ftoc-heading-9)
-    9. [List Summary Statistics](https://phoenixnap.com/kb/ss-command#ftoc-heading-10)
-    10. [List IPv4 and IPv6 Socket Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-11)
-    11. [Filter Connections](https://phoenixnap.com/kb/ss-command#ftoc-heading-12)
-    12. [Check Man Pages or List All Commands](https://phoenixnap.com/kb/ss-command#ftoc-heading-13)
-2. [netstat VS ss Command](https://phoenixnap.com/kb/ss-command#ftoc-heading-14)
+↗ [iproute2 /👉 `ss` (Socket Statistics)](iproute2.md#👉%20`ss`%20(Socket%20Statistics))
 #### 👉 `ifconfig` (deprecated) --> `ip`
 ↗ [Nettools /👉 `ifconfig`](Nettools.md#👉%20ifconfig)
 

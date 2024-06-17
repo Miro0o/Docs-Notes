@@ -38,9 +38,8 @@ sed -e '/SUCCESSFUL/d ; /\[java\]/!b label' \
   -e':label' -e'/^\s*$$/d; s/^/monitor: /'
 ```
 
-
-
-[sed "undefined label" on MacOS]: https://stackoverflow.com/questions/12272065/sed-undefined-label-on-macos
+[sed "undefined label" on MacOS | stackoverflow]: https://stackoverflow.com/questions/12272065/sed-undefined-label-on-macos
+[sed command with -i option failing on Mac, but works on Linux | stackoverflow]: https://stackoverflow.com/q/4247068
 
 
 

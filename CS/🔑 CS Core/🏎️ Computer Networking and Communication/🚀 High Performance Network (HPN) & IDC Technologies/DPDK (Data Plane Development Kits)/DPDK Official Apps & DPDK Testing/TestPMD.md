@@ -7,8 +7,8 @@
 ## Res
 🏠 
 🚧 
-📂 http://doc.dpdk.org/guides/testpmd_app_ug/index.html
-📂 https://dpdk-docs.readthedocs.io/en/latest/testpmd_app_ug/index.html
+📂 http://doc.dpdk.org/guides/testpmd_app_ug/index.html | 🇺🇸
+📂 https://dpdk-docs.readthedocs.io/en/latest/testpmd_app_ug/index.html | 🇨🇳
 This document is a user guide for the `testpmd` example application that is shipped as part of the Data Plane Development Kit.
 
 

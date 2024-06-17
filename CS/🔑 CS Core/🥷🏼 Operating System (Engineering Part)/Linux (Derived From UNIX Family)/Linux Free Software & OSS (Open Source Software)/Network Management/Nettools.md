@@ -14,16 +14,19 @@ Additional mal pages: [ethers(5)](https://net-tools.sourceforge.io/man/ethers.5.
 NB: some projects (like Debian and RedHat) use a net-tools based but different **hostname** command.
 
 
+### Related Topics
+↗ [iproute2](iproute2.md)
+
+
 
 ## Intro
-**net-tools, the collection of base networking utilities for Linux.**
+net-tools, the collection of base networking utilities for Linux. Net-tools is no longer maintained now. A replacement is ↗ [iproute2](iproute2.md)
 
 
 
 ## 👉 `ifconfig`
 > `ifconfig` is old. Use `ip` command instead of `ifconfig`.
 > ↗ [Network Management Basics /👉 `ifconfig` (deprecated) --> `ip`](Network%20Management%20Basics.md#👉%20`ifconfig`%20(deprecated)%20-->%20`ip`)
-> 
 
 `ifconfig` (interface configuration) command is used to configure the kernel-resident network interfaces. It is used at the boot time to set up the interfaces as necessary. After that, it is usually used when needed during debugging or when you need system tuning. Also, this command is used to assign the IP address and netmask to an interface or to enable or disable a given interface.
 
