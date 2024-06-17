@@ -23,7 +23,7 @@
 
 
 ### Web Use
-↗ [😅 Wiki & Resources](../../../../🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources.md)
+↗ [😅 Wiki & Resources Searching](../../../../🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources%20Searching.md)
 
 
 

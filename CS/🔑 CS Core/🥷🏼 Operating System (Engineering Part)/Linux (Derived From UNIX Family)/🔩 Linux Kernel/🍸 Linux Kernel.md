@@ -38,6 +38,9 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 
 ### Learning Guides
+👍 https://en.wikipedia.org/wiki/Portal:Linux
+Wikipedia - Linux Portal
+
 📂 👍 https://github.com/0voice/linux_kernel_wiki
 Linux内核学习资料：200+篇经典内核文章，100+篇内核论文，50+内核项目，500+道内核面试题，80+内核讲解视频
 
@@ -66,6 +69,12 @@ IBM | Anatomy of Linux Kernel
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel#
 
 ![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
+
+![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.46.53%20PM.png)
+<small>https://en.wikipedia.org/wiki/Linux_kernel</small>
+
+![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.49.06%20PM.png)
+<small>https://en.wikipedia.org/wiki/Linux_kernel#Further_reading</small>
 
 
 ### Linux Kernel Development

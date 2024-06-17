@@ -74,7 +74,7 @@ The final output of most assemblers is **a stream of relocatable binary instruct
 
 
 ### 4️⃣/5️⃣ Linking
-↗ [Linking Phase](../🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Linking%20Phase/Linking%20Phase.md)
+↗ [Linking Phase](../🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Linking%20Phase%20&%20Linking%20Library%20Files/Linking%20Phase.md)
 
 #### Static Linking
 

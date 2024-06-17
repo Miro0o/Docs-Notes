@@ -69,7 +69,7 @@ find . -name '*.png' -exec convert {} {}.jpg \;
 
 
 
-## Codes Filters /Finders
+## Text Filters /Finders
 ### 👉 `grep` (`GNU grep` & `BSD grep`) | `xgrep`
 📃 https://www.man7.org/linux/man-pages/man1/grep.1.html
 
@@ -153,8 +153,6 @@ The difference between the BSD and GNU version of Grep is the Regex engine that 
 
 ##### `diff` + `find`
 
-
-
 #### 👉 `rsync`
 
 
@@ -162,7 +160,6 @@ The difference between the BSD and GNU version of Grep is the Regex engine that 
 #### 👉 `vimdiff`
 
 #### 👉 `meld` (python)
-
 
 
 

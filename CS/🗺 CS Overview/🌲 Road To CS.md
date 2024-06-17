@@ -147,7 +147,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 
 ## 🎉 More Res
-> ↗ [😅 Wiki & Resources](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources.md)
+> ↗ [😅 Wiki & Resources Searching](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources%20Searching.md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 
 

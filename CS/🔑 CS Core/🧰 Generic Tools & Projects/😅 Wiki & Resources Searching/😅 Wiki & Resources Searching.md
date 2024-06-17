@@ -1,4 +1,4 @@
-# Wiki & Resoruces
+# Wiki & Resoruces Searching
 
 [TOC]
 

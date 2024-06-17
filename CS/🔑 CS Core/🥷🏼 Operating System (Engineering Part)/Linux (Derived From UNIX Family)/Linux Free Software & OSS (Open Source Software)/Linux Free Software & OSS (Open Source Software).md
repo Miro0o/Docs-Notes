@@ -19,6 +19,9 @@
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [OpenStack](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🔞%20OpenStack/OpenStack.md)
 
+↗ [Programming Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
+↗ [Compilation & Program Loading Tools](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
+
 
 ### Communities
 > More is also available at ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family).md)
@@ -139,3 +142,5 @@ ch* commands:
 4. nfsstat
 5. vmstat
 6. etc..
+
+[👍 Linux服务器常用巡检命令 | 微信公众号]: https://mp.weixin.qq.com/s/IjHS2l9166mMTt-Vymo3Fg
