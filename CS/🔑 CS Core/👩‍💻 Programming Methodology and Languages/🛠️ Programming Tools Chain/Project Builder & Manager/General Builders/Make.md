@@ -4,12 +4,19 @@
 
 
 
-## what is make/cmake/qmake?
+## Res
+### Related Topics
+
+
+
+## Intro
+### what is make/cmake/qmake?
 🎯 🎯 [how is make/cmake/qmake different??](https://www.cnblogs.com/cj2014/p/6111634.html) #unsolved 
 
 
 
-## Make (GNU Make)
+## Make Alike Build Systems
+### GNU Make (`make`)
 make is a command line tool on Unix-like OS, executing Makefile and based on that to organize the project as it is expected.
 + `makefile` is a script-like file. it contains all the commands needed for running a project, including  when and how to compile and organize every and each file.
 + Hence, for a large softeware project engineers don't have to compile each file manually one by one. and also `make` makes the maintainness of the proj. easier.  
@@ -18,8 +25,7 @@ make is a command line tool on Unix-like OS, executing Makefile and based on tha
 ↗ [GNU Make](GNU%20Make/GNU%20Make.md)
 
 
-
-## CMake
+### CMake
 since make is Unix-like OS specific, there comes cmake. cmake is cross-plantform, it generates `makefile ` for different OS running it. 
 
 ```shell
@@ -29,14 +35,12 @@ since make is Unix-like OS specific, there comes cmake. cmake is cross-plantform
 ↗ [CMake](CMake/CMake.md)
 
 
-
-## qmake
+### qmake
 akin to cmake. but qmake and cmake have different architecture and policy handling makefile-generating. 
 qmake belongs to QT. 
 
 
-
-## Other Build Systems...
+### Other Build Systems...
 [make、gmake、cmake、nmake和Dmake 区别](https://blog.csdn.net/lionhenryzxxy/article/details/58585716)
 + Build System :
 	+ GUN make

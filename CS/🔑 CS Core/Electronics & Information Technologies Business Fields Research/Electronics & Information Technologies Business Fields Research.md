@@ -14,7 +14,8 @@
 
 
 
-## Intro: Electronics Industry
+## Intro
+### Electronics Industry
 > 🔗 https://en.wikipedia.org/wiki/Electronics_industry
 
 The electronics industry is the economic sector that produces electronic devices. It emerged in the 20th century and is today one of the largest global industries. Contemporary society uses a vast array of electronic devices that are built in factories operated by the industry, which are almost always partially automated.
@@ -27,8 +28,10 @@ The industry's size, the use of toxic materials, and the difficulty of recycling
 The electronics industry consists of various sectors. The central driving force behind the entire electronics industry is the semiconductor industry sector, which has annual sales of over $481 billion as of 2018
 
 
+### Information Technology Industry
 
-## Intro: Information Technology Industry
+
+### Finance 101
 
 
 

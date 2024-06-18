@@ -143,4 +143,37 @@ ch* commands:
 5. vmstat
 6. etc..
 
+
 [👍 Linux服务器常用巡检命令 | 微信公众号]: https://mp.weixin.qq.com/s/IjHS2l9166mMTt-Vymo3Fg
+
+```shell
+ uname -a
+ cat /etc/*release*
+ lsb_release -a
+ hostnamectl
+ uptime
+ lsmod
+ 
+ top
+ free -g -m
+ df -h
+ iostat
+
+netstat -tulnp
+ps aux
+
+journalctl
+tail
+
+systemctl status <service>
+systemctl list-unit-files --state=enabled
+
+ifconfig
+ip addr
+ping <IP地址或域名>
+traceroute <IP地址或域名>
+nload
+
+ss -tulwn
+
+```
