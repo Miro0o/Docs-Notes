@@ -128,7 +128,7 @@ However, there are some important reasons why programmers need to understand how
 ## Ref
 [Execution (computing) | Wikipedia]: https://en.wikipedia.org/wiki/Execution_(computing)
 
-程序的编译、装载与链接 - piginzoo的文章 - 知乎 https://zhuanlan.zhihu.com/p/139026433
+[程序的编译、装载与链接 - piginzoo的文章 - 知乎]: https://zhuanlan.zhihu.com/p/139026433
 [《链接、装载与库》 阅读笔记 (1)- 基本概念与静态链接]: https://wulc.me/2020/05/31/《链接、装载与库》阅读笔记(1)-基本概念与静态链接/
 
 [高级语言的编译：链接及装载过程介绍]: https://tech.meituan.com/2015/01/22/linker.html

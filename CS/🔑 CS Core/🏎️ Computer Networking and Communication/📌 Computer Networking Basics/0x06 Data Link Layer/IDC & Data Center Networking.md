@@ -58,3 +58,7 @@ https://support.huawei.com/enterprise/zh/doc/EDOC1100023543?idPath=24030814%7C21
 
 
 [回顾谷歌数据中心分布式交换架构Aquila]: https://mp.weixin.qq.com/s/O5Ed766Loyht4MKIH-fKTg
+
+[👍 软考网络工程师的难点之一 堆叠技术详解 | 微信公众号]: https://mp.weixin.qq.com/s/CEE8sNVqAwKL3zUFg72n5w
+
+**网络堆叠技术**（Stacking Technology）是指将多个网络设备（如交换机或路由器）连接在一起，形成一个逻辑上单一的设备，以简化管理和提高网络性能。以下是对堆叠技术的详细解释以及一个案例讲解...
