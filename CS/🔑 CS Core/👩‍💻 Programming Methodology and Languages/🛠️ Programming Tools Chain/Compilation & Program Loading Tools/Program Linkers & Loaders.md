@@ -10,9 +10,22 @@
 - ↗ [Linking Phase](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Linking%20Phase%20&%20Linking%20Library%20Files/Linking%20Phase.md)
 - ↗ [Program Loading](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚽%20Program%20Linking%20&%20Loading%20(Link-time%20&%20Load-time)/Program%20Loading/Program%20Loading.md)
 
+↗ [Operating System Components & Runtime Libraries](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+↗ [Operating System Kernel (Kernel Mode)](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+↗ [Linux Kernel Management](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20Management.md)
+
 
 
 ## Intro
+
+
+
+## Linux Command Line Tools
+### 👉 `ldd`
+
+
+### 👉 `ldconfig`
+ldconfig - configure dynamic linker run-time bindings
 
 
 
