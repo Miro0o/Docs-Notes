@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [0x06 Data Link Layer](../../../0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
+↗ [Switched LAN](../../../0x06%20Data%20Link%20Layer/Switched%20LAN/Switched%20LAN.md)
+
 
 
 ## Intro

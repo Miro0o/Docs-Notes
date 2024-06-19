@@ -17,6 +17,14 @@
 
 
 
+## Linux Kernel Modules Management
+### 👉 `insmod`
+
+
+### 👉 `modprobe`
+
+
+
 ## Ref
 [How to add SMP and Preempt in Kernel module version magic? | StackOveflow]: https://stackoverflow.com/q/55925642
 
