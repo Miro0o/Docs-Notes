@@ -128,14 +128,20 @@ Hacker101 is a free class for web security. Whether you’re a programmer with a
 📄 🤔 https://assume-breach.medium.com/im-not-a-pentester-and-you-might-not-want-to-be-one-either-8b5701808dfc
 I’m Not A Pentester (And You Might Not Want To Be One Either)
 
-https://www.aqniu.com
+---
 安全牛
+https://www.aqniu.com
 
+---
 安全内参
+https://www.secrss.com
 
-buffree
+---
+Freebuf
+https://www.freebuf.com
 
-👍 📄 安全圈，黄诚
+---
+👍 📄 安全圈 Sec-wiki | 黄诚
 https://www.sec-wiki.com/
 https://secdr.org
 https://blog.secdr.org
@@ -170,11 +176,12 @@ https://www.securityweek.com
 https://thehackernews.com
 
 
+
 ### Events & Community
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Road%20To%20CTF.md)
 
-↗ [Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Computer Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ---
@@ -507,3 +514,6 @@ Lots of links & resources related to cybersecurity
 [安全牛课堂 | 网安人必备的四大攻防资质]: https://www.aqniu.com/industry/82486.html
 
 [👍 网安人考证盘点 - 这些高质量的资质证书，你pick了哪几个？ | 看雪学苑]: https://bbs.kanxue.com/article-20000.htm
+
+[🤔 浅谈实际网安生活 - m0vie的文章 - 知乎]: https://zhuanlan.zhihu.com/p/685642330
+拿安服举例子。讲的和国内情况还是比较符合的。

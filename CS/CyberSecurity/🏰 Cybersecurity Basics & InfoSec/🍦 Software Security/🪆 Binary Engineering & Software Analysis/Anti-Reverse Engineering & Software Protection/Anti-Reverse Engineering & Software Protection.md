@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [SRE (Software Reverse Engineering)](../SRE%20(Software%20Reverse%20Engineering)/SRE%20(Software%20Reverse%20Engineering).md)
 ↗ [Vulnerabilities](../../../../⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md)
 
 
@@ -25,3 +26,12 @@ Software protection techniques aim to make reverse engineering (and therefore, d
 5. **binary packing**
 6. **combination of above all**
 
+[🤔 软件中对抗逆向工程的8种方法]: https://mp.weixin.qq.com/s/hKvb4wG39b-KuL6endJJjA
+- IsDebugerPresent()函数
+- NtGlobalFlag(全局标志)
+- CheckRemoteDebuggerPresent()函数
+- 代码执行计时技术
+- 软件断点
+- 硬件断点
+- Self-Debugging
+- UnhandledExceptionFilter()函数

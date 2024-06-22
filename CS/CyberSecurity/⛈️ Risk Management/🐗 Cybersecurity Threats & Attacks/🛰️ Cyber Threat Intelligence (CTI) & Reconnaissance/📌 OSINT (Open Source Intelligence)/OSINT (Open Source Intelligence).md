@@ -15,6 +15,14 @@
 [CTFshow---网络迷踪---(专题解题思路)](https://www.xl-bit.cn/index.php/archives/594/)
 
 
+### Other Resources
+👍 🔥 https://osintframework.com
+OSINT Framework
+OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for \$\$\$, but you should be able to get at least a portion of the available information for no cost.  
+
+I originally created this framework with an information security point of view. Since then, the response from other fields and disciplines has been incredible. I would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let me know about anything that might be missing!
+
+
 
 ## Intro
 ![Screenshot 2023-01-20 at 12.24.08 AM](../../../../../../../Assets/Pics/Screenshot%202023-01-20%20at%2012.24.08%20AM.png)

@@ -53,7 +53,7 @@ https://www.cnblogs.com/ysocean/tag/深入理解计算机系统/
 	5. Computer Organization & Architecture
 		1. ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 	6. 🎛️ Operating System
-		1. ↗ [Operating System (Theory Part)](Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
+		1. ↗ [Operating System & OS Kernel (Theory Part)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 		2. ↗ [Operating System (Engineering Part)](../🥷🏼%20Operating%20System%20(Engineering%20Part)/Operating%20System%20(Engineering%20Part).md)
 2. Further Steps in CS Core...
 	1. Languages Programming & Compilation Principles

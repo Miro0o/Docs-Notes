@@ -36,7 +36,7 @@
 
 在非虚拟化中，系统把物理地址通过虚拟地址的方式（一个个页框）提供出去给进程使用，每个进程都以为自己可以使用所有的物理内存。本来在CPU上有个称为MMU（memory management unit）的东西，任何时候当某个进行想要访问数据自己的线性地址中的某段数据的时候，就是虚拟地址。这个进程就会传给CPU一个地址，并需要读取数据，但是CPU知道这个地址是无法真正访问到数据的，于是CPU要通过MMU将这段地址转换为对应物理地址的访问，从而这段数据就能访问到了。一般进程所得到的内存地址空间是一个连续的虚拟地址空间，而在真正的物理内存存储时一般都不会是连续的地址空间。
 
-↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
+↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
 
 ### Memory Virtualization

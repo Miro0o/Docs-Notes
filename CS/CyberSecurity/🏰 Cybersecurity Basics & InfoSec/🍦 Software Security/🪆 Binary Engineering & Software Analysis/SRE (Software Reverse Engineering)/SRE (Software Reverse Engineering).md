@@ -16,6 +16,8 @@
 ↗ [IDA Pro](../../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/IDA%20Pro/IDA%20Pro.md)
 ↗ [Hex & Binary Manipulation](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Manipulation.md)
 
+↗ [Anti-Reverse Engineering & Software Protection](../Anti-Reverse%20Engineering%20&%20Software%20Protection/Anti-Reverse%20Engineering%20&%20Software%20Protection.md)
+
 
 
 ## Intro
@@ -23,7 +25,6 @@
 
 
 ## Ref
-
 [反编译和反汇编的区别 反汇编工具有哪些]: https://www.idapro.net.cn/shouqian/ida-fhbfby.html
 
 反编译和反汇编都是软件逆向工程的常用技术，它们之间的区别可以从以下几个方面进行分析。

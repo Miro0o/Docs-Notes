@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [Windows](../../../Microsoft%20Operating%20Systems/Windows/Windows.md)
-↗ [POSIX (Portable Operating System Interface)](../../../../🧬%20Computer%20System/Computer%20Interfaces/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
+↗ [POSIX (Portable Operating System Interface)](../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
 ↗ [Virtualization Theory](../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
 - ↗ [Library Level Virtualization](../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
