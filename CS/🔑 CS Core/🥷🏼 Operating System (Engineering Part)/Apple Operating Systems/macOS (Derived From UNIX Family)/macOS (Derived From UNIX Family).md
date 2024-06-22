@@ -51,6 +51,18 @@ MACGF官网是一个专注于macOS系统生产力软件下载，简直就是Mac�
 
 
 ## Architecture
+> 🔗 https://github.com/redcanaryco/mac-monitor/wiki/3.-macOS-System-Architecture
+
+This is a high level refresher and is **not** exhaustive. macOS is no different from other operating systems in that it has a user space / kernel space boundary enforced by security controls. Fundamentally macOS boils down to the XNU hybrid kernel consisting of BSD and Mach components.
+
+
+### XNU (X is Not Unix) the kernel
+> ↗ [macOS Kernel (xnu) & Darwin](📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20Kernel%20(xnu)%20&%20Darwin.md)
+
+> The _incomplete_ XNU source code can be found on Apple's Open Source Software Distributions account on GitHub: [https://github.com/apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu).
+
+XNU is the hybrid heart (kernel) of macOS consisting of BSD and the Mach microkernel. A brief overview of each of these components is listed below and shown in the above diagram.
+
 ![[../../../../../../Assets/Pics/os X archi.jpeg]]
 
 ![MacOS_Architecture](../../../../../Assets/Pics/MacOS_Architecture.svg)

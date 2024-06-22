@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [EFI & UEFI (Unified Extensible Firmware Interface)](../../../../Computer%20Interfaces/Computer%20Firmware%20System%20Interfaces/EFI%20&%20UEFI%20(Unified%20Extensible%20Firmware%20Interface)/EFI%20&%20UEFI%20(Unified%20Extensible%20Firmware%20Interface).md)
+↗ [EFI & UEFI (Unified Extensible Firmware Interface)](../../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Firmware%20System%20Interfaces/EFI%20&%20UEFI%20(Unified%20Extensible%20Firmware%20Interface)/EFI%20&%20UEFI%20(Unified%20Extensible%20Firmware%20Interface).md)
 
 
 ### Learning Resources

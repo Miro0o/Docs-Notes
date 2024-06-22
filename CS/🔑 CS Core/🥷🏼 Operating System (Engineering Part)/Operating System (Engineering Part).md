@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Operating System (Theory Part)](../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [System Level Programming](📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 ↗ [Embedded Operating Systems](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)
 

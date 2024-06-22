@@ -10,6 +10,8 @@
 
 
 ### Related Topics
+🤔 [CTF & AWD](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
+
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software Vulnerability](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability/Software%20Vulnerability.md)
 - ↗ [Binary Engineering & Software Analysis](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
@@ -28,6 +30,10 @@
 
 
 ## Intro
+![risk_management_and_software_security.excalidraw | 1000](../../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+<small>cyber security and risk management</small>
+
+
 ### Glossary
 #### IOA (Indicator of Attack)
 
@@ -110,3 +116,5 @@
 [IOA VS IOC]: https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/ioa-vs-ioc/
 
 [暗网简介：Akira Ransomware]: https://mp.weixin.qq.com/s/jkrW1WG_gGmnkJD4slic4g
+
+[🤔 BountyHunterInChina（重生之我在安全行业讨口子） | github]: https://github.com/J0o1ey/BountyHunterInChina

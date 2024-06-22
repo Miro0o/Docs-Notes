@@ -8,6 +8,9 @@
 ### Related Topics
 ↗ [Awesome NLP & LLM Projects & Services](../../../Artificial%20Intelligence/👀%20AI%20WatchList/🕶️%20Awesome%20AI/Awesome%20NLP%20&%20LLM%20Projects%20&%20Services.md)
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../../CyberSecurity/⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+↗ [Cyberspace Assets](../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
+↗ [Cyberspace Assets Mapping & Management](../../../CyberSecurity/⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
+
 
 ↗ [Data Science](../../../Data%20Science/Data%20Science.md)
 - ↗ [Large Data Computing Platforms](../../../Data%20Science/🧯%20Large%20Data%20Computing%20Platforms/Large%20Data%20Computing%20Platforms.md)
@@ -106,3 +109,4 @@ https://exa.ai/
 
 ## Ref
 [👍 人肉搜索]: https://zh.wikipedia.org/zh-hans/人肉搜索
+[👍 最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA

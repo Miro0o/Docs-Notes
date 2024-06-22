@@ -40,7 +40,7 @@
 
 
 ### 3️⃣ Physical Database Design
-↗ [Physical Database Design](Physical%20Database%20Design/Physical%20Database%20Design.md)
+↗ [Physical Database Design (Software Engineering)](Physical%20Database%20Design%20(Software%20Engineering)/Physical%20Database%20Design%20(Software%20Engineering).md)
 
 #### DBMS Components
 ![|500](../../../../../../Assets/Pics/Screenshot%202023-03-06%20at%203.32.35%20PM.png)

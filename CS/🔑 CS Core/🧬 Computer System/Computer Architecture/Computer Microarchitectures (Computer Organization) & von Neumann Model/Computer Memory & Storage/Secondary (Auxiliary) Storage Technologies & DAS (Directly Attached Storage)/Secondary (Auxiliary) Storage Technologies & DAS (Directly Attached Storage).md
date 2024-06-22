@@ -11,7 +11,7 @@
 ↗ [Storage Devices](../../../../../Auxiliary%20Hardware%20&%20Peripherals/Storage%20Devices/Storage%20Devices.md)
 
 ↗ [Data Transmission Modes](../../Computer%20IO%20System/Data%20Transmission%20Modes.md)
-↗ [File & File System](../../../../Operating%20System%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+↗ [File & File System](../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 ↗ [NAS (Network Architecture Searching)](../../../../../../Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Deep%20Learning%20(Neural%20Network)/3️⃣%20Model%20Training/Model%20Tuning%20&%20Hyperparameter%20Optimization/NAS%20(Network%20Architecture%20Searching).md)
 ↗ [Storage Area Network (SAN)](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/Storage%20Area%20Network%20(SAN).md)
 

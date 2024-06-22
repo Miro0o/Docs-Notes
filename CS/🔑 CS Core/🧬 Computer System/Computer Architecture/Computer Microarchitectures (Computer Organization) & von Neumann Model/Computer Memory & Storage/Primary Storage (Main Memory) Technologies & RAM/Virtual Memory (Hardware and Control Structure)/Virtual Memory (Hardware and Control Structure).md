@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Virtual Memory (OS Software Level)](../../../../../Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
+↗ [Virtual Memory (OS Software Level)](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md)
 
 ↗ [Primary Storage (Main Memory) Technologies & RAM](../Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 
@@ -17,7 +17,7 @@ The **principle of locality** suggests that a virtual memory scheme may be effec
 - First, there must be **hardware support** for the paging and/or segmentation scheme to be employed.
 - Second, the OS must include **software for managing** the movement of pages and/or segments between secondary memory and main memory. 
 
-In this section, we will examine the hardware aspect and look at the necessary control structures, which are created and maintained by the OS but are used by the memory management hardware. An examination of the OS issues will be provided in the ↗ [Virtual Memory (OS Software Level)](../../../../../Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md).
+In this section, we will examine the hardware aspect and look at the necessary control structures, which are created and maintained by the OS but are used by the memory management hardware. An examination of the OS issues will be provided in the ↗ [Virtual Memory (OS Software Level)](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Virtual%20Memory%20(OS%20Software%20Level)/Virtual%20Memory%20(OS%20Software%20Level).md).
 
 ---
 

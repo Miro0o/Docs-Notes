@@ -18,7 +18,7 @@ Programs at system software level work together to grant access to the hardware 
 
 ### 1️⃣ System Level Softwares within A Computer
 #### Operating System
-This part of knowledge is noted at ↗ [Operating System (Theory Part)](Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md).
+This part of knowledge is noted at ↗ [Operating System & OS Kernel (Theory Part)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md).
 #### Middleware
 Although our model of a computer system places only the operating system in the “system software” level, the study of system software often includes **compilers** and other utilities (**Database**, for example) providing platform level services, as well as a category of complex programs sometimes called **middleware**.
 

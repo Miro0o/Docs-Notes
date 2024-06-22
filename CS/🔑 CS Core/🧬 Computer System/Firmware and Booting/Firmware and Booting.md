@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Computer Drivers](../Computer%20Interfaces/Computer%20Drivers/Computer%20Drivers.md)
-↗ [FAQ /👉 Difference Between Computer Firmware 🆚 Drivers?](../Computer%20Interfaces/FAQ.md#👉%20Difference%20Between%20Computer%20Firmware%20🆚%20Drivers?)
+↗ [Computer (IO Devices) Drivers & Programming](../Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
+↗ [FAQ /👉 Difference Between Computer Firmware 🆚 Drivers?](../Computer%20Interfaces%20&%20Hardware%20Drivers/FAQ.md#👉%20Difference%20Between%20Computer%20Firmware%20🆚%20Drivers?)
 
 
 

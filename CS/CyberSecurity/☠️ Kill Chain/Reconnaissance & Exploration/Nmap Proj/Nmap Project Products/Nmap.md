@@ -40,6 +40,7 @@ Chapter 15. Nmap Reference Guide
 ## Intro
 Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing. It was designed to rapidly scan large networks, although it works fine against single hosts. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. While Nmap is commonly used for security audits, many systems and network administrators find it useful for routine tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.
 
+
 ### Interesting Ports Tables
 The output from Nmap is a list of scanned targets, with supplemental information on each depending on the options used. Key among that information is the “**interesting ports table**”. That table lists the port number and protocol, service name, and state. The state is either `open`, `filtered`, `closed`, or `unfiltered`. `Open` means that an application on the target machine is listening for connections/packets on that port.`Filtered` means that a firewall, filter, or other network obstacle is blocking the port so that Nmap cannot tell whether it is `open` or `closed`.`Closed` ports have no application listening on them, though they could open up at any time. Ports are classified as `unfiltered` when they are responsive to Nmap's probes, but Nmap cannot determine whether they are open or closed. Nmap reports the state combinations `open|filtered`and `closed|filtered` when it cannot determine which of the two states describe a port. The port table may also include software version details when version detection has been requested. When an IP protocol scan is requested (`-sO`), Nmap provides information on supported IP protocols rather than listening ports.
 
@@ -53,3 +54,4 @@ In addition to the interesting ports table, Nmap can provide further information
 
 [👍 👍 运用Scapy编写类似于Nmap的端口扫描脚本]: https://xz.aliyun.com/t/4704
 
+[nmap超详细使用教程 | CSDN]: http://t.csdnimg.cn/M1kwi

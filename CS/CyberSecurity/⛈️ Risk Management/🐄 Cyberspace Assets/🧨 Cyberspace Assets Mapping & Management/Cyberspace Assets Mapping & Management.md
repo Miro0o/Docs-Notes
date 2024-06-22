@@ -12,28 +12,53 @@
 ↗ [Attack Surface Management (ASM)](../🚀%20Attack%20Surface%20Management%20(ASM)/Attack%20Surface%20Management%20(ASM).md)
 ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
+↗ [goby](../../../☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/goby.md)
+
 http://whatweb.bugscaner.com/look/
 
 
 ### Cyberspace Assets Search Engines
+> ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](../../🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
+
+🔍 https://x.threatbook.com
+微步在线 ｜ 威胁分析与情报共享社区
+
 🔍 https://www.yunsee.cn
 云悉指纹，让互联网资产更清晰. 网络资产一键可查; 精准应用指纹识别; 应用组成安全评估.
 
 🔍 https://www.zoomeye.org
-Zoomeye is **chinese** based search engine. Zoomeye uses **Xmap** and **Wmap** to search for the network devices that are connected over the internet. These two engines are used in 24/7 detection.
+`Zoomeye` is **chinese** based search engine. Zoomeye uses **Xmap** and **Wmap** to search for the network devices that are connected over the internet. These two engines are used in 24/7 detection.
 🚧 https://github.com/knownsec/ZoomEye-python
 ZoomEye-python: The official Python library and CLI by Knownsec 404 Team.
 
 🔍 https://en.fofa.info
-FOFA is a search engine for global cyberspace mapping belonging to Beijing Huashun Xin'an Technology Co., Ltd.
+`FOFA` is a search engine for global cyberspace mapping belonging to Beijing Huashun Xin'an Technology Co., Ltd.
 
 Through continuous active detection of global Internet assets, more than 4 billion assets and more than 350,000 fingerprint rules have been accumulated, identifying most software and hardware network assets. Asset data supports external presentation and application in various ways and can perform hierarchical portraits of assets based on IP.
 
 🔍 https://www.shodan.io
-Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
+`Shodan` is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 
 🔍 https://search.censys.io
-_Censys_ helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.
+`Censys` helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.
+
+🔍 https://viz.greynoise.io/
+`GreyNoise`
+
+🔍 https://wigle.net/
+`WiGLE`
+
+🔍 https://hunter.io/
+Hunter
+
+🧰 https://www.virustotal.com/gui/home/search
+`VirusTotal`
+
+🔍 https://publicwww.com/
+`PublicWWW`
+
+🔍 https://tineye.com/
+`TinEye`
 
 
 
@@ -98,3 +123,5 @@ _Censys_ helps organizations, individuals, and researchers find and monitor eve
 [棚改的高峰与退潮：货币化安置政策成拐点]: https://finance.sina.cn/2020-11-26/detail-iiznezxs3892038.d.html
 
 [Zoomeye — Find open servers, Webcams, Porn sites vulnerabilities | Medium]: https://medium.com/@danielwebimprints/zoomeye-find-open-servers-webcams-porn-sites-vulnerabilities-c8096e05b45
+
+[👍 最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA

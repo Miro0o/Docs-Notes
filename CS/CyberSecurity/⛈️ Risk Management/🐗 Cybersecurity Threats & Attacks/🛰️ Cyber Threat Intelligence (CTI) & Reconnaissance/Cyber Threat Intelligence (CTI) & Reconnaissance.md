@@ -17,7 +17,11 @@
 ↗ [Cyberspace Assets](../../🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)
 - ↗ [Cyberspace Assets Mapping & Management](../../../⛈️%20Risk%20Management/🐄%20Cyberspace%20Assets/🧨%20Cyberspace%20Assets%20Mapping%20&%20Management/Cyberspace%20Assets%20Mapping%20&%20Management.md)
 
-↗ [Security Operation Center (SOC)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Operation%20Center%20(SOC)/Security%20Operation%20Center%20(SOC).md)
+↗ [Security Operation Center (SOC)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/📌%20Security%20Operation%20Center%20(SOC)/Security%20Operation%20Center%20(SOC).md)
+↗ [SRC (Security Response Center) & CERT CSIRT CIRT](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Disaster%20&%20Incidence%20Response%20(IR)/SRC%20(Security%20Response%20Center)%20&%20CERT%20CSIRT%20CIRT.md)
+
+↗ [Search Services](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/Search%20Services.md)
+↗ [OSINT (Open Source Intelligence)](📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)
 
 
 ### Projects / Data Sources
@@ -43,6 +47,12 @@ IntelligenceX  Telegram
 
 https://www.secrss.com/articles?author=奇安信威胁情报中心
 奇安信威胁情报中心
+
+👍 🔥 https://osintframework.com
+OSINT Framework
+OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for \$\$\$, but you should be able to get at least a portion of the available information for no cost.  
+
+I originally created this framework with an information security point of view. Since then, the response from other fields and disciplines has been incredible. I would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let me know about anything that might be missing!
 
 
 ### Cyber Threat Intelligence Platforms (TPI)
@@ -186,3 +196,5 @@ In this chapter, you will learn the principles and practices of passive reconnai
 [👍 https://www.aqniu.com/vendor/96051.html]: 免费获取全球开源威胁情报的9个来源
 
 [The 27 Best Cybersecurity Sites in 2024 | UpGuard]: https://www.upguard.com/blog/cybersecurity-websites
+
+[👍 最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA

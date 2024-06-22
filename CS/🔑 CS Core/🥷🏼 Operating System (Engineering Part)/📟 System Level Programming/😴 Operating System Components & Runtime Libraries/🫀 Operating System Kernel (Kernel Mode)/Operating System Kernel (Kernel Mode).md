@@ -12,7 +12,7 @@
 - ↗ [OpenHarmony](../../../Huawei%20Operating%20Systems/OpenHarmony/OpenHarmony.md)
 - ↗ [macOS Kernel (xnu) & Darwin](../../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20Kernel%20(xnu)%20&%20Darwin.md)
 
-↗ [Operating System (Theory Part)](../../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/Operating%20System%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
 ↗ [eBPF](../../eBPF/eBPF.md)
 

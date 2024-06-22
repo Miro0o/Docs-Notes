@@ -7,6 +7,11 @@
 ## Res
 🏠 https://www.gnu.og/software/gdb/
 
+
+### Related Topics
+
+
+### Learning Resources
 📖 [from GDB to LLDB](https://lldb.llvm.org/use/map.html)
 
 📖 [LLDB, disassembly](https://liangmc.com/archives/03lldb汇编调试md)
@@ -25,3 +30,5 @@ GDB, the GNU Project Debugger, belongs to ↗ [GNU (GNU's Not Unix)](../../../..
 
 ## Ref
 [gdb 的配置、插件plugin与多彩显示]:https://www.cnblogs.com/welhzh/p/13958736.html
+
+🎬【GDB 远程调试 NEMU 和 NPC - 李心杨 - 一生一芯双周分享会】 https://www.bilibili.com/video/BV1J142127AG/?share_source=copy_web

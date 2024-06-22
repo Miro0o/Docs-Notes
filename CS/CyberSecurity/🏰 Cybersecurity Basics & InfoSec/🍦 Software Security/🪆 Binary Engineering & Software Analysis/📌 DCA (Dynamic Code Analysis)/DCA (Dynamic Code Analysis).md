@@ -15,7 +15,7 @@
 ↗ [Dynamics Binary Analysis & DCA Tools](../../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/🌋%20Dynamics%20Binary%20Analysis%20&%20DCA%20Tools/Dynamics%20Binary%20Analysis%20&%20DCA%20Tools.md)
 
 ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
-↗ [Address Space](../../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
+↗ [Address Space](../../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
 
 
 

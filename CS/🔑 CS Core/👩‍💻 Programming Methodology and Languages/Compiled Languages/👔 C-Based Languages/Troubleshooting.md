@@ -5,7 +5,7 @@
 
 
 ## 👉 Sleep in C| warning implicit declaration of function `sleep'?
-#c 
+#c #syntax 
 
 > TL;DR 
 > As it is stated on the Linux _man_ page [here](https://linux.die.net/man/3/sleep) we need to include **unistd.h** and should do fine for all **OS**.
@@ -107,3 +107,10 @@ SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread")
 #c #cpp 
 
 
+
+## 👉 static declaration follows non-static declaration
+#static_declaration #c #cpp #syntax 
+
+
+
+[extern报错:static declaration follows non-static declaration | CSDN]: http://t.csdnimg.cn/7UNnC

@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 ↗ [Database Languages](../../../🗣️%20Database%20Languages/Database%20Languages.md)
 
 
@@ -30,7 +31,7 @@
 
 
 #### 🧑🏿‍🏭 Physical Data Models (Physical Database Design)
-↗ [Physical Database Design](../Physical%20Database%20Design/Physical%20Database%20Design.md)
+↗ [Physical Database Design (Software Engineering)](../Physical%20Database%20Design%20(Software%20Engineering)/Physical%20Database%20Design%20(Software%20Engineering).md)
 
 
 ### 2️⃣ Normalization (For Relational Data Models)
@@ -38,7 +39,22 @@
 
 
 
-
-
 ## Ref
+[美团面试：百亿级分片，如何设计基因算法？ | 微信公众号]: https://mp.weixin.qq.com/s/JS7-Xu180704WY7LDrebYw
+
+1. 尼恩说在前面
+2. 分库分表背景知识
+	1. 问题1：为什么分库分表？
+	2. 问题2：如何做数据库水平拆分？
+3. 分片键的设计目标、建议
+4. 分片键的设计原则
+5. 分片键的设计方案
+	1. 索引法
+	2. 基因法
+	3. 基因法的理论基础
+	4. 数字类型的分片键设计
+	5. 字符串类型分片键设计
+	6. 基因法的优缺点：
+6. 扩展方案设计：多个非分片键的组合查询
+
 

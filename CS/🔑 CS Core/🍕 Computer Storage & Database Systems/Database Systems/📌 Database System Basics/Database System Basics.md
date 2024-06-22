@@ -9,7 +9,7 @@
 
 ## Database System Overview
 ### Traditional File System
-↗ [File & File System](../../../🧬%20Computer%20System/Operating%20System%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
+↗ [File & File System](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 
 
 ### History of Database Systems /DBMS
@@ -38,7 +38,7 @@
 * Services to Promote Data Independence
 * Utility Services
 
-==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design/Transaction%20Management/Transaction%20Management.md)
+==marked== part is discussed at ↗ [Transaction Management](../⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Software%20Engineering)/Transaction%20Management/Transaction%20Management.md)
 
 
 

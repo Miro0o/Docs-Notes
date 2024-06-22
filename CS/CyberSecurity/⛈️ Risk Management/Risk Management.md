@@ -11,6 +11,9 @@
 
 
 ## Intro
+![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+<small>cyber security and risk management</small>
+
 风险管理广泛用于管理决策。风险管理是网络空间安全保障的有效工作方式。
 
 - 风险管理的通用定义
@@ -39,8 +42,11 @@
 
 ## ⭐ Risk Management Concepts /Glossary
 ![](../../../../Assets/Pics/Screenshot%202023-10-08%20at%2011.02.56AM.png)
+<small>risk management</small>
 
 ![risk_management_and_software_security.excalidraw | 1000](../../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+<small>cyber security and risk management</small>
+
 
 ### Assets
 > ↗ [Cyberspace Assets](🐄%20Cyberspace%20Assets/Cyberspace%20Assets.md)

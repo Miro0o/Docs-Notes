@@ -42,5 +42,10 @@ Webshell内存马，是在内存中写入恶意后门和木马并执行，达到
 
 ## Ref
 [👍 一文看懂内存马 | freebuf]: https://www.freebuf.com/articles/web/274466.html
+- [java web请求三大器——listener、filter、servlet](https://blog.csdn.net/chenwiehuang/article/details/80811193)  
+- [Tomcat架构原理](https://segmentfault.com/a/1190000023475177)  
+- [利用“进程注入”实现无文件复活 WebShell](https://www.freebuf.com/articles/web/172753.html)  
+- [深入理解反射](https://mp.weixin.qq.com/s/TqSLUWYWfhHjpfI_srETJg)  
+- [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
 
 [分享几个直接可用的内存马，记录一下学习过程中看过的文章 | github]: https://github.com/bitterzzZZ/MemoryShellLearn
