@@ -1,4 +1,4 @@
-# Make
+# Make & Makefile Syntax
 
 [TOC]
 
@@ -56,3 +56,4 @@ qmake belongs to QT.
 
 
 ## Ref
+[🤔 makefile中条件判断与函数 | CSDN]: http://t.csdnimg.cn/QekEf
