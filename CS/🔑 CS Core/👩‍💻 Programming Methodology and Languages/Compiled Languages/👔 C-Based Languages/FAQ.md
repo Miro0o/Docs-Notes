@@ -164,10 +164,9 @@ http://c.biancheng.net/view/298.html
 [C/C++ typedef用法详解（真的很详细） | CSDN]: http://t.csdnimg.cn/afgm3
 
 
-##  [endl&\n](https://www.jianshu.com/p/2c0c72f4fde7)
 
+##  endl&\n
 **关于 endl与'\n' 区别**:
-
 -   1、在 C++ 中，终端输出换行时，用 cout<<......<<endl 与 "\n" 都可以，这是初级的认识。但二者有小小的区别，用 endl 时会刷新缓冲区，使得栈中的东西刷新一次，但用 "\n" 不会刷新，它只会换行，盏内数据没有变化。但一般情况，二者的这点区别是很小的，在大的程序中可能会用到。建议用 endl 来换行。
     
 -   2、endl 除了写 '\n' 进外，还调用 flush 函数，刷新缓冲区，把缓冲区里的数据写入文件或屏幕.考虑效率就用 '\n'。
@@ -183,6 +182,8 @@ cout << '\n' << flush;
 ```
 
 **在没有必要刷新输出流的时候应尽量使用 cout << '\n', 过多的 endl 是影响程序执行效率低下。**
+
+https://www.jianshu.com/p/2c0c72f4fde7
 
 
 

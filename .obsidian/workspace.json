@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md"
               }
             }
           },
@@ -199,6 +199,7 @@
   },
   "active": "b599037d446457c8",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/C & CPP.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/C-Based Languages.md",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Commercial Computer Systems & Hosts/IBM mainframe/IBM mainframe.md",
@@ -234,7 +235,6 @@
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/SATA Express.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Computer Bus (Datapath) & Interfaces & Protocols.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Bus (Ports & Computer Bus Interfaces).md",
     "Assets/Pics/Pasted image 20240622161235.png",
     "Assets/Pics/Pasted image 20240622022024.png",
     "Assets/Pics/Pasted image 20240622021325.png",

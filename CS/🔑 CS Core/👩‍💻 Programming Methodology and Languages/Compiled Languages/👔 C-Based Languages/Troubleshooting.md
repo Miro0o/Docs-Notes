@@ -114,3 +114,9 @@ SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread")
 
 
 [extern报错:static declaration follows non-static declaration | CSDN]: http://t.csdnimg.cn/7UNnC
+
+
+
+## 👉 dereferencing pointer to incomplete type
+
+[dereferencing pointer to incomplete type | Stackoverflow]: https://stackoverflow.com/q/2700646
