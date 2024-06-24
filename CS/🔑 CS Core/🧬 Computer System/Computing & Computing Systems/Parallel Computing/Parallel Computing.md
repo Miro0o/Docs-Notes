@@ -35,7 +35,7 @@ Throughout the history of digital computers, two demands have been constant forc
 #### 👉 Process/Thread-level Concurrency
 ↗ [Operating Systems /Concurrency Control](../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
 ↗ [Database Systems /Concurrency Control](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Software%20Engineering)/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
-↗ [OS Level Programming /Concurrency](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
+↗ [OS Level Programming /Concurrency](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
 #### 👉 Instruction Level Parallelism
 ↗ [ILP (Instruction Level Parallelism)](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
 #### 👉 Hardware Level Parallel Computing

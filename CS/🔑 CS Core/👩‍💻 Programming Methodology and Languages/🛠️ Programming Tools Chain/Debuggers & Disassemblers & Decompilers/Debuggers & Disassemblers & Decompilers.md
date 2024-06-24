@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Reverse & Binary Analysis Tools](../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
-↗ [Hex & Binary Manipulation](../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Manipulation.md)
+↗ [Hex & Binary Manipulation](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Hex%20&%20Binary%20Manipulation.md)
 
 ↗ [GCC (The GNU Compiler Collection)](../Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/GCC%20(The%20GNU%20Compiler%20Collection).md)
 - ↗ [gdb (GNU DeBugger)](../Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)

@@ -10,9 +10,9 @@
 ↗ [0x07 Physical Layer](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
 ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 
-↗ [Reliable Data Transfer (RDT)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 ↗ [Computer Interfaces & Hardware Drivers](../../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
 ↗ [Computer IO System](../Computer%20IO%20System/Computer%20IO%20System.md)
+↗ [Reliable Data Transfer (RDT)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 
 ↗ [Motherboard & Mainboard](../Motherboard%20&%20Mainboard.md)
 ↗ [Systems on Chip (SOC)](../../Systems%20on%20Chip%20(SOC).md)

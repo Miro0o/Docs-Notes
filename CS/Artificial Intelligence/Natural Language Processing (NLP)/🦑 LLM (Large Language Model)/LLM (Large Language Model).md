@@ -83,3 +83,5 @@ Prompt Injection 是一种攻击技术，黑客或恶意攻击者操纵 AI 模�
 [深入剖析大模型安全问题：Langchain框架的隐藏风险 | 腾讯技术工程]: https://www.secrss.com/articles/59635
 
 [👍 AAAI2024 | 分享10篇优秀论文，涉及图神经网络、大模型优化、表格分析等热门话题]: https://mp.weixin.qq.com/s/F7X8N_wUyZQNhDtIfHm17Q
+
+[🤔 从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗]: https://mp.weixin.qq.com/s/3YSega29u8hnc8CcCrNwqQ

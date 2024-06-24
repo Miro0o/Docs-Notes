@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Virtualization Theory](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
 ↗ [Hardware-assisted Virtualization](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md) (Chipset-assisted Virtualization/Network Virtualization)
-↗ [Linux Network](../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
+↗ [Linux Network](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
 
 ↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 ↗ [Virtual Routing and Forwarding (VRF)](../📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Virtual%20Routing%20and%20Forwarding%20(VRF).md)

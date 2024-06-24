@@ -11,7 +11,7 @@
 ↗ [Malicious Code Detection & Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Analysis.md)
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
-↗ [Linux Test Project (LTP)](../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🤤%20Linux%20Test%20Project%20(LTP)/Linux%20Test%20Project%20(LTP).md)
+↗ [Linux Test Project (LTP)](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🤤%20Linux%20Test%20Project%20(LTP)/Linux%20Test%20Project%20(LTP).md)
 
 
 ### Learning Resources

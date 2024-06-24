@@ -142,8 +142,7 @@ char charr[] = { 'z','i','f','u','c','h','u','a','n','s','h','u','z','u' };
 
 
 
-## [typedef](http://c.biancheng.net/view/298.html)
-
+## typedef
 + typedef _originaltype _wantedtype
 	+ e.g.
 		>  typedef int INT_ARRAY_100[100];
@@ -158,8 +157,11 @@ char charr[] = { 'z','i','f','u','c','h','u','a','n','s','h','u','z','u' };
 	+  其他：auto、extern、static、 register、thread_local
 	+  >  typedef static int INT_STATIC;
 	+  故上述代码不成立，VC++2010 中的报错信息为“无法指定多个存储类”。
-	
 
+
+http://c.biancheng.net/view/298.html
+
+[C/C++ typedef用法详解（真的很详细） | CSDN]: http://t.csdnimg.cn/afgm3
 
 
 ##  [endl&\n](https://www.jianshu.com/p/2c0c72f4fde7)

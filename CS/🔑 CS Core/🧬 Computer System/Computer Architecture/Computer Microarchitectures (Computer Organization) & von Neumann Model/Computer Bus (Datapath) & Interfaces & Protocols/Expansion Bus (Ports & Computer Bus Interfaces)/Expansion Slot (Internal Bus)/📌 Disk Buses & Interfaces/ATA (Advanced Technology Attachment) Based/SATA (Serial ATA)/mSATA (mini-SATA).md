@@ -1,4 +1,4 @@
-# SATA (Serial ATA)
+# mSATA (mini-SATA)
 
 [TOC]
 

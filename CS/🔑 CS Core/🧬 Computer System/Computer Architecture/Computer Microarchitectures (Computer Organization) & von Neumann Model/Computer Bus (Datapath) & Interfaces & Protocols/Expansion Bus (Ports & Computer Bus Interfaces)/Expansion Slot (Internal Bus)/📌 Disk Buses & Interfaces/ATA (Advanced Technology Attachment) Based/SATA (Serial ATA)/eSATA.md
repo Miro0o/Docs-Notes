@@ -1,4 +1,4 @@
-# mSATA
+# eSATA
 
 [TOC]
 

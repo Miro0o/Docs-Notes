@@ -9,7 +9,7 @@
 🚧 https://github.com/utmapp/UTM
 📂 https://docs.getutm.app
 
-UTM can be installed on iOS hosts via ↗ [AltStore](../../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/Other%20macOS%20Softwares/AltStore.md) in jailbreak mode.
+UTM can be installed on iOS hosts via ↗ [AltStore](../../../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/Other%20macOS%20Softwares/AltStore.md) in jailbreak mode.
 
 
 
