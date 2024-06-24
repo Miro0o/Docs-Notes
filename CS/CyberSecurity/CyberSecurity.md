@@ -47,7 +47,8 @@
 💻 https://testercc.github.io
 
 ---
-📖 Computer & Internet Security: A Hands-on Approach by Wenliang Du
+👍 📖 Computer & Internet Security: A Hands-on Approach by Wenliang Du
+↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
 
 ---
 🫂 https://www.hackers-arise.com
@@ -120,6 +121,14 @@ https://wiki.wgpsec.org
 ---
 https://www.hacker101.com
 Hacker101 is a free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+
+---
+📖 Black Hat Python: Python Programming for Hackers and Pentesters
+🚧 https://github.com/EONRaider/blackhat-python3
+
+
+---
+📖 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
 
 
 ### Info & Res & News

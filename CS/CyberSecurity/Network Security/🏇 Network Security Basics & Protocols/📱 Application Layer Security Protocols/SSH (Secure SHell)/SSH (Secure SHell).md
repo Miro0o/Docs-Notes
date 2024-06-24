@@ -15,7 +15,7 @@
 
 
 ### Related Topics
-↗ [Shell & Terminals (Console)](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
+↗ [Shell & Terminals (Console)](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 
 
 

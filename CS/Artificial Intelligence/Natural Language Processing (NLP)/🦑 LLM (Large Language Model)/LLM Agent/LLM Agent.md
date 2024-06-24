@@ -42,4 +42,4 @@ Memory & knowledge make LLMs **smarter** while tools make them **autonomous**
 
 [The Dawn of AI Cybersecurity: How LLM-Agents Are Changing the Game | Cyber Builders]: https://open.substack.com/pub/cyberbuilders/p/ai-cybersecurity-llm-agents?utm_campaign=post&utm_medium=web
 
-[# 复旦 | 推出通用大模型Agent平台：AgentGym，提供一条龙服务！]: 
+[复旦 | 推出通用大模型Agent平台：AgentGym，提供一条龙服务！]: 

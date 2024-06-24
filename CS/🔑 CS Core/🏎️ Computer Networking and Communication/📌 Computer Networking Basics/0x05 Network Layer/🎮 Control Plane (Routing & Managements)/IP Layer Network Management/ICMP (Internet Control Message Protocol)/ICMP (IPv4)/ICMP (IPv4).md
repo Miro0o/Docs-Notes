@@ -8,7 +8,7 @@
 🔗 【深入浅出计算机网络 - 4.5 网际控制报文协议ICMP】 https://www.bilibili.com/video/BV1jW4y1q7So/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 ### Related Topics
-↗ [Network Diagnostic & Packet Analysis /Basics](../../../../../../../🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Diagnostic%20&%20Packet%20Analysis.md#Basics)
+↗ [Network Diagnostic & Packet Analysis /Basics](../../../../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Network%20Diagnostic%20&%20Packet%20Analysis.md#Basics)
 
 
 

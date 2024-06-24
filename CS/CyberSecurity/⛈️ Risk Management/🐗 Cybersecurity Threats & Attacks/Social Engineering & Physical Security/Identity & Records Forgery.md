@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Proxy](../../../Network%20Security/Anonymous%20&%20Private%20Networks/Proxy/Proxy.md)
 ↗ [Onion Network & Tor](../../../Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Onion%20Network%20&%20Tor/Onion%20Network%20&%20Tor.md)
-↗ [Whonix](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20System%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Whonix.md)
+↗ [Whonix](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Whonix.md)
 
 ↗ [Identification (身份证明)](../../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md)
 

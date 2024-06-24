@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Artificial Intelligence/Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Agent/LLM Agent.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bba70f178e1a1b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python_http_server  ",
+                "query": "\"A Hands-on Approach\"",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md"
               }
             }
           },
@@ -210,44 +197,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bba70f178e1a1b72",
+  "active": "b599037d446457c8",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/C & CPP.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/C-Based Languages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Advance Usages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Customization & Configuration/Vim Integrations/Vim + How-to.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/Make & Makefile Syntax.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/易语言/易语言.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/仓颉/仓颉.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/仓颉",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/🛞 Computer (IO Devices) Drivers & Programming/Network Devices Drivers/openwifi.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/易语言",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Commercial Computer Systems & Hosts/IBM mainframe/IBM mainframe.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/IBM Operation Systems.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/Linux on IBM Z (Linux on zSystems)/Linux on IBM Z (Linux on zSystems).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zOS/zOS.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/Linux on IBM Z (Linux on zSystems)",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zTPF",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zVSE",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zVM",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/UNIX Family/System V Family/System V Family.md",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Computer Systems & Implementations.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems",
+    "CS/🔑 CS Core/🧬 Computer System/Computer (Hardware) Components.md",
+    "CS/🔑 CS Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Commercial Computer Chips/Commercial Computer Chips.md",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Untitled",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/IT Consulting & Research Providers.md",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Commercial Computer Chips",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Electronics & Information Technologies Business Fields Research.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Products & Services",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Commercial Computer Systems & Hosts/Commercial Computer Systems & Hosts.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Companies",
+    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Operating Systems (Engineering Part).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/FC (Fiber Channel).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/U.2 (SFF-8639)/U.2 (SFF-8639).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/M.2 (NGFF, Next Generation Former Factor)/M.2 (NGFF, Next Generation Former Factor).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/mSATA (mini-SATA).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/SATA (Serial ATA).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/eSATA.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/SATA Express.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Computer Bus (Datapath) & Interfaces & Protocols.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Bus (Ports & Computer Bus Interfaces).md",
     "Assets/Pics/Pasted image 20240622161235.png",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/🛞 Computer (IO Devices) Drivers & Programming/Computer (IO Devices) Drivers & Programming.md",
-    "CS/🔑 CS Core/🧬 Computer System/Firmware and Booting/Firmware and Booting.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/🛞 Computer (IO Devices) Drivers & Programming/Controllers Devices Drivers",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/🛞 Computer (IO Devices) Drivers & Programming/Graphics Devices Drivers",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/🛞 Computer (IO Devices) Drivers & Programming/Storage Devices Drivers",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Programming & RPC/Network Programming & RPC.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/System Level Programming.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/🛞 Computer (IO Devices) Drivers & Programming/Network Devices Drivers",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/Computer Interfaces & Hardware Drivers.md",
-    "CS/🔑 CS Core/🥷🏼 Operating System (Engineering Part)/📟 System Level Programming/Troubleshooting.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/📌 ASIC (Application-Specific Integrated Circuit)/📌 Application-wise Chips/Game Controller Chips.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/📌 ASIC (Application-Specific Integrated Circuit)/📌 Application-wise Chips/WiFi Chips.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/IEEE 802 Family/WLAN & WiFi (802.11)/WiFi/WiFi.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/📌 ASIC (Application-Specific Integrated Circuit)/📌 Application-wise Chips",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/📌 ASIC (Application-Specific Integrated Circuit)/ASIC (Application-Specific Integrated Circuit).md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Logical Database Design (Data Modeling).md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/⚜️ Database System Design/📌 DBMS Design/Physical Database Design (Software Engineering)/Physical Database Design (Software Engineering).md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/⚜️ Database System Design/📌 DBMS Design/Conceptual Database Design (Conceptual Modeling)/Conceptual Database Design (Conceptual Modeling).md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/⚜️ Database System Design/Database System Design.md",
-    "CS/System Architecture Design/System Architecture Design.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/⚜️ Database System Design/📌 DBMS Design/DBMS Design.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Malicious Codes & Software Engineering/Cheating Programs & Anti-Cheating",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Malicious Codes & Software Engineering",
     "Assets/Pics/Pasted image 20240622022024.png",
     "Assets/Pics/Pasted image 20240622021325.png",
     "Assets/Pics/Pasted image 20240622021302.png",
@@ -255,7 +243,6 @@
     "Assets/Pics/Pasted image 20240620204800.png",
     "Assets/Pics/Pasted image 20240619201036.png",
     "Assets/Pics/Pasted image 20240619201017.png",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Link Aggregation (Bonding)",
     "Assets/Pics/Pasted image 20240617145230.png",
     "Assets/Pics/Pasted image 20240617145145.png",
     "Untitled.canvas",
