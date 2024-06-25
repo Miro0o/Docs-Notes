@@ -37,4 +37,6 @@ C is the language of choice for system-level programming, and there is a huge in
 
 
 ## Ref
+[👍 C语言之宏的使用技巧(宏嵌套/宏展开/可变参数宏)]:https://www.cnblogs.com/skyzu2333/p/14888938.html
+
 

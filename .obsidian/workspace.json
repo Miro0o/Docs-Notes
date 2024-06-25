@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f18c54b939ed8660",
+        "id": "9499e8969560bf69",
         "type": "tabs",
         "children": [
           {
-            "id": "de327c84455a1398",
+            "id": "b7cb2e71ec23f552",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Dynamic Routing Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Link-State Based IGP/OSPF (Open Shortest Path First)/OSPF (Open Shortest Path First).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b599037d446457c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "144cb48975cc3b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +161,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b599037d446457c8",
+  "active": "b7cb2e71ec23f552",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Dynamic Routing Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Link-State Based IGP/OSPF (Open Shortest Path First)/OSPF (Open Shortest Path First).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/Process Management Basics.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Emulators/GNS3.md",
+    "Assets/Pics/Pasted image 20240625233853.png",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Emulators/Mininet.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/test (DPDK API test).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Applications & User Scenarios.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/C & CPP.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/C-Based Languages.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/Troubleshooting.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Programming & RPC/Network Programming & RPC.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/DPDK Official Apps & DPDK Testing.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Clients & Remote Shell/SCP (Secure File Copy).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/📌 Awesome Open Source CLI Software/Awesome CLI Windows Manager.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Commercial Computer Systems & Hosts/IBM mainframe/IBM mainframe.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/IBM Operation Systems.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/Linux on IBM Z (Linux on zSystems)/Linux on IBM Z (Linux on zSystems).md",
@@ -213,28 +195,11 @@
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/UNIX Family/System V Family/System V Family.md",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Computer Systems & Implementations.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems",
-    "CS/🔑 CS Core/🧬 Computer System/Computer (Hardware) Components.md",
-    "CS/🔑 CS Core/Auxiliary Hardware & Peripherals/Auxiliary Hardware & Peripherals.md",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Commercial Computer Chips/Commercial Computer Chips.md",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Untitled",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/IT Consulting & Research Providers.md",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Commercial Computer Chips",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Electronics & Information Technologies Business Fields Research.md",
     "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Products & Services",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Commercial Computer Systems & Hosts/Commercial Computer Systems & Hosts.md",
     "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Companies",
-    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Operating Systems (Engineering Part).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/FC (Fiber Channel).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/U.2 (SFF-8639)/U.2 (SFF-8639).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/M.2 (NGFF, Next Generation Former Factor)/M.2 (NGFF, Next Generation Former Factor).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/mSATA (mini-SATA).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/SATA (Serial ATA).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/eSATA.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/📌 Disk Buses & Interfaces/ATA (Advanced Technology Attachment) Based/SATA (Serial ATA)/SATA Express.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Computer Bus (Datapath) & Interfaces & Protocols.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
     "Assets/Pics/Pasted image 20240622161235.png",
     "Assets/Pics/Pasted image 20240622022024.png",
     "Assets/Pics/Pasted image 20240622021325.png",
@@ -244,7 +209,6 @@
     "Assets/Pics/Pasted image 20240619201036.png",
     "Assets/Pics/Pasted image 20240619201017.png",
     "Assets/Pics/Pasted image 20240617145230.png",
-    "Assets/Pics/Pasted image 20240617145145.png",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
