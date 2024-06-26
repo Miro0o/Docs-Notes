@@ -11,8 +11,13 @@
             "id": "b7cb2e71ec23f552",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/GNU Make/GNU Make.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/GNU Make/GNU Make.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/GNU Make/GNU Make.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/GNU Make/GNU Make.md"
+              }
             }
           },
           {
@@ -163,12 +172,15 @@
   },
   "active": "b7cb2e71ec23f552",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🎯 Ranges Environments/VulStack.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Cyber Ranges & Labs.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Emulators/GNS3.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Dynamic Routing Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Link-State Based IGP/OSPF (Open Shortest Path First)/OSPF (Open Shortest Path First).md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/Process Management Basics.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
-    "CS/CyberSecurity/CyberSecurity.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Emulators/GNS3.md",
     "Assets/Pics/Pasted image 20240625233853.png",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Emulators/Mininet.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/test (DPDK API test).md",
@@ -182,7 +194,6 @@
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/DPDK Official Apps & DPDK Testing.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Clients & Remote Shell/SCP (Secure File Copy).md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/📌 Awesome Open Source CLI Software/Awesome CLI Windows Manager.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/FAQ.md",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Commercial Computer Systems & Hosts/IBM mainframe/IBM mainframe.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/IBM Operation Systems.md",
@@ -192,8 +203,6 @@
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zTPF",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zVSE",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zVM",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/UNIX Family/System V Family/System V Family.md",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Computer Systems & Implementations.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Untitled",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations",

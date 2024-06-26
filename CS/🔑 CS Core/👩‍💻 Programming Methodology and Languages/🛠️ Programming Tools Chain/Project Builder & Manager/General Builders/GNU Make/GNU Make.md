@@ -7,6 +7,7 @@
 ## Res
 🏠 https://www.gnu.org/software/make/
 📂 https://www.gnu.org/software/make/#documentation
+📂 https://www.gnu.org/software/make/manual/make.htm
 
 
 ### Related Topics
@@ -21,7 +22,6 @@ https://seisman.github.io/how-to-write-makefile/overview.html
 GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files.
 
 Make gets its knowledge of how to build your program from a file called the _makefile_, which lists each of the non-source files and how to compute it from other files. When you write a program, you should write a makefile for it, so that it is possible to use Make to build and install the program.
-
 #### Capabilities of Make
 - Make enables the end user to build and install your package without knowing the details of how that is done -- because these details are recorded in the makefile that you supply.
 - Make figures out automatically which files it needs to update, based on which source files have changed. It also automatically determines the proper order for updating files, in case one non-source file depends on another non-source file. As a result, if you change a few source files and then run Make, it does not need to recompile all of your program. It updates only those non-source files that depend directly or indirectly on the source files that you changed.
