@@ -10,10 +10,11 @@
 
 
 ### Projects & Labs
-↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
-🔥 👍 Comprehensive & Introductory security labs/ courses
+> ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
-↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
+> ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
+ 🔥 👍 Comprehensive & Introductory security labs/ courses
+
 
 👍 [sectools.org](https://sectools.org)
 
