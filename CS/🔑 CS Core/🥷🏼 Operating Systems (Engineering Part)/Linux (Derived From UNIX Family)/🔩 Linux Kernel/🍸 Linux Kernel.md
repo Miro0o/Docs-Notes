@@ -34,7 +34,7 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 ↗ [Operating System Components & Runtime Libraries](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [OS Level Programming with C & CPP](../../📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
-↗ [Linux Kernel Management](../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20Management.md)
+↗ [Linux Kernel (Modules) Management](../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20(Modules)%20Management.md)
 ↗ [Firmware and Booting](../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 
 

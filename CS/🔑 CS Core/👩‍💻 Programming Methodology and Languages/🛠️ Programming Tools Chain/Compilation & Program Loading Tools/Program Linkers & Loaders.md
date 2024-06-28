@@ -12,7 +12,7 @@
 
 ↗ [Operating System Components & Runtime Libraries](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [Operating System Kernel (Kernel Mode)](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-↗ [Linux Kernel Management](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20Management.md)
+↗ [Linux Kernel (Modules) Management](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20(Modules)%20Management.md)
 
 
 
