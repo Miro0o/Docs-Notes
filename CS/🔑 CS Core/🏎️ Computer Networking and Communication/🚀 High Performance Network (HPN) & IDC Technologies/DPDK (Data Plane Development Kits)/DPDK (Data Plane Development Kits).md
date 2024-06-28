@@ -116,3 +116,8 @@ The DPDK uses the Open Source BSD-3-Clause license for the core libraries and dr
 [👍 DPDK 初学者入门必读]: https://www.xiexianbin.cn/sdn/dpdk/must-read-for-dpdk-beginner/index.html
 
 [👍 linux源码解读（三十二）：dpdk核心源码解析（二） | Cnblog]: https://www.cnblogs.com/theseventhson/p/16038708.html
+
+[👍 DPDK 笔记 - RSS (Recieve Side Sliding 网卡分流机制) ｜ CSDN]: https://blog.csdn.net/Rong_Toa/article/details/108532566
+
+[DPDK Linux平台上DPDK入门指南（二） | CSDN]: https://blog.csdn.net/qq_44710568/article/details/136733043
+

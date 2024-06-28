@@ -50,10 +50,8 @@ In the field of access control, there are three major aspects:
 ### Access Control Mechanisms /Taxonomy
 #### High-Layer /Low-Layer AC
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020231101144813.png)
-
-#### AAA Mechanism
+#### AAA Mechanism (Authentication, Authorization, Auditing)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%202.56.16%20PM.png)
-
 
 
 
