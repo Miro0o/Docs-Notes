@@ -5,7 +5,7 @@
 
 
 ## Res
-↗  [🤯 Awesome List](../../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
+↗  [🤯 Awesome List](../../../../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
 
 
 

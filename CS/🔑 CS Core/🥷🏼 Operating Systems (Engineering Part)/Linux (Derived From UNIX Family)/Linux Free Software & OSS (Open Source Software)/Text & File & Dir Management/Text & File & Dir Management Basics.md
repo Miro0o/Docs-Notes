@@ -10,7 +10,7 @@
 ↗ [Awesome CLI Integration](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 ↗ [Awesome Text Processing & Data Manipulation](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Text%20Processing%20&%20Data%20Manipulation.md)
 
-↗ [Files Management](../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Files%20Management.md)
+↗ [Files Management](../../../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Files%20Management.md)
 
 
 
@@ -83,7 +83,7 @@ More information: <https://manned.org/file>.
 ## File Breakup /Convert
 ### 👉 `binwalk` | `foremost` | `dd` | `iconv`
 #### binwalk
-↗ [binwalk](../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/binwalk.md)
+↗ [binwalk](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/binwalk.md)
 #### dd
 ```shell
 dd
@@ -124,7 +124,7 @@ foremost - Recover files using their headers, footers, and data structures
 
 
 ### 👉 `md5collgen`
-> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md#👉%20MD5%20Collision%20Attack%20Lab)
+> This tool is from ↗ [SeedLab - Cryptography](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md#👉%20MD5%20Collision%20Attack%20Lab)
 
 
 ### 👉 `shasum`

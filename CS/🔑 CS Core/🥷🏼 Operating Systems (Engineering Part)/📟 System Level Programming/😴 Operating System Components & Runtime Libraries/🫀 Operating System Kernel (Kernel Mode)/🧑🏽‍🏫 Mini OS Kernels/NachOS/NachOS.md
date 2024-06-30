@@ -6,7 +6,7 @@
 
 ## Res
 ### Courses
-↗ [Operating System & OS Kernel (Theory Part)](../../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [Operating Systems (Engineering Part)](../../../../../Operating%20Systems%20(Engineering%20Part).md)
 
 
@@ -71,8 +71,8 @@ https://icoty.github.io/categories/操作系统/
 
 
 ## Intro
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.00.30%20PM.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.02.00%20PM.png)
+![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.00.30%20PM.png)
+![](../../../../../../../../../../Assets/Pics/Screenshot%202023-04-26%20at%209.02.00%20PM.png)
 
 
 

@@ -19,7 +19,6 @@
 
 ## Linux Kernel Information
 ### `/proc` | `sysctl`
-
 ↗ [sysctl](../🪆%20Process%20Management/System%20Services%20Management/sysctl.md)
 ↗ [systemd & systemctl](../🪆%20Process%20Management/System%20Services%20Management/systemd%20&%20systemctl.md)
 

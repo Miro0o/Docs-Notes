@@ -5,13 +5,13 @@
 
 
 ## Res
-![](../../../../../../Assets/Pics/heckert_gnu.transp.small.png)
+![](../../../../../../../Assets/Pics/heckert_gnu.transp.small.png)
 🏠 https://www.gnu.org
 
 
 
 ## Intro
-![](../../../../../Assets/Pics/Pasted%20image%2020230416154802.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020230416154802.png)
 [GUN](https://www.gnu.org), (GNU's Not Unix), pronounced as `Guh-NOO`, aka GUN project, is a **free operating system**, using **Linux** and **hurd** as its kernel. 
 
 > GUN is licensed by [GPL (GNU General Public License)](https://www.gnu.org/licenses/gpl-3.0.en.html), which guarantees its complete freeness in distribution.
@@ -52,7 +52,7 @@ GNU and other free documentation can be obtained by the following methods:
 
 > [**Download distributions**](https://httpie.io/docs/cli/usage)
 >
-> ![ GNU and Linux](../../../../../../Assets/Pics/gnu-and-penguin-color-300x276.jpg)
+> ![ GNU and Linux](../../../../../../../Assets/Pics/gnu-and-penguin-color-300x276.jpg)
 >
 > *If you're looking for a whole system to install, see our [list of GNU/Linux distributions which are entirely free software](https://www.gnu.org/distros/free-distros.html).*
 

@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Windows Security Mechanism](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🪟%20Windows%20Security%20Mechanism/Windows%20Security%20Mechanism.md)
+↗ [Windows Security Mechanism](../../../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🪟%20Windows%20Security%20Mechanism/Windows%20Security%20Mechanism.md)
 ↗ [Operating System Kernel (Kernel Mode)](../../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-↗ [Operating System & OS Kernel (Theory Part)](../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
 
 
@@ -18,10 +18,10 @@
 
 
 ### Windows NT Architecture
-![|600](../../../../../../Assets/Pics/Pasted%20image%2020240601141419.png)
+![|600](../../../../../../../../Assets/Pics/Pasted%20image%2020240601141419.png)
 
 ### ⭐️ Windows Components
-![](../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-02%20at%208.35.31%20PM.png)
 <small>Windows Internals Architecture</small>
 #### Windows Kernel Mode Components (Managers + Libraries)
 

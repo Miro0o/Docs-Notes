@@ -19,7 +19,7 @@ Android for Developers
 
 
 ### Related Topics
-↗ [Google](../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Google.md)
+↗ [Google](../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Google.md)
 ↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM).md)
 
 
@@ -29,7 +29,7 @@ Android is an open source software stack created for a wide array of devices wit
 
 Android is designed so that there's no central point of failure, where one industry player restricts or controls the innovations of another. The result is a full, production-quality consumer product with source code open for customization and porting.
 
-![](../../../../Assets/Pics/Pasted%20image%2020230930214954.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230930214954.png)
 
 
 

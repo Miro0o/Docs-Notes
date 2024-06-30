@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Operating System & OS Kernel (Theory Part)](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [Linux Free Software & OSS (Open Source Software)](Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
@@ -137,7 +137,7 @@ https://developer.ibm.com/technologies/linux/
 
 
 ## Intro
-![](../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.48.13%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.48.13%20PM.png)
 <small>https://en.wikipedia.org/wiki/Linux</small>
 
 
@@ -166,7 +166,7 @@ are welcome, but I won’t promise I’ll implement them :-)
 
 Linus (torvalds@kruuna.helsinki.fi)
 ```
-![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
 
 As Torvalds indicates, his starting point for creating Linux was Minix, an operating system developed by Andrew S. Tanenbaum for educational purposes.
 
@@ -201,7 +201,7 @@ The Linux loadable modules have two important characteristics:
 
 2. **Stackable modules**: The modules are arranged in a hierarchy. Individual modules serve as libraries when they are referenced by client modules higher up in the hierarchy, and as clients when they reference modules further down.
 
-![](../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.42.29%20PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.42.29%20PM.png)
 
 
 ### 🔩 Linux Kernel & System Core Libraries
@@ -209,9 +209,9 @@ The Linux loadable modules have two important characteristics:
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 ↗ [GNU C Library (glibc)](../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
-↗ [Privilege Level & Protection Ring](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
+↗ [Privilege Level & Protection Ring](../../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/Privilege%20Level%20&%20Protection%20Ring.md)
 
-![](../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel</small>
 
 

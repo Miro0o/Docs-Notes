@@ -5,8 +5,8 @@
 
 
 ## Res
-↗ [Directory Services](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/Directory%20Services.md)
-↗ [LDAP (Lightweight Directory Access Protocol)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/LDAP%20(Lightweight%20Directory%20Access%20Protocol)/LDAP%20(Lightweight%20Directory%20Access%20Protocol).md)
+↗ [Directory Services](../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Directory%20Services/Directory%20Services.md)
+↗ [LDAP (Lightweight Directory Access Protocol)](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/LDAP%20(Lightweight%20Directory%20Access%20Protocol)/LDAP%20(Lightweight%20Directory%20Access%20Protocol).md)
 
 
 

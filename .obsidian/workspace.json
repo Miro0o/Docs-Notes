@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel (Modules) Management.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559,
-    "collapsed": true
+    "width": 597.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel (Modules) Management.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel (Modules) Management.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel (Modules) Management.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md"
               }
             }
           },
@@ -198,10 +197,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "72229f924ca50f2b",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/init.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel (Modules) Management.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/init.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/sysctl.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/DPDK Official Apps & DPDK Testing.md",
