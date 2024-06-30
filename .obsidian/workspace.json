@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md"
+                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md"
               }
             }
           },
@@ -199,6 +199,10 @@
   },
   "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
+    "Assets/Pics/Pasted image 20240630155001.png",
+    "CS/Academics/FAQ.md",
+    "CS/Academics/Academics.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel (Modules) Management.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/init.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/sysctl.md",
@@ -222,10 +226,6 @@
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Applications & User Scenarios.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/C & CPP.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/C-Based Languages.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/Troubleshooting.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Programming & RPC/Network Programming & RPC.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/🛜 Network Sockets/Network Sockets.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/Linux on IBM Z (Linux on zSystems)",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zTPF",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zVSE",
