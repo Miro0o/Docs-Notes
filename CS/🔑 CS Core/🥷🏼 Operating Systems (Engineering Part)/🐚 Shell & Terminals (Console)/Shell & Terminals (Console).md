@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [GUI Desktop Environments & Windowing Systems](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
-↗ [Messaging & Remote Accessing](../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/Messaging%20&%20Remote%20Accessing.md)
-↗ [SSH (Secure SHell)](../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
+↗ [Messaging & Remote Accessing](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/Messaging%20&%20Remote%20Accessing.md)
+↗ [SSH (Secure SHell)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 
 
 
@@ -29,7 +29,7 @@
 
 **系统内核**接管计算机资源，设备和程序**在系统内核的调配下运转**，他们之间的关系可用下图表示。用户实际用到的是具体程序，是难以感知内核的存在的，所以看起来就像是Shell在帮助用户调用程序。
 
-![|300](../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.47.13PM.png)
+![|300](../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.47.13PM.png)
 <small>终端、Shell、系统内核与用户的关系示意</small>
 
 
@@ -53,17 +53,17 @@ UNIX/Linux系统上的终端模拟器就顺着pty这条线发展，比如X Windo
 #### Unix/Linux pty
 > ↗ [Pseudo tty (pty) Based](Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/Pseudo%20tty%20(pty)%20Based.md)
 
-![pty_tty_console.excalidraw|800](../../../../../Assets/Illustrations/Computer%20System/pty_tty_console.excalidraw.md)
+![pty_tty_console.excalidraw|800](../../../../../../Assets/Illustrations/Computer%20System/pty_tty_console.excalidraw.md)
 
-![](../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.44.58PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.44.58PM.png)
 <small>伪终端设备工作原理示意</small>
 
-![](../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.45.40PM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.45.40PM.png)
 <small>支持伪终端设备的终端模拟器工作原理示意</small>
 #### Windows Consoles -> ConPTY
 > ↗ [Windows Console & ConPTY Based](Terminal%20Emulators/📌%20Windows%20Console%20&%20ConPTY%20Based/Windows%20Console%20&%20ConPTY%20Based.md)
 
-![](../../../../../Assets/Pics/Screenshot%202024-02-16%20at%2011.50.46AM.png)
+![](../../../../../../Assets/Pics/Screenshot%202024-02-16%20at%2011.50.46AM.png)
 <small>Win10 1803上的Console架构 图片来源：微软博客</small>
 
 

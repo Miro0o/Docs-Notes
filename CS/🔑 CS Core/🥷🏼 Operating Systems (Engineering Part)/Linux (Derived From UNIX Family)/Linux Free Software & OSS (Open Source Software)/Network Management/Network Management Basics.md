@@ -6,13 +6,13 @@
 
 ## Res
 ### Related Topics
-↗ [Reconnaissance & Exploration](../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
+↗ [Reconnaissance & Exploration](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
 
 
 
 ## RPC /File Transmission
 ### 👉 FTP
-↗ [FTP (File Transfer Protocol)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/File%20Transferring/FTP%20(File%20Transfer%20Protocol)/FTP%20(File%20Transfer%20Protocol).md)
+↗ [FTP (File Transfer Protocol)](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/File%20Transferring/FTP%20(File%20Transfer%20Protocol)/FTP%20(File%20Transfer%20Protocol).md)
 
 
 ### 👉 `telent`
@@ -33,10 +33,10 @@ $ Test-NetConnection 192.168.178.35 -p 389
 
 
 ### 👉 `ssh` -> `mosh` /`autossh` -> `et`
-> ↗ [SSH Clients & Remote Shell](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/SSH%20Clients%20&%20Remote%20Shell.md)
-> ↗ [ET (Eternal Terminal)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/ET%20(Eternal%20Terminal).md)
-> ↗ [autossh](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/autossh.md)
-> ↗ [Mosh (Mobile SHell)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/Mosh%20(Mobile%20SHell).md)
+> ↗ [SSH Clients & Remote Shell](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/SSH%20Clients%20&%20Remote%20Shell.md)
+> ↗ [ET (Eternal Terminal)](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/ET%20(Eternal%20Terminal).md)
+> ↗ [autossh](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/autossh.md)
+> ↗ [Mosh (Mobile SHell)](../../../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20Clients%20&%20Remote%20Shell/Mosh%20(Mobile%20SHell).md)
 
 
 **[SSH](https://www.openssh.com/)** stands for Secure Shell. It's the de facto standard for secure communication between two hosts on internet (LAN as well). 
@@ -152,7 +152,7 @@ ip r help
 
 首先在x86系统中PCIe支持256个Bus， 每条Bus支持32个Device， 每个Device支持8个Function，所以PCIe设备关键信息组成为：DBDF(Domain,Bus,Deivce,Function)
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020240611095255.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240611095255.png)
 
 #### 👉 `dmidecode`
 ↗ [📌 Computer Profiling & System Visibility](../Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md)
@@ -169,7 +169,7 @@ ip r help
 
 
 ### Package Analysis
-↗ [Packet Analyzing & Sniffing & Spoofing](../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
+↗ [Packet Analyzing & Sniffing & Spoofing](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing.md)
 ↗ [Network Diagnostic & Packet Analysis](Network%20Diagnostic%20&%20Packet%20Analysis.md)
 #### 👉 `ngrep`
 

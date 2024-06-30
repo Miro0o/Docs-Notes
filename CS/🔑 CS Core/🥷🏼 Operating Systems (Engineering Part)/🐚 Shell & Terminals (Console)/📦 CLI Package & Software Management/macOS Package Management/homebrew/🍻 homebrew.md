@@ -28,7 +28,7 @@
 
 
 ### 👮🏽 Usage & Terms
-![Pasted image 20211103212800](../../../../../../../Assets/Pics/Pasted%20image%2020211103212800.png)
+![Pasted image 20211103212800](../../../../../../../../../Assets/Pics/Pasted%20image%2020211103212800.png)
 
 #### 1️⃣ [Taps](https://docs.brew.sh/Taps)
 Taps allow homebrew manage third-party repo on host.
@@ -48,7 +48,7 @@ Taps allow homebrew manage third-party repo on host.
 ## 🍻 `Homebrew` Basic Usages
 ### 🍔 Installation
 1. [installing command line tools on mac](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
-	+ 🤔 [[../../../../../../CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy|using proxy]] to download form official web
+	+ 🤔 [[../../../../../../../../CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy|using proxy]] to download form official web
 	
 2.  go to [homebrew](https://docs.brew.sh/Installation), run command code.
 

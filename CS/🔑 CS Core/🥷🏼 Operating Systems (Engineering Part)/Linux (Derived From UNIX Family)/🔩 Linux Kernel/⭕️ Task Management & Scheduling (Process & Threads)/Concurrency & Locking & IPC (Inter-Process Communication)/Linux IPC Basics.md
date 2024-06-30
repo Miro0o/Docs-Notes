@@ -9,7 +9,7 @@
 
 ### Related Topics
 ↗ [OS Level Programming /Process Management /IPC](../../../../📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/IPC%20(Internal)/IPC%20(Internal).md)
-↗ [Operating System (Theory) / Process Management /IPC](../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
+↗ [Operating System (Theory) / Process Management /IPC](../../../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
 
 
 
@@ -87,12 +87,12 @@ Message queues allow one or more processes to write messages, which will be read
 Linux maintains a list of message queues, the `msgque` vector; each element of which points to a `msqid_ds` data structure that fully describes the message queue. When message queues are created a new `msqid_ds` data structure is allocated from system memory and inserted into the vector.
 
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230416085017.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230416085017.png)
 <small>System V IPC Message Queues</small>
 
 
 
-![](../../../../../../../Assets/Pics/Pasted%20image%2020230416084913.png)
+![](../../../../../../../../../Assets/Pics/Pasted%20image%2020230416084913.png)
 <small>Kernel Message Queue Resources</small>
 
 
@@ -108,8 +108,8 @@ As with all System V IPC objects, access to shared memory areas is controlled vi
 
 ## IPC Mechanism Introduced by BSD
 ### 6️⃣ Sockets
-↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-↗ [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
+↗ [Network Programming & RPC](../../../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
+↗ [Internet Domain Socket Programming](../../../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
 
 
 

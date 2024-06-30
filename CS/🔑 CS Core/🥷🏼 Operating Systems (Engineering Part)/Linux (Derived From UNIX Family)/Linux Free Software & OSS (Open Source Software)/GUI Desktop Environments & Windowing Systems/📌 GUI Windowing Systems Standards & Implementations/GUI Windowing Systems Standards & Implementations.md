@@ -32,7 +32,7 @@ It is primarily targeted at power users, developers and any people dealing with 
 
 
 ### 👉 Qtile
-![Logo](../../../../../../../../Assets/Pics/logo-3668853.png)
+![Logo](../../../../../../../../../Assets/Pics/logo-3668853.png)
 🏠 http://www.qtile.org
 📂 [qtile/qtile](https://github.com/qtile/qtile)
 📂 [qtile doc](http://docs.qtile.org/en/stable/index.html)
@@ -41,7 +41,7 @@ It is primarily targeted at power users, developers and any people dealing with 
 
 
 ### 👉 Yabai
-![Banner](../../../../../../../../Assets/Pics/banner.svg)
+![Banner](../../../../../../../../../Assets/Pics/banner.svg)
 🏠 https://github.com/koekeishiya/yabai
 
 yabai is a window management utility that is designed to work as an extension to the built-in window manager of macOS. yabai allows you to control your windows, spaces and displays freely using an intuitive command line interface and optionally set user-defined keyboard shortcuts using [↗ skhd](https://github.com/koekeishiya/skhd) and other third-party software.

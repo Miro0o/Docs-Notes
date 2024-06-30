@@ -40,7 +40,7 @@ The **Microsoft Computer Dictionary**, Fifth Edition, defines the registry as:
 
 The Registry contains information that Windows continually references during operation, such as profiles for each user, the applications installed on the computer and the types of documents that each can create, property sheet settings for folders and application icons, what hardware exists on the system, and the ports that are being used.
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
 
 The Registry replaces most of the text-based `.ini` files that are used in Windows 3.x and MS-DOS configuration files, such as the `Autoexec.bat` and `Config.sys`. Although the Registry is common to several Windows operating systems, there are some differences among them. 
 
@@ -139,7 +139,7 @@ Before you edit the registry, export the keys in the registry that you plan to e
 
 First published on TECHNET on Apr 24, 2007
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240310213137.png)
 
 [👍 Windows注册表详解 | CSDN]: http://t.csdnimg.cn/Xb0UE
 [👍 Windows注册表详解 | cnblog]: https://www.cnblogs.com/huyn/p/6876150.html

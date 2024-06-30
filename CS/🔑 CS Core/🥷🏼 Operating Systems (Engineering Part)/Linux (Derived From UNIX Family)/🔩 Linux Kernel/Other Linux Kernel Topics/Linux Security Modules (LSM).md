@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Linux Kernel Security Mechanism & LSM](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Kernel%20Security%20Mechanism%20&%20LSM/Linux%20Kernel%20Security%20Mechanism%20&%20LSM.md)
+↗ [Linux Kernel Security Mechanism & LSM](../../../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Kernel%20Security%20Mechanism%20&%20LSM/Linux%20Kernel%20Security%20Mechanism%20&%20LSM.md)
 
 
 

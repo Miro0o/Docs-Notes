@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Remote Administration(Access) Tools (RAT)](../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/Remote%20Administration(Access)%20Tools%20(RAT).md)
-- ↗ [VNC (Virtual Network Computing)](../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
-- ↗ [X11VNC](../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/X11VNC.md)
+↗ [Remote Administration(Access) Tools (RAT)](../../../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/Remote%20Administration(Access)%20Tools%20(RAT).md)
+- ↗ [VNC (Virtual Network Computing)](../../../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
+- ↗ [X11VNC](../../../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/X11VNC.md)
 
 ↗ [UNIX Family](../../../../../UNIX%20Family/UNIX%20Family.md)
 
@@ -19,7 +19,7 @@ X Project is NOT Netsarang's X serial products:
 ↗ [Xshell](../../../../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Windows%20Console%20&%20ConPTY%20Based/Xshell.md)
 ↗ [xterm & xterm based](../../../../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/xterm%20&%20xterm%20based/xterm%20&%20xterm%20based.md)
 
-↗ [VNC (Virtual Network Computing)](../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
+↗ [VNC (Virtual Network Computing)](../../../../../../../../🧰%20Generic%20Tools%20&%20Projects/Remote%20Administration(Access)%20Tools%20(RAT)/VNC%20(Virtual%20Network%20Computing)/VNC%20(Virtual%20Network%20Computing).md)
 
 
 ### Documentations & Learning Resources
@@ -74,7 +74,7 @@ X originated as part of [Project Athena](https://en.wikipedia.org/wiki/Project_
 8. X客户端收到鼠标、键盘事件后，回调事件处理，并计算界面该如何更新；
 9. 循环第3~8，直至X客户端收到关闭事件，进程终止、连接断开。
 
-![](../../../../../../../../../Assets/Pics/Screenshot%202024-02-16%20at%201.25.38AM.png)
+![](../../../../../../../../../../Assets/Pics/Screenshot%202024-02-16%20at%201.25.38AM.png)
 <small>X绘图过程示意</small>
 
 以上过程，主机A和B的CPU架构、操作系统可能都不相同，若A和B是同一个主机，就相当于在本地绘图、显示了。
@@ -92,4 +92,4 @@ X originated as part of [Project Athena](https://en.wikipedia.org/wiki/Project_
 [Basic Window Manager]: https://github.com/jichu4n/basic_wm
 
 [X-Window介绍与使用 | CSDN]: http://t.csdnimg.cn/y5MMe
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020240603224347.png)
+![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020240603224347.png)

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Reverse & Binary Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Reverse & Binary Analysis Tools](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 
 
 
@@ -38,7 +38,7 @@ od - dump files in octal and other formats
 🚧 https://github.com/sharkdp/hexyl
 🚧 https://github.com/LonnyGomes/hexcurse
 
-![Screenshot 2022-10-30 at 10.42.48 AM](../../../../../../../Assets/Pics/Screenshot%202022-10-30%20at%2010.42.48%20AM.png)
+![Screenshot 2022-10-30 at 10.42.48 AM](../../../../../../../../Assets/Pics/Screenshot%202022-10-30%20at%2010.42.48%20AM.png)
 
 
 [Top Hex Editors for Linux]: https://www.tecmint.com/best-hex-editors-for-linux/
@@ -66,7 +66,7 @@ od - dump files in octal and other formats
 
 
 ### 👉 bless
-> This tool is from ↗ [SeedLab - Cryptography](../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
+> This tool is from ↗ [SeedLab - Cryptography](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
 
 
 

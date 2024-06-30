@@ -9,7 +9,7 @@
 
 [👍 Linux Cygwin知识库（一）：一文搞清控制台、终端、shell概念]: https://silaoa.github.io/2019/2019-04-04-Linux%20Cygwin知识库（一）：一文搞清控制台、终端、shell概念.html
 
-![pty_tty_console.excalidraw|800](../../../../Assets/Illustrations/Computer%20System/pty_tty_console.excalidraw.md)
+![pty_tty_console.excalidraw|800](../../../../../../Assets/Illustrations/Computer%20System/pty_tty_console.excalidraw.md)
 
 
 ---
@@ -35,17 +35,17 @@ You can see that `tty` is the console where process starts, and `tty0` is a 
 
 ---
 ### Terminals & Consoles
-![](../../../../Assets/Pics/Pasted%20image%2020230920160147.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230920160147.png)
 
-![](../../../../Assets/Pics/Pasted%20image%2020230920160326.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230920160326.png)
 
 - console 是系统控制台，一般系统输出会走这个设备，直接与主机相连，一般只有一个
 - terminal是用户远程控制台，通过通信电缆/电信网络/直连主机，可以有多个
 
-![](../../../../Assets/Pics/Pasted%20image%2020230920160250.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230920160250.png)
 <small>远古时期的tty架构示意图</small>
 
-![](../../../../Assets/Pics/Pasted%20image%2020230920160256.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020230920160256.png)
 <small>现代tty架构示意图</small>
 #### /dev/console
 这个设备表示的是系统控制台，主要用于接收系统message的，系统消息一般不会被发送到tty上，而是发送给console设备上。现代linux系统中console是相当于一个链接，没有真正的对应的一个实体；console是被配置链接到系统中的某一个tty的（？）；当然我们也可以配置console为其他tty，这样系统消息就会被发送到对应tty终端上，通过cmdline指定console=tty0，此时/dev/console相当于是/dev/tty0的一个别名。同样我们也可以指定它为一个串口设备，通过设定console=/dev/ttyS1进行指定，此时/dev/console相当于是/dev/ttyS1的一个别名。

@@ -6,13 +6,13 @@
 
 ## Res
 ### Lots of notes about CLI & Shell Commands!
-↗ [🏫 Missing Semester](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md)
-↗ [🎭 The Art of Command Line](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🎭%20The%20Art%20of%20Command%20Line.md)
-↗ [🤯 Awesome List](../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
+↗ [🏫 Missing Semester](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md)
+↗ [🎭 The Art of Command Line](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🎭%20The%20Art%20of%20Command%20Line.md)
+↗ [🤯 Awesome List](../../../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
 ↗ [Linux Free Software & OSS (Open Source Software)](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
 ↗ [Commands CheatCheet & Online Search](🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Commands%20CheatCheet%20&%20Online%20Search.md)
-- ↗ [MacOS cmd Cheatsheet](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/MacOS%20cmd%20Cheatsheet.md)
+- ↗ [MacOS cmd Cheatsheet](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/MacOS%20cmd%20Cheatsheet.md)
 - ↗ [Shell Commands Cheat Sheet](🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Shell%20Commands%20Cheat%20Sheet.md)
 ↗ [👍 Vim](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
@@ -45,7 +45,7 @@ This document is herewith granted to the Public Domain. **No copyright!**
 > Here "shell" more specifically refers to Linux shell because windows' shells are rarely used in production. But in general shell refers to a kind of software running on whatever platform that interprates user's text commands to the OS.  
 
 
-![|300](../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.47.13PM.png)
+![|300](../../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.47.13PM.png)
 <small>终端、Shell、系统内核与用户的关系示意</small>
 
 终端自身并不执行用户输入的命令，它只是负责把输入的内容传送到主机系统，并把主机系统返回的结果呈现给用户。负责解释执行用户输入的命令并返回结果的，正是Shell！它是沟通用户和系统内核的中间桥梁。

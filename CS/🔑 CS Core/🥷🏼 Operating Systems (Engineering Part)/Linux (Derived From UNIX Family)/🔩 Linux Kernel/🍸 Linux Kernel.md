@@ -24,9 +24,9 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 
 ### Related Topics
-↗ [Linux Kernel Security Mechanism & LSM](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Kernel%20Security%20Mechanism%20&%20LSM/Linux%20Kernel%20Security%20Mechanism%20&%20LSM.md)
+↗ [Linux Kernel Security Mechanism & LSM](../../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Kernel%20Security%20Mechanism%20&%20LSM/Linux%20Kernel%20Security%20Mechanism%20&%20LSM.md)
 ↗ [Operating System Kernel (Kernel Mode)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-↗ [Operating System & OS Kernel (Theory Part)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating System & OS Kernel (Theory Part)](../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 - ↗ [GNU C Library (glibc)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
@@ -35,7 +35,7 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 ↗ [OS Level Programming with C & CPP](../../📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
 ↗ [Linux Kernel (Modules) Management](../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20(Modules)%20Management.md)
-↗ [Firmware and Booting](../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
+↗ [Firmware and Booting](../../../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 
 
 ### Learning Guides
@@ -69,12 +69,12 @@ IBM | Anatomy of Linux Kernel
 ## Intro
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel#
 
-![](../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-04-16%20at%203.49.23%20PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.46.53%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.46.53%20PM.png)
 <small>https://en.wikipedia.org/wiki/Linux_kernel</small>
 
-![](../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.49.06%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202024-06-17%20at%2012.49.06%20PM.png)
 <small>https://en.wikipedia.org/wiki/Linux_kernel#Further_reading</small>
 
 
@@ -128,10 +128,10 @@ Note that bug fixes are accepted even outside merge window in the maintainer's t
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel
 > 🔗 https://en.wikipedia.org/wiki/Linux_kernel#Architecture_and_features
 
-![](../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel </small>
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240531205806.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240531205806.png)
 <small>Linux Kernel Architecture. src: <a>https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html</a></small>
 
 
@@ -140,7 +140,7 @@ Note that bug fixes are accepted even outside merge window in the maintainer's t
 
 > ↗ 
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240530135006.png)
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240530135006.png)
 
 These are the top level of the Linux source code folders:
 - arch - contains architecture specific code; each architecture is implemented in a specific sub-folder (e.g. arm, arm64, x86)
@@ -192,7 +192,7 @@ It also implements architecture optimized functions (e.g. memcpy, string operati
 
 
 ### Linux Kernel Components Overview
-![](../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.48.02%20PM.png)
+![](../../../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.48.02%20PM.png)
 
 Briefly, the principal kernel components are the following:
 - **Signals**: The kernel uses signals to call into a process. For example, signals are used to notify a process of certain faults, such as division by zero. 

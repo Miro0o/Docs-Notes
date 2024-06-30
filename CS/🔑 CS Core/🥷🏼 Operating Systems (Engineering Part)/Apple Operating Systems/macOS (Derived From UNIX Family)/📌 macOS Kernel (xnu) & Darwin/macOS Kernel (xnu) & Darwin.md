@@ -9,8 +9,8 @@
 
 
 ### Related Topics
-↗ [MacOS Security Mechanism](../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🍎%20MacOS%20Security%20Mechanism/MacOS%20Security%20Mechanism.md)
-↗ [Firmware and Booting](../../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
+↗ [MacOS Security Mechanism](../../../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🍎%20MacOS%20Security%20Mechanism/MacOS%20Security%20Mechanism.md)
+↗ [Firmware and Booting](../../../../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 
 
 ### Learning Resources
@@ -27,9 +27,9 @@ XNU is the hybrid heart (kernel) of macOS consisting of BSD and the Mach microke
 
 XNU kernel is part of the Darwin operating system for use in macOS and iOS operating systems. XNU is an acronym for `X is Not Unix`. XNU is a hybrid kernel combining the **Mach kernel** developed at Carnegie Mellon University with components from FreeBSD and a C++ API for writing drivers called **IOKit**. XNU runs on x86_64 and ARM64 for both single processor and multi-processor configurations.
 
-![[../../../../../../Assets/Pics/os X archi.jpeg]]
+![[../../../../../../../../Assets/Pics/os X archi.jpeg]]
 
-![|600](../../../../../../Assets/Pics/Pasted%20image%2020240622022024.png)
+![|600](../../../../../../../../Assets/Pics/Pasted%20image%2020240622022024.png)
 <small>OS X architecture</small>
 
 
@@ -48,19 +48,19 @@ User space has a few primary ways to communicate with the kernel (hands wave):
 - **User Space → Process → Thread → Interrupt → Trap → Kernel Space**
 - **User Space → Process → Thread → System Call → Trap → Kernel Space**
 
-![](../../../../../../Assets/Pics/Pasted%20image%2020240622021140.png)
+![](../../../../../../../../Assets/Pics/Pasted%20image%2020240622021140.png)
 
 
 
 ## System Boot: Security In-depth
-> ↗ [Firmware and Booting](../../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
+> ↗ [Firmware and Booting](../../../../../../🧬%20Computer%20System/Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 
 We're including this section as brief overview for legacy data sources reliant on Kernel Extensions (KEXTs). KEXTs are denied from loading by the default LocalPolicy object on AppleSilicon (signed by the Secure Enclave) and the T2 chip on Intel. Apple Platforms leverage a defense in-depth approach for their secure boot (iBoot) implementation. Starting with hardware each stage in the boot chain validates the next. iBoot exists to help thwart downgrade attacks, boot time infection, and maintain system integrity. Changing the boot security level of macOS requires booting into recoveryOS (which can have it's own password).
 
 | **Apple Silicon Boot**                                                 | **Intel Boot**                                                         |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | https://support.apple.com/guide/security/boot-process-secac71d5623/web | https://support.apple.com/guide/security/boot-process-sec5d0fab7c6/web |
-| ![](../../../../../../Assets/Pics/Pasted%20image%2020240622021302.png) | ![](../../../../../../Assets/Pics/Pasted%20image%2020240622021325.png) |
+| ![](../../../../../../../../Assets/Pics/Pasted%20image%2020240622021302.png) | ![](../../../../../../../../Assets/Pics/Pasted%20image%2020240622021325.png) |
 
 ### Apple Silicon
 > 🔗 https://support.apple.com/guide/security/boot-modes-sec10869885b/web

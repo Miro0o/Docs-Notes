@@ -10,14 +10,14 @@
 
 ↗ [🪪 Software License & Open Source (Free Software)](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License.md)
 ↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
-↗ [IoT & Embedded Communication Applications & Projects](../../../../Embedded%20&%20Internet%20of%20Things/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
+↗ [IoT & Embedded Communication Applications & Projects](../../../../../../Embedded%20&%20Internet%20of%20Things/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
 
 ↗ [The Linux Foundation](../The%20Linux%20Foundation.md)
 ↗ [ASF (Apache Software Foundation)](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)
-↗ [OpenSSF (Open Source Security Foundation)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation)/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
+↗ [OpenSSF (Open Source Security Foundation)](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation)/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
 
-↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-↗ [OpenStack](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🔞%20OpenStack/OpenStack.md)
+↗ [Cloud Computing & Cloud Native](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+↗ [OpenStack](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🔞%20OpenStack/OpenStack.md)
 
 ↗ [Programming Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 ↗ [Compilation & Program Loading Tools](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
@@ -68,25 +68,25 @@ server - wikis | 一些常用命令解释
 ## Intro
 > This page mainly focuses on traditional *GNU/Linux Core tools* & other *free software*.
 
-Check out ↗ [Zsh](../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/zsh%20(Z%20SHell)/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
+Check out ↗ [Zsh](../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/zsh%20(Z%20SHell)/Zsh.md) or ↗ [iTerm2](../../🐚%20Shell%20&%20Terminals%20(Console)/Terminal%20Emulators/📌%20Pseudo%20tty%20(pty)%20Based/iTerm2.md) or ↗ [🏫 Missing Semester](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md) and their 🔗links at the bottom of the page to find numerous more modern and fancy CLI tools. 🎉
 A more general notes at ↗ [Shell & Terminals (Console)](../../🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 It is suggested learn everything about shell at ↗ [Bash Builtin Commands](../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Bash%20(Bourne%20Again%20SHell)/⛹🏻‍♂️%20Bash%20Builtin%20Commands/Bash%20Builtin%20Commands.md)
 
 Use ↗ [CLI Package & Software Management](../../🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md) tools to maximize your productivity! 
 
-Also, don't forget ↗ [🤯 Awesome List](../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md) & ↗ [📌 Awesome Open Source CLI Software](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md) !!
+Also, don't forget ↗ [🤯 Awesome List](../../../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md) & ↗ [📌 Awesome Open Source CLI Software](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md) !!
 
 Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) and ↗ [UNIX CLI Software](../../UNIX%20Family/🪓%20UNIX%20CLI%20Software/UNIX%20CLI%20Software.md) !
 
-There are some fantastic tools (high chance with a GUI) noted at ↗ [Generic Tools](../../../🧰%20Generic%20Tools%20&%20Projects/Generic%20Tools.md) as well!
+There are some fantastic tools (high chance with a GUI) noted at ↗ [Generic Tools](../../../../../🧰%20Generic%20Tools%20&%20Projects/Generic%20Tools.md) as well!
 
 Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 
-Software Engineering related tools are found at ↗ [CASE (Computer-Aided Software Engineering) Tools](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
+Software Engineering related tools are found at ↗ [CASE (Computer-Aided Software Engineering) Tools](../../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools.md)
 
-Security related tools are found at ↗ [Kill Chain](../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
+Security related tools are found at ↗ [Kill Chain](../../../../../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
 
-Hardware related tools is available at ↗ [Auxiliary Hardware & Peripherals](../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
+Hardware related tools is available at ↗ [Auxiliary Hardware & Peripherals](../../../../../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
 
 
 🥳 Enjoy !!

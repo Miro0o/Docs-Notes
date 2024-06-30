@@ -110,7 +110,7 @@ Other Server Implementations
 
 
 ### 👉 Ngrok
-↗ [ngrok](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/API%20Gateway/ngrok/ngrok.md)
+↗ [ngrok](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Orchestration%20&%20Management/API%20Gateway/ngrok/ngrok.md)
 
 
 ### 👉 `tmate`
@@ -118,7 +118,7 @@ Other Server Implementations
 
 
 ### 👉 `tailscale`
-↗ [tailscale](../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Commercial%20Products/tailscale.md)
+↗ [tailscale](../../../../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Commercial%20Products/tailscale.md)
 
 
 

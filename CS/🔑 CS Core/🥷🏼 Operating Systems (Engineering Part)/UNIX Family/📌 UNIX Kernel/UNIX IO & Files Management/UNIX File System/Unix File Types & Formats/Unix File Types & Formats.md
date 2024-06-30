@@ -9,7 +9,7 @@
 
 ## Intro
 
-![](../../../../../../../../Assets/Pics/Pasted%20image%2020230316142517.png)
+![](../../../../../../../../../../Assets/Pics/Pasted%20image%2020230316142517.png)
 
 ### 1️⃣ Ordinary files
 An ordinary file is a file on the system that contains data, text, or program instructions.
