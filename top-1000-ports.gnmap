@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Mon Jul  1 18:27:22 2024 as: nmap -sC -sV -oA top-1000-ports 192.168.1.66
+Host: 192.168.1.66 (192.168.1.66)	Status: Up
+Host: 192.168.1.66 (192.168.1.66)	Ports: 21/open/tcp//ftp//vsftpd 2.0.8 or later/, 23/filtered/tcp//telnet///, 80/open/tcp//http//OpenWrt uHTTPd/, 443/filtered/tcp//https///, 8080/open/tcp//http-proxy///, 52869/open/tcp//upnp//Portable SDK for UPnP devices 1.6.18 (UPnP 1.0)/	Ignored State: closed (994)
+# Nmap done at Mon Jul  1 18:27:37 2024 -- 1 IP address (1 host up) scanned in 14.65 seconds

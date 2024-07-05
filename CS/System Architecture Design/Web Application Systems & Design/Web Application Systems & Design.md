@@ -18,7 +18,7 @@
 
 ## Intro
 ![web_application_arch.excalidraw | 800](../../../Assets/Illustrations/Web%20Development/web_application_arch.excalidraw.md)
-<small>Web Architecture: frontend and backend</small>
+j j<small>Web Architecture: frontend and backend</small>
 
 ![|600](../../../Assets/Pics/Pasted%20image%2020240630155001.png)
 
