@@ -44,7 +44,7 @@ Immigration Medical Examination ｜ 出国移民体检
 [TransferWiki](https://transferwiki.com/)
 TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极大方便找工/移民/硕博申请，推荐本科低年级同学了解。
 
-↗ [Academics /Bibliometrics](../../Academics/Academics.md#Bibliometrics)
+↗ [Academics /Bibliometrics](../../Academics/Academics.md#Bibliometrics) | 文献计量学与学术评价
 - https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
@@ -100,4 +100,29 @@ Enhance your knowledge of IT security and reliability to prepare for a career in
 ## Intro
 
 
+
 ## Ref
+[👍 分享几个了解美国薪资的渠道]: https://www.1point3acres.com/bbs/thread-546758-1-1.html
+
+本文介绍了了解美国薪资的五种渠道：
+- 西方媒体华尔街日报(WallStreetJournal)
+- 求职网站
+	- Glassdoor
+	- LinkedIn
+	- Indeed
+	- ZipRecruiter
+- 美国移民局(USCIS)公布的H1-B申请数据
+- 美国劳工部(DOL)公布的H1-B劳工证数据
+- HearandSay道听途说
+	- Blin
+	- levelfyi
+
+对于每个渠道本文从以下几个方面进行分析：
+- 薪资数据的来源、计算方法与可靠程度
+- 覆盖的公司范围
+- 岗位的覆盖度是给出同一个公司不同岗位的信息还是只给出了一个公司平均值
+- 薪资的精准度数据类型是样本点、还是平均数、中位数、最大最小值、置信区间是否区分了基本工资、奖金、股票
+- 数据的可得性比如是否收费、检索的难易度
+
+在五个方面的分析中本文也会以具体公司和岗位为例比较不同信息渠道的优劣并打分
+

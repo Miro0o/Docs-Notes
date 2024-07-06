@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Lives/Diets.md",
+                "file": "Entrepreneurship/Marketing & Promoting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Lives/Diets.md",
+                "file": "Entrepreneurship/Marketing & Promoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Lives/Diets.md",
+                "file": "Entrepreneurship/Marketing & Promoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Lives/Diets.md"
+                "file": "Entrepreneurship/Marketing & Promoting.md"
               }
             }
           },
@@ -172,34 +172,35 @@
   },
   "active": "b7cb2e71ec23f552",
   "lastOpenFiles": [
-    "CS/🏠 Assets/Study, University, and Education/科技创新人才培养 - 钱学森.md",
-    "Personal Lives/Diets.md",
+    "Assets/Pics/Pasted image 20240706152904.png",
+    "Entrepreneurship/Human & Organization Management.md",
+    "Entrepreneurship/IT Entrepreneurship & Internet.md",
+    "Entrepreneurship/Entrepreneurship.md",
+    "Entrepreneurship/Marketing & Promoting.md",
+    "CS/🗺 CS Overview/Institutes & Organizations in CS & IT.md",
+    "CS/🗺 CS Overview/🥂 Welcome to CS.md",
+    "CS/🗺 CS Overview/🤯 Awesome List.md",
+    "CS/🏠 Assets/Study, University, and Education/对计算机科学的思考.md",
+    "CS/Academics/Academic Institutions in Electronic & Information Fields.md",
+    "CS/Academics/Academics.md",
+    "CS/🗺 CS Overview/CS Community Lingo.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/CrowdStrike.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Resume & Curriculum Vitae (CV).md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Personal Statement (PS).md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Letter of Recommendations (LORs).md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/P4 Language.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/TCL.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🙌🏻 Software Defined Network (SDN)/Software Defined Network (SDN).md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Programming & RPC/Network Programming & RPC.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/High Performance Network (HPN) & IDC Technologies.md",
+    "CS/🏠 Assets/Study, University, and Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md",
+    "Assets/Pics/Pasted image 20240706141804.png",
+    "CS/🏠 Assets/Study, University, and Education/科技创新人才培养.md",
     "CS/🏠 Assets/Study, University, and Education/社会的产生与发展.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
-    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.png",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.svg",
-    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
-    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computational Complexity Theory/Computational Complexity Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/Computability Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Operating Systems (Engineering Part).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
-    "CS/CyberSecurity/国产替代与信创产业.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/国产芯片.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/VIA Chips.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/Intel Chips.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/IBM Chips.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/Apple Chips.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/Microprocessors Unit (MPU).md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/国产数据库.md",
-    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/国密算法/国密算法.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/国产操作系统.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/优麒麟操作系统",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/红旗 Linux",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/deepin",
@@ -217,7 +218,6 @@
     "Personal Lives/Assets/CC6CA643-F897-4A7F-8D89-CB40F7911DD9_1_105_c.jpeg",
     "Personal Lives/Assets/769607A1-8A4E-42B4-870F-5002F9219C33_1_105_c.jpeg",
     "Personal Lives/Assets/641CB604-D720-4F9A-9514-F7896FB0F021_1_105_c.jpeg",
-    "Personal Lives/Assets/34C5B0DE-5526-4842-AE6F-E22D58B2A73C_1_105_c.jpeg",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

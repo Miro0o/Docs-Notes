@@ -8,8 +8,6 @@
 
 
 ## Intro
-
-
 ### Difference Between PS & SoP?
 #ps #SoP
 

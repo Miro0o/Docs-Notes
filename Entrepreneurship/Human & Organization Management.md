@@ -1,4 +1,4 @@
-# Marketing
+# Human & Organization Management
 
 [TOC]
 

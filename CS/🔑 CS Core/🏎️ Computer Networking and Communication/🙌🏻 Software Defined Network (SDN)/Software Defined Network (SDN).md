@@ -9,6 +9,11 @@
 
 
 ## Res
+### Related Topics
+↗ [P4 Language](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Programming%20DSL%20&%20GPL/P4%20Language.md)
+↗ [Network Programming & RPC](../Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
+
+
 ### Tutorial & Intro
 👨‍💻 [sdnlab -- sdn guide](https://www.sdnlab.com/sdn-guide/)
 
@@ -27,19 +32,16 @@
 ### Docs & Books
 📖 SDN: Software Defined Netwroks: "Thomas.D.Nadeau&Ken.Gray"
 
- [CCNA Routing & Switching ICND2 200-105](https://networklessons.com/cisco/ccna-routing-switching-icnd2-200-105) 
-
+[CCNA Routing & Switching ICND2 200-105](https://networklessons.com/cisco/ccna-routing-switching-icnd2-200-105) 
 - [Introduction to SDN (Software Defined Networking)](https://networklessons.com/cisco/ccna-routing-switching-icnd2-200-105/introduction-to-sdn-software-defined-networking)
 
 ☃️ [Cheng Li](http://www.muzixing.com/pages/about-me.html)
 
-⚒️ [Ultra Config](https://ultraconfig.com.au/docs/) #TODO 
+⚒️ [Ultra Config](https://ultraconfig.com.au/docs/)
 
-
-### Reading List
 👍 [What is SDN and where software-defined networking is going](https://www.networkworld.com/article/3209131/what-sdn-is-and-where-its-going.html)
 
-[Welcome to the Software-Defined World](https://nexenta.com/welcome-software-defined-world) #TODO 
+[Welcome to the Software-Defined World](https://nexenta.com/welcome-software-defined-world) 
 
 
 

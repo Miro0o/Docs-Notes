@@ -1,4 +1,4 @@
-# Entrepreneurship & Business
+# IT Entrepreneurship & Internet
 
 [TOC]
 
@@ -22,4 +22,3 @@ One selling point is their website looks super fancy & web3 ??
 
 
 ## Ref
-
