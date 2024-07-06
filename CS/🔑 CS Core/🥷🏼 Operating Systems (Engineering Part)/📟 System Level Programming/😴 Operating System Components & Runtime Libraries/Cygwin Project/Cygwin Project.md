@@ -12,10 +12,10 @@
 ↗ [Windows](../../../Microsoft%20Operating%20Systems/Windows/Windows.md)
 ↗ [POSIX (Portable Operating System Interface)](../../../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
-↗ [Virtualization Theory](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
-- ↗ [Library Level Virtualization](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
+↗ [Virtualization Theory](../../../🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+- ↗ [Library Level Virtualization](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
 
-↗ [WSL (Windows Subsystems for Linux)](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
+↗ [WSL (Windows Subsystems for Linux)](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
 
 ↗ [MSYS & MSYS2](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
 ↗ [MinGW & MinGW-w64](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
@@ -76,7 +76,7 @@ Cygwin可资利用的是已经移植的大量GNU、UNIX、Linux软件和兼容PO
 ### 🤔 Cygwin 🆚 Other Related Windows Projects
 > 🔗 https://silaoa.github.io/2019/2019-02-26-Cygwin系列（三）：盘点与Cygwin相似和相反的项目.html
 #### Projects Run Alike Cygwin
-POSIX subsystem、SFU、↗ [WSL (Windows Subsystems for Linux)](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
+POSIX subsystem、SFU、↗ [WSL (Windows Subsystems for Linux)](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
 
 ↗ [MinGW & MinGW-w64](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
 
@@ -87,7 +87,7 @@ UWIN、GnuWin32、UnxUtils
 #### Projects Run Against Cygwin
 ↗ [ReactOS](../../../Microsoft%20Operating%20Systems/Windows/💙%20ReactOS/ReactOS.md)
 
-↗ [Wine Project](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
+↗ [Wine Project](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
 
 Longene
 

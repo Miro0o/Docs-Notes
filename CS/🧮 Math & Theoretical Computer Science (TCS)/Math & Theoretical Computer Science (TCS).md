@@ -62,6 +62,10 @@ https://www.cnblogs.com/TIMON123/p/16222362.html#/c/subject/p/16222362.html
 - [ ] 信息论
 
 
+### Other Resources
+🎬【魔方的数学原理】 https://www.bilibili.com/video/BV1Af421R7Pq/?share_source=copy_web
+
+
 
 ## 🛐 Modern Math Structure
 > 🔗

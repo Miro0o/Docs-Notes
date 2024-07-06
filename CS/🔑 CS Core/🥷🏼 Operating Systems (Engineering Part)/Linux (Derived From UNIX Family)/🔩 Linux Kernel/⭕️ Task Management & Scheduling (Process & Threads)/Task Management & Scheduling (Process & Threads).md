@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Linux cgroup (control group)](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md)
-↗ [Linux Namespace](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md)
+↗ [Linux cgroup (control group)](../../../🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md)
+↗ [Linux Namespace](../../../🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md)
 ↗ [LXC (Linux Containers)](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/🐋%20Container%20Implementations/LXC%20(Linux%20Containers)/LXC%20(Linux%20Containers).md)
 
 
@@ -22,7 +22,7 @@ A task has pointers to resources, such as address space, file descriptors, IPC i
 
 This peculiarity, together with the clone() and unshare() system call allows for implementing new features such as namespaces.
 
-↗ [Linux Namespace](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md) are used together with control ↗ [Linux cgroup (control group)](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md) to implement operating system virtualization in Linux.
+↗ [Linux Namespace](../../../🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md) are used together with control ↗ [Linux cgroup (control group)](../../../🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md) to implement operating system virtualization in Linux.
 
 cgroup is a mechanism to organize processes hierarchically and distribute system resources along the hierarchy in a controlled and configurable manner.
 
@@ -84,8 +84,8 @@ Thus, if two threads are the same process will point to the same resource struct
 
 > ↗ [Container Implementations](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/🐋%20Container%20Implementations/Container%20Implementations.md)
 > ↗ [LXC (Linux Containers)](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/🐋%20Container%20Implementations/LXC%20(Linux%20Containers)/LXC%20(Linux%20Containers).md)
-> ↗ [Linux Namespace](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md)
-> ↗ [Linux cgroup (control group)](../../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md)
+> ↗ [Linux Namespace](../../../🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20Namespace.md)
+> ↗ [Linux cgroup (control group)](../../../🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/Linux%20cgroup%20(control%20group)%20Based%20OS%20Virtualization/Linux%20cgroup%20(control%20group).md)
 
 "Containers" are a form of lightweight virtual machines that share the same kernel instance, as opposed to normal virtualization where a hypervisor runs multiple VMs, each with its one kernel instance.
 

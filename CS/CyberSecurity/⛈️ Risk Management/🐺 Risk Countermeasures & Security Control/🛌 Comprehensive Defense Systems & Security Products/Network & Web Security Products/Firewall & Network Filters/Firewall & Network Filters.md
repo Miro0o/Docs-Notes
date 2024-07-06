@@ -212,7 +212,7 @@ The use of an additional "layer" and other aspects of the screened subnet firewa
 
 
 ## Firewall Performance Metrics
-> ↗ [Computer Network Performance Metrics](../../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Performance%20Metrics.md) 
+> ↗ [Computer Network Performance Metrics](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Performance%20Metrics.md) 
 
 
 ### 1️⃣ Throughput

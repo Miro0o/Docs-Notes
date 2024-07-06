@@ -12,7 +12,7 @@
 
 ### Related Topics
 ↗ [Apple](../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Apple.md)
-↗ [Apple WWDC (WorldWide Developers Conference)](../../../../../🗺%20CS%20Overview/📆%20Industry%20Conference%20&%20Events/Development%20Events/Apple%20WWDC%20(WorldWide%20Developers%20Conference).md)
+↗ [Apple WWDC (WorldWide Developers Conference)](../../../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20in%20Industry/Development%20Events/Apple%20WWDC%20(WorldWide%20Developers%20Conference).md)
 
 ↗ [Xcode](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/Xcode.md)
 ↗ [Swift](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/Swift/Swift.md)

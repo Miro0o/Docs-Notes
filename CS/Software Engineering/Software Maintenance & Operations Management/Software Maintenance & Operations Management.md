@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [Continuous Delivery](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Continuous%20Delivery.md)
+- ↗ [Observability & Analysis](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Observability%20&%20Analysis/Observability%20&%20Analysis.md)
+- ↗ [Provisioning](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Provisioning/Provisioning.md)
 
 
 

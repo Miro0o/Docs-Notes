@@ -7,6 +7,12 @@
 ## Res
 📂 https://landscape.cncf.io/guide#observability-and-analysis
 
+### Related Topics
+↗ [Software Maintenance & Operations Management](../../../../Software%20Maintenance%20&%20Operations%20Management/Software%20Maintenance%20&%20Operations%20Management.md)
+
+
+### Learning Resources
+
 
 
 ## Intro

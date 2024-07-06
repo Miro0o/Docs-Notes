@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Virtualization Theory](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
-↗ [Hardware-assisted Virtualization](../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md) (Chipset-assisted Virtualization/Network Virtualization)
+↗ [Virtualization Theory](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Hardware-assisted Virtualization](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/📌%20Hardware-assisted%20Virtualization/Hardware-assisted%20Virtualization.md) (Chipset-assisted Virtualization/Network Virtualization)
 ↗ [Linux Network](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
 
-↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
-↗ [Virtual Routing and Forwarding (VRF)](../📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Virtual%20Routing%20and%20Forwarding%20(VRF).md)
+↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+↗ [Virtual Routing and Forwarding (VRF)](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Virtual%20Routing%20and%20Forwarding%20(VRF).md)
 
 ↗ [Anonymous & Private Network /VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 - ↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
@@ -42,7 +42,7 @@
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230412170938.png)
 
-↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 ↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 ↗ [APN (Access Point Name)](APN%20(Access%20Point%20Name).md)
 ↗ [Overlay Network](Overlay%20Network.md)
@@ -76,7 +76,7 @@ Apart from the underlay network(IP network), **network overlays** are virtual ne
 #### LISP (Locator/Identifier Separation Protocol)
 
 #### VxLAN (Virtual Extensible LAN)
-↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 #### NVGRE (Network Virtualization Using Generic Routing Encapsulation)
 ↗ [GRE (Generic Routing Encapsulation)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/GRE%20(Generic%20Routing%20Encapsulation).md)
 ↗ [NVGRE (Network Virtualization using GRE)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/NVGRE%20(Network%20Virtualization%20using%20GRE).md)

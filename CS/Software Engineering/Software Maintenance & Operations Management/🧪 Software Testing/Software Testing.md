@@ -17,7 +17,7 @@
 ### Learning Resources
 [Prototype Testing Tutorial](https://www.softwaretestinghelp.com/prototype-testing-tutorial/)
 
-[Pilot Testing – A Complete Guide](https://www.softwaretestinghelp.com/what-is-pilot-testing/) 
+[Pilot Testing – A Complete Guide](https://www.softwaretestinghelp.com/what-is-pilot-testing/)
 
 
 【2022最新软件测试自学教程 新手小白30天软件测试入门最强教程】 https://www.bilibili.com/video/BV1NM4y1K73T/?p=33&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
@@ -174,3 +174,14 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 - [Best QA Software Testing Services from SoftwareTestingHelp](https://www.softwaretestinghelp.com/best-qa-software-testing-service-provider-company/)
 
 [🤔 常见的二十种软件测试方法详解（史上最全） | cnblog]: https://www.cnblogs.com/ybqjymy/p/16727372.html
+
+[9个最佳性能测试工具（2024）]: https://mp.weixin.qq.com/s/m8nCZm8QWPzxmR5J3Cj3fQ
+1. Tricentis NeoLoad
+2. BlazeMeter
+3. PFLB
+4. StresStimulus
+5. Apache Jmeter
+6. OpenText LoadRunner Professional
+7. Micro Focus Silk Performer
+8. Rational Performance Tester
+9. SmartMeter.io

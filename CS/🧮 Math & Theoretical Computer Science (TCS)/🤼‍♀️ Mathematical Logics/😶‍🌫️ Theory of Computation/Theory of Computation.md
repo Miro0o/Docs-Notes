@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+
+
+### Learning Resources
 📖 Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 - [Sipers-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
 
@@ -17,8 +21,6 @@
 
 
 
-
-
 ## Intro
 
 > 🔗 https://en.wikipedia.org/wiki/Theory_of_computation
@@ -27,6 +29,7 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_com
 1. [automata theory](https://en.wikipedia.org/wiki/Automata_theory "Automata theory") and [formal languages](https://en.wikipedia.org/wiki/Formal_language "Formal language"),
 2. [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory"), and
 3. [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory "Computational complexity theory"), which are linked by the question: _"What are the fundamental capabilities and limitations of computers?"._
+
 
 
 ## Ref

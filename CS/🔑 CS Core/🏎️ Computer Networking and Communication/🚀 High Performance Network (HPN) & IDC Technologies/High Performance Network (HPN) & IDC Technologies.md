@@ -13,8 +13,8 @@
 ↗ [Linux IO & Files Management](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/Linux%20IO%20&%20Files%20Management.md)
 ↗ [Linux Network](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
 
-↗ [0x06 Data Link Layer](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
-↗ [IDC & Data Center Networking](../📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/IDC%20&%20Data%20Center%20Networking.md)
+↗ [0x06 Data Link Layer](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
+↗ [IDC & Data Center Networking](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/IDC%20&%20Data%20Center%20Networking.md)
 
 ↗ [NPU (Network Processing Unit)](../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
 ↗ [High Performance Computing](../../🧬%20Computer%20System/Computing%20&%20Computing%20Systems/High%20Performance%20Computing/High%20Performance%20Computing.md)

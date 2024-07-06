@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Program Execution & Compilation System](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
-↗ [Library Level Virtualization](../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
+↗ [Library Level Virtualization](../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
 
 ↗ [System Call Interfaces (SCI)](../../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
 - ↗ [POSIX (Portable Operating System Interface)](../../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
@@ -19,7 +19,7 @@
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 - ↗ [GNU C Library (glibc)](📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
-↗ [OS Level Virtualization](../../../../../🧬%20Computer%20System/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
+↗ [OS Level Virtualization](../../🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
 
 ↗ [🍸 Linux Kernel](../../Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 

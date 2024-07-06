@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e5391e270a81a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Access Control (访问控制).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72229f924ca50f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
+                "file": "Personal Lives/Diets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
+                "file": "Personal Lives/Diets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
+                "file": "Personal Lives/Diets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md"
+                "file": "Personal Lives/Diets.md"
               }
             }
           },
@@ -197,54 +170,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "72229f924ca50f2b",
+  "active": "b7cb2e71ec23f552",
   "lastOpenFiles": [
-    "top-1000-ports.xml",
-    "top-1000-ports.gnmap",
-    "top-1000-ports.nmap",
-    "Assets/Pics/Pasted image 20240630155001.png",
-    "CS/Academics/FAQ.md",
-    "CS/Academics/Academics.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/Linux Kernel (Modules) Management.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/init.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/System Services Management/sysctl.md",
+    "CS/🏠 Assets/Study, University, and Education/科技创新人才培养 - 钱学森.md",
+    "Personal Lives/Diets.md",
+    "CS/🏠 Assets/Study, University, and Education/社会的产生与发展.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK (Data Plane Development Kits).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/DPDK Official Apps & DPDK Testing.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Access Control (访问控制).md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x06 Data Link Layer/Switched LAN/Broadcast Channels/Multiple Access Links & Protocols/Random Access Protocols/Carrier Sense Multiple Access (CSMA)/CSMA with Collision Detection (CSMA-CD)/CSMA with Collision Detection (CSMA-CD).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/TestPMD.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/General Builders/GNU Make/GNU Make.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🎯 Ranges Environments/VulStack.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/Cyber Ranges & Labs.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Emulators/GNS3.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Dynamic Routing Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Link-State Based IGP/OSPF (Open Shortest Path First)/OSPF (Open Shortest Path First).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🪆 Process Management/Process Management Basics.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/Vim/Vim Usages/Vim Basic Usages.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Computer Networking and Communication.md",
-    "Assets/Pics/Pasted image 20240625233853.png",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Emulators/Mininet.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Official Apps & DPDK Testing/test (DPDK API test).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/DPDK (Data Plane Development Kits)/DPDK Applications & User Scenarios.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/🥏 C & CPP/C & CPP.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/👔 C-Based Languages/Troubleshooting.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/Linux on IBM Z (Linux on zSystems)",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zTPF",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zVSE",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems/zVM",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/IBM Operation Systems",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Untitled",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/Commercial Computer Chips",
-    "Assets/Pics/Pasted image 20240622161235.png",
-    "Assets/Pics/Pasted image 20240622022024.png",
-    "Assets/Pics/Pasted image 20240622021325.png",
-    "Assets/Pics/Pasted image 20240622021302.png",
-    "Assets/Pics/Pasted image 20240622021140.png",
-    "Assets/Pics/Pasted image 20240620204800.png",
-    "Assets/Pics/Pasted image 20240619201036.png",
-    "Assets/Pics/Pasted image 20240619201017.png",
+    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
+    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.png",
+    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.svg",
+    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computational Complexity Theory/Computational Complexity Theory.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/Computability Theory.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Operating Systems (Engineering Part).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
+    "CS/CyberSecurity/国产替代与信创产业.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/国产芯片.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/VIA Chips.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/Intel Chips.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/IBM Chips.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/Apple Chips.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/Microprocessors Unit (MPU).md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/国产数据库.md",
+    "CS/CyberSecurity/🚬 Cryptology/🤐 Cryptography/国密算法/国密算法.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/国产操作系统.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/优麒麟操作系统",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/红旗 Linux",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/deepin",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/TencentOS Server Kernel",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/Alibaba Cloud Linux",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/统信 uos",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/Anolis OS",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/KylinOS (银行麒麟)",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦",
+    "Assets/Pics/Pasted image 20240705182541.png",
+    "Entrepreneurship/Marketing",
+    "Personal Lives/Assets/quentin.jpeg",
+    "Personal Lives/Assets/IMG_0400.jpeg",
+    "Personal Lives/Assets/F54E53F8-8F20-4728-A939-8DB7EA5329B2_1_105_c.jpeg",
+    "Personal Lives/Assets/CC6CA643-F897-4A7F-8D89-CB40F7911DD9_1_105_c.jpeg",
+    "Personal Lives/Assets/769607A1-8A4E-42B4-870F-5002F9219C33_1_105_c.jpeg",
+    "Personal Lives/Assets/641CB604-D720-4F9A-9514-F7896FB0F021_1_105_c.jpeg",
+    "Personal Lives/Assets/34C5B0DE-5526-4842-AE6F-E22D58B2A73C_1_105_c.jpeg",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
