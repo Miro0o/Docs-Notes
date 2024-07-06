@@ -27,7 +27,7 @@ The sequence `ESC [07m` also contains a redundant code, `ESC [7m` is enough to p
 #c #cpp 
 
 > *p = new int / int p ??
-> see [[顺序表和链表#^f56a27| malloc]]
+> see [[../../../../../Assets/Archive/Curriculums/SCU/CS/数据结构与算法分析/顺序表和链表#^f56a27| malloc]]
 
 ```c++
 void* malloc (size_t size);

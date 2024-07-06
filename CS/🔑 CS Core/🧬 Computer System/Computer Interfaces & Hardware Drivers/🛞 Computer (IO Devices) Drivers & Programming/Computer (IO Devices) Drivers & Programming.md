@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Computer IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
 ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
-↗ [0x06 Data Link Layer](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
-↗ [0x07 Physical Layer](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
+↗ [0x06 Data Link Layer](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
+↗ [0x07 Physical Layer](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x07%20Physical%20Layer/0x07%20Physical%20Layer.md)
 
 ↗ [Operating System & OS Kernel (Theory Part)](../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 - ↗ [OS IO System](../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)

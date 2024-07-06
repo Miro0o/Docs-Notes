@@ -22,7 +22,7 @@ RAMAC   (Random Access Method of Accounting and Control)
 				+ TBD..
 			+ head crush
 			+ specs: 
-			  ![[Screen Shot 2021-10-13 at 15.17.10.png]]
+			  ![[../../../../../../../../Assets/Archive/Curriculums/Assets/Screen Shot 2021-10-13 at 15.17.10.png]]
 			+ **locating a block of data**
 				+ seek time (main time cost)
 				+ latency

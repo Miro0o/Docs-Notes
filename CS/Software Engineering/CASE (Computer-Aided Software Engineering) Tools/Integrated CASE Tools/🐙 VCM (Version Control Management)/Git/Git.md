@@ -29,6 +29,9 @@
 - [Learn Git Branching](https://learngitbranching.js.org/) is a browser-based game that teaches you Git.
 - [xkcd.com](https://xkcd.com/1597/)
 
+🎬 👍【Git底层原理与分析模型】 https://www.bilibili.com/video/BV1vf421D7a6/?share_source=copy_web
+文字稿：https://www.cnblogs.com/liqinglucky/p/git.html
+
 
 ### Cheat Sheet
 https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html (git often-used commands)

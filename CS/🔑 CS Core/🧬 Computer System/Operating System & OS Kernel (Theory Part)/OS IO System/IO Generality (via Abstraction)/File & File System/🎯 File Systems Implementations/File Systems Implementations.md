@@ -14,8 +14,8 @@
 ↗ [Database System](../../../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
 ↗ [Cloud Database](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Cloud%20Database.md)
 
-↗ [NAS (Network-Attached Storage) Protocols](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
-↗ [Storage Area Network (SAN)](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x06%20Data%20Link%20Layer/Switched%20LAN/Storage%20Area%20Network%20(SAN).md)
+↗ [NAS (Network-Attached Storage) Protocols](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
+↗ [Storage Area Network (SAN)](../../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/Storage%20Area%20Network%20(SAN).md)
 
 ↗ [macOS File System](../../../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/macOS%20File%20System.md)
 - ↗ [HFS (Hierarchical File System) & HFS+ (macOS Extended)](../../../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20IO%20&%20Files%20Management/macOS%20File%20System/🧃%20HFS%20(Hierarchical%20File%20System)%20&%20HFS+%20(macOS%20Extended)/HFS%20(Hierarchical%20File%20System)%20&%20HFS+%20(macOS%20Extended).md)

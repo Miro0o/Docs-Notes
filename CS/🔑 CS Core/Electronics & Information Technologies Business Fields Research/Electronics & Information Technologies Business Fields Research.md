@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 ↗ [Institutes & Organizations in CS & IT](../../🗺%20CS%20Overview/Institutes%20&%20Organizations%20in%20CS%20&%20IT.md)
-↗ [IT Entrepreneurship & Business](../../🗺%20CS%20Overview/CS%20&%20IT%20Jobs%20&%20Interns%20Related/IT%20Entrepreneurship%20&%20Business/IT%20Entrepreneurship%20&%20Business.md)
+↗ [IT Entrepreneurship & Business](../../../Entrepreneurship/IT%20Entrepreneurship%20&%20Business.md)
 
 ↗ [AI WatchList](../../Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
 
@@ -39,4 +39,8 @@ The electronics industry consists of various sectors. The central driving force 
 [数字经济及其核心产业统计分类（2021） | 国家统计局令]: https://www.gov.cn/gongbao/content/2021/content_5625996.htm
 
 [Electronics industry | wikipedia]: https://en.wikipedia.org/wiki/Electronics_industry
+
+[73 「一图看懂中美互联网平行宇宙（仅供参考） - 电商（全渠道）一点通 | 小红书 - 你的生活指南」 😆 ngeZATOMrIwpVLt 😆]: http://xhslink.com/y442xO
+
+![](../../../Assets/Pics/Pasted%20image%2020240705173804.png)
 

@@ -192,6 +192,9 @@ It also implements architecture optimized functions (e.g. memcpy, string operati
 
 
 ### Linux Kernel Components Overview
+![WechatIMG484](../../../../../Assets/Pics/WechatIMG484.jpg)
+
+
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-30%20at%2012.48.02%20PM.png)
 
 Briefly, the principal kernel components are the following:

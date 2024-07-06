@@ -66,9 +66,9 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ## 🚀 A Serious CS Roadmap
 ### 0️⃣ Before you hit the road ...
-↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/科技创新人才培养.md)
-↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
-↗ [我们需要怎样的数学教育？](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
+↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Study,%20University,%20and%20Education/科技创新人才培养.md)
+↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
+↗ [我们需要怎样的数学教育？](../🏠%20Assets/Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
 ↗ [How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 - ↗ [外语学习误区及真实方法](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
 
@@ -82,7 +82,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
 
-↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 
 ### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
@@ -146,6 +146,26 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 
 
+## Universities' CS Training Scheme
+### Computer Science
+
+
+[加州大学伯克利分校(UCB)计算机专业课程体系解析]: https://mp.weixin.qq.com/s/bQSC-7fC0h217NjrDE64iA
+
+
+### Computer Security /CyberSecurity
+
+
+### Software Engineering
+
+
+
+## Experiences From the Past
+[我的十年程序员生涯]: https://mp.weixin.qq.com/s/sVtChB0SrwmZIwqr5wJARA
+[我在南大的七年]: https://mp.weixin.qq.com/s/bC0YXdOUUMtOCmplAkJ4yg
+
+
+
 ## 🎉 More Res
 > ↗ [😅 Wiki & Resources Searching](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources%20Searching.md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
@@ -153,6 +173,12 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ### Generic IT Knowledge
 #### IT & CS Updates /Trending/ News /Analysis
+---
+微信公众号：
+- hellogithub
+- codesheep
+- 
+
 ---
 **Gartner** 
 [Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
@@ -209,9 +235,10 @@ Hacker News is a social news website focusing on computer science and entreprene
 ---
 🔈 https://hnrss.github.io/#activity-parameters
 hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
+
+
 #### Enterprise's Updates
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
-
 #### CS/IT Communities & Forums
 **launchpad help**
 🏠 https://help.launchpad.net
@@ -562,8 +589,8 @@ You can find my ResearchGate [here](https://www.researchgate.net/profile/Huang-
 
 
 ### Campus Lifes
-↗ [CS International Universities & Countries' Lives](CS%20International%20Universities%20&%20Countries'%20Lives/CS%20International%20Universities%20&%20Countries'%20Lives.md)
-↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Personal%20Learning,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+↗ [CS International Universities & Degrees](CS%20International%20Universities%20&%20Degrees/CS%20International%20Universities%20&%20Degrees.md)
+↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 
 ---
@@ -613,9 +640,8 @@ https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf
 认知偏差知识手册 - 飞书
 
 ---
-https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
-
 The Cognitive Bias Codex
+https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 
@@ -627,4 +653,3 @@ https://www.zhihu.com/question/264237428/answer/320325900
 
 [程序员核心竞争力 | 脉脉]: https://maimai.cn/n/content/feed-detail?efid=oPRMEXqLWHNV5X2b1dGPow&fid=1832670358&id=1832670358&share_channel=5&share_uid=234632291&operation_id=2_0513m8IsUZZ3h3cO7d9&use_rn=1&_share_channel=copy_link
 
-[落地才是大佬的核心竞争力]: 

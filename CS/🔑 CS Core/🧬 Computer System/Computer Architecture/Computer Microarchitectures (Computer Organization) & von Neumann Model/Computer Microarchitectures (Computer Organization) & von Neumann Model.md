@@ -85,7 +85,7 @@ More is at ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neuma
 
 
 
-## Microarchitecture Designs
+## Microarchitecture Hardware Designs
 ### Developments of Von Neumann Microarchitecture Designs
 > 🔗 https://foxsen.github.io/archbase/计算机组成原理和结构.html#计算机系统硬件结构发展
 

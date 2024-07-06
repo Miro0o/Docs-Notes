@@ -6,8 +6,8 @@
 
 ## Res
 ↗ [Identity & Access Management (IAM)](../../../../CyberSecurity/⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
-↗ [LDAP (Lightweight Directory Access Protocol)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/LDAP%20(Lightweight%20Directory%20Access%20Protocol)/LDAP%20(Lightweight%20Directory%20Access%20Protocol).md)
-↗ [X.500](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/X.500/X.500.md)
+↗ [LDAP (Lightweight Directory Access Protocol)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/LDAP%20(Lightweight%20Directory%20Access%20Protocol)/LDAP%20(Lightweight%20Directory%20Access%20Protocol).md)
+↗ [X.500](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/X.500/X.500.md)
 
 ↗ [Name Services](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/UNIX%20Family/💂‍♂️%20UNIX%20System%20Services/Name%20Services.md)
 

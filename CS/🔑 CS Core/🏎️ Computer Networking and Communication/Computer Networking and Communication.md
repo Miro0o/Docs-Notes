@@ -81,14 +81,14 @@ Termshark is based on ↗ [Wireshark](../../CyberSecurity/☠️%20Kill%20Chain/
 
 
 ## Intro
-↗ [Information, Signals, and Communication Technology Intro](📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
-↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
+↗ [Information, Signals, and Communication Technology Intro](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Information,%20Signals,%20and%20Communication%20Technology%20Intro.md)
+↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
 
-↗ [⭐️ Computer Network Communication Process Overview](📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/⭐️%20Computer%20Network%20Communication%20Process%20Overview.md)
+↗ [⭐️ Computer Network Communication Process Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/⭐️%20Computer%20Network%20Communication%20Process%20Overview.md)
 
 
 ---
-Learning classic computer networking knowledge from ↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
+Learning classic computer networking knowledge from ↗ [Computer Network and Communication Introduction & Overview](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20and%20Communication%20Introduction%20&%20Overview.md)
 
 ![](../../../Assets/Cheat%20Sheets/科来《网络通讯协议图2023版》.pdf)
 <small>科来《网络通讯协议图2023版》</small>
@@ -102,8 +102,8 @@ More Topics With Fun! 🥳
 	- ↗ [Proxy](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy/Proxy.md)
 	- ↗ [Darknet](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Darknet.md)
 	- ↗ [Onion Network & Tor](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Onion%20Network%20&%20Tor/Onion%20Network%20&%20Tor.md)
-- ↗ [NAS (Network-Attached Storage) Protocols](📌%20Computer%20Networking%20Basics/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
-- ↗ [NAT (Network Address Translation)](📌%20Computer%20Networking%20Basics/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
+- ↗ [NAS (Network-Attached Storage) Protocols](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)
+- ↗ [NAT (Network Address Translation)](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x05%20Network%20Layer/MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
 	- ↗ [VPN & NAT Implementations](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Implementations.md)
 - Numerous networking toolsets ...
 - etc..

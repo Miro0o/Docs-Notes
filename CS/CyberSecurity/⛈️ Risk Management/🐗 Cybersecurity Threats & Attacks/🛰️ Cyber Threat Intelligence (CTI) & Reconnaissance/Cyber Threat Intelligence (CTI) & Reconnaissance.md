@@ -68,9 +68,16 @@ https://ti.dbappsecurity.com.cn/
 
 https://www.antiycloud.com/
 安天威胁情报中心
+https://www.antiycloud.com/#/antiy/index
+安天 - 威胁情报分析平台
 
 https://wiki.sec.sangfor.com.cn/index/abroad
 深信服安全中心
+https://ti.sangfor.com.cn/analysis-platform
+深信服威胁情报中心
+
+https://ti.hillstonenet.com.cn/main
+山石云瞻 威胁情报中心
 
 https://ti.qianxin.com
 奇安信 威胁情报中心
@@ -85,10 +92,20 @@ https://nti.nsfocus.com
 绿盟威胁情报中心
 
 https://ti.360.cn
+https://ti.360.net/
 360 安全大脑
 
 https://yundunnext.console.aliyun.com/?spm=a2c4g.182074.0.0.49d11e37f4iGls&p=sasti#/overview
 阿里云 威胁情报中心
+
+https://isecurity.huawei.com/sec/web/urlClassification.do#
+华为 威胁情报中心
+
+https://tix.qq.com/
+腾讯 威胁情报中心
+
+http://www.cntd.org.cn/
+CNTD 威胁情报中心
 #### Outside-China Providers
 https://groups.oasis-open.org/communities/tc-community-home2?CommunityKey=c6c33da0-d1ee-42dd-9427-018dc7d32277
 OASIS Cyber Threat Intelligence (CTI) TC
@@ -130,7 +147,23 @@ https://www.fortinet.com/cn/fortiguard/labs
 FortiGuard
 
 
-### Other Threat Intelligence Sources
+### Other Threat Intelligence Projects
+https://github.com/H-Limbus/NoMoney
+NoMoney
+NoMoney 是一款信息收集的工具，其中集成了fofa，zoomeye(钟馗之眼)，censys，奇安信的鹰图平台，360quake。从这个名字就可以看出，这款工具涉及的范围在以上平台中都是免费的。其中fofa 与zoomeye 是基于网络爬虫获取数据，而其余各大平台都有相对应的免费api，但是有一定的查询限制。
+
+https://www.venuseye.com.cn/
+Venus Eye
+
+https://www.virustotal.com/gui/home/upload
+https://www.virscan.org/
+
+https://exchange.xforce.ibmcloud.com/
+
+https://opentip.kaspersky.com/
+
+https://mac-cloud.riskivy.com/detect
+https://habo.qq.com/
 
 
 
@@ -197,4 +230,6 @@ In this chapter, you will learn the principles and practices of passive reconnai
 
 [The 27 Best Cybersecurity Sites in 2024 | UpGuard]: https://www.upguard.com/blog/cybersecurity-websites
 
-[👍 最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA
+[最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA
+
+[HW常用网站]: https://mp.weixin.qq.com/s/5eBWZWq3bxqj7TInh78nAw
