@@ -29,12 +29,34 @@ CS自学指南
 
 > 各位同学们，在本书的开始，我不得不遗憾地告诉大家一个消息。国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。在此，我无意争论是否复旦、中科大、或者清华、北大是否比我们崩溃的更少一些——这种争论是没有意义的。我只是看到了无数充满求知欲、激情、与年轻梦想的同学们，将要把自己的四年青春，充满希望与信任地交给大学来塑造。这使我心中非常不安。
 
+---
 [上海交通大学大学飞跃手册 (Under Construction)](https://survivesjtu.github.io/SJTU-Application/#/)
 #### THU
 ---
 [清华大学计算机系学生科协技能引导文档](https://docs.net9.org)
 
 > 本技能引导文档由清华大学计算机系学生科协维护，目标在于让计算机类与计算机系的学生能够快速地掌握某些特定的技能，并且通过给出这些技能在课程、科研与实习中可能运用的方式，节省同学们收集相关资料的时间，同时提升同学们学习新技能的能力。
+
+---
+https://github.com/PKUanonym/REKCARC-TSC-UHT
+清华大学计算机系课程攻略
+
+如果您是清华大学学生，可移步 [https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT](https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT) 进行查看并且能节约不少流量。
+#### ZJU
+https://qsctech.github.io/zju-icicles/
+浙江大学课程攻略共享计划
+
+来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
+
+有些是需要在网上搜索的电子书，每次见到一门新课程，Google 一下教材名称，有的可以立即找到，有的却是要花费许多眼力；有些是历年试卷或者 A4 纸，前人精心收集制作，抱着能对他人有用的想法公开，却需要在各个群或者 CC98 中摸索以至于从学长手中代代相传；有些是上完一门课才恍然领悟的技巧，原来这门课重点如此，当初本可以更轻松地完成得更好……
+
+我也曾很努力地收集各种课程资料，但到最后，某些重要信息的得到却往往依然是纯属偶然。这种状态时常令我感到后怕与不安。我也曾在课程结束后终于有了些许方法与总结，但这些想法无处诉说，最终只能把花费时间与精力才换来的经验耗散在了漫漫的遗忘之中。
+
+我为这一年一年，这么多人孤军奋战的重复劳动感到不平。
+
+我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。
+
+我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 #### UESTC
 ---
 [电子科技大学课程资料共享平台 | Course material sharing platform of UESTC](https://github.com/Xovee/uestc-course)
@@ -66,6 +88,8 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ## 🚀 A Serious CS Roadmap
 ### 0️⃣ Before you hit the road ...
+↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+
 ↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Study,%20University,%20and%20Education/科技创新人才培养.md)
 ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
 ↗ [我们需要怎样的数学教育？](../🏠%20Assets/Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
@@ -80,9 +104,9 @@ https://github.com/hoochanlon/hamulete/tree/master
 - [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 - [xy problem](https://xyproblem.info)
 
-🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
+🔗 [What Does "TLDR" Mean, and How Do You Use It?](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/_)
 
-↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
 
 
 ### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
@@ -140,23 +164,22 @@ https://github.com/hoochanlon/hamulete/tree/master
 ### 3️⃣ Dig into CS/IT Academia or Industry
 ↗ [Academics](../Academics/Academics.md)
 - ↗ [Academic Conference & Journals in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
-- ↗ [Academic Institutions in Electronic & Information Fields](../Academics/🏢%20Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+- ↗ [Academic Institutions in Electronic & Information Fields](../Academics/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 
 
 ## Universities' CS Training Scheme
-### Computer Science
+Computer Science
+- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../🏠%20Assets/Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
+- ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
+- 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
+- 
 
+Computer Security /CyberSecurity
 
-[加州大学伯克利分校(UCB)计算机专业课程体系解析]: https://mp.weixin.qq.com/s/bQSC-7fC0h217NjrDE64iA
-
-
-### Computer Security /CyberSecurity
-
-
-### Software Engineering
+Software Engineering
 
 
 
