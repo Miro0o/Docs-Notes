@@ -406,14 +406,14 @@ Labs - Data Science, AI & Robotics
 https://eecs.berkeley.edu/academics/graduate/
 
 1. Industry-Oriented Degree Programs
-	2. https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/
-	3. Master of Engineering (M.Eng.)
+	1. https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/
+	2. Master of Engineering (M.Eng.)
 		1. - TOEFL:  No min requirement. Avg admittee: >100 score; iBT: 90 minimum (or 7 out of 9 on the IELTS)
 		2. GPA: 3.0 min requirement. Avg admittee: 3.7
 		3. Average admissions rate for M.Eng program: 12%
 		4. Strong technical background equivalent to a computer science bachelor’s degree.
 		5. Experience in programming, algorithms, data structures, and theory at or above the undergraduate level.
-	4. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
+	3. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
 2. Research-Oriented Degree Programs
 #### 👉 University of California, San Diego
 #### 👉 Purdue University

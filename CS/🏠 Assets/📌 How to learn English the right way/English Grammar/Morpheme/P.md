@@ -2858,15 +2858,52 @@
 			4. provably
 		5. unproved
 	16. proof
-		1. proofroom
-		2. proofread, proofreader
-		3. proofplane
-		4. proofness
-		5. proofmark
-		6. proofing
-		7. proofer
-		8. proof-test
-		9. overproof
+		1. n. 证据, 证明, 试验, 检验, 考验; 校样  
+		2. a. 不能透入的, 证明用的, 防...的, 耐...的  
+		3. vt. 检验, 试验, 校对, 使不被穿透
+		4.  来自 prove 的名词形式，拼写比较 believe,belief.
+		5. [cogent evidence](dic://cogent evidence)
+		6. [test copy](dic://test copy), [trial impression](dic://trial impression)
+		7. [validation](dic://validation), [substantiation](dic://substantiation)
+		8. [proofread](dic://proofread)
+		9. _n._ [evidence](dic://evidence), [grounds](dic://grounds), [argument](dic://argument), [statement](dic://statement), [measure](dic://measure), [quantity](dic://quantity), [amount](dic://amount)
+		10. _v._ [produce](dic://produce), [make](dic://make), [create](dic://create), [knead](dic://knead), [work](dic://work), [see](dic://see), [check](dic://check)
+		11. _adj._ [impervious](dic://impervious), [imperviable](dic://imperviable)
+		12. _n._ [pervious](dic://pervious)
+		13. **prove**证明;**evidence**证据，证明;**proving**证明;**disprove**反驳，证明…是虚假的;**substantiate**用事实支持;**conclusive**令人信服的,确凿的;**verification**确认;**assertion**主张,维护;**verifiable**能作证的,能证实的;**refute**反驳，驳斥;**conclusively**最后地;
+		14. _burden of proof_ 举证责任；提供证据之责任
+		15. _water proof_ 防水的；不透水的
+		16. _explosion proof_ 防爆
+		17. _moisture proof_ 防潮
+		18. _corrosion proof_ 防腐的；防腐蚀的；耐蚀性的
+		19. _fire proof_ 防火；耐火的
+		20. _abrasion proof_ [机]耐磨
+		21. _dust proof_ 防尘的；防尘
+		22. _oil proof_ 耐油
+		23. _damp proof_ 防潮，防湿性
+		24. _air proof_ 不透空气；密封
+		25. _shock proof_ 抗震的，防震的；抗冲击的；抗振
+		26. _documentary proof_ 文件证明
+		27. _acid proof_ 耐酸性；抗酸性
+		28. _skid proof_ 防滑
+		29. _bullet proof_ 防弹的
+		30. _onus of proof_ 举证责任
+		31. _proof of purchase_ 购买凭证
+		32. _wear proof_ 耐磨的
+		33. _mould proof_ 防霉
+		34. added proof
+			1. And as added proof, the bones of both have been carbon dated and this proves that they lived together. /作为附加证据，两者的骨头都做过碳同位素测年，这也证明了它们曾一起生活。
+			2. The fact he finished second only to Clichy in terms of forward runs is **added** **proof** of Toure's efficency on the attack. /事实上，在压上进攻表现上，托雷仅仅落后于克利希，这也证明了托雷在攻击上的作用。
+			3. 
+		35. proofroom
+		36. proofread, proofreader
+		37. proofplane
+		38. proofness
+		39. proofmark
+		40. proofing
+		41. proofer
+		42. proof-test
+		43. overproof
 8. **proper-, propri- = own**, n, 表示“拥有”，引申为“恰当的”。
 	1. appropriate
 		1. ap-一再 + propri-拥有 + -ate, 表动词 → 一再拥有[公物] → 挪用。

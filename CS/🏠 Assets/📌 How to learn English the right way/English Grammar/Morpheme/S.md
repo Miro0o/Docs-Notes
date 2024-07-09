@@ -1135,20 +1135,74 @@
 ### ⭐ + \*sekw- + 
 #### + \*sekw- (1) + = to follow
 1. **secut-, sequ-, su-** = follow, 表示“跟随”。源自 拉丁语 sequi "to follow," sequester "follower."
-	1. consecution, consecutive
-		1. inconsecutive
-		2. consecutiveness
-		3. consecutively
+	1. consecution
+		1. n. 连续；条理；词序和语法变化等一致
+		2. consecutive
+			1. con-全部 + secu-跟随 + -tive, 表形容词 → 一个接一个跟随。
+			2. _adj._ [ordered](dic://ordered), [continuous](dic://continuous), [uninterrupted](dic://uninterrupted),   
+			3. _adv._ [sequent](dic://sequent), [sequential](dic://sequential), [serial](dic://serial), [successive](dic://successive)
+			4. _n._ [disordered](dic://disordered), [unordered](dic://unordered), [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous),  
+			5. **successive**连续的;**back-to-back**背靠背的;**three**三，三个;**six**六，六个;**four**四;**seven**七个，七;**eight**八个;**five**五，五个;**nine**九，九个;**fourth**四分之一的;**fifth**第五的;
+			6. _consecutive days_ 连续营业日；连续作业日
+			7. _consecutive interpreting_ 交替传译
+			8. _consecutive reaction_ 连锁反应
+			9. a consecutive clause. /结果从句
+			10. on consecutive five days /连续五天
+			11. they registered their third consecutive draw. /他们取得第三场连平。
+			12. rang up several consecutive victories. /取得几次连续性的胜利
+			13. was absent on three consecutive days; won five consecutive games on the road. /接连三天都缺席；一路上连续赢了五场比赛
+		4. inconsecutive
+		5. consecutiveness
+		6. consecutively
 	2. persecute
-		1. persecutor
-		2. persecution
-		3. persecutee
+		1. per-始终 + secut-跟随 + -e → 从头跟到尾 → 迫害。
+		2. per-,完全的，-sec,追求，跟随，词源同 execute,sequence.引申词义追踪，猎捕，迫害。
+		3. vt. 迫害, 虐待, 困扰, 同...捣乱
+		4. v. （尤指因种族、宗教或政治信仰而）迫害，残害；骚扰，纠缠
+		5. [oppress](dic://oppress)
+		6. _v._ [torment](dic://torment), [rag](dic://rag), [bedevil](dic://bedevil), [crucify](dic://crucify), [dun](dic://dun), [frustrate](dic://frustrate)
+		7. **harass**使烦恼;**condemn**判刑，定罪;**slander**诽谤;**prosecute**检举、告发某人;**punish**严厉对待;**intimidate**恐吓, 威胁;**heretics**异教徒;**accuse**控告，指控;**humiliate**蒙羞;**denounce**谴责;**discredit**败坏…的名声;
+		8. _[persecute others](dic://persecute%20others)_  迫害别人; 整人;
+		9. Bless those who persecute you; bless and do not curse /逼迫你们的，要给他们祝福，只要祝福，不可咒诅。
+		10. She never threatened or persecuted him /她没有威胁或迫害他。
+		11. As a mother, I feel helpless watching my son be persecuted for a crime he did not commit /作为母亲，我很无助看着我的孩子背负着莫须有的罪名。
+		12. **Persecute** and destroy them in anger from under the heavens of the LORD /你要发怒追赶他们，从耶和华的天下除灭他们。
+		13. persecutor
+			1. _n._ [oppressor](dic://oppressor)
+			2. **persecution**迫害或受迫害;**martyr**烈士;**heretics**异教徒;**murderer**凶手;**apostle**传道者;**sinner**罪人;**adversary**对手, 敌手;**perpetrator**做坏事者;**zealous**热心的，热情的，积极的;**victim**牺牲者;**martyrdom**殉难;
+			3. How long must your servant wait? When will you punish my persecutors? /你仆人的年日有多少呢？你几时向逼迫我的人施行审判呢？
+			4. I heard not even the retiring footsteps of my Persecutors. /我什至没有听到我的迫害者撤退的脚步声。
+		14. persecution
+			1. _n._ [maltreatment](dic://maltreatment), [ill-treatment](dic://ill-treatment), [ill-usage](dic://ill-usage), [abuse](dic://abuse)
+			2. **oppression**压迫手段;**repression**压抑;**martyrdom**殉难;**deportation**驱逐出境;**intolerance**偏狭;**bigotry**顽固;**injustice**不公正;**genocide**种族灭绝;**discrimination**歧视;**harassment**骚扰, 扰乱;**hostility**敌意;
+			3. _[persecution complex](dic://persecution%20complex)_  被迫害妄想；迫害情结
+			4. _[persecution mania](dic://persecution%20mania)_  被迫害妄想症
+			5. _[persecution delusion](dic://persecution%20delusion)_  虐待幻觉
+			6. _[delusion of persecution](dic://delusion%20of%20persecution)_  迫害妄想
+			7. This is a persecution of a political opponent. /这是对政治对手的迫害。
+			8. The Kurdish migrants frequently cite persecution in Turkey. /库尔德移民经常提到土耳其的悲惨遭遇。
+			9. In such an environment, journalists have faced increased online abuse, and fear of persecution. /在这样的环境下，记者们面临着越来越多的网络谩骂以及担心受到迫害的恐惧。
+			10. Tom had become indifferent to **persecution** by this time /这时，汤姆已经对和这跟迫害差不多的治疗麻木不仁。
+			11. Yet, as often as not, they find themselves the target of **persecution** rather than praise. /然而，他们往往发现自己是迫害对象，而不是表扬对象。
+		15. persecutee
 	3. prosecute
-		1. prosecutrix
-		2. prosecutor
-		3. prosecution
-		4. prosecuting
-		5. prosecutable
+		17. pro-在前 + secut-跟随 + -e → 跟随到[法官]前面 → 控告。
+		18. vt. 告发, 起诉, 彻底进行, 执行, 从事  
+		19. vi. 告发, 起诉, 作检察官
+		20. prosecutrix
+		21. prosecutor
+		22. prosecution
+			1. _n._ [legal action](dic://legal action), [action](dic://action), [action at law](dic://action at law), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+			2. _n._ [defense](dic://defense), [defence](dic://defence), [denial](dic://denial), [demurrer](dic://demurrer), [defense team](dic://defense team), [defense lawyers](dic://defense lawyers)
+			3. **prosecutor**检举人;**acquittal**宣告无罪;**criminal**罪犯;**indictment**起诉;**extradition**引渡逃犯;**trial**试验;**conviction**确信, 坚定的信仰;**defendant**被告;**arrest**逮捕;**investigation**调查;**crimes**犯罪;
+			4. the prosecution rests. 
+			5. prosecution at the instance of the police. /应警方要求进行的起诉。
+			6. The prosecution is / are coming into court. /原告一方正在走进法庭。
+			7. they sketched out the prosecution case. /他们概述了这起起诉案。
+			8. The finance director is subpoenaed by prosecution. /财务经理被检查机关传讯。
+			9. Donald Trump is already facing three other prosecutions. /唐纳德·特朗普已经面临另外三项起诉。
+		23. prosecuting
+		24. prosecutable
 	4. execute
 		1. unexecuted
 		2. inexecutable
@@ -1161,21 +1215,55 @@
 		9. executant
 		10. executable
 		11. coexecutrix
-	5. obsequial, obsequies
-		1. _[obsequies ceremony](dic://obsequies%20ceremony)_ 丧俗仪式
-		2. _[obsequies culture](dic://obsequies%20culture)_ 丧俗文化
-		3. _[vestment in obsequies](dic://vestment%20in%20obsequies)_ 丧服制度
+	5. obsequy /obsequies
+		1. 来自 obsequy 的复数形式，也为常见形式。来自拉丁语 exsequi,送葬，来自 ex-,向外，-sequi,跟随，词源同 sequence.拼写和词义可能是受到 obsequium 影响，词源同 obsequious.
+		2. _[obsequies ceremony](dic://obsequies%20ceremony)_ 丧俗仪式
+		3. _[obsequies culture](dic://obsequies%20culture)_ 丧俗文化
+		4. _[vestment in obsequies](dic://vestment%20in%20obsequies)_ 丧服制度
+		5. Today's celebrity obsequies tend to be less fanatical, and largely digital rather than in-person /如今的名人葬礼往往不那么狂热，而且主要以线上而非线下形式进行。
+		6. They were the obsequies of poverty, with which pride had nothing to do. /它们是贫穷的葬礼， 与骄傲无关。
+		7. She entered their obsequies, and was obsessed by some obscure mood. /她参加了她们的葬礼，并被一些模糊情绪困扰住了。
+		8. The letter, marked on the envelope: To be delivered immediately after my death, contained instructions for his obsequies. /这封信在信封上标明：我死后立即送达， 其中包含有关他的葬礼的说明。
+		9. obsequial
 	6. obsequious
-		1. **pompous**浮夸的;**condescending**降低身份的,屈尊的;**arrogant**自大的，傲慢的;**polite**有礼貌的，客气的;**self-serving**自私的,自私自利的;**obnoxious**可憎的;**aloof**冷淡的;**smug**自满的, 沾沾自喜的;**overbearing**专横的,傲慢的;**inept**不适当的;**adoring**崇拜的;
+		1. ob-用力 + sequ-跟随 + -ious表形容词 → 拼命跟随别人 → 谄媚的。
+		2. 来自拉丁语obsequium,顺从，履行服务职责，来自ob-,向前，朝向，-sequi,跟随，词源同sequence.原为跟班，跟随，后引申词义巴结的，讨好的。
+		3. a. 谄媚的, 奉承的, 顺从的
+		4. _adj._ [insincere](dic://insincere), [servile](dic://servile)
+		5. _n._ [sincere](dic://sincere), [unservile](dic://unservile), [unsubmissive](dic://unsubmissive)
+		6. **pompous**浮夸的;**condescending**降低身份的,屈尊的;**arrogant**自大的，傲慢的;**polite**有礼貌的，客气的;**self-serving**自私的,自私自利的;**obnoxious**可憎的;**aloof**冷淡的;**smug**自满的, 沾沾自喜的;**overbearing**专横的,傲慢的;**inept**不适当的;**adoring**崇拜的;
+		7. be obsequious to the great /巴结权贵
+		8. My role is to be sly, obsequious and without scruples /就该诡计多端 阿谀逢迎 行事无孔不入。
+		9. The waiter withdrew, and returned in a moment with manager, who bowed with obsequious respect. /服务员退了下去，不一会儿就带着经理回来了，经理恭恭敬敬地鞠了一躬。
+		10. They were obsequious and servile and did not presume to talk to their masters as if they were their equals. /他们阿谀奉承，卑躬屈膝，不敢像对待自己的主人一样与主人交谈。
 	7. sequel
 		1. [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
 		2. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
-		3. sequacious, sequacity
-		4. sequela, sequelae
-			1. _n._ [abnormality](dic://abnormality), [abnormalcy](dic://abnormalcy), [abnormal condition](dic://abnormal condition)
+		3.  [subsequence](dic://subsequence)
+		4. [continuation](dic://continuation)
+		5. _n._ [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
+		6. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
+		7. _in the sequel_ 结果；后来
+		8. Some important new characters appear in the sequel /在续篇中出现了一些重要的新人物。
+		9. The affair had a strange sequel. /这一事件的结局很奇怪。
+		10. The immediate sequel to the price rises was uprisings across the country /涨价的直接后果就是遍及全国的抗议浪潮。
+		11. Famine has often been the sequel of war /饥饿常是战争的结果。
+		12. It's the sequel to Black Panther. /这就是《黑豹》的续集。
+		13. Flight controllers celebrated the sequel to an orbital flight to the moon in 2008. /飞行器控制人员庆祝这一胜利，这也是继2008年月球轨道飞行的第二次尝试。
+		14. sequacious
+			1. adj. 盲从的；合于逻辑的；缺乏独创性的
+			2. I want something sequacious now and robust. /我现在想要前后一贯和健全的东西。
+		15. sequacity
+			1. n. 盲从
+		16. sequela, sequelae
+			1. sequ-跟随 + -el指小 + a。
+			2. n. 后遗症；并发症
+			3. _n._ [abnormality](dic://abnormality), [abnormalcy](dic://abnormalcy), [abnormal condition](dic://abnormal condition)
 				1. _[Postpoliomyelitis sequela](dic://Postpoliomyelitis%20sequela)_ 小儿麻痹后遗症
 				2. _[sequela period](dic://sequela%20period)_ 后遗症期
 				3. _[apoplexy sequela](dic://apoplexy%20sequela)_ 中风后遗症
+			4. Otherwise, decorate a likelihood impertinently to leave sequela to bridal chamber. /否则，不恰当的装修可能给新房留下后遗症。
+			5. You don't want to scare people to death on how bad these diseases can be, but at the same time, you want them to understand that these diseases are serious and can cause really bad disease and sequela /你不想因为这些疾病有多严重而把人们吓死，但与此同时，你想让他们明白这些疾病很严重， 会导致非常严重的疾病和后遗症。
 	8. sequence
 		1. sequent, subsequent
 		2. supersequence
@@ -1197,9 +1285,9 @@
 		3. [take](dic://take), [change](dic://change), [isolate](dic://isolate), [insulate](dic://insulate), [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide)
 			1. _[sequester](dic://sequester)_  vt. 使隔绝；使隐退；没收，扣押
 			2. _[sequestered](dic://sequestered)_  v. 扣押；隔离；（使）隔绝；多价螯和（sequester 的过去式及过去分词）; adj. 隐蔽的，与世隔绝的；僻静的;
-	11. ensue
+	10. ensue
 		1. **occur**发生;**arise**发生;**inevitably**不可避免地;**erupt**爆发;**happen**发生;**inevitable**不可避免的, 必然发生的;**subside**平息;**abound**充满;**unavoidable**不可避免的;**escalate**逐步升高;**entail**必需，使承担;
-	12. pursue
+	11. pursue
 		1. **seek**寻找;**pursuit**追求;**abandon**离弃;**embark**上船或飞机;**continue**仍旧，连续;**forgo**放弃;**undertake**担任, 承揽;**seeking**寻找;**devote**奉献;**desire**欲望;**fulfill**履行;
 		2. pursuivant
 		3. pursuit
@@ -1207,10 +1295,10 @@
 		5. pursuance
 		6. pursuable
 		7. suable
-	13. sue
+	12. sue
 		1. suable
 		2. suability
-	14. suit
+	13. suit
 		1.  [lawsuit](dic://lawsuit), [case](dic://case), [cause](dic://cause), [causa](dic://causa)
 		2.  [suit of clothes](dic://suit of clothes)
 		3.  [courtship](dic://courtship), [wooing](dic://wooing), [courting](dic://courting)
@@ -1253,8 +1341,8 @@
 		29. jumpsuit
 		30. ill-suited
 		31. countersuite
-	16. extrinsic, extrinsicfactor
-	17. intrinsic, intrinsical, intrinsically
+	14. extrinsic, extrinsicfactor
+	15. intrinsic, intrinsical, intrinsically
 		1. **inherent**固有的;**innate**先天的;**intrinsically**从本质上;**underlying**根本的;**value**价值;**fundamental**基本的;**characteristic**典型的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**uniqueness**唯一性;**observable**观察得到的;**immaterial**非物质的;
 		2. [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [inherent](dic://inherent), [integral](dic://integral), [inner](dic://inner), [internal](dic://internal)
 		3. 
@@ -3623,28 +3711,28 @@
 		39. scrambled
 		40. descrambler
 	23. scrap
-		1. n. （纸、布等的）碎片，小块；丝毫，一丁点；废品，废弃材料（=scrap metal）；吃剩的东西，残羹剩饭（scraps）；<非正式>小摩擦，小口角；<英，非正式>极瘦小的人（常指小孩） 
-		2. v. （因不切实际而）放弃，抛弃（计划、体系）；把（旧机器、旧汽车等当）作废料处理，报废；<非正式>打架，吵架；激烈竞争 
-		3. adj. （金属、纸张）废弃的，报废的；零碎的
-		4. [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck)
-		5. [rubbish](dic://rubbish), [trash](dic://trash)
-		6. [fight](dic://fight), [fighting](dic://fighting), [combat](dic://combat)
-		7. [trash](dic://trash), [junk](dic://junk)
-		8.  [quarrel](dic://quarrel), [dispute](dic://dispute), [argufy](dic://argufy), [altercate](dic://altercate)
-		9. _n._ [fragment](dic://fragment), [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter), [waste product](dic://waste product), [piece](dic://piece), [conflict](dic://conflict)
-		10. _v._ [discard](dic://discard), [fling](dic://fling), [toss](dic://toss), [toss out](dic://toss out), [toss away](dic://toss away), [chuck out](dic://chuck out), [cast aside](dic://cast aside)
+		1. 来自 scrape 对词形式，来自 scrape,刮，擦，磨，引申词义碎片，废料，垃圾等。
+		2. n. （纸、布等的）碎片，小块；丝毫，一丁点；废品，废弃材料（=scrap metal）；吃剩的东西，残羹剩饭（scraps）；<非正式>小摩擦，小口角；<英，非正式>极瘦小的人（常指小孩） 
+		3. v. （因不切实际而）放弃，抛弃（计划、体系）；把（旧机器、旧汽车等当）作废料处理，报废；<非正式>打架，吵架；激烈竞争 
+		4. adj. （金属、纸张）废弃的，报废的；零碎的
+		5. [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck)
+		6. [rubbish](dic://rubbish), [trash](dic://trash)
+		7. [fight](dic://fight), [fighting](dic://fighting), [combat](dic://combat)
+		8. [trash](dic://trash), [junk](dic://junk)
+		9.  [quarrel](dic://quarrel), [dispute](dic://dispute), [argufy](dic://argufy), [altercate](dic://altercate)
+		10. _n._ [fragment](dic://fragment), [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter), [waste product](dic://waste product), [piece](dic://piece), [conflict](dic://conflict)
+		11. _v._ [discard](dic://discard), [fling](dic://fling), [toss](dic://toss), [toss out](dic://toss out), [toss away](dic://toss away), [chuck out](dic://chuck out), [cast aside](dic://cast aside)
 			1. [bit](dic://bit) 侧重指微小，一点点，小碎片。  
 			2. [piece](dic://piece) 最普通用词，多指从整体上分割下来的东西，可大可小。  
 			3. [sheet](dic://sheet) 侧重指平整很薄的一张或一片。  
 			4. [slice](dic://slice) 多指切得很薄的一片食物。  
 			5. [fragment](dic://fragment) 指破裂的，不完整的，不可完整的碎片。  
 			6. [scrap](dic://scrap) 侧重指废弃的零碎之物。
-		11. **salvage**打捞;**leftover**残留物;**recycled**回收站;**recycle**使再循环;**scrappy**爱打架的;**scrapbook**剪贴簿;**junk**垃圾，废物;**pile**堆;**chipboard**硬纸板,纸板;**heap**堆;**stash**藏匿处;
-		12. do a dummy run on some scrap material. /用一些废料做实验。
-		13. a jumble of paper scraps in a drawer. /抽屉里一堆杂乱的纸屑
-		14. we're burning scrap lumber /我们在烧废木料。
-		15. scraped my knee on the sidewalk. /我的膝盖在人行道上刮破了
-		16. scraped through by a narrow margin /勉强过关
+		12. **salvage**打捞;**leftover**残留物;**recycled**回收站;**recycle**使再循环;**scrappy**爱打架的;**scrapbook**剪贴簿;**junk**垃圾，废物;**pile**堆;**chipboard**硬纸板,纸板;**heap**堆;**stash**藏匿处;
+		13. there was not a scrap of aggression in him. /他没有丝毫的攻击性。
+		14. do a dummy run on some scrap material. /用一些废料做实验。
+		15. a jumble of paper scraps in a drawer. /抽屉里一堆杂乱的纸屑
+		16. we're burning scrap lumber /我们在烧废木料。
 		17. Every scrap of land in the town has been built on. /城中的每片土地上都有建筑物。
 		18. He looks like he’s been in a scrap /他看上去好像跟人打过架。
 		19. In the end, the decision to scrap the project was unanimous. /最后，大家一致决定放弃这一项目。
@@ -3655,37 +3743,68 @@
 		24. scrappy
 		25. scrapbook
 		26. scrap-iron
-	24. scrape
-		1. **wipe**擦;**chop**砍;**rub**擦;**pry**打听;**scratch**抓痕;**pull**拉;**rip**撕;**remove**移开;**squeeze**挤;**carve**雕刻;**muck**垃圾;
-		2. [noise](dic://noise), [wound](dic://wound), [lesion](dic://lesion), [bow](dic://bow), [bowing](dic://bowing), [obeisance](dic://obeisance), [blemish](dic://blemish)
-		3. [rub](dic://rub), [make](dic://make), [create](dic://create), [incise](dic://incise), [bow](dic://bow), [roll up](dic://roll up), [collect](dic://collect)
-		4. [kowtow](dic://kowtow), [genuflect](dic://genuflect)
-		5. [scrape up](dic://scrape up), [scratch](dic://scratch), [come up](dic://come up)
-		6. [grate](dic://grate)
-		7. [scratch](dic://scratch), [scar](dic://scar), [mark](dic://mark)
-		8. [abrasion](dic://abrasion), [scratch](dic://scratch), [excoriation](dic://excoriation)
-		9. [scraping](dic://scraping), [scratch](dic://scratch), [scratching](dic://scratching)
-		10. _scrape together_ 东拼西凑
-		11. _scrape up_ vt. 积攒；积蓄；凑集
-		12. _scrape off_ 刮掉；擦去
-		13. _scrape along_ 勉强糊口
-		14. _scrape through_ 勉强通过
-		15. skyscrape
+	25. scrape
+		1. 来自古英语 scrapian,刮，擦，来自 Proto-Germanic*skrapona,刮，擦，来自 PIE*skerb,扩大形式自 PIE*sker,砍，切，削，刮，词源同 share,shear,scribe.引申诸相关词义。
+		2. v. 刮, 擦, 挖; 擦坏, 擦伤; 艰难取得; 挖坑  
+		3. n. 刮, 刮擦声; 擦伤, 擦痕; 困境
+		4. v. （用小刀等）刮除；（使）刮擦；擦伤，刮坏；（使）发出刺耳的刮擦声；勉强维持，艰难地完成；勉强维持生活（scrape by/along）；勉强通过；（艰难地）凑集，积累（scrape sth. together/up）；节俭；挖坑，挖洞； 把头发拢在后面（scrape sth. back）；（幽默）不入调地演奏小提琴；<英>在面包上涂一层薄薄的（黄油，人造黄油）；用程序从网上下载（数据） 
+		5. n. 擦伤，擦痕；刮擦，刮擦声；<非正式>困境，窘境；地面空洞处，（尤指鸟求爱、筑巢时）在地面挖的洞；<英>涂在面包上的一层黄油（或麦琪淋）；<非正式>（医）刮宫
+		6. **wipe**擦;**chop**砍;**rub**擦;**pry**打听;**scratch**抓痕;**pull**拉;**rip**撕;**remove**移开;**squeeze**挤;**carve**雕刻;**muck**垃圾;
+		7. [scraping](dic://scraping), [scratch](dic://scratch), [scratching](dic://scratching)
+		8.  [abrasion](dic://abrasion), [scratch](dic://scratch), [excoriation](dic://excoriation)
+		9. [scratch](dic://scratch), [scar](dic://scar), [mark](dic://mark)
+		10. [grate](dic://grate)
+		11. [scrape up](dic://scrape up), [scratch](dic://scratch), [come up](dic://come up)
+		12. [kowtow](dic://kowtow), [genuflect](dic://genuflect)
+		13.  [scrape up](dic://scrape up), [scratch](dic://scratch), [come up](dic://come up)
+		14. [skin](dic://skin)
+		15. _n._ [noise](dic://noise), [wound](dic://wound), [lesion](dic://lesion), [bow](dic://bow), [bowing](dic://bowing), [obeisance](dic://obeisance), [blemish](dic://blemish)
+		16. _v._ [rub](dic://rub), [make](dic://make), [create](dic://create), [incise](dic://incise), [bow](dic://bow), [roll up](dic://roll up), [collect](dic://collect)
+		17. **wipe**擦;**chop**砍;**rub**擦;**pry**打听;**scratch**抓痕;**pull**拉;**rip**撕;**remove**移开;**squeeze**挤;**carve**雕刻;**muck**垃圾;
+		18. _scrape together_ 东拼西凑
+		19. _scrape up_ vt. 积攒；积蓄；凑集
+		20. _scrape off_ 刮掉；擦去
+		21. _scrape along_ 勉强糊口
+		22. _scrape through_ 勉强通过
+		23. she has to scrape by on Social Security. /她不得不靠社会保障金勉强维持生活。
+		24. there was a long, shallow scrape on his shin. /他的胫骨上有一条很长的浅刮痕。
+		25. scrape together some cash. /积攒一些钱
+		26. the scraping of the spoon in the bowl. /勺刮碗的声音。
+		27. scraped my knee on the sidewalk. /我的膝盖在人行道上刮破了
+		28. scraped through by a narrow margin /勉强过关
+		29. scraped the bottom of the car on a rock. /岩石擦坏了汽车底盘
+		30. They scraped the snow away. /他们铲去了积雪。
+		31. Our team just scraped into the semi-finals. /我们的队勉强挤进半决赛。
+		32. her hair was scraped back into a bun. / 她的头发在脑后束成圆髻。
+		33. she scraped the mud off her shoes. /她刮去鞋上的泥。
+		34. remove the green tops from the carrots and scrape them. /去掉胡萝卜上的绿头并且刮干净。
+		35. the MPs are here to scrape the rust off the derelict machinery of government. /国会议员现时的职责是刮掉闲置不用的政府机器上的锈。
+		36. halve the avocados and scrape out the flesh. /将鳄梨切开，挖出果肉。
+		37. he heard the scrape of his mother's key in the lock. /他听见了妈妈开门的声音。
+		38. he'd been in worse scrapes than this before now. /他以前过得比现在更困难。
+		39. I will not bow and scrape to him just to get a salary increase. /我不会为了要加薪而对他低三下四。
+		40. The underpart of the plane's fuselage scraped the treetops. /飞机机身的腹部擦过树顶。
+		41. I remembered the scrape on his side. /他突然咧了一下嘴。
+		42. A moss, a carpet to be scraped and examined. /一片苔藓只不过是一块需要刮擦和检查的地毯。
+		43. They could hear scraping, thumps, and hurried footsteps. /他们可以听见摩擦声、撞击声，以及匆匆忙忙的脚步声。
+		44. I would have touched, caressed, worshipped that scrape. /本该由我碰触、抚摸和爱怜他的擦伤。
+		45. First, the model looked at lots of examples of professional translations scraped from the internet /首先，模型会查看大量从互联网上抓取的专业翻译示例。
+		46. skyscrape
 			1. Enjoy a 365-degree view of beautiful forests, beaches, as well as skyscrapers! /缆车里可以365度全方位欣赏美丽的森林、海滩和摩天大楼！
 			2. Modern skyscrapers dominate the city's skyline, but it also has verdant parks and gardens. /现代化的摩天大楼高耸入云，但这里也建有绿意盎然的公园和花园。
-		16. scrapple
+		47. scrapple
 			1. n. 玉米肉饼
 			2. _n._ [dish](dic://dish)
 			3. **sausage**香肠;**bacon**熏猪肉;**pancakes**薄烤饼;**brisket**胸肉;**lard**猪油;**waffles**华夫饼干;**sausages**香肠， 腊肠;**ham**火腿;**fried**油炸的，油煎的;**pancake**薄烤饼;**Philly**费城;
-		17. scraping
-		18. scraper
-	25. scrabble
+		48. scraping
+		49. scraper
+	27. scrabble
 		1. 改写自 scrape,刮，擦，-le,表反复。引申词义乱翻，乱找。
 		2. v. （忙乱地）扒寻，摸索；（为了找到或抓牢）抓，摸；（动物）用爪子乱抓，挣扎；乱涂；在……上乱扒；快爬；努力，尽力；苦求 
 		3. n. 抓，扒；摸索；努力，尽力；挣扎；涂鸦；（Scrabble）（商标）拼字游戏
 		4. [scribble](dic://scribble), [doodle](dic://doodle)
 		5. [grope for](dic://grope for)
-		6.  [scribble](dic://scribble)
+		6. [scribble](dic://scribble)
 		7. _n._ [drawing](dic://drawing), [word game](dic://word game), [board game](dic://board game)
 		8. _v._ [feel](dic://feel), [write](dic://write)
 		9. **crossword**纵横填字谜;**solitaire**单人纸牌戏,单人跳棋,单粒宝石;**puzzle**使…困惑;**alphabet**字母表，字母系统;**jigsaw**线锯;**puzzles**智力游戏;
@@ -3698,7 +3817,7 @@
 		16. scrabble about for sth. dropped under the table /扒来扒去(或摸索着)寻找掉在桌下的某物
 		17. The memory of thousands of years scrabbling for food faded /数千年艰苦觅食的记忆逐渐淡忘。
 		18. We're not playing naughty word scrabble. You just have a dirty mind /我们没玩什么“拼脏字”游戏，是你自己思想肮脏。
-	26. scratch
+	28. scratch
 		1. v. （用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）；（用爪子）抓，刨；（鸟、哺乳动物，尤指鸡）用嘴（或爪子）扒地找食物；寻觅（难找的人或物）（scratch for）；艰难生活（scratch along）；勾掉，划去（写下的字）；<非正式> 仓促写下；（用尖利物）刮擦出声音；<非正式> 取消，撤销（想法或计划）；<非正式>（使）退出比赛；（用刮擦技法）播放唱片 
 		2. n. （某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠；刮擦声 ；唱片的嚓嚓声（指唱片纹道与唱针的摩擦噪声）；刮擦（多用于快板乐中，用手制止唱片转动，使其来回移动发出有节奏的嚓嚓声的技巧）；（高尔夫）零让步（表明选手不弱，能在场上达到规定击球的次数）；<非正式> 钱 
 		3. adj. （球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫球员）无让杆的，无让步优待的；碰巧的；打草稿用的
@@ -3763,7 +3882,7 @@
 			1. n. 搔背用的小扒子
 		38. microscratch
 		39. backscratcher
-	27. scrawl
+	29. scrawl
 		1. 可能来自 scribe,写，拼写受影响于 sprawl,蔓延，杂乱无章的展开。引申词义潦草的写。
 		2. vt. 潦草地写
 		3. vi. 乱写

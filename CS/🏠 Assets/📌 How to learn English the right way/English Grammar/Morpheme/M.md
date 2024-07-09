@@ -193,39 +193,85 @@
 ### + \*mater- + = mother
 1. **matern-,matr-** = mother, 表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。
 	1. metro
-		1. metropolis
-		2. metropolitan
-	2. mater
-		1. antimatter
+		1. 缩写自metropolitan , 大都会，大城市。用于口语指地铁。
+		2. metropolis
+		3. metropolitan
+	3. mater
+		1. n. 母亲
+		2. antimatter
 		3. material
-	3. maternal
-		1. materfamilias
-		2. maternity
-		3. matriarch
-		4. matricide
-		5. matrilineal
-	8. matrix
-	9. matron
-	5. matric
-	6. matrices
-	7. matrimony
-	10. matronymic, metronymic
-	11. matriculate
-		1. _n._ [college student](dic://college student), [university student](dic://university student)
-		2. _v._ [enroll](dic://enroll), [inscribe](dic://inscribe), [enter](dic://enter), [enrol](dic://enrol), [recruit](dic://recruit)
-		3. **graduate**授予…学位;**enroll**【美】加入;**enrolled**登记;**college**学院;**undergraduate**大学生, 大学肄业生;**students**学生;**academically**学业上;**graduation**毕业;**grad**毕业生;**graduated**刻度的;**undergrad**大学肄业生,大学生;
-		4. _[matriculate](dic://matriculate)_  vt. 准许…入学；录取…入大学; vi. 准许入学；录取; n. 被录取者; 
-		5. _[matriculated](dic://matriculated)_  v. 录取入学；注册入学（matriculate的过去式）
-		6. matriculate at an institution of higher learning /在某高等学校注册入学
-		7. He had been matriculated in the university /他已考上这所大学。
-		8. Three years later he matriculated for advance study /三年后他入大学深造。
-		9. Somewhere matriculating today is a man of iron, a woman of steel, a superhuman just in the nick of time. /今天这个关键时刻毕业的是一群铁汉和铁娘子。
-		10. The Harvard Diversity Project based in Dr. King's own hometown of Atlanta is a pipeline program that recruits, trains and matriculates highly motivated black youth into a summer debate residency at Harvard /哈佛多元化项目设在金博士的家乡亚特兰大，这是一个流水线项目，招募、培训和录取有高度积极性的黑人青年，让他们在哈佛参加夏季辩论。
-		11. matriculant
-		12. matriculation
-	13. madrigal
-	14. matradelphy
-	15. matrilineage
+	4. matter
+	5. anti-matter
+	6. material
+		1. n. 材料, 物资, 素材, 布料, 资料  
+		2. a. 物质的, 肉体的, 重要的
+	7. maternal
+	8. materfamilias
+	9. maternity
+		1. n. 母性, 怀孕, 妇产科医院  
+		2. a. 产妇的
+	10. matriarch
+		1. n. 女家长, 女族长
+	11. matricide
+	12. matrilineal
+	13. matrix
+		1. matri-母亲 + x → 母亲 → 母体。
+		2. matrix ['meɪtrɪks] n.矩阵；模型；[生物][地质] 基质；母体；子宫。拉丁词源，与英语本族单词mother同源。英国学者WilliamTyndale在自己从拉丁语翻译作英语的《圣经》中第一次将这个单词引入了英语。体会一下所有的意思，都和母亲在子宫里孕育胎儿这一现象有关。矩阵？括号里包含（孕育）着数集。 ​​​​
+		3. n. 母体, 子宫, 基质, 脉石, 模型, 矩阵
+	14. matrices
+		5. (专业术语)基质, 基体, 基岩, 子宫, 发源地, 母式, 真值表, 矩阵, 型片, 纸型, 模型
+	15. matric (metric)
+		7. n. (大学的)入学考试
+	16. matron
+		1. n. 妇女, 主妇, 女总管
+		2. matri-,母亲，-on,大词后缀。即像母亲一样的女人或年长的女性，引申词义女舍监，女护士长等。
+	17. matrimony
+		1. n. 结婚, 婚姻生活, 婚礼
+		2.  matri-,母亲，-mony,名词后缀，词源同 alimony.比喻用法。
+	18. matronymic, metronymic
+		1. n. 出自母亲或女性祖先的名a. 表示母系的, 母姓的
+		2. matron【妇女】 + -onym + -ic表形容词
+		3. matri-,母亲，-onym,名字，词源同 name.引申词义母系姓氏。
+	19. matriculate
+		1. 来自拉丁语 matriculare,登记，登记入学，来自 mater,母亲，词源同 mother.比喻用法。比较Alma Mater.
+		2. vt. 准许入学, 录取  
+		3. vi. 入学, 进大学  
+		4. n. 获准入学者
+		5. _n._ [college student](dic://college student), [university student](dic://university student)
+		6. _v._ [enroll](dic://enroll), [inscribe](dic://inscribe), [enter](dic://enter), [enrol](dic://enrol), [recruit](dic://recruit)
+		7. **graduate**授予…学位;**enroll**【美】加入;**enrolled**登记;**college**学院;**undergraduate**大学生, 大学肄业生;**students**学生;**academically**学业上;**graduation**毕业;**grad**毕业生;**graduated**刻度的;**undergrad**大学肄业生,大学生;
+		8. _[matriculate](dic://matriculate)_  vt. 准许…入学；录取…入大学; vi. 准许入学；录取; n. 被录取者; 
+		9. _[matriculated](dic://matriculated)_  v. 录取入学；注册入学（matriculate的过去式）
+		10. matriculate at an institution of higher learning /在某高等学校注册入学
+		11. He had been matriculated in the university /他已考上这所大学。
+		12. Three years later he matriculated for advance study /三年后他入大学深造。
+		13. Somewhere matriculating today is a man of iron, a woman of steel, a superhuman just in the nick of time. /今天这个关键时刻毕业的是一群铁汉和铁娘子。
+		14. The Harvard Diversity Project based in Dr. King's own hometown of Atlanta is a pipeline program that recruits, trains and matriculates highly motivated black youth into a summer debate residency at Harvard /哈佛多元化项目设在金博士的家乡亚特兰大，这是一个流水线项目，招募、培训和录取有高度积极性的黑人青年，让他们在哈佛参加夏季辩论。
+		15. matriculant
+			1. n. 报考者
+		16. matriculation
+			1. n. 入学考试；大学入学许可；录取入学
+			2. _n._ [admission](dic://admission), [admittance](dic://admittance)
+			3. **graduation**毕业;**enrolment**登记,注册,入伍,入会;**diploma**毕业证书，学位证书;**undergraduate**大学生, 大学肄业生;**graduate**授予…学位;**college**学院;**exams**考试;**schooling**学校教育;**enrollment**登记,注册,入伍,入会;**university**大学;**tuition**学费;
+			4. _[matriculation](dic://matriculation)_  n. 入学考试；大学入学许可；录取入学
+			5. _[matriculation examination](dic://matriculation%20examination)_  大学入学考试
+			6. _[matriculation form](dic://matriculation%20form)_  入学形式
+			7. This is how she completed her matriculation. /就这样， 她完成了入学考试。
+			8. The son passed the matriculation and went to university. /儿子通过了大学入学考试，上了大学。
+	20. madrigal
+		1. n. 情歌, 小调, 重唱歌曲
+		2. 来自拉丁语matricalis , 子宫的，初始的，字面意思即像婴儿一样纯朴无暇的，清新的，后用于指牧歌。
+		3. madrigal ['mædrɪg(ə)l] n.情歌；小曲。这种乐曲产生于意大利（意大利人擅长唱歌和踢球撩妹），来自拉丁语matricalis。这里的-alis即形容词后缀-al，而词根matr-表母亲（子宫），与日耳曼词源的mother同源。拉丁到意大利语的阶段，t变d，c变g，因为这种音乐最初的形式简单淳朴，就象刚从娘胎里出来。 ​​​​
+		4. _n._ [partsong](dic://partsong)
+		5. _v._ [sing](dic://sing)
+		6. **choral**合唱队的;**carol**欢乐地歌唱;**choir**合唱队;**operatic**歌剧的;**symphonic**交响乐的;**soprano**女高音;**orchestra**管弦乐队;**Elizabethan**伊丽莎白女王的;**choirs**合唱队;**orchestral**管弦乐队的;**carols**颂歌;
+		7. to resemble the madrigal in style /在风格上类似于短情歌
+		8. His other works include motets and madrigals. /他的其它作品包括赞美诗和情歌。
+		9. She seemed to belong rightly to a madrigal—to require viewing through rhyme and harmony. /她好像就理应属于清唱的情歌——需要从节奏与和声加以观察。
+	21. matradelphy
+	22. matrilineal
+		1. a. 母系的
+		2. matrilineage
 2. **metra-,metro-** = 表示“子宫”。
 	1. metrorrhagia
 		1. **menstruation**月经;**constipation**便秘;**menstrual**月经的;**uterine**子宫的;**ovulation**排卵;**uterus**子宫;**anemia**贫血;**bleeding**出血;**menopause**经绝期;**cramps**肌肉抽筋;**cramping**图象压缩，夹压;

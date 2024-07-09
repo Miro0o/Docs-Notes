@@ -104,6 +104,76 @@ agave
 - [desert plant](dic://desert plant), [xerophyte](dic://xerophyte), [xerophytic plant](dic://xerophytic plant), [xerophile](dic://xerophile), [xerophilous plant](dic://xerophilous plant)
 - [century plant](dic://century plant), [American aloe](dic://American aloe)
 
+all
+- always
+- altogether
+- already
+- alone
+	- lone
+- almost
+- almighty
+- overall
+- you-all
+- spend-all
+- know-it-all
+- know-all
+- holdall
+- heal-all
+- grab-all
+- free-for-all
+- end-all
+- do-all
+- cure-all
+- coverall
+- catchall
+- carryall
+- be-all
+- allspice
+- allspeed
+- all-weather
+- all-way
+- all-wave
+- all-time
+- all-star
+- all-sidedness
+- all-sidedly
+- all-sided
+- all-rounder
+- all-round
+- all-right
+- all-purpose
+- all-powerful
+- all-possessed
+- all-pervasive
+- all-overish
+- all-out
+	- adj. 竭尽全力的；充分发展的
+	- allout
+	- _[allout attack](dic://allout%20attack)_ 全面进攻
+	- _[allout level](dic://allout%20level)_ 平飞最大速率
+	- _[allout donation](dic://allout%20donation)_ 裸捐
+	- _[allout efforts](dic://allout%20efforts)_ 全力以赴
+	- _[allout sprint](dic://allout%20sprint)_ 全力冲刺
+	- _[go allout](dic://go%20allout)_ 不遗余力
+	- _[cnearly allout](dic://cnearly%20allout)_ 调出
+	- _[iscous allout](dic://iscous%20allout)_ 粘性辐射尘
+	- _[give allout support to](dic://give%20allout%20support%20to)_ 尽力帮助
+	- The stage was now almost completely set for the final allout effort against the enemy position /现在局势几近确定，我们将以全力进攻敌人。
+	- She likes that it makes hermouth messy and foamy and that she can swish and spit to get it allout /她喜欢这样子的满嘴泡沫，也能漱口将所有的吐光。
+- all-or-nothing
+- all-or-none
+- all-night
+- all-mains
+- all-inclusive
+- all-in
+- all-importance
+- all-ried
+- all-embracing
+- all-day
+- all-conquering
+- all-around
+- all-American
+
 ambo
 - n. 读经台 
 - [dais](dic://dais), [podium](dic://podium), [pulpit](dic://pulpit), [rostrum](dic://rostrum), [stump](dic://stump), [soapbox](dic://soapbox)
@@ -2834,11 +2904,16 @@ falter
 - faltering
 
 fangle
+- n. 新发明; 新款式; 新鲜事物
 - _[fangle](dic://fangle)_  n. 新款式；华而不实的东西; v. 装饰;
+- The new " fangled" and " dangled" metals that " bemuse" and " bespangle" . /新的装饰和悬挂的金属使人眼花缭乱。
+- Their new fangled doll hit stores just a few years later in 1902. /仅仅在几年后的1902年，他们新奇的玩具就横扫各大商店。
 - oldfangled
+	- adj. 老式的；守旧的
 - new-fangled
 	- I don't get these new fangled shower heads /我没买这些新的花式淋浴喷头。
 	- The new " fangled" and " dangled" metals that " bemuse" and " bespangle" . /新的装饰和悬挂的金属使人眼花缭乱。
+	- The right to communicate in confidence with your lawyer is not some new fangled rights.
 
 fathom
 - pete-
@@ -6615,13 +6690,7 @@ lead
 
 
 leaf
--  [leafage](dic://leafage), [foliage](dic://foliage)
--  [folio](dic://folio)
-- [flick](dic://flick), [flip](dic://flip), [thumb](dic://thumb), [riffle](dic://riffle), [riff](dic://riff)
-- _n._ [plant organ](dic://plant organ), [sheet](dic://sheet), [piece of paper](dic://piece of paper), [sheet of paper](dic://sheet of paper), [section](dic://section), [segment](dic://segment)
-- _v._ [peruse](dic://peruse), [turn](dic://turn), [turn over](dic://turn over), [grow](dic://grow), [develop](dic://develop), [produce](dic://produce), [get](dic://get)
-- **foliage**叶子;**clover**苜蓿;**fern**蕨类植物;**fig**无花果;**petal**花瓣;**flower**花;**tree**树;**vine**葡萄树;**maple**枫树;**petals**花瓣;**willow**柳木制品;
-- a biserrate leaf margin. /双锯齿叶边
+- leub(h)-
 
 leave
 - v. 离开（某人或某处）；离开居住地点（或群体、工作单位等）；与……脱离关系， 离开（某人）；不立刻做，不马上处理；使保留，让……处于（某种状态、某地等）；给……留下（不愉快的东西）；留下（信息或答复）；遗留，遗忘；剩下（食物或饮料）；遗下（家人）；（去世时）遗赠，遗留；把……留交，交托；递送，递交；留（空隙或空白）；留给（指有限的机会）；不再谈论；（数学）剩余，余下 
@@ -6845,6 +6914,9 @@ loath
 	- **despise**轻视，鄙视;**hate**憎恨;**dislike**不喜欢，厌恶;**adore**爱慕;**admit**承认;**hates**讨厌;**shun**避开, 回避, 避免;**despised**受轻视的;**resent**怨恨;**love**恋爱;**prefer**宁愿;
 	- [abhor](dic://abhor), [abominate](dic://abominate), [execrate](dic://execrate)
 	- [hate](dic://hate), [detest](dic://detest)
+
+lodge
+- leub(h)-
 
 log
 - waterlog

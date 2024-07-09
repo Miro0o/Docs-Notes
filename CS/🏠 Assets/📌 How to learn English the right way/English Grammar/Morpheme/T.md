@@ -3298,20 +3298,59 @@
 			6. dystrophy：['dɪstrəfi] n. 营养障碍；营养失调
 3. **triv-, triev-, trov-** 表示“找”，和 trop-（转）同源。
 	1. contrive
-		1. contriver
-		2. contrived
-		3. contrivance
+		1. con-强调 + triv-=trop-转，寻找，本义指努力寻找的，进行发明创造的。
+		2. - con-,表强调，-triv,来自-trop,转，寻找，词源同 turn,tropical.本义指努力寻找，引申词义进行发明创造。
+		3. v. 发明, 设计, 图谋
+		4. - v. 谋划，策划；设计，发明；设法做到
+		5.  [plan](dic://plan), [project](dic://project), [design](dic://design)
+		6. [invent](dic://invent), [devise](dic://devise), [excogitate](dic://excogitate), [formulate](dic://formulate), [forge](dic://forge)
+		7.  [project](dic://project), [cast](dic://cast), [throw](dic://throw)
+		8. _v._ [create by mental act](dic://create by mental act), [create mentally](dic://create mentally), [send](dic://send), [direct](dic://direct)
+		9. **devise**设计;**invent**发明;**procure**获得，取得;**conceive**构思;**furnish**供应;**fabricate**编造, 捏造, 虚构;**thwart**反对;**ought**应该，应当;**subvert**推翻;**conjure**变戏法;**devised**计划;
+		10. _[Contrived Amorous](dic://Contrived%20Amorous)_ 纽约硬核
+		11. _[Greetings contrive](dic://Greetings%20contrive)_ 礼仪策划
+		12. _[Contrive invent](dic://Contrive%20invent)_ 发明
+		13. _[beehive contrive](dic://beehive%20contrive)_ 蜂巢设计
+		14. _[contrived collegiality](dic://contrived%20collegiality)_ 人为合作；硬造的合作
+		15. _[Not Contrived](dic://Not%20Contrived)_ 不能做作
+		16. Bolsonaro seems to be contriving to achieve the exact opposite. /博索纳罗似乎在设法实现完全相反的情况。
+		17. I know you will contrive it all. /我知道你会想出办法来把样样事情都办好。”
+		18. I'll have to contrive a reason to get into his office /我得找个借口进入他的办公室。
+		19. The notorious drug-pusher has been contriving an escape from the prison. /这个臭名昭着的大毒枭一直都在图谋越狱。
+		20. How can you contrive to write so even? /“你怎么写得那么整齐来着？”
+		21. He certainly contrived to execute his commission with a curious felicity. /他肯定怀有一种奇妙的幸福感，极力完成他的使命。
+		22. A group of scientists contrived a new idea to deal with the experiment. /一群科学家想出了一个新主意来处理这个实验。
+		23. He contrived, however, to stop his horse just in season to prevent his being dashed against a loaded wagon /但是他设法让马停下来，避免了撞上一辆满载货物的马车。
+		24. contriver
+			1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+			2. **accomplice**从犯, 帮凶, 同谋;**ingenious**灵巧的, 善于创造发明的;**cunning**狡猾的;**devious**弯曲的;**proprietor**所有人,业主;**mistress**情妇;**clever**聪明的;**shrewd**精明的;**artful**狡猾的;**genius**天才，天赋;**pious**虔诚的;
+		25. contrived
+			1. _adj._ [planned](dic://planned), [affected](dic://affected), [unnatural](dic://unnatural)
+			2. _n._ [unplanned](dic://unplanned), [unaffected](dic://unaffected)
+			3. **implausible**难以置信的, 似乎不合情理的, 不太可能的;**nonsensical**无意义的;**believable**可信的;**preposterous**反常的,荒谬的;**convoluted**盘绕的,卷曲的;**disingenuous**不真诚的;**banal**陈腐的;**absurd**荒谬的;**illogical**不合逻辑的;**ludicrous**荒唐可笑的,滑稽可笑的;**ruse**诡计;
+		26. contrivance
 			1. con-强调 + triv-=trop-转，寻找，本义指努力寻找的，进行发明创造的。
 			2. v. 发明, 设计, 图谋
-			3. _n._ [device](dic://device), [invention](dic://invention), [innovation](dic://innovation), [excogitation](dic://excogitation), [conception](dic://conception), [design](dic://design), [scheme](dic://scheme)
-			4. **contrived**不自然的;**ingenious**灵巧的, 善于创造发明的;**ruse**诡计;**ploy**策略;**pretense**借口;**preposterous**反常的,荒谬的;**expedient**应急有效的;**absurdity**荒谬;**plot**阴谋;**merely**仅仅，只不过;**superfluous**过多的;
-			5. _[movable contrivance](dic://movable%20contrivance)_ 可移动装置
-			6. _[contrivance device](dic://contrivance%20device)_ 发明物
-			7. _[contrivance principle](dic://contrivance%20principle)_ 设计原则
-			8. _[technical contrivance](dic://technical%20contrivance)_ 工艺设计
-			9. _[It was another good contrivance](dic://It%20was%20another%20good%20contrivance)_ 这又是一种不错的新设计
-		5. contrivable
-	2. retrieve
+			3. _n._ 发明,发明才能,想出的办法,发明物
+			4. _n._ [device](dic://device), [invention](dic://invention), [innovation](dic://innovation), [excogitation](dic://excogitation), [conception](dic://conception), [design](dic://design), [scheme](dic://scheme)
+			5. **contrived**不自然的;**ingenious**灵巧的, 善于创造发明的;**ruse**诡计;**ploy**策略;**pretense**借口;**preposterous**反常的,荒谬的;**expedient**应急有效的;**absurdity**荒谬;**plot**阴谋;**merely**仅仅，只不过;**superfluous**过多的;
+			6. _[movable contrivance](dic://movable%20contrivance)_ 可移动装置
+			7. _[contrivance device](dic://contrivance%20device)_ 发明物
+			8. _[contrivance principle](dic://contrivance%20principle)_ 设计原则
+			9. _[technical contrivance](dic://technical%20contrivance)_ 工艺设计
+			10. _[It was another good contrivance](dic://It%20was%20another%20good%20contrivance)_ 这又是一种不错的新设计
+			11. Eustacia was nettled by her own contrivances. /游苔莎对自己的心计恼恨起来。
+			12. the story is told with an absence of contrivance or literary device. /不加渲染或文学修饰地讲这个故事。
+			13. Such a machine is beyond the contrivance of ordinary people /这种机器是一般人发明不出来的。
+			14.  All whale-boats carry certain curious contrivances, originally invented by the Nantucket Indians, called druggs./所有捕鲸艇上都带有某种奇特的物件，起初是楠塔基特的印第安人发明的，称作德拉格。
+			15. No contrivance can prevent the effect of this distance in weakening government. /任何诡计都无法阻止这种距离削弱政府的影响。
+			16. What skill, what perseverance, what cunning contrivances, at once abominable and admirable! /何等的技巧， 何等的毅力， 何等的巧计， 既可憎又令人钦佩！
+			17. To say the truth, I had not to congratulate myself on this contrivance. /说实话，我不必为自己的这个发明而庆幸。
+			18. I think what you call the makeshift contrivances at dear Helstone were a charming part of the life there /我认为你所谓的亲爱的 Helstone 的临时发明是那里生活中迷人的一部分。
+			19. In actual practice this contrivance worked with the utmost precision. /在实际操作中， 这种设计以最精确的方式工作。
+			20. The story is told with a complete absence of **contrivance** /这故事讲得毫不矫揉造作。
+		27. contrivable
+	3. retrieve
 		1. [recover](dic://recover), [find](dic://find), [regain](dic://regain)
 		2.  [remember](dic://remember), [recall](dic://recall), [call back](dic://call back), [call up](dic://call up), [recollect](dic://recollect), [think](dic://think)
 		3. _v._ [get](dic://get), [acquire](dic://acquire), [bring](dic://bring), [convey](dic://convey), [fetch](dic://fetch)
