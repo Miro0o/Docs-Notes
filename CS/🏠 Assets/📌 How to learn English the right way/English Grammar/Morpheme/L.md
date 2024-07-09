@@ -2737,11 +2737,179 @@ _delicate balance_ 微妙的平衡
 
 
 ### + \*leub(h)- + =
-1. **libr-**
-2. **libr-, livr-**
+1. **libr-, livr-** = book, 表示“书”。源自拉丁语 liber "book, paper, parchment."
+	1. liber-/libr-：书  
+		1. libel：['laɪbl] n.诽谤罪，诋毁，毁坏名誉的东西，控诉书vt.诽谤，控告vi.进行文字诽谤  
+		2. libelous：['laibələs] adj. 诽谤的；损害名誉的；用言语中伤他人的  
+		3. library：['laɪbrɛri] n. 图书馆，藏书室；文库  
+		4. libretto：[lɪ'brɛto] n. 剧本；歌词集  
+	2. liber（书籍）：古罗马人用作书写材料的树皮  
+		6. 和古日耳曼人用山毛榉作为书写材料一样，古代罗马人使用树木的光滑内皮作为书写的材料，英语单词liber（书籍）、library（图书馆）就反映了这种做法。单词liber源自拉丁语，本意是“树的内皮”，后来表示“图书”。单词library来自拉丁语librarium，字面意思就是“存放liber（图书）的地方”，后缀um表示“场所”，如museum。  
+		7. 考古学家曾经在英国的文德兰达（Vindolanda）挖掘出400余片罗马时代的木简，大小如同明信片，材质有桦树、桤木和桉树。  
+		8. liber-/libr-：书籍  
+		9. liber： ['laɪbə] n.书籍，树皮  
+		10. library：['laɪbrərɪ; -brɪ] n.图书馆，藏书室
+	3. librarian
+		1. libr-书 + -arian表人。
+	4. library
+	5. librettist
+	6. libretto
+	7. exlibris
+	8. libel
+		1. libel（诋毁）：攻击他人的传单或小册子  
+		2. 在英语中，“诽谤”分为“文字诽谤”和“口头诽谤”。“文字诽谤”是libel，“口头诽谤”是slander。英语单词libel来自拉丁语词根liber/libri（书），原意是“小书、小册子”。由于古代没有广播电视等通讯手段，权贵要人们相互攻击时只能通过散发传单、小册子等方式。大家通过小册子相互揭短，因此libel一词衍生出“控告、控诉书”之意。由于这种小册子里所写的内容免不了夸大其词，甚至无中生有，因此libel一词又产生了“中伤、诽谤”之意，在法律领域中表示“诽谤罪”，专指“文字诽谤”。
+		3. n. [律]诽谤罪；诋毁；毁坏名誉的东西；控诉书
+		4. vt. 对…进行诽谤；中伤；控告
+		5. vi. 进行文字诽谤
+		6. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [complaint](dic://complaint)
+		7. _v._ [defame](dic://defame), [slander](dic://slander), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear)
+		8. **defamation**诽谤, 中伤;**slander**诽谤;**defamatory**诽谤的;**lawsuit**诉讼;**lawsuits**诉讼，法律诉讼;**obscenity**淫秽;**accusation**指责;**sue**起诉, 控告, 和…打官司;**tort**侵权行为;**infringement**驳斥;**prosecution**起诉, 诉讼;
+		9. _[libelling](dic://libelling)_  诽谤; 侮辱（libel的现在分词）; 
+		10. _[libel action](dic://libel%20action)_  [法] 诽谤诉讼
+		11. _[seditious libel](dic://seditious%20libel)_  煽动性诽谤
+		12. _[libel on](dic://libel%20on)_  v. 诽谤
+		13. _[defamatory libel](dic://defamatory%20libel)_ 诽谤名誉；翻译
+		14. _[civil libel](dic://civil%20libel)_ 民事诽谤罪；民事诽谤；民事诽谤英语
+		15. aspersion, calumny, defame, denigrate, discredit, libel, malign, slander, slur, stigmatise, traduce, vilify. /表“ 诽谤、诋毁” 之意
+		16. a libel case 
+		17. a libel calculated to injure the company's reputation. /意图损害公司名誉的诽谤。
+		18. A countercharge of libel was made by the opposing counsel. /对方律师提出诽谤罪的反诉。
+		19. a libel trial is in large parts intensely soporific. /诽谤案的审讯大部分都非常沉闷单调。
+		20. He wrote a libel against her character. /他写了篇文章来诽谤她的人格。
+		21. The jury awarded libel damages of ￡100,000. /陪审团判定诽谤赔偿费为10万英镑。
+		22. Digital technology makes it easy to disseminate libel widely and anonymously. /数字技术使广泛和匿名传播诽谤变得容易。
+		23. Well, there are obviously several laws in Germany regulating speech including libel and defamation /显然，德国有多部法律限制诽谤、诬蔑等言论。
 3. leaf
+	1. 来自 PIE*leup,剥开，撕下，词源同 library,lodge.引申词义撕下的叶子，用以书写的页片。可能进一步来自 PIE*skel,切，撕，词源同 shell,scale.词义演变比较 corium,carnal.
+	2. n. 叶, 树叶; 页; 薄金属片, 箔; 折叠桌板  
+	3. v. 生叶; 匆匆翻阅, 浏览
+	4. turn over a new leaf洗心革面。leaf叶子和洗心革面有啥关系呢？有这里的leaf指的是书籍中的“一张”，翻开“新篇章”。不过叶子和书籍中的一张的联系在另一个单词中体现出来了：portfolio [pɔːt'fəʊlɪəʊ] n.公文包；文件夹，词根port-表携带、港口，-folio本意指叶子，因为纸张的样子象叶片。 ​​​​
+	5. [leafage](dic://leafage), [foliage](dic://foliage)
+	6. [folio](dic://folio)
+	7. [flick](dic://flick), [flip](dic://flip), [thumb](dic://thumb), [riffle](dic://riffle), [riff](dic://riff)
+	8. _n._ [plant organ](dic://plant organ), [sheet](dic://sheet), [piece of paper](dic://piece of paper), [sheet of paper](dic://sheet of paper), [section](dic://section), [segment](dic://segment)
+	9. _v._ [peruse](dic://peruse), [turn](dic://turn), [turn over](dic://turn over), [grow](dic://grow), [develop](dic://develop), [produce](dic://produce), [get](dic://get)
+	10. **foliage**叶子;**clover**苜蓿;**fern**蕨类植物;**fig**无花果;**petal**花瓣;**flower**花;**tree**树;**vine**葡萄树;**maple**枫树;**petals**花瓣;**willow**柳木制品;
+	11. a biserrate leaf margin. /双锯齿叶边
+	12. trumpet-leaf
+	13. tealeaf
+	14. strip-leaf
+	15. roseleaf
+	16. overleaf
+	17. looseleaf
+	18. leaves
+	19. leaved
+	20. leafy
+	21. leaflet
+	22. leafless
+	23. leafed
+	24. leafage
+		1. [leaf](dic://leaf), [foliage](dic://foliage)
+		2. _n._ [plant organ](dic://plant organ)
+		3. **foliage**叶子;**leaf**叶子;**greenery**绿色植物;**leafy**多叶的;**shrubs**灌木;**flowering**开花的;**vine**葡萄树;**shrub**灌木;**blooms**水华;**ornamental**装饰的,装饰用的;**fleshy**肉的;
+		4. Louis Glanville was so highly interested that he stood upon the seat of the arbour, and looked through the leafage over the wall. /Louis Glanville 非常感兴趣， 以至于他站在凉亭的座位上， 透过树叶越过墙壁观看。
+		5. I hear a pattering upon the still leafage of the garden; it is a sound which lulls, and tunes the mind to calm thoughtfulness. /我听到花园静止的树叶上有啪嗒啪嗒的响声；它是一种平静的声音，可以让心灵平静下来，沉思。
+		6. And all this stretch of river is a mirror, and you have shadowy reflections of the leafage and the curving shores and the receding capes pictured in it. / 整片河流都是一面镜子，你可以看到树叶、弯曲的海岸和后退的海角的阴影倒影。
+		7. Tall ferns buried her in their leafage whenever her path lay through them, which now formed miniature forests, though not one stem of them would remain to bud the next year /小路穿过蕨草时，那些高高的植物便把她遮掩在草叶丛中，虽然没有一根草茎可以活到下个年头，这些蕨草现在却形成一片小小的丛林。
+	25. interleaver
+	26. interleave
+	27. interleaf
+	28. goldleaf
+	29. flyleaf
+		1. n. 飞页，章节后的空白
+		2. _n._ [leaf](dic://leaf), [folio](dic://folio)
+		3. **handwritten**手写的;**inscription**题字;**inscribed**印刻的;**hardback**精装本;**book**书籍;**vellum**上等皮纸;**photocopy**影印本;**hardcover**硬皮书;**foreword**前言;**preface**前言;**manuscript**手稿, 原稿, 底稿;
+		4. On the flyleaf, in very faded ink, is written 'Ex libris Guliolmi Whyte.' /书前扉页上写着'古列米·怀特藏书' ，墨水早已褪了色。
+		5. This is for you. It was a hardback copy of The Wasteland. On the flyleaf was an inscription to me 这是给你的。那是一本精装版的《荒原》。扉页上的题字是送给我的。
+	31. deleave
+		1. vt. 分割；拆散
+		2. 
+	32. cloverleaf
+	33. broadleaf
 4. lobby
-5. lodge
+	1. lobby（游说）：在国会大厦门厅游说议员的做法  
+	2. 英语单词lobby的本意是指建筑物的大堂、门厅。在英美等国，很多政治说客喜欢守在国会大厦的门厅内，在议员进入国会开会之前或之后的短暂时间对议员展开游说活动。因此原本表示“门厅”lobby一词衍生出“政治游说”的含义。  
+	3. lobby： ['lɒbɪ] n.门厅，大堂，休息室v.游说  
+	4. lobbyist： ['lɒbɪɪst] n.说客
+	5. n. 大厅, 休息室, 游说议员者  
+	6. v. 游说议员, 游说
+	7. [anteroom](dic://anteroom), [antechamber](dic://antechamber), [entrance hall](dic://entrance hall), [hall](dic://hall), [foyer](dic://foyer), [vestibule](dic://vestibule)
+	8.  [pressure group](dic://pressure group), [third house](dic://third house)
+	9. [buttonhole](dic://buttonhole)
+	10. _n._ [room](dic://room), [people](dic://people), [political unit](dic://political unit), [political entity](dic://political entity)
+	11. _v._ [solicit](dic://solicit), [beg](dic://beg), [tap](dic://tap)
+	12. **foyer**门厅，休息室;**atrium**心房;**hotel**旅馆，饭店;**room**房间;**lobbyist**说客;**lounge**休息室;**hallways**走廊;**hallway**门厅;**kiosk**小摊棚, 售货亭;**rooms**空间;**plaza**广场;
+	13. _hotel lobby_ 饭店大堂；宾馆大厅
+	14. _lobby lounge_ 大堂酒廊；大堂酒吧
+	15. _lobby for_ 游说议员；为…游说
+	16. _elevator lobby_ n. 电梯门厅，电梯前廊
+	17. _lift lobby_ 升降机大堂；升降机门廊
+	18. the lobby of the hotel was virtually deserted /旅馆大厅里几乎没有什么人了。
+	19. a recent lobby of Parliament by pensioners /领养老金者最近对议会的活动。
+	20. the lobby of the hotel was bright with neon. /霓虹灯把旅馆的大厅装点得明亮辉煌。
+	21. lobby a bill through the senate /游说议员使议院通过一项议案
+	22. the cinema lobby frothed with indignation. /电影院休息厅里激荡着愤慨的气氛。
+	23. lobby on behalf of business interests /代表商业利益游说
+	24. the lobby was tiled in blue. /大厅铺着蓝色瓷砖。
+	25. The clean-air lobby are/is against the plans for the new factory. /空气清洁运动团体反对设立新工厂的计划。
+	26. This is a lobby that's extraordinarily powerful. /这是一个非常强大的游说团体。
+	27. lobbyman
+	28. lobbyist
+		1. lobbyist - lobby原先只是一个普通的词，意思是“（公共场所入口处的）通道”、“走廊”或“（公共建筑的）大厅”、“休息室”，16世纪时借自拉丁语lobia 'portico'（门廊，柱廊），但如今却是一个较为常用的政治术语，指“（政治）游说”或“议院外活动集团”。  
+		2. 有一种说法认为，lobby是在美国第18任总统格兰特（Ulysses Simpson Grant, 1822-1885）任内（1869-1877）被赋予这一政治含义的。据传，格兰特每日下午喜欢去华盛顿Willard酒店的休息室即lobby喝酒小憩，请愿者发现，在这家酒店的lobby游说总统比在总统办公室效果更好，lobby一词因而获得了“游说”的含义。  
+		3. 其实，早在1808年，lobby的这一用法已见于《牛津英语词典》，它可以一直追溯至17世纪英国下议院会议厅旁边的lobby，在这里选民可以约见议员，对议员进行院外游说。嗣后，这种做法传入美国。从美国建国初期院外游说就被承认为合法的活动，而且通常是在国会走廊或休息室（即lobby）内进行，故“院外游说”也称为lobby，而“政治说客”则被称作lobbyist。院外游说的对象是政界要人，尤其是议员。游说的目的不外乎影响政策和立法。由于活动涉及政治、经济、军事、外交、社会等各领域，因此游说者组成代表不同利益的游说活动集团，这种集团也被称以lobby，如the farm lobby, the small business lobby等，还有代表外国利益的游说团，如Arab lobby, Israel lobby等。
+	29. lobbyism
+6. lodge
+	1. 虽然看起来很象，但logistics n.物流与logic n.逻辑没有任何词源上的关系。logistics与lodge n.旅馆；山林小屋同源，本来是猎人或商旅歇脚暂留之地，延伸为吃住和物资的堆放和分发。
+	2. n. 小屋, 门房, 支部, 旅舍, 分会
+	3. vi. 临时住宿, 倒伏, 寄宿, 投宿
+	4. vt. 安顿, 容纳, 提出, 把...射入, 存放
+	5. [Sir Oliver Lodge](dic://Sir Oliver Lodge), [Sir Oliver Joseph Lodge](dic://Sir Oliver Joseph Lodge) 
+	6. [club](dic://club), [social club](dic://social club), [society](dic://society), [guild](dic://guild), [gild](dic://gild), [order](dic://order) 
+	7. [hunting lodge](dic://hunting lodge)
+	8. [indian lodge](dic://indian lodge)
+	9. [hostel](dic://hostel), [hostelry](dic://hostelry), [inn](dic://inn), [auberge](dic://auberge)
+	10. [wedge](dic://wedge), [stick](dic://stick), [deposit](dic://deposit)
+	11. [charge](dic://charge), [file](dic://file)
+	12. [accommodate](dic://accommodate)
+	13. _n._ [physicist](dic://physicist), [association](dic://association), [gatehouse](dic://gatehouse), [house](dic://house), [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile)  
+	14. _v._ [dwell](dic://dwell), [live](dic://live), [inhabit](dic://inhabit), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [accuse](dic://accuse)
+	15. _n._ [dislodge](dic://dislodge), [free](dic://free)
+	16. [dwell](dic://dwell) 文学上的用词，口语中通常用live代替。  
+	17. [reside](dic://reside) 书面用词，指合法的永久性居住，也指在豪华的住宅里居住。  
+	18. [live](dic://live) 最普通用词，指固定的居住，可以是长期的，也可以是临时的。  
+	19. [lodge](dic://lodge) 指短时间或临时住宿。  
+	20. [inhabit](dic://inhabit) 强调人或动物居住在某个地区并已适应某种特殊环境。  
+	21. [settle](dic://settle) 侧重指某人定居于城市、国家或地区，而不指居住的住所。
+	22. **chalet**瑞士山中的牧人小屋;**guesthouse**宾馆;**hut**小屋;**campsite**营地;**cabin**小屋;**inn**旅馆;**campground**野营地;**hotel**旅馆，饭店;**bungalow**平房;**motel**汽车旅馆;**resort**胜地;
+	23. _lodge a claim_ 提出索赔
+	24. _lodge a complaint_ 投诉；对…提出控告
+	25. lodge with sb. /寄住某人家中
+	26. lodge a bullet in a wall. /把一颗子弹射进墙里
+	27. lodge money in the bank /把钱存入银行
+	28. lodges travelers in the shed. /给旅行者提供小屋居住
+	29. rye lodged by the cyclone. /台风将麦子吹倒了
+	30. lodge a protest against sb. /向某人提出抗议
+	31. I can lodge you for a week. /我可以留你住一星期。
+	32. in the lodge with the budgeter last night. /昨晚法官和预算员在门房里打过桥牌。
+	33. I shall lodge at the inn for two nights. /我要在这家小店住两个晚上。
+	34. The certificate will have to be lodged at the registry. /证书必须存放在登记处。
+	35. lodgment /lodgement
+		1. n. 沉淀；贮存
+		2. [lodgement](dic://lodgement)
+		3. [lodgement](dic://lodgement), [lodging](dic://lodging)
+		4. _n._ [allegation](dic://allegation), [fastness](dic://fastness), [fixedness](dic://fixedness), [fixity](dic://fixity), [fixture](dic://fixture), [secureness](dic://secureness)
+		5. He found a temporary **lodgment** in Paris. /他在巴黎找到了一个临时住所。
+		6. Mortgage instruments shall be registered in the order of their **lodgment**. /抵押文书须按其送交的先后次序予以注册。
+	36. lodging
+		1. lodgings
+	37. lodger
+		1. [boarder](dic://boarder), [roomer](dic://roomer)
+		2. _n._ [tenant](dic://tenant), [renter](dic://renter)
+		3. **landlord**房东，老板;**tenant**房客;**housekeeper**管家;**roommate**室友;**maid**女仆;**renter**佃户;**neighbour**邻居;**tenancy**租用;**burglar**夜贼，窃贼;**widow**使成寡妇;**house**住宅;
+		4. a lodger in a guest-house /宾馆房客
+		5. My friend is a lodger in my uncle's house. /我朋友是我叔叔家的房客。
+			1. dislodge
 
 
 ### + \*leudh- + = people

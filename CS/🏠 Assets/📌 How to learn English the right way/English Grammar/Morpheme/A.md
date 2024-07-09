@@ -2451,44 +2451,58 @@
 		7. the boy was adept at numbers /那个男孩算术很熟练。
 		8. He is an adept mechanic. /他是个熟练的机械师。
 		9. She is adept in music. /她是位音乐大师。
-	3. inept
-		1.  [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inapt](dic://inapt), [ill-chosen](dic://ill-chosen)
-		2. [feckless](dic://feckless)
-		3.  [tactless](dic://tactless)
-		4. _adj._ [infelicitous](dic://infelicitous), [incompetent](dic://incompetent), [maladroit](dic://maladroit)
-		5. _n._ [felicitous](dic://felicitous), [competent](dic://competent), [adroit](dic://adroit)
-		6. **incompetent**无能力的;**clueless**无线索的;**clumsy**笨拙的;**ineffective**无效的;**idiotic**白痴的;**hapless**运气不好的，倒霉的;**arrogant**自大的，傲慢的;**pathetic**可怜的，悲哀的;**ignorant**无知的;**misguided**由错误思想指引的,不明智的;**incompetence**无能力;
-		7. inept handling of the account. /笨拙地处理帐目
-		8. He was an inept politician. /他是个无能的政客。
-		11. ineptly, ineptitude, 
-	4. apt
-		1.  [liable(p)](dic://liable(p))
-		2. [clever](dic://clever)
-		3.  [disposed(p)](dic://disposed(p)), [given(p)](dic://given(p)), [minded(p)](dic://minded(p)), [tending(p)](dic://tending(p))
-		4.  [apposite](dic://apposite), [appropriate](dic://appropriate), [pertinent](dic://pertinent)
-		5. _adj._ [likely](dic://likely), [intelligent](dic://intelligent), [apropos](dic://apropos)
-		6. _n._ [unlikely](dic://unlikely), [unintelligent](dic://unintelligent), [stupid](dic://stupid), [disinclined](dic://disinclined), [malapropos](dic://malapropos)
+	3. apt (opt)
+		1. ap-连接 + -t，过去分词。指匹配的，适应的。
+		2. a. 有...倾向的, 易于的, 恰当的, 聪明的
+		3.  [liable(p)](dic://liable(p))
+		4. [clever](dic://clever)
+		5.  [disposed(p)](dic://disposed(p)), [given(p)](dic://given(p)), [minded(p)](dic://minded(p)), [tending(p)](dic://tending(p))
+		6.  [apposite](dic://apposite), [appropriate](dic://appropriate), [pertinent](dic://pertinent)
+		7. _adj._ [likely](dic://likely), [intelligent](dic://intelligent), [apropos](dic://apropos)
+		8. _n._ [unlikely](dic://unlikely), [unintelligent](dic://unintelligent), [stupid](dic://stupid), [disinclined](dic://disinclined), [malapropos](dic://malapropos)
 			1. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
 			2. [apt](dic://apt) 口语中常用，指自然的或习惯的倾向，无特殊的褒贬意味，常指在一般情况下发生的事。  
 			3. [likely](dic://likely) 侧重可能性，用于指将来，预言希望或所不希望的结果。  
 			4. [prone](dic://prone) 多用于人，着重其本性，或倾向于某种错误、弱点或不良行为等。  
 			5. [subject](dic://subject) 指确实可以察觉的倾向，也就是总结出来的规律。
-		7. She is apt at languages. ./她善于学习语言。
-		8. He is an apt pupil /他是个聪明的学生。
-		9. This shoe is apt to slip /这种鞋容易滑倒。
-		10. unapt, aptly
-		11. aptitude, attitude
-	6. inapt
-		1.  [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inept](dic://inept), [ill-chosen](dic://ill-chosen)
-		2. _adj._ [infelicitous](dic://infelicitous)
-		3. _n._ [felicitous](dic://felicitous)
-		4. **analogy**类似;**inept**不适当的;**apt**有…倾向的;**disingenuous**不真诚的;**laughable**荒唐可笑的;**ludicrous**荒唐可笑的,滑稽可笑的;**incompetent**无能力的;**absurd**荒谬的;**clumsy**笨拙的;**unwise**不明智的;**distasteful**使人不愉快的;
-		5. inaptitude
+		9. She is apt at languages. ./她善于学习语言。
+		10. He is an apt pupil /他是个聪明的学生。
+		11. This shoe is apt to slip /这种鞋容易滑倒。
+		12. But in another way, the sombre warnings are apt, and profoundly depressing. /但从另一方面说，严峻的警告是明智的，让人深感压抑。
+		13.  He's not apt to deny it" /" 现在他也没法否认。"
+		14. You were apt to fall in with them. /你愿意和他们并肩战斗。
+		15. Orphan Inn would be more apt, thought Brienne /叫" 孤儿客栈" 更恰当，布蕾妮心想。
+		16. So how apt were you to go back on that horse after that? /那你是怎么骑着那匹马回去的？
+		17. That Dory analogy is pretty apt here. /这个多莉的比喻很贴切。
+		18. unapt, aptly
+		19. aptitude, attitude
+	4. inapt
+		1. adj. 不适当的；不熟练的，笨拙的
+		2. [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inept](dic://inept), [ill-chosen](dic://ill-chosen)
+		3. _adj._ [infelicitous](dic://infelicitous)
+		4. _n._ [felicitous](dic://felicitous)
+		5. **analogy**类似;**inept**不适当的;**apt**有…倾向的;**disingenuous**不真诚的;**laughable**荒唐可笑的;**ludicrous**荒唐可笑的,滑稽可笑的;**incompetent**无能力的;**absurd**荒谬的;**clumsy**笨拙的;**unwise**不明智的;**distasteful**使人不愉快的;
+		6. inapt handling of the project. /对这项计划的不恰当的处理
+		7. a more inapt name I cannot imagine. /我再想不出更不合时宜的名字了。
+		8. In 80 percent of most families, the financial story is a story of working hard and inapt to get ahead. /80％的家庭的财务报表表现的是一幅拼命工作、努力争先的图景。
+		9. inaptitude
 			1. His inaptitude for the job is very unfortunate. /非常遗憾他对此工作无法胜任。
 			2. Never validate their financial inaptitude by using irrelevant comparison /为自己平庸的财商开脱。
-	7. coapt
-	8. contraption
-	9. 
+	5. inept
+		1. in-不，非 + ept-连接，抓住，达到，即达不到，引申词义无能力。
+		2. a. 不适当的, 不理智的, 笨拙的
+		3. [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inapt](dic://inapt), [ill-chosen](dic://ill-chosen)
+		4. [feckless](dic://feckless)
+		5. [tactless](dic://tactless)
+		6. _adj._ [infelicitous](dic://infelicitous), [incompetent](dic://incompetent), [maladroit](dic://maladroit)
+		7. _n._ [felicitous](dic://felicitous), [competent](dic://competent), [adroit](dic://adroit)
+		8. **incompetent**无能力的;**clueless**无线索的;**clumsy**笨拙的;**ineffective**无效的;**idiotic**白痴的;**hapless**运气不好的，倒霉的;**arrogant**自大的，傲慢的;**pathetic**可怜的，悲哀的;**ignorant**无知的;**misguided**由错误思想指引的,不明智的;**incompetence**无能力;
+		9. inept handling of the account. /笨拙地处理帐目
+		10. He was an inept politician. /他是个无能的政客。
+		11. ineptly, ineptitude, 
+	6. coapt
+	7. contraption
+	8. 
 3. **copul-** = bond, tie, link
 	1. copula, copular, copulate
 		1. copulation, copulative, copulatory

@@ -2777,7 +2777,24 @@ tags: []
 		1. superversion
 	5. verso
 	6. versus
-	7. vortex (vertex, vertice, )
+		1. vers-转，词源converse , toward。引申词义转向对方的，相对，相比。
+	7. veer
+		1. v. 转向, 使转向 n. 转向
+		2. 来自 PIE*wer,弯，转，词源同 versus,toward.
+		3.  [swerve](dic://swerve), [sheer](dic://sheer), [curve](dic://curve), [trend](dic://trend), [slue](dic://slue), [slew](dic://slew), [cut](dic://cut)
+		4. _v._ [turn](dic://turn), [switch](dic://switch), [change over](dic://change over), [shift](dic://shift)
+		5. _n._ [back](dic://back)
+		6. **deviate**偏离;**strayed**迷路的;**steer**驾驶;**diverge**分歧;**turn**转动，旋转;**detour**使…绕道而行;**direction**方向;**meandering**蜿蜒的河流,漫步,聊天;**drift**漂流，漂移;**stray**走失的家畜;**wander**徘徊;
+		7. _veer away_ 松出
+		8. The wind veered round to the west.
+		9. the wind veered a point.  /风向变了一度。
+		10. veered the car sharply to the left. /把车急转到左边
+		11. they veered between apathetic torpor and hysterical fanaticism. /他们时而无动于衷地麻木，时而歇斯底里地狂热。
+		12. an oil tanker that had veered off course. /一艘突然偏离了航道的油船。
+		13. the conversation eventually veered away from theatrical things. /谈话最终偏离了有关戏剧的事。
+		14. The tone of the Cabinet is veered by every incidental change of war. /内阁因战况的偶然变化而改变意见。
+		15. The car went out of control and veered across the road /汽车失去了控制, 突然转向冲向大路的对面。
+	8. vortex (vertex, vertice, )
 		1. 1 - 来自拉丁语 vertere,转，旋转，词源同 versus,convert.引申词义漩风，漩涡，涡
 		2. [whirl](dic://whirl), [swirl](dic://swirl), [convolution](dic://convolution)
 		3. [whirlpool](dic://whirlpool), [maelstrom](dic://maelstrom)
@@ -2791,18 +2808,18 @@ tags: []
 			1. _vorticist_  n. 旋涡派画家
 		9. vorticity
 			1. _vorticity equation_ [力]涡量方程，涡度方程
-	8. vertex
+	9. vertex
 		1. 1.vertex ['vɜːteks] n.顶点；[昆] 头顶；[天] 天顶。这个词直接来自拉丁语，其词根vert-，vers-表示to turn or a turning，与相当多的日耳曼词源单词如forward、toward和southward中的-ward同源，想想forward在句子中的作用不正是表“toward the front”吗？而southward粗略讲不正是turn to south吗？  
 		2. 2.vertex n.顶点；[昆] 头顶；[天] 天顶是因为头发在头顶会聚集，然后会以一个“发旋”为中心成螺旋状分布，是头的最高处，也是身体的最高处，引申为顶点和天顶。词根是vert，vers，意思是to turn旋转、回旋和弯曲。
 		3. [peak](dic://peak), [apex](dic://apex), [acme](dic://acme)
 		4. _n._ [intersection](dic://intersection), [intersection point](dic://intersection point), [point of intersection](dic://point of intersection), [extreme point](dic://extreme point), [extreme](dic://extreme), [extremum](dic://extremum)
 		5. **vertices**至高点;**polygon**多边形;**node**节点;**nodes**节点;**convex**凸面的;**polynomial**多项式;**vector**矢量;**symmetric**相称性的,均衡的;**integer**整数;**orthogonal**直角的,直交的;**quadratic**二次的;
-	9. vertical
-	10. verticil
+	10. vertical
+	11. verticil
 		2. verticillate
 		4. vertimeter
 		5. vertometer
-	11. vertigo
+	12. vertigo
 		1. 来自拉丁语 vertigo,旋转，眩晕，来自 vert-,转，词源同 convert,versus,-ig,做，驱使，词源同agent.
 		2. **dizziness**头昏眼花;**dizzy**晕眩的;**nausea**恶心，晕船;**migraine**偏头痛;**tinnitus**耳鸣;**numbness**麻木;**insomnia**失眠症，失眠;**headache**头痛;**symptoms**病徵;**vomiting**呕吐;**anxiety**焦虑;
 		3.  [dizziness](dic://dizziness), [giddiness](dic://giddiness), [lightheadedness](dic://lightheadedness)
@@ -2810,14 +2827,14 @@ tags: []
 			1. _adj._ [ill](dic://ill), [sick](dic://sick)
 			2. _n._ [well](dic://well)
 			3. **dizzying**使人眩晕的，使人头昏眼花的;**exhilarating**令人振奋的;**perilous**危险的，冒险的;**jagged**锯齿状的;**breathtaking**令人赞叹的;**heady**易使人醉〔发晕〕的;**towering**激烈的;**breathless**喘不过气来的;**surreal**超现实主义的;**soaring**猛增的;**steep**陡峭的;
-	12. extraversion, extroversion
+	13. extraversion, extroversion
 		1. _n._ [sociability](dic://sociability), [sociableness](dic://sociableness)
 		2. _n._ [introversion](dic://introversion), [ambiversion](dic://ambiversion)
 		3. **arousal**激励;**introvert**个性内向者;**openness**空旷;**narcissism**自恋，自我陶醉;**interpersonal**人与人之间的, 人际的;**cognition**认识;**altruism**利他;**self-esteem**自尊;
 		4. extravert, extrovert
-	13. introversion, introversive, introvert
+	14. introversion, introversive, introvert
 		1. introversible
-	14. invert
+	15. invert
 		1.  [turn back](dic://turn back), [reverse](dic://reverse)
 		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 		3. **inversion**倒置,倒装;**distort**扭曲;**rotate**旋转;**flip**轻击;**flatten**使……平坦;**upside-down**颠倒的;**reverse**逆转;**inverse**倒转;**modify**修改，修饰;**normalize**使正常;**skew**斜交的(不对称的;
@@ -2843,7 +2860,7 @@ tags: []
 				1. reinversion
 				2. isoinversion
 			9. inversely
-	15. avert (obviate, obliviate )
+	16. avert (obviate, obliviate )
 		1. a-离开 + vert-转 → 转开 → 避开。
 		2. 1 - a-,从，从...离开，-vert,转，词源同 convert,皈依。
 		3. [debar](dic://debar), [obviate](dic://obviate), [deflect](dic://deflect), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
@@ -2875,7 +2892,7 @@ tags: []
 				6. _aversion therapy_ [心理]厌恶疗法
 				7. a temperamental aversion to work 禀性不喜欢工作
 			10. averseness
-	16. advert
+	17. advert
 		1. ad-去，往 + vert-转 → 吸引人们注意力的，广告。
 		2.  [ad](dic://ad), [advertisement](dic://advertisement), [advertizement](dic://advertizement), [advertising](dic://advertising), [advertizing](dic://advertizing)
 		3. [attend](dic://attend), [hang](dic://hang), [pay heed](dic://pay heed), [give ear](dic://give ear)
@@ -2906,7 +2923,7 @@ tags: []
 			4. advertising
 			5. advertiser
 			6. advertisement
-	17. adverse
+	18. adverse
 		1. a. 不利的, 敌对的, 相反的, 逆的
 		2. ad-,去，往，-verse,转。即转走的，对着干的。
 		3. adversus
@@ -2926,10 +2943,10 @@ tags: []
 		11. adversary (animosity，enmity, amity, inimical)
 			1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 			2. **foe**敌人;**enemy**敌人，仇敌;**nemesis**报应;**opponent**对手;**ally**同盟国;**rival**竞争者;**formidable**可怕的;**competitor**竞争者,对手,敌手;**rivals**竞争者;**attacker**攻击者;**challenger**挑战者;
-	18. ambivert
+	19. ambivert
 		1. _[ambivert](dic://ambivert)_  n. 既外向又内向的人；中间性格者
 		2. ambiversion
-	19. animadversion ( (animosity，enmity, amity, inimical))
+	20. animadversion ( (animosity，enmity, amity, inimical))
 		1. anim-生命 + ad- + vers-转 + -ion
 		2.  [censure](dic://censure)
 		3. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation)
@@ -2939,15 +2956,15 @@ tags: []
 		7. her animadversion against science /她对科学的谴责。
 		8. animadversions that the poet receives quite humbly /该诗人虚心接受的批评。
 		9. Utopia is the thorough animadversion and disavowal against social reality, while the latter is the end of the former /乌托邦是对社会现实的彻底的批判和否定，而社会现实则是乌托邦的终止和界限。
-	20. anniversary
+	21. anniversary
 		1. _n._ [day](dic://day)
 		2. **birthday**生日，诞辰;**commemoration**纪念;**celebration**庆祝;**centenary**一百周年;**commemorate**纪念;**centennial**一百周年;**celebrate**庆祝;**eve**前夕;**celebrated**著名的;**occasion**场合;**milestone**里程碑;
-	21. controvert
+	22. controvert
 		1. _v._ [refute](dic://refute), [rebut](dic://rebut), [disprove](dic://disprove), [confute](dic://confute)
 		2. **refute**反驳，驳斥;**substantiate**用事实支持;**assert**断言;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**affirm**断言;**appellant**上诉人;**contrary**相反的;**deny**否定，否认;**assertion**主张,维护;**petitioner**请愿人;
 		3. The statement of the last witness controvert the evidence of the first two. /最后一个证人的陈述反驳了前两人的证词。
 		4. controversy
-	22. convert
+	23. convert
 		1. [change over](dic://change over)
 		2. [change](dic://change), [exchange](dic://exchange), [commute](dic://commute)
 		3. [win over](dic://win over), [convince](dic://convince)
@@ -2973,7 +2990,7 @@ tags: []
 		22. convertible
 		23. converter
 		24. convertase
-	23. conversance, conversancy
+	24. conversance, conversancy
 		1. con-共同 + vers-转 + -ance, 表名词
 		2. n. 精通；熟悉
 		3. _n._ [information](dic://information)
@@ -2984,7 +3001,7 @@ tags: []
 			3. **versed**精通的;**fluent**流畅的，流利的;**proficient**精通的, 熟练的;**knowledgeable**博学的;**acquainted**熟悉的;**familiar**熟悉的;**adept**熟练的;**fluently**流利地;**knowledgable**知识渊博的,有见识的;**aware**知道的;**literate**受过教育的;
 			4. _[conversant](dic://conversant)_  adj. 熟悉的；精通的；亲近的
 			5. _[conversant with](dic://conversant%20with)_  对……精通; 对……熟悉;
-	24. converse (inverse, reverse)
+	25. converse (inverse, reverse)
 		1. n. 相反的事物, 倒, 逆向  a. 相反的, 逆向的, 颠倒的  
 		2. vi. 交谈, 谈话
 		3. con-,表强调，-verse,转，词源同 versus, advertise.指转到一起，交谈。词源同 introvert, versus.指转开的，相反的。
@@ -3020,7 +3037,7 @@ tags: []
 				4. [chat](dic://chat) 指熟人之间非常随便的交谈，强调谈话的亲密和非正式性。
 			2. **discussion**讨论, 商讨;**conversational**谈话的,会话的;**chat**聊天;**dialogue**对话;**banter**戏谑;**chats**矿山废石;**chatting**聊天;**talking**说话的，多嘴的;**chatter**唠叨;**debate**辩论，争论，讨论;**discourse**论文;
 		19. conversable
-	25. divert (avert)
+	26. divert (avert)
 		1. [deviate](dic://deviate)
 		2. [amuse](dic://amuse), [disport](dic://disport)
 		3. [hive off](dic://hive off)
@@ -3050,15 +3067,15 @@ tags: []
 			1. _adj._ [different](dic://different)
 			2. _n._ [same](dic://same)
 			3. **scuba**水中呼吸器;**dive**跳水;**swimmers**游泳者;**underwater**在水中生长的;**fishermen**渔夫,钓鱼者,渔船;**rescuers**救援者;**snorkeling**潜水;**snorkel**通气管;**anglers**钓鱼者;**reefs**群礁;**sharks**鲨鱼;
-	26. divorce
-	27. evert
+	27. divorce
+	28. evert
 		1. eversible
 		2. eversion
-	28. obvert
+	29. obvert
 		1. _[obvert](dic://obvert)_  vt. 将换置；将…之正面转向
 		2. obverse
 		3. obversion
-	29. pervert
+	30. pervert
 		1.  [deviant](dic://deviant), [deviate](dic://deviate), [degenerate](dic://degenerate)
 		2. [corrupt](dic://corrupt), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [vitiate](dic://vitiate), [deprave](dic://deprave), [misdirect](dic://misdirect)
 		3.  [twist](dic://twist), [twist around](dic://twist around), [convolute](dic://convolute), [sophisticate](dic://sophisticate)
@@ -3068,17 +3085,17 @@ tags: []
 		7. **depraved**堕落的;**pedophile**恋童癖者;**deviant**不正常的人,异常的人;**slut**懒妇;**whore**卖淫，娼妓;**rapist**强奸犯;**kinky**奇形怪状的，怪癖的;**sleazy**质地薄的;**sadistic**残酷成性的;**perverse**任性的,固执的;**lewd**淫荡的;
 		8. pervertible
 		9. perverted
-	30. perverse
+	31. perverse
 		1. perversive
 		2. perversity
 		3. perversion
 		4. perverseness
 		5. perversely
-	31. retrovert
+	32. retrovert
 		1. _[retrovert](dic://retrovert)_  v. 向后弯曲，使后屈
 		2. retroverted
 		3. retroversion
-	32. revert
+	33. revert
 		1. _v._ [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse), [mutate](dic://mutate)
 		2. **reversion**恢复,复原;**edit**编辑;**rollback**卷回;**vandalism**汪达尔人作风;**warring**敌对的;**reinstate**使恢复原职;**overwrite**写在…上面,写得过多;**undoing**毁灭;**revision**修正;
 		3. _revert to type_ 返祖;◎返祖;◎恢复原状;

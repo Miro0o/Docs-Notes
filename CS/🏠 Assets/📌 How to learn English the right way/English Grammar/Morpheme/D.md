@@ -1929,10 +1929,83 @@
 	3. fecund, infecund, fecundity, fecundate
 		1. fecundity, fecundate
 		2. fecundator, fecundation, superfecundation, hyperfecundation, autofecundation
-	4. felicitate, felicitation
-		1. felicific, infelicific
-		2. felicitous
-		3. felicity, infelicity
+	4. felicitate
+		1. vt. 庆祝, 庆贺
+		2. felic-幸福 + it + -ate, 表动词 → 使…幸福 → 祝贺。
+		3. _v._ [wish](dic://wish), [bid](dic://bid)
+		4. **congratulate**祝贺;**honour**荣誉;**bestow**授予;**commemorate**纪念;**celebrate**庆祝;**Excellency**优点;**honourable**诚实的, 正直的;
+		5. the award winner was felicitated by the cultural association. /获奖者得到了该文化团体的祝贺。
+		6. I felicitate myself on my narrow escape /我庆幸自己死里逃生。
+		7. Allow me to felicitate you upon the birth of your daughter. /恭贺你喜得千金。
+		8. Believe me, I felicitate myself on the misunderstanding which has procured me the pleasure of your company for so long; and let me express a hope that we may meet again upon a more regular footing. /相信我，我为自己的误解感到庆幸， 正是这种误解让我这么长时间以来一直很高兴能和你在一起； 让我表示希望我们能在更正常的基础上再次会面。 
+		9. I ever **felicitate** myself secretly that I won't make impertinent remarks or be hurt by them. /我曾经暗自庆幸，我不会出言不逊也不会为言语所伤。
+		10. felicitation (elicitation, elicit, solicitation, solicit)
+			1. [congratulation](dic://congratulation)
+			2. _n._ [expression](dic://expression), [verbal expression](dic://verbal expression), [verbalism](dic://verbalism), [speech act](dic://speech act)
+			3. **ceremony**典礼，仪式;**inauguration**就职典礼;**gala**节日，特别娱乐;**Excellency**优点;**honour**荣誉;**luncheon**午宴;**inaugural**就职的, 就任的;
+			4. Why the outgoing President's felicitation on the indorsement? /为什麽卸任总统要对人民的支持巧言美语？
+			5. Sincere felicitation on ywe completing the postgraduate courses or receiving the doctorate of science. /衷心祝贺你修完博士生课程并获得理学博士学位。
+			6. The group about Miss Welland made way for him with significant smiles, and after taking his share of the felicitations he drew his betrothed into the middle of the ball-room floor and put his arm about her waist. /韦兰小姐周围的那群人带着意味深长的微笑为他让路，在分享了他的祝福后，他把他的未婚妻拉到舞厅地板中央，用胳膊搂住她的腰。 
+		11. felicific
+			1. adj. 带来幸福的
+			2. If you have never felt **felicific**, would you like me to give you felicity? /如果你认为你从未被爱过，可不可以让我来爱你?。
+			3. infelicific
+		12. felicitous
+			1. a. 巧妙的, 极为适当的, 善于措辞的, 可喜的
+			2. _adj._ (措词等)恰当的,贴切的
+			3. _n._ 恰当,贴切
+			4. _adj._ [congratulatory](dic://congratulatory), [gratulatory](dic://gratulatory), [happy](dic://happy), [well-chosen](dic://well-chosen), [well-turned](dic://well-turned), [fortunate](dic://fortunate)
+			5. _n._ [infelicitous](dic://infelicitous), [unfortunate](dic://unfortunate)
+			6. **artful**狡猾的;**splendid**辉煌的;**auspicious**吉利的;**agreeable**欣然同意的;**joyous**令人高兴的;**delightful**令人非常高兴的, 讨人喜欢的;**paradoxical**似是而非的 矛盾的 诡论的;**harmonious**和谐的;**improbable**不可信的;**marvelous**引起惊异的,不可思议的,非凡的;**deft**灵巧的;
+			7. _[felicitous tree](dic://felicitous%20tree)_ 幸福树
+			8. _[felicitous label](dic://felicitous%20label)_ 幸福标号
+			9. _[felicitous graph](dic://felicitous%20graph)_ 巧妙图
+			10. _[felicitous thing](dic://felicitous%20thing)_ 美事
+			11. a felicitous writer. /一位善于措词的作家
+			12. a felicitous phrase. /恰如其分的措辞。
+			13. the view was the room's only felicitous feature /这景色是这个房间的惟一亮点。
+			14. Nationalization is a word which is neither very felicitous nor free from ambiguity. /国有化是个既不十分贴切,意义也颇含糊的用语。
+			15. The three were eating breakfast on the terrace, a thousand and one felicitous birds in the garden trees /他们三人在平台上吃早餐，花园的树林里有很多快活的鸟儿。
+			16. The felicitous word " demise, " which had seasonably occurred to him, had raised his spirits even above their usual evening pitch. /恰如其分地想到“死亡” 这个恰当的词， 使他精神振奋， 甚至比平时晚上的情绪还要高。
+			17. Her prose style is not always **felicitous**; she tends to repetition /她的散文文风并非一直恰到好处，她会赘叙。
+			18. She played him — sometimes delicately, sometimes with a less **felicitous** touch /她吊着他——有时温柔地，有时手法就不那么巧妙。
+			19. infelicitous
+				1. a. 不幸的, 不完善的, 不适当的
+				2. _adj._ [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inapt](dic://inapt), [inept](dic://inept), [ill-chosen](dic://ill-chosen), [unfortunate](dic://unfortunate)
+				3. _n._ [felicitous](dic://felicitous), [fortunate](dic://fortunate)
+				4. **ambiguous**模棱两可的;**phrasing**分节法;**colloquial**口语的, 会话的;**innocuous**无害的;**idiom**成语，习语;**unsatisfactory**使人不满意的;**utterance**说话;**clumsy**笨拙的;**contrived**不自然的;**vulgar**粗俗的;**grammatical**语法的;
+				5. _[infelicitous phrase](dic://infelicitous%20phrase)_ 不贴切的辞句
+				6. _[infelicitous ominous sinister baleful hapless](dic://infelicitous%20ominous%20sinister%20baleful%20hapless)_ 不幸运的
+			20. felicitousness
+				1. _[aptitude felicitousness felicity seemliness](dic://aptitude%20felicitousness%20felicity%20seemliness)_ 恰当
+				2. The results show that the igniting condition of HCD is the felicitousness combination of vacuum width, air pressure and voltage /结果表明，空心阴极点燃的条件是不同的空腔宽度与电压、气压条件的合理组合；
+				3. They don't think it is **felicitousness** for me to settle this question . thus, arosed a fierce discussion. /人们认为我对如何处理这个问题的看法不恰当，因此，展开了异常热烈的讨论。
+		13. felicity
+			1. n. 极乐，幸福；恰当，贴切；（文学或艺术作品的）别具匠心之处；语言方面的才能
+			2. [felicitousness](dic://felicitousness)
+			3. [happiness](dic://happiness)
+			4. _n._ [appropriateness](dic://appropriateness), [emotional state](dic://emotional state), [spirit](dic://spirit)
+			5. _n._ [infelicity](dic://infelicity)
+			6. **happiness**幸福;**contentment**满足,满意;**bliss**极乐;**prosperity**幸运;**intercourse**交往;**tranquility**平静;**divine**神圣的;**piety**虔诚;**liberty**自由;**enjoyment**愉快,欢乐,满意;**serenity**平静，宁静;
+			7. _[conjugal felicity](dic://conjugal%20felicity)_  美满姻缘 
+			8. _[felicity condition](dic://felicity%20condition)_ 妥适条件；合适条件；适切条件；恰当性标准
+			9. _[lost in felicity](dic://lost%20in%20felicity)_ 幸福得忘乎所以
+			10. felicity of expression. /表达的恰到好处
+			11. Felicity attends virtue. /德行将带来幸福。
+			12. The knowledge of future evils mortified the present felicities. /对未来苦难的了解压抑了目前的喜悦。
+			13. He is a writer of fluency and felicity, of graciousness and gentleness. /他是一位文笔流畅, 措词得体、文雅而且温和的作家。
+			14. Have you any thing else to propose for my domestic felicity? /“关于促进我的家庭幸福方面，你还有什么别的意见吗？”
+			15. Till the next morning, however, she was not aware of all the felicity of her contrivance. /不过，她的神机妙算究竟造成了多大幸福，她一直到第二天早上才知道。
+			16. He certainly contrived to execute his commission with a curious felicity. /他肯定怀有一种奇妙的幸福感，极力完成他的使命。
+			17. Again, studying the felicity conditions is what is needed. /这再次需要研究合适性条件。
+			19. infelicity
+				1. _n._ [inappropriateness](dic://inappropriateness), [unworthiness](dic://unworthiness)
+				2. _n._ [felicity](dic://felicity), [felicitousness](dic://felicitousness)
+				3. **grammatical**语法的;**ambiguity**歧义;**inconsistency**矛盾;**punctuation**标点法, 标点符号的使用;**allusion**暗示;**omission**省略;**errors**误差;**blunder**的错误;**affliction**折磨;**utterance**说话;**typo**排印错误;
+				4. _[inadequacy infelicity unsuitablity](dic://inadequacy%20infelicity%20unsuitablity)_ 不适当的
+				5. You will be surprised there is so much infelicity in the world. /你会感到惊讶世界上竟有这么多不幸的事情。
+				6. Dorothea's faith supplied all that Mr. Casaubon's words seemed to leave unsaid: what believer sees a disturbing omission or infelicity? /多萝西娅的信仰提供了卡苏朋先生的话似乎没有说出来的一切：哪个信徒会看到令人不安的遗漏或不合时宜？
+				7. There is so much **infelicity** in the world /人世间有很多不幸的事。
 2. **fet-** = productive, 表示“生产”。源自拉丁语 fetus "pregnancy, childbearing, offspring."
 	1. effete
 	2. fetus

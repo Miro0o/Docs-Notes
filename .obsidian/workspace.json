@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrepreneurship/Marketing & Promoting.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Countries & Research Programs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e2fea3f8a162f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS Overview/CS of The Year/Daily Schedule.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96bd21c913780996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7ced21eeb5b0386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entrepreneurship/Marketing & Promoting.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entrepreneurship/Marketing & Promoting.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entrepreneurship/Marketing & Promoting.md"
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md"
               }
             }
           },
@@ -170,13 +210,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b7cb2e71ec23f552",
+  "active": "d7ced21eeb5b0386",
   "lastOpenFiles": [
+    "Assets/Archive/Curriculums/SCU/CS/Shell/misc.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🗺 CS Overview/CS of The Year/Untitled.table",
+    "CS/🗺 CS Overview/CS of The Year/Daily Schedule.md",
+    "CS/🗺 CS Overview/CS of The Year/2024.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Countries & Research Programs.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Research Proposal (RP).md",
+    "Entrepreneurship/Marketing & Promoting.md",
     "Assets/Pics/Pasted image 20240706152904.png",
     "Entrepreneurship/Human & Organization Management.md",
     "Entrepreneurship/IT Entrepreneurship & Internet.md",
     "Entrepreneurship/Entrepreneurship.md",
-    "Entrepreneurship/Marketing & Promoting.md",
     "CS/🗺 CS Overview/Institutes & Organizations in CS & IT.md",
     "CS/🗺 CS Overview/🥂 Welcome to CS.md",
     "CS/🗺 CS Overview/🤯 Awesome List.md",
@@ -184,21 +240,7 @@
     "CS/Academics/Academic Institutions in Electronic & Information Fields.md",
     "CS/Academics/Academics.md",
     "CS/🗺 CS Overview/CS Community Lingo.md",
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/CrowdStrike.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Resume & Curriculum Vitae (CV).md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Personal Statement (PS).md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Letter of Recommendations (LORs).md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/P4 Language.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/TCL.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🙌🏻 Software Defined Network (SDN)/Software Defined Network (SDN).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Programming & RPC/Network Programming & RPC.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/High Performance Network (HPN) & IDC Technologies.md",
-    "CS/🏠 Assets/Study, University, and Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md",
     "Assets/Pics/Pasted image 20240706141804.png",
-    "CS/🏠 Assets/Study, University, and Education/科技创新人才培养.md",
-    "CS/🏠 Assets/Study, University, and Education/社会的产生与发展.md",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.png",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.svg",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/优麒麟操作系统",
@@ -211,13 +253,11 @@
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/KylinOS (银行麒麟)",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦",
     "Assets/Pics/Pasted image 20240705182541.png",
-    "Entrepreneurship/Marketing",
     "Personal Lives/Assets/quentin.jpeg",
     "Personal Lives/Assets/IMG_0400.jpeg",
     "Personal Lives/Assets/F54E53F8-8F20-4728-A939-8DB7EA5329B2_1_105_c.jpeg",
     "Personal Lives/Assets/CC6CA643-F897-4A7F-8D89-CB40F7911DD9_1_105_c.jpeg",
     "Personal Lives/Assets/769607A1-8A4E-42B4-870F-5002F9219C33_1_105_c.jpeg",
-    "Personal Lives/Assets/641CB604-D720-4F9A-9514-F7896FB0F021_1_105_c.jpeg",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
