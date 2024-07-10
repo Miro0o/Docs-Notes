@@ -2981,37 +2981,177 @@
 
 ### -arian = 表形容词或名词，“…的(人)”。
 1. agrarian
-2. antiquarian
+	1. 1. _adj._ 农业的, 土产的；土地的
+	2. 农民的，由农民组成的
+	3. 农村的
+	4. _n._ 平均地权论者
+	5. [agricultural](dic://agricultural), [farming(a)](dic://farming(a))
+	6. _adj._ [rural](dic://rural)
+	7. _n._ [urban](dic://urban)
+	8. **agricultural**农业的;**agriculture**农业;**peasant**农民;**farming**农业，耕作;**peasants**农民,民工;**industrialization**工业化;**rural**农村的，乡下的;**feudal**封建制度的;**farmers**农民;**urban**城市的;**bourgeois**资产阶级的;
+	9. People are leaving an agrarian way of life to go to the city. /人们正在放弃农业生活方式而转向城市。
+	10. The centre of the U.S. economy shifted from the agrarian areas to the industrial centres in the north /美国的经济重心由农村转到北方的工业中心。
+	11. Farmers are on the front line of these changes since 80 percent of the Sahel's economy is agrarian. /农民处于这些变化的第一线，因为萨赫勒地区百分之八十的经济来源于农业。
+	12. In America, we inculcate great values in that, these agrarian ideals /在美国，我们灌输伟大的价值观，比如这些农业理想。
+	13. The first big economic change was the agrarian revolution. /第一次重大的经济变革是土地革命。
+	14. With the advance of the frontier, corn and wheat supplanted them both in agrarian economy /随着边疆的推进，玉米和小麦在农业经济中取代了它们。
+	15. 
+3. antiquarian
 	1. n. 古文物收藏家, 古董商  a. 古文物的, 古文物研究的
-3. etc...
+4. etc...
 
 
 ### + \*arkhein + = to begin, rule, command
 1. **arch-, archy-** = ruler, rule, chief, 「Greeks」arch, "rule, government"
-	1. diarchy, triarchy, tetrarchy, heptarchy, polyarchy
-		1. diarchial
-	2. hagiarchy, plutarchy, thearchy
-		1. autarchy, autarchic, autarchical
-			1. **self-sufficiency**自足,自负;**hegemony**霸权;**capitalism**资本主义;**socialism**社会主义;**dictatorship**独裁;**neoliberal**新自由主义;**individualism**个人主义;**anarchy**无政府状态;**industrialization**工业化;**utopian**空想的;**autonomy**自治，自治权;
-		2. squirearchy, squirearch
-			1. **aristocracy**贵族;**aristocratic**贵族的;**feudal**封建制度的;**nobility**贵族;**bourgeoisie**资产阶级;**bourgeois**资产阶级的;**nobleman**贵族;**Tories**英国托利派;**estates**不动产;**Tory**保守党员;**peasants**农民,民工;
-		3. anarch, anarchy, anarchist, anarchism, anarchic
-			1. anarchistic, anarchical
-		4. matriarch, patriarch
-		5. monarch
-		6. oligarch, oligarhical, oligarchy
-		7. tetrarchate, tetarch
-		8. hierarchy
-	3. menarche
-	4. archangel, chiliarch
-	5. archbishop
+	1. kar-(1)
+		1. cracy-,crat- = rule, ruler, 表示“统治或政体，统治者”，最初含义表示“力量”。也引申为“支持者，参加者”等。源自希腊语 kratos "strength, might, power."
+	2. diarchy, triarchy, tetrarchy, heptarchy, polyarchy
+		1. di-二 + -archy, 统治
+		2. tri-三 + -archy, 统治
+		3. tetr-四 + arch-统治 + -y
+		4. hept-七 + -archy, 统治
+		5. poly-多 + -archy, 统治
+		6. diarchial
+	3. hagiarchy
+		1. hagi-巫婆 + -archy, 统治
+		2. n. 神权政治, 圣徒等级组织
+		3. _n._ 圣人政治,圣人之间的尊卑次序组织
+	4. hierarchy
+		1. hier-神 + -archy, 统治 → 神一般的统治 → 等级森严。
+		2. hierarchy（层级）：天使的等级体系 
+		3. 在中世纪早期一位自称为迪奥尼修斯（Dionysius）的 叙利亚修道神学者发表了《天阶序论》。制订了从天使到炽天使的天使三级九等即“天阶等级”。由于在圣经新约的使徒行传（17:34）中出现过一名叫做迪奥尼修斯（Dionysius）的希腊官员，因此早期基督教信徒都将这位中东学者的著作当成圣经中人物撰写的文献，将天使的三级九等奉为圣经的内容。所以他现在被称为伪迪奥尼修斯。  
+		4. 在其著作中，伪迪奥尼修斯将天使等级体系称为hierarchia（拉丁语），来自希腊语hierarkhia（高级祭司的统治），由hiera（圣礼）和arkhein（引导、统治）构成。英语单词hierachy（层级）便来源于此，原本仅用来表示天使的等级体系，后来延伸为“僧侣的等级体系”，现在则可泛指任何组织的等级体系。  
+		5. hierarchy：['haɪərɑrki] n. 层级；等级制度  
+		6. hierarch：['haɪə,rɑrk] n. 教主；掌权者；高僧  
+		7. hierarchic：[,haɪə'rɑrkɪk] adj. 分层的；分级的
+		8. _n._ [series](dic://series), [organization](dic://organization), [organisation](dic://organisation)
+		9. **hierarchical**分等级的;**structure**结构;**subordinate**部属，下属，下级;**categorization**分门别类;**schema**图解;**organizational**组织的;**ladder**阶梯;**top-level**最高阶层的;**level**水平;**patriarchal**家长的;**grouping**分组，分类;
+		10. _social hierarchy_ 社会等级；社会阶层
+		11. _hierarchy system_ 体系；分级系统
+		12. _inheritance hierarchy_ 继承层次；继承体系；继承阶层架构
+		13. _hierarchy of needs_ 需要层次；需求层次理论
+		14. _knowledge hierarchy_ 知识体系
+		15. a hierarchy of moral values /道德价值的层次
+		16. There is a rigid hierarchy of power in that country. /那个国家有一套严密的权力等级制度。
+		17. Yale has a strict hierarchy, with the president at the top. /耶鲁有严格的等级制度， 唯校长马首是瞻。
+		18. We have like, a hierarchy at each break /我们每次休息都有一个等级制度。
+	5. plutarchy
+		1. plut-财富 + -archy统治
+		2. n. 富豪统治
+	6. thearchy
+		1. the-神 + -archy, 统治
+		2. n. 神政, 神权统治, 众神
+		3. thearchy theocracy:  神政 
+		4. The love of thearchy:  众神之爱
+	7. autarchy, autarchic, autarchical
+		1. auto-自己 + -archy, 统治
+		2. n. 专制统治, 专制国家
+		3. **self-sufficiency**自足,自负;**hegemony**霸权;**capitalism**资本主义;**socialism**社会主义;**dictatorship**独裁;**neoliberal**新自由主义;**individualism**个人主义;**anarchy**无政府状态;**industrialization**工业化;**utopian**空想的;**autonomy**自治，自治权;
+	8. squirearchy, squirearch
+		1. squire【地主】 + -archy，统治
+		2. n. 地主政治, 地主阶级
+		3. **aristocracy**贵族;**aristocratic**贵族的;**feudal**封建制度的;**nobility**贵族;**bourgeoisie**资产阶级;**bourgeois**资产阶级的;**nobleman**贵族;**Tories**英国托利派;**estates**不动产;**Tory**保守党员;**peasants**农民,民工;
+	9. anarch
+		1. anarchy（无政府）：古代雅典的三十僭主统治时期  
+		2. 在古希腊时代，一个城邦通常由民主选举出来的九名高级官员共同组成统治群体，其中的首脑被称为archon，通常译为“执政官”。公元前404年，斯巴达打败雅典，斯巴达国王吕西斯特拉图解散了雅典的民主政府，扶植了由三十个贵族组成的寡头政府，史称“三十僭主”，因为他们不是经由民主选举产生的。三十僭主统治时期，由于没有一个合法的archon（执政官），国家陷入混乱状态，所以这段时期被称为anarkhia，字面意思就是“没有执政官”。该词经由拉丁文进入英语后演变为anarchy，用来形容一个国家缺乏合法政府时陷入混乱状况。  
+		3. anarchy：['ænəkɪ] n.无政府状态，混乱，群龙无首  
+		4. anarchic：[ə'nɑːkɪk] adj. 无政府的；无政府主义的；无法无天的  
+		5. anarchism：['ænɚkɪzəm] n. 无政府主义  
+		6. anarchist：['ænɚkɪst] n. 无政府主义者  
+		7. anarchistic：[,ænɚ'kɪstɪk] adj. 无政府主义的  
+		8. anarch：['ænɑːk] n. 无政府主义者（等于anarchist）；反叛首领
+		9. anarchy, anarchist, anarchism, anarchic
+		10. anarchistic, anarchical
+	10. matriarch
+		1. matri-母亲 + arch-统治
+		2. matriarchy
+		3. matriarchate
+		4. matriarchal
+	11. patriarch
+		1. n. 创办人, 家长, 元老, 教长, (天主教)教皇
+		2. patrician（贵族）：统治古罗马的氏族首脑  
+		3. 古罗马建城之初，创建者罗慕路斯召集各氏族中德高望重的首脑人物，由他们组成元老院，担任各种公职，协助他治理罗马。这些人被称为patres，是pater（father，家长、家父）的复数形式。英语词根pater-/patri-（父）就来源于此。  
+		4. 古罗马建立后很长一段时期内，所有公职都只能由patres的后代来担任，因此形成了一个专门的统治阶级，被称为patricius。该词经由法语进入英语后演变为patrician（贵族）。罗马公民中，patrician以外的人被称为plebeian（平民）。最初，贵族和平民之间不得通婚，平民不能担任任何公职。经过平民阶级的长期抗争后，最后才迫使贵族们废除了这些不平等制度。  
+		5. 与nobleman不同，patrician是由血统决定的，具有封闭性和世袭性。patrician的后代永远是patrician，而plebeian的后代永远不能成为patrician，但如果能取得执政官这样的高位后，就变成了nobleman，他的后代也能世袭为nobleman。所以patrician算是老牌贵族，而nobleman算是新兴贵族。  
+		6. pater-/patri-：父  
+		7. patrician：[pə'trɪʃ(ə)n] n.贵族，古罗马氏族贵族adj.贵族的，显贵的  
+		8. Patrick：['pætrɪk] n. 帕特里克（男子名），意为“高贵的”  
+		9. Patricia：[pə'triʃə]  n. 帕特丽夏（女子名），意为“高贵的”  
+		10. paternal：[pə'tɝnl]  adj. 父亲的；得自父亲的；父亲般的  
+		11. paternity：[pə'tɝnəti] n. 父权；父系；父系后裔  
+		12. patrimony： ['pætrɪmoni] n. 遗产；祖传的财物；继承物；教会的财产  
+		13. patriarch：['petrɪɑrk] n. 家长；族长；元老；创始人
+	12. monarch
+		1. archipelago（群岛）：希腊人的“主海”  
+		2. 英语单词archipelago源自希腊语arkhipelagos，由arkhi（=archi，chief，主的）+pilagos（sea，海）构成，意思就是“主海”，特指希腊人所处的爱琴海。众所周知，爱琴海中遍布岛屿，所以希腊语arkhipelagos演变为意大利语arcipelago后，词义就变了，不再特指爱琴海，而是泛指各种分布有大量岛屿的海。进入英语后，拼写变成archipelago，词义进一步发生变化，除了表示“分布有大量岛屿的海”以外，还可以用来表示“群岛”。  
+		3. archipelago：[,ɑːkɪ'peləgəʊ] n.群岛，多岛的海  
+		4. monarch：n.君主，帝王，最高统治者  
+		5. pelagic：adj.深海的，浮游的，远洋的
+		6. n. 君主，女王；黑脉金斑蝶；王鹟
+		7. [sovereign](dic://sovereign), [crowned head](dic://crowned head)
+		8. [monarch butterfly](dic://monarch butterfly), [milkweed butterfly](dic://milkweed butterfly), [Danaus plexippus](dic://Danaus plexippus)
+		9. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head of state), [chief of state](dic://chief of state), [danaid](dic://danaid), [danaid butterfly](dic://danaid butterfly)
+		10. **monarchy**君主政体;**king**国王;**royal**皇家的;**prince**王子，国君;**coronation**加冕礼;**sovereign**元首;**queen**女王，王后;**regent**摄政者;**throne**王座;**emperor**皇帝，君主;**regal**帝王的;
+		11. _monarch butterfly_ 黑脉金斑蝶，王蝶 
+		12. See, we got a monarch over here. /看，我们这里有黑脉金斑蝶。
+		13. Most Britons have never known another monarch. /大多数英国人从未见过其他君主。
+		14. Its supreme governor, still, is the British monarch. /它的最高统治者仍然是英国君主。
+		15. But there you have a monarch without real power. /那儿的君主没什么实权。
+		16. monarchy
+			1. _n._ 君主统治, 君主制度
+			2. 君主国
+			3. _n._ [autocracy](dic://autocracy), [autarchy](dic://autarchy)
+			4. **monarch**君主，帝王;**aristocracy**贵族;**monarchs**君主;**royal**皇家的;**republic**共和国;**dictatorship**独裁;**overthrow**打倒;**democracy**民主国家;**nobility**贵族;**throne**王座;**sovereign**元首;
+			5. _constitutional monarchy_ [法]君主立宪制度
+			6. _absolute monarchy_ 专制君主国；君主专制政体
+			7. They say the law is necessary to protect the monarchy. /他们说，为了保护君主制，法律是必要的。
+			8. It's a constitutional monarchy in the Middle East. And its government is enraged. /这个中东地区君主立宪制国家的政府现在已被激怒。
+			9. The book paints the monarchy as a cold and callous institution /这本回忆录把君主制描绘成一个冷酷无情的机构。
+			10. It used to be a monarchy governed by a Shah, a Persian king /该国曾是由波斯国王统治的君主制国家，波斯国王的称号为沙。
+		18. monarchist
+			1. antimonarchist
+		19. monarchism
+		20. monarchic
+			1. _adj._ [undemocratic](dic://undemocratic)
+			2. _n._ [democratic](dic://democratic)
+			3. **monarchy**君主政体;**dictatorship**独裁;**authoritarian**权力主义的,专制的;**feudal**封建制度的;**republic**共和国;**aristocracy**贵族;**monarch**君主，帝王;**aristocratic**贵族的;**monarchs**君主;**rulers**统治者;**republican**共和国的, 共和政体的;
+			4. _[monarchic network](dic://monarchic%20network)_ 专权网
+			5. _[monarchic state](dic://monarchic%20state)_ 王朝君主国家
+			6. _[monarchic power](dic://monarchic%20power)_ 君权
+			7. _[monarchic authority](dic://monarchic%20authority)_ 君主权威
+			8. _[monarchic regime overthrown](dic://monarchic%20regime%20overthrown)_ 推翻君主政权
+			9. Often a symbol and reflection of French political power, the cathedral was vandalized through the French Revolution while Napoleon Bonaparte used it to reinstate monarchicrule with his coronation as Emperor. /通常是法国政治权力的象征和反映，这座大教堂在法国大革命期间遭到破坏，而拿破仑利用这座大教堂恢复了君主统治，并加冕成为皇帝。
+			10. Democracy is full of menace to all the finer hopes of civilization, and the revival, in not unnatural companionship with it, of monarchic power based on militarism, makes the prospect dubious enough. /民主对文明的所有美好希望充满了威胁，而基于军国主义的君主权力的复兴，与它并非不自然地相伴，使前景变得非常可疑
+			11. monarchical
+			12. antimonarchical
+		22. monarchal
+	13. oligarch
+		1. _n._ [ruler](dic://ruler), [swayer](dic://swayer)
+		2. **billionaire**亿万富翁;**tycoon**巨富;**millionaire**百万富翁;**magnate**巨头;**mogul**有权势的人;**financier**金融家;**Putin**普京;**industrialist**工业家,实业家;**dictator**独裁者;**businessman**商人;**wealthy**富有的;
+		3. Berezovsky had been one of the Russia's oligarchs. /别列佐夫斯基曾是俄罗斯寡头之一。
+		4. He's been attacking pro-Russian interests, oligarchs and things like that. /他一直在攻击亲俄罗斯的利益集团、寡头等。
+		5. That signals a long-awaited U-turn in the historically laissez-faire attitudes adopted towards oligarchs and their " Londongrad" playground. /这标志着历史上对寡头及其“伦敦格勒”游乐场所采取的自由放任态度出现了期待已久的巨大转折。
+		6. oligarhical
+		7. oligarchy
+	14. tetrarchate, tetarch
+	15. menarche
+		1. men-月 + arche-统治
+		2. n. 初潮（少女的第一次月经来潮）
+		3. _n._ [start](dic://start)
+		4. **puberty**青春期;**menopause**经绝期;**menstruation**月经;**adolescence**青春期;**menstrual**月经的;**adulthood**成人期;**ovulation**排卵;**onset**开始，着手;**hormonal**荷尔蒙的，激素的;**estrogen**雌性激素;**age**年龄;
+		5. Primary amenorrhea is when a female hasn't had her first menstruation, called menarche, by age 16, despite normal growth and having started puberty. /原发性闭经指女性在16周岁前没有初次月经（即初潮），尽管生长发育、进入青春期均无异常。
+		6. What about two-thirds of rural high school girls in India who don't even understand what their bodies are going through at menarche? /印度三分之二的农村高中女生甚至不了解她们的身体在月经初潮时经历了什么？
+		7. That's why there's an increased risk of breast cancer with things that increase the number of menstrual cycles - like early age of menarche, which is the first menstrual bleeding, and late age of menopause. /这就解释了为什么月经次数较多的人患乳腺癌的几率更高，如初潮过早或停经过晚者。
+		8. 
+	16. archangel, chiliarch
+	17. archbishop
 		1. archdiocese
 		2. archdiocesan
-	6. archdeacon
-	7. archduchy
+	18. archdeacon
+	19. archduchy
 		1. archduke
-	8. archenemy, archfriend, arch-criminal
-	9. archetype
+	20. archenemy, archfriend, arch-criminal
+	21. archetype
 		1. _n._ [model](dic://model), [example](dic://example)
 		2. **archetypal**原型的;**mythic**神话的;**trope**比喻;**antithesis**对照;**character**个性;**quintessential**精髓的;**embody**体现，使具体化;**stereotypical**老一套的;**protagonist**主角;**persona**人物角色;**hero**英雄;
 		3. an archetype of the successful entrepreneur. /成功企业家的完美典范
@@ -3020,32 +3160,32 @@
 			1. _adj._ [first](dic://first)
 			2. _n._ [last](dic://last), [intermediate](dic://intermediate)
 			3. **archetype**原型;**quintessential**精髓的;**mythic**神话的;**stereotypical**老一套的;**mythological**神话的;**mythical**神话的;**emblematic**象征的;**embody**体现，使具体化;**antithesis**对照;**mystical**神秘的;**enigmatic**谜的;
-	10. archipelago
+	22. archipelago
 		1. _n._ [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma)
 		2. **islands**岛屿;**island**岛;**uninhabited**无人居住的;**peninsula**半岛;**coastline**海岸线;**Azores**亚速尔群岛;**mainland**大陆;**northernmost**最北的;**reefs**群礁;**southernmost**最南的;**Borneo**婆罗洲;
 		3. the Japanese archipelago /日本群岛
-	11. architect
+	23. architect
 		1. _n._ [creator](dic://creator)
 		2. **architectural**建筑学的;**sculptor**雕刻家;**designer**设计师;**engineer**工程师;**architecture**建筑学;**builder**建筑者;**developer**开发者;**contractor**承包人;**craftsman**工匠;**consultant**顾问;**surveyor**测量员;
 		3. architecture
 		4. architectonics
 		5. architectonical
 		6. architective
-	12. architrave
-	13. archive
-	14. archly
+	24. architrave
+	25. archive
+	26. archly
 		1. " But perhaps it is not wholly because of you that I get gloomy, " she archly added. /“不过我情绪低落，也许并不完全是因为你的缘故，”她自矜的添了一句。
 		2.  How was your piss" ? Arianne inquired archly. /" 你尿得怎样了？" 亚莲恩嬉戏地询问。
 		3. " Do you come up to Forks much? " I asked archly, as if I was hoping for a yes. /“你常去福克斯吗？”我狡猾地问道，就好像我在期盼着一个肯定的回答一样。
-	15. archness
-	16. archon
-	17. archpriest
-	18. ethnarch
-	19. exarchate
-	20. heresiarch
-	21. hierarch
-	22. hipparch
-2. **archaeo-** = old, 表示“古”。来自希腊语 arkhē "beginning."
+	27. archness
+	28. archon
+	29. archpriest
+	30. ethnarch
+	31. exarchate
+	32. heresiarch
+	33. hierarch
+	34. hipparch
+3. **archaeo-** = old, 表示“古”。来自希腊语 arkhē "beginning."
 	1. archaeology, archeology
 		1. archeologist
 		2. archaeometry

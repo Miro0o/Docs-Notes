@@ -509,12 +509,13 @@
 	1. abandon
 	2. ban
 	3. banal
-	4. bandit, banditry
+	4. bandit
 		1. _n._ [thief](dic://thief), [stealer](dic://stealer)
 		2. **robber**强盗;**thief**小偷，贼;**warlord**军阀;**robbers**盗贼;**outlaw**歹徒, 亡命之徒;**gangster**歹徒，流氓;**outlaws**歹徒;**gang**一群;**pirate**海盗;**mercenary**雇用的,为钱的,唯利是图的;**renegade**变节者;
 		3. brigand
-	6. banish, banishment
-	7. contraband
+		4. banditry
+	5. banish, banishment
+	6. contraband
 2. **fam-, fan-, fat-, fess-** = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。源自拉丁语 fari "to speak;" fama "talk, reputation, fame."
 	1. confabulate
 		1. confabulator, confabulation

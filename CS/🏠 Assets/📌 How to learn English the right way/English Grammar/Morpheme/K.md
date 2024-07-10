@@ -324,9 +324,27 @@
 		2. coincidence
 	13. incidence, incident, occident
 	14. occasion
-	15. recidivism, recidivist
-		1. _n._ [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [wrongdoer](dic://wrongdoer), [offender](dic://offender)
-		2. **offender**冒犯者;**felon**重罪犯;**habitual**惯常的;**criminal**罪犯;**delinquent**有过失的;**juvenile**青少年的;**incarcerated**钳闭的;**rapist**强奸犯;**inmate**同住者;**perpetrator**做坏事者;**convict**证明…有罪;
+	15. recidivism
+		1. re-往回、向后 + cid-落下 + -iv(e) + -ism。
+		2. n. 累犯
+		3. _n._ [backsliding](dic://backsliding), [lapse](dic://lapse), [lapsing](dic://lapsing), [relapse](dic://relapse), [relapsing](dic://relapsing), [reversion](dic://reversion), [reverting](dic://reverting)
+		4. **incarceration**监禁;**incarcerated**钳闭的;**offender**冒犯者;**parole**誓言;**crime**罪行，犯罪;**delinquency**不法行为;**dropout**中途退学;**relapse**再度堕落;**prison**监狱;**correctional**改正的,矫正的,修正的;**crimes**犯罪;
+		5. _[special recidivism](dic://special%20recidivism)_ 特别再犯
+		6. _[particular recidivism](dic://particular%20recidivism)_ 特殊累犯
+		7. _[Natural Recidivism](dic://Natural%20Recidivism)_ 自然人累犯
+		8. _[ordinary recidivism](dic://ordinary%20recidivism)_ 普通累犯; 一般累犯; 
+		9. _[recidivism period](dic://recidivism%20period)_ 重犯期
+		10. Recidivism of cholesteatoma is a remarkable problem in otologic surgery. /摘要胆脂瘤的复发是中耳炎手术的难题之一。
+		11. Many areas and work units have experienced no recidivism at all for as long as ten or more years. /不少地区和单位出现了连续几年、十几年没有发生重新犯罪的好典型。
+		12. Barracks are a little bit bleak, but that recidivism rate is to die for! /营房有点简陋，但是再犯率极低。
+		13. Recidivism is when someone returns to prison after being released /累犯是指某人在获释后又进监狱。
+		14. Employment for formerly imprisoned people is very important to prevent recidivism. /有前科的人就业对防止再犯非常重要。
+		15. Recidivism is largely the result of the challenges faced during reintegration, like finding employment or housing /再犯在很大程度上是重新融入社会过程中面临的挑战的结果，比如找到工作或住房。
+		16. recidivist
+			1. _n._ [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+			2. **offender**冒犯者;**felon**重罪犯;**habitual**惯常的;**criminal**罪犯;**delinquent**有过失的;**juvenile**青少年的;**incarcerated**钳闭的;**rapist**强奸犯;**inmate**同住者;**perpetrator**做坏事者;**convict**证明…有罪;
+			3. the third lowest recidivist rate in the country. /该国第三低的继续犯罪率。
+			4. He can be paroled during prison time if he is not a **recidivist**. /如果他不是累犯的话，在服刑期间有可能被假释。
 2. chance
 3. cheat
 4. chute
@@ -1321,7 +1339,12 @@
 	6. planiceps
 5. **head-** = head, 表示“头”。源自古英语 heafod "head."
 	1. head
-		1. head to head
+		1. head count
+			1. 人数统计：指在某个地方的确切人数，或者进行统计的行为。
+			2. [headcount](dic://headcount)
+			3. Now, do they have to maintain a head count? /对了 监狱必须维持一定人数吗？
+			4. Lots of hands going up, a moment, let me do a head count. /好多手，等一下，我数一下。
+		2. head to head
 			1. [tete-a-tete](dic://tete-a-tete), [head-to-head](dic://head-to-head)
 			2. [neck and neck](dic://neck and neck), [head-to-head](dic://head-to-head), [nip and tuck](dic://nip and tuck)
 			3.  [neck and neck](dic://neck and neck), [head-to-head](dic://head-to-head), [nip and tuck](dic://nip and tuck)
@@ -1330,7 +1353,7 @@
 			6. _n._ [public](dic://public), [conclusive](dic://conclusive)
 			7.  面对面：在非常接近的一对一的情况下。 
 				1. The two athletes competed head to head in the final race.  /这两位运动员在决赛中面对面竞争。
-		2. head over
+		3. head over
 			1. 驶往：1. 前往某地；2. 转向某个方向；3. 访问某个地方。
 			2. _[heading over](dic://heading%20over)_  正在前往（heading是head的现在分词）
 				1. We headed over to shoes and accessories. / 我们又冲去买鞋子和饰品。
@@ -1341,7 +1364,7 @@
 		4. _[over head and ears](dic://over%20head%20and%20ears)_  深陷于
 		5. _[over my head](dic://over%20my%20head)_  无法承担；不懂
 		6. 
-	2. heady
+	3. heady
 		1. [judicious](dic://judicious), [wise](dic://wise)
 		2. [intoxicating](dic://intoxicating)
 		3. [foolhardy](dic://foolhardy), [rash](dic://rash), [reckless](dic://reckless)
@@ -1379,14 +1402,21 @@
 		2. _occipital lobe_ [医]枕叶
 		3. _occipital bone_ [医]枕骨；后头骨
 	2. occiput
-		1. **posterior**(在时间;**anterior**前面的;**pelvis**骨盆;**dorsal**背的，背侧的;**cranial**头盖的;**vertebral**椎骨的;**extremities**末端;**vertebrae**椎骨;**forehead**前额，额头;**ventral**腹部的;**bony**骨的;
+		1. n. 枕骨部；后头部
+		2. _n._ [bone](dic://bone), [os](dic://os)
+		3. **posterior**(在时间;**anterior**前面的;**pelvis**骨盆;**dorsal**背的，背侧的;**cranial**头盖的;**vertebral**椎骨的;**extremities**末端;**vertebrae**椎骨;**forehead**前额，额头;**ventral**腹部的;**bony**骨的;
+		4. Let the occiputs, thus cut off, be interchanged, applying each to the head of his opposite party-man. /让这样切断的枕骨互换，将每个枕骨放在对方的头上。
+		5. This may seem a strange mode of speaking about the reading of a parish clerk—a man in rusty spectacles, with stubbly hair, a large occiput, and a prominent crown. /这似乎是一种奇怪的谈论教区书记阅读的方式——一个戴着锈迹斑斑的眼镜、短发、大枕骨和突出头冠的人。
 9. caitiff
 	1. adj. 卑劣的；胆小的 n. 卑鄙的人；胆小鬼
-	2. _n._ [cur](dic://cur)
-	3. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
-	4. _n._ [brave](dic://brave), [courageous](dic://courageous)
-	5. **wretched**可怜的;**heathen**异教徒;**bastard**私生的;**slay**杀害;**hapless**运气不好的，倒霉的;**treachery**背信弃义, 不忠, 背叛;
-11. hetman
+	2. n. 可鄙的人；胆小鬼 
+	3. adj. 卑鄙的；胆小的
+	4. _n._ [cur](dic://cur)
+	5. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
+	6. _n._ [brave](dic://brave), [courageous](dic://courageous)
+	7. **wretched**可怜的;**heathen**异教徒;**bastard**私生的;**slay**杀害;**hapless**运气不好的，倒霉的;**treachery**背信弃义, 不忠, 背叛;
+	8. As thy **caitiff** carcase soon shall know /你这匹夫马上就会知道我的厉害。
+10. hetman
 	1. n. 哥萨克人的酋长（旧时）波兰军事指挥官；（旧时）波兰军事指挥官
 
 
@@ -1403,6 +1433,7 @@
 		7. bastardization
 		8. bastarda
 	3. blinkard
+		1. n. 笨人；常眨眼或视力不佳的人
 	4. coward
 		1. coward - 英语之所以把胆小鬼叫做coward，是否因为胆小鬼在困难和危险面前cower（畏缩不前）或是被困难和危险cowed（吓着）的缘故？还是因为在战场上敌人往往骂他是cowherd（牧牛人）或cowheart（胆小）的缘故？都不是。  
 		2. 流行于中世纪的法国民间讽刺故事诗《列那狐的故事》（Roman de Renart，英语译作Reynard the Fox）中有一只名叫coart的小野兔，它最大的特点是胆小。以后人们就常用coart来形容胆小的人，英语单词coward即是从该词逐渐演变过来的。其词尾-ard常作为贬义后缀，如bastard（私生子），laggard（落后者），drunkard（酒鬼），sluggard（懒汉），dastard（卑怯的人）等。但若究其根源，coart则又是源于古法语coue/coe（尾巴），拉丁语cauda（尾巴）。把胆小鬼与尾巴相联系，大概是因为胆小的人一受到惊吓总像狗一样掉转屁股就溜（turn tail）或是夹着尾巴逃跑（with tail between the legs）的缘故吧。顺带提一下，coward的法语对应词couard也是这么来的。  
@@ -1410,36 +1441,67 @@
 		4. cowardly
 		5. cowardliness
 		6. cowardice
-	6. dotard
-		1. _n._ [oldster](dic://oldster), [old person](dic://old person), [senior citizen](dic://senior citizen), [golden ager](dic://golden ager)
-		2. **bastard**私生的;**feeble**微弱的，无力的;**fool**开玩笑;**foolish**愚蠢的;**pompous**浮夸的;**wretched**可怜的;**pious**虔诚的;**illiterate**目不识丁的,文盲的;**ignorant**无知的;**beggar**乞丐;**frail**虚弱的;
-		3. Dotard, a-dozing at the very nonce, /老糊涂，恰恰在当前打盹，
-		4. They called her dear mum in front of her and called her dotard to her back. /他们当面叫她亲爱的妈妈，背后叫她老糊涂。
-	7. drunkard
+			1. _n._ [spirit](dic://spirit)
+			2. _n._ [courage](dic://courage), [courageousness](dic://courageousness), [bravery](dic://bravery), [braveness](dic://braveness)
+			3. **cowardly**怯懦的，懦弱的;**coward**懦夫，懦弱的人;**treachery**背信弃义, 不忠, 背叛;**stupidity**愚笨;**incompetence**无能力;**hypocrisy**伪善;**arrogance**傲慢;**dishonesty**不诚实的行为;**selfishness**自私;**bravery**勇敢;**ignorance**无知;
+			4. His cowardice reflects on his character. /他的胆怯对他的性格带来不良影响。
+			5. monumental cowardice; monumental talent. /极端的胆怯；非凡的才能
+	5. dotard
+		1. n. 老糊涂；年老昏愦之人
+		2. _n._ [oldster](dic://oldster), [old person](dic://old person), [senior citizen](dic://senior citizen), [golden ager](dic://golden ager)
+		3. **bastard**私生的;**feeble**微弱的，无力的;**fool**开玩笑;**foolish**愚蠢的;**pompous**浮夸的;**wretched**可怜的;**pious**虔诚的;**illiterate**目不识丁的,文盲的;**ignorant**无知的;**beggar**乞丐;**frail**虚弱的;
+		4. Dotard, a-dozing at the very nonce, /老糊涂，恰恰在当前打盹，
+		5. They called her dear mum in front of her and called her dotard to her back. /他们当面叫她亲爱的妈妈，背后叫她老糊涂。
+		6. " So I'm to be a dotard with one foot in the grave, as well as a dastard, " roared Miraz. /“这么说，我已经半截入土、行将就木了，是吗？”弥若兹咆哮起来。
+		7. Kim Jong Un famously called Trump a “mentally deranged U.S. dotard”, while Trump later bragged about the size of his button when compared to his nemesis’ button. /金正恩曾称特朗普为“精神错乱的美国老糊涂”， 而特朗普后来吹嘘自己的纽扣比他的对手的纽扣大。
+	6. drunkard
 		1. [drunk](dic://drunk), [rummy](dic://rummy), [sot](dic://sot), [inebriate](dic://inebriate), [wino](dic://wino)
 		2. _n._ [drinker](dic://drinker), [imbiber](dic://imbiber), [toper](dic://toper), [juicer](dic://juicer)
 		3. **drunken**喝醉的;**drunk**喝酒;**alcoholic**酒精的;**beggar**乞丐;**gambler**赌徒;**drinker**酒徒;**sinner**罪人;**prostitute**娼妓;**liar**说谎的人;**man**男人;**lunatic**精神错乱的;
-	8. dullard
+		4. _[habitual drunkard](dic://habitual%20drunkard)_  酒徒 
+		5. A drunkard is unfit to drive. /醉酒的人不能开车。
+		6. That drunkard was the opprobrium of our community. /那个酒鬼是我们社区里可耻的人物。
+		7. Seryozhka is a sluggard, a drunkard /谢辽日卡是个懒汉，酒鬼。
+		8. The drunkard tottered along the road. /醉鬼在路上踉跄行走。
+		9. Like a thornbush in a drunkard's hand is a proverb in the mouth of a fool. /箴言在愚昧人的口中，好像荆棘刺入醉汉的手。
+		10. But how can he avoid excessive drinking or becoming a drunkard? What is the safety limit in this respect? /怕只怕三杯下肚，豪情大发，嘟嘟嘟，来个瓶底朝天，而且一顿喝不上便情绪不高，颇有怨言，甚至会到处去找酒喝。
+	7. dullard
 		1.  [stupid](dic://stupid), [stupid person](dic://stupid person), [stupe](dic://stupe), [dolt](dic://dolt), [pudding head](dic://pudding head), [pudden-head](dic://pudden-head), [poor fish](dic://poor fish), [pillock](dic://pillock)
 		2.  [bore](dic://bore)
 		3. _n._ [simpleton](dic://simpleton), [simple](dic://simple), [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
 		4. **moron**痴愚者;**idiot**白痴;**clueless**无线索的;**pompous**浮夸的;**drivel**淌口水,说傻话;**illiterate**目不识丁的,文盲的;**deluded**轻信的;**fool**开玩笑;**ignorant**无知的;**dumb**哑的，无说话能力的;**wannabe**想达到目标的人;
 		5. Rope work is not an art for dullards. 绳艺不是给蠢汉看的艺术。
-	9. laggard
-		1. [dawdler](dic://dawdler), [drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke)
-		2. [dilatory](dic://dilatory)
-		3.  [dilatory](dic://dilatory), [poky](dic://poky), [pokey](dic://pokey)
-		4. _n._ [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout), [bum](dic://bum)
-		5. _adj._ [unpunctual](dic://unpunctual), [slow](dic://slow)
-		6. _n._ [punctual](dic://punctual), [fast](dic://fast)
-		7. _[laggard student](dic://laggard%20student)_ 迟钝学生; 详细翻译; 
-		8. _[You are laggards](dic://You%20are%20laggards)_ 你是落后者
-		9. **lagging**绝缘层材料;**sluggish**萧条的;**lags**落后期;**lackluster**无光泽,暗淡;
+		6. But none at all, or too much, can make you a dullard. /但绝不碰酒或纵酒过度的结果却与之相反。
+		7. People would focus on nothing other than earning money, he feared, turning them into dullards (just look at Americans, he warned). /他担心，人们除了赚钱以外什么都不关心，这会让他们变成傻瓜（看看美国人就知道了，他警告说）
+		8. How can brainless dullards like us ever hope to entertain Mr Blake? /我们这等俗人哪能入布雷克先生的法眼？
+		9. " Just a moment. You might explain to a dullard just why these five pennies should have been important" . /等一下。你可以向笨蛋解释为什么这五个便士应该很重要” 。
+	8. laggard
+		1. n. 迟钝懒散者；迟缓者；涣散的机构；技不如人者 
+		2. adj. 落后的；迟钝的；迟缓的
+		3. [dawdler](dic://dawdler), [drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke)
+		4. [dilatory](dic://dilatory)
+		5.  [dilatory](dic://dilatory), [poky](dic://poky), [pokey](dic://pokey)
+		6. _n._ [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout), [bum](dic://bum)
+		7. _adj._ [unpunctual](dic://unpunctual), [slow](dic://slow)
+		8. _n._ [punctual](dic://punctual), [fast](dic://fast)
+		9. _[laggard student](dic://laggard%20student)_ 迟钝学生; 详细翻译; 
+		10. _[You are laggards](dic://You%20are%20laggards)_ 你是落后者
+		11. **lagging**绝缘层材料;**sluggish**萧条的;**lags**落后期;**lackluster**无光泽,暗淡;
+		12. a bell to summon laggard children to school. /召唤迟缓上学小孩的铃声。
+		13. Chevron, an energy firm, has gone from a laggard to a world-beater. /雪佛龙（一家能源企业）已经从落后的状态中走出，成了一家世界顶尖企业。
+		14. The predators will catch the weaker ones, the laggards, they will grab off individuals in the periphery of the group /掠食者会捕捉体弱和落在后面的，它们会从兽群边缘抢走个体。
+		15. Laggards risk going the way of typesetters. /落后者冒着重蹈排字者覆辙的风险。
+		16. Moreover, clear leaders and laggards are already emerging/此外，明显的领导者和落后者已经出现。
 	10. niggard, niggardly
 		1.  [skinflint](dic://skinflint), [scrooge](dic://scrooge), [churl](dic://churl)
 		2. _n._ [hoarder](dic://hoarder)
 		3. **thy**你的;**doth**从事;**hath**有;**wretched**可怜的;**thou**你;**thine**你的东西，你的家属;**bestow**授予;**thee**你;**beggar**乞丐;
 		4. Don’t expect that niggard to invite you to dinner. /别指望那个吝啬鬼会请你吃饭。
+		5. Don’t expect that niggard to invite you to dinner. /别指望那个吝啬鬼会请你吃饭。
+		6. The niggard contributed little to them. /这个吝啬鬼几乎就没捐钱给他们。
+		7. Some naughty boys nicknamed the old woman a niggard. /一些淘气的男孩给妇女取绰号为吝啬鬼。
+		8. Flowing around you, not brooding and nursing every niggard stone. /在你周围流动， 而不是沉思和护理每一块吝啬鬼的石头。
+		9. " Rats and ruins. It is a niggard's gift that costs the giver nothing. Your own man Yarwyck says it will be half a year before the castle can be made fit for habitation" . /" 一个老鼠聚居的废墟，给得冠冕堂皇，实际毫无价值。你的手下亚赛尔亲口承认，至少得要半年，那里才能辟出空间来住人。"
 	11. sluggard
 		1. _n._ [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout), [bum](dic://bum)
 		2. **Proverbs**箴言篇;**doth**从事;**proverb**谚语，格言;**ant**蚂蚁;**lazy**懒惰的;
@@ -1448,7 +1510,7 @@
 		1. _n._ ①卑鄙小人；讨厌的家伙②发恶臭的人；放臭气的动物(尤指獾类)
 2. **carc-, carcino-** = 表示“螃蟹，癌症”。源自希腊语 karkinos "cancer, crab."
 	1. carcinoma, carcinomas, carcinogen, carcinomata
-		1. - n. [肿瘤] 癌
+		1. n. [肿瘤] 癌
 		2. **benzene**苯;**toxicity**毒性;**formaldehyde**甲醛;**arsenic**砒霜;**asbestos**石棉;**toxin**毒质;**chemicals**化学药品;**pollutant**污染物质;**toxic**有毒的;**cancers**癌症;**contaminant**杂质;
 	3. cancer
 	4. canker
@@ -1461,16 +1523,31 @@
 		7. he hated her with a cankered, shameful abhorrence. /他恶毒而可耻地憎恶她。
 		8. Cankered material can produce effluvial carcinogen aldehyde. .腐烂的物质可以产生恶臭的致癌物质乙醛。
 	5. chancre
-		1. a small hard painless nodule at the site of entry of a pathogen (as syphilis) /- n. （硬性）[性病] 下疳
-		2. **syphilis**梅毒;**herpes**疱疹;**sores**褥疮;**lesion**损害;**ulcer**溃疡;**anus**肛门;**warts**疣;**infection**传染;**ulcers**溃疡，疡;**vagina**阴道;**cyst**胞,包囊,膀胱;
-		3. chancroid
+		1. [美 /'ʃæŋkɚ/](cmd://Speak/_us_/chancre)
+		2. a small hard painless nodule at the site of entry of a pathogen (as syphilis) /- n. （硬性）[性病] 下疳
+		3. _n._ [sore](dic://sore)
+		4. **syphilis**梅毒;**herpes**疱疹;**sores**褥疮;**lesion**损害;**ulcer**溃疡;**anus**肛门;**warts**疣;**infection**传染;**ulcers**溃疡，疡;**vagina**阴道;**cyst**胞,包囊,膀胱;
+		5. _[mixed chancre](dic://mixed%20chancre)_  混合性下疳,混合下疳
+		6. _[hard chancre](dic://hard%20chancre)_  硬性下疳
+		7. _[soft chancre](dic://soft%20chancre)_  软下疳,软性下疳
+		8. tuberculous chancre:  或结核性下疳；结核性初疮
+		9. chancre redux: 再发性下疳
+		10. chancroid
 	7. cancroid
+		1. adj. 癌状的；蟹状的
+		2. n. 角化癌（一种皮肤癌）
+		3. [squamous cell carcinoma](dic://squamous cell carcinoma)
+		4. _n._ [skin cancer](dic://skin cancer)
+		5. _adj._ [squamous cell carcinoma](dic://squamous cell carcinoma)
 	8. carcinectomy
 	9. carcinofetal
 	10. carcinogene
 	11. carcinogenesis
 	12. carcinogenic
 	13. carcinoid
+		1. _n._ [tumor](dic://tumor), [tumour](dic://tumour), [neoplasm](dic://neoplasm)
+		2. **carcinoma**癌;**tumor**肿瘤;**pancreatic**胰腺的;**tumors**肿瘤;**esophageal**食道的;**lymphoma**淋巴瘤;**adrenal**肾上腺的;**metastases**移位变化;**colorectal**结肠直肠的;**ovarian**卵巢的;**gastrointestinal**胃与肠的;
+		3. This case is not goblet **carcinoid** /本例不是杯状细胞类癌。
 	14. etc..
 3. **caryo-, karyo-** = 表示“核”，生物学前缀。源自希腊语 karyon "nut, kernel,"。
 	1. etc...
@@ -1556,48 +1633,148 @@
 		10. katabolism
 	3. catachresis
 	4. cateclasite
-	5. cataclysm
+	5. cataclysm (aslyum)
 		1. cata-离开 + clysm-洪水 , 冲 → 被洪水冲掉 → 大灾难。
-		2. _n._ [geological phenomenon](dic://geological phenomenon), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
-		3. **catastrophe**大灾难;**calamity**不幸事件;**apocalypse**启示, 天启;**devastation**毁灭;**catastrophic**灾难性的;**apocalyptic**预示灾祸的;**upheaval**剧变;**disaster**不幸;**Armageddon**世界末日善恶决战的战场;**pandemic**在全国流行的;**deluge**洪水;
-		4. _[cataclysm](dic://cataclysm)_  n. 灾难；大洪水，地震；（社会政治的）大变动
-		5. _[cataclysm theory](dic://cataclysm%20theory)_  灾变说 
-		6. The eruption of the volcano was an unexpected cataclysm /火山爆发是一场意外灾难。
-		7. cataclysmic
+		2. n. 灾难；大洪水，地震；（社会政治的）大变动
+		3. _n._ [geological phenomenon](dic://geological phenomenon), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
+		4. **catastrophe**大灾难;**calamity**不幸事件;**apocalypse**启示, 天启;**devastation**毁灭;**catastrophic**灾难性的;**apocalyptic**预示灾祸的;**upheaval**剧变;**disaster**不幸;**Armageddon**世界末日善恶决战的战场;**pandemic**在全国流行的;**deluge**洪水;
+		5. _[cataclysm](dic://cataclysm)_  n. 灾难；大洪水，地震；（社会政治的）大变动
+		6. _[cataclysm theory](dic://cataclysm%20theory)_  灾变说 
+		7. The eruption of the volcano was an unexpected cataclysm /火山爆发是一场意外灾难。
+		8. the cataclysm of the First World War. /第一次世界大战的大灾难。
+		9. The eruption of the volcano was an unexpected cataclysm. /火山爆发是一场意外灾难。
+		10. A cataclysm will come to be known by a biblical name, the Exodus /这场大变动可比圣经中的《出埃及记》。
+		11. A few tens of millions of years after its birth, Earth suffered a cataclysm which almost destroyed it outright. /地球诞生后几千万年，经历了一场大灾难，几乎将它完全摧毁。
+		12. But strangely, this cataclysm from space was not the first massive disaster that the dinosaurs faced. /但奇怪的是，这来自太空的大灾难并非恐龙们面对的第一次大灾难。s
+		13.  But billions of years ago, a mysterious cataclysm destroyed the planet's atmosphere, and the water vanished./不过数十亿年前，一个神秘的事件摧毁了这个行星的大气，水也消失了。
+		14. cataclysmic
 			1. _adj._ [destructive](dic://destructive)
 			2. _n._ [constructive](dic://constructive)
 			3. **catastrophic**灾难性的;**catastrophe**大灾难;**apocalyptic**预示灾祸的;**devastating**毁灭性的;**apocalypse**启示, 天启;**upheaval**剧变;**calamity**不幸事件;**momentous**重大的, 严重的;**devastation**毁灭;**disastrous**灾难性的;**horrific**可怕的;
-		8. cataclysmal
+		15. cataclysmal
 	7. catacomb
-		1. _[catacombs](dic://catacombs)_  n. 地下墓穴（catacomb的复数）；陵寝
-		2. _n._ [tunnel](dic://tunnel)
-		3. **crypt**地窖,教堂地下室;**tomb**坟墓;**tombs**古墓，陵墓;**cave**使凹陷，使塌落;**subterranean**地表下面的;**mausoleum**陵墓;**underground**地下的;**caves**洞穴;**dungeon**地牢，土牢;**basilica**长方形会堂;**lair**巢穴;
+		1. n. 地下墓穴；茔窟
+		2. _[catacombs](dic://catacombs)_  n. 地下墓穴（catacomb的复数）；陵寝
+		3. _n._ [tunnel](dic://tunnel)
+		4. **crypt**地窖,教堂地下室;**tomb**坟墓;**tombs**古墓，陵墓;**cave**使凹陷，使塌落;**subterranean**地表下面的;**mausoleum**陵墓;**underground**地下的;**caves**洞穴;**dungeon**地牢，土牢;**basilica**长方形会堂;**lair**巢穴;
+		5. The Chu Prince Mausoleum is a seldom seen and except ionally big caverned catacomb with the gigantic project for a prince in the Western Han Dynasty. /狮子山楚王陵：楚王陵“因山为陵，凿石为藏”，形制奇特，工程浩大，完全在岩石之中凿建而成，是一座罕见的特大型西汉诸侯王崖洞墓葬。
+		6. He thought of those as his catacomb days /他后来回忆时说那是一段暗无天日的时期。
+		7. They're gonna send me to the catacombs! /他们会把我打入地下墓穴的！
+		8. Problems don't go away because they have been sent to a catacomb. /问题并不会因为被埋在地底而消失。
+		9. The grand staircase was copied from the Catacombs at Rome. /宏伟的楼梯是从罗马的地下墓穴复制而来的。
 	9. catadromous
 		1. _[catadromous](dic://catadromous)_  adj. 下海产卵的；为产卵而入海的
 		2. _n._ [diadromous](dic://diadromous), [anadromous](dic://anadromous)
 		3. **eel**鳝鱼;**larval**幼虫状态的;**migratory**迁移的;**freshwater**淡水的;**spawning**播种，产卵;**species**物种;**fish**捕鱼，钓鱼;**aquatic**水生的;**trout**鳟鱼;**fishes**鱼类;
 	10. categenesis
 	11. catalepsy
-		1. _n._ [hypersomnia](dic://hypersomnia)
-		2. **paralysis**瘫痪;**psychosis**精神病;**trance**【C】昏睡状态;**amnesia**健忘症，记忆缺失;**hypnosis**催眠状态;**schizophrenia**精神分裂症;**intoxication**陶醉;**hypnotic**催眠的，催眠术的;**coma**昏迷;**dissociation**分离;**delusion**错觉;
-		3. _[catalepsy](dic://catalepsy)_  n. [内科] 强直性昏厥；全身僵硬症；[内科] 僵住症
-		4. catelepsis, cataleptic
-	12. cataplexy
+		1. cata- + -lepsy, 发作
+		2. _n._ [hypersomnia](dic://hypersomnia)
+		3. **paralysis**瘫痪;**psychosis**精神病;**trance**【C】昏睡状态;**amnesia**健忘症，记忆缺失;**hypnosis**催眠状态;**schizophrenia**精神分裂症;**intoxication**陶醉;**hypnotic**催眠的，催眠术的;**coma**昏迷;**dissociation**分离;**delusion**错觉;
+		4. _[catalepsy](dic://catalepsy)_  n. [内科] 强直性昏厥；全身僵硬症；[内科] 僵住症
+		5. _[secondary catalepsy](dic://secondary%20catalepsy)_  继发性木僵
+		6. _[artificial catalepsy](dic://artificial%20catalepsy)_  人为木僵
+		7. _[rigid catalepsy](dic://rigid%20catalepsy)_  肌紧张木僵
+		8. _[hypnotic catalepsy](dic://hypnotic%20catalepsy)_  催眠木僵
+		9. We think now he probably suffered from **catalepsy**, a nervous condition that causes muscular rigidity /我们现在认为他可能是受到全身僵硬症的困扰，这是一种使肌肉僵硬的神经疾病。
+		10. catelepsis, cataleptic
+	13. cataplexy
 		1. cata-下 + -plexy, 打击
 		2. _[cataplexy](dic://cataplexy)_  n. [内科] 猝倒；昏倒
-	13. catalog
-		1.  [catalogue](dic://catalogue)
-		2. _n._ [book](dic://book), [list](dic://list), [listing](dic://listing)
-		3. _v._ [compose](dic://compose), [compile](dic://compile), [classify](dic://classify), [class](dic://class), [sort](dic://sort), [assort](dic://assort), [sort out](dic://sort out)
-		4. **catalogue**目录, 一览表;**collection**收集;**library**图书馆，藏书室;**inventory**详细目录, 存货清单;**database**数据库，资料库;**discography**唱片目录,录音作品目录;**archive**存档;**brochure**手册，小册子;
-		5. category
-	14. catalyst
+		3. We know narcolepsy with cataplexy, which has a very clear cause-- you know, it's a deficit in orexin, and so forth. /我们知道伴有猝倒症的发作性睡病有一个非常明确的原因——你知道，这是食欲素缺乏等。
+		4. Type 1 is usually based on having low levels of hypocretin, a brain hormone that regulates sleep, or a person reporting cataplexy /1 型通常是基于低水平的伪君子，一种调节睡眠的大脑激素， 或报告有猝倒症的人。
+		5. Whether a person has cataplexy associated with their narcolepsy or not is the main determinant of the type of narcolepsy that they have. /一个人是否患有与发作性睡病相关的猝倒症是他们所患发作性睡病类型的主要决定因素。
+	14. catalog
+		1. n. 目录；登记
+		2. vt. 为…编目录；登记
+		3. vi. 编目录；按确定价格收入目录（等于catalogue）
+		4.  [catalogue](dic://catalogue)
+		5. _n._ [book](dic://book), [list](dic://list), [listing](dic://listing)
+		6. _v._ [compose](dic://compose), [compile](dic://compile), [classify](dic://classify), [class](dic://class), [sort](dic://sort), [assort](dic://assort), [sort out](dic://sort out)
+		7. **catalogue**目录, 一览表;**collection**收集;**library**图书馆，藏书室;**inventory**详细目录, 存货清单;**database**数据库，资料库;**discography**唱片目录,录音作品目录;**archive**存档;**brochure**手册，小册子;
+		8. _product catalog_ 产品目录
+		9. _card catalog_ 图书馆里的卡片目录（等于card catalogue）
+		10. a catalog of all the books in the library /图书馆里所有书籍的目录
+		11. Has the Harvard catalog come yet? /哈佛大学简介来了吗?s
+		12. We are now forwarding you a catalog for your reference. /现寄去我方产品目录以供参考。
+		13. category
+	15. catalyst
 		1. cata-向下，强调 + -lyst分裂 → 分解下去 → 催化[剂]。
 		2. [accelerator](dic://accelerator)
 		3. _n._ [activator](dic://activator), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency)
 		4. n._ [anticatalyst](dic://anticatalyst)
 		5. **catalytic**接触反应的;**precursor**先驱;**impetus**促进;**by-product**副产品;**reaction**反应，感应;**ignite**点燃;**byproduct**副产品;**spark**火花，火星;**transformation**转型;**facilitator**帮助者;**precipitated**沉淀的;
-	15. catapult
+		6. _phase transfer catalyst_ 相转移催化剂
+		7. _hydrogenation catalyst_ 加氢催化剂
+		8. _polymerization catalyst_ [化]聚合催化剂
+		9. _catalyst poisoning_ 催化剂中毒
+		10. a catalyst for the unrest was the passage of a privatization law. /动乱的起因是通过了一部私有化法律。
+		11. political agitators who are the yeast of revolution. /激起革命的政治鼓动者
+		12. The prime minister's speech acted as a catalyst for debate. /首相的演讲对争论起到促进作用。
+		13. Leadership is the catalyst for transforming those talents into results. /领导艺术 是一种催化剂，将众人的才智转化为业绩。
+		14. I think about four years ago, Ellen really was the catalyst. /我觉得大概是在四年前，艾伦催生了这一想法。
+		15. photocatalyst
+		16. cocatalyst
+		17. catalyze
+			1. _v._ [change state](dic://change state), [turn](dic://turn)
+			2. **catalyst**催化剂;**facilitate**使便利, 减轻…的困难;**accelerate**加快, 增速;**mobilize**动员，调动;**stimulate**刺激;**empower**使能够;**inspire**鼓舞;**ignite**点燃;**transform**改变;**synthesize**合成;**initiate**开始，创始;
+			3. _[catalyzed sorption](dic://catalyzed%20sorption)_ 催化吸附
+			4. _[transition-metal catalyzed](dic://transition-metal%20catalyzed)_ 过渡金属催化
+			5. _[transition-metal catalyze](dic://transition-metal%20catalyze)_ 过渡金属催化
+			6. _[catalyzing enzyme](dic://catalyzing%20enzyme)_ 催化酶；催化酶英语
+			7. _[catalyzing degradation](dic://catalyzing%20degradation)_ 催化降解
+			8. _[catalyzed hydrolysi](dic://catalyzed%20hydrolysi)_ 催化水解
+			9. _[catalyze into](dic://catalyze%20into)_ 使成为
+			10. _[catalyzing factor](dic://catalyzing%20factor)_ 催化活性因子
+			11. _[catalyzing property](dic://catalyzing%20property)_ 催化性能
+			12. For example, fumarase catalyzes the interconversion of malic acid and fumaric acid. /如延胡羧酸酶能催化苹果酸和反丁烯二酸的可逆反应。
+			13. This is catalyzed by a transaminase enzyme in conjunction with the coenzyme pyridoxal phosphate. /催化这个反应的酶是氨基转移酶，其上连接有磷酸吡哆醛作为辅酶。
+			14. " Color(ed) Theory" catalyzed new conversations about the value of blackness. /" 涂色理论" 引发了关于黑色价值内涵的新讨论。
+			15. Facebook initially held out the promise of catalyzing and strengthening relationships. /脸书一开始承诺说可以加速并巩固人与人之间的关系。
+			16. The partnership will facilitate a new type of financial product that catalyzes private sector investment in early-stage, women-led businesses /这一伙伴关系将促进一种新型金融产品的诞生，促进私营部门投资于女性主导的早期企业。
+			17. This work has led to the creation of proteins with new enzymatic activities, able to catalyze useful chemical reactions. /“这项研究创造出具有新型酶活性的蛋白质，这种蛋白质可以催化有益的化学反应。
+			18. The mechanism of exactly how the silica helps catalyze the reaction is not clear yet--but it is very clearly does. /二氧化硅帮助催化反应的确切机理尚不清楚，但很明显确实如此。
+			19. I want to **catalyze** the use of our ideas in cities all across Africa. /我想加速我们的想法在整个非洲的使用。
+			20. This will greatly **catalyze** exoplanet research /这将极大促进地外星系研究。
+			21. catalyzing
+			22. catalyzer
+				1. photocatalyzer
+				2. biocatalyzer
+				3. anticatalyzer
+			23. catalyzator
+		18. catalytically
+		19. catalytical
+		20. catalytic
+			1. _adj._ [catalysis](dic://catalysis), [contact action](dic://contact action)
+			2. **enzymatic**酶的;**catalyst**催化剂;**enzyme**酶;**electrochemical**电气化学的;**oxidation**氧化;**redox**氧化还原剂;**adsorption**吸附;**converter**转炉;**enzymes**酶类，酵素;**thermodynamic**热力的;**hydrolysis**水解;
+			3. _catalytic cracking_ 催化裂化
+			4. _catalytic activity_ 催化活性
+			5. _catalytic oxidation_ 催化氧化
+			6. _catalytic reaction_ 催化反应
+			7. _catalytic converter_ 催化转化器；触媒转换器
+			8. the seeds require the catalytic action of water to release heat. /种子需要水的催化作用来散热。
+			9. the main drawback of fitting catalytic converters is the cost. /安装催化式废气净化器的主要障碍是成本。
+			10. Well, because of the very unique chemistry that happens inside of a catalytic converter. /好吧，因为催化转化器内部发生了非常独特的化学反应。
+			11. But in recent years, catalytic converters have become one of the most stolen items on cars. /但近年来，催化转化器已成为汽车上最容易被盗的物品之一。
+		21. catalysis
+			1. photoelectrocatalysis
+			2. photocatalysis
+			3. isocatalysis
+			4. immunocatalysis
+			5. erythrocatalysis
+			6. electrocatalysis
+			7. catalase
+			8. autocatalysis
+			9. alleocatalysis
+		22. catalysate
+		23. catalysant
+		24. catalysagen
+		25. biocatalyst
+		26. autocatalytic
+		27. autocatalyst
+		28. anticatalyst
+		29. allaocatalytic
+	17. catapult
 		1. 希腊语词源：cata-向下 + pult, 源自 palein "to sway, brandish."
 		3. cata-,向下，-pul,扔，投掷，词源同 appeal,pulse.
 		4. n. 弹射器, 弹弓, 弩炮 vt. 发射
@@ -1608,17 +1785,17 @@
 		9. [launcher](dic://launcher)
 		10. [arbalest](dic://arbalest), [arbalist](dic://arbalist), [ballista](dic://ballista), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
 		11. [sling](dic://sling)
-	16. cataract
+	18. cataract
 		1. cata-,向下，-ract,流，倾泻，词源不详。原指大瀑布，后用做白内障的委婉语。
 		2. n. 白内障; 大瀑布; 奔流, 暴雨
 		3. **glaucoma**青光眼;**corneal**角膜的;**blindness**失明;**macular**有斑点的;**cornea**角膜;**ocular**眼睛的;**surgery**外科;**retinal**视网膜的;**eye**眼睛;**eyelid**眼皮;**surgical**外科的;
 		4. [eye disease](dic://eye disease), [waterfall](dic://waterfall), [falls](dic://falls)
 		5. cataractous, cataractopiesis
 		6. cataracta
-	17. catarrh
+	19. catarrh
 		1. n. [医] 粘膜炎；[内科] 卡他
 		2. catarrhal, anticatarrhal
-	19. catastrophe (cataclysm)
+	20. catastrophe (cataclysm)
 		1. _n._ [misfortune](dic://misfortune), [bad luck](dic://bad luck), [adversity](dic://adversity), [hardship](dic://hardship), [hard knocks](dic://hard knocks), [geological phenomenon](dic://geological phenomenon)
 			1. [disaster](dic://disaster) 普通用词，指大破坏、痛苦或伤亡。  
 			2. [calamity](dic://calamity) 多指个人的不幸，比disaster严重，强调灾难引起的悲痛以及对于损失的感觉。  
@@ -1640,7 +1817,7 @@
 		1. cata-,向下，-het,扔，投掷，词源同 jet,project. cata-,向下，-het,扔，投掷，词源同 jet,project.
 		2. _n._ [tube](dic://tube), [tubing](dic://tubing)
 		3. **cannula**套管，插管;**stent**支架;**lumen**流明;**suture**缝合;**syringe**注射器;**distal**末梢的，末端的;**prosthesis**弥补;**sheath**鞘;**bladder**膀胱;**tubing**管子;**ablation**切除;
-	26. cathedral, cathedra
+	25. cathedral, cathedra
 		1. _n._ [church](dic://church), [church building](dic://church building)
 		2. _adj._ [cathedra](dic://cathedra), [bishop's throne](dic://bishop's throne)
 			1. [church](dic://church) 普通用词，指顶礼膜拜上帝之地，也是西方人举行婚、丧等活动的场所。  
@@ -1650,7 +1827,7 @@
 		5. _[chartres cathedral](dic://chartres%20cathedral)_  沙特尔大教堂
 		6. _[florence cathedral](dic://florence%20cathedral)_  佛罗伦萨大教堂
 		7. etc.. 
-	28. cathode
+	26. cathode
 		1. cata-,向下，-hod,走，路，词源同 accede,anode,method.
 		2. _cathode ray_ 阴极射线
 		3. _cold cathode_ [电]冷阴极
@@ -6079,6 +6256,202 @@
 5. raw
 
 
+### + \*kreus- +
+1. **cru-, crust-** = hard, hard outer surface, 表示“外壳、硬壳”，原指由冷冻形成的硬壳。源自拉丁语 crusta "crust."
+	1. crust
+		1. n. 外壳, 坚硬外皮, 面包皮  
+		2. vt. 盖以硬皮  
+		3. vi. 结硬皮
+		4. piecrust
+		5. encrust
+			1. vt. 包上外壳, 镶嵌外层  
+			2. vi. 结壳
+			3. encrusted
+		7. crusty
+			1. a. 有硬皮的, 易怒的; n. 脏皮士
+			2. [crusted](dic://crusted), [encrusted](dic://encrusted), [crustlike](dic://crustlike)
+			3. [curmudgeonly](dic://curmudgeonly), [gruff](dic://gruff), [ill-humored](dic://ill-humored), [ill-humoured](dic://ill-humoured)
+			4. _adj._ [covered](dic://covered), [ill-natured](dic://ill-natured)
+			5. _n._ [bare](dic://bare), [good-natured](dic://good-natured)
+			6. **flaky**薄片的;**gooey**感伤的;**crunchy**易碎的;**slimy**黏滑的;**crispy**易碎的;**soggy**浸水的;**smelly**有臭味的，发臭的;**stinky**发恶臭的;**buttery**谄媚的，奉承的;**greasy**油腻的;**buttered**涂奶油的;
+			7. _[crusty structure](dic://crusty%20structure)_  皮壳状构造
+			8. _[crusty bread](dic://crusty%20bread)_  硬皮面包
+			9. crusty bread /有硬皮的面包。
+			10. a crusty old Scots judge. /易怒的老苏格兰法官。
+			11. He's a crusty old gentleman who feeds stray dogs and cats. /他是个令人生畏的老绅士，常喂食离群的狗和猫。
+			12. Crusty old bastard's coming after you. /那暴躁的老头要搞你。
+			13. Just the idea leaves them " crusty" / 光是这个想法就让他们抓狂。
+			14. Give old Malba Toast some butter and tell her I'm crustier than she is. /给老马尔巴·吐司一些奶油，并告诉她我比她酥脆。
+			15. You know what will happen if you don't eat. You'll let all rotting and crusty /你知道如果你不吃会怎么样。你的身体会腐烂，你的脾气会更加暴躁。
+			16. The results are superb, a crusty fragrant berry pie, a creamy pumpkin pie and a spicy chocolate cake. /其结果是极好的，一个硬壳芬芳香甜浆果派，奶油南瓜派和一个辛辣巧克力蛋糕。
+			17. crustily
+				1. adv. 有硬皮地；恶意地；粗暴地
+				2. Crustily skin of head bowed, ceng step! /硬着头皮低头蹭步，啊！！！
+		8. crusted
+			1.  [encrusted](dic://encrusted), [crusty](dic://crusty), [crustlike](dic://crustlike)
+			2. _adj._ [covered](dic://covered)
+			3. _n._ [bare](dic://bare)
+			4. **crusty**易怒的;**flaky**薄片的;**blackened**涂上辣椒粉和调味品后油炸的;**crispy**易碎的;**glistening**闪耀的,反光的;**studded**布满颗粒，打上装饰钉;**pecan**美洲山核桃;**buttery**谄媚的，奉承的;**dripping**滴下物;**rubbed**擦;**truffle**块菌;
+			5. a crusted establishment figure /一位旧式权要人物。
+			6. Ice crusted the pond. /冰封池塘。
+			7. the burns crusted his cheek. /络腮胡子遮住了他的脸颊。
+			8. Commixing the natural edible and officinal spiceberry with the crusted green-tea or fumigating the crusted green-tea with spicery enhance its redolence and ameliorate its bitterness/ 用天然食药两用植物香料粉与陈绿茶混合或陈绿茶经香料熏制后,使陈绿茶增加了香气,苦涩味得到了改善。
+			9. The crust is nice and soft, but people still seem to prefer crusted sandwiches. /如今的面包边细腻柔软，但是人们似乎还是更喜欢去掉面包边的三明治。
+			10. All of this was scoured out by the lava and then the roof area was the top that crusted over. /这个由熔岩冲击而成，顶部就是熔岩冷结后变硬所成。
+			11. Right now I have a belly full of cheesy Korean French fry crusted corn dogs /现在我的肚子里装满了俗气的韩国炸薯条玉米热狗。
+	2. incrust
+		1. vt. 覆之以皮; 生外皮; 包壳; 镶饰
+		2. v. 包硬外壳于；生外皮；镶饰（同 encrust
+		3.  [encrust](dic://encrust), [beset](dic://beset)
+		4. [encrust](dic://encrust)
+		5. _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify), [coat](dic://coat)
+		6. _[incrusted](dic://incrusted)_  adj. 包以硬壳的；具有硬壳的; v. 在…上结壳（incrust的过去分词）; 
+		7. _[incrusted soil](dic://incrusted%20soil)_  结皮土,结壳土壤
+		8. It would seem impossible that any one, however incrusted with care, could escape the Godful influence of these sacred fern forests. /任何人，无论多么小心翼翼， 似乎都不可能逃脱这些神圣蕨类植物森林的神圣影响。
+		9. incrustation
+			1. n. （形成）硬壳；镶嵌物；痂
+			2. [encrustation](dic://encrustation)
+			3. [crust](dic://crust), [encrustation](dic://encrustation)
+			4. _n._ [formation](dic://formation), [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+			5. **limestone**石灰岩;**enamel**珐琅;**whitish**带白色的;**rind**外皮;**discoloration**变色,污点;**yellowish**微黄色的;**stucco**粉饰，粉刷;**accumulation**积聚;**brownish**呈褐色的;**abrasion**磨损;**carbonate**碳酸盐;
+			6. The walls were decorated by incrustation with marble. /墙上镶嵌着大理石的装饰面。
+			7. get rid of congealable oil, wax precipitation and incrustation in pipe to reduce backpressure and friction, and lower temperature. /清除管线内部的凝油、结蜡、结垢，达到减小输油回压、减小磨阻、降低输油温度的目的。
+			8. In one corner of the room there stood an ancient arm-chair with incrustations, and the sight of this chair standing in his mother's bed-room suddenly raised in his soul an unexpected feeling. /在房间的一角，有一把古老的扶手椅，上面有结垢，看到这把椅子站在他母亲的卧室里，他的灵魂突然产生了一种意想不到的感觉
+	3. crustal
+		1. crust【外壳】 + -al
+		2. a. 地壳的
+		3. _adj._ [crust](dic://crust), [Earth's crust](dic://Earth's crust)
+		4. **tectonic**构造的;**sedimentary**沉积的;**geologic**地质的;**magma**岩浆;**seismic**地震的;**deformation**损形;**geological**地质的;**sediments**沉淀物;**volcanic**火山的;**oceanic**海洋的;**sediment**沉淀物;
+		5. _crustal movement_ 地壳运动
+		6. _crustal deformation_ 地壳形变；地壳变形
+		7. _crustal dynamics_ 地壳动力学，星壳动力学；地壳动态
+		8. However, the caving maybe happen because of too large transmogrification and rheologic fracture to high crustal stres /统一流变断裂准则，最终形成了诱导条件下节理岩体持续大规模自然崩落判据。
+		9. Basin floors generated at different times will exhibit a hierarchical sequence of crustal structure and epeirogenic behaviour. /不同时期生成的盆地底板，将显示地壳构造的等级次序和造陆性质。
+		10. This idea that the Earth cooked the Moon and formed the crustal anomaly is pretty new, and is still being argued over. /这种地球塑造了月球，导致月亮的不正常形成的观点还比较新，仍然有不少争议。
+		11. The idea was...if there was some other body there and it finally crashes into the Earth, it blows off all this crustal material from the Earth...As well as from the impacter itself. /这个概念是...如果那里有一些其它的物体，并且最终撞击地球，将从地球撞出这所有的地壳物质...同样也有撞击者自身。
+	4. crustily
+		1. ad. 有硬皮地, 易怒地
+	5. decrustation
+		1. n. 脱皮
+	6. crustacean
+		1. crust【硬壳】 + -acean表属性，见cetacean,鲸目动物。
+		2. a. 甲壳纲的  
+		3. n. 甲壳纲动物
+		4. _n._ [arthropod](dic://arthropod)_adj._ [Crustacea](dic://Crustacea), [class Crustacea](dic://class Crustacea)
+		5. **lobster**龙虾;**crab**螃蟹;**crabs**吊钳;**shellfish**贝;**octopus**章鱼;**shrimp**虾;**squid**鱿鱼;**eel**鳝鱼;**vertebrate**脊椎动物;**jellyfish**水母;**fish**捕鱼，钓鱼;
+		6. Strausfeld says the organ systems detailed in this study are easily recognizable in today's crustaceans /Strausfeld说研究中详细可见的器官系统在如今的甲壳纲生物中也清晰可见。
+		7. The gentle giants work together to surround the tiny crustaceans with an ever-tightening spiral of bubbles. /这些温和的巨兽们协同作业，对这些微型甲壳纲动物四面包抄，形成一个不断向内缩紧的气泡螺旋。
+		8. Krill are crustaceans and look like very small shrimp. /磷虾是甲壳类动物，它看起来像很小的虾子。
+	7. crustaceous
+		1. a. 硬皮的, 外壳的
+	8. Crustacea
+	9. custard
+		1. _n._ [dish](dic://dish)
+		2. **meringue**调合蛋白;**pudding**布丁;**cream**奶油，乳脂;**cheesecake**奶酪蛋糕;**mousse**奶油冻;**pastry**油酥点心;**tart**酸的;**ice-cream**乳白色的;**pie**馅饼;**curd**凝乳;**rhubarb**大黄;
+		3. _egg custard_ 牛奶蛋羹
+		4. _custard apple_ n. 南美番荔枝
+		5. a teensy bit of custard powder. /一丁点儿专用蛋奶冻粉。
+		6. strain the custard into a bowl. /把蛋奶沙司滤到碗里。
+		7. We had plums and custard for dinner /我们晚餐吃李子和牛奶蛋糕。
+		8. Strain the custard to remove lumps /滤去蛋奶沙司中的颗粒。
+		9. Now, you might say that is a custard. /现在，你可能会说这是一个奶油冻。
+		10. I love it when you pour warm custard over mince pies /我喜欢你把热的蛋奶沙司倒在肉馅饼上。
+		11. custard-pie
+2. **cryo-** = cold, 表示“冷、冰块”。源自希腊语 kruos "icy, cold, frost," krumos "icy cold, frost."
+	1. cryobiology
+	2. cryogen
+		1. n. 冷冻剂；<制冷>制冷剂
+		2. _n._ [refrigerant](dic://refrigerant)
+		3. **propellant**推进物;**liquid**液体的;**helium**氦;**pressurized**加压;**gaseous**气态的，气体的;**coolant**冷却剂;**cooling**冷却的;**vapor**蒸汽;**vapour**蒸气;
+		4. The cryogen that used to refrigerate its sensors is long gone, so we joke that its air-conditioning is broken /用于冷却其传感器的制冷剂早已不复存在，所以我们开玩笑说它的空调坏了。
+	4. cryogenic
+		1. 来自 cryo-,冷，冷冻，词源同 crystal.-gen,产生，词源同 generate.
+		2. a. 低温学的
+		3. _adj._ [cryogen](dic://cryogen)
+		4. **refrigeration**制冷;**pressurized**加压;**thermal**热的，热量的;**gaseous**气态的，气体的;**helium**氦;**cooling**冷却的;**solid-state**使用电晶体的,不用真空管的;**propellant**推进物;**reactor**反应堆;**spacecraft**宇宙飞船;**freezing**冰冻的;
+		5. _cryogenic distillation_ 低温蒸馏
+		6. _cryogenic refrigerator_ 低温致冷器，低温冰箱
+		7. _cryogenic temperature_ 制冷温度；低温度
+		8. The future of the ventless storage of cryogenic liquid has been expected. /并对未来低温液体储存研究的发展方向进行了展望。
+		9. Spherical gas holders, cryogenic tank, unites de transport reservoirs de stockage. /球形天然气储罐，低温储罐和储罐运输设备。
+		10. Coral is frozen using a special method called cryogenics. /使用一种叫做低温学的特殊方法冷冻珊瑚。
+		11. Well, hopefully, the study of absolute zero temperature will lead to discoveries in cryogenic research /好吧，希望对绝对零度温度的研究能带来低温研究的新发现。 
+		12. Which makes us wonder, what if we were able to nail the cryogenic freezing process? /这让我们不禁要问，如果我们能搞定低温冷冻过程呢？
+	6. cryogenics
+	7. cryolite
+	8. cryometer
+	9. cryonics
+	10. cryophilic
+	11. cryophorus
+	12. cryophyte
+	13. cryoprobe
+	14. cryoprotective
+	15. cryopump
+	16. cryoscope
+	17. cryostat
+		1. n. 低温恒温器
+		2. _n._ [thermostat](dic://thermostat), [thermoregulator](dic://thermoregulator)
+		3. **spectrometer**分光计, 分光仪;**reactor**反应堆;**condenser**冷凝器;**perfusion**灌注;
+		4. The sample can be removed from the **cryostat** when the measurements are complete /当测量完成时，从低温恒温器中取出样品。
+	19. cryosurgery
+		1. n. [外科]冷冻手术；[外科]低温外科（等于 cryogenic surgery）
+		2. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
+		3. **ablation**切除;**biopsy**活组织检查;**radiotherapy**放射疗法;**tumors**肿瘤;**surgical**外科的;**chemotherapy**化学疗法;**hysterectomy**子宫切除;**melanoma**黑素瘤;**tumor**肿瘤;**irradiation**发光;**endoscopic**内窥镜的,内窥镜检查的;
+		4. _[skin cryosurgery](dic://skin%20cryosurgery)_ 低温外科
+		5. _[intraocular cryosurgery](dic://intraocular%20cryosurgery)_ 眼内冷凝术
+	21. cryotherapy
+	22. cryotron
+	23. cyrophyte
+3. **crystall-** = crystal, 表示“晶体”。古希腊人认为水晶是“石化”的冰。源自希腊语 krustallos "ice, crystal."
+	1. cryptocrystalline
+	2. crystal
+		1. [crystallization](dic://crystallization)
+		2. [quartz glass](dic://quartz glass), [quartz](dic://quartz), [vitreous silica](dic://vitreous silica), [lechatelierite](dic://lechatelierite)
+		3. [watch crystal](dic://watch crystal), [watch glass](dic://watch glass)
+		4. _n._ [solid](dic://solid), [component](dic://component), [constituent](dic://constituent), [element](dic://element), [rock](dic://rock), [stone](dic://stone), [natural glass](dic://natural glass)
+		5. **crystalline**水晶的;**sapphire**蓝宝石;**quartz**石英;**glass**玻璃;**clear**清楚的;**gemstone**宝石;**sparkling**闪闪发光的;**faceted**有小面的;**liquid**液体的;**hexagonal**六角形的;**opal**猫眼石，蛋白石;
+		6. _liquid crystal_ 液晶
+		7. _crystal structure_ 晶体结构，结晶组织
+		8. _single crystal_ 单晶
+		9. _liquid crystal display_ 液晶显示；液晶显示器
+		10. a crystal lake; the crystal clarity of their reasoning. /清澈见底的湖；他们推理的透彻性
+		11. a crystal structure with hexagonal symmetry. /六边对称的水晶体。
+		12. the house rules are crystal clear. /住房条约明明白白。
+		13. the clean crystal waters of the lake. /湖中清澈的水。
+		14. It used to be a crystal stream. /那曾是条清澈见底的小溪。
+	3. crystalliferous
+	4. crystalline
+		1. a. 结晶的，晶状的
+	5. crystallinity
+		1. [晶体] 结晶度
+	6. crystallise
+	7. crystallite
+		1. n. 微晶；皱晶
+		2. _n._ [crystal](dic://crystal), [crystallization](dic://crystallization)
+		3. **crystalline**水晶的;**diffraction**衍射，绕射;**porosity**有孔性，多孔性;**adsorption**吸附;**annealing**低温退火;**thickness**厚,粗;**dielectric**电介质;**silica**硅土;**conductivity**传导性;**lattice**格子;**crystals**晶体;
+	8. crystallize (catalyze)
+		1. _v._ [shape](dic://shape), [form](dic://form), [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [change integrity](dic://change integrity), [solidify](dic://solidify)
+		2. **solidify**团结;**dissolve**使溶解;**synthesize**合成;**evaporate**蒸发;**solidified**固化的;**crystals**晶体;**harden**变硬，变坚固;**amorphous**无定形的;**crystalline**水晶的;**formulate**构想出, 规划;**precipitate**沉淀;
+		3. to crystallize one's ideas /使想法具体化
+		4. a box of crystallized fruits /一盒糖裹水果。
+		5. At what temperature does sugar crystallize? /糖在什么温度下结晶？
+		6. It only took a week for her to crystallize her design for the decorations. /她只花了一个星期就为装璜确定了设计方案s
+		7. The extent of the damage crystallized this weekend, as evacuated residents went home. /随着疏散的居民回家，损失的程度在本周末显现出来。
+		8. Then repeat that answer, crystallize the information. /然后重复说一遍这个答案，使信息具体化。
+	9. crystallogeny
+	10. crystallogram
+	11. crystallography
+	12. crystalloid
+		1. n. 晶体；[植] 类晶体 
+		2. adj. 结晶状的；透明的
+	13. crystallose
+	14. microcrystalline
+	15. polycrystal
+		1. n. [晶体] 多晶体
+	16. polycrystalline
+	17. subcrystalline
+
+
 
 ## ks
 ### + \*ksero- +
@@ -6907,7 +7280,26 @@
 ### ⭐ + \*kwo- + = stem of relative and interrogative pronouns
 1. **neutr-** = middle, 表示“中间”。其中 ne- 表示否定 + utr- 相当于 either, 即不在任何一边, 也就是位于中间状态。源自拉丁语 uter "either of two."
 	1. neuter
-		1. [impersonal](dic://impersonal)
+		1. [alter](dic://alter), [spay](dic://spay), [castrate](dic://castrate)
+		2.  [sexless](dic://sexless)
+		3. _n._ [gender](dic://gender), [grammatical gender](dic://grammatical gender)
+		4. _v._ [sterilize](dic://sterilize), [sterilise](dic://sterilise), [desex](dic://desex), [unsex](dic://unsex), [desexualize](dic://desexualize), [desexualise](dic://desexualise), [fix](dic://fix)
+		5. _adj._ [asexual](dic://asexual), [nonsexual](dic://nonsexual)
+		6. _n._ [masculine](dic://masculine), [feminine](dic://feminine), [sexual](dic://sexual)
+		7. **pronoun**代词;**rabies**狂犬病，恐水病;**masculine**男性的, 男子的, 男子气的;
+		8. _[neuter neuter](dic://neuter%20neuter)_ 中性的
+		9. _[conceptual neuter](dic://conceptual%20neuter)_ 概念上的中性
+		10. _[neuter gender](dic://neuter%20gender)_ 中性；某些语言名词分别阳性
+		11. _[neuter file](dic://neuter%20file)_ 中性文件
+		12. the neuter caste in social insects. /群居昆虫中的无性昆虫
+		13. it is a neuter word in Greek. /它在希腊语中是个中性词。
+		14. They had the animal neutered some seven years back. /他们约在七年之前将这家畜去势。
+		15. a point of view that does not neuter itself with a“nevertheless” or “but” /一个没有“然而” 或“但是” 来削弱力量的观点
+		16. He spends at least 30 hours a week feeding, trapping, and taking cats to get neutered. /他每周至少花30个小时喂食、诱捕，还有带猫去做绝育手术。
+		17. A cull is not coming, prohibited breeds will be neutered and kept muzzled in public. /不再有选择性捕杀，被禁止的品种将被阉割，并在公共场合戴上口套。
+		18. Yeah, and I got him neutered, too /是的，我还顺便把他阉了。
+	2. neutral
+		1.  [impersonal](dic://impersonal)
 		2. [inert](dic://inert), [indifferent](dic://indifferent)
 		3. [electroneutral](dic://electroneutral)
 		4. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
@@ -6919,17 +7311,16 @@
 			4. [neutral](dic://neutral) 强调持中立态度，不偏袒任何一方，甚至不作最后的裁决。
 			5. [objective](dic://objective) 着重客观、真实，不为个人偏见、兴趣、感情或看法所左右。
 		7. **neutrality**中立;**impartial**不偏不倚的;**balanced**平衡的;**unbiased**无偏见的;**biased**有偏见的;**negative**消极的;**muted**无言的;**beige**米黄色;
-	2. neutral
-		1. unneutral
+		2. unneutral
 			1. 偏袒的
-		2. neutrally
-		3. neutralize
+		3. neutrally
+		4. neutralize
 			1. **counteract**对抗;**eliminate**消除, 排除;**negate**否定;**repel**击退;**mitigate**使缓和，使减轻;**thwart**反对;**suppress**抑制;**lessen**使…变小;**subdue**征服;**destroy**毁坏;**eradicate**摧毁,完全根除;
-		4. neutrality
-		5. neutralistic
-		6. neutralist
-		7. neutralism
-		8. etc..
+		5. neutrality
+		6. neutralistic
+		7. neutralist
+		8. neutralism
+		9. etc..
 	3. neutretto
 	4. neutrino
 	5. neutron
@@ -7119,49 +7510,141 @@
 12. which
 13. who
 14. why
+15. quoth
+	1. 来自古英语 cwaeth,说过，声称，声明，来自 PIE*gwet,说，词源同 bequeath.
+	2. vt. [古语]说, 说道
+16. bequeath
+	1. be-强调 + queath-说 → 说出来的“临终遗嘱” → 遗赠。
+	2. vt. 遗赠, 遗留
+	3. [will](dic://will), [leave](dic://leave)
+	4. _v._ [give](dic://give), [gift](dic://gift), [present](dic://present)
+	5. _n._ [disinherit](dic://disinherit), [disown](dic://disown)
+	6. **heirs**继承人;**devise**设计;**inherit**继承;**bestow**授予;**furnish**供应;**aforesaid**上述的;**give**给;**likewise**也;**dispose**处理;**inheritance**继承物, 遗产;
+	7. he bequeathed his art collection to the town. /他将收藏的艺术品遗赠给镇上。
+	8. She bequeathed everything to her son. /她把一切财产都遗赠给她的儿子。
+	9. One age bequeaths its civilization to the next. / 前一代将其文明传给后一代。
+	10. " We bequeath it to you. We don't really need it anymore." /“我们把它赠送给你。我们不再需要它了。”
+	11. And as well as the Mandate of Heaven, they bequeathed one other enduring concept to China. /除天命之外，周朝还留下了另一个影响深远的概念。
+	12. They could even own, inherit,   and bequeath property. /他们甚至可以拥有、继承和遗赠财产。
+	13. bequeathment
+	14. bequeathal
+		1. adj. 遗赠的；遗留的 
+		2. n. 遗赠；遗留；遗物
+		3. _[bequeathal personal property](dic://bequeathal%20personal%20property)_ 遗赠的动产；遗赠的动产英语；遗赠动产
+		4. _[protection and bequeathal](dic://protection%20and%20bequeathal)_ 保护传承
+		5. _[Intestine's Bequeathal](dic://Intestine%27s%20Bequeathal)_ 肠遗
 
 
 ### + \*kwrep- + = 
 1. **corp-, corpor-** = body, 表示“身体，团体”，corp- 来自拉丁语名词 corpus "body", corpor- 源自其属格 corporis。
 	1. corpora
-		1. - n. 任何事物之主体；全集
+		1. n. 任何事物之主体；全集
+		5. Useable embryo recovery was significantly low in ewes of **corpora** lutea degradation /在黄体降解的母羊中，可用的胚胎恢复率非常低。
+		6. Large **corpora** (masses of text) are a good place to start /通过大型语料库(海量文本)来检查是个好方法。
 	2. corpus
-		1. [principal](dic://principal), [principal sum](dic://principal sum)
-		2. _n._ [capital](dic://capital), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [part](dic://part), [piece](dic://piece)
-		3. **lexicon**词典，辞典;**textual**本文的;**lexical**词汇的;**linguistics**语言学;**linguistic**语言的, 语言学的, 语言研究的;**vocabulary**词汇;**literature**文学, 文学作品;**dataset**资料组;**semantic**语义的;**writings**作品，篇章;**scholarly**学术性的;
-		4. _corpus linguistics_ 语料库语言学
-	3. corporal
-		1. **sergeant**军士;**soldier**军人;**lieutenant**中尉;**colonel**陆军上校;**punishment**处罚, 受罚;**regiment**把…编成团;**chaplain**牧师;**battalion**营;**medic**医师;**infantry**步兵;**platoon**排，团;
-		2. [bodily](dic://bodily), [corporeal](dic://corporeal), [somatic](dic://somatic)
-		3. [bodied](dic://bodied), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate)
-		4. [noncommissioned officer](dic://noncommissioned officer), [noncom](dic://noncom)
-		5. [physical](dic://physical), [corporeal](dic://corporeal), [material](dic://material)
-		6. _corporal punishment_ 体罚；肉刑
-		7. intracorporal
-		8. corporally
-		9. corporality
+		1. n. 文集，全集；语料库；体，身体；胃体；本金
+		2. [principal](dic://principal), [principal sum](dic://principal sum)
+		3. _n._ [capital](dic://capital), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [part](dic://part), [piece](dic://piece)
+		4. **lexicon**词典，辞典;**textual**本文的;**lexical**词汇的;**linguistics**语言学;**linguistic**语言的, 语言学的, 语言研究的;**vocabulary**词汇;**literature**文学, 文学作品;**dataset**资料组;**semantic**语义的;**writings**作品，篇章;**scholarly**学术性的;
+		5. \_corpus linguistics_ 语料库语言学
+		6. _corpus luteum_ [医]黄体；[药]黄体素
+		7. _corpus callosum_ 胼胝体，脑胼胝体
+		8. _habeas corpus_ 人身保护权；人身保护法
+		9. _corpus christi_ [天主教]基督圣体节
+		10. _corpus cavernosum_ 阴茎海绵体
+		11. _corpus linguistics_ 语料库语言学
+		12. ChatGPT was trained on a large corpus of text from the internet, including books, articles, and websites /ChatGPT 接受了来自互联网的大量文本的培训，包括书籍、文章和网站。
+		13. The two signals meet up in the corpus callosum and T equals zero. /这两个信号在胼胝体中汇合而T就等于零了。
+		14. The corpus callosum and the pons are parts of the brain. /胼胝体和脑桥是大脑的一部分。
+		15. I’ve got the corpus of Shakespeare’s works. /我有莎士比亚全集。
+		16. 
+	4. corporal
+		1. 来自意大利语 caporale,来自 cap-,头，见 captain.即头领，拼写受 corp-影响。
+		2. adj. 肉体的，身体的
+		3. n. 下士
+		4. **sergeant**军士;**soldier**军人;**lieutenant**中尉;**colonel**陆军上校;**punishment**处罚, 受罚;**regiment**把…编成团;**chaplain**牧师;**battalion**营;**medic**医师;**infantry**步兵;**platoon**排，团;
+		5. [bodily](dic://bodily), [corporeal](dic://corporeal), [somatic](dic://somatic)
+		6. [bodied](dic://bodied), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate)
+		7. [noncommissioned officer](dic://noncommissioned officer), [noncom](dic://noncom)
+		8. [physical](dic://physical), [corporeal](dic://corporeal), [material](dic://material)
+		9. _corporal punishment_ 体罚；肉刑
+		10. never resorted to corporal punishment; /决不诉诸肉体惩罚；
+		11. a cadre of sergeants and corporals who train recruits /一个由中士和下士组成的核心来训练新兵
+		12. Corporal Refines Sims leads a team Laying a solid foundation. /瑞凡斯·西姆斯下士率领团队 奠定了坚实的基础。
+		13. t had belonged to his son, 22-year-old Marine lance corporal Joe Jackson. /那面国旗属于他的儿子，22 岁的海军一等兵乔·杰克逊。
+		14. They were generals and privates, captains and corporals, of every race, color and of every creed.  /他们有上将、二等兵、上尉也有下士，他们拥有不一样的种族，不一样的肤色以及不一样的信仰。
+		16. intracorporal
+		17. corporally
+		18. corporality
 			1. _n._ [quality](dic://quality)
 			2. **physicality**肉体;**sensuality**喜爱感官享受;**subjectivity**主观性;**consciousness**意识;**femininity**妇女特质,柔弱性,温柔;**sexuality**性征;**metaphysics**形而上学,玄学;**abstraction**抽象;**masculinity**男性;**bodily**整体地;**spirituality**精神性,灵性;
-	4. corporeal
-		1. [bodily](dic://bodily), [bodied](dic://bodied), [corporal](dic://corporal), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate), [reincarnate](dic://reincarnate)
-		2. **bodily**整体地;**earthly**地球的;**physical**身体的;**mortal**致命的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**immaterial**非物质的;**astral**星的;**physicality**肉体;**inanimate**无生命的;**ethereal**天上的;**beings**人;
-		3. _[corporeal hereditament](dic://corporeal%20hereditament)_  可继承有形不动产
-		4. incorporeal
-			1. _adj._ [discorporate](dic://discorporate), [unembodied](dic://unembodied), [bodiless](dic://bodiless), [unbodied](dic://unbodied), [disembodied](dic://disembodied), [spiritual](dic://spiritual)
-			2. _n._ [corporeal](dic://corporeal), [material](dic://material)
-			3. **immaterial**非物质的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**astral**星的;**ethereal**天上的;**mortal**致命的;**inanimate**无生命的;**invisible**看不见的;**creature**动物，生物;**immortal**长生的;**beings**人;**metaphysical**形而上学的,纯粹哲学的,超自然的;
-		5. extracorporeal
+	6. corporeal
+		1. corpor-身体 + -eal表形容词 → 真的身体 → 有形的。
+		2. [bodily](dic://bodily), [bodied](dic://bodied), [corporal](dic://corporal), [corporate](dic://corporate), [embodied](dic://embodied), [incarnate](dic://incarnate), [reincarnate](dic://reincarnate)
+		3. **bodily**整体地;**earthly**地球的;**physical**身体的;**mortal**致命的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**immaterial**非物质的;**astral**星的;**physicality**肉体;**inanimate**无生命的;**ethereal**天上的;**beings**人;
+		4. _[corporeal hereditament](dic://corporeal%20hereditament)_  可继承有形不动产
+		5. a corporeal God. /有形的上帝。
+		6. he was frank about his corporeal appetites. /他堂而皇之地谈他的物欲。
+		7. in Scotland ‘goods’ includes all corporeal movables except money. /在苏格兰，所谓“动产”包括除钱之外的所有有形动产。
+		8. Earlier studies have shown that corporeal punishment can also affect a child's ability to think and learn. /早期研究显示，体罚还会影响儿童思考和学习的能力。
+		9. For Gammas, Deltas and Epsilons had been to some extent conditioned to associate corporeal mass with social superiority. /因为伽玛们、德尔塔们和爱扑塞隆们经过一定程度的条件设置，总是把社会地位的优越性和个子的大小挂钩的。
+		10. She entertained but confused notions of a future life—not comprehending the distinction between the corporeal and spiritual existence. /她乐于接受但混淆了未来生活的概念——不理解物质存在和精神存在之间的区别。
+		11. Instead your physical form, your corporeal personal environment, is the physical materialization of your own thoughts, emotions, and interpretations /相反，你的身体形态，你有形的个人环境，是你自己的思想、情感和解释的物质化
+		12. And as natural selection works solely by and for the good of each being, all corporeal and mental endowments will tend to progress towards perfection /由于自然选择的作用完全是为了每个人的利益， 所有的物质和精神禀赋都将趋于完美。
+		13. My inner disposition remains bereft of any visceral fear pertaining to the ethereal manifestations that traverse the liminal boundaries between our corporeal reality and the mysterious enigmatic otherworldly domain. /我的内心世界对于这些超脱于我们现实世界和神秘的超凡领域界限的空灵实体不存在任何发自内心深处的恐惧。
+		14. incorporeal
+			1. adj. 灵魂的；无实体的；非物质的
+			2. _adj._ [discorporate](dic://discorporate), [unembodied](dic://unembodied), [bodiless](dic://bodiless), [unbodied](dic://unbodied), [disembodied](dic://disembodied), [spiritual](dic://spiritual)
+			3. _n._ [corporeal](dic://corporeal), [material](dic://material)
+			4. **immaterial**非物质的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**astral**星的;**ethereal**天上的;**mortal**致命的;**inanimate**无生命的;**invisible**看不见的;**creature**动物，生物;**immortal**长生的;**beings**人;**metaphysical**形而上学的,纯粹哲学的,超自然的;
+			5. Having no body, form, or substance; **incorporeal**. /缺少物质的身体、形式或者实质。
+			6. The real life is guided by our **incorporeal** intellection. /我想，这表示我们无形的思想导引着真实的人生。
+		15. extracorporeal
 			1. _extracorporeal circulation_ [外科学]体外循环
-		6. corporeally
-		7. corporealize
+			2. Extracorporeal shock wave lithotripsy uses high-intensity pulses of focused ultrasonic energy aimed directly at the stone. /体外冲击波碎石术使用聚焦超声能量的高强度脉冲直接瞄准结石。
+		16. corporeally
+		17. corporealize
 			1. 使具有形体; 使形体化; 使物质化;
-		8. corporeality
-	5. corporate
+		18. corporeality
+	8. corporate
 		1. corpor-身体 + -ate, 表形容词。即成为一体的，成立法人实体的公司。
-		2. **multinational**多国的;**governmental**政府的;**institutional**机构的;**business**商业;**company**公司;**enterprise**事业, 计划;**organizational**组织的;**shareholder**股东;**corp**公司;**boardroom**会议室;**executive**行政的;
-		3. [corporation](dic://corporation), [corp](dic://corp), [corporeal](dic://corporeal), [material](dic://material), [joint](dic://joint), [organized](dic://organized)
-		4. [incorporeal](dic://incorporeal), [immaterial](dic://immaterial), [separate](dic://separate), [unorganized](dic://unorganized), [unorganised](dic://unorganised)
-		5. incorporate
+		2. _adj._ 社团的, 法人的
+		3. **multinational**多国的;**governmental**政府的;**institutional**机构的;**business**商业;**company**公司;**enterprise**事业, 计划;**organizational**组织的;**shareholder**股东;**corp**公司;**boardroom**会议室;**executive**行政的;
+		4. [corporation](dic://corporation), [corp](dic://corp), [corporeal](dic://corporeal), [material](dic://material), [joint](dic://joint), [organized](dic://organized)
+		5. [incorporeal](dic://incorporeal), [immaterial](dic://immaterial), [separate](dic://separate), [unorganized](dic://unorganized), [unorganised](dic://unorganised)
+		6. _corporate governance_ 公司治理；企业管治，企业治理；公司管治
+		7. _corporate culture_ 企业文化，公司文化
+		8. _corporate image_ 企业形象；公司形象
+		9. _corporate finance_ 公司金融；公司理财；公司融资
+		10. _corporate management_ 公司管理部门；公司主管人员
+		11. _corporate social responsibility_ 企业的社会责任
+		12. _corporate strategy_ 公司策略
+		13. _corporate bond_ 企业债券
+		14. _corporate income_ 法人收入，公司收入
+		15. _corporate identity_ 企业形象；企业标识
+		16. _corporate income tax_ [经]公司所得税
+		17. _corporate america_ 美国公司
+		18. _corporate tax_ 公司税
+		19. _corporate citizen_ 企业公民；公司公民
+		20. _corporate control_ 公司控制
+		21. _corporate capital_ 公司资本
+		22. _corporate communication_ 公司通讯；公司信息交流
+		23. _body corporate_ 法人团体
+		24. _corporate organization_ 法人组织
+		25. _corporate citizenship_ 企业公民；公司公民；公司公民意识（原形是corporate citizen）
+		26. a corporate autocrat /某一团体的独断专行者
+		27. the corporate jungle /公司竞争
+		28. corporate carouses /公司狂饮闹宴。
+		29. corporate bloat. /公司人员过剩
+		30. corporate assets; corporate culture /社团资产；社团文化
+		31. the attainment of corporate aims. /公司目标的实现。
+		32. a hemorrhage of corporate earnings /公司财产的巨额流失
+		33. a corporate tax surcharge /企业附加税
+		34. a step up in the corporate hierarchy. /在社团等级中晋升一级s
+		35. It's corporate language - or as we say, corporate speak. /这是企业语言，或者我们可以说是企业用语。
+		36. Someone there has given away corporate secrets. /他们那儿有人将公司机密泄露了出去。
+		37. It is a very clear sign of the corporate takeover. /这很明显是企业接管的例子。
+		38. incorporate
 			1. **integrate**使结合成为整体;**utilize**利用;**combine**使联合，使结合;**introduce**介绍;**infuse**使充满;**implement**使生效, 贯彻, 执行;**add**加;**create**造成;**develop**开发;**enhance**提高;**adapt**使适应;
 			2. [compound](dic://compound), [combine](dic://combine), [include](dic://include), [make](dic://make), [create](dic://create), [take in](dic://take in), [gather in](dic://gather in)
 				1. [absorb](dic://absorb) 普通用词，词义广泛，既可指吸收光、热、液体等具体东西，又可指吸收知识等抽象概念的东西。 
@@ -7169,75 +7652,165 @@
 				3. [digest](dic://digest) 侧重在消化道内改变食物的化学结构后被人体吸收。 
 				4. [incorporate](dic://incorporate) 指一物或多物与它物相融合，形成一整体。
 			3. _incorporate with_ 合并；混合
-		6. corporator
+			4. incorporate a business /组建公司
+			5. an incorporated company /股份有限公司
+			6. We will incorporate your suggestion in the new plan. /我们将把你的建议编到新计划中去。
+			7. Some designs incorporate a two-piece bonnet and yoke. /一些结构有两件式阀盖和轭架组成。
+			8. some schemes incorporated all these variations. /有些计划包括所有这些变动。s
+			9. He was incorporated a member of the college. /他成为该大学的一员。
+			10. San Antonio incorporated as a city in 1837/圣安东尼奥城建于1837年
+			11. I incorporated the new plans with the old. /我把新老计划合并为一。
+			12. Hanover was incorporated into Prussia in 1886. /汉诺威市于1886年被并入普鲁士。
+			13. And where's the chili jam incorporated in this? /那辣椒酱在哪里加入了呢？
+			14. However, I've slowly started to incorporate it into my work life. /后来我慢慢开始将它融入到我的工作生活中。
+		39. corporator
 			1. n. 法人团体的一员
-		7. corporativism
-		8. corporative
+		40. corporativism
+		41. corporative
 			1. _[corporative](dic://corporative)_  adj. 法人的；社团的
 			2. _[credit corporative](dic://credit%20corporative)_ 信用社
 			3. _[corporate corporative](dic://corporate%20corporative)_ 法人的
 			4. _[corporative loans](dic://corporative%20loans)_ 商业贷款
 			5. _[corporative qualifications](dic://corporative%20qualifications)_ 法人资格
-		9. corporatism
+			6. I am an initiator of several **corporative** standards. /我是几个法人标准的发起者。
+			7. Theoretically the **corporative** bodies should be autonomous. /理论上这些法人团体应该是独立自主的。
+		42. corporatism
 			1. _[corporatism](dic://corporatism)_  n. 社团主义；组合主义（等于corporativism）
 			2. _[state corporatism](dic://state%20corporatism)_  国家法团主义
-		10. corporation
+		43. corporation
 			1. **company**公司;**conglomerate**联合企业;**entity**实体;**subsidiary**附带的, 附属的, 次要的;**shareholder**股东;**multinational**多国的;**corp**公司;**organization**团体, 机构;**non-profit**非盈利的;**not-for-profit**非营利;**nonprofit**非营利的;
-		11. corporately
+			2. _transnational corporation_ 跨国公司
+			3. _multinational corporation_ 跨国公司
+			4. _import and export corporation_ [经]进出口公司
+			5. a corporation's issuable profits /一个公司的可增殖的利润
+			6. corporation for profit /营利法人
+			7. It is a legal fiction that a corporation is a person. /把团体法人当作一个人是一种法律上的假设。
+		44. corporately
 			1. _[corporately](dic://corporately)_  adv. 共同地；团结地
-		12. bicorporate
-	6. corporeity, incorporeity
+		45. bicorporate
+	10. corporeity, incorporeity
 		1. _n._ 形体的存在,体质,身体
-	7. corp
-		1. [corporation](dic://corporation)
-		2. _n._ [firm](dic://firm), [house](dic://house), [business firm](dic://business firm)
-		3. **corporation**公司;**gov**政府;**corporate**社团的, 法人的;**company**公司;**dept**部;**biz**商业;**tech**技术学院或学校;**exec**主任参谋，副舰长;
-	8. corps, corpsman
-		1. _n._ [army unit](dic://army unit), [body](dic://body)
-		2. **battalion**营;**brigade**旅;**army**陆军，军队;**infantry**步兵;**regiment**把…编成团;**cadre**干部;**cavalry**骑兵;**sergeant**军士;**platoon**排，团;**cadets**学员;**troops**部队;
-	9. corpse, corpselike
-		1. _n._ [body](dic://body), [dead body](dic://dead body)
-		2.  [cadaver](dic://cadaver), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains)
-		3. **dead**无生命的;**carcass**尸体;**rotting**深蚀刻;**coffin**棺材;**casket**匣子;**lifeless**无生命的;**skeleton**骨架，骨骼;**burial**埋葬;**deceased**已故的;**buried**埋葬的;**autopsy**验尸;
-	10. corpulence
-		1. _n._ [fleshiness](dic://fleshiness), [obesity](dic://obesity), [corpulency](dic://corpulency)
-		2. **physique**体格，体形;**obese**肥胖的，过胖的;**overweight**超重的;**obesity**肥大，肥胖;**fat**肥的，胖的;**stature**身高，身材;**girth**周围长度;**waistline**腰围;**impotence**阳萎;**countenance**面容，表情;**weight**重量，重
-		3. corpulency
+		2. _[corporeity mechanism](dic://corporeity%20mechanism)_ 身体机能
+		3. _[irritability corporeity](dic://irritability%20corporeity)_ 过敏性体质
+		4. _[corporeity psychology](dic://corporeity%20psychology)_ 心理素质
+		5. _[corporeity measurement](dic://corporeity%20measurement)_ 体质测量
+		6. _[corporeity monitoring](dic://corporeity%20monitoring)_ 体质监测
+		7. _[national corporeity](dic://national%20corporeity)_ 国民体质
+		8. _[people corporeity](dic://people%20corporeity)_ 国民体质
+		9. The mind, as soul, is immersed in **corporeity**, and the soul is the animating principle of the body. /精神沉浸在全身内为灵魂，而灵魂则是使身体有生命的原则。
+		10. One of the subjects concerned about **corporeity** is skin and **corporeity** sense, **corporeity**experience going with the sense of skin /与躯体密切相关的问题之一是肤觉、躯体觉以及肤觉-躯体经验。
+		11. Many of these writers failed to distinguish between **corporeity** in strict essence and **corporeity** as a necessary or natural concomitant. /许多这些作家没有区分体质严格本质和体质作为必要或自然相伴。
+	11. corp
+		1. abbr. 公司（等于 corporation）
+		2. [corporation](dic://corporation)
+		3. _n._ [firm](dic://firm), [house](dic://house), [business firm](dic://business firm)
+		4. **corporation**公司;**gov**政府;**corporate**社团的, 法人的;**company**公司;**dept**部;**biz**商业;**tech**技术学院或学校;**exec**主任参谋，副舰长;
+		5. _microsoft corp_ 微软公司
+		6. _news corp_ 新闻集团
+		7. _sony corp_ 索尼公司
+		8. Next year the US army corp of engineers will hand over operation of a rebuilt system of levees, walls and flood gates. /明年美国工程兵部队的工程师们将接手负责操作系统重建堤坝，围墙及防洪门。
+	13. corps
+		1. n. 特种部队；（从事某工作或活动的）一群人；（美国）海军陆战队；（由两个或两个以上师组成的）军，兵团
+		2. _n._ [army unit](dic://army unit), [body](dic://body)
+		3. **battalion**营;**brigade**旅;**army**陆军，军队;**infantry**步兵;**regiment**把…编成团;**cadre**干部;**cavalry**骑兵;**sergeant**军士;**platoon**排，团;**cadets**学员;**troops**部队;
+		4. _corps of engineers_ 陆军工兵部队 /
+		5. The transport corps is ancillary to the infantry. /运输队是步兵的辅助部队。
+		6. The medical corps were cited for bravery in combat. /医疗队由于在战场上的英勇表现而受嘉奖。
+		7. **Esprit de corps** is a fancy way of saying team spirit. /" 集体荣誉感（Esprit de corps）" 是表达团队精神（team spirit）的一种别致方式。
+		8. The marine corps will carry out live-fire drills. /海军陆战队将进行实弹演习。
+		9. And on Nov. 10th 1775 the marine corps was born /而在1775年11月10日, 美国海军陆战队诞生。
+		10. corpsman
+	14. corpse
+		1. 来自词根corp-身体，表示尸体。
+		2. _n._ [body](dic://body), [dead body](dic://dead body)
+		3. [cadaver](dic://cadaver), [stiff](dic://stiff), [clay](dic://clay), [remains](dic://remains)
+		4. **dead**无生命的;**carcass**尸体;**rotting**深蚀刻;**coffin**棺材;**casket**匣子;**lifeless**无生命的;**skeleton**骨架，骨骼;**burial**埋葬;**deceased**已故的;**buried**埋葬的;**autopsy**验尸;
+		5. an attempt to preserve the corpse from decomposition /保存尸体免于腐烂的尝试
+		6. The corpse was sewn up in a sack and thrown into the river. /尸体被缝装在布袋中，然后抛入河里。
+		7. They saw the corpse sprawled on the steps. /他们看到那具尸体四肢伸开躺在台阶上。
+		8. planted a gun on the corpse to make the death look like suicide. /在尸体上放置手枪，使死亡看起来象自杀
+		9. He identified the corpse as the criminal hunted after. /他认出那具尸体就是那个被追捕的罪犯。
+		10. We passed the desiccated corpse of a brigand hanging on a gibbet. /我们路过一具悬在绞刑架上的土匪干尸。
+		11. corpselike
+	15. corpulence
+		1. corp-身体 + -ul + -ence
+		2. _n._ [fleshiness](dic://fleshiness), [obesity](dic://obesity), [corpulency](dic://corpulency)
+		3. **physique**体格，体形;**obese**肥胖的，过胖的;**overweight**超重的;**obesity**肥大，肥胖;**fat**肥的，胖的;**stature**身高，身材;**girth**周围长度;**waistline**腰围;**impotence**阳萎;**countenance**面容，表情;**weight**重量，重
+		4. He was inclined to corpulence. /他有发胖的趋势。
+		5. corpulency
 			1. _n._ [fatness](dic://fatness), [fat](dic://fat), [blubber](dic://blubber), [avoirdupois](dic://avoirdupois)
 			2. **countenance**面容，表情;**physique**体格，体形;**exertion**努力;**impotence**阳萎;**obese**肥胖的，过胖的;**extremity**端点,尽头;
-		4. corpulent
+		6. corpulent
 			1.  [obese](dic://obese), [weighty](dic://weighty), [rotund](dic://rotund)
 			2. _adj._ [fat](dic://fat)
 			3. _n._ [thin](dic://thin), [lean](dic://lean)
 			4. **chubby**圆胖的，丰满的;**plump**丰满的;**obese**肥胖的，过胖的;**fat**肥的，胖的;**middle-aged**中年的;**bearded**有芒的;**bloated**傲慢的;**diminutive**小的;**overweight**超重的;**fleshy**肉的;**slender**微薄的;
-	11. corpuscule, corpuscular
-		1. **cell**细胞;**organism**有机体;**atom**原子;
-		2. intracorpuscular
-		3. extracorpuscular
-		4. endocorpuscular
-		5. granulocorpuscle
-	12. corsage
-		1. [bouquet](dic://bouquet), [posy](dic://posy), [nosegay](dic://nosegay)
-		2. _n._ [flower arrangement](dic://flower arrangement)
-		3. **brooch**胸针，领针;**bouquet**酒香;**flower**花;**bouquets**宴会;**prom** 正式舞会;**lapel**西服上的翻领;**bridesmaid**女傧相;**tulle**薄纱;**headband**头饰带;**ribbon**缎带;**rhinestone**莱茵石，水钻;
-	14. corselet
-		1. _n._ [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
-		2. **corset**束腹，紧身褡;**tunic**束腰外衣;**armour**装甲;**bodice**女服的紧身上衣;**armor**装甲;**bra**胸罩;**garment**衣服，服装;**blouse**宽松的上衣;**lace**花边;**skirt**裙子;**cloak**斗蓬;
-		3. _[corselet corselette](dic://corselet%20corselette)_ 妇女的胸衣
-		4. _[corsage corselet](dic://corsage%20corselet)_ 胸衣
-	15. corset
-	16. hemicorporectomy
+			5. Her father is too corpulent to play handball. /她父亲太胖以至不能玩手球。
+			6. He was fifty or there abouts and was corpulent and tall in person /他大约50岁，身体肥胖高大。
+			7. I had expected that Mr. Gatsby would be a florid and corpulent person in his middle years. /我本来以为盖茨比先生是个红光满面、肥头大耳的中年人。
+			8. " Insubordination, sir! " roared a corpulent, red-nosed wizard, brandishing his fists. " Dereliction of duty! " /“不服从，先生！”一个红鼻子的大胖男巫挥着拳头吼道，“不守职责！”
+			9. One day, a corpulent corporal in coral corduroy visited him. /一天，一名穿粉红色灯芯绒裤子肥胖的下士来走访他
+	17. corpuscule, corpuscular
+		1. n. 微粒子；血球
+		2. **cell**细胞;**organism**有机体;**atom**原子;
+		3. intracorpuscular
+		4. extracorpuscular
+		5. endocorpuscular
+		6. granulocorpuscle
+	18. corsage
+		1. cors-,词源同 corp-,身体。原指紧身胸衣，后指胸衣上的装饰花束。
+		2. n. 胸衣；胸前花饰
+		3. [bouquet](dic://bouquet), [posy](dic://posy), [nosegay](dic://nosegay)
+		4. _n._ [flower arrangement](dic://flower arrangement)
+		5. **brooch**胸针，领针;**bouquet**酒香;**flower**花;**bouquets**宴会;**prom** 正式舞会;**lapel**西服上的翻领;**bridesmaid**女傧相;**tulle**薄纱;**headband**头饰带;**ribbon**缎带;**rhinestone**莱茵石，水钻;
+		6. Yes, it is divided into several sections: overwear, light clothing, hosiery, swimwear, corsage and so on /对啊！还能分成很多个分支，比如，套装，便装，针织，泳装，胸衣等多个行业。
+		7. Oh, sweetie, guests don't normally wear corsages to a wedding. That's more of a prom thing. /亲爱的 宾客参加婚礼 一般不戴胸花 去毕业舞会才戴。
+		8. She pinned the corsage on her date. /她将胸花钉在了她的约会对象身上。
+	19. corselet
+		1. n. 盔甲, 胸衣
+		2. _n._ [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
+		3. **corset**束腹，紧身褡;**tunic**束腰外衣;**armour**装甲;**bodice**女服的紧身上衣;**armor**装甲;**bra**胸罩;**garment**衣服，服装;**blouse**宽松的上衣;**lace**花边;**skirt**裙子;**cloak**斗蓬;
+		4. _[corselet corselette](dic://corselet%20corselette)_ 妇女的胸衣
+		5. _[corsage corselet](dic://corsage%20corselet)_ 胸衣
+	21. corset
+		1. n. 紧身褡, 妇女的胸衣
+		2. n. （妇女用的）束腹，紧身褡；（中世纪流行的）紧身外套
+		3. vt. 给…穿上束腹；严格控制
+		4.  [girdle](dic://girdle), [stays](dic://stays)
+		5. _n._ [foundation garment](dic://foundation garment), [foundation](dic://foundation)
+		6. _v._ [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [garb](dic://garb), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment)
+		7. **bodice**女服的紧身上衣;**lace**花边;**bra**胸罩;**lingerie**女用贴身内衣裤;**dress**给…穿衣;**skirt**裙子;**gown**长袍，长外衣;**blouse**宽松的上衣;**strapless**无带的,无背带的,无吊带的;**tulle**薄纱;**thong**皮带;
+		8. the removal of the corset on banks. /对银行限制的取消。
+		9. Is this my corset? - You can't own possessions!  /这是我的束腰吗 - 你不能拥有财产！
+		10. Have you ever worn a corset in a film? /你在电影中穿过紧身胸衣吗？
+		11. Heidi, I'm sorry, I did take the Vivienne Westwood corset. /抱歉海蒂，我确实拿了薇薇恩·韦斯特伍德的紧身胸衣。
+		12. So they never stopped wearing their corsets and layers of uncomfortable fabric. /所以她们从未停止穿紧身胸衣和层层不舒服的布料。
+		13. Is that pole artist wearing my agent provocateur corset? /这个钢管舞娘穿着我的情趣内衣吗？
+		14. And after the bus accident, she had to wear medical corsets, because of severe spinal injuries. /车祸之后，她不得不穿医用紧身衣，因为她的脊椎严重受伤。
+	22. hemicorporectomy
 2. **furb-** = polish, 表示“擦亮”。源自古法语 forbir "to polish, burnish," 日耳曼语词源。
 	1. furbish
 		1. [buff](dic://buff), [burnish](dic://burnish), [flush](dic://flush)
 		2. [polish](dic://polish), [smooth](dic://smooth), [smoothen](dic://smoothen), [shine](dic://shine)
 		3. **furnish**供应;**furnishing**供给;**adorn**装饰;**renovate**修复;**procure**获得，取得;**furnished**装配好家具的，带家具的;
+		4. furbish up a rusty sword /把生锈的刀擦亮
+		5. the newly furbished church. /刚翻新过的教堂。
+		6. furbish up one's half-forgotten English /重温忘了一半的英语
+		7. furbish the spears, and put on the brigandines. /你们套上车、骑上马、顶盔站立、磨枪贯甲。
+		8. I wish to furbish up the Russian I learnt at college. /我要重温一下我在大学里学过的俄语。
+		9. If you furbish up these old chairs, you’ll have a better chance of selling them. /你要是把这些旧椅子擦亮，就会更好卖些。
+		10. To look at the matter in this light simplified his own case and surprisingly furbished up all the dim domestic virtues. /从这个角度来看这件事简化了他自己的情况，令人惊讶地刷新了所有暗淡的家庭美德。
+		11. It must be cut out once a year in any case and I have no qualms at breaking immense boughs at Christmas time for furbishing my house and for taking to town friends /无论如何，它每年必须剪掉一次，我毫不犹豫地在圣诞节折断巨大的树枝来装修我的房子和带给城里的朋友。
 3. midriff
 	1.  [middle](dic://middle), [midsection](dic://midsection)
 	2. _n._ [area](dic://area), [region](dic://region), [muscular structure](dic://muscular structure), [musculature](dic://musculature), [muscle system](dic://muscle system), [membrane](dic://membrane), [tissue layer](dic://tissue layer)
 	3. **waist**腰，腰部;**torso**躯干;**waistline**腰围;**thighs**大腿;**cleavage**卵裂;**navel**肚脐;**bikini**比基尼泳装;**thigh**大腿，股;**buttocks**臀部;**belly**腹部;**bodice**女服的紧身上衣;
 	4. _[bare midriff](dic://bare%20midriff)_  露脐装
 	5. _[midriff band](dic://midriff%20band)_  罩下松紧带
+	6. " Nice one, Mad-Eye, " said Tonks appreciatively, staring at Harry's midriff. /“干得漂亮，疯眼汉。”唐克斯瞪大眼睛望着哈利的上腹，欣赏地说。
+	7. At the same time, he had a most peculiar sensation somewhere around his midriff. /与此同时，他上腹部的什么地方还产生了一种十分异样的感觉。
+	8. ' Cold air on my midriff, the light touch of warm fingers. /’我腹部的冷空气，温暖手指的轻触。
+	9. Remember, it's formal, so no exposed midriffs /记住 穿正装 不要露脐装。
 
 
 

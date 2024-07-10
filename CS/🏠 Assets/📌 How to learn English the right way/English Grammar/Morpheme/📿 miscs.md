@@ -18,6 +18,28 @@
 
 
 ## A
+abalone
+- _n._ 〈美〉鲍鱼(软体动物)
+- [ear-shell](dic://ear-shell)\
+- _n._ [gastropod](dic://gastropod), [univalve](dic://univalve)
+- **oyster**牡蛎，蚝;**shellfish**贝;**oysters**牡蛎，蚝;**scallop**扇贝，干贝;**scallops**扇贝;**clams**蛤蚌;**lobster**龙虾;**mussels**淡菜;**crab**螃蟹;**fish**捕鱼，钓鱼;**shrimp**虾;
+- _[abalone mushroom](dic://abalone%20mushroom)_  鲍鱼菇
+- _[abalone shell](dic://abalone%20shell)_  石决明
+- _[abalone salad](dic://abalone%20salad)_  鲍鱼沙拉；色拉九孔
+- _[frozen abalone](dic://frozen%20abalone)_  冻鲍鱼
+- _[abalone pearl](dic://abalone%20pearl)_  鲍珍珠
+- _[dried abalone](dic://dried%20abalone)_  鲍鱼干
+- _[live abalone](dic://live%20abalone)_  活鲍鱼
+- _[shell of abalone](dic://shell%20of%20abalone)_  石决明
+- _[abalone with button mushrooms](dic://abalone%20with%20button%20mushrooms)_  草菇鲍鱼
+- _[abalone with assorted meats](dic://abalone%20with%20assorted%20meats)_  三鲜鲍鱼
+- The fingerboard has abalone microdot fret markers and 20 medium-jumbo frets. /指板拥有鲍鱼品点标记和20个中大号品丝。
+- Buy fresh abalone, razor clam or geoduck, etc. can be hand nudged, select the living will be changed. /买新鲜鲍鱼、蛏子或象拔蚌等，可用手碰一碰，选取活的、会动的。
+- Serving &Food Match Suggestion: Essentially a fine-food wine, with caviar, snails, carpaccio, paté, crayfish (Cape rock lobster), prawns, langoustine, mussels, perlemoen (abalone) and creamy cheese. /饮用及配餐建议：此酒是很好的配餐酒，适合与鱼子酱、蜗牛、白汁红肉、虾贝类或芝士配食。
+- This is a piece of abalone seashell that I keep on my desk. /这是我放在桌子上的一片鲍鱼贝壳。
+- When abalones did not rebound, commercial fishing was also banned. /当鲍鱼的数量没能恢复时，商业捕捞也被禁止。
+- Without urchins' presence, juvenile abalones are less likely to survive to adulthood. /没有海胆的存在，小鲍鱼不太可能活到成年。
+
 abigail
 - abigail（侍女）：圣经中大卫王的妻子亚比该  
 - 英语单词Abigail是个女性名字，通常翻译为“阿比盖尔”，而小写的abigail通常表示“侍女”，其中缘由与《圣经》中的一个人物有关。  
@@ -537,6 +559,9 @@ bent
 	- _bent wood_ 曲木
 - hell-bent
 - bentwood
+
+bequeath
+- kwo-
 
 billiard
 - billiards
@@ -5678,7 +5703,61 @@ hog
 - groundhog
 
 hold
-- hold back
+- [clasp](dic://clasp), [clench](dic://clench), [clutch](dic://clutch), [clutches](dic://clutches), [grasp](dic://grasp), [grip](dic://grip)
+-  [appreciation](dic://appreciation), [grasp](dic://grasp)
+- [delay](dic://delay), [time lag](dic://time lag), [postponement](dic://postponement), [wait](dic://wait)
+- [detention](dic://detention), [detainment](dic://detainment), [custody](dic://custody)
+-  [keep](dic://keep)
+- [handle](dic://handle), [grip](dic://grip), [handgrip](dic://handgrip)
+-  [cargo area](dic://cargo area), [cargo deck](dic://cargo deck), [cargo hold](dic://cargo hold), [storage area](dic://storage area)
+- [throw](dic://throw), [have](dic://have), [make](dic://make), [give](dic://give)
+-  [keep](dic://keep), [maintain](dic://maintain)
+-  [take hold](dic://take hold)
+-  [restrain](dic://restrain), [confine](dic://confine)
+- [bear](dic://bear)
+-  [have](dic://have), [have got](dic://have got)
+-  [deem](dic://deem), [view as](dic://view as), [take for](dic://take for)
+- [bear](dic://bear), [carry](dic://carry), [contain](dic://contain)
+- [control](dic://control), [hold in](dic://hold in), [contain](dic://contain), [check](dic://check), [curb](dic://curb), [moderate](dic://moderate)
+- [harbor](dic://harbor), [harbour](dic://harbour), [entertain](dic://entertain), [nurse](dic://nurse)
+- [retain](dic://retain), [keep back](dic://keep back), [hold back](dic://hold back)
+- [support](dic://support), [sustain](dic://sustain), [hold up](dic://hold up)
+-  [carry](dic://carry), [bear](dic://bear)
+-  [accommodate](dic://accommodate), [admit](dic://admit)
+- [contain](dic://contain), [take](dic://take)
+-  [prevail](dic://prevail), [obtain](dic://obtain)
+-  [defend](dic://defend), [guard](dic://guard)
+- [declare](dic://declare), [adjudge](dic://adjudge)
+- [halt](dic://halt), [arrest](dic://arrest)
+- [oblige](dic://oblige), [bind](dic://bind), [obligate](dic://obligate)
+- [carry](dic://carry)
+- [apply](dic://apply), [go for](dic://go for)
+- [reserve](dic://reserve), [book](dic://book)
+- [defy](dic://defy), [withstand](dic://withstand), [hold up](dic://hold up)
+- [agree](dic://agree), [concur](dic://concur), [concord](dic://concord)
+- _n._ [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing), [prehension](dic://prehension), [understanding](dic://understanding), [apprehension](dic://apprehension), [discernment](dic://discernment)
+- _v._ [direct](dic://direct), [disable](dic://disable), [disenable](dic://disenable), [incapacitate](dic://incapacitate), [have](dic://have), [have got](dic://have got), [see](dic://see)
+- _n._ [let go of](dic://let go of), [let go](dic://let go), [release](dic://release), [relinquish](dic://relinquish)
+	- [contain](dic://contain) 普通用词，所涉及的物体常常是其组成部分或内容。强调包容关系。既可指具体有形的东西，也可指抽象无形的东西。
+	- [include](dic://include) 普通用词，指一整体包含着各独立的部分，也指某东西包含另一东西的某一部分。
+	- [embrace](dic://embrace) 正式用词，指把某事物纳入整个之中。
+	- [involve](dic://involve) 把包含因整体的性质决定的成分或结果。所包括的往往是无形的，不可触知的东西，多用作引申。
+	- [comprehend](dic://comprehend) 正工用词，指包含在整体范围以内。
+	- [hold](dic://hold) 常和contain换用。指能够容纳或有足够的容纳量。强调包容能力。
+	- [comprise](dic://comprise) 书面用词，暗指一个整体包括不同部分所组成，可与include交换使用。
+- **put**放;**take**拿，取;**pull**拉;**carry**拿，扛;**grab**攫取;**relinquish**交出, 让给;**accountable**负有责任的;**retain**保持;**firmly**坚定地，坚决地;**sway**使摇动;**attach**系，绑;
+- _hold on_ 不挂断电话，等一下；继续
+- _on hold_ 暂停；尚未办理的事情；等候接听；把持住的（指有问题的）
+- _get hold of_ 把握；抓住；得到
+- _take hold_ 抓住；扛着；固定下来
+	- No one expects the ceasefire to take hold. /无人料到此次停火的出现。
+	- We know how rapidly new variants can take hold /我们都清楚新的变异毒株流行起来能有多快。
+	- Once an idea has taken hold of the brain /一旦大脑被某个想法占据。
+- _hold in_ 抑制；约束
+- _hold good_ 仍然有效；适用
+- _hold up_ 举起；阻挡；拦截
+- _hold on to something_ 抓住...不放
+- _hold back_ 隐瞒；退缩；抑制；阻止
 	- 阻止，抑制：指阻碍进展或实现目标。 
 	- 保留，隐瞒：指不透露或保留重要信息。 
 	- 克制，抑制：指控制自己的情绪或行为。
@@ -5693,10 +5772,25 @@ hold
 	- Refuse to hold yourself back, and dare to dream big. /拒绝退缩，敢于梦想。
 	- Was I being held back by my choice of clothing? /我有没有被自己的穿衣打扮拖后腿呢？
 	- He is clearly holding back his tears. /他显然强忍着眼泪。
-- take hold
-	- No one expects the ceasefire to take hold. /无人料到此次停火的出现。
-	- We know how rapidly new variants can take hold /我们都清楚新的变异毒株流行起来能有多快。
-	- Once an idea has taken hold of the brain /一旦大脑被某个想法占据。
+- _hold out_ 坚持；伸出；提供；维持；抵制；主张；[美口]扣留
+- _please hold on_ 请别挂上（电话中）
+- _hold down_ 抑制；压制；保有
+- _hold fast_ v. 紧紧抓住
+- _hold for_ 保温时间是…；适用
+- _hold onto_ 紧紧抓住，抓住不放；保持住
+- _hold a candle to_ 不能与…相比
+- _hold by_ 坚持
+- _hold with_ v. 赞同；容忍
+- _take hold of_ v. 握住
+- _hold true_ 适用；有效
+- hold steady
+	- 保持稳定：保持稳定的状态或姿势，不动摇或变化。
+	- I'd hold steady if I were you. /换我肯定拼命稳住。
+	- Home prices are holding steady in most regions. /在大多数地区房屋价格保持稳定。
+	- It's holding steady in states and dropping in three. /12个州保持不变，3个州的病例数在减少。
+	- They held steady and they didn't blush, even if the thing was plush. /他们稳稳当当，不脸红，即使面对的是毛绒的家伙。
+	- Unlike my mole, which is holding steady at the size of a navy bean. /不像我的痣稳定保持在菜豆的大小。
+	- It lay to at half steam in an effort to hold steady on the waves. /它减弱蒸气动力，减速航行，以保持行驶在浪峰脚下。
 - workholding
 	- _[workholding](dic://workholding)_  n. 工件夹紧
 - withhold
@@ -8004,6 +8098,9 @@ pare
 - parer
 - cheese-paring
 
+parole
+- par-,parl-
+
 patch
 - n. 小片; 补丁; 色斑; 小块土地; 一段时间  
 - vt. 补缀
@@ -8469,6 +8566,24 @@ posh
 - poshism
 - posh-looking
 
+prop
+- n. 支柱, 支撑物; 道具; 螺旋桨  
+- vt. 支撑, 维持; 架, 搁
+- 来自中古荷兰语 proppe,葡萄藤蔓支撑架，支撑，词源不详。可能来自拉丁语 propago,放置，固定，来自 pro-,向前，-pag,固定，词源同 page,compact.
+- [property](dic://property)
+- [airplane propeller](dic://airplane propeller), [airscrew](dic://airscrew)
+- [prop up](dic://prop up), [shore up](dic://shore up), [shore](dic://shore)
+- _n._ [support](dic://support), [object](dic://object), [physical object](dic://physical object), [propeller](dic://propeller), [propellor](dic://propellor)
+- _v._ [hold](dic://hold), [support](dic://support), [sustain](dic://sustain), [hold up](dic://hold up)
+- **dummy**傀儡;**propeller**螺旋桨;**rigging**索具，绳索;**stunt**绝技;
+- _prop up_ v. 支撑；支持
+- Prop the gate open with something /用什么东西支着大门让它开着吧。
+- Drones, you've got to give them props. /无人机，你必须给他们一些道具。
+- And then no one gave the character props for that. /然后没有人注意到这个角色。
+- There's no rotor, there's no prop, there's no jet /没有旋翼，没有起落架，它不是喷气式飞机。
+- And Reeder also had to know when to swap the props in. /里德还需要知道什么时候替换道具。
+- Instead, they involve visually removing safety props used to create the scene. /相反，这些工作总是需要将制造场景的道具去除掉。
+
 prose (parody)
 - _n._ [writing style](dic://writing style), [literary genre](dic://literary genre), [genre](dic://genre), [expressive style](dic://expressive style), [style](dic://style)
 	- [composition](dic://composition) 多指学校里老师给学生的作文练习。  
@@ -8706,6 +8821,9 @@ quash
 - Irish officials were quick to quash that idea /爱尔兰官员立刻制止了这一想法。
 - Opposition leaders believe Mr. Ceballos is a political prisoner and his arrest was an effort to quash dissent. /反对派领袖认为，丹尼尔是政治囚徒，对其进行逮捕旨在镇压异教徒。
 - The provincial authorities quashed another proposed plant in the Mekong Delta. /地方当局还否决了湄公河三角洲的另一个工厂提案。
+
+queer
+- terkw-
 
 quell
 - [squelch](dic://squelch), [quench](dic://quench)
@@ -9102,6 +9220,26 @@ retch
 - [spasm](dic://spasm)
 - [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
 - **puke**吐剂;**vomit**吐出;**cringe**畏缩;**shudder**震动;**vomiting**呕吐;**groan**呻吟;**disgust**厌恶，嫌恶;**gasp**喘息;**sob**啜泣，呜咽;**scream**尖叫;**weep**哭泣;
+
+rev
+- n. 转速  
+- v. (使)加速
+- [revolutions per minute](dic://revolutions per minute), [rpm](dic://rpm)
+-  [rev up](dic://rev up)
+- _n._ [rate](dic://rate)
+- v. [increase](dic://increase)
+- **throttle**节流阀;
+- _[rev up](dic://rev%20up)_  加快转速
+- _[rev counter](dic://rev%20counter)_  转速表
+- _[rev down](dic://rev%20down)_  减速
+- orders to rev up factory output. /增加工厂产量的指令
+- the port engine revs rose to a crescendo . /船的发动机转动声响达到了极点。
+- revving ourselves up for the game; efforts to rev the economy /振作我们的精神打好比赛；繁荣经济所做的努力奋斗
+- Did you ever consider revving the engine? /你有想过要加速引擎吗？
+- However, used car dealers and mechanics are revving up. /但是二手车经销商和修理工的数量正在增加。
+- You know, high revving car, you want lots of horsepower. /你知道的，高转速汽车需要大马力。
+- Genes involved in motor control were also revved up, as were those that light up the brain's pleasure center.  /而与控制运动相关的基因也变得活跃，进而触动大脑的愉快中枢。
+- And you really have to rev yourself up to keep up with them. /而且你必须高速运转大脑以跟上他们的节奏。
 
 rich
 - richness
@@ -9719,6 +9857,32 @@ screech
 - a screech of brakes. /刹车时的刺耳响声。
 - The monkeys were screeching in the trees. /猴子在树上尖声叫着。
 - a bus screeched to a halt /公共汽车嘎的一声停住了。
+
+scoot
+- 可能来自 shoot,投，射出，引申词义疾行，快走，猛冲等。
+- vi. 快跑, 奔跑
+- [dart](dic://dart), [dash](dic://dash), [scud](dic://scud), [flash](dic://flash), [shoot](dic://shoot)
+- _v._ [rush](dic://rush), [hotfoot](dic://hotfoot), [hasten](dic://hasten), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along)
+- **sit**坐;**stroller**散步者;**crawl**爬行;**wiggle**使……摆动，使……扭动;**ride**骑马;**sideways**向侧面地;**grab**攫取;**stomp**跺;**kiddo**老兄;**maneuver**策略;**wheeled**有轮的;
+- _[Scoot up](dic://Scoot%20up)_ 往前一点
+- _[scoot Cars](dic://scoot%20Cars)_ 迷你三轮车
+- _[water scoot](dic://water%20scoot)_ 狂飙快艇
+- _[scoot over](dic://scoot%20over)_ 挪过去；闪开
+- _[scoot around the corner](dic://scoot%20around%20the%20corner)_ 再到角落里游走
+- _[scoot at the basket](dic://scoot%20at%20the%20basket)_ 投篮
+- Scoot that chair over. /把椅子弄开
+- Scoot , or you will be late /快走, 否则你将太迟了。
+- they scooted off on their bikes. /他们骑着自行车飞奔而去。
+- This motor-scooter is my latest acquisition. /这辆摩托车是我最新购置的。
+- Ember raced to her scooter and took off. /小焰冲上小摩托，疾驰而去。
+- Something to train your mind on as we scoot on into the weekend. /这在我们周末散步的时候可以锻炼我们的脑力。
+- Listen it's time for us to scoot but not before we mention Monticello High School. /是时候（下班）开溜了，但我还得提下蒙蒂塞洛高中。
+- Oh! Is she grabbing or scooting yet? /噢！会抓东西了吗？会走路了吗？
+- Then Ember's scooter hydroplaned, with waves splashing upward. /波浪向上飞溅，小焰的小摩托打滑了。 
+- She revved the scooter and bravely soared across the culvert. /她加起速来，无所畏惧，飞越了下水管道。
+- scoot up (budge up)
+- scoot over
+- scooter
 
 score
 - (s)ker-(1), scar

@@ -3161,6 +3161,50 @@
 
 
 ## si
+### sicc- = dry, 表示“干”。源自拉丁语 siccus "dry."
+1. desiccate
+	2. de-强调 + sicc-干 + -ate, 表动词 → 弄干。
+	3. vt. 使干, 干贮 
+	4. vi. 变干
+	5. _v._ [preserve](dic://preserve), [keep](dic://keep), [dry](dic://dry), [dry out](dic://dry out)
+	6. _adj._ [dull](dic://dull)
+	7. _n._ [lively](dic://lively)
+	8. **evaporate**蒸发;**dry**干的;**harden**变硬，变坚固;**rot**腐烂;**drying**干燥;**dried**弄干了的;**regenerate**再生;**dries**间歇出露区,干出;**arid**干旱的;**displace**取代;**darken**使模糊
+	9. In a week your skin will desiccate, and you'll mummify /一星期后你的皮肤就会脱水，你会变成干尸。
+	10. Must be painful to desiccate and mummify. I can't even imagine. /脱水成木乃伊的过程一定很痛苦吧。我都无法想象。
+	11. But after that one desiccating summer, 66% said they'd been seeing worsening droughts for decades. /但是在那个干燥的夏天之后，66% 的人说他们目睹了几十年来最糟糕的旱灾。
+	12. Worse, the growth of regional political monocultures has a desiccating effect on national politics. Parties learn about people's concerns by representing them /更糟糕的是，地区政治的单一文化对国家政治造成了绝对的影响。
+	13. desiccant
+	14. desiccator
+	15. desiccative
+		1. adj. 使干燥的，去湿的 
+		2. n. [助剂] 干燥剂
+	16. desiccation
+		1. electrodesiccation
+		2. cryodesiccation
+	17. desiccated
+		1. adj. 干的（等于 desiccate）；粉状的 
+		2. v. 使干燥（desiccate 的过去式）；变干
+		3. _adj._ [dry](dic://dry), [preserved](dic://preserved), [dull](dic://dull)
+		4. _n._ [wet](dic://wet), [fresh](dic://fresh), [lively](dic://lively)
+		5. **dried**弄干了的;**lifeless**无生命的;**decaying**颓坏;**bleached**变白的;**powdered**变成粉末的;**rotting**深蚀刻;**barren**贫瘠的;**corpse**尸体;**inert**惰性的;**dry**干的;**frozen**冻结的;
+		6. _[desiccated coconut](dic://desiccated%20coconut)_  椰蓉
+		7. _[desiccated egg](dic://desiccated%20egg)_  蛋粉
+		8. _[biscuit with desiccated coconut](dic://biscuit%20with%20desiccated%20coconut)_  椰蓉饼
+		9. a desiccated history of ideas. /枯燥乏味的思想史。
+		10. a factory where coconut meat is shredded and desiccated; /将椰肉切成条并脱水的工厂；
+		11. We passed the desiccated corpse of a brigand hanging on a gibbet. /我们路过一具悬在绞刑架上的土匪干尸。s
+		12. It has other bits and pieces rolled in desiccated coconut. /还有一些七零八碎的东西卷在干椰子里。
+		13. Processing can make healthy foods unhealthy: fruit, for instance, goes from healthy to unhealthy as it is desiccated, squeezed or sweetened. /加工过程可能会使健康食品变得不健康：例如，水果在干燥、压榨或加糖后，就会从健康变成不健康
+3. exsiccate
+	1. vt. 使干燥
+4. siccative
+	1. sicc-干 + -ative
+	2. 来自拉丁语 siccare,使干燥，来自 PIE*seikw,流出，脱水，词源同 desiccate.
+	3. a. 使干燥的  
+	4. n. 干燥剂
+
+
 ### sinu- = bend, 表示“弯曲”，医学领域常引申为“窦”。
 1. insinuate
 2. sinuate
@@ -4205,6 +4249,48 @@
 		5. marvellous
 3. smile
 4. smirk
+
+
+### Smug- 原意表示“滑”，引申为“光滑、靓丽”，“自负、自满”，原始印欧语形式 *smeug.
+1. smug
+	1. a. 自以为是的, 自鸣得意的, 整洁的  \
+	2. n. 书呆子, 自命不凡的家伙
+	3. 来自中古低地德语 smuk,整洁的，优雅的，漂亮的，来自 smucken,装饰，修饰，词源同 smock,smug.词义贬义化为沾沾自喜的，自鸣得意的。
+	4. _adj._ [contented](dic://contented), [content](dic://content)
+	5. _n._ [discontented](dic://discontented), [discontent](dic://discontent)
+	6. **arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**cocky**自大的;**smirk**傻笑;**snarky**恶声恶气的，咬人的;**grumpy**脾气暴躁的;**cynical**愤世嫉俗的;**whiny**烦躁的;**sarcastic**讽刺的;**dismissive**轻视的, 轻蔑的, 鄙视的;
+	7. _[the smug calculation](dic://the%20smug%20calculation)_ 如意算盘
+	8. _[self-righteous smug stuffy](dic://self-righteous%20smug%20stuffy)_ 自以为是的
+	9. _[a look of smug satisfaction](dic://a%20look%20of%20smug%20satisfaction)_ 自鸣得意的表情
+	10. he attacked the media's smug superiority. /他抨击了媒体自鸣得意的傲慢态度。
+	11. he was feeling smug after his win. /他获胜以后很是得意。
+	12. The smug look on Malfoy's face flickered. /马尔福得意的脸色暗了一下。
+	13. " Well, of course not, " said Xenophilius, maddeningly smug. /“这个，当然没有”，谢农费里厄斯说，得意得有点疯狂。
+	14. It's smug and privileged and precious. /你这么说特别自以为是，高高在上、还矫揉造作。
+	15. Open a window. It's about to get smug in here. /开窗吧，房间里要充满沾沾自喜的气息了。
+2. smuggle
+	1. vt. 偷运, 走私, 私运  
+	2. vi. 走私
+	3. 来自荷兰语 smokkelen, 走私，偷运，来自 smuken,秘密行动，词源同 smock,smug。
+	4. _v._ [export](dic://export), [import](dic://import)
+	5. **contraband**走私,禁运品;**kidnap**绑架;**infiltrate**渗透;**bribe**贿赂，收买;**steal**剽窃;**procure**获得，取得;**suitcase**手提箱;**illicit**违法的;**illegally**不法地;**hijack**抢劫;**clandestine**秘密的,保密的,暗中的;
+	6. _[smuggled goods](dic://smuggled%20goods)_  水货；走私货
+	7. _[smuggle out](dic://smuggle%20out)_  私运出去
+	8. _[smuggle in](dic://smuggle%20in)_  偷运进来；非法带入
+	9. _[smuggle into](dic://smuggle%20into)_  走私进入……
+	10. he smuggled out a message. /他偷偷送出一条消息。
+	11. Heroin has been smuggled out by sea. /海洛因已从海上偷运出境。
+	12. Friends managed to smuggle him secretly out of the country. /朋友们想方设法将他秘密送出国了。
+	13. the skipper played the innocent, but smuggled goods were found on his vessel. /那位船长假扮清白，但从他的船上却发现了走私物品。
+	14. Strictly speaking, this is now smuggling. /严格来说，现在这属于走私活动。
+	15. Customs officials uncovered a plot to smuggle weapons into the country /海关官员发现了一个往国内走私武器的阴谋。
+	16. smuggling
+	17. smuggler
+	18. antismuggling
+4. smock
+	1. n. 工作服, 罩衫, 长罩衣  
+	2. vt. 使穿上工作服, 缝制装饰用衣褶
+	3. 来自古英语 smoc,女宽松衬衫，来自 Proto-Germanic*smukkaz,滑进去的，套进去的，来自*smukkona,滑进，溜进，来自 PIE*smeug,滑进，溜进，词源同 smug,smuggle.后引申词义罩衫，工作服。
 
 
 
@@ -7424,3 +7510,30 @@
 	2. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
 	3. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;
 4. sycosis
+
+
+### syl- 表示“抓捕”
+1. asylum
+	1. n. 庇护; 收容所, 精神病院
+	2. n. 政治避难，政治庇护；<旧>精神病院
+	3. a-不，非 + syl-抓捕 → 不能抓人的地方 → 指宗教圣殿，避难所。
+	4. asylum（庇护）：古代神庙或教堂所提供的庇护  
+	5. 在古代西方，神庙、教堂等宗教场所被看作是非常神圣的地方，是神祇所在之处。在这些场所杀人或抓人将被看作对神的大不敬。因此，罪犯、逃亡者进入神庙或教堂后就获得了神的庇护，世俗司法机构不得进入这些场所执法。在政治斗争或战争中失败的一方也可以躲进教堂寻求庇护。英语单词asylum（庇护）最初就表示这种宗教场所提供的庇护。它来自希腊语asylon，由否定前缀a+sylon（逮捕权）构成，字面意思就是“无权逮捕”。  
+	6. 18世纪中期后，asylum开始用来表示“精神病院”，也许是因为人们将精神病院看作是精神病患者的庇护和救济所。  
+	7. asylum [ə'saɪləm] n.庇护；收容所。希腊前缀a-表否定，在元音前的形式是an-，与拉丁前缀in-和日耳曼前缀un-同源，词根syl-表“逮捕权”。在古希腊和古罗马，都有寺庙和祭坛等场所，受主人不公正待遇的奴隶等可以藏身这里而免于被抓。不过古罗马的asylum，据说是为增加人口而吸引其它地方的难民来。
+	8. asylum：[ə'saɪləm] n.庇护，避难，庇护所，收容所，精神病院
+	9.  [refuge](dic://refuge), [sanctuary](dic://sanctuary)
+	10.  [mental hospital](dic://mental hospital), [psychiatric hospital](dic://psychiatric hospital), [mental institution](dic://mental institution), [institution](dic://institution), [mental home](dic://mental home), [insane asylum](dic://insane asylum)
+	11. _n._ [shelter](dic://shelter), [hospital](dic://hospital), [infirmary](dic://infirmary)
+	12. **refugee**难民，避难者;**detention**拘留, 扣押;**deportation**驱逐出境;**resettlement**再定居,重新安置;**extradition**引渡逃犯;**psychiatric**精神病的;**lunatic**精神错乱的;**immigration**移民局检查站;**refuge**避难;**visa**签证;**prisoner**囚犯，犯人;
+	13. _political asylum_ 政治庇护，政治避难
+	14. _insane asylum_ 精神病院
+	15. _lunatic asylum_ 精神病院，疯人院
+	16. _mental asylum_ 精神病院
+	17. an asylum for inebriates /酒徒收容所
+	18. people seeking asylum in Britain. /到英国寻求政治避难的人们。
+	19. asylum for those too ill to care for themselves. /重病人看护所。
+	20. They campaigned on behalf of asylum seekers. /他们为那些寻求避难的人展开活动。
+	21. The asylum seekers had to contend with continued bureaucratic obstruction /寻求政治庇护的人得不断地应付官僚主义的层层阻挠。
+	22. France has agreed to grant him political asylum. /法国已经同意给予他政治庇护。
+	23. The asylum officer will decide if there is a reason why the person can seek asylum./庇护官员将决定此人是否有理由寻求庇护。

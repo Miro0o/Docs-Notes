@@ -801,6 +801,26 @@
 	5. [flattery](dic://flattery), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
 	6. [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [persuade](dic://persuade)
 	7. **fuss**小题大作;**bugger**家伙;**daft**愚蠢可笑的;**nonsense**谬论;**tiresome**烦人的，无聊的;**drivel**淌口水,说傻话;**inane**愚蠢的;**farce**笑剧,闹剧,滑稽戏;**chatter**唠叨;**tedious**冗长乏味的;**sundry**杂的;
+8. parole
+	1. 法语 parole d'honneur,承诺，承诺辞，即 parole of honor,来自拉丁语 parabola,说话，词源同 parable, parley.原指战争中俘虏作出的不逃跑的承诺，后用于对罪犯的假释。
+	2. n. 假释; 言语  
+	3. v. 假释, 有条件地释放
+	4. n. 誓言，诺言；语言；释放宣言
+	5. vt. 使假释出狱；宣誓后释放；有条件释放，假释
+	6. [word](dic://word), [word of honor](dic://word of honor)
+	7. [password](dic://password), [watchword](dic://watchword), [word](dic://word), [countersign](dic://countersign)
+	8. _n._ [promise](dic://promise), [positive identification](dic://positive identification), [secret](dic://secret), [arcanum](dic://arcanum), [liberation](dic://liberation), [release](dic://release), [freeing](dic://freeing)
+	9. _v._ [free](dic://free), [liberate](dic://liberate), [release](dic://release), [unloose](dic://unloose), [unloosen](dic://unloosen), [loose](dic://loose)
+	10. **probation**缓刑, 察看;**prison**监狱;**jail**监狱;**incarceration**监禁;**prisoner**囚犯，犯人;**imprisonment**关押,监禁;**incarcerated**钳闭的;**bail**保释，保释人;**inmate**同住者;**correctional**改正的,矫正的,修正的;**felon**重罪犯;
+	11. _on parole_ 获得假释
+	12. _out on parole_ [美国俚语](女子)离了婚的
+	13. a parole board; parole violations. /假释裁判委员会；触犯假释
+	14. People on parole must follow certain rules. /被假释的人必须遵守一定的规定。
+	15. The suspect ,the veil makson Lovelle Mixon was on parole for assault with a thought ,was deadly weaponed. /被控持致命性武器袭击的嫌犯洛福尔·米克松已被保释。
+	16. Your release on parole will be a matter entirely for the parole board. /你的假释事宜将完全归假释委员会所管。
+	17. Consorting with a known felon is a parole violation /与重罪犯厮混是违反假释规定的。
+	18. But please, don't tell my parole officer. /但是请别让我的假释官知道。
+	19. parolee
 
 
 ### ⭐ + \*pau- +
@@ -3695,6 +3715,45 @@
 	22. jeopard
 		1. jeopardy
 		2. jeopardize
+
+
+### pest- = plague，表示“瘟疫”。源自拉丁语 pestis "deadly contagious disease."
+1. pest
+	1. pest（害虫）：致命的传染病  
+	2. 在今天，如果你听到别人说附近有pest，你可能不会过多害怕。但是在中世纪，如果听说附近有pest，人们就会惊慌失措，感觉像是世界末日来了。因为在中世纪，pest一词指的是“瘟疫”。它来自拉丁语pestis（致命的传染病、灾祸）。14世纪四五十年代，由老鼠传播的黑死病曾经横扫欧洲，人们就用pest一词来表示它，并在住有黑死病人的房屋外墙上写上一个大大的P字，提醒过往行人绕行。后来，pest一词的词义不断缩小，先是缩小为“对人有害之物”，包括动物或植物，后来又进一步缩小范围，专指“害虫”。但在同源单词pestilence和pestilent中，pest依然保持了原意。  
+	3. pest：[pest] n.害虫，有害之物，讨厌的人  
+	4. pesticide：['pɛstɪsaɪd] n. 杀虫剂  
+	5. pestilence：['pɛstɪləns] n.瘟疫，有害的事物  
+	6. pestilent：['pestɪl(ə)nt] adj.致命的，传染性的，有害的，危害社会的
+	7. biopesticide
+2. pesticide
+3. pesthole
+	1. n. 瘟疫芘生地, 瘟疫区
+4. pesthouse
+	1. n. 隔离病院, 传染病院
+5. pestiferous
+	1. a. 传播疾病的, 引起瘟疫的, 危害社会的, 伤风败俗的
+6. pestilence
+	1. n. 瘟疫, 散布毒害的事物, 罪恶
+	2. [plague](dic://plague), [pest](dic://pest), [pestis](dic://pestis)
+	3.  [plague](dic://plague), [pest](dic://pest)
+	4. [canker](dic://canker)
+	5. _n._ [epidemic disease](dic://epidemic disease), [influence](dic://influence)
+	6. **plague**瘟疫;**famine**饥荒;**scourge**鞭打;**calamity**不幸事件;**cholera**霍乱;**affliction**折磨;**disease**病，疾病;**smallpox**天花;**sickness**疾病;**blight**枯萎病;**wickedness**邪恶;
+	7. A pestilence overhangs the country. /瘟疫威胁着那个国家。
+	8. famine, pestilence and other evils /饥荒、疫病及其他灾难
+	9. They were crazed by the famine and pestilence of that bitter winter. /他们因那年严冬的饥饿与瘟疫而折磨得发狂。
+	10. Back, I say! Back clouds, back rain, back pestilence. Bring in the sunshine, bring in the mothers /雨和乌云都走开，带来阳光，让妈妈们来吧。
+	11. Everyone must use less water if famine, pestilence and mass migration are not to sweep the globe. /如果我们不想让饥荒、瘟疫以及人类大规模迁徙横扫全球，就必须人人节约用水。
+	12. Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acquired this man-made disease as a pestilence. /具有讽刺意味的是，欧洲把这种兔子作为有害动物传给澳洲，而欧洲自己却染上了这种人为的瘟疫般的疾病。
+7. pestilent
+	1. a. 致命的, 传染性的, 有害的, 伤风败俗的, 引起瘟疫的
+8. pestology
+	1. n. 鼠疫学, 害虫学
+9. pesky
+	1. a. 麻烦的, 恼人的, 棘手的, 讨厌的
+	2. pesk（pest【害虫】的方言变体） + -y形容词后缀。即像害虫一样的，引申词义恼人的，讨厌的。
+	3. 
 
 
 ### ⭐ + \*pet- + = to rush, to fly
