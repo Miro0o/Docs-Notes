@@ -4018,8 +4018,196 @@
 		11. manumotive
 	13. motoneuron
 	14. motor
-		1. etc..
-	15. move
+		1. 来自拉丁语 motor,移动者，运动者，词源同 move.引申词义发动机，马达，汽车等。
+		2. n. 马达, 发动机, 原动力, 汽车  
+		3. a. 马达的, 发动机的, 汽车的, 发动的  
+		4. vt. 推动, 以汽车载运  
+		5. vi. 乘汽车, 驾车
+		6. n. 发动机，马达；汽车，轿车；原动力 
+		7. adj. 机动的；汽车的，车辆的；肌肉运动的，运动神经的；原动的，引起运动的 
+		8. v. 乘车旅行，驾车旅行；使用发动机驾驶帆船；<非正式>快速移动，迅速增加；<英>用汽车运送
+		9. [drive](dic://drive)
+		10. [centrifugal](dic://centrifugal)
+		11.  [motive(a)](dic://motive(a))
+		12. _n._ [machine](dic://machine), [agent](dic://agent)
+		13. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote)
+		14. _adj._ [efferent](dic://efferent), [motorial](dic://motorial), [causative](dic://causative)
+		15. _n._ [afferent](dic://afferent), [noncausative](dic://noncausative), [noncausal](dic://noncausal)
+			1. [machine](dic://machine) 普通用词，泛指一切机器。  
+			2. [machine](dic://machine) ry指机器的总称。  
+			3. [mechanism](dic://mechanism) 指运行系统，简单的机械装置。  
+			4. [apparatus](dic://apparatus) 指具有特殊用途的装置。  
+			5. [engine](dic://engine) 既可泛指或大或小、简单或复杂的机械、机器，又可指产生动力的发动机或引擎。  
+			6. [motor](dic://motor) 通常指小型或轻型马达、发动机。
+		16. **vehicle**车辆;**alternator**交流发电机;**servo**伺服;**flywheel**飞轮，惯性轮;**outboard**外侧的;**solenoid**螺线管;**gearbox**变速箱;**automobile**汽车;**engine**引擎，发动机;**car**汽车;**propeller**螺旋桨;
+		17. _motor vehicle_ 汽车；机动车辆
+		18. _dc motor_ 直流电动机；直流马达；直羚动机
+		19. _electric motor_ 电动机
+		20. _induction motor_ 感应电动机；异步电动机
+		21. _motor control_ 电动机控制；[电]马达控制
+		22. _synchronous motor_ [化]同步电动机
+		23. _asynchronous motor_ 异步电动机，异步马达；感应电动机
+		24. motoring offense
+			1. 违章驾驶汽车：指在驾驶汽车时违反交通规则或法律的行为。
+		25. motor power. /原动力
+		26. motor insurance. /汽车保险。
+		27. The motor is dead. /汽车熄火了
+		28. motor coordination; a motor reflex. /肌肉运动的协调；肌肉运动反射
+		29. a certificate of motor insurance /机动车辆保单。
+		30. the chug of a motor boat. /摩托艇的嘎嚓声。
+		31. General Motor Corporation /通用汽车公司
+		32. You hear the motors of the system /你可以听到系统的马达声。
+		33. In contrast, there are no rotating motors in nature. /然而，自然界中并没有旋转电机。
+		34. " Motor oil, " he confirmed. " Yup, this is the source! " /“机油，”他确认道，“就是它！这里就是源头！”
+		35. It was rusty, with a hint of motor oil. /然后放进嘴里。这里的水有一股生锈的味道，像是机油。
+		36. To do that, they'll need better motors and servos. /为了实现这个目标，他们需要更好的马达和伺服系统。
+		37. visceromoter
+		38. viscerimoter
+		39. venomoter
+		40. vasomotory
+		41. vasculomotor
+		42. trimotor
+		43. telanomotor
+		44. telemotor
+		45. tachomotor
+		46. sudomotor
+		47. stepmotor
+		48. servomotor
+		49. sensorimotor
+		50. sensomotor
+		51. secretomotory
+		52. secretomotor
+		53. sanguimotor
+		54. rotomotor
+		55. recipiomotor
+		56. rail-motor
+		57. pyromotor
+		58. pupilomotor
+		59. pulmotor
+		60. psychomotor
+		61. pseudomotor
+		62. pilomotor
+		63. photomotor
+		64. phonomotor
+		65. oculomotorius
+		66. neuromotor
+		67. neurimotor
+		68. nerivimotor
+		69. navymotor
+		70. multimotor
+		71. motorway
+		72. motortherapy
+		73. motorship
+		74. motorreducer
+		75. motorpump
+		76. motorplane
+		77. motorpathy
+		78. motorogerminative
+		79. motormeter
+		80. motorman
+		81. motormaker
+		82. motoriorry
+		83. motorless
+		84. motorlaunch
+		85. motorize
+			1. _vt._ 给(车辆)装上发动机,使机动化
+			2. 用机动车装配(部队等),使(部队等)机动化
+			3. [mechanize](dic://mechanize), [mechanise](dic://mechanise), [motorise](dic://motorise)
+			4. _v._ [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit)
+			5. **motors**汽车公司证券;**motor**发动机，马达;**disassemble**解开,分解;
+			6. _[motorized](dic://motorized)_  adj. 摩托化的；机动化的; v. 使…机械化（motorize的过去分词）; 
+			7. _[motorized glider](dic://motorized%20glider)_  动力滑翔机
+			8. _[motorized spindle](dic://motorized%20spindle)_  电主轴
+			9. _[motorized treadmill](dic://motorized%20treadmill)_  电动跑步机
+			10. _[motorized syringe](dic://motorized%20syringe)_  机动化注射器
+			11. _[motorized grader](dic://motorized%20grader)_  机动平地机
+			12. a motorized wheelchair. /机动轮椅。
+			13. three motorized divisions. /三个机械化师。
+			14. a motorized infantry division /【军】摩托化步兵师
+			15. A young man rides a motorized scooter past geese and donkeys that roam the throughway of a rural village in Laos's Mekong River valley. /在老挝湄公河河谷的乡村里，一个年轻人骑着一辆摩托机车穿过村庄里毛驴和鹅闲逛的道路。
+			16. The PillBot is designed to be the first motorized endoscopic camera /PillBot 被设计成第一个电动内窥镜相机。
+			17. He was even circling really expensive things like a giant motorized car and stuff like that. /连举巨型马达小汽车之类贵的要命的东西他都圈了出来。看。
+		86. motorius
+		87. motorium
+			1. n. 运动中枢
+		88. motorist
+			1. [automobilist](dic://automobilist)
+			2. _n._ [driver](dic://driver)
+			3. **cyclist**骑自行车的人;**driver**驾驶员;**vehicle**车辆;**pedestrian**步行者;**roadway**路面;**policeman**警察;**speeding**超速行驶;**automobile**汽车;**drivers**驱动程序，驱动器;**motoring**驾驶汽车;**driving**强劲的;
+			4. a motorist in distress. /处于危险境地的驾驶者
+			5. motorists hung up in traffic. /受阻于交通的摩托车手
+			6. a motorist who was injured in a spinout. /在回形滑行中受伤的驾车者
+			7. an impatient motorist blaring his horn. /一位按着喇叭，毫不耐烦的司机。
+			8. motorists who retrofit catalysts to older cars. /给老车加催化剂的车手。
+			9. raced the injured motorist to the hospital. /将受伤的摩托车手迅速送往医院
+			10. The police officer waved the motorist into the right lane. /警官挥手指挥骑摩托车者进入右道
+		89. motorise
+		90. motoring
+		91. motoricity
+		92. motorial
+		93. motorgraphic
+		94. motorgrader
+		95. motordrome
+		96. motorcycle
+			1. _n._ [motor vehicle](dic://motor vehicle), [automotive vehicle](dic://automotive vehicle)
+			2. _v._ [ride](dic://ride)
+			3. **motorbike**摩托车;**bike**自行车;**biker**骑自行车的人;**bicycle**自行车;**scooter**小轮摩托车;**bikes**自行车;**car**汽车;**automobile**汽车;**snowmobile**摩托雪橇;**riding**骑马;**rider**附文;
+			4. a full-face motorcycle helmet. /盖住整个脸部的摩托车头盔。
+			5. He’s got motorcycle mania. /他爱摩托车爱得发狂。
+			6. the motorcycle thundered into life. /摩托车轰隆隆发动起来。
+		97. motorcar
+		98. motorcade
+			1. _n._ 一长列汽车,(汽)车队
+			2. _n._ [procession](dic://procession)
+			3. **limousine**豪华轿车;**limo**豪华轿车;**convoy**护航队;**entourage**随行人员;**inauguration**就职典礼;**procession**队伍, 行列;**parade**游行;**JFK**约翰·菲茨杰拉德·肯尼迪;**assassination**暗杀;**presidential**总统的;**tarmac**柏油碎石路面;
+			4. The motorcade was preceded by motorcycles. /摩托车为车队作先导。
+			5. It is still a standard part of the POTUS motorcade and I don't believe considered part of the RISC team /它仍然是一个标准的一部分，博图士的车队和我不相信认为是RISC的团队。
+			6. He didn't take the motorcade to get there, for example. /举例来说，他没有乘坐汽车前往就职典礼现场。
+			7. Meanwhile, those lining the streets to get a glimpse of the Pope's motorcade were encouraged. /与此同时，那些站在街道两旁看到教皇车队的人受到了鼓励。
+			8. So at any moment, someone could step into the crowd and block that motorcade /所以在任何时候，都有可能有人走进人群，挡住车队。
+			9. Protesters lined the route of his motorcade, shouting F-16s to Ukraine. /抗议者站在他的车队的路线两旁，高喊着f -16战机去乌克兰。
+			10. The vault also holds political history, with three vehicles from presidential motorcades. /这个地下室里还蕴藏着政治史，有3个车型曾隶属于总统车队。
+		99. motorbus
+		100. motorboat
+		101. motorbike
+			1. _n._ [motorcycle](dic://motorcycle), [bike](dic://bike)
+			2. _v._ [ride](dic://ride)
+			3. **motorcycle**摩托车;**scooter**小轮摩托车;**bike**自行车;**bicycle**自行车;**car**汽车;**bikes**自行车;**scooters**踏板车;**biker**骑自行车的人;**riding**骑马;**bicycles**自行车;**taxi**乘出租车;
+			4. That motorbike was really travelling. /那辆摩托车开得飞快。
+			5. The motorbike zoomed past us. /摩托车从我们旁边飞驰而过。
+			6. Hagrid kicked the motorbike into life /海格把摩托点上了火。
+			7. Many visitors rent a motorbike and explore the Ho Chi Minh trail. /许多游客会租摩托车去探索胡志明小道。
+		102. motor-assisted
+		103. motor unit
+		104. motor nerve
+		105. monomotor
+		106. micromotor
+		107. lungmotor
+		108. liberomotor
+		109. iridomotor
+		110. inductionmotor
+		111. ideomotor
+		112. gyromotor
+			1. 陀螺马达
+		113. graphomotor
+		114. gearmotor
+		115. excitomotor
+		116. emotiomotor
+		117. electromotor
+		118. dynamotor
+		119. dirigomotor
+		120. depressomotor
+		121. cephalomotor
+		122. capillomotor
+		123. capillariomotor
+		124. bronchomotor
+		125. biomotor
+		126. bimotoered
+		127. auxiliomotor
+		128. antipsyfchomotor
+		129. agrimotor
+		130. affectomotor
+	16. move
 		1. unmoved
 		2. moving
 			1. slow-moving
@@ -4046,7 +4234,7 @@
 			5. [public mover](dic://public mover), [moving company](dic://moving company), [removal firm](dic://removal firm), [removal company](dic://removal company)
 		8. movability
 		9. movable, movably
-	16. promote
+	17. promote
 		1. [advance](dic://advance), [boost](dic://boost), [further](dic://further), [encourage](dic://encourage)
 		2. [upgrade](dic://upgrade), [advance](dic://advance), [kick upstairs](dic://kick upstairs), [raise](dic://raise), [elevate](dic://elevate)
 		3. [advertise](dic://advertise), [advertize](dic://advertize), [push](dic://push)
@@ -4058,12 +4246,12 @@
 		9. promotive
 		10. promotion, promotional
 		11. promoter
-	17. remote
+	18. remote
 		1. semiremote
 		2. remoteness
 		3. remotely
 		4. remote-control
-	18. remove
+	19. remove
 		1. remover
 		2. removel
 		3. removed
@@ -4072,8 +4260,8 @@
 		6. removable
 			1. removability, irremovability
 			2. irremovable
-	19. rheomoter
-	20. moment
+	20. rheomoter
+	21. moment
 		1. momentum
 			1. **impetus**促进;**propel**推进;**gaining**增进单向开槽;**accelerating**加速的;**inertia**惯性;**gains**收益;**trajectory**弹道,轨迹;**kinetic**运动的;**velocity**速率;**traction**牵引;**bounce**弹力;
 			2. [force](dic://force), [forcefulness](dic://forcefulness), [strength](dic://strength), [physical property](dic://physical property)
@@ -4095,7 +4283,7 @@
 		5. momental, endomomental
 			1. adj. 惯量的；力矩的；动量的
 		6. momenta
-	21. motocycle
+	22. motocycle
 
 
 ### + \*meug- + = slippery, slimy
@@ -4228,66 +4416,192 @@
 ## mo
 ### + \*mo- +
 1. **mor-** = moral, 表示“道德”。源自拉丁语 mos "wont, humor, manner, custom."
-	2. demoralize
-	3. moral
-		1. unmoral
-		2. politico-moral
-		3. nonmoral
-		4. morals
-		5. morally
-		6. moralize
-			1. moralization
-		7. morality
-		8. moralist
+	1. moral
+		1. mor-道德 + -al → 道德的，道义的。
+		2. n. 道德, 品行; 寓意  
+		3. a. 道德的, 道义上的; 品行端正的; 能辨别是非的
+		4. unmoral
+		5. politico-moral
+		6. nonmoral
+		7. morals
+		8. morally
+		9. moralize
+			1. vt. 教化, 使有德行  
+			2. vi. 说教
+		10. demoralize
+			1. vt. 使道德败坏, 使堕落, 挫折锐气
+		11. moralization
+		12. morality
+		13. moralist
 			1. moralistic
 			2. immoralist
-		9. moralism
-		10. moralise
-		11. moralisation
-		12. immoral
+		14. moralism
+		15. moralise
+		16. moralisation
+		17. immoral
 			1. immorally
 			2. immorality
-		13. demoralize, demoralization
-		14. demoralise
-		15. amoral, amoralis, amoralia
-	4. morale
-	5. mores
-	6. morose, moroseness
-	7. morosis
+		18. demoralize, demoralization
+		19. demoralise
+		20. amoral, amoralis, amoralia
+	2. morale
+		1. mor-道德 + -ale → [一群人]有道德精神 → 士气。
+		2.  来自 moral,道义，道德，-e,阴性格。用于军事行话指士气，道义力量，正义之师。
+		3. [esprit de corps](dic://esprit de corps), [team spirit](dic://team spirit)
+		4. _n._ [psychological state](dic://psychological state), [mental state](dic://mental state), [disposition](dic://disposition), [temperament](dic://temperament)
+		5. **self-esteem**自尊;**productivity**生产率, 生产力;**cohesion**内聚力;**self-confidence**自信;**teamwork**协力;**motivation**动机;**troops**部队;**boosting**助推，局部通风;**boost**促进;**attrition**消耗;**soldiers**士兵;
+		6. _good morale_ 高昂士气；昂扬士气
+		7. their morale was high. /他们士气高昂。
+		8. the morale of a school /学校的风纪
+		9. job fairs are a great morale booster. /人才交流市场大大地鼓舞了人心。
+		10. The morale of the enemy forces sank to a very low level /敌军士气十分低落。
+		11. In America and Britain surveys find plummeting morale. /在美国和英国的调查发现士气一落千丈。
+		12. And so she boosted my morale /所以她鼓舞了我的士气。
+	3. mores
+		1. n. 习惯, 道德态度, 惯例, 习俗
+		2. 来自拉丁语 mores,习惯，风俗，道德，来自 mos 的拉丁语复数形式，词源同 mood,moral,morose.
+		3. _n._ [convention](dic://convention), [normal](dic://normal), [pattern](dic://pattern), [rule](dic://rule), [formula](dic://formula)
+		4. **morals**道德;**morality**道德;**societal**社会的;**campfire**营火;**decadent**颓废的;
+		5. And they point to other Muslim countries that are shaking off old mores. /他们还指出，其他穆斯林国家正在摆脱旧习俗。
+		6. Likewise, for most people, religious or political convictions or sexual mores are considered private matters. /同样地，对大多数人而言宗教信仰、政治立场及性观念等话题也都属于个人隐私
+		7. And I think we have to understand that culture evolves with the new cultural mores. /我认为我们必须理解文化随着新的文化习俗而演变。
+		8. With these, we add the 'and' in the middle of the two 'mores'. /有了这些，我们在两个“更多”的中间添加了“和”。
+		9. And though her heroines might ridicule senseless social mores, Austen fully understood the practical importance of maintaining appearances. /虽然她的女主人公可能会嘲笑无谓的社交习俗，但奥斯汀完全理解保持外表的实际重要性。
+	4. morose, moroseness
+		1. mor-道德 + -ose表形容词
+		2. 来自拉丁语 moris,习惯，风俗，举止，词源同 moral,mores,moody.即合乎举止的，按风俗的，引申词义无所适从的，忧郁的，闷闷不乐的。
+		3. a. 阴郁的, 脾气不好的, 闷闷不乐的
+		4.  [dark](dic://dark), [dour](dic://dour), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen) 
+		5. _adj._ [ill-natured](dic://ill-natured)
+		6. _n._ [good-natured](dic://good-natured)
+		7. **melancholy**忧郁, 悲哀;**somber**昏暗的;**moody**喜怒无常的;**gloomy**黑暗的;**brooding**沉思的;**introspective**好反省的;**dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**depressing**令人沮丧的;**pessimistic**悲观的;**grim**冷酷的;
+		8. Hagrid was sitting alone in a corner, looking morose. /海格一个人闷闷地坐在角落里。
+		9. His face grew morose... and pleading. /他的表情变得乖僻起来… … 还有恳求。
+		10. " Oh...I see..." said Myrtle, picking at a spot on her chin in a morose sort of way. /“噢......明白了......”桃金娘说，一边忧郁地揪着自己下巴上的一个疙瘩。
+		11. The cosmonaut never got over what had happened that day. The wide smile faded, replaced by a morose expression. /自此加加林一直无法从那天发生的事情中恢复过来。他那灿烂的笑容消失了，取而代之的是一个忧郁的表情。
+		12. If he were less peevish and morose, all would be well. /如果他不那么暴躁和忧郁， 一切都会好起来的。
+		13. He seemed to be that morning even more morose and disagreeable than usual. /那天早上他似乎比平时更加​​阴郁和不愉快。
+		14. A servant, morose, with flowing side-whiskers and in a gray apron, entered. /一个忧郁的仆人进来了， 他留着飘逸的络腮胡子， 围着一条灰色围裙。
+		15. She was **morose**, pale, and reticent. /她闷闷不乐，面色苍白，沉默寡言。
+	5. morosis
+		1. mor-道德 + -osis表状况
+		2. 【医】 痴愚
 2. **mol-** = heap, 表示“堆”。源自拉丁语 moles "heavy bulk, mass, massive structure."
 	1. demolish
 		1. de-相反 + mol-堆 + -ish表动词 → 不成堆 → 破坏。
 	2. demolition
 		1. de-相反 + mol-堆 + -ition表名词。
-	3. molecule
+	3. mole (?)
+		1. 缩写自 molewarp,欧洲鼹鼠。后用于鼹鼠通用名。引申俚语义内奸。  
+		2. 来自拉丁语 moles,大块，防洪堤，大工程，大建筑物，来自 PIE`*`mo,努力，劳苦，词源同demolish,molecule,molest. 
+		3. 3 来自古英语 mal,斑点，痣，来自 Proto-Germanic*mailan,斑点，记号，来自 PIE*mai,涂沫，弄脏，玷污，词源同 miasma. 
+		4. 分子单位，缩写自 molecule.  
+		5. 来自西班牙语，来自南美土著语 molli,沙司，调料，炖料，词源同 guacamole.
+		6. n. 色素痣; 鼹鼠; 防波堤; 间谍, 内奸; 摩尔
+		7. mole（卧底）：间谍小说中双面间谍的代称  
+		8. mole本来指的是“鼹鼠”，一种穴居地下的小型哺乳动物。鼹鼠高超的掘洞技能给人们留下了深刻印象。早在17世纪时，就有人使用mole一词来表示卧底，但这种用法并不普遍。1974年，英国著名间谍及间谍小说作家约翰•勒卡雷（John le Carre）在其著名间谍小说《铁匠、裁缝、士兵和间谍》，用mole来表示打入敌人情报系统内部的双面间谍，从而使得该词深入人心，成为“双面间谍”、“卧底”的代名词。  
+		9. mole：[məʊl] n.鼹鼠，痣，双面间谍，卧底
+		10.  [gram molecule](dic://gram molecule), [mol](dic://mol)
+		11.  [counterspy](dic://counterspy)
+		12. [breakwater](dic://breakwater), [groin](dic://groin), [groyne](dic://groyne), [bulwark](dic://bulwark), [seawall](dic://seawall), [jetty](dic://jetty)
+		13. _n._ [metric weight unit](dic://metric weight unit), [weight unit](dic://weight unit), [spy](dic://spy), [undercover agent](dic://undercover agent), [sauce](dic://sauce), [blemish](dic://blemish), [defect](dic://defect)
+		14. **mol**摩尔;**rat**鼠;**molar**臼齿的;
+		15. _mole ratio_ [化]摩尔比；[化]克分子比
+		16. _mole fraction_ 摩尔分数；克分子分数
+		17. _hydatidiform mole_ 葡萄胎；水泡状胎块
+		18. _mole rat_ [动]鼹形鼠
+		19. a mole built into the sea /伸到海里的防波堤
+		20. A mole is a blemish on a person's skin /黑痣在人的皮肤上是一个疵点。
+		21. A mole can undermine the strongest rampart. /一只田鼠能毁坏最坚固的堡垒。
+		22. The mole bored its way underground. /鼹鼠在地下挖掘路。
+		23. A mole mines its way. /鼹鼠挖坑道。
+		24. You measured the diameter of his suspicious mole yesterday. /你昨天还测量了他可疑痣的直径。
+		25. We were sent to eliminate a mole  /我们是来清除内奸的。
+		26. molugram
+		27. molozonide
+		28. moloxide
+		29. molehill
+			1. _n._ [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hummock](dic://hummock), [hammock](dic://hammock)
+			2. **mountain**山脉;**mountains**山，山地，山脉，高山;
+			3. It’s not such a big problem! You’re making a mountain out of a molehill! /问题没有那么严重！你在小题大做！
+			4. She was only five minutes late, but he made a mountain out of a molehill about it. /她只不过迟到了五分钟, 但他却因此而大做文章。
+		30. molectronics
+			1. _n._ 分子电子学
+	4. molecule
 		1. mole-堆 + -cule小 → 很小的东西堆在一起 → 分子。
 		2. n. 分子, 些微
-		3. supermolecule
-		4. polarmolecule
-		5. molecular
-			1. unimolecular
-			2. supramolecular
-			3. polymolecularity
-			4. polymolecular
-			5. monomolecular
-			6. molecularity
-			7. macromolecular
-			8. intramolecular
-			9. intermolecular
-			10. gram-molecular
-			11. equimolecular
-			12. bimolecular
-		6. macromolecule
-		7. biomolecule
-		8. biomacromolecule
-	4. mole
+		3. n. 分子，摩尔；少量，一点儿；微小颗粒，微粒
+		4. [atom](dic://atom), [particle](dic://particle), [corpuscle](dic://corpuscle), [mote](dic://mote), [speck](dic://speck)
+		5. _n._ [unit](dic://unit), [building block](dic://building block), [material](dic://material), [stuff](dic://stuff)
+		6. [molecule](dic://molecule) 指物质中保持原物质的一切化学性质，能独立存在的最小微粒，即分子。  
+		7. [atom](dic://atom) 指元素的最小粒子，其体积比molecule小。  \
+		8. [particle](dic://particle) 指任何物质的微粒，引申指任何小的部分。  
+		9. [speck](dic://speck) 一般指“微点”或“微粒”，可引申指“斑点、污点”。  
+		10. [grain](dic://grain) 通常指能为肉眼清楚看到的颗粒，比上述几个词所表“粒”的体积大。
+		11. **ligand**配合基;**atom**原子;**peptide**肽;**ligands**配体;**monomer**单体;**enzyme**酶;**proteins**蛋白质;**molecular**分子的;**polypeptide**多肽;**protons**质子;**receptor**受体;
+		12. organic molecules are present in comets. /彗星上存在有机分子。
+		13. molecules with unpaired valence electrons. /带有不成对价电子的分子。
+		14. They are all chiral molecules and belong in the racemate. /它们都是手性分子,属于外消旋体。
+		15. Small molecule atomic particles, atoms extranuclear electron transfer. /分子原子小粒子，原子核外电子转。
+		16. Otter fur is spiky, so it traps insulating air molecules /海獭毛尖锐，能够困住保温空气分子。
+		17. supermolecule
+		18. polarmolecule
+		19. molecular
+			1. a. 分子的, 由分子组成的
+			2. _adj._ [molecule](dic://molecule)
+			3. **biochemical**生物化学的;**molecules**分子学;**cellular**细胞的;**molecule**分子;**genetic**遗传的;**biology**生物学;**biological**生物的;**chemical**化学制品，化学药品;**biochemistry**生物化学;**computational**计算的;**morphological**形态学的;
+			4. _molecular weight_ [化]分子量
+			5. _molecular biology_ [化]分子生物学
+			6. _molecular structure_ [化]分子结构
+			7. _high molecular_ 高分子的
+			8. _molecular sieve_ [化]分子筛
+			9. _molecular dynamics_ 分子动力学
+			10. _molecular level_ 分子水平
+			11. _molecular weight distribution_ [化]分子量分布
+			12. _molecular mass_ 分子质量；分子量
+			13. _molecular recognition_ 分子识别；分子认识
+			14. _molecular distillation_ [化]分子蒸馏；高真空蒸馏
+			15. _molecular genetics_ 分子遗传学
+			16. _relative molecular mass_ 相对分子质量
+			17. _average molecular weight_ 平均分子量
+			18. _molecular orbital_ 分子轨道
+			19. _ultra-high molecular weight polyethylene_ 超高分子量聚乙烯
+			20. _molecular diffusion_ 分子扩散
+			21. _molecular formula_ n. 分子式
+			22. _molecular interaction_ 分子间相互作用
+			23. _molecular ratio_ 分子比率
+			24. molecular entanglement /分子缠结
+			25. molecular conductivity /克分子电导率
+			26. determination of molecular structures. /对分子结构的确定。
+			27. a new molecular species /一种新分子。
+			28. estimating of molecular weight /分子量的计算
+			29. interactions between polymer and solvent at the molecular level. /聚合物和溶剂在分子水平上的相互作用。
+			30. ozone is produced by dissociation of molecular oxygen. /臭氧由分子氧离解而得。
+			31. Does all this molecular motion ever stop? /这种分子运动会停止吗？
+			32. 
+			33. unimolecular
+			34. supramolecular
+			35. polymolecularity
+			36. polymolecular
+			37. monomolecular
+			38. molecularity
+			39. macromolecular
+			40. intramolecular
+			41. intermolecular
+			42. gram-molecular
+			43. equimolecular
+			44. bimolecular
+		20. macromolecule
+		21. biomolecule
+		22. biomacromolecule
+	5. mole
 		1. molugram
 		2. molozonide
 		3. moloxide
 		4. moleskin
 		5. molehill
 		6. molectronics
-	5. molest
+	6. molest
 		1. 来自拉丁语 molestus,麻烦的，难以控制的，来自 moles,大块，词源同 mole,demolish.引申词义麻烦，烦恼，苦恼，后特别用于指性骚扰。
 		2. vt. 妨碍, 干扰, 调戏
 		3.  [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy), [chevy](dic://chevy), [chevvy](dic://chevvy), [beset](dic://beset), [plague](dic://plague), [provoke](dic://provoke)
@@ -4300,7 +4614,7 @@
 		10. unmolested
 		11. molestation
 		12. molester
-4. mood
+3. mood
 
 
 

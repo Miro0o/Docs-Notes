@@ -1955,6 +1955,7 @@
 	4. queerness
 	5. queerly
 	6. queerish
+		1. a. 有点古怪的, 有些可疑的, 有些不舒服的
 4. thwart
 	1. vt. 反对, 阻挠, 挫败  
 	2. n. 横坐板, 划手座  
