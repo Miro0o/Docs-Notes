@@ -1700,16 +1700,41 @@ tags: []
 		3. **indestructible**不可毁灭的，不能破坏的;**unstoppable**无法停止的;**immortal**长生的;**unbreakable**打不破的;**powerless**无力的;**superhuman**超人的;**omnipotent**全能的;**helpless**无助的;**fearless**无畏的;**impenetrable**不能穿过的;**impervious**不可渗透的,透不过的;
 		4. invincibly
 		5. invincibility
-	4. convict (verdict)
-		1.  [con](dic://con), [inmate](dic://inmate), [jail bird](dic://jail bird), [jailbird](dic://jailbird), [gaolbird](dic://gaolbird), [yard bird](dic://yard bird), [yardbi](dic://yardbird)
-		2. _n._ [prisoner](dic://prisoner), [captive](dic://captive), [wrongdoer](dic://wrongdoer), [offender](dic://offender)
-		3. _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge)
-		4. _n._ [acquit](dic://acquit), [assoil](dic://assoil), [clear](dic://clear), [discharge](dic://discharge), [exonerate](dic://exonerate), [exculpate](dic://exculpate)
-		5. **prison**监狱;**murderer**凶手;**conviction**确信, 坚定的信仰;**jail**监狱;**prisoner**囚犯，犯人;**inmate**同住者;**felon**重罪犯;**prosecution**起诉, 诉讼;**penal**刑罚的;**rapist**强奸犯;**acquittal**宣告无罪;
-		6. unconvicted
-		7. ex-convict
-		8. convictive
-		9. conviction
+	4. convict (verdict, exonerate, vindicate)
+		1. con-全部 + vict-征服 → 把对方彻底征服 → 证明[对方]有罪。
+		2. con-,表强调，-vict,胜利，词源同 evince,victory.该词主要用于法律用语。
+		3.  [con](dic://con), [inmate](dic://inmate), [jail bird](dic://jail bird), [jailbird](dic://jailbird), [gaolbird](dic://gaolbird), [yard bird](dic://yard bird), [yardbi](dic://yardbird)
+		4. _n._ [prisoner](dic://prisoner), [captive](dic://captive), [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+		5. _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge)
+		6. _n._ [acquit](dic://acquit), [assoil](dic://assoil), [clear](dic://clear), [discharge](dic://discharge), [exonerate](dic://exonerate), [exculpate](dic://exculpate)
+		7. **prison**监狱;**murderer**凶手;**conviction**确信, 坚定的信仰;**jail**监狱;**prisoner**囚犯，犯人;**inmate**同住者;**felon**重罪犯;**prosecution**起诉, 诉讼;**penal**刑罚的;**rapist**强奸犯;**acquittal**宣告无罪;
+		8. Injustice is about being wrongfully convicted. /不正义就是被错误的定罪。
+		9. Peter Greste was previously convicted, but deported as a foreigner. /彼得·格雷斯特此前已被定罪，但因为是外国人所以被驱逐出境。
+		10. Bill Cosby becomes the first celebrity to be convicted in the Me Too era. /Bill Cosby成为第一个在ME TOO运动期间被指控的名人。
+		11. The escaped **convict** was seized outside the city. /逃犯在城外被抓获。
+		12. Nosair would eventually be convicted for his involvement in the plot. /诺塞尔最终被指控参与这场犯罪谋划。
+		13. Now that he's been, uh, convicted, sure. /既然他已经被定罪了 这是板上钉钉的。
+		14. unconvicted
+		15. ex-convict
+		16. convictive
+			1. adj. 有说服力的；使人信服的；有定罪权力的
+			2. "I have seen those incrimination documents,which had convictive proof to prove you and another embezzled CNSA funs. /“我看过那些指控文件，那些说你和另一个人盗用国家航空航天局资金的很有说服力的证据。
+		17. conviction
+			1. _n._ [belief](dic://belief), [final judgment](dic://final judgment), [final decision](dic://final decision)
+			2. _n._ [acquittal](dic://acquittal)
+				1. [certainty](dic://certainty) 指在客观上和主观上都无一丝一毫的怀疑。  
+				2. [assurance](dic://assurance) 侧重依靠个人力量、本能、方法或对其他人或事的完全信任，强调有信心。  
+				3. [conviction](dic://conviction) 多指在理性基础上清除了原有的疑虑或无把握，着重对证据的主观反应
+			3. **acquittal**宣告无罪;**prosecution**起诉, 诉讼;**indictment**起诉;**felony**重罪;**belief**相信，信赖;**innocence**清白，无罪;**arrest**逮捕;**imprisonment**关押,监禁;**convict**证明…有罪;**manslaughter**过失杀人;**judgment**判断;
+			4. have the visceral conviction that .. /对...深有信心
+			5. This was her third conviction for cheating. /这是她第三次被判犯有欺诈罪。
+			6. she had a previous conviction for a similar offence /她曾有类似罪行的前科。
+			7. The conviction of the accused man surprised us. /s被告被判定有罪使我们吃惊。
+			8. His conviction caused rioting in the streets. /他被判有罪,引起了街头骚动。
+			9. Likewise, for most people, religious or political convictions or sexual mores are considered private matters./同样地，对大多数人而言宗教信仰、政治立场及性观念等话题也都属于个人隐私。
+			10. It requires internal conviction, a strong belief in oneself. /它需要内在的信念，对自己的坚定信念。
+			11. If there is a conviction there will be appeals. /如果一定罪就会有上诉。
+			12. You need that conviction that you are brilliant. /你要坚定相信自己是才华横溢的。
 	5. evict
 		11. _v._ [expel](dic://expel), [eject](dic://eject), [chuck out](dic://chuck out), [exclude](dic://exclude), [throw out](dic://throw out), [kick out](dic://kick out), [turf out](dic://turf out)
 		12. **eviction**逐出;**oust**剥夺;**vacate**空出，腾出;**expel**驱逐;**landlord**房东，老板;**demolish**毁坏;**tenant**房客;**tenants**房客;**evacuate**疏散;**invade**侵略;**harass**使烦恼;
@@ -1863,11 +1888,14 @@ tags: []
 		1. _[epopee](dic://epopee)_  叙事诗; 史诗;
 2. **voc-, vok-, vow-, voic-** = call, voice, 「Latin」vox, "voice"
 	1. vouch
-		1. vouchsafe, 
-		2. vouching, voucher, vouchee, 
-		3. unvouched
-		4. avouch, avouchment
-	2. avow, unavowed
+		1. 来自法语，来自词根voc-声音，指在法庭上宣誓，进而引申为担保、证明。
+		2. vi. 担保, 保证, 证明, 确定地说  
+		3. vt. 担保, 证明, 断定, 传唤...出庭作证
+		4. vouchsafe, 
+		5. vouching, voucher, vouchee, 
+		6. unvouched
+		7. avouch, avouchment
+	3. avow, unavowed
 		1. [affirm](dic://affirm), [verify](dic://verify), [assert](dic://assert), [aver](dic://aver), [swan](dic://swan), [swear](dic://swear)
 		2. [avouch](dic://avouch)
 		3. _v._ [declare](dic://declare), [admit](dic://admit), [acknowledge](dic://acknowledge)
@@ -1920,7 +1948,25 @@ tags: []
 		9. provocate
 		10. unprovoked, thought-provoking
 		11. provoking
-		12. provocative, provocation, provocateur
+			1. _adj._ [provocative](dic://provocative)
+			2. _n._ [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking)
+			3. **provocative**刺激的;**thought-provoking**引起思考的,发人深省的;**insightful**有深刻见解的;**enlightening**有启迪的;**stimulating**刺激的;**engaging**迷人的;**poignant**尖锐的;**entertaining**有趣的;**inciting**刺激的;**amusing**有趣的，好玩的;**inspiring**鼓舞人的;
+			4. You mean like provoking her to death? /你的意思是诱导她致死吗？
+			5. The dog is very dangerous when it is provoked. /狗被激怒时是非常危险的。
+			6. We publish new, thought provoking films every week. /每周我们都会发布思想激荡的新片。
+			7. I'm constantly surprised that women's hats do not provoke more murders. /我一直很奇怪，女人的帽子怎么会没给自己招来杀身之祸呢。
+		12. provocative
+			1. _adj._ [agitative](dic://agitative), [agitating](dic://agitating), [provoking](dic://provoking), [challenging](dic://challenging), [intriguing](dic://intriguing), [charged](dic://charged), [incendiary](dic://incendiary)
+			2. _n._ [unprovocative](dic://unprovocative), [unprovoking](dic://unprovoking), [unsexy](dic://unsexy)
+			3. **thought-provoking**引起思考的,发人深省的;**provoking**令人生气的;**irreverent**不敬的;**witty**诙谐的;**insightful**有深刻见解的;**controversial**有争议的, 引起争议的;**audacious**大胆的, 有冒险精神的;**edgy**尖利的;**confrontational**对抗;**subversive**破坏性的;**suggestive**提示性的;
+			4. be provocative of mirth /引人发笑
+			5. a provocative article 挑衅性文章。
+			6. his provocative remarks on race. /他对种族问题所作的挑衅性评论。
+			7. She wore a very provocative dress /她穿了一件非常性感的裙子。
+			8. Marianne, with her lush body and provocative green eyes /玛丽安娜有着性感的体形和勾人的碧眼。
+			9. It is at this point that the book becomes provocative./ 正是在这一点上，这本书变得有争议性。
+			10. That question has never been more pressing, or more provocative. /这个问题从未像现在这样不容忽视，也从未像现在这样引人深思。
+		13. provocation, provocateur
 	9. invoke (implore, entreat, )
 		1. 1 - in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引，提及。
 		2. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down), [arouse](dic://arouse), [bring up](dic://bring up), [put forward](dic://put forward), [call forth](dic://call forth)
@@ -1935,8 +1981,30 @@ tags: []
 			1. _adj._ 祈求的,祈愿的
 		13. invocation
 	10. revoke
-		1. unrevoked, revocatory, revocation
-		2. revokable, irrevocable
+		1. re-向后，往回 + vok-=voc-说话 → 引申词义撤消，废除。
+		2. vt. 撤回, 废除  
+		3. vi. 藏牌  
+		4. n. 藏牌
+		5.  [renege](dic://renege)
+		6.  [annul](dic://annul), [lift](dic://lift), [countermand](dic://countermand), [reverse](dic://reverse), [repeal](dic://repeal), [overturn](dic://overturn), [rescind](dic://rescind), [vacate](dic://vacate)
+		7. _n._ [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
+		8. _v._ [play](dic://play), [cancel](dic://cancel), [strike down](dic://strike down)
+		9. **revocation**废止;**suspend**延缓，推迟;**reinstate**使恢复原职;**terminate**结束;**amend**修正;**waive**放弃;**withhold**保留，不给;**granted**诚然;**permit**许可;**modify**修改，修饰;**withdraw**撤消
+		10. revoke an driving licence /吊销驾驶执照
+		11. revoke verbal evidence /翻供
+		12. an immigrant whose citizenship was revoked and who was expatriated because he had concealed his criminal record /这位移民因为隐瞒了犯罪的事实被取消了国籍并被驱逐出境。
+		13. unrevoked, revocatory, revocation
+		14. revokable
+		15. irrevocable
+			1. adj. <正式>不可更改的，不可取消的，无法挽回的
+			2. _adj._ [sealed](dic://sealed)
+			3. _n._ [revocable](dic://revocable), [revokable](dic://revokable)
+			4. **irreversible**不可逆转的;**unconditional**无条件的;**perpetual**永久的;**unequivocal**只有一种含意的;**beneficiary**受惠者;**revocation**废止;**everlasting**永恒的;**surrender**投降;**profound**深度的;**enforceable**可实施的;**eternal**永恒的;
+			5. _irrevocable letter of credit_ 不可撤销信用证
+			6. _irrevocable credit_ 不可撤销信用证
+			7. an irrevocable step. /决定性的一步。
+			8. We usually go for the irrevocable one, it's the most popular /我们通常选择不可撤销的那种，它是用得最多的。
+			9. A recognition of irrevocable change in the very public deadness of the deceased. /承认死者在公共死亡方面发生不可逆转的变化。
 	11. evoke
 		1.  [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [fire](dic://fire), [raise](dic://raise), [provoke](dic://provoke)
 		2.  [provoke](dic://provoke), [call forth](dic://call forth), [kick up](dic://kick up)
@@ -1965,19 +2033,34 @@ tags: []
 			4. politicians who are equivocal about racism /对种族主义闪烁其词的政客。
 			5. The evidence from bacteriologic analysis was equivocal /这一细菌学分析的证据是不明确的。
 			6. The evidence for the enhanced importance of cooperativeness across different interdependent contacts was more equivocal./在不同的相互依存的接触中，对于合作的重要性增强的证据是更加模棱两可的。
-		8. equivocator, equivocation
-		9. unequivocal, unequivocally, 
-		10. equivocality
+		8. equivocator
+		9. equivocation
+			1. _n._ [misrepresentation](dic://misrepresentation), [deceit](dic://deceit), [deception](dic://deception), [untruthfulness](dic://untruthfulness), [ambiguity](dic://ambiguity), [equivocalness](dic://equivocalness), [falsification](dic://falsification)
+			2. **ambiguity**歧义;**contradiction**矛盾;**fallacy**谬论，谬误;**falsehood**谎言;**unequivocal**只有一种含意的;**implication**暗示;**assertion**主张,维护;**dishonesty**不诚实的行为;**misrepresentation**不实的陈述;**hyperbole**夸张的语句;**accusation**指责;
+			3. Thus, by an unconscious equivocation, we arrive at the conclusion that whatever we can apprehend must be in our minds. /因此，通过一种无意识的模棱两可， 我们得出这样的结论：无论我们能理解什么， 都必须在我们的脑海中。
+			4. It’s pretty inadequate for practical application and it leaves plenty of room for equivocation. /它对于实际应用来说是相当不足的，并且它留下了很大的模棱两可的空间。
+		10. unequivocal, unequivocally
+			1. _adj._ [absolute](dic://absolute), [conclusive](dic://conclusive), [straightforward](dic://straightforward), [unquestionable](dic://unquestionable), [explicit](dic://explicit), [expressed](dic://expressed)
+			2. _n._ [equivocal](dic://equivocal), [ambiguous](dic://ambiguous), [implicit](dic://implicit), [inexplicit](dic://inexplicit)
+			3. **unambiguous**不含糊的;**emphatic**加强语气的;**unequivocally**不含糊的;**conclusive**令人信服的,确凿的;**emphatically**断然地;**assertion**主张,维护;**resounding**鸣响的,回响的,回荡的,响亮的;**clear**清楚的;**unmistakable**错不了的;**definitive**权威性的;**unwavering**不动摇的,坚定的;
+			4. _[unequivocal](dic://unequivocal)_  adj. 明确的；不含糊的
+			5. _[unequivocal acceptance](dic://unequivocal%20acceptance)_  不含糊接收; 明确接收;
+			6. an unequivocal answer. ./明确无误的回答。
+			7. it was, foremost, the first unequivocal demonstration of the process. /最重要的是，这是首次明确示范这一过程。
+			8. he was unequivocal in condemning the violence. /他旗帜鲜明地谴责暴力。
+			9. war merits unequivocal and unhesitating condemnation /战争应受到直截了当和毫不犹豫的谴责。
+			10. He only stated his unequivocal opinion of herself, her actions, her house and her new friends. /他只用毫不含糊的言词评论她本人，她的活动，她的房子，她的新朋友。
+		11. equivocality
 			1. _[equivocality](dic://equivocality)_  n. 多义性；模棱两可
-		11. equivoque
+		12. equivoque
 			1. _[equivoque](dic://equivoque)_  n. 双关语；措辞含糊（等于equivoke）
-		12.  equivoke
-		1. _[equivoke](dic://equivoke)_  n. 双关语（模棱两可的话）
+		13.  equivoke
+		14. _[equivoke](dic://equivoke)_  n. 双关语（模棱两可的话）
 	13. semivocal
 		1. _[semivocal](dic://semivocal)_ 半元音的; 半圆音的; 半圆音;
 	14. subvocal
 	15. univocal
-		1. 1. admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
+		1. admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
 			1. an unequivocal (or univocal) statement
 			2. _synonymous：_ [unequivocal](dic://unequivocal), [unambiguous](dic://unambiguous)
 		2. _adj._ [absolute](dic://absolute), [conclusive](dic://conclusive), [straightforward](dic://straightforward), [unquestionable](dic://unquestionable)
@@ -1994,12 +2077,72 @@ tags: []
 		3. _n._ [occupation](dic://occupation), [business](dic://business), [job](dic://job), [line of work](dic://line of work), [line](dic://line), [body](dic://body)
 		4. **profession**职业;**priesthood**神职;**priestly**祭司的;**vocational**职业的;**holiness**神圣;**seminary**神学院;**discernment**识别能力;**pastoral**田园的;**spirituality**精神性,灵性;**ministry**部门;**apostolic**使徒的;
 		5. vocative
-	20. vociferance, vociferant, vociferate
-		1. vociferator, vociferation
-		2. vociferous
-	21. vocoder
-	22. voice
-	23. vowel, semivowel
+	20. vociferate
+		1. voc-声音，呼唤 + fer-带来 + -ate, 表动词
+		2. v. （抱怨地）喊叫，大叫，大声呼叫
+		3. _v._ [express](dic://express), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [utter](dic://utter), [give tongue to](dic://give tongue to)
+		4. **loudly**大声地，响亮地;**indignation**愤怒, 愤慨, 气愤;**denounce**谴责;**refrain**制止;**howl**怒吼;**tremble**战栗;**wailing**哭号;**angrily**愤怒地;**shouts**叫喊，突发的大笑;**yell**大叫，叫喊;**incessantly**不断地,不停地;
+		5. he then began to vociferate pretty loudly 然后他开始大声叫骂。
+		6. He beamed and vociferated and, forgetting my English reluctance, embraced me warmly on the platform. /他微笑着大喊大叫， 忘记了我英国人的不情愿， 在讲台上热情地拥抱了我。
+		7. vociferance, vociferant
+		8. vociferator, vociferation
+		9. vociferous
+			1. adj. 大声叫的，喊叫的，喧嚷的；激昂的
+			2. _adj._ [noisy](dic://noisy)
+			3. _n._ [quiet](dic://quiet)
+			4. **outspoken**直言的;**fervent**强烈的;**ardent**热情的;**staunch**坚固的;**opposition**反对;**impassioned**充满激情的, 热烈的;**rabid**激烈的;**enthusiastic**满腔热情的, 热心的;**zealous**热心的，热情的，积极的;**forceful**有说服力的;**boisterous**热闹的;
+			5. the view of a small but vociferous minority /人数少但高声喧嚷者的观点
+			6. he was a vociferous opponent of the takeover. /他是此次接管的强烈反对者。
+			7. a strident voice. Something clamorous is both vociferous and sustained: /刺耳的嗓音。 Clamorous 同时表示叫嚣的和持续的：
+			8. Vegans might well be vociferous and annoying, holier-than-thou, self-satisfied and evangelical /纯素食主义者很可能大声疾呼、令人讨厌、假仁假义、自我满足，还狂热鼓吹。
+				1. Julian was an early, vociferous campaigner for endangered animals and a founder of the modern conservation movement. /朱利安是早期的濒危动物积极活动家，也是现代保护运动的创始人。
+				2. The Mallards are vociferous, waddling through the puddles. /绿头鸭大声喧哗，摇摇晃晃地穿过水坑。
+				3. There was a clear and vociferous faction in Athens when the Parthenon was built, which said the money shouldn't be spent that way. /神庙修建时，雅典城内反对的声音很大，认为不能这样挥霍钱财。
+				4. Joining him in the Forward Party is a former New Jersey governor Christine Todd Whitman, who was a republican turned vociferous critic of former president Donald Trump. /加入进步党的还有前新泽西州州长克里斯汀·托德·惠特曼，他是一名共和党人，后来成为前总统唐纳德·特朗普的激烈批评者。
+	22. vocoder
+	23. voice
+		1. 和词根voc-【声音】有关。在希腊神话里，斯腾托尔（Stentor）是个勇敢的战士，他有着一副铜嗓子，他一个人喊起来，可以抵得上50个人的声音，后来就用voice of Stentor表示“大嗓门”。
+		2. n. 声音, 嗓音, 嗓子, 愿望, 发言权, 表达, 喉舌, 语态  
+		3. vt. 表达, 吐露, 调音
+		4. n. 嗓音，说话声，歌唱声；发言权，表达意愿的权利；愿望，意见，呼声；（突然闪现的）想法，感觉；代言人，喉舌；（语法）语态；（语音）浊音；（文学作品或作者的）独特风格；（乐曲）声部；单音，单声 
+		5. v. 表达，吐露（感情或意见）；（语音）发浊音；（乐）给（管风琴）调音
+		6.  [vocalization](dic://vocalization), [vocalisation](dic://vocalisation), [vocalism](dic://vocalism), [phonation](dic://phonation), [vox](dic://vox)
+		7. [articulation](dic://articulation)
+		8. [part](dic://part)
+		9. [sound](dic://sound), [vocalize](dic://vocalize), [vocalise](dic://vocalise)
+		10. _n._ [sound](dic://sound), [communication](dic://communication), [expression](dic://expression), [verbal expression](dic://verbal expression), [verbalism](dic://verbalism), [means](dic://means), [agency](dic://agency)
+		11. _v._ [express](dic://express), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [utter](dic://utter), [give tongue to](dic://give tongue to), [pronounce](dic://pronounce), [articulate](dic://articulate)
+		12. _n._ [devoice](dic://devoice)
+		13. **vocal**歌唱的;**baritone**男中音;**voiceover**解说者的声音;**muffled**听不清的;**whisper**私语;**tone**音调;**voice-over**画外音;**audible**听得见的;**singing**歌声;**sound**使发声;**mute**哑的;
+		14. the voice of the nation /国民的意见
+		15. a lone voice of dissent /反对者孤独的呼声
+		16. his voice was muffled .他压低了声音。
+		17. the voice was mellifluous and smooth. .嗓音甜美圆润。
+		18. The advertiser has a gentle voice and a radiant smile /那个报幕员嗓音柔和，笑容灿烂。
+		19. voiceprint
+			1. _n._ [biometric identification](dic://biometric identification), [biometric authentication](dic://biometric authentication), [identity verification](dic://identity verification)
+			2. **biometric**计量生物学的;**fingerprint**指纹;**voice**声音;**identification**确认;**microphone**扩音器, 麦克风;**verification**确认;**authentication**证明,鉴定;**caller**
+			3. voiceprinting
+			4. voiceprinter
+		21. voiceless
+		22. voiceful
+			1. adj. 有声的；大声的
+		23. voiced
+		24. voice-over
+		25. unvoice
+			1. vt. 使清音化；使变成无声
+			2. We do that when the sound before is unvoiced. /当其前面的音为不发音时，我们会这样做。
+			3. And a 'th' at the end of a word is usually unvoiced. /单词末尾的“th”音一般也都是清辅音。
+			4. unvoiced
+		27. thick-voiced
+		28. subvoice
+		29. pseudovoice
+		30. outvoice
+		31. gravel-voiced
+	24. vowel
+		1. n. 元音  
+		2. a. 元音的
+		3. semivowel
 
 
 ### ⭐ + \*wel- +
@@ -3993,44 +4136,125 @@ tags: []
 6. work
 	1. wrought
 7. wright
+	1. 来自古英语 wryhta,工人，词源同 work,wrought.
+	2. n. 制作者, 工人
+	3. wheelwright
+	4. wainwright
+	5. shipwright
+	6. ploughwright
+	7. playwright
+	8. millwright
+	9. cartwright
 
 
 ### + \*were-o- +
 1. **ver-** = true, 表示“真实”。源自拉丁语 versus "true"
-	1. veracious, veracity
-		1. _adj._ [truthful](dic://truthful), [true](dic://true), [accurate](dic://accurate)
-		2. _n._ [untruthful](dic://untruthful), [inaccurate](dic://inaccurate)
-		3. **truthful**诚实的;**veracity**诚实;**perceptive**敏感的;**prodigious**巨大的;**astute**机敏的;**ardent**热情的;**indubitably**无疑地;**artful**狡猾的;**imaginative**富于想像力的;**inquisitive**好问的;**shrewd**精明的;
-		4. _[veracious](dic://veracious)_  adj. 诚实的；真实的
-		5. inveracity
-	3. aver
-		1.  [allege](dic://allege), [say](dic://say)
-		2.  [affirm](dic://affirm), [verify](dic://verify), [assert](dic://assert), [avow](dic://avow), [swan](dic://swan), [swear](dic://swear)
-		3. _v._ [assert](dic://assert), [asseverate](dic://asseverate), [maintain](dic://maintain), [declare](dic://declare)
-		4. **profess**公开表示;**ere**在…以前;**allege**宣称，断言;**affirm**断言;**doubtless**无疑地, 肯定地;**oft**再三;**assert**断言;**lo**瞧！看！;**concede**承认;**notwithstanding**尽管;**professed**公开声称的,伪称的,已立誓信教的;
-		5. - let's repeat. You averred to it /我们来重申一下。你刚进行了肯定。
-		6. She averred she would not go an inch, not for a dozen Charleses /她宣称，即使有十个查尔斯，她也一步都不走了。
-		7. averment
-	4. verdict
-		1. **acquittal**宣告无罪;**jury**陪审团;**judgment**判断;**trial**试验;**ruling**统治的，支配的;**judgement**判断;**conviction**确信, 坚定的信仰;**judge**判断;**plea**恳求，请求;**court**法院;**indictment**起
-		2. a verdict for the plaintiff /有利于原告的裁决
-		3. the verdict of history. /历史的定论
-		4. veridical
-		5. veridically
+	1. veracious, veracity (velocious, vociferous, voracious, atrocious, ferocious)
+		1. _adj._ (指人)诚实的
+		2. _adv._ 诚实地
+		3. _n._ 诚实
+		4. _adj._ [truthful](dic://truthful), [true](dic://true), [accurate](dic://accurate)
+		5. _n._ [untruthful](dic://untruthful), [inaccurate](dic://inaccurate)
+		6. **truthful**诚实的;**veracity**诚实;**perceptive**敏感的;**prodigious**巨大的;**astute**机敏的;**ardent**热情的;**indubitably**无疑地;**artful**狡猾的;**imaginative**富于想像力的;**inquisitive**好问的;**shrewd**精明的;
+		7. _[veracious](dic://veracious)_  adj. 诚实的；真实的
+		8. She was not absolutely veracious; but this defect was of no great consequence, for she had never had anything to conceal. /她并不绝对诚实。但这个缺陷并不重要，因为她从来没有什么要隐瞒的。
+		9. Its stunning illustrations depicted stages of development of Suriname's veraciouscaterpillars and vibrant butterflies, as well as many other creatures from this exotic habitat. /它令人惊叹的插图描绘了苏里南真实的毛毛虫和充满活力的蝴蝶、以及来自这个异国栖息地的许多其他生物的发展阶段。
+		10. Kalman filter is used to predict and track markers, making the tracking of markers more **veracious** /利用卡尔曼滤波算法进行标记点预测和跟踪，提高了跟踪的准确性。
+		11. Such conviction stems from his keen focus and **veracious** tenacity. /如此的犯罪手法来源于他的专注以及坚韧不拔。
+		12. inveracity
+			1. n. 虚伪；无诚意
+			2. 
+	2. aver
+		1. vt. 断言, 坚称
+		2. a-去，往 + ver-真实，确认。
+		3.  [allege](dic://allege), [say](dic://say)
+		4.  [affirm](dic://affirm), [verify](dic://verify), [assert](dic://assert), [avow](dic://avow), [swan](dic://swan), [swear](dic://swear)
+		5. _v._ [assert](dic://assert), [asseverate](dic://asseverate), [maintain](dic://maintain), [declare](dic://declare)
+		6. **profess**公开表示;**ere**在…以前;**allege**宣称，断言;**affirm**断言;**doubtless**无疑地, 肯定地;**oft**再三;**assert**断言;**lo**瞧！看！;**concede**承认;**notwithstanding**尽管;**professed**公开声称的,伪称的,已立誓信教的;
+		7. let's repeat. You averred to it /我们来重申一下。你刚进行了肯定。
+		8. She averred she would not go an inch, not for a dozen Charleses /她宣称，即使有十个查尔斯，她也一步都不走了。
+		9. But, then, a voice within me averred that I could do it and foretold that I should do it /但是，然后，我内心的一个声音断言我可以做到，并预言我应该这样做。
+		10. He said I was a capricious witch, and that he would rather sing another time; but I averred that no time was like the present /他说我是个任性的女巫，他宁愿改天再唱。但我断言没有时间比现在更
+		11. averment
+			1. n. 断言，坚称
+			2. [assertion](dic://assertion), [asseveration](dic://asseveration)
+			3. _n._ [declaration](dic://declaration)
+			4. **appellant**上诉人;**petitioner**请愿人;**plaintiff**原告;**affidavit**宣誓书;**allegation**陈述, 宣称, 辩解;**respondent**被告;**aforesaid**上述的;**defendant**被告;**assertion**主张,维护;**objection**反对, 异议;**complainant**发牢骚的人,原告;
+			5. Everybody agree them, without Joan, she is having a **averment** /所有人都同意，除了贞德，她申辩着。
+			6. Please sign the letter of statement and **averment**. /请在陈述申辩书上签字（ 盖章）。
+	3. verdict
+		1. ver-/verit-（真实）：真理女神维瑞塔斯  
+		2. 在罗马神话中有一位真理女神，叫做维瑞塔斯（Veritas）。她是农神萨图恩的女儿，美德女神（Virtue）的母亲，对应于希腊神话中的真理女神阿莱西娅（Aletheia）。有人认为,她藏於圣井的底部，因为她很难以捉摸。她的形象通常呈现为一个身著白衣的年轻处子。  
+		3. 在拉丁语中，veritas就是“真理、真相”的意思，来自形容词verus（真实的）。拉丁语谚语in vino veritas（in wine truth）就是“酒后吐真言”的意思。哈佛大学的校训就是veritas（真理），醒目地摆放在校徽中。很多大学的校训中也能找到veritas一词，如耶鲁大学的校训就是Lux et Veritas (Light and Truth，光明和真理)。  
+		4. 英语词根ver-/verit-就来源于拉丁语verus和veritas，由此衍生出不少与“真实、真理”相关的单词。  
+		5. ver-/verit-：真实、真理  
+		6. veritas：[,verɪ'tæs]  n. （拉）真理；真相；真实  
+		7. very：['vɛri]  adj. 恰好是，正是；甚至；十足的；特有的adv. 非常，很；完全  
+		8. verify：['vɛrɪfaɪ] vt. 核实；查证
+		9. verification：[,vɛrɪfɪ'keʃən] n. 确认，查证；核实  
+		10. verdict： ['vɝdɪkt] n. 结论；裁定  
+		11. veridical：[vɪ'rɪdɪk(ə)l] adj. 不虚伪的；诚实的  
+		12. veracity：[və'ræsəti] n. 诚实；精确性；老实；说真实话  
+		13. veracious：[və'reʃəs] adj. 诚实的；真实的  
+		14. verism：['viərizəm] n. 真实主义，写实主义  
+		15. aver：[ə'vɜː] vt. 断言，极力声明；主张
+		16. [finding of fact](dic://finding of fact)
+		18. **acquittal**宣告无罪;**jury**陪审团;**judgment**判断;**trial**试验;**ruling**统治的，支配的;**judgement**判断;**conviction**确信, 坚定的信仰;**judge**判断;**plea**恳求，请求;**court**法院;**indictment**起
+		19. a verdict for the plaintiff /有利于原告的裁决
+		20. the verdict of history. /历史的定论
+		21. The verdict was that the prisoner was guilty. /判决是犯人有罪。
+		22. the jury returned a verdict of not guilty. /陪审团作出无罪裁定。
+		23. veridical
+			1. _adj._ [realistic](dic://realistic)
+			2. _n._ [unrealistic](dic://unrealistic)
+			3. **perceptual**知觉的,有知觉的;**recollection**回忆, 追忆;**perception**感知;**observable**观察得到的;**experiential**经验的,经验上的,根据经验的;**subjective**主观的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**stimuli**刺激;**transcendental**超凡的;**astral**星的;**illusion**幻觉，错觉;
+			4. _[veridical](dic://veridical)_  adj. 不虚伪的；诚实的
+			5. _[veridical perception](dic://veridical%20perception)_  真实知觉
+			6. The victim is willing and able to provide **veridical** testimony. /受害者愿意并且能够真实地作证。
+			7. Challenges to **veridical** description and meaningful interpretation come from several sources /关于真实的描述和有意义解释的挑战来自多个方面。
+			8. Some of the most revered and wealthiest people mastered the skill of presenting a less than **veridical** version of reality. /就连一些最受尊敬和最富有的人，也熟练掌握了给真相添枝加叶、添油加醋的本事。
+		24. veridically
+	4. very
+		1. 真正的, 恰好的, 十足的, 特有的  
+		2. ad. 非常, 完全
+		3. adv. （用于强调形容词或副词）很，非常；极其，完全地；<非正式>显著的，典型的；显然，确实，真正地 
+		4. adj. 同一的，恰好的，正是的；（加强名词的语气）仅仅的，唯独的，甚至于；（强调极限的地点或时间）最……的，极端的，十足的；最远端的，末端的；<古>真正的，真实的；最佳的，最合适的
+		5. [identical](dic://identical), [selfsame(a)](dic://selfsame(a))
+		6. [really](dic://really), [real](dic://real), [rattling](dic://rattling)
+		7. _adj._ [precise](dic://precise), [same](dic://same)
+		8. _n._ [imprecise](dic://imprecise), [other](dic://other)
+			1. [too](dic://too) 指超过了承受能力或程度，即程度加到了不适当的地步。  
+			2. [very](dic://very) 用于加强程度，可修饰褒义词和贬义词。
+		9. **extremely**极端;**quite**很;**incredibly**极其;**fairly**公平地;**extraordinarily**非常;**pretty**漂亮的;**amazingly**令人惊奇地;**exceptionally**格外地;**remarkably**引人注目地;**awfully**可怕地;**unbelievably**难以置信地;
+		10. They are very hospitable. 他们很好客。
 	5. veriest
-	6. verify
-		1. verifying
-		2. verifier
-		3. verified
-		4. verification
-		5. verifiable
-		6. verifiablity
-		7. unverifiable
-		8. autoverify
-	7. verily
+		1. The veriest coward would accept the challenge. /就是那最懦弱的胆小鬼也会接受这种挑战。
+		2. The veriest simpleton knows that. /最笨的呆子也知道这点。
+		3. everyone but the veriest greenhorn knows by now. /现在除了完全的生手，其他人都明白了。
+	6. verify (justify)
+		1. v. 核实，查证；证明，证实
+		2. [control](dic://control)
+		3. [affirm](dic://affirm), [assert](dic://assert), [avow](dic://avow), [aver](dic://aver), [swan](dic://swan), [swear](dic://swear)
+		4. _v._ [confirm](dic://confirm), [corroborate](dic://corroborate), [sustain](dic://sustain), [substantiate](dic://substantiate), [support](dic://support), [affirm](dic://affirm), [test](dic://test)
+			1. [confirm](dic://confirm) 侧重以事实或以不容置疑的陈述来证实某事的正确与真实。  
+			2. [verify](dic://verify) 强调以具体的事实和细节为证据
+		5. **confirm**确认;**validate**确认;**ascertain**弄清, 确定, 查明;**verification**确认;**substantiate**用事实支持;**check**证明无误;**authenticate**证明是真实的、可靠的或有效的;**determine**决定;**certify**证明;**evaluate**评价;**checking**校验，抑制，龟裂，检查，裂纹;
+		6. _examine and verify_ 审核；审计
+		7. Finally, variance analysis is used to verify the validity of the crytic model. /最后，利用方差分析周期检验方法作了印证性讨论。
+		8. conducted experiments to verify the hypothesis /进行实验以证实这个假设
+		9. VOA was unable to independently verify the accounts. /VOA无法独立核实这些说法。
+		10. verifying
+		11. verifier
+		12. verified
+		13. verification
+		14. verifiable
+		15. verifiablity
+		16. unverifiable
+		17. autoverify
+	8. verily
 		1. Verily, this vichyssoise of verbiage veers most verbos /说实话，这段啰嗦的大杂烩变得无比冗长。
 		2. I verily believe they are as honest, and mean as well as any other folks. /我真的认为他们都很诚实，不像其他人那样卑鄙。”
-	8. verisimilar
+	9. verisimilar
 		1. _adj._ [probable](dic://probable), [likely](dic://likely)
 		2. _n._ [improbable](dic://improbable), [unlikely](dic://unlikely)
 		3. **indubitably**无疑地;**assemblage**聚集;**contrived**不自然的;**believable**可信的;**moreover**此外;**artful**狡猾的;**precisely**精确地;**imaginative**富于想像力的;**fantastical**空想的,捕风捉影的;**likewise**也;
@@ -4051,11 +4275,10 @@ tags: []
 		6. This area of the law is a veritable mare’s nest. /这一法律领域复杂难料。
 		7. beat his opponent in the match to a veritable fare-thee-well. /在比赛中给他的对手致命的一击
 	12. verity
-		1.  [truth](dic://truth), [the true](dic://the true), [trueness](dic://trueness)
+		1. [truth](dic://truth), [the true](dic://the true), [trueness](dic://trueness)
 		2. _n._ [actuality](dic://actuality), [truth](dic://truth)
 		3. **variety**种类;**veracity**诚实;**multiplicity**多样性;**multitude**大量, 许多;**truth**事实;**validity**有效性;**truths**真相;
 		4. Such are the verities of which I have to convince you /这就是我必须让你信服的事实。
-	13. very
 2. warlock
 	1. 1. a male witch or demon
 	2. _[warlocks](dic://warlocks)_  n. 术士；施术者（warlock的复数）

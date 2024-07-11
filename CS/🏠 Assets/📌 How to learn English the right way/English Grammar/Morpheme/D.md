@@ -688,7 +688,7 @@
 		2. dandelion（蒲公英）：叶子像狮子牙齿的植物  
 		3. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。  
 		4. dent-：齿，牙齿，锯齿，凹痕  
-		5. dandelion：['dændɪlaɪən] n.蒲公英  
+		5. dandelion：['dændɪlaɪən] n.蒲公英
 		6. dental：['dɛntl] adj. 牙科的；牙齿的，牙的n. 齿音  
 		7. dentist：['dɛntɪst] n. 牙科医生  
 		8. denture：[ˈdɛntʃɚ] n. 齿列，托牙；一副假牙  

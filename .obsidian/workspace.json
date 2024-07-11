@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md"
               }
             }
           },
@@ -223,21 +223,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96bd21c913780996",
+  "active": "1500e25fcbd57748",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
     "Assets/Archive/Curriculums/SCU/CS/Shell/misc.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
     "CS/🗺 CS Overview/CS of The Year/Untitled.table",
     "CS/🗺 CS Overview/CS of The Year/Daily Schedule.md",
     "CS/🗺 CS Overview/CS of The Year/2024.md",
@@ -251,8 +253,6 @@
     "Entrepreneurship/Entrepreneurship.md",
     "CS/🗺 CS Overview/Institutes & Organizations in CS & IT.md",
     "CS/🗺 CS Overview/🥂 Welcome to CS.md",
-    "CS/🗺 CS Overview/🤯 Awesome List.md",
-    "CS/🏠 Assets/Study, University, and Education/对计算机科学的思考.md",
     "Assets/Pics/Pasted image 20240706141804.png",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.png",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.svg",

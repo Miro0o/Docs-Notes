@@ -697,27 +697,110 @@
 	4. stun
 		1. stunning
 		2. stunner
-	5. detonate, 
-		4. [explode](dic://explode), [blow up](dic://blow up), [set off](dic://set off)
-		5. [explode](dic://explode), [blow up](dic://blow up)
-		6. _v._ [change integrity](dic://change integrity)
-		7. **explode**爆炸，爆发;**bomb**轰炸，投弹于;**explosive**爆炸的, 爆发的;**grenade**手榴弹;**dynamite**炸药;**grenades**手榴弹;**ignite**点燃;**nuke**核武器;**disarm**解除武装;**explosion**爆炸;**incendiary**放火的
-		8. detonable
+	5. detonate
+		1. de-强调 + ton-打雷 + -ate, 表动词。
+		2. de-,向下，表强调，-ton,打雷，爆炸，词源同 thunder,astonish.即爆掉，引爆。
+		3. vt. 引爆, 使爆炸, 使爆裂  
+		4. vi. 爆炸, 发爆炸声
+		5. [explode](dic://explode), [blow up](dic://blow up), [set off](dic://set off)
+		6. [explode](dic://explode), [blow up](dic://blow up)
+		7. _v._ [change integrity](dic://change integrity)
+		8. **explode**爆炸，爆发;**bomb**轰炸，投弹于;**explosive**爆炸的, 爆发的;**grenade**手榴弹;**dynamite**炸药;**grenades**手榴弹;**ignite**点燃;**nuke**核武器;**disarm**解除武装;**explosion**爆炸;**incendiary**放火的
+		9. _[detonating fuse](dic://detonating%20fuse)_  n. 导爆索；引爆信管
+		10. _[detonating relay](dic://detonating%20relay)_  迟发导爆线装置；[军][矿业] 起爆继电器
+		11. _[detonating agent](dic://detonating%20agent)_  起爆剂；传爆剂
+		12. _[detonating explosive](dic://detonating%20explosive)_  爆轰炸药，起爆炸药
+		13. _[detonating cord](dic://detonating%20cord)_  [军][矿业] 导爆索，引爆线
+		14. _[detonating cap](dic://detonating%20cap)_  发火帽,雷管
+		15. _[detonating capacity](dic://detonating%20capacity)_  起爆能力
+		16. _[detonating combustion](dic://detonating%20combustion)_  爆震燃烧
+		17. _[detonating composition](dic://detonating%20composition)_  起爆粉
+		18. The workmen detonated the dynamite. /工人们把炸药引爆了。
+		19. the craft detonated in a blaze of red and yellow. /那艘船爆炸后燃起了红黄色的熊熊大火。
+		20. Liberative energy can ignite or detonate combustible &explosive steam and sensitive detonator when the body static electricity is too high. /影响人体静电积累的因素很多,人员着装是其中一个重要因素。
+		21. The use of Ice Block, Divine Shield, Cloak of Shadows, and other similar spells and abilities will no longer prematurely detonate High Astromancer Solarian's Wrath of the Astromancer spell. /现在使用寒冰屏障、神圣之盾、暗影披风以及其他类似技能/法术不再会提前引爆大星术士索拉里安的“星术士之怒”法术。
+		22. Some of the explosive didn't detonate and the building stayed standin /有些炸药没有爆炸，大楼也没有倒下。
+		23. Four policemen were killed when he detonated his explosive belt. /他引爆了身上的炸弹腰带，4名警察当场死亡。
+		24. So tell us what we know. Where was this truck detonated, first of all? /请先介绍一下我们了解到的情况。第一个问题，卡车在哪里被引爆？
+		25. It's equivalent to detonating 400 billion one megaton nuclear bombs every single second. /这相当于每秒钟引爆4000亿枚百万吨级核弹。
+		26. detonable
+		27. detonator
+		28. detonation
+			1. _n._ [discharge](dic://discharge), [explosion](dic://explosion), [burst](dic://burst)
+			2. **explosion**爆炸;**explosive**爆炸的, 爆发的;**bomb**轰炸，投弹于;**grenade**手榴弹;**blast**爆炸;**ignition**点火，点燃;**fireball**火球;**dynamite**炸药;**nuke**核武器;**fission**分裂;**incendiary**放火的;
+			3. _detonation wave_ 爆震波
+			4. _detonation velocity_ 爆炸速度；起爆速度
+			5. buildings and streets convulsed by the detonation of a bomb; /因炸弹爆炸而剧烈震动的楼房和街道；
+			6. a series of deafening detonations was heard. /听到了一连串震耳欲聋的爆炸声。
+			7. The detonation took place very late at night. /爆炸发生在深夜。
+			8. Fifteen seconds to Atomic Cauldron detonation. /原子反应釜十五秒后爆炸。
+			9. Nuclear detonations produce a flash of gamma rays, the highest energy form of light. /核爆炸产生了伽马射线光，是光的最高能量形式。
 	6. stentor
-		1. _n._ [speaker](dic://speaker), [talker](dic://talker), [utterer](dic://utterer), [verbalizer](dic://verbalizer), [verbaliser](dic://verbaliser), [mythical being](dic://mythical being), [ciliate](dic://ciliate)
-		2. **horn**角;**baritone**男中音;**trumpet**喇叭;
-		3. stentorophonous
-		4. stentorophonic
-		5. stentorin
-		6. stentorian
-	7. tornado
-		1. _n._ [cyclone](dic://cyclone), [cocaine](dic://cocaine), [cocain](dic://cocain)
-		2. **hurricane**飓风;**storm**暴风雨;**thunderstorm**雷电交加的暴风雨;**storms**暴风雨;**cyclone**气旋;**typhoon**台风;**earthquake**地震;**cyclones**旋风;**snowstorm**暴风雪,雪崩;**blizzard**暴风雪，大风雪;**quake**颤抖;
+		1. n. 声音洪亮的人；喇叭虫属
+		2. _n._ [speaker](dic://speaker), [talker](dic://talker), [utterer](dic://utterer), [verbalizer](dic://verbalizer), [verbaliser](dic://verbaliser), [mythical being](dic://mythical being), [ciliate](dic://ciliate)
+		3. **horn**角;**baritone**男中音;**trumpet**喇叭;
+		4. stentorophonous
+		5. stentorophonic
+		6. stentorin
+		7. stentorian
+	8. tornado
+		1. n. 龙卷风，大旋风；极具破坏力的人（或物），情感火爆的人 
+		2. 【名】 （Tornado）（西）托纳多（人名）
+		3. [twister](dic://twister)
+		4. [crack](dic://crack)
+		5. _n._ [cyclone](dic://cyclone), [cocaine](dic://cocaine), [cocain](dic://cocain)
+		6. **hurricane**飓风;**storm**暴风雨;**thunderstorm**雷电交加的暴风雨;**storms**暴风雨;**cyclone**气旋;**typhoon**台风;**earthquake**地震;**cyclones**旋风;**snowstorm**暴风雪,雪崩;**blizzard**暴风雪，大风雪;**quake**颤抖;
+		7. a tornado of sexual confusion./ 惊世骇俗的性乱。
+		8. The tornado spread destruction./ 暴风造成的破坏蔓延开来
+		9. A tornado ravaged the countryside /一阵摧毁了乡村的龙卷风\
+		10. The Tornado jet fighter-bomber has two air intakes. /旋风式喷气轰炸机有两个空气入口。
+		11. Then I'd know why god sent us this tornado. /难怪上帝要带给我们这场龙卷风。
+		12. The storm spawned a tornado described as large and extremely dangerous. /人们说风暴引发的龙卷风风力很大，极其危险。
 2. blunderbuss
+	1. _n._ [musket](dic://musket)
+	2. **shotgun**霰弹猎枪;**cannon**大炮;**revolver**左轮手枪;**rifle**步枪;**weapon**武器，兵器;**pistol**手枪;**cannons**大炮;**gunpowder**火药;**pistols**手枪;**axe**斧;**gun**
 3. dunderhead
+	1. _n._ [simpleton](dic://simpleton), [simple](dic://simple)
+	2. **moron**痴愚者;**idiot**白痴;**clueless**无线索的;**idiocy**白痴;**inept**不适当的;**incompetent**无能力的;**idiotic**白痴的;**pompous**浮夸的;**ignorant**无知的;**bastard**私生的;**idiots**白痴，极蠢的人;
+	3. [thunderhead](dic://thunderhead)n. (雷暴前常见的)雷暴云砧,雷雨云砧,圆块积云
+	4. _[dunderhead](dic://dunderhead)_  n. 笨蛋；傻瓜
 4. Thor
-5. tunder
+5. thunder
+	1. thundery
+	2. thunderstruck
+	3. thunderstorm
+	4. thundershower
+	5. thunderous
+		1. _adj._ [loud](dic://loud), [unpropitious](dic://unpropitious)
+		2. _n._ [soft](dic://soft), [propitious](dic://propitious)
+		3. **deafening**震耳欲聋的;**roar**吼;**ferocious**残忍的;**rumbling**隆隆声;**thump**重击;**raucous**沙哑的;**roaring**兴胜的;**rousing**活泼的;**thunder**雷;**resounding**鸣响的,回响的,回荡的,响亮的;**thumping**巨大的;
+		4. thunderous applause. /雷鸣般的掌声
+		5. The stillness was rent by thunderous applause. /雷鸣般掌声打破了寂静。
+		6. Robin's thunderous mood hadn't lightened. /罗宾怒气未消。
+		7. The thunderous echoes of what sounded like repeated blasts have rattled across the capital. /像是持续爆炸的雷鸣般的响声传遍了整个首都。
+	6. thundering
+	7. thunderhead
+	8. thunderer
+		1. _n._ [Jupiter](dic://Jupiter), [Jove](dic://Jove), [noisemaker](dic://noisemaker)
+		2. **thunder**雷;**Zeus**宙斯;**warrior**战士，勇士;**lightning**闪电;**serpent**蛇;**barbarian**野蛮人;**mighty**有力的;**boar**野猪;**spear**矛，枪;**raven**掠夺，劫掠;**deity**神;
+		3. Do I not read in you the stories of Jove the thunderer--and the adulterer? /我难道没有在你身上读过雷神朱庇特和通奸者的故事吗？
+	9. thundercloud
+	10. thunderclap
+	11. thunderbolt
+	12. thunderbird
+		1. _n._ [spirit](dic://spirit), [disembodied spirit](dic://disembodied spirit)
+		2. **chrome**铬，铬合金;**totem**图腾;**Firefox**火狐浏览器;**ford**浅滩;
+		3. And there was one thunderbird that was more thunderous than the rest /有一只雷鸟的声音比其他的鸟都要响亮。
+	13. thunder-gust
+	14. thunder-and-lightning
 6. Thursday
+	1. Thursday（星期四）：雷神托尔  
+	2. 托尔Thor是北欧神话中的雷神，掌管战争和农业。他是主神奥丁的长子，其母为大地女神。他是神族中最为强壮的勇士，具有呼风唤雨的能力。他的职责是保护诸神国度的安全和在人间巡视农作。相传每当雷雨交加时，就是托尔乘坐马车出来巡视，因此北欧人称呼托尔为“雷神”。托尔的武器是一只可以发出致命闪电的大铁锤，其实就是雷电的象征。无论托尔把这只铁锤扔出去多远，它总是会像回旋飞镖一样飞回托尔的手上。另外，他还拥有一条能够提升力量的腰带。  
+	3. 在神和巨人族的终极一战中，雷神托尔和他的宿敌巨蟒展开了惊天动地的决战。经历了激战之后，托尔使出致命一击杀死了巨蟒，不过他也因碰到了从巨蟒的伤口里流出的剧毒液体，而付出了生命的代价。  
+	4. 在西方文明中，一周的第五天献给雷神。因此，在古英语中，星期四以北欧神话中的雷神托尔来命名，称为。英语中表示星期四的单词Thurresdæg，字面意思就是Thor's day（托尔之日），在现代英语中拼写为Thursday。  
+	5. Thor：[θɔ:] n.雷神托尔  
+	6. thunder：['θʌndɚ] n. 雷；轰隆声；恐吓vi. 打雷；怒喝vt. 轰隆地发出；大声喊出  
+	7. Thursday：['θə:zdi; -dei]n.星期四
 
 
 ### ⭐ + \*ten- + = to stretch
