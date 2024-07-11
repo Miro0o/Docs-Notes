@@ -488,11 +488,28 @@ sarcomas
 
 
 ### oner- = load, 表示“负担”。源自希腊语 onus (词干 oner-) "burden."
-1. exonerate
+1. exonerate (vindicate, convict, verdict)
 	1. ex-出 + oner-负担 + -ate, 表动词 → 从负担中摆脱出来 → 无罪释放。
-	2. **convict**证明…有罪;**discredit**败坏…的名声;**prosecute**检举、告发某人;**wrongdoing**坏事;**accuse**控告，指控;**condemn**判刑，定罪;**blame**责备;**prove**证明;**punish**严厉对待;**prosecution**起诉, 诉讼;**acquittal**宣告无罪;
-	3. exonerative
-	4. exoneration
+	2. _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge)
+	3. **convict**证明…有罪;**discredit**败坏…的名声;**prosecute**检举、告发某人;**wrongdoing**坏事;**accuse**控告，指控;**condemn**判刑，定罪;**blame**责备;**prove**证明;**punish**严厉对待;**prosecution**起诉, 诉讼;**acquittal**宣告无罪;
+	4. to exonerate sb. from blame /宽免某人的罪责
+	5. No. But I'm sure he'll be exonerated. Mike could never do something that awful. /不清楚，不过我相信他是清白的。麦克是绝不会干出那种事的。
+	6. It will help convict the guilty, as well as exonerate the innocent. /这将有助于准确定罪，还无辜者清白。
+	7. exonerative
+	8. exoneration
+		1. [vindication](dic://vindication)
+		2. _n._ [condition](dic://condition), [status](dic://status), [clearing](dic://clearing)
+		3. **acquittal**宣告无罪;**prosecution**起诉, 诉讼;**conviction**确信, 坚定的信仰;**verdict**裁定;**murder**谋杀，凶杀;**wrongdoing**坏事;**indictment**起诉;**innocence**清白，无罪;**convict**证明…有罪;**reinstatement**复职;**condemnation**谴责;
+		4. _[exoneration clause](dic://exoneration%20clause)_ 免责条款
+		5. _[exoneration matter](dic://exoneration%20matter)_ 免责事由
+		6. _[exoneration of bail](dic://exoneration%20of%20bail)_ 免除保释金
+		7. _[exoneration from liability](dic://exoneration%20from%20liability)_ 责任限制
+		8. _[expiation exoneration extricat](dic://expiation%20exoneration%20extricat)_ 赎罪
+		9. The president, though, says this is complete exoneration, using that word specifically. /不过，总统称这是彻底无罪，他特别提到了这个词。
+		10. President Trump is calling the Mueller report a total exoneration. /特朗普总统称穆勒的报告是“完全的无罪释放”。
+		11. Furthermore, in some cases after a sufficient period of good behavior, rise forbearance can to exoneration and full forgiveness. /而且，有时候经过足够长时间的优秀表现，宽容会变为免责和完全原谅。
+		12. We should be fighting for total exoneration. /我们应该争取无罪释放。
+		13. 
 3. onerous (ominous)
 	1. **burdensome**繁重的,烦累的,难以承担的;**cumbersome**笨重的;**arduous**费力的;**time-consuming**耗费时间的;**tedious**冗长乏味的;**costly**昂贵的;**laborious**勤劳的;**burdened**负荷的;**daunting**使人畏缩的;**prohibitive**禁止的;**draconian**非常严厉的;
 4. onus

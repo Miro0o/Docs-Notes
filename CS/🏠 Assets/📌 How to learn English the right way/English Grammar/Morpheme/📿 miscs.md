@@ -2416,12 +2416,25 @@ dally
 - [trifle](dic://trifle), [play](dic://play)
 - [act](dic://act), [move](dic://move), [behave](dic://behave), [do](dic://do), [talk](dic://talk), [speak](dic://speak), [consider](dic://consider)
 - _dally with_ 漫不经心地对待；调戏
+- he should stop dallying with film stars. /他该停止与电影明星的不严肃调情。
+- don't dilly-dally for too long. /别磨蹭太久。
+- the company has been dallying with the idea of opening a new office. /公司对开设新分支的事一直是设想而已。
+- Anyway, it's very common for young women to dally or try things /总而言之 年轻女性想尝试其他东西很正常。
+- Experience in other Latin American countries suggests that Mr Pena's people risk dallying with a monster. /其他拉美国家的经历表明墨西哥人民将玩火自焚。
+- So, a parent could warn a child, " Don't dally at the playground after school. Come straight home" ! 因此，家长可以警告孩子，" 放学后不要在操场上闲逛。直接回家！"
+- It seems only logical that to restore balance to the relationship, you should find another man and dally with him. /如果想重修旧好，唯一合理的办法就是你也找别的男人耳鬓厮磨。
+- I'm hungry; please don't dally in the galley. /我饿了;请不要在厨房里闲逛。
+- And by dally, I mean some hardcore mouth-on-mouth action. /我说耳鬓厮磨 是使出浑身解数狂吻一番。
 
 Damascus
 - 叙利亚古城，以出产丝织品和钢铁著称。
 - n. 大马士革
 
-dapple
+dapple\
+- n. 斑纹；花马 
+- adj. 有斑纹的 
+- vt. 使有斑点 
+- vi. 起斑纹
 - [spot](dic://spot), [speckle](dic://speckle), [patch](dic://patch), [fleck](dic://fleck), [maculation](dic://maculation)
 - [mottle](dic://mottle), [cloud](dic://cloud)
 - _n._ [marking](dic://marking)
@@ -2430,11 +2443,53 @@ dapple
 - _[dapeche dapple](dic://dapeche%20dapple)_ 有斑纹的
 - _[apple dapple virus](dic://apple%20dapple%20virus)_ 苹果斑纹病毒
 - _[dapple fleck patch streak stripe](dic://dapple%20fleck%20patch%20streak%20stripe)_ 斑纹
+- the floor was dappled with pale moonlight. /地板上斑驳散落着苍白的月光。
+- The dappled horse now began to go ahead. /花斑马开始领先了。
+- I started dappling with NFTs during the pandemic. /在疫情期间，我开始用 NFT 创作。
+- The courtyard, dappled in the morning light, was silent but for the soft rustle of the leaves in the breeze. /院子里，晨光斑驳，静悄悄的，只有树叶在微风中沙沙作响。
+- " Or not" . Jojen's face was dappled with green shadows. " Prince Bran has heard that tale a hundred times, I'm sure" . / 也许不是。" 玖健脸上点缀着斑斑驳驳的绿影。" 这故事布兰王子肯定听过一百遍了。"
+- He stretched his lithe young muscles, the moonlight filtering through the foliage from above dappling his brown skin with little patches of light /他伸展着柔软的年轻肌肉， 月光从上方透过树叶， 在他棕色的皮肤上洒下斑驳的光斑。
+-  I swear me" . The Magnar's promise was a white cloud in the air. Snow dappled his shoulders. His ears were red. " By the red god's flames, I warm her all her days" /" 我起誓。" 马格拿的承诺化为空中的白雾，雪花斑斑点点洒在他肩上，他双耳冻得通红。" 以红神的火焰之名，我将温暖她一生。"
+
+dander
+- n. 头皮屑, 漫步; v. 漫步, 闲逛
+- n. 皮屑，头皮屑（等于dandruff）；[口]怒气；（苏格兰）闲逛；（英）颤抖
+- vi. 说话语无伦次；闲逛
+- [hackles](dic://hackles)
+- _n._ [scale](dic://scale), [scurf](dic://scurf), [exfoliation](dic://exfoliation), [anger](dic://anger), [choler](dic://choler), [ire](dic://ire)
+- **allergy**过敏症;**dust**灰尘;**allergic**对…过敏的;**mites**螨虫类;**pet**宠物;**lint**软麻布;**pollen**传授花粉给;**pets**宠物;**sneezing**打喷嚏;**hairs**毛茸;**grime**尘垢;
+- What got their dander up? /谁惹他们发火了?
+- he dandered in to change his coat. /他晃进来换外套。
+- Dust mites eat animal dander, human skin, and some fungi. /尘螨吃动物皮屑、人体皮肤和一些真菌。
+- And just for the record, labradoodles are hypo-allergenic, which is a very sexy quality to those troubled by animal dander. /顺便告诉你们 拉布拉多犬是防过敏的 这对于那些深受动物毛屑困扰的人来说很性感。
+- But justice was justice and my dander was up. /但正义就是正义， 我的皮屑起来了。
+- Allergies: Some individuals may be allergic to pet dander, which can cause discomfort or health issues in the household. /4. 过敏：有些人可能对宠物皮屑过敏，这会导致家庭不适或健康问题。
+
+dandle
+- 可能来自拟声词，摇摇晃晃的声音。
+- v. 摇逗（放在膝上的孩子）；上下轻摇；宠溺，纵容
+- _v._ [move](dic://move), [displace](dic://displace), [caress](dic://caress)
+- **bosom**胸;**kneel**跪下，跪;**knee**膝盖，膝;**papa**<口>爸爸;**tickle**使发痒;
+- _[Love dandle partner](dic://Love%20dandle%20partner)_ 爱宠伴侣
+- _[love dandle countries](dic://love%20dandle%20countries)_ 爱宠国
+- _[Dandle in the Wind](dic://Dandle%20in%20the%20Wind)_ 风中之烛
+- He dandled the baby to make him stop crying. /他颠动着婴儿, 哄他不再哭。
+-  Lord Bronn would sound better. I could grab the boy for you just as well. I'll dandle him on my knee and sing him nursery songs if there's a lordship in it" /" 波隆伯爵听起来更好。抢孩子这种事我也能做。只要能弄个爵位玩玩，要我抱着他唱摇篮曲都行。"
+
+dandruff
+- dander
 
 dandy
+- n. 好打扮的男子；花花公子；华丽物品，极品；登革热 
+- adj. 上等的，极好的；服装华丽的；与花花公子有关的
 - [dude](dic://dude), [fop](dic://fop), [gallant](dic://gallant), [sheik](dic://sheik), [beau](dic://beau), [swell](dic://swell), [fashion plate](dic://fashion plate), [clotheshorse](dic://clotheshorse)
 -  [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [great](dic://great), [groovy](dic://groovy), [keen](dic://keen), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
 - **fine**好的;**handy**手边的，就近的;**nifty**俏皮的;**darned**岂有此理的;**neat**整洁的;**gentleman**绅士;**damned**该死的;**fancy**想像力;**fella**<俚>伙伴;**alright**没问题的;**gentlemen**阁下,先生,有身份的人,绅士,男厕所,男盥洗室;
+- Oh, well, where is he? - Fussing. He's rather a dandy. /那他人呢？- 还在捯饬，人家讲究着呢。
+- Let's look at the handy dandy map. /我们来看看地图。
+- Just then a dandy gentleman came into the shop. /就在这时，一位花花公子的绅士走进了商店。
+- So all fine and dandy on the solo music production /所以独奏音乐制作一切顺利。
+- It doesn't make me look like a bit of a dandy? /也没什么不好啊？
 - dandyism
 - dandyish
 - dandify
@@ -2442,8 +2497,16 @@ dandy
 - dandiacal
 
 daunt
+- v. 使胆怯，使气馁；威吓
+- [dash](dic://dash), [scare off](dic://scare off), [pall](dic://pall), [frighten off](dic://frighten off), [scare away](dic://scare away), [frighten away](dic://frighten away), [scare](dic://scare)
+- _v._ [intimidate](dic://intimidate), [restrain](dic://restrain)
 - **frighten**使惊吓;**overwhelm**覆盖, 淹没;**frustrate**使不成功, 挫败, 阻止;**tempt**诱惑;**deter**制止，阻止;**dare**的风险;**excite**刺激…，使…兴奋;**disappoint**使失望;**scarcely**简直没有;**formidable**可怕的;**dared**敢于;
--  [dash](dic://dash), [scare off](dic://scare off), [pall](dic://pall), [frighten off](dic://frighten off), [scare away](dic://scare away), [frighten away](dic://frighten away), [scare](dic://scare)
+- a daunting task. /使人畏惧的任务。
+- some people are daunted by technology. ./有些人被科技吓倒。
+- She was not at all daunted by the size of the problem. /她一点也不为问题的严重性所吓倒。
+- We shouldn't be daunted by the challenges we face. /严峻的挑战不会击垮我们。
+- The reader, like Turrou in the dimly lit interrogation room, is suddenly daunted by the scale of the Nazi scheme. /读者就像在昏暗的审讯室里的图鲁一样，突然被纳粹计划的规模吓坏了。
+- Nothing daunted, Anne proceeded onward to the church alone /安妮丝毫没有气馁，独自继续前往教堂。
 
 damp
 - **wet**潮湿的;**dry**干的;**humid**潮湿的;**moist**潮湿的;**soggy**浸水的;**windy**多风的，有风的;**chilly**寒冷的，凉飕飕的;**dusty**落满灰尘的;**cold**寒冷的;**sweaty**出汗的;**warm**温暖的;
@@ -2460,12 +2523,16 @@ dear
 	- Now, don't listen to him, Pheebs, all right? I think it's endearing. 不，别听他的，菲比，好吗？ 我觉得那很可爱。
 - deary
 -  dearth
+	- 来自dear, 贵重，珍贵。
 	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
 	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
 	- [famine](dic://famine), [shortage](dic://shortage), [paucity](dic://paucity)
 - dearness
 - dearly
 - darling
+	- 来自 dear,亲爱的，-ling,小词后缀。
+	- n. 亲爱的, 可爱的人, 可爱的物  
+	- a. 可爱的, 亲爱的
 
 deft
 - **masterful**善于控制别人的;**skillful**熟练的;**artful**狡猾的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**knack**诀窍;**finesse**纤细;**wry**面部肌肉扭曲
@@ -2538,7 +2605,7 @@ doom
 - dhe-
 
 douse
-- 1 - 词源不详，可能来自拟声词。
+- 词源不详，可能来自拟声词。
 - vt. 插入水中, 浇(或洒、泼)水在...上, 熄(灯、火等), 平息  vi. 浸泡  
 - n. 泼洒
 -  [put out](dic://put out)
@@ -8010,6 +8077,7 @@ owe
 - owing
 
 own
+- 来自古英语 agan,拥有，所有，来自 Proto-Germanic*aigan,占有，来自 PIE*aik,掌握，掌管，词源同 ought,owe.
 - n. 自己的  
 - a. 自己的, 嫡亲的, 同胞的  
 - vt. 拥有, 支配, 自认, 承认, 顺从于  
@@ -8023,6 +8091,13 @@ own
 	- I'm still waiting for someone to **own** **up** to the breakages /我还在等着有人承认把东西打碎了。
 	- The teacher is waiting for someone to **own** **up** to the graffiti. /老师在等着有人承认乱涂乱画的行为。
 	- People sometimes make mistakes, but the important thing is that they **own** **up** to what they've done. /人们有时会犯错，但重要的是承认自己所做的事情。
+- No company online should **own** **you**. /没有一家在线公司能占有你的数据。
+- I **own** **you** an apology /我欠你一个道歉。
+- You poor sucker, I'll practically own you. .笨蛋，你注定为我做牛做马。
+- The things you own end up owning you /“你拥有的东西最终会拥有你。”
+- _[It's enough to own you](dic://It%27s%20enough%20to%20own%20you)_ 这足以给自己你；它的不足以自己你；够了
+- _[But you own the place](dic://But%20you%20own%20the%20place)_ 但是我对你；但你仍占有那位置；但是你拥有这个地方；但是你属于这里
+- 
 - unowned
 - owner
 	- shipowner
@@ -8072,9 +8147,48 @@ pampas
 pander (pamper)
 - pant- Pandora
 
+pane
+- n. 窗玻璃, 方框, 方格, 窗格  
+- vt. 嵌窗玻璃于
+- windowpane
+- panel
+	- subpanel
+	- panelist
+		- n. 专门小组成员；专题讨论小组参加者（等于 panellist）
+		- _n._ [critic](dic://critic)
+		- **presenter**主持人;**commentator**评论员;**attendee**出席者;**panel**仪表板;**moderator**调解人;**columnist**专栏作家;**lecturer**讲师，演讲者;**speaker**扬声器;**guest**客人，宾客;**participant**参与者;**keynote**主音;
+		- Recently, the panelist of American country academy of sciences made public the more to this kind of curassow to study a result /近期,老美国家科技院的学者小组亮相了对此类大鸟的更加多探讨结果。
+		- In hindsight, I appreciate my fellow panelist's candor /事后想想，我很感激这个女人的坦率。
+		- Let's, uh, just jump right into it and meet our panelists. /我们直接步入正题，欢迎今天的座谈嘉宾们。
+		- The panelists are urging an international effort to combat climate change /小组成员敦促国际社会努力对抗气候变化。
+	- paneless
+		- adj. 无窗格玻璃的
+	- impanel
+		- v. 选任（陪审员），把（某人）选入陪审团
+		- [empanel](dic://empanel)
+		- [empanel](dic://empanel), [panel](dic://panel)
+		- _v._ [list](dic://list), [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out)
+		- **jury**陪审团;**appoint**任命;**convene**召集，集合;**jurors**陪审员;**preside**主持，担任会议主席;**committee**委员会;**juror**审查委员，陪审员;**subcommittee**小组委员会;**convened**集合;**compel**强迫，迫使;
+		- A grand jury is being impaneled, looking into you. /法院已经在组建大陪审团 调查你了。
+		- 
+	- empanel
+- paned
+- counterpane
+	- n. 床罩；床单
+	- _n._ [bedclothes](dic://bedclothes), [bed clothing](dic://bed clothing), [bedding](dic://bedding)
+	- **duvet**羽绒被;**handkerchief**手帕;**pillow**枕头;**linen**亚麻布，亚麻线;**blanket**毛毯，毯子;**shawl**围巾，长方形披巾;**pillows**靠垫;**bed**床;**blankets**毛毯;**muslin**平纹细布;**lacy**花边的;
+	- Melanie lay in the bed, her figure under the counterpane shrunken and flat like a little girl's. /媚兰躺在床上，床罩底下萎缩单薄的形体就像是个小女孩似的。
+	- He gathered up the torn counterpane, threw it into a drawer, and hastily smoothed down the bed. /他把撕破的床单捡起来，扔进抽屉里，然后急忙把床铺平。
+	- He dragged the counterpane from his bed, and with frantic haste began tearing off a strip. /他从床上拖下被单，开始疯狂地撕下一条。
+
 parchment
+- _n._ 羊皮纸
+- 羊皮纸古文稿
+- 上等纸;印在上等纸上的正式文字
 - 来自拉丁语 pergamena,来自希腊语 Pergamon,小亚细亚古国 Mysia 城市名，位于现土耳其境内 Bergama.因产于该地而得名，埃及纸莎草替代书写材料。拼写通俗化。
 - The parchment came to bits in my hands /羊皮纸在我手中成了碎片。
+- He unfolded the parchment and hastily added a postscript. /他展开羊皮纸，又匆匆加了几句话。
+- Knowing a thing or two about American history, he purchased the parchment for $2.48. /因为他知道一点点美国历史他花了2.48美元买下了这本羊皮卷。
 - parchmentize
 	- parchmentized
 	- _parchment paper_ （假）羊皮纸

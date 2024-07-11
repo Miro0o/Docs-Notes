@@ -3453,12 +3453,26 @@
 			16. acupressure
 			17. acufilopressure
 		5. pressing
-			1. _n._ [push](dic://push), [pushing](dic://pushing), [part](dic://part), [portion](dic://portion)
-			2. _adj._ [imperative](dic://imperative)
-			3. _n._ [beseeching](dic://beseeching)
-			4. **button**按钮;**tapping**出渣;**facing**饰面;**pushing**莽撞的;**squeezing**挤;**addressing**寻址;**push**推动;**buttons**纽扣;**tackling**装备，用具;**holding**支持;**rubbing**摩擦;
-		6. press-up
-	3. compress
+			1. adj. （问题，需求，情况）紧迫的，迫切的；难以推却的，不容忽视的 
+			2. n. 压制品，一批压制品（尤指唱片）；按，压，挤，推 
+			3. v. 按，压；熨平（衣服）；挤着走（pressing 的现在分词形式）
+			4. _n._ [push](dic://push), [pushing](dic://pushing), [part](dic://part), [portion](dic://portion)
+			5. _adj._ [imperative](dic://imperative)
+			6. _n._ [beseeching](dic://beseeching)
+			7. **button**按钮;**tapping**出渣;**facing**饰面;**pushing**莽撞的;**squeezing**挤;**addressing**寻址;**push**推动;**buttons**纽扣;**tackling**装备，用具;**holding**支持;**rubbing**摩擦;
+			8. a pressing invitation. /恳切的邀请
+			9. inflation was the most pressing problem /通货膨胀是最为紧迫的问题。
+			10. problems pressing for solution /急待解决的问题
+			11. Shoes are pressing on my toes. /鞋子太挤脚。
+			12. they rarely bestir themselves except in the most pressing of circumstances. /他们只有在压力很大的环境中才会发奋起来。
+			13. She kept pressing home the point that more money should be spent on education. /她坚持强调自己的观点，认为应加大对教育的投资。
+			14. It was an ordinary window, against which now the night was pressing blackly. /这只是一扇普通的窗户，窗外是漆黑的夜晚。
+			15. We're finding they're gradually pressing their boundaries /我们发现，它们正在逐渐突破自己的界限。
+			16. This question is especially pressing for the lawmakers known as the front liners. /对于被称为前线派的议员来说，这个问题尤其紧迫。
+		7. press-up
+			1. _n._ [arm exercise](dic://arm exercise)
+			2. **squat**蹲，蹲下;**squats**蹲起;**squatting**蹲;**exercise**练习;**posture**姿势;**workout**试验;**gymnast**体操运动员;**postures**姿势，态度;**kneeling**跪着，跪下;**biceps**二头肌，强健的筋肉;**warm-up**准备动作;
+	2. compress
 		1. uncompress
 		2. decompress
 		3. compressure
@@ -3469,7 +3483,7 @@
 		8. compressing
 		9. compressible
 		10. compressed
-	4. depress
+	3. depress
 		1. vasodepressor
 		2. manic-depressive
 		3. depressor
@@ -3479,7 +3493,7 @@
 		7. depressing
 		8. depressible
 		9. depressant
-	5. express
+	4. express
 		1. unexpressed
 		2. superexpress
 		3. overexpress
@@ -3492,18 +3506,18 @@
 		10. expressible
 		11. expresser
 		12. expressage
-	6. impress
+	5. impress
 		1. etc... (todo)
-	7. oppress
+	6. oppress
 		1. oppressor
 		2. oppressive
 			1. **repressive**镇压的;**tyrannical**暴君的,暴君似的;**stifling**沉闷的;**oppression**压迫手段;**authoritarian**权力主义的,专制的;**totalitarian**极权主义的;**tyranny**暴政;**unjust**不公平的，不公正的;**overbearing**专横的,傲慢的;**coercive**强制的;**patriarchal**家长的;
 			2. _adj._ [heavy](dic://heavy), [domineering](dic://domineering)
 		3. oppression
-	8. hot-press
-	9. key-press
-	10. letterpress
-	11. clothespress
+	7. hot-press
+	8. key-press
+	9. letterpress
+	10. clothespress
 3. print
 #### + \*per- (5) + = to traffic in, to sell
 1. **porn-** = prostitute, sell, 表示“妓女，卖”。源自希腊语 porne "prostitute," 源自 pernanai "to sell."

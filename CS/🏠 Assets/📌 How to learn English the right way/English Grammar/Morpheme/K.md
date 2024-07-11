@@ -1814,9 +1814,19 @@
 		2. **liturgy**礼拜仪式;**Eucharist**圣餐;**sacrament**圣事,圣礼;**educate**教育;**teach**教;**priests**牧师;**clergy**牧师;**instruct**命令;**communion**交流;**parish**教区;**preach**说教;
 		3. catechism, catechist, catechetical
 	24. catheter
-		1. cata-,向下，-het,扔，投掷，词源同 jet,project. cata-,向下，-het,扔，投掷，词源同 jet,project.
-		2. _n._ [tube](dic://tube), [tubing](dic://tubing)
-		3. **cannula**套管，插管;**stent**支架;**lumen**流明;**suture**缝合;**syringe**注射器;**distal**末梢的，末端的;**prosthesis**弥补;**sheath**鞘;**bladder**膀胱;**tubing**管子;**ablation**切除;
+		1. [美 /'kæθɪtɚ/](cmd://Speak/_us_/catheter)
+		2. cata-,向下，-het,扔，投掷，词源同 jet,project. cata-,向下，-het,扔，投掷，词源同 jet,project.
+		3. _n._ 导尿管,尿液管,导管
+		4. _n._ [tube](dic://tube), [tubing](dic://tubing)
+		5. **cannula**套管，插管;**stent**支架;**lumen**流明;**suture**缝合;**syringe**注射器;**distal**末梢的，末端的;**prosthesis**弥补;**sheath**鞘;**bladder**膀胱;**tubing**管子;**ablation**切除;
+		6. _indwelling catheter_ [医]留置导管
+		7. _urethral catheter_ 尿道导管
+		8. _balloon catheter_ 气囊导管，气泡式导管
+		9. _foley catheter_ [外科学]弗利导管；导尿管
+		10. Methods Review and retrospectively analyze the clinical outcomes of 586 patients after super lubricious balloon lactoprene urethral catheter engagement. /方法对586例留置超滑乳胶气囊导尿管患者进行观察,回顾分析。
+		11. We're using three different catheters. Why are we doing that, Dr. Stevens? /我们用了3种不同的导尿管。我们为什么要那么做，Stevens 医生？
+		12. Is it possible that the catheter punctured his bladder? /有没有可能是导尿管刺穿了他的膀胱？
+		13. Are you cool with bedpans, catheters, or, going back to diapers? /你是用尿盆，导尿管还是骑尿布？
 	25. cathedral, cathedra
 		1. _n._ [church](dic://church), [church building](dic://church building)
 		2. _adj._ [cathedra](dic://cathedra), [bishop's throne](dic://bishop's throne)
@@ -1828,19 +1838,39 @@
 		6. _[florence cathedral](dic://florence%20cathedral)_  佛罗伦萨大教堂
 		7. etc.. 
 	26. cathode
-		1. cata-,向下，-hod,走，路，词源同 accede,anode,method.
-		2. _cathode ray_ 阴极射线
-		3. _cold cathode_ [电]冷阴极
-	29. cation
-		1. ion ['aɪən] n.[化学] 离子。字面意：正在离开的颗粒。印欧根i-,ei-,表示go，而ion是希腊语中表go的现在分词，即ion=the going one。希腊前缀ana-(元音前an-)表up，前缀cata-表down，希腊词根(h)od-表way，**因此anion阴离子moving up to the anode正极，cation阳离子movingdown to the cathode阴极。**
-	30. catoptric, catoptrics
-	31. cataplasm
+		1. [美 /'kæθod/](cmd://Speak/_us_/cathode)
+		2. cata-,向下，-hod,走，路，词源同 accede,anode,methodn. 阴极（在电解池中，发生还原反应的电极）；正极（在原电池中，发生还原反应的电极）
+		3. _cathode ray_ 阴极射线
+		4. _cold cathode_ [电]冷阴极
+		5. _n._ [electrode](dic://electrode), [terminal](dic://terminal), [terminus](dic://terminus), [depot](dic://depot)
+		6. _n._ [anode](dic://anode)
+		7. **anode**阳极;**electrode**电极;**emitter**发射器，发射体;**diode**二极管;**capacitor**电容器;**electrochemical**电气化学的;**transistor**晶体管;**resistor**电阻器;**dielectric**电介质;**electron**电子;**electrolyte**电解物;
+		8. _cathode ray_ 阴极射线
+		9. _cold cathode_ [电]冷阴极
+		10. The coating has high insulation and anti-cathode decomposability. /涂层具有高绝缘性能和抗阴极分解能力。
+		11. Cathode rays are attracted by a positive charge. /阴极射线被正电荷所吸引。
+		12. They used titanium disulfide as a cathode and metallic lithium as an anode /它们使用二硫化态作阴极，金属锂作阳极。
+	1. cation
+		1. ion ['aɪən] n.[化学] 离子。字面意：正在离开的颗粒。印欧根i-,ei-,表示go，而ion是希腊语中表go的现在分词，即ion=the going one。希腊前缀ana-(元音前an-)表up，前缀cata-表down，希腊词根(h)od-表way，==因此anion阴离子moving up to the anode正极，cation阳离子movingdown to the cathode阴极。==
+		2. _cation exchange_ [化]阳离子交换 
+		3. _cation exchange resin_ 阳离子交换树脂
+		4. _cation exchange capacity_ 阳离子交换量；阳离子交换能力
+		5. _cation exchanger_ 阳离子交换器，阳离子交换剂
+		6. The sodium, this became a cation, because it's positive. /钠，这变成了阳离子，因为它是正的。
+		7. Cations are positively charged and anions are negatively charged /阳离子带正电， 阴离子带负电。
+	2. catoptric, catoptrics
+		1. _adj._ 反射的
+		2. _adj._ [catoptrics](dic://catoptrics)
+		3. **prism**棱柱;**illumination**照明;**optical**光学的;**lantern**灯笼;**octagonal**八边形的;**lighthouse**灯塔;**geometrical**几何的;**optics**光学;**reflector**反射镜;
+	4. cataplasm
 		1. _[cataplasm](dic://cataplasm)_  n. 糊剂；[药] 泥罨剂
-	32. catastasis
-	33. catheresis
+		2. _n._ [dressing](dic://dressing), [medical dressing](dic://medical dressing)
+		3. **ointment**油膏;**ulcers**溃疡，疡;**emulsion**乳状液;**bandage**绷带;**ulcer**溃疡;**dermatitis**皮肤炎;**plaster**灰泥;
+	5. catastasis
+	6. catheresis
 		1. 【医】 虚弱, 轻作用
 2. cadelle
-	1. - n. 大谷盗
+	1. n. 大谷盗
 
 
 ### + \*kau- +
@@ -1848,7 +1878,13 @@
 	1. cauterize
 		1. caut-=caust-烧 + -ize, 表动词。
 		2. vt. 烧灼, 使麻木不仁
-		3. cauterization
+		3. _vt. & vi._ (用腐蚀性物质或烙铁)烧灼以消毒
+		4. _v._ [treat](dic://treat), [care for](dic://care for), [inure](dic://inure), [harden](dic://harden), [indurate](dic://indurate)
+		5. **wound**创伤，伤口;**heal**治愈，痊愈;**burn**燃烧;**bleed**使出血;**wounds**枪伤，伤处;**burns**络腮胡子;**bandage**绷带;**bleeding**出血;**pierce**刺穿;**penile**阴茎的，用阴茎的;**incision**切开;
+		6. Conclusion The alkalescence ion water presented significant promotion heal function for rat gastric ulcer cauterized by acetum. /结论整水器处理后的碱性离子水具有显著促进大鼠醋酸性溃疡愈合的作用。
+		7. I'm cauterizing the younger Martin's wound. /我在烧灼年轻的马丁的伤口。
+		8. Laser beams may **cauterize** and heal ulcers. /激光束可以烧灼和愈合溃疡。
+		9. cauterization
 			1. n. 烧灼, 腐蚀
 			2. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
 			3. **ablation**切除;**surgical**外科的;**incision**切开;**coagulation**凝结;**scarring**结疤;**suture**缝合;**bleeding**出血;**endoscopic**内窥镜的,内窥镜检查的;**amputation**截肢;**sterilization**杀菌,绝育;**resection**切除术;
@@ -1856,8 +1892,6 @@
 			5. thermocauterization
 			6. photocauterization
 			7. galvanocauterization
-		4. I'm cauterizing the younger Martin's wound. /我在烧灼年轻的马丁的伤口。
-		5. Laser beams may **cauterize** and heal ulcers. /激光束可以烧灼和愈合溃疡。
 	2. causalgia
 		5. n. 灼痛
 	3. caustic
@@ -1882,7 +1916,28 @@
 	5. hypocaust
 		1. n. 火坑式供暖, 热坑
 2. calm
-	1.  词源同 calorie.原指酷暑下的安静，后指人心静，类似汉语心静自然凉的意味。
+	1. 词源同 calorie.原指酷暑下的安静，后指人心静，类似汉语心静自然凉的意味。
+	2. [composure](dic://composure), [calmness](dic://calmness), [equanimity](dic://equanimity)
+	3. [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten), [lull](dic://lull), [still](dic://still)
+	4. [steady](dic://steady), [becalm](dic://becalm)
+	5. [calm down](dic://calm down), [cool off](dic://cool off), [chill out](dic://chill out), [simmer down](dic://simmer down), [settle down](dic://settle down), [cool it](dic://cool it)
+	6. [sedate](dic://sedate), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise)
+	7. [unagitated](dic://unagitated), [serene](dic://serene), [tranquil](dic://tranquil)
+	8. [easygoing](dic://easygoing), [placid](dic://placid)
+	9. _n._ [disposition](dic://disposition), [temperament](dic://temperament)
+	10. _v._ [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console), [solace](dic://solace), [stabilize](dic://stabilize), [stabilise](dic://stabilise), [change state](dic://change state)
+	11. _adj._ [composed](dic://composed), [placid](dic://placid), [quiet](dic://quiet), [still](dic://still), [tranquil](dic://tranquil), [smooth](dic://smooth), [unruffled](dic://unruffled)
+	12. _n._ [agitate](dic://agitate), [rouse](dic://rouse), [turn on](dic://turn on), [charge](dic://charge), [commove](dic://commove), [excite](dic://excite), [charge up](dic://charge up)
+	13. _n._ [discomposed](dic://discomposed), [stormy](dic://stormy), [discontented](dic://discontented), [discontent](dic://discontent)
+		1. [quiet](dic://quiet) 普通用词，指没有喧闹、活动或骚乱的寂静状态。  
+		2. [calm](dic://calm) 普通用词，既可指天气、海洋等的平静状态，又可指人的镇定沉着、不慌乱，不受外界影响和情绪支配。  
+		3. [silent](dic://silent) 普通用词，指缄默不语或无声无息。  
+		4. [still](dic://still) 指平静而又安定的状态。  
+		5. [noiseless](dic://noiseless) 指无任何噪音或不出声，无声无息。  
+		6. [peaceful](dic://peaceful) 普通用词，指一种不受外物扰乱和刺激的内在宁静或和平状态。  
+		7. [serene](dic://serene) 指一种超脱一切烦恼的宁静状态。
+	14. **quiet**安静的;**serene**平静的;**peaceful**和平的，爱好和平的;**tranquil**安静的，平静的;**composure**镇静, 沉着;**soothing**使人宽心的;**relaxed**松懈的，放松的;**serenity**平静，宁静;**gentle**温和的;**soothe**安慰;**mellow**成熟的;
+	15. 
 
 
 

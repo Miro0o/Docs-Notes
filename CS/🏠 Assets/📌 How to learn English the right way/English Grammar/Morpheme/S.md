@@ -1535,22 +1535,55 @@
 		1. **silliness**愚蠢;**laughter**笑声;**absurdity**荒谬;**humor**幽默，诙谐;**hilarious**十分有趣的, 非常滑稽的;**mayhem**大混乱, 大破坏;**humour**诙谐;**awkwardness**笨拙;**idiocy**白痴;**weirdness**古怪,命运;**craziness**发狂,热中,狂热;
 2. **sol-** = comfort, 表示“安慰、鼓励、欢呼”。源自拉丁语 solari "to comfort, console."
 	1. console
-		1. subconsole
-		2. microconsole
-		3. interconsole
-		4. inconsolably
-		5. disconsolate
-		6. consolette
-		7. consolatory
-		8. consolation
-		9. consolable
-	2. solace
-		1. **consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**comfort**安慰;**solitude**孤独;**serenity**平静，宁静;**comforting**安慰的;**reprieve**缓期执行;**companionship**友谊;**contentment**满足,满意;**reassurance**消除恐惧或疑虑;
-		2. [comfort](dic://comfort), [comfortableness](dic://comfortableness), [relief](dic://relief), [succor](dic://succor), [succour](dic://succour), [ministration](dic://ministration)
-		3. [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console)
-		4. [consolation](dic://consolation), [solacement](dic://solacement)
-	3. solatium
+		1. con-共同 + sole安慰 → 一起安慰。
+		2. con-,表强调，-sol,安慰，安抚，词源同 solace,hilarious.  
+		3. con-,表强调，-sol,整体，词源同 solid.即构成一个整体，整体控制的工具。
+		4. vt. 安慰, 藉慰  
+		5. n. 控制台
+		6. [console table](dic://console table)
+		7. [cabinet](dic://cabinet)
+		8.  [comfort](dic://comfort), [soothe](dic://soothe), [solace](dic://solace)
+		9. _n._ [table](dic://table), [scientific instrument](dic://scientific instrument), [bracket](dic://bracket), [housing](dic://housing)
+			1. [comfort](dic://comfort) 普通用词，指用语言或行动对痛苦者给予鼓励、勇气和力量，从而减轻其痛苦或悲伤，得到安慰。  
+			2. [console](dic://console) 较正式用词，侧重缓和或减轻别人的痛苦或悲伤。  
+			3. [ease](dic://ease) 正式用词，指减轻身心的痛苦、不安和忧虑。  
+			4. [soothe](dic://soothe) 着重以安慰减轻悲痛、愤怒或激动，使人理智地平静下来。也可指药物等减轻病痛。  
+			5. [relieve](dic://relieve) 指解除或缓解某人的病痛、担心或忧虑等，常用被动态。
+		10. **Playstation**游戏站;**controller**控制者;**emulator**竞争者;**joystick**操纵杆，控制杆;**Nintendo**任天堂;**gaming**赌胜负;**arcade**拱廊;**hardware**计算机硬件;**dashboard**仪表板;**emulation**仿效;**games**游戏程序;
+		11. you can console yourself with the thought that you did your best /你可聊以自慰的是你已尽了最大的努力。
+		12. she tried to console him but he pushed her gently away /她试图安慰他，但他却轻轻将她推开。
+		13. The new games console hits the streets tomorrow. /新款游戏机明天将大量上市。
+		14. subconsole
+		15. microconsole
+		16. interconsole
+		17. inconsolably
+		18. disconsolate
+		19. consolette
+		20. consolatory
+		21. consolation
+		22. consolable
+	3. solace
+		1. n. 安慰, 安慰之物  
+		2. vt. 安慰, 抚慰, 给与安慰, 使轻松
+		3. sol-太阳 + ace → 给人太阳 → 安慰。
+		4. 自拉丁语 solacium,安慰，慰藉，使舒适，来自 solari,安慰，使欢乐，来自 PIE*sol,同情，友善，词源同 silly,console.
+		5. **consolation**安慰,慰问;**refuge**避难;**respite**暂缓;**comfort**安慰;**solitude**孤独;**serenity**平静，宁静;**comforting**安慰的;**reprieve**缓期执行;**companionship**友谊;**contentment**满足,满意;**reassurance**消除恐惧或疑虑;
+		6. [comfort](dic://comfort), [comfortableness](dic://comfortableness), [relief](dic://relief), [succor](dic://succor), [succour](dic://succour), [ministration](dic://ministration)
+		7. [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console)
+		8. [consolation](dic://consolation), [solacement](dic://solacement)
+		9. _quantum of solace_ 量子危机（电影名称）
+		10. _solace oneself with something_ 用某物(或某事)安慰自己
+		11. The invalid found  solace in music. /那病人从音乐中得到安慰。
+		12. she sought solace in her religion /她从信仰的宗教中寻求安慰。
+		13. The news brought no solace to the grieving relations. /这个消息并未给悲痛的家属带来什么安慰。
+		14. His career took a nosedive and he turned to drink and drugs for solace. /他的事业一落千丈，开始酗酒吸毒以寻求慰借。
+	4. solatium
+		1. n. 赔偿, 赡养费, 抚慰金
 3. silly
+	1. silly - silly是个历史很长的词，一千多年来词义经历了由褒而贬的变化。在古英语时期，silly拼作saelig，原义为“有福的”（blessed）、“快活的”（happy），到中世纪词形演变为seely，词义基本不变，以后转为“天真的”（simple）、“单纯的”（innocent）。天真而单纯的人是最容易上当受骗的。于是词义开始朝着贬抑的方向转变，最后变为“愚蠢的”（stupid）、“傻的”（foolish），而词形则是在15世纪时就已由seely演变为silly。与silly同源的德语词selig至今还保留着它的原始词义：“有福的”、“快活的”。
+	2. a. 愚蠢的, 糊涂的
+	3. silliness
+	4. silliy
 #### + \*sel- (4) + = to jump
 1. **sal-** = leap, 表示“跳”。源自拉丁语 salire "to leap."
 	1. assail
@@ -1562,7 +1595,7 @@
 		6. assailant
 		7. assailable. unassailable
 	3. salacious
-		1. 来自拉丁语 salax,性欲旺盛的，来自 salire,跳，词源同 salient,sally,result.-acious,形容词后缀，词源同 sagacious.比喻用法，引申词义性交。
+		1. 来自拉丁语 salax,性欲旺盛的，来自 salire,跳，词源同 salient, sally, result, -acious,形容词后缀，词源同 sagacious.比喻用法，引申词义性交。
 		2. adj. 好色的；猥亵的；淫荡的
 		3. _adj._ [sexy](dic://sexy), [dirty](dic://dirty)
 		4. _n._ [unsexy](dic://unsexy), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
@@ -1691,7 +1724,7 @@
 		5. rsultant
 		6. end-result
 	9. exult (exalt, ex- + alt-)
-		1.  - ex-,向外，-sult,跳，词源同 salient,insult.
+		1. ex-,向外，-sult,跳，词源同 salient,insult.
 		1. [walk on air](dic://walk on air), [be on cloud nine](dic://be on cloud nine), [jump for joy](dic://jump for joy)
 		2. [exuberate](dic://exuberate), [rejoice](dic://rejoice), [triumph](dic://triumph), [jubilate](dic://jubilate)
 		3. _v._ [rejoice](dic://rejoice), [joy](dic://joy), [cheer](dic://cheer), [cheer up](dic://cheer up), [chirk up](dic://chirk up)
@@ -1719,11 +1752,25 @@
 	8. _[halter tops](dic://halter%20tops)_  吊带
 	9. _[halter top](dic://halter%20top)_  露背装，三角背心
 	10. _[halter dress](dic://halter%20dress)_  挂脖裙; 绕颈裙;
+	11. Halter straps tie at the nape. Shirred bodice and back. Constructed with padded bra cups, boning and an inner silicone/elastic band that prevents the back from shifting. /这一款裹胸式吊带裙,面料如真丝般顺滑,却无褶皱的烦恼.采用小礼服设计，暗定型设计，衬托出较好的胸型，高腰设计体现了苗条的身体，可搭配小外套、小批肩，款式新颖时尚。
+	12. dandling the halter rope, he gently urged the pony's head up. /轻摇缰绳，他轻轻让小马抬起头来。
+	13. Halter strap can be slipped over head and shoulders to convert to a bandeau shape. /颈部吊带可以放在背后令其转换为胸罩形状；
 4. salmon
 	1. _n._ [salmonid](dic://salmonid), [food fish](dic://food fish), [river](dic://river), [fish](dic://fish)
 	2. _adj._ [chromatic](dic://chromatic)
 	3. _n._ [achromatic](dic://achromatic)
 	4. **fish**捕鱼，钓鱼;**trout**鳟鱼;**tuna**金枪鱼，鲔鱼;**scallops**扇贝;**seafood**海鲜;**cod**鳕鱼;**prawns**大虾，对虾;**shrimp**虾;**fillets**嵌条;**herring**鲱;**fishery**渔业;
+	5. _smoked salmon_ 熏制鲑鱼
+	6. _pacific salmon_ [生]太平洋鲑鱼；大鳞大麻哈鱼；大麻哈鱼属（等于Oncorhynchus）
+	7. _atlantic salmon_ 大西洋鲑鱼
+	8. _salmon pink_ 橙红色；浅橙色
+	9. _king salmon_ 大鳞大麻哈鱼；鲑鱼王
+	10. _pink salmon_ 细鳞大麻哈鱼；粉鲑
+	11. salmon and rice rolls. /大麻哈鱼卷饼。
+	12. a salmon steak. /鲑鱼排，三文鱼排。
+	13. salmon trout is an unnecessary extravagance /鳟鱼是一种不必要的奢侈品。
+	14. Smoked salmon—what a treat! /熏大马哈鱼——馐馔之福啊!
+	15. ambrosial smoked salmon; /可口的熏鲑鱼；
 
 
 ### sel-, sul-, sult- = summon, 表示“召集”，来源于拉丁语。
