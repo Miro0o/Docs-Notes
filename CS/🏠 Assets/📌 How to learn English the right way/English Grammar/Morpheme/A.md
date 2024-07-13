@@ -1181,18 +1181,29 @@
 7. **oxy-, -oxide** = sharp, acid, “尖锐，酸；含氧的”；用作oxygen「氧」的缩写
 	1. oxide
 		2. any compound of oxygen with another element or a radical
-		3. peroxide, suboxide
-		4. tetroxide, trioxide, 
-		5. oxidant, oxidation, oxidative, oxidise
-		6. deoxygenate
-		7. dioxide
+		3. peroxide
+			1. [hydrogen peroxide](dic://hydrogen peroxide)
+			2. _n._ [oxide](dic://oxide)
+			3. _v._ [bleach](dic://bleach)
+			4. **bleach**使漂白，使变白;**hydrogen**氢;**ammonia**氨，阿摩尼亚;**hydroxide**氢氧化物;**acetone**丙酮;**chlorine**氯;**sulfate**硫酸盐;**vinegar**醋;**chloride**氯化物;**sulfide**硫化物;**dye**染料;
+			5. _hydrogen peroxide_ 过氧化氢 
+			6. They say the wax can be softened with mineral oil, glycerin , or ear drops.They say high drungy procidehydrogen peroxide, or carbomite peracidcarbamide peroxide may also help. /他们表示耳垢可以用矿物油、甘油或滴耳液软化，过氧水或过氧化尿素也同样有用。
+			7. Try benzoyl peroxide. It's over the counter. /试试过氧化苯甲酰，药房就能买。
+			8. " Is over applying peroxide to a cut bad? " /“在伤口上过度使用过氧化物是不是很糟糕？”
+			9. No! I have not even begun ripping into Edie Britt yet. Oh, that peroxide vulture. /没有！我甚至还没有开始骂Edie Britt呢。哦，那个贪得无厌的家伙。
+			10. The burst of hydrogen peroxide acts like a big " Please send help! " signal. /过氧化氢的爆炸就像一个巨大的“请救命！”信号。
+		4. suboxide
+		5. tetroxide, trioxide, 
+		6. oxidant, oxidation, oxidative, oxidise
+		7. deoxygenate
+		8. dioxide
 			1. an oxide containing two atoms of oxygen in the molecule
 			2. _n._ [oxide](dic://oxide)
 			3. **monoxide**一氧化物;**oxide**氧化物;**sulfide**硫化物;**hydroxide**氢氧化物;**sulfur**用硫磺处理;**chloride**氯化物;**CO2**二氧化碳;**sulphur**硫磺;**sulfate**硫酸盐;**nitrogen**氮;**methane**甲烷;
 			4. carbon dioxide snow 
-		8. epoxide
-		9. hydroxide
-		10. monoxide
+		9. epoxide
+		10. hydroxide
+		11. monoxide
 	2. oxygen, oxyacid
 		12. oxydant, oxyde, oxygenant
 		13. paroxysm

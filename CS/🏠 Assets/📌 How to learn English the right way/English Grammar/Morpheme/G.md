@@ -1822,83 +1822,116 @@
 		1. _[achrestic](dic://achrestic)_ 失利用性的; 利用不能的;
 	5. antichresis
 2. **hort-** = encourage, 表示“鼓励”。源自拉丁语 hortari "to urge on, encourage."
-	1. exhort
-		1. [cheer](dic://cheer), [inspire](dic://inspire), [urge](dic://urge), [barrack](dic://barrack), [urge on](dic://urge on), [pep up](dic://pep up)
-		2. [urge](dic://urge), [urge on](dic://urge on), [press](dic://press)
-		3. _v._ [encourage](dic://encourage), [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
-		4. **instruct**命令;**encourage**鼓励, 激励;**preach**说教;**earnestly**认真地;**urged**怂恿，催促;**brethren**弟兄们;**heed**注意，留心;**persuade**说服，劝说;**warn**警告，提醒;**motivate**刺激;**profess**公开表示;
-		5. she exhorted repair to the church /她劝诫人们常去教堂。
-		6. . Will they remember you as an encourager and a supporter and exhorter? /你会给你的家庭和朋友留下些什么呢？
-		7. He exhorted employees to sell better with the " ten foot rule" (greet customers if they are that close) /他以严格的10英尺规则” (向在这距离之内的顾客致意）鼓励员工提高销售业绩。
-		8. We are exhorted to " Get on! " " Get ahead! " or " Make it to the top! " /我们被“前进！”“向前冲！”“成为顶尖！”
-		9. On the contrary, she was snubbed, slapped, lectured and exhorted. /相反，她遭到冷落、掌掴、训斥和劝诫。
-		10. exhorer
-		11. exhortatory
-		12. exhortative
-		13. exhortation
+	1. exhort (expostulate)
+		1. ex-出 + hort-鼓励 → 鼓励人出去做事。
+		2. ex-,向外，-hort,神恩，鼓励，词源同 hortatory, charisma.
+		3. [cheer](dic://cheer), [inspire](dic://inspire), [urge](dic://urge), [barrack](dic://barrack), [urge on](dic://urge on), [pep up](dic://pep up)
+		4. [urge](dic://urge), [urge on](dic://urge on), [press](dic://press)
+		5. _v._ [encourage](dic://encourage), [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
+		6. **instruct**命令;**encourage**鼓励, 激励;**preach**说教;**earnestly**认真地;**urged**怂恿，催促;**brethren**弟兄们;**heed**注意，留心;**persuade**说服，劝说;**warn**警告，提醒;**motivate**刺激;**profess**公开表示;
+		7. she exhorted repair to the church /她劝诫人们常去教堂。
+		8. . Will they remember you as an encourager and a supporter and exhorter? /你会给你的家庭和朋友留下些什么呢？
+		9. He exhorted employees to sell better with the " ten foot rule" (greet customers if they are that close) /他以严格的10英尺规则” (向在这距离之内的顾客致意）鼓励员工提高销售业绩。
+		10. We are exhorted to " Get on! " " Get ahead! " or " Make it to the top! " /我们被“前进！”“向前冲！”“成为顶尖！”
+		11. On the contrary, she was snubbed, slapped, lectured and exhorted. /相反，她遭到冷落、掌掴、训斥和劝诫。
+		12. exhorer
+		13. exhortatory
+			1. _adj._ [encouraging](dic://encouraging)
+			2. _n._ [discouraging](dic://discouraging)
+			3. **impassioned**充满激情的, 热烈的;**rhetorical**修辞的;**recitation**背诵;**pious**虔诚的;**eloquent**雄辩的，有口才的;**provocative**刺激的;**rhetoric**修辞，修辞学;**slogans**口号;**emotive**感情的;**treatise**论文;**explanatory**解释的, 说明的;
+			4. **Exhortatory** slogans are everywhere /勤勉奋进口号到处都是。
+		14. exhortative
+			1. adj. 劝告的；劝勉的
+			2. _adj._ [encouraging](dic://encouraging)
+			3. _n._ [discouraging](dic://discouraging)
+			4. **emphatic**加强语气的;**utterance**说话;**prophetic**预言的,先知的;**impassioned**充满激情的, 热烈的;**emotive**感情的;**rhetorical**修辞的;**forceful**有说服力的;**adjective**形容词;**suggestive**提示性的;**argumentative**好辩的,争论的;**verb**动词;
+			5. Because whether you are taken or left behind in the soon coming rapture of the Bride of Christ will depend on how you respond to the exhortative teaching presented /因为在不久的将来，发生基督的新娘被提时，你被提或被留下，将决定在你对这个另人兴奋的教导的反应。
+		16. exhortation
 			1. [incitement](dic://incitement)
 			2. _n._ [communication](dic://communication), [communicating](dic://communicating), [persuasion](dic://persuasion), [suasion](dic://suasion)
 			3. **rebuke**指责，非难;**sermon**布道, 讲道, 说教;**apostle**传道者;**heed**注意，留心;**parable**寓言，比喻;**encouragement**鼓励;**prophetic**预言的,先知的;**affirmation**肯定;**impassioned**充满激情的, 热烈的;**preaching**讲道,讲道法;**verse**诗，诗篇;
 			4. exhortations to consumers to switch off electrical appliances /规劝消费者关掉电器的话。
 			5. So Alcorn sent him on his way with the exhortation, " Say hi to your guru for me." /就这样，奥尔康送走了乔布斯，还叮嘱“代我向你的导师问好。”
-	2. hortation
+	3. hortation
 		1. _[hortation](dic://hortation)_  n. 奖励；劝告
-	3. hortative
+	4. hortative
 		1. _adj._ [encouraging](dic://encouraging)
 		2. n._ [discouraging](dic://discouraging)
 		3. **verb**动词;**verbs**动词;**adjective**形容词;**noun**名词;**participle**分词;**imperative**紧要的;**colloquial**口语的, 会话的;**nouns**名词;**modality**形式，形态;**grammatical**语法的;**singular**单数的;
 		4. _[hortative](dic://hortative)_  adj. 劝告的；奖励的
-	4. hortatory
-		1. _adj._ [encouraging](dic://encouraging)
-		2. _n._ [discouraging](dic://discouraging)
-		3. **rhetorical**修辞的;**rhetoric**修辞，修辞学;**pious**虔诚的;**persuasive**能说服的;**emphatic**加强语气的;**prophetic**预言的,先知的;**normative**标准的;**recitation**背诵;**dogmatic**教条的;**colloquial**口语的, 会话的;**doctrinal**学说的;
-		4. a hortatory speech. /激励性演讲
+	5. hortatory
+		1. adj. 激励的；劝告的
+		2. _adj._ [encouraging](dic://encouraging)
+		3. _n._ [discouraging](dic://discouraging)
+		4. **rhetorical**修辞的;**rhetoric**修辞，修辞学;**pious**虔诚的;**persuasive**能说服的;**emphatic**加强语气的;**prophetic**预言的,先知的;**normative**标准的;**recitation**背诵;**dogmatic**教条的;**colloquial**口语的, 会话的;**doctrinal**学说的;
+		5. a hortatory speech. /激励性演讲
+		6. he hortatory moralism of many contemporary churchmen /许多当代牧师的劝诫格言。
 3. charisma
-	1. [personal appeal](dic://personal appeal), [personal magnetism](dic://personal magnetism)
-	2. _n._ [attractiveness](dic://attractiveness), [interest](dic://interest), [interestingness](dic://interestingness)
-	3. **charismatic**有魅力的;**swagger**吓唬;**personality**人格, 个性;**poise**平衡;**charm**魅力，吸引力;**acumen**聪明，敏锐;**intellect**智力;**magnetism**磁性;**enthusiasm**热情, 热心;**aura**气氛;**sincerity**真实, 诚挚;
-	4. a television news program famed for the charisma of its anchors. /以主持人的魅力而闻名的一个电视新闻节目
-4. greed
-	1. excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves
-	2. reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)
+	1. charisma（领袖气质）：神授的非凡才能  
+	2. 来自 PIEgher,鼓励，使渴望，词源同 hortatory, Charis（美惠女神）。原为宗教用语，指上帝对人的仁爱，上帝的礼物或奖励。后因 19 世纪德国社会学家 Max Weber 的使用使此词赋上了世俗色彩。
+	3. 英语单词charisma本是一个基督教专用术语，指某些基督徒因为蒙受神恩而被赋予的一种天赋，如医治病人、说各种方言、展现神迹等，出于《圣经•新约》的《哥林多前书》。古时人们对一些基督徒身上展现出来的异于常人的才能感到不可思议，因此解释为神的恩惠。  
+	4. 20世纪初，社会学家韦伯（Max Weber）将该词引入社会学领域，提出了“魅力型领导理论”，指领导者利用其自身的魅力（charisma）鼓励追随者并作出重大组织变革的一种领导理论。在这里，charisma指的是领导者对下属的一种天然的吸引力、感染力和影响力。因此，charisma一词超越神学界，在社会中得到广泛应用，常常用来形容某些人尤其是国家领袖身上的那种非凡魅力。  
+	5. charisma： [kə'rɪzmə] n.领袖气质，非凡魅力，非凡的领导力  
+	6. charismatic：[,kærɪz'mætɪk] adj. 超凡魅力的；神赐能力的
+	7. [personal appeal](dic://personal appeal), [personal magnetism](dic://personal magnetism)
+	8. _n._ [attractiveness](dic://attractiveness), [interest](dic://interest), [interestingness](dic://interestingness)
+	9. **charismatic**有魅力的;**swagger**吓唬;**personality**人格, 个性;**poise**平衡;**charm**魅力，吸引力;**acumen**聪明，敏锐;**intellect**智力;**magnetism**磁性;**enthusiasm**热情, 热心;**aura**气氛;**sincerity**真实, 诚挚;
+	10. a television news program famed for the charisma of its anchors. /以主持人的魅力而闻名的一个电视新闻节目
+5. greed
+	1. 原义为饥饿，词源不详。可能来自 PIEgwere,喉咙，吞没，词源同 gorge, voracity.
+	2. excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves
+	3. reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)
 		1. [avarice](dic://avarice), [covetousness](dic://covetousness), [rapacity](dic://rapacity), [avaritia](dic://avaritia)
-	3. _n._ [desire](dic://desire), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
-	4. **selfishness**自私;**self-interest**利己主义;**greedy**贪婪的;**hubris**傲慢;**arrogance**傲慢;**lust**性欲;**stupidity**愚笨;**consumerism**商品的消费和销售性服务;**immorality**不道德,无道义;**corruption**堕落;**hypocrisy**伪善;
-	5. And it's not just corporate greed. /不只企业因贪婪而舞弊。
-	6. They think need matters more than greed. /他们认为自己的实际需要比贪得无厌更重要。
-	7. Tales of corporate greed have revived interest in co-ops /企业贪婪的故事有望在联营企业重新上演。
-5. yearn
-	1. desire strongly or persistently
+	4. _n._ [desire](dic://desire), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
+	5. **selfishness**自私;**self-interest**利己主义;**greedy**贪婪的;**hubris**傲慢;**arrogance**傲慢;**lust**性欲;**stupidity**愚笨;**consumerism**商品的消费和销售性服务;**immorality**不道德,无道义;**corruption**堕落;**hypocrisy**伪善;
+	6. And it's not just corporate greed. /不只企业因贪婪而舞弊。
+	7. They think need matters more than greed. /他们认为自己的实际需要比贪得无厌更重要。
+	8. Tales of corporate greed have revived interest in co-ops /企业贪婪的故事有望在联营企业重新上演。
+7. yearn
+	1. 来自 PIEgher,喜欢，想要，鼓励，词源同 exhort, hortatory, charisma.
+	2. desire strongly or persistently
 		1. _synonymous：_ [hanker](dic://hanker), [long](dic://long)
-	2. have a desire for something or someone who is not present
+	3. have a desire for something or someone who is not present
 		1. _synonymous：_ [ache](dic://ache), [yen](dic://yen), [pine](dic://pine), [languish](dic://languish)
-	3. have affection for; feel tenderness for
-	4. _v._ [desire](dic://desire), [want](dic://want), [hanker](dic://hanker), [long](dic://long), [care for](dic://care for), [cherish](dic://cherish), [hold dear](dic://hold dear)
-	5. [yearn](dic://yearn) 通常指急迫不安地渴望或向往，着重怀有柔情或热情。  
-	6. [long](dic://long) 指诚心诚意地渴望某事或物。  
-	7. [thirst](dic://thirst) 原义指对食物或饮料的渴求，引申指全力以求。
-	8. **longing**渴望，热望;**crave**渴望;**desire**欲望;**revel**狂欢;**cherish**珍爱;**longs**长期证券;**aspire**渴望;**embrace**包含;**rediscover**再次发现;**seek**寻找;**rejoice**高兴;
-	9. _yearn for_ 渴望
-	10. _yearn towards_ 向往…；想念
-	11. They had a deep yearning for their homeland. /当时他们渴念着故乡。
-	12. a nameless yearning for transcendence. /言语难以形容的对超凡的渴望。
-	13. He looked at her with yearning /他渴慕地看着她。
-	14. no fellow spirit yearned towards her. /没有同伴同情她。
-	15. yearned over the poor child's fate /深深地同情那些穷孩子的命运
+	4. have affection for; feel tenderness for
+	5. _v._ [desire](dic://desire), [want](dic://want), [hanker](dic://hanker), [long](dic://long), [care for](dic://care for), [cherish](dic://cherish), [hold dear](dic://hold dear)
+	6. [yearn](dic://yearn) 通常指急迫不安地渴望或向往，着重怀有柔情或热情。  
+	7. [long](dic://long) 指诚心诚意地渴望某事或物。  
+	8. [thirst](dic://thirst) 原义指对食物或饮料的渴求，引申指全力以求。
+	9. **longing**渴望，热望;**crave**渴望;**desire**欲望;**revel**狂欢;**cherish**珍爱;**longs**长期证券;**aspire**渴望;**embrace**包含;**rediscover**再次发现;**seek**寻找;**rejoice**高兴;
+	10. _yearn for_ 渴望
+	11. _yearn towards_ 向往…；想念
+	12. They had a deep yearning for their homeland. /当时他们渴念着故乡。
+	13. a nameless yearning for transcendence. /言语难以形容的对超凡的渴望。
+	14. He looked at her with yearning /他渴慕地看着她。
+	15. no fellow spirit yearned towards her. /没有同伴同情她。
+	16. yearned over the poor child's fate /深深地同情那些穷孩子的命运
 
 
 ### + \*ghere- + = intestine, gut, entrail
 1. **chor-**
 	1. chorioamnionitis
 	2. chorion
-	3. choroid
-		1.  [choroid coat](dic://choroid coat)
-		2. _n._ [membrane](dic://membrane), [tissue layer](dic://tissue layer)
-		3. **retinal**视网膜的;**retina**视网膜;**cornea**角膜;**ocular**眼睛的;**epithelium**上皮;**corneal**角膜的;**macular**有斑点的;**endothelial**内皮的;**epithelial**上皮的;**ventricle**室,脑室,心室;**cortex**皮质;
-		4. _choroid plexus_ 脉络丛；脉络膜丛
-		5. Otherwise, they have to find areas of damage or more vulnerable spots like the choroid plexus. /否则，他们必须找到损坏的地区或更脆弱的地点，比如脉络丛。
-	4. chorangioma
-	5. chorial
+		1. n. 绒毛膜, 浆膜, 卵壳
+		2. chor-绒毛 + -ion
+		3. _n._ [sac](dic://sac)
+		4. **placenta**胎盘;**embryo**胚胎;**yolk**蛋黄;**epithelium**上皮;**ovary**子房;**uterus**子宫;**uterine**子宫的;**sac**液囊;**epithelial**上皮的;**embryos**晶胚;**cytoplasm**细胞质;
+		5. The fetal layer of the placenta on the other hand is called the chorion, which is a tissue that has fingerlike projections called chorionic villi which contain tiny fetal arterioles and venules. /胎盘的“胎儿层”也被称为绒毛膜；这是一种有绒毛膜绒毛这种手指状突起的组织，富含微小的胎儿动脉和静脉。
+		6. But the placenta -- the organ that provides material to the embryo from the mother -- is actually formed from the chorion and allantois membranes of the egg. /但是胎盘——为母亲的胚胎提供物质的器官——实际上是由卵子的绒毛膜和尿囊膜形成的。
+		7. Because, the main membranes of an amniotic egg -- known as the sac, the chorion, and the allantois -- are all present in animals that give birth to live young. /因为，羊膜卵的主要膜——被称为囊、绒毛膜和尿囊——都存在于生下活幼仔的动物身上。
+	4. choroid
+		1. adj. 类绒毛膜的 
+		2. n. 眼脉络膜
+		3.  [choroid coat](dic://choroid coat)
+		4. _n._ [membrane](dic://membrane), [tissue layer](dic://tissue layer)
+		5. **retinal**视网膜的;**retina**视网膜;**cornea**角膜;**ocular**眼睛的;**epithelium**上皮;**corneal**角膜的;**macular**有斑点的;**endothelial**内皮的;**epithelial**上皮的;**ventricle**室,脑室,心室;**cortex**皮质;
+		6. _choroid plexus_ 脉络丛；脉络膜丛
+		7. Otherwise, they have to find areas of damage or more vulnerable spots like the choroid plexus. /否则，他们必须找到损坏的地区或更脆弱的地点，比如脉络丛。
+	6. chorangioma
+	7. chorial
+		1. 【医】 绒[毛]膜的
+		2. syndesmochorial
+		3. etc..
 2. **cord-, chord-** = string, 表示“线”。原指“肠子”，后引申为线、绒毛、脉络等 。源自希腊语 khorde "gut, string."
 	1. chordate
 		1. _n._ [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature), [fauna](dic://fauna)
@@ -1916,22 +1949,62 @@
 			7. _[chordal distance](dic://chordal%20distance)_  弦距离
 			8. _[chordal graph](dic://chordal%20graph)_  弦图
 			9. _[chordal thickness](dic://chordal%20thickness)_  弦齿厚；固定弦齿厚
+			10. chordal music. /突出和音的音乐
+			11. They're playing a chordal accompaniment against it. /钢琴演奏的和弦充当伴奏 与小提琴呼应。
+			12. The warped phenomenon is mitigated when the **chordal** height decreases. /随着弦高的减小，翘曲现象减轻，渐呈准直线。
+			13. A polynomial algorithm to find the maximum induced forest of a strongly **chordal** graph is given /文中同时给出了在强弦图上求最大导出森林的多项式算法。
 	2. cord, cords
-		1. uncord
-		2. corded
-	3. cordage
+		1. n. 绳索, 束缚
+		2. n. 粗线，细绳；电线；灯芯绒裤子；索状结构；考得（木材单位） 
+		3. adj. 灯芯绒的 
+		4. v. 用绳子连接
+		5. 来自 PIEghere,肠，肠线，词源同 yarn,clavichord.
+		6.  [electric cord](dic://electric cord)
+		7. [corduroy](dic://corduroy)
+		8. _n._ [line](dic://line), [volume unit](dic://volume unit), [capacity unit](dic://capacity unit), [capacity measure](dic://capacity measure), [cubage unit](dic://cubage unit), [cubic measure](dic://cubic measure), [cubic content unit](dic://cubic content unit)
+		9. _v._ [stack](dic://stack), [pile](dic://pile), [heap](dic://heap), [tie](dic://tie), [bind](dic://bind)
+		10. **cable**电缆;**umbilical**脐带的;**cables**电缆;**wires**电线;**rope**绳，绳索;**wire**金属丝;**plug**塞子;**ribbon**缎带;**braided**编辫子的;**charger**充电器;**adaptor**改编者;
+		11. _spinal cord_ 脊髓
+		12. _spinal cord injury_ 脊髓受伤，脊椎损伤
+		13. _cord blood_ [医]脐带血
+		14. _umbilical cord_ 脐带
+		15. _power cord_ 电源线
+		16. _vocal cord_ [医]声带；[医]声襞
+		17. _tire cord_ （轮胎）帘布，帘子线
+		18. _cord fabric_ 帘布
+		19. _detonating cord_ 导爆索，引爆线
+		20. _bungee cord_ 弹力绳
+		21. _supply cord_ 电源软线，电源线
+		22. _cotton cord_ 棉纱绳
+		23. _tyre cord_ 轮胎帘线；轮胎帘子布
+		24. _patch cord_ 接插线，调度塞绳
+		25. _vocal cord paralysis_ n. 声带麻痹
+		26. _nylon cord_ 尼龙绳
+		27. _extension cord_ 延长线；分机线绳
+		28. _spermatic cord_ 精索
+		29. _ac cord_ 交流电绳
+		30. _flexible cord_ 软塞绳；花线；软线
+		31. Voiced consonant sounds are made using the vocal cords. /浊辅音是用声带发生。
+		32. You need to cut the cord with Penny. Oh... okay. /我想让你跟佩妮彻底断了 哦 好的。
+		33. It appears that her vocal cords have been burnt by the acid /“她的声带似乎被酸液烧坏了。”
+		34. And lastly, keeping the umbilical cord free from infection. /最后，保持脐带不受感染。s
+		35. They're — you know, they're cutting the cord on cable. /他们切断了有线电视的束缚。
+		36. uncord
+		37. corded
+	4. cordage
 		1. _n._ [measure](dic://measure), [quantity](dic://quantity), [amount](dic://amount), [rope](dic://rope)
 		2. **rope**绳，绳索;**hemp**大麻;**twine**使缠绕;**ropes**围绳;**cords**用灯芯绒做的衣物;**webbing**带子，边带;**knots**结;**knotted**多节的，有节的;**flax**亚麻;**fibres**纤维;**cord**细绳;
 		3. The seamen were all provided with cordage, which I had beforehand twisted to a sufficient strength. /海员们都配备了绳索，我事先已将其拧成足够的强度。
-	4. cordelle, cordillera
-	5. cording
+		4. There was no want of cordage for the rigging, and everything was well and firmly made. /索具不需要绳索， 一切都制作精良、牢固。
+	5. cordelle, cordillera
+	6. cording
 		1. In this example, rows of cording and a ruffled flounce help to create that fluted hem/ 在这个例子中，成排的绳索和荷叶边荷叶边有助于打造出带凹槽的下摆。
-	6. cordless
+	7. cordless
 		1. _adj._ [cord](dic://cord), [electric cord](dic://electric cord)
 		2. **hand-held**手提式的;**rechargeable**可再充电的;**rotary**旋转的，转动的;**portable**轻便的;**saws**锯片;**trimmer**整理者;**handset**手机，电话听筒;**wireless**无线的;**landline**陆上运输;**screwdriver**螺丝起子;**vibrator**振动器;
 		3. _cordless telephone_ 无绳电话
 		4. _cordless phone_ 无绳电话
-	7. cordon
+	8. cordon
 		1. cord-线 + -on。
 		2. n. 哨兵线, 非常警戒线, 饰带 vt. 用警戒线围住
 		3. _n._ [insignia](dic://insignia), [adornment](dic://adornment)
@@ -1939,69 +2012,99 @@
 		5. _cordon off_ 布置警戒线戒严；隔离
 		6. troops threw a cordon around the headquarters. /部队在总部周围布设了警戒线。
 		7. Troops cordoned off the riot zone. /军队封锁了暴乱地区
-	8. corduroy
-		1. [cord](dic://cord)
-		2. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [road](dic://road), [route](dic://route)
-		3. _v._ [construct](dic://construct), [build](dic://build), [make](dic://make)
-		4. **plaid**格子花呢;**flannel**法兰绒;**denim**坚韧的斜纹粗棉布, 牛仔布;**velvet**天鹅绒，丝绒;**twill**斜纹布;**suede**绒面革;**trousers**裤子，长裤;**blazer**宽松运动外衣;**fleece**羊毛，绒头织物;**fabric**织物;**wool**羊毛;
-		5. _[corduroys](dic://corduroys)_  n. （常用复数）灯芯绒裤子；[纺] 灯芯绒（corduroy的复数形式）
-		6. _[elastic corduroy](dic://elastic%20corduroy)_  弹力灯芯绒
-		7. _[corduroy fabric](dic://corduroy%20fabric)_  灯芯绒织物
-		8. _[ribless corduroy](dic://ribless%20corduroy)_  灯芯布
-		9. _[spacious waled corduroy](dic://spacious%20waled%20corduroy)_  n. 粗条灯芯绒
-		10. _[harness of corduroy](dic://harness%20of%20corduroy)_  灯心绒的综合
-		11. baggy corduroy pants. /宽松的灯心绒裤。
-		12. Nicholas was wearing a corduroy jacket. /尼古拉斯穿着一件灯芯绒夹克衫。
-	9. chorda
+	9. corduroy
+		1. n. 灯芯绒, 用灯芯绒布制的衣服, 灯芯绒裤子  
+		2. a. 灯芯绒做的, (路、桥)用木头铺排成的
+		3. 俗词源认为该词来自 royal cord,即皇家专用绒。
+		4. [cord](dic://cord)
+		5. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [road](dic://road), [route](dic://route)
+		6. _v._ [construct](dic://construct), [build](dic://build), [make](dic://make)
+		7. **plaid**格子花呢;**flannel**法兰绒;**denim**坚韧的斜纹粗棉布, 牛仔布;**velvet**天鹅绒，丝绒;**twill**斜纹布;**suede**绒面革;**trousers**裤子，长裤;**blazer**宽松运动外衣;**fleece**羊毛，绒头织物;**fabric**织物;**wool**羊毛;
+		8. _[corduroys](dic://corduroys)_  n. （常用复数）灯芯绒裤子；[纺] 灯芯绒（corduroy的复数形式）
+		9. _[elastic corduroy](dic://elastic%20corduroy)_  弹力灯芯绒
+		10. _[corduroy fabric](dic://corduroy%20fabric)_  灯芯绒织物
+		11. _[ribless corduroy](dic://ribless%20corduroy)_  灯芯布
+		12. _[spacious waled corduroy](dic://spacious%20waled%20corduroy)_  n. 粗条灯芯绒
+		13. _[harness of corduroy](dic://harness%20of%20corduroy)_  灯心绒的综合
+		14. baggy corduroy pants. /宽松的灯心绒裤。
+		15. Nicholas was wearing a corduroy jacket. /尼古拉斯穿着一件灯芯绒夹克衫。
+	11. chorda
 3. **hern-** 表示“疝”。源自拉丁语 hernia "hernia."
 	1. hernia, hernias
-		1. [herniation](dic://herniation)
-		2. _n._ [rupture](dic://rupture)
-		3. **surgery**外科;**abdominal**腹部的;**cyst**胞,包囊,膀胱;**groin**腹股沟;**ligament**韧带;**gallbladder**胆囊;**bladder**膀胱;**aneurysm**动脉瘤;**hysterectomy**子宫切除;**ulcer**溃疡;**knee**膝盖，膝;
-		4. The hernia will strangulate and become necrotic /疝气梗塞而变坏死。
-		5. Transferred here from Mercy West when an ultrasound diagnosed the baby with congenital diaphragmatic hernia. /从 Mercy West 转来超声波症断，胎儿有先天性膈疝。
-	2. herniate
-		1. a herniated disc /突出的椎间盘。
-	3. hernial
+		1. n. 脱肠；疝气
+		2. [herniation](dic://herniation)
+		3. _n._ [rupture](dic://rupture)
+		4. **surgery**外科;**abdominal**腹部的;**cyst**胞,包囊,膀胱;**groin**腹股沟;**ligament**韧带;**gallbladder**胆囊;**bladder**膀胱;**aneurysm**动脉瘤;**hysterectomy**子宫切除;**ulcer**溃疡;**knee**膝盖，膝;
+		5. The hernia will strangulate and become necrotic /疝气梗塞而变坏死。
+		6. Transferred here from Mercy West when an ultrasound diagnosed the baby with congenital diaphragmatic hernia. /从 Mercy West 转来超声波症断，胎儿有先天性膈疝。
+	3. herniate
+		1. v. （器官）成疝，突出
+		2. a herniated disc /突出的椎间盘。
+		3. This stretches the nerve roots over the herniated disk or the object causing compression. /这可将神经根拉伸到可能的椎间盘突出或造成压迫的部位。
+		4. Bilateral sciatica, where both legs are affected, can occur with central disc herniated, lumbar stenosis or spondylolisthesis. /双侧的坐骨神经痛，可发生于中央型椎间盘突出、腰椎管狭窄、脊椎滑脱。
+	5. hernial
 		1. adj. 疝的；脱肠的
-	4. herniae
+	6. herniae
 4. haruspex
 	1. （古罗马）以动物内脏占卜的僧人
-5. yarn
-	1. [narration](dic://narration), [recital](dic://recital)
-	2. [thread](dic://thread)
-	3. _n._ [report](dic://report), [account](dic://account), [cord](dic://cord)
-	4. _v._ [tell](dic://tell), [narrate](dic://narrate), [recount](dic://recount), [recite](dic://recite)
-	5. **skein**一束;**knitting**针织;**knit**编织;**crochet**钩边;**knitted**针织的;**shawl**围巾，长方形披巾;**knitter**编织者;**wool**羊毛;**knits**针织品;**scarf**围巾;**crocheting**钩编;
-	6. _cotton yarn_ 棉纱；棉纱线
-	7. _blended yarn_ 混纺纱
-	8. _spun yarn_ 细纱，纺成纱
-	9. _yarn strength_ 纱线强度，长丝强度
-	10. _knitting yarn_ 针织纱；毛线
-	11. _yarn evenness_ 纱线均匀度
-	12. _fancy yarn_ 花式纱
+5. yarn (yearn)
+	1. 来自 PIEghere,肠，肠线，词源同 chord,cord,hernia.引申词义纱线。
+	2. n. 纱线；奇谈，故事
+	3. vt. 用纱线缠
+	4. vi. 讲故事
+	5. [narration](dic://narration), [recital](dic://recital)
+	6. [thread](dic://thread)
+	7. _n._ [report](dic://report), [account](dic://account), [cord](dic://cord)
+	8. _v._ [tell](dic://tell), [narrate](dic://narrate), [recount](dic://recount), [recite](dic://recite)
+	9. **skein**一束;**knitting**针织;**knit**编织;**crochet**钩边;**knitted**针织的;**shawl**围巾，长方形披巾;**knitter**编织者;**wool**羊毛;**knits**针织品;**scarf**围巾;**crocheting**钩编;
+	10. _cotton yarn_ 棉纱；棉纱线
+	11. _blended yarn_ 混纺纱
+	12. _spun yarn_ 细纱，纺成纱
+	13. _yarn strength_ 纱线强度，长丝强度
+	14. _knitting yarn_ 针织纱；毛线
+	15. _yarn evenness_ 纱线均匀度
+	16. _fancy yarn_ 花式纱
+	17. Men yarn of the harbour's famous pilots /人们常讲该港口的一些著名领港员的故事。
+	18. Knotless operation can reduce yarn defects and improve resultant yarn quality on a certain degree /无接头操作法在一定程度上减低了纱疵,对成纱质量有很好的改善。
+	19. he sat yarning to his mother. /他坐着和母亲闲聊。
+	20. they were yarning about local legends and superstitions. /他们正说着当地的传奇和迷信。
+	21. a linen-mix yarn which washes well. /很耐洗的亚麻混纺布料。
+	22. She stopped to have a yarn with me. /她停下来与我谈话。
+	23. His grandmother spun him a yarn at the fire /他奶奶在火炉边给他讲故事。
+	24. A lady wears white yarn tippet, svelte coming from a distance. /远处还有一位身披白纱的贵妇，娉婷而来。
+	25. Take the lot of the happiest, it is a tangled yarn. /就拿最幸福的人来说, 他的生活也是一团缠结在一起的乱麻。
+	26. And as much as I love a good yarn /我很喜欢听故事。
+	27. 
 
 
 ### + \*ghers- + = to stand out, to bristle, rise to a point
 1. **hor-, horr-** = shudder, dread, 「Latin」horrere, "to bristle, shudder, be terrified, look frightful"
 	1. horror
-		1.  [repugnance](dic://repugnance), [repulsion](dic://repulsion), [revulsion](dic://revulsion)
-		2. _n._ [fear](dic://fear), [fearfulness](dic://fearfulness), [fright](dic://fright), [thing](dic://thing), [disgust](dic://disgust)
-		3. [alarm](dic://alarm) 强调突然意识到有危险而产生的恐惧心理。  
-		4. [fear](dic://fear) 普通用词，侧重指面临危险或灾祸时内心所引起的恐惧心情。  
-		5. [fright](dic://fright) 通常指一阵突然的、令人震惊的短暂恐惧，有时含夸张意味。  
-		6. [horror](dic://horror) 侧重指因看到令人讨厌或危险的东西或情景而引起的厌恶情绪、极度恐惧心情或战栗的动作。   
-		7. [panic](dic://panic) 常指因突如其来的外界威胁使人群出现惊慌、恐惧或混乱。  
-		8. [terror](dic://terror) 指极大的恐惧和惊骇，语气最强。  
-		9. [dread](dic://dread) 可与fear换用，着重害怕的心理，但dread常指胆怯和丧失勇气。
-		10. **sci-fi**科幻;**zombie**行尸走肉;**macabre**可怕的;**gore**刺伤;**horrifying**令人恐惧的,使人惊骇的;**fright**惊吓;**gory**血淋淋的;**gothic**哥特式的;**thriller**使人毛骨悚然的东西;**suspense**悬念;**fiction**小说;
-			1. _in horror_ 惊恐地
-			2. _horror film_ 恐怖片；惊险影片
-			3. _horror movie_ 恐怖片，惊恐片；恐怖电影
-			4. _horror fiction_ 恐怖小说
-			5. _horror story_ 恐怖故事
-		11. horrorstuck
-		12. horror-stricken
+		1. horr-害怕 + -or引申词义厌恶，恐惧。
+		2. 来自拉丁语 horrere,因恐惧而毛发竖立，颤抖，来自 PIEghers,竖立的毛发，硬毛，词源同hair.引申词义厌恶，恐惧。
+		3. n. 惊骇, 恐怖, 惨状
+		4.  [repugnance](dic://repugnance), [repulsion](dic://repulsion), [revulsion](dic://revulsion)
+		5. _n._ [fear](dic://fear), [fearfulness](dic://fearfulness), [fright](dic://fright), [thing](dic://thing), [disgust](dic://disgust)
+			1. [alarm](dic://alarm) 强调突然意识到有危险而产生的恐惧心理。  
+			2. [fear](dic://fear) 普通用词，侧重指面临危险或灾祸时内心所引起的恐惧心情。  
+			3. [fright](dic://fright) 通常指一阵突然的、令人震惊的短暂恐惧，有时含夸张意味。  
+			4. [horror](dic://horror) 侧重指因看到令人讨厌或危险的东西或情景而引起的厌恶情绪、极度恐惧心情或战栗的动作。   
+			5. [panic](dic://panic) 常指因突如其来的外界威胁使人群出现惊慌、恐惧或混乱。  
+			6. [terror](dic://terror) 指极大的恐惧和惊骇，语气最强。  
+			7. [dread](dic://dread) 可与fear换用，着重害怕的心理，但dread常指胆怯和丧失勇气。
+		6. **sci-fi**科幻;**zombie**行尸走肉;**macabre**可怕的;**gore**刺伤;**horrifying**令人恐惧的,使人惊骇的;**fright**惊吓;**gory**血淋淋的;**gothic**哥特式的;**thriller**使人毛骨悚然的东西;**suspense**悬念;**fiction**小说;
+		7. _in horror_ 惊恐地
+		8. _horror film_ 恐怖片；惊险影片
+		9. _horror movie_ 恐怖片，惊恐片；恐怖电影
+		10. _horror fiction_ 恐怖小说
+		11. _horror story_ 恐怖故事
+		12. I have a horror of snakes. /我特别讨厌蛇。
+		13. She had a horror of hospitals. /她极其憎恶医院。
+		14. He was filled with horror at the sight. /他看见那种情景吓得发抖。
+		15. Horrors on a scale that defy description. /恐怖的规模难以描述。
+		16. And from his bad dreams gallops a biblical horror. /一个圣经上的恐怖画面，骑马飞奔，出现在他的噩梦中。
+		17. horrorstuck
+		18. horror-stricken
 	3. abhor
 		1.  [loathe](dic://loathe), [abominate](dic://abominate), [execrate](dic://execrate)
 		2. _v._ [hate](dic://hate), [detest](dic://detest)
@@ -2013,16 +2116,16 @@
 		8. abhorrer
 		9. abhorrent
 		10. abhorrence, self-abhorrence
-	5. horrendous
+	4. horrendous
 		1. _adj._ [alarming](dic://alarming)
 		2. _n._ [unalarming](dic://unalarming)
 		3. **horrible**可怕的;**horrid**可怕的;**terrible**可怕的;**atrocious**恶毒的;**horrific**可怕的;**dreadful**可怕的;**awful**可怕的，庄严的;**appalling**令人震惊的;**ghastly**可怕的;**hideous**可怕的;**abysmal**深不可测的;
 		4. _[horrendous](dic://horrendous)_  adj. 可怕的；惊人的
 		5. What horrendous weather! /多么讨厌的天气！
 		6. she suffered horrendous injuries. /她遭受了极其可怕的伤害。
-	6. horrent
+	5. horrent
 		1. adj. [古语]可怕的；倒竖的；毛骨悚然的（等于horrendous）
-	7. horrible
+	6. horrible
 		1. horribly
 		2. horrid
 			1.  [hideous](dic://hideous), [horrific](dic://horrific), [outrageous](dic://outrageous)s
@@ -2032,12 +2135,12 @@
 			5. a horrid nightmare /可怕的梦魇。
 			6. Don’t be horrid to me! /别对我那么凶！
 		3. horrify, horrified, horrific
-	8. horripilation
+	7. horripilation
 		1. _n._ (受惊、发冷等引起的)鸡皮疙瘩；毛发竖立 
 		2.  [pilomotor reflex](dic://pilomotor reflex), [gooseflesh](dic://gooseflesh), [goose bump](dic://goose bump), [goosebump](dic://goosebump), [goose pimple](dic://goose pimple), [goose skin](dic://goose skin)
 		3. _n._ [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
 		4. **fright**惊吓;**trembling**发抖;**shiver**颤抖，战栗;**tingling**发出叮当声;**apprehension**理解;**sensation**感觉;**tremble**战栗;**anguish**苦闷;**shivering**颤抖的;**numbness**麻木;**helplessness**无可奈何状态;
-	10. ordure
+	8. ordure
 		1. n. 排泄物；污物；粪；淫秽的话
 		2. [fecal matter](dic://fecal matter), [faecal matter](dic://faecal matter), [feces](dic://feces), [faeces](dic://faeces), [BM](dic://BM), [stool](dic://stool), [dejection](dic://dejection)
 		3. _n._ [body waste](dic://body waste), [excretion](dic://excretion), [excreta](dic://excreta), [excrement](dic://excrement), [excretory product](dic://excretory product)

@@ -712,39 +712,60 @@ sarcomas
 			6. [prefer](dic://prefer) 指有选择性或偏向性的喜欢。
 		2. **love**恋爱;**loved**恋爱的;**loathe**讨厌，厌恶;**gorgeous**华丽的，灿烂的;**admire**欣赏，赞赏;**loving**亲爱的;**despise**轻视，鄙视;**fabulous**难以置信的;**smitten**打击，摧毁;**darling**心爱的人，亲爱的;**enamored**迷恋的;
 	2. exorable
-		1. _[exorable](dic://exorable)_  adj. 可说服的；可用恳求打动的
-		2. inexorability
-		3. inexorable
-			1. [grim](dic://grim), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
-			2.  [adamant](dic://adamant), [adamantine](dic://adamantine), [intransigent](dic://intransigent)
-			3. _adj._ [implacable](dic://implacable), [inflexible](dic://inflexible)
-			4. _n._ [placable](dic://placable), [flexible](dic://flexible)
-			5. **relentless**残酷的, 不留情的, 无怜悯心的;**inescapable**不可避免的, 逃避不了的;**unrelenting**不屈不挠的;**inevitable**不可避免的, 必然发生的;**unending**不断的，无止境的;**gradual**逐渐的;**unstoppable**无法停止的;**ever-increasing**不断增长的;**never-ending**不停的,无限的;**seeming**外观;**insidious**隐伏的;
-			6. _[inexorable doom](dic://inexorable%20doom)_  劫数
-			7. _[inexorable trend](dic://inexorable%20trend)_  必然趋势
-			8. _[history inexorable trend](dic://history%20inexorable%20trend)_ 历史的必然趋势
-			9. _[the inexorable trend](dic://the%20inexorable%20trend)_ 经济发展的必然
-			10. _[Green inexorable doom](dic://Green%20inexorable%20doom)_ 绿色劫难
-		4. inexorably
-	3. oracle
-		1.  [prophet](dic://prophet), [prophesier](dic://prophesier), [seer](dic://seer), [vaticinator](dic://vaticinator)
-		2. _n._ [diviner](dic://diviner), [prophecy](dic://prophecy), [divination](dic://divination), [shrine](dic://shrine)
-		3. **tarot**塔罗纸牌;**daemon**半神半人的精灵;**prophet**先知;**prophecy**预言;**Delphi**特尔斐;**horoscope**占星术;**gods**上帝们;**SQL**结构化查询语言;**sage**圣人;**goddess**女神，受崇拜的女性;
-		4. _oracle bone_ 甲骨（中国商朝用来刻写占卜文字的龟甲兽骨）
-		5. _oracle bone inscriptions_ 甲骨文
-		6. _delphic oracle_ 德尔斐神谕
-		7. oracular
+		1. ex-出 + or-说 + -able
+		2. _[exorable](dic://exorable)_  adj. 可说服的；可用恳求打动的
+		3. inexorability
+		4. inexorable
+			1. _adj._ 无情的;不屈的
+			2. 不能变更的;不可阻挡的
+			3. [grim](dic://grim), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
+			4.  [adamant](dic://adamant), [adamantine](dic://adamantine), [intransigent](dic://intransigent)
+			5. _adj._ [implacable](dic://implacable), [inflexible](dic://inflexible)
+			6. _n._ [placable](dic://placable), [flexible](dic://flexible)
+			7. **relentless**残酷的, 不留情的, 无怜悯心的;**inescapable**不可避免的, 逃避不了的;**unrelenting**不屈不挠的;**inevitable**不可避免的, 必然发生的;**unending**不断的，无止境的;**gradual**逐渐的;**unstoppable**无法停止的;**ever-increasing**不断增长的;**never-ending**不停的,无限的;**seeming**外观;**insidious**隐伏的;
+			8. _[inexorable doom](dic://inexorable%20doom)_  劫数
+			9. _[inexorable trend](dic://inexorable%20trend)_  必然趋势
+			10. _[history inexorable trend](dic://history%20inexorable%20trend)_ 历史的必然趋势
+			11. _[the inexorable trend](dic://the%20inexorable%20trend)_ 经济发展的必然
+			12. _[Green inexorable doom](dic://Green%20inexorable%20doom)_ 绿色劫难
+			13. the inexorable march of time /不可阻挡的时间推移
+			14. the seemingly inexorable march of new technology. /新技术似乎不可阻挡的发展。
+			15. trying to prevent the inexorable slide into war /试图阻止滑向战争的无法阻挡的趋势
+			16. The West is not on an inexorable slide towards irrelevance. Far from it. /西方并非不可逆转地走向无关紧要。远非如此。
+			17. And so it went, the inexorable elimination of the superfluous /他们这才狠下心来把多余的物件清除。
+			18. What happened to the supposedly inexorable march of the machines? /那么曾经被认为势不可挡的机器人发展到底出了什么问题呢？
+		6. inexorably
+	4. oracle
+		1. oracle（神谕）：古希腊人求神谕的习俗  
+		2. 古希腊人在采取重大行动之前都有求神谕的习惯。神谕是一种占卜形式，经过某个中介者，传达神明的意旨，对未来做出预言，回答询问。  
+		3. 在古希腊，最著名的神谕是德尔斐神谕。德尔斐（Delphi）是古代所有希腊城邦的共同圣地，供奉着德尔斐的阿波罗。古希腊人认为，德尔斐是地球的中心，是“地球的肚脐”，因此德尔斐的神谕最被人看重。神庙里负责传达神谕的是称为“皮提亚”（Pythia）的女祭司，由年轻女孩或老妇担任，坐在一张三角架上。三脚架横跨在一道产生天然气的裂缝上。  
+		4. 在拉丁语中，表示神谕的单词是oraculum，由动词orare （祈祷、请求）加名词后缀构成，英语单词oracle（神谕）就来源于此。同源的单词还有还有orate（演说）、orator（演说者）、oration（演说）等词。  
+		5. 大名鼎鼎的IT公司甲骨文公司的英文名就是“Oracle”。中文之所以翻译为为“甲骨文”，乃是中国古代使用甲骨来占卜，从而获得神谕。  
+		6. oracle：['ɒrək(ə)l] n.神谕，预言  
+		7. oracular：[ɒ'rækjʊlə] adj.神谕的，玄妙深奥的，意义模糊的  
+		8. orate： ['ɔret] vi. 演说，演讲；用演说的腔调说  
+		9. orator： ['ɔrətɚ] n. 演说者；演讲者；雄辩家；原告  
+		10. oration：[ɔ'reʃən]  n. 演说；致辞；叙述法  
+		11. oratory：['ɔrətɔri] n. 雄辩；演讲术  
+		12. oratorical： [,ɔrə'tɔkəl] adj. 演说的；演说家的；雄辩的
+		2.  [prophet](dic://prophet), [prophesier](dic://prophesier), [seer](dic://seer), [vaticinator](dic://vaticinator)
+		3. _n._ [diviner](dic://diviner), [prophecy](dic://prophecy), [divination](dic://divination), [shrine](dic://shrine)
+		4. **tarot**塔罗纸牌;**daemon**半神半人的精灵;**prophet**先知;**prophecy**预言;**Delphi**特尔斐;**horoscope**占星术;**gods**上帝们;**SQL**结构化查询语言;**sage**圣人;**goddess**女神，受崇拜的女性;
+		5. _oracle bone_ 甲骨（中国商朝用来刻写占卜文字的龟甲兽骨）
+		6. _oracle bone inscriptions_ 甲骨文
+		7. _delphic oracle_ 德尔斐神谕
+		8. oracular
 			1.  [enigmatic](dic://enigmatic)
 			2. _adj._ [oracle](dic://oracle), [prophetic](dic://prophetic), [prophetical](dic://prophetical), [ambiguous](dic://ambiguous)
 			3. _n._ [unprophetic](dic://unprophetic), [unambiguous](dic://unambiguous)
 			4. **oracle**神谕;**prophetic**预言的,先知的;**mystical**神秘的;**mystic**神秘的;**poetic**诗的，诗歌的;**mythic**神话的;**utterance**说话;**mythological**神话的;**prophecy**预言;**esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;
-	4. orate
+	5. orate
 		1. orator
-			1. [speechmaker](dic://speechmaker), [rhetorician](dic://rhetorician), [public speaker](dic://public speaker), [speechifier](dic://speechifier)
-			2. _n._ [speaker](dic://speaker), [talker](dic://talker), [utterer](dic://utterer), [verbalizer](dic://verbalizer), [verbaliser](dic://verbaliser)
-			3. **statesman**政治家;**eloquent**雄辩的，有口才的;**jurist**法官;**preacher**传教士;**politician**政治家;**poet**诗人;**clergyman**牧师;**philosopher**哲学家;**speaker**扬声器;**thinker**思想家;**essayist**随笔作家，散文家;
-			4. _[Soapbox orators](dic://Soapbox%20orators)_ 肥皂箱上的演说家 / 指讲演者之角那些站在自带肥皂箱之类的东西
-			5. The orator set the audience on fire /演讲者使听众情绪激昂。
+			2. [speechmaker](dic://speechmaker), [rhetorician](dic://rhetorician), [public speaker](dic://public speaker), [speechifier](dic://speechifier)
+			3. _n._ [speaker](dic://speaker), [talker](dic://talker), [utterer](dic://utterer), [verbalizer](dic://verbalizer), [verbaliser](dic://verbaliser)
+			4. **statesman**政治家;**eloquent**雄辩的，有口才的;**jurist**法官;**preacher**传教士;**politician**政治家;**poet**诗人;**clergyman**牧师;**philosopher**哲学家;**speaker**扬声器;**thinker**思想家;**essayist**随笔作家，散文家;
+			5. _[Soapbox orators](dic://Soapbox%20orators)_ 肥皂箱上的演说家 / 指讲演者之角那些站在自带肥皂箱之类的东西
+			6. The orator set the audience on fire /演讲者使听众情绪激昂。
 		2. oratorio
 			1.  [cantata](dic://cantata)
 			2. _n._ [classical music](dic://classical music), [classical](dic://classical), [serious music](dic://serious music)
@@ -754,7 +775,7 @@ sarcomas
 			1. _n._ [address](dic://address), [speech](dic://speech)
 			2. **rhetoric**修辞，修辞学;**speech**演说;**eloquent**雄辩的，有口才的;**recitation**背诵;**charisma**非凡的领导力;**rhetorical**修辞的;**intellect**智力;**pulpit**讲道坛;**preaching**讲道,讲道法;**piety**虔诚;**chapel**小教堂;
 			3. _[judicial oratory](dic://judicial%20oratory)_ 法庭演说
-	5. perorate
+	6. perorate
 		1. _v._ [conclude](dic://conclude), [declaim](dic://declaim), [recite](dic://recite)
 		2. vi. 下结论；冗长地谈论；作结语
 

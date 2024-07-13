@@ -95,28 +95,51 @@
 	15. barrage
 		1. n. 弹幕, 掩护炮火  vt. 以密集炮火进攻
 	16. debar
-	17. embarrass
+		1. de-加强 + bar【杆，阻止】。
+		2. vt. 阻止；排除；防止
+		3. [suspend](dic://suspend)
+		4. [obviate](dic://obviate), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+		5. [bar](dic://bar), [exclude](dic://exclude)
+		6. _v._ [expel](dic://expel), [throw out](dic://throw out), [kick out](dic://kick out), [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude)
+		7. **disqualify**丧失资格;**deprive**使丧失，剥夺;**preclude**妨碍;**prohibit**阻止，禁止;**abstain**放弃;**countenance**面容，表情;**compel**强迫，迫使;**terminate**结束;**procure**获得，取得;**restrain**抑制，控制;**deter**制止，阻止;
+		8. _[debar from](dic://debar%20from)_  把…关在外面; 阻止使（某人）不…;
+		9. debar a person from a place /禁止某人进某处
+		10. She could not have committed the crime single-handed, but the reasons against that did not debar her from being an accomplice /她不可能单独犯罪， 但反对的理由并不妨碍她成为共犯。
+		11. You say his sports were disturbed by your brawls; being debarred from the enjoyment of society and recreation, what could ensue but dull melancholy and comfortless despair? /你说他的运动被你们的争吵打扰了；被禁止享受社交和娱乐， 随之而来的除了沉闷的忧郁和无助的绝望之外， 还会有什么？
+		12. Age was to him no more an obsessing factor than rank or color; he had never felt debarred from liking people because they were too young or too old. /对他来说，年龄与等级或肤色一样，不再是一个令人着迷的因素。他从来没有因为太年轻或太老而不能喜欢别人。
+	18. embarrass
 		1. em-进入 + barr-栏 + -ass → 阻碍。
-		2. embarrassment
-		3. 
-	18. embargo
-		1. a government order imposing a trade barrier
+		2. em-,进入，使，bar,阻止。-ass,名词后缀，见 largess.
+		3. vt. 使困窘; 使困惑, 使为难, 使…陷入麻烦
+		4. embarrassment
+		5. 
+	19. embargo
+		1. em-进入，使 + bar【阻止】。
+		2. n. 封港令, 禁运  
+		3. vt. 禁止出入港口, 禁运
+		4. a government order imposing a trade barrier
 			1. [trade embargo](dic://trade embargo), [trade stoppage](dic://trade stoppage)
-		2. ban the publication of (documents), as for security or copyright reasons
+		5. ban the publication of (documents), as for security or copyright reasons
 			1. embargoed publications
-		3. prevent commerce
+		6. prevent commerce
 			1. The U.S. embargoes Libya
-		4. _n._ [trade barrier](dic://trade barrier), [import barrier](dic://import barrier)
-		5. _v._ [ban](dic://ban), [censor](dic://censor), [stop](dic://stop), [halt](dic://halt), [block](dic://block), [kibosh](dic://kibosh)
-		6. **blockade**封锁;**ban**禁止;**moratorium**正式的延缓,暂停;**prohibition**禁止;**Cuba**古巴;**importation**进口;**disarmament**解除武装;**restriction**约束, 限制;**treaty**条约，协议;**cease-fire**停火;**ceasefire**停火;
-		7. _arms embargo_ 武器禁运，军火禁运
-		8. _embargo on_ 对…的禁运
-		9. _oil embargo_ [法]石油禁运
-		10. an embargo on grain sales /禁止谷物销售令。
-		11. During the war, they laid an embargo on commerce with enemy countries. /During the war, they laid an embargo on commerce with enemy countries.
-	19. unbar
+		7. _n._ [trade barrier](dic://trade barrier), [import barrier](dic://import barrier)
+		8. _v._ [ban](dic://ban), [censor](dic://censor), [stop](dic://stop), [halt](dic://halt), [block](dic://block), [kibosh](dic://kibosh)
+		9. **blockade**封锁;**ban**禁止;**moratorium**正式的延缓,暂停;**prohibition**禁止;**Cuba**古巴;**importation**进口;**disarmament**解除武装;**restriction**约束, 限制;**treaty**条约，协议;**cease-fire**停火;**ceasefire**停火;
+		10. _arms embargo_ 武器禁运，军火禁运
+		11. _embargo on_ 对…的禁运
+		12. _oil embargo_ [法]石油禁运
+		13. an embargo on criticism /禁止批评
+		14. an embargo on grain sales /禁止谷物销售令。
+		15. This country put an oil embargo on an enemy country. /该国对敌国实行石油禁运。
+		16. an embargo on the sale of computers to unfriendly nations. /对不友好国家的禁售电脑令
+		17. the far-reaching impact of an oil embargo; /石油禁运的深远影响；
+		18. the European Community lifted its oil embargo against South Africa. /欧洲共同体解除了对南非的石油禁运。
+		19. Belgrade responded with its own embargo on imports from Croatia /作为回应，贝尔格莱德也禁止从克罗地亚进口商品。
+		20. During the war, they laid an embargo on commerce with enemy countries. /During the war, they laid an embargo on commerce with enemy countries.
+	21. unbar
 		1. vt. 拉开...的门闩, 打开
-	20. debacle
+	22. debacle
 		1.  de-,不，非，使相反， -bacle,杆，棍，支撑，词源同 bachelor,bacteria.即移除支撑，引申词义崩溃
 		2.  [fiasco](dic://fiasco)
 		3.  [thrashing](dic://thrashing), [walloping](dic://walloping), [drubbing](dic://drubbing), [slaughter](dic://slaughter), [trouncing](dic://trouncing), [whipping](dic://whipping)
@@ -125,7 +148,7 @@
 		6. Many men were shot or captured in the debacle /败军在溃逃时有很多人被击毙或俘虏。
 		7. to blame the debacle on the antics of a rogue trader is not credible—it doesn't stack up. /把失败归咎于无赖商人哗众取宠的行为是不可信的，这与事实不符。
 		8. You must have been mortified. -Oh, I was. It was an absolute debacle. /你肯定窘迫得很。-是啊。绝对是一场灾难。
-	21. imbecile
+	23. imbecile
 		1. 低能的, 愚钝的, 虚弱的  n. 低能者, 痴呆, 蠢人
 		2. im-不，非 + bec-支撑，杆 + -ile, 表形容词，字面含义无支撑的、身体虚弱的，演变为智力上的虚弱即低能的。
 		3.  [idiot](dic://idiot), [cretin](dic://cretin), [moron](dic://moron), [changeling](dic://changeling), [half-wit](dic://half-wit), [retard](dic://retard)
@@ -1124,13 +1147,31 @@
 		5. jailbait
 		6. bearbaiting
 	2. abet
-		1. abettor
-		2. abetter
-		3. abetment
-	3. bet
+		1. abet（煽动）：中世纪时的纵狗斗熊游戏  
+		2. 单词abet与14至15世纪英国流行的“纵狗斗熊”游戏（bear baiting）有关。这种游戏一般在熊园里进行。先用铁链把熊拴在柱子上，然后放一群狗咬它，在经过一番撕咬搏斗之后，总是以熊被咬死而告终。据记载，1575年英国女王伊丽莎白一世在观看“纵狗斗熊”时就有13只熊被咬死。“纵狗斗熊”的游戏在英国延续了800多年，直到1835年才因为过于残忍而被取消。  
+		3. abet一词来自古法语abeter，其中a=to，beter=bait（诱使去咬）。狗的主人或观众唆使狗去咬熊的行为就是abet the dogs（唆使狗去咬熊）。后来，abet的词义变宽，用于表示更一般意义上的“教唆、唆使”。  
+		4. abet： [ə'bet] v.煽动，教唆  
+		5. abettor：[ə'bɛtɚ] n. 教唆犯；唆使者
+		6. abet - 人们常将该词的由来和14至15世纪流行于英国的“纵狗斗熊”游戏（bearbaiting）相联系。这种游戏一般在熊园里进行。先用铁链把熊拴在柱子上，然后放一群狗咬它，在经过一番撕咬搏斗之后总是以熊被咬死而告终。观众嗾使狗去咬熊常爱说“sic'em”或“go get'em”（去咬），这一做法就叫abet the dogs。abet一词是14世纪才出现于英语之中的，来自古法语abeter（纵犬袭击），abet如今常用的“怂恿”、“唆使”等义即由此引申而来。这种逗熊游戏在英国延续了八百年之久，直至1835年因被认为残忍才遭禁止。据有关资料记载，1575年英国女王伊丽莎白一世一次观看逗熊就有13只熊被狗咬死。
+		7. _v._ [assist](dic://assist)
+		8. **aiding**帮助;**aid**帮助;**hasten**催促;**thwart**反对;**incite**煽动;**impede**阻止;**aided**辅助的;**hinder**成为阻碍;**accomplice**从犯, 帮凶, 同谋;**obstruct**阻塞;**induce**引诱;
+		9. _[abets](dic://abets)_  n. 飞机信标电子试验装置
+		10. _[aid and abet](dic://aid%20and%20abet)_  帮凶，同谋
+		11. _[psychology of abetting offender](dic://psychology%20of%20abetting%20offender)_  教唆犯心理
+		12. abet the commission of a crime /教唆犯罪
+		13. We're not aiding and abetting a criminal. /我们不会帮助和教唆罪犯的。
+		14. Technology should abet my life, not dominate or redefine it. /科技应该帮助我的生活，而不是主宰或者改变我的生活本质。
+		15. He's aiding and abetting the sale of drugs /他在帮助并教唆人贩毒。
+		16. Well as my sign says I will aid and abet abortion /正如我的牌子上写的那样，我会帮助和支持堕胎。
+		17. Belarus is also being targeted for abetting the invasion of Ukraine /白俄罗斯也因协助入侵乌克兰而成为制裁目标。
+		18. He disappeared shortly before the supreme court could rule on his seven-year jail sentence for aiding and abetting mobsters. /在最高法院判决他帮助和教唆黑手党之罪入狱七年之前，他失踪了一小段时间。
+		19. abettor
+		20. abetter
+		21. abetment
+	4. bet
 		1. bettor
 		2. betting
-	4. bite
+	5. bite
 		1. soundbite
 		2. snakebite
 		3. restbite
@@ -1141,7 +1182,7 @@
 		8. bitting
 		9. biteplate
 		10. backbite
-	5. bitter
+	6. bitter
 		1. embitter
 		2. bittersweet
 		3. bitterroot
@@ -1151,7 +1192,7 @@
 		7. bitterish
 		8. bittering
 		9. bitter-ender
-	6. bit
+	7. bit
 		1. wait-a-bit
 		2. unbitted
 		3. two-bit
@@ -2510,7 +2551,16 @@
 		9. an arch that is foliated in the Gothic style. /一座按哥特式风格饰以叶形装饰的拱门
 		10. bifoliate
 		11. defoliate, defoliant
-		12. exfoliate
+		12. exfoliate (depilate)
+			1. vi. 片状剥落；鳞片样脱皮 
+			2. vt. 使片状脱落；使呈鳞片状脱落
+			3. _v._ [unfold](dic://unfold), [spread](dic://spread), [spread out](dic://spread out), [open](dic://open), [shed](dic://shed), [cast](dic://cast), [cast off](dic://cast off)
+			4. **scrub**用力擦洗;**hydrate**氢氧化物;**cleanser**清洁剂;**pores**气孔;**cleanse**净化;**skin**皮肤;**skincare**护理皮肤的;**lotion**洗液;**scalp**头皮;**hydrated**含水的;**rejuvenate**使变得年轻, 使恢复活力;
+			5. the bark exfoliates in papery flakes. /树皮像纸屑一样纷纷落下。
+			6. Exfoliating with a dry brush pre-shower will really help you with all of this /洗澡前用个刷子去去角质层会让你容光焕发。
+			7. Then, you're going to go in with your toothbrush and use circular motions to exfoliate your lips. /然后，用牙刷在嘴唇上做圆圈运动去除角质。
+			8. Yesterday, you used an english muffin to exfoliate. /昨天你还用英式松饼去角质呢。
+			9. **Exfoliate** on a weekly or Semi-weekly basis /一周或半周的基础上去角质。
 		13. latifoliate
 		14. perfoliate
 		15. quinquefoliate

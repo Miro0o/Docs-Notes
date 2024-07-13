@@ -2730,6 +2730,12 @@ _delicate balance_ 微妙的平衡
 6. leister
 7. loess
 8. loose
+	1. play fat and loose
+		1. Your board playing fast and loose with the lives of people in service? /对于董事会随意玩弄政府部门人员的性命一事？
+		2. I mean, there's always gonna be people in this world who are playing fast and loose with the rules /我是说，这世上肯定有些人会不守规则。
+		3. I'm gonna play fast and loose, and not measure. /我会快速而松散地玩，而不是衡量。
+		4. They played fast and loose with investors’ money. /他们滥用投资者的资金。
+		5. We can't play fast and loose with your mental health. /不能把你的精神健康当儿戏。
 9. lorn
 10. lose
 11. loss
@@ -2988,23 +2994,31 @@ _delicate balance_ 微妙的平衡
 			2. _n._ [agent](dic://agent)
 			3. **reagent**试剂;**mixtures**配合料;**solvent**有溶解力的;**surfactant**表面活性剂;**dilution**稀释，冲淡;**monomer**单体;**aqueous**水的，水般的;**syringe**注射器;**slurry**泥浆;**reagents**试剂;**liquid**液体的;
 			4. _reactive diluent_ 活性稀释剂
-	6. deluge
-		1. [flood](dic://flood), [inundation](dic://inundation), [torrent](dic://torrent)
-		2. [downpour](dic://downpour), [cloudburst](dic://cloudburst), [waterspout](dic://waterspout), [torrent](dic://torrent), [pelter](dic://pelter), [soaker](dic://soaker)
-		3. [flood](dic://flood), [inundation](dic://inundation), [alluvion](dic://alluvion)
-		4. [flood](dic://flood), [inundate](dic://inundate), [swamp](dic://swamp)
-		5.  [overwhelm](dic://overwhelm), [flood out](dic://flood out)
-		6. [inundate](dic://inundate), [submerge](dic://submerge)
-		7. _n._ [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap)
-		8. _v._ [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full), [charge](dic://charge), [saddle](dic://saddle), [burden](dic://burden), [flood](dic://flood)
-		9. **flood**淹没;**onslaught**猛攻, 攻击;**barrage**弹幕;**inundated**洪泛的;**torrential**似急流的;**flooding**产后出血;**floods**洪水;**swamped**泥沼状的;**spate**洪水;**flooded**洪水浸没的;**flurry**一阵疾风;
-		10. _deluge system_ 密集洒水系统；集水系统；雨淋灭火系统
-	7. elutriate
+	6. deluge (pluvian, cataclysm)
+		1. de-去掉 + lug-=luv-冲 + -e → 冲掉 → 暴雨。
+		2. deluge（洪水）：圣经故事中上帝毁灭人类的大洪水  
+		3. 英语单词deluge在词典中的解释是“大洪水、暴雨”，人们往往不知道它和flood（洪水）之间的区别。其实，这个词有自己独特的背景，它来自圣经，指的是上帝毁灭人类世界的那次大洪水。  
+		4. 在《圣经•创世纪》中记载，上帝造人后，看到人在世间胡作非为，犯下各种罪恶，便后悔造人了，想毁灭人类世界，于是发下大洪水淹没了整个世界，人类遭到毁灭，只有敬神的诺亚一家因为事先按照上帝的旨意修建了诺亚方舟才躲过此难。  
+		5. 单词deluge原本专指这场大洪水，但人们通常用它来比喻各种洪水一般的事物。在表示实际的洪水这一自然灾害时，人们往往还是使用flood一词。  
+		6. 英国物理学家托马斯•布朗（Thomas Browne）在17世纪创造了antediluvian一词，字面意思为“大洪水之前的”，比喻远古的。  
+		7. deluge：['deljuːdʒ] n.洪水，暴雨，上帝毁灭人类的大洪水vt.使泛滥，压倒  
+		8. antediluvian：[,æntɪdɪ'luːvɪən] adj. 大洪水前的；远古的；陈旧的；旧式的n. 大洪水以前的人；年迈的人；不合时宜的人
+		9. [flood](dic://flood), [inundation](dic://inundation), [torrent](dic://torrent)
+		10. [downpour](dic://downpour), [cloudburst](dic://cloudburst), [waterspout](dic://waterspout), [torrent](dic://torrent), [pelter](dic://pelter), [soaker](dic://soaker)
+		11. [flood](dic://flood), [inundation](dic://inundation), [alluvion](dic://alluvion)
+		12. [flood](dic://flood), [inundate](dic://inundate), [swamp](dic://swamp)
+		13.  [overwhelm](dic://overwhelm), [flood out](dic://flood out)
+		14. [inundate](dic://inundate), [submerge](dic://submerge)
+		15. _n._ [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap)
+		16. _v._ [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full), [charge](dic://charge), [saddle](dic://saddle), [burden](dic://burden), [flood](dic://flood)
+		17. **flood**淹没;**onslaught**猛攻, 攻击;**barrage**弹幕;**inundated**洪泛的;**torrential**似急流的;**flooding**产后出血;**floods**洪水;**swamped**泥沼状的;**spate**洪水;**flooded**洪水浸没的;**flurry**一阵疾风;
+		18. _deluge system_ 密集洒水系统；集水系统；雨淋灭火系统
+	8. elutriate
 		1. _[elutriate](dic://elutriate)_  vt. 淘析；净化；洗涤
-	8. eluvial
+	9. eluvial
 		1. eluvium
 			1. n. 残积层
-	9. launder
+	10. launder
 		1. [wash](dic://wash)
 		2. _v._ [clean](dic://clean), [make clean](dic://make clean), [change](dic://change), [exchange](dic://exchange), [commute](dic://commute), [convert](dic://convert)
 		3. **wash**洗涤;**bribe**贿赂，收买;**cartels**卡特尔;**money**钱;**illicit**违法的;
@@ -3027,7 +3041,7 @@ _delicate balance_ 微妙的平衡
 			10. _do the laundry_ 洗衣服；做洗衣服的活
 			11. _laundry basket /laundry hamper._ 洗衣篮
 			12. _laundry soap_ [化]洗涤皂
-	10. lava
+	11. lava (larva)
 		1. _n._ [volcanic rock](dic://volcanic rock)
 		2. **volcanic**火山的;**volcano**火山;**magma**岩浆;**molten**熔化的;**crater**坑;**eruption**爆发，喷发;**mud**泥;**boulders**岩石;**cave**使凹陷，使塌落;**ash**灰;**limestone**石灰岩;
 		3. lavabo
@@ -3039,7 +3053,7 @@ _delicate balance_ 微妙的平衡
 			1.  [toilet](dic://toilet), [lavatory](dic://lavatory), [can](dic://can), [john](dic://john), [privy](dic://privy), [bathroom](dic://bathroom)
 			2. _n._ [room](dic://room)
 			3. **loo**厕所;**toilet**厕所，盥洗室;**aa**嗜酒者互诫协会;**ta**技术援助;**bathroom**浴室;**restroom**洗手间;
-	11. lave
+	12. lave
 		1. [lap](dic://lap), [wash](dic://wash)
 		2. [wash up](dic://wash up)
 		3. _v._ [flow](dic://flow), [cleanse](dic://cleanse), [clean](dic://clean), [freshen](dic://freshen), [refresh](dic://refresh), [refreshen](dic://refreshen), [freshen up](dic://freshen up)
@@ -3063,7 +3077,7 @@ _delicate balance_ 微妙的平衡
 		8. lavender
 			1. lavendery
 				1. _adj._ 有熏衣草香味的,芳香的
-	12. lather
+	13. lather
 		1.  [soapsuds](dic://soapsuds), [suds](dic://suds)
 		2. [fret](dic://fret), [stew](dic://stew), [sweat](dic://sweat), [swither](dic://swither)
 		3.  [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
@@ -3073,9 +3087,9 @@ _delicate balance_ 微妙的平衡
 		7. **lotion**洗液;**soap**肥皂;**shampoo**洗发;**soapy**涂着肥皂的;**foaming**发泡，泡沫形成;**shave**剃;**shaving**削;**cleanser**清洁剂;**rinse**冲洗掉;**soaps**穿孔砖;**wash**洗涤;
 		8. lathery
 		9. lathrine
-	13. lotion
+	14. lotion
 		1. lotic
-	14. lustral
+	15. lustral
 		1. _[lustral](dic://lustral)_  adj. 清垢的；除邪的
 		2. lustrate
 			1. lustration
