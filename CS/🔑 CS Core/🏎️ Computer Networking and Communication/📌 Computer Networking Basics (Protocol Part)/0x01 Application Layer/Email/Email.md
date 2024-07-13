@@ -5,11 +5,13 @@
 
 
 ## Res
-【深入浅出计算机网络 - 6.6 电子邮件】 https://www.bilibili.com/video/BV1iV4y1T7eG/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
-
 ### Related Topics
 ↗ [Email Clients](../../../../🧰%20Generic%20Tools%20&%20Projects/Email%20Clients/Email%20Clients.md)
+↗ [Email Security](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/📧%20Email%20Security/Email%20Security.md)
+
+
+### Learning Resources
+【深入浅出计算机网络 - 6.6 电子邮件】 https://www.bilibili.com/video/BV1iV4y1T7eG/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

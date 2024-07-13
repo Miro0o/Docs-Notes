@@ -18,16 +18,19 @@ MDN Web Docs
 ### Related Topics
 ↗ [Microsoft](../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/📌%20Comprehensive%20Electronics%20&%20Information%20Technology%20Services/Microsoft.md)
 
-
-### JS Standards
-
-
-### Related Topics
 ↗ [JavaScript (Browser End)](../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
 ↗ [JS Frameworks for FrontEnd](../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/🎃%20JS%20Frameworks%20for%20FrontEnd/JS%20Frameworks%20for%20FrontEnd.md)
 
 
-### Opensource 
+### JS Standards
+
+
+### Learning Resources
+[廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
+[菜鸟](https://www.runoob.com/nodejs/nodejs-tutorial.html)
+
+🎬 [翁恺老师讲JS](https://www.bilibili.com/video/BV1nJ41127Dc?p=2&share_source=copy_web)
+
 [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 > This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series.
@@ -42,20 +45,11 @@ MDN Web Docs
 >
 > If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
-
-### ☕️ Official
 [JS](https://www.javascript.com) 
 - [Io.js](https://blog.risingstack.com/iojs-overview/) (now merged with JS. )
 
 [Require.JS](https://requirejs.org/docs/commonjs.html) (a JS module loader)
 - AMD, CommonJS
-
-
-### Learning Resources
-[廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
-[菜鸟](https://www.runoob.com/nodejs/nodejs-tutorial.html)
-
-🎬 [翁恺老师讲JS](https://www.bilibili.com/video/BV1nJ41127Dc?p=2&share_source=copy_web)
 
 
 
@@ -86,18 +80,22 @@ There were alos other Script language running on web side aside JavaScript from 
 
 
 ## JavaScript Implementations
+> ↗ [JavaScript Runtimes](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/JavaScript%20Runtimes.md)
+
+
 ### JS engines for Browser/Server 
 - Mozilla's [SpiderMonkey](https://spidermonkey.dev/), used in Firefox. This was the first _ever_ JavaScript engine, created by Brendan Eich at Netscape.
 - Google's [V8](https://v8.dev/), used in Google Chrome, Opera, Edge, [Node.js](https://nodejs.org/), [Deno](https://deno.land/), [Electron](https://www.electronjs.org/), and more.
 - Apple's [JavaScriptCore](https://trac.webkit.org/wiki/JavaScriptCore) (also known as SquirrelFish/Nitro), used in WebKit browsers such as Apple Safari, and [Bun](https://bun.sh/).
 
-### JS engines specifically for non-browser purpose
 
+### JS engines specifically for non-browser purpose
 - [Engine262](https://engine262.js.org/), a JavaScript engine written in JavaScript. It is created for JavaScript developers to explore new language features and find bugs in the specification.
 - [Moddable XS](https://www.moddable.com/), used in embedded systems such as IoT.
 - [QuickJS](https://bellard.org/quickjs/), a small and embeddable JavaScript engine.
 - Meta's [Hermes](https://hermesengine.dev/) engine, an engine optimized for [React Native](https://reactnative.dev/docs/hermes).
 - Oracle's [GraalJS](https://www.graalvm.org/), a high performance implementation built on the GraalVM by Oracle Labs.
+
 
 ### Legacy JS Implementations
 - [Carakan](https://dev.opera.com/blog/carakan-faq/), used in earlier versions of Opera.

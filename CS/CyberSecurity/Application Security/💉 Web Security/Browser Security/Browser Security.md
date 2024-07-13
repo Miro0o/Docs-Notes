@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Browsers](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Browsers.md)
+↗ [Browsers](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Browsers/Browsers.md)
 
 
 ### Other Resources

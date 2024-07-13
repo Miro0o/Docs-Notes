@@ -10,7 +10,7 @@
 ↗ [Awesome CLI Integration](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 ↗ [Awesome Text Processing & Data Manipulation](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20Text%20Processing%20&%20Data%20Manipulation.md)
 
-↗ [Files Management](../../../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Files%20Management.md)
+↗ [Files Management](../../../../🧰%20Generic%20Tools%20&%20Projects/Files%20Management/Files%20Management.md)
 
 
 

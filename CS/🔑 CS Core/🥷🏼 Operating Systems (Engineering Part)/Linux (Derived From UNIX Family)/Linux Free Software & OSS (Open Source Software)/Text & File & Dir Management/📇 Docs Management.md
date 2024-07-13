@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Files Management](../../../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Files%20Management.md)
-↗ [Knowledge Management](../../../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Knowledge%20Management/Knowledge%20Management.md)
+↗ [Files Management](../../../../🧰%20Generic%20Tools%20&%20Projects/Files%20Management/Files%20Management.md)
+↗ [Knowledge Management](../../../../🧰%20Generic%20Tools%20&%20Projects/Knowledge%20Management/Knowledge%20Management.md)
 
 ↗ [Commands CheatCheet & Online Search](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Commands%20CheatCheet%20&%20Online%20Search.md)
-↗ [Dash](../../../../../../🧰%20Generic%20Tools%20&%20Projects/🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Dash.md)
+↗ [Dash](../../../../🧰%20Generic%20Tools%20&%20Projects/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Dash.md)
 
 
 

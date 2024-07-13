@@ -56,7 +56,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 
 ### Web Browser /Front End
-↗ [Browsers](../../../../🧰%20Generic%20Tools%20&%20Projects/Browsers.md)
+↗ [Browsers](../../../../🧰%20Generic%20Tools%20&%20Projects/Browsers/Browsers.md)
 ↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 
 

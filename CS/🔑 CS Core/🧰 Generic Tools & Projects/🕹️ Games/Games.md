@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [(3D) Graphics Rendering Frameworks](../../../../Software%20Engineering/🧩%20(3D)%20Graphics%20Rendering%20Frameworks/(3D)%20Graphics%20Rendering%20Frameworks.md)
-↗ [ASCII Arts](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
+↗ [ASCII Arts](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 
 ↗ [AI & Gaming](../../../../Software%20Engineering/🤖%20AI%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
 
@@ -43,8 +43,8 @@ Games and interactive digital playthings.
 ### 1️⃣ Installing Windows via Dual-Boot or Virtualization
 Preferred Options: 
 
-↗ [Parallel Desktop](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
-↗ [VMware Fusion](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
+↗ [Parallel Desktop](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/Parallel%20Desktop.md)
+↗ [VMware Fusion](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/VMware%20Workstation.md)
 
 Obselet solusions: virtualBox, Boot Camp, and Windows 365
 - Oracle’s free **VirtualBox** is another option for running a virtual Windows system, but you’ll need patience and expertise to get it working; stay away from this method if the prospect of partitioning your hard drive or system RAM sounds daunting. Apps won’t run as quickly or as smoothly as they do with commercial solutions, and you still need to purchase a Windows license to use with VirtualBox.
@@ -60,7 +60,7 @@ Are you kidding me ? Minecraft is nice on mac though.
 
 ### 3️⃣ Get PC Games Running Under Interpreters
 #### Wine Project
-↗ [Wine Project](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
+↗ [Wine Project](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
 #### Proton
 https://www.protondb.com
 

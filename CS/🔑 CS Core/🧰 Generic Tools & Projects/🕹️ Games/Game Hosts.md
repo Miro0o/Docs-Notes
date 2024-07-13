@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Entertainments & Media Devices](../../../Auxiliary%20Hardware%20&%20Peripherals/Entertainments%20&%20Media%20Devices/Entertainments%20&%20Media%20Devices.md)
+↗ [Entertainments & Media Devices](../../Auxiliary%20Hardware%20&%20Peripherals/Entertainments%20&%20Media%20Devices/Entertainments%20&%20Media%20Devices.md)
 
 
 

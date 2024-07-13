@@ -35,6 +35,7 @@ The **OWASP Cheat Sheet Series** was created to provide a concise collection o
 
 We hope that this project provides you with excellent security guidance in an easy to read format. 😄
 
+
 ### Web Security Trending
 📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 ↗ [Web Application Security Risks & OWASP](🛟%20Web%20Application%20Security%20Risks%20&%20OWASP/Web%20Application%20Security%20Risks%20&%20OWASP.md)

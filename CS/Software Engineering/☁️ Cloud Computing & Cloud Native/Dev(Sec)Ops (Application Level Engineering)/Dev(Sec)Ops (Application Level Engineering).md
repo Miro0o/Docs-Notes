@@ -8,6 +8,10 @@
 🗺️ https://landscape.cd.foundation
 
 
+### Related Topics
+↗ [Project Cooperation & Team Messaging](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Project%20Cooperation%20&%20Team%20Messaging/Project%20Cooperation%20&%20Team%20Messaging.md)
+
+
 ### Learning Resources
 🎞 [DevOps -- 马士兵](https://www.bilibili.com/video/BV13Y411E7nd?share_source=copy_web)
 

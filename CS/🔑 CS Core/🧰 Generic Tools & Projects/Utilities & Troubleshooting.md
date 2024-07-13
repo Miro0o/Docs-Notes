@@ -15,8 +15,6 @@ transferring playlist between music apps!
 
 
 
-
-
 ## 👉 百度网盘内容违规无法下载
 #Baidu
 
@@ -32,3 +30,14 @@ Bypass Paywalls web browser extension for Chrome and Firefox.
 
 🚧 
 uBlock Origin
+
+
+
+## 👉 tightvncserver - Displaying Grey Screen on Kali-Linux upon VNC Connection
+#tightvnc #kali #RaspberryPi 
+
+
+1. 
+
+
+[How to install vnc server on raspberry pi]: https://kalitut.com/set-up-tightvnc-server-vnc/
