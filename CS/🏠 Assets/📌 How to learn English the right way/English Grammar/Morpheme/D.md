@@ -1063,22 +1063,153 @@
 	8. etc..
 
 
-### ⭐ + \*deuk- + = to lead, to pull, to draw
+### + \*deuk- + = to lead, to pull, to draw
 1. **duc-, duct-** = = to lead, 表示“引导，带来”。源自拉丁语 ducere (过去分词 ductus) "to lead."
-	1. abduct, adduct, aqueduct, deduct, induct, oviduct, product, subduct, ventiduct, viaduct
-		1. duchess, duchy
+	1. ducal
+		1. a. 公爵的, 象公爵的, 公爵领地的
+		2. duke（公爵）：罗马帝国时期的蛮族军事统帅  
+		3. 在古罗马时代，出身为日耳曼或凯尔特蛮族而作为雇佣军为罗马军队所用的将帅，由于没有正式的罗马军衔而统称为Dux，是“军队首领”的意思。该词来自拉丁语动词ducere（领导、引导），这就是英语单词Duke（公爵）的来源。英语词根duc-（引导）与此同源。  
+		4. 罗马帝国灭亡之后，各部族的军事领袖成为欧洲各小国的国君，其中许多就以Dux为称号，他们统治的小国就被称为“公国”（duchy）或“大公国”（Archduchy）。直到近代，意大利和德国统一之前的很多小国都以此为称号。这些小国的国君一般翻译为“大公”。  
+		5. 欧洲现存的独立公国是卢森堡和安道尔公国。历史上的其它公国经过合并和并吞，逐渐丧失独立性，成为国家的一部分，其统治者也演变成了由国王授予的爵位，即“公爵”（Duke）。在欧洲各国，公爵都是最高爵位之一。  
+		6. 英国的公爵爵位出现很晚。1337年，爱德华三世把康沃尔郡升为公国，将公爵爵号授予年方7岁的“黑太子”爱德华。为突出公爵特殊地位，以后多年里除女王配偶和王子外，其他王亲国戚均不许称王，最高可获公爵爵位。自从1483年建立诺福克公国以后，公爵爵位开始授予王亲以外者，但很少建立公国。而且能获此最高爵位者多是军功显赫的统帅。  
+		7. duc-：引导，领导  
+		8. duct： [dʌkt] n. 输送管，导管vt. 用导管输送；以导管封住  
+		9. duke：[djuːk] n.公爵  
+		10. duchy：['dʌtʃɪ] n.公国，公爵领地  
+		11. duchess：['dʌtʃɪs; -es] n.公爵夫人，女公爵  
+		12. archduke： [,ɑrtʃ'duk] n. 大公，（奥地利）皇太子  
+		13. ducal：['dukl]  adj. 公爵的；公爵领地的；象公爵的  
+		14. duce： ['duːtʃɪ]  n.（意）领袖；首领
+		15. ducat
+			1. 入场券, 门票
+			2. 来自 duke,公爵。因首次由 12 世纪意大利公爵 Duke of Apulia 铸造而得名，后用做金币单位。
+	2. duct
+		1. n. 管, 输送管  
+		2. vt. 通过管道输送
+		3. tear-duct
+		4. gonaduct
+		5. ductus
+			1. Patent ductus arteriosus can actually be treated early on. /动脉导管未闭其实在早期就可以开始治疗。
+			2. Remember how prostaglandin E2 keeps the ductus arteriosus open during fetal development? /还记得是前列腺素E2使动脉导管在胎儿发育期开放吗？
+		6. ductule
+			1. ductulus
+			2. ductuli
+		7. ductless
+		8. ductal
+			1. Subsequent fluoroscopy contrast studies can reveal structural changes to the pancreatic ductal system. /之后透视对比图像就可以显示出胰腺导管系统的结构变化。
+			2. The first type is called ductal carcinoma in-situ, or DCIS, and that's where tumor cells grow from the wall of the ducts, into the lumen /第一种被称为导管内原位癌（DCIS），指肿瘤细胞从导管壁向管腔内生长。
+		9. bileduct
+	3. ductile
+		1. adj. 柔软的；易教导的；易延展的
+		2. [malleable](dic://malleable)
+		3. [malleable](dic://malleable), [pliable](dic://pliable), [pliant](dic://pliant), [tensile](dic://tensile), [tractile](dic://tractile)
+		4. _adj._ [tractable](dic://tractable), [manipulable](dic://manipulable), [formed](dic://formed)
+		5. _n._ [intractable](dic://intractable), [unformed](dic://unformed)
+		6. **tensile**拉力的;**deformation**损形;**brittle**易碎的，脆弱的;**alloy**合金;**thermoplastic**热后可塑性的;**steel**钢铁;**molten**熔化的;**alloys**合金;**extruded**压出的;**refractory**执拗的,倔强的,难驾驭的;**corrosion**腐蚀;
+			1. _ductile iron_ 球墨铸铁，延性铁；韧性铁
+			2. _ductile cast iron_ 球墨铸铁
+			3. _ductile fracture_ 韧性断裂；延性破裂
+			4. _ductile iron pipe_ 球墨铸铁管；延性铁管
+			5. _ductile material_ 延性物料；塑性材料
+		7. The mixed nodulizer can be applied for the key middle and small section casts of ductile iron. /可以在质量要求高的中小截面重要球铁铸件上应用。
+		8. It can also be easily drawn out into wire, and for this reason we call it ductile. /通过拉伸，人们就可以获得铜线，因此我们说铜具有延展性。
+		9. Concrete is not ductile by nature. /- 混凝土本质上不是延展性的。
+		10. Meaning that they can be pounded in to various shapes, and ductile, meaning that they can be stretched out in to wires. /这意味着它们可以被压成各种形状，并且具有延展性，这意味着它们可以被拉伸成电线。
+		11. He had deserted those never-failing friends, so they seemed to say, for an unstable delight in a ductile woman, which had ended all in bitterness. /他抛弃了那些永远不会失败的朋友，所以他们似乎在说，为了对一个柔顺的女人的不稳定的喜悦，这一切都以痛苦告终。
+		12. Their growing minds soon close above the wound;their elastic spirits soon rise beneath the pressure; their green and ductile affections soon twine round new objects. /他们成长的心智很快在伤口之上闭合； 他们富有弹性的精神很快在压力之下崛起； 他们青涩而柔韧的感情很快就会缠绕在新的物体上。
+		13. Also, heat treating can make a metal softer and more **ductile**. /同时，热处理也可以使金属韧性增强。
+	4. abduct
+		1. ab-离开 + duct-引导 → 引开 → 诱拐。
+		2. vt. 诱拐, 绑架, 使外展
+		3.  _vt._ 劫持；诱拐
+		4. <生理>使(肢体等)外展
+		5. _n._ 绑架，拐骗，劫持
+		6. _n._ 绑架者，拐骗者，劫持者
+		7. [kidnap](dic://kidnap), [nobble](dic://nobble), [snatch](dic://snatch)
+		8. _v._ [seize](dic://seize), [pull](dic://pull), [draw](dic://draw), [force](dic://force)
+		9. _n._ [adduct](dic://adduct)
+		10. **kidnap**绑架;**kidnapping**诱拐;**abduction**诱拐;**assassinate**暗杀，行刺;**seduce**引诱;**detain**拘留;**kill**杀死;**harass**使烦恼;**infiltrate**渗透;**subdue**征服;**forcibly**强制地;
+		11. You know, brigandage don’t abduct women who were worthless. /你知道强盗不会把没有价值的女人作人质。
+		12. Well, simulations doesn't simulate anybody that's been abducted, so. /模拟部是不会模拟已经被绑架了的人的 所以。
+		13. A helicopter circled over the small town near Iguala where the students were abducted. /一架直升飞机在伊瓜拉附近的一座小城镇上空盘旋，那里是学生被绑架的地方。
+		14. abducent
+	5. abduce
+		1. vt. 使外展；把……引开
+		2. [adduce](dic://adduce), [cite](dic://cite)
+		3. _v._ [testify](dic://testify), [bear witness](dic://bear witness), [prove](dic://prove), [evidence](dic://evidence), [show](dic://show)
+	6. adduct
+		1. vt. 使内收  
+		2. n. 加合物
+		3. ad- + duct-引导
+		4. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
+		5. _v._ [pull](dic://pull), [draw](dic://draw), [force](dic://force)
+		6. _n._ [abduct](dic://abduct)
+		7. **methyl**甲基;**amine**胺;**monomer**单体;**benzene**苯;**ligand**配合基;**hydrolysis**水解;**ester**酯;**molecule**分子;**alkyl**烷基的，烃基的;**hydroxide**氢氧化物;**glutathione**谷胱甘肽;
+		8. Adducts are products that are made when two or more molecules come together. /加合物是当两个或多个分子聚集在一起时产生的产物。
+		9. The fingers are flexed at the interphalangeal joints and can't abduct or adduct. /指间关节屈曲，手指无法外展内收。
+		10. Similarly, the ulnar nerve supplies the hypothenar muscles which control the little finger, the interossei muscles which abduct and adduct the fingers, meaning to spread or bring them together. /同样，尺神经支配小鱼际肌，控制小指运动，并支配骨间肌控制手指外展内收，即伸展或聚拢手指。
+		11. In this step, the **adduct** from step 1 is fluorinated /在这一步，将步骤1的加合产物进行氟化。
+	7. adduce
+		1. vt. 引证, 举出
+		2. ad-强调 + duc-引导 + -e → 一再引导 → 举例说明。
+		3.  [abduce](dic://abduce), [cite](dic://cite)
+		4. _v._ [testify](dic://testify), [bear witness](dic://bear witness), [prove](dic://prove), [evidence](dic://evidence), [show](dic://show)
+		5. **substantiate**用事实支持;**refute**反驳，驳斥;**evidence**证据，证明;**furnish**供应;**assert**断言;**disprove**反驳，证明…是虚假的;**infer**推断;**cite**引用;**circumstantial**详细的;**affirm**断言;**assertion**主张,维护;
+	8. deduct
+		1. vt. 扣除，减去；演绎
+		2. de-向下 + duct-拉，引导，即向下拉掉，减去，扣除。
+		3. - de-,向下，-duct,拉，引导，词源同 induce,conduct.即向下拉掉，减去，扣除。
+		4.  [subtract](dic://subtract), [take off](dic://take off)
+		5. [withhold](dic://withhold), [recoup](dic://recoup)
+		6.  [deduce](dic://deduce), [infer](dic://infer), [derive](dic://derive)
+		7. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
+		8. **deduction**扣除, 减除;**subtract**减去;**reimburse**偿还;**calculate**计算;**pay**支付，付;**taxable**应纳税的;**recoup**偿还;**withhold**保留，不给;**deductible**可扣除的;**incur**招致，引发;**waive**放
+		9. _deduct from_ 扣除
+		10. _deduct money_ 扣钱；扣款
+		11. deduct the tax from the paycheck /从薪金中扣除税款
+		12. your pension contribution will be deducted at source. /你的养老金部分将被直接扣除。
+		13. Well, you can deduct it from the $40 that you're going to give me now. /好, 那你可以把那从40美圆里减掉, 你现在可以给我了。
+	9. deduce
+	10. educt
+	11. educe
+	12. endue, subdue
+	13. educate, educable
+	14. induct
+		1. vt. 引导, 使入门, 引入, 使就职
+	15. induce
+		1. in-进入 + duc-引导 + -e → 引进去 → 诱导。
+		2. vt. 引诱, 招致, 归纳出, 感应
+	16. introduce
+		1. vt. 介绍, 引入, 采用, 输入
 		2. introduction, introductory
-		3. subduction, seduction, seductive, 
-		4. transduction
-		5. abducent
-	2. conduit
-		1. **passageway**通道;**receptacle**容器;**pipe**管子;**intermediary**中间人;**outlet**出口，排放孔;**tubing**管子;**orifice**孔口;**wire**金属丝;**flow**流动，涌流;**inlet**插入物;**channeling**凿沟,沟渠,沟槽;
-	3. reductase, reduction, reductive, reductor
-	4. adduce, conduce, deduce, educe, educt, induce, introduce, produce, reduce, seduce, subduce, traduce, transduce,
-		1. conduct
-		2. ducal, ducat, duct, ductile, 
-		3. educate, educable
-		4. conducive
+	17. aqueduct
+		1. n. 水管, 沟渠, 导管
+	18. oviduct
+		1. n. 输卵管
+	19. product
+		1. pro-前 + duct-引导 → 引出的东西 → 产品。
+	20. produce
+	21. subduct
+	22. subduce
+		1. subduction, seduction, seductive, 
+	23. ventiduct
+		1. n. 通风管
+	24. viaduct
+		1. 高架桥
+		2. via-路 + duct-引导路的路 → 高架桥。
+	25. conduit
+		1. n. 导管, 水管, 沟渠
+		2. con- + duit-引导。
+		3. **passageway**通道;**receptacle**容器;**pipe**管子;**intermediary**中间人;**outlet**出口，排放孔;**tubing**管子;**orifice**孔口;**wire**金属丝;**flow**流动，涌流;**inlet**插入物;**channeling**凿沟,沟渠,沟槽;
+	26. conduct
+		1. con-共同 + duct-引导 → 引导大家一起做 → 指挥。
+		2. n. 行为, 举动, 指导  
+		3. vt. 为人, 指挥, 管理, 实施  
+		4. vi. 领导, 传导, 指挥
+	27. conduce
+		1. vi. 有助于, 有益于, 有贡献于, 导致
+		2. con-共同 + duc-引导 + -e。
+		3. conducive
 			1. _adj._ [causative](dic://causative)
 			2. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
 			3. **amenable**有责任的，应服从的;**ideal**理想的;**facilitate**使便利, 减轻…的困难;**suited**合适的;**preclude**妨碍;**productive**多产的, 富饶的;**detrimental**有害的;**favourable**赞许的, 赞同的;**fostering**哺育，养育;**harmonious**和谐的;**favorable**有利的;
@@ -1088,14 +1219,116 @@
 			7. Exercise is conducive to health. /运动有益于健康。
 			8. This is a more conducive atmosphere for studying /这样的氛围更有利于学习。
 			9. it is clattery and not conducive to intelligent conversation about the state of British fiction; /这儿又吵又闹而且对这种关于英国小说的聪明人的会谈毫无益处；
-	5. duke
-	6. endue, subdue
-2. dock
-3. taut
-4. team
-5. tie
-6. tow
-7. tug
+	28. reduce
+	29. reductase, reduction, reductive, reductor
+	30. seduce
+	31. traduce
+	32. transduce
+		1. transduction
+	33. duke
+	34. duchess, duchy
+3. douche
+	1. 来自意大利语 doccia,沐浴，洒水，来自 PIE*deuk,引导，管道，词源同 duct.后引申该词义。
+	2. n. 灌洗器
+	3. vi. 冲洗
+	4. vt. 冲洗
+	5.  [douche bag](dic://douche bag)
+	6. _n._ [syringe](dic://syringe), [irrigation](dic://irrigation)
+	7. _v._ [cleanse](dic://cleanse), [clean](dic://clean)
+	8. **moron**痴愚者;**asshole**屁眼儿,肛门;**idiot**白痴;**jerk**肌肉抽搐;**dude**城里人;**shit**屎;**bitch**母狗，母狼;**hater**怀恨者;**turd**可鄙的人;**retard**妨碍;**scum**浮渣;
+	9. _[douche bag](dic://douche%20bag)_  冲洗袋；讨厌鬼 / scumbag
+	10. _[douche can](dic://douche%20can)_  冲洗罐
+	11. _[nasal douche](dic://nasal%20douche)_  鼻冲洗,洗鼻剂
+	12. _[vaginal douche](dic://vaginal%20douche)_  阴道冲洗,阴道灌洗剂
+	13. _[douche pipe](dic://douche%20pipe)_  冲洗管
+	14. _[bakelite douche fitting](dic://bakelite%20douche%20fitting)_  胶木灌洗配件
+	15. Enemas, douches and other cleaners will not be able to get all the germs and bacteria out of the rectum. /灌肠剂、灌肠器或其他方法都不能完全杀灭直肠内的细菌和微生物。
+	16. So you're just gonna be a douche about this. /那你是要当个傻逼咯。
+	17. It kind of looks like a douche commercial /就像那些傻逼广告。
+	18. To those who'd ridden his bus, Blake was notorious for being a weapons-grade douche. /对于那些乘坐过他的巴士的人来说，布莱克是一个臭名昭著的超级混蛋。
+	19. And he just graduated from a-hole to douche /他变态指数大大飙升啊。
+4. dock
+5. taut (taunt, daunt)
+	1. adj. 拉紧的；紧张的；整洁的
+	2. vt. 使纠缠；使缠结
+	3. 来自中古英语 tought,拉紧的，可能来自 tough 变体。
+	4. [tight](dic://tight)
+	5. _adj._ [tense](dic://tense)
+	6. _n._ [lax](dic://lax), [relaxed](dic://relaxed)
+	7. plodding
+	8. **supple**柔软的;**gripping**引人注意的;**tight**紧的;**suspenseful**悬疑的,令人紧张的;**tightly**紧紧地;**riveting**吸引人的;**stretched**拉伸的;**deft**灵巧的;**impressively**令人难忘地;**elastic**有弹性的;**knotted**多节的，有节的;
+	9. a taut movie script. /简洁的电影剧本
+	10. a taut text of only a hundred and twenty pages. /一本结构紧凑只有120页的课本。
+	11. the men's taut relationship fixes your attention /这些人之间的紧张关系引起了你的注意。
+	12. This misshapen ogrelike brute has taut flesh with a claylike texture. /这只畸形的食人魔状怪物有着粘土般构成的紧崩肉体。
+	13. Well, speed bump coming up. Hold the leash taut. /前方有减速带 把绳子拉紧一点。
+	14. The sheep observed one another, Messi taut and focused, Pogba chewing nervously. /绵羊们互相观察着，梅西紧绷着脸，注意力集中，博格巴则紧张地咀嚼着。
+	15. Mr. Crouch's face was taut with rage. /克劳奇先生气得板紧了脸。
+	16. He was a taut, tattooed engine mechanic, six feet tall, with a passing resemblance to James Dean /他是个肌肉发达、有着文身的引擎机械师，6英尺高，长相酷似詹姆斯·迪恩。
+	17. Yeah, exactly. Excuse me so somebody's face will freeze over, or... or the features will go all taut. /是的，没错。不好意思，有人的脸会僵住，或者… 或者五官会绷紧。
+	18. His body was solid and **taut**. /他身体结实，肌肉发达。
+	19. Her face was **taut** and pale /她神色紧张，脸色苍白。
+	20. tauten
+		1.  [firm](dic://firm)
+		2. _v._ [tighten](dic://tighten), [fasten](dic://fasten)
+		3. **tighten**变紧;**supple**柔软的;**tightening**上紧;**loosen**放松;**wrinkles**皱纹;**soothe**安慰;**sagging**下垂;**fasten**扎牢;
+		4. I suddenly felt the fishing line **tauten**. /我突然感到鱼竿的绳子拉紧了。
+		5. When I grin, the stitches **tauten**. /当我咧嘴而笑，针脚便会绷紧。
+	21. hand-taut
+7. team (teem)
+	1. n. 队, 组  
+	2. vt. 把马(牛)套在同一辆车上, 把...编成一组  
+	3. vi. 驾驶卡车, 协作
+	4. 来自古英语 team, 分娩，后代，家族，种族，来自 Proto-Germanic taumaz,拉出，引导，来自PIE deuk,拉出，引申，词源同 duct,duke,tow.后引申词义团队，队伍。
+	5. [squad](dic://squad)
+	6. [team up](dic://team up)
+	7. _n._ [unit](dic://unit), [social unit](dic://social unit), [animal group](dic://animal group)
+	8. _v._ [group](dic://group), [aggroup](dic://aggroup)
+	9. **squad**班, 小队;**league**联盟;**coach**教练;**teammate**队友，同队队员;**players**队员，参与者;**coaches**教练;**staff**职员;**coaching**辅导;**championship**锦标赛,冠军赛;**player**演员;**all-star**明星云集的;
+	10. teamwork
+	11. teamster
+		1. n. 联畜运输车驾驶者, 卡车驾驶员
+		2.  [trucker](dic://trucker), [truck driver](dic://truck driver)
+		3. _n._ [driver](dic://driver)
+		4. **foreman**领班;**blacksmith**铁匠;**carpenter**木工, 木匠;**miner**矿工;**farmer**农夫，农民;**fireman**消防队员;**trucking**货车运输业;**laborers**工人;**rancher**大农场经营者;**porter**门房;**railroad**铁路，铁道;
+		5. Look at the teamster on the highway, wending to market by day or night; /看看公路上那些运马人，在通往市集的路上日夜兼程；
+		6. She heard the sound of feet outside but paid little heed, thinking it was the teamstersgoing home. /她听见外面有脚步声，但并没在意，以为那是运输队的人回家了。
+		7. Outside the window, a teamster was driving a truck filled with tear bombs. /窗外，一个卡车司机开着一辆满载催泪弹的卡车。
+	13. teammate
+8. tie
+	1. n. 带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负  
+	2. vt. 系, 打结, 扎, 约束, 与...成平局  
+	3. vi. 结合, 打结, 不分胜负
+	4. tie the knot结婚。knot [nɒt] n.结；海里/小时，v.打结。西方婚礼上似乎只有新娘的手捧花上丝带打的结象征一对新人永世不分开，中国古代传说是月老用红线为男女牵线，印度锡克教婚礼上新娘父亲会将新娘新郎各自佩戴的围巾绑在一起。Two kids later, they are finally planning to tie the knot. ​​​​
+	5. 来自古英语 teag,绳子，带子，来自 Proto-Germanic*taugo,拉，来自 PIE*deuk,拉，词源同tow,conduct.并引申诸相关词义。
+	6. untie
+	7. tongietoe
+	8. tongue-tied
+	9. tiepin
+	10. tieback
+	11. tie-up
+	12. tie-in
+	13. necktie
+	14. hogtie
+	15. crosstie
+9. tow
+	1. 来自古英语 togian,拖，拉，来自 Proto-Germanic*tugojanan,拖，拉，来自 PIE*deuk,拖，拉，词源同 duct,tie.引申诸相关词义。
+	2. n. 拖, 拖绳, 拖轮  
+	3. vt. 拖, 拉, 牵引
+	4. towy
+		1. adj. 由亚麻短纤维组成的
+	5. towrope
+	6. towpath
+	7. towline
+	8. towhead
+	9. towboat
+	10. towage
+	11. tow-net
+11. tug
+	1.  来自古英语 teohan,拉，拖，来自 Proto-Germanic*teuhan,拉，拖，来自 PIE*deuk,拉，词源同duct,tow.
+	2. n. 用力拉, 拖曳, 苦干, 挣扎, 绳索  
+	3. v. 用力拉
+	4. tugboat
 
 
 
@@ -1103,27 +1336,128 @@
 ### + \*dhabh + = to fit together
 1. **fabr-** = make, 表示“制作”。源自拉丁语 faber "artisan."
 	1. fabric
-		1. petrofabric
-		2. fabricate
-			1. refabricate
+		1. [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
+		2. [framework](dic://framework)
+		3. _n._ [artifact](dic://artifact), [artefact](dic://artefact), [structure](dic://structure)
+		4. **muslin**平纹细布;**quilt**棉被;**garment**衣服，服装;**quilting**被上缝花纹的缝法;**sewing**缝纫;**textile**纺织品，织物;**sew**缝合，缝上;**sewn**缝纫，缝上;**quilted**中间絮有软物的;**stitching**用U字钉钉箱,缝纫;**cloth**布，织物;
+		5. This fabric will wash /这种织物很耐洗
+		6. a fabric that will wear. /耐穿的织物
+		7. a fabric with a floral pattern /印有花图案的织物
+		8. proof a fabric against shrinkage /使织物不缩水
+		9. the fabric of society /社会组织
+		10. petrofabric
+		11. fabricate
+			1. _v._ [make](dic://make), [think up](dic://think up), [think of](dic://think of), [dream up](dic://dream up), [hatch](dic://hatch), [concoct](dic://concoct)
+			2. [make](dic://make) 普通用词，很常用，含义广，既可指制造具体的东西，也可指完成一种行为。  
+			3. [fabricate](dic://fabricate) 特指按照标准样式制作或把材料或部件组合成一个整体。  
+			4. [manufacture](dic://manufacture) 正式用词，一般指用机器大规模地批量生产各种生活或生产用品。  
+			5. [produce](dic://produce) 普通用词，侧重大量地生产出各种生产用品和生活用品。强调结果。也用于引申。
+			6. **manufacture**制造;**construct**修建, 建立;**assemble**集合，聚集;**invent**发明;**manipulate**熟练控制;**embellish**美化;**procure**获得，取得;**create**造成;**produce**生产;**dismantle**拆开, 拆卸;**distort**扭曲;
+			7. Mr. Navalny has called the charges against him fabricated. /纳瓦尔尼先生称对他的指控是捏造的。
+			8. Perhaps we live in a world fabricated for efficiency /也许我们生活在一个 为效率而生的虚假的世界里。
+			9. refabricate
 				1. refabrication
-			2. prefabricate
-				1. prefabrication
-				2. prefabricated
-			3. fabriator
-			4. fabrication
-		3. fabricant
+			10. prefabricate
+				1. _v._ [produce](dic://produce), [make](dic://make), [create](dic://create)
+				2. **fabricate**编造, 捏造, 虚构;**construct**修建, 建立;**assemble**集合，聚集;**manufacture**制造;**scaffolding**脚手架;**plywood**夹板，胶合板;**fabrication**制造;**modular**模数的;**constructing**构造;**construction**建设;**roofing**屋顶;
+				3. prefabricated homes. /预制住宅。
+				4. PlasticRoad is prefabricated in a factory as modular sections /塑料公路先在一家工厂预先建造组合作为组装节段。
+				5. And all the prefabricated modules will begin to be mounted roughly 20 miles lower /所有的预制模块都将在大约二十英里低的地方安装。
+				6. prefabrication
+				7. prefabricated
+			12. fabriator
+			13. fabrication
+				1. _n._ [falsehood](dic://falsehood), [falsity](dic://falsity), [untruth](dic://untruth), [writing](dic://writing), [authorship](dic://authorship), [composition](dic://composition), [penning](dic://penning)
+				2. **manufacturing**制造业,工业;**machining**加工;**welding**焊接的;**construction**建设;**manufacture**制造;**prototyping**原型机制造;**design**设计;**tooling**工具作业;**extrusion**挤出,推出,喷出,赶出;**characterization**刻画,描绘,塑造;**engineering**工程, 工程师行业;
+				3. _fabrication process_ 制造工艺
+				4. _fabrication technology_ 制造工艺
+				5. _metal fabrication_ 金属预制件；金属加工
+				6. This paper reported the fabrication of an ordered array of the hexogen-filling carbon nano-tubes. /报导了黑索今填充的碳纳米管有序阵列的构筑。
+				7. In court, Hindawi said the confession was a fabrication /法庭上，辛达维说，所谓的坦白都是伪造的。
+		12. fabricant
+			1. - n. 制造者
 	2. forge
-		1. microforge
-		2. forging
-		3. forgery
-		4. forger
-		5. forged
-		6. forgeable, forgeability
-		7. drop-forge
-	3. prefab
-2. daft
-3. deft
+		1. _vt._ 锻造
+		2. 伪造，仿造
+		3. _vi._ 突然向前
+		4. _n._ 锻造车间；铁匠铺
+		5. 熔铁炉
+		6. [smithy](dic://smithy)
+		7. [hammer](dic://hammer)
+		8. [fake](dic://fake), [counterfeit](dic://counterfeit)
+		9. [invent](dic://invent), [contrive](dic://contrive), [devise](dic://devise), [excogitate](dic://excogitate), [formulate](dic://formulate)
+		10. [spurt](dic://spurt), [spirt](dic://spirt)
+		11. [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [mould](dic://mould)
+		12. [fashion](dic://fashion)
+		13. _n._ [furnace](dic://furnace), [workplace](dic://workplace), [work](dic://work)
+		14. _v._ [beat](dic://beat), [re-create](dic://re-create), [create by mental act](dic://create by mental act), [create mentally](dic://create mentally), [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on)
+			1. [mould](dic://mould) 通常指把有延展性的材料浇铸或塑成所需形状的物品。  
+			2. [forge](dic://forge) 意义较窄，指用锤子和砧对金属材料进行加工或锻造。  
+			3. [shape](dic://shape) 比mould使用广泛，指用许多不同的方法制成不同形状的制品
+		15. **build**建筑;**blacksmith**铁匠;**carve**雕刻;**create**造成;**establish**建立, 成立;**solidify**团结;**develop**开发;**strengthen**加强, 巩固;**alliance**联盟，联合;**pave**铺设;**unite**使…混合;
+		16. _forge ahead_ 继续进行，取得进展
+		17. _forge piece_ 锻件
+		18. _forge press_ 锻压机
+		19. _forge iron_ 搅炼生铁；锻铁
+		20. forge a treaty; forge a close relationship. /缔结条约；结成亲密的关系
+		21. forged ahead through throngs of shoppers /在购物人群中挪动
+		22. they have forged contacts with key people in business. /他们已和商界关键人士建立了联系。
+		23. forged into first place with seconds to go /在还剩几秒时突然加速跃居第一
+		24. The transatlantic liner forged ahead through the waves. /横渡大西洋的客轮破浪前进。
+		25. The students have forged ahead with their work /这些学生成绩优良。
+		26. Difficulties help to forge people into able folk. /困难有助于把人们锻炼成能干的人。
+		27. we will forge our own future, free from the trammels of materialism. /我们要摆脱物质主义的束缚，锻造自己的未来。
+		28. Everything new comes from the forge of hard and bitter struggle. /一切新的东西都是从艰苦斗争中锻炼出来的。
+		29. The story of how we forged friendships that will last a lifetime. /我们在此建立起了一生的友谊。
+		30. Civil liberties cannot be forged in blood. /公民权力不能靠流血牺牲。
+		31. A strong camaraderie between the divers has been forged. /潜水员之间建立了深厚的友谊。
+		32. But this is a furnace where new stars are forged. /但它其实是一个大熔炉，正在孕育着新的恒星。
+		33. It's not unusual for wolverines to forge their own paths. /狼獾开辟自己的道路并不罕见。
+		34. microforge
+		35. forging
+		36. forgery
+		37. forger
+		38. forged
+		39. forgeable, forgeability
+		40. drop-forge
+	4. prefab
+3. daft
+	1. adj. （非正式）癫狂的；愚笨的
+	2. [balmy](dic://balmy), [barmy](dic://barmy), [bats](dic://bats), [batty](dic://batty), [bonkers](dic://bonkers), [buggy](dic://buggy), [cracked](dic://cracked), [crackers](dic://crackers), [dotty](dic://dotty), [fruity](dic://fruity), [haywire](dic://haywire), [kooky](dic://kooky), [kookie](dic://kookie), [loco](dic://loco), [loony](dic://loony), [loopy](dic://loopy), [nuts](dic://nuts), [nutty](dic://nutty), [round the bend](dic://round the bend), [around the bend](dic://around the bend), [wacky](dic://wacky), [whacky](dic://whacky)
+	3. _adj._ [insane](dic://insane)
+	4. _n._ [sane](dic://sane)
+	5. **silly**愚蠢的;**stupid**愚蠢的;**ludicrous**荒唐可笑的,滑稽可笑的;**bugger**家伙;**idiotic**白痴的;**dodgy**狡猾的，逃避的;**cheeky**无耻的;**ridiculous**可笑的, 荒谬的;**bloke**家伙;**foolish**愚蠢的;**rubbish**垃圾，废物;
+	6. we were all daft about him /我们都对他着迷。
+	7. don't ask such daft questions. /不要问这样的傻问题。
+	8. What a daft thing to say! /怎么说这样的傻话！
+	9. Next up I have " Don't be a daft! " /下一个是" 别犯傻！"
+	10. For one, Adams on that subject had become a little daft. /首先，亚当斯在这个问题上变得有点愚蠢。
+	11. That was followed by a daft claim by Congress that the Americans were egging on the protesters. /之后国会发表一 份可笑的申明，说美国人在抗议者中煽风点火。
+	12. It'll feel daft. I shall be myself /这感觉太蠢了 我应该做我自己。
+5. deft
+	1. adj. 灵巧的；机敏的；敏捷熟练的
+	2. [dexterous](dic://dexterous), [dextrous](dic://dextrous)
+	3. _adj._ [adroit](dic://adroit)
+	4. _n._ [maladroit](dic://maladroit)
+	5. **masterful**善于控制别人的;**skillful**熟练的;**artful**狡猾的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**knack**诀窍;**finesse**纤细;**wry**面部肌肉扭曲的;
+	6. _[agile nimble brisk deft](dic://agile%20nimble%20brisk%20deft)_ 灵活敏捷
+	7. _[hamhanded deft](dic://hamhanded%20deft)_ 笨手笨脚的
+	8. _[deft maladroit](dic://deft%20maladroit)_ 灵巧的〈〉笨拙的
+	9. _[deft dexterous](dic://deft%20dexterous)_ 手巧的
+	10. _[deft clumsy](dic://deft%20clumsy)_ 灵巧的
+	11. _[deft desig](dic://deft%20desig)_ 设计精巧
+	12. _[deft agile](dic://deft%20agile)_ 灵巧的
+	13. _[deft inept](dic://deft%20inept)_ 熟练
+	14. a deft piece of footwork. /灵巧的步法。
+	15. the script was both deft and literate. /剧本巧妙又有文采。
+	16. with a deft motion of her nimble fingers /随着她灵活的手指做出的一个熟练的动作。
+	17. The pianist has deft fingers. /钢琴家有灵巧的双手。
+	18. defused the hostility with a deft turn of phrase. /用巧妙的措辞去除了敌意。
+	19. Some practice in the deft use of words may well be ancillary to the study of natural science. /熟练使用文字的练习对于自然科学的研究也是有帮助的。
+	20. She skated a cross-shaped pattern on the ice while deftly maneuvering the puck. /她在冰面上沿十字形路线滑行，同时灵巧地操纵着冰球。
+	21. Mr Gellately, a professor in Florida, has a deft touch with detail. /盖拉特莱，是一名佛罗里达的教授，善于挖掘细节。
+	22. Making a short deft movement Tom Buchanan broke her nose with his open hand. /汤姆·布坎农动作敏捷，伸出手一巴掌打破了威尔逊太太的鼻子。
+	23. By deft maneuvering he managed to land the plane, but it was badly damaged although nobody was hurt. /靠着他高超的技术，他才将飞机降落，但是飞机遭到了严重损坏，虽然人没有受伤。
 
 
 ### ⭐️ + \*dhe- + = to put, to do
@@ -1459,43 +1793,92 @@
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
 	56. prolific
-		1. - adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
+		1. adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
 		2. [fecund](dic://fecund), [fertile](dic://fertile)
 		3. [fertile](dic://fertile)
 		4. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
 		5. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
 		6. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
 	57. munificent
-	58. omnificent
-	59. office
-	60. orifice
-	61. sacrifice
-	62. significant
+		1. muni-服务、礼物 + fic-做 + -ent，即送礼物的，准备大礼的。
+		2. 来自拉丁语 munificus,慷慨的，大方的，来自 munus,礼物，-fic,做，词源同 fact,beneficial.即送礼物的，准备大礼的。
+		3.  [lavish](dic://lavish), [overgenerous](dic://overgenerous), [prodigal](dic://prodigal), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
+		4. _adj._ [generous](dic://generous)
+		5. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
+		6. **benefactor**恩人;**generous**慷慨的，大方的;**benevolent**好心肠的;**endowed**赋予，捐赠;**patronage**赞助;**prodigious**巨大的;**generosity**慷慨, 大方, 宽容;**pious**虔诚的;**splendid**辉煌的;**endowment**资助,捐助;**bestow**授予;
+	59. omnificent
+		1. adj. 创造万物的；有无限创造力的（等于 omnific）
+	60. office
+	61. orifice
+		1. n. (尤指身体上的) 孔口
+		2. ori-嘴 + -fic做，引申词义孔，穴，腔。
+		3. 来自拉丁语 orificium,开口，来自 ori-,嘴，词源同 oral,-fic,做，词源同 do,fact.引申词义孔，穴，腔。
+		4. orificium
+		5. orificial
+	62. sacrifice
+	63. significant
 		1. significative
-	63. soporific
-	64. sorbefacient
-	65. liquefacient
-	66. suffice
-	67. traffic
-	68. tumefacient
-	69. counterfeit
-	70. forfeit
-		1.  [forfeiture](dic://forfeiture)
-		2.  [forfeiture](dic://forfeiture)
-		3. _：_ [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
-		4.  [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
-		5.  [confiscate](dic://confiscate), [forfeited](dic://forfeited)
-		6. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
-		7. _v._ [abandon](dic://abandon)
-		8. _adj._ [lost](dic://lost)
-		9. _n._ [claim](dic://claim), [lay claim](dic://lay claim), [arrogate](dic://arrogate)
-		10. _n._ [won](dic://won)
-		11. **relinquish**交出, 让给;**lose**使沉溺于;**forfeiture**丧失;**ineligible**无被选任资格的;**withdraw**撤消;**surrender**投降;**withhold**保留，不给;**renounce**宣布放弃;**vacate**空出，腾出;**disqualification**不合格;**winnings**赢得的钱;
-		12. forfeit a motor licence /汽车执照被没收
-		13. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
-		14. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
-		15. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
-	71. surfeit
+	64. soporific
+		1. sopor-睡觉，昏睡 + -fic做，使，引申词义催眠的。
+		2. a. 催眠的, 想睡的, 令人麻木不仁的  
+		3. n. 催眠剂, 安眠药
+		4. _n._ [drug](dic://drug), [hypnagogue](dic://hypnagogue)
+		5. _adj._ [depressant](dic://depressant), [uninteresting](dic://uninteresting)
+		6. _n._ [stimulative](dic://stimulative), [interesting](dic://interesting)
+		7. **hypnotic**催眠的，催眠术的;**sleepy**困乏的;**narcotic**麻醉的;**soothing**使人宽心的;**inane**愚蠢的;**intoxicating**醉人的;**banal**陈腐的;**stimulant**兴奋剂;**hangover**宿醉;**noxious**有害的;**calming**平静的;
+		8. the motion of the train had a somewhat soporific effect /火车的行驶起了一定的催眠作用。
+		9. I dozed off during the soporific music /我听到这催人入睡的音乐,便不知不觉打起盹儿来了。
+	66. sorbefacient
+	67. liquefacient
+	68. suffice
+		1. suf-在下面 + fic-做 + -e → 在下面先做好 → 充足。
+		2.  - suf-,在下，向上，-fic,做，词源同 fact,efficient.引申词义做到足够，使足够，足以。
+		4. [do](dic://do), [answer](dic://answer), [serve](dic://serve)
+		5. _v._ [satisfy](dic://satisfy), [fulfill](dic://fulfill), [fulfil](dic://fulfil), [live up to](dic://live up to)
+		6. **presume**假定;**suppose**假设;**conceivably**令人信服地;**surely**稳当地;**certainly**无疑地;**would**将，将要;**ought**应该，应当;**should**应该;**might**可能;**overkill**过度地杀伤;**ordinarily**平常地,普普通通地;
+		7. _suffice for_ 满足……的需要
+		8. simple mediocrity cannot suffice them. /简单的平庸是满足不了他们的要求的。
+		9. Fifty dollars will suffice for my needs. /美元足够我的需要。
+		10. sufficingly
+		11. sufficient
+			1. sufficiently
+			2. self-sufficient
+			3. insufficientia
+			4. insufficient
+		12. sufficiency
+			1. self-sufficiency
+			2. insufficiency
+		13. self-sufficing
+	69. traffic
+	70. tumefacient
+		1. a. 肿胀的, 肿大的, 引起肿胀的
+	71. counterfeit
+		1. n. 赝品, 伪造品  
+		2. a. 假冒的, 假装的  
+		3. v. 仿造, 伪装, 假装
+		4. counter-相对 + feit-=fact-做。
+	72. forfeit
+		1. n. 没收物, 罚金  
+		2. vt. 丧失，被没收  
+		3. a. 丧失了的
+		4. for-在外面，超过 + feit=fact-做，原义为做过头的，越界的，衍生词义犯罪，处罚，没收。
+		5. forfeit ['fɔːfɪt] n. 罚金；没收物；丧失的东西，adj. 因受罚而丧失的；被没收的，vt. （因犯罪、失职、违约等）丧失（权利、名誉、生命等）。for-是拉丁词根，与希腊词源的thyroid甲状腺和日耳曼词源的door同源，表门外的，-feit词根表示do，即做的事情超过了正常的界限（门）而导致财产被没收。
+		6. [forfeiture](dic://forfeiture)
+		7. [forfeiture](dic://forfeiture)
+		8. [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
+		9. [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
+		10. [confiscate](dic://confiscate), [forfeited](dic://forfeited)
+		11. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
+		12. _v._ [abandon](dic://abandon)
+		13. _adj._ [lost](dic://lost)
+		14. _n._ [claim](dic://claim), [lay claim](dic://lay claim), [arrogate](dic://arrogate)
+		15. _n._ [won](dic://won)
+		16. **relinquish**交出, 让给;**lose**使沉溺于;**forfeiture**丧失;**ineligible**无被选任资格的;**withdraw**撤消;**surrender**投降;**withhold**保留，不给;**renounce**宣布放弃;**vacate**空出，腾出;**disqualification**不合格;**winnings**赢得的钱;
+		17. forfeit a motor licence /汽车执照被没收
+		18. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
+		19. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
+		20. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
+	73. surfeit
 		1.  [excess](dic://excess), [overabundance](dic://overabundance)
 		2.  [glut](dic://glut), [oversupply](dic://oversupply)
 		3.  [repletion](dic://repletion)
@@ -1506,14 +1889,14 @@
 		8. a surfeit of complaints /过度的牢骚
 		9. a surfeit of food and drink /过量的食物和饮料。
 		10. a surfeit of rich food /过量的油腻食物
-	72. discomfit
-	73. rarefactive
+	74. discomfit
+	75. rarefactive
 		1. adj．稀薄的，使稀薄的：导致气体或物质变得稀薄的。
 			1. The rarefactive effect of high altitude causes a decrease in air pressure.  /高海拔的稀薄效应导致气压降低。
-	74. putrefactives
-	75. petrifactive
+	76. putrefactives
+	77. petrifactive
 		1. _adj._ 石化性的;造成石化的
-	76. profit
+	78. profit
 		1. superprofit
 		2. profittaking
 		3. profitless
@@ -1946,7 +2329,7 @@
 			4. Why the outgoing President's felicitation on the indorsement? /为什麽卸任总统要对人民的支持巧言美语？
 			5. Sincere felicitation on ywe completing the postgraduate courses or receiving the doctorate of science. /衷心祝贺你修完博士生课程并获得理学博士学位。
 			6. The group about Miss Welland made way for him with significant smiles, and after taking his share of the felicitations he drew his betrothed into the middle of the ball-room floor and put his arm about her waist. /韦兰小姐周围的那群人带着意味深长的微笑为他让路，在分享了他的祝福后，他把他的未婚妻拉到舞厅地板中央，用胳膊搂住她的腰。 
-		11. felicific
+		11. felicific (frolic)
 			1. adj. 带来幸福的
 			2. If you have never felt **felicific**, would you like me to give you felicity? /如果你认为你从未被爱过，可不可以让我来爱你?。
 			3. infelicific
@@ -3325,13 +3708,21 @@
 ## dw
 ### ⭐ + \*dwo- (\*duwo-)+ = two
 1. **bi-, bin-** = 表示“两个，两”。源自拉丁语 bis "twice;" bini "two by two, two each."
+	1. etc. (todo)
 2. **deut-, deuter-** = 表示“第二，次，亚”。
+	1. etc..
 3. **di-, dicho-** = 表示“两个，双”。源自希腊语 dis "twice;" dikha "in two."
+	1. etc.. (todo)
 4. **dia-** = 表示“穿过，二者之间”。
+	1. etc.. (todo)
 5. **didym-** = testicle, 表示“睾丸”，= two, 表示“两个”。源自希腊语 didumos "double, the testicles."
+	1. didymous
 6. **didym-, -didymus** = 表示“一对”。在医学词汇中，后缀 -didymus 特指“联胎”畸形。源自希腊语 didumos "double, the testicles."
+	1. etc..
 7. **dipl-, diplo-** = double, 表示“双”，di- 二 + pl- 折叠组成的复合词根。源自希腊语 diploos, diplous "twofold."
+	1. plek-
 8. ==**dis-** = 来自拉丁语dis-，表示“分开，散开”，引申词义“离开，无，没有，缺乏，表相反等”。该前缀在字母 g, l, m, r, s, v 前缩写为 di-；在字母f前同化为 dif-。==
+	1. etc.. (todo)
 9. **du-, dub, doub-** = two, 表示“二，双”。
 	1. double
 		1. double-face, double-faced
@@ -3411,9 +3802,100 @@
 	5. dubitation, dubitative
 		1. _[dubitate dubitation uncertainty](dic://dubitate%20dubitation%20uncertainty)_ 半信半疑
 11. **twi-** = 表示“二，两”。
-12. twin
-13. twine
-14. two
+	1. twice
+	2. twifold
+	3. twiformed
+	4. twilight
+		1. [dusk](dic://dusk), [gloaming](dic://gloaming), [gloam](dic://gloam), [nightfall](dic://nightfall), [evenfall](dic://evenfall), [fall](dic://fall), [crepuscule](dic://crepuscule), [crepuscle](dic://crepuscle)
+		2.  [dusky](dic://dusky), [twilit](dic://twilit)
+		3. _n._ [hour](dic://hour), [time of day](dic://time of day), [light](dic://light), [visible light](dic://visible light), [visible radiation](dic://visible radiation), [decline](dic://decline), [declination](dic://declination)
+		4. _adj._ [dark](dic://dark)
+		5. _n._ [light](dic://light)
+			1. [twilight](dic://twilight) 指日落后或日出前的微明，但通常侧重于前者。  
+			2. [dawn](dic://dawn) 指天刚亮时的黎明，可作引申用。  
+			3. [dusk](dic://dusk) 指接近夜晚的黄昏时刻。
+		6. **dusk**黄昏，薄暮;**dawn**拂晓，破晓，黎明;**moonlight**月光;**darkness**黑暗;**sunset**日落，傍晚;**nighttime**夜间;**sunrise**日出;**shadows**阴影，影子;**sky**天空;**dark**黑暗的，深色的;**daylight**日光
+	5. _twilight zone_ n. 城市贫穷地区；界限分明的两者之间的模糊状态
+	6. _evening twilight_ 昏影；黄昏蒙影；暮光
+	7. twi-formed
+	8. twi-night
+		1. adj. （从傍晚开始持续到晚上）连续两场棒球比赛的
+	9. twist
+		1. v. 使弯曲；（使）扭曲变形；扭动身体；扭伤（脚踝等）；旋转，转动；编织，捻在一起；缠绕；歪曲，曲解；蜿蜒，曲折；<英，非正式>欺诈；牌面朝上 
+		2. n. 扭动，转动；弯曲处，拐弯处；转折，变化；螺旋形物体；扭摆舞（the twist）；扭歪，（性格）反常；（棉，丝） 合股线；<英>混合酒；<英，非正式>欺诈；（棍棒或其他物体） 扭转度；扭转力，转矩；绕轴旋转前进
+		1. [turn](dic://turn), [turn of events](dic://turn of events)
+		2. [construction](dic://construction)
+		3. [device](dic://device), [gimmick](dic://gimmick)
+		4. [spin](dic://spin), [twirl](dic://twirl), [twisting](dic://twisting), [whirl](dic://whirl)
+		5. [wrench](dic://wrench), [pull](dic://pull)
+		6. [kink](dic://kink), [twirl](dic://twirl)
+		7. [bend](dic://bend), [crook](dic://crook), [turn](dic://turn)
+		8. [eddy](dic://eddy)
+		9. [wrench](dic://wrench)
+		10. [braid](dic://braid), [plait](dic://plait), [tress](dic://tress)
+		11. [wind](dic://wind), [winding](dic://winding)
+		12. [turn](dic://turn)
+		13. [writhe](dic://writhe), [wrestle](dic://wrestle), [wriggle](dic://wriggle), [worm](dic://worm), [squirm](dic://squirm)
+		14. [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [turn](dic://turn)
+		15. [twine](dic://twine), [distort](dic://distort)
+		16. [wind](dic://wind), [curve](dic://curve)
+		17. [wrench](dic://wrench)
+		18. [twist around](dic://twist around), [pervert](dic://pervert), [convolute](dic://convolute), [sophisticate](dic://sophisticate)
+		19.  [sprain](dic://sprain), [wrench](dic://wrench), [turn](dic://turn), [wrick](dic://wrick), [rick](dic://rick)
+		20. _n._ [development](dic://development), [interpretation](dic://interpretation), [maneuver](dic://maneuver), [manoeuvre](dic://manoeuvre), [tactical maneuver](dic://tactical maneuver), [tactical manoeuvre](dic://tactical manoeuvre), [rotation](dic://rotation)
+		21. _v._ [move](dic://move), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform), [turn](dic://turn), [shape](dic://shape), [form](dic://form)
+		22. _n._ [untwist](dic://untwist)
+			1. [curve](dic://curve) 指变成曲线或弧线状的动作或状态。  
+			2. [bend](dic://bend) 普通用词，指把某物变成曲线或角形。用于人时，指头部或身躯弯下。  
+			3. [bow](dic://bow) 指把头部或上身弯向前方的动作，也指社交中的礼节性动作。  
+			4. [crook](dic://crook) 指不规则的弯曲，也指按照规则或模型弯曲某物。  
+			5. [twist](dic://twist) 指通过转动、拧或扭使某物成弯曲状。
+		23. **spin**旋转;**bend**使弯曲;**slant**倾斜;**tale**故事;**flair**天资;**storyline**故事情节;**story**故事;**hint**暗示;**wacky**乖僻的，古怪的;**classic**杰作;**quirky**诡诈的;
+		24. Twist the tourniquet tighter /把止血带扎紧点。
+		25. twist one's wrist. /扭伤了手腕
+		26. a sharp twist in the path /小路上的一个急转弯
+		27. a twist in one's nature /怪癖, 拗脾气
+		28. twisting wire into a loop. /把电线弯成一个圈
+		29. twist off a dead branch. /折断一根枯枝
+		30. Twist the lid to open it. 拧这盖儿打开它。
+		31. a day of arm-twisting by government whips. /政府督导员一整天的施压。
+		32. Too much force will twist the key /用力过猛会把钥匙扭弯。
+		33. a man with a twisted mind. /思维扭曲的人。
+		34. twist one's mouth into a wry smile. /咧嘴苦笑了一下
+		35. a twist of fate; a story with a quirky twist. /命运的扭转；跌宕起伏的故事
+		36. But satellite pictures have revealed a surprising twist. /但卫星照片揭示了出一项惊人转变。
+		37. His writing has a legal twist about it. /连他的书法都带着一种法律家的风格呢。
+		38.  I believe that a joke is a brief oral narrative with a climactic humorous twist. /我觉得玩笑应该是一段以幽默转折作为高潮的口头叙述。
+		39. There's one more twist to the delegate story. /关于代表席位还有另一个讲究。
+		40. No, Kate, now you're twisting my words. /不 凯特 你这是在曲解我的意思。
+		41. And some of these cases have interesting twists /其中一些个案的故事很有趣。
+		42. untwist
+		43. twisty
+			1. [tortuous](dic://tortuous), [twisting](dic://twisting), [winding](dic://winding), [voluminous](dic://voluminous)
+			2. _adj._ [crooked](dic://crooked)
+			3. _n._ [straight](dic://straight)
+			4. **bumpy**崎岖不平的;**suspenseful**悬疑的,令人紧张的;**convoluted**盘绕的,卷曲的;**twisting**缠绕;**hilly**多小山的;**curvy**弯曲的;**twisted**扭曲的;**treacherous**背信弃义的;**meandering**蜿蜒的河流,漫步,聊天;**slippery**滑的;**winding**线圈;
+			5. " They say all Lannisters are twisty snakes" /" 都说兰尼斯特家的人是毒蛇。"
+			6. He started off the conversation with the Academy explaining that his path to tech entrepreneurship was kind of twisty. /他一开始就向成就学会解释说，他的科技创业之路有点曲折。
+			7. So my story's kinda long a little bit like, you know, I'm sure career paths are so twisty turny, right? /我的故事有点长，我相信职业道路都很曲折，对吧？
+			8. There were also terrestrial beavers that dug burrows and twisty tunnels /还有陆生海狸会挖洞和曲折的隧道。
+			9. Of course, the engineering problems of forging the great canopy, raising this twisty gilt-bronze monster, were a serious stretch for Bernini's competence /当然，在锻造巨大的遮篷并安置这个扭曲的青铜制巨怪时，遇到的工程问题完全超出了贝尼尼的能力范围。
+		44. twistor
+		45. twisting
+		46. twister
+		47. twisted
+		48. twistane
+		49. twistable
+		50. intertwist
+			1. vi. 绞合；缠结 
+			2. vt. 使绞合；使缠结 
+			3. n. 绞合；缠结
+			4. here exist many micro fibers with a uniform distribution in the COPNA resin.The fibers grow with increase of modification time, and then intertwist and amalgamate. /COPNA树脂的合成中出现很多微纤，随交联聚合程度的加深，微纤相互缠结并融合；
+		52. entwist
+			1. All these kinds of dialogue indicate that Women in Love is a polyphonic novel, in which a diversity of consciousnesses and voices entwist with each other. /所有这些对话类型表明《恋爱中的女人》是一部复调小说，文中各种不同的意识和声音交织在一起。
+1. twin
+2. twine
+3. two
 
 
 
@@ -3453,7 +3935,7 @@
 		3. _n._ [cheerful](dic://cheerful)
 		4. **abysmal**深不可测的;**lackluster**无光泽,暗淡;**bleak**荒凉的，无遮蔽的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**pitiful**可怜的，令人同情的;**miserable**悲惨的;**disappointing**令人失望的;**dreadful**可怕的;**grim**冷酷的;**wretched**可怜的;
 	5. diurnal
-		1. 1 - 来自拉丁语 dies,白天，来自 PIE*dyeu,照耀，词源同 diva,divine,Zeus.
+		1. 1 - 来自拉丁语 dies,白天，来自 PIEdyeu,照耀，词源同 diva,divine,Zeus.
 		2. _adj._ [cyclic](dic://cyclic), [cyclical](dic://cyclical)
 		3. [nocturnal](dic://nocturnal), [noncyclic](dic://noncyclic), [noncyclical](dic://noncyclical)
 		4. **nocturnal**在夜间的;**circadian**昼夜节奏的,生理节奏的;**variability**变化性;**seasonal**季节的;**basal**基础的;**daytime**日间，白天;**lizards**蜥蜴;**oscillation**振动;**metabolic**新陈代谢的;**nighttime**夜间;**terrestrial**陆地的;

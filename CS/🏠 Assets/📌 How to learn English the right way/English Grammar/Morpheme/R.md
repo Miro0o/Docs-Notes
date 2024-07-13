@@ -102,6 +102,29 @@
 		5. _v._ [pierce](dic://pierce), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify)
 		6. **puzzle**使…困惑;**mystery**神秘，秘密;**conundrum**谜,猜不透的难题,难答的问题;**enigma**谜，不可思议的东西;**puzzles**智力游戏;**solve**解决;**mysteries**古代的秘密宗教仪式;**puzzling**使莫明其妙的;**answer**符合;**paradox**悖论;**solving**解决办法;
 4. dread
+	1. [apprehension](dic://apprehension), [apprehensiveness](dic://apprehensiveness)
+	2. [fear](dic://fear)
+	3. [awful](dic://awful), [dire](dic://dire), [direful](dic://direful), [dreaded](dic://dreaded), [dreadful](dic://dreadful), [fearful](dic://fearful), [fearsome](dic://fearsome), [frightening](dic://frightening), [horrendous](dic://horrendous), [horrific](dic://horrific), [terrible](dic://terrible)
+	4. _n._ [fear](dic://fear), [fearfulness](dic://fearfulness), [fright](dic://fright)
+	5. _adj._ [alarming](dic://alarming)
+	6. _n._ [unalarming](dic://unalarming)
+		1. [alarm](dic://alarm) 强调突然意识到有危险而产生的恐惧心理。  
+		2. [fear](dic://fear) 普通用词，侧重指面临危险或灾祸时内心所引起的恐惧心情。  
+		3. [fright](dic://fright) 通常指一阵突然的、令人震惊的短暂恐惧，有时含夸张意味。  
+		4. [horror](dic://horror) 侧重指因看到令人讨厌或危险的东西或情景而引起的厌恶情绪、极度恐惧心情或战栗的动作。   
+		5. [panic](dic://panic) 常指因突如其来的外界威胁使人群出现惊慌、恐惧或混乱。  
+		6. [terror](dic://terror) 指极大的恐惧和惊骇，语气最强。  
+		7. [dread](dic://dread) 可与fear换用，着重害怕的心理，但dread常指胆怯和丧失勇气。
+	7. **fear**害怕;**trepidation**惊恐;**anxiety**焦虑;**apprehension**理解;**despair**绝望;**shudder**震动;**fearful**可怕的;**gloom**忧郁;**loathe**讨厌，厌恶;**anticipation**预期;**sadness**悲哀;
+	8. _dread lord_ 暗黑之主（游戏中任务名称）
+	9. a dread disease /可怕的疾病
+	10. It was the dread of all animals. /这是一切动物都害怕的东西。
+	11. the dread presence of the headmaster. /校长令人敬畏的仪表
+	12. Jane was dreading the party. /简对这次聚会深感畏惧。
+	13. to live in constant dread of poverty /经常担忧贫穷
+	14. he was stricken with the dread disease and died. /他患了那种可怕的病死去了。
+	15. Many people suffer from a great dread of heights. /许多人非常畏高。
+	16. We all dread to think what will happen if the company closes. /我们都不敢去想一旦公司关门我们该怎么办。
 5. read
 6. rede
 7. rite
@@ -834,39 +857,77 @@
 		7. _[sad melody elegy dirge threnode](dic://sad%20melody%20elegy%20dirge%20threnode)_ 悲歌
 		8. _[on the sound without dirge](dic://on%20the%20sound%20without%20dirge)_ 声无哀乐论
 	11. rail
-		1. rerailer
-		2. railway
-		3. railsplitter
-		4. railroad
-		5. railmill
-		6. railman
-		7. railless
-		8. raillery
+		1. n. 铁路系统；铁轨，轨道；栏杆，扶手；（挂物用的）横杆；（赛马或赛狗场的）围栏；（镶板门或上下推拉窗的）横档，冒头；冲浪板（或帆板的）边缘；（电子）定电位导体轨；秧鸡 
+		2. v. 用栏杆把……围起，把……隔开；<正式>谴责，抱怨；由铁路运送（货物）；（风帆冲浪用语）斜板滑行
+		3. [railing](dic://railing)
+		4.  [track](dic://track), [rails](dic://rails)
+		5. [inveigh](dic://inveigh)
+		6. [rail in](dic://rail in)
+		7.  [rail off](dic://rail off)
+		8. [train](dic://train)
+		9. [vilify](dic://vilify), [revile](dic://revile), [vituperate](dic://vituperate)
+		10. [fulminate](dic://fulminate)
+		11. _n._ [barrier](dic://barrier), [railway](dic://railway), [railroad](dic://railroad), [railroad line](dic://railroad line), [railway line](dic://railway line), [railway system](dic://railway system), [bar](dic://bar)
+		12. _v._ [complain](dic://complain), [kick](dic://kick), [plain](dic://plain), [sound off](dic://sound off), [quetch](dic://quetch), [kvetch](dic://kvetch), [enclose](dic://enclose)
+		13. **railway**铁路;**railways**铁路;**railroad**铁路，铁道;**freight**运送;**tram**电车轨道;**train**火车;**streetcar**路面电车;**commuter**通勤者，经常乘公共车辆往返者;**transit**运输;**transportation**运输;**trolley**手推车;
+		14. _rail transit_ 城市轨道交通；铁路直达运输
+		15. _by rail_ 由铁路，乘火车
+		16. _light rail_ 轻轨；轻轨电车
+		17. _rail transport_ 铁路运输
+		18. _on the rails_ 正常进行；在正常轨道上
+		19. _guide rail_ 导轨；导杆
+		20. _off the rails_ 出轨的；混乱的，神经错乱的
+		21. _heavy rail_ n. 重轨；重钢轨
+		22. _steel rail_ 钢轨
+		23. _on rail_ 铁路交货
+		24. _slide rail_ 滑道，滑轨
+		25. _rail steel_ 轨钢，钢轨钢
+		26. _rail link_ 铁路联络线，轨节
+		27. _go off the rails_ ◎行为越轨；(在实际问题上或道路上)走上错误的道路;◎发疯;
+		28. _rail track_ 轨道；铁路线路
+		29. _rail surface_ 轨面
+		30. _guard rail_ 防护轨
+		31. _rail service_ 铁路运输
+		32. _rail car_ n. 机动轨道车；单节机动有轨车
+		33. _side rail_ 纵梁，床侧板；护栏，舷梯扶手
+		34. He railed in his press conference in Vietnam. He railed against the hearing /他在越南举行的记者会上进行了驳斥。他怒斥了这场听证会的安排。
+		35. Trump railed against his Cabinet secretaries and staff. /特朗普内阁多位部长和工作人员都受到了他的责骂。
+		36. The storm forced cancellation of hundreds more flights and disrupted commuter rail./这场暴风雪迫使数百个航班取消，并扰乱了通勤铁路。
+		37. The bus apparently hit a highway guard rail, crashed and caught fire /这辆大巴车显然撞上了高速公路的护栏，撞毁并起火。
+		38. Seeing their reaction makes riding the rails worth it for educators like Pandya /看看他们的反应就使得像迪亚这样的教育者认为投身到这次科学列车之旅是值得的。
+		39. rerailer
+		40. railway
+		41. railsplitter
+		42. railroad
+		43. railmill
+		44. railman
+		45. railless
+		46. raillery
 			1. [banter](dic://banter), [give-and-take](dic://give-and-take), [backchat](dic://backchat)
 			2. _n._ [repartee](dic://repartee)
 			3. **jest**玩笑;**ridicule**嘲笑;**scorn**轻蔑;**countenance**面容，表情;**vulgar**粗俗的;**satire**讽刺;**quarrel**吵架;**mischievous**淘气的, 顽皮的;**humour**诙谐;**indignation**愤怒, 愤慨, 气愤;**provocation**激怒;
 			4. _[indulge in raillery](dic://indulge%20in%20raillery)_ 拿人开玩笑
-		9. railling
-		10. railhead
+		47. railling
+		48. railhead
 			1. **railway**铁路;**railroad**铁路，铁道;**rail**横杆;**depot**仓库;**railways**铁路;**freight**运送;**overland**陆上的;**airfield**飞机场;**inland**内地;**garrison**守备部队, 卫戍部队;
 			2. [storehouse](dic://storehouse), [depot](dic://depot), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store), [end](dic://end)
-		11. railer
+		49. railer
 			1. _[railer snubber](dic://railer%20snubber)_ 斥责者
 			2. 横杆；扶手；围栏；铁轨 vi. 抱怨；责骂
-		12. railcar
-		13. railboat
-		14. rialage
-		15. rail-motor
-		16. monorial
-		17. handrailing
-		18. handrail
-		19. guardrail
-		20. derail
-		21. crossrail
-		22. cograilway
-		23. breastrail
-		24. bedrail
-	12. realm
+		50. railcar
+		51. railboat
+		52. rialage
+		53. rail-motor
+		54. monorial
+		55. handrailing
+		56. handrail
+		57. guardrail
+		58. derail
+		59. crossrail
+		60. cograilway
+		61. breastrail
+		62. bedrail
+	13. realm
 		1. [kingdom](dic://kingdom), [land](dic://land)
 		2. [domain](dic://domain), [region](dic://region)
 		3. [kingdom](dic://kingdom)
@@ -874,7 +935,7 @@
 		5. **sphere**范围;**purview**范围，权限;**kingdom**王国;**confines**范围;**beyond**超过;**territory**领土;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystical**神秘的;**fantasy**幻想;**abyss**深渊;**uncharted**未知的;
 		6. _in the realm of_ 在……领域里
 		7. 
-	13. rule
+	14. rule
 		1. unruly, unruliness
 		2. self-rule
 		3. ruling
@@ -885,7 +946,7 @@
 		8. misrule
 		9. metarule
 		10. hyperrule
-	14. sovereign
+	15. sovereign
 		1. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head of state), [chief of state](dic://chief of state)
 		2. _adj._ [free](dic://free), [dominant](dic://dominant)
 		3. _n._ [unfree](dic://unfree), [subordinate](dic://subordinate), [low-level](dic://low-level)
@@ -897,7 +958,7 @@
 			1. _n._ [self-government](dic://self-government), [self-determination](dic://self-determination), [self-rule](dic://self-rule), [dominion](dic://dominion), [rule](dic://rule), [authority](dic://authority), [authorization](dic://authorization)
 			2. **sovereign**元首;**self-determination**自主;**primacy**首位;**autonomy**自治，自治权;**dominion**领土;**legitimacy**合法;**independence**独立, 自主, 自立;**hegemony**霸权;**democracy**民主国家;**territorial**领土的;**constitutional**宪法的;
 		6. quasi-sovereign
-	15. vicereine
+	16. vicereine
 		1. _n._ [wife](dic://wife), [married woman](dic://married woman), [governor](dic://governor)
 		2. **monarch**君主，帝王;**regent**摄政者;**consort**结交;**queen**女王，王后;
 6. **reg-, roy-** = king, 表示“国王”。源自拉丁语 rex "king."

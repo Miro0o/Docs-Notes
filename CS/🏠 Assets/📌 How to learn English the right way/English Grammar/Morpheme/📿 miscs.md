@@ -110,6 +110,27 @@ about
 	- _[face about](dic://face%20about)_  转过身；向后转
 	- With these parting words lingering in his ears, Corporal Patch saluted, executed a right about face, and left the tent. /耳边回荡着这句离别的话，帕奇下士行了一礼，右转身，离开了帐篷。
 
+addle
+- vt. 使昏乱, 使腐坏  
+- vi. 变质  
+- a. 昏乱的, 腐坏的
+- 来自古英语 adela,泥土，污泥。
+- [muddle](dic://muddle), [puddle](dic://puddle)
+- _v._ [jumble](dic://jumble), [confuse](dic://confuse), [mix up](dic://mix up), [spoil](dic://spoil), [go bad](dic://go bad)
+- **brains**智力;**intellect**智力;**brain**脑袋;**feeble**微弱的 无力的;
+- the film is addle-brained./ 这部影片思路混乱。
+- The object is to addle and not to elucidate. /其目的是为了混淆而不是为了阐明。
+- addle one's brain over figures /让数字给弄得头昏脑胀
+- Eggs addle quickly in hot weather /蛋在热天易坏。
+- problems that addle my brain; /问题把我的大脑搞糊涂了；
+- being in love must have addled your brain /一定是恋爱冲昏了你的头脑。
+- The distilled liquor of addle eggs /加鸡蛋的蒸馏酒。
+- Unfortunately, the judge was an addle man. /很不幸，这个法官是个腐败的人。
+- The eugenicists who, addled by bogus statistics, advocated forced sterilisations are the grisliest example /被虚假统计数据弄糊涂的优生学家提倡强制绝育是最可怕的例子。
+- addlepated
+- addlehead
+- addlebrained
+
 ado
 - 来自短语 at do,许多事要做。
 - [bustle](dic://bustle), [hustle](dic://hustle), [flurry](dic://flurry), [fuss](dic://fuss), [stir](dic://stir)
@@ -195,6 +216,31 @@ all
 - all-conquering
 - all-around
 - all-American
+
+amalgam
+- n. 汞合金, 汞齐
+- amalgam（汞合金）：能够“点石成金”的神秘药膏  
+- 中世纪时，有些炼金术士宣称自己掌握了“点石成金”的本领。他们将一种神秘的药膏涂抹到铁、铜等贱金属的表面，过段时间后就会发现这些贱金属的表面金光闪闪，好像变成了黄金。这种能够“点石成金”的神秘药膏在阿拉伯语中被称为al-malgham（软化剂），可能来自希腊语malagma（软化物）。英语单词amalgam就来源于此。  
+- 这种神秘药膏其实是水银和黄金等贵重金属的合金，学名是“汞齐”，俗称“软银”。中国古代道教认为它是长生不老药的成分之一，可用于补牙。将汞齐涂抹到铁、铜金属表面后，汞齐里含有的水银会逐渐挥发，在金属表面留下一层贵金属的镀金，就能造成“点石成金”的假象。  
+- amalgam：[ə'mælgəm] n.汞合金，汞齐  
+- amalgamate：[ə'mælgəmeɪt] v.汞齐化，混合  
+- amalgamation： [ə,mælgə'meʃən] n. 融合，混合；合并，联合；混汞法，汞齐化法
+- a-,去，往，-malg,软，融合，词源同 melt,融化。原指炼金术水银与其它金属的融合。
+- amalgamator
+- amalgamative
+- amalgamation
+- amalgamating
+- amalgamate
+	- v. 使汞齐化, 合并
+	- _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+	- _adj._ [united](dic://united)
+	- n._ [divided](dic://divided)
+	- **merged**结了婚的;**consolidate**巩固;**merge**合并;**combine**使联合，使结合;**merging**归并;**dissolve**使溶解;**incorporate**合并;**integrate**使结合成为整体;**unite**使…混合;**unify**统一;**assimilate**吸收, 消化;
+	- Wouldn't it be more economical to amalgamate the bus and train repairs? /合并公交和火车维修站不是更经济吗？
+	- One thing you did say though, was like when you think about your identity, you like sort of amalgamating masculine and feminine. /你确实说过一件事，就像当你考虑你的身份时，你喜欢融合男性和女性。
+	- These scattered fragments of humanity had never shown any desire to be amalgamated with the social structure /这些分散的人类碎片从未表现出任何融入社会结构的愿望。
+	- They decided to **amalgamate** the two schools /他们决定将两所学校合并。
+- amalgamable
 
 ambo
 - n. 读经台 
@@ -562,6 +608,30 @@ bent
 
 bequeath
 - kwo-
+
+berserk
+- a. 狂暴的, 疯的  
+- n. 狂暴的人
+- berserk（狂暴的）：北欧神话中的熊皮战士  
+- 在北欧神话中，有一种特别凶猛的战士，北欧语称作berserkr，由ber（bear，熊）+serkr（shirt，衬衫）构成，字面意思是“身披熊皮的人”。传说这些战士受到主神奥丁的庇佑，拥有熊的力量，出战前往往会饮用烈酒或致幻蘑菇，上战场后陷入极端兴奋的忘我状态，没有恐惧、疼痛之感，身上仅穿轻铠甲甚至赤裸上身，疯狂杀敌至力竭而亡。  
+- 英语单词berserk（狂暴的）和berserker（狂暴战士）就是从北欧语berserkr产生的。  
+- berserk：[bə'zɜːk; -s-] adj.狂暴的，狂怒的adv.狂暴地，狂怒地  
+- [amuck](dic://amuck), [amok](dic://amok), [demoniac](dic://demoniac), [demoniacal](dic://demoniacal), [possessed(p)](dic://possessed(p))
+- _n._ [Scandinavian](dic://Scandinavian), [Norse](dic://Norse), [Northman](dic://Northman)
+- _adj._ [insane](dic://insane)
+- _n._ [sane](dic://sane)
+- **rampage**暴跳;**bonkers**疯狂的;**rage**愤怒;**mad**疯狂的;**enraged**暴怒的;**crazed**癫狂的;**frenzy**狂怒;**frenzied**狂乱的;**insane**精神病的;**furious**狂怒的;**fury**狂怒;
+- _[go berserk](dic://go%20berserk)_  变狂暴
+- _[berserk fury](dic://berserk%20fury)_  暴怒
+- berserk over chocolates. /无节制地吃巧克力
+- berserk with grief. /因悲伤而精神错乱
+- a man went berserk with an arsenal of guns. /一名男子发疯似的用各种枪支乱射。
+- The dog went berserk when a wasp stung him. /狗给黃蜂咬了,变得狂暴。
+- a berserk worker who started smashing all the windows /狂暴的工人开始砸碎全部的玻璃
+- My husband will go berserk if he finds you here. /要是我丈夫发觉你在这里,他会气疯的。
+- The shouting and the echoes seemed to be driving the troll berserk. /喊声和回音似乎把巨怪逼得发狂了。
+- They go berserk and break down /机器出现暴冲并且故障。
+- berserker： [bə'sɜːkə] n.狂暴战士adj.狂暴的
 
 billiard
 - billiards
@@ -2604,6 +2674,9 @@ dowdy, dowdish
 doom
 - dhe-
 
+douche
+- deuk-
+
 douse
 - 词源不详，可能来自拟声词。
 - vt. 插入水中, 浇(或洒、泼)水在...上, 熄(灯、火等), 平息  vi. 浸泡  
@@ -2698,6 +2771,9 @@ drape
 - draper
 - sparadrap
 - linendraper
+
+dread
+- re(i)-
 
 dreary
 1. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear)
@@ -2884,7 +2960,6 @@ dwindle
 - **steadily**稳定地;**disappear**不见, 消失;**declining**倾斜的,衰退中的;**deteriorate**恶化;**rapidly**迅速地;**vanish**消失;**gradually**逐步地,渐渐地;**diminish**使减少;**decline**下降;**slowly**缓慢地，慢慢地;**diminishing**逐渐缩小的;
 - the radiance of the sunset dwindled and died /落日余晖渐渐减弱直至消失。
 - the traffic had dwindled to a trickle /交通量已缩小到缓慢移动的一小群车辆行人。
-- 
 
 
 
@@ -3356,58 +3431,7 @@ flash
 -  拟声词，模仿物体或火把快速闪过的声音。比较 clash,dash,flush,splash.引申各相关词义。
 
 flat
-- flat（公寓）：楼房中一个独立居住单元  
-- 无论是在中国还是在外国，古人们住的一般都是独立的房屋。但是随着城市的出现，越来越多的人聚居在城市里。由于城市土地价格随着城市经济的发展而提高，中低收入阶层无力支付独立房屋的费用，此时就出现了多户人家共同居住在一栋建筑的情况。这种供多户人家居住的建筑就是公寓。  
-- 在古罗马时代，罗马城中就出现了这种公寓，拉丁语中称为insulae。据记载，在罗马帝国晚期，罗马城中就已经有5000座最高7层、20米高的insulae。据阿拉伯地理学家Al-Muqaddasi描述，在10世纪的埃及开罗，大部分人口都居住在高层的公寓中，每一栋公寓能容纳200多口人。  
-- 在英国，公寓出现得很晚。人们习惯居住在独立的房屋中。直到19世纪末期，这种观念才有所转变。随着城市化进程和人口增加，伦敦城中传统的独立房屋的价格日益昂贵，越来越多的人负担不低，特别是对于年轻的未婚男女。因此，公寓楼的概念应运而生。这张楼房由多层构成，每一层都是单独的一套居住单位，人们可以购买或租用楼房中的一层。在英语中，人们管这种楼房中的一套居住单位称为flat，本意是“一层，一个平面”，而一栋公寓楼则称为a block of flats。flat中的一个房间称作apartment，意思是flat中的一个part（部分）。但到了美国，美国人逐渐用apartment来表示一套公寓。但是在英国、香港、新加坡等英联邦国家中，人们还是使用flat来表示一套公寓。 
-- flat： [flæt] n.公寓，平地，平面adj.平地，单调的，平坦的，扁平的  
-- apartment： [ə'pɑːtm(ə)nt] n.公寓（美式英语），房间（英式英语）
-- flatworm
-- flatwork
-- flatwise
-- flatways
-- flatware
-- flatty
-- flattop
-- flattish
-- flattie
-- flatter
-	- unflattering (unflagging)
-		- adj. 不吸引人的，不好看的；耿直的；有损形象的，不敢恭维的；不奉承的；贬损的
-		- _n._ [flattering](dic://flattering)
-		- **flattering**奉承的;**embarrassing**令人为难的;**disparaging**轻蔑的;**unattractive**不吸引人的;**scandalous**令人反感的;**damning**咒骂的;**ugly**丑陋的;**distasteful**使人不愉快的;**inaccurate**有错误的,不正确的;**hideous**可怕的;**scathing**严厉的;
-		- an unflattering portrait. /本来面目的画像。
-		- make an unflattering remark /真言无讳
-		- gave the film an unflattering review. /给电影以坦率的评论
-		-  Others panned the color as boring, out-of-touch and unflattering./但也有一些人认为这个颜色乏味、落伍、不衬肤色。
-		- I do unflattering impressions of you for my friends /还在朋友面前捏造你的负面形象。
-		- Clemenceau despised the sculptor, August Rodin, who had once done an unflattering sculpture of him. /克列孟梭鄙视雕刻家奥古斯特·罗丹，因为他曾经为他做过一尊不讨人喜欢的雕塑。
-		- One lives on them better than on unflattering ones. /一个人靠他们过日子比靠不讨人喜欢的人过得好。
-		- It can be inferred that Facebook is self-enhancer's paradise because people can withhold their **unflattering** sides /可以推断，Facebook 是自我增强者的天堂，因为人们可以保留自己不讨喜的一面。
-	- flattery
-	- flattering
-	- flatterer
-- flatten
-	- flattener
-- flatsedge
-- flatscope
-- flatness
-	- unflatness
-- flatly
-- flatlet
-- flatland
-- flatiron
-- flathead
-- flatfoot
-- flatfish
-- flatfile
-- flatcar
-- flatcap
-- flatboat
-- flat-roofed
-- flat-out
-- flat-hat
-- flat-footed
+- plat-
 
 fleck
 - [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [scrap](dic://scrap)
@@ -3445,6 +3469,14 @@ flinch
 - **cringe**畏缩;**instinctively**本能地;**shudder**震动;**tremble**战栗;**scream**尖叫;**recoil**畏缩, 退缩;**smirk**傻笑;**stare**凝视，盯着看;**startled**震惊;**groan**呻吟;**shiver**颤抖，战栗;
 -  [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [recoil](dic://recoil), [quail](dic://quail)
 - unflinching
+
+flinder
+- n.<英>碎块，碎片；蝴蝶 
+- vi.<苏格兰>不安地奔走 
+- vt.<苏格兰>打碎，使成碎片
+
+fling
+- plak-(2)
 
 flub
 - vt. 搞坏, 弄糟  
@@ -4283,9 +4315,69 @@ gossamer
 - _[gossamer rings](dic://gossamer%20rings)_ 薄纱环
 - a gossamer justification /站不住脚的辩解
 
+grab
+- n. 抓握, 掠夺, 强占, 东方沿岸帆船  
+- vi. 抓取, 抢去  
+- vt. 攫取, 捕获, 霸占\
+- 来自 PIE*ghrebh,抓住，够到，词源同 grasp.来自 PIE*ger 的扩大形式，围，集中，词源同cram,aggregate.
+- [catch](dic://catch), [snatch](dic://snatch), [snap](dic://snap)
+- [catch](dic://catch), [take hold of](dic://take hold of)
+-  [snap up](dic://snap up), [snaffle](dic://snaffle)
+- _n._ [mechanical device](dic://mechanical device), [touch](dic://touch), [touching](dic://touching)
+- _v._ [seize](dic://seize), [prehend](dic://prehend), [clutch](dic://clutch), [take](dic://take), [move](dic://move), [obtain](dic://obtain), [intrigue](dic://intrigue)
+	- [take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。  
+	- [grasp](dic://grasp) 指紧紧抓住、抓牢。  
+	- [grab](dic://grab) 指粗暴而急迫的抓住。  
+	- [grip](dic://grip) 语气比grasp强，指用手的最大力量紧紧抓住。  
+	- [clasp](dic://clasp) 指用手紧握或用臂紧抱。  
+	- [clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。  
+	- [snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。  
+	- [seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作。
+- **snag**障碍;**snatch**抢夺;**pull**拉;**get**获得，得到;**snagged**水中多障碍的;**pick**挑选;**squeeze**挤;**snatched**抢夺;**catch**赶上;**shove**推, 猛推, 乱推;**hold**持有;
+- _up for grabs_ 大家有份
+- _grab a bite_ 吃点东西（非正式语）；随便吃几口；先吃点东西垫垫肚子
+- _grab at_ 抓住，抓取；抓住不放
+- _grab crane_ 抓斗起重机；抓斗吊车
+- _grab bucket_ 抓斗，挖泥抓斗；抓岩机的抓斗
+- _grab hold of_ vt. 控制（抓住）
+- _grab at a straw_ 捞救命稻草
+- _grab dredger_ 抓斗式挖泥船
+- _grab dredge_ 抓斗式挖泥船
+- _grab handle_ 扶手；握柄；车顶安全把手
+- _grab bag_ n. 摸彩袋；混杂
+- make a grab at a rope /抓住绳索
+- It is rude to grab a seat /抢占座位是不礼貌的。
+- land-grabber
+- grabby
+	- a. 贪婪的
+	- adj. 贪婪的；引人注意的 
+	- n. 步兵
+	-  [avaricious](dic://avaricious), [covetous](dic://covetous), [grasping](dic://grasping), [greedy](dic://greedy), [prehensile](dic://prehensile)
+	- _adj._ [acquisitive](dic://acquisitive)
+	- _n._ [unacquisitive](dic://unacquisitive)
+	- **pushy**有进取心的;**grabbing**抓;**clumsy**笨拙的;**icky**讨厌的;**greedy**贪婪的;**obnoxious**可憎的;**whiny**烦躁的;**grab**攫取;**touchy**过敏的;**cranky**暴躁的;**squishy**粘糊糊的;
+	- a grabby angle on a news story. /一个描述某新闻故事的引人入胜的视角。
+	- It's a very grabby language, if it sees something it likes, it takes it. /这是一种非常贪婪的语言，如果它看到它喜欢的东西，它就会接受它。
+	- This makes them as strong as the  famously grabby golden eagle, a giant raptor that can be three  times as heavy as this owl. /这使它们与著名的贪吃金雕一样强壮，金雕是一种巨大的猛禽，体重是这只猫头鹰的三倍。
+	-  Brakes are grabby, occasionally making a slow smooth stop challenging without a hint of whiplash./刹车贪婪，有时决策缓慢平稳的挑战没有停止的迹象鞭打。
+- grabble
+	- vi. 搜索, 爬  
+	- vt. 抓住
+- grabber
+	- n. 贪心者, 强夺者, 强取者
+- grab-all
+	- n. 贪心人, 杂物袋, (海岸附近的)渔网
+
+grasp
+- 词源同 grab,抓住，抓牢。字母 s,p 置换。
+- n. 把握, 抓紧, 理解, 抓, 柄, 控制  
+- vt. 抓住, 紧握, 领会  
+- vi. 抓
+- grasping
+- graspable
+
 grass
 - 来自 PIE*ghre,生长，变绿，词源同 grow,green.
-- 
 
 grate
 - **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
@@ -4310,6 +4402,17 @@ grate
 - grateless
 	- - adj．无格栅的：没有格栅或栅栏的。
 - grated
+
+gravel (grovel， gavel)
+- n. 砂砾；碎石 vt. 用碎石铺；使船搁浅在沙滩上；使困惑
+- [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
+-  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
+-  [grating](dic://grating), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough), [scratchy](dic://scratchy)
+- **dirt**污垢，泥土;**asphalt**沥青;**pavement**人行道;**sand**沙;**road**道路;**pebbles**桔皮表面;**driveway**车道;**mud**泥;**quarry**采石场;**boulders**岩石;**limestone**石灰岩;
+- gravelly
+- gravelled
+- gravel-voiced
+- gravel-blind
 
 gravy
 - 1 - 来自古法语 graue,沙司，炖汁，来自 grain,颗粒。即肉汁，形成颗粒条纹的汤汁。俚语义，美差。字母 u,n 拼写变化比较 spouse,sponsor,同时在过去很长一段时间字母 u,v 拼写没有严格的区分。
@@ -4403,23 +4506,6 @@ groan
 
 grow
 - 
-
-grump
-- **grumpy**脾气暴躁的;**cranky**暴躁的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**bugger**家伙;**irritable**易怒的, 急躁的;**annoyed**恼怒的;**jolly**愉快的;**snarky**恶声恶气的，咬人的;**bitch**母狗，母狼;**fella**<俚>伙伴;
-- grumpy
-	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**angry**生气的;**annoyed**恼怒的;**tired**疲倦的;**smug**自满的, 沾沾自喜的;**chatty**饶舌的;**moody**喜怒无常的;**jaded**厌倦的;**jolly**愉快的;
-	-  [crabbed](dic://crabbed), [crabby](dic://crabby), [cross](dic://cross), [fussy](dic://fussy), [grouchy](dic://grouchy), [bad-tempered](dic://bad-tempered), [ill-tempered](dic://ill-tempered)
-
-gravel (grovel， gavel)
-- n. 砂砾；碎石 vt. 用碎石铺；使船搁浅在沙滩上；使困惑
-- [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
--  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
--  [grating](dic://grating), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough), [scratchy](dic://scratchy)
-- **dirt**污垢，泥土;**asphalt**沥青;**pavement**人行道;**sand**沙;**road**道路;**pebbles**桔皮表面;**driveway**车道;**mud**泥;**quarry**采石场;**boulders**岩石;**limestone**石灰岩;
-- gravelly
-- gravelled
-- gravel-voiced
-- gravel-blind
 
 grocer, grocery, groceries
 - **grocery**食品杂货店;**supermarket**超级市场;**farmer**农夫，农民;**butcher**屠杀;**bakery**面包店;**groceries**食品;**Kroger**克罗格;**deli**熟食店;**merchant**商人，批发商;**store**储备，贮藏;**retailer**传播的人;
@@ -4595,6 +4681,12 @@ ground
 - groundswell
 - groundspeed
 - etc...
+
+grump
+- **grumpy**脾气暴躁的;**cranky**暴躁的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**bugger**家伙;**irritable**易怒的, 急躁的;**annoyed**恼怒的;**jolly**愉快的;**snarky**恶声恶气的，咬人的;**bitch**母狗，母狼;**fella**<俚>伙伴;
+- grumpy
+	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**angry**生气的;**annoyed**恼怒的;**tired**疲倦的;**smug**自满的, 沾沾自喜的;**chatty**饶舌的;**moody**喜怒无常的;**jaded**厌倦的;**jolly**愉快的;
+	-  [crabbed](dic://crabbed), [crabby](dic://crabby), [cross](dic://cross), [fussy](dic://fussy), [grouchy](dic://grouchy), [bad-tempered](dic://bad-tempered), [ill-tempered](dic://ill-tempered)
 
 grunt
 - **groan**呻吟;**growl**咆哮着说;**moan**呻吟;**scream**尖叫;**roar**吼;**howl**怒吼;**yell**大叫，叫喊;**growling**咆哮的;**moans**呻吟;**rumble**使隆隆响;**whine**闹声;
@@ -8521,22 +8613,7 @@ plank
 - gangplank
 
 plunder (plunge, plunk, plunger, plank)
-- 来自德语 plundern,抢劫室内物品，来自中古高地德语 plunder,室内物品，衣服，行李，家具等。后来在 17 世纪欧洲三十年战争期间，英国士兵把该词引入英国。最终词源不详。
-- [loot](dic://loot), [booty](dic://booty), [pillage](dic://pillage), [prize](dic://prize), [swag](dic://swag), [dirty money](dic://dirty money)
-- [sack](dic://sack)
-- [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
-- [rape](dic://rape), [spoil](dic://spoil), [despoil](dic://despoil), [violate](dic://violate)
-- _n._ [stolen property](dic://stolen property)
-- _v._ [steal](dic://steal), [take](dic://take), [destroy](dic://destroy), [ruin](dic://ruin)
-- **looting**抢劫;**loot**掠夺品;**spoils**赃物;**conquest**征服，战胜;**riches**财富;**hoard**储藏, 积存;**exploitation**开发;**steal**剽窃;**seize**抓住;**destruction**破坏, 毁灭, 消灭;**confiscation**没收,充公,征用;
-- _[disorderly plunder](dic://disorderly%20plunder)_ 无序掠夺
-- _[to plunder](dic://to%20plunder)_ 抢夺
-- _[open plunder](dic://open%20plunder)_ 哄抢
-- _[plunderous](dic://plunderous)_  adj. 劫掠的；掠夺成性的
-- plunderer
-- plunderbund
-- plunderage
-- plunderable
+- pill-
 
 plunk
 - [plunker](dic://plunker)
@@ -12702,7 +12779,7 @@ tater
 - _[tater tots](dic://tater%20tots)_  炸薯球; 油炸土豆丸子; 
 - _[tater tot](dic://tater%20tot)_  一种以土豆为原材料的油炸食品
 
-taunt
+taunt (taut, daunt)
 - 来自法语 tant pour tant,以眼还眼，以牙还牙，原倍奉还，来自 tant,等同，同样，词源同tantamount,pour,为了，词源同 for.引申词义嘲笑，奚落。
 - n. 嘲弄；讥讽
 - vt. 逗弄；奚落
@@ -12718,6 +12795,9 @@ taunt
 - for five years she was stalked by a man who would taunt and threaten her /五年来她一直受到一个男子的骚扰，该男子经常辱骂并威胁她。
 - I couldn't let you rise to your father's last taunt. /我不能让你听到你父亲临终前的讽刺。
 - Taunting the psychotic spouse, I realized, was not a wise move /我感觉，跟神经质的配偶争执一定是不明智的。
+
+taut
+- deuk- 
 
 tawdry
 - tawdry(俗丽)：喜爱华丽蕾丝的圣奥黛丽  
@@ -12759,11 +12839,7 @@ tee (tea)
 - **fairway**航路;**shirt**衬衫;**T-shirt**T恤, 短袖汗衫;**putt**击球入洞;**shirts**衬衫;**sweatshirt**运动衫;**birdie**小鸟;**golf**高尔夫球;**hoodie**冠鸦;**golfer**打高尔夫球的人;**pullover**套衫;
 
 team
--  [squad](dic://squad)
--  [team up](dic://team up)
-- _n._ [unit](dic://unit), [social unit](dic://social unit), [animal group](dic://animal group)
-- _v._ [group](dic://group), [aggroup](dic://aggroup)
-- **squad**班, 小队;**league**联盟;**coach**教练;**teammate**队友，同队队员;**players**队员，参与者;**coaches**教练;**staff**职员;**coaching**辅导;**championship**锦标赛,冠军赛;**player**演员;**all-star**明星云集的;
+- teuk-
 
 tear
 - tearstained
@@ -13124,6 +13200,9 @@ tosh
 totemic
 - **totem**图腾;**mythic**神话的;**mythological**神话的;**archetypal**原型的;**symbolic**使用符号的;**sculptural**雕刻的;**mythical**神话的;**primal**最初的;**tribal**部落的;**kinship**亲属关系，家属关系;**emblematic**象征的;
 
+tow
+- deuk-
+
 tower
 - n. 塔，塔楼；（发送信号等的）塔台；塔状堆积物；高柜，高架子；高层建筑，办公大楼；立式机箱；伦敦塔（the Tower） 
 - v. （比周围的人或物）高出许多，屹立；胜过，超过（其他人或机构）；（尤指猎鹰为捕抓猎物俯冲前）高飞，翱翔
@@ -13198,6 +13277,21 @@ trifle
 	- **insignificant**无价值的, 无意义的, 无用的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**trivial**不重要的，琐碎的;**unimportant**不重要的;**petty**小规模的;**mere**仅仅的;**paltry**不足取的;**scarcely**简直没有;**minuscule**小写字;**frivolous**不重要的,不必要的;**superfluous**过多的;
 - trifler
 
+tripe
+- n. 牛肚, 猪肚; 废话
+- n. 肚子；内脏；废话
+-  来自古法语 tripe,内脏，特指可食用的牛肚，百叶，肠等，词源不详，可能借自阿拉伯某词。
+- [folderol](dic://folderol), [rubbish](dic://rubbish), [trumpery](dic://trumpery), [trash](dic://trash), [wish-wash](dic://wish-wash), [applesauce](dic://applesauce), [codswallop](dic://codswallop)
+- _n._ [variety meat](dic://variety meat), [organs](dic://organs), [drivel](dic://drivel), [garbage](dic://garbage)
+- **drivel**淌口水,说傻话;**nonsense**谬论;**crap**废话;**bullshit**胡说;**idiocy**白痴;**stew**炖，炖汤;**spouting**喷射;**inane**愚蠢的;**rubbish**垃圾，废物;**tasteless**无味的;**mush**软而稠的混合物或块;
+- you do talk tripe sometimes. /你有时的确会信口开河。
+- With more than 10 kinds of spices to prepare flavor, Tripes will also give you surprises. /用十多种调料配制的风味涮毛肚，也会给你带来惊喜。
+- That's because it did! It's tripe! /说对了! 这是牛百叶!
+- Trick, you aren't going to listen to this human's tripe? /特里克 你不会相信这个人类的胡言乱语吧?
+- I've had enough of your third-degree tripe. /我已经受够了你的三级牛肚。
+- I was a little nervous to order tripe, but it's the local dish. /我有点紧张点牛肚，但这是当地菜。
+- 
+
 triumph
 - triumphant
 	- _adj._ [elated](dic://elated), [undefeated](dic://undefeated)
@@ -13261,6 +13355,9 @@ tsar
 	- _[Tsarist Russia and Qing China](dic://Tsarist%20Russia%20and%20Qing%20China)_ 沙俄与清帝国
 - tsarism
 - tsarina
+
+tug
+- deuk-
 
 tulle
 - n. 薄纱
