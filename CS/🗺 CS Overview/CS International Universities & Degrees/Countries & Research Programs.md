@@ -10,7 +10,7 @@
 ↗ [Academics](../../../../Academics/Academics.md)
 ↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
-↗ [Map & Culture & Geogrophy](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/Map%20&%20Culture%20&%20Geogrophy.md)
+↗ [Natural Science Information](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/Natural%20Science%20Information.md)
 
 
 ### Time Table
@@ -33,7 +33,6 @@ QS World University Rankings by Subject 2023: Computer Science and Information S
 ### 🇪🇺 Associated Programes
 #### 👉 SECCLO
 🏠 https://www.secclo.eu
-
 #### 👉 Erasmus Mundus
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
 

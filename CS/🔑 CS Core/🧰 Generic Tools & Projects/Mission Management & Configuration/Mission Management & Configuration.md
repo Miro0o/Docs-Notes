@@ -1,4 +1,4 @@
-# Mission Management
+# Mission Management & Configuration
 
 [TOC]
 

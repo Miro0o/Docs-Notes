@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Large Data Computing Platforms](../../../../../Data%20Science/🧯%20Large%20Data%20Computing%20Platforms/Large%20Data%20Computing%20Platforms.md)
+↗ [Observability & Analysis](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛬%20Continuous%20Delivery/Observability%20&%20Analysis/Observability%20&%20Analysis.md)
 
 
 

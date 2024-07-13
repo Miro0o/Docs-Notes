@@ -1,5 +1,4 @@
-# Team Communication & Project Management
-
+# Project Cooperation & Team Messaging
 [TOC]
 
 

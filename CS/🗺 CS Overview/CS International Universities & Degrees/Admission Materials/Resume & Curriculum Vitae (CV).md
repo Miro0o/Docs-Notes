@@ -10,7 +10,7 @@
 
 A good way to find other's CV & Resume: (academic) 🔗 https://csrankings.org/ like ppl here: ↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
-↗ [Personal Publicity](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Personal%20Publicity.md)
+↗ [Social Image & Publicity](../../../../Personal%20Lives/Social%20Image%20&%20Publicity.md)
 
 
 ### Templates & Tools

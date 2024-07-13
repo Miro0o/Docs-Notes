@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Countries & Research Programs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e2fea3f8a162f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS Overview/CS of The Year/Daily Schedule.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96bd21c913780996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🔑 CS Core/🧰 Generic Tools & Projects/Local Lives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +34,12 @@
             }
           },
           {
-            "id": "1500e25fcbd57748",
+            "id": "f692c7bbf2a86fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
+                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md"
               }
             }
           },
@@ -223,36 +197,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96bd21c913780996",
+  "active": "f692c7bbf2a86fda",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Countries & Research Programs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
-    "CS/Academics/Academics.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-    "Assets/Archive/Curriculums/SCU/CS/Shell/misc.md",
+    "CS/CyberSecurity/Network Security/Network Security.md",
+    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks & OWASP/Web Application Security Risks & OWASP.md",
+    "Assets/Pics/Screenshot 2024-07-13 at 11.46.27 PM.png",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/WebGoat.md",
+    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md",
+    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to write a Resume the right way.md",
+    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/Interns List 2023.md",
+    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/CS & IT Jobs & Interns Related.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/DreamBerd.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Knowledge Management/Logseq.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphical User Interface Builders & Libraries/slint.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Computer Graphics Programming.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/GUI Toolkits",
+    "CS/Software Engineering/🧩 (3D) Graphics Rendering Frameworks/(3D) Graphics Rendering Frameworks.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphical User Interface Builders & Libraries/Graphical User Interface Builders & Libraries.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/KVDBMS (Key-Value)/dragonfly.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/KVDBMS (Key-Value)/Redis & Open Redis Forks/Redis.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/🏋️ Database Engines & Search Engines/Database Query Engines/quickwit.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/🏋️ Database Engines & Search Engines/Database Engines & Search Engines.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/🏋️ Database Engines & Search Engines/📲 Embedding Database/Elasticsearch.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Logging/ELK (Elasticsearch, Logstash, Kibana)/ELK (Elasticsearch, Logstash, Kibana).md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Hoppscotch.md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/API Dev Tool Chain.md",
+    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Testing Types/Integration Test/API Testing/API Testing.md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Postman.md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/JMeter.md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Fiddler.md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Bruno.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Browsers",
     "CS/🗺 CS Overview/CS of The Year/Untitled.table",
-    "CS/🗺 CS Overview/CS of The Year/Daily Schedule.md",
-    "CS/🗺 CS Overview/CS of The Year/2024.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Research Proposal (RP).md",
-    "Entrepreneurship/Marketing & Promoting.md",
     "Assets/Pics/Pasted image 20240706152904.png",
-    "Entrepreneurship/Human & Organization Management.md",
-    "Entrepreneurship/IT Entrepreneurship & Internet.md",
     "Assets/Pics/Pasted image 20240706141804.png",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.png",
     "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.svg",
@@ -263,14 +240,11 @@
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/Alibaba Cloud Linux",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/统信 uos",
     "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/Anolis OS",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/KylinOS (银行麒麟)",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦",
     "Assets/Pics/Pasted image 20240705182541.png",
     "Personal Lives/Assets/quentin.jpeg",
     "Personal Lives/Assets/IMG_0400.jpeg",
     "Personal Lives/Assets/F54E53F8-8F20-4728-A939-8DB7EA5329B2_1_105_c.jpeg",
     "Personal Lives/Assets/CC6CA643-F897-4A7F-8D89-CB40F7911DD9_1_105_c.jpeg",
-    "Personal Lives/Assets/769607A1-8A4E-42B4-870F-5002F9219C33_1_105_c.jpeg",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

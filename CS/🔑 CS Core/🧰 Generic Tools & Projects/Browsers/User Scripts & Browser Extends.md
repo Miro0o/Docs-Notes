@@ -6,15 +6,16 @@
 
 ## Res
 ### Related Topics
-↗ [Script & Add-ons Management](🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
-↗ [Shell & Script Programming](../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
+↗ [Script & Add-ons Management](Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
+↗ [Shell & Script Programming](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/Shell%20&%20Script%20Programming.md)
 
-↗ [Browsers](Browsers.md)
+↗ [Browsers](Browsers/Browsers.md)
 
 
 
 ## Intro
 > 🔗 https://greasyfork.org/en
+
 
 ### What are user scripts?
 User scripts put you in control of your browsing experience. Once installed, they automatically make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits. The user scripts on Greasy Fork were written by other users and posted to share with the world. They're free to install and easy to use.
@@ -22,7 +23,7 @@ User scripts put you in control of your browsing experience. Once installed, the
 
 ### How to use a user script?
 1. Step 1: install a user script manager
-	1. ↗ [Script & Add-ons Management](🚀%20Life%20Productivity/Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
+	1. ↗ [Script & Add-ons Management](Files%20Management/Docs%20&%20Configurations%20&%20Templates/Script%20&%20Add-ons%20Management.md)
 	2. etc.
 2. Step 2: install a user script
 	1. https://greasyfork.org/en/scripts
