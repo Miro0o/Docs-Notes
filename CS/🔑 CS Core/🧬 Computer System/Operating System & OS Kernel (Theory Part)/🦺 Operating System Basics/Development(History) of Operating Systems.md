@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 
 
@@ -98,9 +98,9 @@ load being distributed among all of them.
 
 
 ### Personal Computers & OS
-↗ [Windows](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
-↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
-↗ [macOS (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/macOS%20(Derived%20From%20UNIX%20Family).md)
+↗ [Windows](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
+↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [macOS (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/macOS%20(Derived%20From%20UNIX%20Family).md)
 
 
 

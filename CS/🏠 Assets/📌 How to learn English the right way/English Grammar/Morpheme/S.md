@@ -2667,6 +2667,18 @@
 		6. [salvia](dic://salvia)
 		7. sagely, 
 		8. sagebrush
+	8. savant
+		1. 1 - 来自法语 savant,博学者，智者，来自拉丁语 sapere,品尝，鉴别，词源同 sapient,savor.即有鉴别力的人，有智慧的人。引申词义智者，专家。
+		2. sav-智慧 + -ant
+		3. n. 学者, 专家
+		4. [initiate](dic://initiate), [learned person](dic://learned person), [pundit](dic://pundit)
+		5. _n._ [scholar](dic://scholar), [scholarly person](dic://scholarly person), [bookman](dic://bookman), [student](dic://student)
+		6. **prodigy**奇迹，奇事;**genius**天才，天赋;**extraordinaire**异常的;**moron**痴愚者;**geniuses**天才;**guru**古鲁;**idiot**白痴;**autistic**孤僻的;**virtuoso**艺术品鉴赏家;**nerd**讨厌的人;**psychopath**精神病患者;
+		7. _[savant syndrome](dic://savant%20syndrome)_  学者症候群
+		8. the labour of the savant or speculative thinker /学者或思想家的劳动
+		9. The subject of today's " Great Big Story" is a savant, defined as someone who has incredible skill or brilliance. /今天的“大故事”的主题是一个博学的人，被定义为具有非凡的技能或才华的人。
+		10. However, now considered a savant, Clemmons can sculpt animals he's never even seen accurately to the tiniest detail. /然而，现在被认为是一名学者，克莱蒙斯可以雕刻出他从未见过的动物，甚至可以精确到最微小的细节。
+
 
 ### + \*sept- + = to rot
 1. septic, aseptic
@@ -5841,14 +5853,86 @@
 		3. _adj._ [prostate gland](dic://prostate gland)
 		4. **cancer**癌症;**colorectal**结肠直肠的;**cancers**癌症;**pancreatic**胰腺的;**breast**乳房，胸部;**ovarian**卵巢的;**bladder**膀胱;**tumor**肿瘤;**penile**阴茎的，用阴茎的;**melanoma**黑素瘤;**rectal**直肠的;
 	20. stand
-	21. state
-	22. static, statics
+		1. stand in
+			1. 代替：指代替他人出演角色或担任职责。
+			2. He will **stand** **in** for Mr. Goh when he is abroad. /当高先生在国外时他将代行其职。
+		2. withstand
+			1. _v._ [resist](dic://resist), [hold out](dic://hold out), [stand firm](dic://stand firm), [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down)
+			2. **endure**忍耐;**survive**活得长;**impervious**不可渗透的,透不过的;**resist**抵抗，抗拒;**sustain**承受, 支撑;**succumb**屈服;**tolerate**忍受;**sustained**持久的;**susceptible**易受影响的;**durable**耐用的，持久的;**cope**处理;
+			3. _withstand voltage_ 耐压
+			4. _voltage withstand_ 耐电压
+			5. _withstand test_ 耐压试验
+			6. _withstand voltage test_ 耐压试验
+			7. he structure had been designed to withstand winds of more than 100 mph. /这种结构的设计能承受住时速100英里大风的冲击。
+			8. few structures can withstand a hit from a speeding car. /建筑物很少能承受高速行驶车辆的撞击。
+			9.  I thought our relationship... could withstand anything. / 我以为我们的感情 坚不可摧。
+			10. notwithstanding
+		4. washstand
+		5. upstanding
+		6. understand
+			1. understanding
+			2. understandable
+				1. understandably
+				2. understandability
+			3. misunderstand
+				1. misunderstanding
+		7. standstill
+		8. standpoint
+		9. standpipe
+		10. standpat
+			1. standpatter
+		11. standout
+		12. standoff
+			1. standoffish
+		13. standish
+		14. standing
+			1. standings
+		15. stander-by
+		16. standee
+		17. standby
+		18. standaway
+		19. standard
+			1. superstandard
+			2. substandard
+			3. standardize
+				1. standardizing
+				2. standardization
+			4. standardise
+			5. standard-bearer
+			6. offstandard
+			7. nonstandard
+		20. stand-up
+		21. stand-to
+		22. stand-in
+		23. stand-down
+		24. stand-alone
+		25. stackstand
+		26. outstanding
+		27. nightstand
+		28. newsstand
+		29. longstanding
+		30. lampstand
+		31. kickstand
+		32. inkstand
+		33. headstand
+		34. hatstand
+		35. hardstand
+		36. handstand
+		37. hallstand
+		38. grandstand
+		39. freestanding
+		40. cabstand
+		41. bystander
+		42. book-stand
+		43. bandstand
+	22. state
+	23. static, statics
 		1. hydryostatical
 		2. isostatic
 		3. metastatic
-	23. station, stadium,
-	24. stage
-	25. stalk
+	24. station, stadium,
+	25. stage
+	26. stalk
 		1. n. 茎, 梗  v. 悄悄跟踪; 怒冲冲地走, 趾高气扬地走; 骚扰, 纠缠
 		2. [chaff](dic://chaff), [husk](dic://husk), [shuck](dic://shuck), [straw](dic://straw), [stubble](dic://stubble)
 		3. [stem](dic://stem)
@@ -5955,7 +6039,7 @@
 		2. **stagnation**停滞;**limbo**林波舞;**dilation**扩张，扩大;**trapped**陷入困境的;**warp**弯曲，歪曲;**stagnant**停滞的;**motionless**不动的,静止的;**paralysis**瘫痪;**disintegration**瓦解;**cocoon**茧;
 		3. etc..
 	49. stale
-		1.  **stagnant**停滞的;**bland**乏味的;**fresh**新鲜的;**soggy**浸水的;**rotten**腐烂的;**tiresome**烦人的，无聊的;**boring**令人厌烦的;**smelly**有臭味的，发臭的;**dull**钝的;**stinky**发恶臭的;**uninteresting**无趣的,令人厌倦的;
+		1. **stagnant**停滞的;**bland**乏味的;**fresh**新鲜的;**soggy**浸水的;**rotten**腐烂的;**tiresome**烦人的，无聊的;**boring**令人厌烦的;**smelly**有臭味的，发臭的;**dull**钝的;**stinky**发恶臭的;**uninteresting**无趣的,令人厌倦的;
 		2. staling
 		3. staleness
 		4. stalemate
@@ -6089,7 +6173,7 @@
 			8. Meme bore up under the exhibitions with the same stoicism that she had dedicated to her apprenticeship /梅梅以她在学徒生涯中所献身的那种坚忍态度忍受着展览。
 		12. stoical
 			1. 
-	70. store
+	69. store
 		1. superstore
 		2. storewide
 		3. storethrough
@@ -6124,7 +6208,7 @@
 		23. megastore
 		24. drugstore
 		25. bookstore
-	71. stultify
+	70. stultify
 		1. [cripple](dic://cripple)
 		2. [prove](dic://prove), [demonstrate](dic://demonstrate), [establish](dic://establish), [show](dic://show), [shew](dic://shew), [ridicule](dic://ridicule), [roast](dic://roast)
 		3. stultification
@@ -6132,17 +6216,17 @@
 			2. _n._ [derision](dic://derision), [degradation](dic://degradation), [debasement](dic://debasement)
 			3. **stagnation**停滞;**malaise**不舒服;**alienation**离间,疏远;**apathy**冷漠，无兴趣，漠不关心;**tyranny**暴政;**complacency**自满;**boredom**厌倦;**disintegration**瓦解;**abject**卑贱的;**mediocrity**平庸,第二流;**preoccupation**全神贯注，入神;
 		5. **stifle**使窒息;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**deprive**使丧失，剥夺;**undermine**在某物下挖洞或挖通道;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**obstruct**阻塞;**compel**强迫，迫使;**impair**削弱;
-	72. varistor, 
-	73. armistice
+	71. varistor, 
+	72. armistice
 		1. _n._ [peace](dic://peace)
 		2. **truce**休战;**cease-fire**停火;**ceasefire**停火;**treaty**条约，协议;**surrender**投降;**agreement**协定, 协议, 契约;**disarmament**解除武装;**war**战争，斗争;**ultimatum**最后通牒;**stalemate**僵局;**pact**条约;
-	74. extant
+	73. extant
 		1. _adj._ [living](dic://living), [surviving](dic://surviving)
 		2. _n._ [extinct](dic://extinct), [nonextant](dic://nonextant)
 		3. **surviving**继续存在的;**earliest**最早;**unpublished**未出版的,未出版发行的;**preserved**保存的;**existent**生存者;**ancient**古代的;**extinct**灭绝的，绝种的;**manuscript**手稿, 原稿, 底稿;**remains**残余;**archaic**古代的;**exist**存在;
-	75. statin
+	74. statin
 		1. n. 他汀类药物；抑制素（statin的复数形式）；降低胆固醇药物
-	76. stet
+	75. stet
 		1. _v._ [invalidate](dic://invalidate), [annul](dic://annul), [quash](dic://quash), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify), [direct](dic://direct)
 		2. - v. 对……加注表示不删，保留 
 		3. n. 保留，不删

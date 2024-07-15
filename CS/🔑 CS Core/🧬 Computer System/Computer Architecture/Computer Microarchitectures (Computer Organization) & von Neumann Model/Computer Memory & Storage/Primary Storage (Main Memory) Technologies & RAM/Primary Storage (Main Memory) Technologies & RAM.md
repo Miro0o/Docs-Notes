@@ -8,7 +8,6 @@
 ### Related Topics
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 
-↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 ↗ [Memory Access](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 
@@ -133,13 +132,11 @@ For years, manufacturers have been trying to balance the higher latency in large
 - L1 cache typically ranges in size from **8KB to 64KB**.
 - If the data is not found in L1, the Level 2 (L2) cache is checked. 
 
-
 **Level 2 (L2) cache** is typically located **external to the processor**. L2 cache can be located on the system motherboard, on a separate chip, or on an expansion board. L2 cache is larger, but slower than L1 cache. 
 - L2 cache has access speeds of **15–20ns**.
 - Typical sizes for L2 cache range from **64KB to 2MB**. 
 - If data is missing from L1 but found in L2, it is loaded into L1 cache (in some architectures, the data being replaced in L1 is swapped with the requested data in L2). 
 - More manufacturers have begun to include L2 cache in their architectures by building L2 cache onto the same die as the CPU itself so the cache runs at CPU speed (but not on the same circuit with the CPU, such as is the case with L1 cache). This reduces the access speed of L2 cache to approximately 10ns. 
-
 
 **L3 cache** is the term now used to refer to the **extra cache between the processor and memory** (which used to be called L2 cache) on processors that include L2 cache as part of their architecture. 
 - L3 caches range in size from **8MB to 256MB**.
@@ -178,5 +175,4 @@ Another type of specialized cache, **trace cache**, is a variant of an instructi
 
 ## Ref
 【放大一亿倍，看芯片内部的工作原理！（完整篇）】 https://www.bilibili.com/video/BV1Ce4y1W71k/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
-
 

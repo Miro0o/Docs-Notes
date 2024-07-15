@@ -38,7 +38,7 @@ Flow links above to dive deep, including how they are formatted, how they are ac
 ↗ [ISA Basics](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/ISA%20Basics.md)
 
 ### Data Essentials (数据)
-↗ [Data Representations & Storage in CS](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20Representations%20&%20Storage%20in%20CS.md)
+↗ [Data (Text) Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20(Text)%20Representations%20&%20Storage%20in%20Computer.md)
 
 
 ### Effective Address （有效地址） 

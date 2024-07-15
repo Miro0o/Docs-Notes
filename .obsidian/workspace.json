@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7cb2e71ec23f552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🧰 Generic Tools & Projects/Local Lives.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7ced21eeb5b0386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,38 @@
             }
           },
           {
-            "id": "f692c7bbf2a86fda",
+            "id": "fd0f3073afea94f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/3D Creation Suites/Blender.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2c04d2a29d21685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17c17490863e73b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5027122497559
+    "width": 617.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
+                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md"
+                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md"
               }
             }
           },
@@ -197,54 +210,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f692c7bbf2a86fda",
+  "active": "17c17490863e73b2",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Network Security/Network Security.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks & OWASP/Web Application Security Risks & OWASP.md",
-    "Assets/Pics/Screenshot 2024-07-13 at 11.46.27 PM.png",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/WebGoat.md",
-    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md",
-    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to write a Resume the right way.md",
-    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/Interns List 2023.md",
-    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/CS & IT Jobs & Interns Related.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/DreamBerd.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Knowledge Management/Logseq.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphical User Interface Builders & Libraries/slint.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Computer Graphics Programming.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/GUI Toolkits",
-    "CS/Software Engineering/🧩 (3D) Graphics Rendering Frameworks/(3D) Graphics Rendering Frameworks.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphical User Interface Builders & Libraries/Graphical User Interface Builders & Libraries.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/KVDBMS (Key-Value)/dragonfly.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/KVDBMS (Key-Value)/Redis & Open Redis Forks/Redis.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/🏋️ Database Engines & Search Engines/Database Query Engines/quickwit.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/🏋️ Database Engines & Search Engines/Database Engines & Search Engines.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/DBMS (DataBase Management System) Implementations/🏋️ Database Engines & Search Engines/📲 Embedding Database/Elasticsearch.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Observability & Analysis/Logging/ELK (Elasticsearch, Logstash, Kibana)/ELK (Elasticsearch, Logstash, Kibana).md",
-    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Hoppscotch.md",
-    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/API Dev Tool Chain.md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Testing Types/Integration Test/API Testing/API Testing.md",
-    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Postman.md",
-    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/JMeter.md",
-    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Fiddler.md",
-    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/📌 API Dev Tool Chain/Bruno.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Browsers",
-    "CS/🗺 CS Overview/CS of The Year/Untitled.table",
-    "Assets/Pics/Pasted image 20240706152904.png",
-    "Assets/Pics/Pasted image 20240706141804.png",
-    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.png",
-    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.svg",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/优麒麟操作系统",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/红旗 Linux",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/deepin",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/TencentOS Server Kernel",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/Alibaba Cloud Linux",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/统信 uos",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems (Engineering Part)/国产操作系统 💦/Anolis OS",
-    "Assets/Pics/Pasted image 20240705182541.png",
-    "Personal Lives/Assets/quentin.jpeg",
-    "Personal Lives/Assets/IMG_0400.jpeg",
-    "Personal Lives/Assets/F54E53F8-8F20-4728-A939-8DB7EA5329B2_1_105_c.jpeg",
-    "Personal Lives/Assets/CC6CA643-F897-4A7F-8D89-CB40F7911DD9_1_105_c.jpeg",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/👧🏽 MARIE.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
+    "CS/🔑 CS Core/Hardware & EE Related/⚡️ Digital (Logic) Electronics Foundations/0x01 Logic Gate/Transistors.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/3D Creation Suites/Blender.md",
+    "CS/Software Engineering/Computer Graphics Programming.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/📌 Graphic Game Engines & Game Dev/Graphic Game Engines & Game Dev.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/3D Creation Suites",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/(3D) Graphics Rendering Frameworks",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/Graphics Processing & GUI SDK.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/(3D) Graphics Rendering Frameworks/(3D) Graphics Rendering Frameworks.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Systems on Chip (SOC).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Motherboard & Mainboard.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer (Hardware) Components.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/Semiconductor Memory Technology & Memory Chips & RAM.md",
+    "Assets/Pics/Pasted image 20240715223048.png",
+    "Assets/Pics/Pasted image 20240715222937.png",
+    "CS/🔑 CS Core/Hardware & EE Related/Hardware Profiling.md",
+    "Assets/Pics/Screenshot 2024-07-15 at 10.24.05 PM.png",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Primary Storage (Main Memory) Technologies & RAM.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/Semi-conductor Media (Circuit) Storage & Flash Storage/SSD (Solid State Disk).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/Semi-conductor Media (Circuit) Storage & Flash Storage/Semi-conductor Media (Circuit) Storage & Flash Storage.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Display/Display.md",
+    "Assets/Pics/Screenshot 2024-07-15 at 9.50.25 PM.png",
+    "Assets/Pics/Screenshot 2024-07-15 at 9.50.01 PM.png",
+    "Assets/Pics/Screenshot 2024-07-15 at 9.39.56 PM.png",
+    "Assets/Pics/Screenshot 2024-07-15 at 9.39.26 PM.png",
+    "Assets/Pics/Screenshot 2024-07-15 at 9.36.27 PM.png",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Computer Memory & Storage.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/SRAM Technology.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/💾 Disk Technology/Disk Technology.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/Flash Storage Technology.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/Future Data Storage.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/💾 Disk Technology/Disk Cache.md",
+    "CS/🔑 CS Core/Hardware & EE Related/⚡️ Digital (Logic) Electronics Foundations/Digital (Logic) Electronics Foundations.md",
+    "Assets/Pics/Screenshot 2024-07-15 at 2.05.36 PM.png",
+    "Assets/Illustrations/Computer System/OS_booting.excalidraw.svg",
+    "CS/🔑 CS Core/Hardware & EE Related/🍏 Other Related Theories",
+    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Touchscreen",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM",
+    "CS/Embedded & Internet of Things/Embedded Programming",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/IO Units & Sensors",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/Computing Units & Chips & Boards",
+    "CS/🔑 CS Core/Hardware & EE Related",
+    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Compression Technologies/Codec & Media Formats & Standards/Aucoustic Formats & Standards",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

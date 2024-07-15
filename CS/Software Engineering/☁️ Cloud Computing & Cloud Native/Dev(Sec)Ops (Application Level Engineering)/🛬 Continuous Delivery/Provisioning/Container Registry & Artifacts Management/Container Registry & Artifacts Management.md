@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [CLI Package & Software Management](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md)
+↗ [CLI Package & Software Management](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md)
 ↗ [Code Management (CM) (Git Implementations)](../../../🛫%20Continuous%20Integration/Code%20Management%20(CM)%20(Git%20Implementations)/Code%20Management%20(CM)%20(Git%20Implementations).md)
 
 ↗ [Software Supply Chains Security](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)

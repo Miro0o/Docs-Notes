@@ -11,7 +11,7 @@
 
 ### Related Topics
 ↗ [Single-Board Computer (SBC)](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/🛌%20Single-Board%20Computer%20(SBC)/Single-Board%20Computer%20(SBC).md)
-↗ [Systems on Chip (SOC)](../Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SOC)](Systems%20on%20Chip%20(SOC).md)
 
 
 

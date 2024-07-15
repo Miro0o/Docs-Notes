@@ -12,7 +12,7 @@
 ↗ [Physical Layer Network Devices](0x07%20Physical%20Layer/Physical%20Layer%20Network%20Devices/Physical%20Layer%20Network%20Devices.md)
 ↗ [Network Layer Devices](0x05%20Network%20Layer/Network%20Layer%20Devices/Network%20Layer%20Devices.md)
 
-↗ [Network Devices](../../Auxiliary%20Hardware%20&%20Peripherals/Network%20Devices/Network%20Devices.md)
+↗ [Network Devices](../../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Network%20Devices/Network%20Devices.md)
 
 
 
@@ -76,8 +76,7 @@ Types of hubs:
 ### 👉 Routers
 ↗ [Router](0x05%20Network%20Layer/Network%20Layer%20Devices/Router/Router.md)
 
-
-### 👉 Gateway
+#### 👉 Gateway
 按照不同的分类标准，网关也有很多种。TCP/IP协议里的网关是最常用的，在这里我们通常所讲的“网关”均指TCP/IP协议下的网关。
 
 那么网关到底是什么呢？网关实质上是一个网络通向其他网络的IP地址。比如有网络A和网络B，网络A的IP地址范围为“192.168.1.1~192. 168.1.254”，子网掩码为255.255.255.0；网络B的IP地址范围为“192.168.2.1~192.168.2.254”，子网掩码为255.255.255.0。在没有路由器的情况下，两个网络之间是不能进行TCP/IP通信的，即使是两个网络连接在同一台交换机(或集线器)上，TCP/IP协议也会根据子网掩码(255.255.255.0)判定两个网络中的主机处在不同的网络里。而要实现这两个网络之间的通信，则必须通过网关。如果网络A中的主机发现数据包的目的主机不在本地网络中，就把数据包转发给它自己的网关，再由网关转发给网络B的网关，网络B的网关再转发给网络B的某个主机(如附图所示)。网络B向网络A转发数据包的过程。

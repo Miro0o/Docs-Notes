@@ -10,7 +10,7 @@
 
 ### Related Topics
 ↗ [Code Management (CM) (Git Implementations)](../../../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Code%20Management%20(CM)%20(Git%20Implementations)/Code%20Management%20(CM)%20(Git%20Implementations).md)
-↗ [Awesome CLI Integration](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+↗ [Awesome CLI Integration](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 ### 🥅 Tutorials

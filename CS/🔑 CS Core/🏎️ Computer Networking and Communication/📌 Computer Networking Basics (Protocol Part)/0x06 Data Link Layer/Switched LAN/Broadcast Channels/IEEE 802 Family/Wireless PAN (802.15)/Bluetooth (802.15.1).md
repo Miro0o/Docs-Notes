@@ -8,11 +8,17 @@
 🏠 https://www.bluetooth.com
 
 
+### Related Topics
+
+
+### Learning Resources
+🎬 https://youtu.be/1I1vxu5qIUM?si=zod9flKr5KMQ_oS9
+How does Bluetooth Work?
+
+
 
 ## Intro
-
 ![](../../../../../../../../../Assets/Pics/220px-BluetoothLogo.svg.png)
-
 
 > 🔗 https://en.wikipedia.org/wiki/Bluetooth#
 

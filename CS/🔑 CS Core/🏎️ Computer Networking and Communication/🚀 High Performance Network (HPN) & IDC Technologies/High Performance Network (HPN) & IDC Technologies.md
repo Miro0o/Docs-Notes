@@ -10,16 +10,16 @@
 ↗ [OS IO System](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
 - ↗ [IO Models](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/📌%20IO%20Models/IO%20Models.md)
 
-↗ [Linux IO & Files Management](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/Linux%20IO%20&%20Files%20Management.md)
-↗ [Linux Network](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
+↗ [Linux IO & Files Management](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/Linux%20IO%20&%20Files%20Management.md)
+↗ [Linux Network](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20IO%20&%20Files%20Management/🎠%20Linux%20Network/Linux%20Network.md)
 
 ↗ [0x06 Data Link Layer](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
 ↗ [IDC & Data Center Networking](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/IDC%20&%20Data%20Center%20Networking.md)
 
-↗ [NPU (Network Processing Unit)](../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
-↗ [High Performance Computing](../../🧬%20Computer%20System/Computing%20&%20Computing%20Systems/High%20Performance%20Computing/High%20Performance%20Computing.md)
+↗ [NPU (Network Processing Unit)](../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+↗ [High Performance Computing](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/Computing%20&%20Computing%20Systems/High%20Performance%20Computing/High%20Performance%20Computing.md)
 ↗ [High Performance Storage (HPS)](../../🍕%20Computer%20Storage%20&%20Database%20Systems/High%20Performance%20Storage%20(HPS)/High%20Performance%20Storage%20(HPS).md)
-↗ [High Performance Computer (HPC)](../../🧬%20Computer%20System/Computing%20&%20Computing%20Systems/High%20Performance%20Computer%20(HPC).md)
+↗ [High Performance Computer (HPC)](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/Computing%20&%20Computing%20Systems/High%20Performance%20Computer%20(HPC).md)
 
 
 ### Learning Resources

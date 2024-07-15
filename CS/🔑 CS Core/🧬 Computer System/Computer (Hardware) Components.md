@@ -11,13 +11,13 @@
 ## Res
 ### Related Topics
 ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-↗ [Auxiliary Hardware & Peripherals](../Auxiliary%20Hardware%20&%20Peripherals/Auxiliary%20Hardware%20&%20Peripherals.md)
-↗ [Small Form Factor Computer](Computing%20&%20Computing%20Systems/Small%20Form%20Factor%20Computer.md)
 ↗ [Computer Systems & Implementations](📌%20Computer%20Systems%20&%20Implementations/Computer%20Systems%20&%20Implementations.md)
+↗ [Small Form Factor Computer](📌%20Computer%20Systems%20&%20Implementations/Computing%20&%20Computing%20Systems/Small%20Form%20Factor%20Computer.md)
 
+↗ [Auxiliary Hardware & Peripherals (IO Devices)](../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 ↗ [Network Devices Overview](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Network%20Devices%20Overview.md)
 
-↗ [Systems on Chip (SOC)](Computer%20Architecture/Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SOC)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
 
 
 
@@ -32,18 +32,19 @@
 
 
 
-## 🎯 Key Computer Components
+## 🎯 Basic Computer Components
 ### Motherboard
 ↗ [Motherboard & Mainboard](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Motherboard%20&%20Mainboard.md)
 
 
-### PMU (Power Supply Unit)
+### PSU (Power Supply Unit) /PMU (Power Management Unit)
 > 🔗 https://en.wikipedia.org/wiki/Power_supply_unit_(computer)
 
 A power supply unit (PSU) converts mains AC to low-voltage regulated DC power for the internal components of a computer. Modern personal computers universally use switched-mode power supplies. Some power supplies have a manual switch for selecting input voltage, while others automatically adapt to the main voltage.
 
 Most modern desktop personal computer power supplies conform to the ATX specification, which includes form factor and voltage tolerances. While an ATX power supply is connected to the mains supply, it always provides a 5-volt standby (5VSB) power so that the standby functions on the computer and certain peripherals are powered. ATX power supplies are turned on and off by a signal from the motherboard. They also provide a signal to the motherboard to indicate when the DC voltages are in spec, so that the computer is able to safely power up and boot. The most recent ATX PSU standard is version 3.0 as of mid-2022.
 #### DC Power Delivery
+
 #### AC Power Delivery
 
 
@@ -52,7 +53,9 @@ Most modern desktop personal computer power supplies conform to the ATX specific
 ↗ [Adapter Cards (Expansion Cards)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Adapter%20Cards%20(Expansion%20Cards)/Adapter%20Cards%20(Expansion%20Cards).md)
 
 
-### Secondary Storage
+### IO Modules
+#### Network Modules
+#### Secondary Storage
 ↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
 
 

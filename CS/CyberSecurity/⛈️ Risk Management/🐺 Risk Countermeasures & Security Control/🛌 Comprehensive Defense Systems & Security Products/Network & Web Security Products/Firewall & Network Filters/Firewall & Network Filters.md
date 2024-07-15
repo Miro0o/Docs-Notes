@@ -9,7 +9,7 @@
 ↗ [Access Control (访问控制)](../../../Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md)
 
 ↗ [WAF (Web Application Firewall) (Web IPS)](../IPS%20(Intrusion%20Prevention%20Systems)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS)/WAF%20(Web%20Application%20Firewall)%20(Web%20IPS).md)
-↗ [Free Software /Firewall & Network Filters](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Firewall%20&%20Network%20Filters.md)
+↗ [Free Software /Firewall & Network Filters](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/Firewall%20&%20Network%20Filters.md)
 - netfilters
 - iptables
 - etc.
@@ -63,7 +63,7 @@
 4. 限制网络暴露
 
 ![img](../../../../../../../../Assets/Pics/021217_0051_6.png)
-↗ [iptables](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
+↗ [iptables](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Network%20Management/The%20netfilter.org%20Project%20(Netfilter)/iptables.md)
 
 防火墙的检测与过滤技术
 - 应用代理（**Application Proxy**）：工作在应用层，通过编写不同的应用代理程序，实现对应用层数据的检测和分析。
@@ -312,7 +312,7 @@ X86架构防火墙中，其CPU具有高灵活性、高扩展性的特性；
 - 基于X86架构防火墙的处理速度和能力能够很好的适应各种百兆网络环境和一般千兆网络环境的需求；
 - 基于X86防火墙由于受CPU处理能力和PCI总线的制约，在更高的千兆环境下其性能和功能则日益不能满足于需求；
 ##### 基于专用处理芯片的ASIC架构
-↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
+↗ [ASIC (Application-Specific Integrated Circuit)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/ASIC%20(Application-Specific%20Integrated%20Circuit).md)
 
 ASIC 架构（Application Specific Integrated Circuit），专用集成电路，一种带有逻辑处理的加速处理器，把一些原先由 CPU 完成的经常性和重复工作交给 ASIC 芯片来负责完成，如交换机、路由器、智能 IC 卡，通常配合通用 CPU 单元来完成复杂运算。代表产品为大部分国外的商业硬件防火墙。
 
@@ -320,7 +320,7 @@ ASIC 架构（Application Specific Integrated Circuit），专用集成电路，
 - 传统的ASIC芯片技术的最大不足就是缺乏灵活性，开发难度大。一旦指令或计算逻辑固化到硬件中，就很难修改升级、增加新的功能。而且，ASIC设计和制造周期长，研发费用高。
 - 现代的ASIC芯片技术增加了可编程性，从而能够同时满足灵活性和高性能的要求。从实现功能方面看，ASIC防火墙可以很容易地集成VPN、内容过滤和防病毒等功能。
 ##### 基于网络处理器的NPU架构
-↗ [NPU (Network Processing Unit)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
+↗ [NPU (Network Processing Unit)](../../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
 
 NP 架构（Network Processor），网络处理器，通用 CPU 架构和 ASIC 架构的折衷，开发难度较低，性能较好，具有灵活性/可扩展性。代表产品是大部分国内的商业硬件防火墙。
 

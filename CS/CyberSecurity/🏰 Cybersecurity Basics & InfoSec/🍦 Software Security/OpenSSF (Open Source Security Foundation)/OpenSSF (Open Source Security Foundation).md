@@ -22,8 +22,8 @@
 
 
 ### Related Topics
-↗ [The Linux Foundation](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/The%20Linux%20Foundation.md)
-↗ [Linux Free Software & OSS (Open Source Software)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
+↗ [The Linux Foundation](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/The%20Linux%20Foundation.md)
+↗ [Linux Free Software & OSS (Open Source Software)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 ↗ [Cloud Computing & Cloud Native](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 
 ↗ [Application Security](../../../Application%20Security/Application%20Security.md)
