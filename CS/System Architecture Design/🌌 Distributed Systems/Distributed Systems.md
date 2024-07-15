@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Systems
-↗ [Parallel Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
 ↗ [High Performance Network (HPN) & IDC Technologies](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies.md)
 
 

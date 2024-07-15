@@ -6,11 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Operating Systems (Engineering Part)](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Operating%20Systems%20(Engineering%20Part).md)
+↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 
-↗ [Operating System Components & Runtime Libraries](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
-- ↗ [Operating System Kernel (Kernel Mode)](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
-- ↗ [System Core Function Libraries & C Standard Library (User Mode)](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
+↗ [Operating System Components & Runtime Libraries](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+- ↗ [Operating System Kernel (Kernel Mode)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+- ↗ [System Core Function Libraries & C Standard Library (User Mode)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 
 ↗ [C & CPP](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
 
@@ -21,7 +21,7 @@
 🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
 🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Courses%20of%20Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
-> Learning in action by ↗ [Operating Systems (Engineering Part)](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Operating%20Systems%20(Engineering%20Part).md)
+> Learning in action by ↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 > Theoretical knowledge begins with ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
 
 🇨🇳 ↗ [NJU /操作系统](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
@@ -30,9 +30,9 @@
 ↗ [Computer System](../Computer%20System.md)
 ↗ [Computer Architecture](../Computer%20Architecture/Computer%20Architecture.md)
 
-↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
-↗ [UNIX Family](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/UNIX%20Family/UNIX%20Family.md)
-↗ [Windows](../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
+↗ [Linux (Derived From UNIX Family)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [UNIX Family](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/UNIX%20Family.md)
+↗ [Windows](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
 
 📖 [UNIX Network Programming](http://www.unpbook.com) volumn I & II
 📖 Advanced Programming in the UNIX® Environment 

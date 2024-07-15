@@ -6,14 +6,31 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [OS Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
+↗ [Storage Devices](../../../../Hardware%20&%20EE%20Related/Storage%20Devices/Storage%20Devices.md)
+
 
 
 ## Overview
+> 🔗 https://en.wikipedia.org/wiki/Computer_memory
+
+> ⚠ Sometimes "memory" refers to storages with higher speed, e.g. main memory or working memory, while "storage" specifically refers to storages with slower speed, e.g. auxiliary storages like HDD.
+
+**Computer memory** stores information, such as data and programs, for immediate use in a computer. The term memory is often synonymous with the terms RAM, main memory, or primary storage. Archaic synonyms for main memory include core (for magnetic core memory) and store.
+
+**Main memory** operates at a high speed compared to mass storage which is slower but less expensive per bit and higher in capacity. Besides storing opened programs and data being actively processed, computer memory serves as a mass storage cache and write buffer to improve both reading and writing performance. 
+
+> Operating systems borrow RAM capacity for caching so long as not needed by running software. If needed, **contents of the computer memory can be transferred to storage**; a common way of doing this is through a memory management technique called **virtual memory**.
+
+Modern computer memory is implemented as **semiconductor memory**, where data is stored within memory cells built from MOS transistors and other components on an integrated circuit. There are two main kinds of semiconductor memory: volatile and non-volatile. 
+- Examples of non-volatile memory are flash memory and ROM, PROM, EPROM, and EEPROM memory. 
+- Examples of volatile memory are dynamic random-access memory (DRAM) used for primary storage and static random-access memory (SRAM) used mainly for CPU cache.
+
+Most semiconductor memory is organized into **memory cells** each storing one bit (0 or 1). **Flash memory** organization includes both one bit per memory cell and a multi-level cell capable of storing multiple bits per cell. The memory cells are grouped into words of fixed word length, for example, 1, 2, 4, 8, 16, 32, 64 or 128 bits. Each word can be accessed by a binary address of N bits, making it possible to store 2N words in the memory.
 
 
 
@@ -99,8 +116,8 @@ There are three basic forms of locality:
 > RAM is somewhat of a misnomer; a more appropriate name is read-write memory
 > 
 > ↗ [Primary Storage (Main Memory) Technologies & RAM](Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
-##### DRAM
-The basic operation of all DRAM memories is the same, but there are many flavors, including 
+##### DRAM (Dynamic RAM)
+The basic operation of all DRAM memories is the same, but there are many flavors, including
 - multibank DRAM (MDRAM)
 - fast-page mode (FPM) DRAM
 - extended data out (EDO) DRAM
@@ -110,11 +127,11 @@ The basic operation of all DRAM memories is the same, but there are many flavors
 - double data rate (DDR) SDRAM
 - rambus DRAM (RDRAM)
 - direct rambus (DR) DRAM
-##### SRAM
+##### SRAM (Static RAM)
 The different types of SRAM include asynchronous SRAM, synchronous SRAM, and pipeline-burst SRAM.
 
 
-### 2️⃣ Non-Volatile Memory (Secondary Memory)
+### 2️⃣ Non-Volatile Memory (NVM, Secondary Memory)
 ↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
 #### ROM (Read-Only Memory)
 There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory. 
@@ -122,7 +139,7 @@ There are five basic types of ROM: ROM, PROM, EPROM, EEPROM, and flash memory.
 - **EPROM (erasable PROM)** is programmable with the added advantage of being reprogrammable (erasing an EPROM requires a special tool that emits ultraviolet light). To reprogram an EPROM, the entire chip must first be erased. 
 - **EEPROM (electrically erasable PROM)** removes many of the disadvantages of EPROM: No special tools are required for erasure (this is performed by applying an electric field) and you can erase only portions of the chip, one byte at a time. 
 - **Flash memory** is essentially EEPROM with the added benefit that data can be written or erased in blocks, removing the one-byte-at-a-time limitation. This makes flash memory faster than EEPROM. Flash memory has become a very popular type of storage and is used in many different devices, including cell phones, digital cameras, and music players. It is also being used in solid-state disk drives.
-#### Memory that can both read /write...
+#### Other Non-semiconductor Storages...
 
 
 

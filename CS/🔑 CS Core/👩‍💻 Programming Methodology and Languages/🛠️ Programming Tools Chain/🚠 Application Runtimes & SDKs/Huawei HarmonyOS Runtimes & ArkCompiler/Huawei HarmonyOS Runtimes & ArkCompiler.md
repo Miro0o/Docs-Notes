@@ -13,10 +13,10 @@
 
 
 ### Related Topics
-↗ [Huawei Operating Systems](../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/Huawei%20Operating%20Systems.md)
+↗ [Huawei Operating Systems](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/Huawei%20Operating%20Systems.md)
 
-↗ [HarmonyOS](../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/HarmonyOS%20(鸿蒙操作系统)/HarmonyOS.md)
-↗ [OpenHarmony](../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/OpenHarmony/OpenHarmony.md)
+↗ [HarmonyOS](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/HarmonyOS%20(鸿蒙操作系统)/HarmonyOS.md)
+↗ [OpenHarmony](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/OpenHarmony/OpenHarmony.md)
 ↗ [ArkTS](../../../Compiled%20Languages/🐝%20JavaScript-Based%20Languages/ArkTS/ArkTS.md)
 
 ↗ [JS Engines (JS Compilation)](../JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)

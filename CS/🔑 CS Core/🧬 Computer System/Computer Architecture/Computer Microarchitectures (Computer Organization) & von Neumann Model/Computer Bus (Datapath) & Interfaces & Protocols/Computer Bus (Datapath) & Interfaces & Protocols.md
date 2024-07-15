@@ -15,7 +15,7 @@
 ↗ [Reliable Data Transfer (RDT)](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
 
 ↗ [Motherboard & Mainboard](../Motherboard%20&%20Mainboard.md)
-↗ [Systems on Chip (SOC)](../../Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SOC)](../Systems%20on%20Chip%20(SOC).md)
 
 
 

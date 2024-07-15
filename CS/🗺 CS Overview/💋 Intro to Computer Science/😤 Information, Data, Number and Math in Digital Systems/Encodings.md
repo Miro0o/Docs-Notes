@@ -6,9 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Codec & Media Formats & Standards](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 ↗ [Data Compression Technologies](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
-↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
+↗ [Codec & Media Formats & Standards](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
+
+↗ [Modern Cryptography](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md)
+
+↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 
 
 ### Other Resources
@@ -121,7 +124,9 @@ A **"code point**" is an integer reference to a particular character.
 > .... To maintain compatibility with earlier computers and peripheral equipment, the IBM engineers decided that it would be best to simply expand BCD from 6 bits to 8 bits. Accordingly, this new code was called Extended Binary Coded Decimal Interchange Code (EBCDIC). IBM continues to use EBCDIC in IBM mainframe and midrange computer systems; however, IBM’s AIX operating system (found on the RS/6000 and its successors) and operating systems for the IBM PC use ASCII.
 
 
-### [ASCII](https://www.ascii-code.com)
+### ASCII
+🏠 https://www.ascii-code.com
+
 **ASCII**, stands for American Standard Code for Information Interchange. It's a **7-bit character code** where every single bit represents a unique character. 
 
 Besides ASCII code, there are various extended ASCII which use 8-bit cahracter encoding. 
@@ -276,12 +281,10 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 > - **Overflow** occurs when there is no room to store the high-order bits resulting from a calculation.
 > - **Underflow** occurs when a value is too small to store, possibly resulting in division by zero (P).
 
-
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155331.png)
 #### Precision Number Intro
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.14.29%20PM.png)
 #### 👉 Float Data Type (Single-precision Floating-point Format)
-
 > 🔗 https://polarisxu.studygolang.com/posts/basic/diagram-float-point/
 
 
@@ -295,7 +298,6 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230522155652.png)
 #### 👉 Double Data Type (Double-precision Floating-point Format)
-
 ![](../../../../Assets/Pics/Pasted%20image%2020230522153752.png)
 
 

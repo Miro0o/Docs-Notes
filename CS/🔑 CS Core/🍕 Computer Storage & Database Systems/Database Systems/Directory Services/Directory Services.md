@@ -9,7 +9,7 @@
 ↗ [LDAP (Lightweight Directory Access Protocol)](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/LDAP%20(Lightweight%20Directory%20Access%20Protocol)/LDAP%20(Lightweight%20Directory%20Access%20Protocol).md)
 ↗ [X.500](../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/X.500/X.500.md)
 
-↗ [Name Services](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/UNIX%20Family/💂‍♂️%20UNIX%20System%20Services/Name%20Services.md)
+↗ [Name Services](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/💂‍♂️%20UNIX%20System%20Services/Name%20Services.md)
 
 
 

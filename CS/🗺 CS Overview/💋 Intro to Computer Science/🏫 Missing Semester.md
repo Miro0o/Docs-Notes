@@ -15,8 +15,8 @@ And 🎬 video course on [MIT公开课 - 6.NULL 你计算机科学教育中遗�
 Remember to go through 🚵‍♂️ every excersie&resource on that day's course list.
 
 
-↗ [Linux Free Software & OSS (Open Source Software)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
-↗ [📌 Awesome Open Source CLI Software](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
+↗ [Linux Free Software & OSS (Open Source Software)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
+↗ [📌 Awesome Open Source CLI Software](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 
 [TOC]
@@ -96,7 +96,7 @@ diff <(ls foo) <(ls bar)
 **[TLDR pages](https://tldr.sh/)** 
 
 🔗 also check out  [fancy CLIs -- tldr](Awesome/🎩 FancyCLI.md) 
-[📌 Awesome Open Source CLI Software](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
+[📌 Awesome Open Source CLI Software](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 [🤯 Awesome List](../🤯%20Awesome%20List.md)
 #### Finding files
 **`find`**

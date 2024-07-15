@@ -6,12 +6,14 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-↗ [Physics For CS](../../⚡️%20Digital%20(Logic)%20Electronics%20Foundations/🍏%20Physics%20for%20CS/Physics%20For%20CS.md)
+↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Classical Electromagnetism](../../../Hardware%20&%20EE%20Related/🍏%20Other%20Related%20Theories/Classical%20Electromagnetism.md)
 ↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
 ↗ [Firmware and Booting](../../Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 ↗ [Bootstrap (Boot)](../../Firmware%20and%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
+
+↗ [Devices Teardown](../../../Hardware%20&%20EE%20Related/Devices%20Teardown.md)
 
 
 
@@ -105,7 +107,7 @@ More is at ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neuma
 
 
 #### 5️⃣ SoC单片结构
-↗ [Systems on Chip (SOC)](../Systems%20on%20Chip%20(SOC).md)
+↗ [Systems on Chip (SOC)](Systems%20on%20Chip%20(SOC).md)
 
 ![|300](../../../../../Assets/Pics/Pasted%20image%2020240414144958.png)
 

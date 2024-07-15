@@ -14,7 +14,7 @@
 
 
 ### Related Topics
-↗ [OpenHarmony](../../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/OpenHarmony/OpenHarmony.md)
+↗ [OpenHarmony](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/OpenHarmony/OpenHarmony.md)
 ↗ [TypeScript](../TypeScript/TypeScript.md)
 
 

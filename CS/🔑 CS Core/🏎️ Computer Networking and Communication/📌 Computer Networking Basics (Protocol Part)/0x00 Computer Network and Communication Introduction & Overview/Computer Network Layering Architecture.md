@@ -77,5 +77,5 @@
 
 
 ## Ref
-👍 [OSI Model]: https://en.wikipedia.org/wiki/OSI_model
+[👍 OSI Model]: https://en.wikipedia.org/wiki/OSI_model
 ![](../../../../../Assets/Pics/Screenshot%202023-03-27%20at%2010.17.56%20AM.png)

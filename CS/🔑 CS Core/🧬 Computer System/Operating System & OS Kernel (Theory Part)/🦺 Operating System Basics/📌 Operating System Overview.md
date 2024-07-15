@@ -60,20 +60,20 @@ The operating system achieves both goals via the fundamental abstractions shown 
 #### 4️⃣ Virtual Machine
 The idea of a virtual machine was introduced by IBM in the 1960s, but it has become more prominent recently as a way to manage computers that must be able to run programs designed for multiple operating systems (such as Microsoft Windows, Mac OS X, and Linux) or different versions of the same operating system.
 
-↗ [Virtualization Theory](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Virtualization Theory](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
 
 
 
 ## Morden Operating Systems
-> ↗ [Operating Systems (Engineering Part)](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Operating%20Systems%20(Engineering%20Part).md)
+> ↗ [Operating Systems & Kernels (Engineering Part)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 
 
 ### 👉 Windows
-More of Windows can be found at ↗ [Windows NT (New Technology) Kernel](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20NT%20(New%20Technology)%20Kernel.md).
+More of Windows can be found at ↗ [Windows NT (New Technology) Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/📌%20Windows%20NT%20(New%20Technology)%20Kernel/Windows%20NT%20(New%20Technology)%20Kernel.md).
 
 
 ### 👉 UNIX
-> More of UNIX can be found at ↗ [UNIX Kernel](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20Kernel.md)
+> More of UNIX can be found at ↗ [UNIX Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20Kernel.md)
 
 ![](../../../../../Assets/Pics/Screenshot%202023-03-02%20at%2010.06.15%20PM.png)
 
@@ -81,16 +81,16 @@ More of Windows can be found at ↗ [Windows NT (New Technology) Kernel](../../.
 ### 👉 Linux
 More of Linux can be found at :
 
-↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
-↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
+↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+↗ [Linux (Derived From UNIX Family)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 
 
 ### 👉 MacOS
-macOS is noted here ↗ [macOS Kernel (xnu) & Darwin](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20Kernel%20(xnu)%20&%20Darwin.md).
+macOS is noted here ↗ [macOS Kernel (xnu) & Darwin](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20Kernel%20(xnu)%20&%20Darwin.md).
 
 
 ### 👉 Android
-Android is noted here ↗ [Android Kernel](../../../🥷🏼%20Operating%20Systems%20(Engineering%20Part)/Android%20&%20AOSP/Android%20Kernel/Android%20Kernel.md).
+Android is noted here ↗ [Android Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Android%20&%20AOSP/Android%20Kernel/Android%20Kernel.md).
 
 
 

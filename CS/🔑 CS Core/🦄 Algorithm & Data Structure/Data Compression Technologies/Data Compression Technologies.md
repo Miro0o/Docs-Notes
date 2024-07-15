@@ -11,7 +11,9 @@
 ↗ [Encodings](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 ↗ [Message Digest & Hash Function](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
 
-↗ [Codec & Media Formats & Standards](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
+↗ [Codec & Media Formats & Standards](Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
+- ↗ [JPEG (Joint Photographic Experts Group)](Codec%20&%20Media%20Formats%20&%20Standards/Graphics%20Formats%20&%20Standards/JPEG%20(Joint%20Photographic%20Experts%20Group).md)
+- ↗ [MJPEG (Motion-JPEG)](Codec%20&%20Media%20Formats%20&%20Standards/Streaming%20Formats%20&%20Standards/MJPEG%20(Motion-JPEG).md)
 
 
 

@@ -77,9 +77,16 @@ Its intended audience is everyone from performance engineers and practical algor
 https://www.cnblogs.com/jvStarBlog/category/1585578.html
 计算机组成原理 - 随笔
 
+https://github.com/arm-university
+Arm Education
+Educational materials created & produced by Arm Education for use by schools, universities and early career engineers
+📖 https://github.com/arm-university/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers?tab=readme-ov-file
+Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers
+📖 https://www.arm.com/resources/ebook/modern-soc
+Modern System-on-Chip Design on Arm
+
 
 ### Other Resources
-
 
 
 

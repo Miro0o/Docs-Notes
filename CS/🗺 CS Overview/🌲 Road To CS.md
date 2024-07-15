@@ -341,6 +341,13 @@ https://www.youtube.com/@3blue1brown
 李永乐
 https://www.youtube.com/@TchLiyongle
 ↗ [🧠 This is Science](../🏠%20Assets/This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+
+---
+Branch Education
+🏠 https://branch.education
+🎬 http://www.youtube.com/@BranchEducation
+Lots of fun & illustrative videos the reveal the inner mechanism of computer & related 
+
 #### CS-Related Tutorials /Websites /Books 📝
 ---
 [guru99](https://www.guru99.com)

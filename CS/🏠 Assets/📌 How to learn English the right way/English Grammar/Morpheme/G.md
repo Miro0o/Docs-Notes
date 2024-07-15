@@ -3921,10 +3921,299 @@
 
 ### + \*gweie- + =to live
 1. **-zoa, -zoan** = animal, 表示“动物”。源自希腊语 zôion "animal" 的复数 zoia.
+	1. anthozoan
+		1. antho-花 + -zoan, 动物
+	2. hydrozoan
+		1. a. 水螅虫的  
+		2. n. 水螅虫
+		3. hydro-水 + -zoan, 动物
+	3. metazoan
+		1. meta-后 + -zoan, 动物
+	4. mycetozoan
+		1. myceto-菌 + -zoan, 动物
+	5. protozoan
+		1. proto-原始 + -zoan, 动物
+	6. spermatozoan
+		1. spermato-精子 + -zoan, 动物
 2. **azo-** = 表示“氮”，coined in French by Lavoisier & de Morveau because living things cannot survive in the gas.源自希腊语 zoon, zoion "living being, animal."
-	1. azote, azotic
+	1. azote
+		1. n. 氮
+		2. azotic
+	3. diazo
+		1. a. 重氮的
+	4. azene
+		1. n. 氮烯
+	5. azine
+		1. 【化】 吖嗪
+	6. borazon
+		1. n. 博拉任(一种硼和氮的化合物)
 3. **bio-, bi-** = life, 表示“生命，生物”。源自希腊语 bios "life."
-4. **viv-, vit-** = life, to live, alive ; 「Latin」 viva, vivus
+	1. bioactive
+	2. bioassay
+	3. biocatalyst
+	4. biochemical
+		1. biochemist
+		2. biochemistry
+	5. biocide
+	6. bioclean
+	7. bioclimatic
+		1. bioclimatology
+	8. biocybernetics
+	9. biodegradable
+	10. biodynamics
+	11. bioecology
+	12. bioelectricity
+	13. biogenesis
+		1. biogenic
+	14. abiogenetic
+		1. abiogenist
+		2. abiogenous
+	15. biography
+		1. autobiography
+		2. autobiographer
+	17. biology
+		1. biologic
+		2. abiological
+	18. bioluminescence
+		1. bioluminescent
+	19. biolysis
+	20. biomedical
+		1. biomedicine
+	21. biometeorology
+		1. biometrician
+		2. biometrics
+	22. biomorphic
+	23. bionomics
+		1. n. 生态学
+		2. bio-生物 + nom-规则 + -ics
+	24. bionomy
+		1. n. 生理学, 生态学
+		2. bio-生物 + nomy学科。生理学是生物学的一个主要分支，是研究生物机体的各种生命现象，特别是机体各组成部分的功能及实现其功能的内在机制的一门学科。
+	25. biophysics
+		1. biophysicist
+	26. bioplasm
+		1. n. 原生质
+		2. bio-生物 + -plasm...质
+	27. bioplast
+		1. n. 原生质体
+		2. bio-生物 + plast
+	28. biopsy
+		1. n. 活组织检查
+		2. bio-,生命，-ops,看，见 optic,光学的。
+		3. _n._ [diagnostic test](dic://diagnostic test), [diagnostic assay](dic://diagnostic assay)
+		4. **lesion**损害;**tumor**肿瘤;**cyst**胞,包囊,膀胱;**resection**切除术;**tumour**肿瘤;**diagnosis**诊断;**MRI**核磁共振成像;**gallbladder**胆囊;**ultrasound**超音，超声波;**tumors**肿瘤;**nodules**小瘤;
+		5. after biopsy, evidence of malignancy was found. /经过活体检查，找到了癌变证据。
+		6. Skin biopsy revealed that papule contained cornoid lamellae on the top of the raised border. /皮肤活检显示丘疹的边缘隆起处有角化不全鸡眼样板。
+		7. Now we're going to take a muscle biopsy. /现在要做一个肌肉活检。
+		8. The only way to know for sure is to do a biopsy. /唯一能够确诊的方式是做一个活组织检查。
+	29. biosatellite
+	30. bioscope
+	31. biosphere
+	32. biostatistics
+	33. biosynthesis
+		1. biosynthetic
+	34. biotechnology
+	35. biota
+		1. n. 生物区（系）；一时代（一地区）的动植物
+		2. [biology](dic://biology)
+		3. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+		4. **fauna**动物群;**biodiversity**生物多样性;**sediments**沉淀物;**habitats**栖息地;**flora**植物群;**species**物种;**ecology**生态学;**microbial**微生物的;**ecosystem**生态系统;**vegetation**植物;**habitat**栖息地，产地;
+		5. _[marine biota](dic://marine%20biota)_  海洋生物区; 海洋生物; 
+		6. _[aquatic biota](dic://aquatic%20biota)_  水生生物区系; 水生生物群; 
+		7. _[soil biota](dic://soil%20biota)_  土壤生物
+		8. _[terrestrial biota](dic://terrestrial%20biota)_  陆地生物
+		9. This means that cane toads are numerous enough to suck up all the insects from the biota. /这意味着甘蔗蟾蜍的数量足以吸食生物群中的所有昆虫。
+		10. That they suck up all the insects from the biota. Cane toads are so numerous that they suck up all the insects from the biota. /他们吸食了生物群中的所有昆虫。甘蔗蟾蜍数量众多，以至于它们吸食了生物群中的所有昆虫。
+	36. biotic
+		1. a. 生命的, 生物的
+		2. bio-,生物，-otic,形容词后缀。
+		3. zoobiotic
+		4. thermobiotic
+		5. symbiotib
+		6. prebiotic
+		7. photobiotic
+		8. parabiotic
+		9. necrobiotic
+		10. microbiotic
+		11. macrobiotic
+		12. lithobiotic
+		13. endobiotic
+		14. dimorphobiotic
+		15. cryptobiotic
+		16. chemobiotic
+		17. catabiotic
+		18. autobiotic
+		19. apobiotic
+		20. antibiotic
+			1. antibioticogram
+		21. anabiotic
+		22. aerobiotic
+		23. abiotic
+	37. antibiotics
+	38. macrobiotics
+	39. biotin
+		2. n. 生物素
+		3. etc..
+	40. symbiont
+	41. abiosis
+		1. n. 无生命
+		2. a-无 + bi-生命 + -osis
+		3. aerobiosis
+		4. anabiosis
+		5. antibiosis
+		6. necrobiosis
+		7. parabiosis
+		8. symbiosis
+		9. dysbiosis
+	43. amphibia
+		1. n. 两栖类
+		2. amphibian
+			1. a. 两栖类的, 水陆两用的  
+			2. n. 两栖动物, 水旱两生植物, 水陆两用飞机
+			3. amphi-=ambi-两，二 + -bi-=bio-生命 + -ian。
+			4. _n._ [motor vehicle](dic://motor vehicle), [automotive vehicle](dic://automotive vehicle), [airplane](dic://airplane), [aeroplane](dic://aeroplane), [plane](dic://plane), [vertebrate](dic://vertebrate), [craniate](dic://craniate)
+			5. _adj._ [amphibia](dic://amphibia), [class Amphibia](dic://class Amphibia)
+			6. **reptile**爬虫类的;**vertebrate**脊椎动物;**frog**青蛙;**mammal**哺乳动物;**toad**蟾蜍;**amphibious**具有双重性的;**reptiles**爬行类;**aquatic**水生的;**frogs**青蛙;**avian**鸟类的;**mammalian**哺乳动物;
+			7. _[firefighting amphibian](dic://firefighting%20amphibian)_  消防水陆飞机
+			8. _[amphibian robot](dic://amphibian%20robot)_  水陆两用机扑
+			9. _[amphibian plane](dic://amphibian%20plane)_  水陆飞机
+			10. _[amphibian jeep](dic://amphibian%20jeep)_  水陆两用吉普车
+			11. _[amphibian car](dic://amphibian%20car)_  水陆两用汽车
+			12. _[fire fighting amphibian](dic://fire%20fighting%20amphibian)_  水陆两栖消防车
+		3. amphibious
+	44. biomass
+		1. _n._ [fuel](dic://fuel), [mass](dic://mass)
+		2. **biofuel**生物燃料;**biofuels**生物燃料;**renewable**可继续的,可续订的;**vegetation**植物;**algae**藻类;**cellulose**纤维素;**photosynthesis**光合作用;**ethanol**乙醇，酒精;**fluxes**流动;**methane**甲烷;**peat**泥煤;
+		3. _biomass energy_ 生物团能量
+		4. _dry biomass_ 干重
+		5. Suggestions on the bionergy research, such as increasing biomass resources, improving biomass processing techniques and energy transfer efficiency, are recommended. /建议以扩大资源总量、提升能源转换的加工技术水平和能源利用效率等为重点。
+		6. It set alight the entire biomass of earth and cooked the atmosphere. /它点燃了地球上全部的生物量，烘烤着大气层。
+		7. The rain of fire begins to ignite what remains of earth's biomass. /雨点似的火焰开始点燃地球上剩下的生物质。
+		8. Antarctic krill, a type of small crustacean, have a total biomass comparable to that of humans /南极虾是一种小型甲壳动物，其总生物量与人类相当。
+	45. bion
+		1. symbionic
+		2. symbion
+		3. parabion
+		4. neurobion
+		5. micreobion
+		6. cosmobion
+		8. bionic
+			1. adj. 仿生学的；利用仿生学的
+			2. _adj._ [bionics](dic://bionics), [artificial](dic://artificial), [unreal](dic://unreal)
+			3. _n._ [natural](dic://natural)
+			4. **prosthetic**假体的;**robotic**自动的;**robot**机器人;**humanoid**像人的;**superhuman**超人的;**implants**移植物;**robots**机器人;**android**机器人;**futuristic**未来的;**prosthesis**弥补;**mutant**突变体;
+			5. _[molecular bionics](dic://molecular%20bionics)_  分子仿生学
+			6. _[bionic ear](dic://bionic%20ear)_  [生物物理] 仿生耳; 电子耳; 
+			7. _[electronic bionics](dic://electronic%20bionics)_  电子仿生学
+			8. Inside, you've got an A12X bionic processor. /里面搭载了A12仿生处理器。
+			9. Bionic hearing doesn't age, although external parts sometimes need replacement. /仿生听觉不会随年龄增加而退化，尽管某些外部配件有时需要更换。
+			10. There are advantages to having bionic body parts as well. /人体仿生装置也有它们的优点。
+			11. Bionic hands can help users pick up and hold onto things. /仿生手可以帮助用户拿起和握住东西。
+		9. bionics
+			1. _n._ [engineering](dic://engineering), [engineering science](dic://engineering science), [applied science](dic://applied science), [technology](dic://technology)
+			2. **prosthetic**假体的;**robotics**机器人学;**nanotechnology**纳米技术;**robots**机器人;**robotic**自动的;**robot**机器人;**implants**移植物;**prosthesis**弥补;**humanoid**像人的;**biomedical**生物医学的;**futuristic**未来的;
+			3. Bridging Bionics literally bridges mobility with bionic technology. /桥式仿生学实际上是仿生技术建造的桥梁。
+		10. aerobion
+			1. microaerobion
+			2. anaerobion
+	46. biome
+		1. bio-,生物，-ome,块，群。
+		2. n. 生物群系；生物群落区
+		3. n. [生态] 生物群系；[生态] 生物群落区
+		4. _n._ [community](dic://community), [biotic community](dic://biotic community)
+		5. **grassland**草原，牧场;**vegetation**植物;**rainforest**雨林;**habitat**栖息地，产地;**ecosystem**生态系统;**subtropical**亚热带的;**habitats**栖息地;**flora**植物群;**forest**植树于，使成为森林;**biodiversity**生物多样性;**wetland**湿地;
+		6. _[northern coniferous forest biome](dic://northern%20coniferous%20forest%20biome)_ 北方针叶林生物群系
+		7. _[temperate deciduous forest biome](dic://temperate%20deciduous%20forest%20biome)_ 温带落叶林群系
+		8. _[The world's terrestrial biomes](dic://The%20world%27s%20terrestrial%20biomes)_ 世界陆地森林植被
+		9. _[Tundra biomes](dic://Tundra%20biomes)_ 苔原区
+		10. _[aquatic biome](dic://aquatic%20biome)_ 水域生物社会
+		11. _[marine biomes](dic://marine%20biomes)_ 海洋生物群落
+		12. _[forest biome](dic://forest%20biome)_ 森林生物社会
+	47. biomechanics
+		1. n. 生物力学
+		2. bio-生物 + mechanics【n. 力学】
+	48. cenobite
+	49. cenobitism
+	50. coenobite
+	51. macrobian
+	52. aerobe
+		1. n. 需氧菌
+		2. aero-空气 + b-=bio-生物 + -e
+		3. _n._ [organism](dic://organism), [being](dic://being)
+		4. **aerobic**需氧的;**bacterium**细菌;**anaerobic**厌氧菌的;**bacteria**细菌;**organism**有机体;**bacterial**细菌的;**microbial**微生物的;**biofilm**生物膜;**spores**孢子;**respiration**呼吸;**microbes**细菌，微生物;
+		5. _[aerobes](dic://aerobes)_  n. [微] 需氧菌；[生物] 需气生物；[微] 需氧生物；需气菌（aerobe的复数）
+		6. _[obligate aerobe](dic://obligate%20aerobe)_  [微] 专性需氧微生物
+		7. _[facultative aerobe](dic://facultative%20aerobe)_  [微] 兼性需氧菌；[微] 兼性需氧微生物
+		8. _[strict aerobe](dic://strict%20aerobe)_  严格需氧菌
+		9. Mycobacteria are an interesting bunch, they are slender, rod shaped, and need oxygen to survive, in other words, they're strict aerobes. /结核分枝杆菌是一组很有趣的病原菌，为细长的杆状菌，需要氧气来繁殖，换言之，它们是严格意义上的需氧菌。
+		10. It's thought that this is because oxygenation is greatest in these areas and TB being an aerobe prefers areas of greater oxygenation, right ? /普遍认为的原因为这部分区域氧气很丰富，TB作为需氧菌，更喜欢氧气较多的地方，对吧。
+	53. anaerobe
+		1. n. 厌氧菌
+		2. n. [生物][微] 厌氧性生物，[微] 厌氧菌
+		3. an-无 + aero-空气 + b-=bio- + -e
+		4. _n._ [organism](dic://organism), [being](dic://being)
+		5. **anaerobic**厌氧菌的;**bacterium**细菌;**bacteria**细菌;**biofilm**生物膜;**bacterial**细菌的;**microbial**微生物的;**organism**有机体;**microbes**细菌，微生物;**aerobic**需氧的;**aureus**奥里斯;**oxidase**氧化酶;
+		6. _[facultative anaerobes](dic://facultative%20anaerobes)_  兼性厌氧菌
+		7. _[obligate anaerobe](dic://obligate%20anaerobe)_  专性厌氧微生物；专性嫌气生物
+		8. _[facultative anaerobe](dic://facultative%20anaerobe)_  嫌气性细菌；[微] 兼性厌氧菌；[微] 兼性厌氧生物
+		9. _[themoacidophilic anaerobe](dic://themoacidophilic%20anaerobe)_  嗜热酸厌氧菌
+		10. _[obligate anaerobes](dic://obligate%20anaerobes)_  专性厌氧菌
+		11. _[strict anaerobe](dic://strict%20anaerobe)_  严格厌氧菌
+		12. Clostridia, as a family, are obligate anaerobes, meaning that oxygen is toxic to them. /梭状芽胞杆菌科为专性厌氧，即氧气对其有毒害作用。
+		13. It's a facultative anaerobe so that means it can undergo respiratory and fermentative metabolism /它是兼性厌氧菌，这意味着它可以经历呼吸和发酵代谢。
+		14. Alright, as a quick recap, Clostridium perfringens is a gram-positive, spore-forming, obligate anaerobe that resides in the soil. /得！我们快速复习一下：产气荚膜梭菌是革兰氏阳性、有芽孢的厌氧菌，通常居于土壤中。
+	54. microbe
+		1. [bug](dic://bug), [germ](dic://germ)
+		2. _n._ [microorganism](dic://microorganism), [micro-organism](dic://micro-organism)
+		3. **bacterium**细菌;**bacteria**细菌;**microbial**微生物的;**bacterial**细菌的;**organism**有机体;**pathogen**病原体;**pathogens**病原体;**parasite**寄生虫;**biofilm**生物膜;**fungus**真菌，霉菌;**algae**藻类;
+		4. _[microbe insecticide](dic://microbe%20insecticide)_  微生物杀虫剂
+		5. _[microbe growth](dic://microbe%20growth)_  微生物的生长
+		6. _[antagonistic microbe](dic://antagonistic%20microbe)_  拮抗微生物
+		7. _[living microbe](dic://living%20microbe)_  活的微生物
+		8. _[soil microbes](dic://soil%20microbes)_  土壤微生物
+		9. _[soil microbe](dic://soil%20microbe)_  土壤微生物
+		10. The probe is sensitive enough to detect the presence of a single microbe /这个探针的灵敏度很高，足以测出任何微生物的存在。
+		11. The quality of sensory and preservation and remanet microbe of fresh and cooked beef treated by different ultra high pressure was investigated /研究了不同超高压处理对鲜、热牛肉的感观特性、保藏性和残存微生物的彩响。
+		12. It also generates reactive chemicals that attack the microbes from within. /它还能产生活性化学物质，这种化学物质能从内部攻击微生物。
+		13. To find out how macking mixes microbes, Dutch scientists asked 21 couples to French kiss. /为了搞清楚接吻如何将细菌混合，荷兰科学家们要求21对情侣进行法式接吻。
+		14. We also don't know just how long even the most dedicated microbes could survive. /我们也不知道生命力最顽强的微生物能存活多久。
+		15. microbial
+		16. microbiological
+	55. saprobe
+	56. bioaccumulation
+	57. bioactivation
+	58. bioaerosol
+	59. bioaminergic
+	60. bioamplification
+	61. biocompatibility
+	62. bioconcentration
+	63. biodefense
+	64. biodiversity
+	65. bioencapsulation
+	66. bioengineer
+	67. bioenrichment
+	68. bioequivalence
+	69. bioethical
+	70. bioethicist
+	71. bioethics
+	72. biofilm
+	73. bioinformatics
+	74. bioinformatics
+	75. biomagnification
+	76. biomarker
+	77. biomethylation
+	78. biomimetic
+	79. biomonitoring
+	80. biopharmaceutical
+	81. biopharmaceutics
+	82. biopharmacy
+	83. biopsychosocial
+	84. bioterrorism
+	85. biowarfare
+	86. gnotobiote
+	87. tetrahydrobiopterin
+	88. xenobiotic
+5. **viv-, vit-** = life, to live, alive ; 「Latin」 viva, vivus
 	1. vivace
 		1. _[allegro vivace](dic://allegro%20vivace)_  活泼的快板
 		2. _[Scherzo Allegretto vivace](dic://Scherzo%20Allegretto%20vivace)_ 谐谑曲
@@ -4034,7 +4323,7 @@
 	17. vive
 	18. vivipary
 	19. vivomycin
-5. **zoo-, -zoa, -zoan** = animals
+6. **zoo-, -zoa, -zoan** = animals
 	1. anthozoan, hydrozoan, metazoan, protozoan, spermatozoan
 	2. entozoon, 
 	3. epizootic
@@ -4052,8 +4341,9 @@
 	13. saprozoic
 	14. ==Proterozoic, Archeozoic, Paleozoic, Eozoic, Mesozoic, Neozoic, ==
 		1. cenozoic, azoic
-6. quick
-7. whiskey, usquebaugh
+7. quick
+8. whiskey
+9. usquebaugh
 
 
 ### + \*gwel +
