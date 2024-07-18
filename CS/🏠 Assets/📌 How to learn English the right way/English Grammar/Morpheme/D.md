@@ -600,8 +600,7 @@
 
 ### + \*deme- +
 1. **adam-** 表示不屈服，强硬的。来自a-（否定）+ dam-（驯服），字面含义不能驯服的。
-	1. adamancy
-	2. adamant
+	1. adamant
 		1. a-不 + dam-驯服 + -ant → 不可征服的。
 		2. diamond（钻石）：坚不可摧的物质  
 		3. 英语单词diamond（钻石）和adamant（坚硬无比的）其实是同源单词，都源自希腊语adamas，由a（not）+daman（to conquer, to tame）组合而成，字面意思就是“不可征服的、坚不可摧的”。希腊人用adamas来表示钻石这一类坚硬无比的物质，由此衍生出diamond和adamant这两个英语单词。其中diamond的演变路径比较复杂，为：希腊语adamas→古拉丁语adamantem→通俗拉丁语adiamantem→中世纪拉丁语diamantem→古法语diamant→英语diamond。而单词adamant的演变路径相对简单，为：希腊语adamas→古拉丁语adamantem→英语adamant。  
@@ -613,11 +612,29 @@
 		7. _adj._ [inflexible](dic://inflexible)
 		8. _n._ [flexible](dic://flexible)
 		9. **insistent**坚持的;**convinced**确信的;**insistence**坚持;**insist**坚持，强调;**worried**担心的;**concerned**担心的, 烦恼的, 忧虑的;**vehemently**热烈地;**sceptical**怀疑的;**hesitant**踌躇的;**apparently**表面上;**stubbornly**倔强地;
-	4. diamond
+		10. he is adamant that he is not going to resign. /他很固执不打算辞职。
+		11. She became as rigid as adamant . /她变得如顽石般的固执。
+		12. an adamant critic who couldn't be budged. /一个不会屈从的、态度坚决的批评家
+		13. Veronica was quite adamant that they should stay on. /维罗妮卡坚信他们必须继续留下去。
+		14. He is adamant in his refusal to change his mind. /他毫不留情地拒绝改变主意。
+		15. adamancy
+	2. diamond
+		1. n. 钻石, 菱形
+		2. [adamant](dic://adamant)
+		3.  [baseball diamond](dic://baseball diamond), [infield](dic://infield)
+		4. _n._ [jewel](dic://jewel), [gem](dic://gem), [precious stone](dic://precious stone), [carbon](dic://carbon), [C](dic://C), [atomic number 6](dic://atomic number 6), [transparent gem](dic://transparent gem)
+		5. **gemstone**宝石;**sapphire**蓝宝石;**carat**克拉;**opal**猫眼石，蛋白石;**emerald**绿宝石，翡翠;**pearl**珍珠;**platinum**白金;**ring**按铃;**gold**金，黄金;**ruby**红宝石;**jewel**宝石;
+		6. _diamond ring_ 钻石戒指，钻戒
+		7. _synthetic diamond_ 人造金刚石；人造钻石
+		8. _diamond tool_ [机]金钢石刀具
+		9. _diamond saw_ 金刚石锯；钻石圆锯
+		10. _polycrystalline diamond_ 多晶金刚石
+		11. diamonds
+		12. diamondback
 2. **dom-** = to tame, 表示“驯服”。源自拉丁语 domare "to tame, subdue."
 	1. dem-, 
 	2. indomitable
-3. daunt
+3. daunt (taunt, gaunt, haunt)
 	1. [dash](dic://dash), [scare off](dic://scare off), [pall](dic://pall), [frighten off](dic://frighten off), [scare away](dic://scare away), [frighten away](dic://frighten away), [scare](dic://scare)
 	2. _v._ [intimidate](dic://intimidate), [restrain](dic://restrain)
 	3. **frighten**使惊吓;**overwhelm**覆盖, 淹没;**frustrate**使不成功, 挫败, 阻止;**tempt**诱惑;**deter**制止，阻止;**dare**的风险;**excite**刺激…，使…兴奋;**disappoint**使失望;**scarcely**简直没有;**formidable**可怕的;**dared**敢于;
@@ -644,7 +661,7 @@
 	1. autodidact
 		1. 1 - auto-,自己的，-didact,教育，词源同 didactic.
 	2. didact
-		1. - n. 说教者
+		1. n. 说教者
 	3. didactic
 		1. didactics
 		2. didacticism
@@ -671,19 +688,16 @@
 		13. The loss put a dent in the team's confidence. /这失败给全队的信心投下了阴影
 		14. a fender that dents easily. /一面很容易有凹痕的挡泥板
 		15. he hit a concrete bollard, denting the wing. and spoiler./他撞上了水泥系缆柱，使机翼和扰流板凹陷了。
-	2. dental
-		1. interdental
-		2. labiodental
-		3. medico-dental
-	3. dentary
-		1. _[dentary](dic://dentary)_  adj. 牙齿的；有齿的; n. [脊椎] 齿骨;
-	4. dentate
+	2. dentate
 		1. _adj._ 有齿的,齿状的,锯齿状的
 		2. dentate leaves /锯齿状的叶子
-	5. dentation
-	6. denticulate
-	7. dentiform
-	8. dentifrice
+		3. dentation
+			1. n. 齿状, 齿状突起
+		4. denticulate
+			1. a. 有细齿的, 锯齿状的
+		5. dentiform
+			1. a. 齿形的, 齿状的
+	3. dentifrice
 		1. denti-牙齿 + -frice, 摩
 		2. dandelion（蒲公英）：叶子像狮子牙齿的植物  
 		3. 英语单词dandelion（蒲公英）来自法语dent de lion，意为“teeth of lion”（狮子的牙齿），译自拉丁语dens leonis（狮子的牙齿）。这是因为蒲公英的叶子很像狮子的利齿。英语词根dent-（齿）也来源于拉丁语dens（齿）。  
@@ -698,7 +712,13 @@
 		12. _[dentifrice toothpaste](dic://dentifrice%20toothpaste)_ 牙膏
 		13. _[desensitizing dentifrice](dic://desensitizing%20dentifrice)_ 脱敏牙膏
 		14. _[triclosan dentifrice](dic://triclosan%20dentifrice)_ 牙膏
-	9. dentistry
+	4. dental
+		1. interdental
+		2. labiodental
+		3. medico-dental
+	5. dentary
+		1. _[dentary](dic://dentary)_  adj. 牙齿的；有齿的; n. [脊椎] 齿骨;
+	6. dentistry
 		1. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
 		2. **dental**牙齿的，牙的;**dentist**牙科医生;**dentists**牙医;**medicine**药;**chiropractic**脊椎推拿疗法;**dentures**假牙;**periodontal**牙齿周围的,齿根膜的;**whitening**变白,白粉;**pediatrics**小儿科;**sedation**镇静;**teeth**牙齿;
 		3. _[dentistry](dic://dentistry)_  n. 牙科学；牙医业
@@ -707,23 +727,37 @@
 		6. _[pediatric dentistry](dic://pediatric%20dentistry)_  儿童口腔医学; 儿童牙科; 
 		7. _[forensic dentistry](dic://forensic%20dentistry)_  法医牙科学
 		8. _[general dentistry](dic://general%20dentistry)_  口腔综合科; 普通牙科;
-	10. dentil
-	11. dentine
-	12. dentist
-	13. dentition
+	7. dentil
+	8. dentine
+	9. dentist
+	10. dentition
 		1.  [teething](dic://teething), [odontiasis](dic://odontiasis)
 		2. _n._ [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis), [set](dic://set)
 		3. **teeth**牙齿;**dentures**假牙;**tooth**牙齿;**dental**牙齿的，牙的;**molar**臼齿的;**deciduous**每年落叶的;**jaws**狭口;**jaw**颌;**gums**牙龈，树胶;**bony**骨的;**periodontal**牙齿周围的,齿根膜的;
 		4. _[primary dentition](dic://primary%20dentition)_  [口腔] 乳牙列
 		5. _[permanent dentition](dic://permanent%20dentition)_  [口腔] 恒牙列; 恒牙期; [脊椎] 恒齿系;
 		6. homodont dentition Teeth in jaw have the same shape. /同齿形在颌的齿有相同的形状。
-	14. denture
+	11. denture
 		1. [dental plate](dic://dental plate), [plate](dic://plate)
 		2. [dental plate](dic://dental plate), [plate](dic://plate)
 		3. _n._ [dental appliance](dic://dental appliance)
 		4. **dental**牙齿的，牙的;**prosthesis**弥补;**whitening**变白,白粉;**dentist**牙科医生;**teeth**牙齿;**implant**灌输;**tooth**牙齿;**fillings**填料;**gums**牙龈，树胶;**implants**移植物;**dentists**牙医;
-	15. indent
-	16. edentate
+	12. indent
+		1. n. 契约, 订货单, 凹痕  
+		2. vi. 切割成锯齿状  
+		3. vt. 缩排, 定货, 印凹痕
+		4. in-进入，使 + dent-齿，咬合，用于指古代锯齿状凹痕的法定文件或有法律效力的文书，引申词义下订单，订合同。
+		5. indenture（契约）：以锯齿状边缘分割的契约  
+		6. 英语单词indenture由in+dent（齿）+ure（名词后缀）构成，表示契约。契约和齿有什么关系呢？原来，在中世纪，人们在签订契约时，往往会把两份内容相同的契约写在同一张羊皮纸上，然后在中间以锯齿状边缘分割开，双方各持一份。以后需要比对契约真伪，只需要查看两份契约的锯齿边缘能否对上即可。这种以锯齿状边缘分割的契约就被称为indenture。现在虽然不再这么做了，但这个词却保留了下来。  
+		7. indenture：[ɪn'dentʃə] n.契约，合同，双联契约vt.以契约约束  
+		8. indent：[ɪn'dɛnt] vt. 定货；缩排；印凹痕vi. 切割成锯齿状n. 缩进；订货单；凹痕；契约
+		9. indenture
+		10. indentor
+		11. indention
+		12. indenting
+		13. indented
+		14. indentation
+	13. edentate
 		1. n. [脊椎] 贫齿类动物  adj. 无齿的；贫齿目的，贫齿类的
 		1. [edental](dic://edental), [edentulate](dic://edentulate)
 		2. _n._ [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal)
@@ -737,10 +771,88 @@
 		1. bidentate
 			1. n. 两尖器；双齿工具
 2. **odont-** = tooth, 表示“牙齿”。源自希腊语 odon, odous "tooth."
+	1. teeth
+		1. tooth
+	2. endodontia
+	3. exodonita
+	4. exodontist
+	5. microdont
+	6. odontalgia
+	7. odontoid
+	8. odontology
+	9. orthodontist
+	10. periodontal
+	11. periodontics
+	12. pleurodont
+	13. prosthodontia
+	14. prosthodontics
+	15. orthodontia
+	16. dandelion
+	17. glyptodon
+	18. mastodon
+		1. [mastodont](dic://mastodont)
+		2. _n._ [proboscidean](dic://proboscidean), [proboscidian](dic://proboscidian)
+		3. **bison**北美野牛;**dinosaur**过时、落伍的人或事物;**mammoth**长毛象;**fossil**化石;**prehistoric**史前的;**elk**麋鹿;**skeleton**骨架，骨骼;**skull**头盖骨，脑壳;**fossils**化石;**moose**驼鹿;**bones**骨骼;
+		4. _n._ 乳齿象,庞然大物
+		5. Mastodons, close relatives of mammoths, were widespread all over North America during the ice age. /乳齿象是猛犸象的近亲，在冰河时代，他们的足迹遍布整个北美。
+		6. He says as unpalatable as those early squashes were, they made a tasty tidbit for mastodons. /他说，尽管早期的南瓜很难吃，但它们对乳齿象来说是美味佳肴。
+		7. Other sequences come from land animals, including caribou, hares, mastodons, geese, lemmings and ants /其他序列来自陆地动物，包括驯鹿、野兔、乳齿象、鹅、旅鼠和蚂蚁。
 3. tongs
-4. tooth
+	1. [pair of tongs](dic://pair of tongs)
+	2. _n._ [device](dic://device)
+	3. **spatula**压舌板;**spoon**匙，勺子;**pliers**钳子;**scissors**剪刀;**skewer**烤肉叉子;**hammer**敲打;**knives**刀子;**wok**锅,炒菜锅;**knife**刀;**gloves**手套;**grill**烤架;
+	4. _hammer and tongs_ 全力以赴地；竭尽全力地
+	5. She used tongs to put some more coal on the fire /她用火钳再夹一些煤放进炉子里。
+	6. worked hammer and tongs to meet the deadline. /全力以赴地工作以迎接期限的到来
+	7.  Odds, bobs, hammer and tongs, I hear you" /" 鱼钩和鱼饵，锤子和钳子，我能听见你的话。"
+	8. My favorite tool to barbecue with is a long pair of tongs, like such. /我最喜欢的烧烤工具是这样的长钳子。
 5. tough
-6. tusk
+	1. [street fighter](dic://street fighter)
+	2. [hood](dic://hood), [hoodlum](dic://hoodlum), [goon](dic://goon), [punk](dic://punk), [thug](dic://thug), [toughie](dic://toughie), [strong-armer](dic://strong-armer)
+	3. [bully](dic://bully), [hooligan](dic://hooligan), [ruffian](dic://ruffian), [roughneck](dic://roughneck), [rowdy](dic://rowdy), [yob](dic://yob), [yobo](dic://yobo), [yobbo](dic://yobbo)
+	4. [rugged](dic://rugged)
+	5.  [toughened](dic://toughened)
+	6. [sturdy](dic://sturdy)
+	7. [ruffianly](dic://ruffianly)
+	8.  [bad](dic://bad)
+	9. [hard](dic://hard)
+	10.  [baffling](dic://baffling), [knotty](dic://knotty), [problematic](dic://problematic), [problematical](dic://problematical)
+	11. _n._ [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper), [criminal](dic://criminal), [felon](dic://felon)
+	12. _adj._ [hard-bitten](dic://hard-bitten), [hard-boiled](dic://hard-boiled), [pugnacious](dic://pugnacious), [tough-minded](dic://tough-minded), [unsentimental](dic://unsentimental), [difficult](dic://difficult), [hard](dic://hard)
+	13. _n._ [tender](dic://tender), [easy](dic://easy), [untoughened](dic://untoughened), [delicate](dic://delicate), [nonviolent](dic://nonviolent), [comfortable](dic://comfortable), [comfy](dic://comfy)
+		1. [healthy](dic://healthy) 指身体无病，也可指身心健全、正常的。  
+		2. [sound](dic://sound) 侧重身体各部分或器官没有病，无任何缺陷，即健康。  
+		3. [robust](dic://robust) 强调身体强健。  
+		4. [well](dic://well) 仅指没有疾病，但不一定很健康。  
+		5. [strong](dic://strong) 既指体格健壮，又指体力或精神上的力量。  
+		6. [vigorous](dic://vigorous) 指人强健有力，精力充沛。  
+		7. [sturdy](dic://sturdy) 侧重于结实的体格。  
+		8. [tough](dic://tough) 着重指人的体格健壮。  
+		9. [wholesome](dic://wholesome) 多指能给人留下身体健康、思想健全或品德良好等印象。  
+		10. [fit](dic://fit) 既可指健壮又可指健全无病。
+	14. **difficult**困难的;**hard**困难的;**challenging**富有挑战性的;**tricky**机警的;**rough**粗糙的;**harder**更难的;**grueling**惩罚;**tenacious**抓紧的;**harsh**粗糙的;**daunting**使人畏缩的;**unforgiving**不可宽恕的,不能原谅的;
+	15. _tough guy_ [美口]硬汉
+	16. _tough it out_ [美国口语]勇敢地承受；坚持到底
+	17. _get tough with_ [口语]对…强硬起来
+	18. _tough cookie_ 非常坚强的人；不易动感情的人；自信者
+	19. _tough luck_ 坏运气；真不走运
+	20. _tough nut_ 大胆果断的人；暴躁的人
+	21. _tough love_ 严厉的爱（指为起到帮助作用而严厉地对待有问题的人）
+	22. _hang tough_ 坚持到底，顽强不屈
+6. tusk (tuck, dusk, tush, husk)
+	1. _n._ (象等动物的)长牙；獠牙
+	2. 尖形物；尖头
+	3. _vt._ 用牙抵(或刺)；用牙掘(或撕)
+	4. _adj._ 有獠牙的，有长牙的
+	5.  [ivory](dic://ivory)
+	6. [horn](dic://horn)
+	7.  [detusk](dic://detusk)
+	8. _n._ [dentine](dic://dentine), [dentin](dic://dentin), [tooth](dic://tooth)
+	9. _v._ [pierce](dic://pierce), [thrust](dic://thrust), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+	10. **elephant**象;**skull**头盖骨，脑壳;**antlers**鹿角;**rhino**钱;**boar**野猪;**spear**矛，枪;**ivory**象牙;**mammoth**长毛象;**skulls**头骨;**snout**鼻子;**whale**鲸;
+	11. a long spiral ivory tusk /扭曲的长尖牙
+	12. In fact, narwhals have never been witnessed using their tusks to fight. /事实上，从未有人目击独角鲸使用自己的长牙来打架。
+	13. This is meant to be a tusk to show that they have been killing elephants, poaching illegally. /这代表的是一根象牙，这是他们杀死大象，非法捕猎的证据。
 
 
 ### + \*deph- + = to stamp

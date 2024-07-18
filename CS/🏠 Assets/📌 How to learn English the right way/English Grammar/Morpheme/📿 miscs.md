@@ -3343,7 +3343,8 @@ fit
 	- n. 最适合的行高 adj. 最适合的
 
 filch
--  [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [nobble](dic://nobble), [lift](dic://lift)
+- vt. 偷窃, 窃取
+- [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [nobble](dic://nobble), [lift](dic://lift)
 - _v._ [steal](dic://steal)
 - **steal**剽窃;**procure**获得，取得;**likewise**也;**snatch**抢夺;**seize**抓住;**bestow**授予;**furnish**供应;**sundry**杂的;**wager**赌博;**devise**设计;**ready-made**现成的;
 - they filched milk off morning doorsteps. /他们顺手偷走了早上送到门阶上的牛奶。
@@ -3388,6 +3389,7 @@ flag
 - fl-
 
 flagon
+- _n._ 酒壶,大肚酒瓶
 - _n._ [vessel](dic://vessel)
 - **jug**水壶;**flask**烧瓶;**pint**品脱;**brandy**白兰地酒;**cask**木桶，桶;**ale**麦芽酒;**bottle**瓶子;**pewter**锡铅合金,白镴;**drink**喝，饮;**wine**酒，葡萄酒;**teapot**茶壶;
 
@@ -3517,19 +3519,51 @@ flummery
 - **farce**笑剧,闹剧,滑稽戏;**superstition**迷信;**spectacle**壮观的场面或景象;**ritual**仪式;**burlesque**作戏;**rituals**典礼;**rites**仪式;**silliness**愚蠢;**garb**装束;**grotesque**奇形怪状的;**superstitious**迷信的;
 - mummery
 - [pudding](dic://pudding), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
+- she hated the flummery of public relations. /她讨厌公关活动的空洞恭维。
+- great Island heritage portrayed in all this flummery? /我们这个伟大岛屿的传承却无处可见。
 
 flummox
 - 词源不详。可能来自辅音丛 fl-,扑腾，拍打，词源同 flap,flounce,flimflam.引申词义混乱，迷糊。
+- be a mystery or bewildering to
+- n. 失败
+- vt. 使狼狈；使混乱；使惶惑
+- vi. 出现错误；失败
 - **confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**dazzle**耀眼的光;**annoy**骚扰;**baffling**令人困惑的;**hapless**运气不好的，倒霉的;**amuse**使发笑;**seeming**外观;**defy**藐视;**baffled**带有挡板的;**embarras**
 - [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 - [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
 - _[flummox to confuse](dic://flummox%20to%20confuse)_ 打乱
+- She can flummox anybody by the lip. /她能把任何人数落得狼狈不堪。
+- She was flummoxed by the question. /问题弄得她不知所措。
 
 fold
 - n. 折层, 折, 羊栏, 折痕, 信徒  
 - vt. 折叠, 包, 合拢, 交迭  
 - vi. 折叠起来, 彻底失败
 - 来自 PIE*pel,折叠，词源同 triple,diplomat.羊栏义词源不详。
+-  [crease](dic://crease), [plication](dic://plication), [flexure](dic://flexure), [crimp](dic://crimp), [bend](dic://bend)
+- [congregation](dic://congregation), [faithful](dic://faithful)
+- [folding](dic://folding)
+-  [flock](dic://flock)
+- [plica](dic://plica)
+- [sheepfold](dic://sheepfold), [sheep pen](dic://sheep pen), [sheepcote](dic://sheepcote)
+- [fold up](dic://fold up), [turn up](dic://turn up)
+- [close up](dic://close up), [close](dic://close), [shut down](dic://shut down), [close down](dic://close down)
+- [pen up](dic://pen up)
+- [fold up](dic://fold up)
+- _n._ [angular shape](dic://angular shape), [angularity](dic://angularity), [social group](dic://social group), [geological process](dic://geological process), [geologic process](dic://geologic process), [animal group](dic://animal group), [structure](dic://structure)
+- _v._ [change surface](dic://change surface), [intertwine](dic://intertwine), [twine](dic://twine), [entwine](dic://entwine), [enlace](dic://enlace), [interlace](dic://interlace), [lace](dic://lace)
+- n._ [unfold](dic://unfold), [spread](dic://spread), [spread out](dic://spread out), [open](dic://open)
+- **tuck**卷起;**flap**拍打，拍打声;**origami**折纸手工;**creases**摺痕;**lengthwise**纵长地, 纵向地;**flaps**马唇肿胀;**flatten**使……平坦;**seam**缝;
+- a fold-out map. /折页地图。
+- Fold in the egg whites. /把蛋清拌进去
+- the sofa folds out. /沙发可以摊开。
+- the house lay in a fold of the hills. /房子位于山间起伏处。
+- the machine vomited fold after fold of paper. /那机器吐出一褶褶的纸。
+- a zone of opposing fold vergence. /一个褶皱相反倒转的地带。
+- We cannot just watch with fold arms. /我们不能袖手旁观。
+- hills folded in the mist /雾气笼罩的群山
+- The show will fold after Friday's performance. /星期五演出后就要停演了。
+- Do not fold, spindle, or mutilate this card. /不要将此卡折叠、插在纸插上或残损
 - unfold
 	- v. 打开，展开；呈现，逐渐明朗；发生，发展
 	- [blossom](dic://blossom), [blossom out](dic://blossom out), [blossom forth](dic://blossom forth)
@@ -5699,27 +5733,50 @@ hew
 	- But the rule also hews to a possibly outdated tradition, like people who set their cellphone ringtone to sound like an old rotary phone. /但是法案还谈到一个可能过时的传统，比如有些人将手机铃声设置成听起来像摇式电话。
 
 hide
+- - 来自 PIE*skeu,隐藏，遮盖，词源同 house,cuticle,sky.引申词义兽皮。
+- Hide one’s light under a bushel不露锋芒。bushel ['bʊʃ(ə)l] n.蒲式耳，是一种用来称量谷物的容器。《圣经》中，耶稣教导信徒不要把点着的灯放在谷斗下面，而要放在灯台上，照亮一家的人......将荣耀归于天上的父......不过这句习语倒是与耶稣的想法背离了，反而类似李白的“含光混世贵无名”。 ​​​​
+- v. 藏; 躲避; 遮挡; 掩盖  
+- n. 隐蔽处; 皮; （困境中的）生命, 人身安全
 - unhide
 - horsehide, oxhide
 	- n. 马革，马皮；棒球
 	- **leather**皮革;**holster**手枪皮套;**neoprene**氯丁橡胶;**suede**绒面革;**fiberglass**玻璃纤维;**wool**羊毛;**jacket**夹克;**tanned**被晒成棕褐色的;
 - hiding
-- hideout, hideaway
+- hideout,
+	- hide,隐藏，out,出去。比喻用法。
 	-  [hideaway](dic://hideaway), [den](dic://den)
 	- _n._ [hiding place](dic://hiding place)
 	- **lair**巢穴;**hideaway**潜伏处;**hiding**隐匿;**cave**使凹陷，使塌落;**bandits**盗贼;**ambush**埋伏，伏击;**infiltrate**渗透;**gang**一群;**ambushed**埋伏;**kidnap**绑架;**escape**逃避，避免;
 	- **getaway**逃走;**secluded**隐退的，隐居的;**oasis**绿洲;**idyllic**牧歌的，田园诗的;**tranquil**安静的，平静的;**cottage**村舍;**retreat**撤退;**bungalow**平房;**cozy**舒适的，惬意的;**paradise**天堂;**cosy**舒适的;
 	- A little later, Dante wriggled into Miguel's attic hideout /晚些时候，丹丹扭着屁股跑进米格在阁楼上的秘密基地。
 	- In August 1944, German security police discovered the hideout and arrested its occupants /1944年8月，德国秘密警察发现了他们的藏身之处，并逮捕了居住者。
+- hideaway
 - hideous
+	-  来自古法语 hideus,来自 hisdos,可怕的，恐怖的，丑陋的，拼写可能受 hide 影响。或直接来自 hide,兽皮，引申词义野兽，野蛮的，丑陋的。
+	- a. 丑恶的, 可憎的, 令人沮丧的
+	- adj. （外表）极丑的，面目狰狞的；非常可怕的，令人难以忍受的
+	- [horrid](dic://horrid), [horrific](dic://horrific), [outrageous](dic://outrageous)
+	- [repulsive](dic://repulsive)
+	- _adj._ [offensive](dic://offensive), [ugly](dic://ugly)
+	- _n._ [inoffensive](dic://inoffensive), [beautiful](dic://beautiful)
 	- **ghastly**可怕的;**horrid**可怕的;**ugly**丑陋的;**horrendous**可怕的, 恐怖的;**horrible**可怕的;**dreadful**可怕的;**grotesque**奇形怪状的;**awful**可怕的，庄严的;**monstrous**极可恶的;**horrific**可怕的;**atrocious**恶毒的;
+	- the whole hideous story. /骇人听闻的全部真相。
+	- the school was a hideous cuboid erection of brick and glass /学校是砖和玻璃垒起的丑陋的立方形建筑。
+	- I'm sorry. It's just this outfit is hideous. /对不起。只是这些服装太丑了。
 - hidebound
+	- hide【兽皮】 + bound【绑】。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
+	- hide,兽皮，bound,绑着，束缚。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
+	- a. 思想偏狭顽固的, 死板的, 量小的
 	- _[hidebound](dic://hidebound)_  adj. 死板的；保守的；顽固的；墨守成规的
 	- Hide one’s light under a bushel不露锋芒。bushel ['bʊʃ(ə)l] n.蒲式耳，是一种用来称量谷物的容器。《圣经》中，耶稣教导信徒不要把点着的灯放在谷斗下面，而要放在灯台上，照亮一家的人......将荣耀归于天上的父......不过这句习语倒是与耶稣的想法背离了，反而类似李白的“含光混世贵无名”。 ​​​​
 	- _adj._ [conservative](dic://conservative)
 	- **antiquated**陈旧的;**rigid**严格的;**stuffy**闷热的;**dogmatic**教条的;**reactionary**反动的;**archaic**古代的;**entrenched**根深蒂固的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**elitist**优秀人材;**orthodoxy**正统说法;**old-fashioned**老式的;
 	- [conservative](dic://conservative)
 	- _[a society hidebound by convention](dic://a%20society%20hidebound%20by%20convention)_ 墨守成规的社会
+	- It’s a very hidebound society and views anything new with suspicion /这是个非常保守的社会,对任何新事物都抱着怀疑的态度。
+	- For the Poet is indeed a Maker: above the world of sense, trodden by hidebound humanity, he builds that world of his own whereto is summoned the unfettered spirit. /因为诗人确实是一个创造者：在感官世界之上，被顽固的人性所践踏，他建立了他自己的世界，在那里召唤了不受约束的精神。
+	- ondon doesn't seem as **hidebound** by tradition as some of the other European cities /不像其他欧洲城市，伦敦并不因传统而守旧。
+	- The economy was **hidebound** by public spending and private monopolies. /该经济体由于公共开支和私有垄断而变得僵化。
 - greenhide
 - hidden
 - cowhide
@@ -6212,10 +6269,21 @@ hold
 	- _n._ 锚力,挂锚处所,安全
 
 holler
-- **shout**呼喊;**yell**大叫，叫喊;**scream**尖叫;**hoot**鸣笛声;**shouts**叫喊，突发的大笑;**howl**怒吼;**hear**听到, 听见;**shouting**喊叫,呼叫;**screaming**尖叫的;**cry**叫喊;**call**呼叫;
+- vi. 发牢骚；叫喊；抱怨
+- vt. 大声叫喊
+- n. 叫喊
+- [bellow](dic://bellow), [bellowing](dic://bellowing), [holla](dic://holla), [hollering](dic://hollering), [hollo](dic://hollo), [holloa](dic://holloa), [roar](dic://roar), [roaring](dic://roaring), [yowl](dic://yowl)
+-  [hollow](dic://hollow)
+- [holler out](dic://holler out)
+- [shout](dic://shout), [shout out](dic://shout out), [cry](dic://cry), [call](dic://call), [yell](dic://yell), [scream](dic://scream), [hollo](dic://hollo), [squall](dic://squall)
 -  [gripe](dic://gripe), [grouse](dic://grouse), [crab](dic://crab), [beef](dic://beef), [squawk](dic://squawk), [bellyache](dic://bellyache)
--  [bellow](dic://bellow), [bellowing](dic://bellowing), [holla](dic://holla), [hollering](dic://hollering), [hollo](dic://hollo), [holloa](dic://holloa), [roar](dic://roar), [roaring](dic://roaring), [yowl](dic://yowl)
--  [shout](dic://shout), [shout out](dic://shout out), [cry](dic://cry), [call](dic://call), [yell](dic://yell), [scream](dic://scream), [hollo](dic://hollo), [squall](dic://squall)
+- _n._ [cry](dic://cry), [outcry](dic://outcry), [call](dic://call), [yell](dic://yell), [shout](dic://shout), [vociferation](dic://vociferation), [valley](dic://valley)
+- _v._ [shout](dic://shout), [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose), [complain](dic://complain), [kick](dic://kick)
+- **shout**呼喊;**yell**大叫，叫喊;**scream**尖叫;**hoot**鸣笛声;**shouts**叫喊，突发的大笑;**howl**怒吼;**hear**听到, 听见;**shouting**喊叫,呼叫;**screaming**尖叫的;**cry**叫喊;**call**呼叫;
+- he hollers when he wants feeding. /他想吃时就叫喊。
+- a sailor is expected to keep hauling until the mate hollers, ‘Avast!’. /水手应照直航行，直到大副高喊：“停！”。
+- Hope you don't mind us giving you a holler. /希望你们不介意我们向你们欢呼一声。
+- Comfy? Okay, if you need anything else, just give me a holler. /舒服吗？好了，如果你需要什么，叫我一声就行。
 
 holy
 - 来自古英语 halig,神圣的，来自 Proto-Germanic*hailaga,来自 PIE*kailo,完整的，未受伤的，词源同 whole,hail,health.其词义演变可能是完整的，完美的，完人，圣人，神圣的。
@@ -6413,6 +6481,13 @@ huckster
 hunt
 -  来自古英语 huntian,打猎，猎捕，来自 Proto-Germanic*huntona,猎捕，捕获，来自 PIE*kend,抓住，抓捕，词源同 hint.
 - witch-hunt
+	- n. 对被认为是行巫者的追捕（或迫害）；政治迫害
+	- _n._ [harassment](dic://harassment), [molestation](dic://molestation)
+	- **hysteria**不正常的兴奋;**accusation**指责;**cover-up**掩饰,隐蔽;**crusade**改革运动;**persecution**迫害或受迫害;**farce**笑剧,闹剧,滑稽戏;**witchcraft**巫术;**witch**巫婆，女巫;**scandal**丑闻;**smear**涂抹;**investigation**调查;
+	- These bloody trials have been the historical event what we call **witch-hunt** /这些血腥的审判构成了被我们称之为猎巫的历史事件。
+	- What, I-I won't forgive you, so you want to send me on a witch hunt, wreck my career? /我不原谅你，所以你想对我进行政治陷害，毁掉我的职业吗？
+	- This is the evaluation of the single greatest witch hunt of all time. /这是史上最大的政治迫害评估。
+	- The president called the announcement, quote " more breaking news, witch hunt garbage" /特朗普总统反驳南希·佩洛西时说，这纯属“猎巫行动”，南希·佩洛西是在制造“更多的垃圾新闻”。
 - tufthunter
 - still-hunt
 - red-hunting
@@ -6457,6 +6532,28 @@ hum
 	- [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hammock](dic://hammock)
 	- The season was more advanced than at the Creek, two hundred miles to the north, and I noticed that spring flowers were blooming among the lumpy hummocks. /这个季节比在北面两百英里的小溪要早， 我注意到春天的花朵在凹凸不平的小丘之间盛开。
 
+husk
+- n. 外壳, 皮, 无价值之物  
+- vt. 剥...的壳, 削皮
+- n. 皮；外壳；无价值之物
+- vt. 削皮；以粗哑的嗓音说
+- vi. 嗓音变得嘶哑
+- 来自 PIE*skeu,隐藏，覆盖，词源同 hide,hose.引申词义保护，谷壳，豆荚等。
+- [chaff](dic://chaff), [shuck](dic://shuck), [stalk](dic://stalk), [straw](dic://straw), [stubble](dic://stubble)
+-  [shell](dic://shell)
+- _n._ [plant material](dic://plant material), [sheath](dic://sheath), [case](dic://case)
+- _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+- **corn**玉米;**bran**麸，糠;**shell**壳，贝壳;**kernels**核心程序，核心;**rice**稻;**cob**雄天鹅;**charred**烧黑了的，烧焦的;**stalks**茎秆;**maize**黄色的，玉米色的;**oat**燕麦;**sugarcane**甘蔗
+- _rice husk_ 米糠
+- the fibrous husk of coconut ./椰子的纤维质外壳
+- Brown bread contains the husk of wheat /黑面包含有小麦麸皮。
+- The husk is ripped off by powerful pincers.  /外壳被强力的钳子扯掉。
+- Lord Hoster's eyes opened. " Tansy, " he husked in a voice thick with pain /霍斯特公爵的眼睛却陡然张开。" 艾菊。" 他嘶哑的声音中带着深深的苦痛。
+- unhusk
+	- vt. 剥去...的外壳, 暴露
+- husky
+- huskily
+- cornhusk
 
 
 ## I
@@ -6864,6 +6961,8 @@ knout
 - **whips**鞭策者，鞭子;**whip**抽打;**Bolshevik**布尔什维克;**whipping**鞭打;**punishment**处罚, 受罚;**servitude**奴隶状态;**torture**折磨;
 
 knead
+- 来自古英语 cnedan,来自 Proto-Germanic*knedana,来自 PIE*gnet,压，捏，来自*gen 的扩大形式，压，弯，捏，成团，词源同 knob.引申词义揉，捏。
+- vt. 揉, 按摩, 捏
 - [work](dic://work)
 - [massage](dic://massage), [rub down](dic://rub down)
 - _[kneading](dic://kneading)_  n. 捏合；捏炼；揉捏法
@@ -7529,7 +7628,8 @@ mangonel
 - **artillery**炮, 大炮;**archers**弓箭手;**cannon**大炮;**gunpowder**火药;**siege**围攻;**spears**矛，长矛;**cannons**大炮;**citadel**城堡;**fortress**要塞;**mortars**研钵;**spear**矛，枪;
 - The original Mangonel was first used in Roman times to fling large rocks at enemies.This Mangonel, though bearing some resemblance to its forebear, is far larger than its Roman counterparts. /投石车可向敌军投掷巨石，于罗马时期古典战争中即已大显身手，但中世纪投石车射程远远超过罗马时代的前身。
 
-mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) PIE (\*mag "to knead, fashion, fit")
+mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) 
+- PIE (\*mag "to knead, fashion, fit")
 - mangle
 	- **rip**撕;**parse**从语法上分析;**distort**扭曲;**rearrange**重新安排;**chop**砍;**scrape**用工具刮;**spit**吐口水;**stomp**跺;
 	- [clothes dryer](dic://clothes dryer), [clothes drier](dic://clothes drier)
@@ -7583,6 +7683,7 @@ mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait) 
 	- mainmer
 	- maimed
 - meson
+	- mag-
 	- **carpenter**木工, 木匠;**jar**广口瓶;**masonry**石工行业;**miller**碾磨工;**craftsman**工匠;**blacksmith**铁匠;**stone**石头;**potter**陶艺家，制陶工人;**brick**砖，砖块;**smith**铁匠;**baker**面包师;
 	- _[meson capture](dic://meson%20capture)_  [高能] 介子俘获
 - Mesonic
@@ -8032,6 +8133,24 @@ night
 	- _n._ [punctual](dic://punctual), [enlightened](dic://enlightened)
 	- **wretched**可怜的;**hapless**运气不好的，倒霉的;**ignorant**无知的;**enlightened**开明的;**deluded**轻信的;**impoverished**穷困的,无力的,用尽了的;**beleaguered**饱受批评的;**misguided**由错误思想指引的,不明智的;**well-meaning**善意的;**uneducated**未受良好教育的;**heathen**异
 - tbd..
+
+nobble
+-  可能来自方言词 knubble,敲，击，用骨节敲打，词源同 knob,knuckle.最初用于赛马指操纵赛马比赛，后用于法律术语阻挠司法公正等。
+- vt. 诈骗；赛马前用毒药等使马不能获胜
+- [victimize](dic://victimize), [swindle](dic://swindle), [rook](dic://rook), [goldbrick](dic://goldbrick), [diddle](dic://diddle), [bunco](dic://bunco), [defraud](dic://defraud), [scam](dic://scam), [mulct](dic://mulct), [gyp](dic://gyp), [gip](dic://gip), [hornswoggle](dic://hornswoggle), [short-change](dic://short-change), [con](dic://con)
+-  [pilfer](dic://pilfer), [cabbage](dic://cabbage), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [lift](dic://lift)
+-  [kidnap](dic://kidnap), [abduct](dic://abduct), [snatch](dic://snatch)
+- _v._ [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel), [steal](dic://steal), [seize](dic://seize), [disable](dic://disable), [disenable](dic://disenable)
+- **bugger**家伙;**reckon**猜想;**dodgy**狡猾的，逃避的;**persuade**说服，劝说;**daft**愚蠢可笑的;**thwart**反对;**arse**屁股;**oust**剥夺;**bloke**家伙;
+- an attempt to nobble the jury. /收买陪审团的企图。
+- the industry will try to nobble plans for further competition. /该行业将设法阻止进一步竞争的计划。
+- they nobbled him and threw him on to the train /他们抓住他并把他扔上了火车。
+- people always tried to nobble her at parties. /人们总是想在聚会上跟她搭讪。
+- Afraid not. Can't budge him. Your Minister nobbled him first. /恐怕是的，说不动他，你的大臣先把他拉拢了。
+- " A sight of times better to be selling diments than nobbling about here. /“在那里卖钻石比在这里穷混混可要好过多了。”
+- In reality these are examples of poor negotiation by governments, a weakness that can also nobble their use of public money. /实际上， 这些都是政府谈判不力的例子，这种弱点也可能使他们无法使用公共资金。
+- nobbler
+- 
 
 noise (noisome)
 - noisy
@@ -9197,8 +9316,8 @@ raddle
 	- a. 混乱的, 坏掉的
 	- 来自 raddle,红赭石。比喻用法，用浓妆艳抹来掩盖疲劳。
 
-ramp
-- 1 - 来自古法语 ramper,爬，上升，登山，来自 Proto-Germanic*hrimp,卷起，弯起，收缩，来自PIE*sker,弯，转，缩起，词源同 ring,curve.比喻用法，原用于形容动物蹲立在后脚跟上蓄势待发奔跑的姿势，引申诸相关词义。
+ramp (romp)
+- 来自古法语 ramper,爬，上升，登山，来自 Proto-Germanic*hrimp,卷起，弯起，收缩，来自PIE*sker,弯，转，缩起，词源同 ring,curve.比喻用法，原用于形容动物蹲立在后脚跟上蓄势待发奔跑的姿势，引申诸相关词义。
 - [incline](dic://incline)
 - [wild leek](dic://wild leek), [Allium tricoccum](dic://Allium tricoccum)
 - [rage](dic://rage), [storm](dic://storm)
@@ -9610,6 +9729,38 @@ rod
 - ramrod
 - goldenrod
 - ramrod
+
+romp (ramp)
+- n. 喧闹游玩, 风流韵事; 冒险故事书
+- v. 喧闹玩耍, 轻松取胜
+- vi. 玩耍；轻快地跑；轻易地取胜
+- n. 嘻耍喧闹；顽皮的女孩
+- 可能来自 ramp 拼写变体，来自 ramp 古义，发狂，狂欢，引申词义嬉戏等。
+-  [runaway](dic://runaway), [blowout](dic://blowout), [laugher](dic://laugher), [shoo-in](dic://shoo-in), [walkaway](dic://walkaway)
+-  [tomboy](dic://tomboy), [hoyden](dic://hoyden)
+- [play](dic://play), [frolic](dic://frolic), [gambol](dic://gambol), [caper](dic://caper)
+-  [frolic](dic://frolic), [lark](dic://lark), [rollick](dic://rollick), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [run around](dic://run around), [lark about](dic://lark about)
+- _n._ [victory](dic://victory), [triumph](dic://triumph), [girl](dic://girl), [miss](dic://miss), [missy](dic://missy), [young lady](dic://young lady), [young woman](dic://young woman)
+- _v._ [play](dic://play), [run](dic://run), [win](dic://win)
+- **action-packed**充满令人激动情节的;**adventure**冒险活动;**rousing**活泼的;**thrilling**令人兴奋的;**raucous**沙哑的;**extravaganza**娱乐表演;**steamy**蒸汽的;**light-hearted**轻松的;**tale**故事;**slog**猛击;**orgy**狂欢宴会;
+- _[romping](dic://romping)_  v. 嬉戏喧闹；轻易取胜；（尤指非法地）做爱，淫乱（romp 的现在分词）
+- _[romp home](dic://romp%20home)_  v. 轻易取胜
+- _[romp about](dic://romp%20about)_  嬉戏玩耍
+- The child went for a romp in the forest. /那个孩子去森林快活一把。
+- Children romped on the playground. /孩子们在操场上嬉笑玩闹。
+- Newcastle romped to victory. /纽卡斯尔队轻易取胜
+- a white romper suit with pink trimmings. /一条带粉红花饰的白色连衫裤。
+- the favourite romped home six lengths clear. /赛前被人们看好的那匹马以领先整整六个马身的距离抵达终点轻松获胜了。
+- But Quack got pushed And saw he'd smushed An angry romp of otters. /但是Quack被推了 看到他弄脏了水獭愤怒的嬉戏。
+- Here, they can romp and play with other Jerrys. /可以和其他Jerry一起玩耍嬉戏。
+- " How wildly we romped" ! says Mrs. Darling now, recalling it. /" 当时我们闹得多欢啊！" 达林夫人现在回忆着说道。
+- But Biden's romp came not from voters' longstanding preferences but from a lastminute stampede. /然而，拜登之所以能轻易取胜，并非是因为有选民长期青睐于他，而是凭借最后关头的混乱局面
+- It was not a cheerful romp like the Harry Potter novels. /这不像哈利·波特小说那样欢快欢闹。
+- rompish (impish, frumpish, mopish)
+	- adj. 顽皮的；乱跳的；爱闹着玩的
+	- a series of rompish dances /一连串嬉戏喧闹的舞蹈
+- romper
+	- rompers
 
 roost
 - **nest**巢，窝;**coop**把…关进笼子里;**nests**巢;**flocks**短纤维，废毛铁;**flock**群;**birds**鸟类;**perch**栖木;**owls**猫头鹰;**nesting**嵌套;**brood**沉思;**bird**鸟;

@@ -27,6 +27,153 @@
 3. matutinal
 
 
+### + \*mag- +
+1. **macer-** = soften, lean, 表示“软化，瘦”。源自拉丁语 macerare "to tenderize, to soften."
+	1. vi. 浸软, 消瘦  
+	2. vt. 把...浸软, 使消瘦
+	3. 来自拉丁语 macerare,浸泡，使松软，来自 PIE*mag,揉，捏，词源同 make,massage.词义由揉捏引申为松软，最终用于指浸泡，浸软。
+	4. macer-捏 + -ate, 表动词 → 捏软 → 软。
+2. **mass-** 原始含义表示“揉、捏”，引申为“团、块”。源自希腊语 maza "a (kneaded) lump, barley cake."
+	1. mass
+		1. massy
+		2. massive
+		3. massiness
+		4. mases
+		5. masscult
+		6. massacre
+		7. massa
+		8. mass-produced
+		9. mass-produce
+		10. mass-based
+		11. landmass
+		12. biomass
+		13. amass
+		14. admass
+	2. massage
+		1. vibromassage
+		2. thermomassage
+		3. pneumothermomassage
+		4. pneumomassage
+		5. phonopneumomassage
+		6. phonomassage
+		7. otomassage
+		8. massagist
+		9. massager
+		10. hyudromassage
+		11. electromassage
+	3. masseur
+		1. n. 男按摩师
+	4. masseuse
+		1. n. 女按摩师
+	5. magma
+		1. n. 岩浆, 糊剂, 乳浆剂
+		2.  来自希腊语 magma,油膏，软膏，来自 PIE*mag,揉，捏，词源同 make,massage.引申词义岩浆，因其流动如软膏而得名。
+3. among
+	1. 来自短语 on mong.mong,中间，词源同 mingle,混合。
+	2. 
+4. make
+	1. vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行  
+	2. vi. 开始, 前进, 增大, 被制造, 被处理  
+	3. n. 制造, 构造, 性情
+	4. 来自古英语 macian,制造，形成，安排，来自 PIE*mag,捏，揉，形成，词源同 match,massage.最早可能是来自人类始祖捏泥土以建房，后引申多种词义。
+	5. make off with
+	6. unmake
+	7. remake
+	8. playmaking
+	9. making
+	10. makeweight
+		1. - n. 补足重量的东西
+	11. makeup
+	12. makeshift
+		1. _n._ [expedient](dic://expedient)
+		2. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
+		3. _n._ [permanent](dic://permanent), [lasting](dic://lasting)
+		4. **tent**帐篷;**tents**旅游帐篷;**home-made**常里做的;**impromptu**事先无准备, 临时;**huddled**挤成一团;**wooden**木制的;**shack**小室;**dilapidated**破旧的;**open-air**户外的,野外的;**cardboard**硬纸板;**barracks**兵营，营房;
+		5. The accommodation for the press was makeshift at best. /迁就新闻界充其量只是个权宜之计。
+		6. he makeshift team performed heroics. /这支临时队伍哗众取宠地表现自己。
+		7. arranging a row of chairs to form a makeshift bed /摆一排椅子凑成一张临时的床。
+	13. maker
+	14. makeover
+		1. _n._ [beauty treatment](dic://beauty treatment), [reconstruction](dic://reconstruction)
+		2. **facelift**整容手术;**revamp**修补;**renovation**翻新;**redesign**重新设计;**remodel**改变;**overhaul**彻底检查;**refurbishment**翻新，整修，再装修;**remodeling**重新塑造;**revamped**修补的;**redo**重做;**styling**款式，式样;
+		3. Popcorn is an instant makeover if I ever saw one. /如果我曾经看到过，那么爆米花可以算是瞬间的改造。
+		4. In fact, this entire Shibuya district has been getting a complete makeover. /事实上，整个涉谷区已经彻底改头换面了。
+		5. It's not too early to start a makeover of the firm's culture. /可以开始重塑公司文化了。
+		6. Which, in the case of teosinte's transformation into corn, was a major makeover. /比如大刍草转化为玉米，这就是一个重大的改造。
+		7. Give your mom a confidence boost, and show your appreciation by giving her a makeover. /为你的妈妈增加一点信心，为她改头换面，表现出你的赞赏和感激。
+	15. makefile
+	16. makefast
+		1. - n. 浮标等物；系船的柱
+	17. make-work
+	18. make-ready
+	19. make-peace
+		1. They make peace with the Pilgrims. /他们和清教徒和平共处。
+	20. make-believe
+		1. n. 虚构；想象；编造；假装 
+		2. adj. 仿造的；假装的；假想的 
+		3. v. 假装；想象
+		4. _n._ [imagination](dic://imagination), [imaging](dic://imaging), [imagery](dic://imagery), [mental imagery](dic://mental imagery), [pretense](dic://pretense), [pretence](dic://pretence), [pretending](dic://pretending)
+		5. _v._ [act](dic://act), [play](dic://play), [represent](dic://represent)
+		6. _adj._ [unreal](dic://unreal)
+		7. _n._ [real](dic://real), [existent](dic://existent)
+		8. **imaginary**想像中的, 假想的, 虚构的;**fantastical**空想的,捕风捉影的;**fantasy**幻想;**pretend**假装;**made-up**制成的,捏造的;**fictitious**假的, 虚构的, 编造的, 假设的, 假装的;**fanciful**想像的;**fictional**虚构的;**reality**现实;**fairytale**童话式的;**pretending**假装的;
+		9. He made believe that he was rich. /他假装很有钱。
+		10. Okay, not really. But it is fun to make believe. /好吧，这些并不是真的。但假扮是很有趣的。
+		11. Are the stories of Big and Little Workers true or only make believe? /大小小的劳动者里的故事是真实的，还是虚构的？
+	22. made
+	23. dressmake
+5. mason
+	1. n. 泥瓦匠, 共济会会员  
+	2. 来自古法语 masson,石匠，可能来自 Proto-Germanic*mait,砍，劈，来自 PIE*mai,砍，词源同smith,maim.或来自PIE*mag,揉，捏，形成，词源同make,massage.词义共济会缩写自Freemason.vt. 用砖瓦砌成
+6. match
+	1. n. 比赛; 火柴; 对手; 般配的人; 非常相似的东西; 婚姻  
+	2. vt. 相配, 相同; 配对; 与…相匹敌; 适应
+	3. 来自中古英语 macche,灯芯或烛芯，来自希腊语 myxa,鼻涕，灯芯，来自 PIE*meug,黏的，滑的，词源同 mucus,mucous.比喻用法，把悬荡的灯芯比喻成小孩的鼻涕。后引申词义用于点火的浸油小木条，最后指火柴。拼写比较 bake,batch.  
+	4. 来自古英语 maecca,伴侣，妻子，丈夫，来自 Proto-Germanic*makon,匹配，来自 PIE*mag,揉，捏，词源同 make,massage.后引申词义比赛，竞争等，即能匹敌的对手。
+	5. 
+7. mingle (mangle)
+	1. v. (使)混合
+	2. v. （在聚会中）应酬，交际；（使）混合
+	3. 来自古英语 mengan,来自 PIE*mag,揉，捏，形成，词源同 among,massage.即揉在一起，引申词义融合，混合。
+	4. [mix](dic://mix), [commix](dic://commix), [unify](dic://unify), [amalgamate](dic://amalgamate)
+	5. [jumble](dic://jumble)
+	6. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [be](dic://be)
+		1. [mix](dic://mix) 含义广泛，侧重混合的一致性，混合的各成分可能按原样存在，但不一定能辨别出来。  
+		2. [mingle](dic://mingle) 暗示混合后的各成分仍保持各自的特性，能辨别出来。  
+		3. [blend](dic://blend) 一般可与mix和mingle换用。混合与其各成分的性质通常是一致的，侧重混合整体的统一性与和谐性。  
+		4. [combine](dic://combine) 通常用于化学反应中，指化合物等。  
+		5. [merge](dic://merge) 指一种成分被别一种成分吸收或融合，着重成分的个性消失在整体之中。
+	7. **socialize**交往,联谊;**greet**欢迎，迎接;**interact**互相影响;**dine**进餐，用餐;**congregate**集合, 聚集;**meet**遇见;**like-minded**具有相似意向或目的的;**flirt**调情;**mix**使混和;**invite**邀请，招待;**converse**相反的，逆向的;
+	8. mingle water and alcohol /使水与酒精混合
+	9. Oil will not mingle with water. /油和水不相融。
+	10. The alumnae mingled with the trustees. /与董事交往的女校友
+	11. The thief mingled in the crowd. /小偷混入人群中。
+	12. People mingled happily at the carnival. /大家在狂欢节交往得很快乐。
+	13. mingled feelings of joy and sorrow /悲喜交加。
+	14. If we mingle with the crowd, we should not be noticed. /如果我们混在人群中, 就不会被注意到。
+	15. One of the hostess's duties is to mingle with the guests. /女主人的职责之一是与客人们交际。
+	16. over aperitifs, there was a chance to mingle with friends old and new /喝开胃酒时，有机会和新老朋友进行社交。
+	17. A terrible look of mingled fury and fear came over his face. /他露出一种愤恨和恐惧混杂的可怕表情。
+	18. intermingle (mated and intermingled)
+		1. vi. 混入, 渗入, 掺杂  
+		2. vt. 使混合
+		3.  inter-,在内，在中间，相互，mingle,混合。
+		4. _v._ [mix](dic://mix), [mingle](dic://mingle), [commix](dic://commix), [unify](dic://unify), [amalgamate](dic://amalgamate)
+		5. **mingle**混合;**coexist**共存;**collide**碰撞;**intersect**)相交;**interwoven**交织的;**mingled**融合，联合;**converge**集中于一点;**interact**互相影响;**inhabit**居住于;**diverge**分歧;**integrate**使结合成为整体;
+		6. _intermingle with_ 混合
+		7. The conference delegates intermingled with each other over coffee when it broke off. /休会时会议代表们混在一起一面喝咖啡一面交谈。But U.S. officials acknowledge that these extremist groups are, in the words of one official, intermingled throughout the country. /但是用一名美国官员的话说，美国官员承认这些极端组织混杂在叙利亚各地。
+		8. Native Britons and Romans had intermingled and inter-married and in England everyone did as the Romans did. /本地的不列颠人与罗马人混居、通婚，所有人都釆用了罗马的风俗习惯。
+		9.  Tracking sparrows from western Canada revealed that they intermingle with eastern birds on their wintering grounds in the southern Great Plains./追踪加拿大西部白喉带鹀的项目发现，它们在大平原南部越冬地时，与东部鸟类待在一起。
+		10. This contrast, or intermingling of tragedy with mirth, happens daily, hourly, momently /这种悲剧与欢乐的对比或交织， 每天、每小时、每时每刻都在发生。
+		11. You see how these companies have become so interconnected and intermingled that the failure of one can bring down the rest. /你可以看到，这些公司已经变得如此相互关联、相互混杂，以至于一家倒闭就可能拖累其他公司。
+		12. The air and the earth are curiously mated and intermingled, as if the one were the breath of the other. /空气和大地奇怪地交织在一起， 就好像一个是另一个的呼吸。
+	19. commingle
+8. mongrel
+	1. n. 杂种狗, <冒犯>（人）杂种
+	2. 源自 gemong "mingling," 原始日耳曼语词源 + -rel, 贬义后缀。
+	3. 来自 Proto-Germanic*mangjan,揉，捏，来自 PIE*mag,揉，捏，词源同 make,mingle,among.-rel,贬义后缀，缩写自-erel,小词后缀。字面意思即捏在一起的，用于指杂种狗。
+
+
 ### + \*magh- +
 #### + \*magh- (2) +
 1. **-machy,-machia** = battle, war, 表示“争斗，战争”源自希腊语 makhe "a battle, fight."
@@ -2031,21 +2178,23 @@
 		1. malle-锤子 + -ate表名词
 		2. malleablising
 		3. malleability
-		4. malleable
+		4. malleable (ductile)
 			1. malle-=mall-锤子 + -able, 表形容词 → 可锻造的
 			2. **flexible**灵活的;**adaptable**可适应的,有适应能力的;**rigid**严格的;**brittle**易碎的，脆弱的;**amorphous**无定形的;**hardened**变硬的;**soft**温柔的，温和的;**supple**柔软的;**resilient**适应力强的;**plasticity**粘性;**fickle**易变的;
 			3. [tractable](dic://tractable), [manipulable](dic://manipulable), [formed](dic://formed)
-			4. _malleable iron_ 展性铸铁，可锻铸铁
-			5. _malleable cast iron_ 可锻铸铁；展性铸铁
-			6. maleablising
-			7. malleableness
-			8. malleability
-			9. immalleable
-	3. mallet, malletfinger
+			4. [malleable](dic://malleable), [pliable](dic://pliable), [pliant](dic://pliant), [tensile](dic://tensile), [tractile](dic://tractile)
+			5. _malleable iron_ 展性铸铁，可锻铸铁
+			6. _malleable cast iron_ 可锻铸铁；展性铸铁
+			7. maleablising
+			8. malleableness
+			9. malleability
+			10. immalleable
+	3. mallet (pullet, pellet, pallet, mullet, millet, ballet)
 		1. **hammer**敲打;**hammers**锤子;**axe**斧;**shank**胫;**rubber**橡胶;**screwdriver**螺丝起子;**wooden**木制的;**tongs**夹具;**spear**矛，枪;**paddles**划浆;**fist**拳头;
-	4. malleus
+		2. malletfinger
+	5. malleus
 		1. **femur**股骨;**vertebrae**椎骨;**skull**头盖骨，脑壳;**bony**骨的;
-	5. emolument
+	6. emolument
 		1. **remuneration**酬报,酬劳;**patronage**赞助;**stipend**固定薪金;**prestige**威望，声望;
 		2. _[emolument](dic://emolument)_  n. 薪水，报酬
 		3. _[official emolument](dic://official%20emolument)_ 官职薪酬; 公职薪俸; 薪俸;
@@ -2054,10 +2203,10 @@
 		6. _[taxable emolument](dic://taxable%20emolument)_ 应课税薪俸
 		7. _[substantive emolument](dic://substantive%20emolument)_ 实职薪俸
 		8. _[directors emoluments](dic://directors%20emoluments)_ 董事酬金
-	6. malleolar, 
+	7. malleolar, 
 		1. adj. 踝的
 		2. etc..
-	7. malleolus
+	8. malleolus
 		1. 内踝
 		2. etc..
 2. **mol-** = meal, 表示“饭”。源自拉丁语 molere "to grind."
@@ -2065,17 +2214,124 @@
 		1. [sacrifice](dic://sacrifice)
 		2. **kill**杀死;**burn**燃烧;**summon**召唤;**sacrifice**牺牲;**slay**杀害;**destroy**毁坏;**extinguish**使熄灭, 扑灭;**flee**消失，消散;**ignite**点燃;**inflict**把…强加给, 使承受, 遭受;**killing**杀害的;
 3. maul
+	1. vt. 袭击, 撕咬; 轻易击败; 粗手粗脚地摆弄; 抨击  
+	2. n. 大槌
+	3. . 袭击，撕咬；轻易击败（尤用于体育报告中）；猛烈抨击；粗手粗脚地摆弄，粗暴地对待；（比赛）惨败；（英国橄榄）围挤抢球 
+	4. n. 大槌（等于beetle）；（英国橄榄）围挤抢球
+	5. 自古法语 mail,来自拉丁语 malleus,铁锤，词源同 mallet.引申词义重锤敲打，伤害，打伤，以及动物袭击，撕咬等。
+	6. [sledge](dic://sledge), [sledgehammer](dic://sledgehammer)
+	7. [mangle](dic://mangle)
+	8. _n._ [hammer](dic://hammer)
+	9. _v._ [cleave](dic://cleave), [split](dic://split), [rive](dic://rive), [deface](dic://deface), [disfigure](dic://disfigure), [blemish](dic://blemish)
+	10. **axe**斧;**scrum**扭打，混乱;**claw**爪;**claws**爪子;**hammer**敲打;**melee**混战，格斗;**chop**砍;**hammers**锤子;**jaws**狭口;**chuck**丢弃，抛掷;**stomp**跺;
+	11. The hunter was mauled by a lion. /这名猎人被一头狮子撕裂了皮肉。
+	12. The package was mauled by the careless messenger. /包裹被粗心的信使弄得很破旧
+	13. The novel was mauled by the New York critics. /这本小说受到纽约评论家的抨击。
+	14. a tent mauled by a hungry bear; /被恶熊破坏的帐篷；
+	15. The minister's speech sounded quite different when the newspapers had mauled it about. /当报界对此妄加评论时, 部长的讲话听起来则截然不同。
+	16. Meanwhile, mom was gently mauling her babies. /与此同时，熊妈妈正在轻轻地抚弄她的孩子。
+	17. She can't have people over because a chimp mauled a clown at her birthday party. /她不能找人来陪她，因为一头猩猩在她的生日派对上伤了一个小丑。
+	18. But unbelievably, he was actually able to kill the bear but was left badly mauled and unconscious. /难以置信的是，他居然杀死了这头母熊，但自己也受伤严重且不省人事。
 4. meal
+	1. n. 一餐; 膳食; 粗粉  
+	2. v. 进餐
+	3. meal - meal在古英语中词形为mǣl，原先并不指“一餐”，而指“进餐时间”。到了中世纪，在保留原义的同时，这个词开始同用餐时间吃的东西联系起来，而它当今使用的拼法和词义则是在17世纪末才确立下来的。meal还有一个旧义“衡量”（measure），曾在中世纪广泛作为构词成分用于piecemeal（一件一件的；逐个地）, inchmeal（一点一点地；慢慢的）, cupmeal, dropmeal, limbmeal, littlemeal, pennymeal, poundmeal等复合词上，意思是“一次所取的量或部分”，但除了头两个词，其余的今已废弃不用。
+	4. 来自古英语 mael,固定时间，吃饭点，来自 Proto-Germanic*maela,来自 PIE*me,测量，词源同meter,measure.词义由测量引申为固定时间，最后引申词义用餐时间，一顿饭。词义演变比较同源词 time,tide,deal.  
+	5. 来自古英语 melu,面粉，谷粉，来自 PIE*mel,软的，磨，词源同 mill,mallet.
 5. mill
+	1. n. 磨坊, 面粉厂, 工厂; 磨粉机; <非正式>引擎; <旧>拳击比赛; 密尔 (货币单位)   
+	2. v. 碾碎, 磨成粉; 使乱转
+	3. 来自希腊语 molere,磨，来自 PIE*mel,软，锤打，磨，词源同 mallet,melt.引申词义磨坊，磨石，因磨坊在农业社会是比较有代表性的工业产品，后借用该词来指现代意义上的工厂。
+	4. through the mill经受磨炼；通过严格的训练。磨米磨面需要用两块沉重并且是圆形的两块磨盘石上下叠加，两片磨盘之间的距离很小，而上边的磨盘中间有个圆洞可以往里添料，谷物和豆子等随着磨盘的转动被磨成细面并相应被带到磨盘边缘，收集起来就是磨好的面粉了。My new car was put through the mill. ​​​​  
+	5. treadmill ['tredmɪl] n.踏车，跑步机；单调的工作。tread n.&amp;v.踩踏，与单词trap [træp] n.陷阱；圈套，vi.设陷阱，有关。mill，磨坊。机械引入前，欧洲的磨坊用人力或畜力驱动磨面机，有时被罚做苦役的囚犯也被迫做这项没完没了及其枯燥的活。可是现在很多人在健身中心的跑步机上花钱做同样的事情。 
+	6. windmill
+	7. vibromill
+	8. treadmill
+	9. sugar-mill
+	10. sawmill
+	11. railmill
+	12. oilmill
+	13. millwright
+	14. millwork
+	15. millsream
+	16. millstone
+	17. millrace
+	18. millpond
+	19. milling
+	20. miller
+	21. milldam
+	22. millboard
+	23. mill-run
+	24. mill-owner
+	25. lumber-mill
+	26. gristmill
+	27. coffeemill​​​​
 
 
 ### + \*mel- +
 #### + \*mel- (1) + = soft
 1. **ambly-** = dull, 表示“钝，弱”。源自希腊语 amblus "blunt, dull,dim."
+	1. amblyopia
 2. **amel-** = enamel, 表示“釉”。源自古法语 esmail "enamel."
+	1. enamel
+		1. en-进入，使 + amel-软，融化，即融在里面的，指一种瓷器烧制技术。
+		2. n. 珐琅, 瓷釉  
+		3. vt. 涂以瓷釉, 彩饰
+		4. [tooth enamel](dic://tooth enamel)
+		5. _n._ [solid body substance](dic://solid body substance), [compound](dic://compound), [chemical compound](dic://chemical compound), [paint](dic://paint), [coating](dic://coating), [coat](dic://coat)
+		6. _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
+		7. **porcelain**瓷, 瓷器;**ceramic**陶器的;**lacquer**涂漆;**varnish**虚饰;**glaze**装以玻璃;**tooth**牙齿;**acrylic**丙烯酸的;**epoxy**环氧的;**patina**铜绿;**pewter**锡铅合金,白镴;**brooch**胸针，领针;
+		8. _enamel coating_ 搪瓷护膜；搪瓷表层
+		9. _porcelain enamel_ 搪瓷；瓷釉
+		10. _enamel paint_ 瓷漆
+		11. _coal tar enamel_ 煤焦油磁漆
+		12. enamelware
+		13. enamelum
+		14. enameloma
+		15. enameloblastoma
+		16. enameloblast
+		17. enamelling
 3. **blenn-** 表示“粘液”，多用于医学词汇。源自希腊语 blennos "slime."
+	1. blenny
 4. **malac-** = soft, 表示“软”。源自希腊语 malakos "soft."
+	1. malacoderm
+	2. malacology
 5. **malt-** = malt, 表示“麦芽”。源自古英语 mealt "malt."
+	1. malt
+		1. n. 麦芽  
+		2. a. 麦芽的, 含麦芽的, 用麦芽作的  
+		3. vt. 使成麦芽, 用麦芽处理  
+		4. vi. 发麦芽
+		5. 来自古英语 malt,麦芽，来自 PIE*meld,溶化的，来自*mel,软的，词源同 melt,meld,mallet.
+		6. [malted](dic://malted), [malted milk](dic://malted milk)
+		7. [malt liquor](dic://malt liquor)
+		8. _n._ [milkshake](dic://milkshake), [milk shake](dic://milk shake), [shake](dic://shake), [lager](dic://lager), [lager beer](dic://lager beer), [grain](dic://grain), [food grain](dic://food grain)
+		9. _v._ [process](dic://process), [treat](dic://treat), [convert](dic://convert)
+		10. **malty**麦芽的;**whisky**威士忌酒;**lager**窖藏啤酒;**hops**啤酒花;**ale**麦芽酒;**barley**大麦;**mouthfeel**口感;**rye**黑麦;**toffee**乳脂糖，太妃糖;**beer**啤酒;**caramel**焦糖;
+		11. _barley malt_ 大麦芽
+		12. _malt extract_ 麦精，麦芽膏
+		13. _malt sugar_ 麦芽糖
+		14. _malt beer_ 麦牙啤酒；黑啤酒
+		15. Dextrose mono, Malt dextrine, Vanilline, Sodium Alginate, Various phosphates /一水葡萄糖，麦芽糊精， 香兰素，藻酸钠，各 ...
+		16. Fructose, corn syrup, fruit-juice concentrate, malt syrup, sucrose, molasses, dextrose, and glucose are all sugars. /果糖，玉米糖浆，果汁精，麦芽糖，蔗糖，糖蜜，葡萄糖都是糖。
+		17. From this our ale or malt beer is made. /麦芽酒，也叫啤酒，就是用麦芽酿出来的。
+		18. The London Distillery Company in Battersea is soon to start barrelling a single malt aimed at young urbanites. /位于巴特西的伦敦酿酒公司将迅速开展对以年轻都市人为目标市场的纯麦芽威士忌进行桶装的工作。
+		19. Made from ingredients including carrot, cauliflower, onion, malt, and vinegar /原料包括胡萝卜、花椰菜、洋葱、麦芽和醋。
+	2. malthouse
+		1. n. 麦芽作坊
+	3. maltose
+		1. n. 麦芽糖
+		2. [malt sugar](dic://malt sugar)
+		3. _n._ [disaccharide](dic://disaccharide)
+		4. **sucrose**蔗糖;**fructose**左旋糖;**glucose**葡萄糖;**carbohydrate**碳水化合物;**starch**淀粉;**lactose**乳糖;**sugar**糖;**hydrolysis**水解;**yeast**酵母;**cellulose**纤维素;**fermentation**发酵;
+		5. Link two of them together, and you've got a disaccharide, lactose, maltose, or sucrose. /把这些糖中的其中两种连接起来， 你就得到了二糖，乳糖，麦芽糖或者蔗糖。
+		6. The maltose syrup glaze coating the skin is the secret /涂在皮肤上的麦芽糖浆釉是秘密。
+		7. But L. sanfranciscensis needs maltose to stay alive, so these microbes can live and grow without fighting over resources /但是 L. sanfranciscensis 需要麦芽糖来维持生命，因此这些微生物可以在不争夺资源的情况下生存和生长。
+		8. Different enzymes help to break different linkages - for example amylases break down large polysaccharides like starch into smaller units, whereas lactase, sucrase, and maltase break down lactose, sucrose, and maltose into their monosaccharides. /不同的消化酶能分解特定的糖链，比如淀粉酶可以将淀粉等多糖分解为小分子的糖，而乳糖酶、蔗糖酶、麦芽糖酶则分别可将乳糖、蔗糖、麦芽糖降解为相应的单糖。
+	4. maltster
+		1. n. 麦芽制造(或出售)者
+	5. malty
+		1. a. 麦芽的, 有麦芽的, 喝醉的
 6. **moll-** = soft, 表示“软”。
 	1. emollient
 		1. [cream](dic://cream), [ointment](dic://ointment)
