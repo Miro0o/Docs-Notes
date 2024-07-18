@@ -2493,6 +2493,116 @@
 5. lady
 
 
+### + \*dher- +
+#### + \*dher- (2) +
+1. **firm-, farm-**
+	1. affirm
+		1. reaffirm
+		2. disaffirm
+			1. disaffirmation
+			2. disaffirmative
+		3. affirmative
+		4. affirmation
+			1. self-affirmation
+			2. reaffirmation
+		5. affirmant
+		6. affirmance
+		7. affirmable
+	2. confirm
+		1. unconfirmed
+		2. reconfirm
+			1. reconfirmation
+		3. confirmed
+		4. confirmatory
+		5. confirmative
+		6. confirmation
+		7. confirmand
+		8. confirmable
+	3. firm
+		1. 你如果是个生活在十二世纪前后的farmer农民，你的小日子可能过得还挺滋润的，天天收收租子就可以，为啥呢？farm这个单词与firm稳固的有关，本来指“a fixed yearly amount payable as rent”，即每年付给土地出租者的一个固定数目的租金（与按照收成比例交租相对），farmer反而是出租土地的“地主”。
+		2. n. 公司, 商号  
+		3. a. 坚定的, 坚强的, 牢固的, 结实的, 坚硬的, 坚挺的, 严格的, 确定的  
+		4. vt. 使牢固, 使坚定  
+		5. vi. 变稳固, 变坚实  
+		6. ad. 稳固地
+		7. rock-firm
+		8. infirm
+			1. infirmly
+			2. infirmity
+			3. infirmative
+			4. infirmary
+		9. firmware
+		10. firmness
+		11. firmly
+	4. firmament
+		1. n. 天空, 苍天
+		2. firmamental
+	5. farm
+		1. n. 农场, 农田  
+		2. vt. 耕种  
+		3. vi. 种田
+		4. farmer（农场主）：替领主去收地租的人  
+		5. farm【农场】和firm【牢固】同源。中世纪生活在英格兰的农民没有自己的土地，靠租种地主的土地生存，每年需要缴纳“固定”的租金。
+		6. 英语单词farm来自拉丁语firma，与firm（牢固的）同源，意思是不变的付款，即每年固定的租金或税收的付款。英格兰早期的农民没有自己的土地。他们租赁领主的农田，每年要缴纳一笔固定的地租，这笔地租就是farm。到了16世纪，farm逐渐从表示农田租金转为表示农田本身。  
+		7. 同样，单词farmer原来表示替领主去收租金（farm）的人，后来逐渐变为“在农场上劳动的人”，即“农民”。在欧美一些国家，农民的地位日益提高，很多农民已经拥有自己的农场，通常被称为“农场主”，但在英语中还是使用farmer这个单词来称呼他们。大名鼎鼎的美国国父华盛顿在参加独立战争之前就是一个farmer。  
+		8. farm：[fɑːm] n.农田，农场v.种田，务农，种植，养殖  
+		9. farmer：['fɑːmə] n.农民，农场主
+		10. farming
+		11. home-farm
+		12. fish-farming
+		13. farmyard
+		14. farmstead
+			1. n. 农场及其建筑物
+		15. farmor
+		16. farmland
+		17. farming
+		18. farmiglucin
+		19. farmhand
+		20. farmer
+		21. farmee
+		22. dry-farm
+		23. farm-in
+		24. farmee
+2. dharma
+	1. n. (佛教中的)达摩, (佛教)法, (印度教)德
+	2. _n._ [Hindu deity](dic://Hindu deity)
+	3. **Buddhism**佛教;**Buddha**佛陀;**Buddhist**佛教徒;**enlightenment**启发,开导,开明;**meditation**默想, 默念;**Sanskrit**梵文的;**precepts**戒律;**Hinduism**印度教;**teachings**学说;**zen**禅;**Vedic**吠陀的;
+	4. Technically, this hand gesture is referred to as the gesture of turning the wheel of dharma, Dharmachakra. /其实严格来说, 这应该叫转法轮印，意为转动佛法之轮。
+	5. I feel like that would be -- I think it's called the dharma. /我觉得那会是——我认为这叫做佛法。
+	6. And if you fulfill your dharma, things improve and you get re-born into a higher being. /如果你履行你的佛法，事情就会改善，你就会重生为更高的存在。
+3. dharna
+	1. n. (印度)长坐绝食
+	2. _n._ 长坐绝食(印度的一种要求伸张正义或讨还债务的斗争方式)
+4. throne
+	1. n. 王座, 君主
+	2. 来自希腊语 thronos,座位，王座，来自 PIEdher,固定，稳固，词源同 firm,tree,endure.比喻用法。
+	3.  [toilet](dic://toilet), [can](dic://can), [commode](dic://commode), [crapper](dic://crapper), [pot](dic://pot), [potty](dic://potty), [stool](dic://stool)
+	4. [enthrone](dic://enthrone)
+	5. _n._ [chair](dic://chair), [plumbing fixture](dic://plumbing fixture), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
+	6. _v._ [govern](dic://govern), [rule](dic://rule), [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone)
+	7. **king**国王;**coronation**加冕礼;**heir**继承人;**monarch**君主，帝王;**kingdom**王国;**monarchy**君主政体;**crown**王冠;**prince**王子，国君;**palace**宫殿;**royal**皇家的;**reign**统治;
+	8. _frozen throne_ 冰封王座（游戏名称）
+	9. _take the throne_ 登基为王，加冕为王
+	10. The throne was footed with gold. /这御座是用黄金做的脚。
+	11. abdicate the throne in sb.'s favour /让位给某人
+	12. Who was the true heir to the throne? /谁是真正的王位继承人?
+	13. In the UK, it is customary for the next heir to the throne to be regent. /在英国, 通常由下一位王位继承人摄政。
+	14. ascended the throne upon the death of her father /在她父亲去世后继承王位
+	15. enthrone
+		1. vt. 使登基；立……为王；任为主教；崇拜 
+		2. vi. 热心
+		3. [invest](dic://invest), [vest](dic://vest)
+		4. _v._ [install](dic://install), [invest](dic://invest), [vest](dic://vest)
+		5. _n._ [dethrone](dic://dethrone)
+		6. **throne**王座;**oust**剥夺;**overthrow**打倒;**appoint**任命;**topple**倾倒;**displace**取代;**elevate**举起;**coronation**加冕礼;**assassinate**暗杀，行刺;**seize**抓住;**consort**结交;
+		7. And Yazidis religious community in Iraq has enthroned its new spiritual leader. /伊拉克的雅兹迪斯宗教团体已经任命了新的精神领袖。
+		8. The God-man Jesus had been enthroned in the heavens to be the Lord of lords. /神人耶稣已经在诸天之上登宝座，成为万主之主。
+		9. May he be enthroned in God's presence forever; appoint your love and faithfulness to protect him. /他必永远坐在　神面前。愿你预备慈爱和诚实保佑他。
+		10. 
+		11. enthronement
+	17. dethrone
+
+
 ### + \*dhes- + = forming words for religious concepts
 1. **fan-** = temple， 「latin」fanum, "temple"
 	1. fanatic

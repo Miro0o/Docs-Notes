@@ -3557,11 +3557,31 @@
 			1. irreparable
 		11. disrepair
 	3. apparatus
-		1. ap-加强 + par-准备 + atus表名词 → 准备好用的东西 → 设备。
-		2. n. 装置, 器具, 器官
-	4. apparel
+		1. n. 设备，器具；机构，组织；器官；评论性注释
+		2. ap-加强 + par-准备 + atus表名词 → 准备好用的东西 → 设备。
+		3. n. 装置, 器具, 器官
+		4. _n._ [equipment](dic://equipment), [body part](dic://body part)
+			1. [apparatus](dic://apparatus) 既可指某种具体的由许多不同零件构成的复杂的仪器、装置或器械，又可指它们的总称。  
+			2. [instrument](dic://instrument) 通常指能使人们完成某一精确动作或测量的一种小型仪器，尤指电工仪表、测量装置，航海或航空用的控制装置。  
+			3. [device](dic://device) 多指为某一特殊用途或解决某一特定机械问题而设计或改装的精巧的仪器或装置。  
+			4. [equipment](dic://equipment) 多指成套的或重型的设备或装备。通常用作不可数名词。  
+			5. [tool](dic://tool) 一般指进行特种工作的手工工具，也可指人造使用动力的工具，还可作引申用。  
+			6. [implement](dic://implement) 原指史前人类所用的工具，现在多指农用工具，也可指为实现某个任务所需的工具或器具。  
+			7. [installation](dic://installation) 一般多指安装完成，可供使用或操作的整套装置或设施。  
+			8. [appliance](dic://appliance) 侧重指家用机器或设备，尤指家用电器。  
+			9. [facilities](dic://facilities) 常用复数形式，指可供使用的设备或设施。
+		5. **invention**发明;**wherein**在其中;**device**装置;**method**方法;**embodiment**体现;**equipment**设备;**system**系统;**subsystem**子系统;**plurality**复数;**operable**可操作的;**transmitting**传送;
+		6. the apparatus of government. /政府的内部结构。
+		7. the neuroendocrine apparatus in birds /鸟体内神经内分泌器官
+		8. the respiratory apparatus; the digestive apparatus. /呼吸器官；消化器
+		9. There is sports apparatus in the gym. /体育馆里有体育器材。
+		10. And defector groups are no match for North Korea's security apparatus. /另外，叛逃者团伙无法与朝鲜安全机构对抗。
+		11. Democritus did not have access to modern electronic apparatus. /德谟克里特斯当年并没有现代的电子设备可以利用。
+		12. And that is part of the hearing apparatus. /那是听觉器官的一部分。
+		13. Then she touched the lighting apparatus, and the little room was plunged into darkness. /随后她按了一下照明设备，这个小小房间立刻沉入一片黑暗里。
+	5. apparel
 		1. ap-加强 + par-看见 + el → 穿出来给别人看的 → 衣服。
-	5. parade
+	6. parade
 		1. par-准备 + -ade=-ate。
 		2. parade [pə'reɪd] n.游行；阅兵；炫耀；行进，v.游行；炫耀；列队行进。词根par-在这里是准备之意。莫斯科红场阅兵，其实深层次表达的是“we are prepared or ready for any challenge or war”。美国海岸警卫队的格言是SEMPER PARATUS，意思就always be prepared，semper=sem+per=always the same。
 		3. parade-ground
@@ -3584,7 +3604,7 @@
 		7. separative
 		8. separator
 		9. separatory
-	10. parapet
+	9. parapet
 		1. 1.parapet ['pærəpɪt] n.栏杆；扶手；矮护墙。para-在这里并不是如paradox悖论和paradise天堂及paralysis瘫痪中的前缀para-表around,abnormal等，而是词根par-表准备，在这里表抵挡、防卫等。parapet中的-pet不是宠物，而是词根pect-表胸腔经过意大利语后的变体，于是parapet是起防卫作用的“胸墙”。  
 		2. 2.parasol ['pærəsɒl] 是遮挡（par-）阳光（词根sol-表太阳，如solar太阳的）的遮阳伞；parachute ['pærəʃuːt]是减缓降落（chute的词根是cad,cas，表to fall down，如occident西方的是太阳落山的方向）的降落伞。而法语中的雨伞是parapluie，词根pluv-表示雨水、冲洗，雨伞就是用来挡雨的啦。
 		3.  [breastwork](dic://breastwork) 
@@ -3594,7 +3614,7 @@
 		7. Why now? Why was I sticking my head above the parapet? /为什么是现在？ 为什么选择站出来面对大众？
 		8. " He can see by leaning over the parapet" /“他可以靠在栏杆上看到” 。
 		9. Lean your elbows on the parapet and look over /把你的手肘靠在栏杆上， 往下看。
-	11. vituperate
+	10. vituperate
 		1. vt. 辱骂, 责骂
 		2. vitu-过错、伤害 + per-准备 + -ate, 表动词。
 		3. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)

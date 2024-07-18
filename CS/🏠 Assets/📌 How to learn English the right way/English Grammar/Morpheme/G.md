@@ -4862,6 +4862,115 @@
 9. warm
 
 
+### + \*gwhi- +
+1. **fil, fili-** = thread, 表示“线条”。源自拉丁语 filum "thread."
+	1. filigree
+	2. filing
+		1. _n._ [submission](dic://submission), [entry](dic://entry), [fragment](dic://fragment), [formation](dic://formation), [shaping](dic://shaping), [storage](dic://storage)
+		2. **filings**锉屑;**paperwork**文书工作;**lawsuit**诉讼;**complaint**抱怨;**bankruptcy**破产;**petition**请愿;**pending**未决定的;**divorce**使离婚，使分离;**IRS**美国国税局;**lawsuits**诉讼，法律诉讼;**affidavit**宣誓书;
+	3. fillet
+	4. filament
+		1. _n._ 细丝(如电灯泡内的灯丝)
+		2. _adj._ 细丝状的
+		3. _adj._ 有细丝的
+		4.  [fibril](dic://fibril), [strand](dic://strand)
+		5. [filum](dic://filum)
+		6. _n._ [fiber](dic://fiber), [fibre](dic://fibre), [stalk](dic://stalk), [stem](dic://stem), [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part)
+		7. **lumen**流明;**bulb**电灯泡;**extrusion**挤出,推出,喷出,赶出;**fibres**纤维;**cathode**阴极;**extruded**压出的;**anode**阳极;**spool**缠绕;**elongation**延伸;**monomer**单体;**lumens**流明，腔;
+		8. _filament winding_ 纤维缠绕；灯丝绕阻；灯丝电源绕组
+		9. _filament yarn_ 长丝纱线
+		10. _continuous filament_ 连续纤
+		11. 维；连续长丝；丝状纤维
+		12. _tungsten filament_ [电]钨丝_intermediate filament_ 中间丝状体
+		13. _filament lamp_ 白炽灯
+		14. each myosin filament is usually surrounded by 12 actin filaments. /每根肌浆球蛋白丝通常都围有12根肌动蛋白丝。
+		15. Now observe well these strange filaments on its abdomen /现在好好看看它腹部奇怪的细丝。
+		16. These can create lovely sheets, tendrils, and filaments in nebulae as well. /这些也可以在星云中创造出可爱的片状、卷须和丝状物。
+		17. 
+	6. filar
+		1. adj. 丝的；丝状的
+	7. filaria
+	8. filarial
+	9. filariasis
+	10. filature
+		1. n. 缫丝, 缫丝机
+	11. file
+		1. n. 档案, 公文箱, 文件夹, 文件, 卷宗; 锉刀; 纵列  
+		2. vi. 列队行进, 用锉刀做  
+		3. vt. 归档, 申请, 锉, 琢磨
+		4. rank and file民众；普通士兵；普通成员。国际象棋传入西方后，在12世纪的法国非常流行，一些象棋术语也开始进入民众之中。国象棋盘上的横列称作rank，纵列称作file，这样rank and file就是棋盘上的所有士兵并随后通俗化指普通民众了。Therewas widespread support for him among the rank and file. ​​​​
+		5. 来自拉丁语 filum,线，词源同 filament.引申词义文件，文献，因古代文献多用线缝合。  
+		6. 来自 PIE*peig,砍，切，字母 g 脱落，词源同 pigment,picture.用做工具名。拼写比较 rule,regulate.
+		7. unfile
+			1. - vt. 从文件（或记录）中移除
+		8. Telefile
+		9. subfile
+		10. refile
+		11. netfiles
+		12. multifile
+		13. monofile
+		14. misfile
+		15. microfile
+		16. metafile
+		17. mathfile
+		18. makefile
+		19. flatfile
+		20. filer
+		21. filname
+		22. filefish
+		23. end-of-file
+		24. defile
+			1. vt. 污损，弄脏；染污 
+			2. n. 狭谷；隘路 
+			3. vi. 以纵队前进
+			4. de-向下 + fil-踩，践踏，引申词义玷污。2. 狭道 de-向下，强调 + file, 线，文件。即如同一条线，一线天，用来指山中狭径。
+			5. de-,向下，-fil,踩，践踏，词源同 foil,full（漂洗，洗衣）。引申词义玷污。 
+			6. de-,向下，表强调，file,线，文件。即如同一条线，一线天，用来指山中狭径。
+			7. [gorge](dic://gorge)
+			8. [sully](dic://sully), [corrupt](dic://corrupt), [taint](dic://taint), [cloud](dic://cloud)
+			9. [tarnish](dic://tarnish), [stain](dic://stain), [maculate](dic://maculate), [sully](dic://sully)
+			10. [foul](dic://foul), [befoul](dic://befoul), [maculate](dic://maculate)
+			11. _n._ [pass](dic://pass), [mountain pass](dic://mountain pass), [notch](dic://notch)
+			12. _v._ [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate), [spot](dic://spot), [fleck](dic://fleck)
+			13. **lest**唯恐，以免;**purify**净化;**unclean**不纯洁的;**destroy**毁坏;**slay**杀害;**offend**冒犯;**obstruct**阻塞;**wickedness**邪恶;**gorge**峡，峡谷;**sinful**有罪的;
+			14. defile a river with sewage. /用污水弄脏河流
+			15. defile a temple /亵渎庙宇
+			16. I felt defiled by the filth. /我觉得这些脏话玷污了我。
+			17. the tomb had been defiled and looted. /这坟墓被亵渎盗掠了。
+			18. Rivers are often defiled by waste from factories. /河水常被工厂中的废物污染。
+			19. a country landscape that was defiled by urban sprawl. /被市区的发展破坏的乡村风景
+			20. I allowed my own daughter to be defiled by that man. /我让我的女儿给那家伙玷污。
+			21. The train entered the defiles of the Sutpour Mountains, which separate the Khandeish from Bundelcund, towards evening. /傍晚，在堪地士邦和本德尔汗德之间，火车驶进了苏特甫山丛的狭道里。
+			22. She is claimed. Yet dares to defile the blood laws. /她已被捕 竟敢玷污血法。
+			23. To the south stretched the defile, or rather broken plain, so often mentioned. /向南延伸着峡谷，或者更确切地说是破碎的平原，经常被提及。
+			24. undefiled
+			25. defiler
+			26. defilement
+				1. n. 污秽；弄脏；污辱
+				2. [befoulment](dic://befoulment), [pollution](dic://pollution)
+				3. _n._ [dirtiness](dic://dirtiness), [uncleanness](dic://uncleanness)
+				4. **impurity**杂质;**immorality**不道德,无道义;**idolatry**偶像崇拜;**unclean**不纯洁的;**filth**猥亵;**wickedness**邪恶;**sin**过失;**transgression**犯罪;**holiness**神圣;**sinful**有罪的;**carnal**肉体的;
+				5. and all the spoils you divided among your favored sons, who burned with zeal for you, and in their abhorrence of the defilement of their kinswoman, called on you for help /你的子民为了你的嫉愤而嫉愤，憎恨自己的血液所受的玷污，而哀求了你的援助。
+				6. Proust’s argument is that defilement during sex isn’t what it seems. /普鲁斯特的论点是， 性行为中的污秽并不像表面上看起来的那样。
+				7. It rises superior to its defilement and needs no Pears' soap to wash it clean. /它超越了它的污秽， 不需要 Pears 的肥皂来清洗它。
+				8. Early readers of Proust’s novel were puzzled by and heavily critical of this scene of erotic defilement. /普鲁斯特小说的早期读者对这种色情污秽的场景感到困惑和严厉批评。
+				9. It was simple and, since both Helmholtz and the Savage were dreadfully pained by the shattering and defilement of a favourite poetic crystal, extremely effective. /这动作虽简单，却非常有效，因为破坏或玷污一首他们喜爱的水晶样的诗歌能给予赫姆霍尔兹和野蛮人严重的痛苦。
+				10. To free from dirt, **defilement**, or guilt; purge or clean. /使清洁，清洗使免除灰尘、玷污或罪责；洗净或清除。
+			27. defilade
+		25. cross-file
+		26. cardfile
+		27. backfile
+		28. autofile
+	12. filiform
+	13. filose
+	14. filoselle
+	15. profile
+		1. profilometer
+		2. profilogrpah
+		3. profilist
+		4. profiling
+
+
 ### +\*gwn- +
 1. **gyn-, gynec-** = woman, 表示“妇女”。源自希腊语 gune "woman."
 	1. gynaecocracy, gynecocracy

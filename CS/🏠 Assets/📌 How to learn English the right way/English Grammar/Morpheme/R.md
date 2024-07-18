@@ -71,7 +71,8 @@
 		17. cut-rate
 		18. birthrate
 		19. berate
-		20. 
+			1. vt. 严责
+			2. be-强调 + rate【责骂】。
 	4. ratify
 		1. [validate](dic://validate), [formalize](dic://formalize), [formalise](dic://formalise)
 		2. **enact**扮演;**approve**批准;**treaty**条约，协议;**accord**一致;**legislate**制定法律;**veto**否决权;**amend**修正;**unanimously**全体一致地;**constitution**宪法;**authorize**授权, 批准;**pact**条约;
@@ -359,7 +360,7 @@
 		5. First, to avoid interference from other bears, they often carry captured salmon to the stream bank or into the riparian (streamside) forest before eating. /熊在成年后大部份时间都独来独往，只在春、夏两季保留数星期求偶。
 		6. Riparian landowners in all states (including those with appropriative water laws)generally have rights to use their adjoining surface waters for such nonconsumptive uses as fishing and recreation. /所有州的拥有河岸土地的人（包括那些享有合理性权利的人），都有在不不损耗地表水的前提下使用水资源的权利，如钓鱼.消遣.娱乐。
 		7. In the Western U.S., the lower 48, aspen, second to riparian systems, are the most biodiverse forests that we have. /在位于美国西部的下48州，就生物多样性的丰富程度来说，山杨林仅次于河岸系统。
-4.  rip (riff, reap)
+4.  rip (riff, reap, rift)
 	1. 来自 Proto-Germanic*ruppona,撕，拉，来自 PIE*reup,拉，扯，抢夺，词源同 rob,rupture.引申诸相关词义。
 	2. [rake](dic://rake), [rakehell](dic://rakehell), [profligate](dic://profligate), [blood](dic://blood), [roue](dic://roue)
 	3.  [rent](dic://rent), [snag](dic://snag), [split](dic://split), [tear](dic://tear)
@@ -391,18 +392,26 @@
 	29. a fan tried to rip his trousers off during a show. /在演出中一个狂热仰慕者试图扯下他的裤子。
 	30. Whose hair are you ripping out? ” /你去拔谁的头发？”
 	31. Development should be planned, not let rip. /开发前需要规划，而不任其发展。
-	32. unrip
+	23. once you are happy with the image, you can rip it out /只要你对图像满意，就可以把它扫描出来。
+	24. the body of the woman to the right is modelled in softer, riper forms. /右边女子的体形表现得更柔和、更成熟。
+	25. if inflation is let rip, the government would almost certainly perish at the polls. /如果听任通货膨胀迅速发展，政府在大选中几乎肯定会彻底失败。
+	27. the fans wanted to see him rip the gizzards out of bad guys. /影迷们想看到他把坏蛋剖腹挖心。
+	28. Wow! You didn't rip off any buttons. /哇！你没拉掉任何扣子。
+	29. Can you mend this rip in my jacket? /你能补我夹克内的这个裂缝吗？
+	30. Cool down, Harry! What are you really mad about? Did you get ripped off?  /哈里，消消气！你怎么了？买东西被宰了？
+	31. Lady, I could give a rip about your politics. /女士 我一点都不关心你的政治观点。
+	33. unrip
 		1. vt. 割开；撕开；透露
-	33. riptide
-	34. ripsnorting
-	35. ripsnorter
-	36. ripsaw
+	34. riptide
+	35. ripsnorting
+	36. ripsnorter
+	37. ripsaw
 		1. [splitsaw](dic://splitsaw)
 		2. _n._ [handsaw](dic://handsaw), [hand saw](dic://hand saw), [carpenter's saw](dic://carpenter's saw)
 		3. **saws**锯片;**blade**刀片，刀锋;**chainsaw**用链锯割,肢解;**lathe**用车床加工;**jig**跳吉格舞;**cutter**刀具，切割机;**grinder**研磨者;**blades**刀刃;
-	37. riproaring
-	38. ripping
-	39. ripper
+	38. riproaring
+	39. ripping
+	40. ripper
 		1. n. 撕裂者；粗齿锯；裂具
 		2. _jack the ripper_ 开膛手杰克（英国伦敦系列凶杀案的凶手绰号）
 		3. _n._ [murderer](dic://murderer), [liquidator](dic://liquidator), [manslayer](dic://manslayer)
@@ -412,13 +421,13 @@
 		7. Ripper is a good expression when something's going well or it's good like " ah ripper! " /当事情进展顺利时，ripper 是一个很好的表达，比如说“ah ripper！”
 		8. And I was like, woof, we've got a ripper here. /我心想，哇， 这真是一场可怕的大火啊。
 		9. And the good time's probably here and a ripper of a time and an ace time is like like maybe a little bit lower. /而 good time 差不多是这么好，而 a ripper of a time 比这要好，然后 an ace time 大概差一点点。
-	40. ripoff
-	41. ripcord
+	41. ripoff
+	42. ripcord
 		1. _n._ [cord](dic://cord)
 		2. **parachute**降落伞;**chute**斜槽;**pull**拉;**webbing**带子，边带;**rope**绳，绳索;**tether**系绳;**sheath**鞘;
 		3. n. 开伞索
-	42. rip-roarious
-5. reap
+	43. rip-roarious
+6. reap
 	44. [harvest](dic://harvest), [glean](dic://glean)
 	45. [draw](dic://draw)
 	46. _v._ [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together), [derive](dic://derive), [gain](dic://gain)
@@ -429,7 +438,7 @@
 	51. the company is poised to reap the benefits of this investment. /该公司做好准备收获这一投资的收益。
 	52. The ground must have been ploughed, and sowed, and harrowed, and reaped /首先得犁地，再播种，还要耙地，最后才能收获。
 	53. But not everyone is reaping the benefits /但并非每个人都得以从中受益。
-6. rift (rip)
+7. rift (rip, bereave, rupture)
 	1. n. （人际关系）不和，分歧；裂缝，裂口；地堑，裂谷 
 	2. v. 开裂，断裂；使断裂，使开裂
 	3. [rupture](dic://rupture), [breach](dic://breach), [break](dic://break), [severance](dic://severance), [falling out](dic://falling out)
@@ -443,8 +452,8 @@
 	11. The sun appeared through a rift in the clouds /太阳从云层间隙中冒出来。
 	12. These rugged limestone hills in a rift valley. /这些崎岖不平的石灰岩山丘位于裂谷之中。
 	13. The fallout from last month's failed coup has deepened a rift between Ankara and its Western allies. /上个月军变发生以后，土耳其与西方同盟分歧加深。
-7. rigatoni
-8. rive
+8. rigatoni
+9. rive
 	1. _vt._ 猛地劈开[撕开]
 	2. 劈开(木头或石头)
 	3. [rend](dic://rend), [rip](dic://rip), [pull](dic://pull)
@@ -457,13 +466,13 @@
 	10. They'd be riven to bits, ere ever they'd be different'. /他们会被撕成碎片，在他们变得不同之前。
 	11. This plant now looks entirely at home on the banks of English rives. /这种植物现在看起来完全像在英国河流岸边的家。
 	12. He planted a rice paddy, an upland rive and some glutinous rice /他种植水稻、旱稻和糯米。
-9. reeve
+10. reeve
 	1. n. 地方行政官，城镇长官；（村镇议会的）民选议长；雌性流苏鹬 
 	2. v. （绳索）穿过；把（绳、滑轮）缚紧
 	3. _n._ [ruff](dic://ruff), [Philomachus pugnax](dic://Philomachus pugnax)
 	4. _v._ [pass through](dic://pass through)
 	5. **constable**警察;**councillor**政务会委员;**warden**看守人;**mayor**市长;**miller**碾磨工;**treasurer**司库,财务主管;**abbot**男修道院院长;**lord**上帝;**sheriff**州长;**township**镇区;**trustee**受托人;
-10. rope
+11. rope
 
 
 ### + \*reie- + = to flow, run
@@ -1200,28 +1209,30 @@
 			5. raptured
 			6. enrapture
 	3. rapacious
-		1. _adj._ [aggressive](dic://aggressive), [acquisitive](dic://acquisitive), [gluttonous](dic://gluttonous)
-		2. _n._ [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive), [unacquisitive](dic://unacquisitive), [abstemious](dic://abstemious)
-		3. **greedy**贪婪的;**predatory**食肉的;**ruthless**无情的，残忍的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**insatiable**不知足的;**murderous**蓄意谋杀的;**savage**残酷的;**tyrannical**暴君的,暴君似的;**opportunistic**机会主义的;**greed**贪婪，贪心;**malevolent**有恶意的;
-		4. _[rapacious demands](dic://rapacious%20demands)_ 贪婪的需要
-		5. _[rapacious creditor](dic://rapacious%20creditor)_ 贪婪的债权人; 贪婪债权人; 
-		6. _[rapacious aggressor](dic://rapacious%20aggressor)_ 血盆大口
-		7. _[rapacious market](dic://rapacious%20market)_ 掠夺性市场
-		8. rapacity
+		1. rap-夺 + -acious多…的 → 夺得多的 → 强夺的。
+		2. a. 强夺的, 贪欲的, 贪婪的
+		3. _adj._ [aggressive](dic://aggressive), [acquisitive](dic://acquisitive), [gluttonous](dic://gluttonous)
+		4. _n._ [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive), [unacquisitive](dic://unacquisitive), [abstemious](dic://abstemious)
+		5. **greedy**贪婪的;**predatory**食肉的;**ruthless**无情的，残忍的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**insatiable**不知足的;**murderous**蓄意谋杀的;**savage**残酷的;**tyrannical**暴君的,暴君似的;**opportunistic**机会主义的;**greed**贪婪，贪心;**malevolent**有恶意的;
+		6. _[rapacious demands](dic://rapacious%20demands)_ 贪婪的需要
+		7. _[rapacious creditor](dic://rapacious%20creditor)_ 贪婪的债权人; 贪婪债权人; 
+		8. _[rapacious aggressor](dic://rapacious%20aggressor)_ 血盆大口
+		9. _[rapacious market](dic://rapacious%20market)_ 掠夺性市场
+		10. rapacity
 			1. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [voracity](dic://voracity), [voraciousness](dic://voraciousness)
 			2. [avarice](dic://avarice), [greed](dic://greed), [covetousness](dic://covetousness), [avaritia](dic://avaritia)
 			3. _n._ [gluttony](dic://gluttony), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
 			4. **greed**贪婪，贪心;**arrogance**傲慢;**plunder**抢夺;**hubris**傲慢;**selfishness**自私;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**excesses**越轨;**folly**愚蠢;**greedy**贪婪的;**insatiable**不知足
-	4. rapine
+	5. rapine
 		1. _n._ [plundering](dic://plundering), [pillage](dic://pillage), [pillaging](dic://pillaging)
 		2. **plunder**抢夺;**treachery**背信弃义, 不忠, 背叛;**wickedness**邪恶;**conquest**征服，战胜;**bloodshed**流血,虐杀;**looting**抢劫;**greed**贪婪，贪心;**violence**激烈;**immorality**不道德,无道义;**mayhem**大混乱, 大破坏;**lust**性欲;
 		3. n. 掠夺；劫掠
 		4. _[rapine and red ruin](dic://rapine%20and%20red%20ruin)_ 掠夺和火灾; 劫掠和纵火焚烧;
 		5. Each hour, dark fraud, or open rapine, or protected murder, cries out against them /每一刻，恶毒的欺骗，公开强夺，抑或保护起来的谋杀，大声反对他们。
 		6. Not only no great convulsion, but no sensible disorder, arose from so great a change in the situation of more than 100,000 men, all accustomed to the use of arms, and many of them to rapine and plunder. /十万多人的处境发生了如此巨大的变化，不仅没有引起剧烈的痉挛，而且也没有引起任何理智上的紊乱，他们都习惯了使用武器，其中许多人还习惯于掠夺和掠夺。
-	5. raven
+	6. raven
 		1. misc-
-	6. ravage
+	7. ravage
 		1. [depredation](dic://depredation)
 		2. [harry](dic://harry)
 		3. [lay waste to](dic://lay waste to), [waste](dic://waste), [devastate](dic://devastate), [desolate](dic://desolate), [scourge](dic://scourge)
@@ -1232,16 +1243,16 @@
 		8. _[the ravages of inflation](dic://the%20ravages%20of%20inflation)_ 通货膨胀的恶果
 		9. _[the ravages of war](dic://the%20ravages%20of%20war)_ 战争的创伤
 		10. _[the ravages of bridge pier](dic://the%20ravages%20of%20bridge%20pier)_ 桥墩剥蚀
-	7. ravin
+	8. ravin
 		1. _[ravin](dic://ravin)_  n. 掠夺；掠夺物；猎食; adj. 狼吞虎咽的；贪婪的; vt. 狼吞虎咽；大嚼; n. (Ravin)人名；(法)拉万；(俄、塞)拉温;
-	8. ravine
+	9. ravine
 		1. _n._ [valley](dic://valley), [vale](dic://vale)
 		2. **hillside**山坡，山腹;**canyon**峡谷;**gorge**峡，峡谷;**creek**小溪;**valley**山谷;**embankment**路堤;**cliff**绝壁;**wooded**树木繁茂的;**hill**小山;**cliffs**悬崖，峭壁;**river**河，江;
 		3. the ravine pitches down to the creek. /峡谷向下倾斜直至溪边。
 		4. The river had worn a ravine between the hills. /那条河在两山之间已造成一个深谷。
 		5. The city is built on the rock rising out of ravines. /这座城市建在高出峡谷的岩石上
-	9. rapid
-	10. usurp
+	10. rapid
+	11. usurp
 		1. us-用 + urp[=rape抢掠] → 抢过来用 → 篡夺。
 		2.  [assume](dic://assume), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
 		3. _v._ [take](dic://take), [supplant](dic://supplant), [replace](dic://replace), [supersede](dic://supersede), [supervene upon](dic://supervene upon), [supercede](dic://supercede)
@@ -1433,58 +1444,163 @@
 ### + \*reub-, \*reup- +
 1. **rupt-** = break, 表示“断裂”。源自拉丁语 rumpere "to break."
 	1. abrupt
-		1. abruptness
-		2. abruptly
-		3. abruption
-	2. bankrupt
-		1. bankruptcy, semibankruptcy
-	3. corrupt
-		1. uncorruptible
-		2. uncorrupted
-		3. incorruptness
-		4. incorrupt
-		5. corruptness
-		6. corruptly
-		7. corruptive
-		8. corruption
-		9. corrutible
-		10. corruptibility
-	4. disrupt
+		1. ab-离开 + rupt-断裂 → 断开 → 突然断开 → 突然的。
+		2. a. 突然的, 唐突的, 陡峭的, 不连贯的
+		3. abruptness
+		4. abruptly
+		5. abruption
+	3. bankrupt
+		1. n. 破产者  
+		2. a. 破产的  
+		3. vt. 使破产
+		4. bank（银行）：货币兑换商堆放货币的条凳  
+		5. 最早的埃及银行家和英国货币兑换商是坐在寺庙内或圣殿庭院内的条凳上经营业务的。在中世纪，意大利的放债者也是用一张小条凳在市场上开展业务。《圣经》中提到耶稣清理圣殿，其实就是掀翻了这些货币兑换商在圣殿中的条凳。表示“银行”的英语单词bank源自拉丁语banca，意思是“条凳”，与英语单词bench（条凳）同源。  
+		6. 当货币兑换商因资金缺乏而被迫中断业务时，他们的条凳就会被拆掉。这种做法在拉丁文写作banca rupta，英语中表示破产的单词bankrupt正是由此而来的，其中rupt相当于broken。习语break the bank（倾家荡产）也源于此。  
+		7. bank：[bæŋk] n.银行，河岸vt.将存入银行vi.堆积  
+		8. banker： ['bæŋkɚ] n. 银行家；银行业者；掘土工  
+		9. bankrupt：['bæŋkrʌpt] vt.使破产adj.破产的n.破产者  
+		10. bankruptcy：['bæŋkrʌptsi] n. 破产  
+		11. break the bank：倾家荡产  
+		12. bench： [bɛntʃ] n. 长凳；工作台；替补队员vt. 给…以席位；为…设置条凳
+		13. bankruptcy, semibankruptcy
+	5. corrupt
+		1. a. 腐败的, 贪污的, 讹误充斥的  
+		2. vt. 使腐烂, 腐蚀, 使恶化  
+		3. vi. 腐烂, 堕落
+		4. - cor-,表强调，-rupt,破，断裂，词源同 rupture,bankrupt.后词义外延扩大。
+		5. cor-全部 + rupt-断 → 全部断 → 变坏的 , 腐败的。
+		6.  [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [vitiate](dic://vitiate), [deprave](dic://deprave), [misdirect](dic://misdirect)
+		7. [spoil](dic://spoil)
+		8.  [bribe](dic://bribe), [buy](dic://buy), [grease one's palms](dic://grease one's palms)
+		9. [defile](dic://defile), [sully](dic://sully), [taint](dic://taint), [cloud](dic://cloud)
+		10. [crooked](dic://crooked)
+		11. [corrupted](dic://corrupted)
+		12. [tainted](dic://tainted)
+		13. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [pay](dic://pay), [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil)
+		14. _adj._ [corrupted](dic://corrupted), [debased](dic://debased), [vitiated](dic://vitiated), [corruptible](dic://corruptible), [bribable](dic://bribable), [dishonest](dic://dishonest), [purchasable](dic://purchasable)
+		15. _n._ [incorrupt](dic://incorrupt), [perfect](dic://perfect), [fresh](dic://fresh)
+		16. **corruption**堕落;**crooked**弯曲的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**incompetent**无能力的;**dishonest**不诚实的;**inept**不适当的;**greedy**贪婪的;**immoral**不道德的;**depraved**堕落的;**crooks**钩状物;**sleazy**质地薄的;
+		17. _corrupt practice_ 弊端；行贿；舞弊行为
+		18. _foreign corrupt practices act_ 反国外行贿法规
+		19. uncorruptible
+		20. uncorrupted
+		21. incorruptness
+		22. incorrupt
+		23. corruptness
+		24. corruptly
+		25. corruptive
+		26. corruption
+		27. corrutible
+		28. corruptibility
+	7. disrupt
 		1. disruptor
 		2. disruptive
 		3. disruption
 		4. disrupter
-	5. erupt
+	8. erupt
 		1. preeruptive
 		2. posteruptive
 		3. eruptive
 		4. eruption
-	6. interrupt
+	9. interrupt
 		1. etc..
-	7. irrupt
-		1. irruptive
-		2. irruption
-	8. rupture
-		1. prerupture
-	9. bereft
-		1. [lovelorn](dic://lovelorn), [unbeloved](dic://unbeloved)
-		2. [bereaved](dic://bereaved), [grief-stricken](dic://grief-stricken), [grieving](dic://grieving), [mourning(a)](dic://mourning(a)), [sorrowing(a)](dic://sorrowing(a))
-		3. _adj._ [unloved](dic://unloved), [sorrowful](dic://sorrowful)
-		4. **devoid**缺乏的;**lacking**缺乏的;**destitute**赤贫的, 贫苦的;**incapable**无能力的, 不会的;**utterly**完全地;**absent**缺席的;**deprived**缺少食物的;**hopelessly**绝望地;**adrift**漂浮着的;**wretched**可怜的;**distraught**心烦意乱;
-	10. reave
-		1. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
-		2. **slay**杀害;
-		3. reaved
-		4. bereave, bereavement
-			1. bereaved
+	10. irrupt
+		1. v. 突然冲入，闯进；（鸟类等）大量迁移
+		2. ir-,进入，使，-rupt,破开，断开，词源同 bankrupt,interrupt.
+		3. [intrude](dic://intrude)
+		4. [erupt](dic://erupt), [flare up](dic://flare up), [flare](dic://flare), [break open](dic://break open), [burst out](dic://burst out)
+		5. [explode](dic://explode)
+		6. _v._ [enter](dic://enter), [come in](dic://come in), [get into](dic://get into), [get in](dic://get in), [go into](dic://go into), [go in](dic://go in), [move into](dic://move into)
+		7. **erupt**爆发;**southward**南方;**inhabit**居住于;**invade**侵略;**disperse**使散开;**northward**向北方;**flocks**短纤维，废毛铁;**violently**猛烈地;**migrate**移动;**occur**发生;
+		8. the spectre of social revolution once again irrupted into a confident capitalist world. /社会变革的幽灵又一次闯入了信心十足的资本主义世界。
+		9. irruptive
+			1. adj. 突入的；爆发的；急剧增加的
+			2. _[irruptive](dic://irruptive)_  adj. 突入的；爆发的；急剧增加的
+			3. _[irruptive rock](dic://irruptive%20rock)_  侵入岩
+			4. Traditionally various subphase belts for **irruptive** rock body are studied and analyzed by mainly drilling well and coring /传统上对侵入岩体各亚相带的研究和判断，主要通过钻井取心来认识。
+		10. irruption
+			1.  [outbreak](dic://outbreak), [eruption](dic://eruption)
+			2. _n._ [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [ingress](dic://ingress), [incoming](dic://incoming), [population growth](dic://population growth), [happening](dic://happening)
+			3. **emergence**出现;**eruption**爆发，喷发;**manifestation**显示;**upheaval**剧变;**invasion**侵犯;**insurrection**暴动;**phenomenon**现象;**migratory**迁移的;
+			4. Sunspots are caused by irruptions into its surface of the sun's deeper magnetism /太阳黑子是由入侵活动进入太阳深层磁性表面造成的。
+			5. Over the period which Dr Penn and Dr Livingston analysed, the average magnetic strength of the irruptions has declined. /佩恩和利文斯顿博士分析表明，入侵活动的平均磁场强度已有所下降。
+			6. But, there was no loud irruption into the courtyard, as he had expected, and he heard the gate clash again, and all was quiet. /只是，院子里并没有像他预料的那样大声闯入，他又听到了大门的撞击声，一切归于平静。
+			7. The results are of great significance for preventing floor water **irruption**. /试验成果对防治底板承压水的突出具有较大的意义。
+			8. 
+	1. rupture (rapture)
+		1. 来自拉丁语 rumpere,破开，断开，-pt,过去分词格，来自 PIE*reup,抓，抢，撕开，词源同 rob,rip.
+		2. n. 破裂, 断裂, 裂开, 决裂, 不和  
+		3. v. (使)破裂
+		4.  [breach](dic://breach), [break](dic://break), [severance](dic://severance), [rift](dic://rift), [falling out](dic://falling out)
+		5.  [tear](dic://tear), [snap](dic://snap), [bust](dic://bust)
+		6. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [separation](dic://separation), [breakup](dic://breakup), [detachment](dic://detachment)
+		7. _v._ [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide), [part](dic://part)
+		8. **fracture**破裂，断裂;**puncture**刺穿;**aneurysm**动脉瘤;**deformation**损形;**rift**裂口;**disintegration**瓦解;**fracturing**破裂;**dislocation**转位;**hemorrhage**出血;**leak**漏洞，裂缝;**burst**爆炸;
+		9. _rupture strength_ 抗裂强度；断裂强度
+		10. _creep rupture_ 蠕变断裂
+		11. _rupture of membranes_ 胎膜破裂；羊水破裂
+		12. _tendon rupture_ 肌腱破裂
+		13. _fatigue rupture_ 疲劳破坏
+		14. _modulus of rupture_ 断裂模量；破裂模数；弯曲极限强度；抗裂系数
+		15. _stress rupture_ 应力破坏，应力破断
+		16. _premature rupture of membrane_ 胎膜早破
+		17. _rupture disk_ 爆破片；防爆膜
+		18. if the main artery ruptures he could die. /如果主动脉破裂，他可能会死掉。
+		19. the impact ruptured both fuel tanks /冲击使两个燃料箱破裂了。
+		20. the rupture with his father would never be healed. /他与父亲关系的破裂永远无法恢复。
+		21. prerupture
+	2. reave
+		23. v. 剥夺, 抢走
+		24. 来自古英语 reafian,抢劫，来自 Proto-Germanic*raubjon,抢走，来自 PIE*reup,抢走，抓走，词源同 rob,rip.常见于复合词 bereave,剥夺，丧失亲人。
+		25. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
+		26. **slay**杀害;
+		27. reaved
+		28. bereave
+			1. vt. 使孤寂, 使丧失, 使失去
+			2. be-强调 + reave【剥夺】，词源同rip, rob。
+			3. _v._ [deprive](dic://deprive), [strip](dic://strip), [divest](dic://divest)
+			4. **grieve**使悲伤，使苦恼;**deprive**使丧失，剥夺;**mourn**哀悼;**bereaved**丧失的;**sorrow**悲伤;**thy**你的;**slay**杀害;**ye**Yemen 也门;**doth**从事;**thee**你;**lest**唯恐，以免;
+			5. the affliction of a bereaved family; /一个失去了亲人的家庭的痛苦；
+			6. He was bereaved of his wife last year. /去年他痛失爱妻。
+			7. He did his best to beseech them but still was bereaved of life in the end. /他尽力哀求他们但最终仍然被夺去生命。
+			8. Even if they rear children, I will **bereave** them of every one. /纵然养大儿女、我却必使他们丧子、甚至不留一个。
+			9. Nothing can **bereave** us of such sweet memories /没有什么东西可以夺去我们这样甜蜜的记忆。
+			10. bereft
+				1. a. 缺少的, 丧失的, 失去亲人的
+				2. be-强调 + reft-剥夺，词源同rip, rob。
+				3. [lovelorn](dic://lovelorn), [unbeloved](dic://unbeloved)
+				4. [bereaved](dic://bereaved), [grief-stricken](dic://grief-stricken), [grieving](dic://grieving), [mourning(a)](dic://mourning(a)), [sorrowing(a)](dic://sorrowing(a))
+				5. _adj._ [unloved](dic://unloved), [sorrowful](dic://sorrowful)
+				6. **devoid**缺乏的;**lacking**缺乏的;**destitute**赤贫的, 贫苦的;**incapable**无能力的, 不会的;**utterly**完全地;**absent**缺席的;**deprived**缺少食物的;**hopelessly**绝望地;**adrift**漂浮着的;**wretched**可怜的;**distraught**心烦意乱;
+				7. They are bereft of their dignity /他们被夺去了尊严
+				8. Anger bereft him of words. /愤怒使他说不出话来。
+				9. Indignation bereft him of speech /他愤怒得说不出话来。
+				10. murder left innocent people bereft and unfriended. /谋杀使无辜者无亲无故。
+				11. her room was stark and bereft of colour. /她的房间气氛凄凉，而且色彩单调。
+				12. The rites for why I love him are bereft me /那些令我爱他的仪式将离我而去。
+				13. She leant against Dad, sounding bereft. /’她靠在爸爸身上，听起来很失落
+			11. bereavement
+				15. _n._ 亲人丧亡；丧失亲人,丧亲之痛
+				16. _n._ [sadness](dic://sadness), [sorrow](dic://sorrow), [sorrowfulness](dic://sorrowfulness)
+				17. **grief**悲痛;**mourning**哀痛;**palliative**治标药物;**counselling**意见;**funeral**葬礼;**trauma**外伤;**illness**疾病;**grieve**使悲伤，使苦恼;**hospice**旅客招待所;**sadness**悲哀;**sorrow**悲伤;
+				18. _[bereavement crisis](dic://bereavement%20crisis)_ 丧亲危机
+				19. _[general bereavement damages](dic://general%20bereavement%20damages)_ 死亡赔偿金
+				20. _[bereavement of humanism](dic://bereavement%20of%20humanism)_ 人文精神缺失
+				21. She was absent because of a recent bereavement. /她因最近丧亲而缺席。
+				22. I sympathize with you in your bereavement. /我对你痛失亲人表示同情。
+				23. widow's bereavement allowance is an offset against income. /寡妇的亡夫补助金是对收入减少的弥补
+				24. It's because of the universalization of bereavement. /因为所有人都沉浸在战争带来的悲痛中。
+				25. These are bereavement cards, notes from floral arrangements. /这些是悼念卡，花篮摆放的便条。
+				26. Bereavements and blessings, one following another, make us sad and blessed by turns. /痛苦与幸福交替出现, 使得我们一会悲伤一会高兴。
+			12. bereaved
 				1. [bereaved person](dic://bereaved person)
 				2.  [bereft](dic://bereft), [grief-stricken](dic://grief-stricken), [grieving](dic://grieving), [mourning(a)](dic://mourning(a)), [sorrowing(a)](dic://sorrowing(a))
 				3. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 				4. _adj._ [sorrowful](dic://sorrowful)
 				5. **grieve**使悲伤，使苦恼;**deceased**已故的;**grief**悲痛;**distraught**心烦意乱;**mourning**哀痛;**mourn**哀悼;**funeral**葬礼;**funerals**丧葬;**victims**受害者，牺牲者;**widowed**鳏居的;**widows**寡妇;
-			2. _[bereave of](dic://bereave%20of)_  v. 使丧失
-			3. _[bereaved family](dic://bereaved%20family)_  遇难者家属; 死者家属;
-	12. route
+			13. _[bereave of](dic://bereave%20of)_  v. 使丧失
+			14. _[bereaved family](dic://bereaved%20family)_  遇难者家属; 死者家属;
+	3. route
 		1. sea-route
 		2. routing
 			1. etc..
@@ -1502,13 +1618,91 @@
 		6. reroute
 		7. misroute
 2. loot
+	1. n. 赃物, 洗劫, 抢夺  
+	2. v. 洗劫, 抢夺
+	3. 来自梵语 loptram,lotram,打劫，偷来的物品，来自 PIE*reup,抓，抢，词源同 rip,rob.后引申词义战利品。印欧语字母 r 在与梵语 l 发生了音变关系，如 light 对应梵语词 rocate,照耀，照明。
+	4.  [booty](dic://booty), [pillage](dic://pillage), [plunder](dic://plunder), [prize](dic://prize), [swag](dic://swag), [dirty money](dic://dirty money)
+	5. [boodle](dic://boodle), [bread](dic://bread), [cabbage](dic://cabbage), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [moolah](dic://moolah), [pelf](dic://pelf), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
+	6. [plunder](dic://plunder)
+	7. [plunder](dic://plunder), [despoil](dic://despoil), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
+	8. _n._ [stolen property](dic://stolen property), [money](dic://money)
+	9. _v._ [steal](dic://steal), [take](dic://take)
+	10. **plunder**抢夺;**raid**袭击;**dungeons**地下城;**spoils**赃物;**quests**过关模式;**raiders**突击者;**dungeon**地牢，土牢;**treasure**财富，财产;**hoard**储藏, 积存;**bandits**盗贼;**horde**游牧部落;
+	11. an orgy of looting and vandalism /大肆劫掠破坏
+	12. the shops had been looted and torched /商店被抢，被烧。
+	13. The mob looted many shops in the area. /暴徒在该地抢劫了许多商店。
+	14. looter
+		1. [plunderer](dic://plunderer), [pillager](dic://pillager), [spoiler](dic://spoiler), [despoiler](dic://despoiler), [raider](dic://raider), [freebooter](dic://freebooter)
+		2. [thief](dic://thief), [stealer](dic://stealer)
+		3. **thief**小偷，贼;**robber**强盗;**thieves**小偷;**thug**暴徒;**bandit**强盗;**robbers**盗贼;**bandits**盗贼;**plunder**抢夺;**burglar**夜贼，窃贼;**raiders**突击者;**mob**暴徒;
+	15. looting
+		1. [robbery](dic://robbery)
+		2. **plunder**抢夺;**rioting**暴乱;**theft**盗窃;**confiscation**没收,充公,征用;**robbing**回采矿柱;**destruction**破坏, 毁灭, 消灭;**riots**暴动;**stealing**偷窃;**hoarding**贮藏;**riot**暴乱;**bloodshed**流血,虐杀;
+		3. an orgy of looting and vandalism /大肆劫掠破坏
+		4. police confronted the protestors who were looting shops /警察碰到了正在抢劫商店的抗议者。
+		5. The people are growing scared. There has been some looting. /子民越来越担心。有人劫粮。
 3. rib
-4. rip
+	1. n. 肋骨; 排骨; 肋状物, 肋拱, 肋材; 凸起花纹  
+	2. v. 嘲笑, 戏弄; 装肋状物于
+	3. n. 肋骨；排骨（肉），肋条（肉）；肋骨状物（构成船、房顶等骨架的金属或木质等）；（编织）罗纹，罗纹花样；叶的脉纹（尤指叶的主脉），（昆虫的）翅脉；（岩石的）脉纹，（田地上的）垄 
+	4. v. <旧，非正式>（友善地）开……的玩笑，取笑；形成拢起的条纹（或脊坡）；装肋于
+	5. 来自古英语 ribb,肋骨，来自 Proto-Germanic*rebja,肋骨，来自 PIE*rebh,覆盖，屋顶，词源同reef.引申词义排骨，棱纹等。  
+	6. 可能来自 rib,肋骨。比喻用法，捅别人的肋骨以逗乐。
+	7. [costa](dic://costa)
+	8. [ridicule](dic://ridicule), [roast](dic://roast), [guy](dic://guy), [blackguard](dic://blackguard), [laugh at](dic://laugh at), [jest at](dic://jest at), [make fun](dic://make fun), [poke fun](dic://poke fun)
+	9. _n._ [support](dic://support), [bone](dic://bone), [os](dic://os), [cut](dic://cut), [cut of meat](dic://cut of meat), [remark](dic://remark), [comment](dic://comment)
+	10. _v._ [knit](dic://knit), [mock](dic://mock), [bemock](dic://bemock)
+	11. **steak**牛排;**bone**骨;**shank**胫;**thigh**大腿，股;**fillet**无骨的鱼或肉排;**femur**股骨;**brisket**胸肉;**forearm**前臂;**vertebrae**椎骨;**shoulder**肩，肩膀;**braised**炖熟的;
+	12. _arch rib_ 拱肋
+	13. _rib cage_ 胸腔
+	14. The ribs of the umbrella are strong. /雨伞的骨架非常结实。
+	15. She nudged him playfully in the ribs. /她开玩笑地用胳膊肘触了触他的肋骨。
+	16. Probably shattered every rib he had. /他的肋骨大概全断了.
+	17. There's prime rib, mahi-mahi and a very special lobster ravioli /有烤肋排，鬼头刀鱼 跟特制龙虾饺子。
+	18. sparerib
+	19. ribbing
+	20. ribbed
+	21. midrib
+4. rip (rift, reep)
+	1. rei-(1)
 5. rob
-6. robe
-7. rout
-8. rub away
-9. ruble
+	1. v. 抢夺, 抢掠, 剥夺
+	2. robe：古代抢劫所得最主要的掠夺品  
+	3. 英语单词robe（长袍）和rob（抢劫）在拼写上如此接近，它们在词源上有何渊源呢？原来，它们都来自古日耳曼语，拥有相同的词源。robe原本表示“战利品”。由于古代打劫或作战时获得的主要战利品就是敌人身上的衣服，因此robe一词才逐渐产生了“衣服”的含义，通常表示比较高档的礼服、长袍。  
+	4. rob：[rɒb] v.抢劫，掠夺  
+	5. robber：['rɑbɚ] n. 强盗；盗贼  
+	6. robbery：['rɑbəri] n. 抢劫，盗窃；抢掠  
+	7. robe：[rəʊb] n.长袍，制服，礼服  
+	8. bathrobe： ['bæθrob] n. 浴衣；睡衣
+	9. robbery
+	10. robber
+	11. robe
+6. rout
+	1. n. 溃败, 大败, 乌合之众, 盛大晚会  
+	2. vt. 使溃败, 使败逃, 打垮, 用鼻拱, 挖起, 搜, 唤起  
+	3. vi. 用鼻拱地, 搜
+	4. n. 溃败；溃退；聚众闹事者；嘈杂的人群；捣乱分子；盛大晚会 
+	5. v. 彻底击败，打垮；（使）溃退；（动物）用鼻子拱；在（木料或金属表面）刻纹
+	6. 来自中古法语 route,溃败的军队，来自拉丁语 rupta,分开的，断开的，来自 rumpere,分开，断开，词源同 rip,rob,rupture.
+	7. [mob](dic://mob), [rabble](dic://rabble)
+	8. [rout out](dic://rout out), [expel](dic://expel)
+	9. [root](dic://root), [rootle](dic://rootle)
+	10. [gouge](dic://gouge)
+	11. [spread-eagle](dic://spread-eagle), [spreadeagle](dic://spreadeagle)
+	12. _n._ [crowd](dic://crowd), [defeat](dic://defeat), [licking](dic://licking)
+	13. _v._ [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [dig](dic://dig), [delve](dic://delve), [cut into](dic://cut into), [turn over](dic://turn over)
+	14. **defeat**击败，战胜;**victory**胜利;**second-half**下半年的;**blowout**喷出;**triumph**胜利，凯旋;**victorious**胜利的;**rally**集会;**first-half**上半年;**retreating**再加工,再精制;**skirmish**小冲突，小规模战斗;**stalemate**僵局;
+	15. _put to rout_ 击溃；打垮
+	16. This means value investors missed out on years of growth, but also dodged the recent rout. /这意味着价值投资者错过了多年来的增长，但也躲过了最近的暴跌。
+	17. But the rout in tech stocks was not evenly spread. /但科技股并不是都在暴跌。
+	18. The rout in British gilts was the most dramatic element of a wider sell-off in government bonds. ./英国金边债券暴跌是政府债券大范围抛售最显著的因素。
+	19. One after another the Italian bases in the desert fell as the retreat turned into a **rout**. /当撤退转变为溃败时，意大利在那个沙漠中的基地接连失守。
+	20. Even Biden's Senior aides were surprised by the rout. /就连拜登的高级助手对这次胜出都颇为意外。
+7. rub away
+8. ruble
+	1. n. 卢布(俄国货币)
+	2. 俄罗斯货币单位，来自法语 rouble,卢布，来自俄罗斯语 rubl',最终来自 PIEreub,砍，切，劈，词源同 rift,rip,rob.即切下来的金属。词义演变比较 pound.
+	3. 
 
 
 ### + \*reudh- +
@@ -1600,6 +1794,81 @@
 11. rust
 12. 
 
+
+### + \*reue- +
+1. **room-, rum-** 表示“空间”。
+	2. room
+		1. 来自古英语 rum,空间，范围，来自 Proto-Germanic*ruma,空间大的，广阔的，来自 PIE*reue,展开，宽广，词源同 rural,rustic.引申词义房间，室。
+		2. drawing room客厅；休息室。不要顾名思义了，这里不是让你画画的地方，而是withdrawing room的缩短式。withdraw[wɪð'drɔː] v 撤退；收回；拉开；离开，这个也不要去想当然，这里的with-是其古意，表away,against。餐后，讲究礼节的贵族妇女要从餐厅“撤退”到客厅里，客厅因此叫withdrawing room。 ​​​​
+		3. n. 房间, 空位, 场所  
+		4. vi. 住宿, 居住  
+		5. vt. 留宿
+		6. etc.
+	4. rummage
+		1. v. 仔细翻寻, 仔细搜查, 检查出  
+		2. n. 仔细翻找, 查出的物件
+		3.  vt. 检查；搜出；仔细搜查；翻找出
+		4. n. 检查；翻找；查出的物件；零星杂物
+		5. vi. 仔细搜查；翻找
+		6. rummage ['rʌmɪdʒ] vt&amp;vi.检查；仔细搜查；翻找出，n.翻找；检查；查出的物件。单词的前半部分rumm-同room，本意是将货物堆放到船上的屋子（船舱）里。They rummage through piles of secondhand clothes for something that fits.清仓大甩卖，就是rummage sale。 ​​​​
+		7. rum-,屋子，室，词源同 room,-age,名词后缀。原义为检查船舱堆放货物是否捆绑牢固，后引申词义乱翻，搜寻。
+		8. [ransacking](dic://ransacking)
+		9. _n._ [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter), [smother](dic://smother)
+		10. _v._ [search](dic://search)
+		11. **thrift**节俭;**peruse**详细考察;**sifting**过筛，过滤;**sift**筛选;**scour**冲刷;**stash**藏匿处;**hoard**储藏, 积存;**sale**出售;**scouring**洗擦;**cupboard**食橱;**pile**堆;
+		12. He had a good rummage inside the sofa. /他把沙发内部彻底搜寻了一翻。
+		13. she rummaged in her capacious handbag. /她在她的大手提包里翻找。
+		14. Dumbledore was now rummaging in a cupboard behind Harry and Ron. /邓布利多在哈利和罗恩身后的一个柜子里摸索着。
+		15. But for investors rummaging for bargains, the drop is a gift. /但对于搜寻便宜货的投资者来说，跌幅是一件礼物。
+3. **rust-, rur-** = country, 表示“农村”。源自拉丁语 rus "open land."
+	1. rustic (bucolic, )
+		1. n. 乡下人, 乡巴佬  
+		2. a. 乡村的, 纯朴的, 手工粗糙的
+		3. rust-农村 + -ic表形容词
+		4. - 来自拉丁语 rusticus,乡村的，平原的，来自 rus,开阔地，乡村，词源同 room,rural.
+		5. [countrified](dic://countrified), [countryfied](dic://countryfied)
+		6. [bumpkinly](dic://bumpkinly), [hick](dic://hick), [unsophisticated](dic://unsophisticated)
+		7. [arcadian](dic://arcadian), [bucolic](dic://bucolic), [pastoral](dic://pastoral)
+		8. [agrestic](dic://agrestic)
+		9. _n._ [commoner](dic://commoner), [common man](dic://common man), [common person](dic://common person)
+		10. _adj._ [rural](dic://rural), [provincial](dic://provincial)
+		11. _n._ [urban](dic://urban), [cosmopolitan](dic://cosmopolitan)
+		12. **farmhouse**农舍;**earthy**土的;**homey**舒适的;**homely**平凡的;**decor**装饰，布置;**chic**时髦;**quaint**离奇有趣的;**décor**装饰;**charming**迷人的;**elegant**高雅的，优雅的;**whimsical**异想天开的,闹着玩的;
+		13. a rustic bridge. /一座粗面石工桥。
+		14. you are a rustic halfwit /你是个土里土气的傻瓜。
+		15. The cottage has a rustic grace and beauty. /这个木棚有一种乡间的优雅和美丽。
+		16. the country squires dreaded the exposition of their rustic conversation. /乡绅们害怕他们粗俗的谈话被揭露。
+		17. Suppers are evening food.Simple, sometimes rustic, but always comforting and tasty. /晚餐在晚间食用 简单质朴，然而舒心美味。
+		18. Last thing to do, the herbs are going in, but really rustic. /最后一件事，把香草放进去，非常质朴。
+		19. This spinning technique produces a silk that is rustic, thick and strong. /这种纺线技术做出的丝布较为质朴厚而结实。
+		20. rusticity
+		21. rusticate
+			1. v. 到农村去, 过乡村生活, 住在农村; 使成粗面石工
+			2. - v. （尤指在牛津、剑桥）罚（大学生）暂时停学；下乡；（使）成粗面石工；退归林下
+			3. 
+			4. rustic【a. 乡村的】 + -ate, 表动词
+			5. _v._ [reside](dic://reside), [shack](dic://shack), [domicile](dic://domicile), [domiciliate](dic://domiciliate), [banish](dic://banish), [ban](dic://ban), [suspend](dic://suspend)
+			6. **abode**住处;**posh**漂亮的;**expel**驱逐;**oust**剥夺;
+			7. rustication
+				1. _n._ [condition](dic://condition), [status](dic://status), [construction](dic://construction), [building](dic://building), [retirement](dic://retirement), [suspension](dic://suspension), [temporary removal](dic://temporary removal)
+				2. **expulsion**喷出, 排出;**stucco**粉饰，粉刷;**sandstone**砂岩;
+				3. But the rest of the villa was for a different kind of rustication -the play of intellect. /但别墅余下的部分有着完全不同的风格, 是智慧上演的地方。
+		22. rustically
+	2. rural
+		1. a. 乡下的, 田园的, 乡村风味的
+		2.  来自拉丁语 ruralis,乡村的，来自 rus,开阔地，乡村，来自 PIE*reue,展开，词源同 room,rustic.
+		3. ruralize
+			1. vt. 使成田园风味, 使农村化  
+			2. vi. 在农村生活
+		4. rurality
+		5. ruralist
+		6. ruralism
+	3. roister
+		1. vi. 大摇大摆, 摆架子, 喧闹, 闹饮
+		2. roisterous
+			1. a. 作威作福的, 饮酒取乐的
+			2. roister【摆架子, 喧闹】 + -ous表形容词，是单词roister 派生的形容词。
+		3. roisterer
 
 
 ## rh
