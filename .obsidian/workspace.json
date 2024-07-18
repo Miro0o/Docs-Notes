@@ -78,20 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "959d27a984b53955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md"
               }
             }
           },
@@ -249,17 +236,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "959d27a984b53955",
+  "active": "556f27d019c730b6",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📌 Morpheme.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
     "CS/🗺 CS Overview/CS of The Year/2024.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture Overview.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer System Hardware Development.md",
@@ -275,8 +264,6 @@
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🎛️ OS Core Software Package/GNU Coreutils.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
     "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation & Compilation Theory (Compile-time)/Program Language Translation & Compilation Theory (Compile-time).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory/Automata Theory.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/3D Creation Suites",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/(3D) Graphics Rendering Frameworks",
     "Assets/Pics/Pasted image 20240715223048.png",

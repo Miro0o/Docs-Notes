@@ -918,8 +918,8 @@
 		5. poor-spirited
 		6. poor-mouth
 	6. poverty, poverty-stricken
-	7. pullet
-		1. 1 - 来自古法语 poule,小母鸡，来自拉丁语 pullus,小动物，家禽，来自 PIE*pulo,小动物，来自PIE*pau,小的，少的，词源同 few,foal,filly.-et,小词后缀。
+	7. pullet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
+		1. 来自古法语 poule,小母鸡，来自拉丁语 pullus,小动物，家禽，来自 PIE*pulo,小动物，来自PIE*pau,小的，少的，词源同 few,foal,filly.-et,小词后缀。
 		2.  [fryer](dic://fryer), [frier](dic://frier)
 		3. _n._ [chicken](dic://chicken), [poulet](dic://poulet), [volaille](dic://volaille), [hen](dic://hen), [biddy](dic://biddy)
 		4. **hen**母鸡;**rooster**公鸡;**poultry**家禽;**coop**把…关进笼子里;**chicken**小鸡;**broiler**酷热的日子;**hatching**剖面线;**egg**蛋;**eggs**鸡蛋;**quail**感到恐惧;**breeder**饲养员;
@@ -4131,6 +4131,10 @@
 		1. **inconceivable**不可思议的;**conceivable**可想到的, 可相信的, 可想像的;**incomprehensible**费解的;**unimaginable**不能想象的;**imaginable**可想像的;**understandable**能懂的;**unthinkable**不能考虑的, 不能接受的, 不可想像的, 难以置信的;**plausible**貌似真实的，貌似有理的;**justifiable**可证明为正当的;**inexplicable**无法说明的;**comprehend**理解, 领会;
 	19. unfathomable
 	20. unfathomed
+6. pallet  (mallet, pullet, pellet, pallet, mullet, millet, ballet)
+	1. 来自拉丁语 pala,铲，铁锹，可能缩写自 patella,小盘子，来自 patina 的小词形式，词源同pan,patella,paddle.-et,小词后缀。引申词义托盘。  
+	2. 来自拉丁语 palea,草，词源同 paliasse.
+	3. 
 
 
 ### + \*peue- +
@@ -5040,7 +5044,7 @@
 		1. a. 棉花的, 轻飘飘的, 有绒毛的
 	11. pelage
 		1. n. 毛皮
-	12. pellet
+	12. pellet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
 		1. n. 颗粒状物, 小子弹, 小药丸  
 		2. vt. 使成颗粒, 使成团, 用子弹打
 		3. [shot](dic://shot)

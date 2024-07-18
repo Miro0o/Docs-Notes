@@ -4622,6 +4622,111 @@ tags: []
 
 
 ## wi
+### + \*wino- +
+1. **oen-** = wine, 表示“葡萄酒”。源自希腊语 oinos "wine."
+	1. enology
+		1. n. 葡萄酒酿造学
+	2. oenology
+		1. n. 酿酒学, 葡萄酒工艺学
+		2. oen-葡萄酒 + -ology学，学科
+2. **vin-** = wine, 表示“葡萄，葡萄酒”。源自拉丁语 vinum "wine."
+	1. viniculture
+	2. viniferous
+	3. vino
+	4. vinometer
+	5. vinosity
+	6. vinaceous
+	7. vinaigrette
+	8. vine
+	9. vinegar
+		1. n. 醋；尖酸，刻薄
+		2. [acetum](dic://acetum)
+		3. _n._ [condiment](dic://condiment), [acetic acid](dic://acetic acid), [ethanoic acid](dic://ethanoic acid)
+		4. **balsamic**香胶或香脂的;**cornstarch**玉蜀黍淀粉;**vinaigrette**色拉调味汁;**mayonnaise**蛋黄酱;**sauce**调味汁;**marinade**腌泡汁;**ketchup**番茄酱;**cider**苹果汁;**soda**苏打;**peroxide**过氧化物;**buttermilk**脱脂乳,酪乳;
+		5. _fruit vinegar_ 果醋；水果醋
+		6. _apple vinegar_ 苹果醋
+		7. _cider vinegar_ 苹果醋
+		8. _white vinegar_ 白醋
+		9. _rice vinegar_ 米醋；白醋
+		10. _balsamic vinegar_ 香醋
+		11. _wine vinegar_ 酒醋
+		12. strong light; strong vinegar; strong cologne. /强烈的光线；味道很浓的醋，浓郁的古龙香水
+		13. prepared mustard thinned with vinegar and getable oil with sugar and seasonings. /精制的芥末，掺有醋、食用油、糖和调味品。
+		14. Chinese codex(2000 edition)said that processing of ruddle is to calcine it thoroghly and quench with vinegar and grind it into meal /《中国药典》2000年版规定,对代赭石的炮制要用“煅至红透,醋淬,碾成粗粉的方法”。
+		15. Unseam if after cooling. To serve, cut it into round slices and dip them in mashed garlic, vinegar and other sauces. /食用时切成圆形薄片，佐以蒜泥、香醋、酱料等，是一道独特的风味食品。
+	11. vinery
+		1. [vineyard](dic://vineyard)
+		2. _n._ [farm](dic://farm)
+		3. **vineyard**葡萄园;**winery**酿酒厂;**vines**一件衣服;**orchard**果园;**vine**葡萄树;**grape**葡萄;**orchards**果园;**grapes**葡萄;**wine**酒，葡萄酒;**garden**菜园;**gardens**花园
+	12. vinous
+		1. [vinaceous](dic://vinaceous)
+		2. _adj._ [wine](dic://wine), [vino](dic://vino)
+		3. **fruity**有果味的;**malty**麦芽的;**wines**葡萄酒;**mouthfeel**口感;**wine**酒，葡萄酒;**palate**腭;**Riesling**雷司令;**malt**麦芽;**acidity**酸度;**aftertaste**回味;**aroma**芳香;
+	13. vintage
+		1. _n._ (优良品牌的)葡萄酒
+		2. 收获葡萄酿酒(的期间或季节)
+		3. 一个收获季节采得的葡萄(所酿的酒)
+		4. 酿酒;酿造年份
+		5. 某年代的产品;年代
+		6. _adj._ (葡萄酒)上等的
+		7. 最佳的;最典型的
+		8. 古色古香的;古老的
+		9.  [time of origin](dic://time of origin)
+		10. _n._ [wine](dic://wine), [vino](dic://vino), [oldness](dic://oldness)
+		11. **antique**古老的，年代久远的;**retro**制动火箭,减速火箭;**antiques**古玩，古董;**classic**杰作;**collectible**可收集的,可代收的;**handmade**手工的;**deco**装饰派艺术;**funky**畏缩的;**nostalgic**对往事怀恋的, 怀旧的;**memorabilia**纪念物;**throwback**返回;
+		12. _vintage wine_ 佳酿；精制葡萄酒
+		13. _vintage car_ 老式汽车
+		14. vintage claret. /高档红葡萄酒。
+		15. The 1983 vintage was one of the best /1983年酿制的酒是最好的一种。
+		16. This piece of music is vintage Bach. /这首乐曲是巴赫的代表作。
+		17. This front section is true vintage. /前面这块区域是复古服饰。
+		18. A vintage car still sits out front /它的门口依旧停着一辆古董车。
+		19. 2003 was a particularly fine **vintage**. /2003年是特别好的酿酒年份。
+	14. vintner
+	15. viny
+		1. adj. 葡萄树的；多葡萄藤的
+	16. vignette
+		1. n. 装饰图案；小插图
+		2. vt. 把……印放为虚光照，晕映
+		3. n. 梗概，简介，花絮
+		4.  [sketch](dic://sketch)
+		5. _n._ [description](dic://description), [photograph](dic://photograph), [photo](dic://photo), [exposure](dic://exposure), [pic](dic://pic), [sketch](dic://sketch), [study](dic://study)
+		6. **montage**蒙太奇;**portrait**肖像;**close-up**特写镜头;**picture**照片，图画;**scene**情景;**flashback**闪回;**whimsical**异想天开的,闹着玩的;**sketch**素描;**illustration**说明;**photo**照片;**centerpiece**中心装饰品;
+		7. A lack of narrative drive leaves the reader with piecemeal vignettes. /述缺乏吸引力，读者读到的只是一些支离破碎的片段。
+		8. Another vignette indelibly imprinted in my memory bank: While walking along a trail, I came upon a flock of small birds that seemed to be mobbing something;had they noticed an owl or a snake? /我还记得有次漫步在林间小路上时，看到了一群受到攻击而惊吓的小鸟，到底是猫头鹰还是蛇在攻击牠们呢？
+		9. But he wrote about that too, in poignant, crystalline vignettes about his upbringing and travels. /但他也同样这样写过这些，就写在那些关于教训和人生旅行的辛酸和水晶般的小拼图中。
+		10. This quartet takes the story from present to past and back again in a series of sparklingly humorous vignettes. /这样一个四重奏，用一系列幽默的小插曲，把过去与现在穿插起来。
+		11. Okay, here's where the stupid vignettes were. /行 无厘头的故事碎片都在这。
+		12. The editor offers to buy Frank's twelve-hundredword vignette, “The Lady in the Trunk, ” for twenty-five dollars plus a dozen cc's—contributor's copies. /编辑提出要采用弗兰克写的一篇小文，全文只有一千二百单词，题为《箱中女子》，稿费是二十五美元，再加十二本样刊。
+		13. It's these vignettes of relationships that never have the ending that you imagined or the perfect ending, which I think is not realistic. /这些关系的小插曲，从来没有你想象中的完美结局，我认为这并不现实。
+		14. The book is an excellent **vignette** of some of the major debates in science. /这本书非常清晰且扼要地介绍了科学界的一些主要争议。
+	17. vinyl
+		1.  [vinyl group](dic://vinyl group), [vinyl radical](dic://vinyl radical)
+		2. _n._ [group](dic://group), [radical](dic://radical), [chemical group](dic://chemical group), [plastic](dic://plastic)
+		3. **cassette**盒式磁带;**turntable**转盘;**reissue**重新发行;**PVC**聚氯乙烯;**acrylic**丙烯酸的;**plastic**可塑的;**tape**磁带;**tapes**胶纸带;**acetate**醋酸盐;**fiberglass**玻璃纤维;**flooring**地板材料;
+		4. _vinyl acetate_ [化]醋酸乙烯酯
+		5. _vinyl chloride_ 氯乙烯；氯化乙烯
+		6. _vinyl ester_ 乙烯基酯；乙烯酯
+		7. _vinyl alcohol_ 乙烯醇
+		8. _vinyl resin_ 乙烯树脂
+		9. _vinyl ether_ [化]乙烯醚
+		10. _vinyl group_ 乙烯基群
+		11. _vinyl polymer_ [化]乙烯基聚合物
+4. wine
+	1. winy
+	2. winevault
+	3. wineskin
+	4. wineshop
+	5. winery
+	6. winepress
+	7. winegrower
+	8. wineglass
+	9. winebowl
+	10. winebibber
+	11. winebag
+	12. wine-cup
+
+
 ### with- 表示“向后，相反”。
 1. withdraw
 	1. with-向后 + draw → 向后拉 → 撤回。
@@ -4705,35 +4810,81 @@ tags: []
 		1. _[evirate](dic://evirate)_  vt. 阉割
 	3. triumvir
 	4. virile
-		1. characterized by energy and vigor
-		2. characteristic of a man
-		3. (of a male) capable of copulation
-		4. [male](dic://male), [manful](dic://manful), [manlike](dic://manlike), [manly](dic://manly)
-		5. _adj._ [strong](dic://strong), [masculine](dic://masculine)
-		6. _n._ [weak](dic://weak), [feminine](dic://feminine)
-		7. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
-		8. virility
+		1. - adj. 男性的；有男子气概的；刚健的
+		2. vir-男人 + -ile, 表形容词。
+		3. 来自拉丁语 vir,男人，英雄，来自 PIE*wi-ro,男人，自由人，可能进一步来自 PIE*weie,追寻，渴求，猎捕，词源同 win,Venus.
+		4. 重男轻女的思想自古就有，中外概莫能免。英语单词virtue就反映了这种思想。它来自拉丁语virtus，词根是vir（男人），同根词有virile（男性的，有男子气概的）。virtue的基本含义是“男人的能力和功效”。其隐含之意就是男性是世界的创造者，男人创造世界凭借的就是这种virtue。英语短语by virtue of（凭借）用的正是virtue的本意，即“功效”。除了“功效”外，virtue一词还往往被译为“美德”、“德性”，主要指“英勇、勇敢、刚毅”等与男人气概相关的道德品质，其实归根到底还是指男人气概的“功效”。virtue还可以用来表示女性的美德，但主要指“贞操”，即“忠诚于男性”这一美德。所以不妨可以把virtue理解为“男德”。在古罗马，有一个广受崇拜的神祇维尔图斯（Virtus），其实就是virtue的人格化和神化。  
+		5. 由virtue衍生出来的单词virtual（虚拟的）更能体现virtue的本意。virtual指的是“虽然并不客观存在，但却能产生一样的功效，从功效上看相当于存在一样。”最常见的就是网络上的虚拟人物、虚拟物品、虚拟场景。  
+		6. virtue（美德）：男人的能力和功效  
+		7. virtue： ['vɜːtjuː; -tʃuː] n.美德，贞操，优点，功效  
+		8. virile： ['vɪraɪl] adj.男人的，有男人气概的，刚健的  
+		9. virility：[və'rɪləti]  n. 男子气；男子特点；生殖力  
+		10. virtual： ['vɜːtjʊəl] adj.虚拟的，几乎是事实的
+		11. characterized by energy and vigor
+		12. characteristic of a man
+		13. (of a male) capable of copulation
+		14. [male](dic://male), [manful](dic://manful), [manlike](dic://manlike), [manly](dic://manly)
+		15. [potent](dic://potent)
+		16. _adj._ [strong](dic://strong), [masculine](dic://masculine)
+		17. _n._ [weak](dic://weak), [feminine](dic://feminine)
+		18. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
+		19. a strong, virile performance of the Mass. /充满活力的弥撒曲表演。
+		20. She loved the virile young swimmer. /她爱上了那个有男子气概的年轻游泳运动员。
+		21. I was really great, I tore off the antenna, and I felt very virile. /我真的很厉害，我一把扯掉它的天线，感觉自己特威猛。
+		22. Jacques-Louis David's portrait of 1805 obsequiously shows him charging across the Alps on a virile white horse. /1805年，雅克·路易斯·大卫奉承地画了一幅肖像画，画中的拿破仑骑着一匹雄壮的白马，正跃过阿尔卑斯山。
+		23. Roy sank his virile bulk into one of my landlady's armchairs and I offered him a whisky and soda /罗伊那强壮的身体一下子坐到我的女房东的一把扶手椅中，我端给他一杯威士忌加苏打。
+		24. All examples of the thrusting, virile, long-lasting stamina of male achievement. /男性成就的冲刺、阳刚、持久耐力的所有例子。
+		25. The act of killing a tiger is seen as a virile feat of masculinity /杀死老虎的行为被视为男子气概的壮举。
+		26. virility
 			1. **libido**性欲;**masculinity**男性;**manhood**成年;**vigor**活力，精力;**potency**威力, 力量;**impotence**阳萎;**vitality**活力，生气;**stamina**耐力，持久力，毅力;**testosterone**睾丸激素;**physique**体格，体形;**femininity**妇女特质,柔弱性,温柔;
-		9. virilism
-		10. viriligenic
-		11. virilia
-		12. virilescence
-		13. subvirile
-		14. invirility
-	5. virtue
-		1. virtuous
-		2. virtueless
-		3. virtual
-	6. virtuoso
+		27. virilism
+		28. viriligenic
+		29. virilia
+		30. virilescence
+		31. subvirile
+		32. invirility
+	6. virtue
+		1. n. 高尚的道德，德行；美德，优秀品质；优点，长处；<古>（尤指妇女的）贞操；功效；（传统基督教天使学）道德天使（天国九级制度的第七级）（virtues）
+		2. [virtuousness](dic://virtuousness), [moral excellence](dic://moral excellence)
+		3. [merit](dic://merit)
+		4. [chastity](dic://chastity), [sexual morality](dic://sexual morality)
+		5. _n._ [good](dic://good), [goodness](dic://goodness), [worth](dic://worth), [morality](dic://morality)
+			1. [merit](dic://merit) 指有值得赞扬的优点，但不一定是出类拔萃。  
+			2. [virtue](dic://virtue) 指人或物的优点长处，指人的美德。  
+			3. [pefection](dic://pefection) 指达到了理想或完美的程度。
+		6. **inherent**固有的;**piety**虔诚;**necessity**必要;**humility**谦卑，谦逊;**propriety**①礼貌,规矩;**virtuous**有道德的;**morality**道德;**selfishness**自私;**intrinsic**固有的, 内在的, 本质的;**holiness**神圣;**merit**优点，价值;
+		7. _virtue of_ 借助，由于；有…优点
+		8. _by virtue of_ 由于，凭借
+		9. _in virtue of_ 由于；凭借
+		10. _virtue education_ 思想教育
+		11. _have the virtue of_ 具有…的优点
+		12. _of easy virtue_ (女人)水性杨花的
+		13. _virtue and vice_ 善与恶
+		14. Virtue is the antipode of selfishness. /道德与自私相反。
+		15. a parade of knowledge and virtue; /知识和美德的炫耀；
+		16. virtues are the flip side of vices. /善是恶的对立面。
+		17. hope is the mean virtue between despair and presumption. /希望是居于绝望和奢望之间的一种美德。
+		18. lapse from good virtue into vice /堕落, 变坏
+		19. Vanity and virtue do not go together. /虚荣与美德不是共生物。
+		20. They're bad by virtue of their very nature. /它们的害处源于其本身。
+		21. virtuous
+		22. virtueless
+		23. virtual
+	8. virtuoso
 		1. someone who is dazzlingly skilled in any field
 		2. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
-		3. virtuosity
-		4. _n._ [expert](dic://expert), [musician](dic://musician)
-		5. _adj._ [skilled](dic://skilled)
-		6. _n._ [unskilled](dic://unskilled)
-		7. **pianist**钢琴家;**violinist**小提琴手;**prodigy**奇迹，奇事;**masterful**善于控制别人的;**cellist**大提琴演奏家;**violin**小提琴;**musician**音乐家;**soloist**独唱者;**saxophonist**萨克斯管吹奏者;**musicianship**音乐技巧;**guitarist**吉他弹奏者;
-	7. duumvir
-	8. quadrumvir
+		3. [consummate](dic://consummate), [masterful](dic://masterful), [masterly](dic://masterly)
+		6. _n._ [expert](dic://expert), [musician](dic://musician)
+		7. _adj._ [skilled](dic://skilled)
+		8. _n._ [unskilled](dic://unskilled)
+		9. **pianist**钢琴家;**violinist**小提琴手;**prodigy**奇迹，奇事;**masterful**善于控制别人的;**cellist**大提琴演奏家;**violin**小提琴;**musician**音乐家;**soloist**独唱者;**saxophonist**萨克斯管吹奏者;**musicianship**音乐技巧;**guitarist**吉他弹奏者;
+		10. A new virtuoso has come to the fore. /已成为显赫人物的新艺术品鉴赏家
+		11. Made me out to be a violin virtuoso. /把我塑造成一个小提琴演奏家
+		12. He wasn't a grand virtuoso, like Franz Liszt. /他并非钢琴大师，这点和李斯特不一样。
+		13. Bruce in the martial arts world is a... you know, a virtuoso. /武术界的李小龙 就是一位艺术大家。
+		14. virtuosity
+	9. duumvir
+	10. quadrumvir
 2. **wer-** = man, 表示“男人”。源自古英语 wer "man."
 	1. werewolf
 		1. n. 狼人, 豺狼般的人
@@ -4745,7 +4896,7 @@ tags: []
 5. curial
 	1. a. 元老院的
 6. world
-	1. 1 - 缩写自古英语 worold,一段时间，人类，人类的存在，来自 wor-,人，男人，词源同virile,werewolf,old,老人，时代。字面意思即男人的时代，人的存在，后引申词义人的一生，今生，人世，人类的活动与事务，世界。
+	1. 缩写自古英语 worold,一段时间，人类，人类的存在，来自 wor-,人，男人，词源同virile,werewolf,old,老人，时代。字面意思即男人的时代，人的存在，后引申词义人的一生，今生，人世，人类的活动与事务，世界。
 	2. n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量
 	3. worldwide
 	4. worldly
@@ -4803,29 +4954,29 @@ tags: []
 		4. liquescent
 			1. _[liquescent](dic://liquescent)_  adj. 可液化的
 		5. liquilizer
-	3. deliquesce
-		1. de-离开 + liqu-湿 + -esce, 表示动作的起始
-		2. - vi. 液化；溶解；潮解
-		3. **evaporate**蒸发;**dissolve**使溶解;**precipitate**沉淀;**liquid**液体的;**spores**孢子;**dissolving**毁灭性的,消溶的;
-		4. deliquescent
+	2. deliquesce
+		7. de-离开 + liqu-湿 + -esce, 表示动作的起始
+		8. vi. 液化；溶解；潮解
+		9. **evaporate**蒸发;**dissolve**使溶解;**precipitate**沉淀;**liquid**液体的;**spores**孢子;**dissolving**毁灭性的,消溶的;
+		10. deliquescent
 			1. **crystalline**水晶的;**liquid**液体的;**vapour**蒸气;**vapor**蒸汽;**insoluble**不能解决的,不溶的;**gaseous**气态的，气体的;**soluble**可溶的，可溶解的;**amorphous**无定形的;**aqueous**水的，水般的;**alkali**碱;**powdery**粉的;
-		5. deliquescence
-	5. prolix (prole, prolific)
+		11. deliquescence
+	3. prolix (prole, prolific, profligate, proliferate)
 		1. 源自拉丁语 prolixus "poured forth," 词根：pro-向前 + lix-流动，液化，引申词义繁琐的，罗嗦的。
 		2. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
 		3. [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)
 		4. editing a prolix manuscript. /编辑冗长的稿子
-	6. liqueur, liquor
+	4. liqueur, liquor
 		1.  [spirits](dic://spirits), [booze](dic://booze), [hard drink](dic://hard drink), [hard liquor](dic://hard liquor), [John Barleycorn](dic://John Barleycorn), [strong drink](dic://strong drink)
 		2. **booze**酒;**alcohol**酒精，乙醇;**whiskey**威士忌酒;**beer**啤酒;**vodka**伏特加酒;**drink**喝，饮;**whisky**威士忌酒;**rum**古怪的;**beverage**饮料;**drinks**饮料，饮品;**wine**酒，葡萄酒;
 		3. [alcohol](dic://alcohol), [alcoholic beverage](dic://alcoholic beverage), [intoxicant](dic://intoxicant), [inebriant](dic://inebriant), [liquid](dic://liquid), [broth](dic://broth), [stock](dic://stock)
 		4.  [pot liquor](dic://pot liquor), [pot likker](dic://pot likker)
 		5. a splash of liqueur on the cake. /蛋糕上的少许甜酒
-	7. liquid
-	8. liquamatic
-	9. liquefactent
-	10. liquidensitometer
-	11. soliqueous
+	5. liquid
+	6. liquamatic
+	7. liquefactent
+	8. liquidensitometer
+	9. soliqueous
 3. **lixiv-** 表示“浸滤”。源自拉丁语 lixa "lye."
 	1. lixiviation
 	2. lixiviate
@@ -5033,7 +5184,7 @@ tags: []
 	4. ramjet
 	5. ramaway
 	6. ramble (gabble,)
-		1. 1. . 漫步；漫游；随笔
+		1. 漫步；漫游；随笔
 		2. vt. 漫步于… vi. 漫游；漫步；漫谈；闲逛；蔓延
 		2. [meander](dic://meander)
 		3. [ramble on](dic://ramble on), [jog](dic://jog)
