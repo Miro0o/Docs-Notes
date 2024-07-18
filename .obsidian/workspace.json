@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7ced21eeb5b0386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/刘遄/0x02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd0f3073afea94f8",
             "type": "leaf",
             "state": {
@@ -47,12 +34,64 @@
             }
           },
           {
-            "id": "17c17490863e73b2",
+            "id": "4bd3b488e9ba47b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation & Compilation Theory (Compile-time)/Program Language Translation & Compilation Theory (Compile-time).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db9a29284cb7602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd7b93ffdf55e6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🎛️ OS Core Software Package/GNU Coreutils.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "556f27d019c730b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "959d27a984b53955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
               }
             }
           },
@@ -210,44 +249,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "17c17490863e73b2",
+  "active": "959d27a984b53955",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/👧🏽 MARIE.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Microarchitectures (Computer Organization) & von Neumann Model.md",
-    "CS/🔑 CS Core/Hardware & EE Related/Devices Teardown.md",
-    "CS/🔑 CS Core/Hardware & EE Related/⚡️ Digital (Logic) Electronics Foundations/0x01 Logic Gate/Transistors.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/3D Creation Suites/Blender.md",
-    "CS/Software Engineering/Computer Graphics Programming.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/📌 Graphic Game Engines & Game Dev/Graphic Game Engines & Game Dev.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📌 Morpheme.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🗺 CS Overview/CS of The Year/2024.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture Overview.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer System Hardware Development.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer Architecture and Flynn's Taxonomy.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Microchips, Chips, Computer Chips & IC (in General).md",
+    "CS/🔑 CS Core/Hardware & EE Related/Hardware & EE Related.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Development of Computer System.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/History of Computer Networks.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/🦺 Operating System Basics/📌 Operating System Overview.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/🎛️ OS Core Software Package/GNU Coreutils.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation & Compilation Theory (Compile-time)/Program Language Translation & Compilation Theory (Compile-time).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory/Automata Theory.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/3D Creation Suites",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/(3D) Graphics Rendering Frameworks",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/Graphics Processing & GUI SDK.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Graphics Processing & GUI SDK/(3D) Graphics Rendering Frameworks/(3D) Graphics Rendering Frameworks.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Systems on Chip (SOC).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Motherboard & Mainboard.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer (Hardware) Components.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/Semiconductor Memory Technology & Memory Chips & RAM.md",
     "Assets/Pics/Pasted image 20240715223048.png",
     "Assets/Pics/Pasted image 20240715222937.png",
-    "CS/🔑 CS Core/Hardware & EE Related/Hardware Profiling.md",
     "Assets/Pics/Screenshot 2024-07-15 at 10.24.05 PM.png",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/Primary Storage (Main Memory) Technologies & RAM.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/Semi-conductor Media (Circuit) Storage & Flash Storage/SSD (Solid State Disk).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/Semi-conductor Media (Circuit) Storage & Flash Storage/Semi-conductor Media (Circuit) Storage & Flash Storage.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
-    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Display/Display.md",
     "Assets/Pics/Screenshot 2024-07-15 at 9.50.25 PM.png",
     "Assets/Pics/Screenshot 2024-07-15 at 9.50.01 PM.png",
     "Assets/Pics/Screenshot 2024-07-15 at 9.39.56 PM.png",
     "Assets/Pics/Screenshot 2024-07-15 at 9.39.26 PM.png",
     "Assets/Pics/Screenshot 2024-07-15 at 9.36.27 PM.png",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Computer Memory & Storage.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/SRAM Technology.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/💾 Disk Technology/Disk Technology.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/Flash Storage Technology.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/Future Data Storage.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/💾 Disk Technology/Disk Cache.md",
-    "CS/🔑 CS Core/Hardware & EE Related/⚡️ Digital (Logic) Electronics Foundations/Digital (Logic) Electronics Foundations.md",
     "Assets/Pics/Screenshot 2024-07-15 at 2.05.36 PM.png",
     "Assets/Illustrations/Computer System/OS_booting.excalidraw.svg",
     "CS/🔑 CS Core/Hardware & EE Related/🍏 Other Related Theories",

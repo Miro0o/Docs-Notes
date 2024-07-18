@@ -188,7 +188,8 @@ If you want to get fancy with `/proc/meminfo` you can use it in conjunction wi
 
 There are two projects on Github that are based on Google’s internal TCMalloc: This repository and [gperftools](https://github.com/gperftools/gperftools). Both are fast C/C++ memory allocators designed around a fast path that avoids synchronizing with other threads for most allocations.
 
-This repository is Google’s current implementation of TCMalloc, used by ~all of our C++ programs in production. The code is limited to the memory allocator implementation itself.
+This repository is Google’s current implementation of TCMalloc, used by all of our C++ programs in production. The code is limited to the memory allocator implementation itself.
+
 
 
 ## Ref

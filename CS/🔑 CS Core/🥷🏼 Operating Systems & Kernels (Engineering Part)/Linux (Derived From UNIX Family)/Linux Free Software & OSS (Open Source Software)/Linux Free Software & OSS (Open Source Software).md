@@ -63,6 +63,9 @@ Linux 命令搜索
 https://learnku.com/server/wikis/40214
 server - wikis | 一些常用命令解释
 
+https://github.com/ibraheemdev/modern-unix
+A collection of modern/faster/saner alternatives to common unix commands.
+
 
 
 ## Intro

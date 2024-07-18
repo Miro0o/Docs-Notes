@@ -1,4 +1,4 @@
-# Flynn's Taxonomy
+# Computer Architecture and Flynn's Taxonomy
 
 [TOC]
 

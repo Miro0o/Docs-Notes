@@ -2258,9 +2258,65 @@
 		6. _combustion chamber_ [机]燃烧室
 		7. _internal combustion engine_ 内燃机
 		8. _incomplete combustion_ [化]不完全燃烧
-2. **urticari-** = urticaria, 表示“荨麻疹”，词根本意表示“燃烧”。源自拉丁语 urere "to burn."
+3. **urticari-** = urticaria, 表示“荨麻疹”，词根本意表示“燃烧”。源自拉丁语 urere "to burn."
 	1. urticant
 	2. urticaria
 	3. urticate
 		1. [nettle](dic://nettle)
 		2. _v._ [whip](dic://whip), [lash](dic://lash), [bite](dic://bite), [sting](dic://sting), [burn](dic://burn)
+4. bust
+	1. n. 半身像；女子胸部，胸围；突击搜查；没价值的事物；经济萧条时期 
+	2. v. 弄坏，打碎；逮捕；降级；阻止，破坏；突袭，搜查；猛烈打击；打破，炸破 
+	3. adj. 坏掉的；破产的
+	4. bust（半身像）：古伊特鲁里亚人的人形骨灰瓮  
+	5. 英语单词bust来自拉丁语bustum，本意是“坟墓、火葬用的柴堆”。古代意大利的伊特鲁里亚人相信逝者死后会在来世超生，并保留生前的习惯。因此人死后被火化，骨灰被放置在一个人形骨灰瓮中，包括一个盛放骨灰的瓶身和一个人头形状的盖子。整个骨灰瓮被安放在布置得像生前居所的坟墓里，生前使用的一系列物品也一同陪葬。受这种丧葬习俗的影响，拉丁语bustum也被用来表示这种人形骨灰瓮，后来被用来表示人的“上半身雕像”。19世纪后还衍生出“胸部”之意。  
+	6. bust：n. [bʌst] n.半身雕像；胸部  
+	7. busty：['bʌsti] adj.胸部丰满的，大胸脯的
+	8. bust作名词讲有半身像和胸部之意，其来源比较坑爹。拼写中的b实际是拉丁前缀ambi-表about,around,on both sides的残留，而ambi-与希腊前缀amphi-和日耳曼词源前缀be-(by)表around同源；bust中的ust成分与combustion燃烧有关，最初指烧尸体之柴，延伸为坟墓，因坟墓上有时有墓主人的半身像而有此含义。
+	9.  [flop](dic://flop), [fizzle](dic://fizzle)
+	10. [female chest](dic://female chest), breast, bosom, knocker, boob, tit, titty
+	11. [tear](dic://tear), [binge](dic://binge), [bout](dic://bout)
+	12.  [break](dic://break)
+	13. [raid](dic://raid)
+	14. [tear](dic://tear), [rupture](dic://rupture), [snap](dic://snap)
+	15.  [break](dic://break), [wear](dic://wear), [wear out](dic://wear out), [fall apart](dic://fall apart)
+	16.  [burst](dic://burst)
+	17.  [broke](dic://broke), [skint](dic://skint), [stone-broke](dic://stone-broke), [stony-broke](dic://stony-broke)
+	18. _n._ [failure](dic://failure), [thorax](dic://thorax), [chest](dic://chest), [pectus](dic://pectus), [sculpture](dic://sculpture), [revel](dic://revel), [revelry](dic://revelry)
+	19. _v._ [destroy](dic://destroy), [ruin](dic://ruin), [attack](dic://attack), [assail](dic://assail), [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide)
+	20. _adj._ [poor](dic://poor)
+	21. _n._ [rich](dic://rich)
+	22. **boom**发隆隆声;**waist**腰，腰部;**bum**流浪汉;**butt**笑柄;**bra**胸罩;**statue**雕像，塑像;
+	23. _boom and bust_ 繁荣与萧条
+	24. _bust point_ 胸点
+	25. an attempt to bust the union. /终止联盟的企图
+	26. a bust on the snout /一拳打在鼻子上。
+	27. a busted bronco. /驯服的野马
+	28. a busted shoplifter. /被抓获的商店扒手
+	29. the bust-up of my marriage. /把我的婚姻送上绝路的争吵。
+	30. they wanted to bust me on the mouth. /他们想打我的嘴巴。
+	31. she busted out of prison. /她越狱了。
+	32. he was busted to private. /他被降级为列兵。
+	33. firms will go bust ./公司将会破产。
+	34. busts of various Roman divinities /各种罗马神的半身雕像。
+	35. a busted vending machine. /失灵的投币式自动售货机
+	36. the film busts every box office record. /这部电影打破了所有票房纪录。
+	37. Regulators busted them, and almost busted up the company. /监管机构破坏了施压行为，几乎使微软公司破产。
+	38. Honey, the key chain was a bust /亲爱的 钥匙链不够好。
+	39. Now let's take this opportunity to bust a myth /现在让我们借此机会打破一个荒诞的说法。
+	40. The financial crisis abruptly turned the boom to bust. /金融危机突然地将婴儿潮转变为生育低谷。
+	41. 
+	42. bustle (busy)
+		1. n. 喧闹; 裙撑  
+		2. v. 奔忙. 催促
+		3. 来自bust, 同burst, 爆发。
+		5. bustling
+	43. buster
+		1. n. 庞然大物, 非凡的人, 闹饮, 驯马人, 小家伙, 小鬼, 炸弹, 巨型炸弹
+		2. bust【打碎】 + -er，是单词bust 派生的动作执行者（施动）名词。
+		3. trusbuster
+		4. gangbuster
+		5. broncobuster
+		6. blockbuster
+	44. busted
+	45. bust-up

@@ -75,7 +75,9 @@ Harley Hahn's Guide to Unix and Linux
 #### Learning by doing!
 💻 [Writing an OS in Rust](https://os.phil-opp.com/)
 💻 [OSDev - wiki](https://wiki.osdev.org/Main_Page)
-#### Other Resources
+
+
+### Other Resources
 [CPU Architecture](https://www.tutorialspoint.com/computer_logical_organization/cpu_architecture.htm)
 
 [Programmed Introduction to MIPS Assembly Language](https://chortle.ccsu.edu/assemblytutorial/index.html#part1)
@@ -91,14 +93,26 @@ Harley Hahn's Guide to Unix and Linux
 > 🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
+### Programming Languages and Programs
+↗ [Programming Methodology and Languages](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+
+↗ [Theory of Computation](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+- ↗ [Automata Theory and Formal Language Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Automata%20Theory%20and%20Formal%20Language%20Theory.md)
+- ↗ [Formal Semantics and Programming Language](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20Formal%20Language%20Theory/Formal%20Language%20Theory/Formal%20Semantics%20and%20Programming%20Language.md)
+
+↗ [Program Execution & Compilation System](../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+
+
 ### Computer System Review
 ![computer_architecture.excalidraw | 800](../../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System Overveiw</small>
 
+↗ [Computer Architecture](../Computer%20Architecture/Computer%20Architecture.md)
 ↗ [Computer Architecture Overview](../Computer%20Architecture/📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20Overview.md)
 
 
 ### Operating System Overview
+↗ [Operating System & OS Kernel (Theory Part)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [📌 Operating System Overview](🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md)
 
 

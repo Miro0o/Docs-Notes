@@ -4420,24 +4420,125 @@ tags: []
 		1. invest（投资）：给财富换上神奇的衣服  
 		2. 17世纪初期，西方的英、法、荷等国纷纷向东半球开展殖民扩展，并设立多家“东印度公司”负责殖民地的经贸事务，实际上是西方列强侵略盘剥印度等地的工具。1602年，荷兰联合东印度公司成立。它采取了一种全新的企业组织形式——股份制，即通过向全社会融资来筹集资金。1609年，在荷兰的阿姆斯特丹成立了世界上第一家股票交易所。当时，东印度公司成了国家的摇钱树，源源不断地从东方带来巨大财富。在海外财富的刺激下，成千上万的人把自己的积蓄投入给东印度公司，希望将来能获得丰厚的回报。甚至，阿姆斯特丹市市长的女仆也成了东印度公司的股东之一。正是在这种背景下，invest这个原本与金融毫无关系的单词衍生出了“投资”的含义。  
 		3. 英语单词invest来自investire，本意是“穿上正式的制服”，由in（进入）+vestire（衣服）构成，英语单词vest（背心，汗衫）就源自vestire。人们将手中的钱换成东印度公司股票时，就像是给财富换上了一件神奇的衣服，一件可以带来滚滚财源的衣服，所以人们用invest这个单词来比喻这种购买股票的投资行为，invest也就产生了“投资”的含义。有趣的是，股票交易所中的交易员都身穿马甲（in vest）。  
-		4. invest：[ɪn'vest] v.投资，投资于；覆盖，包围  
-		5. investment：[ɪn'ves(t)m(ə)nt] n.投资，投入，封锁  
-		6. investor： [ɪn'vɛstɚ] n. 投资者  
-		7. vest： [vest] n.背心，汗衫，马甲vt.授予，使穿衣服vi.归属，穿衣服  
-		8. investiture：[ɪn'vɛstətʃɚ] n. 授职仪式；授权仪式；装饰或覆盖物
-		9. reinvest, investor
-		10. investment
+		4. vt. 投资；耗费；授予；覆盖；包围
+		5. vi. 投资，入股；花钱买
+		6. invest：[ɪn'vest] v.投资，投资于；覆盖，包围 
+		7. investment：[ɪn'ves(t)m(ə)nt] n.投资，投入，封锁  
+		8. investor： [ɪn'vɛstɚ] n. 投资者  
+		9. vest： [vest] n.背心，汗衫，马甲vt.授予，使穿衣服vi.归属，穿衣服  
+		10. investiture：[ɪn'vɛstətʃɚ] n. 授职仪式；授权仪式；装饰或覆盖物
+		11. [put](dic://put), [commit](dic://commit), [place](dic://place)
+		12. [endow](dic://endow), [indue](dic://indue), [gift](dic://gift), [empower](dic://empower), [endue](dic://endue)
+		13. [clothe](dic://clothe), [adorn](dic://adorn)
+		14. [vest](dic://vest), [enthrone](dic://enthrone)
+		15. [induct](dic://induct), [seat](dic://seat)
+		16. _v._ [spend](dic://spend), [expend](dic://expend), [drop](dic://drop), [enable](dic://enable), [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out)
+		17. _n._ [divest](dic://divest), [disinvest](dic://disinvest)
+		18. **spend**花费;**buy**购买;**diversify**使多样化;**money**钱;**fund**资金;**expend**花费;**funds**基金;**allocate**分配;**sell**销售;**devote**奉献;**buying**买进;
+		19. _invest in_ v. 投资于；[口]买进；寄希望于
+		20. _invest with_ 授予
+		21. invest a new emperor. /新王登基
+		22. invest in real estate /投资于房地产
+		23. invest sb. with a decoration /给某人戴上奖章
+		24. be invested with mystery /带有神秘色彩
+		25. Fog invests the city. /大雾笼罩城市。
+		26. invest sb. with full power /授予某人全权
+		27. reinvest, investor
+		28. investment
 			1. underinvestment
 			2. reinvestment
 			3. overinvestment
 			4. disinvestment
 			5. counterinvestment
-		11. investee
-		12. investable
-		13. investitive, investiture
-	6. travestry
+		29. investee
+		30. investable
+		31. investiture
+			1. n. 授职仪式；授权仪式；装饰或覆盖物
+			2. [coronation](dic://coronation), [enthronement](dic://enthronement), [enthronization](dic://enthronization), [enthronisation](dic://enthronisation)
+			3. [investment](dic://investment)
+			4. _n._ [initiation](dic://initiation), [induction](dic://induction), [installation](dic://installation), [promotion](dic://promotion)
+			5. **coronation**加冕礼;**consecration**奉献;**ceremony**典礼，仪式;**ceremonial**礼仪的;**inauguration**就职典礼;**papal**罗马教皇的;**monarch**君主，帝王;**ecclesiastical**基督教会的;**royal**皇家的;**crowning**最高的;**throne**王座;
+			6. _[Investiture Contest](dic://Investiture%20Contest)_ 授职权之争；或叙任权争夺
+			7. _[investiture system](dic://investiture%20system)_ 封王制度
+			8. _[Investiture of the Gods](dic://Investiture%20of%20the%20Gods)_ 封神演义；封神榜之武王伐纣
+			9. the investiture of bishops. /主教的授权。
+			10. He had become involved in what is known as the Investiture Dispute, a fierce Church-State Kulturkampf, revolving round the appointment of bishops. /他卷入了史书所记载的“授职争议”，即一次围绕教会与国家之间有关任命主教问题的激烈的“文化冲突”。
+			11. Immemorial to all his order, this investiture alone will adequately protect him, while employed in the peculiar functions of his office. /在他的行业中，这种法衣历史悠久，已无法追溯，在他执行自己特殊的差事时，单凭这身装束就能有效地保护他了。
+			12. The investiture of our first Chairwoman, Mrs Reginald Crawley, who has graciously agreed to share the duties of our beloved President, the Dowager Countess of Grantham. /我们有幸任命第一位女主席，雷金纳德·卡劳利夫人，她愿与我们敬爱的董事长格兰瑟姆伯爵夫人共同管理我们的医院。
+			13. The heir of every immediate vassal of the crown paid a certain duty, generally a year's rent, upon receiving the investiture of the estate. /每个王室直属封臣的继承人在接受财产授予时都要缴纳一定的税款，通常是一年的租金。
+		33. investitive
+	6. travesty
+	7. revet
+		1. vt. 用砖石护(堤等), 用水泥等覆护
+		2. _v._ [construct](dic://construct), [build](dic://build), [make](dic://make), [face](dic://face)
+		3. **revert**恢复;
+		4. revetment
 2. himation
+	1. n. （古希腊人穿的）宽松长衫
 3. wear
+	1. wear your heart on your sleeve情绪化；公开地展示感情。习语中的heart指的是倾慕之人。中世纪马上比武（长枪）中，有些骑士会将代表自己所支持的贵妇（heart）的颜色的布条或布块穿戴（wear）在袖子上或用丝带绑在胳膊上（sleeve），以此公开表明自己的立场。Do not wear your heart on your sleeve.
+	2. 来自 PIE*wes,穿衣，词源同 vest,invest,字母 r,s 音变。引申词义磨损，损耗。
+	3. n. 穿着, 戴, 使用, 耗损, 服装, 耐久性  
+	4. vt. 穿着, 戴, 留(须、发等), 呈现, 磨损, 磨成, 耗损, 使疲乏, 消磨  
+	5. vi. 磨损, 变旧, 耐久, 渐变, 渐渐消失
+	6. womenswear
+	7. weary
+		1. adj. 疲劳的，疲倦的；使人疲劳的，令人厌烦的；厌倦的，厌烦的 
+		2. v. （使）疲倦，（使）厌烦；<苏格兰>忧伤，烦恼
+		3.  [tire](dic://tire), [wear upon](dic://wear upon), [tire out](dic://tire out), [wear](dic://wear), [jade](dic://jade), [wear out](dic://wear out), [outwear](dic://outwear), [wear down](dic://wear down), [fag out](dic://fag out), [fag](dic://fag), [fatigue](dic://fatigue)
+		4. [tire](dic://tire), [pall](dic://pall), [fatigue](dic://fatigue), [jade](dic://jade)
+		5. [aweary](dic://aweary)
+		6. _v._ [indispose](dic://indispose), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate)
+		7. _adj._ [tired](dic://tired)
+		8. _n._ [rested](dic://rested)
+		9. [weary](dic://weary) 侧重指由于连续不断进行某项活动而造成的疲劳，以致感到厌烦。  
+		10. [tired](dic://tired) 普通用词，泛指因工作紧张，劳动过度，休息不足等而引起的疲乏。
+		11. **tired**疲倦的;**fatigued**疲乏的;**restless**焦躁不安的;**jaded**厌倦的;**aching**疼痛的;**exhausted**耗尽的,用完的;**disillusioned**不再抱幻想的, 大失所望的;**feeble**微弱的，无力的;**lonely**寂寞的;**anxious**渴望的;**burdened**负荷的;
+		12. _weary of_ 疲倦；厌烦于
+		13. _weary with_ 因…而厌烦
+		14. weary of delays. /对推迟感到不耐烦
+		15. a weary wait /令人心焦的等待
+		16. cheat the weary night /消磨长夜
+		17. she was weary of their constant arguments. /她对他们频繁的争论不胜其烦。
+		18. the weary journey began again /令人疲乏的旅程又开始了。
+		19. I felt weary after work. /我下班后感到疲乏。
+		20. Young people weary of countless restrictions and fetters. /年轻人对各种清规戒律感到厌烦。
+		21. " I grow weary of contradiction, " said Phineas Nigellus. /“我懒得反驳你，”菲尼亚斯·奈杰尔说。
+		22. Age shall not weary them, nor the years condemn. /岁月和时间将不会给他们留下痕迹。
+		23. And the debate about standards has left the schools weary. /学校之间已经厌倦了关于教学水准的争论。
+		25. world-weary
+		26. world-weariness
+		27. wearisome
+		28. weariness
+		29. wearily
+		30. weariless
+		31. weariful
+		32. war-weary
+		33. war-weariness
+		34. unwearying
+		35. unwearied
+		36. aweary
+	9. wearout
+	10. wearing
+	11. wearer
+	12. wearable
+	13. underwear
+	14. townwear
+	15. sportswear
+	16. slumber-wear
+	17. sleepwear
+	18. ready-to-wear
+	19. rainwear
+	20. outwear
+	21. outerwear
+	22. nightwear
+		1. _n._ [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
+		2. **lingerie**女用贴身内衣裤;**pajamas**睡衣;**underwear**内衣;**swimwear**游泳衣;**duvet**羽绒被;**garments**服装，衣着;**bedding**寝具;**slippers**拖鞋;**clothing**服装;**blouses**女装恤衫;**outerwear**外衣;
+	23. neckwear
+	24. long-wearing
+	25. knitwear
+	26. hardwearing
+	27. footwear
 
 
 ### + \*wesr- +
@@ -4554,23 +4655,45 @@ tags: []
 	10. Fear made him withhold the truth. /恐惧使他不敢说实话。
 	11. 
 3. withstand
-	1. 1 - with-,相反，stand,站，站立。引申词义相反站着，承受，抵抗。
-	2. _v._ [resist](dic://resist), [hold out](dic://hold out), [stand firm](dic://stand firm), [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down)
-	3. **endure**忍耐;**survive**活得长;**impervious**不可渗透的,透不过的;**resist**抵抗，抗拒;**sustain**承受, 支撑;**succumb**屈服;**tolerate**忍受;**sustained**持久的;**susceptible**易受影响的;**durable**耐用的，持久的;**cope**处理;
-	4. _withstand voltage_ 耐压
-	5. _voltage withstand_ 耐电压
-	6. _withstand test_ 耐压试验
-	7. _withstand voltage test_ 耐压试验
-	8. withstood
-	9. notwithstanding
+	1. with-,相反，stand,站，站立。引申词义相反站着，承受，抵抗。
+	- v. 顶住，抵住；经受住，承受住（攻击、批评等）；反抗
+	1. _v._ [resist](dic://resist), [hold out](dic://hold out), [stand firm](dic://stand firm), [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down)
+	2. **endure**忍耐;**survive**活得长;**impervious**不可渗透的,透不过的;**resist**抵抗，抗拒;**sustain**承受, 支撑;**succumb**屈服;**tolerate**忍受;**sustained**持久的;**susceptible**易受影响的;**durable**耐用的，持久的;**cope**处理;
+	3. _withstand voltage_ 耐压
+	4. _voltage withstand_ 耐电压
+	5. _withstand test_ 耐压试验
+	6. _withstand voltage test_ 耐压试验
+	7. Our army tried to withstand the enemy onslaught. /我们的部队奋力抵挡敌人的猛攻。
+	8. The bridge withstands the flood. /那座桥经得起洪水。
+	9. the casing is tough enough to withstand knocks. /包装很结实，足以抵抗碰撞。
+	10. there is the danger that he might, in time, not be able to withstand temptation. /存在着他最终抗拒不住诱惑的危险。
+	11. I thought our relationship... could withstand anything. /我以为我们的感情 坚不可摧。
+	12. Plus, moss are pretty hardy, with the ability to withstand extreme conditions. /再者，苔藓非常耐寒，能够承受极端的条件。
+	13. Most people are extremely resilient able to withstand trauma. /就是大部分人其实是非常有能力去承受创伤的。
+	14. It withstood the French Revolution, two world wars. /它经受了法国大革命和两场世界大战。
+	15. withstood
+	16. notwithstanding
 		1. 1. _prep._ (表示让步)〈正〉尽管 _adv._ 尽管如此; 仍然; 然而
 		2. [despite](dic://despite) 书面用词，指不受某事或某种原因的阻碍，语气轻于in spite of。 
 		3. [in spite of](dic://in spite of) 在这些词中语气最强，可与despite换用，口语或书面语中均可使用。  
 		4. [notwithstanding](dic://notwithstanding) 语气最弱，仅表示一种障碍的存在。
-		5. **contrary**相反的;**despite**尽管，不管;**spite**恶意;**nevertheless**仍然, 然而, 不过;**however**无论如何;**nonetheless**虽然如此,但是;**evidently**明显地;**moreover**此外;**doubtless**无疑地, 肯定地;**fact**事实;**alas**唉;\
-4. wherewithal
-	1. _n._ [means](dic://means), [substance](dic://substance)
-	2. **fortitude**坚韧, 刚毅;**requisite**必要的事物;**foresight**预见, 先见之明;**clout**破布;**ability**能力，能耐;**acumen**聪明，敏锐;**possess**持有;**know-how**技术;**willingness**自愿;**audacity**厚颜无耻;**sufficient**足够的;
+		5. **contrary**相反的;**despite**尽管，不管;**spite**恶意;**nevertheless**仍然, 然而, 不过;**however**无论如何;**nonetheless**虽然如此,但是;**evidently**明显地;**moreover**此外;**doubtless**无疑地, 肯定地;**fact**事实;**alas**唉;
+		6. notwithstanding the evidence, the consensus is that the jury will not reach a verdict. /尽管有证据，人们普遍认为陪审团将无法作出裁决。
+		7. I love the boy notwithstanding this naugtiness. /尽管这男孩顽皮, 但我仍然喜欢他。
+		8. The teams played on, notwithstanding the rain. /尽管下雨，各队仍然比赛
+		9. Thomas Carlyle, notwithstanding his tedious rhetoric, is a master of the sublime in prose style. /尽管托马斯·卡莱尔的语言花俏冗长, 但是他仍不失为一位令人崇敬的散文文体大师。
+1. wherewithal
+	1. n. 必要的资金（或手段） 
+	2. adv. 用以 
+	3. conj. 用以
+	4. _n._ [means](dic://means), [substance](dic://substance)
+	5. **fortitude**坚韧, 刚毅;**requisite**必要的事物;**foresight**预见, 先见之明;**clout**破布;**ability**能力，能耐;**acumen**聪明，敏锐;**possess**持有;**know-how**技术;**willingness**自愿;**audacity**厚颜无耻;**sufficient**足够的;
+	6. I haven't wherewithal to marry. /我没钱结婚。
+	7. they lacked the wherewithal to pay. /他们没钱支付。
+	8. I think they have the wherewithal to do it. /他们有能力这样做。
+	9. Good health is the wherewithal for a successful life and career. /健康的身体是做人做事的真正本钱。
+	10. Sith it is thy humour to give over begging, **wherewithal** shall we busy ourselves? /既然你不愿乞讨，我们又有什么可忙的呢？
+	11. It's one that requires rigorous attention, unfading wherewithal and all hands /这需要高度关注、坚定不移的毅力和全体人员的努力。
 
 
 
@@ -4582,9 +4705,9 @@ tags: []
 		1. _[evirate](dic://evirate)_  vt. 阉割
 	3. triumvir
 	4. virile
-		1. 1. characterized by energy and vigor
-		2. 1. characteristic of a man
-		3. 1. (of a male) capable of copulation
+		1. characterized by energy and vigor
+		2. characteristic of a man
+		3. (of a male) capable of copulation
 		4. [male](dic://male), [manful](dic://manful), [manlike](dic://manlike), [manly](dic://manly)
 		5. _adj._ [strong](dic://strong), [masculine](dic://masculine)
 		6. _n._ [weak](dic://weak), [feminine](dic://feminine)
@@ -4597,13 +4720,12 @@ tags: []
 		12. virilescence
 		13. subvirile
 		14. invirility
-		15. **manly**强壮的;**macho**大男子气概的;**muscular**肌肉发达的;**masculine**男性的, 男子的, 男子气的;**youthful**年轻的;**seductive**诱惑的;**handsome**英俊的;**good-looking**好看的;**manhood**成年;**vigorous**有力的;**masculinity**男性;
 	5. virtue
 		1. virtuous
 		2. virtueless
 		3. virtual
 	6. virtuoso
-		1. 1. someone who is dazzlingly skilled in any field
+		1. someone who is dazzlingly skilled in any field
 		2. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
 		3. virtuosity
 		4. _n._ [expert](dic://expert), [musician](dic://musician)
@@ -4616,8 +4738,54 @@ tags: []
 	1. werewolf
 		1. n. 狼人, 豺狼般的人
 3. curia
-4. curial
-5. world
+	1. n. 罗马教廷机构; 中世纪法庭, 地区元老院, 元老院, 法庭
+	2. Roman Catholic Church) the central administration governing the Roman Catholic Church
+	3. _n._ [administration](dic://administration), [governance](dic://governance), [governing body](dic://governing body), [establishment](dic://establishment), [brass](dic://brass), [organization](dic://organization), [organisation](dic://organisation)
+	4. **papal**罗马教皇的;**pope**教皇，罗马教皇;**ecclesiastical**基督教会的;**diocese**主教管区, 教区;**episcopal**主教的;**diocesan**主教管区的;**archbishop**大主教;**clergy**牧师;**Vatican**罗马教廷;**bishop**主教;**basilica**长方形会堂;
+5. curial
+	1. a. 元老院的
+6. world
+	1. 1 - 缩写自古英语 worold,一段时间，人类，人类的存在，来自 wor-,人，男人，词源同virile,werewolf,old,老人，时代。字面意思即男人的时代，人的存在，后引申词义人的一生，今生，人世，人类的活动与事务，世界。
+	2. n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量
+	3. worldwide
+	4. worldly
+		1. [blase](dic://blase)
+		2. [temporal](dic://temporal)
+		3. _adj._ [economic](dic://economic), [material](dic://material), [materialistic](dic://materialistic), [mercenary](dic://mercenary), [worldly-minded](dic://worldly-minded), [mundane](dic://mundane), [terrestrial](dic://terrestrial)
+		4. _n._ [unworldly](dic://unworldly), [naive](dic://naive), [naif](dic://naif), [sacred](dic://sacred)
+		5. **materialistic**唯物论的;**earthly**地球的;**spiritual**精神上的;**carnal**肉体的;**pious**虔诚的;**trappings**服饰;**sinful**有罪的;**godly**神圣的;**mystical**神秘的;**self-centered**自我为中心的,利己主义的;**materialism**唯物主义;
+		6. _worldly possessions_ n. 身外之物
+		7. music of an almost other-worldly beauty. /几乎并非凡间的美妙音乐。
+		8. his ambitions for worldly success. /他追名逐利的野心。
+		9. Are spiritual or worldly values more important? /精神上的价值重要, 还是物质的价值重要呢?
+		10. Lisa was sufficiently worldly-wise to understand the situation. /莉萨足够老练世故，她会明白这状况。
+		11. schools where parents send children as a preparative for worldly success. /父母为孩子日后成功作准备而送入的学校。
+		12. He bequeathed her all his worldly goods. /他把所有的财物遗赠给她。
+		13. It can also take us away from our worldly troubles and problems. /它还可以带我们远离世俗的麻烦和问题。
+		14. worldly-wise
+		15. worldly-minded
+		16. worldliness
+	6. worlding
+	7. worldbeater
+	8. world-weary
+	9. wolrd-weariness
+	10. world-shaking
+	11. world-old
+	12. world-famous
+	13. world-class
+	14. unworldly
+	15. underworld
+	16. round-the-world
+	17. real-world
+	18. otherworld
+		1. otherworldly
+		2. otherworldlliness
+	19. old-world
+	20. new-orld
+	21. netherworld
+	22. microworld
+	23. macroworld
+	24. Computerworld
 
 
 

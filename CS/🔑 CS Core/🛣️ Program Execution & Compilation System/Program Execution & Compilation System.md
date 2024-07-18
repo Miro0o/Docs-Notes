@@ -58,6 +58,7 @@ However, there are some important reasons why programmers need to understand how
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
 <small>A examplary illustration of the compilation, linking, loading & execution process</small>
 
+
 ### 0️⃣ Information, Encoding, Computer/Digital System Data Representations & Computer File Formats
 ↗ [Data (Text) Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20(Text)%20Representations%20&%20Storage%20in%20Computer.md)
 ↗ [Encodings](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)

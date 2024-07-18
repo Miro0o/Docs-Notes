@@ -19,6 +19,10 @@
 #### Courses
 🎬【计算机组成原理（哈工大刘宏伟）135讲（全）高清】 https://www.bilibili.com/video/BV1t4411e7LH/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
+🏫 http://media.njude.com.cn/course/jsjzcyl/index.htm
+计算机组织与体系结构 - 南京大学 - 袁春风
+【《计算机组成原理》南京大学 - 袁春风(全108讲】 https://www.bilibili.com/video/BV1rJ411U7EC/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 🏫 [Intro to CS (CSAPP)](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 
 🏫 [UCB - CS61C Great Ideas in Computer Architecture](../../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS61C%20Great%20Ideas%20in%20Computer%20Architecture/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
@@ -29,7 +33,6 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 (I found this course randomly online and it uses the same textbook as the course I took in SCU, though an older version. I copied the link here for future convenience of its 🔗 [PPT](http://webhotel4.ruc.dk/~keld/teaching/CAN_e14/Slides/index.html))
 
 [Figures from Null & Lobur](http://www.sci.brooklyn.cuny.edu/~jones/cisc3310/Null%20&%20Lobur%20Figures.htm)
-
 
 🆙 Coursera: Nand2Tetris
 
@@ -115,7 +118,6 @@ To control computer processors in a programmable way, knowledge about assembly l
 
 ### ⭐ Importance Themes In Computer Systems
 ↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
-
 #### 👉 Concurrency & Parallelism
 ↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 #### 👉 Abstraction & Encapsulation

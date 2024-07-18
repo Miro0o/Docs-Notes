@@ -1140,7 +1140,19 @@ brackish
 brand
  - gwher-
 
-breast
+breast (bust)
+- n. 胸部, 乳房, 胸怀  
+- vt. 以胸对着, 面对
+- 来自 PIE*bhreus,膨胀，鼓起，词源同 brisket,胸肉。
+- [bosom](dic://bosom), [knocker](dic://knocker), [boob](dic://boob), [tit](dic://tit), [titty](dic://titty)
+- [white meat](dic://white meat)
+- [front](dic://front)
+- _n._ [body part](dic://body part), [mammary gland](dic://mammary gland), [mamma](dic://mamma), [helping](dic://helping), [portion](dic://portion), [serving](dic://serving)
+- _v._ [converge](dic://converge), [meet](dic://meet), [reach](dic://reach), [make](dic://make), [attain](dic://attain), [hit](dic://hit), [arrive at](dic://arrive at)
+	- [breast](dic://breast) 指人或动物的胸部或胸部的前面，也指男人或女人的乳房。  
+	- [bosom](dic://bosom) 文学用词，与breast同义，特指女性的乳房，也可用作比喻。  
+	- [chest](dic://chest) 指胸膛，即肋骨所包围的部分。
+- **ovarian**卵巢的;**nipple**奶嘴;**cancer**癌症;**prostate**前列腺;**boob**蠢材，笨蛋;**colorectal**结肠直肠的;**cancers**癌症;**mammary**乳房的;**boobs**乳房;**cervical**子宫颈的;**tumor**肿瘤;
 - single-breasted, double-breasted
 - redbreast
 - pigeon-breasted
@@ -1623,6 +1635,9 @@ burn
 
 burrow
 - bhergh-(1)
+
+bust
+- eus-
 
 
 
@@ -3649,7 +3664,7 @@ fond
 	- _n._ [candy](dic://candy), [confect](dic://confect)
 	- **buttercream**奶油;**frosting**霜状白糖;**ganache**甘那许;**icing**结冰;**cake**蛋糕;**cakes**蛋糕;**cupcakes**纸杯蛋糕;**cupcake**纸托蛋糕;**meringue**调合蛋白;**pastry**油酥点心;**tulle**薄纱;
 
-forage (scrounge)
+forage (scrounge; foray)
 - 来自 Proto-Germanic*fodram,食物，觅食，词源同 food,fodder.
 - [eatage](dic://eatage), [pasture](dic://pasture), [pasturage](dic://pasturage), [grass](dic://grass)
 - **grazing**牧草;**graze**擦伤;**pasture**牧场;**alfalfa**紫花苜蓿;**grasses**稻科植物类;**livestock**家畜, 牲畜;**feed**喂养;**habitat**栖息地，产地;**rations**配给量;**vegetation**植物;**grassland**草原，牧场;
@@ -3665,6 +3680,21 @@ forage (scrounge)
 	- forage【饲料】 + -er, 表人，是单词forage 派生的动作执行者（施动）名词。
 	- _n._ [hunter](dic://hunter)
 	- **hunter**猎人;**farmer**农夫，农民;**naturalist**博物学家;**gardener**花匠;**anthropologist**人类学家;**subsistence**存活, 生存, 维生之道;**foodie**美食家;**chef**厨师，大师傅;**predator**食肉动物;**eater**食者;**botanist**植物学家
+
+foray
+- n. 涉足，初次尝试；突袭；侵略；攻击 
+- vi. 袭击 
+- vt. 劫掠
+-  [raid](dic://raid), [maraud](dic://maraud), bust
+-  [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage)
+- _n._ [penetration](dic://penetration), [incursion](dic://incursion), [attempt](dic://attempt), [effort](dic://effort), [endeavor](dic://endeavor), [endeavour](dic://endeavour), [try](dic://try)
+- _v._ [take](dic://take), [penetrate](dic://penetrate), [perforate](dic://perforate)
+- **venture**敢于;**ventures**投机者;**launching**发射;**ill-fated**走恶运的,注定要遭受罚的;**debut**演员首次演出;**fledgling**幼鸟;**full-fledged**羽毛生齐的;**nascent**初期的;**burgeoning**迅速成长的;**first**第一;**long-awaited**期待已久的;
+- _[foray into](dic://foray%20into)_  进军; 涉足; 袭击;
+- an actor's foray into politics. /一演员对政治的尝试性介入
+- my first foray into journalism /我对新闻业的初次涉足。
+- the garrison made a foray against Richard's camp. /守军突袭了理查德的营地。
+- With the hound dead, so ended Hammer's brief foray into Baker Street. /猎犬死后，汉默公司短暂的贝克街之旅也随之终结。
 
 foster
 - [further](dic://further)
@@ -3717,12 +3747,58 @@ fringe
 - fringing
 - fringeless
 
+fritter
+- 浪费（时间、金钱）；挥霍；弄碎 
+- n. 油炸馅饼
+- vt. 浪费；细切；剁碎
+- n. 细片；屑；带馅油炸面团
+- vi. 减少；消散；浪费
+-  挥霍义词源同 fraction,碎片，引申词义挥霍，浪费，扔弃。馅饼义来自 fry,煎，油炸。
+- How many minutes can one organisation fritter away on this nonsense? /一个组织可以在这些废话上浪费多少分钟？
+- So, your marriage has brought together chutney and fritters. /所以你们的婚姻助成了酸辣酱和炸馅饼的佳话。
+- Could be eaten raw, blanched, roasted or fried into a pakora or fritters. /可以生吃、焯水、烘烤或油炸成帕可拉（印度的炸蔬菜小吃）或油煎饼。
+- Spicy courgette fritters don't sound like a Barrow recipe to me. /我觉得这个馅饼不像是家乡菜。
+- About a hundred mil until you have a fritter consistency. /大约 100 毫升，直到你和出油炸面团的稠度。
+- And your food's great, the biscuits, the cake, the fritters. /你的菜太棒了，饼干，蛋糕，馅饼。
+
+fritz
+- - n. 德国人；弗里茨（人名）
+- The Wi-Fi in my office is on the fritz. /我办公室无线网出毛病了。
+- Maybe your machine really is on the fritz. /也许你的机器真出故障了。
+
 frivol
 - **frivolous**不重要的,不必要的;
 - _[frivol away](dic://frivol%20away)_ 愚蠢地浪费
 - _[Don't frivol your life away](dic://Don%27t%20frivol%20your%20life%20away)_ 不要虚度年华
 - frivolous, frivolity
 - bhreie-
+
+frizz
+- n. 吱吱响声；卷发；皱缩（等于friz）
+- vt. 使鬈曲；为某人卷发；煎炸时吱吱做声
+- vi. 卷曲；炸得吱吱响
+- [crimp](dic://crimp), [crape](dic://crape), [frizzle](dic://frizzle), [kink up](dic://kink up), [kink](dic://kink)
+- _n._ [condition](dic://condition), [status](dic://status)
+- v._ [curl](dic://curl), [wave](dic://wave)
+- **hair**头发;**conditioner**护发素，护发剂;**curly**卷曲的;**curl**使…卷曲;**shampoo**洗发;**moisture**潮湿;**dryness**干燥;**ponytail**马尾辫;**humidity**湿度;**shampoos**洗发剂;**scalp**头皮;
+- his hair had frizzed out symmetrically. /他的头发对称地向两边打卷儿。
+- And I'm talking about more than just making sure our hair doesn't frizz. /我谈论的不仅仅是确保我们的头发不毛躁。
+- A spiky frizz out hair is -- is this thing stretching its arms for a hug, doing a dance. /一头尖尖的卷发是——是这个生物在伸开双臂拥抱，在跳舞。
+- And then, because of the texture of my hair, I regularly have to flat-iron it to keep it from frizzing. /因为头质的原因，我得烫平头以免头发变弯。
+- To form or cause to be formed into small, tight curls; **frizz**. /使…卷曲形成小而紧的卷或使形成小卷；卷曲。
+
+frock
+- (s)ker-(3)
+- [dress](dic://dress)
+- _n._ [habit](dic://habit), [woman's clothing](dic://woman's clothing)
+- _v._ [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [garb](dic://garb), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment)
+- **dress**给…穿衣;**gown**长袍，长外衣;**blouse**宽松的上衣;**dresses**连衣裙;**tunic**束腰外衣;**jumpsuit**跳伞装;**skirt**裙子;**blazer**宽松运动外衣;**chiffon**薄绸;**cardigan**羊毛衫，开襟羊毛衫;**sleeveless**无袖的;
+- the skirt of her frock ripped /她的连衣裙下摆撕破了。
+- Few Englishmen wear frock coats now.They went out years ago. /现在,英国人很少穿大礼服了,大礼服在多年以前就不时兴了。
+- He licked her hands and made a whining noise, and then began gently to pull her frock. /狗舔了舔她的手，发出哀嚎声音，然后开始轻轻拉她的上衣。
+- I shall bring you dark-green watered silk for a frock to match the bonnet. /我要给你带些暗绿色水纹绸来做一件长袍。好跟这顶帽子相配。
+
+frog
 
 froth
 - 1. emitting or filled with bubbles as from carbonation or fermentation
@@ -3747,6 +3823,8 @@ froth
 - froth-blower
 	- _n._ 〈英谑〉爱喝啤酒的人
 - antifrother
+
+fry
 
 fuddle
 - vt. 灌醉, 使烂醉, 使迷糊  vi. 狂饮  
@@ -7225,26 +7303,7 @@ look
 - etc..
 
 loot
-- [booty](dic://booty), [pillage](dic://pillage), [plunder](dic://plunder), [prize](dic://prize), [swag](dic://swag), [dirty money](dic://dirty money)
--  [boodle](dic://boodle), [bread](dic://bread), [cabbage](dic://cabbage), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [moolah](dic://moolah), [pelf](dic://pelf), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
-- [plunder](dic://plunder)
--  [plunder](dic://plunder), [despoil](dic://despoil), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
-- _n._ [stolen property](dic://stolen property), [money](dic://money)
-- _v._ [steal](dic://steal), [take](dic://take)
-- **plunder**抢夺;**raid**袭击;**dungeons**地下城;**spoils**赃物;**quests**过关模式;**raiders**突击者;**dungeon**地牢，土牢;**treasure**财富，财产;**hoard**储藏, 积存;**bandits**盗贼;**horde**游牧部落;
-- an orgy of looting and vandalism /大肆劫掠破坏
-- the shops had been looted and torched /商店被抢，被烧。
-- The mob looted many shops in the area. /暴徒在该地抢劫了许多商店。
-- looter
-	- [plunderer](dic://plunderer), [pillager](dic://pillager), [spoiler](dic://spoiler), [despoiler](dic://despoiler), [raider](dic://raider), [freebooter](dic://freebooter)
-	- [thief](dic://thief), [stealer](dic://stealer)
-	- **thief**小偷，贼;**robber**强盗;**thieves**小偷;**thug**暴徒;**bandit**强盗;**robbers**盗贼;**bandits**盗贼;**plunder**抢夺;**burglar**夜贼，窃贼;**raiders**突击者;**mob**暴徒;
-- looting
-	- [robbery](dic://robbery)
-	- **plunder**抢夺;**rioting**暴乱;**theft**盗窃;**confiscation**没收,充公,征用;**robbing**回采矿柱;**destruction**破坏, 毁灭, 消灭;**riots**暴动;**stealing**偷窃;**hoarding**贮藏;**riot**暴乱;**bloodshed**流血,虐杀;
-	- an orgy of looting and vandalism /大肆劫掠破坏
-	- police confronted the protestors who were looting shops /警察碰到了正在抢劫商店的抗议者。
-	- The people are growing scared. There has been some looting. /子民越来越担心。有人劫粮。
+- reub-, reup-
 
 lop
 - [discerp](dic://discerp), [sever](dic://sever)
@@ -9514,16 +9573,7 @@ rite
 	- ritualist
 
 rive
-- _vt._ 猛地劈开[撕开]
-- 劈开(木头或石头)
-- [rend](dic://rend), [rip](dic://rip), [pull](dic://pull)
-- [cleave](dic://cleave), [split](dic://split)
-- _v._ [tear](dic://tear), [rupture](dic://rupture), [snap](dic://snap), [bust](dic://bust)
-- **drive**开车;**gorge**峡，峡谷;**creek**小溪;
-- rive the heart with grief /忧心欲碎
--  The crowd scatters terrified. A man rives in agony on the ground. Another lies lifeless on the snow. /人群惊恐四散。一名男子在地上痛苦挣扎着，另一个人一动不动地躺在雪地中。
-- They'd be riven to bits, ere ever they'd be different'. /他们会被撕成碎片，在他们变得不同之前。
-- He planted a rice paddy, an upland rive and some glutinous rice /他种植水稻、旱稻和糯米。
+- reue-
 
 rivet
 - 来自古法语 rivet,钉子，铆钉，来自 river,固定，系牢，钉紧，词源不详。可能进一步来自拉丁语 ripa,河岸，海滨，来自 PIE*rei,撕开，劈，砍，词源同 rift,riven,riparian.
@@ -13034,6 +13084,22 @@ title
 - 来自古法语 title,名称，标题，书的章节，来自拉丁语 titulus,铭文，碑文，牌匾，荣誉，题首，标记，词源同 titular,tilde.后引申诸多词义。
 - untitled
 - titular
+	- adj. 有名无实的；有头衔的；标题的 
+	- n. 有称号或头衔的人；只有名义的人
+	- [titulary](dic://titulary)
+	- [nominal](dic://nominal)
+	- _adj._ [title](dic://title), [claim](dic://claim), [title of respect](dic://title of respect), [form of address](dic://form of address), [formal](dic://formal)
+	- n._ [informal](dic://informal)
+	- **protagonist**主角;**eponymous**齐名的;**villainous**邪恶的;**patriarch**家长, 族长;**villain**坏人，恶棍;**sidekick**伙伴,插袋;**fictional**虚构的;**namesake**名义;**heroine**女英雄;**character**个性;**hapless**运气不好的，倒霉的;
+	- titular dignitaries. /有头衔的显要人物
+	- the titular head of state /名义上的国家元首
+	- the titular role in a play /剧中的标题人物
+	- the work's titular song /作品的同名歌曲。
+	- a titular character of a novel /小说中与书名同名的主角
+	- Oscar winner Brie Larson got in superhero shape to portray the titular hero. /奥斯卡奖得主布丽·拉尔森穿上了超级英雄的衣服来扮演这位有名无实的英雄。
+	- This movie had to make its titular character, and many other characters, fly. /这部电影得让它的主角和许多其他角色飞起来。
+	- And to help him on his journey, she gives him the titular magic flute. /为了帮助他踏上旅程，她给了他名义上的魔笛。
+	- 
 - titlist
 - titling
 - titleholder
