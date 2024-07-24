@@ -13,7 +13,7 @@
 ↗ [Firmware and Booting](../../Firmware%20and%20Booting/Firmware%20and%20Booting.md)
 ↗ [Bootstrap (Boot)](../../Firmware%20and%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
 
-↗ [Devices Teardown](../../../Hardware%20&%20EE%20Related/Devices%20Teardown.md)
+↗ [Devices Schematic Diagram & Teardown](../../../Hardware%20&%20EE%20Related/Devices%20Schematic%20Diagram%20&%20Teardown.md)
 
 
 

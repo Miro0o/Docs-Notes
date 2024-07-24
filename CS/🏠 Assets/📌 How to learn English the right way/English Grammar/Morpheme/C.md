@@ -148,6 +148,50 @@
 24. osteocalcin
 
 
+### camera- 
+= chamber. comrade 来源于法语 camarade, 表示居住在同一个房间里的人, 字面含义为“室友”. chamber 来源于法语 chambre【房间】。这些词都来源于拉丁语 camera, 表示'房间】。附, 拉丁语 ca 进入法语经常变形为 cha.
+1. camera
+	1. n. 照相机, 摄影机, 密谈室, 暗箱
+	2. 来自拉丁短语camera obscura，字面意思即obscure chamber, 暗室，早期照相机的重要结构。
+	3. camera（照相机）：用来成像的小暗房  
+	4. 英语单词camera（照相机）其实是拉丁语camera obscura的缩写，其中，camera=room（房间），obscura=dark（黑暗的），合起来就是“暗室”的意思。拉丁语camera obscura原本指的是一种光学仪器，由小盒子和棱镜组成，用于研究小孔成像等光学问题，科学家开普勒最早使用这个术语。18世纪初期，光学照相机问世后，由于它很像一个camera obscura，所以人们也将其称为camera obscura。后来，当照相机流行后，该称谓被简略为camera。  
+	5. 英语单词chamber其实和camera同源，表示“房间”，只是在经由法语时拼写形式发生了较大变化。而在单词bicameral（两院制）中，我们还能看到camera的初始含义“房间”。  
+	6. camera：['kæm(ə)rə] n.照相机，摄像机  
+	7. chamber：[ˈtʃeɪmbər] n. 室，膛；房间；会所adj. 室内的；私人的  
+	8. bicameral：[,baɪ'kæmərəl] adj. 两院制的；有两个议院的  
+	9. unicameral：['jʊnɪ'kæmərəl] adj. 单院的；一院制的
+2. cabaret
+	1. n. 卡巴莱(有歌舞表演的餐馆或夜总会), 卡巴莱歌舞表演
+3. chamber
+	1. n. 室, 房间, 枪膛  
+	2. vt. 装(弹药), 把...关在室内  
+	3. a. 室内的
+	4. 
+4. comrade
+	1. n. 同志, 伙伴
+	2. comr-=chamber屋子，原意表示住在一个房间里的人（室友）。
+	3. comrade（同志）：住在同一个房间的战友  
+	4. 在古代，在西班牙军队中，住在同一个房间内的战友称为camarada，它来自拉丁语camera（拱形房间），字面意思就是“住在同一个camera（房间）的人”，含有“亲密战友”之意。19世纪中期，社会主义革命在法国蓬勃发展，革命者希望用一个能够体现平等的词来代替以前所用的“先生”、“太太”、“小姐”等称谓，于是选择了西班牙语camarada，在法语中拼写为camarade。英语单词comrade就来自法语camarade，中文译为“同志”，意思是“志同道合的人”。  
+	5. comrade：['kɒmreɪd] n.同志
+	6. comrade - 三个多世纪以前，西班牙士兵不是住在兵营内，而是住在房间里，两三人分住一间，同室者叫camarada。该词进入法语后作camarade，英语单词comrade便是由此而来。但comrade今天已不再指“同室者”，而指“同志”、“亲密的同伴”或“忠实的朋友”。若再进一步追根溯源，comrade应该说来源于拉丁语camera（拱顶房间）。另有一些英语单词，如chamber（房间），camera（照相机），bicameral（两院制的）等也都源出于此。（参见camera）
+	7. comrade ['kɒmreɪd] n.同志；伙伴。虽然com-前缀很常见，但这里却不是com+rade。这里的词根是comr-，表内室（盒子），与camera同源（照相机本叫camera obscura，即dark box）。后缀-ade这里表参与某活动的群体。所以comrade实际就是同睡一个屋子的人。照片中这几巨头，是在“共产主义”的屋子里吧。
+	8. 同住一室的是comrade，一同吃饭的则是companion [kəm'pænjən] n.同伴；朋友；指南；手册。拉丁前缀com-表with,together，词根pan-表示面包（食品），与日耳曼词源的food、feed和fodder ['fɒdə] n.饲料；素材，vt.喂等单词同源。后缀-ion加于动词后表行为状态和情况。companion们eating together。
+	9. comradeship
+	10. comradery
+	11. comradely
+5. camaraderie
+	1. 词源同 chamber,comrade,chum.原指同处一室的人。
+	2. n. 【法】同志间的友爱和忠诚
+	3. [chumminess](dic://chumminess), [comradeliness](dic://comradeliness), [comradery](dic://comradery), [comradeship](dic://comradeship)
+	4. _n._ [sociability](dic://sociability), [sociableness](dic://sociableness)
+	5. **teamwork**协力;**friendship**友情, 友谊, 友好;**brotherhood**手足情谊;**banter**戏谑;**companionship**友谊;**rapport**关系;**closeness**接近;**enthusiasm**热情, 热心;**excitement**兴奋, 激动;**animosity**憎恨, 仇恨, 敌意;**laughter**笑声;
+	6. the enforced camaraderie of office life. /因办公室生活而加深了的同志情谊。
+	7. Wilson appreciates the camaraderie that makes him feel at home /威尔逊很欣赏让他有宾至如归感觉的同志情谊。
+	8. Distance makes it difficult to generate camaraderie. /距离使产生友情变得困难。
+	9.  Well, " Mike paused, carefully reassessing the situation as he watched our camaraderie. /“嗯，”迈克顿了顿，在看到我们的友谊之后，他重新评估了情况。
+	10. If a job is sufficiently humdrum, camaraderie among colleagues can be the main draw. /如果一份工作已经足够乏味，那么同事之间的情谊可能是工作的主要吸引力。
+
+
 ### cancel-,carcer-
 prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得名。chancery 原指站在栏杆后面的法庭引导员。源自拉丁语 cancer "lattice;" carcer "enclosure, prison, barrier."
 1.  cancel

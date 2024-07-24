@@ -844,9 +844,9 @@
 	2. 尖形物；尖头
 	3. _vt._ 用牙抵(或刺)；用牙掘(或撕)
 	4. _adj._ 有獠牙的，有长牙的
-	5.  [ivory](dic://ivory)
+	5. [ivory](dic://ivory)
 	6. [horn](dic://horn)
-	7.  [detusk](dic://detusk)
+	7. [detusk](dic://detusk)
 	8. _n._ [dentine](dic://dentine), [dentin](dic://dentin), [tooth](dic://tooth)
 	9. _v._ [pierce](dic://pierce), [thrust](dic://thrust), [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
 	10. **elephant**象;**skull**头盖骨，脑壳;**antlers**鹿角;**rhino**钱;**boar**野猪;**spear**矛，枪;**ivory**象牙;**mammoth**长毛象;**skulls**头骨;**snout**鼻子;**whale**鲸;
@@ -999,8 +999,8 @@
 	8. duralumin, durum, durain
 		3. n. 硬粒小麦
 	9. dour
-		1. - adj. 严厉的；顽强的；阴沉的；不爱讲话的
-		2.  - 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
+		1. adj. 严厉的；顽强的；阴沉的；不爱讲话的
+		2. 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
 		3. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
 		4. **gloomy**黑暗的;**dreary**沉闷的，枯燥的;**grim**冷酷的;**somber**昏暗的;**bleak**荒凉的，无遮蔽的;**wry**面部肌肉扭曲的;**grumpy**脾气暴躁的;**drab**单调3的;**austere**简朴的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;
 		5. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [unpleasant](dic://unpleasant), [ill-natured](dic://ill-natured)
@@ -1079,26 +1079,26 @@
 		4. unembellished
 		5. embellishment
 3. **bene-** = 表示“善，好”。源自拉丁语 bene "well."
-	1. benedict
-	2. benefaction
-	3. benefactor
+	1. benefaction
+	2. benefactor
 		1. benefactress
-	4. benefice
+	3. benefice
 		1. beneficed
-	5. beneficence
-	6. beneficent
+	4. beneficence
+	5. beneficent
 		1. beneficently
-	7. beneficial
+	6. beneficial
 		1. beneficially
-	8. beneficiary
-	9. benefit
-	10. benevolence
+	7. beneficiary
+	8. benefit
+	9. benevolence
 		1. benevolent
-	11. benevolent
-	12. benediction
-	13. benedictory
-	14. beneficiation
-	15. benign
+	10. benevolent
+	11. benedict
+		1. benediction
+		2. benedictory
+		3. beneficiation
+	12. benign
 		1. bene-好 + gn-出生，指出生好的，有教养的。
 		2. benignly
 		3. benignity
@@ -1110,11 +1110,11 @@
 			2. _n._ [unkind](dic://unkind)
 			3. **countenance**面容，表情;**benevolent**好心肠的;**benign**良性的;**merciful**仁慈的;**pious**虔诚的;**disposition**气质, 天性, 性格;**bosom**胸;**agreeable**欣然同意的;**gentle**温和的;**malignant**有恶意的;**bestow**授予;
 		5. benignance
-	17. benison
+	13. benison
 		1. beni-=bene-好 + -son。
 		2. **bestow**授予;**blessing**祝福;**wondrous**令人惊奇的;**sorrow**悲伤;**boon**恩惠;
 		3. [benediction](dic://benediction), [blessing](dic://blessing)
-	18. Benedictus
+	14. Benedictus
 4. **bon-** = good, 表示“好”。源自拉丁语 bonus "good."
 	1. bonanza
 		1. **windfall**被风吹落的果子;**extravaganza**娱乐表演;**frenzy**狂怒;**glut**供过于求;**boom**发隆隆声;**veritable**真正的，名副其实的;**blockbuster**重磅炸弹, 了不起的人或事;**boon**恩惠;**big-time**一流的,快乐时光;**trove**被发现的东西;**lucrative**获利多的, 赚钱的;

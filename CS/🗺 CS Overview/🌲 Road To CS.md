@@ -683,3 +683,9 @@ https://www.zhihu.com/question/264237428/answer/320325900
 
 [程序员核心竞争力 | 脉脉]: https://maimai.cn/n/content/feed-detail?efid=oPRMEXqLWHNV5X2b1dGPow&fid=1832670358&id=1832670358&share_channel=5&share_uid=234632291&operation_id=2_0513m8IsUZZ3h3cO7d9&use_rn=1&_share_channel=copy_link
 
+[Teach Yourself Programming in Ten Years - Peter Norvig]: http://norvig.com/21-days.html#answers
+
+[Latency Numbers Every Programmer Should Know]: https://colin-scott.github.io/personal_website/research/interactive_latency.html
+
+![](../../Assets/Pics/Screenshot%202024-07-20%20at%205.15.57%20PM.png)
+
