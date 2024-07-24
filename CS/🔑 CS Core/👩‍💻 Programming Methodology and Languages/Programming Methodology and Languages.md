@@ -19,7 +19,8 @@
 ↗ [Network Programming & RPC](../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 ↗ [ML Programming & Frameworks](../../Artificial%20Intelligence/🛫%20Frameworks%20&%20Implementations%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
 ↗ [Computer Graphics Programming](../../Software%20Engineering/Computer%20Graphics%20Programming.md)
-↗ [Parallel Programming](../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Programming.md)
+↗ [Parallel Programming](../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/Parallel%20Computing/Parallel%20Programming.md)
+↗ [Concurrent Programming](../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
 
 ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 ↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
@@ -75,7 +76,7 @@
 
 
 ## Programming Languages Taxonomy
-### 👉 Platform Specific
+### 👉 By Programming Eco/Platform/Frameworks
 #### [.NET](https://zh.wikipedia.org/wiki/.NET%E6%A1%86%E6%9E%B6 ".NET框架")
 - [C#](https://zh.wikipedia.org/wiki/C%E2%99%AF "C♯") 
     - [Visual C#](https://zh.wikipedia.org/wiki/Microsoft_Visual_C%E2%99%AF "Microsoft Visual C♯")
@@ -87,7 +88,7 @@
 - [IronScheme](https://zh.wikipedia.org/w/index.php?title=IronScheme&action=edit&redlink=1)
 - [VB.NET](https://zh.wikipedia.org/wiki/Visual_Basic_.NET "Visual Basic .NET")
 - [Small Basic](https://zh.wikipedia.org/wiki/Microsoft_Small_Basic "Microsoft Small Basic")
-#### [JVM](https://zh.wikipedia.org/wiki/Java%E5%B9%B3%E8%87%BA "Java平臺")
+#### JVM
 - [Java](https://zh.wikipedia.org/wiki/Java "Java") 
     - [AspectJ](https://zh.wikipedia.org/w/index.php?title=AspectJ&action=edit&redlink=1)
     - [JSP](https://zh.wikipedia.org/wiki/JSP "JSP")
@@ -104,7 +105,7 @@
 - [Swift](https://zh.wikipedia.org/wiki/Swift_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80) "Swift (程式語言)")
 
 
-### 👉 Programming Paradigm
+### 👉 By Programming Paradigm
 > 🔗 https://www.geeksforgeeks.org/introduction-of-programming-paradigms/
 
 **Paradigm** can also be termed as method to solve some problem or do some task. Programming paradigm is an approach to solve problem using some programming language or also we can say it is a method to solve a problem using tools and techniques that are available to us following some approach. There are lots for programming language that are known but all of them need to follow some strategy when they are implemented and this methodology/strategy is paradigms.
@@ -174,6 +175,9 @@ It is one of the oldest programming paradigm. It features close relation to mach
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
 
 Examples are NESL (one of the oldest one) and C/C++ also supports because of some library function.
+
+
+### 👉 By Programming Scenario 
 
 
 

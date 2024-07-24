@@ -1,4 +1,4 @@
-# High Performance Storage (HPS)
+# The Reader & Writer Problem
 
 [TOC]
 

@@ -1,4 +1,4 @@
-# Chinese Internet Infrastructure
+# Chinese Network Infrastructure
 
 [TOC]
 

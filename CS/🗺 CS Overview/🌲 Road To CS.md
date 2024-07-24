@@ -154,7 +154,7 @@ https://github.com/hoochanlon/hamulete/tree/master
 	2. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 	3. etc.
 7. Web3 /Metaverse /Cryptocurrency
-	5. ↗ [Web3](../Web3%20&%20Cryptocurrency/Web3/Web3.md)
+	5. ↗ [Web 3.0](../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
 	6. etc.
 8. Human-Computer Interaction
 	1. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)

@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Graphics Processing & GUI SDK](🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/Graphics%20Processing%20&%20GUI%20SDK.md)
-↗ [(3D) Graphics Rendering Frameworks](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/(3D)%20Graphics%20Rendering%20Frameworks/(3D)%20Graphics%20Rendering%20Frameworks.md)
+↗ [Graphics Rendering Frameworks (2D & 3D)](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/Graphics%20Rendering%20Frameworks%20(2D%20&%203D).md)
 
 ↗ [Graphic Game Engines & Game Dev](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🕹️%20Games/📌%20Graphic%20Game%20Engines%20&%20Game%20Dev/Graphic%20Game%20Engines%20&%20Game%20Dev.md)
 ↗ [GUI Desktop Environments & Windowing Systems](../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)

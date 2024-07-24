@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Concurrent Programming](../Concurrent%20Programming.md)
 
 
 
@@ -20,7 +21,7 @@ The central themes of operating system design are all concerned with the **manag
 
 > ❗❗❗ This section covers concurrency in **multiprogramming (多道程序处理)** and **multiprocessing（多处理系统）**. 
 > 
-> For distributed processing（分布式系统进程管理） move to ↗ [Distributed Process Management](../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
+> For distributed processing（分布式系统进程管理） move to ↗ [Distributed Process Management](../../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
 
 
 ### Concurrency Scenarios
@@ -73,7 +74,7 @@ Conditions will not always be as clear-cut as suggested in figure above. Rather,
 Mutual exclusion at ↗ [Mutual Exclusive & Synchronization (互斥与同步)](Mutual%20Exclusive%20&%20Synchronization%20(互斥与同步).md)
 #### 2️⃣ Cooperation by Sharing (Indirectly Aware)
 Synchronization at ↗ [Mutual Exclusive & Synchronization (互斥与同步)](Mutual%20Exclusive%20&%20Synchronization%20(互斥与同步).md)
-#### 3️⃣ Cooperation by Communication (Directly Aware)
+#### 3️⃣ Cooperation by Communication (Directly Aware)(IPC) ⭐
 A broad topic at ↗ [IPC (Inter Process Communication)](../IPC%20(Inter%20Process%20Communication)/IPC%20(Inter%20Process%20Communication).md)
 
 

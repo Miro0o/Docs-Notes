@@ -1,4 +1,4 @@
-# Web3 & Cryptocurrency
+# Web 3.0 & Cryptocurrency
 
 [TOC]
 
