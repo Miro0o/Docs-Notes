@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [GNU (GNU's Not Unix)](../../../Linux%20(Derived%20From%20UNIX%20Family)/🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md)
+
+
 ### 📂 Official Documentation
 [Documentation for Bash](https://www.gnu.org/software/bash/manual/) is available online, as is [documentation for most GNU software](https://www.gnu.org/manual/). You may also find information about Bash by running info bash or man bash, or by looking at `/usr/share/doc/bash/`, `/usr/local/share/doc/bash/`, or similar directories on your system. A brief summary is available by running bash --help.
 

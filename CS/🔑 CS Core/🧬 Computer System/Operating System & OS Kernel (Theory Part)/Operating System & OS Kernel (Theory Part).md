@@ -42,6 +42,7 @@
 
 👍 📖 Operating Systems: Three Easy Pieces
 https://pages.cs.wisc.edu/~remzi/OSTEP/
+https://github.com/remzi-arpacidusseau/ostep-projects
 
 📖 大话处理器（？偶尔看到，不知道怎么样）
 
