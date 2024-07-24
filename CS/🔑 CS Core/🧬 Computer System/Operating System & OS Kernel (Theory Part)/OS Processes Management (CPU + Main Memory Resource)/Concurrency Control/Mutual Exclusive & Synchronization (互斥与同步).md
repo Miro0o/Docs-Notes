@@ -33,17 +33,11 @@ The cases of synchronization are subset of cases of mutual exclusive. (同步的
 ### ⭐️ Mutual Exclusion: Requirements
 Any facility or capability that is to provide support for mutual exclusion should meet the following requirements:
 1. Mutual exclusion must be enforced: Only one process at a time is allowed into its critical section, among all processes that have critical sections for the same resource or shared object.
-
 2. A process that halts in its noncritical section must do so without interfering with other processes.
-
 3. It must not be possible for a process requiring access to a critical section to be delayed indefinitely: no deadlock or starvation.
-
 4. When no process is in a critical section, any process that requests entry to its critical section must be permitted to enter without delay.
-
 5. No assumptions are made about relative process speeds or number of processors.
-
 6. A process remains inside its critical section for a finite time only.
-
 
 > 1.空闲让进。临界区空闲时，可以允许一个请求进入临界区的进程立即进入临界区; 
 >
@@ -58,11 +52,8 @@ Any facility or capability that is to provide support for mutual exclusion shoul
 1. One approach is to leave the responsibility with the processes that wish to execute concurrently. (**process self-discretion**)
 2. A second approach involves the use of special-purpose machine instructions. (**hardware level**)
 3. A third approach is to provide some level of support within the OS or a programming language. (**system software level**)
-
-
 #### 👉 Process Self-discretion
-![](../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.57.48%20PM.png)
-
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.57.48%20PM.png)
 ##### 1️⃣ Dekker’s Algorithm
 ```c
 bool flag[2];
@@ -106,8 +97,6 @@ void main(){
 }
 
 ```
-
-
 ##### 2️⃣ Peterson’s Algorithm
 ```c
 bool flag[2];
@@ -160,11 +149,8 @@ void main(){
 	parbegin(P0, P1);
 }
 ```
-
-
 #### 👉 Hardware Level Approaches
-![](../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.59.00%20PM.png)
-
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-11%20at%207.59.00%20PM.png)
 ##### 1️⃣ Interrupt Disabling (Interrupt Mask)
 In a uniprocessor system, concurrent processes cannot have overlapped execution; they can only be interleaved. Furthermore, a process will continue to run until it invokes an OS service or until it is interrupted. Therefore, to guarantee mutual exclusion, it is sufficient to prevent a process from being interrupted. This capability can be provided in the form of primitives defined by the OS kernel for disabling and enabling interrupts.
 
@@ -180,11 +166,8 @@ while (true) {
 Because the critical section cannot be interrupted, mutual exclusion is guaranteed. The price of this approach, however, is high. 
 - The **efficiency** of execution could be noticeably degraded because the processor is limited in its ability to interleave processes. 
 - Another problem is that this approach will **not work in a multiprocessor architecture**. When the computer includes more than one processor, it is possible (and typical) for more than one process to be executing at a time. In this case, disabled interrupts do not guarantee mutual exclusion.
-
-
 ##### 2️⃣ Special Machine Instructions (Busy Waiting/ Spin Waiting)
 ###### TestAndSet(TS) / TestAndSetLock(TSL)
-
 
 ###### (Compare &) Swap / Exchange / XCHG
 
@@ -198,8 +181,7 @@ if (oldval == testval) *word = newval; return oldval;
 
 }
 ```
-![](../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.27.15%20AM.png)
-
+![](../../../../../../../Assets/Pics/Screenshot%202023-06-12%20at%209.27.15%20AM.png)
 
 The exchange instruction can be defined as follows:
 ```c
@@ -212,8 +194,6 @@ temp = *memory; *memory = *register; *register = temp;
 ```
 
 > 如果觉得进程自旋忙等浪费`CPU`性能，而且临界区执行时间较长，那可以通过上下文切换，使得等待进程进入阻塞睡眠，当临界区进程执行完，再进行唤醒。是采用忙等还是进行上下文切换让进程进入睡眠，需要看一下临界区执行时间是否很长，如果执行时间长，则让进程进入睡眠。如果临界区执行时间很短，反而上下文切换对`CPU`损耗时间更长，则采用忙等。
-
-
 ###### 🤔 Properties of Special Machine Instructions Approaches
 
 The use of a special machine instruction to enforce mutual exclusion has a number of advantages:
@@ -227,10 +207,7 @@ However, there are some serious disadvantages:
 - **Deadlock** is possible: Consider the following scenario on a single-processor system. Process P1 executes the special instruction (e.g., compare&swap, exchange) and enters its critical section. P1 is then interrupted to give the processor to P2, which has higher priority. If P2 now attempts to use the same resource as P1, it will be denied access because of the mutual exclusion mechanism. Thus, it will go into a busy waiting loop. However, P1 will never be dispatched because it is of lower priority than another ready process, P2.
 
 Because of the drawbacks of both the software and hardware solutions, we need to look for other mechanisms.
-
-
 #### 👉 OS /Programming Language Level Approaches
-
 > 回顾之前的方案，他们有什么问题？
 > - 在双标志先检查法中，进入区的“检查”、“上锁”操作无法一气呵成，从而导致了两个进程有可能同时进入临界区的问题;
 > - ==所有的解决方案都无法实现“让权等待”==

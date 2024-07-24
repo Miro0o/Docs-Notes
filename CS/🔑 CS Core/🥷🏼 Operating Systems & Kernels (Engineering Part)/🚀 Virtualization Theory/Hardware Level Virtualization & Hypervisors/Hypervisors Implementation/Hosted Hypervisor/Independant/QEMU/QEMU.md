@@ -29,7 +29,7 @@ The QEMU website has a [Documentation page](https://www.qemu.org/documentation/
 
 
 ### Related Topics
-↗ [VirGL](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/(3D)%20Graphics%20Rendering%20Frameworks/📌%20Mesa%20Project/VirGL/VirGL.md)
+↗ [VirGL](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/📌%20Mesa%20Project/VirGL/VirGL.md)
 
 
 

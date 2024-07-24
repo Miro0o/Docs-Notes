@@ -92,7 +92,7 @@ At this level virtualizations are often referred as Hypervisors, or VMM (virtual
 ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
 
 ↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
-↗ [(3D) Graphics Rendering Frameworks](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/(3D)%20Graphics%20Rendering%20Frameworks/(3D)%20Graphics%20Rendering%20Frameworks.md)
+↗ [Graphics Rendering Frameworks (2D & 3D)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/Graphics%20Rendering%20Frameworks%20(2D%20&%203D).md)
 
 
 

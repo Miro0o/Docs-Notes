@@ -10,6 +10,9 @@
 ↗ [JS Engines (JS Compilation)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
 ↗ [Awesome CLI Integration](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
+↗ [Web Browsers Development](../../../Software%20Engineering/Desktop%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
+↗ [Browser Security](../../../CyberSecurity/Application%20Security/💉%20Web%20Security/Browser%20Security/Browser%20Security.md)
+
 
 ### Others
 https://chromium.github.io/octane/#

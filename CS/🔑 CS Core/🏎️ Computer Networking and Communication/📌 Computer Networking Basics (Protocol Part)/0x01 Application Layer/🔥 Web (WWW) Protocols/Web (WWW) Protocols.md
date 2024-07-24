@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [Web Development](../../../../../Software%20Engineering/Web%20Development/Web%20Development.md)
+
+
 ### Web Security
 ↗ [Pentesting](../../../../../CyberSecurity/🥇%20Best%20Practice/💉%20Pen↗ testing/Pentesting.md)
 ↗ [Network Security](../../../../../CyberSecurity/Network%20Security/Network%20Security.md)

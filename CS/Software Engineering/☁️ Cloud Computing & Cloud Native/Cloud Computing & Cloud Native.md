@@ -13,8 +13,10 @@
 ↗ [Edge & Frog Computing](../../Embedded%20&%20Internet%20of%20Things/Edge%20&%20Frog%20Computing/Edge%20&%20Frog%20Computing.md)
 
 ↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
-↗ [Parallel Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
-
+↗ [High Performance Computing](../../🔑%20CS%20Core/🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computing.md)
+↗ [High Performance Storage (HPS)](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/High%20Performance%20Storage%20(HPS).md)
+↗ [High Performance Network (HPN) & IDC Technologies](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies.md)
+↗ [Datacenter](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Datacenter.md)
 
 ### Cloud Native Computing Foundation (CNCF)
 🏠 https://www.cncf.io/projects/

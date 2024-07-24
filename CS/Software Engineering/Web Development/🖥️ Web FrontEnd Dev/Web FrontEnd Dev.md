@@ -5,11 +5,15 @@
 
 
 ## Res
-### 📂 Docs
-[Web technology for developers | Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web)
+### Related Topics
+↗ [Web Frontend Deployment](../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Web%20Frontend%20Deployment/Web%20Frontend%20Deployment.md)
+↗ [Frontend Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Frontend%20Galleries/Frontend%20Galleries.md)
+↗ [Desktop Dev using Webs](../../Desktop%20Development/Desktop%20Dev%20using%20Webs/Desktop%20Dev%20using%20Webs.md)
 
 
-### Online Tutorials
+### Tutorials & Docs
+📂 [Web technology for developers | Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web)
+
 🎬 [尚硅谷Web前端零基础入门HTML5+CSS3基础教程丨初学者从入门到精通](https://www.bilibili.com/video/BV1XJ411X7Ud?p=49&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d)
 
 🔥 [技术胖 (前端知识树)](https://gitee.com/jishupang/web_atlas#技术胖的前端学习路径) 
@@ -23,17 +27,9 @@
 [DCloud](https://www.dcloud.io)
 
 
-### Deployments
-↗ [Web Frontend Deployment](../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Web%20Frontend%20Deployment/Web%20Frontend%20Deployment.md)
-
-
 ### Communities & Organizations
-#### [W3C](https://www.w3.org)
+[W3C](https://www.w3.org)
 The World Wide Web Consortium (W3C) is an [international community](https://www.w3.org/Consortium/facts) that develops open [standards](https://www.w3.org/TR/) to ensure the long-term growth of the Web.
-
-
-### Galleries
-↗ [Frontend Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Frontend%20Galleries/Frontend%20Galleries.md)
 
 
 

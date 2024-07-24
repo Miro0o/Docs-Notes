@@ -1,4 +1,4 @@
-# (3D) Graphics Rendering Frameworks
+# Graphics Rendering Frameworks (2D & 3D)
 
 [TOC]
 

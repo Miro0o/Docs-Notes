@@ -39,7 +39,7 @@ _欢迎大家加我微信大家一起学习 **yzy85215215** (需要视频教�
 
 [Build-web-app-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 
-[👏👏👏最全空降Golang[资料补给包]](https://github.com/0voice/Introduction-to-Golang)
+[👏👏👏最全空降Golang「资料补给包」](https://github.com/0voice/Introduction-to-Golang)
 
 [8小时转职Golang工程师](https://www.yuque.com/aceld/mo95lb/dsk886)
 【8小时转职Golang工程师(如果你想低成本学习Go语言)】 https://www.bilibili.com/video/BV1gf4y1r79E/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

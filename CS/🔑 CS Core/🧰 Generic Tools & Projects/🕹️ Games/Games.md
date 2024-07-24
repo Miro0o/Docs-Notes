@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [(3D) Graphics Rendering Frameworks](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/(3D)%20Graphics%20Rendering%20Frameworks/(3D)%20Graphics%20Rendering%20Frameworks.md)
+↗ [Graphics Rendering Frameworks (2D & 3D)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Graphics%20Processing%20&%20GUI%20SDK/Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/Graphics%20Rendering%20Frameworks%20(2D%20&%203D).md)
 ↗ [ASCII Arts](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 
 ↗ [AI & Gaming](../../../../Software%20Engineering/🤖%20AI%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)

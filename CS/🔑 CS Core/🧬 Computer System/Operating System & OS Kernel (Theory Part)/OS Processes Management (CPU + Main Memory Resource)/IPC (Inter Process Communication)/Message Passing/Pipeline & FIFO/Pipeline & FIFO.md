@@ -9,7 +9,7 @@
 
 ## Intro
 
-![img](../../../../../../../../Assets/Pics/280px-Pipeline.svg.png)
+![img](../../../../../../../../../Assets/Pics/280px-Pipeline.svg.png)
 
 
 
