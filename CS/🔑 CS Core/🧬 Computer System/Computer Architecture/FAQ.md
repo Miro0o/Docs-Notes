@@ -212,7 +212,7 @@ It is important to understand that the company that created the processor define
 
 
 
-## 👉 # Symmetric Multiprocessing (SMP) and Asymmetric Multiprocessing (AMP)
+## 👉 Symmetric Multiprocessing (SMP) and Asymmetric Multiprocessing (AMP)
 
 
 

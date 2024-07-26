@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [Computer Systems & Implementations](../📌%20Computer%20Systems%20&%20Implementations/Computer%20Systems%20&%20Implementations.md)
 
 ↗ [Distributed Systems](../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 ↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
@@ -116,14 +117,8 @@ To control computer processors in a programmable way, knowledge about assembly l
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
 
-### ⭐ Importance Themes In Computer Systems
-↗ [Importance Themes & Ideaology in CS](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Importance%20Themes%20&%20Ideaology%20in%20CS.md)
-#### 👉 Concurrency & Parallelism
-↗ [Multiprocessor Architectures & Parallel Computing](Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
-#### 👉 Abstraction & Encapsulation
-↗ [📌 Operating System Overview /🧠 Abstractions Provided by an Operating System (From User Perspective)](../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/📌%20Operating%20System%20Overview.md#🧠%20Abstractions%20Provided%20by%20an%20Operating%20System%20(From%20User%20Perspective))
-↗ [IO Generality (via Abstraction)](../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/IO%20Generality%20(via%20Abstraction).md)
-#### 👉 Coupling & Decoupling
+### Objective of Computer Architecture: Impossible Triangle
+“性能-功耗-成本”组成的“不可能三角
 
 
 

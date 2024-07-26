@@ -17,6 +17,9 @@
 
 
 ## Intro
+![](../../../../../../../../Assets/Pics/Screenshot%202024-07-26%20at%201.51.35%20PM.png)
+<small>https://en.wikipedia.org/wiki/Graphics_processing_unit</small>
+
 
 
 ## Ref

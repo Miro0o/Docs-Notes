@@ -1,4 +1,4 @@
-# Parallel Programming
+# Manycore Processor Units
 
 [TOC]
 
