@@ -9,12 +9,20 @@
 ↗ [LLM & Security](🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 
-### Projects & Labs
+### Courses & Projects & Labs
 > ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
 > ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
  🔥 👍 Comprehensive & Introductory security labs/ courses
 
+
+🏫 [MIT - 6.5660 Computer System Security](../🏠%20Assets/Courses%20of%20Universities/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)
+🎬【麻省理工学院 - MIT - 网络安全（我愿称之为网络安全教程天花板）】 https://www.bilibili.com/video/BV1HJ4m1w7fB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+MIT - Computer System Security
+
+🏫 [MIT - 6.857: Computer and Network Security](../🏠%20Assets/Courses%20of%20Universities/MIT/6.857%20Computer%20and%20Network%20Security/6.857:%20Computer%20and%20Network%20Security.md)
+
+🏫 [UCB - CS161 Computer Security](../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
 
 👍 [sectools.org](https://sectools.org)
 
@@ -126,7 +134,6 @@ Hacker101 is a free class for web security. Whether you’re a programmer with a
 ---
 📖 Black Hat Python: Python Programming for Hackers and Pentesters
 🚧 https://github.com/EONRaider/blackhat-python3
-
 
 ---
 📖 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali

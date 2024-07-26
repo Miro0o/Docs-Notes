@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Cygwin Project](../../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Cygwin%20Project/Cygwin%20Project.md)
+↗ [Cygwin Project](../../../📟%20System%20Level%20Programming/System%20Level%20Projects/Cygwin%20Project/Cygwin%20Project.md)
 
 ↗ [MinGW & MinGW-w64](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)
 ↗ [MSYS & MSYS2](../../🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)

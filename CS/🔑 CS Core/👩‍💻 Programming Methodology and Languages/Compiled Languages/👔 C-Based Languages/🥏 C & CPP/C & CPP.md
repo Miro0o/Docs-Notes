@@ -23,6 +23,10 @@ C++98, C++03, [C++11](https://en.cppreference.com/w/cpp/11 "cpp/11"), [C++14](
 合集·现代C++项目实战
 本系列《项目实战》课程更注重实战，结合实际项目，探讨现代C++黑科技如何运用，类似于cppcon。而此前的《高性能》系列课程更注重理论，主打一个标准库和语言新特性的完全API指南，类似于cppreference。希望同学们能结合起来观看。
 
+🎬【【中字精译】《为游戏编程学习C++》 全网最好的C++入门教程】 https://www.bilibili.com/video/BV1dT421a7HT/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬 https://www.youtube.com/@javidx9extra/videos?view=0&sort=p&shelf_id=3
+🎬【【百万好评】国外技术大神C++游戏编程实战教程，油管580W收藏，新手10小时入门，并快速达到游戏开发能力】 https://www.bilibili.com/video/BV12m42157oq/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 ## Intro

@@ -25,6 +25,10 @@
 
 
 ### Learning Resources
+https://www.youtube.com/c/PowerCertAnimatedVideos
+PowerCert Animated Videos
+Learn Visually. A channel of animated information technology videos. Thank you for stopping by.
+【【97集】计算机硬件-计算机网络-知识动画大合集-计算机模拟动画合集-中英cc字幕】 https://www.bilibili.com/video/BV1Bp421y761/?p=2&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

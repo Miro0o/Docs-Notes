@@ -48,7 +48,7 @@
 
 
 ### 4️⃣ Quantum Computer
-↗ [Quantum Computing](../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/Quantum%20Computing/Quantum%20Computing.md)
+↗ [Quantum Computing](../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Quantum%20Computing/Quantum%20Computing.md)
 
 
 

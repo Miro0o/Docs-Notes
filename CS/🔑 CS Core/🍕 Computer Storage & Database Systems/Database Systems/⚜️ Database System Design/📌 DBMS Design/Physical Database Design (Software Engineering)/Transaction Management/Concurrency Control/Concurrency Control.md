@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Topics
+↗ [Concurrent Programming](../../../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
+
 
 
 ## Intro
@@ -22,15 +25,10 @@ However, although two transactions may be perfectly correct in themselves, the i
 > An apparently successfully completed update operation by one user can be overridden by another user.
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-04%20at%203.54.18%20PM.png)
-
-
 #### 2️⃣ Uncommitted Dependency (Dirty Read) Problem (During Job Updating)
 > The uncommitted dependency problem occurs when one transaction is allowed to see the intermediate results of another transaction before it has committed.
 
-
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-04%20at%203.56.40%20PM.png)
-
-
 #### 3️⃣ Inconsistent Analysis (During Job Reading)
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-04%20at%203.59.40%20PM.png)
 

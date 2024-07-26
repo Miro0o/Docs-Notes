@@ -41,8 +41,13 @@
 
 > ↗ [HTTP Connection Management](0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/📌%20HTTP%20Basics/HTTP%20Connection%20Management.md)
 
-> TL;DR
-> **concurrency**: multiple task request concur at the same time
+> **TL;DR**
+> 
+> - **并发**：由于有限的资源限制，在某一划定的时间段内（一个时刻，一个处理周期，任意其他规定的时段）资源的请求大于可用资源，这时就需要某种策略来协调这种供小于求的情况，使得在约定的条件内达到最优解。这通常意味着在最短时间内满足最多的资源请求。
+> - **并行计算**：对一个已知的任务，通过某种划分策略，使得这个任务被划分为多个可以同时处理的子任务，从而达到对该任务处理性能的提高。处理性能可以是任何规定的指标，不过通常是处理效率，即速度/成本。
+> - **流水线技术/pipelining**: 一种简单的并行计算中的划分策略。
+> 
+> **concurrency**: multiple tasks request concur at the same time
 > 
 > **pipelining**: a kind of mechanism to accelerate processing speed via enabling parallel computing without losing task sequential dependency. 
 > 

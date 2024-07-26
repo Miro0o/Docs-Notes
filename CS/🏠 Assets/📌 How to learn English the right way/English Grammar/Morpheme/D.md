@@ -1861,42 +1861,116 @@
 			3. **accomplice**从犯, 帮凶, 同谋;**murderer**凶手;**perpetrator**做坏事者;**thief**小偷，贼;**sinner**罪人;**adversary**对手, 敌手;**offender**冒犯者;**robber**强盗;**villain**坏人，恶棍;**felon**重罪犯;**spammer**垃圾邮件制作者;
 		10. unfeasable
 	37. manufacture
+		1. n. 产品, 制造  
+		2. vt. 制造, 假造  
+		3. vi. 制造
+		4. manufacture - 许多英语辞书把manufacture一词释义为“以机器制造（尤指大量）”，但若就其成分来看，manufacture真正的字面含义是“手工制作”。它源于拉丁语manū 'by hand'和factura 'a making'。另一个词factory（工厂）也是源自factura的。（参见manager）
+		5. manu-手 + fact-做 + -ure名词后缀 → 用手做 → 制造。
+		6. trial-manufacture
+		7. semimanufactures
+		8. manufacturing
+		9. manufacturer
+		10. manufactural
+		11. manufacturability
 	38. malefaction
 		1. _[malefaction](dic://malefaction)_  n. 罪行；罪恶；犯罪行为
 		2. malefic
 		3. maleficent, maleficence
-	40. fake
-	41. fashion
-	42. fetish
-	43. satisfactory
-	44. tabefaction, labefactionm
+	39. fake
+		1. 俚语，词源不确定。可能来自 fact-,做，词源同 face,factitious.即人为的，伪造的。
+		2. n. 假货, 欺骗, 诡计  
+		3. a. 假的  
+		4. vt. 假造, 仿造  
+		5. vi. 伪装
+		6. fakery
+			1. n. 伪造, 赝品, 假货, 伪装, 捏造
+		7. faker
+			1. n. 骗子, (卖滑头货的)摊贩
+		8. fakement
+			1. n. 假货, 伪造签名, 诡计, 骗局
+		9. deepfake
+			1. n. 深度伪造
+	40. fashion
+		1. n. 流行, 风尚, 时样  
+		2. vt. 形成, 造, 作
+		3. 来自法语，来自 fash-,做，词源同 face,fact.即做，准备，形象，外表。后来该词用来指时尚，潮流。
+		4. unfashioned
+		5. tailor-fahioned
+		6. spoon-fashion
+		7. refashion
+		8. old-fashioned
+		9. newfashioned
+		10. full-fashioned
+		11. fashionmonger
+		12. fashioning
+		13. fashionable
+			1. unfashionable
+			2. ultrafashionable
+			3. fashionably
+	41. fetish
+		1. fetish（恋物）：非洲原始部落的实物崇拜  
+		2. 在西非和中非的一些原始部落流行传统的实物崇拜，这是一种非常原始的宗教。这些原始部落由于对自然现象缺乏理解，以为许多物体如石块、木片、树枝、弓箭等具有灵性，并赋以神秘的、超自然的性质，以及支配人的命运的力量。他们将这种灵性物品制作成护身符，或当成偶像来进行崇拜。  
+		3. 最初来到西非的葡萄牙航海家、水手和商人接触这些非洲原始部落后，将他们所崇拜的这些护身符或偶像称为feitiço，意思是“人造的”，来自拉丁语facticius（人造的）。1760年，著名人类学家查尔斯•德•布霍斯（Charles De Brosses）在其著作中提到了非洲原始部落的这种实物崇拜，并在葡萄牙语feitiço的基础上构造了法语fétiche，英语单词fetish正是来源于此。  
+		4. 在宗教领域，fetish表示“实物崇拜，拜物”；在心理学领域，fetish表示“恋物”。  
+		5. vt. 盲目迷恋；以……为偶像
+		6. fetish：['fetɪʃ] n.恋物，恋物癖；拜物，偶像  
+		7. fetishism：['fiːtɪʃɪzəm] n.恋物癖，恋物症；拜物教
+		8. 来自葡萄牙语 feitico,有魔力的物品，护身符，来自 fact-,做，制造，词源同 do,fact.原为葡萄牙海员出海时所携带的护身符，后引申词义神物，癖好，特指心理上的依恋。
+		9. an author who fetishizes privacy /迷恋隐私题材的作者。
+		10. We fetishize them as tokens of intrinsic value. /我们盲目的为他们定下固有的价值。
+		11. Due respect, Jim, but you fetishize these guys /恕我直言 吉姆 你对军人太迷恋。
+		12. If you're a pasta lover, if you fetishize pasta tools, if this is your thing, and you have your KitchenAid extruder and your attachment, and you have your Imperia roller, this could be a fun addition. /- 如果你是意大利面爱好者， 如果你迷恋意大利面工具，如果这是你的事， 并且你有 KitchenAid 挤出机和附件，并且你有 Imperia 滚筒， 这可能是一个有趣的补充。
+		13. fetishize
+			1. _v._ [adore](dic://adore)
+			2. **loathe**讨厌，厌恶;**obsession**困扰;**revel**狂欢;**tendency**倾向，趋势;**preoccupation**全神贯注，入神;**despise**轻视，鄙视;**crave**渴望;**equate**使相等;**fixated**念念不忘的;**obsessed**着迷的;**yearn**渴望;
+		14. fetishist
+			1. fetishistic
+		15. fetishism
+	42. satisfactory
+		1. satis-足够 + fact-做 + -ory, 表形容词。
+		2. sa-
+	43. tabefaction, labefactionm
 		1. _[tabefaction](dic://tabefaction)_  n. 消瘦，衰弱
-	45. rubefaction
+	44. rubefaction
 		1. _[rubefaction](dic://rubefaction)_  n. 皮肤发红；使…发红；红化作用
 		2. rubefacient
-	47. refactory, refection
-	48. abortifacient
+	45. refactory, refection
+	46. abortifacient
 		1. _n._ [drug](dic://drug)
 		2. _adj._ [causative](dic://causative)
 		3. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
 		4. **contraceptive**避孕药;**contraception**避孕;**abortion**流产，小产;**progesterone**孕酮,黄体酮;**medicinal**医学的;**uterine**子宫的;**uterus**子宫;**fetus**胎儿，胎;**pill**药丸;**poison**使中毒，放毒于;**pills**丸剂;
-	49. absorbefacient
+	47. absorbefacient
 		1. _[absorbefacient](dic://absorbefacient)_  n. 吸收剂; adj. 吸收性的;
-	50. calefacient, calefactory
+	48. calefacient, calefactory
 		1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
-	51. deficient, deficit
+	49. deficient, deficit
 		1. _adj._ [inadequate](dic://inadequate), [depleted](dic://depleted), [low](dic://low), [poor](dic://poor), [short](dic://short), [lean](dic://lean), [skimpy](dic://skimpy)
 		2. _n._ [adequate](dic://adequate), [standard](dic://standard)
 		3. **deficiency**缺乏, 不足, 短缺;**inadequate**不适当的;**lacking**缺乏的;**insufficient**不足的;**defective**有缺陷的;**woefully**悲伤地;**insufficiency**不充足,不足;**chronically**长期地;**incapable**无能力的, 不会的;**flawed**有缺陷的;**impaired**受损的;
 		4. deficiency
-	52. difficult
-	53. editfice
-	54. efficacious
-		1. efficacy
-		2. efficiency
-		3. efficient
-		4. inefficacy
-	55. proficient
+	50. difficult
+	51. editfice
+	52. efficacious
+		1. a. 有效的, 灵验的
+		2. [美 /ˌefɪˈkeɪʃəs/](cmd://Speak/_us_/efficacious)
+		3. _adj._ [effective](dic://effective), [hard-hitting](dic://hard-hitting), [trenchant](dic://trenchant), [impelling](dic://impelling), [impressive](dic://impressive), 
+		4. [telling](dic://telling), [rough-and-ready](dic://rough-and-ready)
+		5. _n._ [inefficacious](dic://inefficacious)
+		6. **effective**有效的;**efficacy**功效，效力;**cost-effective**有成本效益的,划算的;**expedient**应急有效的;**potent**强有力的;**beneficial**有益的, 有利的;**therapeutic**治疗的;**eminently**很;**efficient**有能力的, 效率高的;**ineffective**无效的;**feasible**可行的;
+		7. efficacy (effigy)
+			1. [efficaciousness](dic://efficaciousness)
+			2. _n._ [effectiveness](dic://effectiveness), [effectivity](dic://effectivity), [effectualness](dic://effectualness), [effectuality](dic://effectuality)
+			3. _n._ [inefficacy](dic://inefficacy), [inefficaciousness](dic://inefficaciousness)
+			4. **effectiveness**有效;**usefulness**有用,有益,有效;**potency**威力, 力量;**validity**有效性;**applicability**适用性;**reliability**可靠，可信赖;**robustness**强度;**viability**生存能力,发育能力;**toxicity**毒性;**feasibility**可行性;**relevance**中肯;
+			5. there is little information on the efficacy of this treatment. /关于此法的疗效目前所知甚少。
+			6. there is no substantive evidence for the efficacy of these drugs /没有实质性的证据证实这些药品的效用。
+			7. he retains a firm belief in the efficacy of prayer. /他仍对祷告的作用坚信不疑。
+			8. This plan would have some efficacy in preventing any danger. /
+		8. efficiency
+		9. efficient
+		10. inefficacy
+	54. proficient
 		1. _adj._ [skilled](dic://skilled)
 		2. _n._ [unskilled](dic://unskilled)
 			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
@@ -1904,33 +1978,33 @@
 			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
-	56. prolific
+	55. prolific (profligate)
 		1. adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
 		2. [fecund](dic://fecund), [fertile](dic://fertile)
 		3. [fertile](dic://fertile)
 		4. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
 		5. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
 		6. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-	57. munificent
+	56. munificent
 		1. muni-服务、礼物 + fic-做 + -ent，即送礼物的，准备大礼的。
 		2. 来自拉丁语 munificus,慷慨的，大方的，来自 munus,礼物，-fic,做，词源同 fact,beneficial.即送礼物的，准备大礼的。
 		3.  [lavish](dic://lavish), [overgenerous](dic://overgenerous), [prodigal](dic://prodigal), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
 		4. _adj._ [generous](dic://generous)
 		5. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
 		6. **benefactor**恩人;**generous**慷慨的，大方的;**benevolent**好心肠的;**endowed**赋予，捐赠;**patronage**赞助;**prodigious**巨大的;**generosity**慷慨, 大方, 宽容;**pious**虔诚的;**splendid**辉煌的;**endowment**资助,捐助;**bestow**授予;
-	59. omnificent
+	57. omnificent
 		1. adj. 创造万物的；有无限创造力的（等于 omnific）
-	60. office
-	61. orifice
+	58. office
+	59. orifice
 		1. n. (尤指身体上的) 孔口
 		2. ori-嘴 + -fic做，引申词义孔，穴，腔。
 		3. 来自拉丁语 orificium,开口，来自 ori-,嘴，词源同 oral,-fic,做，词源同 do,fact.引申词义孔，穴，腔。
 		4. orificium
 		5. orificial
-	62. sacrifice
-	63. significant
+	60. sacrifice
+	61. significant
 		1. significative
-	64. soporific
+	62. soporific
 		1. sopor-睡觉，昏睡 + -fic做，使，引申词义催眠的。
 		2. a. 催眠的, 想睡的, 令人麻木不仁的  
 		3. n. 催眠剂, 安眠药
@@ -1940,11 +2014,11 @@
 		7. **hypnotic**催眠的，催眠术的;**sleepy**困乏的;**narcotic**麻醉的;**soothing**使人宽心的;**inane**愚蠢的;**intoxicating**醉人的;**banal**陈腐的;**stimulant**兴奋剂;**hangover**宿醉;**noxious**有害的;**calming**平静的;
 		8. the motion of the train had a somewhat soporific effect /火车的行驶起了一定的催眠作用。
 		9. I dozed off during the soporific music /我听到这催人入睡的音乐,便不知不觉打起盹儿来了。
-	66. sorbefacient
-	67. liquefacient
-	68. suffice
+	63. sorbefacient
+	64. liquefacient
+	65. suffice
 		1. suf-在下面 + fic-做 + -e → 在下面先做好 → 充足。
-		2.  - suf-,在下，向上，-fic,做，词源同 fact,efficient.引申词义做到足够，使足够，足以。
+		2. suf-,在下，向上，-fic,做，词源同 fact,efficient.引申词义做到足够，使足够，足以。
 		4. [do](dic://do), [answer](dic://answer), [serve](dic://serve)
 		5. _v._ [satisfy](dic://satisfy), [fulfill](dic://fulfill), [fulfil](dic://fulfil), [live up to](dic://live up to)
 		6. **presume**假定;**suppose**假设;**conceivably**令人信服地;**surely**稳当地;**certainly**无疑地;**would**将，将要;**ought**应该，应当;**should**应该;**might**可能;**overkill**过度地杀伤;**ordinarily**平常地,普普通通地;
@@ -1961,15 +2035,15 @@
 			1. self-sufficiency
 			2. insufficiency
 		13. self-sufficing
-	69. traffic
-	70. tumefacient
+	66. traffic
+	67. tumefacient
 		1. a. 肿胀的, 肿大的, 引起肿胀的
-	71. counterfeit
+	68. counterfeit
 		1. n. 赝品, 伪造品  
 		2. a. 假冒的, 假装的  
 		3. v. 仿造, 伪装, 假装
 		4. counter-相对 + feit-=fact-做。
-	72. forfeit
+	69. forfeit (confiscate)
 		1. n. 没收物, 罚金  
 		2. vt. 丧失，被没收  
 		3. a. 丧失了的
@@ -1990,7 +2064,7 @@
 		18. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
 		19. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
 		20. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
-	73. surfeit
+	70. surfeit
 		1.  [excess](dic://excess), [overabundance](dic://overabundance)
 		2.  [glut](dic://glut), [oversupply](dic://oversupply)
 		3.  [repletion](dic://repletion)
@@ -2001,14 +2075,14 @@
 		8. a surfeit of complaints /过度的牢骚
 		9. a surfeit of food and drink /过量的食物和饮料。
 		10. a surfeit of rich food /过量的油腻食物
-	74. discomfit
-	75. rarefactive
+	71. discomfit
+	72. rarefactive
 		1. adj．稀薄的，使稀薄的：导致气体或物质变得稀薄的。
 			1. The rarefactive effect of high altitude causes a decrease in air pressure.  /高海拔的稀薄效应导致气压降低。
-	76. putrefactives
-	77. petrifactive
+	73. putrefactives
+	74. petrifactive
 		1. _adj._ 石化性的;造成石化的
-	78. profit
+	75. profit
 		1. superprofit
 		2. profittaking
 		3. profitless
@@ -3525,58 +3599,88 @@
 ### + \*dhwer- +
 1. **for-** = "away, apart, off(forbid)", = "intensive, very much (forlorn)", 来自盎格鲁-撒克逊语。和希腊词源的 thyroid【甲状腺】，日耳曼词源的 door【门】同源。源自拉丁语 foras "out of doors, outside," foris "out of doors," forum "marketplace."
 	1. forbear
-		1. [hold back](dic://hold back)
-		2. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
-		3. _v._ [refrain](dic://refrain)
-		4. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
-		5. _bear and forbear_ [古语]一忍再忍;一忍再忍;
-		6. forbore
-		7. forbearing
-		8. forbearance
-	3. forbid
-		1.  [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow)
-		2.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude)
-		3. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
-		4. _n._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
-		5. **prohibit**阻止，禁止;**decreed**任命的;**dictate**命令;**discourage**使气馁;**punish**严厉对待;**restrict**限制;**allow**允许;**heaven**天堂;**god**神;**compel**强迫，迫使;**insist**坚持，强调;
-		6. 
-		7. forbidding
-		8. forbidden, unforbidden
+		1. vt. 忍耐；克制
+		2. vi. 忍耐；克制
+		3. n. 祖先
+		4. forbear [fɔː'beə] v.克制；忍耐。这里的-bear部分依旧不是熊，而是忍耐；承担之意，前缀for-这里表away, opposite, completely，因此forbear就是to bear up（振作）one's feeling。类似，forgive原谅是to give up completely，forget忘记是toget(grasp in mind) away。bear and forbear一忍再忍。
+		5. [hold back](dic://hold back)
+		6. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+		7. _v._ [refrain](dic://refrain)
+		8. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
+		9. _bear and forbear_ [古语]一忍再忍;一忍再忍;
+		10. forbear from complaining /不发牢骚
+		11. Theda could not forbear a smile. /西达禁不住嫣然一笑。
+		12. can't forbear criticizing their ineptitude. /禁不住要批评他们的笨拙
+		13. The fans could not forbear crying out at the wonderful goal. /一记精采的进球使球迷们禁不住叫喊起来。
+		14. His wife has a forbearing nature; she accepts trouble with a smile. /"他妻子天生容忍,遇到麻烦都能一笑了事。"
+		15. According to the statues, customs and laws laid down by your forbears? /你是否愿意庄严宣誓将统领这个王国的土地和它的人民。并遵循你祖先传下的习俗以及法律
+		16. But Maria's forbears had inherited and conquered territories since the sixteenth century which had large religious minorities within them. /但玛丽亚的祖先自十六世纪以来就继承并征服了境内有大量宗教少数群体的领土。
+		17. forbore
+		18. forbearing
+		19. forbearance
+			1. _n._ [good nature](dic://good nature), [delay](dic://delay), [holdup](dic://holdup)
+			2. **patience**耐性，耐心;**repayment**偿还;**forgiveness**宽恕;**mercy**仁慈，宽容;**grace**优雅;**gentleness**温和;**humility**谦卑，谦逊;**fortitude**坚韧, 刚毅;**kindness**仁慈;**virtue**美德;**impatience**急躁;
+			3. Forbearance is no acquittance /缓期不等于作罢。
+			4. forbearance from taking action. /克制不采取行动。
+			5. The parents showed remarkable forbearance toward their defiant and unruly son /父母对儿子的桀骜不驯示以了极大宽容。
+			6. It already offers some products that rely on neither Britain's tax forbearance nor rich individuals elsewhere. /它已经提供了一些既不依赖于英国收税延展也不依赖于别处富有个人的产品。
+	2. forbid
+		1. for-否定，相反 + bid【命令】。即命令不许做某事的，禁止做某事的。
+		2. vt. 禁止, 不准, 妨碍
+		3.  [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow)
+		4.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude)
+		5. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
+		6. _n._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+		7. **prohibit**阻止，禁止;**decreed**任命的;**dictate**命令;**discourage**使气馁;**punish**严厉对待;**restrict**限制;**allow**允许;**heaven**天堂;**god**神;**compel**强迫，迫使;**insist**坚持，强调;
+		8. Discretion forbids a reply /谨慎阻止了回答
+		9. His parents forbid him wine. /他的父母不准他喝酒。
+		10. forbidding
+		11. forbidden, unforbidden
 	4. foreclose
-		1. **foreclosure**丧失抵押品赎回权,排斥;**mortgage**抵押;**refinance**再为…筹钱,再供…资金;**lenders**放款人;**lender**贷方;**lien**留置权;**liens**留置权;**loans**借贷;**refinancing**重新募集资金;**borrower**剽窃者，借用人;**vacate**空出，腾出;
-		2. _v._ [reclaim](dic://reclaim), [repossess](dic://repossess)
-		3. 
-		4. foreclosure
-	6. foreign
-		1. [strange](dic://strange)
-		2. [alien](dic://alien)
-		3. [extraneous](dic://extraneous)
-		4. foreignness
-		5. foreignize
-		6. foreignism
-		7. foreigner
-		8. foreign-born
-		9. antiforeign
-	8. forensic
-		1. _adj._ [rhetorical](dic://rhetorical)
-		2. _n._ [unrhetorical](dic://unrhetorical)
-		3. **investigative**调查研究的，侦查的;**detective**侦探;**pathologist**病理学者;**autopsy**验尸;**fingerprint**指纹;**toxicology**毒物学;**psychiatric**精神病的;**investigator**调查者;**investigation**调查;**medical**医学的;**expert**熟练的;
-		4. unforensic
-		5. forensics
-	10. forest
-		1.  [wood](dic://wood), [woods](dic://woods)
-		2. [woodland](dic://woodland), [timberland](dic://timberland), [timber](dic://timber)
-		3.  [afforest](dic://afforest)
-		4. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany), [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground)_v._ [plant](dic://plant), [set](dic://set)
-		5. **woodland**林地;**rainforest**雨林;**forestry**林学;**woods**树林;**vegetation**植物;**grassland**草原，牧场;**trees**树木;**jungle**丛林，密林;**meadows**草地;**meadow**草地;**grove**小树林;
-		6. reforest, reforestation
-		7. rainforest, 
-		8. forestry
-		9. forester
-		10. forestation, disforestation
-		11. deforest, deforestation
-		12. afforest, afforestation
-	12. forfeit
+		1. vt. 阻止, 排除, 预先处理, 取消抵押品赎回权  
+		2. vi. 取消抵押品赎回权
+		3. 来自古法语forclos, 关在外面。for-, 外面，词源同foreign. clos,关闭，词源同close. 拼写受fore影响。后用于经济学名词。
+		6. foreclosure [fɔː'kləʊʒə] n.丧失抵押品赎回权。这里的fore-并不是单词forehead和foresee等中表“前”的fore-，而是拉丁词根for-，本意是door，指outside(of the door)，字面意思是“shutting out the owner”。债务人无力清偿债务时，债权人向法院申请将债务人名下房屋拍卖，以拍卖所得抵债。
+		4. **foreclosure**丧失抵押品赎回权,排斥;**mortgage**抵押;**refinance**再为…筹钱,再供…资金;**lenders**放款人;**lender**贷方;**lien**留置权;**liens**留置权;**loans**借贷;**refinancing**重新募集资金;**borrower**剽窃者，借用人;**vacate**空出，腾出;
+		5. _v._ [reclaim](dic://reclaim), [repossess](dic://repossess)
+		6. the bank was threatening to foreclose on his mortgage. /银行威胁要取消他的回赎抵押权。
+		7. sent advice that the mortgage would be foreclosed; /通知他们抵押品将被取消赎回权；
+		8. People who find themselves upside down in their mortgage often have no choice but to foreclose. /当人们发现自己负债与贷款关系" 颠倒" 之后，他们通常不得不取消抵押品赎回权。
+		9. The banker doesn't know whether or not to foreclose which would be a disaster. /银行可能会扣下抵押品，这是个隐患。
+		10. foreclosure
+	5. forest
+		1. forest（森林）：禁止平民入内的王室森林  
+		2. 英语中表示“森林”的单词是forest，从拼写上看，它与表示“树木”的单词tree、wood没有任何关系。这是为什么呢？原来，在古英语中，表示“森林”的单词是weald或wald，而现代英语中的forest是个地道的外来词。它来自拉丁语forestem silvam，最早出现在法兰克国王查理曼大帝所制订的法律中，表示“禁止平民入内的王室森林”。其中，forestem来自foris（outside），表示“禁止入内”，而silvam才表示“森林”，英语单词silva或sylva（森林里的树木）就来自silvam。不懂拉丁语的英国普通民众将拉丁语forestem silvam拦腰砍断，用前半截forest来表示王室御用森林，后来泛指为任何森林。  
+		3. 英语单词foreign与forest同源，也来自拉丁语foris（outside），本意就是“外面的、大门外面的”。  
+		4. forest：['fɒrɪst] n.森林  
+		5. forestry：['fɔrɪstri] n. 林业；森林地；林学  
+		6. deforest：[,di'fɔrɪst] vt. 采伐森林；清除…上的树林  
+		7. deforestation：[,di,fɔrɪ'steʃən] n. 采伐森林；森林开伐  
+		8. foreign：['fɒrɪn] adj.外国的，外面的，异质的，不相关的
+		9.  [wood](dic://wood), [woods](dic://woods)
+		10. [woodland](dic://woodland), [timberland](dic://timberland), [timber](dic://timber)
+		11.  [afforest](dic://afforest)
+		12. _n._ [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany), [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground)_v._ [plant](dic://plant), [set](dic://set)
+		13. **woodland**林地;**rainforest**雨林;**forestry**林学;**woods**树林;**vegetation**植物;**grassland**草原，牧场;**trees**树木;**jungle**丛林，密林;**meadows**草地;**meadow**草地;**grove**小树林;
+		14. reforest, reforestation
+		15. rainforest, 
+		16. forestry
+		17. forester
+		18. forestation, disforestation
+		19. deforest, deforestation
+		20. afforest, afforestation
+	6.  foreign
+		1.  来自拉丁语 foris,门外，在外面，词源同 door.拼写受 reign,sovereign 等影响。后用于指陌生的，外国的。
+		2. [strange](dic://strange)
+		3. [alien](dic://alien)
+		4. [extraneous](dic://extraneous)
+		5. foreignness
+		6. foreignize
+		7. foreignism
+		8. foreigner
+		9. foreign-born
+		10. antiforeign
+	7. forfeit
 		1. [forfeiture](dic://forfeiture)
 		2. [forfeiture](dic://forfeiture)
 		3. [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
@@ -3586,30 +3690,30 @@
 		7. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
 		8. forfeiter
 		9. forfeitable
-	14. forfend
-	15. forget
+	8. forfend
+	9. forget
 		1. forgetter
 		2. forgettable, unforgettable
 		3. forgetive
 		4. forgetful, self-forgetful
 		5. forget-me-not
-	16. forgive
+	10. forgive
 		1. unforgiving
 		2. forgiving
 		3. forgiveness
 		4. forgiven
 		5. forgivable
-	17. forgo
+	11. forgo
 		1. **opt**选择;**abandon**离弃;**defer**延期;**postpone**使…延期;**shun**避开, 回避, 避免;**instead**代替;**chose**选择;**skip**跳绳;**relinquish**交出, 让给;**partake**参与;**renounce**宣布放弃;
 		2. [waive](dic://waive), [relinquish](dic://relinquish), [foreswear](dic://foreswear), [dispense with](dic://dispense with)
 		3. [predate](dic://predate), [precede](dic://precede), [forego](dic://forego), [antecede](dic://antecede), [antedate](dic://antedate)
 		4. [forfeit](dic://forfeit), [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive)
 		5. 
-	18. forlorn
+	12. forlorn
 		1. _adj._ [hopeless](dic://hopeless)
 		2. _n._ [hopeful](dic://hopeful)
 		3. **desolate**荒凉的;**lonely**寂寞的;**hopeless**绝望的;**melancholy**忧郁, 悲哀;**pitiful**可怜的，令人同情的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**dilapidated**破旧的;**sad**悲哀的，令人悲痛的;
-	19. forsake, godforsaken
+	13. forsake, godforsaken
 		1.  [abandon](dic://abandon), [desolate](dic://desolate), [desert](dic://desert)
 		2. [abandon](dic://abandon) 强调永远或完全放弃或抛弃人或事物等，这可能是被迫的，也可能是自愿的。  
 		3. [desert](dic://desert) 着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。  
@@ -3618,16 +3722,44 @@
 		6. [give up](dic://give up) 普通用语，侧重指没有希望或因外界压力而放弃。
 		7. **abandon**离弃;**shun**避开, 回避, 避免;**betray**背叛;**renounce**宣布放弃;**repent**忏悔;**perish**毁灭;**leave**离开;**despise**轻视，鄙视;**obey**服从，听从;**relinquish**交出, 让给;**depart**离开;
 		8. 
-	20. forsaken
-	21. forsook
-	22. forswear, forsworn, forswore
-	23. forum
-		1.  [assembly](dic://assembly), [meeting place](dic://meeting place)
-		2. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting), [facility](dic://facility), [installation](dic://installation)
-		3. **thread**线;**discussion**讨论, 商讨;**threads**线;**topic**题目;**moderator**调解人;**post**职位;**posting**记录;**site**位置, 场所, 地点;**community**社区, 社会, 团体;**posts**标杆;**blog**博客;
-	24. faubourg
-		1. **rue**后悔;**Parisian**巴黎人的;**suburb**郊区;**neighbourhood**地区;**Nantes**南斯;**boulevard**大街, 林阴大道;**Toulouse**图卢兹;**Monsieur**先生;**Paris**巴黎;**bourgeois**资产阶级的;**suburbs**郊外;
-		2. _n._ [suburb](dic://suburb), [suburbia](dic://suburbia), [suburban area](dic://suburban area)
+	14. forsaken
+	15. forsook
+	16. forswear (perjury)
+		1.  _vt._ 发誓抛弃,坚决放弃
+		2. 发伪誓,作伪证
+		3. [abjure](dic://abjure), [recant](dic://recant), [retract](dic://retract), [resile](dic://resile)
+		4. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate)
+		5. **renounce**宣布放弃;**shun**避开, 回避, 避免;**abandon**离弃;**abstain**放弃;**forgo**放弃;**denounce**谴责;**loathe**讨厌，厌恶;**refuse**拒绝;**profess**公开表示;**allegiance**忠诚;**betray**背叛;
+		6. And I will forswear ever feeding on you again if that's what it takes to convince you of that. /如果能够让你重拾对我的信任我愿立誓 永不再吸你的血。
+		7. " Did my heart love 'til now? Forswear it, sight! For I ne'er saw true beauty 'til this night" /“直到现在我的心还爱着吗？我发誓，看见了！因为直到今晚我才看到真正的美丽”。
+		8. forsworn, forswore
+	18. forum
+		1. forum（论坛）：古罗马城中的一块公共空地  
+		2. 在古罗马城中，在Palatine山和Capitoline山之间的一个小山谷中，在几座政府建筑之间有一块空地，这块空地就是著名的“罗马广场”（Roman Forum），在现在的罗马遗址中依然能找到。这块空地原本是一个市场，古罗马人将其称为forum，在拉丁语中是“市场、公共场所”的意思。该词来自拉丁语foris（户外），同源的单词还有forest（森林）、foreign（外国的，外乡的）。  
+		3. 在数百年的历史中，这块空地一直是古罗马人公共生活的中心。古罗马人在这里举行庆祝，进行选举、演讲、审判以及角斗表演。这里还是各种商业活动的枢纽。英语单词forum就源自古罗马人对这块空地的称呼，中文一般翻译为“论坛”，其实就是公众集合活动的场所。因为讨论和交流是公众集合的主要内容，所以forum一词的含义逐渐演变为公众讨论的场所。  
+		4. forum： ['fɔːrəm] n.论坛，讨论会，公开讨论的广场  
+		5. forensic：[fə'rɛnsɪk] adj. 法院的；辩论的；适于法庭的
+		6.  [assembly](dic://assembly), [meeting place](dic://meeting place)
+		7. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting), [facility](dic://facility), [installation](dic://installation)
+		8. **thread**线;**discussion**讨论, 商讨;**threads**线;**topic**题目;**moderator**调解人;**post**职位;**posting**记录;**site**位置, 场所, 地点;**community**社区, 社会, 团体;**posts**标杆;**blog**博客;
+	19. forensic
+		1. _adj._ [rhetorical](dic://rhetorical)
+		2. _n._ [unrhetorical](dic://unrhetorical)
+		3. **investigative**调查研究的，侦查的;**detective**侦探;**pathologist**病理学者;**autopsy**验尸;**fingerprint**指纹;**toxicology**毒物学;**psychiatric**精神病的;**investigator**调查者;**investigation**调查;**medical**医学的;**expert**熟练的;
+		4. skilled at forensic reading. /精于辩论术
+		5. Without corroboration from forensic tests,it will be difficult to prove that the suspect is guilty. /没有法医化验的确证就很难证明嫌疑犯有罪。
+		6. With the advances in oncotic research, researches in forensic medicine and practice will be impacted greatly. /随着对胀亡研究的深入,将对法医学科研及实践产生深远的影响。
+		7. unforensic
+		8. forensics
+	20. faubourg [/ˈfoˌbʊr/](cmd://Speak/_us_/faubourg) 
+		1. n. 近郊; 新市区
+		2. n. （尤指法国）市郊；（巴黎的）郊区
+		3. faubourg ['fəʊbʊəɡ] n.近郊；新市区。它与suburb郊区是近义词，fau-是拉丁词根for-表示（outside of）door，与日耳曼词源的door和希腊词根thyr-表示门同源，-bourg部分同Hamburg汉堡等中的-burg，这里表city，与拉丁词根fort-表堡垒同源。近郊，area outside the city，现在如法国巴黎还有使用。 ​​​​
+		4. **rue**后悔;**Parisian**巴黎人的;**suburb**郊区;**neighbourhood**地区;**Nantes**南斯;**boulevard**大街, 林阴大道;**Toulouse**图卢兹;**Monsieur**先生;**Paris**巴黎;**bourgeois**资产阶级的;**suburbs**郊外;
+		5. _n._ [suburb](dic://suburb), [suburbia](dic://suburbia), [suburban area](dic://suburban area)
+		6. Her salon will set the tone for the faubourg St. Germain. /她的沙龙将为圣日耳曼郊区定下基调。
+		7. This was a double triumph, and the Count de Dreux was highly elated when they returned to their chamber in the old house of the faubourg Saint-Germain. /这是双重胜利，当他们回到圣日耳曼郊区老房子的房间时，德勒伯爵非常高兴。
+		8. It was said that these munitions came from a grocer in the **Faubourg** Saint-Antoine named Pepin. /据说这些作战物资是由圣安东尼郊区一个名叫贝班的食品杂货店老板供给的。
 2. **thyr-** = door, 表示“门”。医学上表示“甲状腺”。源自拉丁语 thura "door."
 	1. 
 3. door
