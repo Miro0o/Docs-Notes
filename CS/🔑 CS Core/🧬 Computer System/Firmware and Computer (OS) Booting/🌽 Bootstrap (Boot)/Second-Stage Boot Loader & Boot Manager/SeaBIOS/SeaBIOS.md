@@ -8,6 +8,9 @@
 🏠 https://www.seabios.org/SeaBIOS
 
 
+### Related Topics
+
+
 
 ## Intro
 SeaBIOS is an open source implementation of a 16bit X86 BIOS. SeaBIOS can run in an emulator or it can run natively on X86 hardware with the use of [coreboot](http://www.coreboot.org/).

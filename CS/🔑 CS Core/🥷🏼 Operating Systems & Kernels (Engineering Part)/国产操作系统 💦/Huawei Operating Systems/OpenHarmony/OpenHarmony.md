@@ -21,7 +21,7 @@ Codelabs：[教程指导](https://gitee.com/openharmony/codelabs)
 
 
 ### Related Topics
-↗ [Huawei HarmonyOS Runtimes & ArkCompiler](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler.md)
+↗ [Huawei HarmonyOS Runtimes & ArkCompiler](../📌%20Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler.md)
 
 ↗ [OpenAtom Foundation (开放原子开源基金会)](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/OpenAtom%20Foundation%20(开放原子开源基金会).md)
 ↗ [Linux (Derived From UNIX Family)](../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
@@ -37,7 +37,7 @@ https://bbs.kanxue.com/forum-178.htm
 
 ## Intro
 > 🔗 https://gitee.com/openharmony
-> ↗ [Huawei HarmonyOS Runtimes & ArkCompiler](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler.md)
+> ↗ [Huawei HarmonyOS Runtimes & ArkCompiler](../📌%20Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler.md)
 
 OpenHarmony是由开放原子开源基金会（OpenAtom Foundation）孵化及运营的开源项目，目标是面向全场景、全连接、全智能时代，搭建一个智能终端设备操作系统的框架和平台，促进万物互联产业的繁荣发展。
 

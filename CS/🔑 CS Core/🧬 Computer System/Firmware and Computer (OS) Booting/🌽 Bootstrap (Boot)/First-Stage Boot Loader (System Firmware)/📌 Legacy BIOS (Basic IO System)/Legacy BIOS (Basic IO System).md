@@ -1,10 +1,12 @@
-# BIOS (Basic IO System)
+# Legacy BIOS (Basic IO System)
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+
 
 
 ## Intro

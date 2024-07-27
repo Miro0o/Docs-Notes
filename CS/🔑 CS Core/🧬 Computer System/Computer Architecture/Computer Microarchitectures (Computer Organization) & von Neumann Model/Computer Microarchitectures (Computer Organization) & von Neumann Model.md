@@ -10,8 +10,8 @@
 ↗ [Classical Electromagnetism](../../../Hardware%20&%20EE%20Related/🍏%20Other%20Related%20Theories/Classical%20Electromagnetism.md)
 ↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 
-↗ [Firmware and Booting](../../Firmware%20and%20Booting/Firmware%20and%20Booting.md)
-↗ [Bootstrap (Boot)](../../Firmware%20and%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
+↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+↗ [Bootstrap (Boot)](../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
 
 ↗ [Devices Schematic Diagram & Teardown](../../../Hardware%20&%20EE%20Related/Devices%20Schematic%20Diagram%20&%20Teardown.md)
 

@@ -38,7 +38,7 @@ http://t.csdnimg.cn/fpEXy
 
 ## Intro
 先插一句话，现在很多人用UEFI BIOS这个称呼。这里为了区分：
-- BIOS一律指传统BIOS，
+- BIOS一律指传统BIOS，(Legacy BIOS)
 - UEFI BIOS一律称呼为UEFI。
 - UEFI下的BIOS设置，一律称为UEFI设置。
 
@@ -50,7 +50,7 @@ In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), **booting
 
 **Boot** is short for **[_bootstrap_](https://en.wikipedia.org/wiki/Bootstrapping "Bootstrapping")** or **bootstrap load** and derives from the phrase _[to pull oneself up by one's bootstraps](https://en.wikipedia.org/wiki/Bootstrapping#Etymology "Bootstrapping")_. The usage calls attention to the requirement that, if most software is loaded onto a computer by other software already running on the computer, some mechanism must exist to load the initial software onto the computer. Early computers used a variety of ad-hoc methods to get a small program into memory to solve this problem. The invention of [read-only memory](https://en.wikipedia.org/wiki/Read-only_memory "Read-only memory") (ROM) of various types solved this paradox by allowing computers to be shipped with a start up program that could not be erased. Growth in the capacity of ROM has allowed ever more elaborate start up procedures to be implemented.
 
-↗ [BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20BIOS%20(Basic%20IO%20System)/BIOS%20(Basic%20IO%20System).md) 
+↗ [Legacy BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20Legacy%20BIOS%20(Basic%20IO%20System)/Legacy%20BIOS%20(Basic%20IO%20System).md) 
 ↗ [UEFI BIOS](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20UEFI%20BIOS/UEFI%20BIOS.md)
 
 
@@ -77,7 +77,7 @@ In the case of a computer, the POST routines are part of a device's pre-boot seq
 
 ## Boot Sequence
 ### 🎯 BIOS Boot Sequence
-↗ [BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20BIOS%20(Basic%20IO%20System)/BIOS%20(Basic%20IO%20System).md)
+↗ [Legacy BIOS (Basic IO System)](First-Stage%20Boot%20Loader%20(System%20Firmware)/📌%20Legacy%20BIOS%20(Basic%20IO%20System)/Legacy%20BIOS%20(Basic%20IO%20System).md)
 
 
 ### 🎯 UEFI BIOS Boot Sequence

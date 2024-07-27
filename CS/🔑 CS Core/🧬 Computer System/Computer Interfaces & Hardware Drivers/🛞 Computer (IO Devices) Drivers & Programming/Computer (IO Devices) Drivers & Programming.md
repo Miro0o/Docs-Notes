@@ -18,7 +18,7 @@
 
 ↗ [Network Programming & RPC](../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 
-↗ [Firmware and Booting](../../Firmware%20and%20Booting/Firmware%20and%20Booting.md)
+↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 - ↗ [FAQ /👉 Difference Between Computer Firmware 🆚 Drivers?](../FAQ.md#👉%20Difference%20Between%20Computer%20Firmware%20🆚%20Drivers?)
 ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 ↗ [Embedded Computer Systems](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
