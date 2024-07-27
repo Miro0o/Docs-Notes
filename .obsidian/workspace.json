@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4bd3b488e9ba47b3",
+            "id": "1efc42c70a12a0ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation & Compilation Theory (Compile-time)/Program Language Translation & Compilation Theory (Compile-time).md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Interrupts (Software & Hardware).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "988a4bab7ce47003",
+            "id": "6e96fedc5c1b525c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/🇨🇳 Mainland China/NJU/问题求解/问题求解.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/🇨🇳 Mainland China/NJU/问题求解/问题求解.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/🇨🇳 Mainland China/NJU/问题求解/问题求解.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/🇨🇳 Mainland China/NJU/问题求解/问题求解.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory and Formal Language Theory.md"
               }
             }
           },
@@ -210,48 +210,48 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "988a4bab7ce47003",
+  "active": "6e96fedc5c1b525c",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Projects/Compute Unified Device Architecture & CUDA Programming/Compute Unified Device Architecture & CUDA Programming.md",
-    "CS/🏠 Assets/Courses of Universities/🇨🇳 Mainland China/NJU/问题求解/问题求解.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and Formal Language Theory/Automata Theory/Automata Theory.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/angr.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Application Runtimes & SDKs.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/😴 Operating System Components & Runtime Libraries/Operating System Components & Runtime Libraries.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/Windows System Libraries & Runtime Environments/Windows System Libraries & Runtime Environments.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Android & AOSP/📌 Android Runtime Environments/Android Runtime Environments.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Android & AOSP/📌 Android Runtime Environments",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/📌 Apple Runtimes Environments/Apple Runtimes Environments.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/📌 Apple Runtimes Environments",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/🖼️ Graphics Rendering Frameworks (2D & 3D)/openGL/openGL.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/Media Processing & GUI SDK.md",
+    "CS/Software Engineering/Computer Media Programming/Computer Media Programming.md",
+    "CS/Software Engineering/Computer Media Programming/FAQ.md",
+    "CS/Software Engineering/Computer Media Programming/Video & Streaming Service/Video & Streaming Service.md",
+    "CS/Software Engineering/Computer Media Programming",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Transmission (Streaming) & OTT.md",
+    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Compression Technologies/Codec & Media Formats & Standards/Graphics Formats & Standards/Graphics Formats & Standards.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/FFmpeg/FFmpeg.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/openCV/openCV.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/FFmpeg",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/📌 Graphic Game Engines & Game Dev/Graphic Game Engines & Game Dev.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Code Sanitizer.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🚀 Virtualization Theory/Virtualization Theory.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Game Emulators/Game Emulators.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Hypervisors Implementation/Hosted Hypervisor/Independant/AVD (Android Virtual Device)/Bluestack.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Game Emulators/Android Emulators",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Hypervisors Implementation/Hosted Hypervisor/Independant/AVD (Android Virtual Device)/AVD (Android Virtual Device).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Hypervisors Implementation/Hosted Hypervisor/Independant/AVD (Android Virtual Device)",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
+    "Assets/Illustrations/Computer Security/risk_management_and_software_security.excalidraw.md",
+    "Assets/Illustrations/Computer System/vmnet.excalidraw.md",
+    "Assets/Illustrations/Computer System/x86_history.excalidraw.md",
     "CS/🏠 Assets/Courses of Universities/🇨🇳 Mainland China/NJU/问题求解",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Computing & Computing Systems/Parallel Computing/Parallel Computing.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Computer Processors & Logic Chips.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
-    "CS/🔑 CS Core/🧬 Computer System/System Software.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/Hardware Acceleration.md",
     "Assets/Pics/Screenshot 2024-07-26 at 2.01.12 PM.png",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multicore Processor Units/Manycore Processor Units.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multicore Processor Units/Multicore Processor Units.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multicore Processor Units/Manycore Processor Units",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Computing & Computing Systems/🚀 High Performance Computing/High Performance Computing.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/Multiprocessors and Multicore Processors/Multicore Processor Units",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation & Compilation Theory (Compile-time)/Program Language Translation & Compilation Theory (Compile-time).md",
-    "Entrepreneurship/working archive/wenshu notes.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/OS Processes Management (CPU + Main Memory Resource).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/Concurrent Programming.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/Concurrency Control/Concurrency Control.md",
-    "CS/Web 3.0 & Cryptocurrency/Web 3.0 & Cryptocurrency.md",
-    "CS/Web 3.0 & Cryptocurrency/Web 3.0/Web 3.0.md",
-    "CS/Software Engineering/Web Development/Web Development.md",
-    "CS/Software Engineering/Web Development/Video & Streaming Service/Video & Streaming Service.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Internet and Internet Protocol Suites (TCP&IP Protocol Suites)/Hierarchy of Internet & ISP & IBP.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Internet and Internet Protocol Suites (TCP&IP Protocol Suites)/Internet and Internet Protocol Suites (TCP&IP Protocol Suites).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Protocol Suites Standardizations & Administration/Internet and Internet Protocol Suites (TCP&IP Protocol Suites)/Internet Protocol Suites (TCP&IP Protocol Suites).md",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.53 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.35 PM.png",
     "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/Computing Units & Chips & Boards/📌 ASIC (Application-Specific Integrated Circuit)/Full-Customized ASIC/NPU (Neural Processing Units)",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Hardwares & Chips/Computing Units & Chips & Boards/📌 ASIC (Application-Specific Integrated Circuit)/Full-Customized ASIC/AWS Trainium and Inferentia Chips",
     "Assets/Pics/Screenshot 2024-07-26 at 1.32.38 PM.png",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Projects",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Projects/Compute Unified Device Architecture & CUDA Programming",
-    "CS/Software Engineering/Security Software Development",
-    "CS/Software Engineering/System Level Software Development",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Global Network Infrastructure",
     "Assets/Pics/Screenshot 2024-07-21 at 12.41.22 AM.png",
     "Assets/Pics/Screenshot 2024-07-21 at 12.35.01 AM.png",
     "Assets/Pics/Screenshot 2024-07-21 at 12.32.05 AM.png",

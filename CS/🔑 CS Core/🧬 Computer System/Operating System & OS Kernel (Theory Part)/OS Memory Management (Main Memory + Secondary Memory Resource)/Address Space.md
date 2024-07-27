@@ -61,10 +61,10 @@ In this case kernel space is located at the top of the address space, while user
 ![](../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%209.08.32PM.png)
 
 
-### Kernel Address Space
+### 👉 Kernel Address Space
 
 
-### Application Address Space (Process Address Space)
+### 👉 Application Address Space (Process Address Space)
 Linux processes is shown in Figure 1.13. (Other Unix systems use a similar layout.) In Linux, the topmost region of the address space is reserved for code and data in the operating system that is common to all processes. The lower region of the address space holds the code and data defined by the user’s process. Note that addresses in the figure increase from the bottom to the top.
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%209.00.24PM.png)

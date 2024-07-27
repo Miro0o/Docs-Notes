@@ -30,4 +30,3 @@ The project also includes two separate menu systems and a development environmen
 
 ## Ref
 [🤔 Syslinux | Arch Linux Wiki]: https://wiki.archlinux.org/title/Syslinux#Installing_the_Syslinux_boot_loader
-	

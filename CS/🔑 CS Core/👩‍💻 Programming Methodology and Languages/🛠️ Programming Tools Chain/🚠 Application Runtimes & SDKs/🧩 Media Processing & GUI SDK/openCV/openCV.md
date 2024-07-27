@@ -55,9 +55,6 @@ cv2.imshow('resize', resize)
 cv2.waitKey()
 
 ```
-
-
-
 ###### [openCV quick experience](https://new.pythonforengineers.com/blog/image-and-video-processing-in-python/)
 
 > If you want to use your own images, make sure they are not too high quality. In the first attempt, I was using Hd quality images, and opencv was detecting carpet swirls as objects. It also detected shadows as objects (including my own). Though blurring is supposed to get rid of this, if the photo is of very high quality, you will need to do a lot of blurring.
@@ -142,7 +139,4 @@ cv2.waitKey(0)
 [openCV quick experience ...](https://new.pythonforengineers.com/blog/image-and-video-processing-in-python/)
 
 [tp resize pic window ... ](https://stackoverflow.com/q/35180764/16542494)
-
-
-
 

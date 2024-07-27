@@ -8,6 +8,9 @@
 ### Related Topics
 
 
+### Learning Resources
+
+
 
 ## Intro
 ### Formal Language Theory
@@ -33,7 +36,6 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 **Automata theory** is the study of [abstract machines](https://en.wikipedia.org/wiki/Abstract_machine "Abstract machine") and [automata](https://en.wikipedia.org/wiki/Automaton "Automaton"), as well as the [computational problems](https://en.wikipedia.org/wiki/Computational_problem "Computational problem") that can be solved using them. It is a theory in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") with close connections to [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic "Mathematical logic"). The word _automata_ comes from the Greek word αὐτόματος, which means "self-acting, self-willed, self-moving". An automaton (automata in plural) is an abstract self-propelled computing device which follows a predetermined sequence of operations automatically. An automaton with a finite number of states is called a Finite Automaton (FA) or Finite-State Machine (FSM). The figure on the right illustrates a [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine "Finite-state machine"), which is a well-known type of automaton. This automaton consists of [states](https://en.wikipedia.org/wiki/State_(computer_science) "State (computer science)") (represented in the figure by circles) and transitions (represented by arrows). As the automaton sees a symbol of input, it makes a transition (or jump) to another state, according to its [transition function](https://en.wikipedia.org/wiki/Transition_table "Transition table"), which takes the previous state and current input symbol as its arguments.
 
 Automata theory is closely related to [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") theory. In this context, automata are used as finite representations of formal languages that may be infinite. Automata are often classified by the class of formal languages they can recognize, as in the [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy "Chomsky hierarchy"), which describes a nesting relationship between major classes of automata. Automata play a major role in the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of computation"), [compiler construction](https://en.wikipedia.org/wiki/Compiler_construction "Compiler construction"), [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence"), [parsing](https://en.wikipedia.org/wiki/Parsing "Parsing") and [formal verification](https://en.wikipedia.org/wiki/Formal_verification "Formal verification").
-
 
 ![](../../../../../Assets/Pics/Screenshot%202023-09-13%20at%203.19.14%20PM.png)
 <small>Classes of Automaton</small>

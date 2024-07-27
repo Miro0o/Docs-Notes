@@ -20,7 +20,7 @@
 
 ↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 
-↗ [Program Debug - Technologies & Tricks](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debug%20-%20Technologies%20&%20Tricks.md)
+↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debugging%20&%20Defensive%20Programming.md)
 
 
 ### Learning Resources
