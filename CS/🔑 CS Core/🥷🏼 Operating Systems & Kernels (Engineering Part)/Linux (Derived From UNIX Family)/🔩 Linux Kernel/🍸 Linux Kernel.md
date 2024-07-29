@@ -25,13 +25,13 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ### Related Topics
 ↗ [Linux Kernel Security Mechanism & LSM](../../../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Kernel%20Security%20Mechanism%20&%20LSM/Linux%20Kernel%20Security%20Mechanism%20&%20LSM.md)
-↗ [Operating System Kernel (Kernel Mode)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+↗ [Operating System Kernel (Kernel Mode)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/🫀%20Operating%20System%20Kernel%20(Kernel%20Mode)/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 ↗ [Operating System & OS Kernel (Theory Part)](../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
-↗ [System Core Function Libraries & C Standard Library (User Mode)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
-- ↗ [GNU C Library (glibc)](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
+↗ [Linux System Libraries & Runtime Environments](../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/Linux%20System%20Libraries%20&%20Runtime%20Environments.md)
+- ↗ [GNU C Library (glibc)](../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
-↗ [Operating System Components & Runtime Libraries](../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+↗ [Operating System Components & Runtime Libraries](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [OS Level Programming with C & CPP](../../📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
 ↗ [Linux Kernel (Modules) Management](../Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/Linux%20Kernel%20(Modules)%20Management.md)

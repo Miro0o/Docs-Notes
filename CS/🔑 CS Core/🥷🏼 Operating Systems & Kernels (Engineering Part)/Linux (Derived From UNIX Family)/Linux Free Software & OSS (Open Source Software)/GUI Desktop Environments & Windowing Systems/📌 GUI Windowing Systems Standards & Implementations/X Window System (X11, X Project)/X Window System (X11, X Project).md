@@ -83,8 +83,7 @@ X originated as part of [Project Athena](https://en.wikipedia.org/wiki/Project_
 
 ## Ref
 [👍 Cygwin系列（十二）：了解X]: https://silaoa.github.io/2020/2020-04-25-Cygwin系列（十二）：了解X.html
-
- [👍 Cygwin系列（十三）：折腾X]: https://silaoa.github.io/2021/2021-10-30-Cygwin系列（十三）：折腾X.html
+[👍 Cygwin系列（十三）：折腾X]: https://silaoa.github.io/2021/2021-10-30-Cygwin系列（十三）：折腾X.html
 
 本文同步发布于知乎（账号silaoA）和微信公众号平台（账号伪码人）。
 

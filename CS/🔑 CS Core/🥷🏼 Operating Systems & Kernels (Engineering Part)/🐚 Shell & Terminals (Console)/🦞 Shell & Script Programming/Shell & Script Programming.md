@@ -46,7 +46,13 @@ This document is herewith granted to the Public Domain. **No copyright!**
 
 
 ## Intro
+> `man sh`
+> `man dash`
+> `man bash; man zsh`
+
 > Here "shell" more specifically refers to Linux shell because windows' shells are rarely used in production. But in general shell refers to a kind of software running on whatever platform that interprates user's text commands to the OS.  
+> 
+> Shell 是一门把用户指令翻译成系统调用的编程语言。
 
 
 ![|300](../../../../../../../Assets/Pics/Screenshot%202024-02-15%20at%2011.47.13PM.png)
@@ -56,16 +62,16 @@ This document is herewith granted to the Public Domain. **No copyright!**
 
 从这个功能讲，广义上的Shell可以是图形界面的也可以是命令行界面的。比如Windows上的Explorer，双击文件名为什么可以让一个程序打开这个文件？其实可以理解为Explorer捕捉到了“鼠标双击文件名”这个事件，然后根据文件名去请求Windows内核启动了一个关联程序，并传入相关参数(文件名等信息)，然后这个程序自己再“打开”用户双击的文件，呈现到屏幕上。Windows上运行“命令提示符”时，在任务管理器中可以看到运行了两个进程：Console Windows Host和cmd，前者是终端模拟器（console host在用户启动cmd的时候由Windows系统自动创建），后者则是Shell程序。除了图形、命令行交互，未来还可能出现更加高级的Shell，比如语音、动作等等。
 
-狭义的Shell仅指字符界面的命令解释器，在UNIX/Linux系统上广泛应用，所做的工作主要是：  
-①读入用户输入（Read）；  
-②解释执行（Evaluate）；  
-③打印执行结果和提示符（Print）；  
-④回到①循环（Loop）。
+狭义的Shell仅指字符界面的命令解释器，在UNIX/Linux系统上广泛应用，所做的工作主要是:
+1. 读入用户输入（Read）
+2. 解释执行（Evaluate）
+3. 打印执行结果和提示符（Print）
+4. 回到1循环（Loop）
 
 这种工作方式被称为交互式Shell（Interactive Shell），Shell通常还支持批处理方式（Batch），用户提前写好要执行的命令，形成脚本（Shell Script），Shell一次性把脚本中的命令执行完。
 
 
-### Commands in Shell
+### Types of Shell Commands
 Shell中可以执行的指令可分为3类：  
 ①**内建(built-in)命令**，仅与Shell自身有关，不同的Shell（如sh、bash、zsh、fish等）支持的内建命令；  
 ②**用户定义函数（function）、别名（alias）等**，用户可自定义一些Shell函数，给命名设置别名等；  
@@ -78,6 +84,23 @@ Shell中可以执行的指令可分为3类：
 
 
 ### Shell Environment Variables
+
+
+
+## Shell's Objectives /Services /Functions
+> STFM /RTFM :3
+
+### OS's Perspective
+#### Job (Process Group) Control & Signals
+#### OS Resources /Process Management
+
+
+### User's Perspective
+#### UX Enhancement
+Completion System
+Line Editor
+#### Functions /Commands Execution
+#### Programming & Interpretation
 
 
 

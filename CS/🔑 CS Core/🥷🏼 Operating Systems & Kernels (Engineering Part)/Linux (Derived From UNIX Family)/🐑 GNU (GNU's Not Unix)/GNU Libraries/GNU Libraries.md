@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [GNU C Library (glibc)](../../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
+↗ [GNU C Library (glibc)](../../🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
 
 

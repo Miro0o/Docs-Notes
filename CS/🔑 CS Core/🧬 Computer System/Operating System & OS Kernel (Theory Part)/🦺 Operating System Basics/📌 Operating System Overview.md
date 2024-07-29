@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
+↗ [Shell & Terminals (Console)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
+↗ [Interrupts (Software & Hardware)](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
 
 
 ### Other Resources
@@ -24,6 +27,7 @@ The operating system must have control of the processor (as well as other resour
 
 ### Development (History) of OS
 ↗ [Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
+↗ [Operating System Design](Operating%20System%20Design.md)
 
 
 
@@ -41,7 +45,7 @@ An OS is a program that controls the execution of application programs, and acts
 ### 🧠 Abstractions Provided by an Operating System (From User Perspective)
 > The operating system has two primary purposes: (1) to protect the hardware from misuse by runaway applications and (2) to provide applications with simple and uniform mechanisms for manipulating complicated and often wildly different low-level hardware devices. (CSAPP)
 
-The operating system achieves both goals via the fundamental abstractions shown in Figure 1.11: processes, virtual memory, and files. As this figure suggests
+The operating system achieves both goals via the fundamental abstractions shown in figure below: processes, virtual memory, and files. As this figure suggests
 - files are abstractions for I/O devices, 
 - virtual memory is an abstraction for both the main memory and disk I/O devices, and 
 - processes are abstractions for the processor, main memory, and I/O devices.
@@ -61,6 +65,10 @@ The operating system achieves both goals via the fundamental abstractions shown 
 The idea of a virtual machine was introduced by IBM in the 1960s, but it has become more prominent recently as a way to manage computers that must be able to run programs designed for multiple operating systems (such as Microsoft Windows, Mac OS X, and Linux) or different versions of the same operating system.
 
 ↗ [Virtualization Theory](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+
+
+
+## 🤔 Program, OS, Automata
 
 
 
