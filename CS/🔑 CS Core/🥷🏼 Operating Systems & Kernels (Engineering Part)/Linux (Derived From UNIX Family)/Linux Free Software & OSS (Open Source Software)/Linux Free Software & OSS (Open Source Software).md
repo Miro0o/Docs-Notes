@@ -79,7 +79,7 @@ Use ↗ [CLI Package & Software Management](../../🐚%20Shell%20&%20Terminals%2
 
 Also, don't forget ↗ [🤯 Awesome List](../../../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md) & ↗ [📌 Awesome Open Source CLI Software](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md) !!
 
-Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) and ↗ [UNIX CLI Software](../../UNIX%20Family/🪓%20UNIX%20CLI%20Software/UNIX%20CLI%20Software.md) !
+Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) !
 
 There are some fantastic tools (high chance with a GUI) noted at ↗ [Generic Tools & Projects](../../../🧰%20Generic%20Tools%20&%20Projects/Generic%20Tools%20&%20Projects.md) as well!
 

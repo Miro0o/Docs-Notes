@@ -1,4 +1,4 @@
-# IBM Operation Systems
+# IBM Operating Systems
 
 [TOC]
 

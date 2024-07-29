@@ -35,7 +35,7 @@ zsh community projects
 
 
 
-## ZSH User
+## 🎯 ZSH User
 > 🔗 https://zsh.sourceforge.io/Guide/zshguide.html
 
 ### Zsh Themes /Frameworks
@@ -44,7 +44,7 @@ zsh community projects
 
 
 
-## ZSH Developer
+## 🎯 ZSH Developer
 > 🔗 https://zsh.sourceforge.io/Doc/
 
 1. [The Z Shell Manual](https://zsh.sourceforge.io/Doc/Release/The-Z-Shell-Manual.html#The-Z-Shell-Manual)

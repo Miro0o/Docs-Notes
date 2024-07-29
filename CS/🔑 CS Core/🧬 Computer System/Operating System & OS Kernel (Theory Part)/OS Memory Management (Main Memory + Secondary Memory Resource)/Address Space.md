@@ -16,6 +16,10 @@
 ↗ [Memory Protection Mechanism](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Protection%20Mechanism/Memory%20Protection%20Mechanism.md)
 
 
+### Learning Resources
+【进程的地址空间 (pmap; vdso; mmap; 游戏修改器/外挂) [南京大学2022操作系统-P12]】 https://www.bilibili.com/video/BV1Er4y1q7xo/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 
 ## Intro: Address Space
 > 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html

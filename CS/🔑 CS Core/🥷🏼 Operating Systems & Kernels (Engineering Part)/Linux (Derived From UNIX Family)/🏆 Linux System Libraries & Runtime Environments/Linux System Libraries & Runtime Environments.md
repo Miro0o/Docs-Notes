@@ -1,4 +1,4 @@
-# System Core Function Libraries & C Standard Library (User Mode)
+# Linux System Libraries & Runtime Environments
 
 [TOC]
 
@@ -6,16 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [C Standard Libraries](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20C%20Standard%20Libraries/C%20Standard%20Libraries.md)
-↗ [CPP Standard Libraries](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/📌%20CPP%20Standard%20Libraries/CPP%20Standard%20Libraries.md)
-
-↗ [POSIX (Portable Operating System Interface)](../../../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
+↗ [Operating System Components & Runtime Libraries](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+- ↗ [GNU C Library (glibc)](👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
 
 
 ## Intro
 ![](../../../../../../../../Assets/Pics/Screenshot%202024-02-21%20at%209.18.47PM.png)
 <small>Image source from wikipedia: Linux Kernel </small>
+
 
 
 
@@ -42,3 +41,4 @@ libc is a generic term used to refer to all C standard libraries -- there are se
 [标准c库函数与Linux下系统函数库 区别 （有无缓冲区引起的效率变化）| CSDN]: https://blog.csdn.net/zpznba/article/details/94356090
 
 我们都知道，C语言在UNIX/Linux系统下有一套系统调用（系统函数），比如文件操作open()、close()、write()、read()等，而标准C语言的库函数中也有一套对文件的操作函数[fopen](https://so.csdn.net/so/search?q=fopen&spm=1001.2101.3001.7020)()、fclose()、fwrite()、fread()等.。那么同样是对文件的操作函数，标C与UC有什么区别呢？是标C效率高还是UC效率高呢？今天就让我们来一探究竟。
+

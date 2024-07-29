@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Operating System Components & Runtime Libraries](../../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
-- ↗ [Microsoft C run-time library (MSVCRT.DLL)](../../../📟%20System%20Level%20Programming/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/📌%20System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode)/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL)/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL).md)
+↗ [Operating System Components & Runtime Libraries](../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
+- ↗ [Microsoft C run-time library (MSVCRT.DLL)](Microsoft%20C%20run-time%20library%20(MSVCRT.DLL)/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL).md)
 - ↗ [Cygwin Project](../../../📟%20System%20Level%20Programming/System%20Level%20Projects/Cygwin%20Project/Cygwin%20Project.md)
 
 

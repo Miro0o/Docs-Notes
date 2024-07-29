@@ -13,12 +13,12 @@
 
 
 ## Process Activity Management
-### 👉 `ps`
+### 👉 `ps` | `pstree`
 
 [Linux进程之如何查看进程详情？（ps命令）](https://juejin.cn/post/6844903721369862152#heading-1)
 
 
-### #### 👉 `top` | `htop` | `gtop` | `btop`
+### 👉 `top` | `htop` | `gtop` | `btop`
 **top**
 
 
@@ -33,9 +33,6 @@ https://github.com/aristocratos/btop
 
 
 ### 👉 `watch`
-
-
-### 👉 `pstree`
 
 
 ### 👉 `fg` | `bg` | `jobs` | `&` | `sleep`
@@ -58,7 +55,6 @@ https://github.com/aristocratos/btop
 
 ---
 **kill**
-
 ```shell
 kill -l
 ```

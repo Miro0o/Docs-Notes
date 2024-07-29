@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [zOS](../../IBM%20Operation%20Systems/zOS/zOS.md)
+↗ [zOS](../../IBM%20Operating%20Systems/zOS/zOS.md)
 
 
 

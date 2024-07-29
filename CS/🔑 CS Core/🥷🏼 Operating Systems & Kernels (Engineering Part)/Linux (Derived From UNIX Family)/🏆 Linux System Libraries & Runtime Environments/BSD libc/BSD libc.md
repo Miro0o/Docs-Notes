@@ -1,4 +1,4 @@
-# Apple Runtimes Environments
+# BSD libc
 
 [TOC]
 

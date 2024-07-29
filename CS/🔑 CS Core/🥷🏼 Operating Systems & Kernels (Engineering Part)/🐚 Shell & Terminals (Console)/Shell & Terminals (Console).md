@@ -7,13 +7,18 @@
 ## Res
 ### Related Topics
 ↗ [GUI Desktop Environments & Windowing Systems](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/GUI%20Desktop%20Environments%20&%20Windowing%20Systems.md)
+
 ↗ [Messaging & Remote Accessing](../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/Messaging%20&%20Remote%20Accessing.md)
 ↗ [SSH (Secure SHell)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
+
+↗ [System Calls](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 
 
 ### Other Resources
 🎉 https://asciinema.org
 Record and share your terminal sessions, the simple way.
+
+【系统调用和 Shell (freestanding shell, 终端和 job control) [南京大学2022操作系统-P13]】 https://www.bilibili.com/video/BV1m3411n7xp/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
@@ -25,6 +30,8 @@ Record and share your terminal sessions, the simple way.
 > 🔗 https://silaoa.github.io/2020/2020-01-13-Cygwin系列（十一）：折腾终端2.html
 
  > Here "shell" more specifically refers to Linux shell. But in general shell refers to a kind of software that interprates user's text commands to the OS.
+ > 
+ > Shell 是一门把用户指令翻译成系统调用的编程语言。
 
 **控制台、终端、虚拟终端**是一类输入输出设备的总称，拥有将用户指令输入给操作系统和将操作系统返回结果输出给用户的基本功能，电传打字机（teletypewriter，缩写为tty）是该类设备的具体实例。终端模拟器（Terminal Emulator）是一类应用程序，用来模拟终端设备的功能，未具体说明情况下，“终端”泛指真实终端设备或终端模拟器。
 - 伪终端（pseudo tty，缩写为pty）是UNIX/Linux内核中驱动程序模块，是一个软件中间层，用于克服真实终端设备在现代应用场景中的不足。

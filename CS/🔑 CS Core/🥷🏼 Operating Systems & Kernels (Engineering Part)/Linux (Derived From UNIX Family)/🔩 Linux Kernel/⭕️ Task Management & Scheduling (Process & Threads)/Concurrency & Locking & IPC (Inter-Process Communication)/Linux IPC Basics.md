@@ -45,8 +45,6 @@ This hides the underlying differences from the generic system calls which read a
 
 ![Pipes](https://www.science.unitn.it/~fiorella/guidelinux/tlk/img38.gif)
 <small>Linux Pipes</small>
-
-
 #### Named Pipes, FIFO
 > 实现任意进程间的进程通信
 > 
