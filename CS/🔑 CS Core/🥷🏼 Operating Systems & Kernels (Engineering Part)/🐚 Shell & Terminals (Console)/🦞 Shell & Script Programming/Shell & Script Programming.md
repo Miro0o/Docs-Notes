@@ -15,9 +15,9 @@
 ↗ [🤯 Awesome List](../../../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
 ↗ [Linux Free Software & OSS (Open Source Software)](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
 ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
-↗ [Commands CheatCheet & Online Search](🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Commands%20CheatCheet%20&%20Online%20Search.md)
+↗ [Commands CheatCheet & Online Search](🧑‍🍳%20Shell%20Helper/Shell%20Commands%20Prompts%20&%20Correction/Commands%20CheatCheet%20&%20Online%20Search.md)
 - ↗ [MacOS cmd Cheatsheet](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/MacOS%20cmd%20Cheatsheet.md)
-- ↗ [Shell Commands Cheat Sheet](🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Shell%20Commands%20Cheat%20Sheet.md)
+- ↗ [Shell Commands Prompts & Correction](🧑‍🍳%20Shell%20Helper/Shell%20Commands%20Prompts%20&%20Correction/Shell%20Commands%20Prompts%20&%20Correction.md)
 ↗ [👍 Vim](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Text%20Editors/Vim/👍%20Vim.md)
 
 🔍 https://ss64.com
@@ -27,7 +27,7 @@ Command Line Reference
 ### Also Lots notes about Shell Script!
 ↗ [Shell & Script Programming](Shell%20&%20Script%20Programming.md)
 ↗ [Shell Helper](🧑‍🍳%20Shell%20Helper/Shell%20Helper.md)
-- ↗ [Commands CheatCheet & Online Search](🧑‍🍳%20Shell%20Helper/Commands%20CheatSheet%20&%20Online%20Search/Commands%20CheatCheet%20&%20Online%20Search.md)
+- ↗ [Commands CheatCheet & Online Search](🧑‍🍳%20Shell%20Helper/Shell%20Commands%20Prompts%20&%20Correction/Commands%20CheatCheet%20&%20Online%20Search.md)
 - and more!
 
 📄 https://learnbyexample.github.io/tips/#command-line-tools
@@ -188,3 +188,5 @@ export LC_ALL="zh_CN.UTF-8"
 (This website has been archived under the 'Shell & terminals (Console)' directory)
 
 [👍 Cygwin系列（六）：使用Cygwin常见问题及应对]: https://silaoa.github.io/2019/2019-03-20-Cygwin系列（六）：使用Cygwin常见问题及应对.html
+
+[👍 Process groups, jobs and sessions]: https://biriukov.dev/docs/fd-pipe-session-terminal/3-process-groups-jobs-and-sessions/

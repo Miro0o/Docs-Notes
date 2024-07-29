@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "6e96fedc5c1b525c",
+            "id": "bff9c53a5b4e67af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/System Core Function Libraries & C Standard Library (User Mode).md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/Concurrent Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/System Core Function Libraries & C Standard Library (User Mode).md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/Concurrent Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/System Core Function Libraries & C Standard Library (User Mode).md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/Concurrent Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/System Core Function Libraries & C Standard Library (User Mode).md"
+                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/Concurrent Programming.md"
               }
             }
           },
@@ -210,34 +210,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6e96fedc5c1b525c",
+  "active": "bff9c53a5b4e67af",
   "lastOpenFiles": [
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Lower CASE Tools/IDE (Integrated Development Environment)/Android Studio.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/🖼️ Graphics Rendering Frameworks (2D & 3D)/openGR.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/🖼️ Graphics Rendering Frameworks (2D & 3D)/DirectX/Direct3D (D3D).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/🧩 Media Processing & GUI SDK/🖼️ Graphics Rendering Frameworks (2D & 3D)/DirectX/DirectX.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/🧑‍🍳 Shell Helper/Shell Commands Prompts & Correction/thefuck.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/🧑‍🍳 Shell Helper/Shell Commands Prompts & Correction/Shell Commands Prompts & Correction.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/Shell & Script Programming.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/zsh (Z SHell)/Zsh.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Archive/Shell.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Interrupts (Software & Hardware).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🏆 Linux System Libraries & Runtime Environments/Newlib.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🏆 Linux System Libraries & Runtime Environments/Linux System Libraries & Runtime Environments.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/System Core Function Libraries & C Standard Library (User Mode).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/Operating System Components & Runtime Libraries.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Runtimes (JRE & JDKs Tools).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Compilers/Java Compilers.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/C Sharp/C Sharp.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Application Runtimes & SDKs.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/zsh (Z SHell)/Zsh.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/🦞 Shell & Script Programming/Bash (Bourne Again SHell)/Bash (Bourne Again SHell).md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/OS Processes Management (CPU + Main Memory Resource).md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/IPC (Inter Process Communication).md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/Signal/Signal.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/🧦 Sockets/Sockets.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/Message Passing/Message Queue/Message Queue.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/Message Passing/Pipeline & FIFO/Pipeline & FIFO.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/IPC (Inter Process Communication)/Message Passing/Message Passing.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/⭕️ Task Management & Scheduling (Process & Threads)/Concurrency & Locking & IPC (Inter-Process Communication)/Linux IPC Basics.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/⭕️ Task Management & Scheduling (Process & Threads)/Concurrency & Locking & IPC (Inter-Process Communication)/Concurrency & Locking & IPC (Inter-Process Communication).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes Management (CPU + Main Memory Resource)/Concurrency Control/Concurrency Control.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/🦺 Operating System Basics/📌 Operating System Overview.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Interrupts (Software & Hardware).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/🦺 Operating System Basics/Operating System Design.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/🦺 Operating System Basics/Development(History) of Operating Systems.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/🦺 Operating System Basics/Operating System Services.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/🧑🏽‍🏫 Mini OS Kernels/Xv6/Xv6.md",
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/GUI Desktop Environments & Windowing Systems/GUI Desktop Environments & Windowing Systems.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Malicious Codes & Software Engineering/Cheating Programs & Anti-Cheating/Cheating Programs & Anti-Cheating.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Address Space.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Games.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Android & AOSP/📌 Android Runtime Environments",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/📌 Apple System Libraries Runtimes Environments",
     "CS/Software Engineering/Computer Media Programming",

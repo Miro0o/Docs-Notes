@@ -5,7 +5,7 @@
 
 
 ## Res
-🏠 
+🏠 https://developer.android.com/studio
 🚧 
 
 
