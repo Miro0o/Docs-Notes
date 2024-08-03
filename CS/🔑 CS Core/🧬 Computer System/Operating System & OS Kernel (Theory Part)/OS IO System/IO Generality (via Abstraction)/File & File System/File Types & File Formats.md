@@ -8,6 +8,10 @@
 ### Related Topics
 
 
+### Learning Resources
+【什么是可执行文件 (调试信息；Stack Unwinding；静态链接中的重定位) [南京大学2022操作系统-P16]】 https://www.bilibili.com/video/BV15F411G7Ti/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 
 ## 🎯 Text File (Read, Write) (Data Level)
 ### 📌 Text File Formats (文本文件格式)

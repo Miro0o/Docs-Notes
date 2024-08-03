@@ -156,3 +156,18 @@ https://zhuanlan.zhihu.com/p/625138432
 
 ---
 #### 具体的建议
+
+
+
+## 👉 海外产品和大陆产品差异
+### 手机
+https://youtu.be/451AtwVcFew?si=pr1r-bll8FEBN4Hi
+https://youtu.be/Lg8ksYyyrfk?si=zZDT1c5_03USmJ_d
+https://youtu.be/IaDFSZ9UnVg?si=SLKMOg-a0c8qe2xO
+https://youtu.be/WM8ZqWb0UAY?si=fbh9cqeVX-l6ajpo
+
+https://youtu.be/IaDFSZ9UnVg?si=zuI1bH8q7ZcV8Fvi
+怎样选购海外二手iPhone｜海鲜市场避坑指南｜识别商家技巧｜海外iPhone购买建议｜如何查序列号IMEI｜二手成色如何分辨
+
+
+

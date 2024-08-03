@@ -17,6 +17,8 @@
 [github.com/daviddwlee84/OperatingSystem](https://github.com/daviddwlee84/OperatingSystem)
 PKU OS course project and notes based on Nachos and XV6
 
+【Xv6 代码导读 (调试工具配置；调试系统调用执行) [南京大学2022操作系统-P18]】 https://www.bilibili.com/video/BV1DY4y1a7YD/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Overview

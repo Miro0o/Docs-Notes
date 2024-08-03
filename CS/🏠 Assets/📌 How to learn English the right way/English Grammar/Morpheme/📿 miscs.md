@@ -8,12 +8,59 @@
 2023/11/20~22 ✅ (glimpse through)
 
 
+
 ## phrases in other languages
  1. bona fide
 	 1.  [authentic](dic://authentic), [unquestionable](dic://unquestionable), [veritable](dic://veritable)
 	 2. _adj._ [sincere](dic://sincere), [genuine](dic://genuine), [echt](dic://echt)
 	 3. _n._ [insincere](dic://insincere), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
 	 4. One of your classmates is a bona fide movie star. /你有位同学是货真价实的电影明星。
+
+
+1. Month
+	1. January
+		1. January（一月）：双面门神雅努斯  
+		2. 在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。  
+		3. 古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。英语中表示“看门人”的单词Janitor也是源自Janus。  
+		4. Janus：['dʒeinəs] n.雅努斯，两面神  
+		5. Janus-faced：伪善的，口是心非的，有双面孔的  
+		6. January：['dʒænjʊ(ə)rɪ] n.一月  
+		7. janitor：['dʒænɪtə] n.看门人，门警，门房，清洁工
+	2. February
+		1. February（二月）：古罗马的牧神节  
+		2. 在基督教传入罗马之前，每年2月13日至15日，古罗马人都要杀牲饮酒，欢庆牧神节（Lupercalia）。人们将这一天看作是一年的开始，因此，人们忏悔自己过去一年的罪过，洗刷自己的灵魂，求得神明的饶恕，使自己成为一个贞洁的人，同时也希望洗掉一切晦气和烦恼，在新的一年得到好运和好收成。这一天，人们还会象征性地用羊皮鞭抽打那些希望怀孕的妇女，以象征净化妇女的身体，使其更加容易受孕和生产。  
+		3. 除此以外，人们还将年轻女子们的名字被放置于盒子内，然后年轻男子上前抽取。抽中的一对男女成为情人，时间是一年或更长。该节日是情人节的前身，基督教成为罗马国教后，才被情人节代替。  
+		4. 由于人们在牧神节要进行净化仪式，所以该节又被称为Februalia（净化节，菲勃卢姆节），来自拉丁语februa（净化）。英语单词February（二月），便是由拉丁文Februarius（month of Februalia）演变而来。  
+		5. February - 古罗马每年举行宗教仪式祭祀畜牧神卢佩耳枯斯（Lupercus）以求人畜土地兴旺，这一节日叫做牧神节（Lupercalia）。仪式是在罗马七丘之一的帕拉蒂尼山（the Palatine）的卢佩耳卡尔洞（Lupercal）即牧神洞举行的。祭品规定为雌雄山羊各一只。献祭以后，祭司把祭牲的皮切成皮条，交与站在祭坛旁的两个青年，然后由他们手执皮条绕着巴勒登丘在城里跑上一圈，逢人便抽，已婚妇女很愿挨上一下，因为她们相信被抽打一下可治不育之症。这种皮条有个特殊名称，拉丁文叫februa，它含有“涤罪工具”（means of purification）之意，由此产生了Februārius（净月）一词。2月的英语名称February即源于此，这是因为该活动于2月举行的缘故。  
+		6. 另有一种传说，February得名于Februaria，这是天后朱诺（Juno）作为丰产女神被赋予的名称。February原先有29天，罗马元老院从该月抽了1天加到以罗马皇帝Augustus Caesar命名的August（八月），使其和以Julius Caesar（凯撒大帝）命名的July（七月）的天数相同。
+		7. February： ['fɛbrʊ'ɛri] n.二月
+	3. March
+	4. April
+	5. May
+	6. June
+	7. July
+	8. August
+	9. September
+	10. October
+	11. November
+	12. December
+2. Week
+	1. Monday
+	2. Tuesday
+	3. Wednesday
+	4. Thursday
+	5. Fridy
+	6. Saturday
+	7. Sunday
+3. Solar System
+	1. Mercury
+	2. Venus
+	3. Earth
+	4. Mars
+	5. Jupiter
+	6. Saturn
+	7. Uranus
+	8. Neptune
 
 
 
@@ -3184,6 +3231,44 @@ fickle
 - - 来自 PIE*peig,狡猾的，敌对的，坏心眼的，词源同 foe,fiend.引申词义反复无常的。
 - **unpredictable**无法预言的, 不可预测的;**notoriously**恶名昭彰地,声名狼藉地;**unforgiving**不可宽恕的,不能原谅的;**fleeting**飞逝的;**impatient**不耐烦的, 急躁的;**erratic**不稳定的;**indifferent**漠不关心;**jaded**厌倦的;**ephemeral**短暂的;**foolish**愚蠢的;**gullible**易受骗的;
 - [erratic](dic://erratic), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
+
+fidget
+ - 来自古英语 fiken,忙乱，不安，词源同 fickle,反复无常。拼写受-dge 影响。
+ - vi. 坐卧不安, 动来动去; 摆弄  
+ - n. 坐立不安的人
+ - vi. 烦躁；坐立不安；玩弄 
+ - n. 烦躁；坐立不安；烦躁不安的人 
+ - vt. 使不安；使烦乱
+ - [fidgetiness](dic://fidgetiness), [restlessness](dic://restlessness)
+ - _n._ [agitation](dic://agitation)
+ - _v._ [move](dic://move)
+ - **spinners**纺织者，纺纱机;**spinner**纺纱工人;**toy**玩具;
+ - _[feel restless fidget](dic://feel%20restless%20fidget)_ 坐卧不安
+ - _[fidget squirm](dic://fidget%20squirm)_ 坐立不安
+ - _[fidget with](dic://fidget%20with)_ 不安地或心不在焉地玩弄
+ - _[fidget and thirst](dic://fidget%20and%20thirst)_ 烦渴
+ - _[be worried fidget fret](dic://be%20worried%20fidget%20fret)_ 烦躁
+ - _[The person fidgets excessively](dic://The%20person%20fidgets%20excessively)_ 这个人会激起烦躁
+ - _[in a terrible fidget](dic://in%20a%20terrible%20fidget)_ 极度不安
+ - _[fever with irritability and fidget](dic://fever%20with%20irritability%20and%20fidget)_ 烦热
+ - What a fidget you are! /你老是不安生！
+ - the audience had begun to fidget on their chairs. /观众开始在座位上坐立不安起来。
+ - It annoys me when you fidget! /你一坐立不安,我就觉得厌烦！
+ - He fidgeted with his notes while lecturing. /他在讲座时不停地摆弄稿子
+ - she fidgets me with her never-ending spit and polish. /她那无休止的精雕细琢让我烦躁不安。
+ - She's always fidgeting about her mother's health. /她经常为她母亲的健康担忧。
+ - His voice was deep and rich and somehow took the fidgets out of them. /它的声音深沉、圆润，不知怎么竟消除了他们的不安。
+ - fidgety
+	 - unable to relax or be still
+	 - a. 不安的, 烦躁的
+	 - [antsy](dic://antsy), [fretful](dic://fretful), [itchy](dic://itchy), [restless](dic://restless)
+	 - _adj._ [unquiet](dic://unquiet)
+	 - _n._ [quiet](dic://quiet)
+	 - **restless**焦躁不安的;**irritable**易怒的, 急躁的;**anxious**渴望的;**agitated**激动的;**impatient**不耐烦的, 急躁的;**cranky**暴躁的;**chatty**饶舌的;**nervous**神经的;**neurotic**神经过敏的;**bored**无聊的;**distracted**心烦意乱的,慌张失措的,错乱的;
+	 - He felt fidgety and immersed his head in the cold water. /他觉得很烦躁,把头伸进了冷水中。
+	 - A lot of us are prone to fast fidgety movements. /我们大多数人都会倾向于不安的乱动。
+	 - But all the time she was distrait and fidgety and commented only in monosyllables. /但她总是心烦意乱、烦躁不安， 只用单音节的词来评论。
+ - fidgetiness
 
 fig
 - n. 无花果, 无价值的东西, 少许, 服装  

@@ -4503,17 +4503,19 @@
 		10. He lost his job, no gratuity at all. /他没有任何养老金地失去了工作。
 		11. The debtor, for fear of a very severe execution, was obliged, without any further gratuity, to vote for the candidate whom the creditor recommended /债务人由于担心处决非常严厉，不得不在没有任何进一步酬金的情况下投票给债权人推荐的候选人。
 		12. gratuitous, gratuitously
-			1. adj. 无理由的，无端的；免费的
-			2. _adj._ [unmerited](dic://unmerited), [unpaid](dic://unpaid), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded)
-			3. _n._ [merited](dic://merited), [deserved](dic://deserved), [paid](dic://paid), [necessary](dic://necessary)
-			4. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
-			5. **free**自由的，不受约束的;**porno**色情作品;**download**下载;
-			6. **crass**粗鲁的;**superfluous**过多的;**over-the-top**过多的;**unnecessary**不必要的, 多余的;**unwarranted**没有根据的, 无正当理由的;**gory**血淋淋的;**nudity**裸露;**silliness**愚蠢;**pointless**无意义的;**explicit**清楚的;**obscene**淫秽的;
-			7. gratuitous criticism. /没有根据的批评
-			8. solicitors provide a form of gratuitous legal advice. /诉状律师提供某种形式的免费法律咨询。
-			9. His films are full of gratuitous violence. /他拍的影片充满了不必要的暴力。
-			10. The video of the gratuitous beating of a Black man has deeply shocked France /这段无端殴打黑人的视频使法国深感震惊。
-			11. Since physicas was julia's favorite subject, she enjoyed providing gratuitous assistance to celia. /因为物理是朱丽亚最喜欢的课，她喜欢为西莉亚提供义务辅导。
+			1. gratu-感谢 + -itous表形容词，原指表达感谢，报答，免费给予。后词义贬义化，指无缘无故的，莫名其妙的。比较汉语无功不受禄。
+			2. 来自 grat-,感谢，词源同 grace,gratitude.原指表达感谢，报答，免费给予。后词义贬义化，指无缘无故的，莫名其妙的。
+			3. adj. 无理由的，无端的；免费的
+			4. _adj._ [unmerited](dic://unmerited), [unpaid](dic://unpaid), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded)
+			5. _n._ [merited](dic://merited), [deserved](dic://deserved), [paid](dic://paid), [necessary](dic://necessary)
+			6. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
+			7. **free**自由的，不受约束的;**porno**色情作品;**download**下载;
+			8. **crass**粗鲁的;**superfluous**过多的;**over-the-top**过多的;**unnecessary**不必要的, 多余的;**unwarranted**没有根据的, 无正当理由的;**gory**血淋淋的;**nudity**裸露;**silliness**愚蠢;**pointless**无意义的;**explicit**清楚的;**obscene**淫秽的;
+			9. gratuitous criticism. /没有根据的批评
+			10. solicitors provide a form of gratuitous legal advice. /诉状律师提供某种形式的免费法律咨询。
+			11. His films are full of gratuitous violence. /他拍的影片充满了不必要的暴力。
+			12. The video of the gratuitous beating of a Black man has deeply shocked France /这段无端殴打黑人的视频使法国深感震惊。
+			13. Since physicas was julia's favorite subject, she enjoyed providing gratuitous assistance to celia. /因为物理是朱丽亚最喜欢的课，她喜欢为西莉亚提供义务辅导。
 	6. gratify
 		1. grat-感谢 + -ify使… → 使[人]满足 , 高兴。
 		2. [satisfy](dic://satisfy) 

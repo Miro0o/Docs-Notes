@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Software Security](../Software%20Security.md)
-↗ [Software Vulnerability](../🐒%20Software%20Vulnerability/Software%20Vulnerability.md)
+↗ [Software Vulnerability & Vulnerability Analysis (VA)](../🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA).md)
 ↗ [System Security](../../../System%20Security/System%20Security.md)
 ↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Malicious Codes & Software Engineering](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Malicious%20Codes%20&%20Software%20Engineering/Malicious%20Codes%20&%20Software%20Engineering.md)
@@ -20,6 +20,7 @@
 ↗ [Operating System & OS Kernel (Theory Part)](../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
 ↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
+
 
 ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debugging%20&%20Defensive%20Programming.md)
 
