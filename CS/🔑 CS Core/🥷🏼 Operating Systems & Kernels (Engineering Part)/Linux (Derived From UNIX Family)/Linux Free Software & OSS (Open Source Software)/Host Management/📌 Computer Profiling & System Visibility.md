@@ -77,7 +77,7 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 
 
 ## 🎯 Resource Monitoring
-> ↗ [Hardware Profiling](../../../../Hardware%20&%20EE%20Related/Hardware%20Profiling.md)
+> ↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop` | `btop`
 ↗ [Process Management Basics /Process Activity Management](../🪆%20Process%20Management/Process%20Management%20Basics.md#Process%20Activity%20Management)

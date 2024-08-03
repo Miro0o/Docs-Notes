@@ -5940,7 +5940,24 @@
 		3. discernment
 		4. discerning
 		5. discernible
-			1. indiscernible
+			1. _adj._ [perceptible](dic://perceptible), [noticeable](dic://noticeable)
+			2. _n._ [indiscernible](dic://indiscernible), [imperceptible](dic://imperceptible), [unperceivable](dic://unperceivable), [unnoticeable](dic://unnoticeable)
+			3. **noticeable**显而易见的;**detectable**可发觉的,可看穿的;**distinguishable**可区别的,可辨别的;**apparent**显然的;**visible**明显的;**measurable**可测量的;**distinct**清楚的;**unmistakable**错不了的;**observable**观察得到的;**significant**重要的;**recognizable**可认出的;
+			4. a. 看得清的, 可看出的, 可辨别的, 辨别得出的
+			5. discern【辨别，看清楚】 + -ible, 表形容词。
+			6. discernible (adj.) - 亦作discernable，1560s，源自法语discernable，源自discerner (参看：discern)。最初常用-a-的拼写形式，17世纪时为了和拉丁语discernibilis保持一致，拼写转变成-i-。
+			7. _[discernible image](dic://discernible%20image)_  可辨别的图象
+			8. _[dimly discernible](dic://dimly%20discernible)_  缥缈
+			9. _[discernible foliation trend](dic://discernible%20foliation%20trend)_  可辨别叶理走向
+			10. The difference between the two is readily discernible /两者之间的差别不难看出。
+			11. The skyline is easily discernible even at a distance of several miles. /甚至在几英里之外都可清晰地辨别出地平线。
+			12. The newspaper reports no discernible progress in the negotiations. /报纸报道谈判没有明显的进展
+			13. his work showed a discernible bias towards philosophy. /他在工作中表现出对哲学的明显爱好。
+			14. Its dim thermal glow was just barely discernible to the infrared eyes of WISE and Spitzer. /WISE和Spizer的红外线镜也只能依稀辨别褐矮星微弱的光芒。
+			15.  /The triangle and circle representing the Cloak and the stone were still discernible.不过代表着回魂石和隐形衣的圆形和三角形仍然依稀可见。
+			16. Some are currently on, and others off, in no discernible pattern. /现在有些蜡烛是点亮的，有些是熄灭的，没有明显的规律。
+			17. A poetical temperament is discernible throughout all his writings and in all his actions. /贯穿他全部著作和行为的是诗人般的气质。
+			18. indiscernible
 				1. **indistinguishable**难区分的,不能分辨的;**unintelligible**不可能理解的;**discernible**可识别的;**distinguishable**可区别的,可辨别的;**incomprehensible**费解的;**faintly**微弱地;**invisible**看不见的;**obscured**遮蔽的;**visible**明显的;**muffled**听不清的;**unseen**看不见的，未看见的;
 				2. [imperceptible](dic://imperceptible), [unperceivable](dic://unperceivable)
 	10. discrete

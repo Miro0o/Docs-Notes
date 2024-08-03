@@ -763,9 +763,9 @@
 
 
 ### par-,parl- = speak, 表示“说话”，来源于古法语 parler。和 para-(周围) 同源，原意“围在一起聊天”。
-1. parlance
-	1. parl-说话 + -ance表名词
-	2. parlor（会客室）：修道院中接待访客或僧侣交谈的房间  
+1. parlor, parlour
+	1. parlor（会客室）：修道院中接待访客或僧侣交谈的房间  
+	2. parlor - 源自法语动词parler 'to talk, converse'（谈话，交谈）。在13世纪的英格兰，parlour专指寺院或修道院内的谈话室、接待室，以后指中上层家庭的会客室，由男人专用，女人则在酒宴后退席到(with)drawing room。到了19世纪男人和女人都在parlo(u)r内进行社交活动。今天parlo(u)r不再指会客室，其作用已为sitting room，living room等语所取代，它一般指“营业室”，只出现于beauty parlo(u)r（美容院），ice cream parlo(u)r（冰淇淋店），dental parlo(u)r（牙科诊室），funeral parlo(u)r（殡仪馆），massage parlo(u)r（按摩院），tea parlo(u)r（茶室）等搭配中。（参见parliament）
 	3. 修道院是僧侣们修炼的地方，大部分地方都需要保持安静，以免影响僧侣的静修。只有少数房间专门用来接待外来的访客或供僧侣们交谈所用。这种房间在古法语中被称为parleor，来自parler（会谈）。英语单词parlor就来源于此，现在通常用来表示美容院、按摩院等地的业务室。与它同源的单词有parley（会谈）、parliament（国会）等。  
 		1. parlor：['pɑrlɚ] n.客厅，会客室，业务室  
 		2. parley： ['pɑːlɪ] n.vt.会谈，谈判  
@@ -773,27 +773,97 @@
 		4. parliamentary： [,pɑrlə'mɛntri] adj. 议会的；国会的；议会制度的  
 		5. parliamentarian： ['pɑrləmən'tɛrɪən] n. 国会议员，熟练而又有经验的议员adj. 议会的  
 		6. parlance： ['pɑrləns] n. 说法；用语；语调；发言
-	4. idiom
-	5. _n._ [formulation](dic://formulation), [expression](dic://expression)
-	6. **lingo**行话;**slang**俚语;**colloquial**口语的, 会话的;**terminology**专门用语;**lexicon**词典，辞典;**vernacular**【C】本地话;**jargon**行话，术语;**phrase**成语;**interchangeably**可交换地;**idiom**成语，习语;**term**学期;
-3. parley
+	4. n. 客厅, 会客室, 小店  a. 客厅的
+	5. n. 客厅；会客室；业务室；室内店铺 
+	6. adj. 客厅的；适于客厅使用的；只会空谈的
+	7.  [parlour](dic://parlour)
+	8.  [living room](dic://living room), [living-room](dic://living-room), [sitting room](dic://sitting room), [front room](dic://front room), [parlour](dic://parlour)
+	9. _n._ [reception room](dic://reception room), [room](dic://room)
+	10. **saloon**酒馆;**barber**为…理发;**salon**沙龙;**tavern**酒馆;**room**房间;**ballroom**舞厅;**brothel**妓院;**hall**门厅，走廊;**billiards**台球;**cream**奶油，乳脂;**casino**娱乐场;
+	11. _beauty parlor_ 美容院
+	12. _funeral parlor_ n. 殡仪馆
+	13. _massage parlor_ n. 按摩院；（挂按摩院招牌的）妓院
+	14. Applicable places : family, shop, supermarket, shopping plaza, hotel, dining room, boite, guesthouse, beauty parlor, feetcaring center, massage room, office and so on . /适用场地：办公室、家庭、商店、超市、饭店、食堂、宾馆、酒楼、美容院、购物广场、足浴城等可广泛使用。
+	15. The woods are my parlor. The lonely lake is my bath. /森林是我的客厅。静寂的湖是我的浴缸。
+	16. " And a private parlor, please, Tom, " said Fudge pointedly. /“要一个包间，汤姆。”福吉直截了当地说。
+	17. I'm gonna open up a pizza parlor! I bet you didn't see that one coming. /我要开一家批萨店！我敢打赌你没有料到这个。
+	18. The investigation of the massage parlor shootings continues. /对按摩院枪击案的调查仍在继续。
+	19. parlormaid
+3. parlance
+	1. parl-说话 + -ance表名词
+	2. parlance - 该词源于法语动词parler（说话），而它所指的“议会”也确乎是一个说话的地方——议员们谈论政府的地方。在中古英语中，该词原作parlement，保留了原法语的拼写形式，以后受了拉丁语parliamentum的影响，才演变为现在的拼写形式。源于该法语动词的另外还有几个英语单词，如parlour（会客室，营业室），parley（谈判，会谈），parlance（说法，用语）等。
+	3. idiom
+	4. _n._ [formulation](dic://formulation), [expression](dic://expression)
+	5. **lingo**行话;**slang**俚语;**colloquial**口语的, 会话的;**terminology**专门用语;**lexicon**词典，辞典;**vernacular**【C】本地话;**jargon**行话，术语;**phrase**成语;**interchangeably**可交换地;**idiom**成语，习语;**term**学期;
+	6. _[diplomatic parlance](dic://diplomatic%20parlance)_  外交辞令
+	7. _[in common parlance](dic://in%20common%20parlance)_  俗话说，照一般说法
+	8. _[engineering parlance](dic://engineering%20parlance)_ 工程俗语
+	9. _[newspaper parlance](dic://newspaper%20parlance)_ 报纸的笔调
+	10. _[in rural parlance](dic://in%20rural%20parlance)_ 用乡里话说；翻译
+	11. _[stock exchange parlance](dic://stock%20exchange%20parlance)_ 交易所术语
+	12. _[diplomatic language diplomatic parlance](dic://diplomatic%20language%20diplomatic%20parlance)_ 外交辞令
+	13. The term “meta directory” came into industry parlance two years ago. /两年前，商业界开始用“元目录”这个术语。
+	14. The parlance pressed aforetime, ten inside art gallery arrive this comes to an end for the time being. /按旧时的说法，十里画廊到此告一段落。
+	15. In industry parlance, these groups were designated as " proscribed" /按照业界的说法，这些组织被指定为“被禁止的”。
+	16. In the parlance of critics, they are " lies" . /用批评者的用语说，这些是“谎言”。
+	17. But we don't want to use that sort of parlance. /但我们不想用那种说法。
+	18. Now, in accounting parlance, this is what's called an avoided emissions offset /用碳足迹计算术语来说，这叫做碳抵消。
+	19. The phrase in common parlance means using ordinary, everyday words. /" 俗话说" 这个短语是指使用一般的日常用语。
+	20. Maybe it has fallen out of parlance. /也许它已经不再是用语了。
+4. parley
 	1. vi. 会谈, 谈判  vt. 讲
-	2. **truce**休战;**skirmish**小冲突，小规模战斗;**negotiation**协商, 谈判;
+	2. _n._ [negotiation](dic://negotiation), [dialogue](dic://dialogue), [talks](dic://talks)
+	3. _v._ [negociate](dic://negociate)
+	4. **truce**休战;**skirmish**小冲突，小规模战斗;**negotiation**协商, 谈判;
+	5. _[beat a parley](dic://beat%20a%20parley)_ 击鼓要求休战谈判
+	6. _[sound a parley](dic://sound%20a%20parley)_ 击鼓要求休战谈判
+	7. _[peace parley](dic://peace%20parley)_ 和平谈判
+	8. _[truce parley](dic://truce%20parley)_ 休战谈判
+	9. parley with one's enemies /与敌人谈判
+	10. The governor was forced to parley with the rebels. /州长被迫与反叛者谈判。
+	11. The government is ready to hold a parley at any moment. /政府准备随时谈判。
+	12. they disagreed over whether to parley with the enemy. /他们在是否与敌人谈判的问题上意见不同。
+	13. hold a parley with(the enemy) /和(敌方)谈判, 商议
+	14. parleyed with enemy representatives during the cease-fire; /停火期间与敌方代表谈判；
+	15. If an adversary demands parley, you can do them no harm until the parley is complete. /如果俘虏要求帕雷的话，我们不能伤害她直至仪式结束。
 5. parlay
-	1. 1 - 来自古法语 parler,说话，词源同 parley,Parliament.该词为赌博行话，其原词义可能为下注或找别人借钱的承诺，引申词义连本带利的赌博或使增值。
+	1. 来自古法语 parler,说话，词源同 parley,Parliament.该词为赌博行话，其原词义可能为下注或找别人借钱的承诺，引申词义连本带利的赌博或使增值。
 	2. n. 连本带利的赌  vt. 连本带利的赌, 使增值, 成功地利用
-	3. **wager**赌博;**bet**打赌，赌注;**garner**贮藏;**gamble**赌博;**wagering**赌注;**betting**打赌;**winnings**赢得的钱;**win**赢得;**leverage**杠杆作用;**lucrative**获利多的, 赚钱的;**odds**不平等;
+	3. vt. 使增值；充分利用；连本带利地赌博 
+	4. n. 连本带利的赌博
+	5. [double up](dic://double up)
+	6. _n._ [bet](dic://bet), [wager](dic://wager)
+	7. _v._ [bet on](dic://bet on), [back](dic://back), [gage](dic://gage), [stake](dic://stake), [game](dic://game), [punt](dic://punt)
+	8. **wager**赌博;**bet**打赌，赌注;**garner**贮藏;**gamble**赌博;**wagering**赌注;**betting**打赌;**winnings**赢得的钱;**win**赢得;**leverage**杠杆作用;**lucrative**获利多的, 赚钱的;**odds**不平等;
+	9. it involved parlaying a small bankroll into big winnings. /这与以小赌本赢大钱有关。
+	10. Looks like your little parlay didn't do us much good. /看来你那孤注一掷没啥效果。
+	11. I am invoking my right to call a parlay. /我用我的权利来做赌注。
+	12. The title which went further than simply first emperor, since it implied a unique authority to parlay with heaven /这个称号远不是第一位皇帝的指称，因为它还暗示着一种独特的权威，可以与天相抗衡。
+	13. When you started with standup, did you want to parlay it into acting? /当你开始表演单口相声时，你想把它运用到表演中吗？
+	14. I guess if you parlay, leave out the quarterback. /我想如果你连本带利的话，就不要考虑四分卫。
+	15. She hopes to **parlay** her success as a model into an acting career /她希望利用自己当模特的成功经历进而发展演艺事业。
 6. parleyvoo
 7. parliament
-	1. unparliamentary
-	2. parliamentary
-	3. parliamentarism
-	4. parliamentarian
-8. parlor, parlour
-	1. n. 客厅, 会客室, 小店  a. 客厅的
-	2. parlormaid
+	1. _n._ [legislature](dic://legislature), [legislative assembly](dic://legislative assembly), [legislative](dic://legislative), [general assembly](dic://general assembly), [law-makers](dic://law-makers), [card game](dic://card game), [cards](dic://cards)
+	2. **parliamentary**议会的;**legislature**立法机关;**Knesset**以色列的国会，议会;**judiciary**司法部;**senate**参议院，上院;**government**政府;**congress**国会;**electorate**选民;**council**理事会;**referendum**公民投票权;**minister**部长;
+	3. _european parliament_ 欧洲议会（缩写为EP）
+	4. _member of parliament_ 国会议员；下院议员；下议院议员
+	5. _houses of parliament_ n. 英国的国会大厦
+	6. _house of parliament_ 国会大厦
+	7. _parliament building_ 国会大厦（加拿大标志建筑）
+	8. _parliament house_ 国会大厦
+	9. Parliament stand prorogue. /因暑假议会休会。
+	10. Parliament is an organ of government. /议会是政府的一个机构。
+	11. He will stand for Parliament in this autumn. ./在今年秋天他要竞选议员。
+	12. we'll sound out  parliament first. /我们要先试探一下议会。
+	13. The dissolution of New Zealand's parliament has been deferred until next Monday. /新西兰将解散议会推迟至下周一。
+	14. Parliaments been deadlocked for more than a year. /这个问题议会已僵持了一年多。
+	15. unparliamentary
+	16. parliamentary
+	17. parliamentarism
+	18. parliamentarian
 9. palaver
-	1. 1 - 水手航海俚语，来自葡萄牙语 palavra,说话，谈话，与土著人的谈判，来自拉丁语 parabola,比较，谈话，谈判，词源同 parable,parlance.后引申词义琐事，废话。
+	1. 水手航海俚语，来自葡萄牙语 palavra,说话，谈话，与土著人的谈判，来自拉丁语 parabola,比较，谈话，谈判，词源同 parable, parlance.后引申词义琐事，废话。
 	2. n. 谈判, 交涉, 洽商, 废话, 奉承  
 	3. vi. 唠叨, 拍马屁, 交涉, 用花言巧语骗人  vt. 笼络, 哄骗
 	3. [chatter](dic://chatter), [piffle](dic://piffle), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
@@ -801,7 +871,11 @@
 	5. [flattery](dic://flattery), [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
 	6. [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [persuade](dic://persuade)
 	7. **fuss**小题大作;**bugger**家伙;**daft**愚蠢可笑的;**nonsense**谬论;**tiresome**烦人的，无聊的;**drivel**淌口水,说傻话;**inane**愚蠢的;**farce**笑剧,闹剧,滑稽戏;**chatter**唠叨;**tedious**冗长乏味的;**sundry**杂的;
-8. parole
+	8. What a palaver there was about paying the bill! /付账的事真费口舌呀!
+	9. Printing became a palaver. When couriers eventually got to banks, they often found no one there /打印成了空话。当快递员最终来到银行，他们通常发现那里一个人都没有。
+	10. You givin' me that old prep school palaver? /高中小屁孩也敢跟我多嘴？
+	11. During the palaver which followed they retailed the gossip of the villages through which they had passed, receiving in exchange such news as Kovudoo possessed. The palaverwas long and tiresome, as these native ceremonies always are to Europeans. /在接下来的谈话中，他们散布了他们经过的村庄的八卦，作为交换，他们收到了 Kovudoo 拥有的消息。谈话冗长而令人厌烦，因为这些本土仪式对欧洲人来说总是如此。
+10. parole
 	1. 法语 parole d'honneur,承诺，承诺辞，即 parole of honor,来自拉丁语 parabola,说话，词源同 parable, parley.原指战争中俘虏作出的不逃跑的承诺，后用于对罪犯的假释。
 	2. n. 假释; 言语  
 	3. v. 假释, 有条件地释放

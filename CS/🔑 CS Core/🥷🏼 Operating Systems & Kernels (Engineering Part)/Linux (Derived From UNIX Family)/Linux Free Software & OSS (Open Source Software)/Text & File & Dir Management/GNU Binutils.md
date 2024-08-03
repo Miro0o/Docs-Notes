@@ -8,6 +8,13 @@
 🏠 https://www.gnu.org/software/binutils/
 
 
+### Related Topics
+↗ [GNU (GNU's Not Unix)](../../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20(GNU's%20Not%20Unix).md)
+
+
+### Learning Resources
+
+
 
 ## Intro
 The GNU Binutils are a collection of binary tools. The main ones are:

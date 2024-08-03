@@ -401,6 +401,10 @@ Labs - Data Science, AI & Robotics
 - [sky lab](https://sky.cs.berkeley.edu)
 - [CLTC (Center for Long Term Cybersecurity)](https://cltc.berkeley.edu)
 	- CLTC and U.S. Department of Education Announce Partnership for Advancing Cybersecurity in Education (PACE)
+
+bearX
+https://bearx.co/
+
 ##### computer science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
 

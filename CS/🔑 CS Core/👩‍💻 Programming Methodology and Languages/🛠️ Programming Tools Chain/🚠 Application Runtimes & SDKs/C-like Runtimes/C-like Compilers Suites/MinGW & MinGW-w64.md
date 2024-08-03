@@ -15,10 +15,11 @@
 ↗ [MSYS & MSYS2](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
 
 
+### Learning Resources
+
+
 
 ## Intro
-
-
 ### specs
 > https://zhuanlan.zhihu.com/p/76613134
 

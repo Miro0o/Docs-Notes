@@ -20,8 +20,6 @@
 
 ↗ [Tools for Math](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Tools%20for%20Math.md)
 
-↗ [Hardware Profiling](../Hardware%20&%20EE%20Related/Hardware%20Profiling.md)
-
 ↗ [实用工具箱](../../🗺%20CS%20Overview/CS自学指南（转）/实用工具箱.md)
 ↗ [😅 Wiki & Resources Searching](😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources%20Searching.md)
 
