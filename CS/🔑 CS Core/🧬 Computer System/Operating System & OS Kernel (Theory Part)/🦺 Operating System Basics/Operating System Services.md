@@ -16,10 +16,7 @@ As we have mentioned, the operating system is an important interface to the unde
 ## 🥺 The Operating System as an Interface (User Perspective)
 ### 1️⃣ User Interface
 #### CLI
-
-
 #### GUI
-
 
 
 ### 2️⃣ System Interface
@@ -38,7 +35,6 @@ As we have mentioned, the operating system is an important interface to the unde
 #### Accounting
 
 
-
 ### Three Key Interfaces in a Typical Computer System
 #### ISA
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
@@ -53,8 +49,9 @@ As we have mentioned, the operating system is an important interface to the unde
 ## 🦮 The Operating System as a Resource Manager (System Perspective)
 ![](../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2012.25.57%20AM.png)
 
+
 ### 1️⃣ Resource Management in General
-↗ [OS Processes Management (CPU + Main Memory Resource)](../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [OS IO System](../OS%20IO%20System/OS%20IO%20System.md)
 
@@ -66,23 +63,14 @@ As we have mentioned, the operating system is an important interface to the unde
 ### 3️⃣ Resource Security & Protection
 #### 📜 Protected Environments and the Evolution of Systems Architectures
 ##### Server Farm
-
-
 ##### Server Consolidation Product
-
-
 #### Virtual Machines
 ↗ [Virtualization Theory](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
-
-
 #### Subsystems & Partitions
 Although subsystems and partitions are different from each other in how they define their constituent resources, you can think of both as being mini-models of the layered system architecture of a computer system.
 - In the case of a partitioned environment, the levels would look like adjacent layered birthday cakes, extending from the hardware level to the application level. 
 - Subsystems, on the other hand, are not so distinct from one another, with most of the differences taking place at the system software level.
-
 ##### Subsystems
-
-
 ##### LPARs (Logical Partition)
 In very large computer systems, subsystems do not go far enough in segmenting the machine and its resources.
 

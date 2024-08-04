@@ -10,6 +10,13 @@
 ↗ [Computer IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
 ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 
+↗ [Computer Interfaces & Hardware Drivers](../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)
+
+
+### Learning Resources
+🎬【输入输出设备模型 (串口/键盘/磁盘/打印机/总线/中断控制器/DMA 和 GPU) [南京大学2022操作系统-P24]】 https://www.bilibili.com/video/BV1cv4y1T7wt/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬【设备驱动程序 (Linux 设备驱动; GPU 和 CUDA; 存储设备抽象) [南京大学2022操作系统-P25]】 https://www.bilibili.com/video/BV17r4y1b7bn/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Intro

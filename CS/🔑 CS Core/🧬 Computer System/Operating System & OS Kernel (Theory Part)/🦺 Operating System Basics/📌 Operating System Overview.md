@@ -27,7 +27,7 @@ The operating system must have control of the processor (as well as other resour
 
 ### Development (History) of OS
 ↗ [Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
-↗ [Operating System Design](Operating%20System%20Design.md)
+↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture/Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture.md)
 
 
 
@@ -52,7 +52,7 @@ The operating system achieves both goals via the fundamental abstractions shown 
 
 ![](../../../../../Assets/Pics/Screenshot%202023-10-13%20at%209.33.22PM.png)
 #### 1️⃣ Processes
-↗ [OS Processes Management (CPU + Main Memory Resource)](../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 #### 2️⃣ Virtual Memory Space
 ↗ [Primary Storage (Main Memory) Technologies & RAM](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
 ↗ [Address Space](../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)

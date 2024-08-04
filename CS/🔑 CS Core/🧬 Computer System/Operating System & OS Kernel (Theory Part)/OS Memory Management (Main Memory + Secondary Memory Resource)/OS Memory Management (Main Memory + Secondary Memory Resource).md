@@ -12,6 +12,10 @@
 ↗ [IO Efficiency (via Scheduling & Buffering)](../OS%20IO%20System/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering)/IO%20Efficiency%20(via%20Scheduling%20&%20Buffering).md)
 
 
+### Learning Resources
+🎬【1-Bit 数据的存储 (延迟线/磁芯/DRAM/SRAM/磁带/磁盘/光盘/Flash SSD) [南京大学2022操作系统-P23]】 https://www.bilibili.com/video/BV1U54y1f7fm/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 
 ## Intro
 

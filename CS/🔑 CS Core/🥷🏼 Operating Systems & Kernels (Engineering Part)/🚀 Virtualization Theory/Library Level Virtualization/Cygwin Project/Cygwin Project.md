@@ -12,9 +12,6 @@
 ↗ [Windows](../../../Microsoft%20Operating%20Systems/Windows/Windows.md)
 ↗ [POSIX (Portable Operating System Interface)](../../../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
-↗ [Virtualization Theory](../../../🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
-- ↗ [Library Level Virtualization](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
-
 ↗ [WSL (Windows Subsystems for Linux)](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
 
 ↗ [MSYS & MSYS2](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
@@ -30,6 +27,7 @@ Cygwin系列（一）：Cygwin是什么
 
 ## Intro
 > 🔗 https://silaoa.github.io/2019/2019-02-14-Cygwin系列（一）：Cygwin是什么.html
+
 
 ### Cygwin Components
 Cygwin就是在Windows中增加了一个中间层——兼容POSIX的模拟层，并在此基础上构建了大量Linux-like的软件工具。再来解释本文开头的回答，如下图，POSXI兼容环境包括以下两部分：
@@ -87,7 +85,7 @@ UWIN、GnuWin32、UnxUtils
 #### Projects Run Against Cygwin
 ↗ [ReactOS](../../../Microsoft%20Operating%20Systems/Windows/💙%20ReactOS/ReactOS.md)
 
-↗ [Wine Project](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
+↗ [Wine Project (Linux Subsystem for Windows)](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project%20(Linux%20Subsystem%20for%20Windows)/Wine%20Project%20(Linux%20Subsystem%20for%20Windows).md)
 
 Longene
 

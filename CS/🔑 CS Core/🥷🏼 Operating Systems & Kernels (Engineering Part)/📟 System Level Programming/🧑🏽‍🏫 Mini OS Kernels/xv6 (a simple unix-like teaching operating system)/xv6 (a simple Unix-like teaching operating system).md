@@ -1,4 +1,4 @@
-# Xv6
+# xv6 (a simple unix-like teaching operating system)
 
 [TOC]
 
@@ -6,11 +6,11 @@
 
 ## Res
 🏠 https://pdos.csail.mit.edu/6.828/2022/xv6.html
-
 🏫 [6.S081(6.828, 6.1810) Operating System Engineering](../../../../../../../../../🏠%20Assets/Courses%20of%20Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)
 
 
 ### Related Topics
+↗ [RISC-V](../../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/RISC-V/RISC-V.md)
 
 
 ### Other Resources
@@ -18,6 +18,7 @@
 PKU OS course project and notes based on Nachos and XV6
 
 【Xv6 代码导读 (调试工具配置；调试系统调用执行) [南京大学2022操作系统-P18]】 https://www.bilibili.com/video/BV1DY4y1a7YD/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+【Xv6 上下文切换 (上下文切换的实现；状态机的封装与恢复) [南京大学2022操作系统-P19]】 https://www.bilibili.com/video/BV1eA4y1Q76T/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

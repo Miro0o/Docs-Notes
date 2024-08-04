@@ -19,6 +19,10 @@
 ↗ [Operating System Theory /IO System](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
 
 
+### Learning Resources
+🎬【输入输出设备模型 (串口/键盘/磁盘/打印机/总线/中断控制器/DMA 和 GPU) [南京大学2022操作系统-P24]】 https://www.bilibili.com/video/BV1cv4y1T7wt/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 
 ## Overview
 

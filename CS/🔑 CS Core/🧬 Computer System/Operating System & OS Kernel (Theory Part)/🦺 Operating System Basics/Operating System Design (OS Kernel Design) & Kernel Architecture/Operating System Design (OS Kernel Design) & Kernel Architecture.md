@@ -1,11 +1,18 @@
-# Operating System Design
+# Operating System Design (OS Kernel Design) & Kernel Architecture
 
 [TOC]
 
 
 
 ## Res
-[Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
+### Related Topics
+↗ [Development(History) of Operating Systems](Development(History)%20of%20Operating%20Systems.md)
+↗ [Operating System Kernel (Kernel Mode)](../../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
+
+
+### Learning Resources
+🎬【操作系统设计选讲 (POSIX; Windows API; Micro/Exo/Unikernel) [南京大学2022操作系统-P21]】 https://www.bilibili.com/video/BV16i4y1m7Tg/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Overview
@@ -25,16 +32,13 @@ Key features of microkernel design are its smaller size, easy portability, and t
 - However, additional communication between the kernel and the other modules is necessary, often resulting in a slower and less efficient system. 
 
 Microkernel development has been significantly encouraged by the growth in SMP and other multiprocessor systems. Examples of microkernel operating systems include MINIX, Mach, and QNX.
-
-
 #### Monolithic Systems (宏内核系统)
 Monolithic kernels provide all their essential functionality through a **single process**. Consequently, they are significantly larger than microkernels. Typically targeted for specific hardware, monolithic kernels interact directly with the hardware, so they can be optimized more easily than can microkernel operating systems. It is for this reason that monolithic kernels are not easily portable. 
 
 Examples of monolithic kernel operating systems include Linux, MacOS, and DOS.
-
-
 #### Hybrid Kernel Systems
 Examples: Windows NT, XP, Vista, 7, 8, 10, 11, Server 2019, Windows Phone 8, 8.1, Xbox one
+
 
 
 ## Developments Leading to Modern Operating Systems

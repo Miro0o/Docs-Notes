@@ -11,7 +11,7 @@
 ### Related Topics
 ↗ [Windows](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
 
-↗ [Cygwin Project](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Projects/Cygwin%20Project/Cygwin%20Project.md)
+↗ [Cygwin Project](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Cygwin%20Project/Cygwin%20Project.md)
 ↗ [MSYS & MSYS2](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/MSYS%20&%20MSYS2.md)
 
 

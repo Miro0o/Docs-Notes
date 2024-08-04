@@ -9,8 +9,8 @@
 
 
 ### Related Topics
-↗ [Wine Project](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
-↗ [Cygwin Project](../../../📟%20System%20Level%20Programming/System%20Level%20Projects/Cygwin%20Project/Cygwin%20Project.md)
+↗ [Wine Project (Linux Subsystem for Windows)](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project%20(Linux%20Subsystem%20for%20Windows)/Wine%20Project%20(Linux%20Subsystem%20for%20Windows).md)
+↗ [Cygwin Project](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Cygwin%20Project/Cygwin%20Project.md)
 ↗ [WSL (Windows Subsystems for Linux)](../../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/WSL%20(Windows%20Subsystem%20for%20Linux)/WSL%20(Windows%20Subsystems%20for%20Linux).md)
 
 ↗ [MinGW & MinGW-w64](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Compilers%20Suites/MinGW%20&%20MinGW-w64.md)

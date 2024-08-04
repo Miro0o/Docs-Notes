@@ -61,7 +61,7 @@ Are you kidding me ? Minecraft is nice on mac though.
 
 ### 3️⃣ Get PC Games Running Under Interpreters
 #### Wine Project
-↗ [Wine Project](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project/Wine%20Project.md)
+↗ [Wine Project (Linux Subsystem for Windows)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/🍷%20Wine%20Project%20(Linux%20Subsystem%20for%20Windows)/Wine%20Project%20(Linux%20Subsystem%20for%20Windows).md)
 #### Proton
 https://www.protondb.com
 
