@@ -6,9 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 ↗ [Classical Electromagnetism](../../../Hardware%20&%20EE%20Related/🍏%20Other%20Related%20Theories/Classical%20Electromagnetism.md)
+↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 ↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
+↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
+↗ [Motherboard & Mainboard](Motherboard%20&%20Mainboard.md)
 
 ↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 ↗ [Bootstrap (Boot)](../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
@@ -90,21 +92,16 @@ More is at ↗ [Non-von Neumann Based Microarchitectures](🤵%20Non-von%20Neuma
 ## Microarchitecture Hardware Designs
 ### Developments of Von Neumann Microarchitecture Designs
 > 🔗 https://foxsen.github.io/archbase/计算机组成原理和结构.html#计算机系统硬件结构发展
-
 #### 1️⃣ CPU-GPU-北桥-南桥四片结构
 ![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145108.png)
-
 
 #### 2️⃣ CPU-北桥-南桥三片结构
 ![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145124.png)
 
-
 #### 3️⃣ CPU-弱北桥-南桥三片结构
 ![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145139.png)
-
 #### 4️⃣ CPU-南桥两片结构
 ![|300](../../../../../Assets/Pics/Pasted%20image%2020240414145150.png)
-
 
 #### 5️⃣ SoC单片结构
 ↗ [Systems on Chip (SOC)](Systems%20on%20Chip%20(SOC).md)

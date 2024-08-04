@@ -9,8 +9,8 @@
 ↗ [Network Programming & RPC](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 - ↗ [Internet Domain Socket Programming](../../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Internet%20Domain%20Socket%20Programming/Internet%20Domain%20Socket%20Programming.md)
 
-↗ [Berkeley Sockets & POSIX Sockets & BSD Sockets](../../../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Berkeley%20Sockets%20&%20POSIX%20Sockets%20&%20BSD%20Sockets.md)
-- ↗ [UNIX Domain Sockets (POSIX)](../../../OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(POSIX).md)
+↗ [Berkeley Sockets & POSIX Sockets & BSD Sockets](../../../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Berkeley%20Sockets%20&%20POSIX%20Sockets%20&%20BSD%20Sockets.md)
+- ↗ [UNIX Domain Sockets (POSIX)](../../../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/UNIX%20Domain%20Sockets%20(POSIX).md)
 
 
 

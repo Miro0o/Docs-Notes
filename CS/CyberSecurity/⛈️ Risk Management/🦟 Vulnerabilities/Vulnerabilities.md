@@ -15,9 +15,8 @@
 
 
 ## Intro
-
-
 ### Vulnerabilities 🆚 Bug 🆚 Feature ?
+#vulnerability #bug #feature_design #debug
 
 
 

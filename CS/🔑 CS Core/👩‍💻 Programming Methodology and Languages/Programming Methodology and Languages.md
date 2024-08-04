@@ -23,7 +23,7 @@
 - ↗ [DPDK (Data Plane Development Kits)](../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/DPDK%20(Data%20Plane%20Development%20Kits)/DPDK%20(Data%20Plane%20Development%20Kits).md)
 ↗ [ML Programming & Frameworks](../../Artificial%20Intelligence/🛫%20Frameworks%20&%20Implementations%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
 ↗ [Computer Media Programming](../../Software%20Engineering/Computer%20Media%20Programming/Computer%20Media%20Programming.md)
-↗ [Concurrent Programming](../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
+↗ [Concurrent Programming](../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
 ↗ [Embedded Programming](../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/Embedded%20Programming.md)
 
 ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)

@@ -1,4 +1,4 @@
-# Wine Project
+# Wine Project (Linux Subsystem for Windows)
 
 [TOC]
 

@@ -9,9 +9,13 @@
 ↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [OS Processes Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
+↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
 ↗ [Storage Devices](../../../../Hardware%20&%20EE%20Related/Storage%20Devices/Storage%20Devices.md)
+
+
+### Learning Resources
+🎬【1-Bit 数据的存储 (延迟线/磁芯/DRAM/SRAM/磁带/磁盘/光盘/Flash SSD) [南京大学2022操作系统-P23]】 https://www.bilibili.com/video/BV1U54y1f7fm/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

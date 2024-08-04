@@ -26,7 +26,7 @@ The engineering implementation to parallel computing or parallel processing can 
 
 🌻 🌻 Very often, designing parallel programs to maximumally utilize the parallel designed hardware is the most difficult part in achieving parallel processing. Hence it's why even when parallel processing architectures is getting more and more complicated it is still not a common standard in daily lives to parallel compute: there are not efficient enough programs to support that set of hardwares.
 
-> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Operating%20System%20Design.md)
+> 💡 For more of parallelism at system software level, go to ↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](../../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture/Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture.md)
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202024-03-17%20at%204.49.59%20PM.png)
 <small>https://en.wikipedia.org/wiki/Parallel_computing</small>

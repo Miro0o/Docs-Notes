@@ -117,7 +117,7 @@ Each advance is characterized by principles, or abstractions, developed to meet 
 
 
 ## Modern OS Designs ...
-↗ [Operating System Design](Operating%20System%20Design.md)
+↗ [Operating System Design (OS Kernel Design) & Kernel Architecture](Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture/Operating%20System%20Design%20(OS%20Kernel%20Design)%20&%20Kernel%20Architecture.md)
 
 
 

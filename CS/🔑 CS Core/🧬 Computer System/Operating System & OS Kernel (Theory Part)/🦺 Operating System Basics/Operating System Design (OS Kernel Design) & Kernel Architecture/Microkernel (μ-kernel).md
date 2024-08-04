@@ -9,6 +9,10 @@
 ↗ [Design Pattern /Serverless](../../../../../../../../Software%20Engineering/Web%20Development/👩🏻‍🎨%20Design%20Pattern/Serverless/Serverless.md)
 
 
+### Learning Resources
+↗ [seL4](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Projects/seL4/seL4.md)
+
+
 
 ## Intro
 > 微内核，提出时间比单内核要晚，在学术界而言无疑是初生的朝阳。微内核基于模块化的设计，将内核功能简化到最少，仅提供少量基础功能，更多的功能运行在用户态，不同服务运行在不同的地址空间，常用的服务（比如IO、内存管理）通过IPC调用来组合提供。无疑从这个层面上讲微内核的扩展性更强，增加新功能无需重新编译内核。并且由于内核服务间的隔离，使得OS更安全，一个服务挂掉，不会影响其他服务。而单内核中一个服务的异常可能让整个内核挂掉。但问题也显而易见，那就是大量的IPC，性能必然受影响。
@@ -20,4 +24,3 @@
 
 
 ## Ref
-
