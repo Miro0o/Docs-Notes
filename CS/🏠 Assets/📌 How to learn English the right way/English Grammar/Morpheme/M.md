@@ -1992,14 +1992,24 @@
 		4. they are not a little tired of being mured up in the cottage /他们住在与世隔绝的小别墅里觉得极其烦闷。
 		5. immurement, immuration
 	3. mural
-		1. transmural
-		2. planomural
-		3. photomural
-		4. muralist
+		1. [wall painting](dic://wall painting)
+		2. _n._ [painting](dic://painting), [picture](dic://picture)
+		3. adj._ [wall](dic://wall)
+		4. **painting**油画;**sculpture**雕塑;**graffiti**墙上乱写乱画的东西;**artwork**艺术品;**painted**描画的;**mosaic**摩西的;**statue**雕像，塑像;**wall**墙壁，围墙;**collage**抽象拚贴画;**billboard**广告牌;**decal**贴花纸;
+		5. _mural painting_ 壁画
+		6. a mural escarpment. /垂直的断崖
+		7. muraled halls. /壁画装饰的大厅
+		8. a cab airbrushed with a mural of a sunset. /喷画有落日的出租车。s
+		9. Looks like maybe there's a mural underneath it. /看起来下面好像有张壁画。
+		10. He ordered the mural painted on its grounds. /他让人把壁画画在学校的墙壁上。
+		11. transmural
+		12. planomural
+		13. photomural
+		14. muralist
 			1. **painter**画家;**murals**壁画;**mural**墙壁的;**sculptor**雕刻家;**artist**艺术家;**illustrator**插图画家;**painters**画家;**educator**教师;**cartoonist**漫画家;**painting**油画;**architect**建筑师;
-		5. intramural, extramural
+		15. intramural, extramural
 			1. **extracurricular**学校课程以外的;**athletics**体育运动;**athletic**运动的，运动员的;**softball**垒球;**volleyball**排球;**collegiate**学院的;**sports**运动;**cheerleading**带领啦啦队;**varsity**大学体育代表队的;**soccer**英式足球，足球;**basketball**篮球;
-	4. muriform
+	5. muriform
 2. **mur-** = wall, 表示“墙壁”。源自拉丁语 murus "wall."
 	1. munition
 		1. **ammunition**弹药, 军火;**artillery**炮, 大炮;**missiles**导弹;**missile**导弹;**armament**武器;**weapons**武装切换;**weaponry**兵器，武器;**propellant**推进物;**projectile**发射体;**bomb**轰炸，投弹于;**rockets**火箭，烟火;

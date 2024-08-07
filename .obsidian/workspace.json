@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4002c4ff301d397c",
+            "id": "b779b43812c6702b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/Hardware & EE Related/Hardware & EE Related.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,25 @@
             }
           },
           {
-            "id": "7c7847ad0e97d1ef",
+            "id": "745d785788a5960a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed347cde95b8d37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md"
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md"
               }
             }
           },
@@ -210,10 +223,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7c7847ad0e97d1ef",
+  "active": "ed347cde95b8d37e",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Clojure/Clojure.md",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Mission Management & Configuration/Mouse Configuration.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/SMS & MMS/SMS & MMS.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/UNIX Family/BSD Family/NetBSD/NetBSD.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Hardware & EE Related.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Clojure/Clojure.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Clojure",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/Compiled + Interpreted Languages.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Apache Groovy/Apache Groovy.md",
@@ -230,16 +253,6 @@
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/OS IO System.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Computer Memory & Storage.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Efficiency (via Scheduling & Buffering)/IO Efficiency (via Scheduling & Buffering).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/Computer Interfaces & Hardware Drivers.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐄 Cyberspace Assets/🧨 Cyberspace Assets Mapping & Management/Cyberspace Assets Mapping & Management.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐄 Cyberspace Assets/Cyberspace Assets.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/🛰️ Cyber Threat Intelligence (CTI) & Reconnaissance/Cyber Threat Intelligence (CTI) & Reconnaissance.md",
-    "CS/🔑 CS Core/Hardware & EE Related/Hardware & EE Related.md",
-    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Computing & Computing Systems/Cluster Computing.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/High Performance Network (HPN) & IDC Technologies.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/IDC & Data Center Networking.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Projects/seL4",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/JVM Instrument Set & Java Bytecode",
