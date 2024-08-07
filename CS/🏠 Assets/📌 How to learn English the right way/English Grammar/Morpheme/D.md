@@ -2619,7 +2619,7 @@
 		5. fainthearted
 		6. faint-heart
 	4. feign
-		1.  来自 PIE*dheigh,揉捏，建造，词源同 dough,fiction.引申词义虚假，假装。
+		1. 来自 PIE \*dheigh,揉捏，建造，词源同 dough, fiction.引申词义虚假，假装。
 		2.  [sham](dic://sham), [pretend](dic://pretend), [affect](dic://affect), [dissemble](dic://dissemble)
 		3.  [simulate](dic://simulate), [assume](dic://assume), [sham](dic://sham)
 		4. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [dissemble](dic://dissemble), [pretend](dic://pretend), [act](dic://act)
@@ -2676,7 +2676,42 @@
 	5. thixolabile
 3. dairy
 4. dough
+	1. doughnut（甜甜圈）：油炸面团做成的食物  
+	2. 英语单词doughnut常常被翻译为“甜甜圈”，因为它通常是环形的。这个单词由dough（面团）和nut（坚果）组成，字面含义就是“面团做成的坚果”。为什么是这样呢？原来，最早的doughnut的形状与现在不同，是用一小块面团裹上蜜饯等甜点，然后放到猪油中烹制而成。由于最初的形状像小果子，因为就被称为doughnut。直到19世纪后期才出现中间有洞的doughnut，但人们已经习惯doughnut这个称呼了。  
+	3. doughnut：['dəʊnʌt] n.甜甜圈，炸圈饼  
+	4. dough：[dəʊ] n.面团，生面团
 5. lady
+	1. lady（女士）：部落中负责做面包的人  
+	2. lady一词来自古英语hlafdige，等于loaf-kneader（揉面包者），指的是lord的夫人，家中的主妇。  
+	3. 在中世纪，lady一词是对贵族家的女眷的尊称。侯爵夫人、伯爵夫人、子爵夫人、男爵夫人以及公爵、侯爵和伯爵的女儿都可以称呼为Lady，用法与lord一样，在姓氏或封号前冠以Lady，在第二人称中为“my lady”。总而言之，lady指的是贵族家的女眷，因此lady一词含有“高贵、淑女”之意，在现代用作对所有女士的尊称。英语单词ladylike意思就是像淑女一样的。  
+	4. lady： ['leɪdɪ] n.女士，夫人，小姐  
+	5. ladylike： ['leɪdɪlaɪk] adj.像淑女那样的，贤淑高贵的  
+	6. landlady：['lændledi] n. 女房东；女地主；女店主
+	7. lady - lady和lord这两个身份高贵的词，其出身都和面包有联系。在古英语中lady作hlæfdīge，由hlāf 'loaf'（面包）加dige'kneader'（揉捏者）构成，意思是loaf-kneader（做面包的人），这就是说，那时的lady要亲自下厨揉面团，烤面包。lord在古英语作hlāford，更早一些作hlāfweard，由hlāf 'loaf'加weard 'keeper'构成，意思是bread-keeper，这反映了一家之主和其属下之间的基本关系。因此，lady和lord早先一度分别指女主人（或妻子）与男主人（或丈夫），13和14世纪以后分别作为对贵族妻女的尊称和对贵族等的一般称呼。在长期的词义演变过程中lady的词义变得越来越一般化，并衍生了不少词义，它如今最常用的词义恐怕莫过于同gentleman（先生）相对应的“女士”一义了。
+	8. saleslady
+	9. milady
+	10. landlady
+	11. ladyship
+	12. ladylove
+	13. ladylike
+	14. ladykin
+	15. ladyhood
+	16. ladyfinder
+		1. n. 松脆饼
+	17. ladybug /ladybird
+		1. [ladybug](dic://ladybug), [ladybeetle](dic://ladybeetle), [lady beetle](dic://lady beetle), [ladybird beetle](dic://ladybird beetle)
+		2. _n._ [beetle](dic://beetle)
+		3. **insect**昆虫;**beetle**甲虫;**caterpillar**毛虫;**butterfly**蝴蝶;**beetles**甲壳虫，甲虫;**wasp**黄蜂;**frog**青蛙;**spider**蜘蛛;**insects**昆虫;**moth**蛾;**fairy**仙女，小精灵;
+		4. _[ladybird beetle](dic://ladybird%20beetle)_  n. [昆] 瓢虫
+		5. ladybirds have black spots on their red wing covers. /瓢虫红色的翅膀上有黑色的斑点。
+		6. So people began importing an Asian species called the harlequin ladybird as natural pest control. /因此人们开始引进一种称作“小丑瓢虫”的亚洲物种，以此作为控制自然虫害的手段。
+		7. I daresay this ladybird finds the nettle of some use, or it would not take shelter under its leaves /我敢说，这瓢虫发现荨麻有些用处，不会在它的叶子下避雨。
+	18. lady-killer
+	19. lady-in-waiting
+	20. ladify
+	21. forelady
+	22. first-lady
+	23. charlady
 
 
 ### + \*dher- +

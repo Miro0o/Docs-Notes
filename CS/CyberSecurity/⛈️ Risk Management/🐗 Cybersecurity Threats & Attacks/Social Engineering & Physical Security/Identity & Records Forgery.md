@@ -14,12 +14,12 @@
 
 
 
-## Phone Number Services
+## 📞 Phone Number Services
 ### SMS Services
 > 🔗 https://iyideng.fun/welfare/best-domestic-platform-for-receiving-captcha-free-of-charge.html
 
 - ﻿﻿SMS-Activate:https://sms-activate.org （点击直达SMS-Activate中文官网），可以收到来自全球358个国家和地区，超过1500个主流平台的实体卡和虚拟电话号码的短信。在SMS-Activate网站平台上，用户可以自由选择所需要的国家/地区和所需要注册的服务，同时也可以与商户进行API对接。
-- ﻿无敌云短信：https://www.clearcode.cn 一个免费在线接收短信验证码的网站，仅提供国内和美国的临时电话号码。网站提供的号码可用于注册一些不重要的网站账号或者APP账号。它是目前提供国内临时号码最多的接码平台之一，有上百个中国电话号码供你选择。
+- ﻿无敌云短信：https://www.clearcode.cn  一个免费在线接收短信验证码的网站，仅提供国内和美国的临时电话号码。网站提供的号码可用于注册一些不重要的网站账号或者APP账号。它是目前提供国内临时号码最多的接码平台之一，有上百个中国电话号码供你选择。
 - ﻿云际云短信：https://yunjisms.xyz 国内知名的短信接码平台，提供大量免费的中国号段和美国号段临时号码，可用于在线接收短信，接收短信验证码，每个号码的延迟时间约为30秒。如果长时间没有收到短信验证码，建议尝试另一组号码。值得一提的是，云际云短信还是全球唯一一家接入了所有美国电信服务商的平台，所以它提供的美国号段也是相当丰富。
 - ﻿来信短信云：https://www.zusms.com/phone/china 一种免费服务，用于在线接收手机短信验证码，不需要注册。网站提供大量的国内临时号码和香港临时号码，此外还有一些美国和加拿大号码，你可以使用它来接收来自FACEBOOK，TELEGRAM, WECHAT，VK，PAYPAL，ALIPAY等发来的手机短信验证码。
 - ﻿小鸟接码：http://www.xnsms.com 是一个提供在线免费接码服务、接收短信验证码服务、免费的临时邮件等多样的方式进行无限接码的平台，可用于注册一些网站和app，并且都是免费的。网站提供的国内临时号码虽然不多，但相对比较稳定。
@@ -56,7 +56,7 @@ https://sms-man.com/
 
 
 
-## Purchase /Payment
+## 💵 Purchase /Payment
 vvacard
 淘宝上买卡充值
 
@@ -66,12 +66,12 @@ FotonCard
 
 
 
-## Network Proxy Services
+## 🛜 Network Proxy Services
 ↗ [Proxy](../../../Network%20Security/Anonymous%20&%20Private%20Networks/Proxy/Proxy.md)
 
 
 
-## Software Simulation
+## 🎭 Software Simulation
 ### Wechat /Alipay
 https://m.nmgfic.com/dzgd/101733.html
 微信模拟器

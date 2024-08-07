@@ -8186,19 +8186,61 @@ neck
 - bottleneck
 
 net
+- 来自 PIE \*net,编织，结，词源同 node, noose.引申词义网。  
+- 来自 neat,干净的，整洁的。用于指物体净重的，比较 gross.
+- n. 网, 网状物, 罗网, 净利, 净价  
+- a. 净的, 最终的  
+- vt. 用网捕, 撒网, 净赚, 得到  
+- vi. 编网
+- trawlnet
+- tow-net
+- toasternet
+- thinnet
+- thicknet
+- subnet
+- stockinet
+- spoon-net
+- sneakernet
+- network
+- netty
+- nettle
+- netting
+- netted
+- netstat
+- Netnorth
+- netnews
+- netmail
+- netlike
+- netletter
+- netful
+- netfiles
+- netball
+- internetting
+- internet
+- hairnet
+- freenet
+- fishnet
+- Euronet
+- Ethernet
+- dragnet
+- clapnet
+- catenet
 - netty
 - nettle
 	- 来自net , 网。即织网的材料，用于指荨麻。
 	- n. 荨麻 vt. 使烦恼, 使生气; 以荨麻刺
 	- [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [gravel](dic://gravel), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
 	- [urticate](dic://urticate)
-	- **herb**香草，药草;**fennel**茴香;**rhubarb**大黄;**willow**柳木制品;**parsley**荷兰芹，欧芹;**thyme**百里香;**seaweed**海藻，海草;**rosemary**迷迭香;**cabbage**卷心菜，甘蓝菜，脑袋;**fern**蕨类植物;**clover**苜蓿;
 	- [weed](dic://weed)
 	- [bite](dic://bite), [sting](dic://sting), [burn](dic://burn), [displease](dic://displease)
+	- **herb**香草，药草;**fennel**茴香;**rhubarb**大黄;**willow**柳木制品;**parsley**荷兰芹，欧芹;**thyme**百里香;**seaweed**海藻，海草;**rosemary**迷迭香;**cabbage**卷心菜，甘蓝菜，脑袋;**fern**蕨类植物;**clover**苜蓿;
 	- _grasp the nettle_ v. 迎着困难上
 	- a nettle stings if you brush it lightly. /你轻抚荨麻，它就会刺痛你。
 	- the nettles that grew thickly round the boathouse /船库周围茂密的荨麻
 	- Grasp the nettle and it won't sting you /你不怕困难, 困难就怕你。
+	- Falsehood like a nettle stings those who meddle with it /谎言似荨麻,玩弄会刺手。
+	- Eating nettles was a trick for rosier cheeks. /吃荨麻是让脸颊红润的秘诀。
+	- Nettles are common nutritious edible plants with leaves covered in hairs that sting when touched. /荨麻是一种常见的营养丰富的可食用植物，其叶子上覆盖着茸毛，被触摸时会刺痛人。
 - etc.
 
 Niagara
@@ -8207,8 +8249,32 @@ Niagara
 - _niagara falls_ （北美）尼亚加拉大瀑布
 
 niche
-- n. 壁龛  vt. 放入壁龛, 安顿
 - 来自法语 niche,狗窝，可能来自拉丁语 nidus,鸟巢，窝，词源同 nest.引申词义壁龛，商机，称心的工作等。
+- n. 壁龛  vt. 放入壁龛, 安顿
+- n. 合适（称心）的工作（活动）（one's niche）；壁龛；（产品的）商机；生态位（一个生物所占生境的最小单位） 
+- v. 把……放在壁龛中 
+- adj. （产品）针对特定小群体的
+-  [recess](dic://recess), [recession](dic://recession), [corner](dic://corner)
+- [ecological niche](dic://ecological niche)
+- _n._ [place](dic://place), [station](dic://station), [concave shape](dic://concave shape), [concavity](dic://concavity), [incurvation](dic://incurvation), [incurvature](dic://incurvature), [enclosure](dic://enclosure)
+- **marketplace**市场;**market**集市;**genre**类型;**hobby**嗜好;**specialty**专业;**particular**特定的;**profitable**有利可图的;**monetize**定为货币，使成为合法货币;**carve**雕刻;**lucrative**获利多的, 赚钱的;**specialized**专门的;
+- _niche market_ 瞄准机会的市场；缝隙市场
+- _market niche_ 市场利基；市场定位；市场补缺基点；市场补缺者
+- _ecological niche_ 生态位；生态龛位；小生境；生态区位
+- found her niche in life /找到她在生活中的定位
+- He found the right niche for himself. /他为自己找到了一份称心的工作。
+- These animals are moving into the niche left vacant by the disappearance of the big predators. /这些动物将转移到大型食肉动物消失后留下来的空间。
+- His serenity was but the array of wild flowers niched in his ruin. /其实，他的安祥只是点缀在他这片废墟上的几朵野花而已。
+- By learning from the city growth mechanism, the rivalship and evolvement of niche and evolvement of urban spacial frame were discussed. /摘要本文从城市生长机制着手，论述了生态位的竞争与演化以及导致城市结构和空间的变化；
+- Mosquito fish had large habitat niches, rapid growth rate, ovoviviparity, high reproduction rate and large adaptation reproduction conditions /它们具有广泛的生境适应性、生长迅速、卵胎生、高生殖率、对生殖生态条件无特殊要求等特点。
+- A mountain creates biotopes and eco-niches, it channels water and stores heat, it provides viewpoints and valleys, access and shelter /山区创建群落生境和生态位，它的渠道水和热量的商店，它提供的观点和山谷，准入和住房。
+- You get to split that niche evenly. /你们平分了这个微环境。
+- Which leaves the niche of super-shark wide open /这就为超级大鲨鱼提供了机会。
+- Certain vegetation will only grow where it has the right niche. /某些植物只会生长在适合它生长的地方。
+- The difficult question is how to find that profitable **niche** and protect it. /这个难题是：如何找到有利可图的利基市场并加以保护。
+- I think we have found a **niche** in the toy market /我认为我们已经在玩具市场找到了领地。
+- He eventually found his **niche** in sports journalism /最后他在体育新闻界找到了理想的工作。
+- However, it wasn't as if mammals swarmed forward to fill every niche. /不过，情况似乎不像是哺乳动物一哄而上去抢占每一块地盘。
 
 night
 - benighted
@@ -8235,7 +8301,53 @@ nobble
 - " A sight of times better to be selling diments than nobbling about here. /“在那里卖钻石比在这里穷混混可要好过多了。”
 - In reality these are examples of poor negotiation by governments, a weakness that can also nobble their use of public money. /实际上， 这些都是政府谈判不力的例子，这种弱点也可能使他们无法使用公共资金。
 - nobbler
-- 
+
+node
+-  来自拉丁语 nodus,节，结，词源同 net,noose.引申词义结点。
+- n. 节, 结节, 瘤
+- nodus
+- nodule
+	-  [tubercle](dic://tubercle)
+	- _n._ [node](dic://node), [plant process](dic://plant process), [enation](dic://enation), [hunk](dic://hunk), [lump](dic://lump)
+	- **cyst**胞,包囊,膀胱;**lesion**损害;**tumor**肿瘤;**tumour**肿瘤;**biopsy**活组织检查;**cysts**囊;**carcinoma**癌;**thyroid**甲状腺;**lung**肺;**tumors**肿瘤;**cancerous**癌的;
+	- _root nodule_ 根瘤
+	- So you grab six nodules and jump through the portal. /所以你抓起了六个结节然后从传送门跳过去。
+	- Barron is already telling potential investors that he expects to be harvesting nodules by 2024. /巴伦已经告诉潜在投资者，他预计将在2024年开始收集结核。
+	- When liver cells are injured, they start to come together and form what are called regenerative nodules. /当肝细胞受损时，他们聚集到一起，形成再生结节。
+	- Sometimes the infection causes more solid bumps to form, called nodules /有时感染会产生更硬的肿块，称之为结节。
+	- nodulus
+	- nodulous
+	- nodulose
+	- nodulize
+	- noduli
+	- nodulation
+	- nodulated
+	- nodular
+	- nodulant
+- nodous
+- nodosity
+- nodositas
+- nodose
+	- - adj. [生物] 有节的；结节多的
+- nodical
+	- - adj. 交点的
+- nodelist
+- noddy
+- nodal
+- multinodal
+	- 多节的 
+	- 多结的
+- monodal
+	- 高频电导联的
+- lymphonode
+	- 淋巴结
+	- lymphonodus
+	- lymphonodulus
+	- lymphonoduli
+	- lymphonodi
+- internode
+- internodal
+- antinode
 
 noise (noisome)
 - noisy
@@ -8274,6 +8386,8 @@ nook
 - inglenook
 	- _n._ [corner](dic://corner), [nook](dic://nook)
 	- **fireplace**壁炉;**hearth**炉床;**cosy**舒适的;**cottage**村舍;**tiled**平铺的;**chimney**烟囱;
+
+noose
 
 nuance
 - 来自法语 nuance,细微差别，云影，来自拉丁语 nubes,云朵，水气，词源同 nebula,nimbus.引申词义云彩的阴影，云影的细微差别。
