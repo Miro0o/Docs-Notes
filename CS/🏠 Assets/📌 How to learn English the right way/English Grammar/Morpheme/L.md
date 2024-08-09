@@ -2021,17 +2021,37 @@ _delicate balance_ 微妙的平衡
 			3. **cardigan**羊毛衫，开襟羊毛衫;**boxy**四四方方的;**baggy**袋状的，膨胀的;**pullover**套衫;**chic**时髦;**chunky**矮胖的;**sweater**毛线衣，运动衫;**comfy**舒服的;**stretchy**有弹性的;**sweatshirt**运动衫;**oversized**大于一般的，特大号的;
 		5. slouching
 	9. sludge
-		1. [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck), [ooze](dic://ooze)
-		2. [precipitate](dic://precipitate), [substance](dic://substance), [matter](dic://matter)
-		3. **slurry**泥浆;**effluent**流出物;**sewage**污水;**wastewater**废水;**sediment**沉淀物;**manure**施肥于;**sediments**沉淀物;**muck**垃圾;**pollutants**污染物质;**fecal**排泄物的;**sulfur**用硫磺处理;
-		4. sludgy
-		5. sludging
-		6. sludger
+		1. 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop, slosh, slough, sludge.
+		2. n. 烂泥；泥泞；泥状雪；沉淀物；（海上）小浮冰
+		3. [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck), [ooze](dic://ooze)
+		4. [precipitate](dic://precipitate), [substance](dic://substance), [matter](dic://matter)
+		5. **slurry**泥浆;**effluent**流出物;**sewage**污水;**wastewater**废水;**sediment**沉淀物;**manure**施肥于;**sediments**沉淀物;**muck**垃圾;**pollutants**污染物质;**fecal**排泄物的;**sulfur**用硫磺处理;
+		6. _sludge treatment_ 污泥处理
+		7. _sewage sludge_ n. 污水污泥；下水污泥
+		8. _activated sludge process_ 活性污泥法
+		9. _sludge disposal_ 粪泥处理
+		10. _sludge dewatering_ 污泥脱水
+		11. _sludge concentration_ 污泥浓度
+		12. _oil sludge_ 油泥，油渣
+		13. _excess sludge_ 剩余污泥
+		14. _sludge blanket_ 污泥层；污泥浮层
+		15. a trendy sludge green. /一种流行的泥青色。
+		16. An incinerator burns the leftover sludge at a sewage plant. /焚化炉焚烧污水厂的剩余工业淤渣。
+		17. My job is to clear the pipes, and keep the sludge moving. /我的工作就是疏通管道，让污泥流动。
+		18. The sludge contains pollutants that the plant can't treat. /这些淤渣中含有工厂无法处理的污染物。
+		19. Its workers cleared the tank of tonnes of sludge, and relaid the neighbourhood's sewage pipes. /工人们清理了水箱里的数吨污泥，并重新铺设了附近的污水管道。
+		20. sludgy
+			1. Kind of passing through this gross stage in between of kind of sludgy stuff filled with fly larvae /可以说是跳过了满是蛆虫的泥泞的恶心阶段。”
+			2. A singularly unattractive sludgy tentacle curled its way around the small dragon and lifted it into the air. /一只非常不吸引人的泥泞的触手卷绕着小龙，把它举到了空中。
+			3. She gives him a dubious look but leaves the last burnt, sludgy vestiges of coffee where they are and rolls off with her cart. /她疑惑地看了他一眼，但还是把最后一点烧焦、沾满泥浆的咖啡留在了原处，然后推着推车滚了下去。
+			4. His voice is not **sludgy** and slow, as it was in "Brokeback Mountain." /他的声音不似《断臂山》里的拖沓、低沉。
+		21. sludging
+		22. sludger
 			1. n. 用以清除淤泥等之机械或装置
-		7. desludging
-		8. antisludge
+		23. desludging
+		24. antisludge
 			1. 去垢
-	10. slug
+	11. slug
 		1. sluggish
 			1. [sulky](dic://sulky)
 			2.  [dull](dic://dull), [slow](dic://slow)
@@ -2051,14 +2071,14 @@ _delicate balance_ 微妙的平衡
 			2. **Proverbs**箴言篇;**doth**从事;**proverb**谚语，格言;**ant**蚂蚁;**lazy**懒惰的;
 		6. slugfest
 		7. slugabed
-	11. slur
+	12. slur
 		1. [aspersion](dic://aspersion)
 		2. [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch)
 		3. [blur](dic://blur), [dim](dic://dim)
 		4. _n._ [musical notation](dic://musical notation), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar)
 		5. _v._ [play](dic://play), [spiel](dic://spiel), [denote](dic://denote), [refer](dic://refer), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter)
 		6. **derogatory**不敬的;**disparaging**轻蔑的;**racist**种族主义者;**insult**侮辱;**bigot**偏执的人;**bigoted**顽固的;**accusation**指责;**slander**诽谤;**phrase**成语;**insulting**侮辱的;**insults**侮辱;
-	12. slush
+	13. slush
 		1. [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
 		2. [slosh](dic://slosh), [slosh around](dic://slosh around), [slush around](dic://slush around)
 		3. [water](dic://water), [H2O](dic://H2O)
@@ -2073,7 +2093,7 @@ _delicate balance_ 微妙的平衡
 		9. slushing
 		10. slusher
 			1. n. 烂泥；污水；水泥砂浆；胡说八道 vt. 溅湿；给…灌砂浆；给…上润滑油
-	13. sloven
+	14. sloven
 		1. n. 懒散的人；不修边幅的人
 		2. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
 		3. _n._ [vulgarian](dic://vulgarian)
