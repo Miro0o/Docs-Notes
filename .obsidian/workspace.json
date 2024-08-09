@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed347cde95b8d37e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
               }
             }
           },
@@ -223,14 +210,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed347cde95b8d37e",
+  "active": "745d785788a5960a",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Mission Management & Configuration/Mouse Configuration.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/SMS & MMS/SMS & MMS.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/UNIX Family/BSD Family/NetBSD/NetBSD.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
@@ -251,8 +240,6 @@
     "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Computer Storage & Database Systems.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/OS IO System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/OS Memory Management (Main Memory + Secondary Memory Resource).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Computer Memory & Storage.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Projects/seL4",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/JVM Instrument Set & Java Bytecode",

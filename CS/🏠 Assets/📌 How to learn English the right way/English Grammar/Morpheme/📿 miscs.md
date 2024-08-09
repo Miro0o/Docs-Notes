@@ -8510,6 +8510,34 @@ one
 	- atonement
 	- atonable
 
+ooze
+- n. 稀泥, 渗流, 分泌物  
+- v. 渗出, 泄漏 
+- 来自古英语 wase,软泥，泥沼，来自 Proto-Germanic*waison,来自 PIE*weis,黏滑，流出，词源同 virus,viscid,viscous.
+- [sludge](dic://sludge), [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck)
+-  [seepage](dic://seepage), [oozing](dic://oozing)
+- [seep](dic://seep)
+- [exude](dic://exude), [exudate](dic://exudate), [transude](dic://transude), [ooze out](dic://ooze out)
+- _n._ [substance](dic://substance), [matter](dic://matter), [flow](dic://flow), [flowing](dic://flowing)
+- _v._ [run](dic://run), [flow](dic://flow), [feed](dic://feed), [course](dic://course), [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate)
+- **gooey**感伤的;**goo**感伤;**dripping**滴下物;**slime**黏液;**drips**水滴;**bubbling**冒泡，鼓泡;**slimy**黏滑的;**spew**呕吐;**muck**垃圾;**puddle**水坑，泥潭;**spewing**压出,榨出,吐花,吐毛;
+- [ozone](dic://ozone)n. 臭氧；新鲜的空气
+- **siliceous ooze**:  硅质软泥；硅藻软泥 
+- **diatom ooze**:  硅藻软泥；硅藻泥
+- honey oozed out of the comb. /蜂蜜从蜜巢中慢慢流出。
+- Blood oozes from a wound /血从伤口渗出。
+- The house oozed with charm. /这座房子很奇特
+- Then, as he stepped forward, his foot sank into the ooze. /接着当他正向前行进时，突然一脚陷进烂泥中。
+- I love the confidence that oozes from this man. /我喜欢这个男人身上流露出来的自信。
+- Snail slime is a lubricating mucus the animals ooze as they slide along. /蜗牛粘液是蜗牛爬行时分泌的一种润滑粘液。
+- No harm done. Anyway, that looks like a weird one. What's that stuff oozing out the bottom? /没事。总之这个甜甜圈看起来很奇怪。从底下渗出来的是什么东西？
+- The digestive juice oozes out to decompose and consume the insects. /分泌出消化液，将猎物分解吸收。
+- Soon layer of oceanic **ooze** began to accumulate above the old hard layer. /很快，海洋软泥层开始在原先的硬地层上面堆积起来。
+- Give it some pink ooze and you got yourself a brand tie-in. /给它一些粉红色的酱料，你就有了自己的品牌搭配。
+- tan-ooze
+- oozy
+- 
+
 ordeal
 - _n._ [experience](dic://experience), [trial](dic://trial)
 - **harrowing**令人伤心的,令人痛苦的;**grueling**惩罚;**arduous**费力的;**endured**忍耐;**excruciating**极为疼痛的;**agonizing**使人极度痛苦的;**agony**极大的痛苦;**horrific**可怕的;**painful**疼痛的;**traumatic**痛苦的;**endure**忍耐;
