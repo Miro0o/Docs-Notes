@@ -22,8 +22,8 @@
 ↗ [GCC (The GNU Compiler Collection)](GCC%20(The%20GNU%20Compiler%20Collection)/GCC%20(The%20GNU%20Compiler%20Collection).md)
 - ↗ [gcc (GNU C Compiler)](GCC%20(The%20GNU%20Compiler%20Collection)/gcc%20(GNU%20C%20Compiler)/gcc%20(GNU%20C%20Compiler).md)
 
-↗ [JS Engines (JS Compilation)](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
-- ↗ [Google V8](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtimes/🚒%20JS%20Engines%20(JS%20Compilation)/Google%20V8/Google%20V8.md)
+↗ [JS Engines (JS Compilation)](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/🚒%20JS%20Engines%20(JS%20Compilation)/JS%20Engines%20(JS%20Compilation).md)
+- ↗ [Google V8](../🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/🚒%20JS%20Engines%20(JS%20Compilation)/Google%20V8/Google%20V8.md)
 
 ↗ [Java Runtimes (JRE & JDKs Tools)](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools).md)
 - ↗ [Java Compilers](../🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Compilers/Java%20Compilers.md)

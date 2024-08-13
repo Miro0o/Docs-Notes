@@ -17,6 +17,8 @@
 ↗ [Video Transmission (Streaming) & OTT](../../../../🏎️%20Computer%20Networking%20and%20Communication/Video%20Transmission%20(Streaming)%20&%20OTT/Video%20Transmission%20(Streaming)%20&%20OTT.md)
 ↗ [Video & Streaming Service](../../../../../Software%20Engineering/Computer%20Media%20Programming/Video%20&%20Streaming%20Service/Video%20&%20Streaming%20Service.md)
 
+↗ [QT](../../../Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP%20Frameworks/QT.md)
+
 
 
 ## Intro

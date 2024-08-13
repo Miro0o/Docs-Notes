@@ -4002,49 +4002,231 @@
 
 
 ### ⭐ mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."
-1. commissure
-2. dismiss
-	1. dismissive, dismissible, 
-	2. dismissal
-3. emissary
-	1. emission
-	2. emissive
-	3. eissivity,
-4. mission
-	1. missioner, missionize, missionary
-5. immission
-6. ==intermission, manumission, demission, remission, commission, omission, permission, pretermission, submission, transmission==
-	1. remiss
-		1.  [derelict](dic://derelict), [delinquent](dic://delinquent), [neglectful](dic://neglectful)
-		2. _adj._ [negligent](dic://negligent)
-		3. _n._ [diligent](dic://diligent)
-		4. **neglected**被忽视的;**mention**说起;**forgot**忘记;**forget**忘记;**sorely**疼痛地;**sadly**悲哀地;**compelled**强迫,迫使,强要;**overlook**俯瞰;**reiterate**反复地说,重申;**confess**承认;**retrospect**回顾，追溯;
-		5. remissible, irremissible
-			1. adj. 可宽恕的，可赦免的
-		6. remissive
-			1. adj. 宽恕的；减轻的; n. 宽恕；豁免;
-			2. _remissive stage_ 缓解期
-			3. _remissive rate_ 缓解率
-			4. _remissive release_ 缓释
-			5. _remissive treatment_ 缓解治疗
-			6. _charitable condonable remissive_ 宽恕的
-			7. _Remissive stage-reinforcing and acute stage-reducing_ 补缓泻急
-	2. omissive, omissible
-	3. premiss
-		1.  [premise](dic://premise), [assumption](dic://assumption)
-		2. _n._ [postulate](dic://postulate), [posit](dic://posit)
-		3. _v._ [presuppose](dic://presuppose), [suppose](dic://suppose)
-		4. **premise**引出，预先提出;**fallacy**谬论，谬误;**assumption**假定, 臆断;**axiom**公理;**argument**争吵;**predicate**断言;**conclusion**结尾;**assertion**主张,维护;**illogical**不合逻辑的;**implication**暗示;**proposition**论点;
-	4. permissible, permissive
-	5. submissive,
-	6. transmissive, transimissble, transmissible
-	7. pretermission
-		1. Specifying power and responsibility. power and responsibility confusion will make works repetition, **pretermission**, and buckpassing, which leads to make staff frustration
-7. ==admit, commit, demit, emit, intermit, intromit, manumit, omit, permit, pretermit, remit, submit, transmit, summit==
-	1. admissive, admissible
-	2. emitter, emittance, 
-	3. intermittent, intermittence
-	4. commissar
+1. mess (mass, amass)
+	1. n. 食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境  
+	2. vt. 将...弄糟, 妨碍, 使紊乱, 使就餐  
+	3. vi. 陷入困境, 搞乱, 用膳
+	4. mess - 该词是在13到14世纪时借自古法语mes，而mes又源于拉丁语missus，它们的原义分别为dish of food（一份食物）和course at a meal（一道菜）。《圣经》中有一句话：Esau sold his birthright for a mess of pottage（以扫为一碗红豆汤出卖长子继承权），其中mess就作“一份食物”一义解。15世纪时mess的词义逐渐引申为“集体用膳人员”、“伙食团”以及“食堂”等，这一用法在海陆军里一度十分普遍，到了19世纪又进而引申为“大杂烩”、“杂乱”、“凌乱状态”、“乱七八糟（的东西）”，这大概是从部队在野地里用餐后出现的凌乱状态或酒席后杯盘狼藉、残羹剩饭混杂一起的情景所引起的联想。食物词语的词义往往是这样演变的，如gallimaufry（残肴的杂烩，大杂烩），hodgepodge（蔬菜和肉的杂烩，大杂烩），baloney（肉的杂烩，大红肠），farrago（饲料的杂烩，大杂烩）等。
+	5. mess [mes] n.混乱；食堂，伙食团；困境；脏乱的东西，vt. 弄乱；毁坏；使就餐，vi.把事情弄糟；制造脏乱；玩弄。这个单词来自拉丁词根mitt-表示送、派遣的过去分词，意思本来指“送到桌子上的饭菜”，后来也指进餐（尤指军队）的地方。因为吃过饭后餐桌多一片狼藉，所以mess也就有了脏乱差的含义。
+	6.  [messiness](dic://messiness), [muss](dic://muss), [mussiness](dic://mussiness)
+	7. [fix](dic://fix), [hole](dic://hole), [jam](dic://jam), [muddle](dic://muddle), [pickle](dic://pickle), [kettle of fish](dic://kettle of fish)
+	8. [mess hall](dic://mess hall)
+	9. [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap), [lot](dic://lot), [mass](dic://mass), [mickle](dic://mickle), [mint](dic://mint), [muckle](dic://muckle), [peck](dic://peck), [pile](dic://pile), [plenty](dic://plenty), [pot](dic://pot), [quite a little](dic://quite a little), [raft](dic://raft), [sight](dic://sight), [slew](dic://slew), [spate](dic://spate), [stack](dic://stack), [tidy sum](dic://tidy sum), [wad](dic://wad), [whole lot](dic://whole lot), [whole slew](dic://whole slew)
+	10. [mess up](dic://mess up)
+	11. _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder), [difficulty](dic://difficulty), [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance)
+	12. _v._ [eat](dic://eat), [disorder](dic://disorder), [disarray](dic://disarray)\
+	13. [confusion](dic://confusion) 指东西搅混在一起，凌乱得难以辨认；也可指思想混乱，以致无法进行正常的思维活动。  
+	14. [disordr](dic://disordr) 正式用词，含义广泛。指事物因失去原有的秩序而造成混乱；也可指社会中的动乱或骚乱。  
+	15. [disturbance](dic://disturbance) 主要指社会中政治性的动乱、骚乱；也可指个人或少数人的闹事。  
+	16. [mess](dic://mess) 语气强，口语中较常用的非正式用词。指既混乱又肮脏，尤指人思想混乱或外表不整洁。  
+	17. [chaos](dic://chaos) 着重指令人无能为力或感到绝望的混乱状态。突出没有很好的组织。
+	18. **messy**肮脏的，污秽的;**muck**垃圾;**disarray**无秩序;**chaos**混沌，混乱;**tangled**纠缠的;**fiasco**惨败;**crap**废话;**tangle**混乱状态;**muddled**混乱的;**havoc**大破坏;**chaotic**混乱的，无秩序的;
+	19. _mess up_ 陷入困境；搞糟
+	20. _a mess of_ 一大堆…；把…弄糟
+	21. _in a mess_ 乱糟糟，一团糟
+	22. _mess with_ 同…一起用膳；胡乱摆弄；干扰；与…厮混在一起
+	23. _make a mess_ 制造混乱；搞成一团糟；[口]拉屎
+	24. _what a mess_ 真是一团糟
+	25. _made a mess of_ 把……搞得一团糟
+	26. _make a mess of_ 搞糟
+	27. _mess around_ 浪费时间；一片狼籍；弄混
+	28. _mess hall_ 食堂；餐厅
+	29. _clear up the mess_ ◎把弄乱的东西整理好;◎清理烂摊子 (指混乱局面);
+	30. _mess about_ 胡闹；瞎混；闲逛，浪费时间；粗鲁对待某人
+	31. messcook
+		1. n. 炊事兵
+	32. messboy
+		1. n. (船上的)食堂服务员
+	33. mess-up
+	34. messy
+3. message
+	1. miss-送出 + -age, 表名词 . 引申词义信息，消息。
+	2. 拉丁语 mittere,放置，送出，词源同 mission,emit.引申词义信息，消息。
+	3. messenger
+	4. messman
+	5. messmate
+		1. n. 同餐之友, 同餐桌的伙伴, 桉树
+		2. messmate ['mesmeɪt] n.同餐桌的伙伴；同餐之友；同膳伙伴，这个单词的逻辑含义也差不多。后半部分的-mate实际同meat肉，但是在最初泛指一切食物，而mess-这个部分来自词根mit-,mitt-,mis-,miss-表发送（放置），本意就是a putting (on a table, etc.)，指的就是（放在）桌子上的一些食物。
+	6. messtin 
+5. missile
+	1. miss-送 + -ile → 送出去的 → 导弹。
+	2. - 来自拉丁语 mittere,送出，发射，词源同 emit,commit,-ss,过去分词后缀。引申词义发射物，导弹。
+	3. missilery, missileman,
+	4. contra-missile
+6. mission
+	1. n. 任务, 代表团, 使命, 传教团  
+	2. vt. 派遣, 向...传教
+	3.  _n._ 使命；天职
+	4. （极其艰巨且需长时间才能完成的）任务，旅行
+	5. 外交使团，代表团，传教团；外交使团（或代表团）驻所，传教团驻地
+	6. 军事行动；太空飞行任务
+	7. _v._【非正式】作艰苦的长途旅行（尤指去许多地方）
+	8. mission（使命）：基督教耶稣会派遣传道士四处传播福音  
+	9. 16世纪时，随着美洲新大陆的发现和殖民活动，欧洲基督教的耶稣会大规模派遣传教士，漂洋过海到世界各地传播福音、建立基督教会和学校。耶稣会将这种派遣活动以及派出去的团队称为mission，它来自拉丁语missionem，是动词mittere的过去分词的名词形式，字面意思是“派遣”。因为这种派遣活动的目的是完成传播福音的使命，所以mission逐渐衍生出“使命”的含义。用来表示团队时，除了表示传教团队外，还可以表示其他各种去远处执行使命的团队，如外交团队、参加比赛或会议的代表团等。另外，接受mission的传教士自然就被称为missionary。  
+	10. mission：['mɪʃən] n.使命，任务，代表团，传教vt.派遣，向……传教
+	11. [missionary post](dic://missionary post), [missionary station](dic://missionary station), [foreign mission](dic://foreign mission)
+	12. [military mission](dic://military mission)
+	13. [charge](dic://charge), [commission](dic://commission)
+	14. [missionary work](dic://missionary work)
+	15.  [deputation](dic://deputation), [commission](dic://commission), [delegation](dic://delegation), [delegacy](dic://delegacy)
+	16. _n._ [nongovernmental organization](dic://nongovernmental organization), [NGO](dic://NGO), [operation](dic://operation), [military operation](dic://military operation), [assignment](dic://assignment), [duty assignment](dic://duty assignment), [work](dic://work)
+	17. **quest**追求;**missionary**传教士;**purpose**目的;**goal**目标;**objective**目标;**outreach**超越，伸出;**fulfill**履行;**expedition**远征;**accomplish**完成;**vision**视力;**ministry**部门;
+	18. _mission statement_ 宗旨
+	19. _space mission_ 太空任务；航天任务
+	20. _mission impossible_ 不可能的任务，棘手的任务
+	21. _rescue mission_ 营救任务，救助任务；抢险救援任务
+	22. _mission control_ 太空航行地面指挥中心
+	23. _diplomatic mission_ 使馆；外交使团
+	24. _mission critical_ 关键任务
+	25. _trade mission_ 贸易代表团；贸易访问团
+	26. _mission in life_ 天职
+	27. _business mission_ 经营使命，出差；企业代表团
+	28. _military mission_ 军事任务
+	29. _mission accomplished_ 任务完成
+	30. _mission school_ n. 教会学校
+	31. _fact-finding mission_ 情况考察；真相调查团；实况调查组
+	32. missionary：['mɪʃənɛri] adj. 传教的；传教士的n. 传教士
+	33. missioner
+	34. missionize
+	35. missionary
+7. immission
+	1. n. <古>注入, 引入
+	2. States vary in the way that provides the content, which are quite useful to perfect our **Immission** system /各国以不尽相同的方式对这一内容进行了规定，对我国的不可量物侵害制度的完善有着相当的借鉴意义。
+8. dismiss
+	1. dis-,分开，散开，miss,送出。即送走，引申词义摈弃。
+	2. v. 消除, 摒弃, 对...不屑一顾; 解雇, 开除; 驳回, 不受理; 出局
+	3. [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
+	4. [throw out](dic://throw out)
+	5. [send packing](dic://send packing), [send away](dic://send away), [drop](dic://drop)
+	6.  [fire](dic://fire), [give notice](dic://give notice), [can](dic://can), [give the axe](dic://give the axe), [send away](dic://send away), [sack](dic://sack), [force out](dic://force out), [give the sack](dic://give the sack),
+	7.  [usher out](dic://usher out)
+	8. [dissolve](dic://dissolve)
+	9. _v._ [reject](dic://reject), [fire](dic://fire), [give notice](dic://give notice), [can](dic://can), [give the axe](dic://give the axe), [send away](dic://send away), [sack](dic://sack)
+	10. [discharge](dic://discharge) 语气较重，指有理由的解雇，含几乎不再复用的意味。 
+	11. [dismiss](dic://dismiss) 正式用词，是这组词中语气最轻的一个词，一般只有从上文才能看解雇的原因或理由。  
+	12. [fire](dic://fire) 口语用词，多指被断然地突然解雇，其行动犹如开枪一样干净利落。
+	13. **ignore**驳回诉讼，忽视，不理睬;**reject**拒绝;**deny**否定，否认;**refute**反驳，驳斥;**dismissal**解雇, 免职, 开除;**dismissive**轻视的, 轻蔑的, 鄙视的;**argue**争论，辩论;**reconsider**重新考虑;**criticize**评论, 批评;**discredit**败坏…的名声;**affirm**断言;
+	14. _dismiss from_ 解雇；开除
+	15. dismissive, dismissible, 
+	16. dismissal
+9. admit
+	1. v. （勉强）承认；招认，招供；准许进入（某处）；接纳，接收（入学）；收治，接收入院；承认……有效；容许，为……留有余地
+	2. [acknowledge](dic://acknowledge)
+	3. [allow in](dic://allow in), [let in](dic://let in), [intromit](dic://intromit)
+	4.  [let in](dic://let in), [include](dic://include)
+	5. [accept](dic://accept), [take](dic://take), [take on](dic://take on)
+	6. [allow](dic://allow)
+	7. [accommodate](dic://accommodate), [hold](dic://hold)
+	8. _v._ [declare](dic://declare), [adjudge](dic://adjudge), [hold](dic://hold), [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+	9. _n._ [deny](dic://deny), [reject](dic://reject), [turn down](dic://turn down), [turn away](dic://turn away), [refuse](dic://refuse), [exclude](dic://exclude), [keep out](dic://keep out)
+	10. [accept](dic://accept) 强调主动地或自愿地接受，或者说，经过考虑后同意接受。  
+	11. [receive](dic://receive) 着重仅仅接到或收到这一支轮船或事实，而不含采取主动或积极行动的意思。  
+	12. [admit](dic://admit) 作“接受”讲时，强调准许或批准。  
+	13. [take](dic://take) 与receive同意，是receive的日常用法，侧重不带主观意愿地收下或接受
+	14. **confess**承认;**concede**承认;**honestly**公正地;**say**讲;**ashamed**惭愧的，感到难为情的;**loathe**讨厌，厌恶;**think**想;**embarrassed**尴尬的;**acknowledge**承认;**convinced**确信的;**though**可是，虽然
+	15. _admit of_ 容许，有…的可能
+	16. admissive
+	17. admissible
+	18. readmit
+	19. admitted
+		1. unadmitted
+		2. admittedly
+	20. admittance
+	21. admittable
+	22. admission
+		1. readmission
+10. commit
+	1. uncommitted
+		1. _adj._ 不受(某政策、做法、团体等)约束的;未做承诺的
+		2. 未遂的
+		3. 未被监禁的
+		4. _[uncommitted convention](dic://uncommitted%20convention)_ 不受约束的合约
+		5. _[uncommitted orders](dic://uncommitted%20orders)_ 未承诺的订单
+		6. _[Uncommitted surplus](dic://Uncommitted%20surplus)_ 未支配盈馀; 未定用途的盈余; 
+		7. _[uncommitted balance](dic://uncommitted%20balance)_ 未定用途的结余款项
+		8. _[uncommitted reserves](dic://uncommitted%20reserves)_ 未支配的准备金
+		9. _[Uncommitted robbery](dic://Uncommitted%20robbery)_ 抢劫未遂
+		10. _[uncommitted reserve](dic://uncommitted%20reserve)_ 未决定用途的准备金；翻译
+		11. _[uncommitted assets](dic://uncommitted%20assets)_ 自有资产
+		12. _[uncommitted category](dic://uncommitted%20category)_ 未承担类别
+		13. an uncommitted delegate. /不承担义务的代表
+		14. the quartet playing was uncommitted and flabby. /这个四重奏演奏得既不投入，又无力度。
+		15. the heresy of being uncommitted to the right political dogma. /不接受正确的政治信条的异端邪说。
+		16. Donald Trump got 18 of them, Ted Cruz got 18, Marco Rubio got five, and five were uncommitted. /唐纳德·特朗普有18人, 泰德·克鲁兹18人, 卢比奥5人, 另外5人仍未做出选择。
+		17. Nationally, Arab and Muslim Americans are not a significant voting block, but the size of the uncommitted vote in Michigan will signal how strongly Americans reject Biden's Gaza policies, as they represent other groups in the president's Coalition. /在全国范围内，阿拉伯和穆斯林美国人并不是一个重要的投票群体，但密歇根州未表态投票的规模将表明，美国人对拜登的加沙政策有多么强烈的反对，因为他们代表总统联盟中的其他团体。
+		18. The unrooted man is the unremembered man, because he's uncommitted to things. /无根之人注定会被遗忘，因为他从不会做出承诺。
+	2. recommit
+		1. recommittal
+			1. n. 再犯；再次向委员会提交（例如提议的立法）
+		2. recommitment
+	3. noncommittal
+	4. noncommitment
+	5. committee
+		1. n. 委员会；<英>受托人，监护人；<美>精神病者监护人
+		2. _n._ [administrative unit](dic://administrative unit), [administrative body](dic://administrative body), [nongovernmental organization](dic://nongovernmental organization), [NGO](dic://NGO)
+		3. [committee](dic://committee) 既用作普通名词，也用作集体名词，指通过选举或其它方式而成立的一般委员会。  
+		4. [commission](dic://commission) 指为了某项任务专门成立的委员会。
+		5. **subcommittee**小组委员会;**chairman**主席，会长;**chairperson**主席;**council**理事会;**chaired**就任要职;**commission**授权, 委托;**senate**参议院，上院;**delegation**代表团;**meeting**会议;**trustees**受托人，受托者;**advisory**顾问的;
+		6. _party committee_ 党委
+		7. _standing committee_ 常务委员会
+		8. _central committee_ 中央委员会
+		9. _organizing committee_ 组织委员会
+		10. _olympic committee_ 奥委会；奥林匹克运动委员会
+		11. accept the committee's report /接受委员会的报告
+		12. Well, there is——there, is no refreshment committee. /没有什么点心委员会啊。
+		13. Is it the admissions committee slitting their wrists? /是招生办的老师割腕了吗？
+		14. subcommittee
+		15. committeeman
+	6. committed
+		1. _adj._ [bound up](dic://bound up), [wrapped up](dic://wrapped up), [pledged](dic://pledged), [sworn](dic://sworn), [affianced](dic://affianced), [bespoken](dic://bespoken), [betrothed](dic://betrothed)
+		2. _n._ [uncommitted](dic://uncommitted)
+		3. **commitment**承诺;**dedicated**专注的;**engaged**使用中的，忙碌的;**pledged**保证;**responsible**有责任的;**motivated**有积极性的;**passionate**热情的;**devoted**献身的;**actively**积极地;**accused**被告;**professed**公开声称的,伪称的,已立誓信教的;
+		4. _committed suicide_ 自杀死亡
+	7. committal
+		1. _n._ [confinement](dic://confinement), [crime](dic://crime), [law-breaking](dic://law-breaking)
+		2. **burial**埋葬;**proceedings**诉讼，诉讼程序;**inquest**审讯;**funeral**葬礼;**cremation**火化;
+		3. _[committal](dic://committal)_  n. 收监，拘禁；下葬，火化
+		4. _[committal proceedings](dic://committal%20proceedings)_  拘押进程
+		5. his committal to prison. /他的入狱。
+		6. articulated her strong committal to world peace. /明确表达她对世界和平的强烈支持s
+		7. her tone was non-committal, and her face gave nothing away. /她的语气不明朗，脸上也没表露出什么。
+		8. At 4: 00 PM, it will enter St. George's Chapel for a final committal service. /下午 4 点，它将进入圣乔治教堂进行最后的送葬仪式
+		9. He was released on bail pending **committal** proceedings. /他交保获释正在候审。
+	8. committable
+	9. commitment
+		1. _n._ [seriousness](dic://seriousness), [earnestness](dic://earnestness), [serious-mindedness](dic://serious-mindedness), [sincerity](dic://sincerity), [cooperation](dic://cooperation), [engagement](dic://engagement), [participation](dic://participation)
+		2. **dedication**奉献,献身;**unwavering**不动摇的,坚定的;**pledge**发誓;**devotion**热爱;**willingness**自愿;**pledging**抵押;**committed**忠诚的,坚定的;**excellence**优秀;**sincerity**真实, 诚挚;**loyalty**忠心;**steadfast**坚定的;
+		3. the company's commitment to quality /这家公司对于质量的注重。
+		4. a commitment to bear down on inflation. /严肃对待通货膨胀的承诺。
+		5. Participating doesn't necessarily involve a huge time commitment. /参加并不一定意味着要投入很多时间
+		6. Everyone's agreed to substantially up their commitment. /每位与会者都同意大幅提升支出。
+		7. I have to commend your commitment to your health. /我得表扬一下你对于健康的追求。
+		8. Will the president be able to hold to this **commitment**? /总统能恪守这一承诺吗？
+	10. commission
+		1. _n._ [administrative unit](dic://administrative unit), [administrative body](dic://administrative body), [fee](dic://fee), [authorization](dic://authorization), [authorisation](dic://authorisation), [empowerment](dic://empowerment), [operation](dic://operation)
+		2. _v._ [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out), [outfit](dic://outfit), [order](dic://order), [authorize](dic://authorize), [authorise](dic://authorise)
+		3. [committee](dic://committee) 既用作普通名词，也用作集体名词，指通过选举或其它方式而成立的一般委员会。  
+		4. [commission](dic://commission) 指为了某项任务专门成立的委员会。
+		5. **committee**委员会;**council**理事会;**commissioner**专员, 长官;**subcommittee**小组委员会;**tribunal**法庭;**affiliate**附属，隶属;**agency**代理，中介;**inspector**检查员,督查;
+		6. _arbitration commission_ [经]仲裁委员会
+		7. _on commission_ 抽取佣金；受托代销；被授权
+		8. _european commission_ 欧洲委员会
+		9. _planning commission_ 计划委员会；规划委员会
+		10. _military commission_ 特别军事法庭
+		11. _china banking regulatory commission_ 中国银行业监督管理委员会
+		12. the commission of a crime. /犯罪
+		13. a commission for discipline inspection /纪律检查委员会
+		14. subcommission
+			1. subcommissioner
+		15. noncommissioned
+		16. decommission
+			1. decommissioning
+		17. commissioning
+		18. commissioner
+			1. commissionership
+		19. commissioned
+		20. commissionaire
+	11. commissar
 		1. _n._ [administrator](dic://administrator), [executive](dic://executive), [member](dic://member)
 		2. **superintendent**监管人;**mayor**市长;**deputy**代理人，代表;**secretary**部长;**inspector**检查员,督查;**treasurer**司库,财务主管;**magistrate**地方法官, 治安官;**chairman**主席，会长;**officer**军官，警官;**chief**酋长;**chairperson**主席;
 		3. _high commissioner_ n. 高级专员
@@ -4067,11 +4249,254 @@
 			4. _[commissariat logistics](dic://commissariat%20logistics)_ 粮食物流
 			5. _[commissariat de police](dic://commissariat%20de%20police)_ 警察局
 		8. commissarial
-	6. transmittal
-8. promise
-	1. promissory, promisor
-9. compromise
-10. premise
+	12. commissure
+		1. n. 接合处；合缝处
+		2. _n._ [nerve pathway](dic://nerve pathway), [tract](dic://tract), [nerve tract](dic://nerve tract), [pathway](dic://pathway)
+		3. **anterior**前面的;**medial**中间的;**ventral**腹部的;**dorsal**背的，背侧的;**cortex**皮质;**apical**顶上的, 顶点的;**cortical**皮质的;**suture**缝合;**posterior**(在时间;**distal**末梢的，末端的;**lobes**耳垂;
+11. demit
+	1. vt. 辞职；开除
+	2. vi. 辞职
+	3. demission
+		1. n. 放弃, 辞职
+		2. de- + miss-送 + -ion
+		3. I helped the school publish three issues and generated contents for two more issues after **demission**. /我帮助学校出版了三期刊物，并且在离职后持续为两期刊物提供了稿件。
+		4. The high **demission** rate for this year's graduates is not only influenced by general factors of **demission**, but also influenced by specific factors./应届大学毕业生的高离职率问题不仅仅受员工离职普遍因素的影响，也受诸多特殊因素的影响。
+12. emit
+	1. emitter, emittance
+	2. emissary
+	3. emission
+	4. emissive
+	5. eissivity
+13. intermit (interment)
+	1. [pause](dic://pause), [break](dic://break)
+	2. _v._ [interrupt](dic://interrupt), [disrupt](dic://disrupt), [break up](dic://break up), [cut off](dic://cut off)
+	3. **commence**开始;**intermittently**间歇
+	4. he was urged to intermit his application. /大家劝他休息一下，不要一味用功。
+	5. intermit one's efforts /暂停努力
+	6. Place servers at different site to avoid **intermit** of serve and the lost data when the suddenness had token place. /将不同服务器放置在不同地点，避免发生意外时服务完全中断、重要数据丢失。
+	7. The bell doth toll for him, that thinks it doth; and though it **intermit** again, yet from that minute, that that occasion wrought upon him, he is united to God /钟声为所有觉得这是为他而鸣的人响起，虽然钟声会中断，但就从它触及那人心灵的那一刻起，此人和天主即结合一体。
+	8. intermittent, intermittence
+	9. intermission
+14. intromit
+	1. [admit](dic://admit), [allow in](dic://allow in), [let in](dic://let in)
+	2. _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+	3. Methods 34 cases who need to **intromit** stomachic draft tube were randomly divided into two groups according to normal method and improved method. /方法对34例口腔颌面部肿瘤切除术后需插胃管的患儿按常规法和改进法随机分为两组。
+15. manumit
+	1. [emancipate](dic://emancipate)
+	2. _v._ [liberate](dic://liberate), [set free](dic://set free)
+	3. **slave**奴隶;**emancipation**解放;**Slaves**斯拉夫人;**slavery**奴役;**servitude**奴隶状态;
+	4. _[detain manumit](dic://detain%20manumit)_ 拘留 
+	6. manumission
+		1. _[manumission](dic://manumission)_  n. （农奴，奴隶的）解放
+		2. _n._ [liberation](dic://liberation), [release](dic://release), [freeing](dic://freeing)
+		3. **emancipation**解放;**slavery**奴役;**slave**奴隶;**servitude**奴隶状态;**abolition**废除;**Slaves**斯拉夫人;**secession**脱离;**deed**行动;
+		4. A bunch of revolutionary manumission abolitionists, give me a position, show me where the ammunition is /一群革命废奴主义者，给我一个位置， 告诉我弹药在哪里！
+16. omit
+	1. vt. 省略, 删除, 疏忽, 遗漏
+	2. 来自拉丁语 omittere,松开，放走，来自 ob-,向前，朝向，mittere,送走，使离开，词源同mission,emit.后引申词义省略，删除。
+	3. [exclude](dic://exclude), [except](dic://except), [leave out](dic://leave out), [leave off](dic://leave off), [take out](dic://take out)
+	4. [neglect](dic://neglect), [pretermit](dic://pretermit), [drop](dic://drop), [miss](dic://miss), [leave out](dic://leave out), [overlook](dic://overlook), [overleap](dic://overleap)
+	5. _v._ [eliminate](dic://eliminate), [get rid of](dic://get rid of), [do away with](dic://do away with)
+	6. **skip**跳绳;**add**加;**substituting**取代;**exclude**排除;**ignore**驳回诉讼，忽视，不理睬;**forgo**放弃;**specify**指定;**remove**移开;**superfluous**过多的;**mention**说起;**footnote**脚注;
+	7. In writing telegrams omit superfluous words /写电报稿要省去不必要的文字。
+	8. omit an item from a list /从目录中略去一项
+	9. Please don't omit to lock the door when you leave. /离开时不要忘了锁门。
+	10. Mass media has omitted the fact that Braddock is predominantly black. /大量媒体忽略了布拉多克的居民 以黑人为主的事实。
+	11. **Omit** dull and ineffective generalities and make sure you give concrete examples /避免枯燥、无效的空谈，并确保你给出了具体的例子。
+	12. If you are a student, you can **omit** questions 16–18. /学生可以免做16–18题。
+	13. omission
+		1. [skip](dic://skip)
+		2. [deletion](dic://deletion)
+		3. _n._ [mistake](dic://mistake), [error](dic://error), [fault](dic://fault), [neglect](dic://neglect), [disuse](dic://disuse), [linguistic process](dic://linguistic process), [disregard](dic://disregard)
+		4. **misrepresentation**不实的陈述;**inaccuracy**不准确,误差;**inconsistency**矛盾;**mistake**错误;**implication**暗示;**unintentional**不是故意的,无心的,无意识的;**blunder**的错误;**deliberate**深思熟虑的;**omitted**省略了的;**intentional**存心的;**typo**排印错误;
+		5. The omission of the girls was unfair. /把女孩排除在外是不公平的。
+		6. there is a glaring omission in the above data. /以上数据有一处明显的遗漏。
+		7. The omission of your name from the list will be rectified. /名单对您名字的遗漏会被纠正过来。
+		8. We also have a lesion, which is the omission of one or more sounds. /省音，就是有一两个音不发出来。
+		9. That is the biggest omission from this phone compared to the XS. /s与 XS 相比，这是这款手机最大的遗漏。
+		10. The committee admits it committed an omission in commissioning the mission. /委员会允许在试运转这个任务期间犯一个遗漏（的错误）。
+		11. Because I'm tired of hiding and tired of lying by omission /因为我厌倦了躲藏，我厌倦了用回避而撒谎。
+	14. omissive, omissible
+17. permit
+	1. n. 许可证, 许可, 执照, 通行证  
+	2. vt. 允许, 容许, 可能, 使放手做  
+	3. vi. 容许, 给以机会, 提供可能
+	4. per-始终 + mit-送 → 始终放出来 → 许可。
+	5. permission
+	6. permissible, permissive
+18. pretermit
+	1. preter-超过 + mit-送
+	2. vt. 对...置之不问, 忽略, 中断
+	3. _v._ [neglect](dic://neglect), [ignore](dic://ignore), [disregard](dic://disregard)
+	4. **petitioner**请愿人;**ordinarily**平常地,普普通通地;**necessitate**使…成为必要, 需要;**likewise**也;
+	5. pretermission
+		1. Specifying power and responsibility. power and responsibility confusion will make works repetition, **pretermission**, and buckpassing, which leads to make staff frustration
+19. premiss
+	3.  [premise](dic://premise), [assumption](dic://assumption)
+	4. _n._ [postulate](dic://postulate), [posit](dic://posit)
+	5. _v._ [presuppose](dic://presuppose), [suppose](dic://suppose)
+	6. **premise**引出，预先提出;**fallacy**谬论，谬误;**assumption**假定, 臆断;**axiom**公理;**argument**争吵;**predicate**断言;**conclusion**结尾;**assertion**主张,维护;**illogical**不合逻辑的;**implication**暗示;**proposition**论点;
+20. remit
+	1. n. <英，非正式> 职权范围；提交审议的事项 
+	2. v. <正式>汇款；<法律>将（案件）发回原审判法庭（重审）；免除（债务、处罚等）；将……提交（权力部门处理）；<法律>将（某人）转到另一法院审判（或听证）；<罕>推迟；<古>使恢复原状；<古>减少
+	3. [remission](dic://remission), [remitment](dic://remitment)
+	4.  [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [put off](dic://put off)
+	5.  [remand](dic://remand), [send back](dic://send back)
+	6.  [slacken](dic://slacken)
+	7. _n._ [referral](dic://referral)
+	8. _v._ [pay](dic://pay), [delay](dic://delay), [cancel](dic://cancel), [strike down](dic://strike down), [challenge](dic://challenge), [forgive](dic://forgive), [loosen](dic://loosen)
+	9. **purview**范围，权限;**scope**视野;**statutory**法定的;**fulfil**履行;**broaden**变宽，加宽;**organisation**组织;**mandate**命令;
+	10. _remit money_ 划拨款项
+	11. remit money in the post /由邮局汇钱
+	12. remit goods by railway /用火车寄运货物
+	13. I hope you will remit me the desks in time /我希望你能及时把那批桌子发给我。
+	14. phobias may remit spontaneously without any treatment. /恐惧症有可能不治疗就自然而然地减轻。
+	15. the movers refused Mr Tierney's request to remit the motion /提议者们拒绝了蒂尔尼先生关于推迟动议的请求。
+	16. The client uses cash remit money, not obligate has address and connection telephone call, because remit hind is other reason by reexchange, how should handle? /客户用现金汇款，未预留有地址和联系电话，汇出后由于其他原因被退汇，应该怎样处理？
+	17. The character: Is it remitting or relapsing? /有所减轻还是反复发作？
+	18. I was commenting on a matter that does fall within the remit of the chair. /我所评论的事件确实在发言人的职权范围之内。
+	19. Minister, this new remit gives you more influence, more Cabinet seniority. /大臣，这项新职权给了您更大影响力和内阁资历。
+	20. Yes, ma'am. How much would you like to remit? You need to send pounds sterling, ma'am. Do you have them? /可以，太太。您想汇多少钱？您得汇英镑，太太。您带来了吗？
+	21. remission (recession)
+		1. n. 缓解；宽恕；豁免
+		2. _n._ [suspension](dic://suspension), [respite](dic://respite), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement), [payment](dic://payment), [referral](dic://referral)
+		3. **relapse**再度堕落;**recurrence**复发;**leukemia**白血病;**lymphoma**淋巴瘤;**chemotherapy**化学疗法;**colitis**结肠炎;**cancer**癌症;**diagnosis**诊断;**psoriasis**牛皮癣,银屑癣;**incurable**不能医治的;**treatment**处理;
+		4. This is his second remission from his illness. /这是他的病情第二次得到缓解。 
+		5. the scheme allows for the partial remission of tuition fees. /这个方案准许部分减免学费。
+		6. I submit his disease's remission was less miracle and more professional courtesy /我认为他的病情缓解更可能是医生敬业而不是某种奇迹。
+		7. And I'm in remission from being lame. /而我还在缓解我的懒惰。
+		8. This was after you gave him a complete remission diagnosis /这是在你给出他已彻底康复的诊断之后。
+		9. New businesses may qualify for tax **remission** /新的企业可以有资格享受税收减免。
+	22. remissible, irremissible
+		1. adj. 可宽恕的，可赦免的
+	23. remissive
+		1. adj. 宽恕的；减轻的; n. 宽恕；豁免;
+		2. charitable condonable remissive 宽恕的
+		3. _remissive stage_ 缓解期
+		4. _remissive rate_ 缓解率
+		5. _remissive release_ 缓释
+		6. _remissive treatment_ 缓解治疗
+		7. _Remissive stage-reinforcing and acute stage-reducing_ 补缓泻急
+		8. Methods 80 patients with the **remissive** state of illness were inquired by using a self designed questionnaire. /方法采用自行设计的问卷，对住院、病情缓解的80例患者进行调查。
+21. remiss
+	1. a. 怠慢的, 不小心的, 没精打采的, 疏忽的
+	2. 来自拉丁语 remittere,松开，松懈，减轻，送走，来自 re-,向后，往回，mittere,送出，送走，词源同 emit,remit.-ss,过去分词格。引申词义疏忽的，懈怠的。
+	3. [derelict](dic://derelict), [delinquent](dic://delinquent), [neglectful](dic://neglectful)
+	4. _adj._ [negligent](dic://negligent)
+	5. _n._ [diligent](dic://diligent)
+	6. **neglected**被忽视的;**mention**说起;**forgot**忘记;**forget**忘记;**sorely**疼痛地;**sadly**悲哀地;**compelled**强迫,迫使,强要;**overlook**俯瞰;**reiterate**反复地说,重申;**confess**承认;**retrospect**回顾，追溯;
+	7. _[be remiss of](dic://be%20remiss%20of)_  粗心；疏忽；不负责任 
+	8. It was remiss of him to forget her birthday. /他竟忘了她的生日，实在是糊涂。
+	9. the Home Office has been remiss about security devices. /内政部对于安全设备问题一直不在意。
+	10. It would have been remiss not to admire them. /不去欣赏它们简直就是一种怠慢。
+	11. Indeed, given the crises the church faces, delicacy might seem remiss. /但事实是，鉴于教会目前面临的危机，精细也许就是怠慢。
+	12. And I would be especially remiss if I didn't discharge right now one personal debt of gratitude. /如果我不先向你们表达我的感激之情，我就太过轻慢了。
+	13. I think would be remiss not to say to look at currencies as well. /我认为不说也看货币是失职的。
+	14. It was **remiss** of them not to inform us of these changes sooner. /他们粗心大意，没有早一些通知我们这些变化。
+22. submit
+	1. submission
+	2. submissive
+23. transmit
+	1. transmittal
+	2. transmission
+	3. transmissive, transimissble, transmissible
+24. summit
+	1. summ-总和 + it表名词 → 山的顶峰像数量总和 → 一样 → 最高数量 → 最高峰。
+	2. [acme](dic://acme), [height](dic://height), [elevation](dic://elevation), [peak](dic://peak), [pinnacle](dic://pinnacle), [superlative](dic://superlative), [meridian](dic://meridian), [tiptop](dic://tiptop), [top](dic://top)
+	3. [peak](dic://peak), [crown](dic://crown), [crest](dic://crest), [top](dic://top), [tip](dic://tip)
+	4. [summit meeting](dic://summit meeting)
+	5. _n._ [degree](dic://degree), [level](dic://level), [stage](dic://stage), [point](dic://point), [topographic point](dic://topographic point), [place](dic://place), [spot](dic://spot)
+	6. _v._ [reach](dic://reach), [make](dic://make), [attain](dic://attain), [hit](dic://hit), [arrive at](dic://arrive at), [gain](dic://gain)
+	7. **ascent**上升;**mountain**山脉;**ridge**山脉;**trailhead**小道的起点;**climb**攀登;**conference**会议;**hike**远足;**Everest**珠穆朗玛峰;**climbers**脚扣;**plateau**高原;**meeting**会议;
+	8. _summit conference_ 高峰会议；首脑会议
+	9. a summit of francophone countries /法语国家的峰会。
+	10. the summit might generate unrealizable public expectations. /首脑会谈可能引起人们过高的期望。
+	11. a summit meeting full of drama /充满戏剧性的首脑会晤
+	12. Posing as a bold outrider, as he did at the summit, may yet help /他在峰会上摆出勇敢的先驱者的姿态或许会对塑造这样的形象有所帮助。
+	13. The craftsmen inlaid clouds to mark the summits. /工匠们在其中雕刻嵌入了云朵以凸显出山峰
+	14. summitry
+25. demise
+	1. [美 /dɪ'maɪz/](cmd://Speak/_us_/demise)
+	2. n. 死亡; 终止, 失败 
+	3. vt. 正式放弃, 转让
+	4. n. 倒闭，败落；死亡，逝世；（律）（财产或所有权的）转让，遗赠 
+	5. v. （律）遗赠，转让（产业）；正式放弃，禅让（最高统治者的头衔）
+	6. de-分开 + mis-送 + -e → 分开送 → 遗赠。
+	7. de-,向下，离开，-mis,送出，词源同 mission.委婉语。
+	8. [death](dic://death), [dying](dic://dying) 
+	9. _n._ [end](dic://end), [ending](dic://ending)
+	10. **downfall**垮台;**untimely**不合时宜的;**death**死;**disintegration**瓦解;**eventual**最后的，结果的;**fate**命运;**collapse**倒塌;**inevitable**不可避免的, 必然发生的;**disappearance**消失;**ill-fated**走恶运的,注定要遭受罚的;**impending**即将发生的;
+	11. the demise of industry. /工业的消亡。
+	12. the demise of the streetcar /电车的消失
+	13. the demise of the French monarchy /法国帝制的告终
+	14. The war brought about the industry’s sudden demise. /战争道致这个行业就这么突然垮了。
+	15. He praised the union’s aims but predicted its early demise. /他赞扬协会的目标，但预期这一协会很快会消亡。
+	16. Upon his demise the duke's house and other properties passed to his son. /公爵故世后,房子和其它财产便传给了儿子。
+	17. Others will be frankly relieved at the GOCO's demise. /其他人对GOCO的失败表现的很轻松。
+	18. The ritual of bullfighting has changed little since Joselito's demise. /自何塞利托去世后，斗牛的传统几乎没有改变。
+	19. demisable
+26. promise
+	1. pro-前面 + mis-送 + -e → 在做事前送出的话 → 允诺。
+	2. 来自古法语 promesse,承诺，保证，来自拉丁语 promissum,承诺，来自 pro-,向前，-miss,送出，词源同 mission,emit.
+	3. v. 承诺，保证；使很可能，预示；指望，期待（promise oneself）；<古>把（某人，尤指女人）许配给；有指望，有前途 
+	4. n. 承诺，诺言；前途，指望；迹象，预示
+	5. [hope](dic://hope)
+	6.  [assure](dic://assure)
+	7.  [predict](dic://predict), [foretell](dic://foretell), [prognosticate](dic://prognosticate), [call](dic://call), [forebode](dic://forebode), [anticipate](dic://anticipate)
+	8. _n._ [speech act](dic://speech act), [commitment](dic://commitment), [dedication](dic://dedication), [expectation](dic://expectation), [outlook](dic://outlook), [prospect](dic://prospect)
+	9. _v._ [declare](dic://declare), [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend), [hazard](dic://hazard), [be](dic://be)
+	10. [ensure](dic://ensure) 侧重使人相信某个行为或力量产生的结果。  
+	11. [insure](dic://insure) 常与ensure换用，但前者多指经济方面的保证、保险。  
+	12. [assure](dic://assure) 侧重指消除某人思想上的怀疑或担心，从而有达到目的的保证感，但不如ensure普通。  
+	13. [guarantee](dic://guarantee) 指对事物的品质或人的行为及履行义务、义务等承担责任的保证。  
+	14. [pledge](dic://pledge) 正式用词，指通过郑重许诺、协议或立誓等保证承担某一义务或遵守某一原则。  
+	15. [promise](dic://promise) 侧重表自己的主观意向，设法用语言使人感到稳当可靠。
+	16. **vow**发誓;**guarantee**保证;**pledge**发誓;**hopes**希望;**hope**希望;**deliver**发表;**commitment**承诺;**assure**保证;**fulfilled**满足的;**fulfill**履行;**give**给;
+	17. _show promise_ 有成功的希望
+	18. _make a promise_ 允许；允诺
+	19. _great promise_ 前程远大；大有前途
+	20. _on a promise_ [英国英语]等待(消息、礼物等)
+	21. promising
+		1. _adj._ [likely](dic://likely), [auspicious](dic://auspicious)
+		2. _n._ [unlikely](dic://unlikely), [inauspicious](dic://inauspicious), [unfortunate](dic://unfortunate)
+		3. **hopeful**有希望的;**enticing**迷人的;**touted**被吹捧的;**intriguing**引起好奇心的;**hoping**希望;**exciting**使人激动的;**tantalizing**逗人的，惹弄人的，撩人的，煽情的;**ambitious**有抱负的, 雄心勃勃的;**potential**潜在的, 有可能的;**prospects**希望;**unlikely**不太可能的;
+		4. _promising future_ n. 发展前景；光明的前途
+		5. _promising market_ 发展潜力大的市场；有销路的市场
+		6. a nationwide pool of promising high-school students. /全国有前途的中学生资源。
+		7. followed a promising lead in the murder case. /在这桩谋杀案中根据一项可靠的线索
+		8. We have found a promising iron deposit /我们已经发现了一个有开采价值的铁矿床。
+	22. unpromising
+	23. promissory
+		1. _adj._ [promise](dic://promise)
+		2. **indebtedness**债务;**lien**留置权;**repayment**偿还;**repaid**偿还;**repay**偿还;**mortgage**抵押;**deed**行动;**loan**贷款;**loans**借贷;**cheque**支票;**debt**债务;
+		3. _promissory note_ [商]本票；[商]期票
+		4. _promissory estoppel_ 允诺后不得否认的原则；不得反悔原则
+		5. statements that are promissory in nature /具有约定性质的陈述。
+		6. he glow of evening is promissory of the splendid days to come. /晚霞预示着阳光灿烂日子的到来。
+		7. I'm making good on my promissory note. /兑现承诺的时候了。
+		8. But, and this is not-- to make good on a promissory note I offered earlier. /但这并不能帮我自圆其说。
+		9. Now, mind you, that's not yet to offer the physical explanation; it's just a promissory note/注意 这还不是一个物理主义的解释这只是一张期票。
+		10. The banks, when their customers apply to them for money, generally advance it to them in their own promissory notes. /当客户向银行申请贷款时，银行通常会用自己的期票将款项预付给银行。
+	24. promisor
+	25. promiser
+	26. promisee
+	27. compromise
+		1. n. 妥协, 折中, 折中方案, 和解  
+		2. v. 妥协, 让步, 违背, 达不到, 使陷入危险
+		3. com-强调 + promise【承诺】。即相互承诺的，互退一步相互有所妥协的。
+		4. _n._ [cooperation](dic://cooperation), [accommodation](dic://accommodation)
+		5. _v._ [agree](dic://agree), [settle](dic://settle), [square off](dic://square off), [square up](dic://square up), [determine](dic://determine), [queer](dic://queer), [expose](dic://expose)
+		6. **workable**可经营的;**trade-off**交换,协定,交易,平衡;**negotiate**谈判，商议;**negotiation**协商, 谈判;**impasse**僵局;**agreement**协定, 协议, 契约;**solution**解决方案;**disagreement**分歧, 意见不合;**acceptable**合意的;**jeopardize**危及, 损害;**negotiating**谈判;
+		7. _reach a compromise_ 达成妥协
+		8. _make a compromise_ 妥协；折衷；做出让步
+		9. _missouri compromise_ 密苏里妥协案
+		10. a compromise of morality /道德的沦丧
+		11. compromise sb.'s reputation /损害某人的名誉
+		12. We can not compromise on such terms. /我们不能根据这样的条件和解。
+		13. MacGregor would be a compromise, the safe choice. /麦格雷戈是一个折中人选，如果选他风险较小。
+		14. But you would never compromise on your vision. /但你不会因此而改变你的看法。
+		15. My work has been compromising my marriage. /我的工作已经影响到婚姻了。
+27. premise
 	1. [premiss](dic://premiss), [assumption](dic://assumption)
 	2. [precede](dic://precede), [preface](dic://preface), [introduce](dic://introduce)
 	3. [premiss](dic://premiss)
@@ -4092,68 +4517,192 @@
 	18. We have a warrant to search the premises /我们有搜索这栋宅邸的授权令。
 	19. Are the inferences valid? Does the conclusion follow the premises? /推断有效吗？结论与前提一致吗？
 	20. premises
-12. demise, 
-	1. demisable
-13. remise
-14. surmise
-15. mess, messcook, messboy, mess-up, messy
-16. message
-	1. messenger, messman, messmate, messtin, 
-17. missile
-	1. missilery, missileman,
-	2. contra-missile
+28. remise (remiss)
+	1. n. 再刺, 重刺  
+	2. vi. 再刺, 重刺  
+	3. vt. 放弃, 出让
+	4.  [coach house](dic://coach house), [carriage house](dic://carriage house)
+	5. _n._ [hackney](dic://hackney), [hackney carriage](dic://hackney carriage), [hackney coach](dic://hackney coach), [outbuilding](dic://outbuilding), [stab](dic://stab), [thrust](dic://thrust), [knife thrust](dic://knife thrust)
+	6. _[remise money](dic://remise%20money)_ 出让金
+	7. _[land remise fund](dic://land%20remise%20fund)_ 土地出让金
+	8. _[land use remise](dic://land%20use%20remise)_ 土地使用权出让
+	9. When the time limit to **remise** or lease out comes, the users have the priority to continue renting /租赁土地期满后，使用者可优先续租或受让。
+	10. The mining rights exchange should include **remise**, transference, mortgage, hire, contract and inheritance. /矿业权的流转应包括出让、转让、抵押、出租、承包、继承这六方面的内容。
+	11. This is the famous classical type of E. Shine. Miss He bought it at three million at that time, and now she wants to **remise** to you. /Shine非常有名的经典款式，当时何小姐用三百万的价值买到的，现在她要让出来给你
+29. surmise
+	1. vt. 猜测；推测 
+	2. vi. 猜测；认为 
+	3. n. 推测；猜度
+	4. sur-在下面 + mis-送 + -e → 在下面说出的话 → 猜测。
+	5.  sur-,在下，向上，-mis,送出，放置，词源同 mission,emit.引申词义推测，猜测。
+	6. [guess](dic://guess), [conjecture](dic://conjecture), [supposition](dic://supposition), [surmisal](dic://surmisal), [speculation](dic://speculation), [hypothesis](dic://hypothesis)
+	7. [suspect](dic://suspect)
+	8. _n._ [opinion](dic://opinion), [view](dic://view)
+	9. _v._ [deduce](dic://deduce), [infer](dic://infer), [deduct](dic://deduct), [derive](dic://derive), [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend)
+	10. **presume**假定;**speculate**思索;**infer**推断;**conclude**推断出;**deduce**推论，推断;**assume**假定;**suppose**假设;**guess**猜测;**hunch**预感;**suspect**嫌疑犯;**suggest**提议，建议;
+	11. He was afraid she might surmise the truth. /他担心她可能会猜出真相。
+	12. Charles was glad to have his surmise confirmed. /查尔斯很高兴他的推测得到了证实。
+	13. " Yes, I surmised as much, " said Dumbledore, his eyes twinkling /“啊，我已经猜到了，”邓布利多说，眼睛里闪着诙谐的光。
 
 
 ### + \*mregh-u- + 
 1. **brace-** = two arms, 表示“两臂”。源自希腊语 brakhion "shorter."
+	1. brace
+	2. bracelet
+	3. braces
+	4. embrace
+	5. unbrace
+	6. bracing
 2. **brach-, brachi-** = 表示“手臂”，生物学词汇。源自希腊语 brakhus "short."
+	1. brachial
+	2. brachiopod
+	3. brachium
 3. **brachy-** = 表示“短”，多用于医学词汇。源自希腊语 brakhus "short."
+	1. brachycephalic
+	2. brachylogy
+		1. n. 简明, 省略语
 4. **brev-, bridg-** = short, 表示“短，缩短”。源自拉丁语 brevis "short"
+	1. abridge
+		1. vt. 缩短, 删节, 减少, 剥夺
+		2. a-去掉 + bridg-缩短 + -e → 缩短。
+		4. [foreshorten](dic://foreshorten), [abbreviate](dic://abbreviate), [shorten](dic://shorten), [cut](dic://cut), [contract](dic://contract), [reduce](dic://reduce)
+		5. _v._ [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [restrict](dic://restrict), [curtail](dic://curtail), [curb](dic://curb), [cut back](dic://cut back)
+		6. **curtail**截断, 缩短;**restrict**限制;**alter**改变，更改;**deprive**使丧失，剥夺;**amend**修正;**impair**削弱;**constrain**强迫, 强使;**infringe**侵犯;**restrain**抑制，控制;**impede**阻止;**modify**修改，修饰;
+		7. unabridged
+		9. abridgement
+	2. abbreviate
+		1. ab-同ad-往 + brev-短 + -ate使... → 使缩短 → 缩写。
+		2. _v._ [reduce](dic://reduce), [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify)
+		3. **acronym**首字母缩略词;**omit**省略;**pronounce**发音, 读;**punctuation**标点法, 标点符号的使用;**colloquial**口语的, 会话的;**denote**表示，指示;**lowercase**小写字母;**shorthand**速记;**shorten**缩短;**prefix**前缀;**refer**涉及;
+	4. breve
+		1. n. （罗马教皇的）谕令；二全音符，短弱音符
+	5. breviary
+		1. n. 每日祈祷书, 摘要
+	6. brevier
+		1. n. 八点活字（相当于六号铅字）
+	7. brevity
+		1.  [briefness](dic://briefness), [transience](dic://transience)
+		2. _n._ [terseness](dic://terseness), [duration](dic://duration), [length](dic://length)
+		3. **simplicity**简单, 朴素, 率直;**clarity**清楚，明晰;**sake**缘故;**readability**可读性;**subtlety**微妙;**succinct**简洁的;**immediacy**直接;**completeness**完全;**prose**散文;**brilliance**才华,才智;**usefulness**有用,有益,有效;
+	8. brief
+		1. 来自 brev-,短。引申词义汇报，介绍情况。
+		2. n. 摘要, 简报
+		3. a. 简短的, 短暂的
+		4. vt. 对...作简报, 摘要, 节录
+		5.  [legal brief](dic://legal brief)
+		6.  [little](dic://little)
+		7. [abbreviated](dic://abbreviated)
+		8. _n._ [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument), [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract)
+		9. _v._ [instruct](dic://instruct), [apprise](dic://apprise), [apprize](dic://apprize)
+		10. _adj._ [short](dic://short), [concise](dic://concise)
+		11. _n._ [long](dic://long), [prolix](dic://prolix)
+		12. [brief](dic://brief) 指语言文学简明扼要，短小精悍，也用于指时间意义很强的短暂的过程。  
+		13. [concise](dic://concise) 书面用词，可与brief换用，指语言文学言简意赅，无多余的话。  
+		14. [compact](dic://compact) 指为了方便把某物压缩到最小程度，也指紧凑、简洁的文体。
+		15. **lengthy**漫长的，冗长的;**short**短的;**succinct**简洁的;**summary**扼要的;**interlude**中间;**cursory**粗略的;**concise**简明的，简洁的;**detailed**详细的，精细的;**introductory**引导的, 介绍的;**quick**迅速的，快的;**fleeting**飞逝的;
+		16. _in brief_ 简言之
+		17. _brief introduction_ 简介；简短介绍
+		18. _brief description_ 简要说明；简介
+		19. _to be brief_ 简言之
+		20. _take a brief_ （指律师）接手案件
+		21. _brief survey_ 简短的调查；简单的调查
+		22. _hold no brief for_ 不为…辩护；不支持，不赞同
+		23. _news in brief_ 简讯；简明新闻
+		24. _design brief_ 设计纲要
+		25. _brief meeting_ 碰头会
+		26. _brief case_ 公文包
+		27. _brief exposure_ 手控时间快门
+	10. brumal
+		1. a. 冬天的, 冬天发生的, 冬天出现的
+		2. brumal (adj.) - "belonging to winter"，16世纪10年代，源自拉丁语brumalis，源自bruma "winter" (参看：brume)。拉丁语单词是Brumaire的最终词源，Brumaire是法兰西共和国时的日历的二月 (Oct. 22-Nov. 20)，字面含义 "the foggy month"；1793由Fabre d'Eglantine创造的词，源自法语brume "fog"。
+		4. [hibernal](dic://hibernal), [hiemal](dic://hiemal)
+		5. _adj._ [wintry](dic://wintry), [wintery](dic://wintery)
+		6. _n._ [vernal](dic://vernal), [summery](dic://summery), [autumnal](dic://autumnal)
+		7. **arctic**北极的;**frigid**寒冷的，严寒的;
+	12. brume
+		1. n. 霭，雾
+		2. _[drifting brume](dic://drifting%20brume)_ 飘动的雾
+		3. _[London brume](dic://London%20brume)_ 伦敦晨露
+		4. _[brume area](dic://brume%20area)_ 雾区
+		5. _[bise brume](dic://bise%20brume)_ 白雾风
+		6. _[brume zone](dic://brume%20zone)_ 雾区
 5. merry
+	1. 来自古英语 myrge,愉快的，高兴的，来自 Proto-Germanic*murgijaz,短暂的，来自 PIE*mreghu,短暂的，词源同 brief,abbreviate.字母 b,m 音变。词义由短暂的引申为欢乐的可能是来自心理作用，即欢乐总是短暂的。
+	2. a. 快乐的, 愉快的, 嬉戏作乐的
+	3.  [gay](dic://gay), [jocund](dic://jocund), [jolly](dic://jolly), [jovial](dic://jovial), [mirthful](dic://mirthful)
+	4.  [gay](dic://gay), [festal](dic://festal), [festive](dic://festive)
+	5. [brisk](dic://brisk), [lively](dic://lively), [rattling](dic://rattling), [snappy](dic://snappy), [spanking](dic://spanking), [zippy](dic://zippy)
+	6. _adj._ [joyous](dic://joyous), [energetic](dic://energetic)
+	7. _n._ [joyless](dic://joyless), [lethargic](dic://lethargic), [unergetic](dic://unergetic)
+	8. [happy](dic://happy) 侧重感到满足、幸福或高兴。  
+	9. [glad](dic://glad) 最普通用词，语气较弱，表示礼貌的惯用语。指乐于做某事或因某事而感到满足，常表愉快的心情。  
+	10. [cheerful](dic://cheerful) 多指因内心的愉快而表现出兴高采烈，是强调而自然的感情流露。  
+	11. [joyful](dic://joyful) 语气较强，强调心情或感情上的欣喜。  
+	12. [merry](dic://merry) 指精神情绪的暂时高涨，表示欢乐、愉快的心境或情景，侧重充满欢笑声和乐趣。  
+	13. [delightful](dic://delightful) 指能带来强烈的快乐，激起愉快的情感，用于非常愉快的场合。  
+	14. [gay](dic://gay) 侧重无忧无虑、精神昂扬、充满生命的快乐。  
+	15. [pleasant](dic://pleasant) 侧重给人以“赏心悦目”或“愉快的，宜人的”感受。  
+	16. [nice](dic://nice) 语气较温和，泛指任何愉快或满意的感觉。  
+	17. [jolly](dic://jolly) 通俗用词，多指充满快乐与喜悦的神情。 
+	18. [agreeable](dic://agreeable) 指与感受者的愿望、情趣或受好等和谐一致而带来的心情上的快意
+	19. **jolly**愉快的;**joyous**令人高兴的;**festive**欢乐的;**joyful**欢喜的;**cheerful**高兴的;**cheery**愉快的，活泼的;**cheer**欢呼;**happy**高兴的;**Xmas**圣诞节;**Christmas**圣诞节;**rejoicing**欣喜;
+	20. _merry christmas_ 圣诞快乐
+	21. _make merry_ 作乐；尽情欢乐
+	22. _merry chrismas_ 圣诞节快乐
+	23. merrymaking
+	24. merry-go-round
+	25. merry-andrew
+	26. merriness
+	27. merriment
+		1. _n._ [happiness](dic://happiness), [diversion](dic://diversion), [recreation](dic://recreation)
+		2. **laughter**笑声;**silliness**愚蠢;**merry**愉快的;**celebration**庆祝;**joyous**令人高兴的;**mischief**伤害;**festive**欢乐的;**mayhem**大混乱, 大破坏;**joy**欢乐，快乐;**excitement**兴奋, 激动;**rejoicing**欣喜;
+	28. merrily
 6. mirth
+	1. 来自 merry,欢乐的，-th,名词后缀。
+	2. n. 欢笑, 欢乐, 愉快
+	3. mir-惊奇 + -th → 惊喜状态 → 欢乐。
+	4. [hilarity](dic://hilarity), [mirthfulness](dic://mirthfulness), [glee](dic://glee), [gleefulness](dic://gleefulness)
+	5. _n._ [gaiety](dic://gaiety), [merriment](dic://merriment)
+	6. **laughter**笑声;**sorrow**悲伤;**joy**欢乐，快乐;**glee**快乐;**silliness**愚蠢;**humour**诙谐;**mischief**伤害;**delight**高兴;**indignation**愤怒, 愤慨, 气愤;**astonishment**惊讶, 惊奇;**chuckle**咯咯的笑，轻声地笑;
+	7. She thought my mirth improper. /她认为我高兴是不合时宜的。
+	8. The announcement was greeted with much hilarity and mirth /这一项宣布引起了热烈的欢呼声。
+	9. His mind was boiling with mirth, fear and pride. /快意、恐惧、自豪一起在他心头翻腾。
+	10. Though this caused great mirth among the guests, Aunt Harriet was horrified. /这件事引起了客人们的欢笑，但哈丽特却着实吓了一跳。
+	11. As the party went on, you could hear the mirth coming from the house. /聚会进行时，你能听到屋里传出来的欢声笑语。
+	12. Finally Melly wiped tears of mirth from her eyes /最后媚兰才把欢乐的眼泪拭掉，开口说话。
+	13. Critics appreciation: Matthew Perry masterfully walked the line between mirth and melancholy. /马修·派瑞熟练地游走于欢乐与忧郁之间。
+	14. Sweet voices and rich melody filled the air, and so with mirth and music the masquerade went on /空气中洋溢着甜蜜的人声和华美的曲调；化装舞会就这样随着欢笑和音乐继续下去。
+	15. The word " mirth" (mirth) means feeling amused, usually causing you to laugh /“欢笑”（mirth）这个词的意思是觉得被逗乐了，通常会让你发笑。
+	16. mirthless
+	17. mirthful
+		1.  [gay](dic://gay), [jocund](dic://jocund), [jolly](dic://jolly), [jovial](dic://jovial), [merry](dic://merry)
+		2. [amusing](dic://amusing), [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [risible](dic://risible)
+		3. _adj._ [joyous](dic://joyous), [humorous](dic://humorous), [humourous](dic://humourous)
+		4. _n._ [joyless](dic://joyless), [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+		5. **joyous**令人高兴的;**joyful**欢喜的;**light-hearted**轻松的;**laughter**笑声;**wry**面部肌肉扭曲的;**mischievous**淘气的, 顽皮的;**exuberant**兴高采烈的;**boisterous**热闹的;**merry**愉快的;**cheerful**高兴的;**jolly**愉快的;
+		6. a warm, tender, and mirthful movie. /一部热情、温柔并引人发笑的电影
+		7. She laughed and I laughed too; but her laugh was mirthful and childlike, while mine, I felt, was strained. /她笑了，我也跟着笑了；她笑得像孩子似的开心，而我觉得自己笑得有些勉强。
+		8. But, suddenly the man burst into laughter, a happy, mirthful laugh, spontaneous and irresistible / 但是，男人突然大笑起来， 一种快乐、愉悦的笑声， 自然而然，无法抗拒。
+		9. As she spoke, her eyes were **mirthful**, while her lips pouted. /说时，她眼睛里含笑，嘴撅着。
+		10. Her funny costume caused much **mirthful** laughter among the guests. /她那滑稽的服装引得客人哄堂大笑。
 7. pretzel
-
-
-### ⭐ mess-, miss-, mit-
-1. admissive, admit, admissable
-2. commissar, commissure
-3. immission,
-4. mess, message, messenger, messdeck, messman, messmate, messtin, missile,
-5. mission, missive,
-6. omit 
-7. permit
-8. remit, remission
-9. submit, submission
-10. transmit, transmission
-11. admit, admission
-12. commit, commission
-13. demit, demission, demission
-14. dismiss
-	1. dismissive 
-		1. **condescending**降低身份的,屈尊的;**disparaging**轻蔑的;**arrogant**自大的，傲慢的;**sarcastic**讽刺的;**disingenuous**不真诚的;**snarky**恶声恶气的，咬人的;**cynical**愤世嫉俗的;**apologetic**道歉的;**unhelpful**无用的;**judgmental**审判的;**rude**粗鲁的;
-		2. [uninterested](dic://uninterested), [negative](dic://negative)
-		3. [interested](dic://interested), [affirmative](dic://affirmative), [affirmatory](dic://affirmatory)
-15. emit, emissive, emission, emissary
-16. intermit, intermission
-17. manumit, manumission
-18. omit
-19. pretermit
-20. demise
-21. premise
-22. promise
-23. remise
-24. surmise
+	1. n. (扭曲或棒状) 咸脆饼干, 椒盐卷饼, (美)(非正式)法国号
+	2. 来自德语 Prezel,来自中古高地德语 brezel,来自古高地德语 brecedela,来自拉丁语 bracchium,胳膊，手臂，词源同 brace,embrace.比喻用法，因这种小甜卷饼如同胳膊抱在一起而得名。
+	3. _n._ [cracker](dic://cracker)
+	4. **donut**炸面圈;**doughnut**圆环图;**bagel**百吉饼;**buns**<俚>屁股;**bun**小圆面包;**hamburger**汉堡包;**caramel**焦糖;**biscuit**小点心，饼干;**donuts**油炸圈饼;**sandwich**三明治;**chocolate**巧克力;
 
 
 ### met- 表示“恐惧”。
 1. meticulosity
 2. meticulous
-	1. **painstaking**极小心的;**methodical**有条理的, 井然的;**diligent**勤勉的;**thorough**彻底的;**exacting**苛求的;**impeccable**无瑕疵的;**careful**仔细的，小心的;**painstakingly**刻苦地;**masterful**善于控制别人的;**skillful**熟练的;**rigorous**严格的，严厉的;
-	2. [precise](dic://precise), [fastidious](dic://fastidious)
-	3. [imprecise](dic://imprecise), [unfastidious](dic://unfastidious)
-	4. _[meticulous punctilious](dic://meticulous%20punctilious)_ 一丝不苟的
-	5. _[meticulous preparation](dic://meticulous%20preparation)_ 精细准备; 精当制备; 
-	6. _[meticulous marketing](dic://meticulous%20marketing)_ 精细化营销
+	1. a. 一丝不苟的, 细心的, 小心翼翼的
+	2. 来自拉丁语 metus,恐惧，害怕，忧虑。即充满恐惧的，后引申词义谨慎的，小心翼翼的。
+	3. **painstaking**极小心的;**methodical**有条理的, 井然的;**diligent**勤勉的;**thorough**彻底的;**exacting**苛求的;**impeccable**无瑕疵的;**careful**仔细的，小心的;**painstakingly**刻苦地;**masterful**善于控制别人的;**skillful**熟练的;**rigorous**严格的，严厉的;
+	4. [precise](dic://precise), [fastidious](dic://fastidious)
+	5. [imprecise](dic://imprecise), [unfastidious](dic://unfastidious)
+	6. _[meticulous punctilious](dic://meticulous%20punctilious)_ 一丝不苟的
+	7. _[meticulous preparation](dic://meticulous%20preparation)_ 精细准备; 精当制备; 
+	8. _[meticulous marketing](dic://meticulous%20marketing)_ 精细化营销
 
 
 ### + \*meue- +
@@ -4553,16 +5102,298 @@
 
 
 ### + \*meug- + = slippery, slimy
-1. **-myces**
-2. **-mycin, -cin**
-3. **muc-**
-4. **munct-**
-5. **myc-, mycet-**
-6. **myx-**
-7. match
-8. meek
-9. muck
-10. muggy
+1. **-myces** 表示“菌或菌属”。源自希腊语 mukes "fungus, mushroom."
+	1. etc.
+2. **-mycin, -cin** 表示“...霉素”，由词根 myc- + -in 组成。缩写成 -cin 时表示“...菌素”。源自希腊语 mukes "fungus, mushroom."
+	1. etc.
+3. **muc-** = slimy, 表示“粘糊糊”。源自拉丁语 mucus "mucus."
+	1. mucus
+		1. [美 /'mjukəs/](cmd://Speak/_us_/mucus)
+		2. muc-粘液 + -us
+		3. 来自拉丁语 mucus,鼻涕，黏液，来自 PIE*meug,黏的，黏滑的，词源同 muggy,match,muck.
+		4. n. 粘液
+		5. [mucous secretion](dic://mucous secretion)
+		6. _n._ [secretion](dic://secretion)
+		7. **mucous**黏液的;**secretion**分泌;**saliva**唾液;**epithelium**上皮;**epithelial**上皮的;**slime**黏液;**mucosal**粘膜的;**coughing**咳嗽;**runny**流鼻涕的;**nasal**鼻的;**sinuses**鼻窦;
+		8. _cervical mucus_ 宫颈粘液；子宫颈粘液
+		9. the viscid mucus lining of the intestine /有黏液的肠壁。
+		10. Coughing clears the lungs of mucus. /咳嗽能清除肺里的黏液。s
+		11. The characteristic changes at necropsy were swelling, hyperemia, hemorrhage and atrophy of proventriculus papillae and with mucus on the surface of papillae. /剖检可见腺胃乳头肿胀、充出血、或乳头凹陷，并附有大量黏液；
+	3. mucous
+		1. a. 粘液的, 粘的, 粘液性的
+		2. 来自 mucus,黏液。即黏液的，黏性的。
+		3. [mucose](dic://mucose)
+		4. _adj._ [mucus](dic://mucus), [mucous secretion](dic://mucous secretion)
+		5. **mucus**粘液;**mucosal**粘膜的;**mucosa**粘膜;**epithelial**上皮的;**epithelium**上皮;**vaginal**阴道的;**nasal**鼻的;**saliva**唾液;**whitish**带白色的;**intestinal**肠的;**secretion**分泌;
+		6. _mucous membrane_ [解]黏膜
+		7. a mucous tissue /粘液组织
+		8. Generalized argyria is a rare disease caused by deposition of silver in the skin, nails, mucous membranes, and internal organs /摘要全身性银质沈著症是由于银沈积在皮肤、指甲、黏膜和内脏器官所造成的少见疾病。
+		9. Your stomach will start to make more acid than usual, and more mucous to protect itself from the capsaicin /你的胃会开始制造比平时更多的胃酸和更多的粘液来保护自己免受辣椒素的影响。
+		10. It is the nasal **mucous** you have to worry about - so no nose-kissing /鼻黏液才是你所要担心的——所以不要鼻吻。
+	4. mucosity
+		1. n. 粘性；粘
+	5. mucosa
+		1. [美 /mjʊ'kosə/](cmd://Speak/_us_/mucosa)
+		2. _n._ 黏膜
+		3. [mucous membrane](dic://mucous membrane)
+		4. _n._ [membrane](dic://membrane), [tissue layer](dic://tissue layer)
+		5. **epithelium**上皮;**mucosal**粘膜的;**epithelial**上皮的;**esophagus**食道;**intestine**肠;**intestinal**肠的;**mucous**黏液的;**rectum**直肠;**tissue**纸巾;**tissues**组织，薄的纱织品;**gastrointestinal**胃与肠的;
+		6. _gastric mucosa_ 胃粘膜
+		7. _oral mucosa_ 口腔黏膜
+		8. nasal mucosa:  鼻黏膜；鼻粘膜 
+		9. Neisseria mucosa:  粘液奈瑟球菌；粘液奈瑟菌 
+		10. oral mucosa:  口腔黏膜；口腔粘膜 
+		11. prolapse of gastric mucosa:  胃粘膜脱垂症；胃粘膜脱垂；胃黏膜脱垂；胃黏膜脱垂症
+		12. Medical ultrasonography may show striations in the intestinal mucosa indicating dilated lacteals. /医学超声可能发现肠黏膜出现条纹，暗示绒毛糜乳的扩张。
+		13. The papillae on lingual mucosa in ostrich didn't develop consummately and it was merely distributed on the tip of lingua /结果显示，鸵鸟舌背面黏膜乳头发育不完善，且仅分布在舌尖处；
+		14. It infects the epithelium of the respiratory mucosa, typically through a nasal route of transmission. /它通常通过鼻传播途径，感染呼吸道粘膜上皮。
+		15. Now, the stomach mucosa is different from the esophageal mucosa. /而胃粘膜不同于食管粘膜。
+		16. These airways have an inner lining called the mucosa that's surrounded by a layer of smooth muscle /这些气道有一层称为粘膜的内层，被一层平滑肌包围。
+		17. 
+	6. mucosae
+		1. _[mucosae](dic://mucosae)_  n. 粘膜（mucosa的复数）
+	7. mucosas
+	8. mucilage
+		1. [美 /'mjʊsəlɪdʒ/](cmd://Speak/_us_/mucilage)
+		2. n. [植] 粘液，粘质物；胶水
+		3. [glue](dic://glue), [gum](dic://gum)
+		4. _n._ [gum](dic://gum), [cement](dic://cement)
+		5. **fibrous**纤维的，纤维性的;**starch**淀粉;**cellulose**纤维素;**mucus**粘液;**soluble**可溶的，可溶解的;**mucous**黏液的;**granules**颗粒剂;**insoluble**不能解决的,不溶的;**lipids**脂肪，油脂;**sticky**粘的;**secretion**分泌;
+		6. _mucilage glue_ n. 粘胶；粘液
+		7. And...you might not want to toss the mucilage at all. /或许… … 你根本不想去除这种汁液。
+		8. Or allowing them to honey in their sugary inner mucilage layer, which adds a subtle sweetness. /或者让它们在含糖的内部黏液层中“浸泡在甜言蜜语之中”，增加微妙的甜味。
+		9. They're full of a toxic sap called mucilage, so when the flowers are cut, sap flows from the stem. /里面充满了一种叫做粘液的有毒树液，因此当花朵被切开时，汁液就会从茎中流出。
+		10. I lived on selling mousetraps and mucilage. /我靠卖捕鼠器和胶水为生。
+		11. It looms up big in the window displays, but it's got a filler of glucose, or starch or mucilage or something, and two days after you wear it it's as limp as a cheesecloth rag. /它在橱窗里显得很大， 但里面有葡萄糖、淀粉或粘液之类的填充物， 戴上两天后， 它就会像粗棉布一样柔软。
+	10. moist
+		1.  来自拉丁语 musteus,新鲜的，带水滴的，来自 PIE*meus,水气，潮气，词源同 mist,must,moss.
+		2. [damp](dic://damp), [dampish](dic://dampish)
+		4. _adj._ [wet](dic://wet)
+		5. _n._ [dry](dic://dry)
+		6. [humid](dic://humid) 正式用词，特指空气与天气的潮湿，相对湿度大。  
+		7. [damp](dic://damp) 指吸进或覆盖着一点水份，常表示潮湿得使人不舒服。  
+		8. [moist](dic://moist) 指微湿，侧重不干，但并非湿得使人不快。  
+		9. [wet](dic://wet) 普通用词，指各种潮湿的状态。
+		10. clammy, dank, drenched, saturated, soaked, soppy etc.
+		11. **dry**干的;**damp**使潮湿;**humid**潮湿的;**wet**潮湿的;**soggy**浸水的;**moisture**潮湿;**crumbly**脆的;**succulent**汁多味美的;**crispy**易碎的;**chewy**柔软而会黏着的;**warm**温暖的;
+		12. _moist air_ 湿空气
+		13. _moist soil_ 湿地
+		14. _moist heat_ 温湿
+		15. _moist climate_ 湿润气候
+		16. moisture
+			1. wet
+			2. _n._ [wetness](dic://wetness)
+			3. **humidity**湿度;**dryness**干燥;**evaporation**蒸发;**heat**热度;**moist**潮湿的;**vapor**蒸汽;**condensation**冷凝,凝聚;**wicking**灯芯材料;**drying**干燥;**dry**干的;**soil**土地;
+			4. moisturize
+			5. moisturizer
+			6. moistureproof
+		17. moistly
+		18. moisten
+			1. moistener
+	11. mold
+		1. _n._ 模具；铸模；模制品；类型，个性，风格；框架；体型，模样；霉，霉菌；耕作土壤；松软沃土  
+		2. _v._ 浇铸，塑造；用模子制作；对……影响重大；将……塑造成；使）紧贴于，吻合；轮廓相符；使发霉  (美式）
+		2. [cast](dic://cast), [stamp](dic://stamp)
+		3. [mould](dic://mould), [cast](dic://cast)
+		4. [mildew](dic://mildew)
+		5. [mould](dic://mould), [molding](dic://molding), [moulding](dic://moulding), [modeling](dic://modeling), [clay sculpture](dic://clay sculpture)
+		6. [model](dic://model), [mould](dic://mould)
+		7. [cast](dic://cast), [mould](dic://mould)
+		8. [shape](dic://shape), [form](dic://form), [work](dic://work), [mould](dic://mould), [forge](dic://forge)
+		9. [determine](dic://determine), [shape](dic://shape), [influence](dic://influence), [regulate](dic://regulate)
+		10. _n._ [solid](dic://solid), [container](dic://container), [soil](dic://soil), [dirt](dic://dirt), [spoilage](dic://spoilage), [spoiling](dic://spoiling), [fungus](dic://fungus)
+		11. _v._ [shape](dic://shape), [form](dic://form), [work](dic://work), [mould](dic://mould), [forge](dic://forge), [change](dic://change), [create from raw material](dic://create from raw material)
+		12. **mould**模具，铸模;**mildew**霉;**spores**孢子;**fungus**真菌，霉菌;**moulding**模制;**slime**黏液;**plaster**灰泥;**resin**树脂;**plastic**可塑的
+		13. This is a mold of pudding /这是在模子中做成的布丁。
+		14. the oval mold of her face /她椭圆形的脸庞
+		15. a leader in the mold of her predecessors. /具有与她先辈相同气质的领袖
+		16. shoes that gradually molded to my feet. /逐渐合我脚的一双鞋
+		17. a teacher who helps to mold the minds of his students /影响学生心智成长的老师
+		18. We can also adopt sand shell moulding or metal mold casting as for allotype castings /对异形铸件，还可用砂型铸造或金属型铸造。
+	12. mould
+		1. _n._ 模具，铸模；（人的）个性，类型；霉，霉菌；耕作土壤，腐殖土  
+		2. _v._ （用模具）浇铸，塑造；对……施加影响；将…塑造成；紧贴于，吻合（轮廓）；使长霉  （英式）
+		2. [mold](dic://mold)
+		3. [mold](dic://mold), [molding](dic://molding), [moulding](dic://moulding), [modeling](dic://modeling), [clay sculpture](dic://clay sculpture)
+		4. [mold](dic://mold), [cast](dic://cast)
+		5. [model](dic://model), [mold](dic://mold)
+		6. [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [forge](dic://forge)
+		7. _n._ [soil](dic://soil), [dirt](dic://dirt), [fungus](dic://fungus), [sculpture](dic://sculpture), [container](dic://container)
+		8. _v._ [shape](dic://shape), [form](dic://form), [work](dic://work), [mold](dic://mold), [forge](dic://forge), [create from raw material](dic://create from raw material), [create from raw stuff](dic://create from raw stuff)
+		9. [mould](dic://mould) 通常指把有延展性的材料浇铸或塑成所需形状的物品。  
+		10. [forge](dic://forge) 意义较窄，指用锤子和砧对金属材料进行加工或锻造。  
+		11. [shape](dic://shape) 比mould使用广泛，指用许多不同的方法制成不同形状的制品。
+		12. **mold**模具;**molds**模具;**moulding**模制;**molding**铸造;**plaster**灰泥;**mildew**霉;**castings**铸件;**molded**模塑的;**resin**树脂;**biscuit**小点心，饼干;**fungus**真菌，霉菌;
+		13. mould into a sausage shape /做成香肠形状。
+		14. mould the figure from white fondant. /用白色软糖塑出人形。
+		15. take the marzipan and mould it into a cone shape /采用杏仁蛋白软糖，将其做成锥形。
+		16. a corridor with a moulded cornice /有模制装饰檐口的走廊。
+		17. He will mould a child into an excellent basketball player /他把孩子造就成为一个优秀的篮球运动员。
+		18. the cheeses develop a mould beneath the muslin /纱布盖住的奶酪发霉了。
+	13. mucin
+		1. [美 /'mjʊsɪn/](cmd://Speak/_us_/mucin)
+		2. n. 粘蛋白；粘液素
+		3. _n._ [glycoprotein](dic://glycoprotein)
+		4. **mucus**粘液;**epithelial**上皮的;**mucous**黏液的;**epithelium**上皮;**secretion**分泌;**mucosal**粘膜的;**mucosa**粘膜;**collagen**胶原，胶原质;**cytoplasmic**细胞质的;**albumin**白蛋白，清蛋白;**lipid**油脂;
+		5. Many of the neoplastic cells have clear vacuoles of **mucin**. /很多肿瘤细胞有明显的黏液空泡。
+		6. Regulation of **mucin** secretion may be under the influence of multiple pathways. /眼表粘蛋白的调节可能受多种因素影响。
+		7. I use this to rehydrate my face because the next step you need a moist face for snail mucin. /我用它来给我的脸补充水分，因为下一步你需要一张湿润的脸来补充蜗牛粘蛋白。
+		8. In mucin, long chains of sugars are attached to specific amino acids in the protein backbone. /在黏蛋白里，一长串的糖 会黏着於特定的氨基酸位於蛋白质的骨干。
+	15. mucociliary
+		1. _adj._ (哺乳动物呼吸系统中)黏膜纤毛的
+	16. mucopolysaccharidosis
+5. **munct-** = blow the nose, 表示“擤鼻子”。源自拉丁语 mungere "to blow the nose."
+	1. emunctory
+6. **myc-, mycet-** 表示“菌”，特别是“霉菌”。源自希腊语 mukes "fungus, mushroom."
+	1. chloromycetin
+		1. n. 氯霉素
+		2. chlor-（黄绿色）：春与花之女神克罗丽丝  
+		3. 希腊神话中，掌管春和花的女神叫做克罗丽丝（Cloris，拉丁语Chloris、希腊语Khloris）。她是春天的化身，依照赫拉的指示使得植物生长。她的助手们是时序女神们，掌管季节和生长的周期。克罗丽丝的爱人则是在春天唤醒大自然的西风神Zephyr。  
+		4. 在希腊语中，Khloris来自khloe（春天最初长出的黄绿色嫩芽）。英语词根chlor-（黄绿色）便来源于此，并衍生出大量与“黄绿色”有关的单词，如化学元素氯chlorine（黄绿色物质），因为氯气呈黄绿色；人的胆汁呈黄绿色，因此胆汁被称为chole。  
+		5. chlor-：黄绿色  
+		6. chlorine：['klɔrin]  n. [化学] 氯（17号化学元素）  
+		7. chole： ['koʊl] n.胆汁  
+		8. chloromycetin：[,klorəmaɪ'sitɪn] n. 绿霉素  
+		9. Chloe：['kləui] n. 克洛伊（女子名），意为“绿色”
+	2. mycelial
+		1. a. 菌丝的
+	3. mycelium
+		1. [美 /maɪˈsiliəm/](cmd://Speak/_us_/mycelium)
+		2. _n._ [plant part](dic://plant part), [plant structure](dic://plant structure)
+		3. **spores**孢子;**fungus**真菌，霉菌;**fungi**真菌;**fungal**真菌的;**mushroom**蘑菇，伞菌;**mushrooms**蕈类;**agar**琼脂;**biofilm**生物膜;**yeast**酵母;**larvae**幼虫;**whitish**带白色的;
+	4. mycete (mildew)
+		1. _[mycete](dic://mycete)_  n. 霉菌
+	5. mycetozoan
+		1. n. 粘液菌, 菌虫
+	6. mycology (fungi, mildew)
+		1. n. 真菌学
+		2. myco-菌 + -logy学，学科
+		3.  来自希腊语 mykes,真菌，来自 PIE*meug,黏的，黏滑的，词源同 mucus.-logy,学说。
+		4. _n._ [botany](dic://botany), [phytology](dic://phytology)
+		5. **botany**植物学;**fungi**真菌;**microbiology**微生物学;**fungus**真菌，霉菌;**botanist**植物学家;**fungal**真菌的;**biology**生物学;**horticulture**园艺学;**biochemistry**生物化学;**mushroom**蘑菇，伞菌;**pathology**病理学;
+	7. mycologist
+	8. mycophthorous
+	9. mycorhiza
+	10. mycosis
+		1. myc-菌 + -osis
+		2. n. 霉菌病
+		3. [fungal infection](dic://fungal infection)
+		4. _n._ [zymosis](dic://zymosis)
+		5. **cutaneous**皮肤的;**dermatitis**皮肤炎;**fungal**真菌的;**fungus**真菌，霉菌;**squamous**鳞状的;**psoriasis**牛皮癣,银屑癣;**ulcers**溃疡，疡;**fungi**真菌;**carcinoma**癌;**infection**传染;**melanoma**黑素瘤;
+		6. vaginomycosis
+		7. trichomycosis
+		8. streptomycosis
+		9. etc.
+7. **myx-** = mucus, 表示“粘液”。源自希腊语 muxa "mucus, lamp wick."
+	1. amyxia
+	2. myxedema
+	3. myxoedema
+	4. myxoma
+	5. myxomas
+	6. myxomata
+	7. myxomatosis
+8. match
+	1. n. 比赛; 火柴; 对手; 般配的人; 非常相似的东西; 婚姻  
+	2. vt. 相配, 相同; 配对; 与…相匹敌; 适应
+	3. 来自中古英语 macche,灯芯或烛芯，来自希腊语 myxa,鼻涕，灯芯，来自 PIE \*meug,黏的，滑的，词源同 mucus,mucous.比喻用法，把悬荡的灯芯比喻成小孩的鼻涕。后引申词义用于点火的浸油小木条，最后指火柴。拼写比较 bake,batch.  
+	4. 来自古英语 maecca,伴侣，妻子，丈夫，来自 Proto-Germanic \*makon,匹配，来自 PIE \* mag,揉，捏，词源同 make, massage.后引申词义比赛，竞争等，即能匹敌的对手。
+	5. wrestling-match
+	6. unmatch
+		1. unmatched
+		1. unmatchable
+	7. sparring-match
+		1. n. 示范性拳赛, 争论
+	8. rematch
+	9. overmatch
+	10. outmatch
+	11. mismatch
+		1. mismatching
+	12. matchwood
+	13. matchup
+		1. _n._ [pairing](dic://pairing)
+		2. **rematch**复赛;**showdown**摊牌;**preseason**活跃季节前的,旺季前的;**playoff**延长赛;**quarterfinal**四分之一决赛的;**non-conference**非运费同盟;**semifinal**半决赛;**tourney**锦标赛;**head-to-head**肉搏战,白刃战;**doubleheader**双车头火车,连赛;**opponent**对手;
+		3. if there's not a matchup, then you're kind of in trouble /如果没有匹配，那么你就有麻烦了。
+		4. This isn't the matchup you want, but the receiving options are very scary. /这不是你想要的对决，但接收选项非常可怕。s
+		5. Let's get to our first matchup / 让我们开始我们的第一场比赛吧。
+	14. matchstick
+	15. matchmaking, matchmaker
+	16. matchlock
+	17. matchless
+	18. matchbox, matchbook
+	19. matchable
+	20. ill-matched
+	21. cross-match, cross-matching
+	22. automatch
+	23. etc.. (todo)
+10. meek (geek, cheek, reek, leek)
+	1. a. 温顺的, 逆来顺受的
+	2. meek (adj.) - 大约1200，"gentle, quiet, unaggressive; benevolent, kind; courteous, humble, unassuming"；of awoman，"modest"，斯堪的纳维亚语词源例如：古挪威语mjukr "soft, pliant, gentle"，源自原始日耳曼语*meukaz (同源词：哥特语muka-modei "humility"，荷兰语muik "soft")，词源不确定，可能源自原始印欧语*meug- "slippery, slimy"。在圣经中，该词用来翻译拉丁语圣经中的mansuetus (参见mansuetude)。含义 "submissive" 始于14世纪中期。
+	3. [mild](dic://mild), [modest](dic://modest)
+	4. [tame](dic://tame)
+	5. [spiritless](dic://spiritless)
+	6. _adj._ [humble](dic://humble), [docile](dic://docile), [submissive](dic://submissive)
+	7. _n._ [proud](dic://proud), [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [domineering](dic://domineering)
+	8. **timid**羞怯的;**obedient**孝顺的;**submissive**顺从的, 唯命是从的;**unassuming**谦逊的;**lowly**地位低的;**humble**谦逊的;**gentle**温和的;**arrogant**自大的，傲慢的;**feisty**活跃的;**aloof**冷淡的;**assertive**断定的;
+	9. _[overbearing meek](dic://overbearing%20meek)_ 傲慢的
+	10. _[truculent meek](dic://truculent%20meek)_ 好战的
+	11. _[meek unyielding](dic://meek%20unyielding)_ 温顺的
+	12. _[courteous meek respectful](dic://courteous%20meek%20respectful)_ 谦恭的
+	13. _[Elly Schull Meeks](dic://Elly%20Schull%20Meeks)_ 陌生的地方
+	14. _[meek in spirit](dic://meek%20in%20spirit)_ 性情温柔
+	15. _[meek and mild](dic://meek%20and%20mild)_ 温和的；平和
+	16. _[The wretched and the meek](dic://The%20wretched%20and%20the%20meek)_ 贫苦与软弱的人们
+	17. the meek compliance of our domestic politicians. /国内政客的驯顺屈从。
+	18. He expects his wife to be meek and submissive. /他期望妻子温顺而且听他摆布。
+	19. She won’t object—she’s so meek and mild /她不会反对的——她是那么顺服温和。
+	20. He isn't bad-tempered, he is as meek as a lamb. /他脾气并不坏，他温顺如羔羊。
+	21.  Lord Snow" ? he heard. Soft and meek. He turned /" 雪诺大人？" 有人唤道，轻柔又温顺。他转过头。
+	22. I'll be meek under their coldness and repentant of my evil ways /我愿意乖乖地忍受她们的奚落，忏悔我过去的恶行。
+	23. She was no longer the meek, soft native girl, but a determined woman. /她不再是一个温柔、驯顺的土人女孩子，而是一个意志坚定的妇人。
+	24.  Back then, the world was divided in two: vicious predator or meek prey. " /" 当时，整个世界被一分为二：凶残的食肉动物和温顺的猎物。"
+	25. meekness
+	26. meeky
+11. muck
+	1. n. 垃圾, 淤泥, 令人厌恶的事物, 粪肥  vt. 施肥, 弄脏, 弄糟, 糊弄; 游手好闲; 合伙
+	2. n. 垃圾；肥料；淤泥；品质低劣的东西
+	3. vt. 弄脏；施肥；清除…的污物
+	4. vi. [英俚]闲逛；鬼混
+	5. 来自古英语 muk,牛粪，粪肥，来自 PIE*smeug,meug,黏的，滑的，词源同 mucus,muggy.
+	6. [sludge](dic://sludge), [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [ooze](dic://ooze)
+	7. [droppings](dic://droppings), [dung](dic://dung)
+	8. [manure](dic://manure)
+	9. [mire](dic://mire), [mud](dic://mud), [muck up](dic://muck up)
+	10. _n._ [substance](dic://substance), [matter](dic://matter), [fecal matter](dic://fecal matter), [faecal matter](dic://faecal matter), [feces](dic://feces), [faeces](dic://faeces), [BM](dic://BM)
+	11. _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw), [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
+	12. **mud**泥;**muddy**泥泞的;**wading**涉水的;**mess**混乱;**bog**沼泽;**wade**跋涉;**dirt**污垢，泥土;**filth**猥亵;**puddles**划桨留下的水旋涡;**manure**施肥于;**puddle**水坑，泥潭
+	13. I got there in a muck sweat /我浑身大汗到了那里。
+	14. oily muck on the floor of a garage /汽车库地上的油垢
+	15. I'll just clean the muck off the windscreen. /我只擦掉挡风玻璃上的污垢。
+	16. I've mucked up my sweater by working in the kitchen. /"我在厨房里干活,把运动衫弄脏了。"
+	17. she had mucked up her first few weeks at college. /她进大学后头几个星期事情一团糟。
+	18. All his life, Rembrandt seemed to love the filmy muck of oil paint /终其一生，伦勃朗好像都偏爱油画的那种朦胧感。
+	19. But trust me, I will never sleep again if this campaign gets mucked up. /但相信我，要是这个案子给弄砸了我就再也不会睡觉了。
+	20. You, you're not concentrating at all. You just muck about. /你，你上课一点也没专心，一直在闲游。
+	21. Wilcox. Greasy muck on his shoes /韦尔考克斯 他干的脏事可真不少。
+	22. From the toilet, the muck comes into the first leach pit. /污物从厕所中出来，进入第一个过滤池。
+	23. The whole town mucks in to protect the mosque for another year. /人们倾巢而出，为保卫清真寺贡献一份力量。
+	24. And sometimes, through the muck of the internet, you get to find a kindred spirit. /有时候，通过互联网的垃圾信息，你会找到一个志同道合的人。
+	25. They mucked in with the war effort, but their Blitz was made unique by love affairs /他们分享各自在战时取得的成果，笔下的那些风流韵事也让他们的闪电战与众不同。
+	26. mucky
+	27. muckworm
+	28. muckraker
+	29. muckrate
+	30. muckhill
+	31. muckheap
+	32. mucker
+12. muggy
+	1. a. 闷热的
+	2. 可能来自 PIE*meug,黏的，滑的，词源同 mucus,match.引申词义闷热潮湿的，湿热的。
+	3. [steamy](dic://steamy), [sticky](dic://sticky)
+	4. stuffy, frowst, sultry, swelter, muggy
+	5. _adj._ [wet](dic://wet)
+	6. _n._ [dry](dic://dry)
+	7. **humid**潮湿的;**chilly**寒冷的，凉飕飕的;**windy**多风的，有风的;**overcast**阴暗的;**sunny**阳光充足的，和煦的;**rainy**多雨的;**sweaty**出汗的;**humidity**湿度;**damp**使潮湿;**frigid**寒冷的，严寒的;**breezy**有微风的;
+	8. mugginess
 
 
 ### + \*mezg- +

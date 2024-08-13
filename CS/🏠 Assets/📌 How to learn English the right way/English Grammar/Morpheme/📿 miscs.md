@@ -751,8 +751,9 @@ blather
 - a single image says more than any amount of blather and jive. /一个图像要比无数废话和空话所表达的要多。
 
 blind
-- 1.The blind leading the blind瞎子给瞎子引路；外行指导外行。来自《圣经》的一句习语，《马太福音》15:14中有这样一句话：任凭他们吧！他们是瞎眼领路的；若是瞎子领瞎子，两个人都要掉在坑里。注意到随附图片中，右下角领头的盲人已经跌倒在一条沟里，而后边紧紧跟随的盲人还在紧紧跟随中......哎呦！ ​
-- 2.turn a blind eye 装作没看见。英国海军将领Horatio Nelson有一只眼睛是瞎的，在1801年的一场海战中，英军总指挥Hyde Parker爵士命令英军撤退，但Horatio Nelson认为应该继续进攻，所以他故意将单筒望远镜放在那只瞎眼前并说没看到命令撤退的旗语。We shall not turn a blindeye to poverty anymore. ​​​​
+- 来自 PIE \*bhel,照耀，闪光，词源同 black.指闪光，炫目，使看不见的。
+- The blind leading the blind瞎子给瞎子引路；外行指导外行。来自《圣经》的一句习语，《马太福音》15:14中有这样一句话：任凭他们吧！他们是瞎眼领路的；若是瞎子领瞎子，两个人都要掉在坑里。注意到随附图片中，右下角领头的盲人已经跌倒在一条沟里，而后边紧紧跟随的盲人还在紧紧跟随中......哎呦！ ​
+- turn a blind eye 装作没看见。英国海军将领Horatio Nelson有一只眼睛是瞎的，在1801年的一场海战中，英军总指挥Hyde Parker爵士命令英军撤退，但Horatio Nelson认为应该继续进攻，所以他故意将单筒望远镜放在那只瞎眼前并说没看到命令撤退的旗语。We shall not turn a blindeye to poverty anymore. ​​​​
 - word-blind
 - sunblind
 - stone-blind
@@ -810,7 +811,39 @@ blunder, black
 - synonymous：[dumbbell](dic://dumbbell), [dummy](dic://dummy), [dope](dic://dope), [booby](dic://booby), [pinhead](dic://pinhead)  
 - synonymous：[breast](dic://breast), [bosom](dic://bosom), [knocker](dic://knocker), [tit](dic://tit), [titty](dic://titty)
 
+blunt
+- a. 钝的; 坦率的  
+- v. 使变钝; 使减弱
+- 词源同 blind.原指眼盲，引申词义不敏感，心理迟钝，后指物体钝化。
+- [numb](dic://numb), [benumb](dic://benumb), [dull](dic://dull)
+- [dull](dic://dull)
+- [deaden](dic://deaden)
+- [candid](dic://candid), [forthright](dic://forthright), [frank](dic://frank), [free-spoken](dic://free-spoken), [outspoken](dic://outspoken), [plainspoken](dic://plainspoken), [point-blank](dic://point-blank), [straight-from-the-shoulder](dic://straight-from-the-shoulder)
+- [crude(a)](dic://crude(a)), [stark(a)](dic://stark(a))
+- _v._ [weaken](dic://weaken), [desensitize](dic://desensitize), [desensitise](dic://desensitise), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+- _adj._ [pointless](dic://pointless), [unpointed](dic://unpointed), [dull](dic://dull), [direct](dic://direct), [unconditional](dic://unconditional)
+- _n._ [pointed](dic://pointed), [sharp](dic://sharp), [indirect](dic://indirect), [conditional](dic://conditional)
+- **forceful**有说服力的;**sharp**急剧的;**sarcastic**讽刺的;**pointy**尖的;**combative**好战的;**condescending**降低身份的,屈尊的;**crass**粗鲁的;**frank**坦白的，直率的;**brash**仓促的，性急的;**confrontational**对抗;**snarky**恶声恶气的，咬人的;
+- That's the blunt fact /事实确实是那样。
+- the blunt tip of the leaf. /叶子的圆形末梢。
+-  a blunt statement of fact. /对事实直言不讳的陈述。
+-  a blunt-spoken man./笨嘴拙舌的人。
+- blunt the enemy's attack /挫敌锐气
+- blunting the criticism with a smile. /用微笑冲淡批评
+- The nib is blunted. /钢笔尖儿戳了。
+- he blunt, charmless climate of techno-land. /技术领域生硬而无吸引力的环境。
+- Their sensations are not blunted by the incessant abuse of the spur and the whip. /它们的感知并没有因鞭子的不停抽打而变得迟钝。
+- bluntness
+- bluntly
+- blunthook
+
 bluster
+- vt. 风狂吹, 咆哮, 汹涌  
+- vi. 咆哮着说出, 恐吓  
+- n. 狂风声, 巨浪声, 夸口, 大话
+- v. 咆哮，气势汹汹地说（但效果不大）；（风暴）呼啸；（雨）倾泻 
+- n. 气势汹汹的话
+- 词源同 bluff,吹嘘，恐吓。
 - [bravado](dic://bravado)
 - [braggadocio](dic://braggadocio), [rodomontade](dic://rodomontade), [rhodomontade](dic://rhodomontade)
 - [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow), [vaunt](dic://vaunt), [gasconade](dic://gasconade)
@@ -821,6 +854,13 @@ bluster
 - _[blustering](dic://blustering)_  adj. 狂风大作的；狂暴的; v. 风狂吹（bluster的ing形式）; 
 - _[bluster about](dic://bluster%20about)_  叫嚣
 - _[bluster oneself into anger](dic://bluster%20oneself%20into%20anger)_  v. 勃然大怒
+- you threaten and bluster, but won't carry it through. /你威胁也好，咆哮也好，但就是不能得逞。
+- The wind blustered around the house /狂风呼啸着吹过房屋周围。
+- a winter gale blustered against the sides of the house. /冬天的强风在房屋四壁呼啸。
+- The storm is blustering northeastward across the open Atlantic /这个风暴正朝着大西洋的东北方向进发。
+- They blustered about how they would beat us all up. /他们威胁说他们要如何痛打我们大家。
+- I mean, just more bluster from the north, or does it signify something substantive? /这只是朝鲜在虚张声势还是具有实质性意义的举动？
+- Strip away the **bluster**, and this was a fight about electoral advantage. /剥开空泛之谈，这是一场选举利益之争，如今胜负未定。
 - blustery
 - blusterous
 	- _adj._ [stormy](dic://stormy)
@@ -849,6 +889,33 @@ blow
 - overblown 
 	- **exaggerated**言过其辞的;**overdone**把…煮得过久;**hyperbole**夸张的语句;**ludicrous**荒唐可笑的,滑稽可笑的;**unfounded**无事实根据的;**over-the-top**过多的;**laughable**荒唐可笑的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**unwarranted**没有根据的, 无正当理由的;**disingenuous**不真诚的;
 - etc.. 
+
+boast
+- n. 吹牛  
+- vi. 吹牛, 自夸  
+- vt. 夸口说, 自恃有
+- 来自 PIE*bheu,膨胀，鼓起，吹，词源同 bucket,圆木桶。
+- [boasting](dic://boasting), [self-praise](dic://self-praise), [jactitation](dic://jactitation)
+- [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow), [bluster](dic://bluster), [vaunt](dic://vaunt), [gasconade](dic://gasconade)
+- [sport](dic://sport), [feature](dic://feature)
+- _n._ [speech act](dic://speech act)
+- v._ [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize), [hyerbolise](dic://hyerbolise), [magnify](dic://magnify), [amplify](dic://amplify)
+- [boast](dic://boast) 普通用词，指对自己所做的事，自己的长处、财富以及家庭等的夸耀，常含言过其实的意味。  
+- [brag](dic://brag) 非正式用词，其夸耀和吹嘘意味强于boast，到了过分夸大，有时令人讨厌的地步。  
+- [crow](dic://crow) 多指大声吵嚷地吹嘘，夸耀自己做某事比他人做得好。  
+- [pride](dic://pride) 与boast的意义较接近，指炫耀、夸口，自鸣得意，常与反身代词连用。
+- **brag**吹牛，自夸;**impressive**给人印象深刻的, 感人的;**enviable**值得羡慕的;**flaunt**炫耀;**revel**狂欢;**proclaim**声明;**touting**兜售;**proud**自豪的;**proudly**傲慢地，自负地;**remarkable**异常的;**tout**招徕;
+- _boast of_ 吹牛，自夸
+- _boast about_ 自夸，吹嘘
+- the tropical island boasts an abundance of wildlife. /这个热带岛屿上有大量的野生动植物。
+- this ice cream boasts American parentage. /这种冰淇淋的风味源自美国。
+- He boasts too much. /他大话说得太多。
+- The library boasts first edition of Shakespeare. /这个图书馆以藏有初版的莎士比亚集而自豪。
+- the hotel boasts high standards of comfort. /那家宾馆提供高标准的服务使旅客舒适满意。
+- a company boasting the pole position in the communications business. /一个在通讯产业中占据主导地位的公司。
+- One given to loud, empty boasting; a bragger. /吹牛的人说话大声而空洞的人；
+- boastful
+- boaster
 
 botch
 - **blunder**的错误;**shoddy**劣质的;**fail**失败，不及格;**redo**重做;**inept**不适当的;**fiasco**惨败;**mess**混乱;**horribly**可怕地;**disastrous**灾难性的;**sloppy**草率的;**debacle**崩溃;
@@ -6708,6 +6775,17 @@ Irene
 - _[irenic irenical pacifistic](dic://irenic%20irenical%20pacifistic)_ 和平主义的
 
 irk
+- 来自中古英语 irken,厌倦的，厌恶的，可能来自 PIE*werg,工作，词源同 work,organ.词义激怒可能是受 ire 的影响。
+- vt. 使厌倦, 使苦恼
+- [gall](dic://gall)
+- _v._ [anger](dic://anger)
+- **annoy**骚扰;**irritate**激怒;**alienate**使疏远，离间;**annoyed**恼怒的;**irritating**气人的, 使人不愉快的;**frustrate**使不成功, 挫败, 阻止;**annoying**恼人的;**offend**冒犯;**ire**忿怒;**seem**似乎;**annoyance**烦恼;
+- It irks us to wait for people who are late 等候迟到的人使我们厌烦。
+-  /it irks her to think of the runaround she received. /一想到对她的推诿拖拉她就有气。
+- It irks me to stay at home all day long. /一天到晚呆在家里使我感到厌烦。
+- Librarians are irked by this, but not yet anxious. /图书管理员因此恼羞成怒，但并不焦虑。
+- " And are you not affected at all? " I asked, irked. " By my presence? " /“你就不受任何影响吗？”我苦恼地问道。“对我的存在？”
+- Ireland's 12.5% rate continues to **irk** fellow euro-zone members. /爱尔兰12.5%的企业税税率一直困扰着欧元区的其他成员。
 - irksome
 	- [boring](dic://boring), [deadening](dic://deadening), [dull](dic://dull), [ho-hum](dic://ho-hum), [slow](dic://slow), [tedious](dic://tedious), [tiresome](dic://tiresome), [wearisome](dic://wearisome)
 	- [uninteresting](dic://uninteresting)
@@ -7849,29 +7927,7 @@ martinet
 - - They discover that the new teacher is a martinet /他们发现新来的老师非常严格。
 
 match
-- wrestling-match
-- unmatch
-	- unmatched
-	- unmatchable
-- sparring-match
-	- n. 示范性拳赛, 争论
-- rematch
-- overmatch
-- outmatch
-- mismatch
-	- mismatching
-- matchwood
-- matchup
-- matchstick
-- matchmaking, matchmaker
-- matchlock
-- matchless
-- matchbox, matchbook
-- matchable
-- ill-matched
-- cross-match, cross-matching
-- automatch
-- etc.. (todo)
+- meug-
 
 maudlin
 - maudlin（多愁善感的）：圣经中爱掉眼泪的女人抹大拉  
@@ -7927,6 +7983,9 @@ meager
 - [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
 - [scanty](dic://scanty), [spare](dic://spare), [exiguous](dic://exiguous), [hardscrabble](dic://hardscrabble), [marginal](dic://marginal)
 - **paltry**不足取的;**scant**不足的;**pitiful**可怜的，令人同情的;**modest**谦虚的，谦逊的;**feeble**微弱的，无力的;**sizable**相当大的;**minuscule**小写字;**decent**得体的;**hefty**重的;**dismal**凄凉的，忧郁的;**mere**仅仅的;
+
+meek
+- meug-
 
 meet (condign)
 - unmeet
@@ -8056,25 +8115,7 @@ mote
 	- **eclectic**兼收并蓄的;**assorted**混杂的;**bunch**串;**posse**一队;**assortment**分类;**assemblage**聚集;**vast**巨大的;**diverse**不同的;**cadre**干部;**crew**全体人员，全体船员;**veritable**真正的，名副其实的;
 
 muck
-- n. 垃圾, 淤泥, 令人厌恶的事物, 粪肥  vt. 施肥, 弄脏, 弄糟, 糊弄; 游手好闲; 合伙
-- 来自古英语 muk,牛粪，粪肥，来自 PIE*smeug,meug,黏的，滑的，词源同 mucus,muggy.
-- [sludge](dic://sludge), [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [ooze](dic://ooze)
-- [droppings](dic://droppings), [dung](dic://dung)
-- [manure](dic://manure)
-- [mire](dic://mire), [mud](dic://mud), [muck up](dic://muck up)
-- _n._ [substance](dic://substance), [matter](dic://matter), [fecal matter](dic://fecal matter), [faecal matter](dic://faecal matter), [feces](dic://feces), [faeces](dic://faeces), [BM](dic://BM)
-- _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw), [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
-- **mud**泥;**muddy**泥泞的;**wading**涉水的;**mess**混乱;**bog**沼泽;**wade**跋涉;**dirt**污垢，泥土;**filth**猥亵;**puddles**划桨留下的水旋涡;**manure**施肥于;**puddle**水坑，泥潭
-- I got there in a muck sweat /我浑身大汗到了那里。
-- oily muck on the floor of a garage /汽车库地上的油垢
-- I'll just clean the muck off the windscreen. /我只擦掉挡风玻璃上的污垢。
-- mucky
-- muckworm
-- muckraker
-- muckrate
-- muckhill
-- muckheap
-- mucker
+- meug-
 
 mud
 - [clay](dic://clay)
@@ -8136,6 +8177,8 @@ mud
 		- **incoherent**不连贯的;**misguided**由错误思想指引的,不明智的;**muddled**混乱的;**nonsensical**无意义的;**deluded**轻信的;**inept**不适当的;**clueless**无线索的;**naive**天真的，幼稚的;**incompetent**无能力的;**cynical**愤世嫉俗的;**well-meaning**善意的;
 - mud-wall
 
+muggy
+- meug-
 
 
 ## N
@@ -8590,11 +8633,10 @@ own
 	- People sometimes make mistakes, but the important thing is that they **own** **up** to what they've done. /人们有时会犯错，但重要的是承认自己所做的事情。
 - No company online should **own** **you**. /没有一家在线公司能占有你的数据。
 - I **own** **you** an apology /我欠你一个道歉。
-- You poor sucker, I'll practically own you. .笨蛋，你注定为我做牛做马。
+- You poor sucker, I'll practically own you /笨蛋，你注定为我做牛做马。
 - The things you own end up owning you /“你拥有的东西最终会拥有你。”
 - _[It's enough to own you](dic://It%27s%20enough%20to%20own%20you)_ 这足以给自己你；它的不足以自己你；够了
 - _[But you own the place](dic://But%20you%20own%20the%20place)_ 但是我对你；但你仍占有那位置；但是你拥有这个地方；但是你属于这里
-- 
 - unowned
 - owner
 	- shipowner
@@ -9253,6 +9295,50 @@ pry
 - pryer (prayer)
 	- n. 窥探者；好打听的人
 - prier
+
+pull
+- vt. 拉, 拖, 拔, 牵, 撕开, 吸引  
+- vi. 拉, 拖, 拔, 有吸引力  
+- n. 拉, 拖, 拔, 拉力, 牵引力, 划船, 吸引
+- 来自古英语 pullian,拉，拔羊毛，词源不详。可能来自 PIE*pil,拔，羊毛，毛发，词源同pluck,fleece.
+- pull the strings在幕后操纵；暗中指使。没错，是从木偶来的。这个习语出现于十九世纪下半叶，最初是指操纵木偶，因为操纵木偶的人可以通过pull（拉）the strings（线绳）让木偶按照他的意志行事。President Medvedev may prove to be a double ofPutin who will continue to pull the strings. ​​​​
+- pull ahead
+	- 领先：在比赛、竞争、比较等中取得领先地位。 
+	- 超过：在选举民意调查中超过其他候选人。
+	-  [gain](dic://gain), [advance](dic://advance), [win](dic://win), [make headway](dic://make headway), [get ahead](dic://get ahead), [gain ground](dic://gain ground)
+	- And that helped him pull ahead in the Electoral College.  /这帮助他在总统选举团的投票中领先。
+	- One option is going to start pulling ahead and without realizing it. /一种意向在不知不觉中开始占据优势地位。
+	- Front runner Donald Trump and Hillary Clinton are pulling ahead there and looking to solidify their leads. /希拉里和特朗普领先，且优势明显。
+	- Cell phones, an irresistible force, will soon pull ahead /手机是一股不可阻挡的力量，其用户将很快超过固定电话用户。
+- wire-pull
+- push-pull
+	- adj. 推挽式的，靠推拉运转的 
+	- n. 推挽式的连接
+	- Or they're freaked out by their own feelings. There's a lot of push pull out there. A lot of mixed messages. /或是害怕自己的感觉。错综复杂，各种因素都有。
+	- **Push-Pull** has a tension loop structure. /推挽式是一种有张力拉伸的环状结构。
+- pully-hauly
+- pully-haul
+- pullover
+- pullout
+- puller-in
+- puller
+- puldown
+- pullback
+	- [tieback](dic://tieback)
+	- _n._ [holding device](dic://holding device), [withdrawal](dic://withdrawal)
+	- **bearish**粗暴的;**bullish**看涨的;**near-term**近期;**volatility**挥发性;**equities**权益;**stocks**股票;**AAPL**阵列处理语言;**reversal**逆转;**lows**低频;**breakout**突围;**uptick**报升;
+	- a pullback for heavy draperies. /拉重幔帐的挂钩
+	- wait for pullbacks to buy international stocks /等待降价后购买国际股份。
+	- The inflation-driven pullback in advertising spending continues to wreak havoc for tech companies /受通胀影响，广告支出回落，继续给科技公司造成严重破坏。
+	- Meanwhile, 28 of the 41 sectors surveyed saw their profit growth improve or pullback soften in March. /与此同时，在接受调查的41个行业中，有28个行业的利润增长在3月份有所改善或出现回落。
+	- Move came a day after Russia announced a partial troop pullback from its border with Ukraine. /一天前，俄罗斯宣布从乌克兰边境部分撤军。
+- pull-up
+- pull-through
+- pull-on
+- pull-in
+- leggy-pull
+- leg-pull
+- bellpull
 
 pulpit
 - [dais](dic://dais), [podium](dic://podium), [rostrum](dic://rostrum), [ambo](dic://ambo), [stump](dic://stump), [soapbox](dic://soapbox)
@@ -10762,6 +10848,54 @@ secular
 - secularism
 - secularity
 
+seam
+- 来自古英语 seam,缝补，连接，来自 Proto-Germanic*saumaz,缝补，来自 PIE*syu,缝补，词源同 sew,suture.引申诸相关词义。
+- n. 缝合线, 衔接口, 接缝, 线缝, 伤疤  
+- vt. 缝合, 接合, 焊合, 使留下伤痕  
+- vi. 裂开, 发生裂痕
+- [wrinkle](dic://wrinkle), [furrow](dic://furrow), [crease](dic://crease), [crinkle](dic://crinkle), [line](dic://line)
+- [bed](dic://bed)
+- _n._ [joint](dic://joint), [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [stratum](dic://stratum)
+- v._ [join](dic://join), [bring together](dic://bring together)
+- **zipper**拉链;**hem**褶边;**sew**缝合，缝上;**stitch**针脚，线迹;**stitching**用U字钉钉箱,缝纫;**waistband**腰带;**pleats**活褶;**bodice**女服的紧身上衣;**sewed**缝;**zippers**黄昏巡逻;**crease**折痕;
+- _coal seam_ 煤层
+- _welding seam_ 焊缝；对接焊缝
+- a minable seam of gold. /一段可开采的金矿脉
+- the track cleaves a seam through corn. /留下的痕迹在玉米中形成一道凹痕。
+- men in middle age have seamed faces /中年男人的脸上有皱纹。
+- stitch a plain seam with right sides together. /用平针把两个正面相对缝合起来。
+- The Main Chromitite Seam and the Merensky Reef do not outcrop well. /主铬铁岩矿层及麦仑斯基矿层出露不好。
+- The seams of the boat must be filled in if they leak. /如果船板接缝漏水就一定要填补好。
+- she sewed the seams and hemmed the border. /她缝好接缝和褶边。
+- unseam
+	- vt. 拆……的线缝；将……拆开
+- seamy
+	-  seam,缝补，缝隙，-y,形容词后缀。比喻用法，把难看的一面缝在里面。词义演变比较 seedy.
+	- a. 露出线缝的, 丑恶的
+	- [seedy](dic://seedy), [sleazy](dic://sleazy), [sordid](dic://sordid), [squalid](dic://squalid)
+	- _adj._ [seamed](dic://seamed), [disreputable](dic://disreputable)
+	- _n._ [seamless](dic://seamless), [reputable](dic://reputable)
+	- **sordid**肮脏的;**seedy**多种子的;**sleazy**质地薄的;**gritty**有砂砾的;**scandalous**令人反感的;**murky**黑暗的;**underworld**黑社会;**shadowy**有阴影的;**shady**成荫的;**glamorous**富有魅力的;**sinister**阴险的;
+	- _the seamy side_ 阴暗面
+	- the vivisection of America's seamy underbelly. /对美国丑恶、阴暗面的尖锐细致剖析。
+	- It’s well known that the world of entertainment has its seamy side: drug abuse, corruption, alcoholism … /众所周知，演艺界有其肮脏的一面：滥用毒品、堕落腐化、酗酒等等。
+	- I saw him at the Stand, which is this sort of seamy comedy club in Manhattan /我在看台看到他， 那是曼哈顿那种阴暗的喜剧俱乐部。
+	- Nobody discovered her sealed seamy side before then. /直到那时人们才发现她的未知的阴暗面。
+	- When she went home, it was these places she would discuss with her neighbours, not some seamy place where men were flung against walls. /等她回到家里，她要跟邻居聊的是这些地方，而不是男人被摔到墙上的什么乌七八糟的地方。
+- seamwelding
+- seamster
+	- n 学期；半年
+	- [tailor](dic://tailor), [sartor](dic://sartor)
+	- _n._ [garmentmaker](dic://garmentmaker), [garment-worker](dic://garment-worker), [garment worker](dic://garment worker)
+	- **carpenter**木工, 木匠;**sewing**缝纫;**sew**缝合，缝上;**craftsman**工匠;**baker**面包师;**knitter**编织者;**garment**衣服，服装;**blacksmith**铁匠;**electrician**电工;
+	- seamstress
+- seamless
+- inseam
+	- n. 内接缝
+	- No problem! Now for your pants, let me just measure your waist and the inseam. /没问题，现在深呼吸，我来量下你的腰和裤腿内缝。
+- deseaming
+
+
 seem
 - sem-
 
@@ -10777,6 +10911,23 @@ sell
 
 set
 - etc..
+
+sew
+- [run up](dic://run up), [sew together](dic://sew together), [stitch](dic://stitch)
+- [tailor](dic://tailor), [tailor-make](dic://tailor-make)
+- _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [fashion](dic://fashion), [forge](dic://forge)
+- **stitch**针脚，线迹;**quilting**被上缝花纹的缝法;**applique**贴花;**quilt**棉被;**crochet**钩边;**knit**编织;**fabric**织物;**stitching**用U字钉钉箱,缝纫;**crocheting**钩编;**embroidery**刺绣品;**quilts**被褥;
+- _sew up_ 缝合，缝入；确保…的成功
+- _sew on_ v. 缝上
+- she could sew the veil on properly in the morning. /她上午就可以缝上面纱。
+- Sew the split seams of the shirt./把衬衣上裂开的线缝缝上。
+- she sewed the seams and hemmed the border. /她缝好接缝和褶边。
+- All of our hospitals are bursting at the seams; we have to build new ones urgently. /所有的医院都人满为患,我们迫切需要建几所新的。
+- Everything is coming apart at the seams. /一切都在分崩离析
+- sewing
+- oversew
+- oversewn
+- oversewed
 
 shag
 - [fuck](dic://fuck), [fucking](dic://fucking), [screw](dic://screw), [screwing](dic://screwing), [ass](dic://ass), [nooky](dic://nooky), [nookie](dic://nookie), [piece of ass](dic://piece of ass), [piece of tail](dic://piece of tail), [roll in the hay](dic://roll in the hay), [shtup](dic://shtup)
@@ -11174,6 +11325,41 @@ simmer
  - 改写自 simperen,煨，炖，可能来自拟声词，模仿水轻微沸腾时发出的汩汩声。引申比喻义怒火郁积，酝酿等。
  - simmer with
  - seethe over
+
+sit
+- sit above the salt坐上席；受尊敬。盐在过去还是比较金贵的，所以欧洲人宴请宾客时，会请贵宾坐在紧挨着主人的位置，因为餐桌多为长方形，所以贵宾的位置相当于sit above the salt（餐桌上盛盐的罐子），而其他客人则是sit below the salt。They allstood up and asked Peter to sit above the salt. ​​​​
+- vi. 坐, 就座, 坐落  
+- vt. 使就座, 骑  
+- n. 坐, 衣服合身
+- sit out
+	- 不参加：指在某项活动中选择不参与。
+	- I'm sitting it out this year. /今年我不打算采取行动
+	- Next time I'm sitting out the cyber apocalypse. /下次 我离" 网络末日天启" 远点儿。
+	- Why don't you sit this one out, romeo? /这事你还是别管了吧，大众情人。
+- situp
+- sitting
+	- sitting-room
+	- n. 起居室
+- sitter
+	- sitter-in
+	- fence-sitter
+	- baby-sitter
+	- aisle-sitter
+- sit-upon
+- sit-in
+- sit-down
+	- _n._ [strike](dic://strike), [work stoppage](dic://work stoppage)
+	- _v._ [change posture](dic://change posture), [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
+	- _n._ [arise](dic://arise), [rise](dic://rise), [uprise](dic://uprise), [get up](dic://get up), [stand up](dic://stand up)
+	- _[sit down on](dic://sit%20down%20on)_  反对
+	- _[sit down to](dic://sit%20down%20to)_  vt. 甘心忍受
+	- _[sit down before](dic://sit%20down%20before)_  v. 开始围攻
+	- _[sit down under](dic://sit%20down%20under)_  vt. 逆来顺受
+	- _[sit down to dinner](dic://sit%20down%20to%20dinner)_  入席
+	- sit-downer
+- outsit
+- bedsitter
+- babysit
 
 sizz
 - sizzle
@@ -13212,8 +13398,8 @@ taunt (taut, daunt)
 - n. 嘲弄；讥讽
 - vt. 逗弄；奚落
 - adj. 很高的
--  [twit](dic://twit), [taunting](dic://taunting)s
--  [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [twit](dic://twit), [rally](dic://rally), [ride](dic://ride)
+- [twit](dic://twit), [taunting](dic://taunting)
+- [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [twit](dic://twit), [rally](dic://rally), [ride](dic://ride)
 - _n._ [aggravation](dic://aggravation), [irritation](dic://irritation), [provocation](dic://provocation)
 - _v._ [mock](dic://mock), [bemock](dic://bemock)
 - **harass**使烦恼;**tease**取笑;**mocking**嘲弄的;**humiliate**蒙羞;**annoy**骚扰;**teasing**戏弄;**ridicule**嘲笑;**torment**折磨，使痛苦;**retaliate**报复, 反击;**intimidate**恐吓, 威胁;**insult**侮辱;
@@ -13644,6 +13830,32 @@ tosh
 totemic
 - **totem**图腾;**mythic**神话的;**mythological**神话的;**archetypal**原型的;**symbolic**使用符号的;**sculptural**雕刻的;**mythical**神话的;**primal**最初的;**tribal**部落的;**kinship**亲属关系，家属关系;**emblematic**象征的;
 
+tout (taunt)
+- vi. 招徕顾客, 兜售物品  
+- vt. 招徕, 刺探...情报  
+- n. 兜售者, 侦查者
+- 原为窃贼行话，来自中古英语 tuten,偷窥，偷看，放风。现词义可能改写自 toot,发出嘟嘟声，鸣喇叭，引申词义大吹法螺，后用于指吹嘘，兜售，倒卖门票等。
+- [ticket tout](dic://ticket tout)
+- [touter](dic://touter)
+- [tipster](dic://tipster)
+- [boast](dic://boast), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow), [bluster](dic://bluster), [vaunt](dic://vaunt), [gasconade](dic://gasconade)
+- _n._ [scalper](dic://scalper), [advertiser](dic://advertiser), [advertizer](dic://advertizer), [adman](dic://adman), [adviser](dic://adviser), [advisor](dic://advisor), [consultant](dic://consultant)
+- _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge), [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize)
+- **vie**竞争;**proclaim**声明;**boast**自吹自擂, 自夸的话;**denounce**谴责;**woo**寻求支持;**sans**<古>没有;**advertise**公布, 宣传;**brag**吹牛，自夸;
+- _[ticket tout](dic://ticket%20tout)_  票贩子
+- _[tout ensemble](dic://tout%20ensemble)_  全体效果；全体一起；概观（法语）
+- _[tout court](dic://tout%20court)_  简短地，简单的
+- _[tout le monde](dic://tout%20le%20monde)_  全世界
+- _[be touted as](dic://be%20touted%20as)_  被吹捧为
+- _[tout a fait](dic://tout%20a%20fait)_  完全
+- touts sell the tickets at a premium. /票贩子高价卖票。
+- he saw it as an illusion, tout court /他把它当作幻觉，如此而已。
+- she left tout de suite. /她马上离开了。
+- we were fleeced by a tout for tickets. /我们被票贩子狠宰了一刀。
+- But what officials are really touting about this airport is the technology. /但官方以其内部高科技的应用为亮点进行宣传。
+- Well, active cooldowns have been touted to improve performance in subsequent training sessions. /有人说，训练后的主动冷身有助于提高运动表现。
+- Technologies in **tout** le monde publications above 70% to announce in English /全世界的科技出版物有70%以上是用英语发表。
+
 tow
 - deuk-
 
@@ -14028,6 +14240,51 @@ waggon
 - waggonage
 	- _n._ 〈主英〉货车运输费
 
+walk
+- 来自 PIE*wel,转，摇摆，词源同 Volvo,voluble.引申词义步行，蛇行。-k,加强语音。
+- n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所  
+- vi. 走路, 步行, 处世  
+- vt. 走过, 遛, 使走, 护送...走
+- walk (something) back
+	- 收回：从先前表达的观点或立场中撤回或距离自己。
+	- And, Ayesha, she had to walk that back and walk it back and walk it back. /阿伊莎，她后来不得不收回她的话。
+	- And then, since then, he's made several statements that walked that back.  /然后，从那时起，他发表了几份声明，走回来。
+- walky-talky
+- walkway
+- walkthrough
+- walkover
+- walkout
+- walking
+- walkie-talkie
+- walkie-lookie
+- walker
+- walkaway
+- walkabout
+- walkable
+- walk-up
+- walk-on
+- streetwalking
+- streetwalker
+- spacewalk
+- sleepwalk
+- sidewalk
+- shopwalker
+- sheepwalk
+- ropewalking
+- ropewalker
+- overwalk
+- outwalk
+- nightwalker
+- milk-walk
+- jaywalk
+- floorwalker
+- crosswalk
+- catwalk
+- cakewalk
+- bywalk
+- bushwalking
+- boardwalk
+
 wank
 - 1. slang for masturbation
 	- [jacking off](dic://jacking off), [jerking off](dic://jerking off), [hand job](dic://hand job)
@@ -14403,10 +14660,18 @@ while
 	- Why don't I just let you browse awhile? Yeah. Thanks. 
 
 whist
-- 1. a card game for four players who form two partnerships; a pack of 52 cards is dealt and each side scores one point for each trick it takes in excess of six
+- 源不确定，一种说法来自 whisk 的拼写变体，搅动，洗牌，另一种说法来自古词 whist,安静，拟声词，嘘声。
+- a card game for four players who form two partnerships; a pack of 52 cards is dealt and each side scores one point for each trick it takes in excess of six
 	- [long whist](dic://long whist), [short whist](dic://short whist)
+- interj. 嘘, 肃静 (harsh)
+- a. 无声的, 安静的  
+- n. 惠斯特牌戏
 - _n._ [card game](dic://card game), [cards](dic://cards)
 - **whilst**当…的时候;**bingo**宾戈游戏;**playing**比赛
+- Whenever she was at the hotel there was a crowd of whist players in her suite /只要她待在饭店里，总有一帮牌友聚集地她那里。
+- You know Scarlett was giving a big whist party yesterday afternoon with all those common ordinary women there. /你知道思嘉昨天下午举办了一个桥牌会，所有那些下贱的女人全去了。
+- wistful
+	- wen- (1)
 
 wield
 - wieldy
@@ -14464,17 +14729,8 @@ whisper/
 - **softly**温柔地;**muffled**听不清的;**hush**安静;**scream**尖叫;**voice**声音;**silence**寂静;**groan**呻吟;**shout**呼喊;**hear**听到, 听见;**echoing**回音;**roar**吼;
 - _in a whisper_ 低声地，悄声地
 
-wistful1
-- 1 - 不确定词源。可能来自不再使用的词 wistly,关注的，来自 whist,安静，见 whist,惠斯特纸牌游戏，词义受 wishful 影响。
-- [pensive](dic://pensive)
-- _adj._ [sad](dic://sad)
-- _n._ [glad](dic://glad)
-- **melancholy**忧郁, 悲哀;**nostalgic**对往事怀恋的, 怀旧的;**dreamy**梦想的;**wry**面部肌肉扭曲的;**somber**昏暗的;**bittersweet**又苦又甜的;**poignant**尖锐的;**introspective**好反省的;**longing**渴望，热望;**sentimental**伤感的, 多愁善感的;**soulful**感情上的;
-- _[Wistful Memory](dic://Wistful%20Memory)_ 哀思回忆
-- _[Wistful Visions](dic://Wistful%20Visions)_ 渴望幻想
-- _[Wistful Thinking](dic://Wistful%20Thinking)_ 渴求思绪
-- _[a wistful expression](dic://a%20wistful%20expression)_ 渴望的表情
-- _[give a wistful look](dic://give%20a%20wistful%20look)_ 看着眼馋
+wistful
+- wen- (1)
 
 wonder
 - wonderous

@@ -11,7 +11,7 @@
 
 
 ### Learning Resources
-【处理器调度 (RR, MLFQ 和 CFS；优先级翻转；多处理器调度) [南京大学2022操作系统-P20]】 https://www.bilibili.com/video/BV12a411Y7uW/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬【处理器调度 (RR, MLFQ 和 CFS；优先级翻转；多处理器调度) [南京大学2022操作系统-P20]】 https://www.bilibili.com/video/BV12a411Y7uW/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

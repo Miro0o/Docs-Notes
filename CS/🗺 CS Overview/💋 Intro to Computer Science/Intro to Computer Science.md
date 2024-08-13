@@ -48,11 +48,11 @@ The fundamental concern of computer science is determining what can and cannot b
 ![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
 <small><a>https://en.wikipedia.org/wiki/Computer_science#External_links</a></small>
 
-![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
-<small>Computer System & Computer Science Overview</small>
-
 ![](../../../../../Assets/Pics/Screenshot%202023-05-08%20at%204.26.42%20PM.png)
 <small>What can computers do?</small>
+
+![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+<small>Computer System & Computer Science Overview</small>
 
 
 ### CS Fields
@@ -68,6 +68,18 @@ As a discipline, computer science spans a range of topics from theoretical studi
 ↗ [Artificial Intelligence](../../Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+
+
+### CS Questions
+1. What is computing? 
+2. what is a computer and how is it designed & constructed? (hardware, software, protocols)
+	1. What happened during computer booting? /How does computer start?
+	2. What happened after computer booting? /How does OS works?
+	3. What happened when a program is running? /How software/programs is created and run?
+	4. What happened when a network request is sent and a response is received? /How does internet works?
+3. what can computer do and how to improve it?
+4. what is information system?
+5. what is cyberspace? what is cybersecurity?
 
 
 

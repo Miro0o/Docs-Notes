@@ -11,8 +11,10 @@
 ↗ [Interrupts (Software & Hardware)](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
 
 
-### Other Resources
+### Learning Resources
 📄 https://en.wikipedia.org/wiki/Operating_system
+
+🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

@@ -259,7 +259,6 @@ Hacker News is a social news website focusing on computer science and entreprene
 🔈 https://hnrss.github.io/#activity-parameters
 hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
 
-
 #### Enterprise's Updates
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 #### CS/IT Communities & Forums
@@ -356,7 +355,8 @@ Lots of fun & illustrative videos the reveal the inner mechanism of computer & r
 [鱼皮编程导航知识星球](https://yupi.icu)
 
 ---
-[javatpoint](https://www.javatpoint.com)
+👨‍💻 https://www.javatpoint.com
+Lots tutorials about programming & web development
 
 ---
 [ochicken Libiary ](https://ochicken.top/Library/)
@@ -403,6 +403,10 @@ Welcome to the CertBros Youtube channel! Not your average IT training Get involv
 ---
 📂 https://www.howtogeek.com
 very useful site about various topics in CS!
+
+---
+🤔 👨‍💻 https://www.hackingnote.com
+A place to dump some learning notes.
 
 
 ### Specific Technical Knowledge

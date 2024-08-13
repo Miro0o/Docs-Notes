@@ -120,6 +120,7 @@ https://sunilkanzar.wordpress.com/2017/11/11/wrapper-vs-primitive/
 
 
 ## 👉 lookup installed JDK
+#OpenJDK #OracleJDK #java 
 
 ... turned out i forgot to export JDK's path to `$PATH` . 
 

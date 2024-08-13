@@ -5,6 +5,12 @@
 
 
 ## Res
+### Related Topics
+↗ [Interrupts (Software & Hardware)](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
+
+
+### Learning Resources
+🎬【处理器调度 (RR, MLFQ 和 CFS；优先级翻转；多处理器调度) [南京大学2022操作系统-P20]】 https://www.bilibili.com/video/BV12a411Y7uW/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
@@ -14,7 +20,6 @@
 
 
 ## ⭐️ 3 Types in Computer Resource (CPU + Memory) Scheduling
-
 ![|400](../../../../../../Assets/Pics/Screenshot%202023-05-18%20at%202.16.49%20PM.png)
 
 > 假设一个进程就是一个赛季。球员就是可用资源。
@@ -58,11 +63,11 @@ Scheduling affects the performance of the system because it determines which pro
 
 ## Computer Resource Scheduling Basics
 ### Uniprocessor Scheduling
-↗ [Uniprocessor Scheduling](Uniprocessor%20Scheduling/Uniprocessor%20Scheduling.md)
+↗ [Uniprocessor Scheduling](Process%20Scheduling/Uniprocessor%20Scheduling/Uniprocessor%20Scheduling.md)
 
 
 ### Multiprocessor & Multicore Scheduling
-↗ [Multiprocessor & Multicore Scheduling](Multiprocessor%20&%20Multicore%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling.md)
+↗ [Multiprocessor & Multicore Scheduling](Process%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling.md)
 
 
 

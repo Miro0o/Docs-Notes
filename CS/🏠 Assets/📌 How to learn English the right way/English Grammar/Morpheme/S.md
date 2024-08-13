@@ -335,6 +335,43 @@
 		5. _[sanctum sanctorum](dic://sanctum%20sanctorum)_  至圣所
 
 
+### sal-
+#### sal- (1)
+1. **hal-, halo-** = salt, 表示“盐，卤”。源自希腊语 hals (词干 hal-) "salt, sea."
+	1. halcyon
+	2. halide
+	3. halite
+	4. halogen
+	5. haloid
+	6. halophile
+	7. trihalomethane
+2. **sal-, salt-** = salt, 表示“盐”，来自拉丁语。源自拉丁语 sal "salt."
+	1. sal
+	2. desalinate
+	3. desalinize
+	4. salad
+		1. word salad
+			1. - 言语或文字表达的混乱无意义：一种无意义、极度混乱的言语或文字表达，通常表现为精神障碍（如精神分裂症）的症状。 
+			2. 空话连篇：一串空洞、不连贯、无意义或荒谬的词语或评论。
+			3. Word experts say that in the past, word salad described difficult-to-understand spoken language from people with illnesses. However, in recent years, the expression word salad has come to simply mean difficult-to-understand language. /词汇专家表示，在过去，语词杂拌指的是病人难以理解的口语。然而，近些年来，语词杂拌这个词只表示难以理解的语言。
+			4. She is the editor of HKU Writing: An Anthology (March 2006), a co-editor of **Word** **Salad**Poetry Magazine and a co-founder of Cha: An Asian Literary Journal /她还担任美国《字沙律诗刊》编辑并与友人合办《茶：亚洲文学季刊》。
+	5. salary
+	6. saliferous
+	7. salification
+	8. salify
+	9. salina
+	10. saline
+	11. salinometer
+	12. salt
+	13. saltern
+	14. saltine
+	15. sausage
+	16. slaw
+3. salami
+4. sauce
+5. souse
+
+
 ### san-,sanit- = healthy, 表示“健康的”。
 1. sane
 	9. _adj._ [lucid](dic://lucid), [rational](dic://rational)
@@ -7445,20 +7482,122 @@
 		1. n. 排汗
 2. **sud-** = sweat, 表示“汗”。源自拉丁语 sudor "sweat," sudare "to sweat."
 	1. sudation
-		1. [perspiration](dic://perspiration), [sweating](dic://sweating), [diaphoresis](dic://diaphoresis), [hidrosis](dic://hidrosis)
-		2. _n._ [bodily process](dic://bodily process), [body process](dic://body process), [bodily function](dic://bodily function), [activity](dic://activity)
-		3. _[perspire sudation sweat sweatiness](dic://perspire%20sudation%20sweat%20sweatiness)_ 出汗
-		4. sudatory
-	2. transude
-		1.  [exude](dic://exude), [exudate](dic://exudate), [ooze out](dic://ooze out), [ooze](dic://ooze)
-		2. _v._ [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
-		3. 1. vt. 使渗透；使排出 vi. 渗漏，渗出
-	3. exude
-		1. ex-出 + ud-=sud-汗 + -e → 出汗 → 渗出。
-		2.  [exudate](dic://exudate), [transude](dic://transude), [ooze out](dic://ooze out), [ooze](dic://ooze)
-		3. _v._ [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass), [express](dic://express), [show](dic://show), [evince](dic://evince)
-		4. **radiate**传播;**embody**体现，使具体化;**evoke**引起，唤起;**aura**气氛;**swagger**吓唬;**elegance**典雅;**charisma**非凡的领导力;**poise**平衡;**epitome**缩影;**infuse**使充满;**sensuality**喜爱感官享受;
+		1. sud-汗 + -ation表名词
+		2. [perspiration](dic://perspiration), [sweating](dic://sweating), [diaphoresis](dic://diaphoresis), [hidrosis](dic://hidrosis)
+		3. _n._ [bodily process](dic://bodily process), [body process](dic://body process), [bodily function](dic://bodily function), [activity](dic://activity)
+		4. _[perspire sudation sweat sweatiness](dic://perspire%20sudation%20sweat%20sweatiness)_ 出汗
+		5. sudatory
+	3. transude
+		1. tran-穿过 + sude-汗
+		2. vt. 使渗透；使排出 vi. 渗漏，渗出
+		3.  [exude](dic://exude), [exudate](dic://exudate), [ooze out](dic://ooze out), [ooze](dic://ooze)
+		4. _v._ [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
+	5. exude
+		1. v. (使)流出, (使)渗出
+		2. ex-出 + ud-=sud-汗 + -e → 出汗 → 渗出。
+		3.  [exudate](dic://exudate), [transude](dic://transude), [ooze out](dic://ooze out), [ooze](dic://ooze)
+		4. _v._ [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass), [express](dic://express), [show](dic://show), [evince](dic://evince)
+		5. **radiate**传播;**embody**体现，使具体化;**evoke**引起，唤起;**aura**气氛;**swagger**吓唬;**elegance**典雅;**charisma**非凡的领导力;**poise**平衡;**epitome**缩影;**infuse**使充满;**sensuality**喜爱感官享受;
+		6. the beetle exudes a caustic liquid /甲虫会释放腐蚀性液体。
+		7. he exuded good humour and bonhomie. /他全身洋溢着一种幽默、温和的气质。
+		8. Sir Thomas exuded friendship and goodwill. /托马斯先生表现出充分的友好与亲切。
+		9. Your body language must therefore exude calmness, control, and grounding. /因此，你的肢体语言必须散发出冷静、控制和接地气的气息。
+		10. If you're looking for a name that exudes strength, this one is definitely a contender. /如果你在寻找一个散发着力量的名字，这个名字绝对可以入选。
+		11. And as it cooks, it will also exude its own liquid from the kimchi. / 在烹饪时，它还会从泡菜中渗出自己的液体。
+		12. the building exudes an air of tranquillity /这栋楼显得很宁静。
 3. sweat
+	1. 汗, 汗水, 水珠, 焦急  
+	2. vi. 出汗, 渗出, 冒出水气, 结水珠, 烦恼, 懊恼  
+	3. vt. 使出汗, 流出, 榨出, 使汗流浃背
+	4. v. 流汗，出汗，冒汗；通过出汗排除；（通过运动或费力）使（人，动物）出汗；（食品，物体）渗出水分；辛苦工作，拼命干活；（人）（多指长时间的）处于极度焦虑中；<非正式> 担心，焦虑，紧张；熔焊（金属）；用文火炖（肉或蔬菜） 
+	5. n. 汗水，汗液；一身汗，满身大汗；<非正式> 艰难的工作，累活，繁重的工作；<美> 田径服，运动服，运动裤（sweats）；（用羊毛似的厚棉布做的）宽松休闲服装
+	6. 来自古英语 swat,流汗，出汗，来自 Proto-Germanic*swatitaz,汗水，来自 PIE*sweid,汗水，词源同 exude,sudorific.引申诸相关词义。
+	7. [perspiration](dic://perspiration), [sudor](dic://sudor)
+	8.  [fret](dic://fret), [stew](dic://stew), [lather](dic://lather), [swither](dic://swither)
+	9. _n._ [secretion](dic://secretion), [agitation](dic://agitation), [condensation](dic://condensation), [condensate](dic://condensate), [labor](dic://labor), [labour](dic://labour), [toil](dic://toil)
+	10. _v._ [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
+	11. **sweaty**出汗的;**dripping**滴下物;**toil**苦工;**tears**眼泪;**blood**血，血液;**drenched**湿透的;**brow**眉，眉毛;**drips**水滴;**saliva**唾液;**exertion**努力;**glands**腺体;[effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail)
+	12. [sudate](dic://sudate), [perspire](dic://perspire)
+	13. sweat out an examination. /焦急地忍受考试
+	14. He shall sweat for it. /他要后悔的。
+	15. he was sweating profusely /他汗如雨下。
+	16. sweat out one's final grades. /焦急地等待最后的分数
+	17. sweat away two pounds in tropics /在热带地方因出汗多而减轻了两磅体重
+	18. I'm earning myself sweat and sore shoulders. /我弄得浑身是汗，肩膀酸痛。
+	19. He's made hard metal sweat with the exertion of killing. /他让坚硬的金属流淌着杀戮的强力。
+	20. My shirt was clammy with **sweat** /我的衬衣沾满了汗，又粘又湿。
+	21. sweaty
+		1. sweatiness
+		2. sweatily
+	22. sweatshop
+	23. sweatshirt
+	24. sweating-bath
+	25. sweating
+	26. sweater
+	27. sweated
+	28. sweatbox
+	29. sweatband
+	30. resweat
+
+
+### + \*swel- +
+1. **selen-,seleno-,seleni-** = moon, 表示“月亮”。来源于希腊语（希腊神话里的月亮女神名为 Selene）。
+	1. paraselene
+		1. _n._ 假月(一种淡色的月晕),幻月
+		2. Analogous to a sundog or parhelion, the **paraselene** is produced by moonlight shining through thin, hexagonal-shaped ice crystals in high cirrus clouds /类似于假日或幻日，近幻月是月光透过高空卷云中的六角形的薄冰晶而形成的。
+	2. selenograph
+	3. selenologist
+	4. selenology
+		1. _n._ 月球学
+	5. selenotropic
+2. **seleno-** = 表示“硒基”，1817年瑞典化学家 Berzlids 首先发现并以 Selene（月亮女神）命名。科学家经过一百余年的研究，发现硒是人体极其重要的微量元素，硒与人体40余种病的发生有关，人体不能缺少硒，如同宇宙离不开月亮一样（很是巧合）。
+3. **sulf-,sulph-** = sulfur, 表示“硫”。
+	1. sulphamerazin
+	2. sulphamerazine
+	3. sulphanilamide
+	4. sulphapyrazine
+	5. sulphapyridin
+	6. sulphapyridine
+	7. sulphate
+	8. sulphathiazole
+	9. sulphide
+	10. sulphite
+	11. sulphur
+	12. sulfa
+	13. sulfate
+	15. sulfide
+	16. sulfite
+	17. sulfoacid
+	18. sulfonal
+	19. sulfonamide
+	20. sulfonic
+	21. sulfur
+	22. desulfate
+	23. sulfamethoxypyridazine
+	24. sulfuric
+4. **sult-** = 表示“闷热”。源自古英语 sweltan "to die, perish."
+	1. sultry
+		1. [sensual](dic://sensual)
+		2. [stifling](dic://stifling), [sulfurous](dic://sulfurous), [sulphurous](dic://sulphurous)
+		3. _adj._ [hot](dic://hot)
+		4. _n._ [cold](dic://cold)
+		5. **seductive**诱惑的;**sexy**性感的;**alluring**迷人的，吸引人的;**steamy**蒸汽的;**sensual**感觉的;**luscious**甘美的;**sizzling**极热的;**soulful**感情上的;**sassy**无礼的;**dreamy**梦想的;**scorching**极热的;
+		6. stuffy, frowst, sultry, swelter, muggy
+		7. _[sultry weather](dic://sultry%20weather)_  闷热天气 
+		8. a sultry look; a sultry dances /猥亵的表情；淫荡舞蹈
+		9. she had a sultry, sulky mouth. /她总爱怨天尤人。
+		10. the sultry sands of the desert /沙漠灼热的沙粒
+		11. The piece starts out innocuously enough, with an almost sultry little snake dance. /乐曲的开始并不激烈，略带一点妖娆的印第安蛇舞的韵味。
+		12. In summer, the temperature in the Taiga can soar to a sultry twenty degree Celsius. /夏季时，泰加林里的气温可上升到闷热的二十摄氏度。
+		13. For a seaside experience with a difference, head to the north or west to discover sultry black sand beaches. /若想尝试不一样的海边体验，可以前往北边或西边 体验燠热的黑沙滩。
+	2. sultrily
+	3. sultriness
+	4. swelter
+		1. _v._ [suffer](dic://suffer), [sweat](dic://sweat), [sudate](dic://sudate), [perspire](dic://perspire)
+		2. **scorching**极热的;**humid**潮湿的;**heat**热度;**chilly**寒冷的，凉飕飕的;**frigid**寒冷的，严寒的;**summertime**夏季;**summer**夏季;**air-conditioning**空调设备;**winter**冬季;**cold**寒冷的;**sweaty**出汗的;
+		3. stuffy, frowst, sultry, swelter, muggy
+5. swale
+	1. n. 沼泽地, 低洼地
 
 
 ### ⭐ + \*swen- +  = to sing, make sound

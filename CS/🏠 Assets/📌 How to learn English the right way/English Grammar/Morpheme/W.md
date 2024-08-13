@@ -1,7 +1,3 @@
----
-excalidraw-plugin: parsed
-tags: []
----
 ## wa
 ### + \*wal +
 1. **vail-, val-** = from **latin (valere) "to be strong"
@@ -2582,8 +2578,87 @@ tags: []
 	9. He aims, ambitiously, to wean the kingdom off oil.
 	10. Once weaned from the ephemeral craving for TV, most people will find they enjoy the time they spend reading.
 	11. Nicotine replacement therapy through gum, skin patches, lozenges, and sprays may help wean smokers off cigarettes
-6. win 
+6. win
+	1. vt. 赢得, 打胜, 成功  
+	2. vi. 获胜, 达到, 影响  
+	3. n. 胜利, 赢, 收益
+	4. 来自 PIE*wen,努力，奋斗，争取，词源同 Venus,virile.其原义为劳作，斗争，见 breadwinner,后引申词义赢，战胜，并成为其主要词义。
+	5. winnings
+		1.  [win](dic://win), [profits](dic://profits)
+		2. _n._ [financial gain](dic://financial gain)
+		3. _n._ [losings](dic://losings), [losses](dic://losses)
+		4. **jackpot**累积赌注;**payout**支出;**payouts**付款;**wagering**赌注;**wager**赌博;**prize**奖品;**gambling**赌博;**lottery**彩票;**poker**纸牌戏;**betting**打赌;**prizes**奖品;
+		5. He secreted his winnings in a drawer. /他把赢来的钱藏在抽届里。
+		6. Wolf Larsen was counting his winnings. /海狼拉尔森在数着赢来的钱。
+		7. How much was your share of the **winnings**? /在赢的钱里你那份有多少？
 7. wish
+	1. 来自 Proto-Germanic*wunsk,来自 PIE*wen,努力，追求，渴望，希冀，词源同 Venus,win.
+	2. n. 希望, 愿望, 祝愿, 命令, 请求  
+	3. vt. 愿, 想要, 希望, 祝愿  
+	4. vi. 希望
+	5.  [wishing](dic://wishing), [want](dic://want)
+	6.  [indirect request](dic://indirect request)
+	7. [regard](dic://regard), [compliments](dic://compliments)
+	8. [care](dic://care), [like](dic://like)
+	9.  [will](dic://will)
+	10. [bid](dic://bid)
+	11. _n._ [desire](dic://desire), [request](dic://request), [asking](dic://asking), [greeting](dic://greeting), [salutation](dic://salutation), [preference](dic://preference), [druthers](dic://druthers)
+	12. _v._ [desire](dic://desire), [want](dic://want), [express](dic://express), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [utter](dic://utter), [give tongue to](dic://give tongue to)
+	13. _n._ [begrudge](dic://begrudge), [resent](dic://resent)
+		1. [desire](dic://desire) 语气较正式庄重，着重渴望的力量与热切，常含有强烈的意图和目的。  
+		2. [wish](dic://wish) 语气较弱，多指难于实现或不可能实现的愿望。  
+		3. [hope](dic://hope) 指对愿望实现有一定信心的希望。  
+		4. [expect](dic://expect) 通常指有很大程度的把握，但仍含有预料之意，或预计某事或某行动的发生。  
+		5. [want](dic://want) 一般指所想要的东西是切望得到的东西，能弥补实际需要。   
+		6. [long](dic://long) 语气强，指极殷切地盼望着，这种盼望侧重于很难或不可能得到的东西。有时也指一般愿望，但含一定感情色彩
+	14. **want**需要;**hope**希望;**you**您, 你, 你们;**would**将，将要;**wanted**被通缉的;**have**有;**could**能够;**know**知道;**glad**高兴的;**think**想;**sincerely**真诚地;
+	16. wishful
+	18. wishbone
+		1. n. 叉骨；如愿骨; Y 字型的东西
+		2.  [wishing bone](dic://wishing bone)
+		3. _n._ [furcula](dic://furcula)
+		4. **axle**车轴;**torsion**扭转，扭曲;**axles**四轴;**suspension**暂停;
+		5. You too! I've had it with both of you. You tug at me like I'm some kind of wishbone. /你也一样。我受够你俩了。你俩像拽如愿骨一样拽着我。
+		6. It had some distinctly bird-like traits, like a wishbone, wings, and flight feathers, and it could probably fly at least a little. /它有一些明显的鸟类特征，比如叉骨、翅膀和飞羽，它可能至少会飞一点。
+		7. Wishing upon a **wishbone** is an ancient custom /向如愿骨许愿是一项古老的习俗。
+	20. wish-wash
+		1. 淡而无味的饮料
+		2. _n._ [beverage](dic://beverage), [drink](dic://drink), [drinkable](dic://drinkable), [potable](dic://potable), [drivel](dic://drivel), [garbage](dic://garbage)
+		3. wishy-washy
+	21. wisher
+		1. well-wisher
+			1. The U.S. Ambassador to Vietnam opened the Embassy to the public allowing well wishers to sign a book of condolences /美国驻越南大使馆向公众开馆并允许吊唁者在书上写下慰唁。
+			2. In Soweto tonight, well wishers have gathered outside Mr. Mandela's former home for an all night prayer vigil. Mike Wooldridge is there. /今晚在索韦托，祝福者们聚集在曼德拉的老家彻夜做守夜祈祷。迈克·伍尔德里奇报道。
+			3. The world suffers most from the disinterested tyranny of its well **wisher**. /世界在漠然的苛政中为善者承受极大的痛楚。
+		2. ill-wisher
+	22. well-wishing
+8. wistful
+	1. 不确定词源。可能来自不再使用的词 wistly,关注的，来自 whist,安静，见 whist,惠斯特纸牌游戏，词义受 wishful 影响。
+	2. adj. （因求而不得）失意的，伤感的；思念的，怀旧的
+	3. [pensive](dic://pensive)
+	4. _adj._ [sad](dic://sad)
+	5. _n._ [glad](dic://glad)
+	6. **melancholy**忧郁, 悲哀;**nostalgic**对往事怀恋的, 怀旧的;**dreamy**梦想的;**wry**面部肌肉扭曲的;**somber**昏暗的;**bittersweet**又苦又甜的;**poignant**尖锐的;**introspective**好反省的;**longing**渴望，热望;**sentimental**伤感的, 多愁善感的;**soulful**感情上的;
+	7. _[Wistful Memory](dic://Wistful%20Memory)_ 哀思回忆
+	8. _[Wistful Visions](dic://Wistful%20Visions)_ 渴望幻想
+	9. _[Wistful Thinking](dic://Wistful%20Thinking)_ 渴求思绪
+	10. _[a wistful expression](dic://a%20wistful%20expression)_ 渴望的表情
+	11. _[give a wistful look](dic://give%20a%20wistful%20look)_ 看着眼馋
+	12. wistful thinking
+		1. _[wishful thinking](dic://wishful%20thinking)_  n. 如意算盘；痴心妄想；一厢情愿
+		2. _[wistful thinking story](dic://wistful%20thinking%20story)_ 渴望的想法的故事；梦想之思想故事；渴望思维的故事；神往思维的故事
+		3. I hope I am not **wistful** **thinking** again. /我希望这一切不再是空想。
+	13. Miranda felt a wistful longing for the old days. /米兰达十分渴望那过去的日子。
+	14. her expression was wistful and reminiscent. /她的表情流露出思念和怀旧之情。
+	15. The statue has a gentleness, an ambience, a wistful elegance. /那尊雕像具有一种柔和、一种独特格调、一种忧郁沉思的雅致。
+	16. Twilight is short, and the unseen birds of twilight wistful, catching the heart. /黄昏短暂，暮色中，看不见的鸟儿在伤感似地啼鸣，声声动人。
+	17. He turned to look at me with a wistful expression. /他转过头来，用一种渴望的神情看着我。
+	18. He passed away last year, she said, looking suddenly wistful. /“去年他去世了，”她说道，脸上露出思念之情。
+	19. He suggested aromas of flowers, fruit, earth and caramel and grew slightly wistful. /他提到了花香、水果、泥土和焦糖的味道，有点伤感。
+	20. Orpheus would be wistful, young, artistic looking, Bacchus, energetic and sexy, clearly ready for a good time. /俄耳甫斯聪颖、年轻、充满艺术气质，巴克科斯活力十足、性感、随时准备享乐。
+	21. Willow-herb, tender and **wistful**, like a pink sunset cloud, was not slow to follow. /柔情似水的柳兰，像一片粉红色的晚霞，来的也不慢。
+	22. I can't help feeling slightly **wistful** about the perks I'm giving up. /我对自己将放弃的外快不由感到有点依依不舍。
+	23. Instead of casting a **wistful** glance at all the species we've left in the dust I.Q.-wise, it implicitly asks what the real 11 of our own intelligence might be. /这一问题不是惆怅地回望那些我们人类在智力上已远远超越的物种，而是含蓄地询问我们的智力的真正代价可能是什么。
 
 
 ### + ⭐ \*wer- +
