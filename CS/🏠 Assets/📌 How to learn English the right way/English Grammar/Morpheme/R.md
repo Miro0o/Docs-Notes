@@ -945,17 +945,30 @@
 		6. _in the realm of_ 在……领域里
 		7. 
 	14. rule
-		1. unruly, unruliness
-		2. self-rule
-		3. ruling
-		4. ruler, rulership
-		5. ruleless
-		6. rulable
-		7. overrule
-		8. misrule
-		9. metarule
-		10. hyperrule
-	15. sovereign
+		1. n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线  
+		2. vt. 规定, 统治, 管理, 控制, 支配, 裁决  
+		3. vi. 统治, 管辖, 裁定
+		4. 缩写自拉丁语 regula,直尺，规则，来自拉丁语 regere,拉直，管理，词源同 regulate.引申诸相关词义。
+		5. rule the roast称雄；当家；作主。你没看错，这是习语rule the roost的另一个版本。roast这里是名词含义，烤肉。中世纪领主家里，谁来分配好吃的烤肉呢？领主。好玩的是，roast烤肉或与roost鸡窝有关呢！烤肉在铁架子上，铁架子什么样子的？格栅状。鸡窝什么搭建的？木板。木板搭建成什么样？格栅状。
+		6. rule out (roll out)
+			1. 排除，消除：指通过判断或证明某种可能性不存在，从而排除或消除某种选择或方案。 
+			2. 不考虑，不予以考虑：指在考虑或决策过程中，不将某种选择或方案纳入考虑范围。
+			3. ars-cov-2 was ruled out as a culprit. /Sars-cov-2病毒被排除在原因之外。
+			4. But she has not ruled out adoption. /但她并没有排除领养的可能性。
+			5. Other information helped rule out some previous explanations. /其他信息帮助排除了之前的一些解释。
+			6. They didn't **rule** **out** coalition with the Social Democrats. /他们不排除与社会民主党人结盟的可能性。
+			7. The lack of light in Europa's subsurface ocean doesn't automatically **rule** **out** life forming /木卫二的地下海洋缺乏光线，但这没有排除生命形成的可能性。
+		7. unruly, unruliness
+		8. self-rule
+		9. ruling
+		10. ruler, rulership
+		11. ruleless
+		12. rulable
+		13. overrule
+		14. misrule
+		15. metarule
+		16. hyperrule
+	16. sovereign
 		1. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head of state), [chief of state](dic://chief of state)
 		2. _adj._ [free](dic://free), [dominant](dic://dominant)
 		3. _n._ [unfree](dic://unfree), [subordinate](dic://subordinate), [low-level](dic://low-level)
@@ -967,7 +980,7 @@
 			1. _n._ [self-government](dic://self-government), [self-determination](dic://self-determination), [self-rule](dic://self-rule), [dominion](dic://dominion), [rule](dic://rule), [authority](dic://authority), [authorization](dic://authorization)
 			2. **sovereign**元首;**self-determination**自主;**primacy**首位;**autonomy**自治，自治权;**dominion**领土;**legitimacy**合法;**independence**独立, 自主, 自立;**hegemony**霸权;**democracy**民主国家;**territorial**领土的;**constitutional**宪法的;
 		6. quasi-sovereign
-	16. vicereine
+	17. vicereine
 		1. _n._ [wife](dic://wife), [married woman](dic://married woman), [governor](dic://governor)
 		2. **monarch**君主，帝王;**regent**摄政者;**consort**结交;**queen**女王，王后;
 6. **reg-, roy-** = king, 表示“国王”。源自拉丁语 rex "king."
@@ -1332,55 +1345,130 @@
 		26. autocontrol
 	2. role
 	3. roll
-		1. yarn-roll
-		2. unroll
-		3. toilet-roll
-		4. steamroll
+		1. 来自古法语 rolle,纸卷，文件，来自拉丁语 rotulus,纸卷，来自 rota,轮子，词源同 rotary,round.引申诸相关词义。
+		2. get the ball rolling开始。冰球水球篮球足球乒乓球曲棍球马球台球棒球羽毛球网球......球这玩意真好玩，它能转动，能一个人玩两个人玩一堆人玩，但无论哪种球类比赛，比赛的开始都得是球滚动“roll”起来才可以，所以，get the ball rolling就是“开球”，即“开始”。 Let's get the ball rolling! ​​​​
+		3. n. 卷, 一管; 小面包条; 翻滚; 摇晃; 名单; 掷骰子  
+		4. v. 滚, 滚动; 原地转圈; 卷起来; 摇摆; 启动; (车辆) 缓行
+		5. [axial rotation](dic://axial rotation), [axial motion](dic://axial motion)
+		6. [roster](dic://roster)
+		7. [roller](dic://roller), [rolling wave](dic://rolling wave)
+		8.  [coil](dic://coil), [whorl](dic://whorl), [curl](dic://curl), [curlicue](dic://curlicue), [ringlet](dic://ringlet), [gyre](dic://gyre), [scroll](dic://scroll)
+		9. [bankroll](dic://bankroll)
+		10. [bun](dic://bun)
+		11. [peal](dic://peal), [pealing](dic://pealing), [rolling](dic://rolling)
+		12. [paradiddle](dic://paradiddle), [drum roll](dic://drum roll)
+		13. [scroll](dic://scroll)
+		14. [cast](dic://cast)
+		15.  [turn over](dic://turn over)
+		16. [wheel](dic://wheel)
+		17. [undulate](dic://undulate)
+		18.  [roll out](dic://roll out)
+		19. [wind](dic://wind), [wrap](dic://wrap), [twine](dic://twine)
+		20.  [hustle](dic://hustle), [pluck](dic://pluck)
+		21. [undulate](dic://undulate), [flap](dic://flap), [wave](dic://wave)
+		22.  [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [ramble](dic://ramble), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
+		23.  [revolve](dic://revolve)
+		24. [seethe](dic://seethe)
+		25. [roll up](dic://roll up)
+		26. _n._ [rotation](dic://rotation), [revolution](dic://revolution), [gyration](dic://gyration), [list](dic://list), [listing](dic://listing), [wave](dic://wave), [moving ridge](dic://moving ridge)
+		27. _v._ [turn](dic://turn), [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [flatten](dic://flatten), [sound](dic://sound)
+			1. [list](dic://list) 最普通用词，含义广。指按字母顺序、时间先后或类别等排列的姓名或项目等的单子。  
+			2. [register](dic://register) 多指官方对人或事作出的正式书面记录或详细清单。  
+			3. [roll](dic://roll) 多指人员的姓名名单，尤指属于团体或军事单位的全体人员名单。  
+			4. [schedule](dic://schedule) 既可指时间或计划的安排表，又可指详细列出的所有分类项的清单或细表。  
+			5. [table](dic://table) 普通用词，一般指易于迅速查阅使用，具有特定编排方法的目录或表格。  
+			6. [chart](dic://chart) 指把资料制成表格等形式供人看的图表。  
+			7. [form](dic://form) 指上面印有横线或格让人填写规定内容的表格。
+		28. **dice**切成方块;**rollers**压路机，长涌群;**rock**岩石;**sleeves**袖子;**drum**击鼓;**flatten**使……平坦;**wrap**包;**tuck**卷起;**roller**滚筒;**dough**生面团;**n**字母n;
+		29. _roll out_ 铺开；滚出 (rule out)
+			1. A few blueberries rolled out from Nick's pocket /几颗蓝莓从尼克的兜里掉了出来。
+			2. I roll out the mattress every night /我每天晚上都会把床垫铺开。
+			3. The social media company started rolling out a tool for this Monday. /这家社交媒体公司周一开始推出一款工具。
+			4. It also rolled out a programme whereby research academics will gain access to user data. /该公司还推出了一项计划，让科研人员能够获得用户数据。
+		30. _work roll_ 工作辊
+		31. _roll in_ 蜂拥而来；[口]有大量的（钱财等）；[美俚]就寝；到达
+		32. _rock and roll_ 摇滚乐
+		33. _roll up_ 卷起；滚滚上升；到达；出现；积累成；迫敌退向中央
+		34. _roll gap_ 轧辊开度；辊间距离
+		35. _roll on_ 继续前进
+		36. _cold roll_ 冷轧， 冷轧辊
+		37. _roll forming_ 滚轧成形；成形轧制
+		38. _roll over_ 翻滚；转存；延缓付款
+		39. _roll away_ vt. 滚动卷页；滚过去，慢移过去
+		40. _roll back_ 击退；把…压低到标准水平
+		41. _roll into_ 卷成，使合为一体；滚进
+		42. _roll down_ 滚下
+		43. _roll off_ 转降，辗轧
+		44. _steel roll_ [化]钢辊
+		45. _spring roll_ （中国的）春卷；弹簧辊；薄饼
+		46. _hot roll_ 热轧，热轧卷；加热压光辊
+		47. _on a roll_ 运气好；超常发挥；做得很顺
+		48. _roll call_ 点名；名单；登记表
+		49. yarn-roll
+		50. unroll
+			1. [unwind](dic://unwind), [wind off](dic://wind off)
+			2. [unfurl](dic://unfurl)
+			3. _v._ [move](dic://move), [displace](dic://displace), [change surface](dic://change surface)
+			4. **roll**滚动，转动;**wrap**包;**flatten**使……平坦;**rolls**滚动;**unfold**打开;**rolled**轧制的;**drape**用布帘覆盖;**fold**折叠;**wrapping**包装纸，包装材料;**lay**放置，安放，平放;**tuck**卷起;
+			5. Ron unrolled the scroll and began to read. /罗恩打开纸卷看了起来。
+			6. And third is, being very carefully unrolled all by commands from here /第三，它需要通过地面发送的指令来非常小心地被展开。
+			7. I unrolled my silverware, picked up my fork, and carefully speared a ravioli. /我拆开我的那套银餐具，拿出叉子，小心地戳起一个馄饨。
+		51. toilet-roll
+		52. steamroll
 			1. steamroller
-		5. rollway
-		6. rollpast
-		7. rollpass
-		8. rollover
-		9. rollout
-		10. rollman
-		11. rolling-pin
-		12. rolling
-		13. rollgang
-		14. roller
+		53. rollway
+			1. - n. 原木堆；滚木坡
+		54. rollpast
+		55. rollpass
+		56. rollover
+			1. n. 翻转；（车）翻覆；延期付款
+			2. _n._ [change](dic://change)
+			3. **crash**碰撞;**collision**碰撞, 冲突, 抵触;**accident**事故;
+			4. Oh, and we also offer a rollover option /哦，对了，我们还给您提供一个延期付款的选择。
+			5. The man's arm got stuck during a rollover accident. /该男子汽车遭遇翻车，手臂被卡无法动弹。
+			6. I already missed first rollover and first sit up. /我已经错过了第一次翻身和第一次坐立。
+			7. An algorithm sifts through the night's data for information on body temperature, number of breaths taken, rollovers and resting heart rate. /一种算法可以从夜间的数据中筛选出体温、呼吸次数、翻身和静息心率的信息。
+			8. You might need to take a rolling pin and just give it a little rollover just to make sure it's nice and flat. /您可能需要拿一个擀面杖，稍微翻转一下，以确保它美观且平整。
+		58. rollout
+		59. rollman
+		60. rolling-pin
+		61. rolling
+		62. rollgang
+		63. roller
 			1. vibroroller
 			2. roller-skate
-		15. rolled-up
-		16. rolled
-		17. rollcall
-		18. rollback
-		19. rollability
-		20. roll-cumulus
-		21. rigmarole
-		22. reroll
+		64. rolled-up
+		65. rolled
+		66. rollcall
+		67. rollback
+		68. rollability
+		69. roll-cumulus
+		70. rigmarole
+		71. reroll
 			1. rerollable
-		23. rent-roll
-		24. preroll
-		25. polishingroll
-		26. payroller
-		27. payroll
-		28. overroll
-		29. logroll
+		72. rent-roll
+		73. preroll
+		74. polishingroll
+		75. payroller
+		76. payroll
+		77. overroll
+		78. logroll
 			1. logrolling
-		30. jackrolling
-		31. enrol
+		79. jackrolling
+		80. enrol
 			1. enrolment
 			2. enrollment
 			3. enrollee
 			4. enroll
-		32. cold-roll
-		33. chromatoroll
-		34. checkroll
-		35. bedroll
-		36. beardroll
-		37. bankroller
-		38. bankroll
-		39. backroll
-		40. antirolling
+		81. cold-roll
+		82. chromatoroll
+		83. checkroll
+		84. bedroll
+		85. beardroll
+		86. bankroller
+		87. bankroll
+		88. backroll
+		89. antirolling
 2. **rot-** = wheel, 表示“轮子，转”。源自拉丁语 rota "wheel," rotundus "round."
 	1. rotameter
 	2. rotary

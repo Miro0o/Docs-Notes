@@ -3004,14 +3004,19 @@
 		5. referable
 		6. cross-refer
 		7. referendum
-			1. _n._ [vote](dic://vote)
-			2. **ballot**投票;**election**选举;**vote**投票，选举;**Brexit**英国脱欧;**secession**脱离;**annexation**并吞;**voters**投票者列表;**parliament**议会, 国会;**electoral**选举的;**parliamentary**议会的;**voting**投票的;
-			3. _[referendums](dic://referendums)_  n. 投票，公投（referendum复数）
-			4. _[ad referendum](dic://ad%20referendum)_  （拉）其余事项待定；须进一步考虑的；留待复核
-			5. _[constitutional referendum](dic://constitutional%20referendum)_  立宪公投
-			6. in the referendum many people abstained. /在这次公民投票中许多人弃权。
-			7. the referendum affirmed the republic's right to secede. /公民投票支持共和国退出的权利。
-			8. the president has dismissed the referendum as a ploy to buy time /总统摒弃了全民公投，认为那只是一种争取时间的策略。
+			1. n. 公民复决, 请示书
+			2. 来自拉丁语 referendum,参考对象，来自 referre,拿回，参考，词源同 refer.-end,动名词后缀，-um,中性格。后引申词义全民公决
+			4. _n._ [vote](dic://vote)
+			5. **ballot**投票;**election**选举;**vote**投票，选举;**Brexit**英国脱欧;**secession**脱离;**annexation**并吞;**voters**投票者列表;**parliament**议会, 国会;**electoral**选举的;**parliamentary**议会的;**voting**投票的;
+			6. _[referendums](dic://referendums)_  n. 投票，公投（referendum复数）
+			7. _[ad referendum](dic://ad%20referendum)_  （拉）其余事项待定；须进一步考虑的；留待复核
+			8. _[constitutional referendum](dic://constitutional%20referendum)_  立宪公投
+			9. in the referendum many people abstained. /在这次公民投票中许多人弃权。
+			10. the referendum affirmed the republic's right to secede. /公民投票支持共和国退出的权利。
+			11. the president has dismissed the referendum as a ploy to buy time /总统摒弃了全民公投，认为那只是一种争取时间的策略。
+			12. The groundswell of opinion is in favour of a **referendum**. /赞成公投的观点迅速高涨。
+			13. In 2008, voters there passed a paid-sick-leave referendum by a huge margin. /2008年，那里的选民以极大的优势通过了带薪病假公投。
+			14. Opinion polls show the public might vote down a referendum. /民调显示，民众可能否决公投。
 	16. proffer
 		9. pro-向前 + fer-带来 → 带向前 → 贡献出。
 		10. vt. 提供, 贡献, 提议  n. 提供, 提议

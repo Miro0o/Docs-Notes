@@ -143,6 +143,20 @@
 12. conceptacle
 
 
+### actin-, actino- = pertaining to ray,表示“射线”。
+1. actinograph
+2. actinometer
+3. actinometry
+4. abactinal
+5. actinic
+6. actinism
+7. actinium
+8. actinoid
+9. actinobacteria
+10. actinomycete
+11. actinotherapy
+
+
 
 ## ad
 ### -ade, 表示“状态，物品”

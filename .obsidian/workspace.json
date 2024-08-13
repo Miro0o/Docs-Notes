@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd0f3073afea94f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d2c04d2a29d21685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/GCC (The GNU Compiler Collection)/gdb (GNU DeBugger)/kgdb (kernel gdb) & kdb.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "b779b43812c6702b",
+            "id": "fd0f3073afea94f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Process Scheduling Basic Algorithms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           },
           {
-            "id": "745d785788a5960a",
+            "id": "009d711532a9a46b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e429370a07f4b672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,45 +210,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "745d785788a5960a",
+  "active": "009d711532a9a46b",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Social Engineering & Physical Security/Identity & Records Forgery.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Anonymous & Private Networks.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Mission Management & Configuration/Mouse Configuration.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/SMS & MMS/SMS & MMS.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/N.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/UNIX Family/BSD Family/NetBSD/NetBSD.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
-    "CS/🔑 CS Core/Hardware & EE Related/Hardware & EE Related.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/JVM-Based Languages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Clojure/Clojure.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Process Scheduling Basic Algorithms.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Untitled.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Computer Resource (CPU + Memory) Scheduling.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Uniprocessor Scheduling.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Process Scheduling.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/OS Scheduling & Resource Management.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Multiprocessor & Multicore Scheduling/Multiprocessor & Multicore Scheduling.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Priority Scheduling.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrency Control/Concurrency Control.md",
+    "CS/System Architecture Design/🌌 Distributed Systems/☯️ Distributed Systems Design/Distributed Process Management/Distributed Process Management.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/OS Processes & Automata Management (CPU + Main Memory Resource).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Rust/Rust.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Golang Runtime Environments.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/JavaScript Runtime Environments.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/PHP Runtime Environments/PHP Runtime Environments.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/Python Runtime Environments.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Rust Runtimes Environments",
+    "CS/Embedded & Internet of Things/Embedded Programming/HLS (High Level Synthesis)",
+    "CS/Embedded & Internet of Things/Embedded Programming/HCL ()",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Video Conferencing",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Clojure",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/Compiled + Interpreted Languages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Apache Groovy/Apache Groovy.md",
     "Assets/Pics/4A0FF65C-B64C-490E-ADAE-517E086D6F33.png",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/Free Software Organizations/ASF (Apache Software Foundation).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Scala/Scala.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Kotlin/Kotlin.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Android & AOSP/Android & AOSP.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/国产操作系统 💦/国产操作系统.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Android & AOSP/Android Kernel/Android Kernel.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/Database System.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Computer Storage & Database Systems.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/OS IO System.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Projects/seL4",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/JVM Instrument Set & Java Bytecode",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/🧑🏽‍🏫 Mini OS Kernels/xv6 (a simple unix-like teaching operating system)",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/Vulnerability Elimination (漏洞消除)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/Vulnerability Disclosure（漏洞挖掘）/Taint Analysis",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/Vulnerability Disclosure（漏洞挖掘）/Stream Analysis",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/Vulnerability Disclosure（漏洞挖掘）/Symbolic Execution",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Lower CASE Tools/Code Inspect",
     "Assets/Pics/Screenshot 2024-07-26 at 2.01.12 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.53 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.35 PM.png",

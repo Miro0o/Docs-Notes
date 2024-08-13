@@ -4028,13 +4028,79 @@
 		1. 来自拉丁词carrus, 马车，战车，词源同car, chariot, current。
 		2. charge - car源于凯尔特语中的一个词，这个词在凯撒大帝听来就像karra，于是他就把两轮战车和马车称作karra。以后karra拉丁化为carra/carrus。car（一度作carre）约在1300年首次出现于英语，是通过法语从拉丁语演化而来的，最初指运货马车或大车。到了19世纪中期，car只是在诗中作为chariot（战车）的同义词用。19世纪末期，英国英语用motorcar一词来指“汽车”，但是没过多久该词就被缩略为car。英语的另一个词carriage（马车），究其根源也是出自拉丁语carrus。火车发明后，美国人用car来指“载客车厢”，用于此义的car可以看成是carriage的缩略形式。可见car本是一个行将就木的词，现代科学技术给它注入了活力，使它重新获得了新生。与car，carriage同出一源的英语单词还有chariot（马拉战车），carry（运载），career（生涯），charge（负荷，装满）等。
 		3. lead the charge
-	3. countercharge
-	4. overcharge
-	5. recharge
-	6. surcharge
-	7. uncharge
-	8. undercharge
-3. **cur-, curr-, curs-, cours-** = run, 表示“跑，发生”。源自拉丁语 currere "to run."
+		4. hard charging
+			1. Google was hard charging and hypercompetitive, but it also supported combining work and parenthood - an attitude that clearly started at the top. /谷歌是一家锐意进取、竞争激烈的公司，但它的创业文化也非常支持员工兼顾事业与家庭——这种立场显然源自高层管理者。s
+			2. Koreans are still **charging** **hard**, still obsessed with their position relative to other countries, but they are finally starting to enjoy their affluence by building themselves a better quality of life. /韩国人仍在努力前行，仍然很在意本国相对于其它国家的地位高低，但他们终于开始享受富足，为自己打造更高的生活质量。
+	2. uncharge
+		1. 【法】 从卸货, 宣告无罪
+	3. supercharge
+	4. supercharging
+	5. precharge
+	6. mischarging
+	7. hypercharge
+	8. dock-charges
+	9. discharge
+		1. _vt._ 卸船
+		2. 偿还
+		3. 执行；履行
+		4. _vt. & vi._ 放出；流出 开枪；发射
+		5. _n._ 获准离开，释放
+		6. 排放出的物体
+		7. _n._ [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event), [emission](dic://emission), [emanation](dic://emanation), [material](dic://material)
+		8. _v._ [carry through](dic://carry through), [accomplish](dic://accomplish), [execute](dic://execute), [carry out](dic://carry out), [action](dic://action), [fulfill](dic://fulfill), [fulfil](dic://fulfil)
+		9. _n._ [charge](dic://charge), [enlist](dic://enlist), [draft](dic://draft), [muster in](dic://muster in)
+		10. [discharge](dic://discharge) 语气较重，指有理由的解雇，含几乎不再复用的意味。  
+		11. [dismiss](dic://dismiss) 正式用词，是这组词中语气最轻的一个词，一般只有从上文才能看解雇的原因或理由。  
+		12. [fire](dic://fire) 口语用词，多指被断然地突然解雇，其行动犹如开枪一样干净利落。
+		13. **discharging**卸货;**discharged**放电的;**effluent**流出物;**leakage**泄漏;
+		14. a discharge of electricity /放电器
+		15. discharge a pistol. /开枪
+		16. discharge a court order. /撤销法院命令
+		17. discharge cargo overside /从船边卸货
+		18. discharge sb. from an obligation /免除某人的义务s
+		19. Franklin's experiments showed that the lightning is an electrical discharge /富兰克林的实验表明闪电是一种放电。
+		20. Former First Lady Barbara Bush has been discharged from a Texas hospital /前美国第一夫人芭芭拉·布什在德克萨斯的一家医院中出院。
+		21. Three people were hospitalized after being vaccinated. Two of them have been discharged /有3人在接种疫苗后住院治疗，其中两人已经出院。
+		22. He was given a conditional **discharge** and ordered to pay Miss Smith $500 compensation /他被判有条件释放，并被命令向史密斯小姐支付$500的赔偿金。
+		23. He received an honourable **discharge** from the army /他获准体面退伍。
+		24. undischarged
+		25. overdischarge
+		26. discharging
+		27. discharger
+	11. charging
+	12. charger
+		1. turbosupercharger
+		2. turbocharger
+		3. supercharger
+		4. recharger
+	13. chargeometer
+	14. chargeing
+	15. charged
+	16. chargeback
+	17. chargeable
+	18. charge-sheet
+	19. charge-a-plate
+	20. countercharge
+		1. n. 反攻, 反诉  
+		2. vt. 反攻, 反告, 反诉
+		3. _n._ [accusation](dic://accusation), [charge](dic://charge)
+		4. **cavalry**骑兵;**charge**费用;**skirmish**小冲突，小规模战斗;**assault**攻击;**infantry**步兵;**accusation**指责;**flank**侧面;**enemy**敌人，仇敌;**charges**费用;**melee**混战，格斗;**volley**齐发;
+		5. charges and countercharges concerning producers, quotas, and affidavits. /有关生产者、配额和书面陈述的起诉与反起诉。
+	21. overcharge
+	22. recharge
+	23. surcharge
+		1. _n._ [charge](dic://charge)
+		2. _v._ [charge](dic://charge), [bill](dic://bill), [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel), [overcrowd](dic://overcrowd), [overprint](dic://overprint)
+		3. **fee**酬金;**levy**征收;
+		4. _fuel surcharge_ 燃油附加费；燃油费；燃油特别付加运赁
+		5. _surcharge preloading_ 超载预压法
+		6. a corporate tax surcharge /企业附加税
+		7. There is a surcharge for excess baggage. /行李超重要交一定的附加费。
+		8. make a surcharge for delivering the trunk outside of the city limits /对运送那衣箱出城界索取额外的运费
+		9. retailers will be able to surcharge credit-card users. /零售商可以向信用卡用户收取额外费用。
+	24. undercharge
+	25. discharge
+4. **cur-, curr-, curs-, cours-** = run, 表示“跑，发生”。源自拉丁语 currere "to run."
 	1. concourse
 		1. con-一起 + course【路线】
 		2. con-,表强调，course,跑，跑道。即跑到一起，聚集到一起的地方。
@@ -4387,7 +4453,7 @@
 	27. cursorial
 		1. 适于行走的
 		2. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
-4. horse
+5. horse
 
 
 ### + \*kerd- +

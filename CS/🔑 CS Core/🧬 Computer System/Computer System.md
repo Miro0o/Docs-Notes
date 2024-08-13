@@ -53,6 +53,7 @@ https://www.cnblogs.com/ysocean/tag/深入理解计算机系统/
 🚧 https://github.com/NJU-ProjectN
 NJU-ProjectN
 Nanjing University Computer System Project Series - Build a computer system from scratch!
+🎬【课程总结 (从逻辑门到计算机系统) [南京大学2022操作系统-P32]】 https://www.bilibili.com/video/BV1R34y1L7sY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

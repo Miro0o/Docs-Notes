@@ -1,4 +1,4 @@
-# Ruby Runtimes Environments
+# Ruby Runtime Environments
 
 [TOC]
 

@@ -1,10 +1,12 @@
-# HDLs (Hardware Definition Languages)
+# HDL (Hardware Definition Languages)
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+
 
 
 ## Intro

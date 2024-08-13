@@ -91,6 +91,7 @@ Modern System-on-Chip Design on Arm
 
 
 ### Other Resources
+🎬【课程总结 (从逻辑门到计算机系统) [南京大学2022操作系统-P32]】 https://www.bilibili.com/video/BV1R34y1L7sY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
@@ -163,7 +164,7 @@ To control computer processors in a programmable way, knowledge about assembly l
 
 
 ## Ref
-《微机原理与接口技术》和《计算机组成原理》、《计算机体系结构》三门课程有什么区别？先后修的顺序应该是怎么样的？研究操作系统需要学习哪门课程？ - 知乎 https://www.zhihu.com/question/19954019
+[《微机原理与接口技术》和《计算机组成原理》、《计算机体系结构》三门课程有什么区别？先后修的顺序应该是怎么样的？研究操作系统需要学习哪门课程？ - 知乎]: https://www.zhihu.com/question/19954019
 
 > - 组成原理:怎么设计CPU，怎么设计计算机系统中的各个部件;
 > - 体系结构:怎么设计CPU性能会高，怎么设计计算机系统性能会高;
@@ -182,8 +183,8 @@ To control computer processors in a programmable way, knowledge about assembly l
 
 ![](../../../../Assets/Pics/Pasted%20image%2020230313213313.png)
 
-《微机原理与接口技术》和《计算机组成原理》、《计算机体系结构》三门课程有什么区别？先后修的顺序应该是怎么样的？研究操作系统需要学习哪门课程？ - hyper的回答 - 知乎 https://www.zhihu.com/question/19954019/answer/427424135
+[《微机原理与接口技术》和《计算机组成原理》、《计算机体系结构》三门课程有什么区别？先后修的顺序应该是怎么样的？研究操作系统需要学习哪门课程？ - hyper的回答 - 知乎]: https://www.zhihu.com/question/19954019/answer/427424135
 
-求推荐微机原理的教材？ - 华东子的回答 - 知乎 https://www.zhihu.com/question/31207854/answer/2787053008
+[求推荐微机原理的教材？ - 华东子的回答 - 知乎]: https://www.zhihu.com/question/31207854/answer/2787053008
 
 [👍【计算机体系结构-01】指令集体系结构、微体系结构简介 | CSDN]: https://blog.csdn.net/qq_36393978/article/details/128647553

@@ -375,52 +375,52 @@
 
 
 ### -oma = "tumor, mass, swelling", 名词后缀，表“...肿、...瘤”， 复数形式 -omata
-adenomata
-adenomatous
-fibroma
-gliomata
-hematomata
-lymphoma
-lymphomata
-melanomata
-myomata
-neuromata
-sarcomata
-adenoma
-atheroma
-carcinoma
-carcinomas
-carcinomata
-epithelioma
-glioma
-hematoma
-lipoma
-melanoma
-myeloma
-myoma
-myxoma
-myxomata
-neuroma
-neuromas
-osteoma
-osteomas
-osteomata
-sarcoma
-syphiloma
-trachoma
-xanthoma
-zygoma
-angioma
-cephalohematoma
-cholangiocarcinoma
-gastrinoma
-germinoma
-lymphomas
-myxomas
-myxomatosis
-pinocytoma
-plasmocytoma
-sarcomas
+1. adenomata
+2. adenomatous
+3. fibroma
+4. gliomata
+5. hematomata
+6. lymphoma
+7. lymphomata
+8. melanomata
+9. myomata
+10. neuromata
+11. sarcomata
+12. adenoma
+13. atheroma
+14. carcinoma
+15. carcinomas
+16. carcinomata
+17. epithelioma
+18. glioma
+19. hematoma
+20. lipoma
+21. melanoma
+22. myeloma
+23. myoma
+24. myxoma
+25. myxomata
+26. neuroma
+27. neuromas
+28. osteoma
+29. osteomas
+30. osteomata
+31. sarcoma
+32. syphiloma
+33. trachoma
+34. xanthoma
+35. zygoma
+36. angioma
+37. cephalohematoma
+38. cholangiocarcinoma
+39. gastrinoma
+40. germinoma
+41. lymphomas
+42. myxomas
+43. myxomatosis
+44. pinocytoma
+45. plasmocytoma
+46. sarcomas
 
 
 
@@ -896,7 +896,7 @@ sarcomas
 47. verruculose
 
 
-### -osis 医学词根，表示“病理状况”，复数形式 -oses。
+### ⭐ -osis 医学词根，表示“病理状况”，复数形式 -oses。
 1. abiosis
 2. acidosis
 	1. n. [内科] 酸中毒，酸毒症；酸液过多症
@@ -1089,7 +1089,7 @@ sarcomas
 
 
 
-### -ous,-itious,-eous,-ious,-uous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
+### ⭐ -ous,-itious,-eous,-ious,-uous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
 1. adventitious
 	1. advent【来到】 + -itious形容词后缀 → [突然]来到的 → 偶然的。
 2. etc..

@@ -11,41 +11,15 @@
 📂 https://www.ruby-lang.org/en/documentation/
 
 
+### Related Topics
+↗ [Ruby Runtime Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Ruby%20Runtime%20Environments/Ruby%20Runtime%20Environments.md)
+
+
 
 ## Intro
 💎 Ruby is...
 
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write !
-
-
-### 🏗 Installation
-
-to get the latest ruby: 
-```shell
-brew install ruby
-```
-
-Succeed!
-```shell
-==> Caveats
-==> ruby
-By default, binaries installed by gem will be placed into:
-  /usr/local/lib/ruby/gems/3.1.0/bin
-
-You may want to add this to your PATH.
-
-ruby is keg-only, which means it was not symlinked into /usr/local,
-because macOS already provides this software and installing another version in
-parallel can cause all kinds of trouble.
-
-If you need to have ruby first in your PATH, run:
-  echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
-
-For compilers to find ruby you may need to set:
-  export LDFLAGS="-L/usr/local/opt/ruby/lib"
-  export CPPFLAGS="-I/usr/local/opt/ruby/include"
-```
-
 
 
 ### 🏋🏿‍♂️ How it works
@@ -93,6 +67,4 @@ RubyGems Environment:
 [install Ruby on your mac -- everything you need to know]:https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/
 
 [👍 Ruby：版本管理 RVM、Gem 与 Bundler]: https://hoffmanzheng.github.io/2021/ruby-bundler/
-
-
 

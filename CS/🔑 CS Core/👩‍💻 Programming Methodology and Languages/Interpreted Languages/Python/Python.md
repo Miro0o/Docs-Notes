@@ -22,8 +22,8 @@ Python Enhancement Proposals (PEPs)
 
 
 ### Related Topics
-↗ [Python Runtimes Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Runtimes%20Environments.md)
-↗ [cpython](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Interpreters%20&%20Implementations/cpython.md)
+↗ [Python Runtime Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Runtime%20Environments.md)
+↗ [cpython](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Interpreters%20&%20Implementations/cpython.md)
 
 ↗ [Python Web](../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Python%20Web/Python%20Web.md)
 ↗ [Python Managers](../../🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Python%20Managers/Python%20Managers.md)
@@ -72,8 +72,8 @@ https://github.com/myangeline/python/tree/master
 
 
 ### Python Libraries & Runtimes
-↗ [Python Runtimes Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Runtimes%20Environments.md)
-↗ [cpython](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtimes%20Environments/Python%20Interpreters%20&%20Implementations/cpython.md)
+↗ [Python Runtime Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Runtime%20Environments.md)
+↗ [cpython](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/Python%20Interpreters%20&%20Implementations/cpython.md)
 
 
 ### 🔔 Python Code Style & PEP8
