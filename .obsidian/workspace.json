@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "009d711532a9a46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e429370a07f4b672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 692.5027122497559
+    "width": 692.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md"
               }
             }
           },
@@ -210,13 +198,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "009d711532a9a46b",
+  "active": "e429370a07f4b672",
   "lastOpenFiles": [
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Process Scheduling Basic Algorithms.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Process Scheduling Basic Algorithms.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
