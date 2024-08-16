@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [LSB (Linux Standard Base)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Referenced%20Specifications/LSB%20(Linux%20Standard%20Base).md)
+
+
 ### See POSIX also
 - [Single UNIX Specification](https://en.wikipedia.org/wiki/Single_UNIX_Specification)
 - [POSIX signal](https://en.wikipedia.org/wiki/POSIX_signal)
@@ -59,10 +63,7 @@ Current versions of the following operating systems have been certified to confo
 ![](../../../../../../Assets/Pics/400px-Diagram_of_Mac_OS_X_architecture.svg.png)
 
 <small>OS X Architecture 'Darwin' and POSIX API. See more on <a>https://en.wikipedia.org/wiki/Architecture_of_macOS</a></small>
-
 #### Formerly POSIX Certified
-
-
 #### Mostly POSIX-compliant (2022)
 The following are not certified as POSIX compliant yet comply in large part:
 
@@ -75,11 +76,8 @@ The following are not certified as POSIX compliant yet comply in large part:
 |                                                              |                                                              |                                                              | | |
 | ... And Much More!                                           |                                                              |                                                              | | |
 |                                                              |                                                              |                                                              | | |
-
 ##### POSIX for DOS
-
 ##### POSIX for OS/2
-
 ##### 🏆 POSIX for Microsoft Windows
 - [Cygwin](https://en.wikipedia.org/wiki/Cygwin) provides a largely POSIX-compliant development and run-time environment for Microsoft Windows.
 - [MinGW](https://en.wikipedia.org/wiki/MinGW), a fork of Cygwin, provides a less POSIX-compliant development environment and supports compatible [C](https://en.wikipedia.org/wiki/C_(programming_language))-programmed applications via [Msvcrt](https://en.wikipedia.org/wiki/Msvcrt), Microsoft's old Visual C runtime library.
@@ -89,7 +87,6 @@ The following are not certified as POSIX compliant yet comply in large part:
 - [UWIN](https://en.wikipedia.org/wiki/UWIN) from AT&T Research implements a POSIX layer on top of the Win32 APIs.
 - [MKS Toolkit](https://en.wikipedia.org/wiki/MKS_Toolkit), originally created for MS-DOS, is a software package produced and maintained by [MKS Inc.](https://en.wikipedia.org/wiki/MKS_Inc.) that provides a Unix-like environment for scripting, connectivity and porting Unix and Linux software to both 32- and 64-bit Microsoft Windows systems. A subset of it was included in the first release of [Windows Services for UNIX](https://en.wikipedia.org/wiki/Windows_Services_for_UNIX) (SFU) in 1998.
 - [Windows C Runtime Library](https://en.wikipedia.org/wiki/Microsoft_Windows_library_files#Runtime_libraries) and [Windows Sockets API](https://en.wikipedia.org/wiki/Winsock) implement commonly used POSIX API functions for file, time, environment, and socket access, although the support remains largely incomplete and not fully interoperable with POSIX-compliant implementations.
-
 ##### Compliant via Compatible Layers
 The following are not officially certified as POSIX compatible, but they conform in large part to the standards by implementing POSIX support via some sort of compatibility feature (usually translation libraries, or a layer atop the kernel). Without these features, they are usually non-compliant.
 
@@ -109,6 +106,7 @@ The following are not officially certified as POSIX compatible, but they conform
     - [Windows Server 2008](https://en.wikipedia.org/wiki/Windows_Server_2008 "Windows Server 2008") and Ultimate and Enterprise versions of [Windows Vista](https://en.wikipedia.org/wiki/Windows_Vista "Windows Vista")
     - [Windows Server 2008 R2](https://en.wikipedia.org/wiki/Windows_Server_2008_R2 "Windows Server 2008 R2") and Ultimate and Enterprise versions of [Windows 7](https://en.wikipedia.org/wiki/Windows_7 "Windows 7")
     - albeit deprecated, still available for [Windows Server 2012](https://en.wikipedia.org/wiki/Windows_Server_2012 "Windows Server 2012") and Enterprise version of [Windows 8](https://en.wikipedia.org/wiki/Windows_8 "Windows 8")
+
 
 ### History of Unix, Posix, and the Standard Unix Specification
 > Quote from CSAPP

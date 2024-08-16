@@ -21,7 +21,9 @@ For example, to access the files on a [CD-ROM](https://en.wikipedia.org/wiki/CD
 
 
 ### FHS (Filesystem Hierarchy Standard)
-🔗 [Filesystem Hierarchy Standard](https://www.pathname.com/fhs/)
+FHS is not considered to be some authority on directory structure and contents for absolutely every Linux distribution, but it is ==generally the most common standard of linux file layout.== All directories and files in FHS appear under ‘/’ (i.e. the root directory).
+
+↗ [FHS (Filesystem Hierarchy Standard)](../../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Referenced%20Specifications/FHS%20(Filesystem%20Hierarchy%20Standard).md)
 
 
 

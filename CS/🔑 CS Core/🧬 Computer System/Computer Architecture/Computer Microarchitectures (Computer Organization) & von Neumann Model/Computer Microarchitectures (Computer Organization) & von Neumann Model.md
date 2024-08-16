@@ -15,7 +15,7 @@
 ↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 ↗ [Bootstrap (Boot)](../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
 
-↗ [Devices Schematic Diagram & Teardown](../../../Hardware%20&%20EE%20Related/Devices%20Schematic%20Diagram%20&%20Teardown.md)
+↗ [Devices Schematic Diagram & Teardown](../../../Hardware%20&%20EE%20Related/Computer%20Motherboards/Devices%20Schematic%20Diagram%20&%20Teardown.md)
 
 
 

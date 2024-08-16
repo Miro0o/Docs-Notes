@@ -17,6 +17,9 @@ Other good resources:
 https://berkeleyglobal.zendesk.com/hc/en-us/articles/6831453854231-How-can-I-write-a-good-Statement-of-Purpose-essay
 How can I write a good Statement of Purpose essay? | UCB
 
+https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf
+Writing Your Graduate School Application Essay | CMU
+
 
 
 ## Intro
@@ -31,3 +34,5 @@ How can I write a good Statement of Purpose essay? | UCB
 [GRADUATE SCHOOL STATEMENT OF PURPOSE | University of Massachusets Amherst]: https://www.cics.umass.edu/content/graduate-school-statement-purpose
 
 [How to write a statement of intent | Western Sydney University]: https://www.westernsydney.edu.au/future/study/how-to-apply/higher-degree-research-candidates/master-of-research/how-to-write-a-statement-of-intent
+
+[👍 Another Annotated Example: CS PhD Statement of Purpose]: https://eugenielai.github.io/posts/another-annotated-sop.html
