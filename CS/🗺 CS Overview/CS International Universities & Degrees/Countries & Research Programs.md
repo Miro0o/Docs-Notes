@@ -569,7 +569,13 @@ Journalism and Computer Science [Dual MS](http://www.cs.columbia.edu/education/
 | CS@CU MS Bridge Program | **Priority:** February 15th<br>Final Deadline: March 1st | N/A |
 \* This is NOT a CS MS; it is a degree earned en route to the PhD. CS MS applicants need to follow the Master of Science Deadlines.
 
- 
+
+### 👉 University of Florida (UF)
+#### Florida Institute for Cybersecurity Research (FICS  Research)
+🏠 https://fics.institute.ufl.edu/index.php/about/
+
+
+
 ### 🇨🇦 Canada
 为什么去加拿大读研究生不是那么火？ - 加拿大ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
 #### 👉 University of Waterloo

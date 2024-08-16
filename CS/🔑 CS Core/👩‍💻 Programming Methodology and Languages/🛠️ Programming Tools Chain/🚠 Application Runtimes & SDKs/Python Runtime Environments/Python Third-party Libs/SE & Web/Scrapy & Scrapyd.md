@@ -1,4 +1,4 @@
-# Scrapy
+# Scrapy & Scrapyd
 
 [TOC]
 
@@ -6,6 +6,8 @@
 
 ## Res
 📂 https://docs.scrapy.org/en/latest/index.html
+📂 https://scrapyd.readthedocs.io/en/latest/
+
 
 ### Getting help
 Having trouble? We’d like to help!
@@ -21,8 +23,12 @@ Having trouble? We’d like to help!
 
 
 ## Intro
-Scrapy is a fast high-level [web crawling](https://en.wikipedia.org/wiki/Web_crawler) and [web scraping](https://en.wikipedia.org/wiki/Web_scraping) framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
+### `Scrapy`
+`Scrapy` is a fast high-level [web crawling](https://en.wikipedia.org/wiki/Web_crawler) and [web scraping](https://en.wikipedia.org/wiki/Web_scraping) framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
+
+### `Scrapyd` + `Scrapyd Client`
+https://scrapyd.readthedocs.io/en/latest/
 
 
 

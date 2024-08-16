@@ -1,4 +1,4 @@
-# Bochs
+# Bochs IA-32 (x86) PC emulator
 
 [TOC]
 

@@ -9,6 +9,10 @@
 🏠 https://github.com/Dreamacro/clash
 
 
+### Related Topics
+↗ [Clash-Verge-Rev (CVR)](Clash%20GUI%20Clients/Clash-Verge-Rev%20(CVR).md)
+
+
 
 ## Intro
 > UPDATE: clash project has been closed. 
@@ -20,7 +24,7 @@ It has been adopted widely by the Internet users in some countries and regions w
 
 ### Release Version of Clash
 #### 👉 Clash Core (Without GUI)
-There are currently two editions of Clash:
+There are currently two editions of Clash: meta core and premium core.
 - [Clash](https://github.com/Dreamacro/clash): the open-source version released at [github.com/Dreamacro/clash](https://github.com/Dreamacro/clash)
 - [Clash Premium](https://github.com/Dreamacro/clash/releases/tag/premium): proprietary core with [TUN support and more](https://dreamacro.github.io/clash/premium/introduction.html) (free of charge)
 #### 👉 Clash with GUI
@@ -41,13 +45,11 @@ This is a general overview of the features that comes with Clash.
 - **Remote Providers**: load remote proxy lists dynamically
 - **RESTful API**: update configuration in-place via a comprehensive API
 
-_Some of the features may only be available in the [Premium core](https://dreamacro.github.io/clash/premium/introduction.html)._
+Some of the features may only be available in the [Premium core](https://dreamacro.github.io/clash/premium/introduction.html).
 
 
 
 ## Ref
 [riobard/go-shadowsocks2]: https://github.com/riobard/go-shadowsocks2
-
 [v2ray/v2ray-core]: https://github.com/v2ray/v2ray-core
-
 [WireGuard/wireguard-go]: https://github.com/WireGuard/wireguard-go

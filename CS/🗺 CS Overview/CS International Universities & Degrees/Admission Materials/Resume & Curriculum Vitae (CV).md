@@ -28,6 +28,11 @@ https://github.com/Lxxyx/LxxyxResume
 前端简历生成器
 
 
+### Other Resources
+https://mitcommlab.mit.edu/eecs/commkit/cvresume/
+CV/Resume | MIT EECS Communication Lab
+
+
 
 ## Intro
 

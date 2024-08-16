@@ -9,7 +9,16 @@
 ↗ [WireGuard](../👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
 
 
-### Proxy & GFW Info
+### Proxy Software
+https://clash-verge-rev.github.io/friendship.html
+- [Clash 内核客户端](https://clash-verge-rev.github.io/friendship.html#clash)
+- [其他内核客户端](https://clash-verge-rev.github.io/friendship.html#_1)
+- [WEB UI 面板](https://clash-verge-rev.github.io/friendship.html#web-ui)
+- [内核安装器](https://clash-verge-rev.github.io/friendship.html#_2)
+- [参考文档](https://clash-verge-rev.github.io/friendship.html#_3)
+
+
+### Proxy Services
 [墙知乎](https://wallzhihu.com)
 
 🔗 https://www.duyaoss.com
@@ -18,8 +27,6 @@ duyaoss机场测速
 🔗 https://9.234456.xyz/abc.html
 机场推广列表
 
-
-### Proxy Services
 1. [qianglie](https://www.qianglie.com/#/profile)
 2. [AgentNEO](https://neoladder.com/dashboard)
 3. [GLaDOS](https://glados.rocks/register)
@@ -29,6 +36,12 @@ duyaoss机场测速
 5. [搬瓦工机场 Just My Socks](https://justmysockss.org/)
 2. [wgetcloud](https://invite.wgetcloud.ltd/auth/register?code=oikW)
 3. [搬瓦工自建](https://v2ray-x.com/banwagon-v2ray/)
+
+https://cloudfisher.net/web/#/login?code=Hyr6jJMH
+
+https://leiting.uniss.me/invite/vSfhpG0G
+
+https://miru.cloud/auth/register
 
 美国住宅IP代理可以使用：[https://oxylabs.io/](https://oxylabs.io/)，按流量计费，$15/G，按需使用，建议使用switchOmega浏览器插件设置只对openai.com域名走代理，跑不了多少流量。
 

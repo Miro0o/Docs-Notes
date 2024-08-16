@@ -23,7 +23,7 @@
 ### FHS (File Hierarchy System)
 FHS is not considered to be some authority on directory structure and contents for absolutely every Linux distribution, but it is ==generally the most common standard of linux file layout.== All directories and files in FHS appear under ‘/’ (i.e. the root directory).
 
-↗ [UNIX File System /FHS (Filesystem Hierarchy Standard)](../../../../UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md#FHS%20(Filesystem%20Hierarchy%20Standard))
+↗ [FHS (Filesystem Hierarchy Standard)](../../../Linux%20Referenced%20Specifications/FHS%20(Filesystem%20Hierarchy%20Standard).md)
 
 
 ### Mounting

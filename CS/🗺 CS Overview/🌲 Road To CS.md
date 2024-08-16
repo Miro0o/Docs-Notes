@@ -258,10 +258,15 @@ Hacker News is a social news website focusing on computer science and entreprene
 ---
 🔈 https://hnrss.github.io/#activity-parameters
 hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
-
 #### Enterprise's Updates
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 #### CS/IT Communities & Forums
+**LINUX DO**
+🏠 https://linux.do
+一个计算机中文社区，内容挺丰富的。
+注册需邀请。
+
+---
 **launchpad help**
 🏠 https://help.launchpad.net
 
@@ -282,6 +287,11 @@ news & tips & articles about IT/CS
 ---
 https://forum.exetools.com
 
+
+---
+**AnandTech**
+https://www.anandtech.com/home/
+PC components and technologies review
 #### CS-Related Course /Training Online Channels 🎬
 **哔哩大学计算机学院**
 🎬 https://space.bilibili.com/3493285983160582?plat_id=1&share_from=space&share_medium=iphone&share_plat=ios&share_session_id=45500281-6E65-4AAD-82EE-5EA13123733A&share_source=WEIXIN&share_tag=s_i&spmid=main.space-contribution.0.0&timestamp=1713443322&unique_k=tVeA7cI
@@ -342,11 +352,10 @@ https://www.youtube.com/@TchLiyongle
 ↗ [🧠 This is Science](../🏠%20Assets/This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
-Branch Education
+**Branch Education**
 🏠 https://branch.education
 🎬 http://www.youtube.com/@BranchEducation
-Lots of fun & illustrative videos the reveal the inner mechanism of computer & related 
-
+Lots of fun & illustrative videos the reveal the inner mechanism of computer & related
 #### CS-Related Tutorials /Websites /Books 📝
 ---
 [guru99](https://www.guru99.com)
@@ -493,7 +502,6 @@ Mainly about tutorials on CSS /frontend dev
 https://www.paulfioravanti.com
 code /language / mech/ Learning stenography
 https://www.paulfioravanti.com/blog/thanks-past-me/
-
 #### (Enterprise) Technical Supports & Blogs & Product Manuals
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 

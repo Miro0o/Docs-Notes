@@ -126,7 +126,7 @@ Large and complex systems may have boot procedures that proceed in multiple phas
 ## Ref
 [Booting | Wikipedia]: https://en.wikipedia.org/wiki/Booting
 
-👍 电脑基础知识普及：BIOS、EFI与UEFI详解！ - 知乎用户fB10GU的文章 - 知乎 https://zhuanlan.zhihu.com/p/54108702
+[👍 电脑基础知识普及：BIOS、EFI与UEFI详解！ - 知乎用户fB10GU的文章 - 知乎]: https://zhuanlan.zhihu.com/p/54108702
 
 > [what is UEFI, and how is it different from BIOS?](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
 > both UEFI and BIOS are low-level software that starts when you boot your PC before booting your operating system, but UEFI is a more modern solution, supporting larger hard drives, faster boot times, more security features, and—conveniently—graphics and mouse cursors.
@@ -176,4 +176,13 @@ PC机启动时，cpu首先执行ROM中的BIOS，ROM BIOS会将默认启动驱动
 - BIOS一律指传统BIOS，
 - UEFI BIOS一律称呼为UEFI。
 - UEFI下的BIOS设置，一律称为UEFI设置。
+
+一句话概括：BIOS只认识设备，不认识分区、不认识文件。
+一句话概括，UEFI认识设备，还认识设备ROM，还认识分区表、认识文件系统以及文件。
+
+![](../../../../../Assets/Pics/Pasted%20image%2020240816223431.png)
+<small>Windows 8/8.1/10 BIOS: MBR->PBR->bootmgr->WinLoad.exe</small>
+
+![](../../../../../Assets/Pics/Pasted%20image%2020240816223509.png)
+<small>Windows 8/8.1/10 UEFI: UEFI firmware->bootmgfw.efi->WinLoad.efi</small>
 

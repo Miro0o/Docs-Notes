@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/GCC (The GNU Compiler Collection)/gdb (GNU DeBugger)/kgdb (kernel gdb) & kdb.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "fd0f3073afea94f8",
+            "id": "8a2fd79324161573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Process Scheduling Basic Algorithms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e429370a07f4b672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md"
               }
             }
           },
@@ -198,45 +185,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e429370a07f4b672",
+  "active": "8a2fd79324161573",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Process Scheduling Basic Algorithms.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Untitled.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Computer Resource (CPU + Memory) Scheduling.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Uniprocessor Scheduling.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Process Scheduling.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/OS Scheduling & Resource Management.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Multiprocessor & Multicore Scheduling/Multiprocessor & Multicore Scheduling.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Scheduling & Resource Management/Computer Resource (CPU + Memory) Scheduling/Process Scheduling/Uniprocessor Scheduling/Priority Scheduling.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrency Control/Concurrency Control.md",
-    "CS/System Architecture Design/🌌 Distributed Systems/☯️ Distributed Systems Design/Distributed Process Management/Distributed Process Management.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/OS Processes & Automata Management (CPU + Main Memory Resource).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Rust/Rust.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Golang Runtime Environments.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/JavaScript Runtime Environments.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/PHP Runtime Environments/PHP Runtime Environments.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/Python Runtime Environments.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Hypervisors Implementation/Hosted Hypervisor/Exclusive/Bochs IA-32 (x86) PC emulator.md",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/Second-Stage Boot Loader & Boot Manager/🛰️ Network Booting/PXE (Preboot Execution Environment)/PXE (Preboot Execution Environment).md",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/Second-Stage Boot Loader & Boot Manager/🛰️ Network Booting/PXE (Preboot Execution Environment)/gPXE & iPEX.md",
+    "Assets/Pics/Pasted image 20240816223509.png",
+    "Assets/Pics/Pasted image 20240816223431.png",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/Boot Image Flasher & Formatters/bootice.md",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/First-Stage Boot Loader (System Firmware).md",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/📌 Legacy BIOS (Basic IO System)/Legacy BIOS (Basic IO System).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/⚡️ ASM Advance/BIOS & IO/BIOS & IO.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/⚡️ ASM Advance/Interfaces/Interfaces.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/⚡️ ASM Advance/Interrupts/Interrupts.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/⚡️ ASM Advance/ASM Advance.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Resume & Curriculum Vitae (CV).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/System Call Interfaces (SCI)/Windows API.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/LSB (Linux Standard Base).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/System Call Interfaces (SCI)/POSIX (Portable Operating System Interface).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/Linux Referenced Specifications.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/Program Debugging & Defensive Programming.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/DWARF Standards.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/Application Programming Interface (API) Standards.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/Application Binary Interface (ABI) Specifications & Standards.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/FHS (Filesystem Hierarchy Standard).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/UNIX Family/📌 UNIX Kernel/UNIX IO & Files Management/UNIX File System/UNIX File System.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/Embedded Device Motherboards",
+    "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/Phones Motherboards",
+    "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/PC Motherboards",
+    "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards",
+    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/📌 sing-box",
+    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/🤖 Test Automation/APP Test Automation/Android Monkey",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Rust Runtimes Environments",
     "CS/Embedded & Internet of Things/Embedded Programming/HLS (High Level Synthesis)",
     "CS/Embedded & Internet of Things/Embedded Programming/HCL ()",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Video Conferencing",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled + Interpreted Languages/⚰️ JVM-Based Languages/Clojure",
     "Assets/Pics/4A0FF65C-B64C-490E-ADAE-517E086D6F33.png",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Projects/seL4",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/JVM Instrument Set & Java Bytecode",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/🧑🏽‍🏫 Mini OS Kernels/xv6 (a simple unix-like teaching operating system)",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/Vulnerability Elimination (漏洞消除)",
     "Assets/Pics/Screenshot 2024-07-26 at 2.01.12 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.53 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.35 PM.png",
@@ -244,8 +233,6 @@
     "Assets/Pics/Screenshot 2024-07-21 at 12.41.22 AM.png",
     "Assets/Pics/Screenshot 2024-07-21 at 12.35.01 AM.png",
     "Assets/Pics/Screenshot 2024-07-21 at 12.32.05 AM.png",
-    "Assets/Pics/Screenshot 2024-07-21 at 12.27.54 AM.png",
-    "Assets/Pics/Screenshot 2024-07-20 at 11.59.42 PM.png",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
