@@ -32,9 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac339e4c1f615bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edeeb320208608b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
               }
             }
           },
@@ -185,8 +211,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8a2fd79324161573",
+  "active": "edeeb320208608b3",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/Directory Services/DNS Server (DNS Distributed Database)/DNS Server Implementations/🌏 Global DNS Service Providers.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🚀 Virtualization Theory/Hardware Level Virtualization & Hypervisors/Hypervisors Implementation/Hosted Hypervisor/Exclusive/Bochs IA-32 (x86) PC emulator.md",
     "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/Second-Stage Boot Loader & Boot Manager/🛰️ Network Booting/PXE (Preboot Execution Environment)/PXE (Preboot Execution Environment).md",
     "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/Bootstrap (Boot).md",
@@ -201,7 +231,6 @@
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/⚡️ ASM Advance/Interrupts/Interrupts.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/⚡️ ASM Advance/ASM Advance.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Admission Materials/Resume & Curriculum Vitae (CV).md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/System Call Interfaces (SCI)/Windows API.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/LSB (Linux Standard Base).md",
@@ -212,9 +241,6 @@
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/DWARF Standards.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/Application Programming Interface (API) Standards.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/Application Binary Interface (ABI) Specifications & Standards.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/FHS (Filesystem Hierarchy Standard).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/UNIX Family/📌 UNIX Kernel/UNIX IO & Files Management/UNIX File System/UNIX File System.md",
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/Embedded Device Motherboards",
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/Phones Motherboards",
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/PC Motherboards",

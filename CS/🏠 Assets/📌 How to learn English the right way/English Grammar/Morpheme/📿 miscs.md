@@ -6945,7 +6945,8 @@ jocund
 - _[dour jocund](dic://dour%20jocund)_ 阴郁的
 - A poet could not but be gay in such a jocund company. /一个诗人在这种兴高采烈的同伴中自然而然地会快乐
 
-jokey
+jockey
+- 来自常见人名 Jock 昵称，用来称呼普通人或不认识的小伙。后用于指骑马送信的信使，引申词义赛马骑师，同时，也用于指马匹交易商，即 horse-dealer,因这一职业存在许多欺骗行为，干这一行的人名声通常都不太好，引申词义欺诈，耍花招等。
 - [cheat](dic://cheat), [chouse](dic://chouse), [shaft](dic://shaft), [screw](dic://screw), [chicane](dic://chicane)
 - _n._ [horseman](dic://horseman), [equestrian](dic://equestrian), [horseback rider](dic://horseback rider), [operator](dic://operator), [manipulator](dic://manipulator)
 - _v._ [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [manoeuver](dic://manoeuver)
@@ -6953,8 +6954,19 @@ jokey
 - _[jockey shorts](dic://jockey%20shorts)_ 男用紧身短裤; 男用身短; 
 - _[Disk Jockey](dic://Disk%20Jockey)_ 电台节目主持人; 音控员; 电台节目人; 电台节目掌管人;
 - jockey sb.out of sth
-- jockeying for a promotion.
+- jockeying for a promotion
 - And here in Australia, actually this word, this adjective can be used in a jokey way as well. /在澳大利亚，其实这个词呢，这个形容词也可以以一种比较戏谑的方式使用。
+- No trope of stagecraft went unexplored this week as the United States jockeyed for advantage in a high-level economic dialogue with China /美国人在本周与中国高层的经济对话中为占先机可谓无所不用其极。
+- Although favourite to win the race, the champion jockey had an off day and was unplaced . /尽管那位第一流的赛马职业骑手最有希望赢得比赛的胜利，但他感到身体不舒服，结果未得名次。
+- the jockey's injuries forced him to give up the coveted mount on Cool Ground /骑师的伤势迫使他放弃他渴盼参加的柯尔•格朗德赛事。
+- a hodman is an architect, a jockey is a sportsman, a wood-louse is a pterigybranche. /刷墙的叫做建筑师，赛马的叫做运动员，土鳖叫做鼠妇。
+- he jockeyed his machine into a dive. /他熟练地操控飞机俯冲。
+- both men will be jockeying for the two top jobs. /两人都将不择手段地争取这两个高层职务。
+- jockeys maneuvering for position /使用手段而取得优势
+- jockeyed the car into a tight space. /将车驶入狭窄的空间
+- Technically, Howard's the gear head.Leonard's just a dime store laser jockey. /严格来说 霍华德才是机械行家 莱纳德只是低级的激光操作员。
+- The men jockey for a coveted recliner and settle in /大家争抢着都想要那个诱人的躺椅，之后逐渐安顿下来。
+- Some jockey for kudos while other (often more deserving) candidates are left behind. /有些人角逐到了名誉，而另一些（往往更值得的）候选人则败下阵来。
 - outjokey
 
 josh
@@ -6993,15 +7005,24 @@ juggernaut
 
 ## K
 kempt
+- [tidy](dic://tidy)
 - _adj._ [groomed](dic://groomed)
 - _n._ [ungroomed](dic://ungroomed)
 - **tidy**整齐的;**groomed**修饰的;**immaculately**干净地;**overgrown**长得很快;**spotless**无瑕疵的;**beard**胡须;**neat**整洁的;**immaculate**整洁的, 无污迹的;**clean**清洁的，干净的;**dignified**高贵的;**hair**头发;
 - a nicely kempt beard /漂亮整齐的胡子
 - she was looking as thoroughly kempt as ever /她看上去像往常一样，十分整洁。
 - unkempt
+	- adj. 蓬乱的，不整洁的；（言语等）粗野的
 	- _adj._ [uncombed](dic://uncombed), [ungroomed](dic://ungroomed), [untidy](dic://untidy)
 	- _n._ [combed](dic://combed), [groomed](dic://groomed), [tidy](dic://tidy)
 	- **overgrown**长得很快;**unattractive**不吸引人的;**ragged**衣衫褴褛的;**unruly**不守规矩的;**dilapidated**破旧的;**filthy**污秽的;**smelly**有臭味的，发臭的;**tattered**破烂的，衣衫褴褛的;**unsightly**不悦目的;**dirty**污秽的;**disorganized**紊乱的, 无组织的;
+	- unkempt hair /蓬乱的头发
+	- The old beggar was dirty and unkempt. /那个老乞丐 蓬头垢面。
+	- Aren't you a little unkempt for a corporate setting? /你上班就这副不修边幅的样子?
+	- His thin, colorless hair was unkempt and there was a large bald patch on top. /他那稀薄的淡色头发蓬乱不堪，头顶上还秃了一大块。
+	- The lot was unkempt and illicit, like the arena in El Harrach, but there were far more spectators. /这块场地不整洁，不合法，就像艾尔-哈拉赫的竞技场一样，但观众要多得多。
+	- Slave States were dirty, unkempt, poverty-stricken, ignorant, vicious! /蓄奴州肮脏、蓬头垢面、贫穷、无知、邪恶！
+	- He had long **unkempt** hair and a stubbly chin /他头发蓬乱，脸上胡子拉碴。
 
 khan
 - n. 可汗, 商队宿店
@@ -7035,11 +7056,27 @@ kink
 - Aww, did I put a kink in your master plan? I'm so sorry. /我破坏了你的大计吗？很抱歉。
 - Unfortunately, your uncle was a notorious tinkerer, and the system still had some kinks to work out /不幸的是，你叔叔的修理水平是远近闻名的差，车的系统仍有一些小问题需要解决。
 - kinky
+	- a. 弯曲的, 古怪的
+	- adj. [口]奇形怪状的，怪癖的；稍微变态的；扭结的，古怪的
+	- adj. （非正式）性变态的；（衣着）异常挑逗的；（头发）卷曲的
+	- [perverted](dic://perverted)
 	- [crisp](dic://crisp), [frizzly](dic://frizzly), [frizzy](dic://frizzy), [nappy](dic://nappy)
 	- [far-out](dic://far-out), [offbeat](dic://offbeat), [quirky](dic://quirky), [way-out](dic://way-out)
-	- [perverted](dic://perverted)
+	- _adj._ [abnormal](dic://abnormal), [curly](dic://curly), [unconventional](dic://unconventional)
+	- _n._ [normal](dic://normal), [straight](dic://straight), [conventional](dic://conventional)
+	- **naughty**顽皮的，淘气的;**kink**扭结;**horny**角状的;**erotic**色情的;**fetish**迷信;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**sexy**性感的;**freaky**畸形的;**sensual**感觉的;**submissive**顺从的, 唯命是从的;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;
+	- _[kinky boot](dic://kinky%20boot)_  长统女靴
+	- _[kinky hair](dic://kinky%20hair)_  n. 卷缩发
+	- kinky underwear /异常挑逗的内衣。
+	- kinky hair. /卷曲的头发
+	-  Like not kinky. Just a little kinky. I love olives./比如我不变态。只是有点怪癖。我喜欢橄榄。
+	- Did you tell her about our kinky night? /你告诉了她咱俩的重口之夜吗？
+	- She shook her until the kinky head rocked drunkenly. /她拽住她用力摇晃，直摇晃得她的黑脑袋像醉鬼一般摆来摆去。
+	- Needless to say, it was some pretty kinky stuff. /不多说了 这梦真的很怪异。
+	- You, uh-you into some kinky baby play or something? /你喜欢恶趣味的小孩角色扮演吗？
 - kinkled
 - kinkle
+	- n. 卷发；小扭结
 - kinking
 - kinkcough
 
@@ -10027,6 +10064,9 @@ rivet
 - Flat head rivets would reduce wind drag. /用平头铆钉可以减小风阻。
 - I was riveted. I loved it so much. /我被吸引住了。我非常喜欢它。
 
+roast
+- 
+
 rob
 - robe：古代抢劫所得最主要的掠夺品 
 	- 英语单词robe（长袍）和rob（抢劫）在拼写上如此接近，它们在词源上有何渊源呢？原来，它们都来自古日耳曼语，拥有相同的词源。robe原本表示“战利品”。由于古代打劫或作战时获得的主要战利品就是敌人身上的衣服，因此robe一词才逐渐产生了“衣服”的含义，通常表示比较高档的礼服、长袍。
@@ -10042,6 +10082,30 @@ rod
 - ramrod
 - goldenrod
 - ramrod
+
+rollick
+-  [frolic](dic://frolic), [lark](dic://lark), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
+- _v._ [play](dic://play)
+- **romp**嬉闹玩笑;**raucous**沙哑的;**rousing**活泼的;**jazzy**爵士乐的;**joyous**令人高兴的;**merry**愉快的;**boisterous**热闹的;**jolly**愉快的;**spirited**生机勃勃的;**exuberant**兴高采烈的;**gleefully**极快乐地,欢欣地;
+- I've had a bit of a rollicking for not riding with more restraint /我因驾车不够克制而受到一番斥责。
+- Ron said he hoped, as a friend, that I would not take what he called, quote: “this rollick into outrageous PR as an affront. /罗恩说他希望我别被那种他称之为公开侮辱的蛮横公关闹剧所欺骗。
+- A rollicking, happy, fun, Broadway musical for the whole family.The Guys and Dolls of New York sing, dance, and gamble their way to love and redemption. /《红男绿女》是适合于全家一起欣赏的一场玩闹的，快乐的，有趣的百老汇音乐剧.
+- After dark, the town erupts into a rollicking party scene /天黑后， 小镇爆发出热闹的派对场面。
+
+romance
+- _n._ [relationship](dic://relationship), [quality](dic://quality), [Latin](dic://Latin), [story](dic://story), [novel](dic://novel)
+- _v._ [act](dic://act), [move](dic://move), [love](dic://love), [talk](dic://talk), [speak](dic://speak), [lie](dic://lie)
+- _adj._ [Romance](dic://Romance), [Romance language](dic://Romance language), [Latinian language](dic://Latinian language)
+- **romantic**浪漫的;**suspense**悬念;**erotica**色情作品;**melodrama**情节剧;**novels**小说;**fiction**小说;**heroine**女英雄;**drama**戏剧，戏剧艺术;**novella**短篇故事;**friendship**友情, 友谊, 友好;**intrigue**阴谋;
+- [love affair](dic://love affair)
+- [romanticism](dic://romanticism)
+- [Romance language](dic://Romance language), [Latinian language](dic://Latinian language)
+- [love story](dic://love story)
+- [woo](dic://woo), [court](dic://court), [solicit](dic://solicit)
+- [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquet](dic://coquet), [coquette](dic://coquette), [philander](dic://philander), [mash](dic://mash)
+- [Latin](dic://Latin)
+- romancist
+- romancer
 
 romp (ramp)
 - n. 喧闹游玩, 风流韵事; 冒险故事书
@@ -10076,11 +10140,17 @@ romp (ramp)
 	- rompers
 
 roost
+- n. （鸟或蝙蝠的）栖息处 
+- v. （鸟、蝙蝠）栖息；急潮流
 - **nest**巢，窝;**coop**把…关进笼子里;**nests**巢;**flocks**短纤维，废毛铁;**flock**群;**birds**鸟类;**perch**栖木;**owls**猫头鹰;**nesting**嵌套;**brood**沉思;**bird**鸟;
 - [sit](dic://sit), [sit down](dic://sit down), [settle](dic://settle), [root](dic://root), [take root](dic://take root), [steady down](dic://steady down), [settle down](dic://settle down)
 - [perch](dic://perch), [rest](dic://rest)
 - _come home to roost_ 得到恶报，报应；归还原主
 - rule the roost称雄；当家；作主
+- Birds like to roost off the ground. /鸟喜欢在地面上栖息。
+- They do establish a dominance between them as to who is ruling the roost out there. /她们确实在她们内部建立了一种支配地位，谁在那里统治着。
+- The peacocks **roost** in nearby shrubs. /那只孔雀在附近的灌木丛里栖息。
+- Appeasement has come home to **roost** /绥靖已自食其果。
 - rooster
 	- rooster ['ruːstə] n.公鸡。类似work和woker，rooster是roost n. 栖木；鸟窝，vi. 栖息；安歇的施动者名词。而roost作名词时，是hen house即鸡窝，即wooden framework（框架） of a roof。哦，这样来说，roost鸡窝和roast v.烧烤就有关系了，烧烤是cook on a grate（格栅）or gridiron（格状物）。
 - quail-roost
@@ -10097,9 +10167,18 @@ rose
 - roselike
 - roseleaf
 - rosebush
+	- [rose](dic://rose)
+	- _n._ [shrub](dic://shrub), [bush](dic://bush)
+	- **flower**花;**lilac**淡紫色;**blooms**水华;**thorns**荆棘;**garden**菜园;**shrub**灌木;**bloom**花;**blooming**盛开的;**orchid**兰花;**vine**葡萄树;**cactus**仙人掌;
+	- Neither water nor air alone can change into a rosebush or a butterfly /无论水或空气都无法独力变成玫瑰或蝴蝶。
+	- Snape had his wand out and was blasting rosebushes apart, his expression most ill-natured. /斯内普手里拿着魔杖，把玫瑰花丛向两边轰开。他板着脸，表情很难看。
+	- They say to me: " Benjamin, have you learnt how to prune (to cut) the rosebush" ? /" 本杰明，你学过修剪（剪去）蔷薇丛吗？"
 - rosebud
 - rosebed
 - rosebay
+	-  [Rhododendron maxima](dic://Rhododendron maxima)
+	- _n._ [rhododendron](dic://rhododendron)
+	- **willow**柳木制品;**lilac**淡紫色;**shrub**灌木;**rhubarb**大黄;**moss**苔藓;**flowering**开花的;**ivy**常春藤联盟的;**fern**蕨类植物;**heather**Heather;**jasmine**茉莉;**shrubs**灌木;
 - roseate
 	- sub rosa [,sʌb'rəuzə] （拉）秘密地；私下地（也写作under the rose）。罗马神话中，丘比特送给沉默之神Harpocrates一朵玫瑰，希望后者对他母亲维纳斯的风流韵事守口如瓶，因此玫瑰就成了私密的象征。有些西方餐厅的天花板上有玫瑰的图案，意思也是在玫瑰之下（也是在酒精的刺激下）说的话要保密。
 	- rose玫瑰和lily百合的得名来自于各自花瓣的颜色，玫瑰花是red，百合是白色的，可以与lactose n.乳糖和lactic adj.乳汁的，还有leukemia n.白血病（em=blood）等等放在一起记忆。乳汁也是白色的哦。真正词源不是这样。
@@ -10116,6 +10195,7 @@ rose
 - rose-drop
 - rose-coloured
 - rosary
+	- n. 玫瑰园，玫瑰花坛；[宗教]玫瑰经，诵经用的念珠
 	- [prayer beads](dic://prayer beads)
 	- _n._ [beads](dic://beads), [string of beads](dic://string of beads)
 	- **prayer**恳求;**beads**玻璃珠;**prayers**祈祷;**nun**修女，尼姑;**necklace**项链;**Eucharist**圣餐;**bead**珠子;**praying**祈祷;**beaded**珠状的;**devotional**信仰的;**pray**祈祷;
@@ -10123,8 +10203,11 @@ rose
 	- _[rosary beads](dic://rosary%20beads)_  串珠; 念珠;
 	- Noah. Didn't know you were a religious man. What's with the rosary? /Noah。我从来不知道你信仰宗教。拿着念珠做什么？
 	- And I pray to rosary every day for forgiveness for their, I want them to heal /我每天祈祷，希望得到你们的原谅，我只是想治好他们的病。
+	- He was dressed in red and gold liturgical vestments, a miter on his head and a rosary in his hand. /他头戴主教冠，手持念珠，身着红金色的礼拜法衣。
+	- 
 - rosalia
 - rosaceous
+	- adj. 玫瑰色的；蔷薇科的；蔷薇似的
 	- _adj._ [Rosaceae](dic://Rosaceae), [family Rosaceae](dic://family Rosaceae), [rose family](dic://rose family), [chromatic](dic://chromatic)
 	- **fleshy**肉的;**shrub**灌木;**lilac**淡紫色;**flowering**开花的;**berry**浆果;**foliage**叶子;**apricot**杏树;**succulent**汁多味美的;**reddish**微红的;**violet**紫罗兰;**woody**木质的;
 - primrose
@@ -10135,30 +10218,31 @@ rose
 	- _evening primrose oil_ 月见草油
 	- _primrose oil_ n. 月见草油
 	- _primrose yellow_ 淡黄色
+	- _[A Primrose Path](dic://A%20Primrose%20Path)_  无忧无虑舒适; 布满樱草花的道路; 无忧无虑舒适安逸的生活; 
+		- If we followed your advice we’d all be walking down the primrose path to ruin. /如果我们听你的建议就等于走上堕落自毀的道路。
+		- blithely unaware of his doom, he continued down his primrose path. /他快乐得忘了命运劫数，继续走着通向黄泉的享乐之路。
+		- You don't wanna be led down the primrose path. /你不希望到最后你的幻想会破灭。
+	- _[The Primrose Path](dic://The%20Primrose%20Path)_  枇杷门巷
+	- She is in the primrose of her life. /她正处在她一生的最盛期。
+	- they considered the first primroses as the herald of spring. /他们把第一批樱草花视为春天的预兆。
+	- a spray of mixed violets and primroses /一簇紫罗兰和报春花
+	- Wild flowers such as orchids and primroses are becoming rare. /兰花和报春花这类野花越来越稀少了。
+	- In the wide glades there were primroses /宽阔的林间空地上开着朵朵樱草花。
+	- The stem of the primrose plant is so short that it can hardly be seen. /报春花的茎，非常短，不太容易看出来。
+	- After more giggling and some whispering the two little girls came back, and bought the primroses. /两个小女孩又是咯咯地笑又是窃窃私语， 然后回来了， 买了报春花。
 
-rollick
--  [frolic](dic://frolic), [lark](dic://lark), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
-- _v._ [play](dic://play)
-- **romp**嬉闹玩笑;**raucous**沙哑的;**rousing**活泼的;**jazzy**爵士乐的;**joyous**令人高兴的;**merry**愉快的;**boisterous**热闹的;**jolly**愉快的;**spirited**生机勃勃的;**exuberant**兴高采烈的;**gleefully**极快乐地,欢欣地;
-- I've had a bit of a rollicking for not riding with more restraint /我因驾车不够克制而受到一番斥责。
-- Ron said he hoped, as a friend, that I would not take what he called, quote: “this rollick into outrageous PR as an affront. /罗恩说他希望我别被那种他称之为公开侮辱的蛮横公关闹剧所欺骗。
-- A rollicking, happy, fun, Broadway musical for the whole family.The Guys and Dolls of New York sing, dance, and gamble their way to love and redemption. /《红男绿女》是适合于全家一起欣赏的一场玩闹的，快乐的，有趣的百老汇音乐剧.
-- After dark, the town erupts into a rollicking party scene /天黑后， 小镇爆发出热闹的派对场面。
-
-romance
-- _n._ [relationship](dic://relationship), [quality](dic://quality), [Latin](dic://Latin), [story](dic://story), [novel](dic://novel)
-- _v._ [act](dic://act), [move](dic://move), [love](dic://love), [talk](dic://talk), [speak](dic://speak), [lie](dic://lie)
-- _adj._ [Romance](dic://Romance), [Romance language](dic://Romance language), [Latinian language](dic://Latinian language)
-- **romantic**浪漫的;**suspense**悬念;**erotica**色情作品;**melodrama**情节剧;**novels**小说;**fiction**小说;**heroine**女英雄;**drama**戏剧，戏剧艺术;**novella**短篇故事;**friendship**友情, 友谊, 友好;**intrigue**阴谋;
-- [love affair](dic://love affair)
-- [romanticism](dic://romanticism)
-- [Romance language](dic://Romance language), [Latinian language](dic://Latinian language)
-- [love story](dic://love story)
-- [woo](dic://woo), [court](dic://court), [solicit](dic://solicit)
-- [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquet](dic://coquet), [coquette](dic://coquette), [philander](dic://philander), [mash](dic://mash)
-- [Latin](dic://Latin)
-- romancist
-- romancer
+rotisserie
+- [美 /ro'tɪsəri/](cmd://Speak/_us_/rotisserie)
+- n. 烤肉店, 烤肉铺, 轮转烤肉器
+-  来自法语 rotisserie,烤肉店，来自 rotir,烤，来自古法语 rostir,烤，词源同 roast.-ss,法语现在分词，-erie,表小餐饮店，词源同 cafeteria.字母 s 脱落，比较 study,etude.
+- _n._ [oven](dic://oven), [restaurant](dic://restaurant), [eating house](dic://eating house), [eating place](dic://eating place)
+- **grill**烤架;**chicken**小鸡;**roast**烤，焙;**roasting**烤肉用的;**boneless**无骨的;**grilling**格栅;**barbecue**烤肉;**roasted**烤的;**brisket**胸肉;**BBQ**野外烧烤;**barbeque**在烤架上烤;
+- _[rotisserie chef](dic://rotisserie%20chef)_ 烤肉厨师; 烤肉店厨师; 
+- _[rotisserie rack](dic://rotisserie%20rack)_ 烤架
+-  And there was a rotisserie with the spinning chicken /还有一家烤鸡店烤架上有鸡（有“胆小”的意思）在转。
+- Did I mention it has a rear-mounted rotisserie rack? /我说过 它有后置旋转烤肉架 吗?
+- And to make it easy, we are using a rotisserie chicken. /为了简单起见，我们使用的是烤鸡。
+- 
 
 row
 - [quarrel](dic://quarrel), [wrangle](dic://wrangle), [words](dic://words), [run-in](dic://run-in), [dustup](dic://dustup)
