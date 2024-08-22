@@ -3462,59 +3462,89 @@
 			4. _[trover and conversion](dic://trover%20and%20conversion)_ 动产侵占与返还之诉
 4. **trop-, -tropy** = turn, 表示“转”，后缀 -tropy 表示“取向、向……性”。
 	1. entropy
-		1. negentropy
-		2. isentropic
-		3. homoentropic
-	2. phototropy
-	3. thixotropy
-	4. chemotropic
-	5. chromatrope
-	6. dexiotropic
-	7. geotropic
-	8. geotropism
+		1.  en-,进入，使，-trop,转，混乱，词源同 turn,tropical.即进入混乱状态，后用于科学术语，指无序状态的测量。
+		2. [information](dic://information), [selective information](dic://selective information)
+		3. [randomness](dic://randomness), [S](dic://S)
+		4. _n._ [information measure](dic://information measure), [physical property](dic://physical property)
+		5. **thermodynamic**热力的;**thermodynamics**热力学;**randomness**随意,无安排;**dynamical**动力的,有力量的;**quantum**量子论;**equilibrium**平衡,均势;**singularity**异常,奇怪,奇特;**deterministic**确定的;**probability**可能性;**space-time**时空;**decomposition**分解;
+		6. _entropy function_ 熵函数
+		7. _negative entropy_ 负熵；反熵作用
+		8. _entropy increase_ 熵增加
+		9. _entropy flow_ 熵流
+		10. _activation entropy_ 活化熵
+		11. _partial entropy_ 偏熵
+		12. a marketplace where entropy reigns supreme. /极其混乱的市场。
+		13. We also give the plots of mutual entropy as function of temperature, number of spins of subchain and the nearest neighbor interaction. /同时我们也给出了量子互熵随温度，最近邻相互作用的变化规律。
+		14. No, there isn't. Only loop quantum gravity calculates the entropy of black holes /不是这样的，只有环量子引力能算出黑洞的熵值。
+		15. Like everybody else's. Subject to entropy, decay and eventual death. /跟普通人没什么两样 经历着万物的成长 衰败和最终的死亡。
+		16. That says that any isolated system will tend towards increasing entropy, or disorder. 
+		17. negentropy
+		18. isentropic
+		19. homoentropic
+	3. phototropy
+		1. phototropism
+	4. thixotropy
+	5. chemotropic
+	6. chromatrope
+	7. dexiotropic
+	8. geotropic
+		1. geotropism
 	9. gonadotropic
 	10. heliotrope
 	11. hydrotropism
 	12. intertropical
 	13. isotropic
-	14. isotropism
-	15. neurotropic
-	16. organotropic
-	17. pantropic
-	18. phototropism
-	19. pneumotropic
-	20. psychotropic
-	21. rheotrope
+		1. isotropism
+	14. neurotropic
+	15. organotropic
+	16. pantropic
+	18. pneumotropic
+	19. psychotropic
+	20. rheotrope
 		1. rheotropism
-	22. selenotropic
+	21. selenotropic
 		1. semitropic
 		2. semitropical
-	23. subtropic
+	22. subtropic
 		1. subtropical
 		2. subtropics
-	24. thaumatrope
-	25. zoetrope
-	26. adrenocorticotropic
-	27. allotrope
+	23. thaumatrope
+	24. zoetrope
+	25. adrenocorticotropic
+	26. allotrope
 		1. allotropy
 		2. allotropism
 		3. allotropic
-	28. chemotropism
+	27. chemotropism
 		1. chemotropy
-	29. pneumotropism
-	30. tropaeolum
-	31. trophy
+	28. pneumotropism
+	29. tropaeolum
+	30. trophy
+		1. n. 奖杯，奖品；（用于比赛或赛跑名称）奖，奖杯（Trophy）；战利品，猎获物；（古希腊或古罗马用缴获的武器搭成的）胜利纪念柱 
+		2. adj. 向他人炫耀的，抬高自己身价的
+		3. [prize](dic://prize)
+		4. _n._ [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels)
+		5. **medal**勋章，奖章;**championship**锦标赛,冠军赛;**medals**奖章;**silverware**银器;**award**授予;**prize**奖品;**winning**胜利的;**winners**成功者;**winner**胜利者;**awards**奖项;**runner-up**亚军;
+		6. The cup is a cherished trophy of the company. /那只奖杯是该公司很珍惜的奖品。
+		7. do you fancy potting a fine trophy? /你想过赢得奖杯吗？
+		8. The Peewee Boyz strike a trophy-winning pose /“毛头小子”摆出个大获全胜的造型。
+		9. he lifted his trophy over his head. /他把奖杯举过头顶。
 	32. trope
-		1. tropic
+		1. trope - tropic源于希腊词tropikós。实际上它和trophy（奖品，战利品）一样，同是出自希腊词根tropē 'turn'（转向，转动）。用tropic来指“回归线”是因为回归线是太阳所能到达的极限位置，太阳到达此处，不是转向南去，就是转向北去。北回归线英语说Tropic of Cancer，南回归线英语说Tropic of Capricorn。tropic的复数形式，即tropics，则被用以指南回归线和北回归线之间的地带，即“热带”。英语中有一个修辞学术语trope（转义，比喻）其终极词源也是希腊词根tropē。
+		2.  [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+		3. _n._ [rhetorical device](dic://rhetorical device)
+		4. **cliche**陈词滥调;**archetype**原型;**cliches**陈腔滥调;**parody**拙劣的模仿;**stereotype**老套, 模式化的见解, 有老一套固定想法的人;**protagonist**主角;**stereotypical**老一套的;**villain**坏人，恶棍;**genre**类型;**overused**过度使用的;**meme**文化基因;
+		5. _[trope and synecdoche](dic://trope%20and%20synecdoche)_ 借喻和借代
+		17. tropic
 			1. nootropic
 			2. pleiotropic
 			3. tropical
 			4. tropicopolitan
 			5. tropicalize, tropicalizationtropicality
-		2. tropics
-		3. tropology
-		4. tropopause
-		5. troposphere
+		18. tropics
+		19. tropology
+		20. tropopause
+		21. troposphere
 5. **troph-** = nutrition, 表示“营养”。源自希腊语 trophe "nourishment."
 	1. auxoroph
 	2. ectotrophic
