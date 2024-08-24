@@ -36,3 +36,5 @@ Writing Your Graduate School Application Essay | CMU
 [How to write a statement of intent | Western Sydney University]: https://www.westernsydney.edu.au/future/study/how-to-apply/higher-degree-research-candidates/master-of-research/how-to-write-a-statement-of-intent
 
 [👍 Another Annotated Example: CS PhD Statement of Purpose]: https://eugenielai.github.io/posts/another-annotated-sop.html
+
+[How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application]: https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html

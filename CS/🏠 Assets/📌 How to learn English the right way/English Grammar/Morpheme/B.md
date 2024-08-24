@@ -2643,12 +2643,12 @@
 		14. shirtband
 		15. rainband
 		16. etc..
-	2. bandeau
-	3. bandog
-	4. bandoleer
-	5. bandolier
-	6. bandoline
-	7. bandy
+	3. bandeau
+	4. bandog
+	5. bandoleer
+	6. bandolier
+	7. bandoline
+	8. bandy
 		1. adj. 向外弯曲的；（双腿）罗圈的 
 		2. v. （网球）打来打去；传播；争吵 
 		3. n. 早期的曲棍球（冰球）；曲棍
@@ -2657,13 +2657,76 @@
 		6. " Options" is the word they keep bandying about /“选项”是他们一直在谈论的词。
 		7. They bandied great names from one to the other. /
 		8. bandy-legged
-	8. bend
-		1. windbend
-		2. unbend, unbending
-		3. bending
-		4. bender
-		5. bended
-	9. bind
+	9. bend
+		1. vi. 变弯曲, 屈服  
+		2. vt. 使弯曲, 使屈服  
+		3. n. 弯曲
+		4. bend（使弯曲）：给弓绑上弓弦  
+		5. 单词bend的本意是“给弓绑上弓弦”。给弓绑弓弦的时候，弓会被压弯。所以bend的意义后来逐渐演变为“使弯曲，使屈服”。但从单词的拼写上，我们还能看出bend与含有“捆绑”含义的单词bond、band、bind很像，因为它们都是同源单词。  
+		6. bend：[bend]vi.弯曲，屈服vt.使弯曲，使屈服n.弯曲  
+		7. bond：[bɒnd]vi.结合，联系在一起vt.使结合n.结合，约定，债券  
+		8. band：[bænd]vi.用带绑扎n.乐队，一群，带，波段  
+		9. bind：[baɪnd] vi.结合，装订，有约束力vt.绑，装订，包扎n.捆绑，困境
+		10. windbend
+		11. unbend, unbending
+			1.  [straighten](dic://straighten)
+			2.  [relax](dic://relax)
+			3. [relax](dic://relax), [loosen up](dic://loosen up), [unwind](dic://unwind), [decompress](dic://decompress), [slow down](dic://slow down)
+			4. _v._ [change posture](dic://change posture), [unfasten](dic://unfasten), [straighten](dic://straighten), [straighten out](dic://straighten out), [loosen](dic://loosen), [loose](dic://loose), [change state](dic://change state)
+			5. _n._ [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [twist](dic://twist), [turn](dic://turn)
+			6. **bend**使弯曲;**straighten**弄直;**fasten**扎牢;**loosen**放松;**countenance**面容，表情;**detach**分离;**bent**爱好，嗜好;**likewise**也;
+			7. The Minister was proving unbending on key issues. /在关键问题上该部长决不通融。
+			8. you could be fun too, you know, if you'd only unbend a little. /你知道，如果你放松一点，你也会有趣的。
+			9. He remained unbending under the severest of tortures. /他受尽酷刑,仍然坚贞不屈。
+			10. But you must unbend, you know. /但你必须挺直腰杆， 你知道的。
+		12. bending
+		13. bender
+		14. bended
+	11. bent
+		1. a. 弯曲的, 决心的  
+		2. n. 爱好
+		3.  _adj._ 弯的
+		4. 决心的,决意的
+		5. 正在往某地去的
+		6. <俚>不老实的；不正派的；腐败的
+		7. <俚>发疯的；古怪的
+		8. 不正常的；搞同性恋的
+		9. (物品)偷来的
+		10. _n._ 倾向, 爱好
+		11. 排架；横向构架
+		12. 苇草；荒地
+		13. 草茎；草梗
+		14. [set](dic://set)
+		15.  [bent grass](dic://bent grass), [bent-grass](dic://bent-grass)
+		16. [knack](dic://knack), [hang](dic://hang)
+		17. [bent on(p)](dic://bent on(p)), [dead set(p)](dic://dead set(p)), [intent on(p)](dic://intent on(p)), [out to(p)](dic://out to(p))
+		18. [bended](dic://bended)
+		19. [bowed](dic://bowed), [inclined](dic://inclined)
+		20. [crumpled](dic://crumpled), [dented](dic://dented)
+		21. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency), [grass](dic://grass), [grassland](dic://grassland), [endowment](dic://endowment), [gift](dic://gift)
+		22. _adj._ [crooked](dic://crooked), [resolute](dic://resolute), [unerect](dic://unerect), [damaged](dic://damaged)
+		23. _n._ [straight](dic://straight), [irresolute](dic://irresolute), [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright), [undamaged](dic://undamaged)
+		24. **twisted**扭曲的;**warped**反常的;**twisting**缠绕;**tilted**倾斜的，翘起的;**leaned**倾身;**backwards**向后;**crooked**弯曲的;**clamped**夹紧的;**curved**弯曲的;**slanted**有倾向的;**swung**摇摆;
+			1. _bent on_ 下决心
+			1. _bent out of shape_ 气坏了；大发雷霆
+			1. _bent axle_ 曲轴
+			1. _bent frame_ 排架；弯肋骨；烘弯肋骨
+			1. _bent pipe_ 弯管；弯头
+			1. _bent wood_ 曲木
+		25. a bent cop /一个腐败的警察。
+		26. bent double /对折
+		27. a mob bent on violence /一群残暴成性的暴民。
+		28. the road bent left and then right. /这条路先往左拐再往右拐。
+		29. The saplings bent in the wind. /树苗在风中弯下了腰
+		30. was hell-bent on winning. /孤注一掷，势在必得
+		31. The bent strip can straighten up by itself. /这弯曲的金属片自己可以变直。
+		32. That obviously has a Mexican bent to it. /这显然是墨西哥人喜欢的。
+		33. I suppose I should have drawn him bent. /我想应该把他画成个驼背。
+		34. She has a **bent** for mathematics. /她有数学天赋。
+		35. His dark head **bent** over her /他对她低下他那黑发的头。
+		36. hell-bent
+		37. bentwood
+	13. bind
 		1. unbinding
 		2. unbind
 		3. spellbind
@@ -2679,7 +2742,7 @@
 			2. self-binder
 			3. highbinder
 			4. bookbinder
-	10. bond
+	14. bond
 		1. weldbonding
 		2. unbonded
 		3. polybond
@@ -2692,24 +2755,24 @@
 			1. _n._ [subjugation](dic://subjugation), [subjection](dic://subjection), [sexual activity](dic://sexual activity), [sexual practice](dic://sexual practice), [sex](dic://sex), [sex activity](dic://sex activity)
 			2. **servitude**奴隶状态;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**fetish**迷信;**kinky**奇形怪状的，怪癖的;**slave**奴隶;**slavery**奴役;**shackles**手铐，脚镣;**erotic**色情的;**chastity**纯洁;**kink**扭结;**submissive**顺从的, 唯命是从的;
 		8. antibond, antibonding
-	11. bonded
-	12. bonder
-	13. bondholder
-	14. bonding
-	15. bondmaid
-	16. bondman
-	17. bonds
-	18. bondslave
+	15. bonded
+	16. bonder
+	17. bondholder
+	18. bonding
+	19. bondmaid
+	20. bondman
+	21. bonds
+	22. bondslave
 		1. _n._ 奴隶,农奴
-	19. bondsman
-	20. bondstone
-	21. bondwoman
-	22. banner
+	23. bondsman
+	24. bondstone
+	25. bondwoman
+	26. banner
 		1. bannerol
 		2. bannerline
 		3. bannerette
 		4. banneret
-	23. bundle
+	27. bundle
 		1.  [package](dic://package), [packet](dic://packet), [parcel](dic://parcel)
 		2.  [sheaf](dic://sheaf)
 		3. [pile](dic://pile), [big bucks](dic://big bucks), [megabucks](dic://megabucks), [big money](dic://big money)
