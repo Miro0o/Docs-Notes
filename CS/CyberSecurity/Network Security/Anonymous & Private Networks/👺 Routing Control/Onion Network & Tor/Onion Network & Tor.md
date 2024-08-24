@@ -51,6 +51,7 @@ Tor relay workers for use as Bridge (bridges)
 
 **Tor (The Onion Router) is a network that anonymizes web traffic to provide truly private web browsing.**  The Tor Browser hides your IP address and browsing activity by redirecting web traffic through a series of different routers known as nodes. Because Tor hides browsing activity and blocks tracking, it’s used by whistleblowers, journalists, and others who want to protect their privacy online.
 
+
 ### How to Circumvent GFW 🇨🇳
 📄 [how to circumvent GFW](https://support.torproject.org/censorship/connecting-from-china/)
 
@@ -63,7 +64,6 @@ Tor relay workers for use as Bridge (bridges)
 > 🔗 Check for DNS leaks:  
 
 When using Tor, some considerations to be kept in mind are as follows:
-
 - Tor provides an anonymizing service, but it does not guarantee privacy. Owners of the exit nodes are able to sniff traffic and may be able to access user credentials.  
 - Vulnerabilities in the Tor browser bundle have reportedly been used by law enforcement to exploit systems and gain user information.
 - ProxyChains do not handle UDP (User Datagram Protocol) traffic.  

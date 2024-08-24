@@ -612,7 +612,9 @@ bash
 - bashful (bat-)
 
 baste ( alabaster, baster)
+-  粗缝，来自 fasc-,编织，词源同 basket.2. 浇肉汁，词源同 basin,盆，此处指汤盆。
 - v. 粗缝；（烹调时）浇卤汁于；狠揍；大骂
+- vt. 用长针脚粗缝, 润以油脂, 狠揍
 - [basting](dic://basting), [tacking](dic://tacking)
 - [clobber](dic://clobber), [batter](dic://batter)
 - [tack](dic://tack)
@@ -631,27 +633,42 @@ baste ( alabaster, baster)
 - basting
 
 bay
+- n. 海湾; 狗吠声; 月桂; 分隔间; 栗色马  
+- v. 吠; 厉声强要 (~ for sth)  
+- a. 枣红色的
+- keep at bay阻止…前进；使无法近身。这是个来自狩猎的习语。习语中的bay不是海湾那层含义，而是狗的吠叫。猎物（想象为一头野猪）被猎犬们包围了，试图顽抗并逃脱，但猎犬大声吠叫，与野猪对峙，使其不能逃出生天。所以有一条关于多吃苹果有益健康的西谚：One apple a day, keeps the doctor at bay. ​​​​
+- 海湾，词源不详。2. 栗色马，来自 PIE*badyo,棕色，栗子色。3. 月桂，来自拉丁语 bacca,莓子，桂果，词源同 Bacchus,酒神。4. 犬吠，拟声词。
+- [embayment](dic://embayment)
+-  [true laurel](dic://true laurel), [bay laurel](dic://bay laurel), [bay tree](dic://bay tree), [Laurus nobilis](dic://Laurus nobilis)
+- [alcove](dic://alcove)
+-  [quest](dic://quest)
+- _n._ [body of water](dic://body of water), [water](dic://water), [cry](dic://cry), [laurel](dic://laurel), [compartment](dic://compartment), [recess](dic://recess), [niche](dic://niche)
+- _v._ [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [bark](dic://bark)
+- _adj._ [colored](dic://colored), [coloured](dic://coloured), [colorful](dic://colorful)
+- _n._ [uncolored](dic://uncolored), [uncoloured](dic://uncoloured)
+- [bay](dic://bay) 指海岸线上一大块凹入的地方，是港口的所在地。  
+- [gulf](dic://gulf) 一般比bay大，但比sea小。指大片深入到陆地中，由海岸围绕成半圆形的海水区域。
+- **harbour**藏匿;**cove**小湾;**harbor**海港;**lagoon**泻湖;**peninsula**半岛;**estuary**河口;**jetty**码头;**marina**码头，小艇船坞;**pier**水上平台, 码头;**shore**岸;**wharf**码头;
+- bay flounder; bay scallops. /海湾比目鱼；海湾扇贝
+- the bay could support aquatic life /海湾能生长水生生物。
+- the bay and the square were a seamless cope. /海湾与广场衔接浑然一体像个斗篷。
+- The bay is well-known as a safe anchorage /海湾是众所周知的安全停泊处。
+- We have smoke coming from our avionics bay. We are evacuating. Request fire trucks. /526. 我们有烟雾来自我们的电子设备舱。我们正在紧急撤离。申请消防车。
+- Beyond it we can see minesweepers patrolling the bay. It underlines the relentless buildup of Russian forces /此外，我们可以看到扫雷艇在海湾巡逻。这进一步证明俄罗斯军队在不断增加。
 - sickbay
 - rosebay
 	- **willow**柳木制品;**lilac**淡紫色;**shrub**灌木;**rhubarb**大黄;**moss**苔藓;**flowering**开花的;**ivy**常春藤联盟的;**fern**蕨类植物;**heather**Heather;**jasmine**茉莉;**shrubs**灌木;
 - embay
+	- - v. 使入湾；围绕；成港湾状
 	- embayment
-	- **sediments**沉淀物;**estuary**河口;**basin**盆地;**sedimentary**沉积的;**shoreline**海〔湖〕滨线;**sediment**沉淀物;**basins**脸盆;**aquifer**蓄水层;**lagoon**泻湖;**inlet**插入物;**crater**坑;
+		- _n._ [body of water](dic://body of water), [water](dic://water)
+		- **sediments**沉淀物;**estuary**河口;**basin**盆地;**sedimentary**沉积的;**shoreline**海〔湖〕滨线;**sediment**沉淀物;**basins**脸盆;**aquifer**蓄水层;**lagoon**泻湖;**inlet**插入物;**crater**坑;
+		- The primary coastline of the port was bedrock **embayment** and composed of Mesozoic granite /三亚港原始岸线为基岩港湾海岸，由中生代花岗岩构成。
+		- The nearby beaches may supply sediment for the **embayment** during storm surges, by causing bed-load and suspended-load transport of the beach material towards deeper waters. /胶州湾沙滩供沙的主要机制是通过风暴潮期间强烈的动力作用，使沙滩沉积物以悬移质、底移质形式向深水区扩散或搬运。
 - baytree
 
 bent
-- _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency), [grass](dic://grass), [grassland](dic://grassland), [endowment](dic://endowment), [gift](dic://gift)
-- _adj._ [crooked](dic://crooked), [resolute](dic://resolute), [unerect](dic://unerect), [damaged](dic://damaged)
-- _n._ [straight](dic://straight), [irresolute](dic://irresolute), [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright), [undamaged](dic://undamaged)
-- **twisted**扭曲的;**warped**反常的;**twisting**缠绕;**tilted**倾斜的，翘起的;**leaned**倾身;**backwards**向后;**crooked**弯曲的;**clamped**夹紧的;**curved**弯曲的;**slanted**有倾向的;**swung**摇摆;
-	- _bent on_ 下决心
-	- _bent out of shape_ 气坏了；大发雷霆
-	- _bent axle_ 曲轴
-	- _bent frame_ 排架；弯肋骨；烘弯肋骨
-	- _bent pipe_ 弯管；弯头
-	- _bent wood_ 曲木
-- hell-bent
-- bentwood
+- bhendh-
 
 bequeath
 - kwo-
@@ -7036,6 +7053,9 @@ khan
 - Marco Polo’s travelogue mentions that Kublai Khan sent envoys to Malgache /马可波罗游记中提到忽必烈曾派使节到马尔加什。
 - It will also be cheaper than ever before, we are already starting to see these things emerge with the birth of khan academy, educational YouTube channels and an increase in quality in online courses /它也将比以前更便宜，随着可汗学院的出现、YouTube 教育频道和在线课程质量的提高，我们已经开始看到这些产品的出现。
 
+kindle
+- kand-,kend-
+
 kink
 - **kinky**奇形怪状的，怪癖的;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**fetish**迷信;**erotica**色情作品;**bondage**奴役身份;**erotic**色情的;**submissive**顺从的, 唯命是从的;**deviant**不正常的人,异常的人;**queer**奇怪的;**sexuality**性征;**bisexual**两性的;
 -  a painful muscle spasm especially in the neck or back ('rick' and 'wrick' are British)
@@ -8906,7 +8926,9 @@ pert
 - pertly
 	- [impertinently](dic://impertinently), [saucily](dic://saucily), [freshly](dic://freshly), [impudently](dic://impudently)
 	- [impertinent](dic://impertinent), [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
-	- **sweetly**惬意地;**delicately**优美地;**cheerfully**欢乐地,愉快地;**playfully**开玩笑地;**elegantly**优美地;**awkwardly**别扭地;**artfully**狡诈地;**calmly**平静地;**thoughtfully**深思地;**smartly**潇洒地;**curiously**好奇地;
+	- _adj._ [spirited](dic://spirited)
+	- _n._ [spiritless](dic://spiritless)
+	- **perky**得意洋洋的;**plump**丰满的;**sassy**无礼的;**sexy**性感的;**breasts**胸脯;**boobs**乳房;**busty**大胸脯的，胸部丰满的;**tit**山雀;**juicy**多汁的;**taut**拉紧的;**delightfully**大喜;
 	- Not obtrusive, go up pertly courtship, you can refuse for certain. /不要莽撞，冒冒失失上去求爱，你肯定会遭拒绝。
 	- Fancy a man not able to ride! ' said she rather pertly. /“想不到一个不会骑马的人！”她相当得体地说。
 
@@ -9753,6 +9775,18 @@ ravel
 	- [ravel](dic://ravel), [tangle](dic://tangle), [knot](dic://knot)
 	- [unknot](dic://unknot), [unscramble](dic://unscramble), [untangle](dic://untangle), [unpick](dic://unpick)
 
+raucous
+- a. 刺耳的, 沙哑的, 吵闹的
+- 来自拉丁语 raucus,沙哑声，来自 PIE*reu,发出沙哑的叫声，拟声词。
+- [strident](dic://strident)
+- [rowdy](dic://rowdy)
+- _adj._ [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic), [disorderly](dic://disorderly)
+- _n._ [euphonious](dic://euphonious), [euphonous](dic://euphonous), [orderly](dic://orderly)
+- **boisterous**热闹的;**rowdy**吵闹的;**rousing**活泼的;**exuberant**兴高采烈的;**spirited**生机勃勃的;**lively**活泼的;**frenzied**狂乱的;**joyous**令人高兴的;**frenetic**狂热的;**loud**大声的，高声的;**noisy**嘈杂的;
+- I know we're in the heat of a more raucous political season than usual. /我知道我们身处于比平时更加热络的政治季节里
+-  This year, as partiers flooded the beach, things got raucous. /今年，随着聚会者涌向海滩，环境变得喧闹起来。
+- Per our roommate agreement, kindly refrain from raucous laughter, clinking of glasses, and celebratory gunfire. /根据我们的室友协议 请好心避免 刺耳的笑声 玻璃的叮当声和庆祝的炮火声。
+
 raven (rep-)
 - n. 渡鸦, 掠夺  a. 乌黑的  v. 掠夺, 狼吞虎咽
 - 来自古英语 hraefn,渡鸦，大乌鸦，来自 PIE*ker,尖叫声，拟声词，词源同 crow,crane.  
@@ -9771,7 +9805,9 @@ raven (rep-)
 - raven tresses /又黑又亮的头发
 - the raven seemed a bird of evil omen. /乌鸦似乎是一种预兆凶险的鸟。
 - ravenous
-	- 1. _adj._ 极饿的 (指饥饿、渴求等)极度的
+	- [美 /ˈrævənəs/](cmd://Speak/_us_/ravenous)
+	- raven【捕食】 + -ous形容词后缀 → 捕食的 → 贪婪的，是单词raven 派生的形容词。
+	- _adj._ 极饿的 (指饥饿、渴求等)极度的
 	- [famished](dic://famished), [sharp-set](dic://sharp-set), [starved](dic://starved), [esurient](dic://esurient)
 	-  [edacious](dic://edacious), [esurient](dic://esurient), [rapacious](dic://rapacious), [ravening](dic://ravening), [voracious](dic://voracious), [wolfish](dic://wolfish)
 	- _adj._ [hungry](dic://hungry), [gluttonous](dic://gluttonous)
@@ -10157,14 +10193,27 @@ roost
 - henroost
 
 rose
+- sub rosa [,sʌb'rəuzə] （拉）秘密地；私下地（也写作under the rose）。罗马神话中，丘比特送给沉默之神Harpocrates一朵玫瑰，希望后者对他母亲维纳斯的风流韵事守口如瓶，因此玫瑰就成了私密的象征。有些西方餐厅的天花板上有玫瑰的图案，意思也是在玫瑰之下（也是在酒精的刺激下）说的话要保密​​
+- rose玫瑰和lily百合的得名来自于各自花瓣的颜色，玫瑰花是red，百合是白色的，可以与lactose n.乳糖和lactic adj.乳汁的，还有leukemia n.白血病（em=blood）等等放在一起记忆。乳汁也是白色的哦。真正词源不是这样。
+- 来自拉丁语 rosa,玫瑰花，来自希腊语 rhodon,玫瑰花，来自古波斯语*wrda,花，来自 PIE*wrdos,蔷薇植物。
+- [rosebush](dic://rosebush)
+- [blush wine](dic://blush wine), [pink wine](dic://pink wine), [rose wine](dic://rose wine)
+- [rosiness](dic://rosiness)
+- [roseate](dic://roseate), [rosaceous](dic://rosaceous)
+- _n._ [shrub](dic://shrub), [bush](dic://bush), [wine](dic://wine), [vino](dic://vino), [pink](dic://pink)
+- _adj._ [chromatic](dic://chromatic)
+- _n._ [achromatic](dic://achromatic)
+- **soared**骤然上升;**fell**凶猛的;**tumbled**翻滚，滚磨;**spiked**尖的;**slumped**倒下的;**petals**花瓣;**slipped**打滑的;**fallen**落下来的;**dropped**抛踢球得分的;**leapt**跳跃;**flower**花;
 - rosy, rosiness
 - rosily
 - rosewood
 - rosewater
 - roset
 - rosery
+	- n. 蔷薇园；玫瑰花坛
 - roseola
 - roselike
+	- adj. 似玫瑰的；玫瑰花似的
 - roseleaf
 - rosebush
 	- [rose](dic://rose)
@@ -10182,12 +10231,14 @@ rose
 - roseate
 	- sub rosa [,sʌb'rəuzə] （拉）秘密地；私下地（也写作under the rose）。罗马神话中，丘比特送给沉默之神Harpocrates一朵玫瑰，希望后者对他母亲维纳斯的风流韵事守口如瓶，因此玫瑰就成了私密的象征。有些西方餐厅的天花板上有玫瑰的图案，意思也是在玫瑰之下（也是在酒精的刺激下）说的话要保密。
 	- rose玫瑰和lily百合的得名来自于各自花瓣的颜色，玫瑰花是red，百合是白色的，可以与lactose n.乳糖和lactic adj.乳汁的，还有leukemia n.白血病（em=blood）等等放在一起记忆。乳汁也是白色的哦。真正词源不是这样。
+	- adj. 玫瑰色的；粉红的；容光焕发的；乐观的
 	- _adj._ [chromatic](dic://chromatic)
 	- _n._ [achromatic](dic://achromatic)
 	- **rosy**蔷薇色的，玫瑰红色的;**silvery**似银的，银色的;**gilded**镀金的，装饰的;**pale**苍白的;**reddish**微红的;**greenish**呈绿色的;**plumage**翅膀;**crimson**深红;**tinge**淡色;**glistening**闪耀的,反光的;**whitish**带白色的;
 	- a roseate outlook. /乐观的态度
 	- the early, roseate light. /清早玫瑰色的光。
 	- So at least there's a hypothetical model which would say these laudatory poems describing princess's beautiful eyes and roseate lips and all the conventions of court poetry and so on /至少，我们现在有这样的假设，认为这些吹捧人的诗歌形容公主的美目和红唇，以及宫廷诗歌一般会写的东西等等。
+	- In many cases, the climbers underwent a sudden review of their entire past, heard beautiful music, and " fell in a superbly blue heaven containing roseate cloudlets" , Heim wrote. /海姆写道，在许多情况下，登山者会突然回顾自己的整个过去，听到美妙的音乐，“坠入一个深蓝色的天堂，里面有玫瑰色的云朵”。
 	- [rose](dic://rose), [rosaceous](dic://rosaceous)
 	- _[roseate mooncake](dic://roseate%20mooncake)_ 玫瑰月饼
 	- _[frightful roseate](dic://frightful%20roseate)_ 鲜粉红色
@@ -10204,7 +10255,6 @@ rose
 	- Noah. Didn't know you were a religious man. What's with the rosary? /Noah。我从来不知道你信仰宗教。拿着念珠做什么？
 	- And I pray to rosary every day for forgiveness for their, I want them to heal /我每天祈祷，希望得到你们的原谅，我只是想治好他们的病。
 	- He was dressed in red and gold liturgical vestments, a miter on his head and a rosary in his hand. /他头戴主教冠，手持念珠，身着红金色的礼拜法衣。
-	- 
 - rosalia
 - rosaceous
 	- adj. 玫瑰色的；蔷薇科的；蔷薇似的
@@ -10242,7 +10292,6 @@ rotisserie
 -  And there was a rotisserie with the spinning chicken /还有一家烤鸡店烤架上有鸡（有“胆小”的意思）在转。
 - Did I mention it has a rear-mounted rotisserie rack? /我说过 它有后置旋转烤肉架 吗?
 - And to make it easy, we are using a rotisserie chicken. /为了简单起见，我们使用的是烤鸡。
-- 
 
 row
 - [quarrel](dic://quarrel), [wrangle](dic://wrangle), [words](dic://words), [run-in](dic://run-in), [dustup](dic://dustup)
@@ -10289,6 +10338,17 @@ rub
 		- They’re working against the clock to try and get people out of the rubble alive. /他们抓紧一切时间努力把人们活着从瓦砾里救出来。
 		- Instead, you would likely see a graveyard of rubble and algae. /相反，你可能会看到一片碎石和藻类的墓地。
 	- rubbish：['rʌbɪʃ] adj.无价值的n.垃圾、碎石碎屑、废物
+		- [trash](dic://trash), [scrap](dic://scrap)
+		- [folderol](dic://folderol), [tripe](dic://tripe), [trumpery](dic://trumpery), [trash](dic://trash), [wish-wash](dic://wish-wash), [applesauce](dic://applesauce), [codswallop](dic://codswallop)
+		- _n._ [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter), [waste product](dic://waste product), [drivel](dic://drivel), [garbage](dic://garbage)
+		- _v._ [attack](dic://attack), [round](dic://round), [assail](dic://assail), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault)
+			- [waste](dic://waste) 普通用词，概念广泛，指任何被丢弃的东西
+			- [garbage](dic://garbage) 主要指有机废料，包括厨房的剩菜剩饭或不能再用的食物。也可作引申用。
+			- [rubbish](dic://rubbish) 普通用词，指任何成堆的、破损的、用过的或无用的东西，尤指弃掉的垃圾堆。也可作引申用。 
+			- [litter](dic://litter) 是四下乱丢物品的总称，尤指散落于地，有碍观瞻的废物。  
+			- [debris](dic://debris) 着重指分解、分裂或破坏后剩下的碎片，也指零散的普通废品。
+			- [junk](dic://junk) 指回收的旧汽车或大型机器，也指毫无实用价值，或破烂物体，但不指垃圾。
+		- **garbage**垃圾;**trash**垃圾;**crap**废话;**waste**废物;**daft**愚蠢可笑的;**nonsense**谬论;**heaps**很;**drivel**淌口水,说傻话;**junk**垃圾，废物;**useless**无用的;**dodgy**狡猾的，逃避的;
 - rubbing
 - rubber
 	- rubbery
@@ -10322,7 +10382,6 @@ rub
 		- He is a **rubberneck** /他是个爱问长问短的人。
 		- The accident was caused by people slowing down to **rubberneck** /这场事故是由放慢了速度看西洋镜的人们引起的。
 	- rubber band
-		- 
 	- hydrorubber
 		- hydro-氢 + rubber【n. 橡胶】
 	- fluororubber
@@ -10330,9 +10389,9 @@ rub
 	- cyclorubber
 		- cyclo-环 + rubber【n. 橡胶】
 
-ruckus
+ruckus (raucous)
 - **commotion**暴乱;**uproar**骚动;**fuss**小题大作;**controversy**争论;**rowdy**吵闹的;**mayhem**大混乱, 大破坏;**outcry**尖叫;**raucous**沙哑的;**outrage**暴行;**brawl**争吵;**deafening**震耳欲聋的;
--  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [rumpus](dic://rumpus), [tumult](dic://tumult)
+- [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [rumpus](dic://rumpus), [tumult](dic://tumult)
 - _[raise a ruckus](dic://raise%20a%20ruckus)_ 引起一场争吵
 - a child is raising a ruckus in class. /一个孩子正在班上掀起一场争吵。
 

@@ -599,35 +599,50 @@
 ### + \*kand-, \*kend- + = to shien
 1. **cand-** = white, glow, 表示“白，发光”。源自拉丁语 candere "to shine."
 	1. chandelier
-		1.  [pendant](dic://pendant), [pendent](dic://pendent)
-		2. _n._ [lighting fixture](dic://lighting fixture)
-		3. **pendant**下垂物，垂饰;**lamp**灯;**ceiling**天花板;**mantel**壁炉架;**lamps**日月星辰;**decor**装饰，布置;**headboard**床头板;**vase**花瓶;**lantern**灯笼;**vases**花瓶;**lanterns**灯笼，提灯;
-		4. _[crystal chandelier](dic://crystal%20chandelier)_  枝形水晶灯
-	2. chandler
-		1. **smith**铁匠;**lee**保护;**miller**碾磨工;**john**厕所;**phoenix**凤凰;**jay**鸟;
-		2. wax-chandler
-		3. corn-chandler
-	3. chandlery
-		1. **marina**码头，小艇船坞;**mooring**下锚;**wharf**码头;**shop**商店;**shipbuilding**造船,造船业;**boat**小船;**shipyard**船坞;**boats**船艇;**marine**海生的;**merchant**商人，批发商;**sailing**航行，航海;
-		2. [candle](dic://candle), [taper](dic://taper), [wax light](dic://wax light), [storeroom](dic://storeroom), [storage room](dic://storage room), [stowage](dic://stowage)
-		3. _chandlery_  n. 杂货类；蜡烛店；蜡烛放置处
-	4. candela
-		1. isocandela
-		2. candelabrum
-		3. candelabra
-	5. candescence
-		1. _[candescence](dic://candescence)_  n. 白热；白炽
-		2. candescent
-			1. _adj._ [light](dic://light)
-			2. _n._ [dark](dic://dark)
-			3. **incandescent**白热的;**luminous**发光的;**lights**家畜的肺脏;**light**光，光亮;**lamp**灯;**lighted**发光的;**bulb**电灯泡;**illumination**照明;**lamps**日月星辰;**flickering**闪烁的(摇曳的;**glow**发热;
-			4. _[candescent](dic://candescent)_  adj. 白热的
-			5. _[candescent glowing incandescent white-hot](dic://candescent%20glowing%20incandescent%20white-hot)_ 白热的
-		3. incandesce
-			1. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
-			2. _[incandesce](dic://incandesce)_  v. 使白热化
-		4. incandescence
-		5. incandescent
+		1. chand-=cand-发光 + elier。词源同 candle,蜡烛。
+		2.  [pendant](dic://pendant), [pendent](dic://pendent)
+		3. _n._ [lighting fixture](dic://lighting fixture)
+		4. **pendant**下垂物，垂饰;**lamp**灯;**ceiling**天花板;**mantel**壁炉架;**lamps**日月星辰;**decor**装饰，布置;**headboard**床头板;**vase**花瓶;**lantern**灯笼;**vases**花瓶;**lanterns**灯笼，提灯;
+		5. _[crystal chandelier](dic://crystal%20chandelier)_  枝形水晶灯
+	3. chandler
+		1. 来自 candle,蜡烛，即卖蜡烛的人，后词义外延扩大。
+		2. **smith**铁匠;**lee**保护;**miller**碾磨工;**john**厕所;**phoenix**凤凰;**jay**鸟;
+		3. wax-chandler
+		4. corn-chandler
+	5. chandlery
+		1. n. 蜡烛放置处, 杂货业, 蜡烛业
+		2. **marina**码头，小艇船坞;**mooring**下锚;**wharf**码头;**shop**商店;**shipbuilding**造船,造船业;**boat**小船;**shipyard**船坞;**boats**船艇;**marine**海生的;**merchant**商人，批发商;**sailing**航行，航海;
+		3. [candle](dic://candle), [taper](dic://taper), [wax light](dic://wax light), [storeroom](dic://storeroom), [storage room](dic://storage room), [stowage](dic://stowage)
+	7. candela
+		1. n. 烛光(发光强度单位)
+		2. 来自 cand-,照明，词源同 candle,蜡烛。
+		3. isocandela
+		4. candelabrum
+		5. candelabra
+	9. candescence
+		1. [美 /kænˈdɛsəns/](cmd://Speak/_us_/candescence)
+		2. _[candescence](dic://candescence)_  n. 白热；白炽
+		3. candescent
+			1. [美 /kæn'dɛsnt/](cmd://Speak/_us_/candescent)
+			2. _adj._ [light](dic://light)
+			3. _n._ [dark](dic://dark)
+			4. **incandescent**白热的;**luminous**发光的;**lights**家畜的肺脏;**light**光，光亮;**lamp**灯;**lighted**发光的;**bulb**电灯泡;**illumination**照明;**lamps**日月星辰;**flickering**闪烁的(摇曳的;**glow**发热;
+			5. _[candescent](dic://candescent)_  adj. 白热的
+			6. _[candescent glowing incandescent white-hot](dic://candescent%20glowing%20incandescent%20white-hot)_ 白热的
+		5. incandesce
+			1. [美 /ˌɪnkənˈdɛs/](cmd://Speak/_us_/incandesce)
+			2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+			3. _[incandesce](dic://incandesce)_  v. 使白热化
+		6. incandescence
+			1. [美 /ˌɪnkənˈdɛsəns/](cmd://Speak/_us_/incandescence)
+			2. [glow](dic://glow)
+			3. _n._ [light](dic://light), [visible light](dic://visible light), [visible radiation](dic://visible radiation), [luminosity](dic://luminosity), [brightness](dic://brightness), [brightness level](dic://brightness level), [luminance](dic://luminance)
+			4. **incandescent**白热的;**radiance**光辉;**glow**发热;**luminous**发光的;**illumination**照明;**glows**发光;**radiant**容光焕发的;**luminosity**发光,光明;**flickering**闪烁的(摇曳的;**flame**火焰;**brilliance**才华,才智;
+			5. What you're actually seeing is a tiny bit of interplanetary debris: rock, ice, or metal ramming through the Earth's atmosphere, heated to incandescence /岩石、冰或金属撞击地球的大气层，加热到白炽的样子。
+			6. The whole atmosphere was in incalculable incandescence! /整个气氛处于不可计算的炽热状态。
+			7. The molten stone poured out in a stream of dazzling incandescence across the road, the asbestos rollers came and went; at the tail of an insulated watering cart the steam rose in white clouds. /熔化的玻璃发出刺目的强光滚滚流向路面。石棉压路机碾来碾去，绝缘洒水车后蒸腾起一片白雾。
+			8. She burned with an **incandescence** that had nothing to do with her looks /她光彩照人，但这与其容貌无关。
+		7. incandescent
 			1. _adj._ [light](dic://light), [glorious](dic://glorious)
 			2. _n._ [dark](dic://dark), [inglorious](dic://inglorious), [dishonorable](dic://dishonorable)
 			3. **bulb**电灯泡;**bulbs**灯泡;**halogen**卤素;**fluorescent**荧光的, 发荧光的;**lamps**日月星辰;**dimmer**调光器;**lamp**灯;**luminous**发光的;**tungsten**钨;**lighting**照明设备，舞台灯光;**lights**家畜的肺脏;
@@ -637,7 +652,7 @@
 			7. an incandescent performance. /热情洋溢的演出
 			8. an incandescent filament /白热灯丝
 			9. Characteristic: Good in photo chromism, neediless to use additional ballast and used as a substitute for incandescent bulb. /特点：高效节能、寿命长、显色性好光源性好，照明效果佳。
-	6. incendiary
+	11. incendiary
 		1. a. 放火的, 煽动的, 燃烧的  n. 纵火犯人, 煽动者, 燃烧弹
 		2. in-进入，使 + cend-火，燃烧 + -ary, 表形容词，引申词义纵火的，煽动的。 
 		3. [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor), [bomb](dic://bomb)
@@ -655,16 +670,23 @@
 		13. The soldiers were trained to deal with incendiary attacks /士兵们受过对付火攻的训练。
 		14. Used as part of a time-delay incendiary device. /用来作延迟引爆的装置。
 		15. We now know as a result of our investigation that inside that backpack were three incendiary devices /我们现在通过调查得知，背包内装有三个燃烧装置。
-	7. candor, candour
-		13. **honesty**诚实，正直;**sincerity**真实, 诚挚;**candid**公正的;**humility**谦卑，谦逊;**openness**空旷;**boldness**大胆;**wit**智力;**courage**勇气;**humor**幽默，诙谐;**tact**老练，圆通，得体，乖巧;**tenacity**固执;
-		14. [fairness](dic://fairness), [fair-mindedness](dic://fair-mindedness), [candour](dic://candour)
-		15. [candour](dic://candour), [candidness](dic://candidness), [frankness](dic://frankness), [directness](dic://directness), [forthrightness](dic://forthrightness)
-		16. _n._ [impartiality](dic://impartiality), [nonpartisanship](dic://nonpartisanship), [honesty](dic://honesty), [honestness](dic://honestness) 
-		17. He covered a wide range of topics with unusual candor. /他极其坦率地谈了许多问题。
-		18. They rarely show the charisma, candor and vision that this interview does. /其它关于乔布斯的访谈很少有像这个访谈所具备的超凡魅力、真诚坦率和独特视野。
-		19. He announced his misfortune with pathetic candor. /他以可怜的坦率宣布了他的不幸。
-		20. High-performing teams depend on collaboration and candor, not cringing and compliance /高绩效团队依赖于协作和坦诚，而不是畏缩和服从。
-	8. candid
+	12. candor, candour
+		1. candidate（候选人）：古代竞选人身着白色长袍的习俗  
+		2. 在古罗马时代，那些谋求公职的竞选人在竞选场合中，往往会身穿一身特别干净的白袍，一来表示自己品行洁白无瑕，无可挑剔，二来一身白衣在人群中格外醒目，易于给选民留下深刻影响。英语单词candidate正是源自这种做法。它源自拉丁语candidatus，本意就是“身穿白袍的”。candidatus源自拉丁语candidum，表示“白、纯洁”，而该词又来自拉丁语candere，表示“发光”，从中衍生出英语词根cand-（发光）。英语单词candle（蜡烛）、candid（坦白的）、candor（坦白）等都源自于此。  
+		3. candidate： ['kændɪdeɪt; -dət] n.候选人，应试者，候补者  
+		4. candle： ['kænd(ə)l] n.蜡烛，烛光  
+		5. candid：['kændɪd] adj.公正的，坦白的，率直的，偷拍的  
+		6. candor：['kændɚ] n.坦白，直率  
+		7. candescence：[kæn'dɛsns] n.白炽，白热
+		8. **honesty**诚实，正直;**sincerity**真实, 诚挚;**candid**公正的;**humility**谦卑，谦逊;**openness**空旷;**boldness**大胆;**wit**智力;**courage**勇气;**humor**幽默，诙谐;**tact**老练，圆通，得体，乖巧;**tenacity**固执;
+		9. [fairness](dic://fairness), [fair-mindedness](dic://fair-mindedness), [candour](dic://candour)
+		10. [candour](dic://candour), [candidness](dic://candidness), [frankness](dic://frankness), [directness](dic://directness), [forthrightness](dic://forthrightness)
+		11. _n._ [impartiality](dic://impartiality), [nonpartisanship](dic://nonpartisanship), [honesty](dic://honesty), [honestness](dic://honestness) 
+		12. He covered a wide range of topics with unusual candor. /他极其坦率地谈了许多问题。
+		13. They rarely show the charisma, candor and vision that this interview does. /其它关于乔布斯的访谈很少有像这个访谈所具备的超凡魅力、真诚坦率和独特视野。
+		14. He announced his misfortune with pathetic candor. /他以可怜的坦率宣布了他的不幸。
+		15. High-performing teams depend on collaboration and candor, not cringing and compliance /高绩效团队依赖于协作和坦诚，而不是畏缩和服从。
+	14. candid
 		1. _adj._ 耿直的，坦率的，直率的
 		2. 自然的，非故意摆出姿势的
 		3. 公正的，不偏不倚的
@@ -686,32 +708,36 @@
 		19. You got me on candid camera. /监控摄像头拍到了我。
 		20. candidness
 		21. candidly
-	9. candidate, candidature
-		1. candidacy
-	10. candle
-		1. footcandle
-		2. footcandlle
-		3. candlewick
-		4. candlestick
-		5. candlepower
-		6. candlepin
-		7. candlenut
-		8. Candlemas
-		9. candlelight
-		10. candleholder
-		11. candlefish
-	11. cense
+	15. candidate, candidature
+		1. candid-白 + -ate, 表名词 → 白衣人。因古罗马时期谋求官职者着白衣进行政治演说或游说而得名。 (见上 candor)
+		2. candidate ['kændɪdeɪt] n.候选人；应试者。词根cand-表示闪亮，而所有颜色中，白色最亮。古罗马谋求官职之人在活动时，常穿白色长袍，为啥呢？因为白色代表（品德上）没有污点，单词字面义为“穿白袍者”。污点？黑色倒霉了，denigrate ['denɪgreɪt] vt.诋毁；使变黑；玷污，词根nigr-表黑色。 ​​​​
+		3. candidacy
+	17. candle
+		1. n. 蜡烛  
+		2. vt. 对着光检查
+		3. footcandle
+		4. footcandlle
+		5. candlewick
+		6. candlestick
+		7. candlepower
+		8. candlepin
+		9. candlenut
+		10. Candlemas
+		11. candlelight
+		12. candleholder
+		13. candlefish
+	19. cense (sense)
 		1. v. （依据仪式）用香熏；焚香敬神
 		2. [incense](dic://incense), [thurify](dic://thurify)
 		3. _v._ [odorize](dic://odorize), [odourise](dic://odourise), [scent](dic://scent)
 		4. **license**执照，许可证;**licenses**授权;**li**里;**incense**香;
-		5. censer (incensory)
+		5. censer (incensory, sensor)
 			1. [thurible](dic://thurible)
 			2. _n._ [vessel](dic://vessel)
 			3. **incense**香;**altar**祭坛;**priest**牧师;**candle**蜡烛;
 			4. Although there are no celestial beings on it, the censer as an auspicious air. /炉中虽无仙人，却有祥瑞之气。
 			5. This hunting scene from two thousand years ago is captured on a gold inlaid bronze censer /这幅两千年前的狩猎场景定格在了一个镀金的青铜香炉上。
-	12. incense
+	20. incense
 		1. n. 香, 香气, 奉承  
 		2. vi. 焚香  vt. 用香焚, 使发怒
 		3. in-,进入，使，-cend,火，燃烧，词源同 candle,incense,-se,过去分词后缀。引申词义香，香火。作动词指点火，激怒。
@@ -743,6 +769,27 @@
 			6. The LORD told Moses, ＂Take these aromatic substances: storax and onycha and galbanum, these and pure frankincense in equal parts /上主向梅瑟说：＂你要取这些香料：就是苏合香、香螺和白松香；这些香料与纯乳香应有相等的分量，
 			7. While the coffee is being made, frankincense, a substance from a tree, is burned to enhance the taste. /在制作咖啡时，会燃烧乳香，一种来自树的物质，以增强味道。
 			8. These traffickers gave them copper necklaces, armlets and medicines in exchange for amber, frankincense and furs /这些人贩子给了他们铜项链、臂章和药品， 以换取琥珀、乳香和皮草。
+2. kindle
+	1. vt. 点燃, 使着火, 引起, 照亮  
+	2. vi. 着火, 激动, 发亮
+	3. 来自中古英语 cundel,来自古诺斯语 kynda,来自 Proto-Germanic*kundijana,点燃，可能来自PIE*kand,燃烧，照耀，词源同 candle,candid.-le,表反复。
+	4. [inflame](dic://inflame)
+	5.  [enkindle](dic://enkindle), [conflagrate](dic://conflagrate), [inflame](dic://inflame)
+	6. [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [evoke](dic://evoke), [fire](dic://fire), [raise](dic://raise), [provoke](dic://provoke)
+	7. _v._ [flare up](dic://flare up), [ignite](dic://ignite), [light](dic://light), [make](dic://make), [create](dic://create)
+		1. [kindle](dic://kindle) 指艰难或缓慢地把可燃料点燃，可用于比喻。  
+		2. [fire](dic://fire) 普通用词，指将某物点燃使其燃烧起来，火势可大可小。  
+		3. [ignite](dic://ignite) 多用于科技文体，指使某物受热直到燃烧或发光，也可指用火花使易燃物迅速燃烧起来。   
+		4. [light](dic://light) 普通用词，指点燃易燃物，使其能发光，满足各种需要。
+	8. **e-book**电子图书;**amazon**女战士;**paperback**纸封面本;**books**书评;**hardback**精装本;**nook**角落;**book**书籍;**audiobook**有声读物;**tablet**碑;**bookshelf**书架;**bookshop**书店;
+	9. rekindle
+	10. kindling
+		1. 来自 kindle,点燃，-ing,动名词后缀。比较 shopping.
+		2. [tinder](dic://tinder), [touchwood](dic://touchwood), [spunk](dic://spunk), [punk](dic://punk)
+		3.  [ignition](dic://ignition), [firing](dic://firing), [lighting](dic://lighting), [inflammation](dic://inflammation)
+		4. _n._ [igniter](dic://igniter), [ignitor](dic://ignitor), [lighter](dic://lighter), [burning](dic://burning), [combustion](dic://combustion)
+		5. **firewood**木柴;**bonfire**营火;**burning**燃烧的;**fire**火;**torches**点火器;**hearth**炉床;**ignite**点燃;**stove**火炉;**kerosene**煤油，火油;**wood**木材;**flame**火焰;
+	11. enkindle
 
 
 ### ⭐ + \*kap- + = to grasp

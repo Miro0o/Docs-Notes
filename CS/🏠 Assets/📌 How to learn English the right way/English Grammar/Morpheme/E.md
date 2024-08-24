@@ -109,26 +109,30 @@
 		7. _[edacious gluttonous greedy](dic://edacious%20gluttonous%20greedy)_ 贪吃的
 		8. edacious vultures; /贪吃的秃鹫；
 		9. edacity
+			1. n. 贪吃, 狼吞虎咽
 		10. edibility
 			1. n. 适食性, 可食性
 		11. edible
 			1. n. 食品, 食物 a. 可食用的
-	4. esculent
-		1. _[esculent](dic://esculent)_  n. 食用品，可食用物; adj. 可食用的，适于食用的;
-		2. The remainder of the garden presented a well-selected assortment of esculent vegetables, in a praise worthy state of advancement /花园的其余部分展示了精心挑选的各种美味蔬菜，处于值得称赞的进步状态。
-	5. esurient
-		1. [famished](dic://famished), [ravenous](dic://ravenous), [sharp-set](dic://sharp-set), [starved](dic://starved)
-		2. [avid](dic://avid), [devouring(a)](dic://devouring(a)), [greedy](dic://greedy)
-		3.  [edacious](dic://edacious), [rapacious](dic://rapacious), [ravening](dic://ravening), [ravenous](dic://ravenous), [voracious](dic://voracious), [wolfish](dic://wolfish)
-		4. _adj._ [hungry](dic://hungry), [desirous](dic://desirous), [wishful](dic://wishful), [gluttonous](dic://gluttonous)
-		5. _n._ [thirsty](dic://thirsty), [undesirous](dic://undesirous), [undesiring](dic://undesiring), [abstemious](dic://abstemious)
-		6. the esurient eyes of an avid curiosity /贪婪的眼睛和渴望的求知欲；
-		7. esurience
+	4. esurient
+		1. a. 饥饿的, 贪婪的, 暴食的, 贪吃的
+		2. [famished](dic://famished), [ravenous](dic://ravenous), [sharp-set](dic://sharp-set), [starved](dic://starved)
+		3. [avid](dic://avid), [devouring(a)](dic://devouring(a)), [greedy](dic://greedy)
+		4.  [edacious](dic://edacious), [rapacious](dic://rapacious), [ravening](dic://ravening), [ravenous](dic://ravenous), [voracious](dic://voracious), [wolfish](dic://wolfish)
+		5. _adj._ [hungry](dic://hungry), [desirous](dic://desirous), [wishful](dic://wishful), [gluttonous](dic://gluttonous)
+		6. _n._ [thirsty](dic://thirsty), [undesirous](dic://undesirous), [undesiring](dic://undesiring), [abstemious](dic://abstemious)
+		7. the esurient eyes of an avid curiosity /贪婪的眼睛和渴望的求知欲；
+		8. esurience
 			1. n. 饥饿, 贪婪, 贪心, 暴食, 贪吃
-		8. esuriency
+		9. esuriency
+	6. esculent
+		1. [美 /ˈɛskjələnt/](cmd://Speak/_us_/esculent)
+		2. _[esculent](dic://esculent)_  n. 食用品，可食用物; adj. 可食用的，适于食用的;
+		3. a. 可食用的 n. 可食用物
+		4. The remainder of the garden presented a well-selected assortment of esculent vegetables, in a praise worthy state of advancement /花园的其余部分展示了精心挑选的各种美味蔬菜，处于值得称赞的进步状态。
 2. **odyn-** = pain, 表示“痛”。源自希腊语 odune "pain."
 	1. anodyne
-		1. 1 - an-,无，没有，-od,咬，词源同 eat.
+		1. an-,无，没有，-od,咬，词源同 eat.
 		2. [analgesic](dic://analgesic), [painkiller](dic://painkiller), [pain pill](dic://pain pill)
 		3. [analgesic](dic://analgesic), [analgetic](dic://analgetic)
 		4. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
@@ -145,11 +149,19 @@
 		1. n. 哥罗丁, 氯仿吗啡酊
 3. eat
 4. etch
+	1. vt. 蚀刻；鲜明地描述；铭记
+	2. vi. 蚀刻
+	3. n. 腐蚀剂；刻蚀
+	4. _v._ [print](dic://print)
+	5. **wafer**薄脆饼;**stencil**模版，蜡纸;**semiconductor**半导体;**substrate**底面,基底;**nitride**氮化物;**polishing**磨光,磨料;**annealing**低温退火;**erase**抹去;**dielectric**电介质;**stencils**模板;**patterning**制作布线图案;
+	6. Governor Jan Brewer compared this tragedy to others forever etched in the public's memory /州长珍·布鲁尔将这场悲剧与铭刻在公众记忆中的其他悲剧相比较。
+	7. And then, at other times, every second was significant, etched in my mind. /然而，别的一些时候，每一秒都显得那么的重要，深深地烙在了我的心上。
+	8. The only trace it ever existed etched into the planet's surface /它曾经存在过的唯一痕迹蚀刻在行星表面。
 5. fret, Fret 品(吉他)
 	1. 来自 Proto-Germonic*fra-etan,吞噬，吃尽，来自*fra-,完全的，词源同 per-,*etan,吃，词源同eat.用来指魔鬼或维京海盗，后用于心理含义，指焦虑紧张等。  
 	2. 来自古法语 frete,格子饰，回纹饰。
 	3. n. 烦躁, 磨损, 焦急, 网状饰物  
-	4. vi. 烦恼, 不满, 磨损  
+	4. vi. 烦恼, 不满, 磨损
 	5. vt. 使烦恼, 腐蚀, 使磨损, 使起波纹
 	6. [stew](dic://stew), [sweat](dic://sweat), [lather](dic://lather), [swither](dic://swither)
 	7. [worn spot](dic://worn spot)
@@ -170,9 +182,22 @@
 	18. n. （吉他等指板上定音的）品；（从海上飘来的）雾，海雾；烦躁，苦恼，焦急；（艺术，建筑）回纹饰；（纹章）钻石上的回纹饰图案
 	19. **worry**烦恼;**worrying**令人担心的;**don**先生，阁下;**forget**忘记;
 	20. _fret over_ 为…着急
-	21. fretwork
-	22. fretum
-	23. fretty, fretted
+	21. don't fret, there's a love. /别发愁，有小可爱呢。
+	22. the bay's black waves fret the seafront. /海湾里黑色的波浪侵蚀着滨海区。
+	23. Good. Make her rest when she gets there but don't fret too much. /好的，她回家后让她休息，不必太过担心。
+	24. Yet one of its bendier bits is causing politicians to fret /但其所带来的一些福利却让政客们烦躁不安。
+	25. rope that fretted a groove in the post; /在柱子上磨出槽来的绳子；
+	26. They rolled up to his lips and fretted them /它们滚到他的嘴唇上， 抚弄着它们。
+	27. squelchy clay that fretted between his toes. /在他脚趾间嘎吱嘎吱地翻滚着的泥土。
+	28. fretwork
+		1. [lattice](dic://lattice), [latticework](dic://latticework)
+		2. _n._ [framework](dic://framework), [frame](dic://frame), [framing](dic://framing)
+		3. **inlay**镶嵌;**ornate**华丽的;**carvings**雕刻品;**mahogany**桃花心木，红木;**guitars**吉他;**guitar**吉他，六弦琴;**paneling**镶板;**intricate**错综复杂的;**woodwork**木制品;**octagonal**八边形的;**drumming**发嗡声;
+		4. a fretwork of sunlight and shadow /日光与树影交错而成的图案
+		5. It looks like a baroque palace from Prague or Munich enlarged a hundred times, with towers, domes, huge swells and bubbles of metal gone green from exposure, iron fretwork and festoons. /它看起来像布拉格或慕尼黑放大一百倍的巴洛克式宫殿，塔楼、圆顶、巨大的膨胀和金属气泡因暴露而变绿，铁制镂空和花彩。
+		6. It is rendered and modelled with some complex corbelling and **fretwork** /它使用一些复杂的装饰和框架进行渲染和建模。
+	29. fretum
+	30. fretty, fretted
 		1. adj. 焦躁的；腐蚀的；附有弦马的 
 		2. v. 烦躁；侵蚀；耗损（fret 的过去分词）
 		3. [interlaced](dic://interlaced), [latticed](dic://latticed), [latticelike](dic://latticelike)
@@ -180,16 +205,25 @@
 		5. _n._ [unfretted](dic://unfretted), [nonreticulate](dic://nonreticulate)
 		6. **worried**担心的;**lamented**令人遗憾的;**bowed**有弓的;**nervously**神经质地;**wailing**哭号;**lamenting**悲伤的,悲哀的;**cried**哭泣;**rattled**慌乱的;**worrying**令人担心的;**unsettled**未处理的;
 		7. fretted notes. /将琴弦压在品上奏出的音。
-		8. rope that fretted a groove in the post; /在柱子上磨出槽来的绳子；
-		9. They rolled up to his lips and fretted them /它们滚到他的嘴唇上， 抚弄着它们。
-		10. squelchy clay that fretted between his toes. /在他脚趾间嘎吱嘎吱地翻滚着的泥土。
 		11. intricately carved and fretted balustrades. /雕刻精致的有回纹装饰的栏杆。
 		12. The stream from the mountain slope fretted a channel through the soft earth along the mountain foot /"山坡上下来的小溪流侵袭着松软的土地,沿着山脚跟形成了一条沟渠。"
-	24. fretting
-	25. fretsaw
-	26. fretful
+	31. fretting
+	32. fretsaw
+	33. fretful
+		1. [antsy](dic://antsy), [fidgety](dic://fidgety), [itchy](dic://itchy), [restless](dic://restless)
+		2.  [querulous](dic://querulous), [whiney](dic://whiney), [whining(a)](dic://whining(a)), [whiny](dic://whiny)
+		3. _adj._ [unquiet](dic://unquiet), [complaintive](dic://complaintive)
+		4. _n._ [quiet](dic://quiet), [uncomplaining](dic://uncomplaining)
+		5. **anxious**渴望的;**irritable**易怒的, 急躁的;**restless**焦躁不安的;**cranky**暴躁的;**weary**疲倦的;**neurotic**神经过敏的;**fearful**可怕的;**sleepless**无眠的;**unsettled**未处理的;**agitated**激动的;**grumpy**脾气暴躁的;
+		6. the baby was crying with a fretful whimper. /婴儿在烦躁不安地呜咽着。
+		7. all this makes Stephen fretful and peevish. /所有这些使得斯蒂芬既烦恼又生气。
+		8. They all looked tired and fretful after several unsuccessful trials /"在多次试验没有成功的情况下,他们个个看上去又疲倦又烦躁不安。"
+		9. We get agitated, fretful, cantankerous and panicky. /我们变得焦虑、易怒、脾气暴躁、恐慌。
+		10. For fretful parents the new devices may just mean still more grounds for worry. /对忧心忡忡的家长来说，新设备可能仅仅意味着更多的担忧。
+		11. A woman hushed a fretful baby with a pacifier. /一名妇女用安抚奶嘴安抚烦躁的婴儿。
 6. ort
-	1. 来自古英语*oraet,即 eat-out,吃剩物，来自 or-,离开，词源同 ordeal,out,-aet,吃，词源同 eat.
+	1. n. 残屑；剩菜
+	2. 来自古英语*oraet,即 eat-out,吃剩物，来自 or-,离开，词源同 ordeal,out,-aet,吃，词源同 eat.
 
 
 
