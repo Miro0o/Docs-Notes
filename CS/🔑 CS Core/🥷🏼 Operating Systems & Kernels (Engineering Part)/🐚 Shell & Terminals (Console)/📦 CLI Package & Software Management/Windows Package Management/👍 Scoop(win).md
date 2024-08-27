@@ -5,6 +5,13 @@
 
 
 ## Res
+### Related Topics
+↗ [Windows](../../../Microsoft%20Operating%20Systems/Windows/Windows.md)
+
+
+### Other Resources
+https://github.com/kkzzhizhou/scoop-apps
+使用Github Action每天自动合并其他scoop仓库的更新，
 
 
 
@@ -13,23 +20,16 @@
 在 Windows 下，搭建开发环境一直是一个复杂且困难的问题。由于没有一个统一的标准，导致各种开发环境的安装方式差异巨大，需要付出很多不必要的时间成本。而 Scoop 可以帮助你统一安装并管理常见的开发软件，省去了手动下载安装，配置环境变量等繁琐步骤。
 
 例如安装 python 和 nodejs 只需要执行：
-
 ```powershell
 scoop install python
 scoop install nodejs
 ```
 
 
-### What is Scoop
-
-
-
-### How to Scoop
-#### Install Scoop
+### Install Scoop
 Scoop 需要 [Windows PowerShell 5.1](https://aka.ms/wmf5download) 或者 [PowerShell](https://aka.ms/powershell) 作为运行环境，如果你使用的是 Windows 10 及以上版本，Windows PowerShell 是内置在系统中的。而 Windows 7 内置的 Windows PowerShell 版本过于陈旧，你需要手动安装新版本的 PowerShell。
 
 > 由于发现很多同学在设置 Windows 用户时使用了中文用户名，导致了用户目录也变成了中文名。如果按照 Scoop 的默认方式将软件安装到用户目录下，可能会造成部分软件执行错误。所以这里推荐安装到自定义目录，如果需要其他安装方式请参考： [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install)
-
 ```powershell
 # 设置 PowerShell 执行策略
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -38,9 +38,10 @@ irm get.scoop.sh -outfile 'install.ps1'
 # 执行安装, --ScoopDir 参数指定 Scoop 安装路径
 .\install.ps1 -ScoopDir 'C:\Scoop'
 ```
-#### What then...
-Scoop 的官方文档对于新手非常友好，相对于在此处赘述更推荐阅读 [官方文档](https://github.com/ScoopInstaller/Scoop) 或 [快速入门](https://github.com/ScoopInstaller/Scoop/wiki/Quick-Start) 。
 
+
+### More About Scoop
+Scoop 的官方文档对于新手非常友好，相对于在此处赘述更推荐阅读 [官方文档](https://github.com/ScoopInstaller/Scoop) 或 [快速入门](https://github.com/ScoopInstaller/Scoop/wiki/Quick-Start) 。
 1. Scoop 能配置镜像源吗？
 	1. Scoop 社区仅维护安装配置，所有的软件都是从该软件官方提供的下载链接进行下载，所以无法提供镜像源。如果因为你的网络环境导致多次下载失败，那么你需要一点点 [魔法](https://csdiy.wiki/必学工具/翻墙/)。
 2. 为什么找不到 Java8？
@@ -55,3 +56,6 @@ scoop install python27
 
 
 ## Ref
+[给 Scoop 加上这些软件仓库，让它变成强大的 Windows 软件管理器]: https://sspai.com/post/52710
+
+[通过Scoop安装和切换Java(JDK)、Python、Ruby的版本]: https://www.thisfaner.com/p/install-and-switch-versions-of-java-python-ruby-via-scoop/

@@ -98,5 +98,18 @@ VMnet1，官方定义为仅主机网路，其默认的网络行为，只与主�
 [网络配置三种模式对比（桥接模式，主机模式，网络地址转换）]: https://cloud.tencent.com/developer/article/1184666
 
 [Linux虚拟机VMnet8连接外网（详细）| CSDN]: https://blog.csdn.net/RealityMan/article/details/99696084?fromshare=blogdetail
+1. 三种vmnet网络模式的差异
+	1. VMNet1
+	2. VMNet0
+	3. VMNet8
+2. 虚拟机配置vmnet8NAT连接模式
+	1. 查看自己主机给VMnet8分配的ip地址以及默认网关
+	2. 打开编辑下面的虚拟网络编辑器
+3. 开始在虚拟机中配置相应的网络
+	1. 修改主机名
+	2. 编辑网络相关配置信息（注意：最好不要加双引号）
+	3. 配置主机名与虚拟机IP映射关系
+	4. 测试虚拟机网络是否可以访问外网
+	5. 测试虚拟机网络是否可以访问主机
 
 [👍 VMware虚拟机网络配置-NAT篇 - Long的文章 - 知乎]: https://zhuanlan.zhihu.com/p/130984945

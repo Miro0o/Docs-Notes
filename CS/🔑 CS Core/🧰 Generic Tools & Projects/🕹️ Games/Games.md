@@ -13,11 +13,6 @@
 ↗ [AI & Gaming](../../../../Software%20Engineering/🤖%20AI%20x%20SE/AI%20&%20Gaming/AI%20&%20Gaming.md)
 
 
-### Sources
-[Game Bytes | Github Blog](https://github.blog/2023-04-07-game-bytes-april-2023/#newsletter)
-[Game Engines | Github Collection](https://github.com/collections/game-engines)
-
-
 ### Linux /CLI Games Collections
 - [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. 
 - [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. https://github.com/CleverRaven/Cataclysm-DDA
@@ -37,6 +32,16 @@ Games and interactive digital playthings.
 - [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. 
 - [OpenEmu](http://openemu.org/) - Multiple Video Game System. 
 - [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. 
+
+
+### Other Resources
+[Game Bytes | Github Blog](https://github.blog/2023-04-07-game-bytes-april-2023/#newsletter)
+[Game Engines | Github Collection](https://github.com/collections/game-engines)
+
+https://www.pcgamingwiki.com/wiki/Home
+PCGamingWiki was founded on **February 9, 2012**. The site and its community have attracted some of the most friendly and passionate PC gamers motivated in helping others with their problems.
+
+PCGamingWiki ran a successful [Kickstarter campaign](http://www.kickstarter.com/projects/438955692/pcgamingwiki-a-new-game-fixes-project) in 2013.
 
 
 
@@ -82,28 +87,27 @@ https://www.protondb.com
 Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. While some have described it as a "zombie game", there is far more to Cataclysm than that. Struggle to survive in a harsh, persistent, procedurally generated world. Scavenge the remnants of a dead civilization for food, equipment, or, if you are lucky, a vehicle with a full tank of gas to get you the hell out of Dodge. Fight to defeat or escape from a wide variety of powerful monstrosities, from zombies to giant insects to killer robots and things far stranger and deadlier, and against the others like yourself, who want what you have...
 
 
-### OpenRA
+### 👉 OpenRA
 🏠 https://www.openra.net
 
 
-### OpenSAGE
+### 👉 OpenSAGE
 
 
-### Openage
+### 👉 Openage
 **openage**: a volunteer project to create a free engine clone of the _Genie Engine_ used by _Age of Empires_, _Age of Empires II (HD)_ and _Star Wars: Galactic Battlegrounds_, comparable to projects like [OpenMW](https://openmw.org/), [OpenRA](http://openra.net/),  [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE/), [OpenTTD](https://openttd.org/) and [OpenRCT2](https://openrct2.org/). At the moment we focus our efforts on the integration of _Age of Empires II_, while being primarily aimed at POSIX platforms such as **GNU/Linux**.
 
 
-### OpenMW
+### 👉 OpenMW
 
 
-### OpenTTD
+### 👉 OpenTTD
 
 
-### OpenRCT2
+### 👉 OpenRCT2
 
 
 
 ## Ref
 [Get the Best of Both Worlds: How to Run Windows Apps on Your Mac]: https://www.pcmag.com/how-to/how-to-run-windows-apps-on-your-mac
-
 

@@ -20,3 +20,14 @@
 
 ## Ref
 [Windows 11 安装 WSL2 - 风中追风的文章 - 知乎]: https://zhuanlan.zhihu.com/p/475462241
+
+[在WSL2中安装多个Ubuntu实例]: https://jishuzhan.net/article/1722408200382189570
+- 第一步：在 WSL2 中安装最新的 Ubuntu
+- 第二步：下载适用于 WSL2 的 Ubuntu 压缩包
+- 第三步：在 WSL2 中安装第二个 Ubuntu 实例 
+- 第四步：登录到第二个Ubuntu实例
+- 第五步：设置用户账户
+- 第六步：设定默认用户
+- 第七步：使用新账户登录
+
+[手动安装wsl2-ubuntu20(指定安装位置)--小亮yuu]: https://www.cnblogs.com/xiaoliangyuu/p/15506352.html
