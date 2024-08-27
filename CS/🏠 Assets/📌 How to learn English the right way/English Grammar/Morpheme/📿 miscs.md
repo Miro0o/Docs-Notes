@@ -697,10 +697,33 @@ berserk
 - They go berserk and break down /机器出现暴冲并且故障。
 - berserker： [bə'sɜːkə] n.狂暴战士adj.狂暴的
 
+bicker
+- vi. 斗嘴, 潺潺而流, 闪动  
+- n. 口角, 流水声
+-  bick-,词源同 peck,啄。-er,表反复。
+- [bickering](dic://bickering), [spat](dic://spat), [tiff](dic://tiff), [squabble](dic://squabble), [pettifoggery](dic://pettifoggery), [fuss](dic://fuss)
+-  [quibble](dic://quibble), [niggle](dic://niggle), [pettifog](dic://pettifog), [squabble](dic://squabble), [brabble](dic://brabble)
+- _n._ [quarrel](dic://quarrel), [wrangle](dic://wrangle), [row](dic://row), [words](dic://words), [run-in](dic://run-in), [dustup](dic://dustup)
+- _v._ [argue](dic://argue), [contend](dic://contend), [debate](dic://debate), [fence](dic://fence)
+- **quarrel**吵架;**arguing**争辩;**banter**戏谑;**argue**争论，辩论;**whine**闹声;**rages**肆虐;**complain**发牢骚;**reminisce**追忆;**debating**辩论;**disagreement**分歧, 意见不合;**feud**长期不和;
+- _[quarrel bicker wrangle](dic://quarrel%20bicker%20wrangle)_ 争吵
+- _[bickering water](dic://bickering%20water)_ 潺潺流水
+- members of the government bickered among themselves /政府成员相互间争吵。
+- whenever the phone rings, they bicker over who must answer it. /只要电话铃响，他们就会为谁该去接听而争吵。
+- Judy turned down the music as Oryx and Kudu continued to yell and bicker /在欧力士和库度大叫、争吵之时，朱迪调低了音乐的音量。
+- Yet while the politicians **bicker**, corporate Latin America is quietly moving closer together /然而，在政客们争吵不休的时候，拉丁美洲各企业正在悄悄地拉近距离。
+- You playfully **bicker** enough, and after a few years, it stops being playful. /你开玩笑似的时常口角，如此这般几年之后，就会当真了。
+
 billiard
 - billiards
 	- _adj._ [billiards](dic://billiards)
 	- **snooker**斯诺克台球;**pinball**弹球戏;**darts**射镖游戏;**tennis**网球;**pong**恶臭;**chess**国际象棋，西洋棋;**arcade**拱廊;**ball**球;**parlor**客厅;**balls**球;**dart**镖;
+	- _billiard ball_ n. 台球；撞球
+	- _billiard table_ 弹子台；台球台
+	- a billiard saloon. /弹子房，台球房。
+	- He loved to play chess and he loved to play billiards /他喜欢下棋 打桌球。
+	- There's an important difference here because billiards, of course, involves angles. /它们是有很大的差别的因为弹球游戏是涉及到角度的
+	- Quote one student met another that he couldn't put a billiard ball in his mouth /一个学生和另一个学生打赌，能不能把台球放进嘴里。
 - billiard-marker
 
 binge
@@ -712,6 +735,12 @@ binge
 - _v._ [eat](dic://eat)
 - **snacking**小吃;**eating**可生食的;**compulsive**极有趣的;**drinking**喝酒;**addiction**瘾，吸毒成瘾;**cravings**渴望;**craving**热望;**dieting**节食;**addict**有瘾的人，入迷的人;**hangover**宿醉;**addicted**沉溺于某种嗜好的;
 - _binge drinking_ 酗酒；豪饮
+- They went on a binge last night. /他们昨夜出去狂饮作乐。
+- he went on a binge and was in no shape to drive. /他一醉方休，没法开车。
+- Meanwhile, multinational companies have gone on an international acquisition binge. /与此同时，跨国公司掀起国际收购狂潮。
+- Binge watching series is going to melt your brain /废寝忘食地看连续剧会让大脑疲惫。
+- We're on a constant tax cutting **binge**. /我们处在不断减税的热潮。
+- One of the symptoms is **binge** eating. /症状之一是饮食无度。
 
 blab
 - v. 泄漏, 胡扯
@@ -9282,7 +9311,43 @@ pond
 - work on the pond is progressing. /池塘的修建工作有进展。
 - a pond with fish in it /鱼池
 - pool
+	- n. 游泳池；池塘，水坑；一小片（液体或光）；（河的）深水处，深潭；后备人员，备用物品；共用的资源（或资金）；（有相同职业或共同从事某项活动的）人群；赌球（或其他体育比赛），赌注；<英>足球普尔（the pools)；落袋台球；垄断性联营；预赛组 
+	- v. 集中（资源、钱财等）以备共用；积水成洼；（血液）在静脉中淤积
+	- _n._ 水池
+	- (液体等的)一滩，一片
+	- 共同储金；共用物；共用人员
+	- _vt._ 集中…共同使用；共用
+	- [pond](dic://pond)
+	- [consortium](dic://consortium), [syndicate](dic://syndicate)
+	- [puddle](dic://puddle)
+	- [kitty](dic://kitty)
+	- [puddle](dic://puddle)
+	- [pocket billiards](dic://pocket billiards)
+	- _n._ [excavation](dic://excavation), [lake](dic://lake), [organization](dic://organization), [organisation](dic://organisation), [association](dic://association), [reserve account](dic://reserve account), [reserve fund](dic://reserve fund)
+	- _v._ [share](dic://share), [group](dic://group), [aggroup](dic://aggroup)
+	- **swimming**游泳;**poolside**在游泳池边的;**swim**游泳;**tub**桶;**Jacuzzi**极可意水流按摩浴缸;**spa**矿泉;**pond**池塘;**playground**操场;**beach**海滩;**patio**天井;**whirlpool**漩涡;
+	- _swimming pool_ 游泳池
+	- _molten pool_ 熔池
+	- _oil pool_ 油池
+	- _weld pool_ 焊池
+	- _indoor swimming pool_ 室内游泳池
+	- _gene pool_ 基因库
+	- _talent pool_ 人才库
+	- _plunge pool_ n. 瀑布下的水潭
+	- _indoor pool_ 室内游泳池；游泳馆
+	- Use your budgets to ensure constant pools of demand. /投入预算以保证开发源源不断的需求。
+	- Would you like to do the football pools? /你想玩一下足球赌注吗？
+	- Now can you see the bridge crossing the fish pool further up the main path? /你们能看见主干道远处那个鱼塘上面的桥吗？
+	- a pool with banks all the way round /一个四周有围栏的水池。
+	- the drips had made a pool on the floor. /地板上滴了一摊水。
+	- the swimming pool is ideal for a quick dip. /这个游泳池是小游片刻的理想场所。
+	- They lazed around the pool in the afternoon /他们下午在游泳池里消磨。
+	- a pool alive with trout /满是鳟鱼的水塘
 - pondweed
+	- n. 水池草；眼子菜属水草
+	-  [Elodea](dic://Elodea), [genus Elodea](dic://genus Elodea), [ditchmoss](dic://ditchmoss)
+	- _n._ [aquatic plant](dic://aquatic plant), [water plant](dic://water plant), [hydrophyte](dic://hydrophyte), [hydrophytic plant](dic://hydrophytic plant), [monocot genus](dic://monocot genus), [liliopsid genus](dic://liliopsid genus)
+	- **algae**藻类;**grasses**稻科植物类;**carp**吹毛求疵;**ferns**蕨类;**seaweed**海藻，海草;**fern**蕨类植物;**mussels**淡菜;**weeds**丧服;**willow**柳木制品;**freshwater**淡水的;**eel**鳝鱼;
 - pondage
 - millpond
 - fishpond
@@ -9296,6 +9361,15 @@ porgy
 posh
 - posh - 关于posh的由来，有一种说法聊备一阅。昔日，富人乘船从英国去印度旅行，为求航海途中阴凉舒适，大多喜欢选择背阴朝北的房舱。乘客在订票登记时，大英轮船公司（Peninsular and Oriental Steam Navigation Co.，简称P &amp; O）就会注上P. O. S. H四个字母，或在来回票上加盖P. O. S. H字样。P. O. S. H代表Port Out（或Outward），Starboard Home（或Homeward），意思是“去程左舷，回程右舷”。在客轮穿越苏伊士运河、红海，进入印度洋时，这种房舱可以避免午后太阳的直射，比较凉快。不久，这一缩写式即被用作一个单词，转指“头等乘客”，据认为今作“漂亮的”、“第一流的”等义解的口语用词posh即源于此。这一说法还曾出现在大英轮船公司于20世纪60年代所作的广告上。然而，遗憾的是，大英轮船公司没有这方面的证据和记录，所以这种说法一直没能得到证实。另有一点，posh始用于20世纪初，但在19世纪时英语原本就有一个盗贼俚语posh，意思是“钱”和“花花公子”，可能源自吉卜赛语（Romany）。因此，我们如今所用的posh很可能是从旧的posh演变过来的。
 - a. 豪华的, 漂亮的, 优雅的, 极好的
+-  [classy](dic://classy), [swish](dic://swish)
+- _adj._ [stylish](dic://stylish), [fashionable](dic://fashionable)
+- _n._ [styleless](dic://styleless), [unstylish](dic://unstylish)
+- **glamorous**富有魅力的;**upscale**高消费的;**luxurious**奢侈的;**opulent**富裕的;**trendy**时髦的，流行的;**classy**漂亮的;**affluent**富裕的;**fancy**想像力;**fashionable**流行的, 符合时尚的, 时髦的;**chic**时髦;**luxury**奢侈，奢华;
+- a posh Munich hotel. /一家优雅的慕尼黑酒店。
+- she had a posh accent /她有上流人士的口音。
+- from the poshest pot pourri to the humblest dangly doodah /从最时髦的坛坛罐罐到最普通的小挂件什么的。
+- She always puts on a posh voice to talk to the vicar. /她总是装腔作势,用一种优雅的嗓音跟教区牧师讲话。
+- I was at this super posh restaurant. /我在一家超级豪华的餐厅。
 - poshism
 - posh-looking
 

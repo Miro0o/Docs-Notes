@@ -7423,11 +7423,39 @@
 		18. Thames Marsh has no quarrel with the USSR. /泰晤士马什跟苏联没有纷争。
 		19. This is my quarrel with capitalism. /这是我对于资本主义的争论。
 3. wheeze
-	1. vi. 喘气
-	2. vt. 喘息着说
-	3. n. 喘气声, 喘息; 花招, 计谋
-	4. wheezy
-	5. wheezing
+	1. 拟声词。
+	2. vi. 喘气
+	3. vt. 喘息着说
+	4. n. 喘气声, 喘息; 花招, 计谋
+	5. v. 喘息；喘息地说出；气喘吁吁地走动；（器械）气喘似的响 
+	6. n. 喘息声；（非正式）巧妙主意；（不再好笑的）过时笑话
+	7. _n._ [breathing](dic://breathing), [external respiration](dic://external respiration), [respiration](dic://respiration), [ventilation](dic://ventilation), [scheme](dic://scheme), [strategy](dic://strategy)
+	8. _v._ [breathe](dic://breathe), [take a breath](dic://take a breath), [respire](dic://respire), [suspire](dic://suspire)
+	9. **cough**咳嗽，咳嗽声;**coughing**咳嗽;**asthma**哮喘，气喘;**sneeze**打喷嚏;**sob**啜泣，呜咽;**yawn**哈欠;**groan**呻吟;**gasp**喘息;**giggle**傻笑;**puff**喷出，张开;**sneezing**打喷嚏;
+	10. a new wheeze to help farmers. /帮助农家的新计策。
+	11. The old locomotive wheezed steam. /老火车头呼哧呼哧地吐出蒸汽
+	12. He has a slight wheeze in his chest. /他呼吸时胸部发出轻微的响声。
+	13. he could barely wheeze out his pleas for a handout. /他气喘吁吁地，几乎连乞求施舍的要求都说不出。
+	14. Filch the caretaker came wheezing into the room /管理员费尔奇呼哧呼哧地走了进来。
+	15. Because of narrowing of the windpipes, people can wheeze /由于气管变窄，人们会喘息。
+	16. This old instrument Can only **wheeze** out a tune now /这只旧乐器现在只能呼哧呼哧地奏出一个曲调。
+	18. wheezy
+		1. [reedy](dic://reedy)
+		2. [asthmatic](dic://asthmatic), [wheezing](dic://wheezing)
+		3. _adj._ [noisy](dic://noisy), [unhealthy](dic://unhealthy)
+		4. _n._ [quiet](dic://quiet), [healthy](dic://healthy)
+		5. **coughing**咳嗽;**cough**咳嗽，咳嗽声;**sickly**有病的，苍白的;**bronchitis**支气管炎;**bloated**傲慢的;**breathing**呼吸;**ragged**衣衫褴褛的;**gasping**喘气的;**cranky**暴躁的;
+		6. _[wheezy breathing](dic://wheezy%20breathing)_ 喘息呼吸
+		7. _[wheezy bronchitis](dic://wheezy%20bronchitis)_ 喘息性支气管炎
+		8. It's when you get wheezy and you're breathing heavily /就是当你喘不过气来，呼吸急促的时候。
+		9. " No need, Dumbledore, " said a wheezy growl. /“没有必要，邓布利多，”一个低沉的声音呼哧呼哧地说。
+		10. I saw him dance with another lad, dance wildly, to the wheezy music of the concertina. /思特里克兰德的孩子同另一个小伙子跳起舞来，在暗哑的手风琴声中，他们疯狂地跳着。
+		11. " Oh, dear, " said Old Wrinkly, chuckling in a wheezy way over his pipe. /" 哦，亲爱的，" 老皱纹地说，在他的烟斗里喘息着咯咯地笑着。
+		12. Among these, two made themselves prominent by their peculiarity: one was a very strong bass, the other a wheezy thin piping. /其中有两个人的歌声，因为很特别而显得突出：一个是浑厚的男低音，另一个是气喘吁吁、微弱的尖叫声。
+		13. I'm **wheezy** today /我今天感到喘不上气来。
+		14. I pull the **wheezy** bell of their shuttered cottage: and wait /我拉了拉他们那座关上百叶窗的茅屋上气不接下气的门铃，等着。
+		15. I sound like a **wheezy**, lisping drunk /我听上去就像是一个气喘而口齿不清的醉鬼。
+	19. wheezing
 
 
 ### + \*kwet- + = to shake
@@ -7468,29 +7496,93 @@
 		1. pastel（粉蜡笔）：将植物叶子捣碎后形成的糊状颜料  
 		2. 中国古人在三千多年前就发明了使用蓼蓝以及菘蓝、木蓝、马蓝等植物叶子制成蓝色染料的工艺，将这种染料称为“蓝靛”或“靛青”。战国时期荀况的千古名句“青出于蓝而胜于蓝”就源于当时的染蓝技术。宋应星所著.《天工开物》中就记载：“凡蓝五种、皆可为靛”。无独有偶，古代西方人同样掌握了使用这些植物叶子制造蓝色染料的方法。在拉丁语中，这种蓝色染料被称为pastellus，是单词pasta（面团）的指小形式，意思就是“小面团”，因为这种染料的初始形态就是将植物叶子捣碎后形成的糊状物。后来，该词经过意大利语、法语进入英语，演变为pastel一词，词义也发生变化，用来表示“粉蜡笔”，因为这种蜡笔原本就是用这种蓝色染料做成的。  
 		3. 与pastel同源的单词还有paste（浆糊）、pasta（意大利面）等。pasta直接来自意大利语和拉丁语 pasta，指的是意大利的一种面食，本意就是“面团”、“面糊糊”。去西餐厅点餐时，千万不要把pasta（意大利面）和spaghetti（意大利细面条）搞混。  
+		4. adj. 柔和的；彩色蜡笔的，粉蜡笔的
+		5. n. 粉蜡笔；粉蜡笔画
 			1. pastel：[pæ'stɛl] n. 粉蜡笔；粉蜡笔画adj. 柔和的；彩色蜡笔的，粉蜡笔的  
 			2. paste：[pest] vt. 张贴，裱糊；用浆糊粘n. 面团，膏；糊状物，浆糊  
 			3. pasty：['pæsti] adj. 苍白的；面糊似的n. 馅饼  
 			4. pasta：['pɑstə] n.意大利面，面团  
 			5. pastry：['pestri] n. 油酥点心；面粉糕饼
-			2. _n._ [chromatic color](dic://chromatic color), [chromatic colour](dic://chromatic colour), [spectral color](dic://spectral color), [spectral colour](dic://spectral colour)
-			3. _adj._ [delicate](dic://delicate), [light](dic://light), [light-colored](dic://light-colored)
-			4. _n._ [rugged](dic://rugged), [dark](dic://dark)
-		4. **watercolor**水彩;**watercolour**水彩;**pink**粉红色;**hues**色调;**beige**米黄色;**colored**有色的;**monochrome**单色画,单色照片,黑白照片;**crayon**蜡笔，有色粉笔;**turquoise**绿松石;**lilac**淡紫色;**teal**短颈野鸭，水鸭;
-	5. pastiche
-		1. 1 - 来自意大利语 pasticcio,面团，混成曲，集锦，来自拉丁语 pasta,面团。即揉成一团的，比喻用法。
-		2.  [medley](dic://medley), [potpourri](dic://potpourri)
-		3. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [work of art](dic://work of art)
-		4. **parody**拙劣的模仿;**postmodern**后现代主义的;**spoof**①滑稽的模仿;**melodrama**情节剧;**satire**讽刺;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**masterpiece**杰作;**imitation**模仿, 仿效;**stylistic**风格上的;**reworking**再次加工,再造,再加工;**cliches**陈腔滥调;
-		5. _[pastiche and parody](dic://pastiche%20and%20parody)_ 拼凑和戏仿
-		6. _[a pastiche of various styles](dic://a%20pastiche%20of%20various%20styles)_ 各种风格的拼凑
-	6. pastiness
-	7. pastry, pastrycook
-	8. pasty, pasty-faced
-	9. pattie, pattiepan
-	10. patty, pattypan
+		6. _n._ [chromatic color](dic://chromatic color), [chromatic colour](dic://chromatic colour), [spectral color](dic://spectral color), [spectral colour](dic://spectral colour)
+		7. _adj._ [delicate](dic://delicate), [light](dic://light), [light-colored](dic://light-colored)
+		8. _n._ [rugged](dic://rugged), [dark](dic://dark)
+		9. **watercolor**水彩;**watercolour**水彩;**pink**粉红色;**hues**色调;**beige**米黄色;**colored**有色的;**monochrome**单色画,单色照片,黑白照片;**crayon**蜡笔，有色粉笔;**turquoise**绿松石;**lilac**淡紫色;**teal**短颈野鸭，水鸭;
+		10. a pastel entitled ‘Girl braiding her hair’. /一幅题为“编辫女孩”的蜡笔画。
+		11. The rooms were decorated in delicate pastel shades /房间都装修得色彩柔和。
+		12. a choice of fashion colours from pastels through to brights. /从淡雅到醒目的可供选择的各种流行色。
+		13. pastels and light colours are in this year. /今年柔色和淡色很流行。
+		14. We add neon and we add pastels and we use new materials /我们加入霓虹我们加入柔和的粉蜡色我们使用新型材料。
+		15. Is it true that you went to, like, France and studied pastel painting compositions? /你去法国学习粉彩，这是真的吗？
+		16. As you can see, this gives us many different shades, from a deep reddish brown… to light pastel pink. /如你所见，明度给我们带来很多不同的色调，从深红棕色到淡粉色。
+		17. If you look at Malay villages, the colors are kind of pastel /如果你看看马来人的村庄，颜色有点柔和。
+		18. He made a pasteboard house for himself and pasted some pastels on the wall. /他为自己做了一所纸板做的房子并在墙上张贴了一些彩色蜡笔画。
+		19. But it was so beautiful and such a beautiful pastel shade /但它是如此美丽， 如此美丽的柔和色调。
+	6. pastiche
+		1. 来自意大利语 pasticcio,面团，混成曲，集锦，来自拉丁语 pasta,面团。即揉成一团的，比喻用法。
+		2. n. 混成曲；模仿画 
+		3. vt. 东拼西凑；混杂
+		4.  [medley](dic://medley), [potpourri](dic://potpourri)
+		5. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [work of art](dic://work of art)
+		6. **parody**拙劣的模仿;**postmodern**后现代主义的;**spoof**①滑稽的模仿;**melodrama**情节剧;**satire**讽刺;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**masterpiece**杰作;**imitation**模仿, 仿效;**stylistic**风格上的;**reworking**再次加工,再造,再加工;**cliches**陈腔滥调;
+		7. _[pastiche and parody](dic://pastiche%20and%20parody)_ 拼凑和戏仿
+		8. _[a pastiche of various styles](dic://a%20pastiche%20of%20various%20styles)_ 各种风格的拼凑
+		9. Marinette evented his discuss with both historical reconstruction, pastiche or plagiarism, and photographic reproduction of our daily life. /马里内特通过对历史的重建、复制或剽窃 以及对我们日常生活的摄影再现来发起讨论。
+		10. Made up of brothers Vegard and Bard Ylvisaker, the band produces delightfully absurd pastiches of various kinds of music. /这个乐队的成员有维加德和巴德·伊尔维塞克兄弟，他们会制作各种各样的音乐，令人很愉悦但又很荒谬。
+		11. One of the paramount challenges is ensuring that this integration does not devolve into mere pastiche /最重要的挑战之一是确保这种整合不会演变成纯粹的模仿。
+		12. It means that a stadium in Brooklyn can be a stadium in Brooklyn, not some red-brick historical pastiche of what we think a stadium ought to be. /这意味建在布鲁克林的体育场 可以是一个属于布鲁克林风格的体育场，而不是我们脑中体育场该有的模仿红砖历史建筑的模样。
+		13. A talent for literary **pastiche** is the real strength /具有文学模仿才能是一种真正的优势
+		14. His bathroom is a brilliant **pastiche** of expensive interior design /他的浴室是高档室内设计的集大成之作。
+	7. pastiness
+	8. pastry, pastrycook
+	9. pasty, pasty-faced
+	10. pattie, pattiepan
+	11. patty, pattypan
 4. quash
+	1. vt. 撤销; 平息, 镇压
+	2. 来自拉丁语 quassare,使无效，来自 cassare 拼写变体，来自 PIE*kes,砍，切，来自 PIE*skei,砍，切，词源同 caste,segment,scissors.
+	3.  [repress](dic://repress), [keep down](dic://keep down), [subdue](dic://subdue), [subjugate](dic://subjugate), [reduce](dic://reduce)
+	4.  [invalidate](dic://invalidate), [annul](dic://annul), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify)
+	5. _v._ [oppress](dic://oppress), [suppress](dic://suppress), [crush](dic://crush), [cancel](dic://cancel), [strike down](dic://strike down)
+	6. **suppress**抑制;**dismiss**离开;**stifle**使窒息;**quell**镇压;**thwart**反对;**overturn**推翻;**oust**剥夺;**curtail**截断, 缩短;**undermine**在某物下挖洞或挖通道;**compel**强迫，迫使;**discredit**败坏…的名声;
+	7. quash a rebellion. /镇压叛乱
+	8. The army quashed the rebellion. /军队平息了叛乱。
+	9. his conviction was quashed on appeal. /上诉后他的判决被撤销。
+	10. The high court judge quashed the decision of the lower court. /高等法院的法官撤销了下级法院的裁决。
+	11. a hospital executive quashed rumours that nursing staff will lose jobs. /一位医院管理人员平息了护理人员将要失业的谣言。
+	12. Irish officials were quick to quash that idea. /爱尔兰官员立刻制止了这一想法。
+	13. The provincial authorities quashed another proposed plant in the Mekong Delta. /地方当局还否决了湄公河三角洲的另一个工厂提案。
+	14. To quash the threat, the Sultan brings his war elephants to battle. /为了消除威胁，苏丹带着他的战象参战。
+	15. " They really quashed the playing of favorites, " says Nicolle Martin, Phillips' lead counsel in Colorado. /“他们真的遏止了厚此薄彼这一做法，”（蛋糕店老板）菲利普斯在科罗拉多州的首席法律顾问尼考尔·马丁说道。
+	16. Graham attempted to **quash** rumours of growing discontent in the dressing room. /格雷厄姆试图澄清化妆室里日益增长的不满情绪的谣言。
 5. squash
+	1. n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群  
+	2. vt. 压扁, 镇压, 压制  
+	3. vi. 被压扁, 发溅泼声, 挤入
+	4. squash - 南瓜有大果和小果品种之分，squash指的是小果品种的南瓜。美洲印第安人把它叫做 asquutasquash/ askutasquash，意思是that which is eaten raw（可以生吃的东西）。美国早期移民吸收了该词，先是拼作 squoutersquash，以后才把它缩略为squash的。
+	5. 来自古法语 esquasser,来自通俗拉丁语* exquassare,粉碎，压碎，来自 ex-,向外，quassare,使粉碎，词源同 quash.引申诸相关词义。
+	6. [squash vine](dic://squash vine)
+	7. [squash racquets](dic://squash racquets), [squash rackets](dic://squash rackets)
+	8. [crush](dic://crush), [squelch](dic://squelch), [mash](dic://mash), [squeeze](dic://squeeze)
+	9. _n._ [vine](dic://vine), [vegetable](dic://vegetable), [veggie](dic://veggie), [court game](dic://court game)
+	10. _v._ [press](dic://press)
+	11. **zucchini**夏季产的一种南瓜;**butternut**灰胡桃果;**cauliflower**花椰菜;**eggplant**茄子;**tomatoes**蕃茄;**broccoli**花椰菜;**pumpkin**南瓜;**tennis**网球;**badminton**羽毛球;**tomato**番茄，西红柿;**melon**瓜;
+	12. _summer squash_ 西葫芦；矮性南瓜
+	13. _winter squash_ 冬南瓜；笋瓜；印度南瓜
+	14. _squash court_ 壁球场，壁球室
+	15. a squash court /壁球场。
+	16. squash a revolt. /镇压一场反叛
+	17. squash a heckler /使询问者无话可说
+	18. a poetry squash in London. /在伦敦举行的诗歌集会。
+	19. He managed to squash into the car. /他设法挤进了车子。
+	20. show them the biggest squash in the garden. /给他们展示花园中最大的南瓜
+	21. We all squashed into the car. /我们都挤进车里了。
+	22. Don't all try to squash into the lift together. /不要一起挤进电梯。
+	23. Squash the grapes into a pulp. /把葡萄压榨成酱。
+	24. The government squashed the revolt cruelly. /政府残酷地镇压了叛乱。
+	25. wash and squash the cans before depositing them. /在存放这些铁罐以前把它们洗净并压扁。
+	26. I enjoy playing tennis and **squash**. /我喜欢打网球和壁球。
+	27. squashy
+
 
 
 ### ⭐ + \*kwetwer- + = four

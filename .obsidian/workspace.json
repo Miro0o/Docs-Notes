@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "40393a8492ab2386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac7a203d1d83f5de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
+                "file": "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md"
               }
             }
           },
@@ -198,10 +171,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ac7a203d1d83f5de",
+  "active": "d2c04d2a29d21685",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
     "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
     "CS/Data Science/Data Science.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Games.md",
@@ -216,7 +191,6 @@
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/AntiVirus (AV)/Windows Defender.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/Windows.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🚀 Virtualization Theory/Library Level Virtualization/WSL (Windows Subsystem for Linux)/WSL (Windows Subsystems for Linux).md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/📦 CLI Package & Software Management/Windows Package Management/👍 Scoop(win).md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Video Games/Horizon.md",
@@ -226,7 +200,6 @@
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT with IPv6/NAT64 & DNS64.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/MiddleBoxes/NAT (Network Address Translation)/NAT with IPv4/NAT with IPv4.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/System Bus/SMBus (System Management Bus).md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/JEB Pro/JEB Pro.md",
     "Assets/Pics/Pasted image 20240816223509.png",
     "Assets/Pics/Pasted image 20240816223431.png",
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/Embedded Device Motherboards",
