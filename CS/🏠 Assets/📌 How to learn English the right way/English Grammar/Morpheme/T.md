@@ -3449,19 +3449,73 @@
 			1. retrievability
 			2. irretrievable
 	4. trove
-		1. 1 - 缩写自 treasure trove,找到的珍宝，来自古法语 trover,打到，发现，来自通俗拉丁语*tropare,找到，发现，词源同 turn,trope,troubadour.在语法格上，该词为动词 trover 的过去分词格。
+		1. 缩写自 treasure trove,找到的珍宝，来自古法语 trover,打到，发现，来自通俗拉丁语*tropare,找到，发现，词源同 turn,trope,troubadour.在语法格上，该词为动词 trover 的过去分词格。
 		2. n. 发现物, 收藏品
 		3.  [treasure trove](dic://treasure trove)
 		4. _n._ [treasure](dic://treasure), [hoarded wealth](dic://hoarded wealth)
 		5. **treasure**财富，财产;**unearthed**掘出的;**vast**巨大的;**compendium**摘要,纲要;**archives**档案，档案室;**plethora**过剩;**hoard**储藏, 积存;**gems**宝石;**culled**拣选;**collection**收集;**nuggets**金砖;
 		6. _treasure trove_ n. 无主珍宝，无主埋藏物
-		7. trover
+		7. your book is a treasure trove of unspeakable delights. /你的书是本可以带来难以言喻快乐的宝书。
+		8. the museum's trove of antique treasure /博物馆的古董收藏。
+		9. And the Pacific Ocean is said to be a treasure trove of rare earth elements /传说，太平洋是稀土元素的宝库。
+		10. Twins provide a trove of biological information that scientists cannot get anywhere else. /双胞胎为科学家提供了其他地方无法获取的大量生物信息。
+		11. DNA fingerprinting and other DNA analysis techniques have revolutionized criminal investigations by giving investigators powerful new tools in the attempt to **trove** guilt, not just establish innocence. /DNA 指纹和其他 DNA 分析技术已经给犯罪调查带来了革命性的变化，它给调查人员提供了强大的新工具来试图发现罪行，而不仅仅是确立清白。
+		12. trover
 			1. _n._ 追索侵占物诉讼,取得
 			2. _[action of trover](dic://action%20of%20trover)_ 损害赔偿诉讼
 			3. _[action in trover](dic://action%20in%20trover)_ 追索侵占物诉讼英语; 请求追索非法占用的诉讼; 
 			4. _[trover and conversion](dic://trover%20and%20conversion)_ 动产侵占与返还之诉
 4. **trop-, -tropy** = turn, 表示“转”，后缀 -tropy 表示“取向、向……性”。
-	1. entropy
+	1. trophy
+		1. trophy（奖品）：古希腊罗马人打胜仗后立下的纪念物  
+		2. 古希腊军队在战场上打了胜仗后，会在战场上找棵树或立个大树桩，把缴获的战利品如武器、盔甲等挂在上面，做成人形，再把这次取胜事迹刻在树上。如果在海战中获胜，就把缴获的敌舰拖到沙滩上留作纪念。这个纪念物是献给神明的，毁掉的话就是亵渎神灵。  
+		3. 到了古罗马时期，古罗马人也沿袭了古希腊人的这种做法，不过略有不同。古罗马人在战场上取胜，不是在战场上树立纪念物，而是回到罗马建，通常是一个柱子，上面雕刻铭文，如有名的图拉真纪念柱。有时候是两根柱子，上面再加一个拱门，这就是所谓的“凯旋门”。  
+		4. 这种胜利纪念物在希腊语中称为tropaion，拉丁语中叫做tropaeum。它就是英语单词trophy的词源。它的本意并不是“战利品”，而是指用战利品装饰的、奉献给神的纪念品。不过后来，人们在战场上取胜后，往往把战利品搬回家，留给自己做纪念品了。所以trophy又可以用来表示“战利品”。在后来的竞技比赛中，给优胜者颁发的奖品也被称作trophy，因为它相当于作战获得的战利品，并且还可以带回家作为纪念。  
+		5. trophy： ['trəʊfɪ] n.奖品，战利品，纪念品vt.用战利品修饰
+		6. n. 奖杯，奖品；（用于比赛或赛跑名称）奖，奖杯（Trophy）；战利品，猎获物；（古希腊或古罗马用缴获的武器搭成的）胜利纪念柱 
+		7. adj. 向他人炫耀的，抬高自己身价的
+		8. [prize](dic://prize)
+		9. _n._ [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels)
+		10. **medal**勋章，奖章;**championship**锦标赛,冠军赛;**medals**奖章;**silverware**银器;**award**授予;**prize**奖品;**winning**胜利的;**winners**成功者;**winner**胜利者;**awards**奖项;**runner-up**亚军;
+		11. The cup is a cherished trophy of the company. /那只奖杯是该公司很珍惜的奖品。
+		12. do you fancy potting a fine trophy? /你想过赢得奖杯吗？
+		13. The Peewee Boyz strike a trophy-winning pose /“毛头小子”摆出个大获全胜的造型。
+		14. he lifted his trophy over his head. /他把奖杯举过头顶。
+	2. trope
+		1. trope - tropic源于希腊词tropikós。实际上它和trophy（奖品，战利品）一样，同是出自希腊词根tropē 'turn'（转向，转动）。用tropic来指“回归线”是因为回归线是太阳所能到达的极限位置，太阳到达此处，不是转向南去，就是转向北去。北回归线英语说Tropic of Cancer，南回归线英语说Tropic of Capricorn。tropic的复数形式，即tropics，则被用以指南回归线和北回归线之间的地带，即“热带”。英语中有一个修辞学术语trope（转义，比喻）其终极词源也是希腊词根tropē。
+		2. n. 比喻，转义词语；修辞；重要（或频频出现）的主题，一再重复的主题
+		3. [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
+		4. _n._ [rhetorical device](dic://rhetorical device)
+		5. **cliche**陈词滥调;**archetype**原型;**cliches**陈腔滥调;**parody**拙劣的模仿;**stereotype**老套, 模式化的见解, 有老一套固定想法的人;**protagonist**主角;**stereotypical**老一套的;**villain**坏人，恶棍;**genre**类型;**overused**过度使用的;**meme**文化基因;
+		6. _[trope and synecdoche](dic://trope%20and%20synecdoche)_ 借喻和借代
+		7. We often mock the typical tropes of horror films /我们经常嘲笑恐怖电影的典型内容。
+		8. By now, it's become a common trope for Nolan's characters, that inevitable reckoning between grandiosity and reality /到目前为止，这已经成为诺兰角色的一个常见比喻，在宏伟与现实之间进行不可避免的清算。
+		9. There's the long-standing trope of racism, that black people are more animal. /长期以来一直存在种族主义的说法，即黑人更像动物。
+		10. They're the epitome of the trope " to see is to believe." /它们是“眼见为实”这一比喻的缩影。
+		11. The prepare for nightfall trope can be fitted into the larger survival genre. /黑夜绸缪的类型可以归类于更大的求生类型。
+		12. The **trope** of sight is obviously extremely important here. /对视力的比喻在这里非常的重要。
+		13. Nick Dybek has turned to such enduring tropes for his debut novel, “When Captain Flint Was Still A Good Man”. /尼克迪贝克在自己的处女作小说《那时，弗林特船长仍是个好人》中选用了这一经久不衰的主题。
+		14. tropic
+			1.  [tropical](dic://tropical)
+			2. _n._ [latitude](dic://latitude), [line of latitude](dic://line of latitude), [parallel of latitude](dic://parallel of latitude), [parallel](dic://parallel)
+			3. _adj._ [equatorial](dic://equatorial), [hot](dic://hot)
+			4. _n._ [polar](dic://polar), [cold](dic://cold)
+			5. **tropical**热带的;**subtropical**亚热带的;**oceanic**海洋的;**equator**赤道;**arctic**北极的;**temperate**饮食有节制的, 克己的;**Caribbean**加勒比海;**ocean**海洋;**rainforest**雨林;**jungle**丛林，密林;**Hawaiian**夏威夷语的;
+			6. _tropic of cancer_ 北回归线
+			7. _tropic of capricorn_ [天]南回归线
+			8. the American continent south of the tropic of Cancer. /北回归线以南的美洲大陆。
+			9. I went to the tropics for the first time last year. /我去年第一次去了热带地区。
+			10. These forests stand in the tropics. /这片森林在热带地区。
+			11. nootropic
+			12. pleiotropic
+			13. tropical
+			14. tropicopolitan
+			15. tropicalize, tropicalizationtropicality
+		16. tropics
+		17. tropology
+		18. tropopause
+		19. troposphere
+	3. entropy
 		1.  en-,进入，使，-trop,转，混乱，词源同 turn,tropical.即进入混乱状态，后用于科学术语，指无序状态的测量。
 		2. [information](dic://information), [selective information](dic://selective information)
 		3. [randomness](dic://randomness), [S](dic://S)
@@ -3481,23 +3535,23 @@
 		17. negentropy
 		18. isentropic
 		19. homoentropic
-	3. phototropy
+	4. phototropy
 		1. phototropism
-	4. thixotropy
-	5. chemotropic
-	6. chromatrope
-	7. dexiotropic
-	8. geotropic
+	5. thixotropy
+	6. chemotropic
+	7. chromatrope
+	8. dexiotropic
+	9. geotropic
 		1. geotropism
-	9. gonadotropic
-	10. heliotrope
-	11. hydrotropism
-	12. intertropical
-	13. isotropic
+	10. gonadotropic
+	11. heliotrope
+	12. hydrotropism
+	13. intertropical
+	14. isotropic
 		1. isotropism
-	14. neurotropic
-	15. organotropic
-	16. pantropic
+	15. neurotropic
+	16. organotropic
+	17. pantropic
 	18. pneumotropic
 	19. psychotropic
 	20. rheotrope
@@ -3519,32 +3573,6 @@
 		1. chemotropy
 	28. pneumotropism
 	29. tropaeolum
-	30. trophy
-		1. n. 奖杯，奖品；（用于比赛或赛跑名称）奖，奖杯（Trophy）；战利品，猎获物；（古希腊或古罗马用缴获的武器搭成的）胜利纪念柱 
-		2. adj. 向他人炫耀的，抬高自己身价的
-		3. [prize](dic://prize)
-		4. _n._ [award](dic://award), [accolade](dic://accolade), [honor](dic://honor), [honour](dic://honour), [laurels](dic://laurels)
-		5. **medal**勋章，奖章;**championship**锦标赛,冠军赛;**medals**奖章;**silverware**银器;**award**授予;**prize**奖品;**winning**胜利的;**winners**成功者;**winner**胜利者;**awards**奖项;**runner-up**亚军;
-		6. The cup is a cherished trophy of the company. /那只奖杯是该公司很珍惜的奖品。
-		7. do you fancy potting a fine trophy? /你想过赢得奖杯吗？
-		8. The Peewee Boyz strike a trophy-winning pose /“毛头小子”摆出个大获全胜的造型。
-		9. he lifted his trophy over his head. /他把奖杯举过头顶。
-	32. trope
-		1. trope - tropic源于希腊词tropikós。实际上它和trophy（奖品，战利品）一样，同是出自希腊词根tropē 'turn'（转向，转动）。用tropic来指“回归线”是因为回归线是太阳所能到达的极限位置，太阳到达此处，不是转向南去，就是转向北去。北回归线英语说Tropic of Cancer，南回归线英语说Tropic of Capricorn。tropic的复数形式，即tropics，则被用以指南回归线和北回归线之间的地带，即“热带”。英语中有一个修辞学术语trope（转义，比喻）其终极词源也是希腊词根tropē。
-		2.  [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
-		3. _n._ [rhetorical device](dic://rhetorical device)
-		4. **cliche**陈词滥调;**archetype**原型;**cliches**陈腔滥调;**parody**拙劣的模仿;**stereotype**老套, 模式化的见解, 有老一套固定想法的人;**protagonist**主角;**stereotypical**老一套的;**villain**坏人，恶棍;**genre**类型;**overused**过度使用的;**meme**文化基因;
-		5. _[trope and synecdoche](dic://trope%20and%20synecdoche)_ 借喻和借代
-		17. tropic
-			1. nootropic
-			2. pleiotropic
-			3. tropical
-			4. tropicopolitan
-			5. tropicalize, tropicalizationtropicality
-		18. tropics
-		19. tropology
-		20. tropopause
-		21. troposphere
 5. **troph-** = nutrition, 表示“营养”。源自希腊语 trophe "nourishment."
 	1. auxoroph
 	2. ectotrophic
@@ -3556,15 +3584,21 @@
 		2. _adj._ [nutrition](dic://nutrition)
 		3. _trophic level_ 营养级；食性层次
 		4. **larval**幼虫状态的;**predation**掠夺行为;**biomass**生物量;**nutrient**营养物;**metabolic**新陈代谢的;**ecological**生态的;**taxa**分类;**species**物种;**migratory**迁移的;**taxonomic**分类学的;**vertebrate**脊椎动物;
-		5. trophicity
-		6. oligotrophic
-		7. mesotrophic
-		8. acrotrophic
+		5. _adj._ [nutrition](dic://nutrition)
+		6. **larval**幼虫状态的;**predation**掠夺行为;**biomass**生物量;**nutrient**营养物;**metabolic**新陈代谢的;**ecological**生态的;**taxa**分类;**species**物种;**migratory**迁移的;**taxonomic**分类学的;**vertebrate**脊椎动物;
+		7. _trophic level_ 营养级；食性层次
+		8. Ecologists call this row of biological dominoes a trophic cascade /生态学家把这一系列生物多米诺骨牌效应称为营养级联。
+		9. So it's a huge success because in a four or five-year-old forest, we've now got ocelots hunting other animals and we've restored the trophic interactions that we want to see in a rain forest. /所以这是一个巨大的成功，因为在一个四五年历史的森林中，我们现在有豹猫捕食其他动物，我们已经恢复了我们希望在雨林中看到的营养相互作用。
+		10. trophicity
+		11. oligotrophic
+		12. mesotrophic
+		13. acrotrophic
 			1. _[acrotrophic](dic://acrotrophic)_ 端滋的
-	7. dystrophy
+	7. dystrophy (atrophy)
 		1. _n._ [genetic disease](dic://genetic disease), [genetic disorder](dic://genetic disorder), [genetic abnormality](dic://genetic abnormality), [genetic defect](dic://genetic defect), [congenital disease](dic://congenital disease), [inherited disease](dic://inherited disease), [inherited disorder](dic://inherited disorder)
 		2. **palsy**麻痹，麻痹状态;**sclerosis**硬化;**fibrosis**纤维化，纤维变性;**degeneration**堕落;**atrophy**萎缩，萎缩症;**muscular**肌肉发达的;**leukemia**白血病;**disease**病，疾病;**degenerative**退步的,变质的,退化的;**retinal**视网膜的;**congenital**先天的,天生的;
 		3. _muscular dystrophy_ [医]肌肉萎缩症
+		4. Other eye conditions can cause corneal ulcers, such as entropion, distichia, corneal dystrophy, and keratoconjunctivitis sicca. /其他疾病也能引起角膜溃疡，例如眼睑内翻、双行睫、角膜营养不良和角膜干燥。
 	8. metatrophy
 		1. _[metatrophy](dic://metatrophy)_  n. 寄生吸食，后生营养（特指菌类）；营养障碍
 		2. _[metatrophy y](dic://metatrophy%20y)_ 营养不良性萎缩
