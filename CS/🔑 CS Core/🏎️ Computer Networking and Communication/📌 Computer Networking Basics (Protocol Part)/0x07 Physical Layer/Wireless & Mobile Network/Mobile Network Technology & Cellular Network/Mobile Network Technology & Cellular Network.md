@@ -1,6 +1,14 @@
-# Mobile Network (Cellular Network)
+# Mobile Network Technology & Cellular Network
 
 [TOC]
+
+
+
+## Res
+### Related Topics
+
+
+### Other Resources
 
 
 
@@ -13,13 +21,19 @@ When joined together, these cells provide radio coverage over a wide geographic 
 
 
 
-## 🧗‍♀️ Evolution of Mobile Network
+## 🧗‍♀️ Evolution of Mobile Networks
 
 ![img](../../../../../../../Assets/Pics/1920px-Cellular_network_standards_and_generation_timeline.svg.png)
 <small>Cellular network standards and generation timeline.</small>
 
-### Mobile Technologies
-#### [2G](https://en.wikipedia.org/wiki/2G) networks (the first digital networks, 1G and 0G were analog)
+
+### 1️⃣ 1G Mobile Networks
+1G是20世纪80年代推出的第一代无线移动通信。
+
+1G是基于模拟信号通过电路交换技术，只提供语音通信(即没有数据)
+
+
+### 2️⃣ [2G](https://en.wikipedia.org/wiki/2G) Mobile Networks (the first digital networks, 1G and 0G were analog)
 - [GSM](https://en.wikipedia.org/wiki/GSM)
   - [Circuit Switched Data](https://en.wikipedia.org/wiki/Circuit_Switched_Data) (CSD)
   - [GPRS](https://en.wikipedia.org/wiki/GPRS)
@@ -31,7 +45,7 @@ When joined together, these cells provide radio coverage over a wide geographic 
   - [Circuit Switched Data](https://en.wikipedia.org/wiki/Circuit_Switched_Data) (CSD)
 
 
-#### [3G](https://en.wikipedia.org/wiki/3G) networks
+### 3️⃣ [3G](https://en.wikipedia.org/wiki/3G) Mobile Networks
 -  [UMTS](https://en.wikipedia.org/wiki/UMTS)
   - [W-CDMA](https://en.wikipedia.org/wiki/W-CDMA) (air interface)
   - [TD-CDMA](https://en.wikipedia.org/wiki/TD-CDMA) (air interface)
@@ -45,7 +59,7 @@ When joined together, these cells provide radio coverage over a wide geographic 
       - [SVDO](https://en.wikipedia.org/wiki/SVDO)
 
 
-#### [4G](https://en.wikipedia.org/wiki/4G) networks
+### 4️⃣ [4G](https://en.wikipedia.org/wiki/4G) Mobile Networks
 - [LTE](https://en.wikipedia.org/wiki/LTE_(telecommunication)) (TD-LTE/ FDD-LTE)
   - [LTE Advanced](https://en.wikipedia.org/wiki/LTE_Advanced)
   - [LTE Advanced Pro](https://en.wikipedia.org/wiki/LTE_Advanced_Pro)
@@ -55,14 +69,13 @@ When joined together, these cells provide radio coverage over a wide geographic 
 - [MBWA](https://en.wikipedia.org/wiki/IEEE_802.20) (IEEE 802.20, Mobile Broadband Wireless Access, HC-SDMA, iBurst, has been shut down)
 
 
-#### [5G](https://en.wikipedia.org/wiki/5G) networks
-- [5G NR](https://en.wikipedia.org/wiki/5G_NR)
+### 5️⃣ [5G](https://en.wikipedia.org/wiki/5G) Mobile Networks
+- [5G NR](https://en.wikipedia.org/wiki/5G_NR) /NG-RAN
 - [5G-Advanced](https://en.wikipedia.org/wiki/5G-Advanced)
+- 5GCN
 
 
 
 ## Ref
 [Cellular Network | Wikipedia]: https://en.wikipedia.org/wiki/Cellular_network
-
-
-
+[👍 移动通信网络架构 1G-5G]: https://www.cnblogs.com/R-bear/p/17978188

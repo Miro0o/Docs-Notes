@@ -32,3 +32,5 @@ Set of JEB plugins and scripts for better Android reversing experience.
 
 [Invalid or corrupt jarfile /usr/local/bin/selenium-server-standalone-2.38.0.jar | stackoverflow]:   https://stackoverflow.com/q/20680229/16542494
 [Invalid or corrupt jarfile fatty-client.jar #2383 | github issues]: https://github.com/iBotPeaches/Apktool/issues/2383
+
+[APP攻防--安卓逆向&JEB动态调试&LSPosed模块&算法提取&Hook技术]: https://www.cnblogs.com/Pengj/p/17814909.html

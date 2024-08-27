@@ -7444,36 +7444,99 @@
 4. **suet-** = com-(together) + idio-(oneself). 习惯，引申为 “海关”
 	1. accustom
 		1. accustomed, unaccustomed
-	2. custom
-		1. uncustomed, 
-		2. folk-custom
-		3. customs
-		4. customize
-		5. customhouse
-		6. customer
-		7. customable
-		8. customary
-		9. custom-tailor, custom-made, custom-done, custom-built
-	3. costume
+	2. custom (costume)
+		1. custom（海关）：外地商人向当地领主缴纳通行税的惯例  
+		2. 英语单词custom含有“习俗”和“海关、关税”两个意思。这两个意思是怎么联系在一起的呢？原来，custom的本意是“习俗、惯例”，之所以含有“海关、关税”之意，是因为缴纳关税原本是一种惯例。  
+		3. 外地商人向当地领主缴纳保护费的做法是一种历史悠长的惯例。早在古希腊时代，雅典成为爱琴海沿岸的商贸中心。外地商人为了保障自己在当地的贸易权利和利益，就向雅典城邦当局赠送礼物。后来，雅典以使用其港口为名，正式向来往商品征收一定比例的费用。  
+		4. 在英国，外地商人进入某地进行商贸活动时，需要向当地领主缴纳一项customary tolls（例行通行税）。因此，英语单词custom便衍生了“关税”的含义，通常采用复数形式。后来custom又可以用来表示征收关税的场所，即海关。  
+		5. custom：['kʌstəm] n.习俗，惯例；关税，海关；经常光顾，老顾客adj.定做的，定制的  
+		6. customer：['kʌstəmə] n.（老）顾客，海关工作人员  
+		7. customary：['kʌstə'mɛri] adj.惯例的，通常的
+		8. custom - costume与custom是同源姐妹词，都源于拉丁语consuētūdō（风俗；习惯），而且都是转道法语而来的，但在时间上有先后之别。  
+		9. custom早在12世纪就已从古法语来到英语中，原古法语词形为custome/costume，约在1200年左右就已被赋予现今仍在使用的词义：“风俗”、“习惯”等。costume却迟至18世纪才进入英语，它完全保留了原法语词形，当时的词义是“某个时期和地方的风俗习惯”（manners and customs belonging to a particular time and place），到了19世纪转指“某个时期或地方的穿着式样”（modeof dress appropriate to a particular time or place），最后又限于指某个时期的服装，或指某一国家或民族的穿着，也指特定场合所穿的服装（包括戏装、泳装）。  
+		10. 英语另有两个常用词accustom（使习惯于），customer（顾客）跟costume，custom有密切的亲缘关系，前者可以看作是后者的派生词。accustom源于古法语acostumer，由a- 'to'加costume构成。customer乃是custom加后缀-er构成，原先指“惯常到某商店买东西的人”（someone who is accustomed to buy in a store），亦即“常客，老主顾”（customary purchaser），后来词义才扩展为“顾客”或“主顾”的。
+		11. uncustomed
+			1. adj. [税收] 未报关的；未付关税的，未经海关通过的
+			2. _[uncustomed goods](dic://uncustomed%20goods)_ 未纳关税货物; 未报关货;
+		12. folk-custom
+			1. Besides lush plantation, the unique architecture and Buddhist temples offer a glimpse of the Dai folk customs and religion. /除了郁郁葱葱的种植园，独特的建筑和佛教寺庙让人们一瞥傣族的民俗和宗教。
+			2. Chinese people has some folk customs for Zhongyuan Festival. /中国人对中元节有一些民俗。
+			3. A popular folk custom during the festival requires that a grandfather or uncle on the mother's side send a live goat to his grandson or nephew. /节日期间流行的民间习俗要求母亲一方的祖父或叔叔送一只活山羊给孙子或侄子。
+			4. We now arrive at Mandarin Duck Island **Folk-custom** and Cultural Scenic Zone. /大家现在来到的就是鸳鸯岛民俗、文化景区。
+		13. customs
+		14. customize
+			1. _v._ [produce](dic://produce), [make](dic://make), [create](dic://create), [construct](dic://construct), [build](dic://build), [change](dic://change), [alter](dic://alter)
+			2. **customise**定制;**personalize**个人化;**customization**用户化;**modify**修改，修饰;**tailor**剪裁;**custom**风俗;**configure**配置;**tweak**拧;**choose**选择，决定;**optimize**使最优化，使完善;**adjust**校准;
+			3. paid double for the customized car. /付双倍的价钱购买订制的车辆
+			4. The other is the secondary gadget that you can customize in your load out. /另一个是你可以在装载中自定义的辅助小工具。
+		15. customhouse
+		16. customer
+		17. customable
+		18. customary
+			1. _adj._ [conventional](dic://conventional), [usual](dic://usual)
+			2. _n._ [unconventional](dic://unconventional), [unusual](dic://unusual)
+			3. [usual](dic://usual) 普通用词，概念广泛。指经常发生或意料中的事，既可指自然发生的现象，也可指按个人习惯或惯例而做的事。
+			4. [customary](dic://customary) 指特定的个人或群体的平常习惯，或习俗性的行为。
+			5. [habitual](dic://habitual) 指按个人习惯反复发生的事情。侧重经常性、习惯性。
+			6. [conventional](dic://conventional) 语气强，指遵守已成习惯的事情，强调符合惯例，由人们普遍认可。
+			7. [regular](dic://regular) 着重遵守约定俗成的规则。
+			8. **obligatory**必须的, 必要的;**usual**通常的，惯例的;**traditional**传统的;**ceremonial**礼仪的;**standard**标准;**solemn**庄严的，严肃的;**commonplace**平凡的;**formality**拘泥形式, 拘谨;**requisite**必要的事物;**deference**顺从;**ritual**仪式;
+			9. _customary law_ 习惯法
+			10. it is customary to mark an occasion like this with a toast /为这样的盛会举杯祝贺是习俗。
+			11. In the UK, it is customary for the next heir to the throne to be regent. /在英国, 通常由下一位王位继承人摄政。
+			12. the actor injects his customary humour and pathos into the role /这个演员把他惯常的幽默和哀婉感染力融入到这个角色之中。
+			13. certain customary practices which the Catholic Church proscribed, such as polygyny /诸如一夫多妻制等为天主教所谴责的某些传统做法。
+			14. the hotels had undergone more than the customary touch-ups and refurbishing. /这些宾馆已进行了超常规的装潢和翻新。
+			15. He makes his customary visit every week. /他每星期都按照惯例造访一次。
+			16. he exposed the kernel of the matter with his customary elegance and felicity. /他一如既往，简洁明了而又精当得体地指出了问题的核心。
+			17. Its also customary to have a mirepoix of peppers, onions and garlic. /通常，它还包括由胡椒、洋葱和大蒜混合而成的调料。
+		19. custom-tailor, custom-made, custom-done, custom-built
+	4. costume
 		1. costumer
-	4. desuetude
-	5. mansuetude
+	5. desuetude
+		1. n. 废止；不用
+		2. the docks fell into desuetude . /这些码头已废弃不用了。
+	6. mansuetude
+		1. n. 柔和；温顺
 5. **sui-** = self，表示“自己”。源自拉丁语 sui "of oneself."
 	1. suicide
-		1. suicidology
-		2. suicidologist
-		3. suicidal
+		1. 来自拉丁语 suicidium,自杀，来自 sui,自己的，词源同 self,-cid,杀，词源同 herbicide,homicide.
+		2. sui-自己 + cid-杀 + -e
+		3. suicidology
+		4. suicidologist
+		5. suicidal
 6. **swain-** = 表示“男青年”。源自古诺尔斯语 sveinn "herdsman, boy."
 	1. boatswain
 	2. coxswain
 	3. swain
+		1. n. 恋爱中的男人
+		2. 来自古诺斯语 sveinn,仆人，侍者，男孩，来自 Proto-Germanic*swainaz,仆人，侍者，来自PIE*swe,自己的，自身的，词源同 self.后引申词义情郎，爱人。
+		3. [boyfriend](dic://boyfriend), [fellow](dic://fellow), [beau](dic://beau), [young man](dic://young man)
+		4. _n._ [man](dic://man), [adult male](dic://adult male), [lover](dic://lover)
+		5. **beau**男朋友;**lad**少年，小伙子;**mistress**情妇;**lady**女士，夫人;**knight**骑士，武士;**lover**爱人，恋人;**prince**王子，国君;**belle**美女;**gentleman**绅士;
 7. gossip
+	1. gossip（绯闻）：爱八卦的教父母  
+	2. 在基督教中有为孩子挑选教父母的习俗。男性为教父，女性为教母。教父母在孩子的洗礼仪式中扮演作保的角色。婴儿或儿童受洗后，教父或教母会教导受洗者在宗教上的知识，而如果教子女的双亲不幸死亡，教父母有责任去照顾教子。  
+	3. 公元14世纪的时候，教父教母的英语表达是god-sibb。god意为“上帝”，sibb意为“亲戚”，字面意思就是“通过上帝结成的亲戚”。后来，god-sibb逐渐演变成gossip。由于孩子的教父母和亲生父母通常是好朋友，在一起时难免闲聊一些知己话，因此，gossip的含义演变为“在一起闲聊的密友”。在19世纪的时候，gossip的意思进一步演变，表示“闲话；讲闲话；爱讲闲话的人”。  
+	4. gossip： ['gɒsɪp] n.传闻，绯闻，流言蜚语，八卦新闻；爱传播流言蜚语的人vi.闲聊，传播流言蜚语  
+	5. gossipy：['gɑsəpi] adj. 漫谈式的；喜饶舌的  
+	6. sibling：['sɪblɪŋ] n.兄弟姐妹，同胞
 8. hetaera
 9. self
 10. sibling
+	1. [sib](dic://sib)
+	2. _n._ [relative](dic://relative), [relation](dic://relation)
+	3. **sister**姐妹;**brother**兄弟;**parent**父母亲;**half-brother**同父异母或同母异父的兄弟;**grandparent**祖父;**cousin**堂兄弟姊妹;**twins**双生子，双胞胎;**grandchild**孙儿;**child**儿童，孩子;**sisters**姐妹们;**parents**父母;
+	4. _sibling rivalry_ 同胞争宠；手足之争
+	5. That's it. My father's dead, obviously, there are no siblings. /没有了，父亲去世了，我也没有兄弟姐妹。
 11. sodality
-	1. [brotherhood](dic://brotherhood), [fraternity](dic://fraternity)
-	2. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
+	1.  来自拉丁语 sodalitatem,同伴，伴随，友情，兄弟之情，来自 sodalis,同伴，伴侣，来自 suescere,习惯于，习惯，来自 PIE*swe,自己，自身，词源同 self,custom,idiom.
+	2. n. 友好, 伙伴关系, 慈善团体, 联谊会
+	3. [brotherhood](dic://brotherhood), [fraternity](dic://fraternity)
+	4. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
+	5. [brotherhood](dic://brotherhood), [fraternity](dic://fraternity)
+	6. _n._ [class](dic://class), [social class](dic://social class), [socio-economic class](dic://socio-economic class)
+	7. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
 
 
 ### + \*sweid- +

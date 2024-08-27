@@ -8876,6 +8876,20 @@ pea
 	- **feathers**羽状裂缝;**feather**羽毛;**rooster**公鸡;**bird**鸟;**parrot**鹦鹉;**swan**天鹅;**eagle**鹰;**hummingbird**蜂鸟;**iridescent**彩虹色的;**feathered**有羽毛的;**teal**短颈野鸭，水鸭;
 - etc.. (todo)
 
+peck (peck, pike, pick)
+- n. 啄, 匆匆的吻  
+- v. 啄; 轻吻
+- 来自 pick 变体，词义同捡拾引申为啄，轻吻。
+- pecky
+- pecksniffian
+- pecksniff
+- peckish
+- pecker
+	- woodpecker
+	- peckerwood
+- henpecked
+- henpeck
+
 peeve
 - 来自 peevish 的回构词。
 - **gripe**抱怨;**dislike**不喜欢，厌恶;**no-no**被禁止的东西;**annoyance**烦恼;**rant**咆哮;**pet**宠物;**mine**矿山，矿井;
@@ -8931,6 +8945,28 @@ pert
 	- **perky**得意洋洋的;**plump**丰满的;**sassy**无礼的;**sexy**性感的;**breasts**胸脯;**boobs**乳房;**busty**大胸脯的，胸部丰满的;**tit**山雀;**juicy**多汁的;**taut**拉紧的;**delightfully**大喜;
 	- Not obtrusive, go up pertly courtship, you can refuse for certain. /不要莽撞，冒冒失失上去求爱，你肯定会遭拒绝。
 	- Fancy a man not able to ride! ' said she rather pertly. /“想不到一个不会骑马的人！”她相当得体地说。
+
+pick (peck, pike, pick)
+- n. 挑选; 选中的人或物; 精品, 精华; 镐; 公路  
+- v. 选择, 挑选; 采, 摘; 摘掉, 剔除
+- pick up the gauntlet应战。gauntlet是欧洲中世纪武士戴于手腕部的防护手套。当一名武士向另一名武士发起决斗时，会把这个防护手套扔到对方面前，如果对方捡起来手套，则意味着对方接受决斗挑战。He seems to pick up the gauntlet only when pushedto the wall.看起来只有在被挤到墙边时他才会应战。 ​​​​
+- 来自中古英语 picken,捡，适，采摘，来自古英语 pician,刺，拔，来自 Proto-Germanic*pikona,刺，啄，敲，捡，来自 PIE*beu-,发出敲击声，拟声词，词源同 peck,pike.
+
+pike (peck, pike, pick)
+- n. 狗鱼, 梭鱼; 长矛; <方言>山峰  
+- v. 用长矛刺; <跳水>曲臀直腿
+- turnpike（收费站）：用可转动长矛做成的路障  
+- 在古代英国，人们用可转动的长矛来设置路障。行人通过路障时需要转动长矛，骑士通过路障时必须下马转动长矛。这种路障被称为turnpike，由turn（转动）+pike（长矛）构成。领主们为了征收通行费时，就会在路上设置这样的路障。因此turnpike就被用来表示“收费关卡”，相当于tollgate。在现代，收费公路的收费站早已经不再使用长矛了，但还可以使用turnpike来表示收费站，更常见的是用它来表示收费公路本身，其实就是turnpike road的简略说法。  
+- turnpike：['tɜːnpaɪk] 收费高速公路，收费站，收费关卡  
+- pike：[paɪk]  n. 通行费；矛；梭子鱼；尖头；收费道路vt. 用矛刺穿
+- turnpike
+- rampike
+- pikestaff
+- piker
+- pikeman
+- piked
+- pickerel
+
 
 pimp
 - 词源不详，可能来自中古法语 pimpant,聪明的，英俊的，后用于俚语拉皮条，皮条客，帅哥等。

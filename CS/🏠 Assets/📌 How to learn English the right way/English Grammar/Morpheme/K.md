@@ -7349,6 +7349,87 @@
 4. vapid
 
 
+### + \*kwes +
+1. **cyst-** = bladder, pouch, 表示“囊”, 医学上引申为“膀胱”。源自希腊语 kustis "bladder, bag" < "bellows."
+	1. cyst
+		1. n. [肿瘤] 囊肿；[生物] 包囊；膀胱
+		2. [vesicle](dic://vesicle)
+		3. _n._ [pathology](dic://pathology), [sac](dic://sac)
+		4. **ovary**子房;**gallbladder**胆囊;**tumor**肿瘤;**tumour**肿瘤;**lesion**损害;**nodules**小瘤;**biopsy**活组织检查;**ovarian**卵巢的;**uterus**子宫;**cystic**膀胱的，胆囊的;**hernia**脱肠;
+		5. _ovarian cyst_ 卵巢囊肿
+		6. _dermoid cyst_ 皮样囊肿
+		7. _epidermoid cyst_ 表皮样囊肿
+		8. _chocolate cyst_ [医]巧克力样囊肿；子宫内膜囊肿
+		9. A case of eruptive vellus hair cyst was reported. /报告1例发疹性毳毛囊肿。
+		10. Cystic, cyst-solidary or irregular lobulation may be observed on image inspection. /影像学检查胰腺肿块为囊性，囊实性或不规则分叶状。
+		11. Womb muscle tumour , ovary cyst , womb inner film ectopia disease , menorrhalgia , abnormal menstruation; /子宫肌瘤、卵巢囊肿、子宫内膜异位症、痛经、月经不调；
+		12. Be careful of her cysts. She'll nip you. /小心她的包囊 她会咬你的。
+		13. So cancerous tumors or cysts can't be seen or felt. /所以人们看不见也感觉不到癌性肿瘤或囊肿。
+		14. 
+	3. cysteine
+	4. cystic
+	5. cysticercoid
+	6. cysticercosis
+	7. cysticercus
+	8. cystiform
+	9. cystine
+	10. cystitis
+	11. cystocarp
+	12. cystocele
+	13. Cystoflagellata
+	14. cystoid
+	15. cystolith
+	16. cystoscope
+	17. cystoscopic
+	18. cystoscopy
+	19. cystotomy
+	20. encyst
+	21. arachnoidcyst
+	22. cholecystectomy
+	23. cholecystitis
+	24. microcystin
+	25. nematocyst
+2. **quer-** = complain, 表示“抱怨”。源自拉丁语 queri "complain."
+	1. querimonious
+	2. querist
+	3. querulous
+		1. a. 抱怨的, 爱发牢骚的, 易怒的
+		2. 来自拉丁语 queri,抱怨，词源同 quarrel.
+		3. 
+	4. quarrel (bicker)
+		1. n. 吵架, 反目, 怨言, 方头凿  
+		2. vi. 吵架, 争论, 挑剔
+		3. n. 争吵，拌嘴；抱怨（或不赞成）的理由；<史>（用石弓或劲弩发射的）方镞箭，方头投射物 
+		4. v. 争吵，吵架；不同意，反对；抱怨
+		5. quar-=quer-抱怨 + rel- → 抱怨引发争吵。
+		6. 来自拉丁语 queri,争吵，抱怨，词源同 querulous.
+		7. [wrangle](dic://wrangle), [row](dic://row), [words](dic://words), [run-in](dic://run-in), [dustup](dic://dustup)
+		8. [dispute](dic://dispute), [scrap](dic://scrap), [argufy](dic://argufy), [altercate](dic://altercate)
+		9. _n._ [dispute](dic://dispute), [difference](dic://difference), [difference of opinion](dic://difference of opinion), [conflict](dic://conflict), [arrow](dic://arrow)
+		10. _v._ [argue](dic://argue), [contend](dic://contend), [debate](dic://debate), [fence](dic://fence)
+			1. [argue](dic://argue) 指提出理由或证据为自己或自己一方的看法或立场辩护，着重说理、论证和企图说服。
+			2. [quarrel](dic://quarrel) 指两人之间或两个团体之间不友好的、吵吵嚷嚷地大声争论某事，尤指“吵嘴、吵架”。
+			3. [debate](dic://debate) 侧重指意见等对立的双方之间正式或公开的争辩。
+			4. [dispute](dic://dispute) 侧重对分歧进行激烈或热烈的争论或争辩，带一定感情色彩，常隐含“各持已见”或“争论不休”意味。
+			5. [discuss](dic://discuss) 最常用词，指就某一或某些问题表明观点、看法等，以便统一认识，解决问题。
+			6. [reason](dic://reason) 指据理力争以说服对方或求得对问题作更深入的研究。
+		11. **disagreement**分歧, 意见不合;**dispute**争论;**feud**长期不和;**discord**不和;**bickering**争吵;**enmity**敌意;**strife**冲突;**confrontation**对抗, 对抗的事物;**altercation**争执;**disputes**争论;**animosity**憎恨, 仇恨, 敌意;
+		12. _quarrel with_ v. 抱怨；不同意；拒绝接受；跟…吵架
+		13. _quarrel about_ 争论；为…争吵
+		14. the chase for the quarrel on a crossbow. /驽弓上用来捕猎猎物的箭槽
+		15. some people quarrel with this approach. /有些人反对这种方法。
+		16. I quarrel with your conclusions. /我不同意你的结论
+		17. I just stand by when they quarrel. /作为旁观者的我，只是在争吵的时候看着他们。
+		18. Thames Marsh has no quarrel with the USSR. /泰晤士马什跟苏联没有纷争。
+		19. This is my quarrel with capitalism. /这是我对于资本主义的争论。
+3. wheeze
+	1. vi. 喘气
+	2. vt. 喘息着说
+	3. n. 喘气声, 喘息; 花招, 计谋
+	4. wheezy
+	5. wheezing
+
+
 ### + \*kwet- + = to shake
 1. **cuss-** = shake, 表示“摇动”。源自拉丁语 quastere "to shake, strike."
 	1. concuss

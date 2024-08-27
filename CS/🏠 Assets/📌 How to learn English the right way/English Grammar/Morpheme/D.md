@@ -2486,40 +2486,64 @@
 
 ### + \*dhei- + to suck
 1. **femin-, fecun-, felic-** = 拉丁词根fe-“吸允、吸奶、乳汁”。fecun- 表示“肥沃的”；femin- 表示“女人”；felic- 表示“幸福”。源自拉丁语 femina "woman," fecundus "fruitful," felix "fruitful, fertile, lucky, happy."
-	1. feme, female, femme, feminine
-		1. feminize, feminist, feminism, 
-		2. unfeminine, femininity
-		3. femininely
-		4. feminality, femineity
-		5. effeminate, effeminacy
-	2. felon
-		1. felony, felonry
-		2. felonious, 
-	3. fecund, infecund, fecundity, fecundate
-		1. fecundity, fecundate
-		2. fecundator, fecundation, superfecundation, hyperfecundation, autofecundation
-	4. felicitate
-		1. vt. 庆祝, 庆贺
-		2. felic-幸福 + it + -ate, 表动词 → 使…幸福 → 祝贺。
-		3. _v._ [wish](dic://wish), [bid](dic://bid)
-		4. **congratulate**祝贺;**honour**荣誉;**bestow**授予;**commemorate**纪念;**celebrate**庆祝;**Excellency**优点;**honourable**诚实的, 正直的;
-		5. the award winner was felicitated by the cultural association. /获奖者得到了该文化团体的祝贺。
-		6. I felicitate myself on my narrow escape /我庆幸自己死里逃生。
-		7. Allow me to felicitate you upon the birth of your daughter. /恭贺你喜得千金。
-		8. Believe me, I felicitate myself on the misunderstanding which has procured me the pleasure of your company for so long; and let me express a hope that we may meet again upon a more regular footing. /相信我，我为自己的误解感到庆幸， 正是这种误解让我这么长时间以来一直很高兴能和你在一起； 让我表示希望我们能在更正常的基础上再次会面。 
-		9. I ever **felicitate** myself secretly that I won't make impertinent remarks or be hurt by them. /我曾经暗自庆幸，我不会出言不逊也不会为言语所伤。
-		10. felicitation (elicitation, elicit, solicitation, solicit)
+	1. feme
+		1. n. 妻, 女人
+		2. female, femme, feminine
+		3. feminize, feminist, feminism, 
+		4. unfeminine, femininity
+		5. femininely
+		6. feminality, femineity
+		7. effeminate, effeminacy
+	3. felon
+		1. 词源不确定。一种说法认为来自拉丁词根fe, 吮吸，特指男人之间的口交，在古罗马时期这种行为是为人所不耻的和被鄙视的，因而引申该词义。
+		2. n. 重罪犯; 化脓性指头炎
+		3. felony, felonry
+		4. felonious, 
+	5. fecund
+		1. a. 生殖力旺盛的, 多产的, 丰饶的, 肥沃的
+		2. adj. 肥沃的；多产的；丰饶的；生殖力旺盛的
+		3. fe-,吮吸，吸奶，乳汁，拟声词，词源同 female,felicity.原义为多奶的，引申词义多产的，肥沃的。
+		4.  [fertile](dic://fertile), [prolific](dic://prolific)
+		5. _adj._ [fertile](dic://fertile), [productive](dic://productive)
+		6. _n._ [sterile](dic://sterile), [unfertile](dic://unfertile), [infertile](dic://infertile), [unproductive](dic://unproductive)
+		7. **fertile**富饶的，肥沃的;**fruitful**多产的;**teeming**多产的，丰富的;**barren**贫瘠的;**offspring**子女, 子孙, 后代;**prodigious**巨大的;**progeny**后裔;**exuberant**兴高采烈的;**prolific**多产的;**gloriously**光荣地;**primordial**原始的;
+		8. a lush and fecund garden /繁茂肥沃的花园。
+		9. The deadness is a prelude to new life; the fallow period is a guarantor of fecund days to come. /死气沉沉是新生命的前奏，休耕期是未来丰饶日子的保证。
+		10. Synthetic biology might be a fecund source of that kind of black ball, but many other possible things we could -- think of geoengineering, really great, right? /合成生物学可能是那种黑球的丰富来源，但我们可以做很多其他可能的事情——想想地球工程， 真的很棒，对吧？
+		11. Buying educational toys had become " a form of ritual magic whose practice is believed to ensure optimal development of that fecund site, the infant brain, " the communications scholar Majia Nadesan wrote in the early 2000s /传播学学者马甲·纳德桑在21世纪初写道，购买益智玩具已成为 “一种魔法仪式，人们相信这种做法能确保婴儿大脑这个肥沃的部位得到最佳发展。”
+		12. The pampas are still among the most **fecund** lands in the world /这片南美无树大草原仍然是世界上最为肥沃的地方。
+		13. infecund
+		14. fecundity
+			1. _n._ [creativity](dic://creativity), [creativeness](dic://creativeness), [creative thinking](dic://creative thinking), [physiological state](dic://physiological state), [physiological condition](dic://physiological condition), [quality](dic://quality)
+			2. **fertility**肥沃;**reproductive**生殖的;**offspring**子女, 子孙, 后代;**mortality**死亡率;**predation**掠夺行为;**larval**幼虫状态的;**progeny**后裔;**abundance**大量, 充足;**fertilization**受精, 受胎;**longevity**长寿;**richness**丰富;
+			3. The multiplicity of blades reflected the fecundity of nature, which he would strive to reproduce with ever-more-delicate gouging. /叶片的多样性反映了大自然的繁殖力，他会努力用更加精细的刨削来重现大自然的繁殖力。
+			4. Though fecundity is tied to age, the effect of time's passage varies. /虽然生育能力与年龄有关，但其对不同人的影响不同。
+		15. fecundate
+			1. _vt._ 使多产,使受孕,使丰饶
+		16. fecundator, fecundation, superfecundation, hyperfecundation, autofecundation
+	6. felicitate
+		1. [美 /fɪˈlɪsɪˌtet/](cmd://Speak/_us_/felicitate)
+		2. vt. 庆祝, 庆贺
+		3. felic-幸福 + it + -ate, 表动词 → 使…幸福 → 祝贺。
+		4. _v._ [wish](dic://wish), [bid](dic://bid)
+		5. **congratulate**祝贺;**honour**荣誉;**bestow**授予;**commemorate**纪念;**celebrate**庆祝;**Excellency**优点;**honourable**诚实的, 正直的;
+		6. the award winner was felicitated by the cultural association. /获奖者得到了该文化团体的祝贺。
+		7. I felicitate myself on my narrow escape /我庆幸自己死里逃生。
+		8. Allow me to felicitate you upon the birth of your daughter. /恭贺你喜得千金。
+		9. Believe me, I felicitate myself on the misunderstanding which has procured me the pleasure of your company for so long; and let me express a hope that we may meet again upon a more regular footing. /相信我，我为自己的误解感到庆幸， 正是这种误解让我这么长时间以来一直很高兴能和你在一起； 让我表示希望我们能在更正常的基础上再次会面。 
+		10. I ever **felicitate** myself secretly that I won't make impertinent remarks or be hurt by them. /我曾经暗自庆幸，我不会出言不逊也不会为言语所伤。
+		11. felicitation (elicitation, elicit, solicitation, solicit)
 			1. [congratulation](dic://congratulation)
 			2. _n._ [expression](dic://expression), [verbal expression](dic://verbal expression), [verbalism](dic://verbalism), [speech act](dic://speech act)
 			3. **ceremony**典礼，仪式;**inauguration**就职典礼;**gala**节日，特别娱乐;**Excellency**优点;**honour**荣誉;**luncheon**午宴;**inaugural**就职的, 就任的;
 			4. Why the outgoing President's felicitation on the indorsement? /为什麽卸任总统要对人民的支持巧言美语？
 			5. Sincere felicitation on ywe completing the postgraduate courses or receiving the doctorate of science. /衷心祝贺你修完博士生课程并获得理学博士学位。
 			6. The group about Miss Welland made way for him with significant smiles, and after taking his share of the felicitations he drew his betrothed into the middle of the ball-room floor and put his arm about her waist. /韦兰小姐周围的那群人带着意味深长的微笑为他让路，在分享了他的祝福后，他把他的未婚妻拉到舞厅地板中央，用胳膊搂住她的腰。 
-		11. felicific (frolic)
+		12. felicific (frolic)
 			1. adj. 带来幸福的
 			2. If you have never felt **felicific**, would you like me to give you felicity? /如果你认为你从未被爱过，可不可以让我来爱你?。
 			3. infelicific
-		12. felicitous
+		13. felicitous
 			1. a. 巧妙的, 极为适当的, 善于措辞的, 可喜的
 			2. _adj._ (措词等)恰当的,贴切的
 			3. _n._ 恰当,贴切
@@ -2549,7 +2573,7 @@
 				1. _[aptitude felicitousness felicity seemliness](dic://aptitude%20felicitousness%20felicity%20seemliness)_ 恰当
 				2. The results show that the igniting condition of HCD is the felicitousness combination of vacuum width, air pressure and voltage /结果表明，空心阴极点燃的条件是不同的空腔宽度与电压、气压条件的合理组合；
 				3. They don't think it is **felicitousness** for me to settle this question . thus, arosed a fierce discussion. /人们认为我对如何处理这个问题的看法不恰当，因此，展开了异常热烈的讨论。
-		13. felicity
+		14. felicity
 			1. n. 极乐，幸福；恰当，贴切；（文学或艺术作品的）别具匠心之处；语言方面的才能
 			2. [felicitousness](dic://felicitousness)
 			3. [happiness](dic://happiness)
@@ -2577,27 +2601,73 @@
 				7. There is so much **infelicity** in the world /人世间有很多不幸的事。
 2. **fet-** = productive, 表示“生产”。源自拉丁语 fetus "pregnancy, childbearing, offspring."
 	1. effete
+		1. a. 贫瘠的, 枯竭的, 衰微的
+		2. _adj._ 虚弱无力的；衰落的
+		3. 柔弱的，女人气的
+		4. ef-向外 + fet-婴儿 + -e，原义为刚生完孩子的，引申义虚弱的，软弱的。
+		5.  [decadent](dic://decadent)
+		6. _adj._ [indulgent](dic://indulgent)
+		7. _n._ [nonindulgent](dic://nonindulgent), [strict](dic://strict)
+		8. **pompous**浮夸的;**elitist**优秀人材;**pretentious**自命不凡的;**macho**大男子气概的;**aristocratic**贵族的;**arrogant**自大的，傲慢的;**inept**不适当的;**smug**自满的, 沾沾自喜的;**bourgeois**资产阶级的;**posh**漂亮的;**aloof**冷淡的;
+		9. an effete system of education /衰败的教育制度
+		10. the authority of an effete aristocracy began to dwindle. /没落贵族的权力开始减弱。
+		11. the final, effete period of the baroque style. /巴洛克风格最后的衰竭时期
+		12. People in the north are astonished, you know, that we're not just effete Southerners. /北方人很惊讶，你知道，我们不仅仅是虚弱的南方人。
+		13. We hunt from the car, which the Major considered effete. The custom antedates automobiles, going back to the days of the hunting wagon. /我们从车里打猎，少校认为这很无力。这种习俗早于汽车，可以追溯到狩猎马车的时代。
 	2. fetus
-		1. fetal, foetal, 
-		2. fetation, foetation
+		1. 来自 fe-,吮吸，吸奶，词源同 female,filial.用来指胎儿。
+		2. n. 胎儿
+		3. fetal, foetal, 
+		4. fetation, foetation
 			1. superfetation
 			2. multifetation
 			3. intrafetation
 			4. exfetation
-		3. feticide
-		4. fetology, fetologist
+		5. feticide
+			1. n. 杀害胎儿, 堕胎
+			2. fet-胎儿 + -i- + cid-杀 + -e
+		6. fetology, fetologist
 3. **fil-, fili-** = child, 表示“子女”。源自拉丁语 filius "son," filia "daughter."
 	1. affiliate
-		1. unaffiliated
-		2. disaffiliate
-		3. affiliation
-	2. filiate
+		1. affiliate（使附属）：古罗马人收养儿子的做法  
+		2. 古罗马实行长子继承制。为了避免死后无人继承财产，没有儿子的人一般会收养一名养子，连罗马皇帝也大量采用这种方法。罗马第一个皇帝屋大维本是凯撒的侄孙，后被凯撒选为继承人，成为其养子。屋大维死后由养子提比略继承皇位。五贤帝期间，由于没有儿子，前四个皇帝都是选择贤良之士作为自己的继承人，以养子身份继承皇位。直到第五个皇帝，即伟大的哲学家皇帝马可•奥里略，他死后由亲生儿子康茂德即位（即好莱坞大片《角斗士》里面那个弑父夺位的皇帝）。康茂德残暴无能，五贤帝所创立的黄金时代一去不复返。 
+		3. 在拉丁语中，表示“领养”的单词是affiliare，由ad（to）+filius（son）组合而成，字面意思就是“使其成为儿子”。filius（son）就是英语词根fili-（子女）的词源。  
+		4. 英语单词affiliate就源自拉丁语affiliare，原意是“收养儿子”，后来衍生出“接纳、使成为附属”之意。  
+		5. affiliate - 我们常用affiliate及其派生词来表示一个小机构对一个大机构的从属关系。如a hospital affiliated to/with the medical college（医学院附属医院），an affiliated company（分公司）。affiliate一词源自拉丁文affīliāre (ad- 'to' + fīlius 'son')，原义为to adopt as a son（收为养子），现多用于喻义，表示“使附属于”、“接纳……为成员（或分支机构）”或“附属机构”；作为法律用语时，affiliate则作“判定（非婚生子女）的父亲”解。
+		6. fili-：子女，儿子，分支  
+		7. affiliate： [ə'fɪlɪeɪt] vt.使附属，接纳，使紧密联系vi.参加，加入，发生联系n.联号，隶属机构  
+		8. affiliation：[əfɪlɪ'eɪʃ(ə)n] n.加入，联盟，从属关系，友好关系  
+		9. filial： ['fɪlɪəl] adj.孝顺的，子女的，当做子女的  
+		10. filiation：[,fɪlɪ'eʃən] n. 父子关系；起源；私生子父亲之鉴定；分支  
+		11. filiale： ['faɪlɪæl] n.子公司，分公司  
+		12. filicide： ['fɪlə,saɪd] n. 杀子女者
+		13. vt. 使紧密联系, 使附属, 接纳, 收养  
+		14. vi. 发生联系, 参加
+		15. af-=ad-去，往 + fili-子女 + -ate动词后缀。
+		16. unaffiliated
+		17. disaffiliate
+		18. affiliation
+	3. filiate
 		1. filial, unfilial, filially
 		2. filiation
+			1. n. 父子关系, 分支, 父亲身份的确定, 起源
 		3. filicide
 4. **thel-** = nipple, female, 表示“乳头”或“女性”，原意表示“吸允”。因为乳头表面的即是表皮，所以还用来和 epi-，endo- 等搭配表示“...皮”。源自希腊语 thele "nipple," thelus "female."
-	1. 
+	1. endothelial
+		1. a. 内皮的
+	2. endothelium
+	3. epithelial
+		1. a. 上皮的
+	4. epithelia
+		1. pl. 上皮
+	5. epithelium
+	6. epithelioma
+	7. mesothelium
+		1. n. 间皮
+	8. urothelial
 5. fennel
+	1. n. 茴香
+	2. 来自拉丁语 fenum,草，干草，进一步来自 fecund,多产，繁盛，因这种草的茁壮的生命力而得名。
 
 
 ### + \*dheigh- + = to form, build
