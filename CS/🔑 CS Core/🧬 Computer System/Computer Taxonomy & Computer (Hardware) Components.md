@@ -1,4 +1,4 @@
-# Computer (Hardware) Components
+# Computer Taxonomy & Computer (Hardware) Components
 
 [TOC]
 
@@ -14,10 +14,14 @@
 ↗ [Computer Systems & Implementations](📌%20Computer%20Systems%20&%20Implementations/Computer%20Systems%20&%20Implementations.md)
 ↗ [Small Form Factor Computer](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Small%20Form%20Factor%20Computer.md)
 
+↗ [Systems on Chip (SOC)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
+↗ [IDC & Data Center Networking](../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
+↗ [Datacenter](../🍕%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
+
 ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 ↗ [Network Devices Overview](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Network%20Devices%20Overview.md)
 
-↗ [Systems on Chip (SOC)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
+↗ [Semiconductor Industry & Companies](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
 
@@ -59,8 +63,6 @@ Most modern desktop personal computer power supplies conform to the ATX specific
 ↗ [Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage)/Secondary%20(Auxiliary)%20Storage%20Technologies%20&%20DAS%20(Directly%20Attached%20Storage).md)
 
 
-
-## 🎯 Personal Computers
 ### Computer Case
 > 🔗 https://en.wikipedia.org/wiki/Computer_case#
 
@@ -72,16 +74,30 @@ Conventional computer cases are fully enclosed, with small holes (mostly in the 
 <small>An ATX case. The motherboard (microATX)) is in a horizontal position at the top, and the peripheral connectors go at the panel located at the rear of the case and USB ports at the top. The fans are also at the rear and front. The power supply is on the bottom rear.</small>
 
 
-
-## 🎯 Mainframe Computers & Data Center
-
-
-
-## 🎯 Embedded Computers
+### System-on-Chip (SoC)
+↗ [Systems on Chip (SOC)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
 
 
 
-## 🎯 Super Computers
+## 🎯 Computer Taxonomy
+### Personal Computers
+
+
+### Embedded Computers
+↗ [Embedded & Internet of Things](../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+↗ [Embedded Computer Systems](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
+
+
+### Mainframe Computers & Data Center
+↗ [IDC & Data Center Networking](../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
+↗ [Datacenter](../🍕%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
+↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+
+
+### Super Computers
+↗ [High Performance Computing](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computing.md)
+↗ [High Performance Computer (HPC)](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computer%20(HPC).md)
 
 
 

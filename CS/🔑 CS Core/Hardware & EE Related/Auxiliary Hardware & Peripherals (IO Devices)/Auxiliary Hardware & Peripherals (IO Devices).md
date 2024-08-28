@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Embedded & Internet of Things](../../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 
-↗ [Computer (Hardware) Components](../../🧬%20Computer%20System/Computer%20(Hardware)%20Components.md)
+↗ [Computer Taxonomy & Computer (Hardware) Components](../../🧬%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
 ↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 ↗ [Computer Systems & Implementations](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/Computer%20Systems%20&%20Implementations.md)
 

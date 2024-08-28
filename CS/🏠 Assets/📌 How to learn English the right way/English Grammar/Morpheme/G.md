@@ -4575,6 +4575,108 @@
 
 
 ### + \*gwere- + = 
+#### + \*gwere- (2) + = to swallow
+1. **bar-, bary-** = weight, 表示“重，压”，金属元素钡因在同类中相对较重而得名。源自希腊语 barus "heavy," baros "weight."
+	1. baryon
+		1. n. [高能] 重子
+		2.  [heavy particle](dic://heavy particle)
+		3. _n._ [hadron](dic://hadron), [fermion](dic://fermion)
+		4. **scalar**数量的;**photon**光子;**quantum**量子论;**particle**颗粒;**cosmological**宇宙哲学的;**electron**电子;**invariant**无变化的,不变的;**dynamical**动力的,有力量的;**LHC**液氢容器;**neutron**中子;**ionization**离子化,电离;
+		5. Anyone know what happens to baryons? /有人知道重子会怎么样吗？
+		6. Now, does anyone know what happens to quarks when we combine them to make mesons and baryons? /有人知道当我们把夸克组合成介子和重子时会发生什么吗？
+	3. bariatrics
+		1. n. 肥胖病学；肥胖治疗学
+	4. baric
+		1. adj. [物]气压的；[化]含钡的；[化]钡的
+	5. barite
+		1. n. [矿物]重晶石
+		2.  [heavy spar](dic://heavy spar), [barytes](dic://barytes), [barium sulphate](dic://barium sulphate)
+		3. _n._ [mineral](dic://mineral)
+		4. **ore**矿石;**carbonate**碳酸盐;**limestone**石灰岩;**manganese**锰;**silica**硅土;**mineral**矿物;**slurry**泥浆;**shale**页岩;**uranium**铀;**sulfide**硫化物;**crusher**打击;
+		5. [barrister](dic://barrister)n. [美口]律师；（加拿大）出庭律师（等于arrister-at-law）；（英）（有资格出席高等法庭并辩护的）专门律师
+		6. [baritone](dic://baritone) n. 男中音；男中音歌手 adj. 男中音的
+		7. [barbarity](dic://barbarity) n. 残暴；暴行 野蛮;粗野
+		8. [sybarite](dic://sybarite) n. 爱奢侈享乐的人
+	7. baritone
+	8. barium
+	9. barodynamics
+	10. barogram
+	11. barometer
+		1. n. 气压计，晴雨表；变化的标志，指标
+		2. _n._ [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
+		3. **indicator**指示器;**thermometer**温度计;**gauge**计量器;**measure**措施;**compass**指南针，罗盘;**measuring**测量用的;**predictor**预言者;**benchmark**标准检查程序;**gauges**计量表，仪表;**measurement**测量，测量法;**indication**指示, 表示;
+		4. The barometer is falling. /气压正在下降。
+		5. furniture is a barometer of changing tastes. /家具是品味变化的标志。
+		6. Opinion polls serve as a barometer of the public mood. /民意测验是大众情绪的晴雨表
+		7. The arrow on the barometer was pointing to “Stormy”. /气压计上的箭头指向“有暴风雨”。
+		8. Soon after, Johnson's album would be the barometer of how hip somebody was in the 60s. /不久之后，约翰逊的专辑将成为60年代一个人时尚程度的判断标准。
+		9. It has been taken as an important barometer of the country's foreign trade /广交会一直被视为中国对外贸易的重要晴雨表。
+	12. barometry
+		1. n. [气象] 气压测定法
+	13. baron
+		1.  [big businessman](dic://big businessman), [business leader](dic://business leader), [king](dic://king), [magnate](dic://magnate), [mogul](dic://mogul), [power](dic://power), [top executive](dic://top executive), [tycoon](dic://tycoon)
+		2. _n._ [Lord](dic://Lord), [noble](dic://noble), [nobleman](dic://nobleman), [peer](dic://peer), [businessman](dic://businessman), [man of affairs](dic://man of affairs)
+		3. **magnate**巨头;**tycoon**巨富;**nobleman**贵族;**heiress**女继承人;**lord**上帝;**industrialist**工业家,实业家;**mogul**有权势的人;**knight**骑士，武士;**duke**公爵，君主;**billionaire**亿万富翁;**financier**金融家;
+		4. _[barons](dic://barons)_  n. 男爵（baron复数）
+		5. _[drug baron](dic://drug%20baron)_  毒枭
+		6. _[robber barons](dic://robber%20barons)_  强盗贵族；强盗大亨
+		7. _[robber baron](dic://robber%20baron)_  强盗贵族，强盗式资本家
+		8. The oil baron was killed by an assassin. /这位石油大亨被刺客杀害了。
+		9. He has the dubious distinction of being the first railway baron to go bankrupt. /他担着首位破产铁路大亨的名声，这也算是种荣誉吧。
+		10. That sounds too warm and fuzzy for a ruthless – or cruel - robber baron. /这些话从一个无情、残忍的强盗大亨口中说出来太温柔了。
+	14. baroreceptor
+	15. baroscope
+	16. barothermograph
+	17. hyperbaric
+	18. isobar
+	19. meiobar
+	20. millibar
+2. **brig-** = fight, 表示“打 战斗”。源自古意大利语 briga "strife."
+	1. brig
+		1. _n._ [sailing vessel](dic://sailing vessel), [sailing ship](dic://sailing ship), [penal institution](dic://penal institution), [penal facility](dic://penal facility)
+		2. **schooner**纵帆船;**frigate**护卫舰;**warship**战船，军舰;**ship**运送，乘船;**steamer**轮船;**HMS**英国政府公务;**sailed**航行;**ashore**在岸上;**aground**搁浅地;**mutiny**兵变;**vessel**容器，器皿;
+		3. The brig is heaving around on the anchor. /s双桅横帆船围着锚转圈
+		4. the brig bowled past on the opposite tack . /这只双桅船在顺风道上快速平稳地行驶。
+		5. The letter written on board the brig, and Clem Ray himself , had given them that information. /写在双桅船上的信， 还有克莱姆雷本人，已经给了他们这些信息。
+		6. Yeah, I'm surprised you didn't end up in the brig. /就是 你没进监狱我都挺奇怪的。
+		7. Obtaining possession of the brig was suggested by one of us. /我们中的一个人建议获得双桅船的所有权。
+	2. brigade
+	3. brigand
+		1.  [bandit](dic://bandit)
+		2. _n._ [thief](dic://thief), [stealer](dic://stealer)
+		3. **bandit**强盗;**bandits**盗贼;**nobleman**贵族;**thief**小偷，贼;**mercenary**雇用的,为钱的,唯利是图的;**warlord**军阀;**robber**强盗;**peasant**农民;**barbarian**野蛮人;**pirate**海盗;**renegade**变节者;
+		4. _[professional brigand](dic://professional%20brigand)_ 职业性的土匪 
+		5. We passed the desiccated corpse of a brigand hanging on a gibbet. /我们路过一具悬在绞刑架上的土匪干尸。
+3. **brut-**  = brutish, 表示“粗鲁的”。源自拉丁语 brutus "heavy, dull, stupid, brutish"
+	1. brute
+4. **grav-, griev-** = heavy, 表示“重”。
+	1. aggrieve
+	2. grieve
+	3. aggravate
+	4. agravic
+	5. grave
+	6. gravid
+	7. gravimeter
+	8. gravimetric
+	9. gravimetrical
+	10. gravimetry
+	11. gravitate
+	12. gravity
+	13. ingravescent
+	14. gravitas
+	15. grief
+5. **krieg-** = war, 表示“战争”。源自古高地德语 kreg, chreg "stubbornness."
+	1. blitzkrieg
+		1. n. 闪电战; 铺天盖地的宣传
+		2.  来自德语，最早出现于 1939 年德国对波兰的闪电攻袭。blitz,闪电，来自 PIE*bhel,照耀，闪光，词源同 blaze.krieg,战争。
+	2. kriegspiel
+		1. n. 军棋游戏
+	3. sitzkrieg
+		1. n. 对峙战, 胶着战
+6. quern
+	1. _n._ [mill](dic://mill), [grinder](dic://grinder), [milling machinery](dic://milling machinery)
+	2. **flint**燧石;**stone**石头;**lathe**用车床加工;**grinding**刺耳的;**grinder**研磨者;
+	3. n. 手推石磨
 #### + \*gwere- (4) + = to swallow
 1. **bronch-** = windpipe, 表示“管”。源自希腊语 bronkhos "windpipe, throat."
 	1. bronchocele

@@ -4349,6 +4349,11 @@ gaud
 - gauds
 
 gauge
+- 来自 PIE*ghalgh,杆，棍，词源同 gallows.字母 l 软化成 u.词义由杆，棍引申为测量，比较 canon,词源同 cane.
+- n. 标准度量, 计量器
+- vt. 精确计量, 估计
+- n. 测量仪器；宽度，厚度；（测量或判断的）尺度，标准；（铁道的）轨距；（枪管的）口径；（汽车）胎压计 
+- v. 估计，判断；测量
 - [gage](dic://gage)
 - [standard of measurement](dic://standard of measurement)
 - [bore](dic://bore), [caliber](dic://caliber), [calibre](dic://calibre)
@@ -4364,11 +4369,25 @@ gauge
 - _back gauge_ 边距；反向行程限位器；后支档
 - _vacuum gauge_ n. 真空计
 - _water level gauge_ 水位计；水平仪
+- price gauging
+	- A move by Venezuela's government to combat what they call price gauging has triggered chaos in some major appliance stores. /委内瑞拉政府采取行动对抗物价指数，这在一些大型家电门市引发了混乱。
+	- Price gouging is a pejorative term referring to when a seller spikes the prices of goods, services or commodities to a level much higher than is considered reasonable or fair, and is considered exploitative, potentially to an unethical extent. Usually this event occurs after a demand or supply shock: common examples include price increases of basic necessities after hurricanes or other natural disasters. In precise, legal usage, it is the name of a crime that applies in some jurisdictions of the United States during civil emergencies. In less precise usage, it can refer either to prices obtained by practices inconsistent with a competitive free market, or to windfall profits. In the former Soviet Union, it was simply included under the single definition of speculation.
+- it was up to them to gauge the problem. /判断这问题是他们的责任。
+- she is unable to gauge his mood. /她猜不透他的心思。
+- gauged sets of strings. /成套的标准绳。
+- emigration is perhaps the best gauge of public unease /移民可能是社会不安定程度最好的晴雨表。
+- How would you gauge his conduct？ /你对他的品行作何评价？
+- A petrol gauge shows the amount of petrol left in a car. /汽油表指示出汽车里所剩的汽油数量。
+- Evacuees were in shock as they gauged their losses. /已经撤离出的人们在估算损失后震惊不已。
+- It's nice to be able to see, you know, your competitors and have a gauge. /这样可以看到你的对手并且估计。
+- If we imagine the economy as a car, then GDP, employment and inflation are the gauges. /如果我们把经济想象成一辆汽车，那么GDP、就业和通胀就是衡量标准。
 - telegauge
 - reflectogauge
 - raingauge
 - plastigauge
 - overgauge
+	- 等外的 
+	- 超过规定尺寸的
 - oil-gauge
 - narrow-gauge
 - multigauge
@@ -4391,6 +4410,15 @@ gauze
 	- _gauze pad_ 网垫
 - _cotton gauze_ 纱布；冷布
 - _gauze pad_ 网垫
+- they saw the grasslands through a gauze of golden dust /他们透过金色的尘土看到了那片草原。
+- Additional, to bare brachial ministry skin, frivolous gauze pledges amice and oversleeve are your good helper. /干性肌肤宜选择霜状的防晒用品；中性皮肤则无严格规定。
+- Objective To evaluate hemostasia effect of the combination of non-ionization soluble styptic gauze and venom haemocoagulase in operation bleeding and wound errhysis. /目的评价非离子化可溶性止血纱布与蛇毒血凝酶联合应用对手术出血及创面渗血的止血效果。
+- His head was still wrapped in gauze. /他的头依旧裹着纱布。
+- She was dressed in green silk gauze and wore upon her flowing green locks a crown of jewels. /穿着绿绸纱，戴上一顶摆动的绿色的宝石皇冠。
+- Well, this is red gauze lantern. /这个是红纱灯笼。
+- It's doesn't gauze up some bygone era or avoid uncomfortable truths. /不再用纱布遮掩一些重大往事或回避尴尬的史实。
+- Trump removed the gauze, but rather than healing the wound, we may now be watching it fester. /特朗普摘下纱布，但我们现在看到的可能不是伤口的愈合，而是伤口的溃烂。
+- Although the recent photograph is a clear one, I still see it through the gauze of childhood. /虽然这张最近的照片拍得很清楚，但我还是透过儿时的朦胧记忆来看她。
 - gauzy
 
 gawk
@@ -7581,6 +7609,28 @@ liquorice
 - **licorice**欧亚甘草;**toffee**乳脂糖，太妃糖;**peppermint**薄荷;**chocolate**巧克力;**savoury**咸味的;**ginger**姜;**caramel**焦糖;**candied**甜蜜的;**sweets**糖果;**hazelnut**榛树;**marshmallow**药属葵,药属葵蜜饯;
 - [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [candy](dic://candy), [confect](dic://confect)
 - _liquorice root_ [药]甘草；甘草根；甘草粉末
+
+loaf
+- n. 一条面包, 块, 游荡  
+- v. 游手好闲, 虚度光阴
+- 来自古英语 hlaf,一块面包，词源同 lady,lord.
+- [loaf of bread](dic://loaf of bread)
+-  [bum](dic://bum), [bum around](dic://bum around), [bum about](dic://bum about), [arse around](dic://arse around), [arse about](dic://arse about), [fuck off](dic://fuck off), [frig around](dic://frig around), [waste one's time](dic://waste one's time), [lounge around](dic://lounge around), [loll](dic://loll), [loll around](dic://loll around), [lounge about](dic://lounge about)
+-  [loiter](dic://loiter), [lounge](dic://lounge), [footle](dic://footle), [lollygag](dic://lollygag), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [tarry](dic://tarry), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
+- _n._ [bread](dic://bread), [breadstuff](dic://breadstuff), [staff of life](dic://staff of life)
+- _v._ [idle](dic://idle), [laze](dic://laze), [slug](dic://slug), [stagnate](dic://stagnate), [be](dic://be)
+- **bread**面包;**sourdough**酵母;**baguette**法国棍子面包;**crumb**面包屑，碎屑;**dough**生面团;**bake**烤, 烘焙;**baked**烘焙的;**muffin**小松饼;**baking**烘焙，烘烤;**buns**<俚>屁股;**scones**司康饼;
+- _loaf of bread_ 长面包，面包片
+- _meat loaf_ 肉糜卷；肉馅糕
+- slice a loaf of bread./把一条面包切成薄片
+- to bake a loaf of bread /烤一块面包
+- Half a loaf is better than no bread. /有比没有好。
+- Weigh that loaf of bread on the balance, please. /把那块面包放在秤上称一称。
+- Don't loaf your life away. /不要虚度光阴。
+- A strong man is not willing to be a loafer or sponger. /身强力壮的人谁也不愿吃闲饭。
+- We bought a loaf of bread at the bakery. /我们在面包店买了一条面包。
+- sugarloaf
+- loafer
 
 loath
 - loathsome
@@ -11181,6 +11231,34 @@ sew
 - oversew
 - oversewn
 - oversewed
+
+shadow
+- n. 阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽处, 庇护  
+- vt. 遮蔽, 使朦胧, 预示, 尾随  
+- vi. 渐变, 变阴暗
+- 来自 shade 的对词，引申词义阴影，影子。拼写比较 mead,meadow.
+- unshadowed
+- shadowy
+	- shadowiness
+- shadowless
+- shadowland
+- shadowgraphy
+- shadowgraph
+- shadowgram
+- shadowbox
+	- shadowboxing
+- overshadow
+- foreshadow
+	- vt. 预示；成为……的前兆 
+	- n. 预兆
+	- _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+	- **prelude**前奏;**precede**领先，在…之前;**allusion**暗示;**hinting**微调;**ominous**不祥的;**foresee**预知;**climactic**高潮的;**signify**表示;**anticipate**先于…行动;**underscore**划线于…下,强调;**impending**即将发生的;
+	- Perhaps that this music was foreshadowing something else /或许音乐也在预示着什么。
+	- Underscoring how 2022 may foreshadow the 2024 presidential contest. /强调2022年可能预示着2024年的总统竞选。
+	- More than merely shadowing financial movements, posts can even foreshadow them. /推特帖子不只是跟踪金融动向，甚至可以预示金融动向。
+	- Oh, I love it when he foreshadows me in a good way /哦，我喜欢他给我做的美好铺垫。
+	- Oh, and one more thing about that foreshadowing lifeboat scene in Titanic /哦，关于泰坦尼克号中那个预示救生艇场景的还有一件事没说。
+	- How much do they really foreshadow what could happen in November, quickly? /他们预测会有多少选民参加11月大选的投票？
 
 shag
 - [fuck](dic://fuck), [fucking](dic://fucking), [screw](dic://screw), [screwing](dic://screwing), [ass](dic://ass), [nooky](dic://nooky), [nookie](dic://nookie), [piece of ass](dic://piece of ass), [piece of tail](dic://piece of tail), [roll in the hay](dic://roll in the hay), [shtup](dic://shtup)
