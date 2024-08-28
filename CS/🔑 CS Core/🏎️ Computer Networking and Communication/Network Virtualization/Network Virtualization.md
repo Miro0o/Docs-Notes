@@ -50,8 +50,12 @@
 
 
 ## Network Virtualization Technologies Taxonomy
+> 🔗 https://www.cnblogs.com/sammyliu/articles/4390650.html
+
+
 ### 1️⃣ Network Virtualization within Host
 #### I/O Virtualization
+
 #### Virtual Access
 
 

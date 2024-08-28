@@ -3614,8 +3614,91 @@
 			6. Christina Smith is a trailblazer in the sport of bobsled. /克里斯蒂娜·史密斯是雪橇运动的开拓者。
 			7. She's been a trailblazer for women in her field. /作为女性她在自己的领域一直是位开拓者。
 	5. trace
+		1. n. 痕迹, 踪迹, 微量, 迹线, 缰绳  
+		2. vt. 追踪, 回溯, 描绘  
+		3. vi. 追溯, 沿路走
+		4.  来自古法语 tracier,寻找，追踪，来自通俗拉丁语*tractire,描绘，勾勒，来自拉丁语 trahere,拉，拉出，来自 PIE*dhragh,拉，拉出，移动，词源同 draw,tract.引申诸相关词义。
+		5. tracing
+		6. tracery
+		7. tracer
+		8. traceless
+		9. traceable
+			1. untraceable
+			2. traceability
+			3. irretraceable
+		10. subtrace
+		11. retrace
+		12. backtrace
+			1. backtracing
 	6. track
+		1. 源自古法语 trac "track of horses, trace." 可能是原始日耳曼语词源，同源词：trigger, trek.
+		2. 来自古法语 trac,轨迹，车道，可能来自荷兰语 trek,踩出的，引导的，词源同 trek,trigger.最终来自 PIE*dhragh,拉，拉出，词源同 draw,tract.引申诸相关词义。
+		3. n. 轨迹, 足迹, 径迹, 小道, 轨道, 磁轨, 途径
+		4. vt. 循路而行, 追踪, 通过, 用纤拉
+		5. vi. 追踪, 留下足迹, 沿轨道运行
+		6. track record
+			1. n. 径赛成绩记录；过去的成绩或成就
+			2. _n._ [record](dic://record), [accomplishment](dic://accomplishment), [achievement](dic://achievement)
+			3. **credit track record**:  信用记录 
+			4. **Good track record**:  良好的职业操守
+			5. The track record for nickel mining is not good globally /在全球范围内，镍开采的记录并不好。
+			6. So far, the track record has proved to be successful. /到目前为止, 这种做法已经证明行之有效且非常成功。
+			7. Several of his senior appointees have good track records. /而且有数位首席部长拥有良好的履历记录。
+			8. But given the WikiLeaks track record, many are taking the claim seriously. /考虑到维基解密以往的记录，许多人都对此高度重视。
+			9. Me too. Though her track record's a little short /我也是，尽管她过去的成就有一些少。
+			10. China has a good track record in coping with urbanization. /而中国在应对城市化方面有着丰富的经验。
+		7. tracksuit
+		8. trackman
+		9. trackless
+		10. tracklayer
+		11. tracking
+		12. tracker
+		13. tracked
+		14. trackage
+		15. trackability
+		16. track-clearer
+		17. track-and-field
+		18. subtrack
+		19. soundtrack
+		20. single-track
+		21. sidetrack
+		22. racetrack
+		23. one-track
+		24. multitrack
+		25. minitrack
+		26. halftrack
+		27. backtrack
+		28. autotracking
+		29. astrotracker
 	7. train
+		1. train - 19世纪20年代英国人基于一长列连接的车厢由一个机车牵引这一点，把火车这一交通运输工具命名为train of carriages，1835年又简称之为train。train一词源于拉丁语动词trahere 'drag, draw'（拖，拉），在火车发明之前，它表示“拖裙”、“队列”、“一连串”等义。train所有这些词义似乎都与其原始词义“拖”有些联系，或由此引申而来。
+		2. n. 火车, 列车; 行列, 长队, 一连串的后果, 顺序; 裙裾
+		3. vt. 训练, 教育, 培养, 培训, 修整; 对准, 对准
+		4. untrained
+		5. tube-train
+		6. trainsick
+		7. trainmaster
+		8. trainman
+		9. trainload
+		10. training
+		11. trainer
+		12. trainee
+		13. trained
+		14. trainbearer
+		15. trainband
+		16. train-mile
+		17. siege-train
+		18. road-train
+		19. retrain
+		20. packtrain
+		21. overtrain
+		22. mail-train
+		23. house-trained
+		24. entrain
+			1. entrainment
+			2. reentrainment
+			3. entrainer
+		25. detrain
 	8. trigger
 	9. abstract
 		1. autoabstract

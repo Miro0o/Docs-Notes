@@ -6,9 +6,11 @@
 
 ## Res
 ### Related Topics
-↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
 ↗ [Tunneling & VPN](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/Tunneling%20&%20VPN.md)
 ↗ [Tunneling Protocols & Technologies](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
+
+↗ [vLAN & VxLAN](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/vLAN%20&%20VxLAN/vLAN%20&%20VxLAN.md)
+↗ [NVGRE (Network Virtualization using GRE)](../../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/GRE%20(Generic%20Routing%20Encapsulation)/NVGRE%20(Network%20Virtualization%20using%20GRE).md)
 
 
 
@@ -40,4 +42,5 @@ Overlay network protocols based on UDP/IP include:
 
 
 ## Ref
+[Overlay 介绍 ｜ 华为数据中心网络设计指南]: https://support.huawei.com/enterprise/zh/doc/EDOC1100023543/ebbc6e5f
 

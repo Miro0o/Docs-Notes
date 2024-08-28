@@ -39,6 +39,9 @@ Immigration Medical Examination ｜ 出国移民体检
 
 
 ### General Information about International Universities & Countries' Lives
+https://www.niche.com/
+School Ranking, Apply, Review, and Others..
+
 [The GradCafe](https://www.thegradcafe.com/)
 实时录取结果更新，PhD dp比较多
 

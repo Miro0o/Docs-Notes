@@ -137,19 +137,42 @@
 ## fe
 ### fest-,fist- = ulcer; pipe, 表示“溃烂；管子”。源自拉丁语 fistula "a pipe; ulcer"。
 1. fester
-	1. fest-溃烂 + -er，该词用来指化脓。
-	2. [suppurating sore](dic://suppurating sore)
-	3.  [maturate](dic://maturate), [suppurate](dic://suppurate)
-	4. _n._ [sore](dic://sore)
-	5. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
-	7. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
-	8. [maturate](dic://maturate), [suppurate](dic://suppurate)
-	9. _[festering](dic://festering)_  v. （伤口等）溃烂；（食物、垃圾）腐烂；（负面情绪等）恶化；遭受身心创伤；感染（fester 的现在分词）; adj. 化脓的；充满仇恨的；腐烂的; n. 化脓；脓液;
-	10. _[Festering Wound](dic://Festering%20Wound)_ 溃脓创伤; 化脓的伤口; 
-	11. _[festering boil](dic://festering%20boil)_ 流脓
-2. fistulas, fistula, fistulae
-3. fistular
-4. fistulous
+	1. vi. 溃烂；化脓 
+	2. vt. 使……溃烂；使……痛苦；使……恶化 
+	3. n. 溃烂；脓疮，脓疱
+	4. fest-溃烂 + -er，该词用来指化脓。
+	5. [suppurating sore](dic://suppurating sore)
+	6.  [maturate](dic://maturate), [suppurate](dic://suppurate)
+	7. _n._ [sore](dic://sore)
+	8. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+	9. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
+	10. [maturate](dic://maturate), [suppurate](dic://suppurate)
+	11. _[festering](dic://festering)_  v. （伤口等）溃烂；（食物、垃圾）腐烂；（负面情绪等）恶化；遭受身心创伤；感染（fester 的现在分词）; adj. 化脓的；充满仇恨的；腐烂的; n. 化脓；脓液;
+	12. _[Festering Wound](dic://Festering%20Wound)_ 溃脓创伤; 化脓的伤口; 
+	13. _[festering boil](dic://festering%20boil)_ 流脓
+	14. bitterness that festered and grew. /不断产生并加深的怨恨
+	15. a festering controversy. /愈演愈烈的争论。
+	16. Trump removed the gauze, but rather than healing the wound, we may now be watching it fester. /特朗普摘下纱布，但我们现在看到的可能不是伤口的愈合，而是伤口的溃烂。
+	17. Differences had been allowed to fester for too long. /双方分歧越陷越深。
+	18. The removal of festering Flesh was a global phenomenon. /需要去除溃烂的肉是全球都存在的情况。
+	19. Just when she needed her strength most, this toe had to fester. /恰好在她需要拿出最大力气的时候，这只脚尖却溃烂起来了。
+	20. And it is those scars that could well reopen, if left to fester in resentment and disappointment /如果任由这些伤痕在怨恨和失望中溃烂，那么，这些伤疤很可能会重新复发。
+	21. 
+2. fistula
+	1.  来自拉丁语 fistula,导管，溃疡，来自 PIE*bheid,劈开，裂开，词源同 bite,boat.比喻用法。
+	2. n. [医] 瘘管；[昆] 细管（尤指鳞翅目昆虫）
+	3. [fistulous withers](dic://fistulous withers)
+	4. [sinus](dic://sinus)
+	5. _n._ [animal disease](dic://animal disease), [passage](dic://passage), [passageway](dic://passageway)
+	6. **hernia**脱肠;**ulcer**溃疡;**suture**缝合;**resection**切除术;**ulcers**溃疡，疡;**incision**切开;**aneurysm**动脉瘤;**vaginal**阴道的;**venous**静脉的;**stenosis**狭窄;**catheter**导管;
+	7. _anal fistula_ 肛瘘
+	8. The fistula probing and fistulography are accurate for diagnosis of anal fistula. /应用导丝、导管做瘘道探查造影能更全面诊断肛瘘；
+	9. When the cancer invades and perforates the entire esophageal wall, it can invade the trachea in front of it, forming a fistula. /当肿瘤侵袭并穿透食管壁全层，会入侵位于前方的气管，从而形成瘘管。
+	10. To try to find a treatment for vestical vaginal fistula. /试图找到治疗前庭阴道瘘的方法。
+	12. fistulas
+	13. fistulae
+4. fistular
+5. fistulous
 	1. 瘘管的, 瘘的
 	2. **lesion**损害;**suture**缝合;**endoscopic**内窥镜的,内窥镜检查的;**mucosal**粘膜的;**cyst**胞,包囊,膀胱;**esophageal**食道的;**stenosis**狭窄;**ulcers**溃疡，疡;**cysts**囊;**ulcer**溃疡;**apical**顶上的, 顶点的;
 6. fistulize

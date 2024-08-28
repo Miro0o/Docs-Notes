@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [🤯 Awesome List](../🤯%20Awesome%20List.md)
 ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
-- ↗ [Computer (Hardware) Components](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20(Hardware)%20Components.md)
+- ↗ [Computer Taxonomy & Computer (Hardware) Components](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Taxonomy%20&%20Computer%20(Hardware)%20Components.md)
 - ↗ [Computer Architecture](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ↗ [🌲 Road To CS](../🌲%20Road%20To%20CS.md)

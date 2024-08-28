@@ -6,7 +6,13 @@
 
 ## Res
 ### Related Topics
+↗ [Operating Systems & Kernels (Engineering Part)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
+↗ [Computer Storage & Database Systems](../🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+↗ [Computer Networking and Communication](../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+↗ [Application Runtimes & SDKs](../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)
+
 ↗ [System Security](../../../CyberSecurity/System%20Security/System%20Security.md)
+↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 
 
 

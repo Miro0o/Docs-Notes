@@ -6,18 +6,18 @@
 
 ## Res
 ### Related Topics
+↗ [0x06 Data Link Layer](../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/0x06%20Data%20Link%20Layer.md)
 ↗ [Link Layer (Tier-2) Switch](📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link%20Layer%20Network%20Devices/Link%20Layer%20(Tier-2)%20Switch.md)
+↗ [Network Virtualization](../Network%20Virtualization/Network%20Virtualization.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [Cloud Operating System & Platform (System Level Engineering)](../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
-↗ [Software Defined Network (SDN)](../../🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
-
-↗ [Overlay Network](../../Network%20Virtualization/Overlay%20Network.md)
-↗ [High Performance Network (HPN) & IDC Technologies](../../🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies.md)
+↗ [Software Defined Network (SDN)](🙌🏻%20Software%20Defined%20Network%20(SDN)/Software%20Defined%20Network%20(SDN).md)
+↗ [Datacenter](../../🍕%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
 
 
 ### Learning Resources
-https://support.huawei.com/enterprise/zh/doc/EDOC1100023543?idPath=24030814%7C21782165%7C21782236%7C252837173
+📂 https://support.huawei.com/enterprise/zh/doc/EDOC1100023543/426cffd9
 华为数据中心网络设计指南
 
 通过阅读本书，您将了解以下内容：
@@ -62,3 +62,7 @@ https://support.huawei.com/enterprise/zh/doc/EDOC1100023543?idPath=24030814%7C21
 [👍 软考网络工程师的难点之一 堆叠技术详解 | 微信公众号]: https://mp.weixin.qq.com/s/CEE8sNVqAwKL3zUFg72n5w
 
 **网络堆叠技术**（Stacking Technology）是指将多个网络设备（如交换机或路由器）连接在一起，形成一个逻辑上单一的设备，以简化管理和提高网络性能。以下是对堆叠技术的详细解释以及一个案例讲解...
+
+[数据中心架构ToR和EoR【总结】]: https://www.cnblogs.com/Anker/p/8998904.html
+[深度好文：接入交换机三种架构TOR、EOR 和 MOR：有什么区别？]: https://cloud.tencent.com/developer/article/2239229
+[数据中心EOR/MOR/TOR布线概念（整理）]: https://www.cnblogs.com/yickel/p/9787130.html
