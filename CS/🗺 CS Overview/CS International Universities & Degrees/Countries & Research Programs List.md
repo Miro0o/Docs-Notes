@@ -1,4 +1,4 @@
-# Countries & Research Programs
+# Countries & Research Programs List
 
 [TOC]
 
@@ -30,7 +30,7 @@ QS World University Rankings by Subject 2023: Computer Science and Information S
 
 ## 🧔🏼‍♀️ Europe
 ### Europe Overview
-### 🇪🇺 Associated Programes
+### 🇪🇺 Associated Programs 
 #### 👉 SECCLO
 🏠 https://www.secclo.eu
 #### 👉 Erasmus Mundus
@@ -303,15 +303,10 @@ https://www.uva.nl/en
 ## 🧔🏻‍♀️🧔🏿‍♀️ North American
 ### 🇺🇸 USA
 #### USA Overview
-美国计算机研究生留学院校推荐? - Edward Shi的回答 - 知乎 https://www.zhihu.com/question/531736432/answer/2520737813
+66 【美国留学生居然可申请这么多奖学金！ - 杰夫学长Consulting | 小红书 - 你的生活指南】 😆 dSmsdZ6NyDV7Jf3 😆 https://www.xiaohongshu.com/discovery/item/668e5ce200000000250144ed?source=webshare&xsec_token=CBpUEjSM36bmX-0dO4EwW7M40_pLNK9l2vQANFH-cPezo=&xsec_source=pc_share
 
-美国留学费用一年大概多少人民币呢？ - 小软学姐的回答 - 知乎 https://www.zhihu.com/question/484483695/answer/2550226160
-
-29所美国计算机硕士院校硕士项目申请难度分析汇总！ - 三只企鹅的文章 - 知乎 https://zhuanlan.zhihu.com/p/66272453
-
-美国人心中的顶尖大学，这可比排名真实多了…… - 再来人留学的文章 - 知乎
-https://zhuanlan.zhihu.com/p/529652091
-
+https://studentaid.gov
+Federal Student Aid
 #### 👉 Arizona State University (ASU)
 ##### Computer Science (Cybersecurity), MS
 Applicants must fulfill the requirements of both the Graduate College and the Ira A. Fulton Schools of Engineering.
@@ -404,14 +399,13 @@ Labs - Data Science, AI & Robotics
 
 bearX
 https://bearx.co/
-
 ##### computer science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
 
 1. Industry-Oriented Degree Programs
 	1. https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/
 	2. Master of Engineering (M.Eng.)
-		1. - TOEFL:  No min requirement. Avg admittee: >100 score; iBT: 90 minimum (or 7 out of 9 on the IELTS)
+		1. TOEFL:  No min requirement. Avg admittee: >100 score; iBT: 90 minimum (or 7 out of 9 on the IELTS)
 		2. GPA: 3.0 min requirement. Avg admittee: 3.7
 		3. Average admissions rate for M.Eng program: 12%
 		4. Strong technical background equivalent to a computer science bachelor’s degree.

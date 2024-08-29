@@ -21,3 +21,5 @@
 ## Ref
 [👍 高性能网络通信架构 RDMA 的设计与实现]: https://www.infoq.cn/article/d9w4nk2l1pi8fimi24k4
 s
+
+[AI算力网络，为什么需要RDMA？]: https://mp.weixin.qq.com/s/COB1o5wDiRpVzJud1Qa_nQ

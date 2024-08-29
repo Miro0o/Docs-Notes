@@ -91,4 +91,7 @@ $ git config --global user.email "email@example.com"
 [你真的会高效的在GitHub搜索开源项目吗? - chainho的文章 - 知乎]: https://zhuanlan.zhihu.com/p/55294261
 [Specify an SSH key for git push for a given domain]: https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain
 
- 
+[互联网巨头决定抛弃Git......]: https://mp.weixin.qq.com/s/5MRMJlbdMLn4kytw6jR2qQ
+- Facebook决定抛弃Git
+- Google 发明新轮子
+- 

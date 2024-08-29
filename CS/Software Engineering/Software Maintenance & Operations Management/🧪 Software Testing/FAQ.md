@@ -5,6 +5,7 @@
 
 
 ## 👉 What is test oracle?
+#software_test
 
 In [computing](https://en.wikipedia.org/wiki/Computing), [software engineering](https://en.wikipedia.org/wiki/Software_engineering), and [software testing](https://en.wikipedia.org/wiki/Software_testing), a **test oracle** (or just **oracle**) is a mechanism for determining whether a test has passed or failed. The use of oracles involves comparing the output(s) of the system under test, for a given [test-case](https://en.wikipedia.org/wiki/Test_case) input, to the output(s) that the oracle determines that product should have.
 
@@ -28,9 +29,6 @@ Several potential categories of test oracles:
 2. Deriviation
 3. Implicit 
 4. Human 
-
-
-
 
 
 [Test Oracle --- Wikipedia]: https://en.wikipedia.org/wiki/Test_oracle

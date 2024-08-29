@@ -178,10 +178,10 @@ src：https://t.me/isaiahsystem/636
 
 [6 Ways to Fix “This Channel Cannot Be Displayed” Issue in Telegram]: https://ipeeworld.com/fix-this-channel-cannot-be-displayed-issue-in-telegram/
 
-[97 【科普一下怎么看美剧 - 衣柜军团 | 小红书 - 你的生活指南】 😆 VAl6nKjn7CI3cb1 😆]: http://xhslink.com/gr8byO
+[👍 【科普一下怎么看美剧 - 衣柜军团 | 小红书 - 你的生活指南】 😆 VAl6nKjn7CI3cb1 😆]: http://xhslink.com/gr8byO
 1. 观剧体验：生肉片源+靠谱字幕组出品的外挂字幕＞生肉片源+片源自带的官中字幕＞靠谱字幕组出品的熟肉。  
 2. 生肉片源哪里找？  
-	1. 浏览器内输入rarbg把我换成点is回车，上不了的话就只能蹲字幕组的熟肉。  
+	1. 浏览器内输入rarbg.is回车，上不了的话就只能蹲字幕组的熟肉。  
 3. 字幕哪里找？  
 	1. https://subhd.tv （最好是注册一个账号，可以少很多限制）  
 	2. 网站可能被墙，请记住以下域名：subhd.cc subhd.me
@@ -198,9 +198,8 @@ src：https://t.me/isaiahsystem/636
 	3. 通常来讲，专业的字幕组都会同时提供srt和ass字幕，但有的字幕组因为特殊情况只提供ass，比如 [@衣柜军团](https://www.xiaohongshu.com/user/profile/62fb1398000000001501a814) 字幕组。衣柜的字幕特色在人名标注和各种注释，srt字幕无法实现
 6. 官中字幕如何看？ 播放器的字幕设置里（以potplayer为例，播放界面右键选到字幕-字幕选择）看一下有没有简体中文（Simplified Chinese），有的话直接选。奈飞近年的电影电视剧都自带官中，亚马逊大概率会带官中。大凡有官中字幕的，远鉴都能在极短的时间里压制并放出熟肉下载，所以大家一般会称之为“压制组”而非字幕组。  
 
-注意：任何视频无论原本多高清，在压制过程中都会损失一部分画质，因此请参考第一条。  
+注意：任何视频无论原本多高清，在压制过程中都会损失一部分画质，因此请参考第一条。
   
 另，顺便科普一下生肉文件名的命名格式（图1）。下载时最好根据自己设备选择，经常被问到关于生肉无法播放画面太暗之类的问题，具体问题具体分析
 
 ![](../../../../Assets/Pics/Pasted%20image%2020240705182541.png)
-

@@ -22,13 +22,14 @@ Principles for Dealing with the Changing World Order by Ray Dalio
 【【麻省理工】微观经济学（中英双语）】 https://www.bilibili.com/video/BV1uR4y1b7HF/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 【【杜克大学】政治经济学导论-中英字幕（自行选择，机翻见谅）】 https://www.bilibili.com/video/BV1Sd4y1L7gU/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
-
 https://zhaosheng.suibe.edu.cn/20850/list.htm
 上海对外经贸大学 - 学院概况与专业介绍
 
 https://www.gsm.pku.edu.cn/undergraduate/info/1009/7314.htm
 北大光华管理学院 - 2023级常规本科项目各专业教学计划
 
+https://www.douban.com/doulist/95821/?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends
+上海三联/上海人民---当代经济学系列丛书
 
 
 ## Intro

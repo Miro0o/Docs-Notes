@@ -1,5 +1,24 @@
-# FAQ
+# Living Abroad China 🇨🇳
+
+[TOC]
+
+
+
+## Res
+### Related Topics
+
+
+### Other Resources
+
+
+
 ## 👉 海外生活
+### 物品清单
+71 【留子赴美行李准备（主打一个啥都想带） - C歪 | 小红书 - 你的生活指南】 😆 gfdwPd7lCiAdXu2 😆 https://www.xiaohongshu.com/discovery/item/6689a2aa000000000a007e67?source=webshare&xsec_token=CBbTnB0bOzgop5WNFzuv0r-Zum9DHdL3SaJU9VcwiS9Vc=&xsec_source=pc_share
+
+57 【24fall ikea购物清单穷留版丨丢了也不心疼 - 北美6姐 | 小红书 - 你的生活指南】 😆 DBXGLPID1wfj3Nt 😆 https://www.xiaohongshu.com/discovery/item/668f401a00000000250177fc?source=webshare&xsec_token=CBMU6bkNrKe1sX0vYWBnWW77UTLZT0WQ9Aq8K-9KVJaTg=&xsec_source=pc_share
+
+
 ### 电话卡
 **国内的电话卡在国外可以使用吗？ - 知乎** https://www.zhihu.com/question/495816035
 
@@ -59,6 +78,7 @@ GSM、CDMA、WCDMA、CDMA2000、TD-SCDMA、LTE(FDD-LTE、TD-LTE)简单理解
 
 所以，如果是在AT&T、T-Mobile、Sprint、Version或者Target、Best Buy、Sam’s Club等地购买iPhone也是一个道理。
 
+
 ### 海外软件
 **华为手机安装Google Play商店 鸿蒙3.0亲测有效**
 https://uzbox.com/tech/huawei-google.html#google-google-play
@@ -70,6 +90,7 @@ https://uzbox.com/tech/huawei-google.html#google-google-play
 [安卓手机安装Google Play 安装谷歌商店 百分百成功！](https://uzbox.com/tech/googleplay.html)
 
 ---
+
 
 ### 现钞/现汇
 作者：杨文涛
@@ -88,7 +109,19 @@ https://uzbox.com/tech/huawei-google.html#google-google-play
 
 去年，人民币兑美元出现了一定幅度的贬值。很多同事都在考虑换一部分外汇作为家庭外汇储备。很多同事都来问我，这种情况下购汇应该选择现钞还是现汇呢？上图显示，虽然二者在结汇时存在差价，但是在个人购汇时，二者价格是相同的。所以在个人购汇时，如果不是直接在柜面提取外汇现钞，购汇的钞汇标识都默认选择现汇。事实上，在柜面以外的其它渠道，如网银、超级柜台、自助终端，购汇的钞汇标识都会默认选择为现汇，即购买的外汇存入个人现汇账户。在外汇领域，“现钞”这两个字除了用于钞汇标识，另外还是一种外汇的资金形态，代表手持现钞，与之相对的是外币账户。有一种很常见的容易引起误解的说法：“只有现钞才能从银行取出来，现汇只能存在账户中，不能取出。”这种说法混淆了两个现钞的概念，好像现汇不是现钞，所以现汇不能提钞。其实，无论是现钞还是现汇，都是可以从银行中取出来的。只不过现汇在取出之后，就变成现钞了。此时即使存回去，钞汇标识也是现钞。如果未来需要汇出或结汇，现汇提钞会造成钞汇损失；如果提钞是为了出国旅游买买买，就没有什么影响。
 
-### 出入境管理
+
+### 银行卡
+47 【国内全日制在读学生如何玩卡（综述） - 影的寶寶 | 小红书 - 你的生活指南】 😆 HOIbnJVHUsK40T7 😆 https://www.xiaohongshu.com/discovery/item/666172290000000015010e5b?source=webshare&xsec_token=CBgv4v5sLstPW-YypCDHh3um_9sn3PaTz4GWNKrZhdMWw=&xsec_source=pc_share
+
+45 【【干货】留学生第一张卡美国银行BOA开户教程 - 月巴女未呀 | 小红书 - 你的生活指南】 😆 jBEN75JhvVXGBYH 😆 https://www.xiaohongshu.com/discovery/item/62edc794000000001b01d674?source=webshare&xsec_token=CBxZWG95O5tTfLLhsNaexRyl5rtOhDqkZtIYdksYWt188=&xsec_source=pc_share
+
+70 【新手初开美国储蓄卡和信用卡必备扫盲贴（下 - 云baby（无糖版 | 小红书 - 你的生活指南】 😆 pNEPpdKvjfF0hu8 😆 https://www.xiaohongshu.com/discovery/item/65b3e3f9000000002b03ebd5?source=webshare&xsec_token=CBiKRt_s_nSUePTFIwsJGb-WU4eZWV8bm5GnIN6OoCv_0=&xsec_source=pc_share
+
+
+
+### 出入境管理 /海关检查
+95 【🇺🇸24fall留学生入境保姆级指南 - 今天摇晃脑袋会掉出啥 | 小红书 - 你的生活指南】 😆 2frSwjUdvZwrT52 😆 https://www.xiaohongshu.com/discovery/item/66951faa00000000250179b5?source=webshare&xsec_token=CBhyKic5EWe82zl0k6Rvf8afG_xL2z07mP0_pL_0LlORo=&xsec_source=pc_share
+
 充电宝单个不超过2w
 
 携带现金数额有限制（？）
@@ -96,66 +129,17 @@ https://uzbox.com/tech/huawei-google.html#google-google-play
 管制信息/生物入侵检测
 
 
-
-## 👉 如何选择学校/国家和地区？
-### 美国真的有那么好吗？
-
-我在美国读博士，才发现国人对美国高等教育误解太深… - SOPHIA的文章 - 知乎
-https://zhuanlan.zhihu.com/p/625138432
-1. 作业
-2. 成绩
-3. 考试
-4. 教育制度
-5. 学习态度
-6. 所谓博士
-7. 基础扎实
-8. 教育成果
-9. 理论vs实践
-10. 监督和激励
+### 日常开销
+34 【穷鬼helps穷鬼，美国穷鬼生存指南 - 林黛玉三打白骨精 | 小红书 - 你的生活指南】 😆 pC7qHRQJLGmgzez 😆 https://www.xiaohongshu.com/discovery/item/667ce64b000000001c034153?source=webshare&xsec_token=CBEmmhnt3aS8o8LQBYAd-sQvR_XeZkNKOrh3AUsgnaQm8=&xsec_source=pc_share
 
 
-### 信息安全专业美研选校
-#### 零散的看法
-（2015）
-要考的，只要不是native speaker都要考GT，然后我不知道为何要靠[美帝](https://www.zhihu.com/search?q=%E7%BE%8E%E5%B8%9D&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)的PhD？英国PhD full time 3 年part time 5 年，而且UCL之类的学校排名杠杠的，竞争压力也小（相对于[美国](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)同档次排名的学校），是出于就业还是其他因素想去美国？
+### 租房
 
-美国安全好学校，一亩三分地站长推荐CMU，UC Davis，普渡和哥大，我个人推荐[约翰霍普金斯](https://www.zhihu.com/search?q=%E7%BA%A6%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)和佐治亚理工，他们两家信安是独立的院。我比较熟的是CMU，CMU的信安主力分布比较散，硕士集中于INI学院，但是INI学院没博士，所以INI出来读博的基本去了ECE，博士阶段基本就是ECE+小部分CS。另外CMU的Heinz学院有个MSISPM硕士是搞技术+政策的，政策就是和[安全](https://www.zhihu.com/search?q=%E5%AE%89%E5%85%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)领域的法律有关，可以做个参考，当然Heinz院也没有博。还有就是[密码学](https://www.zhihu.com/search?q=%E5%AF%86%E7%A0%81%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)？感觉做安全的如果不是[学术界](https://www.zhihu.com/search?q=%E5%AD%A6%E6%9C%AF%E7%95%8C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)的，搞密码的还真是挺稀有的。
 
-个人觉得去美国读安全博士比较尴尬，一方面计算机相关的博士申请难度比硕士高不少，不一定能申到理想的院校；另外安全行业一直说要火，喊了这么多年实际上雷声大雨点小，出点[安全事故](https://www.zhihu.com/search?q=%E5%AE%89%E5%85%A8%E4%BA%8B%E6%95%85&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)要倒霉，不出事故吧万年小透明不受待见，不知道你们公司啥情况，让你能喜欢上这个行业。。
-  
-作者：Hanlin Shi  
-链接：https://www.zhihu.com/question/28997966/answer/57130625  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+### 学习生活
+87 【听说这已经是留学生公认的潜规则了... - 多喝冰水 | 小红书 - 你的生活指南】 😆 HKE5o2G6iswyg6e 😆 https://www.xiaohongshu.com/discovery/item/6687a91c000000001c025596?source=webshare&xsec_token=CBztp1CNZp3d5cQ_r8DW7HCv2p65GELLaVET7SXP419MQ=&xsec_source=pc_share
 
----
-[网安](https://www.zhihu.com/search?q=%E7%BD%91%E5%AE%89&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%223160933949%22%7D)研究生就业不如三年经验的本科生，个人看法哈
-
----
-如果我们是从小一路升学，然后找工作，走向社会，很容易认为，这个世界就是这样，任何事情，都有固定的模式，比如，比赛刷题，找工作刷题，这样的模式人生。
-
-但人生的发展和社会的发展本身是很复杂的，比如年底大家都觉得世界走向会怎么怎么样，到了新年初，[伊朗](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%22969505466%22%7D)与美国的事情就不用多说了，肯定是超出了绝大部分人的预期，近一点的，大家总是说大公司[裁员](https://www.zhihu.com/search?q=%E8%A3%81%E5%91%98&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%22969505466%22%7D)之类，本质上，都是在不断的教育我们，这个世界，不说能不能预期，至少是，比我们想象的[复杂](https://www.zhihu.com/search?q=%E5%A4%8D%E6%9D%82&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%22969505466%22%7D)的。
-
-从个人来说，处理自己没把握的事情，或者是不喜欢的事情，很多的细节是可以展开去突破的。这其中带来的经验与自我突破的意义与价值，也是模式人生所无法表达的。
-
-作者：知乎用户thgJES  
-链接：https://www.zhihu.com/question/363207954/answer/969505466  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
----
-（2020）
-[中国人在_美国学网络安全_专业如何在_美国_就业？](https://www.zhihu.com/question/432204036/answer/1598886791)
-回国就业。
-
----
-[除了_美国 网络安全_出国留学还有哪些国家推荐?](https://www.zhihu.com/question/548622533/answer/2629175205)
-
-可考虑[瑞典](https://www.zhihu.com/search?q=%E7%91%9E%E5%85%B8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%222629175205%22%7D)，学费相比英美而言性价比高，教育质量也有保障，毕业后留在瑞典的就业机会也多。
-推荐[瑞典西部大学](https://www.zhihu.com/search?q=%E7%91%9E%E5%85%B8%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%222629175205%22%7D)网络安全硕士1年制，细节如下：... etc.
-
----
-#### 具体的建议
+71 【替大家试过了，油管才是国际生的学习神器 - any爬藤竞赛精选 | 小红书 - 你的生活指南】 😆 yBLzVQlihQmtygn 😆 https://www.xiaohongshu.com/discovery/item/6688f7cd000000001f0053bb?source=webshare&xsec_token=CBuBKhOUy6oodGoMlreREVdU2tJHlDPqec2tZOrTwloo4=&xsec_source=pc_share
 
 
 

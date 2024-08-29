@@ -8,6 +8,10 @@
 ### Related Topics
 
 
+### Learning Resources
+🎬【你知道那个帮你叫醒主机的BIOS，究竟是怎么发展而来的吗【BIOS发展史】】 https://www.bilibili.com/video/BV1gb421h7C4/?share_source=copy_web
+
+
 
 ## Intro
 > 🔗  https://zhuanlan.zhihu.com/p/54108702

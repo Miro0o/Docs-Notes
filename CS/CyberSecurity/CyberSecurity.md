@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Security](🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [Security Industry & Companies](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 
 
 ### Courses & Projects & Labs
@@ -137,6 +137,11 @@ Hacker101 is a free class for web security. Whether you’re a programmer with a
 
 ---
 📖 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
+
+---
+https://space.bilibili.com/31574286/channel/collectiondetail?sid=2864880
+合集·视频翻译
+关于一些漏洞利用的方法、技术
 
 
 ### Info & Res & News

@@ -111,9 +111,8 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 ### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
 1. Quick CS Intro
-	1. ↗ [🌲 Road To CS](🌲%20Road%20To%20CS.md#📌%20Guidelines%20&%20Roadmaps)
-	2. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-	3. ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
+	1. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+	2. ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
 2. CS Core /Foundation
 	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
@@ -175,7 +174,6 @@ Computer Science
 - ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../🏠%20Assets/Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
 - ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
 - 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
-- 
 
 Computer Security /CyberSecurity
 

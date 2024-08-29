@@ -23,6 +23,9 @@
 
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 
+https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id_from=333.788.0.0
+合集·直观理解计算机技术
+
 
 ### Books
 📖 [CSAPP](http://csapp.cs.cmu.edu/3e/home.html)
