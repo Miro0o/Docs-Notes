@@ -159,11 +159,15 @@ https://www.virustotal.com/gui/home/upload
 https://www.virscan.org/
 
 https://exchange.xforce.ibmcloud.com/
+IBM
 
 https://opentip.kaspersky.com/
+卡巴斯基 ｜ Kaspersky
 
 https://mac-cloud.riskivy.com/detect
+
 https://habo.qq.com/
+哈勃
 
 
 
@@ -233,3 +237,11 @@ In this chapter, you will learn the principles and practices of passive reconnai
 [最受黑客和安全专家青睐的10款搜索引擎]: https://mp.weixin.qq.com/s/Shtq_iu95lyhnOFDKzc2kA
 
 [HW常用网站]: https://mp.weixin.qq.com/s/5eBWZWq3bxqj7TInh78nAw
+- 深信服的，还有沙箱
+- 山石的
+- 绿盟的
+- 360的
+- 奇安信的
+- 华为的
+- 微步我就不放网站了，大伙应该都有
+- etc..

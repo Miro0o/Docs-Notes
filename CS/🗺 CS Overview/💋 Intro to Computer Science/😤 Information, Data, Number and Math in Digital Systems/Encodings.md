@@ -314,3 +314,5 @@ The **reflected binary code** (**RBC**), also known as **reflected binary** 
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)（关于字符集的最基本知识）
 - [谈谈Unicode编码](http://www.pconline.com.cn/pcedu/empolder/gj/other/0505/616631.html)
 - [RFC3629：UTF-8, a transformation format of ISO 10646](http://www.ietf.org/rfc/rfc3629.txt)（如果实现UTF-8的规定）
+
+🎬【从零实现浮点数(IEEE 754) |  sphaerophoria】 https://www.bilibili.com/video/BV1AT421r7iL/?share_source=copy_web

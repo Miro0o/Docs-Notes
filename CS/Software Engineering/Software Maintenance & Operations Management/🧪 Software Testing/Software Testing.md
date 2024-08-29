@@ -111,17 +111,8 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 
 ### The "box" approach
 #### White-box testing
-
-
-
 #### Black-box testing
-
-
-
 #### Visual testing
-
-
-
 #### Grey-box testing
 
 
@@ -139,26 +130,21 @@ Here lists several [testability](https://en.wikipedia.org/wiki/Software_testabil
 ## 📡 Testing types, techniques, and tactics
 > 🔗 https://en.wikipedia.org/wiki/Software_testing#Testing_types,_techniques_and_tactics
 
-
-
 ↗️   [Testing Types](Testing Types.md) 
 
 
 
 ## 🌊 Testing Process
-
 ↗️ [Testing Model](Testing Model.md) 
 
 
 
 ## 🤖 Automated Testing
-
 ↗️ [Automated Testing](🤖 Automated Testing/Automated Testing.md) 
 
 
 
 ## 🐛 Software Defect (Bug)
-
 ↗️  [Software Defect](Software Defect.md) 
 
 

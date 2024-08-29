@@ -82,7 +82,6 @@ https://www.xiaohongshu.com/user/profile/5d539dc7000000001603cd49
 😆文书牛逼，选校牛逼，Top校申请经验丰富，擅长逆袭 
 😉本硕博申请/背景提升/科研/实习 
 朋友圈：@鹿姐的留学朋友圈
-
 ###### 个人IP - 一半分享个人经历一半卖课做广
 https://www.xiaohongshu.com/user/profile/5be02fd1d694a70001868a58?xhsshare=CopyLink&appuid=64c3460e000000000e02735d&apptime=1720250302&share_id=bd2699d654304779abc94ddd4001940a
 凯西姐姐
@@ -98,6 +97,11 @@ https://www.xiaohongshu.com/user/profile/58d9cadd82ec397eff42b358?xhsshare=CopyL
 📖Vanderbilt-UPenn
 📝在美国做教育
 📍西雅图
+###### 营销贴文案/思路
+![](../../Assets/Pics/Screenshot%202024-08-28%20at%2023.41.06.png)
+11 【25fall留学文书个人原创写作个人陈述动机信 - 小红薯6629F3A4 | 小红书 - 你的生活指南】 😆 CuoFtIUxrR10Ftb 😆 https://www.xiaohongshu.com/discovery/item/66887dc1000000001f005d3e?source=webshare&xsec_token=CBMo_o9HEWwLxkGl52fqtkH5LcpxT9kiCGQy-NOsaNzyY=&xsec_source=pc_share
+
+
 ##### 营销技术
 ###### 总体要领
 1. 合适的配图 + 标题党
@@ -108,7 +112,6 @@ https://www.xiaohongshu.com/user/profile/58d9cadd82ec397eff42b358?xhsshare=CopyL
 	2. 实用信息整理归纳
 	3. 真相揭露型
 	4. 商业吹捧型
-
 ###### 个例分析
 
 **套近乎/搭讪型**

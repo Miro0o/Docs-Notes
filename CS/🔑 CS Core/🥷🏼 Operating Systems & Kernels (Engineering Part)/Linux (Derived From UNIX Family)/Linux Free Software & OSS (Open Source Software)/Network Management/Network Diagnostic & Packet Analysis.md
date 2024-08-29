@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Reconnaissance & Exploration](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/Reconnaissance%20&%20Exploration.md)
-↗ [Wireshark](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
+↗ [Wireshark](../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
 
 
 
@@ -20,7 +20,7 @@
 
 
 ### 👉 `tcpdump` | `wireshark`
-↗ [Wireshark](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
+↗ [Wireshark](../../../../../CyberSecurity/☠️%20Kill%20Chain/Reconnaissance%20&%20Exploration/📌%20OSINT%20&%20Passive%20Recon%20Tools/Packet%20Analyzing%20&%20Sniffing%20&%20Spoofing%20Tools/Wireshark/Wireshark.md)
 ↗ [tcpdump](tcpdump.md)
 
 

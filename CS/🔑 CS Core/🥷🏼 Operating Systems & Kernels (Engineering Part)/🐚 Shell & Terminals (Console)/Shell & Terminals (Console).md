@@ -11,6 +11,8 @@
 ↗ [Messaging & Remote Accessing](../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/Messaging%20&%20Remote%20Accessing/Messaging%20&%20Remote%20Accessing.md)
 ↗ [SSH (Secure SHell)](../../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 
+↗ [Computer IO System](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
+↗ [OS IO System](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
 ↗ [System Calls](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 
 
@@ -18,7 +20,9 @@
 🎉 https://asciinema.org
 Record and share your terminal sessions, the simple way.
 
-【系统调用和 Shell (freestanding shell, 终端和 job control) [南京大学2022操作系统-P13]】 https://www.bilibili.com/video/BV1m3411n7xp/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬【系统调用和 Shell (freestanding shell, 终端和 job control) [南京大学2022操作系统-P13]】 https://www.bilibili.com/video/BV1m3411n7xp/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬【How Linux Kernel Prints Text on Screen】 https://www.bilibili.com/video/BV1ex4y1t7WF/?share_source=copy_web
 
 
 

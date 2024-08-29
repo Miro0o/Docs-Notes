@@ -38,3 +38,5 @@ Writing Your Graduate School Application Essay | CMU
 [👍 Another Annotated Example: CS PhD Statement of Purpose]: https://eugenielai.github.io/posts/another-annotated-sop.html
 
 [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application]: https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html
+
+[🤔「申请文书」万字长文！文书申请中容易忽视的信息来源：学校官网&如何辨别中介文书好坏]: https://www.1point3acres.com/bbs/thread-1068828-1-1.html

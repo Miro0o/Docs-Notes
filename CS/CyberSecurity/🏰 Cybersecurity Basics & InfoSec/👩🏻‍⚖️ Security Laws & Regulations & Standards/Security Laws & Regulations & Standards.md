@@ -1,11 +1,18 @@
-# Laws & Regulations
+# Security Laws & Regulations & Standards
 
 [TOC]
 
 
 
 ## Res
-↗ [China](../../../🔑%20CS_Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20Chin%20IT%20Laws%20&%20Institutions%20in%20China/China.md)
+### Related Topics
+↗ [IT Laws & Institutions in China](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20IT%20Laws%20&%20Institutions%20in%20China/IT%20Laws%20&%20Institutions%20in%20China.md)
+↗ [IT Laws & Institutions in European Union](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇪🇺%20IT%20Laws%20&%20Institutions%20in%20European%20Union/IT%20Laws%20&%20Institutions%20in%20European%20Union.md)
+↗ [IT Laws & Institutions in United Kingdom](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇬🇧%20IT%20Laws%20&%20Institutions%20in%20United%20Kingdom/IT%20Laws%20&%20Institutions%20in%20United%20Kingdom.md)
+↗ [IT Laws & Institutions in United States](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇺🇸%20IT%20Laws%20&%20Institutions%20in%20United%20States/IT%20Laws%20&%20Institutions%20in%20United%20States.md)
+
+
+### Other Resources
 
 
 
@@ -24,7 +31,6 @@
 - 地方标准
 - 团体标准
 - 企业标准
-
 #### 我国网络安全标准化进程及标准化组织机构
 - 网络安全标准化的意义和作用  
     网络安全标准化是国家网络安全保障体系建设的重要组成部分，在构建安全的网络空间、推动网络治理体系变革方面发挥着基础性、规范性、引领性的作用。
@@ -44,8 +50,6 @@
     - 密码行业标准化技术委员会
 - 标准制定流程
 	- ![](../../../../Assets/Pics/Pasted%20image%2020231008155948.png)
-
-
 #### 国外网络安全标准化组织（略）
 ISO/IEC JTCI SC27：网络安全领域最权威和得到国际最广泛认可的标准化组织
 
@@ -61,5 +65,23 @@ ISO/IEC JTCI SC27：网络安全领域最权威和得到国际最广泛认可的
 
 
 
-## Ref
+# Ref
+[中国网络与信息安全九大法律法规介绍（附下载）]: https://mp.weixin.qq.com/s/h_lAP-NWgDR36KrIjpjVFg
+- 法规介绍
+	- 网络安全法
+	- 数据安全法
+	- 个人信息保护法
+	- 密码法
+	- 反恐怖主义法
+	- 电信条例
+	- 计算机信息网络国际联网安全保护管理办法
+	- 互联网信息服务管理办法
+	- 关键信息基础设施安全保护条例
+- 技术标准
+	- GB/T 25069-2022 信息安全技术 术语
+	- GB/T 22240-2020 信息安全技术 网络安全等级保护定级指南
+	- GB/T 25070-2019 信息安全技术 网络安全等级保护安全设计技术要求
+	- GB/T 28448-2019 信息安全技术 网络安全等级保护测评要求
+	- GB/T 36627-2018 信息安全技术 网络安全等级保护测试评估技术指南
+	- 
 

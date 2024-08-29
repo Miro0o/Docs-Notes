@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9499e8969560bf69",
+        "id": "bd18b504a98e41f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c04d2a29d21685",
+            "id": "2a79bdc5afa3b64a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS194,294-177 Decentralized Finance/CS194,294-177 Decentralized Finance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "964f9be805a90208",
+            "id": "d50d37ba9d0da197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/IDC & Data Center Networking.md",
+                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "644a12e24f6e26af",
+            "id": "0caa0eb45a454162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/📌 Legacy BIOS (Basic IO System)/Legacy BIOS (Basic IO System).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a7c4abe5ab7ce15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md"
               }
             }
           },
@@ -198,35 +211,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "644a12e24f6e26af",
+  "active": "5a7c4abe5ab7ce15",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/IDC & Data Center Networking.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Taxonomy & Computer (Hardware) Components.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Listening/News report/NBC/Meet the press/2024/2024.8.27.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Listening/News report/NBC/Meet the press/2023/2023.9.6.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/F.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
-    "CS/🔑 CS Core/🧬 Computer System/System Software.md",
-    "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/Computer Motherboards.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/High Performance Network (HPN) & IDC Technologies.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Next-Generation Network (NGN).md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Computer Storage & Database Systems.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/🚀 High Performance Storage (HPS)/Datacenter.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Overlay Network.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
-    "CS/Data Science/Data Science.md",
-    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Virtualization/Network Virtualization.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/vLAN & VxLAN/vLAN & VxLAN.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Games.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Real World Network Infrastructure Implementations & Communication Services Provider/U.S. Network Infrastructure & Communication Services Providers.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Real World Network Infrastructure Implementations & Communication Services Provider/Chinese Network Infrastructure & Communication Service Providers.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/📌 Vulnerability Government（漏洞管控）/🤥 Real World Vulnerabilities Collections & Analysis/Yik Hak.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/Software Vulnerability & Vulnerability Analysis (VA).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities/Vulnerabilities.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/DSL(Domain Specific Languages) & GPL(General Purpose Languages).md",
+    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Programming & RPC/🏛️ RPC Arch/Serialization/Serialization.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/How to choose a university & country?.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Countries & Research Programs List.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Living Abroad China 🇨🇳.md",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/📌 Legacy BIOS (Basic IO System)/Legacy BIOS (Basic IO System).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/📌 Pseudo tty (pty) Based/Pseudo tty (pty) Based.md",
+    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Clients & Remote Shell/PuTTY.md",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Security Industry & Companies.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Software Industry & Providers/Internet Industry & Companies/Internet Industry & Companies.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/CrowdStrike-Windows.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/DRAM Technology & DDR.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/Apple Chips.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Encodings.md",
+    "Finance & Economics/Finance & Economics.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/RDMA (Remote DMA)/RDMA (Remote DMA).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Web Software Reverse",
+    "Assets/Pics/Screenshot 2024-08-28 at 23.41.06.png",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS168 Introduction to Internet Architecture",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS194,294-177 Decentralized Finance",
     "Assets/Pics/Pasted image 20240826221957.png",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/FAQ.md",
     "Assets/Pics/Pasted image 20240816223509.png",
     "Assets/Pics/Pasted image 20240816223431.png",
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/Embedded Device Motherboards",
@@ -235,17 +253,12 @@
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/📌 sing-box",
     "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/🤖 Test Automation/APP Test Automation/Android Monkey",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Rust Runtimes Environments",
-    "CS/Embedded & Internet of Things/Embedded Programming/HLS (High Level Synthesis)",
-    "CS/Embedded & Internet of Things/Embedded Programming/HCL ()",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Video Conferencing",
     "Assets/Pics/4A0FF65C-B64C-490E-ADAE-517E086D6F33.png",
     "Assets/Pics/Screenshot 2024-07-26 at 2.01.12 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.53 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.35 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.32.38 PM.png",
     "Assets/Pics/Screenshot 2024-07-21 at 12.41.22 AM.png",
-    "Assets/Pics/Screenshot 2024-07-21 at 12.35.01 AM.png",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

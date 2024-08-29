@@ -169,3 +169,5 @@ The purpose of this article is to explain how to make a CPU out of rocks and san
 [如何动手做出一个 CPU，很简单]: https://mp.weixin.qq.com/s/6WnxSF5QfVZ9pdcofYPKhg
 
 ![](../../../../../../../../Assets/Pics/Pasted%20image%2020240329161411.png)
+
+【顶级DIY！国外牛人在Excel中构建出16bit CPU：主频3Hz、128KB RAM】 https://www.bilibili.com/video/BV1m5411k7ny/?share_source=copy_web
