@@ -60,12 +60,13 @@ Java Card technology provides a secure environment for applications that run on 
 https://www.geeksforgeeks.org/java/
 Java tutorial -- GeeksforGeeks
 
+https://javaguide.cn
+「Java学习 + 面试指南」涵盖 Java 程序员需要掌握的核心知识
+
 [Java | Code Cademy](https://www.codecademy.com/catalog/language/java)
 
 [菜鸟](https://www.runoob.com/java/java-tutorial.html)
 [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
-
-[javaguide](https://javaguide.cn/high-availability/performance-test.html)
 
 🎬 [遇见狂神说](https://space.bilibili.com/95256449)
 🎬 [韩顺平](https://space.bilibili.com/651245581)

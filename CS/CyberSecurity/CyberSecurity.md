@@ -138,9 +138,32 @@ Hacker101 is a free class for web security. Whether you’re a programmer with a
 📖 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
 
 ---
-https://space.bilibili.com/31574286/channel/collectiondetail?sid=2864880
+🎬 👍 https://space.bilibili.com/31574286/channel/collectiondetail?sid=2864880
 合集·视频翻译
 关于一些漏洞利用的方法、技术
+
+---
+👍 🤔 https://www.henry-blog.life/henry-blog
+计算机安全系列笔记
+- Cobalt Strike 系列
+- OPSEC (免杀)
+- Shellcode 加密
+- Shellcode 加载器
+- Web 渗透
+- 内网渗透
+- 协议分析
+- 权限提升
+- 蓝队技术
+- 进程注入
+- 逆向技术
+- 钓鱼技术
+- 隧道应用
+- 基础学习
+- 漏洞复现
+- 靶场系列
+- 代码审计
+- 一些杂七杂八的
+- 开发工具与环境
 
 
 ### Info & Res & News

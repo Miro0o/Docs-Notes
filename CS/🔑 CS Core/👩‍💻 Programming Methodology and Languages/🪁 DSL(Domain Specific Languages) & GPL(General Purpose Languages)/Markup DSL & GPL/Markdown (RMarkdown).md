@@ -33,7 +33,7 @@ Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language)�
 
 ## RMarkdown
 > 🔗 https://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/rmarkdown.html
-> ↗ [RStudio](../../Interpreted%20Languages/R%20Language/RStudio.md)
+> ↗ [RStudio](../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Lower%20CASE%20Tools/IDE%20(Integrated%20Development%20Environment)/RStudio.md)
 > ↗ [R Language](../../Interpreted%20Languages/R%20Language/R%20Language.md)
 > ↗ [Document Converter](../⚙️%20Document%20Converter/Document%20Converter.md)
 > ↗ [Pandoc](../⚙️%20Document%20Converter/Pandoc.md)

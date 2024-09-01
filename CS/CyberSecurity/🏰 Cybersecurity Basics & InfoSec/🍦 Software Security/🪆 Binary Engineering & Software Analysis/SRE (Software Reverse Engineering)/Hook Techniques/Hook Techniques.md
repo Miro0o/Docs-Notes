@@ -15,7 +15,7 @@
 
 
 ## Ref
-[HOOK技术]: https://www.henry-blog.life/henry-blog/ni-xiang-ji-shu/hook-ji-shu
+[🤔 HOOK技术]: https://www.henry-blog.life/henry-blog/ni-xiang-ji-shu/hook-ji-shu
 Hook通常分为两种形式，分别是修改函数代码和修改函数地址
 (这个帖子主要讲windows hook)
 
