@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [YANG (Yet Another Next Generation)](../../../📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🚔%20Network%20Managements%20&%20Standards/NETCONFIG%20&%20YANG/YANG%20(Yet%20Another%20Next%20Generation)/YANG%20(Yet%20Another%20Next%20Generation).md)
+↗ [YANG (Yet Another Next Generation)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Modeling%20(Specification)%20DSL%20&%20GPL/YANG%20(Yet%20Another%20Next%20Generation).md)
 
 
 ## Intro

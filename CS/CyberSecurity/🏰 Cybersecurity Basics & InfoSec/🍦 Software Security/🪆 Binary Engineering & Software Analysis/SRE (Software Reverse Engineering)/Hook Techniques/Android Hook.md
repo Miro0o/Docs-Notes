@@ -33,14 +33,18 @@ Lucky Patcher is a free Android app that can mod many apps and Games, Block ads,
 ## Ref
 [Android中常见的HOOK框架收集 | CSDN]: http://t.csdnimg.cn/4ieMP
 1. Xposed：Java层的HOOK框架，由于要修改Zgote进程，需要Root;
+	1. https://github.com/rovo89/Xposed
 2. CydiaSubstrator:本地层的HOOK框架，本质上是一个inline Hook
 3. dexposed框架：随着阿里的热修复的框架：原理上跟Xposed有很多雷同，dexposed框架（缺点：仅支持Dalvik不支持ART）；
 4. AndFix框架：找到方法在ART中的结构，然后将结构体的内容全部替换为Hook的内容；（缺点：原方法的信息全部被替换，所以无法再执行原方法 ）；
 5. Sophix 框架：后来阿里升级了一下，先对原来的方法作为备份，然后替换。（缺点：）
-6. AndroidMethodHook框架：https://github.com/panhongwei/AndroidMethodHook
+6. AndroidMethodHook框架
+	1. https://github.com/panhongwei/AndroidMethodHook
 7. Legend框架：在AndFix框架的基础上，在方法进行替换前进行了方法的备份；
-8. YAHFA框架：http://rk700.github.io/2017/06/30/hook-on-android-n/
-9. EPIC框架：既然替换入口的方式无法达到Hook所有类型方法的目的，那么如果不替换入口，而是直接修改入口里面指向的代码呢？（这种方式有个高大上的学名：callee side dynamic rewriting) 这个框架是VirtualXposed和太极实现的一个基础。参考：http://weishu.me/2017/11/23/dexposed-on-art/
+8. YAHFA框架
+	1. http://rk700.github.io/2017/06/30/hook-on-android-n/
+9. EPIC框架：既然替换入口的方式无法达到Hook所有类型方法的目的，那么如果不替换入口，而是直接修改入口里面指向的代码呢？（这种方式有个高大上的学名：callee side dynamic rewriting) 这个框架是VirtualXposed和太极实现的一个基础。
+	1. http://weishu.me/2017/11/23/dexposed-on-art/
 
 随着后来VirtrualApp多开的出现,Java层的HOOK出现了VirtualXposed和太极：
 均是免Root的。
@@ -53,8 +57,13 @@ Lucky Patcher is a free Android app that can mod many apps and Games, Block ads,
 	4. [太极（类 Xposed 框架）停止维护](https://www.oschina.net/news/291534/taichi-android-xposed-eol)
 12. 虚拟大师：一个运行在手机上的虚拟机，有点像windows下的VMware;缺点就是耗资源比较卡。
 13. SandHook：坑大之作，https://bbs.pediy.com/thread-249163.htm
-14. riru:https://github.com/RikkaApps/Riru替换一个会被 zygote 进程加载的共享库libmemtrack
+14. riru: 替换一个会被 zygote 进程加载的共享库libmemtrack
+	1. https://github.com/RikkaApps/Riru 
 15. EdXposed：使用的是riru+改进的yahfa
+	1. https://github.com/ElderDrivers/EdXposed?tab=readme-ov-file
 16. Magisk:另辟蹊径，通过挂载一个与系统文件相隔离的文件系统来加载自定义内容，为系统分区打开了一个通往平行世界的入口，所有改动在那个世界（Magisk 分区）里发生，在必要的时候却又可以被认为是（从系统分区的角度而言）没有发生过
 
 隐藏Root的实现： https://bbs.pediy.com/thread-247408.htm
+
+17. LSPosed Framework
+	1. https://github.com/LSPosed/LSPosed

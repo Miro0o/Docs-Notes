@@ -52,7 +52,7 @@
 
 
 ## Web Scraping
-> via python ↗ [Web Scraping](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python%20Applications/Web%20Scraping/Web%20Scraping.md)
+> via python ↗ [Web & HTML Scraping](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python%20Applications%20&%20Programming/Web%20&%20HTML%20Scraping/Web%20&%20HTML%20Scraping.md)
 
 
 The goal is to extract data from website.

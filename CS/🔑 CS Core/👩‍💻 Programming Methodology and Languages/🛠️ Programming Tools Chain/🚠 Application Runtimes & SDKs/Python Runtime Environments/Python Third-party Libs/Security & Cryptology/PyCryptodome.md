@@ -18,7 +18,7 @@ pycrypto:
 STOP USING THEM! 
 The reason as follows:
 
-↗ [Troubleshooting / 👉 ImportError: No module named Crypto.Cipher](../Troubleshooting.md#👉%20ImportError:%20No%20module%20named%20Crypto.Cipher)
+↗ [Troubleshooting / 👉 ImportError: No module named Crypto.Cipher](../../Troubleshooting.md#👉%20ImportError:%20No%20module%20named%20Crypto.Cipher)
 
 
 ### 2️⃣ USE `PYCRYPTODOME` INSTEAD!!

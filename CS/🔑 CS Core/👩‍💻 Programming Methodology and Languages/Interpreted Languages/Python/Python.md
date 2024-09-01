@@ -30,7 +30,7 @@ Python Enhancement Proposals (PEPs)
 ↗ [Python Based AI](../../../../Artificial%20Intelligence/🛫%20Frameworks%20&%20Implementations%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
 
 
-### 🚊 Tutorials
+### 🚊 Learning Resources
 - [Python 3 Module of the Week | pymotw.com](https://pymotw.com/3/)
 > PyMOTW-3 is a series of articles written by [Doug Hellmann](http://doughellmann.com/) to demonstrate how to use the modules of the [Python](http://www.python.org/) 3 standard library. It is based on the original [PyMOTW](http://pymotw.com/2/) series, which covered Python 2.7. See [About Python Module of the Week](https://pymotw.com/3/about.html) for details including the version of Python and tools used.
 
@@ -45,17 +45,18 @@ Python Enhancement Proposals (PEPs)
 📄 https://learnbyexample.github.io/tips/#python
 tips about python!
 
+📖 https://docs.python-guide.org
+📖 https://pythonguidecn.readthedocs.io/zh/latest/ 🇨🇳
+🚧 https://github.com/kennethreitz/python-guide
+The Hitchhiker’s Guide to Python!
+
 🔥 https://www.fullstackpython.com/table-of-contents.html
 [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) is an open book that explains concepts in plain language and provides helpful resources for those topics.
 
-
-### 📖 Books
 [O'REIILY books (free pdf)](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1)
 
 📚 [invent with python](https://inventwithpython.com)
 🇨🇳 [InventWithPython 中文系列教程](https://github.com/apachecn/invent-with-python-zh)
-
-> 💪 practice Python with [Machine Learning](../../../AI/Machine learning/Python ML/ch 0.md) 
 
 
 ### Learn in Action
