@@ -11,7 +11,7 @@
 ### Related Topics
 ↗ [NAT (Network Address Translation)](../MiddleBoxes/NAT%20(Network%20Address%20Translation)/NAT%20(Network%20Address%20Translation).md)
 
-↗ [MAC (Media Access Control) Protocol](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/📌%20MAC%20(Media%20Access%20Control)%20Protocol/MAC%20(Media%20Access%20Control)%20Protocol.md)
+↗ [MAC (Media Access Control) Protocol & Layer 2 Lower Sublayer](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/📌%20MAC%20(Media%20Access%20Control)%20&%20Layer%202%20Lower%20Sublayer/MAC%20(Media%20Access%20Control)%20Protocol%20&%20Layer%202%20Lower%20Sublayer.md)
 ↗ [Link-Layer Addressing (MAC Addressing)](../../0x06%20Data%20Link%20Layer/📌%20Link%20Layer%20(Switched%20Network)%20Basics/Link-Layer%20Addressing%20(MAC%20Addressing).md)
 
 ↗ [IPv4](IPv4/IPv4.md)

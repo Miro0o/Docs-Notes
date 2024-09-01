@@ -1,4 +1,4 @@
-# MAC (Media Access Control) Protocol
+# MAC (Media Access Control) Protocol & Layer 2 Lower Sublayer
 
 [TOC]
 

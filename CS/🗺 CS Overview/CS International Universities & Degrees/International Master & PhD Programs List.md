@@ -10,7 +10,7 @@
 ↗ [Academics](../../../../Academics/Academics.md)
 ↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
-↗ [Natural Science Information](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/Natural%20Science%20Information.md)
+↗ [Natural Science Information](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
 
 
 ### Time Table

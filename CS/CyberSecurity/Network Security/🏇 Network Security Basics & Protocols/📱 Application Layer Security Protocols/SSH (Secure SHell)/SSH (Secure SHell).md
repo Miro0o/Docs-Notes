@@ -11,7 +11,7 @@
 
 
 ## Res
-📂 [SSH Official Docs](https://www.ssh.com/academy/ssh)
+📂 https://www.ssh.com/academy/ssh
 
 
 ### Related Topics
@@ -54,7 +54,6 @@ sudo vim /etc/ssh/sshd_config
 
 ### Running & Configuring SSH
 This section contains links topics around using, configuring, and administering SSH.
-
 - [Command line options](https://www.ssh.com/ssh/command)
 - [Tectia SSH manuals](https://www.ssh.com/manuals/)
 - [sshd](https://www.ssh.com/ssh/sshd) - The SSH server on Unix/Linux
@@ -65,7 +64,6 @@ This section contains links topics around using, configuring, and administering 
 
 ### Security of SSH and attacks against it
 The SSH protocol is believed to be **secure against cryptographic attacks on the network**, provided keys and credentials are properly managed. However, we do not recommend using `diffie-hellman-group1-sha1` key exchange. It uses a 768 bit Diffie-Hellman group, which may be breakable by governments today. Larger groups are probably ok. Recent OpenSSH versions have disabled this group by default. See [sshd_config](https://www.ssh.com/ssh/sshd_config) for configuring what key exchanges to use.
-
 - [Analysis of BothanSpy and Gyrfalcon - the presumed CIA hacking tools](https://www.ssh.com/ssh/cia-bothanspy-gyrfalcon)
 - [Man-in-the-middle attacks against SSH](https://www.ssh.com/attack/man-in-the-middle)
 - [Imperfect forward secrecy - How Diffie-Hellman fails in practice](https://weakdh.org/)
@@ -88,7 +86,7 @@ The [PrivX On-Demand Access Manager](https://www.ssh.com/products/privx/) can be
 
 
 
-## SSH Implementaions
+## SSH Implementations
 ↗ [SSH Clients & Remote Shell](SSH%20Clients%20&%20Remote%20Shell/SSH%20Clients%20&%20Remote%20Shell.md)
 
 

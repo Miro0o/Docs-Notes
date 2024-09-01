@@ -24,7 +24,7 @@
 ## 2️⃣ Link Access
 **Link access**. A **medium access control (MAC) protocol** specifies the rules by which a frame is transmitted onto the link. For point-to-point links that have a single sender at one end of the link and a single receiver at the other end of the link, the MAC protocol is simple (or nonexistent) -- the sender can send a frame whenever the link is idle. The more interesting case is when multiple nodes share a single broadcast link -- the so-called **multiple access problem**. Here, the MAC protocol serves to coordinate the frame transmissions of the many nodes.
 
-↗ [Multiple Access Links & Protocols](../../Switched%20LAN/Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Multiple%20Access%20Links%20&%20Protocols.md)
+↗ [Multiple Access Links & Protocols](../../Switched%20LAN/📢%20Broadcast%20Channels/Multiple%20Access%20Links%20&%20Protocols/Multiple%20Access%20Links%20&%20Protocols.md)
 
 
 

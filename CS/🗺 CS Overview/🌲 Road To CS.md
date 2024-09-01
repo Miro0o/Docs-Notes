@@ -195,7 +195,7 @@ Software Engineering
 
 
 ## 🎉 More Res
-> ↗ [😅 Wiki & Resources Searching](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources%20Searching.md)
+> ↗ [Wiki Projects & Wikimedia Foundation (WMF)](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 
 

@@ -1,4 +1,4 @@
-# Linux Free Software & OSS (Open Source Software)
+# Linux Free Software & FLOSS & FOSS
 
 [TOC]
 

@@ -13,7 +13,7 @@
 ↗ [🏫 Missing Semester](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🏫%20Missing%20Semester.md)
 ↗ [🎭 The Art of Command Line](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🎭%20The%20Art%20of%20Command%20Line.md)
 ↗ [🤯 Awesome List](../../../../../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
-↗ [Linux Free Software & OSS (Open Source Software)](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
+↗ [Linux Free Software & FLOSS & FOSS](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)
 ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
 ↗ [Commands CheatCheet & Online Search](🧑‍🍳%20Shell%20Helper/Shell%20Commands%20Prompts%20&%20Correction/Commands%20CheatCheet%20&%20Online%20Search.md)
 - ↗ [MacOS cmd Cheatsheet](../../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/MacOS%20cmd%20Cheatsheet.md)
