@@ -5,13 +5,15 @@
 
 
 ## Res
-### Related Data Link Layer Implementations
+### Related Topics
 ↗ [OS IO System](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/OS%20IO%20System.md)
 ↗ [IO Control Methods](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/📌%20IO%20Control%20Methods/IO%20Control%20Methods.md)
 
 ↗ [Computer Bus (Datapath) & Interfaces & Protocols](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols.md)
 - ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 - ↗ [Bus Specifications & Communication Control Systems](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/📌%20Bus%20Specifications%20&%20Communication%20Control%20Systems/Bus%20Specifications%20&%20Communication%20Control%20Systems.md)
+
+↗ [Multiprotocol Label Switching (MPLS) (Layer 2.5 Protocol)](../0x05%20Network%20Layer/🎮%20Control%20Plane%20(Routing%20&%20Managements)/Network%20Routing%20(IP%20Address%20Modes)%20(Route%20Selection)/Multiprotocol%20Label%20Switching%20(MPLS)%20(Layer%202.5%20Protocol).md)
 
 ↗ [Mobile Network Technology & Cellular Network](../0x07%20Physical%20Layer/Wireless%20&%20Mobile%20Network/Mobile%20Network%20Technology%20&%20Cellular%20Network/Mobile%20Network%20Technology%20&%20Cellular%20Network.md)
 ↗ [Physical & Link Layer Security](../../../../CyberSecurity/Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/🔌%20Physical%20(Link)%20Layer%20Security/Physical%20&%20Link%20Layer%20Security.md)
@@ -43,8 +45,8 @@ In discussing the link layer, we’ll see that there are two fundamentally diffe
 
 - The second type of link-layer channel is the **point-to-point communication link**, such as that often found between two routers connected by a long-distance link, or between a user’s office computer and the nearby Ethernet switch to which it is connected. Coordinating access to a point-to-point link is simpler; the reference material on this book’s Web site has a detailed discussion of the **Point-to-Point Protocol (PPP)**, which is used in settings ranging from dial-up service over a telephone line to high-speed point-to-point frame transport over fiber-optic links.
 
-↗ [Broadcast Channels](Switched%20LAN/Broadcast%20Channels/Broadcast%20Channels.md)
-↗ [P2P Channels](Switched%20LAN/P2P%20Channels/P2P%20Channels.md)
+↗ [Broadcast Channels](Switched%20LAN/📢%20Broadcast%20Channels/Broadcast%20Channels.md)
+↗ [P2P Channels](Switched%20LAN/〰️%20P2P%20Channels/P2P%20Channels.md)
 
 
 ### Implementation of Link Layer 

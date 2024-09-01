@@ -41,7 +41,7 @@ Ubuntu man page repository
 >
 > **Canonical** leads the Ubuntu ecosystem, partnering with public cloud and hardware providers.
 >
-> 👉 more info on the difference between the two distros at ↗ [FAQ/ 👉 Diff between Ubuntu & Debian](../FAQ.md#👉%20Diff%20between%20Ubuntu%20&%20Debian)
+> 👉 more info on the difference between the two distros at ↗ [FAQ/ 👉 Diff between Ubuntu & Debian](../../FAQ.md#👉%20Diff%20between%20Ubuntu%20&%20Debian)
 
 Ubuntu is derived from Debian. It means that Ubuntu uses the same APT packaging system as Debian and shares a huge number of packages and libraries from Debian repositories. It utilizes the Debian infrastructure as base.
 

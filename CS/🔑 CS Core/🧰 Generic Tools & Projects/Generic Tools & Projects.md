@@ -9,7 +9,7 @@
 ↗ [Kill Chain](../../CyberSecurity/☠️%20Kill%20Chain/Kill%20Chain.md)
 ↗ [Kali Tools](../../CyberSecurity/☠️%20Kill%20Chain/🐉%20Kali%20Linux/🤺%20Kali%20Tools/Kali%20Tools.md)
 
-↗ [Linux Free Software & OSS (Open Source Software)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software).md)
+↗ [Linux Free Software & FLOSS & FOSS](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)
 ↗ [macOS CLI Software](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md)
 ↗ [📌 Awesome Open Source CLI Software](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 ↗ [🤯 Awesome List](../../🗺%20CS%20Overview/🤯%20Awesome%20List.md)
@@ -21,7 +21,7 @@
 ↗ [Tools for Math](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Tools%20for%20Math.md)
 
 ↗ [实用工具箱](../../🗺%20CS%20Overview/CS自学指南（转）/实用工具箱.md)
-↗ [😅 Wiki & Resources Searching](😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources%20Searching.md)
+↗ [Wiki Projects & Wikimedia Foundation (WMF)](😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 
 

@@ -10,7 +10,7 @@
 ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 ↗ [Local Procedure Call (LPC)](../../../OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Local%20Procedure%20Call%20(LPC).md)
 
-↗ [IDL (Interface Description Language) & Data Representation](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation.md)
+↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
 ↗ [Data Serialization & Deserialization](../../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x02%20Presentation%20Layer%20(Syntax%20Layer)/Data%20Serialization%20&%20Deserialization/Data%20Serialization%20&%20Deserialization.md)
 
 ↗ [Appendix / 什么是RPC？](../../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/RPC%20Services/Appendix.md)
@@ -62,7 +62,7 @@ RPCs are a form of inter-process communication (IPC), in that different processe
 
 
 ### Standard Contact Mechanisms
-To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an ↗ [IDL (Interface Description Language) & Data Representation](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation.md) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
+To let different clients access servers, a number of standardized RPC systems have been created. Most of these use an ↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers.
 
 > For more at ↗ [IDL (Interface Description Language)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)/IDL%20(Interface%20Description%20Language).md)
 

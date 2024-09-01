@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [IEEE 802.1](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802.1.md)
+↗ [IEEE 802.1](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802.1.md)
 ↗ [EAP (Extensible Authentication Protocol)](../../📌%20Physical%20&%20Link%20Layer%20Security%20Protocols/EAP%20(Extensible%20Authentication%20Protocol)/EAP%20(Extensible%20Authentication%20Protocol).md)
 
 
@@ -31,7 +31,7 @@ EAPoL is one of the authentication mechanism defined by 802.1x. EAPoL confirms w
 
 > ‼️ IEEE 802.1x defines **EAPol** as an authentication mechanism. Before authenticated, 802.1x denied any traffic except the EAPoL package; After successfully authenticated, 802.1x allows any traffic from that authenticated user. 
 
-802.1x is a work group under ↗ [IEEE 802.1](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802.1.md).
+802.1x is a work group under ↗ [IEEE 802.1](../../../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/📢%20Broadcast%20Channels/IEEE%20802%20Family/IEEE%20802.1.md).
 
 
 ### 802.1x End Hosts /Roles

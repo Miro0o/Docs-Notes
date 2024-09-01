@@ -1,4 +1,4 @@
-# LLC (Logic Link Control)
+# LLC (Logic Link Control) & Layer 2 Upper Sublayer
 
 [TOC]
 

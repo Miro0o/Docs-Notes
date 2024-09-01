@@ -5,31 +5,33 @@
 
 
 ## 🛣 Res
-![Cover image for How to Install Kali Linux on VirtualBox: A Step-by-Step Guide](../../../../../../../../Assets/Pics/tps8yqrc42qayb4gmfyd.jpeg)
-
-### Officials & Tutorials
 🏠 https://www.kali.org
 📂 https://www.kali.org/docs/
 🧰 Kali Tools https://www.kali.org/tools/
 
-🎬 [奇安信联合出品网络安全Kali Linux精品全套教程完整版]: https://www.bilibili.com/video/BV15t4y1P7sU/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+### Related Topics
+↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
+↗ [Debian Based Linux](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Debian%20Based%20Linux.md)
 
 
-### Books
+### Learning Resources
 📖 Mastering Kali Linux for Advanced Penetration Testing
 🚧 https://github.com/PacktPublishing/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Third-Edition
 
 📖 Learning Kali Linux
 
-
-### Related Fields
-↗ [Network Penetration (Pen-testing)](../../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Debian Based Linux](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/🌀%20Debian%20Based%20Linux/Debian%20Based%20Linux.md)
+🎬 [奇安信联合出品网络安全Kali Linux精品全套教程完整版]: https://www.bilibili.com/video/BV15t4y1P7sU/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 
 ## Intro
+![Cover image for How to Install Kali Linux on VirtualBox: A Step-by-Step Guide](../../../../../../../../Assets/Pics/tps8yqrc42qayb4gmfyd.jpeg)
+
 Kali Linux (Kali) is the successor to the **BackTrack penetration testing platform** that is generally regarded as the de facto standard package of tools used to facilitate penetration testing to secure data and voice networks. It was developed by **Mati Aharoni** and **Devon Kearns** of Offensive Security.
+
+> **Kali Linux** is a Debian-based Linux system that was created for penetration testing and is particularly beneficial for security professionals and amateurs. Kali Linux, formerly known as **BackTrack Linux**, comes with a number of network auditing tools and apps. Kali can be used as a Live DVD or installed as a host operating system (OS) on a computer like any other Linux. However, using Kali as a general-purpose desktop operating system is not recommended. At the same time, settings are not saved after a system reboot when using Kali Live DVD. Virtual machines can be extremely useful in this case. In today's blog post, we'll look at how to set up Kali Linux as a virtual machine in VirtualBox (VM).
+
 
 ### BackTrack (BT)
 🏠 https://www.backtrack-linux.org
@@ -49,8 +51,6 @@ The last version of BackTrack is BT 5r3. (2022)
 Kali Linux contains industry specific modifications as well as [several hundred tools](https://www.kali.org/docs/policy/penetration-testing-tools-policy/) targeted towards various Information Security tasks, such as Penetration Testing, Security Research, Computer Forensics, Reverse Engineering, Vulnerability Management and Red Team Testing.
 
 Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
-
-
 #### Kali Linux Features (2022)
 > 🔗 https://www.kali.org/docs/introduction/what-is-kali-linux/#kali-linux-features
 

@@ -27,7 +27,7 @@
 
 
 ### Web Use
-↗ [😅 Wiki & Resources Searching](../../../../🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20&%20Resources%20Searching/😅%20Wiki%20&%20Resources%20Searching.md)
+↗ [Wiki Projects & Wikimedia Foundation (WMF)](../../../../🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 
 

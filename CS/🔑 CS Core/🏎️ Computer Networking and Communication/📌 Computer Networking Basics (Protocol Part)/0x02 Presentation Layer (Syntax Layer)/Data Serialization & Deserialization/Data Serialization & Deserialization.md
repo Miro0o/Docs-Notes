@@ -12,12 +12,12 @@
 ↗ [RPC Services](../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/RPC%20Services/RPC%20Services.md)
 ↗ [Web API Dev & Data Access Layer](../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API%20Dev%20&%20Data%20Access%20Layer.md)
 
-↗ [IDL (Interface Description Language) & Data Representation](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation.md)
-- ↗ [XDR (External Data Representation)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation/XDR%20(External%20Data%20Representation).md)
+↗ [IDL (Interface Description Language) & Data Exchange Formats](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats.md)
+- ↗ [XDR (External Data Representation)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/XDR%20(External%20Data%20Representation).md)
 - ↗ [XML (Extensible Markup Language)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/XML%20(Extensible%20Markup%20Language).md) + ↗ [SOAP (Simple Object Access Protocol)](../../0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/SOAP%20(Simple%20Object%20Access%20Protocol).md)
-- ↗ [JSON](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation/JSON.md) + ↗ [HTTP (HyperText Transfer Protocol)](../../0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
+- ↗ [JSON](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/JSON.md) + ↗ [HTTP (HyperText Transfer Protocol)](../../0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
 - ↗ [YAML (Yet Another Markup Language)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/YAML%20(Yet%20Another%20Markup%20Language).md)
-- ↗ [Property List (.plist)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation/Property%20List%20(.plist).md)
+- ↗ [Property List (.plist)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/Property%20List%20(.plist).md)
 - etc.
 
 ↗ [Data Compression Technologies](../../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
@@ -91,7 +91,7 @@ For large volume scientific datasets, such as satellite data and output of numer
 
 ### 🎉 Text Based Serialization Protocols
 ↗ [XML (Extensible Markup Language)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/Markup%20DSL%20&%20GPL/XML%20(Extensible%20Markup%20Language).md)]
-↗ [JSON](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Representation/JSON.md)
+↗ [JSON](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🪁%20DSL(Domain%20Specific%20Languages)%20&%20GPL(General%20Purpose%20Languages)/IDL%20(Interface%20Description%20Language)%20&%20Data%20Exchange%20Formats/JSON.md)
 
 
 
