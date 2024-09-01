@@ -9,6 +9,8 @@
 
 
 ### Learning Resources
+https://youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j&si=wWPE1Eqeb_aSanUQ
+Exploring Solid State Drives and 3D NAND | Branch Education
 > 🎬 https://youtu.be/YtBysgPOKx4?si=yGbvXAb8Ai5n7k5C
 > How does NAND Flash Work? Reading from TLC : Triple Level Cells || Exploring Solid State Drives
 > 

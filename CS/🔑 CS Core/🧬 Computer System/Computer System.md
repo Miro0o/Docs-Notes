@@ -7,6 +7,9 @@
 ## Res
 ### Related Topics
 ↗ [Intro to Computer Science](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
+- [Intro to Computer Science /Questions Leading my CS Study](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#Questions%20Leading%20my%20CS%20Study)
+
+↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
 
 ↗ [Theory of Computation](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Computability Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory/Computability%20Theory.md)
@@ -47,8 +50,19 @@ Computer Crash Course
 https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id_from=333.788.0.0
 合集·直观理解计算机技术
 
-http://t.csdnimg.cn/fpEXy
-🔥 👍 从裸机启动开始运行一个C++程序
+https://youtube.com/playlist?list=PL6rx9p3tbsMt8YAmrZwHrabSAcyQR9ad2&si=XxUmgmMEfSAc71Fm
+Exploring everyday technology | Branch Education
+https://youtube.com/playlist?list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu&si=tTiaN2z13Fcnaqy3
+How do Computers Work? | Branch Education
+https://youtube.com/playlist?list=PL6rx9p3tbsMtRbJzFLswzvyl6OzHe32TC&si=QwxQTBBFTKFTK0gP
+Exploring Smartphones | Branch Education
+https://youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub&si=5cdBvJxVC4NE3vcT
+Understanding Sound & Speakers | Branch Education
+https://youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu&si=DIETImDVNBoujbao
+Understanding Cameras & Optics | Branch Education
+
+http://t.csdnimg.cn/5EBYh
+🔥 👍 从裸机启动开始运行一个C++程序（系列文章）｜ borehole打洞哥
 
 https://www.cnblogs.com/ysocean/tag/深入理解计算机系统/
 深入理解计算系统 - 随笔
@@ -104,10 +118,14 @@ Nanjing University Computer System Project Series - Build a computer system from
 
 
 ## 🎯 Computer System: Hardware Perspective
+↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
 
 
 
 ## 🎯 Computer System: Software Perspective
+↗ [System Software](System%20Software.md)
+↗ [Operating System & OS Kernel (Theory Part)](Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
+↗ [Operating Systems & Kernels (Engineering Part)](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 
 
 

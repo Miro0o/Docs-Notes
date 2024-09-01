@@ -1,4 +1,4 @@
-# Countries & Research Programs List
+# International Master & PhD Programs List
 
 [TOC]
 
@@ -25,6 +25,10 @@ https://www.topuniversities.com/university-rankings/university-subject-rankings/
 QS World University Rankings by Subject 2023: Computer Science and Information Systems
 
 我的奋斗：从找不到工作的穷留学生到沙特阿卜杜拉国王科技大学（KAUST）第一位华人高级网络工程师 - 弈心的文章 - 知乎 https://zhuanlan.zhihu.com/p/146003181
+
+
+### Application Windows 2024
+13 OCt. ~ 1 Mar.
 
 
 
@@ -106,6 +110,25 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 - 应遵守流动规则：一般而言，他们在招聘日期前36 个月内，在招聘机构所在国家/地区居住或从事主要活动（工作、学习等）的时间不得超过 12 个月（举例说明：如果在英国攻读了硕士学位，可以申请玛丽居里项目内的荷兰博士项目，但不可以申请伦敦博士项目。）
 
 
+### 🇧‍🇪 Belgium
+#### 👉 KU Leuven
+##### Master of Engineering: Computer Science
+https://www.kuleuven.be/programmes/master-engineering-computer-science
+##### Advanced Master of Cybersecurity
+https://www.kuleuven.be/programmes/master-cybersecurity#About
+https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1&bl=
+
+The admission policy is intended to ensure equal opportunity of access to higher education for qualified European and third country students. There are two ways to be admitted to the programme:
+
+1. **Direct admission**, on the basis of a relevant degree obtained in the Flemish Community. You can check the [list of relevant programmes here](https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1&bl=).
+2. **After an admission process**, which is meant for students that obtained a degree outside the Flemish Community. They have to meet the conditions below. 
+	1. All applications from students who have obtained a degree outside the Flemish Community are evaluated by both KU Leuven Admissions Office and the relevant master’s programme director. Final admission decisions will made be at the discretion of the Faculty.
+- **Academic background**: Candidates should hold a master's degree in ICT related fields; an academic degree of at least 4-year is required.
+- **GRE test results**: in order to be considered for admission, applicants are required to submit their GRE score (at the moment, there is no minimum requirement for GRE scores). Please contact ETS requesting an original score card to be forwarded to us using the following Institutional Code: 0749. Students who obtained a bachelor’s or a master’s degree in one of the EEA countries, the UK, or Switzerland are exempted from providing GRE scores. However, submitting GRE scores might still be considered as an asset when applying.
+- **Strong motivation**: all candidates must submit a statement of purpose to express your motivation to start the Advanced Master of Cybersecurity.
+- **Reference**: all candidates must submit 2 reference letters
+- **English language proficiency**: students should have a good command of English, both spoken and written. Check the [specific language requirements](http://eng.kuleuven.be/en/study/prospective-students/degree-seeking-students/prerequisites-for-degree-seeking-students).
+- Relevant **professional certifications** and **work experience** can be taken into account.
 ### 🇩🇪 Germany
 
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
@@ -173,8 +196,8 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 **“卓越大学计划 (IDEX)”院校** (2022)
 - **永久资格：** 巴黎文理研究大学、 巴黎萨克雷大学、斯特拉斯堡大学、波尔多大学、艾克斯－马赛大学、索邦大学。
 - **试行期资格：** 巴黎大学、格勒诺布尔大学、蔚蓝海岸大学、里昂大学、图卢兹大学。
-#### Paris-Saclay University
-#### IPP (Insitut Polytechnique de Paris)
+#### 👉 Paris-Saclay University
+#### 👉 IPP (Insitut Polytechnique de Paris)
 https://www.ip-paris.fr/en
 1. Engineer Program
 2. Masters (2,1)
@@ -184,7 +207,7 @@ https://www.ip-paris.fr/en
 6. PhD Program (3)
 
 Cooperation with China
-#### PSL (Paris Sciences & Lettres University)
+#### 👉 PSL (Paris Sciences & Lettres University)
 
 [详细介绍PSL巴黎文理研究大学(为什么排名法国第一) - 五度教育法国留学的文章 - 知乎]: https://zhuanlan.zhihu.com/p/571867889
 
@@ -192,28 +215,26 @@ Cooperation with China
 ### 🇨🇭 Switzerland
 
 
-### 🇳🇱 Netherlands
+### 🇳🇱 Netherlands | Holland
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
 
 荷兰留学H类和U类大学有什么区别？
 荷兰的大学体系中确实存在两种主要类型的大学，分别是U类大学（Universiteit）和H类大学（Hogeschool）。以下是它们之间的主要区别，涉及到申请和国际认可度：
-1. **U类大学（Universiteit）:**
-- **学术研究为主：** U类大学侧重于提供学术研究和理论导向的课程，包括学士、硕士和博士学位。
-- **科学研究：** 这些大学通常有强大的科学研究基础，涵盖多个学科领域。
-- **学术学位：** U类大学颁发的学位更倾向于学术性，适用于追求深入研究和学术职业的学生。
+1. **U类大学（Universiteit）** 
+	1. **学术研究为主** U类大学侧重于提供学术研究和理论导向的课程，包括学士、硕士和博士学位
+	2. **科学研究** 这些大学通常有强大的科学研究基础，涵盖多个学科领域。
+	3. **学术学位** U类大学颁发的学位更倾向于学术性，适用于追求深入研究和学术职业的学生。
+2. **H类大学（Hogeschool）**
+	1. **职业教育** H类大学主要提供职业教育，强调实践和应用技能的培养。
+	2. **应用科学** 课程更加注重应用科学，旨在使学生具备直接应用于职场的实用技能。
+	3. **专业学位** H类大学颁发的学位通常是与特定职业领域相关的专业学位，如工程师、护士等。
+3. **申请**
+	1. **U类大学** 申请U类大学通常需要更强调学术背景、研究兴趣和学术成就。需要提交推荐信、个人陈述以及可能的学术考试成绩（如IELTS或TOEFL）。
+	2. **H类大学** 申请H类大学更注重实际经验和职业目标。可能需要工作经验、实习经历，以及与所选专业相关的实际技能。
 
-2. **H类大学（Hogeschool）:**
-- **职业教育：** H类大学主要提供职业教育，强调实践和应用技能的培养。
-- **应用科学：** 课程更加注重应用科学，旨在使学生具备直接应用于职场的实用技能。
-- **专业学位：** H类大学颁发的学位通常是与特定职业领域相关的专业学位，如工程师、护士等。
-
-3. **申请：**
-- **U类大学：** 申请U类大学通常需要更强调学术背景、研究兴趣和学术成就。需要提交推荐信、个人陈述以及可能的学术考试成绩（如IELTS或TOEFL）。
-- **H类大学：** 申请H类大学更注重实际经验和职业目标。可能需要工作经验、实习经历，以及与所选专业相关的实际技能。
-
-4. **国际认可度：**
-- **U类大学：** 由于其强调学术研究，U类大学的学位在国际上通常更受认可，特别是对于追求学术研究职业或进入全球性公司的学生。
-- **H类大学：** H类大学的学位在荷兰国内具有很高的声望，但在国际上可能相对较少被认可。然而，这并不意味着其学位毫无价值，特别是对于那些寻求职业培训和实际技能的学生。
+4. **国际认可度**
+	1. **U类大学** 由于其强调学术研究，U类大学的学位在国际上通常更受认可，特别是对于追求学术研究职业或进入全球性公司的学生。
+	2. **H类大学** H类大学的学位在荷兰国内具有很高的声望，但在国际上可能相对较少被认可。然而，这并不意味着其学位毫无价值，特别是对于那些寻求职业培训和实际技能的学生。
 
 ---
 **荷兰Top奖学金汇总/Top Scholarships in the Netherlands**
@@ -222,7 +243,6 @@ Cooperation with China
 - Utrecht Excellence Scholarship
 - Leiden University Excellence Scholarship
 - Delft University of Technology Scholarship (TU Delft)
-
 
 **List of Fully Funded Scholarships in Netherlands (2024)**
 
@@ -278,13 +298,20 @@ This is a Fully funded scholarship for international students that also covers t
 **List of Netherlands Universities Without IELTS**
 Netherlands universities **offer exemption from IELTS** if you are from English-speaking countries or if you have completed your previous degree from an English medium institute.
 - I have written an article on how to **[Study in Netherlands Universities Without IELTS (2023)](https://link.zhihu.com/?target=https%3A//opportunitiescorners.com/study-in-netherlands-universities-without-ielts/)**
-
-
 #### 👉 University of Amsterdam
 📄 https://www.topuniversities.com/universities/university-amsterdam
 https://www.uva.nl/en
-
-
+#### 👉 TU/e (Eindhoven University of Technology)
+##### Master Program: Computer Science and Engineering
+https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/computer-science-and-engineering-1/country/china
+##### Research Group: Security (SEC)
+https://www.tue.nl/en/research/research-groups/computer-science/security
+#### 👉 TU Delft
+##### MSc Computer Science
+https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science
+Application Info
+- https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines
+- https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/required-documents
 ### 🇩🇰 Danmark
 
 
@@ -380,6 +407,7 @@ Applicants admitted to the Department of Computer Science graduate program usual
 ##### Graduate Program: Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
 #### 👉 University of California, Berkeley (UCB)
+##### UCB Academic Overview
 https://grad.berkeley.edu
 
 https://guide.berkeley.edu/courses/
@@ -389,6 +417,9 @@ https://dare.berkeley.edu
 DARE: Diversifying Access to Research in Engineering
 UC Berkeley program for promoting undergraduate research opportunities in EE&CS
 
+https://www2.eecs.berkeley.edu/Research/Areas/Centers/
+UCB EECS Research Centers & Labs
+
 https://vcresearch.berkeley.edu/datascience
 Labs - Data Science, AI & Robotics
 - [swarm Lab](https://swarmlab.berkeley.edu)
@@ -396,6 +427,17 @@ Labs - Data Science, AI & Robotics
 - [sky lab](https://sky.cs.berkeley.edu)
 - [CLTC (Center for Long Term Cybersecurity)](https://cltc.berkeley.edu)
 	- CLTC and U.S. Department of Education Announce Partnership for Advancing Cybersecurity in Education (PACE)
+- [Theory Group](http://theory.cs.berkeley.edu)
+
+Faculty
+- [David Wagner](https://people.eecs.berkeley.edu/~daw/)
+- [Dawn Song](https://dawnsong.io)
+- [Jonathan Stray](http://jonathanstray.com)
+- [Avishay Tal](https://www.avishaytal.org)
+- [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/)
+- [Prasad Raghavendra](https://people.eecs.berkeley.edu/~prasad/)
+- [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/)
+- [Peyrin Kao](https://peyrin.github.io)
 
 bearX
 https://bearx.co/

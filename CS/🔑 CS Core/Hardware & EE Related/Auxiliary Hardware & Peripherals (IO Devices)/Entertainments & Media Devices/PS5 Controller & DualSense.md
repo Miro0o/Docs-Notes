@@ -5,14 +5,13 @@
 
 
 ## Res
-🏠 
-
-
 ### Related Topics
 ↗ [Sony](../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/📌%20Electronics%20&%20Appliances/Sony.md)
 
 
 ### Other Resources
+https://youtu.be/vQesgAtr2e4?si=mMfGf4Ls6Az3sW8c
+How do Video Game Controllers Work? || Exploring a PS4 Game Controller
 
 
 

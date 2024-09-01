@@ -7,21 +7,20 @@
 ## Res
 ### Related Topics
 ↗ [Security Industry & Companies](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
+↗ [Computer Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ### Courses & Projects & Labs
 > ↗ [Cyber Ranges & Labs](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
 
-> ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md) 
+> ↗ [SEED Project](☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
  🔥 👍 Comprehensive & Introductory security labs/ courses
-
 
 🏫 [MIT - 6.5660 Computer System Security](../🏠%20Assets/Courses%20of%20Universities/MIT/6.5660%20Computer%20System%20Security/6.5660%20Computer%20System%20Security.md)
 🎬【麻省理工学院 - MIT - 网络安全（我愿称之为网络安全教程天花板）】 https://www.bilibili.com/video/BV1HJ4m1w7fB/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 MIT - Computer System Security
 
 🏫 [MIT - 6.857: Computer and Network Security](../🏠%20Assets/Courses%20of%20Universities/MIT/6.857%20Computer%20and%20Network%20Security/6.857:%20Computer%20and%20Network%20Security.md)
-
 🏫 [UCB - CS161 Computer Security](../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS161%20Computer%20Security/CS161%20Computer%20Security.md)
 
 👍 [sectools.org](https://sectools.org)
@@ -510,7 +509,7 @@ Lots of links & resources related to cybersecurity
 - **CCS**（ACM Conference on Computer and Communications Security）
 - **NDSS**（Network and Distributed System Security Symposium）
 - **Oakland S&P**（IEEE Symposium on Security & Privacy)
-- **USENIX Security**（USENIX Security Symposium
+- **USENIX Security**（USENIX Security Symposium)
 
 [从事网络安全领域在以后会吃香吗？ - FDrag0n的回答 - 知乎]: https://www.zhihu.com/question/452434830/answer/2788137074
 
@@ -540,3 +539,28 @@ Lots of links & resources related to cybersecurity
 
 [🤔 浅谈实际网安生活 - m0vie的文章 - 知乎]: https://zhuanlan.zhihu.com/p/685642330
 拿安服举例子。讲的和国内情况还是比较符合的。
+
+[阿里巴巴集团安全部招聘]: https://mp.weixin.qq.com/s/dWXd_Jsye-jLMcDksLSICA
+- 集团安全部-安全工程师/高级安全工程师（攻防演练）-业务安全攻防技术
+	- 了解风控系统核心策略和关键原理
+	- 编程
+	- JS/Android/iOS的动、静态分析技术，了解浏览器端/移动端的安全机制，符合以下一个或多个条件：
+		- 精通JS防护技术、混淆技术、逆向分析、浏览器指纹采集技术。
+		- 精通Android或iOS应用逆向的静态分析、动态调试、代码跟踪，熟悉IDA Pro、GDB、JEB、Ildb等常用逆向分析工具，具备较强的逆向分析能力，熟悉ARM、x86/64等指令集。
+		- 丰富的人机模拟经验，如：无头浏览器规模利用、大型真机集群和黑盒调用；熟悉端指纹的采集和构造。
+		- 能通过机器学习构建各类人机验证（如验证码、问答等）对抗模型，并能够运用到演练中。
+		- 熟练掌握Frida/Xposed/Cydia等HOOK和黑盒调用技术，了解其基本原理。
+- 集团安全部-高级安全工程师-数据安全
+	- 数据类接口和常见的数据库产品基本原理，具备脚本编写和数据开发经验，
+	- 关注业界安全技术发展和趋势，熟悉国内外数据安全或隐私合规标标准，具备独立的安全研究和大数据产品安全解决方案能力；
+- 集团安全部-安全专家-安全攻防
+	- 安全产品原理/逻辑
+	- 网络渗透技术/实战经验
+	- OS安全机制
+	- java web 漏洞
+	- 研发（java/python/go）
+	- 加分项：
+		- 有参与国家护网攻击队并拿分、红蓝对抗、模拟APT经 验、具备域渗透、云渗透、容器环境渗透、Linux/Android系统攻防经验；
+		- 独立提交并获得有质量的CVE漏洞编号、发表原创攻防技术、漏洞EXP开源项目或参加过国内外安全会议；
+		- 熟悉机器学习思想，有防守方模型对抗经验；
+

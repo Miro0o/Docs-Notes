@@ -145,3 +145,8 @@ The companies and teams listed here use interview techniques and questions that 
 	6. 面试：讲解项目
 	7. 面试：开放问题
 	8. 面试：应对挑战
+
+[阿里巴巴集团安全部招聘]: https://mp.weixin.qq.com/s/dWXd_Jsye-jLMcDksLSICA
+- 集团安全部-安全工程师/高级安全工程师（攻防演练）-业务安全攻防技术
+- 集团安全部-高级安全工程师-数据安全
+- 集团安全部-安全专家-安全攻防
