@@ -87,6 +87,9 @@ https://github.com/hoochanlon/hamulete/tree/master
 
 
 ## 🚀 A Serious CS Roadmap
+> ↗ [Intro to Computer Science /Questions Leading my CS Study](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#Questions%20Leading%20my%20CS%20Study)
+
+
 ### 0️⃣ Before you hit the road ...
 ↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
@@ -117,47 +120,51 @@ https://github.com/hoochanlon/hamulete/tree/master
 	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	4. ↗ [Computer Networking and Communication](../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 	5. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	4. ↗ [Computer Networking and Communication](../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+	5. ↗ [Computer Storage & Database Systems](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 
 
-### 2️⃣ CS Specific Fields
+### 2️⃣ CS Specific Fields / CS Applications
 ![computer_architecture_and_computer_science.excalidraw | 800](../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 
 1. Theoretical Computer Science & Algorithms
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 	2. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	3. etc.
-2. Data Scientist /AI
-	5. ↗ [Data Science](../Data%20Science/Data%20Science.md)
-	6. ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
-	7. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	8. etc.
-3. Computer Security
-	1. ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
-	2. ↗ [Cryptology](../CyberSecurity/🚬%20Cryptology/Cryptology.md)
-	3. etc.
-4. Software Engineering
+2. Computer System
+	1. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	2. etc.
+3. Software Engineering
 	1. ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
 	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. ↗ [Program Execution & Compilation System](../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 	5. etc.
-5. System Architecture /Cloud
+4. System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 	2. ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
 	3. ↗ [Awesome Architect](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
-	5. etc.
+	4. etc.
+5. Data Scientist /AI
+	1. ↗ [Data Science](../Data%20Science/Data%20Science.md)
+	2. ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
+	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	4. etc.
 6. IoT /Hardware /Computer Engineering
 	1. ↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 	2. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 	3. etc.
 7. Web3 /Metaverse /Cryptocurrency
-	5. ↗ [Web 3.0](../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
-	6. etc.
+	1. ↗ [Web 3.0](../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
+	2. etc.
 8. Human-Computer Interaction
 	1. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
-9. etc..
+9. Computer Security
+	1. ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
+	2. ↗ [Cryptology](../CyberSecurity/🚬%20Cryptology/Cryptology.md)
+	3. etc.
+10. etc..
 
 
 ### 3️⃣ Dig into CS/IT Academia or Industry

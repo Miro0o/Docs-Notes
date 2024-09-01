@@ -4,10 +4,13 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":arrow_upper_right:",
+    ":clapper:",
+    ":point_right:",
+    ":belgium:",
+    ":book:",
     ":man_technologist:",
     ":thinking:",
-    ":clapper:",
-    ":arrow_upper_right:",
     ":singapore:",
     ":hong_kong:",
     ":canada:",
@@ -15,10 +18,8 @@
     ":thumbsup:",
     ":teacher:",
     ":house:",
-    ":book:",
     ":open_file_folder:",
     ":link:",
-    ":point_right:",
     ":people_hugging:",
     ":star:",
     ":construction:",
@@ -102,7 +103,6 @@
     ":arrow_right:",
     ":arrow_double_up:",
     ":up:",
-    ":dollar:",
-    ":heavy_exclamation_mark:"
+    ":dollar:"
   ]
 }

@@ -12,6 +12,13 @@
 ### Learning Resources
 📂 [丢石头百科](https://wiki.diustou.com/cn/首页)
 
+https://youtube.com/playlist?list=PL6rx9p3tbsMtRbJzFLswzvyl6OzHe32TC&si=QwxQTBBFTKFTK0gP
+Exploring Smartphones | Branch Education
+https://youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub&si=5cdBvJxVC4NE3vcT
+Understanding Sound & Speakers | Branch Education
+https://youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu&si=DIETImDVNBoujbao
+Understanding Cameras & Optics | Branch Education
+
 
 
 ## Intro

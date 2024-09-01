@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Countries & Research Programs List](Countries%20&%20Research%20Programs%20List.md)
+↗ [International Master & PhD Programs List](International%20Master%20&%20PhD%20Programs%20List.md)
 
 
 

@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "0caa0eb45a454162",
+            "id": "203766945274ea11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/📌 Legacy BIOS (Basic IO System)/Legacy BIOS (Basic IO System).md",
+                "file": "CS/CyberSecurity/CyberSecurity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "5a7c4abe5ab7ce15",
+            "id": "e4cf5d0c4a906cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Android Hook.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 692.5027122497559,
-    "collapsed": true
+    "width": 692.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Android Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Android Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md"
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Android Hook.md"
               }
             }
           },
@@ -196,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,35 +211,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5a7c4abe5ab7ce15",
+  "active": "e4cf5d0c4a906cef",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/📌 Vulnerability Government（漏洞管控）/🤥 Real World Vulnerabilities Collections & Analysis/Yik Hak.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Vulnerability Analysis (VA)/Software Vulnerability & Vulnerability Analysis (VA).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities/Vulnerabilities.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/DSL(Domain Specific Languages) & GPL(General Purpose Languages).md",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/iOS & Mac Hook.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Android Hook.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Linux Hook.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Windows Hook.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques/Hook Techniques.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Hook Techniques",
     "CS/CyberSecurity/CyberSecurity.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Network Programming & RPC/🏛️ RPC Arch/Serialization/Serialization.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/How to choose a university & country?.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Countries & Research Programs List.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Living Abroad China 🇨🇳.md",
-    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/📌 Legacy BIOS (Basic IO System)/Legacy BIOS (Basic IO System).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/Terminal Emulators.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/📌 Pseudo tty (pty) Based/Pseudo tty (pty) Based.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Clients & Remote Shell/PuTTY.md",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/🐙 VCM (Version Control Management)/Git/Git.md",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Security Industry & Companies.md",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Software Industry & Providers/Internet Industry & Companies/Internet Industry & Companies.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/CrowdStrike-Windows.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Frida.md",
+    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals.md",
+    "CS/Academics/Appendix/信息安全相关学术会议列表.md",
+    "CS/🗺 CS Overview/CS & IT Jobs & Interns Related/How to do a job interview the right way.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/Intro to Computer Science.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation & Compilation Theory (Compile-time)/Compilation Phase/Compilation Phase.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Entertainments & Media Devices/PS5 Controller & DualSense.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Entertainments & Media Devices/Entertainments & Media Devices.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Computer Systems.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Optics & Camera/Optics & Camera.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Speakers & Earbuds & Sound Devices/Speakers & Earbuds & Sound Devices.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Secondary (Auxiliary) Storage Technologies & DAS (Directly Attached Storage)/Semi-conductor Media (Circuit) Storage & Flash Storage/SSD (Solid State Disk).md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Memory & Storage/Primary Storage (Main Memory) Technologies & RAM/🪫 Semiconductor Memory Technology & Memory Chips & RAM/DRAM Technology & DDR.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/📌 MPU Models & Manufacturers/Apple Chips.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Encodings.md",
-    "Finance & Economics/Finance & Economics.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/🚀 High Performance Network (HPN) & IDC Technologies/RDMA (Remote DMA)/RDMA (Remote DMA).md",
+    "CS/🏠 Assets/This is X/🇨🇳 This is China/This is China.md",
+    "Assets/Pics/640.webp",
+    "Assets/Pics/640 (1).webp",
+    "Assets/Pics/640 (2).webp",
+    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Bootstrap (Boot)/First-Stage Boot Loader (System Firmware)/📌 Legacy BIOS (Basic IO System)/Legacy BIOS (Basic IO System).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/SRE (Software Reverse Engineering)/Web Software Reverse",
     "Assets/Pics/Screenshot 2024-08-28 at 23.41.06.png",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS168 Introduction to Internet Architecture",
@@ -252,13 +256,9 @@
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards/PC Motherboards",
     "CS/🔑 CS Core/Hardware & EE Related/Computer Motherboards",
     "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy/Proxy Implementations/📌 sing-box",
-    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/🤖 Test Automation/APP Test Automation/Android Monkey",
     "Assets/Pics/4A0FF65C-B64C-490E-ADAE-517E086D6F33.png",
     "Assets/Pics/Screenshot 2024-07-26 at 2.01.12 PM.png",
     "Assets/Pics/Screenshot 2024-07-26 at 1.51.53 PM.png",
-    "Assets/Pics/Screenshot 2024-07-26 at 1.51.35 PM.png",
-    "Assets/Pics/Screenshot 2024-07-26 at 1.32.38 PM.png",
-    "Assets/Pics/Screenshot 2024-07-21 at 12.41.22 AM.png",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
