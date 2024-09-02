@@ -35,7 +35,6 @@ The instruction set architecture (ISA) of a machine specifies the instructions t
 
 ### Instruction & ISA
 ↗ [Instruction Basics](📌%20Instruction%20Basics/Instruction%20Basics.md)
-
 ↗ [ISA Basics](📌%20ISA%20Basics/ISA%20Basics.md)
 
 

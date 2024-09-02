@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+
 ↗ [CPU (Central Processing Unit)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [Address Space](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
@@ -16,7 +18,7 @@
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-05%20at%2010.19.55%20AM.png)
 
 ### Memory Access Implementations
-↗ [8086 ASM](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
+↗ [8086 ASM (16 bit)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
 
 
 ### Memory Notation
@@ -46,8 +48,10 @@ Flow links above to dive deep, including how they are formatted, how they are ac
 
 
 ## 📬 Addressing
-### Memory Space Address
+### Memory Address Space
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
+
+↗ [Address Space](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
 
 
 ### Addressing Unit

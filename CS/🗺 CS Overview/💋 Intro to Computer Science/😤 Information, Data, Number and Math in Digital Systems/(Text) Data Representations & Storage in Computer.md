@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 Go to ↗ [von Neumann Arch /Memory](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md) for more possible info.
-And maybe ↗ [8086 ASM](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md).
+And maybe ↗ [8086 ASM (16 bit)](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md).
 
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 ↗ [Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)

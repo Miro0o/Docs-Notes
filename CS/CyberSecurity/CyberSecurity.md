@@ -117,6 +117,16 @@ https://wiki.wgpsec.org
 致力于打造信息安全乌托邦
 
 ---
+渊龙Sec安全团队（Aabyss Team）
+- 团队官网 https://www.aabyss.cn
+- 团队官方博客 https://blog.aabyss.cn
+- 团队导航 https://dh.aabyss.cn
+- 团队实时威胁情报 https://threat.aabyss.cn
+- 团队开源项目 https://github.com/Aabyss-Team
+- 团队公众号 微信搜“渊龙Sec安全团队”
+- 团队宗旨 为国之安全而奋斗，为信息安全而发声！
+
+---
 📄 注册信息安全专业人员知识体系大纲（**CISE/CISO**）
 版本：4.2
 生效日期：2019 年3 月1 日

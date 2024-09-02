@@ -9,7 +9,7 @@
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
 ↗ [ASM (Assembly Languages)](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
-- ↗ [8086 ASM](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
+- ↗ [8086 ASM (16 bit)](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
 
 ↗ [Memory Access](../../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
@@ -36,12 +36,15 @@ When a [computer program](https://en.wikipedia.org/wiki/Computer_program "Compu
 ### Processor Registers Overview
 🔗 https://en.wikipedia.org/wiki/Processor_register#Examples
 
+![](../../../../../../../../../Assets/Pics/x86%20registers%20map.png)
+↗ [8086 ASM /🫙 Registers](../../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md#🫙%20Registers)
+
 
 ### Word /Word Length & Register (字长和寄存器)
 
 
 
-## Registers Taxsonomy
+## Registers Taxonomy
 > ↗ https://en.wikipedia.org/wiki/Processor_register#Types
 
 In some architectures (such as [SPARC](https://en.wikipedia.org/wiki/SPARC "SPARC") and [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture "MIPS architecture")), the first or last register in the integer [register file](https://en.wikipedia.org/wiki/Register_file "Register file") is a _pseudo-register_ in that it is hardwired to always return zero when read (mostly to simplify indexing modes), and it cannot be overwritten. In [Alpha](https://en.wikipedia.org/wiki/DEC_Alpha "DEC Alpha"), this is also done for the floating-point register file. As a result of this, register files are commonly quoted as having one register more than how many of them are actually usable; for example, 32 registers are quoted when only 31 of them fit within the above definition of a register.

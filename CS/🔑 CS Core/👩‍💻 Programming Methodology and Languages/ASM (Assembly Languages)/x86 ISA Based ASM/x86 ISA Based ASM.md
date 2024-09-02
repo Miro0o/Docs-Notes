@@ -18,7 +18,13 @@
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/X86_assembly_language
+
+### x86 Family Registers Map
 ![](../../../../../../Assets/Pics/x86%20registers%20map.png)
+
+
+### x86 Family Instructions Overview
 
 
 

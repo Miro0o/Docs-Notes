@@ -59,8 +59,6 @@
 
 ### What is ASM and why is it?
 #### History of ASM
-#TODO 
-
 
 
 ### How ASM works?
@@ -72,7 +70,7 @@
 > ASM is running at system software level, so it is implemented at OS. More about this at ↗ [System Level Programming](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 
 ↗ [System Level Programming](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
-↗ [8086 ASM](x86%20ISA%20Based%20ASM/8086%20ASM/8086%20ASM.md)
+↗ [8086 ASM (16 bit)](x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
 
 
 ### ASM Instructions

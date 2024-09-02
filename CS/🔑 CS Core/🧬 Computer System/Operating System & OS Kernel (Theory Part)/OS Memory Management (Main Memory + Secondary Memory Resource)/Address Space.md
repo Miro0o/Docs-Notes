@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+
+↗ [Procedure (Function) Call & Runtime Memory Layout](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 ↗ [Memory Access](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
 
 ↗ [Memory Threats](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Memory%20Threats.md)
@@ -14,8 +17,6 @@
 - ↗ [Heap](../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Structures/Tree/📌%20Basic%20Tree%20&%20Derivatives/Heap.md)
 	- ↗ [Heap Attack](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Heap%20Attack/Heap%20Attack.md)
 ↗ [Memory Protection Mechanism](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Protection%20Mechanism/Memory%20Protection%20Mechanism.md)
-
-↗ [Procedure (Function) Call & Runtime Memory Layout](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 
 
 ### Learning Resources
