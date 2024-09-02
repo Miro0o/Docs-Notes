@@ -8,19 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d50d37ba9d0da197",
+            "id": "169456bc68c9f7db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c44d10820e09dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "808bbe9f3ef41caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#parallelism  ",
+                "query": "tag:#ASM tag:#ISA  ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -70,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 692.5027122497559,
-    "collapsed": true
+    "width": 692.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md"
               }
             }
           },
@@ -156,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,44 +198,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d50d37ba9d0da197",
+  "active": "808bbe9f3ef41caa",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/😅 Wiki Projects & Wikimedia Foundation (WMF)/Wiki Projects & Wikimedia Foundation (WMF).md",
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md",
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS194,294-177 Decentralized Finance/CS194,294-177 Decentralized Finance.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols/LLDP (Link Layer Discovery Protocol)/LLDP (Link Layer Discovery Protocol).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols/LLTD (Link Layer Topology Discovery)/LLTD (Link Layer Topology Discovery).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/〰️ P2P Channels/PPP (Point-to-Point Protocol)/PPP (Point-to-Point Protocol).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/ASM Advance.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/Interrupts/Interrupts.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls/System Signals & Exception Handling.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/CPU (Central Processing Unit)/CPU (Central Processing Unit).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/Computer Interfaces & Hardware Drivers.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/Interfaces/Interfaces.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/BIOS & IO/BIOS & IO.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ISA Based ASM.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86_64 ASM (x64 ASM)/x86_64 ASM (x64 ASM).md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/FAQ.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Memory Access.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/Development History of ISA.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 Basic CPU Components/Register.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Instruction Execution.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Basics.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/ISA (Industry Standard Architecture)/ISA (Industry Standard Architecture).md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Interpreter & REPL.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Levels/Instruction Levels.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Types.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Media Data",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/RISC-V ISA Based ASM",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/JVM Instrument Set & Java Bytecode/Java By",
+    "Untitled",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols/LLTD (Link Layer Topology Discovery)",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Multiprotocol Label Switching (MPLS) (Layer 2.5 Protocol).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/0x06 Data Link Layer.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/Link Layer (Switched Network) Basics.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/📌 MAC (Media Access Control) & Layer 2 Lower Sublayer/MAC (Media Access Control) Protocol & Layer 2 Lower Sublayer.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols/LLDP (Link Layer Discovery Protocol)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/📌 Link Layer (Switched Network) Basics/📌 LLC (Logic Link Control) & Layer 2 Upper Sublayer/LLC (Logic Link Control) & Layer 2 Upper Sublayer.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/RADIUS (Remote Authentication Dial-In User Service)/RADIUS (Remote Authentication Dial-In User Service).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/FAQ.md",
     "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/RADIUS (Remote Authentication Dial-In User Service)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🔥 Web (WWW) Protocols/HTTP (HyperText Transfer Protocol)/📌 HTTP Basics/HTTP3.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/🌀 Debian Based Linux/Linux Mint.md",
-    "link layer discovery protocol.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x05 Network Layer/🎮 Control Plane (Routing & Managements)/Network Routing (IP Address Modes) (Route Selection)/Dynamic Routing Protocols (Unicast，单播)/IGP & IRP (Intra-AS Protocols)/Link-State Based IGP/IS-IS (Intermediate System to Intermediate System)/IS-IS (Intermediate System to Intermediate System).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH (Secure SHell).md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Protocols/SSH Protocols.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/📱 Application Layer Security Protocols/SSH (Secure SHell)/SSH Protocols/SFTP (Secure FTP).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange Formats/IDL (Interface Description Language) & Data Exchange Formats.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/IDL (Interface Description Language) & Data Exchange Formats/TLV (Type–length–value).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Linux Free Software & FLOSS & FOSS.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/Open Source (Free Software) Spirits & Software License.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/Troubeshooting.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/FAQ.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/Linux Mint",
     "CS/Software Engineering/Web Development/🥪 Middleware/RPC Services/Apache Avro",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x03 Session Layer/SCP (Session Control Protocol)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x03 Session Layer/ZIP (Zone Information Protocol)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x03 Session Layer/OSI Protocol Suite Session-layer Protocol (X.225, ISO 8327)",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Dot NET Framework Based Programming",
     "Assets/Pics/Pasted image 20240831235525.png",
     "Assets/Pics/Pasted image 20240831235416.png",
     "Assets/Pics/Pasted image 20240831235406.png",

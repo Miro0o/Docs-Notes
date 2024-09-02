@@ -8,6 +8,8 @@
 ↗ [OpenVPN Project & OpenVPN Community Project](../👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/📌%20OpenVPN%20Project%20&%20OpenVPN%20Community%20Project/OpenVPN%20Project%20&%20OpenVPN%20Community%20Project.md)
 ↗ [WireGuard](../👻%20Tunneling%20&%20VPN/VPN%20&%20NAT%20Implementations/VPN%20&%20NAT%20Free%20Software/WireGuard.md)
 
+↗ [Reverse Proxy Servers](../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/🪇%20Reverse%20Proxy%20Servers/Reverse%20Proxy%20Servers.md)
+
 
 ### Proxy Software
 https://clash-verge-rev.github.io/friendship.html
@@ -48,7 +50,7 @@ https://miru.cloud/auth/register
 住宅IP的vps可以使用：[https://www.soladrive.com/support/aff.php?aff=146](https://www.soladrive.com/support/aff.php?aff=146)，进入网站后选择Residential IP VPS即可，$25每月，流量2T/月，适合于平时除了用chatGPT还顺便用来解锁netflix看看视频的。
 
 
-### Guidelines
+### Learning Resources
 🚧 https://github.com/hoochanlon/fq-book
 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 

@@ -4,7 +4,7 @@
 
 
 
-## 👉 word, wordlength, double word, quad word
+## 👉 word, word-length, double word, quad word
 #word #wordlength #ASM #double_word #quad_word
 
 **字和字长**
@@ -16,21 +16,20 @@
 32位系统：一个字 = 4Byte
 64位系统：一个字 = 8Byte
 
-
 **汇编中的字，双字和四字**
 汇编中的字，双字，四字其实指的是汇编指令的后缀，与处理器概念中的字和字长是不一样的概念。
 
 汇编中的字，双字和四字是数据格式，见下表:
 
-| C声明 | 数据类型 | 汇编代码后缀 | 大小(字节) |
-| - | - | - | - |
-| char | 字节 | b | 1 |
-| short | 字 | w | 2 |
-| int | 双字 | l | 4 |
-| long | 四字 | q | 8 |
-| char * | 四字	| q	| 8 |
-| float	| 单精度	| s	| 4 |
-| double | 双精度 | l | 8 |
+| C声明    | 数据类型 | 汇编代码后缀 | 大小(字节) |
+| ------ | ---- | ------ | ------ |
+| char   | 字节   | b      | 1      |
+| short  | 字    | w      | 2      |
+| int    | 双字   | l      | 4      |
+| long   | 四字   | q      | 8      |
+| char * | 四字   | q      | 8      |
+| float  | 单精度  | s      | 4      |
+| double | 双精度  | l      | 8      |
 
 由于是从16位体系结构扩展成32位的，Intel用术语“字(word)”表示16位数据类型。因此，称32位数为"双字(double word)"，称64位数为"四字(quad word)"。
 

@@ -6,7 +6,9 @@
 
 ## Res
 🏠 https://fa22.cs161.org
+🏠 https://fa24.cs161.org
 🧑‍🏫 https://people.eecs.berkeley.edu/~daw/
+📖 https://textbook.cs161.org
 
 
 

@@ -106,7 +106,7 @@ As in ↗ [Control Unit](📌%20Basic%20CPU%20Components/Control%20Unit.md) for 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-03-03%20at%209.15.46%20AM.png)
 
 More at ↗ [Processor /Interrupts](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
-or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
+or ↗ [ASM /Interrupts](../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/⚡️%20ASM%20Advance/Interrupts/Interrupts.md)
 
 
 

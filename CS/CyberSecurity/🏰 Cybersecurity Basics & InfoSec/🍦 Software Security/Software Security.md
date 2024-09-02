@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Program, Computer, and Automation](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program,%20Computer,%20and%20Automation.md)
+
 ↗ [Software Testing](../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Vulnerability Exploration（漏洞利用）](🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Vulnerability%20Exploration（漏洞利用）/Vulnerability%20Exploration（漏洞利用）.md)
 

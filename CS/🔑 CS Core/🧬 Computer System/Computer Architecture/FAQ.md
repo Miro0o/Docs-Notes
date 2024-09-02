@@ -109,13 +109,11 @@ I think everyone is giving you the same answer. Instruction set is is the set (a
 Let me try some examples based on some of the questions you are asking. And I am going to be jumping around from processor to processor with whatever code I have handy.
 
 Instruction or opcode or binary or machine language, whatever term you want to use for the bits/bytes that are loaded into the processor to be decoded and executed. An example 
-
 ```
 0x5C0B
 ```
 
 The assembly language, would be
-
 ```
 add r12,r11
 ```

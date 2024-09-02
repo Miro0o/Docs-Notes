@@ -40,7 +40,7 @@ http://t.csdnimg.cn/fpEXy
 
 ## Intro
 ### What is a Program?
-↗ [Automata Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory/Automata%20Theory.md)
+↗ [Program, Computer, and Automation](Program,%20Computer,%20and%20Automation.md)
 
 user's perspective:
 system's perspective:
@@ -60,7 +60,7 @@ However, there are some important reasons why programmers need to understand how
 
 
 
-## Working Process of Compilation Systems
+## 🤔 Working Process of Compilation Systems
 ![](../../../Assets/Pics/Screenshot%202024-02-15%20at%207.49.06PM.png)
 <small>程序软件从诞生到运行</small>
 
@@ -69,7 +69,7 @@ However, there are some important reasons why programmers need to understand how
 
 
 ### 0️⃣ Information, Encoding, Computer/Digital System Data Representations & Computer File Formats
-↗ [Data (Text) Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20(Text)%20Representations%20&%20Storage%20in%20Computer.md)
+↗ [(Text) Data Representations & Storage in Computer](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 ↗ [Encodings](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 ↗ [Reliable Data Transfer (RDT)](../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/Reliable%20Data%20Transfer%20(RDT)/Reliable%20Data%20Transfer%20(RDT).md)
@@ -142,4 +142,7 @@ However, there are some important reasons why programmers need to understand how
 [《链接、装载与库》 阅读笔记 (1)- 基本概念与静态链接]: https://wulc.me/2020/05/31/《链接、装载与库》阅读笔记(1)-基本概念与静态链接/
 
 [高级语言的编译：链接及装载过程介绍]: https://tech.meituan.com/2015/01/22/linker.html
+
 [《程序员的自我修养》——全书思维导图（上）]: https://www.zhihu.com/tardis/zm/art/111682188?source_id=1003
+[【读书】《程序员的自我修养》——全书思维导图（中） - 一尾66的文章 - 知乎]: 
+https://zhuanlan.zhihu.com/p/138345701

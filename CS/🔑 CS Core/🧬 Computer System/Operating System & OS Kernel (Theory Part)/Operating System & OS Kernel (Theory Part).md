@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Program, Computer, and Automation](../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program,%20Computer,%20and%20Automation.md)
 ↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 
 ↗ [Operating System Components & Runtime Libraries](😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
@@ -124,7 +125,9 @@ Harley Hahn's Guide to Unix and Linux
 ### 🤔 RTFM /RTFSC
 
 
-### Computation, Programming Languages and Programs
+### ⭐ Computation, Programming Languages and Programs
+↗ [Program, Computer, and Automation](../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program,%20Computer,%20and%20Automation.md)
+
 ↗ [Theory of Computation](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 - ↗ [Formal Semantics and Programming Language](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/(Formal)%20Language%20Theory/Formal%20Semantics%20and%20Programming%20Language.md) (程序语言的形式语义)
@@ -148,6 +151,7 @@ Harley Hahn's Guide to Unix and Linux
 
 
 ## Operating System Security
+↗ [Software Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 ↗ [Operating System Security](../../../CyberSecurity/System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
 
 

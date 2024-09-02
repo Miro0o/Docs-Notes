@@ -1,4 +1,4 @@
-# Data (Text) Representations & Storage in Computer
+# (Text) Data Representations & Storage in Computer
 
 [TOC]
 
@@ -14,8 +14,9 @@ And maybe ↗ [8086 ASM](../../../🔑%20CS%20Core/👩‍💻%20Programming%20M
 
 
 
-## Data Representation in Computer
-### Bit, Byte, Nibble, and Word
+## (Text) Data Representation in Computer
+### Number Representation
+Bit, Byte, Nibble, and Word
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.38%20PM.png)
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%209.50.45%20PM.png)
 
@@ -47,7 +48,7 @@ And maybe ↗ [8086 ASM](../../../🔑%20CS%20Core/👩‍💻%20Programming%20M
 > Also at ↗ [von Neumann Based Microarchitecture /Memory](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 
 
-### Data Storage From Programmer's Perspective: Address Space
+### Data Storage From Programmer's Perspective /Application Process Perspective: Address Space
 ↗ [Address Space](../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
 
 

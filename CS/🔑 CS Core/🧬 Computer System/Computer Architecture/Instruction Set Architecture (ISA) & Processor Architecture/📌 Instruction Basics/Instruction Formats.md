@@ -13,7 +13,7 @@
 
 ## Instruction vs Data
 ### Data Organization
-↗ [Data (Text) Representations & Storage in Computer](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Data%20(Text)%20Representations%20&%20Storage%20in%20Computer.md)
+↗ [(Text) Data Representations & Storage in Computer](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
 
 memory access
 Little-endian/ Big-endian
