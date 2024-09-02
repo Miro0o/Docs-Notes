@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,15 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ISA Based ASM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 692.5027122497559
+    "width": 692.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md"
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md"
               }
             }
           },
@@ -198,34 +198,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "808bbe9f3ef41caa",
+  "active": "169456bc68c9f7db",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ISA Based ASM.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/Privilege Level & Protection Ring.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/ISA Basics.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/Development History of ISA.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Types.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Basics.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Formats.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 Calling Conventions.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/8086 ASM (16 bit)/8086 ASM (16 bit).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/📌 x86 & ABI/x86 & ABI.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/ABI (Application Binary Interface).md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Memory Access.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Address Space.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Information, Data, Number and Math in Digital Systems.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Instruction Execution.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
+    "Assets/Pics/x86 registers map.png",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 Basic CPU Components/Register.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86_64 ASM (x64 ASM)/x86_64 ASM (x64 ASM).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/Templ.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/ASM Advance.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/Interrupts/Interrupts.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls/System Signals & Exception Handling.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/CPU (Central Processing Unit)/CPU (Central Processing Unit).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/Computer Interfaces & Hardware Drivers.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/Interfaces/Interfaces.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/⚡️ ASM Advance/BIOS & IO/BIOS & IO.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ISA Based ASM.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86_64 ASM (x64 ASM)/x86_64 ASM (x64 ASM).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/FAQ.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Memory Access.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/Development History of ISA.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/🚦 Computer Processors & Logic Chips/📌 Microprocessors Unit (MPU)/CPU (Central Processing Unit)/📌 Basic CPU Components/Register.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Instruction Execution.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Basics.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/ISA (Industry Standard Architecture)/ISA (Industry Standard Architecture).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Interpreter & REPL.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Levels/Instruction Levels.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 Instruction Basics/Instruction Types.md",
     "CS/🗺 CS Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Media Data",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/RISC-V ISA Based ASM",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/JVM Instrument Set & Java Bytecode/Java By",
@@ -245,7 +246,6 @@
     "Assets/Pics/640 (1).webp",
     "Assets/Pics/640 (2).webp",
     "Assets/Pics/Screenshot 2024-08-28 at 23.41.06.png",
-    "Assets/Pics/Pasted image 20240826221957.png",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
