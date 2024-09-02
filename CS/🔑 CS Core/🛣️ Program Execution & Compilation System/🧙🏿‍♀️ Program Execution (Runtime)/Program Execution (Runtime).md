@@ -8,8 +8,9 @@
 ### Related Topics
 ↗ [Operating System Kernel (Kernel Mode)](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 ↗ [Operating System Components & Runtime Libraries](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
-↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
+↗ [ASM (Assembly Languages)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 ↗ [Instruction Basics](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Basics.md)
 - ↗ [Instruction Execution](Instruction%20Execution/Instruction%20Execution.md)
 - ↗ [Interrupts (Software & Hardware)](Instruction%20Execution/Interrupts%20(Software%20&%20Hardware).md)
@@ -24,6 +25,24 @@
 
 
 ## Intro
+### Program = Automata
+↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
+
+- (computing resources) CPU
+- (storage resources) Register + Address Space
+
+>  Here either register or address space are all conceptual, they are the virtualization of the actual hardware. Register here refers to specific ISA defined registers, not those computer microarchitecture actually has; address space, by the same token, is the virtual memory layout visible to users, not the physical memory layout.
+
+- (program) instructions + data
+
+
+### Program Execution: Software Perspective
+↗ [Procedure (Function) Call & Runtime Memory Layout](Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+
+
+### Program Execution: Hardware Perspective
+↗ [Instruction Execution](Instruction%20Execution/Instruction%20Execution.md)
+
 
 
 ## Ref

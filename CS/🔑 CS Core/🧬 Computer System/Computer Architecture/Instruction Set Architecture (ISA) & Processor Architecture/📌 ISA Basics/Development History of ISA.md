@@ -5,11 +5,13 @@
 
 
 ## Res
+### Related Topics
 ↗ [FAQ /👉 X86 | IA-64 | ARM](../../FAQ.md#👉%20X86%20|%20IA-64%20|%20ARM)
-
 ↗ [x86 Architecture Family (80x86, 8086 family)](../CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
-
 ↗ [Semiconductor Industry & Companies](../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+
+
+### Other Resources
 
 
 

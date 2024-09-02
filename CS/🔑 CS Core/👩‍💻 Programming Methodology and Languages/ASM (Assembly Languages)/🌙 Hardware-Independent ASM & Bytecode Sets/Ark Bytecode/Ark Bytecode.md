@@ -1,4 +1,4 @@
-# RISC-V
+# Ark Bytecode
 
 [TOC]
 

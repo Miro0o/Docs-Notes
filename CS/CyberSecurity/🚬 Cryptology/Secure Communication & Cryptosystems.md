@@ -6,9 +6,6 @@
 
 ## Res
 ### Related Topics
-↗ [Cryptology](Cryptology.md)
-↗ [Cybersecurity Basics & InfoSec](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
-
 ↗ [Anonymous & Private Networks](../Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 ↗ [Tunneling Protocols & Technologies](../Network%20Security/Anonymous%20&%20Private%20Networks/👻%20Tunneling%20&%20VPN/📌%20Tunneling%20Protocols%20&%20Technologies/Tunneling%20Protocols%20&%20Technologies.md)
 
@@ -72,7 +69,7 @@
 如果一个密码系统能够满足以上准则之一，就可以认为是满足实际安全性的。对于实际应用中的密码系统而言，由于至少存在一种破译方法，即强力攻击法，因此都不能满足无条件安全性，只提供计算安全性。
 
 
-### Design Principles of Cryptosystems
+### Design Principles of Crypto-systems
 Kerckhoffs principle
 
 > 🔗 https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle#Explanation_of_the_principle

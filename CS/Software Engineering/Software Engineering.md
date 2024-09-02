@@ -4,15 +4,24 @@
 
 ## Res
 ### Related Topics
+↗ [Program, Computer, and Automation](../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program,%20Computer,%20and%20Automation.md)
+↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+
+↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [Python](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/Python.md)
+↗ [Golang](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/Golang/Golang.md)
+↗ [Java](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md)
+
 🔥 ↗ [Appendix](Appendix.md)
 ↗ [Awesome SE](🏇%20Galleries%20&%20Awesome%20SE/Awesome%20SE.md)
 
 ↗ [Galleries & Awesome SE](🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 ↗ [Cracked Projects](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Cracked%20Projects.md)
 
+↗ [Software Security](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
+
 
 ### Learning Resources
-[Java 全栈知识体系](https://pdai.tech)
 
 
 

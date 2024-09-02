@@ -5,9 +5,12 @@
 
 
 ## Res
+### Related Topics
+↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
+
+
 ### Reference Documents for x86-64 Instruction Encoding
 Here is a list of references and useful documents I will refer to in this post and you can further check later too to encode more instructions.
-
 - x86-64 (and x86) ISA Reference from Intel and AMD’s [x86-64 (and x86) ISA Reference](https://www.systutorials.com/3024/x86-64-isa-assembly-references/) are the authoritative [document](https://www.systutorials.com/tag/document/ "document") here. Especially,
     - the [Intel 64 and IA-32 Architectures Software Developer’s Manuals](https://www.systutorials.com/go/intel-x86-64-reference-manual/)‘ “CHAPTER 2 INSTRUCTION FORMAT” is a good starting point. There are also references for each instruction.
     - the [Intel 64 and IA-32 Architectures Software Developer’s Manuals](https://www.systutorials.com/go/intel-x86-64-reference-manual/)‘ “APPENDIX B INSTRUCTION FORMATS AND ENCODINGS” is a good reference.
@@ -18,10 +21,6 @@ Here is a list of references and useful documents I will refer to in this post a
 [GNU assembler `as`](https://www.systutorials.com/docs/linux/man/1-as/)
 
 [`objdump` tool](https://www.systutorials.com/docs/linux/man/1-objdump/)
-
-
-### In Action
-↗ [x86 ISA Based ASM](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
 
 
 

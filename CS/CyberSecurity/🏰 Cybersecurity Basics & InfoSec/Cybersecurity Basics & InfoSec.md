@@ -6,14 +6,19 @@
 
 ## Res
 ### Related Topics
-↗ [Cyber Ranges & Labs](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
-↗ [SEED Project](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
+↗ [Secure Communication & Cryptosystems](../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md)
 ↗ [Risk Management](../⛈️%20Risk%20Management/Risk%20Management.md)
 ↗ [Software Security](🍦%20Software%20Security/Software%20Security.md)
 
+↗ [Cyber Ranges & Labs](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/Cyber%20Ranges%20&%20Labs.md)
+↗ [SEED Project](../☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SEED%20Project.md)
 
 
-## Intro
+### Other Resources
+
+
+
+## Intro: Information Security
 > 🔗 https://en.wikipedia.org/wiki/Information_security
 
 **Information security**, sometimes shortened to **InfoSec**, is the practice of protecting [information](https://en.wikipedia.org/wiki/Information) by mitigating information risks.
@@ -38,6 +43,8 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 ### Difference Between InfoSec & CyberSec?
+#infoSec #Cybersecurity
+
 最开始只有信息安全。
 安全圈里的大佬们，一直觉得信息安全很重要，要从“计算机科学与技术”一级学科中独立出来，自成一级学科。怎奈，大佬们上书了数年，都以失败告终。
 
@@ -55,19 +62,20 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 ## 🛡️ InfoSec Principles & Objectives
-> 网络空间安全：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。与信息安全以数据保护为中心不同，网络空间安全强调数据+人（社会组织）两个核心资产的保护。与这些核心资产相关的资产，如信息系统软硬件，社会舆论，国家领土完整性等，也自然而然地囊括进来。 ↗ [CyberSecurity /What is Cybersecurity?](../CyberSecurity.md#What%20is%20Cybersecurity?)
+> **网络空间安全**：广泛涵盖了基础设施及信息系统、信息资源本身、信息资源在社会/国家层面的影响。与信息安全以数据保护为中心不同，网络空间安全强调数据+人（社会组织）两个核心资产的保护。与这些核心资产相关的资产，如信息系统软硬件，社会舆论，国家领土完整性等，也自然而然地囊括进来。 ↗ [CyberSecurity /What is Cybersecurity?](../CyberSecurity.md#What%20is%20Cybersecurity?)
 > 
-> 信息安全：重点在信息资源本身的保护。当然也涉及支持信息资源的信息系统的保护，但是对系统的保护的目的也是从保护信息资源本身出发的。
+> **信息安全**：重点在信息资源本身的保护。当然也涉及支持信息资源的信息系统的保护，但是对系统的保护的目的也是从保护信息资源本身出发的。
 > 
 > ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
 > ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
+> ↗ [Secure Communication & Cryptosystems](../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md)
 
 信息本身的机密性（**Confidentiality**）、完整性（**Integrity**）和可用性（**Availability**）的保持，即防止未经授权使用信息、防止对信息的非法修改和破坏、确保及时可靠地使用信息。
 - 机密性：确保信息没有非授权的泄漏，不被非授权的个人、组织和计算机程序使用
 - 完整性：确保信息没有遭到篡改和破坏
 - 可用性：确保拥有授权的用户或程序可以及时、正常使用信息
 
-网络空间安全（应该是信息安全，但是原文如此）的最终任务是保护信息资源被合法用户安全使用，并禁止非法用户、入侵者、攻击者和黑客非法偷盗、使用信息资源。
+网络空间安全（这段讲的应该是信息安全，但是原文写的是“网络空间安全”）的最终任务是保护信息资源被合法用户安全使用，并禁止非法用户、入侵者、攻击者和黑客非法偷盗、使用信息资源。
 
 网络空间安全（应该是信息安全，但是原文如此）的保护机制包括电磁辐射、环境安全、计算机技术、网络技术等技术因素，还包括信息安全管理（含系统安全管理、安全服务管理和安全机制管理）、法律和心理因素等机制。
 
@@ -119,8 +127,31 @@ It is important to note that while technology such as cryptographic systems can 
 
 
 
+## 🛡️ Information System Security Design Principles
+> 🔗 https://textbook.cs161.org/principles/principles.html
+
+1. Know your threat model
+2. Consider Human Factors
+3. Security is economics
+4. Detect if you can’t prevent
+5. Defense in depth
+6. Least privilege
+7. Separation of responsibility
+8. Ensure complete mediation
+9. Shannon’s Maxim /Kerckhoff’s Principle
+10. Use fail-safe defaults
+11. Design security in from the start
+12. The Trusted Computing Base (TCB)
+13. TOCTTOU Vulnerabilities
+
+
+
 ## Information Governance
 TBD..
+
+
+## Information Assurance
+↗ [Information Assurance (IA)](Information%20Assurance%20(IA).md)
 
 
 
