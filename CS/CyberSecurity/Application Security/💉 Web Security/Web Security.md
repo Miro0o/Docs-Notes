@@ -15,7 +15,6 @@
 
 ↗ [Exploiting Web-based Applications & Services](Network%20Penetration%20(Pen-testing)/Exploit%20or%20Compromise%20Phase/Exploiting%20Web-based%20Applications%20&%20Services/Exploiting%20Web-based%20Applications%20&%20Services.md)
 ↗ [CTF /Web](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Web/Web.md)
-↗ [Application Layer Attacks](../../Network%20Security/Network%20Treats%20&%20Attacks/Application%20Layer%20Attacks.md)
 
 ↗ [SE /BackEndDev](../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
 ↗ [SE /FrontendDev](../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
@@ -38,7 +37,7 @@ We hope that this project provides you with excellent security guidance in an ea
 
 ### Web Security Trending
 📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-↗ [Web Application Security Risks & OWASP](🛟%20Web%20Application%20Security%20Risks%20&%20OWASP/Web%20Application%20Security%20Risks%20&%20OWASP.md)
+↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
 ![](../../../../Assets/Pics/Pasted%20image%2020231010134233.png)

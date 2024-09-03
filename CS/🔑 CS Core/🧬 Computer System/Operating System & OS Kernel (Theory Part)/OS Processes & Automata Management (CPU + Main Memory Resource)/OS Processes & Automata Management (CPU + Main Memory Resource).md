@@ -19,7 +19,7 @@
 
 ## Intro
 A process is an operating system abstraction that groups together multiple resources:
-- An ↗ [Address Space](../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
+- An ↗ [Address Space & Memory Layout](../OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 - One or more ↗ [Threads & Coroutine](Threads%20&%20Coroutine/Threads%20&%20Coroutine.md)
 - Opened files
 - ↗ [Sockets](IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/Sockets.md)

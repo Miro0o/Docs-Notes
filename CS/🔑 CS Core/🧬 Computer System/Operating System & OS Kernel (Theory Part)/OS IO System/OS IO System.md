@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Shell & Terminals (Console)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 ↗ [Computer IO System](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20IO%20System/Computer%20IO%20System.md)
+↗ [Shell & Terminals (Console)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md)
 ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 
 ↗ [Computer Interfaces & Hardware Drivers](../../Computer%20Interfaces%20&%20Hardware%20Drivers/Computer%20Interfaces%20&%20Hardware%20Drivers.md)

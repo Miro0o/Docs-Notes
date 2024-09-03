@@ -6,6 +6,9 @@
 
 ## Res
 ### Related Topics
+↗ [Computer Memory & Storage](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
+↗ [Primary Storage (Main Memory) Technologies & RAM](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM/Primary%20Storage%20(Main%20Memory)%20Technologies%20&%20RAM.md)
+
 ↗ [Database System](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
 ↗ [File & File System](../OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 
@@ -19,17 +22,25 @@
 
 
 ## Intro
+> 🔗 https://en.wikipedia.org/wiki/Memory_management#Manual_memory_management
+
+![](../../../../../Assets/Pics/Screenshot%202024-09-02%20at%2014.57.10.png)
+<small>https://en.wikipedia.org/wiki/Memory_management</small>
 
 
 
 ## ⭐️ Memory Management Requirements
 ### 1️⃣ Relocation
 
+
 ### 2️⃣ Protection
+
 
 ### 3️⃣ Sharing
 
+
 ### 4️⃣ Logical Organization
+
 
 ### 5️⃣ Physical Organization
 

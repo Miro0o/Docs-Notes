@@ -1,4 +1,4 @@
-# Memory Access
+# Memory Access & Addressing
 
 [TOC]
 
@@ -10,7 +10,7 @@
 
 ↗ [CPU (Central Processing Unit)](../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [Address Space](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
+↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 
 
 
@@ -30,28 +30,18 @@
 #TODO 
 
 
-
-## 🆚 Instructions and Data
-Instructions and Data are all values stored in memory. It depends on the CPU to interpret them as what they meant to be useful. 
-Flow links above to dive deep, including how they are formatted, how they are accessed and more.
-
-
-### Instructions Essentials (指令)
-↗ [ISA Basics](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/ISA%20Basics.md)
-
-### Data Essentials (数据)
-↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
-
-
-### Effective Address （有效地址） 
+### 🆚 Instructions and Data
+- ↗ [ISA Basics](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/ISA%20Basics.md)
+- ↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+- Effective Address （有效地址） 
 
 
 
 ## 📬 Addressing
-### Memory Address Space
+### Intro: Address Space
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-01%20at%2011.08.25%20AM.png)
 
-↗ [Address Space](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
+↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 
 
 ### Addressing Unit

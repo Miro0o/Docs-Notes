@@ -10,10 +10,10 @@
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
-↗ [Address Space](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space.md)
+↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 ↗ [Computer Memory & Storage](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 ↗ [Register](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
-↗ [Memory Access](../Instruction%20Execution/Memory%20Access.md)
+↗ [Memory Access & Addressing](../Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 ↗ [Network Sockets](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Network%20Sockets.md)
 ↗ [Network Programming & RPC](../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
@@ -34,10 +34,71 @@
 
 
 ## Intro
+### Function /Procedure Calls in a C Example
+
+
+### ⭐ Function /Procedure Calls in an x86 Example
+> ↗ [x86 Architecture Family (80x86, 8086 family)](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
+> ↗ [x86 ISA Based ASM](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
+> ↗ [8086 ASM (16 bit)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
+> ↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
+> ↗ [Register](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
+> 🔗 https://textbook.cs161.org/memory-safety/x86.html#28-x86-function-calls
+
+When a function is called, the stack allocates extra space to store local variables and other information relevant to that function. Recall that the stack grows down, so this extra space will be at lower addresses in memory. Once the function returns, the space on the stack is freed up for future function calls. This section explains the steps of a function call in x86.
+
+**Recall that in a function call, the _caller_ calls the _callee_.** Program execution starts in the caller, moves to the callee as a result of the function call, and then returns to the caller after the function call completes.
+
+When we call a function in x86, we need to update the values in all three registers we’ve discussed:
+- `eip`, the instruction pointer, is currently pointing at the instructions of the caller. It needs to be changed to point to the instructions of the callee.
+- `ebp` and `esp` currently point to the top and bottom of the caller stack frame, respectively. Both registers need to be updated to point to the top and bottom of a new stack frame for the callee.
+
+When the function returns, we want to restore the old values in the registers so that we can go back to executing the caller. _When we update the value of a register, we need to save its old value on the stack so we can restore the old value after the function returns._
+
+There are 11 steps to calling an x86 function and returning. In this example, `main` is the caller function and `foo` is the callee function. In other words, `main` calls the `foo` function.
+
+Here is the stack before the function is called. `ebp` and `esp` point to the top and bottom of the caller stack frame.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163556.png)
+
+**1. Push arguments onto the stack.** RISC-V passes arguments by storing them in registers, but x86 passes arguments by pushing them onto the stack. Note that esp is decremented as we push arguments onto the stack. Arguments are pushed onto the stack in reverse order.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163609.png)
+
+**2. Push the old `eip` (`rip`) on the stack.** We are about to change the value in the `eip` register, so we need to save its current value on the stack before we overwrite it with a new value. When we push this value on the stack, it is called the `old eip` or the `rip` (return instruction pointer).[6](https://textbook.cs161.org/memory-safety/x86.html#fn:6)
+
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163631.png)
+
+**3. Move `eip`.** Now that we’ve saved the old value of `eip`, we can safely change `eip` to point to the instructions for the callee function.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163646.png)
+
+**4. Push the `old ebp` (`sfp`) on the stack.** We are about to change the value in the `ebp` register, so we need to save its current value on the stack before we overwrite it with a new value. When we push this value on the stack, it is called the `old ebp` or the `sfp` (saved frame pointer). Note that `esp` has been decremented because we pushed a new value on the stack.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163656.png)
+
+**5. Move `ebp` down.** Now that we’ve saved the old value of `ebp`, we can safely change `ebp` to point to the top of the new stack frame. The top of the new stack frame is where `esp` is currently pointing, since we are about to allocate new space below `esp` for the new stack frame.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163706.png)
+
+**6. Move esp down.** Now we can allocate new space for the new stack frame by decrementing `esp`. The compiler looks at the complexity of the function to determine how far `esp` should be decremented. For example, a function with only a few local variables doesn’t require too much space on the stack, so `esp` will only be decremented by a few bytes. On the other hand, if a function declares a large array as a local variable, `esp` will need to be decremented by a lot to fit the array on the stack.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163716.png)
+
+**7. Execute the function.** Local variables and any other necessary data can now be saved in the new stack frame. Additionally, since ebp is always pointing at the top of the stack frame, we can use it as a point of reference to find other variables on the stack. For example, the arguments will be located starting at the address stored in ebp, plus 8.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163725.png)
+
+**8. Move esp up.** Once the function is ready to return, we increment `esp` to point to the top of the stack frame (`ebp`). This effectively erases the stack frame, since the stack frame is now located below esp. (Anything on the stack below `esp` is undefined.)
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163733.png)
+
+**9. Restore the old `ebp` (`sfp`)**. The next value on the stack is the `sfp`, the old value of `ebp` `before` we started executing the function. We pop the `sfp` off the stack and store it back into the `ebp` register. This returns `ebp` to its old value before the function was called.
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163742.png)
+
+**10. Restore the old eip (rip)**. The next value on the stack is the rip, the old value of eip before we started executing the function. We pop the rip off the stack and store it back into the eip register. This returns eip to its old value before the function was called.[7](https://textbook.cs161.org/memory-safety/x86.html#fn:7)
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163750.png)
+
+**11. Remove arguments from the stack.** Since the function call is over, we don’t need to store the arguments anymore. We can remove them by incrementing `esp` (recall that anything on the stack below `esp` is undefined).
+![](../../../../../Assets/Pics/Pasted%20image%2020240902163801.png)
+
+You might notice that we saved the old values of `eip` and `ebp` during the function call, but not the old value of esp. A nice consequence of this function call design is that `esp` will automatically move to the bottom of the stack as we push values onto the stack and automatically return to its old position as we remove values from the stack. As a result, there is no need to save the old value of `esp` during the function call.
 
 
 
-## 🎯 Local Procedure Call
+## 🎯 Local Procedure Call (LPC)
 > ↗ [Internal Sockets](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Internal%20Sockets.md)
 
 
@@ -51,7 +112,7 @@
 
 
 
-## 🎯 Remote Procedure Call
+## 🎯 Remote Procedure Call (RPC)
 > ↗ [Remote Procedure Call (RPC)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/🛜%20Network%20Sockets/Remote%20Procedure%20Call%20(RPC).md)
 > ↗ [Network Programming & RPC](../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 > ↗ [SE /Middleware /Remote Procedure Call (RPC)](../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/RPC%20Services/RPC%20Services.md)
