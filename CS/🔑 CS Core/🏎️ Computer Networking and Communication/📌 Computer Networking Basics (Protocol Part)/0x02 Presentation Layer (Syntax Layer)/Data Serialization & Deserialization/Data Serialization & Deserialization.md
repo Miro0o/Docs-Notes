@@ -22,6 +22,8 @@
 
 ↗ [Data Compression Technologies](../../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
 
+↗ [Insecure Deserialization](../../../../../CyberSecurity/Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Software%20and%20Data%20Integrity%20Failures/Insecure%20Deserialization.md)
+
 
 
 ## Intro

@@ -117,7 +117,7 @@ However, there are some important reasons why programmers need to understand how
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
 
-↗ [von Neumann Based Microarchitecture /Memory Access](🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+↗ [von Neumann Based Microarchitecture /Memory Access](🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 ↗ [System Security /Memory Attack](../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Memory%20Threats.md)
 
 ↗ [Program Execution (Runtime)](🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Program%20Execution%20(Runtime).md)

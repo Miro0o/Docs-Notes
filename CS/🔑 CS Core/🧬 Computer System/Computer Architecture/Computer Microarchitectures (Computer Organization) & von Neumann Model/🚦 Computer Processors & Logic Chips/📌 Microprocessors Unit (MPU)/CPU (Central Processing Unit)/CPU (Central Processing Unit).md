@@ -16,7 +16,7 @@
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../../Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
 ↗ [Instruction Execution](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
-↗ [Memory Access](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+↗ [Memory Access & Addressing](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 ↗ [Semiconductor Industry & Companies](../../../../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
@@ -90,7 +90,7 @@ As in ↗ [Control Unit](📌%20Basic%20CPU%20Components/Control%20Unit.md) for 
 
 
 ## Instruction and Data
-↗ [Memory Access](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access.md)
+↗ [Memory Access & Addressing](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 
 

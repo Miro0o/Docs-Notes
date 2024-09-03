@@ -10,7 +10,7 @@
 
 
 ### Related Topics
-↗ [Web Application Security Risks & OWASP](../../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20&%20OWASP/Web%20Application%20Security%20Risks%20&%20OWASP.md)
+↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
 
 
 

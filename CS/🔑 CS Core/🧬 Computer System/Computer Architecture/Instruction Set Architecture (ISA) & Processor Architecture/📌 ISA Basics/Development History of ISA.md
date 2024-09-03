@@ -32,8 +32,13 @@
 > Intel & AMD are main design companies of x86 architecture (?)  
 
 ![[../../../../../../Assets/Illustrations/Computer System/x86_history.excalidraw]]
+### Designers and Manufacturers
+> 🔗 https://en.wikipedia.org/wiki/X86#Designers_and_manufacturers
 
-### 🕰️ Major Timeline
+At various times, companies such as [IBM](https://en.wikipedia.org/wiki/IBM "IBM"), [VIA](https://en.wikipedia.org/wiki/VIA_Technologies "VIA Technologies"), [NEC](https://en.wikipedia.org/wiki/NEC "NEC"), [AMD](https://en.wikipedia.org/wiki/AMD "AMD"), [TI](https://en.wikipedia.org/wiki/Texas_Instruments "Texas Instruments"), [STM](https://en.wikipedia.org/wiki/STMicroelectronics "STMicroelectronics"), [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu "Fujitsu"), [OKI](https://en.wikipedia.org/wiki/Oki_Electric_Industry "Oki Electric Industry"), [Siemens](https://en.wikipedia.org/wiki/Siemens "Siemens"), [Cyrix](https://en.wikipedia.org/wiki/Cyrix "Cyrix"), [Intersil](https://en.wikipedia.org/wiki/Intersil "Intersil"), [C&T](https://en.wikipedia.org/wiki/Chips_and_Technologies "Chips and Technologies"), [NexGen](https://en.wikipedia.org/wiki/NexGen "NexGen"), [UMC](https://en.wikipedia.org/wiki/United_Microelectronics_Corporation "United Microelectronics Corporation"), and [DM&P](https://en.wikipedia.org/wiki/Vortex86 "Vortex86") started to design or manufacture x86 [processors](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") (CPUs) intended for personal computers and embedded systems. Other companies that designed or manufactured x86 or [x87](https://en.wikipedia.org/wiki/X87 "X87") processors include [ITT Corporation](https://en.wikipedia.org/wiki/ITT_Corporation "ITT Corporation"), [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor "National Semiconductor"), ULSI System Technology, and [Weitek](https://en.wikipedia.org/wiki/Weitek "Weitek").
+
+
+### 🕰️ From 16-bit and 32-bit to 64-bit Architecture
 #### 8008 (8-bit)
 
 #### 8080
@@ -80,7 +85,7 @@ The pipeline mentioned earlier is the general format for the Pentium execution p
 On less interesting notes, the size of the on-chip cache was doubled to 16KB (with 8KB devoted to instructions and 8KB to data), and additional command pins were added to allow for multi-processor systems.
 
 
-### ⭐ Chronology
+### 📈 Chronology
 🔗 https://en.wikipedia.org/wiki/X86#Chronology
 
 
