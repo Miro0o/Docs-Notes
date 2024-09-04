@@ -86,7 +86,7 @@ Suppose the ISA for a particular processor defines an `ADD` instruction that a
 For an instruction like `ADD R1, R2, R3` (where R1 = R2 + R3):
 - **ISA**: Describes that this operation is an addition, involves three registers, and follows a specific binary encoding pattern.
 - **Machine Code**: The actual binary code might be `0001 001 010 011`, where `0001` is the opcode for `ADD`, `001` is the code for R1, `010` for R2, and `011` for R3.
-#### Does Every ISA Instruction Map to Only One Machine Code?
+#### ISA Instruction to Machine Code Mapping /Encoding
 > 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
 
 1. **One-to-One Mapping**:
@@ -107,8 +107,9 @@ For an instruction like `ADD R1, R2, R3` (where R1 = R2 + R3):
 - **CISC Architecture (e.g., x86)**:
     - An x86 instruction like `MOV AX, [BX + SI]` might have different encodings depending on the size of the operands, the addressing mode, and other factors.
     - A complex instruction like `LODSB` (which loads a byte from memory into the AL register and increments the pointer) might translate into different machine code sequences depending on the current addressing mode or segment registers.
-#### 🤔 How is ISA Translated into Machine Code? -- From ASM to Machine Code
-Machine code is the actual binary instruction executed by CPU. ISA defines the format, structure, and organization of each binary instruction and give them mnemonics. ASM, based on those mnemonics, adds more language-related grammars to better serve the assembler and programmer.  -- personal understanding
+#### 🤔 How is ISA/ASM Translated into Machine Code?
+Machine code is the actual binary instruction executed by CPU. ISA defines the format, structure, and organization of each binary instruction and give them mnemonics. ASM, based on those mnemonics, adds more language-related grammars, like pseudo-instruction, to better serve the assembler and programmer.  
+-- personal understanding
 
 ↗ [ASM (Assembly Languages)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 

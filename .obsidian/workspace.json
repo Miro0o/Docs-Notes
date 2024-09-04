@@ -39,28 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/FAQ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30297c4b6f13f602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/CS172 Computability and Complexity.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/ABI (Application Binary Interface).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/CS172 Computability and Complexity.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/CS172 Computability and Complexity.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/CS172 Computability and Complexity.md"
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md"
               }
             }
           },
@@ -211,54 +197,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30297c4b6f13f602",
+  "active": "169456bc68c9f7db",
   "lastOpenFiles": [
-    "CS/Academics/Academics.md",
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/CS172 Computability and Complexity.md",
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Instruction Execution.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Programming.md",
     "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/ABI (Application Binary Interface).md",
+    "CS/Software Engineering/Computer Media Programming/Computer Media Programming.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ABI/x86 Calling Conventions.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ABI/x86 ABI.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/RISC-V ISA Based ASM/RISC-V ABI/RISC-V ABI.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ISA Based ASM.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/FAQ.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ARM ISA Based ASM/ARM ABI/ARM ABI.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ARM ISA Based ASM/ARM ABI",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/RISC-V ISA Based ASM/RISC-V ABI",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ABI",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/CS172 Computability and Complexity.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/Instruction Set Architecture (ISA) & Processor Architecture.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/📌 Instruction Basics/Instruction Basics.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/📌 Instruction Basics/Instruction Formats.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/📌 Instruction Basics/Instruction Types.md",
+    "Assets/Pics/Pasted image 20240904110656.png",
+    "Assets/Pics/Pasted image 20240904105835.png",
+    "Assets/Pics/Pasted image 20240904105830.png",
+    "Assets/Pics/Pasted image 20240904105805.png",
+    "CS/Academics/Academics.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Instruction Execution/Instruction Execution.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
     "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/ASM (Assembly Languages).md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🪪 Open Source (Free Software) Spirits & Software License/📌 Awesome Open Source CLI Software/Awesome CLI Integration.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Programming.md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/System Core Function Libraries & C Standard Library (User Mode).md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS System LIbrar",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/😴 Operating System Components & Runtime Libraries/Operating System Components & Runtime Libraries.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/📌 ISA Basics/ISA Basics.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Slot (Internal Bus)/ISA (Industry Standard Architecture)/ISA (Industry Standard Architecture).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/x86 ISA Based ASM/x86 ISA Based ASM.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Instruction Listing.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Address Space & Memory Layout.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Terminal Emulators/📌 Windows Console & ConPTY Based/git-bash.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Discrete Mathematics.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Operations Research/Combinatorics (Combinatorial Mathematics)/Combinatorics (Combinatorial Mathematics).md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Operations Research/Combinatorics (Combinatorial Mathematics)/Appendix.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/Operations Research/COP (Convex Optimization Programming)/COP (Convex Optimization Programming).md",
     "Assets/Pics/Pasted image 20240902163801.png",
     "Assets/Pics/Pasted image 20240902163750.png",
     "Assets/Pics/Pasted image 20240902163742.png",
     "Assets/Pics/Pasted image 20240902163733.png",
     "Assets/Pics/Pasted image 20240902163725.png",
     "Assets/Pics/Pasted image 20240902163716.png",
-    "Assets/Pics/Pasted image 20240902163706.png",
-    "Assets/Pics/Pasted image 20240902163656.png",
-    "Assets/Pics/Pasted image 20240902163646.png",
-    "Assets/Pics/Pasted image 20240902163631.png",
     "CS/CyberSecurity/Application Security/💉 Web Security/Web Application Threats & Attacks",
     "CS/🗺 CS Overview/💋 Intro to Computer Science/😤 Information, Data, Number and Math in Digital Systems/Media Data",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/ASM (Assembly Languages)/RISC-V ISA Based ASM",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/JVM Instrument Set & Java Bytecode/Java By",
     "Untitled",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols/LLTD (Link Layer Topology Discovery)",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x06 Data Link Layer/Switched LAN/Discovery & Information Sharing Protocols/LLDP (Link Layer Discovery Protocol)",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

@@ -9,9 +9,10 @@
 ↗ [ASM (Assembly Languages)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
 
+↗ [(Text) Data Representations & Storage in Computer](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/(Text)%20Data%20Representations%20&%20Storage%20in%20Computer.md)
+↗ [Computer Memory & Storage](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
-↗ [Computer Memory & Storage](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Memory%20&%20Storage/Computer%20Memory%20&%20Storage.md)
 ↗ [Register](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 ↗ [Memory Access & Addressing](../Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
@@ -40,7 +41,7 @@
 ### ⭐ Function /Procedure Calls in an x86 Example: A Quick Detour
 > ↗ [x86 Architecture Family (80x86, 8086 family)](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 > ↗ [x86 ISA Based ASM](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
-> ↗ [8086 ASM (16 bit)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
+> ↗ [8086 ASM (16 bit)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md)
 > ↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 > ↗ [Register](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 > 🔗 https://textbook.cs161.org/memory-safety/x86.html#28-x86-function-calls
@@ -99,37 +100,16 @@ You might notice that we saved the old values of `eip` and `ebp` during the func
 
 
 
-## 🎻 Function /Procedure Calling Conventions
+## 🎻 Function /Procedure Calling Conventions & ABI
 > 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
+> 
+> **1️⃣ Calling conventions**, **2️⃣ type representations**, and **3️⃣ name mangling** are all part of what is known as an ↗ [ABI (Application Binary Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/ABI%20(Application%20Binary%20Interface).md)
 
 Function call conventions are a set of rules that define how functions receive parameters, return values, and manage resources such as the stack and registers. These conventions ensure **compatibility** and **interoperability** between different parts of a program, such as between functions written in different languages or between a program and the operating system.
 
-Function calling conventions are thus a product of both the underlying **architecture (ISA)** and the design choices made by **compiler** and **system designers**.
+==Function calling conventions are thus a product of both the underlying **architecture (ISA)** and the design choices made by **compiler** and **system designers**.==
 - **ISA Influence**: The difference in function call conventions between architectures like x86 and RISC-V is indeed influenced by their respective ISAs. CISC architectures like x86 traditionally use a stack-based calling convention due to a smaller number of registers, while RISC architectures like RISC-V use register-based calling conventions because they have more registers available.
 - **Flexibility**: Although ISAs strongly influence calling conventions, they are not strictly defined by the ISA itself. They can vary based on operating systems, compilers, and specific use cases within the same ISA.
-
-
-### Aspects Considered by Function Call Conventions
-> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
-
-Function call conventions are generally defined by the following aspects:
-1. **Argument Passing**: How and where arguments are passed to functions (e.g., in registers, on the stack, or a combination of both).
-2. **Return Value**: How and where the return value is provided back to the caller (e.g., in a specific register).
-3. **Stack Management**: How the call stack is managed, including who is responsible for cleaning up the stack after the call (caller vs. callee).
-4. **Register Preservation**: Which registers must be preserved across function calls (callee-saved vs. caller-saved registers).
-5. **Calling Sequence**: The specific instructions or sequence used to make the function call and return.
-
-
-### Influence of ISA on Calling Conventions
-> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
-
-Yes, calling conventions are heavily influenced by the Instruction Set Architecture (ISA). Different ISAs have different sets of registers, stack management mechanisms, and instructions, which impact how calling conventions are designed.
-#### x86 Architecture (CISC)
-- **Calling Convention**: In traditional x86 calling conventions (like `cdecl`, `stdcall`), arguments are often passed on the stack. The return address is also stored on the stack, and the stack is used extensively due to the limited number of general-purpose registers.
-- **Reason**: x86 is a Complex Instruction Set Computer (CISC) architecture with a smaller number of registers (especially in 32-bit mode). The stack-based approach allows for flexible function calls with varying numbers of arguments without overloading the limited registers.
-#### RISC-V Architecture (RISC)
-- **Calling Convention**: In RISC-V, a modern Reduced Instruction Set Computer (RISC) architecture, arguments are primarily passed in registers. Specifically, the first few arguments are passed in specific registers, and only additional arguments (beyond those that can be stored in registers) are passed on the stack.
-- **Reason**: RISC architectures like RISC-V have a larger number of general-purpose registers, which allows for more efficient function calls by passing arguments directly in registers, reducing memory access and speeding up function calls.
 
 
 

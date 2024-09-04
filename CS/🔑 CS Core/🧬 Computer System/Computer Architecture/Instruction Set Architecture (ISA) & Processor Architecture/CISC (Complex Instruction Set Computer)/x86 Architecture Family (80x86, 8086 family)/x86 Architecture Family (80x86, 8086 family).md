@@ -48,12 +48,12 @@ As of June 2022, most [desktop](https://en.wikipedia.org/wiki/Desktop_computer
 
 ### x86 Addressing Mode: Segmented Addressing
 > ↗ [Memory Access & Addressing](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
-> ↗ [8086 ASM (16 bit) /⛸️ Data Access](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md#⛸️%20Data%20Access)
+> ↗ [8086 ASM (16 bit) /⛸️ Data Access](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#⛸️%20Data%20Access)
 
 
 ### x86 Registers
 > ↗ [Register](../../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
-> ↗ [8086 ASM (16 bit) /🫙 Registers](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md#🫙%20Registers)
+> ↗ [8086 ASM (16 bit) /🫙 Registers](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#🫙%20Registers)
 
 ![](../../../../../../../Assets/Pics/x86%20registers%20map.png)
 

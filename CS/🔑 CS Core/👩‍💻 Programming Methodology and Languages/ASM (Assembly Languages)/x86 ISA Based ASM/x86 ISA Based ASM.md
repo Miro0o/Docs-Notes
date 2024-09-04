@@ -14,7 +14,7 @@
 
 ### Related Topics
 ↗ [x86 Architecture Family (80x86, 8086 family)](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
-↗ [8086 ASM (16 bit)](8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
+↗ [8086 ASM (16 bit)](8086%20ASM%20(16%20bit).md)
 
 
 
@@ -118,6 +118,7 @@ Many x86 assemblers use Intel syntax, including FASM, MASM, NASM, TASM, and YASM
 - Execution Modes
 - Instruction Types & Features
 - program flow
+- calling conventions
 
 
 
