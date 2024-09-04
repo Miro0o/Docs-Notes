@@ -35,7 +35,7 @@
 
 ![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
-↗ [Instruction Levels](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Levels/Instruction%20Levels.md)
+↗ [Instruction Levels](../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Instruction%20Levels.md)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-05-22%20at%209.50.58%20PM.png)
 <small>A examplary illustration of the compilation, linking, loading & execution process</small>

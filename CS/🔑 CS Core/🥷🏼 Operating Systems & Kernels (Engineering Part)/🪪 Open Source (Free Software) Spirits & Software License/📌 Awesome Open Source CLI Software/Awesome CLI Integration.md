@@ -128,13 +128,16 @@ For further detail, check through its official docs.
 
 ## ls Visualization
 ### 👉 lsd
-lsd provides various services for CoreServices frameworks. It is not meant to be invoked directly and it must not be terminated.
-
-#TODO 
+`lsd` provides various services for CoreServices frameworks. It is not meant to be invoked directly and it must not be terminated.
 
 
-### 👉 exa
-#TODO 
+### 👉 exa | eza
+🏠 https://the.exa.website
+🚧 https://github.com/ogham/exa
+exa is unmaintained, use the fork `eza` instead! 2024-01-24 :(
+
+🏠 https://eza.rocks
+🚧 https://github.com/eza-community/eza
 
 
 

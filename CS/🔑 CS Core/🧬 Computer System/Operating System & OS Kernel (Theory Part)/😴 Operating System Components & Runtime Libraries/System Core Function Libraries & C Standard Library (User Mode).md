@@ -14,6 +14,8 @@
 ↗ [Java Runtimes (JRE & JDKs Tools)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools).md)
 - ↗ [Java Virtual Machine (JVM)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Java%20Virtual%20Machine%20(JVM)/Java%20Virtual%20Machine%20(JVM).md)
 
+↗ [Apple System Libraries Runtimes Environments](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/📌%20Apple%20System%20Libraries%20Runtimes%20Environments/Apple%20System%20Libraries%20Runtimes%20Environments.md)
+
 ↗ [Windows System Libraries & Runtime Environments](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows%20System%20Libraries%20&%20Runtime%20Environments/Windows%20System%20Libraries%20&%20Runtime%20Environments.md)
 - ↗ [Microsoft C run-time library (MSVCRT.DLL)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows%20System%20Libraries%20&%20Runtime%20Environments/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL)/Microsoft%20C%20run-time%20library%20(MSVCRT.DLL).md)
 

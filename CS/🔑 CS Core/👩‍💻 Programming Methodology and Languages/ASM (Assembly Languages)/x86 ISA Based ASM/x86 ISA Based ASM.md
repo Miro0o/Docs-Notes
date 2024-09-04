@@ -33,6 +33,11 @@ Regarded as a programming language, assembly is machine-specific and low-level. 
 
 
 ### 🤔 x86 ASM Syntax: Intel Syntax & AT&T Syntax
+There are AT&T syntax and Intel syntax. In Intel documents, it is usually in Intel syntax. With GNU toolchains on [Linux](https://www.systutorials.com/category/linux/ "Linux"), the default syntax used is usually the AT&T one.
+
+The most significant difference between these 2 syntaxes is that AT&T and Intel syntax use the opposite order for source and destination operands. Intel syntax uses **“dest, source”** while the AT&T syntax uses **“source, dest”**. Note that instructions with more than one source operand, such as the enter instruction, do not have reversed order. For the representation of operands with the SIB or displacement, the formats are different. For example, the Intel syntax is `[rdi+0xa]` for `0xa(%rdi)` in AT&T syntax. For a list of notable differences, please check [AT&T Syntax versus Intel Syntax](http://www.sourceware.org/binutils/docs-2.12/as.info/i386-Syntax.html).
+
+
 > 🔗 https://csit.kutztown.edu/~schwesin/fall20/csc235/x86-64_syntax.html
 
 x86 (both 32- and 64-bit) has two alternative syntaxes available for it. Some assemblers can only work with one or the other, while a few can work with both.
