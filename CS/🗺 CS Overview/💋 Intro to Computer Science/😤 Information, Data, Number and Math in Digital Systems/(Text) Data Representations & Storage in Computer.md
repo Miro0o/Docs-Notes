@@ -76,7 +76,7 @@ Even though stack-based machines have good code density and a simple model for t
 **cons**
 a stack cannot be accessed randomly, which makes it difficult to generate efficient code. In addition, the stack becomes a bottleneck during execution.
 
-> ↗ [Instruction Formats](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Formats.md) - reverse polish notation
+> ↗ [Instruction Formats](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Formats.md) - reverse polish notation
 
 ![](../../../../Assets/Pics/Screenshot%202023-06-24%20at%2010.31.50%20PM.png)
 #### 2️⃣ Accumulator Architecture
@@ -86,7 +86,7 @@ Accumulator architectures such as MARIE, with one operand implicitly in the accu
 #### 3️⃣ GPR (General Purpose Register) Architecture
 > ❗❗ Two characters concern GPR metrics the most: instruction length & instruction address modes.
 > 
-> ↗ [Instruction Formats /Instruction length](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Formats.md)
+> ↗ [Instruction Formats /Instruction length](../../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Formats.md)
 > ↗ [Memory /Memory Access](../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 
 General-purpose register architectures, which use sets of general-purpose registers, are the most widely accepted models for machine architectures today. 

@@ -95,45 +95,7 @@ The processor runs in real mode immediately after power on, so an **operating sy
 
 
 ## 🧻 x86 Instruction Listings
-> 🔗 https://en.wikipedia.org/wiki/X86_instruction_listings#
-
-The x86 instruction set refers to the set of instructions that x86-compatible microprocessors support. The instructions are usually part of an executable program, often stored as a computer file and executed on the processor.
-
-The x86 instruction set has been extended several times, introducing wider registers and datatypes as well as new functionality.
-
-
-### Overview: x86 Instruction Types & Features
-> 🔗 https://en.wikipedia.org/wiki/X86_assembly_language#Instruction_types
-
-In general, the features of the modern x86 instruction set are:
-1. A compact encoding:
-	1. Variable length and alignment independent (encoded as little endian, as is all data in the x86 architecture)
-	2. Mainly one-address and two-address instructions, that is to say, the first operand is also the destination.
-	3. Memory operands as both source and destination are supported (frequently used to read/write stack elements addressed using small immediate offsets).
-	4. Both general and implicit register usage; although all seven (counting ebp) general registers in 32-bit mode, and all fifteen (counting rbp) general registers in 64-bit mode, can be freely used as accumulators or for addressing, most of them are also implicitly used by certain (more or less) special instructions; affected registers must therefore be temporarily preserved (normally stacked), if active during such instruction sequences.
-2. Produces conditional flags implicitly through most integer ALU instructions.
-3. Supports various addressing modes including immediate, offset, and scaled index but not PC-relative, except jumps (introduced as an improvement in the x86-64 architecture).
-4. Includes floating point to a stack of registers.
-5. Contains special support for atomic read-modify-write instructions (xchg, cmpxchg/cmpxchg8b, xadd, and integer instructions which combine with the lock prefix)
-6. SIMD instructions (instructions which perform parallel simultaneous single instructions on many operands encoded in adjacent cells of wider registers).
-
-
-### x86 Integer Instructions
-
-
-### x87 Floating-Point Instructions
-
-
-### SIMD Instructions
-
-
-### Cryptographic Instructions
-
-
-### Virtualization Instructions
-
-
-### Other Instructions
+↗ [x86 Instruction Listing](x86%20Instruction%20Listing.md)
 
 
 

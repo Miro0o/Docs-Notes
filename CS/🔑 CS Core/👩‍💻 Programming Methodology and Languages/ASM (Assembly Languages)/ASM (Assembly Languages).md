@@ -24,8 +24,6 @@
 ↗ [CTF - RE&BE](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/RE%20&%20BE/RE%20&%20BE.md)
 ↗ [Cybersecurity - Reverse Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 
-↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../🧬%20Computer%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
-
 
 ### Learning Resources
 🏫 [Compilation Principles](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
@@ -53,16 +51,28 @@
 ![](../../../../Assets/Pics/Pasted%20image%2020230227223106.png)
 <small>Assembly Language in the Computer Programming Language Hierarchy</small>
 
-
 > Assembly language is human-readable characters encoding of binary machine code language!
-> ↗ [Machine Code](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
+> ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+> ↗ [Machine Code](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
+> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../🧬%20Computer%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
 
 
 ### What is ASM and why is it?
+> ↗ [FAQ/ 👉 ISA 🆚 ASM ? Differences & Commons 🤔](../../🧬%20Computer%20System/Computer%20Architecture/FAQ.md#👉%20ISA%20🆚%20ASM%20?%20Differences%20&%20Commons%20🤔)
+
+> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
+
+**What is Assembly Language (ASM)?**
+- **Assembly Language (ASM)** is a low-level programming language that provides a human-readable representation of the machine code defined by an ISA. Each instruction in an assembly language corresponds directly to a machine instruction supported by the ISA.
+- **Key Aspects of ASM:**
+	- **Mnemonic Representation**: Assembly language uses mnemonics (e.g., `ADD`, `MOV`, `JMP`) to represent the machine instructions defined by the ISA. These mnemonics are more readable than binary code.
+	- **Syntax and Directives**: ASM includes a specific syntax and directives (e.g., `.data`, `.text`) to organize code, declare data sections, and manage assembly-time operations like macros and constants.
+	- **Labels and Symbols**: ASM allows the use of labels and symbols to make code more understandable and to manage control flow (e.g., loop labels, function names).
+	- **Assembler**: An assembler is a tool that translates assembly language code into the corresponding machine code that the processor can execute.
 #### History of ASM
 
 
-### How ASM works?
+### How ASM works? /How ASM Translated into Machine Code?
 >💡 A little bit computer organization & architecture knowledge needed!
 >
 >🔗 check out ↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md) for details.
@@ -72,16 +82,6 @@
 
 ↗ [System Level Programming](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 ↗ [8086 ASM (16 bit)](x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
-
-
-### ASM Instructions
-> 汇编语言发展至今，由以下 3 类指令组成:
-> 
-> 1. 汇编指令:机器码的助记符，有对应的机器码。
-> 2. 伪指令:没有对应的机器码，由编译器执行，计算机并不执行。
-> 3. 其他符号:如 +、-、\*、/ 等，由编译器识别，没有对应的机器码。
-> 
-> 汇编语言的核心是汇编指令，它决定了汇编语言的特性。
 
 
 

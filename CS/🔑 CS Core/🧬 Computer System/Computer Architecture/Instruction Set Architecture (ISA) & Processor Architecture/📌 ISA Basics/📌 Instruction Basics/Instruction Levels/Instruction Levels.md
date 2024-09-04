@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+↗ [Program Language Translation & Compilation Theory (Compile-time)](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 
 
 ### Other Resources
@@ -14,7 +14,7 @@
 
 
 ## Intro
-![](../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-03-21%20at%209.12.25%20PM.png)
 <small>Instruction Processing Level</small>
 
 
@@ -38,7 +38,7 @@
 #### 👉 Microcode
 🔗 [Microcode](https://en.wikipedia.org/wiki/Microcode "Microcode")
 
-↗ [Microcode](../../../../Firmware%20and%20Computer%20(OS)%20Booting/Microcode/Microcode.md)
+↗ [Microcode](../../../../../Firmware%20and%20Computer%20(OS)%20Booting/Microcode/Microcode.md)
 
 
 

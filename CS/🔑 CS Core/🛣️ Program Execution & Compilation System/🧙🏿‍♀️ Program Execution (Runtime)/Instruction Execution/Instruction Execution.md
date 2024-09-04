@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
-↗ [Instruction Basics](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Basics.md)
+↗ [Instruction Basics](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Basics.md)
 ↗ [ASM (Assembly Languages)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/ASM%20(Assembly%20Languages).md)
 
 ↗ [Computer Processors & Logic Chips](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Computer%20Processors%20&%20Logic%20Chips.md)
@@ -60,11 +60,11 @@ Software -> Program -> Instruction (ISA) -> Microinstruction (RTN) -> Control Si
 👉👉 This section! 👈 👈
 
 > Assembly language is human-readable characters encoding of binary machine code language!
-> ↗ [Machine Code](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
+> ↗ [Machine Code](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
 
 
 📝 **Micro-operations Level**
-↗ [Microoperations](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20Instruction%20Basics/Instruction%20Levels/Microoperations.md)
+↗ [Microoperations](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Microoperations.md)
 
 
 🔬 **Microcode (Firmware Level)**
@@ -81,10 +81,9 @@ Beyond CS!
 
 
 
-## Instruction Processing Process
+## Instruction Execution Process
 ![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.46PM.png)
 ![](../../../../../../../Assets/Pics/Screenshot%202023-10-13%20at%208.15.55PM.png)
-
 
 
 

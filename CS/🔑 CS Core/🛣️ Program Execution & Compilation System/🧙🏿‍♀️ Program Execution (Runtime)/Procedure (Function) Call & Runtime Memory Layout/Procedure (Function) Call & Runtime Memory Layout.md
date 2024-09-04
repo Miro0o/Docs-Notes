@@ -33,17 +33,18 @@
 
 
 
-## Intro
+## Intro: Function /Procedure Calls Basics
 ### Function /Procedure Calls in a C Example
 
 
-### ⭐ Function /Procedure Calls in an x86 Example
+### ⭐ Function /Procedure Calls in an x86 Example: A Quick Detour
 > ↗ [x86 Architecture Family (80x86, 8086 family)](../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/CISC%20(Complex%20Instruction%20Set%20Computer)/x86%20Architecture%20Family%20(80x86,%208086%20family)/x86%20Architecture%20Family%20(80x86,%208086%20family).md)
 > ↗ [x86 ISA Based ASM](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/x86%20ISA%20Based%20ASM.md)
 > ↗ [8086 ASM (16 bit)](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
 > ↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 > ↗ [Register](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 > 🔗 https://textbook.cs161.org/memory-safety/x86.html#28-x86-function-calls
+> 🎬 https://sp21.cs161.org/review/0
 
 When a function is called, the stack allocates extra space to store local variables and other information relevant to that function. Recall that the stack grows down, so this extra space will be at lower addresses in memory. Once the function returns, the space on the stack is freed up for future function calls. This section explains the steps of a function call in x86.
 
@@ -53,9 +54,9 @@ When we call a function in x86, we need to update the values in all three regist
 - `eip`, the instruction pointer, is currently pointing at the instructions of the caller. It needs to be changed to point to the instructions of the callee.
 - `ebp` and `esp` currently point to the top and bottom of the caller stack frame, respectively. Both registers need to be updated to point to the top and bottom of a new stack frame for the callee.
 
-When the function returns, we want to restore the old values in the registers so that we can go back to executing the caller. _When we update the value of a register, we need to save its old value on the stack so we can restore the old value after the function returns._
+When the function returns, we want to restore the old values in the registers so that we can go back to executing the caller. **When we update the value of a register, we need to save its old value on the stack so we can restore the old value after the function returns.**
 
-There are 11 steps to calling an x86 function and returning. In this example, `main` is the caller function and `foo` is the callee function. In other words, `main` calls the `foo` function.
+There are **11 steps** to calling an x86 function and returning. In this example, `main` is the caller function and `foo` is the callee function. In other words, `main` calls the `foo` function.
 
 Here is the stack before the function is called. `ebp` and `esp` point to the top and bottom of the caller stack frame.
 ![](../../../../../Assets/Pics/Pasted%20image%2020240902163556.png)
@@ -95,6 +96,40 @@ Here is the stack before the function is called. `ebp` and `esp` point to the to
 ![](../../../../../Assets/Pics/Pasted%20image%2020240902163801.png)
 
 You might notice that we saved the old values of `eip` and `ebp` during the function call, but not the old value of esp. A nice consequence of this function call design is that `esp` will automatically move to the bottom of the stack as we push values onto the stack and automatically return to its old position as we remove values from the stack. As a result, there is no need to save the old value of `esp` during the function call.
+
+
+
+## 🎻 Function /Procedure Calling Conventions
+> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
+
+Function call conventions are a set of rules that define how functions receive parameters, return values, and manage resources such as the stack and registers. These conventions ensure **compatibility** and **interoperability** between different parts of a program, such as between functions written in different languages or between a program and the operating system.
+
+Function calling conventions are thus a product of both the underlying **architecture (ISA)** and the design choices made by **compiler** and **system designers**.
+- **ISA Influence**: The difference in function call conventions between architectures like x86 and RISC-V is indeed influenced by their respective ISAs. CISC architectures like x86 traditionally use a stack-based calling convention due to a smaller number of registers, while RISC architectures like RISC-V use register-based calling conventions because they have more registers available.
+- **Flexibility**: Although ISAs strongly influence calling conventions, they are not strictly defined by the ISA itself. They can vary based on operating systems, compilers, and specific use cases within the same ISA.
+
+
+### Aspects Considered by Function Call Conventions
+> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
+
+Function call conventions are generally defined by the following aspects:
+1. **Argument Passing**: How and where arguments are passed to functions (e.g., in registers, on the stack, or a combination of both).
+2. **Return Value**: How and where the return value is provided back to the caller (e.g., in a specific register).
+3. **Stack Management**: How the call stack is managed, including who is responsible for cleaning up the stack after the call (caller vs. callee).
+4. **Register Preservation**: Which registers must be preserved across function calls (callee-saved vs. caller-saved registers).
+5. **Calling Sequence**: The specific instructions or sequence used to make the function call and return.
+
+
+### Influence of ISA on Calling Conventions
+> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
+
+Yes, calling conventions are heavily influenced by the Instruction Set Architecture (ISA). Different ISAs have different sets of registers, stack management mechanisms, and instructions, which impact how calling conventions are designed.
+#### x86 Architecture (CISC)
+- **Calling Convention**: In traditional x86 calling conventions (like `cdecl`, `stdcall`), arguments are often passed on the stack. The return address is also stored on the stack, and the stack is used extensively due to the limited number of general-purpose registers.
+- **Reason**: x86 is a Complex Instruction Set Computer (CISC) architecture with a smaller number of registers (especially in 32-bit mode). The stack-based approach allows for flexible function calls with varying numbers of arguments without overloading the limited registers.
+#### RISC-V Architecture (RISC)
+- **Calling Convention**: In RISC-V, a modern Reduced Instruction Set Computer (RISC) architecture, arguments are primarily passed in registers. Specifically, the first few arguments are passed in specific registers, and only additional arguments (beyond those that can be stored in registers) are passed on the stack.
+- **Reason**: RISC architectures like RISC-V have a larger number of general-purpose registers, which allows for more efficient function calls by passing arguments directly in registers, reducing memory access and speeding up function calls.
 
 
 
