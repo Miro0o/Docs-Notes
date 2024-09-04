@@ -72,16 +72,48 @@
 #### History of ASM
 
 
-### How ASM works? /How ASM Translated into Machine Code?
->💡 A little bit computer organization & architecture knowledge needed!
->
->🔗 check out ↗ [Computer Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md) for details.
-> Pay more look at ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md), for it's the basics for leaning deep ASM.
-> 
-> ASM is running at system software level, so it is implemented at OS. More about this at ↗ [System Level Programming](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
+### 🤔 How is High-Level Language Translated into ASM?
+↗ [Compilation Phase](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Compilation%20Phase/Compilation%20Phase.md)
+↗ [Debuggers & Disassemblers & Decompilers](../🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Debuggers%20&%20Disassemblers%20&%20Decompilers.md)
 
-↗ [System Level Programming](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
-↗ [8086 ASM (16 bit)](x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit)/8086%20ASM%20(16%20bit).md)
+
+### 🤔 How is ASM Translated into Machine Code?
+↗ [Instruction Set Architecture (ISA) & Processor Architecture](../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture.md)
+↗ [8086 ASM (16 bit)](x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md)
+↗ [Assemblers](../🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Assemblers.md)
+
+**示例：MIPS 指令到机器码**
+(MIPS指令集简单，指令长度固定，比较好理解。但是不是所有指令集都是如此。)
+
+MIPS 是一组由 MIPS 技术公司在 80 年代中期设计出来的 CPU 指令集。就在最近，MIPS 公司把整个指令集和芯片架构都完全开源了。MIPS 指令集管网：
+https://www.mips.com/mipsopen/
+
+![](../../../../Assets/Pics/Pasted%20image%2020240904105805.png)
+<small>MIPS 指令集格式</small>
+
+MIPS 的指令是一个 32 位的整数，高 6 位叫操作码（Opcode），也就是代表这条指令具体是一条什么样的指令，剩下的 26 位有三种格式，分别是 R、I 和 J。
+- **R 指令**：一般用来做算术和逻辑操作，里面有读取和写入数据的寄存器的地址。如果是逻辑位移操作，后面还有位移操作的位移量，而最后的功能码，则是在前面的操作码不够的时候，扩展操作码表示对应的具体指令的。
+- **I 指令**：则通常是用在数据传输、条件分支，以及在运算的时候使用的并非变量还是常数的时候。这个时候，没有了位移量和操作码，也没有了第三个寄存器，而是把这三部分直接合并成了一个地址值或者一个常数。
+- **J 指令**：跳转指令，高 6 位之外的 26 位都是一个跳转后的地址。
+
+
+**示例：add 指令**
+```text
+add $t0,$s2,$s1
+```
+
+add 对应的 MIPS 指令里 opcode 是 0，rs 代表第一个寄存器 s1 的地址是 17，rt 代表第二个寄存器 s2 的地址是 18，rd 代表目标的临时寄存器 t0 的地址，是 8。因为不是位移操作，所以位移量是 0。把这些数字拼在一起，就变成了一个 MIPS 的加法指令。
+
+为了读起来方便，我们一般把对应的二进制数，用 16 进制表示出来。在这里，也就是 0X02324020。这个数字也就是这条指令对应的机器码。
+
+![](../../../../Assets/Pics/Pasted%20image%2020240904105830.png)
+<small>add 指令表示方法</small>
+
+```
+000000 10001 10010 01000 00000 100000       // add MIPS指令格式
+= 0000 0010 0011 0010 0100 0000 0010 0000   // add 二进制表示
+= 0X02324020                                // add 十六进制表示
+```
 
 
 

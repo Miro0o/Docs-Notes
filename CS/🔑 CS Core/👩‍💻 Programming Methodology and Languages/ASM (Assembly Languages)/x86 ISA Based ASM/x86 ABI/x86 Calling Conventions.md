@@ -22,8 +22,7 @@ This is intimately related with the assignment of sizes and formats to programmi
 
 **1️⃣ Calling conventions**, **2️⃣ type representations**, and **3️⃣ name mangling** are all part of what is known as an 🔗 [application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface "Application binary interface")(ABI).
 
-There are subtle differences in how various compilers implement these conventions, so it is often difficult to interface code which is compiled by different compilers. On the other hand, conventions which are used as an API standard (such as stdcall) are very uniformly implemented.
-
+There are subtle differences in how various compilers implement these conventions, so it is often difficult to interface code which is compiled by different compilers. On the other hand, conventions which are used as an API standard (such as `stdcall`) are very uniformly implemented.
 
 
 
@@ -32,6 +31,4 @@ There are subtle differences in how various compilers implement these convention
 
 [👍 x86中 几种函数调用方式]: https://www.cnblogs.com/rollenholt/archive/2012/03/28/2421921.html
 [👍 从汇编语言的寄存器来看函数参数传递]: https://www.cnblogs.com/goldsunshine/p/14560301.html#代码在内存中的分布
-
-
 

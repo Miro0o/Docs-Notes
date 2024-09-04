@@ -7,18 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [C & CPP](../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-
-↗ [Network Programming & RPC](../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
-- ↗ [DPDK (Data Plane Development Kits)](../../../../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/DPDK%20(Data%20Plane%20Development%20Kits)/DPDK%20(Data%20Plane%20Development%20Kits).md)
-↗ [Computer (IO Devices) Drivers & Programming](../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/🛞%20Computer%20(IO%20Devices)%20Drivers%20&%20Programming/Computer%20(IO%20Devices)%20Drivers%20&%20Programming.md)
-
-↗ [Computer Media Programming](../../../Software%20Engineering/Computer%20Media%20Programming/Computer%20Media%20Programming.md)
-
-↗ [System Architecture Design](../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
-↗ [Computer System](../../🧬%20Computer%20System/Computer%20System.md)
-↗ [Database System](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
-↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
-↗ [Embedded Programming](../../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/Embedded%20Programming.md)
+↗ [Algorithm & Data Structure](../../🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 
 ↗ [System Security](../../../CyberSecurity/System%20Security/System%20Security.md)
 
@@ -67,14 +56,19 @@
 
 
 
-## 🎯 OS Kernel Development
+## 🎯 Compiler Development
+↗ [Program Language Translation & Compilation Theory (Compile-time)](../../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
+↗ [Compilation & Program Loading Tools](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
+
+
+
+## 🎯 OS Kernel & System Libraries Development
 ↗ [Operating System & OS Kernel (Theory Part)](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [Operating Systems & Kernels (Engineering Part)](../Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 ↗ [Kernel Debugging](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Kernel%20Debugging.md)
+↗ [System Architecture Design](../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [Computer System](../../🧬%20Computer%20System/Computer%20System.md)
 
-
-
-## 🎯 System Libraries & Development
 ↗ [Operating System Components & Runtime Libraries](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 
@@ -87,13 +81,17 @@
 
 ## 🎯 System Level Applications Development
 ↗ [Computer Storage & Database Systems](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+- ↗ [Database System](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
 - ↗ [High Performance Storage (HPS)](../../🍕%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/High%20Performance%20Storage%20(HPS).md)
 ↗ [Computer Networking and Communication](../../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+- ↗ [Network Programming & RPC](../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 - ↗ [High Performance Network (HPN) & IDC Technologies](../../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies.md)
 ↗ [Computing & Computing Systems](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Computing%20&%20Computing%20Systems.md)
 - ↗ [High Performance Computing](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 
 ↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
+
+↗ [Embedded Programming](../../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/Embedded%20Programming.md)
 
 etc.
 
