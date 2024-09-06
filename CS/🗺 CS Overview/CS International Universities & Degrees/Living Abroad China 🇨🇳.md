@@ -9,6 +9,20 @@
 
 
 ### Other Resources
+[普通护照签发 | 成都市公安局](http://www.sczwfw.gov.cn/jiq/front/transition/ywTransToDetail?areaCode=510100000000&itemCode=511A0116400001-510100000000-000-115101000091721677-1-00&taskType=1&deptCode=15667888)
+[签证申请要求 ｜ Ministry of Foreign Affairs, Singapore](https://www.mfa.gov.sg/Overseas-Mission/Beijing/CN/Beijing-CN/Consular-Services/Visa-Information/Visa-Application-Requirements)
+
+https://www.cscse.edu.cn ｜ 中国留学服务中心
+https://www.mfa.gov.cn | 中华人民共和国外交部
+http://cs.mfa.gov.cn ｜ 中国领事服务馆
+外交部全球领事保护与服务应急热线（24小时）：+86-10-12308 或 +86-10-65612308
+
+[美国签证预约时间](https://tuixue.online/visa/)
+北京/上海/广州/沈阳美签最早预约时间查询
+
+https://www.rcime.com
+Immigration Medical Examination ｜ 出国移民体检
+
 
 
 

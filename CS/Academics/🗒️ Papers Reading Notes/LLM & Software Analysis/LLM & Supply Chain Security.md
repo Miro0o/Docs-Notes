@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Software Supply Chains Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)
 
 
 

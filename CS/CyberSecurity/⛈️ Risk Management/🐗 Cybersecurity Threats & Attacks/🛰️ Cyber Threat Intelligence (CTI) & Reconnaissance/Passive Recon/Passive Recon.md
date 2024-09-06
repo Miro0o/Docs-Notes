@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [OSINT](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Misc/OSINT/OSINT.md)
+↗ [OSINT (Open Source Intelligence)](../📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)]
 ↗ [Vulnerability Assessment（漏洞评估）](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/📌%20Vulnerability%20Government（漏洞管控）/📊%20Vulnerability%20Assessment（漏洞评估）/Vulnerability%20Assessment（漏洞评估）.md)
 ↗ [Exploit Database & Google Hacking & GHDB](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/📌%20Vulnerability%20Government（漏洞管控）/Vulnerability%20Databases%20&%20Sources/Exploit%20Database%20&%20Google%20Hacking%20&%20GHDB.md)
 > google hacking & GHDB

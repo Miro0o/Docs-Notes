@@ -175,6 +175,29 @@ Hacker101 is a free class for web security. Whether you’re a programmer with a
 - 一些杂七杂八的
 - 开发工具与环境
 
+---
+https://swtch.com/~rsc/
+Russ Cox
+**Projects**
+[The Go Programming Language](http://golang.org/)
+[Plan 9 from Bell Labs](http://plan9.bell-labs.com/plan9) 
+[Plan 9 kernel history](http://swtch.com/plan9history) 1990-2003
+[Plan 9 from User Space](http://swtch.com/plan9port) (Plan 9 on Unix)  
+[9fans mailing list archives](http://9fans.net/archive/)
+[Online Encyclopedia of Integer Sequences](http://www.research.att.com/~njas/sequences/)
+[6.828: Operating System Engineering](http://pdos.csail.mit.edu/6.828) 
+[xoc](http://pdos.csail.mit.edu/xoc/) (an extensible compiler; unsupported)
+[Chord](http://pdos.csail.mit.edu/chord/)
+[USA Computing Olympiad](http://www.usaco.org/)
+
+**Miscellany**
+[Blog](http://research.swtch.com/)
+[Bell Labs and CSP Threads](https://swtch.com/~rsc/thread/)
+[Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
+[Libtask: event-driven programming with threads](https://swtch.com/~rsc/libtask/)
+[Programming project guidelines](https://swtch.com/~rsc/worknotes/)
+[Spin & Plan 9](https://swtch.com/spin/)
+
 
 ### Info & Res & News
 > ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)

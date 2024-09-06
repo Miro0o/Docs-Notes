@@ -43,6 +43,7 @@
 
 
 ### Program, Computer, and Automation
+🔥 🎬【操作系统上的程序 (什么是程序和编译器) [南京大学2022操作系统-P2]】 https://www.bilibili.com/video/BV12L4y1379V/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

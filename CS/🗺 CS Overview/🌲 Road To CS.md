@@ -634,6 +634,10 @@ I got a B.S. in psychology from the School of Psychology at [South China Normal
   
 You can find my ResearchGate [here](https://www.researchgate.net/profile/Huang-Yingshi) and CV [here](https://quantithinker-yingshi.github.io/Yingshi_CV.pdf).
 
+---
+https://swtch.com/~rsc/
+Russ Cox
+
 
 ### Campus Lifes
 ↗ [CS International Universities & Degrees](CS%20International%20Universities%20&%20Degrees/CS%20International%20Universities%20&%20Degrees.md)

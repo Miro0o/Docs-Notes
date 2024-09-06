@@ -45,7 +45,10 @@
 > ↗ [Address Space & Memory Layout](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/Address%20Space%20&%20Memory%20Layout.md)
 > ↗ [Register](../../../🧬%20Computer%20System/Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 > 🔗 https://textbook.cs161.org/memory-safety/x86.html#28-x86-function-calls
-> 🎬 https://sp21.cs161.org/review/0
+> 🎬 [Lecture 0: CS61C Review](https://sp21.cs161.org/review/0)
+> 🎬 [Function Call in x86 Assembly](https://youtu.be/JmYsn4NNeH4?si=NIjqHXnsZkhcaMCw)
+
+![](../../../../../Assets/Pics/Screenshot%202024-09-04%20at%2012.59.03.png)
 
 When a function is called, the stack allocates extra space to store local variables and other information relevant to that function. Recall that the stack grows down, so this extra space will be at lower addresses in memory. Once the function returns, the space on the stack is freed up for future function calls. This section explains the steps of a function call in x86.
 
