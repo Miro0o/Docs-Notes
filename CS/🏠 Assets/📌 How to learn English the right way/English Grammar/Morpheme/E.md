@@ -1303,9 +1303,265 @@
 ### ⭐ +\*epi-, \*opi- + = near, at, against
 1. **-opsony** = buy, 
 	1. monopsony
+		1. n. 买主独家垄断，买方垄断
 	2. oligopsony
 2. **epi-** = on, over, at,
-	1. etc.. 
+	1. 表示“在…上，在…周围，在…后面”。源自希腊语 epi "on, over, at."
+	2. epicalyx
+	3. epicardium
+	4. epicedium
+		1. n. 哀悼歌
+		2. epi-外 + ced-走 + -ium
+		3. 
+	5. epicene
+		1. a. 通性的, 有两性特征的 
+		2. n. 阴阳人
+	6. epicentre /epicenter
+		1. n. 震中, 集中点, 中心
+		2. epi-外 + centr-中心 + -e
+		4. epicentral
+	7. epicycle
+		1. epi-外 + cycle-圆环
+		2. n. 本轮
+	8. epideictic
+	9. epidemiology
+		1. epidemic
+			1. epi-在...周围 + dem-人民 + -ic → 在人民周围 → 流行的。
+			2. epi-,在上，在中，-demo,人民，词源同 demotic,democracy.
+			3. n. 传染病, 流行病 
+			4. a. 流行的, 传染性的
+		3. epidemiologic
+		4. epidemiological
+	11. epidermal
+		1. _adj._ 表皮的,外皮的
+		2. epidermic
+			1. adj. 外皮的
+		3. epidermis
+	13. epidermoid
+	14. epidiascope
+	15. epifocus
+	16. epigamic
+	17. epigastrium
+	18. epigenesis
+		1. - n. 后成；[胚] 渐成说；外力变质
+	19. epigone
+		1.  [epigon](dic://epigon)
+		2. _n._ [copycat](dic://copycat), [imitator](dic://imitator), [emulator](dic://emulator), [ape](dic://ape), [aper](dic://aper)
+		3. **Nietzsche**尼采;**modernist**现代主义的;**avant-garde**先锋派;**Hegel**黑格尔;**philosopher**哲学家;**postmodern**后现代主义的;**bourgeois**资产阶级的;**idiosyncratic**特殊物质的,特殊的,异质的;**poet**诗人;**thinker**思想家;**virtuoso**艺术品鉴赏家;
+	20. epigram
+		1.  [quip](dic://quip)
+		2. _n._ [saying](dic://saying), [expression](dic://expression), [locution](dic://locution)
+		3. **poem**诗;**allusion**暗示;**treatise**论文;**proverb**谚语，格言;**Cicero**西塞罗;**preface**前言;**anecdote**奇闻;**lyric**抒情的;**verse**诗，诗篇;**Plato**柏拉图;**Socrates**苏格拉底;
+		4. She missed Cecil's epigram, but grasped the feeling that prompted it. /她想念塞西尔的警句， 但抓住了促使它的感觉。
+		5. Some epigrams in epics scorched something about epicurism. /一些史诗里的警句讽刺享乐主义。
+		6. They feared the discharge of some stinging epigram that would be difficult to answer /他们害怕听到一些难以回答的刺耳警句。
+		7. epigrammatic
+			1. _adj._ [concise](dic://concise)
+			2. _n._ [prolix](dic://prolix)
+			3. **poetic**诗的，诗歌的;**prose**散文;**witty**诙谐的;**eloquent**雄辩的，有口才的;**succinct**简洁的;**wry**面部肌肉扭曲的;**wit**智力;**poems**诗歌，诗集;**lyrical**抒情诗调的;**utterance**说话;**poetry**诗;
+			4. an epigrammatic style /警句风格。
+			5. epigrammatic discourse or expression /警句般的表达或措词
+			6. An **epigrammatic** Japanese verse form of three short lines. /由三行短诗构成的警句式的日本诗。
+			7. Even in his style there is something of a modern **epigrammatic** ring. /即使在他的风格中也可见几分现代警句的感觉。
+			8. No painter had ever made the point that 'a painting is not what it represents' with such **epigrammatic** clarity before. /此前从未有过一位画家如此精辟透彻地阐述了‘画非所画’的观点。
+		8. epigrammatist
+		9. epigrammatize
+	21. epigraph
+		1. _n._ [quotation](dic://quotation), [quote](dic://quote), [citation](dic://citation), [inscription](dic://inscription), [lettering](dic://lettering)
+		2. **poem**诗;**inscription**题字;**quotation**语录;**stanza**诗节;**preface**前言;**allusion**暗示;**quote**引述;**prologue**序言;**excerpt**摘录，引用;**verse**诗，诗篇;**epilogue**结语，收场
+	22.  epitaph
+		1. _n._ [inscription](dic://inscription), [lettering](dic://lettering), [memorial](dic://memorial), [commemoration](dic://commemoration), [remembrance](dic://remembrance)
+		2. **tombstone**墓碑;**inscription**题字;**poem**诗;**obituary**讣告;**monument**纪念碑;**inscribed**印刻的;**memorial**纪念物;**mausoleum**陵墓;**grave**严肃的;**tomb**坟墓;**lyric**抒情的;
+		3. an epitaph on a tombstone /墓志铭
+		4. She wrote the perfect epitaph for the poet. /她为诗人写了完美的悼辞。
+		5. Oh-h-h, tempt not the gods of the desert, Lest you seek a lonely epitaph /Oh-h-h，不要诱惑沙漠的众神，以免你寻找孤独的墓志铭。
+	23. epilog (prologue, interlude,)
+		1. epi-后面 + log-说
+		2. n. 尾声, 收场白, 闭幕词, 结尾部分, 跋, 后记
+		3. _n._ [conclusion](dic://conclusion), [end](dic://end), [close](dic://close), [closing](dic://closing), [ending](dic://ending)
+		4. **epilogue**结语，收场白;**prologue**序言;**flashback**闪回;**ending**结局;**arc**弧;
+		5. epilogue
+	25. epinephrin
+	26. Epiphany
+		1. epi-周围 + phany-显示
+		2. apparition（幽灵）：耶稣基督以婴儿形态诞生  
+		3. 英语单词apparition来自拉丁语apparitionem，是动词apparere（appear，显现）的过去分词动名词形式，本意就是“显现”。这个词最初用于宗教场合，表示“基督显现”，即耶稣基督以婴儿的形态诞生。据《圣经•新约》记载，耶稣诞生时，东方三博士在观星时发现异象，便一路向西前来拜见“犹太人的王”，最后见到了刚出世的耶稣，向他献上了三件宝物为礼。为了纪念耶稣基督的显现，基督教徒将耶稣诞生之日定为“主显节”（Epiphany）。单词epiphany的本意和apparition一样，都表示“基督显现”，但常常用来表示“主显节”。而apparition一词的宗教色彩逐渐消退，常常用来表示幽灵鬼怪的显现。  
+		4. apparition：[,æpə'rɪʃən] n.幽灵，幻影，离奇出现的东西  
+		5. epiphany：[ɪ'pɪfəni] n.主显节，显现
+		6. epiphenomenon
+	28. epiphyte (fungus)
+		1. n. 附生植物；体表寄生菌
+		2. [air plant](dic://air plant), [aerophyte](dic://aerophyte), [epiphytic plant](dic://epiphytic plant)
+		3. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life)
+		4. **shrub**灌木;**orchid**兰花;**fern**蕨类植物;**ferns**蕨类;**deciduous**每年落叶的;**orchids**兰花，淡紫色;**vegetation**植物;**tropics**热带地区;**moss**苔藓;**fungi**真菌;**species**物种;
+		5. The ants feed on the fruit of certain epiphytes. /蚂蚁以某种附生植物果实为食。
+		6. The measles is caused by a kind of specific **epiphyte**. /麻疹是由一种特殊的真菌引起的。
+		7. epiphytic
+	29. episcopate
+		1. n. 主教；主教区；主教之职
+		2. _n._ [tenure](dic://tenure), [term of office](dic://term of office), [incumbency](dic://incumbency), [jurisdiction](dic://jurisdiction), [people](dic://people), [position](dic://position), [post](dic://post)
+		3. **bishop**主教;**episcopal**主教的;**diocese**主教管区, 教区;**archbishop**大主教;**ecclesiastical**基督教会的;**apostolic**使徒的;**diocesan**主教管区的;**consecration**奉献;**clergy**牧师;**priesthood**神职;**ordination**任命;
+		4. episcopacy
+			1. _n._ [people](dic://people)
+			2. **episcopal**主教的;**bishop**主教;**diocese**主教管区, 教区;**ecclesiastical**基督教会的;**archbishop**大主教;**clergy**牧师;**ordination**任命;**priesthood**神职;**apostolic**使徒的;**diocesan**主教管区的;**deacon**执事;
+		2. episcopal
+	30. episode
+		1. [installment](dic://installment), [instalment](dic://instalment)
+		2. [sequence](dic://sequence)
+		3. _n._ [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event), [section](dic://section), [subdivision](dic://subdivision), [broadcast](dic://broadcast)
+		4. **finale**最后乐章;**flashback**闪回;**podcast**播客;**airing**通风;**storyline**故事情节;**series**系列，连续;**Simpsons**辛普森一家;**season**时期;**skit**讽刺文;**sitcom**情景喜剧;**installment**安装;
+		5. an episode in the war /战争中一段插曲
+		6. an episode in a picaresque novel. /流浪汉小说中的一个片断
+		7. The whole episode made me vengeful. /整个事件使我一心想复仇。
+		8. the only people to profit from the entire episode were the lawyers /整个事件中惟一获利的就是那些律师。
+		9. one of the funniest episodes in my life /我一生中最好笑的一件事
+	31. episperm
+		1. 种皮
+	32. epistaxis
+		1. n. [耳鼻喉] 鼻衄，[耳鼻喉] 鼻出血
+	33. epistemology
+		1. _n._ [philosophy](dic://philosophy)
+		2. **metaphysics**形而上学,玄学;**ontology**本体论;**theology**神学;**anthropology**人类学;**philosophy**哲学;**philosophical**哲学的;**linguistics**语言学;**metaphysical**形而上学的,纯粹哲学的,超自然的;**sociology**社会学;**pedagogy**教育学;**rationality**理性;
+		3. epistemic
+			1. _adj._ [epistemology](dic://epistemology)
+			2. **rationality**理性;**metaphysical**形而上学的,纯粹哲学的,超自然的;**ontology**本体论;**probabilistic**盖然论的,或然说的;**semantic**语义的;**perceptual**知觉的,有知觉的;**linguistic**语言的, 语言学的, 语言研究的;**methodological**方法的;**normative**标准的;**cognitive**认识的;**metaphysics**形而上学,玄学;
+	34. epistle
+		1. n. 书信；使徒书；书信体诗文
+		2. _n._ [letter](dic://letter), [missive](dic://missive), [book](dic://book)
+		3. **apostle**传道者;**Thessalonians**新约圣经一书;**Colossians**歌罗西书;**verse**诗，诗篇;**Galatians**迦拉太书;**Ephesians**以非所书;**sermon**布道, 讲道, 说教;**Philippians**腓力比书;**Hebrews**希伯来书;**apostles**传道者;**apostolic**使徒的;
+		4. the Epistle to the Hebrews /【圣】《希伯来人书》
+		5. It was an ill-written, blurred epistle but I have kept it to this day. /这是一封写得不好、模糊不清的信，但我一直保存到今天。
+		6. Paul's preaching and guidance for the Christians is known to us from the many epistles written by him to the early Christian congregations /我们可以从保罗写给早期基督教会的许多书信中了解到保罗对基督徒的讲道和指导。
+		7. No wonder that letters addressed to people here had never received an answer: as well despatch epistles to a vault in a church aisle. /难怪写给这里的人的信从来没有得到回复：以及将信件寄到教堂过道的保险库。
+	35. epistolary
+		1. _adj._ [informal](dic://informal)
+		2. _n._ [formal](dic://formal)
+		3. **novella**短篇故事;**literary**文学的;**novel**新奇的;**autobiographical**自传的;**narrative**记叙文;**correspondence**信件, 函件;**novels**小说;**memoirs**回忆录;**memoir**传记;**letters**字母;**romances**冒险故事;
+		4. an epistolary novel. /书信体小说。
+		5. It bore only two notes and the morning journals, but he knew that within the week it would groan under its epistolary burden. /它只有两张便条和晨报， 但他知道一周之内它就会在书信的负担下呻吟。
+		6. It takes courage to adapt an epistolary novel for the screen, particularly one as psychologically complex as this one. /将一部书信体小说搬上银幕需要很大的勇气，尤其当涉及复杂的心理学，例如本片。
+		7. There was no need to mess it up with bells and whistles, although I did add a number of epistolary interludes (passages from fictional books, a diary entry, letters, teletype bulletins) between narrative segments. /完全没必要画蛇添足给故事增加些闲笔杂音，但我的确在叙事间隙添加了一些书信断章（虚构的书中章节、一篇日记、几封信，还有电报公告）。
+	36. epithelia
+	37. epithelial
+		1. _adj._ [epithelium](dic://epithelium), [epithelial tissue](dic://epithelial tissue)
+		2. **epithelium**上皮;**mucosal**粘膜的;**endothelial**内皮的;**mucosa**粘膜;**corneal**角膜的;**squamous**鳞状的;**carcinoma**癌;**intestinal**肠的;**mucous**黏液的;**alveolar**肺泡的;**tissue**纸巾;
+		3. _epithelial cell_ 上皮细胞
+		4. _epithelial tissue_ 上皮组织
+		5. The epithelial cells of the spermaduct wall have cilia on the dissociative side /输精管壁的上皮细胞游离面具有纤毛；
+		6. The virus initially enters respiratory epithelial cells - but eventually spreads to numerous cell types. /最初病毒会进入呼吸道的上皮细胞，但最终会影响到各个类型的细胞。
+	38. epithelioma
+		1. _n._ [skin cancer](dic://skin cancer)
+		2. **carcinoma**癌;**squamous**鳞状的;**melanoma**黑素瘤;**malignant**有恶意的;**cutaneous**皮肤的;**tumour**肿瘤;**lesion**损害;**lymphoma**淋巴瘤;**tumors**肿瘤;**epithelium**上皮;**cancerous**癌的;
+	39. epithelium
+		1. _n._ [animal tissue](dic://animal tissue)
+		2. **epithelial**上皮的;**mucosa**粘膜;**mucosal**粘膜的;**cornea**角膜;**membrane**膜;**squamous**鳞状的;**carcinoma**癌;**corneal**角膜的;**mucous**黏液的;**tissue**纸巾;**tissues**组织，薄的纱织品;
+	40. epithermal
+		1. - adj. 超热的；浅成热液的
+	41. epithet
+		1. _n._ (表示性质、特征等的)词语 /- n. 绰号；浑名
+		2. [name](dic://name)
+		3. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [word picture](dic://word picture)
+		4. **nickname**绰号;**moniker**名字;**derogatory**不敬的;**connotation**内涵;**synonym**同义词;**allusion**暗示;**phrase**成语;**adjective**形容词;**slur**诽谤;**disparaging**轻蔑的;**etymology**词源学;
+		5. an epithet that sums up my feelings. /简洁地表达了我思想感情的形容词
+		6. He absolutely deserves the epithet 'the Great', he really was. /他绝对值得配得上伟人的封号, 他是实至名归。
+		7. One turned out to have used a racial epithet to jovially address a (white) friend in 2009. /其中一人在2009年曾用种族侮辱性称号打趣一位（白人）朋友。
+		8. And then on the right they are using racial epithets and saying some of the nastier things. /而右翼使用种族主义的绰号，说一些更难听的话。
+		9. I say, given your overall demeanor and your freewheeling use of epithets, I'm willing to bet that he was provoked. /我看，你这么失礼又乱称呼别人诨名，我肯定是你挑衅他的。
+	42. epitome
+		1. epi-在…后面 + tom-切割 + -e → (书后面从内容里“切”出来的)梗概。
+		2.  epi-,在上，在中，-tome,砍，切，词源同 tome,anatomy.即切下来作为典范。
+		3.  [prototype](dic://prototype), [paradigm](dic://paradigm), [image](dic://image)
+		4. _n._ [model](dic://model), [example](dic://example), [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract), [precis](dic://precis)
+		5. **quintessential**精髓的;**antithesis**对照;**pinnacle**小尖塔;**ultimate**最后的，最终的;**synonymous**同义的;**absolute**绝对的;**undeniably**不可否认地;**pure**纯的;**hallmark**品质证明;**exemplify**是…的典型;**downright**完全地;
+		6. He is the epitome of goodness /他是善良的典范。
+		7. Train their espial ability and abstract epitome ability /培养学生观察能力和抽象概括能力。
+		8. This handbook is a neat epitome of everyday hygiene. /这本手册概括了日常卫生的要点。
+		9. I would. I love cats. They're the epitome of indifference /想 我喜欢猫 它们是独善其身的典范。
+		10. While Karl's branding has become the epitome of Parisian style, the designer is in fact a German 虽然其品牌已然成为了巴黎时尚的缩影，但这位设计师却是德国人。
+		11. Facade, colonel, epitome, awry, or omniscience /外观、上校、缩影、扭曲或全知。
+	44. epizootic
+	45. ephemera
+		1. ephemera (n.) - 14世纪晚期，最初是医学术语，源自中古拉丁语ephemera (febris) "(fever) lasting a day"，源自ephemerus的阴性，源自希腊语ephemeros "daily, for the day"，也表示 "lasting or living only one day, short-lived"，源自epi "on" (参看：epi-) + hemerai, hemera "day" 的与格，源自PIE*amer- "day"。含义在17世纪扩展为生命短暂的昆虫 (近代拉丁语ephemeramusca) 和花朵; 普通含义 "thing of transitory existence" 证据表明始于1751。比较希腊语ephemeroi "men"，字面含义 "creatures of a day"。
+		2. ep-周围 + hemer-一天 + -a
+		3. _n._ 生命极短促之物,蜉蝣
+		4. _n._[time](dic://time)
+		5. **memorabilia**纪念物;**archival**档案的;**collage**抽象拚贴画;**miscellaneous**多方面的;**scrapbook**剪贴簿;**paraphernalia**个人用品,随身用具;**papers**文件;**vintage**收获;**collection**收集;**archive**存档;**tidbits**花边新闻;
+		6. The sort of stuff that I'm doing is absolute ephemera. /我在做的那种事是绝对的昙花一现。
+		7. Frosty is merely a bit of frozen supernatural ephemera in a stolen hat. /而圣诞雪人只是一个冰雪构成的怪物，瞬息即逝，还戴着偷来的帽子。
+		8. Lots of the stuff that gets sent out free tends to be ephemera, and it will be lost over time /许多免费发送的物品往往都是短暂性的，它们会随着时间的流逝而慢慢丢失。
+		9. Whatever they were, they were not content, as the ephemera proved; and they were hungry for illusions as ever in the fourth century of the Church; but this was probably survival, and gave no hint of the future. /不管他们是什么，他们都不满足，正如蜉蝣所证明的那样；在教会的第四个世纪，他们一如既往地渴望幻想。但这可能是生存，并没有暗示未来。
+	47. ephemeral
+		1. adj. 短暂的；（主指植物）短生的，短命的 
+		2. n. 只生存一天的事物；短生植物
+		3. _n._ [insect](dic://insect)
+		4. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
+		5. _n._ [permanent](dic://permanent), [lasting](dic://lasting)
+		6. **fleeting**飞逝的;**transient**短暂的;**ethereal**天上的;**banal**陈腐的;**immaterial**非物质的;**short-lived**短命的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unimportant**不重要的;**fickle**易变的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**sculptural**雕刻的;
+		7. " Labeling sound is harder than labeling images because sound is invisible and ephemeral." /“标记声音比标注图像更难，因为声音是无形而且短暂的。”
+		8. Indeed, digital technologies may prove to be more ephemeral than their predecessors. /事实上，数字技术的存在时间可能比之前的技术更加短暂。
+		9. They produce ephemeral rain roots that quickly take up the available water. /这些侧根长出能快速吸收水分的短生雨根。
+		10. Once weaned from the ephemeral craving for TV, most people will find they enjoy the time they spend reading. /而一旦戒除了对电视这种暂时的渴望，大多数人都会发现他们能享受阅读的时光。
+	48. ephemerid
+		1. _n._ 蜉蝣,蜉蝣目昆虫
+	49. ephemeris
+	50. ephemeron
+		1. n. 蜉蝣；生命极短暂的东西
+		2. _[ephemeron table](dic://ephemeron%20table)_ 暂时表
+	51. epiblast
+		1. n. [生]外胚层；上胚层
+	52. eponym
+		1. - n. 名字被用于命名地方的人，齐名的人
+		2. _n._ [name](dic://name)
+		3. **namesake**名义;**eponymous**齐名的;**synonym**同义词;**derivation**发展;**epithet**词语;**etymology**词源学;**Ptolemy**托勒密;
+		4. In 1999, a second eponym was given to this extraordinary man. /1999 年，这位非凡之人的名字再次被用来命名新的发现。
+		5. I was being interviewed recently and talking about a certain **eponym** that had morphed after it was first coined. /最近，在接受了一个采访时，我谈到了一个特定的 名祖 （eponym）——它被创造出来以后，就彻底变了味。
+		6. You of course know that an **eponym** is a word that started out as someone’s name /您肯定知道，名祖指的是这样一类单词：一开始它们只是某人的名字，后来却被用来特指某类人或事。
+	53. epoxide
+		1. n. [有化] 环氧化物
+	54. epoxy
+		1. [epoxy resin](dic://epoxy resin), [epoxy glue](dic://epoxy glue)
+		2. _n._ [synthetic resin](dic://synthetic resin)
+		3. _v._ [glue](dic://glue), [paste](dic://paste)
+		4. **sealant**密封剂;**resin**树脂;**polyurethane**聚亚安酯;**adhesive**粘合剂;**fiberglass**玻璃纤维;**sealer**盖印人;**glue**粘合;**putty**油灰;**varnish**虚饰;**resins**树脂;**acrylic**丙烯酸的;
+		5. _epoxy resin_ [化]环氧树脂
+		6. _epoxy coating_ 环氧尸涂层；环氧树脂涂层
+		7. _epoxy adhesive_ 环氧胶粘剂；环氧尸粘合剂
+		8. _epoxy acrylate_ 环氧丙烯酸酯；环氧丙烯酸酯树脂
+		9. epoxy cement. /环氧树脂水泥。
+		10. epoxy glues; epoxy resins /环氧胶水；环氧树脂
+		11. But if you’re doing so over an active volcano, you’d want an epoxy instead. /但如果你在一座活火山上这样做，你会想要一种环氧树脂。
+	55. epigastric
+	56. epilimnion
+	57. epinosic
+		1. 有害健康的 
+		2. 不卫生的
+	58. epispastic
+		1. n. 起泡剂；吸出药 
+		2. adj. 发泡的；起疱的
+	59. epistrophe (anaphora)
+		1. _n._ [repetition](dic://repetition)
+		2. **poem**诗;**utterance**说话;**repetition**重复, 反复, 重复的事;**stanza**诗节;**syllable**音节;**poetic**诗的，诗歌的;**phrase**成语;**verse**诗，诗篇;**phrases**短语;
+		3. - n. 尾词重复；结句反覆
+		4. Repetition of a word or phrase at the beginning and another at the end of successive clauses i. e. simultaneous use of anaphora and **epistrophe**. /在连续分句的句首重复一个词或词组，在句尾重复另一个；即首语重复和词尾重复的同时使用。
+	60. epitasis
+		1. n. 剧情逐渐紧凑之部分；（古典戏剧中）导致灾祸来临的高潮部分
+	61. epithalamium
+		1. _n._ [ode](dic://ode)
+		2. **poem**诗;**poems**诗歌，诗集;**hymn**赞美诗;**bride**新娘;**poetry**诗;**poetic**诗的，诗歌的;**poet**诗人;**libretto**剧本;**lyric**抒情的;**hymns**赞美诗;**Ode**赋;
+		3. n. 祝婚诗，喜诗，颂歌
+	62. epitope
+		1. n. [免疫] 表位；抗原决定部位；抗原决定基
+		2. _n._ [site](dic://site), [situation](dic://situation)
+		3. **antigen**抗原;**peptide**肽;**antibody**抗体;**antigens**抗原;**polypeptide**多肽;**peptides**多肽类;**ligand**配合基;**receptor**受体;**homology**相同;**proteins**蛋白质;**recombinant**重组器官;
+	63. parallelepiped
+		1. 希腊语 parallēlepipedon: parallēlos "parallel" + epipedon "plane surface," 源自 epipedos "level" (epi- + pedon "ground."
+		2. n. 平行六面体
+		3. _n._ [prism](dic://prism)
+		4. **cylindrical**圆柱形的;**rectangular**矩形的;**planar**平坦的;**convex**凸面的;**triangular**三角形的;**cube**立方体;**rectangle**长方形, 矩形;**hexagonal**六角形的;**geometrical**几何的;**spherical**球的;**polygon**多边形;
+		5. _[parallelepiped](dic://parallelepiped)_  n. 平行六面体
+		6. _[rectangular parallelepiped](dic://rectangular%20parallelepiped)_  长方体
+		7. In the case of running through the rain, you can figure that out using parallelepipedsagain. /在雨中穿梭时，你同样可以使用“四棱柱法则”。
+		8. And since the volume of a parallelepiped (that's a 3D parallelogram) doesn't depend at all on its slant, then no matter how fast you're moving horizontally the same amount of rain will land on top of you each second. /由于四棱柱（即平行四边形对应的立体模型）的体积并不受它倾斜的角度决定，不管你在水平方向上跑得多快，每秒你头顶上都会淋到等量的雨。
 3. **epididym-** 表示“附睾”。
 	1. epididymis
 4. **epiglott-** 表示“会厌”，由词根 epi- + glot- 组成。

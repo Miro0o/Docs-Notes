@@ -34,19 +34,20 @@
             }
           },
           {
-            "id": "a3a6d33df8f73f7e",
+            "id": "e1383b67afff429c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/JAVA Third-party Libraries & JDK/Others/Data Handling/JSON Processing/FastJSON.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md"
               }
             }
           },
@@ -197,12 +198,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "169456bc68c9f7db",
+  "active": "e1383b67afff429c",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Address Space & Memory Layout.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
     "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/JAVA Third-party Libraries & JDK/Others/Data Handling/JSON Processing/FastJSON.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/JAVA Third-party Libraries & JDK/Others/Data Handling/JSON Processing/org.json.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Memory Management (Main Memory + Secondary Memory Resource)/Address Space & Memory Layout.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/JAVA Third-party Libraries & JDK/Google Guava/Google Guava.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/JAVA Third-party Libraries & JDK/JAVA Third-party Libraries & JDK.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/Java Runtimes (JRE & JDKs Tools).md",
@@ -235,7 +237,6 @@
     "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/Web API Dev & Data Access Layer.md",
     "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/Web API/Web Client Side API/WebRTC/WebRTC.md",
     "Assets/Pics/2386182248.png",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Upper CASE Tools/API Dev Tool Chain/Postman.md",
     "Assets/Pics/Pasted image 20240905125841.png",
     "Untitled.table",
     "Assets/Pics/Pasted image 20240905123225.png",
