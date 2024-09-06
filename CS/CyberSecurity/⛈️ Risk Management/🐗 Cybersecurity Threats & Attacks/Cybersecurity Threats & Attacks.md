@@ -49,7 +49,7 @@
 
 
 ## Major Threats & Countermeasures
-↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
+↗ [ATT&CK（Adversarial Tactics, Techniques, and Common Knowledge）](🏕️%20Threat%20&%20Attack%20Models/ATT&CK（Adversarial%20Tactics,%20Techniques,%20and%20Common%20Knowledge）.md)
 
 
 ### 1️⃣ /2️⃣ /3️⃣ CIA Threats
