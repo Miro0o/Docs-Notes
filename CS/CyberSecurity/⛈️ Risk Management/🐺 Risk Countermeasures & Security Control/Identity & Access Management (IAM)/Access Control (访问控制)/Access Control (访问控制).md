@@ -10,7 +10,7 @@
 ↗ [TCB & TCSEC (Trusted Criteria Base & Security Evaluation Criteria)](../../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/👩🏻‍⚖️%20Security%20Laws%20&%20Regulations%20&%20Standards/Cybersecurity%20Related%20Standards%20&%20Organizations/Security%20Evaluation%20Frameworks/TCB%20&%20TCSEC%20(Trusted%20Criteria%20Base%20&%20Security%20Evaluation%20Criteria).md)
 
 ↗ [NAC (Network Access Control)](../../🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/NAC%20(Network%20Access%20Control).md)
-↗ [Web Access Control](../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Web%20Access%20Control/Web%20Access%20Control.md)
+↗ [Web Access Control](../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Access%20Control.md)
 
 
 

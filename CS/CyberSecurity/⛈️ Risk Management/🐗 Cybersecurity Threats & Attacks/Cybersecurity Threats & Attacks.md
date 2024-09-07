@@ -5,15 +5,11 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 🤔 [CTF & AWD](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
 
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
-- ↗ [Software Vulnerability & Vulnerability Analysis (VA)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA).md)
+- ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 - ↗ [Binary Engineering & Software Analysis](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 - ↗ [Malicious Code Detection & Software Analysis](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis.md)
 
@@ -24,8 +20,7 @@
 - ↗ [Network Threats & Attacks](../../Network%20Security/Network%20Threats%20&%20Attacks/Network%20Threats%20&%20Attacks.md)
 
 ↗ [System Security](../../System%20Security/System%20Security.md)
-- ↗ [Memory Threats](../../System%20Security/Operating%20System%20Security/Memory%20Threats/Memory%20Threats.md)
-- ↗ [Memory Protection Mechanism](../../System%20Security/Operating%20System%20Security/Memory%20Protection%20Mechanism/Memory%20Protection%20Mechanism.md)
+- ↗ [Memory Threats & Attacks](../../System%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
 
 
 

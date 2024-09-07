@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Web Authorization Protocols](../../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Web%20Access%20Control/Web%20Authorization%20Protocols/Web%20Authorization%20Protocols.md)
-↗ [Web SSO (Single Sign-On)](../../../../../Application%20Security/💉%20Web%20Security/📌%20Web%20Security%20Basics/Web%20Access%20Control/Web%20Authorization%20Protocols/Web%20SSO%20(Single%20Sign-On)/Web%20SSO%20(Single%20Sign-On).md)
+↗ [Web Authorization Protocols](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authorization%20Protocols/Web%20Authorization%20Protocols.md)
+↗ [Web SSO (Single Sign-On)](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authorization%20Protocols/Web%20SSO%20(Single%20Sign-On)/Web%20SSO%20(Single%20Sign-On).md)
 
 ### Projects /Authentication Implementation
 https://github.com/a466350665/smart-sso

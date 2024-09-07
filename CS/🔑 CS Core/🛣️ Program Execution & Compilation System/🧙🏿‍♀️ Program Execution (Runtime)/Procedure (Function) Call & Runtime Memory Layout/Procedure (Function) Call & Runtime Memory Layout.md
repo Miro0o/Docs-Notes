@@ -25,8 +25,8 @@
 ↗ [Linux System Calls](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md)
 
 ↗ [Operating System Security](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
-- ↗ [Memory Threats](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Threats/Memory%20Threats.md)
-- ↗ [Memory Protection Mechanism](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Memory%20Protection%20Mechanism/Memory%20Protection%20Mechanism.md)
+- ↗ [Memory Threats & Attacks](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
+- ↗ [Memory Protection Mechanisms](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Protection%20Mechanisms/Memory%20Protection%20Mechanisms.md)
 ↗ [Software Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [DCA (Dynamic Code Analysis)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/📌%20DCA%20(Dynamic%20Code%20Analysis)/DCA%20(Dynamic%20Code%20Analysis).md)
 

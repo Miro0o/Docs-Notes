@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Software Security](../Software%20Security.md)
-↗ [Software Vulnerability & Vulnerability Analysis (VA)](../🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA).md)
+↗ [Software Vulnerability & Weakness](../🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 ↗ [System Security](../../../System%20Security/System%20Security.md)
 ↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Malicious Codes & Software Engineering](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Malicious%20Codes%20&%20Software%20Engineering/Malicious%20Codes%20&%20Software%20Engineering.md)
