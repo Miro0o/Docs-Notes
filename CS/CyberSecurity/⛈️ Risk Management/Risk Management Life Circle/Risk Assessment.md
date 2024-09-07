@@ -80,7 +80,7 @@ An important aspect of information security and risk management is recognizing t
 ↗ [Cybersecurity Threats & Attacks](../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 #### 3️⃣ Vulnerability Assessment & Evaluation
 ↗ [Vulnerabilities](../🦟%20Vulnerabilities/Vulnerabilities.md)
-↗ [Software Vulnerability & Vulnerability Analysis (VA)](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA).md)
+↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 #### 确认已有的安全控制措施
 考虑：
 - 预防性措施

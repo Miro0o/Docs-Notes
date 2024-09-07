@@ -10,8 +10,8 @@
 
 ↗ [Malicious Code Detection & Software Analysis](../🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis.md)
 ↗ [Malicious Code & Behavior Discovery](../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/Malicious%20Code%20&%20Behavior%20Discovery.md)
-↗ [Vulnerability Discovery（漏洞检测）](../🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
-- ↗ [Vulnerability Scanners](../🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Vulnerability%20Discovery（漏洞检测）/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
+↗ [Vulnerability Discovery（漏洞检测）](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
+- ↗ [Vulnerability Scanners](../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/🔍%20Vulnerability%20Scanners/Vulnerability%20Scanners.md)
 
 ↗ [CLI Package & Software Management](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md)
 ↗ [Programming Tools Chain](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)

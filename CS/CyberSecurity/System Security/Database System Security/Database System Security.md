@@ -5,6 +5,9 @@
 
 
 ## Res
+### Related Topics
+↗ [Database System](../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
+
 
 
 ## Intro
@@ -22,7 +25,6 @@ We consider database security in relation to the following situations:
 
 
 ### Threats
-
 ![](../../../../Assets/Pics/Screenshot%202023-05-22%20at%2010.50.23%20AM.png)
 
 **Threats**: Any situation or event, whether intentional or accidental, that may adversely affect a system and consequently the organization.

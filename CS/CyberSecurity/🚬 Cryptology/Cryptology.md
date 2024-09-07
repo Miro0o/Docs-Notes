@@ -7,15 +7,23 @@
 ## Res
 > 🎉 More resources can be found at ↗ [Cryptography](🤐%20Cryptography/Cryptography.md) & ↗ [Cryptanalysis](🤮%20Cryptanalysis/Cryptanalysis.md)
 
+
+### Related Topics
+↗ [Web 3.0 & Cryptocurrency](../../Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)
+↗ [BlockChain](../../Web%203.0%20&%20Cryptocurrency/BlockChain/BlockChain.md)
+
+
 ### Tutorials / Books
 📖 应用密码学：协议、算法与C源程序（原书第2版）
 📖 图解密码技术:第3版/ (日)结城浩著
 
 👍 [Learnku - 密码学入门](https://learnku.com/docs/cryptography)
 
+
 ### Learn in Action
 🇬🇧 [Cracking Codes with Python](https://inventwithpython.com/cracking/)
 🇨🇳 [Python 密码破解指南](https://github.com/apachecn/invent-with-python-zh/tree/master/docs/cracking)
+
 
 ### School Projects
 https://github.com/0v3rW4tch/Cryptography-course-design/tree/master
@@ -53,6 +61,7 @@ https://github.com/szluyu99/Encryption-And-Decryption-By-Yu
 
 https://github.com/ThuWangzw/RSA
 > 2020清华大学软件学院应用密码学大作业 --- RSA
+
 
 ### ⚖️ Laws & Legislations
 https://www.oscca.gov.cn/sca/xxgk/2023-06/04/content_1057225.shtml

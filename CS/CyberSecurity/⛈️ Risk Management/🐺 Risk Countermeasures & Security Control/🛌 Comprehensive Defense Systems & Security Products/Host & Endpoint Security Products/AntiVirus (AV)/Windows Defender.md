@@ -11,7 +11,7 @@
 
 ### Related Topics
 ↗ [Windows](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Microsoft%20Operating%20Systems/Windows/Windows.md)
-↗ [Windows Security Mechanism](../../../../../System%20Security/Operating%20System%20Security/🪟%20Windows%20Security%20Mechanism/Windows%20Security%20Mechanism.md)
+↗ [Windows Security](../../../../../System%20Security/Operating%20System%20Security/🪟%20Windows%20Security/Windows%20Security.md)
 
 
 

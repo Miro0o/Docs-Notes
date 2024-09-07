@@ -253,7 +253,6 @@ https://www.securityweek.com
 https://thehackernews.com
 
 
-
 ### Events & Community
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Road%20To%20CTF.md)
@@ -329,6 +328,10 @@ http://www.china-cia.org.cn
 
 
 ## Intro
+![risk_management_and_software_security.excalidraw | 1000](../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
+
+
+
 ### What is Information & Information Systems?
 #### Basics of Information
 ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)

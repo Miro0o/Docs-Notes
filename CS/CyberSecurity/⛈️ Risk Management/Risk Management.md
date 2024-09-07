@@ -87,7 +87,7 @@
 
 ### Vulnerability
 > ↗ [Vulnerabilities](🦟%20Vulnerabilities/Vulnerabilities.md)
-> ↗ [Software Vulnerability & Vulnerability Analysis (VA)](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA)/Software%20Vulnerability%20&%20Vulnerability%20Analysis%20(VA).md)
+> ↗ [Software Vulnerability & Weakness](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
 
 脆弱性（Vulnerability）：与信息资产有关的弱点或安全隐患。
 - 造成风险的内因。
