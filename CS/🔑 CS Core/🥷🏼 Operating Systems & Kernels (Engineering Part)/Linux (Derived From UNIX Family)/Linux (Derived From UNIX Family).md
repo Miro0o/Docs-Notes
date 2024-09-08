@@ -36,7 +36,9 @@ The linux kernel archives
 etc.
 
 
-### Linux Documentations
+### Linux (Kernel) Documentations
+> ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
+
 https://www.kernel.org/doc/html/latest/
 https://www.kernel.org/doc/html/v4.17/index.html#
 
@@ -52,6 +54,8 @@ This is the top level of the kernel's documentation tree. Kernel documentation, 
 | Guide | HOWTO | man page | 
 
 LDP is a loosely knit team of volunteers who provide documentation for many aspects of Linux. There are several forms of documentation: Guides, HOWTOs, man pages, and FAQs.
+
+https://developer.ibm.com/technologies/linux/
 
 
 ### Learning Resources
@@ -105,34 +109,7 @@ Linux 源码解读
 
 
 ### 🗣 Linux & Free Software Communities
-https://kernelnewbies.org
-Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their [Kernel](https://kernelnewbies.org/Kernel)s and more experienced developers willing to share their knowledge. 
-
-Kernelnewbies can be found on the [MailingList](https://kernelnewbies.org/MailingList), [IRC](https://kernelnewbies.org/IRC) (irc.oftc.net #kernelnewbies), and this wiki.
-
-https://linuxgazette.net/index.html
-Linuxgazette - The Free International Online Linux Monthly
-
-[server - wikis](https://learnku.com/server/wikis/40214) 一些常用命令解释
-
-[Linuxquestions.org](https://www.linuxquestions.org)
-
-[Linuxize](https://linuxize.com)
-
-[manpagez: man pages & more](http://manpagez.com)
-
-https://www.unix.com
-Forum for Linux/Unix questions
-
-👍 🔥 https://itsfoss.com
-**It’s FOSS** is an award-winning web-portal that focuses on Open Source in general and Linux in particular.
-
-https://www.linuxfans.org
-中国Linux公社
-
-
-### Other Resources
-https://developer.ibm.com/technologies/linux/
+> ↗ [Linux Free Software & FLOSS & FOSS](Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)
 
 
 

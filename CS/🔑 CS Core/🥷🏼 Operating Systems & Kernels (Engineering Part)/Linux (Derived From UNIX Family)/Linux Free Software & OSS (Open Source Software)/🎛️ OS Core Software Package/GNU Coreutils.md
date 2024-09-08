@@ -4,15 +4,24 @@
 
 
 
-![coreutils brought to you by the GNU project](../../../../../../../../Assets/Pics/GNU.png)
-
-
-
-## Intro
+## Res
 🏠 https://www.gnu.org/software/coreutils/#help
 🏠 https://www.maizure.org/projects/decoded-gnu-coreutils/ (overview of gnu `coreuils` & packages)
 
 The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system. **These are the core utilities which are expected to exist on every operating system.**
+
+
+### Related Topics
+↗ [BusyBox](BusyBox.md)
+↗ [ToyBox](ToyBox.md)
+
+
+### Other Resources
+
+
+
+## Intro
+![coreutils brought to you by the GNU project](../../../../../../../../Assets/Pics/GNU.png)
 
 
 ### Helpful background for code reading

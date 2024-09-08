@@ -6,9 +6,13 @@
 
 ## Res
 🏠 https://www.gnu.og/software/gdb/
+📂 https://sourceware.org/gdb/wiki/HomePage
 
 
 ### Related Topics
+↗ [C & CPP](../../../../Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+↗ [Golang](../../../../Compiled%20Languages/Golang/Golang.md)
+↗ [Rust](../../../../Compiled%20Languages/Rust/Rust.md)
 
 
 ### Learning Resources
@@ -19,6 +23,8 @@
 📖 [GDB调试教程：1小时玩转Linux gdb命令](http://c.biancheng.net/gdb/)
 - [Linux下C语言程序的内存布局（内存模型）](http://c.biancheng.net/view/vip_2097.html)
 
+🎬【实验生存指南：代码风格和定制化 gdb 调试 [南京大学2023操作系统-P18] (蒋炎岩)】 https://www.bilibili.com/video/BV1aT411H77C/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Intro
@@ -26,6 +32,16 @@ GDB, the GNU Project Debugger, belongs to ↗ [GNU (GNU's Not Unix)](../../../..
 
 > 发展至今，GDB 调试器已经对 C、C++、Go、Objective-C、OpenCL、Ada 等多种编程语言提供了支持。实际场景中，GDB 更常用来调试 C 和 C++ 程序，虽然 Linux 平台下有很多能编写 C、C++ 代码的集成开发工具（IDE），但它们调试代码的能力往往都源自 GDB 调试器。
 
+
+### GDB Cheat Sheet
+![gdbref](../../../../../../../Assets/Cheat%20Sheets/gdbref.pdf)
+
+
+### GDB Usages
+1. gdb can saperate debug info and executables
+2. remote 
+3. redirect debugging info (e.g. to a web ui)
+4. 
 
 
 ## Ref

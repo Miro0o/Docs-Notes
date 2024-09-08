@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "378aa2467ea47d5a",
+            "id": "f61d08b0d7226c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/Software Engineering/Web Development/Web Development.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34b243ab5305960c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/Web API Dev & Data Access Layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.50271224975586,
-    "collapsed": true
+    "width": 461.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/Software Engineering/Web Development/Web Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md",
+                "file": "CS/Software Engineering/Web Development/Web Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/CyberSecurity.md"
+                "file": "CS/Software Engineering/Web Development/Web Development.md"
               }
             }
           },
@@ -183,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,44 +211,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "378aa2467ea47d5a",
+  "active": "f61d08b0d7226c0f",
   "lastOpenFiles": [
-    "CS/CyberSecurity/Physical Security/Physical Security.md",
-    "CS/Data Science/🧯 Large Data Analysis Platforms/Apache Hive/Apache Hive.md",
-    "CS/Data Science/🧯 Large Data Analysis Platforms/Large Data Analysis Platforms.md",
-    "CS/Data Science/🧯 Large Data Analysis Platforms/Apache Hive",
-    "CS/CyberSecurity/🚬 Cryptology/Cryptology.md",
-    "CS/CyberSecurity/Network Security/🏇 Network Security Basics & Protocols/🚉 Transportation Layer Security Protocols/SSL_TLS Protocol/SSL_TLS Protocol.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Transport Layer Attacks/Attacks on the UDP Protocol/Attacks on the UDP Protocol.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Transport Layer Attacks/TLS_SSL & Se",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Transport Layer Attacks/Attacks on the UDP Protocol",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Network Layer Attacks/BGP and Attacks/BGP and Attacks.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Transport Layer Attacks/Attacks on the TCP Protocol",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Network & Web Security Products/Firewall & Network Filters/Firewall & Network Filters.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Network Layer Attacks/BGP and Attacks",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/Tunneling & Firewall Evasion.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Network Management/Firewall & Network Filters.md",
-    "CS/CyberSecurity/Network Security/Network Security Mechanisms/Network Security Mechanisms.md",
-    "CS/CyberSecurity/System Security/System Security.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/Web Security.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Network Scanning.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Network Threats & Attacks.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Software Vulnerability & Weakness.md",
-    "CS/CyberSecurity/Network Security/Network Security Mechanisms/Network Monitoring.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Network Layer Attacks/IP and Attacks/IP and Attacks.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Network Layer Attacks/IP and Attacks",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Transport Layer Attacks/Attacks on the TCP Protocol/Attacks on the TCP Protocol.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Transport Layer Attacks/Transport Layer Attacks.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Link Layer (MAC Layer) Attacks/Link Layer (MAC Layer) Attacks.md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Transport Layer Attacks",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Physical Layer Attacks/Physical Layer Attacks.md",
-    "CS/CyberSecurity/Network Security/Network Security Mechanisms/Network Security Monitoring (NSM)/Network Security Monitoring (NSM).md",
-    "CS/CyberSecurity/Network Security/Network Security Mechanisms",
-    "CS/CyberSecurity/🚬 Cryptology/Message Authentication (报文鉴别，消息鉴别)/Message Authentication (报文鉴别，消息鉴别).md",
-    "CS/CyberSecurity/Network Security/Network Threats & Attacks/Link Layer (MAC Layer) Attacks",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Authentication (身份鉴别).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🪖 Hardware Security/Hardware Security Mechanisms",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Spring/Spring.md",
+    "Untitled.table",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Spring/0x02 Ioc.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Mybatis/Intro.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/JDBC/0x01 .md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Java Web.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Servelet/Intro.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Hex & Binary Manipulation.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/Python Runtime Environments.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Dependency Managers/Poetry.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/GCC (The GNU Compiler Collection)/gdb (GNU DeBugger)/gdb (GNU DeBugger).md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/DataBase API/DataBase API.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/API Gateway.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Apache APISIX/Apache APISIX.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Kong/Kong.md",
+    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/Web API Dev & Data Access Layer.md",
+    "Assets/Pics/Pasted image 20240908130749.png",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/🪓 macOS CLI Software/Host Management/Computer Profiling.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/Program Call Graph Generation/Program Call Graph Generation.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/Program Profiling Tools.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/Static Binary Analysis & SCA Tools.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Kong",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Apache APISIX",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/GNU gprof.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/Software Analysis Tools.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/Program Call Graph Generation",
+    "Assets/Pics/Pasted image 20240907221609.png",
+    "Assets/Cheat Sheets/gdbref.pdf",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Dependency Managers",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🐑 GNU (GNU's Not Unix)/GNU Hurd",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/📦 CLI Package & Software Management/🧖🏻‍♀️ Language-specific Software Package Management",
+    "Assets/Codes Samples/mosaic.py",
     "Assets/Pics/Pasted image 20240905143232.png",
     "Assets/Pics/2386182248.png",
     "Assets/Pics/Pasted image 20240905125841.png",
@@ -244,8 +258,6 @@
     "Assets/Pics/Pasted image 20240904110656.png",
     "Assets/Pics/Pasted image 20240904105835.png",
     "Assets/Pics/Pasted image 20240904105830.png",
-    "Assets/Pics/Pasted image 20240904105805.png",
-    "Assets/Pics/Pasted image 20240902163801.png",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

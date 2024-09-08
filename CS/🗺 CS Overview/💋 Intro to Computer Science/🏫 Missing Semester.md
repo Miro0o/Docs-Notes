@@ -359,13 +359,11 @@ The old way of working required multiple CLI version managers, each with their d
 
 ### Debugging
 #### Python
-[pdb](https://docs.python.org/3/library/pdb.html) 
+[pdb](https://docs.python.org/3/library/pdb.html)
 
-[ipdb](https://pypi.org/project/ipdb/) 
+[ipdb](https://pypi.org/project/ipdb/)
 #### C-like
 [gdb](https://www.gnu.org/software/gdb/) 
-
-- [pwndbg](https://github.com/pwndbg/pwndbg) 
 
 [lldb](https://lldb.llvm.org/) 
 #### System Calls

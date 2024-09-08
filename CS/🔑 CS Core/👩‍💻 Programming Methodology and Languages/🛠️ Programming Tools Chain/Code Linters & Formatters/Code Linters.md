@@ -5,8 +5,13 @@
 
 
 ## Res
+### Related Topics
 ↗ [Code Formatters/ 📲 Formatters Integration](Code%20Formatters.md#📲%20Formatters%20Integration)
 ↗ [LSP (Language Service Protocol)](../🌋%20Advanced%20Language%20Services/❤️‍🔥%20LSP%20(Language%20Service%20Protocol)/LSP%20(Language%20Service%20Protocol).md)
+↗ [Programming Style & Coding Conventions](../../Programming%20Style%20&%20Coding%20Conventions.md)
+
+
+### Learning Resources
 
 
 

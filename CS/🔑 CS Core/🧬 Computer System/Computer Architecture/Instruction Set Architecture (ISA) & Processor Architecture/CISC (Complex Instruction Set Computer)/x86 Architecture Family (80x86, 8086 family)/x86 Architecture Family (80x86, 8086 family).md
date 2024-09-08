@@ -10,10 +10,16 @@
 
 
 ### Documentations
+📂 https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+Intel® 64 and IA-32 Architectures Software Developer Manuals
+
+http://x86asm.net/index.html
+Focused mainly on x86 architecture, including x86-64 architecture, instruction encodings, reverse code engineering, and system programming in Windows and Linux OS.
+
 **I'm just so interested in this - where can I learn more?**
 For more information on this material, try some of these links:
 [x86.org](http://www.x86.org/)  
-[Intel documentation for developers](http://developer.intel.com/drg/mmx/Manuals/prm/PRM.HTM)  
+[Intel documentation for developers](http://developer.intel.com/drg/mmx/Manuals/prm/PRM.HTM)
 [mmx.com - Intel's MMX site](http://mmx.com/)  
 [Intel's latest developer's literature](http://developer.intel.com/design/litcenter/index.htm)
 
@@ -46,19 +52,32 @@ As of June 2022, most [desktop](https://en.wikipedia.org/wiki/Desktop_computer
 ### Floating Point and SIMD
 
 
-### x86 Addressing Mode: Segmented Addressing
+### x86/x64 Addressing Mode: Segmented Addressing
 > ↗ [Memory Access & Addressing](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Memory%20Access%20&%20Addressing.md)
 > ↗ [8086 ASM (16 bit) /⛸️ Data Access](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#⛸️%20Data%20Access)
 
 
-### x86 Registers
+### 🌀 x86/x64 Registers
 > ↗ [Register](../../../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/📌%20Basic%20CPU%20Components/Register.md)
 > ↗ [8086 ASM (16 bit) /🫙 Registers](../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/ASM%20(Assembly%20Languages)/x86%20ISA%20Based%20ASM/8086%20ASM%20(16%20bit).md#🫙%20Registers)
 
 ![](../../../../../../../Assets/Pics/x86%20registers%20map.png)
+##### EFLAGS & RFLAGS
+![](../../../../../../../Assets/Pics/Pasted%20image%2020240907221609.png)
 
+> 🤖 Contents below are AI-generated
 
-### x86 Execution/Operating Modes
+**RFLAGS vs EFLAGS**
+- **RFLAGS vs. EFLAGS**: In a 64-bit environment, the actual register used is **RFLAGS**, which is 64 bits wide. ==However, only the lower 32 bits are actively used for the condition flags, and the upper 32 bits are generally reserved and unused.==
+- **Naming in GDB**: GDB often refers to the flags register as **EFLAGS** regardless of whether the program is 32-bit or 64-bit, because the 32-bit portion of the **RFLAGS** register holds the same set of flags as in the 32-bit environment.
+- **No Functional Difference**: Even though it's labeled as **EFLAGS**, you're still inspecting the 32-bit portion of the **RFLAGS** register in a 64-bit program. The functionality and the bits used (for flags like zero flag, carry flag, etc.) are identical.
+
+**Why GDB Labels RFLAGS as EFLAGS**
+- **Historical Naming**: The register was originally called **EFLAGS** in 32-bit systems. Since only the lower 32 bits are actively used for the condition flags, many debugging tools continue to use the term **EFLAGS**, even when dealing with 64-bit programs.
+- **Simplification**: For consistency, the same naming is retained to avoid confusion, as the lower 32 bits in both **RFLAGS** (64-bit) and **EFLAGS** (32-bit) represent the same flags.
+##### AVX-512 (Advanced Vector Extensions 512 & ZMM Registers, K Registers
+
+### x86/x64 Execution/Operating Modes
 > 🔗 https://en.wikipedia.org/wiki/X86_assembly_language#Execution_modes
 
 The x86 processors support five modes of operation for x86 code, **Real Mode**, **Protected Mode**, **Long Mode**, **Virtual 86 Mode**, and **System Management Mode**, in which some instructions are available and others are not. A 16-bit subset of instructions is available on the 16-bit x86 processors, which are the 8086, 8088, 80186, 80188, and 80286. These instructions are available in real mode on all x86 processors, and in 16-bit protected mode (80286 onwards), additional instructions relating to protected mode are available. On the 80386 and later, 32-bit instructions (including later extensions) are also available in all modes, including real mode; on these CPUs, V86 mode and 32-bit protected mode are added, with additional instructions provided in these modes to manage their features. SMM, with some of its own special instructions, is available on some Intel i386SL, i486 and later CPUs. Finally, in long mode (AMD Opteron onwards), 64-bit instructions, and more registers, are also available. **The instruction set is similar in each mode but memory addressing and word size vary, requiring different programming strategies.**
@@ -74,7 +93,7 @@ The modes in which x86 code can be executed in are:
 	1. A special hybrid operating mode that allows real mode programs and operating systems to run while under the control of a protected mode supervisor operating system
 5. **System Management Mode (16-bit)**
 	1. Handles system-wide functions like power management, system hardware control, and proprietary OEM designed code. It is intended for use only by system firmware. All normal execution, including the operating system, is suspended. An alternate software system (which usually resides in the computer's firmware, or a hardware-assisted debugger) is then executed with high privileges.
-#### x86 CPU Modes Switching
+#### CPU Modes Switching
 The processor runs in real mode immediately after power on, so an **operating system kernel**, or other program, must explicitly switch to another mode if it wishes to run in anything but real mode. Switching modes is accomplished by modifying certain bits of the processor's control registers after some preparation, and some additional setup may be required after the switch.
 
 > **💡 Examples**
@@ -82,24 +101,22 @@ The processor runs in real mode immediately after power on, so an **operating sy
 > 
 > - With a computer running legacy BIOS, the BIOS and the boot loader run in Real mode. The 64-bit operating system kernel checks and switches the CPU into Long mode and then starts new kernel-mode threads running 64-bit code.
 > - With a computer running UEFI, the UEFI firmware (except CSM and legacy Option ROM), the UEFI boot loader and the UEFI operating system kernel all run in Long mode.
-#### x86 Memory Segmentation
+#### Memory Segmentation
 > 🔗 https://en.wikipedia.org/wiki/X86_memory_segmentation#
 #### Real Mode
 #### Protected Mode
 
 
-
-## x86 ISA Extensions
+### x86/x64 ISA Extensions
 > 🔗 https://en.wikipedia.org/wiki/X86#Extensions
 
 
-
-## 🧻 x86 Instruction Listings
+### 🧻 x86/x64 Instruction Listings
 ↗ [x86 Instruction Listing](x86%20Instruction%20Listing.md)
 
 
 
-## 🛠️ CPU Implementations & Optimizations on x86 Architecture
+## 🛠️ CPU Implementations & Optimizations on x86/x64 Architecture
 > 🔗 https://en.wikipedia.org/wiki/X86#Current_implementations
 
 During execution, current x86 processors employ a few extra decoding steps to split most instructions into smaller pieces called micro-operations. These are then handed to a control unit that buffers and schedules them in compliance with x86-semantics so that they can be executed, partly in parallel, by one of several (more or less specialized) execution units. These modern x86 designs are thus pipelined, superscalar, and also capable of out of order and speculative execution (via branch prediction, register renaming, and memory dependence prediction), which means they may execute multiple (partial or complete) x86 instructions simultaneously, and not necessarily in the same order as given in the instruction stream. Some Intel CPUs (Xeon Foster MP, some Pentium 4, and some Nehalem and later Intel Core processors) and AMD CPUs (starting from Zen) are also capable of simultaneous multithreading with two threads per core (Xeon Phi has four threads per core). Some Intel CPUs support transactional memory (TSX).

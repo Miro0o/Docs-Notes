@@ -1,11 +1,21 @@
-# [pip](https://pypi.org/project/pip/)
+# pip
 
 [TOC]
 
 
 
-## Intro
+## Res
+🏠 https://pypi.org/project/pip/
 
+
+### Related Topcis
+
+
+### Other Resources
+
+
+
+## Intro
 pip is the [package installer](https://packaging.python.org/guides/tool-recommendations/) for Python. You can use pip to install packages from the [Python Package Index](https://pypi.org/) and other indexes.
 
 Please take a look at our documentation for how to install and use pip:
@@ -16,7 +26,7 @@ We release updates regularly, with a new version every 3 months. Find more detai
 - [Release notes](https://pip.pypa.io/en/stable/news.html)
 - [Release process](https://pip.pypa.io/en/latest/development/release-process/)
 
-> ⚠  It is not recommended mixing pip and conda. Reasons can be seen at ↗ [FAQ](../../../../FAQ.md)
+> ⚠  It is not recommended mixing pip and conda. Reasons can be seen at ↗ [FAQ](../../../FAQ.md)
 
 
 
@@ -79,7 +89,8 @@ python2 -m pip list
 python3 -m pip list
 
 pip show [packge_name]
-
 ```
+
+
 
 ## Ref

@@ -561,6 +561,26 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 
 
 
+## ce
+### celib- = single, 表示“单个”。
+1. celibacy
+2. celibate
+	1. n. 独身者, 独身主义者  
+	2. a. 独身的, 独身主义的
+	3. [continent](dic://continent)
+	4. _n._ [religious person](dic://religious person)
+	5. _adj._ [chaste](dic://chaste)
+	6. _n._ [unchaste](dic://unchaste)
+	7. **heterosexual**异性恋的;**unmarried**未婚的;**homosexual**同性恋者;**monastic**僧侣;**bisexual**两性的;**childless**无儿女的;**priesthood**神职;**chastity**纯洁;**gay**同性恋者;**marry**娶;**priests**牧师;
+	8. _[celibate unattached unmarried](dic://celibate%20unattached%20unmarried)_ 未婚的
+	9. _[abstinent celibate monkish](dic://abstinent%20celibate%20monkish)_ 禁欲的
+	10. _[I am not celibate](dic://I%20am%20not%20celibate)_ 我不是独身主义者
+	11. involuntary celibate
+		1. 非自愿独身者：指那些因为各种原因，如外貌、社交技巧等，无法与他人建立恋爱关系的人。
+	12. celibate clerics with a very other-worldly outlook /有超越世俗见解的独身主义牧师。
+	13. He had defended the institution of a celibate priesthood. /他捍卫了独身牧师制度。
+
+
 ## ch
 ### chron- = time, 表示“时间”，来自希腊神语 khronickos。
 1. anachronic

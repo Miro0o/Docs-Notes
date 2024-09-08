@@ -37,6 +37,8 @@
 
 🪜 [TIOBE](https://www.tiobe.com/tiobe-index/)
 
+🎬【实验生存指南：代码风格和定制化 gdb 调试 [南京大学2023操作系统-P18] (蒋炎岩)】 https://www.bilibili.com/video/BV1aT411H77C/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
 
 
 ## Intro

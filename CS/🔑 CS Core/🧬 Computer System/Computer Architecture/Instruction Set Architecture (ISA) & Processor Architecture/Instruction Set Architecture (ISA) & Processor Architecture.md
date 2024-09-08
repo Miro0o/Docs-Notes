@@ -19,6 +19,14 @@ ISA is implemented and largely relies on the implementation of ↗ [Computer Mic
 ↗ [Machine Code](📌%20ISA%20Basics/📌%20Instruction%20Basics/Instruction%20Levels/Machine%20Code.md)
 
 
+### Learning Resources
+https://www.intel.com/content/www/us/en/resources-documentation/developer.html
+Intel Documentation Center
+
+https://www.amd.com/en/developer/browse-by-resource-type/documentation.html
+AMD Documentation Center
+
+
 
 ## Overview
 > 👉 quick look at [👧🏽 MARIE](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/👧🏽%20MARIE.md) for gists of ISA
