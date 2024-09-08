@@ -22,7 +22,9 @@
 #### Courses
 🏫 [NJU /操作系统](../../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/操作系统/操作系统.md)
 - 🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+- 🎬 【操作系统概述 (操作系统的历史；学习建议) [南京大学2023操作系统-P1] (蒋炎岩)】 https://www.bilibili.com/video/BV1Xx4y1V7JZ/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 - 🎬【课程总结 (从逻辑门到计算机系统) [南京大学2022操作系统-P32]】 https://www.bilibili.com/video/BV1R34y1L7sY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+- 
 
 🏫 [UCB /CS162 Operating System](../../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS162%20Operating%20System/CS162%20Operating%20System.md)
 🏫 [MIT /6.S081/828/1810 Operating System Engineering](../../../🏠%20Assets/Courses%20of%20Universities/MIT/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering/6.S081(6.828,%206.1810)%20Operating%20System%20Engineering.md)

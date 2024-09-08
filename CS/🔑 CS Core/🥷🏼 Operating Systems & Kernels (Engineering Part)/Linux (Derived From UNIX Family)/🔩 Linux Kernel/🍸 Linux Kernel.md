@@ -39,6 +39,8 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ↗ [Linux Security Modules (LSM)](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/🐏%20Linux%20Security/Linux%20Kernel%20Security%20Mechanisms/Linux%20Security%20Modules%20(LSM).md)
 
+↗ [The Linux man-pages Project](../The%20Linux%20man-pages%20Project.md)
+
 
 ### Learning Guides
 👍 https://en.wikipedia.org/wiki/Portal:Linux
@@ -65,6 +67,26 @@ Professional Linux Kernel Architecture - Wolfgang Mauerer
 
 📄 https://developer.ibm.com/articles/l-linux-kernel/
 IBM | Anatomy of Linux Kernel
+
+
+### Other Resources
+https://planet.kernel.org
+
+https://www.linuxjournal.com
+
+https://lwn.net
+LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
+
+https://kernelnewbies.org/Linux_Kernel_Newbies
+Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their [Kernel](https://kernelnewbies.org/Kernel)s and more experienced developers willing to share their knowledge. 
+
+Kernelnewbies can be found on the [MailingList](https://kernelnewbies.org/MailingList), [IRC](https://kernelnewbies.org/IRC) (irc.oftc.net \#kernelnewbies), and this wiki.
+
+https://kernelnewbies.org/LinuxVersions?action=show&redirect=Linux26Changes
+This is a list of links to every Linux changelog.
+
+https://community.unix.com
+Free Unix and Linux technical support for all Unix and Linux operating systems
 
 
 

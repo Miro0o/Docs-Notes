@@ -1,10 +1,19 @@
-# [OpenAI](https://openai.com)
+# OpenAI
 
 [TOC]
 
 
 
 ## Res
+🏠 https://openai.com
+📂 https://platform.openai.com/
+🫂 https://community.openai.com/
+
+
+### Related Topics
+
+
+### Other Resources
 🔥 [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
 > The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API](https://openai.com/api/).

@@ -68,6 +68,14 @@ by [Keld Helsgaun](http://www.dat.ruc.dk/~keld/)
 - 龙芯中科公司为本书提供了[官方网页](https://www.loongson.cn/LoongsonLab/OpenAccessLibrary)。
 - 机械工业出版社提供的[精排电子版](https://www.loongson.cn/pdf/computer.pdf)。
 #### Other Materials
+https://ysyx.oscc.cc/project/intro.html
+**“一生一芯”教学团队提出“计算机系统能力3.0”处理器芯片人才培养目标**。即以开源处理器芯片为切入点，以处理器芯片敏捷开发方法为实验手段，将计算机科学（CS）与电子信息工程（EE）专业课程进行贯通式设计，突出科教融合与产学研融合特色，理论与实践并重，通过教学流片计划实现硅上处理器芯片教学，培养计算机系统领域全栈式拔尖人才。
+
+“一生一芯”的核心理念，**简单来说就是“让一个学生可以带着自己设计的一颗处理器芯片毕业”**，希望能通过理论与实践并重的教学机制来降低处理器芯片设计门槛，让更多的学生能够全流程的参与到处理器芯片设计的每一个环节中。
+
+“公益性”是“一生一芯"的重要属性。“一生一芯”报名和学习是免费的，在校生和已毕业的都可以来参加“一生一芯”的学习，但是因为经费有限，免费流片只针对在校生。只要对处理器芯片学习有浓厚的兴趣，想在处理器芯片方向发展的同学，零基础都可以加入，**不论年级，专业和学校，都可以来报名**。
+
+
 📄 [GeeksForGeeks - Computer Organization and Architecture Tutorials](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 📄 https://foxsen.github.io/archbase/
 计算机体系结构基础

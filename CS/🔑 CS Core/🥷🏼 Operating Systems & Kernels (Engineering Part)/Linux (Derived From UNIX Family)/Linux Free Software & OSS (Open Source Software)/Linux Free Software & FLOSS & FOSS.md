@@ -41,9 +41,6 @@ Our loose community of projects mostly produce [software](https://www.freedeskt
 https://www.oschina.net
 OSC 开源社区
 
-https://www.linuxfans.org
-中国Linux公社
-
 https://www.ruanyifeng.com
 阮一峰的网络日志
 
@@ -51,6 +48,41 @@ https://github.com/trending
 Github Trendings
 
 Gitee Trendings
+
+https://www.omglinux.com/
+Welcome to omglinux.com, a (somewhat new) blog aiming to serve up the latest Linux news, distro releases, development updates, app reviews, interviews, and plenty more.
+
+This blog was established in June 2022, and is the sister blog to [omg! ubuntu](https://www.omgubuntu.co.uk/), an Ubuntu-centric Linux blog that’s been running since late 2008.
+
+https://kernelnewbies.org
+Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their [Kernel](https://kernelnewbies.org/Kernel)s and more experienced developers willing to share their knowledge. 
+
+Kernelnewbies can be found on the [MailingList](https://kernelnewbies.org/MailingList), [IRC](https://kernelnewbies.org/IRC) (irc.oftc.net #kernelnewbies), and this wiki.
+
+https://linuxgazette.net/index.html
+Linuxgazette - The Free International Online Linux Monthly
+
+[server - wikis](https://learnku.com/server/wikis/40214) 一些常用命令解释
+
+[Linuxquestions.org](https://www.linuxquestions.org)
+
+[Linuxize](https://linuxize.com)
+
+[manpagez: man pages & more](http://manpagez.com)
+
+https://www.unix.com
+Forum for Linux/Unix questions
+
+👍 🔥 https://itsfoss.com
+**It’s FOSS** is an award-winning web-portal that focuses on Open Source in general and Linux in particular.
+
+https://www.linuxfans.org
+中国Linux公社
+
+https://www.omglinux.com
+Welcome to omglinux.com, a (somewhat new) blog aiming to serve up the latest Linux news, distro releases, development updates, app reviews, interviews, and plenty more.
+
+This blog was established in June 2022, and is the sister blog to [omg! ubuntu](https://www.omgubuntu.co.uk/), an Ubuntu-centric Linux blog that’s been running since late 2008.
 
 
 ### Other Resources

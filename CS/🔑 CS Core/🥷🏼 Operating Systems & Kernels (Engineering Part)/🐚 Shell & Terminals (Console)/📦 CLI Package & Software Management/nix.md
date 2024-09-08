@@ -5,8 +5,11 @@
 
 
 ## Res
-↗ [NixOS](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/NixOS/NixOS.md)
 🚧 https://github.com/NixOS/nix
+
+
+### Related Topics
+↗ [NixOS](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Distros/NixOS/NixOS.md)
 
 
 

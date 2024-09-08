@@ -7,7 +7,11 @@
 ## Res
 ### Related Topics
 ↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
+↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
+↗ [Binary Engineering & Software Analysis](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
 
+↗ [Computer Profiling](../../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Host%20Management/Computer%20Profiling.md)
 
 
 ## 🎯 System Configurations & Runtimes
@@ -76,17 +80,15 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 
 
 
-## 🎯 Resource Monitoring
+## 🎯 System Runtime Specifics
 > ↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop` | `btop`
 ↗ [Process Management Basics /Process Activity Management](../🪆%20Process%20Management/Process%20Management%20Basics.md#Process%20Activity%20Management)
-
 ##### More Alike Projects..
 https://github.com/bvaisvil/zenith
 Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 #### 👉 `glances`
-
 #### 👉 `dstat`
  `Dstat` is a versatile replacement for `vmstat`, `iostat` and `ifstat`. `Dstat` overcomes some of the limitations of these programs and adds some
  extra features.
@@ -106,6 +108,21 @@ Sysdig instruments your physical and virtual machines at the OS level by install
 Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce.
 
 
+### 🥺 System Calls & Other Function Calls
+> ↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
+
+
+#### 👉 `strace` | `dtrace` | `dtruss`
+[strace](https://www.man7.org/linux/man-pages/man1/strace.1.html)
+[dtrace](http://dtrace.org/blogs/about/)
+[dtruss](https://www.manpagez.com/man/1/dtruss/)
+#### 👉 `trace` | `ktrace`
+#### 👉 `lstrace` | `ftrace`
+#### 👉 `gdb` | `valgrind` | etc.
+↗ [gdb (GNU DeBugger)](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Compilation%20&%20Program%20Loading%20Tools/GCC%20(The%20GNU%20Compiler%20Collection)/gdb%20(GNU%20DeBugger)/gdb%20(GNU%20DeBugger).md)
+↗ [Valgrind](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md)
+#### 👉 SystemTap | Perf | Kernel Debuggers
+
 ### Resource Virtualization
 #### 👉 `pprof` 👍 🔥
 🚧 https://github.com/google/pprof
@@ -117,18 +134,20 @@ pprof is a tool for visualization and analysis of profiling data
 python -m [pycallgraph](https://pycallgraph.readthedocs.io/)
 
 
-### System Calls
-#### 👉 `strace` | `dtrace` | `dtruss`
-[strace](https://www.man7.org/linux/man-pages/man1/strace.1.html)
-[dtrace](http://dtrace.org/blogs/about/)
-[dtruss](https://www.manpagez.com/man/1/dtruss/)
+### Process/ Jobs Activity
+↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
 
 
-### Timing
+### Network Profiling
+↗ [Network Management Basics](../Network%20Management/Network%20Management%20Basics.md)
 
 
 ### CPU Profiler
-There are two main types of CPU profilers: *tracing* and *sampling* profilers. 
+There are two main types of CPU profilers: tracing and sampling profilers. 
+#### Timing
+Real time / User time / Sys time 
+
+python -m  [time](https://docs.python.org/3/library/time.html) 
 #### 👉 cProfile
 python - cProfile
 #### 👉 Line Profiler
@@ -137,14 +156,6 @@ python - cProfile
 
 ### I/O Operations
 #### 👉 `iotop`
-
-
-### Process/ Jobs Activity
-↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
-
-
-### Network Profiling
-↗ [Network Management Basics](../Network%20Management/Network%20Management%20Basics.md)
 
 
 ### Disk /Memory Profiling

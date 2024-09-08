@@ -61,14 +61,13 @@ od - dump files in octal and other formats
 
 
 
-## GUI Hex/Binary Editors
+## 🎯 GUI Hex/Binary Editors
 ### 👉 010 editor
 🏠 https://www.sweetscape.com/010editor/
 
 
 ### 👉 bless
 > This tool is from ↗ [SeedLab - Cryptography](../../../../../../../CyberSecurity/☠️%20Kill%20Chain/🎯%20Cyber%20Ranges%20&%20Labs/🧪%20Ranges%20&%20Security%20Labs/SEED%20Project/SeedLab%20-%20Cryptography.md##👉%20MD5%20Collision%20Attack%20Lab)
-
 
 
 

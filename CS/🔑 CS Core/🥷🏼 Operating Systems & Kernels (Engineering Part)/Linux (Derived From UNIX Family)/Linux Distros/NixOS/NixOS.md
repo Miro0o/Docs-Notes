@@ -5,22 +5,22 @@
 
 
 ## Res
-### Components
 🏠 https://nixos.org
+🚧 https://github.com/NixOS/nix
 
-[NixOS/nix](https://github.com/NixOS/nix)
-
-
-### Building And Developing
 See our [Hacking guide](https://nixos.org/manual/nix/unstable/contributing/hacking.html) in our manual for instruction on how to to set up a development environment and build Nix from source.
 
-
-### Additional Resources
 - [Nix manual](https://nixos.org/nix/manual)
 - [Nix jobsets on hydra.nixos.org](https://hydra.nixos.org/project/nix)
 - [NixOS Discourse](https://discourse.nixos.org/)
 - [Matrix - #nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
 - IRC - #nixos on libera.chat
+
+🔍 https://mynixos.com
+
+
+### Related Topics
+↗ [nix](../../../🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/nix.md)
 
 
 

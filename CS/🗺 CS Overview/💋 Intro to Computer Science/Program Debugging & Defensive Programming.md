@@ -27,7 +27,9 @@
 
 
 ### Learning Resources
-【并发 bug 和应对 (死锁/数据竞争/原子性违反；防御性编程和动态分析) [南京大学2022操作系统-P8]】 https://www.bilibili.com/video/BV1sR4y1V7T4/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+🎬【并发 bug 和应对 (死锁/数据竞争/原子性违反；防御性编程和动态分析) [南京大学2022操作系统-P8]】 https://www.bilibili.com/video/BV1sR4y1V7T4/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬【实验生存指南：代码风格和定制化 gdb 调试 [南京大学2023操作系统-P18] (蒋炎岩)】 https://www.bilibili.com/video/BV1aT411H77C/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 
 

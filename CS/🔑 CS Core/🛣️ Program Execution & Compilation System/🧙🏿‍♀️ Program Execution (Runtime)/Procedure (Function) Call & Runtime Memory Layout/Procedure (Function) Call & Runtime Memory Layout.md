@@ -20,9 +20,9 @@
 ↗ [Network Programming & RPC](../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 ↗ [Internal Sockets](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/IPC%20(Inter%20Process%20Communication)/🧦%20Sockets/🌉%20Internal%20Sockets/Internal%20Sockets.md)
 
-↗ [System Calls](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
-↗ [Linux System Calls](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md)
+↗ [System Calls](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md) ⭐
+↗ [Linux System Calls](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md) ⭐
 
 ↗ [Operating System Security](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
 - ↗ [Memory Threats & Attacks](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
@@ -103,16 +103,30 @@ You might notice that we saved the old values of `eip` and `ebp` during the func
 
 
 
-## 🎻 Function /Procedure Calling Conventions & ABI
-> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
-> 
+## ABI & Architecture-Specifics on Procedure Call
 > **1️⃣ Calling conventions**, **2️⃣ type representations**, and **3️⃣ name mangling** are all part of what is known as an ↗ [ABI (Application Binary Interface)](../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/ABI%20(Application%20Binary%20Interface).md)
+
+
+### 🎻 Function /Procedure Calling Conventions
+> 🤖 Contents below are AI-generated (Chat-gpt4-mini) 
 
 Function call conventions are a set of rules that define how functions receive parameters, return values, and manage resources such as the stack and registers. These conventions ensure **compatibility** and **interoperability** between different parts of a program, such as between functions written in different languages or between a program and the operating system.
 
 ==Function calling conventions are thus a product of both the underlying **architecture (ISA)** and the design choices made by **compiler** and **system designers**.==
 - **ISA Influence**: The difference in function call conventions between architectures like x86 and RISC-V is indeed influenced by their respective ISAs. CISC architectures like x86 traditionally use a stack-based calling convention due to a smaller number of registers, while RISC architectures like RISC-V use register-based calling conventions because they have more registers available.
 - **Flexibility**: Although ISAs strongly influence calling conventions, they are not strictly defined by the ISA itself. They can vary based on operating systems, compilers, and specific use cases within the same ISA.
+
+
+### Type Representation
+
+
+### Name Mangling
+
+
+
+## 👽 System Calls
+↗ [System Calls](../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/📌%20Processes%20Description%20&%20Control/System%20Calls/System%20Calls.md)
+↗ [Linux System Calls](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/👽%20Linux%20System%20Calls/Linux%20System%20Calls.md)
 
 
 
