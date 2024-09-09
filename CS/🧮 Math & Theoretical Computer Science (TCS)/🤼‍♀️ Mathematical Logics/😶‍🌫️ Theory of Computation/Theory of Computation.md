@@ -13,7 +13,7 @@
 - [Sipers-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
 
 📖 [Computational Complexity: A Modern Approach](http://www.cs.princeton.edu/theory/complexity/) by Arora and Barak.
-📖 _Introduction to automata theory_, languages, and computation / by John E. Hopcroft,. Rajeev Motwani, Jeffrey D. Ullman. -- _3rd ed_.
+📖 Introduction to automata theory, languages, and computation / by John E. Hopcroft,. Rajeev Motwani, Jeffrey D. Ullman. -- _3rd ed_.
 
 📖 [Computational Complexity](http://rads.stackoverflow.com/amzn/click/0201530821) by Papadimitriou
 📖 [Computability and Logic](https://www.cambridge.org/core/books/computability-and-logic/440B4178B7CBF1C241694233716AB271) by George S. Boolos and John P. Burgess.
