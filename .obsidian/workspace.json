@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "f61d08b0d7226c0f",
+            "id": "34b243ab5305960c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/Web Development/Web Development.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Framework.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "34b243ab5305960c",
+            "id": "166e7da9b3df3f0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/Web API Dev & Data Access Layer.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.50271224975586
+    "width": 461.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Software Engineering/Web Development/Web Development.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Software Engineering/Web Development/Web Development.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/Web Development/Web Development.md"
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md"
               }
             }
           },
@@ -195,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,45 +211,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f61d08b0d7226c0f",
+  "active": "166e7da9b3df3f0f",
   "lastOpenFiles": [
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Spring/Spring.md",
-    "Untitled.table",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Spring/0x02 Ioc.md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Mybatis/Intro.md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/JDBC/0x01 .md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Java Web.md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web/Servelet/Intro.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Text & File & Dir Management/Hex & Binary Manipulation.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/Python Runtime Environments.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Dependency Managers/Poetry.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/GCC (The GNU Compiler Collection)/gdb (GNU DeBugger)/gdb (GNU DeBugger).md",
-    "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/DataBase API/DataBase API.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/API Gateway.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Apache APISIX/Apache APISIX.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Kong/Kong.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/Computability Theory.md",
+    "CS/Software Engineering/Web Development/🖥️ Web FrontEnd Dev/🌈 Frontend Dev Library/JS Gadgets/MathJax.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/Docs Tools/Tex & LaTex Related Tools/Tex & LaTex Related Tools.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Framework.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Boot/Spring Boot.md",
     "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/Web API Dev & Data Access Layer.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
+    "CS/System Architecture Design/Information Systems.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Web BackEnd Dev.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Python Web.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/JS Web.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Go Web.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web.md",
+    "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
+    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Web Application Architectures.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/Network Application Communication Architectures.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK/JS Runtime Libraries & SDK.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/📌 Python Third-party Libs/Python Third-party Libs.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/📌 Python Third-party Libs/⭐️ AI & Scientific Computing.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/📌 Python Third-party Libs/SE & Web/WSGI (Web Server Gateway Interface).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/Bun/Bun.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/📌 Go Third-party Packages & SDK/json iterator.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/📌 Go Third-party Packages & SDK/Go Third-party Packages & SDK.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Cloud/Spring Cloud.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Utils",
+    "Untitled.table",
     "Assets/Pics/Pasted image 20240908130749.png",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/🪓 macOS CLI Software/Host Management/Computer Profiling.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/Program Call Graph Generation/Program Call Graph Generation.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/Program Profiling Tools.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/Static Binary Analysis & SCA Tools.md",
     "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Kong",
     "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Apache APISIX",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/GNU gprof.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/Software Analysis Tools.md",
     "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
     "CS/CyberSecurity/☠️ Kill Chain/Software Analysis Tools/🌋 Dynamics Binary Analysis & DCA Tools/Program Profiling Tools/Program Call Graph Generation",
     "Assets/Pics/Pasted image 20240907221609.png",
     "Assets/Cheat Sheets/gdbref.pdf",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Dependency Managers",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🐑 GNU (GNU's Not Unix)/GNU Hurd",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/📦 CLI Package & Software Management/🧖🏻‍♀️ Language-specific Software Package Management",
-    "Assets/Codes Samples/mosaic.py",
     "Assets/Pics/Pasted image 20240905143232.png",
     "Assets/Pics/2386182248.png",
     "Assets/Pics/Pasted image 20240905125841.png",
