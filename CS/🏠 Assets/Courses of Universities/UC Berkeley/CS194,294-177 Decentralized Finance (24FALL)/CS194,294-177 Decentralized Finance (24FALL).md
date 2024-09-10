@@ -1,4 +1,4 @@
-# CS194,294-177 Decentralized Finance
+# CS194,294-177 Decentralized Finance (24FALL)
 
 [TOC]
 

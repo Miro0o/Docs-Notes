@@ -7,13 +7,13 @@
 ## Res
 ### Related Subjects
 ↗ [Automata Theory and (Formal) Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Regular Language](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/(Formal)%20Language%20Theory/Formal%20Grammar/Regular%20Grammar/Regular%20Language/Regular%20Language.md)
+↗ [Regular Language](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/Formal%20Grammar/Regular%20Grammar/Regular%20Language/Regular%20Language.md)
 
 ↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
+
 ### Tutorial & Docs
 [short interactive regex tutorial](https://regexone.com/)
-
 [regex101](https://regex101.com/r/qqbZqh/2)
 
 
@@ -23,13 +23,13 @@ A **regular expression**(shortened as **regex** or **regexp**; sometimes ref
 
 
 ### Regular Expression & Regex
-Regular expression techniques are developed in ↗ [Theoretical Computer Science (TCS)](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md) and ↗ [(Formal) Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/(Formal)%20Language%20Theory/(Formal)%20Language%20Theory.md). The concept of regular expressions began in the 1950s, when the American mathematician [Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene") formalized the concept of a [regular language](https://en.wikipedia.org/wiki/Regular_language "Regular language"). (In which description regular language is a formal language defined by regular expression) They came into common use with Unix text-processing utilities.
+Regular expression techniques are developed in ↗ [Theoretical Computer Science (TCS)](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md) and ↗ [Automata Theory and (Formal) Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md). The concept of regular expressions began in the 1950s, when the American mathematician [Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene "Stephen Cole Kleene") formalized the concept of a [regular language](https://en.wikipedia.org/wiki/Regular_language "Regular language"). (In which description regular language is a formal language defined by regular expression) They came into common use with Unix text-processing utilities.
 
 But distinct from these theories, when referring to "regular expression" or "regex/regexp" in this context, they often mean the technology/algorithms applied in finding patterns of both regular language/ non-regular language. Hence to be distinct, the name "regex/regexp" is coined in this context. However the use of term "regex/regexp" and regular expression are often interchanged and in most of the cases seen in internet they actually carry the same meaning.
 
 > "In _theoretical computer science_ and _formal language theory_, a **regular language** (also called a rational language) is a **formal language** that can be defined by a **regular expression**, in the strict sense in theoretical computer science (as opposed to many modern regular expression engines, which are augmented with features that allow the recognition of non-regular languages)."
 > 
-> ↗ [Regular Language](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/(Formal)%20Language%20Theory/Formal%20Grammar/Regular%20Grammar/Regular%20Language/Regular%20Language.md)
+> ↗ [Regular Language](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/Formal%20Grammar/Regular%20Grammar/Regular%20Language/Regular%20Language.md)
 
 
 ### Regular Expression Uses
@@ -44,6 +44,7 @@ While regexes would be useful on Internet [search engines](https://en.wikipedia
 ## Regex Syntax
 Different [syntaxes](https://en.wikipedia.org/wiki/Syntax_(programming_languages) "Syntax (programming languages)") for writing regular expressions have existed since the 1980s, one being the [POSIX](https://en.wikipedia.org/wiki/POSIX "POSIX") standard and another, widely used, being the [Perl](https://en.wikipedia.org/wiki/Perl "Perl") syntax.
 
+
 ### 1️⃣ POSIX Regex & POSIX Compatible Regular Expressions
 ↗ [POSIX Regex](POSIX%20Regex/POSIX%20Regex.md)
 
@@ -57,6 +58,7 @@ Different [syntaxes](https://en.wikipedia.org/wiki/Syntax_(programming_language
 > ↗ [Files & Texts Filters /Codes Filters /Finders](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/Files%20&%20Texts%20Filters.md#Codes%20Filters%20/Finders)
 
 There are at least three different [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorithm") that decide whether and how a given regex matches a string.
+
 
 ### BSD grep
 
