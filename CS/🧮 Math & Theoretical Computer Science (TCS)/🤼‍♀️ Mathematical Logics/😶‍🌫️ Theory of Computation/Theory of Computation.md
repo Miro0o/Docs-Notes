@@ -9,6 +9,9 @@
 
 
 ### Learning Resources
+🎬【【北京大学】理论计算机科学基础（全70讲）】 https://www.bilibili.com/video/BV1m4411p7nS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+https://mannuan.github.io/计算理论课件/
+
 📖 Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 - [Sipers-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
 

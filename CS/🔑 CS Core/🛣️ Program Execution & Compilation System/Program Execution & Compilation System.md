@@ -38,6 +38,12 @@
 🔥 👍 从裸机启动开始运行一个C++程序
 http://t.csdnimg.cn/fpEXy
 
+📖 Compilers: Principles, Techniques, and Tools -- Alfred V.Aho, Ravi Sethi, Jeffrey D.Ullman
+
+📖 Modern Compiler Implementation in C -- Andrew W.Appel, with Jens Palsberg
+
+📖 Advanced Compiler Design and Implementation -- Steven S.Muchnick
+
 
 
 ## Intro
@@ -148,3 +154,5 @@ However, there are some important reasons why programmers need to understand how
 [《程序员的自我修养》——全书思维导图（上）]: https://www.zhihu.com/tardis/zm/art/111682188?source_id=1003
 [【读书】《程序员的自我修养》——全书思维导图（中） - 一尾66的文章 - 知乎]: 
 https://zhuanlan.zhihu.com/p/138345701
+
+[编译原理三大经典：龙书 虎书 鲸书 | cnblog]: https://www.cnblogs.com/Arthurian/p/7881889.html

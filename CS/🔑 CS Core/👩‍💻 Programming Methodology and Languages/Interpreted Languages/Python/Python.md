@@ -36,11 +36,15 @@ Python Enhancement Proposals (PEPs)
 
 [Dash & ploty](https://dash.plotly.com/introduction) data visualization & analysis, AI, API, and more ....   👍
 
-🖥️ [C语言中文网](http://c.biancheng.net/python/base/)
-🖥️ [廖雪峰的Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1018492034821792)
-🖥️ [菜鸟 -- Python 高级编程教程](https://www.runoob.com/python/python-object.html)
+🖥️ http://c.biancheng.net/python/base/
+C语言中文网
+🖥️ https://www.liaoxuefeng.com/wiki/1016959663602400/1018492034821792
+廖雪峰的Python 教程
+🖥️ https://www.runoob.com/python/python-object.html
+菜鸟 -- Python 高级编程教程
 
-🎬 [莫烦Python](https://space.bilibili.com/243821484)
+🎬 https://space.bilibili.com/243821484
+莫烦Python
 
 📄 https://learnbyexample.github.io/tips/#python
 tips about python!
@@ -53,10 +57,13 @@ The Hitchhiker’s Guide to Python!
 🔥 https://www.fullstackpython.com/table-of-contents.html
 [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) is an open book that explains concepts in plain language and provides helpful resources for those topics.
 
-[O'REIILY books (free pdf)](https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1)
+https://github.com/Jianhua-Wang/oreilly-animal-books-for-Python#1
+O'REIILY books (free pdf)
 
-📚 [invent with python](https://inventwithpython.com)
-🇨🇳 [InventWithPython 中文系列教程](https://github.com/apachecn/invent-with-python-zh)
+📚 https://inventwithpython.com
+invent with python
+🇨🇳 https://github.com/apachecn/invent-with-python-zh
+InventWithPython 中文系列教程
 
 
 ### Learn in Action

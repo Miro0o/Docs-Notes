@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "34b243ab5305960c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Framework.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "166e7da9b3df3f0f",
             "type": "leaf",
             "state": {
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,33 +201,35 @@
   },
   "active": "166e7da9b3df3f0f",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Framework.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Interpreted Languages/Python/Python.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+    "Assets/Pics/Pasted image 20240909175821.png",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/📌 regex (Regular Expression)/regex (Regular Expression).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/(Formal) Language Theory.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+    "CS/Artificial Intelligence/Natural Language Processing (NLP)/Natural Language Processing (NLP).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Formal Semantics and Programming Language.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Automata Theory/Automata Theory.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Formal Grammar/Regular Grammar/Regular Grammar.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Formal Grammar/Regular Grammar/Regular Language/Regular Language.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚮 Program Language Translation & Compilation Theory (Compile-time)/Program Language Translation & Compilation Theory (Compile-time).md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS194,294-177 Decentralized Finance (24FALL)/CS194,294-177 Decentralized Finance (24FALL).md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS294,194-196 Large Language Model Agents (24Fall)/CS294,194-196 Large Language Model Agents (24Fall).md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS294,194-196 Large Language Model Agents (24Fall)",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/Computability Theory.md",
     "CS/Software Engineering/Web Development/🖥️ Web FrontEnd Dev/🌈 Frontend Dev Library/JS Gadgets/MathJax.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
     "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Integrated CASE Tools/Docs Tools/Tex & LaTex Related Tools/Tex & LaTex Related Tools.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Framework.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Boot/Spring Boot.md",
     "CS/Software Engineering/Web Development/🥪 Middleware/👬 Web API Dev & Data Access Layer/Web API Dev & Data Access Layer.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program, Computer, and Automation.md",
     "CS/System Architecture Design/Information Systems.md",
     "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Web BackEnd Dev.md",
     "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Python Web.md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/JS Web.md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Go Web.md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Java Web.md",
-    "CS/System Architecture Design/Web Application Systems & Design/Web Application Systems & Design.md",
-    "CS/Software Engineering/Web Development/🗄️ Web BackEnd Dev/Web Application Architectures.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/Network Application Communication Architectures.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Architecture.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK/JS Runtime Libraries & SDK.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/📌 Python Third-party Libs/Python Third-party Libs.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/📌 Python Third-party Libs/⭐️ AI & Scientific Computing.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Python Runtime Environments/📌 Python Third-party Libs/SE & Web/WSGI (Web Server Gateway Interface).md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/Bun/Bun.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/📌 Go Third-party Packages & SDK/json iterator.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/📌 Go Third-party Packages & SDK/Go Third-party Packages & SDK.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Java Web Backend/Spring Framework/Spring Cloud/Spring Cloud.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Utils",
     "Untitled.table",
     "Assets/Pics/Pasted image 20240908130749.png",
@@ -250,7 +240,6 @@
     "Assets/Pics/Pasted image 20240907221609.png",
     "Assets/Cheat Sheets/gdbref.pdf",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Python Managers/Dependency Managers",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🐑 GNU (GNU's Not Unix)/GNU Hurd",
     "Assets/Pics/Pasted image 20240905143232.png",
     "Assets/Pics/2386182248.png",
     "Assets/Pics/Pasted image 20240905125841.png",
@@ -258,7 +247,6 @@
     "Assets/Pics/Screenshot 2024-09-04 at 12.59.03.png",
     "Assets/Pics/Pasted image 20240904110656.png",
     "Assets/Pics/Pasted image 20240904105835.png",
-    "Assets/Pics/Pasted image 20240904105830.png",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

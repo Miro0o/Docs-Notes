@@ -9,6 +9,11 @@
 
 
 ### Learning Resources
+🎬【【有限状态自动机】王彧弋】 https://www.bilibili.com/video/BV1gg411c7ab/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+🎬【状态机模型的应用 (细胞自动机; gdb/rr/perf; 代码验证工具) [南京大学2022操作系统-P10]】 https://www.bilibili.com/video/BV1xU4y1Z7xK/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 
 
 
@@ -37,10 +42,9 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 
 Automata theory is closely related to [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") theory. In this context, automata are used as finite representations of formal languages that may be infinite. Automata are often classified by the class of formal languages they can recognize, as in the [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy "Chomsky hierarchy"), which describes a nesting relationship between major classes of automata. Automata play a major role in the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of computation"), [compiler construction](https://en.wikipedia.org/wiki/Compiler_construction "Compiler construction"), [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence"), [parsing](https://en.wikipedia.org/wiki/Parsing "Parsing") and [formal verification](https://en.wikipedia.org/wiki/Formal_verification "Formal verification").
 
-![](../../../../../Assets/Pics/Screenshot%202023-09-13%20at%203.19.14%20PM.png)
-<small>Classes of Automaton</small>
+![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 
 
 
 ## Ref
-
+[Regular Languages]: https://brilliant.org/wiki/regular-languages/
