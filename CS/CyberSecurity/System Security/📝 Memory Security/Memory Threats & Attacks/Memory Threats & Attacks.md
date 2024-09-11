@@ -12,8 +12,16 @@
 ## Intro
 
 
-## Ref
 
+## Memory Security Vulnerabilities
+### Buffer Overflow (Out-of-bounds Write/Read)
+
+
+### Use After Free
+
+
+
+## Ref
 [缓冲区溢出与攻防博弈]: https://cloud.tencent.com/developer/article/2201574
 
 微软的内存保护机制大致分为以下几种：

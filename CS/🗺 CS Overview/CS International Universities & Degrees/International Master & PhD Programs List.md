@@ -112,8 +112,14 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 
 ### 🇧‍🇪 Belgium
 #### 👉 KU Leuven
+https://www.kuleuven.be/english/application/FAQ
+- 可以之后申请APS
+- 可以同时申请多个项目
 ##### Master of Engineering: Computer Science
 https://www.kuleuven.be/programmes/master-engineering-computer-science
+- The master of computer science programme, courses, and areas of specialisation are **strongly linked to the research groups**, guaranteeing state-of-the-art education in the field of computer science.
+- A significant number of courses are focused on **industry-relevant skills and content**. The high volume of industry-related research projects in the Department of Computer Science allows us to include relevant content in our courses. 
+- Students are also encouraged to carry out an **industrial and research internship abroad** under the supervision of the Internship Coordinator.
 ##### Advanced Master of Cybersecurity
 https://www.kuleuven.be/programmes/master-cybersecurity#About
 https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1&bl=
@@ -130,6 +136,10 @@ The admission policy is intended to ensure equal opportunity of access to higher
 - **English language proficiency**: students should have a good command of English, both spoken and written. Check the [specific language requirements](http://eng.kuleuven.be/en/study/prospective-students/degree-seeking-students/prerequisites-for-degree-seeking-students).
 - Relevant **professional certifications** and **work experience** can be taken into account.
 ### 🇩🇪 Germany
+https://www.aps.org.cn/zh/
+https://www.tum.de/en/studies/application/application-info-portal/uni-assist
+
+---
 
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
 
@@ -189,8 +199,15 @@ The admission policy is intended to ensure equal opportunity of access to higher
 
 [TMU -- SE](https://www.tum.de/en/studies/degree-programs/detail/software-engineering-master-of-science-msc)
 #### 👉 Technical University of Munich
-📄 https://www.topuniversities.com/universities/technical-university-munich
-
+https://www.tum.de/en/studies/application/master/application-master
+##### Informatics Master of Science 
+https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/
+#### 👉 Ludwig-Maximilians-Universität München
+#### 👉 Universität Heidelberg
+#### 👉 KIT, Karlsruhe Institute of Technology
+#### 👉 RWTH Aachen University
+#### 👉 Freie Universitaet Berlin
+#### 👉 Humboldt-Universität zu Berlin
 
 ### 🇫‍🇷 France
 **“卓越大学计划 (IDEX)”院校** (2022)
@@ -208,11 +225,43 @@ https://www.ip-paris.fr/en
 
 Cooperation with China
 #### 👉 PSL (Paris Sciences & Lettres University)
+apply portal https://espacecandidature.psl.eu/s/?language=en_US
+##### Computer Science (2-year Master /5-year MS+PhD)
+https://psl.eu/en/graduate-programs/graduate-program-computer-science1
+https://psl.eu/en/education/masters-degree-computer-science
+https://psl.eu/en/phd-track-computer-science
+https://psl.eu/en/education/find-your-curriculum/psl-phd-tracks
+Given the very high selectivity of the PhD Tracks, it is strongly recommended that you apply for the Master’s degree in parallel if you are interested in both programs.
 
 [详细介绍PSL巴黎文理研究大学(为什么排名法国第一) - 五度教育法国留学的文章 - 知乎]: https://zhuanlan.zhihu.com/p/571867889
 
 
 ### 🇨🇭 Switzerland
+#### 👉 ETH Zurich
+https://ethz.ch/en/studies/master/application/international-bachelor.html
+
+**International Bachelor's degrees: 1 - 30 November 2024**
+
+This application window is mandatory for: 
+- students with a Bachelor's degree from outside Switzerland
+- students who wish to apply for the [Excellence & Opportunity Scholarship Programme (ESOP)](https://ethz.ch/en/studies/financial.html) or a Direct doctorate programme (DD)
+- students with a Master's degree/PhD from a Swiss university who obtained their undergraduate degree outside Switzerland
+
+All other candidates are also welcome to apply during this period. 
+
+| **Online application (MSc/MA and ESOP or DD)  <br>**         | 1 - 30 November 2024                                                                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **Submission deadline**                                      | 30 November 2024, **11:59am CET***                                                                                  |
+| **Decision regarding admission  <br>**                       | By the end of March 2025                                                                                            |
+| **Decision regarding ESOP**                                  | see [ESOP selection process](https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html) |
+| **Receive confirmation of registration (for visa purposes)** | as of May 2025                                                                                                      |
+| **Registration deadline**                                    | Monday, 15 September 2025                                                                                           |
+| **Lectures begin**                                           | 16 September 2025                                                                                                   |
+##### Computer Science
+##### Cyber Security
+##### Data Science
+
+#### 👉 EPFL École polytechnique fédérale de Lausanne
 
 
 ### 🇳🇱 Netherlands | Holland
@@ -298,9 +347,19 @@ This is a Fully funded scholarship for international students that also covers t
 **List of Netherlands Universities Without IELTS**
 Netherlands universities **offer exemption from IELTS** if you are from English-speaking countries or if you have completed your previous degree from an English medium institute.
 - I have written an article on how to **[Study in Netherlands Universities Without IELTS (2023)](https://link.zhihu.com/?target=https%3A//opportunitiescorners.com/study-in-netherlands-universities-without-ielts/)**
-#### 👉 University of Amsterdam
-📄 https://www.topuniversities.com/universities/university-amsterdam
+#### 👉 University of Amsterdam (UvA)
 https://www.uva.nl/en
+##### Computer Science (joint degree UvA/VU)
+https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Courses
+#### 👉 University of Twente
+##### Master of Computer Science
+https://www.utwente.nl/en/education/master/programmes/computer-science/
+The tracks
+- [Big Data Engineering](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Big-Data-Engineering)
+- [Computer Systems and Infrastructure](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Computer-Systems-and-Infrastructure)
+- [Foundations of Computing and Concurrency](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Foundations-of-Computing-and-Concurrency)
+- [Software Engineering and Green IT](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Software-Engineering-and-Green-IT)
+
 #### 👉 TU/e (Eindhoven University of Technology)
 ##### Master Program: Computer Science and Engineering
 https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/computer-science-and-engineering-1/country/china
@@ -312,13 +371,18 @@ https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science
 Application Info
 - https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines
 - https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/required-documents
+#### 👉 Utrecht University
 ### 🇩🇰 Danmark
+#### 👉 University of Copenhagen
 
 
-### 🇧🇪 Belgium
+### 🇸‍🇪 Sweden
+#### 👉 KTH Royal Institute of Technology
+#### 👉 Lund University
+#### 👉 Uppsala University
 
 
-### 🇷🇺 Russa
+### 🇷🇺 Russia
 
 
 ### 🇮🇪 Ireland
@@ -579,6 +643,7 @@ https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/
 https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc
 #### 👉 Georgia Institution of Technology (GIT, GaTech)
 https://www.gtsi.edu.cn/apply （天津大学佐治亚理工深圳学院）
+https://www.europe.gatech.edu/en (佐治亚理工欧洲学院)
 ##### Cybersecurity (On Campus)
 https://grad.gatech.edu/degree-programs/cybersecurity-campus
 ##### Computer Science (On Campus)
