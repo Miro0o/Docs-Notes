@@ -4899,22 +4899,51 @@
 			6. spectacle：['spɛktəkl] n. 景象；场面；奇观；壮观；公开展示；表相 n.眼镜
 		2. multiaspect, 
 		3. circumspective
-		4. prospective, prospectus, 
-		5. respective
-		6. perspicacious, perspicacity
+		4. prospective
+			1. _adj._ [expected](dic://expected), [likely](dic://likely), [potential](dic://potential), [future](dic://future)
+			2. _n._ [retrospective](dic://retrospective), [past](dic://past),
+			3. **would-be**想要成为的,自称自许的,自充的;**potential**潜在的, 有可能的;**purchasers**买主;**buyers**买主;**cohort**一群人;**expectant**期待的, 期望的;**applicant**申请人;**buyer**采购员;**entice**诱使;**clients**客户端;**fellow**同事;
+			4. _prospective study_ 前瞻研究；预期研究；远景调查
+			5. _prospective market_ 未来的市场
+			6. _prospective customer_ 潜在顾客
+			7. _prospective buyer_ 准买家
+			8. _prospective student_ 未来学生；欲申请的学生
+			9. _prospective earnings_ 预期收益
+			10. _prospective oil_ 石油储量
+			11. They scout prospective partners from the sidelines /他们在场外寻找潜在的合作伙伴。
+			12. We're meeting with prospective birth mothers /我们近期在见一些孕妇 以预备将来领养。
+			13. Prospective college students choose colleges for different reasons /准大学生选择大学的原因各不相同。
+			14. Firstly, they worry whether the prospective loans will ever be returned /首先，他们担心即将借出的展品是否有天会归还。
+			15. I put in a call to immigration services as a prospective employer. /我以准雇主的身份打电话问移民局了。
+		5. prospectus
+		6. respective
+			1. [several(a)](dic://several(a)), [various(a)](dic://various(a))
+			2. _adj._ [individual](dic://individual), [single](dic://single)
+			3. _n._ [common](dic://common)
+			4. **their**他们的，她们的;**corresponding**相当的, 对应的;**each**每;**both**两者的;**various**各种各样的;**other**其他的，另外的;**above-mentioned**上述的;**aforementioned**前面提到的,上述的;**successive**连续的;**two**两个;
+			5. _[respective error](dic://respective%20error)_ 个别误差
+			6. _[respective teaching](dic://respective%20teaching)_ 个别教授
+			7. _[respective density](dic://respective%20density)_ 相对密度
+			8. _[respective media](dic://respective%20media)_ 介质
+		7. perspicacious, perspicacity
 			1. **astute**机敏的;**perceptive**敏感的;**shrewd**精明的;**insightful**有深刻见解的;**thoughtful**沉思的, 思考的;**witty**诙谐的;**observant**善于观察的;**eloquent**雄辩的，有口才的;**skillful**熟练的;**deft**灵巧的;**clever**聪明的;
 			2. _adj._ [wise](dic://wise), [discerning](dic://discerning)
 			3. _n._ [foolish](dic://foolish), [undiscerning](dic://undiscerning)
-		7. perspicuity, perspicuous
-	5. conspectus (synoptics
-	6. )
+		8. perspicuity
+			1. _n._ [clarity](dic://clarity), [lucidity](dic://lucidity), [lucidness](dic://lucidness), [pellucidity](dic://pellucidity), [clearness](dic://clearness), [limpidity](dic://limpidity)
+			2. **subtlety**微妙;**brevity**短暂，短促;**clarity**清楚，明晰;**propriety**①礼貌,规矩;**wit**智力;**coherence**条理性,连贯性,一致性;**intellect**智力;**doctrinal**学说的;**readability**可读性;**scriptural**手稿的,圣经的,依据圣经的;**simplicity**简单, 朴素, 率直;
+		9. perspicuous
+			1. _adj._ [clear](dic://clear)
+			2. _n._ [unclear](dic://unclear)
+			3. **succinct**简洁的;**unambiguous**不含糊的;**concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**agreeable**欣然同意的;**lucid**易懂的;**eminently**很;**perceptive**敏感的;**straightforward**正直的, 坦率的;**utterance**说话;**expedient**应急有效的;
+	4. conspectus (synoptics)
 		1. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
 		2. **compendium**摘要,纲要;**monograph**专著,专论;**treatise**论文;**taxonomic**分类学的;**opus**作品;**taxon**分类单元;**catalogue**目录, 一览表;**corpus**文集;
 		3. _[Auditing Conspectus](dic://Auditing%20Conspectus)_ 审计学概论
 		4. _[Design conspectus](dic://Design%20conspectus)_ 设计概论
 		5. _[teaching conspectus](dic://teaching%20conspectus)_ 教学概论
 		6. conspicuous, perspicuous
-	7. spectacle
+	6. spectacle
 		1. _n._ [sight](dic://sight), [display](dic://display), [presentation](dic://presentation), [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle)
 		2. **extravaganza**娱乐表演;**awe-inspiring**令人起敬畏心的;**spectacular**壮观的, 雄伟的, 引人入胜的;**grotesque**奇形怪状的;**farce**笑剧,闹剧,滑稽戏;**spectator**观众, 旁观者;**dazzling**耀眼的;**carnage**残杀;**splendor**光彩;**grandeur**庄严;**travesty**滑稽模仿;
 		3. spectate
@@ -4926,7 +4955,7 @@
 			3. _n._ [unimpressive](dic://unimpressive), [undramatic](dic://undramatic), [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
 			4. **breathtaking**令人赞叹的;**stunning**极好的;**magnificent**壮丽的;**awe-inspiring**令人起敬畏心的;**incredible**不能相信的, 不可信的;**fantastic**极好的;**splendid**辉煌的;**amazing**令人惊异的;**phenomenal**现象的;**marvelous**引起惊异的,不可思议的,非凡的;**impressive**给人印象深刻的, 感人的;
 		5. spectator,
-	8. speculate
+	7. speculate
 		1. _v._ [expect](dic://expect), [anticipate](dic://anticipate), [reason](dic://reason), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate), [invest](dic://invest)[think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。  
 			1. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。  
 			2. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。  
@@ -4939,17 +4968,17 @@
 		3. speculation
 			1. _n._ [opinion](dic://opinion), [view](dic://view), [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [investment](dic://investment), [investment funds](dic://investment funds)
 			2. **rumors**谣传，流言;**rumor**谣言;**rumour**谣言;**conjecture**推测;**unsubstantiated**无事实根据的;**controversy**争论;**unconfirmed**未最后认可的;**wishful**渴望的，愿望的;**unfounded**无事实根据的;**rumoured**谣传的;**skepticism**怀疑论;
-	9. specter
+	8. specter
 		1. 1 - 来自拉丁语 spectrum,出现，显示，影像，鬼魂，幽灵，来自 specere,看，词源同 spectate,aspect.
 		2. [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [spectre](dic://spectre)
 		3. [ghost](dic://ghost), [shade](dic://shade), [spook](dic://spook), [wraith](dic://wraith), [spectre](dic://spectre)
 		4. _n._ [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [spirit](dic://spirit)
 		5. **looming**上现蜃景;**ominous**不祥的;**ghostly**幽灵的;**ever-present**经常存在的;**looms**织布机;**lingering**拖延的;**threat**威胁，恐吓;**menace**威胁;**impending**即将发生的;**haunting**不易忘怀的，萦绕于心头的;**ghosts**鬼;
 		6. spectre, spectra, spectral,
-	10. specular
+	9. specular
 		1. a. 镜子的, 镜子一般的, 会反射的
-	11. suspect
-	12. espy
+	10. suspect
+	11. espy
 		1. - e-,缓和语音，-spy,看，注视，词源同 spy,spectate.即观察，密切注意，后词义有所变化。
 		2. [descry](dic://descry), [spot](dic://spot), [spy](dic://spy)
 		3. _v._ [sight](dic://sight)
@@ -4957,7 +4986,7 @@
 		5. _[espy set eyes on](dic://espy%20set%20eyes%20on)_ 望见
 		6. _[espy catch sight of](dic://espy%20catch%20sight%20of)_ 探出; 窥见; 发现; 
 		7. _[descry espy make out see](dic://descry%20espy%20make%20out%20see)_ 看出
-	13. despise
+	12. despise
 		1. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
 		2. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
 		3. _v._ [hate](dic://hate), [detest](dic://detest)

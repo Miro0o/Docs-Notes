@@ -26,7 +26,7 @@
 
 ↗ [Operating System Security](../../../../CyberSecurity/System%20Security/Operating%20System%20Security/Operating%20System%20Security.md)
 - ↗ [Memory Threats & Attacks](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
-- ↗ [Memory Protection Mechanisms](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Protection%20Mechanisms/Memory%20Protection%20Mechanisms.md)
+- ↗ [Memory Protections & Mitigations](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Protections%20&%20Mitigations/Memory%20Protections%20&%20Mitigations.md)
 ↗ [Software Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [DCA (Dynamic Code Analysis)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/📌%20DCA%20(Dynamic%20Code%20Analysis)/DCA%20(Dynamic%20Code%20Analysis).md)
 
@@ -49,7 +49,10 @@
 > 🎬 [Function Call in x86 Assembly](https://youtu.be/JmYsn4NNeH4?si=NIjqHXnsZkhcaMCw)
 
 ![](../../../../../Assets/Pics/Screenshot%202024-09-04%20at%2012.59.03.png)
-
+##### Stack: Pushing and popping
+![](../../../../../Assets/Pics/Pasted%20image%2020240910095249.png)
+![](../../../../../Assets/Pics/Pasted%20image%2020240910095256.png)
+##### x86 Function Call
 When a function is called, the stack allocates extra space to store local variables and other information relevant to that function. Recall that the stack grows down, so this extra space will be at lower addresses in memory. Once the function returns, the space on the stack is freed up for future function calls. This section explains the steps of a function call in x86.
 
 **Recall that in a function call, the _caller_ calls the _callee_.** Program execution starts in the caller, moves to the callee as a result of the function call, and then returns to the caller after the function call completes.

@@ -1,4 +1,4 @@
-# Stack Buffer-Overflow Attack
+# Stack Overflow
 
 [TOC]
 

@@ -15,9 +15,10 @@
 
 
 
-
-
 ## Intro
+![Automata_Formal_Lan.excalidraw | 900](../../../../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
+
+
 ### Formal Language Theory
 > 🔗 https://en.wikipedia.org/wiki/Formal_language
 
@@ -43,6 +44,10 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 Automata theory is closely related to [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") theory. In this context, automata are used as finite representations of formal languages that may be infinite. Automata are often classified by the class of formal languages they can recognize, as in the [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy "Chomsky hierarchy"), which describes a nesting relationship between major classes of automata. Automata play a major role in the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of computation"), [compiler construction](https://en.wikipedia.org/wiki/Compiler_construction "Compiler construction"), [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence"), [parsing](https://en.wikipedia.org/wiki/Parsing "Parsing") and [formal verification](https://en.wikipedia.org/wiki/Formal_verification "Formal verification").
 
 ![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
+
+
+
+## CH1
 
 
 

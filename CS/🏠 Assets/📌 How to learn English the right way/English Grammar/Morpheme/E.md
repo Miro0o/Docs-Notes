@@ -715,15 +715,33 @@
 ### ⭐ + \*en- + =in
 1. **bry-, embry-** = to sprout, 表示“发芽”，embry-在生物学上引申为胚胎。
 	1. embryo
-		1. embryogeny
-		2. embryology
-		3. embryonic
+		1. em-,进入，使，- bryo,膨胀，发芽，词源可能同 breast,browse.
+		2. n. 胚，胚胎；萌芽期，初期；萌芽状态的事物，发展初期的事物 
+		3. adj. 胚胎的；初期的
+		4. [conceptus](dic://conceptus), [fertilized egg](dic://fertilized egg)
+		5. _n._ [plant](dic://plant), [flora](dic://flora), [plant life](dic://plant life), [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute)
+		6. **embryonic**胚芽的;**fetus**胎儿，胎;**ovary**子房;**fetal**胎的，胎儿的;**uterus**子宫;**womb**子宫;**sperm**精液;**fertilized**受精;**IVF**试管受精;**placenta**胎盘;**implantation**培植,灌输;
+		7. _embryo transfer_ 胚胎移植；胚胎转移；胚胎植入
+		8. _in embryo_ 未发展的；在筹划中的；在萌芽时期的
+		9. _embryo sac_ 胚囊
+		10. _embryo culture_ 胚培养，胚胎培养
+		11. _mature embryo_ 成熟胚
+		12. _somatic embryo_ 体细胞胚
+		13. They are engaging in an embryo research. /他们正在进行一项胚胎研究。
+		14. a simple commodity economy is merely the embryo of a capitalist economy /简单商品经济只是资本主义经济的萌芽。
+		15. Embryo nidation is a complex and sequencing physiological processes /胚胎着床是复杂的程序化的生理过程。
+		16. The occurrence of more than one embryo in the ovule denotes polyembryony. /在胚珠中有一个以上的胚发生是表示多胚现象。
+		17. Her plans for the future are still in embryo. /她对未来的计划尚在酝酿中。
+		18. Today, we know human embryos have tails that dissolve as the embryo develops. /今天，我们知道人类胚胎的尾巴会随着胚胎的发育而被溶解。
+		20. embryogeny
+		21. embryology
+		22. embryonic
 			1. _adj._ [immature](dic://immature), [early](dic://early)
 			2. _n._ [mature](dic://mature), [late](dic://late),   
 			3. **embryo**胚胎;**embryos**晶胚;**fetal**胎的，胎儿的;**mammalian**哺乳动物;**larval**幼虫状态的;**vertebrate**脊椎动物;**progenitor**祖先;**fetus**胎儿，胎;**nascent**初期的;**gestation**怀孕;**maturation**化脓;
-		4. proembryo
-		5. carcinoembryonic
-		6. embryotoxicity
+		23. proembryo
+		24. carcinoembryonic
+		25. embryotoxicity
 2. **em-, en-** = 表示“入、内、在...之内、使...”，来自古法语 en-。在字母 b, m, p 前拼写同化为 em-。
 	1. etc.
 3. **endo-** = within, 表示“内部”。源自希腊语 endon, endo- "within."
@@ -780,17 +798,63 @@
 	49. endotoxemia
 	50. Hindustani
 	51. indigence
-	52. indigency
-	53. indigene
-	54. indigenous
-	55. indigent
-		1. indigently
-	56. industry
+		1. n. 贫乏, 穷困的人们
+		2. n. 穷困；贫乏；贫穷
+		3. indigence ['ɪndɪdʒ(ə)ns] n.穷困。它与indigenous [ɪn'dɪdʒɪnəs] adj.本土的；国产的；固有的，看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certain place。
+		4. [need](dic://need), [penury](dic://penury), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
+		5. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
+		6. **destitute**赤贫的, 贫苦的;**poverty**贫困;**deprivation**剥夺;**hardship**困苦;**abject**卑贱的;**sustenance**食物;**subsistence**存活, 生存, 维生之道;**mistreatment**虐待;**misery**痛苦，悲惨;**welfare**福利;**affliction**折磨;
+		7. _[Vocabulary indigence](dic://Vocabulary%20indigence)_ 词汇贫乏
+		8. _[indigence wealth](dic://indigence%20wealth)_ 贫穷
+		9. _[severe poverty indigence](dic://severe%20poverty%20indigence)_ 贫困; 赤贫;
+		10. Could I have achieved so much philosophy if, as I ever feared, the closing years of my life had passed in helpless indigence? /如果像我一直担心的那样， 我生命的最后几年是在无助的贫困中度过的， 我还能取得如此多的哲学成就吗？
+		11. For one very rich man, there must be at least five hundred poor, and the affluence of the few supposes the indigence of the many. /对于一个非常富有的人来说， 至少必须有五百个穷人， 少数人的富裕意味着多数人的贫困。
+		12. Accustomed to wealth and ease, ill could my Husband support the transition to distress and indigence. He looked back with repining to the comforts which He once enjoyed. /惯于富贵安逸，夫君难扶转困苦。祂回顾过去，痛恨祂曾经享受的舒适。
+		13. The inferior ranks of people no longer looked upon that order as they had done before; as the comforters of their distress, and the relievers of their indigence. /下层人民不再像以前那样看待这个秩序；安慰他们的苦难，解除他们的困苦。
+		14. I was rich enough now—yet poor to hideous indigence: a nature the most gross, impure, depraved I ever saw, was associated with mine, and called by the law and by society a part of me. /我现在已经足够富有了——但还是贫穷到可怕的贫困：一种我见过的最粗俗、最不纯洁、最堕落的天性，与我的天性相关，法律和社会称它为我的一部分。
+		15. indigency
+	52. indigene
+		1. n. 土生的动植物, 土著
+		2. [native](dic://native), [indigen](dic://indigen)
+		3. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		4. **indigenous**土生土长的;**Nigerian**尼日利亚人;**Nigeria**尼日利亚;**Lagos**拉各斯;**tribe**部落;**Abuja**阿布贾;**tribal**部落的;**terra**土地;**aboriginal**最早就存在的，最早就有的;**tribes**部落;
+		5. The white French soldiers considered the indigenes to be on a lower social level than them. /法国白人士兵认为土著的社会地位比他们低。
+		6. Fortunately he soon made friends with an old **indigene**. /幸运的是，他很快就和一个土著老人交上了朋友。
+		7. When area of forests reduced, **indigene** had more farmland to raise more individuals /随着当地森林的减少，增加了更多的农业用地，养活了更多的人口；
+	53. indigenous
+		1. a. 本土的, 国产的, 固有的
+		2. indi-内部 + gen-产生 + -ous形容词后缀 → 内部产生 → 土产的。
+		3. indigence ['ɪndɪdʒ(ə)ns] n.穷困。它与indigenous [ɪn'dɪdʒɪnəs] adj.本土的；国产的；固有的，看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certain place。
+		4. _adj._ [native](dic://native)
+		5. _n._ [foreign](dic://foreign), [strange](dic://strange)
+		6. **aboriginal**最早就存在的，最早就有的;**tribal**部落的;**tribes**部落;**peoples**民族学;**Maori**毛利人的;**Peruvian**秘鲁人的;**Andean**安第斯山脉的;**Inuit**因纽特人;**Bolivian**玻利维亚的;**Ecuadorian**厄瓜多尔的;**native**本国的;
+		7. _indigenous population_ 土著，土著居民
+		8. _indigenous knowledge_ 本地知识；乡土知识；土著知识
+		9. indigenous Indian tribes /本土印第安人部落。
+		10. the discord between indigenous and Western cultures /本土文化和西方文化之间的不协调。
+		11. indigent
+			1. indigently
+	54. industry
 		1. indu-在内，在里 + -stry来自-stru , 建造，建设。
 		2. n. 工业, 生产制造; 行业; 勤劳
-		3. subindustry
-		4. multi-industry
-		5. industrious
+		3. n. 工业，生产制造；行业，产业；勤奋，勤劳；范围，领域
+		4. [manufacture](dic://manufacture)
+		5. [diligence](dic://diligence), [industriousness](dic://industriousness)
+		6. _n._ [commercial enterprise](dic://commercial enterprise), [business enterprise](dic://business enterprise), [business](dic://business), [determination](dic://determination), [purpose](dic://purpose)
+		7. **sector**部门;**sectors**分区;**company**公司;**manufacturing**制造业,工业;**market**集市;**automotive**汽车的;**professionals**职业的;**business**商业;**biz**商业;**technology**科技;**pharmaceutical**制药的;
+		8. _industry and commerce_ 工商业
+		9. _chemical industry_ 化学工业
+		10. an industry-wide trend. /整个行业趋势。
+		11. Industry is the parent of success. /勤奋是成功之母。
+		12. complacency is endemic in industry today. /目前行业中充斥着自满情绪。
+		13. a probe into the maritime industry by the FBI /联邦调查局对海洋业的调查。
+		14. The housing industry is overbuilding. /房屋建筑工业供过于求。
+		15. history of sulfuric acid industry /硫酸工业发展史
+		16. the entertainment industry is able to contaminate the mind of the public /娱乐业能毒害公众的思想。
+		17. the survey appears to contradict the industry's claims. /该调查似乎否定了该行业的权利。
+		18. subindustry
+		19. multi-industry
+		20. industrious
 			1. _adj._ [diligent](dic://diligent), [enterprising](dic://enterprising)
 			2. _n._ [negligent](dic://negligent), [unenterprising](dic://unenterprising), [nonenterprising](dic://nonenterprising)
 				1. [diligent](dic://diligent) 多指为一定的目的或追求而勤奋。  
@@ -798,88 +862,175 @@
 				3. **hard-working**勤勉的,努力工作的;**hardworking**苦干的,不辞辛劳的;**enterprising**有事业心的;**resourceful**资源丰富的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**tenacious**抓紧的;**prosperous**繁荣的;**shrewd**精明的;**skillful**熟练的;**productive**多产的, 富饶的;
 			3. If the tiller is industrious, the farmland is productive /人勤地不懒。
 			5. He isn't particularly clever but industrious /"他并不特别聪明,但很勤奋。"
-		6. industrial
-			1. preindustrial
-			2. industrially
-			3. industrialize, industrialise
+		21. industrial
+			1. _adj._ [industry](dic://industry), [manufacture](dic://manufacture), [developed](dic://developed), [highly-developed](dic://highly-developed), [industrialized](dic://industrialized), [industrialised](dic://industrialised), [postindustrial](dic://postindustrial)
+			2. _n._ [nonindustrial](dic://nonindustrial), [white-collar](dic://white-collar), [light-duty](dic://light-duty)
+			3. **agricultural**农业的;**commercial**商业的，商务的;**manufacturing**制造业,工业;**residential**住宅的, 适于作住宅的;**industrialization**工业化;**textile**纺织品，织物;**aerospace**宇宙空间;**automotive**汽车的;**machinery**机器;**industrialized**工业化的;**technological**科技的;
+			4. _industrial structure_ 产业结构
+			5. _industrial development_ 工业发展，工业开发
+			6. _industrial production_ 工业生产
+			7. preindustrial
+			8. industrially
+			9. industrialize, industrialise
 				1. industrialization
 				2. industrialized
-			4. industrialist
-			5. industrialism
-		7. industria
+			10. industrialist
+			11. industrialism
+		23. industria
 			1. n. 工业；工业化的行政型态
 4. **enter-, inter-** = 表示“在…之间，相互，内”。由 in- + ter-（土地）组成。在医学领域 enter- 表示“小肠”，已单独列出。
 	1. enter
 	2. entertain
+		1. vt. 娱乐, 招待, 怀抱  
+		2. vi. 款待
+		3.  enter-,更里面，进入，-tain,握，维持，词源同 contain,tenable.即招待客人，维持客户。
+		4. _v._ [socialize](dic://socialize), [socialise](dic://socialise), [contemplate](dic://contemplate), [feel](dic://feel), [experience](dic://experience)
+			1. [amuse](dic://amuse) 指使人通过注意某些有趣或悦人的事物而消遣，着重使人愉快的效果。
+			2. [entertain](dic://entertain) 指通过给他人快乐感的消遣活动，使自己或他人从单调中解脱出来。
+			3. [interest](dic://interest) 普通用词，指出于任何原因使人兴奋或对某事物保持好奇心或注意力，侧重引起兴趣或注意。
+			4. [please](dic://please) 多指愿望、兴趣得到满足后产生的强烈满意情绪。 
+			5. **amuse**使发笑;**excite**刺激…，使…兴奋;**impress**给…以深刻印象, 使铭记;**enlighten**启发;**educate**教育;**entice**诱使;**inspire**鼓舞;**amaze**使吃惊;**engage**雇佣;**persuade**说服，劝说;**embarrass**使窘迫;
+		5. They entertain a great deal. /他们常常招待客人。
+		6. as an entertainer, he's pretty harmless /作为一名艺人，他一点都不讨人厌。
+		7. It sounded as though Dumbledore was entertaining at least a dozen people. /好像邓布利多在招待至少一打人。
+		8. entertainment
+		9. entertaining
+		10. entertainer
 	3. enterprise
-		1. entrepreneur
-	4. exenterate
-	5. intellect
-		1. intelligence
-		2. intelligent
-		4. intelligibility
-		5. intelligible
+		1. enter-进入 + pris-抓住 + -e → 进入抓住[目标] → 事业。
+		2. enter-,更里面，进入，-prise,拿，承担，缩写自 prehens,词源同 apprise,comprehend.后用来指企业，特别是具有冒险精神的，能承担风险和具有挑战精神的企业。
+		3. entrepreneur
+	5. exenterate
+		1. vt. 去除...的内含物
+		2. ex-离开 + enter-内 + -ate, 表动词
+	6. entry
+		1.  [introduction](dic://introduction), [debut](dic://debut), [first appearance](dic://first appearance), [launching](dic://launching), [unveiling](dic://unveiling)
+		2. [accounting entry](dic://accounting entry), [ledger entry](dic://ledger entry)
+		3. [submission](dic://submission)
+		4. [entrance](dic://entrance), [entranceway](dic://entranceway), [entryway](dic://entryway), [entree](dic://entree)
+		5. [entrance](dic://entrance), [entering](dic://entering), [ingress](dic://ingress), [incoming](dic://incoming)
+		6. _n._ [written record](dic://written record), [written account](dic://written account), [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement), [accounting](dic://accounting), [accounting system](dic://accounting system)
+		7. [entrance](dic://entrance) 含义广泛，作“进入”解时，可用于许多场合；作“入口”解时，指有门或栏的入口处。
+		8. [entry](dic://entry) 强调正式地、礼仪地进入。用作“入口”解时，多指房门、院门、门廊等。
+		9. [admittance](dic://admittance) 指许可进入某地或某建筑物。
+		10. [admission](dic://admission) 指被允许进入某公共场所或建筑物的权利，也指进入某一组织。
+		11. **posted**贴出;**tagged**标记的;**entrant**进入者;**enter**进入;**exit**出口，通道;**entrance**入口;**entrants**竞赛者;**post**职位;**entering**键入;
+		12. made an entry in the ledger. /记帐
+		13. re-entry deceleration /再入减速
+		14. entry under homestead /宅地登记
+		15. make a triumphant entry into the town /凯旋入城
+		16. The entry of all expenditure is necessary. /有必要把一切开支入账。
+		17. an entry-level job in advertising; an entry-level computer /一份入门水平的广告工作；一部适于初学者的计算机
+		18. the second entry is a straight broken-chord figure. /第二个参赛作品是完全用分解和弦伴奏的。
+		19. There is a large entry for the flower show this year. /今年的花展有大量花卉参展。
+		20. the flood of refugees seeking entry to western Europe. /大批寻求进入西欧的难民。
+		21. The legal ports of entry have very long lines of people waiting for entry. /合法入境口岸等待入境的人群已经排起了长队。
+		22. The country is a relatively late entry into space exploration /中国是开展太空探索工作相对较晚的国家。
+	7. entrance
+		1. n. 入口, 进入点, 入场, 入学, 进入, 开始(阶段), 就任 
+		2. vt. 使出神, 使入迷
+		3. .enter-进入 + -ance, 表名词；2.en-进入，使 + trance【恍惚】。
+		4. reentrance
+		5. entrancing
+		6. entrant
+		7. entree
+	9. entrepot
+	10. entresol
+	11. intellect
+		1. n. 智力, 出众的才华, 知识分子
+		2. intelligence（智力）：辨识并从中选择的能力  
+		3. 在现代科学中，“智力”（intelligence）是一个很复杂的概念。它到底包含哪些能力，如何测量，如何培养，到现在一直充满争论。但古代西方人可没想得这么复杂，他们所说的intelligence很简单，就是辨识、区分事物从而做出正确选择的能力。英语单词intelligence来自拉丁语intelligere，由inter（在其中）+legere（选择）构成，字面意思就是“从中选择”。由此可见，intelligence的基本含义就是能帮助人辨识事物、做出明智选择和决策的东西。因此，intelligence还可以表示“情报”，因为情报可以帮助人们做出明智选择和决策。我们常说的“商业智能”（business intelligence）就很好地体现了intelligence的基本含义，它的实质就是通过对信息的分析处理，获取到某种intelligence，这种intelligence既可以理解为“情报”，也可以理解为“智能”或“智慧”。  
+		4. 单词intellect与intelligence同源，都可以表示“智力”，不同的是，intellect还可以用来表示“知识分子”。 
+		5. intel-,在中间，来自 inter-的变体，-lect,选择，选出，词源同 collect,elite.即鉴别的能力，引申词义智力，才智。词义演变比较 science.
+		6. intelligence：[ɪn'telɪdʒ(ə)ns] n.智力，理解力，智能，情报  
+		7. intellect：['ɪntəlekt] n.智力，理解力，知识分子，智力高的人  
+		8. intellectual：[,ɪntə'lɛktʃuəl] adj.智力的，聪明的，理智的n.知识分子，凭理智做事者
+		9. intelligence
+		10. intelligent
+		11. intelligibility
+		12. intelligible
 			1. unintelligible
-		6. intelligibly
-	6. interact
-	7. interblend
-	8. interborough
-	9. intercalary
-	10. intercalate
-	11. intercede
-	12. intercellular
-	13. intercept
+		13. intelligibly
+	12. interact
+		1. vi. 互相影响, 交互作用
+		2. n. 幕间剧, 幕间休息
+		3. inter-,在内，在中间，相互，act,行动，作用。
+		4. interactive
+		5. interaction
+			1. interactional
+		6. interacting
+		7. interactant
+	13. interblend
+	14. interborough
+	15. intercalary
+	16. intercalate
+		1. vt. 放置闰日(月等), 插入
+	17. intercede
+		1. vi. 说情, 调解
+		2. inter-在…中间 + ced-走 + -e → 在二者中间走 → 调解。
+		3.  inter-,在内，在中间，相互，-ced,走，词源同 access,precede.即走进去，引申词义求情，说理。
+		4. _v._ [negociate](dic://negociate), [negotiate](dic://negotiate), [talk terms](dic://talk terms)
+		5. **intervene**干涉;**pray**祈祷;**mediate**调解;**prays**祈求;**plead**辩护;**compel**强迫，迫使;**bless**祝福;**behalf**方面, 利益, 赞同;**praying**祈祷;**mediator**调停者;**earnestly**认真地;
+		6. intercede with the father for the daughter /替女儿向父亲求情
+		7. intercede with the governor for a condemned man /替犯人在州长面前说情
+		8. The federal government signaled that it was preparing to intercede and manage the crisis. /联邦政府表示，它正准备调停和管理这场危机。
+		9. Hewson refused to stop wearing his large ruffs and appealed to his father in law, the Lord Chief Baron, to intercede on his behalf /休森拒绝停止佩戴大衣领，并向他的岳父，首席男爵大人求助，希望能够为他求情。
+	18. intercellular
+	19. intercept
 		1. intercession
 		2. intercessor
 		3. intercessory
-	14. interchange
-	15. intercity
-	16. interclass
-	17. intercollegiate
-	18. intercolonial
-	19. intercolumnar
-	20. intercom
-	21. intercommunicate
+	20. interchange
+	21. intercity
+	22. interclass
+	23. intercollegiate
+	24. intercolonial
+	25. intercolumnar
+	26. intercom
+	27. intercommunicate
 		1. intercommunication
 		2. intercommunion
-	22. interconnect
+	28. interconnect
 		1. interconnected
-	23. intercontinental
-	24. interconversion
-	25. interconvertible
-	26. intercooler
-	27. intercostal
-	28. intercourse
-	29. intercrop
-	30. intercross
-	31. intercultural
-	32. intercurrent
-	33. interdental
-	34. interdepartmental
-	35. interdepend
+	29. intercontinental
+	30. interconversion
+	31. interconvertible
+	32. intercooler
+	33. intercostal
+	34. intercourse
+	35. intercrop
+	36. intercross
+	37. intercultural
+	38. intercurrent
+	39. interdental
+	40. interdepartmental
+	41. interdepend
 		1. interdependence
 		2. interdependent
-	36. interbreed
-	37. interdict
-	38. interdigitate
-	40. interest
-	41. interface
-	42. interfere
-	43. interflow
-	44. interfluent
-	45. interfuse
-	46. intergalactic
-	47. interglactic
-	48. intergenerational
-	49. interglacial
-	50. intergroup
-	51. intergrowth
-	53. interim
-		1.  [meantime](dic://meantime), [meanwhile](dic://meanwhile), [lag](dic://lag)
-		2. _n._ [time interval](dic://time interval), [interval](dic://interval)
-		3. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
-		4. _n._ [permanent](dic://permanent), [lasting](dic://lasting)
-		5. **provisional**暂时的;**temporary**临时的, 暂时的, 短时间的;**appointed**指定的,约定的;**resignation**辞职;**assistant**助手, 副手, 助理;**commissioner**专员, 长官;**deputy**代理人，代表;**tenure**占有;**resigned**顺从的;**chairman**主席，会长;**reinstatement**复职;
+	42. interbreed
+	43. interdict
+	44. interdigitate
+	45. interest
+	46. interface
+	47. interfere
+	48. interflow
+	49. interfluent
+	50. interfuse
+	51. intergalactic
+	52. interglactic
+	53. intergenerational
+	54. interglacial
+	55. intergroup
+	56. intergrowth
+	57. interim
+		1. inter-,在内，在中间，相互，-im,副词后缀。引申词义在中间的，暂时的，过渡的。
+		2. a. 暂时的, 临时的, 间歇的
+		3. n. 过渡时期
+		4.  [meantime](dic://meantime), [meanwhile](dic://meanwhile), [lag](dic://lag)
+		5. _n._ [time interval](dic://time interval), [interval](dic://interval)
+		6. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
+		7. _n._ [permanent](dic://permanent), [lasting](dic://lasting)
+		8. **provisional**暂时的;**temporary**临时的, 暂时的, 短时间的;**appointed**指定的,约定的;**resignation**辞职;**assistant**助手, 副手, 助理;**commissioner**专员, 长官;**deputy**代理人，代表;**tenure**占有;**resigned**顺从的;**chairman**主席，会长;**reinstatement**复职;
 			1. _in the interim_ 在其间
 			2. _interim provisions_ 暂行规定
 			3. _interim government_ 临时政府；过渡政府
@@ -888,118 +1039,121 @@
 			6. _interim measure_ 临时措施
 			7. _interim certificate_ 临时证书
 			8. _interim storage_ 临时贮藏，暂时贮藏；临时存储器
-	54. interior
-	55. interjacent
-	56. interject
-	57. interlace
-	58. interlard
-	59. interlay
-	60. interleaf
-	61. interleave
-	62. interline
-	63. interlink
-	64. interlock
-	65. interlocution
+		9. an interim dividend /中期红利。
+		10. interim profit /中期利润。
+		11. an interim government /过渡 政府
+		12. in the interim I'll just keep my fingers crossed /在此期间我将只能祈求好运。
+		13. an interim compensation payment of £2,500. /一笔数额为2,500英镑的临时性赔偿金。
+		14. the establishment of a new interim government was declared null and void /新临时政府的成立被宣布无效。
+		15. The government is taking interim measures to help those in immediate need /政府正在采取临时措施帮助那些有立即需要的人。
+		16. Despite everything that happened in the interim, they remained good friends. /尽管在此间发生了许多事，他们一直是好朋友。
+		17. On the basis of the interim monitoring results, a preliminary evaluation is done on seepage control effect of steel plate piles wall. /在阶段性监测成果的基础上，对洪湖长江干堤燕窝堤段钢板桩防渗墙渗控效果作出了初步评价。
+		18. A room has been booked from September onwards; in the interim meetings will be held at my house. /房间已订好从九月份起使用, 现在这段时间, 会议将在我家里举行。
+	58. interior
+	59. interjacent
+	60. interject
+	61. interlace
+	62. interlard
+	63. interlay
+	64. interleaf
+	65. interleave
+	66. interline
+	67. interlink
+	68. interlock
+	69. interlocution
 		1. interlocutor
 		2. interlocutory
-	67. interlope
-	68. interlude
-	69. interlunar
-	70. intermarriage
-	71. intermarry
-	72. intermeddle
-	73. intermediary
+	70. interlope
+	71. interlude
+	72. interlunar
+	73. intermarriage
+	74. intermarry
+	75. intermeddle
+	76. intermediary
 		2. intermediate
 		3. intermedium
-	74. intermezzo
-	75. intermigration
-	76. intermingle
-	77. intermission
-	78. intermit
-	79. intermix
-	80. intermolecular
-	81. intern
-	82. internal
-	83. international
-	84. interne
-	85. internecine
-	86. internee
-	87. internist
-	88. internment
-	89. internship
-	90. internuncio
-	91. interoceanic
-	92. interoceptor
-	93. interosculate
-	94. interpage
-	95. interpellate
-	96. interpenetrate
-	97. interpersonal
-	98. interphase
-	99. interphone
-	100. interplanetary
-	101. interplant
-	102. interplay
-	103. interplead
-	104. interpolate
-	105. interpolymer
-	106. interpose
-	107. interposition
-	108. interpret
-	109. interracial
-	110. interregnum
-	111. interrelate
-	112. interrogate
-	113. interrupt
-	114. interscholastic
-	115. intersect
-	116. interserevice
-	117. intersex
+	77. intermezzo
+	78. intermigration
+	79. intermingle
+	80. intermission
+	81. intermit
+	82. intermix
+	83. intermolecular
+	84. intern
+	85. internal
+	86. international
+	87. interne
+	88. internecine
+	89. internee
+	90. internist
+	91. internment
+	92. internship
+	93. internuncio
+	94. interoceanic
+	95. interoceptor
+	96. interosculate
+	97. interpage
+	98. interpellate
+	99. interpenetrate
+	100. interpersonal
+	101. interphase
+	102. interphone
+	103. interplanetary
+	104. interplant
+	105. interplay
+	106. interplead
+	107. interpolate
+	108. interpolymer
+	109. interpose
+	110. interposition
+	111. interpret
+	112. interracial
+	113. interregnum
+	114. interrelate
+	115. interrogate
+	116. interrupt
+	117. interscholastic
+	118. intersect
+	119. interserevice
+	120. intersex
 		1. intersexual
-	118. intersolubility
-	119. interspace
-	120. interspecific
-	121. intersperse
-	122. interstage
-	123. interstate
-	124. interstellar
-	125. interstice
-	126. interstitial
-	127. interstratify
-	128. intertexture
-	129. intertillage
-	130. intertribal
-	131. intertropical
-	132. intertwine
-	133. intertwist
-	134. interuniversity
-	135. interurban
-	136. interval
-	137. intervale
-	138. intervallic
-	139. intervene
-	140. intervertebral
-	141. interview
-	142. intervolve
-	143. interweave
-	144. interwind
-	145. interzonal
-	147. intestine
-	148. interesse
-	154. interfaith
-	155. interferon
-	156. intergenic
-	157. interlinear
-	158. interlingua
-	159. interlunar
-	160. intermezzo
-	162. entry
-	163. entrance
-		1. entrant
-		2. entree
-	164. entrepot
-	165. entrepreneur
-	166. entresol
+	121. intersolubility
+	122. interspace
+	123. interspecific
+	124. intersperse
+	125. interstage
+	126. interstate
+	127. interstellar
+	128. interstice
+	129. interstitial
+	130. interstratify
+	131. intertexture
+	132. intertillage
+	133. intertribal
+	134. intertropical
+	135. intertwine
+	136. intertwist
+	137. interuniversity
+	138. interurban
+	139. interval
+	140. intervale
+	141. intervallic
+	142. intervene
+	143. intervertebral
+	144. interview
+	145. intervolve
+	146. interweave
+	147. interwind
+	148. interzonal
+	149. intestine
+	150. interesse
+	151. interfaith
+	152. interferon
+	153. intergenic
+	154. interlinear
+	155. interlingua
+	156. interlunar
+	157. intermezzo
 6. **enter-** = small intestine, 表示“小肠”。源自希腊语 enteron "intestine."
 	1. bilioenteric
 	2. coelenterate
