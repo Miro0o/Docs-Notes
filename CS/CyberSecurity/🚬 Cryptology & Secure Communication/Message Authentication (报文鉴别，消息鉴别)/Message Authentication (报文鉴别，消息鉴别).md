@@ -34,7 +34,7 @@ Recall the objective of cryptology:
 
 ## Message Authentication Methods
 ### 1️⃣ Symmetric Key Based Message Authentication
-↗ [Symmetric Cipher](🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Symmetric%20Cipher.md)
+↗ [Symmetric Cipher](../🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Symmetric%20Cipher.md)
 
 
 ### 2️⃣ Asymmetric Key Based Message Authentication

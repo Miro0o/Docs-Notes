@@ -26,9 +26,26 @@
 ↗ [Web Security](../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 ↗ [Comprehensive Defense Systems & Security Products](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
 
-
 🔥 https://github.com/qazbnm456/awesome-web-security
 Needless to say, most websites suffer from various types of bugs which may eventually lead to vulnerabilities. Why would this happen so often? There can be many factors involved including misconfiguration, shortage of engineers' security skills, etc. To combat this, here is a curated list of Web Security materials and resources for learning cutting-edge penetration techniques, and I highly encourage you to read the article "[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)" first.
+
+🏫 https://textbook.cs161.org/network/
+CS 161 Textbook
+- [Introduction to Networking](https://textbook.cs161.org/network/intro.html)
+- [ARP](https://textbook.cs161.org/network/arp.html)
+- [DHCP](https://textbook.cs161.org/network/dhcp.html)
+- [WPA](https://textbook.cs161.org/network/wpa.html)
+- [BGP](https://textbook.cs161.org/network/bgp.html)
+- [TCP and UDP](https://textbook.cs161.org/network/transport.html)
+- [TLS](https://textbook.cs161.org/network/tls.html)
+- [DNS](https://textbook.cs161.org/network/dns.html)
+- [DNSSEC](https://textbook.cs161.org/network/dnssec.html)
+- [Denial-of-Service (DoS)](https://textbook.cs161.org/network/dos.html)
+- [Firewalls](https://textbook.cs161.org/network/firewalls.html)
+- [Intrusion Detection](https://textbook.cs161.org/network/intrusion-detection.html)
+- [Abusing Intrusion Detection](https://textbook.cs161.org/network/abusing-intrusion-detection.html)
+- [Malware](https://textbook.cs161.org/network/malware.html)
+- [Anonymity and Tor](https://textbook.cs161.org/network/tor.html)
 
 
 
@@ -70,7 +87,7 @@ Recall the Security Tria:
 
 
 #### Security Mechanisms
-↗ [Cryptography](../🚬%20Cryptology/🤐%20Cryptography/Cryptography.md)
+↗ [Cryptography](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Cryptography.md)
 
 ↗ [Network Security Basics & Protocols](🏇%20Network%20Security%20Basics%20&%20Protocols/Network%20Security%20Basics%20&%20Protocols.md)
 

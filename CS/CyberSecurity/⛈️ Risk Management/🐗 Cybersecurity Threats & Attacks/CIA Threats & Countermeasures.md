@@ -5,10 +5,6 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
 ↗ [Risk Countermeasures & Security Control](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
@@ -19,7 +15,32 @@
 ## Intro
 
 
+
 ## 1️⃣ Data Confidentiality
+### ⚔️ Data Confidentiality Threat Model
+> 🔗 https://textbook.cs161.org/crypto/intro.html#58-definitions-kerckhoffs-principle
+
+When analyzing the confidentiality of an encryption scheme, there are several possibilities about how much access an eavesdropping attacker Eve has to the insecure channel:
+1. Eve has managed to intercept a single encrypted message and wishes to recover the plaintext (the original message). This is known as a **ciphertext-only attack**.
+2. Eve has intercepted an encrypted message and also already has some partial information about the plaintext, which helps with deducing the nature of the encryption. This case is a **known plaintext attack**. In this case Eve’s knowledge of the plaintext is partial, but often we instead consider complete knowledge of one instance of plaintext.
+3. Eve can capture an encrypted message from Alice to Bob and re-send the encrypted message to Bob again. This is known as a **replay attack**. For example, Eve captures the encryption of the message “Hey Bob’s Automatic Payment System: pay Eve `$$100$`” and sends it repeatedly to Bob so Eve gets paid multiple times. Eve might not know the decryption of the message, but she can still send the encryption repeatedly to carry out the attack.
+4. Eve can trick Alice to encrypt arbitrary messages of Eve’s choice, for which Eve can then observe the resulting ciphertexts. (This might happen if Eve has access to the encryption system, or can generate external events that will lead Alice to sending predictable messages in response.) At some other point in time, Alice encrypts a message that is unknown to Eve; Eve intercepts the encryption of Alice’s message and aims to recover the message given what Eve has observed about previous encryptions. This case is known as a **chosen-plaintext attack (CPA)**.
+5. Eve can trick Bob into decrypting some ciphertexts. Eve would like to use this to learn the decryption of some other ciphertext (different from the ciphertexts Eve tricked Bob into decrypting). This case is known as a **chosen-ciphertext attack**.
+6. A combination of the previous two cases: Eve can trick Alice into encrypting some messages of Eve’s choosing, and can trick Bob into decrypting some ciphertexts of Eve’s choosing. Eve would like to learn the decryption of some other ciphertext that was sent by Alice. (To avoid making this case trivial, Eve is not allowed to trick Bob into decrypting the ciphertext sent by Alice.) This case is known as a **chosen-plaintext/ciphertext attack**, and is the most serious threat model.
+
+Today, we usually insist that our encryption algorithms provide security against **chosen-plaintext/ciphertext attacks**, both because those attacks are practical in some settings, and because it is in fact feasible to provide good security even against this very powerful attack model.
+
+However, for simplicity, this class will focus primarily on security against chosen-plaintext attacks.
+
+
+### IND-CPA Security
+> 🔗 https://textbook.cs161.org/crypto/symmetric.html#61-ind-cpa-security
+
+The IND-CPA game works as follows:
+1. The adversary Eve chooses two different messages, $M_0$ and $M_1$, and sends both messages to Alice.
+2. Alice flips a fair coin. If the coin is heads, she encrypts $M_0$. If the coin is tails, she encrypts $M_1$. Formally, Alice chooses a bit $b \in \{0,1\}$ uniformly at random, and then encrypts $Mb$. Alice sends the encrypted message $Enc(K,M_b)$ back to Eve.
+3. Eve is now allowed to ask Alice for encryptions of messages of Eve’s choosing. Eve can send a plaintext message to Alice, and Alice will always send back the encryption of the message with the secret key. Eve is allowed to repeat this as many times as she wants. Intuitively, this step is allowing Eve to perform a chosen-plaintext attack in an attempt to learn something about which message was sent.
+4. After Eve is finished asking for encryptions, she must guess whether the encrypted message from step 2 is the encryption of $M_0$ or $M_1$.
 
 
 
@@ -27,7 +48,7 @@
 > 数据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 
 
-### 🎯 Data Integrity Primitives (完整性保护基本手段)
+### 🛡️ Data Integrity Primitives (完整性保护基本手段)
 #### 通过密码学提供完整性
 基于对称密码技术的完整性机制
 - 对隐藏数据的相同秘密密钥的理解，有效获得数据的完整性保护
@@ -84,7 +105,7 @@
 - 通过访问控制提供。
 
 
-### 🎯 Data Integrity Mechanisms (完整性保护具体机制)
+### 🛡️ Data Integrity Mechanisms (完整性保护具体机制)
 #### Data Integrity Mechanisms' Matrixs (数据完整性特性机制的评价标准)
 - 完整性验证的安全性
 	- 消息完整性安全要求对接收的数据的任何改动都能被发现，对于给定的消息m1和其验证码H（m1），找到满足m2≠m1，且H（m2）＝H（m1）的m2在计算上不可行
@@ -205,7 +226,7 @@
 - 抗抵赖性机制是**否同时具有保密，完整性验证作用**
 - 抗抵赖性**机制的性能**
 	- 发送方计算消息摘要，进行私钥签名，接收方进行验证签名（解密）等。
-### 🎯 Non-Repudiation Primitives (抗抵赖基本手段)
+### 🛡️ Non-Repudiation Primitives (抗抵赖基本手段)
 #### 👉 使用TTP安全令牌的抗抵赖技术
 #### 👉 使用安全令牌和防篡改模块的抗抵赖技术
 #### 👉 使用数字签名的抗抵赖技术
@@ -214,7 +235,7 @@
 #### 👉 使用公证的抗抵赖技术
 
 
-### 🎯 Non-Repudiation Mechanisms (抗抵赖具体机制)
+### 🛡️ Non-Repudiation Mechanisms (抗抵赖具体机制)
 #### 👉 基于**RSA**的数字签名抗抵赖机制
 步骤1：A用自己的私钥签名消息M，用EA私(M）表示；
 步骤2：A把签名的消息发送给B；

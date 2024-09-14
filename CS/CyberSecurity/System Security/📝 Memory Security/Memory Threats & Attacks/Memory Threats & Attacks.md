@@ -8,16 +8,18 @@
 ### Related Topics
 
 
+### Learning Resources
+📖 https://textbook.cs161.org/memory-safety/vulnerabilities.html
+Memory Safety Vulnerabilities
+
+
 
 ## Intro
+### Memory Vulnerabilities Overview
+1. A buffer overflow bug is one where the programmer fails to perform adequate bounds checks, triggering an out-of-bounds memory access that writes beyond the bounds of some memory region. Attackers can use these out-of-bounds memory accesses to corrupt the program’s intended behavior.
+2. 
 
-
-
-## Memory Security Vulnerabilities
-### Buffer Overflow (Out-of-bounds Write/Read)
-
-
-### Use After Free
+Buffer overflows, format string vulnerabilities, and the other examples above are examples of _memory safety_ bugs: cases where an attacker can read or write beyond the valid range of memory regions. Other examples of memory safety violations include using a dangling pointer (a pointer into a memory region that has been freed and is no longer valid) and double-free bugs (where a dynamically allocated object is explicitly freed multiple times).
 
 
 
@@ -48,5 +50,3 @@
 ![](../../../../../Assets/Pics/Pasted%20image%2020231003142154.png)
 
 [内存攻击小结]: https://blog.werner.wiki/memory-attack-summary/
-
-

@@ -20,7 +20,7 @@
 - 要求验证者有声称者的有效公钥
 - 声称者有仅由自己知道和使用的秘密签名私钥
 
-↗ [Asymmetric Cipher (Public-Key Cryptography)](../../../../../../../../🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
+↗ [Asymmetric Cipher (Public-Key Cryptography)](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
 
 ### 👉 Certification Based Authentication (基于证书)
 Generally, for certificate-based authentication, the system will generate a digital certificate to validate the user. It can be generated from the user’s unique Id like voter ID, passport, or other. It contains the user’s public key and digital signature, with this system will identify the right user, A system takes a digital sign from a user and uses cryptography to make sure it’s a valid user. 
@@ -42,7 +42,7 @@ Generally, for certificate-based authentication, the system will generate a digi
 ## 2️⃣ Symmetric Key Based Authentication
 基于对称密码算法的鉴别依靠一定协议下的数据加密处理。通信双方共享一个密钥（通常存储在硬件中），该密钥在质询—应答协议中处理或加密信息交换。
 
-↗ [Symmetric Cipher](../../../../../../../../🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Symmetric%20Cipher.md)
+↗ [Symmetric Cipher](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Symmetric%20Cipher.md)
 
 ### 👉 Token Based Authentication (基于令牌)
 Token-based authentication is a process in which users identify with unique tokens after the user provides credentials to the system. A token is valid only for a designated time period, after that user needs to re-generate it to use again. 
@@ -77,7 +77,7 @@ Token-based authentication is a process in which users identify with unique toke
 - 在该机制中，待鉴别的实体通过表明它拥有某个秘密鉴别密钥来证实其身份。可由该实体以其秘密密钥和特定数据作输入，使用密码校验函数获得密码校验值来达到。
 - 声称者和验证者共享秘密鉴别密钥，应仅为该两个实体所知，以及他们的信任方。
 
-↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
+↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
 
 ### One-direction Authentication
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)

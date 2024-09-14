@@ -1073,11 +1073,24 @@
 	8. belles-lettres
 	9. belletrist, belletristic
 	10. embellish
-		1. _v._ [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize), [hyerbolise](dic://hyerbolise), [magnify](dic://magnify), [amplify](dic://amplify)
-		2. **decorate**装饰;**adorn**装饰;**exaggerate**扩大, 增加;**personalize**个人化;**accentuate**重读;**fabricate**编造, 捏造, 虚构;**alter**改变，更改;**sequins**亮片;**create**造成;**enhance**提高;**distort**扭曲;
-		3. blue silk embellished with golden embroidery. /绣有金色图案的蓝色丝绸。
-		4. unembellished
-		5. embellishment
+		1. em-进入 + bell-美好 + -ish表动词 → 进入美好 → 装饰。
+		2. em-,进入，使，-bell,美丽，词源同 belle,beauty.
+		3. _v._ [overstate](dic://overstate), [exaggerate](dic://exaggerate), [overdraw](dic://overdraw), [hyperbolize](dic://hyperbolize), [hyerbolise](dic://hyerbolise), [magnify](dic://magnify), [amplify](dic://amplify)
+		4. **decorate**装饰;**adorn**装饰;**exaggerate**扩大, 增加;**personalize**个人化;**accentuate**重读;**fabricate**编造, 捏造, 虚构;**alter**改变，更改;**sequins**亮片;**create**造成;**enhance**提高;**distort**扭曲;
+		5. blue silk embellished with golden embroidery. /绣有金色图案的蓝色丝绸。
+		6. The door of the old church was embellished with decorations. /老教堂的门是用雕饰美化的。
+		7. Just tell the truth and don't embellish the story by any means. (喻) /"你只要讲清事实,千万不要添枝加叶。"
+		8. Memories can be embellished or denied /记忆可以被添油加醋 也可以被否认。
+		9. And another point she makes is that many people embellish their height, if asked /她的另一个观点是很多人会修饰他们的身高，如果被问的话。
+		10. Ivy leaves **embellish** the front of the dresser /长春藤树叶装饰着梳妆台的正面。
+		11. unembellished
+		12. embellishment
+			1. n. 装饰，修饰；润色
+			2. _n._ [expansion](dic://expansion), [enlargement](dic://enlargement), [elaboration](dic://elaboration), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+			3. **sequins**亮片;**rhinestone**莱茵石，水钻;**glitter**闪烁;**embroidery**刺绣品;**ornament**装饰;**lace**花边;**beading**形成珠状;**chipboard**硬纸板,纸板;**applique**贴花;**layering**压条法;**ribbon**缎带;
+			4. Like a musical grace note, they're that extra embellishment that makes something beautiful even better. /它们就像音乐里的装饰音，是一种点缀，让各种事物锦上添花。
+			5. And the show's embroiderer, Michelle Carragher, included some tricky embellishments, featuring lions overcoming Stark wolves. /剧中的刺绣师米歇尔·卡拉格也加入了一些巧妙的修饰，比如狮子战胜了史塔克家族的狼。
+			6. The idea of one's soul, as opposed to one's body, ending up in heaven or hell is a subsequent embellishment. /人们认为，一个人的灵魂，不同于其躯体，它终会上天堂或是下地狱，则是在该思想（上帝可以重造肉体）之后才发展出来的一种修饰。
 3. **bene-** = 表示“善，好”。源自拉丁语 bene "well."
 	1. benefaction
 	2. benefactor

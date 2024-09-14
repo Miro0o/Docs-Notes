@@ -9,7 +9,7 @@
 ↗ [Data Compression Technologies](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Data%20Compression%20Technologies.md)
 ↗ [Codec & Media Formats & Standards](../../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 
-↗ [Modern Cryptography](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md)
+↗ [Modern Cryptography](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md)
 
 ↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 

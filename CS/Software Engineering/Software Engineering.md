@@ -4,7 +4,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program, Computer, and Automation](../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program,%20Computer,%20and%20Automation.md)
+↗ [Program, Computer, and Automation](../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 
 ↗ [C & CPP](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)

@@ -31,7 +31,7 @@ x86 Assembly and Call Stack | UCB CS161 Computer Security Textbook
 
 ## Intro
 ### Program = Automata
-↗ [Program, Computer, and Automation](../Program,%20Computer,%20and%20Automation.md)
+↗ [Program, Computer, and Automation](../../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 
 - (computing resources) CPU
 - (storage resources) Register + Address Space

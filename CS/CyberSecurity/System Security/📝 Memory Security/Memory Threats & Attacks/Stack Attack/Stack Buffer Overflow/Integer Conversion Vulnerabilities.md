@@ -1,14 +1,10 @@
-# Stack Smashing Attack
+# Integer Conversion Vulnerabilities
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 

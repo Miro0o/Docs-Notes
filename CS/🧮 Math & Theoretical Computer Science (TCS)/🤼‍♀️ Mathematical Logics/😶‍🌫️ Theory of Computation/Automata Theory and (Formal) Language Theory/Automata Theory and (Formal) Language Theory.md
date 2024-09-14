@@ -8,10 +8,21 @@
 ### Related Topics
 
 
-### Learning Resources
+### Other Resources
 🎬【【有限状态自动机】王彧弋】 https://www.bilibili.com/video/BV1gg411c7ab/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 🎬【状态机模型的应用 (细胞自动机; gdb/rr/perf; 代码验证工具) [南京大学2022操作系统-P10]】 https://www.bilibili.com/video/BV1xU4y1Z7xK/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+📖 交大陳穎平教授正規語言講義
+
+https://www.cs.unc.edu/~otternes/comp455/fsm_designer/
+Finit State Machine Designer
+
+Regular expression visualizer
+http://regexvisualizer.apphb.com/
+
+Converting a DFA to a Minimal State DFA
+http://jflap.org/tutorial/fa/dfa2mindfa/index.html
 
 
 
@@ -53,3 +64,5 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 
 ## Ref
 [Regular Languages]: https://brilliant.org/wiki/regular-languages/
+
+[🤔 Formal Language - Ch5 邁希爾－尼羅德定理 Myhill-Nerode Theorem]: https://www.mropengate.com/2015/04/formal-language-ch5-myhill-nerode.html

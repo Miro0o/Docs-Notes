@@ -9,7 +9,7 @@
 ↗ [AI /Dimensionality Reduction (Data Compression)](../../../Artificial%20Intelligence/🗝️%20AI%20Basics%20&%20Machine%20Learning/📌%20Statistical%20Learning%20Theory/🗿%20Types%20of%20Classic%20ML%20Tasks%20&%20Statistical%20Machine%20Learning%20Methods/Unsupervised%20Learning/Dimensionality%20Reduction%20(Data%20Compression)/Dimensionality%20Reduction%20(Data%20Compression).md)
 
 ↗ [Encodings](../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
-↗ [Message Digest & Hash Function](../../../CyberSecurity/🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
+↗ [Message Digest & Hash Function](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
 
 ↗ [Codec & Media Formats & Standards](Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 - ↗ [JPEG (Joint Photographic Experts Group)](Codec%20&%20Media%20Formats%20&%20Standards/Graphics%20Formats%20&%20Standards/JPEG%20(Joint%20Photographic%20Experts%20Group).md)
