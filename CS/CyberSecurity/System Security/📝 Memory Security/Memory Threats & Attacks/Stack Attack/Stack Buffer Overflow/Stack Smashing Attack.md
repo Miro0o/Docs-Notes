@@ -1,14 +1,10 @@
-# Heap Overflow
+# Stack Smashing Attack
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 

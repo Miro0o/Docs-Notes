@@ -1,14 +1,10 @@
-# Off-by-one Vulnerabilities
+# Heap Buffer Overflow
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 

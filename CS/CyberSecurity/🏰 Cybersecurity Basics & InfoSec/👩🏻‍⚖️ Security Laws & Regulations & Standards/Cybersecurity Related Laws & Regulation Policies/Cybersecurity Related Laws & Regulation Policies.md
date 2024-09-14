@@ -19,7 +19,7 @@ https://www.gov.cn/xinwen/2021-08/20/content_5632486.htm
 ↗ [Physical Security](../../../Physical%20Security/Physical%20Security.md)
 - 等保，分保，关保
 
-↗ [Cryptology](../../../🚬%20Cryptology/Cryptology.md)
+↗ [Cryptology & Secure Communication](../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 - 密码法
 - 密评
 

@@ -143,7 +143,7 @@ Security mechanism: A process (or a device incorporating such a process) that is
 
 Cybersecurity Core Knowledge Domain:
 ↗ [Cybersecurity Basics & InfoSec](🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
-↗ [Cryptology](🚬%20Cryptology/Cryptology.md)
+↗ [Cryptology & Secure Communication](../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 
 Cyber Security Extended Knowledge Domain:
@@ -159,13 +159,13 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 ![](../../../Assets/Pics/Screenshot%202023-10-30%20at%2010.37.48AM.png)
 
 1. **Specific Security Mechanisms**:
-	1. **Encipherment** (↗ [Modern Cryptography](🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md))
+	1. **Encipherment** (↗ [Modern Cryptography](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md))
 		1. The use of mathematical algorithms to transform data into a form that is not readily intelligible. The transformation and subsequent recovery of the data depend on an algorithm and zero or more encryption keys.
-	2. **Digital Signature** (↗ [Digital Signature](🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Digital%20Signature/Digital%20Signature.md))
+	2. **Digital Signature** (↗ [Digital Signature](../🚬%20Cryptology%20&%20Secure%20Communication/Message%20Authentication%20(报文鉴别，消息鉴别)/Digital%20Signature/Digital%20Signature.md))
 		1. Data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery (e.g., by the recipient).
 	3. **Access Control** (↗ [Access Control (访问控制)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 		1. A variety of mechanisms that enforce access rights to resources.
-	4. **Data Integrity** (↗ [Secure Communication & Cryptosystems / 2️⃣ Data Integrity](../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#2️⃣%20Data%20Integrity) )
+	4. **Data Integrity** (↗ [Secure Communication & Cryptosystems / 2️⃣ Data Integrity](../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md#2️⃣%20Data%20Integrity) )
 		1. A variety of mechanisms used to assure the integrity of a data unit or stream of data units.
 		2. 数据据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 			1. 通过密码学提供完整性

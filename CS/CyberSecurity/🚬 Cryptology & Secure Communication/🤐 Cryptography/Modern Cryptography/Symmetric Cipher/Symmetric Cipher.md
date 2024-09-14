@@ -5,13 +5,20 @@
 
 
 ## Res
+### Related Topics
 ↗ [Symmetric Cipher Cryptanalysis](../../../🤮%20Cryptanalysis/Modern%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis/Symmetric%20Cipher%20Cryptanalysis.md)
 
+
+### Learning Resources
 📖 [第 3 章　对称密码（共享密钥密码）——用相同的密钥进行加密和解密](https://m.ituring.com.cn/book/tupubarticle/30282)
 
 
 
 ## Intro
+### One-Time-Pad (OTP)
+> 🔗 https://textbook.cs161.org/crypto/symmetric.html#63-one-time-pad
+
+
 ### Block Cipher 🆚 Stream Cipher
 分组密码与序列密码都属于对称密码，但两者有较大的不同：
 

@@ -9,7 +9,7 @@
 
 
 ### Related Topics
-↗ [Key Management](../../../../../../CyberSecurity/🚬%20Cryptology/Key%20Management/Key%20Management.md)
+↗ [Key Management](../../../../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/Key%20Management.md)
 
 
 

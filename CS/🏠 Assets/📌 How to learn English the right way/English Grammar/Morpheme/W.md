@@ -3959,19 +3959,6 @@
 	5. _weir plate_ 堰板；挡水板
 
 
-### + \*wers- +
-#### + \*wers- (1) + = to confuse, mix up
-1. **guer-** = 表示“打斗”，源自西班牙语 guerra "war."
-	1. guerilla (gorrilla)
-		1. [guerrilla](dic://guerrilla), [irregular](dic://irregular), [insurgent](dic://insurgent)
-		2. _n._ [warrior](dic://warrior)
-		3. **guerrilla**游击队员;**insurgent**起义的,叛乱的,造反的;**rebel**造反;**militant**好战的;**renegade**变节者;**insurgency**叛乱,叛乱状态;**commando**突击队，突击队员;**paramilitary**准军事性的;**anarchist**无政府主义者;**clandestine**秘密的,保密的,暗中的;**warfare**战争;
-	2. guerrilla, guerrillaism
-2. war
-3. worse
-4. worst
-
-
 ### + \*were +
 #### + \*were- (3) + = to speak
 1. **ioron-,rhet-** = speak, 表示“说”。源自希腊语 eirein "to say," rhetor "public speaker."
@@ -4159,30 +4146,101 @@
 		2. - adj. [化学] 放能的；放热的
 	11. synergic
 		1. syn-共同 + erg-能量 + -ic表形容词 → 共同能量 → 协同的。
-		3. synergy, synergist, synergism
+		2. **synergic action**:  协同作用 
+		3. **synergic effect**:  协同效应；协同作用 
+		4. **Synergic movement**:  共同运动；协同运动 
+		5. **synergic reflex**:  协同反射；合作反射 
+		6. **synergic pulse**:  复合脉冲 
+		7. **Synergic Inquiry**:  融合论；超越论 
+		8. **synergic business development**:  协同业务开发；协同开发
+		9. synergy
+			1.  [synergism](dic://synergism)
+			2. _n._ [natural process](dic://natural process), [natural action](dic://natural action), [action](dic://action), [activity](dic://activity)
+			3. **synergistic**协同的;**collaboration**合作, 协作;**symbiotic**共生的;**combination**结合;**teamwork**协力;**interplay**相互作用;**combining**结合;**harmony**协调;**partnership**伙伴关系;**camaraderie**友情;**cohesion**内聚力;
+			4. _synergy effect_ 协同效应；合成效应
+		10. synergist
+		11. synergism
+		12. synergistic
+			1. 【计】 协同的, 协作的  
+			2. 【医】 协同的, 协作的
+			3. syn-共同 + erg-工作 + -istic表形容词
+			4. _adj._ [synergism](dic://synergism), [cooperative](dic://cooperative)
+			5. _n._ [antagonistic](dic://antagonistic), [incompatible](dic://incompatible), [uncooperative](dic://uncooperative)
+			6. **synergy**协同作用;**combination**结合;**symbiotic**共生的;**complementary**互补的;**beneficial**有益的, 有利的;**antagonistic**敌对的;**combining**结合;**additive**添加剂，添加物;**integrative**综合的;**harmonious**和谐的;**combined**结合的;
+			7. _synergistic effect_ 协同效应
+			8. _synergistic agent_ [化]增效剂
+			9. In addition, there was breed difference of synergistic effect of glucose of insulin on lipogenesis /同时，胰岛素和葡萄糖对脂肪生成的协同效应存在品种差异。
+			10. This approach, especially taking two antibiotics at once, is called synergistic therapy /这种方法，特别是同时服用两种抗生素，被称为协同疗法。
+			11. And so the two examples of really nasty diseases that you mentioned earlier, both HIV and MRSA, in which this synergistic method is used quite a bit /你刚才提到的两种非常严重的疾病，艾滋病毒和耐甲氧西林金黄色葡萄球菌，这种协同作用的方法被大量使用。
+			12. Synergistic alliances mean you form relationships to get the cost down and your product out. /合作联盟的建立可以削减成本并把产品推销出去。
 	12. lethargy
 		1. leth-忘记 + arg-=erg-能量 + -y → 睡着了就一切都忘了。
 		2. lethe-（遗忘）：忘却之河勒特  
-		3. 在希腊神话中，勒特（Lethe）是冥界中的五条河流之一，被称为“忘却之河”。喝下此河水便可忘却前生事。它流经睡神的洞穴，穿过整个冥界。死去的亡灵来到冥界后，必须要喝下勒特河水，以便忘记前世记忆，再次转世为人。忘却之河的名字Lethe在希腊语中就是“遗忘”的意思，英语中表示“遗忘、死亡”的词根leth-就来源于此。  
+		3. n. 无精打采，死气沉沉；昏睡，嗜眠（症）
+		4. 在希腊神话中，勒特（Lethe）是冥界中的五条河流之一，被称为“忘却之河”。喝下此河水便可忘却前生事。它流经睡神的洞穴，穿过整个冥界。死去的亡灵来到冥界后，必须要喝下勒特河水，以便忘记前世记忆，再次转世为人。忘却之河的名字Lethe在希腊语中就是“遗忘”的意思，英语中表示“遗忘、死亡”的词根leth-就来源于此
 			1. Lethe： ['liθi] n. 遗忘河，忘却  
 			2. lethean：[li'θi:ən] adj.忘川的，使人遗忘过去的  
 			3. lethargy：['leθədʒɪ] n.昏睡，死气沉沉，嗜睡（症）  
 			4. lethargic：[lɪ'θɑːdʒɪk] adj.昏睡的，无生气的  
 			5. lethal：['liːθ(ə)l] adj.致命的  
 			6. lethality：[lɪ'θæləti] n. 杀伤力；致命性；毁坏性
-		4. lethargize, lethargic
-	14. liturgy
+		5. [lassitude](dic://lassitude), [sluggishness](dic://sluggishness)
+		6.  [inanition](dic://inanition), [lassitude](dic://lassitude), [slackness](dic://slackness)
+		7.  [languor](dic://languor), [sluggishness](dic://sluggishness), [phlegm](dic://phlegm), [flatness](dic://flatness)
+		8. _n._ [torpor](dic://torpor), [torpidity](dic://torpidity), [weakness](dic://weakness), [inactiveness](dic://inactiveness), [inactivity](dic://inactivity), [inertia](dic://inertia)
+		9. **malaise**不舒服;**apathy**冷漠，无兴趣，漠不关心;**tiredness**疲劳;**laziness**怠惰;**complacency**自满;**fatigue**疲劳，疲乏;**boredom**厌倦;**exhaustion**精疲力竭;**nausea**恶心，晕船;**insomnia**失眠症，失眠;**sickness**疾病;
+		10. there was an air of lethargy about him. /他一副没精打采的样子。
+		11. She was suddenly overcome by lethargy. /她突然委靡不振。
+		12. After the meal, I could feel lethargy overtaking me. /饭后我昏昏欲睡。
+		13. He felt that he had to drag himself out of his lethargy and begin to write /他觉得自己必须打起精神，开始写作。
+		14. an inert mass of soil); applied to persons, it implies lethargy or sluggishness, especially of mind or spirit: /一片无活性的土壤)； 用于人，意味着无生气或懒惰的，尤指在心态或精神上：
+		15. Again, however, his active spirit shook off the lethargy which springs from despair /但是，他的积极精神终于排除了这种由于绝望而产生的过分伤感。
+		16. I wouldn't call Civil Service delays " tactics" , Minister, that would be to mistake lethargyfor strategy. /公务员的拖延不能叫“战术”，大臣这是把消极当积极。
+		17. The result can be feelings of cynicism, depression and lethargy /结果可能是愤世嫉俗、抑郁和嗜睡。
+		18. They were talking about kind of a lethargy, about the infighting, about the scandals that kept happening /他们谈论的是昏昏欲睡，谈论内讧，谈论不断发生的丑闻。
+		19. The same lethargy, I am afraid, characterizes the use of all our faculties and senses /我担心同样的冷漠也存在于我们对自己官能和意识的运用上。
+		20. Lethe
+		21. lethean
+		22. lethargic
+		23. lethargize
+		24. lethal
+			1. a. 致命的  
+			2. n. 致死因子
+			3. [deadly](dic://deadly)
+			4. _adj._ [fatal](dic://fatal)
+			5. _n._ [nonfatal](dic://nonfatal)
+			6. [deadly](dic://deadly) 指能致命或实际已致命的事物，也可指企图致死他人的人。  
+			7. [fatal](dic://fatal) 正式用词，强调死亡的不可避免性，多用于指伤或疾病等。  
+			8. [mortal](dic://mortal) 语气强，指导致死亡的直接原因。  
+			9. [lethal](dic://lethal) 指由于某物本身具有致命的性能。
+			10. **deadly**致命的;**dangerous**有危险的, 危险的;**fatal**致命的;**poisonous**有毒的;**potent**强有力的;**toxic**有毒的;**poison**使中毒，放毒于;**venomous**有毒的;**explosive**爆炸的, 爆发的;**noxious**有害的;**weapon**武器，兵器;
+			11. _lethal weapon_ 致命凶器
+			12. _lethal injection_ n. 致命性注射剂；注射处死
+			13. _lethal dose_ [医]致死剂量
+			14. _lethal concentration_ 致死浓度
+			15. the lethal effects of hard drugs. /硬毒品致命的作用。
+			16. And that can be a lethal combination. /而这可能是个致命的组合。
+			17. He's already witnessed just how lethal his job can be /他目睹过这份工作中存在着的致命危险。
+		25. lethality
+	13. liturgy
 		1. lit-民众 + urg-工作，祈祷 + -y
 		2. 来自拉丁语 liturgia,公共仪式，公共祈祷，来自 leito-,平民，公共，词源同 lay,laity,-erg,工作，祈使，词源同 work,synergy.引申词义向神祈福，礼拜仪式。
-	15. telergy
-	16. peptidergic, serotoninergic
-2. **organ-** = instrument (organon 「ancient Greeks」 "tool")
+		3. [Holy Eucharist](dic://Holy Eucharist), [Eucharist](dic://Eucharist), [sacrament of the Eucharist](dic://sacrament of the Eucharist), [Holy Sacrament](dic://Holy Sacrament), [Eucharistic liturgy](dic://Eucharistic liturgy), [Lord's Supper](dic://Lord's Supper)
+		4. _n._ [sacrament](dic://sacrament), [rite](dic://rite), [religious rite](dic://religious rite)
+		5. **liturgical**礼拜仪式的;**Eucharist**圣餐;**hymns**赞美诗;**communion**交流;**sacrament**圣事,圣礼;**theology**神学;**church**教堂;**hymn**赞美诗;**consecration**奉献;**ecumenical**一般的,普通的,基督宗教合一的,普世教会的;**congregation**人群;
+		6. So the authorities kept the lid on, and religious practice beyond the liturgy was risky /所以，政府当局一直在雪藏宗教，而宗教习俗也不再局限于礼拜仪式，开始走向危险的边缘。
+		7. Pope Francis wraps up his trip to Armenia with a liturgy at the Armenian Apostolic Cathedral /教宗方济各结束亚美尼亚行程，并在亚美尼亚宗徒教会主教座堂参加礼拜仪式。
+		8. Mr Waldie's father, who had briefly joined a religious order, knows the Catholic liturgy so well that he teaches newly ordained priests /沃尔迪的父亲曾短暂地加入了一个宗教组织，他对天主教的礼拜仪式非常了解，所以他教新任命的牧师。
+		9. The Anglican " Great Service" superbly embellishes the liturgy of a church he deemed heretical. /英国国教的“伟大服务”极好地美化了他认为是异端的教堂的礼拜仪式。
+	14. telergy
+	15. peptidergic, serotoninergic
+3. **organ-** = instrument (organon 「ancient Greeks」 "tool")
 	1. organ, organism, organize, 
 		1. organic
 		2. organisation, disorganisation
 	2. organotropic
 	3. organotherapy
-3. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
+4. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
 	1. metallurgy
 		1. metal【金属】 + urg-作工，工作， 即冶金学。
 		2. **ceramics**制陶术，制陶业;**alloys**合金;**metals**五金;**welding**焊接的;**machining**加工;**engineering**工程, 工程师行业;**sciences**科学;**alchemy**点金术;**foundry**铸造，铸造类;**geology**地质情况;**archaeology**考古学;
@@ -4206,11 +4264,11 @@
 	8. dramarurge, 
 	9. demiurge, demiurgic
 		1. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
-4. irk
-5. orgy
-6. work
+5. irk
+6. orgy
+7. work
 	1. wrought
-7. wright
+8. wright
 	1. 来自古英语 wryhta,工人，词源同 work,wrought.
 	2. n. 制作者, 工人
 	3. wheelwright
@@ -4220,6 +4278,19 @@
 	7. playwright
 	8. millwright
 	9. cartwright
+
+
+### + \*wers- +
+#### + \*wers- (1) + = to confuse, mix up
+1. **guer-** = 表示“打斗”，源自西班牙语 guerra "war."
+	1. guerilla (gorrilla)
+		1. [guerrilla](dic://guerrilla), [irregular](dic://irregular), [insurgent](dic://insurgent)
+		2. _n._ [warrior](dic://warrior)
+		3. **guerrilla**游击队员;**insurgent**起义的,叛乱的,造反的;**rebel**造反;**militant**好战的;**renegade**变节者;**insurgency**叛乱,叛乱状态;**commando**突击队，突击队员;**paramilitary**准军事性的;**anarchist**无政府主义者;**clandestine**秘密的,保密的,暗中的;**warfare**战争;
+	2. guerrilla, guerrillaism
+2. war
+3. worse
+4. worst
 
 
 ### + \*were-o- +

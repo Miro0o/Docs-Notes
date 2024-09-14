@@ -43,6 +43,17 @@ The **OWASP Cheat Sheet Series** was created to provide a concise collection o
 
 We hope that this project provides you with excellent security guidance in an easy to read format. 😄
 
+🏫 https://textbook.cs161.org/web/
+UCB CS161 Textbook
+- [SQL Injection](https://textbook.cs161.org/web/sqli.html)
+- [Introduction to the Web](https://textbook.cs161.org/web/intro.html)
+- [Same-Origin Policy](https://textbook.cs161.org/web/sop.html)
+- [Cookies and Session Management](https://textbook.cs161.org/web/cookies.html)
+- [Cross-Site Request Forgery (CSRF)](https://textbook.cs161.org/web/csrf.html)
+- [Cross-Site Scripting (XSS)](https://textbook.cs161.org/web/xss.html)
+- [UI Attacks](https://textbook.cs161.org/web/ui-attacks.html)
+- [CAPTCHAs](https://textbook.cs161.org/web/captchas.html)
+
 
 ### Web Security Trending
 📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)

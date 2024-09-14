@@ -119,7 +119,7 @@ Load-store architectures require data to be moved into registers before any oper
 
 ↗ [File Types & File Formats](../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20Types%20&%20File%20Formats.md)
 
-↗ [Cryptology](../../../CyberSecurity/🚬%20Cryptology/Cryptology.md)
+↗ [Cryptology & Secure Communication](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)]
 ↗ [Data Security](../../../CyberSecurity/Data%20Security/Data%20Security.md)
 
 

@@ -10,8 +10,8 @@ https://www.ibm.com/docs/en/zos/2.3.0?topic=guide-ike-protocol-details
 IKE protocol details - This topic provides an overview of the IKE protocols, IKE version 1 (IKEv1) and IKE version 2 (IKEv2). | IBM Documentation, z/OS
 
 ### Related Topics
-↗ [Key Management](../../../../../🚬%20Cryptology/Key%20Management/Key%20Management.md)
-↗ [Key Exchange & Agreement](../../../../../🚬%20Cryptology/Key%20Management/📌%20Key%20Management%20Life%20Circle/👥%20Key%20Exchange%20&%20Agreement/Key%20Exchange%20&%20Agreement.md)
+↗ [Key Management](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/Key%20Management.md)
+↗ [Key Exchange & Agreement](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Life%20Circle/👥%20Key%20Exchange%20&%20Agreement/Key%20Exchange%20&%20Agreement.md)
 
 
 

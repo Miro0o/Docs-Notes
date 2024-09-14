@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 ↗ [Identity Cloud](../../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🌵%20Cloud%20Native%20Overview/🗿%20Cloud%20Models/Cloud%20Service%20(Delivery)%20Models/SaaS%20(Software%20as%20a%20Service)/Identity%20Cloud/Identity%20Cloud.md)
 ↗ [Web Authentication Technologies & Frameworks](../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
 
@@ -223,7 +223,7 @@ Data Origin Authentication (数据原发鉴别)
 ↗ [Thing-Oriented Authentication (鉴别对象为物)](Object-Based%20Authetication/Thing-Oriented%20Authentication%20(鉴别对象为物)/Thing-Oriented%20Authentication%20(鉴别对象为物).md)
 
 #### 🎯 Message Authentication (Data Origin Authentication, 数据原发鉴别)
-↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+↗ [Message Authentication (报文鉴别，消息鉴别)](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
 
 ### 4️⃣ 按鉴别技术分类
@@ -248,7 +248,7 @@ Data Origin Authentication (数据原发鉴别)
 
 ## Authentication Applications
 ### 🌅 Authentication in Secure Communication
-↗ [Secure Communication & Cryptosystems /🌅 Secure Communication with CIA Properties](../../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#🌅%20Secure%20Communication%20with%20CIA%20Properties)
+↗ [Secure Communication & Cryptosystems /🌅 Secure Communication with CIA Properties](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md#🌅%20Secure%20Communication%20with%20CIA%20Properties)
 
 
 ### Web Authentication Protocols
@@ -266,11 +266,11 @@ Data Origin Authentication (数据原发鉴别)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
 
 ### Relay Attacks
-↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#4️⃣%20Relay%20Attacks)
+↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md#4️⃣%20Relay%20Attacks)
 
 
 ### Impersonation Attacks
-↗ [Secure Communication & Cryptosystems /5️⃣ Impersonation Attacks](../../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md#5️⃣%20Impersonation%20Attacks)
+↗ [Secure Communication & Cryptosystems /5️⃣ Impersonation Attacks](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md#5️⃣%20Impersonation%20Attacks)
 
 
 

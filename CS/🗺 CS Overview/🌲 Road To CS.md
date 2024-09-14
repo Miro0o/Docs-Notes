@@ -165,7 +165,7 @@ jyy推荐的计算机科学专业阅读列表
 	1. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
 9. Computer Security
 	1. ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
-	2. ↗ [Cryptology](../CyberSecurity/🚬%20Cryptology/Cryptology.md)
+	2. ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 	3. etc.
 10. etc..
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Secure Communication & Cryptosystems](../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md)
+↗ [Cryptology & Secure Communication](../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Risk Management](../⛈️%20Risk%20Management/Risk%20Management.md)
 ↗ [Software Security](🍦%20Software%20Security/Software%20Security.md)
 
@@ -68,7 +68,7 @@ To standardize this discipline, academics and professionals collaborate to offer
 > 
 > ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
 > ↗ [Cybersecurity Threats & Attacks](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
-> ↗ [Secure Communication & Cryptosystems](../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md)
+> ↗ [Cryptology & Secure Communication](../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 信息本身的机密性（**Confidentiality**）、完整性（**Integrity**）和可用性（**Availability**）的保持，即防止未经授权使用信息、防止对信息的非法修改和破坏、确保及时可靠地使用信息。
 - 机密性：确保信息没有非授权的泄漏，不被非授权的个人、组织和计算机程序使用
@@ -86,10 +86,40 @@ To standardize this discipline, academics and professionals collaborate to offer
 
 
 ### CIA Triad
-![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
-<small>the CIA triad</small>
 
-> The triad seems to have first been mentioned in a [NIST](https://en.wikipedia.org/wiki/NIST "NIST") publication in 1977
+![|400](../../../Assets/Pics/1920px-CIAJMK1209-en.svg.png)
+<small>The CIA Triad. The triad seems to have first been mentioned in a NIST <a>https://en.wikipedia.org/wiki/NIST</a> publication in 1977</small>
+
+> ↗ [CIA Threats & Countermeasures](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md)
+
+Data Confidentiality, Data Integrity, Authentication and Non-repudiation are core principles of modern-day Cryptology.
+
+1. **Confidentiality (机密性)** refers to certain rules and guidelines usually executed under confidentiality agreements which ensure that the information is restricted to certain people or places. ==(Encryption)==
+2. **Data integrity (完整性)** refers to maintaining and making sure that the data stays accurate and consistent over its entire life cycle. ==(Encryption, Communication Channel)==
+3. **Authentication (真实性)** is the process of making sure that the piece of data being claimed by the user belongs to it. ==(Message Authentication)==
+4. **Non-repudiation (不可抵赖性)** refers to ability to make sure that a person or a party associated with a contract or a communication cannot deny the authenticity of their signature over their document or the sending of a message. ==(Message Authentication)==
+
+> Other infosec attributes includes:
+>  1. Availability
+>  2. Reliability
+>  3. Controllability
+>  4. Accountability
+
+---
+> 🔗 https://textbook.cs161.org/crypto/intro.html
+
+You might be thinking that authenticity and integrity seem very closely related, and you would be correct; it makes sense that before you can prove that a message came from a particular person, you first have to prove that the message was not changed. In other words, before you can prove authenticity, you first have to be able to prove integrity. However, these are not identical properties and we will take a look at some edge cases as we delve further into the cryptographic unit.
+
+You can think about cryptographic algorithms that ensure integrity and authenticity as adding a seal on the message that is being sent. Alice uses the key to add a special seal, like a piece of tape on the envelope, on the message. She then sends the sealed message over the unsecure channel. If Mallory tampers with the message, she will break the tape on the envelope, and therefore break the seal. Without the key, Mallory cannot create her own seal. When Bob receives the message, he checks that the seal is untampered before unsealing the envelope and revealing the message.
+
+Most cryptographic algorithms that guarantee integrity and authenticity work as follows: Alice generates a _tag_ or a _signature_ on a message. She sends the message with the tag to Bob. When Bob receives the message and the tag, he verifies that the tag is valid for the message that was sent. If the attacker modifies the message, the tag should no longer be valid, and Bob’s verification will fail. This will let Bob detect if the message has been altered and is no longer the original message from Alice. The attacker should not be able to generate valid tags for their malicious messages.
+
+A related property that we may want our cryptosystem to have is _deniability_. If Alice and Bob communicate securely, Alice might want to publish a message from Bob and show it to a judge, claiming that it came from Bob. If the cryptosystem has deniability, there is no cryptographic proof available to guarantee that Alice’s published message came from Bob. For example, consider a case where Alice and Bob use the same key to generate a signature on a message, and Alice publishes a message with a valid signature. Then the judge cannot be sure that the message came from Bob–the signature could have plausibly been created by Alice.
+
+|                              | Symmetric-key                                     | Asymmetric-key                                        |
+| ---------------------------- | ------------------------------------------------- | ----------------------------------------------------- |
+| Confidentiality              | Block ciphers with chaining modes (e.g., AES-CBC) | Public-key encryption(e.g., El Gamal, RSA encryption) |
+| Integrity and authentication | MACs (e.g., AES-CBC-MAC)                          | Digital signatures (e.g., RSA signatures)             |
 
 #### 🎯 Confidentiality
 In information security, confidentiality "is the property, that information is not made available or disclosed to unauthorized individuals, entities, or processes."
@@ -103,7 +133,7 @@ In IT security, [data integrity](https://en.wikipedia.org/wiki/Data_integrity) m
 More broadly, integrity is an information security principle that involves human/social, process, and commercial integrity, as well as data integrity. As such it touches on aspects such as credibility, consistency, truthfulness, completeness, accuracy, timeliness, and assurance.
 #### 🎯 Availability
 ↗ [Authentication (身份鉴别)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
-↗ [Message Authentication (报文鉴别，消息鉴别)](../🚬%20Cryptology/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
+↗ [Message Authentication (报文鉴别，消息鉴别)](../🚬%20Cryptology%20&%20Secure%20Communication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Authentication%20(报文鉴别，消息鉴别).md)
 
 For any information system to serve its purpose, the information must be [available](https://en.wikipedia.org/wiki/Availability) when it is needed.
 

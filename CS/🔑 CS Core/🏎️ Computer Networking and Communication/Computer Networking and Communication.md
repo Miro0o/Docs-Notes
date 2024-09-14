@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Network Security](../../CyberSecurity/Network%20Security/Network%20Security.md)
-↗ [Secure Communication & Cryptosystems](../../CyberSecurity/🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md)
+↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 ↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
 
 ↗ [IoT Networkings & Communications](../../Embedded%20&%20Internet%20of%20Things/IoT%20Networkings%20&%20Communications/IoT%20Networkings%20&%20Communications.md)

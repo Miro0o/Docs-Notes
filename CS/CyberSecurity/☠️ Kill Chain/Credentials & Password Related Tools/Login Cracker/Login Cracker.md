@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Message Digest & Hash Function](../../../🚬%20Cryptology/🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
+↗ [Message Digest & Hash Function](../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Message%20Digest%20&%20Hash%20Function/Message%20Digest%20&%20Hash%20Function.md)
 
 
 

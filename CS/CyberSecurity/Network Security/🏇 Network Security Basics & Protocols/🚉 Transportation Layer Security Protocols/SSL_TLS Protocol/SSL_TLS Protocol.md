@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [HTTPS (HTTP Security)](../../📱%20Application%20Layer%20Security%20Protocols/HTTPS%20(HTTP%20Security)/HTTPS%20(HTTP%20Security).md) 
-↗ [PKI Scheme (Centralized)](../../../../🚬%20Cryptology/Key%20Management/📌%20Key%20Management%20Life%20Circle/🚛%20Key%20Distribution/Asymmetric%20Key%20Distribution%20(AKD)/AKD%20via%20Public%20Key%20Certificates/🏦%20PKI%20Scheme%20(Centralized)/PKI%20Scheme%20(Centralized).md)
-↗ [Secure Communication & Cryptosystems](../../../../🚬%20Cryptology/Secure%20Communication%20&%20Cryptosystems.md)
+↗ [PKI Scheme (Centralized)](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Key%20Management/📌%20Key%20Management%20Life%20Circle/🚛%20Key%20Distribution/Asymmetric%20Key%20Distribution%20(AKD)/AKD%20via%20Public%20Key%20Certificates/🏦%20PKI%20Scheme%20(Centralized)/PKI%20Scheme%20(Centralized).md)
+↗ [Cryptology & Secure Communication](../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 
 ↗ [SSH (Secure SHell)](../../📱%20Application%20Layer%20Security%20Protocols/SSH%20(Secure%20SHell)/SSH%20(Secure%20SHell).md)
 ↗ [IPSec (Internet Protocol Security) & IPSec VPN](../../🫱🏻‍🫲🏿%20Network%20Layer%20Security/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN/IPSec%20(Internet%20Protocol%20Security)%20&%20IPSec%20VPN.md)

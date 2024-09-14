@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program, Computer, and Automation](../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program,%20Computer,%20and%20Automation.md)
+↗ [Program, Computer, and Automation](../../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 ↗ [Operating Systems & Kernels (Engineering Part)](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 
 ↗ [Operating System Components & Runtime Libraries](😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
@@ -128,7 +128,7 @@ Harley Hahn's Guide to Unix and Linux
 
 
 ### ⭐ Computation, Programming Languages and Programs
-↗ [Program, Computer, and Automation](../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program,%20Computer,%20and%20Automation.md)
+↗ [Program, Computer, and Automation](../../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 
 ↗ [Theory of Computation](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 - ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
