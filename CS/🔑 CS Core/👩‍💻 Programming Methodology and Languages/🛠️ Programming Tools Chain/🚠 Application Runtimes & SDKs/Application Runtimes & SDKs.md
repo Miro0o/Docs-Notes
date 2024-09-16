@@ -12,8 +12,7 @@
 
 ↗ [Program Execution & Compilation System](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 ↗ [Compilation & Program Loading Tools](../Compilation%20&%20Program%20Loading%20Tools/Compilation%20&%20Program%20Loading%20Tools.md)
-
-
+↗ [Android Runtime (ART) and Dalvik Virtual Machine (DVM)](Java%20Runtimes%20(JRE%20&%20JDKs%20Tools)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM)/Android%20Runtime%20(ART)%20and%20Dalvik%20Virtual%20Machine%20(DVM).md)
 
 ## Intro
 

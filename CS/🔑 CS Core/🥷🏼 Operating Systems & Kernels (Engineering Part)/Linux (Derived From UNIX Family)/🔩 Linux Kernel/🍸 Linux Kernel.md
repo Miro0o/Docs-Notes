@@ -41,6 +41,9 @@ The Linux Kernel Organization is managed by ↗ [The Linux Foundation](../The%20
 
 ↗ [The Linux man-pages Project](../The%20Linux%20man-pages%20Project.md)
 
+↗ [Embedded & Internet of Things](../../../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+↗ [Embedded Operating Systems](../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Operating%20Systems/Embedded%20Operating%20Systems.md)
+
 
 ### Learning Guides
 👍 https://en.wikipedia.org/wiki/Portal:Linux
@@ -68,6 +71,54 @@ Professional Linux Kernel Architecture - Wolfgang Mauerer
 📄 https://developer.ibm.com/articles/l-linux-kernel/
 IBM | Anatomy of Linux Kernel
 
+👍 📖 https://0xax.gitbooks.io/linux-insides/content/
+🚧 https://github.com/0xAX/linux-insides
+linux-insides | A book-in-progress about the linux kernel and its insides.
+- [Booting](https://github.com/0xAX/linux-insides/blob/master/Booting/README.md)
+    - [From bootloader to kernel](https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-1.md)
+    - [First steps in the kernel setup code](https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-2.md)
+    - [Video mode initialization and transition to protected mode](https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-3.md)
+    - [Transition to 64-bit mode](https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-4.md)
+    - [Kernel decompression](https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-5.md)
+    - [Kernel load address randomization](https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-6.md)
+- [Initialization](https://github.com/0xAX/linux-insides/blob/master/Initialization/README.md)
+    - [First steps in the kernel](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-1.md)
+    - [Early interrupts handler](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-2.md)
+    - [Last preparations before the kernel entry point](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-3.md)
+    - [Kernel entry point](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-4.md)
+    - [Continue architecture-specific boot-time initializations](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-5.md)
+    - [Architecture-specific initializations, again...](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-6.md)
+    - [End of the architecture-specific initializations, almost...](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-7.md)
+    - [Scheduler initialization](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-8.md)
+    - [RCU initialization](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-9.md)
+    - [End of initialization](https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-10.md)
+- [Interrupts](https://github.com/0xAX/linux-insides/blob/master/Interrupts/README.md)
+    - [Introduction](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-1.md)
+    - [Start to dive into interrupts](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-2.md)
+    - [Interrupt handlers](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-3.md)
+    - [Initialization of non-early interrupt gates](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-4.md)
+    - [Implementation of some exception handlers](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-5.md)
+    - [Handling Non-Maskable interrupts](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-6.md)
+    - [Dive into external hardware interrupts](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-7.md)
+    - [Initialization of external hardware interrupts structures](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-8.md)
+    - [Softirq, Tasklets and Workqueues](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-9.md)
+    - [Last part](https://github.com/0xAX/linux-insides/blob/master/Interrupts/linux-interrupts-10.md)
+- (etc.)
+- [System calls](https://github.com/0xAX/linux-insides/blob/master/SysCall/README.md)
+- [Timers and time management](https://github.com/0xAX/linux-insides/blob/master/Timers/README.md)
+- [Synchronization primitives](https://github.com/0xAX/linux-insides/blob/master/SyncPrim/README.md)
+- [Memory management](https://github.com/0xAX/linux-insides/blob/master/MM/README.md)
+- [Cgroups](https://github.com/0xAX/linux-insides/blob/master/Cgroups/README.md)
+- [SMP](https://github.com/0xAX/linux-insides/blob/master)
+- [Concepts](https://github.com/0xAX/linux-insides/blob/master/Concepts/README.md)
+- [Data Structures in the Linux Kernel](https://github.com/0xAX/linux-insides/blob/master/DataStructures/README.md)
+- [Theory](https://github.com/0xAX/linux-insides/blob/master/Theory/README.md)
+- [Initial ram disk](https://github.com/0xAX/linux-insides/blob/master)
+- [Misc](https://github.com/0xAX/linux-insides/blob/master/Misc/README.md)
+- [KernelStructures](https://github.com/0xAX/linux-insides/blob/master/KernelStructures/README.md)
+- [Useful links](https://github.com/0xAX/linux-insides/blob/master/LINKS.md)
+- [Contributors](https://github.com/0xAX/linux-insides/blob/master/contributors.md)
+
 
 ### Other Resources
 https://planet.kernel.org
@@ -87,6 +138,9 @@ This is a list of links to every Linux changelog.
 
 https://community.unix.com
 Free Unix and Linux technical support for all Unix and Linux operating systems
+
+📚 https://bootlin.com/docs/
+Free training materials and conference presentations from Bootlin, covering kernel, real-time, Android, embedded Linux system and device driver development.
 
 
 
@@ -161,8 +215,6 @@ Note that bug fixes are accepted even outside merge window in the maintainer's t
 
 ### Linux Kernel Source Code Layout
 > 📎 https://linux-kernel-labs.github.io/refs/heads/master/lectures/intro.html
-
-> ↗ 
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240530135006.png)
 

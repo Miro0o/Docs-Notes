@@ -11,7 +11,7 @@
 
 ↗ [Modern Cryptography](../../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md)
 
-↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
+↗ [ASCII Arts](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/ASCII%20Arts.md)
 
 
 ### Other Resources
@@ -120,6 +120,22 @@ Character encoding or just simply encoding in CS refers to the mapping processin
 A **"code point**" is an integer reference to a particular character.
 
 
+---
+**Terminology**
+Informally, the terms "character encoding", "character map", "character set" and "code page" are often used interchangeably. Historically, the same standard would specify a repertoire of characters and how they were to be encoded into a stream of code units — usually with a single character per code unit. However, due to the emergence of more sophisticated character encodings, the distinction between these terms has become important.
+
+- A **character** is a minimal unit of text that has semantic value.
+- A **character set** is a collection of elements used to represent text. For example, the Latin alphabet and Greek alphabet are both character sets.
+- A **coded character set** is a character set mapped to set of unique numbers. For historical reasons, this is also often referred to as a code page. 
+- A **character repertoire** is the set of characters that can be represented by a particular coded character set. The repertoire may be closed, meaning that no additions are allowed without creating a new standard (as is the case with ASCII and most of the ISO-8859 series); or it may be open, allowing additions (as is the case with Unicode and to a limited extent Windows code pages).
+- A **code point** is a value or position of a character in a coded character set.
+- A **code space** is the range of numerical values spanned by a coded character set.
+- A **code unit** is the minimum bit combination that can represent a character in a character encoding (in computer science terms, it is the word size of the character encoding). For example, common code units include 7-bit, 8-bit, 16-bit, and 32-bit. In some encodings, some characters are encoded using multiple code units; such an encoding is referred to as a variable-width encoding.
+
+![](../../../../Assets/Pics/Screenshot%202024-09-14%20at%2020.58.05.png)
+<small>https://en.wikipedia.org/wiki/Character_encoding#References</small>
+
+
 ### EBCDIC
 > .... To maintain compatibility with earlier computers and peripheral equipment, the IBM engineers decided that it would be best to simply expand BCD from 6 bits to 8 bits. Accordingly, this new code was called Extended Binary Coded Decimal Interchange Code (EBCDIC). IBM continues to use EBCDIC in IBM mainframe and midrange computer systems; however, IBM’s AIX operating system (found on the RS/6000 and its successors) and operating systems for the IBM PC use ASCII.
 
@@ -142,6 +158,8 @@ Find other extended ASCII codes on ↗️ https://www.ascii-code.com
 #### EASCII
 #### ANSI (or formally, Windows-1252)
 > 🔗 https://stackoverflow.com/questions/701882/what-is-ansi-format
+
+> ↗ [Shell & Terminals (Console)](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/Shell%20&%20Terminals%20(Console).md) ANSI Escape Sequence
 
 ANSI encoding is a slightly generic term used to refer to the standard code page on a system, usually Windows. It is more properly referred to as [Windows-1252](http://en.wikipedia.org/wiki/Windows-1252) on Western/U.S. systems. (It can represent certain other [Windows code pages](http://en.wikipedia.org/wiki/Windows_code_page) on other systems.) This is essentially an [extension of the ASCII character set](http://en.wikipedia.org/wiki/Extended_ASCII) in that **it includes all the ASCII characters with an additional 128 character codes**. This difference is due to the fact that "ANSI" encoding is 8-bit rather than 7-bit as ASCII is (ASCII is almost always encoded nowadays as 8-bit bytes with the [MSB](https://en.wikipedia.org/wiki/Most_significant_bit) set to 0). See the article for an explanation of why this encoding is usually referred to as ANSI.
 

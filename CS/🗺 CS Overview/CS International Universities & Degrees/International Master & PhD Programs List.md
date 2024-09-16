@@ -378,6 +378,9 @@ Application Info
 
 ### 🇸‍🇪 Sweden
 #### 👉 KTH Royal Institute of Technology
+MSc Computer Simulations for Science and Engineering
+https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering
+
 #### 👉 Lund University
 #### 👉 Uppsala University
 

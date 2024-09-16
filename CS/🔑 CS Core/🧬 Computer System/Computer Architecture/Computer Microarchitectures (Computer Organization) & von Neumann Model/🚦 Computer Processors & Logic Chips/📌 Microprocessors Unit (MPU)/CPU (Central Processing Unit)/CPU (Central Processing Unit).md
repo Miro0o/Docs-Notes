@@ -30,6 +30,18 @@
 - [Let’s build a video card!](https://eater.net/vga)
 - [Learn about error detection](https://eater.net/crc)
 
+📃 https://cpu.land
+Putting the “You” in CPU
+Curious exactly what happens when you run a program on your computer? Read this article to learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
+- [Ch. 0 Intro](https://cpu.land/)
+- [Ch. 1 Basics](https://cpu.land/the-basics)
+- [Ch. 2 Multitasking](https://cpu.land/slice-dat-time)
+- [Ch. 3 Exec](https://cpu.land/how-to-run-a-program)
+- [Ch. 4 ELF](https://cpu.land/becoming-an-elf-lord)
+- [Ch. 5 Paging](https://cpu.land/the-translator-in-your-computer)
+- [Ch. 6 Fork-Exec](https://cpu.land/lets-talk-about-forks-and-cows)
+- [Ch. 7 Epilogue](https://cpu.land/epilogue)
+
 
 
 ## Overview

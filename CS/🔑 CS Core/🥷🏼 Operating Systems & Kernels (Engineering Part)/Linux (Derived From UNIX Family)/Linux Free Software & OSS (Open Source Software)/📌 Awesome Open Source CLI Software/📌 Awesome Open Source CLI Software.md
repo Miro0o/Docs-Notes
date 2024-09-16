@@ -26,7 +26,7 @@ A curated list of things related with Command Line Interfaces (CLI).
 🔥 https://github.com/alebcay/awesome-shell – Command-line utilities and frameworks.
 
 ### Learning Shell & CLI
-↗ [Shell Helper](../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Shell%20Helper.md)
+↗ [Shell Helper](../../../🐚%20Shell%20&%20Terminals%20(Console)/🦞%20Shell%20&%20Script%20Programming/🧑‍🍳%20Shell%20Helper/Shell%20Helper.md)
 
 
 

@@ -118,10 +118,23 @@ Harley Hahn's Guide to Unix and Linux
 
 📄 https://en.wikipedia.org/wiki/Operating_system
 
+📃 https://cpu.land
+Putting the “You” in CPU
+Curious exactly what happens when you run a program on your computer? Read this article to learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
+- [Ch. 0 Intro](https://cpu.land/)
+- [Ch. 1 Basics](https://cpu.land/the-basics)
+- [Ch. 2 Multitasking](https://cpu.land/slice-dat-time)
+- [Ch. 3 Exec](https://cpu.land/how-to-run-a-program)
+- [Ch. 4 ELF](https://cpu.land/becoming-an-elf-lord)
+- [Ch. 5 Paging](https://cpu.land/the-translator-in-your-computer)
+- [Ch. 6 Fork-Exec](https://cpu.land/lets-talk-about-forks-and-cows)
+- [Ch. 7 Epilogue](https://cpu.land/epilogue)
+
 
 
 ## Intro
 > 🎬【操作系统概述 (为什么要学操作系统) [南京大学2022操作系统-蒋炎岩-P1]】 https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+> ↗ [Program, Computer, and Automation](../../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 
 
 ### 🤔 RTFM /RTFSC

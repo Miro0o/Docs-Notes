@@ -6,6 +6,8 @@
 
 ## Res
 ### Related Topics
+↗ [Program, Computer, and Automation](../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
+
 ↗ [Intro to Computer Science](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
 - [Intro to Computer Science /Questions Leading my CS Study](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md#Questions%20Leading%20my%20CS%20Study)
 
@@ -71,6 +73,18 @@ https://www.cnblogs.com/ysocean/tag/深入理解计算机系统/
 NJU-ProjectN
 Nanjing University Computer System Project Series - Build a computer system from scratch!
 🎬【课程总结 (从逻辑门到计算机系统) [南京大学2022操作系统-P32]】 https://www.bilibili.com/video/BV1R34y1L7sY/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+📃 https://cpu.land
+Putting the “You” in CPU
+Curious exactly what happens when you run a program on your computer? Read this article to learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
+- [Ch. 0 Intro](https://cpu.land/)
+- [Ch. 1 Basics](https://cpu.land/the-basics)
+- [Ch. 2 Multitasking](https://cpu.land/slice-dat-time)
+- [Ch. 3 Exec](https://cpu.land/how-to-run-a-program)
+- [Ch. 4 ELF](https://cpu.land/becoming-an-elf-lord)
+- [Ch. 5 Paging](https://cpu.land/the-translator-in-your-computer)
+- [Ch. 6 Fork-Exec](https://cpu.land/lets-talk-about-forks-and-cows)
+- [Ch. 7 Epilogue](https://cpu.land/epilogue)
 
 
 

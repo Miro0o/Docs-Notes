@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Awesome File & Dir Management](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
+↗ [Awesome File & Dir Management](../📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20File%20&%20Dir%20Management.md)
 
 
 

@@ -1,4 +1,4 @@
-# Bootstrap (Boot)
+# Computer Bootstrap (Boot)
 
 [TOC]
 
@@ -14,6 +14,9 @@
 
 ↗ [TPM & TSS](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20&%20TSS.md)
 ↗ [TPM](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/Trusted%20Computing%20(TC)/TPM%20&%20TSS/TPM%20Project/TPM.md)
+
+↗ [Linux Kernel Booting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/Linux%20Kernel%20Booting%20Process.md)
+↗ [Android Starting Process](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Android%20&%20AOSP/Android%20Starting%20Process.md)
 
 
 ### Learning Resources
@@ -33,6 +36,10 @@ http://t.csdnimg.cn/fpEXy
 无论采用何种指令系统的处理器，复位后的第一条指令都会从一个预先定义的特定地址取回。处理器的执行就从这条指令开始。处理器的启动过程，实际上就是一个特定程序的执行过程。这个程序我们称之为固件，又称为BIOS（Basic Input Output System，基本输入输出系统）。对于LoongArch，处理器复位后的第一条指令将固定从地址0x1C000000的位置获取。这个地址需要对应一个能够给处理器核提供指令的设备，这个设备以前是各种ROM，现在通常是闪存（Flash）。从获取第一条指令开始，计算机系统的启动过程也就开始了。
 
 为了使计算机达到一个最终可控和可用的状态，在启动过程中，需要对包括处理器核、内存、外设等在内的各个部分分别进行初始化，再对必要的外设进行驱动管理。本章的后续内容将对这些具体工作进行讨论。
+
+👍 📖 https://0xax.gitbooks.io/linux-insides/content/Booting/
+Linux booting process
+Explain linux by its source codes!
 
 
 
@@ -186,3 +193,9 @@ PC机启动时，cpu首先执行ROM中的BIOS，ROM BIOS会将默认启动驱动
 ![](../../../../../Assets/Pics/Pasted%20image%2020240816223509.png)
 <small>Windows 8/8.1/10 UEFI: UEFI firmware->bootmgfw.efi->WinLoad.efi</small>
 
+[👍 The Kernel Boot Process (2008)]: https://manybutfinite.com/post/kernel-boot-process/
+[👍 How Computers Boot Up (2008)]: https://manybutfinite.com/post/how-computers-boot-up/
+
+![](../../../../../Assets/Pics/Screenshot%202024-09-15%20at%2001.35.22.png)
+
+![](../../../../../Assets/Pics/Pasted%20image%2020240915013605.png)
