@@ -5,11 +5,11 @@
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
+
+
+### Other Resources
+🔍 👍 https://arm64.syscall.sh
 
 
 

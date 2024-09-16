@@ -13,6 +13,9 @@
 ↗ [JTAG（Joint Test Action Group）Debugger](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/JTAG（Joint%20Test%20Action%20Group）Debugger.md)
 
 
+### Other Resources
+
+
 
 ## Intro: Firmware
 ![](../../../../Assets/Pics/Screenshot%202024-03-28%20at%2011.57.52%20PM.png)
@@ -56,7 +59,7 @@ Other firmware applications include:
 
 
 ## Intro: Booting
-↗ [Bootstrap (Boot)](🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
+↗ [Computer Bootstrap (Boot)](🌽%20Computer%20Bootstrap%20(Boot)/Computer%20Bootstrap%20(Boot).md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [📌 Awesome Open Source CLI Software](../../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
+↗ [📌 Awesome Open Source CLI Software](../../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 ↗ [Shell Commands Manuals](../../😭%20Shell%20Commands%20Manuals/Shell%20Commands%20Manuals.md)
 ↗ [📇 Docs Management](../../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Text%20&%20File%20&%20Dir%20Management/📇%20Docs%20Management.md)
 

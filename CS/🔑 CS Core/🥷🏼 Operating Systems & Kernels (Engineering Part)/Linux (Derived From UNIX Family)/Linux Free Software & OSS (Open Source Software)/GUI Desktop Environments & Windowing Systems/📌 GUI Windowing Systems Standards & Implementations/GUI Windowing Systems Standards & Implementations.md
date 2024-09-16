@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Awesome CLI Windows Manager](../../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Windows%20Manager.md)
+↗ [Awesome CLI Windows Manager](../../📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Windows%20Manager.md)
 
 
 

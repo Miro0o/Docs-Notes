@@ -8,6 +8,7 @@
 ### Related Topics
 ↗ [FSF (Free Software Foundation)](Free%20Software%20Organizations/FSF%20(Free%20Software%20Foundation).md)
 ↗ [Linux Free Software & FLOSS & FOSS](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)
+↗ [📌 Awesome Open Source CLI Software](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [Linux Free Software & FLOSS & FOSS](../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)

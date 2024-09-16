@@ -87,22 +87,30 @@ As a discipline, computer science spans a range of topics from theoretical studi
 	1. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 	2. What composes a computer? /How computer is designed in terms of hardware?
 		1. ↗ [Classical Electromagnetism](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related/🍏%20Other%20Related%20Theories/Classical%20Electromagnetism.md)
-		2. ↗ [Hardware & EE Related](../Hardware%20&%20EE%20Related/Hardware%20&%20EE%20Related.md)
-			1. ↗ [Digital (Logic) Electronics Foundations](../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
-			2. ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
+		3. ↗ [Hardware & EE Related](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related/Hardware%20&%20EE%20Related.md)
+			1. ↗ [Digital (Logic) Electronics Foundations](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)]
+			2. ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 	3. What happened during computer booting? /How does computer start?
 		1. [Firmware and Computer (OS) Booting](../../🔑%20CS%20Core/🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 	4. What happened after computer booting? /How does OS work?
 		1. [Operating System & OS Kernel (Theory Part)](../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 		2. [Operating Systems & Kernels (Engineering Part)](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
-	5. Why and how do we program? /How are programming languages designed
-		1. ↗ [Programming Methodology and Languages](../👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-		2. ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
-	6. What happened when a program is running? /How are software/programs compiled and run?
-		1. ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
-	7. What happened when a network request is sent and a response is received? /How does computer network(or Internet) work?
+	4. What is a program and how does it work?
+		1. Why and how do we program? /How are programming languages designed
+			2. ↗ [Programming Methodology and Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+			3. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+		2. What happened when a program is running? /How is software/programd compiled and run?
+			1. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+			2. 怎么构造一个最小的 Hello, World？ --- jyy
+			3. Where is the first instruction of a C program?
+			4. Where is the first instruction of a Python program?
+			5. Where is the first instruction of a Java program?
+			6. Where is the first instruction of a Go program?
+			7. Where is the first instruction of an Android program?
+			8. etc.
+	5. What happened when a network request is sent and a response is received? /How does computer network(or Internet) work?
 		1. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-4. what can computer do and how to improve it? (Application, Efficiency, Scalability, Security「CIA」)
+5. what can computer do and how to improve it? (Application, Efficiency, Scalability, Security「CIA」)
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 		1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 		2. ↗ [Operation Research](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
@@ -115,7 +123,7 @@ As a discipline, computer science spans a range of topics from theoretical studi
 	6. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 	7. ↗ [Web 3.0 & Cryptocurrency](../../Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)
 	8. ↗ [Human-Computer Interaction](../../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
-5. what is information system? what is cyberspace? what is cybersecurity?
+6. what is information system? what is cyberspace? what is cybersecurity?
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 
 

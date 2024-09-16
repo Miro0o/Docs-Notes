@@ -630,3 +630,7 @@ int default_wake_function(wait_queue_entry_t *curr, unsigned mode, int wake_flag
 
 
 ## Ref
+[Linux Process States and Signals | Medium]: https://cloudchef.medium.com/linux-process-states-and-signals-a967d18fab64
+
+![](../../../../../../Assets/Pics/Pasted%20image%2020240915013020.png)
+

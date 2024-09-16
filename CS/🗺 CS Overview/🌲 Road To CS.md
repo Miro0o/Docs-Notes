@@ -87,6 +87,9 @@ https://github.com/hoochanlon/hamulete/tree/master
 https://jyywiki.cn/Reading_List.md
 jyy推荐的计算机科学专业阅读列表
 
+https://www3.ntu.edu.sg/home/ehchua/programming/index.html
+yet another insignificant programming notes - NTU 
+
 
 
 ## 🚀 A Serious CS Roadmap
@@ -201,6 +204,11 @@ Software Engineering
 > ↗ [Wiki Projects & Wikimedia Foundation (WMF)](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
 
+
+### Beyond CS/IT ..
+https://www.pkuanvil.com/topic/459/
+知乎回答备份
+[This is X](../🏠%20Assets/This%20is%20X/This%20is%20X.md)
 
 ### Generic IT Knowledge
 #### IT & CS Updates /Trending/ News /Analysis

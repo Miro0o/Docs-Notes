@@ -22,7 +22,7 @@
 
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 ↗ [Firmware and Computer (OS) Booting](../🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
-- ↗ [Bootstrap (Boot)](../🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Bootstrap%20(Boot)/Bootstrap%20(Boot).md)
+- ↗ [Computer Bootstrap (Boot)](../🧬%20Computer%20System/Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrap%20(Boot)/Computer%20Bootstrap%20(Boot).md)
 
 ↗ [Programming Tools Chain](../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 - ↗ [Application Runtimes & SDKs](../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Application%20Runtimes%20&%20SDKs.md)

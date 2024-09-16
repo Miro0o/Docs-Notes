@@ -52,12 +52,25 @@ Record and share your terminal sessions, the simple way.
 ### 1️⃣ Console, Terminal, Serial Terminal
 #### Teletype, tty
 
+
 #### ASNI Escape Sequence
+> 🔍 [ANSI Escape Sequences](https://gist.github.com/ConnerWill/d4b6c776b509add763e17f9f113fd25b)
+
+---
 UNIX上古时期，经历了电传打字机（Teletype, tty）、电子视频终端（Video Terminal，键盘+阴极射线管显示器）用作终端设备（Terminal），通过RS232串口线连接主机，是计算机系统中的io外设。
 
 在没有图形界面、只有文本字符的年代，为了更加灵活、友好地和用户交互，终端设备逐渐支持颜色、高亮、光标移动、清屏等多种效果，设备厂商定义一些特殊字符来表征这些效果，因为不是真正的输出文本内容，也被称为**转义字符**或**控制字符**，比如在shell提示符变量`PS1`、`ls`输出颜色控制变量`LS_COLOR`中，经常看到的”`\033[34m`”或”`\e[34m`”。这些特殊功能以函数库（termcap/terminfo）的形式提供给开发者，方便开发者调用。但是如果每个厂家都来这么一套函数库，而且各家规范也不一致的话，开发者用起来就比较头疼，程序在不同终端上兼容性也差。美国国家标准学会(American National Standard Institute，ANSI)牵头制订了包括ASCII在内的一系列规范，解决计算机、终端设备等之间数字信息问题，ANSI采用了ANSI X3.64规范，提出了“**ANSI Escape Sequence**”的概念（以下称“ANSI转义序列”），见[维基百科 ANSI_escape_code](https://en.wikipedia.org/wiki/ANSI_escape_code)。
 
 1978年，Digital VT100成为首个支持ANSI Escape Sequence的终端设备，随着VT100大获成功，越来越多的终端设备兼容VT100，**VT100成为了事实标准**，相关标准被UNIX、Linux所支持和继承，甚至阴极射线管显示器支持80行×24列字符的尺寸标准也被保留。
+
+---
+> 🔗 https://en.wikipedia.org/wiki/ANSI_escape_code
+
+**ANSI escape sequences** are a standard for [in-band signaling](https://en.wikipedia.org/wiki/In-band_signaling "In-band signaling") to control cursor location, color, font styling, and other options on video [text terminals](https://en.wikipedia.org/wiki/Text_terminal "Text terminal") and [terminal emulators](https://en.wikipedia.org/wiki/Terminal_emulator "Terminal emulator"). Certain sequences of [bytes](https://en.wikipedia.org/wiki/Byte "Byte"), most starting with an [ASCII escape](https://en.wikipedia.org/wiki/Escape_character#ASCII_escape_character "Escape character")character and a [bracket](https://en.wikipedia.org/wiki/Bracket "Bracket") character, are embedded into text. The terminal interprets these sequences as commands, rather than text to display verbatim.
+
+ANSI sequences were introduced in the 1970s to replace vendor-specific sequences and became widespread in the computer equipment market by the early 1980s. They are used in development, scientific, commercial text-based applications as well as [bulletin board systems](https://en.wikipedia.org/wiki/Bulletin_board_system "Bulletin board system") to offer standardized functionality.
+
+Although hardware text terminals have become increasingly rare in the 21st century, the relevance of the ANSI standard persists because a great majority of terminal emulators and command consoles interpret at least a portion of the ANSI standard.
 
 
 ### 2️⃣ Virtual Terminal, Terminal Emulator

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [GUI Windowing Systems Standards & Implementations](../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/GUI%20Desktop%20Environments%20&%20Windowing%20Systems/📌%20GUI%20Windowing%20Systems%20Standards%20&%20Implementations/GUI%20Windowing%20Systems%20Standards%20&%20Implementations.md)
+↗ [GUI Windowing Systems Standards & Implementations](../GUI%20Desktop%20Environments%20&%20Windowing%20Systems/📌%20GUI%20Windowing%20Systems%20Standards%20&%20Implementations/GUI%20Windowing%20Systems%20Standards%20&%20Implementations.md)
 
 
 

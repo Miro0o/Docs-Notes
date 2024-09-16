@@ -18,7 +18,7 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 
 
 ### Related Topics
-↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 
@@ -45,7 +45,7 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 - [Usage examples](https://cli.github.com/manual/examples)
 - [Community extensions](https://github.com/topics/gh-extension)
 
-> There are also other github client CLI tools at ↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+> There are also other github client CLI tools at ↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
 
 
 
