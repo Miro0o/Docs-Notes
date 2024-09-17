@@ -12,6 +12,8 @@
 
 
 ### Other Resources
+https://defuse.ca/online-x86-assembler.htm
+Online x86 assembler
 
 
 

@@ -34,6 +34,10 @@ TechInsights is the information platform for the semiconductor industry.
 https://www.anandtech.com/home/
 PC components and technologies review
 
+https://www.pjrc.com
+EE related products & blogs
+
+
 
 ## Intro
 

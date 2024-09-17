@@ -125,8 +125,12 @@ https://planet.kernel.org
 
 https://www.linuxjournal.com
 
-https://lwn.net
+👍 👍 📚 https://lwn.net
 LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
+- 🔍 https://lwn.net/Search/ | 
+- https://lwn.net/Kernel/ | LWN.net's coverage of Linux kernel development is detailed, technical, and timely.
+- https://lwn.net/Security/ | LWN.net offers several security-related resources, including the [security alert database](https://lwn.net/Alerts/) and the weekly edition security page.
+- 
 
 https://kernelnewbies.org/Linux_Kernel_Newbies
 Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their [Kernel](https://kernelnewbies.org/Kernel)s and more experienced developers willing to share their knowledge. 

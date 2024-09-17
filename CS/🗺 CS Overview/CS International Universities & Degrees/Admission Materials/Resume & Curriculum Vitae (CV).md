@@ -42,6 +42,9 @@ With this, the European Commission supports you in reaching your full potential 
 https://mitcommlab.mit.edu/eecs/commkit/cvresume/
 CV/Resume | MIT EECS Communication Lab
 
+https://www.1point3acres.com/bbs/thread-1069810-1-1.html
+我自己整理的一份检查CV的清单大家可以按照下面所列的点去对比自己的CV
+
 
 
 ## Intro

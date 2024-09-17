@@ -13,16 +13,15 @@
 📂 [nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/index.html)
 
 
-
-## 🧭 Intro
-
+### Related Topics
 
 
-## Configuration
 
+## Intro
 
 
 
 
 ## 🖇 Ref
-4. [What does upsteam means in Nginx](https://stackoverflow.com/a/5877989/16542494)
+[What does upsteam means in Nginx]: https://stackoverflow.com/a/5877989/16542494
+

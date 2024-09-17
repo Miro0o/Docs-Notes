@@ -6,7 +6,7 @@
 
 ## Res
 ↗ [Apple Operating Systems](../../../Apple%20Operating%20Systems/Apple%20Operating%20Systems.md)
-↗ [Games on Apple & macOS](../../../../🧰%20Generic%20Tools%20&%20Projects/🕹️%20Games/Games%20on%20Apple%20&%20macOS.md)
+↗ [Games on Apple & macOS](../../../../🧰%20Generic%20Tools%20&%20Projects/🕹️%20Games/Game%20Genres/Games%20on%20Apple%20&%20macOS.md)
 
 📄 https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit
 

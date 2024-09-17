@@ -23,7 +23,7 @@ Material 3 is the latest version of Google’s open-source design system. Design
 [Landing Love](https://www.landing.love/)
 Showcase of the best 333 Animation Websites.
 
-↗ [Color & Layout Design](../../🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
+↗ [Color & Layout Design](../Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Color%20&%20Layout%20Design.md)
 
 
 

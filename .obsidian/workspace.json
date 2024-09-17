@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c44d10820e09dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Android & AOSP/Android Starting Process.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "176631c8143f41c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,17 +21,46 @@
             }
           },
           {
-            "id": "4f3cdb2013d4d039",
+            "id": "8b593103abec4d2b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md"
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f48eb71d8462488d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aceb9f47f9fb729a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.50271224975586,
-    "collapsed": true
+    "width": 461.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -111,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md"
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md"
               }
             }
           },
@@ -196,34 +211,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f3cdb2013d4d039",
+  "active": "aceb9f47f9fb729a",
   "lastOpenFiles": [
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Android & AOSP/Android Starting Process.md",
-    "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
-    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/🌽 Computer Bootstrap (Boot)/Computer Bootstrap (Boot).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF (Executable and Linkable Format).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Window File Types & Formats.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Windows PE (Portable Executable) File/Windows PE (Portable Executable) File.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Windows PE (Portable Executable) File",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux File Types & Formats/Linux File Types & Formats.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/io_uring.md",
+    "CS/🗺 CS Overview/📆 Conference & Events in Industry/Security Events/Black Hat.md",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/SIGSAC.md",
+    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals.md",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/IEEE Symposium on Security and Privacy (S&P).md",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/Network and Distributed System Security (NDSS) Symposium.md",
+    "CS/🗺 CS Overview/📆 Conference & Events in Industry/Security Events/OWASP Global AppSec.md",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/Usenix Security Symposium.md",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/RSA Conference.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Electronics & Information Technologies Business Fields Research.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Security Industry & Companies.md",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Conferences & Events in Academia.md",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Fireeye.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Provisioning/Security & Compliance/Security & Compliance.md",
+    "CS/Academics/Academics.md",
+    "CS/Academics/FAQ.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux Kernel Booting Process.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux System Calls.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🦟 Vulnerabilities/Vulnerabilities.md",
-    "CS/🔑 CS Core/🧬 Computer System/Firmware and Computer (OS) Booting/Firmware and Computer (OS) Booting.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Software Vulnerability & Weakness.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/Security Incidence.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/xz Backdoor.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Collections & Analysis/CVE-2024-3094 xz backdoor.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/VPN & NAT Implementations/VPN & NAT Commercial Products/NordVPN.md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/👻 Tunneling & VPN/Tunneling & VPN.md",
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
-    "CS/🏠 Assets/Articles & Comments List.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/📌 Processes Description & Control/System Calls/System Calls.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/RISC (Reduced Instruction Set Computer)/ARM Architecture Family/ARM64 Processor (AArch64, ARMv8)/ARM64 Processor (AArch64, ARMv8).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86_32 (x86)/x86_32 (x86).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86_64 (x64)/x86_64 (x64).md",
-    "CS/🏠 Assets/This is X/🇨🇳 This is China/This is China.md",
-    "CS/🏠 Assets/How to keep a heathy life the right way.md",
-    "CS/🏠 Assets/How to make money the quick way.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/epoll().md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network Virtualization.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network.md",
+    "CS/Software Engineering/Desktop & Monolithic Application Development/Game Development/Graphic Games Engine",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Game Genres",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Computing & Computing Systems/🚀 High Performance Computing/High Performance Computing Projects",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/JS Runtimes",
+    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Upper CASE Tools/Design & Visualization Tools/Data Visualizers",
+    "CS/Software Engineering/Web Development/Web Fullstack Frameworks",
     "Assets/Pics/Pasted image 20240915134105.png",
     "Assets/Pics/Pasted image 20240915013721.png",
     "Assets/Pics/Pasted image 20240915013711.png",
@@ -236,15 +260,6 @@
     "Assets/Pics/Screenshot 2024-09-15 at 01.23.16.png",
     "Untitled.canvas",
     "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Lower CASE Tools/AI-based",
-    "CS/CyberSecurity/System Security/📝 Memory Security/Memory Threats & Attacks/Heap Attack/Heap Buffer Overflow",
-    "CS/CyberSecurity/System Security/📝 Memory Security/Memory Threats & Attacks/Stack Attack",
-    "CS/CyberSecurity/System Security/📝 Memory Security/Memory Threats & Attacks/Other Memory Exploitations/Format String Vulnerabilities",
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS294,194-196 Large Language Model Agents (24Fall)",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/📌 JS Runtime Libraries & SDK",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Java Runtimes (JRE & JDKs Tools)/📌 JAVA Third-party Libraries & JDK/Utils",
-    "Untitled.table",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Kong",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Cloud Operating System & Platform (System Level Engineering)/Orchestration & Management/API Gateway/Apache APISIX",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

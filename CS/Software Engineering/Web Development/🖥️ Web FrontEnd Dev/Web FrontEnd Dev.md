@@ -8,7 +8,10 @@
 ### Related Topics
 ↗ [Web Frontend Deployment](../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Web%20Frontend%20Deployment/Web%20Frontend%20Deployment.md)
 ↗ [Frontend Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Frontend%20Galleries/Frontend%20Galleries.md)
-↗ [Desktop Dev using Webs](../../Desktop%20Development/Desktop%20Dev%20using%20Webs/Desktop%20Dev%20using%20Webs.md)
+↗ [Desktop Dev using Webs](../../Desktop%20&%20Monolithic%20Application%20Development/Desktop%20Dev%20using%20Webs/Desktop%20Dev%20using%20Webs.md)
+
+↗ [JS FrontEnd Frameworks](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JS%20FrontEnd%20Frameworks/JS%20FrontEnd%20Frameworks.md)
+↗ [JavaScript (Browser End)](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
 
 
 ### Tutorials & Docs

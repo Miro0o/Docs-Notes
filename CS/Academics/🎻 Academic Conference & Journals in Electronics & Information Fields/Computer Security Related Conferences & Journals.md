@@ -6,6 +6,7 @@
 
 ## Res
 ### Related Topics
+↗ [Security Industry & Companies](../../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
 ↗ [信息安全相关学术会议列表](../Appendix/信息安全相关学术会议列表.md)
 
 
@@ -22,6 +23,24 @@ IEEE Symposium on Security and Privacy (**S&P**)
 
 https://www.ndss-symposium.org
 Network and Distributed System Security (**NDSS**) Symposium
+
+
+ACM Conference on Computer and Communications Security (CCS)
+
+International Conference on Information Security and Cryptology (ICISC)
+
+Annual Computer Security Applications Conference (ACSAC)
+
+European Symposium on Research in Computer Security (ESORICS)
+
+International Workshop on Security and Privacy Engineering (IWSE)
+
+ACM Workshop on Artificial Intelligence and Security (AISec)
+
+Workshop on the Economics of Information Security (WEIS)
+
+
+### Journals
 
 
 

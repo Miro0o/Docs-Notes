@@ -110,8 +110,6 @@ Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce.
 
 ### 🥺 System Calls & Other Function Calls
 > ↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
-
-
 #### 👉 `strace` | `dtrace` | `dtruss`
 [strace](https://www.man7.org/linux/man-pages/man1/strace.1.html)
 [dtrace](http://dtrace.org/blogs/about/)
@@ -123,7 +121,11 @@ Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce.
 ↗ [Valgrind](../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md)
 #### 👉 SystemTap | Perf | Kernel Debuggers
 
+
 ### Resource Virtualization
+↗ [Design & Visualization Tools](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Design%20&%20Visualization%20Tools.md)
+↗ [Data Visualizers](../../../../../Software%20Engineering/CASE%20(Computer-Aided%20Software%20Engineering)%20Tools/Upper%20CASE%20Tools/Design%20&%20Visualization%20Tools/Data%20Visualizers/Data%20Visualizers.md)
+
 #### 👉 `pprof` 👍 🔥
 🚧 https://github.com/google/pprof
 

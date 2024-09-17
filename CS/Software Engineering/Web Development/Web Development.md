@@ -9,7 +9,7 @@
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 ↗ [MLOps](../🤖%20AI%20x%20SE/MLOps/MLOps.md)
 
-↗ [Web Application Systems & Design](../../System%20Architecture%20Design/Web%20Application%20Systems%20&%20Design/Web%20Application%20Systems%20&%20Design.md)
+↗ [Web Application Systems & Architecture Design](Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 ↗ [Web & DBMS](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Web%20&%20DBMS/Web%20&%20DBMS.md)
 ↗ [DS Web Services' Architectures](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
 
@@ -19,7 +19,7 @@
 ↗ [Web (WWW) Protocols](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
 
 ↗ [Browsers](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Browsers/Browsers.md)
-↗ [Web Browsers Development](../Desktop%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
+↗ [Web Browsers Development](../Desktop%20&%20Monolithic%20Application%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
 
 
 

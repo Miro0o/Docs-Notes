@@ -35,9 +35,13 @@
 ### Other Resources
 [List Of Some Of The Software Development Trends That Have Dominated The Year 2020](https://www.cisin.com/coffee-break/trends/list-of-some-of-the-software-development-trends-that-have-dominated-the-year-2020.html)
 
-🪜 [TIOBE](https://www.tiobe.com/tiobe-index/)
+🪜 https://www.tiobe.com/tiobe-index/
+TIOBE - programming language rank
 
 🎬【实验生存指南：代码风格和定制化 gdb 调试 [南京大学2023操作系统-P18] (蒋炎岩)】 https://www.bilibili.com/video/BV1aT411H77C/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+https://github.com/jobbole
+伯乐在线 - 各种编程资源大全
 
 
 

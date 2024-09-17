@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [CyberSecurity](../../../CyberSecurity/CyberSecurity.md)
+↗ [Computer Security Related Conferences & Journals](../../../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Conference & Events in Industry](../../../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20in%20Industry/Conference%20&%20Events%20in%20Industry.md)
 
 
 
@@ -34,3 +36,4 @@ A:
 
 A:
 我看好像没有本专业的人回答这个问题，我来补充一下，核心原因是监管不到位，每年都有信息泄露的事件发生，但是处罚力度不大，导致企业有恃无恐，这是国内的特色不但是这个行业，其二是商业化失败和行业的特殊性，放任市场化无异于看着它打家劫舍跟“乌云”一样，其三是作为it行业的一行没有自己的生产资料主动权不在自己手中，最后一点就是市场需求不大，只有中型企业需要，小型企业不需要，大型企业自己造，中型企业才需要外包安全，但是因为前三点导致行业竞争力为0，只能以销售驱动，如此恶性循环一直出卖自己到最后一秒。
+

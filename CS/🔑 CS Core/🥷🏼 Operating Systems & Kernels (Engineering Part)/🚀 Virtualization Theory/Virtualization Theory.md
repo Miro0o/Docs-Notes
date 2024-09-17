@@ -20,7 +20,7 @@ Popek & Goldberg, 1974
 ↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 ↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
 
-↗ [Game Emulators](../../🧰%20Generic%20Tools%20&%20Projects/🕹️%20Games/Game%20Emulators/Game%20Emulators.md)
+↗ [Game Emulators](../../🧰%20Generic%20Tools%20&%20Projects/🕹️%20Games/Game%20Hosts%20&%20Emulators/Game%20Emulators.md)
 
 ↗ [Cloud Computing & Cloud Native](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [VMWare](../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Software%20Industry%20&%20Providers/System%20Level%20Software%20Providers/VMWare.md)
