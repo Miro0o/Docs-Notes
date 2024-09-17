@@ -20,3 +20,30 @@ That's the same reason you see this sort of thing among the other early-adopter 
 
 
 [Why do people in academia tend to write their email address with "(dot)", "(at)", instead of ".", "@"? | Stackoverflow]: https://academia.stackexchange.com/q/55612
+
+
+## Differences Between Symposium, Conference, and Workshop?
+#academia #conference #workshop #symposium
+
+> 🤖 Contents below are AI-generated
+
+The terms **symposium**, **conference**, and **workshop** refer to different types of academic or professional gatherings, each with distinct characteristics:
+
+Symposium
+- **Definition:** A formal meeting or discussion focused on a specific topic or theme.
+- **Format:** Often features presentations by invited speakers, followed by discussions or panels.
+- **Purpose:** Primarily to share research findings and facilitate discussions among experts in a specific area.
+- **Duration:** Typically shorter than conferences, often lasting a day or two.
+
+Conference
+- **Definition:** A larger event that gathers people to discuss a broader range of topics within a specific field.
+- **Format:** Includes multiple sessions with presentations, keynote speeches, panels, and networking opportunities.
+- **Purpose:** To disseminate research, share knowledge, and foster collaboration. Conferences often have submitted papers that are peer-reviewed.
+- **Duration:** Usually spans several days.
+
+Workshop
+- **Definition:** A more interactive and hands-on gathering focusing on practical skills or specific topics.
+- **Format:** Involves activities, discussions, and exercises rather than just presentations. Participants may engage in collaborative work.
+- **Purpose:** To teach skills, explore new methods, or develop solutions to specific problems. Workshops often encourage participant involvement.
+- **Duration:** Can vary from a few hours to a couple of days but is generally shorter than conferences.
+

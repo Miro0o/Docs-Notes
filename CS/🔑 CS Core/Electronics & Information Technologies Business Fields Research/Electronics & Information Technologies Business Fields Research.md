@@ -12,6 +12,10 @@
 
 ↗ [AI WatchList](../../Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
 
+↗ [Conferences & Events in Academia](../../🗺%20CS%20Overview/📅%20Conferences%20&%20Events%20in%20Academia/Conferences%20&%20Events%20in%20Academia.md)
+↗ [Conference & Events in Industry](../../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20in%20Industry/Conference%20&%20Events%20in%20Industry.md)
+↗ [Academics](../../Academics/Academics.md)
+
 
 
 ## Intro

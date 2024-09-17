@@ -13,12 +13,18 @@ Features:
 - https://education.github.com
 - https://classroom.github.com/
 
-🔥 https://github.com/tiimgreen/github-cheat-sheet
-A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426)talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
-
 
 ### Related Topics
 ↗ [Awesome CLI Integration](../../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/Awesome%20CLI%20Integration.md)
+
+
+### Other Resources
+https://gitstar-ranking.com
+Unofficial GitHub star ranking for users, organizations and repositories.
+
+
+🔥 https://github.com/tiimgreen/github-cheat-sheet
+A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426)talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 
 
@@ -55,11 +61,11 @@ GitHub CLI, or `gh`, is a command-line interface to GitHub for use in your term
 
 
 ### 👉 `GitHubpage` | `GithubBook`
-↗ [Github Page & Github Book](../../../../../Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
+↗ [Github Page & Github Book](../../../../../Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
 
 
 ### 👉 `Giscus`
-↗ [giscus](../../../../../Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🤖%20WebApps/Commenting/giscus.md)
+↗ [giscus](../../../../../Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Commenting/giscus.md)
 
 
 

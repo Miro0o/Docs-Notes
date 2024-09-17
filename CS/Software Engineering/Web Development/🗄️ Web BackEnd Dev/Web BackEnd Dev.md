@@ -12,7 +12,7 @@
 ↗ [Middleware](../🥪%20Middleware/Middleware.md)
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
-↗ [Web Application Systems & Design](../../../System%20Architecture%20Design/Web%20Application%20Systems%20&%20Design/Web%20Application%20Systems%20&%20Design.md)
+↗ [Web Application Systems & Architecture Design](../Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 
 ↗ [Backend Deployment](../../Software%20Maintenance%20&%20Operations%20Management/🛬%20Software%20Deployment/Backend%20Deployment/Backend%20Deployment.md)
 ↗ [Backend Galleries](../../🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Backend%20Galleries/Backend%20Galleries.md)

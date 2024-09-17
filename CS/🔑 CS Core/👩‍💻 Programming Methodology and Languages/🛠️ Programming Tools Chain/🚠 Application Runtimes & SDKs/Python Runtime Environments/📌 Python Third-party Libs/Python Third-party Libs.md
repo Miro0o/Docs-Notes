@@ -13,6 +13,18 @@
 ↗ [Python Based AI](../../../../../../Artificial%20Intelligence/🛫%20Frameworks%20&%20Implementations%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
 
 
+### Other Resources
+🏠 https://palletsprojects.com
+🚧 https://github.com/pallets
+Pallets is the open source community organization that develops and supports popular Python frameworks. The goal of Pallets is to grow the community around these projects to create a sustainable group of maintainers, contributors, and users.
+- flask
+- jinja
+- click
+- werkzeug
+- itsdangerours
+- etc..
+
+
 
 ## Intro
 

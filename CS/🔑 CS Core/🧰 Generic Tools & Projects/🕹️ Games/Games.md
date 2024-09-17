@@ -21,7 +21,7 @@
 https://2pt.com.au
 Games and interactive digital playthings.
 
-↗ [Games on CLI](Games%20on%20CLI.md)
+↗ [Games on CLI](Game%20Genres/Games%20on%20CLI.md)
 
 
 ### Games Emulators
@@ -72,7 +72,7 @@ https://www.protondb.com
 
 
 ### 4️⃣ Go Retro with Emulators
-↗ [Game Emulators](Game%20Emulators/Game%20Emulators.md)
+↗ [Game Emulators](Game%20Hosts%20&%20Emulators/Game%20Emulators.md)
 
 
 ### 5️⃣ Stream Games From the Cloud

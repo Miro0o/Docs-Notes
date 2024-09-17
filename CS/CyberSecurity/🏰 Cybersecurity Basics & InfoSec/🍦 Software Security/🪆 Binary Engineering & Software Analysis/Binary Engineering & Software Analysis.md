@@ -75,18 +75,6 @@ Just a collection of notes, snippets and other goodies..
 
 
 ## Intro
-### Patch
-
-
-### Shell Code & 
-
-
-### Program Execution
-↗ [Program Execution & Compilation System](../../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
-
-#### Stack
-
-#### Heap
 
 
 

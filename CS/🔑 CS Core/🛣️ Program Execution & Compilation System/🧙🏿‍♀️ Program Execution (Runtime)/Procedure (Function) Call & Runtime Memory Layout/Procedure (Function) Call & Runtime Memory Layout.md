@@ -33,6 +33,9 @@
 ↗ [FAQ /👉 Linux Library Functions Call 🆚 System Call 🆚 Procedure/Function Call](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/FAQ.md#👉%20Linux%20Library%20Functions%20Call%20🆚%20System%20Call%20🆚%20Procedure/Function%20Call)
 
 
+### Other Resources
+
+
 
 ## Intro: Function /Procedure Calls Basics
 ### Function /Procedure Calls in a C Example
@@ -103,6 +106,12 @@ Here is the stack before the function is called. `ebp` and `esp` point to the to
 ![](../../../../../Assets/Pics/Pasted%20image%2020240902163801.png)
 
 You might notice that we saved the old values of `eip` and `ebp` during the function call, but not the old value of esp. A nice consequence of this function call design is that `esp` will automatically move to the bottom of the stack as we push values onto the stack and automatically return to its old position as we remove values from the stack. As a result, there is no need to save the old value of `esp` during the function call.
+
+
+### How to Trace Function Calls? Or even System Calls ?
+#function_call #procedure_call 
+
+↗ [Binary Engineering & Software Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 
 
 

@@ -26,6 +26,9 @@ https://tool.chinaz.com
 https://xray.cool
 xray 社区是长亭科技推出的免费白帽子工具平台，目前社区有[xray](https://stack.chaitin.com/tool/detail?id=1)、[xpoc](https://stack.chaitin.com/tool/detail?id=1036)、[xapp](https://stack.chaitin.com/tool/detail?id=1311)、[rad](https://stack.chaitin.com/tool/detail?id=2) 工具，均有多名经验丰富的安全开发人员和数万名社区贡献者共同打造而成
 
+https://defuse.ca
+Please feel free to check out, download, and share some of our free software, services, and research...
+
 
 
 ## Intro: Kill Chain

@@ -7,6 +7,7 @@
 ## Res
 🏠 https://jinja.palletsprojects.com/en/3.1.x/
 
+### Related Topics
 ↗ [Flask](../../../../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Python%20Runtime%20Environments/📌%20Python%20Third-party%20Libs/SE%20&%20Web/Python%20Web%20Backend%20Dev%20Framework/Flask/Flask.md)
 
 
@@ -30,4 +31,3 @@ Jinja’s philosophy is that while application logic belongs in Python if possib
 
 
 ## Ref
-

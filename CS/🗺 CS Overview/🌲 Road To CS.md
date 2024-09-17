@@ -90,6 +90,9 @@ jyy推荐的计算机科学专业阅读列表
 https://www3.ntu.edu.sg/home/ehchua/programming/index.html
 yet another insignificant programming notes - NTU 
 
+https://github.com/jobbole
+伯乐在线 - 各种编程资源大全
+
 
 
 ## 🚀 A Serious CS Roadmap
@@ -532,7 +535,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 
 ### PPL & Personal Blogs
-> ↗ [Web Blog Themes](../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/🌈%20Frontend%20Dev%20Library/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
+> ↗ [Web Blog Themes](../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
 > ↗ [Academic Research Group Profiles](../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
 
 ---
