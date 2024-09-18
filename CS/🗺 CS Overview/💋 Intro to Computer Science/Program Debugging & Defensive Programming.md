@@ -33,7 +33,17 @@
 
 
 
-## Intro
+## Intro: Defensive Programming
+### Reasoning Codes: How to write Memory-Safety Program?
+> ↗ [Memory Protections & Mitigations](../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Protections%20&%20Mitigations/Memory%20Protections%20&%20Mitigations.md)
+> 
+> CS161 - Computer Security
+> 🎬 https://www.youtube.com/watch?v=d8UGf6aWiQI
+> 📄 https://su20.cs161.org/lectures/4/lec04_optional.pdf
+
+
+
+## Intro: Program Debugging
 ### DWARF Debugging Standard
 ↗ [DWARF Standards](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Referenced%20Specifications/DWARF%20Standards.md)
 

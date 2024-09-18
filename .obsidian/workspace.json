@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b593103abec4d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Compilation & Program Loading Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +34,25 @@
             }
           },
           {
-            "id": "aceb9f47f9fb729a",
+            "id": "adc88540a40378ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2021-3156 Heap-Based Buffer Overflow in Sudo (Baron Samedit).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532cb0b91cbea198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.50271224975586
+    "width": 440.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Referenced Specifications/ELF and ABI Standards.md"
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md"
               }
             }
           },
@@ -211,55 +211,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aceb9f47f9fb729a",
+  "active": "532cb0b91cbea198",
   "lastOpenFiles": [
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF File Formats.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux File Types & Formats/ELF (Executable and Linkable Format)/ELF (Executable and Linkable Format).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/IO Generality (via Abstraction)/File & File System/File Types & File Formats.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Window File Types & Formats.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Windows PE (Portable Executable) File/Windows PE (Portable Executable) File.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Windows PE (Portable Executable) File",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux File Types & Formats/Linux File Types & Formats.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/io_uring.md",
-    "CS/🗺 CS Overview/📆 Conference & Events in Industry/Security Events/Black Hat.md",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/SIGSAC.md",
-    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals.md",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/IEEE Symposium on Security and Privacy (S&P).md",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/Network and Distributed System Security (NDSS) Symposium.md",
-    "CS/🗺 CS Overview/📆 Conference & Events in Industry/Security Events/OWASP Global AppSec.md",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/Usenix Security Symposium.md",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events/RSA Conference.md",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Electronics & Information Technologies Business Fields Research.md",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Security Industry & Companies.md",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Conferences & Events in Academia.md",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Fireeye.md",
-    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Provisioning/Security & Compliance/Security & Compliance.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2024-3094 xz backdoor.md",
     "CS/Academics/Academics.md",
-    "CS/Academics/FAQ.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/epoll().md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network Virtualization.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🎠 Linux Network/Linux Network.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Living Abroad China 🇨🇳.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide",
+    "CS/🏠 Assets/Study, University, and Education/短文锐评",
+    "CS/🏠 Assets/Study, University, and Education/长文思考",
+    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/CIA Threats & Countermeasures.md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Cryptology & Secure Communication.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Compilation & Program Loading Tools.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Assemblers.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
+    "CS/Software Engineering/CLI Software Development/Textual.md",
+    "CS/CyberSecurity/System Security/Shellcode.md",
+    "CS/🔑 CS Core/Hardware & EE Related/Hardware & EE Related.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2021-3156 Heap-Based Buffer Overflow in Sudo (Baron Samedit).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Log4j & Log4Shell.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/xz Backdoor.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Real World Vulnerabilities Analysis & Exploit  Cases.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/Real World Incidences Cases.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Software Weakness Analysis & Attack Surface.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Race Condition Vulnerability/Dirty COW (Copy-on-Write).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Race Condition Vulnerability/Race Condition Vulnerability.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Format String Vulnerability/Format String Vulnerability.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
+    "Assets/Pics/Screenshot 2024-09-17 at 11.01.43.png",
+    "Assets/Pics/Screenshot 2024-09-17 at 10.59.12.png",
+    "Assets/Pics/Screenshot 2024-09-17 at 10.39.27.png",
+    "Assets/Pics/Screenshot 2024-09-17 at 10.38.37.png",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Windows PE (Portable Executable) File",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events",
+    "CS/🗺 CS Overview/📅 Conferences & Events in Academia",
     "CS/Software Engineering/Desktop & Monolithic Application Development/Game Development/Graphic Games Engine",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Game Genres",
     "CS/🔑 CS Core/🧬 Computer System/📌 Computer Systems & Implementations/🎃 Computing & Computing Systems/🚀 High Performance Computing/High Performance Computing Projects",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/JavaScript Runtime Environments/JS Runtimes",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Upper CASE Tools/Design & Visualization Tools/Data Visualizers",
-    "CS/Software Engineering/Web Development/Web Fullstack Frameworks",
     "Assets/Pics/Pasted image 20240915134105.png",
     "Assets/Pics/Pasted image 20240915013721.png",
     "Assets/Pics/Pasted image 20240915013711.png",
     "Assets/Pics/Pasted image 20240915013705.png",
     "Assets/Pics/Pasted image 20240915013623.png",
     "Assets/Pics/Pasted image 20240915013605.png",
-    "Assets/Pics/Screenshot 2024-09-15 at 01.35.22.png",
-    "Assets/Pics/Pasted image 20240915013133.png",
-    "Assets/Pics/Pasted image 20240915013020.png",
-    "Assets/Pics/Screenshot 2024-09-15 at 01.23.16.png",
     "Untitled.canvas",
-    "CS/Software Engineering/CASE (Computer-Aided Software Engineering) Tools/Lower CASE Tools/AI-based",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

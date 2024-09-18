@@ -127,7 +127,7 @@ https://www.linuxjournal.com
 
 👍 👍 📚 https://lwn.net
 LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
-- 🔍 https://lwn.net/Search/ | 
+- 🔍 https://lwn.net/Search/ | search LWN.net
 - https://lwn.net/Kernel/ | LWN.net's coverage of Linux kernel development is detailed, technical, and timely.
 - https://lwn.net/Security/ | LWN.net offers several security-related resources, including the [security alert database](https://lwn.net/Alerts/) and the weekly edition security page.
 - 

@@ -1,4 +1,4 @@
-# How to choose a university & Country?
+# Master & PhD Application Guide
 
 [TOC]
 
@@ -6,20 +6,16 @@
 
 ## Res
 ### Related Topics
-↗ [International Master & PhD Programs List](International%20Master%20&%20PhD%20Programs%20List.md)
+↗ [International Master & PhD Programs List](Master%20&%20PhD%20Application%20Guide/International%20Master%20&%20PhD%20Programs%20List.md)
 
 
 
-## Intro
+## How to choose a university & Country?
+### 🇬🇧 🇭‍🇰 🇸‍🇬 英港新
 
 
-
-## 🇭‍🇰 🇸‍🇬
-
-
-
-## 🇺‍🇸 🇨‍🇦
-### 美国真的有那么好吗？
+### 🇺‍🇸 🇨‍🇦 北美
+#### 美国真的有那么好吗？
 
 我在美国读博士，才发现国人对美国高等教育误解太深… - SOPHIA的文章 - 知乎
 https://zhuanlan.zhihu.com/p/625138432
@@ -38,9 +34,7 @@ https://zhuanlan.zhihu.com/p/625138432
 
 美国人心中的顶尖大学，这可比排名真实多了…… - 再来人留学的文章 - 知乎
 https://zhuanlan.zhihu.com/p/529652091
-
-
-### 美国选校参考标准
+#### 美国选校参考标准
 美国留学费用一年大概多少人民币呢？ - 小软学姐的回答 - 知乎 https://www.zhihu.com/question/484483695/answer/2550226160
 
 29所美国计算机硕士院校硕士项目申请难度分析汇总！ - 三只企鹅的文章 - 知乎 https://zhuanlan.zhihu.com/p/66272453
@@ -49,10 +43,8 @@ https://zhuanlan.zhihu.com/p/529652091
 
 https://space.bilibili.com/686540957/channel/collectiondetail?sid=1372837
 合集·美国各州介绍系列
-
-
-### 信息安全专业美研选校
-#### 零散的看法
+#### 信息安全专业美研选校
+##### 零散的看法
 （2015）
 要考的，只要不是native speaker都要考GT，然后我不知道为何要靠[美帝](https://www.zhihu.com/search?q=%E7%BE%8E%E5%B8%9D&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)的PhD？英国PhD full time 3 年part time 5 年，而且UCL之类的学校排名杠杠的，竞争压力也小（相对于[美国](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%2257130625%22%7D)同档次排名的学校），是出于就业还是其他因素想去美国？
 
@@ -92,7 +84,31 @@ https://space.bilibili.com/686540957/channel/collectiondetail?sid=1372837
 推荐[瑞典西部大学](https://www.zhihu.com/search?q=%E7%91%9E%E5%85%B8%E8%A5%BF%E9%83%A8%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%222629175205%22%7D)网络安全硕士1年制，细节如下：... etc.
 
 ---
-#### 具体的建议
+##### 具体的建议
+
+
+### 🇪🇺 欧陆
+
+
+
+## How to Prepare Materials ?
+
+
+
+## How to Contact Tutors /Make Connections ?
+> 🔗 https://www.haojianj.in/prospective.html
+
+Email tips:  
+- Please title your email as “Prospective [Ph.D. Student|Visitor|UCSD Student]: YourName - YourAffliation”.
+- Briefly introduce what research problem that you are interested in.
+- Briefly introduce yourself, including education background, research experiences, and programming skills. Connect your strengths and interests to mine.
+- Briefly explain your motivations and expectations of working with me.
+- Include your CV and transcript.
+
+Tips for your application (adapted from Henny Admoni's website):  
+- Show me you know what research involves. This means describing prior research projects, including how you came up with a novel idea, what you did to solve it, and how you communicated the outcome. The best candidates are ones who are familiar with all phases of the research process, even if they weren’t the ones leading the project themselves. 
+- In describing your research, tell me what challenges you faced and how you adapted to those challenges. Research is not a linear process, and I am looking for students who show perseverance and creativity in the face of setbacks. Ph.D. is not easy for anyone. You need to have [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108).
+- Give me evidence that you are able to work independently, seek out new avenues for growth, and take responsibility for your learning. Strong candidates show this through activities outside the classroom, for example by doing research internships, joining clubs that allow for hands-on projects, or participating reading groups to discuss current research.
 
 
 
