@@ -9,6 +9,9 @@
 ↗ [International Master & PhD Programs List](Master%20&%20PhD%20Application%20Guide/International%20Master%20&%20PhD%20Programs%20List.md)
 
 
+### Other Info
+
+
 
 ## How to choose a university & Country?
 ### 🇬🇧 🇭‍🇰 🇸‍🇬 英港新
@@ -114,3 +117,5 @@ Tips for your application (adapted from Henny Admoni's website):
 
 ## Ref
 [25fall末流985主申北美无科研实习求定位]: https://www.1point3acres.com/bbs/thread-1066670-1-1.html
+
+[👍 another annotated sop]: https://eugenielai.github.io/posts/another-annotated-sop.html

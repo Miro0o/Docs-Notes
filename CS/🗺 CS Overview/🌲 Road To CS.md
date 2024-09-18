@@ -652,6 +652,12 @@ You can find my ResearchGate [here](https://www.researchgate.net/profile/Huang-
 https://swtch.com/~rsc/
 Russ Cox
 
+---
+https://evian-zhang.github.io/index.html
+Evian Zhang's naive blog
+记录我平时 naive 的点子
+中国科学院软件研究所（Institute of Software Chinese Academy of Sciences）博士研究生在读。
+
 
 ### Campus Lifes
 ↗ [CS International Universities & Degrees](CS%20International%20Universities%20&%20Degrees/CS%20International%20Universities%20&%20Degrees.md)
