@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Compilation & Program Loading Tools.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,28 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2021-3156 Heap-Based Buffer Overflow in Sudo (Baron Samedit).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "532cb0b91cbea198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Logic And Mechanized Reasoning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.50271224975586
+    "width": 440.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md"
+                "file": "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md"
               }
             }
           },
@@ -195,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,36 +197,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "532cb0b91cbea198",
+  "active": "176631c8143f41c1",
   "lastOpenFiles": [
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2024-3094 xz backdoor.md",
-    "CS/Academics/Academics.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Compilation & Program Loading Tools.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Logic And Mechanized Reasoning.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/📍 Mathematical Logics Basics/Propositional Calculus.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/📍 Mathematical Logics Basics/First-order Logic.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Living Abroad China 🇨🇳.md",
+    "CS/Academics/Academic Research Group Profiles/U.S.A Based.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+    "CS/CyberSecurity/System Security/📝 Memory Security/Memory Protections & Mitigations/ASLR (Address Space Layout Randomization).md",
+    "CS/CyberSecurity/System Security/📝 Memory Security/Memory Protections & Mitigations/Memory Protections & Mitigations.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Yik Hak.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2021-3156 Heap-Based Buffer Overflow in Sudo (Baron Samedit).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Race Condition Vulnerability/Race Condition Vulnerability.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Race Condition Vulnerability/Dirty COW (Copy-on-Write).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Software Weakness Analysis & Attack Surface.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/Real World Incidences Cases.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Real World Vulnerabilities Analysis & Exploit  Cases.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2024-3094 xz backdoor.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Log4j & Log4Shell.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Set Theory.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Binary Relation/Binary Relation.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Analytical Mathematics.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Analytical Mathematics/Differential Calculus & Derivative/Differential Calculus & Derivative.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Function/Function.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide",
     "CS/🏠 Assets/Study, University, and Education/短文锐评",
     "CS/🏠 Assets/Study, University, and Education/长文思考",
-    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/CIA Threats & Countermeasures.md",
-    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Cryptology & Secure Communication.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Compilation & Program Loading Tools.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Assemblers.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Kill Chain.md",
-    "CS/Software Engineering/CLI Software Development/Textual.md",
-    "CS/CyberSecurity/System Security/Shellcode.md",
-    "CS/🔑 CS Core/Hardware & EE Related/Hardware & EE Related.md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout/Procedure (Function) Call & Runtime Memory Layout.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/CVE-2021-3156 Heap-Based Buffer Overflow in Sudo (Baron Samedit).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Log4j & Log4Shell.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/xz Backdoor.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Real World Vulnerabilities Analysis & Exploit  Cases.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/👮🏻‍♀️ Real World Incidences Cases/Real World Incidences Cases.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Software Weakness Analysis & Attack Surface.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Race Condition Vulnerability/Dirty COW (Copy-on-Write).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Race Condition Vulnerability/Race Condition Vulnerability.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/Format String Vulnerability/Format String Vulnerability.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/🔬 Software Weakness Analysis & Attack Surface/🤥 Real World Vulnerabilities Analysis & Exploit Cases/Pegasus Exploits on iOS.md",
     "Assets/Pics/Screenshot 2024-09-17 at 11.01.43.png",
     "Assets/Pics/Screenshot 2024-09-17 at 10.59.12.png",
     "Assets/Pics/Screenshot 2024-09-17 at 10.39.27.png",

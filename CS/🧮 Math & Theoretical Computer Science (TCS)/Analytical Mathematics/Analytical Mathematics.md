@@ -36,7 +36,6 @@ https://math.fandom.com/zh/wiki/Category:微分学
 ### Set, Sequence, Function
 #### 1️⃣ Set Theory | Mapping | Function (集合，映射，函数)
 ↗ [Set Theory](../🤼‍♀️%20Mathematical%20Logics/Set%20Theory/Set%20Theory.md)
-↗ [Set Theory Basics](../🤼‍♀️%20Mathematical%20Logics/Set%20Theory/📌%20Set%20Theory%20Basics/Set%20Theory%20Basics.md)
 
 
 ---

@@ -28,5 +28,12 @@ I am starting as an Assistant Professor of Electrical and Computer Engineering a
 🏠 https://tianyin.github.io
 
 
+
+## UCSD
+### Haojian Jin
+🏠 https://www.haojianj.in/home.html
+
+
+
 ## Ref
 
