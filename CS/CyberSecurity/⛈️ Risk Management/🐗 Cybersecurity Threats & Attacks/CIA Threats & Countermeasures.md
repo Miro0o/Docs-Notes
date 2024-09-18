@@ -20,6 +20,14 @@
 ### ⚔️ Data Confidentiality Threat Model
 > 🔗 https://textbook.cs161.org/crypto/intro.html#58-definitions-kerckhoffs-principle
 
+|                             |                                                                 |                                                               |     |
+| --------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- | --- |
+|                             | Can Eve trick Alice into encrypting messages of Eve’s choosing? | Can Eve trick Bob into decrypting messages of Eve’s choosing? |     |
+| Ciphertext-only             | No                                                              | No                                                            |     |
+| Chosen-plaintext            | Yes                                                             | No                                                            |     |
+| Chosen-ciphertext           | No                                                              | Yes                                                           |     |
+| Chosen plaintext-ciphertext | Yes                                                             | Yes                                                           |     |
+
 When analyzing the confidentiality of an encryption scheme, there are several possibilities about how much access an eavesdropping attacker Eve has to the insecure channel:
 1. Eve has managed to intercept a single encrypted message and wishes to recover the plaintext (the original message). This is known as a **ciphertext-only attack**.
 2. Eve has intercepted an encrypted message and also already has some partial information about the plaintext, which helps with deducing the nature of the encryption. This case is a **known plaintext attack**. In this case Eve’s knowledge of the plaintext is partial, but often we instead consider complete knowledge of one instance of plaintext.
@@ -31,16 +39,17 @@ When analyzing the confidentiality of an encryption scheme, there are several po
 Today, we usually insist that our encryption algorithms provide security against **chosen-plaintext/ciphertext attacks**, both because those attacks are practical in some settings, and because it is in fact feasible to provide good security even against this very powerful attack model.
 
 However, for simplicity, this class will focus primarily on security against chosen-plaintext attacks.
-
-
-### IND-CPA Security
+#### IND-CPA Security & Chosen-Plaintext Attack
 > 🔗 https://textbook.cs161.org/crypto/symmetric.html#61-ind-cpa-security
 
-The IND-CPA game works as follows:
+A better definition of confidentiality: The cipher-text should not give the attacker any additional information about the plaintext, beyond what the attacker already knew.
+
+We make this precise with an experiment/security game, the IND-CPA game:
 1. The adversary Eve chooses two different messages, $M_0$ and $M_1$, and sends both messages to Alice.
 2. Alice flips a fair coin. If the coin is heads, she encrypts $M_0$. If the coin is tails, she encrypts $M_1$. Formally, Alice chooses a bit $b \in \{0,1\}$ uniformly at random, and then encrypts $Mb$. Alice sends the encrypted message $Enc(K,M_b)$ back to Eve.
 3. Eve is now allowed to ask Alice for encryptions of messages of Eve’s choosing. Eve can send a plaintext message to Alice, and Alice will always send back the encryption of the message with the secret key. Eve is allowed to repeat this as many times as she wants. Intuitively, this step is allowing Eve to perform a chosen-plaintext attack in an attempt to learn something about which message was sent.
 4. After Eve is finished asking for encryptions, she must guess whether the encrypted message from step 2 is the encryption of $M_0$ or $M_1$.
+![](../../../../Assets/Pics/Screenshot%202024-09-17%20at%2011.01.43.png)
 
 
 

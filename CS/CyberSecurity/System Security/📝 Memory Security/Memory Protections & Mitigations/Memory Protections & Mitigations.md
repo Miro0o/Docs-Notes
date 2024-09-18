@@ -31,18 +31,44 @@ Some modern languages are designed to be intrinsically memory-safe, no matter wh
 
 
 ### 2. Memory-Safety Codes /Defensive Programming (Programmer)
-One way to ensure memory safety is to carefully reason about memory accesses in your code, by defining pre-conditions and post-conditions for every function you write and using invariants to prove that these conditions are satisfied. Although it is a good skill to have, this process is painstakingly tedious and rarely used in practice, so it is no longer in scope for this class. If you’d like to learn more, see this lecture from David Wagner: [video](https://www.youtube.com/watch?v=d8UGf6aWiQI), [slides](https://su20.cs161.org/lectures/4/lec04_optional.pdf).
+> ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debugging%20&%20Defensive%20Programming.md)
+
+One way to ensure memory safety is to carefully reason about memory accesses in your code, by defining pre-conditions and post-conditions for every function you write and using invariants to prove that these conditions are satisfied. Although it is a good skill to have, this process is painstakingly tedious and rarely used in practice, so it is no longer in scope for this class. 
+
+> If you’d like to learn more, see this lecture from David Wagner: [video](https://www.youtube.com/watch?v=d8UGf6aWiQI), [slides](https://su20.cs161.org/lectures/4/lec04_optional.pdf).
 
 Another example of defending against memory safety vulnerabilities is writing memory-safe code through defensive programming and using safe libraries. 
 - **Defensive programming** is very similar to defining pre and post conditions for every written function, wherein you always add checks in your code just in case something could go wrong. For example, you would always check that a pointer is not null before dereferencing it, even if you are sure that the pointer is always going to be valid. However, as mentioned earlier, this relies a lot on programmer discipline and is very tedious to properly implement.
-- As such, a more common method is to use **safe libraries**, which, in turn, use functions that check bounds so you don’t have to. For example, using `fgets` instead of `gets`, `strncpy` or `strlcpy` instead of `strcpy`, and `snprintf` instead of `sprintf`, are all steps towards making your code slightly more safe.
+- As such, a more common method is to use **safe libraries**, which, in turn, use functions that check bounds so you don’t have to. For example, 
+	- using `fgets` instead of `gets`, 
+	- `strncpy` or `strlcpy` instead of `strcpy`,
+	- `snprintf` instead of `sprintf`
+- **Reason carefully** about your code
+	- When writing code, define a set of preconditions, postconditions, and invariants that must be satisfied for the code to be memory-safe
+	- Very tedious and rarely used in practice,  
 
 
 ### 3. Software Analyzing /Testing
 Yet another way to defend your code is to use tools to analyze and patch insecure code. 
-- Utilizing run-time checks that do automatic bound-checking, for example is an excellent way to help your code stay safe. If your check fails, you can direct it towards a controlled crash, ensuring that the attacker does not succeed. 
-- Hiring someone to look over your code for memory safety errors, though expensive, can prove to be extremely beneficial as well. 
-- You can also probe your own system for vulnerabilities, by subjecting your code to thorough tests. ↗ [Fuzzing (Fuzz Testing)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md), or testing with random inputs, testing corner cases, and using tools like ↗ [Valgrind](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks), are all excellent ways to help test your code. Though it is pretty difficult to know whether you have tested your code “enough” to deem it safe, there are several code-coverage tools that can help you out.
+- Utilizing **run-time checks** that do automatic bound-checking, for example is an excellent way to help your code stay safe. If your check fails, you can direct it towards a controlled crash, ensuring that the attacker does not succeed. 
+	- Monitor code for run-time misbehavior
+		- Example: Look for illegal calling sequences
+		- Example: Your code never calls execve, but you notice that your code is executing execve
+		- Probably too late by the time you detect it
+	- Contain potential damage
+		- Example: Run system components in sandboxes or virtual machines (VMs)
+		- Think about privilege separation 
+- You can also probe your own system for vulnerabilities, by subjecting your code to **thorough software tests**. Though it is pretty difficult to know whether you have tested your code “enough” to deem it safe, there are several code-coverage tools that can help you out.
+	- Bug-finding tools
+		- Excellent resource, as long as there aren’t too many false alarms
+		- ↗ [Valgrind](../../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/Valgrind.md) (to detect memory leaks)
+		- ↗ [Fuzzing (Fuzz Testing)](../../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md), or testing with random inputs, testing corner cases
+	- Code review
+		- Have someone look over your code for memory safety errors. Can be very effective… but also expensive
+	- Vulnerability scanning
+		- Probe your systems for known flaws
+	- Penetration testing (“pen-testing”)
+		- Pay someone to break into your system
 
 
 
