@@ -178,8 +178,6 @@ Modern cryptography is distinguished by its reliance on mathematics and electron
 <small>An example: asymmetric secure communication model</small>
 
 
-
-
 ### 🛕 Cryptosystems (密码体制)
 通常一个密码体制可以有如下几个部分:
 1. 消息空间 M(又称明文空间): 所有可能明文 m 的集合;
@@ -211,9 +209,20 @@ Cryptosystems should remain secure even when the attacker knows all internal det
 >  4. 有利于使用密码算法产品的规模化生产，实现低成本和高性能。
 > 
 >  但是必须要指出的是，密码设计的公开原则并不等于所有的密码算法在应用时都一定要公开密码算法。
-#### Measurement of Cryptosystem's Security 
-##### 密码系统的安全性
-一个密码系统的安全性主要与两个方面的因素有关。
+#### Cryptosystem's Assessment
+> 出现在分组密码一章节中。这里引用一下
+
+对密码体制的评估主要有 3 个方面:(1)安全性;(2)性能;(3)算法和实现特性。
+1. 安全性是评估中的最重要因素，包括下述要点:算法抗密码分析的强度，可靠的数学基础，算法输出的随机性，与其他候选算法比较的相对安全性。
+2. 算法性能主要包括:在各种平台上的计算效率和对存储空间的需求。计算效率主要指算法在用软硬 件实现时的执行速度。
+3. 算法和实现特性主要包括:灵活性、硬件和软件适应性、算法的简单性等。算法的灵活性指可以满 足更多应用的需求，如:
+	1. 密钥和分组长度可以进行调整;
+	2. 在许多不同类型的环境中能够安全和有 效地实现;
+	3. 可以为序列密码、HASH函数等的实现供帮助;
+	4. 算法必须能够用软件和硬件两种方法实现。另外，算法设计相对简单也是一个评估因素。
+##### Correctness
+##### Security
+密码系统的安全性（主要两个方面的因素）
 
 1. **密码算法本身**的安全强度
 密码算法的安全强度取决于密码设计水平、破译技术等。可以说一个密码系统所使用密码算法的安全强度是 该系统安全性的技术保证。
@@ -222,7 +231,9 @@ Cryptosystems should remain secure even when the attacker knows all internal det
 另外一个方面就是密码算法之外的不安全因素。因为即使一个密码算法能够达到足够高的安全强度，但攻击者却有可能通过其他非技术手段(例如用社会工程手段收买相关密钥管理人员)攻破一个密码系统。这些不安全因素来自于密码系统的管理或使用中的漏洞。
 
 > 因此，密码算法的保密强度并不等价于密码系统整体的安全性。一个密码系统必须同时完善技术与管理要求，才能保证整个密码系统的安全。本教材仅讨论影响一个密码系统安全性的技术因素，即密码 算法本身。
-##### 密码系统安全性的评估
+
+
+密码系统安全性的评估
 1. **无条件安全性**
 这种评价方法考虑的是假定攻击者拥有无限的计算资源，但仍然无法破译该密码系统。按照信息论的观点就是，攻击者观察密文前后明文的不确定性相等，也即攻击者通过观察密文不会得到任何有助于破译密码系统的信息。这种密码系统就是理论上不可破译的，或者称该密码体制具有完善保密性(Perfect Secrecy )或无条件安全性。
 
@@ -240,7 +251,11 @@ Cryptosystems should remain secure even when the attacker knows all internal det
 3. 破译该密码系统的费用超过被加密信息本身的价值;
 
 如果一个密码系统能够满足以上准则之一，就可以认为是满足实际安全性的。对于实际应用中的密码系统而言，由于至少存在一种破译方法，即强力攻击法，因此都不能满足无条件安全性，只提供计算安全性。
-
+##### Efficiency
+##### Other Algorithms-specific Features
+### Cryptosystems Implementation
+#### Software Implementation
+#### Hardware Implementation
 
 ### Types of Cryptosystems
 #### 1️⃣ Key Specific (根据密码算法所用的密钥数量)

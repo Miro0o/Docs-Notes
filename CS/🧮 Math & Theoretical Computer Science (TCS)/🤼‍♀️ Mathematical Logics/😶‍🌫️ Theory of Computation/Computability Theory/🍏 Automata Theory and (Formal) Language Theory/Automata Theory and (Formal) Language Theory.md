@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Set Theory](../../Set%20Theory/Set%20Theory.md)
+↗ [Set Theory](../../../Set%20Theory/Set%20Theory.md)
 
 
 ### Other Resources
@@ -28,7 +28,7 @@ http://jflap.org/tutorial/fa/dfa2mindfa/index.html
 
 
 ## Intro
-![Automata_Formal_Lan.excalidraw | 900](../../../../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
+![Automata_Formal_Lan.excalidraw | 900](../../../../../../Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md)
 
 
 ### Formal Language Theory
@@ -55,11 +55,12 @@ In [logic](https://en.wikipedia.org/wiki/Logic "Logic"), [mathematics](https:/
 
 Automata theory is closely related to [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language") theory. In this context, automata are used as finite representations of formal languages that may be infinite. Automata are often classified by the class of formal languages they can recognize, as in the [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy "Chomsky hierarchy"), which describes a nesting relationship between major classes of automata. Automata play a major role in the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation "Theory of computation"), [compiler construction](https://en.wikipedia.org/wiki/Compiler_construction "Compiler construction"), [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence"), [parsing](https://en.wikipedia.org/wiki/Parsing "Parsing") and [formal verification](https://en.wikipedia.org/wiki/Formal_verification "Formal verification").
 
-![](../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
+![](../../../../../../Assets/Pics/Pasted%20image%2020240909175821.png)
 
 
 
 ## CH1
+### Infinite Regular Language
 
 
 
@@ -67,9 +68,11 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 [Regular Languages]: https://brilliant.org/wiki/regular-languages/
 
 [🤔 Formal Language - Ch5 邁希爾－尼羅德定理 Myhill-Nerode Theorem]: https://www.mropengate.com/2015/04/formal-language-ch5-myhill-nerode.html
-[5.3 Myhill-Nerode 定理与DFA的极小化 | CSDN]: https://blog.csdn.net/tang7mj/article/details/136974076
+[🤔 5.3 Myhill-Nerode 定理与DFA的极小化 | CSDN]: https://blog.csdn.net/tang7mj/article/details/136974076
 
 [👍 浅谈相等关系与等价关系]: https://evian-zhang.github.io/articles/Math/27659362/27659362.html
 从数学上来讲，等价关系是在 **某个方面上** 两者的可互换性，而相等关系是在 **所有方面** 两者的可互换性。
 
 [等价关系、等价类与划分 | CSDN]: https://blog.csdn.net/sinat_20471177/article/details/118707113
+
+🎬【编译原理正规表达式转NFA到DFA再化简】 https://www.bilibili.com/video/BV1mh41187fN/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d

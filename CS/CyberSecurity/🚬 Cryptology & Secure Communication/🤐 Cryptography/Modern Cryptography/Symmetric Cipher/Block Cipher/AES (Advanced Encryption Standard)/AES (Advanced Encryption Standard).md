@@ -19,6 +19,7 @@
 ## Math in AES
 
 
+
 ## AES Process
 ### AES Functions
 #### `Bytesub()`
@@ -27,16 +28,12 @@
 与DES的S盒变换比较:
 (1) AES使用16个相同的S盒，DES使用8个不相同的S盒
 (2) AES的S盒有8位输入8位输出，是一种非线性替换。DES的S盒有6位输入4位输出，是一种非线性压缩。
-
 #### `ShiftRows()`
 行移位(ShiftRows)变换中，状态矩阵中的每一行将以字节为单位，循环右移不同的位移量。
-
 #### `MixColumns()`
 列混合变换对State中的每列进行独立的操作，它把每个列都看成GF(28)中的一个四项多项式s(x)，再 与GF(28)上的固定多项式 a(x)= {03}x3+{01}x2+{01}x+{02}进行模x4+1的乘法运算。
-
 #### `Add Roud Key`
-**密钥加法层(也叫轮密钥加，英文Add Round Key)**
-
+密钥加法层(也叫轮密钥加，英文Add Round Key)
 
 
 
@@ -49,4 +46,3 @@
 ## Ref
 [👍 AES加密算法的详细介绍与实现 | CSDN]: https://blog.csdn.net/qq_28205153/article/details/55798628
 [密码学基础：AES加密算法 | 知乎]: https://zhuanlan.zhihu.com/p/78913397
-

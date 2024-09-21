@@ -38,6 +38,8 @@ The shining part of the course is the labs and projects, which will greatly enha
 
 
 ## Ref
+[👍【UCB CS161 计算机安全 Proj 1】穿过太空废墟的黑客之旅]: https://zhuanlan.zhihu.com/p/644165435?utm_psn=1819944350139940864
+
 https://github.com/eric99ying/CS161-Project-1-Writeup/tree/master
 https://github.com/AndersonHuang95/CS161
 https://github.com/casual-lab/ucb-cs161-computer-security/tree/main
