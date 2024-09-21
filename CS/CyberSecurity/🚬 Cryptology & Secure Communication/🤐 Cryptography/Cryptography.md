@@ -109,27 +109,21 @@ The Communication Theory of Secret Systems, C.E.Shannon
 New Directions in Cryptography, W.Diffie, M.Hellman
 
 > ↗️ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
-
-
 #### Symmetric Key Cryptography
 It is an encryption system where the sender and receiver of a message use a single common key to encrypt and decrypt messages. Symmetric Key Systems are faster and simpler but the problem is that the sender and receiver have to somehow exchange the key in a secure manner. The most popular symmetric key cryptography system is Data Encryption System(DES).
 
 **e.g.**
 DES, 3DES, IDEA, AES
-
-
 #### Asymmetric Key Cryptography
 Under this system, a pair of keys is used to encrypt and decrypt information. A public key is used for encryption and a private key is used for decryption. Public key and Private Key are different. Even if the public key is known by everyone the intended receiver can only decode it because he alone knows the private key.
 
 **e.g.**
 RSA, ECC, EIGamal
-
 #### Message Digest Algorithm (hash)
 There is no usage of any key in this algorithm. A hash value with a fixed length is calculated as per the plain text which makes it impossible for the contents of plain text to be recovered. Many operating systems use hash functions to encrypt passwords.
 
 **e.g.**
 Parity check -> CRC -> MD -> SHA -> MAC
-
 ##### Digital Signature
 Digital Signature is an implementation of asymmetric cryptography.
 

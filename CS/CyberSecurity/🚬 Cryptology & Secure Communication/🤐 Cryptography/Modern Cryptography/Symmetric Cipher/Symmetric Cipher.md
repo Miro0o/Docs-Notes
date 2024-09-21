@@ -18,6 +18,14 @@
 ### One-Time-Pad (OTP)
 > 🔗 https://textbook.cs161.org/crypto/symmetric.html#63-one-time-pad
 
+![](../../../../../../Assets/Pics/Screenshot%202024-09-19%20at%2010.06.45.png)
+
+![](../../../../../../Assets/Pics/Screenshot%202024-09-19%20at%2010.07.12.png)
+#### Encryption /Decryption
+#### Correctness
+#### Efficiency
+#### Security
+
 
 ### Block Cipher 🆚 Stream Cipher
 分组密码与序列密码都属于对称密码，但两者有较大的不同：
@@ -42,7 +50,6 @@
 ### Symmetric Cipher Security Analysis
 
 
-
 ### Drawbacks of Symmetric Cipher
 对称密码体制不能完全适应应用的需要，主要表现在以下三方面:
 
@@ -65,4 +72,3 @@
 [序列密码和分组密码区别]: https://www.fisec.cn/443.html#:~:text=序列密码与分组密码,固定改换%2C没有记忆性%E3%80%82
 
 [3.1 序列密码与分组密码]: https://learnku.com/docs/cryptography/31-sequence-cipher-and-block-cipher/8933
-

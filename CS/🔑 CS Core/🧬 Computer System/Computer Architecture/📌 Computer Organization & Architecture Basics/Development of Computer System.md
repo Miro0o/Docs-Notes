@@ -19,7 +19,7 @@
 
 
 ### 0️⃣ Mathematical Model of General Computation and Turing Machine
-↗ [Turing Machine](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Turing%20Machine/Turing%20Machine.md)
+↗ [Turing Machine](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Turing%20Machine.md)
 
 
 ### 1️⃣ Stored-Program Computer and Von Neumann Architecture

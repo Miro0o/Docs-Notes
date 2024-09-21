@@ -266,11 +266,11 @@ Data Origin Authentication (数据原发鉴别)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.34.52%20PM.png)
 
 ### Relay Attacks
-↗ [Secure Communication & Cryptosystems /4️⃣ Relay Attacks](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md#4️⃣%20Relay%20Attacks)
+↗ [Cybersecurity Threats & Attacks /4️⃣%20Relay%20Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#4️⃣%20Relay%20Attacks)
 
 
 ### Impersonation Attacks
-↗ [Secure Communication & Cryptosystems /5️⃣ Impersonation Attacks](../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md#5️⃣%20Impersonation%20Attacks)
+↗ [Cybersecurity Threats & Attacks /5️⃣ Impersonation Attacks](../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md#5️⃣%20Impersonation%20Attacks)
 
 
 

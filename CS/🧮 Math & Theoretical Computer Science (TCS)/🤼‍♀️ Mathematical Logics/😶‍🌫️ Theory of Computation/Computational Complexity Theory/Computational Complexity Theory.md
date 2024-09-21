@@ -8,6 +8,10 @@
 ### Related Topics
 
 
+### Learning Resources
+【【卡内基梅隆大学】复杂性理论 | 理论计算机科学 | 研究生课程 -CMU 双语字幕】 https://www.bilibili.com/video/BV1kS4y1r78H/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
+
+
 
 ## Intro
 

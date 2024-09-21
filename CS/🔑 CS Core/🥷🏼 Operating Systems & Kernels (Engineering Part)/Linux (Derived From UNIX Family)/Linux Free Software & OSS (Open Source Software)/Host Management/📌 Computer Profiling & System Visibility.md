@@ -180,6 +180,7 @@ The  first  report  produced gives averages since the last reboot.  Additional r
 #### 👉 `dmidecode`
 The `dmidecode` command is different from all other commands. It extracts hardware information by reading data from the [SMBOIS data structures](https://en.wikipedia.org/wiki/System_Management_BIOS) (also called DMI tables).
 #### 👉 `hdparm`
+#### 👉 `pmap` | `mmap` 
 
 #### 👀 Looking up files under `/proc/`
 You might be asking yourself, “Where do these commands get this information from?”. In some cases, they get it from the ==`/proc/meminfo`== file. Guess what? You can read that file directly with the command `less /proc/meminfo`.

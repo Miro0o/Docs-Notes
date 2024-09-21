@@ -17,7 +17,6 @@
 分组密码是每次只能处理特定长度的一块数据的算法，每块都是一个分组，分组的比特数就称为分组长度，但是当加密的内容超过分组密码的分组长度时，就要对分组密码算法进行迭代，迭代的方法称为分组密码的模式。
 
 
-
 ## 👩🏼‍🏫 Block Cipher Design Principles 
 ### Security Perspective
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.40.51%20PM.png)
@@ -33,21 +32,8 @@
 > 乘积和迭代机制有助于实现扩散和混淆: 如通常选择某些较简单的受密钥控制的密码变换(替代-置换)，通过乘积和迭代可以取得比较好的扩散和混淆的效果
 
 
-### Implementation Perspective 
+### Implementation Perspective
 ![](../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.41.21%20PM.png)
-
-
-### 🎲 Block Cipher Measure Metrics
-对分组密码的评估主要有 3 个方面:(1)安全性;(2)性能;(3)算法和实现特性。
-1. 安全性是评估中的最重要因素，包括下述要点:算法抗密码分析的强度，可靠的数学基础，算法输出的随机性，与其他候选算法比较的相对安全性。
-
-2. 算法性能主要包括:在各种平台上的计算效率和对存储空间的需求。计算效率主要指算法在用软硬 件实现时的执行速度。
-
-3. 算法和实现特性主要包括:灵活性、硬件和软件适应性、算法的简单性等。算法的灵活性指可以满 足更多应用的需求，如:
-	1. 密钥和分组长度可以进行调整;
-	2. 在许多不同类型的环境中能够安全和有 效地实现;
-	3. 可以为序列密码、HASH 函数等的实现􏰂供帮助;
-	4. 算法必须能够用软件和硬件两种方 法实现。另外，算法设计相对简单也是一个评估因素。
 
 
 
@@ -67,7 +53,7 @@
 
 ### 2️⃣ CBC (Cipher Block Chain)
 加入反馈机制，当前明文块在加密之前要与前面的密文块进行异或。
-设明文块为 $m_1，m_2，...， m_N$ 产生的密文块为 $c_1，c_2，..., c_N$ 加密密钥为K，初始随机向量为IV，加密算法记为EK，解密算法记为DK。
+设明文块为 $m_1，m_2，...， m_N$ 产生的密文块为 $c_1，c_2，..., c_N$ 加密密钥为K，初始随机向量为IV(Initialization Vector)，加密算法记为$E_K$，解密算法记为$D_K$。
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.06.06%20PM.png)
 
@@ -88,11 +74,8 @@ $$
 
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%206.35.51%20PM.png)
-
 #### Blocking Patterns
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.17.35%20PM.png)
-
-
 #### CBC Features
 (1) 加入反馈机制, 隐蔽明文的数据模式, 同一明文块会产生不同的密文块;算法不再是一个 “大的单字母替换”
 (2) 有误码扩散，同时又有自同步特性; 若Ci在传送过程中出错，则解密时会造成mi和mi+1两个明文块都出错，但后面的密文块仍然能自动正确恢复。人们把这种错误传播形式称为“有限传播”
@@ -135,11 +118,8 @@ OFB是以过去的子密钥 $b_i-1$ 为基础来产生下一个子密钥， OTP�
 CFB是以过去的密文块 $C_i-1$ 作为产生下一个子密钥的基础， 不可预先生成;
 
 
-
 ### 5️⃣ CTR (CounTeR)
-
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.33.18%20PM.png)
-
 
 （1） 具有随机访问特性，可随机对任意一个密文分组进行 解密处理，对该密文分组的处理与其他密文无关;
 （2）处理效率高，可进行并行处理，提高数据吞吐量;
@@ -173,8 +153,6 @@ CFB是以过去的密文块 $C_i-1$ 作为产生下一个子密钥的基础， �
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.45.37%20PM.png)
 #### 1️⃣ SPN (Substitution & Permutation Network)
-
-
 #### 2️⃣ Feistel
 特点：
 （1）加解密结构相同，所使用的子密钥的顺序正好相反
@@ -188,13 +166,11 @@ CFB是以过去的密文块 $C_i-1$ 作为产生下一个子密钥的基础， �
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%202.55.49%20PM.png)
 
 
-
-
 ### Block Cipher Implementations
 ↗ [DES (Data Encryption Standard)](DES%20(Data%20Encryption%20Standard)/DES%20(Data%20Encryption%20Standard).md)
 ↗ [AES (Advanced Encryption Standard)](AES%20(Advanced%20Encryption%20Standard)/AES%20(Advanced%20Encryption%20Standard).md)
 ↗ [IDEA (International Data Encryption Algorithm)](IDEA(International%20Data%20Encryption%20Algorithm)/IDEA%20(International%20Data%20Encryption%20Algorithm).md)
-↗ [RC5](RC/RC5.md)
+↗ [RC2](RC/RC2.md) /[RC5](RC/RC5.md) /[RC6](RC/RC6.md)
 
 
 
