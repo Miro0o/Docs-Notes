@@ -11,6 +11,8 @@
 ↗ [System Security](../../../System%20Security/System%20Security.md)
 ↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
 ↗ [Malicious Codes & Software Engineering](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Malicious%20Codes%20&%20Software%20Engineering/Malicious%20Codes%20&%20Software%20Engineering.md)
+↗ [Security Audit & Security Audit Trail](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
+↗ [Code Review](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
 
 ↗ [Program Execution & Compilation System](../../../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 

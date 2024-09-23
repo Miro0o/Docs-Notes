@@ -60,7 +60,7 @@ Symbolic constants for system call numbers can be found in the header file `<sys
 
 
 ## Linux System Calls on Different ISA Architecture & ABI
-> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
+> ↗ [Procedure (Function) Call & Runtime Memory Layout](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Procedure%20(Function)%20Call%20&%20Runtime%20Memory%20Layout.md)
 > 🔍 `man syscall`
 
 

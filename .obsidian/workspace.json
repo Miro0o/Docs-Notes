@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,22 +21,12 @@
             }
           },
           {
-            "id": "3b4a21bf5f425f88",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f699c1b7aff3f1c2",
+            "id": "194333fa93c0ef50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/Frontend JS Techniques/JS Gadgets/MathJax.md",
+                "file": "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/SentinelOne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,12 +34,25 @@
             }
           },
           {
-            "id": "4609b9102ac1d7de",
+            "id": "3472d41128ce8039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab1 Writeup.md",
+                "file": "CS/🗺 CS Overview/Program, Computer, and Automation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e580c8184f62283e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🏆 Linux System Libraries & Runtime Environments/👎 GNU C Library (glibc)/GNU C Library (glibc).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.50271224975586,
-    "collapsed": true
+    "width": 437.50271224975586
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab1 Writeup.md",
+                "file": "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/SentinelOne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab1 Writeup.md",
+                "file": "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/SentinelOne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab1 Writeup.md"
+                "file": "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/SentinelOne.md"
               }
             }
           },
@@ -193,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +211,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4609b9102ac1d7de",
+  "active": "194333fa93c0ef50",
   "lastOpenFiles": [
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/CS161 Computer Security.md",
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab1 Writeup.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/SentinelOne.md",
+    "CS/🗺 CS Overview/Program, Computer, and Automation.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🏆 Linux System Libraries & Runtime Environments/👎 GNU C Library (glibc)/GNU C Library (glibc).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🏆 Linux System Libraries & Runtime Environments/Linux System Libraries & Runtime Environments.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Linking Phase & Linking Library Files/Linking Phase.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🚽 Program Linking & Loading (Link-time & Load-time)/Linking Phase & Linking Library Files/DLL.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Compilation & Program Loading Tools/Program Linkers & Loaders.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/Math & Theoretical Computer Science (TCS).md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
+    "CS/CyberSecurity/☠️ Kill Chain/Reconnaissance & Exploration/Cobalt Strike (Previous Armitage)/Cobalt Strike (Previous Armitage).md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Qualys.md",
+    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/🛌 Security Industry & Companies/Security Industry & Companies.md",
+    "CS/Software Engineering/☁️ Cloud Computing & Cloud Native/Dev(Sec)Ops (Application Level Engineering)/🛬 Continuous Delivery/Provisioning/Security & Compliance/Security & Compliance.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Audit & Security Audit Trail/Security Audit & Security Audit Trail.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Binary Engineering & Software Analysis.md",
+    "CS/CyberSecurity/System Security/📝 Memory Security/Memory Protections & Mitigations/Memory Protections & Mitigations.md",
+    "CS/CyberSecurity/System Security/📝 Memory Security/Memory Security.md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Audit & Security Audit Trail/Code Review.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Jarbas.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/prime.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/SickOS.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/Vulnstack.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/WebGoat.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/upload-labs",
+    "Assets/Pics/Screenshot 2024-09-22 at 15.05.41.png",
+    "Assets/Pics/Pasted image 20240922150508.png",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/AV Evasion Techniques (OPSEC Safe)/Virus AV Tools",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/AV Evasion Techniques (OPSEC Safe)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/RIST (Reliable Internet Stream Transport)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/SRT (Secure Reliable Transport)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/RTMP (Real-Time Messaging Protocol)",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/RTSP (Real-Time Streaming Protocol)",
     "Assets/Pics/Screenshot 2024-09-21 at 00.43.59.png",
     "Assets/Pics/Screenshot 2024-09-20 at 23.10.04.png.sb-3d8d0bd6-EihKRi",
     "Assets/Pics/Screenshot 2024-09-20 at 23.10.04.png",
@@ -221,40 +257,8 @@
     "Assets/Pics/Screenshot 2024-09-20 at 23.51.37.png",
     "Assets/Pics/Screenshot 2024-09-20 at 23.35.06.png",
     "Assets/Pics/Screenshot 2024-09-20 at 23.24.28.png",
-    "Assets/Pics/Screenshot 2024-09-20 at 23.08.55.png",
-    "Assets/Pics/Screenshot 2024-09-20 at 22.52.51.png",
-    "CS/Software Engineering/Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/Frontend JS Techniques/JS Gadgets/MathJax.md",
-    "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/📍 Mathematical Logics Basics/First-order Logic.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Formal Grammar/Regular Grammar/Regular Grammar.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Formal Grammar/Context-free Grammar/Context-free Grammar.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Formal Semantics and Programming Language.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Turing Machine.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Regular Language.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computational Complexity Theory/Computational Complexity Theory.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/Computability Theory.md",
-    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/Block Cipher.md",
-    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Cryptology & Secure Communication.md",
-    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
-    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/AES (Advanced Encryption Standard)/AES (Advanced Encryption Standard).md",
-    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/RC/RC6.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/📌 Computer Profiling & System Visibility.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/📍 Mathematical Logics Basics/Propositional Calculus.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Logic And Mechanized Reasoning.md",
-    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Cryptology Applications.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Disclosure（漏洞挖掘）/Fuzzing (Fuzz Testing)/Fuzzing Projects",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide",
-    "CS/🏠 Assets/Study, University, and Education/短文锐评",
-    "CS/🏠 Assets/Study, University, and Education/长文思考",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Microsoft Operating Systems/Windows/📌 Windows NT (New Technology) Kernel/Windows IO & Files Management/Windows File System/Windows PE (Portable Executable) File",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia/Security Events",
-    "CS/🗺 CS Overview/📅 Conferences & Events in Academia",
-    "CS/Software Engineering/Desktop & Monolithic Application Development/Game Development/Graphic Games Engine",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Game Genres",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

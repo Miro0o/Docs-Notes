@@ -107,8 +107,13 @@ The processor runs in real mode immediately after power on, so an **operating sy
 #### Protected Mode
 
 
-### x86/x64 ISA Extensions
+### x86/x64 ISA Extensions & CPU Specific Instructions
 > 🔗 https://en.wikipedia.org/wiki/X86#Extensions
+#### Intel Control-flow Enforcement Technology (CET)
+> 🔗 https://www.intel.com/content/www/us/en/developer/articles/technical/technical-look-control-flow-enforcement-technology.html
+
+#### Intel® AVX-512
+> 🔗 https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/what-is-intel-avx-512.html
 
 
 ### 🧻 x86/x64 Instruction Listings
