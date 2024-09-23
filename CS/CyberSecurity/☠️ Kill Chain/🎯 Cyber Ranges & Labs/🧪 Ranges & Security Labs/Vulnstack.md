@@ -1,4 +1,4 @@
-# VulStack
+# Vulnstack
 
 [TOC]
 

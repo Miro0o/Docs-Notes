@@ -19,6 +19,9 @@ This is Raphael Mudge's security testing YouTube channel. I spent a decade focus
 🎬 https://www.youtube.com/@cobaltstrike5544
 Cobalt Strike software helps you take a proactive approach to cybersecurity by replicating the tactics and techniques of an advanced threat a
 
+https://www.henry-blog.life/henry-blog
+CobaltStrike系列
+
 
 
 ## Intro

@@ -176,6 +176,29 @@ Hacker101 is a free class for web security. Whether you’re a programmer with a
 - 开发工具与环境
 
 ---
+https://www.tidesec.com
+TiDE 安全团队
+- http://wiki.tidesec.com | TiDe 安全文库
+	- Tide安全团队： http://www.tidesec.com
+	- Wiki 知识库: http://wiki.tidesec.com
+	- FreeBuf 专栏: https://www.freebuf.com/column/648
+	- 远控免杀 Wiki: http://wiki.tidesec.com/docs/bypassav
+	- 红蓝对抗 Wiki: http://wiki.tidesec.com/docs/RedTeam
+	- ICS工控安全: http://wiki.tidesec.com/docs/ICS
+	- IoT 物联网安全: http://wiki.tidesec.com/docs/loT
+	- APP移动安全： http://wiki.tidesec.com/docs/APP
+	- CobaltStrike: http://wiki.tidesec.com/docs/CobaltStrike
+	- 应急响应 Wiki: http://wiki.tidesec.com/docs/Emergency
+	- 代码审计 Wiki: http://wiki.tidesec.com/docs/CodeAudit
+	- 密码学 Wiki: http://wiki.tidesec.com/docs/Crypto
+- http://paper.tidesec.com
+
+---
+https://book.hacktricks.xyz
+HackTricks
+HackTricks is a educational Wiki that compiles knowledge about **cyber-security** lead by Carlos with hundreds of collaborators! It's a **huge collection of hacking tricks** that is updated by the community much as possible to keep it up to date.
+
+---
 https://swtch.com/~rsc/
 Russ Cox
 **Projects**
@@ -304,6 +327,14 @@ https://www.52pojie.cn
 ---
 **阿里云 先知平台**
 https://xz.aliyun.com
+
+---
+t00ls - 低调求发展
+https://www.t00ls.com
+
+---
+安全脉搏
+https://www.secpulse.com
 
 
 ### Security Institutions & Companies & Organizations

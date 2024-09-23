@@ -16,6 +16,9 @@ https://mannuan.github.io/计算理论课件/
 
 🎬【【MIT18.404】计算理论基础(完结)—理论研究或算法应用的基础课】 https://www.bilibili.com/video/BV1qL411s7mr/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d - Michael Sipser
 
+📂 https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view
+The goal is to build a collection of videos for an undergraduate Theory of Computation course. We hope that this collection of videos would be a useful community resource for flipped classes. The intent is that these videos can be used in a flipped class format. The flipped format has been quite successful for other topics and seems well suited to remote teaching that many of us are doing. The instructor can choose to use these videos in whatever fashion he/she thinks best. These videos will ideally be supplemented by classroom discussion, practice exercises and assignments as part of the course.
+
 📖 Introduction to the Theory of Computation, 3rd edition, by Michael Sipser
 - [Sipers-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
 
