@@ -1,11 +1,11 @@
-# GNU Hurd
+# Disaster Tolerance (DT)
 
 [TOC]
 
 
 
 ## Res
-🏠 https://www.gnu.org/software/hurd/index.html
+🏠 
 🚧 
 
 

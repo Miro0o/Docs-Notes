@@ -8,6 +8,16 @@
 ![](../../../../../../../Assets/Pics/heckert_gnu.transp.small.png)
 🏠 https://www.gnu.org
 
+GNU and other free documentation can be obtained by the following methods:
+- Most [GNU manuals](https://www.gnu.org/manual/manual.html) are online in various formats.
+- The [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) includes links to documentation.
+- [planet.gnu.org](https://planet.gnu.org/) is an aggregation of blogs and news announcements from GNU packages.
+- [FSF online store: Printed books, T-shirts, posters, and more.](https://shop.fsf.org/)
+- [Free books from other publishers](https://www.gnu.org/doc/other-free-books.html): Printed books from other publishers using free documentation licenses.
+
+
+### Related Topics
+
 
 
 ## Intro
@@ -34,16 +44,6 @@ The GNU Project was [launched](https://www.gnu.org/gnu/initial-announcement.html
 
 <small><a href="https://www.fsf.org/blogs/community/help-others-find-free-software-watch-and-share-escape-to-freedom">
 Escape to Freedom: A video from the FSF</a></small>
-
-
-
-## 📜 Documentation
-GNU and other free documentation can be obtained by the following methods:
-- Most [GNU manuals](https://www.gnu.org/manual/manual.html) are online in various formats.
-- The [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) includes links to documentation.
-- [planet.gnu.org](https://planet.gnu.org/) is an aggregation of blogs and news announcements from GNU packages.
-- [FSF online store: Printed books, T-shirts, posters, and more.](https://shop.fsf.org/)
-- [Free books from other publishers](https://www.gnu.org/doc/other-free-books.html): Printed books from other publishers using free documentation licenses.
 
 
 
