@@ -1,4 +1,4 @@
-# YAK Lang
+# YAK Lang & Yakit
 
 [TOC]
 

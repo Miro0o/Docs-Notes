@@ -27,6 +27,8 @@ TBD..
 [tmux-plugins](https://github.com/tmux-plugins/list) 
 [tmuxcheatsheet](https://tmuxcheatsheet.com)
 
+[Tmux Config: A Guide]: https://builtin.com/articles/tmux-config
+
 
 ### `tmux` in a Nutshell
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020230510230438.png)

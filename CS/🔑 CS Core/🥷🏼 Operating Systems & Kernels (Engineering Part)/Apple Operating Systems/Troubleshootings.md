@@ -171,7 +171,7 @@ Basically it’s what runs between your application and your GPU/Video Card to s
 
 
 ## 👉 "Will Damage Your Computer” / "macOS cannot verify the source of the software"
-#macos #malware 
+#macos #malware #gatekeeper #application_download
 
 - right-click the application
 - get info
@@ -186,3 +186,14 @@ Basically it’s what runs between your application and your GPU/Video Card to s
 4. Remove Malware
 
 [Safely open apps on your Mac]: https://support.apple.com/en-us/102445
+
+
+### 👉 File Damaged / Third-party Application Download
+
+苹果系统有一个 GateKeeper 保护机制。从互联网上下载来的文件，会被自动打上 com.apple.quarantine 标志，我们可以理解为 "免疫隔离"。系统根据这个附加属性对这个文件作出限制。 随着版本不同，MacOS 对 com.apple.quarantine 的限制越来越严格，在较新 的 MacOS 中，会直接提示 "映像损坏" 或 "应用损坏" 这类很激进的策略。 我们可以通过手动移除该选项来解决此问题，在 Terminal 中执行
+
+`sudo xattr -r -d com.apple.quarantine /Applications/Yakit.app`
+
+即可
+
+[yak 下载安装与更新配置]: https://yaklang.io/products/download_and_install#macos-安装问题
