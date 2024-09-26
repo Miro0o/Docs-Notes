@@ -439,8 +439,15 @@ The applicant's undergraduate GPA and depth of preparation in computer science a
 
 [FAQ](https://www.bu.edu/cas/admissions/ma-ms/frequently-asked-questions/)
 #### 👉 University of Washington (UW)
-📄 https://www.topuniversities.com/universities/university-washington
 🏫 https://www.washington.edu
+
+https://www.cs.washington.edu/academics/apply#GradInfo
+##### Department of Computer Science & Engineering
+https://www.cs.washington.edu/research/
+- NLP https://www.cs.washington.edu/research/nlp
+- PLSE
+	- https://homes.cs.washington.edu/~rjust/
+- Security & Privacy Research Lab https://seclab.cs.washington.edu
 #### 👉 California Institute of Technology (Caltech)
 📄 https://www.topuniversities.com/universities/california-institute-technology-caltech
 #### 👉 University of Texas at Austin (UT Austin)

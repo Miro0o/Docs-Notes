@@ -57,6 +57,10 @@ We make this precise with an experiment/security game, the IND-CPA game:
 > 数据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 
 
+### ⚔️ Data Integrity Threat Model
+
+
+
 ### 🛡️ Data Integrity Primitives (完整性保护基本手段)
 #### 通过密码学提供完整性
 基于对称密码技术的完整性机制
@@ -194,6 +198,11 @@ We make this precise with an experiment/security game, the IND-CPA game:
 ↗ [Data Security](../../Data%20Security/Data%20Security.md)
 
 
+### ⚔️ Data Availability Threat Model
+#### EU-CPA Existential Unforgeability under Chosen-Plaintext Attack
+![](../../../../Assets/Pics/Screenshot%202024-09-26%20at%2014.05.56.png)
+
+
 
 ## 4️⃣ Non-Repudiation
 抗抵赖机制定义：抗抵赖机制旨在生成、收集、维护有关已声明的事件或动作的证据，并使该证据可得并且确认该证据，以此来解决关于此事件或动作发生或未发生而引起的争议。
@@ -209,6 +218,8 @@ We make this precise with an experiment/security game, the IND-CPA game:
 
 > 抗抵赖机制旨在生成、收集、维护有关已声明的事件或动作的证据，并使该证据可得并且确认该证据，以此来解决关于此事件或动作发生或未发生而引起的争议。
 
+
+### ⚔️ Non-Repudiation Threat Model
 抗抵赖面临的威胁
 - 密钥泄露
 	- 实体生成密钥泄露
@@ -222,6 +233,8 @@ We make this precise with an experiment/security game, the IND-CPA game:
 	- 外部人员伪造证据
 	- 证据的虚假验证
 	- 可信第三方伪造证据
+
+
 ### Non-Repudiation Mechanisms' Matrixs (抗抵赖机制的评价标准)
 用户不可抵赖性机制的评价标准
 - 抗抵赖性**机制的安全性**
@@ -235,6 +248,8 @@ We make this precise with an experiment/security game, the IND-CPA game:
 - 抗抵赖性机制是**否同时具有保密，完整性验证作用**
 - 抗抵赖性**机制的性能**
 	- 发送方计算消息摘要，进行私钥签名，接收方进行验证签名（解密）等。
+
+
 ### 🛡️ Non-Repudiation Primitives (抗抵赖基本手段)
 #### 👉 使用TTP安全令牌的抗抵赖技术
 #### 👉 使用安全令牌和防篡改模块的抗抵赖技术

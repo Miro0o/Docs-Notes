@@ -46,7 +46,9 @@ Cryptography, or cryptology (from Ancient Greek: κρυπτός, romanized: kryp
 
 Modern cryptography exists at the intersection of the disciplines of mathematics, computer science, information security, electrical engineering, digital signal processing, physics, and others. Core concepts related to information security (data confidentiality, data integrity, authentication, and non-repudiation) are also central to cryptography.
 
+
 ### ⭐ Principles of Modern Cryptography
+↗ [Modern Cryptography](Modern%20Cryptography/Modern%20Cryptography.md)
 
 
 ### 🔫 Types of Attacks

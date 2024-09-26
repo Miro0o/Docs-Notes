@@ -64,7 +64,7 @@
 
 正是对称密码体制存在上述的局限性，促使人们产生了建立新的密码体制的愿望。公钥 密码体制又称为非对称密码体制，或双密钥密码体制，其思想在 1976 年由 W.Diffie 和 M . E. Hellman 在其开创性的论文“密码学新方向”’中首先提出来的。
 
-↗ [Asymmetric Cipher (Public-Key Cryptography)](../Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
+↗ [Asymmetric Cipher (Public-Key Cryptography)](../📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
 
 
 

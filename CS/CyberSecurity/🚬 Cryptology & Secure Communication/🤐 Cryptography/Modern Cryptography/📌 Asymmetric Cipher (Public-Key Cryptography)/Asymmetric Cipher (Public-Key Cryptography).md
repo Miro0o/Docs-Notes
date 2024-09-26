@@ -13,7 +13,7 @@
 
 ## Intro
 ### Asymmetric Cipher Intro
-↗ [Symmetric Cipher](../Symmetric%20Cipher/Symmetric%20Cipher.md)
+↗ [Symmetric Cipher](../📌%20Symmetric%20Cipher/Symmetric%20Cipher.md)
 
 ![](../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%204.00.15%20PM.png)
 

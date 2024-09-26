@@ -20,10 +20,10 @@ HMAC作为这种构造方法的代表，已经作为[RFC2104]公布，并在IPSe
 
 
 ## HMAC Algorithm
-![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%202.47.15%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%202.47.15%20PM.png)
 
 
-![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%202.47.30%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%202.47.30%20PM.png)
 
 
 

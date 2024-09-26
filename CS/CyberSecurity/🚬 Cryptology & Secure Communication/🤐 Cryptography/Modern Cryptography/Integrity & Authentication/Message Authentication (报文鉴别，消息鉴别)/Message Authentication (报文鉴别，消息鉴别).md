@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [Identity & Access Management (IAM)](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
+↗ [Identity & Access Management (IAM)](../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identity%20&%20Access%20Management%20(IAM).md)
 
-↗ [Access Control /Authentication (身份认证)](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
-↗ [Object-Based Authentication](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Object-Based%20Authetication/Object-Based%20Authentication.md)
+↗ [Access Control /Authentication (身份认证)](../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Object-Based Authentication](../../../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Object-Based%20Authetication/Object-Based%20Authentication.md)
 
 
 
@@ -34,11 +34,11 @@ Recall the objective of cryptology:
 
 ## Message Authentication Methods
 ### 1️⃣ Symmetric Key Based Message Authentication
-↗ [Symmetric Cipher](../🤐%20Cryptography/Modern%20Cryptography/Symmetric%20Cipher/Symmetric%20Cipher.md)
+↗ [Symmetric Cipher](../../📌%20Symmetric%20Cipher/Symmetric%20Cipher.md)
 
 
 ### 2️⃣ Asymmetric Key Based Message Authentication
-↗ [Asymmetric Cipher (Public-Key Cryptography)](../🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
+↗ [Asymmetric Cipher (Public-Key Cryptography)](../../📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
 
 
 ### 3️⃣ Message Digest (Hash Function) Based Message Authentication
