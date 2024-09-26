@@ -8046,8 +8046,34 @@ marsh
 - marshland
 
 marshal
+- marshal（元帅）：西方国家的“司马”  
+- 美国上世纪著名的军事家，曾任陆军参谋长的马歇尔（Marshall）将军，因为功勋卓绝而被国会授予“元帅”军衔。然而，马歇尔却拒绝了。为什么？原来，英语中表示“元帅”的单词是marshal，跟马歇尔的姓氏Marshall只少了一个字母。“马歇尔元帅”就是“MarshalMarshall”，会很别扭。  
+- 单词marshal源自古日耳曼语marahscalc，由“马”和“仆人”组成，也就是“马夫”的意思。随着骑兵在军事历史上的日益重要，“marshal”这样一个职务变得越来越重要，逐渐升级，先后演变为“御马总管”、“骑兵队长”、“王室军务总管”、法官、消防队长等诸多职务，最终升级为最高军衔“元帅”也就不足为奇了。  
+- 中国的“司马”一词跟英语单词marshal有异曲同工之妙，原本都是负责伺候马匹的小吏，逐渐升级为掌管全国军队的高级官职。更巧的是，国外有Marshall（马歇尔）这个姓氏，中国也有“司马”一姓。可以说，marshal和“司马”是天生一对。  
+- marshal：['mɑːʃ(ə)l] n.元帅，陆军元帅
+- marshal - 这是个词义演变由贬而褒的英语单词，其词源乃古高地德语marahscalc，原义为horse servant（马夫）。古法语吸收了该词，作mareschal，并使其词义逐步升级。早在公元5世纪，骑兵在战争中起重要作用，该词的地位也随之节节高升，先由“马夫”升为“御马总管”，以后又与指挥职务相联系，并开始用作高级将领的头衔，最后用以表示“元帅”。英语的marshal是直接从法语吸收并演变过来的。但美国并不用marshal，而以five-star general（五星上将）作为最高军衔。曾在第一次世界大战时指挥在欧洲的美国远征军的潘兴（John Joseph Pershing, 1860-1948）是美国第一位五星上将。今天，在美国marshal一词也用于“司法官”、“组织者”、“消防队（局）长”等义。
+- n. （英国）陆军元帅，空军元帅；司仪，典礼官；（尤指体育赛事的）总指挥；（美国法院的）执行官；一些美国城市的）警察局长，消防局长；（英国）巡回法官随员 
+- v. 结集，安排；控制，组织；整理（思路、想法等）；（车辆）编组；引导（飞机在机场地面移动）；合并（盾徽）；成形，有序
+- [marshall](dic://marshall)
+- [mobilize](dic://mobilize), [mobilise](dic://mobilise), [summon](dic://summon)
+- _n._ [lawman](dic://lawman), [law officer](dic://law officer), [peace officer](dic://peace officer), [commissioned military officer](dic://commissioned military officer)
+- _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay), [arrange](dic://arrange)
+- **colonel**陆军上校;**sheriff**州长;**lieutenant**中尉;**commander**指挥官;**deputy**代理人，代表;**officer**军官，警官;**sergeant**军士;**policeman**警察;**magistrate**地方法官, 治安官;**chief**酋长;**prosecutor**检举人;
 - **marshal**元帅;**mike**扩音器，麦克风;**smith**铁匠;**lee**保护;**miller**碾磨工;**john**厕所;**peter**逐渐消失;**harry**掠夺;**tom**雄性动物;**duke**公爵，君主;
 - [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [general](dic://general), [full general](dic://full general)
+- _field marshal_ n. 陆军元帅
+- _air marshal_ （英国）空军中将
+- data marshalling
+	- - 数据编组，资料整列
+	- **Marshalling** is the process of converting **data** in memory to a storage medium /编组（Marshalling）是把内存中的数据转化到存储媒介上的过程
+- marshal sb. into the presence of the minister /引导某人去见部长
+- The marshal rode at the head of the parade. /典礼官在检阅队伍的前面骑马行进。
+- trying to marshal public support. /试图获取公众的支持
+- facts marshaling as research progressed /随着研究工作的不断进展而不断出现的问题
+- Zhukov was a marshal of the former Soviet Union /朱可夫是前苏联的一位元帅。
+- marshal all the relevant facts for the presentation; /整理叙述时要用的全部有关事实；
+- The fire marshal directed the hook-and-ladder units. /消防队长指挥云梯消防队。
+- He marshaled his facts well. /他把事实列举得很好。
 - marshalship
 - marshalling
 - marshaling
@@ -8060,7 +8086,7 @@ martinet
 - **tyrannical**暴君的,暴君似的;**authoritarian**权力主义的,专制的;**sadistic**残酷成性的;**tyrant**暴君;**colonel**陆军上校;**overbearing**专横的,傲慢的;**headmaster**校长;**sergeant**军士;**ruthless**无情的，残忍的;**pompous**浮夸的;**dictator**独裁者;
 - [disciplinarian](dic://disciplinarian), [moralist](dic://moralist)
 - [authoritarian](dic://authoritarian), [dictator](dic://dictator)
-- - They discover that the new teacher is a martinet /他们发现新来的老师非常严格。
+- They discover that the new teacher is a martinet /他们发现新来的老师非常严格。
 
 match
 - meug-
