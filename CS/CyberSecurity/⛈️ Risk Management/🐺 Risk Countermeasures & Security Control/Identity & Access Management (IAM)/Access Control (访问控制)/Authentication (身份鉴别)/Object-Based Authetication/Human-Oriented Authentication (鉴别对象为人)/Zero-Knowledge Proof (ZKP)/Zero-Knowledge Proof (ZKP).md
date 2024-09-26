@@ -5,12 +5,19 @@
 
 
 ## Res
+### Related Topics
+↗ [Secure Multi-Party Computation (SMPC)](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/Secure%20Multi-Party%20Computation%20(SMPC)/Secure%20Multi-Party%20Computation%20(SMPC).md)
+
+
+### Other Resources
+
 
 
 ## Intro
 向别人证明知道某种事物或者拥有某种物品有直接证明和间接证明两种方法。
 - 直接证明，是出示或说出该事物，使别人知道和相信，从而得到证明。但这会使别人也知道或掌握这一秘密，是最大泄漏证明；
 - 间接证明，用一种有效的数学方法证明其知道秘密，而又不泄漏信息给别人，这就是零知识证明问题。
+
 
 ### ZKP Properties & Definition
 这种交互式用户身份鉴别协议必须满足如下三个性质:
@@ -29,8 +36,6 @@
 ### Examples of ZKP
 #### 1️⃣ Cave Problem
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%2010.00.07%20PM.png)
-
-
 #### 2️⃣ Number Theory Problem
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-06-05%20at%209.58.12%20PM.png)
 
@@ -53,5 +58,3 @@
 [A Survey of Zero-Knowledge Proofs with Applications to Cryptography]: http://austinmohr.com/Work_files/zkp.pdf
 
 Austin Mohr, Southern Illinois University at Carbondale
-
-

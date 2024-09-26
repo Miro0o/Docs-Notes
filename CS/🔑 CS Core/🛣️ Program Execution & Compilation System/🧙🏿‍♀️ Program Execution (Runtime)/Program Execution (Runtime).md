@@ -62,29 +62,9 @@ Curious exactly what happens when you run a program on your computer? Read this 
 
 
 
-## 🤔 A C Program Execution Example
-loader -> libc.so -> main()
+## 🤔 An Example: How C Program Executed on Linux? /C Program Startup Process
+> 🔗 https://www.gnu.org/software/hurd/glibc/startup.html
 
-```c
-#include <stdio.h>
-
-__attribute__((constructor)) void hello() {
-  printf("Hello, World\n");
-}
-
-// See also: atexit(3)
-__attribute__((destructor)) void goodbye() {
-  printf("Goodbye, Cruel OS World!\n");
-}
-
-int main() {
-}
-```
-
-
-
-## Ref
-[👍 How libc startup in a process works?]: https://www.gnu.org/software/hurd/glibc/startup.html
 **Statically-linked program**
 - The ELF headers points program start at `_start`.
 - `_start` (sysdeps/mach/hurd/i386/static-start.S) calls `_hurd_stack_setup`
@@ -103,6 +83,11 @@ int main() {
 - `_init` (sysdeps/i386/crti.S) calls `PREINIT_FUNCTION`, (actually libpthread on Linux, `__gmon_start__` on hurd)
 - back to `__libc_csu_init` calls `init_array_start` functions
 - back to `__libc_start_main`, it calls calls application's `main`, then `exit`.
+
+![](../../../../Assets/Pics/Pasted%20image%2020240925195819.png)
+<small>http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
+</small>
+
 
 **dynamically-linked program**
 - dl.so ELF headers point its start at `_start`.
@@ -130,4 +115,25 @@ int main() {
 - back to `__libc_csu_init` calls `init_array_start` functions
 - back to `__libc_start_main`, it calls application's `main`, then `exit`.
 
+```c
+#include <stdio.h>
 
+__attribute__((constructor)) void hello() {
+  printf("Hello, World\n");
+}
+
+// See also: atexit(3)
+__attribute__((destructor)) void goodbye() {
+  printf("Goodbye, Cruel OS World!\n");
+}
+
+int main() {
+}
+```
+
+
+
+## Ref
+[👍 How libc startup in a process works?]: https://www.gnu.org/software/hurd/glibc/startup.html
+
+[👍 Linux x86 Program Start Up or - How the heck do we get to main()? by Patrick Horgan]: http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html

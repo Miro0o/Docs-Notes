@@ -4,6 +4,33 @@
 
 
 
+## 👉 Linux/Unix C Programming FAQ Collection
+> 🔗 http://dbp-consulting.com/tutorials/compunixprogfaq.html
+
+1) How does fork work?
+2) How can I find out the value of/set an environment variable from a program?
+3) I have to monitor more than one (fd/connection/stream) at a time. How do I manage all of them?
+4) How can I tell when the other end of a connection shuts down? (question 1 of the sockets FAQ)
+5) How can I get a more precise timer? (question 4.6 of comp.unix.questions FAQ)
+6) How can a parent and child process communicate.
+7) My program generates a lot of zombie processes. How do I get rid of them? (question 3.13 of the comp.unix.questions FAQ)
+8) How do I find out the address of a remote site connected to me? (question IV.9 of the sockets FAQ)
+9) How do I find out the address of my socket?
+10) How do I get my program to act like a daemon?
+11) What books can I read to learn about Unix programming.
+12) Where can I get the source from these books?
+13) How can I look at process in the system like ps does?
+14) How can I debug the children after a fork?
+15) How can I tell how much memory my system has?
+16) Given a pid, how can I tell if it's a running program?
+17) After running my program once I can't run it again until some time out happens...The os complains about the port already being in use. (question II.7 in the sockets FAQ)
+18) system()/pclose()/waitpid() doesn't seem to return the exit value of my process...or the exit value is shifted left 16 bits...what's the deal?
+19) How can I make my program not echo input like login does when asking for your password?
+20) How can I check and see if a key was pressed?  I'm looking for something like the dos kbhit() command.
+21) How can I move the cursor around the screen, to do full screen editing without using curses?
+
+
+
 ## 👉 Source release & Binary Release?
 #FreeSoftware #src #linux 
 

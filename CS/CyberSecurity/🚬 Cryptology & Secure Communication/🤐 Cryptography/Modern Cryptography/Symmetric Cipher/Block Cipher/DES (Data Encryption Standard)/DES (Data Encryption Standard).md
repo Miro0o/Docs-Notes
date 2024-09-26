@@ -18,6 +18,18 @@ https://github.com/twhiteman/pyDes
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-03-29%20at%204.02.18%20PM.png)
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-03-29%20at%204.08.53%20PM.png)
 
+- Designed in late 1970s
+- Block size 64 bits (n = 64)
+- Key size 56 bits (k = 56)
+- NSA influenced two facets of its design
+	- Altered some subtle internal workings in a mysterious way
+	- Reduced key size from 64 bits to 56 bits
+	- Made brute force attacks feasible for an attacker with massive computational resources (by 1970s standards)
+- The algorithm remains essentially unbroken 40 years later
+	- The NSA’s tweaking hardened it against an attack publicly revealed a decade later
+- However, modern computer speeds make it completely unsafe due to small key size
+	- ~$6.4 \times 10^{16}$, say $10^{10}$ tries per second on my single desktop computer's Nvidia graphics card: Takes ~$6.4 \times 10^6$ seconds or ~70 days
+
 
 ### DES Algorithms in a Nutshell
 DES 是一种明文分组为 64 位，有效密钥 56 位，输出密文 64 位的，具有 16 轮迭代的分组对称密 码算法，DES 由初始置换，16 轮迭代，初始逆置换组成。
@@ -76,7 +88,6 @@ DES-1DES(M) = (M)IP(F1T)(F2T)...(F15T)(F16)IP-1IP(F16T)(F15T)...(F2T)(F1)IP-1 
 
 所以DES是可逆的。
 
-
 ② 对合性证明
 DES = IP(F1T)(F2T)...(F15T)(F16)IP-1 
 DES-1 = IP(F16T)(F15T)...(F2T)(F1)IP-1
@@ -88,5 +99,3 @@ DES = IP(FT)(FT)...(FT)(F)IP-1 
 DES-1 = IP(FT)(FT)...(FT)(F)IP-1
 显然 DES = DES-1
 所以DES的运算是对合运算。
-
-

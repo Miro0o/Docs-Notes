@@ -40,7 +40,7 @@ The dentry cache is meant to be a view into your entire filespace. As most compu
 
 
 ### The `Inode` Object
-> ↗ [FAQ /👉 diff between hard link & soft link (symlink, symbolic link)](../../../../FAQ.md#👉%20diff%20between%20hard%20link%20&%20soft%20link%20(symlink,%20symbolic%20link))
+> ↗ [FAQ /👉 diff between hard link & soft link (symlink, symbolic link)](../../../FAQ.md#👉%20diff%20between%20hard%20link%20&%20soft%20link%20(symlink,%20symbolic%20link))
 
 An individual dentry usually has a pointer to an inode. Inodes are filesystem objects such as regular files, directories, FIFOs and other beasts. They live either on the disc (for block device filesystems) or in the memory (for pseudo filesystems). Inodes that live on the disc are copied into the memory when required and changes to the inode are written back to disc. A single inode can be pointed to by multiple dentries (hard links, for example, do this).
 

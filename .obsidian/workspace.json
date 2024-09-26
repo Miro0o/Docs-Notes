@@ -19,8 +19,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d478db31baef0197",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9206a1a74bdcf783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29cc335650bb79af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
               }
             }
           },
@@ -171,54 +208,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "adc88540a40378ec",
+  "active": "29cc335650bb79af",
   "lastOpenFiles": [
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Go Managers/goenv.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Ruby Managers/Ruby Env Managers/rbenv.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Go Managers/gvm.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Go Managers/Go Managers.md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Secure Multi-Party Computation (SMPC)/Secure Multi-Party Computation (SMPC).md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Homomorphic Encryption (HE)/Homomorphic Encryption (HE).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/FAQ.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Distros/Troubeshooting.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/FAQ.md",
+    "Assets/Pics/Pasted image 20240925195819.png",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+    "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Symmetric Cipher.md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Homomorphic Encryption (HE)",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Asymmetric Cipher (Public-Key Cryptography)/RSA/RSA.md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Secure Multi-Party Computation (SMPC)",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/Block Cipher.md",
+    "Assets/Pics/Screenshot 2024-09-24 at 14.29.44.png",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/AES (Advanced Encryption Standard)/AES (Advanced Encryption Standard).md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Symmetric Cipher/Block Cipher/DES (Data Encryption Standard)/DES (Data Encryption Standard).md",
+    "Assets/Pics/Pasted image 20240924142455.png",
+    "Assets/Pics/Pasted image 20240924142439.png",
+    "Assets/Pics/Pasted image 20240924142420.png",
+    "Assets/Pics/Pasted image 20240924142338.png",
+    "Assets/Pics/Screenshot 2024-09-24 at 13.43.20.png",
+    "Assets/Pics/Screenshot 2024-09-24 at 13.43.38.png",
+    "Assets/Pics/Pasted image 20240924124514.png",
+    "Assets/Pics/Pasted image 20240924124439.png",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤮 Cryptanalysis/Modern Cipher Cryptanalysis/Symmetric Cipher Cryptanalysis/Block Cipher Cryptanalysis/Block Cipher Cryptanalysis.md",
     "Finance & Economics/Finance & Economics.md",
     "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/WebShell/MemoryShell (内存马)/MemoryShell (内存马).md",
     "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/WebShell/WebShell.md",
     "CS/🗺 CS Overview/Program, Computer, and Automation.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🐑 GNU (GNU's Not Unix)/GNU (GNU's Not Unix).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/GNU Hurd.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🐑 GNU (GNU's Not Unix)/GNU Hurd/GNU Hurd.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/📌 macOS Kernel (xnu) & Darwin/Mach Microkernel.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/📌 macOS Kernel (xnu) & Darwin/macOS Kernel (xnu) & Darwin.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/📌 Awesome Open Source CLI Software/Awesome CLI Windows Manager.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/Troubleshootings.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/FAQ.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/macOS (Derived From UNIX Family).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/Logs.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Apple Operating Systems/macOS (Derived From UNIX Family)/FAQ.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Programming DSL & GPL/YAK Lang & Yakit.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Modeling (Specification) DSL & GPL/YANG (Yet Another Next Generation).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/SRC (Security Response Center) & CERT CSIRT CIRT.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/📌 Vulnerability Government（漏洞管控）/Vulnerability Databases & Sources/Vulnerability Databases & Sources.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Software Vulnerability & Weakness.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/📌 Security Operation Center (SOC)/Security Operation Center (SOC).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Disaster & Incidence Response (IR)/Disaster Tolerance (DT)/Disaster Tolerance (DT).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/📌 Vulnerability Government（漏洞管控）/Vulnerability Government（漏洞管控）.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Discovery（漏洞检测）/Vulnerability Discovery（漏洞检测）.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🏆 Linux System Libraries & Runtime Environments/👎 GNU C Library (glibc)/GNU C Library (glibc).md",
     "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/upload-labs",
-    "Assets/Pics/Screenshot 2024-09-22 at 15.05.41.png",
-    "Assets/Pics/Pasted image 20240922150508.png",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/AV Evasion Techniques (OPSEC Safe)/Virus AV Tools",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/AV Evasion Techniques (OPSEC Safe)",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/RIST (Reliable Internet Stream Transport)",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/SRT (Secure Reliable Transport)",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/RTMP (Real-Time Messaging Protocol)",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/Video Transmission (Streaming) & OTT/Video Streaming/RTSP (Real-Time Streaming Protocol)",
-    "Assets/Pics/Screenshot 2024-09-21 at 00.43.59.png",
     "Assets/Pics/Screenshot 2024-09-20 at 23.10.04.png.sb-3d8d0bd6-EihKRi",
-    "Assets/Pics/Screenshot 2024-09-20 at 23.10.04.png",
-    "Assets/Pics/Screenshot 2024-09-21 at 00.33.11.png",
-    "Assets/Pics/Screenshot 2024-09-21 at 00.31.01.png",
-    "Assets/Pics/Screenshot 2024-09-21 at 00.17.00.png",
-    "Assets/Pics/Screenshot 2024-09-20 at 23.51.37.png",
-    "Assets/Pics/Screenshot 2024-09-20 at 23.35.06.png",
-    "Assets/Pics/Screenshot 2024-09-20 at 23.24.28.png",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Disclosure（漏洞挖掘）/Fuzzing (Fuzz Testing)/Fuzzing Projects",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide",
     "Untitled.canvas",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
