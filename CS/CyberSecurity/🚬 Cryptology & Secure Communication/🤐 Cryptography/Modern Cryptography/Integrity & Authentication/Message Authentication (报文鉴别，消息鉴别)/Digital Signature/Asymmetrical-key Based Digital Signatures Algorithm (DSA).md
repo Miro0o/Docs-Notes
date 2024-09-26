@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Asymmetric Cipher (Public-Key Cryptography)](../../🤐%20Cryptography/Modern%20Cryptography/Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
+↗ [Asymmetric Cipher (Public-Key Cryptography)](../../../📌%20Asymmetric%20Cipher%20(Public-Key%20Cryptography)/Asymmetric%20Cipher%20(Public-Key%20Cryptography).md)
 
 
 
@@ -21,9 +21,9 @@
 鉴于 RSA 算法在实践中已 经被证明了的安全性，RSA 数字签名方案在许多安全标准中得到广泛应用。ISO/IEC9796 和 ANSI X9.30-199x以及美国联邦信息处理标淮FIPS l86-2将RSA作为推荐的数字签名标准算法之一。另外， 美国 RSA 数据安全公司所开发的安全标准 PKCS#1 也是以 RSA 数字签名体制作为其推荐算法的。
 
 #### RSA DSA Process
-![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.14.04%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.14.04%20PM.png)
 
-![](../../../../../Assets/Pics/Screenshot%202023-10-30%20at%209.03.25AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-10-30%20at%209.03.25AM.png)
 
 #### RSA DSA Properties
 对于 RSA 数字签名方案的应用及安全性需要注意以下的几个问题:
@@ -47,7 +47,7 @@ ElGamal 数字签名方案具有许多变体，其中最重要的有美国 NIST 
 ElGamal 数字签名方案的安全性基于有限 域上求解离散对数问题的困难性，它是一种非确定性的签名方案，即对一个给定的消息所产生的数字签名具有随机性。
 
 #### ELGamal DSA Basics
-![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.14.18%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.14.18%20PM.png)
 
 #### ELGamal DSA Proof
 
@@ -87,7 +87,7 @@ DSA 的安全性也是基于计算有限域离散对数的困难性，鉴于有�
 基于椭圆曲线密码的数字签名算法目前已成为国际上非常关注的一种密码算法，并被多个标准化组 织确定为数字签名标准。下面给出基于 IEEE1363 标准的椭圆曲线数字签名算法 ECDSA，它实际上是 数字签名算法(DSA)在椭圆曲线上的模拟，其安全性基于椭圆曲线上的离散对数问题。
 
 #### ECDSA DSA Basics
-![](../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.18.05%20PM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-05-10%20at%204.18.05%20PM.png)
 
 
 #### ECDSA DSA Properties

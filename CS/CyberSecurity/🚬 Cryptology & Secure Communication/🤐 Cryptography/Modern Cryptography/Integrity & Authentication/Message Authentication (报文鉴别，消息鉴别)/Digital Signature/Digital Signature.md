@@ -5,6 +5,7 @@
 
 
 ## Res
+### Related Topics
 
 
 
@@ -109,7 +110,7 @@ Digital signatures are often used to implement [electronic signatures](https://e
 2. 签名产生过程:用户利用给定的签名算法和参数对消息产生签名，这种签名过程可以公开也可以不公开，但一定包含仅签名者才拥有的秘密信息(签名密钥)。
 3. 签名验证过程:验证者利用公开的验证方法和参数对给定消息的签名进行验证，得出签名的有效性。
 
-![](../../../../../Assets/Pics/Screenshot%202023-06-06%20at%209.31.25%20AM.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202023-06-06%20at%209.31.25%20AM.png)
 
 
 ### Signature Algorithm
