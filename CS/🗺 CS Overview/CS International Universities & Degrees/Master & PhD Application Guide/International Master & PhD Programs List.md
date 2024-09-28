@@ -448,6 +448,8 @@ https://www.cs.washington.edu/research/
 - PLSE
 	- https://homes.cs.washington.edu/~rjust/
 - Security & Privacy Research Lab https://seclab.cs.washington.edu
+#### 👉 Dartmouth College
+
 #### 👉 California Institute of Technology (Caltech)
 📄 https://www.topuniversities.com/universities/california-institute-technology-caltech
 #### 👉 University of Texas at Austin (UT Austin)
@@ -478,6 +480,7 @@ Applicants admitted to the Department of Computer Science graduate program usual
 #### 👉 University of California, Irvine (UCI)
 
 #### 👉 University of California, Los Angeles (UCLA)
+https://grad.ucla.edu/admissions/steps-to-apply/
 ##### Graduate Program: Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
 #### 👉 University of California, Berkeley (UCB)
@@ -596,8 +599,14 @@ Our application process is completed entirely online. All of your materials shou
 **Joint MBA/MPCS Program**
 ##### Data Science
 #### 👉 University of Illinois Urbana-Champaign (UIUC)
+https://grad.illinois.edu/admissions/instructions/02c
+A complete list of our graduate programs is available in the [Illinois Graduate Programs of Study](http://catalog.illinois.edu/graduate/). Each program listing will provide an overview of the program, along with admissions and degree completion requirements.
+
+The [Directory of Graduate Programs](https://grad.illinois.edu/admissions/depts) provides website and contact information for each available program. Your proposed program of study is best able to advise you throughout your application process.
 ##### Computer Science
+https://siebelschool.illinois.edu/academics
 https://cs.illinois.edu/admissions/graduate
+http://catalog.illinois.edu/graduate/engineering/computer-science-ms/#admissionsfinancialaidtext
 
 1. General University and Department requirements:
 	1. Applicants must have been awarded (or are about to be awarded) a 4-year bachelor’s degree equivalent to that granted by the University of Illinois to be eligible for the graduate programs at the University of Illinois Urbana-Champaign. Applicants whose **undergraduate degree is a three-year program may not be eligible** for graduate-level admissions consideration at the University of Illinois. Eligibility depends on the country where the applicant received their degree -- please see the [Graduate College's list of eligible degrees](http://www.grad.illinois.edu/admissions/countries/).
@@ -767,6 +776,21 @@ https://sgs.calendar.utoronto.ca/degree/Computer-Science
 
 
 ## 🧔‍♀️ Asia
+### 🇰🇷 Korea
+#### Korea University
+##### CCS Lab
+https://ccs.korea.ac.kr/people/
+
+#### Seoul National University
+
+#### KAIST
+
+#### Yonsei University
+
+
+### 🇯🇵 Japan
+
+
 ### 🇸🇬 Singapore
 ↗ [Singapore 🇸🇬](../../../../International%20Politics%20&%20Countries'%20Overview/Countries'%20Overview/Singapore%20🇸🇬.md)
 
