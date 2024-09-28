@@ -36,20 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81bda8e2c849e10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Integrity & Authentication/Message Digest & Hash Function (Integrity)/Message Digest & Hash Function (Integrity).md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/CIA Threats & Countermeasures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/CIA Threats & Countermeasures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/CIA Threats & Countermeasures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md"
+                "file": "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/CIA Threats & Countermeasures.md"
               }
             }
           },
@@ -193,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +195,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d478db31baef0197",
+  "active": "9206a1a74bdcf783",
   "lastOpenFiles": [
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/📌 Symmetric Cipher/Block Cipher/Block Cipher.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
+    "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Integrity & Authentication/Message Digest & Hash Function (Integrity)/Message Digest & Hash Function (Integrity).md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Modern Cryptography.md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Integrity & Authentication/Authenticated Encryption (AE)/Authenticated Encryption (AE).md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Integrity & Authentication/Message Authentication (报文鉴别，消息鉴别)/Message Digest (Hash Function) Based Message Authentication/Message Digest (Hash Function) Based Message Authentication.md",
@@ -229,10 +220,7 @@
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Cryptology & Secure Communication.md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Pseudorandom Number Generation.md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Cryptography.md",
-    "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Instruction Set Architecture (ISA) & Processor Architecture/CISC (Complex Instruction Set Computer)/x86 Architecture Family (80x86, 8086 family)/x86 Architecture Family (80x86, 8086 family).md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Go Managers/goenv.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Ruby Managers/Ruby Env Managers/rbenv.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Project Builder & Manager/🔬 Language-Specific Managers/Go Managers/gvm.md",
@@ -240,8 +228,6 @@
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Secure Multi-Party Computation (SMPC)/Secure Multi-Party Computation (SMPC).md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Homomorphic Encryption (HE)/Homomorphic Encryption (HE).md",
     "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Zero-Knowledge Proof (ZKP)/Zero-Knowledge Proof (ZKP).md",
-    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
     "Assets/Pics/Pasted image 20240925195819.png",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Homomorphic Encryption (HE)",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Secure Multi-Party Computation (SMPC)",
