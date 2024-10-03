@@ -51,7 +51,7 @@
 ↗ [CIA Threats & Countermeasures](CIA%20Threats%20&%20Countermeasures.md)
 
 
-### 4️⃣ Relay Attacks
+### 4️⃣ Relay/Rollback Attacks
 ↗ [Authentication (身份鉴别)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
 
 常见的消息重放攻击形式有：
@@ -87,9 +87,6 @@
 ↗ [Chaos Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Chaos%20Theory/Chaos%20Theory.md)
 ###### Challenge /Response
 ↗ [Password Based Authentication (基于口令) /Challenge /Response (质询/响应 ｜ 挑战/应答)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Object-Based%20Authetication/Human-Oriented%20Authentication%20(鉴别对象为人)/Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md#Challenge%20/Response%20(质询/响应%20｜%20挑战/应答))
-
-
-### 5️⃣ Impersonation Attacks
 
 
 

@@ -5,6 +5,7 @@
 
 ## Res
 ### Related Topics
+↗ [File & File System](../../../../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)
 ↗ [UNIX File System](../../../../UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md)
 
 
@@ -20,10 +21,11 @@
 ### LSB Workgroup
 
 
-### FHS (File Hierarchy System)
-FHS is not considered to be some authority on directory structure and contents for absolutely every Linux distribution, but it is ==generally the most common standard of linux file layout.== All directories and files in FHS appear under ‘/’ (i.e. the root directory).
+### Linux Directory System & FHS (File Hierarchy System)
+↗ [Linux Directory System & FHS](Linux%20Directory%20System%20&%20FHS.md)
 
 ↗ [FHS (Filesystem Hierarchy Standard)](../../../Linux%20Referenced%20Specifications/FHS%20(Filesystem%20Hierarchy%20Standard).md)
+FHS is not considered to be some authority on directory structure and contents for absolutely every Linux distribution, but it is ==generally the most common standard of linux file layout.== All directories and files in FHS appear under ‘/’ (i.e. the root directory).
 
 
 ### Mounting
@@ -44,7 +46,7 @@ Filesystems are mounted on an existing directory/mount point using the **mount*
 
 ## Linux Directory System /Linux File Layout
 ↗ [UNIX File System /FHS (Filesystem Hierarchy Standard)](../../../../UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md#FHS%20(Filesystem%20Hierarchy%20Standard))
-↗ [Linux Directory System](Linux%20Directory%20System.md)
+↗ [Linux Directory System & FHS](Linux%20Directory%20System%20&%20FHS.md)
 
 
 

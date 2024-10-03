@@ -59,11 +59,11 @@ Erasmus Mundus，是欧洲大学间的硕士（多数项目）、博士（少数
 
 EIT的全称是European Institute of Innovation and Technology（欧洲创新与技术研究院），2008年欧盟创立了EIT,旨在旨在推动欧盟产业和科研之间建立合作伙伴关系，推动创新活动，促进就业和经济增长。目前EIT汇聚了上百所欧洲知名理工院校，开设EIT硕士与博士项目，一般为两年在两个不同的欧洲大学学习，将获得两个硕士学位和一份欧洲技术学院的证书，学校有：芬兰Aalto大学，[瑞典皇家理工大学](https://www.zhihu.com/search?q=%E7%91%9E%E5%85%B8%E7%9A%87%E5%AE%B6%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)，[德国柏林工业大学](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E6%9F%8F%E6%9E%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)，[意大利特伦托大学](https://www.zhihu.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E7%89%B9%E4%BC%A6%E6%89%98%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3092557404%7D)，[法国通信系统工程师学校](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E6%A0%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)等，具体方向包括：  
   
-EIT Digital Master School（EIT数字硕士学校）  
-EIT Health（EIT健康）领域  
-EIT InnoEnergy Master School（EIT创新能源硕士学校）  
-EIT RawMaterials（EIT原材料）领域  
-EIT Climate-KIC Master Programme（EIT气候硕士课程）  
+EIT Digital Master School（EIT数字硕士学校）
+EIT Health（EIT健康）领域
+EIT InnoEnergy Master School（EIT创新能源硕士学校）
+EIT RawMaterials（EIT原材料）领域
+EIT Climate-KIC Master Programme（EIT气候硕士课程）
 EIT Manufacturing（EIT制造）
 
 **课程时间：** 2年
@@ -198,6 +198,9 @@ https://www.tum.de/en/studies/application/application-info-portal/uni-assist
 [APS](https://www.aps.org.cn/zh/verfahren-und-services-deutschland)
 
 [TMU -- SE](https://www.tum.de/en/studies/degree-programs/detail/software-engineering-master-of-science-msc)
+#### 👉 CISPA (Helmholtz Center For Information Security)
+##### Young Researcher Internship Program
+https://career.cispa.de/yrip.html
 #### 👉 Technical University of Munich
 https://www.tum.de/en/studies/application/master/application-master
 ##### Informatics Master of Science 
@@ -438,6 +441,25 @@ The applicant's undergraduate GPA and depth of preparation in computer science a
 [apply now for BU](https://mycas.bu.edu/100457380/apply_now)
 
 [FAQ](https://www.bu.edu/cas/admissions/ma-ms/frequently-asked-questions/)
+#### 👉 University of Wisconsin-Madison
+https://grad.wisc.edu/apply/
+##### Computer Science, MS
+https://www.cs.wisc.edu/research/research-groups/
+research groups
+
+132.853 6.315
+14.511 
+8.917
+
+50.116
+21.91
+
+Visit the [department website](https://www.cs.wisc.edu/) for faculty interests, research activities, courses, and additional program information. Students may also be interested in other programs offered by the Department of Computer Sciences, including:
+
+- [Computer Sciences Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/) (MS Computer Sciences: Computer Sciences): A research-oriented master’s degree that prepares students for careers in industry research or for PhD level education in Computer Sciences.
+- [Professional Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-professional-program-ms/) (MS Computer Sciences: Professional Program): This degree is designed for students who are primarily interested in a professional career as a computer scientist in a variety of industries. 
+- [Data Engineering MS](https://guide.wisc.edu/graduate/computer-sciences/data-engineering-ms/): A master’s program focused on principles and practices of managing large data sets.
+
 #### 👉 University of Washington (UW)
 🏫 https://www.washington.edu
 
@@ -483,6 +505,7 @@ Applicants admitted to the Department of Computer Science graduate program usual
 https://grad.ucla.edu/admissions/steps-to-apply/
 ##### Graduate Program: Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
+https://www.cs.ucla.edu/graduate-admissions/
 #### 👉 University of California, Berkeley (UCB)
 ##### UCB Academic Overview
 https://grad.berkeley.edu
@@ -663,6 +686,8 @@ https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc
 #### 👉 Georgia Institution of Technology (GIT, GaTech)
 https://www.gtsi.edu.cn/apply （天津大学佐治亚理工深圳学院）
 https://www.europe.gatech.edu/en (佐治亚理工欧洲学院)
+
+https://grad.gatech.edu/admissions/international
 ##### Cybersecurity (On Campus)
 https://grad.gatech.edu/degree-programs/cybersecurity-campus
 ##### Computer Science (On Campus)

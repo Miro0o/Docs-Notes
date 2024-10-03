@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+
 
 
 ## Overview
@@ -21,13 +23,27 @@
 ![](../../../../../../Assets/Pics/Screenshot%202023-03-22%20at%208.04.25%20PM.png)
 
 
+
 ## One Time Pad
+> 🔗 https://textbook.cs161.org/crypto/symmetric.html#63-one-time-pad
+
+![](../../../../../../Assets/Pics/Screenshot%202024-09-19%20at%2010.06.45.png)
+
+![](../../../../../../Assets/Pics/Screenshot%202024-09-19%20at%2010.07.12.png)
+### Encryption /Decryption
+
+
+### Correctness
+
+
+### Efficiency
+
+
+### Security
+
 
 
 ## Playfair
-
-
-
 
 
 

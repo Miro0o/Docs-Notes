@@ -1,10 +1,13 @@
-# Linux Directory System
+# Linux Directory System & FHS
 
 [TOC]
 
 
 
 ## Res
+### Related Topics
+↗ [FHS (Filesystem Hierarchy Standard)](../../../Linux%20Referenced%20Specifications/FHS%20(Filesystem%20Hierarchy%20Standard).md)
+
 
 
 ## Intro
@@ -25,6 +28,8 @@ The `/boot` directory contains files required for starting your system. Do I h
 
 ### `/dev` (Virtual Directory)
 `/dev` contains `dev_ice` files. Many of these are generated at boot time or even on the fly. For example, if you plug in a new webcam or a USB pendrive into your machine, a new device entry will automagically pop up here.
+
+↗ [Linux System Observability](Linux%20VFS%20(Virtual%20Filesystem%20Switch,%20Virtual%20File%20System)/Linux%20System%20Observability.md)
 
 
 ### `/etc`
@@ -61,6 +66,7 @@ A slight digression: another place where applications and libraries end up in is
 `/proc`, like `/dev` is a **virtual directory**. It contains information about your computer, such as information about your CPU and the kernel your Linux system is running. As with `/dev`, the files and directories are generated when your computer starts, or on the fly, as your system is running and things change.
 
 ↗ [Task Management & Scheduling (Process & Threads)](../../⭕️%20Task%20Management%20&%20Scheduling%20(Process%20&%20Threads)/Task%20Management%20&%20Scheduling%20(Process%20&%20Threads).md#Overview%20of%20Process%20Resources)
+↗ [Linux System Observability](Linux%20VFS%20(Virtual%20Filesystem%20Switch,%20Virtual%20File%20System)/Linux%20System%20Observability.md)
 
 
 ### `/root`
@@ -75,7 +81,7 @@ A slight digression: another place where applications and libraries end up in is
 `/sbin` is similar to `/bin`, but it contains applications that only the superuser (hence the initial _s_) will need. You can use these applications with the `sudo` command that temporarily concedes you superuser powers on many distributions. `/sbin` typically contains tools that can install stuff, delete stuff and format stuff. As you can imagine, some of these instructions are lethal if you use them improperly, so handle with care.
 
 
-### `/usr`
+### `/usr` (Unix System Resources)
 The `/usr` directory was where users’ home directories were originally kept back in the early days of UNIX. However, now `/home` is where users kept their stuff as we saw above. These days, `/usr` contains a mish-mash of directories which in turn contain applications, libraries, documentation, wallpapers, icons and a long list of other stuff that need to be shared by applications and services.
 
 ==You will also find _bin_, _sbin_ and _lib_ directories in _/usr_. What is the difference with their root-hanging cousins? Not much nowadays. ==Originally, the `/bin` directory (hanging off of root) would contain very basic commands, like `ls`, `mv` and `rm`; the kind of commands that would come pre-installed in all UNIX/Linux installations, the bare minimum to run and maintain a system. `/usr/bin` on the other hand would contain stuff the users would install and run to use the system as a work station, things like word processors, web browsers, and other apps.
@@ -90,20 +96,19 @@ But many modern Linux distributions just put everything into `/usr/bin` and ha
 ##### `/usr/local/man`
 ##### `/usr/local/sbin`
 ##### `/usr/local/share`
-
-
 #### `/usr/share`
-
 
 
 ### `/srv`
 The `/srv` directory contains data for servers. If you are running a web server from your Linux box, your HTML files for your sites would go into `/srv/http` (or `/srv/www`). If you were running an FTP server, your files would go into `/srv/ftp`.
 
 
-### `/sys`
+### `/sys` (Virtual Directory)
 `/sys` is another virtual directory like `/proc` and `/dev` and also contains information from devices connected to your computer.
 
 In some cases you can also manipulate those devices. I can, for example, change the brightness of the screen of my laptop by modifying the value stored in the `/sys/devices/pci0000:00/0000:00:02.0/drm/card1/card1-eDP-1/intel_backlight/brightness` file (on your machine you will probably have a different file). But to do that you have to become superuser. The reason for that is, as with so many other virtual directories, messing with the contents and files in _/sys_ can be dangerous and you can trash your system. DO NOT TOUCH until you are sure you know what you are doing.
+
+↗ [Linux System Observability](Linux%20VFS%20(Virtual%20Filesystem%20Switch,%20Virtual%20File%20System)/Linux%20System%20Observability.md)
 
 
 ### `/tmp`
@@ -117,6 +122,8 @@ You can also use `/tmp` to store your own temporary files — `/tmp` is one 
 
 Be that as it may, `/var` contains things like logs in the _/var/log_ subdirectories. Logs are files that register events that happen on the system. If something fails in the kernel, it will be logged in a file in `/var/log`; if someone tries to break into your computer from outside, your firewall will also log the attempt here. It also contains _spools_ for tasks. These “tasks” can be the jobs you send to a shared printer when you have to wait because another user is printing a long document, or mail that is waiting to be delivered to users on the system.
 
+
+### Other Directories
 Your system may have some more directories we haven’t mentioned above. In the screenshot, for example, there is a `/snap` directory. That’s because the shot was captured on an Ubuntu system. Ubuntu has recently incorporated [snap](https://www.ubuntu.com/desktop/snappy) packages as a way of distributing software. The `/snap` directory contains all the files and the software installed from snaps.
 
 
@@ -126,3 +133,4 @@ Your system may have some more directories we haven’t mentioned above. In the 
 
 _This is a classic article written by Paul Brown_ _from the [Linux.com](http://linux.com/) archives. For more great SysAdmin tips and techniques check out our free [intro to Linux course](https://www.edx.org/course/introduction-to-linux?utm_medium=partner-marketing&utm_source=affiliate&utm_campaign=linuxfoundation&utm_content=blog-lfs101)_.
 
+🎬【简述 Linux 文件系统-哔哩哔哩】 https://b23.tv/HQgcLT1

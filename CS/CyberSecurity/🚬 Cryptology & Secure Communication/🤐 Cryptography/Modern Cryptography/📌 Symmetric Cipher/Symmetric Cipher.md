@@ -16,15 +16,7 @@
 
 ## Intro
 ### One-Time-Pad (OTP)
-> 🔗 https://textbook.cs161.org/crypto/symmetric.html#63-one-time-pad
-
-![](../../../../../../Assets/Pics/Screenshot%202024-09-19%20at%2010.06.45.png)
-
-![](../../../../../../Assets/Pics/Screenshot%202024-09-19%20at%2010.07.12.png)
-#### Encryption /Decryption
-#### Correctness
-#### Efficiency
-#### Security
+↗ [Polyalphabetic Ciphers](../../Classic%20Cryptography/Substitution%20Cipher/Polyalphabetic%20Ciphers.md)
 
 
 ### Block Cipher 🆚 Stream Cipher

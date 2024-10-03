@@ -68,19 +68,6 @@ Berkeley计算机系教授 Christos Papadimitriou 曾说过一句半开玩笑的
 
 
 
-## MacTex
-🏠 https://tex.stackexchange.com/questions/560814/which-versions-of-tex-do-i-need
-
-- **TeXShop** This is a full featured TeX editor/IDE. If you've never used LaTeX before it can make your life substantially easier, since as an IDE it has most of the functions that you would want to use built in and accessible. It's not just for beginners either; I use it as my regular editor for TeX even though I use other editors for editing code. This is actively maintained, and has a large user base. 
-
-- **BibDesk** This is a fantastic bibliography management tool. It not only allows you to maintain a `.bib` file, but also allows you to link your PDFs of the articles or notes to the `.bib` entry. It has many great features (e.g. paste a DOI and it retrieves the `.bib` data). It also links with TeXShop so that you can type a citation key and use autocomplete to complete the citation key from your open `.bib` file. This is also actively maintained and has a large user base.
- 
-- **TeXLive Utility** This is a GUI interface to `tlmgr` which is used to keep your packages up to date. It can also set other global parameters such as default page size, and allows you to switch between different installed versions of TeXLive. Many of us keep multiple years on our machines, and TeXLive Utility makes switching between them when needed simple. One thing to note is that it assumes the most recent TeXLive distribution for updating, so it's probably a good idea to install the most recent MacTeX distribution rather than the one you currently have installed.
-
-- **LaTeXit** This is an equation editor, designed for turning snippets of LaTeX code into various formats (PDF, PNG, SVG, TIFF, JPG, MathML) that can be inserted into other kinds of documents, such as PowerPoint or Keynote. If you prefer to use these programs for presentations this can be a very useful tool.
-
-
-
 ## Tex Syntax
 ### typesetting
 🔗 https://blog.csdn.net/qingdujun/article/details/80805613
@@ -118,6 +105,35 @@ about the math equation in tex.
 ↗ [Fonts](../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/Graphics%20&%20Design/Fonts.md)
 
 🔗 https://www.ctan.org/pkg/fontawesome
+
+
+
+## MacTex
+🏠 https://tex.stackexchange.com/questions/560814/which-versions-of-tex-do-i-need
+
+- **TeXShop** This is a full featured TeX editor/IDE. If you've never used LaTeX before it can make your life substantially easier, since as an IDE it has most of the functions that you would want to use built in and accessible. It's not just for beginners either; I use it as my regular editor for TeX even though I use other editors for editing code. This is actively maintained, and has a large user base. 
+
+- **BibDesk** This is a fantastic bibliography management tool. It not only allows you to maintain a `.bib` file, but also allows you to link your PDFs of the articles or notes to the `.bib` entry. It has many great features (e.g. paste a DOI and it retrieves the `.bib` data). It also links with TeXShop so that you can type a citation key and use autocomplete to complete the citation key from your open `.bib` file. This is also actively maintained and has a large user base.
+ 
+- **TeXLive Utility** This is a GUI interface to `tlmgr` which is used to keep your packages up to date. It can also set other global parameters such as default page size, and allows you to switch between different installed versions of TeXLive. Many of us keep multiple years on our machines, and TeXLive Utility makes switching between them when needed simple. One thing to note is that it assumes the most recent TeXLive distribution for updating, so it's probably a good idea to install the most recent MacTeX distribution rather than the one you currently have installed.
+
+- **LaTeXit** This is an equation editor, designed for turning snippets of LaTeX code into various formats (PDF, PNG, SVG, TIFF, JPG, MathML) that can be inserted into other kinds of documents, such as PowerPoint or Keynote. If you prefer to use these programs for presentations this can be a very useful tool.
+
+
+
+## CTeX
+🏠 https://ctex.org/about/
+CTEX.org 是一个关于 TeX 的中文网站，CTEX 是中文 TeX (Chinese TeX)的缩写。CTEX 的宗旨是为中国广大的 TeX 用户提供力所能及的服务和帮助。目前 CTEX 的主要工作包括维护 CTEX 网站；建设中文 TeX 开发者社区，为用户提供学习交流的场所；开发 CTeX 中文套装软件；致力于 TeX 文档的中文化工作。CTEX 的服务器和网络接入得到了 [中国运筹学会](https://www.orsc.org.cn/) 的支持。
+
+目前 CTEX 主要有三个部分组成：
+
+- [主页](https://ctex.org/) 发布最新软件、消息
+- ~~[论坛](http://bbs.ctex.org/) 提问、讨论问题~~（已于2018年11月21日关闭）
+- ~~[FTP](ftp://ftp.ctex.org/) 提供软件资料下载、交流~~（已于2015年10月29日关闭）
+- [中文TeX协会](https://github.com/CTeX-org) 中文TeX开发者社区
+- [中文TeX用户论坛](https://github.com/CTeX-org/forum) 代替CTEX论坛
+
+同时也欢迎广大 TeX 网站、组织、用户和我们合作！
 
 
 

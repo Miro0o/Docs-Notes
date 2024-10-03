@@ -266,7 +266,7 @@ It also implements architecture optimized functions (e.g. memcpy, string operati
 ### Linux File Layout (Userspace)
 ↗ [UNIX File System /FHS (Filesystem Hierarchy Standard)](../../UNIX%20Family/📌%20UNIX%20Kernel/UNIX%20IO%20&%20Files%20Management/UNIX%20File%20System/UNIX%20File%20System.md#FHS%20(Filesystem%20Hierarchy%20Standard))
 ↗ [Linux File System](Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20File%20System.md)
-↗ [Linux Directory System](Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20Directory%20System.md)
+↗ [Linux Directory System & FHS](Linux%20IO%20&%20Files%20Management/🤔%20Linux%20File%20System/Linux%20Directory%20System%20&%20FHS.md)
 
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020231019195646.png)
 

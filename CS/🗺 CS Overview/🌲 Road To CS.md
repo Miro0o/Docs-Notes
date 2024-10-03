@@ -312,6 +312,10 @@ https://forum.exetools.com
 https://www.anandtech.com/home/
 PC components and technologies review
 #### CS-Related Course /Training Online Channels 🎬
+**Bytebytego**
+🎬 https://youtube.com/@bytebytego?si=AcnyPS8UX1btUmA4
+
+---
 **哔哩大学计算机学院**
 🎬 https://space.bilibili.com/3493285983160582?plat_id=1&share_from=space&share_medium=iphone&share_plat=ios&share_session_id=45500281-6E65-4AAD-82EE-5EA13123733A&share_source=WEIXIN&share_tag=s_i&spmid=main.space-contribution.0.0&timestamp=1713443322&unique_k=tVeA7cI
 

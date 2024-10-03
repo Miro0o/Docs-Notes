@@ -5,6 +5,8 @@
 
 
 ## Res
+### Related Topics
+
 
 
 ## Intro
@@ -21,7 +23,6 @@ n 级反馈移位寄存器的结构如图 9.3 所示:
 
 
 ### LFSR (Linear Feedback Shift Register)
-
 > 线性反馈移位寄存器输序列的性质完全由反馈函数 f(a1，a2，...， an)决定
 
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-06-14%20at%201.10.52%20PM.png)

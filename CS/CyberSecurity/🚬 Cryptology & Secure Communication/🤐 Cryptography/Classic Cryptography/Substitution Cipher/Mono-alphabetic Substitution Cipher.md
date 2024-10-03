@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+
+
+### Other Resources
 [Single table Substitution Cipher](https://ctf-wiki.mahaloz.re/crypto/classical/monoalphabetic/)
 [单表代换加密](https://ctf-wiki.org/crypto/classical/monoalphabetic/)
 
@@ -14,6 +18,7 @@
 
 
 ## 一般单表替代密码
+
 
 
 ## 移位密码
@@ -33,7 +38,4 @@ $$m = D_k(c) = k_1^{-1}(c-k_2)(mod \ 26)$$
 
 
 
-
-
 ## Ref
-

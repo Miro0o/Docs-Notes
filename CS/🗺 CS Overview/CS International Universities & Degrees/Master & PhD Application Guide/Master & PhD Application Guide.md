@@ -115,6 +115,13 @@ Tips for your application (adapted from Henny Admoni's website):
 
 
 
+## Elevator Pitch
+I'm in my final year as an international student graduating in fall 2025 with a Computer Science degree. My interests lies on software security and my current focus are exploring accurate and verified methods to apply LLM into program analysis & fuzz testing.
+
+One of my recent projects proposed a novel way integrating LLM inferrence into static program analysis and helped detecting weaknesses and vulnerabilities in the software. I eagerly seek opportunities in UC Berkeley to conduct further researches on such area.
+
+
+
 ## Ref
 [25fall末流985主申北美无科研实习求定位]: https://www.1point3acres.com/bbs/thread-1066670-1-1.html
 
