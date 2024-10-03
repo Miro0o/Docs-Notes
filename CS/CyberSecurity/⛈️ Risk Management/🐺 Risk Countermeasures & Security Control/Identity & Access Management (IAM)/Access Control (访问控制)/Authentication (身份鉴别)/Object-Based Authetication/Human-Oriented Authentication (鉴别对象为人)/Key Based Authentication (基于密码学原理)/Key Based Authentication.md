@@ -77,7 +77,7 @@ Token-based authentication is a process in which users identify with unique toke
 - 在该机制中，待鉴别的实体通过表明它拥有某个秘密鉴别密钥来证实其身份。可由该实体以其秘密密钥和特定数据作输入，使用密码校验函数获得密码校验值来达到。
 - 声称者和验证者共享秘密鉴别密钥，应仅为该两个实体所知，以及他们的信任方。
 
-↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
+↗ [Message Digest (Hash Function) Based Message Authentication](../../../../../../../../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication/Message%20Digest%20(Hash%20Function)%20Based%20Message%20Authentication.md)
 
 ### One-direction Authentication
 ![](../../../../../../../../../../../Assets/Pics/Screenshot%202023-11-09%20at%202.57.44PM.png)

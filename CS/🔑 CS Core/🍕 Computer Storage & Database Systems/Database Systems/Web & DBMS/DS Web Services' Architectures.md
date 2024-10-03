@@ -129,3 +129,5 @@
 ## Ref
 [Database Architectures]: https://app.myeducator.com/reader/web/617b/chapter01/gj149/
 [What is N-Tier Architecture? How It Works, Examples, Tutorials, and More]: https://stackify.com/n-tier-architecture/
+
+[🎬 FAANG System Design Interview: Design A Location Based Service (Yelp, Google Places)]: https://youtu.be/M4lR_Va97cQ?si=bPMFe72FL9T5QhdQ

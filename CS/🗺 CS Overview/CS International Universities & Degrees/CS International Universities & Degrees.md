@@ -85,12 +85,17 @@ Computing (Security and Reliability) Major Intro (Imperial College London)
 Enhance your knowledge of IT security and reliability to prepare for a career in the computing industry.
 
 
-### 🎯 Looking for an Academic Career?
+### Academic Supports
 https://www.cmu.edu/student-success/programs/index.html
 Student Academic Success Center | CMU
 
 https://mitcommlab.mit.edu/eecs/
 MIT EECS Communication Lab | MIT
+
+
+### Others
+https://www.csc.edu.cn/chuguo/list/73
+中国国家留学网
 
 
 
