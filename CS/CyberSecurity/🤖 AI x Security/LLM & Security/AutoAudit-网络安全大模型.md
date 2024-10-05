@@ -11,7 +11,7 @@
 
 
 ### Related Topics
-↗ [AssemblyLine 4](../../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/AssemblyLine%204/AssemblyLine%204.md)
+↗ [AssemblyLine 4](../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/AssemblyLine%204/AssemblyLine%204.md)
 
 
 

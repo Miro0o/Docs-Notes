@@ -6,11 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Software Security](../Software%20Security.md)
 ↗ [Software Vulnerability & Weakness](../🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-↗ [System Security](../../../System%20Security/System%20Security.md)
 ↗ [Software Testing](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/🧪%20Software%20Testing/Software%20Testing.md)
-↗ [Malicious Codes & Software Engineering](../../../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/Malicious%20Codes%20&%20Software%20Engineering/Malicious%20Codes%20&%20Software%20Engineering.md)
 ↗ [Security Audit & Security Audit Trail](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)
 ↗ [Code Review](../../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Code%20Review.md)
 
@@ -21,7 +18,8 @@
 ↗ [Operating Systems & Kernels (Engineering Part)](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 ↗ [Operating System & OS Kernel (Theory Part)](../../../../🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 
-↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
+↗ [Software Analysis Tools](../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
+↗ [Reverse & Binary Analysis Tools](../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/⛰️%20Static%20Binary%20Analysis%20&%20SCA%20Tools/Reverse%20&%20Binary%20Analysis%20Tools.md)
 ↗ [📌 Computer Profiling & System Visibility](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Host%20Management/📌%20Computer%20Profiling%20&%20System%20Visibility.md)
 
 ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debugging%20&%20Defensive%20Programming.md)

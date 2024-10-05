@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Security Industry & Companies](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
-↗ [Computer Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Computer Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ### Courses & Projects & Labs
@@ -280,7 +280,7 @@ https://thehackernews.com
 ↗️ [Appendix-3](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/📌%20Appendix/Appendix-3.md)
 - [CTF /Res](🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/Road%20To%20CTF.md)
 
-↗ [Computer Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
+↗ [Computer Security Related Conferences & Journals](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Computer%20Security%20Related%20Conferences%20&%20Journals/Computer%20Security%20Related%20Conferences%20&%20Journals.md)
 
 
 ---
@@ -300,7 +300,7 @@ CSAW (see-SAW) is the world's most comprehensive student-run cybersecurity event
 - Hack my Robot
 
 ---
-↗ [Defcon](../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20in%20Industry/Security%20Events/Defcon.md)
+↗ [Defcon](../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Security%20Events/Defcon.md)
 
 DEF CON is one of the oldest continuously running hacker conventions around, and also one of the largest.
 

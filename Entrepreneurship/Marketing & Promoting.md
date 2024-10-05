@@ -28,6 +28,5 @@ https://wuyou.com/short-video/
 
 
 
-
-
 ## Ref
+[赤子研报06：中国娱乐直播行业研究报告——赤子观点]: https://36kr.com/p/2492071226957700

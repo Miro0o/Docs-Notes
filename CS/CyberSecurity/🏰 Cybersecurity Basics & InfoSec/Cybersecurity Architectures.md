@@ -161,7 +161,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 1. **Specific Security Mechanisms**:
 	1. **Encipherment** (↗ [Modern Cryptography](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Modern%20Cryptography.md))
 		1. The use of mathematical algorithms to transform data into a form that is not readily intelligible. The transformation and subsequent recovery of the data depend on an algorithm and zero or more encryption keys.
-	2. **Digital Signature** (↗ [Digital Signature](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Digital%20Signature/Digital%20Signature.md))
+	2. **Digital Signature** (↗ [Digital Signature & DSA](../🚬%20Cryptology%20&%20Secure%20Communication/🤐%20Cryptography/Modern%20Cryptography/Cryptographic%20Techniques%20for%20Integrity%20&%20Authentication/Message%20Authentication%20(报文鉴别，消息鉴别)/Digital%20Signature%20&%20DSA/Digital%20Signature%20&%20DSA.md))
 		1. Data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery (e.g., by the recipient).
 	3. **Access Control** (↗ [Access Control (访问控制)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 		1. A variety of mechanisms that enforce access rights to resources.

@@ -9,7 +9,7 @@
 ↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
 ↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
 ↗ [Binary Engineering & Software Analysis](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
-↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
+↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
 
 ↗ [Computer Profiling](../../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/Host%20Management/Computer%20Profiling.md)
 
@@ -109,7 +109,7 @@ Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce.
 
 
 ### 🥺 System Calls & Other Function Calls
-> ↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
+> ↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
 #### 👉 `strace` | `dtrace` | `dtruss`
 [strace](https://www.man7.org/linux/man-pages/man1/strace.1.html)
 [dtrace](http://dtrace.org/blogs/about/)

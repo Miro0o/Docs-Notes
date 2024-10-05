@@ -78,3 +78,6 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 👍 🎬【编译原理正规表达式转NFA到DFA再化简】 https://www.bilibili.com/video/BV1mh41187fN/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 
 [Streaming algorithm | Wikipedia]: https://en.wikipedia.org/wiki/Streaming_algorithm#Lower_bounds
+
+[Lecture 7: Streaming Algorithms and Communication Complexity | Stanford]: https://people.csail.mit.edu/rrw/6.045-2020/lec7-color.pdf
+

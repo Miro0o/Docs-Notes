@@ -5,15 +5,14 @@
 
 
 ## Res
-[UML](https://www.uml.org) (Unified Modeling Language) 
+🏠 https://www.uml.org
 
 [ABOUT THE UNIFIED MODELING LANGUAGE SPECIFICATION VERSION 2.5.1](https://www.omg.org/spec/UML/)
 
-- [omg.org](https://www.omg.org/index.htm)
-
-  > The Object Management Group® (OMG®) is an international, open membership, not-for-profit technology standards consortium.
-  >
-  > Founded in 1989, OMG standards are driven by vendors, end-users, academic institutions and government agencies. OMG Task Forces develop enterprise integration standards for a wide range of technologies and an even wider range of industries. [» Read more](https://www.omg.org/about/index.htm).
+[omg.org](https://www.omg.org/index.htm)
+> The Object Management Group® (OMG®) is an international, open membership, not-for-profit technology standards consortium.
+> 
+> Founded in 1989, OMG standards are driven by vendors, end-users, academic institutions and government agencies. OMG Task Forces develop enterprise integration standards for a wide range of technologies and an even wider range of industries. [» Read more](https://www.omg.org/about/index.htm).
 
 
 ### Related Topics
