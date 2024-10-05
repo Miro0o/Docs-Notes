@@ -4,15 +4,16 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
-    ":house:",
     ":arrow_upper_right:",
+    ":house:",
+    ":point_right:",
+    ":construction:",
+    ":botswana:",
     ":clapper:",
     ":thinking:",
-    ":point_right:",
     ":thumbsup:",
     ":pick:",
     ":link:",
-    ":construction:",
     ":people_hugging:",
     ":books:",
     ":open_file_folder:",
@@ -102,7 +103,6 @@
     ":mirror:",
     ":golf:",
     ":angry:",
-    ":keyboard:",
-    ":star2:"
+    ":keyboard:"
   ]
 }

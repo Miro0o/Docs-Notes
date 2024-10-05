@@ -444,18 +444,12 @@ The applicant's undergraduate GPA and depth of preparation in computer science a
 #### 👉 University of Wisconsin-Madison
 https://grad.wisc.edu/apply/
 ##### Computer Science, MS
+https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/#text
+
 https://www.cs.wisc.edu/research/research-groups/
 research groups
 
-132.853 6.315
-14.511 
-8.917
-
-50.116
-21.91
-
 Visit the [department website](https://www.cs.wisc.edu/) for faculty interests, research activities, courses, and additional program information. Students may also be interested in other programs offered by the Department of Computer Sciences, including:
-
 - [Computer Sciences Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/) (MS Computer Sciences: Computer Sciences): A research-oriented master’s degree that prepares students for careers in industry research or for PhD level education in Computer Sciences.
 - [Professional Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-professional-program-ms/) (MS Computer Sciences: Professional Program): This degree is designed for students who are primarily interested in a professional career as a computer scientist in a variety of industries. 
 - [Data Engineering MS](https://guide.wisc.edu/graduate/computer-sciences/data-engineering-ms/): A master’s program focused on principles and practices of managing large data sets.
@@ -672,7 +666,10 @@ https://www.khoury.northeastern.edu/programs/computer-science-ms/
 ##### Cybersecurity, MS/Ph.D
 https://warmup.khoury.northeastern.edu/programs/cybersecurity-ms-2/#request-information
 #### 👉 Northwestern University (NWU)
+#### 👉 University of Virginia (UVa)
+##### Department of Computer Science
 
+https://engineering.virginia.edu/department/computer-science/academics/cs-graduate-programs
 #### 👉 Virginia Tech
 ##### Computer Science & Applications
 https://secure.graduateschool.vt.edu/graduate_catalog/program.htm?programID=002d14431ce38e83011ce38e96c30044&nocache=1705737207838

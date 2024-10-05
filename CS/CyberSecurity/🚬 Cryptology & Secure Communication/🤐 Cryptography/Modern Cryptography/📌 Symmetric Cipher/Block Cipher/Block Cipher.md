@@ -138,6 +138,8 @@ Comparing Modes of Operation: CBC & CTR
 
 
 ### OTP -> ECB -> CBC
+> ↗ [Symmetric Cipher](../Symmetric%20Cipher.md)
+
 #### 1️⃣ ECB (Electronic Code Book)
 $Enc(K, M) = C1 || C2 || … || Cm$
 将每块明文加密成相应的密码块，若最后一块不足64bit， 则用一些任意二进制序列填充。这样相同的明文块总被加密成相同的密文块。
@@ -153,7 +155,7 @@ $Enc(K, M) = C1 || C2 || … || Cm$
 (4) 另外，ECB 模式无法纠正传输中的同步差错， 如果在传输中增加或丢失一个或多个比特，将引起密文分组的对齐错误，这样，整个密文序列都将不能 正确地解密。
 #### 2️⃣ CBC (Cipher Block Chain) (Recommend) 👍
 加入反馈机制，当前明文块在加密之前要与前面的密文块进行异或。
-设明文块为 $m_1，m_2，...， m_N$ 产生的密文块为 $c_1，c_2，..., c_N$ 加密密钥为K，初始随机向量为IV(Initialization Vector)，加密算法记为$E_K$，解密算法记为$D_K$。
+设明文块为 $m_1，m_2，...， m_N$ 产生的密文块为 $c_1，c_2，..., c_N$ 加密密钥为K，初始随机向量为 **IV(Initialization Vector)**，加密算法记为$E_K$，解密算法记为$D_K$。
 
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-25%20at%208.06.06%20PM.png)
 
@@ -185,7 +187,9 @@ $$
 	- Another scheme: Pad with the number of padding bytes
 		- So if you need 1 byte, pad with 01; if you need 3 bytes, pad with 03 03 03
 		- If you need 0 padding bytes, pad an entire dummy block
-		- This is called PKCS \#7
+		- This is called **PKCS \#7**
+
+**PKCS\# 7 is not secure!** 
 ##### Blocking Patterns
 ![](../../../../../../../../Assets/Pics/Screenshot%202023-04-12%20at%203.17.35%20PM.png)
 ##### CBC Features

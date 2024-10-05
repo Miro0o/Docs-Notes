@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Message Digest & Hash Function (Integrity)](../../Message%20Digest%20&%20Hash%20Function%20(Integrity)/Message%20Digest%20&%20Hash%20Function%20(Integrity).md)
-↗ [Digital Signature](../Digital%20Signature/Digital%20Signature.md)
+↗ [Digital Signature & DSA](../Digital%20Signature%20&%20DSA/Digital%20Signature%20&%20DSA.md)
 
 
 

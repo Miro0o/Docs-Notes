@@ -14,7 +14,7 @@
 
 ↗ [The Linux Foundation](../The%20Linux%20Foundation.md)
 ↗ [ASF (Apache Software Foundation)](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)
-↗ [OpenSSF (Open Source Security Foundation)](../../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation)/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
+↗ [OpenSSF (Open Source Security Foundation)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
 
 ↗ [Cloud Computing & Cloud Native](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [OpenStack](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/🔞%20OpenStack/OpenStack.md)

@@ -59,7 +59,7 @@
 (3)**数字签名**
 将散列函数应用于数字签名可以提高高签名的速度，不泄露数字签名所对应的原始消息，而且还可以将消息的签名变换与加密变换分开处理，因此散列函数在数字签名中得到普遍应用。
 
-↗ [Digital Signature](../Message%20Authentication%20(报文鉴别，消息鉴别)/Digital%20Signature/Digital%20Signature.md)
+↗ [Digital Signature & DSA](../Message%20Authentication%20(报文鉴别，消息鉴别)/Digital%20Signature%20&%20DSA/Digital%20Signature%20&%20DSA.md)
 
 
 ### Hash Function Threats

@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 🤔 [CTF & AWD](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/CTF%20&%20AWD/CTF%20&%20AWD.md)
+↗ [Cybersecurity Basics & InfoSec](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md)
 
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
