@@ -1106,6 +1106,14 @@
 		2. vt. 减轻, 为...找借口
 		3. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise)
 		4. **accentuate**重读;**exaggerate**扩大, 增加;**lessen**使…变小;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**minimize**使减到最少;**counteract**对抗;**rectify**改正;**reduce**减少;**minimise**使缩到最小;
+		5. couldn't extenuate the malfeasance; /不能掩饰罪过；
+		6. Nothing can extenuate such appalling behaviour. /这种骇人听闻的行径罪无可恕。
+		7. That is ludicrous! What about extenuating circumstances? What about you're stressed out, you're on deadline, you have a migraine? /太可笑了！那些情有可原的状况呢？你不是常说压力大或是偏头痛？
+		8. To be very brutally honest, there's some extenuating circumstances that make me not comfortable answering that question. /十分坦诚地说，虽然情有可原，但回答这个问题让我觉得不舒服。
+		9. extenuatory
+		10. extenuation
+			1. 
+		11. extenuating
 	4. tenuity
 		1. n. 纤细, 薄, 稀薄, 微弱, 贫乏
 		2.  [thinness](dic://thinness), [slenderness](dic://slenderness)
@@ -1119,7 +1127,7 @@
 		3. _adj._ [weak](dic://weak), [thin](dic://thin)
 		4. _n._ [strong](dic://strong), [thick](dic://thick)
 		5. **precarious**依靠机会的;**shaky**摇晃的;**dubious**可疑的;**fragile**脆的;**uneasy**不舒服的;**flimsy**脆弱的;**improbable**不可信的;**untenable**不能防守的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**iffy**未确定的;**unlikely**不太可能的;
-	7. trendril
+	6. trendril
 		1. 1 - 来自中古法语 tendrillon,小枝，新芽，软骨，-ille,小词后缀，来自拉丁语 tendere,延伸，伸长，词源同 tend,tender.后用于指植物卷须。
 7. **tetan-** = rigid
 	1. tetanus
