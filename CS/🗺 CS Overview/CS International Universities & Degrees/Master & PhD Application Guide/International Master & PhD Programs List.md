@@ -26,6 +26,12 @@ QS World University Rankings by Subject 2023: Computer Science and Information S
 
 我的奋斗：从找不到工作的穷留学生到沙特阿卜杜拉国王科技大学（KAUST）第一位华人高级网络工程师 - 弈心的文章 - 知乎 https://zhuanlan.zhihu.com/p/146003181
 
+https://offer.gter.net/summary/Z8pDorvJyr3y6IOSu2SeHAsDTRKhfH5rEWQ2MGQ~
+985低均分欧陆➕港新英混申总结 （2024fall）
+
+https://offer.gter.net/summary/Z8pDorvJyrj56IOSuzmbHV9eRRKhfH5rEWQ2MGQ~
+24Fall欧陆CS硕士低绩点海投DIY总结
+
 
 ### Application Windows 2024
 13 OCt. ~ 1 Mar.
@@ -35,25 +41,52 @@ QS World University Rankings by Subject 2023: Computer Science and Information S
 ## 🧔🏼‍♀️ Europe
 ### Europe Overview
 ### 🇪🇺 Associated Programs 
-#### 👉 SECCLO
-🏠 https://www.secclo.eu
 #### 👉 Erasmus Mundus
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
 
-Erasmus Mundus，是欧洲大学间的硕士（多数项目）、博士（少数项目）联合培养项目，从你一入学起，同时在至少2个国家，至少2所高校注册，最终拿联合学位，或者至少2个单独的学位。  
-**Erasmus+奖学金金额：硕士约为25000欧元/年，包括以下内容：**  
+Erasmus Mundus，是欧洲大学间的硕士（多数项目）、博士（少数项目）联合培养项目，从你一入学起，同时在至少2个国家，至少2所高校注册，最终拿联合学位，或者至少2个单独的学位。
+**Erasmus+奖学金金额：硕士约为25000欧元/年，包括以下内容：**
 1.3000欧元/年+1000欧元/项目的旅游安置费；  
-2.每月1000欧元生活津贴，每学年按12个月算；  
-3.免除学费（学费约为9000欧元/年），提供保险费。  
-  
-**硕士奖学金申请条件如下**：  
-1．学习成绩优秀；  
-2．国籍为第三世界国家的学生；  
+2.每月1000欧元生活津贴，每学年按12个月算；
+3.免除学费（学费约为9000欧元/年），提供保险费。
+
+**硕士奖学金申请条件如下**
+1．学习成绩优秀
+2．国籍为第三世界国家的学生
 3．近5年内在欧盟国家居留时间总共不超过12个月
 
 [想读热门专业，拿双学位+高额奖学金？计算机AI相关欧盟Erasmus奖学金项目汇总！]: https://mp.weixin.qq.com/s/RdnVXLGDQ5zaptgsi-RjDQ
 
+
+🔍 https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en
+Erasmus Mundus Catalogue
+##### CyberMACS - Master of Applied Cybersecurity
+🏠 https://erasmus-plus.ec.europa.eu/projects/search/details/101082683
+##### CYBERUS - Erasmus Mundus Joint Master in Cybersecurity
+https://erasmus-plus.ec.europa.eu/projects/search/details/101049712
+##### Master's programme in Security and Cloud Computing
+https://erasmus-plus.ec.europa.eu/projects/search/details/619612-EPP-1-2020-1-FI-EPPKA1-JMD-MOB
+##### EMAI - Erasmus Mundus Joint Master In Artificial Intelligence
+https://erasmus-plus.ec.europa.eu/projects/search/details/101082433
+##### SECCLO
+🏠 https://www.secclo.eu
+##### SE4GD
+🏠 https://se4gd.lutsoftware.com
+
 #### 👉 EIT (European Institute of Innovation and Technology)
+🏠 https://eit.europa.eu
+
+All EIT Digital Master School programmes follow the same scheme:
+- Students study one year at an ‘entry’ university and one year at an ‘exit’ university.
+- The first year is similar at all entry points, with a focus on basic courses that lay the foundation for the chosen technical programme. Students are introduced to business and management during this first year. During the second semester, a design project is combined with business development exercises to demonstrate how technology can be transformed into a successful business with optional elective courses. Students are taught how to prepare and present a convincing business plan. 
+- In between the first year and the second year, students participate in the EIT Digital 2 week Summer School programme that addresses business opportunities within a socially relevant theme.
+- The second year offers a specialisation and a graduation project. The graduation project includes an internship at a company or a research institute and cumulates with a Master thesis having a strong innovation and entrepreneurship dimension.
+- Graduates receive degrees from the two universities and a certificate awarded by the European Institute of Innovation and Technology.
+
+To learn more about the I&E minor please click [here](https://masterschool.eitdigital.eu/innovation-entrepreneurship-minor).
+
+
+---
 
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
 
@@ -78,6 +111,13 @@ EIT Manufacturing（EIT制造）
 （1）北京航天航空大学[电子信息工程专业](https://www.zhihu.com/search?q=%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D),2019年毕业，**GPA 87.5/100 托福103,GRE** **321，** 被欧盟**EIT视觉计算和通信项目**，学制2年，并获得**奖学金24,000欧元；**  
 （2）[华北电力大学](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)（北京)[核工程与核技术专业](https://www.zhihu.com/search?q=%E6%A0%B8%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%A0%B8%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)，**GPA81.4/100**，**雅思7.5**，被欧盟**EIT核能硕士**录取，学制2年，并获得欧盟**奖学金30000欧元**  
 （3）[同济大学](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)[电气工程及其自动化专业](https://www.zhihu.com/search?q=%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E5%8F%8A%E5%85%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)；2019年毕业；**GPA 4.62/5.0 雅思 7，**被E**IT[嵌入式系统](https://www.zhihu.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)硕士**项目，学制2年，并获得 **奖学金24,000欧元**
+##### EIT Digital /Masterschool
+https://masterschool.eitdigital.eu
+
+###### Cyber Security
+###### Cloud and Networking Infrastructure
+###### Data Science
+###### Embedded Systems Design
 
 #### 👉 Marie Skłodowska-Curie actions
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
@@ -109,6 +149,9 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 - 对于工业博士学位，应该将至少 50% 的时间花在学术之外
 - 应遵守流动规则：一般而言，他们在招聘日期前36 个月内，在招聘机构所在国家/地区居住或从事主要活动（工作、学习等）的时间不得超过 12 个月（举例说明：如果在英国攻读了硕士学位，可以申请玛丽居里项目内的荷兰博士项目，但不可以申请伦敦博士项目。）
 
+### 🇬‍🇧 U.K.
+#### IC
+
 
 ### 🇧‍🇪 Belgium
 #### 👉 KU Leuven
@@ -121,7 +164,10 @@ https://www.kuleuven.be/programmes/master-engineering-computer-science
 - A significant number of courses are focused on **industry-relevant skills and content**. The high volume of industry-related research projects in the Department of Computer Science allows us to include relevant content in our courses. 
 - Students are also encouraged to carry out an **industrial and research internship abroad** under the supervision of the Internship Coordinator.
 ##### Advanced Master of Cybersecurity
+https://onderwijsaanbod.kuleuven.be/2024/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1
+
 https://www.kuleuven.be/programmes/master-cybersecurity#About
+
 https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1&bl=
 
 The admission policy is intended to ensure equal opportunity of access to higher education for qualified European and third country students. There are two ways to be admitted to the programme:
@@ -201,16 +247,44 @@ https://www.tum.de/en/studies/application/application-info-portal/uni-assist
 #### 👉 CISPA (Helmholtz Center For Information Security)
 ##### Young Researcher Internship Program
 https://career.cispa.de/yrip.html
+#### 👉 Max Planck Institute
+
 #### 👉 Technical University of Munich
 https://www.tum.de/en/studies/application/master/application-master
 ##### Informatics Master of Science 
 https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/
+The following documents have to be submitted for the application (the required documents may vary depending on the applicant):
+- A statement of reasons explaining why you have chosen this master’s program and TUM specifically (max. 2 pages)
+- Your CV/résumé
+- A scientific essay of approx. 1,000 words on a specified topic (see below)
+- Form "**Analysis of the Curriculum**" (see below)
+- Bachelor's degree certificate, including a list of courses and grades OR an official transcript of records. Documents not issued in German or English must be translated and [notarized by a sworn translator](https://www.tum.de/en/studies/application/application-info-portal/notarization "Notarization of Documents").
+- Curriculum (module descriptions, course catalog or syllabus) of the underlying university degree; this document is very important for the check of the academic qualification!
+- Proof of your [English language proficiency](https://www.tum.de/en/studies/application/application-info-portal/admission-requirements/language-certificates)
+- GRE or Gate score for applicants with a B.Sc. degree from Bangladesh, China, India, Iran, Pakistan (original scorecard or have the score transmitted directly via ETS)
+- [Preliminary documentation from uni-assist](https://www.tum.de/en/studies/application/application-info-portal/uni-assist) for all applicants with a Bachelor's degree from outside the EU/EEA
+- [APS certificate](https://www.tum.de/en/studies/application/application-info-portal/aps) for applicants with a Bachelor's from China, Vietnam or India
+- Certificates from professional training or additional qualifications related to the program (e.g. participation in research competitions, internships, etc.) (not mandatory)
+- A passport photo
+- A copy of your passport
+
+Applicants with a Degree from Bangladesh, China, India, Iran or Pakistan have to submit a GRE (General) Test. **We have defined required minimum scores, lower scores will not be accepted!**
+
+The required scores are:  
+Verbal reasoning: (will not be taken into account anymore)  
+Quantitative reasoning: 164  
+Analytical writing: 4.0  
+The Institution Code: 7806, Department: 5199 ("all other departments").
+
 #### 👉 Ludwig-Maximilians-Universität München
 #### 👉 Universität Heidelberg
 #### 👉 KIT, Karlsruhe Institute of Technology
 #### 👉 RWTH Aachen University
 #### 👉 Freie Universitaet Berlin
 #### 👉 Humboldt-Universität zu Berlin
+#### 👉 Ruhr-University Bochum
+#### 👉 University of Stuttgart
+
 
 ### 🇫‍🇷 France
 **“卓越大学计划 (IDEX)”院校** (2022)
@@ -357,14 +431,14 @@ https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-p
 #### 👉 University of Twente
 ##### Master of Computer Science
 https://www.utwente.nl/en/education/master/programmes/computer-science/
-The tracks
-- [Big Data Engineering](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Big-Data-Engineering)
-- [Computer Systems and Infrastructure](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Computer-Systems-and-Infrastructure)
-- [Foundations of Computing and Concurrency](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Foundations-of-Computing-and-Concurrency)
-- [Software Engineering and Green IT](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Software-Engineering-and-Green-IT)
-
+- [Cyber Security](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/cyber-security/) 
+- [Data Science & Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/data-science-technology/)
+- [Software Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/software-technology/)
+- [Internet Science & Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/internet-science-technology/)
 #### 👉 TU/e (Eindhoven University of Technology)
 ##### Master Program: Computer Science and Engineering
+https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering?_gl=1*2pgqpn*_up*MQ..*_ga*MTcwNzczNjg4My4xNzI4MTYwOTUw*_ga_JN37M497TT*MTcyODE2MDk0OS4xLjEuMTcyODE2MTAzOC4wLjAuMA..
+
 https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/computer-science-and-engineering-1/country/china
 ##### Research Group: Security (SEC)
 https://www.tue.nl/en/research/research-groups/computer-science/security
@@ -374,7 +448,16 @@ https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science
 Application Info
 - https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines
 - https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/required-documents
-#### 👉 Utrecht University
+Please note: admission for Non-EU nationals with an international (Non-Dutch) bachelor degree will be granted based on ranked batch admission.
+- The application deadline is 15 January (23:59 CEST) after which applications are ranked by the admission committee.
+- The ranking criteria are Academic Performance and Study Load in Key Subjects, CGPA, GRE, English level, Motivation and Demonstrated Self-Efficacy.
+- Applicants that do not meet our admission requirements will receive the admission decision (rejection letter) within 12 weeks after applying.
+- Applicants that fulfil the admission requirements will receive the admission letter mid-March.
+- Admission is granted to the best ranked students. Students who are ranked outside of the capacity receive a rejection letter.
+
+There will be no correspondence on ranking criteria or relative ranking numbers.
+
+
 ### 🇩🇰 Danmark
 #### 👉 University of Copenhagen
 
@@ -799,15 +882,15 @@ https://sgs.calendar.utoronto.ca/degree/Computer-Science
 
 ## 🧔‍♀️ Asia
 ### 🇰🇷 Korea
-#### Korea University
+#### 👉 Korea University
 ##### CCS Lab
 https://ccs.korea.ac.kr/people/
 
-#### Seoul National University
+#### 👉 Seoul National University
 
-#### KAIST
+#### 👉 KAIST
 
-#### Yonsei University
+#### 👉 Yonsei University
 
 
 ### 🇯🇵 Japan

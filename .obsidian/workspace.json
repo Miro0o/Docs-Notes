@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "9ace0c551b5ea370",
+            "id": "8d283cdd74d48cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Satisfiability (SAT) Solver/Kissat SAT Solver.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,25 +47,12 @@
             }
           },
           {
-            "id": "79901e75c4529321",
+            "id": "d58e68011b18d1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Go Testing Frameworks/Ginkgo & Gomega.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e1168e0509d2e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving/Software Verification & Security Proving.md",
+                "file": "CS/Academics/Academics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.50271224975586
+    "width": 456.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving/Software Verification & Security Proving.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving/Software Verification & Security Proving.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving/Software Verification & Security Proving.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md"
               }
             }
           },
@@ -208,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,11 +211,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8e1168e0509d2e09",
+  "active": "8d283cdd74d48cba",
   "lastOpenFiles": [
+    "CS/Academics/Academics.md",
+    "CS/Academics/Academic Institutions in Electronic & Information Fields.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Design.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Satisfiability (SAT) Solver/Kissat SAT Solver.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Go Testing Frameworks/Ginkgo & Gomega.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving/Software Verification & Security Proving.md",
     "Entrepreneurship/Marketing & Promoting.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving/Formal Verification (FV)/Formal Verification (FV).md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving/Software Verification & Security Proving.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Security.md",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Logics & Verification & Provers.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Verification & Analysis Programming Languages/Dafny.md",
@@ -245,16 +241,7 @@
     "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
     "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Usenix Security Symposium.md",
     "CS/🗺 CS Overview/📆 Conference & Events (Industry & Academia)/Conferences & Events in Academia.md",
-    "CS/🗺 CS Overview/📆 Conference & Events (Industry & Academia)/Conference & Events in Industry.md",
-    "CS/🔑 CS Core/Electronics & Information Technologies Business Fields Research/Electronics & Information Technologies Business Fields Research.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Go Testing Frameworks/Ginkgo & Gomega.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Go Testing Frameworks/Go Testing Frameworks.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Mathematical Logics.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Go Testing Frameworks",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Logic Programming Languages/Logic Programming Languages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Golang/Golang.md",
-    "CS/Academics/Academic Research Group Profiles/U.S.A Based.md",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Satisfiability (SAT) Solver",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Satisfiability Modulo Theory (SMT) Solvers",

@@ -5,7 +5,6 @@ UCB CS161 Project 2 Design - Cryptographic Secure File Sharing System
 #### High-Level Design
 
 1. **Encryption**
-
    All data stored in the datastore is encrypted and secured with an HMAC or digital signature. There are three combinations of encryption and integrity check depending on different types of the data
 
    1. AES-CTR + SHA512
