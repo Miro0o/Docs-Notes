@@ -58,9 +58,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6878fa08f0571935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1a88b71c2cf1c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c66b1e80ffe91d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8987eb66548dbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -127,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md"
               }
             }
           },
@@ -211,12 +263,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d283cdd74d48cba",
+  "active": "e8987eb66548dbed",
   "lastOpenFiles": [
     "CS/Academics/Academics.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/Academics/Academic Institutions in Electronic & Information Fields.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Design.md",
@@ -234,13 +293,6 @@
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/Software Verification & Security Proving",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Software Analysis & AI & LLM.md",
     "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Software Analysis/Malicious Code Detection & Software Analysis.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Malicious Codes & Software Engineering/Malicious Codes & Software Engineering.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Risk Countermeasures & Security Control.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Security Audit & Security Audit Trail/Security Audit & Security Audit Trail.md",
-    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
-    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Usenix Security Symposium.md",
-    "CS/🗺 CS Overview/📆 Conference & Events (Industry & Academia)/Conferences & Events in Academia.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/🚠 Application Runtimes & SDKs/Golang Runtime Environments/Go Testing Frameworks",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Satisfiability (SAT) Solver",

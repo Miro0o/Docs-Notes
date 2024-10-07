@@ -1192,8 +1192,7 @@
 		5. impairment
 		6. impaired
 3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
-	1. peccability, impaccability
-	2. peccable
+	1. peccable
 		1.  [peccant](dic://peccant)
 		2. _adj._ [wicked](dic://wicked)
 		3. _n._ [virtuous](dic://virtuous)
@@ -1202,11 +1201,12 @@
 			2. _adj._ [perfect](dic://perfect), [virtuous](dic://virtuous)
 			3. _n._ [imperfect](dic://imperfect), [wicked](dic://wicked)
 			4. **superb**极好的;**immaculate**整洁的, 无污迹的;**flawless**无瑕疵的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**exquisite**精致的, 精美的;**excellent**优秀的, 卓越的, 杰出的;**meticulous**极仔细的;**first-rate**第一流的,最佳的;**unmatched**无敌的, 无比的;**unsurpassed**未被凌驾的,非常卓越的;
-	3. peccadillo
+		5. peccability, impaccability
+	2. peccadillo
 		1. _n._ [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
 		2. **transgression**犯罪;**sordid**肮脏的;**scandalous**令人反感的;**scandal**丑闻;**blunder**的错误;**scandals**丑闻;**indulgence**放纵;**shameful**可耻的;**adultery**通奸，通奸行为;**narcissism**自恋，自我陶醉;**embarrassment**困窘;
 		3. _[peccadillo](dic://peccadillo)_  n. 轻罪；小过失；小瑕疵
-	4. peccancy
+	3. peccancy
 		1. n. 违章；罪行
 		2. _peccancy driving_ 违章驾驶
 		3. _parking peccancy_ 违章停车
@@ -1217,11 +1217,11 @@
 		8. _peccancy y_ 有罪
 		9. _peccancy detection_ 违章检测
 		10. _tourist peccancy_ 游客违章行为
-	6. peccant
+	4. peccant
 		1. _adj._ [wicked](dic://wicked)
 		2. _n._ [virtuous](dic://virtuous)
 		3. impeccant
-	7. peccavi
+	5. peccavi
 		1. _[peccavi](dic://peccavi)_  n. （拉）认罪；忏悔
 4. **ped-** = = foot, 表示“脚”。源自拉丁语 pes (词干 ped-) "foot."
 	1. impeach
@@ -1229,20 +1229,52 @@
 	2. biped, centipede, cirriped(cirripede), multiped, palmiped, quadruped. taliped, uniped, pinniped, 
 		1. pedis, peduncle
 	3. expedite
-		1. expedient
-		2. inexpedience, inexpedient
-	4. impede
-		1. unimpeded
-		2. impedin
-		3. impedimeter
-		4. impedimenta
-		5. impediment
-		6. impedance
-	6. millepede, millipede
-	7. pedal
+		1. vt. 加快, 促进, 发出  
+		2. a. 畅通的, 无阻碍的, 迅速的, 方便的
+		3. ex-向外 + ped-脚，脚镣，即解脱脚镣的束缚，加快速度，或来自比喻义，解脱脚的束缚，飞起来。
+		4. expeditious
+			1. expeditiously
+		5. expedition
+			1. expeditionary
+	4. expedient
+		1. 来自 expedite,加速。引申词义权宜之计。
+		2. adj. 权宜的；方便的；有利的 
+		3. n. 权宜之计；应急手段
+		4. _n._ [means](dic://means), [agency](dic://agency), [way](dic://way)
+		5. _adj._ [advantageous](dic://advantageous), [appropriate](dic://appropriate), [opportunist](dic://opportunist), [opportunistic](dic://opportunistic), [timeserving](dic://timeserving), [politic](dic://politic)
+		6. _n._ [inexpedient](dic://inexpedient), [impolitic](dic://impolitic)
+		7. **practicable**可实行的;**feasible**可行的;**convenient**便利的;**cost-effective**有成本效益的,划算的;**prudent**谨慎的;**eminently**很;**advantageous**有利的;**efficient**有能力的, 效率高的;**amenable**有责任的，应服从的;**agreeable**欣然同意的;**preferable**更好的, 更适合的, 更可取的;
+		8. There are others to whom Idleness dictates another expedient, by which life may be passed unprofitably away without the tediousness of many vacant hours /对于其他一些人来说，懒散还有另一种表现形式，时光纵然白白流逝，而他们并没有因为许多小时没有做什麽而感到无聊乏味。
+		9. The Era of Procrastination, of Half-Measures, of Sooting and Baffing Expedients, of Delays, is Coming to its Close. /继续拖延、折衷、和自我安慰式的权宜之计的时代已经接近尾声，却而代之的。
+		10. Relaxing cannabis laws was also politically expedient. /放松大麻法律在政治上也是权宜之计。
+		11. Was it right or wrong? I fear it was wrong, though expedient /这是对呢？还是不对呢？恐怕这是不对的，虽然只好这样。
+		12. expediently
+		13. expediential
+		14. expediency
+		15. expedience
+		16. inexpedience, inexpedient
+	6. impede
+		1. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
+		2. vt. 妨碍, 阻碍, 阻止
+		3. im-进入 + ped-脚 + -e → 把脚放进去 → 妨碍。
+		4. [hinder](dic://hinder)
+		5. [obstruct](dic://obstruct), [obturate](dic://obturate), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
+		6. _v._ [prevent](dic://prevent), [keep](dic://keep), [hinder](dic://hinder)
+		7. **hinder**成为阻碍;**obstruct**阻塞;**inhibit**抑制;**impair**削弱;**interfere**干预;**disrupt**使分裂;**undermine**在某物下挖洞或挖通道;**jeopardize**危及, 损害;**hamper**妨碍;**preclude**妨碍;**thwart**反对;
+		9. unimpeded
+			1. 【法】 无阻的, 不受阻的
+		10. impedin
+		11. impedimeter
+		12. impedimenta
+		13. impediment
+			1. n. 妨碍, 障碍, 阻止, 口吃
+			2. impediment - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
+		14. impedance
+	8. millepede, millipede
+	9. pedal
 		1. pedalo
 		2. pedestal
-	8. pedestrian
+	10. pedestrian
 		1. pedestrian - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		2. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
 		3. _adj._ [uninteresting](dic://uninteresting)
@@ -1257,13 +1289,15 @@
 			8. _pedestrian subway_ 地下人行道
 			9. _pedestrian overcrossing_ 人行天桥
 			10. _pedestrian area_ 行人专区；步行街
-	9. pedate
+	11. pedate
 		1. a. 有脚的, 脚状的, 鸟脚状的
 		2. _adj._ [compound](dic://compound), [footed](dic://footed)
 		3. _n._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [footless](dic://footless)
-	10. pedicure
-	11. pediform
-	12. pedigree
+	12. pedicure
+		1. n. 脚治疗, 脚治疗医师, 修趾甲术  
+		2. vt. 修脚, 医脚
+	13. pediform
+	14. pedigree
 		1.  [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
 		2.  [bloodline](dic://bloodline)
 		3.  [pedigreed](dic://pedigreed), [pureblood](dic://pureblood), [pureblooded](dic://pureblooded), [thoroughbred](dic://thoroughbred)
@@ -1273,44 +1307,56 @@
 		7. _[pedigrees](dic://pedigrees)_  家系; [遗] 谱系，[遗] 血统; 衍生后代; 
 		8. _[pedigree selection](dic://pedigree%20selection)_  [遗] 谱系选择
 		9. _[pedigree chart](dic://pedigree%20chart)_  系谱图；家谱；谱系图
-	13. pediment
+	15. pediment
 		1. n. 山形墙, 三角墙, 山花饰
-	14. pedometer, pedosphere
-	15. peddle
+	16. pedometer, pedosphere
+	17. peddle
 		1. vi. 挑卖, 沿街叫卖, 游荡, 闲混 
 		2. vt. 叫卖, 兜售, 散播
-	16. pedler
+	18. pedler
 		1. n. 小贩, 货郎, 流动商贩, (喻)兜售者, 传播者
 		2. pedlary
 			1. n. 小贩的货物, 小贩的营生
 		3. pedlar
 			1. n. 沿街叫卖的小贩, (流言)传播者
-	17. pedrail
-	18. pedicab
+	19. pedrail
+	20. pedicab
 		1. n. (人力)三轮车
-	19. taliped
+	21. taliped
 		1. a. 拐脚的, 畸形脚的
-	20. uniped
+	22. uniped
 		1. a. 独脚的, 独腿的
-	21. velocipede
+	23. velocipede
 		1. n. 脚踏两轮车, 孩童用三轮车
-	22. cirripede
+	24. cirripede
 		1. n. 蔓脚类动物
-	23. despatch, dispatch
-	24. fetch
+	25. despatch, dispatch
+	26. fetch
 		1. fet-=fed-脚。即跑腿。
-	25. orthopeady
-	26. parallelepiped
-	27. patrol
+	27. orthopeady
+	28. parallelepiped
+		1. n. 平行六面体
+	29. patrol
 		1. patrol - 这是从法语吸收过来的大量军事用语之一。17世纪始用于英语，源自法语patrouiller，而patrouiller又是从古法语patouiller演化而来，原意是flounder in mud（在泥巴里蹒跚而行）。这大概是因为古时军营中夜巡的卫兵往往是在泥巴中来回走个没完，所以才用了这样一个词。
-	28. patten
+	30. patten
 		1. n. 木套鞋, 木底鞋
-	29. peon,
-	30. pilot
-	31. pioneer
-	32. stapes
+	31. peon,
+	32. pilot
+		1. n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人  
+		2. vt. 领航, 驾驶, 引导, 试用  
+		3. a. 引导的, 控制的, 试点的
+		4. 来自拉丁语 pilotus,驾驶员，领航员，异化自 pedota,来自希腊语 pedon,桨，舵，词源同foot,pioneer.字母 d,l 音变，比较 odor,olfactory.
+		5. piloteless
+		6. piloting
+		7. pilothouse
+		8. pilotage
+		9. gyropilot
+		10. copilot
+		11. autpilot
+	33. pioneer
+	34. stapes
 		1. n. 镫骨
-	33. trivet
+	35. trivet
 		1. n. 三脚架
 5. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
 	1. pessimism
@@ -6515,25 +6561,132 @@
 
 
 ## po
+### pock- = sack，表示“袋”。
+1. poach
+	1. vt. 水煮(蛋), 偷猎, 侵入, 窃取  
+	2. vi. 偷猎, 陷入泥中
+	3. 1 - 来自古法语 pochier,放入口袋，包起来，来自 poche,包，包裹，来自 Proto-Germanic*puk,袋子，来自 PIE*bu,beu,鼓起，膨胀，词源同 ball,pock,pouch.后用于比喻义像蛋白包裹着蛋黄，引申词义炖，煨，煮。  
+	4. 2 - 词源不确定，可能来自法语 pocher,装入口袋，词源同 poach.或来自古法语 pochier,刺，捅，词源同 poke.引申词义越界，偷猎，偷捕。
+	5. poaching
+	6. poacher
+	7. poach a start in a race /在比赛中抢跑
+	8. Poach the fish in wine. /以酒烹调鱼
+	9. poach for fresh ideas /(从他人著作中)盗取新观点
+	10. He poached an egg for breakfast. /他的早饭是水煮荷包蛋。
+	11. poach in other people's business /侵犯别人的领域
+	12. He has been poaching on her land for years, poaching mainly fish and rabbits. /数年来他一直在她的土地上偷猎, 主要捕鱼和偷猎兔子。
+	13. The swamp country is inclined to poach in winter. /这片沼泽地带在冬季一踏就陷下去了。
+	14. Also important are the protection of water supplies, the control of poaching, and improved monitoring of equid populations. /另外，保护水源、阻止盗猎，以及提升监测野生马族群的技术，也都是亟待进行的工作。
+3. pock
+	1. 来自古英语 pocc,脓肿，水泡，来自 Proto-Germanic*puk,袋子，来自 PIE*beu,鼓起，膨胀，词源同 poach,pouch.引申词义痘痕，麻子，小洞，小坑等。
+	2.  n. 痘痕；麻子
+	3. vt. 使有麻点
+	4.  [scar](dic://scar), [mark](dic://mark), [pit](dic://pit)
+	5. _n._ [pustule](dic://pustule)
+	6. _v._ [deface](dic://deface), [disfigure](dic://disfigure), [blemish](dic://blemish)
+	7. **scars**疤痕;**dents**花边边饰;**marked**有记号的;**creases**摺痕;**pimples**丘疹，面疱;
+	8. I had a chicken pock right here back in the day /那天我在这里生了一个鸡痘。
+	9. But these fabrics turned brittle and were pocked with holes after deep-freeze storage /但这些织物在深度冷冻储存后变脆并布满破洞。
+	10. The district is **pock**-marked with caves. /这个地区布满了坑洞。
+	11. Many officers said their biggest challenge was staying upright on the city's bumpy and sometimes **pock**-marked roads /很多警察称，穿着冰鞋在该市崎岖不平、有时还坑坑洼洼的路面上站稳是他们面临的最大挑战。
+4. pockmark
+5. pocket
+6. pouch
+	1. 来自古法语 poche,钱包，口袋，词源同 pocket,poach.
+	2.  [sac](dic://sac), [sack](dic://sack), [pocket](dic://pocket)
+	3.  [pocket](dic://pocket)
+	4.  [bulge](dic://bulge), [protrude](dic://protrude)
+	5. _n._ [bag](dic://bag), [cavity](dic://cavity), [enclosed space](dic://enclosed space), [sac](dic://sac)
+	6. _v._ [bag](dic://bag), [mail](dic://mail), [get off](dic://get off), [change shape](dic://change shape), [change form](dic://change form), [deform](dic://deform)
+	7. **bag**袋;**pocket**口袋;**zippered**拉链式的;**drawstring**拉带,细绳;**backpack**远足用的背包;**zipper**拉链;**purse**钱包，小钱袋;**tote**携带;**handbag**手提包;**strap**用带捆绑;**compartment**间隔, 隔间;
+	8. _retort pouch_ 蒸煮袋；杀菌袋
+	9. _tobacco pouch_ 烟草袋
+	10. _brood pouch_ 育仔囊；育儿袋
+7. pucker
+	1.  来自 pock,鼓起，口袋，词源同 pocket.-er,表反复。后引申词义皱起，噘嘴等。
+	2. vt. 折叠；使起皱；使缩拢 
+	3. vi. 折叠；皱起；缩拢 
+	4. n. 皱纹；皱褶
+	5.  [ruck](dic://ruck)
+	6.  [rumple](dic://rumple), [cockle](dic://cockle), [crumple](dic://crumple), [knit](dic://knit)
+	7.  [gather](dic://gather), [tuck](dic://tuck)
+	8. [ruck](dic://ruck), [ruck up](dic://ruck up)
+	9. _n._ [fold](dic://fold), [crease](dic://crease), [plication](dic://plication), [flexure](dic://flexure), [crimp](dic://crimp), [bend](dic://bend)
+	10. _v._ [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
+	11. **lips**嘴唇;**cheeks**面颊;**cheek**面颊，脸颊;**wrinkle**皱纹;**kiss**吻;**bulge**膨胀, 肿起;**lip**嘴唇;**tongue**语言;**crotch**胯部，分叉处;**plump**丰满的;**chin**下巴;
+	12. _[pucker up](dic://pucker%20up)_  使…缩拢；发脾气
+	13. _[seam pucker](dic://seam%20pucker)_  缝骨起皱
+	14. pucker a piece of cloth
+	15. a pucker between his eyebrows /他眉间的皱纹。
+	16.  pucker up at the shoulders /(衣服)肩部皱起
+	17. His brow puckered for a brief moment. " Incredulous, for the most part." /那一瞬间，他的额头皱了起来：“不靠谱，大部分是这样。”
+	18. Her lips puckered in disappointment at the transparent honesty in my voice /她撅起嘴，对我话里再明白不过的坦诚很是失望。
+	19. His face puckered, and then he finally chuckled. You're playing baseball? /他皱起脸，最终轻笑起来。“你要打棒球？”
+	20. 
+
+
 ### pom- = fruit, apple. 原意表示“水果”，后指“苹果”，源自拉丁语 pomus 。
-1. pomace, pomaceous
+1. pomace
+	1. n. 酱状物, 果渣, 油渣
+	2. 来自 pome,苹果，-ace,名词后缀，表相关性。
+	3. pomaceous
 3. pomade
-	1. **shampoo**洗发;**hair**头发;**mousse**奶油冻;**shampoos**洗发剂;**eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**lotion**洗液;**deodorant**除臭剂;**lather**肥皂泡;**ponytail**马尾辫;**hairstyle**发型;
-	2. [hairdressing](dic://hairdressing), [hair tonic](dic://hair tonic), [hair oil](dic://hair oil), [hair grease](dic://hair grease)
+	1.  来自 pome,苹果，-ade,汁，酱，词源同 lemonade.因这种发油原材料含有苹果而得名。
+	2. n. 润发油，头油 
+	3. v. 涂以润发油，给……擦头油（或发油）
+	4. **lip pomade**:  润唇膏 
+	5. **hair pomade**:  润发脂；润发油 
+	6. **Eyelash pomade**:  睫毛膏
+	7.  [pomatum](dic://pomatum)
+	8. **shampoo**洗发;**hair**头发;**mousse**奶油冻;**shampoos**洗发剂;**eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**lotion**洗液;**deodorant**除臭剂;**lather**肥皂泡;**ponytail**马尾辫;**hairstyle**发型;
+	9. [hairdressing](dic://hairdressing), [hair tonic](dic://hair tonic), [hair oil](dic://hair oil), [hair grease](dic://hair grease)
+	10. All of it? Even my hair pomade? -Gives me stomachache. /所有这些？连我的润发油也是？-它让我胃痛。
+	11. And I can see him now. A funny little foreigner with a wide, toothy grin and hair reeking of pomade. /我能想到他的样子。矮个外国人，一笑露出后槽牙，头发散发着恶臭的发油味。
+	12. But she hadn't enough money to buy pomade for her ponytail. /但她没足够的钱为自己的马尾辫买润滑油。
+	13. The brow pomade is kind of shiny, which is really important because your eyebrow hairs are shiny and they catch light. /眉油有点闪亮，这非常重要，因为你的眉毛很闪亮，而且会发光。
 4. pomander
+	1. - n. 香盒；（防虫和防臭用）香丸
 5. pome
-	1. **fruit**水果;**pear**梨树;**peach**桃子;**rind**外皮;**peaches**桃子;**fruits**水果;
+	1. - n. [植] 梨果（由子房和花托发育而成的果实，如苹果、梨等）
+	2. [false fruit](dic://false fruit)
+	3. **fruit**水果;**pear**梨树;**peach**桃子;**rind**外皮;**peaches**桃子;**fruits**水果;
+	4. I made a 'pome' yesterday, when I was helping Hannah wash, and as Father likes my silly little things, I put it in to amuse him. /昨天帮汉娜洗衣服时，得“苹果”一只。既然父亲爱看我笨拙的小玩意儿，便随信附上，逗他一乐。
+	5. 
 6. pomegranate
-	1. **cranberry**越橘;**apricot**杏树;**mango**芒果;**watermelon**西瓜;**fruit**水果;**berry**浆果;**peach**桃子;**grapefruit**葡萄柚;**lemon**柠檬色的;**almond**杏仁;**pear**梨树;
+	1. n. 石榴
+	2. 1.pomegranate（石榴）：有许多颗粒的水果  
+	3. 英语单词pomegranate（石榴）来自拉丁语pomum granatum，字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。  
+	4. pomegranate：['pɒmɪgrænɪt] n.石榴  
+		1. grain： [ɡren] n. 粮食；谷物；颗粒；纹理v. （使）成谷粒  
+		2. engrain：[ɪn'ɡreɪn] vt. 使根深蒂固；把…染成木纹色adj. 根深蒂固的  
+		3. granulate：['grænjə,let] v.（使）成颗粒状；（使）表面变粗糙  
+		4. granite： ['grænɪt] n. 花岗岩  
+	5. 2.grenade（手榴弹）：状若石榴的炸弹  
+		1. 英语单词grenade（手榴弹）来自英语中表示“石榴”的单词pomegranate。之所以得此名称是因为早期的手榴弹形状很像石榴，而且里面填充的大量杀伤性碎片很像石榴里面的石榴籽。它的中文名称“手榴弹”中的“榴”指的就是“石榴”。  
+		2. grenade：[grə'neɪd] n.手榴弹，手雷vt.扔手榴弹  
+		3. grenadier：[,ɡrɛnə'dɪr] n. 掷弹兵  
+		4. pomegranate：['pɑmɪɡrænɪt] n. 石榴
+	6. **cranberry**越橘;**apricot**杏树;**mango**芒果;**watermelon**西瓜;**fruit**水果;**berry**浆果;**peach**桃子;**grapefruit**葡萄柚;**lemon**柠檬色的;**almond**杏仁;**pear**梨树;
+	7. 
 7. pomiculture
 8. pomelo
-	1. **papaya**木瓜;**mango**芒果;**grapefruit**葡萄柚;**mandarin**官话;**melon**瓜;**pineapple**菠萝;**citrus**柑橘属果树;**watermelon**西瓜;**cucumber**黄瓜;**lemon**柠檬色的;**peach**桃子;
-	2. [citrus](dic://citrus), [citrus tree](dic://citrus tree), [citrus fruit](dic://citrus fruit), [citrous fruit](dic://citrous fruit)
-9. pommel
-	1. **sword**刀，剑;**spear**矛，枪;**dressage**花式骑术训练;**dagger**匕首，短剑;**horse**马;**blade**刀片，刀锋;**saddle**鞍，鞍状物;**bronze**青铜;**swords**宝剑;**hammer**敲打;**gymnast**体操运动员;
-	2. [handle](dic://handle), [grip](dic://grip), [handgrip](dic://handgrip), [hold](dic://hold), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
-	3. [pummel](dic://pummel), [biff](dic://biff)
-	4. [saddlebow](dic://saddlebow)
+	1.  [pomelo tree](dic://pomelo tree), [pummelo](dic://pummelo), [shaddock](dic://shaddock), [Citrus maxima](dic://Citrus maxima), [Citrus grandis](dic://Citrus grandis), [Citrus decumana](dic://Citrus decumana)
+	2. **papaya**木瓜;**mango**芒果;**grapefruit**葡萄柚;**mandarin**官话;**melon**瓜;**pineapple**菠萝;**citrus**柑橘属果树;**watermelon**西瓜;**cucumber**黄瓜;**lemon**柠檬色的;**peach**桃子;
+	3. [citrus](dic://citrus), [citrus tree](dic://citrus tree), [citrus fruit](dic://citrus fruit), [citrous fruit](dic://citrous fruit)
+	4. But the grapefruit, a hybrid of pomelo and sweet orange, can be traced back to Barbados, around the mid-1600s. /葡萄柚是柚子和甜橙的杂交品种，它的历史可以追溯到17世纪中期的巴巴多斯。
+	5. Shanghai First Foodhall, a landmark food store on the Nanjing Road Pedestrian Mall, has launched two new flavors – mango pomelo sago and coconut latte – for its mooncakes this year. /位于南京路步行街上的标志性食品店上海第一食品商店今年推出了两种新口味的月饼——杨枝甘露和生椰拿铁。
+	6. You see, most of the citrus fruits we enjoy today come from the citron, pomelo, and mandarin, which originated in the south and east Asia up to seven million years ago /你看，我们今天享用的大部分柑橘类水果来自于柚子、柚子和柑橘，它们起源于700万年前的南亚和东亚。
+9. pommel 
+	1. n. （刀剑柄）圆头；马鞍的鞍桥 
+	2. vt. 用拳头连续打
+	3. **sword**刀，剑;**spear**矛，枪;**dressage**花式骑术训练;**dagger**匕首，短剑;**horse**马;**blade**刀片，刀锋;**saddle**鞍，鞍状物;**bronze**青铜;**swords**宝剑;**hammer**敲打;**gymnast**体操运动员;
+	4. [handle](dic://handle), [grip](dic://grip), [handgrip](dic://handgrip), [hold](dic://hold), [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+	5. [pummel](dic://pummel), [biff](dic://biff)
+	6. [saddlebow](dic://saddlebow)
+	7. This one has a hilt inlaid with turquoise, and has a pommel formed of eleven concentric circles. /这把剑柄上镶嵌着绿松石，剑头由十一个同心圆组成。
+	8. So I had a new pommel made. It's called Longclaw. /所以重新打造了剑柄尾端 它叫长爪。
+	9. Who gave you that sword with the gold lion on the pommel? /是谁给了你那把柄头雕着金狮子的剑？
+	10. 
 10. pomology
 
 
@@ -7167,138 +7320,367 @@
 		3. **otherworldly**非现实世界的;**supernatural**超自然的;**superhuman**超人的;**innate**先天的;**uncanny**可怕的;**inexplicable**无法说明的;**mystical**神秘的;**possessed**着魔的;**demonic**有魔力的，恶魔的;**knack**诀窍;**magical**魔术的;
 	7. pretersensual
 4. **prim-** = first, chief, “第一，主要的”
-	1. prima, primacy, primage, primary, prime, 
-		1. primely
-		2. primer, primus, 
-		3. premier, primeminister
-		4. priming
-	2. primipara, primiparity, primiparous
-		1. **preterm**早产，早产儿;**gestational**妊娠期的;**postpartum**产后的;**gestation**怀孕;**pregnant**怀孕的;**neonatal**新生的;**pregnancy**怀孕;**midwife**助产士;**childbirth**分娩;**mothers**母亲;**placenta**胎盘;
-		2. **preterm**早产，早产儿;**postpartum**产后的;**gestation**怀孕;**gestational**妊娠期的;**pregnant**怀孕的;**lactation**分泌乳汁;**mothers**母亲;**neonatal**新生的;**cohort**一群人;**expectant**期待的, 期望的;**midwife**助产士;
-		3. 
-	3. primate
-		1. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [prelate](dic://prelate)
-		2. _n._ [priest](dic://priest), [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal)
-		3. **ape**猿;**mammal**哺乳动物;**mammalian**哺乳动物;**monkey**猴子;**non-human**非人类的;**rodent**啮齿目动物;**monkeys**猴子;**gorilla**大猩猩;**mammals**哺乳类;**vertebrate**脊椎动物;**human**人的;
-	4. primal
-		1. [cardinal](dic://cardinal), [central](dic://central), [fundamental](dic://fundamental), [key](dic://key)
-		2. [aboriginal](dic://aboriginal), [primeval](dic://primeval), [primaeval](dic://primaeval), [primordial](dic://primordial)
-		3. _adj._ [important](dic://important), [of import](dic://of import), [early](dic://early)
-		4. _n._ [unimportant](dic://unimportant), [middle](dic://middle), [late](dic://late)
-		5. **primordial**原始的;**visceral**发自肺腑的;**instinct**本能，直觉;**instinctive**本能的;**savage**残酷的;**primitive**原始的;**elemental**自然力的;**transcendent**卓越的;**transcendental**超凡的;**sensual**感觉的;**subconscious**下意识的;
-	5. primeval
-		1.  [aboriginal](dic://aboriginal), [primal](dic://primal), [primaeval](dic://primaeval), [primordial](dic://primordial)
-		2. _adj._ [early](dic://early)
-		3. _n._ [middle](dic://middle), [late](dic://late)
-		4. **primordial**原始的;**primal**最初的;**primitive**原始的;**prehistoric**史前的;**savage**残酷的;**cosmos**宇宙;**cosmic**宇宙的;**mystical**神秘的;**ancient**古代的;**otherworldly**非现实世界的;**subterranean**地表下面的;
-	6. primitive
-		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [formula](dic://formula)
-		2. _adj._ [early](dic://early), [noncivilized](dic://noncivilized), [noncivilised](dic://noncivilised), [untrained](dic://untrained)
-		3. _n._ [late](dic://late), [civilized](dic://civilized), [civilised](dic://civilised), [trained](dic://trained)
-		4. **rudimentary**基本的;**archaic**古代的;**prehistoric**史前的;**barbaric**野蛮的，粗野的;**primordial**原始的;**savage**残酷的;**primal**最初的;**civilized**文明的,非野蛮的;**modern**现代的，近代的;**civilization**文明, 文化;**antiquated**陈旧的;
-		5. _primitive religion_ 原始宗教
-		6. _primitive people_ 原始人；原始民族
-		7. _primitive culture_ 原始文明
-		8. _primitive type_ 原始类型；原语类型
-		9. _primitive accumulation of capital_ 原始资本积累
-		10. _primitive function_ 原函数；基元功能
-	7. primordial, primordium
-		1. _adj._ [early](dic://early)
-		2. _n._ [middle](dic://middle), [late](dic://late)
-		3. **primal**最初的;**cosmic**宇宙的;**cosmos**宇宙;**primitive**原始的;**cosmological**宇宙哲学的;**transcendent**卓越的;**progenitor**祖先;**divine**神圣的;**nothingness**虚无;**archetypal**原型的;**elemental**自然力的;
-		4. primogenitor, primogeniture
-	8. primrose, primula,
+	1. prima
+		1. a. 第一的, 主要的
+		2. primacy
+			1. n. 第一, 首位, 卓越
+		3. primage
+			1. n. 运费贴补, 初步从价税
+		4. primary
+			1. n. 最主要者, 原色  
+			2. a. 主要的, 初期的, 根本的, 原始的, 首要的, 基本的
+			3. 今天给这些单词排个序：primary adj. 主要的；初级的；基本的，secondary adj.第二的；中等的；次要的；中级的，tertiary adj.第三的；第三位的；三代的， quaternary adj.四级的；四个一组的，quinary adj. 第五位的；五个一套的；五进制的。但问题是，第六位（级）的和以此类推的第七位（级）的呢？
+		5. prime
+			1. n. 最佳部分, 初期, 全盛期  
+			2. a. 主要的, 最初的, 根本的  
+			3. v. 做好准备
+			4. prince（国君）：古罗马帝国时期的“第一公民”  
+			5. 英语单词prince来自拉丁语princeps，由primus（first，与prime同源）+ capere（to take，拿）构成，字面意思就是“the onewho takes the first (place/position)”（首席，排在第一位的人）。  
+			6. 在古罗马共和国时期，罗马元老院中的威望和权力最大的议员就被称为princeps senatus（首席议员）。首席议员由执政官从贵族议员中选择并任命，通常是以前的执政官。在公元前275年之前，首席议员还仅仅是个荣誉称号，他可以在讨论时第一个发言。公元前275年，首席议员成为正式职位，享有众多特权，如召集和解散议会、确定议程、决定议事规则等。  
+			7. 罗马帝国的第一个皇帝、凯撒大帝的继承人屋大维上台后，从凯撒遇刺事件中看到了罗马贵族对独裁统治的普遍反感，没有采用dictator（独裁官）或rex（king，国王）的头衔，而是借鉴“首席议员”（princeps senatus）这个称谓，选用了一个比较谦逊的头衔Princeps，通常译为“第一公民”或“元首”。从此以后，罗马帝国的最高首脑除了emperor（皇帝）头衔外，还都担任Princeps职务，而皇帝瓦勒良（Valerian）曾在上台之前就担任这一职务。直到罗马皇帝戴克里先（Diocletian）执政时这一头衔才被废除。罗马帝国首脑使用Princeps头衔的阶段就被称为“元首制时期”。  
+			8. 英语单词prince（国君、王子）就来自Princeps。由此可见，在西方人的传统观念中，一国之君不过是“首席”、“第一公民”而已，绝不像咱中国一样被看成是“天子”。  
+				1. prim-：第一，最初  
+				2. prince： [prɪns] n.国君，王子，亲王  
+				3. princess： [ˌprɪnˈses] n.公主，王妃  
+				4. prime： [praɪm]  adj. 主要的；最好的；基本的adv. 极好地n. 初期；青年；精华；全盛时期  
+				5. principal： ['prɪnsəpl] adj. 主要的；资本的  
+				6. principle： ['prɪnsəpl] n. 原理，原则；主义，道义；本质，本义；根源，源泉
+		6. primely
+		7. primer
+			1. n. 入门书, 初级读本, 雷管, 导火线, 底漆
+			2. - n. 底漆，底层涂料；妆前乳；初级读本，入门指南；识字课本，启蒙读本；点火药，火帽；装填工，装填物；（尤指飞机内燃发动机的）启动注油泵；（生化）引物，引子；<新西兰>初小班级，初小班级的学生
+			3. primer ['praɪmə] n. 初级读本；识字课本；原始物。准确说，希腊拉丁前缀pro-,pre-表时间和空间上的前，与forehead前额、foresee预见和fore之前的同源，而prim-词根则是最高级，与foremost最先的同源。foremost中的most很搞笑，m已经体现了最高级，这个-ost再次体现了最高级（-est），浪费墨水了。
+			4.  [fuse](dic://fuse), [fuze](dic://fuze), [fusee](dic://fusee), [fuzee](dic://fuzee), [priming](dic://priming)
+			5.  [flat coat](dic://flat coat), [ground](dic://ground), [priming](dic://priming), [primer coat](dic://primer coat), [priming coat](dic://priming coat), [undercoat](dic://undercoat)
+			6. _n._ [textbook](dic://textbook), [text](dic://text), [text edition](dic://text edition), [schoolbook](dic://schoolbook), [school text](dic://school text), [lighter](dic://lighter), [light](dic://light)
+			7. **sealant**密封剂;**sealer**盖印人;**PCR**光电导继电器;**varnish**虚饰;**lacquer**涂漆;
+			8. _epoxy primer_ n. 环氧底漆
+			9. _shop primer_ 预涂底漆；临时防锈底漆
+			10. _primer coating_ 涂底剂；初级涂烘
+			11. I'll give a very quick primer on extraction /我来快速介绍一下如何提取。
+			12. Moto 360 smartwatch has all metal primer, uses Google's Android operating system.? /Moto 360智能手表为金属机身，采用谷歌安卓操作系统。
+			13. One person actually took the primer in positive psychology and she translated it into Japanese. /有一位学生把积极心理学初级课本翻译成日语。
+			14. You really don't have to apply a primer all over your whole entire face /其实你们不需要在整个脸上都涂满打底霜。
+			15. After production, the steel had been coated with a reddish paint primer it maintained throughout construction. /在生产完成后，钢被涂上了一层红色的底漆，它在整个施工过程中一直保持着这种状态。
+		8. primus
+			1.  [Primus stove](dic://Primus stove)
+			2. _n._ [bishop](dic://bishop), [stove](dic://stove), [kitchen stove](dic://kitchen stove), [range](dic://range), [kitchen range](dic://kitchen range), [cooking stove](dic://cooking stove)
+			3. n. 普里默斯便携式汽化煤油炉
+			4. adj. 第一的；同姓学生中最年长的
+			5. 
+		9. premier
+			1. adj. 首要的，最好的；最早的，最初的 
+			2. n. 总理，首相；（加拿大的）省总理，地方总理；（澳大利亚州或地区的）省长
+			3.  [Prime Minister](dic://Prime Minister), [PM](dic://PM)
+			4.  [chancellor](dic://chancellor), [prime minister](dic://prime minister)
+			5.  [premiere](dic://premiere)
+			6. _n._ [head of state](dic://head of state), [chief of state](dic://chief of state)
+			7. _v._ [perform](dic://perform), [execute](dic://execute), [do](dic://do)
+			8. _adj._ [first](dic://first)
+			9. _n._ [last](dic://last), [intermediate](dic://intermediate)
+			10. **preeminent**卓越的;**world-class**世界级的;**renowned**著名的;**prestigious**受尊敬的, 有声望的, 有威信的;**finest**警察;**largest**大的,多量的;**premiere**首位的;**world-famous**举世闻名的;**leading**主要的;**flagship**旗舰;**full-service**经营全部业务;
+			11. _premier league_ 超级联赛
+			12. _vice premier_ 副总理
+			13. Premier of the State Council /国务院总理
+			14. an architect of premier rank. /处于主要地位的建筑师
+			15. The Premier's burial was a solemn occasion. /总理的葬礼是个庄严的场面。
+			16. The state visit by the premier captured the headlines of all newspapers. /总理的国事访问各报都用大标题登出。
+			17. She attends Britain's premier university. /她就读于英国最好的大学。
+			18. primeminister
+		10. priming
+	3. primipara
+		1. primi-第一 + par-出生 + -a
+		2. **preterm**早产，早产儿;**gestational**妊娠期的;**postpartum**产后的;**gestation**怀孕;**pregnant**怀孕的;**neonatal**新生的;**pregnancy**怀孕;**midwife**助产士;**childbirth**分娩;**mothers**母亲;**placenta**胎盘;
+		3. **preterm**早产，早产儿;**postpartum**产后的;**gestation**怀孕;**gestational**妊娠期的;**pregnant**怀孕的;**lactation**分泌乳汁;**mothers**母亲;**neonatal**新生的;**cohort**一群人;**expectant**期待的, 期望的;**midwife**助产士;
+		4. primiparity, primiparous
+	4. primate
+		1. n. 大主教, 灵长目动物  
+		2. n. 灵长目动物（包括人、猴子等）；大主教；首领 
+		3. adj. 灵长目动物的；大主教的
+		4.  来自 prime,第一的，最初的，首要的，-ate,名词后缀。后用于指灵长类动物。
+		5. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [prelate](dic://prelate)
+		6. _n._ [priest](dic://priest), [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal)
+		7. **ape**猿;**mammal**哺乳动物;**mammalian**哺乳动物;**monkey**猴子;**non-human**非人类的;**rodent**啮齿目动物;**monkeys**猴子;**gorilla**大猩猩;**mammals**哺乳类;**vertebrate**脊椎动物;**human**人的;
+		8. the world primate city /世界首要城市
+		9. The Virunga Mountains are home to some famous and endangered primates. /维龙加山脉是一些出名的濒危灵长类动物的家园
+		10. Howler monkeys are big primates known for the loud sound they make. /吼猴是一种大型灵长类动物，以其响亮的声音而闻名。
+		11. Primates apparently also thought it was bedtime. /灵长类动物显然也认为该睡觉了。
+		12. 
+	5. primal
+		1. adj. 最初的；原始的；主要的
+		2. n. [心理]被压抑童年情绪的释放
+		3. vt. 释放（被压抑的童年情绪）
+		4.  - 来自 prime,第一的，最初的，首要的，-al,形容词后缀。
+		5. [cardinal](dic://cardinal), [central](dic://central), [fundamental](dic://fundamental), [key](dic://key)
+		6. [aboriginal](dic://aboriginal), [primeval](dic://primeval), [primaeval](dic://primaeval), [primordial](dic://primordial)
+		7. _adj._ [important](dic://important), [of import](dic://of import), [early](dic://early)
+		8. _n._ [unimportant](dic://unimportant), [middle](dic://middle), [late](dic://late)
+		9. **primordial**原始的;**visceral**发自肺腑的;**instinct**本能，直觉;**instinctive**本能的;**savage**残酷的;**primitive**原始的;**elemental**自然力的;**transcendent**卓越的;**transcendental**超凡的;**sensual**感觉的;**subconscious**下意识的;
+		10. _primal problem_ 原始问题，主要问题 
+		11. primal hunting societies /原始狩猎社会。
+		12. for me, writing is a primal urge. /就我而言，写作是一种原始冲动。
+		13. he preys on people's primal fears. /他利用人们原始的害怕心理。
+		14. Primal fear, too, was hard to eradicate. /人们对鳄鱼的原始恐惧太难根除。
+		15. You're afraid of your own primal instincts /你惧怕你的原始冲动。
+		16. Perhaps that is why we explore the starry skies, as if answering a **primal** calling to know ourselves and our true ancestral homes /也许这就是我们探索星空的原因，仿佛在回应一种原始的召唤，去了解我们自己和我们祖先真正的家园。
+	6. primeval
+		1. prime【初期】 + ev-年龄，时代 + -al
+		2.  来自 prime,第一的，最初的，-ev,时间，时代，词源同 age,longevity.
+		3.  [aboriginal](dic://aboriginal), [primal](dic://primal), [primaeval](dic://primaeval), [primordial](dic://primordial)
+		4. _adj._ [early](dic://early)
+		5. _n._ [middle](dic://middle), [late](dic://late)
+		6. **primordial**原始的;**primal**最初的;**primitive**原始的;**prehistoric**史前的;**savage**残酷的;**cosmos**宇宙;**cosmic**宇宙的;**mystical**神秘的;**ancient**古代的;**otherworldly**非现实世界的;**subterranean**地表下面的;
+		7. the area was first upheaved from the primeval ocean /这地区最初是从远古海洋隆起的。
+		8. the primeval slime from which all life developed /生命起源的原生浆液
+		9. The explorer spun many fantastic tales about his adventures in the primeval forests. /那探险家杜撰了许多他在原始森林里历险的离奇故事。
+		10. The railway cuts through a **primeval** forest. /铁路穿越原始森林。
+	7. primitive
+		1. n. 原始人, 早期艺术家  
+		2. a. 原始的, 上古的
+		3. 来自 prime,第一的，最初的，原始的，-itive,形容词后缀。
+		4. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [formula](dic://formula)
+		5. _adj._ [early](dic://early), [noncivilized](dic://noncivilized), [noncivilised](dic://noncivilised), [untrained](dic://untrained)
+		6. _n._ [late](dic://late), [civilized](dic://civilized), [civilised](dic://civilised), [trained](dic://trained)
+		7. **rudimentary**基本的;**archaic**古代的;**prehistoric**史前的;**barbaric**野蛮的，粗野的;**primordial**原始的;**savage**残酷的;**primal**最初的;**civilized**文明的,非野蛮的;**modern**现代的，近代的;**civilization**文明, 文化;**antiquated**陈旧的;
+		8. _primitive religion_ 原始宗教
+		9. _primitive people_ 原始人；原始民族
+		10. _primitive culture_ 原始文明
+		11. _primitive type_ 原始类型；原语类型
+		12. _primitive accumulation of capital_ 原始资本积累
+		13. _primitive function_ 原函数；基元功能
+	9. primordial, primordium
+		1. a. 原始的, 自原始时代的
+		2. 来自 prime,第一的，最初的，原始的，-ord,开始，成形，词源同 order.
+		3. _adj._ [early](dic://early)
+		4. _n._ [middle](dic://middle), [late](dic://late)
+		5. **primal**最初的;**cosmic**宇宙的;**cosmos**宇宙;**primitive**原始的;**cosmological**宇宙哲学的;**transcendent**卓越的;**progenitor**祖先;**divine**神圣的;**nothingness**虚无;**archetypal**原型的;**elemental**自然力的;
+		6. the primordial oceans. /原始海洋。
+		7. the primordial needs of the masses /群众的基本要求。
+		8. Life’s primordial reality is spirit /生命的根本真实性是精神。
+		9. In the cerebrum, the primordial hippocampus developed better than the primordial piriform.The former belongs to archipallium and the latter is paleopallium / 大脑内原始海马较原始梨状区发达，前者属于原脑皮，后者属古脑皮。
+		10. primogenitor, primogeniture
+	11. primrose
 		1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
 		2. **sunflower**向日葵;**lilac**淡紫色;**lavender**淡紫色;**herb**香草，药草;**lily**百合花，百合;**orchid**兰花;**flax**亚麻;**flower**花;**fennel**茴香;**flowering**开花的;**violet**紫罗兰;
-		3. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
-		4. **blooms**水华;**flowering**开花的;**orchid**兰花;**lilac**淡紫色;**flower**花;**orchids**兰花，淡紫色;**bloom**花;**blooming**盛开的;**violet**紫罗兰;**tulips**郁金香;**daisy**雏菊;
-	9. pristine
-		1. _adj._ [pure](dic://pure), [clean](dic://clean)
-		2. _n._ [impure](dic://impure), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
-		3. **immaculate**整洁的, 无污迹的;**untouched**未触及的;**serene**平静的;**spotless**无瑕疵的;**beautiful**美丽的, 悦目的;**stunningly**惊人地;**lush**丰富的，豪华的;**immaculately**干净地;**tranquil**安静的，平静的;**flawless**无瑕疵的;**idyllic**牧歌的，田园诗的;
-		4. 
-		5. repristinate
-		6. pristinomycin
-		7. pristinamycin
-	11. prince, princesse
-	12. principal
-		1. principate
-		2. principium
-		3. principle
-	13. apriorism, apriority
+		3. _evening primrose_ 月见草；<美>夜来香
+		4. _evening primrose oil_ 月见草油
+		5. _primrose oil_ n. 月见草油
+		6. _primrose yellow_ 淡黄色
+	12. primula
+		1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
+		2. **blooms**水华;**flowering**开花的;**orchid**兰花;**lilac**淡紫色;**flower**花;**orchids**兰花，淡紫色;**bloom**花;**blooming**盛开的;**violet**紫罗兰;**tulips**郁金香;**daisy**雏菊;
+	13. pristine
+		1. a. 崭新的, 清新的; 未开发的, 处于原始状态的
+		2. 来自拉丁语 pristinus,先前的，最早的，原始的，来自古拉丁语 pri,先前，早先，来自 PIE*per,向前，词源同 forth,first.-ist,最高级后缀。引申词义清新的，古朴的等。
+		3. _adj._ [pure](dic://pure), [clean](dic://clean)
+		4. _n._ [impure](dic://impure), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
+		5. **immaculate**整洁的, 无污迹的;**untouched**未触及的;**serene**平静的;**spotless**无瑕疵的;**beautiful**美丽的, 悦目的;**stunningly**惊人地;**lush**丰富的，豪华的;**immaculately**干净地;**tranquil**安静的，平静的;**flawless**无瑕疵的;**idyllic**牧歌的，田园诗的;
+		6. a pristine white shirt /一尘不染的白衬衣。
+		7. pristine mountain snow. /山上洁白的雪
+		8. pristine copies of an early magazine /早期杂志的原版。
+		9. He wiped his fingers on his pristine handkerchief. /他用他那块洁净的手帕擦手指。
+		10. My gargantuan, pristine machine was good for writing papers and playing solitaire, and that was all. /1. 我那庞大的、早期的计算机只适合写文章和玩纸牌游戏，就这些。
+		11. In Juneau, the pristine wilderness is the main attraction /在朱诺，原始的荒野是主要的景点。
+		12. There was nothing pristine about it. /它的状态不完美。
+		13. repristinate
+			1. vt. 使复原
+		14. pristinomycin
+		15. pristinamycin
+	15. prince
+		1. n. 王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物
+		2. princess
+		3. princeship
+		4. princely
+		5. princeling
+		6. princelike
+		7. princelet
+		8. princekin
+		9. princedom
+		10. princesse
+	16. principal
+		1. n. 校长, 首长, 本金, 主犯, 资本, 委托人  
+		2. a. 主要的, 最重要的, 首要的
+		3. adj. 最重要的，首要的；本金的，母金的 
+		4. n. <美>（美国公立中小学的）校长；<英>（英国的）大学校长，学院院长；（企业或机构的）负责人；（音乐会、戏剧、芭蕾舞剧、歌剧中的）主角演员；（管弦乐队每一乐器组的）首席演奏者；（有利息的）本金，资金；（法律和商业事务中的）当事人，委托人；关键人物；（某些行业）完全合格的开业者；<英>（负责某一部门的）高级公务员；主犯，首犯；<史>决斗者；（支撑檩的）主椽；（管风琴的）主音栓
+		5. 1 - 来自古法语 principal,主要的，最重要的，来自拉丁语 principalis,最重要的，来自 princeps,国王，统治者，酋长，词源同 prince.引申词义名词词义校长，院长等。
+		6. _n._ [debt](dic://debt), [educator](dic://educator), [pedagogue](dic://pedagogue), [pedagog](dic://pedagog), [actor](dic://actor), [histrion](dic://histrion), [player](dic://player)
+		7. _adj._ [important](dic://important), [of import](dic://of import)
+		8. _n._ [unimportant](dic://unimportant)
+			1. [chief](dic://chief) 指人时，表同类中职位最高，权力最大；指物时，表同类中最重要，价值最高。  
+			2. [principal](dic://principal) 用于人时，指地位优于其他人；用于物时，指该物在大小、重要性等方面优于他物。  
+			3. [main](dic://main) 通常只用于物。指在一定范围内，某物的重要性、体积或力量等超过其它物。  
+			4. [major](dic://major) 指同其他人或其它物、问题等相比较，显得更加重要和突出。  
+			5. [leading](dic://leading) 侧重指具有影响力或凝聚力。从而有主导和引导的作用。  
+			6. [capital](dic://capital) 着重指因重要性、意义、优越或重大而名列同类之首。  
+			7. [foremost](dic://foremost) 侧重指在行进或发展过程中居首位。  
+			8. [primary](dic://primary) 通常不用于人。用于物时，指在重要性方面占第一位。
+		9. **chief**酋长;**primary**主要的;**superintendent**监管人;**teacher**教师;**headmaster**校长;**main**主要部分，要点;**secondary**次要的;**assistant**助手, 副手, 助理;**deputy**代理人，代表;**custodian**管理人;**school**学校;
+		10. digressing from the principal topic /以主要论题岔开；
+		11. A spitball hit the principal on his nose /一个纸团飞过来打在校长的鼻子上。
+		12. wool and mohair were the principal exports. /羊毛和马海毛是主要的出口商品。
+		13. the principal rivers of a country /一个国家的主要河流
+		14. the principal cellist in an orchestra /一支管弦乐队的第一大提琴；
+		15. the principal amount of your investment. /你投资的本金。
+		16. The judge examined the principal witness. /法官询问了主要证人。
+		17. No one chooses to be a wartime principal. /没人主动选择成为战时的校长。
+		18. You'll still owe the same principal, so you'll have to pay it later. /你还欠着同样的本金，所以以后还得偿还。
+		19. vice-principal
+		20. principally
+		21. principality
+			1. _n._ [domain](dic://domain), [demesne](dic://demesne), [land](dic://land)
+			2. **kingdom**王国;**princely**王子的，高贵的;**kingdoms**王国;**prince**王子，国君;**sovereign**元首;**dominion**领土;**Liechtenstein**列支敦士登;**ruler**尺;**empire**帝国;**rulers**统治者;**nobleman**贵族;
+			3. Officially known as the principality of Sealand, Sealand is technically the smallest nation in the world /官方名称叫做西兰公国，实际上是世界上最小的国家。
+			4. In 1221, the Mongols moved into northern Afghanistan, and in 1222, they defeated a combined army of Rus principalities. /1221 年，蒙古人进入阿富汗北部，1222 年，他们击败了罗斯公国的联合军队。
+			5. Principalities are either hereditary, in which the family has been long established; or they are new. /君主国不是世袭的就是新的。在世袭君主国里，长期以来君主的后裔就是那里的君主。
+		22. principate
+			1. n. 元首统治；元首政治；首要之地位或权威
+			2. n. 最高统治, 首领, 封邑, 帝国君主政体
+			3. Yet, the crisis of the third century had so crippled the Roman world that the elaborate pretences of the principate were no longer necessary. /然而，第三世界危机已经使罗马世界陷入瘫痪，元首也就不再有必要遮遮掩掩。
+			4. Augustus Caesar had by the time of Christ started something called the principate. The principate was basically one man rule cloaked in the window dressing, the fa? ade if you will, of the Republic. /奥古斯都，凯撒开创了一种帝国君主政体，也就是说共和国的背后，由一个人，独掌大权，统治着整个帝国。
+		24. principium
+		25. principle
+			1. - n. （行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素
+			2. _n._ [generalization](dic://generalization), [generalisation](dic://generalisation), [generality](dic://generality), [value](dic://value), [law](dic://law), [natural law](dic://natural law), [law of nature](dic://law of nature)
+			3. **tenets**信条;**fundamental**基本的;**concept**观念，概念;**notion**概念;**axiom**公理;**doctrine**教义;**theory**理论;**philosophy**哲学;**criterion**标准, 准则;**reasoning**运用思考、理解、推想等能力的做法或过程;**rule**统治;
+			4. _working principle_ 工作原理
+			5. _basic principle_ 基本原理
+			6. _on the principle of_ 根据...的原则
+			7. _design principle_ 设计原理
+			8. _operating principle_ 工作原理；操作原理
+			9. _guiding principle_ 指导原则
+			10. _operation principle_ 经营理念
+			11. _in principle_ 大体上，原则上
+	17. apriorism, apriority
 		1. . 先验论；推理结论
-	14. primospore
-	15. prior
+	18. primospore
+	19. prior
+		1. a. 更重要的, 较早的, 在先的  
+		2. n. 小隐修院院长, 大隐修院副院长
+		3. 来自拉丁语 prior,先前的，领先的，来自古拉丁语 pri,在前，先于，来自 PIE*per,向前，词源同 ford,first.-or,比较级后缀。后用于小隐修院院长尊称。
+		4. [anterior](dic://anterior)
+		5. _n._ [superior](dic://superior)
+		6. _adj._ [antecedent](dic://antecedent), [preceding](dic://preceding)
+		7. _n._ [subsequent](dic://subsequent)
+		8. **before**在…之前，先于;**after**后来，以后;**subsequent**随后的, 继…之后的;**during**在…的时候，在…的期间;**preceding**在先的, 在前的, 前面的;**earlier**早的;**previous**以前的;**shortly**立刻;**initial**最初的;**months**月份;**due**到期的;
+		9. _prior notice_ 事先通知；预先通报
+		10. _prior art_ 先前技术
+		11. _prior approval_ 事先批准；预先审批；事前批准；事前许可；预先核准
+		12. _prior probability_ 先验概率，事前机率
+		13. _prior period_ 前期；上期
+		14. _prior condition_ 先决条件
+		15. subprior
+		16. priory
+		17. priorship
+		18. priority
+			1. multipriority
+		19. prioritize
+			1. priorization
+		20. prioress
 5. **priv-** = single, alone, “单个”
 	1. deprive
-		1. [strip](dic://strip), [divest](dic://divest)
-		2. [impoverish](dic://impoverish)
-		3. _v._ [take](dic://take), [withhold](dic://withhold), [keep back](dic://keep back), [worsen](dic://worsen), [decline](dic://decline)
-		4. _n._ [enrich](dic://enrich)
-		5. **undermine**在某物下挖洞或挖通道;**alienate**使疏远，离间;**compel**强迫，迫使;**seize**抓住;**endanger**危及;**impair**削弱;**starve**饿死;**punish**严厉对待;**withhold**保留，不给;**rob**抢劫;**restrict**限制;
-		6. deprived
+		1. de-去掉 + priv- + -e → 从个人身边拿走 → 剥夺。
+		2. vt. 剥夺, 使丧失
+		3. de-,夺去，损毁，-priv,自己的，私人的，词源同 private.
+		4. [strip](dic://strip), [divest](dic://divest)
+		5. [impoverish](dic://impoverish)
+		6. _v._ [take](dic://take), [withhold](dic://withhold), [keep back](dic://keep back), [worsen](dic://worsen), [decline](dic://decline)
+		7. _n._ [enrich](dic://enrich)
+		8. **undermine**在某物下挖洞或挖通道;**alienate**使疏远，离间;**compel**强迫，迫使;**seize**抓住;**endanger**危及;**impair**削弱;**starve**饿死;**punish**严厉对待;**withhold**保留，不给;**rob**抢劫;**restrict**限制;
+		9. deprived
 			1. _adj._ [underprivileged](dic://underprivileged)
 			2. _n._ [privileged](dic://privileged)
 			3. **deprivation**剥夺;**starved**饥饿的;**destitute**赤贫的, 贫苦的;**disadvantaged**贫穷的,处于不利地位的;**impoverished**穷困的,无力的,用尽了的;**alienated**感到孤独的,不合群的;**oppressed**被压迫的;**neglected**被忽视的;**exhausted**耗尽的,用完的;**poor**可怜的;**diminished**减少了的;
-		7. deprivation
+		10. deprivation (privation)
 			1. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment), [disadvantage](dic://disadvantage), [social control](dic://social control)
 			2. **deprived**缺少食物的;**starvation**挨饿, 饥饿;**malnutrition**营养失调，营养不良;**exhaustion**精疲力竭;**sleep**睡，睡觉;**poverty**贫困;**alienation**离间,疏远;**misery**痛苦，悲惨;**hypoxia**氧不足;**confinement**限制,被监禁;**insomnia**失眠症，失眠;
-		8. deprival
+			3. _sleep deprivation_ 睡眠剥夺，剥夺睡眠
+			4. _relative deprivation_ [社会]相对剥夺；相对性匮乏
+			5. this spiral of deprivation and environmental degradation. /贫困和环境退化所造成的处境恶化。
+			6. The report has spotlighted real deprivation in the inner cities. /这篇报道披露了旧城区的贫困真相。
+			7. Sleep deprivation can cause stress, loss of appetite and lethargy. /睡眠不足会导致紧张、没有胃口和懒散。
+			8. Millions of Yemenis are currently enduring severe deprivation, Ms. Sanders wrote. /上百万也门人正在经历赤贫的生活，萨拉如是写道。
+			9. I become very angry when it comes to issues concerning social deprivation and social exclusion. /我会感到特别生气，在关于社会剥削和边缘化的问题上。
+		11. deprival
 			1. _[deprival](dic://deprival)_  n. 剥夺
 			2. _[deprival value](dic://deprival%20value)_  掳夺价值
-		9. deprivable
+		12. deprivable
+	2. privation
+		1. n. 缺乏, 穷困
+		2. priv-个人 + -ation表名词，引申词义贫困，丧失，匮乏，艰难等，是单词private 派生的名词。
+		3. 来自拉丁语 privationem,剥夺，使失去，来自拉丁语 privare,使个人化，使分开，使剥离，词源同 private.引申词义贫困，丧失，匮乏，艰难等。 
+		4. (impoverished, needy, destitute)
+		5. [want](dic://want), [deprivation](dic://deprivation), [neediness](dic://neediness)
+		6. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment), [social control](dic://social control)
+		7. **deprivation**剥夺;**mistreatment**虐待;**endure**忍耐;**misery**痛苦，悲惨;**toil**苦工;**affliction**折磨;**starvation**挨饿, 饥饿;**likewise**也;**sustenance**食物;**suffering**身体或心灵的痛苦, 苦难;**hardship**困苦;
+		8. _[shake off privation](dic://shake%20off%20privation)_ 摆脱贫困
+		9. _[privation reduction and elimination](dic://privation%20reduction%20and%20elimination)_ 扶贫
+		10. Cold is the privation of heat /所谓冷就是缺乏热量。
+		11. indurate oneself to privation and suffering /使自己能吃苦耐劳
+		12. He looked upon privation as no hardship /他不把忍饥受冻当作什么苦难。
+		13. Their losses had been her losses, their privations her privations, their problems her same problems. /他们的损失就是她的损失，他们的苦难就是她的苦难，他们的问题也和她的问题一样。
+		14. At 75, KoolhAAs is old enough to remember the difficulties and privations of the post–World War II years in Europe. /现年75岁的库哈斯对二战结束后欧洲经历的困难和贫困有着深刻的记忆。
+		15. Ah, he would not like returning to the old life of privations and expedients! /啊， 他可不想回到从前穷困潦倒的生活！
 	3. private
-		1.  [buck private](dic://buck private), [common soldier](dic://common soldier)
-		2. _n._ [enlisted man](dic://enlisted man)
-		3. _adj._ [backstage](dic://backstage), [clannish](dic://clannish), [cliquish](dic://cliquish), [clubby](dic://clubby), [snobbish](dic://snobbish), [snobby](dic://snobby), [cloistered](dic://cloistered)
-		4. _n._ [public](dic://public), [impersonal](dic://impersonal), [outward](dic://outward)
-		5. **public**公用的;**secluded**隐退的，隐居的;**state-owned**州立的;**intimate**亲密的;**personal**个人的;**not-for-profit**非营利;**corporate**社团的, 法人的;**governmental**政府的;**confidential**秘密的;**government**政府;**non-profit**非盈利的;
-		6. semiprivate
-		7. privatize
-		8. privatism,
-		9. privately
-		10. privateer
-	5. privacy
-	6. privation
-		1. [want](dic://want), [deprivation](dic://deprivation), [neediness](dic://neediness)
-		2. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment), [social control](dic://social control)
-		3. **deprivation**剥夺;**mistreatment**虐待;**endure**忍耐;**misery**痛苦，悲惨;**toil**苦工;**affliction**折磨;**starvation**挨饿, 饥饿;**likewise**也;**sustenance**食物;**suffering**身体或心灵的痛苦, 苦难;**hardship**困苦;
-	7. privative
-	8. privilege
-		1. unprivileged
-		2. underprivileged
+		1. priv-个人 + -ate, 表形容词 → 个人的。
+		2.  [buck private](dic://buck private), [common soldier](dic://common soldier)
+		3. _n._ [enlisted man](dic://enlisted man)
+		4. _adj._ [backstage](dic://backstage), [clannish](dic://clannish), [cliquish](dic://cliquish), [clubby](dic://clubby), [snobbish](dic://snobbish), [snobby](dic://snobby), [cloistered](dic://cloistered)
+		5. _n._ [public](dic://public), [impersonal](dic://impersonal), [outward](dic://outward)
+		6. **public**公用的;**secluded**隐退的，隐居的;**state-owned**州立的;**intimate**亲密的;**personal**个人的;**not-for-profit**非营利;**corporate**社团的, 法人的;**governmental**政府的;**confidential**秘密的;**government**政府;**non-profit**非盈利的;
+		7. semiprivate
+		8. privatize
+		9. privatism,
+		10. privately
+		11. privateer
+	4. privacy
+	5. privative
+		1. a. 剥夺性的, 缺少特定性质的
+	6. privilege
+		1. n. 特权, 特别恩典, 基本权利, 特免  
+		2. vt. 给与...特权, 特免
+		3.  来自拉丁语 privilegium,私人法律，特权，来自 privus,个人的，词源同 private,-leg,法律，词源同 legal.
+		4. privi-个人 + lege法律 → 有个人法律 → 特权。
+		5. unprivileged
+		6. underprivileged
 			1. _underprivilege_  n. 相对贫困；生活水平低下
 			2. _lowclass nether underprivileged_ 下层社会的
 			3. _adj._ [deprived](dic://deprived), [disadvantaged](dic://disadvantaged), 
 			4. _n._ [privileged](dic://privileged)
 			5. **disadvantaged**贫穷的,处于不利地位的;**impoverished**穷困的,无力的,用尽了的;**needy**贫穷的;**underserved**服务不周到的,服务水平低下的;**destitute**赤贫的, 贫苦的;**orphans**孤儿;**homeless**无家可归的;**youths**青少年;**oppressed**被压迫的;**poor**可怜的;**slum**贫民窟;
-		3. privilegium
+		7. privilegium
 			1. 特别权利，特别宪法
-		4. privileged
-		5. non-privileged
-	10. privy, privily
-		1. [toilet](dic://toilet), [lavatory](dic://lavatory), [lav](dic://lav), [can](dic://can), [john](dic://john), [bathroom](dic://bathroom)
-		2. [outhouse](dic://outhouse), [earth-closet](dic://earth-closet), [jakes](dic://jakes)
-		3. [secluded](dic://secluded), [secret](dic://secret)
-		4. _n._ [room](dic://room), [outbuilding](dic://outbuilding)
-		5. _adj._ [private](dic://private), [informed](dic://informed)
-		6. _n._ [public](dic://public), [uninformed](dic://uninformed)
-		7. **divulge**泄露;**secret**秘密;**insiders**局内人;**aware**知道的;**unaware**不知道的，无意的;**workings**工作方式;**insider**熟悉内情者;**briefed**简要;**secrets**秘密;**glean**收集;**informed**消息灵通的;
-		8. _privy council_ n. 枢密院
-		9. _[Privy Purse](dic://Privy%20Purse)_  私用金; 岁收中拔给王室的费用; 枢密院;
-		10. _[Lord Privy Seal](dic://Lord%20Privy%20Seal)_  （英国）掌玺大臣
-	11. privity
-6. pristine
-	1. 来自拉丁语 pristinus,先前的，最早的，原始的，来自古拉丁语 pri,先前，早先，来自 PIE*per,向前，词源同 forth,first.-ist,最高级后缀。引申词义清新的，古朴的等。
-	2. a. 崭新的, 清新的; 未开发的, 处于原始状态的
-	3. repristine
+		8. privileged
+		9. non-privileged
+	7. privy, privily
+		1. a. 允许获知的; 知情的; 了解内幕的  
+		2. n. （户外）厕所, 茅房
+		3. [toilet](dic://toilet), [lavatory](dic://lavatory), [lav](dic://lav), [can](dic://can), [john](dic://john), [bathroom](dic://bathroom)
+		4. [outhouse](dic://outhouse), [earth-closet](dic://earth-closet), [jakes](dic://jakes)
+		5. [secluded](dic://secluded), [secret](dic://secret)
+		6. _n._ [room](dic://room), [outbuilding](dic://outbuilding)
+		7. _adj._ [private](dic://private), [informed](dic://informed)
+		8. _n._ [public](dic://public), [uninformed](dic://uninformed)
+		9. **divulge**泄露;**secret**秘密;**insiders**局内人;**aware**知道的;**unaware**不知道的，无意的;**workings**工作方式;**insider**熟悉内情者;**briefed**简要;**secrets**秘密;**glean**收集;**informed**消息灵通的;
+		10. _privy council_ n. 枢密院
+		11. _[Privy Purse](dic://Privy%20Purse)_  私用金; 岁收中拔给王室的费用; 枢密院;
+		12. _[Lord Privy Seal](dic://Lord%20Privy%20Seal)_  （英国）掌玺大臣
+		13. was privy to government secrets /对政府秘密私下知情
+		14. a privy place. /隐蔽场所。
+		15. " The pail, " said Davos, gesturing. " We have no privy here. What terms" ? /" 便桶的味道，" 戴佛斯边说边比画，" 这儿没厕所。什么条件？"
+		16. He smiles, and again it's like he's privy to some big secret/ 他微笑着，好像他知道了什么重大的秘密。
+	8. privity
+		1. _privity of contract_ 合同相对性；合同当事人原则
+		2. be suspected of privity to a plot /被怀疑参与阴谋
+		3. the parties no longer have privity with each other. /双方不再存在法律规定的当事人相互关系。
+		4. I believe that this is our luck and **privity**! /我相信这是我们的缘分，我们的默契！
+		5. A plaintiff was not required to be in direct **privity** with the defendant bring an action /原告与被告间是否存在直接利益关系不是原告提起侵权诉讼的必要条件。
 
 
 ### + \*(s)preg- +
 #### + \*(s)preg- (2) + = to jerk, scatter
 1. **spers-** = = scatter, 表示“散开”。源自拉丁语 spargere "to strew, scatter."
 	1. sparse
-		1. 1 - 来自拉丁语 sparse,散开的，播洒的，来自 spargere,散开，播种，来自 PIE*sperg,播，洒，溅，来自 PIE*sper,播，洒，词源同 sprinkle,spread,intersperse.引申词义稀少的，稀疏的等。
+		1. 来自拉丁语 sparse,散开的，播洒的，来自 spargere,散开，播种，来自 PIE*sperg,播，洒，溅，来自 PIE*sper,播，洒，词源同 sprinkle,spread,intersperse.引申词义稀少的，稀疏的等。
 		2. - adj. 稀少的，稀疏的；简朴的
 		3. _adj._ [distributed](dic://distributed)
 		4. _n._ [concentrated](dic://concentrated)
@@ -7310,7 +7692,7 @@
 		10. Information is sparse. Rumours abound. Has Gamelin committed suicide? No /资讯匮乏，谣言满天飞。甘末林自杀身亡了？并没有。
 		11. _sparse matrix_ [数]稀疏矩阵
 		12. sparsity
-			1. 1. the property of being scanty or scattered; lacking denseness
+			1. the property of being scanty or scattered; lacking denseness
 				1. _synonymous：_ [sparseness](dic://sparseness), [spareness](dic://spareness), [thinness](dic://thinness)
 			2. _n._ [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness), [exiguity](dic://exiguity)
 			3. **sparse**稀疏的;**clustering**聚类;**computation**计算;**constraint**约束;**robustness**强度;**algorithm**算法;**approximation**接近;**interpolation**窜改;**nonlinear**非线性的;**stochastic**随机的;**computational**计算的;
@@ -7345,7 +7727,7 @@
 		15. _[cast aspersions on](dic://cast%20aspersions%20on)_ 对
 		16. _[cast aspersion on](dic://cast%20aspersion%20on)_ 诽谤
 	4. disperse
-		1. - v. 分散，散布；疏散，驱散；使（光）色散  adj. 分散的
+		1. v. 分散，散布；疏散，驱散；使（光）色散  adj. 分散的
 		2. dis-分开，散开 + spers-散开 + -e。
 		3. [scatter](dic://scatter), [sprinkle](dic://sprinkle), [dot](dic://dot), [dust](dic://dust)
 		4. [dissipate](dic://dissipate), [dispel](dic://dispel), [break up](dic://break up), [scatter](dic://scatter)
@@ -7375,12 +7757,24 @@
 		28. dispersant
 		29. dispersal
 	5. intersperse
+		1. vt. 散布, 点缀
+		2. inter-在…中间 + sperse散开 → 在中间散开 → 点缀。
 	6. contagiouspersion
 2. freckle
-	1.  [lentigo](dic://lentigo)
-	2. _n._ [macule](dic://macule), [macula](dic://macula)
-	3. _v._ [spot](dic://spot)
-	4. **face**脸;**sunburn**晒斑;**scar**给留下伤痕;**eyebrow**眉毛;**forehead**前额，额头;**mole**痣;**skin**皮肤;**pimples**丘疹，面疱;**wrinkle**皱纹;**acne**痤疮，粉刺;**chin**下巴;
+	1. n. 雀斑, 斑点  
+	2. v. 生雀斑
+	3. 来自 PIE*spreg,散播，散开，词源同 spread,sprout.拼写比较 foam,spume,flint,splinter.
+	4.  [lentigo](dic://lentigo)
+	5. _n._ [macule](dic://macule), [macula](dic://macula)
+	6. _v._ [spot](dic://spot)
+	7. **face**脸;**sunburn**晒斑;**scar**给留下伤痕;**eyebrow**眉毛;**forehead**前额，额头;**mole**痣;**skin**皮肤;**pimples**丘疹，面疱;**wrinkle**皱纹;**acne**痤疮，粉刺;**chin**下巴;
+	8. the scattering of freckles across her cheeks and forehead. /散布在她脸颊和额头上的雀斑。
+	9. there was a spatter of freckles over her nose. /她鼻子上有几颗雀斑。
+	10. The child has skinny, freckled legs with prominent knees /那孩子的腿很瘦，长有斑痕，膝盖突出”。
+	11. Various chloasma, cyasma, black spot, sun spot, low-grade peeling spot, various biogliph, anti-sallow, desalinate the low-grade freckle , and those have symptoms of melanin formation. /各种黄褐斑，蝴蝶斑，妊娠斑，黑斑，晒斑，轻度换肤斑，各种印痕，祛黄气，淡化后天性轻度雀斑，以及黑色素沉积症状者。
+	12. 
+	13. freckly
+	14. freckled
 3. sprag
 	1. _n._ [chock](dic://chock), [wedge](dic://wedge), [prop](dic://prop)
 	2. **gearbox**变速箱;**flywheel**飞轮，惯性轮;**clutch**抓住;**axle**车轴;**bushing**套管;**pulley**滑轮;**shifter**移动装置;**gears**齿轮，传动装置;**axles**四轴;**bearings**轴承;**crankshaft**机轴;
@@ -7401,7 +7795,7 @@
 	11. _[sprinkling](dic://sprinkling)_  n. 少量；点滴；喷雾; v. 洒；点缀（sprinkle的现在分词）; 
 	12. _[sprinkled](dic://sprinkled)_  撒
 	13. _[sprinkling irrigation](dic://sprinkling%20irrigation)_  洒灌; [农工] 喷灌;
-7. spry
+6. spry
 	1. 可能缩写自 sprightly.
 	2. moving quickly and lightly
 		1. the old dog was so spry it was halfway up the stairs before we could stop it
