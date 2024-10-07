@@ -2395,31 +2395,93 @@
 13. smelt
 #### + \*mel- (2) + = of darkish color
 1. **melan-** = black
-	1. melancholia, melancholic, , melancholy
-	2. melanian, melanin, melanism, melanoid,
-		1. melanoma, melanomata
-		2. melanosis
-		3. melanotic, ameanotic
-		4. melanocortin
+	1. melancholia
+		1. melancholic
+		2. melancholy
+			1. n. 抑郁，忧郁；精神病（=melancholia）；<史>黑胆汁（=black bile）
+			2. _n._ [sadness](dic://sadness), [unhappiness](dic://unhappiness), [depression](dic://depression), [liquid body substance](dic://liquid body substance), [bodily fluid](dic://bodily fluid), [body fluid](dic://body fluid), [humor](dic://humor)
+			3. _adj._ [sad](dic://sad), [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+			4. _n._ [glad](dic://glad), [cheerful](dic://cheerful)
+			5. **somber**昏暗的;**sadness**悲哀;**moody**喜怒无常的;**brooding**沉思的;**gloomy**黑暗的;**sorrow**悲伤;**loneliness**孤独,寂寞;**haunting**不易忘怀的，萦绕于心头的;**introspective**好反省的;**morbid**病态的;**bittersweet**又苦又甜的;
+			6. _[melancholy](dic://melancholy)_  adj. 忧郁的；使人悲伤的; n. 忧郁；悲哀；愁思; 
+			7. _[Melancholy Rhapsody](dic://Melancholy%20Rhapsody)_  忧郁狂想曲（歌曲名）
+			8. What a melancholy night. /多么凄迷的夜色。
+			9. a dark, melancholy vocal tone. /低沉忧郁的声调
+			10. a strain of melancholy; /有点忧伤；
+			11. I could feed my melancholy by reading Romantic poetry. /阅读浪漫派诗歌可以引发我的忧思。
+			12. He is a complicated man ——moody, mercurical, with a melancholy streek /他是一个性格复杂的人——喜怒无常,反复多变,忧郁寡欢.
+	2. melanian
+		1. - adj. 黑色人种的
+		2. melanin
+			1. n. 黑色素
+			2. Eye color is also related to melanin. /眼睛的颜色与黑色素有关。
+			3. This pigment ratio is controlled by a gene, which also controls the melanin in our skin. /这种色素比例是由一个基因控制的，这个基因也控制着我们皮肤中的黑色素。
+			4. The melanin levels in a baby's eyes determine how dark their eyes become /婴儿眼睛中的黑色素水平决定了他们的眼睛变黑的程度。
+		3. melanism
+			1. [melanosis](dic://melanosis)
+			2. _n._ [skin disease](dic://skin disease), [disease of the skin](dic://disease of the skin), [skin disorder](dic://skin disorder), [skin problem](dic://skin problem), [skin condition](dic://skin condition)
+			3. **coloration**染色;**mutation**突变;**predation**掠夺行为;**pigmentation**色素淀积;**phenotype**显型;**mammals**哺乳类;**alleles**对立形质;**species**物种;**plumage**翅膀;**allele**等位基因;**subspecies**亚种;
+			4. _[metallic melanism](dic://metallic%20melanism)_ 银质沉着病
+			5. _[melanism mutation](dic://melanism%20mutation)_ 黑化突变
+			6. _[industrial development melanism](dic://industrial%20development%20melanism)_ 工业黑化现象
+		4. melanoid,
+		5. melanoma
+			1. - n. （肿瘤）黑素瘤
+			2.  [malignant melanoma](dic://malignant melanoma)
+			3. _n._ [skin cancer](dic://skin cancer)
+			4. **cancer**癌症;**cancers**癌症;**tumors**肿瘤;**tumor**肿瘤;**carcinoma**癌;**lymphoma**淋巴瘤;**tumour**肿瘤;**colorectal**结肠直肠的;**metastasis**转移;**malignant**有恶意的;**leukemia**白血病;
+			5. _malignant melanoma_ [医]恶性黑色素瘤
+			6. It is used for treating melanoma, the most serious type of skin cancer. /该产品用于治疗黑素瘤，黑素瘤是最严重的一种皮肤癌。
+			7. But when melanoma is caught late, it is extremely deadly /但如果到了晚期则有致命危险。
+			8. The good news is that a combination of sunscreen and covering up can reduce **melanoma**rates, as shown by Australian figures from their slip slop slap campaign /好消息是，防晒霜和遮盖物的结合可以降低黑色素瘤的发病率，这一数据来自澳大利亚的 slip slop slap 运动。
+			9. melanomata
+		6. melanosis
+		7. melanotic, ameanotic
+		8. melanocortin
 	3. Melanesian
 2. mullet
+	1. - n. 胭脂鱼；鲻鱼；乌鱼
+	2.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)
+	3.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)
+	4. _n._ [fish](dic://fish), [percoid fish](dic://percoid fish), [percoid](dic://percoid), [percoidean](dic://percoidean), [bottom-feeder](dic://bottom-feeder), [bottom-dweller](dic://bottom-dweller)
+	5. **beard**胡须;**haircut**理发;**mustache**胡子，髭;**moustache**小胡子;**hair**头发;**hairstyle**发型;**catfish**鲶鱼;**fish**捕鱼，钓鱼;**ponytail**马尾辫;**lobster**龙虾;**curly**卷曲的;
+	6. The dolphins do the hard work herding the mullet. /海豚完成了捕鱼过程中最难的部分。
+	7. It is not an easy trip for the pole mullet. /对于鲻鱼来说，这次旅行并不轻松。
+	8. Leon Topjian said today's catch, three Black Sea mullet, is not very big. /莱昂·特普安称今天的收获是三条黑海鲻鱼, 个头不是很大。
 #### ⭐ + \*mel- (4)+ = strong, great, numerous
 1. **melior-** = better, 表示“更好”，这里 -or 表示比较级。源自拉丁语 melior "better."
 	1. meliority
 	2. meliorate
 		1. 来自拉丁语 melior,更好的，-or,比较级后缀，来自 PIE*mel,强壮的，有力的，增多的，词源同 multi-,ameliorate.
-		2. meliorable
-		3. meliorative
-		4. melioration
+		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [change state](dic://change state), [turn](dic://turn)
+		3. **likewise**也;**assemblage**聚集;**necessitate**使…成为必要, 需要;**furnish**供应;**moreover**此外;
+		4. We could certify delivery **meliorate** whether you would take it now /如果现在交货我们较能保证如期交到。
+		5. 
+		6. meliorable
+		7. meliorative
+		8. melioration
 			1. **improvement**增加或修改;**reclamation**开垦,开拓;**habitation**居住;**cognition**认识;**betterment**改好;**enhancement**提高，增加，增强;**cultivation**耕作,耕种;
 	4. ameliorate
 		1. a-加强 + melior-好 + -ant
 		2. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
-		3. ameliorant
-		4. ameliorable
-		5. ameliorative
-		6. amelioration
-			1. **improvement**增加或修改;**concomitant**相伴的;**deterioration**恶化,变坏;**degradation**下降,降低;**eradication**根除;**worsening**恶化;**reduction**减少;**consequent**作为结果的;**betterment**改好;**alleviate**缓和;**pharmacological**药理学的;
+		3. the reform did much to ameliorate living standards /改革使生活水平改善了许多。
+		4. Volunteers could do little to ameliorate conditions in the refugee camp /志愿者们对改善难民营的状况几乎做不了任何事情。
+		5. This slightly improves the blood flow and ameliorates hypoxia. /这样可以稍微改善血流，缓解缺氧状态。
+		6. Other fields are familiar with human imperfectibility, and take steps to ameliorate it. /人性的弱点在其他领域也很常见，人们会采取措施改进这一点。
+		7. ameliorant
+		8. ameliorable
+		9. ameliorative
+			1. _adj._ [bettering](dic://bettering)
+			2. _n._ [worsening](dic://worsening)
+			3. **remedial**治疗的;**deleterious**有害的;**remedy**药品, 治疗法;**restorative**恢复健康和体力的;**preventive**预防,防止;**compensatory**补偿性的;**pharmacological**药理学的;**punitive**惩罚性的;**systemic**全身的;**corrective**有改正作用的;**reforms**改革;
+		10. amelioration
+			1. [melioration](dic://melioration), [betterment](dic://betterment)
+			2. **improvement**增加或修改;**concomitant**相伴的;**deterioration**恶化,变坏;**degradation**下降,降低;**eradication**根除;**worsening**恶化;**reduction**减少;**consequent**作为结果的;**betterment**改好;**alleviate**缓和;**pharmacological**药理学的;
+			3. _[agricultural amelioration](dic://agricultural%20amelioration)_ 农业土壤改良
+			4. _[continuous amelioration](dic://continuous%20amelioration)_ 持续改进
+			5. _[cultivational amelioration](dic://cultivational%20amelioration)_ 耕作土壤改良
+			6. _[noise amelioration](dic://noise%20amelioration)_ 改善噪音滋扰; 环境保护; 
+			7. _[land amelioration](dic://land%20amelioration)_ 土地改良
 2. **multi-** 表示“很多，很多”。源自拉丁语 multus "many, much."
 	1. multi-arch
 	2. multi-industry
@@ -2436,73 +2498,109 @@
 	13. etc..
 #### + \*mel- (5) + 
 1. **mal-** = bad, wretched, 表示“坏，恶”。源自拉丁语 malus "bad, male, ill."
-	1. dismal, dismally
-	2. malabsorption
-	3. maladaptive
-	4. maladiction
-	5. maladjusted
-	6. maladjustment
-	7. maladminister
-	8. maladministration
-	9. maladroit
-	10. malady, pseudomalady
-		1. [condition](dic://condition), [status](dic://status), [ill health](dic://ill health), [unhealthiness](dic://unhealthiness), [health problem](dic://health problem)
-		2. [illness](dic://illness), [unwellness](dic://unwellness), [sickness](dic://sickness)
-		3. **ailment**小病;**affliction**折磨;**ailments**疾病，小病;**illness**疾病;**incurable**不能医治的;**disease**病，疾病;**debilitating**使衰弱的;**malaise**不舒服;**symptom**症状;**diseases**病害;**cure**治愈;
-	11. malaise
-	12. malapert
-	13. malapportioned
-	14. malaprop, malapropism
-	15. malcontent
-	16. malediction
-	17. maledictory
-	18. malefaction
-	19. malefactor, malefactress
-	20. malefic, maleficent
+	1. dismal
+		1.  [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
+		2. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+		3. _n._ [cheerful](dic://cheerful)
+		4. **abysmal**深不可测的;**lackluster**无光泽,暗淡;**bleak**荒凉的，无遮蔽的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**pitiful**可怜的，令人同情的;**miserable**悲惨的;**disappointing**令人失望的;**dreadful**可怕的;**grim**冷酷的;**wretched**可怜的;
+		5. _dismal science_ 忧郁的科学；悲观科学
+		6. dismal weather; took a dismal view of the economy. /阴沉的天气；对经济抱着不乐观的看法
+		7. his life was a catalogue of dismal failures /他的一生是一系列凄惨的失败。
+		8. there was one bright spot in a night of dismal failure /令人沮丧的失败之夜有一个亮点。
+		9. his dismal mood was not dispelled by finding the house empty. /发现房子是空的并没有使他郁闷的情绪消散。
+		10. The figures from recent years are truly dismal. /而近年的宏观统计数据的确糟糕。
+		11. Was ever such a dreary, dismal, unprofitable world? /难道有过这样凄凉惨淡而又无聊的世界吗？
+		12. It was a very dubious-looking, nay, a very dark and dismal night, bitingly cold and cheerless. /这是一个非常朦胧的.简直是非常黯黑而阴沉的夜晚, 天气冷彻肌肤, 了无生趣。
+		13. dismally
+	3. malabsorption
+	4. maladaptive
+	5. maladiction
+	6. maladjusted
+	7. maladjustment
+	8. maladminister
+	9. maladministration
+	10. maladroit
+		1. _adj._ [bumbling](dic://bumbling), [bungling](dic://bungling), [butterfingered](dic://butterfingered), [ham-fisted](dic://ham-fisted), [ham-handed](dic://ham-handed), [handless](dic://handless), [heavy-handed](dic://heavy-handed)
+		2. _n._ [adroit](dic://adroit)
+		3. **inept**不适当的;**clumsy**笨拙的;**incompetent**无能力的;**crass**粗鲁的;**awkward**笨拙的;**well-meaning**善意的;**hapless**运气不好的，倒霉的;**embarrassing**令人为难的;**pompous**浮夸的;**misguided**由错误思想指引的,不明智的;**careless**粗心的;
+		4. _[maladroit propaganda](dic://maladroit%20propaganda)_ 拙劣的宣传
+		5. _[deft maladroit](dic://deft%20maladroit)_ 灵巧的〈〉笨拙的
+		6. _[crude unskilled gummy maladroit sour](dic://crude%20unskilled%20gummy%20maladroit%20sour)_ 拙劣的
+		7. a maladroit translation /笨拙的翻译
+		8.  And words for left give us sinister, gauche, maladroit./而含有 left 这个含义的词有不详的，笨拙的，不灵巧的。
+		9. Are you trying to suggest, in your usual, maladroit fashion, that our jobs are in peril?/  你又是想用你平常那种笨拙的方式暗示我们的职位要不保吗？
+		10. Some of his first interviews with the press were rather **maladroit**. /刚开始接受的一些新闻采访，显得相当笨拙。
+	11. malady
+		1. n. 弊病；疾病；腐败
+		2. [condition](dic://condition), [status](dic://status), [ill health](dic://ill health), [unhealthiness](dic://unhealthiness), [health problem](dic://health problem)
+		3. [illness](dic://illness), [unwellness](dic://unwellness), [sickness](dic://sickness)
+		4. **ailment**小病;**affliction**折磨;**ailments**疾病，小病;**illness**疾病;**incurable**不能医治的;**disease**病，疾病;**debilitating**使衰弱的;**malaise**不舒服;**symptom**症状;**diseases**病害;**cure**治愈;
+		5. the malady of discontent. /因不满而起的混乱
+		6. "It is the sort of malady which we call monomania ," said the doctor /“这种病我们叫做偏执狂。”医生说道。
+		7. I don't know--but the results of such a malady /我不知道——这个病的后果。
+		8. This week we are under doctor's orders as we dissect a medley of maladies. /这周我们在医生的命令下剖析了一组疾病。
+		9. Neglected tropical diseases, or NTDs, are maladies of the poorest of the poor /被忽视的热带病是穷人中最贫穷的人的疾病。
+		10. pseudomalady
+	12. malaise
+	13. malapert
+	14. malapportioned
+	15. malaprop, malapropism
+	16. malcontent
+	17. malediction
+	18. maledictory
+	19. malefaction
+	20. malefactor, malefactress
+	21. malefic, maleficent
 		1. maleficence
-	21. malevolence
-	22. malevolent, malevolently
-	23. malfeasance
-	24. malfeasant
-	25. malformation
-	26. malformed
-	27. malfunciton
-	28. malice, malicious, 
+	22. malevolence
+	23. malevolent, malevolently
+	24. malfeasance
+	25. malfeasant
+	26. malformation
+	27. malformed
+	28. malfunciton
+	29. malice, malicious, 
 		1. maliciousness
 		2. maliciously
-	29. malign
-		1. malignity
-		2. malignin
-		3. maligner
-		4. malignant
-		5. malignancy
-		6. malignance
-		7. malignogram
-		8. malignometer
-		9. etc..
-	30. malinger
+	30. malign
+		1.  [badmouth](dic://badmouth), [traduce](dic://traduce), [drag through the mud](dic://drag through the mud)
+		2. [malefic](dic://malefic), [malevolent](dic://malevolent), [evil](dic://evil)
+		3. _v._ [defame](dic://defame), [slander](dic://slander), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear)
+		4. _adj._ [cancerous](dic://cancerous), [evil](dic://evil), [harmful](dic://harmful), [injurious](dic://injurious), [maleficent](dic://maleficent)
+		5. _n._ [benign](dic://benign), [benignant](dic://benignant), [beneficent](dic://beneficent)
+		6. **malevolent**有恶意的;**discredit**败坏…的名声;**malignant**有恶意的;**nefarious**极坏的;**pernicious**很有害的;**subvert**推翻;**undermine**在某物下挖洞或挖通道;**insidious**隐伏的;**sinister**阴险的;**malicious**恶意的, 恶毒的;**benign**良性的;
+		7. malignity
+		8. malignin
+		9. maligner
+		10. malignant
+		11. malignancy
+		12. malignance
+		13. malignogram
+		14. malignometer
+		15. etc..
+	32. malinger
 		1. malingering
 		2. malingerer
-	31. malism
-	32. malison
-	33. malnourished
-	34. malnutrition
-	35. malodor
+	33. malism
+	34. malison
+	35. malnourished
+	36. malnutrition
+	37. malodor
 		1. malodorous
 		2. malodorant
-	36. malodour
-	37. malposition
-	38. malpractice
-	39. maltreat
-	40. malversation
-	41. malacanthid
-	42. Malacanthidae
-	43. Malacanthus
-	44. malcombustion
-	45. malcompression
-	46. malconformation
-	47. malcrystalline
-	48. malingery
+	38. malodour
+	39. malposition
+	40. malpractice
+	41. maltreat
+	42. malversation
+	43. malacanthid
+	44. Malacanthidae
+	45. Malacanthus
+	46. malcombustion
+	47. malcompression
+	48. malconformation
+	49. malcrystalline
+	50. malingery
 2. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
 	1. 见 wer- (3)
 
@@ -2513,36 +2611,53 @@
 		1. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [change state](dic://change state), [turn](dic://turn)
 		2. _n._ [demulsify](dic://demulsify)
 		3. **emulsion**乳状液;**thicken**使变厚;**oils**油画颜料;**dissolve**使溶解;**mayonnaise**蛋黄酱;**surfactant**表面活性剂;**fats**脂肪;**rinse**冲洗掉;**viscosity**黏稠;**vinaigrette**色拉调味汁;**whisk**拂;
-		4. emulsion
+		4. Basically that preserves the constant state of the butter which is to be emulsified. /基本上，这可以保持待乳化的黄油的恒定状态。
+		5. It's just a simple shake to emulsify situation /这只是一个简单的摇晃乳化情况。
+		6. This is gonna emulsify and become mayo. /这会乳化并变成蛋黄酱。
+		7. So aioli, basically, it's egg yolk, and then we have oil to emulsify it. /所以蒜泥蛋黄酱，基本上，它是蛋黄，然后我们用油来乳化它。
+		8. The butter is going to melt and emulsify with the honey and make this really, kind of, creamy sauce. /黄油会融化并与蜂蜜一起乳化，制成这种真正的奶油酱。
+		9. I'm gonna scoop out and reserve some of that pasta water, to help emulsify our sauce, and I'm gonna go drain this. /我要舀出一些意大利面水，用来乳化我们的酱汁，然后我要把它沥干。
+		10. It is the pressure which releases the coffee oils; these **emulsify** and give the coffee its rich, velvety texture. /是压力将咖啡油脂释放出来；这些油脂充分乳化融合给咖啡带来浓郁、醇厚的口感
+		11. emulsion
 			1. _n._ [colloid](dic://colloid), [coating](dic://coating), [coat](dic://coat)
 			2. **aqueous**水的，水般的;**slurry**泥浆;**coating**涂层;**solvent**有溶解力的;**surfactant**表面活性剂;**polymerization**聚合;**pigment**颜料;**viscosity**黏稠;**gelatin**明胶;**additive**添加剂，添加物;**polymeric**聚合的;
-		5. emulsive
+			3. an emulsion of oil in vinegar. /一种油在醋中的乳浊液
+			4. 
+		12. emulsive
 			1. _adj._ 乳剂质的,会流出乳状液的,可榨出油来的
-		6. emulsoid
+		13. emulsoid
 	3. milch
 		1. **cow**奶牛，母牛;**milk**牛奶;**cattle**牛;**dairy**牛奶场;**goats**山羊;**milking**挤奶;**herds**畜群;**goat**山羊;
 		2. milch cow
-	4. promulgated
+	4. promulgate
 		1. pro-向前 + mulg-=milk奶。或pro-向前 + vulg-公开，使为公众所知。
 		2. promulgate ['prɒm(ə)lgeɪt] vt.公布；传播；发表。前缀pro-向前，拉丁词根mulg-表示牛奶、挤奶，与日耳曼词源的milk同源（非常规整的首音m和尾音g-k的对应），-ate动词后缀。想象下把奶从牛的乳房中挤出来，就象新闻和消息等的公布和发表等。Their mission is to promulgate learning and culture. ​​​​
 		3. _v._ [declare](dic://declare), [announce](dic://announce)
 		4. **disseminate**散布, 传播;**enact**扮演;**perpetuate**使永存;**establish**建立, 成立;**formulate**构想出, 规划;**enforce**强迫，强制;**revise**校订;**impose**强加;**prescribe**开药方;**implement**使生效, 贯彻, 执行;**propagate**繁殖;
 		5. _[power to promulgate laws](dic://power%20to%20promulgate%20laws)_ 颁布法律权
+		6. The king promulgate a decree. /国王颁布了一项命令。
+		7. He promulgates decrees as czar about daily life /他也以沙皇之尊颁布有关日常生活的法令。
+		8. The department promulgated the news in the college. /学院在整个学校通报了消息。
+		9. They are being actively promulgated and promoted by some in the media. /一些媒体正在积极发布和宣传。
+		10. As more states consider promulgating additional regulations, there is a need for greater accountability from within the business community. /随着越来越多的州考虑颁布补充规定，商界内部需要增强责任感。
+		11. It was promulgated in bad faith. /是恶意颁布的。
 2. milk
 
 
 ### + \*melit- + = honey
 1. **mell-** = = honey, 表示“蜜”。源自拉丁语 mel (词干 mell-) "honey."
 	1. mellow
-		1. mellowness, mellowly, mellowing
-		2. melliferous
+		1. a. 甘美的; 成熟的; 柔和丰富的; 欢快的, 安详轻松的; v. （使）成熟, 老成; （使颜色）柔和; （使酒）更加醇香
+		2.  可能来自古英语 melu,粉，来自 PIE*mel,软的，词源同 melt.后用于形容水果成熟的，松软的，醇香的，并引申词义甘美的。
+		3. mellowness, mellowly, mellowing
+		4. melliferous
 			1. _[melliferous](dic://melliferous)_  adj. 甜的，产蜜的
 			2. _[melliferous plant](dic://melliferous%20plant)_  生蜜植物
-		3. mellifluence
-		4. mellifluent
+		5. mellifluence
+		6. mellifluent
 			1. _[mellifluent](dic://mellifluent)_  adj. 如蜜般的（等于mellifluous）
 			2. He joined what Mr Farrell describes as " a sump of aged men with liver spots, claws and bourbon breath, who strode the chamber with reptilian gait and hailed one another with mellifluent courtesies /他加入了 Farrell 先生所说的“一群长着肝斑、爪子和波旁酒气息的老人，他们以爬行动物的步态在房间里大步走， 并以甜美的礼貌互相打招呼”。
-		5. mellifluous
+		7. mellifluous
 			1. _adj._ [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
 			2. _n._ [unmelodious](dic://unmelodious), [unmelodic](dic://unmelodic), [unmusical](dic://unmusical)
 			3. **baritone**男中音;**soulful**感情上的;**eloquent**雄辩的，有口才的;**evocative**引起…记忆的, 唤起…感情的;**lyrical**抒情诗调的;**melodic**有旋律的;**sultry**闷热的;**poetic**诗的，诗歌的;**velvety**天鹅绒般柔软的;**ethereal**天上的;**soothing**使人宽心的;
@@ -2550,26 +2665,34 @@
 			5. the voice was mellifluous and smooth. /嗓音甜美圆润。
 			6. polite and cordial, with a mellifluous, well-educated voice /彬彬有礼而热情真挚的，具有一副训练有素的甜蜜嗓音
 			7. It will astonish your aperitif papillae by its muscat fragrances and the with mellifluous by its mouth / 她会以她浓郁的麝香味道和蜜汁的丰盈口感，给您的味觉一个美妙的惊喜。
-	2. caramel
-		1. [caramelized sugar](dic://caramelized sugar)
-		2. [yellowish brown](dic://yellowish brown), [raw sienna](dic://raw sienna), [buff](dic://buff), [caramel brown](dic://caramel brown)
-		3.  [caramel brown](dic://caramel brown)
-		4. _n._ [candy](dic://candy), [confect](dic://confect), [sugar](dic://sugar), [refined sugar](dic://refined sugar), [brown](dic://brown), [brownness](dic://brownness)
-		5. _adj._ [chromatic](dic://chromatic)
-		6. _n._ [achromatic](dic://achromatic)
-		7. **toffee**乳脂糖，太妃糖;**chocolate**巧克力;**caramelized**焦糖;**hazelnut**榛树;**ganache**甘那许;**pecan**美洲山核桃;**fudge**软糖;**cinnamon**肉桂;**apricot**杏树;**malty**麦芽的;**candied**甜蜜的;
-		8. _[caramels](dic://caramels)_  n. 焦糖；小块坚硬糖果（caramel的复数）
-		9. _[caramel cream](dic://caramel%20cream)_  焦糖膏
-		10. _[caramel treats](dic://caramel%20treats)_  沙琪玛
-		11. _[creme caramel](dic://creme%20caramel)_  焦糖布丁
-		12. _[caramel syrup](dic://caramel%20syrup)_  焦糖浆
-		13. _[caramel color](dic://caramel%20color)_  焦糖色素; 焦糖色; 
-		14. _[caramel colour](dic://caramel%20colour)_  焦糖色
-		15. caramelize
-		16. caramelization
-		17. caramelan
-	3. melamine
-	4. molasses
+	3. caramel
+		1. n. 焦糖; 焦糖色, 浅褐色
+		2. 来自拉丁语 cannamellis,见 cane,甘蔗，-mel,糖，见 molasses.鼻音字母 n 在 m 前流音化成 r,比较 charm,germane.
+		3. [caramelized sugar](dic://caramelized sugar)
+		4. [yellowish brown](dic://yellowish brown), [raw sienna](dic://raw sienna), [buff](dic://buff), [caramel brown](dic://caramel brown)
+		5.  [caramel brown](dic://caramel brown)
+		6. _n._ [candy](dic://candy), [confect](dic://confect), [sugar](dic://sugar), [refined sugar](dic://refined sugar), [brown](dic://brown), [brownness](dic://brownness)
+		7. _adj._ [chromatic](dic://chromatic)
+		8. _n._ [achromatic](dic://achromatic)
+		9. **toffee**乳脂糖，太妃糖;**chocolate**巧克力;**caramelized**焦糖;**hazelnut**榛树;**ganache**甘那许;**pecan**美洲山核桃;**fudge**软糖;**cinnamon**肉桂;**apricot**杏树;**malty**麦芽的;**candied**甜蜜的;
+		10. _[caramels](dic://caramels)_  n. 焦糖；小块坚硬糖果（caramel的复数）
+		11. _[caramel cream](dic://caramel%20cream)_  焦糖膏
+		12. _[caramel treats](dic://caramel%20treats)_  沙琪玛
+		13. _[creme caramel](dic://creme%20caramel)_  焦糖布丁
+		14. _[caramel syrup](dic://caramel%20syrup)_  焦糖浆
+		15. _[caramel color](dic://caramel%20color)_  焦糖色素; 焦糖色; 
+		16. _[caramel colour](dic://caramel%20colour)_  焦糖色
+		17. caramelize
+			1. _v._ [convert](dic://convert)
+			2. **browning**棕色着色剂;**shallots**冬葱;**saute**炒;**onions**洋葱;**caramel**焦糖;**thicken**使变厚;**crispy**易碎的;**oven**烤箱, 炉;**beets**甜菜;**cook**烹调，煮;**skillet**煮锅;
+			3. _[caramelized sugar](dic://caramelized%20sugar)_  焦糖
+			4. _[caramelized malted](dic://caramelized%20malted)_ 麦芽
+			5. Use electronic gas lighter to caramelize sugar. /用火枪烧溶糖面，或放入焗炉烤至金黄色。
+			6. With a poached egg and a slice of good bread, the caramelized florets make a quick and delicious weeknight supper. /再配上一个水煮鸡蛋，一片面包，美味的焦糖小花，很快就能做出周一至周五可口美味的晚饭。
+		18. caramelization
+		19. caramelan
+	4. melamine
+	5. molasses
 2. mildew
 
 

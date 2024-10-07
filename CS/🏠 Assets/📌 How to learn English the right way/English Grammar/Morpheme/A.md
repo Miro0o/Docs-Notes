@@ -3354,6 +3354,87 @@
 
 
 ## as
+### + \*as- +
+1. **ar-** = to dry, 表示“干”。源自拉丁语 aridus "dry, parched," 源自 arere "to be dry."
+	1. arid
+		1. a. 干燥的, 不毛的
+		2. adj. （土地或气候）干燥的，干旱的；枯燥的，乏味的；不成功的，无结果的
+		3.  [waterless](dic://waterless)
+		4. [desiccate](dic://desiccate), [desiccated](dic://desiccated)
+		5. _adj._ [dry](dic://dry), [dull](dic://dull)
+		6. _n._ [wet](dic://wet), [lively](dic://lively)
+		7. **desert**遗弃;**deserts**沙漠;**plains**平地，平原;**barren**贫瘠的;**mountainous**多山的;**temperate**饮食有节制的, 克己的;**desolate**荒凉的;**climates**气候，气氛;**humid**潮湿的;**grassland**草原，牧场;**drier**吹风机;
+		8. _arid area_ 干旱区
+		9. _arid region_ 干旱区域，干旱地区；干燥区
+		10. _arid land_ n. 旱地；贫瘠地
+		11. _arid climate_ 干旱地带；干燥气候
+		12. _semi arid_ adj. 半干燥的
+		13. _arid zone_ 干旱带
+		14. his arid years in suburbia. /他在郊区兴味索然的那几年。
+		15. No crops will grow in arid soil /任何农作物都不能在干涸的土壤中生长。
+		16. a technically perfect but arid musical performance. /一场技术上完美但枯燥的音乐演出
+		17. they were greening China's semi-arid Yellow River delta. /他们正在绿化中国半干旱的黄河三角洲。
+		18. What type of arid biome is only found in Brazil? /什么类型的干旱生物群系只在巴西被人发现了？
+		19. subarid
+		20. semiarid
+		21. ardity
+2. **ard-, ars-** = to burn. 表示“燃烧”。源自拉丁语 ardere "to burn, be on fire," 源自 aridus "parched."
+	1. ardency
+		1. ard-火 + -ency, 表名词
+		2. n. 热心, 热烈
+	2. ardent
+		1. a. 热心的, 激动的, 燃烧般的
+		2.  [burning(a)](dic://burning(a)), [fervent](dic://fervent), [fervid](dic://fervid), [fiery](dic://fiery), [impassioned](dic://impassioned), [perfervid](dic://perfervid), [torrid](dic://torrid)
+		3.  [warm](dic://warm)
+		4. _adj._ [passionate](dic://passionate), [enthusiastic](dic://enthusiastic), [bright](dic://bright)
+		5. _n._ [passionless](dic://passionless), [unenthusiastic](dic://unenthusiastic), [dull](dic://dull)
+		6. **fervent**强烈的;**staunch**坚固的;**avid**渴望的，贪婪的;**die-hard**顽固的;**zealous**热心的，热情的，积极的;**devout**虔诚的;**fanatical**狂热的;**enthusiastic**满腔热情的, 热心的;**admirer**赞赏者;**supporter**支持者;**outspoken**直言的;
+		7. the ardent flames /炽热的火焰。
+		8. an ardent lover. /多情的爱人
+		9. He is ardent in temper. /他性情急躁。
+		10. an ardent lover of art /酷爱艺术的赞美者
+		11. She is at heart an ardent reformer. /她实际上是个热心的改革家。
+		12. He's an ardent supporter of the local football team /他是本地足球队的热情支持者。
+		13. 82-year old Sulak Siwarak is by his own account an ardent royalist. /82岁的苏拉克·西瓦拉克自称是忠诚的保皇派。
+	3. ardor
+		1. n. 热忱, 热情, 情欲, 激情, 灼热
+	4. ardour
+	5. arson
+		1. 来自 ard-,火，燃烧，词源同 ardent,ash.
+		2.  [incendiarism](dic://incendiarism), [fire-raising](dic://fire-raising)
+		3. _n._ [burning](dic://burning), [combustion](dic://combustion)
+		4. **burglary**盗窃，夜盗;**murder**谋杀，凶杀;**fire**火;**theft**盗窃;**homicide**杀人;**vandalism**汪达尔人作风;**robbery**抢劫，盗窃;**assault**攻击;**crimes**犯罪;**rioting**暴乱;**crime**罪行，犯罪;
+		5. _[arson fire-raising](dic://arson%20fire-raising)_ 纵火罪
+		6. _[arson attack](dic://arson%20attack)_ 纵火案
+		7. _[arson clause](dic://arson%20clause)_ 自行纵火不予赔偿的条款; 火险保单中关于自行纵火不予赔偿的条款;
+3. **areol-** = small area, 表示“小区域”，来自 area 的小词形式。
+	1. areola
+	2. areolea
+	3. areolar
+	4. areolate
+4. area
+	1. n. 区域, 面积, 范围, 空地
+	2.  可能来自 ard-,火，用火烧掉杂草灌木等用于耕作。
+	3. subarea
+	4. areaway
+5. ash
+	1.  1.来自 ard-,烧，词源同 ardor.字母 r,s 音变。2.来自 PIE*os,白蜡树。
+	2. potash
+	3. deashing
+	4. ashy
+	5. ashtray
+	6. ashpan
+	7. ashman
+	8. ashless
+	9. ashing
+	10. ashes
+	11. ashery
+	12. ashen
+	13. ashed
+	14. ash-bin
+6. azalea
+
+
 ### asper- = rough, 表示“粗糙”。
 1. asperity (asperse)
 	1. asper-粗鲁，粗暴，同exasperate, 粗暴对待，激怒。

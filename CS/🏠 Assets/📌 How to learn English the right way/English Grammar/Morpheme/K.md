@@ -1443,6 +1443,21 @@
 	4. tbd..
 7. **hevel-** 表示“头发”。来自古法语。
 	1. dishevel
+		1. 1. disarrange or rumple; dishevel
+			1. [tousle](dic://tousle), [tangle](dic://tangle)
+		2. _v._ [disarrange](dic://disarrange)
+		3. - [dishtowel](dic://dishtowel) n. 干毛巾布；擦碟干布
+		4. **hair**头发;**hairstyle**发型;**countenance**面容，表情;**ponytail**马尾辫;**straighten**弄直;**mane**鬃毛;**ragged**衣衫褴褛的;**unruly**不守规矩的;**wavy**多浪的
+		5. _[disheveled coal](dic://disheveled%20coal)_ 蓬煤
+		6. _[disheveled data](dic://disheveled%20data)_ 散乱数据
+		7. _[Hair disheveled](dic://Hair%20disheveled)_ 披头散发
+		8. _[dishevelled seworries](dic://dishevelled%20seworries)_ 后裆下垂
+		9. _[disheveled lock](dic://disheveled%20lock)_ 散乱的头发
+		10. _[dishevelled selvedge](dic://dishevelled%20selvedge)_ 松边
+		11. _[dishevelled shorts](dic://dishevelled%20shorts)_ 宽短裤
+		12. The wind disheveled her. /风吹乱她的头发和衣裳。
+		13. a disheveled pile of books on the library table /图书馆的桌子上摆着一堆凌乱不整的书
+		14. By 2003 he was an uninsurable serial relapser famous for being pulled out of hotels or other people's homes in an addled, disheveled state. /1. 到2003年，他因以迷乱颓废、衣冠不整的形象从宾馆或他人的家中出来，成了一位不可信任、不断故态复萌的“名人”。
 8. **occipit** 复合词根，表示“枕骨”。由 ob- "against" + cip- "head" 组成。
 	1. occipital
 		1. **cranial**头盖的;**cortical**皮质的;**anterior**前面的;**dorsal**背的，背侧的;**frontal**正面的，前面的;**medial**中间的;**posterior**(在时间;**cortex**皮质;**carotid**颈动脉的;**vertebral**椎骨的;**lobe**耳垂;

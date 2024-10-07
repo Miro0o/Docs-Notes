@@ -937,7 +937,7 @@
 		4. batting
 	7. batter
 		1. battery（电池）：能连续发射炮弹的炮组  
-		2. 英语单词battery（电池）原本是动词bat（击打）的名词形式，源自中古法语名词batterie，其中的batt来自拉丁语动词battuere（击打）。battery最初表示“连续重击”，后来衍生出“轰炸”之意，后来又被用来表示包含一组火炮或炮台，因为包含多门火炮的火炮组能够不间断地连续发射炮弹。电池问世后，还没有合适的名称。美国科学家本富兰克明便将电池也称为battery，因为电池能像火炮组一样连续发射电荷。跟battery同源的单词有bat（击打、球棒）和batter（击球手、猛击）、battle（战役）等。  
+		2. 英语单词battery（电池）原本是动词bat（击打）的名词形式，源自中古法语名词batterie，其中的batt来自拉丁语动词battuere（击打）。battery最初表示“连续重击”，后来衍生出“轰炸”之意，后来又被用来表示包含一组火炮或炮台，因为包含多门火炮的火炮组能够不间断地连续发射炮弹。电池问世后，还没有合适的名称。美国科学家本富兰克明便将电池也称为battery，因为电池能像火炮组一样连续发射电荷。跟battery同源的单词有bat（击打、球棒）和batter（击球手、猛击）、battle（战役）等。 
 			1. battery：['bæt(ə)rɪ] n. 电池，蓄电池n. 殴打n. 炮台，炮位  
 			2. bat：[bæt]  n. 蝙蝠；球棒；球拍v. 用球棒击球；击球率达…；轮到击球  
 			3. batter：['bætɚ]  n. 击球手；（用鸡蛋、牛奶、面粉等调成的）糊状物；墙面的倾斜vt. 猛击；打坏；使向上倾斜vi. 接连猛击；向上倾斜  
@@ -954,10 +954,26 @@
 		12. a battered wife. /受虐的妻子。
 		13. a pair of battered black boots. /一双磨损的黑靴子。
 		14. He kept battering away at the door. /他接连不断地砸门。
-		15. battering
-		16. battered
-		17. battery
-		18. battle
+		15. In another city in California, local law enforcement recently denied ICE’s request to turn over a criminal alien convicted of sexual battery who had a history of domestic violence. /在加利福尼亚州的另一个城市，当地执法部门最近拒绝了 ICE 的要求， 要求移交一名被判犯有家庭暴力史的性侵犯罪的外国人。
+		16. battering
+		17. battered
+		18. battery
+			1. n. 电池，蓄电池；一组，一系列；炮组，排炮；殴打罪；（棒球队的）投手和接球手
+			2. adj. 笼养的，层架式养殖的
+			3. [electric battery](dic://electric battery)
+			4.  [stamp battery](dic://stamp battery)
+			5.  [barrage](dic://barrage), [barrage fire](dic://barrage fire), [bombardment](dic://bombardment), [shelling](dic://shelling)
+			6.  [assault and battery](dic://assault and battery)
+			7. _n._[artillery](dic://artillery), [artillery unit](dic://artillery unit), [electrical device](dic://electrical device), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+			8. **charger**充电器;**rechargeable**可再充电的;**alternator**交流发电机;**lithium**锂;**charging**炉料;**recharge**再充电;**volt**伏特;**capacitor**电容器;**voltage**电压;**standby**备用;**electrolyte**电解物;
+			9. **storage battery**: 蓄电池；蓄电池组 
+			10. **lithium battery**: 锂电池；锂蓄电池 
+			11. **battery charger**: 电池充电器 
+			12. **in battery**: (炮)准备发射的状态
+			13. He faced a battery of cameras. /他面对着众多的摄影机。
+			14. Nothing piques me more than when my phone battery dies. /没有什么比我手机电池没电更让我恼火的了。
+			15. 
+		19. battle
 			1. prebattle
 			2. embattle
 				1. _[embattled](dic://embattled)_  adj. 严阵以待的；被敌人围困的；心烦意乱的；边缘呈雉形的; v. 列阵；筑垒于（embattle的过去式和过去分词）; 

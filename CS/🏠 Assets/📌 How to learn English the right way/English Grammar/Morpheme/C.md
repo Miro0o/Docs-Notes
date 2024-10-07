@@ -484,14 +484,51 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		3. cowardice懦弱;despicable可鄙的,卑鄙的;heartless无情的;callous起老茧的;arrogant自大的，傲慢的;hypocritical伪善的;foolish愚蠢的;timid羞怯的;disgraceful可耻的,丢脸的,不光彩的;pathetic可怜的，悲哀的;dishonest不诚实的;
 		4. cower, 来自低地德语 kuren,躺下，特指因恐惧躺倒，蜷缩，最终词源不详。cow,coward,cower 三词在拼写上相互影响，但是在词源上没有任何联系。
 	5. cue
-		1. cueist
+		1. n. 提示, 线索, 球杆  
+		2. vt. 给...暗示(或提示); 击球
+		3. cue（提示）：戏剧脚本中的提示标志 
+		4. 在16和17世纪时，在西方戏剧的脚本上，往往有表示提醒演员说话或上场的提示符号Q，Q是拉丁单词quando（=英语中的when）的缩写。后来，这个符号逐渐演变为单词cue，其发音跟Q一样。词义也逐渐扩展，不仅可以用来表示戏剧中的提示，还可以表示任何提示。  
+		5. cue：n.提示，暗示，线索v.给……暗示  
+		6. miscue：[mɪs'kjʊ] n. 撞歪；失误vi. 撞歪；错过提示
+		7.  [clue](dic://clue), [clew](dic://clew)
+		8.  [discriminative stimulus](dic://discriminative stimulus)
+		9. [cue stick](dic://cue stick), [pool cue](dic://pool cue), [pool stick](dic://pool stick)
+		10.  [prompt](dic://prompt), [remind](dic://remind)
+		11. _n._ [actor's line](dic://actor's line), [speech](dic://speech), [words](dic://words), [evidence](dic://evidence), [stimulation](dic://stimulation), [stimulus](dic://stimulus), [stimulant](dic://stimulant)
+		12. _v._ [inform](dic://inform)
+		13. **pause**暂停;**clap**鼓掌，拍手;**montage**蒙太奇;**stimuli**刺激;
+		14. _on cue_ 恰好在这个时候
+		15. _cue ball_ 撞球台上的白色球，母球
+		16. _cue in_ v. 插入；提供消息
+		17. _cue stick_ 桌球杆
+		18. right on cue the door opened. /门适时地开了。
+		19. The monied-men who buy my cues naturally want the best hitting and longest lasting cue their money can buy. /很自然地﹐这些有钱的顾客都希望能买到一根手感最佳并质量持久的球杆
+		20. have a list of needs and questions on paper to cue you. /将需要和问题记在纸上以提醒你。
+		21. features make it easier to cue up a tape for editing. /专题节目使得备好磁带准备编辑更加容易。
+		22. The actor missed his cue and came onto the stage late /这演员错过了向他发出的提示, 上场晚了。
+		23. McGee did not move and Julia took her cue from him. /麦吉没有动，朱莉娅也学他的样。
+		24. I could probably take a few cues from her. /我也许能从她身上得到一些启发。
+		25. Don't know if you caught that subtle cue. /你们大概也看出来了。
+		26. cueist
+			1. n. (台球等的)用球杆者, 精于用球杆者
 	6. curlicue
+		1. [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curl](dic://curl), [ringlet](dic://ringlet), [gyre](dic://gyre), [scroll](dic://scroll)
+		2. [squiggle](dic://squiggle)
+		3. _n._ [round shape](dic://round shape), [line](dic://line)
+		4. **swirls**旋涡;**curving**弯曲的;**ornate**华丽的;**wavy**多浪的;**pointy**尖的;**swirl**漩涡;**triangular**三角形的;**lettering**字体;**whimsical**异想天开的,闹着玩的;**stylized**程式化的;**intricate**错综复杂的;
+		5. He doesn't just put on a pair of glasses. He combs back his curlicue and affects a mild-mannered personality. /他不光只是戴上一副眼镜这么简单。他前额那一小撮卷发没了，性格也变得温文尔雅
+		6. They have a slithery, entropic texture—slice into them and little grey curlicues slide out—and smell like a urine-soaked barnyard. /它们有一种光滑、熵的质地——切开它们，灰色的小花饰滑出——闻起来像尿湿的谷仓。
+		7. They made circles, and curlicues, and squiggledy things, and these hardened at once and were candy. /他们做了圆圈、花饰和波浪形的东西，这些东西立刻变硬了， 变成了糖果。
+		8. Her fine forehead sloped gently up to where her hair, bordering it like an armorial shield, burst into lovelocks and waves and curlicues of ash blonde and gold /她漂亮的前额轻轻地向上倾斜， 直到她的头发像盾牌一样围绕着它， 爆发出爱情锁、波浪和灰金色和金色的花饰。
+		9. These dust devils have been seen from orbit, and when they blow the red dust around on the greyish basaltic plains, they can leave behind incredibly complex and beautiful curlicues. /这些尘暴从火星轨道上就能看见，当它们从灰扑扑的玄武岩平原上吹起红色的尘土时，会留下无比复杂和美丽的花纹。
+		10. BEHIND curlicues of cigarette smoke and with the gentle tones of wartime tunes wafting from a tape deck, Alf Biber is back on his feet after the looting of his dinky Tottenham barbershop (above) /在伦敦托特纳姆区一家小巧精致的男士理发店里烟圈缭绕，放音机里飘来战时音乐温柔的调子。埃尔夫? 拜博的这家小店在被打劫之后又重 回正轨（见上图）。
 	7. queue
 		1. subqueue
 		2. queueing
 		3. multiqueuing
 		4. multiqueue
 		5. enqueue
+			1. - vt. 排队；入队；队列
 		6. dequeue
 
 
@@ -564,6 +601,14 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 ## ce
 ### celib- = single, 表示“单个”。
 1. celibacy
+	1. [chastity](dic://chastity), [sexual abstention](dic://sexual abstention)
+	2. _n._ [condition](dic://condition), [status](dic://status), [abstinence](dic://abstinence)
+	3. **chastity**纯洁;**abstinence**节制;**priesthood**神职;**monastic**僧侣;**marriage**结婚;**priestly**祭司的;**ordination**任命;**virginity**处女;**polygamy**一夫多妻，一妻多夫，多配偶;**homosexuality**同性恋;**penance**使…以苦行赎罪;
+	4. _[controversy on clerical celibacy](dic://controversy%20on%20clerical%20celibacy)_ 教士独身制之争
+	5. The report also proposes that the Roman Catholic Church makes celibacy among its clergy voluntary. /报告还建议罗马天主教堂将独身主义变为自愿行为。
+	6. The legislation also obliges public broadcasters to produce content that encourages women to have children and denounces celibacy or abortion /该法案还要求公共广播机构制作鼓励妇女生育、谴责禁欲或堕胎的内容。
+	7. Then a passionate celibacy is all that any of us can look forward to /那么热情的独身生活就是我们任何人都可以期待的。
+	8. 
 2. celibate
 	1. n. 独身者, 独身主义者  
 	2. a. 独身的, 独身主义的
@@ -597,13 +642,29 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	5. tautochrone
 	6. etc..
 3. chronicle
+	1. _n._ [record](dic://record)
+	2. _v._ [record](dic://record), [enter](dic://enter), [put down](dic://put down)
+	3. **documenting**文件制作，文件编制;**memoir**传记;**saga**冒险故事;**tale**故事;**compendium**摘要,纲要;**memoirs**回忆录;**diary**日记簿;**biography**传记;**story**故事;**musings**沉思;**autobiographical**自传的;
+	4. I heard the sad chronicle of his accidents. /我听到了关于他出事的悲惨经过。
+	5. History chronicles important events of the past. /历史记载了历代重要的事件。
+	6. his work chronicles 20th-century displacement and migration. /他的作品翔实记载了20世纪被迫离境和移居国外的情况。
+	7. Yet he chronicles his travels with a wearying feather-light jocularity, prizing one-liners over lucid analysis /但他记录旅行的笔法却是乏味的、轻佻的滑稽，过多的俏皮话替代了清晰的分析。
+	8. This is no arid chronicle of obscure facts from the dust-filled libraries of history. /这不是枯燥乏味的编年史，不是那种尘封的历史图书馆里搜罗来的鲜为人知的事实。
 4. chronograph, photochronograph
 	1. photochronography
 5. chronology
 	1. biochronology, biochronometer
 6. chronometer, chronometry
 7. chronoscope, chronometric, microchronometer
-8. crony, cronism
+8. crony
+	1.  [buddy](dic://buddy), [brother](dic://brother), [chum](dic://chum), [pal](dic://pal), [sidekick](dic://sidekick)
+	2. _n._ [friend](dic://friend)
+	3. **capitalist**资本家;**capitalism**资本主义;**corrupt**腐败的，贪污的;**lobbyist**说客;**billionaire**亿万富翁;**greed**贪婪，贪心;**sleazy**质地薄的;**crook**钩;**neoliberal**新自由主义;**corruption**堕落;**banker**银行家;
+	4. _crony capitalism_ 裙带资本主义；权贵资本主义；唯亲资本主义
+	5. In her late sixties she traveled over Europe with a crony of equal years. /在接近古稀之年,她同一个与她同年的密友漫游欧洲。
+	6. his cronies concocted a simple plan. /他的好友们制定了一个简单的计划。
+	7. They understand that they are not their child's friend, buddy, peer, comrade, or **crony**. /他们明白，他们并不是孩子的朋友、伙伴，同辈、同志，或者密友。
+	8. cronism
 
 
 
