@@ -10,6 +10,8 @@
 
 
 ## Intro
+> 🔗 https://textbook.cs161.org/crypto/signatures.html
+
 数字签名（Digital Signature）又称**公钥数字签名**或**电子签章**,是以电子形式存储于信息中或以附件或逻辑上关联数据, 用于辨识数据签署人身份,表明签署人对数据中所包含信息的认可。
 
 > **ISO**对数字签名的定义：

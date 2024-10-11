@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
+↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [SCA (Static Code Analysis)](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/📌%20SCA%20(Static%20Code%20Analysis)/SCA%20(Static%20Code%20Analysis).md)
 ↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
@@ -133,16 +133,18 @@ It is divided as Logic, Functional, Database. In computer science the _declarat
 ##### 1. Logic Programming Paradigm
 It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result. In normal programming languages, such concept of knowledge base is not available but while using the concept of artificial intelligence, machine learning we have some models like Perception model which is using the same mechanism.   
 In logical programming the main emphasize is on knowledge base and the problem. The execution of the program is very much like proof of mathematical statement, e.g., Prolog.
+
+↗ [Logic Programming Languages](Programming%20Languages%20for%20Specific%20Scientific%20Areas/Logic%20Programming%20Languages/Logic%20Programming%20Languages.md)
 ##### 2. Functional Programming
-**JavaScript**: developed by Brendan Eich
-
+👉 [JavaScript-Based Languages](Compiled%20Languages/🐝%20JavaScript-Based%20Languages/JavaScript-Based%20Languages.md): developed by Brendan Eich
 👉 [Haskell](Compiled%20Languages/Haskell/Haskell.md): developed by Lennart Augustsson, Dave Barton
+👉 [Scala](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/Scala/Scala.md): developed by Martin Odersky
+👉 **Erlang**: developed by Joe Armstrong, Robert Virding
 
-**Scala**: developed by Martin Odersky
-**Erlang**: developed by Joe Armstrong, Robert Virding
-**Lisp**: developed by John Mccarthy
-**ML**: developed by Robin Milner
-**Clojure**: developed by Rich Hickey
+↗ [Lisp-Based Languages](Compiled%20Languages/Lisp-Based%20Languages/Lisp-Based%20Languages.md)
+- 👉 [Lisp](Compiled%20Languages/Lisp-Based%20Languages/Lisp/Lisp.md): developed by John Mccarthy
+- 👉 **ML**: developed by Robin Milner
+- 👉 [Clojure](Compiled%20Languages/Lisp-Based%20Languages/Clojure/Clojure.md): developed by Rich Hickey
 ##### 3. Database Processing Approach
 ```mysql
 CREATE DATABASE databaseAddress;
@@ -155,7 +157,12 @@ CREATE TABLE Addr (
     State varchar(200)
 );
 ```
-#### 2️⃣ Imperitive Programming Paradigm
+↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
+- ↗ [Record-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
+- ↗ [Object-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
+- ↗ [Query Languages (Data Query Languages, DQL)](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
+
+#### 2️⃣ Imperative Programming Paradigm
 It is one of the oldest programming paradigm. It features close relation to machine architecture. It is based on Von Neumann architecture. It works by changing the program state through assignment statements. It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
 
 > Examples of **Imperative** programming paradigm:
@@ -164,25 +171,25 @@ It is one of the oldest programming paradigm. It features close relation to mach
 > **Fortran**: developed by John Backus for IBM
 > **Basic**: developed by John G Kemeny and Thomas E Kurtz
 ##### 1. Procedural Programming Paradigm
-**C**: developed by Dennis Ritchie and Ken Thompson
-**C++**: developed by Bjarne Stroustrup
+↗ [C-Based Languages](Compiled%20Languages/👔%20C-Based%20Languages/C-Based%20Languages.md)
+↗ [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
+- 👉 **C**: developed by Dennis Ritchie and Ken Thompson
+- 👉 **C++**: developed by Bjarne Stroustrup
 
-👉 [C & CPP](Compiled%20Languages/👔%20C-Based%20Languages/🥏%20C%20&%20CPP/C%20&%20CPP.md)
-
-**Java**: developed by James Gosling at Sun Microsystems
-**ColdFusion**: developed by J J Allaire
-**Pascal**: developed by Niklaus Wirth
+↗ [JVM-Based Languages](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/JVM-Based%20Languages.md)
+👉 [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
+👉 **ColdFusion**: developed by J J Allaire
+👉 **Pascal**: developed by Niklaus Wirth
 ##### 2. Object Oriented Programming, OOP
-**Simula**: first OOP language
+👉 **Simula**: first OOP language
 
 👉 [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
-
-**C++**: developed by Bjarne Stroustrup
-**Objective-C**: designed by Brad Cox
-**Visual Basic .NET**: developed by Microsoft
-**Python**: developed by Guido van Rossum
-**Ruby**: developed by Yukihiro Matsumoto 
-**Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
+👉 **C++**: developed by Bjarne Stroustrup
+👉 [Objective-C](Compiled%20Languages/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
+👉 [Dot NET Framework Based Programming](Compiled%20Languages/Dot%20NET%20Framework%20Based%20Programming/Dot%20NET%20Framework%20Based%20Programming.md): developed by Microsoft
+👉 [Python](Interpreted%20Languages/Python/Python.md): developed by Guido van Rossum
+👉 [Ruby](Interpreted%20Languages/Ruby/Ruby.md): developed by Yukihiro Matsumoto 
+👉 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 ##### 3. Parallel Processing Approach
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
 
@@ -190,6 +197,10 @@ Examples are NESL (one of the oldest one) and C/C++ also supports because of som
 
 
 ### 👉 By Programming Scenario 
+1. scientific computing
+2. application development
+3. OS/kernel/driver development
+4. other?
 
 
 

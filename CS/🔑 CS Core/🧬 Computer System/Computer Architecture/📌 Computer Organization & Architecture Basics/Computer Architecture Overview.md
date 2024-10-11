@@ -26,7 +26,7 @@ CEN, Comité Européen de Normalisation
 
 
 ## Historical Development of Computer Architecture Design
-↗ [Development of Computer System](Development%20of%20Computer%20System.md)
+↗ [Development of Computer System](../../Development%20of%20Computer%20System.md)
 
 
 

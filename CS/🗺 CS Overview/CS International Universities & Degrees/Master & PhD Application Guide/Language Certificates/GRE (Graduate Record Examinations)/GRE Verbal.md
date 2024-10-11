@@ -78,7 +78,7 @@ fanatical
 
 not least
 - 尤其，特别是 
-- · There are many reasons for his success, not least his hard work. 
+- There are many reasons for his success, not least his hard work. 
 - 他成功的原因很多，尤其是他的努力工作。
 
 anachronistic
@@ -128,7 +128,7 @@ disputed
 assertory uncompromising tenor
 halls of power
 - 权力中心：指政治、经济、文化等领域的权力中心，如政府机构、大型企业、媒体机构等。 
-- · The lobbyists are always trying to gain access to the halls of power. 
+- The lobbyists are always trying to gain access to the halls of power. 
 - 游说者总是试图进入权力中心。
 
 lobby
@@ -890,3 +890,6 @@ anodyne不惹人厌烦的
 19. impart
 20. dispense
 21. call into question
+
+
+### 10.7/2024

@@ -33,6 +33,11 @@ Recall the objective of cryptology:
 
 
 ## Message Authentication Methods
+### MAC (Messsage Authentication Code)
+> 🔗 https://textbook.cs161.org/crypto/macs.html#
+
+
+
 ### 1️⃣ Symmetric Key Based Message Authentication
 ↗ [Symmetric Cipher](../../📌%20Symmetric%20Cipher/Symmetric%20Cipher.md)
 

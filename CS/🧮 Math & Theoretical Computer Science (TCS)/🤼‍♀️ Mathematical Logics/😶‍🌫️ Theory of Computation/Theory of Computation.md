@@ -13,6 +13,7 @@
 ### Learning Resources
 🎬【【北京大学】理论计算机科学基础（全70讲）】 https://www.bilibili.com/video/BV1m4411p7nS/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d
 https://mannuan.github.io/计算理论课件/
+主讲老师：刘田
 
 🎬【【MIT18.404】计算理论基础(完结)—理论研究或算法应用的基础课】 https://www.bilibili.com/video/BV1qL411s7mr/?share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d - Michael Sipser
 

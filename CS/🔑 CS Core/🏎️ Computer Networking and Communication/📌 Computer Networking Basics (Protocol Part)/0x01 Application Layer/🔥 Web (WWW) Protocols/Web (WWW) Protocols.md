@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Web Development](../../../../../Software%20Engineering/Web%20Development/Web%20Development.md)
+↗ [Web Development & Web Basics](../../../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
 
 
 ### Web Security
