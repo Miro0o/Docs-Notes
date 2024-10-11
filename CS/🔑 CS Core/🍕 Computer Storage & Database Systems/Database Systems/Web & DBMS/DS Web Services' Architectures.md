@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Web & DBMS](Web%20&%20DBMS.md)
 ↗ [Web Application Systems & Architecture Design](../../../../Software%20Engineering/Web%20Development/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
-↗ [Web Development](../../../../Software%20Engineering/Web%20Development/Web%20Development.md)
+↗ [Web Development & Web Basics](../../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
 
 
 

@@ -10,8 +10,12 @@
 ↗ [Application Layer Security Protocols](../../Network%20Security/🏇%20Network%20Security%20Basics%20&%20Protocols/📱%20Application%20Layer%20Security%20Protocols/Application%20Layer%20Security%20Protocols.md)
 ↗ [Network & Web Security Products](../../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Network%20&%20Web%20Security%20Products/Network%20&%20Web%20Security%20Products.md)
 
-↗ [HTTP (HyperText Transfer Protocol)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
-↗ [HTTP Security](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Secuirty/HTTP%20Security.md)
+↗ [0x01 Application Layer](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/0x01%20Application%20Layer.md)
+- ↗ [Web (WWW) Protocols](../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
+- ↗ [HTTP (HyperText Transfer Protocol)](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
+- ↗ [HTTP Security](../../../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20Secuirty/HTTP%20Security.md)
+
+↗ [Web Development & Web Basics](../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
 ↗ [HTML (HyperText Markup Language)](../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20(HyperText%20Markup%20Language)/HTML%20(HyperText%20Markup%20Language).md)
 ↗ [CSS (Cascading Style Sheets)](../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
 ↗ [JavaScript (Browser End)](../../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/JavaScript%20Runtime%20Environments/📌%20JS%20Runtime%20Libraries%20&%20SDK/JavaScript%20(Browser%20End)/JavaScript%20(Browser%20End).md)
@@ -54,8 +58,6 @@ UCB CS161 Textbook
 - [UI Attacks](https://textbook.cs161.org/web/ui-attacks.html)
 - [CAPTCHAs](https://textbook.cs161.org/web/captchas.html)
 
-
-### Web Security Trending
 📈 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
@@ -64,7 +66,8 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 
 
-## Intro
+## Intro: Web Basics
+↗ [Web Development & Web Basics](../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
 
 
 

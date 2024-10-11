@@ -111,7 +111,7 @@ X.800 divides these services into 5 categories and 14 specific services:
 		2. Connectionless Confidentiality (无连接机密)
 		3. Selective-Field Confidentiality (选择字段机密性)
 		4. Traffic Flow Confidentiality (业务机密性)
-4. **Data Integrity** (has not been altered) (↗ [CIA Threats & Countermeasures /2️⃣ Data Integirty](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity))
+4. **Data Integrity** (has not been altered) (↗ [CIA Threats & Countermeasures /2️⃣ Data Integirty (and Authenticity)](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity%20(and%20Authenticity)))
 	1. Assuring the receiver that the received message has not been altered in any way from the original. (该服务可以针对有连接或无连接的条件下，对数据进行完整性检验。在连接状态下，当数据遭到任何篡改、插入、删除时还可进行补救或恢复。)
 		1. Connection Integrity with Recovery (可恢复的连接完整性)
 		2. Connection Integrity without Recovery (不可恢复的连接完整性)
@@ -165,7 +165,7 @@ Cybersecurity Mechanism: (网络空间安全技术机制)
 		1. Data appended to, or a cryptographic transformation of, a data unit that allows a recipient of the data unit to prove the source and integrity of the data unit and protect against forgery (e.g., by the recipient).
 	3. **Access Control** (↗ [Access Control (访问控制)](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Access%20Control%20(访问控制).md))
 		1. A variety of mechanisms that enforce access rights to resources.
-	4. **Data Integrity** (↗ [CIA Threats & Countermeasures /2️⃣ Data Integrity](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity) )
+	4. **Data Integrity** (↗ [CIA Threats & Countermeasures /2️⃣ Data Integrity (and Authenticity)](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/CIA%20Threats%20&%20Countermeasures.md#2️⃣%20Data%20Integrity%20(and%20Authenticity)) )
 		1. A variety of mechanisms used to assure the integrity of a data unit or stream of data units.
 		2. 数据据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 			1. 通过密码学提供完整性

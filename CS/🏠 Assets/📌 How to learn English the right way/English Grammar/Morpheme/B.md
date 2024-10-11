@@ -1,4 +1,32 @@
 ## ba
+### bacc-,bacch- 表示“浆果；酒”，来自拉丁语 bacca 草莓，原指草莓酿的酒。
+1. bacchant
+	1. n. 酒神的祭司；酒神追随者；狂饮作乐者 
+	2. adj. 崇拜酒神的；狂饮作乐的；嗜酒的
+	3.  [drunken reveler](dic://drunken reveler), [drunken reveller](dic://drunken reveller), [bacchanal](dic://bacchanal)
+	4.  [bacchanal](dic://bacchanal)
+	5. _n._ [drinker](dic://drinker), [imbiber](dic://imbiber), [toper](dic://toper), [juicer](dic://juicer), [fan](dic://fan), [buff](dic://buff), [devotee](dic://devotee)
+	6. 
+3. bacchante
+4. bacchic
+5. Bacchus
+6. bacciferous
+7. bacciform
+	1. - adj. 浆果状的
+8. bacca
+	1. - n. 浆果（等于 berry）
+9. baccate
+10. bacchanal
+	1. _n._ [drinker](dic://drinker), [imbiber](dic://imbiber), [toper](dic://toper), [juicer](dic://juicer), [fan](dic://fan), [buff](dic://buff), [devotee](dic://devotee)
+	2. _adj._ [intoxicated](dic://intoxicated), [drunk](dic://drunk), [inebriated](dic://inebriated)
+	3. _n._ [sober](dic://sober)
+	4. **orgy**狂欢宴会;**extravaganza**娱乐表演;**carnival**狂欢节，嘉年华会;**raucous**沙哑的;**celebration**庆祝;**spectacle**壮观的场面或景象;**drunken**喝醉的;**festival**节日;**booze**酒;**ecstasy**狂喜;**burlesque**作戏;
+	5. _[bacchanal culture](dic://bacchanal%20culture)_ 酒神文化
+	6. _[Bacchanal temperament](dic://Bacchanal%20temperament)_ 酒神气质
+	7. The tragedy is developed form the bacchanal doxology as one part of the fete ceremony of Dionysus. /悲剧作为狄俄尼索斯祭祀仪式的一部分，是由酒神颂歌发展而来的。
+11. bagatelle
+
+
 ### back- = back, 表示“后面”。
 1. back
 	1. backhanded
@@ -165,7 +193,16 @@
 ### + \*bassus- +
 1. **bas-, base-** =  low, foundation, 表示“低下，基础”，来自拉丁语，碱的含义由法国化学 Guillaume-Franois Rouelle 在1754年引入。
 	1. base
-	2. abase
+	2. abase (abate, ablate)
+		1. vt. 降低...的地位, 降低...的品格, 贬抑, 使谦卑
+		2. a-=ad-使 + base【低】 → 使自己低 → 降低。
+		3.  a-,去，往，base,低下，卑微，词源同 base metal,贱金属。
+		4.  [humiliate](dic://humiliate), [mortify](dic://mortify), [chagrin](dic://chagrin), [humble](dic://humble)
+		5. _v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
+		6. **humiliate**蒙羞;**embarrass**使窘迫;**lest**唯恐，以免;**exalted**尊贵的;**thee**你;**doth**从事;**degrade**降格;**tremble**战栗;**countenance**面容，表情;**reproach**责备;
+		7. 
+		8. abasement
+		9. self-abasement
 	3. baseborn
 	4. baseless
 	5. baseline
@@ -218,13 +255,44 @@
 3. bastinado
 4. batman
 5. baton
+	1. n. 指挥棒, 接力棒, 警棍
 6. bastborn
 
 ### + \*bat- + = yawning
 1. **bash-, bey-** = (因吃惊而)张着嘴、窘迫， 「Latin」batare, "to yawn, gape"
-	1. abash
-		1. abashment, abashed
-		2. bashful
+	1. abash (abase, abate, ablate)
+		1. vt. 使不安, 使羞愧, 使困窘
+		2. _vt._ 使羞愧, 使局促, 使窘迫
+		3. _adj._ 窘迫的，尴尬的
+		4. _adv._ 窘迫地，尴尬地
+		5. _n._ 窘迫，尴尬
+		6. abeyance（中止）：财产归属未定的状态  
+		7. 英语单词abeyance来自法语，原本是一个法律术语，表示“某人有望获得财产”。这个单词由a（=at）+bey（张开）+ance（名词后缀）组成，字面意思就是“处于张嘴等待的状态”。其中的bey来自拉丁语batare（张开），与bay（海湾、吠叫）同源。我们中国人习惯说“翘首期待”，而法国人习惯说“张嘴期待”。虽然表达方式不同，但同样传神。该词进入英语后，词义略有变化，表示“财产暂时处于归属待定的状态”。后来，该词从法律领域延伸至日常工作和生活，表示某件事暂时停止、被搁置起来。  
+		8. 同源的英语单词还有abash（使困窘）、bashful（局促不安的、害羞的）。这里的-bath就源自拉丁语batare（张开），形容人遇到意料之事时惊讶地张大嘴，目瞪口呆而不知所措，从而引申出“困窘、局促不安”之意。 
+		9. abash - 感叹词bah在现代英语中表示轻蔑、厌恶、不耐烦等，而ba在许多语言中则表示惊奇，是构成若干英语单词的主要成分。英语词abash（使窘迫，使羞惭）源自古法语esbahir（使惊奇），词根为ba；另一个词bashful（羞怯的）系由abash之缩略形式bash加后缀-ful所构成，词根也是ba；abeyance一词来自中世纪法语abeiance（期待），源于拉丁语batāre（张口），主要成分也是ba。因此，abeyance原先含有wide-mouthed anticipation之意，现在用以表示“（所有权等的）归属待定”、“中止”或“暂时搁置”等义。
+		10.  [embarrass](dic://embarrass)
+		11. _v._ [upset](dic://upset), [discompose](dic://discompose), [untune](dic://untune), [disconcert](dic://disconcert), [discomfit](dic://discomfit)
+		12. **countenance**面容，表情;**ere**在…以前;**lest**唯恐，以免;
+		13. " I'm sorry, Mother, " Tommen said, abashed. /" 对不起，妈妈。" 托曼窘迫地说。
+		14. " At Belle Watling's sporting house, " said Rhett, looking abashed. /沃特琳赌场，" 瑞德边说，脸上边显出难为情的的样子。"
+		15. I was not so easily abashed as I had been some years earlier. /我不像几年以前那样动不动就感到难为情了。
+		16. 
+		17. abeyance：[ə'beəns] n.中止，暂停，搁置；归属待定  
+			1. [suspension](dic://suspension)
+			2. _n._ [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
+			3. **pending**未决定的;**limbo**林波舞;**continuance**继续;**deferred**延期的;**lapsed**堕落的;**indefinitely**无限地;**suspended**暂停的,缓期的;**dormant**静止的;**reconsideration**再考虑,再审议,新审议;**adjudication**宣告;**postponed**延期的;
+			4. My face was purple, my lips blue, my faculties in abeyance /我的脸孔发紫，我的双唇变蓝，我身体器官失灵。
+			5. From that day to this, such plutonic construction work has been in abeyance. /那个时期后直到现在，海中的浮沉工作停止了。
+			6. Without a plausible explanation for what might have provoked an ice age, the whole theory fell into abeyance /不对造成一个冰川时代的原因作出合理的解释，整个理论就没法站住脚。
+			7. Logic said the traitor was Yueh, but he held final decision in abeyance /逻辑上说叛徒是越，但他暂时搁置了最后的决定权。
+			8. Once war broke out, the system went into **abeyance**. /一战爆发后，金本位体系告终。
+		18. abash：[ə'bæʃ] vt. 使困窘；使羞愧；使局促不安  
+		19. bashful：['bæʃfl]  adj.困窘的；羞愧的；局促不安的
+		20. abashment
+			1. _n._ [embarrassment](dic://embarrassment)
+			2. **embarrassment**困窘;**indignation**愤怒, 愤慨, 气愤;**astonishment**惊讶, 惊奇;**disgust**厌恶，嫌恶;**apprehension**理解;**awkwardness**笨拙;**countenance**面容，表情;**pity**怜悯，同情;**impatience**急躁;**disdain**蔑视;**annoyance**烦恼;
+			3. abashed
+		22. bashful
 			1. - adj. 害羞的，腼腆的
 			2. [blate](dic://blate)
 			3. _adj._ [timid](dic://timid), [backward](dic://backward)
@@ -238,7 +306,7 @@
 			11. 
 			12. bashfulness
 			13. bashfully
-		4. unabashed, unabashedly
+		23. unabashed, unabashedly
 			1. _adj._ [unashamed](dic://unashamed)
 			2. _n._ **unbridled**无辔头的;**ardent**热情的;**exuberant**兴高采烈的;**fervent**强烈的;**shameless**无耻的;**staunch**坚固的;**rabid**激烈的;**penchant**嗜好;**disdain**蔑视;**die-hard**顽固的;**blatant**明目张胆的;
 			3. _[unabashed unashamed](dic://unabashed%20unashamed)_ 不害羞的
@@ -248,10 +316,10 @@
 			7. _[unabashed greed](dic://unabashed%20greed)_ 不知廉耻的贪婪
 			8. _[unabashed and unashamed](dic://unabashed%20and%20unashamed)_ 艺术家放荡形骸
 			9. _[thick-skinned thickskinned unabashed unblushing](dic://thick-skinned%20thickskinned%20unabashed%20unblushing)_ 脸皮厚的
-	2. abeyance
+	3. abeyance
 		4. abeyant
-	3. badinage
-2. bevel
+	4. badinage
+3. bevel
 	1. [cant](dic://cant), [chamfer](dic://chamfer)
 	2. [bevel square](dic://bevel square)
 	3. [chamfer](dic://chamfer)
@@ -2638,6 +2706,125 @@
 	5. **pray**祈祷;**thank**感谢;**prayers**祈祷;**praying**祈祷;**thankful**感谢的;**dear**亲爱的;**prays**祈求;**grateful**感谢的;**thanking**致谢，感谢;**hope**希望;**almighty**全能的;
 	6. _god bless_ 上帝保佑
 6. bloom
+
+
+### + \*bhelg- +
+1. **balc-, balk-** 表示“树干”。
+	1. balcony
+		1. balconied
+	2. balk
+		1. balk（障碍）：农田中的田脊或田埂  
+		2. 英语单词balk的最初含义是农田中没犁过的条状区域，即两条犁沟之间的田脊或分割两块农田的田埂。作为动词时，表示“在犁地时留下田脊或田埂不犁”，引申为“（有意）忽略”。由于犁过的农田都是平整的，而田脊或田埂高高突出在农田之上，因此balk作名词时又衍生出“障碍、梁木”等含义，作动词时又衍生出“阻碍、阻止、退缩、止步不前”的含义。  
+		3. 在体育运动中，balk一词还可以表示由于动作中断造成的违规，如棒球运动中投手做出投球动作后却没有投球，跳远运动员跑过起跑区域后没有起跳，马术表演的马在栏杆前突然止步不前。  
+		4. balk：[bɔːlk; bɔːk]n.障碍，田脊，田埂，梁木vt.忽略，阻碍，阻止vi.犹豫，退缩，止步不前，（棒球）佯投。  
+		5. balky：['bɔlki] adj. 停蹄不前的；倔强的；不愿干的
+		6. [baulk](dic://baulk)
+		7. [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [baulk](dic://baulk), [check](dic://check), [handicap](dic://handicap)
+		8. [rafter](dic://rafter), [baulk](dic://baulk)
+		9. [resist](dic://resist), [baulk](dic://baulk), [jib](dic://jib)
+		10. _n._ [area](dic://area), [expanse](dic://expanse), [surface area](dic://surface area), [difficulty](dic://difficulty), [beam](dic://beam), [pitch](dic://pitch), [delivery](dic://delivery)
+		11. _v._ [disobey](dic://disobey)
+		12. **hesitant**踌躇的;**insist**坚持，强调;**wary**机警的;**exorbitant**过高的;**reluctant**不情愿的, 勉强的;**tempted**有兴趣的;**averse**不愿意的;**cringe**畏缩;**forgo**放弃;**unreasonable**不讲道理的, 非理智的;**skeptical**怀疑的;
+		13. _[balk obligations](dic://balk%20obligations)_ 规避义务
+		14. _[balk line](dic://balk%20line)_ 起跳线; 犯规线;
+		15. a balk to one's plans /计划中的障碍
+		16. The horse balked at the jump /这匹马突然停下来不前进
+		17. He balked in his speech /他忽然中断讲演。
+		18. They braced up the old house with balks of timber /他们用梁木加固旧房子。
+		19. I wanted to buy the dress, but I balked at the high price. /我本想买这件连衣裙, 但一看价钱太高就犹豫了。
+		20. It was a fine apartment in which we found ourselves, large, lofty, and heavily raftered with huge balks of age-blackened oak /我们所在的房间确是华美，又高又大，因年代久远而变成了黑色的椽木巨梁密密地排着。
+		21. Why would they balk at a chance to topple him? /为什么他们不借机推翻他？
+		22. restbalk
+		23. balky (bulky, balmy)
+			1. - adj. 停蹄不前的；倔强的；不愿干的
+			2.  [balking](dic://balking)
+			3. _adj._ [intractable](dic://intractable), stagnant, moribund
+			4. _n._ [tractable](dic://tractable), [manipulable](dic://manipulable)
+			5. **clunky**沉重的;**sluggish**萧条的;**cranky**暴躁的;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**antiquated**陈旧的;**troublesome**令人烦恼的;**wobbly**摆动的;**crippled**残废的，跛腿的;**hampered**受阻碍的;**ailing**生病的，身体不舒服的;**erratic**不稳定的;
+			6. a balky switch; a balky engine. /不易接通的开关；难以起动的发动机
+			7. The first task was overhauling America's balky election infrastructure-in the middle of a pandemic. /第一个任务是在一场大流行的情况下，彻底改革美国停滞不前的选举基础设施。
+			8. 
+	3. block
+		1. wood-block
+		2. unblocking
+		3. unblock
+		4. subblock
+		5. sketch-block
+		6. roadblock
+		7. office-block
+		8. keelblock
+		9. interblock
+		10. deblocking
+		11. deblock
+		12. cinderblock
+		13. breechblock
+		14. blockship
+		15. blockish
+		16. blocking
+		17. blockhouse
+		18. blockhead
+		19. blockette
+		20. blocker
+		21. blockbuster (filibuster)
+			1. _n._ [general-purpose bomb](dic://general-purpose bomb), [GP bomb](dic://GP bomb), [hit](dic://hit), [smash](dic://smash), [smasher](dic://smasher), [strike](dic://strike), [bang](dic://bang)
+			2. **box-office**票房的;**movie**电影;**sequel**续集;**cinematic**电影的;**film**胶卷;**movies**电影;**sci-fi**科幻;**biopic**传记片;**thriller**使人毛骨悚然的东西;**flick**轻弹;**films**电影;
+			3. _hollywood blockbuster_ 好莱坞大片
+		22. blockage
+			1.  [obstruction](dic://obstruction)
+			2. [block](dic://block), [closure](dic://closure), [occlusion](dic://occlusion), [stop](dic://stop), [stoppage](dic://stoppage)
+			3.  [closure](dic://closure), [occlusion](dic://occlusion)
+			4. _n._ [physiological state](dic://physiological state), [physiological condition](dic://physiological condition), [obstruction](dic://obstruction), [obstructor](dic://obstructor), [obstructer](dic://obstructer), [impediment](dic://impediment), [impedimenta](dic://impedimenta)
+			5. **obstruction**障碍;**clogged**阻塞的;**clogging**堵塞;**artery**动脉;**clot**凝块;**stenosis**狭窄;**clog**阻塞;**leakage**泄漏;**blocked**堵塞的;**blocking**封闭;**gallbladder**胆囊;
+			6. _[intestinal blockage](dic://intestinal%20blockage)_  肠道阻塞
+			7. _[blockage effect](dic://blockage%20effect)_  [流] 堵塞效应；收缩效应
+			8. _[blockage factor](dic://blockage%20factor)_  阻塞因数
+			9. a blockage in the pipes /管道中的堵塞物。
+			10. Eventually, the plaques can turn into blockages /最终，斑块会变成堵塞物。
+			11. I don't see any blockages or tumors /我没发现任何淤塞或是肿瘤。
+			12. Portions of the U.S. will experience a complete blockage of the sun /美国部分地区将完全看不到太阳。
+		23. blockade
+			1.  [encirclement](dic://encirclement)
+			2.  [obstruct](dic://obstruct), [block](dic://block), [hinder](dic://hinder), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
+			3. [barricade](dic://barricade), [block](dic://block), [stop](dic://stop), [block off](dic://block off), [block up](dic://block up), [bar](dic://bar)
+			4. [block off](dic://block off)
+			5.  [seal off](dic://seal off)
+			6. _n._ [military action](dic://military action), [action](dic://action), [obstruction](dic://obstruction), [obstructor](dic://obstructor), [obstructer](dic://obstructer), [impediment](dic://impediment), [impedimenta](dic://impedimenta)
+			7. _v._ [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid), [obstruct](dic://obstruct), [obturate](dic://obturate)
+			8. **siege**围攻;**embargo**禁止出入港口;**flotilla**小型船队;**convoy**护航队;**cease-fire**停火;**blocking**封闭;**blockage**封锁;**ceasefire**停火;**bombardment**炮击;**seizure**夺取;
+			9. _run the blockade_ [美国英语]偷越封锁线
+			10. a blockade of all the harbours /对所有港口的封锁
+			11. The path was blockaded by snow /道路让雪堵塞了。
+			12. the blockade by Western nations /西方国家的封锁
+			13. the bandh (general strike), the gherao (human blockade), and the dharna (fast) /全面罢工，人墙封锁和静坐绝食。
+			14. blockaderunner
+			15. blockader
+		25. backblocks
+	4. debauch
+		1. 来自古法语 debaucher,偏离，逃离工作职责。词源不详，可能来自 de-,向下，-bauch,杆，栏杆，词源同 balk,balcony.即掉落栏杆，词义由掉落引申为堕落。
+		2. vt. 使堕落  
+		3. vi. 放荡  
+		4. n. 放荡
+		5.  [orgy](dic://orgy), [debauchery](dic://debauchery), [saturnalia](dic://saturnalia), [riot](dic://riot), [bacchanal](dic://bacchanal), [bacchanalia](dic://bacchanalia), [drunken revelry](dic://drunken revelry)
+		6.  [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debase](dic://debase), [profane](dic://profane), [vitiate](dic://vitiate), [deprave](dic://deprave), [misdirect](dic://misdirect)
+		7. _n._ [revel](dic://revel), [revelry](dic://revelry)
+		8. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		9. **drunken**喝醉的;**depraved**堕落的;**orgy**狂欢宴会;**drunk**喝酒;**perverted**不正当的;**pervert**使堕落, 把…引入邪路, 使变坏;**intoxication**陶醉;**lust**性欲;**immorality**不道德,无道义;**seduce**引诱;**decadent**颓废的;
+		10. a youth debauched by drugs and drink; /沉迷于吸毒和酗酒的年轻人；
+		11. a scoffer, a debauched person, and, in brief, a man of Belial /一个玩世不恭的人，一个生活放荡的家伙，总而言之，是个恶棍
+		12. The round, at that very moment, debauched upon the terrace and proceeded to summon him with shouts and curses. /就在那一刻，那轮在露台上放荡不羁，开始用喊叫和诅咒召唤他。
+		13. debauchery
+			1. n. 放荡；纵情酒色；堕落
+			2. _n._ [revel](dic://revel), [revelry](dic://revelry)
+			3. **immorality**不道德,无道义;**drunken**喝醉的;**booze**酒;**mayhem**大混乱, 大破坏;**orgy**狂欢宴会;**madness**疯狂;**depraved**堕落的;**lust**性欲;**intoxication**陶醉;**craziness**发狂,热中,狂热;**sordid**肮脏的;
+			4. Then she fell back exhausted, for these transports of vague love wearied her more than great debauchery /但紧接着她又从天上摔了下来，香消魂断，因为这种朦朦胧胧的爱情冲动使她精疲力竭，比起肉体的荒淫无度来，还有过之而无不及。
+			5. Non-college-goers who come to join in the debauchery commit more serious crimes- feuds become perilous when partiers bring pistols. /没有上过大学的人来参加这种花天酒地的活动会犯下更严重的罪行——当参与者带着手枪时，争端就变得危险了。
+			6. Did I teach the one his vices, and the other his debauchery? /我教一个他的恶习，另一个他的放荡吗？
+			7. Heat induces languor and stillness—but also debauchery and frenzy. /热会导致倦怠和静止——但也会导致放荡和狂热。
+			8. World domination by day, debauchery by night. /白天统治世界 晚上灯红酒绿。
+		14. debauchee
+		15. debauched
+	5. fulcrum
+2. **phalang-** 表示“指骨”。源自希腊语 phalanx "beam, finger bone, line of battle."
 
 
 ### + ⭐ \*bhendh- + = to bind
@@ -5518,6 +5705,18 @@
 	8. broach： [brəʊtʃ] n.钻头，凿子，胸针vt.提出，给……钻孔、开口，开始讨论
 5. broccoli
 6. broker
+7. brocade
+	1. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
+	2. _v._ [weave](dic://weave), [tissue](dic://tissue)
+	3. **silk**蚕丝;**velvet**天鹅绒，丝绒;**chiffon**薄绸;**satin**缎子;**kimono**和服;**tulle**薄纱;**plaid**格子花呢;**lace**花边;**tunic**束腰外衣;**fabric**织物;**gilded**镀金的，装饰的;
+	4. _[brocades](dic://brocades)_  n. [纺] 织锦（brocade的复数形式）；锦缎; v. 把图案或凸花纹织入织物（brocade的第三人称单数）; 
+	5. _[silk brocade](dic://silk%20brocade)_  织锦缎
+	6. _[brocade sweater](dic://brocade%20sweater)_  提花毛衫；提花毛衣
+	7. Gold and green satin brocade drapes hung at the windows /窗上挂着金碧辉煌的缎子窗帘。
+	8. the heavily brocaded drapes that she had relined. /被她换过衬里的密织锦缎窗帷。
+	9. There are 220 warps and 48 wefts in each square centimeter of the brocade. /织锦每平方厘米有220道经线和48道纬线。
+	10. Marble columns and balustrades frame a boisterous cast of 130 life-size figures in sumptuous brocade and pearls. /大理石柱子和栏杆上勾勒有130个真人大小的人物，装饰着华丽的锦缎和珍珠。
+	11. She wore a green brocade dress and held a green parrot on her finger. /她穿着一件绿色的锦缎连衣裙，手指上托着一只绿色的鹦鹉。
 
 
 ### brom-,bromo- 化学词根，表示“溴，溴代”。

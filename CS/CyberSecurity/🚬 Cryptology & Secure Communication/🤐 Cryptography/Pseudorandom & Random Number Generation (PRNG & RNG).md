@@ -15,6 +15,8 @@
 
 
 ## Intro
+> 🔗 https://textbook.cs161.org/crypto/prng.html
+
 - True randomness requires sampling a physical process
 	- Slow and expensive (low entropy)
 - PRNG: An algorithm that uses a little bit of true randomness to generate a lot of random-looking output

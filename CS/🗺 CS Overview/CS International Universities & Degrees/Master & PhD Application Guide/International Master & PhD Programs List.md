@@ -284,7 +284,8 @@ The Institution Code: 7806, Department: 5199 ("all other departments").
 #### 👉 Humboldt-Universität zu Berlin
 #### 👉 Ruhr-University Bochum
 #### 👉 University of Stuttgart
-
+##### Master of Science, Computer Science
+https://www.uni-stuttgart.de/en/study/study-programs/Computer-Science-M.Sc.-00001/
 
 ### 🇫‍🇷 France
 **“卓越大学计划 (IDEX)”院校** (2022)

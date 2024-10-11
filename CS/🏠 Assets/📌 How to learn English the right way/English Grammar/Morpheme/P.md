@@ -3664,19 +3664,24 @@
 #### + \*pere- (1) + = produce, procure, bring forward, bring forth
 1. **par** = get ready, to try to get, prepare, equip; Latin (parare)
 	1. repair
-		1. re-再 + pair-准备 → 重新准备好 → 修理。
-		2. unrepaired
-		3. reparative
-		4. reparation
-		5. reparable
-		6. repairman
-		7. repairman
-		8. repairer
-		9. repairase
-		10. repairable
+		1. n. 修理, 补救, 修复  
+		2. vt. 修理, 修补, 补救, 恢复, 补偿  
+		3. vi. 修理, 修补, 补救, 恢复, 去, 常去, 集合
+		4. re-再 + pair-准备 → 重新准备好 → 修理。
+		5. unrepaired
+		6. reparative
+		7. reparation
+		8. reparable
+		9. repairman
+		10. repairman
+		11. repairer
+		12. repairase
+		13. repairable
 			1. irreparable
-		11. disrepair
-	3. apparatus
+		14. disrepair
+			1. n. 失修, 破损
+			2.  dis-,不，非，使相反，repair,修复，修理。
+	2. apparatus
 		1. n. 设备，器具；机构，组织；器官；评论性注释
 		2. ap-加强 + par-准备 + atus表名词 → 准备好用的东西 → 设备。
 		3. n. 装置, 器具, 器官
@@ -3699,13 +3704,13 @@
 		11. Democritus did not have access to modern electronic apparatus. /德谟克里特斯当年并没有现代的电子设备可以利用。
 		12. And that is part of the hearing apparatus. /那是听觉器官的一部分。
 		13. Then she touched the lighting apparatus, and the little room was plunged into darkness. /随后她按了一下照明设备，这个小小房间立刻沉入一片黑暗里。
-	5. apparel
+	3. apparel
 		1. ap-加强 + par-看见 + el → 穿出来给别人看的 → 衣服。
-	6. parade
+	4. parade (brocade)
 		1. par-准备 + -ade=-ate。
 		2. parade [pə'reɪd] n.游行；阅兵；炫耀；行进，v.游行；炫耀；列队行进。词根par-在这里是准备之意。莫斯科红场阅兵，其实深层次表达的是“we are prepared or ready for any challenge or war”。美国海岸警卫队的格言是SEMPER PARATUS，意思就always be prepared，semper=sem+per=always the same。
 		3. parade-ground
-	7. prepare
+	5. prepare
 		1. repreparation
 		2. preparer
 		3. prepared
@@ -3714,7 +3719,7 @@
 		6. preparator
 		7. preparative
 		8. preparation
-	8. separate
+	6. separate
 		1. separate,分开，分离，-able,表能够。
 		2. inseparate, separated, separatedly, 
 		3. separable
@@ -3724,17 +3729,18 @@
 		7. separative
 		8. separator
 		9. separatory
-	9. parapet
+	7. parapet
 		1. 1.parapet ['pærəpɪt] n.栏杆；扶手；矮护墙。para-在这里并不是如paradox悖论和paradise天堂及paralysis瘫痪中的前缀para-表around,abnormal等，而是词根par-表准备，在这里表抵挡、防卫等。parapet中的-pet不是宠物，而是词根pect-表胸腔经过意大利语后的变体，于是parapet是起防卫作用的“胸墙”。  
 		2. 2.parasol ['pærəsɒl] 是遮挡（par-）阳光（词根sol-表太阳，如solar太阳的）的遮阳伞；parachute ['pærəʃuːt]是减缓降落（chute的词根是cad,cas，表to fall down，如occident西方的是太阳落山的方向）的降落伞。而法语中的雨伞是parapluie，词根pluv-表示雨水、冲洗，雨伞就是用来挡雨的啦。
-		3.  [breastwork](dic://breastwork) 
-		4. _n._ [wall](dic://wall), [fortification](dic://fortification), [munition](dic://munition)
-		5. **roof**屋顶;**facade**正面;**chancel**高坛;**gable**山形墙;**ledge**壁架;**nave**中殿;**embankment**路堤;**railings**围栏;**turret**角楼;**verandah**走廊;**moat**护城河;
-		6. The outer parapet of the Great Wall is crenelated with merlons almost 2 m high from the base of the wall /长城外部的低墙几乎高出墙体基座2米左右。
-		7. Why now? Why was I sticking my head above the parapet? /为什么是现在？ 为什么选择站出来面对大众？
-		8. " He can see by leaning over the parapet" /“他可以靠在栏杆上看到” 。
-		9. Lean your elbows on the parapet and look over /把你的手肘靠在栏杆上， 往下看。
-	10. vituperate
+		3. n. 栏杆；扶手；矮护墙
+		4.  [breastwork](dic://breastwork) 
+		5. _n._ [wall](dic://wall), [fortification](dic://fortification), [munition](dic://munition)
+		6. **roof**屋顶;**facade**正面;**chancel**高坛;**gable**山形墙;**ledge**壁架;**nave**中殿;**embankment**路堤;**railings**围栏;**turret**角楼;**verandah**走廊;**moat**护城河;
+		7. The outer parapet of the Great Wall is crenelated with merlons almost 2 m high from the base of the wall /长城外部的低墙几乎高出墙体基座2米左右。
+		8. Why now? Why was I sticking my head above the parapet? /为什么是现在？ 为什么选择站出来面对大众？
+		9. " He can see by leaning over the parapet" /“他可以靠在栏杆上看到” 。
+		10. Lean your elbows on the parapet and look over /把你的手肘靠在栏杆上， 往下看。
+	8. vituperate
 		1. vt. 辱骂, 责骂
 		2. vitu-过错、伤害 + per-准备 + -ate, 表动词。
 		3. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)
@@ -3743,37 +3749,75 @@
 		6. vituperator
 		7. vituperative
 		8. vituperation
-2. **par-, pear-** = come in sight
-	1. 
-3. **par, partur-** = bring forth; to get, beget; Latin (parire)
+2. **par, partur-** = bring forth; to get, beget; Latin (parire)
 	1. apparition
+		1.  ap-,向，往，-par,出现。原指主显节(Epiphany)圣子降临，后词义发生了变化。
+		2. n. 鬼, 幽灵, 幻影
+		3. apparition（幽灵）：耶稣基督以婴儿形态诞生  
+		4. 英语单词apparition来自拉丁语apparitionem，是动词apparere（appear，显现）的过去分词动名词形式，本意就是“显现”。这个词最初用于宗教场合，表示“基督显现”，即耶稣基督以婴儿的形态诞生。据《圣经•新约》记载，耶稣诞生时，东方三博士在观星时发现异象，便一路向西前来拜见“犹太人的王”，最后见到了刚出世的耶稣，向他献上了三件宝物为礼。为了纪念耶稣基督的显现，基督教徒将耶稣诞生之日定为“主显节”（Epiphany）。单词epiphany的本意和apparition一样，都表示“基督显现”，但常常用来表示“主显节”。而apparition一词的宗教色彩逐渐消退，常常用来表示幽灵鬼怪的显现。  
+		5. apparition：[,æpə'rɪʃən] n.幽灵，幻影，离奇出现的东西  
+		6. epiphany：[ɪ'pɪfəni] n.主显节，显现
 	2. parent
-		1. parentage
-		2. uniparental
-		3. stepparent
-		4. parenthood
-		5. etc..
-	3. parturient, parturition, 
-	4. partogram
-	5. postpartum, prepartum, 
-		1. puerperal, puerperalism
-	6. repertoire, repertory
-	7. viper
-		1. viperous, 
-		2. viperish
-		3. viperine
-		4. viperin
-		5. Viperinae, Viperidae, Vipera
-	8. multipara, multiparous,
-	9. oviparous, semioviparous
-	10. primipara, primiparity, primiparous
-	11. viviparity, viviparous
-		1. ovoviviparous
-	12. sudoriparous
-	13. gemmiparous
-	14. uniparous
-	15. biparous
-	16. fissiparous
+		1. par-生育 + -ent分词后缀，此处做名词。
+		2. 来自拉丁语 parere,生育，词源同 pare.-ent,现在分词后缀，此处做名词。
+		3. n. 父母, 父母亲, 根源
+		4. parentage
+		5. uniparental
+		6. stepparent
+		7. parenthood
+		8. etc..
+	4. parturient
+		1. a. 分娩的, 生产的, 临盆的, 正酝酿产生新思想的
+		2.  来自拉丁语 parturire,临产的，分娩的，来自 parere 的愿望格，词源同 parent,post-partem.
+		3. parturition, 
+	6. partogram
+		1. n. 产程图
+	7. prepartum
+	8. postpartum
+		1. a. 产后的
+	9. puerperal
+		1. a. 分娩的, 产后的
+		2. puerperalism
+	10. repertoire
+		1. n. 全部剧目, 全部技能, 全部节目, 全部作品
+		2. 来自 repertory 的法语拼写形式。
+	11. repertory
+		1. n. 仓库, 库存, 储备, 保留剧目轮演
+		2.  来自拉丁语 repertorium,清单，目录，来自 reperire 的过去分词形式，来自 reperire,找到，得到，来自 re-,表强调，parire,产生，带来，词源同 parent,prepare.引申诸相关词义。
+	12. viper
+		1. n. 蝰蛇, 毒蛇, 毒如蛇蝎的人, 阴险的人
+		2. viper ['vaɪpə] n. 毒蛇；毒如蛇蝎的人。拼写中的vi-实际是词根viv，表live,living和alive等，而per则是词根par-，表准备、生产、安排、分配（部分）等，我们的父母亲parent就是“生产”了我们的人。部分有毒的蝰蛇是oviparous卵生的，但也有胎生的viviparous，即生下来的不是卵（ovi），而是活体。
+		3. _n._ [snake](dic://snake), [serpent](dic://serpent), [ophidian](dic://ophidian)
+		4. **snake**蛇;**serpent**蛇;**lizard**蜥蜴;**venom**毒液;**venomous**有毒的;**spider**蜘蛛;**wasp**黄蜂;**dragon**龙;**pit**深坑;**reptile**爬虫类的;**python**大蟒
+		5. _pit viper_ 响尾蛇；蝮蛇
+		6. viperous
+			1. some western media making any one commit the sin like the most viperous snake in the bible /某些西方媒体就像"世界上最恶毒的蛇".让他人犯罪.
+			2. 
+		7. viperish
+		8. viperine
+		9. viperin
+		10. Viperinae, Viperidae, Vipera
+	14. multipara
+		1. n. [妇产] 经产妇；非初产妇
+		2. multiparous,
+	15. oviparous
+		1. adj. [动] 卵生的；产卵的
+		2. _adj._ [broody](dic://broody)
+		3. _n._ [ovoviviparous](dic://ovoviviparous), [viviparous](dic://viviparous), [live-bearing](dic://live-bearing)
+		4. **reptiles**爬行类;**hatching**剖面线;**mammals**哺乳类;**amphibians**两栖动物;**larvae**幼虫;**species**物种;**larval**幼虫状态的;**vertebrate**脊椎动物;**turtles**乌龟;**embryo**胚胎;**lizards**蜥蜴;
+		6. semioviparous
+	17. primipara, primiparity, primiparous
+	18. viviparity
+		1. n. 胎生；母体发芽
+		2. viviparous
+		3. ovoviviparous
+	20. sudoriparous
+	21. gemmiparous
+	22. uniparous
+	23. biparous
+		1. [植] 成双的 
+		2. [生物] 双胎的
+	24. fissiparous
 #### + \*pere- (2) + = to assign, grant, allot
 1. **par-** = equal, 「Latin」par, "equal"
 	1. compare
@@ -3789,16 +3833,30 @@
 		10. comparand
 		11. comparable
 	2. disparage
-		1. disparaging
-		2. disparagement
-	3. disparate
-	4. nonpareil
-	5. par
+		1. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		2. _n._ [flatter](dic://flatter), [blandish](dic://blandish)
+		3. **criticize**评论, 批评;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**offend**冒犯;**accuse**控告，指控;**embarrass**使窘迫;**ridicule**嘲笑;**despise**轻视，鄙视;**insult**侮辱;**intimidate**恐吓, 威胁;**denounce**谴责;
+		4. disparaging
+		5. disparagement
+	4. disparate
+		1. _n._ [difference](dic://difference), [deviation](dic://deviation), [divergence](dic://divergence), [departure](dic://departure), discrepancy, distinction, discrimination, disparity, asymmetry,
+		2. _adj._ [different](dic://different), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
+		3. _n._ [same](dic://same), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
+		4. **dissimilar**不同的;**diverse**不同的;**heterogeneous**由很多种类组成的;**myriad**无数的;**interrelated**相互关联的;**contradictory**矛盾的;**conflicting**相冲突的;**disjointed**脱离开的,不连贯的;**various**各种各样的;**different**不同的, 差异的;**unrelated**无关的, 不相关的;
+		5. _disparate treatment_ 差别性对待
+		6. disparate regions had begun to knit together under the king /四分五裂的地区开始在国王的领导下团结起来。
+		7. a poise between disparate and contradictory emotions. See also Synonyms at proportion ,remainder imbalance /根本对立，相互矛盾的感情之间的平衡 参见同义词 proportion ,remainder imbalance
+		8. a melting pot of disparate rhythms and cultures. /融合殊异节奏和文化的熔炉。
+		9. Other threads knit the writer's disparate subjects into a coherent oeuvre /其他线索将作者不同的主题编织成连贯的作品
+		10. Because there were, like, a lot of disparate groups /因为有很多不同的团体。
+		11. And we can reduce the disparity in policing by changing exams that produce disparate outcomes. /通过改变产生迥异结果的体能考试， 我们可减少警察中男女不公平差异。
+	6. nonpareil
+	7. par
 		1. supar
-	6. pardon
+	8. pardon
 		1. pardoner
 		2. pardonable
-	7. parity
+	9. parity
 		1. [para](dic://para)
 		2. [parity bit](dic://parity bit), [check bit](dic://check bit)
 		3. [conservation of parity](dic://conservation of parity), [space-reflection symmetry](dic://space-reflection symmetry), [mirror symmetry](dic://mirror symmetry)
@@ -3807,68 +3865,339 @@
 			2. _parity check_ 奇偶校验检查
 			3. _parity bit_ [计]校验位（加进磁带等上的数组中以造成奇偶性的位）
 		7. omniparity
+			1. n. 一切平等
 		8. imparity
+			1. n. 不同, 不均衡, 不配合
 		9. disparity
-	9. pair
-		1. unpaired
-	10. peer
-		1. [equal](dic://equal), [match](dic://match), [compeer](dic://compeer)
-		2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [Lord](dic://Lord)
-		3. _v._ [look](dic://look)
-		4. **mentors**导师，教练;**scrutiny**监视;
-		5. _peer review_ 同业互查
-		6. _peer to peer_ 对等的；[计]端对端
-		7. _peer pressure_ 来自同辈的压力
-		8. _peer group_ 同辈群体；同龄群体
-		9. _peer at_ 凝视
-	11. umpire
-	12. vampire
+			1. dis-不，非，使相反 + parity【同等】
+			2. _n._ [inequality](dic://inequality)
+			3. **discrepancy**差异, 不符合;**inequality**不平等,不均等,不等量;**gap**缺口;**difference**差异;**imbalance**不平衡;**mismatch**使配错;**unequal**不平等的;**disproportionate**不成比例的;**socioeconomic**社会经济的;**inconsistency**矛盾;**heterogeneity**异质性;
+			4. _regional disparity_ 地区差异
+	10. pair
+		1.  来自拉丁语 par,对等，双，对，词源同 part,peer.
+		2. mispair
+		3. unpaired
+	12. peer
+		1. 1.来自拉丁语par , 对等，等同，引申词义同辈。2.贵族来自小说家模仿英国Arthur王传说中的圆桌骑士改编的八世纪法国君主Charlemagne大帝的十二骑士（TwelvePeers）的传奇故事。3.仔细看，可能缩写自appear。
+		2. [equal](dic://equal), [match](dic://match), [compeer](dic://compeer)
+		3. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [Lord](dic://Lord)
+		4. _v._ [look](dic://look)
+		5. **mentors**导师，教练;**scrutiny**监视;
+		6. _peer review_ 同业互查
+		7. _peer to peer_ 对等的；[计]端对端
+		8. _peer pressure_ 来自同辈的压力
+		9. _peer group_ 同辈群体；同龄群体
+		10. _peer at_ 凝视
+	14. umpire
+		1. n. 裁判员, 仲裁人  
+		2. vt. 对...进行仲裁, 当...的裁判  
+		3. vi. 当裁判
+		4. um- = non- 非 pir- = per- 相等，引申词义第三者，裁判，参照testament , 第三人，见证，证据。
+		5. umpire - 该词一般指“公断人”、“仲裁人”，在法律上指“裁定人”（即仲裁人之间意见不一致时参加公断的第三者），在体育上则指“裁判员”，只限用于羽毛球、棒球、板球、乒乓球、网球及排球等比赛中。14世纪源于古法语nomper (non 'not' + per 'equal, peer')，原字面义是third person（第三者），在中古英语中原拼作noumpere，到15世纪时首字母n脱离了noumpere，转附到前面的不定冠词上，a noumpere变成an oumpere，最后又演变为an umpire。类似现象也发生于另外几个英语单词，如apron（围裙），adder（蝰蛇），auger（螺旋钻）等原先词首都有个字母n。（参见apron）
+	15. vampire
+		1. 来自匈牙利语vampir , 吸血鬼，吸血蝙蝠。参照电影《惊情四百年》，其发生地德古拉城堡即位于原匈牙利。
+		2. vampire（吸血鬼）：东欧民间传说中的吸血鬼  
+		3. 英语单词vampire（吸血鬼）来自东欧塞尔维亚语。关于古代欧洲吸血鬼的第一手资料，能在位于巴尔干半岛的塞尔维亚王国寻得——实际上，吸血鬼的传说也正是从巴尔干半岛出现并扩散到全世界的。公元14世纪，欧洲暴发了大规模的瘟疫，瘟疫传染极快并且危害极大，当时在欧洲造成了恐慌。有些得了瘟疫的人并没有真的死去，但其亲友便将其草草掩埋，以至于后来某些坟墓被打开时，人们发现里面的尸体呈现着各种古怪姿势，并且还染有鲜血，这当然是因为被误埋的活人挣扎所致，但是当时的人们因为过于害怕便产生了奇异的联想，于是吸血鬼的说法从贫穷落后的东欧传到整个欧洲。  
+		4. 最经典的吸血鬼形象来东欧罗马尼亚传说中的德古拉（Dracula）伯爵。他是多瑙河畔瓦拉西亚公国的督军。由于君斯坦丁堡受到土耳其人的袭击，德古拉伯爵受命前往征讨土耳其军队。然而在他获胜之时，谣传他战败并死于敌手。他的妻子听闻后悲痛欲绝之下投河自杀。德古拉班师回朝却看到妻子的尸体，愤怒地责问上帝，为什么他一生都为主而战，最终却遭受如此结局。狂怒的伯爵用长矛刺穿十字架上的耶稣，顿时鲜血四流。他从此投向魔鬼，以鲜血作为食物，成为一名吸血鬼。他的传说成为了很多关于吸血鬼文学和影视作品的源泉。  
+		5. 到了15世纪，梵蒂冈教廷正式宣布吸血鬼，僵尸等魔怪的存在，并宣布他们为基督教的敌人。从此吸血鬼种族存在的概念在欧洲大陆广泛流传开来，并产生了许多传说。  
+		6. 17、18世纪时，在塞尔维亚等东欧斯拉夫语国家流行着一些死尸复活吸血的传说，并形成了一些特殊的习俗，比如埋尸体的时候要钉个木桩什么的。18世纪，奥地利扩张到塞尔维亚北部等地区的时候，官方发现了当地的这些奇怪习俗，大惊小怪地到处传扬，导致吸血鬼的传说越传越广。如1725年，在塞尔维亚，一名叫做皮雷•普洛戈维兹的人被指控变为吸血鬼，人们传说有八人死在其手中。另一名叫做阿诺德•保勒的吸血鬼则造成了大量人口牲畜的死亡。其中普洛戈维兹事件的档案仍可在维也纳档案馆里面找到。在这份德文档案中首次出现“vampir”这个词，被视为“vampire"的词源，这是“vampire”第一次出现在文献里。1732年3月3日，法国的一家杂志Le Glaneur也详细地报道了此次事件，文中的“Vampyre”第一次出现在法语中。同年3月11日，英国《伦敦日报》中第一次出现了Vampire一词。此后，整个欧洲对于这种生物的描述都改成了Vampire一词，只是拼写略有差异。  
+		7. vampire：['væmpaɪə] n.吸血鬼
 2. **part-, port-** = part, divide, 「Latin」pars "a share"
 	1. apart
-		1. aprtment
-		2. apportion
-	2. compart
-	3. counterpart
-	4. depart
-		1. department
-	5. dispart
-	6. impart
-		1. impartible
-		2. impartial
-	7. parcel
-	8. parcenary, parcener
-	10. portion
-	11. proportion
-	12. repartee
-	13. underpart
-	14. parse
-	15. part
-		1. partage
-		2. partake
-		3. parted
-		4. partial
-		5. partible
-	16. participant, participate
-		1. participial
-		2. participle
-	17. particular, particulate
-	18. partisan, partite
-		1.  [zealot](dic://zealot), [drumbeater](dic://drumbeater)
-		2.  [enthusiast](dic://enthusiast), [partizan](dic://partizan)
-		3.  [partizan](dic://partizan)
-		4.  [denominational](dic://denominational)
-		5. _n._ [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent), [supporter](dic://supporter), [protagonist](dic://protagonist), [champion](dic://champion)
-		6. _adj._ [party-spirited](dic://party-spirited), [tendentious](dic://tendentious), [tendencious](dic://tendencious), [sectarian](dic://sectarian)
-		7. **ideological**观念学的;**political**政治的;**non-partisan**无党派;**right-wing**右翼的;**left-wing**左派的;**divisive**分裂的;**leftist**急进派;**nonpartisan**无党无派的,超乎党派的;**nationalistic**民族主义的;**populist**平民主义者;**self-serving**自私的,自私自利的;
-	19. partitive
-		1. **nouns**名词;**verb**动词;**pronoun**代词;**verbs**动词;**noun**名词;**plural**复数的;**pronouns**代名词;**participle**分词;**predicate**断言;**grammatical**语法的;**lexical**词汇的;
-		2. _n._ [word](dic://word)
-		3. _adj._ [part](dic://part), [portion](dic://portion), [component part](dic://component part), [component](dic://component), [division](dic://division), [partition](dic://partition), [partitioning](dic://partitioning)
-	20. partizan
-	21. partner
-	22. jeopard
-		1. jeopardy
-		2. jeopardize
+		1. ad. 成零碎, 成距离, 分别地, 分离着  a. 分离的
+		2. aprtment
+		3. apportion
+	3. compart
+		1. com-强调 + part-分开
+		2. vt. 分隔
+		3. _v._ [range](dic://range), [array](dic://array), [lay out](dic://lay out), [set out](dic://set out)
+		4. This scheme makes use of the advantages of wavelet to improve the frequency spectrum **compart**character between different channels, the transmission is very well even under the badly ISI condition. /这种方案利用小波变换特殊的优越性，使得各子信道之间的频谱分隔特性大大改善，并在码间干扰严重的情况下，仍然具有较好的传输性能。
+		5. compartments
+			1. com-共同 + pass通过 → 共同能过的地方 → 做事的范围。
+			2. com-,表强调，-pass,走，展开，词源同 pace.后用于指数学和航海物品名。
+			3. _n._ [storage space](dic://storage space), [room](dic://room)
+			4. **pouch**小袋;**lid**盖子;**zippered**拉链式的;**trunk**树干;**luggage**行李;**bag**袋;**drawer**抽屉;**storage**存储;**tray**托盘;**passenger**乘客, 旅客;**inside**内部;
+			5. _compartment syndrome_ 筋膜室综合征；间室症候群
+			6. _passenger compartment_ 乘客舱；客厢；包房
+			7. _engine compartment_ 机舱；发动机室；机器间
+			8. _fire compartment_ 防火分区；隔火间
+			9. _luggage compartment_ 行李舱架
+			10. _battery compartment_ 蓄电池箱；电池盒/舱
+			11. _glove compartment_ n. （汽车仪表板上的）贮物箱
+			12. the second compartment of the stomach of a ruminant /反刍动物胃的第二个室
+			13. The first-class compartments are in front. /头等车室在前头。
+			14. We were glad to have the whole compartment to ourselves. /真高兴, 整个客车隔间由我们独享。
+			15. Front / rear bumpers, Front dashboard, Instrument board, front fender, large/medium skirt, splashboard, baggage compartment, Glove compartment, running boards, mold , Automotive plastic parts, molding /制造各类精密塑胶模具，包括汽机车塑胶部品模具、保险杆、仪表板等，位于台南。
+			16. Afterward, he faces the orbital compartment solid lubrication material testing sample installment place to move slowly, the recaption sample, gives astronaut Liu Boming. /随后，他朝轨道舱固体润滑材料试验样品安装处缓缓移动，取回样品，递给航天员刘伯明。
+			17. Do you want a berth or a compartment? /你要卧铺还是小客室？
+			18. " Shall we go and find a compartment, then? " Harry asked Ron and Hermione. /“怎么样，我们去找间包厢吧？”哈利问。
+			19. So there are two compartments here, one with air and then one with helium. /这样大气球中就有两种区域， 一种里面是空气一种里面是氦气。
+	4. counterpart
+		1. n. 副本, 复本, 配对物, 相应物
+		2. counter-相对应 + part-部分 → 对应的一部分 → 对应的人或物。
+	5. depart (deport)
+		1. vi. 离开, 出发, 背离, 违反, 去世
+		2. de-分开 + part-分开 → 部分分开 → 离开。
+		3.  [go](dic://go), [go away](dic://go away)
+		4. [deviate](dic://deviate), [vary](dic://vary), [diverge](dic://diverge)
+		5.  [part](dic://part), [start](dic://start), [start out](dic://start out), [set forth](dic://set forth), [set off](dic://set off), [set out](dic://set out), [take off](dic://take off)
+		6. [take leave](dic://take leave), [quit](dic://quit)
+		7.  [leave](dic://leave), [pull up stakes](dic://pull up stakes)
+		8.  [sidetrack](dic://sidetrack), [digress](dic://digress), [straggle](dic://straggle)
+		9. _v._ [exit](dic://exit), [go out](dic://go out), [get out](dic://get out), [leave](dic://leave), [differ](dic://differ), [go forth](dic://go forth), [go away](dic://go away)
+		10. _n._ [stay](dic://stay)
+		11. [depart](dic://depart) 较正式用词，指经过周密考虑或郑重地离开，强调离开的起点。  
+		12. [leave](dic://leave) 侧重出发地而不是目的地。  
+		13. [go](dic://go) 一般用词，指从所在地到其它地方去，着重目的地而非出发地。  
+		14. [start](dic://start) 可与leave换用，强调目的地，但不及leave普通。  
+		15. [quit](dic://quit) 侧重指离开令人烦恼的地方，或摆脱使人不快的人或事。  
+		16. [set out](dic://set out) 书面用词。
+		17. **arrive**到达;**departure**离开, 离去;**leave**离开;**embark**上船或飞机;**rejoin**回答;**proceed**开始;**return**返回;**deviate**偏离;**commence**开始;**abandon**离弃;**begin**开始;
+		18. a dear departed relative. /已故亲人。
+		19. He departed from France. /他离开法国了。
+		20. They have departed for London /他们已出发去伦敦。
+		21. We are departing for Paris by the next plane. /我们将搭乘下一班次的飞机前往巴黎。
+		22. He departed from the text to tell an anecdote. /他偏离课文讲起了一则轶事。
+		23. departure
+			1. n. 离开, 出发, 违背, 偏离
+			2. _n._ [deed](dic://deed), [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit), [variation](dic://variation), [fluctuation](dic://fluctuation), [death](dic://death)
+			3. **arrival**到达;**depart**离开;**departed**过去的;**abrupt**突然的;**resignation**辞职;**return**返回;**arrivals**进站，进港;**dismissal**解雇, 免职, 开除;**cancellation**取消;**check-in**报到处,登记处;**absence**缺席;
+			4. _departure from_ 离开；违反，违背
+			5. _point of departure_ 出发地
+			6. _departure time_ 出发时间；撤离时刻；起飞时刻
+			7. _departure date_ 启程日期；离开日期
+			8. _departure point_ 出发点；起程点；起航点
+			9. _a new departure_ 新政策；新方针；新发展
+			10. _departure lounge_ 候机室；启程处
+		25. departed
+		26. department
+			1. de-下面 + part-分开 + -ment表名词 → 下面的部分 → 部门;系。
+			2. 来自 depart,分开，离开。引申词义分开，部门。
+			3. _n._ [division](dic://division), [administrative district](dic://administrative district), [administrative division](dic://administrative division), [territorial division](dic://territorial division), [sector](dic://sector), [sphere](dic://sphere)
+			4. [department](dic://department) 作商店解时，是美国英语，通常写为department store。  
+			5. [store](dic://store) 在美国指出售同一类商品的小型商店。在英国用复数形式表示百货商店。  
+			6. **dept**部;**departmental**部门的;**supervisor**监督人;**officer**军官，警官;**university**大学;**bureau**局，处;**director**人事助理;**commissioner**专员, 长官;**store**储备，贮藏;**agency**代理，中介;**clerk**职员，办事员;
+			7. _department store_ 百货公司；百货商店
+			8. _state department_ n. （美国）国务院
+			9. _sales department_ 业务部，营业部
+			10. _administration department_ 行政部
+			11. _engineering department_ 工程部；技术科
+			12. _marketing department_ 市场部，销售部
+	6. dispart (disport)
+		1. V . 分, 分离, 分开
+	7. impart
+		1. vt. 给予, 传授, 告知
+		2. im-,进入，使，part,部分。即使成为一部分，引申词义通知，传授。
+		3. [leave](dic://leave), [give](dic://give), [pass on](dic://pass on)
+		4. [lend](dic://lend), [bestow](dic://bestow), [contribute](dic://contribute), [add](dic://add), [bring](dic://bring)
+		5. [unwrap](dic://unwrap), [disclose](dic://disclose), [let on](dic://let on), [bring out](dic://bring out), [reveal](dic://reveal), [discover](dic://discover), [expose](dic://expose), [divulge](dic://divulge), [break](dic://break), [give away](dic://give away), [let out](dic://let out)
+		6.  [convey](dic://convey)
+		7. _v._ [tell](dic://tell), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [communicate](dic://communicate), [intercommunicate](dic://intercommunicate)
+		8. **convey**传达;**glean**收集;**infuse**使充满;**instill**徐徐滴入;**possess**持有;**provide**规定;**absorb**吸收;**bestow**授予;**enhance**提高;**teach**教;**confer**商讨;
+		9. Forcing a child to behave morally may prevent her from internalizing the lesson you're trying to **impart**. /强迫孩子按道德行事可能会妨碍她将你试图传授的教训内化。
+		10. A good teacher imparts wisdom to his pupils. /一个好的教师把智慧赋予学生。
+		11. She imparted the secret to her boyfriend. /她把秘密向孩她的男朋友透露了。
+		12. The furnishings in the room imparted an air of elegance. /这个房间的家具带给这房间一种优雅的气氛。
+		13. this racket enables the player to impart more spin to the ball. /这种球拍能使运动员打出转得更急的旋转球。
+		14. Psychic Chirurgery. You repair psychic damage and impart knowledge of new powers /心灵手术：你修补精神伤害并可传授新异能的知识。
+		15. It cannot be imparted by someone else /因为真正的知识来自内心，而不是得自别人的传授。
+		16. In 1854, Alfred Dumesnil said that Mona Lisa's smile imparted a " treacherous attraction." /1854 年，阿尔佛雷德·杜姆尼尔说蒙娜丽莎的微笑流露出 “变化莫测的吸引力”。
+		17. Both Romantic and Classical orientations have important truths to impart. /浪漫主义和古典主义 都有些紧要的真理能说道说道。
+		18. impartible
+		19. impartial
+	8. parcel
+		1. n. 包裹, 部分, 片  
+		2. vt. 分配, 打包  
+		3. a. 部分的  
+		4. ad. 局部地
+		5. [package](dic://package) 
+		6. [portion](dic://portion), [share](dic://share)
+		7.  [tract](dic://tract), [piece of land](dic://piece of land), [piece of ground](dic://piece of ground), [parcel of land](dic://parcel of land)
+		8.  [package](dic://package), [bundle](dic://bundle), [packet](dic://packet)
+		9. _n._ [container](dic://container), [allotment](dic://allotment), [apportionment](dic://apportionment), [apportioning](dic://apportioning), [allocation](dic://allocation), [parceling](dic://parceling), [parcelling](dic://parcelling)
+		10. _v._ [divide](dic://divide), [split](dic://split), [split up](dic://split up), [separate](dic://separate), [dissever](dic://dissever), [carve up](dic://carve up), [cover](dic://cover)
+		11. **land**陆地;**property**财产;**courier**送快信的;**shipment**装货;**mail**邮政，邮递;**delivery**交付;**USPS**美国邮政管理局;**acre**英亩;**consignment**托付货物;**postal**邮政的;**tract**小册子，传单;
+		12. _part and parcel_ 必要部分；重要的部分
+		13. _part and parcel of_ 不可缺少的一部分
+		14. _parcel post_ 邮政包裹；包裹邮递
+		15. _land parcel_ 地块
+		16. _air parcel_ n. 空运
+		17. _parcel out_ 分配，把…分成几份
+		18. _parcel of land_ 地片
+		19. They are all playing pass the parcel. /都在踢皮球。
+		20. I managed secretly to undo a corner of the **parcel**. /我设法偷偷地打开包裹的一角。
+		21. parcelling
+		22. parcel-gilt
+	15. parcenary
+		1. n. 共同继承
+		2. parcener
+	16. portion
+		1. port-部分 + -ion名词后缀 → 一部分。
+		2. n. 部分, 一份, 命运, 嫁妆  
+		3. vt. 分配, 给...嫁妆
+		4. portionless
+		5. portionlist
+		6. portiones
+		7. portioner
+	17. proportion
+		1. n. 比例, 比率, 均衡, 部分, 面积  vt. 使成比例, 使均衡
+		2. pro-前面 + port-部分 + -ion, 表名词 → 成分其中一部分 → [所占]比例。
+		3. 来自拉丁短语 pro portione,根据比例，按照部分的关系，来自 pro,向前，根据，按照，portione,部分，词源同 part.引申诸相关词义。
+		4. well-proportioned
+		5. proportioner
+		6. proportioned
+		7. proportinate
+		8. proportional
+			1. proportionality
+			2. proportionalist
+		9. proportionable
+		10. disproportion
+			1. disproportionation
+			2. disproportionate
+			3. disproportional
+	18. repartee
+		1. n. 机敏巧妙的回答, 妙语, 机智的反驳, 巧辩, 敏捷答辩的才能
+		2. re-向后 + part-分开，部分。即各个击破，引申词义机智回答，快问快答。
+		3. re-,向后，往回，part,分开，部分。比喻用法，即各个击破，引申词义机智回答，快问快答。
+		4. _n._ [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness)
+		5. sophist /quibble /niggle /pettifog /bicker /squabble/ brabble
+		6. **banter**戏谑;**witty**诙谐的;**wit**智力;**dialogue**对话;**humour**诙谐;**snarky**恶声恶气的，咬人的;**conversation**交谈, 谈话, 会话;**humor**幽默，诙谐;**antics**滑稽动作;**sly**狡猾的;**conversational**谈话的,会话的;
+		7. This won't exactly be an Algonquin round table of snappy repartee. /这种通讯可不像圆桌会议那么轻松方便。
+		8. She, knowing everything, would only smile gently, too broken by suffering to make sarcastic repartees /什么都知道的她，只会轻轻一笑，痛苦到心碎，无法做出讽刺的回答。
+		9. Conway enjoyed the measured yet agile repartees which his good-humored ragging of the Chinese very often elicited /康威喜欢有节制但敏捷的回答， 他对中国人的幽默辱骂经常引起这种反应。
+		10. " Mr. Rochester, allow me to disown my first answer: I intended no pointed repartee: it was only a blunder" /“罗切斯特先生，请允许我否认我的第一个回答：我并没有刻意反驳：这只是一个错误”。
+		11. 
+	19. underpart
+		1. n. 腹部, 辅属地位, 次要角色
+	20. parse
+		1. vt. 从语法上分析
+		2. - 来自拉丁语 pars,分开，部分，词源同 part.引申词义作句法分析。
+		3. parsing
+		4. parer
+	21. part
+		1. n. 部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位  
+		2. vt. 分开, 分离, 断绝, 区别, 分配  
+		3. vi. 分开, 断裂, 分手  
+		4. a. 部分的, 局部的  
+		5. ad. 部分地, 有些
+		6.  来自拉丁语 partem,分开，部分，部件，来自 PIE*pere,分配，切割，词源同 pair,portion.引申诸相关词义。
+		7. party
+		8. partly
+		9. partition
+		10. parting
+		11. parti-coloured
+		12. parti-colored
+		13. part-time
+		14. part-song
+		15. four-part
+		16. forepart
+		17. partage
+			1. - n. 分配；部分
+		18. partake
+			1.  [share](dic://share), [partake in](dic://partake in)
+			2. [touch](dic://touch)
+			3. _v._ [share](dic://share), [get](dic://get), [acquire](dic://acquire), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take)
+			4. **participate**参加, 参与;**indulge**迁就;**enjoy**喜爱;**revel**狂欢;**forgo**放弃;**attend**出席;**engage**雇佣;**participating**一起参加的;**abstain**放弃;**willingly**愿意地;**invite**邀请，招待;
+			5. _partake in_ 参加；分享
+			6. _partake of_ 吃光；带有；参加
+			7. Will you partake of a drink with us? /和我们一同喝一杯好吗?
+			8. partake of sb.'s hospitality /受到某人的款待
+			9. Would you care to partake of some refreshment? /你想吃点东西吗？
+			10. partake in each other's joys and sorrows /同甘共苦
+			11. But universities live in history not outside of it and so they necessarily partake of history's tumultuous changes. /但是，大学存在于历史进程之中，而不是在历史洪流之外；大学也必然参与到历史发展的变化中。
+			12. His very clothes seemed to partake of the hospitable nature of the wearer. /他穿的衣服似乎也感染了穿者好客的天性。
+			13. It's something that things in the empirical world can participate in or partake of to varying degrees. /它是以不同程度参与到经验世界中的各种事物。
+		19. parted
+		20. partial
+		21. partible
+	22. participate
+		1.  part,部分，-cip,承担，抓住，词源同 capable,anticipate.即承担一部分，成为其中的一部分，引申词义参加，参与。
+		2. vi. 参加, 分享, 参与, 带有  vt. 分享, 分担
+		3. participatory
+		4. participator
+		5. participation
+		6. participating
+		7. participant
+		8. participial
+		9. participle
+	23. particular
+		1. n. 一项(或条、点), 个别项目, 详细说明  
+		2. a. 特别的, 独有的, 挑剔的, 详尽的
+		3. part-部分 + -icuar有…的 → 有自己的部分 → 特别的。
+		4. 来自 particle,个体，颗粒。即个别的，引申词义特别的，特殊的。
+		5. _n._ [fact](dic://fact), [part](dic://part), [portion](dic://portion), [component part](dic://component part), [component](dic://component), [proposition](dic://proposition)
+		6. _adj._ [specific](dic://specific), [uncommon](dic://uncommon), [primary](dic://primary), [fastidious](dic://fastidious), [careful](dic://careful)
+		7. _n._ [general](dic://general), [universal](dic://universal), [universal proposition](dic://universal proposition)
+		8. _n._ [general](dic://general), [nonspecific](dic://nonspecific), [common](dic://common), [secondary](dic://secondary), [unfastidious](dic://unfastidious), [careless](dic://careless)
+		9. **specific**特殊的，特定的;**instance**实例;**certain**某一;**this**这;**peculiar**特殊的;**type**类型，品种;**regard**尊敬;**aspect**方面;**specifically**特有地, 特定地, 具体地;**one**一;**circumstance**环境;
+		10. _in particular_ 尤其，特别
+		11. _particular case_ 特例；特定情况
+		12. _particular about_ 过分讲究的；难以取悦的
+		13. _particular average_ 单独海损（海上保险）
+		14. _particular solution_ [计]特解
+		15. _in every particular_ 在一切方面；每一项；每一点
+		16. _free from particular average_ [法]单独海损不赔
+		17. particulars
+		18. particularly
+		19. particularize
+		20. particularity
+			1. n. 特殊性, 特质, 个性, 细致, 苛求
+			2. 来自 particular,特殊的，特别的，-ity,名词后缀。即特征，特点。
+		21. particulate
+			1. n. 微粒  
+			2. a. 微粒的
+	24. partisan
+		1. n. 坚定的支持者, 铁杆拥护者; 游击队员  
+		2. a. 盲目拥护的
+		3. adj. 偏袒的；党派的；盲目推崇的；效忠的
+		4.  [zealot](dic://zealot), [drumbeater](dic://drumbeater)
+		5.  [enthusiast](dic://enthusiast), [partizan](dic://partizan)
+		6.  [partizan](dic://partizan)
+		7.  [denominational](dic://denominational)
+		8. bias /orientation
+		9. _n._ [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent), [supporter](dic://supporter), [protagonist](dic://protagonist), [champion](dic://champion)
+		10. _adj._ [party-spirited](dic://party-spirited), [tendentious](dic://tendentious), [tendencious](dic://tendencious), [sectarian](dic://sectarian)
+		11. **ideological**观念学的;**political**政治的;**non-partisan**无党派;**right-wing**右翼的;**left-wing**左派的;**divisive**分裂的;**leftist**急进派;**nonpartisan**无党无派的,超乎党派的;**nationalistic**民族主义的;**populist**平民主义者;**self-serving**自私的,自私自利的;
+		12. He was reluctant to plunge into the bitter partisan wrangle /他不愿意卷入这种激烈的党争。
+		13. The distrust and partisan acrimony will be hard to repair. /二者的不信任和党派纷争将很难修复。
+		14. He is clearly too **partisan** to be a referee /他显然过于偏袒，不适合担任裁判。
+		15. partisanship
+			1. n. 盲目支持
+		16. partite
+	25. partitive
+		1. - adj. 区分的；表示部分的 n. 表示部分的词
+		2. **nouns**名词;**verb**动词;**pronoun**代词;**verbs**动词;**noun**名词;**plural**复数的;**pronouns**代名词;**participle**分词;**predicate**断言;**grammatical**语法的;**lexical**词汇的;
+		3. _n._ [word](dic://word)
+		4. _adj._ [part](dic://part), [portion](dic://portion), [component part](dic://component part), [component](dic://component), [division](dic://division), [partition](dic://partition), [partitioning](dic://partitioning)
+		5. **Partitive** tendencies in education; the uniting influence was stronger than the separative /教育中的区分倾向；联合的力量大于分离的力量。
+	26. partizan
+	27. partner
+		1. n. 合伙人, 股东, 伙伴, 伴侣  
+		2. vt. 与...合伙, 组成一对  
+		3. vi. 做伙伴, 当助手
+		4. part-部分 + -n- + -er人。即成为其中的一部分，引申词义伙伴，伴侣。
+		5. partnership
+		6. partnerless
+		7. copartner
+			1. copartnery
+			2. coartnership
+	28. jeopard
+		1. vt. 使受危险, 危及, 危害
+		2. jeopardy（危险）：胜负难分的比赛  
+		3. 英语单词jeopardy来自法语，原本是一个游戏术语，表示比赛、游戏时双方势均力敌、胜负难分。该单词的拼写中，jeo表示“比赛”（game），与joke同源；pard表示“部分”（part），因此该词的字面意思就是比赛双方各据一方，势均力敌。由于双方都有或输掉比赛，因此jeopardy一词逐渐衍生出“潜在的危险、风险”的含义。在法律领域中，jeopardy表示“被告在法庭上可能被判罪的风险”。词组double jeopardy指的是被告因为同一罪行而受到两次审判和惩罚，这是法律禁止的，即“一罪不二罚”。  
+		4. 美国有一档著名的电视知识竞赛节目就叫做Jeopardy。参加节目的都是智商超高、知识超渊博的牛人。IBM公司甚至派出自己研发的人工智能系统“沃森”参加该节目，与两位最强选手同台竞技。  
+		5. jeopardy：['dʒepədɪ] n.危险，风险  
+			1. jeo=joy高兴 + pard-分开，字面含义远离欢乐 → 危难。
+			2. - n. 危险，风险；（刑事案件中被告的）危险处境
+			3. [hazard](dic://hazard), [peril](dic://peril), [risk](dic://risk), [endangerment](dic://endangerment)
+			4. _n._ [danger](dic://danger)
+			5. **danger**危险;**peril**危险;**jeopardize**危及, 损害;**threat**威胁，恐吓;**risk**危险;**threatened**受到威胁的，感到危险的;**dire**可怕的, 恐怖的;**precarious**依靠机会的;**repercussions**反响;**brink**边缘;**threaten**威胁;
+			6. the whole peace process is in jeopardy . /整个和平进程正处于危险之中。
+			7. he is in double jeopardy , unable to speak either language adequately. /他面临着双重风险，即两种语言都说不好。
+			8. Why put your town's safety in jeopardy? /你怎么能把家乡的安全置之不顾？
+		6. jeopardize： ['dʒɛpɚdaɪz] vt. 危害；使陷危地；使受危困
+			1. _v._ [exist](dic://exist), [be](dic://be), [risk](dic://risk), [put on the line](dic://put on the line), [lay on the line](dic://lay on the line)
+			2. **endanger**危及;**undermine**在某物下挖洞或挖通道;**threaten**威胁;**impede**阻止;**hinder**成为阻碍;**interfere**干预;**impair**削弱;**disrupt**使分裂;**ruin**毁坏;**undermining**底切;**detrimental**有害的;
 
 
 ### pest- = plague，表示“瘟疫”。源自拉丁语 pestis "deadly contagious disease."

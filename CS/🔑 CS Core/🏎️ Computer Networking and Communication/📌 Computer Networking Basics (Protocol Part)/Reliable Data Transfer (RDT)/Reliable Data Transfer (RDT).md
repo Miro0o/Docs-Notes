@@ -36,7 +36,7 @@
 ![](../../../../../../Assets/Pics/Screenshot%202023-04-14%20at%2011.49.52%20AM.png)
 <small>FSM Legends</small>
 
-🙈 See ↗ [Automata Theory and (Formal) Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) for detailed FSM info.
+🙈 See ↗ [Automata Theory and (Formal) Language Theory](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md) for detailed FSM info.
 
 
 ### RDT Developments & Main Design Thoughts

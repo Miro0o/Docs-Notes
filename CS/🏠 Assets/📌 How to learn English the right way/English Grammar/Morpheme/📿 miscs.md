@@ -13511,6 +13511,8 @@ swank
 	- _n._ 爱炫耀的人; 喜欢摆架子的人; 虚张声势的人
 
 swart (tenebrous, negro, nocturne)
+- **melan-** = black, 表示“黑”。源自希腊语 melas "black."
+- **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
 - 来自古英语 sweart,黑的，暗的，来自 Proto-Germanic*swarta,黑的，来自 PIE*swordo,黑的，脏的，词源同 sordid,肮脏的。引申词义有毒的，邪恶的等。
 -  [dark-skinned](dic://dark-skinned), [dusky](dic://dusky), [swarthy](dic://swarthy)
 - _adj._ [brunet](dic://brunet), [brunette](dic://brunette)

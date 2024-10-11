@@ -2394,7 +2394,9 @@
 12. schmaltz
 13. smelt
 #### + \*mel- (2) + = of darkish color
-1. **melan-** = black
+1. swart (misc)
+2. **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
+3. **melan-** = black
 	1. melancholia
 		1. melancholic
 		2. melancholy
@@ -2439,7 +2441,7 @@
 		7. melanotic, ameanotic
 		8. melanocortin
 	3. Melanesian
-2. mullet
+4. mullet
 	1. - n. 胭脂鱼；鲻鱼；乌鱼
 	2.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)
 	3.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)

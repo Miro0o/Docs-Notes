@@ -26,3 +26,4 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 ## Ref
 [Computability theory]: https://en.wikipedia.org/wiki/Computability_theory
 
+[Turing Mahine | Wikipedia]: https://en.wikipedia.org/wiki/Turing_machine

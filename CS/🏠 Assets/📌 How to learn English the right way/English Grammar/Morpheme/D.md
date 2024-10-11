@@ -4117,10 +4117,18 @@
 		1. con-一起 + di-给予 + -ment名词后缀 → 放到一起，能给出（美味） → 调味品。
 		2. **ketchup**番茄酱;**sauces**调味酱，调味汁;**mayonnaise**蛋黄酱;**sauce**调味汁;**chutney**酸辣酱;**pickles**腌渍物;**flavoring**调味品,调味料;**seasoning**调味品, 佐料;**pickle**腌汁;**vinaigrette**色拉调味汁;**spice**香料;
 	12. condone
-		1. **condemn**判刑，定罪;**endorse**赞同;**tolerate**忍受;**denounce**谴责;**disrespect**失礼,无礼;**discourage**使气馁;**immoral**不道德的;**despicable**可鄙的,卑鄙的;**disapprove**不赞成;**prohibit**阻止，禁止;**criticize**评论, 批评;
-		2. condonation
-		3. condonable
-	13. dose
+		1. condone（宽恕）：对通奸行为的有条件宽恕  
+		2. 在西方历史中人们通常将通奸视为犯罪，并制定了严格的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸”的红色A字。  
+		3. 这种情况到了19世纪下半叶才有所改观。1857年，英国通过“婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯为条件的宽恕。英语单词condone源自拉丁文condonare。其中，con为强化语气的前缀，donare表示“给予”，字面意思就是“宽恕，放弃追究权利”。源自拉丁文donare的单词还有donate（捐献）、pardon（原谅）。  
+		4. condone - 源自拉丁语condōnāre 'forgive'（宽恕）。condōnāre原系法律用语，所表示之“宽恕”是指夫妻一方对于另一方的不贞行为以对方不再重犯为条件的宽恕，故condone亦用于此义。以后词义扩大，亦可泛指一般的“宽恕”或“宽容”。condōnāre由前缀con- 'altogether'和dōnāre 'give, pardon'（给予，原谅）两部分合成。英语有两个常用词donor（捐赠者，赠与者）和donation（捐赠，捐献）也源于dōnāre这一拉丁词。
+		5. condone： [kən'dəʊn] vt.宽恕，赦免  
+		6. condonation： [,kɒndəʊ'neɪʃən] n.（夫妻间对对方通奸行为的）宽恕，赦免，赎罪  
+		7. donate：[də(ʊ)'neɪt] v.n.捐赠，捐献。记：don给予+ate动词后缀→赠送给别人  
+		8. pardon： ['pɑːd(ə)n] v.n.原谅，赦免，宽恕
+		9. **condemn**判刑，定罪;**endorse**赞同;**tolerate**忍受;**denounce**谴责;**disrespect**失礼,无礼;**discourage**使气馁;**immoral**不道德的;**despicable**可鄙的,卑鄙的;**disapprove**不赞成;**prohibit**阻止，禁止;**criticize**评论, 批评;
+		10. condonation
+		11. condonable
+	14. dose
 		1. predose, overdose, minidose, microdosimetry
 		2. microdose
 		3. iosdose
@@ -4134,28 +4142,28 @@
 		9. dosifilm
 		10. doser
 		11. dosage
-	14. donate
+	15. donate
 		1. donator
 		2. donative
 		3. donatism
 		4. donation
-	15. edit
+	16. edit
 		1. unedited
 		2. subedit
 		3. re-edit, preedit, postedit
 		6. copy-edit
-	16. endow
+	17. endow
 		1. unendowed
 		2. endowment
 		3. disendowment
 		4. disendow
-	17. Pandora
+	18. Pandora
 		1. 腊神话中的第一个女凡人，因 Prometheus 把火把从天上带到人间，宙斯为惩罚他，合众神之力，创造出一个无比美丽但没有智慧的女子 Pandora,派她到人间成为 Prometheus 的弟弟Epimetheus 的妻子，并送她一个盒子作为礼物，即充满各种灾难的潘多拉魔盒，并再三警告她不要将这个盒子打开。但很不幸，在好奇心的驱使下，魔鬼被打开了，各种灾难降临人间，仅希望留在盒子里。Pandora 字面意思为众神的礼物，来自 pan-,全，泛，-dora,给，礼物，嫁妆，词源同 data,dowry.Prometheus 字面意思为先知，智者，Epimetheus 字面意思为后知，笨蛋。
-	18. paradoner
-	19. apodosis
-	20. data
-	21. dative
-	22. mandate
+	19. paradoner
+	20. apodosis
+	21. data
+	22. dative
+	23. mandate
 		1. mandatum
 		2. mandatory
 		3. mandator

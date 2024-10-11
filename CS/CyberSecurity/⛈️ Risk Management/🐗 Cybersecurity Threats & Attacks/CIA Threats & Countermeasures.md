@@ -7,6 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [Cybersecurity Basics & InfoSec /🛡️ InfoSec Principles & Objectives](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/Cybersecurity%20Basics%20&%20InfoSec.md#🛡️%20InfoSec%20Principles%20&%20Objectives)
+↗ [Cybersecurity Threats & Attacks](Cybersecurity%20Threats%20&%20Attacks.md)
+
 ↗ [Risk Countermeasures & Security Control](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Risk%20Countermeasures%20&%20Security%20Control.md)
 ↗ [Comprehensive Defense Systems & Security Products](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/🛌%20Comprehensive%20Defense%20Systems%20&%20Security%20Products/Comprehensive%20Defense%20Systems%20&%20Security%20Products.md)
 
@@ -53,11 +55,20 @@ We make this precise with an experiment/security game, the IND-CPA game:
 
 
 
-## 2️⃣ Data Integrity
+## 2️⃣ Data Integrity (and Authenticity)
+↗ [Authentication (身份鉴别)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
+↗ [Identification (身份证明)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md)
+↗ [Data Security](../../Data%20Security/Data%20Security.md)
+
 > 数据完整性是防止非法实体对交换数据的修改、插入、替换和删除，或者如果被修改、插入、替换和删除时可以被检测出来。数据完整性可以通过消息认证模式来保证。
 
 
-### ⚔️ Data Integrity Threat Model
+### ⚔️ Data Integrity (Authenticity) Threat Model
+#### EU-CPA Existential Unforgeability under Chosen-Plaintext Attack
+![](../../../../Assets/Pics/Screenshot%202024-09-26%20at%2014.05.56.png)
+
+#### Impersonation Attacks
+#### MITM (Man-In-The-Middle) Attacks
 
 
 
@@ -192,18 +203,8 @@ We make this precise with an experiment/security game, the IND-CPA game:
 
 
 
-## 3️⃣ Data Availability (Authentication & Recovery)
-↗ [Authentication (身份鉴别)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Access%20Control%20(访问控制)/Authentication%20(身份鉴别)/Authentication%20(身份鉴别).md)
-↗ [Identification (身份证明)](../🐺%20Risk%20Countermeasures%20&%20Security%20Control/Identity%20&%20Access%20Management%20(IAM)/Identification%20(身份证明)/Identification%20(身份证明).md)
-↗ [Data Security](../../Data%20Security/Data%20Security.md)
-
-
+## 3️⃣ Data Availability
 ### ⚔️ Data Availability Threat Model
-#### EU-CPA Existential Unforgeability under Chosen-Plaintext Attack
-![](../../../../Assets/Pics/Screenshot%202024-09-26%20at%2014.05.56.png)
-
-#### Impersonation Attacks
-#### MITM (Man-In-The-Middle) Attacks
 
 
 

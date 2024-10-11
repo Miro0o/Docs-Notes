@@ -312,44 +312,6 @@
 		1. n. [气象] 云学
 
 
-### + \*nem- + = to divide, distribute, allot
-1. **==nam-, nom-, -nomy =** law, a field of knowledge (nomos 「ancient Greeks」 "portion, usage, custom, law, division, district")
-	1. aeronomy, agronomy, astronomy, bionomy, economy, plutonomy, taxonomy, 
-		1. astronomer, bionomics, ergonomics, 
-	2. anomy, antinomy, autonomy, heteronomy,
-	3. gastronome, metronome, 
-	4. nomogram, nomograph
-	5. 
-2. **nom-** = pasture, (nome, "pasturage, grazing"; nomas, "wandering in search of pasture")
-	1. nomad
-		1. 来自希腊语 nomos,牧场，放牧，来自 PIE*nem,分配，分开，词源同 number,nemesis.用于指分配的草地，游牧，游牧民族。
-		2. nomady, nomadize, nomadism, nomadic
-3. **numer-** = number
-	1. alphanumeric
-	2. numerate, numerary, enumerate, enumerative
-		1. numeric, numerical
-			1.  [numeral](dic://numeral), [numerical](dic://numerical)
-			2. _adj._ [number](dic://number), [quantitative](dic://quantitative), [denotative](dic://denotative), [denotive](dic://denotive)
-			3. _n._ [qualitative](dic://qualitative), [connotative](dic://connotative)
-			4. **numerical**数字的;**digit**数字;**integer**整数;**decimal**小数的;**keypad**按键;**integers**整数;**ASCII**美国信息交换标准码;**numerals**数词;**mathematical**数学的;**identifiers**标识符;**identifier**标识符;
-			5. A point is a numeric unit that is used in tests and other schoolwork. /" point" （分数）是数字单位，可以用来表示测验及其他学校功课的表现。
-		2. numerous, numerology
-		3. numeracy, literacy
-		4. nimble
-		5. enumerable, denumerable
-		6. innumerable, innumerous, 
-		7. numeral, numeralization
-4. **numismat-, numm- = coin**
-	1. nummular
-		2. _[nummular](dic://nummular)_  adj. 硬币形的；圆形的
-	3. numismatic
-		1. _[numismatic](dic://numismatic)_  adj. 钱币的；钱币学的；奖章的
-		2. numismatics, numismatology
-	4. nummulation
-		1. numm-钱币 + -ation表名词
-5. Nemessis
-
-
 ### + \*nek- +
 #### + \*nek- (1) + = death
 1. **nec-, necro-** = die, 表示“死”。源自希腊语 nekro "corpse."
@@ -437,49 +399,52 @@
 
 
 ### + \*nekwt- +
-1. **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
-	1. denigrate
-		1. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at), [charge](dic://charge), [accuse](dic://accuse)
-		2. **discredit**败坏…的名声;**criticize**评论, 批评;**undermine**在某物下挖洞或挖通道;**criticise**批评;**disparaging**轻蔑的;**condemn**判刑，定罪;**denounce**谴责;**accuse**控告，指控;**humiliate**蒙羞;**embarrass**使窘迫;**ridicule**嘲笑;
+1. swart (misc)
+2. tenebrous
+3. **melan-** = black, 表示“黑”。源自希腊语 melas "black."
+4. **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
+	1. nigger 
+		2.  [nigga](dic://nigga), [spade](dic://spade), [coon](dic://coon), [jigaboo](dic://jigaboo), [nigra](dic://nigra)
+		3. _n._ [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negro](dic://Negro), [Negroid](dic://Negroid)
+		4. **racist**种族主义者;**Negroes**黑人;**bigot**偏执的人;**slur**诽谤;**bitch**母狗，母狼;**redneck**红脖子;**thug**暴徒;**Negro**黑人;**racism**种族主义，种族歧视;**whore**卖淫，娼妓;**derogatory**不敬的;
+		5. a nigger in the fence /<美俚>暗藏的动机, 不可告人的目的
+		6. Cap'n, I'm real sorry they picked you to defend that nigger that raped my Mayella. /先生，真抱歉他们选了你给那个强奸我家梅耶拉的黑鬼辩护。
+		7. niggerhead
+		8. nigger-lover
+		9. nigger-driver
+		10. nigger-brown
 	2. negro
-		4. [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negroid](dic://Negroid)
-		5. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [person of color](dic://person of color)
-		6. _adj._ [black](dic://black)
-		7. _n._ [white](dic://white)
-		8. **Negroes**黑人;**African**非洲的，非洲人的;**Hispanic**西班牙的;**American**美国人;**Harlem**黑人住宅区;**whites**白带;**Cuban**古巴人;**NAACP**全国有色人种协进会;**Creole**克里奥尔人;**Latinos**拉丁美洲人;**Klan**三K党;
+		1. [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negroid](dic://Negroid)
+		2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [person of color](dic://person of color)
+		3. _adj._ [black](dic://black)
+		4. _n._ [white](dic://white)
+		5. **Negroes**黑人;**African**非洲的，非洲人的;**Hispanic**西班牙的;**American**美国人;**Harlem**黑人住宅区;**whites**白带;**Cuban**古巴人;**NAACP**全国有色人种协进会;**Creole**克里奥尔人;**Latinos**拉丁美洲人;**Klan**三K党;
 	3. nigrescence
 		1. n. 变黑；（眼睛、头发、皮肤等的）黑色
 		2. nigrescent
-	3. nigrify
+	4. nigrify
 		1. vt. 使……成黑色；变黑
 		2. [blacken](dic://blacken), [melanize](dic://melanize), [melanise](dic://melanise), [black](dic://black)
 		3. _v._ [discolor](dic://discolor), [discolour](dic://discolour), [colour](dic://colour), [color](dic://color)
 		4. 
 	5. nigritude
-		1. - n. 黑；漆黑；邪恶
+		1. n. 黑；漆黑；邪恶
 	6. negress
 		1. _n._ [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negro](dic://Negro), [Negroid](dic://Negroid)
 		2. **Negro**黑人;**Negroes**黑人;**woman**女性;**Slaves**斯拉夫人;**lady**女士，夫人;**Creole**克里奥尔人;
 	7. Negrillo
 	8. Negrito
 		1. n. 矮小黑人
-	4. negrofy
-	5. negrohead
+	9. negrofy
+	10. negrohead
 		1. n. 块状粗劣橡胶；黑色压缩烟砖
-	6. Negroid
-	7. negrophilism
-	8. negrophobe
-	9. nigger
-		1.  [nigga](dic://nigga), [spade](dic://spade), [coon](dic://coon), [jigaboo](dic://jigaboo), [nigra](dic://nigra)
-		2. _n._ [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negro](dic://Negro), [Negroid](dic://Negroid)
-		3. **racist**种族主义者;**Negroes**黑人;**bigot**偏执的人;**slur**诽谤;**bitch**母狗，母狼;**redneck**红脖子;**thug**暴徒;**Negro**黑人;**racism**种族主义，种族歧视;**whore**卖淫，娼妓;**derogatory**不敬的;
-		4. a nigger in the fence /<美俚>暗藏的动机, 不可告人的目的
-		5. Cap'n, I'm real sorry they picked you to defend that nigger that raped my Mayella. /先生，真抱歉他们选了你给那个强奸我家梅耶拉的黑鬼辩护。
-		6. niggerhead
-		7. nigger-lover
-		8. nigger-driver
-		9. nigger-brown
-2. **noct-** = night, 表示“夜晚”。源自拉丁语 nox (词干 noct-) "night," noctua "night owl."
+	11. Negroid
+	12. negrophilism
+	13. negrophobe
+	14.  denigrate
+		1. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at), [charge](dic://charge), [accuse](dic://accuse)
+		2. **discredit**败坏…的名声;**criticize**评论, 批评;**undermine**在某物下挖洞或挖通道;**criticise**批评;**disparaging**轻蔑的;**condemn**判刑，定罪;**denounce**谴责;**accuse**控告，指控;**humiliate**蒙羞;**embarrass**使窘迫;**ridicule**嘲笑;
+5. **noct-** = night, 表示“夜晚”。源自拉丁语 nox (词干 noct-) "night," noctua "night owl."
 	1. equinoctial
 	2. noctalpia
 	3. noctambulate
@@ -522,7 +487,47 @@
 		5. **moth**蛾;**larvae**幼虫;**larval**幼虫状态的;**insect**昆虫;**beetles**甲壳虫，甲虫;**genera**种;**genus**类，种;**beetle**甲虫;**insects**昆虫;
 	18. noctule
 		1. n. （欧洲，印尼及菲律宾等地的）褐色大蝙蝠
-3. night
+6. night
+
+
+### + \*nem- + = to divide, distribute, allot
+1. **==nam-, nom-, -nomy =** law, a field of knowledge (nomos 「ancient Greeks」 "portion, usage, custom, law, division, district")
+	1. aeronomy, agronomy, astronomy, bionomy, economy, plutonomy, taxonomy, 
+		1. astronomer, bionomics, ergonomics, 
+	2. anomy, antinomy, autonomy, heteronomy,
+	3. gastronome, metronome, 
+	4. nomogram, nomograph
+	5. 
+2. **nom-** = pasture, (nome, "pasturage, grazing"; nomas, "wandering in search of pasture")
+	1. nomad
+		1. 来自希腊语 nomos,牧场，放牧，来自 PIE*nem,分配，分开，词源同 number,nemesis.用于指分配的草地，游牧，游牧民族。
+		2. nomady, nomadize, nomadism, nomadic
+3. **numer-** = number
+	1. alphanumeric
+	2. numerate
+		1. numerary
+		2. enumerate, enumerative
+		3. numeric, numerical
+			1.  [numeral](dic://numeral), [numerical](dic://numerical)
+			2. _adj._ [number](dic://number), [quantitative](dic://quantitative), [denotative](dic://denotative), [denotive](dic://denotive)
+			3. _n._ [qualitative](dic://qualitative), [connotative](dic://connotative)
+			4. **numerical**数字的;**digit**数字;**integer**整数;**decimal**小数的;**keypad**按键;**integers**整数;**ASCII**美国信息交换标准码;**numerals**数词;**mathematical**数学的;**identifiers**标识符;**identifier**标识符;
+			5. A point is a numeric unit that is used in tests and other schoolwork. /" point" （分数）是数字单位，可以用来表示测验及其他学校功课的表现。
+		4. numerous, numerology
+		5. numeracy, literacy
+		6. nimble
+		7. enumerable, denumerable
+		8. innumerable, innumerous, 
+		9. numeral, numeralization
+4. **numismat-, numm- = coin**
+	1. nummular
+		2. _[nummular](dic://nummular)_  adj. 硬币形的；圆形的
+	3. numismatic
+		1. _[numismatic](dic://numismatic)_  adj. 钱币的；钱币学的；奖章的
+		2. numismatics, numismatology
+	4. nummulation
+		1. numm-钱币 + -ation表名词
+5. Nemessis
 
 
 ### + \*nepot- +
@@ -561,6 +566,79 @@
 	9. grandniece
 		1. _n._ [niece](dic://niece)
 		2. **granddaughter**孙女;**niece**外甥女，侄女;**grandson**孙子;**daughter**女儿;**nephew**侄子;**aunt**伯母;**sister-in-law**夫或妻的姊妹;**daughter-in-law**儿媳妇;**cousin**堂兄弟姊妹;**grandmother**祖母;**sister**姐妹;
+
+
+### + \*ner- +
+#### + \*ner- (2) +
+1. **andro-** = male, man, 表示“男人”。源自希腊语 aner (词干 andr-) "man."
+	1. androcentrism
+	2. androecium
+	3. androgen
+	4. andrology
+	5. androsterone
+	6. philander
+	7. anandrous
+	8. android
+	9. diandrous
+	10. gynandrous
+	11. monandry
+	12. polyandric
+	13. polyandrous
+	14. polyandry
+	15. theandric
+	16. androphonomania
+2. **anthrop-** = man, human, 表示“人，人类”。来源于希腊语 anthropos "man, human being."
+	1. anthropocentric
+	2. anthropogeny
+	3. anthropogeography
+	4. anthropology
+	5. anthropometric
+	6. antheropometry
+	7. anthropomorphic
+		1. adj. 拟人化的，赋予人性的
+		2. anthropo-人 + morph-形状 + -ic
+		3. anthrop-,人，词源同 android,-morph,形状，词源同 form.
+		1. anthropomorphism
+		2. anthropomophist
+		3. anthropomorphize
+	1. anthropomorphous
+		1. _adj._ [human](dic://human)\
+		2. _n._ [nonhuman](dic://nonhuman)
+		3. **humanoid**像人的;**non-human**非人类的;**sentient**有感觉力的;**inanimate**无生命的;**beings**人;**ape**猿;**humans**人类;**grotesque**奇形怪状的;**creature**动物，生物;**assemblage**聚集;**human**人的;
+		4. But affliction makes opposing forces loom anthropomorphous; and those ideas were now exchanged for a sense of Jude and herself fleeing from a persecutor /但是苦难使对立的力量变得拟人化。现在，这些想法变成了裘德和她自己逃离迫害者的感觉。
+	2. anthropophagite
+		1. - n. 吃人肉者
+		2. anthropophagous
+			1. - adj. 食人的
+		3. anthropophagy
+			1. - n. 食人
+	3. anthroposociology
+	4. anthropotomy
+	5. anthropoid
+		1. adj. 类人的，（猿等）似人类的；类人猿的；与高等灵长类有关的；（非正式）举止像猿猴的 
+		2. n. 类人猿；灵长目；（非正式）猿猴似的人
+		3. _n._ [misfit](dic://misfit), [primate](dic://primate)
+		4. _adj._ [nonhuman](dic://nonhuman), [human](dic://human)
+		5. _n._ [human](dic://human), [nonhuman](dic://nonhuman)
+		6. **ape**猿;**primate**大主教;**humanoid**像人的;**primates**灵长类;**prehistoric**史前的;**skeletal**骨骼的，像骨骼的;**cranial**头盖的;**non-human**非人类的;**homo**人，人类;**primitive**原始的;**skeleton**骨架，骨骼;
+		7. Circling about behind the ape he prodded the anthropoid in the back with a pin /他在猿猴后面盘旋， 用别针戳了戳类人猿的背部。
+		8. But it was an antipode to the anthropoid. /但对类人猿而言，这是一件恰恰相反的事物。
+		9. However, an analysis of the fossil also revealed some features which resemble those of anthropoids like monkeys and apes, including man. /然而，分析化石发现这种动物的一些特征和类人猿（如猴子、猩猩，包括人类）相似。
+		10. 
+	7. lycanthropy
+	8. misanthrope
+		1. [misanthropist](dic://misanthropist)
+		2. _n._ [grouch](dic://grouch), [grump](dic://grump), [crank](dic://crank), [churl](dic://churl), [crosspatch](dic://crosspatch)
+		3. **psychopath**精神病患者;**neurotic**神经过敏的;**lunatic**精神错乱的;**optimist**乐天派;**grumpy**脾气暴躁的;**bigot**偏执的人;**deranged**疯狂的;**snob**势利小人，势利眼;**hater**怀恨者;**outcast**流浪的人;**self-centered**自我为中心的,利己主义的;
+		4. Nice try, but you're a misanthrope, not a misogynist /不错了,你讨厌的是世界, 不是女人.
+		5. Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body. /就像一个热血沸腾的遭受火刑的殉道者，或是一个悲观厌世的自焚者，一旦点燃，鲸鱼就会以自己的身体为燃料而熊熊燃烧了。
+		6. When not fighting, he was hardly more than a misanthrope and a scoffer: his great energies were drained by doubt, cynicism, and melancholy. /不战斗时，他只不过是一个厌世者和嘲笑者：他的巨大能量被怀疑、愤世嫉俗和忧郁所耗尽。
+	9. philanthropy
+	10. pithecanthrope
+	11. pithecanthropus
+	12. Sinanthropus
+	13. theanthropic
+	14. anthropocentrism
 
 
 ### + \*nes- +

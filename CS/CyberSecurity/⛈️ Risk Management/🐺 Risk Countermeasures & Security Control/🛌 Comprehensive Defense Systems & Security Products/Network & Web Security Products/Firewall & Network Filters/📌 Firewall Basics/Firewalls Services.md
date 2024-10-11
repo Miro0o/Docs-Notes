@@ -97,7 +97,7 @@
 #### Two-host Recovery (双机热备)
 ![](../../../../../../../../../Assets/Pics/Screenshot%202023-11-24%20at%2010.25.50AM.png)
 #### Load-Balancing
-↗ [Load Balancing Servers](../../../../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Load%20Balancing%20Servers/Load%20Balancing%20Servers.md)
+↗ [Load Balancing Services](../../../../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Load%20Balancing%20Services/Load%20Balancing%20Services.md)
 
 负载均衡算法：
 - 轮流

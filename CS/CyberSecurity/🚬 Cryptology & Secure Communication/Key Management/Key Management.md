@@ -61,17 +61,17 @@
 
 
 ## Key Management Life Circle
-↗ [Key Management Life Circle](📌%20Key%20Management%20Life%20Circle/Key%20Management%20Life%20Circle.md)
+↗ [Key Management Life Circle](Key%20Management%20Life%20Circle.md)
 
 
 
 ## Threshold Scheme (秘密分割)
-↗ [Threshold Scheme (门限方案)](Key%20Management%20Algorithms/Threshold%20Scheme%20(门限方案)/Threshold%20Scheme%20(门限方案).md)
+↗ [Threshold Scheme (门限方案)](📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Threshold%20Scheme%20(门限方案)/Threshold%20Scheme%20(门限方案).md)
 
 
 
 ## Group Key (群密钥)
-↗ [Group Key](Key%20Management%20Algorithms/Group%20Key/Group%20Key.md)
+↗ [Group Key](📌%20Key%20Management%20Algorithms%20&%20Protocols/Key%20Management%20Algorithms/Group%20Key/Group%20Key.md)
 
 
 

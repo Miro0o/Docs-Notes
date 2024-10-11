@@ -20,7 +20,7 @@
 
 ↗ [Parallel Computing](../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
 
-↗ [Web Development](../../../../../Software%20Engineering/Web%20Development/Web%20Development.md)
+↗ [Web Development & Web Basics](../../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
 
 
 ### Learning Resources
