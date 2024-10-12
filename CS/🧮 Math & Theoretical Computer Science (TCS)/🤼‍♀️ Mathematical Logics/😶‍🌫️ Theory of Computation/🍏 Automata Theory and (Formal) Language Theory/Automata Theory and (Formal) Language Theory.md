@@ -7,6 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Set Theory](../../Set%20Theory/Set%20Theory.md)
+↗ [Normalization](../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Logical%20Database%20Design%20(Data%20Modeling)/Record-Based%20Data%20Models/Relational%20(Data)%20Models/Normalization/Normalization.md)
 
 
 ### Other Resources
@@ -80,4 +81,5 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 [Streaming algorithm | Wikipedia]: https://en.wikipedia.org/wiki/Streaming_algorithm#Lower_bounds
 
 [Lecture 7: Streaming Algorithms and Communication Complexity | Stanford]: https://people.csail.mit.edu/rrw/6.045-2020/lec7-color.pdf
+
 

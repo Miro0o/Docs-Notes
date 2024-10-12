@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
+                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,9 +42,22 @@
                 "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "821a7028366f7869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md"
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md"
               }
             }
           },
@@ -196,11 +209,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fdebff3c64bc1038",
+  "active": "821a7028366f7869",
   "lastOpenFiles": [
-    "Assets/Pics/Screenshot 2024-10-10 at 22.13.43.png",
+    "CS/Software Engineering/Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/Frontend JS Techniques/JS Gadgets/MathJax.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Binary Relation/Binary Relation.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/Set Theory/Set Theory.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/📍 Mathematical Logics Basics/First-order Logic.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
+    "Assets/Illustrations/Computer System/computer_architecture_and_computer_science.excalidraw.md",
     "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Relational (Data) Models/Normalization/Normalization.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Formal Semantics and Programming Language.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
+    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/⚜️ Database System Design/📌 DBMS Design/Logical Database Design (Data Modeling)/Record-Based Data Models/Relational (Data) Models/Normalization/Advanced Normalization.md",
+    "Assets/Pics/Screenshot 2024-10-10 at 22.13.43.png",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Key Management/Password Management.md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Key Management/📌 Key Management Algorithms & Protocols/🚛 Key Distribution (one-to-many)/Asymmetric Key Distribution (AKD)/AKD via Public Key Certificates/AKD via Public Key Certificates.md",
     "CS/CyberSecurity/🚬 Cryptology & Secure Communication/Key Management/📌 Key Management Algorithms & Protocols/🚛 Key Distribution (one-to-many)/Asymmetric Key Distribution (AKD)/Asymmetric Key Distribution (AKD).md",
@@ -210,7 +234,6 @@
     "Assets/Pics/Screenshot 2024-10-10 at 21.22.22.png",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux Directory System & FHS.md",
     "CS/Software Engineering/Web Development/Web Development & Web Basics.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
     "Assets/Pics/Pasted image 20241010164423.png",
     "Assets/Pics/Pasted image 20241010164346.png",
     "CS/🔑 CS Core/🧬 Computer System/Development of Computer System.md",
@@ -219,22 +242,12 @@
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/📌 Computer Organization & Architecture Basics/Computer System Hardware Development.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/Computability Theory.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Regular Language.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory/Turing Machine.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/Intro to Computer Science.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Lisp-Based Languages/Lisp-Based Languages.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Lisp-Based Languages/Lisp/Lisp.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Lisp-Based Languages/Lisp",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Lisp-Based Languages/Scheme/Scheme.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Style & Coding Conventions.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🛠️ Programming Tools Chain/Text Editors/SublimeText/SublimeText Configuration/ST Package Contorl.md",
     "Assets/Pics/Screenshot 2024-10-10 at 12.21.56.png",
     "Assets/Pics/Screenshot 2024-10-10 at 12.21.48.png",
     "Assets/Pics/Screenshot 2024-10-10 at 00.25.22.png",
     "Assets/Pics/Screenshot 2024-10-10 at 00.21.49.png",
     "Assets/Pics/Screenshot 2024-10-10 at 00.20.17.png",
-    "Assets/Pics/Screenshot 2024-10-10 at 00.19.54.png",
     "CS/🏠 Assets/📌 How to learn English the right way/English Speaking",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design",
     "Untitled.table",
