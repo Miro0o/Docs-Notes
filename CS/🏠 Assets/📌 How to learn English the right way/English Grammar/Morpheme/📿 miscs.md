@@ -343,6 +343,25 @@ argot
 - Crucially, the samples came with useful data about the characteristics of the plants they were taken from, known in the argot as their phenotype /至关重要的是，这些样本提供了关于它们所采集的植物特征的有用数据，在行业术语中被称为它们的表现型（显型）。
 - The **argot** and proverb created by them enrich Chinese language. /他们创造的隐语、歇后语、谚语等丰富了中国的语言。
 
+ascetic (aesthetic)
+- ascetic（苦修）：古希腊运动员赛前的禁欲  
+- 每一届足球世界杯总会有一个话题引发激烈的讨论，那就是大赛之前该不该禁欲。2014年巴西世界杯出现了一个奇怪的现象：所有对球员颁布“禁欲令”的队伍都遭到了淘汰，而那些对球员性生活持有更宽松态度的球队则走得更远。尽管如此，在历史上，人们普遍认为大赛之前应该禁欲，英语单词ascetic（苦修）一词就反映了这一观点。  
+- ascetic源自希腊语asketikos，来自动词askein（训练），最初指的是古希腊人在参加奥运会这样的比赛前的禁欲和锻炼。古希腊人格外重视比赛前的禁欲，因为他们认为精液是男人气概和力量的来源，在比赛时必须拥有充沛的储备。古希腊体育史上的传奇英雄、曾经在一天内获得三项比赛的桂冠的克雷托马库斯（Kleitomachos）就特别重视禁欲，甚至连含有色情话题的聊天都拒绝参与。还有些人甚至会采用系上包皮的方式来控制情欲。  
+- 古希腊人为了备赛而采取的禁欲做法得到了基督教徒的赞誉。一些基督教隐士和僧侣在进行苦修时，也会采用古希腊人的这种禁欲方法，因此ascetic一词后来往往用来表示隐士、僧侣等人的禁欲苦行。  
+- ascetic：[ə'setɪk] n.禁欲者，苦行者adj.禁欲的，苦行的  
+- asceticism：[ə'setɪk] n.禁欲主义，苦行生活
+-  来自希腊语 askeo,修行，特指宗教人士的苦修。
+-  [abstainer](dic://abstainer)
+-  [ascetical](dic://ascetical)
+- [ascetical](dic://ascetical), [austere](dic://austere), [spartan](dic://spartan)
+- _n._ [religious person](dic://religious person)
+- _adj._ [abstainer](dic://abstainer), [abstemious](dic://abstemious)
+- _n._ [gluttonous](dic://gluttonous)
+- **monastic**僧侣;**monk**僧侣，修道士;**pious**虔诚的;**austere**简朴的;**contemplative**沉思的;**hermit**隐士;**piety**虔诚;**worldly**世间的;**monastery**修道院;**disciple**门徒，信徒;**mystic**神秘的;
+- 
+- asceticism
+- ascetical
+
 astute (autistic, astute, altruism, austere)
 - 可能来自希腊语 asty,城市，来自-st,站立，词源同 asteism,城里人的，故作绅士派头的。
 - a. 敏锐的, 狡猾的
@@ -409,6 +428,25 @@ azure
 
 
 ## B
+badge
+- badge（徽章）：中世纪骑士的家族标识  
+- 英语单词badge（徽章）本意是骑士的家族标识，最早出现于中世纪骑士比武大会。在比武时，骑士全身上下都被铠甲包裹。为了表示自己的身份，骑士往往在自己的盾牌上装饰上不同的图案。所以现在的徽章如国徽、队徽往往都设计为盾形。与西方相比，中国的家徽文化不发达，这可能与中西方的文字差异有关。西方文字通常是拼音文字，因此不如图案那么鲜明形象，而中国的汉字是象形文字，本身就适合作为图案来使用。因此中国古代将军领军打仗时，旗帜上往往使用自己的姓氏来标明身份。  
+- 跟badge拼写很接近的一个单词是badger（獾）。据说獾之所以被称为badger，是因为它的前额上有醒目的白色条纹，就像是一个徽章。  
+- badger ['bædʒə] n.獾，vt.纠缠不休；吵着要。这种动物得名自前额部位徽章样的白色块，即这个单词：badge [bædʒ] n.徽章；证章；标记，vt.授给…徽章。动词含义则来自旧时英国的badger-baiting游戏中，参与者不断怂恿狗钻到关着獾的箱子中与獾缠斗的玩法。She badgered her mother for a new car。
+- _n._ [emblem](dic://emblem), [allegory](dic://allegory), [feature](dic://feature), [characteristic](dic://characteristic)
+- _v._ [tag](dic://tag), [label](dic://label), [mark](dic://mark)
+- **insignia**徽章;**emblem**象征;**sticker**尖刀;**emblems**象征动作;**logo**商标，徽标;**lapel**西服上的翻领;**medallion**大奖章;**symbol**符号;**stickers**尖刀，贴纸;**decal**贴花纸;**T-shirt**T恤, 短袖汗衫;
+-  The scepter is the king’s badge of office. /权杖是国王地位的象征。
+- We wear the school badge on our coats. /我们把校徽别在外套上。
+- Including the computer bead piece embroidery, the rope embroiders, the badge embroidery, the epaulet epaulet badge, the automobile symbol badge embroidery, the computer embroiders!  /电脑珠片绣，贴布绣，绳索绣，立体绣，徽章，汽车车标章子绣花刺绣等各种电脑绣花！
+- badge： [bædʒ] n.徽章，纹章，标识  
+- badger： ['bædʒə] n.獾
+	- _n._ [American](dic://American), [musteline mammal](dic://musteline mammal), [mustelid](dic://mustelid), [musteline](dic://musteline)
+	- _v._ [torment](dic://torment), [rag](dic://rag), [bedevil](dic://bedevil), [crucify](dic://crucify), [dun](dic://dun), [frustrate](dic://frustrate), [persuade](dic://persuade)
+	- **fox**欺骗;**hound**追猎;**beaver**海狸;**moose**驼鹿;**wolf**狼;**foxes**狐狸;**squirrel**松鼠;**honey**蜂蜜;**otter**水獭;**boar**野猪;**grizzly**灰色的; [tease](dic://tease), [pester](dic://pester), [bug](dic://bug), [beleaguer](dic://beleaguer)
+	- journalists badgered him about the deals. /记者们就那几笔交易问题不停地纠缠他。
+	- The children badgered me into taking them to the cinema. /孩子们吵着要我带他们去看电影。
+
 bail
 - 1. vt. 保释，帮助某人脱离困境；往外舀水
 - [bail bond](dic://bail bond), [bond](dic://bond)
@@ -963,6 +1001,24 @@ boast
 - boastful
 - boaster
 
+bogus (bonus)
+- bogus（伪造的）：擅长开空头支票的意大利骗子鲍格才  
+- 英语单词bogus表示“伪造的东西”，在19世纪开始出现在美国新闻报纸上。没有人知道这个词的确切来源。美国马萨诸塞州波士顿的一份新闻报刊认为，该词是从意大利臭名昭著的骗子鲍格才（Borghese）的名字演变而来的。他行骗有术，手段高明，擅长开空头支票，到银行或商店里去兑换现金，然后赶紧离开。Borghese由于开了一大把不值分文的支票、汇票和其他票据而在整个南部和西部出了名。从他的大名Borghese也就逐渐成了“冒牌的”或“伪造的”的同义词，后来拼写形式缩写为bogus。  
+- bogus：['bəʊgəs] adj.伪造的，假的n.伪钞，假币
+- bogus - bogus原是道地美语，产生于19世纪初叶。关于其由来说法很多，以下两种较为可信：
+	- 其一，1827年5月俄亥俄州佩恩斯维尔市（Painesville）警察破获了一起伪币案。在捉拿罪犯的现场，一大群人围观一台制造伪币的机器，这台造币机样子奇特，人群中有个人说它就像个bogus。翌日，当地《电讯报》（Telegraph）报道此事竟然用了bogus一词，称制造伪币的机器为bogus，随后有人把伪币叫做bogus money或简称为bogus。天长日久，大凡假的或伪造的东西人们均以bogus来表示。美国作家马克·吐温曾用过该词，使之得以推广。  
+	- 其二，1857年《波士顿信使报》（Boston Courier）称，该词源出于一个臭名昭著的骗子，他有个意大利名字叫Borghese。该报说，Borghese行骗有术，手段高明。他签了许多空头支票，作案之后迅即离开。到了1837年，Borghese由于开了大量一钱不值的支票、汇票及各种票据而臭名远扬于美国南部和西部各地。他的大名Borghese也就逐渐成了“伪造的”或“假的”的同义词，以后很可能由于法语bagasse（废物）一词的影响而被缩略为bogus。
+-  [fake](dic://fake), [phony](dic://phony), [phoney](dic://phoney), [bastard](dic://bastard)
+- _adj._ [counterfeit](dic://counterfeit), [imitative](dic://imitative)
+- _n._ [genuine](dic://genuine), [echt](dic://echt)
+- **phony**假的，欺骗的;**spurious**假的;**fake**假货;**fraudulent**欺骗的,不诚实的;**scam**骗局，诡计;**false**伪造的;**unsubstantiated**无事实根据的;**hoax**愚弄;**baseless**无根据的;**nonsense**谬论;**untrue**不真实的;
+- a bogus insurance claim. /假冒的保险索赔。
+- he was a bogus worker of miracles. /他是个假冒的奇迹创造者。
+- She was fooled by his bogus identity card. /她被他的假身份证骗了。
+-  What else did he offer you? A bogus new title? /他还给你什么了? 一个冒牌头衔?
+- This whole thing is bogus shut it down! /这整个事情是假的，关掉它！
+- The bank has said investors were promised quick, high returns from a bogus financial scheme. /该银行表示，有人向投资者承诺可以迅速从一个虚假的金融计划中获得高额回报。
+
 botch
 - **blunder**的错误;**shoddy**劣质的;**fail**失败，不及格;**redo**重做;**inept**不适当的;**fiasco**惨败;**mess**混乱;**horribly**可怕地;**disastrous**灾难性的;**sloppy**草率的;**debacle**崩溃;
 - [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [bungle](dic://bungle), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
@@ -1280,11 +1336,16 @@ bounce
 bound
 - etc..
 
-bouquet
+bouquet (bouquet, cachet, crotchet, coquet) (spray)
+- 来自拉丁语 boscus,灌木，灌木花，词源同 bush.-et,小词后缀。
+- n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
 - [corsage](dic://corsage), [posy](dic://posy), [nosegay](dic://nosegay)
 - [fragrance](dic://fragrance), [fragrancy](dic://fragrancy), [redolence](dic://redolence), [sweetness](dic://sweetness)
 - **floral**用花制作的;**flower**花;**vase**花瓶;**florist**花商，种花人;**wreath**花冠;**petals**花瓣;**blooms**水华;**bridal**新娘的;**tulips**郁金香;**bridesmaid**女傧相;**bride**新娘;
 - **aroma**芳香;**pungent**刺激性的;**scent**气味;**whiff**喷出;**stench**恶臭;**smell**嗅，闻;**fragrant**芳香的;**smelling**嗅诊;**fragrance**香味;**scents**气味;**aromatic**芳香的，芬芳的;
+- the bouquet of a fine Burgundy wine; /优质勃艮第葡萄酒的香味；
+- we will happily publish the bouquets and brickbats /我们将很高兴地发表褒贬之词。
+- the aperitif has a faint bouquet of almonds. /开胃酒有一股淡淡的杏仁香味。
 
 brackish
 - adj. 含盐的；令人不快的；难吃的
@@ -1361,6 +1422,16 @@ bride
 	- a bridal shop; the hotel's bridal suite /供新娘买用品的商店；旅馆的结婚套间
 	- a white bridal veil /新娘的白色面纱。
 
+bridle
+- n. 马勒, 约束; v. 生气 (~ at sth); 给马套笼头
+- unbridle
+	- unbridled anger. /无法抑制的愤怒
+	- an unbridled pony. /不戴缰绳的小马
+	- His annoyance had unbridled his tongue. /他的烦恼使他打开了话匣子。
+- bridlewise
+- bridle-rein
+	- n. 马缰
+
 brine
 - 词源不详。可能同 bur,毛刺。形容盐水的粗糙。
 - [seawater](dic://seawater), [saltwater](dic://saltwater)
@@ -1406,6 +1477,19 @@ brothel
 -  [whorehouse](dic://whorehouse), [bordello](dic://bordello), [bagnio](dic://bagnio), [house of prostitution](dic://house of prostitution), [house of ill repute](dic://house of ill repute), [bawdyhouse](dic://bawdyhouse), [cathouse](dic://cathouse), [sporting house](dic://sporting house)
 - _n._ [building](dic://building), [edifice](dic://edifice)
 - **prostitute**娼妓;**prostitution**卖淫;**nightclub**夜总会;**seedy**多种子的;**tavern**酒馆;**pimp**皮条客;**hooker**扭夺时的中心选手;**saloon**酒馆;**maid**女仆;**cabaret**卡巴莱歌舞表演;**mansion**大厦;
+
+brook
+- creek, streamlet; rill; rivulet;
+-  [digest](dic://digest), [endure](dic://endure), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [tolerate](dic://tolerate), [support](dic://support), [abide](dic://abide), [suffer](dic://suffer), [put up](dic://put up)
+- _n._ [stream](dic://stream), [watercourse](dic://watercourse)
+- _v._ [permit](dic://permit), [allow](dic://allow), [let](dic://let), [countenance](dic://countenance)
+- **creek**小溪;**river**河，江;**meadow**草地;**meadows**草地;**pond**池塘;**stream**溪流;**trout**鳟鱼;**babbling**胡说;**lake**湖;**valley**山谷;**willow**柳木制品;
+- He would brook no interruptions /他不容许别人打岔。
+- The brook joins the river. /小溪同河流汇合。
+- Jenny would brook no criticism of Matthew. /珍妮不会容忍任何对马修的批评。
+- a brook bubbling along its course /一条汩汩流动的溪水
+- The straight flow of the brook formed a ravine /不间断的溪水形成了一个峡谷。
+-  No. My curiosity would not brook such a delay. /别走 我的好奇心可忍不到明天。
 - 
 
 brush
@@ -1830,6 +1914,9 @@ Caesar
 	- _caesarean section_ [医]剖腹产；剖腹产术
 	- _caesarean birth_ [医]剖腹产
 
+callow
+- gl- 
+
 caliber, calibre
 - calibre（口径）：用于制造物品的模具  
 - 古代阿拉伯人很早就开始使用模具来制造物品，例如在生产鞋时，先制造一个外形接近人脚的模具，也就是所谓的“鞋楦”，然后利用鞋楦就可以制造出大量尺寸和外形几乎一样的鞋来。后来出现了金属铸造技术，模具更得到了大量应用。在阿拉伯语中，将鞋楦以及各种模具都称为qalib。该词到了法语中变成了calibre，在英语中的拼写也一样。但在美式英语中，拼写变成了caliber。该词的词义也有所变化，从表示模具本身变为表示模具的尺寸。  
@@ -2037,13 +2124,13 @@ canvas
 
 capa
 
-chagrin
+chagrin (vexation)
 - **dismay**沮丧，灰心;**annoyance**烦恼;**displeasure**不快, 不悦, 生气;**amazement**惊奇, 惊愕;**disdain**蔑视;**astonishment**惊讶, 惊奇;**embarrassment**困窘;**disgust**厌恶，嫌恶;**frustration**挫折;**disappointment**失望;**ire**忿怒;
 - [humiliate](dic://humiliate), [mortify](dic://mortify), [humble](dic://humble), [abase](dic://abase)
 - _n._ [embarrassment](dic://embarrassment)
 - v. [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
 
-charade
+charade (b)
 - charade（幌子）：古代法国的看手势猜字谜游戏  
 - 英语单词charade来自法语，由char-和名词后缀-ade组成。char-很可能来自法语拟声词charrar（唠叨），所以charade的本意是“喋喋不休、长篇大论”。在古代法国有一种看手势猜字谜的游戏，叫做dumb charade（不出声的charade）。表演者需要通过手势，将一个短语的所有部分都表演出来，然后观看者开始猜是哪个短语。后来，这个游戏被简称为charade。现在，charade常常被用来比喻“幌子”、“易识破的伪装”。  
 - charade：[ʃə'red] n.看手势猜字谜游戏，幌子，易识破的伪装
@@ -2183,12 +2270,24 @@ chic
 - **stylish**时髦的;**trendy**时髦的，流行的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**luxe**奢侈;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**sleek**圆滑的;**edgy**尖利的;**rustic**乡村的;**retro**制动火箭,减速火箭;
 
 chimera
+- chimerical（荒诞的）：怪物奇美拉  
+- 在希腊神话中，奇美拉（Chimera）是一只栖息在下亚细亚的利西亚（Lycia）)中的怪兽，据说是提丰的后代。它的独特之处在于它是由三种动物构成的。荷马在《伊里亚特》中首次对奇美拉进行了描述：“一种永生之物，而非人类，前为狮，后为蛇，中为羊。呼吸之间，鼻喷明亮可怖的火焰。”赫西奥德在《神谱》中也有类似描述：“令人恐怖的生物，雄壮、强大、敏捷，拥有三个头：前有狮头，后有龙头，中有羊头，喷出令人恐怖的烈火。”奇美拉通常被看作是雌性，是斯芬克斯和尼美亚雄狮的母亲。在野外看到奇美拉通常预示着风暴、船只失事、自然灾害（尤其是火山爆发）。  
+- 科林斯英雄柏勒罗丰（Bellerophon）奉利西亚国王之命来猎杀奇美拉。他骑着飞马，在空中用灌铅的长矛杀死了奇美拉。奇美拉出现在古希腊众多艺术作品中，如花瓶、壁画。由于奇美拉是由三种完全不同的动物组成的，因此从它的名字衍生了英语单词chimerical，表示由异质部分构成的，后来引申为荒诞的、空想的。  
+- chimera：[kaɪ'mɪrə] n. 奇美拉；嵌合体；虚构的怪物；妄想  
+- chimerical： [kaɪ'mɪərɪkəl] 荒诞的，空想的，妄想的
 - **mutant**突变体;**creature**动物，生物;**hybrid**混合物;**unicorn**独角兽;**cloning**克隆;**fusion**融合物;**demon**魔鬼;**phantom**幽灵;**beast**野兽;**humanoid**像人的;**monster**怪物;
 - Pagoni VR through its project chimera created the VR experience with Auden's class at Temple University /帕格尼VR公司与安东所在的坦普尔大学的班级合作，通过其项目嵌合体创造了虚拟现实体验。
 - A chimera of storm clouds and plastic rubbish and burning trees. /由暴雨云、塑胶垃圾，和燃烧的树木组成的一只吐火怪物。 
 - So maybe you create this sort of this chimera, right? This hybrid. /因此你创造的是种幻想，是种混合体，对吗？
 - Of course, at the moment, these buildings seem less like real residential spaces, and rather more like chimeras /当然，就目前而言，这些建筑看起来不太像真正的住宅空间，而更像是海市蜃楼。
 - He was a chimera in Mike's eyes. /在迈克的眼里，他是个妖怪！
+- chimerical (apocryphal)
+	- _adj._ [Chimera](dic://Chimera), [Chimaera](dic://Chimaera), [unrealistic](dic://unrealistic)
+	- _n._ [realistic](dic://realistic)
+	- **fanciful**想像的;**improbable**不可信的;**utopian**空想的;**preposterous**反常的,荒谬的;**mythical**神话的;**fantastical**空想的,捕风捉影的;**speculative**推测的;**paradoxical**似是而非的 矛盾的 诡论的;**imaginary**想像中的, 假想的, 虚构的;**pernicious**很有害的;**elusive**难以捉摸的;
+	- His Utopia is not a chimerical commonwealth but a practical improvement on what already exists. /他的乌托邦不是空想的联邦，而是对那些已经存在的联邦事实上的改进。
+	- This account of the bank of Amsterdam, however, it will appear hereafter, is in a great measure chimerical /然而，阿姆斯特丹银行的这个账户在很大程度上是虚构的，下文将对此加以说明。
+	- Among the various sciences which curiosity had induced him to explore, He neglected not that which by most is esteemed impious, and by many chimerical. /在好奇心驱使他探索的各种科学中， 他并没有忽视那些被大多数人视为不虔诚和许多人认为是幻想的东西。Such a speculation, can, at worst, be regarded but as a new Utopia, less amusing, certainly, but no more useless and chimerical than the old one. /这样的猜测，在最坏的情况下，只能被视为一个新的乌托邦，虽然不那么有趣，但并不比旧乌托邦更无用和空想。
 
 chip
 - n. 屑片, 薄片, 碎片, 芯片; 炸薯条; 缺口  
@@ -2270,7 +2369,14 @@ clique
 - _[concept clique](dic://concept%20clique)_ 概念团
 - _[form cliques](dic://form%20cliques)_ 拉帮结伙; 结党营私; 
 - _[clique problem](dic://clique%20problem)_ 分团问题; 集团型问题;
+- 
 - cliquish
+	-  [clannish](dic://clannish), [clubby](dic://clubby), [snobbish](dic://snobbish), [snobby](dic://snobby)
+	- comity
+	- _adj._ [private](dic://private)
+	- _n._ [public](dic://public)
+	- **clique**派系;**elitist**优秀人材;**judgmental**审判的;**obnoxious**可憎的;**unfriendly**不友好的;**self-centered**自我为中心的,利己主义的;**pretentious**自命不凡的;**aloof**冷淡的;**subculture**亚文化群;**rowdy**吵闹的;**pushy**有进取心的;
+	- The real worry is over Mr Orban's headstrong ways and **cliquish** habits /真正需要担心的是奥班先生刚愎自用，结党营私的习性。
 - cliquism
 - cliquey
 
@@ -2279,7 +2385,7 @@ cloak
 - [dissemble](dic://dissemble), [mask](dic://mask)
 - [covering](dic://covering), [overgarment](dic://overgarment), [outer garment](dic://outer garment)
 
-clock
+clock (pall)
 - cloak（斗篷）：像钟一样的宽大外衣  
 - 英语单词cloak（斗篷）和clock（钟表）的拼写十分接近，它们之间有什么关系吗？没错，其实它们是一对同源词，都来自古代北方法语cloque（钟）。斗篷跟钟有什么关系呢？原来，最早的斗篷其实就是一大块圆形的布，中间留一个洞。人把头从洞中穿过去，把整块布套在身体上，用来保暖。这块圆布套在人身上是不是像一座钟？所以人们就将其形象地称为cloque（钟），后来演变为英语单词cloak。  
 - 从cloak的原意就可以看出，cloak的基本特点就是无袖。与cape（披肩相比），cloak长度更长，通常覆盖全身。  
@@ -2320,25 +2426,8 @@ clandestine (covert, covet)
 clot, (clod, clump, cloud)
 
 cloy
-- 1 - 可能同 clay,glue.即发黏的，发腻的。
-- [surfeit](dic://surfeit)
-- [pall](dic://pall)
-- _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [satiate](dic://satiate), [sate](dic://sate), [replete](dic://replete)
-- **aftertaste**回味;**sweetness**美味;**mouthfeel**口感;**doth**从事;
-- _[Sugar Becomes Cloying](dic://Sugar%20Becomes%20Cloying)_ 糖变得反胃
-- _[Will it ever cloy](dic://Will%20it%20ever%20cloy)_ 在这苦痛和快乐的交重中
-- _[It never seems to cloy](dic://It%20never%20seems%20to%20cloy)_ 永远甜美谐和
-- v. （因过量而）厌倦，发腻
-- Too much sweet food cloys the palate. /吃过多的甜食会使人倒胃口。 
-- a curious bitter-sweetness that cloyed her senses. /一种令她感官发腻的苦乐参半的古怪情愫
-- The pleasures of idleness soon **cloy** /无所事事的快乐很快就令人厌烦了。
-- cloying
-	- a. 因过量而厌烦的, 甜得发腻的, 过于感性的
-	- Cloying speech or sentiment. /令人腻烦的语言或情感
-	- a romantic, rather cloying story /一个浪漫的，相当腻人的故事。
-	- a rancid, cloying odour that made him nauseous. /让他要吐的腻味和腐臭气味。
-	- By 1602 Ben Jonson was using " fulsome" in the sense of cloying or overdone. /到1602年，本·琼森开始使用“fulsome”来表示令人厌烦或过度的意思。
-	- Jake's show of kindness was fake, I could say that he was cloying or syrupy. /杰克的友善表现是假的，我可以说他是在令人厌烦或甜言蜜语。
+- 可能同 clay,glue.即发黏的，发腻的。
+- glei-
 
 clunk
 -  [thump](dic://thump), [thumping](dic://thumping), [clump](dic://clump), [thud](dic://thud)
@@ -2444,7 +2533,10 @@ cook
 	- see "book"
 - cook-general
 
-coquet
+coquet [美 /koˈkɛt/](cmd://Speak/_us_/coquet) (bouquet, cachet, crotchet, coquet)
+- _v._ (女子)卖弄风情
+- _adj._ 卖弄风情的，娇艳的
+- _n._ 卖弄风情
 -  [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquette](dic://coquette), [romance](dic://romance), [philander](dic://philander), [mash](dic://mash)
 - _v._ [talk](dic://talk), [speak](dic://speak)
 - **belle**美女;**bourgeois**资产阶级的;**beau**男朋友;**flirt**调情;**femme**女人,妻子,女同性恋者;
@@ -2463,11 +2555,17 @@ coquet
 	- _[Coquettish allure](dic://Coquettish%20allure)_ 炫彩银绿
 	- _[coquettish woman](dic://coquettish%20woman)_ 轻佻的女子
 - coquette
+	- n. 卖弄风情的女人；冠蜂鸟 
+	- v. 卖弄风情，调情
 	-  [flirt](dic://flirt), [vamp](dic://vamp), [vamper](dic://vamper), [minx](dic://minx), [tease](dic://tease), [prickteaser](dic://prickteaser)
 	-  [chat up](dic://chat up), [flirt](dic://flirt), [dally](dic://dally), [butterfly](dic://butterfly), [coquet](dic://coquet), [romance](dic://romance), [philander](dic://philander), [mash](dic://mash)
 	- _n._ [woman](dic://woman), [adult female](dic://adult female)
 	- _v._ [talk](dic://talk), [speak](dic://speak)
 	- **belle**美女;**femme**女人,妻子,女同性恋者;**mistress**情妇;**seductive**诱惑的;**dainty**秀丽的;**petite**娇小的，小个子的;**diva**歌剧中的首席女主角;**flirt**调情;**brunette**浅黑色的;**ballerina**芭蕾舞女演员;**sassy**无礼的;
+	- Having vindicated his courage, he very properly punished the **coquette** by taking no further notice of her. /他证实了自己的勇气之后，就不再理睬那卖弄风情的侍女，给了她应得的惩罚。
+	- It was well known that Sam cherished an ardent passion for Lively, as also did one of Marshall's and another of Carey's boys; for Lively was lively indeed, and a heart-breaking coquette withal /众所周知，山姆对莱弗利怀有强烈的热情，马歇尔和凯里的另一个儿子也是如此。 因为 Lively 确实很活泼， 而且还有一种令人心碎的风骚。
+	- She is a vain coquette, and her tricks have not answered /她是一个虚荣的妖精，她的计谋没有回应。
+	- Whenever he came to give his old comrade a look-up, he went away almost vexed to find him so full of life amidst his people of coquettes. /每当他来看望他的老战友时， 当他发现他在那些风骚的人群中如此充满活力时， 他几乎不高兴地离开了。
 - coquetry
 
 cork
@@ -2579,7 +2677,7 @@ crape
 - She is a widow, and wears a thick crape veil. /她是个寡妇， 戴着厚厚的黑纱面纱。
 - I saw a **crape** myrtle that's supposed to be the oldest tree in the state. /我看见一棵紫薇树，应该是佐治亚州最老的树了
 
-crass
+crass (ctl-f 搜索吧:P)
 - **vulgar**粗俗的;**cynical**愤世嫉俗的;**tasteless**无味的;**insensitive**不敏感的;**condescending**降低身份的,屈尊的;**callous**起老茧的;**distasteful**使人不愉快的;**obnoxious**可憎的;**hypocritical**伪善的;**shameless**无耻的;**sexist**男性至上主义者;
 
 creme
@@ -2591,7 +2689,7 @@ creme
 cremor
 crena
 
-crest
+crest (crestfallen)
 - [peak](dic://peak), [crown](dic://crown), [top](dic://top), [tip](dic://tip), [summit](dic://summit)
 - **emblem**象征;**ridge**山脉;**insignia**徽章;**logo**商标，徽标;**wave**波动;**hill**小山;**heraldic**纹章的;**crown**王冠;**badge**徽章;**eagle**鹰;**ridges**带钢单向皱纹;
 - [lie](dic://lie), [peak](dic://peak)
@@ -2631,7 +2729,7 @@ cry
 	- _n._ [easy](dic://easy), [unappealing](dic://unappealing)
 	- **melodic**有旋律的;**song**歌曲;**jazzy**爵士乐的;**upbeat**上升;**lyrics**歌词;**funky**畏缩的;**corny**谷类的;**groovy**吸引人的, 绝妙的;**snappy**厉声说话的;**clever**聪明的;**melody**旋律;
 
-cusp
+cusp (tusk) (precipice)
 - 来自 PIE*sker,切，砍，词源同 score,carnal.
 - n. 尖头, 尖端
 - [leaflet](dic://leaflet)
@@ -2768,6 +2866,7 @@ dear
 	- Now, don't listen to him, Pheebs, all right? I think it's endearing. 不，别听他的，菲比，好吗？ 我觉得那很可爱。
 - deary
 -  dearth
+	- (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged)
 	- 来自dear, 贵重，珍贵。
 	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
 	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
@@ -2865,18 +2964,26 @@ douse
 - _v._ [snuff out](dic://snuff out), [blow out](dic://blow out), [extinguish](dic://extinguish), [quench](dic://quench), [wet](dic://wet), [dunk](dic://dunk), [dip](dic://dip)
 - **extinguish**使熄灭, 扑灭;**ignite**点燃;**quell**镇压;**burn**燃烧;**fire**火;**drown**淹没;**bathe**沐浴;**kerosene**煤油，火油;**dampen**抑制;**quench**熄灭;**pour**倾泻;
 - _[douse the glim](dic://douse%20the%20glim)_  关灯
+- Men came with buckets of water and began to douse the flames. /人们提来一桶桶水灭火。
+- he doused the car with petrol and set it on fire /他在汽车上浇汽油，然后点火焚烧。
+- That's being just doused in chocolate. /这就像是被浇上巧克力。
+- Ouch! She ducked as it doused part of her flame. /“嗷！”小焰赶紧闪躲开，但她的火焰还是有一点被浇灭了。
 - undousing
+	- - 不熄灭
 - dousing
 
 dove
 - turtledove
 - ringdove
 - dovish
+	- a. 鸽派的, 温和派的
 	- **bearish**粗暴的;**Bernanke**伯南克;**bullish**看涨的;**centrist**中立派议员;**ECB**电子部件局;**pessimistic**悲观的;**conservative**保守的人;**macroeconomic**宏观经济的;
 - dovetail
 	- **hinge**铰链;**tapered**锥形的;**slotted**开有槽沟的;**hinged**有铰链的;**jig**跳吉格舞;**hinges**小五金;**beveled**有斜面的;**welded**焊接的;**threaded**有线状图案装饰的;
 	- [mortise joint](dic://mortise joint), [mortise-and-tenon joint](dic://mortise-and-tenon joint)
 	-  [dovetail joint](dic://dovetail joint)
+	- The nurses' schedules dovetailed, so that one was always on duty. /护士的时间表很吻合，所以总有人值班
+	- The overnight index before the stockmarket's open dovetails with the coming day's equity returns /股市开盘前的隔夜指数与第二天的股票回报相吻合。
 - dovelike
 - dovelet
 - dovecote
@@ -3053,7 +3160,7 @@ drool
 	- Oh, look at his little drools. /看他的口水流得。
 	- You're not being fair. I'm not some overheated housemaid drooling over a photograph of Douglas Fairbanks /你这么说不公平，我又不是头脑发热的女仆，痴迷一张道格拉斯·费尔班克斯（影星）的照片。
 
-droll
+droll (troll, stroll,)
 - 1 - 词源同 troll,山精，巨怪。
 - **wry**面部肌肉扭曲的;**witty**诙谐的;**amusing**有趣的，好玩的;**delightfully**大喜;**comical**滑稽的，好笑的;**irreverent**不敬的;**humorous**诙谐的，幽默的;**sly**狡猾的;**hilarious**十分有趣的, 非常滑稽的;**light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;
 - his unique brand of droll self-mockery. /他别具一格的奇趣自嘲。
@@ -3167,6 +3274,18 @@ eerie
 
 element
 - elementary
+
+emerald
+- n. 翡翠, 绿宝石, 翠绿色  
+- a. 翡翠的, 翠绿色的
+- - n. 翡翠，绿宝石；翠绿色；尺娥；蜻蛉，豆娘；一种小型蜂鸟（羽亮绿色，翼尾色深，主要产于加勒比地区和中美洲） 
+- adj. 翠绿色的，鲜绿色的
+- 来自希伯来闪语。
+- _n._ [transparent gem](dic://transparent gem), [beryl](dic://beryl), [jewel](dic://jewel), [gem](dic://gem), [precious stone](dic://precious stone), [green](dic://green), [greenness](dic://greenness)
+- **sapphire**蓝宝石;**turquoise**绿松石;**gemstone**宝石;**jade**碧玉;**ruby**红宝石;**opal**猫眼石，蛋白石;**green**绿色的;**blue**蓝色的;**purple**紫色的;**jewel**宝石;**diamond**钻石，金刚石;
+- beyond the airport lay emerald hills. /机场的那边是苍翠的山峦。
+- set an emerald in a pendant. /在垂饰上镶绿宝石
+- an emerald and gold cross was salvaged from the wreck. /一件镶有绿宝石的金制十字形饰物从船只残骸中抢救出来。
 
 ember
 -  em-,来自 PIE*ai,燃烧，词源同 ash,edifice.-b,插入字母。-er,来自拉丁语 uro,燃烧，词源同combust.
@@ -3648,6 +3767,10 @@ flash
 flat
 - plat-
 
+flaunt (flout)
+- brandish, swank, boast, brag
+- - 可能来自 flout 和 vaunt 的合成词。
+
 fleck
 - [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [scrap](dic://scrap)
 - [spot](dic://spot), [speckle](dic://speckle), [dapple](dic://dapple), [patch](dic://patch), [maculation](dic://maculation)
@@ -3674,11 +3797,12 @@ fleet
 - fleeting
 - fleet-footed
 
-flout
+flout (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard)
 - 词源不详。可能来自 flute,笛子，长笛。原指吹笛的人，引申词义藐视，瞧不起。可能是来自人们心目中艺术家的清冷，高傲。
 - **defy**藐视;**violate**违反;**enforce**强迫，强制;**flaunt**炫耀;**abide**忍受，容忍;**uphold**支持;**obey**服从，听从;**adhere**坚持;**comply**答应;**disregard**不顾, 不理会, 无视;**subvert**推翻;
 - [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
 - [jeer](dic://jeer), [scoff](dic://scoff), [barrack](dic://barrack), [gibe](dic://gibe)
+- 
 
 flinch
 - **cringe**畏缩;**instinctively**本能地;**shudder**震动;**tremble**战栗;**scream**尖叫;**recoil**畏缩, 退缩;**smirk**傻笑;**stare**凝视，盯着看;**startled**震惊;**groan**呻吟;**shiver**颤抖，战栗;
@@ -6335,6 +6459,10 @@ hold
 	- _withhold information_ 隐瞒消息
 	- withholder
 - upholster
+	- upholsterer（装修商）：高举商品招徕生意的人  
+	- 在古代的英国市集，生意人经常雇用一批人来把自己的货品高高举起，以吸引顾客的注意力。这些受雇来高举商品的人就称为 upholsterer，来自upholden（uphold，高举）。随着时代的进步，招揽顾客的方法也日新月异。单把货品举起让顾客看见已不能招徕买主。因此这些人开始将货品及橱窗细心装饰起来，以此来吸引顾客。于是upholsterer一词变成了“从事装修、装潢的人”。从upholsterer一词还逆向产生了upholster（装饰、装潢）一词。  
+	- upholsterer：[ʌp'holstərɚ] n.装修商，装潢商，家具商  
+	- upholster：[ʌp'həʊlstə; -'hɒl-] vt.装修，装潢，装饰
 	- _vt._ 为…装上垫子〔套子、弹簧等〕；布置，装潢
 	- _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
 	- **upholstery**家具装饰业;**cushions**酥心糖;**furniture**家具;**headboard**床头板;**sofa**沙发;**fabric**织物;**chair**椅子;**carpeting**毛毯;**fabrics**纤维织物;**leather**皮革;**recliner**斜靠著的人;
@@ -6491,6 +6619,14 @@ hold
 	- you took me out and, lo and behold, I got home to find my house had been ransacked. /你把我弄出来，哎哟看看，我回到家却发现家里已被洗劫一空。
 	- And to McAlister, at least, the tiny midges are a beautiful sight to behold. /至少对麦克阿里斯特来说，这些小蠓虫是一道美丽的景色。
 	- Nature will decide whether this next Icelandic sight is yours to behold or not. /大自然将决定你是否能看到下一个冰岛景观。
+- beholden
+	- _n._ [unobligated](dic://unobligated)
+	- **dictate**命令;**reliant**依赖的;**averse**不愿意的;**attuned**理解的;**vested**既定的;
+	- I am greatly beholden to you for your kindness. /承蒙厚爱, 十分感激。
+	- But we are not beholden to it. /但是我们不会被它禁锢。
+	- I don't wanna feel beholden to you. /我不想欠你这个人情。
+	- Should anything go wrong with repayments, Manila could be beholden to Beijing. /如果偿还方面出现任何问题，Manila可能会对中国政府感恩戴德。
+	- Is it beholden to the hands of government, or could it be shackled by regulators? /它由政府掌控吗，会被监管机构操纵吗？
 - anchor-hold
 	- _n._ 锚力,挂锚处所,安全
 
@@ -9019,6 +9155,40 @@ peeve
 	- _n._ [pleased](dic://pleased)
 	- **annoyed**恼怒的;**pissed**愤怒的;**upset**使心烦;**frustrated**挫败的;**unimpressed**印象平平的;**irritated**恼怒的;**outraged**义愤填膺的;**perplexed**困惑的;**dismayed**心慌;**angry**生气的;**disgusted**厌恶的;
 
+perk
+- vi. 昂首, 振作, 举止高傲, 神气活现, 滤煮  
+- vt. 竖起, 打扮, 使振作, 滤煮  
+- n. 小费
+- [fringe benefit](dic://fringe benefit), [perquisite](dic://perquisite)
+-  [perk up](dic://perk up), [percolate](dic://percolate), [pick up](dic://pick up), [gain vigor](dic://gain vigor)
+- _n._ [benefit](dic://benefit)
+- _v._ [recuperate](dic://recuperate), [recover](dic://recover), [convalesce](dic://convalesce)
+- **bonus**奖金;**boon**恩惠;**bonuses**奖金;**boost**促进;**incentive**刺激的;**drawback**缺点，不利条件;**benefit**利益，好处;**advantage**有利条件, 有利因素, 优势;**rewards**奖励;**boosting**助推，局部通风;**extra**特别地，非常;
+- Are there any perks of the platinum card /铂金卡是否还有什么额外的优惠吗？
+- But, you know, each one's got their perks. /但每种方式都有其各自的益处。
+- It's almost the only perk in an extremely boring job. /那几乎是一份无聊透顶的工作的唯一好处了。
+- Well it's not too bad and there are a few perks too. /当然薪水还是不错的，而且还有一些补贴。
+- You can pick up cool perks like watching these episodes in early access. /你可以获得很棒的福利，比如更早看到这些视频的更新。
+- You want the clothes and the jewelry and all the other perks. /你想要衣服 珠宝还有那些奢侈品。
+- perk up
+	- 变得更活跃或更开心：指变得更有活力或更开心，或使（某人）变得更活跃或更开心。 
+	- 使（某物）更清新或更吸引人 
+	- （动物的耳朵）迅速竖起：指动物的耳朵迅速竖起，警觉地听着。 
+	- （人的耳朵）突然听到感兴趣的事物：指当听到自己的名字被提到时，人的耳朵突然听到感兴趣的事物。
+	- Can anything **perk** **up** Europe /欧洲能重振雄风吗？
+	-  I saw his calm eyes sometimes perk up. /我看见他的镇定眼光有时候激动起来。
+	- The economy has perked up too /经济也在复苏。
+	-  I got a little something to perk you up. /我准备了个让能你开心的东西
+- perquisite 
+- perky
+	-  [buoyant](dic://buoyant), [chirpy](dic://chirpy)
+	- _adj._ [cheerful](dic://cheerful)
+	- _n._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+	- **cheery**愉快的，活泼的;**plump**丰满的;**sassy**无礼的;**cheerful**高兴的;**bubbly**起泡的;**boobs**乳房;**busty**大胸脯的，胸部丰满的;**bouncy**有弹性的;**feisty**活跃的;**sexy**性感的;**chubby**圆胖的，丰满的;
+	- don't be perky, miss!. /不得无礼，小姐！。
+	- the action is paced to the beat of a perky march. /按照轻快进行曲的节奏行动。
+	- He’s still in hospital, but he seems quite perky. /他虽然还住住院，可是看上去倒挺精神。
+
 perm
 - n. 烫发；<英，非正式>排列；（Perm）彼尔姆（俄罗斯城市） 
 - v. 烫（发）；<英>挑选（若干）
@@ -10144,7 +10314,7 @@ rein
 	- adj. 无缰绳的；自由的；放纵的；不加控制的
 - neckrein
 - checkrein
-- birdle-rein
+- bridle-rein
 
 retch
 - [heave](dic://heave)
@@ -10285,6 +10455,16 @@ rivet
 - Right, so a riveting book, you're riveted to the book /所以一本引人入胜的书，你被这本书深深吸引。
 - Flat head rivets would reduce wind drag. /用平头铆钉可以减小风阻。
 - I was riveted. I loved it so much. /我被吸引住了。我非常喜欢它。
+- riveting
+	- engaging 
+	-  [absorbing](dic://absorbing), [engrossing](dic://engrossing), [fascinating](dic://fascinating), [gripping](dic://gripping)
+	- _adj._ [interesting](dic://interesting)
+	- _n._ [uninteresting](dic://uninteresting)
+	- **engrossing**引人入胜的;**gripping**引人注意的;**captivating**迷人的;**suspenseful**悬疑的,令人紧张的;**thrilling**令人兴奋的;**fascinating**迷人的;**harrowing**令人伤心的,令人痛苦的;**eye-opening**使瞠目吃惊的,很有启发的;**compelling**引人注目的;**poignant**尖锐的;**masterful**善于控制别人的;
+	- His story, told to Pulitzer Prize-winning journalist Mary Jordan, is riveting. .他的故事被讲述给普利策奖获得者，记者玛丽·乔丹，内容非常引人入胜。
+	- First is gripping and the second is riveting. /第一个是扣人心弦的，第二个是引人入胜的。
+	- We're watching and we're just riveted, staring over the dash, just loving it. /我们看着他们在冰上飙车，看得热血澎湃，我非常喜欢。
+	- Our brains are riveted by what goes wrong./我们的大脑被差错牢牢吸引，。
 
 roast
 - 
@@ -11033,6 +11213,14 @@ scrumpy
 
 scrumptious
 -  scrump-,可能来自拟声词，模仿食物清脆的声音，拼写受 sumptuous 影响，-ous,形容词后缀。
+- _adj._ [tasty](dic://tasty)
+- _n._ [tasteless](dic://tasteless)
+- **delicious**美味的;**delectable**令人愉快的;**yummy**好吃的;**mouth-watering**流着口水的;**tasty**美味的;**mouthwatering**令人垂涎的;**luscious**甘美的;**deliciously**美美地;**fabulous**难以置信的;**sumptuous**豪华的, 奢侈的;**delightful**令人非常高兴的, 讨人喜欢的;
+- _[scrumptious buffet selection](dic://scrumptious%20buffet%20selection)_ 美味自助餐精选 This scrumptious sampler includes a shareable platter of Applebees Boneless Chicken Chunks, Onion Rings, Chicken Nacho Grande, and our Shrimp Quesadilla. /汇聚了苹果蜂无骨鸡块，酥香洋葱圈，至尊鸡肉拿巧和鲜虾凯萨迪亚，享受美味欢聚的乐趣！
+- Sophisticated diners insist that soya is scrumptious, but others vehemently disagree /精明的食客们坚称豆制品美味至极，但其他人却强烈反对。
+- Other adjectives you can use that are more advanced are mouth-watering and scrumptious /可以用的更高级的其他形容词是 " mouth-watering" 和 " scrumptious" 。
+- I'd a perfectly scrumptious time in the Academy today. /我今天在学院度过了一段非常愉快的时光。/
+- There are a lot of nice girls in school and we had scrumptious fun playing at dinnertime /学校里有很多漂亮的女孩，我们在晚餐时间玩得很开心。
 
 scruple
 - scruple - 如果你在走路时有小碎石进到鞋子里，你的脚就会有刺痛感，就会感到不好受，你就非得将它弄出来不可。拉丁语有个词scrūpulus，它的意思就是“尖利的小石子”，它曾被用作古罗马的重量单位，1 scrūpulus等于1/24盎司。古罗马政治家、演说家和哲学家西塞罗（M. T. Cicero, 106-43 BC）将该词用来喻指“良心上的不安”、“顾虑”或“顾忌”。法语借用了这个词，作scrupule，英语scruple即由此演变而来，也用于这些喻义，既用作名词，亦可转类为动词。形容词scrupulous亦源于此，表示“有顾虑的”、“一丝不苟的”、“正直的”等义。
@@ -14120,6 +14308,18 @@ tip
 - filter-tipped
 	- a. 有过滤嘴的
 
+token
+-  来自古英语 tacen,符号，象征，证据，来自 Proto-Germanic*taiknam,符号，标志，来自 PIE*teik,显示，展示，词源同 teach,digit,toe.引申诸相关词义。
+- betoken
+	- vt. 预示
+	- [bespeak](dic://bespeak), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+	- [tell](dic://tell), [bespeak](dic://bespeak), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+	- **signify**表示;**countenance**面容，表情;**likewise**也;**moreover**此外;**indubitably**无疑地;**nigh**近于;**doubtless**无疑地, 肯定地;**necessitate**使…成为必要, 需要;**scarcely**简直没有;**ought**应该，应当;**herald**使者, 预报者;[bode](dic://bode), [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+	- He gave her a gift to betoken his gratitude /他送她一件礼物表示感谢。
+	- Dark clouds betoken a storm. /乌云予示着暴风雨的来临。
+	- melting snows that betoken spring floods; /雪化了，融成了春天的洪水；
+	- Adele's handiwork was simpler, cruder, but there it was, betokening the same passion, the same obsession. /阿黛尔的手工刺绣画更简单，也更粗糙，但它就在那里，象征着同样的激情，同样的痴迷。
+
 tonus
 - 1. the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli
 - [tonicity](dic://tonicity), [tone](dic://tone)
@@ -15033,8 +15233,7 @@ whist
 	- wen- (1)
 
 wield
-- wieldy
-- unwieldy
+- + \*wal +
 
 whisk
 - 来自 PIE*weis,旋转，搅动，来自 PIE*wei 的扩大格，弯，转，词源同 wind,wire.

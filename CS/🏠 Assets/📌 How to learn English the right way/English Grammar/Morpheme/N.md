@@ -401,8 +401,9 @@
 ### + \*nekwt- +
 1. swart (misc)
 2. tenebrous
-3. **melan-** = black, 表示“黑”。源自希腊语 melas "black."
-4. **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
+3. mer-(2) **melan-** = black, 表示“黑”。源自希腊语 melas "black."
+4. 
+5. **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
 	1. nigger 
 		2.  [nigga](dic://nigga), [spade](dic://spade), [coon](dic://coon), [jigaboo](dic://jigaboo), [nigra](dic://nigra)
 		3. _n._ [Black](dic://Black), [Black person](dic://Black person), [blackamoor](dic://blackamoor), [Negro](dic://Negro), [Negroid](dic://Negroid)
@@ -444,7 +445,7 @@
 	14.  denigrate
 		1. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at), [charge](dic://charge), [accuse](dic://accuse)
 		2. **discredit**败坏…的名声;**criticize**评论, 批评;**undermine**在某物下挖洞或挖通道;**criticise**批评;**disparaging**轻蔑的;**condemn**判刑，定罪;**denounce**谴责;**accuse**控告，指控;**humiliate**蒙羞;**embarrass**使窘迫;**ridicule**嘲笑;
-5. **noct-** = night, 表示“夜晚”。源自拉丁语 nox (词干 noct-) "night," noctua "night owl."
+6. **noct-** = night, 表示“夜晚”。源自拉丁语 nox (词干 noct-) "night," noctua "night owl."
 	1. equinoctial
 	2. noctalpia
 	3. noctambulate
@@ -487,7 +488,7 @@
 		5. **moth**蛾;**larvae**幼虫;**larval**幼虫状态的;**insect**昆虫;**beetles**甲壳虫，甲虫;**genera**种;**genus**类，种;**beetle**甲虫;**insects**昆虫;
 	18. noctule
 		1. n. （欧洲，印尼及菲律宾等地的）褐色大蝙蝠
-6. night
+7. night
 
 
 ### + \*nem- + = to divide, distribute, allot

@@ -44,7 +44,7 @@
 		13. prevalent, prevalence
 		14. prevailing
 		15. prevailingly
-	5. ambivalence, ambivalent
+	5. ambivalence
 		1. ambi-两边 + val-力量 + -ent表形容词 → 指相同的力量，模糊。
 		2. ambivalence（矛盾情绪）：精神分裂症的症状之一  
 		3. 英语单词ambivalence来自德语Ambivalenz，原本是一个心理学专业术语，由瑞士心理学家布鲁勒（Eugen Bleuler）于1910年仿照单词equivalenz（equivalence，相等）的模式创造，表示精神分裂症的一种症状，即病人对某一事物产生自相矛盾的感受，中文通常译为“矛盾意向”。该词由ambi（两边）和valence（长处、优势）构成，字面意思就是“两头都很重要”。后来，该词逐渐进入日常生活，用来表示普通人对某一事物的矛盾情绪，如对某人爱恨交织。  
@@ -54,14 +54,27 @@
 		7. _[ambivalence about](dic://ambivalence%20about)_ 有爱恨的矛盾心理; 对…的举棋不定; 
 		8. _[consumer ambivalence](dic://consumer%20ambivalence)_ 消费者矛盾
 		9. _[discoursal ambivalence](dic://discoursal%20ambivalence)_ 语用模糊
+		10. ambivalent (equivalent)
+			1. _adj._ [uncertain](dic://uncertain), [unsure](dic://unsure), [incertain](dic://incertain)
+			2. _n._ [sure](dic://sure)
+			3. **indifferent**漠不关心;**uneasy**不舒服的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**ambiguous**模棱两可的;**cynical**愤世嫉俗的;**pessimistic**悲观的;**sympathetic**表示同情的;**understandably**可理解地;**hesitant**踌躇的;**apprehensive**忧虑的;**sceptical**怀疑的;
+			4. _[ambivalent](dic://ambivalent)_  adj. 矛盾的；好恶相克的
+			5. _[ambivalent personality](dic://ambivalent%20personality)_  矛盾的人格
+			6. _[ambivalent behavior](dic://ambivalent%20behavior)_  双重行为
+			7. I must have acquired ambivalent attitude towards women from her. /我对妇女的矛盾态度一定是从她那里学来的。
+			8. There is an ambivalent feeling towards rural workers. /人们对于民工的心情是复杂的。
+			9. The French, who gave the English language the word “entrepreneur”, are deeply ambivalentabout business. /法国，这个在英语中赋予了“企业家”一词的国家，却对商业有如此复杂的情绪。
+			10. I think most of us in the entertainment community are kind of ambivalent about the awards. /I think most of us in the entertainment community are kind of ambivalent about the awards.
 	6. convalesce (coalesce)
 		1. con-强调 + val-强健，强壮 + -esce, 表起始。
 		2. _v._ [better](dic://better), [improve](dic://improve), [ameliorate](dic://ameliorate), [meliorate](dic://meliorate)
 		3. **ailing**生病的，身体不舒服的;**hospital**医院;**recovering**恢复;**recover**恢复;**mend**修理，修补;**unwell**生病的;**ill**坏的;**respite**暂缓;**hospitalization**医院收容;
 		4. The patient convalesced nicely. /患者顺利地康复了。
-		5. convalescent
-		6. convalescene
-		7. reconvalescent
+		5. We have no room for men to convalesce here and Farley is the nearest house I can send them to. /我们这里没有床位给人休养，法利堂是离这最近的能安置他们的地方了。
+		6. Where might be a good place for a far weaker Will to convalesce? /对于弱得多的意志来说，哪里可能是疗养的好地方？
+		7. convalescent
+		8. convalescene
+		9. reconvalescent
 	7. valence
 		1. n. 原子价
 		2. univalence, bivalence, trivalence, tervalence
@@ -95,6 +108,10 @@
 			2. valiantly
 			3. pot-valiant
 		4. valorous
+			1.  [valiant](dic://valiant)
+			2. _adj._ [brave](dic://brave), [courageous](dic://courageous)
+			3. _n._ [cowardly](dic://cowardly), [fearful](dic://fearful)
+			4. **heroic**英勇的;**valiant**英勇的，勇敢的;**courageous**勇敢的;**brave**勇敢的;**bravery**勇敢;**heroism**英勇，英雄气概;**honorable**可敬的,荣誉的,光荣的;**selfless**无私的;**honourable**诚实的, 正直的;**noble**贵族的;**warrior**战士，勇士;
 		5. valorize, valorization
 			1. _[valorize](dic://valorize)_  vt. 稳定物价；规定价格; vi. 限价；稳定价格；赞扬;
 			2. n. 英勇；勇猛（等于valour）
@@ -116,9 +133,24 @@
 			2. invalidity
 			3. invalidism
 		8. contravalid
-	14. value
+			1. _adj._ 反有效的,无效的
+	13. value
 		1. etc...
 2. wield
+	1. vt. 使用, 挥舞, 运用
+	2. 来自 PIE*wal,强健，支配，统治，词源同 value,valiant.
+	3. wieldy
+	4. unwieldy
+		1. [unmanageable](dic://unmanageable)
+		2.  [gawky](dic://gawky), [clumsy](dic://clumsy), [clunky](dic://clunky), [ungainly](dic://ungainly)
+		3. _adj._ [awkward](dic://awkward), [bunglesome](dic://bunglesome), [clumsy](dic://clumsy), [ungainly](dic://ungainly), [cumbersome](dic://cumbersome), [cumbrous](dic://cumbrous), [impractical](dic://impractical)
+		4. adroit /
+		5. _n._ [wieldy](dic://wieldy), [practical](dic://practical), [graceful](dic://graceful)
+		6. **cumbersome**笨重的;**clunky**沉重的;**bulky**庞大的;**clumsy**笨拙的;**impractical**不切实际的;**convoluted**盘绕的,卷曲的;**burdensome**繁重的,烦累的,难以承担的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**manageable**易处理的;**tedious**冗长乏味的;**complicated**结构复杂的;
+		7. This machine is too unwieldy to move. /这台机器太笨重了, 很难搬动。
+		8. It introduced Hindu-Arabic numerals to the West, which eventually replaced the unwieldy Roman ones /它将印度-阿拉伯数字系统引入西方，最终取代了笨重的罗马数字。
+		9. ''It's too unwieldy. It's built recklessly on swampy ground." ''It's amazing, actually, it hasn't collapsed already." /这塔楼太笨重了，却鲁莽地建在了湿地上”“事实上，它现在还没倒塌真是个奇迹。”
+		10. The novel begins in December 2007 and ends a year later, after the unwieldy collapse of Lehman Brothers. /这本小说的故事开始于2007年12月，一年后结束在雷曼兄弟公司棘手的倒闭之后。
 
 
 ### + \*wadh- +
@@ -773,16 +805,18 @@
 	1. ochlocracy
 	2. ochlocratic
 2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
-	1. advect
+	1. advect (advert)
 		1. ad- + vect-带来
-		2. **convection**传送,对流;**fluxes**流动;**southward**南方;**northward**向北方;**eastward**向东方的;**subsurface**地下的;**southerly**南的,向南;**precipitation**仓促;**outflow**流出;**diffuse**散开的;**velocity**速率;
-		3. advene
-		4. advection
+		2. - v. 用平流输送
+		3. **convection**传送,对流;**fluxes**流动;**southward**南方;**northward**向北方;**eastward**向东方的;**subsurface**地下的;**southerly**南的,向南;**precipitation**仓促;**outflow**流出;**diffuse**散开的;**velocity**速率;
+		4. advene
+		5. advection
 	3. convect
-		1. con-一起 + vect-带来
-		2. convector, convective, convection
-		3. **convection**传送,对流;**oven**烤箱, 炉;**magma**岩浆;**dissipate**驱散;**radiate**传播;**airflow**气流;**heat**热度;**defrost**除霜;**griddle**矿筛;**bake**烤, 烘焙;**radially**放射状地;
-		4. warm air convecting upward. /暖空气向上流动
+		1. - v. 通过对流传送（热，物质）；（流体）对流
+		2. con-一起 + vect-带来
+		3. convector, convective, convection
+		4. **convection**传送,对流;**oven**烤箱, 炉;**magma**岩浆;**dissipate**驱散;**radiate**传播;**airflow**气流;**heat**热度;**defrost**除霜;**griddle**矿筛;**bake**烤, 烘焙;**radially**放射状地;
+		5. warm air convecting upward. /暖空气向上流动
 	5. vector, vectorize
 		4. vectorgraph, vectorgram
 		5. subvector, eigenvector
@@ -792,27 +826,38 @@
 		3. _n._ [concave](dic://concave)
 		4. **concave**凹的，凹面的;**conical**圆锥形的;**curved**弯曲的;**cylindrical**圆柱形的;**triangular**三角形的;**curvature**弯曲;**symmetric**相称性的,均衡的;**quadratic**二次的;**spherical**球的;**planar**平坦的;**vertex**顶点;
 		5. biconvex, convexity,
-	8. vehement, vehemence
+	7. vehement, vehemence
 		1. vehe-带来，-m- + -ent形容词后缀。
 		2. [fierce](dic://fierce), [tearing](dic://tearing), [violent](dic://violent), [trigger-happy](dic://trigger-happy)
 		3. [intense](dic://intense), [strong](dic://strong)
 		4. [mild](dic://mild), [weak](dic://weak)
 		5. **fervent**强烈的;**ardent**热情的;**impassioned**充满激情的, 热烈的;**outspoken**直言的;**staunch**坚固的;**forceful**有说服力的;**indignation**愤怒, 愤慨, 气愤;**fierce**凶猛的;**zealous**热心的，热情的，积极的;**opposition**反对;**vigorous**有力的;
-	9. vehicle
+	8. vehicle
 		1. veh-带来 + -icle工具。
 		2. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
 		3. [conveyance](dic://conveyance), [transport](dic://transport), [medium](dic://medium), [substance](dic://substance), [matter](dic://matter), [object](dic://object), [physical object](dic://physical object)
 		4. vehicular
 		5. extravehicular
-	10. vex
+	9. vex
 		1. vt. 使烦恼, 使苦恼 vi. 烦恼
 		2. vexing, vexed
-		3. vexatious, vexation
+		3. vexatious
 			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
 			2. [disagreeable](dic://disagreeable)
-			3. 
-	12. evection
-	13. inveigh
+		4. vexation (chagrin)
+			1.  [annoyance](dic://annoyance), [chafe](dic://chafe)
+			2.  [irritation](dic://irritation), [annoyance](dic://annoyance), [botheration](dic://botheration)
+			3.  [concern](dic://concern), [worry](dic://worry), [headache](dic://headache)
+			4.  [annoyance](dic://annoyance), [annoying](dic://annoying), [irritation](dic://irritation)
+			5. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire), [psychological state](dic://psychological state), [mental state](dic://mental state), [negative stimulus](dic://negative stimulus), [mistreatment](dic://mistreatment)
+			6. **indignation**愤怒, 愤慨, 气愤;**anguish**苦闷;**sorrow**悲伤;**affliction**折磨;**annoyance**烦恼;**astonishment**惊讶, 惊奇;**impatience**急躁;**countenance**面容，表情;**malice**怨恨;**displeasure**不快, 不悦, 生气;**irritation**刺激;
+			7. fresh remembrance of vexation must still enkindle rage. /对烦恼的事的清晰记忆一定还会叫人怒不可遏。
+			8. She was crying with vexation and shock. /她正在因烦恼和震惊而哭泣。
+			9. Much to my vexation, I just missed a chance of visiting China. /错过一个访问中国的机会, 真气人。
+			10. He gave the doctor a look of vexation. /他很不高兴地看了医生一眼。
+			11. I gazed at her, looking totally startled by the flutters of anger and vexation in her voice. /我盯着她看，完全被她声音里突然的生气和恼火吓到了。
+	10. evection
+	11. inveigh
 		1. in-进入，使 + veigh , 携带，运载，词义演变同invective。
 		2. [rail](dic://rail)
 		3.  [declaim](dic://declaim)
@@ -821,11 +866,14 @@
 		8. inveigh against bureaucracy /指责官僚主义
 		9. They inveighed against cruel criminal laws and unsanitary prisons /他们强烈反对残酷的刑法和不卫生的监狱。
 		10. invective
-			1. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
-			2. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
-			3.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
-			4. He retorted the invective on her. /他用恶言讽刺还击她。
-			5. a species of invective at once tough and suave. /软硬兼施的一种漫骂。
+			1. in-进入，使 + vect-携带，运载，把坏话带进来的，用言语攻击，引申词义诅咒，咒骂。
+			2. n. 恶言漫骂, 臭骂 
+			3. a. 漫骂的, 非难的, 恶言的
+			4. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
+			5. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+			6.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
+			7. He retorted the invective on her. /他用恶言讽刺还击她。
+			8. a species of invective at once tough and suave. /软硬兼施的一种漫骂。
 3. **vi, via, vey-, voy-**
 	1. convey
 		1. conveyor, conveyer
@@ -889,7 +937,7 @@
 	10. deviate
 		1. deviant, deviator, deviation
 		2. retrodeviation, laterodeviation, exodeviation, esodeviation
-	11. obviate
+	11. obviate (avert, obliviate, displace)
 		1. ob-去掉 + vi-路 + -ate, 表动词 → 就在路上掉东西 → 排除障碍。
 		2. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
 		3. [rid of](dic://rid of), [eliminate](dic://eliminate)
@@ -928,7 +976,8 @@
 		4. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
 		5. overweigh, outweigh, counterweigh
 4. vogue
-5. wacke
+5. wacke (whack)
+	1. n. 玄武土, 玄砂石
 6. wag
 	1. vt. 摇摆, 摇动, 饶舌 vi. 摆动, 喋喋不休  
 	2. n. 摇摆, 爱说笑打趣的人
@@ -2165,8 +2214,12 @@
 		5. regalement
 2. **vol-, volunt-** = wish, will, 表示“意志，意愿”。源自拉丁语 velle (词干 vol-) "to wish, will."
 	1. benevolence, benevolent
-	3. malevolence, malevolent
-	5. volition
+		1. bene-好 + vol-意志 + -ence, 表名词 → 好意。
+		2. n. 善意, 慈悲, 善行
+	2. malevolence, malevolent
+		1. male-坏 + vol-意愿 + -ence, 表名词
+		2. n. 恶意, 狠毒
+	3. volition
 		1. n. 行使意志, 意志力, 决定
 		2. vol-意愿 + -ition表名词。- 来自 PIE*wel,希望，意愿，词源同 will,voluntary.引申词义意志力。
 		3. _n._ [faculty](dic://faculty), [mental faculty](dic://mental faculty), [module](dic://module), [choice](dic://choice), [selection](dic://selection), [option](dic://option), [pick](dic://pick)
@@ -2174,48 +2227,69 @@
 		5. _[of your own volition](dic://of%20your%20own%20volition)_ 出于自愿
 		6. _[Concerted volition](dic://Concerted%20volition)_ 协同意志
 		7. _[teacherss volition](dic://teacherss%20volition)_ 教师的意志
-		8. volitional, volitionally
+		8. without conscious volition she backed into her office /她无意识地退回到自己的办公室里。
+		9. They have, in other words, given them volition. /换句话说，就是考虑到了" 人的意志" 。
+		10. They had strong volition even as a volatile volcano. /他们有着强烈的意志就像爆炸性的火山。
+		11. Of his own volition he had become a beast, a beast he had lived, a beast he would die. /他自愿成为一头野兽，一头他活着的野兽，一头他会死的野兽。
+		12. Makin said Mr. Coombes had gone to the police of his own **volition** /梅金说库姆斯先生是自己主动去投案的。
+		13. volitional, volitionally
 			1. **involuntary**无意识做出的;**cognition**认识;**cognitive**认识的;**conscious**意识到的;**perceptual**知觉的,有知觉的;**habitual**惯常的;**willful**有意的;**impulse**冲动;**impulses**冲动;**consciousness**意识;**bodily**整体地;
 			2. _adj._ [willing](dic://willing)
 			3. _[volitional](dic://volitional)_  adj. 意志的；凭意志的
 			4. _[volitional quality](dic://volitional%20quality)_  意志品质
 			5. _[volitional movement](dic://volitional%20movement)_  n. 意志行动
-		9. contravolitional
-	7. voluntary
-		1. _n._ [serviceman](dic://serviceman), [military man](dic://military man), [man](dic://man), [military personnel](dic://military personnel), [solo](dic://solo)
-		2. _adj._ [intentional](dic://intentional), [willful](dic://willful), [wilful](dic://wilful), [freewill](dic://freewill), [self-imposed](dic://self-imposed), [uncoerced](dic://uncoerced)
-		3. [voluntary](dic://voluntary) 使用广泛，侧重不受约束，行动不为其他影响所左右。  
-		4. [willing](dic://willing) 着重自愿、令人愉快或急切地去行动。
-		5. **involuntary**无意识做出的;**voluntarily**志愿地;**compulsory**必须做的, 强制性的;**mandatory**命令的;**participation**参加,参与;**charitable**仁慈的;**volunteer**自愿;**coercion**强迫;**charity**施舍;**mandated**委托统治的;
-		6. voluntaryism
-		7. voluntarism
-		8. voluntariness
-		9. voluntarily
-		10. involuntary, involuntarily
-	8. volunteer
-	9. voluptuary
-		1. **sensuality**喜爱感官享受;**pious**虔诚的;**sensual**感觉的;**nobleman**贵族;**aristocratic**贵族的;**mistress**情妇;**decadent**颓废的;**opulent**富裕的;**socialite**社会名流;**indulgence**放纵;**statesman**政治家;
-		2. _n._ [sensualist](dic://sensualist)
-		3. _adj._ [indulgent](dic://indulgent)
-		4. _n._ [nonindulgent](dic://nonindulgent), [strict](dic://strict)
-		5. _voluptuary_  n. 酒色之徒；纵情享乐的人; adj. 耽于酒色的;
-		6. an adventurous voluptuary
-	10. voluptuous
+			6. Almost any deficit can be explained as **volitional** /几乎任何缺陷都可以解释为意志方面的原因。
+			7. Given certain **volitional** actions, certain results will follow /给某些造作果报，某些结果将跟进。
+			8. The endurance of setbacks is a standard mat can evaluate the **volitional** character of a person /挫折承受能力是衡量人的意志品质的一个重要指标。
+		14. contravolitional
+	4. voluntary
+		1. a. 自动的, 自愿的, 故意的, 志愿的, 自发的  
+		2. n. 自愿行动, 志愿者, 自由调
+		3. - 来自 PIE*wel,希望，意愿，词源同 will,volition.引申词义意愿的，志愿的。
+		4. _n._ [serviceman](dic://serviceman), [military man](dic://military man), [man](dic://man), [military personnel](dic://military personnel), [solo](dic://solo)
+		5. _adj._ [intentional](dic://intentional), [willful](dic://willful), [wilful](dic://wilful), [freewill](dic://freewill), [self-imposed](dic://self-imposed), [uncoerced](dic://uncoerced)
+		6. [voluntary](dic://voluntary) 使用广泛，侧重不受约束，行动不为其他影响所左右。  
+		7. [willing](dic://willing) 着重自愿、令人愉快或急切地去行动。
+		8. **involuntary**无意识做出的;**voluntarily**志愿地;**compulsory**必须做的, 强制性的;**mandatory**命令的;**participation**参加,参与;**charitable**仁慈的;**volunteer**自愿;**coercion**强迫;**charity**施舍;**mandated**委托统治的;
+		9. voluntaryism
+		10. voluntarism
+		11. voluntariness
+		12. voluntarily
+		13. involuntary, involuntarily
+	6. volunteer
+	7. voluptuary [美 /və'lʌptʃuɛri/](cmd://Speak/_us_/voluptuary)
+		1. n. 酒色之徒；纵情享乐的人 
+		2. adj. 耽于酒色的
+		3. **sensuality**喜爱感官享受;**pious**虔诚的;**sensual**感觉的;**nobleman**贵族;**aristocratic**贵族的;**mistress**情妇;**decadent**颓废的;**opulent**富裕的;**socialite**社会名流;**indulgence**放纵;**statesman**政治家;
+		4. _n._ [sensualist](dic://sensualist)
+		5. _adj._ [indulgent](dic://indulgent)
+		6. _n._ [nonindulgent](dic://nonindulgent), [strict](dic://strict)
+		7. _voluptuary_  n. 酒色之徒；纵情享乐的人; adj. 耽于酒色的;
+		8. an adventurous voluptuary
+		9. The depravity of the appetite, which brings the sexes together, has had a still more fatal effect. Nature must ever be the standard of taste, the guage of appetite — yet how grossly is nature insulted by the voluptuary. /使两性聚在一起的食欲的堕落产生了更致命的影响。自然必须永远成为品味的标准，食欲的衡量标准——然而，自然是多么严重地受到了享乐主义的侮辱。
+		10. I had become what is called a voluptuary; and to be a voluptuary is a physical condition like the condition of a victim of the morphine habit, of a drunkard, and of a smoker. /我变成了所谓的淫荡者； 成为一个好色之徒是一种身体状况， 就像吗啡成瘾者、酒鬼和吸烟者的状况一样。
+		11. He is an adventurous **voluptuary**, angling in all streams for variety of pleasures. /他是一个爱冒险的酒色之徒，涉猎于各种享乐之中。
+	9. voluptuous
 		1. a. 体态丰满的, 性感的, 肉感的; 舒适的, 令人舒适的
 		2. voluptu-意愿 + -ous
 		3. - 来自 voluptuary,纵欲的，纵欲者，后指引起欲望的女人。引申词义丰满的，肉感的。
 		4. _adj._ [sexy](dic://sexy), [shapely](dic://shapely), [indulgent](dic://indulgent)
 		5. _n._ [unsexy](dic://unsexy), [unshapely](dic://unshapely), [nonindulgent](dic://nonindulgent), [strict](dic://strict)
 		6. **luscious**甘美的;**curvy**弯曲的;**seductive**诱惑的;**sensual**感觉的;**sexy**性感的;**sultry**闷热的;**alluring**迷人的，吸引人的;**busty**大胸脯的，胸部丰满的;**plump**丰满的;**perky**得意洋洋的;**petite**娇小的，小个子的;
-		7. voluptuousness
-		8. voluptuously
-	12. velleity
+		7. voluptuous sculptural forms; a voluptuous ripe fruit; a full, voluptuous figure /色情雕刻形式；肉感的成熟水果；丰满性感的身材
+		8. the voluptuous curve of her hips /她性感的臀部曲线
+		9. long curtains in voluptuous crimson velvet /给人奢华感的深红色天鹅绒长窗帘。
+		10. A voluptuous country with too much to see! /一个迷人的国家，有太多值得一看的地方！
+		11. So voluptuous, indeed, often grows the lustful prowler, that he refines on female softness. /事实上，好色的徘徊者往往如此性感，以至于他提炼出女性的柔情。
+		12. voluptuousness
+		13. voluptuously
+	10. velleity
 		1. n. 不完全意欲，微弱的欲望
-	13. weal, commonweal
+	11. weal, commonweal (wax and wane / bane and boon /weal and woe /ebb and flow)
 		1. [wale](dic://wale), [welt](dic://welt), [wheal](dic://wheal)
 		2. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma)	
 		3. **woe**悲哀，悲痛;**prosperity**幸运;**betterment**改好;**ere**在…以前;**welfare**福利;**nay**不;**piety**虔诚;**misfortune**不幸, 厄运, 逆境;**calamity**不幸事件;**liberty**自由;**citizenry**公民;
-		4. _[weal and woe](dic://weal%20and%20woe)_  祸福
+		4. _[weal and woe](dic://weal%20and%20woe)_  祸福 
 		5. _[common weal](dic://common%20weal)_ 民的普遍福祉
 		6. _[weal enounce](dic://weal%20enounce)_ 幸福宣言
 		7. _[share the weal and woe](dic://share%20the%20weal%20and%20woe)_ 祸福与共
@@ -2996,7 +3070,7 @@
 	5. verso
 	6. versus
 		1. vers-转，词源converse , toward。引申词义转向对方的，相对，相比。
-	7. veer
+	7. veer (geer, steer, sear, seer, sere)
 		1. v. 转向, 使转向 n. 转向
 		2. 来自 PIE*wer,弯，转，词源同 versus,toward.
 		3.  [swerve](dic://swerve), [sheer](dic://sheer), [curve](dic://curve), [trend](dic://trend), [slue](dic://slue), [slew](dic://slew), [cut](dic://cut)
@@ -3164,16 +3238,17 @@
 	19. ambivert
 		1. _[ambivert](dic://ambivert)_  n. 既外向又内向的人；中间性格者
 		2. ambiversion
-	20. animadversion ( (animosity，enmity, amity, inimical))
+	20. animadversion (malversation, animosity，enmity, amity, inimical)
 		1. anim-生命 + ad- + vers-转 + -ion
 		2.  [censure](dic://censure)
 		3. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation)
-		4. _[animadversion to correct](dic://animadversion%20to%20correct)_ 批评指正
-		5. _[the animadversion of the society](dic://the%20animadversion%20of%20the%20society)_ 社会批判
-		6. **remark**评论;**scorn**轻蔑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**ridicule**嘲笑;**countenance**面容，表情;**condemnation**谴责;**rebuke**指责，非难;**criticism**批评, 批判, 指责;**agreeable**欣然同意的;**doubtless**无疑地, 肯定地;
-		7. her animadversion against science /她对科学的谴责。
-		8. animadversions that the poet receives quite humbly /该诗人虚心接受的批评。
-		9. Utopia is the thorough animadversion and disavowal against social reality, while the latter is the end of the former /乌托邦是对社会现实的彻底的批判和否定，而社会现实则是乌托邦的终止和界限。
+		4. admonish, castigate, chastise, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, chasten, denounce, trounce, rag, censure,
+		5. _[animadversion to correct](dic://animadversion%20to%20correct)_ 批评指正
+		6. _[the animadversion of the society](dic://the%20animadversion%20of%20the%20society)_ 社会批判
+		7. **remark**评论;**scorn**轻蔑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**ridicule**嘲笑;**countenance**面容，表情;**condemnation**谴责;**rebuke**指责，非难;**criticism**批评, 批判, 指责;**agreeable**欣然同意的;**doubtless**无疑地, 肯定地;
+		8. her animadversion against science /她对科学的谴责。
+		9. animadversions that the poet receives quite humbly /该诗人虚心接受的批评。
+		10. Utopia is the thorough animadversion and disavowal against social reality, while the latter is the end of the former /乌托邦是对社会现实的彻底的批判和否定，而社会现实则是乌托邦的终止和界限。
 	21. anniversary
 		1. _n._ [day](dic://day)
 		2. **birthday**生日，诞辰;**commemoration**纪念;**celebration**庆祝;**centenary**一百周年;**commemorate**纪念;**centennial**一百周年;**celebrate**庆祝;**eve**前夕;**celebrated**著名的;**occasion**场合;**milestone**里程碑;
@@ -3285,15 +3360,23 @@
 			1. _adj._ [different](dic://different)
 			2. _n._ [same](dic://same)
 			3. **scuba**水中呼吸器;**dive**跳水;**swimmers**游泳者;**underwater**在水中生长的;**fishermen**渔夫,钓鱼者,渔船;**rescuers**救援者;**snorkeling**潜水;**snorkel**通气管;**anglers**钓鱼者;**reefs**群礁;**sharks**鲨鱼;
+		14. diverting
+			1. _adj._ [entertaining](dic://entertaining)
+			2. _n._ [unentertaining](dic://unentertaining)
+			3. **diversion**转移, 转向;**transporting**运输;**draining**排水;**avoiding**回避;**freeing**释放;**channeling**凿沟,沟渠,沟槽;**reducing**减低;**wasting**浪费;**absorbing**吸引人的,非常有趣的;**seizing**抓;**providing**如果;
+			4. his inimitable way of retailing a diverting anecdote. /他讲述奇闻轶事的独特方式。
+			5. The conviction was for an assault stance, but not for diverting the plane /她获罪是因为攻击行为，并非因为要求飞机折回。”
+			6. Mr Sharma offers a diverting guide to that world. /s沙尔曼以颇有意思的方式带领读者们进入这个新世界。
 	27. divorce
 	28. evert
-		1. eversible
-		2. eversion
-	29. obvert
+		1. vt. 使…外翻；翻转
+		2. eversible
+		3. eversion
+	30. obvert
 		1. _[obvert](dic://obvert)_  vt. 将换置；将…之正面转向
 		2. obverse
 		3. obversion
-	30. pervert
+	31. pervert
 		1.  [deviant](dic://deviant), [deviate](dic://deviate), [degenerate](dic://degenerate)
 		2. [corrupt](dic://corrupt), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [vitiate](dic://vitiate), [deprave](dic://deprave), [misdirect](dic://misdirect)
 		3.  [twist](dic://twist), [twist around](dic://twist around), [convolute](dic://convolute), [sophisticate](dic://sophisticate)
@@ -3303,17 +3386,17 @@
 		7. **depraved**堕落的;**pedophile**恋童癖者;**deviant**不正常的人,异常的人;**slut**懒妇;**whore**卖淫，娼妓;**rapist**强奸犯;**kinky**奇形怪状的，怪癖的;**sleazy**质地薄的;**sadistic**残酷成性的;**perverse**任性的,固执的;**lewd**淫荡的;
 		8. pervertible
 		9. perverted
-	31. perverse
+	32. perverse
 		1. perversive
 		2. perversity
 		3. perversion
 		4. perverseness
 		5. perversely
-	32. retrovert
+	33. retrovert
 		1. _[retrovert](dic://retrovert)_  v. 向后弯曲，使后屈
 		2. retroverted
 		3. retroversion
-	33. revert
+	34. revert
 		1. _v._ [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse), [mutate](dic://mutate)
 		2. **reversion**恢复,复原;**edit**编辑;**rollback**卷回;**vandalism**汪达尔人作风;**warring**敌对的;**reinstate**使恢复原职;**overwrite**写在…上面,写得过多;**undoing**毁灭;**revision**修正;
 		3. _revert to type_ 返祖;◎返祖;◎恢复原状;
@@ -3365,14 +3448,16 @@
 			9. Philip Roth started out as shocking and rather subversive. /菲利普·罗思起初的作品令人震惊且具有颠覆性。
 		9. subverter
 	33. tergiversate (equivocate, ambivalent)
-		1. _v._ [misinform](dic://misinform), [mislead](dic://mislead), [renounce](dic://renounce), [repudiate](dic://repudiate)
-		2. _tergiversate_  v. 背叛，变节；改变立场；搪塞；模棱两可，模糊不清
-		3. _self-contradiction tergiversate_ 自相矛盾
-		4. _contradiction tergiversate_ 自相矛盾
-		5. _selfcontradiction tergiversate_ 自相矛盾
-		6. _tergiversate detail_ 言词自相矛盾
-		7. he more she tergiversated, the greater grew the ardency of the reporters for an interview /她越推诿，记者们就越热切地想要采访她。
-	34. transverse
+		1. vi. 搪塞, 推托, 变节, 背叛
+		2. 来自拉丁语 tergiversari,背向，逃避，来自 tergum,背，来自 PIE*dhregh,跑，词源同 truck,-vers,转，词源同 versus.引申词义支吾，逃避，回避事实等。
+		3. _v._ [misinform](dic://misinform), [mislead](dic://mislead), [renounce](dic://renounce), [repudiate](dic://repudiate)
+		4. _tergiversate_  v. 背叛，变节；改变立场；搪塞；模棱两可，模糊不清
+		5. _self-contradiction tergiversate_ 自相矛盾
+		6. _contradiction tergiversate_ 自相矛盾
+		7. _selfcontradiction tergiversate_ 自相矛盾
+		8. _tergiversate detail_ 言词自相矛盾
+		9. he more she tergiversated, the greater grew the ardency of the reporters for an interview /她越推诿，记者们就越热切地想要采访她。
+	35. transverse
 		1. trans-转移 + vers-转 + -e。
 		2. _adj._ [crosswise](dic://crosswise)
 		3. _n._ [lengthwise](dic://lengthwise), [lengthways](dic://lengthways)
@@ -3728,8 +3813,10 @@
 2. **cover-** = cover
 	1. **cover**
 		1. etc..
-	2. covert (covet)
+	2. covert (covet) (overt)
 		1. cover-盖子 + -t, 分词后缀。
+		2. a. 隐蔽的, 偷偷摸摸的, 隐密的  
+		3. n. 树丛, 隐藏处
 	3. discovert
 	4. curfew
 		1. 来自古法语cuevrefeu, 来自cuevr, 同cover,遮盖，feu, 同focus, 火，火炉，焦点。
@@ -4509,7 +4596,7 @@
 	3. **wares**商品;**mall**购物商场;**flea**跳蚤;**stalls**正厅前排座位;**marketplace**市场;**shop**商店;**shops**商店;**bustling**忙乱的;**barter**进行易货贸易;**plaza**广场;**consignment**托付货物;
 #### + \*wes- (4) + = to clothe
 1. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
-	1. vest
+	1. vest (endow, confer, bestow, )
 		1. n. 背心, 汗背心  
 		2. vt. 使穿衣服, 授予  vi. 穿衣服, 归属
 		3. [waistcoat](dic://waistcoat)
@@ -4547,7 +4634,7 @@
 		2. transevstite
 		3. transvestist
 		4. transvestism
-	4. divest
+	4. divest 
 		1. di-去掉 + vest-衣服 → 去掉衣服 → 脱去。
 		2. [deprive](dic://deprive), [strip](dic://strip)
 		3. [disinvest](dic://disinvest)

@@ -245,16 +245,23 @@
 		2. something considered choice to eat, [delicacy](dic://delicacy), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat)
 		3.  [mincing](dic://mincing), [niminy-piminy](dic://niminy-piminy), [prim](dic://prim), [twee](dic://twee)
 		4. **delicate**微妙的;**petite**娇小的，小个子的;**elegant**高雅的，优雅的;**lacy**花边的;**slender**微薄的;**graceful**优美的;**delectable**令人愉快的;**girly**像少女的;**exquisite**精致的, 精美的;**sparkly**闪耀的;**delicately**优美地;
-		5. disdain
-	5. dignify
+		5. disdain (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, disregard, defy,)
+			1.  [contempt](dic://contempt), [scorn](dic://scorn), [despite](dic://despite)
+			2.  [condescension](dic://condescension), [patronage](dic://patronage)
+			3.  [contemn](dic://contemn), [despise](dic://despise), [scorn](dic://scorn)
+			4.  [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [turn down](dic://turn down)
+			5. _n._ [dislike](dic://dislike), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
+			6. _v._ [hate](dic://hate), [detest](dic://detest), [refuse](dic://refuse), [decline](dic://decline)
+			7. **contempt**轻视，蔑视;**scorn**轻蔑;**disgust**厌恶，嫌恶;**admiration**钦佩;**hostility**敌意;**indifference**不关心,不在乎;**displeasure**不快, 不悦, 生气;**distrust**不信任;**disrespect**失礼,无礼;**hatred**憎恨;**fondness**溺爱;
+	4. dignify
 		1. dignitary, dignity, 
-	6. indign, indignity
+	5. indign, indignity
 		1. - adj. 不值得的；可耻的
 		2. in-不 + dign-高贵
 		3. indignation
 		4. indignant
 		5. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
-	8. deign
+	6. deign
 		1. 1 - 词源同 dignity,尊贵。引申词义屈尊。
 		2. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
 		3. [condescend](dic://condescend), [descend](dic://descend)
@@ -2272,25 +2279,61 @@
 		76. tectofacies
 8. **the-, thec-, thet-** = setting
 	1. apothecary
-		1. apothecary（药剂师）：存储药材并对外销售的人  
-		2. 英语单词apothecary来自拉丁语apothecarius，由apotheca（仓库）派生出。apotheca来自希腊语apotheke，由apo（away，远离）和tithenai（放置）组成，字面意思就是“存放到一边”，所以apotheca就是“仓库”的意思，而apothecary的本意就是“仓库保管员”、“店主”的意思。这个单词怎么跟“药剂师”扯上关系的呢？原来，古代仓储技术落后，普通商品容易腐烂变质，而药材既价格高，又不易腐烂变质，因此是古代最常见的仓储物品，所以apothecary后来逐渐专指存储药材并对外销售的人，即“药材商、药店老板”。在现代，由于只有药剂师才有资格卖药，所以apothecary通常表示“药剂师”。  
-		3. apothecary：[ə'pɑθə'kɛri] n.药剂师，药材商，药店老板
-		4. _n._ [health professional](dic://health professional), [health care provider](dic://health care provider), [caregiver](dic://caregiver)
-		5. **pharmacist**药剂师;**pharmacy**药房;**potions**药剂，药水;**medicine**药;**grocer**杂货店;**chemist**药剂师;**blacksmith**铁匠;**potion**一剂;**physician**内科医生;**herbal**草本的;**alchemy**点金术;
+		1. apo- + thec-放置 + -ary名词后缀 → 放药的地方 → 药房。
+		2. apothecary（药剂师）：存储药材并对外销售的人  
+		3. 英语单词apothecary来自拉丁语apothecarius，由apotheca（仓库）派生出。apotheca来自希腊语apotheke，由apo（away，远离）和tithenai（放置）组成，字面意思就是“存放到一边”，所以apotheca就是“仓库”的意思，而apothecary的本意就是“仓库保管员”、“店主”的意思。这个单词怎么跟“药剂师”扯上关系的呢？原来，古代仓储技术落后，普通商品容易腐烂变质，而药材既价格高，又不易腐烂变质，因此是古代最常见的仓储物品，所以apothecary后来逐渐专指存储药材并对外销售的人，即“药材商、药店老板”。在现代，由于只有药剂师才有资格卖药，所以apothecary通常表示“药剂师”。  
+		4. apothecary：[ə'pɑθə'kɛri] n.药剂师，药材商，药店老板
+		5. _n._ [health professional](dic://health professional), [health care provider](dic://health care provider), [caregiver](dic://caregiver)
+		6. **pharmacist**药剂师;**pharmacy**药房;**potions**药剂，药水;**medicine**药;**grocer**杂货店;**chemist**药剂师;**blacksmith**铁匠;**potion**一剂;**physician**内科医生;**herbal**草本的;**alchemy**点金术;
 	3. bibliotheca
 	4. hypothec
-	5. metathesis, parenthesis, prothesis, synthesis, antithesis, hypothesis
-		1. parentheses, parenthesize, parenthetic, 
-		2. syntheses, synthetic, synthetical
-		3. antithetical
-		4. hypothesess, hypothesize, hypothetic, hypothetical
-	6. thesis
+	5. metathesis
+		1. n. 音位转换, 转移, 置换
+	6. parenthesis
+		1. par-平行 + en-进 + thesis-放 → 平行放进去 → 括号
+		2. n. 圆括号, 插入语, 附带, 插曲
+		3.  parentheses, parenthesize, parenthetic, 
+	7. prothesis
+		1. n. 圣餐台
+	8. prosthesis
+		1. n. 假体; 添字首音; 弥补; 义体
+		2. - 来自希腊语 prosthetitas,加上去的，来自 pros,向前，朝向，来自 pro 的扩大形式，-thet,放置，词源同 do,thesis,theme.后引申词义假体，假肢。
+		3. _n._ [corrective](dic://corrective), [restorative](dic://restorative)
+		4. **prosthetic**假体的;**implant**灌输;**implants**移植物;**stent**支架;**dentures**假牙;**implantable**可植入的;**catheter**导管;**implantation**培植,灌输;**cannula**套管，插管;**suture**缝合;**surgery**外科
+		5. _joint prosthesis_ 人工关节
+		6.  In order to develop our prosthesis, the process will go like this. /（掌声）我们开发假肢的过程，是这样的。
+		7. She is the first person in space with a prosthesis. /她是首位穿着假肢进入太空的人。
+		8. A veteran's **prosthesis**: he was once in love with his doctor. /一位退伍军人的义肢，他曾与自己的复健师相恋。
+	9. synthesis
+		1. n. 综合, 组织, 综合体
+		2. syn-一起 + thes-放 + is → 放在一起 → 合成。
+		3. _n._ [chemical process](dic://chemical process), [chemical change](dic://chemical change), [chemical action](dic://chemical action), [reasoning](dic://reasoning), [logical thinking](dic://logical thinking), [abstract thought](dic://abstract thought)
+		4. _n._ [analysis](dic://analysis), [analytic thinking](dic://analytic thinking)
+		5. **biosynthesis**生物合成;**synthesize**合成;**hydrolysis**水解;**peptide**肽;**polymerization**聚合;**synthesizer**综合者,合成器;**formulation**公式化;**enzymatic**酶的;**modulation**调音;**decomposition**分解;**elaboration**精心制作;
+		6. We made a synthesis of their studies /我们综合分析了他们的研究报告。
+		7. The invention relates to the synthesis method of ketone compounds, particularly the synthesis method of tetralone /本发明涉及酮类化合物的合成方法，特别是四氢萘酮的合成方法。
+		8. Insulin also promotes fat and protein synthesis /胰岛素还能促进脂肪和蛋白质的合成。
+		9. syntheses, synthetic, synthetical
+	10. antithesis
+		1. n. 对偶, 对照, 对立面
+		2. anti-相对，相反 + thes-放置 + -s。
+		3. _n._ [opposition](dic://opposition), [oppositeness](dic://oppositeness), [rhetorical device](dic://rhetorical device)
+		4. **epitome**缩影;**quintessential**精髓的;**embody**体现，使具体化;**dichotomy**一分成二,对分;**contradiction**矛盾;**akin**同族的;**archetypal**原型的;**essence**本质，实质;**archetype**原型;**reminiscent**提醒的, 暗示的;**paradoxical**似是而非的 矛盾的 诡论的;
+		5. Hope is the antithesis of despair. /希望是绝望的对立面
+		6. The antithesis of death is life. /与死相对的是生。
+		7. My 'prescription' for MICs is evolutionary, diverse and well-connected with each other, the very antithesis of isolationism and cultism. /我给示范社区开的“药方”具有前瞻性，多样性并且彼此融洽，这些正是孤立主义和狂热崇拜的对立面。
+		8. antithetical
+	11. hypothesis
+		1. hypo-下面 + thes-放 + is → 放在下面 , 还不能作为正式理论 → 假说。
+		2.  hypo-,在下，-thes,放置，词源同 thesis,theme,do. 即放在下面的，引申词义假说，假设。
+		3. hypothesess, hypothesize, hypothetic, hypothetical
+	12. thesis
 		1. 来自拉丁语 thesis,论题，论文，来自希腊语 thesis,提议，假设，来自 PIE*dhe,做，放置，词源同 do,fact,theme.-esis,状态后缀。引申诸相关词义。
-	7. theca
+	13. theca
 		1. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [sheath](dic://sheath), [case](dic://case)
 		2. **ovary**子房;**basal**基础的;**epithelium**上皮;**uterus**子宫;**anterior**前面的;**apical**顶上的, 顶点的;**yolk**蛋黄;
 		3. spermatheca, 
-	8. anathema
+	14. anathema
 		1. ana-=up + the-放 + -ma表行为对象和结果。本指将掠夺来的敌人的物品置于寺庙（或祭坛）之上来诅咒敌人厄运。
 		2. _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [execration](dic://execration), [condemnation](dic://condemnation), [curse](dic://curse)
 		3. **heresy**异教;**heretical**异教的;**orthodoxy**正统说法;**antithesis**对照;**dogma**教条，教理;**tantamount**等于;**heretics**异教徒;**despised**受轻视的;**abomination**厌恶;**elitist**优秀人材;**dogmatic**教条的;
@@ -2304,13 +2347,13 @@
 			7. He had rather be damned with Plato than saved with those who anathematized him /他宁可让自己的灵魂与柏拉图一道被罚入地狱, 也不愿和谴责他的人们一起升入天国。
 			8. Korak looked searchingly down upon her, mentally anathematizing the broad-brimmed hat that hid her features from his eyes. /科拉克仔细地俯视着她， 在精神上诅咒那顶遮住她的容貌的宽边帽。
 			9. And further we **anathematize** such as do not confess the resurrection of the dead, as well as all heresies which are not in accord with the true faith. /除此之外，我们也咒诅不相信死人复活，和所有不根据真信仰的异端。
-	9. cinematheque
+	15. cinematheque
 		1. n. 影片储藏室；实验电影院
-	10. discotheque
+	16. discotheque
 		1. n. 夜总会, 迪斯科, 的士高
 		2. _n._ [ballroom](dic://ballroom), [dance hall](dic://dance hall), [dance palace](dic://dance palace)
 		3. **disco**的士高;**nightclub**夜总会;**cabaret**卡巴莱歌舞表演;**dance**舞蹈;**ballroom**舞厅;**karaoke**卡拉OK;**dancing**舞蹈;**techno**泰克诺音乐;**brothel**妓院;**nightlife**夜生活;**Ibiza**伊比沙岛
-	11. epithet
+	17. epithet
 		1. epi-在上，其它 + thet-放置，即附加的名字，别称。
 		2. n. 浑名, 绰号, 称号
 		3. [name](dic://name)
@@ -2324,9 +2367,9 @@
 		11. On the other hand, harsh and hard-hearted are the epithets allotted to the creditor. /另一方面，“冷酷”和“铁石心肠”这些词语则一股脑安到债主头上。
 		12. I say, given your overall demeanor and your freewheeling use of epithets, I'm willing to bet that he was provoked. /我看，你这么失礼又乱称呼别人诨名，我肯定是你挑衅他的。
 		13. Lilia praised and petted him on his return, calling him brave and a hero and other endearing epithets /莉莉亚在他回来时称赞和抚摸他， 称他勇敢、英雄和其他可爱的绰号。
-	12. theme
+	18. theme
 		1. 中古英语 teme, theme (源自古法语 teme), 源自中古拉丁语 thema, 源自希腊语 théma “proposition, deposit,” 和 tithénai “to put, set down”有亲缘关系。
-	13. thesaurus
+	19. thesaurus
 		1. hesaurus - 19世纪直接借自拉丁语，源于希腊语thēsaurós，本义为treasure（财宝）或treasure house（宝库）。在凯撒（Julius Caesar, 100-44 BC）时代，当thesaurus进入拉丁语时，它喻指storehouse of knowledge（知识宝库）；在文艺复兴时期，它成了几部大型希腊语、拉丁语辞书的书名；到了近代，在不太严格的意义上，它又常被作为“词典”、“词语汇编”（lexicon）甚至“百科全书”的同义词使用，有时也指某一学科如音乐、医学等的词汇选编。但在今天，对大多数人来说，thesaurus意指“类属词典”或“同类词汇编”，不论是按类属排列的还是按字母排列的。此义是英国医师、语言学者罗热（Peter Mark Roget, 1779-1869）首先使用的，并首次体现于他编纂的《英语词语类属词典》（Thesaurus ofEnglish Words and Phrases）。该词典按概念领域对词语进行分类，其编纂目的，正如他本人所说的，是“为表达思想提供便利，为文学创作提供帮助”。自1852年问世以来它几经修订和扩充，但直到今天依然经久不衰。
 		2. 英语的另一个词treasure（财宝）和thesaurus有亲缘关系，它可以说间接源自thesaurus这个拉丁语借词，其终极词源也是希腊语thēsaurós，但它转道法语trésor，所以演变为treasure这一形式，于12世纪进入英语。  
 		3. 例　You should keep a thesaurus right next to your dictionary. (FWF) 你应该在词典旁边放一本分类词
@@ -2335,7 +2378,7 @@
 		7. _[Astronomy Thesaurus](dic://Astronomy%20Thesaurus)_ 天文学词表
 		8. **dictionary**词典, 字典;**synonyms**同义词，同义字;**lexicon**词典，辞典;**vocabulary**词汇;**glossary**术语表;**synonym**同义词;**adjective**形容词;**word**单词;**lexical**词汇的;
 		9. At the entry for “kill”, my thesaurus lists“murder”, “assassinate”and “waste” /我的同义词词典在kill条目中列出murder, assassinate, waste词条。
-	14. treasure
+	20. treasure
 		1. 源自希腊语 thesauros "store, treasure, treasure house," 借道拉丁语、法语进入英语。
 		2. treasure - 19世纪直接借自拉丁语，源于希腊语thēsaurós，本义为treasure（财宝）或treasure house（宝库）。在凯撒（Julius Caesar, 100-44 BC）时代，当thesaurus进入拉丁语时，它喻指storehouse of knowledge（知识宝库）；在文艺复兴时期，它成了几部大型希腊语、拉丁语辞书的书名；到了近代，在不太严格的意义上，它又常被作为“词典”、“词语汇编”（lexicon）甚至“百科全书”的同义词使用，有时也指某一学科如音乐、医学等的词汇选编。但在今天，对大多数人来说，thesaurus意指“类属词典”或“同类词汇编”，不论是按类属排列的还是按字母排列的。此义是英国医师、语言学者罗热（Peter Mark Roget, 1779-1869）首先使用的，并首次体现于他编纂的《英语词语类属词典》（Thesaurus of EnglishWords and Phrases）。该词典按概念领域对词语进行分类，其编纂目的，正如他本人所说的，是“为表达思想提供便利，为文学创作提供帮助”。自1852年问世以来它几经修订和扩充，但直到今天依然经久不衰。 
 		3. 英语的另一个词treasure（财宝）和thesaurus有亲缘关系，它可以说间接源自thesaurus这个拉丁语借词，其终极词源也是希腊语thēsaurós，但它转道法语trésor，所以演变为treasure这一形式，于12世纪进入英语。
@@ -2351,27 +2394,30 @@
 		13. You don't need a thesaurus. Just write from here /你不必用" 辞典" 要用这里写。
 		14. Of course, it does, it's smart, I used a thesaurus. /当然有，很聪明，我用了同义词词典。
 9. deed
-	16. [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
-	17. [deed of conveyance](dic://deed of conveyance), [title](dic://title)
-	18. _n._ [accomplishment](dic://accomplishment), [achievement](dic://achievement), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
-	19. [act](dic://act) 一般指具体的、短暂的或个别的行为，强调行为的完成及其效果。  
+	1.  来自 PIE*dhe,做，树立，放置，词源同 do,fact.用于指行为，契约。
+	2. n. 行为, 实行, 契约 
+	3. vt. 立契转让
+	4. [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
+	5. [deed of conveyance](dic://deed of conveyance), [title](dic://title)
+	6. _n._ [accomplishment](dic://accomplishment), [achievement](dic://achievement), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
+	7. [act](dic://act) 一般指具体的、短暂的或个别的行为，强调行为的完成及其效果。  
 		1. [action](dic://act) 普通用词，着重行动的过程。  
 		2. [deed](dic://deed) 较庄重用词，除泛指各种行为外，还可用于指某种高尚或伟大的行为，故常译作“功绩，业绩”。  
 		3. [operation](dic://operation) 多指一连串行动或行为的完成方式。  
 		4. [performance](dic://performance) 主要指行动的方式方法。
-	20. **conveyance**运输;**easement**缓和;**lien**留置权;
-	21. _good deed_ 善事，好事
-	22. _in deed_ 真正；实际上
-	23. _title deed_ [律]所有权证书（尤指地契）
-	24. _trust deed_ 信托书，委托书；信托契约
-	25. _do a good deed_ 做一件好事
-	26. _deed tax_ 契税
-	27. a deed of indemnity. /免责书。
-	28. Deeds must second words. /言行必须一致。
-	29. deeds that redound to one's discredit /损害个人信誉的行为
-	30. This is the deed to John's plantation. /这是约翰农场的契约。
-	31. emblazoning a heroine's deeds in song /在歌曲中颂扬女英雄的事迹
-10. deem
+	8. **conveyance**运输;**easement**缓和;**lien**留置权;
+	9. _good deed_ 善事，好事
+	10. _in deed_ 真正；实际上
+	11. _title deed_ [律]所有权证书（尤指地契）
+	12. _trust deed_ 信托书，委托书；信托契约
+	13. _do a good deed_ 做一件好事
+	14. _deed tax_ 契税
+	15. a deed of indemnity. /免责书。
+	16. Deeds must second words. /言行必须一致。
+	17. deeds that redound to one's discredit /损害个人信誉的行为
+	18. This is the deed to John's plantation. /这是约翰农场的契约。
+	19. emblazoning a heroine's deeds in song /在歌曲中颂扬女英雄的事迹
+11. deem
 	1. v. 认为，相信
 	2. 词源见 “doom”
 	3. [hold](dic://hold), [view as](dic://view as), [take for](dic://take for)
@@ -2392,8 +2438,8 @@
 	11. Was deemed a dead or living Tell! /视死如归，生者死者的袒露秘密。
 	12. " I deemed in prudent, " said the deeper-voiced goblin. /“我想谨慎一些，”嗓音低沉的妖精说。
 	13. But, some things are so bad that mainstream culture deems them unspeakable. /然而，有些坏事令人发指到主流文化对其噤若寒蝉。
-11. do
-12. doom
+12. do
+13. doom
 	1. n. 厄运, 不幸, 法律, 宣告, 判决, 死亡  
 	2. vt. 命中注定, 判决
 	3. doom（厄运）：上帝的末日审判  
@@ -2432,7 +2478,10 @@
 		1. [cursed](dic://cursed), [damned](dic://damned), [unredeemed](dic://unredeemed), [unsaved](dic://unsaved)
 		2. [ill-fated](dic://ill-fated), [ill-omened](dic://ill-omened), [ill-starred](dic://ill-starred), [unlucky](dic://unlucky)
 		3. **destined**命定的;**hopeless**绝望的;**fail**失败，不及格;**hopelessly**绝望地;**ill-fated**走恶运的,注定要遭受罚的;**inevitable**不可避免的, 必然发生的;**disastrous**灾难性的;**futile**无用的;**failure**失败;**miserable**悲惨的;**ultimately**最后;
-13. purdah
+14. purdah
+	1. n. 窗帘, 帷幕
+	2.  来自波斯语 pardah,窗帘，帘布，面纱，来自古波斯语 pari,周围，围起来，词源同 peri-,-dah,放置，来自 PIE*dhe,放置，词源同 do.
+	3. 
 
 
 ### + \*dhegwh- +
@@ -3754,7 +3803,7 @@
 		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;
 	17. subtract
 4. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
-	1. entreat
+	1. entreat (supplicate)
 		1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
 		2. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。
 		3. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。
@@ -3800,32 +3849,33 @@
 ### + \*dhwer- +
 1. **for-** = "away, apart, off(forbid)", = "intensive, very much (forlorn)", 来自盎格鲁-撒克逊语。和希腊词源的 thyroid【甲状腺】，日耳曼词源的 door【门】同源。源自拉丁语 foras "out of doors, outside," foris "out of doors," forum "marketplace."
 	1. forbear
-		1. vt. 忍耐；克制
-		2. vi. 忍耐；克制
-		3. n. 祖先
-		4. forbear [fɔː'beə] v.克制；忍耐。这里的-bear部分依旧不是熊，而是忍耐；承担之意，前缀for-这里表away, opposite, completely，因此forbear就是to bear up（振作）one's feeling。类似，forgive原谅是to give up completely，forget忘记是toget(grasp in mind) away。bear and forbear一忍再忍。
-		5. [hold back](dic://hold back)
-		6. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
-		7. _v._ [refrain](dic://refrain)
-		8. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
-		9. _bear and forbear_ [古语]一忍再忍;一忍再忍;
-		10. forbear from complaining /不发牢骚
-		11. Theda could not forbear a smile. /西达禁不住嫣然一笑。
-		12. can't forbear criticizing their ineptitude. /禁不住要批评他们的笨拙
-		13. The fans could not forbear crying out at the wonderful goal. /一记精采的进球使球迷们禁不住叫喊起来。
-		14. His wife has a forbearing nature; she accepts trouble with a smile. /"他妻子天生容忍,遇到麻烦都能一笑了事。"
-		15. According to the statues, customs and laws laid down by your forbears? /你是否愿意庄严宣誓将统领这个王国的土地和它的人民。并遵循你祖先传下的习俗以及法律
-		16. But Maria's forbears had inherited and conquered territories since the sixteenth century which had large religious minorities within them. /但玛丽亚的祖先自十六世纪以来就继承并征服了境内有大量宗教少数群体的领土。
-		17. forbore
-		18. forbearing
-		19. forbearance
+		1. forbear [fɔː'beə] v.克制；忍耐。这里的-bear部分依旧不是熊，而是忍耐；承担之意，前缀for-这里表away, opposite, completely，因此forbear就是to bear up（振作）one's feeling。类似，forgive原谅是to give up completely，forget忘记是toget(grasp in mind) away。bear and forbear一忍再忍。
+		2. vt. 忍耐；克制
+		3. vi. 忍耐；克制
+		4. n. 祖先
+		5. forbear [fɔː'beə] v.克制；忍耐。这里的-bear部分依旧不是熊，而是忍耐；承担之意，前缀for-这里表away, opposite, completely，因此forbear就是to bear up（振作）one's feeling。类似，forgive原谅是to give up completely，forget忘记是toget(grasp in mind) away。bear and forbear一忍再忍。
+		6. [hold back](dic://hold back)
+		7. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
+		8. _v._ [refrain](dic://refrain)
+		9. **countenance**面容，表情;**doth**从事;**likewise**也;**desist**停止;**ought**应该，应当;**restrain**抑制，控制;**refrain**制止;**compel**强迫，迫使;**lest**唯恐，以免;**confine**限制;**doubtless**无疑地, 肯定地;
+		10. _bear and forbear_ [古语]一忍再忍;一忍再忍;
+		11. forbear from complaining /不发牢骚
+		12. Theda could not forbear a smile. /西达禁不住嫣然一笑。
+		13. can't forbear criticizing their ineptitude. /禁不住要批评他们的笨拙
+		14. The fans could not forbear crying out at the wonderful goal. /一记精采的进球使球迷们禁不住叫喊起来。
+		15. His wife has a forbearing nature; she accepts trouble with a smile. /"他妻子天生容忍,遇到麻烦都能一笑了事。"
+		16. According to the statues, customs and laws laid down by your forbears? /你是否愿意庄严宣誓将统领这个王国的土地和它的人民。并遵循你祖先传下的习俗以及法律
+		17. But Maria's forbears had inherited and conquered territories since the sixteenth century which had large religious minorities within them. /但玛丽亚的祖先自十六世纪以来就继承并征服了境内有大量宗教少数群体的领土。
+		18. forbore
+		19. forbearing
+		20. forbearance
 			1. _n._ [good nature](dic://good nature), [delay](dic://delay), [holdup](dic://holdup)
 			2. **patience**耐性，耐心;**repayment**偿还;**forgiveness**宽恕;**mercy**仁慈，宽容;**grace**优雅;**gentleness**温和;**humility**谦卑，谦逊;**fortitude**坚韧, 刚毅;**kindness**仁慈;**virtue**美德;**impatience**急躁;
 			3. Forbearance is no acquittance /缓期不等于作罢。
 			4. forbearance from taking action. /克制不采取行动。
 			5. The parents showed remarkable forbearance toward their defiant and unruly son /父母对儿子的桀骜不驯示以了极大宽容。
 			6. It already offers some products that rely on neither Britain's tax forbearance nor rich individuals elsewhere. /它已经提供了一些既不依赖于英国收税延展也不依赖于别处富有个人的产品。
-	2. forbid
+	3. forbid
 		1. for-否定，相反 + bid【命令】。即命令不许做某事的，禁止做某事的。
 		2. vt. 禁止, 不准, 妨碍
 		3.  [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow)
@@ -3882,39 +3932,46 @@
 		9. foreign-born
 		10. antiforeign
 	7. forfeit
-		1. [forfeiture](dic://forfeiture)
-		2. [forfeiture](dic://forfeiture)
-		3. [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
-		4. [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
-		5. [confiscate](dic://confiscate), [forfeited](dic://forfeited)
-		6. **confiscation**没收,充公,征用;**forfeit**罚金;**seizure**夺取;**restitution**归还原主, 恢复原状;**revocation**废止;**prosecution**起诉, 诉讼;**fines**细骨料;**penalty**处罚;**disqualification**不合格;**imprisonment**关押,监禁;**possession**占有, 持有, 拥有;
-		7. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
-		8. forfeiter
-		9. forfeitable
-	8. forfend
-	9. forget
+		1. n. 没收物, 罚金  
+		2. vt. 丧失，被没收  
+		3. a. 丧失了的
+		4. for-在外面，超过 + feit=fact-做，原义为做过头的，越界的，衍生词义犯罪，处罚，没收。
+		5. forfeit ['fɔːfɪt] n. 罚金；没收物；丧失的东西，adj. 因受罚而丧失的；被没收的，vt. （因犯罪、失职、违约等）丧失（权利、名誉、生命等）。for-是拉丁词根，与希腊词源的thyroid甲状腺和日耳曼词源的door同源，表门外的，-feit词根表示do，即做的事情超过了正常的界限（门）而导致财产被没收。
+		6. [forfeiture](dic://forfeiture)
+		7. [forfeiture](dic://forfeiture)
+		8. [forfeiture](dic://forfeiture), [sacrifice](dic://sacrifice)
+		9. [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive), [forgo](dic://forgo)
+		10. [confiscate](dic://confiscate), [forfeited](dic://forfeited)
+		11. **confiscation**没收,充公,征用;**forfeit**罚金;**seizure**夺取;**restitution**归还原主, 恢复原状;**revocation**废止;**prosecution**起诉, 诉讼;**fines**细骨料;**penalty**处罚;**disqualification**不合格;**imprisonment**关押,监禁;**possession**占有, 持有, 拥有;
+		12. _n._ [loss](dic://loss), [penalty](dic://penalty), [act](dic://act), [human action](dic://human action), [human activity](dic://human activity)
+		13. forfeiter
+		14. forfeitable
+	9. forfend
+	10. forget
 		1. forgetter
 		2. forgettable, unforgettable
 		3. forgetive
 		4. forgetful, self-forgetful
 		5. forget-me-not
-	10. forgive
+	11. forgive
 		1. unforgiving
 		2. forgiving
 		3. forgiveness
 		4. forgiven
 		5. forgivable
-	11. forgo
+	12. forgo (forsake, partake)
 		1. **opt**选择;**abandon**离弃;**defer**延期;**postpone**使…延期;**shun**避开, 回避, 避免;**instead**代替;**chose**选择;**skip**跳绳;**relinquish**交出, 让给;**partake**参与;**renounce**宣布放弃;
 		2. [waive](dic://waive), [relinquish](dic://relinquish), [foreswear](dic://foreswear), [dispense with](dic://dispense with)
 		3. [predate](dic://predate), [precede](dic://precede), [forego](dic://forego), [antecede](dic://antecede), [antedate](dic://antedate)
 		4. [forfeit](dic://forfeit), [give up](dic://give up), [throw overboard](dic://throw overboard), [waive](dic://waive)
 		5. 
-	12. forlorn
-		1. _adj._ [hopeless](dic://hopeless)
-		2. _n._ [hopeful](dic://hopeful)
-		3. **desolate**荒凉的;**lonely**寂寞的;**hopeless**绝望的;**melancholy**忧郁, 悲哀;**pitiful**可怜的，令人同情的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**dilapidated**破旧的;**sad**悲哀的，令人悲痛的;
-	13. forsake, godforsaken
+	13. forlorn
+		1. a. 孤独的, 悲惨的, 凄凉的
+		2. for-,完全的，lorn,失去，词源同 lose.原义为毁坏的，完全丧失的。绝望义来自英语短语 forlornhope(1570s),完全失去希望的，而 hope 实则为荷兰语 hoop 的讹误，军队，部队，词源同英语词 heap.类似于日本的敢死队，通常带有自杀式使命。类似演变参照 humble pie.
+		3. _adj._ [hopeless](dic://hopeless)
+		4. _n._ [hopeful](dic://hopeful)
+		5. **desolate**荒凉的;**lonely**寂寞的;**hopeless**绝望的;**melancholy**忧郁, 悲哀;**pitiful**可怜的，令人同情的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**gloomy**黑暗的;**dreary**沉闷的，枯燥的;**dilapidated**破旧的;**sad**悲哀的，令人悲痛的;
+	15. forsake, godforsaken
 		1.  [abandon](dic://abandon), [desolate](dic://desolate), [desert](dic://desert)
 		2. [abandon](dic://abandon) 强调永远或完全放弃或抛弃人或事物等，这可能是被迫的，也可能是自愿的。  
 		3. [desert](dic://desert) 着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。  
@@ -3923,9 +3980,9 @@
 		6. [give up](dic://give up) 普通用语，侧重指没有希望或因外界压力而放弃。
 		7. **abandon**离弃;**shun**避开, 回避, 避免;**betray**背叛;**renounce**宣布放弃;**repent**忏悔;**perish**毁灭;**leave**离开;**despise**轻视，鄙视;**obey**服从，听从;**relinquish**交出, 让给;**depart**离开;
 		8. 
-	14. forsaken
-	15. forsook
-	16. forswear (perjury)
+	16. forsaken
+	17. forsook
+	18. forswear (perjury)
 		1.  _vt._ 发誓抛弃,坚决放弃
 		2. 发伪誓,作伪证
 		3. [abjure](dic://abjure), [recant](dic://recant), [retract](dic://retract), [resile](dic://resile)
@@ -3934,7 +3991,7 @@
 		6. And I will forswear ever feeding on you again if that's what it takes to convince you of that. /如果能够让你重拾对我的信任我愿立誓 永不再吸你的血。
 		7. " Did my heart love 'til now? Forswear it, sight! For I ne'er saw true beauty 'til this night" /“直到现在我的心还爱着吗？我发誓，看见了！因为直到今晚我才看到真正的美丽”。
 		8. forsworn, forswore
-	18. forum
+	19. forum
 		1. forum（论坛）：古罗马城中的一块公共空地  
 		2. 在古罗马城中，在Palatine山和Capitoline山之间的一个小山谷中，在几座政府建筑之间有一块空地，这块空地就是著名的“罗马广场”（Roman Forum），在现在的罗马遗址中依然能找到。这块空地原本是一个市场，古罗马人将其称为forum，在拉丁语中是“市场、公共场所”的意思。该词来自拉丁语foris（户外），同源的单词还有forest（森林）、foreign（外国的，外乡的）。  
 		3. 在数百年的历史中，这块空地一直是古罗马人公共生活的中心。古罗马人在这里举行庆祝，进行选举、演讲、审判以及角斗表演。这里还是各种商业活动的枢纽。英语单词forum就源自古罗马人对这块空地的称呼，中文一般翻译为“论坛”，其实就是公众集合活动的场所。因为讨论和交流是公众集合的主要内容，所以forum一词的含义逐渐演变为公众讨论的场所。  
@@ -3943,7 +4000,7 @@
 		6.  [assembly](dic://assembly), [meeting place](dic://meeting place)
 		7. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting), [facility](dic://facility), [installation](dic://installation)
 		8. **thread**线;**discussion**讨论, 商讨;**threads**线;**topic**题目;**moderator**调解人;**post**职位;**posting**记录;**site**位置, 场所, 地点;**community**社区, 社会, 团体;**posts**标杆;**blog**博客;
-	19. forensic
+	20. forensic
 		1. _adj._ [rhetorical](dic://rhetorical)
 		2. _n._ [unrhetorical](dic://unrhetorical)
 		3. **investigative**调查研究的，侦查的;**detective**侦探;**pathologist**病理学者;**autopsy**验尸;**fingerprint**指纹;**toxicology**毒物学;**psychiatric**精神病的;**investigator**调查者;**investigation**调查;**medical**医学的;**expert**熟练的;
@@ -3952,7 +4009,7 @@
 		6. With the advances in oncotic research, researches in forensic medicine and practice will be impacted greatly. /随着对胀亡研究的深入,将对法医学科研及实践产生深远的影响。
 		7. unforensic
 		8. forensics
-	20. faubourg [/ˈfoˌbʊr/](cmd://Speak/_us_/faubourg) 
+	21. faubourg [/ˈfoˌbʊr/](cmd://Speak/_us_/faubourg) 
 		1. n. 近郊; 新市区
 		2. n. （尤指法国）市郊；（巴黎的）郊区
 		3. faubourg ['fəʊbʊəɡ] n.近郊；新市区。它与suburb郊区是近义词，fau-是拉丁词根for-表示（outside of）door，与日耳曼词源的door和希腊词根thyr-表示门同源，-bourg部分同Hamburg汉堡等中的-burg，这里表city，与拉丁词根fort-表堡垒同源。近郊，area outside the city，现在如法国巴黎还有使用。 ​​​​
@@ -3978,7 +4035,7 @@
 		6. [luxuriate](dic://luxuriate)
 		7. [pamper](dic://pamper), [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil)
 		8. _v._ [provide](dic://provide), [supply](dic://supply), [ply](dic://ply), [cater](dic://cater), [consume](dic://consume), [eat up](dic://eat up), [use up](dic://use up)
-		9. **indulgence**放纵;**indulgent**放纵的;**partake**参与;**revel**狂欢;**pamper**纵容;**enjoy**喜爱;**splurge**卖弄;**savor**使有风味;**crave**渴望;**dine**进餐，用餐;**decadent**颓废的;
+		9. **indulgence**放纵;**indulgent**放纵的;**partake**参与;**revel**狂欢;**pamper**纵容;**enjoy**喜爱;**splurge**卖弄;**savor**使有风味;**crave**渴望;**dine**进餐，用餐;**decadent**颓废的; dissipated
 		10. _indulge in_ vt. 沉湎于，沉溺于
 		11. indulgent
 			1. self-indulgent
@@ -4082,16 +4139,48 @@
 		10. anecdotal
 		11. anecdotage
 	3. antidote
-		1. [counterpoison](dic://counterpoison)
-		2. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
-		3. **cure**治愈;**remedy**药品, 治疗法;**poison**使中毒，放毒于;**antithesis**对照;**hangover**宿醉;**concoction**混合;**malaise**不舒服;**cynicism**犬儒主义;**tonic**补药;**potent**强有力的;**counteract**对抗;
-		4. _[antidote potions](dic://antidote%20potions)_ 解毒药剂
-		5. antidotic
-		6. amtidotarium
-		7. antidotal
-		8. antiantidote
-	4. donee, donor, donate
-	5. dote
+		1. anti-反 + dot-给予 + -e → 给出反[毒] → 解毒药。另一种说法dote=dote药剂。
+		2. [counterpoison](dic://counterpoison)
+		3. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
+		4. **cure**治愈;**remedy**药品, 治疗法;**poison**使中毒，放毒于;**antithesis**对照;**hangover**宿醉;**concoction**混合;**malaise**不舒服;**cynicism**犬儒主义;**tonic**补药;**potent**强有力的;**counteract**对抗;
+		5. _[antidote potions](dic://antidote%20potions)_ 解毒药剂
+		6. antidotic
+		7. amtidotarium
+		8. antidotal
+		9. antiantidote
+	5. donee, donor, 
+	6. donate
+		1. don-给予 + -ate, 表动词 → 给出去。
+		2. 1.pan-（众、全）：众神的礼物潘多拉  
+			1. 宙斯发现人类掌握了火的使用方法后，下决心要惩罚人类，就让火神仿造女神的模样，用水和土创造了一个美女，再让爱与美神阿芙洛狄忒为她喷上令男人心醉神迷的香气，让雅典娜为她披上华丽的衣服，神使赫尔墨斯赋予她言语的天赋。当这个女人做好后，宙斯给她起名为Pandora（潘多拉），让她带着一个宝盒来到人间，并欲擒故纵地警告她不要打开盒子。埃庇米修斯不顾普罗米修斯的警告，娶了潘多拉为妻。潘多拉果然禁不起好奇心，打开了宝盒，放出了里面的各种灾难，仅仅保留了希望在里面。  
+			2. 潘多拉的名字Pandora是“众神的礼物”的意思。在希腊语中，pan表示“所有”，英语词根pan-（全部）便来源于此；dora的意思是“礼物”，源自原始印欧语词根do-（给），英语词根do-/don-与此同源。  
+			3. pan-：所有  
+			4. pandemic： [pæn'demɪk] adj.全国流行的，普遍的n.流行性疾病  
+			5. panorama：[pænə'rɑːmə] n.全景，概观  
+			6. pansophic：adj.全知的，有广泛知识的  
+		3. do-/don-：给，赠送，捐赠  
+			1. donor： ['dəʊnə; -nɔː] n.捐赠者  
+			2. donate：[də(ʊ)'neɪt] n.v.捐献，捐赠  
+			3. pardon：['pɑːd(ə)n] n.vt.原谅  
+			4. dose：[dos] n. 剂量；一剂，一服v. 服药；给药  
+			5. dowry：['daʊri] n. 嫁妆；天资；亡夫遗产  
+			6. Dorothy：['dɒrəθɪ]  n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora。  
+		4. 2.dowry（嫁妆）：女子出嫁时娘家赠送的礼物  
+			1. 女子出嫁时，女方家庭向男方或新婚夫妇赠送一定的陪嫁礼物，这是全世界范围内通行的一项古老习俗。这种陪嫁礼物就是“嫁妆”，在英文中称为dowry。它源自拉丁语dotare，其中的do就是“赠送”的意思，如英语单词donate（捐赠）、endow（捐赠）。  
+			2. 娘家赠送嫁妆的原因，一方面是为新婚夫妇提供一定资助，帮助他们成家立业，另一方面还有比较深厚的社会历史原因。我们知道，古代社会是父权和夫权社会，女性地位低下，嫁入男方后就成了婆家的人，与娘家不再有瓜葛，也不能继承娘家的遗产，所以女性成家后几乎再也无法从娘家获得任何帮助。在这种背景下，娘家向出嫁女儿提供帮助的唯一途径就是结婚时的嫁妆了。  
+			3. 嫁妆的丰厚与否，与女儿日后在婆家的地位息息相关。在印度和孟加拉等地方，人们对嫁妆异常看重，甚至经常发生“索奁焚妻”这样的暴行。“索奁焚妻”指的是因为女方家庭拒绝男方的要求，不肯提供更多嫁妆，男方便杀害新婚妻子作为报复的事件，通常采取浇上汽油活活烧死的残忍手段。在印度，这一恶习屡禁不止，每年造成了大量女性的死亡。dowry一词在印度已经违背了“自愿捐赠”的本意，变成了女方家庭的一项沉重负担。  
+			4. dowry：['daʊ(ə)rɪ] n.嫁妆，天资，亡夫的遗产  
+			5. dower：['daʊə] n. 天赋；嫁妆；亡夫遗产vt. 给以嫁妆；给以产业  
+			6. donate：['donet] n.v.捐赠  
+			7. endow： [ɪn'daʊ; en-] vt.赋予，捐赠，天生拥有  
+		5. 3.condone（宽恕）：对通奸行为的有条件宽恕  
+			1. 在西方历史中人们通常将通奸视为犯罪，并制定了严格的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸”的红色A字。  
+			2. 这种情况到了19世纪下半叶才有所改观。1857年，英国通过“婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯为条件的宽恕。英语单词condone源自拉丁文condonare。其中，con为强化语气的前缀，donare表示“给予”，字面意思就是“宽恕，放弃追究权利”。源自拉丁文donare的单词还有donate（捐献）、pardon（原谅）。  
+			3. condone： [kən'dəʊn] vt.宽恕，赦免  
+			4. condonation： [,kɒndəʊ'neɪʃən] n.（夫妻间对对方通奸行为的）宽恕，赦免，赎罪  
+			5. donate：[də(ʊ)'neɪt] v.n.捐赠，捐献。记：don给予+ate动词后缀→赠送给别人  
+			6. pardon： ['pɑːd(ə)n] v.n.原谅，赦免，宽恕
+	7. dote
 		1. 1 - 来自低地德语，糊涂，愚蠢。溺爱义可能来自 don,给予，词源同 data,donate.
 		2. vi. 昏聩, 溺爱
 		3. _v._ [senesce](dic://senesce), [age](dic://age), [get on](dic://get on), [mature](dic://mature), [maturate](dic://maturate), [love](dic://love)
@@ -4102,21 +4191,21 @@
 			1. [second childhood](dic://second childhood), [senility](dic://senility)
 			2. _n._ [old age](dic://old age), [years](dic://years), [age](dic://age), [eld](dic://eld), [geezerhood](dic://geezerhood)
 			3. **retirement**退休;**geriatric**老年医学的;**adulthood**成人期;**eighties**八十几;**age**年龄;**frail**虚弱的;**oblivion**遗忘;**folly**愚蠢;**ageing**【英】变老，成熟;
-	6. dowry, dotal, dowager, dower
-	7. extradite
+	8. dowry, dotal, dowager, dower
+	9. extradite
 		1.  - ex-,向外，-trad,转让，移交，词源同 tradition.
 		2. vt. 引渡, 获取(逃犯等)的引渡
 		3. extradition
 		4. extraditable
-	8. pardon
+	10. pardon
 		1. pardoner
 		2. pardonable
-	9. perdition
-	10. bulldoze
-	11. condiment
+	11. perdition
+	12. bulldoze
+	13. condiment
 		1. con-一起 + di-给予 + -ment名词后缀 → 放到一起，能给出（美味） → 调味品。
 		2. **ketchup**番茄酱;**sauces**调味酱，调味汁;**mayonnaise**蛋黄酱;**sauce**调味汁;**chutney**酸辣酱;**pickles**腌渍物;**flavoring**调味品,调味料;**seasoning**调味品, 佐料;**pickle**腌汁;**vinaigrette**色拉调味汁;**spice**香料;
-	12. condone
+	14. condone
 		1. condone（宽恕）：对通奸行为的有条件宽恕  
 		2. 在西方历史中人们通常将通奸视为犯罪，并制定了严格的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸”的红色A字。  
 		3. 这种情况到了19世纪下半叶才有所改观。1857年，英国通过“婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯为条件的宽恕。英语单词condone源自拉丁文condonare。其中，con为强化语气的前缀，donare表示“给予”，字面意思就是“宽恕，放弃追究权利”。源自拉丁文donare的单词还有donate（捐献）、pardon（原谅）。  
@@ -4128,7 +4217,7 @@
 		9. **condemn**判刑，定罪;**endorse**赞同;**tolerate**忍受;**denounce**谴责;**disrespect**失礼,无礼;**discourage**使气馁;**immoral**不道德的;**despicable**可鄙的,卑鄙的;**disapprove**不赞成;**prohibit**阻止，禁止;**criticize**评论, 批评;
 		10. condonation
 		11. condonable
-	14. dose
+	15. dose
 		1. predose, overdose, minidose, microdosimetry
 		2. microdose
 		3. iosdose
@@ -4141,61 +4230,92 @@
 		8. dosimeter
 		9. dosifilm
 		10. doser
+			1. - n. 剂量仪；定量给料器
 		11. dosage
-	15. donate
+	16. donate
 		1. donator
 		2. donative
 		3. donatism
 		4. donation
-	16. edit
-		1. unedited
-		2. subedit
-		3. re-edit, preedit, postedit
-		6. copy-edit
-	17. endow
-		1. unendowed
-		2. endowment
-		3. disendowment
-		4. disendow
-	18. Pandora
+	17. edit
+		1. e-出 + dit-给予 → 给出好文章 → 编辑。
+		2. unedited
+		3. subedit
+		4. re-edit, preedit, postedit
+		5. copy-edit
+		6. editor
+		7. edition
+		8. editing
+	18. endow (endorse)
+		1. dowry（嫁妆）：女子出嫁时娘家赠送的礼物  
+		2. 女子出嫁时，女方家庭向男方或新婚夫妇赠送一定的陪嫁礼物，这是全世界范围内通行的一项古老习俗。这种陪嫁礼物就是“嫁妆”，在英文中称为dowry。它源自拉丁语dotare，其中的do就是“赠送”的意思，如英语单词donate（捐赠）、endow（捐赠）。  
+		3. 娘家赠送嫁妆的原因，一方面是为新婚夫妇提供一定资助，帮助他们成家立业，另一方面还有比较深厚的社会历史原因。我们知道，古代社会是父权和夫权社会，女性地位低下，嫁入男方后就成了婆家的人，与娘家不再有瓜葛，也不能继承娘家的遗产，所以女性成家后几乎再也无法从娘家获得任何帮助。在这种背景下，娘家向出嫁女儿提供帮助的唯一途径就是结婚时的嫁妆了。  
+		4. 嫁妆的丰厚与否，与女儿日后在婆家的地位息息相关。在印度和孟加拉等地方，人们对嫁妆异常看重，甚至经常发生“索奁焚妻”这样的暴行。“索奁焚妻”指的是因为女方家庭拒绝男方的要求，不肯提供更多嫁妆，男方便杀害新婚妻子作为报复的事件，通常采取浇上汽油活活烧死的残忍手段。在印度，这一恶习屡禁不止，每年造成了大量女性的死亡。dowry一词在印度已经违背了“自愿捐赠”的本意，变成了女方家庭的一项沉重负担。  
+		5. dowry：['daʊ(ə)rɪ] n.嫁妆，天资，亡夫的遗产  
+		6. dower：['daʊə] n. 天赋；嫁妆；亡夫遗产vt. 给以嫁妆；给以产业  
+		7. donate：['donet] n.v.捐赠  
+		8. endow： [ɪn'daʊ; en-] vt.赋予，捐赠，天生拥有
+		9. unendowed
+		10. endowment
+		11. disendowment
+		12. disendow
+	19. Pandora
 		1. 腊神话中的第一个女凡人，因 Prometheus 把火把从天上带到人间，宙斯为惩罚他，合众神之力，创造出一个无比美丽但没有智慧的女子 Pandora,派她到人间成为 Prometheus 的弟弟Epimetheus 的妻子，并送她一个盒子作为礼物，即充满各种灾难的潘多拉魔盒，并再三警告她不要将这个盒子打开。但很不幸，在好奇心的驱使下，魔鬼被打开了，各种灾难降临人间，仅希望留在盒子里。Pandora 字面意思为众神的礼物，来自 pan-,全，泛，-dora,给，礼物，嫁妆，词源同 data,dowry.Prometheus 字面意思为先知，智者，Epimetheus 字面意思为后知，笨蛋。
-	19. paradoner
-	20. apodosis
-	21. data
-	22. dative
-	23. mandate
+	20. paradoner
+	21. apodosis
+	22. data
+	23. dative
+	24. mandate
 		1. mandatum
 		2. mandatory
 		3. mandator
 2. **rend-** = give
-	1. render
-		1. 1 - 来自古法语 rendre,给回，呈现，出产，来自俗拉丁语*rendere,给予，给回，异化自 reddere,返回，给予，来自 red-,向后，往回，dare,给予，来自 PIE*do,给予，词源同 donate,edit.引申诸相关词义。
-		2. [supply](dic://supply), [provide](dic://provide), [furnish](dic://furnish)
-		3. [interpret](dic://interpret)
-		4. [yield](dic://yield), [return](dic://return), [give](dic://give), [generate](dic://generate)
-		5. [deliver](dic://deliver), [return](dic://return)
-		6. [submit](dic://submit)
-		7. [return](dic://return)
-		8. [hand over](dic://hand over), [fork over](dic://fork over), [fork out](dic://fork out), [fork up](dic://fork up), [turn in](dic://turn in), [get in](dic://get in), [deliver](dic://deliver)
-		9. [picture](dic://picture), [depict](dic://depict), [show](dic://show)
-		10.  [give](dic://give)
-		11. [translate](dic://translate), [interpret](dic://interpret)
-		12. [try](dic://try)
-		13. _n._ [stucco](dic://stucco)
-		14. _v._ [make](dic://make), [get](dic://get), [give](dic://give), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [produce](dic://produce)
+	1. render (render, confer, incur, garner, )
+		1. 来自古法语 rendre,给回，呈现，出产，来自俗拉丁语*rendere,给予，给回，异化自 reddere,返回，给予，来自 red-,向后，往回，dare,给予，来自 PIE*do,给予，词源同 donate,edit.引申诸相关词义。
+		2. - v. 使成为，使处于某种状态；给予，提供；（以某种方式）表达，表现；粉刷，往（墙上）抹灰；将（脂肪）熬成油，使熔化；正式宣布（判决或决定）；（供审查，考虑）提交，呈报；<文>放弃，献出；演奏，演唱；翻译；绘制（指用色彩和明暗使轮廓图像具立体感）；秘密引渡（外国罪犯、恐怖嫌疑犯）；从（动物身体）提取（蛋白质、脂肪及其他可用部分） 
+		3. n. 底灰，底泥；<史>交纳
+		4. [supply](dic://supply), [provide](dic://provide), [furnish](dic://furnish)
+		5. [interpret](dic://interpret)
+		6. [yield](dic://yield), [return](dic://return), [give](dic://give), [generate](dic://generate)
+		7. [deliver](dic://deliver), [return](dic://return)
+		8. [submit](dic://submit)
+		9. [return](dic://return)
+		10. [hand over](dic://hand over), [fork over](dic://fork over), [fork out](dic://fork out), [fork up](dic://fork up), [turn in](dic://turn in), [get in](dic://get in), [deliver](dic://deliver)
+		11. [picture](dic://picture), [depict](dic://depict), [show](dic://show)
+		12.  [give](dic://give)
+		13. [translate](dic://translate), [interpret](dic://interpret)
+		14. [try](dic://try)
+		15. _n._ [stucco](dic://stucco)
+		16. _v._ [make](dic://make), [get](dic://get), [give](dic://give), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [produce](dic://produce)
 			1. [make](dic://make) 普通用词，指强迫或劝诱他人做某事。 
 			2. [cause](dic://cause) 正式用词，侧重指使某事发生的原因。
 			3. [get](dic://get) 侧重指劝某人做某事，或指使某事物处于某种状态或产生某种结果。
 			4. [have](dic://have) 普通用词，指让某人做某事。
 			5. [render](dic://render) 书面用词，多指因外界因素而使某人或某物处于某种状态。
-		15. **animate**使有生气;**unusable**不能用的;**useless**无用的;**make**做;**enable**使能够，使成为可能;**deem**认为，视作;**furnish**供应;**transform**改变;**obtain**获得;**therefore**因此, 为此, 所以;**compose**作曲;
-		16. _account rendered_ [经]结欠清单
-		17. _render services_ 提供服务
-		18. _render an account_ 报帐；开送账单
-		19. unrendered
-		20. rendering
+		17. **animate**使有生气;**unusable**不能用的;**useless**无用的;**make**做;**enable**使能够，使成为可能;**deem**认为，视作;**furnish**供应;**transform**改变;**obtain**获得;**therefore**因此, 为此, 所以;**compose**作曲;
+		18. _account rendered_ [经]结欠清单
+		19. _render services_ 提供服务
+		20. _render an account_ 报帐；开送账单
+		21. render a bill /开账单
+		22. a literal rendering of an idiom /成语的直译。
+		23. the rendering of Church dues. /教会会费的缴纳。
+		24. They will render blow for blow /他们将以牙还牙。
+		25. render a contract null and void. /使合同无效
+		26. The fat looks to have rendered away. /脂肪看来已经消失了。
+		27. The model minority myth renders all those distinctions moot. /少数模范人物的神话把这些差异全都抹煞了。
+		28. A correct proof would essentially render all modern encryption obsolete. /此问题正确的证明基本上能使所有现代的加密方法都失效。
+		29. It's a concept that is difficult to **render** into English /这个概念难以用英语来表达。
+		30. They couldn't resist anymore and decided to **render** up the city. /他们无法继续抵抗，决定放弃这座城市。
+		31. unrendered
+		32. rendering
 	3. rendition
-		1. **duet**二重奏;**ballad**歌谣，民谣;**song**歌曲;**version**译文;**singing**歌声;**accompaniment**伴唱;**anthem**赞美诗;**medley**混合;**depiction**描写;**interpretation**解释, 说明;**reminiscent**提醒的, 暗示的;
+		1. _n._ [performance](dic://performance), [public presentation](dic://public presentation), [explanation](dic://explanation)
+		2. **duet**二重奏;**ballad**歌谣，民谣;**song**歌曲;**version**译文;**singing**歌声;**accompaniment**伴唱;**anthem**赞美诗;**medley**混合;**depiction**描写;**interpretation**解释, 说明;**reminiscent**提醒的, 暗示的;
+		3. a pale rendition of the aria. /独唱曲的无力表演
+		4. She gave a splendid rendition of the song. /这首歌她唱得动听极了。
+		5. Italian furniture company Natuzzi is using HoloLens 2 to show customers virtual renditions of pieces /意大利家具公司Natuzzi正在使用Hololens 2向客户展示作品的虚拟再现。
+		6. I quite like this rendition of a chef's jacket. /我很喜欢这种厨师夹克的形象。
+		7. But one of its most famous renditions tells the story without a single word. /然而，它有一种最著名的呈现方式，无需语言就能讲述这个故事
 	4. surrender
 		1. surrenderor
 		2. surrenderee
@@ -4223,20 +4343,23 @@
 	6. dorsigrade
 	7. dorsiventralz
 4. dossy
-5. endorse
-	1. **condone**宽恕;**approve**批准;**condemn**判刑，定罪;**oppose**反对;**denounce**谴责;**imply**暗示;**wholeheartedly**尽力;**recommend**推荐;**agree**同意;**affiliated**附属的;**authorize**授权, 批准;
-	2. unendorsed
-	3. endorser
-	4. endorsement
-	5. endorsee
-	6. endorsable
-6. indorse = endorse
+5. endorse (endow)
+	1. vt. 支持, 赞同, 背书于, 签署
+	2.  en-,进入，使，-dors,背，见 dorsal.财务术语，即在背后签字。
+	4. **condone**宽恕;**approve**批准;**condemn**判刑，定罪;**oppose**反对;**denounce**谴责;**imply**暗示;**wholeheartedly**尽力;**recommend**推荐;**agree**同意;**affiliated**附属的;**authorize**授权, 批准;
+	5. 
+	6. unendorsed
+	7. endorser
+	8. endorsement
+	9. endorsee
+	10. endorsable
+7. indorse = endorse
 	1. in-进入 + dors-背 + -e
 	2. indorser
 	3. indorsement
 	4. indorsee
 	5. indorsation
-7. parados
+8. parados
 
 
 

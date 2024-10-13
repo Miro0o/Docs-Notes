@@ -131,6 +131,16 @@
 		5. exegetical, exegetically
 		6. exegetics
 	9. forsake
+		1. forgo [abandon](dic://abandon), [desolate](dic://desolate), [desert](dic://desert)
+		2. _v._ [leave](dic://leave)
+			1. [abandon](dic://abandon) 强调永远或完全放弃或抛弃人或事物等，这可能是被迫的，也可能是自愿的。  
+			2. [desert](dic://desert) 着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。  
+			3. [forsake](dic://forsake) 侧重断绝感情上的依恋，自愿抛弃所喜欢的人或物。也指抛弃信仰或改掉恶习。  
+			4. [leave](dic://leave) 普通用词，指舍弃某事或某一职业，或终止同一某人的关系，但不涉及动机与果。  
+			5. [give up](dic://give up) 普通用语，侧重指没有希望或因外界压力而放弃
+		3. **abandon**离弃;**shun**避开, 回避, 避免;**betray**背叛;**renounce**宣布放弃;**repent**忏悔;**perish**毁灭;**leave**离开;**despise**轻视，鄙视;**obey**服从，听从;**relinquish**交出, 让给;**depart**离开;
+		4. I won't forsake my vegetarian principles. /我不会放弃素食原则。
+		5. I knew you wouldn't forsake me just when I need you most. /“我知道，在我最需要你的时候，你是不会丢下我的。”
 	10. ransack
 		1. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [pillage](dic://pillage), [foray](dic://foray)
 		2. [comb](dic://comb)
@@ -602,9 +612,13 @@
 		8. **opulent**富裕的;**minimalist**极简抽象艺术的;**contemplative**沉思的;**uncompromising**不让步的;**austerity**严厉;**somber**昏暗的;**understated**不夸张的;**harsh**粗糙的;**elegant**高雅的，优雅的;**stark**僵硬的, 光秃秃的, 荒凉的;**aloof**冷淡的;
 	3. austerity
 2. sear
-	1. [scorch](dic://scorch)
-	2. [scorch](dic://scorch), [singe](dic://singe)
-	3. [char](dic://char), [blacken](dic://blacken), [scorch](dic://scorch)
+	1. vt. 烤焦；使……枯萎 
+	2. vi. 干枯；烧焦；凋谢 
+	3. adj. 枯萎的；烤焦的 
+	4. n. 烙印；烧焦痕迹
+	5. [scorch](dic://scorch)
+	6. [scorch](dic://scorch), [singe](dic://singe)
+	7. [char](dic://char), [blacken](dic://blacken), [scorch](dic://scorch)
 	4. [parch](dic://parch)
 	5. [dried-up](dic://dried-up), [sere](dic://sere), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [withered](dic://withered)
 	6. _v._ [heat](dic://heat), [heat up](dic://heat up), [burn](dic://burn), [combust](dic://combust), [dry](dic://dry), [dry out](dic://dry out)
@@ -614,13 +628,39 @@
 	10. _[searing](dic://searing)_  adj. 灼热的; v. 使枯萎（sear的ing形式）; n. (Searing)人名；(英)西林; 
 	11. _[sears](dic://sears)_  v. 烧灼；将（印象、记忆）铭刻在心；轻煎（食物）；（疼痛）突发；（使）凋谢；（使）变冷酷（sear 的第三人称单数）; n. (Sears) （美）西尔斯（人名）; 
 	12. _[the sear tower](dic://the%20sear%20tower)_  西尔斯塔
-3. sere
-4. sorrel
-	1. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [hibiscus](dic://hibiscus), [greens](dic://greens), [green](dic://green), [leafy vegetable](dic://leafy vegetable), [horse](dic://horse)
-	2. _adj._ [chromatic](dic://chromatic)
-	3. _n._ [achromatic](dic://achromatic)
-	4. **chestnut**栗子;**parsley**荷兰芹，欧芹;**thyme**百里香;**rhubarb**大黄;**dill**莳萝;**mare**母马;**herb**香草，药草;**stallion**种马;**colt**小马;**gelding**去势;**chives**香葱，细香葱;
-5. surmullet
+	13. You get a great sear on it, both sides. /煎到微焦，两面都是。
+	14. You know you can really sear the steak instead of boil it. /你知道牛肉用来煎要比煮的更好。
+	15. Yes, 'cause I want some real colour on this as I sear it. /是的，因为我想在烤的时候能给它上色。
+	16. But you have searing blue eyes. - Green eyes. /但你有一双炽热的蓝眼睛。- 绿眼睛。
+	17. Back in this country, authorities in California warned of potential blackouts as a heat wave seared the state. /回到美国新闻，加利福尼亚州当局警告称，受热浪影响，该州可能会停电。
+1. sere
+	1. a. 干枯的  
+	2. n. 演替系列
+	3.  [dried-up](dic://dried-up), [sear](dic://sear), [shriveled](dic://shriveled), [shrivelled](dic://shrivelled), [withered](dic://withered)
+	4. _adj._ [dry](dic://dry)
+	5. _n._ [wet](dic://wet)
+	6. **barren**贫瘠的;**arid**干旱的;
+	7. sere vegetation at the edge of the desert. /沙漠边缘上干枯的植物
+	8. Grasshoppers skipped briskly in the sere grass, and crickets chirped like fairy pipers at a feast. /蚱蜢在枯草丛中活跃地蹦跳，蟋蟀唧唧地叫着，就像神话中宴会上的风笛手。
+	9. My leaves are sere and yellow, and the neighbouring trees are divested of their foliage /我的叶子又干又黄， 附近的树都掉光了。
+	10. Never mind; let me welcome truth, albeit in such sere and sorry garb, and look forward to the time when I shall be able to do so unmoved, as does my photograp /让我欢迎真相， 尽管穿着如此朴素和令人遗憾的外衣， 并期待有一天我能够像我的照片一样不动声色地做到这一点。
+	11. The landscape, brown and **sere** beneath the sun /烈日之下的景色，一片枯黄憔悴
+2. sorrel
+	1. n. 栗色；栗色毛的动物（等于 sorel）；酢浆草属 
+	2. adj. 栗色的；红褐色的
+	3.  [oxalis](dic://oxalis), [wood sorrel](dic://wood sorrel)
+	4.  [dock](dic://dock), [sour grass](dic://sour grass)
+	5.  [roselle](dic://roselle), [rozelle](dic://rozelle), [red sorrel](dic://red sorrel), [Jamaica sorrel](dic://Jamaica sorrel), [Hibiscus sabdariffa](dic://Hibiscus sabdariffa)
+	6.  [common sorrel](dic://common sorrel)
+	7.  [brownish-orange](dic://brownish-orange)
+	8. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [hibiscus](dic://hibiscus), [greens](dic://greens), [green](dic://green), [leafy vegetable](dic://leafy vegetable), [horse](dic://horse)
+	9. _adj._ [chromatic](dic://chromatic)
+	10. _n._ [achromatic](dic://achromatic)
+	11. **chestnut**栗子;**parsley**荷兰芹，欧芹;**thyme**百里香;**rhubarb**大黄;**dill**莳萝;**mare**母马;**herb**香草，药草;**stallion**种马;**colt**小马;**gelding**去势;**chives**香葱，细香葱;
+	12. A chiffonade, we use sorrel, or basil, or spinach. /我们使用酢浆草、罗勒或菠菜制作细丝。
+	13. I am no more lonely than a single mullein or dandelion in a pasture, or a bean leaf, or **sorrel**, or a horse-fly, or a bumblebee /我并不比牧场上的一朵毛蕊花、一支蒲公英、一片豆叶、一束酢浆草、一只马蝇或一只大黄蜂更孤独。
+	14. "I am sure Peter has eaten **sorrel** again, and that makes him groan so," said his mother /“我相信彼得一定又吃了酸模，才这样呻吟。”他母亲说。
+3. surmullet
 
 
 
@@ -2068,7 +2108,7 @@
 			3. **assimilation**同化;**consonant**辅音;**vowel**元音;**vowels**元音，母音;**pronunciation**发音;**syllable**音节;**derivation**发展;**phonetic**语音的，语音学的;**dialects**乡土语言，方言;**fermentation**发酵;**colonization**殖民地的开拓,殖民;
 			4. The incline of self-hobbling, which meals debasing his or other people" moral expectation through brickbat, is a dissimilation to the function of impulsing an individual take action /通过自贬性自我道德预言，放低他人、自己对自身的道德要求的自我阻碍倾向，是行为动力功能异化的反映。
 			5. What is assimilation, **dissimilation** and metathesis? /什么是同化、异化和换位？
-	4. dissemble (dissimulate)
+	4. dissemble (disassemble, dissimulate, dissipate,)
 		1. vt. 掩饰，掩盖；假装; vi. 隐藏，掩饰（思想、感情等）;
 		2. _vt._ 假装；掩饰(感情、意图等)
 		3. dis-不 + semble【相同】 → 不相同装做相同 → 掩饰。
@@ -2203,7 +2243,9 @@
 		5. **mimic**模仿，摹拟;**replicate**复制;**visualize**在脑中使形象化, 设想, 想像;**emulate**与…竞争, 努力赶上;**imitate**模仿，仿效;**recreate**娱乐;**predict**预报，预言;**analyze**对…进行分析，分解;**simulator**模拟装置,模拟器;**create**造成;**characterize**是…的特征, 以…为特征;
 		6. dissimulate (dissemble)
 			1. dis-强调，整个的 + simulate【假装，模仿】。即模仿出来的，看起来像真的。
-			2. dissimilator, dissimulation
+			2. _v._ [disguise](dic://disguise)
+			3. **conceal**隐藏;**deceive**欺骗;**betray**背叛;**pretend**假装;**disguise**假装;**hide**隐藏;**countenance**面容，表情;**exaggerate**扩大, 增加;**pretended**假装的;**moreover**此外;**seduce**引诱;
+			4. dissimilator, dissimulation
 	15. same
 		7. selfsame
 			1. _adj._ [same](dic://same)
@@ -2421,7 +2463,9 @@
 			4. [comply](dic://comply) 指答应某人已经提出或可能要求做的某事，与with连用。  
 			5. [subscribe](dic://subscribe) 指完全地赞成已阐明的立场。多用于比较愿意支持一种立场或为一种立场所辨护的情况。
 		4. **permission**允许, 许可, 准许;**assent**赞成;**authorization**授权,批准;**authorisation**授权;**approval**赞成;**agreement**协定, 协议, 契约;**agreeing**同意;**prior**在先的，在前的;**consensual**经双方同意的, 一致同意的;**decree**法令;**expressly**清楚地;
-		5. consensus
+		5. consensus (censure, censor) (accord, consensus, congruity, conformity, consistency) (discord, dissonance, discrepancy, disparity)
+			1. con-共同 + sens-感觉 + us → 感觉一致。
+			2. n. 合意, 一致, 同感
 		6. consentingly
 		7. consentient
 		8. consentience
@@ -3662,7 +3706,9 @@
 
 ### + \*skribh- + = to cut, separate, sift
 1. **scrib-,script-** = write, 表示“写”，原始含义“刻、削”，变体形式有 scrab-, scrap- 等。源自拉丁语 scribere (过去分词 scriptus) "to write."
-	1. scribe
+	1. crab
+		1. ker-(2): curt-, scr-, shr-
+	2. scribe
 		1. scribe（写）：古代用铭刻的方式来写字  
 		2. 古代，在墨水发明之前，人们都是用铭刻的方式来写字的，即用尖刻之物在竹简、木板、泥版、蜡板等书写材料上刻画。所以在英语单词中，表示“写”的单词scribe及由此衍生的词根scribe-还含有“刻”的含义。如inscribe，既表示“题写”，也表示“铭记”。英语单词scribe来自拉丁语scribere，本意是“刻”。与它同源的单词有：script（脚本）、prescribe（开处方）、describe（描述）、manuscript（手稿）等。  
 		3. 而英语中表示“写”的更常用单词write来自古日耳曼语，本意是scratch（刮擦）。  
@@ -3691,12 +3737,12 @@
 		11. scribal
 		12. scribble
 		13. scriber
-	2. adscript
-	3. ascribe
+	3. adscript
+	4. ascribe
 		1. a- + scrib-写 + -e → 把…写上去 → 归因于。
 		2. ascription
 		3. ascribable
-	4. circumscribe
+	5. circumscribe
 		1. _v._ [trace](dic://trace), [draw](dic://draw), [line](dic://line), [describe](dic://describe), [delineate](dic://delineate), [decrease](dic://decrease), [lessen](dic://lessen)
 		2. **constrain**强迫, 强使;**confine**限制;**define**定义;**restrict**限制;**encompass**围绕;**curtail**截断, 缩短;**restrain**抑制，控制;**extend**延伸;**regulate**调节，规定;**redefine**重新定义;**constrained**不舒服的,被强迫的,拘泥的;
 		3. circumscribe a city on a map /在地图上圈出一个城市
@@ -3883,7 +3929,7 @@
 		24. scrappy
 		25. scrapbook
 		26. scrap-iron
-	25. scrape
+	24. scrape
 		1. 来自古英语 scrapian,刮，擦，来自 Proto-Germanic*skrapona,刮，擦，来自 PIE*skerb,扩大形式自 PIE*sker,砍，切，削，刮，词源同 share,shear,scribe.引申诸相关词义。
 		2. v. 刮, 擦, 挖; 擦坏, 擦伤; 艰难取得; 挖坑  
 		3. n. 刮, 刮擦声; 擦伤, 擦痕; 困境
@@ -3938,7 +3984,7 @@
 			3. **sausage**香肠;**bacon**熏猪肉;**pancakes**薄烤饼;**brisket**胸肉;**lard**猪油;**waffles**华夫饼干;**sausages**香肠， 腊肠;**ham**火腿;**fried**油炸的，油煎的;**pancake**薄烤饼;**Philly**费城;
 		48. scraping
 		49. scraper
-	27. scrabble
+	25. scrabble
 		1. 改写自 scrape,刮，擦，-le,表反复。引申词义乱翻，乱找。
 		2. v. （忙乱地）扒寻，摸索；（为了找到或抓牢）抓，摸；（动物）用爪子乱抓，挣扎；乱涂；在……上乱扒；快爬；努力，尽力；苦求 
 		3. n. 抓，扒；摸索；努力，尽力；挣扎；涂鸦；（Scrabble）（商标）拼字游戏
@@ -3957,7 +4003,7 @@
 		16. scrabble about for sth. dropped under the table /扒来扒去(或摸索着)寻找掉在桌下的某物
 		17. The memory of thousands of years scrabbling for food faded /数千年艰苦觅食的记忆逐渐淡忘。
 		18. We're not playing naughty word scrabble. You just have a dirty mind /我们没玩什么“拼脏字”游戏，是你自己思想肮脏。
-	28. scratch
+	26. scratch
 		1. v. （用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）；（用爪子）抓，刨；（鸟、哺乳动物，尤指鸡）用嘴（或爪子）扒地找食物；寻觅（难找的人或物）（scratch for）；艰难生活（scratch along）；勾掉，划去（写下的字）；<非正式> 仓促写下；（用尖利物）刮擦出声音；<非正式> 取消，撤销（想法或计划）；<非正式>（使）退出比赛；（用刮擦技法）播放唱片 
 		2. n. （某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠；刮擦声 ；唱片的嚓嚓声（指唱片纹道与唱针的摩擦噪声）；刮擦（多用于快板乐中，用手制止唱片转动，使其来回移动发出有节奏的嚓嚓声的技巧）；（高尔夫）零让步（表明选手不弱，能在场上达到规定击球的次数）；<非正式> 钱 
 		3. adj. （球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫球员）无让杆的，无让步优待的；碰巧的；打草稿用的
@@ -4022,7 +4068,7 @@
 			1. n. 搔背用的小扒子
 		38. microscratch
 		39. backscratcher
-	29. scrawl
+	27. scrawl
 		1. 可能来自 scribe,写，拼写受影响于 sprawl,蔓延，杂乱无章的展开。引申词义潦草的写。
 		2. vt. 潦草地写
 		3. vi. 乱写
@@ -4287,11 +4333,15 @@
 1. **com-** = banquet, 表示“宴会”，希腊 komos "狂欢", 进入拉丁语后 k->c。
 	1. comedy
 	2. comic
-	3. comity
-	4. encomiast, encomium
-		1. **praise**赞扬;**praises**赞扬;**epithet**词语;**honourable**诚实的, 正直的;**remark**评论;**treatise**论文;**eloquent**雄辩的，有口才的;**anecdote**奇闻;**scathing**严厉的;**admiration**钦佩;**honorable**可敬的,荣誉的,光荣的;
-	5. seriocomic
-	6. tragicomic
+	3. comity 
+	5. encomium _[panegyric ode encomium eulogy](dic://panegyric%20ode%20encomium%20eulogy)_ 四大颂歌
+		1. opprobrium
+		2.  [eulogy](dic://eulogy), [panegyric](dic://panegyric), [paean](dic://paean), [pean](dic://pean)
+		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment)
+		4. **praise**赞扬;**praises**赞扬;**epithet**词语;**honourable**诚实的, 正直的;**remark**评论;**treatise**论文;**eloquent**雄辩的，有口才的;**anecdote**奇闻;**scathing**严厉的;**admiration**钦佩;**honorable**可敬的,荣誉的,光荣的;
+		5. encomiast
+	7. seriocomic
+	8. tragicomic
 2. **mir-** = wonder, look, 表示“惊奇，看”。源自拉丁语 mirus "wonderful." 
 	1. admire
 		1. ad-一再 + mir-看 + -e → 一再让人看 → 羡慕。
@@ -6802,12 +6852,23 @@
 		1. soul-destroy
 		2. destroyer
 	7. construe
-		1. **interpret**解释;**infer**推断;**preclude**妨碍;**affirm**断言;**perceive**察觉，感觉;**presume**假定;**assert**断言;**consider**认为;**plainly**平坦地;**insofar**在…的范围;**intend**打算;
-		2. [interpret](dic://interpret), [see](dic://see)
-		3. misconstrue
+		1. con-强调 + -str, 拉长，展开，词源同structure, instruct. 即展开的，使便于理解的。
+		2. vt. 解释, 分析, 对...逐字直译  
+		3. vi. 作句法分析  
+		4. n. 直译
+		5. **interpret**解释;**infer**推断;**preclude**妨碍;**affirm**断言;**perceive**察觉，感觉;**presume**假定;**assert**断言;**consider**认为;**plainly**平坦地;**insofar**在…的范围;**intend**打算;
+		6. [interpret](dic://interpret), [see](dic://see)
+		7. Our chief representative's withdrawal was construed as a protest. /我们的首席代表的退场被看作是一种抗议的表示。
+		8. his words could hardly be construed as an apology. /他的话很难被看做道歉。
+		9. You may construe the statement of the government spokesman in a number of different ways /政府发言人的声明可以有好几种解释。
+		10. Even a simple expression of sympathy could be construed as an admission of guilt /即使是出于同情 也会被曲解成犯罪行为。
+		11. Strictly construed, his car is his property, Mr. Gardner. /遵循严格解释原则 他的车属于他的财产。
+		12. Being fussy about punctuality might be construed as being difficult, off-hand. /对准时过分挑剔可能会被解释为困难重重、漫不经心。
+		13. misconstrue
 			1. **misunderstand**误会, 误解;**misread**读错;**interpret**解释;**confuse**使混乱;**ignore**驳回诉讼，忽视，不理睬;**misunderstanding**误会;**contradict**矛盾;**understand**懂;**disregard**不顾, 不理会, 无视;**criticize**评论, 批评;**mislead**误导;
 			2. [interpret](dic://interpret), [construe](dic://construe), [see](dic://see)
-		4. construable
+		14. 
+		15. construable
 	8. industry
 		1. subindustry
 		2. multi-industry
@@ -6856,14 +6917,15 @@
 1. strip, strips
 2. stirpiculture, stirpicultural
 3. extirpate
-	1. **eradicate**摧毁,完全根除;**eradicated**画着根的;**destroy**毁坏;**expel**驱逐;**abolish**废除，废止;**eradication**根除;**subdue**征服;**extinguish**使熄灭, 扑灭;**scourge**鞭打;**eliminate**消除, 排除;**suppress**抑制;
-	2. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process), [pull](dic://pull), [pulling](dic://pulling)
-	3. extirpator
-	4. extirpation
-	5. _[To surround and extirpate Brigands](dic://To%20surround%20and%20extirpate%20Brigands)_ 兜剿土匪
-	6. _[Health education of extirpate drug](dic://Health%20education%20of%20extirpate%20drug)_ 禁毒健康教育
-	7. _[extirpate weeds](dic://extirpate%20weeds)_ 根除杂草
-	8. extirpate superstition
+	1. ex-,向外，-stirp,根，主干，词源同 stand.即根除。
+	2. **eradicate**摧毁,完全根除;**eradicated**画着根的;**destroy**毁坏;**expel**驱逐;**abolish**废除，废止;**eradication**根除;**subdue**征服;**extinguish**使熄灭, 扑灭;**scourge**鞭打;**eliminate**消除, 排除;**suppress**抑制;
+	3. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process), [pull](dic://pull), [pulling](dic://pulling)
+	4. extirpator
+	5. extirpation
+	6. _[To surround and extirpate Brigands](dic://To%20surround%20and%20extirpate%20Brigands)_ 兜剿土匪
+	7. _[Health education of extirpate drug](dic://Health%20education%20of%20extirpate%20drug)_ 禁毒健康教育
+	8. _[extirpate weeds](dic://extirpate%20weeds)_ 根除杂草
+	9. extirpate superstition
 
 
 ### + \*strep- + = to make a noise
@@ -6964,8 +7026,16 @@
 		2. _[standardize and astrict](dic://standardize%20and%20astrict)_ 规制
 		3. _[keep to astrict budget](dic://keep%20to%20astrict%20budget)_ 遵守严格的预算
 	12. astringe
-		1. _v._ [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [contract](dic://contract), [press](dic://press), [constringe](dic://constringe)
-	13. constrain
+		1. vt. 扎缚, 使收缩, 使收敛
+		2. _v._ [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [contract](dic://contract), [press](dic://press), [constringe](dic://constringe)
+		3. And during autumn and winter, yang qi goes inward and astringes, qi and blood of the body tend to flow internally, causing less sweating and more urination /秋天和冬天，阳气内敛，身体气血趋向于里，出现出汗少、排尿多。
+		4. This is a method to restrain great joy impairing the heart and restore mental functions by applying fearful factors to **astringe** the dissipated cardiac spirit. /这是一种利用使人恐惧的事物收敛心力、抑制狂喜对心脏造成伤害，恢复心脏功能的方法。
+		5. 
+		6. astringent
+			1. a-=ad-去，往 + string-拉 + -ent。
+			2. n. 收敛剂  
+			3. a. 收敛性的, 严厉的, 涩的
+	14. constrain
 		1. _v._ [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		2. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。  
 		3. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。  
@@ -6977,7 +7047,7 @@
 			2. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
 		8. constringe
 			1. _constringe_  vt. 使收敛；使收缩；压缩
-	14. restrain (refrain)
+	15. restrain (refrain)
 		1. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
 		2.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [confine](dic://confine), [hold](dic://hold)
@@ -6985,7 +7055,7 @@
 		5.  [intimidate](dic://intimidate)
 		6. _v._ [prevent](dic://prevent), [keep](dic://keep), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check)
 		7. **curtail**截断, 缩短;**confine**限制;**subdue**征服;**constrain**强迫, 强使;**suppress**抑制;**inhibit**抑制;**stifle**使窒息;**restraining**抑制的,遏制的,控制的;**restrained**克制的,节制的,受到控制的;**restrict**限制;**compel**强迫，迫使;
-	15. restrict
+	16. restrict
 		1. [curtail](dic://curtail), [curb](dic://curb), [cut back](dic://cut back)
 		2.  [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [qualify](dic://qualify)
@@ -6995,10 +7065,10 @@
 			2. [confine](dic://confine) 侧重施加不可逾越的限制，有时暗示束缚、囚禁。  
 			3. [restrict](dic://restrict) 指把某人或物限制在一定范围之内。
 		6. **curtail**截断, 缩短;**prohibit**阻止，禁止;**limiting**限制的;**constrain**强迫, 强使;**inhibit**抑制;**allow**允许;**impede**阻止;**exclude**排除;**confine**限制;**limit**限度;**hinder**成为阻碍;
-	16. distrain
+	17. distrain
 		1. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
 		2. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
-	17. district
+	18. district
 		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
 		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
 		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
@@ -7010,8 +7080,8 @@
 		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
 		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
 		11.  [zone](dic://zone)
-	18. distress
-	19. prestige, prestigious
+	19. distress
+	20. prestige, prestigious
 		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
 		2. [prestigiousness](dic://prestigiousness)
 		3. _n._ [standing](dic://standing)
@@ -7026,18 +7096,33 @@
 		12. _[prestige motive](dic://prestige%20motive)_  声望动机
 2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
 	1. stripe
+		1. 形近字： stripe, 条纹。 strip, 条。 trip, 旅行。
+		2. n. 斑纹, 条纹
+		3. stripy
+		4. striped
+		5. pinstripe
 	2. striate
+		1. a. 有条纹的  
+		2. vt. 加条纹
+		3. 来自 stria,条纹，-ate,使，或形容词后缀。
 	3. strigose
 	4. strigous
+		1. a. 有细密槽纹的
 	5. stria
-3. stoke
-4. streak
-	1. _n._ [succession](dic://succession), [characteristic](dic://characteristic), [marking](dic://marking), [flash](dic://flash)
-	2. _v._ [move](dic://move), [run](dic://run), [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize)
-	3. **unbeaten**未被击败的;**winning**胜利的;**rivalry**竞争;
-5. strigil
-6. strike
-	1. 
+	6. stoke
+	7. streak
+		1. 1 - 来自古英语 strica,条纹，线痕，笔划，来自 Proto-Germanic*strikon,轻触，轻击，来自 PIE*streig,击，打，刮，词源同 strike,stroke.  
+		2. 2 - 改写自 streek,快走，疾行，方言变体自 stretch,展开，伸长，来自古英语 streccan,展开，伸长。词义裸奔来自一则小故事，在 1973 年，美国马里兰大学突然出现了几百人的裸奔队伍，一个记者偶然看到了这一幕，在报道时兴奋的大叫：“They are streaking past me right now.It's an incredible sight.”原义要表达的是，“他们刚刚在我身边跑过，真是一个难以置信的画面”，后随着这则新闻报道的播出，有意无意的就赋予了该词裸奔的含义。参照维基百科。
+		3. _n._ [succession](dic://succession), [characteristic](dic://characteristic), [marking](dic://marking), [flash](dic://flash)
+		4. _v._ [move](dic://move), [run](dic://run), [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize)
+		5. **unbeaten**未被击败的;**winning**胜利的;**rivalry**竞争;
+	8. strigil
+	9. strike
+		1. strike while the iron is hot趁热打铁。很明显这是个铁匠行业产生的习语。比如打马蹄子时，趁着半成品温度正合适时打，切不能等冷却下来，那还打个锤子哟。Some good airline stock is offered at a low price, I must strike while the iron is hot. ​​​​
+		2. n. 罢工, 打击, 殴打  
+		3. vt. 打, 撞击, 冲击, 侵袭, 取消, 结算, 打掉, 罢工, 刺透, 使生根, 遇见  
+		4. vi. 打, 打击, 抓, 罢工, 搏动, 触礁, 敲, 响, 穿透, 打动
+		5. 
 
 
 ### strid-,strif-,striv-
@@ -7092,22 +7177,22 @@
 	1. n. 争吵, 竞争, 冲突
 	2.  [discord](dic://discord)
 	3. _n._ [disorder](dic://disorder), [conflict](dic://conflict), [struggle](dic://struggle), [battle](dic://battle)
-	4. [controversy](dic://controversy) 侧重指深刻的意见分歧，多指对引起广泛兴趣或非常重要的问题的辨论。  
-	5. [argument](dic://argument) 指辩论双方均以事实或理由来说服对方的辨论。  
-	6. [conflict](dic://conflict) 指双方坚持已见、互不妥协，怀有敌意的争论，多暗示分歧极为严重，有时用语言无法解决，只得诉诸武力。   
-	7. [debate](dic://debate) 通常指经过仔细组织和计划的个人或团体之间的辩论。  
-	8. [dispute](dic://dispute) 普通用词，侧重指长时间，言词激烈，针锋相对的争辩。  
-	9. [quarrel](dic://quarrel) 普通用词，既可指言词激烈的争吵，也可指温和的言词上的不和。  
-	10. [strife](dic://strife) 指因不可缓和的矛盾而引起的争吵或斗殴。
-	11. **discord**不和;**turmoil**混乱，骚动;**unrest**不安;**upheaval**剧变;**bloodshed**流血,虐杀;**conflict**冲突，矛盾;**enmity**敌意;**chaos**混沌，混乱;**animosity**憎恨, 仇恨, 敌意;**quarrel**吵架;**anguish**苦闷;
-	12. _[civil strife](dic://civil%20strife)_  国内冲突; 内乱; 
-	13. _[internal strife](dic://internal%20strife)_  内讧；萧墙之祸；内乱
-	14. strife within the community. /社区内部的冲突。
-	15. the fratricidal strife within the Party. /党内的争斗。
-	16. Internal strife defeats the purpose of teamwork. /内部争斗挫伤了团队合作的目的
-	17. We want harmony and friendship, not conflict and strife. /我们希望和平与友谊，而非冲突与争执。
-	18. Every grain of rice requires such effort and such strife. /不努力就没收获，每粒米都是这样。
-	19. Boy and soldier, in peace or strife. /男孩和士兵，在和平或冲突中。
+		1. [controversy](dic://controversy) 侧重指深刻的意见分歧，多指对引起广泛兴趣或非常重要的问题的辨论。  
+		2. [argument](dic://argument) 指辩论双方均以事实或理由来说服对方的辨论。  
+		3. [conflict](dic://conflict) 指双方坚持已见、互不妥协，怀有敌意的争论，多暗示分歧极为严重，有时用语言无法解决，只得诉诸武力。   
+		4. [debate](dic://debate) 通常指经过仔细组织和计划的个人或团体之间的辩论。  
+		5. [dispute](dic://dispute) 普通用词，侧重指长时间，言词激烈，针锋相对的争辩。  
+		6. [quarrel](dic://quarrel) 普通用词，既可指言词激烈的争吵，也可指温和的言词上的不和。  
+		7. [strife](dic://strife) 指因不可缓和的矛盾而引起的争吵或斗殴。
+	4. **discord**不和;**turmoil**混乱，骚动;**unrest**不安;**upheaval**剧变;**bloodshed**流血,虐杀;**conflict**冲突，矛盾;**enmity**敌意;**chaos**混沌，混乱;**animosity**憎恨, 仇恨, 敌意;**quarrel**吵架;**anguish**苦闷;
+	5. _[civil strife](dic://civil%20strife)_  国内冲突; 内乱; 
+	6. _[internal strife](dic://internal%20strife)_  内讧；萧墙之祸；内乱
+	7. strife within the community. /社区内部的冲突。
+	8. the fratricidal strife within the Party. /党内的争斗。
+	9. Internal strife defeats the purpose of teamwork. /内部争斗挫伤了团队合作的目的
+	10. We want harmony and friendship, not conflict and strife. /我们希望和平与友谊，而非冲突与争执。
+	11. Every grain of rice requires such effort and such strife. /不努力就没收获，每粒米都是这样。
+	12. Boy and soldier, in peace or strife. /男孩和士兵，在和平或冲突中。
 2. strive
 	1. vi. 努力, 奋斗, 斗争
 	2. 来自中古英语 striven,艰难尝试，努力，奋斗，来自古法语动词 estriver,争吵，争斗，来自古法语名词 estrif,争吵，争斗，改写自 estrit,争吵，来自 Proto-Germanic*strido,纷争，斗争，战斗，词源同 stride.后主要用于褒义词义努力，奋斗，原词义见名词 strife,纷争，冲突。
@@ -7145,7 +7230,7 @@
 ### stup- = stun, 表示“使震惊”。源自拉丁语 stupere "to be stunned."
 1. stupefacient
 	1. a. 麻醉性的, 使不省人事的  n. 麻醉剂
-2. stupefaction
+2. stupefaction (tepefaction)
 	1. stupe-击打 + -faction表名词
 	2. [grogginess](dic://grogginess), [stupor](dic://stupor), [semiconsciousness](dic://semiconsciousness)
 	3. _n._ [astonishment](dic://astonishment), [amazement](dic://amazement), [unconsciousness](dic://unconsciousness), [action](dic://action)
@@ -7207,23 +7292,24 @@
 			6. constitutionalism
 			7. unconstitutional
 2. destitute, destitution
-	1. **impoverished**穷困的,无力的,用尽了的;**needy**贫穷的;**homeless**无家可归的;**orphans**孤儿;**underprivileged**被剥夺基本权力的,穷困的,下层社会的;**helpless**无助的;**widows**寡妇;**poor**可怜的;**wretched**可怜的;**unemployed**被解雇的;**beggar**乞丐;
-3. institute
+	1. (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged)
+	2. **impoverished**穷困的,无力的,用尽了的;**needy**贫穷的;**homeless**无家可归的;**orphans**孤儿;**underprivileged**被剥夺基本权力的,穷困的,下层社会的;**helpless**无助的;**widows**寡妇;**poor**可怜的;**wretched**可怜的;**unemployed**被解雇的;**beggar**乞丐;
+4. institute
 	1. institutor
 	2. institution, institutional
 		1. institutionalize
 		2. institutionalized
 		3. institutionalization
-4. prostitute
+5. prostitute
 	1. **brothel**妓院;**hooker**扭夺时的中心选手;**pimp**皮条客;**whore**卖淫，娼妓;**woman**女性;**stripper**剥离器;**maid**女仆;**rapist**强奸犯;**slut**懒妇;**mistress**情妇;**sleazy**质地薄的;
 	2. prostitution
-5. restitute
+6. restitute
 	1. [refund](dic://refund), [return](dic://return), [repay](dic://repay), [give back](dic://give back), [regenerate](dic://regenerate), [renew](dic://renew)
 	2. **restitution**归还原主, 恢复原状;**recover**恢复;**rehabilitate**使恢复;**restore**修复;**reparations**赔款;**reclaim**开拓;**reconstruct**重建;**compensate**补偿;**reimburse**偿还;**recoup**偿还;**preserve**保存;
 	3. [refund](dic://refund), [return](dic://return), [repay](dic://repay), [give back](dic://give back), [regenerate](dic://regenerate), [renew](dic://renew)
 	4. restitutor
 	5. restitution
-6. substitute
+7. substitute
 	1. [delegate](dic://delegate) 指一般被派参加某一会议的代表。 
 	2. [deputy](dic://deputy) 指上级授权代理行事的代表，特指被选择为执行全部或部分公务的人。
 	3. [representative](dic://representative) 一般指被选举或委派代表某人或一些人或某个较大团体的人，其职务有时是较长期的。
@@ -7239,7 +7325,7 @@
 	12. substitutability
 	13. disubstituted
 	14. cyclosubstitued
-7. constituent
+8. constituent
 		1. [component](dic://component) 指一个整体的组成部分。
 		2. [constituent](dic://constituent) 常可与component换用，指某一整体不可少的部分或成分。
 		3. [element](dic://element) 指一个整体必不可少或固有的部分，强调一个复杂整体中最基本、最简单的元件、元素或成分等。
@@ -7247,7 +7333,7 @@
 	1. reconstituent
 	2. macroconstituent
 	3. constituency
-8. superstition
+9. superstition
 	1. **superstitious**迷信的;**witchcraft**巫术;**mysticism**神秘主义;**belief**相信，信赖;**delusion**错觉;**dogma**教条，教理;**religion**宗教信仰;**folklore**民间传说;**myth**神话;**sorcery**魔术，巫术;**ignorance**无知;
 	2. superstitious
 
@@ -7418,7 +7504,7 @@
 		2. panidiomorphic
 	5. idiopathic
 	6. idiopathy
-	7. idiosyncrasy
+	7. idiosyncrasy (sycophant)
 		1. idio-自己的 + syn- + -crasy混合
 		2. idiosyncrasy - Oliver Goldsmith (1730-1774)是18世纪中叶英国杰出的散文家、诗人和剧作家，其成名作《世界公民》（The Citizen ofthe World, 1762）是英国散文的杰作之一。同代人都一致公认他多才多艺，精于各种文体，但在社交活动中他却以怪癖、虚荣和笨拙出了名。另一英国文人Horace Walpole (1717-1797)给他起了个绰号The Inspired Idiot（富有灵感的白痴）。当时Walpole并没有想到古希腊人就是常常把散文作家称为idiot的。英语idiot一词源自希腊语idiōtēs，idiōtēs原指非公职人员，后指（区别于牧师等的）俗人，也指没受（良好）教育或愚昧无知的人，但没有什么骂人笨的含义。散文作家（但不是诗人）就被古希腊人列入此类，从a poet or an idiot（诗人或散文作家），a priest or an idiot（牧师或俗人）这两个译自希腊语的短语就可以看出这一点。从古至今，idiot的词义越来越贬降，现在被用以指“白痴”或“笨蛋”。（参见idiom）
 		2. idiosyncratic
@@ -7439,12 +7525,13 @@
 	15. etc..
 3. **sol-** = alone, 表示“独自、自己”，= be used to 习惯。源自拉丁语 solus "by oneself alone."
 	1. desolate
-		1. desolator
-		2. desolation
-		3. desolater
-		4. desolateness
-		5. desolately
-	2. sole
+		1. de-非常 + sol-单独 + -ate, 表形容词 → 非常单独 → 荒凉的。
+		2. desolator
+		3. desolation
+		4. desolater
+		5. desolateness
+		6. desolately
+	3. sole
 		1. soleus
 		2. soleplate
 		3. solepiece
@@ -7456,20 +7543,20 @@
 		9. insole
 		10. innersole
 		11. half-sole
-	3. soli
-	4. solifidian
-	5. soliloquist
-	6. soliloquize
-	7. soliloquy
-	8. solipsism
-	9. solitaire
-	10. solitarily
-	11. solitary
-	12. solitude
-	13. solitudinarian
-	14. solo, soloist
-	15. solus
-	16. sullen, sullenly
+	4. soli
+	5. solifidian
+	6. soliloquist
+	7. soliloquize
+	8. soliloquy
+	9. solipsism
+	10. solitaire
+	11. solitarily
+	12. solitary
+	13. solitude
+	14. solitudinarian
+	15. solo, soloist
+	16. solus
+	17. sullen, sullenly
 4. **suet-** = com-(together) + idio-(oneself). 习惯，引申为 “海关”
 	1. accustom
 		1. accustomed, unaccustomed
@@ -7562,10 +7649,8 @@
 	1.  来自拉丁语 sodalitatem,同伴，伴随，友情，兄弟之情，来自 sodalis,同伴，伴侣，来自 suescere,习惯于，习惯，来自 PIE*swe,自己，自身，词源同 self,custom,idiom.
 	2. n. 友好, 伙伴关系, 慈善团体, 联谊会
 	3. [brotherhood](dic://brotherhood), [fraternity](dic://fraternity)
-	4. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
-	5. [brotherhood](dic://brotherhood), [fraternity](dic://fraternity)
-	6. _n._ [class](dic://class), [social class](dic://social class), [socio-economic class](dic://socio-economic class)
-	7. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
+	4. _n._ [class](dic://class), [social class](dic://social class), [socio-economic class](dic://socio-economic class)
+	5. **fraternity**兄弟般的感情;**treasurer**司库,财务主管;**Jesuits**耶稣会;**fraternal**兄弟的;**brotherhood**手足情谊;
 
 
 ### + \*sweid- +
@@ -7790,20 +7875,37 @@
 
 ### + \*swep- +
 #### swep(1) = to throw, sling, cast
-1. dissipate
-	1.  - dis-,分开，散开，-sip,扔，分散。引申词义挥霍，浪费。
-	2. 
+1. dissipate (disperse, asperse, )
+	1. dis-,分开，散开，-sip,扔，分散。引申词义挥霍，浪费。
 	3. **evaporate**蒸发;**subside**平息;**disperse**使散开;**absorb**吸收;**vanish**消失;**diminish**使减少;**fade**褪色;**disappear**不见, 消失;**dissolve**使溶解;**radiate**传播;**intensify**增强, 加剧;
 	4. [separate](dic://separate), [divide](dic://divide), [part](dic://part), [split](dic://split), [consume](dic://consume), [squander](dic://squander), [waste](dic://waste)
 		1. _[dissipated power](dic://dissipated%20power)_  [电子] 耗散功率
 		2. _[dissipated heat](dic://dissipated%20heat)_  散失热
 		3. _[dissipated energy](dic://dissipated%20energy)_  消散能量
-	5. dissipator
-	6. dissipative
-	7. dissipation
-	8. dissipater
-	9. dissipated
+	5. abeyance 
+	6. The wind quickly dissipated the clouds. /风迅速地驱散了云。
+	7. One of the ways to dissipate perspiration is by convection /散发汗水的一种方法是通过对流作用。
+	8. he wanted to dissipate his anger /他希望消消火。
+	9. He soon dissipated his fortune. /他不久便把财产挥霍光了。
+	10. The heat had to be dissipated by elaborate cooling systems. /热得用复杂的冷却装置散发。
+	11. And surface area limits how much body heat you can dissipate. /然而表面面积决定着身体的散热。
+	12. Soccer fans' passion will not easily dissipate. /球迷的热情不会轻易消退。
+	14. dissipator
+	15. dissipative
+	16. dissipation
+		1. _n._ [dispersion](dic://dispersion), [scattering](dic://scattering), [intemperance](dic://intemperance), [intemperateness](dic://intemperateness), [self-indulgence](dic://self-indulgence), [activity](dic://activity)
+		2. **heat**热度;**dispersion**散布;**damping**阻尼;**convection**传送,对流;**evaporation**蒸发;**degradation**下降,降低;**cooling**冷却的;**thermal**热的，热量的;**leakage**泄漏;**entropy**熵;**attenuation**变薄,稀薄化,变细,衰减;
+		3. the dissipation of the country's mineral wealth. /对国家矿产资源的浪费。
+		4. Another part, probably more serious, is the dissipation of attention involved. /另一部分，可能更加严重，是注意力不集中。
+		5. But of course he'd ruined his constitution by drink and dissipation /当然喽，他喝酒作乐早把身体搞垮了。
+		6. Such materials can transport electricity without dissipation /这种材料可以不耗散地传输电力。
+		7. His brown skin showed no signs of dissipation /他棕色的皮肤没有消散的迹象。
+	17. dissipater
+	18. dissipated (voluptuous)
 		1. a. 沉迷于酒色的, 闲游浪荡的, 消失的
+		2. _adj._ [immoral](dic://immoral), [indulgent](dic://indulgent)
+		3. _n._ [moral](dic://moral), [amoral](dic://amoral), [unmoral](dic://unmoral), [nonindulgent](dic://nonindulgent), [strict](dic://strict)
+		4. **evaporated**浓缩的;**absorbed**一心一意的;**radiated**辐射的;**lessened**减少的;**dispersed**被驱散的;**evaporate**蒸发;**subside**平息;**weakened**虚弱的;**faded**已褪色的;**diminished**减少了的;**swept**扫除;
 #### swep(2)= to sleep
 1. **hypno-**
 2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
@@ -7866,7 +7968,15 @@
 	2. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
 	3. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
 	4. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
-2. syophancy
+	5. The office is a menagerie of egotists and sycophants /该办公室乃是自私者与谄媚者汇集之处。
+	6. " Tired of friends. The thing is to have sycophants" /“厌倦了朋友。事情是有马屁精” 。
+	7. Because you prefer to be in the company of sycophants /你倒喜欢跟这些马屁精混在一起。
+	8. A **sycophant** flatterer is neither a guru or a preacher. /一个谄媚者既非古茹也不是传教士。
+2. sycophancy
+	1. _n._ [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
+	2. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
+	3. Seeing clearly requires a vision unclouded either by rage or by sycophancy /看得清楚需要不受愤怒或阿谀奉承的影响。
+	4. In his splenetic new book, Mr Milbank dates the " crack-up" of the Republican Party to various " destructionists" and—to appropriate the author's trademark style—their depravity, deplorability, mendacity, moral turpitude, rapacity and sycophancy. /在他那本脾气暴躁的新书中，米尔班克先生将共和党的“崩溃”归咎于各种“破坏主义者”，以及——借用作者标志性的风格——他们的堕落、可悲、虚伪、道德败坏、贪婪和阿谀奉承。
 3. sycophant
 	1. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
 	2. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
