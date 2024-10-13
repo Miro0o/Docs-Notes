@@ -4,7 +4,7 @@
 	1. on-again
 	2. off-again
 2. against
-3. gainsay
+3. gainsay (naysay, )
 	1. **refute**反驳，驳斥;**assert**断言;**dare**的风险;**scarcely**简直没有;**contradict**矛盾;**dared**敢于;**deny**否定，否认;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**doth**从事;**dares**敢;
 4. gainst
 
@@ -127,11 +127,12 @@
 	4. gender
 		1. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
 	5. engender
-		6. [beget](dic://beget), [get](dic://get), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
-		7. [breed](dic://breed), [spawn](dic://spawn)
-		8. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make), [create](dic://create)
-		9. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
-	6. gene
+		1.  (render, garner, engender, yield, induce, entail, incur, inflict)
+		2. [beget](dic://beget), [get](dic://get), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
+		3. [breed](dic://breed), [spawn](dic://spawn)
+		4. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make), [create](dic://create)
+		5. **provoke**激怒;**elicit**引出, 探出;**incite**煽动;**instill**徐徐滴入;**evoke**引起，唤起;**induce**引诱;**arouse**引起;**generate**使形成;**garner**贮藏;**perpetuate**使永存;**stimulate**刺激;
+	7. gene
 		1. genealogy
 			1. genealogical
 				1. _adj._ [genealogy](dic://genealogy), [family tree](dic://family tree)
@@ -174,7 +175,7 @@
 		17. gentility
 		18. gentle
 		19. gentry
-	7. autogenous, cytogenous
+	8. autogenous, cytogenous
 		1. abiogenetic, biogenic, autogenic, autogeny
 			1. abiogenist, abiogenous
 		2. allogeneic, allogenic
@@ -197,32 +198,32 @@
 		14. lactogenic
 		15. mammogenic
 		16. monogenic, monogenism
-	8. embryogeny
+	9. embryogeny
 		1. _[embryogeny](dic://embryogeny)_  n. 胚胎发生
-	9. regeneracy
+	10. regeneracy
 		1. _[regeneracy](dic://regeneracy)_  n. 再生，重生；新生
-	10. congener
+	11. congener
 		1. 1. an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)
 		2. _synonymous：_ [relative](dic://relative), [congenator](dic://congenator), [congeneric](dic://congeneric)
-	11. degeneracy
+	12. degeneracy
 		1. n. 退步, 退化, 堕落
 		2. _n._ [abasement](dic://abasement), [degradation](dic://degradation), [abjection](dic://abjection), [immorality](dic://immorality)
 		3. **degenerate**退化;**decay**腐烂，腐朽;**immorality**不道德,无道义;**entropy**熵;**degeneration**堕落;**impurity**杂质;**wickedness**邪恶;**disintegration**瓦解;**degradation**下降,降低;**recombination**再结合;**annihilation**歼灭,灭绝;
-	12. ectogenetic
+	13. ectogenetic
 		1. _[ectogenetic](dic://ectogenetic)_ 人工生殖的
-	13. erogenous
+	14. erogenous
 		1. _adj._ [sensitive](dic://sensitive)
 		2. _n._ [insensitive](dic://insensitive)
 		3. **erotic**色情的;**sensual**感觉的;**genital**生殖的;**arousal**激励;**clit**阴核;**genitals**生殖器;**anus**肛门;**fleshy**肉的;**vagina**阴道;**penile**阴茎的，用阴茎的;**sexual**性的;
-	14. ethongeny
-	15. exogenous
+	15. ethongeny
+	16. exogenous
 		1. _n._ [endogenous](dic://endogenous), [endogenic](dic://endogenic)
 		2. **endogenous**内长的,内生的;**recombinant**重组器官;**systemic**全身的;**cytokines**细胞活素类;**stimuli**刺激;**induced**感应的;**intracellular**细胞内的;**macroeconomic**宏观经济的;**pathogenic**引起疾病的;**concomitant**相伴的;**inhibitory**禁止的;
-	16. heterogenous
+	17. heterogenous
 		1. _adj._ [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley), [disparate](dic://disparate), [inhomogeneous](dic://inhomogeneous)
 		2. _n._ [autogenous](dic://autogenous), [autogenic](dic://autogenic)
 		3. **heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**heterogeneity**异质性;**diverse**不同的;**disparate**不同的;**fragmented**成碎片的,片断的;**monolithic**独块巨石的;**stratified**形成阶层的;**dispersed**被驱散的;**clustered**丛生的;**mixtures**配合料;
-	17. homogeneity
+	18. homogeneity
 		1. _n._ [uniformity](dic://uniformity), [uniformness](dic://uniformness)
 		2. _n._ [heterogeneity](dic://heterogeneity), [heterogeneousness](dic://heterogeneousness)
 		3. **uniformity**一致;**heterogeneity**异质性;**homogeneous**同性质的, 同类的;**cohesion**内聚力;**diversity**多样化;**coherence**条理性,连贯性,一致性;**conformity**依照, 遵从;**uniqueness**唯一性;**consistency**连贯;**dispersion**散布;**purity**纯净;
@@ -237,7 +238,7 @@
 		6. homogenous, inhomogenous
 		7. isogenous, isogeny
 			1. _[isogenous](dic://isogenous)_  adj. [生物] 同源的
-	18. indigene
+	19. indigene
 		9. indi-内部 + gen-产生 + -e
 		10. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		11. [native](dic://native), [indigen](dic://indigen)
@@ -248,7 +249,7 @@
 			3. _adj._ [native](dic://native)
 			4. _n._ [foreign](dic://foreign), [strange](dic://strange)
 			5. **aboriginal**最早就存在的，最早就有的;**tribal**部落的;**tribes**部落;**peoples**民族学;**Maori**毛利人的;**Peruvian**秘鲁人的;**Andean**安第斯山脉的;**Inuit**因纽特人;**Bolivian**玻利维亚的;**Ecuadorian**厄瓜多尔的;**native**本国的;
-	19. engine
+	20. engine
 		1. engine（引擎）：设计精巧装置所需的天赋  
 			1. 我们知道，在现代英语中，engine一词表示“发动机”。那么，在发动机问世之前，engine表示什么呢？其实，engine来自拉丁语ingenium，由in（内在）+gen（产生）+ium（名词后缀）构成，意思是“天赋，内在才能”。12世纪左右进入法语后演变为engin，表示“技能、才智、诡计、战争器械”等含义。13世纪左右进入英语后演变为engine，词义演变为“（战争中使用的）精巧的机械装置”。当蒸汽机问世后， engine通常专指从自然界获取能量并将其转换为机械能的装置，即中文所说的“发动机”。与它同源的英语单词有ingenious（心灵手巧的）、ingenuity（独创性）。  
 				1. engine：['endʒɪn] n.引擎，发动机，机车，火车头  
@@ -256,7 +257,7 @@
 				3. engineering：['ɛndʒə'nɪrɪŋ] n. 工程，工程学  
 				4. ingenious：[ɪn'dʒiːnɪəs] adj.心灵手巧的，有独创性的，机灵的  
 				5. ingenuity：[,ɪndʒɪ'njuːɪtɪ] n.独创性，心灵手巧，精巧，精巧的装置
-	20. ingenious
+	21. ingenious
 		1. in-内 + geni-产生 + -ous形容词后缀 → 自内心产生 → 聪明的。
 		2. _adj._ [creative](dic://creative), [originative](dic://originative), [artful](dic://artful), [adroit](dic://adroit)
 		3. _n._ [uncreative](dic://uncreative), [artless](dic://artless), [maladroit](dic://maladroit)
@@ -275,16 +276,16 @@
 			2. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
 			3. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
 			4. [disingenuous](dic://disingenuous), [artful](dic://artful), [sophisticated](dic://sophisticated)
-	21. ingenue
+	22. ingenue
 		1. n. 天真无邪的姑娘, 扮演天真姑娘的女演员
 		2.  来自法语 ingenue,词源同 ingenuous,天真无邪的。引申词义纯真少女，特别指戏剧或舞台表演的少女形象。
 		3. _n._ [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [juvenile](dic://juvenile), [juvenile person](dic://juvenile person)
 		4. **actress**女演员;**heroine**女英雄;**diva**歌剧中的首席女主角;**socialite**社会名流;**ballerina**芭蕾舞女演员;**vaudeville**杂耍;**melodrama**情节剧;**glamorous**富有魅力的;**sassy**无礼的;**heiress**女继承人;**sultry**闷热的;
-	22. benign
+	23. benign
 		1. bene-好 + gn-出生，指出生好的，有教养的。
-	23. malign
+	24. malign
 		1. mal-坏的，不良的 + gn-出生， 字面意思即出生就坏的，引申词义诽谤，中伤等。
-	24. cognate
+	25. cognate
 		1. co-同 + gn-出生 + -ate → 同出生的 → 同种的。
 		2. a. 同族的, 同语系的, 同词源的, 母族的, 同性质的, 同类的, 同种的  
 		3. n. 亲族, 同语系的语言, 同词源的词, 同性质的东西, 同源物
@@ -299,15 +300,15 @@
 		12. _[cognate object](dic://cognate%20object)_  同根宾语；同源宾语
 		13. _[cognate interaction](dic://cognate%20interaction)_  同种相互作用
 		14. _[cognate inclusion](dic://cognate%20inclusion)_  同源包体；均匀包合物
-	25. progeny
+	26. progeny
 		1. [offspring](dic://offspring), [issue](dic://issue)
 		2. _n._ [relative](dic://relative), [relation](dic://relation)
 		3. **offspring**子女, 子孙, 后代;**sire**陛下;**progenitor**祖先;**lineage**血统;**pedigree**家谱;**brood**沉思;**breeding**教养;**bred**繁殖;**clones**无性繁殖系个体;**stallion**种马;**descendant**后代, 后裔;
-	26. pathogeny
+	27. pathogeny
 		1. _[pathogeny](dic://pathogeny)_  n. [基医] 病原；[病理] 发病机理
 		2. _[pathogeny microbiology](dic://pathogeny%20microbiology)_ 病原微生物学
 		3. _[pathogeny identification](dic://pathogeny%20identification)_ 病原检测
-	27. kindred
+	28. kindred
 		1. [kin](dic://kin), [kin group](dic://kin group), [kinship group](dic://kinship group), [clan](dic://clan), [tribe](dic://tribe)
 		2. [akin(p)](dic://akin(p)), [related](dic://related)
 		3. _n._ [social group](dic://social group)
@@ -316,27 +317,29 @@
 		6. **kinship**亲属关系，家属关系;**spirits**精力;**spirit**精神;**soul**灵魂;**like-minded**具有相似意向或目的的;**familial**家庭的;**ancestral**祖先的,祖宗传下来的;**brethren**弟兄们;**dearest**最亲爱的人;**fellow**同事;**affinity**吸引力;
 		7. _kindred spirit_ 志趣相投的人
 		8. king
-	28. anthropogeny
+	29. anthropogeny
 		1. _[anthropogeny](dic://anthropogeny)_  n. 人类起源论（等于anthropogenesis）
-	29. cancerogenic, carcinogen
-	30. etc...
+	30. cancerogenic, carcinogen
+	31. etc...
 3. **-gen** = 中文翻译成“...原”，原意表示“产生”。
 	1. allergen
-		1. _n._ [substance](dic://substance), [matter](dic://matter)
-		2. **allergy**过敏症;**allergic**对…过敏的;**gluten**麸质;**pollen**传授花粉给;**antigen**抗原;**asthma**哮喘，气喘;**antigens**抗原;**ingredient**组成部分;**toxin**毒质;**pathogen**病原体;**dermatitis**皮肤炎;
-		3. _[allergens](dic://allergens)_  n. [医] 过敏原（allergen的复数）；过敏素；致敏原
-		4. _[allergen elimination](dic://allergen%20elimination)_  变应原排除
-		5. Ragweed is a common allergen, especially during the fall /豚草是一种常见的过敏原，秋天时尤为常见。
-	2. antigen
-	3. chromogen
-	4. collagen
-		1. _n._ [scleroprotein](dic://scleroprotein), [albuminoid](dic://albuminoid)
-		2. **cartilage**软骨;**peptides**多肽类;**gelatin**明胶;**protein**蛋白质;**peptide**肽;**tissue**纸巾;**skin**皮肤;**serum**浆液;**proteins**蛋白质;**elasticity**弹性;**tendons**肌腱，腱;
-		3. So, we get our yeast to make our collagen /我们用酵母来制造胶原蛋白。
-		4. You crush the leaves, you get the juice that contains the collagen. /把叶子捣碎后，就会得到含有胶原蛋白的汁液。
-		5. That's where collagen synthesis defects can present as extreme flexibility. /这就是胶原合成缺陷可以表现为极端灵活性的地方。
-	5. fibrinogen
-	6. glycogen
+		1. n. 过敏原; 变(态反)应原
+		2. _n._ [substance](dic://substance), [matter](dic://matter)
+		3. **allergy**过敏症;**allergic**对…过敏的;**gluten**麸质;**pollen**传授花粉给;**antigen**抗原;**asthma**哮喘，气喘;**antigens**抗原;**ingredient**组成部分;**toxin**毒质;**pathogen**病原体;**dermatitis**皮肤炎;
+		4. _[allergens](dic://allergens)_  n. [医] 过敏原（allergen的复数）；过敏素；致敏原
+		5. _[allergen elimination](dic://allergen%20elimination)_  变应原排除
+		6. Ragweed is a common allergen, especially during the fall /豚草是一种常见的过敏原，秋天时尤为常见。
+	3. antigen
+	4. chromogen
+	5. collagen
+		1. coll-胶 + -a- + gen。胶原蛋白中的“胶原”，是指这类蛋白质在水中受热后，会以大分子的状态，均匀散布在水中，与水形成浑浊、黏稠的“溶胶”。通常是动物骨骼、肌腱等部位的重要成分。因为胶原蛋白的分子结构太大，又不易转化，肠胃对它转化和吸收率较低，所以吃再多效果也不明显。但胶原蛋白经过烹饪，对食材的品相有很大影响，能让汤汁变黏稠。
+		2. _n._ [scleroprotein](dic://scleroprotein), [albuminoid](dic://albuminoid)
+		3. **cartilage**软骨;**peptides**多肽类;**gelatin**明胶;**protein**蛋白质;**peptide**肽;**tissue**纸巾;**skin**皮肤;**serum**浆液;**proteins**蛋白质;**elasticity**弹性;**tendons**肌腱，腱;
+		4. So, we get our yeast to make our collagen /我们用酵母来制造胶原蛋白。
+		5. You crush the leaves, you get the juice that contains the collagen. /把叶子捣碎后，就会得到含有胶原蛋白的汁液。
+		6. That's where collagen synthesis defects can present as extreme flexibility. /这就是胶原合成缺陷可以表现为极端灵活性的地方。
+	6. fibrinogen
+	7. glycogen
 		1. n. 糖原；动物淀粉
 		2. _n._ [polysaccharide](dic://polysaccharide), [polyose](dic://polyose)
 		3. **carbohydrate**碳水化合物;**glucose**葡萄糖;**creatine**肌酸，肌肉素;**metabolism**新陈代谢;**mitochondria**线粒体;**lipid**油脂;**lactate**分泌乳汁;**lipids**脂肪，油脂;**muscle**肌肉;**adipose**脂肪的;**metabolic**新陈代谢的;
@@ -357,32 +360,46 @@
 	12. zymogen
 4. **germ-** = seed, 表示“种子”。源自拉丁语 germen "shoot, bud, embryo, germ."
 	1. germ
-		1. ovigerm
-		2. monogerm
-		3. germiculture
-		4. germicide
-		5. degerm
+		1. 来自拉丁语 germen,来自 gen-,生育，萌芽，词源同 generate.字母 n 在 m 前 r 化，比较charm,germane.后用于科学术语，细菌。
+		2. ovigerm
+		3. monogerm
+		4. germiculture
+		5. germicide
+		6. degerm
 			1. degermation
-	2. germane
-		1. **pertinent**有关的;**relevant**有关的;**irrelevant**不相干的,不相关的;**pertain**关于;**salient**突出的;**debatable**有争议的,有问题的,可争辩的;**substantive**独立的;**particularly**特别;**topic**题目;**unrelated**无关的, 不相关的;**instructive**教育性的;
-	3. germen
-	4. germinal
+	3. germane  (germane, fitting, condign, apposite, commensurate)
+		1. 来自拉丁语 germen,来自 gen-,生育，词源同 generate.即同种类的，贴切的。字母 n 在 m 前 r 化，比较 charm.
+		2. a. 关系密切的, 有关的, 同样的, 恰当的, 贴切的
+		3. - adj. 有密切关系的；贴切的；恰当的
+		4. [related](dic://related)
+		5. **pertinent**有关的;**relevant**有关的;**irrelevant**不相干的,不相关的;**pertain**关于;**salient**突出的;**debatable**有争议的,有问题的,可争辩的;**substantive**独立的;**particularly**特别;**topic**题目;**unrelated**无关的, 不相关的;**instructive**教育性的;
+		6. contingent, 
+		7. awry, sidebar, 
+		8. That's really germane to this whole discussion right now /和我们现在讨论的问题有密切关联。
+		9. But when it talks about these publicly, it is mostly because they are germane to its business. /但当它公开谈论这些时，主要是因为它们与其业务密切相关。
+		10. The call for public engagement with the unthinkable is especially **germane** in this moment of still-uncontrolled pandemic and economic crises in the world's most technologically advanced nations /在世界上技术最先进的国家仍然不能控制疫情和经济危机的时刻，呼吁公众参与令人无法想象的事情尤为重要。
+	4. germen
+	5. germinal
 		1. unigerminal
 		2. subgerminal
 		3. monogerminal
 		4. bigerminal
-	5. germinant
-	6. germinate
-		1. regerminate
-		2. germinative
-		3. germination
-	7. germfree
-	8. germinoma
-	9. germiparity
-	10. germless
-	11. germline
-	12. germovitellarium
-	13. etc..
+	6. germinant
+	7. germinate
+		1. germin-=germ-种子 + -ate, 表动词 → 种子动 → 发芽。
+		2. _v._ [grow](dic://grow), [create by mental act](dic://create by mental act), [create mentally](dic://create mentally)
+		3. **seedlings**幼苗;**sprout**长芽;**sown**播种;**seed**种子;**sowing**播种;**flowering**开花的;**grow**生长;**sprouting**发芽;**wilt**使枯萎;**propagate**繁殖;**spores**孢子;
+		4. burgeon
+		5. regerminate
+		6. germinative
+		7. germination
+	8. germfree
+	9. germinoma
+	10. germiparity
+	11. germless
+	12. germline
+	13. germovitellarium
+	14. etc..
 5. **gon-,gono-** = seed, 表示“种子”，和 gen (产生) 同源。源自希腊语 gonos "child, procreation, seed."
 	1. gonorrhoea
 		1. gonorrhea
@@ -525,28 +542,44 @@
 			2. **phobia**恐惧症;**anxiety**焦虑;**psychosis**精神病;**depression**沮丧;**schizophrenia**精神分裂症;**paranoia**偏执狂，妄想狂;**OCD**强迫性神经官能症;**loneliness**孤独,寂寞;**panic**恐慌，惊慌;**disorder**混乱;**PTSD**创伤后精神紧张性精神障碍;
 			3. _[agoraphobia](dic://agoraphobia)_  n. 旷野恐怖；[心理] 广场恐怖症；陌生环境恐怖症
 	2. allegory
-		1. [able](dic://fable), [parable](dic://parable), [apologue](dic://apologue)
-		2. [emblem](dic://emblem)
-		3. _n._ [story](dic://story), [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [expressive style](dic://expressive style), [style](dic://style)
-		4. **metaphor**隐喻;**symbolism** 象征主义, 象征手法;**parable**寓言，比喻;**fable**寓言;**allusion**暗示;**metaphorical**隐喻般的;**depiction**描写;**satire**讽刺;**narrative**记叙文;**tale**故事;**mythological**神话的;
-		5. _[Chinese Allegory](dic://Chinese%20Allegory)_ 中国讽寓
-		6. _[impurity allegory](dic://impurity%20allegory)_ 杂质偏析
-		7. _[beyond allegory](dic://beyond%20allegory)_ 无以伦比
-	3. category
-	4. panegyric
-		1. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
-		2. 1 - 来自拉丁语 panegyricus,节日致辞，颂辞，颂文，pan-,全部，所有，-agyric,广场，集会，词源同 agora,gregarious.即公共集会的庆祝辞。
-		3. .On abuse, on reproach, on calumny, it is easy to smile; but painful indeed, is the panegyric of those we contemn. 面对谩骂、非难，中伤而一笑置之，那是容易的；可是，老实说，要藐视这些颂词却是需要费点儿力气的。
-		4. panegyrical
-		5. panegyrist
-		6. panegyrize
-	5. paregoric
-		1. par- + agor
-		2. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
-		3. **morphine**吗啡;**narcotic**麻醉的;**aspirin**阿司匹林;**acetaminophen**醋氨酚;**homeopathic**同种疗法的;**medication**药物治疗;**brandy**白兰地酒;**ibuprofen**布洛芬,异丁苯丙酸;**opium**鸦片;**pills**丸剂;**syrup**糖浆，果汁;
-	6. phantasmagoria, phantasmagoric
+		1. allegory（寓言）：暗含另一层意思的公开演说  
+		2. 在古希腊时代，人们喜欢在市场等公共场所闲聊，很多政治家、思想家也喜欢在公共场所发表演讲，谈论哲学或政治。在谈及一些不便于明说的敏感话题或为了增加演说的趣味性，他们往往会采用讽喻的手法，用虚构的角色和故事来暗指、讽刺某人或某种现象。这种用来讽喻现实的虚构故事在希腊语中就被称为allegoria，由allos（不同的、另一个）+agoreuein（公开演说）构成，字面意思就是“暗含另一层意思的公开演说”。英语单词allegory就来自希腊语allegoria。  
+		3. 古希腊最有名的一则寓言是大哲学家柏拉图的“洞穴寓言”（cave allegory），用来描述真实的“理念”和人们通过感觉所虚构的“表象”之间的差异。此外，《伊索寓言》（Aesop's Fables）是古希腊寓言的集大成者。英语单词fable也可以表示“寓言”，但它的本意是story、tale（虚构的故事、无稽之谈），它的词义重点在于“虚构”而不是“寓意、讽喻”。  
+		4. allegory：['ælɪg(ə)rɪ] n.寓言，讽喻  
+		5. allegorical：[,ælɪ'gɒrɪk(ə)l] adj.讽喻的，寓言的，寓意的
+		6. [able](dic://fable), [parable](dic://parable), [apologue](dic://apologue)
+		7. [emblem](dic://emblem)
+		8. _n._ [story](dic://story), [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [expressive style](dic://expressive style), [style](dic://style)
+		9. **metaphor**隐喻;**symbolism** 象征主义, 象征手法;**parable**寓言，比喻;**fable**寓言;**allusion**暗示;**metaphorical**隐喻般的;**depiction**描写;**satire**讽刺;**narrative**记叙文;**tale**故事;**mythological**神话的;
+		10. _[Chinese Allegory](dic://Chinese%20Allegory)_ 中国讽寓
+		11. _[impurity allegory](dic://impurity%20allegory)_ 杂质偏析
+		12. _[beyond allegory](dic://beyond%20allegory)_ 无以伦比
+	4. category
+		1. category（范畴）：亚里士多德提出的“范畴”  
+		2. kategoria原本是一个法律术语，表示“指控、断言”。它由kata（=cata，表示down to或against）+agoreuein（当众宣称）构成。  
+		3. 古希腊著名哲学家亚里士多德在其哲学著作中使用了希腊语kategoria来表示哲学术语“范畴”，“范畴”指的是“可用来描述、断言一个主体的最基本的概念”。亚里士多德总结了十种“范畴”（基本概念）：本质、量、质、关系、地点、时间、位置、状态、活动、遭受。  
+		4. 英语单词category就来源于希腊语kategoria，原本表示“范畴”。因为“范畴”代表的是一个基本概念，每一个范畴都代表一类具体事物，如“人”这个范畴就代表了一类生物，所以在非哲学场合，category常用来表示“种类”。  
+		5. category：['kætɪg(ə)rɪ] 种类，类别，范畴  
+		6. categorical：[,kætə'ɡɔrɪkl]  adj. 绝对的；直接了当的；无条件的；属于某一范畴的  
+		7. categorize：['kætəgə'raɪz] vt. 分类
+	5. panegyric
+		1. [美 /ˌpænəˈdʒɪrɪk/](cmd://Speak/_us_/panegyric)
+		2. pan-全部 + egyr-聚集 + -ic → 聚集一堂 → 颂扬(国王)。
+		3. 1 - 来自拉丁语 panegyricus,节日致辞，颂辞，颂文，pan-,全部，所有，-agyric,广场，集会，词源同 agora,gregarious.即公共集会的庆祝辞。
+		4. .On abuse, on reproach, on calumny, it is easy to smile; but painful indeed, is the panegyric of those we contemn. 面对谩骂、非难，中伤而一笑置之，那是容易的；可是，老实说，要藐视这些颂词却是需要费点儿力气的。
+		5. panegyrical
+		6. panegyrist
+		7. panegyrize
+			1. vt. 颂扬；致颂词 
+			2. vi. 称赞；致颂词
+	6. paregoric (analgesic)
+		1. - n. 复方樟脑酊；止痛药
+		2. par- + agor
+		3. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+		4. **morphine**吗啡;**narcotic**麻醉的;**aspirin**阿司匹林;**acetaminophen**醋氨酚;**homeopathic**同种疗法的;**medication**药物治疗;**brandy**白兰地酒;**ibuprofen**布洛芬,异丁苯丙酸;**opium**鸦片;**pills**丸剂;**syrup**糖浆，果汁;
+	8. phantasmagoria, phantasmagoric
 2. **greg-, gor-, gyr-** = group, 「Latin」grex, "herd, flock"
-	1. aggregate
+	1. aggregate (aggravate)
 		1. ag-增加 + greg-群体 + -ate, 表动词 → 增加团体 → 聚集。
 		2. _n._ [sum](dic://sum), [summation](dic://summation), [sum total](dic://sum total), [whole](dic://whole), [unit](dic://unit)
 		3. _v._ [come](dic://come), [add up](dic://add up), [amount](dic://amount), [mix](dic://mix), [mingle](dic://mingle), [commix](dic://commix), [unify](dic://unify)
@@ -568,7 +601,7 @@
 			1. _n._ [social group](dic://social group), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [assembly](dic://assembly), [gathering](dic://gathering)
 			2. **church**教堂;**pastor**牧师;**churches**教会，教堂;**synagogue**犹太人集会;**clergy**牧师;**deacon**执事;**seminary**神学院;**parish**教区;**Presbyterian**长老会的;**Pentecostal**圣灵降临节的;**Methodist**照章办事者;
 		3. congregational
-	5. segregate
+	5. segregate (disparate)
 		1. se-分开 + greg-群 + -ate, 表形容词 → 和人群分开 → 隔离。
 		2. 1 - se-,分开，-greg,集群，成团，词源同 aggregate,gregarious.引申词义分离，隔离等。
 		3. unsegregated
@@ -577,17 +610,30 @@
 		6. segregation
 		7. segregated
 		8. segregant
-	7. egregious
-		1. - e-,向外，-greg,群，集中，词源同 aggregate,gregarious.原义为鹤立鸡群的，极好的，现义贬义化。参照拉丁语 egregium,非凡，伟业。
+	7. egregious (nefarious, defamous, )
+		1. e-,向外，-greg,群，集中，词源同 aggregate,gregarious.原义为鹤立鸡群的，极好的，现义贬义化。参照拉丁语 egregium,非凡，伟业。
 		2. _adj._ [conspicuous](dic://conspicuous)
 		3. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
 		4. _[egregious fraud](dic://egregious%20fraud)_ 分的欺诈; 显着欺诈;
 		5. _[egregious error](dic://egregious%20error)_ 绝大的错误
 		6. **blatant**明目张胆的;**heinous**可憎的;**outrageous**骇人的;**appalling**令人震惊的;**atrocious**恶毒的;**disgraceful**可耻的,丢脸的,不光彩的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**glaring**耀眼的;**horrendous**可怕的, 恐怖的;**deplorable**可叹的;
-	8. gregarisous
+		7. an egregious mistake /大错
+		8. egregious abuses of copyright. /令人震惊的侵犯版权行为。
+		9. Speaking of research condemned, the treatment of dogs in the Indigo facility as quote egregious. /说到被谴责的研究，靛蓝实验室对待狗的方式是非常恶劣的。
+		10. Levels of executive pay are far less egregious than in America /只对富人们征收的费用又远低于美国。
+		11. The first one here is kind of an egregious example /第一个商品有点过分。
+		12. USA Today reported " egregious failures" by the facility's leadership and staff. /《今日美国》报道了该机构的领导层和工作人员的“严重失误”。
+	8. gregarious
 		1. greg-群体 + -arious爱…的 → 爱群体的。
-		2. **sociable**好交际的;**chatty**饶舌的;**boisterous**热闹的;**charismatic**有魅力的;**flamboyant**显眼的, 浮夸的, 炫耀的;**exuberant**兴高采烈的;**brash**仓促的，性急的;**personable**英俊的;**laid-back**安详的, 轻松的;**outgoing**乐于助人的;**inquisitive**好问的;
-		3. **altruism**利他;**spontaneity**自然性;**sociable**好交际的;**charisma**非凡的领导力;**friendliness**友情;**introvert**个性内向者;**camaraderie**友情;**innate**先天的;**temperament**性格, 性情, 气质;**intimacy**亲密;**enthusiasm**热情, 热心;
+		2. adj. 爱交际的，合群的；（动物）群居的；（植物）聚生的
+		3. **sociable**好交际的;**chatty**饶舌的;**boisterous**热闹的;**charismatic**有魅力的;**flamboyant**显眼的, 浮夸的, 炫耀的;**exuberant**兴高采烈的;**brash**仓促的，性急的;**personable**英俊的;**laid-back**安详的, 轻松的;**outgoing**乐于助人的;**inquisitive**好问的;
+		4. **altruism**利他;**spontaneity**自然性;**sociable**好交际的;**charisma**非凡的领导力;**friendliness**友情;**introvert**个性内向者;**camaraderie**友情;**innate**先天的;**temperament**性格, 性情, 气质;**intimacy**亲密;**enthusiasm**热情, 热心;
+		5. he was a popular and gregarious man. /他是个讨人喜欢的、爱交朋友的人。
+		6. several small gregarious cetacean mammals /几种小型群居的鲸类哺乳动物
+		7. My gregarious sister makes friends wherever she goes. /我那合群的妹妹无论到哪里都能交到朋友。
+		8. Dr Cole harvested samples of white blood cells from both lonely and gregarious people. /Cole博士收集了孤独之人和爱交际之人的白细胞样品。
+		9. Tiffany Shackelford was gregarious and made people instantly feel comfortable, her husband said. /蒂芙尼·沙克尔福德的丈夫说，她善于交际，让人在很短的时间内就会感到很舒服。
+		10. 
 3. cram
 
 
@@ -1590,15 +1636,34 @@
 6. yellow
 7. zloty
 	1. **euro**欧元;**yen**日元;**rupee**卢比;**EUR**欧洲，欧洲人;**Euros**带雨东南暴风;**currency**货币;**Poland**波兰;**Warsaw**华沙;**Krakow**克拉科夫;**PLN**波兰货币兹罗提在ISO 4217体系中的代码;**Lithuanian**立陶宛人;
+8. callow (mallow, hallow, sallow, shallow, )
+	1. a. 年轻而无经验的, (鸟)羽毛未丰的
+	2.  来自 PIE*gal,秃头，参照 Calvinism,chauvinism,进一步来自 PIE*ghel,发光的，词源同glass,gleam.指刚出生的，没长毛的。
+	3.  [fledgling](dic://fledgling), [unfledged](dic://unfledged)
+	4. _adj._ [inexperienced](dic://inexperienced), [inexperient](dic://inexperient)
+	5. _n._ [experienced](dic://experienced), [experient](dic://experient)
+	6. **naive**天真的，幼稚的;**youthful**年轻的;**immature**不成熟的;**young**年轻的;**jaded**厌倦的;**hapless**运气不好的，倒霉的;**inexperienced**经验不足的,不熟练的;**cynical**愤世嫉俗的;**adolescent**青春期的;**brash**仓促的，性急的;**pompous**浮夸的;
+	7. earnest and callow undergraduates /严肃认真但天真幼稚的大学本科生。
+	8. A troop of newly arrived students, very young, pink and callow, followed nervously, rather abjectly, at the Director's heels. /一群新来的学生低声下气地跟在主任身后，有些紧张。他们全都非常年轻，红扑扑的脸蛋，乳臭未干
+	9. Now cynics like to mock the supposedly spoiled or callow youth of the new millennia /现在，愤世嫉俗者喜欢嘲笑新千年中所谓的娇生惯养或幼稚的年轻人。
+	10. Her callow heart made an epoch of the incident; she considered her array of feelings, for and against /她幼稚的心使这件事成为一个时代。 她考虑了她的一系列感受， 支持和反对。
+	11. Never, even at his most callow, had he gone to see any woman with an eagerness as great as the one that was taking him to Holly Pavement this morning /从来没有，即使是在他最幼稚的时候，他也从来没有像今天早上带他去霍莉路面的女人那样热切地去看任何女人。
 
 
 ### + \*gher- +
 #### + \*gher- + (1) = to grasp, enclose
 1. **chor-, chore-** = sing, dance, 表示“歌、舞”。
 	1. choreograph
-		1. choreography
-		2. choreographic
-		3. choreographer
+		1. choreo-舞蹈 + -graph, 写，图
+		2. _v._ [make](dic://make), [create](dic://create), [mastermind](dic://mastermind), [engineer](dic://engineer), [direct](dic://direct), [organize](dic://organize), [organise](dic://organise)
+		3. **choreography**舞台舞蹈设计;**rehearse**排练;**dance**舞蹈;**dancers**舞蹈家;**ballet**芭蕾舞剧;**perform**执行;**dancer**舞女;**improvise**临时制作, 临时凑成;**sing**唱歌;**animate**使有生气;**troupe**剧团, 艺术团体;
+		4. A social dance isn't choreographed by any one person. /社交舞是从群体社会中衍生来的一种表达方式。
+		5. And that badass dance she choreographed tonight. /还有她今晚编的那支精彩绝伦的舞蹈。
+		6. I choreographed this piece with her in mind. /这出戏是我精心为她设计的。
+		7. But instead he choreographed all the games in the show. /但他却在节目中编排了所有的比赛。
+		8. choreography
+		9. choreographic
+		10. choreographer
 	3. choir
 		1. n. 唱诗班, 唱诗班的席位  v. 合唱
 		3. _n._ [chorus](dic://chorus), [set](dic://set), [area](dic://area)
@@ -2330,12 +2395,18 @@
 			3. **baptism**洗礼;**immersion**沉浸;**rinsing**清水;**baptized**受洗礼的;
 		24. circumfuse, circumfusion
 		25. confuse, confusion, confused, confusable
-		26. diffuse
+		26. diffuse (diffuse, dissipate, asperse, scatter)
 			1. rediffuse
 			2. interdiffuse
 			3. diffusor
 			4. diffusive, diffusivity
 			5. diffusion
+				1.  [dissemination](dic://dissemination)
+				2.  [dispersion](dic://dispersion), [dispersal](dic://dispersal), [dissemination](dic://dissemination)
+				3. _n._ [natural process](dic://natural process), [natural action](dic://natural action), [action](dic://action), [activity](dic://activity), [spread](dic://spread), [spreading](dic://spreading), [distribution](dic://distribution)
+				4. **dispersion**散布;**kinetics**动力学;**uptake**摄取;**evaporation**蒸发;**absorption**吸收，吸收作用;**permeability**弥漫;**propagation**繁殖;**adsorption**吸附;**conduction**传导;**convergence**集中,收敛;**polarization**极化;
+				5. The effective diffusion coefficient and rate constant of intraparticle transport were calculated. /求出了颗粒内有效扩散系数和颗粒内扩散速率常数。
+				6. Cell membranes allow for diffusion of certain molecules. /细胞膜允许某些分子扩散。
 			6. diffusiometer
 			7. diffusible
 			8. diffusibility
@@ -2363,7 +2434,7 @@
 			2. _adj._ [abundant](dic://abundant)
 			3. _n._ [scarce](dic://scarce)
 			4. **copious**丰富的;**exuberant**兴高采烈的;**excessive**过度的, 过分的;**abundant**充裕的;**prodigious**巨大的;**lavish**浪费的;**replete**充满的;**extravagant**奢侈的, 铺张的;**unending**不断的，无止境的;**innumerable**无数的, 数不清的;**voluminous**卷数多的;
-			5. profusion, profuseness
+			5. profusion, profuseness (profligate, proliferate)
 				1. [profuseness](dic://profuseness), [richness](dic://richness), [cornucopia](dic://cornucopia)
 				2. _n._ [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
 				3. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
@@ -2463,17 +2534,27 @@
 		3. reprehension
 		4. reprehensible
 	5. prehensile
-		1. _adj._ [intelligent](dic://intelligent), [acquisitive](dic://acquisitive)
-		2. _n._ [nonprehensile](dic://nonprehensile), [unintelligent](dic://unintelligent), [stupid](dic://stupid), [unacquisitive](dic://unacquisitive)
-		3. **claws**爪子;**limbs**四肢;**fleshy**肉的;**grasping**贪婪的;**beak**鸟嘴;**fangs**尖牙;**jaws**狭口;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**tail**尾部;**hind**后部的;**snout**鼻子;
-	6. prehension
-		1. _n._ [control](dic://control)
-		2. [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing)
-		3. **cognition**认识;**grasping**贪婪的;**perceptual**知觉的,有知觉的;**sensory**感觉的;**extremity**端点,尽头;**dexterity**灵巧;**reflexes**反应;**stimuli**刺激;**reflex**反射;**tactile**触觉的，有触觉的;
-	7. apprentice
-		1. _n._ [novice](dic://novice), [beginner](dic://beginner), [tyro](dic://tyro), [tiro](dic://tiro), [initiate](dic://initiate)
-		2. _v._ [train](dic://train), [prepare](dic://prepare)
-		3. **apprenticeship**学徒期;**trainee**新兵;**carpenter**木工, 木匠;**blacksmith**铁匠;**master**控制;**craftsman**工匠;**electrician**电工;**mentor**指导者，良师益友;**foreman**领班;**servant**仆人，佣人;**magician**魔术师，变戏法的人;
+		1. a. 能抓的, 善于领会的, 贪得无厌的
+		2. pre-在前 + hens-拿 + -ile易于~的。
+		3. 来自拉丁语 prehendere,抓住，握住，-s,过去分词后缀，来自 pre-,在前，早于，预先，-hend,抓住，词源同 get.
+		4. _adj._ [intelligent](dic://intelligent), [acquisitive](dic://acquisitive)
+		5. _n._ [nonprehensile](dic://nonprehensile), [unintelligent](dic://unintelligent), [stupid](dic://stupid), [unacquisitive](dic://unacquisitive)
+		6. **claws**爪子;**limbs**四肢;**fleshy**肉的;**grasping**贪婪的;**beak**鸟嘴;**fangs**尖牙;**jaws**狭口;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**tail**尾部;**hind**后部的;**snout**鼻子;
+	7. prehension
+		1. n. 抓住, 理解
+		2. _n._ [control](dic://control)
+		3. [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing)
+		4. **cognition**认识;**grasping**贪婪的;**perceptual**知觉的,有知觉的;**sensory**感觉的;**extremity**端点,尽头;**dexterity**灵巧;**reflexes**反应;**stimuli**刺激;**reflex**反射;**tactile**触觉的，有触觉的;
+	9. apprentice
+		1. apprentice（学徒）：处于学习阶段的手工艺人  
+		2. 在古代西方的手工艺行业中，广泛采取学徒制（apprenticeship）的教育培训方式。学徒（apprentice）是手工艺行业中最低一级，要寄宿在行业中最高一级的master（师傅）家中充当学徒，一边为师傅干活，一边学习和实习。通常要学习3到6年后才能出师，升为“熟练工”（journeyman）。在大多数手工艺行业公会中，工匠的职称一般都划分为“学徒”（apprentice）、“熟练工”（journeyman）和“师傅”（master）这三个级别。  
+		3. 英语单词apprentice来自古法语aprentiz（学习者），而后者来自动词aprendre。同源的英语单词有apprehend（理解）。  
+		4. apprentice：[ə'prentɪs] n.学徒，生手vi.当学徒vt.使……当学徒  
+		5. apprenticeship：[ə'prentɪ(s)ʃɪp] n.学徒制，学徒期，学徒身份  
+		6. apprehend：[æprɪ'hend] vt.理解，逮捕，忧虑vi.理解，担心
+		7. _n._ [novice](dic://novice), [beginner](dic://beginner), [tyro](dic://tyro), [tiro](dic://tiro), [initiate](dic://initiate)
+		8. _v._ [train](dic://train), [prepare](dic://prepare)
+		9. **apprenticeship**学徒期;**trainee**新兵;**carpenter**木工, 木匠;**blacksmith**铁匠;**master**控制;**craftsman**工匠;**electrician**电工;**mentor**指导者，良师益友;**foreman**领班;**servant**仆人，佣人;**magician**魔术师，变戏法的人;
 3. **pris-** = take, 表示“拿住，抓住”。源自古法语 pris "taken"，进一步来自拉丁语 prehensus
 	1. apprise, apprize, 
 	2. comprise, comprize
@@ -2563,17 +2644,52 @@
 	6. graduate
 2. **gress-** = go, walk, 表示“行走”。源自拉丁语 gressus "to walk, to go."
 	1. aggress
+		1.  [attack](dic://attack)
+		2. _v._ [act](dic://act), [move](dic://move)
+		3. **retaliate**报复, 反击;**aggression**进攻;**punish**严厉对待;**harass**使烦恼;**injure**伤害，损害;**defend**防护;**invade**侵略;
+		4. aggressive
 	2. degression
-		1. degressive
+		1. - n. （税率的）递减；下降；渐减
+		2. degressive
 	3. digress
-	4. egress
-	5. gressorial
+		1. vi. 走向岔道, 离题, 扯到枝节上
+		2. di-偏离 + gress-走 → 走偏离 → 离题。
+		3.  [stray](dic://stray), [divagate](dic://divagate), [wander](dic://wander)
+		4.  [sidetrack](dic://sidetrack), [depart](dic://depart), [straggle](dic://straggle)
+		5. _v._ [tell](dic://tell), [deviate](dic://deviate), [divert](dic://divert)
+		6. **suppose**假设;**guess**猜测;**heh**嗨!;**duh**咄;**anyway**无论如何，不管怎样;**anyhow**无论如何;**ahem**呃哼！;**alas**唉;**yeah**是;**dunno**我不知道;**ugh**啊;
+	4. gressorial
+	5. egress
 	6. ingress
+		1.  [immersion](dic://immersion)
+		2.  [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [incoming](dic://incoming)
+		3. _n._ [disappearance](dic://disappearance), [arrival](dic://arrival)
+		4. _n._ [egress](dic://egress), [emersion](dic://emersion)
+		5. **leakage**泄漏;**moisture**潮湿;**corrosion**腐蚀;**intrusion**闯入;**abrasion**磨损;**condensation**冷凝,凝聚;**incoming**引入的，入射的;
 	7. introgression
 	8. progress
-	9. regress
+	9. regress (recess, )
+		1.  [reasoning backward](dic://reasoning backward)
+		2.  [regression](dic://regression), [reversion](dic://reversion), [retrogression](dic://retrogression), [retroversion](dic://retroversion)
+		3.  [revert](dic://revert), [return](dic://return), [retrovert](dic://retrovert), [turn back](dic://turn back)
+		4.  [retrograde](dic://retrograde), [retrogress](dic://retrogress)
+		5.  [relapse](dic://relapse), [lapse](dic://lapse), [recidivate](dic://recidivate), [retrogress](dic://retrogress), [fall back](dic://fall back)
+		6. _n._ [reasoning](dic://reasoning), [logical thinking](dic://logical thinking), [abstract thought](dic://abstract thought), [reversal](dic://reversal)
+		7. _v._ [change](dic://change), [change by reversal](dic://change by reversal), [turn](dic://turn), [reverse](dic://reverse), [worsen](dic://worsen), [decline](dic://decline), [revert](dic://revert)
+		8. _n._ [progress](dic://progress), [come on](dic://come on), [come along](dic://come along), [advance](dic://advance), [get on](dic://get on), [get along](dic://get along), [shape up](dic://shape up)
+		9. **regression**衰退;**persist**持续，固执;**evolve**发展，进化;**progress**进步，发展;
+		10. Most rhabdomyomas actually usually regress spontaneously /大多数横纹肌瘤其实通常会自发消退。
+		11. In essence, they're getting weaker, because their ability to overcome suffering is regressing. /本质上，他们变得越来越弱，因为他们克服痛苦的能力正在退化。
+		12. Indeed, women's views on gender roles have shown signs of regressing in recent years. /事实上，女性对性别角色的看法近年来有退步的迹象。
 	10. retrogress
 	11. transgress
+		1. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
+		2. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
+		3. _[transgress duty](dic://transgress%20duty)_ 越过职责
+		4. You transgressed against the law. /你犯法了。
+		5. she had transgressed an unwritten social law. /她违反了不成文的社会规范。
+		6. South Korean makers of electric vehicles in America transgress them because they use Chinese batteries. /韩国电动汽车厂商因为使用了中国电池就违反了本土化规则。
+		7. So many people (including path-breaking members of minority groups) will be deemed to have transgressed that skeletons in closets come to be regarded as inevitable. /如果有太多人的行为被视为越轨（包括少数群体的领先成员），那么人们也会觉得这样的隐情丑事是不可避免的。
 	12. congress
 	13. degree
 
@@ -2641,219 +2757,241 @@
 
 
 ### + \*glei- + = clay
-- **agglutin-** = agglutination, "凝集"
-	- agglutinant, agglutinate, agglutination
-	- agglutinin
-	- isoagglutinogen
-- **cl-** = “粘连或聚集成块”，和表示胶的词根“glu-”同源
-	- clod
-		-  PIE*glei,黏，粘，词源同 clay,clump.词义由粘连到聚集成块。
-		- n. 土块  vt. 对...掷土块
-		- clodpoll
-		- clodpole
-		- clodpate
-		- clodhopping
-		- clodhopper
-		- cloddy
-		- cloddish
-	- clog
-		- v. 堵塞; 拍照并在未经许可的情况下发到网上  n. 木屐
-		- pop one's clogs死掉。pop这里是个古代用法，表示典当，而clog则是木屐；木底鞋。过去英国中部和北部好多工业城市的工人们都穿木底鞋，因为木底比布料和皮革好清洁。连这样的生活必需品都拿出来典当，可见主人确实（多因病重而）活不了多久了
-		- When I pop my clogs , bury meon top of that mountain. ​​​​
-		- clogup
-		- cloggy
-	- clot
-		- 1 - 词源同 clod,clump,cloud.指各种大块状的东西。
-		- n. 凝块, 一团  v. (使)凝结, (使)聚集
-		- clotty
-		- clotting
-		- clotted
-		- clottage
-	- cloud
-		- unclouded
-		- thundercloud
-		- sub-cloud
-		- overcloud
-		- encloud
-		- cloudyarn
-		- cloudy
-		- cloudscape
-		- cloudnine
-		- cloudness
-		- cloudmachine
-		- cloudiet
-		- cloudland
-		- clouding
-		- cloudhopping
-		- clouded
-		- cloudbuster
-		- cloudburst
-		- cloudage
-		- cloudberry
-		- cloudage
-		- cloud-kissing
-		- cloud-castle
-		- cloud-capped
-		- cloud-built
-		- becloud
-	- clout
-		- 1 - 词源同 clod,clot,cloud.原指大块状的东西。
-		- n. 敲击, 破布; 影响力, 势力  vt. 打补钉; 猛击
-		- **prestige**威望，声望;**credibility**可信;**leverage**杠杆作用;**influence**影响;**wield**挥舞;**acumen**聪明，敏锐;**stature**身高，身材;**power**能力;**charisma**非凡的领导力;**notoriety**臭名昭著;**garner**贮藏;
-		- [pull](dic://pull)
-		- [clout nail](dic://clout nail)
-		- [punch](dic://punch), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
-		- [target](dic://target), [mark](dic://mark), [advantage](dic://advantage), [vantage](dic://vantage), [nail](dic://nail), [blow](dic://blow)
-		- [strike](dic://strike)
-			- _[clouted](dic://clouted)_  adj. 凝固的；缀补的; v. 打击；用布擦（clout的过去分词）; 
-			- _[wield clout](dic://wield%20clout)_  施加影响力
-			- _[economic clout](dic://economic%20clout)_  经济影响力
-			- _[clout nails](dic://clout%20nails)_  大帽钉
-			- _[clout nail](dic://clout%20nail)_  [五金] 大帽钉
-		- dishclout
-			- n. 散漫的女人；抹布
-			- 
-	- clump
-		- 1 - 词源同 club,大块，木棍。
-		- n. 丛, 块, 笨重的脚步声 v. 聚集, 以沉重的脚步行走
-		- clumpy
-		- clumping
-	- clumsy
-		- 1 - 词源可能 clod,clot,clump.词义由大块头引申为不方便，笨拙。
-		- a. 笨拙的, 不雅观的, 粗陋的
-		- clumsiness
-		- clumsily
-	- cluster
-		- 1 - 词源同 clod,clot.即大块形状。
-		- supercluster
-		- clustering
-		- clustered
-- **gli-** = “神经胶质”， 「Greeks」glia,gloia, "glue"
-	- glioma
-		- n. 神经胶质瘤
-		- gli-神经胶质 + -oma肿瘤
-	- gliomata
-	- neuroglia
-	- angioglioma
-	- angiogliomatosis
-- **glu, glutin-** = glue, 表示“胶”，「Latin」gluten, "glue"
-	- agglutinate
-		-  ag-,向，往，-glut,胶，粘，词源同 glue,胶水
-		- a. 粘着的, 胶合的  
-		- vt. 使...粘着  vi. 粘合, 成胶状
-		- _v._ [attach](dic://attach), [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [stick](dic://stick), [cohere](dic://cohere)
-		- _adj._ [adhesive](dic://adhesive)
-		- _n._ [nonadhesive](dic://nonadhesive)
-		- **antigen**抗原;**precipitate**沉淀;**antigens**抗原;**antibody**抗体;**dissolve**使溶解;**clot**凝块;
-		- agglutinant
-		- agglutinin
-	- conglutinate, conglutination
-		- v. (使)黏连, (使)黏合
-		- _v._ [close](dic://close), [fill up](dic://fill up), [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [stick](dic://stick), [cohere](dic://cohere)
-		- 1. **conglutinate letters**:  粘连字符 
-		- **conglutinate operation**:  粘贴运算 
-		- **cell conglutinate numerator-1**:  细胞间粘附分子 
-		- **group of conglutinate automorphisms**:  粘合自同构群
-	- glutinosity
-		- 1 - 词源同 glue,粘，胶水。
-		- n. 粘性
-		- glutinous, glutinousness
-	- glutamate
-		- n. 谷氨酸盐, 味精, 谷氨酸脂
-		- glutamic
-		- glutamine
-		- glutelin
-			- 【化】 谷蛋白  【医】 谷蛋白
-	- glue, gluey, gluewater, gluepot
-	- clover, cloverleaf
-		- clover ['kləʊvə] n.三叶草；苜蓿；红花草。可能与clay [kleɪ] n.粘土；泥土和cloud等都是日耳曼词源单词，词根本意都是粘合，因三叶草茎叶中有“sticky juice”即粘性汁液。因为clover是很好的牛牧草，所以in clover喻生活优越。Henry's new job is very well paid, and the family is inclover. ​​​​
-	- clammy
-		- 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
-		- [dank](dic://dank)
-		- _adj._ [wet](dic://wet)
-		- _n._ [dry](dic://dry)
-		- **sweaty**出汗的;**damp**使潮湿;**sweating**出汗;**shivering**颤抖的;**trembling**发抖;**cold**寒冷的;**wet**潮湿的;**humid**潮湿的;**slimy**黏滑的;**chilly**寒冷的，凉飕飕的;**tingling**发出叮当声;
-		- clamminess
-		- clammily
-	- clench
-		- v. 攥紧（拳头）, 咬紧（牙齿）n. 攥紧, 咬紧, 钉紧
-		- unclench
-		- clencher
-	- cling
-		- 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
-		- clingy
-			- adj. 紧贴的；粘住的
-			- Exactly. Who needs those clingy broads? /没错 谁想要那种黏人的小妞儿？
-			- She--she seems like she might be a little clingy /她......她好像有点粘人。
-			- I've got a clingy fifth grader I can't shake /有一个五年级的总粘着我 甩都甩不掉。
-			- Maybe I wouldn't be if you weren't so clingy /都是你太缠人了。
-		- clingstone
-			- _n._ [edible fruit](dic://edible fruit)
-			- **peaches**桃子;**peach**桃子;**apricot**杏树;**fruit**水果;**pear**梨树;**apples**苹果;**apricots**杏子;**fleshy**肉的;**grape**葡萄;**cherries**樱桃;**ripe**熟的，成熟的;
-			- _[clingstone](dic://clingstone)_  n. 粘核桃; adj. 粘核的;
-			- _[clingstone e peach](dic://clingstone%20e%20peach)_ 粘核桃
-			- Mean malate, citrate and total acid content were significantly higher in freestone peach than in semi-freestone and **clingstone** peaches /离核桃的苹果酸、柠檬酸及总酸的平均含量显著高于半离核和粘核。
-		- clinging
-	- clutch
-		- 词源同cling, clench。
-		- n. 抓紧, 掌握, 离合器, 一窝小鸡  
-		- vt. 抓住, 踩汽车离合器踏板  vi. 抓
-		- [clasp](dic://clasp), [clench](dic://clench), [clutches](dic://clutches), [grasp](dic://grasp), [grip](dic://grip), [hold](dic://hold) 
-		- [batch](dic://batch)
-		- [clutch bag](dic://clutch bag)
-		- [clutch pedal](dic://clutch pedal)
-		- [seize](dic://seize), [prehend](dic://prehend)
-		- [cling to](dic://cling to), [hold close](dic://hold close), [hold tight](dic://hold tight)
-		-  [seize](dic://seize), [get hold of](dic://get hold of)
-		- _n._ [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing), [prehension](dic://prehension), [temporary state](dic://temporary state), [brood](dic://brood), [collection](dic://collection)
-		- _v._ [take](dic://take), [get hold of](dic://get hold of), [hold](dic://hold), [take hold](dic://take hold), [overwhelm](dic://overwhelm), [overpower](dic://overpower), [sweep over](dic://sweep over)
-			- [take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。  
-			- [grasp](dic://grasp) 指紧紧抓住、抓牢。  
-			- [grab](dic://grab) 指粗暴而急迫的抓住。  
-			- [grip](dic://grip) 语气比grasp强，指用手的最大力量紧紧抓住。  
-			- [clasp](dic://clasp) 指用手紧握或用臂紧抱。  
-			- [clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。  
-			- [snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。  
-			- [seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作。
-			- **gearbox**变速箱;**flywheel**飞轮，惯性轮;**brakes**刹车系统;**brake**刹车;**tranny**半导体收音机;**gears**齿轮，传动装置;**solenoid**螺线管;**pulley**滑轮;**shifter**移动装置;**bushing**套管;**lever**杠杆;
-		- _in the clutch_ [口语]在关键时刻
-		- _electromagnetic clutch_ 电磁离合器
-		- _clutch at_ 抓住
-		- _friction clutch_ 摩擦离合器
-		- _automobile clutch_ 汽车离合器
-		- _clutch disc_ 离合器片；离合圆盘
-		- _clutch pedal_ 离合器踏板；离合皮板
-		- the clutch will not disengage. /离合器松不开。
-		- the clutch will not engage /离合器不啮合。
-		- in the clutches of the enemy /落入敌手
-		- the clutch had burned out. /离合器熄火了。
-		- she clutched the sideboard for support. /她抓住餐具柜作为支撑。
-		- The boy clutched at the back of the sofa. /小男孩紧紧抓住沙发后背。
-		- He looked down at his wand, which he was still clutching in his hand. /他低头看看魔杖，魔杖还被他抓在手里。
-		- magnetclutch
-		- jawclutch
-		- declutch
-	- gluten
-		- n. 面筋, 麸质
-		- **celiac**腹腔的;**lactose**乳糖;**allergy**过敏症;**vegan**严格的素食主义者;**wheat**小麦;**dairy**牛奶场;**soy**酱油;**allergic**对…过敏的;**vegetarian**素食者;**flour**面粉;**oat**燕麦;
-		- **gluten**麸质;**autoimmune**自身免疫的;**IBS**情报库系统;**allergy**过敏症;**thyroid**甲状腺;**lupus**狼疮;**hypothyroidism**甲状腺机能减退;**IBD**进口科;**colitis**结肠炎;**disease**病，疾病;**diabetes**糖尿病;
-		- glutenous
-		- glutenin
-- clay
-	- [mud](dic://mud)
-	- [cadaver](dic://cadaver), [corpse](dic://corpse), [stiff](dic://stiff), [remains](dic://remains)
-	- _n._ [soil](dic://soil), [dirt](dic://dirt), [general](dic://general), [full general](dic://full general), [politician](dic://politician), [politico](dic://politico), [pol](dic://pol)
-		- [earth](dic://earth) 多指地表带有水分的泥土，较具体。  
-		- [clay](dic://clay) 特指潮湿时发粘，而火烤后变坚硬的泥土。  
-		- [dirt](dic://dirt) 指地表的干松泥土。  
-		- [land](dic://land) 含义笼统。指与河流、海洋相对的陆地，也指可耕种的土地。  
-		- [dust](dic://dust) 特指土壤干燥后，飞扬于空中的细微泥土。  
-		- [soil](dic://soil) 特指适宜栽种农作物或生长各种植物的泥土。  
-		- [mud](dic://mud) 指湿土，尤指雨后稀泥、污泥。  
-		- [ground](dic://ground) 通常指大地的表面，也可指土壤、泥土或场地。
-	- **pottery**陶器;**ceramic**陶器的;**ceramics**制陶术，制陶业;**potter**陶艺家，制陶工人;**porcelain**瓷, 瓷器;**polymer**聚合物;**sand**沙;**kiln**在干燥炉干燥;**plaster**灰泥;**bricks**砖块;**limestone**石灰岩;
-	- form clay into figures. /将泥土捏成泥像
-	- Clay and wax are plastic substances /黏土和蜡是可塑性物质。
+1. **agglutin-** = agglutination, "凝集"
+	1. agglutinant, agglutinate, agglutination
+	2. agglutinin
+	3. isoagglutinogen
+2. **cl-** = “粘连或聚集成块”，和表示胶的词根“glu-”同源
+	1. clod
+		1.  PIE*glei,黏，粘，词源同 clay,clump.词义由粘连到聚集成块。
+		2. n. 土块  vt. 对...掷土块
+		3. clodpoll
+		4. clodpole
+		5. clodpate
+		6. clodhopping
+		7. clodhopper
+		8. cloddy
+		9. cloddish
+	2. clog
+		1. v. 堵塞; 拍照并在未经许可的情况下发到网上  n. 木屐
+		2. pop one's clogs死掉。pop这里是个古代用法，表示典当，而clog则是木屐；木底鞋。过去英国中部和北部好多工业城市的工人们都穿木底鞋，因为木底比布料和皮革好清洁。连这样的生活必需品都拿出来典当，可见主人确实（多因病重而）活不了多久了
+		3. When I pop my clogs , bury meon top of that mountain. ​​​​
+		4. clogup
+		5. cloggy
+	3. clot
+		1. 1 - 词源同 clod,clump,cloud.指各种大块状的东西。
+		2. n. 凝块, 一团  v. (使)凝结, (使)聚集
+		3. clotty
+		4. clotting
+		5. clotted
+		6. clottage
+	4. cloud
+		1. unclouded
+		2. thundercloud
+		3. sub-cloud
+		4. overcloud
+		5. encloud
+		6. cloudyarn
+		7. cloudy
+		8. cloudscape
+		9. cloudnine
+		10. cloudness
+		11. cloudmachine
+		12. cloudiet
+		13. cloudland
+		14. clouding
+		15. cloudhopping
+		16. clouded
+		17. cloudbuster
+		18. cloudburst
+		19. cloudage
+		20. cloudberry
+		21. cloudage
+		22. cloud-kissing
+		23. cloud-castle
+		24. cloud-capped
+		25. cloud-built
+		26. becloud
+	5. clout
+		1. 1 - 词源同 clod,clot,cloud.原指大块状的东西。
+		2. n. 敲击, 破布; 影响力, 势力  vt. 打补钉; 猛击
+		3. **prestige**威望，声望;**credibility**可信;**leverage**杠杆作用;**influence**影响;**wield**挥舞;**acumen**聪明，敏锐;**stature**身高，身材;**power**能力;**charisma**非凡的领导力;**notoriety**臭名昭著;**garner**贮藏;
+		4. [pull](dic://pull)
+		5. [clout nail](dic://clout nail)
+		6. [punch](dic://punch), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
+		7. [target](dic://target), [mark](dic://mark), [advantage](dic://advantage), [vantage](dic://vantage), [nail](dic://nail), [blow](dic://blow)
+		8. [strike](dic://strike)
+			1. _[clouted](dic://clouted)_  adj. 凝固的；缀补的; v. 打击；用布擦（clout的过去分词）; 
+			1. _[wield clout](dic://wield%20clout)_  施加影响力
+			1. _[economic clout](dic://economic%20clout)_  经济影响力
+			1. _[clout nails](dic://clout%20nails)_  大帽钉
+			1. _[clout nail](dic://clout%20nail)_  [五金] 大帽钉
+		9. dishclout
+			1. n. 散漫的女人；抹布
+			2. 
+	6. clump
+			1. 1 - 词源同 club,大块，木棍。
+		1. n. 丛, 块, 笨重的脚步声 v. 聚集, 以沉重的脚步行走
+		2. clumpy
+		3. clumping
+	7. clumsy
+		1. 1 - 词源可能 clod,clot,clump.词义由大块头引申为不方便，笨拙。
+		2. a. 笨拙的, 不雅观的, 粗陋的
+		3. clumsiness
+		4. clumsily
+	8. cluster
+		1. 1 - 词源同 clod,clot.即大块形状。
+		2. supercluster
+		3. clustering
+		4. clustered
+3. **gli-** = “神经胶质”， 「Greeks」glia,gloia, "glue"
+	1. glioma
+		2. n. 神经胶质瘤
+		3. gli-神经胶质 + -oma肿瘤
+	2. gliomata
+	3. neuroglia
+	4. angioglioma
+	5. angiogliomatosis
+4. **glu, glutin-** = glue, 表示“胶”，「Latin」gluten, "glue"
+	1. agglutinate
+		1.  ag-,向，往，-glut,胶，粘，词源同 glue,胶水
+		2. a. 粘着的, 胶合的  
+		3. vt. 使...粘着  vi. 粘合, 成胶状
+		4. _v._ [attach](dic://attach), [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [stick](dic://stick), [cohere](dic://cohere)
+		5. _adj._ [adhesive](dic://adhesive)
+		6. _n._ [nonadhesive](dic://nonadhesive)
+		7. **antigen**抗原;**precipitate**沉淀;**antigens**抗原;**antibody**抗体;**dissolve**使溶解;**clot**凝块;
+		8. agglutinant
+		9. agglutinin
+	2. conglutinate, conglutination
+		1. v. (使)黏连, (使)黏合
+		2. _v._ [close](dic://close), [fill up](dic://fill up), [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [stick](dic://stick), [cohere](dic://cohere)
+		3. 1. **conglutinate letters**:  粘连字符 
+		4. **conglutinate operation**:  粘贴运算 
+		5. **cell conglutinate numerator-1**:  细胞间粘附分子 
+		6. **group of conglutinate automorphisms**:  粘合自同构群
+	3. glutinosity
+		1. 1 - 词源同 glue,粘，胶水。
+		2. n. 粘性
+		3. glutinous, glutinousness
+	4. glutamate
+		1. n. 谷氨酸盐, 味精, 谷氨酸脂
+		2. glutamic
+		3. glutamine
+		4. glutelin
+			1. 【化】 谷蛋白  【医】 谷蛋白
+	5. glue, gluey, gluewater, gluepot
+	6. clover, cloverleaf
+		1. clover ['kləʊvə] n.三叶草；苜蓿；红花草。可能与clay [kleɪ] n.粘土；泥土和cloud等都是日耳曼词源单词，词根本意都是粘合，因三叶草茎叶中有“sticky juice”即粘性汁液。因为clover是很好的牛牧草，所以in clover喻生活优越。Henry's new job is very well paid, and the family is inclover. ​​​​
+	7. clammy
+		1. 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
+		2. [dank](dic://dank)
+		3. _adj._ [wet](dic://wet)
+		4. _n._ [dry](dic://dry)
+		5. **sweaty**出汗的;**damp**使潮湿;**sweating**出汗;**shivering**颤抖的;**trembling**发抖;**cold**寒冷的;**wet**潮湿的;**humid**潮湿的;**slimy**黏滑的;**chilly**寒冷的，凉飕飕的;**tingling**发出叮当声;
+		6. clamminess
+		7. clammily
+	8. clench
+		1. v. 攥紧（拳头）, 咬紧（牙齿）n. 攥紧, 咬紧, 钉紧
+		2. unclench
+		3. clencher
+	9. cling
+		1. 1 - 来自 PIE*glei,黏，粘，词源同 clay,glue.
+		2. clingy
+			1. adj. 紧贴的；粘住的
+			1. Exactly. Who needs those clingy broads? /没错 谁想要那种黏人的小妞儿？
+			1. She--she seems like she might be a little clingy /她......她好像有点粘人。
+			1. I've got a clingy fifth grader I can't shake /有一个五年级的总粘着我 甩都甩不掉。
+			1. Maybe I wouldn't be if you weren't so clingy /都是你太缠人了。
+		3. clingstone
+			1. _n._ [edible fruit](dic://edible fruit)
+			1. **peaches**桃子;**peach**桃子;**apricot**杏树;**fruit**水果;**pear**梨树;**apples**苹果;**apricots**杏子;**fleshy**肉的;**grape**葡萄;**cherries**樱桃;**ripe**熟的，成熟的;
+			1. _[clingstone](dic://clingstone)_  n. 粘核桃; adj. 粘核的;
+			1. _[clingstone e peach](dic://clingstone%20e%20peach)_ 粘核桃
+			1. Mean malate, citrate and total acid content were significantly higher in freestone peach than in semi-freestone and **clingstone** peaches /离核桃的苹果酸、柠檬酸及总酸的平均含量显著高于半离核和粘核。
+		4. clinging
+	10. clutch
+		1. 词源同cling, clench。
+		2. n. 抓紧, 掌握, 离合器, 一窝小鸡  
+		3. vt. 抓住, 踩汽车离合器踏板  vi. 抓
+		4. [clasp](dic://clasp), [clench](dic://clench), [clutches](dic://clutches), [grasp](dic://grasp), [grip](dic://grip), [hold](dic://hold) 
+		5. [batch](dic://batch)
+		6. [clutch bag](dic://clutch bag)
+		7. [clutch pedal](dic://clutch pedal)
+		8. [seize](dic://seize), [prehend](dic://prehend)
+		9. [cling to](dic://cling to), [hold close](dic://hold close), [hold tight](dic://hold tight)
+		10.  [seize](dic://seize), [get hold of](dic://get hold of)
+		11. _n._ [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing), [prehension](dic://prehension), [temporary state](dic://temporary state), [brood](dic://brood), [collection](dic://collection)
+		12. _v._ [take](dic://take), [get hold of](dic://get hold of), [hold](dic://hold), [take hold](dic://take hold), [overwhelm](dic://overwhelm), [overpower](dic://overpower), [sweep over](dic://sweep over)
+			1. [take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。  
+			1. [grasp](dic://grasp) 指紧紧抓住、抓牢。  
+			1. [grab](dic://grab) 指粗暴而急迫的抓住。  
+			1. [grip](dic://grip) 语气比grasp强，指用手的最大力量紧紧抓住。  
+			1. [clasp](dic://clasp) 指用手紧握或用臂紧抱。  
+			1. [clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。  
+			1. [snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。  
+			1. [seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作。
+			1. **gearbox**变速箱;**flywheel**飞轮，惯性轮;**brakes**刹车系统;**brake**刹车;**tranny**半导体收音机;**gears**齿轮，传动装置;**solenoid**螺线管;**pulley**滑轮;**shifter**移动装置;**bushing**套管;**lever**杠杆;
+		13. _in the clutch_ [口语]在关键时刻
+		14. _electromagnetic clutch_ 电磁离合器
+		15. _clutch at_ 抓住
+		16. _friction clutch_ 摩擦离合器
+		17. _automobile clutch_ 汽车离合器
+		18. _clutch disc_ 离合器片；离合圆盘
+		19. _clutch pedal_ 离合器踏板；离合皮板
+		20. the clutch will not disengage. /离合器松不开。
+		21. the clutch will not engage /离合器不啮合。
+		22. in the clutches of the enemy /落入敌手
+		23. the clutch had burned out. /离合器熄火了。
+		24. she clutched the sideboard for support. /她抓住餐具柜作为支撑。
+		25. The boy clutched at the back of the sofa. /小男孩紧紧抓住沙发后背。
+		26. He looked down at his wand, which he was still clutching in his hand. /他低头看看魔杖，魔杖还被他抓在手里。
+		27. magnetclutch
+		28. jawclutch
+		29. declutch
+	11. gluten
+		1. n. 面筋, 麸质
+		2. **celiac**腹腔的;**lactose**乳糖;**allergy**过敏症;**vegan**严格的素食主义者;**wheat**小麦;**dairy**牛奶场;**soy**酱油;**allergic**对…过敏的;**vegetarian**素食者;**flour**面粉;**oat**燕麦;
+		3. **gluten**麸质;**autoimmune**自身免疫的;**IBS**情报库系统;**allergy**过敏症;**thyroid**甲状腺;**lupus**狼疮;**hypothyroidism**甲状腺机能减退;**IBD**进口科;**colitis**结肠炎;**disease**病，疾病;**diabetes**糖尿病;
+		4. glutenous
+		5. glutenin
+5. clay
+	1. [mud](dic://mud)
+	2. [cadaver](dic://cadaver), [corpse](dic://corpse), [stiff](dic://stiff), [remains](dic://remains)
+	3. _n._ [soil](dic://soil), [dirt](dic://dirt), [general](dic://general), [full general](dic://full general), [politician](dic://politician), [politico](dic://politico), [pol](dic://pol)
+		1. [earth](dic://earth) 多指地表带有水分的泥土，较具体。  
+		1. [clay](dic://clay) 特指潮湿时发粘，而火烤后变坚硬的泥土。  
+		1. [dirt](dic://dirt) 指地表的干松泥土。  
+		1. [land](dic://land) 含义笼统。指与河流、海洋相对的陆地，也指可耕种的土地。  
+		1. [dust](dic://dust) 特指土壤干燥后，飞扬于空中的细微泥土。  
+		1. [soil](dic://soil) 特指适宜栽种农作物或生长各种植物的泥土。  
+		1. [mud](dic://mud) 指湿土，尤指雨后稀泥、污泥。  
+		1. [ground](dic://ground) 通常指大地的表面，也可指土壤、泥土或场地。
+	4. **pottery**陶器;**ceramic**陶器的;**ceramics**制陶术，制陶业;**potter**陶艺家，制陶工人;**porcelain**瓷, 瓷器;**polymer**聚合物;**sand**沙;**kiln**在干燥炉干燥;**plaster**灰泥;**bricks**砖块;**limestone**石灰岩;
+	5. form clay into figures. /将泥土捏成泥像
+	6. Clay and wax are plastic substances /黏土和蜡是可塑性物质。
+6. cloy
+	1. 可能同 clay,glue.即发黏的，发腻的。
+	2. vt. 使吃饱, 使过饱, 使厌腻  
+	3. vi. 倒胃口
+	4. [surfeit](dic://surfeit)
+	5. [pall](dic://pall)
+	6. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [satiate](dic://satiate), [sate](dic://sate), [replete](dic://replete)
+	7. **aftertaste**回味;**sweetness**美味;**mouthfeel**口感;**doth**从事;
+	8. _[Sugar Becomes Cloying](dic://Sugar%20Becomes%20Cloying)_ 糖变得反胃
+	9. _[Will it ever cloy](dic://Will%20it%20ever%20cloy)_ 在这苦痛和快乐的交重中
+	10. _[It never seems to cloy](dic://It%20never%20seems%20to%20cloy)_ 永远甜美谐和
+	11. v. （因过量而）厌倦，发腻
+	12. Too much sweet food cloys the palate. /吃过多的甜食会使人倒胃口。 
+	13. a curious bitter-sweetness that cloyed her senses. /一种令她感官发腻的苦乐参半的古怪情愫
+	14. The pleasures of idleness soon **cloy** /无所事事的快乐很快就令人厌烦了。
+	15. cloying
+		1. a. 因过量而厌烦的, 甜得发腻的, 过于感性的
+		1. Cloying speech or sentiment. /令人腻烦的语言或情感
+		1. a romantic, rather cloying story /一个浪漫的，相当腻人的故事。
+		1. a rancid, cloying odour that made him nauseous. /让他要吐的腻味和腐臭气味。
+		1. By 1602 Ben Jonson was using " fulsome" in the sense of cloying or overdone. /到1602年，本·琼森开始使用“fulsome”来表示令人厌烦或过度的意思。
+		1. Jake's show of kindness was fake, I could say that he was cloying or syrupy. /杰克的友善表现是假的，我可以说他是在令人厌烦或甜言蜜语。
 
 
 ### + \*glem-, \*glom- + 
@@ -3002,7 +3140,7 @@
 			7. prognosticate
 				1. _v._ [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend), [hazard](dic://hazard), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
 				2. **predict**预报，预言;**prognosis**预测;**prediction**预言;**foresee**预知;**speculate**思索;**anticipate**先于…行动;**dissect**切细;**quantify**量化;**assess**评定;**forecasting**预测;**ponder**仔细考虑;
-	7. cunning
+	7. cunning (canny, crafty, artful, cunning)
 		1. cun-, 词源同can, 知道，了解 + -n- + -ing。此处用作贬义。
 		2. a. 狡猾的; 灵巧的; n. 狡猾
 		3. overcunning
@@ -3419,7 +3557,7 @@
 		6. _[congruent angle](dic://congruent%20angle)_  [数] 全等角
 		7. _[congruent integers](dic://congruent%20integers)_ 同余整数
 		8. _[congruent triperspectives](dic://congruent%20triperspectives)_ 全等三角形
-	6. congruity, (gratuity)
+	6. congruity, (gratuity) (accord, consensus, congruity, conformity, consistency) (discord, dissonance, discrepancy, disparity)
 		1. **coherence**条理性,连贯性,一致性;**harmony**协调;**similarity**类似, 相似;**harmonious**和谐的;**conformity**依照, 遵从;**perception**感知;**dissonance**不一致;**propriety**①礼貌,规矩;**uniformity**一致;**juxtaposition**并置,并列;**symmetry**对称;
 		2. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
 		3. [incongruity](dic://incongruity), [incongruousness](dic://incongruousness)
@@ -4830,7 +4968,7 @@
 			2. counteroffensive
 		6. offenseless
 		7. offenseful
-2. bane
+2. bane (wax and wane / bane and boon /weal and woe /ebb and flow /boom and doom)
 	1. bane - bane源自古英语bana 'murderer'（杀人犯，凶手），首次以poison（毒物，毒药）的意义出现在1398年一篇题为On theProperties of Things（论物性）的论文中。文中有个句子henbane is mannis bane，意思是说“henbane（天仙子）这种植物对人体有毒害作用”。此义早已不用，仅残存于表示植物的一些复合词中，如fleabane（飞蓬，据信可驱跳蚤，故名），henbane（天仙子，对家禽尤其有毒），ratsbane（有杀鼠毒性的植物，也指“杀鼠药”），wolfsbane（狼毒乌头）等。bane的词义虽几经演变，但至今仍用于贬义，现一般多指“灾星”或“祸根”。
 	2. n. 烦恼之源, 祸根, 毒药, 灭亡的原因, 灭亡
 	3. [curse](dic://curse), [scourge](dic://scourge), [nemesis](dic://nemesis)

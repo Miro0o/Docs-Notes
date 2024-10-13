@@ -357,6 +357,29 @@
 	7. 
 
 
+### + \*kal- +
+#### + \*kal- (3) +
+1. **call-** = hard skin, 表示“硬皮”。源自拉丁语 callum "hard skin."
+	1. callosity
+		1. _n._ [hardening](dic://hardening), [insensitivity](dic://insensitivity), [insensitiveness](dic://insensitiveness)
+		2. **whitish**带白色的;**dorsal**背的，背侧的;**lesion**损害;**fleshy**肉的;**bony**骨的;**plantar**脚底的;**ventral**腹部的;**ridges**带钢单向皱纹;**hoof**步行;**fibrous**纤维的，纤维性的;**apical**顶上的, 顶点的;
+	2. callous
+		1. a. 冷酷无情的, 无同情心的, 冷漠的
+		2. call-硬的 + -ous表形容词。比喻无感情的，冷漠的。
+		3.  [cauterize](dic://cauterize), [cauterise](dic://cauterise)
+		4.  [indurate](dic://indurate), [pachydermatous](dic://pachydermatous)
+		5.  [calloused](dic://calloused), [thickened](dic://thickened)
+		6. _v._ [inure](dic://inure), [harden](dic://harden), [indurate](dic://indurate)
+		7. _adj._ [insensitive](dic://insensitive), [tough](dic://tough), [toughened](dic://toughened)
+		8. _n._ [sensitive](dic://sensitive), [tender](dic://tender), [untoughened](dic://untoughened)
+		9. **heartless**无情的;**insensitive**不敏感的;**cruel**残酷的，残忍的;**crass**粗鲁的;**cynical**愤世嫉俗的;**despicable**可鄙的,卑鄙的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**ruthless**无情的，残忍的;**selfish**自私的;**cowardly**怯懦的，懦弱的;
+		10. a pair of callous hands /一双结老茧的手
+		11. a callous indifference to the suffering of others. /对他人之痛苦漠不关心的铁石心肠的人
+		12. consideration requited with callous disregard; /得到冷淡回报的关心；
+		13. In it, he describes the anecdotes as shockingly callous. /贝佐斯在信中称报道中的事件极其冷酷。
+	3. callus
+
+
 ### ⭐ + \*kamp- +
 1. **camp-** = field, 表示“田野”。
 	1. champaign
@@ -964,10 +987,14 @@
 			1. _adj._ [goat](dic://goat), [caprine animal](dic://caprine animal)
 			2. **bovine**牛的;**goat**山羊;**goats**山羊;**sheep**羊，绵羊;**equine**马的;**cow**奶牛，母牛;**calf**小牛;**herd**兽群，畜群;**cattle**牛;**swine**猪;**recombinant**重组器官;
 		11. capriform
-		12. capricious
-			1. _adj._ [unpredictable](dic://unpredictable), [arbitrary](dic://arbitrary)
-			2. _n._ [predictable](dic://predictable), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
-			3. **fickle**易变的;**arbitrary**随意的, 主观的;**unpredictable**无法预言的, 不可预测的;**cruel**残酷的，残忍的;**erratic**不稳定的;**tyrannical**暴君的,暴君似的;**whim**一时的兴致;**perverse**任性的,固执的;**unreasonable**不讲道理的, 非理智的;**irrational**无理性的;**illogical**不合逻辑的;
+		12. capricious (duplicity)
+			1. (erratic, errant, wayward, precarious, labile, fickle, versatile, volatile, flighty, capricious)
+			2. _adj._ [unpredictable](dic://unpredictable), [arbitrary](dic://arbitrary)
+			3. _n._ [predictable](dic://predictable), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
+			4. **fickle**易变的;**arbitrary**随意的, 主观的;**unpredictable**无法预言的, 不可预测的;**cruel**残酷的，残忍的;**erratic**不稳定的;**tyrannical**暴君的,暴君似的;**whim**一时的兴致;**perverse**任性的,固执的;**unreasonable**不讲道理的, 非理智的;**irrational**无理性的;**illogical**不合逻辑的;
+			5. they were perturbed by her capricious behaviour. /她反复无常的行为令他们不安。
+			6.  In Iraq's case this was the Baath, or Renaissance, Party, a vehicle which he ultimately transformed, through terrifyingly capricious ruthlessness, into a fascistic tool for his own absolute control/他的无情令人发指，他的冷酷叫人难以捉摸，复兴党也因此成了他绝对操控的法西斯工具。
+			7. But investors are warned off by the capricious way he takes decisions /但是他举棋不定的决策方式吓跑了投资者们。
 	2. Capricorn
 		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [constellation](dic://constellation)
 		2. **zodiac**黄道带，十二宫图;**Pisces**双鱼座;**Aries**白羊座;**Aquarius**宝瓶宫;**horoscope**占星术;**Scorpio**天蝎座;**astrology**占星术;**astrological**占星的;**Taurus**金牛座;**Uranus**天王星;
@@ -2051,7 +2078,7 @@
 		1. antecessor
 		2. ancestor, ancestress, ancestral
 		3. ancestry
-	8. precede, 
+	8. precede (entail, ensue, before, )
 		1. [predate](dic://predate), [forego](dic://forego), [forgo](dic://forgo), [antecede](dic://antecede), [antedate](dic://antedate)
 		2. [predate](dic://predate)
 		3. [come before](dic://come before)
@@ -2060,10 +2087,17 @@
 		6. [herald](dic://herald), [go before](dic://go before), [introduce](dic://introduce), [antecede](dic://antecede), [antedate](dic://antedate)
 		7. [postdate](dic://postdate), [come after](dic://come after), [follow](dic://follow)
 		8. **appear**出现;**accompany**发生;**coincide**一致，符合;**begin**开始;**occur**发生;**necessitate**使…成为必要, 需要;**commence**开始;**prelude**前奏;**signify**表示;**correspond**相符合, 相一致;**entail**必需，使承担;
-		9. preceding, precedent, unprecedent
-		10. precedence, precedable
-		11. predecessor,
-		12. precession
+		9. a gun battle had preceded the explosions. /爆炸之前有过一场枪战。
+		10. take time to read the chapters that precede the recipes /花些时间阅读食谱前面的几章。
+		11. he let her precede him through the gate. /他让她先进门。
+		12. A band preceded the soldiers in the parade /在阅兵行列中一支乐队走在士兵的前面。
+		13. The imminent eruption has been preceded by thousands of earthquakes recorded since Friday. /自星期五以来，在这次迫在眉睫的喷发之前，官方已经记录了数千次地震。
+		14. There are many kinds of nouns that are not preceded by articles in English /英语中有许多名词不带冠词。
+		15. According to Israeli law all construction projects must be preceded by an archaeological survey. /根据以色列法律，所有建筑项目之前都必须进行考古调查。
+		16. preceding, precedent, unprecedent
+		17. precedence, precedable
+		18. predecessor,
+		19. precession
 	10. proceed, process
 		1. proceeds, proceeding, proceedings
 		2. procedure
@@ -2073,19 +2107,30 @@
 	12. retrocede
 		1. retrocession, 
 	13. secede, secession
-	14. cede
-		1. cessation
+	14. cede (concede)
+		1.  来自 PIE*sed,走，离开，放弃，词源同 accede,cession.
+		2.  [concede](dic://concede), [yield](dic://yield), [grant](dic://grant)
+		3.  [surrender](dic://surrender), [deliver](dic://deliver), [give up](dic://give up)
+		4. _v._ [give](dic://give), [gift](dic://gift), [present](dic://present)
+		5. **relinquish**交出, 让给;**renounce**宣布放弃;**surrender**投降;**abandon**离弃;**seize**抓住;**concede**承认;**unwilling**不愿意的;**occupy**占据，占领;**invade**侵略;**sovereignty**最高统治权, 君权;**negotiate**谈判，商议;
+		6. they have had to cede ground to the government. /他们不得不将土地让给政府。
+		7. a province ceded by treaty. /条约的割让的一个省。
+		8. A third of the territory was ceded to France. /领土的三分之一割让给了法国。
+		9. As a result of a series of European wars, Florida was ceded to England /一系列欧洲战事的结果是佛罗里达被割让给英国。
+		10. And they agreed that after a certain period of time, they would cede power to civilians. /他们同意在一段时间后，将权力移交给平民。
+		11. He did not admit it but, by turning the colour of a cough drop, he ceded the point. /他没有承认，但他脸色变了，放弃了观点。
+		12. cessation
 			1. **withdrawal**撤退;**resumption**重新开始;**smoking**抽烟;**cease**停止;**quitting**书面收据;**termination**终止;**onset**开始，着手;**abstinence**节制;**nicotine**尼古丁;**reduction**减少;**tobacco**烟草，烟叶;
 			2. incessant, incessancy
 				1. _[cessation](dic://cessation)_  n. 停止；中止；中断
 				2. _[smoking cessation](dic://smoking%20cessation)_  戒烟
 				3. _[cessation of business](dic://cessation%20of%20business)_  停止营业
 				4. _[contrived cessation of business](dic://contrived%20cessation%20of%20business)_  有预谋的停业
-		2. cesser
+		13. cesser
 			1. **Cesser clause**:  责任终止条款；负担终止条款；仔肩终止条款；职守终止条款
-		3. cession, cessionary
+		14. cession, cessionary
 			1. **annexation**并吞;**treaty**条约，协议;**annexed**附加的，附属的;**sovereignty**最高统治权, 君权;**secession**脱离;**indemnity**保障, 赔偿, 补偿;**ratification**正式批准;**statehood**独立国家的地位;**assent**赞成;**surrender**投降;**proclamation**宣布,声明,公告;
-	15. concede
+	16. concede
 		1. [profess](dic://profess), [confess](dic://confess)
 		2. [yield](dic://yield), [grant](dic://grant)
 		3. [admit](dic://admit), [acknowledge](dic://acknowledge), [agree](dic://agree), [hold](dic://hold), [concur](dic://concur), [concord](dic://concord), [give](dic://give)
@@ -2095,37 +2140,43 @@
 			3. [confess](dic://confess) 语气较强，着重承认自己意识到的错误或罪行，含坦白忏悔的意味。
 			4. [recognize](dic://recognize) 作“承认”解时，系书面用词，主要指合法的或外交上的承认，也指公认。
 			5. [concede](dic://concede) 指在事实与证据面前勉强或不得不承认
-		6. concessive, , 
+		6. concessive (compromise)
 			1. **verb**动词;**adjective**形容词;**clauses**子句;**verbs**动词;**participle**分词;**noun**名词;**pronoun**代词;**possessive**所有格;**grammatical**语法的;**predicate**断言;**emphatic**加强语气的;
 			2. [concession](dic://concession), [grant](dic://grant)
-			3. concession
-				1. **kiosk**小摊棚, 售货亭;**refreshment**茶点;**subsidy**津贴;**leases**租赁;**ticket**票;**lease**租约;**agreement**协定, 协议, 契约;**admission**承认;**stipulation**契约;
-				2. _n._ [contract](dic://contract), [assent](dic://assent), [acquiescence](dic://acquiescence), [agreement](dic://agreement)
-				3. _price concession_ 价格让步
-				4. _concession contract_ 特许经营权合约；租让制合同
-				5. _tariff concession_ 关税减让
-				6. 
-			4. concessioner, concessionary
-			5. concessionaire
-				1. **concession**承认, 允许;**state-owned**州立的;**licensee**持牌人;**owner**所有者;**operator**操作员;**park**公园;**contractor**承包人;
-				2. _[concessionaires](dic://concessionaires)_  受让人; 特许权获得者（concessionaire的复数）; 
-				3. _[concessionaire](dic://concessionaire)_  n. 特许权获得者，受让人
-				4. _[catering concessionaire](dic://catering%20concessionaire)_ 特许饮食服务承办商
-				5. _[concessionaire detail](dic://concessionaire%20detail)_ 租让合同承租人
-			6. concessional
-				1. _concessional loan_ 优惠贷款,
-		7. concededly
+			3. we must look for a more concessive approach /我们必须寻求一种更具妥协性的方法。
+			4. 
+		7. concession
+			1. **kiosk**小摊棚, 售货亭;**refreshment**茶点;**subsidy**津贴;**leases**租赁;**ticket**票;**lease**租约;**agreement**协定, 协议, 契约;**admission**承认;**stipulation**契约;
+			2. _n._ [contract](dic://contract), [assent](dic://assent), [acquiescence](dic://acquiescence), [agreement](dic://agreement)
+			3. _price concession_ 价格让步
+			4. _concession contract_ 特许经营权合约；租让制合同
+			5. _tariff concession_ 关税减让
+			6. a concession to their shrill demands /对他们尖刻要求的妥协。
+			7. concessions were made to conciliate the peasantry. /作出让步以安抚农民。
+			8. the concession will go some way to draw the fire of the government's critics. /所作让步将在一定程度上使政府的批评者转移火力。
+		8. concessioner, concessionary
+		9. concessionaire
+			1. **concession**承认, 允许;**state-owned**州立的;**licensee**持牌人;**owner**所有者;**operator**操作员;**park**公园;**contractor**承包人;
+			2. _[concessionaires](dic://concessionaires)_  受让人; 特许权获得者（concessionaire的复数）; 
+			3. _[concessionaire](dic://concessionaire)_  n. 特许权获得者，受让人
+			4. _[catering concessionaire](dic://catering%20concessionaire)_ 特许饮食服务承办商
+			5. _[concessionaire detail](dic://concessionaire%20detail)_ 租让合同承租人
+		10. concessional
+			1. _concessional loan_ 优惠贷款,
+		11. concededly
 			1. adv. 明白地；无可争辩地；毫无疑问地
-	16. decedent
+	17. decedent
 		1.  [dead person](dic://dead person), [dead soul](dic://dead soul), [deceased person](dic://deceased person), [deceased](dic://deceased), [departed](dic://departed)
 		2. **deceased**已故的;**executor**执行者;**plaintiff**原告;**defendant**被告;**claimant**原告;**heirs**继承人;**petitioner**请愿人;**appellant**上诉人;**beneficiary**受惠者;**probate**遗嘱认证;**debtor**债务人;
 		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
-	17. cease
+		4. tried to tamper with the decedent's will; tampering with the timing mechanism of the safe /竭力篡改死者的遗嘱；胡乱拨弄保险箱的计时装置
+		5. I can't believe,there is such a imbrute doing in this age,I can't even believe the decedent is just a "infidel /我无法相信，如此粗鲁野蛮的刑罚竟然能在这个时代出现，更无法相信处死的只是一个政见不同的人。
+	18. cease
 		1. unceasing, surcease
 		2. decease, predecease, deceased
 		3. ceasing, ceaseless
 		4. ceasefire
-	18. necessary
+	19. necessary
 		1. ne-,无，没有，不能，词源同 no,-cess,走，离开，词源同 cede,concession.即不能走的，不能离开的，引申词义必不可少的，必需的。
 		2. necessity, 
 		3. necessitate, necessitation
@@ -2141,11 +2192,23 @@
 ### + \*kei +
 #### + \*kei- (1) + = to lie, bed, couch, hoestead; beloved, dear
 1. **civ-** = citizen, 「Latin」civis, "citizen"
-	1. civic, civics, civil, civism, 
-	2. civvy
+	1. civic
+		1. civ-公民 + -ic形容词后缀。
+		2. 1 - 来自 civil,城市的，市民的，-ic,形容词后缀。
+		3. civics
+		4. civil,
+			1. civility
+				1.  [politeness](dic://politeness)
+				2. _n._ [courtesy](dic://courtesy), [good manners](dic://good manners), [formality](dic://formality)
+				3. _n._ [incivility](dic://incivility)
+				4. **incivility**粗鲁,粗野;**decency**正派;**politeness**有礼貌;**uncivil**不文明的;**dignity**尊严;**manners**礼貌;**fairness**公平;**etiquette**礼节，礼仪;**honesty**诚实，正直;**rationality**理性;**empathy**移情作用;
+				5. show civility to a guest /对客人有礼貌
+				6. 
+		5. civism, 
+	3. civvy
 		1. n. 平民, 百姓
-	3. incivism
-	4. city
+	4. incivism
+	5. city
 2. **com-** = to sleep, 
 	1. coma, comotose
 	2. cemetery
@@ -2241,52 +2304,77 @@
 	1. _[holt](dic://holt)_  n. 小林；林丘；杂木林; n. (Holt)人名；(英、德、罗、匈、瑞典)霍尔特；(法、西)奥尔特
 #### ⭐ + \*kel- (2) + = to conceal
 1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
-	1. apocalypse
-	2. apocalyptic, apocalyptical
-	3. Acalyptratae
-	4. calyptrogen
-	5. calyptra
+	1. apocalypse (apocryphal)
+		1.  apo-,离开，-calypse,隐藏，词源同 cell,hole.宗教用语，指揭露和描述世界末日的景象。
+		2. apocalypse（天启）：圣经中的“启示录”  
+		3. 《圣经•新约》中的最后一章是圣约翰（St. John）所写的“启示录”。据说耶稣基督的十二门徒之一圣约翰被罗马皇帝流放至帕特摩斯岛（Patmos）时，将主给他显示的异象记录下来，并预言了主的降临和世界末日来临时的景象。该书的希腊名是《apokalyptein》，在1230年的英语版本中被译为《The Book of Apocalypse》，在1380年的英语版本中被译为《The Book ofRevelation》。英语单词apocalypse就源自希腊语apokalyptein，由apo（away，off）+kalyptein（cover）构成，意思就是“revelation”（启示，揭示）。  
+		4. apocalypse：[ə'pɒkəlɪps] n.启示，天启  
+		5. apocalyptic：[ə'pɑkə'lɪptɪk] adj.启示录的，天启的
+	3. apocalyptic, apocalyptical
+	4. Acalyptratae
+	5. calyptrogen
+	6. calyptra
 2. **ceal-, cel-, cul-** = to hide, 表示“藏”，原始印欧语形式为 *kel- 表示"conceal"隐藏。cell- 在生物学上还表示“细胞”。
 	1. cella
-		2. cellar
-			1. subcellar
-			2. saltcellar
-			3. night-cellar
-			4. cellaring
-			5. cellaret
-			6. cellarer
-			7. cellarage
-	2. conceal
-		1. concealment
-		2. conealer
-	3. occult
-		1.  [supernatural](dic://supernatural)
-		2.  [occult arts](dic://occult arts)
-		3.  [eclipse](dic://eclipse)
-		4.  [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
-		5. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
-		6. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
-		7. [invisible](dic://invisible), [unseeable](dic://unseeable), [esoteric](dic://esoteric)
-		8. [visible](dic://visible), [seeable](dic://seeable), [exoteric](dic://exoteric)
-		9. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
-		10. occultist, occultism
+		1. n. 内殿
+	2. cellar
+		1. n. 地窖, 地下室, 藏酒
+		2. 同 cell
+		3. [basement](dic://basement)
+		4.  [root cellar](dic://root cellar)
+		5. [wine cellar](dic://wine cellar)
+		6. _n._ [floor](dic://floor), [level](dic://level), [storey](dic://storey), [story](dic://story), [excavation](dic://excavation), [storage space](dic://storage space)
+		7. **basement**地下室;**attic**阁楼;**wine**酒，葡萄酒;**cask**木桶，桶;**winery**酿酒厂;**vineyard**葡萄园;**cupboard**食橱;**crypt**地窖,教堂地下室;**vault**拱顶;**wines**葡萄酒;**cave**使凹陷，使塌落;
+		8. _wine cellar_ 酒窖；酒的贮藏室；酒窖中的酒
+		9. _cellar door_ 地窖的门
+		10. subcellar
+		11. saltcellar
+		12. night-cellar
+		13. cellaring
+		14. cellaret
+		15. cellarer
+		16. cellarage
+	3. conceal
+		1. con-强调 + ceal-隐藏。
+		2.  con-,表强调，-ceal,隐藏，词源同 cell,hole.
+		3. concealment
+		4. conealer
+	5. occult
+		1. 1 - oc-,在上，表强调，-cul,隐藏，覆盖，词源同 hole,cellar,hell.即隐藏的，覆盖的，引申词义神秘的，玄妙的。
+		2. a. 神秘的, 不可思议的, 超自然的  
+		3. v. 掩蔽, 隐藏  
+		4. n. 神秘之事, 神秘学
+		5.  [supernatural](dic://supernatural)
+		6.  [occult arts](dic://occult arts)
+		7.  [eclipse](dic://eclipse)
+		8.  [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
+		9. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
+		10. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
+		11. [invisible](dic://invisible), [unseeable](dic://unseeable), [esoteric](dic://esoteric)
+		12. [visible](dic://visible), [seeable](dic://seeable), [exoteric](dic://exoteric)
+		13. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
+		14. the typically occult language of the time. /当时典型的秘传语言。
+		15. the antithesis between  occult and rational mentalities. /超自然心态和理性心态之间的对立。
+		16. a weird occult sensation of having experienced the identical situation before /一种似曾相识的怪异、神秘的感觉。
+		17. Also, postpone your investigations into the occult. Do not dabble in theosophy, Spiritualism, or kindred studies /毋庸置疑，你应当停止任何有关神秘学术的研究，也绝对不要涉猎任何关于通神论、唯灵论及其相关学术的书籍。
+		18. occultist, occultism
 			1. **occult**神秘的;**mystic**神秘的;**magician**魔术师，变戏法的人;**mysticism**神秘主义;**psychic**精神的;**esoteric**秘传的;**cleric**牧师;**mystical**神秘的;**demonic**有魔力的，恶魔的;**philosopher**哲学家;**Satanic**邪恶的;
-		11. occultation
+		19. occultation
 			1. **eclipse**日或月食;**comet**彗星;**astronomy**天文学;**spectra**光谱;**telescope**望远镜;**Uranus**天王星;**luminosity**发光,光明;**orbit**轨道;**spectroscopy**光谱学;**constellation**星座;**satellite**卫星;
-		12. hemoccult
-		13. [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
-		14. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
-		15. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
-		16. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
-		17. 
-	5. codeine
+		20. hemoccult
+		21. [mysterious](dic://mysterious), [mystic](dic://mystic), [mystical](dic://mystical), [secret](dic://secret), [orphic](dic://orphic)
+		22. **esoteric**秘传的;**mysticism**神秘主义;**mystical**神秘的;**Satanic**邪恶的;**demonic**有魔力的，恶魔的;**supernatural**超自然的;**mystic**神秘的;**witchcraft**巫术;**paranormal**超常的;**sorcery**魔术，巫术;**pagan**异教的;
+		23. [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [practice](dic://practice), [pattern](dic://pattern)
+		24. [overshadow](dic://overshadow), [change](dic://change), [conceal](dic://conceal), [hold back](dic://hold back), [hold in](dic://hold in)
+		25. 
+	6. codeine
 		1. **acetaminophen**醋氨酚;**morphine**吗啡;**ibuprofen**布洛芬,异丁苯丙酸;**narcotic**麻醉的;**tramadol**反胺苯环醇，曲马朵;**methadone**美沙酮;**pills**丸剂;**narcotics**麻醉毒品;**drugs**毒品，药物;**cocaine**可卡因;**caffeine**咖啡因
 		2. pseudocodeine
 		3. norcodeine
 		4. dicodeine
 		5. desocodeine
 		6. apocodeine
-	6. hall
+	7. hall
 		1. whitehall
 		2. hallway
 		3. hallstand
@@ -2296,22 +2384,29 @@
 			2. [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
 			3. [authentication](dic://authentication), [assay-mark](dic://assay-mark)
 		5. guildhall
-	7. hull
+	8. hull
 		1. unhulled
 		2. huller
 3. **cell-** = cell, 表示“细胞”。源自拉丁语 cella "storeroom, chamber."
 	1. cell
-		1. celluar
+		1. cell（细胞）：软木切片中的小室  
+		2. 英语单词cell原本表示“连在一起的小房间”，如修道院中每个修道士或修女住的房间、监狱里的房间、蜂巢中的蜂室。1665年，英国物理学家罗伯特•虎克（Robert Hooke）在用自制显微镜观察软木切片时，发现里面有很多小室，就像蜂窝一样。他将这些小室称为cell（细胞）。因此，罗伯特•虎克被称为发现细胞的第一人。实际上，他所看到的并不是真正的细胞，而是死去的植物细胞的细胞壁。第一个发现活细胞的英国是荷兰人安东•范•列文虎克（Anton van Leeuwenhoek）。  
+		3. 手机以前叫做cellular phone，缩写为cellphone，这是因为移动通信网络是蜂窝式结构的。不过现在通常叫做mobilephone（移动电话）。  
+		4. cell：[sel] n.细胞，小室  
+		5. cellar：['sɛlɚ] n. 地窖；酒窖；地下室vt. 把…藏入地窖  
+		6. cellular：['seljʊlə] adj.细胞的，多孔的，蜂窝式的n.无线电话  
+		7. cellphone：n.蜂窝式无线电话，大哥大，手机
+		8. cellular
 			1. etc..
-		2. cellulate
+		9. cellulate
 			1. cellulation
 			2. cellulated
-		3. cellule
-		4. celluliferous
-		5. celluliform
-		6. cellulitis
-		7. celluloid
-		8. cellulous
+		10. cellule
+		11. celluliferous
+		12. celluliform
+		13. cellulitis
+		14. celluloid
+		15. cellulous
 4. **cell-, cellul-** = cellulose, 植物细胞壁构成的物质，中文译作“纤维素”。源自拉丁语 cella "storeroom, chamber."
 	1. cellulase
 	2. cellulolytic
@@ -2373,6 +2468,12 @@
 12. ceil
 13. clad
 14. clandestine
+	1. _adj._ [covert](dic://covert)
+	2. _n._ [overt](dic://overt), [open](dic://open)
+	3. **covert**隐蔽的;**illicit**违法的;**secret**秘密;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**undercover**暗中进行的;**espionage**谍报活动;**subversive**破坏性的;**secretly**秘密地;**spy**侦察;**nefarious**极坏的;**underground**地下的;
+	4. They had a clandestine meeting in the park yesterday. /昨天他们在公园开了个黑会。
+	5. Perhaps I should have considered a career in the clandestine arts. /也许我应该考虑从事特工职业。
+	6. Ballard signs on to the clandestine operation, if he gets something in return. /巴拉德签署了秘密行动，如果他得到回报的话。
 15. haugh
 	1. _[floodplain haugh](dic://floodplain%20haugh)_ 泛滥平原
 16. hell
@@ -2385,7 +2486,7 @@
 	4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。
 	5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞。
 	6. **gaping**多洞穴的;**peg**钉;**cavity**洞，凹处;**rabbit**兔子，野兔;**putt**击球入洞;**orifice**孔口;**fairway**航路;**doughnut**圆环图;**donut**炸面圈;**drill**钻子;**birdie**小鸟;
-19. hollow
+19. hollow (callow, mellow)
 	1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。
 	2. [vacant](dic://vacant) 普通用词，侧重某物或某个位置没有被占用。
 	3. [hollow](dic://hollow) 指物体中间是空的。
@@ -2397,8 +2498,14 @@
 	9. hollowly
 	10. hollow-hearted
 	11. hollow-eyed
-20. holster
-	1. **pistol**手枪;**handgun**手枪;**revolver**左轮手枪;**pistols**手枪;**firearm**枪炮;**gun**枪;**rifle**步枪;**Ruger**鲁格;**strap**用带捆绑;**pouch**小袋;**sling**投掷;
+20. holster (upholstery, bolster)
+	1. n. 手枪皮套
+	2. **pistol**手枪;**handgun**手枪;**revolver**左轮手枪;**pistols**手枪;**firearm**枪炮;**gun**枪;**rifle**步枪;**Ruger**鲁格;**strap**用带捆绑;**pouch**小袋;**sling**投掷;
+	3. Holster your sidearms! - Yes, do that, please. /放下你的枪 -请照做。
+	4. He pulled a pistol from a holster at his belt. /他从腰带上的枪套里拔出一把手枪。
+	5. The gunman shot one police officer in the holster of their gun. /枪手击中了一名警察的枪套，但奇迹般的是，这名警察没有受伤
+	6. I think Disney has decided to holster its gun for now and not shoot. /我想迪斯尼已经决定暂时收敛锋芒了。
+	7. 
 
 #### + \*kel- (3) +
 1. **celebr-** = honor, 「Latin」celeber "much frequented, hence famous"
@@ -2431,6 +2538,18 @@
 		2. etc..
 4. halt
 5. hold
+#### + \*kel- (5)+
+1. **cal-, cavil-** = to deceive, 表示“欺骗，挑刺”。源自拉丁语 calvi "to deceive, trick," cavilla "a jeering."
+	1. cavil
+	2. caviler
+	3. calumny
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swaer, blaspheme)
+		2.  [defamation](dic://defamation), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
+		3.  [aspersion](dic://aspersion), [slander](dic://slander), [defamation](dic://defamation), [denigration](dic://denigration)
+		4. _n._ [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [attack](dic://attack)
+		5. **slander**诽谤;**falsehood**谎言;**accusation**指责;**reproach**责备;**indignation**愤怒, 愤慨, 气愤;**ridicule**嘲笑;**scorn**轻蔑;**vile**卑鄙的;**heresy**异教;**defamation**诽谤, 中伤;**smear**涂抹;
+		6. 
+	5. challenge
 
 
 ### + \*kele- +
@@ -2458,12 +2577,18 @@
 			1. _n._ 渐增温
 			2. decalescence
 	2. nonchalance
-		1. nonchalant
-		2. nonchalantly
-	3. caldera
-	4. caldron
-	5. cauldron
-	6. chafe
+		1. n. 不关心, 冷淡, 无动于衷
+		2.  [unconcern](dic://unconcern), [indifference](dic://indifference)
+		3. _n._ [carefreeness](dic://carefreeness)
+		4. **indifference**不关心,不在乎;**disdain**蔑视;**demeanor**行为;**swagger**吓唬;**arrogance**傲慢;**coolness**凉爽;**sophistication**老练;**poise**平衡;**cynicism**犬儒主义;**apathy**冷漠，无兴趣，漠不关心;**calmness**平静，安宁;
+		5. _[disguised her interest with nonchalance](dic://disguised%20her%20interest%20with%20nonchalance)_ 她用漠不关心来掩饰自己的兴趣 
+		6. declining the offer with cool nonchalance /冷淡地拒绝这一提议
+		7. nonchalant
+		8. nonchalantly
+	4. caldera
+	5. caldron
+	6. cauldron
+	7. chafe (chastise, chasten)
 		1. vt. 擦破；擦热；擦痛；激怒 
 		2. vi. 擦伤；磨擦；激怒 
 		3. n. 擦伤；气恼
@@ -2497,10 +2622,12 @@
 		6. chafferer
 	9. electrocalorimeter
 	10. recalesce
-	11. scald
-		1. sunscald
-		2. scalding
-2. coddle
+	11. scald (scathe, scold)
+		1. n. 烫伤, 烫洗  
+		2. v. 烫伤, 烫洗
+		3. sunscald
+		4. scalding
+2. coddle (proach) (cobble)
 	1. vt. 娇养；溺爱（等于 mollycoddle）；用文火煮(蛋)
 	2. 来自拉丁语 calidium,热饮，词源同 calorie,卡路里。词义由温暖到溺爱。
 	3.  [pamper](dic://pamper), [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
@@ -2535,17 +2662,18 @@
 2. **cil-** = call, 召集
 	1. conciliar
 	2. conciliate
-		1. conciliatory
-		2. conciliator
-		3. conciliation
+		1. con-共同 + cili-集合 + -ate, 表动词 → 把人召集到一起来 → 安抚[别人]。
+		2. conciliatory
+		3. conciliator
+		4. conciliation
 			1. consiliationist
 			2. consiliationism
-	3. council
+	4. council
 		1. councilwoman, councilor
 		2. councilman
 		3. councillor 
 		4. council-chamber
-	4. reconcile
+	5. reconcile
 		1. _v._ [harmonize](dic://harmonize), [harmonise](dic://harmonise), [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [agree](dic://agree), [hold](dic://hold)
 		2. **reconciliation**和解, 调和;**resolve**解决;**confront**遭遇;**rationalize**使合理化;**reunite**使再结合;**unify**统一;**convince**使确信，使信服;**explain**说明，解释;**contradict**矛盾;**reconstruct**重建;**conflicting**相冲突的;
 		3. unreconciled
@@ -2821,21 +2949,32 @@
 			1. _adj._ [censor](dic://censor)
 			2. **censorship**审查员的职权;**censor**审查，检查;**authoritarian**权力主义的,专制的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**repressive**镇压的;**reactionary**反动的;**governmental**政府的;**judicial**法庭的;**tyrannical**暴君的,暴君似的;**totalitarian**极权主义的;**ideological**观念学的;
 	2. censure
-		1. [animadversion](dic://animadversion)
-		2. [excommunication](dic://excommunication), [exclusion](dic://exclusion)
-		3. [reprimand](dic://reprimand), [criminate](dic://criminate)
-		4. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation), [rejection](dic://rejection)
-		5. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
-		6. **condemnation**谴责;**rebuke**指责，非难;**ridicule**嘲笑;**reproach**责备;**disapproval**不赞同, 反对;**condemn**判刑，定罪;**criticism**批评, 批判, 指责;**scorn**轻蔑;**censorship**审查员的职权;**sanction**制裁，处罚;**punishment**处罚, 受罚;
-		7. _[public censure](dic://public%20censure)_  公开谴责
-		8. _[censure vote](dic://censure%20vote)_  不信任票
-		9. _[vote of censure](dic://vote%20of%20censure)_  n. 谴责票
-	3. census
-		1. [nose count](dic://nose count), [nosecount](dic://nosecount)
-		2. _n._ [count](dic://count), [counting](dic://counting), [numeration](dic://numeration), [enumeration](dic://enumeration), [reckoning](dic://reckoning), [tally](dic://tally)
-		3. _v._ [count](dic://count), [number](dic://number), [enumerate](dic://enumerate), [numerate](dic://numerate)
-		4. **population**人口;**survey**调查;
-	4. recension
+		1. admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure,
+		2. [animadversion](dic://animadversion)
+		3. [excommunication](dic://excommunication), [exclusion](dic://exclusion)
+		4. [reprimand](dic://reprimand), [criminate](dic://criminate)
+		5. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation), [rejection](dic://rejection)
+		6. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		7. **condemnation**谴责;**rebuke**指责，非难;**ridicule**嘲笑;**reproach**责备;**disapproval**不赞同, 反对;**condemn**判刑，定罪;**criticism**批评, 批判, 指责;**scorn**轻蔑;**censorship**审查员的职权;**sanction**制裁，处罚;**punishment**处罚, 受罚;
+		8. _[public censure](dic://public%20censure)_  公开谴责
+		9. _[censure vote](dic://censure%20vote)_  不信任票
+		10. _[vote of censure](dic://vote%20of%20censure)_  n. 谴责票
+	4. census
+		1. n. 户口普查  
+		2. vt. 实施统计调查
+		3. census（人口普查）：古罗马的人口普查制度  
+		4. census一词原本指的是古罗马的人口普查，源自拉丁语动词censere（评价、评判）的过去分词形式。在古罗马时期，census的重点是对人口进行“评价”而非“统计”，即通过审查公民所属部族、收入状况，将其分配至对应阶级，不同阶级拥有不同的政治权利。同时，通过统计了解各阶级的人口数量，作为划分政治权利和职责的依据。  
+		5. 与census同源的单词还有censor（审查员），该词原本指的是古罗马负责人口普查的官员。另外，他还负责监督和维护公共道德和社会风气，以及对政府财政进行监督，是罗马文职官员体系中仅次于独裁官的职位。现在，负责审查各种出版物的人也被称为censor，因为他们的主要职责和古罗马时期的censor类似，都包括通过审查和评判来监督和维护公共道德和社会风气。  
+		6. 单词censure（责难）来与census同源，本意指“裁决、意见”或“审查员的办公室”。16世纪后才转为“谴责、责难”之意。  
+		7. census：['sɛnsəs] n.人口普查，人口统计vt.实施人口普查  
+		8. censor：['sɛnsɚ] n.审查员vt.审查，检查  
+		9. censorship：['sɛnsɚ'ʃɪp] n.审查制度，审查机构  
+		10. censure： ['sɛnʃɚ] v. 谴责，责难，责备n. 责难
+		11. [nose count](dic://nose count), [nosecount](dic://nosecount)
+		12. _n._ [count](dic://count), [counting](dic://counting), [numeration](dic://numeration), [enumeration](dic://enumeration), [reckoning](dic://reckoning), [tally](dic://tally)
+		13. _v._ [count](dic://count), [number](dic://number), [enumerate](dic://enumerate), [numerate](dic://numerate)
+		14. **population**人口;**survey**调查;
+	6. recension
 		1. _[recension](dic://recension)_  n. 校订；修订；校订本
 
 
@@ -3184,17 +3323,21 @@
 		5. curtal
 		6. curtly
 		7. curtness
+	2. crab (brook)
+		1. 来自 PIE*gerbh,刮，刻，词源同 carve /scribe (skribh-).
+		2. n. 螃蟹, 蟹肉; 起重机; 阴虱  
+		3. v. 横行; 捕蟹; 抱怨; 破坏, 干扰; 使做航向偏流修正
 	3. scabbard
 		1. 来自盎格鲁法语*escauberc,剑鞘，来自 Proto-Germanic*sker-berg,剑鞘，来自 PIE*sker,砍，劈，词源同 score,shear,-berg,保护，来自 PIE*berg,保护，词源同 burg,bury.词义由砍，劈引申为刀，剑。
 		2. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
-	5. scar
+	4. scar
 		1. score（分数）：古代用来计数的刻痕  
 		2. 在人类进化的早期，人们就已经发明了各种方法来记录数字，有代表性的方法有石子计数法、结绳计数法和刻痕计数法等。刻痕计数法就是在木头、兽骨、石块上留下刻痕，通过刻痕来记录数字。1937年在维斯托尼斯（摩拉维亚）发现一根40万年前的幼狼前肢骨，7英寸长，上面有55道很深的刻痕。这是已发现的用刻痕方法计数的最早资料。  
 		3. 在古代北欧地区，牧羊人利用刻痕计数法来记录自己的羊群数量。英语单词score就源自北欧语skor，本意是“刻痕”。由于当地人采用20进制，一条刻痕代表20，所以score也就含有“20”的意思。  
 		4. 单词scar（疤痕）的来源也与score相关，都出自古北欧语。  
 		5. score：[skɔː] n.分数，二十，刻痕，配乐v.计分，得分，刻划，记下，评价  
 		6. scar：[skɑr] vt. 伤害；给留下伤痕vi. 结疤；痊愈n. 创伤；伤痕
-	6. score
+	5. score
 		1. n. 得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量  
 		2. vt. 刻划, 划线, 获得, 评价, 把...记下  
 		3. vi. 刻痕, 记分, 得分
@@ -3231,15 +3374,15 @@
 		32. scorecard
 		33. scorebook
 		34. autoscore
-	7. scarp
-	8. share
-	9. sharp
-	10. shear
+	6. scarp
+	7. share
+	8. sharp
+	9. shear
 		1. _n._ [deformation](dic://deformation), [edge tool](dic://edge tool)
 		2. _v._ [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [trim](dic://trim), [lop](dic://lop), [dress](dic://dress), [prune](dic://prune)
 		3. **tensile**拉力的;**deformation**损形;**axial**轴的;**deflection**突然转向,偏斜,偏离;**permeability**弥漫;**stiffness**僵硬;**friction**摩擦，摩擦力;**stress**压力;**turbulence**气体或水的涡流;**rigidity**硬度，刚性;**viscosity**黏稠;
-	11. shirt
-	12. short
+	10. shirt
+	11. short
 		1. shortcoming
 		2. short-lived
 		3. shortish
@@ -3253,7 +3396,7 @@
 		11. short-run
 		12. cold-short
 		13. etc..
-	13. skirt
+	12. skirt
 7. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius
@@ -4298,7 +4441,7 @@
 			9. a cursory glance at the figures. /匆匆瞥了一眼数据。
 			10. give a cursory glance at the headlines in a newspaper /草草地看一眼报纸的标题
 		9. cursoriness
-	11. discursion
+	11. discursion (awry, sidebar)
 		5. _[discursion](dic://discursion)_  n. 漫谈离题
 		6. _[intelligent discursion](dic://intelligent%20discursion)_ 智能推理
 		7. _[knowledge discursion](dic://knowledge%20discursion)_ 知识推理
@@ -4394,18 +4537,25 @@
 		6. **agree**同意;**disagree**不一致;**wholeheartedly**尽力;**reiterate**反复地说,重申;**heartily**衷心地;**presume**假定;**argue**争论，辩论;**conclude**推断出;**commend**推荐;**concede**承认;**sympathize**同情, 支持;
 		7. _concur with_ 同意；同…一致
 		8. _concur in_ 赞成
-		9. concurring, concurrent
-		10. concurrency, concurrence
-	19. incur
-		1. incurrence
-		2. incursion, incursive,
+		9. I concur with the speaker in condemning what has been done. /我同意发言者对所做的事加以谴责
+		10. Everything concurred to produce a successful result. /同时发生的事情能产生一个成功结果。
+		11. In the four trades above mentioned, both those circumstances concur. /在上述四项交易中，这两种情况同时存在。
+		12. concurring, concurrent
+		13. concurrency, concurrence
+	19. incur (inflict) (render, garner, engender, yield, induce, entail, incur)
+		1.  in-进入 + cur-跑 → 跑进来 → 招惹。
+		2.  [receive](dic://receive), [get](dic://get), [find](dic://find), [obtain](dic://obtain)
+		3. _v._ [subject](dic://subject), [change](dic://change)
+		4. **incurred**遭受;**liable**有责任的，有义务的;**costs**讼费;**reimburse**偿还;**accrue**自然增加;**necessitate**使…成为必要, 需要;**expenses**开支;**recoup**偿还;**fees**规费;**expense**开支;**suffer**忍受;
+		5. incurrence
+		6. incursion, incursive,
 			1. **invasion**侵犯;**intrusion**闯入;**invaders**侵入种;**infiltration**渗透;**onslaught**猛攻, 攻击;**outpost**前哨;**foray**突袭;**attack**攻击;**takeover**接管;**colonization**殖民地的开拓,殖民;**assault**攻击;
 			2. [penetration](dic://penetration)
 			3. [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [ingress](dic://ingress), [incoming](dic://incoming), [attack](dic://attack), [onslaught](dic://onslaught)
-	20. occur
+	21. occur
 		1. occurrent
 		2. occurrence
-	21. recur
+	22. recur
 		1. [repeat](dic://repeat)
 		2. [go back](dic://go back)
 		3. [fall back](dic://fall back), [resort](dic://resort)
@@ -4521,32 +4671,36 @@
 ### + \*kerd- +
 #### + \*kerd- (2) + = heart
 1. **card-, cord-** = heart, 表示“心脏，一致”。分别源自拉丁语 cor (词干cord-) "heart." 和希腊语 kardia "heart, stomach, orifice"
-	1. accord, concord
+	1. accord (discord) (consensus)
 		2. accordion
-	2. cardiac
-	3. cordate
-	4. cordial 
-	5. core, coreless, 
-	6. courage
-	7. discord
-	8. record
-	9. precordium
-	10. chord
+	2. concord
+	3. cardiac
+	4. cordate
+		1. a. 心脏形的
+		2. 单词A：chordate ['kɔːdeɪt] adj. [动] 脊索动物的；具有脊索的，n. 脊索动物，单词B：cordate ['kɔːdeɪt] adj. 心形的。两个单词读音完全一样，拼写只差一个字母，意思却大相径庭，请那些说字母表意的同学来分析下为啥七八个字母的单词只差一个字母意思却如此不同呢？没有任何一个字母表意！ ​​​​
+	5. cordial
+	6. core, coreless, 
+	7. courage
+		1. cor-心 + -age, 表名词。
+	8. discord (accord)
+	9. record
+	10. precordium
+	11. chord
 		1. [harmonize](dic://harmonize), [harmonise](dic://harmonise)
 		2. _n._ [straight line](dic://straight line), [note](dic://note), [musical note](dic://musical note), [tone](dic://tone)
 		3. _v._ [play](dic://play), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 		4. **melody**旋律;**harmonic**和声的;**octave**八度音阶;**riff**反复乐节;**harmonics**和声学;**melodic**有旋律的;**chromatic**有颜色的,颜色鲜艳的;**strike**罢工;**strikes**罢工;**triad**三和音;**guitar**吉他，六弦琴;
-	11. cardiogenic, cardiogram, cardiograph, cardiometer
-	12. cardiology, cardiologist
-	13. cardiomyopathy
-	14. cardiopulmonary
-	15. cardiorespiratory
-	16. cardiotonic
-	17. cardiovascular
-	18. carditis, pericarditis
+	12. cardiogenic, cardiogram, cardiograph, cardiometer
+	13. cardiology, cardiologist
+	14. cardiomyopathy
+	15. cardiopulmonary
+	16. cardiorespiratory
+	17. cardiotonic
+	18. cardiovascular
+	19. carditis, pericarditis
 		1. pericardium, pericardial
 		2. endocardium
-	19. cardiomegaly
+	20. cardiomegaly
 2. **creed-, cred-** = believe, trust, 表示“相信，信任”。源自拉丁语 credere "to believe"
 	1. credit, credible
 		1. uncredited
@@ -4558,6 +4712,20 @@
 		7. creditable
 		8. creditability
 		9. accredit
+			1. vt. 信托, 确认, 归结于, 委派
+			2. - ac-,去，往，-cred,信任，词源同 credit.
+			3.  [recognize](dic://recognize), [recognise](dic://recognise)
+			4. [credit](dic://credit)
+			5. _v._ [license](dic://license), [licence](dic://licence), [certify](dic://certify), [appoint](dic://appoint), [charge](dic://charge), [impute](dic://impute), [ascribe](dic://ascribe)
+			6. **accreditation**委派,信赖,鉴定合格;**certify**证明;**certification**证明;**approve**批准;**recognise**<英>承认;**recognize**承认;**establish**建立, 成立;**authorize**授权, 批准;**bestow**授予;**confer**商讨;
+			7. an accredited practitioner. /经授权的执业者。
+			8. an accredited journalist /特派记者
+			9. The president will accredit you as his assistant. /董事长将任命你做他的助理。
+			10. he was accredited with being one of the world's fastest sprinters. /1. 他被公认为世界上最快的短跑选手之一。
+			11. unaccredited
+			12. disaccredit
+			13. accreditee
+			14. accredition
 	2. credulity, credulous
 		1. overcredulity, overcredulous
 		2. incredulity
@@ -4567,29 +4735,36 @@
 		3. credulousness
 		4. credulously
 	3. creed, credo
-	4. credence, credential,
+	4. credence
 		1. _give credence to_ 相信…，以…为可信
 		2. **credibility**可信;**substantiate**用事实支持;**veracity**诚实;**unsubstantiated**无事实根据的;**evidence**证据，证明;**assertion**主张,维护;**credible**可靠的，可信的;**lend**贷;**legitimacy**合法;**anecdotal**轶事的,趣闻的;**refute**反驳，驳斥;
 		3. [attitude](dic://attitude), [mental attitude](dic://mental attitude), [buffet](dic://buffet), [counter](dic://counter), [sideboard](dic://sideboard)
 		4. [acceptance](dic://acceptance)
 		5. [credenza](dic://credenza)
+		6. credential
 	5. credenda
 	6. miscreant
-	7. recreancy, recreant
-		1. [poltroon](dic://poltroon), [craven](dic://craven)
-		2. [deserter](dic://deserter), [apostate](dic://apostate), [renegade](dic://renegade), [turncoat](dic://turncoat), [ratter](dic://ratter)
-		3. **traitor**叛徒;**reproach**责备;**betray**背叛;**cowardly**怯懦的，懦弱的;**coward**懦夫，懦弱的人;**oath**誓言，誓约;**cowardice**懦弱;**patriot**爱国者;**pious**虔诚的;**treachery**背信弃义, 不忠, 背叛;**disgrace**耻辱;
+	7. recreancy (cower)
+		1. re-再、反复 + cre-信任、信仰 + -ancy → 一再表示信仰 → 不忠
+		2. n. 胆小, 怯懦, 不忠 
+		3. [poltroon](dic://poltroon), [craven](dic://craven)
+		4. [deserter](dic://deserter), [apostate](dic://apostate), [renegade](dic://renegade), [turncoat](dic://turncoat), [ratter](dic://ratter)
+		5. **traitor**叛徒;**reproach**责备;**betray**背叛;**cowardly**怯懦的，懦弱的;**coward**懦夫，懦弱的人;**oath**誓言，誓约;**cowardice**懦弱;**patriot**爱国者;**pious**虔诚的;**treachery**背信弃义, 不忠, 背叛;**disgrace**耻辱;
+		6. recreant
 	8. grant
-		1. regranting
-		2. grants
-		3. grantor
-		4. granter
-		5. grantee
-		6. granted
-		7. grantable
-		8. grant-in-aid
-		9. grant-aided
-		10. gramercy
+		1. 来自拉丁文credentem, 相信，信任，词源同heart, credit, credible。
+		2. n. 授予, 授予物, 允许  
+		3. vt. 允许, 承认, 授与
+		4. regranting
+		5. grants
+		6. grantor
+		7. granter
+		8. grantee
+		9. granted
+		10. grantable
+		11. grant-in-aid
+		12. grant-aided
+		13. gramercy
 3. heart
 
 
@@ -4644,6 +4819,7 @@
 	1. caste
 	2. castellan, castellated, castellation, 
 	3. castigate,(objurgate, chastise)
+		1. admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure,
 	4. casting
 	5. castle
 		1. forecastle, sandcastle, cloud-castle, castle-builder
@@ -4672,13 +4848,14 @@
 		8. _[chaste and undefiled](dic://chaste%20and%20undefiled)_  贞洁
 		9. unchastity, chastity
 		10. chastise
-			1.  [castigate](dic://castigate), [objurgate](dic://objurgate), [chasten](dic://chasten), [correct](dic://correct)
-			2. _v._ [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture)
-			3. **criticize**评论, 批评;**punish**严厉对待;**condemn**判刑，定罪;**accuse**控告，指控;**rebuke**指责，非难;**denounce**谴责;**embarrass**使窘迫;**humiliate**蒙羞;**dissuade**劝阻，劝止;**criticise**批评;**forgive**原谅;
-			4. was roundly chastised for insolence /因为傲慢而受到一顿惩罚。
-			5. he chastised the dancers who'd been hotdogging /他严惩了卖弄技巧的舞蹈演员。
-			6. Last week, the president openly chastised Sessions for recusing himself in the Russia matter. /上周，他还公开批评塞申斯刻意回避俄罗斯调查。
-			7. chastiser, chastisement, chastisable
+			1. admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure,
+			2.  [castigate](dic://castigate), [objurgate](dic://objurgate), [chasten](dic://chasten), [correct](dic://correct)
+			3. _v._ [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture)
+			4. **criticize**评论, 批评;**punish**严厉对待;**condemn**判刑，定罪;**accuse**控告，指控;**rebuke**指责，非难;**denounce**谴责;**embarrass**使窘迫;**humiliate**蒙羞;**dissuade**劝阻，劝止;**criticise**批评;**forgive**原谅;
+			5. was roundly chastised for insolence /因为傲慢而受到一顿惩罚。
+			6. he chastised the dancers who'd been hotdogging /他严惩了卖弄技巧的舞蹈演员。
+			7. Last week, the president openly chastised Sessions for recusing himself in the Russia matter. /上周，他还公开批评塞申斯刻意回避俄罗斯调查。
+			8. chastiser, chastisement, chastisable
 		12. chasteness
 		13. chasten (criticize, chasten, chastise)
 			1. 1. _vt._ 惩罚(某人)(使之改正或改进)；惩戒
@@ -4688,13 +4865,13 @@
 			5. These, then, are the various ways we use " criticize, " " chasten, " and " chastise." /那么，这些就是我们使用“批评” 、“管教” 和“惩罚” 的各种方式。
 			6. " I want a humble heart; and a chastened mind; and I have never had them yet" ! /“我想要一颗谦卑的心；一颗受过磨练的心；但我还没有拥有它们”！
 		14. chastely
-	9. chateau
+	8. chateau
 		1. _n._ [country house](dic://country house)
 		2. **castle**城堡;**mansion**大厦;**manor**庄园;**abbey**大修道院，大寺院;**farmhouse**农舍;**chalet**瑞士山中的牧人小屋;**palace**宫殿;**Loire**卢瓦尔河;**vineyard**葡萄园;**villa**别墅;**Versailles**凡尔赛;
-	10. chateaux
-	11. chatelaine
-	12. incest, incestuous
-	13. 
+	9. chateaux
+	10. chatelaine
+	11. incest, incestuous
+	12. 
 3. caret
 	1. _n._ [mark](dic://mark)
 	2. **cursor**游标，指针;**pointer**指针;**syntax**语法;
@@ -5994,20 +6171,40 @@
 	4. _[stalactite grotto](dic://stalactite%20grotto)_  钟乳洞，[地质] 钟乳石洞
 	5. **cave**使凹陷，使塌落;**caves**洞穴;**shrine**圣地;**chapel**小教堂;**lagoon**泻湖;**basilica**长方形会堂;**fountain**喷泉，泉水;**waterfall**瀑布;**crypt**地窖,教堂地下室;**staircase**楼梯;**stairway**阶梯，楼梯;
 	6. _[grotto screen painting](dic://grotto%20screen%20painting)_ 屏风画
-	7. _[Dunhuang grottoes art](dic://Dunhuang%20grottoes%20art)_ 敦煌石窟艺术
+	7. _[stalactite grotto](dic://stalactite%20grotto)_  钟乳洞，[地质] 钟乳石洞
+	8. _[Dunhuang grottoes art](dic://Dunhuang%20grottoes%20art)_ 敦煌石窟艺术
+	9. We reached a beautiful grotto, whose entrance was almost hiden by the vine. /我们到达了一个美丽的洞穴,洞的进口几乎被藤蔓遮掩著。
+	10. Geologically, the rock mass of the Mogao Grottoes is semi-binder calcirudite of the quaternary sediment of very loose structure. /莫高窟岩体在地质学上属第四纪沙泥质、钙质半胶结砾岩，结构十分松散。
+	11. This year many of Santa's grottoes are closed due to COVID-19 /今年因为疫情，很多圣诞老人的工作室都关闭了。
+	12.  Sleepy bears, dozing in their grotto, pricked up their ears. /在他们的洞里打着瞌睡的熊们醒来了，竖起了他们的耳朵。
+	13. Oh, it has a natural gas grotto. /哦，它有一个天然气洞穴。
 4. grot
-	1. grotty
+	1. n. 奇异风格, 怪异图案  
+	2. a. 怪诞的, 荒唐的; 丑陋奇异的, 奇形怪状的  
+	3. grotto【n. 洞穴, 岩穴, 洞室】 + -esque, 表形容词。来自意大利语，通常认为来自16世纪在罗马废墟洞穴发现的奇怪的壁画，因而引申该词义。
+	4. grotesque（怪诞的）：仿效古罗马金宫壁画风格的“洞穴画派”  
+	5. 暴君尼禄统治罗马帝国时，在罗马城中修建了一座类似阿房宫的金碧辉煌的宫殿，史称“金宫”。尼禄死后，金宫被废弃填平，后人在其上部修建了大角斗场等其他建筑，从此再无人记得“金宫”的存在。一直到了15世纪末，有个罗马人，走在山路上不小心摔进了一个大坑里，人们这才发现了金宫的废墟。废墟的四壁上画满了各种风格怪异的壁画。很快地，这个神秘的“山洞”成了罗马一处新“景点”，前去观光考察的，大多是当时的顶尖艺术家，包括正在为教皇装修梵蒂冈宫殿的米开朗琪罗和拉斐尔。他们带上绳索、火把下到洞里，仔细研究那些前所未闻的壁画。  
+	6. 15世纪正是艺术史上改朝换代的文艺复兴时期，画家们从“山洞”的壁画中得到灵感，发起一场立竿见影的艺术革命。流丽的线条和夺目的色彩被复制到王公贵族的府邸、别墅，一个新的绘画流派形成了，名称就叫“洞穴画派”，意大利语为grottesco，英语为grotesque，字面意思就是“洞穴的”，源自意大利语grotta（洞穴）、英语单词grotto（洞穴）。  
+	7. 该词本来用来形容金宫废墟里的壁画，由于这些壁画风格过于独特怪诞，grotesque一词后来衍生出“怪异”的意思，它本来的词义倒被人淡忘了。  
+	8. grotesque：[grə(ʊ)'tesk] adj.奇形怪状的，怪诞的，可笑的n.怪诞风格，奇异东西  
+	9. grotto：['grɒtəʊ] n.洞穴，岩穴，人工洞穴
+	10. grotty
 		1. _adj._ [nasty](dic://nasty), [awful](dic://awful)
 		2. _n._ [nice](dic://nice)
 		3. **dodgy**狡猾的，逃避的;**seedy**多种子的;**filthy**污秽的;**smelly**有臭味的，发臭的;**posh**漂亮的;**drab**单调的;**dreary**沉闷的，枯燥的;**dilapidated**破旧的;**shabby**破旧的;**ghastly**可怕的;**damp**使潮湿;
-	2. grotesque
-		1. [monstrous](dic://monstrous), [unnatural](dic://unnatural)
-		2. [antic](dic://antic), [fantastic](dic://fantastic), [fantastical](dic://fantastical)
-		3. _n._ [art](dic://art), [fine art](dic://fine art)
-		4. _adj._ [ugly](dic://ugly), [strange](dic://strange), [unusual](dic://unusual)
-		5. _n._ [beautiful](dic://beautiful), [familiar](dic://familiar)
-		6. **ghastly**可怕的;**macabre**可怕的;**hideous**可怕的;**monstrous**极可恶的;**gruesome**可怕的;**horrifying**令人恐惧的,使人惊骇的;**bizarre**奇异的;**horrific**可怕的;**disgusting**令人厌恶的;**inhuman**无人性的;**comical**滑稽的，好笑的;
-	3. grotesquerie
+	11. grotesque
+		1. n. 奇异风格, 怪异图案  
+		2. a. 怪诞的, 荒唐的; 丑陋奇异的, 奇形怪状的
+		3. [monstrous](dic://monstrous), [unnatural](dic://unnatural)
+		4. [antic](dic://antic), [fantastic](dic://fantastic), [fantastical](dic://fantastical)
+		5. _n._ [art](dic://art), [fine art](dic://fine art)
+		6. _adj._ [ugly](dic://ugly), [strange](dic://strange), [unusual](dic://unusual)
+		7. _n._ [beautiful](dic://beautiful), [familiar](dic://familiar)
+		8. **ghastly**可怕的;**macabre**可怕的;**hideous**可怕的;**monstrous**极可恶的;**gruesome**可怕的;**horrifying**令人恐惧的,使人惊骇的;**bizarre**奇异的;**horrific**可怕的;**disgusting**令人厌恶的;**inhuman**无人性的;**comical**滑稽的，好笑的;
+		9. grotesque facial distortions. /面部扭曲成的奇形怪状。
+		10. All that inapprehensible questions I considered at that time were so footling and grotesque I feel nowadays /伤心的时候什么也不说，只是将我轻轻拥住。
+		11. Most of those reports were a nightmare—grotesque, circumstantial, eager and untrue. /那些报道大多数都是一场噩梦——离奇古怪，捕风捉影，煞有介事，而且不真实。
+	12. grotesquerie
 
 
 ### + \*krei- + = to sieve; discriminate, distinguish
@@ -7338,6 +7535,14 @@
 	3. concupiscible
 	4. Cupid
 	5. cupidity
+	6. covet (covert)
+		1. 1 - 来自拉丁语 cupio,渴求，词源同 Cupid, cupidity, hope.
+		2. _v._ [envy](dic://envy), [begrudge](dic://begrudge)
+		3. **envy**羡慕;**adore**爱慕;**envious**羡慕的;**crave**渴望;**yearn**渴望;**prized**被看作最有价值的;**despise**轻视，鄙视;**possess**持有;**steal**剽窃;**loathe**讨厌，厌恶;**hoard**储藏, 积存;
+		4. Ther other boys coveted his new bat. /其他的男孩都想得到他的新球棒。
+		5. That you have used every ruthless stratagem to win the much-coveted promotion hasn't endeared you to your rivals. /你为得到渴望的晋升，所使用的每一个无情的计谋，并没有为你赢得比你对手更多的好感。
+		6. It covets African oil, but cares little how Africa is governed. /它觊觎非洲的石油，但并不关心当地的统治。
+		7. Economists are sometimes accused of having physics envy- that is, of coveting the precision of the hard sciences. /有时经济学家被指责“物理嫉妒”—即垂涎硬科学的精密度。
 3. **vapor-** = steam
 	1. evaporate
 		2. e-出 + vapor-蒸发 + -ate, 表动词 → 以蒸汽的方式出来 → 蒸发。
@@ -7788,7 +7993,7 @@
 	9. exquisite
 		4. exquisiteness
 		5. exquisitely
-	10. perquisite
+	10. perquisite (perk)
 		1. perquisition
 	11. require
 		1. requirement

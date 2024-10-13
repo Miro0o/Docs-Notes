@@ -819,7 +819,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	7. crotch
 		1. 源同 crook,crochet.俚语，即看起来像个小弯钩。拼写比较 bake,batch.
 		2. n. 分叉处, 丫叉, 胯部
-	8. crotchet
+	8. crotchet (bouquet, cachet, crotchet, coquet)
 		1. n. 小钩；奇想；怪想；反复无常
 		2. 词源同 crook,crochet.音乐术语，因形如小弯钩而得名。
 		3.  [hook](dic://hook)
@@ -848,45 +848,96 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		1. 1.蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
 2. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
 	1. crux
-		1. cruces
-		2. cruxes
-	2. crucial
+		1.  cruise - crux原为拉丁语单词，在古拉丁语中原指刑具（instruments of torture），即（处死刑用的）十字架、火刑柱（stake）和绞刑架或（吊绞刑尸体的）示众架（gibbet），以后由此引申出“折磨”、“麻烦”、“困难”和“苦难”等义。18世纪英语将crux直接借过来的时候，它就用于“疑难之事”或“难题”一义，后来才又进而引申出“（问题、疑问、争论等的）核心”、“症结”、“关键”等我们至今仍在使用的词义。 
+		2. 英语中源自crux的词为数不少。cross似乎是借自古爱尔兰语或古斯堪的纳维亚语（Old Norse），它是在盎格鲁撒克逊人皈依基督教时出现的，但其终极词源却是crux。除指“十字架”或“十字标记”之外，cross作动词用时，表示“横穿”、“横跨”，而作形容词用时，表示“恼怒的”或“生气的”，这些词义都是从十字架的形状引申出来的。还有crucify（钉死在十字架上），crucifix（有耶稣像的十字架），crucifixion（钉死在十字架上），cruciform（十字形的），crucial（决定性的），excruciating（剧烈疼痛的）等词均源于crux。此外，cruise（乘船巡游）一词虽然来自荷兰语kruisen 'to cross'（横越），但其终极词源还是crux。
+		2. cruces
+		3. cruxes
+	3. cruise
+		3. [sail](dic://sail)
+		4. _n._ [ocean trip](dic://ocean trip), [voyage](dic://voyage)
+		5. _v._ [travel](dic://travel), [journey](dic://journey), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [search](dic://search), [look](dic://look)
+			1. [journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。  
+			2. [tour](dic://tour) 指最后反回出发地，旅途中有停留游览点，距离可长可短，目的各异的周游或巡行。  
+			3. [travel](dic://travel) 泛指旅行的行为而不指某次具体的旅行，多指到远方作长期旅行，不强调直接目的地，单、复数均可用。  
+			4. [trip](dic://trip) 普通用词，口语多用，常指为公务或游玩作的较短暂的旅行。  
+			5. [voyage](dic://voyage) 指在水上旅行，尤指海上旅行，也可指空中旅行。  
+			6. [excursion](dic://excursion) 较正式用词，常指不超过一天的短时期娱乐性游玩，也可指乘火车或轮船往返特定景点的远足旅游。  
+			7. [expedition](dic://expedition) 指有特定目的远征或探险。  
+			8. [cruise](dic://cruise) 主要指乘船的游览并在多处停靠。
+		6. **ship**运送，乘船;**sailing**航行，航海;**onboard**在船上;**boat**小船;**sail**航行;**excursion**远足, 短途旅行;**yacht**快艇, 帆船, 游艇;**sailboat**帆船;**barge**驳船;**aboard**在火车上;**voyage**航行;
+		7. a cruise that cost an arm and a leg /要花去好多钱的航行
+		8. cruise fan aerodynamics /巡航风扇空气动力学
+		9. cruise liners plough the long-sailed routes /游轮在远途航行路线上乘风破浪。
+		10. Wales cruised to a convincing win over Ireland. /威尔士队以绝对优势大胜爱尔兰队。
+		11. And back then, different giants cruised the landscape. /回到那个时期，各种各样的巨兽出没在这片土地上。
+	4. crucial
 		1. crucial - 该词借自法语crucial，但其终极词源却是拉丁语crux/crucis 'cross'（十字架），起初在18世纪时，crucial是作为cross的形容词用的，意为“十字形的”（cross-shaped），主要用于解剖学用语，如crucial incision（十字形切口），crucial scar（十字形伤疤）。crucial的今义产生于19世纪。英国哲学家、英语语言大师、英国唯物主义和实验科学的创始人培根（Francis Bacon, 1561-1626）在1620年发表的一篇全部用拉丁文写的哲学论文中用了instantia crucis 'instance of the cross'这一短语，其中crucis即crux，原意是分岔路口的指路牌，培根用该短语来指能证明两种假设一是一非的事例。就像一个人来到分岔路口，指路牌会指示他往哪条路走，在两种对立的假设中通过实验就能证明哪种是正确的。instantiacrucis译成英语就是crucial instance。以后，英国化学家、物理学家和自然哲学家玻意耳（Robert Boyle, 1627-1691）和英国物理学家、数学家和天文学家牛顿（Sir Isaac Newton, 1642-1727）也用了一个类似的拉丁文短语experimentum crucis，译成英语就是crucial experiment。经培根等人这么一用，crucial便被赋予了“关键的”、“决定性的”、“至关重要的”等我们至今仍在使用的词义。（参见crux）
-	3. cruciate
-		1. _adj._ [symmetrical](dic://symmetrical), [symmetric](dic://symmetric)
-		2. _n._ [asymmetrical](dic://asymmetrical), [asymmetric](dic://asymmetric)
-		3. **ligament**韧带;**ligaments**韧带;**ACL**容许机舱负荷;**knee**膝盖，膝;**hamstring**使无能为力;**tendon**腱;**ruptured**破裂的;**anterior**前面的;**ankle**踝关节，踝;**femoral**股骨的;
-	4. crucible
-	5. crucifer
+	5. cruciate (excruciating)
+		1. adj. 十字状的，十字形的
+		2. _adj._ [symmetrical](dic://symmetrical), [symmetric](dic://symmetric)
+		3. _n._ [asymmetrical](dic://asymmetrical), [asymmetric](dic://asymmetric)
+		4. **ligament**韧带;**ligaments**韧带;**ACL**容许机舱负荷;**knee**膝盖，膝;**hamstring**使无能为力;**tendon**腱;**ruptured**破裂的;**anterior**前面的;**ankle**踝关节，踝;**femoral**股骨的;
+		5. _anterior cruciate ligament_ 前交叉韧带
+		6. An exception, though, is damage to the anterior cruciate ligament (acl) of the knee /不过，膝关节前交叉韧带(ACL)受损是一个例外。
+	6. crucible
+	7. crucifer
 		1. n. 执十字架的人；[植]十字花科植物
 		2. [cruciferous plant](dic://cruciferous plant)
 		2. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
 		3. **asparagus**芦笋;**broccoli**花椰菜;**deacon**执事;**cabbage**卷心菜，甘蓝菜，脑袋;
-	6. Crucierac
-	7. cruciferous
-	8. crucifix
-	9. cruciform
-	10. crucify
-		1.  [torment](dic://torment), [rag](dic://rag), [bedevil](dic://bedevil), [dun](dic://dun), [frustrate](dic://frustrate)
-		2. [savage](dic://savage), [pillory](dic://pillory)
-		3. _v._ [execute](dic://execute), [put to death](dic://put to death), [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy)
-		4. **condemn**判刑，定罪;**crucifixion**苦难;**denounce**谴责;**criticize**评论, 批评;**punish**严厉对待;**repent**忏悔;**humiliate**蒙羞;**accuse**控告，指控;**kill**杀死;**slay**杀害;**Jesus**耶稣;
-	11. crusade
-		1.  [campaign](dic://campaign), [cause](dic://cause), [drive](dic://drive), [movement](dic://movement), [effort](dic://effort)
-		2. [fight](dic://fight), [press](dic://press), [campaign](dic://campaign), [push](dic://push), [agitate](dic://agitate)
-		3. _n._ [venture](dic://venture), [expedition](dic://expedition), [military expedition](dic://military expedition), [hostile expedition](dic://hostile expedition)
-		4. _v._ [advertise](dic://advertise), [advertize](dic://advertize), [promote](dic://promote), [push](dic://push), [campaign](dic://campaign), [take the field](dic://take the field)
-		5. **campaign**运动;**zeal**热心;**quest**追求;**jihad**讨伐异教徒;**waged**支付工资的;**revolt**反抗;**scourge**鞭打;**fervor**热情;**preaching**讲道,讲道法;**war**战争，斗争;**all-out**竭力的,全部的;
-	12. excruciate
+	8. Crucierac
+	9. cruciferous
+		1. adj. 十字花科的
+		2. _adj._ [Cruciferae](dic://Cruciferae), [family Cruciferae](dic://family Cruciferae), [Brassicaceae](dic://Brassicaceae), [family Brassicaceae](dic://family Brassicaceae), [mustard family](dic://mustard family)
+		3. **broccoli**花椰菜;**leafy**多叶的;**cauliflower**花椰菜;**cabbage**卷心菜，甘蓝菜，脑袋;**kale**羽衣甘蓝;**vegetable**蔬菜;**legumes**豆类;**veggie**素食者;**spinach**菠菜;**antioxidant**抗氧化剂;**folate**叶酸;
+	11. crucifix
+		1.  [rood](dic://rood), [rood-tree](dic://rood-tree)
+		2. _n._ [Cross](dic://Cross), [gymnastic exercise](dic://gymnastic exercise)
+		3. **rosary**玫瑰园，玫瑰花坛;**altar**祭坛;**statue**雕像，塑像;**kneeling**跪着，跪下;**iconography**图解,插图;**chapel**小教堂;**crucifixion**苦难;**pendant**下垂物，垂饰;**brooch**胸针，领针;**medallion**大奖章;**necklace**项链;
+		4. _[crucifix shape](dic://crucifix%20shape)_ 十字
+		5. _[crucifix pendant](dic://crucifix%20pendant)_ 十字架坠饰
+		6. a crucifix of copper /一个铜十字架
+		7. As a boy, Mr Waldie carried the crucifix in his church on Good Friday, wiping lipstick off Jesus's feet. /作为一个男孩，沃尔迪先生在耶稣受难日的时候在教堂里带着十字架，为耶稣擦干脚。
+	12. cruciform
+		1. _adj._ [symmetrical](dic://symmetrical), [symmetric](dic://symmetric)
+		2. _n._ [asymmetrical](dic://asymmetrical), [asymmetric](dic://asymmetric)
+		3. **octagonal**八边形的;**hexagonal**六角形的;**triangular**三角形的;**rectangular**矩形的;**Romanesque**罗马式的;**na**
+	13. crucify
+		1. crucify（钉死）：古罗马的钉十字架刑罚  
+		2. 一提起耶稣基督，人们总会想到被钉死在十字架上的耶稣受难图。将人钉在十字架上处死是古罗马时期的一种残忍刑罚，据说是古腓尼基人最先发明的，后来广泛流传至希腊、亚述、埃及、波斯和罗马。这种死亡方式被视为是最屈辱的。罗马人认为只有奴隶和最坏的罪犯才可以被这样处死。  
+		3. 这种残酷刑罚起源于一根木桩。起初是把犯人绑在木桩上，令他窒息而死，既简单又残忍。后来木架被引入，有十字架、T形架和X形架。尽管各地行刑的细节略有不同，但大致情形都一样：犯人先被鞭笞，然后被迫背着木架走到刑场。行刑前，犯人被剥去衣服，只剩下一块缠腰布。然后将犯人的手脚钉在木架上，再把十字架插进地上预备好的固定口内。  
+		4. 十字架上的犯人不是饿死或渴死的，也不是因为出血而死，最终是因窒息而死。钉在十字架上的人只能靠伸缩双臂呼吸。可是在这样的一种姿势下，加上钉伤所产生的强烈疼痛，肌肉无法收缩，于是胸腔的空气无法排出，人最终慢慢窒息而死。  
+		5. 耶稣基督被钉死在十字架上是基督教发展的核心事件。自从耶稣基督殉难、基督教发展壮大后，十字架刑罚逐渐销声匿迹，因为掌权者不再用处死“神的儿子”的方法来处死犯罪的人，而是以绞刑和其它刑罚取代。  
+		6. 在英语中，用钉十字架刑罚来处死犯人被称为crucify，来自拉丁语crucifigere，字面意思就是“钉在十字架上”，其中词根cruci-就是cross（交叉）的意思。  
+		7. crucify： ['kruːsɪfaɪ] vt.钉在十字架处死，折磨  
+		8. crucifix： ['kruːsɪfɪks] n.十字架，耶稣受难像  
+		9. Crucifixion： [kruːsɪ'fɪkʃ(ə)n] n.（十字架）刑罚，苦难  
+		10. cruciate：['kruːʃɪət; -eɪt] adj. 十字状的，十字形的
+		11.  [torment](dic://torment), [rag](dic://rag), [bedevil](dic://bedevil), [dun](dic://dun), [frustrate](dic://frustrate)
+		12. [savage](dic://savage), [pillory](dic://pillory)
+		13. _v._ [execute](dic://execute), [put to death](dic://put to death), [harass](dic://harass), [hassle](dic://hassle), [harry](dic://harry), [chivy](dic://chivy), [chivvy](dic://chivvy)
+		14. **condemn**判刑，定罪;**crucifixion**苦难;**denounce**谴责;**criticize**评论, 批评;**punish**严厉对待;**repent**忏悔;**humiliate**蒙羞;**accuse**控告，指控;**kill**杀死;**slay**杀害;**Jesus**耶稣;
+	14. crusade
+		1. crusade - 公元11世纪，西方基督教徒的宗教热情高涨，前往圣地耶路撒冷及基督圣墓（the Holy Sepulchre）朝拜的西欧教徒日益增多。1077年塞尔柱突厥人（the Seljuk Turks）占领了耶路撒冷。1095年，教皇乌尔班二世（Pope Urban II）在法国召开宗教会议，号召信徒为收复圣地而战。由于参加东征者都在衣服上佩戴十字作为标记，故称十字军。根据英国本笃会修士、编年史家帕里斯（Matthew Paris, 1200?-1259）的说法，西欧各国的十字军战士臂上所佩戴的十字标记颜色各异：法国的为红色，英国的为白色，意大利的为蓝色或天蓝色，西班牙的为红色（gules）。  
+		2. 拉丁语“十字”是crux，进入古法语作crois，进入西班牙语作cruz。到了12世纪，法语从crois派生出动词croiser（参加十字军），随后又从该动词的过去分词派生出croisade，用以指“十字军（东征）”。几乎与此同时，一个指“十字军（东征）”的词cruzada也在西班牙语应运而生了。英语将这两个词同时借了过来，分别作croisade与crusado。到了18世纪，两者缩合为一个词，这就是crusade。从结构上看，crusade系由西班牙语借用词crusado的首部分（cru-）和法语借用词croisade的尾部分（-sade）缩合而成。英国作家、辞典编纂者约翰逊（Samuel Johnson, 1709-1784）所编的《英文辞典》在1755年问世时就收录了这个词。18世纪80年代以后，crusade的词义开始有了延伸，可用以喻指“（改革）运动”，而且还作动词用，表示“从事或参加（改革）运动”。（参见crux）
+		3.  [campaign](dic://campaign), [cause](dic://cause), [drive](dic://drive), [movement](dic://movement), [effort](dic://effort)
+		4. [fight](dic://fight), [press](dic://press), [campaign](dic://campaign), [push](dic://push), [agitate](dic://agitate)
+		5. _n._ [venture](dic://venture), [expedition](dic://expedition), [military expedition](dic://military expedition), [hostile expedition](dic://hostile expedition)
+		6. _v._ [advertise](dic://advertise), [advertize](dic://advertize), [promote](dic://promote), [push](dic://push), [campaign](dic://campaign), [take the field](dic://take the field)
+		7. **campaign**运动;**zeal**热心;**quest**追求;**jihad**讨伐异教徒;**waged**支付工资的;**revolt**反抗;**scourge**鞭打;**fervor**热情;**preaching**讲道,讲道法;**war**战争，斗争;**all-out**竭力的,全部的;
+		8. Should it wage an additional crusade against rising temperatures worldwide? /它是否应该在世界范围内发起一场反对气温上升的运动？
+		9. But the American Medical Association began a crusade in 1857 to make abortion illegal. /但在 1857 年，美国医学协会开始了一场堕胎权非法化的运动。
+		10. For years now, RFK Jr. has led a crusade against it. /多年以来 小罗伯特·肯尼迪一直在反对使用它。
+		11. Really? - Yeah, I've been meaning to do more crusading in the name of good. /真的吗？ - 是啊 我一直想为行善人间而奋斗。
+		12. One reason was the religious wars known as the crusades. /原因之一是被称为十字军东征的宗教战争。
+	15. excruciate
 		1. _v._ [pain](dic://pain), [anguish](dic://anguish), [hurt](dic://hurt), [injure](dic://injure), [wound](dic://wound)
 		2. _[excruciate](dic://excruciate)_  v. （使）受酷刑，折磨
 		3. _[heart excruciate](dic://heart%20excruciate)_ 内心拷问
 		4. _[excruciate e](dic://excruciate%20e)_ 折磨; 施酷刑; 使苦恼; 
 		5. _[excruciate exult](dic://excruciate%20exult)_ 施酷刑
 		6. _[excruciate torment torture](dic://excruciate%20torment%20torture)_ 拷问
-	13. cruise
-		1. cruise - crux原为拉丁语单词，在古拉丁语中原指刑具（instruments of torture），即（处死刑用的）十字架、火刑柱（stake）和绞刑架或（吊绞刑尸体的）示众架（gibbet），以后由此引申出“折磨”、“麻烦”、“困难”和“苦难”等义。18世纪英语将crux直接借过来的时候，它就用于“疑难之事”或“难题”一义，后来才又进而引申出“（问题、疑问、争论等的）核心”、“症结”、“关键”等我们至今仍在使用的词义。 
-		2. 英语中源自crux的词为数不少。cross似乎是借自古爱尔兰语或古斯堪的纳维亚语（Old Norse），它是在盎格鲁撒克逊人皈依基督教时出现的，但其终极词源却是crux。除指“十字架”或“十字标记”之外，cross作动词用时，表示“横穿”、“横跨”，而作形容词用时，表示“恼怒的”或“生气的”，这些词义都是从十字架的形状引申出来的。还有crucify（钉死在十字架上），crucifix（有耶稣像的十字架），crucifixion（钉死在十字架上），cruciform（十字形的），crucial（决定性的），excruciating（剧烈疼痛的）等词均源于crux。此外，cruise（乘船巡游）一词虽然来自荷兰语kruisen 'to cross'（横越），但其终极词源还是crux。
+		7. He **excruciate** the life's aim, but cannot help the infinity of the time and space, the insignificant of the life, he was analyzing the antinomy of life, seeking ask for the psychic end-result /他拷问生命的目的，无奈于时空的无限和生命的渺小，剖析生命的矛盾，寻找心灵的归宿。
 
 
 
@@ -934,7 +985,18 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 1. **cur-** = care, 表示“关心”。源自拉丁语 cura "care."
 	1. cure
 		3. curative
-		5. incurably
+			1. a. 治病的, 有疗效的  
+			2. n. 药物, 治疗法
+			3. [remedy](dic://remedy), [cure](dic://cure), [therapeutic](dic://therapeutic)
+			4.  [healing(p)](dic://healing(p)), [alterative](dic://alterative), [remedial](dic://remedial), [sanative](dic://sanative), [therapeutic](dic://therapeutic)
+			5. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
+			6. _adj._ [healthful](dic://healthful)
+			7. _n._ [unhealthful](dic://unhealthful)
+			8. **therapeutic**治疗的;**medicinal**医学的;**preventive**预防,防止;**restorative**恢复健康和体力的;**palliative**治标药物;**preventative**预防性的;**healing**能治愈的;**cures**治愈;**treatment**处理;**cure**治愈;**anti-inflammatory**抗炎的;
+			9. _curative effect_ 疗效
+			10. Methods Contrast the curative effect and prognosis in autoreinfusion and xenogenous transfusion /方法对比应用储存失自体输血和异体输血的疗效、预后。
+			11. There's no curative treatment for neurodegeneration /神经退行性变没有治愈方法。
+		4. incurably
 	2. curate, curacy
 		1. [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
 		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)

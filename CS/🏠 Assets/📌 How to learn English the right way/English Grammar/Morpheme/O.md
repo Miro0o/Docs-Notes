@@ -519,6 +519,52 @@
 	4. [burden](dic://burden), [load](dic://load), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance)
 
 
+### + \*ongw- +
+1. **unct-, ung-** = to oil，表示“油”。-ct 是过去分词后缀。源自拉丁语 unguere "to smear, anoint."
+	1. anoint
+		1.  [inunct](dic://inunct), [oil](dic://oil), [anele](dic://anele), [embrocate](dic://embrocate)
+		2. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [bless](dic://bless)
+		3. **appoint**任
+		4. Cuna Indians anoint the tips of their arrows with poison. /库纳印第安人将毒药涂在箭头上。
+		5. bodies were anointed after death for burial. /死后遗体涂油以便下葬。
+		6. Good words anoint us, and ill do unjoint us. /忠言像在伤口上涂油，恶语像在身上切肉。
+		7. His wife, Camilla, will also be anointed and crowned. /王后卡米拉也将受膏加冕。
+		8. There will be anointing, homage-paying, oath-taking and all manner of processing /到时候将有涂油、致敬、宣誓等各种程序。
+		9. Luckily for them, works that have been anointed by the Tate command more credibility and a premium upon resale. /对他们来说幸运的是，被泰特美术馆选定的作品在转售时能赢得更高的信誉和溢价。
+	2. inunction
+		1. _n._ [anointing](dic://anointing), [anointment](dic://anointment), [religious ceremony](dic://religious ceremony), [religious ritual](dic://religious ritual)
+		2. - n. 涂擦；涂油；软膏
+	3. ointment
+	4. unction
+		1.  [smarm](dic://smarm), [fulsomeness](dic://fulsomeness)
+		2.  [fulsomeness](dic://fulsomeness), [oiliness](dic://oiliness), [oleaginousness](dic://oleaginousness), [smarminess](dic://smarminess), [unctuousness](dic://unctuousness)
+		3.  [ointment](dic://ointment), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)
+		4.  [inunction](dic://inunction)
+		5. _n._ [compliment](dic://compliment), [hypocrisy](dic://hypocrisy), [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [anointing](dic://anointing)
+		6. **sacrament**圣事,圣礼;**piety**虔诚;
+		7. the headlines gloated with the kind of effusive unction only the English press can muster /那些标题采用只有英国报界敢用的过度谄媚表达洋洋自得之情。
+		8. The critic leaned back in his chair and placed the tips of the fingers of one hand against the tips of the fingers of the other. He spoke with unction /评论家在椅子里往后一靠，把一只手的手指尖顶着另一只手的手指尖，津津有味地讲起来。
+		9. " That you may, my good little girl: there is not another being in the world has the same pure love for me as yourself—for I lay that pleasant unction to my soul, Jane, a belief in your affection" /“你可以，我的好小姑娘：世界上没有另一个人像你一样对我有着同样纯洁的爱——因为我在我的灵魂上涂上了那种愉快的油膏，简，相信你的爱”。
+	5. unctuous
+		1.  [buttery](dic://buttery), [fulsome](dic://fulsome), [oily](dic://oily), [oleaginous](dic://oleaginous), [smarmy](dic://smarmy), [soapy](dic://soapy)
+		2. _adj._ [insincere](dic://insincere)
+		3. _n._ [sincere](dic://sincere)
+		4. **velvety**天鹅绒般柔软的;**slimy**黏滑的;**pompous**浮夸的;**creamy**含乳脂的;**pungent**刺激性的;**meaty**多肉的;**nutty**多坚果的;**earthy**土的;**buttery**谄媚的，奉承的;**gooey**感伤的;**oily**油的;
+		5. He made an unctuous assurance. /他做了个虚请假意的承诺。
+		6. a smarmy, unctuous reply. /一个虚情假意、油腔滑调的回复。
+		7. an unctuous, ingratiating manner. /虚情假意的，逢迎的方式
+		8. an ambitious and unctuous assistant; /一个野心勃勃，假意逢迎的助手；
+		9. It's fruity and spiced and sweet, but also unctuous. /它有水果味、香料味和甜味，但也不油腻。
+		10. His voice was rather deep and unctuous. /他的声音相当低沉和油腻。
+		11. And it kinda goes really toffee-like, really unctuous, really scrumptious, and it's amazing. /香蕉会变得像太妃糖一样，非常香醇浓厚，美味至极。
+	6. unguent
+		1. [ointment](dic://ointment), [unction](dic://unction), [balm](dic://balm), [salve](dic://salve)
+		2. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
+		3. **ointment**油膏;**potion**一剂;**incense**香;**potions**药剂，药水;**balm**香油;**concoction**混合;**lotion**洗液;**lotions**洗液;**perfume**香水;**perfumes**香料;**anointed**涂油于…;
+		4. Can I interest you in a topical steroid from my lotion and unguent collection? /我在我的乳液和软膏系列里帮你找一种管用的类固醇好吗？
+		5. Each night when she prepared for bed she smeared her face with some new unguent which she hoped illogically would give back the glow and freshness to her vanishing beauty. /每天晚上，当她准备睡觉时， 她都会在脸上抹一些新的药膏， 她不合逻辑地希望这能让她消失的美丽恢复光泽和清新。
+		6. The father smeared the face of his son with a powerful **unguent**. /父亲用一种非常有效的油膏涂抹在儿子的脸上。
+		7. unguentum
 
 ## op
 ### + \*op- + = to work, produce in abundance

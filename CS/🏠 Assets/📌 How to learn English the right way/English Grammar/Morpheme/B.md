@@ -193,22 +193,32 @@
 ### + \*bassus- +
 1. **bas-, base-** =  low, foundation, 表示“低下，基础”，来自拉丁语，碱的含义由法国化学 Guillaume-Franois Rouelle 在1754年引入。
 	1. base
-	2. abase (abate, ablate)
+	2. abase (abate, ablate, abash)
 		1. vt. 降低...的地位, 降低...的品格, 贬抑, 使谦卑
 		2. a-=ad-使 + base【低】 → 使自己低 → 降低。
 		3.  a-,去，往，base,低下，卑微，词源同 base metal,贱金属。
 		4.  [humiliate](dic://humiliate), [mortify](dic://mortify), [chagrin](dic://chagrin), [humble](dic://humble)
 		5. _v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
 		6. **humiliate**蒙羞;**embarrass**使窘迫;**lest**唯恐，以免;**exalted**尊贵的;**thee**你;**doth**从事;**degrade**降格;**tremble**战栗;**countenance**面容，表情;**reproach**责备;
-		7. 
-		8. abasement
-		9. self-abasement
+		7. A man who betrays a friend abases himself. /叛友者实为自贬身份。
+		8. refused to abase herself by asking for an invitation. /因请求得到他人的邀请被拒绝而使自己的威望降低。
+		9. The president is not willing to abase himself before the nation /总统不愿在全国人民面前降低自己的威信。
+		10. abasement
+		11. self-abasement
 	3. baseborn
-	4. baseless
-	5. baseline
-	6. baseness
-	7. baseplate
-	8. basal
+		1. adj. 出身微贱的；私生的；卑鄙的，可耻的
+		2.  [base](dic://base), [humble](dic://humble), [lowly](dic://lowly)
+		3. _adj._ [lowborn](dic://lowborn), [illegitimate](dic://illegitimate)
+		4. _n._ [noble](dic://noble), [legitimate](dic://legitimate)
+		5. **illegitimate**非法的;**bastard**私生的;**nobleman**贵族;**half-brother**同父异母或同母异父的兄弟;**consort**结交;**duke**公爵，君主;**aristocratic**贵族的;**heir**继承人;**nobility**贵族;**lord**上帝;**mistress**情妇;
+		6. " Four baseborn churls. A beggar's offering. Scum like that will never stop the snow. She might" . /" 四个贱民，简直是打发叫花子。那种人渣不能停住雪，但她能。"
+		7. " He is only one baseborn boy, against all the boys of Westeros, and all the girls as well. Against all the children that might ever be born, in all the kingdoms of the world" /" 他不过是个庶出的男孩，而我们要拯救的是全维斯特洛的男女老少，外加整个世界所有国家中可能出生的孩子。"
+		8. " I have, as well you know" . Thorne was as prickly as his name, a spare, sharp-featured man of fifty, hard-eyed and hard-handed, his black hair streaked with grey. " I have been shunned, ignored, and left to wait like some baseborn servant" /" 你少给我装蒜，" 索恩真是人如其名①，他年方五十左右，高瘦身材，面貌嶙峋，眼神锐利，双手有力，发色黑中间灰。" 你回避我，忽视我，把我像个出生低贱的仆人一样扔进客房，不闻不问。"
+	5. baseless
+	6. baseline
+	7. baseness
+	8. baseplate
+	9. basal
 		1.  [radical](dic://radical)
 		2. [primary](dic://primary)
 		3. _adj._ [basic](dic://basic), [essential](dic://essential)
@@ -217,7 +227,7 @@
 		6. _basal area_ 断面积；底面积；茎占面积
 		7. _basal leaf_ 基生叶
 		8. _basal plane_ [机]底面
-	9. basic
+	10. basic
 		1. basicity
 		2. basics
 		3. basify
@@ -241,17 +251,28 @@
 		21. kilobase
 		22. metabasite
 		23. overbasic
-	10. bass
+	11. bass
 		1. _n._ [pitch](dic://pitch), [part](dic://part), [voice](dic://voice), [singer](dic://singer), [vocalist](dic://vocalist), [vocalizer](dic://vocalizer), [vocaliser](dic://vocaliser)
 		2. _adj._ [low](dic://low), [low-pitched](dic://low-pitched)
 		3. _n._ [high](dic://high), [high-pitched](dic://high-pitched)
 		4. **guitar**吉他，六弦琴;**drums**鼓;**guitars**吉他;**bassist**低音歌手;**saxophone**萨克斯管;**sax**萨克斯管;**trombone**长号，伸缩喇叭;**vocals**元音;**treble**三倍的;**percussion**碰撞;**drummer**鼓手;
-	11. basset
+	12. basset
 
 
 ### bat- 表示“马鞍”。源自法语bast
 1. bast-minded
-2. basterd
+2. bastard 
+	1. bastard（私生子）：诞生于驮鞍之上的孩子  
+	2. 在中世纪法国普罗旺斯地区，当地的赶骡人在乡村小店投宿时，往往将驮鞍铺开当做临时床铺使用。有些赶骡人生性风流，免不了拈花惹草，不少私生子就诞生于这样的驮鞍上。因此，法国人管这种私生子称为bastard（驮鞍之子），由bast（驮鞍）和表示人的名词后缀-ard组成。后缀ard常含有蔑视之意，如coward（胆小鬼）。但bastard一词当初仅表示非婚生子，并无贬义，如征服英国的威廉一世就被称为William the Bastard（私生子威廉）。14世纪后期才逐渐衍生出“不纯、不真实”的含义，19世纪后开始用作骂人的脏话，相当于中文中的“杂种、王八蛋”。  
+	3. bastard： ['bɑːstəd; 'bæst-] n.私生子，杂种，王八蛋adj.私生的
+	4. bastardy
+		1.  [illegitimacy](dic://illegitimacy), [bar sinister](dic://bar sinister)
+		2. _n._ [status](dic://status), [position](dic://position)
+		3. **bastard**私生的;**illegitimate**非法的;**paternity**父亲的身份〔地位〕;**adultery**通奸，通奸行为;**immorality**不道德,无道义;**delinquency**不法行为;**treason**叛国罪;**nobility**贵族;**contempt**轻视，蔑视;
+		4. Melisandre put a warm hand on Jon's arm. " A king can remove the taint of bastardy with a stroke, Lord Snow" . /" 国王一挥笔就可以将私生子划归正统，雪诺大人。"
+	5. bastardly
+	6. basterdize
+	7. bastardization
 3. bastinado
 4. batman
 5. baton
@@ -552,7 +573,7 @@
 	1. n. 浆果  
 	2. vi. 采集浆果
 	3. 可能来自 bur,毛，刺。指生长莓子的灌木，后指莓子。
-7. buoy
+7. buoy (buoy up /perk up)
 	1. n. 浮标, 航标, 救生圈  
 	2. vt. 使浮起, 鼓励
 	3. 词源同 beacon,灯塔，来自 PIE*bha,照明，闪光。
@@ -595,31 +616,58 @@
 		8. Their size gives them increased buoyancy and musculature to be great swimmers /它们的体型增加了它们的的浮力和肌肉组织，使得它们成为了优秀的游泳运动员。
 	21. buoyance
 	22. buoyage
+		1. n. 浮标, 浮标装置, 浮标装置方法
 #### ⭐ + \*bha- (2) + = to speak
 1. **ban-** = prohibit, 表示“禁止、禁令”。原始日耳曼语词源，分别通过古法语，古英语，晚期拉丁语，意大利语进入英语。
-	1. abandon
-	2. ban
+	1. ban
+		1. ban（禁令）：封建领主在其领地上发布的强制性公告  
+		2. 在欧洲的封建时期，领主在自己的领地上（manor）拥有管辖权，可以发布公告，强制要求领地内的所有居民做某事或禁止做某事，如要求居民给领主服兵役、禁止在领主的土地上狩猎、捕鱼等。领主所发布的这种公告在拉丁语中称作bannun，英语单词ban（禁令）就来源于此，本来既可是命令做某事或禁止做某事，但后来词义逐渐缩小为“禁止做某事”。同源的还有单词banns（结婚公告）。  
+		3. banal是由ban（公告）衍生出来的形容词，用来表示“与ban相关的”，如banal right表示“领主发布ban的权利”。在封建领主所颁发的公告中，常见的一种是要求居民必须使用领主所提供的公用设施，如水井、磨坊、烤房、桥梁等，并向领主支付相应的使用费。因此banal衍生出“公用的、公共的”之意，进而演变为“平凡的、平庸的、司空见惯的”，最终演变为现在常用的“陈腐的”之意。  
+		4. 单词abandon（放弃）也与ban有关。它源自法语词组 à bandon（under control or jurisdiction），其中的à =at，bandon和ban一样源自拉丁语bannun，表示“控制、管辖”。 所以abandon的字面意思就是“处于……的管辖下”，引申为放弃控制权。  
+			1. ban：[bæn] n.禁令vt.禁止，取缔  
+			2. banns：[bænz] n.结婚公告  
+			3. banal：[bə'nɑl] adj.平庸的，陈腐的，老一套的  
+			4. banality：[bə'nælɪtɪ] n.陈词滥调，平凡，陈腐  
+			5. abandon： [ə'bænd(ə)n] vt.放弃、舍弃、离弃
+	2. abandon
 	3. banal
+		1. banality
+		2. 
 	4. bandit
-		1. _n._ [thief](dic://thief), [stealer](dic://stealer)
-		2. **robber**强盗;**thief**小偷，贼;**warlord**军阀;**robbers**盗贼;**outlaw**歹徒, 亡命之徒;**gangster**歹徒，流氓;**outlaws**歹徒;**gang**一群;**pirate**海盗;**mercenary**雇用的,为钱的,唯利是图的;**renegade**变节者;
-		3. brigand
-		4. banditry
-	5. banish, banishment
-	6. contraband
+		1. banish（放逐）：中世纪欧洲的剥夺公权刑罚  
+		2. banish来自意大利语bandire（剥夺公权），与单词ban（公告）同源。banish的字面意思是“宣布剥夺某人的公权”。“剥夺公权”是中世纪的一种刑罚，只有皇帝才有权颁发公告（ban）剥夺某人或某座城市的公权。被剥夺公权意味着丧失了法律保护，任何人可以杀之或掠夺之。当某人被剥夺公权后，自然无法在当地正常生活，只能远走他乡，因此衍生出“放逐”之意。  
+		3. bandit和banish同源，是其过去分词形式，字面意思就是“被剥夺公权的人”。在当时，一个人若是被剥夺公权，意味着他失去法律的保护，所有人都可以抢劫、伤害甚至杀死他而无需承担任何法律后果。别人若是帮助他，则也会被剥夺公权。被剥夺公权的人只能到当局自首，才有可能撤销剥夺其公权的公告，但有些更加严厉的公告是不可撤销的。受到这种惩罚的人，唯一出路就是亡命天涯，落草为寇了，所以bandit一词逐渐衍生出“盗匪”之意。  
+		4. banish：['bænɪʃ] vt.放逐，驱逐  
+		5. bandit：['bændɪt] n.强盗，土匪，被剥夺法律保护者，亡命之徒
+		6. _n._ [thief](dic://thief), [stealer](dic://stealer), outlaw, 
+		7. **robber**强盗;**thief**小偷，贼;**warlord**军阀;**robbers**盗贼;**outlaw**歹徒, 亡命之徒;**gangster**歹徒，流氓;**outlaws**歹徒;**gang**一群;**pirate**海盗;**mercenary**雇用的,为钱的,唯利是图的;**renegade**变节者;
+		8. brigand
+			1. n. 土匪, 强盗
+		9. banditry
+			1. n. 土匪行为, 匪帮
+	5. banish (brandish, banister, barrister )
+		1. [ban](dic://ban), [ostracize](dic://ostracize), [ostracise](dic://ostracise), [shun](dic://shun), [cast out](dic://cast out), [blackball](dic://blackball)
+		2.  [relegate](dic://relegate), [bar](dic://bar)
+		3. _v._ [expel](dic://expel), [throw out](dic://throw out), [kick out](dic://kick out), [chase away](dic://chase away), [drive out](dic://drive out), [turn back](dic://turn back), [drive away](dic://drive away)
+		4. **eliminate**消除, 排除;**eradicate**摧毁,完全根除;**rid**使去掉;**dispel**驱散，驱逐;**expel**驱逐;**slay**杀害;**erase**抹去;**conquer**战胜，征服;**suppress**抑制;**remove**移开;**destroy**毁坏;
+		5. banishment
+	7. contraband
 2. **fam-, fan-, fat-, fess-** = speak, 表示“说、预言”，fat- 由“预言”引申为“命运”。源自拉丁语 fari "to speak;" fama "talk, reputation, fame."
-	1. confabulate
-		1. confabulator, confabulation
-		2. fabulous, fab
+	1. confabulate (ambulate, perambulate)
+		1. _v._ [fabricate](dic://fabricate), [manufacture](dic://manufacture), [cook up](dic://cook up), [make up](dic://make up), [invent](dic://invent), [converse](dic://converse), [discourse](dic://discourse)
+		2. We will not incorporate the entirety of text in the internet and be able to refer to it and have all this knowledge available and being able to confabulate over it. /我们不会将互联网上的全部文本合并起来并能够参考它，并拥有所有可用的知识并能够对其进行讨论。
+		3. In the large room, where several different groups had been formed, and the hum of voices and of laughter was loud, these two young persons might confabulate, as the Doctor phrased it to himself, without attracting attention. /在大房间里，几个不同的小组已经组成，嘈杂的声音和笑声很响亮，这两个年轻人可能会交谈，正如医生对自己说的那样，而不会引起注意。
+		5. confabulator, confabulation
+		6. fabulous, fab
 			1. fabulously, fabulousness
-		3. fabulist, fabulosity
-		4. fantabulous
+		7. fabulist, fabulosity
+		8. fantabulous
 			1. **fabulous**难以置信的;**awesome**令人敬畏的;**marvelous**引起惊异的,不可思议的,非凡的;**wonderful**极好的, 精彩的, 绝妙的;**fantastic**极好的;**scrumptious**可口的,美味的;**terrific**极好的;**fabulously**难以置信地;**marvellous**惊奇的;**amazing**令人惊异的;**splendid**辉煌的;
-	2. confess, 
+	3. confess, 
 		1. confessor, confesser
 		2. confession, confessional
 		3. confessed
-	3. profess
+	4. profess
 		1. [concede](dic://concede), [confess](dic://confess)
 		2. pretend
 		3. _v._ [claim](dic://claim), [declare](dic://declare), [admit](dic://admit), [acknowledge](dic://acknowledge), [accept](dic://accept), [take](dic://take), [take on](dic://take on)
@@ -660,23 +708,26 @@
 	8. preface, prefatory, prefatorial
 		1. **foreword**前言;**treatise**论文;**prologue**序言;**introduction**介绍;**epilogue**结语，收场白;**pamphlet**小册子;**preamble**序文;**footnote**脚注;**book**书籍;**monograph**专著,专论;**excerpt**摘录，引用;
 	9. affable, inaffable
-		1. inaffable
-		2. affably
-		3. affability
-	10. effable, ineffable
+		1. af-接近 + fab-说 + le → 接近说话 → 和蔼的。
+		2. inaffable
+		3. affably
+		4. affability
+	11. effable, ineffable
 		1. _[effable](dic://effable)_  adj. 可表达的
-	11. fable
-		1. fabliau
-		2. fabler
-		3. fabled
-	12. faerie, faery
+	12. fable
+		1. 自 PIE*bha,说，词源同 phone,fame.指说的故事，寓言等。
+		2. fabliau
+		3. fabler
+		4. fabled
+	14. faerie, faery
 		1.  [fairy](dic://fairy), [faerie](dic://faerie), [fay](dic://fay), [sprite](dic://sprite)
 		2.  [fairyland](dic://fairyland), [faerie](dic://faerie)
 		3. _n._ [spiritual being](dic://spiritual being), [supernatural being](dic://supernatural being), [imaginary place](dic://imaginary place), [mythical place](dic://mythical place), [fictitious place](dic://fictitious place)
 		4. **fairy**仙女，小精灵;**fairies**瓶之仙女;**elf**小精灵;**elves**侏儒;**mermaid**美人鱼;**witches**魔女;**fairytale**童话式的;**witch**巫婆，女巫;**vampire**吸血鬼;**princess**王妃;**goblins**小妖
-	13. nefarious
-		1. nefariousness
-		2. nefariously
+	15. nefarious
+		1. 来自拉丁语 nefas,罪行，邪恶，不虔诚，ne-,无，没有，fas,公理，正义，神权，词源同 fate.引申词义罪恶的，邪恶的。
+		2. nefariousness
+		3. nefariously
 3. **fatu-** = sily, 表示“笨”。源自拉丁语 fari "to speak."
 	1. fatuity
 		1.  [absurdity](dic://absurdity), [fatuousness](dic://fatuousness), [silliness](dic://silliness)
@@ -703,7 +754,7 @@
 		6. _[be infatuated with](dic://be%20infatuated%20with)_  迷恋
 		7. infatuation, infatuated
 4. **phas-, phe-, phu-** = speech, 表示“说”。源自希腊语 phanai "to speak."
-	1. phatic,
+	1. phatic
 		1. _[phatic](dic://phatic)_  adj. 交流感情的；应酬的；仅仅是交际性的
 		2. _[phatic function](dic://phatic%20function)_  交际功能；线路功能；酬应功能；亲切功能
 		3. _[phatic communion](dic://phatic%20communion)_  交际性谈话；寒暄性交谈
@@ -722,7 +773,7 @@
 			2. _n._ [unprophetic](dic://unprophetic)
 			3. **prophecy**预言;**prophet**先知;**apocalyptic**预示灾祸的;**prophets**先知;**scriptural**手稿的,圣经的,依据圣经的;**visionary**幻想的;**visions**视力;**scripture**经文;**Biblical**圣经的;**apostolic**使徒的;**revelation**显露, 泄露, 透露, 揭露;
 5. **phem-** = speech, 表示“讲话”。源自希腊语 pheme "saying, speech."
-	1. blaspheme
+	1. blaspheme (blemish, calumny, asperse, smear, chastise, castigate, defame, swaer, blaspheme)
 		1.  [curse](dic://curse), [cuss](dic://cuss), [swear](dic://swear), [imprecate](dic://imprecate)
 		2. _v._ [express](dic://express), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [utter](dic://utter), [give tongue to](dic://give tongue to), [talk of](dic://talk of), [talk about](dic://talk about)
 		3. **blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**slander**诽谤;**repent**忏悔;**offend**冒犯;**condemn**判刑，定罪;**dare**的风险;**holy**圣洁的，神圣的;**curse**咒骂;**glorify**赞美;**heresy**异教;**profane**世俗的;
@@ -740,7 +791,7 @@
 		5. phonevision
 		6. phonofilm, phonogenic, phonogram, phonograph, phonographer, phonographic, phonograph, phonolite, phonology, phonometer, phonon, phonorecord, phonoscope, phonotype, phonotypy, photophone, polyphone, radio-phonograph, saxophone, sousaphone, sphygmophone, stentorophonic, stereophonic, stereophony, telephone, vibraphone, 
 		7. symphony, tautophony, ambiophony, antiphony, 
-	2. anthem
+	2. anthem (anathema)
 		1. _n._ [song](dic://song), [vocal](dic://vocal), [religious song](dic://religious song)**song**歌曲;**hymn**赞美诗;**sung**唱歌;**ballad**歌谣，民谣;**lyric**抒情的;**chorus**合唱队;**sang**sing的过去式;**lyrics**歌词;**sing**唱歌;**melody**旋律;**chant**圣歌;
 	3. allophone
 		1. (linguistics) any of various acoustically different forms of the same phoneme
@@ -751,18 +802,25 @@
 	4. antiphonal
 	5. aphonia, dysphonia
 	6. banns
-	7. cacophony, cacophonous
-	8. euphony
-	9. homophone, homophonous, homophonic
-	10. monophony, phonatome, phonmeter
-	11. aerophone, dictaphone, electrophone, geophone, headphone, hydrophone, interphone, magnetophone, phonendoscope
+	7. cacophony
+		1. _n._ [noise](dic://noise), [dissonance](dic://dissonance)
+		2. **deafening**震耳欲聋的;**screeching**发动机啸声;**noise**响声;**roar**吼;**commotion**暴乱;**chatter**唠叨;**frenzied**狂乱的;**raucous**沙哑的;**chaos**混沌，混乱;**chirping**啁啾声;**noises**噪音，响声，噪音;
+		3. cacophonous
+	9. euphony, euphemize
+	10. homophone, homophonous, homophonic
+	11. monophony
+		1. _n._ [music](dic://music)
+		2. _n._ [polyphony](dic://polyphony), [polyphonic music](dic://polyphonic music), [concerted music](dic://concerted music)
+		3. **melody**旋律;**harmonic**和声的;**octave**八度音阶;**melodic**有旋律的;**harmonics**和声学;**rhythmic**间歇的;**chromatic**有颜色的,颜色鲜艳的;**choral**合唱队的;**tonal**音调的;**orchestral**管弦乐队的;**dissonance**不一致;
+	12. phonatome, phonmeter
+	13. aerophone, dictaphone, electrophone, geophone, headphone, hydrophone, interphone, magnetophone, phonendoscope
 		1. electrophonic
-	12. etc...
+	14. etc...
 
 
 ### ⭐ + \*bhag- +
 1. **esophag-** = esophagus, 表示“食管”，由 eso- + phag- 组成。
-	1. esophageal, oesophageal
+	1. esophageal, oesophageal (esoteric)
 		1. a. 食管的
 		2. _adj._ [esophagus](dic://esophagus), [oesophagus](dic://oesophagus), [gorge](dic://gorge), [gullet](dic://gullet)
 		3. **gastric**胃的;**esophagus**食道;**pancreatic**胰腺的;**colorectal**结肠直肠的;**gastrointestinal**胃与肠的;**intestinal**肠的;**rectal**直肠的;**lung**肺;**bladder**膀胱;**abdominal**腹部的;**uterine**子宫的;
@@ -791,7 +849,9 @@
 4. **phageden-** = ulcer, 表示“溃疡”。
 	1. phagedena
 	2. etc..
-5. nebbish
+5. nebbish (sniffish)
+	1. n. 不受重视的人, 无用的人
+	2. 
 
 
 ### + \*bhars- +
@@ -918,19 +978,19 @@
 
 ### + \*bhau- + = to strike down
 1. **bat-, but** = beat, ”打，击“
-	1. abate
-		1. [slake](dic://slake), [slack](dic://slack)
-		2.  [let up](dic://let up), [slack off](dic://slack off), [slack](dic://slack), [die away](dic://die away)
-		3. _v._ [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [diminish](dic://diminish), [fall](dic://fall)
-		4. **subside**平息;**dissipate**驱散;**lessen**使…变小;**diminish**使减少;**mitigate**使缓和，使减轻;**curtail**截断, 缩短;**intensify**增强, 加剧;**worsen**恶化;**dampen**抑制;**lessened**减少的;**quell**镇压;
+	1. abate (abash, abase, abate, ablate) (probate/approbate/..)
+		2. [slake](dic://slake), [slack](dic://slack)
+		3.  [let up](dic://let up), [slack off](dic://slack off), [slack](dic://slack), [die away](dic://die away)
+		4. _v._ [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [diminish](dic://diminish), [fall](dic://fall)
+		5. **subside**平息;**dissipate**驱散;**lessen**使…变小;**diminish**使减少;**mitigate**使缓和，使减轻;**curtail**截断, 缩短;**intensify**增强, 加剧;**worsen**恶化;**dampen**抑制;**lessened**减少的;**quell**镇压;
 			1. _[abating](dic://abating)_  n. 硬度降低; v. 使减少；使缓和（abate的ing形式）；废除（法律）; 
 			2. _[abates](dic://abates)_  n. 双硫磷; vi. 减缓（abate的第三人称单数形式）; 
 			3. _[abate a price](dic://abate%20a%20price)_  降价；还价
-		5. The storm began to abate slightly /风暴开始稍有所减弱。
-		6. abate the smoke nuisance in big cities /消除大城市中讨厌的煤烟
-		7. Nothing can abate the force of that argument. /什么也不能减弱那场辩论的影响力。
-		8. The medicine abated his pain. /这药减轻了他的痛苦。
-		9. unabated
+		6. The storm began to abate slightly /风暴开始稍有所减弱。
+		7. abate the smoke nuisance in big cities /消除大城市中讨厌的煤烟
+		8. Nothing can abate the force of that argument. /什么也不能减弱那场辩论的影响力。
+		9. The medicine abated his pain. /这药减轻了他的痛苦。
+		10. unabated
 			1. _adj._ [intense](dic://intense)
 			2. _n._ [mild](dic://mild)
 			3. **continued**继续的,延续的;**rampant**猖獗的;**continue**仍旧，连续;**unchecked**未遏制的;**unending**不断的，无止境的;**steadily**稳定地;**impunity**不受惩罚;**relentless**残酷的, 不留情的, 无怜悯心的;**unrelenting**不屈不挠的;**persist**持续，固执;**subside**平息;
@@ -939,9 +999,9 @@
 			6. _[unabated undamped](dic://unabated%20undamped)_ 不减弱的
 			7. Here in Japan, ping-pong practice goes on unabated. The virus threat moves. /在日本，乒乓球运动员们的训练热情不减，不惧病毒威胁。
 			8. It requires the feminine temperament to repeat the same thing three times with unabated zest. /只有女性才能以不息的热情把同一件事重复三遍。
-		10. abatment
-		11. abater
-		12. abatement
+		11. abatment
+		12. abater
+		13. abatement
 	3. abatis
 		1. line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined) toward the enemy
 			1. _synonymous：_ [abattis](dic://abattis)
@@ -1100,7 +1160,7 @@
 		28. swell-butted
 		29. scuttlebutt
 		30. buttock
-	11. button
+	10. button
 		1. unbutton, pushbutton, pressbutton
 		2. buttony, buttonless, 
 			1. [beady](dic://beady), [beadlike](dic://beadlike), [buttonlike](dic://buttonlike)
@@ -1109,18 +1169,18 @@
 		3. buttonhook
 		4. buttonhole
 		5. belly-button
-	12. buttress
+	11. buttress
 		1. [buttressing](dic://buttressing)
 		2. _n._ [support](dic://support)
 		3. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
 		4. _[buttress up](dic://buttress%20up)_  支持
 		5. **bolster**长枕;**undercut**廉价出售;**reinforce**增强;**overhang**悬垂;**ledge**壁架;**arch**拱门;**ridge**山脉;**crux**关键;**substantiate**用事实支持;**reinforcing**增强;**pillar**柱子，柱形物;
-	13.  
+	12.  
 		1. combative, combatant
 		2. combat-worthy, combat-ready
-	14. debate
+	13. debate
 		1. debater, debatable
-	15. debut, debutant
+	14. debut, debutant
 		1. debut（首秀）：西方少女的“成人礼”  
 		2. 工业革命以前，欧洲的上流社会、贵族世家的女孩子在成年以前，基本上是没有机会接触到异性的，她们不去公立学校上学，家长为她们请了私人教师。女孩子到一定的年龄，就要穿上礼服、盛装打扮，参加“成人礼”舞会。这是她们在社交群中的第一次露面，在法语中称为debut。debut一词来自débuter，本意是“桌球或弹子球游戏中的第一次击球”。  
 		3. 进入英语后，debut一词常常被用来比喻“初次登台演出”。与它同源的单词有debutante（初次表演的女子）、debutant（初次表演的男子）。  
@@ -1133,7 +1193,7 @@
 		7. **full-length**全长的;**album**相簿;**long-awaited**期待已久的;**comeback**恢复;**directorial**管理的;**well-received**受到欢迎的,受到款待的;**foray**突袭;**released**已发布;**eponymous**齐名的;**breakthrough**突破，突破性进展;**sophomore**二年级学生;
 		8. _debut album_ 首张专辑；处女专辑
 		9. _debut single_ 首张单曲；出道歌曲
-	16. rebate
+	15. rebate
 		1. [discount](dic://discount)
 		2. [rabbet](dic://rabbet)
 		3. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
@@ -1144,7 +1204,7 @@
 		8. rebate a portion of a bill /减免帐单上一部分款项
 		9. the oak boarding was rebated in. /橡木板被用槽口嵌接进去。
 		10. We'll have to shut down those locations with whereby our landlords don't give us rebates /我们将不得不关闭那些房东不给我们退款的店铺。
-	17. rebut
+	16. rebut
 		1. [refute](dic://refute)
 		2. [refute](dic://refute), [controvert](dic://controvert)
 		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
@@ -1154,7 +1214,7 @@
 		7. rebutter, rebuttal, surrebuttal
 		8. rebuttable, rebutment
 		9. irrebuttable
-	18. beat
+	17. beat
 		1. worldbeater
 		2. wingbeater
 		3. upbeat
@@ -1170,7 +1230,7 @@
 		13. beat-up
 		14. beat it
 			1. 走开，离开：用于告诉某人立即离开或停止干扰。
-	19. brickbat
+	18. brickbat
 		1. _n._ [fragment](dic://fragment), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
 		2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
 		3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
@@ -1190,14 +1250,19 @@
 		1. vt. 用棍棒打；抨击
 		2. fustigation
 			1. n. 用棍棒殴打,抨击
-	5. fusty
-		1. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
-		2. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
-		3. [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [conservative](dic://conservative)
-		4.  [musty](dic://musty), [frowsty](dic://frowsty)
-		5. fustiness
-		6. fusty musty 霉臭的
-	6. fustin
+	5. fusty (fusty, musty, dusty, feisty, fussy)
+		1. 来自古法语 fuste,瓶塞，酒塞，来自拉丁语 fustis,短棍，木棍，其原义为瓶塞味的。后来引申词义霉臭的，守旧的。比较 corked.
+		2. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
+		3. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
+		4. [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [conservative](dic://conservative)
+		5.  [musty](dic://musty), [frowsty](dic://frowsty)
+		6. But a closer listen reveals a conservative streak that would do fusty financial planners proud. /但仔细听一听，你会发现他有一种保守的性格，会让老气的理财规划师感到自豪。
+		7. It was a very small stuffy fusty room, with boards, and rafters, and cobwebs, and lath and plaster /这是一个非常小的闷热发霉的房间，有木板、椽子、蜘蛛网、板条和灰泥。
+		8. I considered those naysayers jaded has-beens, fusty old-timers pining away for the nonexistent " days of the giants" . /我认为那些反对者厌倦了， 挑剔的老前辈渴望不存在的“巨人时代” 。
+		9. So many meetings have been conducted via Zoom and other apps that bosses may decide that this is a better approach than gathering everyone together in one fusty room. /许多会议都是通过Zoom和其他应用程序进行的，老板们可能会认为这比把所有人都聚集在一个破旧房间里更好
+		10. fustiness
+		11. fusty musty 霉臭的
+	7. fustin
 4. **fut-** = beat, “打，击”
 	1. confute, confutation
 		1. [disprove](dic://disprove)
@@ -1205,7 +1270,7 @@
 		3. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
 		4. _confute an argument_ 驳斥某一论点; 驳倒一个论点;
 		5. restorers who sought to confute this view were accused of ignorance /试图驳斥这种观点的修复者被指责为无知。
-	2. refute, refutation
+	2. refute, refutation (rebuke, rebuttal, )
 		1. [rebut](dic://rebut)
 		2. [rebut](dic://rebut), [controvert](dic://controvert)
 		3. [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
@@ -1837,7 +1902,17 @@
 		21. ballcock
 			1. 浮球旋塞
 		22. ball-flower
-	2. ballad
+	2. bolster (buttress, holster, upholstery)
+		1. n. 长枕  
+		2. v. 改善, 加强
+		3.  词源同 ball,用于指鼓起来的垫子，枕头，护垫等。后引申词义支持，保护。
+		4.  [long pillow](dic://long pillow)
+		5.  [bolster up](dic://bolster up)
+		6. _n._ [pillow](dic://pillow)
+		7. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [prop up](dic://prop up), [prop](dic://prop), [shore up](dic://shore up), [shore](dic://shore), [fill](dic://fill)
+		8. **strengthen**加强, 巩固;**reinforce**增强;**enhance**提高;**boost**促进;**undermine**在某物下挖洞或挖通道;**augment**增加;**solidify**团结;**weaken**减少;**boosting**助推，局部通风;**elevate**举起;**undercut**廉价出售;
+		9. truck-bolster
+	3. ballad
 		1. ball【舞】 + ad → 伴随舞蹈的歌谣 → 民歌。
 		2. ballad（民谣）：中世纪法国人跳舞时的伴奏歌曲  
 		3. 英语单词ballad（民谣）来自法语ballade，与英语单词ballade（叙事曲；三节联韵诗）同源，原本指的是中世纪法国舞会中演奏的一种常见歌曲，其中的ball就是“舞蹈”的意思，整个单词的字面意思就是“舞曲”。这种歌曲的歌词通常是三节，每一节由八行构成，称为ballade，中文译为“三节联韵诗”。  
@@ -1850,7 +1925,7 @@
 			1. _n._ [poem](dic://poem), [verse form](dic://verse form)
 			2. **ballad**歌谣，民谣;**melody**旋律;**concerto**协奏曲;**Chopin**肖邦;**duet**二重奏;**poem**诗;**waltz**跳华尔兹舞;**symphonic**交响乐的;**lyric**抒情的;**piano**钢琴;**song**歌曲;
 		7. " Come now, " said Villon—" about this ballade. How does it run so far" ? And beating time with his hand, he read it aloud to Tabary. /“来吧，” 维庸说——“关于这首民谣。它跑得这么远” ？ 他用手打拍子， 大声朗读给塔巴里听。
-	3. ballet
+	4. ballet
 		1. ballet（芭蕾）：意大利宫廷宴会中的舞蹈表演  
 		2. 英语单词ballet（芭蕾）来自意大利语balletto，是ballo（ball、舞会）的指小形式，字面意思就是“小型舞会”，原本指的是15世纪时流行于意大利宫廷中的一种舞蹈表演，在宫廷宴会中，经常会有这种舞蹈表演来娱乐宾客。我们知道，ball（舞会）是指以跳舞为主要内容的社交活动，在舞会中，所有人在大部分时间都在跳舞，而ballet则仅仅在宴会的一部分时间进行，跳舞的也仅仅是一部分人，大部分人则在旁观看。从这个意义看，ballet确实是ball的缩小形式，所以ballet拼写为ball的指小形式正是它们之间关系的恰当描述。  
 		3. ballet源自意大利，兴旺于法国，经由法语进入英语，所以发音也具有法语特点，最后一个t不发音。
@@ -1868,14 +1943,14 @@
 		15. ballerina
 			1. _n._ [ballet dancer](dic://ballet dancer)
 			2. **ballet**芭蕾舞剧;**dancer**舞女;**gymnast**体操运动员;**choreographer**舞蹈指导;**skater**溜冰者;**dancers**舞蹈家;**princess**王妃;**diva**歌剧中的首席女主角;**actress**女演员;**mermaid**美人鱼;**dance**舞蹈;
-	4. ballista
+	5. ballista
 		1. _n._ (古代用以发射石弹等的)抛石机, 投石器
 		2.  [catapult](dic://catapult), [arbalest](dic://arbalest), [arbalist](dic://arbalist), [bricole](dic://bricole), [mangonel](dic://mangonel), [onager](dic://onager), [trebuchet](dic://trebuchet), [trebucket](dic://trebucket)
 		3. _n._ [artillery](dic://artillery), [heavy weapon](dic://heavy weapon), [gun](dic://gun), [ordnance](dic://ordnance)
 		4. **archers**弓箭手;**archer**弓箭手;**cannon**大炮;**cannons**大炮;**turret**角楼;**spear**矛，枪;**launcher**发射者;**artillery**炮, 大炮;**chariot**二轮战车;**projectile**发射体;**infantry**步兵;
 		5. **Ballista**: Ancient missile launcher designed to hurl long arrows or heavy Balls /投石机：古代投掷物体之发射器，用作发射长箭或重型球状物。
 		6. 
-	5. ballistic
+	6. ballistic
 		1. ball-抛 + -istic表形容词
 		2. _adj._ [ballistics](dic://ballistics), [ballistic trajectory](dic://ballistic trajectory)
 		3. **missile**导弹;**supersonic**超声波的;**projectile**发射体;**missiles**导弹;**bullet**子弹;**bullets**子弹;**thermal**热的，热量的;**rocket**火箭;**long-range**远程的;**handgun**手枪;**kinetic**运动的;
@@ -1888,7 +1963,7 @@
 		10. These ballistic missiles normally follow a curve. /这些弹道导弹通常都有一个轨道。
 		11. ballistics
 		12. ballisite
-	6. balloon
+	7. balloon
 		1. 1.balloon（气球）：古代击打充气皮球的游戏  
 		2. 英语单词balloon来自意大利语pallone（large ball，大球），源自palla（ball，球）。在16世纪70年代，balloon指的是一种用皮革制成、里面充气膨胀的大球，可以用球棍击打。这种游戏也被称为balloon。17世纪时，人们将烟花材料塞进纸板制成的大球中，可以发射到天上去。这种用于烟花表演的纸板大球也被称为balloon。1783年，孟格菲兄弟发明热气球后，人们用balloon来表示热气球。最后，balloon才被用来表示用于修饰或游戏的小气球。  
 		3. balloon： [bə'luːn]n.气球，热气球adj.像气球一样膨胀的v.（使）激增，（使）膨胀  
@@ -1897,7 +1972,7 @@
 			1. n. 气室(调节气球升降)
 		6. ballute
 			1. n. 气球降落伞
-	7. ballot
+	8. ballot
 		1. ballot（选票）：古代希腊和罗马用来投票的黑白小球  
 		2. 在古代希腊，人们很早就发明了匿名投票的方法。跟我们现在使用纸质选票的方法不同，那时候的人们使用青铜片、筹码或小球等材料来投票，用不同形状或颜色代表赞同或反对。其中，用小球做成的选票就是英语单词ballot（选票）的来源。ballot源自意大利语pallotte，是palla（ball，球）的指小词，意思就是“小球”。英语单词balloon（气球）同样源于意大利语palla（球），表示“大球”。英语单词blackball表示“黑色小球”，也就是“反对票”的意思。  
 		3. He has already voted by absentee **ballot**. /他已经通过缺席投票的方式投了票。
@@ -1912,7 +1987,7 @@
 		12. He should agree to recount the ballots. /他应该同意重新计算选票。
 		13. balloon：[bə'luːn] n.气球v.激增，如气球般膨胀adj.像气球般鼓起的  
 		14. blackball：['blækbɔːl] vt.投反对票，排斥n.反对票
-	8. balls
+	9. balls
 		1. baseball
 		2. basketball
 		3. blowball
@@ -2032,7 +2107,7 @@
 			1. n. 绳球
 		34. trapball
 		35. volleyball
-	9. anabolic
+	10. anabolic
 		1. ana-上 + bol-抛 + -ic
 		2. adj. 合成代谢的；同化的
 		3. of or related to the synthetic phase of metabolism
@@ -2049,7 +2124,7 @@
 			4. **anabolic**合成代谢的;**metabolism**新陈代谢;**glycogen**糖原;**metabolic**新陈代谢的;**creatine**肌酸，肌肉素;**cortisol**皮质醇;**testosterone**睾丸激素;**carbohydrate**碳水化合物;**biosynthesis**生物合成;**muscle**肌肉;**synthesis**综合, 综合法;
 			5. **Anabolism** is when energy is created and stored, and catabolism is when energy is released /合成代谢是生成和储存能量，而分解代谢则是能量的释放。
 			6. The formation approaches of higher alcohols include degradation metabolism and **anabolism** /  高级醇的生成途径有降解代谢和合成代谢两种。
-	10. catabolic, katabolism
+	11. catabolic, katabolism
 		1. a. 分解代谢的
 		2. **metabolic**新陈代谢的;**anabolic**合成代谢的;**metabolism**新陈代谢;**anaerobic**厌氧菌的;**glycogen**糖原;**biochemical**生物化学的;**aerobic**需氧的;**oxidative**氧化的;**oxidation**氧化;**enzymatic**酶的;**carbohydrate**碳水化合物;
 		3. For a start, oestrogen is anabolic, building up muscle, while progesterone is catabolic, breaking it down /首先，雌激素是合成代谢的，可以增强肌肉，而黄体酮是分解代谢的，可以分解肌肉。
@@ -2060,7 +2135,7 @@
 			1. cata-下 + bol-扔 + -ism
 			2. n. 异化作用, 分解代谢
 		8. catabolize
-	11. diabolic, diabolical
+	12. diabolic, diabolical
 		1. a. 恶魔的, 恶毒的, 凶暴的, 恶魔似的, (非正式)非常可憎的
 		2. dia-穿过 + bol-抛 + -ic表形容词。源自希腊语 diabollos“诽谤，攻击”，字面含义“扔过去”。
 		3. **demonic**有魔力的，恶魔的;**sinister**阴险的;**malevolent**有恶意的;**devious**弯曲的;**murderous**蓄意谋杀的;**evil**邪恶的;**depraved**堕落的;**sadistic**残酷成性的;**unholy**不神圣的;**nefarious**极坏的;**monstrous**极可恶的;
@@ -2071,22 +2146,22 @@
 		8. This is the diabolic world of the camp. /这是营地的恶魔世界。
 		9. This will ensure that the physical profile of the wire is very small, so as Leather face rushes forwards he isn't able to see it in the dark, but it'll also serve another, much more diabolic purpose /这将确保电线的物理轮廓非常小，因此当 Leatherface 向前冲时， 他无法在黑暗中看到它， 但它也会用于另一个更邪恶的目的。
 		10. diabolism
-	12. discobolus
+	13. discobolus
 		1. n. (古希腊或罗马的)掷铁饼者, 掷铁饼者塑像
-	13. hyperbola
+	14. hyperbola
 		1. parabola [pə'ræb(ə)lə] n.抛物线。希腊前缀para-表alongside,beside，希腊词根bol-表to throw。三种圆锥曲线中（另外两种是椭圆和双曲线），抛物线的离心率=1(para-)，hyperbola [haɪ'pɜːbələ] n.双曲线，离心率&gt;1，因为希腊前缀hyper-与拉丁前缀super-同源，表over,above，椭圆的离心率&lt;1。 ​​​​
 		2. **quadratic**二次的;**tangent**切线的，相切的;**algebraic**代数的;**curvature**弯曲;**polynomial**多项式;**Euler**欧拉;**algebra**代数学;**triangle**三角;**rectangle**长方形, 矩形;**equation**方程式，等式;**hyperbolic**双曲线的;
 		3. _n._ [conic section](dic://conic section), [conic](dic://conic)
 		4. Results The difference values calculated were various with the arch form, the sequence was oval, round, parabola, catenuliform, and hyperbola from big difference to smell. /牙弓深度的差值按从大到小的顺序排列为：椭圆形、圆形、抛物线形、悬链形、双曲线形。
 		5. The orbit is now a hyperbola, which is similar to a parabola, but is even more open /这种轨道是条双曲线，类似于抛物线，但更加开放。
-	14. hyperbole
+	15. hyperbole
 		1. hyper-过多 + bol-抛 + -e → 话抛得很高 → 夸张法。
 		2. **exaggeration**夸张;**disingenuous**不真诚的;**overblown**停息的,盛开过的;**rhetoric**修辞，修辞学;**sarcasm**讽刺;**ludicrous**荒唐可笑的,滑稽可笑的;**silliness**愚蠢;**nonsense**谬论;**laughable**荒唐可笑的;**idiocy**白痴;**absurd**荒谬的;
 		3. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
 		4. aggrandise, amplify, bombastic, grandiloquent, grandiose, hyperbole, rhetorical, turgid. 
 		5. to express with hyperbole /表达时使用夸张法
 		6. American humor is founded largely on hyperbole/美式幽默主要以夸张为基础。
-	15. parable
+	16. parable
 		1. n. （尤指《圣经》中耶稣所讲的的）（道德或宗教）寓言 
 		2. n. 寓言, 隐晦的比较
 		3. para-在周围 + ble-=bole扔，投掷， 即扔在旁边的，引申词义打比方，讲寓言故事。
@@ -2097,7 +2172,7 @@
 		8. The parable of the good Samaritan. /正是有关撒玛利亚人的寓言故事。
 		9. Maybe this was the real lesson of the parable. /也许那则寓言的教育意义正在于此。
 		10. parabolus
-	16. parabola
+	17. parabola
 		1. para-在旁，在周围 + -bol扔，投掷，即扔在旁边的，用于几何术语指抛物线。
 		2. **quadratic**二次的;**curvature**弯曲;**curve**曲线;**tangent**切线的，相切的;**vertex**顶点;**concave**凹的，凹面的;**slope**倾斜;**convex**凸面的;**rectangle**长方形, 矩形;**equation**方程式，等式;**geometry**几何学;
 		3. All you need is a jetliner, a parabola and voila, you're weightless. /你需要的只是一架客机, 飞行个抛物线, 然后看看自己, 你已经失重了。
@@ -2107,27 +2182,27 @@
 		6. parabolical
 		7. paraboloid
 			1. n. 抛物面
-	17. symbol
+	18. symbol
 		1.  sym-,一起，一致，-bol,扔，投掷，词源同 ballistic,problem,parabolic.引申词义象征，符号。
 		2. n. 符号, 象征, 代号, 信条
 		3. sym-共同 + bol-抛 → 共同抛出的标志 → 象征。
-	18. amphibole
+	19. amphibole
 		1. n. 闪石
 		2. amphibology
 			1. n. 语言模棱两可, 意义含混的词句
 		3. ampholbolous
 			1. a. 模棱两可的
-	19. belt
+	20. belt
 		1. n. 腰带, 皮带; 传送带; 地带, 地区; 狠打  
 		2. v. 狠打; 飞奔; 用带系住
 		3. 自 PIE*bhel,膨胀，鼓起，词源同 ball.指鼓起来的一圈，绕一圈的带子
-	20. bolus
-	21. bullet
+	21. bolus
+	22. bullet
 		1. bulletwound
 		2. bulletproof
 		3. bullet-headed
 		4. bullet-head
-	22. devil
+	23. devil
 		1. 来自拉丁语diabolus, 穿过，诽谤，攻击，词源同diabolic.来自dia-，穿过，-ball, 投掷，词源同ballistic, kill. 后用于指魔鬼。devil ’s advocate 故意唱反调的人来自天主教神学名词。原指教堂的一项特殊职务，其职能是对即将宣圣或成为圣徒的凡人进行行为或德行审查，以确保成为圣徒者德行之完美，其对应职务为God’s advocate. 其原先功能部分类似于现在的中纪委，而现在的词义就类似于走过场，一唱一和以使程序完美。
 		2. devil（魔鬼）：希腊语对圣经中“撒旦”的翻译  
 		3. 英语单词devil（魔鬼）的真正历史比所传devil乃do-evil（作恶）之缩略的古老传说要复杂得多。希伯来文的犹太教圣典《旧约》中的Satan（撒旦）实际上是devil的前身，它的意思是adversary（敌手），即“上帝的敌手”。当希伯来文的《旧约》被译成希腊文时，译者将Satan（撒旦）翻译成了diabolos一词，后来演变为英语单词devil。其实，diabolos在希腊文中原义是“诽谤者”，是圣经的影响才使它获得我们今天熟悉的词义“魔鬼”或“恶魔”的。  
@@ -2164,9 +2239,9 @@
 			7. This polarisation is Mrs May's legacy-and it will bedevil her successor /这种两极分化是梅遗留下来的问题，也将困扰她的继任者。
 			8. Negotiators from the EU and Britain are grappling with a bedeviled issue of the border on the island of Ireland. /来自欧盟和英国的谈判代表正在努力解决爱尔兰岛边界的棘手问题。
 			9. bedevilment
-	23. ballute
+	24. ballute
 		1. _[ballute](dic://ballute)_  n. [航] 气球式降落伞
-	24. embolus, emboli
+	25. embolus, emboli
 		1. em-在...内 + bl-=bol-抛 + -em
 		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
 		3. an abnormal particle (e.g. an air bubble or part of a clot) circulating in the blood
@@ -2176,7 +2251,7 @@
 			1. [intercalation](dic://intercalation)
 			2. _n._ [time interval](dic://time interval), [interval](dic://interval), [occlusion](dic://occlusion)
 			3. **thrombosis**血栓形成;**hemorrhage**出血;**aneurysm**动脉瘤;**clot**凝块;**infarction**梗塞;**venous**静脉的;**pulmonary**肺的,肺部的;**edema**瘤腺体;**stenosis**狭窄;**rupture**破裂;**coronary**冠状的;
-	25. emblem
+	26. emblem
 		1. n. 象征, 徽章, 符号  vt. 用象征表示
 		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
 		1. [allegory](dic://allegory)
@@ -3187,7 +3262,7 @@
 			4. [respect](dic://respect), [respectfulness](dic://respectfulness)
 	10. differ
 		1. different
-			1. indifferent
+			1. indifferent (nonchalance)
 				1. _adj._ [uninterested](dic://uninterested), [unconcerned](dic://unconcerned), [heedless](dic://heedless), [thoughtless](dic://thoughtless), [unheeding](dic://unheeding), [unimportant](dic://unimportant), [inferior](dic://inferior)
 				2. _n._ [interested](dic://interested), [concerned](dic://concerned), [heedful](dic://heedful), [attentive](dic://attentive), [thoughtful](dic://thoughtful), [paying attention](dic://paying attention), [important](dic://important)
 				3. **disinterested**不感兴趣的;**uninterested**不感兴趣的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**aloof**冷淡的;**indifference**不关心,不在乎;**unfriendly**不友好的;**oblivious**未察觉;**unhappy**不幸福的;**hostile**敌对的，敌方的;**ignorant**无知的;**callous**起老茧的;
@@ -3446,7 +3521,7 @@
 		12. fortuity
 	4. fortutous
 5. **furt-** = to steal, 「latin」fur, "thief"
-	1. furtive (figurative, fugitive)
+	1. furtive (figurative, fugitive) (covert, clandestine, sneaky, devious, furtive, surreptitious)
 		1. 秘密的, 隐密的, 偷偷摸摸的
 		2. ferret ['ferɪt] vt. 搜出；驱出，n. 雪貂；侦探。拉丁词根fer-,fur-表携带，与日耳曼词源的bear承担和希腊词根pher-,phor-同源。拉丁词源的单词furtive adj.鬼鬼祟祟的，说的就是偷偷拿别人东西的小偷的特点，ferret的字面意思就是“小毛贼”。另外人类还用雪貂将老鼠或兔子从洞穴里“bring out”。
 		3.  [sneak(a)](dic://sneak(a)), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
@@ -3468,7 +3543,7 @@
 		2. n．盗窃：在古罗马法中，指非法占有他人财物的行为
 		3. 1. **Furtum manifestum**:  现行盗；明盗；翻译；现行窃盗犯英语
 6. **lat-** = bring out, 「latin」latum, "to carry, to bring, to bear"
-	1. ablate (belate, blate, )
+	1. ablate (belate, blate) (advect)
 		1. v. 切除, 腐蚀, 溶化掉, 烧蚀
 		2. _v._ [wear](dic://wear), [wear off](dic://wear off), [wear out](dic://wear out), [wear down](dic://wear down), [wear thin](dic://wear thin), [remove](dic://remove), [take](dic://take)
 		3. _[ablating model](dic://ablating%20model)_ 烧蚀模型
@@ -3518,23 +3593,26 @@
 			3. _[gene delation](dic://gene%20delation)_ 基因缺失
 			4. to accept and handle the public delation of environment events; /受理环境事件公众举报
 	6. dilate
-		1. vasodilative
-		2. vasodilatin
-		3. vasodilatatoria
-		4. dilator
+		1. vi. 扩大, 详述, 膨胀  
+		2. vt. 使膨胀
+		3.  dis-,分开，散开，-lat,变宽，膨胀，词源同 latitude.即扩散，膨胀。
+		4. vasodilative
+		5. vasodilatin
+		6. vasodilatatoria
+		7. dilator
 			1. vasodilator
 			2. pylorodilator
 			3. iridodilator
 			4. cardiodilator
 			5. bronchodilator
-		5. dilatometer
-		6. dilation
+		8. dilatometer
+		9. dilation
 			1. vasodilation
-		7. dilatant
-		8. dilatancy
-		9. dilatable
-		10. arteriodilating
-	7. dilatory
+		10. dilatant
+		11. dilatancy
+		12. dilatable
+		13. arteriodilating
+	8. dilatory
 		1. a. 拖拉的
 		2. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
 		3. vasodilatory
@@ -3546,7 +3624,7 @@
 		9. The boss sacked a dilatory worker yesterday /昨天老板开除了一个凡事都爱拖延的人。
 		10. After a pause he added 'sir' in a dilatory, grudging way. /停了一会他才慢吞吞地、勉勉强强地加了一声" 先生" 。
 		11. At the moment there could have been nothing more natural than that Ned should dash himself from the roof in the pursuit of dilatory tradesmen /眼下，内德为了追赶拖延的商人而从屋顶上跳下来再自然不过了。
-	8. elate
+	9. elate
 		1. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
 		2. vt. 使兴高采烈, 使得意
 		3.  [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate)
@@ -3555,19 +3633,19 @@
 		6. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
 		7. He was greatly elated by success. /他因获得成功而得意洋洋。
 		8. elation, ellated
-	9. illation
+	10. illation
 		1. il-进入 + lat-拿 + -ion, 表名词
 		2. n. 演绎；推论；推定
 		3. Of, relating to, or of the nature of an **illation** /推论的，与推理有关的，或具有推理的性质的。
 		5. illative, 
-	10. legislate
+	11. legislate
 		1. legis-法律 + lat-放 + -e → 放出法律 → 立法。
 		2. n. 推定, 推论, 演绎
 		3. legislature
 		4. legislator
 		5. legislative
 		6. legislation
-	11. oblate (prolate)
+	12. oblate (prolate)
 		1. n. 献身于修会的俗人  a. 献身修会的, 扁圆的, 椭圆的
 		2. [pumpkin-shaped](dic://pumpkin-shaped)
 		3. _n._ [religious person](dic://religious person)
@@ -3585,7 +3663,7 @@
 			6. Thinkers and poets throughout the ages have offered the courtesan the oblation of their mercy /各个时期的思想家和诗人都把仁慈的怜悯心奉献给娼家女子。
 			7. I would proffer the most exquisite oblations of flowery banners, garlands, as well as nautch, music, scented ointments, and canopies, for veneration of all Buddhas. /以诸最胜妙华鬘，伎乐涂香及伞盖，如是最胜庄严具，我以供养诸如来。
 		11. oblateness
-	12. prelate (prelect, vi. 讲课；讲演)
+	13. prelate (prelect, vi. 讲课；讲演)
 		1. n. 高级教士
 		2. pre-,在前，早于，-lat,携带，承载，词源同 relate,translate.后用于指高级神职人员。
 		3. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [primate](dic://primate)
@@ -3597,23 +3675,23 @@
 		9. prelatical
 			1. _adj._ 高位者的,教长政治的
 		10. prelatic
-	13. prolate (oblate)
+	14. prolate (oblate)
 		1. a. 扁长的, 扩展的, 延长的
 		2. prolative
-	14. relate
+	15. relate
 		1. re-向后，往回 + lat-拿，带。即带回来，引申词系联系，相关。
 		2. re-,向后，往回，-lat,拿，带，词源同 translate,prelate.即带回来，引申词系联系，相关。
 		3. unrelated, related, interrelate, correlate
 		4. relator, relater
 		5. relative
 		6. relation
-	15. sublate
+	16. sublate
 		1. vt. 否定, 消除
 		2. **sublate capital**:  扬弃资本 
 		3. **sublate alienation**:  扬弃异化
 		4. **self-sublate**:  自我扬弃
 		5. I'll **sublate** that predestined, ominous borderline /我要扬弃那命定不祥的界线。
-	16. superlative
+	17. superlative
 		1. super-,在上，上方，-lat,携带，承载，词源同 relate,translate.用于语法格指形容词最高级形式。
 		2. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
 		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
@@ -3621,7 +3699,7 @@
 		5. _n._ [inferior](dic://inferior)
 		6. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
 		7. Tech CEOs compete with each other for superlatives /各技术巨头相互竞争，力求推出最优秀的产品。
-	17. translate
+	18. translate
 		1. trans-交换 + lat-拿 + -e → 交换拿出 → 翻译。
 7. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad
@@ -5483,12 +5561,15 @@
 		2. fructan
 		3. fructose
 	2. frugal, frugality
-		1.  [economical](dic://economical), [scotch](dic://scotch), [sparing](dic://sparing), [stinting](dic://stinting)
-		2. _adj._ [thrifty](dic://thrifty)
-		3. _n._ [wasteful](dic://wasteful)
-		4. **resourceful**资源丰富的;**splurge**卖弄;**crafty**灵巧的;**wasteful**浪费的，不经济的;**economical**节俭的;**eco-friendly**对生态环境友好的,不妨害生态环境的;**do-it-yourself**自己动手;**savvy**悟性;**inexpensive**不贵的, 便宜的;**extravagant**奢侈的, 铺张的;**DIY**自己动手做
-		5. _[frugal housewife](dic://frugal%20housewife)_  节俭的主妇
-		6. _[frugal private life](dic://frugal%20private%20life)_  n. 个人生活俭朴
+		1. austere
+		2.  [economical](dic://economical), [scotch](dic://scotch), [sparing](dic://sparing), [stinting](dic://stinting)
+		3. _adj._ [thrifty](dic://thrifty)
+		4. _n._ [wasteful](dic://wasteful)
+		5. **resourceful**资源丰富的;**splurge**卖弄;**crafty**灵巧的;**wasteful**浪费的，不经济的;**economical**节俭的;**eco-friendly**对生态环境友好的,不妨害生态环境的;**do-it-yourself**自己动手;**savvy**悟性;**inexpensive**不贵的, 便宜的;**extravagant**奢侈的, 铺张的;**DIY**自己动手做
+		6. _[frugal housewife](dic://frugal%20housewife)_  节俭的主妇
+		7. _[frugal private life](dic://frugal%20private%20life)_  n. 个人生活俭朴
+		8. a frugal supper of bread and cheese /只有面包和奶酪的晚餐
+		9. Frugal people are careful about spending money or using things. /节俭的人花钱或用东西都很谨慎。
 	3. usufruct
 3. brook
 	1. n. 小溪  

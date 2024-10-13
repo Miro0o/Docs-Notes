@@ -26,18 +26,19 @@
 	8. laborsaving
 	9. laborsome
 2. belabour /belabor
-	1. vt. 痛打；不断辱骂和嘲弄；唠叨
-	2. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
-	3. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
-	4. there is no need to belabour the point. /没有必要对这一点多费口舌。
-	5. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
-	6. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
-3. collaborate
+	1. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
+	2. vt. 痛打；不断辱骂和嘲弄；唠叨
+	3. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
+	4. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
+	5. there is no need to belabour the point. /没有必要对这一点多费口舌。
+	6. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
+	7. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
+4. collaborate
 	1. collaboratory
 	2. collaborator
 	3. collaborative
 	4. collaboration
-4. elaborate
+5. elaborate
 	4. e-出 + labor-工作 + -ate, 表形容词 → 做出来的 → 精工细做。
 	5. a. 精细的, 详尽的, 精心计划(或制作)的  vt. 详尽阐述, 详细描述; 详细制订
 	6. _v._ [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [produce](dic://produce), [make](dic://make), [create](dic://create), [change](dic://change)
@@ -110,8 +111,8 @@
 	12. a delicate flavor; a delicate violin passage /精美的口味；优雅的小提琴乐章
 	13. a critic's delicate perception /一个评论家敏锐的洞察力
 	14. a surgeon's delicate touch /外科医生轻柔的触摸
-_delicate balance_ 微妙的平衡
-	8. delicacy
+	15. _delicate balance_ 微妙的平衡
+	16. delicacy
 		1. _n._ 精致，精美；娇嫩
 		2. 精美的食物
 		3. 棘手；微妙
@@ -130,7 +131,7 @@ _delicate balance_ 微妙的平衡
 		16. It became a popular delicacy just 30 years ago. /但是流行在餐桌上不过30年。
 		17. It also adds another delicacy to the Chinese New Year table. /也让春节的餐桌上再添一份美味。
 		18. This is a delicacy enjoyed by fishermen at all seasons. /这是渔民人家四季都喜欢食用的佳肴。
-	10. delicious
+	17. delicious
 		1. _n._ [eating apple](dic://eating apple), [dessert apple](dic://dessert apple)
 		2. _adj._ [pleasing](dic://pleasing), [tasty](dic://tasty)
 		3. _n._ [displeasing](dic://displeasing), [tasteless](dic://tasteless)
@@ -1449,22 +1450,38 @@ _delicate balance_ 微妙的平衡
 			12. I'd like to lay out my reasoning /我想阐述一下我的理由。
 			13. It was, but everything was already laid out /以前是 只是… 一切都规划好了。
 		3. waylay
+			1.  [ambush](dic://ambush), [scupper](dic://scupper), [bushwhack](dic://bushwhack), [lurk](dic://lurk), [ambuscade](dic://ambuscade), [lie in wait](dic://lie in wait)
+			2. _v._ [wait](dic://wait)
+			3. **thwart**反对;**dissuade**劝阻，劝止;**persuade**说服，劝说;**kidnap**绑架;**rob**抢劫;**harass**使烦恼;**lure**诱惑物;**apprehend**理解;**ambush**埋伏，伏击;**derail**使出轨;**slay**杀害;
 		4. unlay
 		5. underlay
+			1.  [carpet pad](dic://carpet pad), [rug pad](dic://rug pad), [underlayment](dic://underlayment)
+			2. _n._ [pad](dic://pad)
+			3. _v._ [raise](dic://raise), [lift](dic://lift), [elevate](dic://elevate), [get up](dic://get up), [bring up](dic://bring up), [put](dic://put), [set](dic://set)
+			4. **overlay**覆盖物;**overlays**把一物置于…之上;**underpinning**基础,支柱,支撑;**flooring**地板材料;**overlaid**覆盖;**carpet**地毯;**layer**层，阶层;**tulle**薄纱;**fabric**织物;**layers**层面板;**layered**层状的;
 		6. relay
 		7. overlay
 		8. outlay
 		9. onlay
+			1. 1. vt. 裱贴；镶上
+			2. n. 浮雕饰物；覆盖之物
 		10. mislay
-		11. laywoman
-		12. laytime
-		13. laystall
-		14. layshaft
-		15. layperson
-		16. layover
-		17. layout
-		18. layoff
-		19. layman
+		11. layman
+		12. laywoman
+		13. laytime
+		14. laystall
+		15. layshaft
+		16. layperson
+		17. layover
+			1.  [stop](dic://stop), [stopover](dic://stopover)
+			2. _n._ [stay](dic://stay)
+			3. **stopover**中途停留;**airport**机场;**trip**旅行;**flight**飞行;**detour**使…绕道而行;**airports**机场;**sightseeing**【U】观光;**itinerary**旅行计划，行程表;**nonstop**直达的;**plane**平面;**Heathrow**希思罗机场;
+		18. layout
+			1. _n._ [design](dic://design), [plan](dic://plan), [order](dic://order), [ordering](dic://ordering)
+			2. **design**设计;**redesign**重新设计;**template**模板，样板;**typography**印刷术;**formatting**格式化;**spacing**间隔;**structure**结构;**sketch**素描;**scrapbook**剪贴簿;**style**风格;**arrangement**安排;
+		19. layoff
+			1. _n._ [closure](dic://closure), [closedown](dic://closedown), [closing](dic://closing), [shutdown](dic://shutdown)
+			2. **severance**切断,断绝,分裂;**downsizing**缩小规模;**dismissal**解雇, 免职, 开除;**downturn**低迷时期;**employment**雇用, 就业;**termination**终止;**stoppage**堵塞;**buyout**全部买下;**restructuring**重组;**strike**罢工;**attrition**消耗;
 		20. laying
 		21. lyaette
 		22. layer
@@ -1484,6 +1501,12 @@ _delicate balance_ 微妙的平衡
 			14. bilayer
 		23. laydown
 		24. layabout
+			1.  [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [bum](dic://bum)
+			2. _n._ [nonworker](dic://nonworker)
+			3. **wannabe**想达到目标的人;**unemployed**被解雇的;**bastard**私生的;**lazy**懒惰的;**hard-working**勤勉的,努力工作的;**neurotic**神经过敏的;**millionaire**百万富翁;
+			4. at school I wasn't a swot, but I wasn't a layabout either /上学的时候我不是个学习特别勤奋的人，但我也不是个懒惰的学生。
+			5. a wretched idle layabout /讨厌的懒汉
+			6. I don't suppose those things matter to a bunch of layabout wizards— /我不认为这些事情对于一群懒惰的巫师来说有任何意义。
 		25. lay-up
 		26. lay-by
 		27. laity
@@ -1491,18 +1514,36 @@ _delicate balance_ 微妙的平衡
 		29. inlay
 		30. bricklaying
 		31. belay
-		32. allay
-			1. [still](dic://still), [relieve](dic://relieve), [ease](dic://ease)
-			2.  [quench](dic://quench), [slake](dic://slake), [assuage](dic://assuage)
-			3. _v._ [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console), [solace](dic://solace), [meet](dic://meet), [satisfy](dic://satisfy), [fill](dic://fill)
-			4. **quell**镇压;**alleviate**缓和;**dispel**驱散，驱逐;**soothe**安慰;**appease**使平息;**reassure**使…安心，使消除疑虑;**fears**恐惧;**lessen**使…变小;**arouse**引起;**heighten**提高;**relieve**解除，减轻;
-			5. _[allaying tiredness](dic://allaying%20tiredness)_  消除疲劳（allaying是allay的现在分词）
-			6. _[allay misgivings](dic://allay%20misgivings)_ 减轻疑虑
-			7. _[allay exacerbate](dic://allay%20exacerbate)_ 缓解
-			8. _[allay irritate](dic://allay%20irritate)_ 使镇静
-	5. beleaguer
+			1. - v. 把缆绳拴在系索栓上；拴住，系牢；停止 
+			2. n. 固定活动绳索；固定活动绳索的岩石
+			3. _n._ [outcrop](dic://outcrop), [outcropping](dic://outcropping), [rock outcrop](dic://rock outcrop)
+			4. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
+			5. **climber**登山者;**climbers**脚扣;**climbing**上升的;**ledge**壁架;**rope**绳，绳索;**ascent**上升;**crux**关键;**climb**攀登;**boulder**大圆石;**mountaineering**登山运动;**ropes**围绳;
+			6. A belaying pin is found too large to be easily inserted into its hole: the carpenter claps it into one of his ever ready vices, and straightway files it smaller. /如果发现一根系索栓太大，不容易插进栓孔，这木匠便会把它夹在一个常备的老虎钳里，径直把它锉小一些
+			7. The most important element of the **belay** is the anchor. /固定保护绳最重要的部分就是锚点。
+			8. I've got you on **belay**. I'll hold you if you do slip off. /我已帮你完成确保了，如果你真的失足，我会抓住你的。
+		32. allay (alloy, alley, ally)
+			1. vt. 使平静, 使缓和
+			2. al-去，往 + lay【放】，这里指“放心，使平静”。
+			4. [still](dic://still), [relieve](dic://relieve), [ease](dic://ease)
+			5.  [quench](dic://quench), [slake](dic://slake), [assuage](dic://assuage)
+			6. _v._ [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console), [solace](dic://solace), [meet](dic://meet), [satisfy](dic://satisfy), [fill](dic://fill)
+			7. palliate, extenuate, mitigate, assuage, pacify
+			8.  [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [mollify](dic://mollify), [placate](dic://placate), [gentle](dic://gentle), [gruntle](dic://gruntle)
+			9. **quell**镇压;**alleviate**缓和;**dispel**驱散，驱逐;**soothe**安慰;**appease**使平息;**reassure**使…安心，使消除疑虑;**fears**恐惧;**lessen**使…变小;**arouse**引起;**heighten**提高;**relieve**解除，减轻;
+			10. _[allaying tiredness](dic://allaying%20tiredness)_  消除疲劳（allaying是allay的现在分词）
+			11. _[allay misgivings](dic://allay%20misgivings)_ 减轻疑虑
+			12. _[allay exacerbate](dic://allay%20exacerbate)_ 缓解
+			13. _[allay irritate](dic://allay%20irritate)_ 使镇静
+			14. could not allay the outreach of human intellect. /不能控制人类才智的发展
+			15. the report attempted to educate the public and allay fears /该报道试图教育公众并减少恐惧。
+			16. His fever was allayed by the medicine. /这药剂使他退烧了。
+			17. Despite its condescension toward the Bennet family, the letter begins to allay Elizabeth’s prejudice against Darcy. /尽管这封信对班纳特家的态度很高傲，但它开始消除伊丽莎白对达西的偏见。
+			18. Mr. Biden has yet to allay concerns about the most contentious aspects of his career. /拜登仍有待消除人们对他职业生涯中最有争议的那些方面的担忧。
+			19. The tumult of Elizabeth's mind was allayed by this conversation. /这番谈话以后，伊丽莎白的骚忧的心境平静了些。
+	4. beleaguer
 		1. beleagured
-	6. fellow
+	5. fellow
 		1. yokefellow
 		2. schoolfellow
 		3. palyfellow
@@ -1515,12 +1556,23 @@ _delicate balance_ 微妙的平衡
 		10. classfellow
 		11. blackfellow
 		12. bedfellow
-	7. ledge
-		1. windowledge
-		2. ledgement
-		3. ledged
-		4. ledger
-	8. lie
+	6. ledge (bedge)
+		1.  [shelf](dic://shelf)
+		2. _n._ [ridge](dic://ridge)
+		3. **cliff**绝壁;**boulder**大圆石;**sill**窗台;**cliffs**悬崖，峭壁;**climb**攀登;**overhang**悬垂;**ravine**峡谷;**perch**栖木;**stairway**阶梯，楼梯;**climbing**上升的;**walkway**通道，走道;
+		4. windowledge
+		5. ledgement
+		6. ledged
+		7. ledger
+			1.  [leger](dic://leger), [account book](dic://account book), [book of account](dic://book of account), [book](dic://book)
+			2.  [daybook](dic://daybook)
+			3. _n._ [record](dic://record), [journal](dic://journal)
+			4. **bookkeeping**记账,簿记,管账;**accounting**会计;**receipts**进款;**diary**日记簿;**sheet**薄片，纸张;**payroll**工资单;**records**记录，录音;**transactions**会报;**spreadsheet**电子制表软件,电子数据表;
+			5. _general ledger_ 总帐，总分类帐；普通分类帐
+			6. _subsidiary ledger_ 明细分类帐；辅助分类帐
+			7. _ledger account_ 分类帐
+			8. _general ledger accounts_ 总分类帐帐户；普通分类帐帐户
+	7. lie
 		1. fall落下和fell砍伐，B组：lie躺和lay放下，C组：rise上升和raise升起，D组：sit和set......什么关系呢？以上四组单词中后边的单词叫causative verb使役动词，理解为to cause to do就欧了。所以fell就是to cause to fall，lay是to cause to lie，set是to cause to sit，raise是to cause to rise。
 		2. n. 谎言, 假象, 位置
 		3. vi. 躺着, 说谎, 位于, 展现, 存在, 停泊  vt. 谎骗
@@ -1537,7 +1589,7 @@ _delicate balance_ 微妙的平衡
 		13. lie-abed
 		14. liar
 		15. inlier
-		16. belie
+		16. belie (ambivalent)
 			1. vt. 掩饰, 与...不符, 使失望
 			2. vt. 给人以假象，掩饰（感情等）；显示……为虚假，表明……不正确；使落空，辜负（要求、期望等）；给人以……假象，使人对……产生错觉
 			3. be-使... + lie【说谎】
@@ -1680,11 +1732,19 @@ _delicate balance_ 微妙的平衡
 		3. slimeball
 	5. delete
 		1. 1 - de-,向下，离开，-let,涂抹，抹掉，词源同 liniment,obliterate.-t,过去分词格 (obliterate, deph-, liter-)
-		2. deletion
-		3. deleting
-		4. deleter
-		5. deletable
-		6. indelible
+		2. deleterious (counterproductive, vitriolic, caustic, vile, snarky)
+			1. 来自希腊语 deleter,破坏者，毁灭者，可能进一步来自 PIE*da,切，分，词源同 demon.即破坏性的，有害的。
+			2. _adj._ [harmful](dic://harmful)
+			3. _n._ [harmless](dic://harmless)
+			4. **detrimental**有害的;**harmful**能造成损害的;**adverse**不利的;**undesirable**不良的;**pernicious**很有害的;**effects**财物;**effect**效果;**damaging**有破坏性的，损害的;**destructive**破坏性的, 毁灭性的;**unintended**非故意的,无意识的;**beneficial**有益的, 有利的;
+			5. _deleterious effect_ 毒害身心的作用，有毒影响
+			6. The cold weather had most deleterious consequences among the chrysanthemums. /寒冷的天气对菊花产生了极有害的影响。
+			7. It's bad news for biodiversity, but it's also deleterious for the dinner plate. /这对生物多样性来说是个坏消息，同时对我们的晚餐供应来说也是不利的。
+		3. deletion
+		4. deleting
+		5. deleter
+		6. deletable
+		7. indelible
 			1. 1 - in-,不，非，-delib,删除，抹去，词源同 delete.引申词义难以磨灭的。
 			2. _adj._ [ineradicable](dic://ineradicable)
 			3. _n._ [eradicable](dic://eradicable)
@@ -3724,7 +3784,7 @@ _delicate balance_ 微妙的平衡
 
 ### + \*lithra- +
 1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
-	1. deliberate
+	1. deliberate (circumspect, contemplate, calculated, )
 		1. de-向下，强调 + liber-秤，称量 + -ate, 表形容词，引申义反复称量的，故意的。
 		2. _take time to deliberate_ 做事要深思熟虑
 		3. _deliberate on_ 审议；仔细研究，考虑

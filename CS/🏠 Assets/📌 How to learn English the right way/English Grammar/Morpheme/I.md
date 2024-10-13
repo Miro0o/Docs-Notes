@@ -128,7 +128,7 @@
 
 
 ## io
-### + \*-lo- +
+### ⭐ + \*-lo- +
 1. **-al, -ial** 表形容词，“…的”，一般缀于名词后。源自拉丁语 -alis, adjective suffix.
 2. **-ar** 表形容词，“…的”。源自拉丁语 -alis, adjective suffix.
 3. **-er, -le, -let** = -et, 表示“小”。源自拉丁语 -ellus, diminutive suffix.
@@ -306,7 +306,7 @@
 
 
 ## it
-### -ite 形容词、名词、动词后缀，表示“属于或和...相关”，来自拉丁语和希腊语。
+### ⭐ -ite 形容词、名词、动词后缀，表示“属于或和...相关”，来自拉丁语和希腊语。
 1. anchorite
 	1. an-=ana-后 + chor-地方 + -ite
 	2. n. 隐居修道者, 隐士
@@ -350,6 +350,9 @@
 39. etc..
 
 
+### ⭐ -ity 表名词，指具备某种性质。
+1. abnomality
+2. etc.
 
 
 ## iv

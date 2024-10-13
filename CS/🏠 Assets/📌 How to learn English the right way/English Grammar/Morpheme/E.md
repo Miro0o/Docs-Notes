@@ -687,10 +687,13 @@
 3. **sumptu-** = expense, 表示“花费”。复合词根，由 sub-（下）+ empt-（买） 组成。源自拉丁语 sumere "to take, obtain, buy."
 	1. sumptuary
 	2. sumptuosity
-	3. sumptuous
-		1. **opulent**富裕的;**exquisite**精致的, 精美的;**delectable**令人愉快的;**luxurious**奢侈的;**lavish**浪费的;**luscious**甘美的;**scrumptious**可口的,美味的;**decadent**颓废的;**mouth-watering**流着口水的;**splendid**辉煌的;**lush**丰富的，豪华的;
-		2. sumptuousness
-		3. sumptuously
+	3. sumptuous, (profusion, proliferate, effusive)
+		1. sumptu-花费 + -ous形容词后缀 → 拿钱去大把花 → 奢侈的。
+		2.  来自拉丁语 sumptus,购买的，花销的，吃喝的，过去分词格于 sumere,购买，花销，缩写自*sub-emere,来自 sub,向下，emere,买，词源同 assume,assumption,emption.-ous,形容词后缀。后引申词义奢华的，奢侈的。
+		3. **opulent**富裕的;**exquisite**精致的, 精美的;**delectable**令人愉快的;**luxurious**奢侈的;**lavish**浪费的;**luscious**甘美的;**scrumptious**可口的,美味的;**decadent**颓废的;**mouth-watering**流着口水的;**splendid**辉煌的;**lush**丰富的，豪华的;
+		4. 
+		5. sumptuousness
+		6. sumptuously
 
 
 ### -eme = unit, 表示“...单位”
@@ -1213,16 +1216,16 @@
 	6. Entoderm
 	7. Entozoon
 8. **eso-** = within, 表示“内”。源自希腊语 eso "within."
-	1. esoteric (intrinsic, exorcise)
+	1. esoteric (intrinsic, exorcise, occult) (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric)
 		1. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
 		2. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
-		3. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
-		4. esoteric interests. /少数人的利益
-		5. esoteric philosophical debates. /深奥的哲学辩论。
-		6. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
-		7. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
-		8. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
-		9. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
+		4. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
+		5. esoteric interests. /少数人的利益
+		6. esoteric philosophical debates. /深奥的哲学辩论。
+		7. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
+		8. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
+		9. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
+		10. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
 9. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
 	1. etc.. (too many!)
 10. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
@@ -2215,12 +2218,26 @@
 	4. errand, 
 		1.  来自 PIE*ei,走，离开。其现在分词 ion,过去分词 it,词源同 exit,itinerary,该词来自其拉丁语现在主动不完全格 ire.
 	5. errant
-	6. erratic
+		1. a. 周游的, 离开正道的, 不定的
+		2. _adj._ [fallible](dic://fallible), [uncontrolled](dic://uncontrolled)
+		3. _n._ [infallible](dic://infallible), [controlled](dic://controlled)
+		4. **wayward**任性的;**hapless**运气不好的，倒霉的;**stray**走失的家畜;**misguided**由错误思想指引的,不明智的;**unsuspecting**无疑心的;**careless**粗心的;**offending**不愉快的,厌恶的;**would-be**想要成为的,自称自许的,自充的;**well-meaning**善意的;**erroneous**错误的, 不正确的;**untimely**不合时宜的;
+		5. _knight errant_ n. 唐·吉诃德式的人物；游侠骑士
+		6. an errant afternoon breeze. /午后飘忽不定的微风
+		7. he could never forgive his daughter's errant ways. /他永远无法原谅女儿的出格行为。
+		8. She went to Paris to bring back her errant son. /她到巴黎去把误入歧途的儿子领回来。
+		9. An errant May-fly swerved unsteadily athwart the current in the intoxicated fashion affected by young bloods of May-flies seeing life.  A swirl of water and a ‘cloop!’ /一只随波漂流的蜉蝣，满怀着血气方刚的后生对生活的憧憬，正歪歪斜斜地逆水游来。
+	6. erratic (erratic, errant, wayward, precarious, labile, )
 		1. err-错误 + -atic → [被人认为]错误的 → 古怪的。
 		2. n. 古怪的人, 漂石  a. 不规则的; 不确定的; 不稳定的, 不可靠的
 		3. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
 		4.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
 		5. [planetary](dic://planetary), [wandering](dic://wandering)
+		6. the erratic behaviour of the old car. /那辆旧车不稳定的性能。
+		7. the wicket was causing the occasional erratic bounce. /这一轮击球中出现了偶尔飘忽不定的反弹球。
+		8. he was let down by an erratic serve. /一个奇怪的发球让他扫兴。
+		9. He is a very erratic football player. /他是个技术非常不稳定的足球队员。
+		10. Bill's erratic moods upset everyone in our office. /比尔古怪的情绪使我们办公室的每个人都心烦。
 	7. erratum
 		1. err-漫游 + -atum
 		2. **corrected**折算的,修正的,校正的;**typo**排印错误;**reprint**再版;**publication**出版;**correction**改〔纠〕正;**footnote**脚注;**retraction**收回;**appendix**附
@@ -2305,6 +2322,9 @@
 		7. interest-rate
 		8. interest-free
 		9. disinterest, disinterested
+			1. (fair, unbiased, impartial, disinterest,)
+			2. _n._ [tolerance](dic://tolerance)
+			3. **apathy**冷漠，无兴趣，漠不关心;**indifference**不关心,不在乎;**disdain**蔑视;**disgust**厌恶，嫌恶;**dissatisfaction**不满;**hostility**敌意;**displeasure**不快, 不悦, 生气;**reluctance**不愿意;**lack**缺乏;**uninterested**不感兴趣的;**laziness**怠惰;
 	8. posses
 		1. self-possessed, repossess, prepossess
 		4. possessory, possessive
@@ -2555,7 +2575,7 @@
 		1. van-空 → 目空一切 → 自夸。
 	30. wanton
 		1. 1 - 来自古英语 wan-towen,缺乏控制，自制，wan-,缺乏，词源同 want,towen,拉，词源同 tow.引申词义恣意妄为的，缺乏管教的，淫荡的等。
-2. wane
+2. wane (wax and wane / bane and boon /weal and woe /ebb and flow /boom and doom)
 	1. n. 减少, 衰微, 败落, 亏缺, 月亏  vi. 变小, 亏缺, 衰落, 消逝, 退潮
 	2. wane [weɪn] vi. 衰落；变小；亏缺；退潮；消逝，n. 衰退；月亏；衰退期；缺损。这个单词与wax意思基本相反，日耳曼词源，与waste和want等有关，与拉丁来源的vain徒劳的；自负的和vast以及void空的和vacuum真空等同源。我们说月有阴晴圆缺，用上wax和wane这两个单词就是The moon waxes and wanes。
 4. want

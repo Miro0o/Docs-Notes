@@ -192,25 +192,27 @@
 	17. subject
 	18. intraject
 	19. introjection
-	20. conjecture (conjure)
-		1.  [speculation](dic://speculation)
-		2.  [guess](dic://guess), [supposition](dic://supposition), [surmise](dic://surmise), [surmisal](dic://surmisal), [speculation](dic://speculation), [hypothesis](dic://hypothesis)
-		3.  [speculate](dic://speculate), [theorize](dic://theorize), [theorise](dic://theorise), [hypothesize](dic://hypothesize), [hypothesise](dic://hypothesise), [hypothecate](dic://hypothecate), [suppose](dic://suppose)
-		4. _n._ [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [opinion](dic://opinion), [view](dic://view), [reasoning](dic://reasoning), [logical thinking](dic://logical thinking)
-		5. _v._ [expect](dic://expect), [anticipate](dic://anticipate)
-		6. **speculation**思考,思索;**theorem**定理;**assertion**主张,维护;**theory**理论;**hypothesis**假说, 假设, 前提;**hearsay**传闻，谣言;**disprove**反驳，证明…是虚假的;**assumption**假定, 臆断;**unsubstantiated**无事实根据的;**hypotheses**臆断;**mathematical**数学的;
-		7. conjecture over who'll get the heave-ho /关于谁会被开除的猜测。
-		8. I cannot conjecture what his plans are. /我拿不准他的计划是什么。
-	21. trajectory
+	20. conjecture (conjure, hypothesis)
+		1. con-强调 + ject-扔，投掷 + -ure, 表名词。
+		2. conjecture [kən'dʒektʃə] n.推测；猜想，vi.&amp;vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。比如著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 ​​​​
+		3.  [speculation](dic://speculation)
+		4.  [guess](dic://guess), [supposition](dic://supposition), [surmise](dic://surmise), [surmisal](dic://surmisal), [speculation](dic://speculation), [hypothesis](dic://hypothesis)
+		5.  [speculate](dic://speculate), [theorize](dic://theorize), [theorise](dic://theorise), [hypothesize](dic://hypothesize), [hypothesise](dic://hypothesise), [hypothecate](dic://hypothecate), [suppose](dic://suppose)
+		6. _n._ [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [opinion](dic://opinion), [view](dic://view), [reasoning](dic://reasoning), [logical thinking](dic://logical thinking)
+		7. _v._ [expect](dic://expect), [anticipate](dic://anticipate)
+		8. **speculation**思考,思索;**theorem**定理;**assertion**主张,维护;**theory**理论;**hypothesis**假说, 假设, 前提;**hearsay**传闻，谣言;**disprove**反驳，证明…是虚假的;**assumption**假定, 臆断;**unsubstantiated**无事实根据的;**hypotheses**臆断;**mathematical**数学的;
+		9. conjecture over who'll get the heave-ho /关于谁会被开除的猜测。
+		10. I cannot conjecture what his plans are. /我拿不准他的计划是什么。
+	22. trajectory
 		1. tra-穿过 + ject-扔 + -ory, 表名词 → 扔进去 → 弹道。
-	22. adjacent
+	23. adjacent
 		1. ad- + jac-扔 + -ent形容词后缀 → 扔在一起 → 邻近的。
 		2. adjacency
-	23. circumjacent
-	24. interjacent
-	25. subjacent
+	24. circumjacent
+	25. interjacent
+	26. subjacent
 		1. a. 在底下的, 在下级的, 在下方的
-	26. superjacent
+	27. superjacent
 		1. 
 
 
@@ -608,11 +610,13 @@
 		9. _[Adjure Everybody To Help](dic://Adjure%20Everybody%20To%20Help)_ 恳请大家帮帮忙
 	7. injure
 		1. in-不，非 + jur-法律，公正，词源同jury , justice . 即审判不公，引申词义伤害。
-	8. objurgate
+	8. objurgate 
 		1. ob- + jur-发誓 + g-做 + -ate
 		2. _[objurgate](dic://objurgate)_  v. 痛骂，训斥，谴责
-		3. _v._ [denounce](dic://denounce), [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof)
-		4. _[abuse berate objurgate curse](dic://abuse%20berate%20objurgate%20curse)_ 放肆地乱骂
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe)
+		4. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, )
+		5. _v._ [denounce](dic://denounce), [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof)
+		6. _[abuse berate objurgate curse](dic://abuse%20berate%20objurgate%20curse)_ 放肆地乱骂
 	10. perjure
 		1. - 来自拉丁语 periurium,伪誓，来自 per-,整个的，-jur,发誓，词源同 adjure,jury.即信誓旦旦，词义贬义化，引申词义作伪证，发假誓。比较 perfidy.
 		2. _v._ [lie](dic://lie)

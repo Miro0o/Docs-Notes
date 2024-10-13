@@ -23,6 +23,37 @@
 
 
 
+## he
+### + \*heu-eh- +
+1. **av-, avear-** = desire, greed, 表示“渴望，贪婪”。
+	1. avarice (rapacity)
+		1.  来自拉丁语 avere,渴望，词源同 avid.
+		2. n. 贪婪
+		3.  [greed](dic://greed), [covetousness](dic://covetousness), [rapacity](dic://rapacity), [avaritia](dic://avaritia)
+		4.  [avariciousness](dic://avariciousness), [covetousness](dic://covetousness), [cupidity](dic://cupidity)
+		5. _n._ [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin), [greed](dic://greed)
+		6. **greed**贪婪，贪心;**selfishness**自私;**lust**性欲;**self-interest**利己主义;**wickedness**邪恶;**treachery**背信弃义, 不忠, 背叛;**ambition**野心，雄心;**hubris**傲慢;**arrogance**傲慢;**malice**怨恨;**immorality**不道德,无道义;
+		7. Avarice increases with wealth /贪心与财富俱增。
+		8. Their avarice knows no bounds; you can never satisfy them /他们贪得无厌, 你永远无法满足他们.
+		9. And yet I have made no use of it myself, so blind and foolish a thing is avarice. /可是我也未曾利用过这些宝物，贪婪真是极愚蠢的行为。
+		10. She, too, could produce avarice, brutality, stupidity—and, what was worse, vulgarity. /s她，同样，可以产生贪婪， 野蛮，愚蠢——更糟糕的是， 粗俗。
+		11. Pray, my dear aunt, what is the difference in matrimonial affairs, between the mercenary and the prudent motive? Where does discretion end, and avarice begin? /“请问你，亲爱的舅母，拿婚姻问题来讲，见钱眼红与动机正当究竟有什么不同？做到什么地步为止就算知礼，打哪儿起就要算是贪心？
+	2. avid (arid)
+		1. a. 渴望的, 急切的
+		2. - adj. 热心的，热衷的；渴望的，渴求的
+		3.  [devouring(a)](dic://devouring(a)), [esurient](dic://esurient), [greedy](dic://greedy)
+		4.  [great](dic://great), [eager](dic://eager), [zealous](dic://zealous)
+		5. _adj._ [desirous](dic://desirous), [wishful](dic://wishful), [enthusiastic](dic://enthusiastic)
+		6. _n._ [undesirous](dic://undesirous), [undesiring](dic://undesiring), [unenthusiastic](dic://unenthusiastic)
+		7. **ardent**热情的;**die-hard**顽固的;**enthusiast**热心人,热衷者;**long-time**为时已久的，历久的;**admirer**赞赏者;**fanatic**狂热入迷者;**fan**风扇;**staunch**坚固的;**devout**虔诚的;**supporter**支持者;**lifelong**终身的;
+		8. _[avid for power](dic://avid%20for%20power)_ 热衷于权力
+		9. _[an avid reader of books](dic://an%20avid%20reader%20of%20books)_ 热心的读者
+		10. she's an avid reader. /她是个读起书来废寝忘食的人。
+		11. avid for adventure; an avid ambition to succeed; fierce devouring affection; the esurient eyes of an avid curiosity; greedy for fame /渴望冒险；对成功的贪婪野心；热烈、贪婪的爱情；贪婪的眼睛和渴望的求知欲；贪名逐利。
+		12. And avid users had higher perceived isolation. /而狂热用户有更高的孤独感。
+
+
+
 ## ho
 ### + \*hodos- + = a way, path, track, road
 1. **hod-, od-** = road, 表示“道路”。源自希腊语 hodos "way, journey."
@@ -120,11 +151,14 @@
 
 ### + \*horkos + =
 1. **orc-** 表示“发誓、念咒”，和词根 jur- 发誓同源。
-	1. exorcize, exorcise
+	1. exorcize, exorcise (esoteric)
 		1. ex-出 + orc-念咒 + -ize
 		2. vt. 拔除, 除怪, 驱邪, 从...驱除妖魔, (用咒语)驱除(妖魔)
-		3. **demon**魔鬼;**priest**牧师;**demonic**有魔力的，恶魔的;**nun**修女，尼姑;**demons**守护程序;**supernatural**超自然的;**magician**魔术师，变戏法的人;**cleric**牧师;**psychic**精神的;**witch**巫婆，女巫;**vampire**吸血鬼
-	3. exorcism
+		3. _v._ [expel](dic://expel), [eject](dic://eject), [chuck out](dic://chuck out), [exclude](dic://exclude), [throw out](dic://throw out), [kick out](dic://kick out), [turf out](dic://turf out)
+		4. **demon**魔鬼;**priest**牧师;**demonic**有魔力的，恶魔的;**nun**修女，尼姑;**demons**守护程序;**supernatural**超自然的;**magician**魔术师，变戏法的人;**cleric**牧师;**psychic**精神的;**witch**巫婆，女巫;**vampire**吸血鬼
+		5. an ancient ritual to exorcise demons /古老的驱魔仪式
+		6. A priest was called in to exorcise the ghost. /请来一个牧师驱鬼。
+	2. exorcism
 
 
 ## hy

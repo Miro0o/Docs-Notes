@@ -1,4 +1,20 @@
 ## re
+### -ress 表名词，指“物品”。
+1. buttress (bolster, upholster)
+	1. n. 拱壁, 扶壁, 支持物  
+	2. vt. 支持, 以扶壁支撑
+	3. butt【相撞，相接】 + -ess通常为阴性后缀，此处为名词后缀。
+	4. _n._ [support](dic://support)
+	5. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
+	6. **bolster**长枕;**undercut**廉价出售;**reinforce**增强;**overhang**悬垂;**ledge**壁架;**arch**拱门;**ridge**山脉;**crux**关键;**substantiate**用事实支持;**reinforcing**增强;**pillar**柱子，柱形物;
+	7. Two further findings buttress the idea that it is the psychological load of decision making which matters. /还有另外两个发现可以支持这种精神负担作用的观点 
+	8. It was buttressing Zelenskiy, you know, encouraging him to keep going. It was very interesting. /马克龙在鼓励泽连斯基，鼓励他继续说下去。这一点非常值得注意。
+	9. They see hundreds of names carved in the limestone buttresses, and resolve to add theirs to the number. /They see hundreds of names carved in the limestone buttresses, and resolve to add theirs to the number.
+	10. The package is intended to buttress Ukraine over the next five months to combat Russia's ongoing invasion. /该计划的目的是在接下来的五个月里支持乌克兰对抗俄罗斯正在进行的入侵。
+	11. They take down all the struts and buttresses that hold them together and quietly devour their component parts. /它们拆下所有支撑它们的支柱和拱壁，不露声色地吞噬掉其组成部分。
+2. fortress
+3. mattress
+
 ### + \*re- +
 1. **re-, res-** 表示“事情、真实的、事物”。源自拉丁语 res "thing."
 	1. real
@@ -787,16 +803,20 @@
 		7. Have you embarked on a new exercise regimen? /你最近是开始了新的锻炼课程吗？
 		8. To put these findings into practice, Pasricha suggests adding this third line to your index card regimen. /为了将这些发现付诸实践，帕斯里夏建议在你的索引卡养生法中加入这第三行。
 	6. regiment
-		1. **battalion**营;**brigade**旅;**infantry**步兵;**cavalry**骑兵;**army**陆军，军队;**militia**义勇军;**colonel**陆军上校;**squadron**中队;**garrison**守备部队, 卫戍部队;**platoon**排，团;**soldiers**士兵;
-		2. [army unit](dic://army unit)
-		3. [control](dic://control), [command](dic://command), [form](dic://form), [organize](dic://organize), [organise](dic://organise), [delegate](dic://delegate), [designate](dic://designate)
-		4. _[mortar infantry regiment](dic://mortar%20infantry%20regiment)_ 迫击炮步兵团
-		5. regimentation
-		6. regimental
+		1. - 来自拉丁语 regere,统治，管理，词源同 regulate.-ment,名词后缀。后用于军事序列指团。
+		2. n. 团, 多数, 大量  
+		3. vt. 组织, 把...编成团, 统辖
+		4. **battalion**营;**brigade**旅;**infantry**步兵;**cavalry**骑兵;**army**陆军，军队;**militia**义勇军;**colonel**陆军上校;**squadron**中队;**garrison**守备部队, 卫戍部队;**platoon**排，团;**soldiers**士兵;
+		5. [army unit](dic://army unit)
+		6. [control](dic://control), [command](dic://command), [form](dic://form), [organize](dic://organize), [organise](dic://organise), [delegate](dic://delegate), [designate](dic://designate)
+		7. _[mortar infantry regiment](dic://mortar%20infantry%20regiment)_ 迫击炮步兵团
+		8. regimentation
+		9. regimental
 			1. **regiment**把…编成团;**battalion**营;**infantry**步兵;**cavalry**骑兵;**army**陆军，军队;**brigade**旅;**colonel**陆军上校;**sergeant**军士;**squadron**中队;**garrison**守备部队, 卫戍部队;**militia**义勇军;
 			2. _[regimental police](dic://regimental%20police)_  特警
 			3. _[regimental commander](dic://regimental%20commander)_  团指挥官; 团长;
-		7. enregiment
+		10. enregiment
+			1. 把...编成联队
 	7. region
 		1. triregional
 		2. subregion
@@ -845,7 +865,7 @@
 			10. _irregular verb_ 不规则动词
 		19. biregular
 		20. antiregular
-	9. regulate
+	9. regulate (adulate)
 		1. well-regularted
 		2. unregulated
 		3. self-regulating
@@ -865,7 +885,7 @@
 		6. _[on the soundwithout dirge](dic://on%20the%20soundwithout%20dirge)_ 声无哀乐论
 		7. _[sad melody elegy dirge threnode](dic://sad%20melody%20elegy%20dirge%20threnode)_ 悲歌
 		8. _[on the sound without dirge](dic://on%20the%20sound%20without%20dirge)_ 声无哀乐论
-	11. rail
+	11. rail (hail)
 		1. n. 铁路系统；铁轨，轨道；栏杆，扶手；（挂物用的）横杆；（赛马或赛狗场的）围栏；（镶板门或上下推拉窗的）横档，冒头；冲浪板（或帆板的）边缘；（电子）定电位导体轨；秧鸡 
 		2. v. 用栏杆把……围起，把……隔开；<正式>谴责，抱怨；由铁路运送（货物）；（风帆冲浪用语）斜板滑行
 		3. [railing](dic://railing)
@@ -936,7 +956,7 @@
 		60. cograilway
 		61. breastrail
 		62. bedrail
-	13. realm
+	12. realm
 		1. [kingdom](dic://kingdom), [land](dic://land)
 		2. [domain](dic://domain), [region](dic://region)
 		3. [kingdom](dic://kingdom)
@@ -944,7 +964,7 @@
 		5. **sphere**范围;**purview**范围，权限;**kingdom**王国;**confines**范围;**beyond**超过;**territory**领土;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystical**神秘的;**fantasy**幻想;**abyss**深渊;**uncharted**未知的;
 		6. _in the realm of_ 在……领域里
 		7. 
-	14. rule
+	13. rule
 		1. n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线  
 		2. vt. 规定, 统治, 管理, 控制, 支配, 裁决  
 		3. vi. 统治, 管辖, 裁定
@@ -968,7 +988,7 @@
 		14. misrule
 		15. metarule
 		16. hyperrule
-	16. sovereign
+	14. sovereign
 		1. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head of state), [chief of state](dic://chief of state)
 		2. _adj._ [free](dic://free), [dominant](dic://dominant)
 		3. _n._ [unfree](dic://unfree), [subordinate](dic://subordinate), [low-level](dic://low-level)
@@ -980,24 +1000,53 @@
 			1. _n._ [self-government](dic://self-government), [self-determination](dic://self-determination), [self-rule](dic://self-rule), [dominion](dic://dominion), [rule](dic://rule), [authority](dic://authority), [authorization](dic://authorization)
 			2. **sovereign**元首;**self-determination**自主;**primacy**首位;**autonomy**自治，自治权;**dominion**领土;**legitimacy**合法;**independence**独立, 自主, 自立;**hegemony**霸权;**democracy**民主国家;**territorial**领土的;**constitutional**宪法的;
 		6. quasi-sovereign
-	17. vicereine
-		1. _n._ [wife](dic://wife), [married woman](dic://married woman), [governor](dic://governor)
-		2. **monarch**君主，帝王;**regent**摄政者;**consort**结交;**queen**女王，王后;
+	15. vicereine
+		1. n. 总督夫人, 女总督
+		2. _n._ [wife](dic://wife), [married woman](dic://married woman), [governor](dic://governor)
+		3. **monarch**君主，帝王;**regent**摄政者;**consort**结交;**queen**女王，王后;
 6. **reg-, roy-** = king, 表示“国王”。源自拉丁语 rex "king."
-	1. regal
-		1.  [imperial](dic://imperial), [majestic](dic://majestic), [purple](dic://purple), [royal](dic://royal)
-		2. _adj._ [noble](dic://noble)
-		3. _n._ [lowborn](dic://lowborn)
-		4. **stately**庄严的;**majestic**宏伟的;**opulent**富裕的;**royal**皇家的;**dignified**高贵的;**majesty**威严;**elegant**高雅的，优雅的;**graceful**优美的;**monarch**君主，帝王;**aristocratic**贵族的;**ornate**华丽的;
-		5. her regal bearing /她的女王风度。
-		6. The scepter is a token of regal status. /节杖是王权的象征
+	1. regal (royal)
+		1. a. 帝王的, 适于帝王的
+		2. regal - royal和regal都有“国王的”、“王室的”之义，而且是姐妹同源词，都是14世纪时源自拉丁语rēx（国王）的派生形容词rēgālis（国王的）。不同的是，regal很可能直接借自拉丁语，而royal则是取道古法语roial进入英语的，也就是说，rēgālis在古法语的词形是roial，而roial被英语吸收又进而演变为royal。经历了几个世纪，royal和regal在词义上有了分工，如今royal通常仍然多用于原义，而regal是个较正式的用语，主要用于“帝王般的”、“华丽的”、“堂皇的”等义。  
+		3. 从royal派生的royalty指“王室（成员）”或“皇族（成员）”，原先也指国王所授予的特许权，如国王授予私人或企业的采矿权之类，以后引申为开矿权使用费、特许使用费等，如今多用以指“（付给作者、作曲家等的）版税”，而且常以复数形式royalties出现。这一用法始见于1880年的《斯克里布纳杂志》（Scribner's Magazine）。  
+		4. 例　The new law has not yet received the royal assent. 新的法规尚未得到国王（女王）的批准。
+		5.  [imperial](dic://imperial), [majestic](dic://majestic), [purple](dic://purple), [royal](dic://royal)
+		6. _adj._ [noble](dic://noble)
+		7. _n._ [lowborn](dic://lowborn)
+		8. **stately**庄严的;**majestic**宏伟的;**opulent**富裕的;**royal**皇家的;**dignified**高贵的;**majesty**威严;**elegant**高雅的，优雅的;**graceful**优美的;**monarch**君主，帝王;**aristocratic**贵族的;**ornate**华丽的;
+		9. her regal bearing /她的女王风度。
+		10. The scepter is a token of regal status. /节杖是王权的象征
+		11. The mother regaled the boys with sea stories. /妈妈讲的航海故事使孩子们很高兴。
+		12. He regaled us with some jokes. /他说了一些笑话使我们很快活。
+		13. Porter looked as regal as a pharaoh and as magnificent as raw the Egyptian Sun Deity /富丽堂皇有如法老，高贵典雅如若埃及太阳神。
 	2. regicide
 	3. regius
+		1. a. 钦定的, 皇家的
 	4. regnal
+		1. a. 帝王的, 王国的
 	5. regnant
+		1. a. 统治的, 占优势的
+		2. - adj. 在位的，统治的；占优势（或主导）的；流行的，广泛的
+		3.  [reigning](dic://reigning), [ruling](dic://ruling)
+		4. _adj._ [powerful](dic://powerful)
+		5. _n._ [powerless](dic://powerless)
+		6. **consort**结交;**reigning**统治的;**regent**摄政者;**monarch**君主，帝王;**queen**女王，王后;**monarchs**君主;**patriarchy**父权制;**queens**皇后区;**prerogative**权利,特权;**monarchy**君主政体;**patriarchal**家长的;
+		7. If a college, through the inferior human influences that have grown regnant there, fails to catch the robuster tone, its failure is colossal, for its social function stops; democracy gives it a wide berth, turns toward it a deaf ear. /如果一所大学由于那里盛行的劣等人类影响而未能抓住更强有力的基调，那么它的失败是巨大的，因为它的社会功能已经停止；民主对它敬而远之，对它充耳不闻。
 	6. regnum
+		1. - n. 统治；统治期间
 	7. reign
+		1. n. 执政, 君主统治, 统治, 支配 
+		2. vi. 当政, 统治, 支配, 盛行
+		3. 来自拉丁语 regnum,王国，统治，来自 regere,统治，管理，词源同 regal,regulate.
 	8. royal
+		1. n. 王室, 皇族  
+		2. a. 王室的, 皇家的, 盛大的, 庄严的
+		3. royalty
+		4. royally
+		5. royalistic
+		6. royalist
+		7. royalism
+		8. pennyroyal
 	9. viceroy
 7. **rog-** = ask, 表示“要求，问”。源自拉丁语 rogare "to ask."
 	1. rogation
@@ -1215,12 +1264,18 @@
 		16. she shut her eyes and seemed rapt with desire. /她闭上双眼，一副如痴如醉、欲火中烧的样子。
 		17. raptatorial
 		18. rapture
-			1.  [ecstasy](dic://ecstasy), [transport](dic://transport), [exaltation](dic://exaltation), [raptus](dic://raptus)
-			2. _n._ [emotional state](dic://emotional state), [spirit](dic://spirit), [bliss](dic://bliss), [blissfulness](dic://blissfulness), [cloud nine](dic://cloud nine), [seventh heaven](dic://seventh heaven), [walking on air](dic://walking on air)
-			3. **apocalypse**启示, 天启;**prophecy**预言;**ecstasy**狂喜;**apocalyptic**预示灾祸的;**Armageddon**世界末日善恶决战的战场;**resurrection**复活;**prophetic**预言的,先知的;**salvation**拯救;**deliverance**解救;**euphoria**精神欢快，欣快;**heaven**天堂;
-			4. rapturous
-			5. raptured
-			6. enrapture
+			1. n. 兴高采烈, 着迷, 欢天喜地, 狂喜 
+			2. vt. 使狂喜
+			3.  [ecstasy](dic://ecstasy), [transport](dic://transport), [exaltation](dic://exaltation), [raptus](dic://raptus)
+			4. _n._ [emotional state](dic://emotional state), [spirit](dic://spirit), [bliss](dic://bliss), [blissfulness](dic://blissfulness), [cloud nine](dic://cloud nine), [seventh heaven](dic://seventh heaven), [walking on air](dic://walking on air)
+			5. **apocalypse**启示, 天启;**prophecy**预言;**ecstasy**狂喜;**apocalyptic**预示灾祸的;**Armageddon**世界末日善恶决战的战场;**resurrection**复活;**prophetic**预言的,先知的;**salvation**拯救;**deliverance**解救;**euphoria**精神欢快，欣快;**heaven**天堂;
+			6. the tabloids went into raptures about her /各小报对她进行了疯狂的报道。
+			7. In rapture some little boys and girls were listening to an interesting story. /一些男孩和女孩正非常高兴地听一个有趣的故事。
+			8. The beauty of the sunset filled everybody with rapture /美丽的日落使得每个人皆为之出神。
+			9. You should have seen the almost rapture she and Mary felt when I offered them my rose /你也该看到，当我想说把香水月季送给她们，她和女儿玛丽几乎欣喜若狂。
+			10. rapturous
+			11. raptured
+			12. enrapture
 	3. rapacious
 		1. rap-夺 + -acious多…的 → 夺得多的 → 强夺的。
 		2. a. 强夺的, 贪欲的, 贪婪的
@@ -1232,20 +1287,23 @@
 		8. _[rapacious aggressor](dic://rapacious%20aggressor)_ 血盆大口
 		9. _[rapacious market](dic://rapacious%20market)_ 掠夺性市场
 		10. rapacity
-			1. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [voracity](dic://voracity), [voraciousness](dic://voraciousness)
-			2. [avarice](dic://avarice), [greed](dic://greed), [covetousness](dic://covetousness), [avaritia](dic://avaritia)
-			3. _n._ [gluttony](dic://gluttony), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
-			4. **greed**贪婪，贪心;**arrogance**傲慢;**plunder**抢夺;**hubris**傲慢;**selfishness**自私;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**excesses**越轨;**folly**愚蠢;**greedy**贪婪的;**insatiable**不知足
-	5. rapine
+			2. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [voracity](dic://voracity), [voraciousness](dic://voraciousness)
+			3. [avarice](dic://avarice), [greed](dic://greed), [covetousness](dic://covetousness), [avaritia](dic://avaritia)
+			4. _n._ [gluttony](dic://gluttony), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
+			5. **greed**贪婪，贪心;**arrogance**傲慢;**plunder**抢夺;**hubris**傲慢;**selfishness**自私;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**excesses**越轨;**folly**愚蠢;**greedy**贪婪的;**insatiable**不知足
+			6. Time and again, successive popes and sundry allies deplored what they saw as the city-state's amoral rapacity /历任教皇和各式各样的盟友一次又一次地痛惜他们所看到的这个城邦不道德的贪婪行为。
+			7. In his splenetic new book, Mr Milbank dates the " crack-up" of the Republican Party to various " destructionists" and—to appropriate the author's trademark style—their depravity, deplorability, mendacity, moral turpitude, rapacity and sycophancy. /在他那本脾气暴躁的新书中，米尔班克先生将共和党的“崩溃”归咎于各种“破坏主义者”，以及——借用作者标志性的风格——他们的堕落、可悲、虚伪、道德败坏、贪婪和阿谀奉承。
+			8. He argued that the overcrowded cities were the product of a system based on "selfishness" and "**rapacity**." /他辩称说，过分拥挤的城市是建立在“自私”和“贪婪”基础上的制度造成的。
+	4. rapine
 		1. _n._ [plundering](dic://plundering), [pillage](dic://pillage), [pillaging](dic://pillaging)
 		2. **plunder**抢夺;**treachery**背信弃义, 不忠, 背叛;**wickedness**邪恶;**conquest**征服，战胜;**bloodshed**流血,虐杀;**looting**抢劫;**greed**贪婪，贪心;**violence**激烈;**immorality**不道德,无道义;**mayhem**大混乱, 大破坏;**lust**性欲;
 		3. n. 掠夺；劫掠
 		4. _[rapine and red ruin](dic://rapine%20and%20red%20ruin)_ 掠夺和火灾; 劫掠和纵火焚烧;
 		5. Each hour, dark fraud, or open rapine, or protected murder, cries out against them /每一刻，恶毒的欺骗，公开强夺，抑或保护起来的谋杀，大声反对他们。
 		6. Not only no great convulsion, but no sensible disorder, arose from so great a change in the situation of more than 100,000 men, all accustomed to the use of arms, and many of them to rapine and plunder. /十万多人的处境发生了如此巨大的变化，不仅没有引起剧烈的痉挛，而且也没有引起任何理智上的紊乱，他们都习惯了使用武器，其中许多人还习惯于掠夺和掠夺。
-	6. raven
+	5. raven
 		1. misc-
-	7. ravage
+	6. ravage
 		1. [depredation](dic://depredation)
 		2. [harry](dic://harry)
 		3. [lay waste to](dic://lay waste to), [waste](dic://waste), [devastate](dic://devastate), [desolate](dic://desolate), [scourge](dic://scourge)
@@ -1256,16 +1314,16 @@
 		8. _[the ravages of inflation](dic://the%20ravages%20of%20inflation)_ 通货膨胀的恶果
 		9. _[the ravages of war](dic://the%20ravages%20of%20war)_ 战争的创伤
 		10. _[the ravages of bridge pier](dic://the%20ravages%20of%20bridge%20pier)_ 桥墩剥蚀
-	8. ravin
+	7. ravin
 		1. _[ravin](dic://ravin)_  n. 掠夺；掠夺物；猎食; adj. 狼吞虎咽的；贪婪的; vt. 狼吞虎咽；大嚼; n. (Ravin)人名；(法)拉万；(俄、塞)拉温;
-	9. ravine
+	8. ravine
 		1. _n._ [valley](dic://valley), [vale](dic://vale)
 		2. **hillside**山坡，山腹;**canyon**峡谷;**gorge**峡，峡谷;**creek**小溪;**valley**山谷;**embankment**路堤;**cliff**绝壁;**wooded**树木繁茂的;**hill**小山;**cliffs**悬崖，峭壁;**river**河，江;
 		3. the ravine pitches down to the creek. /峡谷向下倾斜直至溪边。
 		4. The river had worn a ravine between the hills. /那条河在两山之间已造成一个深谷。
 		5. The city is built on the rock rising out of ravines. /这座城市建在高出峡谷的岩石上
-	10. rapid
-	11. usurp
+	9. rapid
+	10. usurp
 		1. us-用 + urp[=rape抢掠] → 抢过来用 → 篡夺。
 		2.  [assume](dic://assume), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
 		3. _v._ [take](dic://take), [supplant](dic://supplant), [replace](dic://replace), [supersede](dic://supersede), [supervene upon](dic://supervene upon), [supercede](dic://supercede)
@@ -1288,21 +1346,24 @@
 		9. Reptilia
 	5. subreption
 		1. n. 歪曲事实；隐匿事实；作虚伪的申辩 
-	6. subreptitious
-		1. _subreptitious_  adj. 隐瞒事实的；以隐瞒事实而骗得的
-		2. subreptitious
-	8. surreptitious
-		1. _adj._ [concealed](dic://concealed), [covert](dic://covert)
-		2. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
-		3. **covert**隐蔽的;**clandestine**秘密的,保密的,暗中的;**sly**狡猾的;**sneaky**鬼鬼祟祟的;**nefarious**极坏的;**devious**弯曲的;**illicit**违法的;**ruse**诡计;**sneaking**鬼鬼祟祟的;**overt**明显的;**spying**侦探;
-		4. adj. 秘密的；鬼鬼祟祟的；暗中的
-		5. _[surreptitious entry](dic://surreptitious%20entry)_ 秘密进入
-		6. _[surreptitious software](dic://surreptitious%20software)_ 隐蔽软件; 软件加密与解密; 
-		7. _[surreptitious barefaced](dic://surreptitious%20barefaced)_ 暗中的
-		8. _[surreptitious menstruation](dic://surreptitious%20menstruation)_ 暗经
-		9. _[surreptitious advertising](dic://surreptitious%20advertising)_ 属于这种隐藏性的广告
-		10. _[a surreptitious glance](dic://a%20surreptitious%20glance)_ 偷偷的一瞥
-		11. surreptitiously
+	6. subreptitious  adj. 隐瞒事实的；以隐瞒事实而骗得的
+	7. surreptitious (superstitious) (covert, clandestine, sneaky, devious, furtive, surreptitious)
+		1. sur-下面 + rept-爬 + -itious表形容词 → 在下面爬的 → 鬼鬼祟祟。
+		2. _adj._ [concealed](dic://concealed), [covert](dic://covert)
+		3. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
+		4. **covert**隐蔽的;**clandestine**秘密的,保密的,暗中的;**sly**狡猾的;**sneaky**鬼鬼祟祟的;**nefarious**极坏的;**devious**弯曲的;**illicit**违法的;**ruse**诡计;**sneaking**鬼鬼祟祟的;**overt**明显的;**spying**侦探;
+		5. adj. 秘密的；鬼鬼祟祟的；暗中的
+		6. _[surreptitious entry](dic://surreptitious%20entry)_ 秘密进入
+		7. _[surreptitious software](dic://surreptitious%20software)_ 隐蔽软件; 软件加密与解密; 
+		8. _[surreptitious barefaced](dic://surreptitious%20barefaced)_ 暗中的
+		9. _[surreptitious menstruation](dic://surreptitious%20menstruation)_ 暗经
+		10. _[surreptitious advertising](dic://surreptitious%20advertising)_ 属于这种隐藏性的广告
+		11. _[a surreptitious glance](dic://a%20surreptitious%20glance)_ 偷偷的一瞥
+		12. But look; it's all part of a strategy here from Trump to make it something shady, something surreptitious. /不过你看，这是特朗普让某事变得阴暗且诡秘的部分策略。
+		13. But I think they're leaving surreptitious scented messages for potential mates /但我认为他们正在为潜在的配偶留下秘密的气味信息。
+		14. It was so deep in the crack that Elfride could not pull it out with her hand, though she made several surreptitious trials. /它在裂缝中如此之深，以至于 Elfride 无法用手将其拉出，尽管她做了几次暗中试验。
+		15. He made a **surreptitious** entrance to the club through the little door in the brick wall. /他从砖墙的小门偷偷进入俱乐部。
+		16. surreptitiously
 			1. _adv._ [furtive](dic://furtive), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
 			2. **secretly**秘密地;**unwittingly**不知情地;**discreetly**谨慎地,小心地;**inadvertently**漫不经心地;**unknowingly**不知不觉地;**sneaking**鬼鬼祟祟的;**snuck**动词sneak的过去式和过去分词;**quietly**安静地;**deliberately**慎重地;**purposefully**有目的地;**subtly**敏锐地;
 
@@ -1979,7 +2040,7 @@
 
 ## ri
 ### rid-, ris- = laugh, 
-1. deride
+1. deride (lambaste, contemptuous, condescending, reprove, reproach, reproof, sniffish, )
 	1. _v._ [mock](dic://mock), [bemock](dic://bemock)
 	2. **criticize**评论, 批评;**denounce**谴责;**criticise**批评;**despise**轻视，鄙视;**ridicule**嘲笑;**condemn**判刑，定罪;**accuse**控告，指控;**scorn**轻蔑;**discredit**败坏…的名声;**mocking**嘲弄的;**disdain**蔑视;
 	3. deridingly
@@ -2007,11 +2068,12 @@
 	6. ridiculous
 	7. ridiculously
 4. risible
-	1.  [amusing](dic://amusing), [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [mirthful](dic://mirthful)
-	2. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
-	3. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
-	4. **ludicrous**荒唐可笑的,滑稽可笑的;**laughable**荒唐可笑的;**preposterous**反常的,荒谬的;**absurd**荒谬的;**nonsensical**无意义的;**inane**愚蠢的;**ridiculous**可笑的, 荒谬的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**daft**愚蠢可笑的;**disingenuous**不真诚的;**idiotic**白痴的;
-5. risibility
+	1. a. 能笑的, 善笑的, 爱笑的
+	2.  [amusing](dic://amusing), [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [mirthful](dic://mirthful)
+	3. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+	4. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+	5. **ludicrous**荒唐可笑的,滑稽可笑的;**laughable**荒唐可笑的;**preposterous**反常的,荒谬的;**absurd**荒谬的;**nonsensical**无意义的;**inane**愚蠢的;**ridiculous**可笑的, 荒谬的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**daft**愚蠢可笑的;**disingenuous**不真诚的;**idiotic**白痴的;
+6. risibility
 	1. _n._ [good nature](dic://good nature)
 	2. **absurdity**荒谬;**silliness**愚蠢;**absurd**荒谬的;**idiocy**白痴;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**farce**笑剧,闹剧,滑稽戏;**contrived**不自然的;**banal**陈腐的;**sublime**高尚的;**folly**愚蠢;
 

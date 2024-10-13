@@ -873,7 +873,7 @@
 		5. [retiring](dic://retiring), [unassuming](dic://unassuming), [moderate](dic://moderate), [unpretentious](dic://unpretentious), [coy](dic://coy), [demure](dic://demure), [overmodest](dic://overmodest)
 		6. [immodest](dic://immodest), [immoderate](dic://immoderate), [pretentious](dic://pretentious), [superior](dic://superior), [proud](dic://proud), [unlimited](dic://unlimited), [limitless](dic://limitless)
 		7. **meager**贫乏的;**paltry**不足取的;**sizable**相当大的;**comparatively**对比地;**substantial**大量的;**respectable**人格高尚的;**hefty**重的;**sizeable**大的，相当大的;**unassuming**谦逊的;**small**少的，小的;**relatively**相对地,比较而言;
-	1. modicum
+	1. modicum (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged)
 		1. mode【模式，方式，尺度】 + -ic + -um , 表中性。即按尺度，按量，引申词义少量，一点点。
 		2. **semblance**外表;**lack**缺乏;**sense**官能, 感官;**requisite**必要的事物;**decency**正派;**scant**不足的;**considerable**相当大的;**sort**种类;**sufficient**足够的;**decent**得体的;**glimmer**微光
 		3. _[mint modicum](dic://mint%20modicum)_ 巨额
@@ -2395,8 +2395,10 @@
 13. smelt
 #### + \*mel- (2) + = of darkish color
 1. swart (misc)
-2. **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
-3. **melan-** = black
+2. tenebrous
+3. \*nekwt- **negr-, nigr-** = black, 表示“黑”。源自拉丁语 neger "black."
+4. 
+5. **melan-** = black
 	1. melancholia
 		1. melancholic
 		2. melancholy
@@ -2441,7 +2443,7 @@
 		7. melanotic, ameanotic
 		8. melanocortin
 	3. Melanesian
-4. mullet
+6. mullet
 	1. - n. 胭脂鱼；鲻鱼；乌鱼
 	2.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)
 	3.  [grey mullet](dic://grey mullet), [gray mullet](dic://gray mullet)
@@ -2795,11 +2797,30 @@
 		2. reminiscence, pseudoreminiscence
 4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
 5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
-	1. admonition
-		1. admonitory
-		2. admonitor
-	2. monition
-	3. monitor
+	1. admonish
+		1.  ad-,去，往，-mon,建议，警告，词源同 monitor,班长。
+		2. _vt._ 劝告, 训诫
+		3. (温和地)责备，轻责
+		4.  [warn](dic://warn), [discourage](dic://discourage), [monish](dic://monish)
+		5.  [caution](dic://caution), [monish](dic://monish)
+		6. [reprove](dic://reprove)
+		7. _v._ [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel), [warn](dic://warn), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise)
+			1. [advise](dic://advise) 普通用词，泛指劝告，不涉及对方是否听从劝告。  
+			2. [caution](dic://caution) 主要指针对有潜在危险而提出的警告，含小心从事的意味。  
+			3. [warn](dic://warn) 含义与caution相同，但语气较重，尤指重后果。  
+			4. [admonish](dic://admonish) 一般指年长者或领导对已犯错误的或有过失的人提出的忠告或警告以避免类似错误。  
+			5. [counsel](dic://counsel) 正式用词，语气比advise强一些，侧重指对重要问题提出的劝告、建议或咨询。
+		8. **instruct**命令;**rebuke**指责，非难;**warn**警告，提醒;**accuse**控告，指控;**condemn**判刑，定罪;**embarrass**使窘迫;**lest**唯恐，以免;**punish**严厉对待;**criticize**评论, 批评;**encourage**鼓励, 激励;**denounce**谴责;
+		9. she admonished me for appearing at breakfast unshaven. /她责备我没刮脸就来吃早饭。
+		10. The coach admonished the girls for being lazy. /教练告诫姑娘们不要偷懒。
+		11. A caption admonishes citizens to vote yes in the referendum. /说明文字力劝市民在公投中投赞成票。
+		12. admonishment
+		13. admonition
+			1. n. 警告, 劝告, 训诫
+		14. admonitory
+		15. admonitor
+	3. monition
+	4. monitor
 		1. unmonitored
 		2. telemonitoring
 		3. submonitor
@@ -2811,12 +2832,10 @@
 		9. hydromonitor
 		10. biomonitoring
 		11. automonitor
-	4. monitory, monitorial
-	5. premonition
-	6. premonitory
-	7. premonish
-	8. admonish
-		1. admonishment
+	5. monitory, monitorial
+	6. premonition
+	7. premonitory
+	8. premonish
 	9. demonetise
 	10. monetary
 		1. monetarism
@@ -3071,19 +3090,39 @@
 ### + \*mend- +
 1. **mend-** = free from fault, 表示“改错”，原意表示“错误、缺陷”。源自拉丁语 mendum, menda "defect, fault," mendax "lying, liar."
 	1. mend, mendable
-		1. mendacious
+		1. n. 改进, 修补, 好转  
+		2. vt. 修改, 改进, 加快, 修理  
+		3. vi. 好转, 改善
+		4. - 缩写自 amend,修理。来自拉丁语 emendare,修理，纠正错误，来自 ex-,向外，menda,错误，缺陷，词源同 mendicant,残疾人，行乞者。
+		5. mendacious
 			1. mend-错误 + -acious(=-acy + -ous)形容词后缀。
 			2. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
-		3. mendacity
+		6. mendacity
 			1. n. 虚伪, 谎话, 说谎癖
 			2. mend-错误 + -ac + -ity
 			3. **dishonesty**不诚实的行为;**hypocrisy**伪善;**incompetence**无能力;**falsehood**谎言;**deceit**欺骗;**idiocy**白痴;**stupidity**愚笨;**hubris**傲慢;**ignorance**无知;**deception**欺骗;**cowardice**懦弱;
-		4. mender
-		5. mendicity, mendicant, mendicancy
-			1. mend-身体缺陷 + -ic + -ancy, 表名词
-			2. **beggar**乞丐;**monastic**僧侣;**monk**僧侣，修道士;**hermit**隐士;**nun**修女，尼姑;**pilgrim**朝圣者;**convent**女修道院;**abbot**男修道院院长;**pious**虔诚的;**Franciscan**圣方济各会的;**monastery**修道院;
-			3. **piety**虔诚;**poverty**贫困;**beggar**乞丐;**destitute**赤贫的, 贫苦的;**penance**使…以苦行赎罪;
-		7. mending
+			4. _n._ [untruthfulness](dic://untruthfulness)
+			5. _n._ [veracity](dic://veracity)
+			6. In recent years, he has found himself drawn to mendacity, prevarication, fabrication—you know, lying. /近年来，他发现自己被谎言、推诿、蒙骗所吸引，这就是撒谎。
+			7. The fantasy of visible mendacity may help explain why " Pinocchio" is in vogue /这种对于谎言一目了然的幻想，可能有助于我们明白《匹诺曹》为什么如此流行。
+			8. She glowed; remembering the mendacity of the imagination, she flagged; then she freshened; then she fired; then she cooled again. /她脸放光彩；跟着想起这种想象的不着边际，又消沉了下去；随后情绪又振奋起来；她脸上发烫；再接着又冷了下去。
+		7. mender
+		8. mendicity
+			1. - n. 化缘；乞丐生活（等于 mendicancy）
+			2. mend-身体缺陷 + -ic + -ancy, 表名词
+			3. **beggar**乞丐;**monastic**僧侣;**monk**僧侣，修道士;**hermit**隐士;**nun**修女，尼姑;**pilgrim**朝圣者;**convent**女修道院;**abbot**男修道院院长;**pious**虔诚的;**Franciscan**圣方济各会的;**monastery**修道院;
+			4. **piety**虔诚;**poverty**贫困;**beggar**乞丐;**destitute**赤贫的, 贫苦的;**penance**使…以苦行赎罪;
+			5. mendicant
+			6. mendicancy
+		9. mending
+			1.  [repair](dic://repair), [fix](dic://fix), [fixing](dic://fixing), [fixture](dic://fixture), [mend](dic://mend), [reparation](dic://reparation)
+			2. _n._ [garment](dic://garment), [improvement](dic://improvement)
+			3. **fixing**固定;**repair**修复;**patching**修补;**sewing**缝纫;**frayed**受磨损;**repairs**备件;**undoing**毁灭;**broken**坏掉的;**washing**洗涤;**healing**能治愈的;**stitching**用U字钉钉箱,缝纫;
+			4. The patient is mending nicely. /病人正逐渐康复。
+			5. We let the mending accumulate until Wednesday. /我们让需缝补的衣服一直积存到星期三
+			6. We all assisted in mending the roof. /我们都帮助修理屋顶。
+			7. Iran and Saudi Arabia have been mending ties following a China-brokered rapprochement earlier this year. /今年早些时候，伊朗和沙特阿拉伯在中国的斡旋下恢复了友好关系。
+			8. Now the website advertises more than 1600 repair cafes globally mending material objects while creating new friendships. /目前，该网站在全球范围内为1600多家物品修复馆做广告，修补物品的同时还能结交新朋友。
 	2. emend
 		1. e-=ex-出 + mend-错误，缺陷。
 		2. vt. 修订, 校勘
@@ -3091,7 +3130,7 @@
 		4. emendator
 		5. emendation
 		6. emendable
-	4. amend
+	3. amend
 		1.  a-,改写自 ex-,向外，-mend,虚假，缺陷，词源同 mendacious,虚假的。
 		2. vt. 修改, 改善, 改良  vi. 改过自新
 		3. amends
@@ -3099,7 +3138,7 @@
 		5. amended
 		6. amendatory
 		7. amendable
-	6. maunder
+	4. maunder
 		1. vi. 唠叨地讲, 徘徊
 		2.  来自 maund,乞讨，来自法语 mendier,乞讨，化缘，词源同 mendicant,mendacious.-er,表反复。引申词义咕哝，抱怨。
 		3.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
@@ -3692,7 +3731,7 @@
 		2. **aforesaid**上述的;**fines**细骨料;
 		3. _[amercement](dic://amercement)_  n. 罚金
 		4. _[amercement outlay](dic://amercement%20outlay)_  罚款支出
-4. mercenary
+4. mercenary (rapacity, )
 	1. _n._ [adventurer](dic://adventurer), [venturer](dic://venturer)
 	2. _adj._ [worldly](dic://worldly), [paid](dic://paid), [commercial](dic://commercial)
 	3. _n._ [unworldly](dic://unworldly), [unpaid](dic://unpaid), [noncommercial](dic://noncommercial)
