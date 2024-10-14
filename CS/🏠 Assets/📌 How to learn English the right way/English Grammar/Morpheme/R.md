@@ -2081,7 +2081,7 @@
 
 ## ru
 ### rud- = rude, 表示“原始，粗野”。
-1. erudite (pandit)
+1. erudite (pandit, pedantry)
 	1. e-指“出，外”，rud-和单词rude（粗鲁无礼的）同源，博学的人所受文化熏陶较深厚，言行举止一般会脱离粗鲁无礼的层次。
 	2. a. 博学的  n. 博学者
 	3. **eloquent**雄辩的，有口才的;**witty**诙谐的;**astute**机敏的;**insightful**有深刻见解的;**perceptive**敏感的;**thoughtful**沉思的, 思考的;**intelligent**聪明的;**irreverent**不敬的;**opinionated**固执己见的,武断的;**scholarly**学术性的;**enlightening**有启迪的;
@@ -2111,18 +2111,20 @@
 	1. adj. （植物）生长在荒地上（或垃圾堆上）的 
 	2. n. 生长在荒地上（或垃圾堆上）的植物
 5. rudiment
-	1.  [first rudiment](dic://first rudiment), [first principle](dic://first principle), [alphabet](dic://alphabet), [ABC](dic://ABC), [ABC's](dic://ABC's), [ABCs](dic://ABCs)
-	2. [fundamentals](dic://fundamentals), [basics](dic://basics), [fundamental principle](dic://fundamental principle), [basic principle](dic://basic principle), [bedrock](dic://bedrock), [body part](dic://body part)
-	3. **rudimentary**基本的;**drum**击鼓;**embryonic**胚芽的;**embryo**胚胎;
-	4. rudimentum
+	1. 
+	2.  rude,原始的，-ment,名词后缀。引申诸相关词义。
+	3.  [first rudiment](dic://first rudiment), [first principle](dic://first principle), [alphabet](dic://alphabet), [ABC](dic://ABC), [ABC's](dic://ABC's), [ABCs](dic://ABCs)
+	4. [fundamentals](dic://fundamentals), [basics](dic://basics), [fundamental principle](dic://fundamental principle), [basic principle](dic://basic principle), [bedrock](dic://bedrock), [body part](dic://body part)
+	5. **rudimentary**基本的;**drum**击鼓;**embryonic**胚芽的;**embryo**胚胎;
+	6. rudimentum
 		1. 原基;退化器官;遗迹;残遗器官
-	5. rudiments
-	6. rudimentary
+	7. rudiments
+	8. rudimentary
 		1. **basic**基本的;**primitive**原始的;**lacking**缺乏的;**meager**贫乏的;**simple**简单的;**cursory**粗略的;**feeble**微弱的，无力的;**advanced**高级的;**basics**基础;**comparatively**对比地;**archaic**古代的;
 		2. [basic](dic://basic), [incomplete](dic://incomplete), [uncomplete](dic://uncomplete), [undeveloped](dic://undeveloped)
 		3. [incidental](dic://incidental), [incident](dic://incident), [complete](dic://complete), [developed](dic://developed)
-	7. rudimental
-	8. rudimenta
+	9. rudimental
+	10. rudimenta
 
 
 ### rumen-,rumin- 表示“反刍”。

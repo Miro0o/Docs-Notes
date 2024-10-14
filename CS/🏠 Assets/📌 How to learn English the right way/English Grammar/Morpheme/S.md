@@ -601,15 +601,17 @@
 
 ### + \*saus- +
 1. **auster-** = severe, 表示“严重的”。源自希腊语 austeros "harsh."
-	1. austere (autistic, astute, altruism, austere)
-		1. auster-严重的 + -e → 严峻的
-		2. a. 严峻的, 禁欲的, 简朴的
-		3. [ascetic](dic://ascetic), [ascetical](dic://ascetical), [spartan](dic://spartan)
-		4. [stern](dic://stern)
-		5. [severe](dic://severe), [stark](dic://stark), [stern](dic://stern)
-		6. _adj._ [plain](dic://plain), [nonindulgent](dic://nonindulgent), [strict](dic://strict), [abstemious](dic://abstemious)
-		7. _n._ [fancy](dic://fancy), [indulgent](dic://indulgent), [gluttonous](dic://gluttonous)
-		8. **opulent**富裕的;**minimalist**极简抽象艺术的;**contemplative**沉思的;**uncompromising**不让步的;**austerity**严厉;**somber**昏暗的;**understated**不夸张的;**harsh**粗糙的;**elegant**高雅的，优雅的;**stark**僵硬的, 光秃秃的, 荒凉的;**aloof**冷淡的;
+	1. austere 
+		1. (autistic, astute, altruism, austere)
+		2. (ascetic, ascetical, austere, spartan, stoic, frugal,)
+		3. auster-严重的 + -e → 严峻的
+		4. a. 严峻的, 禁欲的, 简朴的
+		5. [ascetic](dic://ascetic), [ascetical](dic://ascetical), [spartan](dic://spartan)
+		6. [stern](dic://stern)
+		7. [severe](dic://severe), [stark](dic://stark), [stern](dic://stern)
+		8. _adj._ [plain](dic://plain), [nonindulgent](dic://nonindulgent), [strict](dic://strict), [abstemious](dic://abstemious)
+		9. _n._ [fancy](dic://fancy), [indulgent](dic://indulgent), [gluttonous](dic://gluttonous)
+		10. **opulent**富裕的;**minimalist**极简抽象艺术的;**contemplative**沉思的;**uncompromising**不让步的;**austerity**严厉;**somber**昏暗的;**understated**不夸张的;**harsh**粗糙的;**elegant**高雅的，优雅的;**stark**僵硬的, 光秃秃的, 荒凉的;**aloof**冷淡的;
 	3. austerity
 2. sear
 	1. vt. 烤焦；使……枯萎 
@@ -1600,7 +1602,7 @@
 #### + \*sel- (2) + = happy, of good mood, to favor
 1. **hilar-** = glad, 表示“高兴”。源自希腊语 hilaros "gay."
 	1. exhilarant
-	2. exhilarate
+	2. exhilarate  (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
 		1. **excite**刺激…，使…兴奋;**amaze**使吃惊;**amuse**使发笑;**entertain**娱乐;**dazzle**耀眼的光;**inspire**鼓舞;**delight**高兴;**impress**给…以深刻印象, 使铭记;**rejuvenate**使变得年轻, 使恢复活力;**thrill**激动;**arouse**引起;
 		2. exhilarative
 		3. exhilaration
@@ -4334,12 +4336,14 @@
 	1. comedy
 	2. comic
 	3. comity 
-	5. encomium _[panegyric ode encomium eulogy](dic://panegyric%20ode%20encomium%20eulogy)_ 四大颂歌
-		1. opprobrium
-		2.  [eulogy](dic://eulogy), [panegyric](dic://panegyric), [paean](dic://paean), [pean](dic://pean)
-		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment)
-		4. **praise**赞扬;**praises**赞扬;**epithet**词语;**honourable**诚实的, 正直的;**remark**评论;**treatise**论文;**eloquent**雄辩的，有口才的;**anecdote**奇闻;**scathing**严厉的;**admiration**钦佩;**honorable**可敬的,荣誉的,光荣的;
-		5. encomiast
+	5. encomium _[panegyric ode encomium eulogy](dic://panegyric%20ode%20encomium%20eulogy)_ 四大颂歌 tribute
+		1. en-进入 + com-宴会 + -ium → 开宴会庆祝 → 高度赞扬。
+		2. - en-,进入，使，-com,欢乐，颂歌，词源同 comedy,comic.
+		3. opprobrium, elegy, eulogy,
+		4.  [eulogy](dic://eulogy), [panegyric](dic://panegyric), [paean](dic://paean), [pean](dic://pean)
+		5. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment)
+		6. **praise**赞扬;**praises**赞扬;**epithet**词语;**honourable**诚实的, 正直的;**remark**评论;**treatise**论文;**eloquent**雄辩的，有口才的;**anecdote**奇闻;**scathing**严厉的;**admiration**钦佩;**honorable**可敬的,荣誉的,光荣的;
+		7. encomiast
 	7. seriocomic
 	8. tragicomic
 2. **mir-** = wonder, look, 表示“惊奇，看”。源自拉丁语 mirus "wonderful." 
@@ -5344,11 +5348,25 @@
 		3. [partner](dic://partner), [married person](dic://married person), [mate](dic://mate), [better half](dic://better half)
 		4. _n._ [relative](dic://relative), [relation](dic://relation), [domestic partner](dic://domestic partner), [significant other](dic://significant other), [spousal equivalent](dic://spousal equivalent), [spouse equivalent](dic://spouse equivalent)
 		5. **husband**丈夫;**wife**妻子，已婚妇女;**married**已婚的，有配偶的;**spousal**婚礼;**divorced**离婚的;**unmarried**未婚的;**widow**使成寡妇;**dependents**从属单元格;**husbands**丈夫;**marital**婚姻的;**marriage**结婚;
-		6. spousal
-		7. espouse
-			1. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [unite](dic://unite), [unify](dic://unify), [accept](dic://accept)\**profess**公开表示;**beliefs**信仰;**tenets**信条;**ideology**意识形态;**denounce**谴责;**embody**体现，使具体化;**assert**断言;**preach**说教;**endorse**赞同;**proclaim**声明;**embrace**包含;
-			2. espousal
-		8. spoudal
+		6. the woman faked her spouse's signature. /这女人伪造了丈夫的签名。
+		7. Were we supposed to bring our spouses? /我们可以带配偶来的吗？
+		8. I now pronounce you spouses for life. /现在宣布你们为此生眷侣。
+		9. Taunting the psychotic spouse, I realized, was not a wise move. /我感觉，跟神经质的配偶争执一定是不明智的。
+		10. Do, do you have a spouse who turned on you? /你的伴侣和你反目成仇了吗？
+		11. spousal
+		12. espouse (champion, advocate, defend, evangelist, espouse)
+			1. [adopt](dic://adopt), [follow](dic://follow)
+			2. [marry](dic://marry), [get married](dic://get married), [wed](dic://wed), [conjoin](dic://conjoin), [hook up with](dic://hook up with), [get hitched with](dic://get hitched with)
+			3. [embrace](dic://embrace), [adopt](dic://adopt), [sweep up](dic://sweep up)
+			4. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [unite](dic://unite), [unify](dic://unify), [accept](dic://accept) 
+			5. **profess**公开表示;**beliefs**信仰;**tenets**信条;**ideology**意识形态;**denounce**谴责;**embody**体现，使具体化;**assert**断言;**preach**说教;**endorse**赞同;**proclaim**声明;**embrace**包含;
+			6. It espoused the conventional wisdom of the day—what is often called the “Treasury view”. /它站在了当时的传统智慧，也就是常说的“财政部观点”一边
+			7. Until the party wholesale like espouses American values, as I see them, I will never vote again /在我看来，在该党全面拥护美国价值观之前，我永远不会再投票了。
+			8. Both authors espouse the importance of discipline, ritual and habit in managing time more productively /在更高效地管理时间方面，两位作者都赞同自律、仪式和习惯的重要性。
+			9. Because of the crisis, the pendulum is swinging dangerously away from the principles Mrs Thatcher espoused. /由于危机的出现，钟摆正在危险地摆离撒切尔夫人所拥护的原则。
+			10. The nationalist views he espoused attracted the attention of Breitbart.com and its then chairman, Stephen Bannon. /他信奉的民粹主义观点引起了Breitbart网站及网站当时的董事长斯蒂芬·班农的注意。
+			11. espousal
+		14. spoudal
 			1. a. 结婚的, 婚礼的
 	3. despond
 		1. de-离开 + spond-承诺
@@ -5907,24 +5925,39 @@
 	1. aerostat
 		1. _[aerostat](dic://aerostat)_  n. 航空器；高空气球
 	2. apostate （asymptote）
-		1. [deserter](dic://deserter), [renegade](dic://renegade), [turncoat](dic://turncoat), [recreant](dic://recreant), [ratter](dic://ratter)
-		2. _n._ [quitter](dic://quitter)
-		3. _adj._ [unfaithful](dic://unfaithful)
-		4. _n._ [faithful](dic://faithful)
-		5. **heretics**异教徒;**heretical**异教的;**heresy**异教;**fundamentalist**信奉正统派基督教的人;**heathen**异教徒;**prophet**先知;**evangelical**福音的;**Mormonism**摩门教;**extremist**极端主义者;**atheist**无神论者;**sinner**罪人;
-		6. apostasy
-		7. apostle
-		8. apostolate
-	3. epistle
-		1. _n._ [letter](dic://letter), [missive](dic://missive), [book](dic://book)
-		2. **apostle**传道者;**Thessalonians**新约圣经一书;**Colossians**歌罗西书;**verse**诗，诗篇;**Galatians**迦拉太书;**Ephesians**以非所书;**sermon**布道, 讲道, 说教;**Philippians**腓力比书;**Hebrews**希伯来书;**apostles**传道者;**apostolic**使徒的;
-		3. epistolary
-	4. circumstance
+		1. apostate（叛徒）：基督教中的叛教者  
+		2. 英语单词apostate原是一个基督教中的专用名词，用来表示曾经接受洗礼，加入基督教会，但后来背弃信仰的叛教者。它来自希腊语apostenai，由apo（away from）+stenai（stand）构成，字面意思就是“站到一边，远离”。历史上最有名的一个apostate是古罗马皇帝尤利安（Julia）。他是君士坦丁王朝的罗马皇帝，361年-363年在位。  
+		3. 公元313年，罗马帝国的两位统治者君士坦丁和李锡尼在米兰联名签署了著名的《米兰敕令》，宣布基督教成为罗马国教。从此以后基督教会获得了官方名义上的承认，迅速发展，君士坦丁大帝更是受洗礼成为有史以来第一位基督教皇帝。然而等到君士坦丁大帝的侄儿尤利安上台时，基督教的迅猛发展受到重挫。  
+		4. 尤利安出生就受洗，在严格基督教教育下长大，但后来却转向希腊罗马的传统多神信仰。他师承于新柏拉图主义，支持宗教信仰自由，反对将基督教信仰视为国教。他上台后就实行反大公教会政策，大力扶助多神教以及犹太教和基督教异端，大肆攻击正统派基督教，导致基督教教堂被焚毁和抢劫，基督徒被赶出军队和学校，朱利安本人还写书攻击基督教，意欲改变自君士坦丁大帝以来基督教在罗马帝国的独尊地位。这便是四世纪异教在罗马的复兴运动。因此尤利安被基督教会称为“背教者尤利安”（Julian theApostate）。  
+		5. 现在，单词apostate的宗教色彩已经淡化，可以用来泛指一切背弃信仰的人。  
+		6. apostate：['æpəsteɪt] n.变节者、脱党者、叛教者adj.变节的、脱党的、叛教的  
+		7. apostasy：[ə'pɒstəsɪ] n.变节、脱党、叛教
+		8. [deserter](dic://deserter), [renegade](dic://renegade), [turncoat](dic://turncoat), [recreant](dic://recreant), [ratter](dic://ratter)
+		9. _n._ [quitter](dic://quitter)
+		10. _adj._ [unfaithful](dic://unfaithful)
+		11. _n._ [faithful](dic://faithful)
+		12. **heretics**异教徒;**heretical**异教的;**heresy**异教;**fundamentalist**信奉正统派基督教的人;**heathen**异教徒;**prophet**先知;**evangelical**福音的;**Mormonism**摩门教;**extremist**极端主义者;**atheist**无神论者;**sinner**罪人;
+		13. Our mighty gods disapproved of an apostate woman who had given her soul to the demons. /我们强大的诸神不赞成一个将灵魂献给恶魔的叛教女人。
+		14.  And I would be an apostate and it is not unlikely that someone in my community would kill me /而且我会成为一个叛教者，而且我社区中的某个人杀了我也并非不可能。
+		15. I was nine and we had just escaped from Iran, because my mother was a Christian convert – an apostate. /那时我九岁，我们刚从伊朗逃出来，因为我母亲是一个改信基督教的人——一个叛教者。
+		16. apostasy
+		17. apostle (evangelist, epistle, ) 
+			2. apostle（使徒）：传播福音的耶稣门徒  
+			3. 耶稣创立基督教后，从追随者中挑选了一些人作为自己的门徒和传教助手。耶稣殉难后，他的门徒们继承了耶稣的衣钵，背井离乡，分散到各地传播基督教福音。尤其是外邦人保罗加入后，基督教向外邦人敞开了大门，允许外邦人加入且无需承认犹太教的教义、无需行犹太割礼。自此，基督教脱离了原来所依附的犹太教，开始自立门户，最终成为了世界三大宗教之一。最早传播福音的首批信徒为基督教的发展做出了巨大贡献和牺牲，大部分人都在传播福音的过程中献出了自己的生命。在基督教中，这些首批传道者被称为apostle（使徒），该词来自希腊语apostolos（使者），由apo（away from，远离）+ stellein（send，差遣）构成，字面意思就是“受差遣者、使者”。  
+			4. 《圣经》中记载十二使徒是彼得、安德烈、西庇太之子雅各、约翰、腓力、巴多罗买、多马、马太、亚勒腓之子雅各、达太、西门和犹大。犹大因出卖耶稣后自尽，补选马提亚为使徒。保罗则被称为“外邦人的使徒”。  
+			5. apostle：[ə'pɒs(ə)l] n.使徒，最初的传道者
+		18. apostolate
+	4. epistle
+		1. apostle [ə'pɒs(ə)l] n.信徒；使徒。希腊前缀apo-表away,away off，与拉丁前缀ab-和abs-以及日耳曼单词off同源，stle部分的本意是站立（与stand同源），在这里表站在旁边等候派遣的事物，比如epistle [ɪ'pɪs(ə)l] n.书信。耶稣派遣他们出发（apo-）到各地，立足于彼（stle）并传播福音的人。 ​​​​
+		2. _n._ [letter](dic://letter), [missive](dic://missive), [book](dic://book)
+		3. **apostle**传道者;**Thessalonians**新约圣经一书;**Colossians**歌罗西书;**verse**诗，诗篇;**Galatians**迦拉太书;**Ephesians**以非所书;**sermon**布道, 讲道, 说教;**Philippians**腓力比书;**Hebrews**希伯来书;**apostles**传道者;**apostolic**使徒的;
+		4. epistolary
+	5. circumstance
 		1. cifrcumstantial
 		2. circumstantiate
-	5. constancy, constant
+	6. constancy, constant
 		1. inconstancy
-	6. cryostat
+	7. cryostat
 		1. _n._ 低温保持器
 		2. _n._ [thermostat](dic://thermostat), [thermoregulator](dic://thermoregulator)
 		3. **spectrometer**分光计, 分光仪;**reactor**反应堆;**condenser**冷凝器;**perfusion**灌注;
@@ -5937,23 +5970,40 @@
 		6. **constable**警察;**police**警察，警方;**policeman**警察;**policemen**警察;**militia**义勇军;**paramilitary**准军事性的;**magistrate**地方法官, 治安官;**cops**顶;**patrols**巡逻队;**sheriff**州长;**enforcement**强制,实施,
 		7. _[constabulary](dic://constabulary)_  n. 警察；警官队; adj. 警官的，警察的; 
 		8. _[royal ulster constabulary](dic://royal%20ulster%20constabulary)_  （北爱尔兰）皇家警察部队
-	10. destine
-		1. de-加强 + st-站 + -ine。
-	11. distance
+	9. destine
+		1. vt. 注定, 预定
+		2. de-加强 + st-站 + -ine。
+		3.  [fate](dic://fate), [doom](dic://doom), [designate](dic://designate)
+		4.  [intend](dic://intend), [designate](dic://designate), [specify](dic://specify)
+		5. _v._ [ordain](dic://ordain), [plan](dic://plan)
+		6. **destiny**命运，定数，天命;**doomed**注定的;**fate**命运;**perish**毁灭;
+		7. He was destined to be an actor. /他注定要当演员的。
+		8. David was originally destined to the bar /大卫的父母起初想叫他去学当律师。
+		9. predestine
+		10. predestinarian
+		11. destiny
+		12. destined
+		13. destination
+	10. distance
 		1. distant
-	12. ecstatic
-		1. ecstasize
-		2. ecstacy
-	13. epistemic
+	11. ecstatic
+		1. _adj._ [joyous](dic://joyous)
+		2. _n._ [joyless](dic://joyless)
+		3. **elated**兴高采烈的;**overjoyed**万分高兴的, 欣喜若狂的;**giddy**头晕的;**thrilled**非常兴奋的;**excited**激动的;**delighted**喜欢的, 高兴的;**joyous**令人高兴的;**happy**高兴的;**exuberant**兴高采烈的;**enthusiastic**满腔热情的, 热心的;**shocked**震撼的;tatic
+		4. [enraptured](dic://enraptured), [rapturous](dic://rapturous), [rapt](dic://rapt), [rhapsodic](dic://rhapsodic)
+		5. 
+		6. ecstasize
+		7. ecstacy
+	15. epistemic
 		1. epi-周围 + stem-站立 + -ic表形容词
 		2. epi-,在上，在中，-stem,站，词源同 stand.即站在中间，进行探索和认知，参照 understand.
 		3. _adj._ [epistemology](dic://epistemology)
 		4. **rationality**理性;**metaphysical**形而上学的,纯粹哲学的,超自然的;**ontology**本体论;**probabilistic**盖然论的,或然说的;**semantic**语义的;**perceptual**知觉的,有知觉的;**linguistic**语言的, 语言学的, 语言研究的;**methodological**方法的;**normative**标准的;**cognitive**认识的;**metaphysics**形而上学,玄学;
 		5. epistemology
-	15. estate
-	16. hemostat
+	16. estate
+	17. hemostat
 		1. hemostases
-	17. obstinate
+	18. obstinate
 		1. ob-,相对，对着的，-stin,站，站立，词源同 stand,destiny.即对着站的，站在对面的，引申词义对手，顽固的。
 		2. _v._ [persevere](dic://persevere), [persist](dic://persist), [hang in](dic://hang in), [hang on](dic://hang on), [hold on](dic://hold on)
 		3. _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)
@@ -6041,14 +6091,14 @@
 		41. bystander
 		42. book-stand
 		43. bandstand
-	22. state
-	23. static, statics
+	21. state
+	22. static, statics
 		1. hydryostatical
 		2. isostatic
 		3. metastatic
-	24. station, stadium,
-	25. stage
-	26. stalk
+	23. station, stadium,
+	24. stage
+	25. stalk
 		1. n. 茎, 梗  v. 悄悄跟踪; 怒冲冲地走, 趾高气扬地走; 骚扰, 纠缠
 		2. [chaff](dic://chaff), [husk](dic://husk), [shuck](dic://shuck), [straw](dic://straw), [stubble](dic://stubble)
 		3. [stem](dic://stem)
@@ -6063,24 +6113,24 @@
 		12. _corn stalk_ 玉米杆
 		13. _flower stalk_ n. 花柄
 		14. _pituitary stalk_ n. 垂体；脑垂腺柄
-	27. staid
+	26. staid
 		1. [sedate](dic://sedate)
 		2. _adj._ [decorous](dic://decorous)
 		3. _n._ [indecorous](dic://indecorous), [indelicate](dic://indelicate)
 		4. **stuffy**闷热的;**bland**乏味的;**drab**单调的;**dull**钝的;**boring**令人厌烦的;**dreary**沉闷的，枯燥的;**austere**简朴的;**decidedly**断然地;**old-fashioned**老式的;**aloof**冷淡的;**monotonous**无变化的, 单调乏味的;
-	28. stator
-	29. statoscope
-	30. statue
+	27. stator
+	28. statoscope
+	29. statue
 		1. _n._ [sculpture](dic://sculpture), [effigy](dic://effigy)
 		2. **monument**纪念碑;**sculpture**雕塑;**figurine**小雕像，小塑像;**shrine**圣地;**sculptor**雕刻家;**mausoleum**陵墓;**memorial**纪念物;**mural**墙壁的;**replica**复制品，复制物;**marble**大理石;**tombstone**墓碑;
-	31. stature
+	30. stature
 		1. [height](dic://height)
 		2. _n._ [esteem](dic://esteem), [regard](dic://regard), [respect](dic://respect), [bodily property](dic://bodily property)
 		3. **prominence**声望, 杰出;**clout**破布;**height**高度;**prestige**威望，声望;**diminutive**小的;**tall**高的;**greatness**伟大;**renown**声誉;**taller**更高的;**notoriety**臭名昭著;**physique**体格，体形;
 		4. _[short stature](dic://short%20stature)_  [内科] 身材矮小
 		5. _[tall stature](dic://tall%20stature)_  高身材
-	32. status
-	33. statute
+	31. status
+	32. statute
 		1. [legislative act](dic://legislative act)
 		2. [codified](dic://codified)
 		3. _n._ [act](dic://act), [enactment](dic://enactment)
@@ -6104,20 +6154,20 @@
 			10. _statutory rape_ 法定强奸罪
 		11. statutable
 			1. _[statutable](dic://statutable)_  adj. 法定的，依法的
-	34. instance
+	33. instance
 		1. stance
-	35. instant
+	34. instant
 		2. instancy
-	36. substance
+	35. substance
 		1. substantial
 		2. substantiate
 		3. substantive
-	37. system
-	38. virustatic
-	39. diastase
+	36. system
+	37. virustatic
+	38. diastase
 		1. n. 淀粉糖化酵素
-	40. establish
-	41. restaurant
+	39. establish
+	40. restaurant
 		1. restaurant（餐馆）：能够恢复人体力的肉汤  
 		2. 在以前，还没有专门提供饮食服务的饭店。那时候的人要是想请客或不想做饭了，就让专门提供膳食服务的人（caterer）上门来给自己做饭做菜。caterer其实就是职业厨师，专门上门为客户做饭做菜、承办酒席。1765年，有一个叫做Boulanger的法国人开了一家店，专门出售肉汤。这种肉汤在当时的法国叫做restaurant，是restaurer（to restore）的名词形式，字面意思就是“能restore（恢复）体力（的东西）”。
 		3. 刚开始时，Boulanger还仅仅是提供这种叫做restaurant的肉汤。后来，他的生意越做越大，提供的食物越来越多，人们开始直接来他的店里享用他提供的食物，就像现代人下馆子一样。这就与上门提供膳食服务的caterer产生了竞争。为此，caterer的行业公会与Boulanger打起了官司，但Boulanger出乎意料地赢了官司。这样，越来越多的人来Boulanger的店里就餐，也有越来越多的人仿效Boulanger的做法，开店提供饮食服务。很多的caterer也受雇于这种店铺，变成了chef（厨师）。
@@ -6128,33 +6178,33 @@
 			4. caterer：['keɪtərə] n.备办食物者，承办酒席者  
 			5. chef：[ʃef] n.厨师，主厨，大厨
 		5. restaurateur
-	42. instauration
+	41. instauration
 		1. [initiation](dic://initiation), [founding](dic://founding), [foundation](dic://foundation), [institution](dic://institution), [origination](dic://origination), [creation](dic://creation), [innovation](dic://innovation), [introduction](dic://introduction)
 		2. _n._ [beginning](dic://beginning), [start](dic://start), [commencement](dic://commencement)
 		3. **disintegration**瓦解;**reformation**改进;**abolition**废除;**epoch**新纪元;**monarchy**君主政体;**overthrow**打倒;**conquest**征服，战胜;**dissolution**破裂;**conception**概念;**concomitant**相伴的;**republic**共和国;
 		4. instaurator
-	43. thermostat
-	44. metastases
+	42. thermostat
+	43. metastases
 		1. metastasize
-	45. obstacle
+	44. obstacle
 		1. [obstruction](dic://obstruction)
 		2. [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [balk](dic://balk), [baulk](dic://baulk), [check](dic://check)
 		3. **hurdle**障碍;**impediment**妨碍、阻碍某事物进展或活动的人或物;**hindrance**起妨碍作用的事物或人;**insurmountable**无法解决的;**hurdles**跨栏;**barriers**障碍;**overcome**克服;**barrier**障碍物，屏障;**difficulty**困难;**challenge**挑战;**challenging**富有挑战性的;
-	46. pedestal
+	45. pedestal
 		1. [base](dic://base), [stand](dic://stand)
 		2. [plinth](dic://plinth), [footstall](dic://footstall)
 		3. _n._ [support](dic://support), [status](dic://status), [position](dic://position)
 		4. **statue**雕像，塑像;**marble**大理石;**mantel**壁炉架;**mounted**安装好的;**atop**在…的顶上;**figurine**小雕像，小塑像;**monument**纪念碑;**stand**位于;**altar**祭坛;**countertop**工作台面;**ledge**壁架;
-	47. stabilise, stabilize
+	46. stabilise, stabilize
 		1. _v._ [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 		2. _n._ [destabilize](dic://destabilize), [destabilise](dic://destabilise)
 		3. **stabilize**稳定;**stabilizing**稳定;**strengthen**加强, 巩固;**minimise**使缩到最小;**optimise**使最优化;**weaken**减少;**stabilization**稳定性;**worsen**恶化;**reduce**减少;**improve**改善，增进;**reviv**
 		4. stable
-	48. stasis
+	47. stasis
 		1. _n._ [pathology](dic://pathology), [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
 		2. **stagnation**停滞;**limbo**林波舞;**dilation**扩张，扩大;**trapped**陷入困境的;**warp**弯曲，歪曲;**stagnant**停滞的;**motionless**不动的,静止的;**paralysis**瘫痪;**disintegration**瓦解;**cocoon**茧;
 		3. etc..
-	49. stale
+	48. stale
 		1. **stagnant**停滞的;**bland**乏味的;**fresh**新鲜的;**soggy**浸水的;**rotten**腐烂的;**tiresome**烦人的，无聊的;**boring**令人厌烦的;**smelly**有臭味的，发臭的;**dull**钝的;**stinky**发恶臭的;**uninteresting**无趣的,令人厌倦的;
 		2. staling
 		3. staleness
@@ -6172,7 +6222,7 @@
 			5. _adj._ [robust](dic://robust), [resolute](dic://resolute), [brave](dic://brave), [courageous](dic://courageous)
 			6. _n._ [frail](dic://frail), [irresolute](dic://irresolute), [cowardly](dic://cowardly), [fearful](dic://fearful)
 			7. **staunch**坚固的;**long-time**为时已久的，历久的;**mainstay**支柱;**longtime**长时间的;**steadfast**坚定的;**erstwhile**过去的, 从前的;**venerable**值得尊敬的;**tireless**不疲劳的;**ardent**热情的;**veteran**老兵;**valiant**英勇的，勇敢的;
-	50. staunch
+	49. staunch
 		1. 来自古法语 estanche,固定的，坚固的，防水的，来自通俗拉丁语*stanticare,坚固的，来自拉丁语 stare,站立，建立，词源同 stand,stanch,stanchion.引申比喻义忠实的，坚定的
 		2. [stem](dic://stem), [stanch](dic://stanch), [halt](dic://halt)
 		3. [steadfast](dic://steadfast), [unswerving](dic://unswerving)
@@ -6180,24 +6230,24 @@
 		5. _adj._ [constant](dic://constant)
 		6. _n._ [inconstant](dic://inconstant)
 		7. **ardent**热情的;**stalwart**坚定的;**outspoken**直言的;**steadfast**坚定的;**fervent**强烈的;**supporter**支持者;**devout**虔诚的;**long-time**为时已久的，历久的;**longtime**长时间的;**unwavering**不动摇的,坚定的;**die-hard**顽固的;
-	51. stanch
+	50. stanch
 		1. 来自古法语 estanchier,止血，来自通俗拉丁语*stanticare,停止，来自 stare,站立，词源同 stand.
 		2. [stem](dic://stem), [staunch](dic://staunch), [halt](dic://halt)
 		3. _v._ [check](dic://check)
 		4. **staunch**坚固的;**steady**稳定的;**bleeding**出血;**ardent**热情的;
 		5. _[stanch bleeding](dic://stanch%20bleeding)_ 止血
-	52. stay
-	53. contrast
-	54. cost
-	55. homestead
+	51. stay
+	52. contrast
+	53. cost
+	54. homestead
 		1. _n._ [land](dic://land), [estate](dic://estate), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne), [dwelling](dic://dwelling), [home](dic://home)
 		2. _v._ [settle](dic://settle)
 		3. **farm**种田，务农;**ranch**大牧场;**farmhouse**农舍;**acreage**面积，英亩数;**settler**移居者;**barn**谷仓;**orchard**果园;**rancher**大农场经营者;**house**住宅;**dwelling**住处;**prairie**大草原;
 		4. We pass a tumbledown homestead tucked into a ridge. /我们路过了一个摇摇欲坠的房子，它刚好隐藏在山脊上。
 		5. And then he homesteaded in 1905. ./然后他在1905年在这里安顿下来
 		6. My wife and daughters and I live on a 52-acre homestead that were pretty much developing /我和我的妻子、女儿们住在一块52英亩的宅地上，这块地当时正处于开发阶段。
-	56. instead,
-	57. interstice
+	55. instead,
+	56. interstice
 		1. a small structural space between tissues or parts of an organ
 			1. the interstices of a network
 		2. small opening between things
@@ -6208,7 +6258,7 @@
 		7. sunshine filtered through the interstices of the arching trees. /阳光透过弧形树顶枝杈的缝隙穿射下来。s
 		8. upper boulders were simply seated in the interstices below /上层卵石刚好填在下面的缝隙中。
 		9. interstitial
-	58. obstetric
+	57. obstetric
 		1. ob-对着 + stetr-站 + -ic表形容词 → 站在对面（准备接生）
 		2. _adj._ [obstetrics](dic://obstetrics), [OB](dic://OB), [tocology](dic://tocology), [midwifery](dic://midwifery)
 		3. **neonatal**新生的;**childbirth**分娩;**midwife**助产士;**prenatal**［医］产前的;**postpartum**产后的;**surgical**外科的;**pediatric**【美】儿科学的，小儿科的;**maternal**母亲的;**maternity**母性;**pregnancy**怀孕;**medical**医学的;
@@ -6219,7 +6269,7 @@
 		8. _[obstetric forceps](dic://obstetric%20forceps)_  产钳，产科钳
 		9. _[obstetrics and gynecology](dic://obstetrics%20and%20gynecology)_  [妇产] 妇产科学
 		10. 
-	59. oust
+	58. oust
 		1. [throw out](dic://throw out), [drum out](dic://drum out), [boot out](dic://boot out), [kick out](dic://kick out), [expel](dic://expel)
 		2. v. [remove](dic://remove), [supplant](dic://supplant), [replace](dic://replace), [supersede](dic://supersede), [supervene upon](dic://supervene upon), [supercede](dic://supercede)
 		3. **overthrow**打倒;**topple**倾倒;**expel**驱逐;**assassinate**暗杀，行刺;**thwart**反对;**reinstate**使恢复原职;**overturn**推翻;**persuade**说服，劝说;**appoint**任命;**discredit**败坏…的名声;**seize**抓住;
@@ -6230,14 +6280,15 @@
 			4. **resignation**辞职;**dismissal**解雇, 免职, 开除;**coup**政变;**reinstatement**复职;**resign**辞职;**expulsion**喷出, 排出;**overthrow**打倒;**impeachment**弹劾;**resigned**顺从的;**downfall**垮台;**demise**死亡，终止;
 			5. _[Fresh Ouster](dic://Fresh%20Ouster)_ 柠檬汁泡生牡蛎
 			6. _[ouster piate](dic://ouster%20piate)_ 生蚝冷拼
-	60. pedestrian
-	61. presto
+	59. pedestrian
+	60. presto
 		1. _adj._ [fast](dic://fast)
 		2. _n._ [slow](dic://slow)
 		3. **voila**瞧;**hey**喂！;**gee**向右！前进！快！;**yep**是;**magically**如魔法般地,用魔法地;**oh**哦;**yup**是的;**nope**不是，没有;**then**当时;
-	62. restive
-		1.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
-		2. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
+	61. restive
+		1.  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy))
+		2.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
+		3. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
 	63. solstice
 		1. _n._ [cosmic time](dic://cosmic time)
 		2. **winter**冬季;**sun**太阳;**springtime**春季，春天;**moon**月亮;**pagan**异教的;**Hanukkah**光明节;**sunrise**日出;**autumn**秋天;**summer**夏季;**eclipse**日或月食;**summertime**夏季;
@@ -6272,13 +6323,14 @@
 		2. 芝诺通常在雅典集市的画廊柱下讲学，人们称此地点为Stoā Poikilē 'Painted Portico'（有画的柱廊），因为那里的柱廊装饰着壁画。也正因为如此，这一派学者被称为Stoics（由拉丁语stōicus演化而来），汉语译为“画廊派”、“柱廊派”或音译作“斯多葛派”。由于这一派学者有高度自制力，不以苦乐为意，能忍受困苦与不幸而无怨言，所以到了16世纪首字母小写的stoic常用以喻指“恬淡寡欲的人”、“坚忍克己的人”或“禁欲主义者”；在用作形容词时，stoic表示“坚忍的”、“恬淡寡欲的”；从stoic派生的stoicism原指“斯多葛派”，而今则被赋予“坚忍”、“自制”、“禁欲”等义。
 		3. a. 斯多葛派的, 禁欲主义的, 不以苦乐为意的, 坚忍的, 淡泊的  
 		4. n. 斯多葛派学者, 画廊派的人, 禁欲主义者, 不介意苦乐的人, 高度自制的人
-		5. [unemotional person](dic://unemotional person)
-		6. [stoical](dic://stoical)
-		7. _n._ [philosopher](dic://philosopher), [adult](dic://adult), [grownup](dic://grownup)
-		8. _adj._ [unemotional](dic://unemotional), [Stoicism](dic://Stoicism)
-		9. _n._ [emotional](dic://emotional)
-		10. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
-		11. stoicism
+		5. (ascetic, ascetical, austere, spartan, stoic, frugal,)
+		6. [unemotional person](dic://unemotional person)
+		7. [stoical](dic://stoical)
+		8. _n._ [philosopher](dic://philosopher), [adult](dic://adult), [grownup](dic://grownup)
+		9. _adj._ [unemotional](dic://unemotional), [Stoicism](dic://Stoicism)
+		10. _n._ [emotional](dic://emotional)
+		11. **austere**简朴的;**stately**庄严的;**stalwart**坚定的;**aloof**冷淡的;**dignified**高贵的;**unassuming**谦逊的;**brash**仓促的，性急的;**bland**乏味的;**timid**羞怯的;**steadfast**坚定的;**old-fashioned**老式的;
+		12. stoicism
 			1. [stolidity](dic://stolidity), [stolidness](dic://stolidness)
 			2. _n._ [unemotionality](dic://unemotionality), [emotionlessness](dic://emotionlessness), [philosophical doctrine](dic://philosophical doctrine), [philosophical theory](dic://philosophical theory)
 			3. **humility**谦卑，谦逊;**gentleness**温和;**fortitude**坚韧, 刚毅;**heroism**英勇，英雄气概;**cynicism**犬儒主义;**calmness**平静，安宁;**bravery**勇敢;**composure**镇静, 沉着;**indifference**不关心,不在乎;**poise**平衡;**resilience**弹回;
@@ -6287,7 +6339,7 @@
 			6. Stoicism , school of philosophy, founded in ancient Greece, opposed to Epicureanism in its views of life and duty. /斯多葛哲学，创立于古希腊，对生命和责任的看法和伊壁鸠鲁学说完全相反。
 			7. Extraordinary stoicism earned Gans his lasting popularity in America. /非凡的隐忍力使得Gans在美国的受欢迎程度长久不衰。
 			8. Meme bore up under the exhibitions with the same stoicism that she had dedicated to her apprenticeship /梅梅以她在学徒生涯中所献身的那种坚忍态度忍受着展览。
-		12. stoical
+		13. stoical
 			1. 
 	69. store
 		1. superstore
@@ -6916,7 +6968,7 @@
 ### stirp- = root, stock of a tree，表示“根，树干”。
 1. strip, strips
 2. stirpiculture, stirpicultural
-3. extirpate
+3. extirpate ()
 	1. ex-,向外，-stirp,根，主干，词源同 stand.即根除。
 	2. **eradicate**摧毁,完全根除;**eradicated**画着根的;**destroy**毁坏;**expel**驱逐;**abolish**废除，废止;**eradication**根除;**subdue**征服;**extinguish**使熄灭, 扑灭;**scourge**鞭打;**eliminate**消除, 排除;**suppress**抑制;
 	3. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process), [pull](dic://pull), [pulling](dic://pulling)
@@ -7412,30 +7464,62 @@
 	2. eugenic
 		1. eugenist
 	3. eulogy
+		1. eulogize
+			1. _[panegyric ode encomium eulogy](dic://panegyric%20ode%20encomium%20eulogy)_ 四大颂歌
+			2. lionize
 	4. eupepsia
 	5. eupeptic
-	6. euphemism, euphemist, euphemize, euphemerism
-		1. euphemistic
-		2. euphemistical
-	7. euphony
-		1. euphoria
-			1. **ecstasy**狂喜;**excitement**兴奋, 激动;**adrenaline**肾上腺素;**optimism**乐观;**heady**易使人醉〔发晕〕的;**giddy**头晕的;**hysteria**不正常的兴奋;**mania**狂热;**bliss**极乐;**nervousness**神经质,焦躁,胆小;**blissful**充满喜悦的;
-		2. euphoric
-	8. eupnoea
-	9. eurhythmic, eurythmic
-	10. eutectic
-	11. Euterpe
-	12. euthenics
-	13. eucell
-	14. eucharistic
-	15. euthanize, euthanasia
-	16. evangelic, evangelical, evangelically
+		1. a. 消化良好的, 助消化的
+	6. euphemism
+		1. euphemist
+		2. euphemize
+			1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swaer, blaspheme)
+			2. 
+		3. euphemerism
+		4. euphemistic
+		5. euphemistical
+	8. euphony (cacophony)
+		1. - n. 悦耳之音；悦耳；和谐的声音
+		2.  [music](dic://music)
+		3. _n._ [sound](dic://sound), [auditory sensation](dic://auditory sensation)
+		4. **pronunciation**发音;**syllable**音节;**rhyme**韵脚;**vowels**元音，母音;**vowel**元音;**phonetic**语音的，语音学的;**idiom**成语，习语;**aural**耳的;**consonant**辅音;**phrasing**分节法;**colloquial**口语的, 会话的;
+		5. What a gush of euphony voluminously wells! /和谐的乐章源源不尽地翻涌而出！
+		6. To not only listen but to truly hear the stories, aspirations, and soul of a people expressed in melodic euphony. /不仅要聆听，还要真正聆听一个民族在旋律优美的旋律中所表达的故事、愿望和灵魂。
+		7. It was popularly supposed that Ross had taken Cromarty into partnership for the fun of it; as a matter of euphony /人们普遍认为，罗斯与克罗马蒂合伙是为了好玩。作为一个悦耳的问题
+		9. euphoria
+			1. eu-美好 + phor-带来 + -ia病 → 带来美好的病 → 欣快症。
+			2.  eu-,好的,-phor,带来，词源同 bring,infer,phosphorus.
+			3. n. 兴奋, 陶醉, 陶醉感 
+			4. **ecstasy**狂喜;**excitement**兴奋, 激动;**adrenaline**肾上腺素;**optimism**乐观;**heady**易使人醉〔发晕〕的;**giddy**头晕的;**hysteria**不正常的兴奋;**mania**狂热;**bliss**极乐;**nervousness**神经质,焦躁,胆小;**blissful**充满喜悦的;
+			5. in his euphoria, he had become convinced he could defeat them. /他一时兴奋难耐，深信自己可以击败他们。
+			6. They were in a state of euphoria after the baby was born. /孩子出生后, 他们沉醉在狂喜之中。
+			7. I cannot tell you the euphoria in the room. /我形容不出那时在房间里的愉悦。
+		10. euphoric (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, ecstatic, exhilarate)
+			1. _adj._ [euphoriant](dic://euphoriant), [expansive](dic://expansive)
+			2. _n._ [dysphoric](dic://dysphoric), [distressed](dic://distressed), [unhappy](dic://unhappy)
+			3. **euphoria**精神欢快，欣快;**ecstatic**狂喜的;**giddy**头晕的;**ecstasy**狂喜;**blissful**充满喜悦的;**heady**易使人醉〔发晕〕的;**intoxicating**醉人的;**joyous**令人高兴的;**elated**兴高采烈的;**exhilarating**令人振奋的;**feeling**感觉，触觉;
+			4. he heaved a euphoric sigh of relief. /他欣慰地舒了口气。
+			5. a euphoric sense of freedom /对自由的兴奋感。
+			6. The atmosphere was euphoric, he turned to the stands and shouted to his audience. /The atmosphere was euphoric, he turned to the stands and shouted to his audience.当时气氛很热烈，他转向看台向观众大喊起来。
+			7. The win spot euphoric celebrations across Croatia as fans filled streets and squares waving flags and chanting. /克罗地亚胜利地点的人们欣喜若狂，球迷们在街道和广场上挥旗高歌。
+		12. euphonium
+			1. _n._ [bass horn](dic://bass horn), [sousaphone](dic://sousaphone), [tuba](dic://tuba)
+			2. **trombone**长号，伸缩喇叭;**oboe**双簧管;**clarinet**单簧管;**trumpet**喇叭;**saxophone**萨克斯管;**violin**小提琴;**flute**长笛;**cello**大提琴;**soloist**独唱者;**piano**钢琴;**baritone**男中音;
+	10. eupnoea
+	11. eurhythmic, eurythmic
+	12. eutectic
+	13. Euterpe
+	14. euthenics
+	15. eucell
+	16. eucharistic
+	17. euthanize, euthanasia
+	18. evangelic, evangelical, evangelically
 		1. evangelism
 		2. evangelist, televangelist
 			1. **preacher**传教士;**evangelism**福音传道;**pastor**牧师;**evangelical**福音的;**preaching**讲道,讲道法;**missionary**传教士;**guru**古鲁;**entrepreneur**企业家;**gospel**福音书;**clergyman**牧师;**apostle**传道者;
 		3. evangelistic
 		4. evangelize, evangelization
-	17. eutectic
+	19. eutectic
 2. nainsook
 3. swastika
 

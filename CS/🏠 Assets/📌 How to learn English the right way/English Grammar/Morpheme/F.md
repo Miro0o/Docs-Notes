@@ -136,29 +136,30 @@
 
 ## fe
 ### fest-,fist- = ulcer; pipe, 表示“溃烂；管子”。源自拉丁语 fistula "a pipe; ulcer"。
-1. fester
-	1. vi. 溃烂；化脓 
-	2. vt. 使……溃烂；使……痛苦；使……恶化 
-	3. n. 溃烂；脓疮，脓疱
-	4. fest-溃烂 + -er，该词用来指化脓。
-	5. [suppurating sore](dic://suppurating sore)
-	6.  [maturate](dic://maturate), [suppurate](dic://suppurate)
-	7. _n._ [sore](dic://sore)
-	8. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
-	9. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
-	10. [maturate](dic://maturate), [suppurate](dic://suppurate)
-	11. _[festering](dic://festering)_  v. （伤口等）溃烂；（食物、垃圾）腐烂；（负面情绪等）恶化；遭受身心创伤；感染（fester 的现在分词）; adj. 化脓的；充满仇恨的；腐烂的; n. 化脓；脓液;
-	12. _[Festering Wound](dic://Festering%20Wound)_ 溃脓创伤; 化脓的伤口; 
-	13. _[festering boil](dic://festering%20boil)_ 流脓
-	14. bitterness that festered and grew. /不断产生并加深的怨恨
-	15. a festering controversy. /愈演愈烈的争论。
-	16. Trump removed the gauze, but rather than healing the wound, we may now be watching it fester. /特朗普摘下纱布，但我们现在看到的可能不是伤口的愈合，而是伤口的溃烂。
-	17. Differences had been allowed to fester for too long. /双方分歧越陷越深。
-	18. The removal of festering Flesh was a global phenomenon. /需要去除溃烂的肉是全球都存在的情况。
-	19. Just when she needed her strength most, this toe had to fester. /恰好在她需要拿出最大力气的时候，这只脚尖却溃烂起来了。
-	20. And it is those scars that could well reopen, if left to fester in resentment and disappointment /如果任由这些伤痕在怨恨和失望中溃烂，那么，这些伤疤很可能会重新复发。
-	21. 
-2. fistula
+1. fester (fetter)
+	1. 来自 PIE*bheid,撕开，裂开，词源同 bite,bitter,fissure.该词用来指化脓。
+	2. vi. 溃烂；化脓 
+	3. vt. 使……溃烂；使……痛苦；使……恶化 
+	4. n. 溃烂；脓疮，脓疱
+	5. fest-溃烂 + -er，该词用来指化脓。
+	6. [suppurating sore](dic://suppurating sore)
+	7.  [maturate](dic://maturate), [suppurate](dic://suppurate)
+	8. _n._ [sore](dic://sore)
+	9. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+	10. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
+	11. [maturate](dic://maturate), [suppurate](dic://suppurate)
+	12. _[festering](dic://festering)_  v. （伤口等）溃烂；（食物、垃圾）腐烂；（负面情绪等）恶化；遭受身心创伤；感染（fester 的现在分词）; adj. 化脓的；充满仇恨的；腐烂的; n. 化脓；脓液;
+	13. _[Festering Wound](dic://Festering%20Wound)_ 溃脓创伤; 化脓的伤口; 
+	14. _[festering boil](dic://festering%20boil)_ 流脓
+	15. bitterness that festered and grew. /不断产生并加深的怨恨
+	16. a festering controversy. /愈演愈烈的争论。
+	17. Trump removed the gauze, but rather than healing the wound, we may now be watching it fester. /特朗普摘下纱布，但我们现在看到的可能不是伤口的愈合，而是伤口的溃烂。
+	18. Differences had been allowed to fester for too long. /双方分歧越陷越深。
+	19. The removal of festering Flesh was a global phenomenon. /需要去除溃烂的肉是全球都存在的情况。
+	20. Just when she needed her strength most, this toe had to fester. /恰好在她需要拿出最大力气的时候，这只脚尖却溃烂起来了。
+	21. And it is those scars that could well reopen, if left to fester in resentment and disappointment /如果任由这些伤痕在怨恨和失望中溃烂，那么，这些伤疤很可能会重新复发。
+	22. 
+3. fistula
 	1.  来自拉丁语 fistula,导管，溃疡，来自 PIE*bheid,劈开，裂开，词源同 bite,boat.比喻用法。
 	2. n. [医] 瘘管；[昆] 细管（尤指鳞翅目昆虫）
 	3. [fistulous withers](dic://fistulous withers)
@@ -180,19 +181,22 @@
 
 ### fest- = handle, 表示“处理”，引申为“控制”，“击打”。
 1. infest
-	1. **infect**感染，传染;**invade**侵略;**infestation**群袭,出没,横行;**inhabit**居住于;**parasites**寄生生物;**pests**害虫;**infiltrate**渗透;**populate**居住于;**rot**腐烂;**lurk**潜伏;**congregate**集合, 聚集;
-	2. [invade](dic://invade), [occupy](dic://occupy), [inhabit](dic://inhabit)
-	3. infestation, disinfest
-2. manifest
-	1. manifesto
+	1. in-不 + fest-处理 → 处理不了 → 扰乱。
+	2. - in-,不，非，-fest,击，打，抓住，词源同 defend,manifest.其原义为抓不住的，控制不住的，引申词义骚扰，麻烦，大量滋生。词义演变比较 opportune.
+	3. **infect**感染，传染;**invade**侵略;**infestation**群袭,出没,横行;**inhabit**居住于;**parasites**寄生生物;**pests**害虫;**infiltrate**渗透;**populate**居住于;**rot**腐烂;**lurk**潜伏;**congregate**集合, 聚集;
+	4. [invade](dic://invade), [occupy](dic://occupy), [inhabit](dic://inhabit)
+	5. infestation, disinfest
+3. manifest
+	1. manifest - 该词的词源是拉丁语manifestus，由manū 'with hand'（用手）加-fest 'struck'（打）构成，所以它的原义是struckwith hand（被手打的）。被手打的东西可以触摸得到，可以清清楚楚感觉到，也是显而易见的。据此，它的词义由“被手打的”引申为“显然的”。英语在14世纪吸收了manifestus，拼作manifest，也用于此义，以后也作动词用，表示“显示”、“显露”等。manifesto（宣言）一词和manifest有亲缘关系，虽然也源自拉丁语，但却直接借自意大利语。（参见manager）
+	2. manifesto
 		1. **pamphlet**小册子;**blueprint**蓝图;**declaration**宣布, 宣告, 声明;**anarchist**无政府主义者;**foreword**前言;**slogan**标语;**socialist**社会主义者;**roadmap**路标;**utopian**空想的;**outlining**描绘轮廓;**pledge**发誓;
 		2. _communist manifesto_ 共产党宣言（现代共产主义学说发展史上的第一部经典，由马克思和恩格斯合著）
 		3. [declaration](dic://declaration)
-	2. manifestly
+	3. manifestly
 		1. **patently**公然地;**plainly**平坦地;**utterly**完全地;**grossly**很;**therefore**因此, 为此, 所以;**evidently**明显地;**wholly**完全地;**unquestionably**毫无疑问地;**undeniably**不可否认地;**inherently**天性地,固有地;**indubitably**无疑地;
 		2. [apparent](dic://apparent), [evident](dic://evident), [manifest](dic://manifest), [patent](dic://patent), [plain](dic://plain), [unmistakable](dic://unmistakable)
-	3. manifestative
-	4. manifestation
+	4. manifestative
+	5. manifestation
 		1. **anifest**证明，表明;**awakening**唤醒的,激励的;**divine**神圣的;**duality**二元性;**symptom**症状;**consciousness**意识;**phenomenon**现象;**transcendent**卓越的;**realization**认识, 领会;**incarnation**化身;**antithesis**对照;
 		2. [materialization](dic://materialization), [materialisation](dic://materialisation)
 		3. [expression](dic://expression), [reflection](dic://reflection), [reflexion](dic://reflexion)

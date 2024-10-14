@@ -10,12 +10,13 @@
 		5. demagogical
 		6. demagogic
 	4. demiurge
-		1. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
-	5. democrat, democracy
+		1. demo-,人民，词源同 demotic.-urg,制造，词源同 work.最早由古希腊哲学家柏拉图用来指神，造物主。
+		2. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
+	6. democrat, democracy
 		1. democratize
 		2. democratism
 		3. democratic, undemocratic
-	6. endemic
+	7. endemic (indigenous, domestic, native, )
 		1. en-在…内 + dem-人民 + -ic → 在人民内 → 地方性的。
 		2. 1. adj. 风土的；地方性的 n. 地方病
 		3.  [endemic disease](dic://endemic disease)
@@ -145,55 +146,62 @@
 		2. malediction, benediction, benedictory, valediction, valedictory
 		3. vindictive
 		4. abdicable
-	3. abdicate, dedicate, dictate, indicate, predicate
+	3. abdicate
+	4. dedicate
+	5. dictate
+	6. indicate, 
+	7. predicate
 		1. predicability, predicable, predicably, predicament
-		2. vindicability, vindicable, vindicate
-	4. dictaphone
-	5. diction
+	8. vindicate
+		1. (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
+		2. vindicability
+		3. vindicable
+	10. dictaphone
+	11. diction
 		1. diction - 该词16世纪始用于英语，它来自中世纪拉丁语dictiōnārium 'collection of words'（词集）。但若再进一步追本溯源，我们就会发现它和另一词diction（措词）都源于拉丁语dictiō（词）和dīcere（说）。英语中有不少带有拉丁词根dic-或dict-的词，其终极词源都是dīcere（说），都与“说”或“话”有关。例如benediction是“祝福”（a saying of good words），其前缀bene-是well（好）的意思；malediction是“诅咒”（asaying of bad words），其前缀mal-是“恶”或“坏”的意思。再如contradict意为“顶撞”（speak against or the opposite of another's words），其前缀contra-是“反对”或“与……相反”的意思；predict意为“预言”（say beforehand），其前缀pre-是“前”的意思。又如dictate意为“口授”或“听写”，其派生词dictator则指“独裁者”；verdict意为“裁决”，其中ver(e)是“真实地”的意思；edict意为“法令”、“敕令”，其前缀e- = ex-，含有“（话）向外（传）”之义；dictum意为“名言”或“格言”（a saying or pronouncement），等等。
 		2. dict-说 + -ion, 表名词 → 说话状态 → 措词。
-	6. dictograph
+	12. dictograph
 		1. dict-说话 + -graph仪器
-	7. dictum
+	13. dictum
 		1. dict-说 + -um → 说[出]的话 → 格言。
-	8. theodicy
+	14. theodicy
 		1. theo-神 + dic-说 + -y
-	9. condition
+	15. condition
 		1. 1 - 来自法语。con-,表强调，-dit,说，讨论，词源同 dictate,dictionary.字母 c 脱落比较benefit,benefactor.原指描述的情况，规定的情况，后指客观情况。
-	10. ditto
+	16. ditto
 		1. [ditto mark](dic://ditto mark)
 		2. _n._ [mark](dic://mark)
 		3. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell)
 		4. **BTW**随便说一下;**yep**是;**yes**是;**yup**是的;**nope**不是，没有;**ugh**啊;**anyhow**无论如何;**heh**嗨!;**duh**咄;**yeah**是;**dunno**我不知道;
 		5. _say ditto to_ [口语]同意…的意见，对…表示同意，赞成(某种观点)
-	11. ditty
+	17. ditty
 		1. 1 - 来自拉丁语 dictatum,说，说唱，词源同 diction.
 		2. _n._ [song](dic://song), [vocal](dic://vocal)
 		3. **song**歌曲;**lyric**抒情的;**jingle**发出叮当声;**ballad**歌谣，民谣;**melody**旋律;**tune**曲调, 曲子;**catchy**引人注意的;**riff**反复乐节;**lyrics**歌词;**hymn**赞美诗;**anthem**赞美诗;
-	12. index
+	18. index
 		1. 来自拉丁语 indicare,指出，说明，来自 in-,进入，使，-dic,指出，说，词源同 digit,indication.引申词义指数，标志，特征等。其复数形式为 indices.
-	13. indite (indict)
+	19. indite (indict)
 		1. 单词A：indict [ɪn'daɪt] vt.控告；起诉；[法] 揭发，单词B：indite [ɪn'daɪt] vt.写成文章。两个单词意思不同，但读音相同，而更重要的是，它们同根。拉丁词根dict-表to speak，indict控告，那是要把想要说（控诉）的东西（dict-）写出来，而indite也是把要说的话写出来，只不过不在法律方向了。 ​​​​
 		2. _v._ [create verbally](dic://create verbally)
 		3. **jot**略记;**compose**作曲;**likewise**也;**furnish**供应;**assemblage**聚集;**confine**限制;**moreover**此外;**nigh**近于;**write**写，写字;
 		4. [write](dic://write), [compose](dic://compose), [pen](dic://pen)
-	14. paradigm
+	20. paradigm
 		1. para-旁边 + digm-=dict-说、展示 → 在旁边显示给(别人) → 示范。
 		2.  [prototype](dic://prototype), [epitome](dic://epitome), [image](dic://image)
 		3.  [substitution class](dic://substitution class)
 		4. _n_ [inflection](dic://inflection), [inflexion](dic://inflexion), [model](dic://model), [example](dic://example), [class](dic://class), [category](dic://category), [family](dic://family)
 		5. **shift**移动;**mindset**心态;**dichotomy**一分成二,对分;**notion**概念;**theory**理论;**framework**构架;**approach**接近;**postmodern**后现代主义的;**concept**观念，概念;**top-down**组织管理严密的;**mechanistic**机械学的;
 		6. _paradigm shift_ 典范转移；思考模式的转移
-	15. preach
+	21. preach
 		1. 1 - 来自古英语 predician,传道，布道，借自古法语 preechier,传道，布道，来自拉丁语 praedicare,公开宣称，通知，宣布，公告，来自 prae,在前面，dicare,说，宣布，公告，词源同 diction,predict.引申贬义词义说教。
 		2. preachy
 			1. **corny**谷类的;**condescending**降低身份的,屈尊的;**pretentious**自命不凡的;**judgmental**审判的;**crass**粗鲁的;**cliche**陈词滥调;**snarky**恶声恶气的，咬人的;**whiny**烦躁的;**pompous**浮夸的;**pushy**有进取心的;**overbearing**专横的,傲慢的;
 			2. _adj._ [instructive](dic://instructive), [informative](dic://informative)
 			3. _n._ [uninstructive](dic://uninstructive)
-	16. vendetta
+	22. vendetta
 		1. 1 - 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
 		2. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
-2. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
+3. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
 	1. digit
 	2. digitalis
 	3. digitate
@@ -207,11 +215,11 @@
 		4. He thinks digitizing food can help people stay healthy. /乔纳森觉得，食物的数码化可以帮助人类保持健康。
 	6. prestidigitation, prestidigitator
 	7. sexdigital
-3. **judg-, judic-** = judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
+4. **judg-, judic-** = judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
 	1. see **judg-, judic-** in J
-4. teach
-5. toe
-6. token
+5. teach
+6. toe
+7. token
 
 
 ### + ⭐ \*dek- +
@@ -1613,15 +1621,17 @@
 		4. **flee**消失，消散;**kidnap**绑架;**seize**抓住;**steal**剽窃;**evade**逃避;**rob**抢劫;**apprehend**理解;**detain**拘留;**plunder**抢夺;**escape**逃避，避免;**bribe**贿赂，收买;
 		5. absconder
 		6. abscondence
-	3. recondite
+	3. recondite (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive)
 		1. 1 - re-,向后，离开，con-,表强调，-dit,放置，给予，词源同 edit,donate.即放到后面的，放起来的，引申词义隐藏的，深奥的。
 		2. _adj._ [esoteric](dic://esoteric)
 		3. _n._ [exoteric](dic://exoteric)
 		4. **esoteric**秘传的;**arcane**晦涩难解的;**obscure**模糊的;**perplexing**使人困惑的;**philosophical**哲学的;**cryptic**秘密的,隐秘的;**peculiar**特殊的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**banal**陈腐的;**mundane**世俗的，平凡的;**baffling**令人困惑的;
 	5. sconce
-		1. _n._ [candlestick](dic://candlestick), [candle holder](dic://candle holder), [stronghold](dic://stronghold), [fastness](dic://fastness)
-		2. **chandelier**枝形吊灯;**lamp**灯;**pendant**下垂物，垂饰;**headboard**床头板;**mantel**壁炉架;**lamps**日月星辰;**lantern**灯笼;**decor**装饰，布置;**fixture**固定装置;**candle**蜡烛;**wall**墙壁，围墙;
-		3. ensconce
+		1. n. 壁式烛台, 头, 头盔  
+		2. vt. 遮蔽
+		3. _n._ [candlestick](dic://candlestick), [candle holder](dic://candle holder), [stronghold](dic://stronghold), [fastness](dic://fastness)
+		4. **chandelier**枝形吊灯;**lamp**灯;**pendant**下垂物，垂饰;**headboard**床头板;**mantel**壁炉架;**lamps**日月星辰;**lantern**灯笼;**decor**装饰，布置;**fixture**固定装置;**candle**蜡烛;**wall**墙壁，围墙;
+		5. ensconce
 			1. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
 			2. **confine**限制;**adorn**装饰;**erstwhile**过去的, 从前的;**occupy**占据，占领;**insulate**隔离，使孤立;**snugly**舒适地;**confines**范围;**bask**晒太阳;**bestow**授予;**immerse**沉浸;**enclose**围绕;
 5. **fac-, fact-, fect-, fic-** = do, make, 
@@ -1696,27 +1706,43 @@
 		5. beneficent
 		4. benefactor
 	10. confect
-		1. confection
-		2. confectionery, confectioner, 
-		3. confectionary
-	13. defeasible
-	14. defeat
-		1. self-defeating
-		2. defeatist
-		3. defeatism
+		1. n. 蜜饯, 糖果  
+		2. vt. 调制, 混合
+		3. confection
+		4. confectionery, confectioner, 
+		5. confectionary
+	12. defeasible
+	13. defeat
+		1. de-向下 + feat-做 → 做下去 → 打下去。
+		2. self-defeating
+		3. defeatist
+		4. defeatism
 	15. olfact
 	16. perfect
+		1. n. 完成时  
+		2. a. 完美的, 完好的, 理想的, 熟练的, 精确的, 完成式的  
+		3. vt. 使完美, 修改, 使精通, 改善, 使熟练
 	17. prefect
-	25. facile
-		1. _adj._ [superficial](dic://superficial), [effortless](dic://effortless), [articulate](dic://articulate)
-		2. _n._ [profound](dic://profound), [effortful](dic://effortful), [inarticulate](dic://inarticulate), [unarticulate](dic://unarticulate)
-		3. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
-		4. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
-		5. _[facile profound](dic://facile%20profound)_ 易做到的
-		6. _[sonata facile](dic://sonata%20facile)_ 简易奏鸣曲
-		7. _[facile a](dic://facile%20a)_ 容易做的
-		8. _[a facile worker](dic://a%20facile%20worker)_ 能干的工作者
-	26. facility
+	18. facile 
+		1. (facile, piddling, trifling, petty, frivolous, superfluous, trivial, minuscule)
+		2. 来自 PIE*dhe,做，放置，词源同 do,fact.即好做的，简单的。后词义贬义化，用来指轻率的，肤浅的。
+		3. _adj._ [superficial](dic://superficial), [effortless](dic://effortless), [articulate](dic://articulate)
+		4. _n._ [profound](dic://profound), [effortful](dic://effortful), [inarticulate](dic://inarticulate), [unarticulate](dic://unarticulate)
+		5. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
+		6. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
+		7. _[facile profound](dic://facile%20profound)_ 易做到的
+		8. _[sonata facile](dic://sonata%20facile)_ 简易奏鸣曲
+		9. _[facile a](dic://facile%20a)_ 容易做的
+		10. _[a facile worker](dic://a%20facile%20worker)_ 能干的工作者
+		11. the gift of facile expression: /表现出轻松的礼物：
+		12. a facile slogan devised by politicians. /政客所提出的缺乏诚意和深度的口号
+		13. She has a facile tongue /她口齿流利。
+		14. proposed a facile solution to a complex problem /对一复杂的问题提出肤浅的解决建议
+		15. His facile banter was rather stupid /他轻率的玩笑相当愚蠢。
+		16. He yearns to have faith in faith, and not in the facile kind either /他渴望笃信信仰，而不是轻率地相信。
+		17. Whenever silence seemed to threaten us and I racked my brain for something fresh to talk about, she broke in with facile chatter. /每当沉默似乎威胁到我们， 我绞尽脑汁想找点新鲜的话题时， 她就会轻松地喋喋不休地插话。
+		18. This spirit has long rocked the colleges in America. It begins, as a rule, during the immaturities and facile impressions of freshman year—sometimes back in preparatory school. /这种精神长期以来一直震撼着美国的大学。通常，它开始于大一新生的不成熟和浅薄印象——有时回到预备学校。
+	20. facility
 		1. [installation](dic://installation)
 		2.  [adeptness](dic://adeptness), [adroitness](dic://adroitness), [deftness](dic://deftness), [quickness](dic://quickness)
 		3. [readiness](dic://readiness)
@@ -1729,17 +1755,18 @@
 		10. _communication facility_ 通信设备；通信设施
 		11. _storage facility_ 储藏设施；存储设备
 		12. _public facility_ 公共设施
-	27. facilitate, facilitory
-	28. facsimile
-		1. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
-		2. _v._ [telecommunicate](dic://telecommunicate)
+	21. facilitate, facilitory
+	22. facsimile
+		1. fac-做 + simil-一样 + -e，做出来一样的东西，缩写为fax。
+		2. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
+		3. _v._ [telecommunicate](dic://telecommunicate)
 			1. [copy](dic://copy) 普通用词，含义广泛，指精确的或不精确的复制品。  
 			2. [duplicate](dic://duplicate) 常指完全一模一样，可代替原件的复制品。  
 			3. [model](dic://model) 可指按某物式样制造、按比例缩小的模型，也可指某物未制成之前做出的模型。  
 			4. [reproduction](dic://reproduction) 批按原物复制的产品，着重复制品与原物相似。  
 			5. [facsimile](dic://facsimile) 含义与copy大体相同，但较文雅。
-		3. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
-	29. fact
+		4. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
+	23. fact
 		1. factor
 			1. nilfactor
 			3. nonfactor
@@ -1794,25 +1821,29 @@
 			15. antipathetic factions within the party. /政党中的反对派
 			16. Faction almost broke up the club. /内部纠纷几乎使俱乐部解体。
 			17. factions within the government were contending for the succession to the presidency. /内阁各派系正在为连任而相互竞争。
-		3. factious
+		3. factious (schism, discord, ) (cliquish, clannish, clubby)
 			1. a. 好搞派系的, 好结党营私的
-			2. _adj._ [discordant](dic://discordant)
-			3. _n._ [accordant](dic://accordant)
-			4. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
-			5. [dissentious](dic://dissentious), [divisive](dic://divisive)
-			6. a factious country. /四分五裂的国家。
-			7. It was, accordingly, no mere factious spirit that drove him into opposition to Hamilton. /因此，驱使他反对汉密尔顿的不仅仅是党派精神。
-		4. factitious
-			1. a. 人为的, 人工的, 不自然的 /fact-做 + -itious…的 → 做出来的 , 不自然的。
-			2. 来自 fact-,做，词源同 fact,face.词义贬义化，即人为的，虚假的。
-			3. _adj._ [artificial](dic://artificial), [unreal](dic://unreal)
-			4. _n._ [natural](dic://natural)
-			5. **phony**假的，欺骗的;**spurious**假的;**made-up**制成的,捏造的;**fake**假货;**contrived**不自然的;
-			6. _[factitious](dic://factitious)_  adj. 人为的，人工的；不自然的；虚假的
-			7. _[factitious disorder](dic://factitious%20disorder)_  人为障碍; 虚构失常;
-			8. factitious enthusiasm /假热情
-			9. a largely factitious national identity. /非常虚假的民族同一性。
-			10. Those writers are particularly useful, in my opinion, who make man feel for man, independent of the station he fills, or the drapery of factitious sentiments. /在我看来，那些作家特别有用，他们使人对人产生感情，不受他所担任的职位或人为情感的影响。
+			2.  [dissentious](dic://dissentious), [divisive](dic://divisive)
+			3. _adj._ [discordant](dic://discordant)
+			4. _n._ [accordant](dic://accordant)
+			5. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
+			7. a factious country. /四分五裂的国家。
+			8. It was, accordingly, no mere factious spirit that drove him into opposition to Hamilton. /因此，驱使他反对汉密尔顿的不仅仅是党派精神。
+			9. 
+		4. factitious 
+			1. (factitious, factious, fractious)
+			2. (contrived, factitious, planned, plotted, apocryphal)
+			3. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious)
+			4. a. 人为的, 人工的, 不自然的 /fact-做 + -itious…的 → 做出来的 , 不自然的。
+			5. 来自 fact-,做，词源同 fact,face.词义贬义化，即人为的，虚假的。
+			6. _adj._ [artificial](dic://artificial), [unreal](dic://unreal)
+			7. _n._ [natural](dic://natural)
+			8. **phony**假的，欺骗的;**spurious**假的;**made-up**制成的,捏造的;**fake**假货;**contrived**不自然的;
+			9. _[factitious](dic://factitious)_  adj. 人为的，人工的；不自然的；虚假的
+			10. _[factitious disorder](dic://factitious%20disorder)_  人为障碍; 虚构失常;
+			11. factitious enthusiasm /假热情
+			12. a largely factitious national identity. /非常虚假的民族同一性。
+			13. Those writers are particularly useful, in my opinion, who make man feel for man, independent of the station he fills, or the drapery of factitious sentiments. /在我看来，那些作家特别有用，他们使人对人产生感情，不受他所担任的职位或人为情感的影响。
 		6. factitive
 			1. a. 使役的  n. 使役动词
 		7. factory
@@ -1831,10 +1862,10 @@
 			10. **ambiguity upon the factum**:  事实含糊；翻译；事实含糊英语
 		11. facture
 			1. _[facture](dic://facture)_  n. 制作；发票；制作法​​​​
-	30. feat
-	31. feature
-	32. faculty, facultative
-	33. feckless (bootless, reckless)
+	24. feat
+	25. feature
+	26. faculty, facultative
+	27. feckless (bootless, reckless)
 		1. adj. 无效的；软弱的；没精神的；不负责任的；无气力的
 		2. feck, 缩写自effect【效果，价值】。-less没有，无 → 词义引申为差劲的，品格差的。 
 		3. feckless ['feklɪs] adj.无效的；软弱的；没精神的；不负责任的；无气力的。单词中的feck实际是effect，这样就很好理解了。值得说的是，这个单词是苏格兰作家Thomas Carlyle从苏格兰语引入到英语中来的，另外一个被Thomas Carlyle引入的单词是：outcome结果，结果不就是act or fact of coming out吗？ ​​​​
@@ -1847,7 +1878,7 @@
 		10. two years of feckless negotiations /拖了两年毫无结果的谈判
 		11. The S.E.C. May be feckless, but they're not incompetent /证监会可能会很软弱 但是他们不是没有能力。
 		12. And it creates a fissured response and a feckless attitude towards Russia's land grab in Ukraine. /它对俄罗斯在乌克兰的土地掠夺造成了一种有分歧的反应和一种鲁莽的态度。
-	35. feasance
+	28. feasance
 		1. n. 履行
 		2. _[feasance](dic://feasance)_  n. 履行；履行条件；义务
 		3. It can regulate the non-feasance, adjust the negligence scope and limit tort liabilities. /它可规范不作为，调控过失侵权的范围和限制赔偿责任。
@@ -1880,7 +1911,7 @@
 			2. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
 			3. **accomplice**从犯, 帮凶, 同谋;**murderer**凶手;**perpetrator**做坏事者;**thief**小偷，贼;**sinner**罪人;**adversary**对手, 敌手;**offender**冒犯者;**robber**强盗;**villain**坏人，恶棍;**felon**重罪犯;**spammer**垃圾邮件制作者;
 		10. unfeasable
-	37. manufacture
+	29. manufacture
 		1. n. 产品, 制造  
 		2. vt. 制造, 假造  
 		3. vi. 制造
@@ -1892,11 +1923,11 @@
 		9. manufacturer
 		10. manufactural
 		11. manufacturability
-	38. malefaction
+	30. malefaction
 		1. _[malefaction](dic://malefaction)_  n. 罪行；罪恶；犯罪行为
 		2. malefic
 		3. maleficent, maleficence
-	39. fake
+	31. fake
 		1. 俚语，词源不确定。可能来自 fact-,做，词源同 face,factitious.即人为的，伪造的。
 		2. n. 假货, 欺骗, 诡计  
 		3. a. 假的  
@@ -1910,7 +1941,7 @@
 			1. n. 假货, 伪造签名, 诡计, 骗局
 		9. deepfake
 			1. n. 深度伪造
-	40. fashion
+	32. fashion
 		1. n. 流行, 风尚, 时样  
 		2. vt. 形成, 造, 作
 		3. 来自法语，来自 fash-,做，词源同 face,fact.即做，准备，形象，外表。后来该词用来指时尚，潮流。
@@ -1927,7 +1958,7 @@
 			1. unfashionable
 			2. ultrafashionable
 			3. fashionably
-	41. fetish
+	33. fetish
 		1. fetish（恋物）：非洲原始部落的实物崇拜  
 		2. 在西非和中非的一些原始部落流行传统的实物崇拜，这是一种非常原始的宗教。这些原始部落由于对自然现象缺乏理解，以为许多物体如石块、木片、树枝、弓箭等具有灵性，并赋以神秘的、超自然的性质，以及支配人的命运的力量。他们将这种灵性物品制作成护身符，或当成偶像来进行崇拜。  
 		3. 最初来到西非的葡萄牙航海家、水手和商人接触这些非洲原始部落后，将他们所崇拜的这些护身符或偶像称为feitiço，意思是“人造的”，来自拉丁语facticius（人造的）。1760年，著名人类学家查尔斯•德•布霍斯（Charles De Brosses）在其著作中提到了非洲原始部落的这种实物崇拜，并在葡萄牙语feitiço的基础上构造了法语fétiche，英语单词fetish正是来源于此。  
@@ -1946,32 +1977,32 @@
 		14. fetishist
 			1. fetishistic
 		15. fetishism
-	42. satisfactory
+	34. satisfactory
 		1. satis-足够 + fact-做 + -ory, 表形容词。
 		2. sa-
-	43. tabefaction, labefactionm
+	35. tabefaction, labefactionm
 		1. _[tabefaction](dic://tabefaction)_  n. 消瘦，衰弱
-	44. rubefaction
+	36. rubefaction
 		1. _[rubefaction](dic://rubefaction)_  n. 皮肤发红；使…发红；红化作用
 		2. rubefacient
-	45. refactory, refection
-	46. abortifacient
+	37. refactory, refection
+	38. abortifacient
 		1. _n._ [drug](dic://drug)
 		2. _adj._ [causative](dic://causative)
 		3. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
 		4. **contraceptive**避孕药;**contraception**避孕;**abortion**流产，小产;**progesterone**孕酮,黄体酮;**medicinal**医学的;**uterine**子宫的;**uterus**子宫;**fetus**胎儿，胎;**pill**药丸;**poison**使中毒，放毒于;**pills**丸剂;
-	47. absorbefacient
+	39. absorbefacient
 		1. _[absorbefacient](dic://absorbefacient)_  n. 吸收剂; adj. 吸收性的;
-	48. calefacient, calefactory
+	40. calefacient, calefactory
 		1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
-	49. deficient, deficit
+	41. deficient, deficit
 		1. _adj._ [inadequate](dic://inadequate), [depleted](dic://depleted), [low](dic://low), [poor](dic://poor), [short](dic://short), [lean](dic://lean), [skimpy](dic://skimpy)
 		2. _n._ [adequate](dic://adequate), [standard](dic://standard)
 		3. **deficiency**缺乏, 不足, 短缺;**inadequate**不适当的;**lacking**缺乏的;**insufficient**不足的;**defective**有缺陷的;**woefully**悲伤地;**insufficiency**不充足,不足;**chronically**长期地;**incapable**无能力的, 不会的;**flawed**有缺陷的;**impaired**受损的;
 		4. deficiency
-	50. difficult
-	51. editfice
-	52. efficacious
+	42. difficult
+	43. editfice
+	44. efficacious
 		1. a. 有效的, 灵验的
 		2. [美 /ˌefɪˈkeɪʃəs/](cmd://Speak/_us_/efficacious)
 		3. _adj._ [effective](dic://effective), [hard-hitting](dic://hard-hitting), [trenchant](dic://trenchant), [impelling](dic://impelling), [impressive](dic://impressive), 
@@ -1990,7 +2021,7 @@
 		8. efficiency
 		9. efficient
 		10. inefficacy
-	54. proficient
+	45. proficient
 		1. _adj._ [skilled](dic://skilled)
 		2. _n._ [unskilled](dic://unskilled)
 			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
@@ -1998,33 +2029,33 @@
 			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
-	55. prolific (profligate)
+	46. prolific (profligate, prolix, )
 		1. adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
 		2. [fecund](dic://fecund), [fertile](dic://fertile)
 		3. [fertile](dic://fertile)
 		4. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
 		5. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
 		6. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-	56. munificent
+	47. munificent
 		1. muni-服务、礼物 + fic-做 + -ent，即送礼物的，准备大礼的。
 		2. 来自拉丁语 munificus,慷慨的，大方的，来自 munus,礼物，-fic,做，词源同 fact,beneficial.即送礼物的，准备大礼的。
 		3.  [lavish](dic://lavish), [overgenerous](dic://overgenerous), [prodigal](dic://prodigal), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
 		4. _adj._ [generous](dic://generous)
 		5. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
 		6. **benefactor**恩人;**generous**慷慨的，大方的;**benevolent**好心肠的;**endowed**赋予，捐赠;**patronage**赞助;**prodigious**巨大的;**generosity**慷慨, 大方, 宽容;**pious**虔诚的;**splendid**辉煌的;**endowment**资助,捐助;**bestow**授予;
-	57. omnificent
+	48. omnificent
 		1. adj. 创造万物的；有无限创造力的（等于 omnific）
-	58. office
-	59. orifice
+	49. office
+	50. orifice
 		1. n. (尤指身体上的) 孔口
 		2. ori-嘴 + -fic做，引申词义孔，穴，腔。
 		3. 来自拉丁语 orificium,开口，来自 ori-,嘴，词源同 oral,-fic,做，词源同 do,fact.引申词义孔，穴，腔。
 		4. orificium
 		5. orificial
-	60. sacrifice
-	61. significant
+	51. sacrifice
+	52. significant
 		1. significative
-	62. soporific
+	53. soporific
 		1. sopor-睡觉，昏睡 + -fic做，使，引申词义催眠的。
 		2. a. 催眠的, 想睡的, 令人麻木不仁的  
 		3. n. 催眠剂, 安眠药
@@ -2034,9 +2065,9 @@
 		7. **hypnotic**催眠的，催眠术的;**sleepy**困乏的;**narcotic**麻醉的;**soothing**使人宽心的;**inane**愚蠢的;**intoxicating**醉人的;**banal**陈腐的;**stimulant**兴奋剂;**hangover**宿醉;**noxious**有害的;**calming**平静的;
 		8. the motion of the train had a somewhat soporific effect /火车的行驶起了一定的催眠作用。
 		9. I dozed off during the soporific music /我听到这催人入睡的音乐,便不知不觉打起盹儿来了。
-	63. sorbefacient
-	64. liquefacient
-	65. suffice
+	54. sorbefacient
+	55. liquefacient
+	56. suffice
 		1. suf-在下面 + fic-做 + -e → 在下面先做好 → 充足。
 		2. suf-,在下，向上，-fic,做，词源同 fact,efficient.引申词义做到足够，使足够，足以。
 		4. [do](dic://do), [answer](dic://answer), [serve](dic://serve)
@@ -2055,15 +2086,15 @@
 			1. self-sufficiency
 			2. insufficiency
 		13. self-sufficing
-	66. traffic
-	67. tumefacient
+	57. traffic
+	58. tumefacient
 		1. a. 肿胀的, 肿大的, 引起肿胀的
-	68. counterfeit
+	59. counterfeit
 		1. n. 赝品, 伪造品  
 		2. a. 假冒的, 假装的  
 		3. v. 仿造, 伪装, 假装
 		4. counter-相对 + feit-=fact-做。
-	69. forfeit (confiscate)
+	60. forfeit (confiscate)
 		1. n. 没收物, 罚金  
 		2. vt. 丧失，被没收  
 		3. a. 丧失了的
@@ -2084,7 +2115,7 @@
 		18. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
 		19. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
 		20. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
-	70. surfeit
+	61. surfeit
 		1.  [excess](dic://excess), [overabundance](dic://overabundance)
 		2.  [glut](dic://glut), [oversupply](dic://oversupply)
 		3.  [repletion](dic://repletion)
@@ -2095,14 +2126,14 @@
 		8. a surfeit of complaints /过度的牢骚
 		9. a surfeit of food and drink /过量的食物和饮料。
 		10. a surfeit of rich food /过量的油腻食物
-	71. discomfit
-	72. rarefactive
+	62. discomfit
+	63. rarefactive
 		1. adj．稀薄的，使稀薄的：导致气体或物质变得稀薄的。
 			1. The rarefactive effect of high altitude causes a decrease in air pressure.  /高海拔的稀薄效应导致气压降低。
-	73. putrefactives
-	74. petrifactive
+	64. putrefactives
+	65. petrifactive
 		1. _adj._ 石化性的;造成石化的
-	75. profit
+	66. profit
 		1. superprofit
 		2. profittaking
 		3. profitless
@@ -4165,7 +4196,23 @@
 			4. dose：[dos] n. 剂量；一剂，一服v. 服药；给药  
 			5. dowry：['daʊri] n. 嫁妆；天资；亡夫遗产  
 			6. Dorothy：['dɒrəθɪ]  n. 桃乐茜，女子名字，意为“神的礼物”，缩写为Dora。  
-		4. 2.dowry（嫁妆）：女子出嫁时娘家赠送的礼物  
+	7. dote (pamper, indulge, cherish, )
+		1. 来自低地德语，糊涂，愚蠢。溺爱义可能来自 don,给予，词源同 data,donate.
+		2. vi. 昏聩, 溺爱
+		3. _v._ [senesce](dic://senesce), [age](dic://age), [get on](dic://get on), [mature](dic://mature), [maturate](dic://maturate), [love](dic://love)
+		4. **adore**爱慕;**cherish**珍爱;**adoring**崇拜的;**pamper**纵容;**cuddle**拥抱;**affectionate**慈爱的,充满深情的,温柔亲切的;**lovingly**钟爱地;**adoration**爱慕;**affection**感情;**bestow**授予;**despise**轻视，鄙视;
+		5. _dote on_ 溺爱，宠爱；过分喜爱
+		6. They dote on their daughter. /他们把女儿视为掌上明珠。
+		7. He dotes on his grandchildren and indulges their every whim. /他溺爱自己的孙辈，并且满足他们的任何想法”
+		8. doting, 
+		9. dotard
+		10. dotage
+			1. [second childhood](dic://second childhood), [senility](dic://senility)
+			2. _n._ [old age](dic://old age), [years](dic://years), [age](dic://age), [eld](dic://eld), [geezerhood](dic://geezerhood)
+			3. **retirement**退休;**geriatric**老年医学的;**adulthood**成人期;**eighties**八十几;**age**年龄;**frail**虚弱的;**oblivion**遗忘;**folly**愚蠢;**ageing**【英】变老，成熟;
+	8. dowry
+		1. n. 嫁妆
+		2. dowry（嫁妆）：女子出嫁时娘家赠送的礼物  
 			1. 女子出嫁时，女方家庭向男方或新婚夫妇赠送一定的陪嫁礼物，这是全世界范围内通行的一项古老习俗。这种陪嫁礼物就是“嫁妆”，在英文中称为dowry。它源自拉丁语dotare，其中的do就是“赠送”的意思，如英语单词donate（捐赠）、endow（捐赠）。  
 			2. 娘家赠送嫁妆的原因，一方面是为新婚夫妇提供一定资助，帮助他们成家立业，另一方面还有比较深厚的社会历史原因。我们知道，古代社会是父权和夫权社会，女性地位低下，嫁入男方后就成了婆家的人，与娘家不再有瓜葛，也不能继承娘家的遗产，所以女性成家后几乎再也无法从娘家获得任何帮助。在这种背景下，娘家向出嫁女儿提供帮助的唯一途径就是结婚时的嫁妆了。  
 			3. 嫁妆的丰厚与否，与女儿日后在婆家的地位息息相关。在印度和孟加拉等地方，人们对嫁妆异常看重，甚至经常发生“索奁焚妻”这样的暴行。“索奁焚妻”指的是因为女方家庭拒绝男方的要求，不肯提供更多嫁妆，男方便杀害新婚妻子作为报复的事件，通常采取浇上汽油活活烧死的残忍手段。在印度，这一恶习屡禁不止，每年造成了大量女性的死亡。dowry一词在印度已经违背了“自愿捐赠”的本意，变成了女方家庭的一项沉重负担。  
@@ -4173,39 +4220,53 @@
 			5. dower：['daʊə] n. 天赋；嫁妆；亡夫遗产vt. 给以嫁妆；给以产业  
 			6. donate：['donet] n.v.捐赠  
 			7. endow： [ɪn'daʊ; en-] vt.赋予，捐赠，天生拥有  
-		5. 3.condone（宽恕）：对通奸行为的有条件宽恕  
-			1. 在西方历史中人们通常将通奸视为犯罪，并制定了严格的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸”的红色A字。  
-			2. 这种情况到了19世纪下半叶才有所改观。1857年，英国通过“婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯为条件的宽恕。英语单词condone源自拉丁文condonare。其中，con为强化语气的前缀，donare表示“给予”，字面意思就是“宽恕，放弃追究权利”。源自拉丁文donare的单词还有donate（捐献）、pardon（原谅）。  
-			3. condone： [kən'dəʊn] vt.宽恕，赦免  
-			4. condonation： [,kɒndəʊ'neɪʃən] n.（夫妻间对对方通奸行为的）宽恕，赦免，赎罪  
-			5. donate：[də(ʊ)'neɪt] v.n.捐赠，捐献。记：don给予+ate动词后缀→赠送给别人  
-			6. pardon： ['pɑːd(ə)n] v.n.原谅，赦免，宽恕
-	7. dote
-		1. 1 - 来自低地德语，糊涂，愚蠢。溺爱义可能来自 don,给予，词源同 data,donate.
-		2. vi. 昏聩, 溺爱
-		3. _v._ [senesce](dic://senesce), [age](dic://age), [get on](dic://get on), [mature](dic://mature), [maturate](dic://maturate), [love](dic://love)
-		4. **adore**爱慕;**cherish**珍爱;**adoring**崇拜的;**pamper**纵容;**cuddle**拥抱;**affectionate**慈爱的,充满深情的,温柔亲切的;**lovingly**钟爱地;**adoration**爱慕;**affection**感情;**bestow**授予;**despise**轻视，鄙视;
-		5. doting, 
-		6. dotard
-		7. dotage
-			1. [second childhood](dic://second childhood), [senility](dic://senility)
-			2. _n._ [old age](dic://old age), [years](dic://years), [age](dic://age), [eld](dic://eld), [geezerhood](dic://geezerhood)
-			3. **retirement**退休;**geriatric**老年医学的;**adulthood**成人期;**eighties**八十几;**age**年龄;**frail**虚弱的;**oblivion**遗忘;**folly**愚蠢;**ageing**【英】变老，成熟;
-	8. dowry, dotal, dowager, dower
-	9. extradite
+		3. dotal
+		4. dowager
+		5. dower
+			1. n. 嫁妆, 天赋, 亡夫遗产  
+			2. vt. 给以产业, 给以嫁妆
+	9. endow (endorse)
+		1.  [indue](dic://indue), [gift](dic://gift), [empower](dic://empower), [invest](dic://invest), [endue](dic://endue)
+		2.  [dower](dic://dower)
+		3. _v._ [enable](dic://enable), [give](dic://give), [gift](dic://gift), [present](dic://present)
+		4. **bestow**授予;**furnish**供应;**confer**商讨;**acquire**获得;**possess**持有;**grant**授予，允许;**procure**获得，取得;**compel**强迫，迫使;**enable**使能够，使成为可能;**enrich**使肥沃;**augment**增加;
+		5. _endow with_ 赋予；具有
+		6. he endowed the Church with lands./ 他向教会捐赠地产。
+		7. He is endowed with genius. /他赋有天才。
+		8. This country is favourably endowed climatically. /这个国家的气候得天独厚。
+		9. the country is well endowed with mineral resources. /该国矿产资源十分丰富。
+		10. Many of the most successful people are endowed with brains, talent, and perseverance. /许多获得巨大成功的人都有非凡的智慧、才能以及坚韧不拔的毅力。
+		11. Our great motherland is favorably endowed climately. /我们祖国的气候(真是)得天独厚。
+		12. The Casanova endows suffocatingly French kiss suddenly on you, it is strange, pay back a palm. /大众情人赐予的窒息的法国吻突然罩上你，是奇诡的，偿还个耳光。
+		13. We want to take constant advantage of all the intoxicating existence we've been endowed with. /我们想要不断利用赋予我们的整个令人陶醉的生命。
+		14. The rich man endowed the college he had attended. /这个有钱人捐钱给他上过的大学。
+		15. unendowed
+		16. endowment
+			1. n. 捐助, 天赋, 才能
+			2. _n._ [natural ability](dic://natural ability), [capital](dic://capital), [giving](dic://giving), [gift](dic://gift)
+			3. **fund**资金;**funds**基金;**benefactor**恩人;**trustees**受托人，受托者;**scholarship**奖学金;**philanthropic**博爱的,慈善的;**philanthropy**博爱主义;**donation**捐赠;**funding**提供资金;**grants**补助金;**annuity**年金，养老金;
+			4. _natural endowment_ 先天禀赋；天然条件
+			5. _factor endowment_ 要素禀赋；生产要素禀赋；具备的生产要素，天赋要素
+			6. The museum's last annual report values the endowment at $2.5 billion /博物馆的去年年度报告估价捐款达二十五亿美元。
+			7. You mean situations where you need to protect the endowment. /也就是需要维护校方利益的场合。
+			8. Sweden's central bank created the endowment in 1968 /瑞典中央银行在1968年创立了该基金会。
+		17. disendowment
+		18. disendow
+			1. - v. 没收基金
+	10. extradite
 		1.  - ex-,向外，-trad,转让，移交，词源同 tradition.
 		2. vt. 引渡, 获取(逃犯等)的引渡
 		3. extradition
 		4. extraditable
-	10. pardon
+	11. pardon
 		1. pardoner
 		2. pardonable
-	11. perdition
-	12. bulldoze
-	13. condiment
+	12. perdition
+	13. bulldoze
+	14. condiment (seasoning)
 		1. con-一起 + di-给予 + -ment名词后缀 → 放到一起，能给出（美味） → 调味品。
 		2. **ketchup**番茄酱;**sauces**调味酱，调味汁;**mayonnaise**蛋黄酱;**sauce**调味汁;**chutney**酸辣酱;**pickles**腌渍物;**flavoring**调味品,调味料;**seasoning**调味品, 佐料;**pickle**腌汁;**vinaigrette**色拉调味汁;**spice**香料;
-	14. condone
+	15. condone
 		1. condone（宽恕）：对通奸行为的有条件宽恕  
 		2. 在西方历史中人们通常将通奸视为犯罪，并制定了严格的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸”的红色A字。  
 		3. 这种情况到了19世纪下半叶才有所改观。1857年，英国通过“婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯为条件的宽恕。英语单词condone源自拉丁文condonare。其中，con为强化语气的前缀，donare表示“给予”，字面意思就是“宽恕，放弃追究权利”。源自拉丁文donare的单词还有donate（捐献）、pardon（原谅）。  
@@ -4217,7 +4278,7 @@
 		9. **condemn**判刑，定罪;**endorse**赞同;**tolerate**忍受;**denounce**谴责;**disrespect**失礼,无礼;**discourage**使气馁;**immoral**不道德的;**despicable**可鄙的,卑鄙的;**disapprove**不赞成;**prohibit**阻止，禁止;**criticize**评论, 批评;
 		10. condonation
 		11. condonable
-	15. dose
+	16. dose
 		1. predose, overdose, minidose, microdosimetry
 		2. microdose
 		3. iosdose
@@ -4232,12 +4293,12 @@
 		10. doser
 			1. - n. 剂量仪；定量给料器
 		11. dosage
-	16. donate
+	17. donate
 		1. donator
 		2. donative
 		3. donatism
 		4. donation
-	17. edit
+	18. edit
 		1. e-出 + dit-给予 → 给出好文章 → 编辑。
 		2. unedited
 		3. subedit
@@ -4246,19 +4307,6 @@
 		6. editor
 		7. edition
 		8. editing
-	18. endow (endorse)
-		1. dowry（嫁妆）：女子出嫁时娘家赠送的礼物  
-		2. 女子出嫁时，女方家庭向男方或新婚夫妇赠送一定的陪嫁礼物，这是全世界范围内通行的一项古老习俗。这种陪嫁礼物就是“嫁妆”，在英文中称为dowry。它源自拉丁语dotare，其中的do就是“赠送”的意思，如英语单词donate（捐赠）、endow（捐赠）。  
-		3. 娘家赠送嫁妆的原因，一方面是为新婚夫妇提供一定资助，帮助他们成家立业，另一方面还有比较深厚的社会历史原因。我们知道，古代社会是父权和夫权社会，女性地位低下，嫁入男方后就成了婆家的人，与娘家不再有瓜葛，也不能继承娘家的遗产，所以女性成家后几乎再也无法从娘家获得任何帮助。在这种背景下，娘家向出嫁女儿提供帮助的唯一途径就是结婚时的嫁妆了。  
-		4. 嫁妆的丰厚与否，与女儿日后在婆家的地位息息相关。在印度和孟加拉等地方，人们对嫁妆异常看重，甚至经常发生“索奁焚妻”这样的暴行。“索奁焚妻”指的是因为女方家庭拒绝男方的要求，不肯提供更多嫁妆，男方便杀害新婚妻子作为报复的事件，通常采取浇上汽油活活烧死的残忍手段。在印度，这一恶习屡禁不止，每年造成了大量女性的死亡。dowry一词在印度已经违背了“自愿捐赠”的本意，变成了女方家庭的一项沉重负担。  
-		5. dowry：['daʊ(ə)rɪ] n.嫁妆，天资，亡夫的遗产  
-		6. dower：['daʊə] n. 天赋；嫁妆；亡夫遗产vt. 给以嫁妆；给以产业  
-		7. donate：['donet] n.v.捐赠  
-		8. endow： [ɪn'daʊ; en-] vt.赋予，捐赠，天生拥有
-		9. unendowed
-		10. endowment
-		11. disendowment
-		12. disendow
 	19. Pandora
 		1. 腊神话中的第一个女凡人，因 Prometheus 把火把从天上带到人间，宙斯为惩罚他，合众神之力，创造出一个无比美丽但没有智慧的女子 Pandora,派她到人间成为 Prometheus 的弟弟Epimetheus 的妻子，并送她一个盒子作为礼物，即充满各种灾难的潘多拉魔盒，并再三警告她不要将这个盒子打开。但很不幸，在好奇心的驱使下，魔鬼被打开了，各种灾难降临人间，仅希望留在盒子里。Pandora 字面意思为众神的礼物，来自 pan-,全，泛，-dora,给，礼物，嫁妆，词源同 data,dowry.Prometheus 字面意思为先知，智者，Epimetheus 字面意思为后知，笨蛋。
 	20. paradoner

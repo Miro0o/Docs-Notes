@@ -392,7 +392,7 @@
 		6. [imperative](dic://imperative), [demanding](dic://demanding)
 	13. exigible
 		1. a. 可要求的, 可强求的
-	14. exiguity
+	14. exiguity (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, exiguity)
 		1. n. 稀少, 微小
 		2. ex-出 + ig-做 + -u- + -ity
 		3.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
@@ -753,7 +753,7 @@
 		9. emulable
 			1. _[emulable](dic://emulable)_  adj. 可赶上的；可仿效的
 		10. emulant
-	3. emulous
+	3. emulous (rivalrous, ambitious, emulous, )
 		1. adj. 好胜的，竞争心强的
 		2.  [rivalrous](dic://rivalrous)
 		3. _adj._ [emulation](dic://emulation), [competitive](dic://competitive), [competitory](dic://competitory)
@@ -1553,14 +1553,21 @@
 4. **al-, ol-, ul-** = to feed, nourish, grow
 	1. alderman, aldermanic
 	2. aliment (ail, ailment)
-		1.  [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [alimentation](dic://alimentation), [victuals](dic://victuals)
-		2.  [nutrify](dic://nutrify), [nourish](dic://nourish)
-		3. _n._ [food](dic://food), [nutrient](dic://nutrient)
-		4. _v._ [feed](dic://feed), [give](dic://give)
-		5. **ailment**小病;**affliction**折磨;**nourishment**食物, 滋养品;**sustenance**食物;**ailments**疾病，小病;**assemblage**聚集;**likewise**也;**digestive**消化的;**healthful**有益健康的;**abode**住处;
-		6. aliment for the body and mind /对身心有益的营养品
-		7. required by court order to aliment the abandoned family /依法庭的判决供养被遗弃的家庭
-	3. alimony
+		1. n. 食物, 营养物
+		2. 2.alimony：离婚后给女方的生活费  
+		3. 夫妻离婚后，男方需要定期向女方支付一定的赡养费，以维持女方的基本生活所需。这种做法古已有之，中西方都有类似的法律。在史上最早的法典《汉谟拉比法典》中就明确规定：“一个男人如果想同给他生下子女的妻子或女子分手，就应该返还其嫁妆，并向其提供田地、花园等资产的部分权益，以保障她抚养孩子。”英语单词alimony的本意就是“生活费”，来自拉丁语alimonia，后者来自动词alere （滋养、提供营养）。英语词根al-（食物、营养）就来源于此。  
+		4. al-/ali-：食物，营养  
+		5. alimony： ['ælɪmənɪ] n.赡养费，生活费  
+		6. aliment：['ælɪmɛnt] n. 滋养品；食物vt. 向…提供营养物  
+		7. alimentary：[,ælɪ'mɛntəri] adj. 滋养的；食物的
+		8.  [nutriment](dic://nutriment), [nourishment](dic://nourishment), [nutrition](dic://nutrition), [sustenance](dic://sustenance), [alimentation](dic://alimentation), [victuals](dic://victuals)
+		9.  [nutrify](dic://nutrify), [nourish](dic://nourish)
+		10. _n._ [food](dic://food), [nutrient](dic://nutrient)
+		11. _v._ [feed](dic://feed), [give](dic://give)
+		12. **ailment**小病;**affliction**折磨;**nourishment**食物, 滋养品;**sustenance**食物;**ailments**疾病，小病;**assemblage**聚集;**likewise**也;**digestive**消化的;**healthful**有益健康的;**abode**住处;
+		13. aliment for the body and mind /对身心有益的营养品
+		14. required by court order to aliment the abandoned family /依法庭的判决供养被遗弃的家庭
+	4. alimony (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, alimony)
 		1. alimony：离婚后给女方的生活费  
 		2. 夫妻离婚后，男方需要定期向女方支付一定的赡养费，以维持女方的基本生活所需。这种做法古已有之，中西方都有类似的法律。在史上最早的法典《汉谟拉比法典》中就明确规定：“一个男人如果想同给他生下子女的妻子或女子分手，就应该返还其嫁妆，并向其提供田地、花园等资产的部分权益，以保障她抚养孩子。”英语单词alimony的本意就是“生活费”，来自拉丁语alimonia，后者来自动词alere （滋养、提供营养）。英语词根al-（食物、营养）就来源于此。  
 		3. al-/ali-：食物，营养  
@@ -1570,53 +1577,82 @@
 		7. _n._ [support payment](dic://support payment)
 		8. **spousal**婚礼;**divorce**使离婚，使分离;**marital**婚姻的;**custody**拘留;**spouse**配偶;**divorced**离婚的;**arrears**到期未付之债;**marriage**结婚;**annuity**年金，养老金;**restitution**归还原主, 恢复原状;**income**收入，收益;
 		9. When his wife was awarded alimony by the court, Snow had to ante up. /当他的太太被法庭判定获有离婚赡养费时, 斯诺不得不付这笔钱。
-	4. alumma, alumnae
-	5. alumni, alumnnus
-	6. elderd
+	5. alumnus
+		1. alumnus（毕业生）：由其他家庭抚养长大的孩子  
+		2. 在英语中，表示“某校的毕业生”的单词是alumnus（男毕业生）和alumna（女毕业生）。这两个单词都来自拉丁语，词根为alere（滋养、抚养）。这两个单词本来指的是因为被父母遗弃或其他原因而由其他家庭抚养长大的孩子。这些收养家庭虽然不是这些孩子的父母，却像父母一样为他们提供了教育和养育，不亚于他们的再生父母。  
+		3. 古代没有学校，孩子的教育都是由自己的父母负责。如果想要自己的孩子向社会上的杰出人士学习，最常见的做法就是把孩子送到这个人家里，拜他为师父，在师父身边成长并接受教育。这跟我们中国古代拜师学艺差不多。这些成长在师父家庭中的孩子也被称为alumnus和alumna。因此，alumnus和alumna也就逐渐产生了“学生、弟子”的含义。现在虽然有了学校，学生无须住到老师家里去，但出于对母校的感激之情，学生毕业后依然自称为alumnus和alumna。由此可见，alumnus和alumna是学生相对母校的称谓，而不是校友之间的称谓。  
+		4. 与alumnus和alumna同源的英语单词还有aliment（食物）、old（变老）、adolescent（青少年）。  
+		5. alumnus：[ə'lʌmnəs] n.男毕业生，男校友  
+		6. alumna：[ə'lʌmnə] n.女毕业生，女校友  
+		7. aliment：['ælɪm(ə)nt] n.食物，滋养品vt.向……提供滋养品
+		8. alumma, alumnae
+		9. alumni,
+	7. elderd
 5. **alt-** = high
 	1. alt
+		1. n. 高音，中高音
+		2. adj. 高音的；最高调的
 	2. altar
+		1. n. 圣坛, 祭坛
+		2. alt-高 + -ar → 高出的东西 → 祭坛。
+		3. altar - 此系音乐术语，源自拉丁语altus，但却是直接借自意大利语，在意大利语是“高的”的意思，最初在英语中用以指“男声最高音”（和countertenor同义），不久以后也被用以指“女低音”（和contralto同义），这是因为女低音的音域和男声最高音很相像的缘故。英语中另有一些词，如altimeter（测高仪），altitude（高度），altar（祭坛）等也源自拉丁语altus。
 	3. altazimuth, altimeter, altitude
 		1. altimetry
 	4. althorn
+		1. n. 中音萨克号
 	5. alto
 	6. exalt
-		1.  [laud](dic://laud), [extol](dic://extol), [glorify](dic://glorify), [proclaim](dic://proclaim)
-		2. [inspire](dic://inspire), [animate](dic://animate), [invigorate](dic://invigorate), [enliven](dic://enliven)
-		3. **glorify**赞美;**elevate**举起;**bestow**授予;**proclaim**声明;**praise**赞扬;**reproach**责备;**dwell**居住;**boast**自吹自擂, 自夸的话;**despise**轻视，鄙视;**glory**光荣，荣誉;**rejoice**高兴;
+		1. ex-出 + alt-高 → 高出来 → 升高；赞扬。
+		2.  [laud](dic://laud), [extol](dic://extol), [glorify](dic://glorify), [proclaim](dic://proclaim)
+		3. [inspire](dic://inspire), [animate](dic://animate), [invigorate](dic://invigorate), [enliven](dic://enliven)
+		4. **glorify**赞美;**elevate**举起;**bestow**授予;**proclaim**声明;**praise**赞扬;**reproach**责备;**dwell**居住;**boast**自吹自擂, 自夸的话;**despise**轻视，鄙视;**glory**光荣，荣誉;**rejoice**高兴;
 6. **hanc-** = high
 	1. enhance
 7. **prol-** = offspring
 	1. prole
-		1. proletarian
-		2. proletariat
-		3. proletariate
+		1. 缩写自 proletarian.
+		2. proletarian
+			1. _n._ [commoner](dic://commoner), [common man](dic://common man), [common person](dic://common person)
+			2. _adj._ [lower-class](dic://lower-class), [low-class](dic://low-class)
+			3. _n._ [patrician](dic://patrician), [plebeian](dic://plebeian), [middle-class](dic://middle-class), [upper-class](dic://upper-class)
+			4. **bourgeois**资产阶级的;**bourgeoisie**资产阶级;**socialist**社会主义者;**working-class**工人阶级的;**Bolshevik**布尔什维克;**Marxist**马克思主义者;**capitalist**资本家;**communist**共产主义的;**peasant**农民;**socialism**社会主义;**Marxism**马克思主义;
+			5. a pattern of the spirit of proletarian internationalism /无产阶级国际主义精神的典范。
+			6. a downtrodden proletarian struggling for social justice /一个为争取社会公正而斗争的受压迫的无产者。
+		3. proletariat
+		4. proletariate
 			1. _[proletariate literature](dic://proletariate%20literature)_ 无产阶级文学
-	2. proliferate (profligate)
-		1. _v._ [grow](dic://grow), [multiply](dic://multiply), [manifold](dic://manifold)
-		2. **evolve**发展，进化;**flourish**兴旺;**persist**持续，固执;**propagate**繁殖;**rapidly**迅速地;**grow**生长;**accumulate**堆积;**emerge**浮现;**thrive**繁荣，兴旺;**abound**充满;**continue**仍旧，连续;
-		3. proliferatrive, 
-		4. proliferation
+	3. proliferate (profligate)
+		1. proli-后代 + fer-带来 + -ate, 表动词 → 带来后代 → 繁殖。
+		2. _v._ [grow](dic://grow), [multiply](dic://multiply), [manifold](dic://manifold)
+		3. **evolve**发展，进化;**flourish**兴旺;**persist**持续，固执;**propagate**繁殖;**rapidly**迅速地;**grow**生长;**accumulate**堆积;**emerge**浮现;**thrive**繁荣，兴旺;**abound**充满;**continue**仍旧，连续;
+		4. proliferatrive, 
+		5. proliferation
 			1. _n._ [growth](dic://growth), [growing](dic://growing), [maturation](dic://maturation), [development](dic://development), [ontogeny](dic://ontogeny), [ontogenesis](dic://ontogenesis), [increase](dic://increase)
 			2. _n._ [nonproliferation](dic://nonproliferation), [non-proliferation](dic://non-proliferation)
 			3. **emergence**出现;**apoptosis**细胞死;**differentiation**区别;**ever-increasing**不断增长的;**growth**生长;**concomitant**相伴的;**globalization**全球化;**burgeoning**迅速成长的;**cellular**细胞的;**rapid**迅速的，急促的;**globalisation**全球化;
-		5. proliferating
-		6. proliferous
+		6. proliferating
+		7. proliferous
 			1. adj. 增生的，增殖性的；层出的，发芽的
-		7. prolific
-			1. [fecund](dic://fecund), [fertile](dic://fertile)
-			2. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
-			3. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
-			4. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-			5. prolifically,
-			6. prolificacy
-		8. proligerous
+		8. prolific
+			1. a. 有生殖力的, 多产的, 丰富的
+			2. proli-后代 + fic-产生，制造。
+			3. [fecund](dic://fecund), [fertile](dic://fertile)
+			4. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
+			5. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
+			6. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
+			7. prolifically,
+			8. prolificacy
+		10. proligerous
 			1. _adj._ 生产的,增生的,分芽繁殖的
-	3. prolix, prolixity
-		1. _adj._ [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)
-		2. _n._ [concise](dic://concise)
-		3. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
-	4. prolicide
+	5. prolix, prolixity
+		1. 源自拉丁语 prolixus "poured forth," 词根：pro-向前 + lix-流动，液化，引申词义繁琐的，罗嗦的。
+		2. _adj._ [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)
+		3. _n._ [concise](dic://concise)
+		4. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
+		5. editing a prolix manuscript /编辑冗长的稿子
+		6. But excuse me for being so prolix on this question! /但是请原谅我在这个问题上这么啰嗦！
+		7. Jacintha related her business in as few words as She could manage; But her account was still so prolixthat Ambrosio had need of his patience to bear him to the conclusion /杰辛莎用尽可能少的话讲述了她的生意；但她的叙述仍然冗长，安布罗西奥需要耐心才能得出结论。
+	6. prolicide
 8. althea
 	1. _n._ [mallow](dic://mallow)
 	2. **lilac**淡紫色;**garcinia**藤黄属植物;**lily**百合花，百合;**john**厕所;**jasmine**茉莉;**lee**保护;**orchid**兰花;**holly**冬青树;**violet**紫罗兰;**veronica**婆婆纳属;**hazel**淡褐色;

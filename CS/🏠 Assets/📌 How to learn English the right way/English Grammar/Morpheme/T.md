@@ -94,17 +94,26 @@
 	1. detailloss
 	2. detailling
 	3. detailed
-2. entail
-	1. [imply](dic://imply), [mean](dic://mean)
-	2. [implicate](dic://implicate)
-	3. [fee-tail](dic://fee-tail)
-	4. _n._ [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne), [change](dic://change)
-	5. _v._ [necessitate](dic://necessitate), [lead](dic://lead), [bequeath](dic://bequeath), [will](dic://will), [leave](dic://leave)
-	6. **necessitate**使…成为必要, 需要;**involve**包含;**preclude**妨碍;**require**要求;**might**可能;**undertake**担任, 承揽;**necessarily**必要地, 必需地;**conceivably**令人信服地;**involves**包含;**would**将，将要;**possibly**可能地;
-	7. entailment
+2. entail (lead to, ensue, require, betoken, bespeak, )
+	1. en-使 + tail-剪 → 把剪下的东西给别人。
+	2.  en-,进入，使，-tail,砍，切，词源同 retail,tailor.来自法律用语，指切下来的一块，留给后人继承的遗产，特指不能转让的房产或庄园，其继承权利受到一定的限制。引申词义使必要。
+	4. [imply](dic://imply), [mean](dic://mean)
+	5. [implicate](dic://implicate)
+	6. [fee-tail](dic://fee-tail)
+	7. _n._ [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne), [change](dic://change)
+	8. _v._ [necessitate](dic://necessitate), [lead](dic://lead), [bequeath](dic://bequeath), [will](dic://will), [leave](dic://leave)
+	9. **necessitate**使…成为必要, 需要;**involve**包含;**preclude**妨碍;**require**要求;**might**可能;**undertake**担任, 承揽;**necessarily**必要地, 必需地;**conceivably**令人信服地;**involves**包含;**would**将，将要;**possibly**可能地;
+	10. The work entails precision. /这工作需要精确无误。
+	11. This job entails a lot of hard work /这项工作需要十分努力。
+	12. slippage on any job will entail slippage on the overall project. /任何一件事的延误都会影响整个计划进程。
+	13. Litigation often entails enormous expense /诉讼需要大量花费
+	14. The castle and the land are entailed on the eldest son. /城堡和土地限定由长子继承。
+	15. Deliberate practice entails more than simply repeating a task. /有意练习需要的不仅仅是简单地重复一个任务。
+	16. You allude, perhaps, to the entail of this estate. /“你大概是说产业的继承权问题吧。”
+	17. entailment
 		1. **predicate**断言;**semantic**语义的;**semantics**语义学;**ontology**本体论;**inference**推论, 推理, 推断;**equivalence**均等;**inheritance**继承物, 遗产;**probabilistic**盖然论的,或然说的;**conditional**有条件的;**causality**因果关系;**invariant**无变化的,不变的;
-	8. entailer
-	9. disentail
+	18. entailer
+	19. disentail
 4. retail
 	1. retailer
 5. tailor
@@ -390,7 +399,7 @@
 		8. tolerance, tolerant
 		9. intolerance
 		10. toleration
-	3. extol
+	3. extol (exalt, extol, )
 		1. ex-,向外，-tol,承受，举起，词源同 tolerate.
 		2. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
 		3. extoller
@@ -1049,9 +1058,13 @@
 		8. ostensory
 			1. _[ostensory](dic://ostensory)_  n. 圣礼显示台（等于monstrance）
 		9. ostentatious
-			1. _adj._ [flaunty](dic://flaunty), [showy](dic://showy), [splashy](dic://splashy), [tasteless](dic://tasteless)
-			2. _n._ [unostentatious](dic://unostentatious), [unpretentious](dic://unpretentious), [unpretending](dic://unpretending), [tasteful](dic://tasteful)
-			3. **extravagant**奢侈的, 铺张的;**opulent**富裕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lavish**浪费的;**flashy**闪光的;**grandiose**宏伟的;**pretentious**自命不凡的;**over-the-top**过多的;**pompous**浮夸的;**conspicuous**显眼的;**ornate**华丽的;
+			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose)
+			2. _adj._ [flaunty](dic://flaunty), [showy](dic://showy), [splashy](dic://splashy), [tasteless](dic://tasteless)
+			3. _n._ [unostentatious](dic://unostentatious), [unpretentious](dic://unpretentious), [unpretending](dic://unpretending), [tasteful](dic://tasteful)
+			4. **extravagant**奢侈的, 铺张的;**opulent**富裕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lavish**浪费的;**flashy**闪光的;**grandiose**宏伟的;**pretentious**自命不凡的;**over-the-top**过多的;**pompous**浮夸的;**conspicuous**显眼的;**ornate**华丽的;
+			5. The French are discreet about money and flinch at ostentatious displays of wealth /法国人在钱财问题上向来慎重保密，对于招摇展示财富的行为敏感而抵触。
+			6. The very thing that everybody says is poisonous and ostentatious and shallow. /就是大家都说是有害、做作又肤浅的东西。
+			7. After all, only the strongest, best fed individuals can afford to produce such an ostentatious ornament /毕竟，只有最强壮、营养最足的个体才能长出如此炫的装饰品。
 		10. unostentatious
 			1. _adj._ [quiet](dic://quiet), [restrained](dic://restrained), [tasteful](dic://tasteful), [discreet](dic://discreet)
 			2. _n._ [ostentatious](dic://ostentatious), [pretentious](dic://pretentious), [tasteless](dic://tasteless), [indiscreet](dic://indiscreet)
@@ -1722,7 +1735,7 @@
 		13. trenching
 		14. trencher
 		15. trenched
-		16. entrench
+		16. entrench (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
 			1.  [intrench](dic://intrench)
 			2.  [impinge](dic://impinge), [encroach](dic://encroach), [trench](dic://trench)
 			3.  [dig in](dic://dig in)
@@ -3276,17 +3289,18 @@
 ### + \*tolkw- + = to speak
 1. **loqu-, locu-** = speak, 表示“说话”。源自拉丁语 loqui "to speak."
 	1. locution
-		1. locutory ,
-		2. loquacious
-			1. **chatty**饶舌的;**eloquent**雄辩的，有口才的;**boisterous**热闹的;**witty**诙谐的;**pompous**浮夸的;**opinionated**固执己见的,武断的;**feisty**活跃的;**brash**仓促的，性急的;**sarcastic**讽刺的;**flamboyant**显眼的, 浮夸的, 炫耀的;**enigmatic**谜的;
-		3. locuacity
+		1. locutory
+		2. loquacious (loquacious, garrulous eloquent, )
+			1. loquacious [lə'kweɪʃəs] adj.饶舌的。词根loqu-谐音记作唠嗑，表说，后缀-acious表inclined to, abounding in，即话多的。美国历史上为人引用最多的政治演说是林肯总统在1863年11月19日的Gettysburg Address，全篇不到300字，不到3分钟。而林肯之前Edward Everett的演说则有13609字，用了2小时。
+			2. **chatty**饶舌的;**eloquent**雄辩的，有口才的;**boisterous**热闹的;**witty**诙谐的;**pompous**浮夸的;**opinionated**固执己见的,武断的;**feisty**活跃的;**brash**仓促的，性急的;**sarcastic**讽刺的;**flamboyant**显眼的, 浮夸的, 炫耀的;**enigmatic**谜的;
+		4. locuacity
 			1. **impatience**急躁;**utterance**说话;**intellect**智力;**temper**脾气;**wit**智力;**indignation**愤怒, 愤慨, 气愤;**arrogance**傲慢;**indifference**不关心,不在乎;**preoccupation**全神贯注，入神;**brevity**短暂，短促;**impotence**阳萎;
-		4. allocution
-		5. circumlocution, 
+		5. allocution
+		6. circumlocution, 
 			1. circumlocutory
 			2. **phrase**成语;**rhetorical**修辞的;**phrasing**分节法;**idiom**成语，习语;**colloquial**口语的, 会话的;**ambiguity**歧义;**utterance**说话;**allusion**暗示;**hyperbole**夸张的语句;**politeness**有礼貌;**jargon**行话，术语;
 			3. [verboseness](dic://verboseness), [verbosity](dic://verbosity), [evasion](dic://evasion), [equivocation](dic://equivocation)
-		6. interlocution
+		7. interlocution
 			1. interlocutory
 				1. _adj._ [dialogue](dic://dialogue), [dialog](dic://dialog), [duologue](dic://duologue)
 				2. **appellate**上诉的;**injunction**命令;**remand**还押;**adjudication**宣告;**proceedings**诉讼，诉讼程序;**remanded**发回更审;**appellant**上诉人;**jurisdictional**司法权的;**reconsideration**再考虑,再审议,新审议;**appeal**呼吁，恳求;**appeals**上诉;
@@ -3302,7 +3316,7 @@
 			4. **interlocution frame**:  对话框架
 			5. interlocutor
 				1. **interviewer**面谈者;**diplomat**外交家，外交官;**observer**遵守者;**interpreter**口译工作者;**dialogue**对话;**conversation**交谈, 谈话, 会话;**acquaintance**相识的人, 熟人;**intermediary**中间人;**adversary**对手, 敌手;**negotiator**磋商者;**narrator**叙述者;
-		7. elocution, elocutionist
+		8. elocution, elocutionist
 			1. **recitation**背诵;**grammar**语法;**pronunciation**发音;**speech**演说;**singing**歌声;**lessons**课程;**manners**礼貌;**poise**平衡;**cookery**烹调术;**lectures**演讲，讲演;**pedagogy**教育学;
 			2. elocutionary
 			3. eloquence

@@ -948,24 +948,32 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	3.  [reprehensibly](dic://reprehensibly)
 	4. _adv._ [blameworthy](dic://blameworthy), [blamable](dic://blamable), [blameable](dic://blameable), [blameful](dic://blameful), [censurable](dic://censurable), [culpable](dic://culpable) **negligent**疏忽的;**willfully**任性固执地;**criminally**刑法上,犯了罪地;**deliberately**慎重地;**liable**有责任的，有义务的;**grossly**很;**foolishly**愚蠢地;**careless**粗心的;**recklessly**不在乎地;**complicit**同谋的;**unjustly**不
 	5. culpability
-2. culprit
+2. culprit (occult, cult)
 	1.  [perpetrator](dic://perpetrator)
 	2. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
 	3. **suspect**嫌疑犯;**problem**难题;**perpetrator**做坏事者;**suspects**嫌疑犯;**blamed**混蛋的，该死的;**blame**责备;**killer**杀手;**cause**原因;**accomplice**从犯, 帮凶, 同谋;**downfall**垮台;**murderer**凶手;
 	4. _[main culprit](dic://main%20culprit)_  首犯; 主犯; 
 	5. _[principal culprit](dic://principal%20culprit)_  首犯; 首恶; 
 	6. _[crime culprit](dic://crime%20culprit)_  主凶
-3. disculpate, exculpate
+	7. Are you the culprit who broke this window? /你就是那个打破窗户的人吗?
+	8. Caught shoplifting, the culprit stuttered a few transparent lies. /当逛商店行窃被抓住时，那个罪犯结结巴巴地说了几个显而易见的谎话
+	9. They are the culprits and the problem. They are reckless criminal /“他们才是罪魁祸首和问题所在。他们就是鲁莽的罪犯。”
+	10. Protein could also be the culprit. /蛋白质也可能是凶手之一。
+3. disculpate, exculpate (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 	1. - vt. 开脱……的罪责
-	2. **discredit**败坏…的名声;**blame**责备;**accuse**控告，指控;**guilt**内疚;**complicity**合谋, 串通;**scapegoat**替罪的羔羊;**prosecute**检举、告发某人;**wrongdoing**坏事;**accomplice**从犯, 帮凶, 同谋;**condemn**判刑，定罪;**punish**严厉对待;
-	3. exculpatory
+	2. _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge)
+	3. **discredit**败坏…的名声;**blame**责备;**accuse**控告，指控;**guilt**内疚;**complicity**合谋, 串通;**scapegoat**替罪的羔羊;**prosecute**检举、告发某人;**wrongdoing**坏事;**accomplice**从犯, 帮凶, 同谋;**condemn**判刑，定罪;**punish**严厉对待;
+	4. the article exculpated the mayor. /那篇文章为市长开脱罪责。
+	5. 'Margaret! I am going to consult Mr. Lennox as to the chance of exculpating myself, so that I may return to England whenever I choose, more for your sake than for the sake of any one else. /'玛格丽特！我打算和伦诺克斯先生商量开脱罪责的机会，这样我就可以随时返回英国，更多的是为了你，而不是为了其他任何人。
+	6. But there is a troubling subtext: the author’s attempts to **exculpate** himself. /不过令人烦恼的是，作者总打算替自己开脱。
+	7. exculpatory
 		1. _adj._ [absolvitory](dic://absolvitory), [exonerative](dic://exonerative), [forgiving](dic://forgiving), [extenuating](dic://extenuating), [justificative](dic://justificative), [justificatory](dic://justificatory), [vindicatory](dic://vindicatory)
 		2. _n._ [inculpatory](dic://inculpatory), [inculpative](dic://inculpative)
 		3. **circumstantial**详细的;**evidence**证据，证明;**prosecution**起诉, 诉讼;**damning**咒骂的;**admissible**可容许的;**testimony**证词;**hearsay**传闻，谣言;**subpoena**传唤，传审;**defendant**被告;**acquittal**宣告无罪;**indictment**起诉;
 		4. _[exculpatory](dic://exculpatory)_  adj. 申明无罪的；辩解的
 		5. _[exculpatory clause](dic://exculpatory%20clause)_  开脱责任条款
 		6. _[exculpatory evidence](dic://exculpatory%20evidence)_  开脱罪责的证据
-	4. exculpation
+	8. exculpation
 		1. _n._ [defense](dic://defense), [defence](dic://defence), [vindication](dic://vindication), [forgiveness](dic://forgiveness), [pardon](dic://pardon)
 		2. **complicity**合谋, 串通;**justification**理由;**condemnation**谴责;**guilt**内疚;**acquittal**宣告无罪;**indemnity**保障, 赔偿, 补偿;**refusal**拒绝;**confession**承认;**atonement**弥补,补偿;**negligence**疏忽, 玩忽;**presumption**推测;
 		3. _[exculpation](dic://exculpation)_  n. 辩解；使无罪

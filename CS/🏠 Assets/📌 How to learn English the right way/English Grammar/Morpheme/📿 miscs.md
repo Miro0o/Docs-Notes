@@ -307,6 +307,17 @@ angle
 	- **evangelism**福音传道;**preach**说教;**evangelist**福音传道者;**preaching**讲道,讲道法;**missionary**传教士;**gospel**福音书;**educate**教育;**discipleship**做弟子的身份;**proclaim**声明;**evangelical**福音的;**churches**教会，教堂;
 	- evangelistic
 	- evangelist
+		- gospel（福音）：极好的消息  
+		- “福音”本是一个基督教的术语，指耶稣的言论及其门徒们传播的教义。在希腊语中，福音叫做evangelion（拉丁化形式为euangelium）。其中，ev（eu）是“好”的意思，如eugenics（优生学）、eulogize（赞美）、euphemism （委婉的词语）；angelion是“消息”的意思，天使angel与其同源。英语单词evangel（福音、佳音）就源自希腊单词evangelion。  
+		- 基督教传入罗马后，罗马人将希腊单词evangelion意译为bona adnuntiatio（好消息）。基督教传入英国后，英国人将拉丁文bonaadnuntiatio意译为古英语单词godspel，其中，god等于good（好），spel等于spell（消息、信息）。后来，godspel中间的字母g被简略掉，拼写逐渐演变成了现在的gospel形式。  
+		- 现在，gospel一词已经逐渐走出宗教领域，应用于更多场景，用来表示任何主义、信条。  
+		- gospel：['ɡɑspl] n.福音，真理，信条adj.福音的，传播福音的  
+		- evangel：[ɪ'væn(d)ʒel; -(d)ʒ(ə)l] n.福音，佳音  
+		- evangelist：[ɪ'vændʒəlɪst] n. 福音传道者；圣经新约福音书的作者  
+		- evangelistic：[ɪ,vændʒə'lɪstɪk] adj. 福音传道者的；福音书作者的  
+		- evangelical：[,ivæn'dʒɛlɪkl] adj. 福音的；福音派教会的；新教会的n. 福音派信徒
+		- _n._ [preacher](dic://preacher), [preacher man](dic://preacher man), [sermonizer](dic://sermonizer), [sermoniser](dic://sermoniser), [spiritual leader](dic://spiritual leader)
+		- **preacher**传教士;**evangelism**福音传道;**pastor**牧师;**evangelical**福音的;**preaching**讲道,讲道法;**missionary**传教士;**guru**古鲁;**entrepreneur**企业家;**gospel**福音书;**clergyman**牧师;**apostle**传道者;
 	- evangelism
 	- evangelic
 - archangel
@@ -1336,7 +1347,7 @@ bounce
 bound
 - etc..
 
-bouquet (bouquet, cachet, crotchet, coquet) (spray)
+bouquet (bouquet, banquet cachet, crotchet, coquet) (spray)
 - 来自拉丁语 boscus,灌木，灌木花，词源同 bush.-et,小词后缀。
 - n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
 - [corsage](dic://corsage), [posy](dic://posy), [nosegay](dic://nosegay)
@@ -2951,7 +2962,7 @@ doom
 douche
 - deuk-
 
-douse
+douse (extinguish)
 - 词源不详，可能来自拟声词。
 - vt. 插入水中, 浇(或洒、泼)水在...上, 熄(灯、火等), 平息  vi. 浸泡  
 - n. 泼洒
@@ -3459,12 +3470,13 @@ feist
 	- he got a bit feisty by trying to hit me backs /他想要还击我，一下变得有些好斗。
 	- Hollywood doesn't have a lot of good feisty roles for girls my age. /好莱坞没多少适合我这个年龄的女孩子扮演的生气勃勃的好角色。
 
-fickle
-- - 来自 PIE*peig,狡猾的，敌对的，坏心眼的，词源同 foe,fiend.引申词义反复无常的。
+fickle 
+- (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) 
+- 来自 PIE*peig,狡猾的，敌对的，坏心眼的，词源同 foe,fiend.引申词义反复无常的。
 - **unpredictable**无法预言的, 不可预测的;**notoriously**恶名昭彰地,声名狼藉地;**unforgiving**不可宽恕的,不能原谅的;**fleeting**飞逝的;**impatient**不耐烦的, 急躁的;**erratic**不稳定的;**indifferent**漠不关心;**jaded**厌倦的;**ephemeral**短暂的;**foolish**愚蠢的;**gullible**易受骗的;
 - [erratic](dic://erratic), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
 
-fidget
+fidget (fiddle, piddle)
  - 来自古英语 fiken,忙乱，不安，词源同 fickle,反复无常。拼写受-dge 影响。
  - vi. 坐卧不安, 动来动去; 摆弄  
  - n. 坐立不安的人
@@ -3768,7 +3780,7 @@ flat
 - plat-
 
 flaunt (flout)
-- brandish, swank, boast, brag
+- (brandish, swank, boast, brag, flaunt, fastuous, fastidious)
 - - 可能来自 flout 和 vaunt 的合成词。
 
 fleck
@@ -3797,7 +3809,7 @@ fleet
 - fleeting
 - fleet-footed
 
-flout (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard)
+flout (flaunt) (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, flout, defy, spurn, disregard)
 - 词源不详。可能来自 flute,笛子，长笛。原指吹笛的人，引申词义藐视，瞧不起。可能是来自人们心目中艺术家的清冷，高傲。
 - **defy**藐视;**violate**违反;**enforce**强迫，强制;**flaunt**炫耀;**abide**忍受，容忍;**uphold**支持;**obey**服从，听从;**adhere**坚持;**comply**答应;**disregard**不顾, 不理会, 无视;**subvert**推翻;
 - [dismiss](dic://dismiss), [disregard](dic://disregard), [brush aside](dic://brush aside), [brush off](dic://brush off), [discount](dic://discount), [push aside](dic://push aside), [ignore](dic://ignore)
@@ -3817,7 +3829,7 @@ flinder
 fling
 - plak-(2)
 
-flub
+flub (founder /gaffe /blunder /flummox /flub /)
 - vt. 搞坏, 弄糟  
 - vi. 瞎搞, 犯错误, 失败  
 - n. 搞坏, 胡弄, 错误
@@ -3835,7 +3847,7 @@ flub
 - A "blooper" (blooper) is similar to a flub or a slip – it's a mistake /“失误” （blooper）类似于失误或失误——这是一个错误。
 - If you try a sales technique and **flub** it, not making a sale, will you try it again? /如果你尝试了一种销售技巧，但是没有成功，一份单子都没做成，你会再试一次吗？
 
-flummery
+flummery (sycophant /commendation)
 - n. 麦片粥, 蛋奶甜点心, 假恭维
 - **nonsense**谬论;**drivel**淌口水,说傻话;**farce**笑剧,闹剧,滑稽戏;**silliness**愚蠢;**fluff**绒毛;**daft**愚蠢可笑的;**pompous**浮夸的;**pretentious**自命不凡的;**contrived**不自然的;**inane**愚蠢的;**hyperbole**夸张的语句;
 - **farce**笑剧,闹剧,滑稽戏;**superstition**迷信;**spectacle**壮观的场面或景象;**ritual**仪式;**burlesque**作戏;**rituals**典礼;**rites**仪式;**silliness**愚蠢;**garb**装束;**grotesque**奇形怪状的;**superstitious**迷信的;
@@ -3849,7 +3861,7 @@ flummox
 - be a mystery or bewildering to
 - n. 失败
 - vt. 使狼狈；使混乱；使惶惑
-- vi. 出现错误；失败
+- vi. 出现错误；失败 (founder /gaffe /blunder /flummox /flub /)
 - **confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**dazzle**耀眼的光;**annoy**骚扰;**baffling**令人困惑的;**hapless**运气不好的，倒霉的;**amuse**使发笑;**seeming**外观;**defy**藐视;**baffled**带有挡板的;**embarras**
 - [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 - [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound)
@@ -3900,7 +3912,7 @@ fold
 	- The landscape unfolded before me. /风景展现在我的眼前。
 	- He unfolded a map. /他摊开地图。
 	- there was a fascinating scene unfolding before me. /我眼前呈现出一幅迷人景象。
-	-  The stage is a chanteur unfolds, realization art value place./舞台是一个歌唱者展现自我 ，实现艺术价值的地方
+	- The stage is a chanteur unfolds, realization art value place./舞台是一个歌唱者展现自我 ，实现艺术价值的地方
 	- Is it time to break the taboo and unfold the false mythology? /现在到了打破禁忌和揭开神秘的时候了。
 	- Pace is the speed at which your narrative unfolds /节奏指的是你叙事的速度。
 	- We'll updating you on this story as it unfolds /随着故事的展开，我们会及时向你报道。
@@ -3914,7 +3926,7 @@ fold
 	- Almost every morning there was another new lamb in the sheepfold /羊棚里几乎每天早晨都会多一只小羊羔。
 	- She thought she could walk back across the field, and get over the stile; and then, in the very next field, she thought she remembered there was a hovel of furze near a sheepfold. /她想她可以走回去穿过田野， 跨过栅栏； 然后，就在下一块田地里， 她想她记得羊圈附近有一窝金雀花。
 - refold
-	- - vt. 再折起；将……再打折
+	- vt. 再折起；将……再打折
 	- It's the board that you're playing can fold and unfold and refold in all sorts of different ways. /你玩的棋盘可以以各种不同的方式折叠、展开和折叠。
 	- " At school needlework was pretty much the only thing I was any good at." I smoothed out the creases on my lap and prepared to refold a jacket /针线活几乎是我唯一擅长的事情。 ” 我抚平膝盖上的折痕， 准备重新折叠一件夹克。
 	- refolding
@@ -5357,7 +5369,7 @@ hail
 hallabaloo
 - **uproar**骚动;**controversy**争论;**commotion**暴乱;**fuss**小题大作;**fanfare**吹牛，炫耀;**buzz**发嗡嗡声;**frenzy**狂怒;**craziness**发狂,热中,狂热;**hype**大肆宣传;**fiasco**惨败;**outrage**暴行;
 
-hallow
+hallow (mallow, hallow, sallow, shallow, hollow, callow)
 - unhallowed
 - unhallow
 - hallowed
@@ -6113,7 +6125,7 @@ hide
 	- the whole hideous story. /骇人听闻的全部真相。
 	- the school was a hideous cuboid erection of brick and glass /学校是砖和玻璃垒起的丑陋的立方形建筑。
 	- I'm sorry. It's just this outfit is hideous. /对不起。只是这些服装太丑了。
-- hidebound
+- hidebound (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
 	- hide【兽皮】 + bound【绑】。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- hide,兽皮，bound,绑着，束缚。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- a. 思想偏狭顽固的, 死板的, 量小的
@@ -6962,6 +6974,7 @@ ire
 	- a barrage of irate letters / 连珠炮般的斥责信件。
 	- an irate phone call. /一个愤怒的电话
 - irascible
+	-  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy))
 	- [choleric](dic://choleric), [hotheaded](dic://hotheaded), [hot-tempered](dic://hot-tempered), [quick-tempered](dic://quick-tempered), [short-tempered](dic://short-tempered)
 	- _adj._ [ill-natured](dic://ill-natured), [angry](dic://angry)
 	- _n._ [good-natured](dic://good-natured),
@@ -6970,7 +6983,7 @@ ire
 	- His father was irascible, witty, hard drinking and ruinously improvident /他父亲的个性暴躁、风趣、有酒瘾并且丝毫没有远见
 - irascibility
 
-Irene
+Irene (evangelist)
 - irenical
 	- _[irenical](dic://irenical)_  adj. 和平的，和平主义的
 - irenic
@@ -7005,6 +7018,25 @@ irk
 
 
 ## J
+jade
+- n. 玉, 翡翠, 老马  
+- a. 绿色的, 玉制的  
+- v. (使)疲倦
+- jade - 在中世纪时西欧人中流传着宝石具有神奇的治病效用的迷信，其中玉被认为对治疗肾病特别有效。16世纪初，当西班牙人把玉从美洲带回时，他们就给它取名为piedra de ijada，其字面义是stone of the side（治肾病的石头），因为他们认为玉能治好肾痛。古法语吸收了这个名称，并把它缩略为ejade，以后l'ejade（l'为定冠词）演变为le jade（le为定冠词），就是说ejade的首字母脱落，变成了jade。到了18世纪jade进入了英语，也用以指“玉”。说来有趣，其近义词nephrite（软玉）源自意为“肾”的希腊语nephrós，大概也是因为希腊人认为玉能治肾病的缘故吧。在辞书中我们还常见到一个释义为“老马”或“荡妇”的jade，那是出自不同词源的另一个词，可能源于某种北欧语。
+- 1 - 来自法语 le jade,来自西班牙语 piedra de la ijada,冶疗肾病的玉石，来自 piedra,石头，词源同petrify,ijada,回肠，肾部。据说这种石头可以治疗和缓解肾部疾病而得名。  
+- 2 - 词源不详。
+- jadeite
+- jade (exhausted, fatigue, weariness, pall, pale, jaded, weary, fag out)
+	- _adj._ [tired](dic://tired), [satiate](dic://satiate), [satiated](dic://satiated)
+	- n. [rested](dic://rested), [insatiate](dic://insatiate), [insatiable](dic://insatiable), [unsatiable](dic://unsatiable)
+	- **cynical**愤世嫉俗的;**disillusioned**不再抱幻想的, 大失所望的;**naive**天真的，幼稚的;**weary**疲倦的;**grumpy**脾气暴躁的;**cynicism**犬儒主义;**disinterested**不感兴趣的;**clueless**无线索的;**disgruntled**不满的, 不高兴的;**complacent**满足的;**idealistic**理想主义的;
+	-  [wearied](dic://wearied)
+	- meals to tempt the most jaded appetites. /能勾起吃腻了的人的胃口的饭菜。
+	- Here is a dish that will revive jaded palates /这道菜简直可以恢复迟钝的味觉。
+	- He flitted away down the path, his head held high, with an air of somewhat jaded jauntiness /他沿着小路快步离开了，头昂得高高的，神情虽然高傲，但却显得有几分倦意。
+	- She says that people feel disillusioned and jaded. /她说人们觉得幻灭和疲惫。
+	-  And humans are undoubtedly more creative when they are not feeling tired or jaded. /毫无疑问，人们在感觉不疲惫的时候会更具创造力。
+
 jam
 - 词源不详，可能来自 cram 变体，塞进，强塞，引申词义堵塞，塞车。果酱义可能来自同一词源，即把水果压碎制成果酱。
 - [fix](dic://fix), [hole](dic://hole), [mess](dic://mess), [muddle](dic://muddle), [pickle](dic://pickle), [kettle of fish](dic://kettle of fish)
@@ -9227,6 +9259,21 @@ pick (peck, pike, pick)
 - pick up the gauntlet应战。gauntlet是欧洲中世纪武士戴于手腕部的防护手套。当一名武士向另一名武士发起决斗时，会把这个防护手套扔到对方面前，如果对方捡起来手套，则意味着对方接受决斗挑战。He seems to pick up the gauntlet only when pushedto the wall.看起来只有在被挤到墙边时他才会应战。 ​​​​
 - 来自中古英语 picken,捡，适，采摘，来自古英语 pician,刺，拔，来自 Proto-Germanic*pikona,刺，啄，敲，捡，来自 PIE*beu-,发出敲击声，拟声词，词源同 peck,pike.
 
+piddle
+- v. 撒尿, 鬼混, 拖沓处理; n. 撒尿
+- - 词源不详，可能来自拟声词 pid,嘘嘘的声音，-le,表反复。
+-  [urine](dic://urine), [piss](dic://piss), [pee](dic://pee), [weewee](dic://weewee), [water](dic://water)
+-  [wanton](dic://wanton), [wanton away](dic://wanton away), [piddle away](dic://piddle away), [trifle](dic://trifle)
+-  [make](dic://make), [urinate](dic://urinate), [puddle](dic://puddle), [micturate](dic://micturate), [piss](dic://piss), [pee](dic://pee), [pee-pee](dic://pee-pee), [make water](dic://make water), [relieve oneself](dic://relieve oneself), [take a leak](dic://take a leak), [spend a penny](dic://spend a penny), [wee](dic://wee), [wee-wee](dic://wee-wee), [pass water](dic://pass water)
+- _n._ [body waste](dic://body waste), [excretion](dic://excretion), [excreta](dic://excreta), [excrement](dic://excrement), [excretory product](dic://excretory product)
+- _v._ [spend](dic://spend), [pass](dic://pass), [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate)
+- **pee**尿;**piss**小便;**potty**傻气的;**poop**船尾;**wee**极小的;**fetch**取来;**doggie**小狗，狗;**sniff**嗤之以鼻;**puke**吐剂;**puddle**水坑，泥潭;**vomit**吐出;
+- piddle away one's time /虚度时光
+- Wedgwood wanted to " astonish the world... for I hate piddling" . /韦奇伍德想要“震惊世界… … 因为我讨厌小打小闹”。
+- Then, suddenly, it fell out of fashion, coming to be seen as piddling, not astonishing. /然后，突然间，它不再流行，并且被认为是无关紧要的，而不是什么令人震撼的东西。
+- I felt that one look at Vic's switchblade knife and gimlet gaze would have put Hayley's piddling domestic problems in some kind of reasonable perspective. /我觉得看到维克的弹簧刀和锐利目光能让哈里那些微不足道的家庭问题变得合情合理一点。
+- Having already lifted rates by nearly five percentage points over the past year—its steepest tightening in four decades—the latest increase of a quarter-point was, in numerical terms, piddling. /在过去的一年里已经将利率提高了近五个百分点——这是 40 年来最大幅度的紧缩——从数字上看，最近的 25 个基点的增长微乎其微。
+
 pike (peck, pike, pick)
 - n. 狗鱼, 梭鱼; 长矛; <方言>山峰  
 - v. 用长矛刺; <跳水>曲臀直腿
@@ -10436,7 +10483,7 @@ rite
 rive
 - reue-
 
-rivet
+rivet ()
 - 来自古法语 rivet,钉子，铆钉，来自 river,固定，系牢，钉紧，词源不详。可能进一步来自拉丁语 ripa,河岸，海滨，来自 PIE*rei,撕开，劈，砍，词源同 rift,riven,riparian.
 - n. 铆钉
 - vt. 铆接；固定；（把目光、注意力等）集中于
@@ -10455,8 +10502,7 @@ rivet
 - Right, so a riveting book, you're riveted to the book /所以一本引人入胜的书，你被这本书深深吸引。
 - Flat head rivets would reduce wind drag. /用平头铆钉可以减小风阻。
 - I was riveted. I loved it so much. /我被吸引住了。我非常喜欢它。
-- riveting
-	- engaging 
+- riveting (engaging, winning, gripping, absorbing, engrossing, riveting)
 	-  [absorbing](dic://absorbing), [engrossing](dic://engrossing), [fascinating](dic://fascinating), [gripping](dic://gripping)
 	- _adj._ [interesting](dic://interesting)
 	- _n._ [uninteresting](dic://uninteresting)
@@ -14483,7 +14529,7 @@ trifle
 - [piddle](dic://piddle), [wanton](dic://wanton), [wanton away](dic://wanton away), [piddle away](dic://piddle away)
 - [frivol](dic://frivol)
 - [dally](dic://dally), [play](dic://play)
-- trifling
+- trifling (facile, piddling, trifling, petty, frivolous, superfluous, trivial, minuscule)
 	- [dalliance](dic://dalliance), [dawdling](dic://dawdling)
 	- [negligible](dic://negligible), [paltry](dic://paltry)
 	- _n._ [delay](dic://delay), [holdup](dic://holdup)
@@ -15212,7 +15258,12 @@ whiff
 while
 - worthwhile
 - meanwhile
-- erstwhile
+- erstwhile (onetime)
+	-  erst,最早的，来自 ere 的形容词最高级形式。
+	- _adj._ [past](dic://past)
+	- _n._ [future](dic://future)
+	- **former**从前的，前者的;**long-time**为时已久的，历久的;**longtime**长时间的;**stalwart**坚定的;**hapless**运气不好的，倒霉的;**beleaguered**饱受批评的;**would-be**想要成为的,自称自许的,自充的;**nemesis**报应;**rival**竞争者;**esteemed**受人尊敬的;**fellow**同事;
+	- 
 - betweenwhiles
 - awhile
 	- But I languidly lingered awhile lost in the midst of vague musings.

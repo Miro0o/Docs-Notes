@@ -1494,17 +1494,18 @@
 			1. communization
 		16. communicate
 			1. see blow
-	2. remunerate
-		1. _[remunerate](dic://remunerate)_  vt. 酬劳；给与报酬；赔偿
-		2. _[remunerated](dic://remunerated)_  adj. 获得酬金的; v. 付给…报酬（remunerate的过去式）;
-		3. _v._ [pay](dic://pay)
-		4. **compensate**补偿;**reimburse**偿还;**pay**支付，付;**paid**付清的;**obliged**感激的;**procure**获得，取得;**employ**雇佣;**repay**偿还;**indemnity**保障, 赔偿, 补偿;**reward**报酬;**accrue**自然增加;
-		5. remunerate a person for his trouble /给某人的辛苦以报酬
-		6. they should be remunerated fairly for their work. /他们付出了劳动，应该得到较好的报酬。
-		7. The main characteristic of unpaid work is that it's not directly paid or remunerated. /无偿工作的主要特点是没有直接报酬。
-		8. It affects how we steer economies to produce more of some activities, less of others, how we also remunerate some activities more than others /这影响着我们如何引导经济去生产更多这种活动，减少那种活动，这影响我们某些活动的报酬比其他活动高。
-		9. remunerative, remuneration
-	3. municipal
+	2. remunerate (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage)
+		1.  来自拉丁语 remunerari,支付，奖励，来自 re-,向后，往回，munerari,给予，来自 munus,相互，礼物，职责，服务，词源同 mutual,municipal.即对别人的服务应支付的报酬。比较 emolument.
+		2. _[remunerate](dic://remunerate)_  vt. 酬劳；给与报酬；赔偿
+		3. _[remunerated](dic://remunerated)_  adj. 获得酬金的; v. 付给…报酬（remunerate的过去式）;
+		4. _v._ [pay](dic://pay)
+		5. **compensate**补偿;**reimburse**偿还;**pay**支付，付;**paid**付清的;**obliged**感激的;**procure**获得，取得;**employ**雇佣;**repay**偿还;**indemnity**保障, 赔偿, 补偿;**reward**报酬;**accrue**自然增加;
+		6. remunerate a person for his trouble /给某人的辛苦以报酬
+		7. they should be remunerated fairly for their work. /他们付出了劳动，应该得到较好的报酬。
+		8. The main characteristic of unpaid work is that it's not directly paid or remunerated. /无偿工作的主要特点是没有直接报酬。
+		9. It affects how we steer economies to produce more of some activities, less of others, how we also remunerate some activities more than others /这影响着我们如何引导经济去生产更多这种活动，减少那种活动，这影响我们某些活动的报酬比其他活动高。
+		10. remunerative, remuneration
+	4. municipal
 		1. _adj._ [municipality](dic://municipality), [domestic](dic://domestic)
 		2. _n._ [foreign](dic://foreign)
 		3. **municipality**自治市;**provincial**省的;**city**城市，都市;**council**理事会;**wastewater**废水;**mayor**市长;**governmental**政府的;**sewage**污水;**mayoral**市长的;**county**郡，县;**federal**联邦的;
@@ -1526,7 +1527,7 @@
 		19. One would be the municipal privileges. /比如地方政府的特权。
 		20. Municipal official Chen Bei says the situation is under control. /北京市政府官员陈蓓表示，局势已得到控制
 		21. municipally, municipalize, municipality
-	4. munificence, munificent
+	5. munificence, munificent
 		1. [largess](dic://largess), [largesse](dic://largesse), [magnanimity](dic://magnanimity), [openhandedness](dic://openhandedness)
 		2. _n._ [liberality](dic://liberality), [liberalness](dic://liberalness)
 		3. **generosity**慷慨, 大方, 宽容;**benefactor**恩人;**patronage**赞助;**piety**虔诚;**philanthropic**博爱的,慈善的;**benevolent**好心肠的;**gratitude**感激, 感谢;**bestow**授予;**generous**慷慨的，大方的;**philanthropy**博爱主义;**endowment**资助,捐助;
@@ -1577,7 +1578,7 @@
 				11. This paper is a study on the invertibility of the commutator of scalar-idempotent elements and scalar-involutory elements of a unitary ring /本文研究在一个有单位元的环中两个倍幂等元的换位子与两个倍对合元的换位子的可逆性问题。
 				12. anticommutator
 				13. decommutator
-			13. commutative
+			13. commutative (interchange, fungible, alternative, metathesis, commutative, )
 				1. adj. 交换的，交替的；（一般）代替的
 				2. _adj._ [independent](dic://independent)
 				3. _n._ [dependent](dic://dependent)
@@ -1661,7 +1662,7 @@
 			7. Antoinette looked mutinous, but she obeyed. /安托瓦妮特看上去不愿从命，但她还是服从了。
 			8. The men became mutinous and insubordinate(Walter Besan /人们变得反叛和不服从命令（瓦特·贝赞特）。
 			9. The mutinous children refused to obey their teacher /有反抗心理的孩子们拒绝听老师的话。
-		8. mutiny
+		8. mutiny (coup)
 			1. _n._ [rebellion](dic://rebellion), [insurrection](dic://insurrection), [revolt](dic://revolt), [rising](dic://rising), [uprising](dic://uprising)
 			2. _v._ [rebel](dic://rebel), [arise](dic://arise), [rise](dic://rise), [rise up](dic://rise up)
 			3. **revolt**反抗;**rebellion**叛乱;**insurrection**暴动;**uprising**起义;**treason**叛国罪;**unrest**不安;**riot**暴乱;**treachery**背信弃义, 不忠, 背叛;**coup**政变;**rioting**暴乱;**massacre**残杀;
@@ -1701,7 +1702,7 @@
 		24. _mutual interaction_ 相互酌
 		25. _mutual exclusion_ 互斥；互斥现象
 		26. _reciprocity and mutual benefit_ 互惠互利
-	11. permute
+	11. permute (metathesis)
 		1. per-完全 + mut-改变 + -e
 		2. vt. 变更, 交换, 置换, 重新排列
 		3. permutoid
@@ -4859,14 +4860,15 @@
 ### met- 表示“恐惧”。
 1. meticulosity
 2. meticulous
-	1. a. 一丝不苟的, 细心的, 小心翼翼的
-	2. 来自拉丁语 metus,恐惧，害怕，忧虑。即充满恐惧的，后引申词义谨慎的，小心翼翼的。
-	3. **painstaking**极小心的;**methodical**有条理的, 井然的;**diligent**勤勉的;**thorough**彻底的;**exacting**苛求的;**impeccable**无瑕疵的;**careful**仔细的，小心的;**painstakingly**刻苦地;**masterful**善于控制别人的;**skillful**熟练的;**rigorous**严格的，严厉的;
-	4. [precise](dic://precise), [fastidious](dic://fastidious)
-	5. [imprecise](dic://imprecise), [unfastidious](dic://unfastidious)
-	6. _[meticulous punctilious](dic://meticulous%20punctilious)_ 一丝不苟的
-	7. _[meticulous preparation](dic://meticulous%20preparation)_ 精细准备; 精当制备; 
-	8. _[meticulous marketing](dic://meticulous%20marketing)_ 精细化营销
+	1. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious)
+	2. a. 一丝不苟的, 细心的, 小心翼翼的
+	3. 来自拉丁语 metus,恐惧，害怕，忧虑。即充满恐惧的，后引申词义谨慎的，小心翼翼的。
+	4. **painstaking**极小心的;**methodical**有条理的, 井然的;**diligent**勤勉的;**thorough**彻底的;**exacting**苛求的;**impeccable**无瑕疵的;**careful**仔细的，小心的;**painstakingly**刻苦地;**masterful**善于控制别人的;**skillful**熟练的;**rigorous**严格的，严厉的;
+	5. [precise](dic://precise), [fastidious](dic://fastidious)
+	6. [imprecise](dic://imprecise), [unfastidious](dic://unfastidious)
+	7. _[meticulous punctilious](dic://meticulous%20punctilious)_ 一丝不苟的
+	8. _[meticulous preparation](dic://meticulous%20preparation)_ 精细准备; 精当制备; 
+	9. _[meticulous marketing](dic://meticulous%20marketing)_ 精细化营销
 
 
 ### + \*meue- +

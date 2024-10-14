@@ -988,7 +988,7 @@
 			2. **bovine**牛的;**goat**山羊;**goats**山羊;**sheep**羊，绵羊;**equine**马的;**cow**奶牛，母牛;**calf**小牛;**herd**兽群，畜群;**cattle**牛;**swine**猪;**recombinant**重组器官;
 		11. capriform
 		12. capricious (duplicity)
-			1. (erratic, errant, wayward, precarious, labile, fickle, versatile, volatile, flighty, capricious)
+			1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) 
 			2. _adj._ [unpredictable](dic://unpredictable), [arbitrary](dic://arbitrary)
 			3. _n._ [predictable](dic://predictable), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
 			4. **fickle**易变的;**arbitrary**随意的, 主观的;**unpredictable**无法预言的, 不可预测的;**cruel**残酷的，残忍的;**erratic**不稳定的;**tyrannical**暴君的,暴君似的;**whim**一时的兴致;**perverse**任性的,固执的;**unreasonable**不讲道理的, 非理智的;**irrational**无理性的;**illogical**不合逻辑的;
@@ -3291,13 +3291,13 @@
 		1. **cortical**皮质的;**cortex**皮质;**anterior**前面的;**dorsal**背的，背侧的;**ventral**腹部的;**fibrous**纤维的，纤维性的;**cranial**头盖的;**posterior**(在时间;
 		2. decorticator
 		3. decortication, hemidecortication
-	8. excoriate, excoriation
-		1. ex-使… + cori-皮 +ate, 表动词 → 使去皮 → 没去皮遭到严厉批评 → 严厉批评。
-		2. 
-		3. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
-		4. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
-	9. corticocerebellar
-	10. cuirass
+	8. excoriate, excoriation (esoteric, excoriate, exorcize) 
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, excoriate, indict, crab)
+		2. ex-使… + cori-皮 +ate, 表动词 → 使去皮 → 没去皮遭到严厉批评 → 严厉批评。
+		4. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
+		5. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
+	10. corticocerebellar
+	11. cuirass
 		1. _n._ [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
 		2. **armour**装甲;**armor**装甲;**tunic**束腰外衣;**cloak**斗蓬;**sword**刀，剑;**dagger**匕首，短剑;**corset**束腹，紧身褡;**spear**矛，枪;**helmet**钢盔，头盔;**shields**盾，防卫物;**torso**躯干;
 		3. cuirassier
@@ -6153,7 +6153,7 @@
 		8. cryptgenic
 	4. decrypt
 	5. procryptic
-	6. apocryphal
+	6. apocryphal.  (contrived, factitious, planned, plotted, apocryphal)
 		2. apo-离开 + cryph-隐藏 + -al表形容词 → 从隐蔽处来，不可信。
 		3. 1. _adj._ 真实性可疑的
 		4. 伪造的,杜撰的
