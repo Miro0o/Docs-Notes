@@ -589,7 +589,7 @@
 
 
 ### pall- 原意“披肩，斗篷”。源自拉丁语 pallium "cloak, coverlet, covering."
-1. pall
+1. pall (exhausted, fatigue, weariness, pall, pale, jaded, weary, fag out)
 	1. n. 幕；棺罩；遮盖物 
 	2. vt. 覆盖；使乏味 
 	3. vi. 走味
@@ -1842,25 +1842,26 @@
 			3. appellor
 	2. repeal
 		1. re-向后，往回 + peal-呼叫，引申词义废除，废止。
-	3. extrapolate
-		1. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude), [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute)
-		2. **infer**推断;**deduce**推论，推断;**generalize**概括;**interpret**解释;**predict**预报，预言;**analyze**对…进行分析，分解;**quantify**量化;**conclude**推断出;**speculate**思索;**presume**假定;**summarize**总结, 概述;
-	4. interpolate
+	3. extrapolate (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, )
+		1. extra-外 + pol-推 + -ate → 推出来 → 推断。
+		2. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude), [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute)
+		3. **infer**推断;**deduce**推论，推断;**generalize**概括;**interpret**解释;**predict**预报，预言;**analyze**对…进行分析，分解;**quantify**量化;**conclude**推断出;**speculate**思索;**presume**假定;**summarize**总结, 概述;
+	5. interpolate
 		1. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
 		2. **compute**计算;**infer**推断;**calculate**计算;**calibrate**校准;**reconstruct**重建;**interpret**解释;**subtract**减去;**deduce**推论，推断;**parse**从语法上分析;**encode**编码，译码;**render**提出;
-	5. pulse
+	6. pulse
 		1. pulsimeter
 		2. pulsion, retropulsion
 		3. pulsive
 		4. pulsometer
-	6. pulsate
+	7. pulsate
 		1. 1 - 来自 pulse,脉搏，脉冲，-ate,使
 		2. [throb](dic://throb), [pulse](dic://pulse)
 		3. [beat](dic://beat), [quiver](dic://quiver)
 		4. [beat](dic://beat), [pound](dic://pound), [thump](dic://thump), [move](dic://move), [produce](dic://produce), [make](dic://make), [create](dic://create)
 		5. **pulsing**脉冲的;**vibrate**振动;**throbbing**跳动的;**radiate**传播;**vibrating**振动;**explode**爆炸，爆发;**glows**发光;**flickering**闪烁的(摇曳的;**emit**发出，放射;**pulse**脉搏;**tremble**战栗;
 		6. counterpulsation 
-	7. compel
+	8. compel
 		1. com-共同 + pel-推 → 一起推 → 强迫。
 		2. compulsion
 			1. com-共同 + puls-推 + -ion名词后缀 → 共同推 → 强制。
@@ -1870,7 +1871,7 @@
 			2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 			3. [neurotic](dic://neurotic), [psychoneurotic](dic://psychoneurotic), [ambitious](dic://ambitious)
 			4. [unneurotic](dic://unneurotic), [unambitious](dic://unambitious), [ambitionless](dic://ambitionless)
-	8. dispel
+	9. dispel
 		1. [chase away](dic://chase away), [drive out](dic://drive out), [turn back](dic://turn back), [drive away](dic://drive away), [drive off](dic://drive off), [run off](dic://run off)
 		2. [disperse](dic://disperse), [dissipate](dic://dissipate), [break up](dic://break up), [scatter](dic://scatter)
 		3. _v._ [move](dic://move), [displace](dic://displace), [separate](dic://separate), [divide](dic://divide)
@@ -1880,7 +1881,7 @@
 		7. _[dispel freckle](dic://dispel%20freckle)_ 如何祛斑
 		8. _[countermeasures to dispel press](dic://countermeasures%20to%20dispel%20press)_ 缓压对策
 		9. _[dispel magic](dic://dispel%20magic)_ 解除魔法; 驱散魔法; 趋散魔法;
-	9. expel
+	10. expel
 		1.  [throw out](dic://throw out), [kick out](dic://kick out)
 		2.  [eject](dic://eject), [chuck out](dic://chuck out), [exclude](dic://exclude), [throw out](dic://throw out), [kick out](dic://kick out), [turf out](dic://turf out), [boot out](dic://boot out), [turn out](dic://turn out)
 		3. [oust](dic://oust), [throw out](dic://throw out), [drum out](dic://drum out), [boot out](dic://boot out), [kick out](dic://kick out)

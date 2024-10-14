@@ -5,43 +5,70 @@
 ## e
 ### e- 缓音字母。拉丁语后期，在 sc-, sp-, st- 开头的单词前面加上 e-，只是为了更方便发音，单词含义不变。
 1. escarp
-	1. escarpment
-2. eschew
-3. escritoire
-4. escutcheon
-	1. **heraldic**纹章的;**emblem**象征;**insignia**徽章;**monogram**交织文字;**faucet**旋塞;**emblems**象征动作;**crest**冠;**brass**黄铜;
-5. espalier
-6. especial, especially
-7. esperanto
-8. espionage, counterespionage
-	10. antiespionage
-9. espouse, espousal
-	1.  [marry](dic://marry), [get married](dic://get married), [wed](dic://wed), [conjoin](dic://conjoin), [hook up with](dic://hook up with), [get hitched with](dic://get hitched with)
-	2. [hoose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [unite](dic://unite), [unify](dic://unify), [accept](dic://accept)
-	3. **profess**公开表示;**beliefs**信仰;**tenets**信条;**ideology**意识形态;**denounce**谴责;**embody**体现，使具体化;**assert**断言;**preach**说教;**endorse**赞同;**proclaim**声明;**embrace**包含;
-	4. [embrace](dic://embrace), [adopt](dic://adopt), [sweep up](dic://sweep up)
-	5. **egalitarian**平等主义的;**fervent**强烈的;**ardent**热情的;**doctrine**教义;**dogmatic**教条的;**idealism**唯心主义，理想主义;**liberalism**自由主义;**staunch**坚固的;**devotion**热爱;**ideology**意识形态;**orthodoxy**正统说法;
-	6. 
-10. espy
+	1. vt. 使成斜面 
+	2. n. 内壕
+	3. e- + scarp【n. 悬崖】
+	4. escarpment
+3. eschew (elude, )
+	3. e-缓音字母 + -schew = shy, 害羞，逃避。
+	4. [shun](dic://shun)
+	5. _v._ [avoid](dic://avoid)
+	6. **shun**避开, 回避, 避免;**forgo**放弃;**abandon**离弃;**prefer**宁愿;**loathe**讨厌，厌恶;**embrace**包含;**opt**选择;**insist**坚持，强调;**favor**喜欢;**avoid**避免;**ignore**驳回诉讼，忽视，不理睬;
+	7. Maybe they didn't want to be found so they just eschewed scientists /也许它们并不想被发现，所以才避开科学家。
+	8. In recent years—having once eschewed such missions—China has become a frequent contributor of blue-helmet troops. /曾一度不介入维和行动的中国，近年来已成为蓝盔部队的一份子，频繁参与联合国维和行动。
+	9. She eschewed political causes; her fight was “against the bad poet who is prone to using too many words” /她远避政治；她的斗争是针对那些“会用词太多的差劲诗人”。
+4. escritoire
+	1. n. (有抽屉的)写字台
+5. escutcheon
+	1. n. 有花纹的盾, 孔罩
+	2.  - e-,缓和语音，-scud,盾，来自 PIE*skei,分开，词源同 shield.后用于物品名。
+	3. **heraldic**纹章的;**emblem**象征;**insignia**徽章;**monogram**交织文字;**faucet**旋塞;**emblems**象征动作;**crest**冠;**brass**黄铜;
+6. espalier
+7. especial, especially
+8. esperanto
+	1. _n._ [artificial language](dic://artificial language)
+	2. **language**语言;**English**英国人的;**Yiddish**意第绪语;**Catalan**加泰罗尼亚语;**Spanish**西班牙的;**bilingual**两种语言的;**linguistics**语言学;**linguist**语言学家;**English-speaking**说英语的;**multilingual**使用多种语言的;**Indo-European**印欧;
+	3. Radio Beijing's Esperanto program is the most popular program in Esperanto in the world. /北京广播电台的世界语栏目是世界上最流行的世界语节目。
+	4. Esperanto also has a highly productive system of constructing new words from old ones. /世界语同样有一套高产的新词生成系统，即从旧词中生成新词。
+9. espionage
+	1. A组：esquire [ɪ'skwaɪə] n.绅士和squire [skwaɪə] n.乡绅（中世纪拉丁语作 scutarius）。B组：spy n.间谍和espionage['espɪənɑːʒ] n.间谍活动。C组：estate n.财产；身份和state n.情况。什么原因？罗马帝国后期罗马人越发觉着sc-,sp-和st开头的单词难发音或发音难听，就在前边加了个e-。
+	2. _n._ [spying](dic://spying), [undercover work](dic://undercover work)
+	3. **spy**侦察;**spying**侦探;**covert**隐蔽的;**clandestine**秘密的,保密的,暗中的;**subversion**颠覆;**treason**叛国罪;**intrigue**阴谋;**bribery**贿赂;**subversive**破坏性的;**terrorism**恐怖主义;**criminal**罪犯;
+	4. counterespionage
+	5. antiespionage
+10. espouse
+	1.  [adopt](dic://adopt), [follow](dic://follow)
+	3.  [marry](dic://marry), [get married](dic://get married), [wed](dic://wed), [conjoin](dic://conjoin), [hook up with](dic://hook up with), [get hitched with](dic://get hitched with)
+	4.  [embrace](dic://embrace), [adopt](dic://adopt), [sweep up](dic://sweep up)
+	5. [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [unite](dic://unite), [unify](dic://unify), [accept](dic://accept)
+	6. **profess**公开表示;**beliefs**信仰;**tenets**信条;**ideology**意识形态;**denounce**谴责;**embody**体现，使具体化;**assert**断言;**preach**说教;**endorse**赞同;**proclaim**声明;**embrace**包含;
+	7. [embrace](dic://embrace), [adopt](dic://adopt), [sweep up](dic://sweep up)
+	8. **egalitarian**平等主义的;**fervent**强烈的;**ardent**热情的;**doctrine**教义;**dogmatic**教条的;**idealism**唯心主义，理想主义;**liberalism**自由主义;**staunch**坚固的;**devotion**热爱;**ideology**意识形态;**orthodoxy**正统说法;
+	9. It espoused the conventional wisdom of the day—what is often called the “Treasury view”. /它站在了当时的传统智慧，也就是常说的“财政部观点”一边。
+	10. Both authors espouse the importance of discipline, ritual and habit in managing time more productively. /在更高效地管理时间方面，两位作者都赞同自律、仪式和习惯的重要性。
+	11. Yes, of course. Aurelius espouses a perversion of Stoic philosophy as justification for his crimes. /当然，奥里利乌斯利用对斯多葛哲学的曲解来为他的罪行开脱。
+11. espousal
+	1. 
+12. espy
 	1. **apprehend**理解;**procure**获得，取得;**indubitably**无疑地;**ere**在…以前;**ascertain**弄清, 确定, 查明;**likewise**也;**moreover**此外;
-11. espial
+13. espial
 	1. [detection](dic://detection), [catching](dic://catching), [spying](dic://spying), [spotting](dic://spotting)
-12. establish
+14. establish
 	1. reestablishing
 	2. reestablish
 	3. preestablish
 	4. establishment
 	5. established
 	6. disestablishment
-13. estate
+15. estate
 	1. real-estate
 	2. estaed
-14. estop
+16. estop
 	1. estoppel
 	2. estoppage
 	3. **tort**侵权行为;**doctrine**教义;**plaintiff**原告;**adjudication**宣告;**appellant**上诉人;**waiver**弃权，放弃;**presumption**推测;**enforceable**可实施的;**defendant**被告;**equitable**公正的,合理的;
-15. estray
-16. estreat
+17. estray
+18. estreat
 
 
 
@@ -242,12 +269,12 @@
 
 ### ⭐ + \*eghs- + = out
 1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
-	1. exoteric
+	1. exoteric (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric)
 		1. exo-外 + ter-比较级后缀 + -ic
 		2. _n._ [esoteric](dic://esoteric)
 		3. **esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**occult**神秘的;**mysticism**神秘主义;**metaphysics**形而上学,玄学;**mystic**神秘的;**mystical**神秘的;**transcendental**超凡的;**orthodox**正统的;**dogmatic**教条的;**astrology**占星术;
 		4. He had been appointed a committee-man, and said that he knew secrets of which the exoteric knew nothing. /他被任命为委员会成员， 并说他知道外行人一无所知的秘密。
-	2. exotic
+	2. exotic (esoteric, excoriate, exorcize, exotic) 
 		1. exo-外 + -tic表形容词 → 从外面来的。
 		2.  [alien](dic://alien)
 		3. _adj._ [foreign](dic://foreign), [strange](dic://strange), [unusual](dic://unusual)
@@ -272,6 +299,8 @@
 	1. etc...
 3. **eczem-** = = ec- + zem-, 字面含义向外冒泡，医学上指“湿疹”。源自希腊语 zeein, zein "to boil."]
 	1. eczema
+		1. n. 湿疹
+		2. ec-外 + zem-冒泡 + -a，字面含义往外冒泡，描述该病的外观。湿疹是由多种内外因素引起的瘙痒剧烈的一种皮肤炎症反应。湿疹病因复杂，常为内外因相互作用结果。内因如慢性消化系统疾病、精神紧张、失眠、过度疲劳、情绪变化、内分泌失调、感染、新陈代谢障碍等，外因如生活环境、气候变化、食物等均可影响湿疹的发生。外界刺激如日光、寒冷、干燥、炎热、热水烫洗以及各种动物皮毛、植物、化妆品、肥皂、人造纤维等均可诱发。是复杂的内外因子引起的一种迟发型变态反应。
 4. **eschat-** = = last, furthest, 表示“最后”。源自希腊语 eskhatos "outer-most, last."
 	1. eschatology n. 末世论
 5. **extr-, extra-, extro-** = 表示“以外的，超过的”。源自拉丁语 exter "outward."
@@ -287,61 +316,61 @@
 		8. extralimital
 		9. extramarital
 		10. extramural
-		11. extraneous
-			1. **superfluous**过多的;**unnecessary**不必要的, 多余的;**unneeded**不需要的;**unimportant**不重要的;**irrelevant**不相干的,不相关的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unwanted**不需要的;**clutter**杂乱，混乱;**undesirable**不良的;**spurious**假的;**gratuitous**不必要的, 未要求的;
-			2. [irrelevant](dic://irrelevant), [extrinsic](dic://extrinsic), [adulterating](dic://adulterating), [adulterant](dic://adulterant)
-			3. **dilute**稀释, 冲淡;**purify**净化;**ingest**咽下;**procure**获得，取得;**distort**扭曲;**deceive**欺骗;**subvert**推翻;**alter**改变，更改;**counterfeit**仿制品, 伪造物;**enrich**使肥沃;**undermine**在某物下挖洞或挖通道;
-		12. extranuclear
-		13. extraofficial
-		14. extraordinary
-		15. extrapolate
-		16. extrasensory
-		17. extrasolar
-		18. extraterrestrial
-		19. extraterritorial
-		20. extrauterine
-		21. extravagance
+		11. extraneous (germane, fitting, condign, apposite, commensurate) (awry, sidebar)
+			2. **superfluous**过多的;**unnecessary**不必要的, 多余的;**unneeded**不需要的;**unimportant**不重要的;**irrelevant**不相干的,不相关的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unwanted**不需要的;**clutter**杂乱，混乱;**undesirable**不良的;**spurious**假的;**gratuitous**不必要的, 未要求的;
+			3. [irrelevant](dic://irrelevant), [extrinsic](dic://extrinsic), [adulterating](dic://adulterating), [adulterant](dic://adulterant)
+			4. **dilute**稀释, 冲淡;**purify**净化;**ingest**咽下;**procure**获得，取得;**distort**扭曲;**deceive**欺骗;**subvert**推翻;**alter**改变，更改;**counterfeit**仿制品, 伪造物;**enrich**使肥沃;**undermine**在某物下挖洞或挖通道;
+		13. extranuclear
+		14. extraofficial
+		15. extraordinary
+		16. extrapolate
+		17. extrasensory
+		18. extrasolar
+		19. extraterrestrial
+		20. extraterritorial
+		21. extrauterine
+		22. extravagance
 			1. extravagant
 				1. **lavish**浪费的;**opulent**富裕的;**grandiose**宏伟的;**outlandish**古怪的, 奇异的;**over-the-top**过多的;**flamboyant**显眼的, 浮夸的, 炫耀的;**outrageous**骇人的;**fanciful**想像的;**outrageously**凶残地;**luxurious**奢侈的;**glamorous**富有魅力的;
 			2. extravaganza
-		22. extravastate
-		23. extravehicular
-		24. extraversion
-		25. extravert
-		26. extraviolet
-		27. extreme
+		23. extravastate
+		24. extravehicular
+		25. extraversion
+		26. extravert
+		27. extraviolet
+		28. extreme
 			1. extremum
 			2. extremity
 			3. extremitas, extremital
 			4. extremism
 			5. extremely
 			6. extremal
-		28. extrovert, extroversion
-		29. extrinsic
-		30. exterior
+		29. extrovert, extroversion
+		30. extrinsic
+		31. exterior
 			1. exteriorly
 			2. exteriorize
 			3. exteriority
-		31. exterm
-		32. external
-		33. extra-abdominal
-		34. extracardiac
-		35. extraclast
-		36. extraembryonic
-		37. extrafine
-		38. extrajection
-		39. extramolecular
-		40. extramundane
-		41. extraoculogram
-		42. etrapancreatic
-		43. strange
+		32. exterm
+		33. external
+		34. extra-abdominal
+		35. extracardiac
+		36. extraclast
+		37. extraembryonic
+		38. extrafine
+		39. extrajection
+		40. extramolecular
+		41. extramundane
+		42. extraoculogram
+		43. etrapancreatic
+		44. strange
 			1. stranger
 			2. strangeness
 			3. strangely
 			4. estrange
 				1. estrangement
 				2. estranged
-		44. stray
+		45. stray
 			1. strayer
 			2. estray
 			3. astray
@@ -557,17 +586,18 @@
 
 
 ### + \*eleg- + = lament, 表示“悲伤”。
-1. elegiac
-	1. elegy【挽歌，悲歌】 + -iac
-	2. **melancholy**忧郁, 悲哀;**poignant**尖锐的;**evocative**引起…记忆的, 唤起…感情的;**poetic**诗的，诗歌的;**somber**昏暗的;**lyrical**抒情诗调的;**introspective**好反省的;**haunting**不易忘怀的，萦绕于心头的;**melodic**有旋律的;**poem**诗;**ballad**歌谣，民谣;
-	3. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
-3. elegist
-	1. elegy【挽歌，悲歌】 + -ist表人，一般为专家
-4. elegize
+1. elegist
+	2. elegy【挽歌，悲歌】 + -ist表人，一般为专家
+2. elegize
 	1. elegy【挽歌，悲歌】 + -ize, 表动词
-5. elegy
+3. elegy
 	1. 来自希腊语elegos, 哀诗，哀歌
 	2. **poem**诗;**poems**诗歌，诗集;**poetic**诗的，诗歌的;**melancholy**忧郁, 悲哀;**poetry**诗;**ballad**歌谣，民谣;**poet**诗人;**lament**悲叹;**poignant**尖锐的;**lyric**抒情的;**Ode**赋;
+4. elegiac
+	1. _[panegyric ode encomium eulogy](dic://panegyric%20ode%20encomium%20eulogy)_ 四大颂歌
+	2. elegy【挽歌，悲歌】 + -iac
+	3. **melancholy**忧郁, 悲哀;**poignant**尖锐的;**evocative**引起…记忆的, 唤起…感情的;**poetic**诗的，诗歌的;**somber**昏暗的;**lyrical**抒情诗调的;**introspective**好反省的;**haunting**不易忘怀的，萦绕于心头的;**melodic**有旋律的;**poem**诗;**ballad**歌谣，民谣;
+	4. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
 
 
 
@@ -738,10 +768,14 @@
 		18. Today, we know human embryos have tails that dissolve as the embryo develops. /今天，我们知道人类胚胎的尾巴会随着胚胎的发育而被溶解。
 		20. embryogeny
 		21. embryology
-		22. embryonic
-			1. _adj._ [immature](dic://immature), [early](dic://early)
-			2. _n._ [mature](dic://mature), [late](dic://late),   
-			3. **embryo**胚胎;**embryos**晶胚;**fetal**胎的，胎儿的;**mammalian**哺乳动物;**larval**幼虫状态的;**vertebrate**脊椎动物;**progenitor**祖先;**fetus**胎儿，胎;**nascent**初期的;**gestation**怀孕;**maturation**化脓;
+			1. _n._ [biology](dic://biology), [biological science](dic://biological science)
+			2. **embryo**胚胎;**biology**生物学;**anatomy**解剖学;**physiology**生理学;**embryonic**胚芽的;**embryos**晶胚;**biochemistry**生物化学;**vertebrate**脊椎动物;**genetics**遗传学;**pathology**病理学;**pharmacology**药理学,药物学;
+		22. embryonic (callow, rudimentary, elemental, )
+			1. a. 萌芽的, 初期的, 未成熟
+			2. _adj._ [immature](dic://immature), [early](dic://early) 
+			3. _n._ [mature](dic://mature), [late](dic://late),   
+			4. **embryo**胚胎;**embryos**晶胚;**fetal**胎的，胎儿的;**mammalian**哺乳动物;**larval**幼虫状态的;**vertebrate**脊椎动物;**progenitor**祖先;**fetus**胎儿，胎;**nascent**初期的;**gestation**怀孕;**maturation**化脓;
+			5. 
 		23. proembryo
 		24. carcinoembryonic
 		25. embryotoxicity
@@ -1924,9 +1958,10 @@
 11. equivalent
 	1. equivalence
 	2. equivalency
-12. equivocal, equivoque, equivoke,
-	1. equivocated
-	2. unequivocal
+12. equivocal (ambiguous)
+	1. equivoque, equivoke,
+	2. equivocated
+	3. unequivocal
 		1. _adj._ [absolute](dic://absolute), [conclusive](dic://conclusive), [straightforward](dic://straightforward), [unquestionable](dic://unquestionable), [explicit](dic://explicit), [expressed](dic://expressed)
 		2. _n._ [equivocal](dic://equivocal), [ambiguous](dic://ambiguous), [implicit](dic://implicit), [inexplicit](dic://inexplicit)
 		3. **unambiguous**不含糊的;**emphatic**加强语气的;**unequivocally**不含糊的;**conclusive**令人信服的,确凿的;**emphatically**断然地;**assertion**主张,维护;**resounding**鸣响的,回响的,回荡的,响亮的;**clear**清楚的;**unmistakable**错不了的;**definitive**权威性的;**unwavering**不动摇的,坚定的;
@@ -1942,15 +1977,15 @@
 		13. And scientists say they found unequivocal evidence of climate change. /科学家表示 他们发现了气候变化的明确证据。
 		14. The report says global warming is unequivocal, and that it's mainly being caused by human activity rather than by other factors. /该报告称全球变暖是无可争议的，主要是由人类活动而并非其他因素引起的。
 		15. unequivocally
-13. adequate
+14. adequate
 	1. ad-去，往 + equ-等同, 相等的 + -ate, 表示形容词→ 此处指足够多的。
 	2. adequacy
 	3. inadequate
 		1. **insufficient**不足的;**adequate**适当的;**ineffective**无效的;**unsatisfactory**使人不满意的;**deficient**有缺点的，有缺陷的;**lacking**缺乏的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**substandard**标准以下的;**woefully**悲伤地;**unsuitable**不合适的;**incomplete**不完全的, 未完成的;
 		2. [deficient](dic://deficient), [incapable](dic://incapable), [incompetent](dic://incompetent), [short-handed](dic://short-handed)
-14. equity
+15. equity
 	1. **investment**投资;**investor**投资者;**shareholder**股东;**valuation**估价;**securities**股票;**liquidity**资产折现力, 资产流动性;**financing**融资;**capital**首都，省会;**mortgage**抵押;**dividend**股息;**assets**资产;
-15. equate, equal
+16. equate, equal
 	1. equable
 		1. **temperate**饮食有节制的, 克己的;**agreeable**欣然同意的;**harmonious**和谐的;**equitable**公正的,合理的;**dignified**高贵的;**sensible**明智的;**favourable**赞许的, 赞同的;**orderly**整齐的;**arid**干旱的;**conducive**有助的;**pleasant**令人愉快的，舒适的;
 		2.  [even-tempered](dic://even-tempered), [good-tempered](dic://good-tempered), [placid](dic://placid)
@@ -1961,9 +1996,9 @@
 		1. **wickedness**邪恶;**sins**罪恶;**sin**过失;**righteousness**正当;**hath**有;**transgression**犯罪;**immorality**不道德,无道义;**abomination**厌恶;**wicked**邪恶的;**sinners**罪人;**deceit**欺骗;
 		2. iniquitous
 		3. inequable
-16. equalize
+17. equalize
 	1. equal【平等的】 + -ize, 表动词
-17. equanimity
+18. equanimity (composed /serenity /tranquility /equanimity /)
 	1. equ-相等 + anim-生命 + -ity, 表名词 → 生命平静 → 沉着。
 	2. anim-（生命）：代表生命之源的灵魂  
 	3. 古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的anima（阿尼玛）和阳性的animus（阿尼姆斯）。表示生命的词根anim就来自这两个拉丁文。由于生命和灵魂密不可分，所有词根anim既有“生命”、“能动”的含义，也有“精神”、“心”的含义。  
@@ -1983,10 +2018,10 @@
 	8. That equanimity stems in part from the fact that migrants in Scotland are not especially common. /这份淡定部分是源于这样一个事实，即苏格兰的移民还没那么常见。
 	9. In fact, she could endure the hospital with equanimity now because it was a perfect happy hunting ground. /事实上，她现在对医院里的事情已能镇静地应付了，因为那里还是一个很好很愉快的狩猎场呢。
 	10. Endurance and despair, equanimity and gloom, the tints of health and the pallor of death, mingled weirdly in his face /忍耐和绝望，平静和忧郁，健康的气色和死亡的灰白，在他脸上不可思议地交织在一起。
-18. equant
+19. equant
 	1. equ-相等 + -ate, 表动词。
 	2. _[equant](dic://equant)_  adj. 等分的；等径的; n. 易广；等分；均衡点；对应点；想象的天体运行轨道（（托勒密天文体系中的）;
-19. egalitarian
+20. egalitarian
 	1. egal-,平等，词源同 equal.字母 g,q 音变。
 	2. _n._ [moralist](dic://moralist)
 	3. _adj._ [democratic](dic://democratic)
@@ -2227,7 +2262,7 @@
 		7. he could never forgive his daughter's errant ways. /他永远无法原谅女儿的出格行为。
 		8. She went to Paris to bring back her errant son. /她到巴黎去把误入歧途的儿子领回来。
 		9. An errant May-fly swerved unsteadily athwart the current in the intoxicated fashion affected by young bloods of May-flies seeing life.  A swirl of water and a ‘cloop!’ /一只随波漂流的蜉蝣，满怀着血气方刚的后生对生活的憧憬，正歪歪斜斜地逆水游来。
-	6. erratic (erratic, errant, wayward, precarious, labile, )
+	6. erratic (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) (eccentric, queer, erratic, )
 		1. err-错误 + -atic → [被人认为]错误的 → 古怪的。
 		2. n. 古怪的人, 漂石  a. 不规则的; 不确定的; 不稳定的, 不可靠的
 		3. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
@@ -2403,6 +2438,8 @@
 9. effervesce, effervescent, effervescency, effervescence
 10. effloresce
 11. evanesce
+	1. evanescent 
+	2. 
 12. fluoresce
 	1. fluorescin
 	2. fluorescein
@@ -2533,15 +2570,35 @@
 		3. _v._ [disappear](dic://disappear), [vanish](dic://vanish), [go away](dic://go away)
 		4. **vanish**消失;**disappear**不见, 消失;**evaporate**蒸发;**nothingness**虚无;**linger**逗留, 徘徊;**fade**褪色;**dissipate**驱散;**reappear**再出现;**persist**持续，固执;**materialize**具体化;**emerge**浮现;
 		5. evanescence
-		6. evnescent
+		6. evanescent
+			1. e-,向外，-van,空的，词源同 vacate,vanish.
+			2. a. 逐渐消失的, 容易消散的, 短暂的
+			3. _adj._ [impermanent](dic://impermanent), [temporary](dic://temporary)
+			4. _n._ [permanent](dic://permanent), [lasting](dic://lasting)
+			5. **ephemeral**短暂的;**fleeting**飞逝的;**ethereal**天上的;**transient**短暂的;**amorphous**无定形的;**excitation**刺激;**vanishing**消失;**transcendent**卓越的;**luminous**发光的;**radiance**光辉;**elusive**难以捉摸的;
+			6. _evanescent wave_ 消散波；损耗波；隐失波
+			7. The evanescent post-war economic boom was quickly followed by a deep recession. /大萧条紧随短暂的战后经济繁荣而来。
+			8. Vyse looked at him with an evanescent smile. /Vyse 看着他， 带着一闪即逝的微笑。
+			9. In our images, these reflections appear as white, evanescent, moving features, just like plumes /在我们的图像中，这些反射表现为白色，转瞬即逝，移动的特征，就像羽毛一样。
+			10. Lights flash on screens and underfoot, creating dots that become spirals, trails and other evanescent shapes. /灯光在屏幕上和脚下闪烁， 点缀成螺旋形、轨迹和其他转瞬即逝的形状。
+			11. But the idea was so evanescent, and floated by so like a traveling butterfly, that by the time I went again a few days later to look at the view at evening I barely remembered it. /但这个念头转瞬即逝，像一只旅行中的蝴蝶飘过，以至于几天后我晚上再次去看风景时，我几乎不记得了。
 	17. evanish
 		1. _[evanish](dic://evanish)_  vi. 消失；消灭
 	18. vacate
 		1. vac-空 + -ate, 表动作 → 弄空。
 		2. vt.vi. 使空出, 搬出, 腾出, 不再使用/居住, 解除(职位), 撤离(阵地), 辞职, 退位  vt. 取消, 使作废
-		3. vacancy
-		4. supervacaneous
-	21. vacant
+		3. vi. 空出，腾出；辞职；休假 vt. 空出，搬出；取消；使撤退
+		4. [resign](dic://resign), [renounce](dic://renounce), [give up](dic://give up)
+		5.  [empty](dic://empty), [abandon](dic://abandon)
+		6.  [revoke](dic://revoke), [annul](dic://annul), [lift](dic://lift), [countermand](dic://countermand), [reverse](dic://reverse), [repeal](dic://repeal), [overturn](dic://overturn), [rescind](dic://rescind)
+		7. _v._ [leave office](dic://leave office), [quit](dic://quit), [step down](dic://step down), [resign](dic://resign), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
+		8. **relocate**重新安置;**occupy**占据，占领;**demolish**毁坏;**relinquish**交出, 让给;**withdraw**撤消;**reinstate**使恢复原职;**reconsider**重新考虑;**vacant**空的;**eviction**逐出;**evacuate**疏散;**revoke**废除;
+		9. vacate a professorship /辞去教授
+		10. Hotel guests are requested to vacate their rooms by twelve noon. /旅馆的房客按规定要在中午十二点之前退房。
+		11. Objection! The prior felony has been vacated! /反对，前述重罪指控已被取消！
+		13. vacancy
+		14. supervacaneous
+	19. vacant
 		1. _adj._ [empty](dic://empty)
 		2. _n._ [full](dic://full)
 			1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。  
@@ -2550,8 +2607,8 @@
 			4. [blank](dic://blank) 指上面没有写字、印刷或做记号的空白表面，或指上面留着准备被填写的空白处。  
 			5. [open](dic://open) 指未被占有，从而可被别人得到的。
 		3. **vacancy**空缺;**empty**空的;**occupied**已占用的;**derelict**玩忽职守的;**dilapidated**破旧的;**occupy**占据，占领;**vacancies**空缺额;**vacate**空出，腾出;**unused**从未用过的;**abandoned**被抛弃的;**undeveloped**未开发的;
-	22. vanish
-		1. - 缩写自拉丁语 evanescere,来自 e-,向外，-van,空出，虚无，词源同 vain.引申词义消失。
+	20. vanish
+		1. 缩写自拉丁语 evanescere,来自 e-,向外，-van,空出，虚无，词源同 vain.引申词义消失。
 		2. van-空 + -ish表动词 → 空空 → 消失了。
 		3. [disappear](dic://disappear), [go away](dic://go away)
 		4. [disappear](dic://disappear), [go away](dic://go away)
@@ -2566,19 +2623,53 @@
 		9. **disappear**不见, 消失;**reappear**再出现;**evaporate**蒸发;**mysteriously**神秘地,不可思议地,难以理解地;**fade**褪色;**magically**如魔法般地,用魔法地;**suddenly**忽然;**fades**衰老;**dissipate**驱散;**instantaneously**即刻;**appear**出现;
 		10. _vanish from_ 从…失去；从…消失
 		11. _vanish away_ 消失
-	24. vanity
-	25. vacreator
-	26. vacuscope
-	27. vacuseal
-	28. vacustat
-	29. vaunt
+	21. vanity
+	22. vacreator
+	23. vacuscope
+	24. vacuseal
+	25. vacustat
+	26. vaunt (faunt /brag /contempt)
 		1. van-空 → 目空一切 → 自夸。
-	30. wanton
-		1. 1 - 来自古英语 wan-towen,缺乏控制，自制，wan-,缺乏，词源同 want,towen,拉，词源同 tow.引申词义恣意妄为的，缺乏管教的，淫荡的等。
+	27. wanton (voluptuous)
+		1. 来自古英语 wan-towen,缺乏控制，自制，wan-,缺乏，词源同 want,towen,拉，词源同 tow.引申词义恣意妄为的，缺乏管教的，淫荡的等。
+		2. adj. 嬉戏的；繁茂的；荒唐的；无节制的；放纵的 
+		3. n. 荡妇；水性杨花的女人  vi. 放肆；嬉戏；闲荡  vt. 挥霍
+		6. _adj._ 蛮横的，放肆的，毫无道理的
+		7. 恣意的；肆无忌惮的
+		8. 淫乱的，放荡的
+		9. 无节制的，不受约束的
+		10. 不负责任的；胡乱的；反复无常的
+		11. (草木)繁茂的
+		12. 嬉戏的；淘气的
+		13. _vi._ 任性；反复无常
+		14. 嬉戏
+		15. 生活奢侈；放肆
+		16. _vt._ 挥霍(钱财)
+		17. _n._ 嬉闹的人
+		18. 奢侈享乐的人
+		19. 淫荡的人(尤指荡妇)
+		20. _adv._ 放肆地；淫乱地；无节制地
+		21. _n._ 淫乱；放荡；无节制
+		22.  [piddle](dic://piddle), [wanton away](dic://wanton away), [piddle away](dic://piddle away), [trifle](dic://trifle)
+		23.  [wanton away](dic://wanton away), [trifle away](dic://trifle away)
+		24.  [luxuriate](dic://luxuriate)
+		25.  [motiveless](dic://motiveless), [unprovoked](dic://unprovoked)
+		26.  [easy](dic://easy), [light](dic://light), [loose](dic://loose), [promiscuous](dic://promiscuous), [sluttish](dic://sluttish)
+		27. _n._ [sensualist](dic://sensualist)
+		28. _v._ [spend](dic://spend), [pass](dic://pass), [live](dic://live), [expend](dic://expend), [drop](dic://drop), [consume](dic://consume), [squander](dic://squander)
+		29. _adj._ [unmotivated](dic://unmotivated), [unchaste](dic://unchaste)
+		30. _n._ [motivated](dic://motivated), [chaste](dic://chaste)
+		31. **reckless**鲁莽的，不顾后果的;**willful**有意的;**unbridled**无辔头的;**lust**性欲;**senseless**无感觉的;**brazen**黄铜制的;**careless**粗心的;**depraved**堕落的;**shameless**无耻的;**murderous**蓄意谋杀的;**insatiable**不知足的;
+		32. wanton waste of money /乱花钱
+		33. sheer wanton vandalism. /纯粹故意的破坏行为。
+		34. where wanton ivy twines. /繁茂的常春藤缠绕的地方。
+		35. wanton extravagance; wanton depletion of oil reserves. /无节制的奢侈；石油资源的过度消耗
+		36. She is living in wanton luxury /她生活极其奢侈。
+		37. Its origin—jealousy perhaps, or wanton cruelty—was yet to be unravelled. /它的起源——也许是嫉妒，或者是肆意的残忍——还有待阐明。
 2. wane (wax and wane / bane and boon /weal and woe /ebb and flow /boom and doom)
 	1. n. 减少, 衰微, 败落, 亏缺, 月亏  vi. 变小, 亏缺, 衰落, 消逝, 退潮
 	2. wane [weɪn] vi. 衰落；变小；亏缺；退潮；消逝，n. 衰退；月亏；衰退期；缺损。这个单词与wax意思基本相反，日耳曼词源，与waste和want等有关，与拉丁来源的vain徒劳的；自负的和vast以及void空的和vacuum真空等同源。我们说月有阴晴圆缺，用上wax和wane这两个单词就是The moon waxes and wanes。
-4. want
+3. want
 	1. n. 需要的东西, 缺乏, 贫困, 需要  
 	2. vt. 要, 希望, 应该, 缺少  vi. 生活困苦, 需要, 缺少
 	3. wants
@@ -2595,7 +2686,7 @@
 		4. affairs can lead to unwanted pregnancies. /风流韵事会导致意外怀孕。
 		5. This notice should keep unwanted visitors out /这条启事能把闲人拒之门外。
 		6. But a person bivouac in street, who feels unwanted by people, unloved by people, terrified, the person who throw over by society——such poverty make people so heartache and so intolerability /但是，如果一个人露宿街头，感到不为人所要，不为人所爱，惶恐不安，被社会抛弃——这样的贫困让人如此心痛，如此令人无法忍受。
-5. waste
+4. waste
 	1. n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物  
 	2. a. 废弃的, 荒芜的, 多余的  
 	3. vt. 浪费, 消耗, 使荒芜  

@@ -192,7 +192,7 @@
 	17. subject
 	18. intraject
 	19. introjection
-	20. conjecture (conjure, hypothesis)
+	20. conjecture (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, )
 		1. con-强调 + ject-扔，投掷 + -ure, 表名词。
 		2. conjecture [kən'dʒektʃə] n.推测；猜想，vi.&amp;vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。比如著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 ​​​​
 		3.  [speculation](dic://speculation)

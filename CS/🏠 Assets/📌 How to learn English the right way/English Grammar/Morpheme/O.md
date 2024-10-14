@@ -488,7 +488,7 @@
 
 
 ### oner- = load, 表示“负担”。源自希腊语 onus (词干 oner-) "burden."
-1. exonerate (vindicate, convict, verdict)
+1. exonerate (vindicate, convict, verdict) (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 	1. ex-出 + oner-负担 + -ate, 表动词 → 从负担中摆脱出来 → 无罪释放。
 	2. _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge)
 	3. **convict**证明…有罪;**discredit**败坏…的名声;**prosecute**检举、告发某人;**wrongdoing**坏事;**accuse**控告，指控;**condemn**判刑，定罪;**blame**责备;**prove**证明;**punish**严厉对待;**prosecution**起诉, 诉讼;**acquittal**宣告无罪;

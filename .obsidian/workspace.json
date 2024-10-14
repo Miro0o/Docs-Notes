@@ -260,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Y.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/F.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -405,7 +405,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -422,32 +423,32 @@
   },
   "active": "5c43c7df51ab8fc6",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/N.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/U.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/H.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/I.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/U.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/F.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Y.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux Directory System & FHS.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux Directory System & FHS.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
     "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
-    "CS/Software Engineering/Web Development/🖥️ Web FrontEnd Dev/📌 Web Frontend Basics/Frontend JS Techniques/JS Gadgets/MathJax.md",
     "Assets/Pics/Screenshot 2024-10-10 at 22.13.43.png",
     "Assets/Pics/Screenshot 2024-10-10 at 21.38.06.png",
     "Assets/Pics/Screenshot 2024-10-10 at 21.22.22.png",

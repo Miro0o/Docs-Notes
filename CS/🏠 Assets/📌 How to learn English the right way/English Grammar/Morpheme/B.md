@@ -857,23 +857,27 @@
 ### + \*bhars- +
 #### + \*bhars- (1) + 
 1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
-	1. fastidious
-		1. 来自拉丁语 fastus,傲慢，骄傲，蔑视。其原义为骄傲的，过于骄傲的。并引申相关词义。
-		2. _adj._ [choosy](dic://choosy), [choosey](dic://choosey), [dainty](dic://dainty), [nice](dic://nice), [overnice](dic://overnice), [prissy](dic://prissy), [squeamish](dic://squeamish)
-		3. _n._ [unfastidious](dic://unfastidious)
-		4. **weblog**网络日志;**zealous**热心的，热情的，积极的;**meticulous**极仔细的;**write-up**报导,评论;**admirable**令人钦佩的;
-		5. _[fastidious](dic://fastidious)_  adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
-		6. _[be fastidious](dic://be%20fastidious)_  讲究的; 挑剔; 吹求;
-		7. the child seemed fastidious about getting her fingers sticky or dirty. 这女孩似乎特别怕把手指弄得黏乎乎、脏兮兮的。
-		8. Decliners are fastidious folk, they won't touch a door knob without sanitising it, let alone shake hands. /后退式的人比较挑剔，如果门把手不消毒都不会碰，更不要说握手。
-		9. How was it that a man so exact and fastidious could have made this error of a day? /现在人们要问，一个象他这样精细的人，怎会把日子记错的呢？
-		10. Let the high and mighty celebrate their greatness with fastidious etiquette. Let them even copy the rest of Europe if they must /让那些趾高气扬的人们去庆祝他们伟大的繁缛礼节，如果他们需要，就让他们去向欧洲其它国家去学吧。
-		11. fastidiousness
-		12. fastidiously
-	3. fastuous
-		1. _[fastuous](dic://fastuous)_  adj. 傲慢的；炫耀的；虚饰的
-		2. So far,as if I don't have anything to fastuous,nothing can coxy. 到现在为止，我好像真的没什么可值得炫耀的东西，没什么值得骄傲的。
-		3. 
+	1. fastidious (factitious)
+		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious)
+		2. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious)
+		3. 来自拉丁语 fastus,傲慢，骄傲，蔑视。其原义为骄傲的，过于骄傲的。并引申相关词义。
+		4. _adj._ [choosy](dic://choosy), [choosey](dic://choosey), [dainty](dic://dainty), [nice](dic://nice), [overnice](dic://overnice), [prissy](dic://prissy), [squeamish](dic://squeamish)
+		5. _n._ [unfastidious](dic://unfastidious)
+		6. **weblog**网络日志;**zealous**热心的，热情的，积极的;**meticulous**极仔细的;**write-up**报导,评论;**admirable**令人钦佩的;
+		7. _[fastidious](dic://fastidious)_  adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
+		8. _[be fastidious](dic://be%20fastidious)_  讲究的; 挑剔; 吹求;
+		9. the child seemed fastidious about getting her fingers sticky or dirty. 这女孩似乎特别怕把手指弄得黏乎乎、脏兮兮的。
+		10. Decliners are fastidious folk, they won't touch a door knob without sanitising it, let alone shake hands. /后退式的人比较挑剔，如果门把手不消毒都不会碰，更不要说握手。
+		11. How was it that a man so exact and fastidious could have made this error of a day? /现在人们要问，一个象他这样精细的人，怎会把日子记错的呢？
+		12. Let the high and mighty celebrate their greatness with fastidious etiquette. Let them even copy the rest of Europe if they must /让那些趾高气扬的人们去庆祝他们伟大的繁缛礼节，如果他们需要，就让他们去向欧洲其它国家去学吧。
+		13. fastidiousness
+		14. fastidiously
+	3. fastuous 
+		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious)
+		2. (brandish, swank, boast, brag, flaunt, fastuous, fastidious)
+		4. _[fastuous](dic://fastuous)_  adj. 傲慢的；炫耀的；虚饰的
+		5. So far,as if I don't have anything to fastuous, nothing can coxy. 到现在为止，我好像真的没什么可值得炫耀的东西，没什么值得骄傲的。
+		6. 
 2. brad
 	1. _n._ [nail](dic://nail)
 	2. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
@@ -1245,12 +1249,12 @@
 		7. **textile**纺织品，织物;**cloth**布，织物;**vulgar**粗俗的;**rags**抹布;**pompous**浮夸的;**bourgeois**资产阶级的;**Elizabethan**伊丽莎白女王的;
 		8. a smokescreen of fustian and fantasy.
 	3. fustic
-		1. _n._ 佛堤树,由该树提炼的黄色染料
-	4. fustigate
+		1. _n._ 佛堤树,由该树提炼的黄色染料 
+	4. fustigate (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe)
 		1. vt. 用棍棒打；抨击
 		2. fustigation
 			1. n. 用棍棒殴打,抨击
-	5. fusty (fusty, musty, dusty, feisty, fussy)
+	5. fusty (fusty, musty, dusty, feisty, fussy) (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
 		1. 来自古法语 fuste,瓶塞，酒塞，来自拉丁语 fustis,短棍，木棍，其原义为瓶塞味的。后来引申词义霉臭的，守旧的。比较 corked.
 		2. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
 		3. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
@@ -1373,7 +1377,7 @@
 
 ### + \bheg- +
 1. **bank-, bench-** = bench, 表示“长椅”。源自日耳曼语 *bankiz, *bankon- "bank of earth."
-	1. banquet (bouquet)
+	1. banquet (bouquet, banquet cachet, crotchet, coquet)
 		1. 源自法语，和 bench【椅子】同源，词尾 -el 是小词后缀。古宴会时，人人面前摆张小凳子，用以放置食物。
 		2. banquet（宴会）：西方请客时摆在长凳上的小点心  
 		3. 英语单词banquet表示正式的宴会，如国宴，所以一看到banquet这个单词，很多人就会联想到美食琳琅满目的豪华宴会，但实际上，banquet这个词在历史上跟豪华一点关系也没有。banquet由bangu和et构成，其中，banqu源于拉丁语bancus，即bench（长凳），et表示“小的东西”。所以该词的字面意思就是摆在长凳上的小点心。16世纪的西方正式宴会上，当吃完正餐后或在两顿正餐之间，主人会在长凳上摆上各种小点心来款待客人，类似现在的饭后甜点。banquet原本指的就是这种小点心，而不是宴会。15世纪后，banquet的词义发生变化，用来表示宴会本身而不是宴会后的小点心。  
@@ -1451,7 +1455,7 @@
 	2. a preparation of the leaves and flowers of the hemp plant; much used in India
 	3. _n._ [soft drug](dic://soft drug)
 	4. **ghee**酥油;**opium**鸦片;**cannabis**印度大麻;**liquor**酒，含酒精饮料;**marijuana**大麻;**alcohol**酒精，乙醇;**booze**酒;**narcotic**麻醉的;**Holi**胡里节;**medicinal**医学的;**ecstasy**狂喜;
-4. bungle (budge, bulge, bugle)
+4. bungle (budge, bulge, bugle) (founder /gaffe /blunder /flummox /flub /bungle /blooper /bloomer /pratfall /botch up /bodge /blow /fluff /bollix /bollocks /bobble) 
 	1. [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [pratfall](dic://pratfall), [foul-up](dic://foul-up), [fuckup](dic://fuckup), [flub](dic://flub), [botch](dic://botch), [boner](dic://boner), [boo-boo](dic://boo-boo)
 	2.  [botch](dic://botch), [bodge](dic://bodge), [bumble](dic://bumble), [fumble](dic://fumble), [botch up](dic://botch up), [muff](dic://muff), [blow](dic://blow), [flub](dic://flub), [screw up](dic://screw up), [ball up](dic://ball up), [spoil](dic://spoil), [muck up](dic://muck up), [fluff](dic://fluff), [bollix](dic://bollix), [bollix up](dic://bollix up), [bollocks](dic://bollocks), [bollocks up](dic://bollocks up), [bobble](dic://bobble), [mishandle](dic://mishandle), [louse up](dic://louse up), [foul up](dic://foul up), [mess up](dic://mess up), [fuck up](dic://fuck up)
 	3. _n._ [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
@@ -1653,11 +1657,12 @@
 			1. _[deflagrator](dic://deflagrator)_  n. 爆燃器
 		11. deflagration
 	4. flagrant
-		3. **blatant**明目张胆的;**egregious**极坏的;**blatantly**公开地;**brazen**黄铜制的;**shameless**无耻的;**willful**有意的;**disgraceful**可耻的,丢脸的,不光彩的;**outrageous**骇人的;**hypocrisy**伪善;**shameful**可耻的;**heinous**可憎的;
-		4. **despicable**可鄙的,卑鄙的;**horrific**可怕的;**vile**卑鄙的;**atrocity**暴行;**horrendous**可怕的, 恐怖的;**atrocious**恶毒的;**egregious**极坏的;**hideous**可怕的;**unspeakable**恶劣得难以形容的;**shameful**可耻的;**barbaric**野蛮的，粗野的;
-		5. flagrancy
-		6. flagrant-foul
-	5. flame
+		1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant )
+		2. **blatant**明目张胆的;**egregious**极坏的;**blatantly**公开地;**brazen**黄铜制的;**shameless**无耻的;**willful**有意的;**disgraceful**可耻的,丢脸的,不光彩的;**outrageous**骇人的;**hypocrisy**伪善;**shameful**可耻的;**heinous**可憎的;
+		3. **despicable**可鄙的,卑鄙的;**horrific**可怕的;**vile**卑鄙的;**atrocity**暴行;**horrendous**可怕的, 恐怖的;**atrocious**恶毒的;**egregious**极坏的;**hideous**可怕的;**unspeakable**恶劣得难以形容的;**shameful**可耻的;**barbaric**野蛮的，粗野的;
+		4. flagrancy
+		5. flagrant-foul
+	6. flame
 		1. nonflammable
 		2. aflame
 			1. [ablaze](dic://ablaze), [aroused](dic://aroused)
@@ -3745,18 +3750,13 @@
 		7. _[gender dysphoria](dic://gender%20dysphoria)_  性别焦虑症（对自己生理和心理性别有错位认识，并有不舒服或者焦虑的感受）
 		8. Be suitable for the people with insomnia and dreaminess, hypodynamia, sallow complexion, dysphoria, depressed expression, or suffering from climacteric syndrome (pale tongue thin coating). /适于失眠多梦、乏力、面色干黄，心情烦燥、神情抑郁，更年期综合征（舌淡苔薄）者服用。
 	4. euphoria
-		10. euphoric
-			1. _adj._ [euphoriant](dic://euphoriant), [expansive](dic://expansive)
-			2. _n._ [dysphoric](dic://dysphoric), [distressed](dic://distressed), [unhappy](dic://unhappy)
-			3. **euphoria**精神欢快，欣快;**ecstatic**狂喜的;**giddy**头晕的;**ecstasy**狂喜;**blissful**充满喜悦的;**heady**易使人醉〔发晕〕的;**intoxicating**醉人的;**joyous**令人高兴的;**elated**兴高采烈的;**exhilarating**令人振奋的;**feeling**感觉，触觉;
-			4. he heaved a euphoric sigh of relief. /他欣慰地舒了口气。
-			5. a euphoric sense of freedom /对自由的兴奋感。
-			6. The atmosphere was euphoric, he turned to the stands and shouted to his audience. /The atmosphere was euphoric, he turned to the stands and shouted to his audience.当时气氛很热烈，他转向看台向观众大喊起来。
-			7. The win spot euphoric celebrations across Croatia as fans filled streets and squares waving flags and chanting. /克罗地亚胜利地点的人们欣喜若狂，球迷们在街道和广场上挥旗高歌。
-	5. metaphor
+		1. (e)su-
+		2. euphoric
+			1. 
+	6. metaphor
 		1. _n._ [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
 		2. **metaphorical**隐喻般的;**analogy**类似;**allegory**寓言;**allusion**暗示;**metaphorically**用比喻地;**symbolism** 象征主义, 象征手法;**literal**逐字的;**symbolic**使用符号的;**figurative**比喻的;**idiom**成语，习语;**parable**寓言，比喻;
-	6. semaphore
+	7. semaphore
 		1. _n._ [apparatus](dic://apparatus), [setup](dic://setup)
 		2. _v._ [sign](dic://sign), [signal](dic://signal), [signalize](dic://signalize), [signalise](dic://signalise), [communicate](dic://communicate), [intercommunicate](dic://intercommunicate)
 		3. **signalling**发信号;**telegraph**电报;**flag**旗帜，国旗;**signals**信号;**synchronization**同一时刻;**signal**信号;**flags**标记;
@@ -3764,10 +3764,10 @@
 		5. _[semaphores](dic://semaphores)_  n. 信号；[计] 信号量；旗语；信号灯（semaphore的复数）; v. 用信号向…发出；打旗语（semaphore的三单形式）; 
 		6. _[semaphore signal](dic://semaphore%20signal)_  臂板信号；手旗信号；横杆信号
 		7. _[binary semaphore](dic://binary%20semaphore)_  二元信号灯
-	7. phoresy
+	8. phoresy
 		1. _[phoresy](dic://phoresy)_  n. 携运；[生态] 传运；寄载现象
 		2. That makes the duo the oldest known fossil evidence of hitch-hiking behavior, or **phoresy**, in a large group of mites called the Astigmata. /这个“二人组”就成了已知最古老的化石证据，来支持无气门亚目一类螨虫的搭便车现象，或称寄载现象。
-	8. luminophor
+	9. luminophor
 10. burden
 #### + \*bher- (2) +
 
@@ -5080,23 +5080,27 @@
 			1. fractionalize
 		10. fractionable
 		11. effraction
-	5. fractious
-		1. - adj. 易怒的；倔强的，难以对待的
-		2. 来自 PIE*bhreg,分开，破开，词源同 break,fragment.即破开，引申词义暴躁，易怒。
-		3. fract-折断 + -ious形容词后缀 → 碎的 → 脾气易碎。
-		4. **contentious**容易引起争论的,好争论的;**tumultuous**无秩序的;**combative**好战的;**chaotic**混乱的，无秩序的;**divisive**分裂的;**unruly**不守规矩的;**fraught**担心的，忧虑的;**bickering**争吵;**turbulent**骚动的;**protracted**<书>延长的;**volatile**不稳定的;
-		5. _adj._ [disobedient](dic://disobedient), [ill-natured](dic://ill-natured), [difficult](dic://difficult), [hard](dic://hard)
-		6. _n._ [obedient](dic://obedient), [good-natured](dic://good-natured), [easy](dic://easy)
-		7. Overspending by fractious regions has been painfully brought under control /脾气暴躁地区造成的超支痛苦也控制住了。
-		8. Meanwhile, the fighting opposition inside Syria is growing ever more fractious. /同时，叙利亚境内的反对派武装力量还在不断失控中。
-		9. Racing for fractious coalition talks that will test Benjamin Netanyahu's political instincts. /竞争联盟谈判将考验本杰明·内塔尼亚胡的政治直觉。
-		10. Yet simultaneously, members of Britain's third party-usually a fractious bunch-seemed in a splendid mood /但同时，通常脾气暴躁的英国第三大党的成员们似乎心情大好。
-		11. They don't want the refugees to go there. The relationship between islanders and refugees has frequently been fractious /他们不想让难民去那里。岛民和难民之间的关系经常是不稳定的。
-		12. 
-		13. anfractuosity
+	5. fractious (factitious, factious, fractious)
+		1. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy))
+		2. - adj. 易怒的；倔强的，难以对待的
+		3. 来自 PIE*bhreg,分开，破开，词源同 break,fragment.即破开，引申词义暴躁，易怒。
+		4. fract-折断 + -ious形容词后缀 → 碎的 → 脾气易碎。
+		5. _adj._ [ill-natured](dic://ill-natured)
+		6. _n._ [good-natured](dic://good-natured)
+		7. **cranky**暴躁的;**irritable**易怒的, 急躁的;**grumpy**脾气暴躁的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**condescending**降低身份的,屈尊的;**angry**生气的;**pompous**浮夸的;**impatient**不耐烦的, 急躁的;**obnoxious**可憎的;
+		8. **contentious**容易引起争论的,好争论的;**tumultuous**无秩序的;**combative**好战的;**chaotic**混乱的，无秩序的;**divisive**分裂的;**unruly**不守规矩的;**fraught**担心的，忧虑的;**bickering**争吵;**turbulent**骚动的;**protracted**<书>延长的;**volatile**不稳定的;
+		9. _adj._ [disobedient](dic://disobedient), [ill-natured](dic://ill-natured), [difficult](dic://difficult), [hard](dic://hard)
+		10. _n._ [obedient](dic://obedient), [good-natured](dic://good-natured), [easy](dic://easy)
+		11. Overspending by fractious regions has been painfully brought under control /脾气暴躁地区造成的超支痛苦也控制住了。
+		12. Meanwhile, the fighting opposition inside Syria is growing ever more fractious. /同时，叙利亚境内的反对派武装力量还在不断失控中。
+		13. Racing for fractious coalition talks that will test Benjamin Netanyahu's political instincts. /竞争联盟谈判将考验本杰明·内塔尼亚胡的政治直觉。
+		14. Yet simultaneously, members of Britain's third party-usually a fractious bunch-seemed in a splendid mood /但同时，通常脾气暴躁的英国第三大党的成员们似乎心情大好。
+		15. They don't want the refugees to go there. The relationship between islanders and refugees has frequently been fractious /他们不想让难民去那里。岛民和难民之间的关系经常是不稳定的。
+		16. 
+		17. anfractuosity
 			1. n. 弯曲；弯曲的水道；复杂或曲折的过程
 			2. an-=ambi- + fractu-折断 + -osity
-		14. anfractuous
+		18. anfractuous
 			1. an-=ambi- + fractu-折断 + -ous
 			2. _[anfractuous](dic://anfractuous)_  adj. 弯曲的，曲折的；错综复杂的
 			3. _[anfractuous daedal reticula sinuous](dic://anfractuous%20daedal%20reticula%20sinuous)_ 错综复杂的; 错综庞杂的; 盘根错节的;
@@ -5115,13 +5119,17 @@
 			6. [shatter](dic://shatter) 指破裂为许多支离破碎的碎片，多用指易碎事物。  
 			7. [smash](dic://smash) 指突然而猛烈地重击某物，使之破碎或完全变形。
 		6. **dislocation**转位;**femur**股骨;**rupture**破裂;**deformation**损形;**bone**骨;**ligament**韧带;**tendon**腱;**injury**伤害，损害;**femoral**股骨的;**ankle**踝关节，踝;**vertebrae**椎骨;
-		7. refracture
-		8. pseudfracture
-		9. microfracture
-		10. infracture
-		11. fracturing
-		12. fractured
-		13. effracture
+		7. a fracture of the skull /颅骨断裂
+		8. a multiple fracture of the femur. /多发性股骨骨折。
+		9. fractured the delicate balance of power. /破坏了权利的微妙平衡
+		10. And I'm hoping there's not a fracture because these dogs don't stay still. /我希望它不会骨折，因为这些狗不会静止不动。
+		11. refracture
+		12. pseudfracture
+		13. microfracture
+		14. infracture
+		15. fracturing
+		16. fractured
+		17. effracture
 	9. fragile
 		1. fragilocyte
 		2. fragility
@@ -5181,7 +5189,7 @@
 			5. **repayment**偿还;**assemblage**聚集;
 			6. The article brings out the system arrangement about defrayal of rural education, choice of industrial structure and township and village enterprise /从农村教育投入、产业结构选择和城镇化建设三方面提出促进江苏省农村劳动力转移的制度安排。
 		5. defrayable
-	15. frail (flail, fray, defray)
+	14. frail (flail, fray, defray)
 		1. [fallible](dic://fallible), [imperfect](dic://imperfect), [weak](dic://weak)
 		2. [delicate](dic://delicate), [fragile](dic://fragile)
 		3. _n._ [weight unit](dic://weight unit), [weight](dic://weight), [basket](dic://basket), [handbasket](dic://handbasket)
@@ -5202,9 +5210,9 @@
 			6. the increasing frailty of old age. /晚年渐增的虚弱。
 			7. Despite increasing physical frailty, he continued to write stories. /尽管身体越来越虛弱，他仍然继续写小说。
 		8. frailly
-	16. ossifrage
+	15. ossifrage
 		1. n. 鱼鹰
-	17. suffrage (suffer)
+	16. suffrage (suffer)
 		1. suf-在下面 + frag-打碎 + -e → 打碎器皿庆祝胜利 → 表示赞成 → 投票。
 		2. n. 选举权；投票；参政权；代祷；赞成票
 		3. suffrage（选举权）：通过叫喊声或碎瓦片来表决  
@@ -5225,17 +5233,17 @@
 		13. suffragium
 		14. suffragist
 		15. suffragette
-	19. biofraction
-	20. fractoconfformity
-	21. fractus
+	17. biofraction
+	18. fractoconfformity
+	19. fractus
 		1. _[fractus](dic://fractus)_  adj. 碎云的
-	22. frangible, infrangible
+	20. frangible, infrangible
 		1. _adj._ [breakable](dic://breakable)
 		2. _n._ [unbreakable](dic://unbreakable)
 		3. **annular**环形的，有环纹的;**fastener**扣件;**casing**盒;**thermoplastic**热后可塑性的;**projectile**发射体;**polymeric**聚合的;**brittle**易碎的，脆弱的;**bullets**子弹;**tensile**拉力的;**hollow**空的;**conductive**传导的;
 		4. _[frangible](dic://frangible)_  adj. 脆弱的；易碎的
 		5. frangibility
-	23. infringe
+	21. infringe
 		1.  in-,进入，使，-fringe,破开，词源同 break,fragment.引申词义违背，侵犯。
 		2. [conflict](dic://conflict), [run afoul](dic://run afoul), [contravene](dic://contravene)
 		3.  [encroach](dic://encroach), [impinge](dic://impinge)
@@ -5247,15 +5255,15 @@
 		9. infringement
 			1. _n._ [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus), [crime](dic://crime), [law-breaking](dic://law-breaking)
 			2. **copyright**版权;**violation**违反, 冒犯, 侵害;**defamation**诽谤, 中伤;**piracy**海盗行为;**plagiarism**剽窃,抄袭;**patent**取得…的专利权;**lawsuits**诉讼，法律诉讼;**libel**诽谤罪;**damages**伤害;**lawsuit**诉讼;**patents**专利权;
-	25. irrefragable
-	26. irrefrangbile
-	27. microfractography
-	28. parafrag
-	29. refringence, birefringence
-	30. refringency
-	31. saxifrage
-	32. septifragal
-	33. thermofractograph
+	22. irrefragable
+	23. irrefrangbile
+	24. microfractography
+	25. parafrag
+	26. refringence, birefringence
+	27. refringency
+	28. saxifrage
+	29. septifragal
+	30. thermofractograph
 
 
 ### + \*bhreie- +
@@ -5561,7 +5569,7 @@
 		2. fructan
 		3. fructose
 	2. frugal, frugality
-		1. austere
+		1. (ascetic, ascetical, austere, spartan, stoic, frugal,)
 		2.  [economical](dic://economical), [scotch](dic://scotch), [sparing](dic://sparing), [stinting](dic://stinting)
 		3. _adj._ [thrifty](dic://thrifty)
 		4. _n._ [wasteful](dic://wasteful)

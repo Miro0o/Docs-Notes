@@ -151,7 +151,7 @@
 
 ### + \*horkos + =
 1. **orc-** 表示“发誓、念咒”，和词根 jur- 发誓同源。
-	1. exorcize, exorcise (esoteric)
+	1. exorcize, exorcise (esoteric, excoriate, exorcize) 
 		1. ex-出 + orc-念咒 + -ize
 		2. vt. 拔除, 除怪, 驱邪, 从...驱除妖魔, (用咒语)驱除(妖魔)
 		3. _v._ [expel](dic://expel), [eject](dic://eject), [chuck out](dic://chuck out), [exclude](dic://exclude), [throw out](dic://throw out), [kick out](dic://kick out), [turf out](dic://turf out)

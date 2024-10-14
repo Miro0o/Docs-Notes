@@ -13,14 +13,16 @@
 1. galvanic
 2. galvanist
 3. galvanize
-	1. **mobilize**动员，调动;**inspire**鼓舞;**incite**煽动;**motivate**刺激;**garner**贮藏;**empower**使能够;**unite**使…混合;**unify**统一;**strengthen**加强, 巩固;**revitalize**使恢复元气,使具有新的活力;**solidify**团结;
-	2. etc...
-4. galvanometer
-5. galvanometric
-6. galvanometry
-7. galvanplastics
-8. galvanoplasty
-9. galvanoscope
+	1. (animate, rouse, galvanize)
+	2. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
+	3. **mobilize**动员，调动;**inspire**鼓舞;**incite**煽动;**motivate**刺激;**garner**贮藏;**empower**使能够;**unite**使…混合;**unify**统一;**strengthen**加强, 巩固;**revitalize**使恢复元气,使具有新的活力;**solidify**团结;
+	4. etc...
+5. galvanometer
+6. galvanometric
+7. galvanometry
+8. galvanplastics
+9. galvanoplasty
+10. galvanoscope
 
 
 ### + \*gar- + = to call, cry
@@ -610,7 +612,7 @@
 		6. segregation
 		7. segregated
 		8. segregant
-	7. egregious (nefarious, defamous, )
+	7. egregious (nefarious, defamous, flagrant)
 		1. e-,向外，-greg,群，集中，词源同 aggregate,gregarious.原义为鹤立鸡群的，极好的，现义贬义化。参照拉丁语 egregium,非凡，伟业。
 		2. _adj._ [conspicuous](dic://conspicuous)
 		3. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
@@ -702,18 +704,23 @@
 
 ### + \*gerere + = to carry on, wage, perform
 1. **ger** = to bear, carry, 「Latin」gerere "to carry on, wage, perform"
-	1. belligerence, belligerent, 
-		1. nonbelligerent, cobelligerent, belligerently
-		2. **combative**好战的;**hostile**敌对的，敌方的;**obnoxious**可憎的;**aggressive**侵略的;**confrontational**对抗;**unfriendly**不友好的;**arrogant**自大的，傲慢的;**defiant**挑衅的;**antagonistic**敌对的;**condescending**降低身份的,屈尊的;**unruly**不守
-	2. exaggerate
-		1. exaggerator, exaggerative, exaggeration,
-	3. gerund
-		1. gerundive, gerundial
-		2. gerund-grinder
-		3. **verb**动词;**participle**分词;**verbs**动词;**pronoun**代词;**noun**名词;**nouns**名词;**adjective**形容词;**pronouns**代名词;**grammatical**语法的;**plural**复数的;**possessive**所有格;
-	4. lanigerous
-	5. vicegerency, vicegerent
-	6. congery
+	1. belligerence, belligerent
+		1. bell-战斗 + ger-带来 + -ence, 表名词。
+		2. nonbelligerent, cobelligerent, belligerently
+		3. **combative**好战的;**hostile**敌对的，敌方的;**obnoxious**可憎的;**aggressive**侵略的;**confrontational**对抗;**unfriendly**不友好的;**arrogant**自大的，傲慢的;**defiant**挑衅的;**antagonistic**敌对的;**condescending**降低身份的,屈尊的;**unruly**不守
+	3. exaggerate (hyperbole, overrate, exaggerate, magnify)
+		1. ex-加强 + agger-堆积 + -ate, 表动词 → 越堆越高 → 夸张。
+		2. gerund ['dʒerʌnd] n.动名词。用我们熟悉的概念来解释就是verbal noun，也就是我们做名词使用的动词原形+ing形式。拉丁词根ger,gest表执行、进行，体现了“动作和行为”，而-und则是古拉丁语的动名词后缀，后来变为-end，相当于英语动名词中的-ing，所以gerund就是“作为名词使用的动词ing形式”。于是可以理解这些单词了：gest n.故事诗；故事；武功；诗体小说，a carryingon of the folklore or legend之意。gesture n.姿势；手势，v.做手势，manner of carrying the body之意。gestation n.酝酿；怀孕；妊娠期，a carrying之意。exaggerate v.夸张，to carry out of the normal reach之意。
+		3. 
+		4. exaggerator, exaggerative, exaggeration,
+	5. gerund
+		1. n. 动名词
+		2. gerundive, gerundial
+		3. gerund-grinder
+		4. **verb**动词;**participle**分词;**verbs**动词;**pronoun**代词;**noun**名词;**nouns**名词;**adjective**形容词;**pronouns**代名词;**grammatical**语法的;**plural**复数的;**possessive**所有格;
+	6. lanigerous
+	7. vicegerency, vicegerent
+	8. congery
 2. **gest-, gister-** = carry, bring, 「Latin」gerere "to carry on, wage, perform"
 	1. congest
 		1. congestive, congestion
@@ -1542,20 +1549,29 @@
 		4. **egg**蛋;**eggs**鸡蛋;**embryo**胚胎;**sac**液囊;**runny**流鼻涕的;**sperm**精液;**ovary**子房;**albumin**白蛋白，清蛋白;**meringue**调合蛋白;**whites**白带;**mayonnaise**蛋黄酱;
 		5. 
 	21. gloat
-		1. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
-		2. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
-		3. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
-		4. [gloating](dic://gloating), [glee](dic://glee)
-		5. [triumph](dic://triumph), [crow](dic://crow)
+		1. (brandish, swank, boast, brag, flaunt, fastuous, fastidious)
+		2. (intoxicated, flaunt, proud, perk up, jaunty, triumphant, elated, smug, gloat, taunt)
+		3. 1 - 词源同 glib,欢喜，幸灾乐祸。
+		4. vi. 沾沾自喜, 满足地看, 幸灾乐祸, 贪婪地盯视 
+		5. n. 贪婪的盯视, 满足的注视, 幸灾乐祸
+		6. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
+		7. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
+		8. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
+		9. [gloating](dic://gloating), [glee](dic://glee)
+		10. [triumph](dic://triumph), [crow](dic://crow)
+		11. He gloated over his fellow student's failure to win the prize. /"他的同学未能获奖,他却幸灾乐祸。"
+		12. the headlines gloated with the kind of effusive unction only the English press can muster /那些标题采用只有英国报界敢用的过度谄媚表达洋洋自得之情。
+		13. She was gloating about sleeping with you, and I just wanted to shut her up /她正吹嘘和你做爱，我只是想让她住嘴。
+		14. " And I wish they'd stop singing that stupid song, " said Hermione miserably, " haven't they gloatedenough? " /“我希望他们别再唱这首傻乎乎的歌了。”赫敏难过地说，“他们还不够得意吗？”
 	22. gloom
-		1. gloomy
+		1. gloomy (moody, dreary, drab, dingy, grim, gloomy)
 			1. [grim](dic://grim), [darkening](dic://darkening)
 			2. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
 			3. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
 			4. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
 	23. glum, glumly, glumpy
 		1. **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
-1. gall
+1. gall (pall)
 	1. 来自 PIE*ghel,发光，照耀，词源同 yellow,gold,chlorine.因胆呈黄绿色而得名。引申词义恼怒。
 	2.  [saddle sore](dic://saddle sore)
 	3.  [resentment](dic://resentment), [bitterness](dic://bitterness), [rancor](dic://rancor), [rancour](dic://rancour)
@@ -1636,7 +1652,7 @@
 6. yellow
 7. zloty
 	1. **euro**欧元;**yen**日元;**rupee**卢比;**EUR**欧洲，欧洲人;**Euros**带雨东南暴风;**currency**货币;**Poland**波兰;**Warsaw**华沙;**Krakow**克拉科夫;**PLN**波兰货币兹罗提在ISO 4217体系中的代码;**Lithuanian**立陶宛人;
-8. callow (mallow, hallow, sallow, shallow, )
+8. callow (mallow, hallow, sallow, shallow, hollow)
 	1. a. 年轻而无经验的, (鸟)羽毛未丰的
 	2.  来自 PIE*gal,秃头，参照 Calvinism,chauvinism,进一步来自 PIE*ghel,发光的，词源同glass,gleam.指刚出生的，没长毛的。
 	3.  [fledgling](dic://fledgling), [unfledged](dic://unfledged)

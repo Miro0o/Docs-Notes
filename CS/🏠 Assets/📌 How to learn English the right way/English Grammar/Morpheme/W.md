@@ -157,32 +157,42 @@
 #### + \*wadh- (1) +
 1. **gag-** =pledge, 表示“承诺”，引申为婚姻。源自古法语 gage "a pledge."
 	1. engage
-		1. unengaging
-		2. unengaged
-		3. preengage
-		4. engaging
-		5. engagement
-		6. engaged
-		7. disengage
+		1. en-进入，使 + gage, 承诺，加入，词义由承诺向多方面扩展。
+		2. en-,进入，使，-gag,承诺，加入，词源同 wage,wedding.词义由承诺向多方面扩展。
+		3. unengaging
+		4. unengaged
+		5. preengage
+		6. engaging
+			1.  (engaging, winning, gripping, absorbing, engrossing, riveting)
+			2.  [piquant](dic://piquant)
+			3. _adj._ [attractive](dic://attractive)
+			4. n._ [unattractive](dic://unattractive)
+			5. **entertaining**有趣的;**captivating**迷人的;**stimulating**刺激的;**engrossing**引人入胜的;**compelling**引人注目的;**provoking**令人生气的;**enjoyable**愉快的,快乐的;**thought-provoking**引起思考的,发人深省的;**lively**活泼的;**encouraging**鼓励的;**purposeful**有目的的;
+			6. he enjoys a colourful reputation as an engaging eccentric. /他有一个有趣的名声——一个可爱的怪人。
+			7. Yes, that would be engaging and relevant to her interests. /是的，那会很吸引人而且符合她的兴趣。
+		7. engagement
+		8. engaged
+		9. disengage
 			1. disengagement
 			2. disengaged
-	2. gage
-		1.  [pot](dic://pot), [grass](dic://grass), [green goddess](dic://green goddess), [dope](dic://dope), [weed](dic://weed), [sess](dic://sess), [sens](dic://sens), [smoke](dic://smoke), [skunk](dic://skunk), [locoweed](dic://locoweed), [Mary](dic://Mary Jane)
-		2. [gauge](dic://gauge)
-		3.  [bet on](dic://bet on), [back](dic://back), [stake](dic://stake), [game](dic://game), [punt](dic://punt)
-		4. _n._ [cannabis](dic://cannabis), [marijuana](dic://marijuana), [marihuana](dic://marihuana), [ganja](dic://ganja), [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
-		5. _v._ [bet](dic://bet), [wager](dic://wager), [play](dic://play)
-		6. **gauge**计量器;**gauges**计量表，仪表;**calibrate**校准;**barometer**气压计, 晴雨表;**measurement**测量，测量法;**caliper**卡钳;**weld**焊接;**measure**措施;**bushing**套管;**measuring**测量用的;
-		7. _strain gage_ 应变计；电阻丝应变仪
-		8. _resistance strain gage_ 电阻应变计
-		9. _thickness gage_ 厚度规；测厚计
-		10. _pressure gage_ 压力计；压力表
-		11. It's difficult to gage one's character. /要判断一个人的品格是很困难的。A thermometer gages the temperature. /温度计可测量温度。
-		12. What gage of wire should we use for this job /我们干这活应该用多大号的铁丝?
-		13. The fuel gages dropped swiftly /燃料表指针迅速下降。
-		14. A gage of defiance was thrown down to the abolitionists. /废奴主义者遭到了蔑视。
-		15. This is stuff you just don't buy very often so you don't have a very good gage on what you should be paying. /这些东西都是你不常买的，因此你对于商品与价格之间的平衡并没有足够的认知。
-	3. mortgage
+	3. gage (gauge)
+		1. n. 抵押品, 标准度量, 计量器
+		2.  [pot](dic://pot), [grass](dic://grass), [green goddess](dic://green goddess), [dope](dic://dope), [weed](dic://weed), [sess](dic://sess), [sens](dic://sens), [smoke](dic://smoke), [skunk](dic://skunk), [locoweed](dic://locoweed), [Mary](dic://Mary Jane)
+		3. [gauge](dic://gauge)
+		4.  [bet on](dic://bet on), [back](dic://back), [stake](dic://stake), [game](dic://game), [punt](dic://punt)
+		5. _n._ [cannabis](dic://cannabis), [marijuana](dic://marijuana), [marihuana](dic://marihuana), [ganja](dic://ganja), [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
+		6. _v._ [bet](dic://bet), [wager](dic://wager), [play](dic://play)
+		7. **gauge**计量器;**gauges**计量表，仪表;**calibrate**校准;**barometer**气压计, 晴雨表;**measurement**测量，测量法;**caliper**卡钳;**weld**焊接;**measure**措施;**bushing**套管;**measuring**测量用的;
+		8. _strain gage_ 应变计；电阻丝应变仪
+		9. _resistance strain gage_ 电阻应变计
+		10. _thickness gage_ 厚度规；测厚计
+		11. _pressure gage_ 压力计；压力表
+		12. It's difficult to gage one's character. /要判断一个人的品格是很困难的。A thermometer gages the temperature. /温度计可测量温度。
+		13. What gage of wire should we use for this job /我们干这活应该用多大号的铁丝?
+		14. The fuel gages dropped swiftly /燃料表指针迅速下降。
+		15. A gage of defiance was thrown down to the abolitionists. /废奴主义者遭到了蔑视。
+		16. This is stuff you just don't buy very often so you don't have a very good gage on what you should be paying. /这些东西都是你不常买的，因此你对于商品与价格之间的平衡并没有足够的认知。
+	5. mortgage
 		1. _n._ [security interest](dic://security interest)
 		2. _v._ [owe](dic://owe)
 		3. **refinance**再为…筹钱,再供…资金;**refinancing**重新募集资金;**loan**贷款;**loans**借贷;**foreclosure**丧失抵押品赎回权,排斥;**lender**贷方;**lenders**放款人;**debt**债务;**repayment**偿还;**borrower**剽窃者，借用人;**FHA**联邦住宅管理局;
@@ -197,31 +207,35 @@
 		12. submortgage
 		13. mortgagor
 		14. mortgagee
-2. wage
+2. wage (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage)
 	1. 1 - 来自 PIE*wadh,承诺，誓言，词源同 wed,engage.原指承诺对别人的服务的报酬，引申词义工资，原仅限于手工和机械劳动所得，后词义通用化。同时，引申词义承诺参战，发动战争，后词义通用化指开展或发动某运动。
-	2. [earnings](dic://earnings) 多指通过劳动或投资等手段所得到的收入
-	3. [allowance](dic://allowance) 指收入中的补贴部分
-	4. [income](dic://income) 与earnings含义很相近，但前者强调总收入
-	5. [salary](dic://salary) 指按年定下，按月或星期平均给予的报酬，指脑力劳动者的薪水
-	6. [wage](dic://wage) 多用复数形式，指按小时、日或星期的报酬，通常指体力劳动者的工资
-	7. [pay](dic://pay) 是个通用词，可取代salary与wage
-	8. [fee](dic://fee) 指提供某种服务收取的固定费用
-	9. wager
-	10. wageworker
-	11. wages-earner
-	12. wagering
-	13. wage-fund
-	14. wage sacle
-	15. wage hike
-	16. wage freeze
-	17. cowage
-	18. 
+		1. [earnings](dic://earnings) 多指通过劳动或投资等手段所得到的收入
+		2. [allowance](dic://allowance) 指收入中的补贴部分
+		3. [income](dic://income) 与earnings含义很相近，但前者强调总收入
+		4. [salary](dic://salary) 指按年定下，按月或星期平均给予的报酬，指脑力劳动者的薪水
+		5. [wage](dic://wage) 多用复数形式，指按小时、日或星期的报酬，通常指体力劳动者的工资
+		6. [pay](dic://pay) 是个通用词，可取代salary与wage
+		7. [fee](dic://fee) 指提供某种服务收取的固定费用
+	2. wager
+	3. wageworker
+	4. wages-earner
+	5. wagering
+	6. wage-fund
+	7. wage sacle
+	8. wage hike
+	9. wage freeze
+	10. cowage
+	11. 
 4. wed
-	1. wedlock
+	1. wed（结婚）：用于婚礼的保证金  
+	2. 在中国的传统习俗中，结婚前，男方通常需要向女方家庭提供一定的聘礼或聘金。在古代西方社会也存在类似的习俗。西方男人在迎娶新娘时，也需要提供一定的礼金，不过这份礼金不是赠送给女方家庭的，而是作为一种保证金，代表男方对女方的承诺。这笔钱通常会花费在婚礼上。在英语中，这笔用来结婚的保证金叫做wed，它来自原始日耳曼语，本意是“保证、抵押”。在其他日耳曼语中，该词依然保持原意，只有在英语中词义才演变为“结婚”。不过，作为动词的wed一词比较少用，人们更常用marry一词来代替。但wed的动名词形式wedding（婚礼）则继续得到普遍应用。  
+	3. wed：[wed] v.结婚，娶，嫁，与……结婚  
+	4. wedding：['wedɪŋ] n.婚礼，婚宴，结婚
+	5. wedlock
 		1. wedlock - 这个词乍一看像是个复合词，由wed和lock合成。从其释义“已婚（状态）”来看，将wedlock理解成being locked in marriage也未尝不可。但若追本溯源，我们会发现，其中的lock并非我们所熟悉的lock，不含“锁”或“拴住”的意思。wedlock源于古英语wedlāc，由wedd'pledge'（誓言）加名词后缀lāc 'activity'（活动）构成，原义为marriage bond（婚约）或nuptial vow（婚誓），这反映在to keep wedlock，tobreak wedlock这样一些早先的短语中。13世纪以后，也许是因为词形变化的缘故，又受了lock词义的影响，wedlock开始用以表示“已婚状态”或“结婚生活”，且多用于（born) in wedlock（婚生的），(born) out of wedlock（非婚生的，私生的）这两个搭配中。
 		2.  [marriage](dic://marriage), [matrimony](dic://matrimony), [union](dic://union), [spousal relationship](dic://spousal relationship)
-	3. wedding
-	4. wedded
+	6. wedding
+	7. wedded
 #### + \*wadh- (2) +
 1. **vad-** = shallow, ford, 表示“浅滩”。源自拉丁语 vadum "ford."
 	1. vadose
@@ -1054,7 +1068,7 @@
 
 ### + \*weie- +
 1. **vin-, vis-** = force, 表示“力量”。源自拉丁语 vis "force."
-	1. vindicate
+	1. vindicate (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 		1. vin-力量 + dic-说 + -ate, 表动词 → 用力量说 → 拥护。
 		2. vt. 辩护, 证明...无辜, 维护
 		3. vindicative
@@ -2586,6 +2600,25 @@
 			3. **vultures**秃鹰;**predatory**食肉的;**greedy**贪婪的;**opportunistic**机会主义的;**murderous**蓄意谋杀的;**hapless**运气不好的，倒霉的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**ruthless**无情的，残忍的;**vicious**恶的, 邪恶的;**vengeful**复仇的，报复的;**malevole**
 		2. vulturish
 		3. vulturine
+
+
+### + \*weme- +
+1. **emet-** = to vomit, 表示“呕吐”。源自希腊语 emein "to vomit."
+	1. emetic
+		1. 来自 PIE*weme,吐，呕吐，拟声词，词源同 vomit.
+		2. n. 催吐剂  
+		3. a. 引起呕吐的
+		4.  [vomit](dic://vomit), [vomitive](dic://vomitive), [nauseant](dic://nauseant)
+		5. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
+		6. **vomiting**呕吐;**noxious**有害的;**stimulant**兴奋剂;**vomit**吐出;**medicinal**医学的;**diarrhea**腹泻，痢疾;**narcotic**麻醉的;**pharmacological**药理学的;**poisonous**有毒的;**nausea**恶心，晕船;**toxin**毒质;
+		7. that emetic music endemic to department stores. /百货公司特有的那种令人生厌的音乐。
+		8. He banqueted three or four times a day and he survived by taking frequent emetics /他一天开3、4场宴席，这依靠频繁使用催吐剂。
+		9. Laxatives and emetics were common, but many philosophers and physicians had sensible ideas about restraint and nutrition. /排泄和催吐非常普遍，但是许多哲学家和医师对于抑制和营养有着明智的看法。
+		10. The **emetic** mechanism by the digitoxin is discussed /讨论了洋地黄毒物的催吐原理。
+		11. Caution: large doses of this remedy are **emetic** /注意：大量服用这种药物会引致呕吐。
+	2. emesis
+		1. n. 呕吐
+2. vomit
 
 
 ### + \*wen- + 
