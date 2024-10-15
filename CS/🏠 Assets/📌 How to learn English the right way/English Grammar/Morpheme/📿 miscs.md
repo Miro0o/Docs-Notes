@@ -2877,7 +2877,7 @@ dear
 	- Now, don't listen to him, Pheebs, all right? I think it's endearing. 不，别听他的，菲比，好吗？ 我觉得那很可爱。
 - deary
 -  dearth
-	- (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged)
+	-  (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
 	- 来自dear, 贵重，珍贵。
 	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
 	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
@@ -3006,6 +3006,9 @@ dove
 
 ==down==
 - etc...
+
+drab
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
 
 drain
 -  词源同 dry,排空，干。
@@ -3469,6 +3472,17 @@ feist
 	- **sassy**无礼的;**spirited**生机勃勃的;**fearless**无畏的;**tenacious**抓紧的;**fierce**凶猛的;**brash**仓促的，性急的;**boisterous**热闹的;**outspoken**直言的;**ferocious**残忍的;**opinionated**固执己见的,武断的;**lovable**可爱的，讨人喜欢的;
 	- he got a bit feisty by trying to hit me backs /他想要还击我，一下变得有些好斗。
 	- Hollywood doesn't have a lot of good feisty roles for girls my age. /好莱坞没多少适合我这个年龄的女孩子扮演的生气勃勃的好角色。
+
+fetter
+-   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+-  来自古英语 fetor,链子，特指脚链，词源同 foot.
+-  [hobble](dic://hobble)
+-  [shackle](dic://shackle)
+- _n._ [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
+- _v._ [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold)
+- **shackles**手铐，脚镣;**bondage**奴役身份;**bind**捆绑, 捆扎;**rein**缰绳;**constrain**强迫, 强使;**restrain**抑制，控制;**hindrance**起妨碍作用的事物或人;
+- unfetter
+- enfetter
 
 fickle 
 - (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) 
@@ -5382,7 +5396,13 @@ ham
 - [cut of pork](dic://cut of pork), [man](dic://man), [adult male](dic://adult male), [radio operator](dic://radio operator), [actor](dic://actor), [histrion](dic://histrion), [player](dic://player)
 - [act](dic://act), [play](dic://play), [roleplay](dic://roleplay), [playact](dic://playact)
 - hamstring
+	- n. 后腿腱  
+	- vt. 使无能为力; 妨碍; 切断腿腱使成跛腿
+	-   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
 	- **groin**腹股沟;**knee**膝盖，膝;**ankle**踝关节，踝;**soreness**悲伤;**tendon**腱;**ligament**韧带;**injury**伤害，损害;**calf**小牛;**biceps**二头肌，强健的筋肉;**tightness**坚固,紧密;**thigh**大腿
+	- Farming, the north's main source of income, has been hamstrung. .作为北方最主要的收入来源的农业也因此荒废。
+	- The slightly kinder reading is that the dowager empress was hamstrung by convention unable to pick anyone older. /稍微温和一点的解读是，皇太后被传统束缚，无法挑选年龄更大的人。
+	- Not your calves but for your hamstrings and your bottom. /不能锻炼小腿，但可以锻炼腿筋和臀部。
 - hammy
 	- adj. 表演过火的；火腿味的
 	- **hamstring**使无能为力;**overdone**把…煮得过久;**cheesy**干酪质的;**corny**谷类的;**comedic**喜剧的;**over-the-top**过多的;**goofy**傻瓜的，愚笨的;**overblown**停息的,盛开过的;**melodrama**情节剧;**bland**乏味的;**contrived**不自然的;
@@ -5403,16 +5423,18 @@ hammock (hummock)
 - He's taking a nap in his hammock. /他正在吊床上睡小觉。
 
 hamper (tamper)
-1. top-hamper
-2. [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
-3. [restraint](dic://restraint), [constraint](dic://constraint), [basket](dic://basket), [handbasket](dic://handbasket)
-	1. [block](dic://block) 语气强烈，指有效堵住了通道，使人或物无法通过。
-	2. [bar](dic://bar) 含义与block很接近，指阻塞通道或禁止出入，但有对暗示不用障碍物的阻止或禁止。
-	3. [hinder](dic://hinder) 语气较轻，多指阻碍、拖延人或事，强调使进展速度缓慢下来。
-	4. [obstruct](dic://obstruct) 正式用词，语气强，多指以干扰或设置障碍的方式阻碍交通，使不能自由畅通。
-	5. [prevent](dic://prevent) 含义广泛，指采取预防措施或设置障碍去阻止某人或某事。
-	6. [hamper](dic://hamper) 侧重因受到约束或阻碍而造成的行动困难。
-4. **hinder**成为阻碍;**impede**阻止;**obstruct**阻塞;**jeopardize**危及, 损害;**inhibit**抑制;**impair**削弱;**undermine**在某物下挖洞或挖通道;**hindrance**起妨碍作用的事物或人;**interfere**干预;**disrupt**使分裂;**curtail**截断, 缩短;
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+- 1 - 来自古法语 hanap,杯子，酒杯，后引申词义装杯子的大篮子。防碍义词源不详，参照习语basket case,困境。
+- op-hamper
+- [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
+- [restraint](dic://restraint), [constraint](dic://constraint), [basket](dic://basket), [handbasket](dic://handbasket)
+	- [block](dic://block) 语气强烈，指有效堵住了通道，使人或物无法通过。
+	- [bar](dic://bar) 含义与block很接近，指阻塞通道或禁止出入，但有对暗示不用障碍物的阻止或禁止。
+	- [hinder](dic://hinder) 语气较轻，多指阻碍、拖延人或事，强调使进展速度缓慢下来。
+	- [obstruct](dic://obstruct) 正式用词，语气强，多指以干扰或设置障碍的方式阻碍交通，使不能自由畅通。
+	- [prevent](dic://prevent) 含义广泛，指采取预防措施或设置障碍去阻止某人或某事。
+	- [hamper](dic://hamper) 侧重因受到约束或阻碍而造成的行动困难。
+- **hinder**成为阻碍;**impede**阻止;**obstruct**阻塞;**jeopardize**危及, 损害;**inhibit**抑制;**impair**削弱;**undermine**在某物下挖洞或挖通道;**hindrance**起妨碍作用的事物或人;**interfere**干预;**disrupt**使分裂;**curtail**截断, 缩短;
 
 ==hand==
 - hand(s) down
@@ -5661,7 +5683,7 @@ hare
 - _march hare_ 发情期的野兔
 - _start a hare_ ◎【狩猎】赶出兔子再捕捉;◎提出(枝节)问题，转移别人的注意力;
 
-harrow
+harrow (mallow, hallow, sallow, shallow, hollow)
 - _adj._ [painful](dic://painful)
 - _n._ [painless](dic://painless)
 - **horrifying**令人恐惧的,使人惊骇的;**terrifying**可怕的;**horrific**可怕的;**riveting**吸引人的;**heartbreaking**令人心碎的;**poignant**尖锐的;**frightening**令人恐惧的;**gruesome**可怕的;**wrenching**修截苗根,苗木铲根;**ordeal**严酷的考验;**unsettling**使人不安的;
@@ -5708,6 +5730,8 @@ haste
 	- hastily
 	- **hastily**匆忙地;**hurried**匆忙的;**unwise**不明智的;**foolish**愚蠢的;**careless**粗心的;**haste**匆忙;**misguided**由错误思想指引的,不明智的;**impulsive**冲动的,易冲动的;**deliberate**深思熟虑的;**clumsy**笨拙的;**sloppy**草率的;
 - hasten
+	- vt. 催促, 加紧  
+	- vi. 赶快, 急忙
 	-  [rush](dic://rush), [hotfoot](dic://hotfoot), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along), [rush along](dic://rush along), [cannonball along](dic://cannonball along), [bucket along](dic://bucket along), [belt along](dic://belt along)
 	-  [induce](dic://induce), [stimulate](dic://stimulate), [rush](dic://rush)
 	- **expedite**加快;**accelerate**加快, 增速;**hinder**成为阻碍;**lest**唯恐，以免;**doubtless**无疑地, 肯定地;**discourage**使气馁;**compel**强迫，迫使;**proceed**开始;**facilitate**使便利, 减轻…的困难;**prolong**拖延;**impede**阻止;
@@ -5952,6 +5976,7 @@ heave
 - coal-heaver
 
 heed
+- - 来自 PIE*kadh,躲避，保护，词源同 hat,hood.引申词义注意，留心。
 - **warn**警告，提醒;**warning**警告;**warnings**警告信息;**advice**劝告;**beware**当心，小心;**ignore**驳回诉讼，忽视，不理睬;**listen**听，倾听;**rebuke**指责，非难;**advise**劝告，忠告;**obey**服从，听从;**urged**怂恿，催促;
 - unheeding
 - unheeded
@@ -5959,6 +5984,18 @@ heed
 - heedful
 
 hedge
+- (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
+-  [hedgerow](dic://hedgerow)
+- [hedging](dic://hedging)
+-  [fudge](dic://fudge), [evade](dic://evade), [put off](dic://put off), [circumvent](dic://circumvent), [parry](dic://parry), [elude](dic://elude), [skirt](dic://skirt), [dodge](dic://dodge), [duck](dic://duck), [sidestep](dic://sidestep)
+- _n._ [fence](dic://fence), [fencing](dic://fencing), [security](dic://security), [protection](dic://protection), [evasion](dic://evasion), [equivocation](dic://equivocation)
+- _v._ [avoid](dic://avoid), [hem in](dic://hem in), [enclose](dic://enclose), [close in](dic://close in), [inclose](dic://inclose), [shut in](dic://shut in), [minimize](dic://minimize)
+- **equities**权益;**fund**资金;**volatility**挥发性;**stocks**股票;**shrubs**灌木;**shrub**灌木;**liquidity**资产折现力, 资产流动性;**fence**栅栏;**trimmer**整理者;
+- hedge clippings and grass cuttings. /剪下的树篱和草末子。
+- they reached the hedge fronting the garden. /他们来到花园前面的树篱处。
+- The new insurance is hedged with conditions. /新的保险受到各种条件的束缚。
+-  People fear insulting others, especially the boss, so they hedge. /人们害怕得罪别人，尤其是老板，所以会避重就轻。
+- Some analysts see this as the president hedging his bets on the economy. /一些分析人士认为，这是总统在对冲他对经济的赌注。
 - hedging
 - hedgerow
 	- **woodland**林地;**hedges**树篱;**shrubs**灌木;**footpath**小路;**hedge**用树篱笆围住;**shrub**灌木;**meadow**草地;**churchyard**墓地,境内;**orchard**果园;**garden**菜园;**bush**矮树丛;
@@ -6157,7 +6194,9 @@ hit
 	- One reason for his optimism is his explanation for why the Asian economies were **hit** **so** **hard** in the first place /他持乐观态度的一个理由，是他对亚洲经济为何比世界其他地区遭受冲击更大的解释。
 	- 
 
-hitch (ditch, pitch, itch, bitch) (inch, pinch, finch, snatch, sntich)
+hitch 
+- (ditch, pitch, itch, bitch, inch, pinch, finch, snatch, snitch)
+- (snag, hitch, glitch, flaw, rub, hang-up)
 - 来自中古英语 icchen,猛拉，猝动，引申词义钩住。词义搭免费车缩写自 hitchhike.
 - n. 暂时的困难（或问题）, 小故障  v. 搭便车; 钩住; 提起衣服; 攀上, 跃上
 - cinch, glitch
@@ -6186,6 +6225,10 @@ hitch (ditch, pitch, itch, bitch) (inch, pinch, finch, snatch, sntich)
 - hitch up one's suspenders /拉紧吊带
 - a three-year  hitch in the army /在军队服役三年
 - We got hitched last weekend. /
+- Uh, well, here on Earth, we call it getting hitched, not latched. /在地球上 我们管这叫做结婚 不是占有。
+-  Dudley hitched up his trousers, which were slipping down his fat bottom. /达力提了提裤子，那裤子顺着他的胖屁股往下滑。
+- Countries are hitching their futures to it. /各国都将自己的未来与之捆绑在一起。
+- The ceremony went off without a **hitch** /仪式进行得很顺利。
 - unhitch
 	- _v._ [undo](dic://undo)
 	- _n._ [hitch](dic://hitch), [catch](dic://catch)
@@ -6835,9 +6878,16 @@ horn
 	- **elk**麋鹿;**bison**北美野牛;**sheep**羊，绵羊;**wolves**贪婪者;**grizzly**灰色的;**coyote**一种产于北美大草原的小狼;**herds**畜群;**wolf**狼;**moose**驼鹿;**Mojave**莫哈韦;**deer**鹿，梅花鹿;
 
 hubris
+- hubris ['hjuːbrɪs] n.狂妄自大。原指对神的放肆和傲慢。比如公元前480年，波斯王薛西斯带领大军进军希腊，可是在达达尼尔海峡，波斯人刚搭建的两座浮桥都被狂风吹垮，愤怒的薛西斯令人把铁索抛进海里，想要锁住大海，并派人鞭打大海300下，以报复大海阻止他前进。神怒了，后果是薛西斯输掉了战争。
+- 1. overbearing pride or presumption
 - **arrogance**傲慢;**stupidity**愚笨;**folly**愚蠢;**idiocy**白痴;**foolishness**愚蠢;**incompetence**无能力;**cynicism**犬儒主义;**greed**贪婪，贪心;**ignorance**无知;**narcissism**自恋，自我陶醉;**hypocrisy**伪善;
 - [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
 - 来自希腊语 hybris,对神的放肆无礼。引申词义傲慢，狂妄。
+- It's a moment of total irrational hubris. /那是一个完全失去理智的的狂妄时刻。
+- And I don't think it's about man's hubris at all. /我不认为这是关于人类的狂妄自大。
+- I think that any conductor has a bit of hubris in him or her. /我认为任何一个指挥都有那么点傲慢。
+- I did this. Monte was killed by my hubris and my pride. /是我干的。猛械被杀都是因为我的傲慢和自大。
+- So analysts say he's going to have to govern differently, with less hubris, more consultation. /因此分析人士表示，他将不得不以不同的方式治理国家，少一些傲慢，多一些商讨。
 
 huckle
 - _[huckle](dic://huckle)_  n. 臀部；大腿部；腰
@@ -6886,7 +6936,7 @@ hum
 	- **whistling**吹笛;**chirping**啁啾声;**buzzing**嗡嗡响的;**singing**歌声;**tune**曲调, 曲子;**rumbling**隆隆声;**noises**噪音，响声，噪音;**screeching**发动机啸声;**sing**唱歌;**echoing**回音;**cranking**摇动;
 	- **bird**鸟;**butterfly**蝴蝶;**birds**鸟类;**owl**猫头鹰;**sparrow**麻雀;**squirrel**松鼠;**nectar**花蜜;**insect**昆虫;**bee**蜜蜂，蜂;**orchid**兰花;**peacock**孔雀;
 - hummer
-- humdrum
+- humdrum (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot)
 	-  [commonplace](dic://commonplace), [prosaic](dic://prosaic), [unglamorous](dic://unglamorous), [unglamourous](dic://unglamourous)
 	- **mundane**世俗的，平凡的;**banal**陈腐的;**monotonous**无变化的, 单调乏味的;**dreary**沉闷的，枯燥的;**drab**单调的;**dull**钝的;**boring**令人厌烦的;**ordinary**普通的;**unremarkable**寻常的,不值得注意的;**uninteresting**无趣的,令人厌倦的;**bland**乏味的
 	- seeking a way out of his mundane, humdrum existence.
@@ -8987,6 +9037,7 @@ own
 pale
 
 paltry
+-  (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
 - **meager**贫乏的;**pitiful**可怜的，令人同情的;**whopping**巨大的;**mere**仅仅的;**hefty**重的;**scant**不足的;**staggering**难以置信的;**modest**谦虚的，谦逊的;**minuscule**小写字;**abysmal**深不可测的;**dismal**凄凉的，忧郁的;
 - [worthless](dic://worthless), [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
 - [measly](dic://measly), [miserable](dic://miserable)
@@ -9273,6 +9324,14 @@ piddle
 - Then, suddenly, it fell out of fashion, coming to be seen as piddling, not astonishing. /然后，突然间，它不再流行，并且被认为是无关紧要的，而不是什么令人震撼的东西。
 - I felt that one look at Vic's switchblade knife and gimlet gaze would have put Hayley's piddling domestic problems in some kind of reasonable perspective. /我觉得看到维克的弹簧刀和锐利目光能让哈里那些微不足道的家庭问题变得合情合理一点。
 - Having already lifted rates by nearly five percentage points over the past year—its steepest tightening in four decades—the latest increase of a quarter-point was, in numerical terms, piddling. /在过去的一年里已经将利率提高了近五个百分点——这是 40 年来最大幅度的紧缩——从数字上看，最近的 25 个基点的增长微乎其微。
+piddling
+- (inconsequential, immaterial, unconsidered, unimportant, nonsignificant,  fiddling, footling, lilliputian, little, niggling, piddling, piffling, picayune, trivial, petty, paltry, minuscule, teeny, wee)
+-  [fiddling](dic://fiddling), [footling](dic://footling), [lilliputian](dic://lilliputian), [little](dic://little), [niggling](dic://niggling), [piffling](dic://piffling), [petty](dic://petty), [picayune](dic://picayune), [trivial](dic://trivial)
+- _adj._ [unimportant](dic://unimportant)
+- _n._ [important](dic://important), [of import](dic://of import)
+- **paltry**不足取的;**minuscule**小写字;**insignificant**无价值的, 无意义的, 无用的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**trivial**不重要的，琐碎的;**meager**贫乏的;**whining**发牢骚;**pitiful**可怜的，令人同情的;**fiddling**无用的;**mere**仅仅的;**teeny**极小的;
+- Why do I have to listen to this piddling gobbledegook? /我为什么要听这种琐碎的官样文章？
+- I felt that one look at Vic's switchblade knife and gimlet gaze would have put Hayley's piddling domestic problems in some kind of reasonable perspective /我觉得看到维克的弹簧刀和锐利目光能让哈里那些微不足道的家庭问题变得合情合理一点。
 
 pike (peck, pike, pick)
 - n. 狗鱼, 梭鱼; 长矛; <方言>山峰  
@@ -11575,6 +11634,7 @@ sham
 - _[sham battle](dic://sham%20battle)_  模拟战
 
 shackle
+-   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
 - 来自古英语 sceacel,镣铐，脚链，来自 Proto-Germanic*skakulaz,镣铐，脚链，来自 PIE*skek,摇晃，词源同 shake.-le,工具格后缀。
 - _n._ [restraint](dic://restraint), [constraint](dic://constraint), [bar](dic://bar)
 - _v._ [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold)
@@ -11686,7 +11746,7 @@ shingle
 - _v._ [roof](dic://roof)
 - **roofing**屋顶;**roof**屋顶;**stucco**粉饰，粉刷;**siding**侧线;**decking**装饰;**brick**砖，砖块;**sand**沙;**masonry**石工行业;**pebble**卵石;**drywall**纸面石膏板;**sandy**含沙的;
 
-shirk
+shirk (shirk, shun, chide, spurn, elude, eschew,  )
 - 可能来自 shark,鲨鱼，骗子，引申词义逃避，偷懒。
 - [fiddle](dic://fiddle), [shrink from](dic://shrink from), [goldbrick](dic://goldbrick)
 - _v._ [avoid](dic://avoid)
@@ -12645,7 +12705,7 @@ smack
 	- **stunned**受惊的;**astonished**惊讶的;**shocked**震撼的;**speechless**说不出话的;**amazed**惊奇的，吃惊的;**baffled**带有挡板的;**appalled**惊骇的;**horrified**惊悸的, 带有恐怖感的, 惊骇的;**surprised**感到惊奇的;**perplexed**困惑的;**unimpressed**印象平平的;
 
 
-smother
+smother (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother) (stifle, strangle, smother, muffle, repress, choke, douse, suffocate)
 - 1 - 缩写自中古英语 smorthre,浓烟，来自古英语 smorian,使窒息，闷死，-ian,表动词，来自Proto-Germanic*smurona,窒息，闷死，词源可能同 smolder.-ther,工具格后缀，比较 tether,mother.引申比喻义抑制，扼杀。
 -  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [welter](dic://welter)
 - [surround](dic://surround)
@@ -13703,6 +13763,8 @@ stymie
 - **thwart**反对;**impede**阻止;**stifle**使窒息;**hinder**成为阻碍;**frustrate**使不成功, 挫败, 阻止;**undermine**在某物下挖洞或挖通道;**curtail**截断, 缩短;**obstruct**阻塞;**derail**使出轨;**circumvent**设法克服或避免;**deter**制止，阻止;
 
 sulky
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, saturnine, morose, sour, dour, )
+- (mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**moody**喜怒无常的;**irritable**易怒的, 急躁的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**whiny**烦躁的;**angry**生气的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**aloof**冷淡的;**smug**自满的, 沾沾自喜的;
 sullen
 - [dark](dic://dark), [dour](dic://dour), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour)
@@ -14971,7 +15033,9 @@ way
 - wireways
 - wayworn
 - wayward
-	- [contrary](dic://contrary), [obstinate](dic://obstinate), [perverse](dic://perverse)
+	- (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic, )
+	- resistant to guidance or discipline
+		- [contrary](dic://contrary), [obstinate](dic://obstinate), [perverse](dic://perverse)
 	- **errant**周游的;**hapless**运气不好的，倒霉的;**rebellious**叛逆的;**unruly**不守规矩的;**stray**走失的家畜;**misguided**由错误思想指引的,不明智的;**mischievous**淘气的, 顽皮的;**would-be**想要成为的,自称自许的,自充的;**well-meaning**善意的;**troubled**动乱的，不安的;**renegade**变节者;
 - wayleave
 - waylay, waylaid
@@ -15016,6 +15080,7 @@ weave
 - hairweaving
 
 wee
+- (inconsequential, immaterial, unconsidered, unimportant, nonsignificant,  fiddling, footling, lilliputian, little, niggling, piddling, piffling, picayune, trivial, petty, wee, teeny)
 - [make](dic://make), [urinate](dic://urinate), [piddle](dic://piddle), [puddle](dic://puddle), [micturate](dic://micturate), [piss](dic://piss), [pee](dic://pee), [pee-pee](dic://pee-pee), [make water](dic://make water), [relieve oneself](dic://relieve oneself), [take a leak](dic://take a leak), [spend a penny](dic://spend a penny), [wee-wee](dic://wee-wee), [pass water](dic://pass water)
 -  [bitty](dic://bitty), [bittie](dic://bittie), [teensy](dic://teensy), [teentsy](dic://teentsy), [teeny](dic://teeny), [weeny](dic://weeny), [weensy](dic://weensy), [teensy-weensy](dic://teensy-weensy), [teeny-weeny](dic://teeny-weeny), [itty-bitty](dic://itty-bitty), [itsy-bitsy](dic://itsy-bitsy)
 - **little**小的;**teeny**极小的;**bit**少量;**tad**少量;**tiny**微小的;**bugger**家伙;**cheeky**无耻的;**fella**<俚>伙伴;**sleepy**困乏的;**lad**少年，小伙子;**daft**愚蠢可笑的;

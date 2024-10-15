@@ -266,9 +266,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51cd7c00e2a628be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/lab2_design_sumbit_version.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "680496287743825e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/Overall_Design.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -314,8 +337,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -336,7 +358,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/lab2_design_sumbit_version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/lab2_design_sumbit_version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md"
+                "file": "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/lab2_design_sumbit_version.md"
               }
             }
           },
@@ -421,34 +443,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5c43c7df51ab8fc6",
+  "active": "51cd7c00e2a628be",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/N.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/Overall_Design.excalidraw.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/lab2_design_sumbit_version.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/Lab2 Design.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design/Sharing_and_Revocation.excalidraw.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/F.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/U.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/H.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/I.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/U.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/F.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Y.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/Linux IO & Files Management/🤔 Linux File System/Linux Directory System & FHS.md",
-    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
-    "Assets/Illustrations/Math/Automata_Formal_Lan.excalidraw.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout.md",
+    "CS/CyberSecurity/🚬 Cryptology & Secure Communication/🤐 Cryptography/Modern Cryptography/Cryptographic Techniques for Integrity & Authentication/Message Digest & Hash Function (Integrity)/Message Digest & Hash Function (Integrity).md",
     "Assets/Pics/Screenshot 2024-10-10 at 22.13.43.png",
     "Assets/Pics/Screenshot 2024-10-10 at 21.38.06.png",
     "Assets/Pics/Screenshot 2024-10-10 at 21.22.22.png",

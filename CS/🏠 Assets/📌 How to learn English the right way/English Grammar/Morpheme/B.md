@@ -532,16 +532,17 @@
 		14. _[subservient all sycophancy or obsequiousness](dic://subservient%20all%20sycophancy%20or%20obsequiousness)_ 形容行为卑屈如奴才
 		15. Seeing clearly requires a vision unclouded either by rage or by sycophancy. 看得清楚需要不受愤怒或阿谀奉承的影响。
 		16. sycophant
-			1. syco-[=flg无花果] + phant-显现 → 显示无花果 → 献上无花果 → 拍马屁。
-			2. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
-			3. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
-			4. sycophant - 无花果（fig）是世界最古老的栽培果树之一，原始人即已栽培，原产亚洲西部，以后其栽培扩大到爱琴海地区和地中海东部诸国及岛屿。无花果曾是古希腊各城邦的主要食物之一，特别用于斯巴达人的宴席上。古雅典的无花果在整个东方备受赞誉，并有专门立法管理其出口，甚至一度禁止其出口。据古希腊传记作家、散文家普卢塔克（Plutarch, 46?-120?）所述，一些人为了牟取暴利非法私运无花果出口，但却常常被知情人告发，这类告密者（informer）希腊语作skophántēs。英语sycophant即源于此。该词于16世纪出现于英语之中，以后又从“告密者”一义引申出“诽谤者”、“谗言者”、“谄媚者”等义。以上说法虽然难以证实，但却被普遍接受。  
-			5. 按字面义讲，意为“告密者”的希腊语skophántēs原义应为fig-shower，此处fig不指无花果，而指一种侮辱性手势，即把大拇指夹在两指之间或放在上牙之下。那么，作此手势的人与告密者究竟有何联系呢？据传，古希腊告密者在执法官面前检举揭发走私犯时，常朝被揭发的走私犯作这一手势，来讨好执法官，故而得名。这种猥亵手势（fig）至今仍在地中海地区广为使用。
-			6. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
-			7. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
-			8. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
-		17. sycophantish
-		18. sycophantic
+			1. (sycophant, obsequious, submissive, )
+			2. syco-[=flg无花果] + phant-显现 → 显示无花果 → 献上无花果 → 拍马屁。
+			3. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
+			4. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
+			5. sycophant - 无花果（fig）是世界最古老的栽培果树之一，原始人即已栽培，原产亚洲西部，以后其栽培扩大到爱琴海地区和地中海东部诸国及岛屿。无花果曾是古希腊各城邦的主要食物之一，特别用于斯巴达人的宴席上。古雅典的无花果在整个东方备受赞誉，并有专门立法管理其出口，甚至一度禁止其出口。据古希腊传记作家、散文家普卢塔克（Plutarch, 46?-120?）所述，一些人为了牟取暴利非法私运无花果出口，但却常常被知情人告发，这类告密者（informer）希腊语作skophántēs。英语sycophant即源于此。该词于16世纪出现于英语之中，以后又从“告密者”一义引申出“诽谤者”、“谗言者”、“谄媚者”等义。以上说法虽然难以证实，但却被普遍接受。  
+			6. 按字面义讲，意为“告密者”的希腊语skophántēs原义应为fig-shower，此处fig不指无花果，而指一种侮辱性手势，即把大拇指夹在两指之间或放在上牙之下。那么，作此手势的人与告密者究竟有何联系呢？据传，古希腊告密者在执法官面前检举揭发走私犯时，常朝被揭发的走私犯作这一手势，来讨好执法官，故而得名。这种猥亵手势（fig）至今仍在地中海地区广为使用。
+			7. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
+			8. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
+			9. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
+		18. sycophantish
+		19. sycophantic
 	17. theophany
 		1. theo-神 + phany-显示
 		2. _n._ [manifestation](dic://manifestation)
@@ -3125,13 +3126,18 @@
 			4. _[inhibition oppress oppression overbear](dic://inhibition%20oppress%20oppression%20overbear)_ 压抑
 			5. _[overbear squelch](dic://overbear%20squelch)_ 压服
 			6. overbear criticism, protest, or arguments /压服批评抗议或争论。
-			7. overbearing
+			7. In New England the Puritans were supreme, notwithstanding the efforts of the crown to overbear their authority. /在新英格兰， 清教徒至高无上，尽管王室竭力压制他们的权威。
+			8. The line between primary and secondary employment seems to be the critical psychological point at which his good common sense ceases to overbear his bad theory /主要和次要就业之间的界限似乎是他良好的常识不再压倒他的糟糕理论的关键心理点。
+			9. overbearing
 				1. **obnoxious**可憎的;**pushy**有进取心的;**overpowering**压倒的,不可抗拒的;**tyrannical**暴君的,暴君似的;**intrusive**闯入的, 打扰的;**oppressive**压迫的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**overly**过度地;**brash**仓促的，性急的;
 				2. [domineering](dic://domineering)
 				3. [submissive](dic://submissive)
 				4. _[overbearing meek](dic://overbearing%20meek)_ 傲慢
 				5. _[outrageous overbearing](dic://outrageous%20overbearing)_ 蛮横的
 				6. an overbearing problem /一项最重要的问题
+				7. That may not happen if those in charge are overbearing. /主管如果专断霸道，这就无法实现。
+				8. I think I would change the overbearing amount of negative news in the media /我想我会改变媒体上铺天盖地的负面新闻。
+				9. Mr Clarkson might be seen as an overbearing joker, but that is precisely what his fans like. /也许克拉克森给人的印象是一个自大的爱开玩笑的人，但他的粉丝所喜爱的正是他这一点。
 		3. oil-bearing
 		4. office-bearer
 			1. **chairperson**主席;**organisation**组织;**member**成员;**councillor**政务会委员;**treasurer**司库,财务主管;**vice-president**副总裁,副校长;**chairman**主席，会长;**secretary**部长;**trustee**受托人;**institution**制定;**organiser**组织者;
@@ -5081,7 +5087,7 @@
 		10. fractionable
 		11. effraction
 	5. fractious (factitious, factious, fractious)
-		1. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy))
+		1. (restive, skittish, peevish, irascibility, animosity, indignation, [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy))
 		2. - adj. 易怒的；倔强的，难以对待的
 		3. 来自 PIE*bhreg,分开，破开，词源同 break,fragment.即破开，引申词义暴躁，易怒。
 		4. fract-折断 + -ious形容词后缀 → 碎的 → 脾气易碎。

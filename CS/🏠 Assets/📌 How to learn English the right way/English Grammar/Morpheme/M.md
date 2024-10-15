@@ -343,43 +343,51 @@
 		1. 缩写自metropolitan , 大都会，大城市。用于口语指地铁。
 		2. metropolis
 		3. metropolitan
-	3. mater
+	2. matter
+		1. 来自拉丁语 mater,母亲，词源同 mother.引申词义来源，源头，问题的实质，事实，事情等。
+		2. n. 事件, 物质, 原因, 素材, 实体, 重要  vi. 有关系
+	3. anti-matter
+	4. material
+		1.  来自拉丁语 materia,物质，材料，木料，木材，词源同 matter.
+		2. n. 材料, 物资, 素材, 布料, 资料  
+		3. a. 物质的, 肉体的, 重要的
+		4. immaterial (inconsequential, immaterial, unconsidered, unimportant, nonsignificant,  fiddling, footling, lilliputian, little, niggling, piddling, piffling, picayune, trivial, petty)
+			1. _adj._ [discorporate](dic://discorporate), [unembodied](dic://unembodied), [bodiless](dic://bodiless), [unbodied](dic://unbodied), [disembodied](dic://disembodied), [spiritual](dic://spiritual), [intangible](dic://intangible)
+			2. _n._ [material](dic://material), [relevant](dic://relevant), [important](dic://important), [of import](dic://of import)
+			3. **irrelevant**不相干的,不相关的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unimportant**不重要的;**meaningless**无意义的;**debatable**有争议的,有问题的,可争辩的;**insignificant**无价值的, 无意义的, 无用的;**merely**仅仅，只不过;**ephemeral**短暂的;**moot**无实际意义的;**insofar**在…的范围;
+			4. When it happened is immaterial; I want to know why it happened. /"发生在什么时候并不重要,我要知道的是为什么会发生这种事。"
+			5. Oh! how immaterial are all materials! /啊！一切实在之物又是多么无关紧要！
+	5. mater
 		1. n. 母亲
 		2. antimatter
-		3. material
-	4. matter
-	5. anti-matter
-	6. material
-		1. n. 材料, 物资, 素材, 布料, 资料  
-		2. a. 物质的, 肉体的, 重要的
-	7. maternal
-	8. materfamilias
-	9. maternity
+		3. maternal
+	6. materfamilias
+	7. maternity
 		1. n. 母性, 怀孕, 妇产科医院  
 		2. a. 产妇的
-	10. matriarch
+	8. matriarch
 		1. n. 女家长, 女族长
-	11. matricide
-	12. matrilineal
-	13. matrix
+	9. matricide
+	10. matrilineal
+	11. matrix
 		1. matri-母亲 + x → 母亲 → 母体。
 		2. matrix ['meɪtrɪks] n.矩阵；模型；[生物][地质] 基质；母体；子宫。拉丁词源，与英语本族单词mother同源。英国学者WilliamTyndale在自己从拉丁语翻译作英语的《圣经》中第一次将这个单词引入了英语。体会一下所有的意思，都和母亲在子宫里孕育胎儿这一现象有关。矩阵？括号里包含（孕育）着数集。 ​​​​
 		3. n. 母体, 子宫, 基质, 脉石, 模型, 矩阵
-	14. matrices
+	12. matrices
 		5. (专业术语)基质, 基体, 基岩, 子宫, 发源地, 母式, 真值表, 矩阵, 型片, 纸型, 模型
-	15. matric (metric)
+	13. matric (metric)
 		7. n. (大学的)入学考试
-	16. matron
+	14. matron
 		1. n. 妇女, 主妇, 女总管
 		2. matri-,母亲，-on,大词后缀。即像母亲一样的女人或年长的女性，引申词义女舍监，女护士长等。
-	17. matrimony
+	15. matrimony
 		1. n. 结婚, 婚姻生活, 婚礼
 		2.  matri-,母亲，-mony,名词后缀，词源同 alimony.比喻用法。
-	18. matronymic, metronymic
+	16. matronymic, metronymic
 		1. n. 出自母亲或女性祖先的名a. 表示母系的, 母姓的
 		2. matron【妇女】 + -onym + -ic表形容词
 		3. matri-,母亲，-onym,名字，词源同 name.引申词义母系姓氏。
-	19. matriculate
+	17. matriculate
 		1. 来自拉丁语 matriculare,登记，登记入学，来自 mater,母亲，词源同 mother.比喻用法。比较Alma Mater.
 		2. vt. 准许入学, 录取  
 		3. vi. 入学, 进大学  
@@ -405,7 +413,7 @@
 			6. _[matriculation form](dic://matriculation%20form)_  入学形式
 			7. This is how she completed her matriculation. /就这样， 她完成了入学考试。
 			8. The son passed the matriculation and went to university. /儿子通过了大学入学考试，上了大学。
-	20. madrigal
+	18. madrigal
 		1. n. 情歌, 小调, 重唱歌曲
 		2. 来自拉丁语matricalis , 子宫的，初始的，字面意思即像婴儿一样纯朴无暇的，清新的，后用于指牧歌。
 		3. madrigal ['mædrɪg(ə)l] n.情歌；小曲。这种乐曲产生于意大利（意大利人擅长唱歌和踢球撩妹），来自拉丁语matricalis。这里的-alis即形容词后缀-al，而词根matr-表母亲（子宫），与日耳曼词源的mother同源。拉丁到意大利语的阶段，t变d，c变g，因为这种音乐最初的形式简单淳朴，就象刚从娘胎里出来。 ​​​​
@@ -415,8 +423,8 @@
 		7. to resemble the madrigal in style /在风格上类似于短情歌
 		8. His other works include motets and madrigals. /他的其它作品包括赞美诗和情歌。
 		9. She seemed to belong rightly to a madrigal—to require viewing through rhyme and harmony. /她好像就理应属于清唱的情歌——需要从节奏与和声加以观察。
-	21. matradelphy
-	22. matrilineal
+	19. matradelphy
+	20. matrilineal
 		1. a. 母系的
 		2. matrilineage
 2. **metra-,metro-** = 表示“子宫”。
@@ -593,93 +601,130 @@
 		5. _analysis method_ 解析法；离子微探针质谱仪分析法
 		6. _design method_ 设计方法，设计法
 	41. etc..
-#### + \*me- (3) + = to measure
+#### ⭐ + \*me- (3) + = to measure
 1. **-meter** = instrument to measure, 表示“（测量）仪器”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
+	1. accelerometer
+	2. etc.
 2. **-metry** = process of measuring, 表示“（测量）术”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
+	1. actinometry
+	2. etc.
 3. **meas-, mens-** = measure, 表示“测量”。源自拉丁语 metiri "to measure."
-	1. commeasure, commensurate, commensurable
-		1. incommensurable
+	1. commeasure
+		1. commensurate
+		2. commensurable
+		3. incommensurable
 			1. **paradoxical**似是而非的 矛盾的 诡论的;**unequal**不平等的;**infinite**无限的，无穷的;**irrational**无理性的;**incompatible**合不来的, 不能和谐相处的;**transcendental**超凡的;**orthogonal**直角的,直交的;**finite**有限的;**contradictory**矛盾的;**equal**相等的;**transcendent**卓越的;
 			2. [incomparable](dic://incomparable), [uncomparable](dic://uncomparable), [incommensurate](dic://incommensurate)
-	2. dimension
-	3. immense
-		1. **enormous**庞大的，巨大的;**tremendous**极大的, 巨大的;**considerable**相当大的;**huge**巨大的, 庞大的;**massive**大量的;**colossal**巨大的;**vast**巨大的;**prodigious**巨大的;**incredible**不能相信的, 不可信的;**ever-increasing**不断增长的;**gigantic**巨大的，庞大的;
-		2. [small](dic://small), [little](dic://little)
-		3. [large](dic://large), [big](dic://big)
-		4. [huge](dic://huge), [vast](dic://vast), [Brobdingnagian](dic://Brobdingnagian)
-		5. [huge](dic://huge) 含义广，强调体积或容积的庞大。也可用于引申意义。
-		6. [enormous](dic://enormous) 指体积、数量或程度远远超过一般标准。
-		7. [immense](dic://immense) 正式用词，侧重空间的广阔，也指面积或分量的巨大。
-		8. [giant](dic://giant) 非正式用词，多为褒义。指如巨人般的庞大体积。
-		9. [gigantic](dic://gigantic) 指面积或体积的巨大，但多用于引申意义。
-		10. [colossal](dic://colossal) 侧重尺寸、规模和体积的无比巨大。
-		11. [vast](dic://vast) 多指空间、面积、范围的巨大，不涉及重量。
-		12. [massive](dic://massive) 指大的体积、数量和重量，侧重庞大而笨重。
-		13. [tremendous](dic://tremendous) 指某物很大，大得惊人；也可用作引申意义。
-	4. measure
-	5. mensurability
-	6. mensurable
-	7. mensural
-	8. mensurate
+	3. dimension
+	4. immense (unfathomable)
+		1. im-不 + mens-测量 + -e → 不能测量 → 无限的。
+		2.  im-,不，非，-mens,测量，词源同 meter,measurable.即没法测量的，巨大的。
+		3. **enormous**庞大的，巨大的;**tremendous**极大的, 巨大的;**considerable**相当大的;**huge**巨大的, 庞大的;**massive**大量的;**colossal**巨大的;**vast**巨大的;**prodigious**巨大的;**incredible**不能相信的, 不可信的;**ever-increasing**不断增长的;**gigantic**巨大的，庞大的;
+		4. [small](dic://small), [little](dic://little)
+		5. [large](dic://large), [big](dic://big)
+		6. [huge](dic://huge), [vast](dic://vast), [Brobdingnagian](dic://Brobdingnagian)
+		7. [huge](dic://huge) 含义广，强调体积或容积的庞大。也可用于引申意义。
+		8. [enormous](dic://enormous) 指体积、数量或程度远远超过一般标准。
+		9. [immense](dic://immense) 正式用词，侧重空间的广阔，也指面积或分量的巨大。
+		10. [giant](dic://giant) 非正式用词，多为褒义。指如巨人般的庞大体积。
+		11. [gigantic](dic://gigantic) 指面积或体积的巨大，但多用于引申意义。
+		12. [colossal](dic://colossal) 侧重尺寸、规模和体积的无比巨大。
+		13. [vast](dic://vast) 多指空间、面积、范围的巨大，不涉及重量。
+		14. [massive](dic://massive) 指大的体积、数量和重量，侧重庞大而笨重。
+		15. [tremendous](dic://tremendous) 指某物很大，大得惊人；也可用作引申意义。
+	6. measure
+	7. mensurability
+	8. mensurable
+	9. mensural
+	10. mensurate
 4. **men-, meno-** = moon, 表示“月”。源自希腊语 men, mene "month."
-	1. menarche
-		1. _n._ [start](dic://start)
-		2. **puberty**青春期;**menopause**经绝期;**menstruation**月经;**adolescence**青春期;**menstrual**月经的;**adulthood**成人期;**ovulation**排卵;**onset**开始，着手;**hormonal**荷尔蒙的，激素的;**estrogen**雌性激素;**age**年龄;
-		3. premenarche
-		4. premenarchal
-	3. amenorrhoea
-		1. _n._ [symptom](dic://symptom)
-		2. **menstruation**月经;**hypothyroidism**甲状腺机能减退;**menopause**经绝期;**menstrual**月经的;**anorexia**厌食;**ovulation**排卵;**hormonal**荷尔蒙的，激素的;**symptoms**病徵;**osteoporosis**骨质疏松症;**constipation**便秘;**anemia**贫血;
-	4. menology
+	1. menarche (monarchy)
+		1. 1. the first occurrence of menstruation in a woman
+		2. - n. 初潮（少女的第一次月经来潮）
+		3. _n._ [start](dic://start)
+		4. **puberty**青春期;**menopause**经绝期;**menstruation**月经;**adolescence**青春期;**menstrual**月经的;**adulthood**成人期;**ovulation**排卵;**onset**开始，着手;**hormonal**荷尔蒙的，激素的;**estrogen**雌性激素;**age**年龄;
+		5. There are many causes of secondary amenorrhea, and when they occur before menarche, all of these can also cause primary amenorrhea /有许多原因会导致继发性闭经，而当它们在初潮前发生时，都会导致原发性闭经。
+		6. What about two-thirds of rural high school girls in India who don't even understand what their bodies are going through at menarche? /印度三分之二的农村高中女生甚至不了解她们的身体在月经初潮时经历了什么？
+		7. premenarche
+		8. premenarchal
+	3. amenorrhoea [美 /ei,menə'ri:ə/](cmd://Speak/_us_/amenorrhoea)
+		1. - n. 闭经（因生病或怀孕）
+		2. _n._ [symptom](dic://symptom)
+		3. **menstruation**月经;**hypothyroidism**甲状腺机能减退;**menopause**经绝期;**menstrual**月经的;**anorexia**厌食;**ovulation**排卵;**hormonal**荷尔蒙的，激素的;**symptoms**病徵;**osteoporosis**骨质疏松症;**constipation**便秘;**anemia**贫血;
+	5. menology
 		1. n. （希腊教）圣诞节日历；（记有大事的）月历
-	5. menopause
-		1. _n._ [biological time](dic://biological time)
-		2. **hysterectomy**子宫切除;**puberty**青春期;**menstruation**月经;**hormonal**荷尔蒙的，激素的;**infertility**不肥沃,不毛;**estrogen**雌性激素;**osteoporosis**骨质疏松症;**menstrual**月经的;**ovulation**排卵;**pregnancy**怀孕;**progesterone**孕酮,黄体酮;
-		3. menopausal
+	6. menopause
+		1. n. 绝经期
+		2. _n._ [biological time](dic://biological time)
+		3. **hysterectomy**子宫切除;**puberty**青春期;**menstruation**月经;**hormonal**荷尔蒙的，激素的;**infertility**不肥沃,不毛;**estrogen**雌性激素;**osteoporosis**骨质疏松症;**menstrual**月经的;**ovulation**排卵;**pregnancy**怀孕;**progesterone**孕酮,黄体酮;
+		4. menopausal
 			1. _adj._ [menopause](dic://menopause), [climacteric](dic://climacteric), [change of life](dic://change of life)
 			2. **menopause**经绝期;**hormonal**荷尔蒙的，激素的;**estrogen**雌性激素;**menstrual**月经的;**osteoporosis**骨质疏松症;**hysterectomy**子宫切除;**menstruation**月经;**postpartum**产后的;**progesterone**孕酮,黄体酮;**infertility**不肥沃,不毛;**PMS**月经前不快症状;
 			3. _menopausal syndrome_ 更年期综合症
-		4. postmenopausal
-		5. perimenopausal
+			4. Before the study, 22% of menopausal women in America took HRT. /在这项研究之前，22%的美国更年期妇女接受了激素替代疗法。
+			5. In Australia, around 15% of menopausal women with moderate or severe symptoms receive the treatment /在澳大利亚，有中度或重度症状的更年期妇女中约有15%接受这种治疗。
+			6. So menopausal women suffer physical symptoms, as well as possibly dealing with discrimination based on their age. /所以更年期的女性身体上会出现症状，也可能会受到年龄上的歧视。
+			7. No banter, please, to menopausal women /请不要对更年期妇女开玩笑。
+			8. The results do not change recommendations concerning combination hormone therapy for the two-thirds of **menopausal** women. /对于更年期妇女，这结果并没有改变关于联合激素治疗的建议。
+		5. postmenopausal
+		6. perimenopausal
 	7. catamenia
-		1. _n._ [discharge](dic://discharge), [emission](dic://emission), [expelling](dic://expelling)
-		2. **menstruation**月经;**menstrual**月经的;
+		1. n. 月经
+		2. _n._ [discharge](dic://discharge), [emission](dic://emission), [expelling](dic://expelling)
+		3. **menstruation**月经;**menstrual**月经的;
 	8. emmenagogue
-		1. **herb**香草，药草;**stimulant**兴奋剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**menstruation**月经;**uterine**子宫的;**herbal**草本的;**herbs**药草;
+		1. n. 月经促进剂, 通经剂, 调经剂
+		2. **herb**香草，药草;**stimulant**兴奋剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**menstruation**月经;**uterine**子宫的;**herbal**草本的;**herbs**药草;
 	9. mensal
-		1. _[mensal rate](dic://mensal%20rate)_ 月息率
-		2. _[Mensal chair](dic://Mensal%20chair)_ 餐椅
-		3. _[monthly mensal](dic://monthly%20mensal)_ 每月的
-		4. _[mensal monthly](dic://mensal%20monthly)_ 每月一次的
-		5. _[Quota mensal](dic://Quota%20mensal)_ 每月会费
-		6. _[Rate per mensal](dic://Rate%20per%20mensal)_ 月率
-		7. _[Orgiastic night is mensal](dic://Orgiastic%20night%20is%20mensal)_ 狂欢夜餐桌
-		8. _[Desconto mensal via Serviço](dic://Desconto%20mensal%20via%20Servi%c3%a7o)_ 在部门内扣除
+		1. a. 每月一次的, 每月的, 餐桌的
+		2. mensal ['mensəl] adj.餐桌的；每月的。第一层含义中mens表桌子，与meat肉同源，mensal就是pertaining to a table；第二层含义与moon同源，本意是测量，于是mensal就是monthly。但是commensal共餐者与moon木有关系，而commensalism共生就是eating together了，比如大快朵颐的狮子和随后吃腐肉的秃鹫。
+		3. _[mensal rate](dic://mensal%20rate)_ 月息率
+		4. _[Mensal chair](dic://Mensal%20chair)_ 餐椅
+		5. _[monthly mensal](dic://monthly%20mensal)_ 每月的
+		6. _[mensal monthly](dic://mensal%20monthly)_ 每月一次的
+		7. _[Quota mensal](dic://Quota%20mensal)_ 每月会费
+		8. _[Rate per mensal](dic://Rate%20per%20mensal)_ 月率
+		9. _[Orgiastic night is mensal](dic://Orgiastic%20night%20is%20mensal)_ 狂欢夜餐桌
+		10. _[Desconto mensal via Serviço](dic://Desconto%20mensal%20via%20Servi%c3%a7o)_ 在部门内扣除
 	10. menses
 	11. menstrual
-		1. _adj._ [menstruation](dic://menstruation), [menses](dic://menses), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
-		2. **menstruation**月经;**ovulation**排卵;**menopause**经绝期;**cramps**肌肉抽筋;**hormonal**荷尔蒙的，激素的;**vaginal**阴道的;**fertility**肥沃;**pregnancy**怀孕;**postpartum**产后的;**estrogen**雌性激素;**uterine**子宫的;
+		1. a. 月经的, 一月一次的, 每月的
+		2. _adj._ [menstruation](dic://menstruation), [menses](dic://menses), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
+		3. **menstruation**月经;**ovulation**排卵;**menopause**经绝期;**cramps**肌肉抽筋;**hormonal**荷尔蒙的，激素的;**vaginal**阴道的;**fertility**肥沃;**pregnancy**怀孕;**postpartum**产后的;**estrogen**雌性激素;**uterine**子宫的;
 			1. _menstrual cycle_ [医]月经周期
 			2. _menstrual period_ n. 月经期
 			3. _menstrual flow_ [生理]月经
 			4. _menstrual disorder_ 月经失调；月经紊乱
-		6. premenstrual
+		4. premenstrual
 			1. _adj._ [menstruation](dic://menstruation), [menses](dic://menses), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
 			2. **menstrual**月经的;**PMS**月经前不快症状;**menopause**经绝期;**hormonal**荷尔蒙的，激素的;**menstruation**月经;**cramps**肌肉抽筋;**postpartum**产后的;**depressive**郁闷的;**ovulation**排卵;**insomnia**失眠症，失眠;**ovarian**卵巢的;
-		7. postmenstrual
-		8. midmenstrual
-		9. intermenstrual
+		5. postmenstrual
+		6. midmenstrual
+		7. intermenstrual
 	12. menstruate
-		1. menstruation
-		2. pseudoimenstruation
+		1. vi. 有月经
+		2. menstruation
+		3. pseudoimenstruation
 	13. menstruous
+		1. a. 月经的, 行经的
 	14. menstruum
 		1. premenstruum
 		2. intermenstruum
 	15. menotropin
 5. **menisc** = 用于构成解刨学词汇，表示“半月板”。
+	1. meniscus
+		1. n. 新月形物, 半月板
 6. **mester-** = month, 表示“月”。源自拉丁语 mensis "month."
+	1. bimester
+	2. semester
+	3. trimester
+	4. bimestrial
 7. **meter-, metr-** = measure, 表示“计量，测量等”。源自希腊语 metron "measure, rule, length, proportion, poetic meter."
+	1. meter
+	2. diameter
+	3. dimeter
+	4. geometer
+	5. etc..
 8. month
 9. moon
 
@@ -873,12 +918,13 @@
 		5. [retiring](dic://retiring), [unassuming](dic://unassuming), [moderate](dic://moderate), [unpretentious](dic://unpretentious), [coy](dic://coy), [demure](dic://demure), [overmodest](dic://overmodest)
 		6. [immodest](dic://immodest), [immoderate](dic://immoderate), [pretentious](dic://pretentious), [superior](dic://superior), [proud](dic://proud), [unlimited](dic://unlimited), [limitless](dic://limitless)
 		7. **meager**贫乏的;**paltry**不足取的;**sizable**相当大的;**comparatively**对比地;**substantial**大量的;**respectable**人格高尚的;**hefty**重的;**sizeable**大的，相当大的;**unassuming**谦逊的;**small**少的，小的;**relatively**相对地,比较而言;
-	1. modicum (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged)
-		1. mode【模式，方式，尺度】 + -ic + -um , 表中性。即按尺度，按量，引申词义少量，一点点。
-		2. **semblance**外表;**lack**缺乏;**sense**官能, 感官;**requisite**必要的事物;**decency**正派;**scant**不足的;**considerable**相当大的;**sort**种类;**sufficient**足够的;**decent**得体的;**glimmer**微光
-		3. _[mint modicum](dic://mint%20modicum)_ 巨额
-		4. _[a modicum of](dic://a%20modicum%20of)_ 少量的; 些许的; 一点点; 
-		5. _[A modicum of effect](dic://A%20modicum%20of%20effect)_ 尺寸之效
+	1. modicum 
+		1.  (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+		2. mode【模式，方式，尺度】 + -ic + -um , 表中性。即按尺度，按量，引申词义少量，一点点。
+		3. **semblance**外表;**lack**缺乏;**sense**官能, 感官;**requisite**必要的事物;**decency**正派;**scant**不足的;**considerable**相当大的;**sort**种类;**sufficient**足够的;**decent**得体的;**glimmer**微光
+		4. _[mint modicum](dic://mint%20modicum)_ 巨额
+		5. _[a modicum of](dic://a%20modicum%20of)_ 少量的; 些许的; 一点点; 
+		6. _[A modicum of effect](dic://A%20modicum%20of%20effect)_ 尺寸之效
 	3. modify
 	4. modish
 		1. [latest](dic://latest), [a la mode(p)](dic://a la mode(p)), [in style(p)](dic://in style(p)), [in vogue(p)](dic://in vogue(p))
@@ -2568,21 +2614,22 @@
 		1. maliciousness
 		2. maliciously
 	30. malign
-		1.  [badmouth](dic://badmouth), [traduce](dic://traduce), [drag through the mud](dic://drag through the mud)
-		2. [malefic](dic://malefic), [malevolent](dic://malevolent), [evil](dic://evil)
-		3. _v._ [defame](dic://defame), [slander](dic://slander), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear)
-		4. _adj._ [cancerous](dic://cancerous), [evil](dic://evil), [harmful](dic://harmful), [injurious](dic://injurious), [maleficent](dic://maleficent)
-		5. _n._ [benign](dic://benign), [benignant](dic://benignant), [beneficent](dic://beneficent)
-		6. **malevolent**有恶意的;**discredit**败坏…的名声;**malignant**有恶意的;**nefarious**极坏的;**pernicious**很有害的;**subvert**推翻;**undermine**在某物下挖洞或挖通道;**insidious**隐伏的;**sinister**阴险的;**malicious**恶意的, 恶毒的;**benign**良性的;
-		7. malignity
-		8. malignin
-		9. maligner
-		10. malignant
-		11. malignancy
-		12. malignance
-		13. malignogram
-		14. malignometer
-		15. etc..
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2.  [badmouth](dic://badmouth), [traduce](dic://traduce), [drag through the mud](dic://drag through the mud)
+		3. [malefic](dic://malefic), [malevolent](dic://malevolent), [evil](dic://evil)
+		4. _v._ [defame](dic://defame), [slander](dic://slander), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear)
+		5. _adj._ [cancerous](dic://cancerous), [evil](dic://evil), [harmful](dic://harmful), [injurious](dic://injurious), [maleficent](dic://maleficent)
+		6. _n._ [benign](dic://benign), [benignant](dic://benignant), [beneficent](dic://beneficent)
+		7. **malevolent**有恶意的;**discredit**败坏…的名声;**malignant**有恶意的;**nefarious**极坏的;**pernicious**很有害的;**subvert**推翻;**undermine**在某物下挖洞或挖通道;**insidious**隐伏的;**sinister**阴险的;**malicious**恶意的, 恶毒的;**benign**良性的;
+		8. malignity
+		9. malignin
+		10. maligner
+		11. malignant
+		12. malignancy
+		13. malignance
+		14. malignogram
+		15. malignometer
+		16. etc..
 	32. malinger
 		1. malingering
 		2. malingerer
@@ -2798,28 +2845,29 @@
 		2. reminiscence, pseudoreminiscence
 4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
 5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
-	1. admonish
-		1.  ad-,去，往，-mon,建议，警告，词源同 monitor,班长。
-		2. _vt._ 劝告, 训诫
-		3. (温和地)责备，轻责
-		4.  [warn](dic://warn), [discourage](dic://discourage), [monish](dic://monish)
-		5.  [caution](dic://caution), [monish](dic://monish)
-		6. [reprove](dic://reprove)
-		7. _v._ [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel), [warn](dic://warn), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise)
+	1. admonish (exhort, expostulate)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate)
+		2.  ad-,去，往，-mon,建议，警告，词源同 monitor,班长。
+		3. _vt._ 劝告, 训诫
+		4. (温和地)责备，轻责
+		5.  [warn](dic://warn), [discourage](dic://discourage), [monish](dic://monish)
+		6.  [caution](dic://caution), [monish](dic://monish)
+		7. [reprove](dic://reprove)
+		8. _v._ [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel), [warn](dic://warn), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise)
 			1. [advise](dic://advise) 普通用词，泛指劝告，不涉及对方是否听从劝告。  
 			2. [caution](dic://caution) 主要指针对有潜在危险而提出的警告，含小心从事的意味。  
 			3. [warn](dic://warn) 含义与caution相同，但语气较重，尤指重后果。  
 			4. [admonish](dic://admonish) 一般指年长者或领导对已犯错误的或有过失的人提出的忠告或警告以避免类似错误。  
 			5. [counsel](dic://counsel) 正式用词，语气比advise强一些，侧重指对重要问题提出的劝告、建议或咨询。
-		8. **instruct**命令;**rebuke**指责，非难;**warn**警告，提醒;**accuse**控告，指控;**condemn**判刑，定罪;**embarrass**使窘迫;**lest**唯恐，以免;**punish**严厉对待;**criticize**评论, 批评;**encourage**鼓励, 激励;**denounce**谴责;
-		9. she admonished me for appearing at breakfast unshaven. /她责备我没刮脸就来吃早饭。
-		10. The coach admonished the girls for being lazy. /教练告诫姑娘们不要偷懒。
-		11. A caption admonishes citizens to vote yes in the referendum. /说明文字力劝市民在公投中投赞成票。
-		12. admonishment
-		13. admonition
+		9. **instruct**命令;**rebuke**指责，非难;**warn**警告，提醒;**accuse**控告，指控;**condemn**判刑，定罪;**embarrass**使窘迫;**lest**唯恐，以免;**punish**严厉对待;**criticize**评论, 批评;**encourage**鼓励, 激励;**denounce**谴责;
+		10. she admonished me for appearing at breakfast unshaven. /她责备我没刮脸就来吃早饭。
+		11. The coach admonished the girls for being lazy. /教练告诫姑娘们不要偷懒。
+		12. A caption admonishes citizens to vote yes in the referendum. /说明文字力劝市民在公投中投赞成票。
+		13. admonishment
+		14. admonition
 			1. n. 警告, 劝告, 训诫
-		14. admonitory
-		15. admonitor
+		15. admonitory
+		16. admonitor
 	3. monition
 	4. monitor
 		1. unmonitored
@@ -3430,7 +3478,7 @@
 		6. [black](dic://black), [grim](dic://grim)
 		7. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
 		8. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
-	5. morsel
+	5. morsel (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, morsel)
 		1. morsel ['mɔːs(ə)l] n.一口；（食物）少量。拉丁词根mord-,mors-表示咬，后缀-el指小，所以morsel就是你能一口（量少）吞下（咬）的食物。类似逻辑，单词bit [bɪt] n.比特；少量；马嚼子；一点，adj.很小的，adv.有点儿，与bite咬和bait诱饵等日耳曼词源单词有关。一口咬下去，差不多都是那个量。 ​​​​
 		2. [bit](dic://bit), [bite](dic://bite)
 		3. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
@@ -3899,14 +3947,26 @@
 		3. cuntermark
 		4. datemark
 		5. floodmark
-		6. kite-mark
-		7. monomark
-		8. ostmark
-		9. postmark
-		10. pressmark
-		11. proofmark
-		12. pugmark
-		13. remark
+		6. hallmark
+			1.  [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
+			2.  [authentication](dic://authentication), [assay-mark](dic://assay-mark)
+			3. _n._ [characteristic](dic://characteristic), [marker](dic://marker), [marking](dic://marking), [mark](dic://mark)
+			4. **characteristic**典型的;**cornerstone**奠基石;**distinctive**有特色的, 与众不同的;**epitome**缩影;**synonymous**同义的;**quintessential**精髓的;**unmistakable**错不了的;**mainstay**支柱;**emblematic**象征的;**evident**明显的;**reminiscent**提醒的, 暗示的;
+			5. the tiny bubbles are the hallmark of fine champagnes. /细微的气泡是优质香槟酒的特征。
+			6. Clear expression is the hallmark of a good speaker. (喻) /清晰的表达能力是一位出色的演说家的特征。
+			7.  One hallmark of a good politician is his ability to influence people /衡量一个优秀政治家的标志之一就是他影响大众的能力。
+		7. kite-mark
+		8. monomark
+		9. ostmark
+		10. postmark
+			1. _n._ [marker](dic://marker), [marking](dic://marking), [mark](dic://mark)
+			2. _v._ [stamp](dic://stamp)
+			3. **postcard**明信片;**postage**邮资，邮费;**mailed**披着锁子甲的,装甲的;**stamp**邮票;**envelope**信封，封皮;**stamps**邮票;**postal**邮政的;**mail**邮政，邮递;**receipt**收到;**stamped**盖上邮戳的;**letter**字母，文字;
+		11. pressmark
+			1. - n. 编号，号码；书架号码
+		12. proofmark
+		13. pugmark
+		14. remark
 			1. unremarked
 			2. remarkable
 				1. _adj._ [extraordinary](dic://extraordinary), [significant](dic://significant), [important](dic://important)
@@ -3915,12 +3975,12 @@
 				4. _remarkable development_ 显著发展r
 				5. unremarkable
 				6. remarkably
-		14. seamark
-		15. stree-mark
-		16. telemark
-		17. thumbmark
-		18. trademark
-		19. well-marked
+		15. seamark
+		16. stree-mark
+		17. telemark
+		18. thumbmark
+		19. trademark
+		20. well-marked
 	2. march
 		1.  [marching](dic://marching)
 		2. _n._ [Gregorian calendar month](dic://Gregorian calendar month), [walk](dic://walk), [walking](dic://walking), [progress](dic://progress), [progression](dic://progression), [procession](dic://procession), [advance](dic://advance)
@@ -4042,17 +4102,18 @@
 		1. subformula
 		2. formulistic
 		3. formulaic
-			1. **cliches**陈腔滥调;**predictable**可预知的;**bland**乏味的;**simplistic**过分单纯化的;**repetitive**重复的;**cliche**陈词滥调;**contrived**不自然的;**banal**陈腐的;**corny**谷类的;**monotonous**无变化的, 单调乏味的;
-		4. formulate
+			1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, contrived)
+			2. **cliches**陈腔滥调;**predictable**可预知的;**bland**乏味的;**simplistic**过分单纯化的;**repetitive**重复的;**cliche**陈词滥调;**contrived**不自然的;**banal**陈腐的;**corny**谷类的;**monotonous**无变化的, 单调乏味的;
+		5. formulate
 			1. **devise**设计;**synthesize**合成;**implement**使生效, 贯彻, 执行;**develop**开发;**analyze**对…进行分析，分解;**establish**建立, 成立;**revise**校订;**evaluate**评价;**articulate**发音清晰的;**propose**建议;**enact**扮演;
 			2. reformulate
 			3. half-formulated
 			4. formulation
 			5. formulating
-		5. formulas
-		6. formulary
-		7. formulae
-		8. formula-traslation
+		6. formulas
+		7. formulary
+		8. formulae
+		9. formula-traslation
 	44. formulism
 	45. formulist
 	46. formulize
@@ -4164,6 +4225,20 @@
 		1. zygomorphism
 		2. zygomorphous
 	26. palynomorph
+
+
+### mes-,mens- 表示“桌子”，来自拉丁语。
+1. commensal (symbiotic; accrete; commensal; paragenetic;)
+	1. a. 共餐的, 同桌的, 共生的  
+	2. n. 共餐者, 共生体
+	3. com-一起 + mens-桌子 + -al表形容词
+	4. mensal ['mensəl] adj.餐桌的；每月的。第一层含义中mens表桌子，与meat肉同源，mensal就是pertaining to a table；第二层含义与moon同源，本意是测量，于是mensal就是monthly。但是commensal共餐者与moon木有关系，而commensalism共生就是eating together了，比如大快朵颐的狮子和随后吃腐肉的秃鹫。
+	5. _n._ [organism](dic://organism), [being](dic://being)
+	6. _adj._ [commensalism](dic://commensalism)
+	7. **pathogenic**引起疾病的;**microbes**细菌，微生物;**symbiotic**共生的;**bacterium**细菌;**bacteria**细菌;**pathogens**病原体;**microbial**微生物的;**bacterial**细菌的;**mucosal**粘膜的;**pathogen**病原体;**virulence**毒力,毒性,恶意;
+	8. Now, this news may make you recoil in horror, but thankfully they are commensal species, which means that whilst they benefit from us, they are completely harmless. /现在，这个消息可能会让你害怕，但谢天谢地，它们是共生物种，这意味着虽然它们从我们身上受益，但它们是完全无害的。
+	9. That's a species of commensal bacteria, which basically means it's friendly. /这是一种共生细菌，也就意味着它本质上是友好的。
+2. mesa
 
 
 ### ⭐ mess-, miss-, mit- = send, cast, 表示“送，放出”。源自拉丁语 mittere (分词形式 missus) "let go, send."

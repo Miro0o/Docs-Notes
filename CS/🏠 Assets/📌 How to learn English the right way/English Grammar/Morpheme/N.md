@@ -317,65 +317,88 @@
 1. **nec-, necro-** = die, 表示“死”。源自希腊语 nekro "corpse."
 	1. necrobiosis
 	2. necrogenic
+		1. a. 死质性的
 	3. necrology
 	4. necrophagous
 	5. necrophilia
+		1. n. 恋尸狂
 	6. necropolis
+		1. n. 大墓地, 史前坟场
 	7. necropsy
-		1. [autopsy](dic://autopsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
-		2. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
-		3. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
+		1. necropsy ['nekrɒpsɪ] n.验尸，autopsy ['ɔːtɒpsɪ] n.验尸。二者意思接近，什么区别？necropsy侧重于对死亡牲畜等的解刨，要了解死因，词根necro-表death，如词汇necrosis坏疽，-osis后缀表disease。而autopsy侧重对人尸体的解刨，有科学需要也有司法用途，auto-表self，强调了要“亲自检验”。
+		2. [autopsy](dic://autopsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
+		3. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
+		4. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
+		5. Utah wildlife officials are expecting necropsy results after the New Year from a government wildlife health lab in Wisconsin /犹他州野生动物保护官员正在等待威斯康星州政府野生动物健康实验室在新年后得出的尸检结果。
+		6. She's a comparative anatomist and a scientist that also does whale necropsies — or in layman's terms, whale autopsies. /她是一位比较解剖学家，也是一位从事鲸鱼尸体解剖的科学家--或者用通俗的话说，就是鲸鱼尸体解剖
+		7. 
 	8. necroscopy
 	9. necroses
-	11. necrotize
-	12. necromancer
-	13. necromancy
+	10. necrotize
+	11. necromancer
+	12. necromancy
 		1. _[necromancy](dic://necromancy)_  n. 巫术，妖术
 		2. _n._ [magic](dic://magic), [thaumaturgy](dic://thaumaturgy), [divination](dic://divination), [foretelling](dic://foretelling), [soothsaying](dic://soothsaying), [fortune telling](dic://fortune telling)
 		3. **sorcery**魔术，巫术;**witchcraft**巫术;**occult**神秘的;**alchemy**点金术;**witches**魔女;**magic**巫术，魔法，戏法;**voodoo**伏都教;**arcane**晦涩难解的;**mysticism**神秘主义;**mage**博学者;**demon**魔鬼;
 		4. People babbled of satanism and of necromancy /人们喋喋不休地谈论撒旦教和巫术。
 		5. Modern psychology, it may be, will endeavor to reduce these alleged necromancies within a system, instead of rejecting them as altogether fabulous /现代心理学可能会努力在一个系统中减少这些所谓的死灵法术，而不是将它们完全当作神话来拒绝。
-	14. necrosis
-		1. 1. the localized death of living cells (as from infection or the interruption of blood supply)
+	13. necrosis
+		1. - necro-,死亡，-osis,症状。
+		2. 1. the localized death of living cells (as from infection or the interruption of blood supply)
 			1. [mortification](dic://mortification), [gangrene](dic://gangrene), [sphacelus](dic://sphacelus)
-		2. _n._ [death](dic://death)
-		3. **apoptosis**细胞死;**edema**瘤腺体;**lesion**损害;**ischemia**局部缺血;**fibrosis**纤维化，纤维变性;**hemorrhage**出血;**infarction**梗塞;**tumor**肿瘤;**inflammation**炎症;**atrophy**萎缩，萎缩症;**tumour**肿瘤;
-		4. _ischemic necrosis_ 缺血性坏死
-		5. _coagulation necrosis_ [医]凝固性坏死
-		6. _necrosis virus_ 坏死病毒
-		7. aponecrosis
-		8. necrotic
+		3. _n._ [death](dic://death)
+		4. **apoptosis**细胞死;**edema**瘤腺体;**lesion**损害;**ischemia**局部缺血;**fibrosis**纤维化，纤维变性;**hemorrhage**出血;**infarction**梗塞;**tumor**肿瘤;**inflammation**炎症;**atrophy**萎缩，萎缩症;**tumour**肿瘤;
+		5. _ischemic necrosis_ 缺血性坏死
+		6. _coagulation necrosis_ [医]凝固性坏死
+		7. _necrosis virus_ 坏死病毒
+		8. aponecrosis
+		9. necrotic
 			1. _adj._ [necrosis](dic://necrosis), [mortification](dic://mortification), [gangrene](dic://gangrene), [sphacelus](dic://sphacelus)
 			2. **necrosis**坏死;**lesion**损害;**malignant**有恶意的;**hemorrhage**出血;**ischemic**缺血性的;**edema**瘤腺体;**fibrous**纤维的，纤维性的;**diseased**患病的;**cancerous**癌的;**infected**被感染的;**apoptosis**细胞死;
-	15. internecine
-	16. nectar
-		1. **honey**蜂蜜;**pollen**传授花粉给;**hummingbird**蜂鸟;**agave**龙舌兰，龙舌兰属植物;**sap**树液;**syrup**糖浆，果汁;**bee**蜜蜂，蜂;**insects**昆虫;**flower**花;**saliva**唾液;**juice**果汁;
-	18. necrocitin
-	19. necrolysis
-	20. necron
-	21. necrophorous
-	22. necrotaxis
-	23. paranecrosis
+	14. internecine
+	15. nectar
+		1. nectar（甘露）：神的饮品  
+		2. 希腊神话众神饮用的琼浆玉液叫做nektar，由nek-（死亡）和-tar（战胜）组成，字面意思就是“战胜死亡”，据说神仙们饮用后可以永葆美貌并长生不老。英语单词nectar就来来源于此。  
+		3. nectar：['nektə] n.花蜜，甘露，琼浆玉液，神酒，美味的饮料  
+		4. nectarous：['nektərəs] adj.甘美的，神酒似的  
+		5. nectary：['nekt(ə)rɪ] n.（植物）蜜腺，蜜管
+		6. **honey**蜂蜜;**pollen**传授花粉给;**hummingbird**蜂鸟;**agave**龙舌兰，龙舌兰属植物;**sap**树液;**syrup**糖浆，果汁;**bee**蜜蜂，蜂;**insects**昆虫;**flower**花;**saliva**唾液;**juice**果汁;
+	16. necrocitin
+	17. necrolysis
+	18. necron
+	19. necrophorous
+		1. 【医】 坏死厌氧丝杆菌
+	20. necrotaxis
+	21. paranecrosis
 2. **noc-, nox-** = hurt, poison, 表示“伤害，毒”。源自拉丁语 nocere "to injure, harm," noxa "injury, hurt."
-	1. innocence, innocent
-		1. innocently
-		2. **innocent**无罪的;**childlike**天真的;**guilt**内疚;**conviction**确信, 坚定的信仰;**sincerity**真实, 诚挚;**purity**纯净;**idealism**唯心主义，理想主义;**cynicism**犬儒主义;**acquittal**宣告无罪;**presumption**推测;**youthful**年轻的;
-		3. [naivete](dic://naivete), [naivety](dic://naivety), [naiveness](dic://naiveness), [condition](dic://condition), [status](dic://status)
-	2. nocuous
-		1. innocuity, innocuous
-			1. **harmless**无害的;**benign**良性的;**banal**陈腐的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unremarkable**寻常的,不值得注意的;**seemingly**看来似乎, 表面上看;**distasteful**使人不愉快的;**amusing**有趣的，好玩的;**obscure**模糊的;**deceptively**骗人地;**trivial**不重要的，琐碎的;
-			2. [innoxious](dic://innoxious), [inoffensive](dic://inoffensive), [uncontroversial](dic://uncontroversial), [insipid](dic://insipid), [safe](dic://safe), [harmless](dic://harmless)
-		2. innocuously
-	3. noxious
-		1. **poisonous**有毒的;**toxic**有毒的;**pungent**刺激性的;**vile**卑鄙的;**pernicious**很有害的;**corrosive**腐蚀的;**stench**恶臭;**unpleasant**使人不愉快的;**virulent**剧毒的;**harmful**能造成损害的;**venomous**有毒的;
-		2. [baneful](dic://baneful), [deadly](dic://deadly), [pernicious](dic://pernicious), [pestilent](dic://pestilent), [corrupting](dic://corrupting), [degrading](dic://degrading), [vesicatory](dic://vesicatory)
-		3. obnoxious
-			1. **annoying**恼人的;**irritating**气人的, 使人不愉快的;**whiny**烦躁的;**overbearing**专横的,傲慢的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**idiotic**白痴的;**rude**粗鲁的;**crass**粗鲁的;**belligerent**好战的;
-			2. My brother-in-law is an obnoxious know-it-all. /我的姐夫是个讨人厌的自以为是万事通的家伙。
-			3. His disgusting table manners made him obnoxious to me /他那令人厌恶的吃相使我反感。
-		4. innoxious
+	1. innocence
+		1. in-无 + noc-伤害 + -encee, 表名词。
+		2. n. 无罪, 无知, 天真无邪
+		3. **innocent**无罪的;**childlike**天真的;**guilt**内疚;**conviction**确信, 坚定的信仰;**sincerity**真实, 诚挚;**purity**纯净;**idealism**唯心主义，理想主义;**cynicism**犬儒主义;**acquittal**宣告无罪;**presumption**推测;**youthful**年轻的;
+		4. [naivete](dic://naivete), [naivety](dic://naivety), [naiveness](dic://naiveness), [condition](dic://condition), [status](dic://status)
+		5. innocent, innocently
+	3. nocuous
+		1. a. 有毒的
+		2. innocuous
+			1. in-无 + nocu-伤害 + -ous表形容词 → 无伤害的。
+			2. **harmless**无害的;**benign**良性的;**banal**陈腐的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**unremarkable**寻常的,不值得注意的;**seemingly**看来似乎, 表面上看;**distasteful**使人不愉快的;**amusing**有趣的，好玩的;**obscure**模糊的;**deceptively**骗人地;**trivial**不重要的，琐碎的;
+			3. [innoxious](dic://innoxious), [inoffensive](dic://inoffensive), [uncontroversial](dic://uncontroversial), [insipid](dic://insipid), [safe](dic://safe), [harmless](dic://harmless)
+		4. innocuity
+		5. innocuously
+	4. noxious
+		1. 1 - 来自拉丁语 noxius,有毒的，伤害的，来自 PIE*nek,死亡，致死，词源同 innocent,necro-.
+		2. **poisonous**有毒的;**toxic**有毒的;**pungent**刺激性的;**vile**卑鄙的;**pernicious**很有害的;**corrosive**腐蚀的;**stench**恶臭;**unpleasant**使人不愉快的;**virulent**剧毒的;**harmful**能造成损害的;**venomous**有毒的;
+		3. [baneful](dic://baneful), [deadly](dic://deadly), [pernicious](dic://pernicious), [pestilent](dic://pestilent), [corrupting](dic://corrupting), [degrading](dic://degrading), [vesicatory](dic://vesicatory)
+		4. obnoxious
+			1. 1 - ob-,在上，表强调，-nox,伤害，杀死，词源同 noxious,necrosis.引申词义即其讨厌的，可憎的。
+			2. **annoying**恼人的;**irritating**气人的, 使人不愉快的;**whiny**烦躁的;**overbearing**专横的,傲慢的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**idiotic**白痴的;**rude**粗鲁的;**crass**粗鲁的;**belligerent**好战的;
+			3. My brother-in-law is an obnoxious know-it-all. /我的姐夫是个讨人厌的自以为是万事通的家伙。
+			4. His disgusting table manners made him obnoxious to me /他那令人厌恶的吃相使我反感。
+			5. As the fuels were combusting they gave off noxious vapors. /当燃料在燃烧时，它们释放出有毒的烟
+			6. Appreciable amounts of noxious waste are still being dumped into the harbor. /可以估算的大量有害废物仍被倾倒入海港。
+		5. innoxious
 			1. **innoxious substance**:  无害物质
-	4. nuisance
+	6. nuisance
 		1. nu-=noc-伤害 + -i- + -ance, 表名词，用来指妨害行为，讨厌的人。
 		2. n. 麻烦事，讨厌的人（或事物、情况）；损害，妨害；骚扰行为，妨害行为
 		3. **annoyance**烦恼;**annoying**恼人的;**irritating**气人的, 使人不愉快的;**pests**害虫;**troublesome**令人烦恼的;**menace**威胁;**bothersome**引起麻烦的;**pest**害虫;**inconvenience**不便;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**obnoxious**可憎的;
@@ -392,10 +415,15 @@
 		14. The drunk was making a nuisance of himself and so the manager threw him out on his ear. /那醉汉自己招人讨厌, 因此经理不客气地把他打发走了。
 		15. Like any other pollution, it's a nuisance to society. /和其他任何一种污染一样，它对社会有害。
 		16. They are basically a nuisance – they just get in the way. /硬币太碍事了。
-	5. pernicious
+	7. pernicious (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious)
 		1. per-完全的 + nic-毒 + -ious形容词后缀 → 有毒的。
-		2. **insidious**隐伏的;**deleterious**有害的;**harmful**能造成损害的;**destructive**破坏性的, 毁灭性的;**pervasive**普遍的;**vile**卑鄙的;**noxious**有害的;**perverse**任性的,固执的;**debilitating**使衰弱的;**nefarious**极坏的;**virulent**剧毒的;
-		3. This week we're digging into a related issue, which is in fact the most pernicious problem that perpetually plagues pupils - procrastination.
+		2. _adj._ [noxious](dic://noxious), [harmful](dic://harmful)
+		3. _n._ [innocuous](dic://innocuous), [harmless](dic://harmless)
+		4. **insidious**隐伏的;**deleterious**有害的;**harmful**能造成损害的;**destructive**破坏性的, 毁灭性的;**pervasive**普遍的;**vile**卑鄙的;**noxious**有害的;**perverse**任性的,固执的;**debilitating**使衰弱的;**nefarious**极坏的;**virulent**剧毒的;
+		5. This week we're digging into a related issue, which is in fact the most pernicious problem that perpetually plagues pupils - procrastination.
+		6. the pernicious influences of the mass media. /大众传媒的有害影响。
+		7. It's pernicious anaemia. They ran some blood tests and telephoned with the news on Monday. /是恶性贫血症。他们拿血样做了测试，周一打电话告诉我结果了。
+		8. A pernicious circle of weak growth, bigger deficits and more austerity is setting in. /经济缓慢增长导致恶性循环，会出现更严重的财政赤字和通货紧缩
 
 
 ### + \*nekwt- +

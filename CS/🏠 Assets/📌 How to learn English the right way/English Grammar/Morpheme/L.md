@@ -1523,24 +1523,24 @@
 			7. The most important element of the **belay** is the anchor. /固定保护绳最重要的部分就是锚点。
 			8. I've got you on **belay**. I'll hold you if you do slip off. /我已帮你完成确保了，如果你真的失足，我会抓住你的。
 		32. allay (alloy, alley, ally)
-			1. vt. 使平静, 使缓和
-			2. al-去，往 + lay【放】，这里指“放心，使平静”。
+			1. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, assuage, pacify, mitigate)
+			2. vt. 使平静, 使缓和
+			3. al-去，往 + lay【放】，这里指“放心，使平静”。
 			4. [still](dic://still), [relieve](dic://relieve), [ease](dic://ease)
 			5.  [quench](dic://quench), [slake](dic://slake), [assuage](dic://assuage)
 			6. _v._ [comfort](dic://comfort), [soothe](dic://soothe), [console](dic://console), [solace](dic://solace), [meet](dic://meet), [satisfy](dic://satisfy), [fill](dic://fill)
-			7. palliate, extenuate, mitigate, assuage, pacify
-			8.  [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [mollify](dic://mollify), [placate](dic://placate), [gentle](dic://gentle), [gruntle](dic://gruntle)
-			9. **quell**镇压;**alleviate**缓和;**dispel**驱散，驱逐;**soothe**安慰;**appease**使平息;**reassure**使…安心，使消除疑虑;**fears**恐惧;**lessen**使…变小;**arouse**引起;**heighten**提高;**relieve**解除，减轻;
-			10. _[allaying tiredness](dic://allaying%20tiredness)_  消除疲劳（allaying是allay的现在分词）
-			11. _[allay misgivings](dic://allay%20misgivings)_ 减轻疑虑
-			12. _[allay exacerbate](dic://allay%20exacerbate)_ 缓解
-			13. _[allay irritate](dic://allay%20irritate)_ 使镇静
-			14. could not allay the outreach of human intellect. /不能控制人类才智的发展
-			15. the report attempted to educate the public and allay fears /该报道试图教育公众并减少恐惧。
-			16. His fever was allayed by the medicine. /这药剂使他退烧了。
-			17. Despite its condescension toward the Bennet family, the letter begins to allay Elizabeth’s prejudice against Darcy. /尽管这封信对班纳特家的态度很高傲，但它开始消除伊丽莎白对达西的偏见。
-			18. Mr. Biden has yet to allay concerns about the most contentious aspects of his career. /拜登仍有待消除人们对他职业生涯中最有争议的那些方面的担忧。
-			19. The tumult of Elizabeth's mind was allayed by this conversation. /这番谈话以后，伊丽莎白的骚忧的心境平静了些。
+			7.  [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [mollify](dic://mollify), [placate](dic://placate), [gentle](dic://gentle), [gruntle](dic://gruntle)
+			8. **quell**镇压;**alleviate**缓和;**dispel**驱散，驱逐;**soothe**安慰;**appease**使平息;**reassure**使…安心，使消除疑虑;**fears**恐惧;**lessen**使…变小;**arouse**引起;**heighten**提高;**relieve**解除，减轻;
+			9. _[allaying tiredness](dic://allaying%20tiredness)_  消除疲劳（allaying是allay的现在分词）
+			10. _[allay misgivings](dic://allay%20misgivings)_ 减轻疑虑
+			11. _[allay exacerbate](dic://allay%20exacerbate)_ 缓解
+			12. _[allay irritate](dic://allay%20irritate)_ 使镇静
+			13. could not allay the outreach of human intellect. /不能控制人类才智的发展
+			14. the report attempted to educate the public and allay fears /该报道试图教育公众并减少恐惧。
+			15. His fever was allayed by the medicine. /这药剂使他退烧了。
+			16. Despite its condescension toward the Bennet family, the letter begins to allay Elizabeth’s prejudice against Darcy. /尽管这封信对班纳特家的态度很高傲，但它开始消除伊丽莎白对达西的偏见。
+			17. Mr. Biden has yet to allay concerns about the most contentious aspects of his career. /拜登仍有待消除人们对他职业生涯中最有争议的那些方面的担忧。
+			18. The tumult of Elizabeth's mind was allayed by this conversation. /这番谈话以后，伊丽莎白的骚忧的心境平静了些。
 	4. beleaguer
 		1. beleagured
 	5. fellow
@@ -2297,7 +2297,7 @@
 		1. al-不断 + lud-玩 + -e → 不断开玩笑 → 不直截了当 → 暗指。
 		2. allusion
 		3. allusive
-	3. collude
+	3. collude (conclude)
 		1. col-共同 + lud-玩 + -e → 共同玩耍（对手） → 勾结。
 		2. collusion
 		3. collusive
@@ -2312,7 +2312,7 @@
 		2. illusion
 		3. illusive
 		4. illusory
-	9. prelude
+	9. prelude (preclude)
 		1. pre-在前 + lud-玩 , 演奏 + -e → 先演奏 → 序曲。
 		2. prolusion
 			1. n. 序言, 绪言, 序幕, 序乐, 开场白, 预演
@@ -2320,13 +2320,21 @@
 		4. prelusory
 	10. interlude, postlude, 
 	11. ludic
-		1. a. 顽皮的, 好开玩笑的
-		2. ludicrous
-			1. lud-玩 + -icrous形容词后缀 → 闹着玩的 → 可笑的。
-			2. [humorous](dic://humorous), [humourous](dic://humourous), [foolish](dic://foolish)
-			3. [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous), [wise](dic://wise)
-			4. _[blind imitation with ludicrous effection](dic://blind%20imitation%20with%20ludicrous%20effection)_  东施效颦
-			5. **absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**laughable**荒唐可笑的;**outrageous**骇人的;**nonsensical**无意义的;**idiotic**白痴的;**outlandish**古怪的, 奇异的;**illogical**不合逻辑的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silly**愚蠢的;
+		1. 来自拉丁语 ludere,游戏，玩乐，词源同 allude,prelude.
+		2. a. 顽皮的, 好开玩笑的
+		3. College students acted in a typically **ludic** style while dating, which proves the deceit inherent in ludus. /大学生在约会时表现出典型的卢迪克风格，这证明了卢迪克固有的欺骗行为。
+		4. ludicrous 
+			1. (lucrative, ludicrous, luxurious)
+			2. (ridiculous, ludicrous, absurd, laughable, preposterous, outrageous, illogical, humourous)
+			4. lud-玩 + -icrous形容词后缀 → 闹着玩的 → 可笑的。
+			5. - adj. 滑稽的；荒唐的
+			6. [humorous](dic://humorous), [humourous](dic://humourous), [foolish](dic://foolish)
+			7. [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous), [wise](dic://wise)
+			8. _[blind imitation with ludicrous effection](dic://blind%20imitation%20with%20ludicrous%20effection)_  东施效颦
+			9. **absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**laughable**荒唐可笑的;**outrageous**骇人的;**nonsensical**无意义的;**idiotic**白痴的;**outlandish**古怪的, 奇异的;**illogical**不合逻辑的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**silly**愚蠢的;
+			10. it's ludicrous that I have been fined. /
+			11. Regulators endorsed ludicrous claims about the drug's safety /
+			12. In this era the idea of giving girls an education was considered as ludicrous as the suit made of custard. /在这个时代，让女孩接受教育的想法被认为是荒谬的，就像奶油冻西装一样可笑。
 
 
 ### + \*leig +
@@ -3184,11 +3192,13 @@
 ### + \*leug +
 1. **lugubr-** = mournful, 表示“悲痛”。源自拉丁语 lugere "to mourn."
 	1. lugubrious
-		1. 1 - 来自拉丁语 lugere,悲伤，悼念，来自 PIE*leug,断开，破开，使悲痛，可能来自 PIE*skel,撕，切，词源同 scale,scalper.
-		2. **melancholy**忧郁, 悲哀;**somber**昏暗的;**brooding**沉思的;**gloomy**黑暗的;**wry**面部肌肉扭曲的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**pompous**浮夸的;**moody**喜怒无常的;**grim**冷酷的;
-		3. [sorrowful](dic://sorrowful)
-		4. I am drinking, " replied the tippler, with a lugubrious air. /“我在喝酒。”酒鬼阴沉忧郁地回答道。
-		5. Susan uttered the lugubrious discourse three times slowly, and when it was completed the image had considerably diminished. /苏珊把这悲哀的咒语慢慢念了三遍，等她念完，蜡像已熔化变小了很多。
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
+		2. (mawkish bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
+		3. 1 - 来自拉丁语 lugere,悲伤，悼念，来自 PIE*leug,断开，破开，使悲痛，可能来自 PIE*skel,撕，切，词源同 scale,scalper.
+		4. **melancholy**忧郁, 悲哀;**somber**昏暗的;**brooding**沉思的;**gloomy**黑暗的;**wry**面部肌肉扭曲的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**pompous**浮夸的;**moody**喜怒无常的;**grim**冷酷的;
+		5. [sorrowful](dic://sorrowful)
+		6. I am drinking, " replied the tippler, with a lugubrious air. /“我在喝酒。”酒鬼阴沉忧郁地回答道。
+		7. Susan uttered the lugubrious discourse three times slowly, and when it was completed the image had considerably diminished. /苏珊把这悲哀的咒语慢慢念了三遍，等她念完，蜡像已熔化变小了很多。
 
 
 ### ⭐ + \*leuk- + = light, brightness

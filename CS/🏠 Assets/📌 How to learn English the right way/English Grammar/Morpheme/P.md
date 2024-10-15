@@ -580,12 +580,45 @@
 
 
 ### palat- = roof of the mouth -> flavour 
-- palatable
-- palatal
-- palatalize
-- palatial
-- palatine
-- palatogram
+1. palatable (placate, )
+	1. a. 美味的, 好吃的, 可口的
+	2. 来自 palate,腭，可口。
+	3. _n._ [unpalatable](dic://unpalatable)
+	4. **appealing**上诉的;**tolerable**可忍受的;**distasteful**使人不愉快的;**acceptable**合意的;**bland**乏味的;**nutritious**有营养的, 滋养的;**enticing**迷人的;**tasty**美味的;**agreeable**欣然同意的;**eminently**很;**preferable**更好的, 更适合的, 更可取的;
+	6. a palatable solution to the problem. /这个问题的合乎人意的解决方法
+	7. a very palatable local red wine. /口味很好的本地葡萄酒。
+	8. This may be more politically palatable than lending dollars. /这可能比借出美元在政治上更容易接受。
+	9. Fat has been made into body, to make it more palatable. /脂肪已经存在于人的身体了，以使其更容易被人接受。
+	10. Restorers had painted over the original lamb with what they deemed a more palatable version /当时修复师在原本的羔羊上作画，画成他们认为较能被大众所接受的版本。
+	11. The company's first product was santonin--a palatable antiparasitic which was an immediate success. /公司的第一个产品叫“三托宁”，是一种味道不错的抗寄生虫药。上市之后，大受欢迎。
+3. palatal
+	1. [palatine](dic://palatine)
+	2.  [palatalized](dic://palatalized), [palatalised](dic://palatalised)
+	3. _n._ [semivowel](dic://semivowel), [glide](dic://glide)
+	4. _adj._ [palate](dic://palate), [roof of the mouth](dic://roof of the mouth), [soft](dic://soft)
+	5. n. [hard](dic://hard)
+	6. **alveolar**肺泡的;**nasal**鼻的;**consonant**辅音;**vowel**元音;**vowels**元音，母音;**medial**中间的;**apical**顶上的, 顶点的;**anterior**前面的;**cranial**头盖的;**phonetic**语音的，语音学的;**dorsal**背的，背侧的;
+	7. a palatal lesion. /腭损伤。
+	8. **Palatal** enanthem can also occur, but is relatively uncommon /上颚也可能发生痉挛，但相对较少见。
+4. palatalize
+5. palatial
+	1. _adj._ [palace](dic://palace), [impressive](dic://impressive)
+	2. _n._ [unimpressive](dic://unimpressive)
+	3. **opulent**富裕的;**mansion**大厦;**stately**庄严的;**lavish**浪费的;**palace**宫殿;**luxurious**奢侈的;**posh**漂亮的;**penthouse**楼顶房屋;**sprawling**蔓生的;**sumptuous**豪华的, 奢侈的;**extravagant**奢侈的, 铺张的;
+	4. Last summer, Robert Mugabe summons journalists to his palatial home on the outskirts of Harare. /去年夏天，罗伯特·穆加贝邀请记者前往他位于哈拉雷郊区的豪宅。
+	5. " You're establishment isn't exactly palatial, " she said. /“你的机构并不完全富丽堂皇， ” 她说。
+	6. " I must return to my palatial suite at the hostel" /“我必须回到旅馆富丽堂皇的套房”。
+	7. Which I should be studying for now rather than sitting in your palatial, swanky, sterile office, feeling uncomfortable under your penetrating gaze. /我就应该呆在学校里准备我的考试，而不是在你面前，坐在你宽大，奢华，干净的办公室里，因为你看透一切的注视而不自在。
+6. palatine
+	1. adj. 巴拉汀伯爵的；在领地享有王权的；（领地）贵族享有王权的；（与）上腭（有关）的 
+	2. n. 巴拉汀伯爵君主；宫廷官吏；腭骨
+	3. [palsgrave](dic://palsgrave)
+	4.  [palatine bone](dic://palatine bone), [os palatinum](dic://os palatinum)
+	5. _n._ [Roman](dic://Roman), [Lord](dic://Lord), [noble](dic://noble), [nobleman](dic://nobleman), [hill](dic://hill), [bone](dic://bone), [os](dic://os)
+	6. _adj._ [palate](dic://palate), [roof of the mouth](dic://roof of the mouth), [palsgrave](dic://palsgrave), [palace](dic://palace)
+	7. **anterior**前面的;
+	8. 
+7. palatogram
 
 
 ### pall- 原意“披肩，斗篷”。源自拉丁语 pallium "cloak, coverlet, covering."
@@ -619,7 +652,7 @@
 		1. _n._ [mourner](dic://mourner), [griever](dic://griever), [sorrower](dic://sorrower), [lamenter](dic://lamenter)
 		2. **funeral**葬礼;**funerals**丧葬;**casket**匣子;**uncle**伯父;**obituary**讣告;**coffin**棺材;**deceased**已故的;**deacon**执事;**memorial**纪念物;**uncles**叔伯;**burial**埋葬;
 		3. _[pallbearer](dic://pallbearer)_  n. 护柩者；棺侧送葬者
-3. palliate (allay, lull, calm, damp, dwindle, attenuate, )
+3. palliate (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate)
 	1. 来自拉丁语 pallium,斗篷，覆盖，可能来自 pellis,皮，膜，词源同 film,pelt,surplice.即戴上斗篷，引申词义减轻痛苦，缓和，通常治标不治本。
 	2. [extenuate](dic://extenuate), [mitigate](dic://mitigate)
 	3. [relieve](dic://relieve), [alleviate](dic://alleviate), [assuage](dic://assuage)
@@ -1278,7 +1311,7 @@
 			1. expeditiously
 		5. expedition
 			1. expeditionary
-	4. expedient
+	4. expedient (makeshift, workaround, expedient, muddle through,  )
 		1. 来自 expedite,加速。引申词义权宜之计。
 		2. adj. 权宜的；方便的；有利的 
 		3. n. 权宜之计；应急手段
@@ -1295,14 +1328,15 @@
 		14. expediency
 		15. expedience
 		16. inexpedience, inexpedient
-	6. impede
-		1. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
-		2. vt. 妨碍, 阻碍, 阻止
-		3. im-进入 + ped-脚 + -e → 把脚放进去 → 妨碍。
-		4. [hinder](dic://hinder)
-		5. [obstruct](dic://obstruct), [obturate](dic://obturate), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
-		6. _v._ [prevent](dic://prevent), [keep](dic://keep), [hinder](dic://hinder)
-		7. **hinder**成为阻碍;**obstruct**阻塞;**inhibit**抑制;**impair**削弱;**interfere**干预;**disrupt**使分裂;**undermine**在某物下挖洞或挖通道;**jeopardize**危及, 损害;**hamper**妨碍;**preclude**妨碍;**thwart**反对;
+	5. impede
+		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, )
+		2. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
+		3. vt. 妨碍, 阻碍, 阻止
+		4. im-进入 + ped-脚 + -e → 把脚放进去 → 妨碍。
+		5. [hinder](dic://hinder)
+		6. [obstruct](dic://obstruct), [obturate](dic://obturate), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
+		7. _v._ [prevent](dic://prevent), [keep](dic://keep), [hinder](dic://hinder)
+		8. **hinder**成为阻碍;**obstruct**阻塞;**inhibit**抑制;**impair**削弱;**interfere**干预;**disrupt**使分裂;**undermine**在某物下挖洞或挖通道;**jeopardize**危及, 损害;**hamper**妨碍;**preclude**妨碍;**thwart**反对;
 		9. unimpeded
 			1. 【法】 无阻的, 不受阻的
 		10. impedin
@@ -1312,11 +1346,11 @@
 			1. n. 妨碍, 障碍, 阻止, 口吃
 			2. impediment - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		14. impedance
-	8. millepede, millipede
-	9. pedal
+	7. millepede, millipede
+	8. pedal
 		1. pedalo
 		2. pedestal
-	10. pedestrian
+	9. pedestrian
 		1. pedestrian - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		2. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
 		3. _adj._ [uninteresting](dic://uninteresting)
@@ -1331,15 +1365,15 @@
 			8. _pedestrian subway_ 地下人行道
 			9. _pedestrian overcrossing_ 人行天桥
 			10. _pedestrian area_ 行人专区；步行街
-	11. pedate
+	10. pedate
 		1. a. 有脚的, 脚状的, 鸟脚状的
 		2. _adj._ [compound](dic://compound), [footed](dic://footed)
 		3. _n._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [footless](dic://footless)
-	12. pedicure
+	11. pedicure
 		1. n. 脚治疗, 脚治疗医师, 修趾甲术  
 		2. vt. 修脚, 医脚
-	13. pediform
-	14. pedigree
+	12. pediform
+	13. pedigree
 		1.  [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
 		2.  [bloodline](dic://bloodline)
 		3.  [pedigreed](dic://pedigreed), [pureblood](dic://pureblood), [pureblooded](dic://pureblooded), [thoroughbred](dic://thoroughbred)
@@ -1349,42 +1383,42 @@
 		7. _[pedigrees](dic://pedigrees)_  家系; [遗] 谱系，[遗] 血统; 衍生后代; 
 		8. _[pedigree selection](dic://pedigree%20selection)_  [遗] 谱系选择
 		9. _[pedigree chart](dic://pedigree%20chart)_  系谱图；家谱；谱系图
-	15. pediment
+	14. pediment
 		1. n. 山形墙, 三角墙, 山花饰
-	16. pedometer, pedosphere
-	17. peddle
+	15. pedometer, pedosphere
+	16. peddle
 		1. vi. 挑卖, 沿街叫卖, 游荡, 闲混 
 		2. vt. 叫卖, 兜售, 散播
-	18. pedler
+	17. pedler
 		1. n. 小贩, 货郎, 流动商贩, (喻)兜售者, 传播者
 		2. pedlary
 			1. n. 小贩的货物, 小贩的营生
 		3. pedlar
 			1. n. 沿街叫卖的小贩, (流言)传播者
-	19. pedrail
-	20. pedicab
+	18. pedrail
+	19. pedicab
 		1. n. (人力)三轮车
-	21. taliped
+	20. taliped
 		1. a. 拐脚的, 畸形脚的
-	22. uniped
+	21. uniped
 		1. a. 独脚的, 独腿的
-	23. velocipede
+	22. velocipede
 		1. n. 脚踏两轮车, 孩童用三轮车
-	24. cirripede
+	23. cirripede
 		1. n. 蔓脚类动物
-	25. despatch, dispatch
+	24. despatch, dispatch
 		1. celerity
-	26. fetch
+	25. fetch
 		1. fet-=fed-脚。即跑腿。
-	27. orthopeady
-	28. parallelepiped
+	26. orthopeady
+	27. parallelepiped
 		1. n. 平行六面体
-	29. patrol
+	28. patrol
 		1. patrol - 这是从法语吸收过来的大量军事用语之一。17世纪始用于英语，源自法语patrouiller，而patrouiller又是从古法语patouiller演化而来，原意是flounder in mud（在泥巴里蹒跚而行）。这大概是因为古时军营中夜巡的卫兵往往是在泥巴中来回走个没完，所以才用了这样一个词。
-	30. patten
+	29. patten
 		1. n. 木套鞋, 木底鞋
-	31. peon,
-	32. pilot
+	30. peon,
+	31. pilot
 		1. n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人  
 		2. vt. 领航, 驾驶, 引导, 试用  
 		3. a. 引导的, 控制的, 试点的
@@ -1396,10 +1430,10 @@
 		9. gyropilot
 		10. copilot
 		11. autpilot
-	33. pioneer
-	34. stapes
+	32. pioneer
+	33. stapes
 		1. n. 镫骨
-	35. trivet
+	34. trivet
 		1. n. 三脚架
 5. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
 	1. pessimism
@@ -1471,7 +1505,7 @@
 ### + \*peku- + = wealth, movable, property, live stock
 1. **fe-** = money, 表示“钱”。源自古法语 fie, fief 和古英语 feoh "cattle, goods, momey."
 	1. fee
-	2. fellow
+	2. fellow (mallow, hallow, sallow, shallow, hollow)
 		1. yokefelow
 		2. schoolfellow
 		3. playfellow
@@ -1491,11 +1525,13 @@
 		4. feoffee
 		5. enfeoff
 	4. fief
-		1. **feudal**封建制度的;**nobleman**贵族;**manor**庄园;**nobility**贵族;**castle**城堡;**hereditary**遗传的;**baron**男爵;**lord**上帝;**abbey**大修道院，大寺院;**ruler**尺;**estates**不动产;
-		2. [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne)
-		3. feoff
+		1. n. 封地, 采邑
+		2. 来自 PIE*peku,牛。引申词义耕作，耕种，指有土地所有权的国王或庄园领主把土地封给其臣民或臣子进行耕作，以臣民或臣子上交一定的田租或提供劳务服务做为交换，类似于中国古代的分封制。比较其词源同源词 feudal,fee.
+		3. **feudal**封建制度的;**nobleman**贵族;**manor**庄园;**nobility**贵族;**castle**城堡;**hereditary**遗传的;**baron**男爵;**lord**上帝;**abbey**大修道院，大寺院;**ruler**尺;**estates**不动产;
+		4. [estate](dic://estate), [land](dic://land), [landed estate](dic://landed estate), [acres](dic://acres), [demesne](dic://demesne)
+		5. feoff
 2. **pecul-** = private property, 表示“私人财产”。源自拉丁语 peculium "cattle, private property."
-	1. peculate
+	1. peculate (appropriate/ peculate /)
 		1. pecu-/pecul-（私人的）：以牛为形式的私人财产  
 		2. 在古代，牛是重要的牲畜，也是家庭中最主要的私人财产。在拉丁语中，pecu表示“牛”，由此产生了peculium（私人财产），本意就是“以牛为形式的私人财产”。英语词根pecu-/pecul-便来源于此，表示“私人的、私有的”，并衍生出“个别的、特殊的”之意。包含该词根的常见单词有：peculiar（特殊的），字面意思就是“个人专有的”。同源单词还有有peculate（盗用、挪用），初始含义就是“变成私人财产”。  
 			1. pecu-/pecul-：私人的，私有的  
@@ -1506,11 +1542,14 @@
 			6. pecuniary： [pɪ'kjunɪɛri] adj. 金钱的；应罚款的
 		3. [embezzle](dic://embezzle), [defalcate](dic://defalcate), [misappropriate](dic://misappropriate), [malversate](dic://malversate)
 		4. **apprehend**理解;**procure**获得，取得;**embellish**美化;**seize**抓住;
-		5. peculator
-		6. peculation
+		5. They accused him of having peculated the public money. /他们指控他侵占公款。
+		6. peculator
+		7. peculation
 			1. **corruption**堕落;**bribery**贿赂;**treachery**背信弃义, 不忠, 背叛;**treason**叛国罪;**mismanagement**办错,管理不善;**plunder**抢夺;**dishonesty**不诚实的行为;**fraud**欺骗;**complicity**合谋, 串通;**forgery**伪造;**collusion**共谋;
 			2. [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
-		7. pecuniary,
+			3. One revelation after another showed officers, high and low, possessed with the spirit of peculation. /一个又一个的爆料表明，官员们无论高低，都有贪财的心理。
+			4.  I find it impossible not to expect some depth of soul behind a deep grey eye with a long dark eyelash, in spite of an experience which has shown me that they may go along with deceit, peculation, and stupidity. /我发现不可能不期待深灰色的眼睛和长长的黑睫毛背后的灵魂深处，尽管我的经验告诉我他们可能会伴随着欺骗、投机和愚蠢。
+		8. pecuniary (impecunious)
 			1. **monetary**财政的;**financial**财政的, 金融的;**remuneration**酬报,酬劳;**gratification**满意;**bodily**整体地;**economic**经济的，经济上的;**profit**利润;**consequence**结果, 后果;**motive**动机，目的;**exertion**努力;**windfall**被风吹落的果子;
 				1. _[pecuniary](dic://pecuniary)_  adj. 金钱的；应罚款的
 				2. _[pecuniary legacy](dic://pecuniary%20legacy)_  金钱遗赠
@@ -1520,12 +1559,27 @@
 				6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
 				7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
 				8. _[pecuniary aid](dic://pecuniary%20aid)_  资助，金钱资助
-		8. pecunious
-		9. peculium
+				9. as a set-off against such discussions there had come an improvement in their pecuniary position. /他们的财务状况有了改进，这就抵消掉了此类讨论。
+				10. He received thanks but no pecuniary compensation for his services. /他的服务只得到了一句谢谢却并没有物质上的补偿。
+				11. For all its pecuniary success, the Facebook brand has become tarnished. /尽管Facebook在金钱上取得了巨大成功，但它的品牌形象已蒙上污点。
+				12. He dramatized his pecuniary wants, but there was always some immediate necessity behind his display. /他夸大了自己的金钱需求， 但在他的表现背后总是有一些迫在眉睫的需要。
+		9. pecunious (impecunious)
+			1. - adj. 有钱的；富有的
+		10. impecunious 
+			1. (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+			2. 1. _adj._ [poor](dic://poor)
+			3. _n._ [rich](dic://rich)
+			4. **destitute**赤贫的, 贫苦的;**impoverished**穷困的,无力的,用尽了的;**hapless**运气不好的，倒霉的;**wealthy**富有的;**affluent**富裕的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**aristocratic**贵族的;**poor**可怜的;**erstwhile**过去的, 从前的;**enterprising**有事业心的;**childless**无儿女的;
+			5. The company then factors in the cost of a degree, after financial aid (discounts for the clever or impecunious that greatly reduce the sticker price at many universities). /公司然后在排除财政补贴（对于天资聪颖或一文不名的学生的补助很大程度上削减了很多大学学费的吊牌价）后，把获得学位的成本计入考量在财政补贴。
+			6. They are independent, **impecunious** and able to tolerate all degrees of discomfort. /他们独立自主的，囊中羞涩的，并且能够忍受各种不便。
+		12. peculium
 	3. peculiar
-		1.  [curious](dic://curious), [funny](dic://funny), [odd](dic://odd), [queer](dic://queer), [rum](dic://rum), [rummy](dic://rummy), [singular](dic://singular)
-		2. [particular(a)](dic://particular(a)), [special(a)](dic://special(a))
-		3. _adj._ [strange](dic://strange), [unusual](dic://unusual), [specific](dic://specific), [characteristic](dic://characteristic)
+		1. a. 奇特的, 罕见的, 特殊的, 特别的  
+		2. n. 特有财产, 特权
+		3. pecul-私人财产 + -iar
+		4.  [curious](dic://curious), [funny](dic://funny), [odd](dic://odd), [queer](dic://queer), [rum](dic://rum), [rummy](dic://rummy), [singular](dic://singular)
+		5. [particular(a)](dic://particular(a)), [special(a)](dic://special(a))
+		6. _adj._ [strange](dic://strange), [unusual](dic://unusual), [specific](dic://specific), [characteristic](dic://characteristic)
 			1. [queer](dic://queer) 指一种无法解释的怪诞，强调事物的奇特和不可思议。
 			2. [odd](dic://odd) 通常指不规律、偶尔出现的人或事物，往往令人困惑或奇怪。
 			3. [funny](dic://funny) 较通俗用词，指奇怪得滑稽可笑或反常。
@@ -1536,21 +1590,24 @@
 			8. [eccentric](dic://eccentric) 指偏离常规的怪异或怪癖。
 			9. [quaint](dic://quaint) 指古色古香，使人感到既奇怪又有趣。
 			10. [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
-		4. peculiarly
-		5. peculiarity
+		7. peculiarly
+		8. peculiarity
+			1. _n._ [feature](dic://feature), [characteristic](dic://characteristic), [individuality](dic://individuality), [individualism](dic://individualism), [individuation](dic://individuation), [object](dic://object), [physical object](dic://physical object)
+				1. [quality](dic://quality) 最普通用词，既可指有形或无形的特性，又可指个性或共性的特征。  
+				2. [feature](dic://feature) 指事物突出引人注目的特点。多用来说明人的容貌特征或地理特征。  
+				3. [characteristic](dic://characteristic) 指某人或某物天生有别于他人或他物的内部特质或外表特征。  
+				4. [peculiarity](dic://peculiarity) 指人或事物独具的或奇怪的特点，常带感情色彩。  
+				5. [trait](dic://trait) 多指人的性格、心情的特征，尤指先天秉赋的持久的行为模式或性格特征。  
+				6. [attribute](dic://attribute) 通常指人主观赋予某事物的属性，可指典型事物。  
+				7. [character](dic://character) 多指一类人或事物所具有的独特的典型的特征。
+			2. **peculiar**特殊的;**characteristic**典型的;**uniqueness**唯一性;**distinctive**有特色的, 与众不同的;**unusual**与众不同的;**distinguishing**有区别的;**particular**特定的;**inherent**固有的;**similarity**类似, 相似;**variation**变种;**distinction**区别, 明显差别, 特征;
 	4. peculium
 		1. _[peculium](dic://peculium)_  n. 私产
-3. **pecun-** = wealth，表示“财产”。源自拉丁语 pecunia "property, wealth."
-	1. impecuniosity, impecunious
-	2. pecuniary
-		1. **monetary**财政的;**financial**财政的, 金融的;**remuneration**酬报,酬劳;**gratification**满意;**bodily**整体地;**economic**经济的，经济上的;**profit**利润;**consequence**结果, 后果;**motive**动机，目的;**exertion**努力;**windfall**被风吹落的果子;
-		2. _[pecuniary legacy](dic://pecuniary%20legacy)_  金钱遗赠
-		3. _[pecuniary loss](dic://pecuniary%20loss)_  金钱损失
-		4. _[pecuniary liability](dic://pecuniary%20liability)_  金钱上的法律责任
-		5. _[pecuniary penalty](dic://pecuniary%20penalty)_  罚金
-		6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
-		7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
-	3. pecunious
+9. **pecun-** = wealth，表示“财产”。源自拉丁语 pecunia "property, wealth."
+	1. impecuniosity
+	2. impecunious
+	3. pecuniary
+	4. pecunious
 		1. - adj. 有钱的；富有的
 
 
@@ -1842,7 +1899,7 @@
 			3. appellor
 	2. repeal
 		1. re-向后，往回 + peal-呼叫，引申词义废除，废止。
-	3. extrapolate (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, )
+	3. extrapolate (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, assume, presume)
 		1. extra-外 + pol-推 + -ate → 推出来 → 推断。
 		2. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude), [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute)
 		3. **infer**推断;**deduce**推论，推断;**generalize**概括;**interpret**解释;**predict**预报，预言;**analyze**对…进行分析，分解;**quantify**量化;**conclude**推断出;**speculate**思索;**presume**假定;**summarize**总结, 概述;
@@ -1897,7 +1954,22 @@
 	11. impel
 	12. impulse
 		1. im-内 + puls-推 + -e → 内在推动 → 冲动。
-		2. impulsive, impulsion, impulsing
+		2. impulsive (capricious, hasty, reckless)
+			1. a. 冲动的, 受感情驱使的, 任性的
+			2. _adj._ [spontaneous](dic://spontaneous), [self-generated](dic://self-generated), [unpremeditated](dic://unpremeditated), [dynamic](dic://dynamic), [dynamical](dic://dynamical), [arbitrary](dic://arbitrary), [incautious](dic://incautious)
+			3. _n._ [induced](dic://induced), [premeditated](dic://premeditated), [undynamic](dic://undynamic), [adynamic](dic://adynamic), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary), [cautious](dic://cautious)
+			4. **reckless**鲁莽的，不顾后果的;**spontaneous**自发的, 无意识的;**compulsive**极有趣的;**brash**仓促的，性急的;**erratic**不稳定的;**rebellious**叛逆的;**uncontrollable**无法管束的;**suicidal**自杀的，自杀性的;**self-centered**自我为中心的,利己主义的;**impatient**不耐烦的, 急躁的;**hasty**匆忙的;
+			5. _impulsive force_ 冲力
+			6. _impulsive noise_ 脉冲噪声；脉冲干扰，脉冲杂波
+			7. _impulsive load_ 冲击荷载
+			8. perhaps he's regretting his impulsive offer. /或许他正后悔他未经考虑的提议。
+			9. The rumor had its origin in an impulsive remark. /谣言源于一次冲动的谈话
+			10. Letting her friend borrow her car was an impulsive act that she immediately regretted. /让朋友借走她的车是她立刻就感到后悔的冲动行为。
+			11. But Katherine was also very impatient and entitled and selfish, and, um, and impulsive /但Katherine也很没耐心，霸道、自私还很冲动。
+			12. You may become impulsive or indecisive. /你可能会变得意气用事或是犹豫不定。
+			13. An important thing to know is the impulsive momentum relationship. /重要的是要知道脉冲动量的关系。
+		3. impulsion
+		4. impulsing
 	13. propel
 		1. propulsion
 			1. pro-向前 + puls-推 + -ion名词后缀 → 推进;动词。
@@ -2549,36 +2621,101 @@
 #### + \*pele- (3) + 
 1. **polic-,polis-,polit-** = state, city, 表示“国家，城市”。源自希腊语 polis "city."
 	1. acropolis
+		1. n. 古希腊的卫城
+		2. 在希腊，同样作用的“little city”叫做acropolis [ə'krɒpəlɪs] n.（古希腊都城的）卫城；城堡，词根acro-表tip，词根-polis表城市，字面意思为“peak of the city”。因为存有食物和武器且易守难攻，所以战事危急时可作为避难场所。我们最为熟悉的是雅典卫城，但实际上希腊很多城市也有“卫城”。 ​​​​
 	2. cosmopolis
+		1. _n._ 〈美〉国际都市(由来自许多不同国家的人居住的大城市)
+		2. 1.cosmos（宇宙）：多个部分构成的和谐有序整体  
+			1. 英语单词cosmos（宇宙）和cosmetic（化妆品）拼写接近，这两个单词有啥关联吗？没错，它们拥有相同的词源。cosmos源自希腊语kosmos，基本意思是order（秩序），据说由古希腊哲学家、数学家毕达哥拉斯（Pythagoras）首创，表示一个由多个部分构成但又和谐有序的体系，是chaos（混沌）的反面。从希腊语kosmos（秩序）衍生出动词kosmein（调整、修饰、使有序），从而衍生出形容词kosmetikos（修饰的、调整的），这就是英语单词cosmetic的词源。  
+				1. cosmo-：宇宙  
+				2. cosmos：['kɒzmɒs] n. 宇宙；和谐；秩序  
+				3. cosmetic： [kɒz'metɪk] adj.美容的，化妆的n.美容品，化妆品  
+				4. cosmopolis：[kɒz'mɒp(ə)lɪs] n.国际大都市  
+				5. cosmogony：[kɑz'mɑɡəni] n. 宇宙的起源，宇宙的产生，宇宙进化论  
+				6. cosmology：[kɑz'mɑlədʒi] n. [天] 宇宙论，[天] 宇宙学  
+		3. 2.police（警察）：负责城市管理和社会治安的组织  
+			1. 单词police最初和policy是同一个单词，其含义与“警察”、“政策”都没有关系，而是表示civil administration（城市管理）。该词来自拉丁语politia（城市管理）和希腊语polis（城市）。英语词根polis就来源于此。早在13世纪，法国就出现了专门维持社会治安的武装力量。1254年，路易九世创立“夜间巡警队”。1337年，腓力六世创立“法国骑兵团”，后来改名为“宪兵骑警队”。但是这些武装力量都还没有以police命名。1667年，法国国王路易十四创立了“警察副总监”官职，首次用police一词来表示当时负责维持社会治安的武装力量。从此以后，单词police才含有了“警察”的含义。  
+			2. 1828年，在当时的英国内政大臣Robert Peel爵士的主持下，英国通过“大都市警察法案”（Metropolitan police act），率先建立了现代警察制度。第二年，他组建了伦敦警察部队。从此以后，表示“警察”的police一词开始在英国广为使用。  
+			3. police：[pə'liːs] n.警察，警方，治安adj.警察的vt.管辖，维持……的治安  
+			4. policeman： [pə'lismən] n. 警察，警员  
+			5. metropolis： [mɪ'trɒp(ə)lɪs] n.大都市，首府，重要中心  
+			6. metropolitan： [metrə'pɒlɪt(ə)n] adj.大城市的，首府的n.大城市人，宗主国的公民  
+			7. cosmopolis：[kɒz'mɒp(ə)lɪs] n.国际都市
+		4. It can never be a kind of **cosmopolis**, a world state or even a league of states or nations /它永远不可能成为国际都会或世界之都，或甚至是国联或族联。
+		5. 
 	3. cosmopolitan
-		1. cosmopolitanize
-		2. cosmopolitanism
-	4. cosmopolite
-	5. cosmopolitism
-	6. megalopolis
-	7. megalopolitan
-	8. metropolis
-	9. police
-		1. policewoman
-		2. policeman
-		3. policemen
-	10. policlinic
-	11. policy
+		1. _n._ [sophisticate](dic://sophisticate), [man of the world](dic://man of the world)
+		2. _adj._ [traveled](dic://traveled), [travelled](dic://travelled), [comprehensive](dic://comprehensive)
+		3. _n._ [endemic](dic://endemic), [provincial](dic://provincial), [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+		4. **metropolis**一国的主要城市;**multicultural**多种文化的;**vibrant**振动的;**bustling**忙乱的;**laid-back**安详的, 轻松的;**affluent**富裕的;**trendy**时髦的，流行的;**fashionable**流行的, 符合时尚的, 时髦的;**diverse**不同的;**eclectic**兼收并蓄的;**metropolitan**大都会的, 大城市的;
+		5. a vibrant cosmopolitan city. /一座充满活力的国际大都市。
+		6. a cosmopolitan traveler. /四海为家的旅行者
+		7. an issue of cosmopolitan import. /世界进口问题
+		8. their designs became a byword for cosmopolitan chic. /他们的设计成为国际时尚的代名词。
+		9. the definition of nationality is elastic in this cosmopolitan country. /在这个国际化的国家里，国籍的定义是灵活的。
+		10. immigration transformed the city into a cosmopolitan metropolis. /移民将该城变成了一个国际性都市。
+		11.  the ancient and cosmopolitan societies of Syria and Egypt. /叙利亚和埃及的古代世界性组织
+		12. It was a cosmopolitan magnet for goods, people and ideas. /它是汇集货物、人口与思想的所在。
+		13. Clooney's public image – sophisticated, cosmopolitan, expensive – fitted Nespresso's desired image. /克鲁尼的公共形象——聪明老成，见多识广，身价高贵——符合奈斯派索期望的印象。
+		14. cosmopolitanize
+		15. cosmopolitanism
+	5. cosmopolite
+	6. cosmopolitism
+	7. megalopolis
+	8. megalopolitan
+	9. metropolis
+	10. police
+		1. police（警察）：负责城市管理和社会治安的组织  
+		2. 单词police最初和policy是同一个单词，其含义与“警察”、“政策”都没有关系，而是表示civil administration（城市管理）。该词来自拉丁语politia（城市管理）和希腊语polis（城市）。英语词根polis就来源于此。早在13世纪，法国就出现了专门维持社会治安的武装力量。1254年，路易九世创立“夜间巡警队”。1337年，腓力六世创立“法国骑兵团”，后来改名为“宪兵骑警队”。但是这些武装力量都还没有以police命名。1667年，法国国王路易十四创立了“警察副总监”官职，首次用police一词来表示当时负责维持社会治安的武装力量。从此以后，单词police才含有了“警察”的含义。  
+		3. 1828年，在当时的英国内政大臣Robert Peel爵士的主持下，英国通过“大都市警察法案”（Metropolitan police act），率先建立了现代警察制度。第二年，他组建了伦敦警察部队。从此以后，表示“警察”的police一词开始在英国广为使用。
+		4. police - 关于这一常用词的身世，今天恐怕很少人会去探究。它源出希腊语pólis（城市），通过拉丁词polītia（政策，政府）和中古法语词police于16世纪进入英语。最初词的重音落在第一个音节上，原始词义为“国家政策”（state policy）。1750年左右，法国建立了第一支现代化的警察部队，这时police已含有“执法”（law enforcement）之意。其实这可以说是世界上最早的警察部队，也是当代各国警察部队的原型。1828年英国通过有争议的“大都市治安法”（Metropolitan police act），提出该治安法的主要是英国内政大臣Robert Peel爵士（1788-1850）。翌年，他组建了伦敦警察部队。从此以后，police一词转义为“警察”，并开始在英国广为使用。Robert的昵称是Bobby，因此英国人至今在口语中仍然爱用bobby一词作为警察的代称。英国英语中还有一个表示“警察”的俚语用词peeler则是出自这位内政大臣的姓氏，由Peel加表人后缀-er构成的。早在1818年Robert Peel任爱尔兰首席秘书时，就在那里建立了一支爱尔兰保安队（the Irish Constabulary），队员被称为peeler。待到1829年伦敦警察部队组建起来以后，peeler在俚语中也被用以泛指“警察”了，但如今用得很少。至于原义为“马厩总管”的constable一词恐怕也是在1829年以后才被赋予“警察”这一新义的。可见，英国英语中表示“警察”的policeman，bobby，peeler，constable四个词同Robert Peel或多或少均有关系。
+		5. police：[pə'liːs] n.警察，警方，治安adj.警察的vt.管辖，维持……的治安  
+		6. policeman： [pə'lismən] n. 警察，警员  
+		7. metropolis： [mɪ'trɒp(ə)lɪs] n.大都市，首府，重要中心  
+		8. metropolitan： [metrə'pɒlɪt(ə)n] adj.大城市的，首府的n.大城市人，宗主国的公民  
+		9. cosmopolis：[kɒz'mɒp(ə)lɪs] n.国际都市
+		10.  [police force](dic://police force), [constabulary](dic://constabulary), [law](dic://law)
+		11. [patrol](dic://patrol)
+		12. _n._ [force](dic://force), [personnel](dic://personnel), [law enforcement agency](dic://law enforcement agency)
+		13. _v._ [guard](dic://guard)
+		14. **cops**顶;**policemen**警察;**officers**军官，人员;**policeman**警察;**cop**抓住;**authorities**当局, 官方;**enforcement**强制,实施,执行;**officer**军官，警官;**constable**警察;**arrest**逮捕;**LAPD**洛杉矶警察局;
+		15. a police academy. /警察学校。
+		16. The officers wearing police lines outside the Ferguson police apartment were demonstrated together. /警方在弗格森警察局外设置了警戒线。
+		17. 
+		18. policewoman
+		19. policeman
+		20. policemen
+	12. policlinic
+	13. policy
 		1. policymaking
 		2. policymaker
 		3. policyholder
 		4. macropolicy
 		5. impolicy
-	12. polis
-	13. politic
-		1. politico
-			1. politico-economic, politico-economical
-			2. politico-moral
-			3. politico-social
-		2. politick
-		3. politicize
-		4. politician
-		5. political
+	14. polis
+	15. politic
+		1. adj. <正式>（行动）明智的，讲策略的；（人）谨慎的，精明的 
+		2. v. 从事政治活动
+		3. [smooth](dic://smooth), [suave](dic://suave), [bland](dic://bland)
+		4. _adj._ [expedient](dic://expedient), [sagacious](dic://sagacious), [diplomatic](dic://diplomatic), [diplomatical](dic://diplomatical)
+		5. _n._ [impolitic](dic://impolitic), [undiplomatic](dic://undiplomatic)
+		6. **political**政治的;**democratic**民主的;**society**社会;**republican**共和国的, 共和政体的;**democracy**民主国家;**citizenry**公民;**body**身体;**ideology**意识形态;**affairs**事务，事宜;**democrat**民主政体论者;**governing**控制;
+		7. a politic decision. /一个明智的决定
+		8. the mutation of ethnic politics into nationalist politics. /种族政治向民族主义政治的改变。
+		9. Many towns often found it **politic** to change their allegiance /许多城镇经常发现改变拥戴对象不失为明智之举。
+		10. It seemed **politic** to say nothing. /沉默似乎是上策。
+		11. politico
+			1.  [politician](dic://politician), [pol](dic://pol), [political leader](dic://political leader)
+			2. _n._ [leader](dic://leader)
+			3. **democrat**民主政体论者;**politician**政治家;**leftist**急进派;**pundit**博学者;**senator**参议员;**congressman**国会议员;**populist**平民主义者;**republican**共和国的, 共和政体的;**right-wing**右翼的;**partisan**偏袒的;**legislator**立法者;
+			4. Just one question. Who's the handsome politico you refer to? /只有一个问题 你指的英俊政客是谁？
+			5. politico-economic, politico-economical
+			6. politico-moral
+			7. politico-social
+		13. politick
+		14. politicize
+		15. politician
+		16. political
 			1. unpolitical
 			2. sociopolitical
 			3. politicallly
@@ -2588,37 +2725,71 @@
 			7. geopolitical
 			8. cosmopolitical
 			9. apolitical
-		6. impolitic
-			1. **unwise**不明智的;**crass**粗鲁的;**distasteful**使人不愉快的;**vulgar**粗俗的;**remark**评论;**hypocritical**伪善的;**unpopular**不得人心的, 不受欢迎的, 不流行的;**divisive**分裂的;**shameful**可耻的;**disgraceful**可耻的,丢脸的,不光彩的;**counterproductive**反生产的,使达不到预期目标的;
-			2. [inexpedient](dic://inexpedient), [unwise](dic://unwise)
-		7. geopolitician
-	14. politics
+		17. impolitic
+			1. a. 失策的, 不得当的
+			3. [inexpedient](dic://inexpedient), [unwise](dic://unwise)
+			2. **unwise**不明智的;**crass**粗鲁的;**distasteful**使人不愉快的;**vulgar**粗俗的;**remark**评论;**hypocritical**伪善的;**unpopular**不得人心的, 不受欢迎的, 不流行的;**divisive**分裂的;**shameful**可耻的;**disgraceful**可耻的,丢脸的,不光彩的;**counterproductive**反生产的,使达不到预期目标的;
+			3. an impolitic approach to a sensitive issue /对敏感问题不明智的处理方式
+			4. it was impolitic to pay the slightest tribute to the enemy. /对敌人表达最小的尊敬也是不明智的。
+			5. His first expressed intention had been to go indoors with her, but this he abandoned as impolitic in the highest degree. /他最初表达的意图是和她一起进屋，但他认为这在很大程度上是不礼貌的，因此放弃了。
+			6. Both laws were evident violations of natural liberty, and therefore unjust; and they were both, too, as impolitic as they were unjust. /这两项法律都明显侵犯了自然自由， 因此是不公正的； 而且他们俩都既不公正又不讲政治。
+		18. geopolitician
+	17. politics
 		1. supra-politics
 		2. geopolitics
-	15. polity
+	18. polity
 2. Singapore
 
 
 ### penetr- 表示“进入”，来自拉丁语 penetrātus "to put or get into, enter into"。
 1. penetrate
-	1. penetrator
-	2. penetrative
+	1. vt. 穿透, 刺穿, 渗透, 看穿, 洞察, 了解, 使充溢  
+	2. vi. 刺入, 看穿, 渗透, 打进
+	3.  来自拉丁语 penetrare,穿过，进入，来自 penes,在里面，进入，词源同 penates.-tra,比较级后缀，词源同 intra-,interior.字面意思即进入，引申词义穿过，穿透，性交等。
+	4. One fact had penetrated his consciousness like a paralysing dart. /一个事实像一把致人瘫痪的飞镖扎进了他的意识。
+	5. No one thought that fire could penetrate so deeply into the city. /谁也没想到，大火能够深入城市如此之深。
+	6. Tell me, boy, does anything penetrate that thick skull of yours /告诉我，孩子，你这个笨笨的脑袋理解到了什么吗？
+	7. penetrator
+	8. penetrative
 		1. penetratively
 		2. nonpenetrative
-	3. penetration
-		1. thermopenetration
-		2. micropenetration
-	4. penetrating
-	5. nonpenetration
-	6. interpenetrate
+	9. penetration (perspective)
+		1. penetrate【穿透】 + ion表名词，是单词penetrate 派生的名词。
+		2. n. 穿透, 渗透, 侵入, 识穿, 洞察(力)
+		3. thermopenetration
+		4. micropenetration
+	10. penetrating
+	11. nonpenetration
+	12. interpenetrate
 		1. interpenetration
 		2. interpenetrating
-	7. impenetrate
+	13. impenetrate
+		1. vt. 进入, 贯穿
 2. penetrance
+	1. - n. （遗传）[遗] 外显率；穿透性，透入度
 3. penetrable
 	1. penetrability, unpenetrability
-	2. impenetrable, impenetrability
-4. penetrometer
+4. impenetrable 
+	1. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative, inexplicable) 
+	2. (impenetrable, obstinate, inflexible, dogged, pertinacious, tenacious, steadfast, dour, unyielding, unwavering, unrelenting, persistent, badge)
+	3. a. 不能通过的, 不可理喻的, 费解的, 顽固的
+	4. - adj. 不可进入的，无法透视的；不可理解的，令人费解的；顽固的；（物理）（物质）不可入性的
+	5. - im-,不，非，penetrable,可穿透的。
+	6. _adj._ [dense](dic://dense), [thick](dic://thick), [incomprehensible](dic://incomprehensible), [uncomprehensible](dic://uncomprehensible)
+	7. _n._ [penetrable](dic://penetrable), [thin](dic://thin), [comprehensible](dic://comprehensible), [comprehendible](dic://comprehendible)
+	8. imperceptible
+	9. **incomprehensible**费解的;**impervious**不可渗透的,透不过的;**opaque**不透明的;**unbreakable**打不破的;**dense**浓厚的;**inaccessible**达不到的, 不可及的;**invisible**看不见的;**indestructible**不可毁灭的，不能破坏的;**thick**厚的;**invincible**不可征服的;**barrier**障碍物，屏障;
+	10. an impenetrable clique /地下小集团。
+	11. impenetrable jargon. /令人费解的行话
+	12. I find his style somewhat impenetrable. /我发现他的行为方式令人颇为费解。
+	13. his impenetrable eyes and inscrutable countenance give little away. /他让人捉摸不透的眼神和深不可测的表情几乎什么也没流露。
+	14. Despite heavy winds and nearly impenetrable ground fog, the plane landed safely. /尽管有强风和无法看透的地雾，飞机安全着陆
+	15. Does it feel like you're impenetrable? /有没有感觉你坚不可摧?
+	16. The contract completed, she raised between them a barrier impenetrable as a wall. /合同履行完毕，她在他们俩之间建起了一道障碍，像一堵墙似的不可穿越。
+	17. Because I have to project this impression of the shining, impenetrable fortress. /因为 我让大家看到一座闪耀坚固的堡垒。
+	18. In the 1970s, Brazil began building roads through the impenetrable Amazon rain forest. /20世纪70年代，巴西开始在难以穿越的亚马逊雨林修建道路。
+		1. impenetrability
+6. penetrometer
 
 
 ### +\*pent- +
@@ -2935,8 +3106,9 @@
 	1. approach
 		1. counterapproach
 	2. reproach
-		1. reproachless, reproachful
-	3. rapprochement (not re + approach)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		2. reproachless, reproachful
+	4. rapprochement (not re + approach)
 		1. the reestablishing of cordial relations
 		2. _n._ [cooperation](dic://cooperation)
 		3.  [reconciliation](dic://reconciliation)
@@ -2951,12 +3123,12 @@
 		5. _n._ [incorrupt](dic://incorrupt)
 		6. **depraved**堕落的;**sinner**罪人;**sinners**罪人;**sinful**有罪的;**wickedness**邪恶;**righteous**公正的;**wicked**邪恶的;**vile**卑鄙的;**heathen**异教徒;**pervert**使堕落, 把…引入邪路, 使变坏;**perverted**不正当的;
 		7. reprobation
-	3. reprove (reprieve, reproof)
-		1. vt. 责备, 责骂, 非难
+	3. reprove
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate)
+		2. vt. 责备, 责骂, 非难
 		2. re-,相反，prove,证明，证实。比喻用法。
 		3. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 		4. **rebuke**指责，非难;**repent**忏悔;**repentance**悔悟;**reproach**责备;**punish**严厉对待;**saith**说;**condemn**判刑，定罪;**wickedness**邪恶;**righteousness**正当;**doth**从事;**lest**唯恐，以免;
-		5. [admonish](dic://admonish)
 		6. With a quick look the teacher reproved the child for whispering in class /老师以极快的表情斥责在课堂上交头接耳的同学。
 		7. We reprove and condemn it as gravely offensive to the dignity of this Apostolic See，to Our own person，to the Episcopacy，and to the clergy and all the Catholics of France. /因此我们义愤填膺，竭力抗议，凡是关于这次政教分离的起草、投票、公布，我们都严重予以抗议。
 		8. reproving, reprovingly
@@ -3932,7 +4104,7 @@
 		3. **criticize**评论, 批评;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**offend**冒犯;**accuse**控告，指控;**embarrass**使窘迫;**ridicule**嘲笑;**despise**轻视，鄙视;**insult**侮辱;**intimidate**恐吓, 威胁;**denounce**谴责;
 		4. disparaging
 		5. disparagement
-	3. disparate (asperse, dissipate)
+	3. disparate (asperse, dissipate) (dissimilar, disparate, heterogeneous, )
 		1. _n._ [difference](dic://difference), [deviation](dic://deviation), [divergence](dic://divergence), [departure](dic://departure), discrepancy, distinction, discrimination, disparity, asymmetry,
 		2. _adj._ [different](dic://different), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
 		3. _n._ [same](dic://same), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
@@ -4476,46 +4648,80 @@
 	4. compete
 		1. competitory, competitor, competitive
 		2. competent, omnicompetent
-	5. impetus
-		1. impetuous, impetuosity
-		2. **impatience**急躁;**zeal**热心;**boldness**大胆;**impulsive**冲动的,易冲动的;**eagerness**渴望;**temper**脾气;**vigor**活力，精力;**cowardice**懦弱;**fury**狂怒;**spontaneity**自然性;**reckless**鲁莽的，不顾后果的;
-	6. perpetual
-		1. perpetuity
+	5. impetus (momentum, tendency, )
+		1.  [drift](dic://drift), [impulsion](dic://impulsion)
+		2.  [impulse](dic://impulse), [impulsion](dic://impulsion)
+		3. _n._ [force](dic://force), [drive](dic://drive), [thrust](dic://thrust), [driving force](dic://driving force)
+		4. **spurred**装有马刺的;**motivation**动机;**catalyst**催化剂;**inspiration**灵感;**motive**动机，目的;**momentum**动力;**encouragement**鼓励;**spur**马刺;**underpinning**基础,支柱,支撑;**reason**理由;**idea**主意;
+		5. **impatience**急躁;**zeal**热心;**boldness**大胆;**impulsive**冲动的,易冲动的;**eagerness**渴望;**temper**脾气;**vigor**活力，精力;**cowardice**懦弱;**fury**狂怒;**spontaneity**自然性;**reckless**鲁莽的，不顾后果的;
+		6. impetuous (precipitate, impetuous)
+			1. (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic)
+			2. _adj._ [incautious](dic://incautious), [forceful](dic://forceful)
+			3. n. [cautious](dic://cautious), [forceless](dic://forceless), [unforceful](dic://unforceful)
+			4. **impulsive**冲动的,易冲动的;**reckless**鲁莽的，不顾后果的;**brash**仓促的，性急的;**rebellious**叛逆的;**careless**粗心的;**hasty**匆忙的;**boisterous**热闹的;**foolish**愚蠢的;**fearless**无畏的;**exuberant**兴高采烈的;**timid**羞怯的;
+			5. an impetuous dash for freedom /急切要争取自由
+			6. an impetuous but controlled flow of water. /迅疾但受控制的水流。
+			7. The rapidity of change follows the impetuous pace of man rather than the deliberate pace of nature /这种快速的变化追随着人类轻率的步伐而非大自然的从容步态。
+			8. And the fact that you are being so impetuous and irresponsible tells me you're not even close to being ready /而且当下如此莽撞又不负责任的你根本没有做好准备踏上社会。
+			9. But Atlanta was of her own generation, crude with the crudities of youth and as headstrong and impetuous as herself. /可亚特兰大是她的同辈，带有青年时代的莽撞味，并且像她自己那样倔强而浮躁。
+			10. He was impetuous and it was difficult. /他很浮躁，很困难。
+		8. impetuosity
+		9. 
+	7. perpetual
+		1. per-全部 , 永久 + pet-追求 + -ual
+		2. _adj._ [permanent](dic://permanent), [lasting](dic://lasting), [continuous](dic://continuous), [uninterrupted](dic://uninterrupted), [continual](dic://continual)
+		3. _n._ [impermanent](dic://impermanent), [temporary](dic://temporary), [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous), [sporadic](dic://sporadic)
+		4. **continual**不间断的, 不停的;**unending**不断的，无止境的;**never-ending**不停的,无限的;**constant**不变的;**eternal**永恒的;**incessant**不停的, 持续不断的;**continuous**连续的;**everlasting**永恒的;**ever-present**经常存在的;**endless**无止境的;**eternally**永恒地;
+		5. a perpetual secretary of the society. /协会的终身秘书。
+		6. their perpetual money worries. /他们为了钱没完没了的担心。
+		7. Why then is this people of Jerusalem slidden back by a perpetual backsliding？ they hold fast deceit， they refuse to return /这耶路撒冷的民，为何恒久背道呢。他们守定诡诈，不肯回头。
+		8. perpetuity
 			1. **perpetual**永久的;**indefinitely**无限地;**forever**永远;**posterity**后代;**endowment**资助,捐助;**heirs**继承人;**irrevocable**不可改变的, 不可反转的;**eternally**永恒地;**foreseeable**可预见到的;**henceforth**从今以后, 从此以后;**preserve**保存;
 			2. _n._ [permanence](dic://permanence), [permanency](dic://permanency)
-		2. perpetuate
+		9. perpetuate
 			1. _v._ [continue](dic://continue), [uphold](dic://uphold), [carry on](dic://carry on), [bear on](dic://bear on), [preserve](dic://preserve)
 			2. **subvert**推翻;**propagate**繁殖;**promote**促进;**undermine**在某物下挖洞或挖通道;**reinforce**增强;**counteract**对抗;**exacerbate**使恶化;**glorify**赞美;**dispel**驱散，驱逐;**preserve**保存;**diminish**使减少;
-		3. perpetuation
+			3. perpetuate the memory of comrade Norman Bethune /永远纪念诺尔曼·白求恩同志
+			4. Jokes perpetuate various national stereotypes. /笑话固化了对各民族的公式化看法。
+			5. The new library will perpetuate its founder's great love of learning. /1. 这座新图书馆将纪念它的创建人对学习的热爱
+		10. perpetuation
 			1. **continuance**继续;**creation**创造，创作;**myth**神话;**oppression**压迫手段;**notion**概念;**perpetual**永久的;**pernicious**很有害的;**preservation**保存;**continual**不间断的, 不停的;**existence**存在;**suppression**镇压;
-	7. petulance, petulant
-		1. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
-		2.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+	8. petulance 
+		1. n. 易怒, 坏脾气, 使性子
+		2. petulant
+			1. a. 任性的, 暴躁的, 易生气的, 难以取悦的
+			2.  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy),)
+			3. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
+			4.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
 		3. 
-	8. peripatetic
+	9. peripatetic
 		1. [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
 		2. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
 		3. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
-	9. peripetia, peripeteia
+	10. peripetia, peripeteia
 		1. 剧情突变，情节或命运的突变
-	10. propitiate,
-		1. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
-		2. propitious
+	11. propitiate (appropriate)
+		1. vt. 慰抚, 安抚, 和解, 谋求...的好感
+		2.  来自拉丁语 propitiare,安抚，缓和，求情，来自 pro-,向前，petere,寻求，努力，乞求，恳求，词源同 petition,petitioner.
+		3. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
+		4. 
+		5. propitious (omen)
 			1. **auspicious**吉利的;**favourable**赞许的, 赞同的;**favorable**有利的;**momentous**重大的, 严重的;**juncture**连接;**advantageous**有利的;**fruitful**多产的;**joyous**令人高兴的;**circumstance**环境;**conducive**有助的;**expedient**应急有效的;
 			2. _adj._ [golden](dic://golden), [favorable](dic://favorable), [favourable](dic://favourable), [lucky](dic://lucky), [prosperous](dic://prosperous), [gracious](dic://gracious)
 			3. _n._ [unpropitious](dic://unpropitious)
-		3. unpropitious
-		4. propitiatory
-			1. **sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**rites**仪式;**ritual**仪式;**deity**神;**altar**祭坛;**offering**提供;
-			2. propitiation
-				1. _n._ [appeasement](dic://appeasement), [calming](dic://calming), [redemption](dic://redemption), [salvation](dic://salvation)
-				2. **atonement**弥补,补偿;**sacrificial**献祭的;**deity**神;**salvation**拯救;**sins**罪恶;**repentance**悔悟;**sacrifice**牺牲;**sinners**罪人;**sinner**罪人;
-	11. repeat
+		6. unpropitious
+		7. propitiatory
+			1. a. 劝解的, 抚慰的, 谋求好感的
+			2. **sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**rites**仪式;**ritual**仪式;**deity**神;**altar**祭坛;**offering**提供;
+		8. propitiation
+			1. _n._ [appeasement](dic://appeasement), [calming](dic://calming), [redemption](dic://redemption), [salvation](dic://salvation)
+			2. **atonement**弥补,补偿;**sacrificial**献祭的;**deity**神;**salvation**拯救;**sins**罪恶;**repentance**悔悟;**sacrifice**牺牲;**sinners**罪人;**sinner**罪人;
+	12. repeat
 		1. repetend
 		2. repetitive, repetitious
 		3. photorepeater
 5. **potam- = river**
-	1. hippopotamus
+	1. hippopotamus [美 /ˌhɪpəˈpɑtəməs/](cmd://Speak/_us_/hippopotamus)
 		1. hippo-马 + potam-河 + -us，即河中的马。
 		2. hippopotamus [,hɪpə'pɒtəməs] n. [脊椎] 河马。希腊词根hippo-表示马，potam-表示河，这样hippopotamus字面意就是“river-horse”了。《圣经》(约伯记)中记载的 behemoth [bɪ'hiːmɒθ] n.巨兽；河马，adj.巨大的；高大的，据学者考证应该就是河马。实际生物学上河马与猪的关系比与马近多了。
 		3.  [hippo](dic://hippo), [river horse](dic://river horse), [Hippopotamus amphibius](dic://Hippopotamus amphibius)
@@ -4536,25 +4742,37 @@
 	6. potamometer
 6. **pter- = feather, wing,** 
 	1. pterodactyl
+		1. _n._ [pterosaur](dic://pterosaur), [flying reptile](dic://flying reptile)
+		2. **dinosaur**过时、落伍的人或事物;**dragon**龙;**unicorn**独角兽;**lizard**蜥蜴;**ape**猿;**bird**鸟;**creature**动物，生物;**flying**飞行的;**owl**猫头鹰;**gorilla**大猩猩;**monster**怪物;
+		3. Maybe the word 'boss', or a picture of a pterodactyl. /也许是“老板” 这个词，或者一张翼手龙的照片。
+		4. It showed a caveman trying to use a **pterodactyl** for an express delivery, only to watch it be gobbled up on take-off by a tyrannosaur. /广告中，一个洞穴人设法让翼手龙快递包裹，却眼睁睁地看着它刚一起飞就被霸王龙一口吞下。
 	2. pterosaur
 	3. pterygoid
 	4. apteral, apterous, 
 		1. tetrapterous
 	5. chiropter
 	6. helicopter
-	7. accipiter, accipitral
+		1. _n._ [heavier-than-air craft](dic://heavier-than-air craft)
+		2. [aeroplane](dic://aeroplane) 和airplane专指普通飞机，不包括helicopter(直升飞机)。aeroplane为英国英语的拼法。  
+		3. [airplane](dic://airplane) 为美国英语的用词。  
+		4. [aircraft](dic://aircraft) 常用作集体名词，也可指一架飞机，其含义包括直升飞机和飞艇等。  
+		5. [plane](dic://plane) 本义为“平面”，在航空专业里通常用aeroplane。plane较通俗用词。  
+		6. [jet](dic://jet) 指喷气式飞机，也用jet plane。  
+		7. [helicopter](dic://helicopter) 指直升飞机。
+	7. **chopper**斧头;**aircraft**飞机，航空器;**airplane**飞机;**plane**平面;**parachute**降落伞;**UAV**无人机;**jet**喷射，喷嘴;**ambulance**救护车;**airliner**班机;**flying**飞行的;**pilot**领航员;
+	8. accipiter, accipitral
 		1. **hawk**鹰;**hummingbird**蜂鸟;**owl**猫头鹰;**bird**鸟;**avian**鸟类的;**plumage**翅膀;**birds**鸟类;**beak**鸟嘴;**taxon**分类单元;**sparrow**麻雀;**owls**猫头鹰;
-	8. archaeopteryx
+	9. archaeopteryx
 		1. **fossils**化石;**fossil**化石;**dinosaur**过时、落伍的人或事物;**creationism**创造宇宙说,特别创造说;**beak**鸟嘴;**reptiles**爬行类;**bird**鸟;**reptile**爬虫类的;**vertebrate**脊椎动物;
-7. **ptil-** = feather, 表示“羽毛”。源自希腊语 ptilon "soft feathers, down, plume."
+14. **ptil-** = feather, 表示“羽毛”。源自希腊语 ptilon "soft feathers, down, plume."
 	1. neossoptile
 		1. n. 幼鸟羽, 雏羽
 	2. protoptile
 		1. n. 原始羽毛
 	3. teleoptile
 		1. n. 成羽
-8. **pto-** = to fall, 表示“下降”。源自希腊语 piptein "to fall," ptotos "falling, fallen," ptosis "a fall."
-	1. asymptote
+15. **pto-** = to fall, 表示“下降”。源自希腊语 piptein "to fall," ptotos "falling, fallen," ptosis "a fall."
+	1. asymptote (apostate)
 		1. **exponential**指数的;**quadratic**二次的;**infinity**无穷;**curve**曲线;**slope**倾斜;**singularity**异常,奇怪,奇特;**tangent**切线的，相切的;**equation**方程式，等式;**equilibrium**平衡,均势;**approximation**接近;**theta**希腊语字母表中第八个字母;
 		2. _[slant asymptote](dic://slant%20asymptote)_  斜渐近线
 		3. _[horizontal asymptote](dic://horizontal%20asymptote)_  水平渐近线
@@ -4563,7 +4781,7 @@
 		2. **symptomatic**症状的;**malaise**不舒服;**problem**难题;**headache**头痛;**manifestation**显示;**worsening**恶化;**diagnosis**诊断;**ailment**小病;**disorder**混乱;**disease**病，疾病;**severity**严格;
 	3. apoptosis, apoptotic
 	4. ptomain, ptomaine
-9. feather
+16. feather
 	1. n. 羽毛 
 	2. vi. 长羽毛  vt. 用羽毛装饰
 	3. birds of a feather flock together物以类聚人以群分。同种类的鸟确实喜欢聚集在一起，飞行时，栖息时都如此，为什么呢？这样做的主要原因是可以降低单飞时被鹰隼等猛禽抓住的概率。 All his friends are dishonest. Birds of a feather flock together. 他所有的朋友都不诚实，物以类聚人以群分呀。 ​​​​  
@@ -4678,19 +4896,78 @@
 3. **pass-** = pass through,
 	1. bypass
 	2. compass
+		1. com-共同 + pass通过 → 共同能过的地方 → 做事的范围。
+		2.  com-,表强调，-pass,走，展开，词源同 pace.后用于指数学和航海物品名。
+		3. n. 指南针, 范围, 音域  
+		4. vt. 包围, 达到, 图谋, 理解
+		5. gyrocompass
+		6. encompass
+		7. compassing
+		8. compasses
+		9. astrocompasses
 	3. impasse
+		1. n. 难局, 僵局, 死路, 死胡同
+		2. im-不 + pass-通过 + -e → 通不过 → 死路。
+		3.  [deadlock](dic://deadlock), [dead end](dic://dead end), [stalemate](dic://stalemate), [standstill](dic://standstill)
+		4.  [blind alley](dic://blind alley), [cul de sac](dic://cul de sac), [dead-end street](dic://dead-end street)
+		5. _n._ [situation](dic://situation), [thoroughfare](dic://thoroughfare)
+		6. **stalemate**僵局;**deadlock**僵持，僵局，相持不下;**standoff**冷淡;**negotiation**协商, 谈判;**disagreement**分歧, 意见不合;**agreement**协定, 协议, 契约;**dispute**争论;**compromise**妥协;**unresolved**未解决的;**negotiating**谈判;**conflict**冲突，矛盾;
+		7. reached an impasse in the negotiations. /谈判过程中陷入了僵局
 	4. impassion
-		1. impassability
-		2. impassable, impassably
+		1. - v. 激起……的热情
+		2. Any sanctions they impose are likely to impassion some sort of reciprocal and punitive way by Mexico. /这两个机构施加的任何制裁都可能引发墨西哥的反击和惩罚。
+		3. Earlier, he had given an impassion speech heard through a BBC interpreter. /早些时候, 他曾通过一位BBC翻译做出了激动的言论。
+		4. an impassioned applause /热烈的欢呼
+		5. impassability
+		6. impassable, impassably
+		7. impassioned (fiery, impassioned)
+			1. _adj._ [passionate](dic://passionate)
+			2. _n._ [passionless](dic://passionless)
+			3. **eloquent**雄辩的，有口才的;**passionate**热情的;**heartfelt**衷心的;**fervent**强烈的;**spirited**生机勃勃的;**forceful**有说服力的;**rousing**活泼的;**ardent**热情的;**emotive**感情的;**poignant**尖锐的;**exuberant**兴高采烈的;
 	5. impassive
-		1. impassively
-		2. impassivity
-	6. pass
+		1. _adj._ [unemotional](dic://unemotional), [uncommunicative](dic://uncommunicative), [incommunicative](dic://incommunicative)
+		2. n._ [emotional](dic://emotional), [communicative](dic://communicative), [communicatory](dic://communicatory)
+		3. **aloof**冷淡的;**motionless**不动的,静止的;**indifferent**漠不关心;**enigmatic**谜的;**countenance**面容，表情;**demeanor**行为;**defiant**挑衅的;**austere**简朴的;**lifeless**无生命的;**stare**凝视，盯着看;**gaze**注视;
+		4. Her face remained impassive, studying the Belgian as he completed the form. /她不动声色,仔细观察正在填写表格的那个比利时人。
+		5. Ron stared at Hermione, but her face was quite impassive /罗恩盯着赫敏，但赫敏脸上的神情十分泰然。
+		6. It's just an impassive creature taking whatever life sends its way /它不过是一个逆来顺受、无动于衷的生物。
+		7. impassively
+		8. impassivity
+	7. pass
 		1. passable, passably
 		2. passage, passant, passenger
 		3. passer, passing, passless
-		6. passman, passport, password, passmeter, passtime, passkey
-		7. repass, surpass, trespass, underpass, 
+		6. passman
+		7. passport
+		8. password
+		9. passmeter
+		10. passtime
+		11. passkey
+		12. repass
+		13. surpass
+		14. trespass (transgress)
+			1. tres[=trans横过去] + pass → 横穿而过 → 侵入[别人领地]。
+			2. - tres-,超过，来自 trans-变体形式，pass,走，经过。即超过范围和界线，引申词义入侵，越轨，非法进入等。
+			3. n. 非法侵入; <旧>罪过  
+			4. v. 擅自进入, 非法侵入
+			5.  [encroachment](dic://encroachment), [violation](dic://violation), [intrusion](dic://intrusion), [usurpation](dic://usurpation)
+			6.  [intrude](dic://intrude)
+			7.  [take advantage](dic://take advantage)
+			8.  [sin](dic://sin), [transgress](dic://transgress)
+			9.  [transgress](dic://transgress), [overstep](dic://overstep)
+			10. _n._ [tort](dic://tort), [civil wrong](dic://civil wrong), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct), [misconduct](dic://misconduct), [actus reus](dic://actus reus)
+			11. _v._ [transgress](dic://transgress), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against), [breach](dic://breach), [break](dic://break)
+			12. **misdemeanor**不法行为;**disobedience**不服从,违抗;**transgression**犯罪;**unlawful**私生的;**nuisance**讨厌的东西;**felony**重罪;**vandalism**汪达尔人作风;**burglary**盗窃，夜盗;**violation**违反, 冒犯, 侵害;**theft**盗窃;**offence**犯罪;
+			13. _trespass on_ 侵犯；非法侵入；妨碍；打扰
+			14. there is no excuse for trespassing on railway property. /铁路财产不容侵犯。
+			15. a man who had trespassed against Judaic law. /一个触犯犹太教规的人。
+			16. The fishing boat was seized for its trespass into restricted waters. /渔船因非法侵入受限制水域而被扣押。
+			17. Don't trespass onto my property,' the neighbor shouted combatively /不要侵犯我的财产。’邻居杀气腾腾地吼道。
+			18. You are trespassing and obstructing progress on a contracted job. /你这是擅闯私人领地 妨碍正常施工。
+		15. underpass
+			1. _n._ [tunnel](dic://tunnel)
+			2. **walkway**通道，走道;**roadway**路面;**tunnel**隧道;**embankment**路堤;**expressway**高速公路;**footpath**小路;**roundabout**绕行路线, 绕道, 环状交叉路;**southbound**向南行的;**northbound**北行的;**corridor**走廊;**pedestrian**步行者;
+			3. In the sun of a weekday afternoon, women in multicoloured kaftans gossip in the spacious squares and underpasses. /在一个平日阳光灿烂的下午，女人们身着土耳其长袍在宽阔的广场，低下通道聊天。
 4. **pet-** = 原义为延伸，引申为花瓣
 	1. petal
 		1. 来自 PIE*pete,展开，词源同 patent,feather.后用于指花瓣。
@@ -4747,13 +5024,21 @@
 		6. pureblood
 		7. purebred
 		8. pureness
+			1. n. 清洁, 纯净, 纯粹
 		9. purism
+			1. n. 语言纯正主义, 纯粹派
 		10. purist
+			1. n. 纯粹主义者
 		11. puritan
+			1. n. 清教徒  
+			2. a. 清教徒的
 		12. impure
 		13. purgatorial
 		14. purgatory
-		15. purge
+			1. n. 涤罪, 炼狱
+			2. a. 涤罪的
+			3. 
+		15. purge 
 			1. n. 净化, 清除, 泻药  
 			2. v. (使)净化, 清除, (使)通便
 			3. v. 清洗（组织中的异己分子）；清除，排除（不愉快的情况或感觉）；删除（不需要的东西） ；催泻，通便；<法律>弥补，消除（蔑视法庭罪）；（尤指由于患有贪食症）使吐出吃下的食物，催吐 
@@ -4802,7 +5087,7 @@
 		1. any of numerous plants of the genus Euphorbia; usually having milky often poisonous juice n. 大戟，大戟树；泽漆 /adj. 大戟科的
 		2. _n._ [shrub](dic://shrub), [bush](dic://bush)
 		3. **clover**苜蓿;**fern**蕨类植物;**shrub**灌木;**leafy**多叶的;**cactus**仙人掌;**foliage**叶子;**leaf**叶子;**weed**杂草;**grasses**稻科植物类;**weeds**丧服;
-	6. depurant
+	6. depurant (detergent)
 		1. _[depurant](dic://depurant)_  净化器，净化剂
 	7. depurate
 		1. _[depurate](dic://depurate)_  vt. 使净化；提纯; vi. 净化；清洁;
@@ -4830,7 +5115,7 @@
 
 ### + \*(s)peud- + = to push, repulse, (维基词典将其归类到 “paw-, to strike”)
 1. **pud-** = = feel shame, 表示“感到羞耻”。源自拉丁语 pudere "to feel shame."
-	1. pudendum
+	1. pudendum (pube, s)
 		1. 来自拉丁语 pudendum,阴部，羞耻区，来自 pudere,感到羞耻，感到害羞，来自 pudare,剪枝，思考，来自 PIE*pu,击，打，思考，词源同 pave,compute,repute.该词常见于复数形式 pudenda.
 		2. n. （尤指女性的）外生殖器；外阴
 		3. human external genital organs collectively especially of a female
@@ -4838,7 +5123,8 @@
 		5. [genitalia](dic://genitalia), [genital organ](dic://genital organ), [genitals](dic://genitals), [private parts](dic://private parts), [privates](dic://privates), [crotch](dic://crotch)
 		6. _[lesser lip of pudendum](dic://lesser%20lip%20of%20pudendum)_  [解剖] 小阴唇
 		7. Conclusion The cream has therapeutic effect on pudendum leukoplakia,and it is safe and convenient. /结论该制剂治疗外阴白斑疗效确切,使用安全方便。
-	2. pudency
+		8. The utility model relates to an auxiliary medical appliance, in particular to a multifunctional women **pudendum**cleaning appliance. The technical scheme is that the appliance comprises forceps. /本实用新型涉及一种医疗辅助器械，具体是一种多功能妇女洁阴用具。
+	2. pudency (modesty)
 		1. pud-害羞 + -ency, 表名词
 		2. _[pudency](dic://pudency)_  n. 害羞，羞怯
 		3. Discard your pudency, fondle me audaciously. /丢弃你的羞怯，大胆地爱抚我。
@@ -4848,33 +5134,35 @@
 		3. There is a pudicity in noble minds which withholds them from speaking of their personal sufferings; proudly they hide the extent of their woes from hearts that love them, feeling a merciful joy in doing so. /高贵的头脑中有一种愚蠢，使他们不愿谈论自己的苦难。他们自豪地向爱他们的心隐藏他们的痛苦程度，并在这样做时感到仁慈的快乐。
 		4. On the other hand, the former inherited from the latter heavy consciousness of male chauvinism, especially the element of paternal culture of **pudicity** and gentleness. /另一方面，前者因袭了后者较浓的传统男权性别意识，特别是“贞”与“柔”等父系文化因子
 	4. impudent, impudently
-		1. im-,不，非，-pud,思考，羞耻心，词源同 impute,pudendum.即没有羞耻心的，无耻的，后引申词义不谦虚的，粗鲁的，无礼的。
-		2. [insolent](dic://insolent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
-		3. [fresh](dic://fresh), [impertinent](dic://impertinent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
-		4. _adj._ [disrespectful](dic://disrespectful), [forward](dic://forward)
-		5. _n._ [respectful](dic://respectful), [backward](dic://backward)
-		6. **mischievous**淘气的, 顽皮的;**brazen**黄铜制的;**arrogant**自大的，傲慢的;**audacious**大胆的, 有冒险精神的;**brash**仓促的，性急的;**foolish**愚蠢的;**vulgar**粗俗的;**cheeky**无耻的;**pompous**浮夸的;**sly**狡猾的;**careless**粗心的;
-		7. an impudent misrepresentation. /一篇无耻的不实报导。
-		8. He is the most impudent fellow in nature /他是世界上最厚颜无耻的家伙。
-		9. The teacher threatened to kick the impudent pupil out of the room. /老师威胁着要把这无礼的小学生撵出教室。
-		10. he could have strangled this impudent upstart. /他真想扼死这无礼的暴发户。
-		11. One of them, more impudent than the rest, put out his hand to pull the Marionette's nose. /他们中最大胆妄为的孩子伸手去抓木偶的鼻子。
-		12. " That is a fiction—an impudent invention to vex me" . /“那是虚构的——一个让我烦恼的无礼的发明” 。
-		13. impudence
-			1. [cheek](dic://cheek), [impertinence](dic://impertinence)
-			2. [crust](dic://crust), [gall](dic://gall), [impertinence](dic://impertinence), [insolence](dic://insolence), [cheekiness](dic://cheekiness), [freshness](dic://freshness)
-			3. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [rudeness](dic://rudeness)
-			4. **audacity**厚颜无耻;**arrogance**傲慢;**boldness**大胆;**folly**愚蠢;**foolishness**愚蠢;**brazen**黄铜制的;**cowardice**懦弱;**indignation**愤怒, 愤慨, 气愤;**countenance**面容，表情;**hubris**傲慢;**stupidity**愚笨;
-			5. My presence in his sanctum was evidently esteemed a piece of impudence too shameful for remark. /我在他的圣地出现，显然被他看作是羞于提及的莽撞事情。
-			6. Rufus was so startled by the sudden ringing of the bell, that all his impudence could not support him /鲁弗斯被突如其来的铃声完全弄懵了，他的所有鲁莽无法自圆其说。
-			7. Villon turned out his hands with a gesture of inimitable impudence. /维庸以一种无法模仿的厚颜无耻的姿势伸出双手。
-			8. She started; till a humorous impudence sparkled in her eyes, and she spoke. /她开始; 直到她眼中闪过一丝幽默的无礼之色， 她才开口说话。
-		14. impudicity
+		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; indecorous)
+		2. im-,不，非，-pud,思考，羞耻心，词源同 impute,pudendum.即没有羞耻心的，无耻的，后引申词义不谦虚的，粗鲁的，无礼的。
+		3. [insolent](dic://insolent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
+		4. [fresh](dic://fresh), [impertinent](dic://impertinent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+		5. _adj._ [disrespectful](dic://disrespectful), [forward](dic://forward)
+		6. _n._ [respectful](dic://respectful), [backward](dic://backward)
+		7. **mischievous**淘气的, 顽皮的;**brazen**黄铜制的;**arrogant**自大的，傲慢的;**audacious**大胆的, 有冒险精神的;**brash**仓促的，性急的;**foolish**愚蠢的;**vulgar**粗俗的;**cheeky**无耻的;**pompous**浮夸的;**sly**狡猾的;**careless**粗心的;
+		8. an impudent misrepresentation. /一篇无耻的不实报导。
+		9. He is the most impudent fellow in nature /他是世界上最厚颜无耻的家伙。
+		10. The teacher threatened to kick the impudent pupil out of the room. /老师威胁着要把这无礼的小学生撵出教室。
+		11. he could have strangled this impudent upstart. /他真想扼死这无礼的暴发户。
+		12. One of them, more impudent than the rest, put out his hand to pull the Marionette's nose. /他们中最大胆妄为的孩子伸手去抓木偶的鼻子。
+		13. " That is a fiction—an impudent invention to vex me" . /“那是虚构的——一个让我烦恼的无礼的发明” 。
+		14. impudence
+			1. im-不 + pud-羞耻 + -ence, 表名词
+			2. [cheek](dic://cheek), [impertinence](dic://impertinence)
+			3. [crust](dic://crust), [gall](dic://gall), [impertinence](dic://impertinence), [insolence](dic://insolence), [cheekiness](dic://cheekiness), [freshness](dic://freshness)
+			4. _n._ [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [rudeness](dic://rudeness)
+			5. **audacity**厚颜无耻;**arrogance**傲慢;**boldness**大胆;**folly**愚蠢;**foolishness**愚蠢;**brazen**黄铜制的;**cowardice**懦弱;**indignation**愤怒, 愤慨, 气愤;**countenance**面容，表情;**hubris**傲慢;**stupidity**愚笨;
+			6. My presence in his sanctum was evidently esteemed a piece of impudence too shameful for remark. /我在他的圣地出现，显然被他看作是羞于提及的莽撞事情。
+			7. Rufus was so startled by the sudden ringing of the bell, that all his impudence could not support him /鲁弗斯被突如其来的铃声完全弄懵了，他的所有鲁莽无法自圆其说。
+			8. Villon turned out his hands with a gesture of inimitable impudence. /维庸以一种无法模仿的厚颜无耻的姿势伸出双手。
+			9. She started; till a humorous impudence sparkled in her eyes, and she spoke. /她开始; 直到她眼中闪过一丝幽默的无礼之色， 她才开口说话。
+		15. impudicity
 			1. n. 无耻, 放肆
 			2. _One more impudicity_ 放肆一把
 			3. _impudicity presumption run wild wanton_ 放肆
 			4. _shameless impudicity cheeky blushless blatant_ 无耻的
-	5. repudiate
+	6. repudiate (capitulate)
 		1. 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
 		2. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
 		3. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
@@ -4898,30 +5186,49 @@
 ### + \*peuk/g + = to stick, stab, to prick
 1. **point-, punct-** = point, make sharp
 	1. point
-		1. point-blank
-		2. point-device
-		3. pointer
-		4. pointillism
-		5. pointless
+		1. n. 点, 小数点, 标点, 地点, 要点, 特点, 尖端, 分数, 得分, 穴位  
+		2. vt. 弄尖, 强调, 指出, 加标点于, 瞄准  
+		3. vi. 指, 指向, 表明
+		4. 来自古法语 point,点，刺点，斑点，勾缝，来自拉丁语 punctum,刺点，来自拉丁语 pungere,刺，-ct,过去分词格，来自 PIE*peug,刺，词源同 pugnacious,puncture.并引申诸相关词义。
+		5. 1.pounce [paʊns] vi.突袭，vt.扑过去抓住，n.猛扑；爪。单词本意是鹰爪子，因为鹰吃肉，所以爪子尖利，这样能撕破猎物的皮肤，与 punctuate ['pʌŋ(k)tʃʊeɪt] vt.不时打断；强调；加标点于和point等同根（point是刺穿后留下的点）。The Democratswere ready to pounce on any Republican failings
+		6. 2.moot point争论未决的问题。moot与meet和meeting有关，在中世纪英格兰，市民有自己的“burgmote”，burg是城镇，国家的领导人，那些“wiseman”有“witenagemote”，准律师聚集到一起，模拟法庭辩论，产生了这个习语。But this debate too couldbe a moot point in the 22nd century.
+		7. 3.cardinal number基数，是对应量词的“数”。cardinal在这里是其形容词含义，表主要的；基本的，因此其名词含义是枢机主教，枢不就是枢纽的枢吗？不正是中枢的枢吗？cardinal points是基点，指东西南北四个方向，cardinal sins则是传说中的七宗罪，即傲慢、嫉妒、愤怒、懒惰、贪婪、暴食及色欲。
+		8. point-blank
+		9. point-device
+		10. pointer
+		11. pointillism
+		12. pointless
 			1. _adj._ [blunt](dic://blunt), [worthless](dic://worthless), [meaningless](dic://meaningless), [nonmeaningful](dic://nonmeaningful)
 			2. _n._ [pointed](dic://pointed), [valuable](dic://valuable), [meaningful](dic://meaningful)
 			3. **useless**无用的;**meaningless**无意义的;**nonsensical**无意义的;**unnecessary**不必要的, 多余的;**irrelevant**不相干的,不相关的;**futile**无用的;**inane**愚蠢的;**superfluous**过多的;**ridiculous**可笑的, 荒谬的;**silly**愚蠢的;**tiresome**烦人的，无聊的;
-		6. points
-		7. pointsman
+		13. points
+		14. pointsman
 	2. appoint
+		1. vt. 任命, 指定, 下令
+		2. well-appoint
+		3. self-appoint
+		4. reappoint
+		5. disappoint
+		6. appointor
+		7. appointment
+		8. appointive
+		9. appointee
+		10. appointed
 	3. pointy
 		1. _[Pointy](dic://Pointy)_ 非常尖锐; 非常尖的; 尖的; 有尖头的
 	4. poignant
-		1.  [affecting](dic://affecting), [touching](dic://touching)
-		2. _adj._ [moving](dic://moving), [painful](dic://painful)
-		3. _n._ [unmoving](dic://unmoving), [painless](dic://painless)
-		4. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
-		5. _[poignant sarcasm](dic://poignant%20sarcasm)_ 辛辣的讽刺
-		6. _[poignant remarks](dic://poignant%20remarks)_ 尖锐的批评
-		7. _[poignant reminder](dic://poignant%20reminder)_ 令人痛苦的提示
-		8. _[poignant anxiety](dic://poignant%20anxiety)_ 深深的焦虑
-		9. _[The poignant sadness](dic://The%20poignant%20sadness)_ 凄美的忧伤
-		10. poignancy
+		1. 来自古法语 poignant,锋利的，尖锐的，来自拉丁语 pungere,刺，词源同 pugnacious,point.
+		2. a. 辛酸的, 尖锐的, 剧烈的
+		3.  [affecting](dic://affecting), [touching](dic://touching)
+		4. _adj._ [moving](dic://moving), [painful](dic://painful)
+		5. _n._ [unmoving](dic://unmoving), [painless](dic://painless)
+		6. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
+		7. _[poignant sarcasm](dic://poignant%20sarcasm)_ 辛辣的讽刺
+		8. _[poignant remarks](dic://poignant%20remarks)_ 尖锐的批评
+		9. _[poignant reminder](dic://poignant%20reminder)_ 令人痛苦的提示
+		10. _[poignant anxiety](dic://poignant%20anxiety)_ 深深的焦虑
+		11. _[The poignant sadness](dic://The%20poignant%20sadness)_ 凄美的忧伤
+		12. poignancy
 	5. pungency, pungent
 		1. 来自拉丁语 pungere,刺，叮，咬，来自 PIE*pung,刺，击，打，词源同 point,puncture.引申词义刺鼻的，一针见血的等。
 		2. _n._ [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [spiciness](dic://spiciness), [spice](dic://spice)
@@ -4930,25 +5237,38 @@
 		5. _[pungency component](dic://pungency%20component)_ 辣味成分
 		6. _[pungency torment woe](dic://pungency%20torment%20woe)_ 苦痛
 		7. _[sense of numbness and pungency](dic://sense%20of%20numbness%20and%20pungency)_ 麻辣感
-	6. compunction
+		8. Lots of spicy foods get their pungency from a chemical called capsaicin. /许多辛辣食物的刺激性来自一种叫做辣椒素的化学物质。
+		9. There he fell sound asleep on the sofa, and so Gloria found him, his breath filling the air with an unpleasant pungency, his hand still clutching his open brief case. /他在沙发上睡着了，于是格洛丽亚找到了他，他的呼吸充满了令人不快的刺鼻气味，他的手仍然抓着打开的公文包。
+		10. Being perfect, they can never droop under that satiety which arises from the perception of fault; their virtue can never be so entirely savoured as to leave no pungency of gusto for the next approach /作为完美的人，他们永远不会在因错误的感知而产生的满足感下垂头丧气；他们的美德永远无法被完全品味到对下一个方法没有热情的刺激。
+	1. compunction (contrite, remorse, rueful, )
 		1. com-共同 + punct-刺 + -ion名词后缀 → 浑身像针刺一样 → 悔恨。
 		2. _n._ [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
 		3. **qualms**良心之谴责，不安;**remorse**懊悔, 悔恨, 自责;**hesitation**犹豫;**pretense**借口;**intention**意图, 意向;**conscience**良心;**penchant**嗜好;**indignation**愤怒, 愤慨, 气愤;**disdain**蔑视;**pretext**托辞;**whatsoever**无论什么;
 		4. _[ended the relationship without compunction](dic://ended%20the%20relationship%20without%20compunction)_ 毫不后悔地结束了关系
 		5. compunctious
-	7. expunge (pugn-)
+	2. expunge (pugn-)
 		1. ex-向外 + pung-刺，即拔刺，拔掉，删除。
 		2. expunction
-	8. punctum
+	3. punctum
 		4. n. 斑点
 		5. punct-尖、点 + -um
-	9. punctate
+	4. punctate
 		1. _[punctated](dic://punctated)_  adj. 有小斑点的，点状的
 		2. _[punctate](dic://punctate)_  adj. 有小点的，点状的；有小孔的；具点的；有凹陷的
-	10. punctilio, punctilious
+	5. punctilio
 		1. punct-尖、点 + -ilious表形容词 → [做事]点滴不漏 → 小心的。
 		2. pun [pʌn] vi.说双关语，n.双关语；俏皮话。这个单词与punctilious [pʌŋ(k)'tɪlɪəs] adj. 一丝不苟的；拘泥形式的有关。词根punct表示刺，与point点同根。pun就是语言表达上的一个“fine point”。美国演员George Carlin的pun"Atheism is a non-prophet institution"中，prophet双关了profit。
-	11. punctual
+	6. punctilious (punctilious, meticulous) (fastidious)
+		1. _adj._ [precise](dic://precise)
+		2. n._ [imprecise](dic://imprecise)
+		3. **meticulous**极仔细的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**exacting**苛求的;**zealous**热心的，热情的，积极的;**precise**精确的;**methodical**有条理的, 井然的;**fastidious**过分讲究的;**impeccable**无瑕疵的;**strict**严格的;**attentive**对某人〔物〕 注意的;
+		4. he was punctilious in providing every amenity for his guests /他在客人面前拘泥礼节。
+		5. Congress would have to be punctilious in drawing up rules to forestall tax evasion. /国会将不得不严谨地制定规则，防止逃税。
+		6. The first, which looks inward, is the relentless self-scolding of the workaholic or punctilious student. /第一种是向内的，是工作狂或刻苦学生的严厉自责。
+		7. He is the most punctilious blockhead under heaven /他是天下最死板的笨蛋。
+		8. Soldiers, as well as women, practice the minor virtues with punctilious politeness. /士兵和女人一样， 以一丝不苟的礼貌来践行小美德。
+		9. He is punctilious to the point of quixotism in acknowledging the salutes of his men and in himself saluting the standards. /他一丝不苟地承认他的手下的敬礼和他自己向标准致敬。
+	7. punctual
 		1. _adj._ [on time](dic://on time), [prompt](dic://prompt), [timely](dic://timely)
 		2. _n._ [unpunctual](dic://unpunctual)
 		3. **courteous**彬彬有礼的;**polite**有礼貌的，客气的;**considerate**体贴的, 体谅的;**attentive**对某人〔物〕 注意的;**personable**英俊的;**dependable**可靠的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**communicative**爱说话的,好社交的;**efficient**有能力的, 效率高的;**hardworking**苦干的,不辞辛劳的;
@@ -4966,23 +5286,23 @@
 			10. a speech punctuated with cheers /演讲不时地被喝采声打断
 		6. punctulate
 			1. a. 有细孔的
-	12. puncture
-		1. 1 - 来自拉丁语 punctum,点，刺点，来自 pungere,刺，击，词源同 pungent,point.引申词义小孔，小洞。
+	8. puncture
+		1. 来自拉丁语 punctum,点，刺点，来自 pungere,刺，击，词源同 pungent,point.引申词义小孔，小洞。
 		2. _n._ [mishap](dic://mishap), [misadventure](dic://misadventure), [mischance](dic://mischance), [hole](dic://hole), [activity](dic://activity)
 		3. _v._ [pierce](dic://pierce), [make](dic://make), [create](dic://create), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [depressurize](dic://depressurize)
 		4. **tyre**装轮胎于;**rupture**破裂;**abrasion**磨损;**tire**疲劳;**wound**创伤，伤口;**sidewall**边墙，侧壁;**suture**缝合;**needle**针;**stab**刺;**tear**撕掉，扯下;**ruptured**破裂的;
 		5. _puncture needle_ 穿刺针
 		6. _puncture wound_ 刺伤，穿刺伤
-	13. contrapuntal, contrapuntist
-		1. 1 - contra-,相对，相反，-punt,刺，词源同 point,puncture.用于音乐术语。
+	9. contrapuntal, contrapuntist
+		1. contra-,相对，相反，-punt,刺，词源同 point,puncture.用于音乐术语。
 		2. _adj._ [counterpoint](dic://counterpoint)
 		3. **melodic**有旋律的;**rhythmic**间歇的;**harmonic**和声的;**orchestral**管弦乐队的;**melody**旋律;**counterpoint**对位法;**symphonic**交响乐的;**improvisation**即兴创作;**tonal**音调的;**orchestration**管弦乐编曲;**chromatic**有颜色的,颜色鲜艳的;
 		4. _[contrapuntal combinations](dic://contrapuntal%20combinations)_ 对位组合
 		5. _[contrapuntal reading](dic://contrapuntal%20reading)_ 对位阅读; 对位式阅读; 对位阅读法; 
 		6. _[contrapuntal music](dic://contrapuntal%20music)_ 复调音乐
-	14. pontil
+	10. pontil
 		1. _[punty pontil](dic://punty%20pontil)_ 吹玻璃用的铁棒
-	15. pounce
+	11. pounce
 		1. vi. 突袭，猛扑  vt. 扑过去抓住 
 		2. n. 猛扑，爪
 		3. [swoop](dic://swoop)
@@ -4993,7 +5313,7 @@
 		8. pounce on an opportunity. /掌握机会
 		9. the kestrel is ready to pounce on unsuspecting prey /红隼准备扑向毫无戒备的猎物。
 		10. Keynesian academics pounced, declaring the intellectual foundation of austerity destroyed /于是，凯恩斯主义学者们趁势断言，财政紧缩的理论基础破裂。
-	17. punch
+	12. punch
 		1. [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
 		2. [puncher](dic://puncher)
 		3. [perforate](dic://perforate)
@@ -5034,41 +5354,74 @@
 			2. his style is journalistic, with short punchy sentences. /他的风格属新闻体，句子简短而有力。
 			3. He articulates his direct approach to management in the punchy argot of his caste. /他在管理中善于用该行业里的准确行话来直接表达他的意思。
 1. **pugn-** = fight, 「Latin」pugil, "pugilist", pugnus, "fist"
-	1. expunge
-		1. 1 - ex-,向外，-pung,刺，词源同 pungent,point.即拔刺，拔掉，删除。
-		2. 1. remove by erasing or crossing out or as if by drawing a line
+	1. expunge (exhume)
+		1. ex-,向外，-pung,刺，词源同 pungent,point.即拔刺，拔掉，删除。
+		2. remove by erasing or crossing out or as if by drawing a line
 		3. [strike](dic://strike), [scratch](dic://scratch), [excise](dic://excise)
 		4. _v._ [delete](dic://delete), [cancel](dic://cancel)
 		5. **erase**抹去;**purge**净化;**suppress**抑制;**eradicate**摧毁,完全根除;**remove**移开;**reinstate**使恢复原职;**expel**驱逐;**eliminate**消除, 排除;**wipe**擦;**rid**使去掉;**overturn**推翻;
 		6. _[expunge from](dic://expunge%20from)_  从…… 删去
 		7. expunge a name from a list /从名单上除去一个名字
-		8. expunction
+		8. he could expunge an unsatisfactory incident from his memory /他可以将不满意的事情从记忆中彻底抹去。
+		9. However, making the trains run on time does not expunge his sins /然而，莫迪表面很有效率但这并不能洗刷他的罪行。
+		10. And then it's totally expunged in East Asia and China /然后它在东亚和中国被完全删除。
+		11. I'll back your motion to expunge his record. /我会支持你的提议 删掉他的犯罪记录。
+		12.  Mr. Benton has an old college record that's been expunged. /本顿先生有一个已经被撤销的大学旧记录。
+		13. He did plea to a misdemeanor and did have it expunged. /他确实对自己的轻罪提出抗辩，并确实将其删除。
+		14. The experience was something he had tried to **expunge** from his memory. /这种经历是他过去试图从记忆中抹去的。
+		15. expunction
 			1. _[conflict expunction](dic://conflict%20expunction)_ 冲突消解
 			2. _[expunction expurgation](dic://expunction%20expurgation)_ 消去
 			3. _[gauss expunction method](dic://gauss%20expunction%20method)_ 高斯消去法
-		9. expugnable
+		16. expugnable
 			1. adj. 可突击的；可攻克的
-	2. impugn, impugnment, impugnable
-		1. im-进入 + pugn-打 → 打进去 → 抨击。
-		2. **discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**accuse**控告，指控;**criticize**评论, 批评;**veracity**诚实;**refute**反驳，驳斥;**denounce**谴责;**contradict**矛盾;**slander**诽谤;**reproach**责备;**substantiate**用事实支持;
+	2. impugn (inhume)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		2. im-进入 + pugn-打 → 打进去 → 抨击。
+		3. - vt. 指责，非难；抨击；反驳；对…表示怀疑
+		4. **discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**accuse**控告，指控;**criticize**评论, 批评;**veracity**诚实;**refute**反驳，驳斥;**denounce**谴责;**contradict**矛盾;**slander**诽谤;**reproach**责备;**substantiate**用事实支持;
+		5. Objection. Counsel is clearly trying to impugn the witness, Your Honor /反对，对方律师明显试图责难目击证人，法官大人。
+		6. The FBI director, Christopher Wray, said again that nothing in the report impugns the integrity of the bureau as a whole. /FBI局长克里斯托弗·雷再次表示，这份报告并不能从整体上质疑调查局的诚信。
+		7. And even if you can impugn these five witnesses, your way still goes to a verdict. /就算你能驳斥这五个目击证人，但还是需要经过陪审团的裁决。
+		8.  And third, some saucy tart once tried to impugn my virtue against an oil painting of him, and in the halls of memory, some things demand context. /第三，一些俏皮的馅饼曾经试图指责我的美德反对他的油画，在记忆的大厅里， 有些事情需要背景。
+		9. I wish in no way to **impugn** the potential validity of gradualism. /我想我绝不非难渐进论的潜在有效性。
+		10. impugnment
+		11. impugnable
 	3. oppugn, oppugner
-		1. vt. 责难, 反驳, 质疑, 抨击
-		2. [question](dic://question), [call into question](dic://call into question)
-	4. pugnacious, pugnacity
-		1.  来自拉丁语 pugnus,拳头，来自 pungere,刺，击，词源同 point,pungent.引申词义好斗的。
-		2. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
-		3. [tough](dic://tough), [aggressive](dic://aggressive)
-		4. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
-		5. ==pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist==
-	5. repugn, repugnance, repugnant
-		1. v. 反对, 反抗
-		2. **disgust**厌恶，嫌恶;**aversion**厌恶;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**indifference**不关心,不在乎;**apprehension**理解;**hostility**敌意;**contempt**轻视，蔑视;**astonishment**惊讶, 惊奇;**prejudice**成见, 偏见, 歧视;**admiration**钦佩;
-		3. [disgust](dic://disgust), [contradictoriness](dic://contradictoriness)
-		4. [incompatibility](dic://incompatibility), [mutual exclusiveness](dic://mutual exclusiveness), [inconsistency](dic://inconsistency)
-		5. [repulsion](dic://repulsion), [revulsion](dic://revulsion), [horror](dic://horror)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		2. vt. 责难, 反驳, 质疑, 抨击
+		3. [question](dic://question), [call into question](dic://call into question)
+		4. But the other scholars **oppugn** the expansion of literariness /另一些学者对“文学性的扩张”产生了质疑。
+		5. "Just as the title indicating, this thesis is written to **oppugn**" the theory about unification of double quality "whi." /正如标题所示，本文就是针对课标关于语文课程性质“两性统一说”的这一界定进行质疑
+		6. The dispute and **oppugn** between the law circle and the judicial circle on the checking right of death penalty are apparently concluded /法学理论界与司法实务界一直以来关于死刑复核权的争议与质疑似乎尘埃落定。
+	4. repugn
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		2. v. 反对, 反抗
+		3. **disgust**厌恶，嫌恶;**aversion**厌恶;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**indifference**不关心,不在乎;**apprehension**理解;**hostility**敌意;**contempt**轻视，蔑视;**astonishment**惊讶, 惊奇;**prejudice**成见, 偏见, 歧视;**admiration**钦佩;
+		4. [disgust](dic://disgust), [contradictoriness](dic://contradictoriness)
+		5. [incompatibility](dic://incompatibility), [mutual exclusiveness](dic://mutual exclusiveness), [inconsistency](dic://inconsistency)
+		6. [repulsion](dic://repulsion), [revulsion](dic://revulsion), [horror](dic://horror)
+		7. Right, he was taken away those who let your repugn is individual, also took away a male body that makes you contented however /没错，他带走了让你生厌的个体，却也带走了一个让你满足的男性身体。
+		8. repugnance
+		9. repugnant
 	6. pugilism, pugilist, pugilistic
 		1. **boxer**拳师，拳击手;**boxing**拳击;**fighter**战士，斗争者;**middleweight**中量级选手;**welterweight**次中量级拳击手;**wrestler**摔跤选手，搏斗者;**boxers**拳击短裤;**sparring**拳击;**heavyweight**特别重的人或物;**fighters**铁骑无人机操控理论;**champion**冠军
 		2. [combatant](dic://combatant), [battler](dic://battler), [belligerent](dic://belligerent), [fighter](dic://fighter), [scrapper](dic://scrapper)
+		3. of or relating to pugilism or pugilists. /属于或关于拳击、拳击家的。
+		4. Mrs. Penniman, however, in spite of her pugilism, was a good deal frightened, and she took counsel of her fears. /然而，彭尼曼夫人尽管身为拳击手， 却非常害怕， 她接受了自己的恐惧。
+		5. " My dear Lavinia, " exclaimed the Doctor, " do you call that irony? I call it pugilism" ." /“我亲爱的拉维尼娅， ” 医生叫道，“你称之为讽刺吗？我称之为拳击主义” 。
+		6. The term **pugilism** is sometimes used for the sport. /拳击这个词经常用在体育中。
+	7. pugnacious, pugnacity
+		1. (pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist)
+		2.  来自拉丁语 pugnus,拳头，来自 pungere,刺，击，词源同 point,pungent.引申词义好斗的。
+		3. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
+		4. [tough](dic://tough), [aggressive](dic://aggressive)
+		5. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
+		6. loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant. /表“ 勉强、不愿、固执、难驾驭” 之意:
+		7. the increasingly pugnacious demeanour of right-wing politicians. /右翼政客越来越好斗的行径。
+		8. His pugnacious tone indicated that they were not about to laugh at Xenophilius, despite the clear provocation. " Come and dance, " he added abruptly to Hermione. /他用警告的语气表明这里并不欢迎取笑谢农费里厄斯的言辞，那会被当作是一种挑衅的，“我们去跳舞吧。”他突然对赫敏说。
+		9. Online, however, he is pugnacious, frequently taking people with whom he disagrees—including, on occasion, journalists at The Economist—to task. /然而，在网上，他好斗，经常责备与他意见相左的人——有时包括《经济学人》的记者。
+		10. As he made the demand he spat out a mouthful of blood and teeth and shoved his pugnacious face close to Oofty-Oofty. The Kanaka leaped backward to his bunk, to return with a second leap, flourishing a long knife. /他追究时吐出了一口血和牙齿，把自己那张咄咄逼人的脸凑到了武富提·武富提面前。 夏威夷人跳回自己的床位，又跳了回来，手上晃着一把长刀。
 2. pygmy
 	1. pygmy（俾格米人）：身材矮小的人  
 	2. 俾格米人（Pygmy）是尼格罗-澳大利亚人种中的一个类型 ，分布在非洲中部，以及亚洲的安达曼群岛、马来半岛、菲律宾和大洋洲某些岛屿。俾格米人在8岁时即发育成熟，可以结婚。非洲俾格米人又称尼格利罗人（Negrillo），是非洲中部热带森林地区的民族，被称为非洲的“袖珍民族”，成年人平均身高1．30米至1．40米。  
@@ -5658,264 +6011,267 @@
 ## pl
 ### + \*plak- +
 #### + \*plak- (1)+ = to be flat
-- **-plakia** = speckle 「Greeks」plax, "flat"
-	- leucoplakia
-	- etc... (academic)
-- **pelag-** = sea, 「Greeks」pelagos, "sea"
-	- archipelago
-		- archipelago（群岛）：希腊人的“主海”  
-		- 英语单词archipelago源自希腊语arkhipelagos，由arkhi（=archi，chief，主的）+pilagos（sea，海）构成，意思就是“主海”，特指希腊人所处的爱琴海。众所周知，爱琴海中遍布岛屿，所以希腊语arkhipelagos演变为意大利语arcipelago后，词义就变了，不再特指爱琴海，而是泛指各种分布有大量岛屿的海。进入英语后，拼写变成archipelago，词义进一步发生变化，除了表示“分布有大量岛屿的海”以外，还可以用来表示“群岛”。  
-		- archipelago：[,ɑːkɪ'peləgəʊ] n.群岛，多岛的海  
-		- monarch：n.君主，帝王，最高统治者  
-		- pelagic：adj.深海的，浮游的，远洋的
-		- archipelago - 该词最初仅被用以指爱琴海（the Aegean Sea）。这一名称是意大利人在13世纪据意大利语arcipelago 'chiefsea'取的。其实这个词本身就来源于希腊语（archi- 'chief' + pélagos 'sea'）。由于爱琴海中有一大群岛屿，因此archipelago一词在16世纪后逐渐泛指“多岛屿的海”，最后又转指“群岛”。
-	- pelagian
-		- a. 远洋的, 浮游的  
-		- n. 远洋动物
-	- pelagic
-		- adj. 浮游的；远洋的，深海的
-		- [oceanic](dic://oceanic)
-		- _adj._ [sea](dic://sea)
-		- **oceanic**海洋的;**marine**海生的;**fishery**渔业;**freshwater**淡水的;**fishes**鱼类;**fish**捕鱼，钓鱼;**migratory**迁移的;**larval**幼虫状态的;**reef**暗礁;**aquaculture**水产养殖;**aquatic**水生的;
-		- pelagic birds /远洋水鸟
-		- Chub mackerel (Scomber Japonicus) is one of the important pelagic fishery resources in the China's coastal waters. /日本鲐是我国近海重要的中上层鱼类资源之一。
-		- Most free-swimming sea creatures are pelagic. /大多数自由移动的海洋生物都是海面生物。
-		- But pelagic fishing only runs 6 months a year. /但是，一年中能出海的机会只有半年。
-		- Seaweed is a nursery for all these large pelagic fish /对所有这些大型中上层鱼类来说，海藻是它们的温床。
-		- And we haven't even gotten into the whole mercury thing yet, where migratory Pelagic fish like tuna absorb toxic metals /我们还没说到有害物质呢，洄游的大洋性鱼类，比如金枪鱼会吸收有害金属。
-		- mesopelagic
-	- pelagism
-- **plac-, pleas-, plais-** = to please, 「Latin」placere, "to please, be agreeable,", placare, "to calm"
-	- placate
-		- vt. 安抚, 平息（怒气）
-		- plac-平 + -ate, 表动词 → 使…平静。
-		- 来自拉丁语 placate,安抚，取悦，来自 PIE*plak,平的，来自 PIE*pele,放平，展开，词源同please,place.词义由放平引申为放低身段，安抚等。
-		-  [pacify](dic://pacify), [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [mollify](dic://mollify), [gentle](dic://gentle), [gruntle](dic://gruntle)
-		- _v._ [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
-		- **appease**使平息;**alienate**使疏远，离间;**reassure**使…安心，使消除疑虑;**soothe**安慰;**persuade**说服，劝说;**convince**使确信，使信服;**quell**镇压;**dissuade**劝阻，劝止;**distract**转移;**entice**诱使;**intimidate**恐吓, 威胁;
-		- they attempted to placate the students with promises. /他们试图以许诺来安抚学生。
-		- Even a written apology failed to placate the indignant hostess. /甚至一纸书面道歉都没能安抚这个怒气冲冲的女主人
-		- The medical examiner's findings did not placate Mr. Epstein's lawyers /法医的调查结果没能安抚到爱普斯坦的律师们。
-		- The rescue didn't do much to placate fears about the health of other midsized regional banks. /此次救助计划并没有缓解人们对其他地区性中型银行健康状况的担忧。
-		- While it battles Epic in the courts, Apple may tweak its rules to placate some developers /尽管苹果在法庭上与Epic公司明争暗斗，但它可能也会为安抚一些应用开发商对应用商店规则进行调整。
-		- placable, placability
-		- placatory
-			- adj. 抚慰的；怀柔的；调解的
-			- _adj._ [conciliatory](dic://conciliatory), [conciliative](dic://conciliative)
-			- _n._ [antagonistic](dic://antagonistic)
-			- **gesture**姿态;**dismissive**轻视的, 轻蔑的, 鄙视的;**soothing**使人宽心的;**gestures**手势，姿态;**apologetic**道歉的;**condescending**降低身份的,屈尊的;**reassuring**安慰的;**diplomatic**外交的;**self-serving**自私的,自私自利的;**appease**使平息;**cordial**兴奋的;
-			- He raised a **placatory** hand. "All right, we'll see what we can do." /他举起一只手，安抚地说：“好吧，我们看看能做些什么。”
-			- When next he spoke he was more **placatory**. /当他又开口说话时，语气更具安抚性。
-	- implacable, implacably
-		- _adj._ [grim](dic://grim), [inexorable](dic://inexorable), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
-		- _n._ [placable](dic://placable)
-		- **unrelenting**不屈不挠的;**merciless**无情的,残忍的;**relentless**残酷的, 不留情的, 无怜悯心的;**ruthless**无情的，残忍的;**uncompromising**不让步的;**unwavering**不动摇的,坚定的;**ferocious**残忍的;**unforgiving**不可宽恕的,不能原谅的;**fierce**凶猛的;**formidable**可怕的;**fearsome**可怕的;
-		- the implacable advance of the enemy. /敌人势不可挡的前进。
-		- he was an implacable enemy of Ted's. /他是特德的死敌。
-		- have an implacable hatred for /对...深恶痛绝
-		- she was implacable, despite her mild exterior. /虽然外表温和，她却很难被感动。
-		- They're for a girl. Uh, I'm being implacable and relentless. /是送给一个姑娘的。我要绵延不绝永、无休止地纠缠她。
-		- Oh, please! You know, I'll tell you how he did it. Implacable, relentless badgering /少来！我来告诉他是怎么做到的。绵延不绝、 永无休止地纠缠
-		- Why is that man expiring? Why is that other writhing with agony? What means this implacable fury /“为什么那人要断气了？为什么其他人因极度痛苦满地翻滚？这种无法平息的狂怒意味着什么？”
-		- He came along as implacable as ever. /他一如既往地不屈不挠。
-		- Philip returned home before Richard and quickly became an implacable enemy allying himself with John to sow chaos in England /菲利普在理查德之前回到家，很快就成了一个不共戴天的敌人，他与约翰结盟，在英国制造混乱。
-	- complaisant
-		- com-加强语气 + plais-=plac-满意 + -ant表形容词 → 让[别人]满意 → 讨好的。
-		- com-,表强调，-plac,满意，词源同 please,placate.原指使自己满意的，后指使别人满意的，顺从的。注意词义与 complacent的差别。
-		- _adj._ [accommodating](dic://accommodating), [accommodative](dic://accommodative)
-		- [unaccommodating](dic://unaccommodating), [unobliging](dic://unobliging)
-		- **complacent**满足的;**agreeable**欣然同意的;**obedient**孝顺的;**indifferent**漠不关心;**submissive**顺从的, 唯命是从的;**timid**羞怯的;**disinterested**不感兴趣的;**mistress**情妇;**pious**虔诚的;**polite**有礼貌的，客气的;**affectionate**慈爱的,充满深情的,温柔亲切的;
-		- _[a complaisant husband](dic://a%20complaisant%20husband)_ 殷勤的丈夫
-		- _[complaisant facile pliant submissive yielding](dic://complaisant%20facile%20pliant%20submissive%20yielding)_ 柔顺的
-		- I wanted to, I imagined him repeating—kind, complaisant, effusive, as he was when the mood would suddenly strike him /“我想做”，我想象着他重复这句话——亲切、殷勤、热情，就像他突然被那种气氛感染时，会表现出来的样子。
-		- Always complaisant, he put the letter away /一向彬彬有礼的他把信收起来了。
-		- The complainants used complaisant words to move Tony /抱怨者用的彬彬有礼的话打动了托尼。
-		- Isabel is entertaining, gracious, complaisant, and tactful; Gray, of course, is the quintessence of the Regular Guy. /伊莎贝尔风趣、亲切、彬彬有礼、机智。 当然，灰色是普通人的精髓。
-		- The sign of the type in question is the determination—sometimes terrible in its quiet intensity—to accept nothing of life but its pleasures, and to secure these pleasures chiefly by the aid of your complaisant sex /所讨论类型的标志是决心——有时其安静的强度是可怕的——只接受生活中的快乐，并主要通过你柔顺的女性的帮助来获得这些快乐。
-	- complacent
-		- com-加强 + plac-取悦 + -ent形容词后缀 → 被取悦 → 自满的。
-		- _adj._ [contented](dic://contented), [content](dic://content)
-		- _n._ [discontented](dic://discontented), [discontent](dic://discontent)
-		- **complacency**自满;**fearful**可怕的;**indifferent**漠不关心;**jaded**厌倦的;**arrogant**自大的，傲慢的;**vigilant**警惕的;**smug**自满的, 沾沾自喜的;**ignorant**无知的;**careless**粗心的;**foolish**愚蠢的;**timid**羞怯的;
-		- you can't afford to be complacent about security. /你还不能对安全掉以轻心。
-		- She was complacent about her achievements. /她对自己的成绩沾沾自喜。
-		- Social media also counter inflammatory or complacent official channels. /社交媒体同样针对煽动或自负的官方频道。
-		- Society, he thought, had become sick, complacent, lulled by bourgeois illusion. /他认为 社会已经变得病态、自满、被资产阶级的幻想所催眠。
-		- I have tried to stand between these two forces saying that we need not follow the "donothingism" of the complacent or the hatred and despair of the black nationalist. /我尽力设法站在这两股力量中间，我说我们不必追随满足现状者的”无所作为主义，”也不必仿效黑人民族主义者的仇恨和绝望。
-		- self-complacent
-		- complacently, complacency, complacence, 
-	- please
-		- placebo（安慰剂）：为死者所念诵的祷词  
-		- 在基督教中，当人去世后要在教堂举行葬礼，在葬礼上要为他念祷词。祷词的第一句是“I will please the Lord in the land of theliving”（我请求尘世之主）。在拉丁语中，该祷词的第一个词是placebo，等于英语中的“I will please”，词源与please相同。因此，人们就将这段祷词称为placebo。由于人们所念的祷词往往会有意美化死者，因此人们就把那种阿谀奉承的话称为placebo，将阿谀奉承称为sing placebos。  
-		- 18世纪的英国名医William Cullen大力宣扬“安慰疗法”，并用placebo来表示“安慰剂”，即无特定疗效的方法或药物，仅仅用来舒缓患者情绪。现代医学已经证实安慰疗法的有效性，尤其是针对某些特定的疾病，安慰剂/疗法能够快速治愈或至少能极大地缓解病人的症状。从此后，安慰疗法得到广泛应用，而placebo（安慰剂）这一术语也得到广泛应用。  
-		- placebo：[plə'siːbəʊ] n.安慰剂，为死者念的祷词，阿谀奉承的话  
-		- please：[pliz] vt. 使喜欢；使高兴，使满意vi. 讨人喜欢；令人高兴int. 请  
-		- [delight](dic://delight)
-		- _v._ [satisfy](dic://satisfy), [gratify](dic://gratify), [wish](dic://wish), [care](dic://care), [like](dic://like)
-		- _n._ [displease](dic://displease)
-			- [amuse](dic://amuse) 指使人通过注意某些有趣或悦人的事物而消遣，着重使人愉快的效果。  
-			- [entertain](dic://entertain) 指通过给他人快乐感的消遣活动，使自己或他人从单调中解脱出来。  
-			- [interest](dic://interest) 普通用词，指出于任何原因使人兴奋或对某事物保持好奇心或注意力，侧重引起兴趣或注意。  
-			- [please](dic://please) 多指愿望、兴趣得到满足后产生的强烈满意情绪。 
-		- **hesitate**踌躇，犹豫;**contact**接触，联系;**ask**问，询问;**let**允许，让;**advise**劝告，忠告;**kindly**亲切地;**try**试验;**check**证明无误;**help**帮助;**inquire**询问;**you**您, 你, 你们
-		- pleasance
-			- n. 乐园, 愉快, 乐事, 快乐
-		- displease, unpleasing
-		- pleasure
-			- pleasureness
-			- pleasure-seeking
-			- pleasure-boad
-			- pleasurable
-			- displeasure
-		- pleasing
-		- pleased
-		- pleasant
-			- _adj._ [beautiful](dic://beautiful), [dulcet](dic://dulcet), [enjoyable](dic://enjoyable), [gratifying](dic://gratifying), [pleasurable](dic://pleasurable), [grateful](dic://grateful), [idyllic](dic://idyllic)
-			- _n._ [unpleasant](dic://unpleasant), [nasty](dic://nasty), [awful](dic://awful)
-				- [happy](dic://happy) 侧重感到满足、幸福或高兴。  
-				- [glad](dic://glad) 最普通用词，语气较弱，表示礼貌的惯用语。指乐于做某事或因某事而感到满足，常表愉快的心情。  
-				- [cheerful](dic://cheerful) 多指因内心的愉快而表现出兴高采烈，是强调而自然的感情流露。  
-				- [joyful](dic://joyful) 语气较强，强调心情或感情上的欣喜。  
-				- [merry](dic://merry) 指精神情绪的暂时高涨，表示欢乐、愉快的心境或情景，侧重充满欢笑声和乐趣。  
-				- [delightful](dic://delightful) 指能带来强烈的快乐，激起愉快的情感，用于非常愉快的场合。  
-				- [gay](dic://gay) 侧重无忧无虑、精神昂扬、充满生命的快乐。  
-				- [pleasant](dic://pleasant) 侧重给人以“赏心悦目”或“愉快的，宜人的”感受。  
-				- [nice](dic://nice) 语气较温和，泛指任何愉快或满意的感觉。  
-				- [jolly](dic://jolly) 通俗用词，多指充满快乐与喜悦的神情。  
-				- [agreeable](dic://agreeable) 指与感受者的愿望、情趣或受好等和谐一致而带来的心情上的快意。
-			- **enjoyable**愉快的,快乐的;**pleasurable**令人愉快的;**nice**精密的，美好的，细微的，和蔼的;**unpleasant**使人不愉快的;**delightful**令人非常高兴的, 讨人喜欢的;**agreeable**欣然同意的;**cheerful**高兴的;**lovely**可爱的;**courteous**彬彬有礼的;**wonderful**极好的, 精彩的, 绝妙的;**comfortable**安逸的, 使人舒服的;
-			- unpleasant
-			- pleasantry
-			- pleasantness
-	- placebo
-		- _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug), [vesper](dic://vesper)
-		- **double-blind**双盲;**randomized**随机的;**aspirin**阿司匹林;**antidepressant**抗抑郁剂;**efficacy**功效，效力;**antidepressants**抗抑郁药;**adjuvant**佐药;**homeopathy**顺势医疗论;**supplementation**增补;**sham**假装;**doses**服
-		- _placebo effect_ n. 安慰剂效果
-		- sing placebos：歌功颂德，阿谀奉承
-	- placid
-		- [quiet](dic://quiet), [still](dic://still), [tranquil](dic://tranquil), [smooth](dic://smooth), [unruffled](dic://unruffled)
-		-  [equable](dic://equable), [even-tempered](dic://even-tempered), [good-tempered](dic://good-tempered)
-		- [easygoing](dic://easygoing), [calm](dic://calm)
-		- _adj._ [calm](dic://calm), [good-natured](dic://good-natured), [contented](dic://contented), [content](dic://content)
-		- _n._ [stormy](dic://stormy), [ill-natured](dic://ill-natured), [discontented](dic://discontented), [discontent](dic://discontent)
-		- **serene**平静的;**tranquil**安静的，平静的;**calm**静的，平静的;**calmer**更平静的;**quiet**安静的;**contented**满意的, 满足的;**peaceful**和平的，爱好和平的;**boisterous**热闹的;**gentle**温和的;**aloof**冷淡的;**unassuming**谦逊的;
-		- He was a plump, placid boy /他是一个胖乎乎的文静的男孩。
-		- people tend to take advantage of a placid nature. /人们往往会利用温和的性情。
-		- he placid waters of a small lake. /小湖平静的水面。
-		- a sweet-natured girl of a placid disposition. /性情温和的可爱的女孩。
-		- boatmen poling barges up a placid river. /船夫在平稳的河上撑船航行
-		- He merely lifted his eyebrows in placid deprecation of himself and everybody else /他仅仅掀掀眉毛，平心静气地表示他自己和其他人的反对。
-		- Yet there is another species that looks rather less placid. /然而，还有一种动物看起来不那么平静。
-		- Not that such bounty is attainable these days anyway, given the placid state of the market. /在如今这样冷淡的市场环境下，要想获得如此可观的收益是很困难的。
-		- That had been a placid pastime compared to his digging now. /和他现在的挖坑相比，那次简直可以算是轻松的消遣。
-		- The plantation clearings and miles of cotton fields smiled up to a warm sun, placid, complacent. /尚待种植的空地和绵延数英里的棉花田微笑着袒露在阳光之中。
-		- placidly
-		- placidity
-	- placoid
-	- plea
-		- n. 恳求, 辩解, 抗辩, 诉讼, 请愿, 托词
-		- 来自盎格鲁法语 plai,恳求，请求，来自古法语 plait,诉讼，决定，法令，来自拉丁语 placitum,诉讼，法令，来自 placere,抚慰，安抚，使平静，词源同 please,placate.引申诸相关词义。
-		-  [supplication](dic://supplication)
-		- _n._ [entreaty](dic://entreaty), [prayer](dic://prayer), [appeal](dic://appeal), [answer](dic://answer), [due process](dic://due process), [due process of law](dic://due process of law)
-		- **pleading**答辩;**plead**辩护;**pleaded**辩护;**conviction**确信, 坚定的信仰;**verdict**裁定;**impassioned**充满激情的, 热烈的;**indictment**起诉;**guilty**有罪的;**agreement**协定, 协议, 契约;**prosecution**起诉, 诉讼;**confession**承认;
-		- _plea bargaining_ n. [法]认罪求情协议
-		- _plea for_ 恳求，请求
-		- put in a plea of guilty. /正式提出犯罪诉讼
-		- They made no plea for relief /他们并没有申请救济。
-		- passionate pleas for help. /急切寻求帮助。
-		- an impassioned plea for justice /对公正的强烈要求
-		- counterplea
-	- plead
-		- _vi._ 恳求，请求
-		- _vt._ 提出…为借口[理由]
-		- _vt. & vi._ 申诉；答辩；为…辩护
-		- replead, pleading, pleader, pleadable, mispleading, interplead, implead, counterplead
-		- _v._ [appeal](dic://appeal), [invoke](dic://invoke), [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize)
-		- **plea**恳求，请求;**beg**恳求;**testify**作证;**persuade**说服，劝说;**guilty**有罪的;**forgive**原谅;**convince**使确信，使信服;**compel**强迫，迫使;**waive**放弃;**refuse**拒绝;**pray**祈祷;
-		- _plead guilty_ 服罪；[经]被告服罪
-		- _plead for_ v. 请求；为…辩护
-		- _plead with_ 向…恳求；恳求…
-		- _plead against sb_ 反驳某人
-		- Conspiring to promote prostitution. How do you plead? /协同卖淫罪 你打算怎么辩护？
-		- But when he had a chance to plead out... /但他什么时候有机会请求辩护。
-		- Lily seemed to be pleading with her sister / 莉莉似乎在央求她的姐姐。
-		- Governments, of course, can't plead poverty. /当然，政府不能以贫穷为借口。
-		- " For one hour, " he pleaded earnestly /“只走开一个钟头，”他热诚地恳求着。
-	- supple
-		- suppleness
-		- supplely
-		- supplejack
-- **placent-** = placenta, 胎盘「Greeks」plax, "flat, flat land, surface, plate"
-	- placenta
-		- n. 胎盘, 胎座
-		- _n._ [reproductive structure](dic://reproductive structure), [vascular structure](dic://vascular structure)
-		- **fetus**胎儿，胎;**uterus**子宫;**fetal**胎的，胎儿的;**embryo**胚胎;**womb**子宫;**uterine**子宫的;**pregnancy**怀孕;**cervix**子宫颈;**umbilical**脐带的;**ovary**子房;**epidural**硬脑膜外的;
-	- placentae
-	- placental
-		- a. (有)胎盘的, (有)胎座的  
-		- n. 有胎盘哺乳动物
-		- _n._ [mammal](dic://mammal), [mammalian](dic://mammalian)
-		- _adj._ [transplacental](dic://transplacental)
-		- _n._ [aplacental](dic://aplacental)
-		- **placenta**胎盘;**fetal**胎的，胎儿的;**uterine**子宫的;**fetus**胎儿，胎;**gestational**妊娠期的;**embryo**胚胎;**endothelial**内皮的;**umbilical**脐带的;**vascular**血管的;**hepatic**肝的;**neonatal**新生的;
-		- _placental abruption_ 胎盘早剥；胎盘早期剥离
-		- _placental barrier_ 胎盘屏障
-		- human placental lactogen /人胎盘催乳激素
-		- a lot of blood was lost from the placental bleed. /因胎盘流血而失去大量的血。
-		- Of all placental mammals, handicaps are the tiniest in comparison to their mother /在所有胎盘哺乳动物中，与母亲相比，残疾是最小的。
-		- This is our best guess at what the first placental mammal looked like. /这是对第一种胎生哺乳动物外貌的最好猜想了。
-		- Apparently, her fall caused a placental abruption, where the placenta separates from the uterus. -Oh, my god. /很明显，她的跌倒导致胎盘破碎，胎盘和子宫已经分离了。-天哪。
-	- placentiform
-	- placentology
-- **plagio-** = 斜，原始含义“平， 延展”。「Greeks」 plagos, "side"
-	- plagioclase
-	- etc... (academic)
-- floe
-	- n. 大浮冰
-- fluke
-	- v. 侥幸成功  
-	- n. 锚爪; 鲸尾; 吸虫; 侥幸获得
-	- 词源不详。可能来自 lucky 改编的英语方言词。
-	-  [good luck](dic://good luck), [good fortune](dic://good fortune)
-	-  [flue](dic://flue)
-	-  [trematode](dic://trematode), [trematode worm](dic://trematode worm)
-	- _n._ [luck](dic://luck), [fortune](dic://fortune), [barb](dic://barb), [projection](dic://projection), [tail](dic://tail), [flatworm](dic://flatworm), [platyhelminth](dic://platyhelminth)
-	- **coincidence**巧合，同时发生;**blip**物体光点;**coincidental**巧合的;**anomaly**不规则;**unlucky**不幸的;**aberration**偏差;**miracle**奇迹，奇迹般的人或物;**hunch**预感;**improbable**不可信的;**miraculous**奇迹般的, 超自然的;
-	- _blood fluke_ 血吸虫
-	- She is not usually good at table tennis; that winning stroke was a fluke. /"她平时乒乓球打得并不好,那取胜的一击抽球不过是侥幸而已。"
-	- Individually, each team's result could be a statistical fluke. /客观地说，每个研究团队所得出的结论可能只是统计意义上的偶然现象。
-	- I mean it's almost a fluke every time we find a cave. /我的意思是，我们每次发现洞穴都是侥幸。
-	- That was just such a perfect fluke that happened.And I was so lucky. /这是个侥幸的成功之作 我太走运了。
-	- We need to get rid of the " fluke mentality." /我们需要摆脱“侥幸心理”。
-	- They might ask if he's feeling whale, but he'll be able to say, hey, it's no fluke. 人们还可能会问他是否对鲸鱼有所感觉，但他会说，嘿，这决不是侥幸。
-	- fluky
-		-  [chancy](dic://chancy), [flukey](dic://flukey), [iffy](dic://iffy)
-		- _adj._ [uncertain](dic://uncertain)
-		- _n._ [certain](dic://certain), [sure](dic://sure)
-		- **fluke**侥幸;**improbable**不可信的;**unlucky**不幸的;**miraculous**奇迹般的, 超自然的;**inexplicable**无法说明的;**blip**物体光点;**aberration**偏差;**second-half**下半年的;**offensively**令人不愉快地;**blowout**喷出;**rebound**回弹;
-		- But I'm thrilled by this, you know fluky moment and I'm really enjoying it for whatever it's worth. - Yeah. - Good, cool. /但我很激动，幸运的时刻，我真的很享受这一切。- 是的。- 很好，酷。
-	- flykey
-- plank
-	- n. 厚木板, 支架, 木板制品, 冲浪板, 救急物, 政纲条目  
-	- vt. 在...上铺板, 撂下, 立即付款
-	- n. 木板，板条；（政党等的）政策准则，（政策或纲领的）要点；（成败的）关键；平板支撑；<英，非正式>蠢人，笨蛋 
-	- v. 提供木板，铺上木板；<非正式>重重地放下；<苏格兰>藏（物）；立即付款
-	- [board](dic://board)
-	-  [plank over](dic://plank over)
-	-  [flump](dic://flump), [plonk](dic://plonk), [plop](dic://plop), [plunk](dic://plunk), [plump down](dic://plump down), [plunk down](dic://plunk down), [plump](dic://plump)
-	- _n._ [lumber](dic://lumber), [timber](dic://timber), [policy](dic://policy)
-	- _v._ [cover](dic://cover), [set down](dic://set down), [put down](dic://put down), [place down](dic://place down), [serve](dic://serve), [serve up](dic://serve up), [dish out](dic://dish out)
-	- **plywood**夹板，胶合板;**wooden**木制的;**wood**木材;**timber**木料;**hardwood**硬木，硬木材;**flooring**地板材料;**cedar**雪松;**railing**栏杆;**lumber**伐木;**teak**柚木;**siding**侧线;
-	- _walk the plank_ 被迫离职；走跳板
-	- plank a muddy pathway /在泥泞的道路上铺木板
-	- the central plank of the bill is the curb on industrial polluters.该法案的中心要点是制止工业污染者。
-	- The combination of convex and plank with sunblind engraving, gives you a beautiful external appearance of building ,and anancient, steady feeling /凸面板岩,与窗檐雕刻的结合,给人予美的建筑外观,一种古朴、自然、沉稳的感觉.收藏指正
-	- I didn't pick up that energy when I was planking you /我趴在你身上的时候没感受出来。
-	- One of the more popular isometrics is the plank. /平板支撑就是一种流行的静力训练。
-	- This claim is a central plank of the case against Mr Trump, which he denies /这一主张是针对特朗普的指控案件的核心，但特朗普予以否认。
-	- A **plank** of wood bridged the stream. /溪上架了一条木板桥。
-	- planking
-	- gangplank
+1. **-plakia** = speckle 「Greeks」plax, "flat"
+	1. leucoplakia
+	2. etc... (academic)
+2. **pelag-** = sea, 「Greeks」pelagos, "sea"
+	1. archipelago
+		1. archipelago（群岛）：希腊人的“主海”  
+		2. 英语单词archipelago源自希腊语arkhipelagos，由arkhi（=archi，chief，主的）+pilagos（sea，海）构成，意思就是“主海”，特指希腊人所处的爱琴海。众所周知，爱琴海中遍布岛屿，所以希腊语arkhipelagos演变为意大利语arcipelago后，词义就变了，不再特指爱琴海，而是泛指各种分布有大量岛屿的海。进入英语后，拼写变成archipelago，词义进一步发生变化，除了表示“分布有大量岛屿的海”以外，还可以用来表示“群岛”。  
+		3. archipelago：[,ɑːkɪ'peləgəʊ] n.群岛，多岛的海  
+		4. monarch：n.君主，帝王，最高统治者  
+		5. pelagic：adj.深海的，浮游的，远洋的
+		6. archipelago - 该词最初仅被用以指爱琴海（the Aegean Sea）。这一名称是意大利人在13世纪据意大利语arcipelago 'chiefsea'取的。其实这个词本身就来源于希腊语（archi- 'chief' + pélagos 'sea'）。由于爱琴海中有一大群岛屿，因此archipelago一词在16世纪后逐渐泛指“多岛屿的海”，最后又转指“群岛”。
+	2. pelagian
+		1. a. 远洋的, 浮游的  
+		2. n. 远洋动物
+	3. pelagic
+		1. adj. 浮游的；远洋的，深海的
+		2. [oceanic](dic://oceanic)
+		3. _adj._ [sea](dic://sea)
+		4. **oceanic**海洋的;**marine**海生的;**fishery**渔业;**freshwater**淡水的;**fishes**鱼类;**fish**捕鱼，钓鱼;**migratory**迁移的;**larval**幼虫状态的;**reef**暗礁;**aquaculture**水产养殖;**aquatic**水生的;
+		5. pelagic birds /远洋水鸟
+		6. Chub mackerel (Scomber Japonicus) is one of the important pelagic fishery resources in the China's coastal waters. /日本鲐是我国近海重要的中上层鱼类资源之一。
+		7. Most free-swimming sea creatures are pelagic. /大多数自由移动的海洋生物都是海面生物。
+		8. But pelagic fishing only runs 6 months a year. /但是，一年中能出海的机会只有半年。
+		9. Seaweed is a nursery for all these large pelagic fish /对所有这些大型中上层鱼类来说，海藻是它们的温床。
+		10. And we haven't even gotten into the whole mercury thing yet, where migratory Pelagic fish like tuna absorb toxic metals /我们还没说到有害物质呢，洄游的大洋性鱼类，比如金枪鱼会吸收有害金属。
+		11. mesopelagic
+	4. pelagism
+3. **plac-, pleas-, plais-** = to please, 「Latin」placere, "to please, be agreeable,", placare, "to calm"
+	1. placate (palatable, )
+		1. **mollify assuage placate pacify**:  四大安慰
+		2. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, gruntle, mollify, assuage, pecify)
+		3. vt. 安抚, 平息（怒气）
+		4. plac-平 + -ate, 表动词 → 使…平静。
+		5. 来自拉丁语 placate,安抚，取悦，来自 PIE*plak,平的，来自 PIE*pele,放平，展开，词源同please,place.词义由放平引申为放低身段，安抚等。
+		6.  [pacify](dic://pacify), [lenify](dic://lenify), [conciliate](dic://conciliate), [assuage](dic://assuage), [appease](dic://appease), [mollify](dic://mollify), [gentle](dic://gentle), [gruntle](dic://gruntle)
+		7. _v._ [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
+		8. **appease**使平息;**alienate**使疏远，离间;**reassure**使…安心，使消除疑虑;**soothe**安慰;**persuade**说服，劝说;**convince**使确信，使信服;**quell**镇压;**dissuade**劝阻，劝止;**distract**转移;**entice**诱使;**intimidate**恐吓, 威胁;
+		9. they attempted to placate the students with promises. /他们试图以许诺来安抚学生。
+		10. Even a written apology failed to placate the indignant hostess. /甚至一纸书面道歉都没能安抚这个怒气冲冲的女主人
+		11. The medical examiner's findings did not placate Mr. Epstein's lawyers /法医的调查结果没能安抚到爱普斯坦的律师们。
+		12. The rescue didn't do much to placate fears about the health of other midsized regional banks. /此次救助计划并没有缓解人们对其他地区性中型银行健康状况的担忧。
+		13. While it battles Epic in the courts, Apple may tweak its rules to placate some developers /尽管苹果在法庭上与Epic公司明争暗斗，但它可能也会为安抚一些应用开发商对应用商店规则进行调整。
+		14. placable, placability
+		15. placatory
+			1. adj. 抚慰的；怀柔的；调解的
+			1. _adj._ [conciliatory](dic://conciliatory), [conciliative](dic://conciliative)
+			1. _n._ [antagonistic](dic://antagonistic)
+			1. **gesture**姿态;**dismissive**轻视的, 轻蔑的, 鄙视的;**soothing**使人宽心的;**gestures**手势，姿态;**apologetic**道歉的;**condescending**降低身份的,屈尊的;**reassuring**安慰的;**diplomatic**外交的;**self-serving**自私的,自私自利的;**appease**使平息;**cordial**兴奋的;
+			1. He raised a **placatory** hand. "All right, we'll see what we can do." /他举起一只手，安抚地说：“好吧，我们看看能做些什么。”
+			1. When next he spoke he was more **placatory**. /当他又开口说话时，语气更具安抚性。
+	3. implacable, implacably
+		1. a. 不能安抚的, 难和解的, 不变的
+		2. _adj._ [grim](dic://grim), [inexorable](dic://inexorable), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
+		3. _n._ [placable](dic://placable)
+		4. **unrelenting**不屈不挠的;**merciless**无情的,残忍的;**relentless**残酷的, 不留情的, 无怜悯心的;**ruthless**无情的，残忍的;**uncompromising**不让步的;**unwavering**不动摇的,坚定的;**ferocious**残忍的;**unforgiving**不可宽恕的,不能原谅的;**fierce**凶猛的;**formidable**可怕的;**fearsome**可怕的;
+		5. the implacable advance of the enemy. /敌人势不可挡的前进。
+		6. he was an implacable enemy of Ted's. /他是特德的死敌。
+		7. have an implacable hatred for /对...深恶痛绝
+		8. she was implacable, despite her mild exterior. /虽然外表温和，她却很难被感动。
+		9. They're for a girl. Uh, I'm being implacable and relentless. /是送给一个姑娘的。我要绵延不绝永、无休止地纠缠她。
+		10. Oh, please! You know, I'll tell you how he did it. Implacable, relentless badgering /少来！我来告诉他是怎么做到的。绵延不绝、 永无休止地纠缠
+		11. Why is that man expiring? Why is that other writhing with agony? What means this implacable fury /“为什么那人要断气了？为什么其他人因极度痛苦满地翻滚？这种无法平息的狂怒意味着什么？”
+		12. He came along as implacable as ever. /他一如既往地不屈不挠。
+		13. Philip returned home before Richard and quickly became an implacable enemy allying himself with John to sow chaos in England /菲利普在理查德之前回到家，很快就成了一个不共戴天的敌人，他与约翰结盟，在英国制造混乱。
+	4. complaisant
+		1. com-加强语气 + plais-=plac-满意 + -ant表形容词 → 让[别人]满意 → 讨好的。
+		2. com-,表强调，-plac,满意，词源同 please,placate.原指使自己满意的，后指使别人满意的，顺从的。注意词义与 complacent的差别。
+		3. _adj._ [accommodating](dic://accommodating), [accommodative](dic://accommodative)
+		4. [unaccommodating](dic://unaccommodating), [unobliging](dic://unobliging)
+		5. **complacent**满足的;**agreeable**欣然同意的;**obedient**孝顺的;**indifferent**漠不关心;**submissive**顺从的, 唯命是从的;**timid**羞怯的;**disinterested**不感兴趣的;**mistress**情妇;**pious**虔诚的;**polite**有礼貌的，客气的;**affectionate**慈爱的,充满深情的,温柔亲切的;
+		6. _[a complaisant husband](dic://a%20complaisant%20husband)_ 殷勤的丈夫
+		7. _[complaisant facile pliant submissive yielding](dic://complaisant%20facile%20pliant%20submissive%20yielding)_ 柔顺的
+		8. I wanted to, I imagined him repeating—kind, complaisant, effusive, as he was when the mood would suddenly strike him /“我想做”，我想象着他重复这句话——亲切、殷勤、热情，就像他突然被那种气氛感染时，会表现出来的样子。
+		9. Always complaisant, he put the letter away /一向彬彬有礼的他把信收起来了。
+		10. The complainants used complaisant words to move Tony /抱怨者用的彬彬有礼的话打动了托尼。
+		11. Isabel is entertaining, gracious, complaisant, and tactful; Gray, of course, is the quintessence of the Regular Guy. /伊莎贝尔风趣、亲切、彬彬有礼、机智。 当然，灰色是普通人的精髓。
+		12. The sign of the type in question is the determination—sometimes terrible in its quiet intensity—to accept nothing of life but its pleasures, and to secure these pleasures chiefly by the aid of your complaisant sex /所讨论类型的标志是决心——有时其安静的强度是可怕的——只接受生活中的快乐，并主要通过你柔顺的女性的帮助来获得这些快乐。
+	5. complacent
+		1. com-加强 + plac-取悦 + -ent形容词后缀 → 被取悦 → 自满的。
+		2. _adj._ [contented](dic://contented), [content](dic://content)
+		3. _n._ [discontented](dic://discontented), [discontent](dic://discontent)
+		4. **complacency**自满;**fearful**可怕的;**indifferent**漠不关心;**jaded**厌倦的;**arrogant**自大的，傲慢的;**vigilant**警惕的;**smug**自满的, 沾沾自喜的;**ignorant**无知的;**careless**粗心的;**foolish**愚蠢的;**timid**羞怯的;
+		5. you can't afford to be complacent about security. /你还不能对安全掉以轻心。
+		6. She was complacent about her achievements. /她对自己的成绩沾沾自喜。
+		7. Social media also counter inflammatory or complacent official channels. /社交媒体同样针对煽动或自负的官方频道。
+		8. Society, he thought, had become sick, complacent, lulled by bourgeois illusion. /他认为 社会已经变得病态、自满、被资产阶级的幻想所催眠。
+		9. I have tried to stand between these two forces saying that we need not follow the "donothingism" of the complacent or the hatred and despair of the black nationalist. /我尽力设法站在这两股力量中间，我说我们不必追随满足现状者的”无所作为主义，”也不必仿效黑人民族主义者的仇恨和绝望。
+		10. self-complacent
+		11. complacently, complacency, complacence, 
+	6. please
+		1. placebo（安慰剂）：为死者所念诵的祷词  
+		2. 在基督教中，当人去世后要在教堂举行葬礼，在葬礼上要为他念祷词。祷词的第一句是“I will please the Lord in the land of theliving”（我请求尘世之主）。在拉丁语中，该祷词的第一个词是placebo，等于英语中的“I will please”，词源与please相同。因此，人们就将这段祷词称为placebo。由于人们所念的祷词往往会有意美化死者，因此人们就把那种阿谀奉承的话称为placebo，将阿谀奉承称为sing placebos。  
+		3. 18世纪的英国名医William Cullen大力宣扬“安慰疗法”，并用placebo来表示“安慰剂”，即无特定疗效的方法或药物，仅仅用来舒缓患者情绪。现代医学已经证实安慰疗法的有效性，尤其是针对某些特定的疾病，安慰剂/疗法能够快速治愈或至少能极大地缓解病人的症状。从此后，安慰疗法得到广泛应用，而placebo（安慰剂）这一术语也得到广泛应用。  
+		4. placebo：[plə'siːbəʊ] n.安慰剂，为死者念的祷词，阿谀奉承的话  
+		5. please：[pliz] vt. 使喜欢；使高兴，使满意vi. 讨人喜欢；令人高兴int. 请  
+		6. [delight](dic://delight)
+		7. _v._ [satisfy](dic://satisfy), [gratify](dic://gratify), [wish](dic://wish), [care](dic://care), [like](dic://like)
+		8. _n._ [displease](dic://displease)
+			1. [amuse](dic://amuse) 指使人通过注意某些有趣或悦人的事物而消遣，着重使人愉快的效果。  
+			1. [entertain](dic://entertain) 指通过给他人快乐感的消遣活动，使自己或他人从单调中解脱出来。  
+			1. [interest](dic://interest) 普通用词，指出于任何原因使人兴奋或对某事物保持好奇心或注意力，侧重引起兴趣或注意。  
+			1. [please](dic://please) 多指愿望、兴趣得到满足后产生的强烈满意情绪。 
+		9. **hesitate**踌躇，犹豫;**contact**接触，联系;**ask**问，询问;**let**允许，让;**advise**劝告，忠告;**kindly**亲切地;**try**试验;**check**证明无误;**help**帮助;**inquire**询问;**you**您, 你, 你们
+		10. pleasance
+			1. n. 乐园, 愉快, 乐事, 快乐
+		11. displease, unpleasing
+		12. pleasure
+			1. pleasureness
+			1. pleasure-seeking
+			1. pleasure-boad
+			1. pleasurable
+			1. displeasure
+		13. pleasing
+		14. pleased
+		15. pleasant
+			1. _adj._ [beautiful](dic://beautiful), [dulcet](dic://dulcet), [enjoyable](dic://enjoyable), [gratifying](dic://gratifying), [pleasurable](dic://pleasurable), [grateful](dic://grateful), [idyllic](dic://idyllic)
+			1. _n._ [unpleasant](dic://unpleasant), [nasty](dic://nasty), [awful](dic://awful)
+				1. [happy](dic://happy) 侧重感到满足、幸福或高兴。  
+				1. [glad](dic://glad) 最普通用词，语气较弱，表示礼貌的惯用语。指乐于做某事或因某事而感到满足，常表愉快的心情。  
+				1. [cheerful](dic://cheerful) 多指因内心的愉快而表现出兴高采烈，是强调而自然的感情流露。  
+				1. [joyful](dic://joyful) 语气较强，强调心情或感情上的欣喜。  
+				1. [merry](dic://merry) 指精神情绪的暂时高涨，表示欢乐、愉快的心境或情景，侧重充满欢笑声和乐趣。  
+				1. [delightful](dic://delightful) 指能带来强烈的快乐，激起愉快的情感，用于非常愉快的场合。  
+				1. [gay](dic://gay) 侧重无忧无虑、精神昂扬、充满生命的快乐。  
+				1. [pleasant](dic://pleasant) 侧重给人以“赏心悦目”或“愉快的，宜人的”感受。  
+				1. [nice](dic://nice) 语气较温和，泛指任何愉快或满意的感觉。  
+				1. [jolly](dic://jolly) 通俗用词，多指充满快乐与喜悦的神情。  
+				1. [agreeable](dic://agreeable) 指与感受者的愿望、情趣或受好等和谐一致而带来的心情上的快意。
+			1. **enjoyable**愉快的,快乐的;**pleasurable**令人愉快的;**nice**精密的，美好的，细微的，和蔼的;**unpleasant**使人不愉快的;**delightful**令人非常高兴的, 讨人喜欢的;**agreeable**欣然同意的;**cheerful**高兴的;**lovely**可爱的;**courteous**彬彬有礼的;**wonderful**极好的, 精彩的, 绝妙的;**comfortable**安逸的, 使人舒服的;
+			1. unpleasant
+			1. pleasantry
+			1. pleasantness
+	7. placebo
+		1. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug), [vesper](dic://vesper)
+		2. **double-blind**双盲;**randomized**随机的;**aspirin**阿司匹林;**antidepressant**抗抑郁剂;**efficacy**功效，效力;**antidepressants**抗抑郁药;**adjuvant**佐药;**homeopathy**顺势医疗论;**supplementation**增补;**sham**假装;**doses**服
+		3. _placebo effect_ n. 安慰剂效果
+		4. sing placebos：歌功颂德，阿谀奉承
+	8. placid
+		1. [quiet](dic://quiet), [still](dic://still), [tranquil](dic://tranquil), [smooth](dic://smooth), [unruffled](dic://unruffled)
+		2.  [equable](dic://equable), [even-tempered](dic://even-tempered), [good-tempered](dic://good-tempered)
+		3. [easygoing](dic://easygoing), [calm](dic://calm)
+		4. _adj._ [calm](dic://calm), [good-natured](dic://good-natured), [contented](dic://contented), [content](dic://content)
+		5. _n._ [stormy](dic://stormy), [ill-natured](dic://ill-natured), [discontented](dic://discontented), [discontent](dic://discontent)
+		6. **serene**平静的;**tranquil**安静的，平静的;**calm**静的，平静的;**calmer**更平静的;**quiet**安静的;**contented**满意的, 满足的;**peaceful**和平的，爱好和平的;**boisterous**热闹的;**gentle**温和的;**aloof**冷淡的;**unassuming**谦逊的;
+		7. He was a plump, placid boy /他是一个胖乎乎的文静的男孩。
+		8. people tend to take advantage of a placid nature. /人们往往会利用温和的性情。
+		9. he placid waters of a small lake. /小湖平静的水面。
+		10. a sweet-natured girl of a placid disposition. /性情温和的可爱的女孩。
+		11. boatmen poling barges up a placid river. /船夫在平稳的河上撑船航行
+		12. He merely lifted his eyebrows in placid deprecation of himself and everybody else /他仅仅掀掀眉毛，平心静气地表示他自己和其他人的反对。
+		13. Yet there is another species that looks rather less placid. /然而，还有一种动物看起来不那么平静。
+		14. Not that such bounty is attainable these days anyway, given the placid state of the market. /在如今这样冷淡的市场环境下，要想获得如此可观的收益是很困难的。
+		15. That had been a placid pastime compared to his digging now. /和他现在的挖坑相比，那次简直可以算是轻松的消遣。
+		16. The plantation clearings and miles of cotton fields smiled up to a warm sun, placid, complacent. /尚待种植的空地和绵延数英里的棉花田微笑着袒露在阳光之中。
+		17. placidly
+		18. placidity
+	9. placoid
+	10. plea
+		1. n. 恳求, 辩解, 抗辩, 诉讼, 请愿, 托词
+		2. 来自盎格鲁法语 plai,恳求，请求，来自古法语 plait,诉讼，决定，法令，来自拉丁语 placitum,诉讼，法令，来自 placere,抚慰，安抚，使平静，词源同 please,placate.引申诸相关词义。
+		3.  [supplication](dic://supplication)
+		4. _n._ [entreaty](dic://entreaty), [prayer](dic://prayer), [appeal](dic://appeal), [answer](dic://answer), [due process](dic://due process), [due process of law](dic://due process of law)
+		5. **pleading**答辩;**plead**辩护;**pleaded**辩护;**conviction**确信, 坚定的信仰;**verdict**裁定;**impassioned**充满激情的, 热烈的;**indictment**起诉;**guilty**有罪的;**agreement**协定, 协议, 契约;**prosecution**起诉, 诉讼;**confession**承认;
+		6. _plea bargaining_ n. [法]认罪求情协议
+		7. _plea for_ 恳求，请求
+		8. put in a plea of guilty. /正式提出犯罪诉讼
+		9. They made no plea for relief /他们并没有申请救济。
+		10. passionate pleas for help. /急切寻求帮助。
+		11. an impassioned plea for justice /对公正的强烈要求
+		12. counterplea
+	11. plead
+		1. _vi._ 恳求，请求
+		2. _vt._ 提出…为借口[理由]
+		3. _vt. & vi._ 申诉；答辩；为…辩护
+		4. replead, pleading, pleader, pleadable, mispleading, interplead, implead, counterplead
+		5. _v._ [appeal](dic://appeal), [invoke](dic://invoke), [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize)
+		6. **plea**恳求，请求;**beg**恳求;**testify**作证;**persuade**说服，劝说;**guilty**有罪的;**forgive**原谅;**convince**使确信，使信服;**compel**强迫，迫使;**waive**放弃;**refuse**拒绝;**pray**祈祷;
+		7. _plead guilty_ 服罪；[经]被告服罪
+		8. _plead for_ v. 请求；为…辩护
+		9. _plead with_ 向…恳求；恳求…
+		10. _plead against sb_ 反驳某人
+		11. Conspiring to promote prostitution. How do you plead? /协同卖淫罪 你打算怎么辩护？
+		12. But when he had a chance to plead out... /但他什么时候有机会请求辩护。
+		13. Lily seemed to be pleading with her sister / 莉莉似乎在央求她的姐姐。
+		14. Governments, of course, can't plead poverty. /当然，政府不能以贫穷为借口。
+		15. " For one hour, " he pleaded earnestly /“只走开一个钟头，”他热诚地恳求着。
+	12. supple
+		1. suppleness
+		1. supplely
+		1. supplejack
+4. **placent-** = placenta, 胎盘「Greeks」plax, "flat, flat land, surface, plate"
+	1. placenta
+		1. n. 胎盘, 胎座
+		2. _n._ [reproductive structure](dic://reproductive structure), [vascular structure](dic://vascular structure)
+		3. **fetus**胎儿，胎;**uterus**子宫;**fetal**胎的，胎儿的;**embryo**胚胎;**womb**子宫;**uterine**子宫的;**pregnancy**怀孕;**cervix**子宫颈;**umbilical**脐带的;**ovary**子房;**epidural**硬脑膜外的;
+	2. placentae
+	3. placental
+		1. a. (有)胎盘的, (有)胎座的  
+		2. n. 有胎盘哺乳动物
+		3. _n._ [mammal](dic://mammal), [mammalian](dic://mammalian)
+		4. _adj._ [transplacental](dic://transplacental)
+		5. _n._ [aplacental](dic://aplacental)
+		6. **placenta**胎盘;**fetal**胎的，胎儿的;**uterine**子宫的;**fetus**胎儿，胎;**gestational**妊娠期的;**embryo**胚胎;**endothelial**内皮的;**umbilical**脐带的;**vascular**血管的;**hepatic**肝的;**neonatal**新生的;
+		7. _placental abruption_ 胎盘早剥；胎盘早期剥离
+		8. _placental barrier_ 胎盘屏障
+		9. human placental lactogen /人胎盘催乳激素
+		10. a lot of blood was lost from the placental bleed. /因胎盘流血而失去大量的血。
+		11. Of all placental mammals, handicaps are the tiniest in comparison to their mother /在所有胎盘哺乳动物中，与母亲相比，残疾是最小的。
+		12. This is our best guess at what the first placental mammal looked like. /这是对第一种胎生哺乳动物外貌的最好猜想了。
+		13. Apparently, her fall caused a placental abruption, where the placenta separates from the uterus. -Oh, my god. /很明显，她的跌倒导致胎盘破碎，胎盘和子宫已经分离了。-天哪。
+	4. placentiform
+	5. placentology
+5. **plagio-** = 斜，原始含义“平， 延展”。「Greeks」 plagos, "side"
+	1. plagioclase
+	2. etc... (academic)
+6. floe
+	1. n. 大浮冰
+7. fluke
+	1. v. 侥幸成功  
+	2. n. 锚爪; 鲸尾; 吸虫; 侥幸获得
+	3. 词源不详。可能来自 lucky 改编的英语方言词。
+	4.  [good luck](dic://good luck), [good fortune](dic://good fortune)
+	5.  [flue](dic://flue)
+	6.  [trematode](dic://trematode), [trematode worm](dic://trematode worm)
+	7. _n._ [luck](dic://luck), [fortune](dic://fortune), [barb](dic://barb), [projection](dic://projection), [tail](dic://tail), [flatworm](dic://flatworm), [platyhelminth](dic://platyhelminth)
+	8. **coincidence**巧合，同时发生;**blip**物体光点;**coincidental**巧合的;**anomaly**不规则;**unlucky**不幸的;**aberration**偏差;**miracle**奇迹，奇迹般的人或物;**hunch**预感;**improbable**不可信的;**miraculous**奇迹般的, 超自然的;
+	9. _blood fluke_ 血吸虫
+	10. She is not usually good at table tennis; that winning stroke was a fluke. /"她平时乒乓球打得并不好,那取胜的一击抽球不过是侥幸而已。"
+	11. Individually, each team's result could be a statistical fluke. /客观地说，每个研究团队所得出的结论可能只是统计意义上的偶然现象。
+	12. I mean it's almost a fluke every time we find a cave. /我的意思是，我们每次发现洞穴都是侥幸。
+	13. That was just such a perfect fluke that happened.And I was so lucky. /这是个侥幸的成功之作 我太走运了。
+	14. We need to get rid of the " fluke mentality." /我们需要摆脱“侥幸心理”。
+	15. They might ask if he's feeling whale, but he'll be able to say, hey, it's no fluke. 人们还可能会问他是否对鲸鱼有所感觉，但他会说，嘿，这决不是侥幸。
+	16. fluky
+		1.  [chancy](dic://chancy), [flukey](dic://flukey), [iffy](dic://iffy)
+		1. _adj._ [uncertain](dic://uncertain)
+		1. _n._ [certain](dic://certain), [sure](dic://sure)
+		1. **fluke**侥幸;**improbable**不可信的;**unlucky**不幸的;**miraculous**奇迹般的, 超自然的;**inexplicable**无法说明的;**blip**物体光点;**aberration**偏差;**second-half**下半年的;**offensively**令人不愉快地;**blowout**喷出;**rebound**回弹;
+		1. But I'm thrilled by this, you know fluky moment and I'm really enjoying it for whatever it's worth. - Yeah. - Good, cool. /但我很激动，幸运的时刻，我真的很享受这一切。- 是的。- 很好，酷。
+	17. flykey
+8. plank
+	1. n. 厚木板, 支架, 木板制品, 冲浪板, 救急物, 政纲条目  
+	2. vt. 在...上铺板, 撂下, 立即付款
+	3. n. 木板，板条；（政党等的）政策准则，（政策或纲领的）要点；（成败的）关键；平板支撑；<英，非正式>蠢人，笨蛋 
+	4. v. 提供木板，铺上木板；<非正式>重重地放下；<苏格兰>藏（物）；立即付款
+	5. [board](dic://board)
+	6.  [plank over](dic://plank over)
+	7.  [flump](dic://flump), [plonk](dic://plonk), [plop](dic://plop), [plunk](dic://plunk), [plump down](dic://plump down), [plunk down](dic://plunk down), [plump](dic://plump)
+	8. _n._ [lumber](dic://lumber), [timber](dic://timber), [policy](dic://policy)
+	9. _v._ [cover](dic://cover), [set down](dic://set down), [put down](dic://put down), [place down](dic://place down), [serve](dic://serve), [serve up](dic://serve up), [dish out](dic://dish out)
+	10. **plywood**夹板，胶合板;**wooden**木制的;**wood**木材;**timber**木料;**hardwood**硬木，硬木材;**flooring**地板材料;**cedar**雪松;**railing**栏杆;**lumber**伐木;**teak**柚木;**siding**侧线;
+	11. _walk the plank_ 被迫离职；走跳板
+	12. plank a muddy pathway /在泥泞的道路上铺木板
+	13. the central plank of the bill is the curb on industrial polluters.该法案的中心要点是制止工业污染者。
+	14. The combination of convex and plank with sunblind engraving, gives you a beautiful external appearance of building ,and anancient, steady feeling /凸面板岩,与窗檐雕刻的结合,给人予美的建筑外观,一种古朴、自然、沉稳的感觉.收藏指正
+	15. I didn't pick up that energy when I was planking you /我趴在你身上的时候没感受出来。
+	16. One of the more popular isometrics is the plank. /平板支撑就是一种流行的静力训练。
+	17. This claim is a central plank of the case against Mr Trump, which he denies /这一主张是针对特朗普的指控案件的核心，但特朗普予以否认。
+	18. A **plank** of wood bridged the stream. /溪上架了一条木板桥。
+	19. planking
+	20. gangplank
 #### + \*plak- (2) + = to strike, to hit
 1. **plag-, pleg-, -plegia** = to strike, 表示“击打”，医学上引申为“麻痹”。源自拉丁语 plaga "a blow, stroke," plangere "to strike."
 	1. diplegia, tetraplegic, quadriplegia
@@ -7003,18 +7359,19 @@
 		7. _n._ [unprotected](dic://unprotected), [loose](dic://loose), [leaky](dic://leaky), [uncomfortable](dic://uncomfortable)
 		8. **comfy**舒服的;**comfortable**安逸的, 使人舒服的;**fit**安装;**tight**紧的;**roomy**宽敞的;**stretchy**有弹性的;**cozy**舒适的，惬意的;**toasty**似烤面包片的;**cosy**舒适的;**comfortably**舒服地;**tucked**盘;
 	11. snag
-		1. n. (尖利的)突出物, (衣服等的)戳破处; 问题, 困难, 障碍, 麻烦  vt. 钩住, 钩破; 抓住机会, 抢到
-	12. snap
+		1. (snag, hitch, glitch, flaw, rub, hang-up)
+		2. n. (尖利的)突出物, (衣服等的)戳破处; 问题, 困难, 障碍, 麻烦  vt. 钩住, 钩破; 抓住机会, 抢到
+	13. snap
 		1. vt. 使突然中断, 猛咬, 争夺, 拉断, 使有啪啪声, 厉声说, 突然射击, 用快照拍摄  
 		2. vi. 咬, 扑, 抓, 折断, 劈啪地响, 厉声说, 砰然关上  
 		3. n. 猛咬, 猛扑, 劈啪声, 申斥, 快照, 活力, 一般时期的寒冷天气, 揿钮  
 		4. a. 突然的, 装搭扣的  
 		5. ad. 猛地
 		6. 来自荷兰语或低地德语 snappen,咬，抓住，来自 West-Germanic*snu-,鼻子发出的呼哧声，用力抓或咬时的喘气声，词源同 snack,snatch.引申诸相关词义。
-	13. snatch
+	14. snatch
 		1. vt. 抢走; 偷窃; 乘机获得  
 		2. n. 抢夺, 偷窃; 只言片语; 女性阴部
-	14. sneer
+	15. sneer
 		1. n. 冷笑, 嘲笑  
 		2. vi. 嘲笑, 冷笑  
 		3. vt. 嘲笑着说, 嘲笑得使
@@ -7022,7 +7379,7 @@
 		5. sneeringly
 		6. sneering
 		7. sneerer
-	15. snob (这个单词本来不应该属于sn-)
+	16. snob (这个单词本来不应该属于sn-)
 		1. snob（势利眼）：对平民大学生的蔑称  
 		2. 英语单词snob源自18世纪90年代时英国剑桥、牛津等大学的俚语，用来表示“平民、俗人”。据说当时在英国剑桥和牛津大学，在学生名册上，在贵族学生的姓名后面标注上拉丁语nobilitate（nobility，贵族），在平民学生的姓名后面标注上sine nobilitate（non nobility，非贵族）。因此，贵族学生就用snob来称呼平民学生。当时能上牛津、剑桥等大学的平民子弟通常出身于富裕家庭，其中有不少人羡慕贵族和上流社会，鄙视其他平民，趋势附炎，冒充贵族四处显摆，令真正的贵族学生十分瞧不起，因此snob一词就逐渐衍生出“自命不凡者、趋势附炎者、势利眼”等负面含义。 
 		3. snob：[snɒb] n. 自命不凡者、趋势附炎者、势利眼
@@ -7047,14 +7404,24 @@
 		16. snobbery
 			1. _n._ [arrogance](dic://arrogance), [haughtiness](dic://haughtiness), [hauteur](dic://hauteur), [high-handedness](dic://high-handedness), [lordliness](dic://lordliness)
 			2. **snob**势利小人，势利眼;**elitist**优秀人材;**disdain**蔑视;**arrogance**傲慢;**pretentious**自命不凡的;**cynicism**犬儒主义;**bigotry**顽固;**hypocrisy**伪善;**idiocy**白痴;**silliness**愚蠢;**ignorance**无知
-	16. snorkel
-	17. snore, snorer
-	18. snot
+	17. snorkel
+	18. snore, snorer
+	19. snot
 		1. snotty
 		2. snotrag
-	19. snort
-		1. snorty
-	20. snout, snouted
+	20. snort
+		1.  [snicker](dic://snicker), [snigger](dic://snigger)
+		2.  [boo](dic://boo), [hoot](dic://hoot), [Bronx cheer](dic://Bronx cheer), [hiss](dic://hiss), [raspberry](dic://raspberry), [razzing](dic://razzing), [razz](dic://razz), [bird](dic://bird)
+		3.  [huff](dic://huff)
+		4.  [take a hit](dic://take a hit)
+		5. _n._ [laugh](dic://laugh), [laughter](dic://laughter), [cry](dic://cry), [outcry](dic://outcry), [call](dic://call), [yell](dic://yell), [shout](dic://shout)
+		6. _v._ [utter](dic://utter), [emit](dic://emit), [let out](dic://let out), [let loose](dic://let loose), [exhale](dic://exhale), [expire](dic://expire), [breathe out](dic://breathe out)
+		7. **giggle**傻笑;**chuckle**咯咯的笑，轻声地笑;**laugh**笑;**sniff**嗤之以鼻;**gulp**狼吞虎咽地吃;**gasp**喘息;**giggles**笑声;**sigh**叹息，叹气;**yawn**哈欠;**groan**呻吟;**smirk**傻笑;
+		8. the snort of a steam engine. /蒸汽车发出的呼哧叫声
+		9. he gave a snort of disgust /他厌恶地哼了一声。
+		10. snorted cocaine /吸食柯卡因
+		11. snorty
+	22. snout, snouted
 		1. 自中古低地德语 snute,鼻子，口鼻部，来自 Proto-Germanic*snut,鼻子，拟声词，模仿鼻子发出的声音。引申诸相关词义。
 		2. n. 鼻口部, 鼻子, 口吻状物, 烟草
 		3. [neb](dic://neb)
@@ -7062,14 +7429,14 @@
 		5.  [rostrum](dic://rostrum)
 		6. _n._ [nose](dic://nose), [olfactory organ](dic://olfactory organ)
 		7. **beak**鸟嘴;**nostrils**鼻孔;**tail**尾部;**nose**鼻子;**muzzle**枪口，炮口;**fangs**尖牙;**hind**后部的;**dorsal**背的，背侧的;**claws**爪子;**bony**骨的;**jaws**狭口;
-	21. snoop
+	23. snoop
 		1. 1 - 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申比喻义打探，打听。
 		2. vi. 调查, 窥探   n. 窥视行为, 爱管闲事的人, 私家侦探
 		3. snoopy
 		4. snooperscope
 			1. n. 夜望镜
 		5. snooper
-	22. snuff
+	24. snuff
 		1. n. 鼻烟  
 		2. vt. 出声地嗅, 通过鼻子吸入; 掐灭, 闷熄, 熄灭（小火苗）
 		3. 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申词义鼻烟。
@@ -7240,28 +7607,61 @@
 ### + \*po(i)- + = to drink
 1. **bib-, bever-** = to drink
 	1. beverage
+		1.  来自 bib-,喝，见 imbibe.
 	2. bib
-		1. bibcock, bibber, winebibber
-		2. bibulosity, bibulous
+		1. bibcock
+			1. n. 弯嘴龙头
+		2. bibber
+		3. winebibber
+		4. bibulosity, bibulous
 			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
-		3. imbibe
-			1. [absorb](dic://absorb), [suck](dic://suck), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw), [take in](dic://take in), [take up](dic://take up)
-			2. [assimilate](dic://assimilate)
-			3. [absorb](dic://absorb), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have), [assimilate](dic://assimilate)
-			4. **drink**喝，饮;**partake**参与;**impart**给予，传授;**drank**喝;**sip**抿;**indulge**迁就;**booze**酒;**ingest**咽下;**consume**消耗，消费;**infuse**使充满;**drinking**喝酒;
+		5. imbibe (intake, )
+			1. im-,进入，使，-bib,喝，饮，词源同 bibulous,beverage.即喝进去，引申词义吸收。
+			3. [absorb](dic://absorb), [suck](dic://suck), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw), [take in](dic://take in), [take up](dic://take up)
+			4. [assimilate](dic://assimilate)
+			5. [absorb](dic://absorb), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have), [assimilate](dic://assimilate)
+			6. **drink**喝，饮;**partake**参与;**impart**给予，传授;**drank**喝;**sip**抿;**indulge**迁就;**booze**酒;**ingest**咽下;**consume**消耗，消费;**infuse**使充满;**drinking**喝酒;
+			7. It is of Grandpa's habit to imbibe a bit of wine each day. /每天喝一点儿酒是爷爷的习惯。
+			8. We are here to share some science-backed tips for imbibing more safely. /我们在这里分享一些有科学依据的安全饮酒建议。
+			9. As for what I'm imbibing liquid-wise, I am a seltzer freak. /至于我喝什么水——我是一个苏打水狂人。
+			10. I made great friends.And we stayed up late reminiscing and probably imbibing more than we should /结交了很棒的朋友 我们熬夜到很晚 回忆过去 也许喝了太多酒。
 	3. bevy
-		1. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
+		1. 来自 bib-,喝，见 imbibe.来自动物成群结队饮水。
+		2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [flock](dic://flock)
+		3. **plethora**过剩;**slew**沼地;**myriad**无数的;**multitude**大量, 许多;**half-dozen**半打的;**dozens**许多;**handful**一把;**bunch**串;**assorted**混杂的;**litany**冗长而枯燥的陈述;**plenty**
+		4. _[a bevy](dic://a%20bevy)_ 一群动物; 一群; 
+		5. _[a bevy beautiful girls](dic://a%20bevy%20beautiful%20girls)_ 一群漂亮的姑娘
+		6. _[a bevy of beauties](dic://a%20bevy%20of%20beauties)_ 一群美女
+		7. _[a bevy of bees](dic://a%20bevy%20of%20bees)_ 一群蜜蜂
+		8. _[a bevy of quails](dic://a%20bevy%20of%20quails)_ 一群鹌鹑
+		9. _[bevy flock platoon tribe](dic://bevy%20flock%20platoon%20tribe)_ 一群人
+		10. _[a bevy of actresses](dic://a%20bevy%20of%20actresses)_ 一群女演员
+		11. _[a bevy of girls](dic://a%20bevy%20of%20girls)_ 一群女孩
+		12. _[a bevy of shop girls](dic://a%20bevy%20of%20shop%20girls)_ 一群女店员
+		13. Fancy offices, bevy of fine ladies. /优雅的办公室 美女环绕。
+		14. Leaders have decided to build liquefied natural gas terminals, which opens up new energy supplies but also raises a bevy of questions about Germany's energy security. /德国领导人已决定修建液化天然气接收站，这将开启新的能源供应，但也引发了一系列有关德国能源安全的问题。
+		15. Above them raced a bevy of screaming, chattering monkeys, hurling taunts and insults at the Mangani, and encouragement and advice to the girl. /在他们上方跑着一群尖叫、喋喋不休的猴子，它们对曼加尼人进行嘲讽和侮辱，并对女孩给予鼓励和建议。
+		16.  A **bevy** of statistics this week pointed to a weakening economy. /本周出炉的一批统计数据，显示美国经济正在走弱。
 2. **pin-** = to drink
 	1. pinocyte
 	2. pinocytosis
 3. **pot-** = drink, 「Latin」potus, "drunk, a drink"; potio, “a drink”
 	1. compotation, compotator
-	3. potable, potation, potatory, potion,
+	3. potable
+		1. a. 适于饮用的  n. 饮料
+		2. potation
+		3. potatory
+		4. potion (dose, dote)
+			1. n. 饮剂, 饮料, 一次饮用量, 一服, 一剂
+			2.  来自拉丁语 potionem,一服药，一口，魔水，来自 potare,饮，喝，来自 PIE*poi,饮，喝，词源同 potable,imbibe.
+			3. 
 	4. poision
 	5. porridge, porringer
 	6. symposiarch, symposiast
 	7. symposia, symposium, symposiums
 4. beer
+	1. beer - 该词可能源自拉丁语biber 'drink'（饮料）。古罗马士兵在德国酒店要饮料时很可能总说biber，酒店老板想当然地认为他们要的是啤酒。日子一长，德语吸收了biber一词，以后演变为Bier。该词进入英语后由古英语的beor逐渐演变为现代英语的beer。汉语“啤酒”其实乃德语Bier一词的音译。
+	2. 来自拉丁语 biber,喝，饮料，来自 bib,喝，见 imbibe,吸收。
 
 
 ### + \*populus + = a people, nation
@@ -7728,17 +8128,19 @@
 
 ### + \*prek- +
 1. **prec-** = to pray, “祈祷” 「Latin」precari, "pray"
-	1. deprecate (impugn, oppugn, repugn)
-		1. de-,向下，表强调，-prec,祈祷，词源同 precatory,imprecate,pray.原义为祈祷恶魔离开，强烈的憎恶，后表示强烈反对
-		2. vt. 反对；抨击；轻视；声明不赞成
-		3. **abandon**离弃;**shun**避开, 回避, 避免;**declare**宣布，声明;**standardize**使合乎规格;**defer**延期;**intend**打算;**abolish**废除，废止;**hasten**催促;**propose**建议;**rename**重新命名，改名;**condemn**判刑，定罪;
-		4. [disapprove](dic://disapprove), [reject](dic://reject), [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
-		5. he deprecates the value of children's television. /他贬低儿童电视节目的价值。
-		6. He gave me a deprecating smile. He even flushed a little /他给了我一个不屑的微笑。他甚至有点脸红。
-		7. But the deprecated " the whole is comprised of the parts" usage has been around since the 16th century. /但“整体由部分包含”这种用法被弃用的情况早在16世纪就已经出现了。
-		8. The exclamation was so deprecating and touching that Morris indulged in another little demonstration of affection /感叹是如此的贬低和感人， 以至于莫里斯沉迷于另一个小小的爱的表现。
-		9. deprecatory (detracting)
-		10. deprecation
+	1. deprecate (impugn, oppugn, repugn) 
+		1. (dislike, disparagement, depreciation, derogation, hate, detest, refuse, decline, contempt, scorn, sniffish, deprecate)
+		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		3. de-,向下，表强调，-prec,祈祷，词源同 precatory,imprecate,pray.原义为祈祷恶魔离开，强烈的憎恶，后表示强烈反对
+		4. vt. 反对；抨击；轻视；声明不赞成
+		5. **abandon**离弃;**shun**避开, 回避, 避免;**declare**宣布，声明;**standardize**使合乎规格;**defer**延期;**intend**打算;**abolish**废除，废止;**hasten**催促;**propose**建议;**rename**重新命名，改名;**condemn**判刑，定罪;
+		6. [disapprove](dic://disapprove), [reject](dic://reject), [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+		7. he deprecates the value of children's television. /他贬低儿童电视节目的价值。
+		8. He gave me a deprecating smile. He even flushed a little /他给了我一个不屑的微笑。他甚至有点脸红。
+		9. But the deprecated " the whole is comprised of the parts" usage has been around since the 16th century. /但“整体由部分包含”这种用法被弃用的情况早在16世纪就已经出现了。
+		10. The exclamation was so deprecating and touching that Morris indulged in another little demonstration of affection /感叹是如此的贬低和感人， 以至于莫里斯沉迷于另一个小小的爱的表现。
+		11. deprecatory (detracting)
+		12. deprecation
 			1. n. 祈免；贬低；反对；（计）弃用
 			2. _n._ [prayer](dic://prayer), [petition](dic://petition), [orison](dic://orison), [disparagement](dic://disparagement), [dispraise](dic://dispraise)
 			3. **depreciation**贬值;**introspection**内省;**abandonment**放弃;
@@ -7746,15 +8148,15 @@
 			5. Don't speak laconically to me, ' she said with deprecation. /别跟我说话简洁， ” 她不以为然地说。
 			6. In spite of pride and temper, there was as much deprecation as anger in his voice when he said, " What do you mean, Adam" ? /尽管骄傲和脾气暴躁， 但当他说“你是什么意思， 亚当” 时，语气中既有愤怒也有不屑？
 			7. That’s self-**deprecation**, not service. /那是一种自我贬低，而非服务。
-		11. deprecatingly
-	2. imprecate
+		13. deprecatingly
+	3. imprecate
 		1. im-进入，使 + prec-祈求，祈祷 + -ate，其原义为召唤鬼神，祈求神灵相助，后引申词义诅咒，咒骂。
 		2. vt. 咒语, 诅咒
 		3. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [invoke](dic://invoke), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down)
 		4. imprecate curses upon sb. /诅咒某人
 		6. imprecatory
 		7. imprecation
-	3. precarious (erratic, errant, wayward, precarious, labile, fickle, versatile, volatile, flighty, capricious)
+	4. precarious (erratic, errant, wayward, precarious, labile, fickle, versatile, volatile, flighty, capricious)
 		1. precarious（危险的）：法律领域中的“不确定占有”  
 		2. 英语单词precarious常常被人错误地分解pre-car-ious（在汽车之前的），实际上并非如此。它来自法律术语precarium（不确定占有），词根为precis（pray），意思是“通过祈祷、请求而得到的”，因为是不确定的、不牢靠的。罗马帝国初期，政府按照土地的面积而非收成来对农民征税。因此，在歉收之年，很多自由农因为交不起税而被迫把土地转让给享有免税特权的大贵族，而这些贵族则承诺农民可以继续耕种土地。也就是说，农民将土地所有权转让给了贵族，但保留了土地的使用权。但那时候人们头脑中还无法区分“所有权”和“使用权”，因此将农民所保留的土地使用权称为precarium（不确定占有），意思就是拥有土地的贵族应农民请求而将土地作为礼物送给农民，但贵族有权随时收回。从precarium衍生出形容词precarius，进入英语后拼写改为precarious，词义也从“不确定、不牢靠的”引申出“危险的，岌岌可危的”.
 		3. precarious：[prɪ'keərɪəs] adj.危险的，岌岌可危的，不稳定的
@@ -7765,9 +8167,9 @@
 		6. _[precarious safe](dic://precarious%20safe)_ 不稳定的
 		7. _[precarious stabilized](dic://precarious%20stabilized)_ 不稳定的
 		8. For such a powerful hunter, the polar bear lives a precarious existence. /然而就是这样强大的猎手其生存却充满了不确定性。
-	4. precatory
+	5. precatory
 		1. 来自拉丁语 precari,乞求，要求，恳求，来自 PIEprek,要求，恳求，词源同 deprecate,pray.
-	5. pray
+	6. pray
 		1. 1 - 来自古法语 preier,祈祷，祈求，来自拉丁语 precari,乞求，要求，恳求，来自 PIE*prek,要求，恳求，词源同 precarious,deprecate,postulate.
 		2. [beg](dic://beg), [implore](dic://implore)
 		3. [commune](dic://commune), [plead](dic://plead)
@@ -7778,7 +8180,7 @@
 			1. prayerless
 			2. prayerful
 2. **postul-** = to demand
-	1. expostulate (exhortation)
+	1. expostulate (exhortation, admonish)
 		1. ex- + postul-要求 + -ate
 		2. ex-,向外，-post,要求，争辩，词源同 postulate,pray.
 		3. v. 规劝, 告诫, 抗议
@@ -7790,7 +8192,7 @@
 	2. postulant
 		1. **nun**修女，尼姑;**convent**女修道院;**Franciscan**圣方济各会的;**Benedictine**圣本笃修会修士;**monastic**僧侣;**ordination**任命;**priest**牧师;**monastery**修道院;**seminary**神学院;**vocation**职业;**monk**僧侣，修道士;
 		2. [petitioner](dic://petitioner), [suppliant](dic://suppliant), [supplicant](dic://supplicant), [requester](dic://requester)
-	3. postulate (conjecture)
+	3. postulate (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, assume, presume)
 		1. 来自拉丁语 postulare,要求，声称，断言，来自 poscere,请求，紧急要求，-t,过去分词格，来自 Proto-Italic porsko,来自 PIEprek,要求，请求，词源同 precarious,pray,可能来自 PIEper,向前，前行，词源同 ford,proceed.引申词义假设，假定等。
 		2. n. 假定, 基本条件  
 		3. vt. 要求, 假定
@@ -8414,34 +8816,80 @@
 ### + \*pu- (2) + = to rot, decay
 1. **foul-** = filthy，表示“污秽的”。源自古英语 ful "unclean, rotten."
 	1. foul
-		1. fouling, anti-fouling
-		2. foully
-		3. afoul
-		4. foul-up
-		5. foul-tongued
-		6. foul-spoken
-		7. foul-mouthed
-		8. flagrant-foul
-		9. befoul
-2. **pur-, pus-, putr-** = foul matter，表示“脓”。源自拉丁语 puter (词干 putri-) "rotten."
-	1. putrefy
+		1. [pollute](dic://pollute), [contaminate](dic://contaminate)
+		2. [clog](dic://clog), [choke off](dic://choke off), [clog up](dic://clog up), [back up](dic://back up), [congest](dic://congest), [choke](dic://choke)
+		3. [befoul](dic://befoul), [defile](dic://defile), [maculate](dic://maculate)
+		4. [disgusting](dic://disgusting), [disgustful](dic://disgustful), [distasteful](dic://distasteful), [loathly](dic://loathly), [loathsome](dic://loathsome), [repellent](dic://repellent), [repellant](dic://repellant), [repelling](dic://repelling), [revolting](dic://revolting), [skanky](dic://skanky), [wicked](dic://wicked), [yucky](dic://yucky)
+		5. [fetid](dic://fetid), [foetid](dic://foetid), [foul-smelling](dic://foul-smelling), [funky](dic://funky), [noisome](dic://noisome), [smelly](dic://smelly), [stinking](dic://stinking), [ill-scented](dic://ill-scented)
+		6. [cheating(a)](dic://cheating(a)), [dirty](dic://dirty), [unsporting](dic://unsporting), [unsportsmanlike](dic://unsportsmanlike)
+		7. [dirty](dic://dirty), [marked-up](dic://marked-up)
+		8. [filthy](dic://filthy), [nasty](dic://nasty), [smutty](dic://smutty)
+		9. [filthy](dic://filthy), [nasty](dic://nasty)
+		10. [afoul(ip)](dic://afoul(ip)), [fouled](dic://fouled)
+		11. _n._ [violation](dic://violation), [infringement](dic://infringement)
+		12. _v._ [hit](dic://hit), [dirty](dic://dirty), [soil](dic://soil), [begrime](dic://begrime), [grime](dic://grime), [colly](dic://colly), [bemire](dic://bemire)
+		13. _adj._ [offensive](dic://offensive), [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [unfair](dic://unfair)
+		14. _n._ [inoffensive](dic://inoffensive), [fragrant](dic://fragrant), [fair](dic://fair), [just](dic://just), [legible](dic://legible), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+			1. [dirty](dic://dirty) 普通用词，泛指被玷污或弄脏。   
+			2. [foul](dic://foul) 指由于腐烂、恶臭等造成的不干净，令人恶心。  
+			3. [nasty](dic://nasty) 主要指特别讲究清洁的人感到讨厌的东西。
+		15. **vile**卑鄙的;**offside**越位;**stinky**发恶臭的;**fowl**鸟;**stinking**发恶臭的;**filthy**污秽的;**stench**恶臭;**stink**臭味;**cursing**诅咒;**disgusting**令人厌恶的;**nasty**下流的;
+		16. _foul water_ 污水；危险水域
+		17. _foul play_ 严重犯规；不公平的比赛；不正当行为
+		18. _technical foul_ n. 技术犯规
+		19. _foul language_ 粗话，粗活
+		20. _foul line_ （球场的）边线；界线
+		21. _foul ball_ 界外球
+		22. _foul air_ [机]污浊空气
+		23. _foul territory_ 界外地区；界外
+		24. _foul weather_ 恶劣的气候，坏天气
+		25. _foul shot_ 罚球；罚球所得的一分
+		26. _personal foul_ 个人犯规；侵人犯规；犯则；侵人
+		27. fouling, anti-fouling
+		28. foully
+			1.  [insultingly](dic://insultingly)
+			2. _adv._ [dirty](dic://dirty), [foul](dic://foul), [unsporting](dic://unsporting), [unsportsmanlike](dic://unsportsmanlike)
+			3. **vile**卑鄙的;**unjustly**不义地;**justly**公正地;**wronged**被委屈的;**wretched**可怜的;**heinous**可憎的;**filthy**污秽的;**treachery**背信弃义, 不忠, 背叛;**despicable**可鄙的,卑鄙的;**hath**有;**cursed**被诅咒的;
+			4. That's foully it's cheated, it's dishonest, it's just... cheating with figures, pulling the wool over people's eyes. /那是造假是谎言，是虚伪，是...玩数字游戏，蒙蔽他人的耳目而已。
+			5. 'I will do nothing till I have made quite sure that Margaret was foully murdered'. /“在确定玛格丽特是被人谋杀之前，我什么都不做”。
+			6. Harry hastily dropped his gaze to his potion, which was now congealing foully and giving off a strong smell of burned rubber. /哈利急忙垂下眼看他的药水，它现在已经凝结成污浊不堪的一体，发出一股冲鼻的橡胶烧糊了的气味。
+			7. More than one has been foully injured by a great nail driven into a packing-case — this but the extreme instance of the wrongs they have undergone. /不止一个人被钉在包装箱里的大钉子严重伤害——这只是他们所遭受的错误的极端例子。
+			8. She had been **foully** murdered during the night. /她在夜间被残忍地谋杀了。
+		29. afoul
+		30. foul-up
+		31. foul-tongued
+		32. foul-spoken
+		33. foul-mouthed
+		34. flagrant-foul
+		35. befoul
+12. **pur-, pus-, putr-** = foul matter，表示“脓”。源自拉丁语 puter (词干 putri-) "rotten."
+	1. putrefy (putrid, suppurate, putrefy, fetter)
 		1. putr-腐败 + -e- + -fy使...，...化。
-		2. putrescence, putrescent
-		3. putrescible
-		4. putrefaction
+		2. v. (使)化脓, (使)腐烂, (使)堕落
+		3. _v._ [decay](dic://decay)
+		4. **rot**腐烂;**rotting**深蚀刻;**decaying**颓坏;**ferment**发酵;**evaporate**蒸发;**flesh**肉体;**corpse**尸体;**dissolve**使溶解;**perish**毁灭;**darken**使模糊;**deteriorate**恶化;
+		5. Undigested protein begins to rot and putrefy in your tummy. /没有被消化的蛋白质会在你的胃里开始腐烂变质。
+		6. He would keep some bodies for days, assaulting them up until the bodies became putrefied. /他会保留一些尸体数天， 不断攻击它们直到尸体腐烂。
+		7. The very rats, which here and there lay putrefying in its rottenness, were hideous with famine. /到处都是腐烂腐烂的老鼠，也因饥荒而变得丑陋不堪。
+		8. putrescence, putrescent
+		9. putrescible
+		10. putrefaction
 			1. [rot](dic://rot)
 			2. [decomposition](dic://decomposition), [rot](dic://rot), [rotting](dic://rotting)
 			3. [corruption](dic://corruption), [degeneracy](dic://degeneracy), [depravation](dic://depravation), [depravity](dic://depravity)
 			4. _n._ [decay](dic://decay), [immorality](dic://immorality)
 			5. **decomposition**分解;**decay**腐烂，腐朽;**rotting**深蚀刻;**stench**恶臭;**rot**腐烂;**decaying**颓坏;**corpse**尸体;**corpses**尸体;**fermentation**发酵;**odour**气味;**disintegration**瓦解;
-		5. putrefactive
+			6. Created by disease, within putrefaction, into decay. /由疾病造成， 在腐烂中进入腐烂。
+			7. **Putrefaction** refers to the breaking down and gradual liquefaction of tissue by bacteria. /腐烂指的是细菌把组织分解掉，并且逐渐使其液化。
+			8. All through my childhood, Kurast was a paradise. The once perfumed air now reeks of **putrefaction**. /我的童年时代，库拉斯特是一个天堂。充满香味的空气现在变成了腐臭的浓烟。
+		11. putrefactive
 			1. **bacterial**细菌的;**bacteria**细菌;**microbial**微生物的;**anaerobic**厌氧菌的;**microbes**细菌，微生物;**decomposition**分解;**fecal**排泄物的;**pathogenic**引起疾病的;**fermentation**发酵;**intestinal**肠的;**fungal**真菌的
 			2. _adj._ [septic](dic://septic), [infected](dic://infected)
 			3. _[putrefactive spoilage](dic://putrefactive%20spoilage)_ 霉烂
 			4. _[putrefactive organism](dic://putrefactive%20organism)_ 腐败性生物
 			5. _[putrefactive bacterium](dic://putrefactive%20bacterium)_ 腐烂细菌; 腐败细菌; 
 			6. _[putrefactive diarrhea](dic://putrefactive%20diarrhea)_ 腐败性腹泻
-		6. putrid
+		12. putrid
 			1. 来自拉丁语 putrere,发臭，腐烂，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.
 			2. _adj._ [putrefaction](dic://putrefaction), [rot](dic://rot), [rotten](dic://rotten), [corrupt](dic://corrupt)
 			3. _n._ [fresh](dic://fresh), [incorrupt](dic://incorrupt)
@@ -8454,16 +8902,18 @@
 			1. 1 - 来自拉丁语 pus,脓，疮口，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pustule.
 		5. pustule
 			1. - 来自拉丁语 pustula,脓肿，水泡，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.-ule,小词后缀。
-	3. suppurate
+	3. suppurate (putrid, suppurate, putrefy, fetter, )
 		1. vi. 生脓, 化脓, 流脓
 		2.  sup-,在下，-pur,脓，来自拉丁语 pus 所有格形式 puris,脓的。
+		3. _v._ [draw](dic://draw), [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+		4. **sores**褥疮;**ulcer**溃疡;**inflamed**发炎的;**ulcers**溃疡，疡;**necrosis**坏死;**swollen**肿胀的，浮肿的;**swelling**膨胀;**lesion**损害;**cysts**囊;**rot**腐烂;**hemorrhage**出血;
 	4. empyema
-3. **pyo-** = pus, 表示“脓”，医学词根。源自希腊语 puon, puos "pus."
+13. **pyo-** = pus, 表示“脓”，医学词根。源自希腊语 puon, puos "pus."
 	1. pyorrhoea
 	2. pyaemia
 	3. pyuria
 	4. antipyogenic
-4. filth
+14. filth
 	1. [crud](dic://crud), [skank](dic://skank)
 	2.  [dirt](dic://dirt), [grime](dic://grime), [soil](dic://soil), [stain](dic://stain), [grease](dic://grease), [grunge](dic://grunge)
 	3.  [filthiness](dic://filthiness), [foulness](dic://foulness), [nastiness](dic://nastiness)
@@ -8473,10 +8923,31 @@
 
 
 ### pub-, pubo- = mature, pubic, 表示“成熟的、耻骨、阴部”。源自拉丁语 pubes (属格 pubis) "genital area, groin"。
-1. puberty, pubertas, pubertal, prepuberty, postpuberty
-2. pubes
-3. pubescence, pubescent
-	1. prepubescent
-	2. postpubescent
-4. pubic, prepubic, pubarche
-5. pubis
+1. puberty
+	1. n. 青春期, 春情发动期
+	2.  [pubescence](dic://pubescence)
+	3. _n._ [time of life](dic://time of life)
+	4. **adolescence**青春期;**adulthood**成人期;**menopause**经绝期;**hormonal**荷尔蒙的，激素的;**menstruation**月经;**adolescent**青春期的;**hormones**荷尔蒙;**maturation**化脓;**manhood**成年;**age**年龄;**teenage**青少年的;
+	5. _precocious puberty_ 性早熟；早熟青春期；性早熟症
+	6. You reach puberty in your teens /人十多岁就到达青春期。
+	7. A young person may begin puberty at 8, while another may not start puberty until 14 or 15. /有的年轻人可能从 8 岁就开始进入青春期，而有的可能要一直等到 14 或 15 岁。
+	8. pubertas
+	9. pubertal
+	10. prepuberty
+	11. postpuberty
+3. pubes (pudendum)
+	1. n. 阴毛, 阴部, 软毛
+4. pubescence
+	1. n. 到达青春期, 软毛
+	2. pub-青春 + -escence
+	3. pubescent
+	4. prepubescent
+	5. postpubescent
+5. pubic
+	1. _adj._ [pubis](dic://pubis), [pubic bone](dic://pubic bone), [os pubis](dic://os pubis)
+	2. **armpit**腋窝;**genitals**生殖器;**hair**头发;**vagina**阴道;**crotch**胯部，分叉处;**buttocks**臀部;**genital**生殖的;**hairs**毛茸;**penis**阳物，阴茎;**breasts**胸脯;**hairy**多毛的;
+	3. I have to manilate the baby through the pubic symphysis. /我得从耻骨联合处把孩子夹出来。
+	4. prepubic
+	5. pubarche
+7. pubis
+	1. n. 耻骨
