@@ -554,12 +554,13 @@
 	1. tenebrific (swart, negro, nocturne)
 		1. _adj._ 产生黑暗的;阴暗的;阴沉的
 	2. tenebrous
-		1. adj. 黑暗的；阴暗的；晦涩的
-		2. _adj._ [dark](dic://dark)
-		3. _n._ [light](dic://light)
-		4. **shadowy**有阴影的;**dark**黑暗的，深色的;**ethereal**天上的;**eerie**可怕的;**ominous**不祥的;**darkness**黑暗;**enigmatic**谜的;**brooding**沉思的;**ghostly**幽灵的;**otherworldly**非现实世界的;**sinister**阴险的;
-		5. What Gloria hoped in the tenebrous depths of her soul, what she expected that great gift of money to bring about, is difficult to imagine /格洛丽亚在她阴暗的灵魂深处所希望的， 她所期望的那笔巨额金钱礼物会带来什么， 是难以想象的。
-		6. During the first debate, live shots of Fulton County jail, where Mr Trump was due to turn himself in, had the air of a villain's lair, the tenebrous place standing in for the elusive man. /在第一场辩论中，富尔顿县监狱（特朗普将在那里自首）的现场镜头有一种恶棍巢穴的气氛，这个阴暗的地方代表了这个难以捉摸的男人。
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
+		2. adj. 黑暗的；阴暗的；晦涩的
+		3. _adj._ [dark](dic://dark)
+		4. _n._ [light](dic://light)
+		5. **shadowy**有阴影的;**dark**黑暗的，深色的;**ethereal**天上的;**eerie**可怕的;**ominous**不祥的;**darkness**黑暗;**enigmatic**谜的;**brooding**沉思的;**ghostly**幽灵的;**otherworldly**非现实世界的;**sinister**阴险的;
+		6. What Gloria hoped in the tenebrous depths of her soul, what she expected that great gift of money to bring about, is difficult to imagine /格洛丽亚在她阴暗的灵魂深处所希望的， 她所期望的那笔巨额金钱礼物会带来什么， 是难以想象的。
+		7. During the first debate, live shots of Fulton County jail, where Mr Trump was due to turn himself in, had the air of a villain's lair, the tenebrous place standing in for the elusive man. /在第一场辩论中，富尔顿县监狱（特朗普将在那里自首）的现场镜头有一种恶棍巢穴的气氛，这个阴暗的地方代表了这个难以捉摸的男人。
 
 
 ### temn-,tempt- ＝ scorn, 表示“藐视”。
@@ -875,12 +876,13 @@
 		4. **relating**关联的;**relate**联系起来;**concerning**关于，涉及，就…而言;**related**讲述的，叙述的;**regarding**关于， 至于;**correspond**相符合, 相一致;**pertinent**有关的;**belong**属于，应归入;**specifically**特有地, 特定地, 具体地;**indicate**指出;**specific**特殊的，特定的;
 		5. pertinent
 		6. impertinent
-			1. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
-			2. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
-			3. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
-			4. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
-			5. [spiritless](dic://spiritless), [relevant](dic://relevant), [backward](dic://backward)
-			6. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
+			1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous)
+			2. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
+			3. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
+			4. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+			5. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
+			6. [spiritless](dic://spiritless), [relevant](dic://relevant), [backward](dic://backward)
+			7. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
 	12. retain
 		1. [continue](dic://continue), [keep](dic://keep), [keep on](dic://keep on), [keep going](dic://keep going)
 		2. [hold](dic://hold), [keep back](dic://keep back), [hold back](dic://hold back)
@@ -1174,18 +1176,19 @@
 		9. extenuatory
 		10. extenuation
 		11. extenuating
-	3. tenuity (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged)
-		1. n. 纤细, 薄, 稀薄, 微弱, 贫乏
-		2. - n. 稀薄；贫乏；纤细；微弱
-		3.  [thinness](dic://thinness), [slenderness](dic://slenderness)
-		4.  [feebleness](dic://feebleness)
-		5.  [rarity](dic://rarity), [low density](dic://low density)
-		6. _n._ [dimension](dic://dimension), [weakness](dic://weakness), [density](dic://density), [denseness](dic://denseness)
-		7. **lightness**光亮度;**peculiar**特殊的;**delicacy**精致, 精美;**softness**温柔;**exertion**努力;**rigidity**硬度，刚性;**curvature**弯曲;
-		8. the tenuity of the upper atmosphere. /大气层的上部空气稀薄。
-		9. Coexistence of the rational and elegant prose has brought on interflowing of the two style and therefore facilitated prosperity and tenuity in this field. /理性散文与通俗散文并存,形成了雅俗合流的创作格局,共同促成了当代散文创作的繁荣与苍白。
-		10. The charcoal filling has **tenuity** effect in the improvement of water quality were only by its absorption and interception function /仅靠木炭填料吸附、截留作用去除水体污染物能力有限。
-	4. tenuous
+	3. tenuity 
+		1. (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious)
+		2. n. 纤细, 薄, 稀薄, 微弱, 贫乏
+		3. - n. 稀薄；贫乏；纤细；微弱
+		4.  [thinness](dic://thinness), [slenderness](dic://slenderness)
+		5.  [feebleness](dic://feebleness)
+		6.  [rarity](dic://rarity), [low density](dic://low density)
+		7. _n._ [dimension](dic://dimension), [weakness](dic://weakness), [density](dic://density), [denseness](dic://denseness)
+		8. **lightness**光亮度;**peculiar**特殊的;**delicacy**精致, 精美;**softness**温柔;**exertion**努力;**rigidity**硬度，刚性;**curvature**弯曲;
+		9. the tenuity of the upper atmosphere. /大气层的上部空气稀薄。
+		10. Coexistence of the rational and elegant prose has brought on interflowing of the two style and therefore facilitated prosperity and tenuity in this field. /理性散文与通俗散文并存,形成了雅俗合流的创作格局,共同促成了当代散文创作的繁荣与苍白。
+		11. The charcoal filling has **tenuity** effect in the improvement of water quality were only by its absorption and interception function /仅靠木炭填料吸附、截留作用去除水体污染物能力有限。
+	5. tenuous
 		1. 1 - 来自拉丁语 tenuis,拉长的，薄的，细的，来自 PIE*ten,展开，词源同 extend,thin,attenuate.引申词义纤细的，脆弱的等。
 		2. [flimsy](dic://flimsy), [slight](dic://slight), [thin](dic://thin)
 		3. _adj._ [weak](dic://weak), [thin](dic://thin)
@@ -1199,7 +1202,7 @@
 		11. He has a rather tenuous grasp of reality. /他对现实认识很肤浅。
 		12. the tenuous link between interest rates and investment. /利率与投资之间可有可无的联系。As remnants expand and age they become more tenuous. /随着残余的膨胀力和年岁的增长，它们变得更加脆弱。
 		13. The picture was that of a long **tenuous** line stretching from bizerte to gafsa /图片上是从比塞大延至盖夫萨的一条长而脆弱的阵线。
-	5. trendril
+	6. trendril
 		1. 1 - 来自中古法语 tendrillon,小枝，新芽，软骨，-ille,小词后缀，来自拉丁语 tendere,延伸，伸长，词源同 tend,tender.后用于指植物卷须。
 7. **tetan-** = rigid
 	1. tetanus
@@ -1321,6 +1324,13 @@
 	7. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
 	8. _[tepid water](dic://tepid%20water)_  温水
 	9. _[tepid fevered](dic://tepid%20fevered)_ 不热情的
+	10. In just a couple of hours, your refreshing water turned tepid and kinda...musty. /用不了几个小时，你那清爽的水就会变得不冷不热还有点儿霉味。
+	11. Well, who knew your marketing guys were such lame-os? What they came up with is so...tepid. /谁知道你的推销员都那么差劲。他们的想法都太… … 无趣了。
+	12. And for that, I will write a tepid character, which may enable you to find employment elsewhere /为此，我会在推荐信里说你性情温和，这或许能帮你在其他地方找到工作。
+4. tepidity
+	1.  [lukewarmness](dic://lukewarmness), [tepidness](dic://tepidness)
+	2. _n._ [warmth](dic://warmth), [warmness](dic://warmness)
+	3. **indifference**不关心,不在乎;**complacency**自满;**cynicism**犬儒主义;**selfishness**自私;**apathy**冷漠，无兴趣，漠不关心;**mediocrity**平庸,第二流;**excesses**越轨;**zeal**热心;**reproach**责备;**piety**虔诚;**immorality**不道德,无道义;
 
 
 ### + \*tere- +
@@ -1336,7 +1346,7 @@
 	1. etc..
 5. **trib-** = to rub, 表示“摩擦”。源自希腊语 tribein "to rub, ghresh, pound, wear out."
 	1. diatribe
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
 		2. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, )
 		3. [fulmination](dic://fulmination)
 		4. _n._ [denunciation](dic://denunciation), [denouncement](dic://denouncement)
@@ -1378,20 +1388,22 @@
 		7. _[detritus feeder](dic://detritus%20feeder)_  食腐屑生物
 	5. lithotrity
 		1. litho-石头 + trity
-	6. trite, triteness, tritely
-		1. 1 - 来自拉丁语 tritus,穿旧的，过去分词格于 terere,转，刮，磨下，词源同 turn,throw.引申词义陈腐的，老套的。
-		2. [banal](dic://banal), [commonplace](dic://commonplace), [hackneyed](dic://hackneyed), [old-hat](dic://old-hat), [shopworn](dic://shopworn), [stock(a)](dic://stock(a)), [threadbare](dic://threadbare), [timeworn](dic://timeworn), [tired](dic://tired), [well-worn](dic://well-worn)
-		3. _adj._ [unoriginal](dic://unoriginal)
-		4. _n._ [original](dic://original), derivative 
-		5. **cliche**陈词滥调;**banal**陈腐的;**corny**谷类的;**cliches**陈腔滥调;**inane**愚蠢的;**pretentious**自命不凡的;**nonsensical**无意义的;**simplistic**过分单纯化的;**silly**愚蠢的;**crass**粗鲁的;**tiresome**烦人的，无聊的;
-	7. triturate, triturator, trituration
+	6. trite, triteness, tritely (contrite)
+		1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, )
+		2. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+		3. 1 - 来自拉丁语 tritus,穿旧的，过去分词格于 terere,转，刮，磨下，词源同 turn,throw.引申词义陈腐的，老套的。
+		4. [banal](dic://banal), [commonplace](dic://commonplace), [hackneyed](dic://hackneyed), [old-hat](dic://old-hat), [shopworn](dic://shopworn), [stock(a)](dic://stock(a)), [threadbare](dic://threadbare), [timeworn](dic://timeworn), [tired](dic://tired), [well-worn](dic://well-worn)
+		5. _adj._ [unoriginal](dic://unoriginal)
+		6. _n._ [original](dic://original), derivative 
+		7. **cliche**陈词滥调;**banal**陈腐的;**corny**谷类的;**cliches**陈腔滥调;**inane**愚蠢的;**pretentious**自命不凡的;**nonsensical**无意义的;**simplistic**过分单纯化的;**silly**愚蠢的;**crass**粗鲁的;**tiresome**烦人的，无聊的;
+	8. triturate, triturator, trituration
 		1. 1 - 来自拉丁语 triturare,磨碎，碾磨，反复格形式于 terere,转，刮，磨下，词源同 turn,throw.
 		2. _[triturate](dic://triturate)_  v. 磨碎；把……研成粉末; n. 磨碎物;
-	8. detriment, detrimental,  (deleterious)
+	9. detriment, detrimental,  (deleterious)
 		1. de-坏 + tri-=trit-摩擦 + -ment名词后缀 → 磨坏了 → 损害。
 		2. _n._ [damage](dic://damage), [harm](dic://harm), [impairment](dic://impairment)
 		3. **detrimental**有害的;**undermining**底切;**undermine**在某物下挖洞或挖通道;**benefit**利益，好处;**jeopardize**危及, 损害;**hindrance**起妨碍作用的事物或人;**hinder**成为阻碍;**harm**伤害;**disservice**伤害,虐待,不亲切的行为;**consequence**结果, 后果;**diminish**使减少;
-	9. thread
+	10. thread
 		1. Ariadne's thread阿里阿德涅之线；帮助摆脱困境的办法。克里特岛公主Ariadne喜欢上了要去迷宫深处诛杀牛头怪Minotaur的雅典王子Theseus，担心他有去无回（Minotaur凶猛且迷宫异常复杂），遂给其一线团，叮嘱他如果胜利，循着线找到迷宫的入口。那事情竟成了，Ariadne's thread也就成了指点迷津之物。
 		2. unthread
 		3. threaworm
@@ -1399,7 +1411,7 @@
 		5. threadbare
 		6. goldthread
 		7. etc..
-	10. thresh
+	11. thresh
 		1. 1 - 来自古英语 threscan,击打，打谷，踩踏，来自 Proto-Germanic*threskan,踩踏，使脱粒，来自PIE*tere,弯，转，磨，词源同 turn,throw.引申诸相关词义。
 		2.  [convulse](dic://convulse), [thresh about](dic://thresh about), [thrash](dic://thrash), [thrash about](dic://thrash about), [slash](dic://slash), [toss](dic://toss), [jactitate](dic://jactitate)
 		3.  [flail](dic://flail)
@@ -1412,12 +1424,12 @@
 		10. threshold
 		11. threshing
 		12. thresher
-	11. throe
+	12. throe
 		1. 1 - 来自中古英语 throwe,剧痛，尤指分娩的痛苦，临死前的挣扎，词源不详，可能来自古英语thrawan,扭曲，挣扎，词源同 throw,torque.
 		2. _n._ [agony](dic://agony), [suffering](dic://suffering), [excruciation](dic://excruciation), [distress](dic://distress)
 		3. **tho**可是,不过;**tor**岩山;**oi**喂，嘿;**hundred**一百;**thousand**一千;**ana**言论集;**sixty**六十;**twelve**十二;**fifty**五十;**twenty**二十;**ere**在…以前;
 		4. _[death throes](dic://death%20throes)_  临死前痛苦的挣扎; （彻底失败或终结前的） 垂死挣扎;
-	12. throw
+	13. throw
 		1. 1 - 来自中英语 thrawan,转动，旋转，拧，来自 Proto-Germanic*threw,转动，来自 PIE*tere,弯，转，词源同 turn,torque.词义由旋转引申为扔，来自投掷的姿势和动作。
 		2. windthrow
 		3. upthrow
@@ -1430,12 +1442,12 @@
 		10. flamethrower
 		11. downthrow
 		12. crankthrow
-	13. trepan, trepanner, trepannation
+	14. trepan, trepanner, trepannation
 		1. n. 环锯, 钻孔机 vt. 用环锯做手术, 诱入圈套, 欺骗
 		2. _n._ [surgical instrument](dic://surgical instrument), [drill](dic://drill)
 		3. _v._ [bore](dic://bore), [drill](dic://drill)
 		4. **skull**头盖骨，脑壳;**needle**针;
-	14. tribulation (trebuchet)
+	15. tribulation (trebuchet)
 		1. 来自拉丁语 tribulare,压制，镇压，折磨，来自 terere,转，刮，摩擦，词源同 turn,throw.-bul,工具格后缀，词源同 table,tintinnabulation.引申词义忧患，痛苦磨难等。
 		2. _n._ [affliction](dic://affliction)
 		3. [trial](dic://trial), [visitation](dic://visitation)
@@ -1445,7 +1457,7 @@
 		7. _[suffer tribulation](dic://suffer%20tribulation)_ 遭受苦难
 		8. _[hardship tribulation](dic://hardship%20tribulation)_ 困苦
 		9. Great Tribulation
-	15. turn
+	16. turn
 		1. n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折  
 		2. vt. 使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通  
 		3. vi. 转动, 转弯, 转向, 翻转, 回转, 改变, 转身, 变成, 变质, 晕眩, 易脱手
@@ -1545,177 +1557,178 @@
 #### + \*tere- (2) + = cross over, pass through, overcome
 1. **trans-** = cross, over, beyond, through
 	1. intransigence, intransigent
-		1. **stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
-		2. _[intransigent](dic://intransigent)_  adj. 不妥协的；不让步的; n. 不妥协的人;
-		3. 
-	2. traduce
-	3. traffic
-	4. transact
-	5. transalpine
-	6. transaminase
-	7. transatlantic
-	8. transborder
-	9. transceiver
-	10. transcend
-	11. transcode
-	12. transcontinental
-	13. transcribe
-	14. transcriber
-	15. transcript
-	16. transcurrent
-	17. transcutaneous
-	18. transducer
-	19. transduction
-	20. transect
-	21. transept
-	22. transfer
-	23. transfigure
-	24. transfinite
-	25. transfix
-	26. transform
-	27. transformative
-	28. transfrontier
-	29. transfuse
+		1.  in-,不，非，-transig,转给，妥协，词源同 transact,transigent.
+		2. a. 非妥协性的 
+		3. n. 不妥协的人
+		4. ag-(1), trans-
+	3. traduce
+	4. traffic
+	5. transact
+	6. transalpine
+	7. transaminase
+	8. transatlantic
+	9. transborder
+	10. transceiver
+	11. transcend
+	12. transcode
+	13. transcontinental
+	14. transcribe
+	15. transcriber
+	16. transcript
+	17. transcurrent
+	18. transcutaneous
+	19. transducer
+	20. transduction
+	21. transect
+	22. transept
+	23. transfer
+	24. transfigure
+	25. transfinite
+	26. transfix
+	27. transform
+	28. transformative
+	29. transfrontier
+	30. transfuse
 		1. _v._ [lend](dic://lend), [impart](dic://impart), [bestow](dic://bestow), [contribute](dic://contribute), [add](dic://add), [bring](dic://bring), [pour](dic://pour)
 		2. **blood**血，血液;**hemoglobin**血红素;**clot**凝块;**infuse**使充满;**clotting**凝血;**marrow**髓，骨髓;**infusion**灌输;**platelet**血小板;**inject**注射;**bloodstream**血流;**bleed**使出血;
-	30. transgress
+	31. transgress
 		1. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
 		2. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
-	31. transhumance
-	32. transience
-	33. transiency
-	34. transient
-	35. transigent
-	36. transillumination
-	37. transistance
-	38. transit
-	39. transition
-	40. transitive
-	41. transitory
-	42. translate
-	43. transliterate
-	44. translocation
-	45. translucence
-	46. translucency
-	47. translucent
-	48. translunar
-	49. translunary
-	50. transmarine
-	51. transmigrant
-	52. transmigrate
-	53. transmissbility
-	54. transmissbile
-	55. transmissive
-	56. transmit
-	57. transmogrify
-	58. tranmute
-	59. transnational
-	60. transnatural
-	61. transnormal
-	62. transoceanic
-	63. transom
-	64. transonic
-	65. transpacific
-	66. transparence
-	67. transparent
-	68. transpersonal
-	69. transpierce
-	70. transpire
-	71. transplant
-	72. transpolar
-	73. transponder
-	74. transpontine
-	75. transport
-	76. transpose
-	77. transsexual
-	78. transubstantiate
-	79. transude
-	80. transuranic
-	81. transuranium
-	82. transvaluation
-	83. transverse
-	84. transvest
-	85. trajectory
-	86. trance
-	87. tranquil
-	88. traverse
-	89. travesty
-	90. supertransuranics
-	91. trans-sonic
-	92. transabdominal
-	93. transactivate
-	94. transamin
-	95. transamine
-	96. transbeam
-	97. transbooster
-	98. transcapsidation
-	99. transchanger
-	100. transconductor
-	101. transcontainer
-	102. transcriptional
-	103. transcriptome
-	104. trascripton
-	105. transcriptor
-	106. transcrystalline
-	107. transcrystallization
-	108. transcurium
-	109. transcytosis
-	110. transdifferentiation
-	111. transduce
-	112. transductant
-	113. transfaunation
-	114. transfectant
-	115. fransferrin
-	116. transformant
-	117. transgene
-	118. transgenome
-	119. transglucosidation
-	120. transgranular
-	121. transistor
-	122. transjugular
-	123. translat
-	124. transloader
-	125. translocator
-	126. translocon
-	127. translot
-	128. translucidus
-	129. rtransluminla
-	130. transmanganin
-	131. transmat
-	132. transmembrane
-	133. transmissometer
-	134. transmissometry
-	135. transmitt
-	136. transmittability
-	137. transmontane
-	138. transnucleosidation
-	139. transoesophageal
-	140. transolver
-	141. transosonde
-	142. transownership
-	143. transpadane
-	144. transphobia
-	145. transphobic
-	146. transplutonics
-	147. transoplutonium
-	148. transpond
-	149. transposition
-	150. transporession
-	151. transracial
-	152. transradar
-	153. transsexualism
-	154. transsonic
-	155. transspecific
-	156. transtage
-	157. transtat
-	158. transtension
-	159. transtentorial
-	160. transversopagus
-	161. transversum
-	162. transverter
-	163. trespass
+	32. transhumance
+	33. transience
+	34. transiency
+	35. transient
+	36. transigent
+	37. transillumination
+	38. transistance
+	39. transit
+	40. transition
+	41. transitive
+	42. transitory
+	43. translate
+	44. transliterate
+	45. translocation
+	46. translucence
+	47. translucency
+	48. translucent
+	49. translunar
+	50. translunary
+	51. transmarine
+	52. transmigrant
+	53. transmigrate
+	54. transmissbility
+	55. transmissbile
+	56. transmissive
+	57. transmit
+	58. transmogrify
+	59. tranmute
+	60. transnational
+	61. transnatural
+	62. transnormal
+	63. transoceanic
+	64. transom
+	65. transonic
+	66. transpacific
+	67. transparence
+	68. transparent
+	69. transpersonal
+	70. transpierce
+	71. transpire
+	72. transplant
+	73. transpolar
+	74. transponder
+	75. transpontine
+	76. transport
+	77. transpose
+	78. transsexual
+	79. transubstantiate
+	80. transude
+	81. transuranic
+	82. transuranium
+	83. transvaluation
+	84. transverse
+	85. transvest
+	86. trajectory
+	87. trance
+	88. tranquil
+	89. traverse
+	90. travesty
+	91. supertransuranics
+	92. trans-sonic
+	93. transabdominal
+	94. transactivate
+	95. transamin
+	96. transamine
+	97. transbeam
+	98. transbooster
+	99. transcapsidation
+	100. transchanger
+	101. transconductor
+	102. transcontainer
+	103. transcriptional
+	104. transcriptome
+	105. trascripton
+	106. transcriptor
+	107. transcrystalline
+	108. transcrystallization
+	109. transcurium
+	110. transcytosis
+	111. transdifferentiation
+	112. transduce
+	113. transductant
+	114. transfaunation
+	115. transfectant
+	116. fransferrin
+	117. transformant
+	118. transgene
+	119. transgenome
+	120. transglucosidation
+	121. transgranular
+	122. transistor
+	123. transjugular
+	124. translat
+	125. transloader
+	126. translocator
+	127. translocon
+	128. translot
+	129. translucidus
+	130. rtransluminla
+	131. transmanganin
+	132. transmat
+	133. transmembrane
+	134. transmissometer
+	135. transmissometry
+	136. transmitt
+	137. transmittability
+	138. transmontane
+	139. transnucleosidation
+	140. transoesophageal
+	141. transolver
+	142. transosonde
+	143. transownership
+	144. transpadane
+	145. transphobia
+	146. transphobic
+	147. transplutonics
+	148. transoplutonium
+	149. transpond
+	150. transposition
+	151. transporession
+	152. transracial
+	153. transradar
+	154. transsexualism
+	155. transsonic
+	156. transspecific
+	157. transtage
+	158. transtat
+	159. transtension
+	160. transtentorial
+	161. transversopagus
+	162. transversum
+	163. transverter
+	164. trespass
 		1. trespasser
-	164. trestle
+	165. trestle
 		1. trestlework
 		2. trestletree
 2. **trench-, trunc-** = cut, "deprived of branches or limbs, mutilated" "trunk"
@@ -4262,7 +4275,7 @@
 		1. turbinate, turbination
 			1. n. 鼻甲（turbinate的复数形式）；螺旋形介壳
 	6. turbine
-		1. 1. rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate
+		1. rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate
 		2. _[steam turbine driven](dic://steam%20turbine%20driven)_ 汽轮机驱动
 		3. _[turbine driven compressor](dic://turbine%20driven%20compressor)_ 涡轮压缩机
 		4. _[turbine driven fan](dic://turbine%20driven%20fan)_ 涡轮通风机
@@ -4270,7 +4283,11 @@
 		6. _[exhaust turbine driven supercharger](dic://exhaust%20turbine%20driven%20supercharger)_ 排气涡轮传动增压器
 		7. _[wind turbine driven generator](dic://wind%20turbine%20driven%20generator)_ 风力发电机
 		8. _[oil turbine drive centrifuge](dic://oil%20turbine%20drive%20centrifuge)_ 油涡轮传动离心机
-	8. turbulent
+		9. turbines driven by steam /由蒸汽驱动的涡轮机。
+		10. wind power turbines are a blot on the landscape /风力涡轮机有损美好风景。
+		11. The gas turbine feeds on the fuel it pumps /这台燃气轮机以它抽入的燃料为能源。
+		12. 
+	7. turbulent
 		1. _adj._ [unquiet](dic://unquiet), [agitated](dic://agitated)
 		2. [quiet](dic://quiet), [unagitated](dic://unagitated)
 			1. [turbulent](dic://turbulent) 正式用词，多用描写风和水，也可指心神不定或控制不住的感情波动。  
@@ -4279,7 +4296,7 @@
 			4. [wild](dic://wild) 普通用词，既可指自然界的荒芜，未被驯化状态，又指人的无法无天，不文明的野蛮行为。  
 			5. [fierce](dic://fierce) 普通用词，指人或兽的凶猛残酷。
 		3. **tumultuous**无秩序的;**turbulence**气体或水的涡流;**stormy**暴风雨的;**turmoil**混乱，骚动;**chaotic**混乱的，无秩序的;**upheaval**剧变;**volatile**不稳定的;**perilous**危险的，冒险的;**troubled**动乱的，不安的;**unstable**不稳定的;**unpredictable**无法预言的, 不可预测的;
-	9. trouble
+	8. trouble
 		1.  [problem](dic://problem)
 		2.  [fuss](dic://fuss), [bother](dic://bother), [hassle](dic://hassle)
 		3.  [difficulty](dic://difficulty)
@@ -4297,14 +4314,14 @@
 			5. [irritate](dic://irritate) 语气比annoy强得多，指激怒，使发怒，多指一种短时间的反应。  
 			6. [vex](dic://vex) 侧重指因不断的干扰而引起的烦恼，有时含激怒的意味。
 		11. **problems**问题;**difficulty**困难;**problem**难题;**having**所有;**worry**烦恼;**serious**严肃的，严重的;**worried**担心的;**troublesome**令人烦恼的;**hassle**困难;**danger**危险;**getting**获得;
-	10. bioturbate
-	11. turmoil
+	9. bioturbate
+	10. turmoil
 		1.  [convulsion](dic://convulsion), [upheaval](dic://upheaval)
 		2.  [tumult](dic://tumult)
 		3.  [agitation](dic://agitation), [excitement](dic://excitement), [upheaval](dic://upheaval), [hullabaloo](dic://hullabaloo)
 		4. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
 		5. **upheaval**剧变;**strife**冲突;**unrest**不安;**tumultuous**无秩序的;**chaos**混沌，混乱;**instability**不稳定,不稳固;**crisis**危机;**disarray**无秩序;**crises**危机，紧要关头;**turbulent**骚动的;**discord**不和;
-	12. etc...
+	11. etc...
 2. stir
 3. storm
 

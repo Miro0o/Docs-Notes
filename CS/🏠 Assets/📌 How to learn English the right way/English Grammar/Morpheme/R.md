@@ -2081,7 +2081,7 @@
 
 ## ru
 ### rud- = rude, 表示“原始，粗野”。
-1. erudite (pandit, pedantry)
+1. erudite (pandit, pedantry) (recondite)
 	1. e-指“出，外”，rud-和单词rude（粗鲁无礼的）同源，博学的人所受文化熏陶较深厚，言行举止一般会脱离粗鲁无礼的层次。
 	2. a. 博学的  n. 博学者
 	3. **eloquent**雄辩的，有口才的;**witty**诙谐的;**astute**机敏的;**insightful**有深刻见解的;**perceptive**敏感的;**thoughtful**沉思的, 思考的;**intelligent**聪明的;**irreverent**不敬的;**opinionated**固执己见的,武断的;**scholarly**学术性的;**enlightening**有启迪的;
@@ -2104,27 +2104,31 @@
 	14. It is rude to snatch. /攫夺是不礼貌的。
 	15. To be rude to the old is not proper /对老人粗鲁是不适当的。
 	16. 
-	17. ruder
+	17. rudder
 	18. rudeness
 	19. rudely
 4. ruderal
 	1. adj. （植物）生长在荒地上（或垃圾堆上）的 
 	2. n. 生长在荒地上（或垃圾堆上）的植物
 5. rudiment
-	1. 
+	1. - n. 雏形；基本原理
 	2.  rude,原始的，-ment,名词后缀。引申诸相关词义。
 	3.  [first rudiment](dic://first rudiment), [first principle](dic://first principle), [alphabet](dic://alphabet), [ABC](dic://ABC), [ABC's](dic://ABC's), [ABCs](dic://ABCs)
 	4. [fundamentals](dic://fundamentals), [basics](dic://basics), [fundamental principle](dic://fundamental principle), [basic principle](dic://basic principle), [bedrock](dic://bedrock), [body part](dic://body part)
 	5. **rudimentary**基本的;**drum**击鼓;**embryonic**胚芽的;**embryo**胚胎;
-	6. rudimentum
+	6. you must acquire the rudiments of Greek. /你必须掌握希腊语的入门知识。
+	7. 'But you have had the rudiments of a good education, ' remarked Mr. Hale. /“但你受过良好教育的基础， ” 黑尔先生说。
+	8. There was some rudiment of rue in his heart while he ruminated about the accident. /当当他沉思起整个事件，他的心中就会有些懊悔的萌芽。
+	9. But I, who had more experience, could plainly observe some rudiments of it among the wild Yahoos. /而我这种经验比较丰富的人，在野生的野胡子中却能清楚地观察到它的一些雏形。
+	10. rudimentum
 		1. 原基;退化器官;遗迹;残遗器官
-	7. rudiments
-	8. rudimentary
+	11. rudiments
+	12. rudimentary (elemental, basic, rudimentary, fundamental )
 		1. **basic**基本的;**primitive**原始的;**lacking**缺乏的;**meager**贫乏的;**simple**简单的;**cursory**粗略的;**feeble**微弱的，无力的;**advanced**高级的;**basics**基础;**comparatively**对比地;**archaic**古代的;
 		2. [basic](dic://basic), [incomplete](dic://incomplete), [uncomplete](dic://uncomplete), [undeveloped](dic://undeveloped)
 		3. [incidental](dic://incidental), [incident](dic://incident), [complete](dic://complete), [developed](dic://developed)
-	9. rudimental
-	10. rudimenta
+	13. rudimental
+	14. rudimenta
 
 
 ### rumen-,rumin- 表示“反刍”。
@@ -2136,17 +2140,18 @@
 	5. **ponder**仔细考虑;**contemplate**深思, 细想, 仔细考虑;**ramble**漫步;**meditate**考虑;**dwell**居住;**reminisce**追忆;**dissect**切细;**linger**逗留, 徘徊;**wander**徘徊;**speculate**思索;**musings**沉思;
 	6. ruminator
 	7. ruminative
-		1. _adj._ [thoughtful](dic://thoughtful)
-		2. _n._ [thoughtless](dic://thoughtless)
-		3. **introspective**好反省的;**contemplative**沉思的;**meditative**沉思的;**melancholy**忧郁, 悲哀;**brooding**沉思的;**meandering**蜿蜒的河流,漫步,聊天;**moody**喜怒无常的;**somber**昏暗的;**lyrical**抒情诗调的;**evocative**引起…记忆的, 唤起…感情的;**haunting**不易忘怀的，萦绕于心头的;
-	8. rumination
+		1.  (pensive, brooding, broody, contemplative, meditative, musing, pondering, reflective, ruminative)
+		2. _adj._ [thoughtful](dic://thoughtful)
+		3. _n._ [thoughtless](dic://thoughtless)
+		4. **introspective**好反省的;**contemplative**沉思的;**meditative**沉思的;**melancholy**忧郁, 悲哀;**brooding**沉思的;**meandering**蜿蜒的河流,漫步,聊天;**moody**喜怒无常的;**somber**昏暗的;**lyrical**抒情诗调的;**evocative**引起…记忆的, 唤起…感情的;**haunting**不易忘怀的，萦绕于心头的;
+	9. rumination
 		1. [contemplation](dic://contemplation), [reflection](dic://reflection), [reflexion](dic://reflexion), [musing](dic://musing), [thoughtfulness](dic://thoughtfulness)
 		2. _n._ [consideration](dic://consideration), [chew](dic://chew), [chewing](dic://chewing), [mastication](dic://mastication), [manduction](dic://manduction), [vomit](dic://vomit), [vomiting](dic://vomiting)
 		3. **contemplation**沉思;**introspective**好反省的;**introspection**内省;**melancholy**忧郁, 悲哀;**contemplative**沉思的;**musings**沉思;**preoccupation**全神贯注，入神;**meditative**沉思的;**meditation**默想, 默念;**brooding**沉思的;**existential**有关存在的;
-	9. ruminant
+	10. ruminant
 		1. a. 反刍类的, 沉思的, 默想的  
 		2. n. 反刍动物
-2. rumen
+3. rumen
 	1. 源自拉丁语 rumen "the throat," 瘤胃是反刍动物的第一胃。贝爷在《荒野求生》第二季中剖开骆驼腹部取水时多次提到 rumen。
 	2. rumenotomy
 	3. rumenitis

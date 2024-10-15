@@ -401,11 +401,16 @@
 			1. a. 稀少的, 细微的, 细小的
 	15. intransigence
 		1. in-没有 + trans-穿过 + ig-做 + -ence, 表名词
-		2. intransigent (transient)
-			1. in-没有 + trans-穿过 + ig-做 + -ent
-			2. _adj._ [inflexible](dic://inflexible)
-			3. _n._ [flexible](dic://flexible)
-			4. **stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
+		2. intransigent 
+			1. (transient)
+			2. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, )
+			3. in-没有 + trans-穿过 + ig-做 + -ent
+			4. _adj._ [inflexible](dic://inflexible)
+			5. _n._ [flexible](dic://flexible)
+			6. **stubborn**顽固的;**dogmatic**教条的;**uncompromising**不让步的;**belligerent**好战的;**reactionary**反动的;**combative**好战的;**defiant**挑衅的;**arrogant**自大的，傲慢的;**confrontational**对抗;**stubbornly**倔强地;**tenacious**抓紧的;
+			7. _[intransigent](dic://intransigent)_  adj. 不妥协的；不让步的; n. 不妥协的人;
+			8. I'm afraid my brother can be very intransigent. /恐怕我弟弟就是不肯让步。
+			9. She says she was shocked at how intransigent the platform was when she asked for more writers on set /她说，当她要求更多编剧在片场时，她对这个平台的顽固态度感到震惊。
 		3. transigent (transient, transcend, etc..)
 			1. n. 愿意妥协者
 	16. prodigal (profligate)
@@ -728,18 +733,19 @@
 ### + \*aim- + = copy
 1. **emul-**  = equal, 表示“平等”，和 imit-“相像”同源。源自拉丁语 aemulus "emulous".
 	1. emulate
-		1. emul-平等 + -ate, 表动词 → 通过模仿达到平等。
-		2. vt. 效法, 尽力赶上, 同...竞争
-		3. _v._ [imitate](dic://imitate), [copy](dic://copy), [simulate](dic://simulate), [compete](dic://compete), [vie](dic://vie), [contend](dic://contend)
-		4. **imitate**模仿，仿效;**mimic**模仿，摹拟;**replicate**复制;**aspire**渴望;**recreate**娱乐;**imitating**模仿;**simulate**模仿;**portray**描绘;**embody**体现，使具体化;**exemplify**是…的典型;**achieve**完成;
-		5. lesser men trying to emulate his greatness. /比他差而又试图取得像他那样伟大成就的人。
-		6. emulator
+		1. (simulate, emulate, imitate)
+		2. emul-平等 + -ate, 表动词 → 通过模仿达到平等。
+		3. vt. 效法, 尽力赶上, 同...竞争
+		4. _v._ [imitate](dic://imitate), [copy](dic://copy), [simulate](dic://simulate), [compete](dic://compete), [vie](dic://vie), [contend](dic://contend)
+		5. **imitate**模仿，仿效;**mimic**模仿，摹拟;**replicate**复制;**aspire**渴望;**recreate**娱乐;**imitating**模仿;**simulate**模仿;**portray**描绘;**embody**体现，使具体化;**exemplify**是…的典型;**achieve**完成;
+		6. lesser men trying to emulate his greatness. /比他差而又试图取得像他那样伟大成就的人。
+		7. emulator
 			1. miniemulator
-		7. emulative, emulatively
+		8. emulative, emulatively
 			1. _[emulative](dic://emulative)_  adj. 竞争性的；好胜的；有竞争心的
 			2. How to get along with **emulative** colleague? /这样跟好强的同事相处？
 			3. Sand table simulation experiment is a brand-new **emulative** experiencing study method /沙盘模拟实验是一种全新的具有竞争性的体验式学习。
-		8. emulation, emulational
+		9. emulation, emulational
 			1. **emulator**竞争者;**simulation**模仿;**hardware**计算机硬件;**imitation**模仿, 仿效;**console**安慰，安抚，抚慰;**simulator**模拟装置,模拟器;**initialization**设定初值,初始化;**fidelity**忠实;**debugging**程序调整;**synthesizer**综合者,合成器;
 			2. _[emulation mode](dic://emulation%20mode)_  仿真模式; [计] 仿真方式; 
 			3. _[terminal emulation](dic://terminal%20emulation)_  [计] 终端仿真
@@ -750,9 +756,9 @@
 			8. Both feelings are painful but emulation is better than envy. /两种感觉都很痛苦，但效仿总比嫉妒好。
 			9. He was not a model boss or human being, tidily packaged for emulation. /他不是众人尽可效仿的模范老板，或是人类楷模。
 			10. One of my goals now is the emulation of those strategies at larger scales. /我现在的目标之一是在更大范围内模拟这些策略。
-		9. emulable
+		10. emulable
 			1. _[emulable](dic://emulable)_  adj. 可赶上的；可仿效的
-		10. emulant
+		11. emulant
 	3. emulous (rivalrous, ambitious, emulous, )
 		1. adj. 好胜的，竞争心强的
 		2.  [rivalrous](dic://rivalrous)
@@ -793,7 +799,7 @@
 	2. imago
 		1. [prototype](dic://prototype), [paradigm](dic://paradigm), [epitome](dic://epitome), [image](dic://image), [insect](dic://insect)
 		2. **larval**幼虫状态的;
-	3. imitate (simulate, emulate)
+	3. imitate (simulate, emulate, imitate)
 		1. [copy](dic://copy), [simulate](dic://simulate)
 		2. _v._ [reproduce](dic://reproduce), [resemble](dic://resemble), [copy](dic://copy), [re-create](dic://re-create)
 		3. **mimic**模仿，摹拟;**emulate**与…竞争, 努力赶上;**resemble**类似，像;**replicate**复制;**simulate**模仿;**distinguish**辨别, 区别;**recreate**娱乐;**reproduce**复制;**differentiate**区分;**glorify**赞美;**portray**描绘;
@@ -1867,9 +1873,11 @@
 		2. inamorata, inamorato
 			1. **mistress**情妇;**beau**男朋友;**lover**爱人，恋人;**fiancée**未婚妻;**girlfriend**女朋友;**acquaintance**相识的人, 熟人;**muse**沉思;**socialite**社会名流;**fiancee**未婚妻;**admirer**赞赏者;**nemesis**报应;
 	2. enamor
-		1. [capture](dic://capture), [enamour](dic://enamour), [trance](dic://trance), [catch](dic://catch), [becharm](dic://becharm), [captivate](dic://captivate), [beguile](dic://beguile), [charm](dic://charm), [fascinate](dic://fascinate), [bewitch](dic://bewitch), [entrance](dic://entrance), [enchant](dic://enchant)
-		2. enamored
-		3. **excite**刺激…，使…兴奋;**impress**给…以深刻印象, 使铭记;**dazzle**耀眼的光;**entice**诱使;**amuse**使发笑;**seduce**引诱;**allure**吸引;**delight**高兴;**arouse**引起;**alluring**迷人的，吸引人的;**tempt**诱惑;
+		1. vt. 迷住, 使迷恋
+		2. [capture](dic://capture), [enamour](dic://enamour), [trance](dic://trance), [catch](dic://catch), [becharm](dic://becharm), [captivate](dic://captivate), [beguile](dic://beguile), [charm](dic://charm), [fascinate](dic://fascinate), [bewitch](dic://bewitch), [entrance](dic://entrance), [enchant](dic://enchant)
+		3. enamored
+		4. **excite**刺激…，使…兴奋;**impress**给…以深刻印象, 使铭记;**dazzle**耀眼的光;**entice**诱使;**amuse**使发笑;**seduce**引诱;**allure**吸引;**delight**高兴;**arouse**引起;**alluring**迷人的，吸引人的;**tempt**诱惑;
+		5. was enamored of the beautiful dancer; were enamored with the charming island /被美丽的舞蹈迷住了；被美丽的岛屿迷上了
 	3. amateur
 		1. **professional**职业的，专业的;**novice**初学者，新手;**pro**赞成地;**aspiring**有抱负的;**astronomer**天文学家;**hardcore**石填料;**inexperienced**经验不足的,不熟练的;**voyeur**偷看下流场面的人;**golfer**打高尔夫球的人;**busty**大胸脯的，胸部丰满的;**teen**青少年;
 	4. amative
@@ -1878,28 +1886,60 @@
 		4. **erotic**色情的;**sensual**感觉的;**carnal**肉体的;**romantic**浪漫的;**sexual**性的;**poetic**诗的，诗歌的;**literary**文学的;**seduction**诱惑;**intercourse**交往;**poetry**诗;**erotica**色情作品;
 	5. amatory
 		1. a. 恋爱的, 情人的
-	6. amorist, amorous
+	6. amorist,
 		1. a. 多情的, 表示爱情的, 恋爱的
 		2. 1 - 来自 am-,爱，愉悦，词源同 amiable.
 		3. [fan](dic://fan), [buff](dic://buff), [devotee](dic://devotee), [lover](dic://lover)
 		4. **romantic**浪漫的;**sensual**感觉的;**carnal**肉体的;**erotic**色情的;**affectionate**慈爱的,充满深情的,温柔亲切的;**sexual**性的;**courtship**求爱;**seductive**诱惑的;**lewd**淫荡的;**affair**事情;**flirt**调情;
-	7. amenity, amiable
-		1. am-爱，愉悦 + enity → 令人愉悦的（设施）。
-		2. **well-appointed**设备完善的;**toiletries**化妆品;**luxury**奢侈，奢华;**property**财产;**facilities**工具, 设施, 设备;**redevelopment**恢复经济发展,重点恢复;**spa**矿泉;
-		3. amicable
-			1. amic-友爱 + -able, 表形容词 → 能爱(你)的 → 友好的。
-		4. amiably
-	8. amity
+	7. amorous
+	8. amenity (facilities)
+		1.  [agreeableness](dic://agreeableness)
+		2. _n._ [pleasantness](dic://pleasantness), [sweetness](dic://sweetness)
+		3. am-爱，愉悦 + enity → 令人愉悦的（设施）。
+		4. **well-appointed**设备完善的;**toiletries**化妆品;**luxury**奢侈，奢华;**property**财产;**facilities**工具, 设施, 设备;**redevelopment**恢复经济发展,重点恢复;**spa**矿泉;
+		5. a uniform package of amenities at a choice of hotels. /在各色旅馆中的类似配套生活设施。
+		6. he was punctilious in providing every amenity for his guests. /他在客人面前拘泥礼节。
+		7. Most hotels have amenities, but in some hotels you have to pay extra for the amenities. /大部分旅馆都有设施，但在一些旅馆里你必须付额外的费用。
+		8. Got a nice little kitchen counter. We got pretty great amenities. Got a cooler, which is pretty great. /这里的厨房台特棒，设施也都特棒。这里好哎呦冷却器，也特棒。
+		9. All of these things are called amenities /这些东西都称为旅馆设施。
+		10. Both have similar amenities, such as subsidised fitness and childcare facilities, as well as a medical office /两者有着相似的便利设施，比如补贴健身、儿童托管设施以及医务室。
+	9. amity
 		1. am-爱 + -ity状态 → 爱的状态 → 和睦。
-		2. **enmity**敌意;**brotherhood**手足情谊;**friendship**友情, 友谊, 友好;**harmony**协调;**unity**联合;**peace**和平;**co-operation**合作;**fraternal**兄弟的;**coexistence**共存;**mutual**相互的，彼此的;**discord**不和;
-	9. enemy
+		2. [cordiality](dic://cordiality)
+		3. _n._ [friendliness](dic://friendliness), [peace](dic://peace)
+		4. **enmity**敌意;**brotherhood**手足情谊;**friendship**友情, 友谊, 友好;**harmony**协调;**unity**联合;**peace**和平;**co-operation**合作;**fraternal**兄弟的;**coexistence**共存;**mutual**相互的，彼此的;**discord**不和;
+		5. We live in amity with our neighbours. /我们与邻居和睦相处。
+		6. This fully demonstrates that cross-Straits amity and cooperation are mutually beneficial /充分说明两岸和则两利、合则双赢。
+		7. It was a period of amity in Texas politics /那是德克萨斯州政坛的一段友好时期。
+		8. " No. I think now I can get back to amity with my wife. /" 不，我认为我现在可以回到与我妻子的和睦中去了。"
+		9. He had the satisfaction of seeing the conference end in a treaty of peace and amity. /s他很高兴看到会议以和平友好条约结束。
+	10. amicable (affable, amicable, amiable, cordial, genial)
+		1. amic-友爱 + -able, 表形容词 → 能爱(你)的 → 友好的。
+		2. _adj._ [friendly](dic://friendly), [unhostile](dic://unhostile), [well-meaning](dic://well-meaning), [unthreatening](dic://unthreatening)
+		3. _n._ [hostile](dic://hostile)
+		4. **cordial**兴奋的;**agreeable**欣然同意的;**harmonious**和谐的;**respectful**表示尊敬的;**mutually**互相地;**disagreement**分歧, 意见不合;**agreement**协定, 协议, 契约;**breakup**崩溃;**friendly**友好的;**sociable**好交际的;**break-up**解冻
+		5. there will be an amicable settlement of the dispute. /争端将以友好的方式解决。
+		6. the best course is to seek an amicable parting of the ways /最好的途径是寻找一个折衷的抉择时刻。
+		7. I believe we can solve disputes through an amicable negotiation /我认为我们可以通过友好协商的方式解决争议。
+	11. amiable /amiably
+		1.  [good-humored](dic://good-humored), [good-humoured](dic://good-humoured)
+		2.  [affable](dic://affable), [cordial](dic://cordial), [genial](dic://genial)
+		3. _adj._ [good-natured](dic://good-natured), [friendly](dic://friendly)
+		4. _n._ [ill-natured](dic://ill-natured), [unfriendly](dic://unfriendly)
+		5. **agreeable**欣然同意的;**cheerful**高兴的;**likeable**令人喜爱的，可爱的;**chatty**饶舌的;**charming**迷人的;**affectionate**慈爱的,充满深情的,温柔亲切的;**endearing**惹人喜爱的;**cordial**兴奋的;**lovable**可爱的，讨人喜欢的;**sociable**好交际的;**likable**可爱的;
+		6. the amiable young man greeted me enthusiastically /这友善的年轻人热情地迎接我。
+		7. We have a very amiable companionship /我们之间存在一种友好的关系。
+		8. The next-door neighbours are very amiable people /隔壁的邻居很和蔼。
+		9. Amiable by nature, she never beat or scolded us, let alone quarreled with anybody. /因此，虽在这样的大家庭里，长幼叔伯妯娌相处都很和睦。
+	12. enemy
 		1. 来自拉丁文inimicus, 敌人，in-, 不，非 + im-=am-爱。
 		2. archenemy
 		3. **animosity**憎恨, 仇恨, 敌意;**hatred**憎恨;**hostility**敌意;**resentment**愤恨,不满,怨恨;**jealousy**嫉妒;**mistrust**不信任;**strife**冲突;**distrust**不信任;**discord**不和;**quarrel**吵架;**grudge**不满, 怨恨,
-	10. enmity
+	13. enmity (amity, comity, enmity, )
 		1. en-进入 + m-=am-爱 + -ity, 表名词 → 合成enmity , 爱太多的成为恨。
-	11. inimicable, inimical, inimically
-		1. 词源同enemy , 敌人。拼写比较imperial , empire , invidious , envy。
+	14. inimicable, inimical, inimically
+		1. (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, )
+		2. 词源同enemy , 敌人。拼写比较imperial , empire , invidious , envy。
 		3. **hostile**敌对的，敌方的;**antagonistic**敌对的;**pernicious**很有害的;**conducive**有助的;**detrimental**有害的;**incompatible**合不来的, 不能和谐相处的;**detriment**损害, 伤害;**antithesis**对照;**undermine**在某物下挖洞或挖通道;**undermining**底切;**unfriendly**不友好的;
 		4. an inimical alien power. /心怀敌意的外国势力。
 		5. a climate inimical to health /有害于健康的气候
@@ -2866,22 +2906,23 @@
 	20. apoptosis, apoptotic
 4. **post-, poster-** = behind, 「latin」post "behind, back, afterward"
 	1. preposterous
-		1. **ludicrous**荒唐可笑的,滑稽可笑的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**laughable**荒唐可笑的;**outlandish**古怪的, 奇异的;**nonsensical**无意义的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**outrageous**骇人的;**illogical**不合逻辑的;**idiotic**白痴的;**silly**愚蠢的;
-	2. post-horse, postboy
-	3. post-liberation, post-mortem, post-obit, postatomic, postbellum, postdiluvian, postdoctoral, postglacial, postgraduate
-	4. postdate, 
-	5. postentry
+		1. 
+		2. **ludicrous**荒唐可笑的,滑稽可笑的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**laughable**荒唐可笑的;**outlandish**古怪的, 奇异的;**nonsensical**无意义的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**outrageous**骇人的;**illogical**不合逻辑的;**idiotic**白痴的;**silly**愚蠢的;
+	3. post-horse, postboy
+	4. post-liberation, post-mortem, post-obit, postatomic, postbellum, postdiluvian, postdoctoral, postglacial, postgraduate
+	5. postdate, 
+	6. postentry
 		1. _[postentry](dic://postentry)_  n. （赛马）后补手续书；追加记入帐目的项目
-	6. posterior
-	7. posterity
+	7. posterior
+	8. posterity
 		1. **preserved**保存的;**preserve**保存;**forefathers**祖先;**preservation**保存;**sake**缘故;**preserving**保存的;**cherish**珍爱;**archiving**存档;**mankind**人类;**archival**档案的;**forever**永远;
 		2. [biological group](dic://biological group), [generation](dic://generation)
 		3. God offered Abraham a posterity like the stars of heaven /上帝给予亚伯拉罕的子孙如同天上的星星那么多
-	8. postern
+	9. postern
 		1. **doorway**门口;**passageway**通道;**gates**大门;**gate**大门;**citadel**城堡;**fortress**要塞;**fortification**加强;**doorways**门廊;**fortifications**防御工事;**entrance**入口;**fortified**加强的;
-	9. postface, postfix
-	10. posthaste
-	11. posthumous
+	10. postface, postfix
+	11. posthaste
+	12. posthumous
 		1. _adj._ [late](dic://late)
 		2. _n._ [early](dic://early), [middle](dic://middle)
 		3. **honours**优等成绩;**honorary**荣誉的;**autobiography**自传;**honors**优异;**biography**传记;**death**死;**deceased**已故的;**reissue**重新发行;**memoirs**回忆录;**opus**作品;**tributes**献礼篇;
@@ -2889,20 +2930,20 @@
 	13. postil
 		1. - n. 批注；（基督教《圣经》的）旁注；注释
 		2. just like the postil in next line /找到源头，里面有两句就是片头里面的。
-	15. postlude
-	16. postmeridian
-	17. postnasal
-	18. postnatal, postpartum
-	19. postnuptial
-	20. postoperative
+	14. postlude
+	15. postmeridian
+	16. postnasal
+	17. postnatal, postpartum
+	18. postnuptial
+	19. postoperative
 		1. _[postoperative](dic://postoperative)_  adj. 手术后的; n. 手术后病人;
-	21. postorbital
-	22. postposition, postpositive
-	23. postprandial
+	20. postorbital
+	21. postposition, postpositive
+	22. postprandial
 		1. _[postprandial](dic://postprandial)_  adj. 餐后的
-	24. postscript
-	25. postvaccinal
-	26. postmeridiem
+	23. postscript
+	24. postvaccinal
+	25. postmeridiem
 		1. 午后,下午(略作p.m.或P.M.)
 5. aft
 6. after
@@ -3164,13 +3205,14 @@
 			1. _n._ [introduction](dic://introduction)
 			2. **prologue**序言;**interlude**中间;**epilogue**结语，收场白;**verse**诗，诗篇;**recitation**背诵;**exposition**阐述, 讲解;**stanza**诗节;**prelude**前奏;**utterance**说话;**preface**前言;**treatise**论文;
 	13. ornery
-		1. 来自ordinary方言缩写，词义由普通的引申为劣质的，粗糙的，后用于形容人脾气坏的，闹别扭的。
-		2. [cantankerous](dic://cantankerous), [crotchety](dic://crotchety)
-		3. _[carlish humble ornery](dic://carlish%20humble%20ornery)_ 卑下的
-		4. _adj._ [ill-natured](dic://ill-natured)
-		5. _n._ [good-natured](dic://good-natured)
-		6. **cranky**暴躁的;**grumpy**脾气暴躁的;**feisty**活跃的;**stubborn**顽固的;**irritable**易怒的, 急躁的;**obnoxious**可憎的;**mischievous**淘气的, 顽皮的;**opinionated**固执己见的,武断的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**sassy**无礼的;
-	14. primoridial
+		1.  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery)
+		2. 来自ordinary方言缩写，词义由普通的引申为劣质的，粗糙的，后用于形容人脾气坏的，闹别扭的。
+		3. [cantankerous](dic://cantankerous), [crotchety](dic://crotchety)
+		4. _[carlish humble ornery](dic://carlish%20humble%20ornery)_ 卑下的
+		5. _adj._ [ill-natured](dic://ill-natured)
+		6. _n._ [good-natured](dic://good-natured)
+		7. **cranky**暴躁的;**grumpy**脾气暴躁的;**feisty**活跃的;**stubborn**顽固的;**irritable**易怒的, 急躁的;**obnoxious**可憎的;**mischievous**淘气的, 顽皮的;**opinionated**固执己见的,武断的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**sassy**无礼的;
+	15. primoridial
 8. **orn-** = embellish, 表示“装饰”。
 	1. adorn
 		1. 1 - ad-,去，往，-orn,装饰，词源同 ornament,装饰物。

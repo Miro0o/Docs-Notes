@@ -115,15 +115,39 @@
 
 
 ### insul-,isol- = island, 表示“岛屿”，来源于拉丁语。
-1. insulate
-	2. insular
-	3. insulin
-	4. insulance
-	5. insulosity
-2. isolate
+1. 1.peninsula（半岛）：几乎与大陆隔离的陆地  
+	1. 英语单词peninsula来自拉丁语，由pen+insula构成。其中，前缀pen（pene）表示almost（几乎），如peneplain（准平原）、penultimate（倒数第二）；insula表示“隔离”，英语词根insul-（隔离）就来源于此。所以peninsula的字面意思就是“几乎与大陆隔离”，中文译为“半岛”。  
+	2. insul-：隔离  
+	3. peninsula：[pɪ'nɪnsjʊlə] n.半岛  
+	4. insulate： ['ɪnsəlet] vt. 隔离，使孤立；使绝缘，使隔热  
+	5. insulation：[,ɪnsə'leʃən] n. 绝缘；隔离，孤立  
+	6. insulator：['ɪnsəletɚ] n. 绝缘体；从事绝缘工作的工人 
+2. 2.insulin（胰岛素）：胰腺周围岛状细胞团所分泌的激素  
+	1. 19世纪60年代，一位年轻的德国医学院学生兰格尔汉斯（Paul Langerhans）在显微镜下观察胰腺组织时，发现了胰腺周围分布有很多岛状的细胞团。兰格尔汉斯在自己的毕业论文中公布了自己的观察成果，并且推测说，这些岛状细胞团可能是分泌激素用的。但是这项天才发现并没有受到重视，评委们认为这些岛状细胞团其实不过是淋巴结。兰格尔汉斯最后只能混个学位后卷铺盖走人，并在41岁时死于尿毒症。
+	2. 然而，半个世纪过后，科学家们却发现这些岛状细胞团所分泌的物质确实是一种重要的激素，能够治疗当时的不治之症——糖尿病。为了纪念兰格尔汉斯，科学家们将这些岛状细胞团命名为islets of Langerhans（兰格尔汉斯岛），即“胰岛”，将其分泌物命名为insulin，该词源自拉丁文insula（岛屿），意思就是“岛素”，即所谓的“胰岛素”。  
+	3. insulin：['ɪnsəlɪn] n.胰岛素  
+	4. insula：['ɪnsəlɚ] n.岛屿，脑岛  
+	5. insulate：['ɪnsjʊleɪt] vt.隔离，孤立，使绝缘
+	6. insulance
+3. insulate
+4. insular (insular, provincial, private, )
+	1. - adj. 孤立的；与世隔绝的；海岛的；岛民的
+	2. insular - 岛总是和大陆隔离才成其为岛。作“隔离”或“孤立”解的isolate一词的词源正是表示“岛”的意大利语isola和拉丁语īnsula。英语另有几个词如isle（岛），insulate（使绝缘）及insular（岛屿的）等均源于此。isolate是从isolated逆生而成的。
+	3.  [parochial](dic://parochial)
+	4. _adj._ [island](dic://island), [private](dic://private), [provincial](dic://provincial)
+	5. _n._ [public](dic://public), [cosmopolitan](dic://cosmopolitan)
+	6. **elitist**优秀人材;**isolated**孤立的;**parochial**地方性的;**idiosyncratic**特殊物质的,特殊的,异质的;**aloof**冷淡的;**alienated**感到孤独的,不合群的;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**enclave**飞地;**self-centered**自我为中心的,利己主义的;**outsider**外人;**pretentious**自命不凡的;
+	7. the movement of goods of insular origin. /原产于岛上的货物的运输。
+	8. insular illumination of the 6th century. /6世纪英国和爱尔兰的彩饰工艺品。
+	9. What does " insular" mean in this context? /在这种情况下，“孤立”是什么意思？
+	10. We guess these are insular countries in terms of sex. /我们猜测这些国家在性方面是孤立的。
+	11. His instructor was an insular man. /他的指导者是个思想狭窄的人。
+	12. 
+6. insulosity
+7. isolate
 	1. isolable
-3. island
-4. isle
+8. island
+9. isle
 
 
 

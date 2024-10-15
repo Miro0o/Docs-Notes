@@ -951,7 +951,7 @@
 	10. deviate
 		1. deviant, deviator, deviation
 		2. retrodeviation, laterodeviation, exodeviation, esodeviation
-	11. obviate (avert, obliviate, displace)
+	11. obviate (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
 		1. ob-去掉 + vi-路 + -ate, 表动词 → 就在路上掉东西 → 排除障碍。
 		2. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
 		3. [rid of](dic://rid of), [eliminate](dic://eliminate)
@@ -1236,19 +1236,29 @@
 		1. kaleidoscopical
 		2. kaleidoscopic
 6. **idea-, ideo-** = idea ,表示“思想，观点”。源自希腊语 idea "appearance, form, idea."
-	1. ideograph, ideogram
+	1. ideograph （pictographic, hieroglyphic, ideographic）
 		1. _n._ [character](dic://character), [grapheme](dic://grapheme), [graphic symbol](dic://graphic symbol)
 		2. **kanji**日本汉字;**calligraphy**书法;**phonetic**语音的，语音学的;**symbol**符号;**symbols**符号;**ASCII**美国信息交换标准码;**idiom**成语，习语;**numeral**数字;**Chinese**中文，汉语;**Confucius**孔子;
 		3. _[ideograph](dic://ideograph)_  n. 象形文字；表意文字（等于ideogram）
 		4. Conjecture, of course, had to enter into my calculations; there was here and there uncertainty about a particular ideograph, and one sign recurring again and again on the Seal baffled me for many successive nights. /当然，我的计算必须有推测；一个特定的表意文字到处都有不确定性，印章上反复出现的一个符号让我困惑了很多个连续的夜晚。
-		5. ideographical
-		6. ideographic
-		7. ideography
-	2. ideology, ideologue
+		5. The component structure of each **ideograph** is examined /我们对汉字部件的结构进行了考查。
+		6. Chinese characters are an **ideograph** different from the alphabetic writing. /汉字是一种与拼音文字不同的表意文字。
+		7. ideogram
+		8. ideographical
+		9. ideographic
+		10. ideography
+	2. ideology
 		1. **ideology**意识形态;**thinker**思想家;**leftist**急进派;**ideological**观念学的;**extremist**极端主义者;**right-wing**右翼的;**centrist**中立派议员;**Marxist**马克思主义者;**socialist**社会主义者;**left-wing**左派的;**libertarian**自由论者;
 		2. [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent)
 		3. ideologist
-		4. ideological
+		5. ideologue
+			1. n. 思想家, 理论家, 空想家
+			2.  [ideologist](dic://ideologist)
+			3. _n._ [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent)
+			4. **ideology**意识形态;**thinker**思想家;**leftist**急进派;**ideological**观念学的;**extremist**极端主义者;**right-wing**右翼的;**centrist**中立派议员;**Marxist**马克思主义者;**socialist**社会主义者;**left-wing**左派的;**libertarian**自由论者;
+			5. Now and again he launches salvoes against ideologues on both sides. /他时常向双方的理论家发起炮轰。
+			6. 
+		6. ideological
 	3. idea
 		1. one-ideaed
 		2. one-idead
@@ -1264,17 +1274,35 @@
 		7. idealize
 		8. ideality
 		9. idealistic
-		10. idealist
-		11. idealism
-		12. ideallise
-		13. beauideal
+			1. a. 理想主义的, 唯心论的, 唯心主义的, 唯心主义者的
+			2. quixotic
+		11. idealist
+		12. idealism
+		13. ideallise
+		14. beauideal
 	5. ideate
-		1. **brainstorm**好主意;**collaborate**合作;**devise**设计;**brainstorming**发表独创性意见;**creatively**创造性地;**formulate**构想出, 规划;**innovate**改革;**conceive**构思;**visualize**在脑中使形象化, 设想, 想像;**develop**开发;
+		1. vi. 形成概念, 想象 vt. 对...形成概念
+		2. - 来自 idea,主意，想法，-ate,动词后缀。
+		3. [imagine](dic://imagine), [conceive of](dic://conceive of), [envisage](dic://envisage)
+		4. _v._ [create by mental act](dic://create by mental act), [create mentally](dic://create mentally)
+		5. **brainstorm**好主意;**collaborate**合作;**devise**设计;**brainstorming**发表独创性意见;**creatively**创造性地;**formulate**构想出, 规划;**innovate**改革;**conceive**构思;**visualize**在脑中使形象化, 设想, 想像;**develop**开发;
+		6. the arc whose ideated centre is a nodal point in the composition /此圆拱设想中的中心为构造中的一个节状点。
+		7. Now I'll admit that it's very hard to ideate stories when you're in a time pressure situation /我承认在时间紧迫的情况下很难构思故事。
+		8. So we just heard about some initial steps, you can take to ideate on what you're going to say. /所以我们刚刚听到了一些初步的步骤，你可以用来构思你要说什么。
+		9. Excitedly, I felt a lightness, ideating alongside my colleagues without reserve. /兴奋的是，我感到一种轻盈，毫无保留地和同事们一起思考。
+		10. And the " ideate" bubble, it's about having lot's of ideas. /而“创意”泡沫，就是有很多想法。
+		11. PB is a process that brings community and government together to ideate, develop concrete proposals and vote on projects that solve real problems in community. /PB 是一个将社区和政府聚集在一起构思、制定具体提案并对解决社区实际问题的项目进行投票的过程。
+		12. It's about giving them a great environment, an environment where they can **ideate**, collaborate. /即给员工一个不错的环境，一个能酝酿灵感、团结合作的环境。
 	6. idyl, idyll (pastoral, bucolic, )
 		1. n. 叙事诗, 田园景色, 田园诗, 田园乐曲, 牧歌
-		2. **idyllic**牧歌的，田园诗的;**tranquil**安静的，平静的;**seaside**海滨;**picturesque**如画的;**utopian**空想的;**solitude**孤独;**serene**平静的;
-		3. idyllist
-		4. idyllic
+		2.  [pastorale](dic://pastorale), [pastoral](dic://pastoral)
+		3.  [eclogue](dic://eclogue), [bucolic](dic://bucolic)
+		4. **idyllic**牧歌的，田园诗的;**tranquil**安静的，平静的;**seaside**海滨;**picturesque**如画的;**utopian**空想的;**solitude**孤独;**serene**平静的;
+		5. a summer idyll on the coast of France /法国海岸田园诗般的夏季生活
+		6. the rural idyll remains strongly evocative in most industrialized societies. /平静快乐的田园生活一直在多数工业化社会中被深深缅怀。
+		7. But the upper middle class idyll of his childhood years was soon shattered. /但他童年时期的上层中产阶级田园诗般的生活很快就被打破了。
+		8. idyllist
+		9. idyllic
 	8. ideoplasty
 	9. ideotype
 7. **vis-, vid-** = see, 表示“看”。拉丁语 (过去分词 visus) videre "to see" 进入古法语演变成 veue, 对应 view。
@@ -1410,8 +1438,16 @@
 	14. invidious
 		1. 引起反感的, 惹人不快的, 不公平的, 诽谤的
 		2. in-不 + vid-看 + -ious形容词后缀 → 看上去不好的 → 有害的。
-		3. **pernicious**很有害的;**discriminatory**有识别力的;**unfair**不公平的，不公正的;**distasteful**使人不愉快的;**insidious**隐伏的;**discrimination**歧视;**perverse**任性的,固执的;**unwarranted**没有根据的, 无正当理由的;**unjust**不公平的，不公正的;**noxious**有害的;**disingenuous**不真诚的;
-	16. supervise
+		3. (obnoxious, invidious, pernicious, indignity)
+		4. **pernicious**很有害的;**discriminatory**有识别力的;**unfair**不公平的，不公正的;**distasteful**使人不愉快的;**insidious**隐伏的;**discrimination**歧视;**perverse**任性的,固执的;**unwarranted**没有根据的, 无正当理由的;**unjust**不公平的，不公正的;**noxious**有害的;**disingenuous**不真诚的;
+		5. invidious accusations. /招致不满的指控
+		6. she'd put herself in an invidious position. /她陷入了招人嫉妒的处境。
+		7. it seems invidious to make special mention of one aspect of his work /只强调他工作的一个方面似乎不太公平。
+		8. making invidious distinctions between the ‘deserving’ and the ‘undeserving’ poor /在“值得救济”的穷人和“不值得救济”的穷人之间制造令人厌恶的区分
+		9. People began to say " Who are they? " but no invidious inquiries were made /人们开始问起“他们是谁呀”？但是并没有人很讨嫌地去询问。
+		10. It's a really invidious process, and it creates those feelings of inferiority at the bottom. /这是一个非常令人反感的过程，它在底层造成了自卑感。
+		11. For surely no two men were ever left in a position so invidious and irritating. /因为肯定没有两个人处于如此令人反感和恼人的境地。
+	15. supervise
 		1. _v._ [administer](dic://administer), [administrate](dic://administrate), [observe](dic://observe)
 			1. [control](dic://control) 含义广泛的常用词，指对人或物施以约束或控制的力量。  
 			2. [direct](dic://direct) 侧重行使领导或指导权。  
@@ -1421,7 +1457,7 @@
 			6. [supervise](dic://supervise) 侧重指运用本身的或被授予的权力来管理、检查工作，含监督意味。  
 			7. [administer](dic://administer) 指官方的或正式的对事务的管理
 		2. **oversee**监督;**supervision**监督, 管理;**manage**管理;**instruct**命令;**undertake**担任, 承揽;**inspect**检查;**administer**管理, 支配;**oversaw**视察;**coordinate**协调;**monitor**监视器，监听器，监控器，班长;**appoint**任命;
-	17. revise
+	16. revise
 		1.  [revision](dic://revision), [revisal](dic://revisal), [rescript](dic://rescript)
 		2.  [retool](dic://retool)
 		3. _n._ [rewriting](dic://rewriting), [revising](dic://revising)
@@ -1449,28 +1485,40 @@
 		12. revised
 		13. revisal
 		14. revisable
-	18. previse
-		1. [forewarn](dic://forewarn)
-		2. [anticipate](dic://anticipate), [foreknow](dic://foreknow), [foresee](dic://foresee)
-		3. _v._ [warn](dic://warn), [know](dic://know)
-		4. _[forewarn previse](dic://forewarn%20previse)_ 预先警告
-		5. _[i previse](dic://i%20previse)_ 从事职业
-		6. _[radim mozda i previse](dic://radim%20mozda%20i%20previse)_ 从事职业
-	19. improvise
-		1. _v._ [perform](dic://perform), [execute](dic://execute), [do](dic://do), [cope](dic://cope), [get by](dic://get by), [make out](dic://make out), [make do](dic://make do)
-		2. **improvisation**即兴创作;**rehearse**排练;**adapt**使适应;**improv**即兴;**invent**发明;**creatively**创造性地;**sing**唱歌;**innovate**改革;**memorize**记住，背熟;**compose**作曲;**spontaneity**自然性;
-		3. _[improvise](dic://improvise)_  vt. 即兴创作；即兴表演；临时做；临时提供; vi. 即兴创作；即兴表演；临时凑合; 
-		4. _[improvised](dic://improvised)_  v. 即席创作表演；凑合出……；临时做；临时提供（improvise 的过去式及过去分词）; adj. 即兴的;
-		5. improvisor
-		6. improviser
-		7. improvisatory
-		8. improvisator
-		9. improvisation
+	17. previse 
+		1. (bode, portend, auspicate, prognosticate, omen, presage, foreshadow, augur, foretell, prefigure, forecast, predict, previse)
+		2. vt. 预知；预先警告
+		3. [forewarn](dic://forewarn)
+		4. [anticipate](dic://anticipate), [foreknow](dic://foreknow), [foresee](dic://foresee)
+		5. _v._ [warn](dic://warn), [know](dic://know)
+		6. _[forewarn previse](dic://forewarn%20previse)_ 预先警告
+		7. _[i previse](dic://i%20previse)_ 从事职业
+		8. _[radim mozda i previse](dic://radim%20mozda%20i%20previse)_ 从事职业
+		9. he had intelligence to previse the possible future. /他有智力预见可能的未来。
+		10. The study previse with provides what scientists say is the first evidence of a genetic link between a fat cell gene and colon cancer. /研究给出了科学家说的脂肪细胞和结肠癌之间基因联系的第一份证据。
+	18. improvise
+		1. vt. 即席创作, 临时做
+		2. im-不，非 + provise【准备】，即没准备，临时做的，即兴准备。
+		3.  im-,不，非，-provise,准备，词源同 provide.即没准备，临时做的，即兴准备。
+		4. _v._ [perform](dic://perform), [execute](dic://execute), [do](dic://do), [cope](dic://cope), [get by](dic://get by), [make out](dic://make out), [make do](dic://make do)
+		5. **improvisation**即兴创作;**rehearse**排练;**adapt**使适应;**improv**即兴;**invent**发明;**creatively**创造性地;**sing**唱歌;**innovate**改革;**memorize**记住，背熟;**compose**作曲;**spontaneity**自然性;
+		6. _[improvise](dic://improvise)_  vt. 即兴创作；即兴表演；临时做；临时提供; vi. 即兴创作；即兴表演；临时凑合; 
+		7. _[improvised](dic://improvised)_  v. 即席创作表演；凑合出……；临时做；临时提供（improvise 的过去式及过去分词）; adj. 即兴的;
+		8. improvised a dinner for the unexpected guests; improvise a makeshift tourniquet. /为不速之客准备晚餐；提供备用的止血带
+		9. his stand-up routine depends on improvised observations. /站在观众面前表演的固定节目取决于他会临场即兴发挥。
+		10. The actors improvised a scene based on an audience suggestion /演员们根据观众的建议即兴创作了一个场景。
+		11. During classes he would often improvise, leaving his classmates and teachers in fits of laughter. /在课堂上，他经常即兴创作，给同学和老师带来了许多欢笑。
+		12. Finding those is hard-like composing music, or improvising jazz. /写出这样的句子就如同作曲或即兴爵士乐一样难。
+		13. improvisor
+		14. improviser
+		15. improvisatory
+		16. improvisator
+		17. improvisation
 			1. [temporary expedient](dic://temporary expedient)
 			2. [extemporization](dic://extemporization), [extemporisation](dic://extemporisation)
 			3. _n._ [creation](dic://creation), [expedient](dic://expedient), [performance](dic://performance)
 			4. **improv**即兴;**improvise**临时制作, 临时凑成;**spontaneity**自然性;**jazz**爵士乐，爵士舞;**musicianship**音乐技巧;**solos**独奏;**experimentation**实验;**rehearsal**练习, 排练, 排演;**virtuoso**艺术品鉴赏家;**choreography**舞台舞蹈设计;**musical**音乐的;
-	20. provide, provided
+	19. provide, provided
 		1. providence, provident
 			1. n. 深谋远虑, 天意, 天命n.上帝; 苍天(Providence)
 			2. _n._ [state capital](dic://state capital), [care](dic://care), [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship), [fortune](dic://fortune), [destiny](dic://destiny)
@@ -1518,9 +1566,9 @@
 				9. _provisional measure_ 临时措施
 				10. _provisional acceptance_ 临时验收；临时接受
 		3. provisor, provisory
-	21. televise
-	22. polyhistor
-	23. prudence, prudent, 
+	20. televise
+	21. polyhistor
+	22. prudence, prudent, 
 		1. _adj._ [circumspect](dic://circumspect), [discreet](dic://discreet), [judicious](dic://judicious), [wise](dic://wise), [heady](dic://heady), [provident](dic://provident), [prudential](dic://prudential)
 		2. _n._ [imprudent](dic://imprudent)
 			1. [careful](dic://careful) 侧重做事谨慎、留心，特别注意一些细节地方。  
@@ -1532,25 +1580,25 @@
 			1. [primness](dic://primness), [prudishness](dic://prudishness), [Grundyism](dic://Grundyism)
 			2. _n._ [modesty](dic://modesty), [modestness](dic://modestness)
 			3. **modesty**谦逊;**immorality**不道德,无道义;**misogyny**厌恶女人;**propriety**①礼貌,规矩;**obscenity**淫秽;**censorship**审查员的职权;**hypocrisy**伪善;**chastity**纯洁;**nudity**裸露;**sexuality**性征;**femininity**妇女特质,柔弱性,温柔;
-	24. purvey
+	23. purvey
 		1. 1 - 来自古法语 porveoir,准备，供应，安排，来自拉丁语 providere,准备，预见，预防，词源同provide.
 		2. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
 		3. **procure**获得，取得;**revel**狂欢;**perpetuate**使永存;**disseminate**散布, 传播;**embody**体现，使具体化;
 		4. the majority of newspapers purvey a range of right-wing attitudes. /多数报纸都提供一系列右翼观点。
 		5. They purvey food for the army /他们供应食品给军队。
-	26. revue
+	24. revue
 		1. n. 时事讽刺歌舞剧
 		2. [review](dic://review)
 		3. _n._ [variety show](dic://variety show), [variety](dic://variety)
 		4. **cabaret**卡巴莱歌舞表演;**vaudeville**杂耍;**burlesque**作戏;**troupe**剧团, 艺术团体;**comedy**喜剧;**musical**音乐的;**Broadway**百老汇;**theatre**电影院，戏院;**skits**演练;**farce**笑剧,闹剧,滑稽戏;**skit**讽刺文;
-	28. survey
-	29. stratovision
-	30. ultravisuscope
-	31. vedette
-	32. voyeur
+	25. survey
+	26. stratovision
+	27. ultravisuscope
+	28. vedette
+	29. voyeur
 		1. **cuckold**与…的妻子通奸使其丈夫戴绿帽子;**handjob**手淫;**gangbang**一群男子与一女子的淫乱活动;**nudist**裸体主义的;**masturbate**)进行手淫;**shemale**女人;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**porn**<口>色情文学，色情描写，色情刊物;**masturbation**手淫;**naked**裸体的;**slut**懒妇;
-	33. wise
-	34. wit
+	30. wise
+	31. wit
 8. guise
 	1. 印欧语w音，日耳曼人用w表示；罗曼语族（包括后来诺曼征服的人）念起来比较费劲，而且他们的语言里没有w字母，用gu表示这个w音（后期更是简化为g）音。如guard和warden，waranty和guaranty，warrior和guerrilla，guise和wise等。两种形式在不同时期通过不同途径进入英语并保留到现在。
 	2. **pretense**借口;**pretext**托辞;**ostensibly**表面上地;**ruse**诡计;**auspices**支持;**disguise**假装;**behest**命令;**cloak**斗蓬;**semblance**外表;**moniker**名字;**under**低于，少于;
@@ -2631,46 +2679,65 @@
 		2. envenom
 			1. **proc**程序，步骤;**mana**神力，超自然力量;**poison**使中毒，放毒于;**haste**匆忙;**poisons**毒药，毒物;**venom**毒液;**melee**混战，格斗;**mage**博学者;**dagger**匕首，短剑;**rupture**破裂;**buff**浅黄色;
 2. **vener- =** = love, sexual desire; loveliness, charm，表示魅力、性等。源自拉丁语 venari "to hunt."
-	1. venerate, venerable, veneration
-		1. [fear](dic://fear), [reverence](dic://reverence), [awe](dic://awe)
-		2. [idolatry](dic://idolatry), [devotion](dic://devotion), [cultism](dic://cultism)
-		3. _n._ [emotion](dic://emotion), [worship](dic://worship)
-		4. **reverence**敬礼;**adoration**爱慕;**devotion**热爱;**piety**虔诚;**saint**圣徒;**iconography**图解,插图;**shrine**圣地;**admiration**钦佩;**idolatry**偶像崇拜;**worship**崇拜;**deity**神;
-	2. reverence
-		1. [fear](dic://fear), [awe](dic://awe), [veneration](dic://veneration)
-		2. [fear](dic://fear), [revere](dic://revere), [venerate](dic://venerate)
-		3. _n._ [emotion](dic://emotion), [attitude](dic://attitude), [mental attitude](dic://mental attitude)
-		4. _v._ [respect](dic://respect), [esteem](dic://esteem), [value](dic://value), [prize](dic://prize), [prise](dic://prise)
-		5. _n._ [irreverence](dic://irreverence)
-		6. **admiration**钦佩;**adoration**爱慕;**deference**顺从;**devotion**热爱;**humility**谦卑，谦逊;**disdain**蔑视;**respect**尊敬，尊重;**affection**感情;**awe**使敬畏;**piety**虔诚;**majesty**威严;
-		7. adoration, saint, shrine, martyrs, pious, deity 
-		8. famed, illustrious, esteemed, beloved, storied, fabled, stalwart, legendary
-			1. Crowds of pilgrims come here to venerate Saint Nicolas
-			2. Mozart was venerated as one of the most influential musicians in the century.
-			3. And his creative record chimes perfectly with the spirit of an age that tolerates, even venerates, unfinished work-all the more so if it is cryptic.
-			4. procreate veneration
-			5. veneration of Maria
-			6. I acquired lasting respect for tradition and veneration for the past
-			7. Her veneration for traditional learning never wavered.
-	3. venereal (venery, intercourse)
+	1. venerate
+		1. (adoration, saint, shrine, martyrs, pious, deity)
+		11. (famed, illustrious, esteemed, beloved, storied, fabled, stalwart, legendary)
+		2. Venus（金星）：爱神维纳斯  
+		3. 在罗马神话中，爱神被称为“维纳斯”（Venus），等于希腊神话中的阿芙洛狄忒（Aphrodite）。在天文学上，金星就是用她的名字命名的。维纳斯的名字Venus在拉丁语中就是“美、性爱、情欲、渴望”之意，并衍生出“崇拜”之意。从她的名字衍生出一些跟性爱、崇拜有关的单词。  
+		4. Venus：['viːnəs] n.金星，维纳斯  
+		5. Venusian：[vi'nju:siən] adj. 金星的，太白星的  
+		6. venereal：[vəˈnɪəriəl] adj.性欲的，性交的，由性交传染的  
+		7. venery：['vɛnəri] n. 性欲，纵欲；狩猎  
+		8. venerate：['vɛnəret] vt. 崇敬，尊敬  
+		9. veneration：[venə'reɪʃ(ə)n] n. 尊敬；崇拜
+		10. [fear](dic://fear), [reverence](dic://reverence), [awe](dic://awe)
+		11. [idolatry](dic://idolatry), [devotion](dic://devotion), [cultism](dic://cultism)
+		12. _n._ [emotion](dic://emotion), [worship](dic://worship)
+		13. _v._ [respect](dic://respect), [esteem](dic://esteem), [value](dic://value), [prize](dic://prize), [prise](dic://prise)
+		14. **reverence**敬礼;**adoration**爱慕;**devotion**热爱;**piety**虔诚;**saint**圣徒;**iconography**图解,插图;**shrine**圣地;**admiration**钦佩;**idolatry**偶像崇拜;**worship**崇拜;**deity**神;
+		15. **reverence**敬礼;**saint**圣徒;**adoration**爱慕;**shrine**圣地;**profess**公开表示;**martyrs**烈士;**deity**神;**worship**崇拜;**admire**欣赏，赞赏;**pious**虔诚的;**martyr**烈士;
+		16. Most Italians venerate the name of Dante. /大多数意大利人崇拜但丁的名字。
+		17. For thousands of years, it has been venerated by Native Americans as a sacred medicine. /几千年来，它都被美洲印第安人尊崇为一种圣药。
+		18. Mozart was venerated as one of the most influential musicians in the century /莫扎特被尊崇为本世纪最有影响力的音乐家之一。
+		19. Crowds of pilgrims come here to venerate Saint Nicolas
+		20. Mozart was venerated as one of the most influential musicians in the century.
+		21. And his creative record chimes perfectly with the spirit of an age that tolerates, even venerates, unfinished work-all the more so if it is cryptic.
+		22. procreate veneration
+		23. veneration of Maria
+		24. I acquired lasting respect for tradition and veneration for the past
+		25. Her veneration for traditional learning never wavered.
+		26. venerable
+		27. veneration
+	3. reverence
+		1. n. 尊敬, 敬重, 敬礼, 尊严, 威望  
+		2. vt. 崇敬, 敬畏, 尊敬
+		3.  来自 revere,尊敬，崇敬。
+		4. [fear](dic://fear), [awe](dic://awe), [veneration](dic://veneration)
+		5. [fear](dic://fear), [revere](dic://revere), [venerate](dic://venerate)
+		6. _n._ [emotion](dic://emotion), [attitude](dic://attitude), [mental attitude](dic://mental attitude)
+		7. _v._ [respect](dic://respect), [esteem](dic://esteem), [value](dic://value), [prize](dic://prize), [prise](dic://prise)
+		8. _n._ [irreverence](dic://irreverence)
+		9. **admiration**钦佩;**adoration**爱慕;**deference**顺从;**devotion**热爱;**humility**谦卑，谦逊;**disdain**蔑视;**respect**尊敬，尊重;**affection**感情;**awe**使敬畏;**piety**虔诚;**majesty**威严;
+	4. venereal (venery, intercourse, voluptuous)
 		1. venery, 性欲，纵欲；狩猎
 		2. **venereal disease (old), STD (new)**
 		3. Adultery and **venereal** disease not cool, they griped. Also parliament was like, maybe what we need is a lot more censorship and fewer theaters
 		4. Syphilis was the most feared of **venereal** diseases
 		5. Aids and some **venereal** diseases, which are called century fatal diseases, are now doing serious harm to international community.
 		6. Yours, I understand, is the lamentable consequence of venery
-	4. venial
+	5. venial (piddling, facile, )
 		1. a. 可原谅的, 可宽恕的, 轻微的
-		2.  [minor](dic://minor)
-		3. [excusable](dic://excusable), [forgivable](dic://forgivable)
-		4. _adj._ [pardonable](dic://pardonable)
-		5. _n._ [unpardonable](dic://unpardonable)
-		6. **sin**过失;**sins**罪恶;**sinful**有罪的;**sinner**罪人;**mortal**致命的;**cardinal**红衣主教;**sinners**罪人;**transgression**犯罪;**habitual**惯常的;**pernicious**很有害的;**carnal**肉体的;
-		7. forgivable, remissible, venial
-		8. mortal sin, venial sin, misdemeanor, felony, probation 
+		2. - 来自拉丁语 venus,美丽，爱慕，渴求，词源同 Venus.引申词义纵容的，可原谅的。
+		3.  [minor](dic://minor)
+		4. [excusable](dic://excusable), [forgivable](dic://forgivable)
+		5. _adj._ [pardonable](dic://pardonable)
+		6. _n._ [unpardonable](dic://unpardonable)
+		7. **sin**过失;**sins**罪恶;**sinful**有罪的;**sinner**罪人;**mortal**致命的;**cardinal**红衣主教;**sinners**罪人;**transgression**犯罪;**habitual**惯常的;**pernicious**很有害的;**carnal**肉体的;
+		8. forgivable, remissible, venial
+		9. mortal sin, venial sin, misdemeanor, felony, probation 
 			1. burglary, trespass, disorderly 
-		9. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
-		10. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
+		10. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
+		11. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
 	6. venison
 3. Venus
 4. wean
@@ -3185,7 +3252,7 @@
 				1. reinversion
 				2. isoinversion
 			9. inversely
-	16. avert (obviate, obliviate )
+	16. avert (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
 		1. a-离开 + vert-转 → 转开 → 避开。
 		2. 1 - a-,从，从...离开，-vert,转，词源同 convert,皈依。
 		3. [debar](dic://debar), [obviate](dic://obviate), [deflect](dic://deflect), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
@@ -5227,22 +5294,24 @@
 		10. deliquescent
 			1. **crystalline**水晶的;**liquid**液体的;**vapour**蒸气;**vapor**蒸汽;**insoluble**不能解决的,不溶的;**gaseous**气态的，气体的;**soluble**可溶的，可溶解的;**amorphous**无定形的;**aqueous**水的，水般的;**alkali**碱;**powdery**粉的;
 		11. deliquescence
-	3. prolix (prole, prolific, profligate, proliferate)
-		1. 源自拉丁语 prolixus "poured forth," 词根：pro-向前 + lix-流动，液化，引申词义繁琐的，罗嗦的。
-		2. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
-		3. [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)
-		4. editing a prolix manuscript. /编辑冗长的稿子
-	4. liqueur, liquor
+	3. prolix 
+		1. (prole, prolific, profligate, proliferate, prolix)
+		2. (succint, terse, compendious, concise, )
+		3. 源自拉丁语 prolixus "poured forth," 词根：pro-向前 + lix-流动，液化，引申词义繁琐的，罗嗦的。
+		4. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
+		5. [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)
+		6. editing a prolix manuscript. /编辑冗长的稿子
+	5. liqueur, liquor
 		1.  [spirits](dic://spirits), [booze](dic://booze), [hard drink](dic://hard drink), [hard liquor](dic://hard liquor), [John Barleycorn](dic://John Barleycorn), [strong drink](dic://strong drink)
 		2. **booze**酒;**alcohol**酒精，乙醇;**whiskey**威士忌酒;**beer**啤酒;**vodka**伏特加酒;**drink**喝，饮;**whisky**威士忌酒;**rum**古怪的;**beverage**饮料;**drinks**饮料，饮品;**wine**酒，葡萄酒;
 		3. [alcohol](dic://alcohol), [alcoholic beverage](dic://alcoholic beverage), [intoxicant](dic://intoxicant), [inebriant](dic://inebriant), [liquid](dic://liquid), [broth](dic://broth), [stock](dic://stock)
 		4.  [pot liquor](dic://pot liquor), [pot likker](dic://pot likker)
 		5. a splash of liqueur on the cake. /蛋糕上的少许甜酒
-	5. liquid
-	6. liquamatic
-	7. liquefactent
-	8. liquidensitometer
-	9. soliqueous
+	6. liquid
+	7. liquamatic
+	8. liquefactent
+	9. liquidensitometer
+	10. soliqueous
 3. **lixiv-** 表示“浸滤”。源自拉丁语 lixa "lye."
 	1. lixiviation
 	2. lixiviate

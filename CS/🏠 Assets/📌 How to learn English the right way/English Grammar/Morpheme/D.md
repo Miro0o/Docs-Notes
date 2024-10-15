@@ -140,65 +140,92 @@
 
 ### ⭐ + \*deik- +
 1. **dict-, dic-** = say, declare, 表示“说话，断言”。来自拉丁语 dicere "to say, to declare," 及其过去分词。
-	1. deictic, apodeictic (apodictic), epideictic, syndic
-	2. addict, benedict, contradict, edict, interdict, predict, verdict, indict (impeach, incriminate, criminate, accuse)
-		1. jurisdiction
-		2. malediction, benediction, benedictory, valediction, valedictory
-		3. vindictive
-		4. abdicable
-	3. abdicate
-	4. dedicate
-	5. dictate
-	6. indicate, 
-	7. predicate
+	1. deictic
+	2. apodeictic (apodictic),
+		1. a. 命题必然真的, 无可置疑的
+	3. epideictic
+	4. syndic
+	5. addict
+	6. benedict
+		1. malediction, benediction, benedictory, valediction, 
+	7. contradict
+	8. edict
+	9. interdict
+	10. predict 
+	11. verdict 
+	12. indict (excoriate)
+		1. (impeach, incriminate, criminate, accuse)
+		2. 
+	13. jurisdiction
+	14. abdicate
+		1. vt. 正式放弃  
+		2. vi. 退位, 退出, 辞职
+		3. ab-离开 + dic-说, 命令 + -ate, 表动词 → 不再命令 → 退位。
+		4. abdicate（退位）：君主主动放弃王位  
+		5. 英语单词abdicate来自拉丁语abdicatus，是动词abdicare的过去分词形式，而后者由ab（away，离开）和dicare（宣布）构成，字面意思就是“宣布脱离关系”。在古罗马法中，abdicatus表示与某家庭成员断绝关系，如断绝父子关系，相当于剥夺儿子的继承权。进入英语后演变为abdicate，更常用来表示辞掉某项正式职位。但与resign（辞职）不同，abdicate专指放弃国家的最高职位，通常表示君主或教皇宣布退位。  
+		6. 在近代史中，最著名的一次abdication莫过于英国国王爱德华八世的退位。1936年，爱德华在一片反对声中，宣布与美国寡妇辛普森夫人结婚，并为此自愿退位。这位“不爱江山爱美人”的国王是英国历史上唯一一位自愿退位的国王。  
+		7. abdicate：['æbdɪkeɪt] v.退位，放弃  
+		8. abdication：[,æbdə'keʃən] n.退位，放弃权利
+		9. abdicable
+	15. dedicate
+	16. dictate
+	17. indicate 
+		1. (bespeak, indicate, point, signal)
+	18. predicate
 		1. predicability, predicable, predicably, predicament
-	8. vindicate
+	19. vindicate
 		1. (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 		2. vindicability
 		3. vindicable
-	10. dictaphone
-	11. diction
+		4. vindictive
+	20. dictaphone
+	21. valedictory
+	22. diction
 		1. diction - 该词16世纪始用于英语，它来自中世纪拉丁语dictiōnārium 'collection of words'（词集）。但若再进一步追本溯源，我们就会发现它和另一词diction（措词）都源于拉丁语dictiō（词）和dīcere（说）。英语中有不少带有拉丁词根dic-或dict-的词，其终极词源都是dīcere（说），都与“说”或“话”有关。例如benediction是“祝福”（a saying of good words），其前缀bene-是well（好）的意思；malediction是“诅咒”（asaying of bad words），其前缀mal-是“恶”或“坏”的意思。再如contradict意为“顶撞”（speak against or the opposite of another's words），其前缀contra-是“反对”或“与……相反”的意思；predict意为“预言”（say beforehand），其前缀pre-是“前”的意思。又如dictate意为“口授”或“听写”，其派生词dictator则指“独裁者”；verdict意为“裁决”，其中ver(e)是“真实地”的意思；edict意为“法令”、“敕令”，其前缀e- = ex-，含有“（话）向外（传）”之义；dictum意为“名言”或“格言”（a saying or pronouncement），等等。
 		2. dict-说 + -ion, 表名词 → 说话状态 → 措词。
-	12. dictograph
+	23. dictograph
 		1. dict-说话 + -graph仪器
-	13. dictum
+	24. dictum (proverb, dictum, )
 		1. dict-说 + -um → 说[出]的话 → 格言。
-	14. theodicy
+		2.  [pronouncement](dic://pronouncement), [say-so](dic://say-so)
+		3.  [obiter dictum](dic://obiter dictum)
+		4. _n._ [declaration](dic://declaration), [opinion](dic://opinion), [legal opinion](dic://legal opinion), [judgment](dic://judgment), [judgement](dic://judgement)
+		5. **adage**格言，谚语;**axiom**公理;**principle**原理;**proverb**谚语，格言;**motto**座右铭，格言;**doctrine**教义;**precepts**戒律;**mantra**颂歌;**dogma**教条，教理;**paraphrase**释义;**rule**统治;
+	25. theodicy
 		1. theo-神 + dic-说 + -y
-	15. condition
+	26. condition
 		1. 1 - 来自法语。con-,表强调，-dit,说，讨论，词源同 dictate,dictionary.字母 c 脱落比较benefit,benefactor.原指描述的情况，规定的情况，后指客观情况。
-	16. ditto
+	27. ditto
 		1. [ditto mark](dic://ditto mark)
 		2. _n._ [mark](dic://mark)
 		3. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell)
 		4. **BTW**随便说一下;**yep**是;**yes**是;**yup**是的;**nope**不是，没有;**ugh**啊;**anyhow**无论如何;**heh**嗨!;**duh**咄;**yeah**是;**dunno**我不知道;
 		5. _say ditto to_ [口语]同意…的意见，对…表示同意，赞成(某种观点)
-	17. ditty
+	28. ditty
 		1. 1 - 来自拉丁语 dictatum,说，说唱，词源同 diction.
 		2. _n._ [song](dic://song), [vocal](dic://vocal)
 		3. **song**歌曲;**lyric**抒情的;**jingle**发出叮当声;**ballad**歌谣，民谣;**melody**旋律;**tune**曲调, 曲子;**catchy**引人注意的;**riff**反复乐节;**lyrics**歌词;**hymn**赞美诗;**anthem**赞美诗;
-	18. index
+	29. index
 		1. 来自拉丁语 indicare,指出，说明，来自 in-,进入，使，-dic,指出，说，词源同 digit,indication.引申词义指数，标志，特征等。其复数形式为 indices.
-	19. indite (indict)
+	30. indite (indict)
 		1. 单词A：indict [ɪn'daɪt] vt.控告；起诉；[法] 揭发，单词B：indite [ɪn'daɪt] vt.写成文章。两个单词意思不同，但读音相同，而更重要的是，它们同根。拉丁词根dict-表to speak，indict控告，那是要把想要说（控诉）的东西（dict-）写出来，而indite也是把要说的话写出来，只不过不在法律方向了。 ​​​​
 		2. _v._ [create verbally](dic://create verbally)
 		3. **jot**略记;**compose**作曲;**likewise**也;**furnish**供应;**assemblage**聚集;**confine**限制;**moreover**此外;**nigh**近于;**write**写，写字;
 		4. [write](dic://write), [compose](dic://compose), [pen](dic://pen)
-	20. paradigm
+	31. paradigm
 		1. para-旁边 + digm-=dict-说、展示 → 在旁边显示给(别人) → 示范。
 		2.  [prototype](dic://prototype), [epitome](dic://epitome), [image](dic://image)
 		3.  [substitution class](dic://substitution class)
 		4. _n_ [inflection](dic://inflection), [inflexion](dic://inflexion), [model](dic://model), [example](dic://example), [class](dic://class), [category](dic://category), [family](dic://family)
 		5. **shift**移动;**mindset**心态;**dichotomy**一分成二,对分;**notion**概念;**theory**理论;**framework**构架;**approach**接近;**postmodern**后现代主义的;**concept**观念，概念;**top-down**组织管理严密的;**mechanistic**机械学的;
 		6. _paradigm shift_ 典范转移；思考模式的转移
-	21. preach
+	32. preach
 		1. 1 - 来自古英语 predician,传道，布道，借自古法语 preechier,传道，布道，来自拉丁语 praedicare,公开宣称，通知，宣布，公告，来自 prae,在前面，dicare,说，宣布，公告，词源同 diction,predict.引申贬义词义说教。
 		2. preachy
 			1. **corny**谷类的;**condescending**降低身份的,屈尊的;**pretentious**自命不凡的;**judgmental**审判的;**crass**粗鲁的;**cliche**陈词滥调;**snarky**恶声恶气的，咬人的;**whiny**烦躁的;**pompous**浮夸的;**pushy**有进取心的;**overbearing**专横的,傲慢的;
 			2. _adj._ [instructive](dic://instructive), [informative](dic://informative)
 			3. _n._ [uninstructive](dic://uninstructive)
-	22. vendetta
+	33. vendetta
 		1. 1 - 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
 		2. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
 3. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
@@ -225,55 +252,85 @@
 ### + ⭐ \*dek- +
 #### + \*dek- (1) + = to take, accept, to receive, greet, be suitable
 1. **dec-, decor-** = 原意表示“美丽”，引申为“可接受的、装饰”等。源自拉丁语 decus "grace, ornament."
-	1. decor, decorate
-	2. decorous, decorum
-		1. [becoming](dic://becoming), [comely](dic://comely), [comme il faut](dic://comme il faut), [decent](dic://decent), [seemly](dic://seemly)
-		2. _adj._ [sedate](dic://sedate), [staid](dic://staid), [proper](dic://proper)
-		3. _n._ [indecorous](dic://indecorous), [indelicate](dic://indelicate), [improper](dic://improper)
-		4. **dignified**高贵的;**austere**简朴的;**agreeable**欣然同意的;**tasteful**有鉴赏力的;**stately**庄严的;**boisterous**热闹的;**pious**虔诚的;**sensible**明智的;**restrained**克制的,节制的,受到控制的;**graceful**优美的;**respectable**人格高尚的;
-		5. **civility**礼貌;**decency**正派;**propriety**①礼貌,规矩;**etiquette**礼节，礼仪;**manners**礼貌;**politeness**有礼貌;**modesty**谦逊;**tact**老练，圆通，得体，乖巧;**composure**镇静, 沉着;**dignity**尊严;**formality**拘泥形式, 拘谨;
-		6. indecorum
-	3. bedeck
+	1. decor
+		1. 来自 dec-,美丽，得体，词源同 decent,dignity.用来指装饰，装修。
+		2.  [interior decoration](dic://interior decoration)
+		3. _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation)
+		4. **décor**装饰;**decorating**装潢;**furnishings**家具;**decoration**装饰,装潢;**decorations**装饰品;**furniture**家具;**rustic**乡村的;**deco**装饰派艺术;**ambiance**气氛;**homey**舒适的;**ambience**气氛，布景;
+		5. atrocious decor; atrocious behavior. /糟糕的装饰；恶劣的行为
+		6. The decor has a cool sophistication. /这种装潢设计很是复杂精细。
+		7. the decor is a fascinating mix of antique and modern. /这装饰是古今风格的奇妙混合。
+		8. The trend of slim cutting and simple decor for men's suit, brought up by famous luxury brand Dior Homme, is a retro of mediaevalism. /经典案例：王石地震捐款事件。最近一两年来，上述三种思潮有愈演愈烈的趋势。奥运会马上就要来了,在此想对它们的携带者们说几句话。
+		9. decorate
+		10. decorous, decorum
+			1. [becoming](dic://becoming), [comely](dic://comely), [comme il faut](dic://comme il faut), [decent](dic://decent), [seemly](dic://seemly)
+			2. _adj._ [sedate](dic://sedate), [staid](dic://staid), [proper](dic://proper)
+			3. _n._ [indecorous](dic://indecorous), [indelicate](dic://indelicate), [improper](dic://improper)
+			4. **dignified**高贵的;**austere**简朴的;**agreeable**欣然同意的;**tasteful**有鉴赏力的;**stately**庄严的;**boisterous**热闹的;**pious**虔诚的;**sensible**明智的;**restrained**克制的,节制的,受到控制的;**graceful**优美的;**respectable**人格高尚的;
+			5. **civility**礼貌;**decency**正派;**propriety**①礼貌,规矩;**etiquette**礼节，礼仪;**manners**礼貌;**politeness**有礼貌;**modesty**谦逊;**tact**老练，圆通，得体，乖巧;**composure**镇静, 沉着;**dignity**尊严;**formality**拘泥形式, 拘谨;
+			6. Certainly not those who expect from it only decorous sentiments and normal emotions /那些只希望从人心里寻到高尚的情操和正常感情的人肯定是不会理解的。
+			7. Under the arbor sat the married women, their dark dresses decorous notes in the surrounding color and gaiety /已婚妇女，都坐在凉亭里，她们的深色衣裳在周围的欢快色彩中看来更加显眼。
+			8. " Cross your hands, " commanded Tibeats, with the addition of such a shuddering expression of blasphemy as is not decorous to repeat. /“交叉你的双手， ” 提比茨命令道，还带着一种亵渎神明的颤抖表情， 重复一遍是不礼貌的。
+			9. I did not know the decorous gathering well enough to tell them that they came to Cross Creek as a menace to a young girl's virtue. /我不太了解这次盛大的集会，无法告诉他们他们来克罗斯溪是为了威胁一个年轻女孩的美德。
+		11. indecorum
+		12. indecorous (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent;)
+			1. in-,不，非，decorous,体面的，得体的。
+			2. _adj._ [improper](dic://improper)
+			3. _n._ [decorous](dic://decorous), [proper](dic://proper)
+			4. **vulgar**粗俗的;**distasteful**使人不愉快的;**scandalous**令人反感的;**crass**粗鲁的;**lewd**淫荡的;**profane**世俗的;**inappropriate**不恰当的, 不适宜的;**grotesque**奇形怪状的;**improper**不正确的，错误的;**disgraceful**可耻的,丢脸的,不光彩的;**obscene**淫秽的;
+			5. an indecorous proposition /不道德的要求
+			6. Behind her and her husband were the four Tarleton girls, their red locks indecorous notes in the solemn occasion, their russet eyes still looking like the eyes of vital young animals, spirited and dangerous. /在她和她丈夫身后站着塔尔顿家的四个姑娘，她们的红头发对眼前这严肃的场合不是合适的，她们那红棕色的眼睛和欢蹦乱跳的小动物的眼睛一样，又精神，又让人害怕。
+			7. She could not ignore his **indecorous** behaviour though she loved him very much /尽管她非常爱他却无法忽视他那有失体统的行为。
+	4. bedeck
 		1. be-强调 + deck-装饰 → 装饰。
 		2. **adorn**装饰;**decorate**装饰;**embellish**美化;**glittering**闪闪发亮的;**furnish**供应;**bestow**授予;**flaunt**炫耀;**dazzle**耀眼的光;**revel**狂欢;**draped**垂褶袖;**atop**在…的顶上;
 		3. The duchess bedeck herself with jewel /公爵夫人用珠宝装扮自己。
 		4. The streets are bedecked with red banners /街上红旗招展。
-	4. decency, decent
-		1. _n._ [propriety](dic://propriety), [properness](dic://properness), [correctitude](dic://correctitude), [respectability](dic://respectability), [reputability](dic://reputability)
-		2. _n._ [indecency](dic://indecency)
-		3. **civility**礼貌;**dignity**尊严;**morals**道德;**morality**道德;**honesty**诚实，正直;**fairness**公平;**modesty**谦逊;**propriety**①礼貌,规矩;**integrity**正直;**compassion**怜悯, 同情;**politeness**有礼貌;
-		4. indecency
+		5. he led us into a room bedecked with tinsel. /他把我们领进一间用金属箔片串装饰的房间。
+		6. The cars were all bedecked with flowers for the wedding ceremony /为了结婚仪式汽车都用鲜花装饰起来。
+	5. decency, decent
+		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent;)
+		2. _n._ [propriety](dic://propriety), [properness](dic://properness), [correctitude](dic://correctitude), [respectability](dic://respectability), [reputability](dic://reputability)
+		3. _n._ [indecency](dic://indecency)
+		4. **civility**礼貌;**dignity**尊严;**morals**道德;**morality**道德;**honesty**诚实，正直;**fairness**公平;**modesty**谦逊;**propriety**①礼貌,规矩;**integrity**正直;**compassion**怜悯, 同情;**politeness**有礼貌;
+		5. she had the decency to come and confess. /她有前来坦白的气度。
+		6. I can't afford any of the decencies of life /我过不起体面的生活。
+		7. A journalist should always live up to the ideals of truth, decency, and justice. /记者必须始终践行真实、正直、正义的理想。
+		8. indecency
 3. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
 	1. condign
-		1. 1 - con-,表强调，-dign,价值，值得，词源同 decent,dignity.原指获得应有价值的，也指值得惩罚的，罪有应得的。
-		2. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
-		3. [merited](dic://merited), [deserved](dic://deserved)
+		1.  (germane, fitting, condign, apposite, commensurate)
+		2. 1 - con-,表强调，-dign,价值，值得，词源同 decent,dignity.原指获得应有价值的，也指值得惩罚的，罪有应得的。
+		3. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
+		4. [merited](dic://merited), [deserved](dic://deserved)
 	3. dainty
 		1. 1 - 来自法语，词源同 dignity,尊贵，美丽，字母 g 脱落。
 		2. something considered choice to eat, [delicacy](dic://delicacy), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat)
 		3.  [mincing](dic://mincing), [niminy-piminy](dic://niminy-piminy), [prim](dic://prim), [twee](dic://twee)
 		4. **delicate**微妙的;**petite**娇小的，小个子的;**elegant**高雅的，优雅的;**lacy**花边的;**slender**微薄的;**graceful**优美的;**delectable**令人愉快的;**girly**像少女的;**exquisite**精致的, 精美的;**sparkly**闪耀的;**delicately**优美地;
-		5. disdain (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, disregard, defy,)
-			1.  [contempt](dic://contempt), [scorn](dic://scorn), [despite](dic://despite)
-			2.  [condescension](dic://condescension), [patronage](dic://patronage)
-			3.  [contemn](dic://contemn), [despise](dic://despise), [scorn](dic://scorn)
-			4.  [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [turn down](dic://turn down)
-			5. _n._ [dislike](dic://dislike), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
-			6. _v._ [hate](dic://hate), [detest](dic://detest), [refuse](dic://refuse), [decline](dic://decline)
-			7. **contempt**轻视，蔑视;**scorn**轻蔑;**disgust**厌恶，嫌恶;**admiration**钦佩;**hostility**敌意;**indifference**不关心,不在乎;**displeasure**不快, 不悦, 生气;**distrust**不信任;**disrespect**失礼,无礼;**hatred**憎恨;**fondness**溺爱;
+		5. disdain
+			1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, disregard, defy,)
+			2.  [contempt](dic://contempt), [scorn](dic://scorn), [despite](dic://despite)
+			3.  [condescension](dic://condescension), [patronage](dic://patronage)
+			4.  [contemn](dic://contemn), [despise](dic://despise), [scorn](dic://scorn)
+			5.  [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [turn down](dic://turn down)
+			6. _n._ [dislike](dic://dislike), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
+			7. _v._ [hate](dic://hate), [detest](dic://detest), [refuse](dic://refuse), [decline](dic://decline)
+			8. **contempt**轻视，蔑视;**scorn**轻蔑;**disgust**厌恶，嫌恶;**admiration**钦佩;**hostility**敌意;**indifference**不关心,不在乎;**displeasure**不快, 不悦, 生气;**distrust**不信任;**disrespect**失礼,无礼;**hatred**憎恨;**fondness**溺爱;
 	4. dignify
 		1. dignitary, dignity, 
 	5. indign, indignity
 		1. - adj. 不值得的；可耻的
 		2. in-不 + dign-高贵
-		3. indignation
-		4. indignant
-		5. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
+		3. (obnoxious, invidious, pernicious, indignity)
+		4. indignation
+		5. indignant
+		6. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
 	6. deign
-		1. 1 - 词源同 dignity,尊贵。引申词义屈尊。
+		1. 词源同 dignity,尊贵。引申词义屈尊。
 		2. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
 		3. [condescend](dic://condescend), [descend](dic://descend)
-			1. Then Votini fell to twirling his very handsome white castor hat on the tip of his forefinger; but the boy — and it seemed as though he did it on purpose — did not deign even a glance at the hat
+		4. Then Votini fell to twirling his very handsome white castor hat on the tip of his forefinger; but the boy — and it seemed as though he did it on purpose — did not deign even a glance at the hat
 4. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
 	1. doctrine
 		1. doctrine ['dɒktrɪn] n.主义；学说；教义；信条。单词本意是“教条”，词根含义是遵守和价值（教义有价值，教徒需遵守）。1823年美国提出了Monroe Doctrine门罗主义：美洲是美洲人的美洲”。20世纪初美国又推出了Roosevelt Corollary罗斯福推论：既然美洲是美洲人的美洲，那美国就有权介入美洲事物。 ​​​​
@@ -301,11 +358,11 @@
 		2. documentation
 		3. documentary
 	3. docent
-		1. 1 - 来自 doc-,教，教导，词源同 doctor.
+		1. 来自 doc-,教，教导，词源同 doctor.
 		2. **curator**馆长;**museum**博物馆;**librarian**图书馆馆长;**naturalist**博物学家;**volunteer**自愿;**lecturer**讲师，演讲者;**professor**教授;**educator**教师;**museums**博物馆;**biologist**生物学家;**archaeologist**考古学家;
 		3. Hello, hello. - Volunteer docent Sheldon Cooper reporting for duty. /两位好。 - 自愿讲解员谢尔顿·库珀前来报到。
 	4. docile
-		1. 1 - 来自 doc-,教，教导，词源同 doctor.引申词义可教导的，可驯服的。
+		1. 来自 doc-,教，教导，词源同 doctor.引申词义可教导的，可驯服的。
 		2. indocile
 		3. docility
 		4. **obedient**孝顺的;**timid**羞怯的;**meek**温顺的;**submissive**顺从的, 唯命是从的;**tame**驯服的;**frightened**害怕的;**cuddly**令人想拥抱的;**subdued**被制服的;**gentle**温和的;**aloof**冷淡的;**fearful**可怕的;
@@ -315,14 +372,17 @@
 		2. doctoral
 		3. doctorial
 	6. doge (dodge)
-		1. dogate
-		2. **pope**教皇，罗马教皇;**papal**罗马教皇的;**emperor**皇帝，君主;**duke**公爵，君主;**sultan**苏丹;**Venetian**威尼斯的;
-		3. dogey
-		4. dogery
-		5. doger
-		6. well-doger
-		7. dodgem
-		8. dodgeball
+		2. _n._ [judge](dic://judge), [justice](dic://justice), [jurist](dic://jurist), [magistrate](dic://magistrate)
+		3. **pope**教皇，罗马教皇;**papal**罗马教皇的;**emperor**皇帝，君主;**duke**公爵，君主;**sultan**苏丹;**Venetian**威尼斯的;
+		4. Sorry, everyone, I gotta get home to let out the doge. /- 对不起，大家，我得回家把总督放出来。
+		5. We naturally expect more splendour in the court of a king, than in the mansion-house of a doge or burgo-master. /我们自然期望国王的宫廷比总督或市长的官邸更富丽堂皇。
+		6. dogate
+		7. dogey
+		8. dogery
+		9. doger
+		10. well-doger
+		11. dodgem
+		12. dodgeball
 5. **dox-** =  opinion, 表示“观点”。源自希腊语 dokein "to appear, seem, think."
 	1. doxology
 	2. heterodox
@@ -348,19 +408,29 @@
 			1. _adj._ [inexplicable](dic://inexplicable), [incomprehensible](dic://incomprehensible)
 			2. **paradox**悖论;**contradictory**矛盾的;**contradiction**矛盾;**puzzling**使莫明其妙的;**ironic**讽刺的;**unsettling**使人不安的;**peculiar**特殊的;**strange**陌生的;**baffling**令人困惑的;**bizarre**奇异的;**dichotomy**一分成二,对分;
 		4. paradoxer
-	6. dogma
-		1. 1 - 来自希腊语 dogma,教导，教条，词源同 doctor,doctrine.
+	6. dogma (creed, tenet, dogma, gospel, doctrine)
+		1. 来自希腊语 dogma,教导，教条，词源同 doctor,doctrine.
 		2.  [tenet](dic://tenet)
 		3. _n._ [religious doctrine](dic://religious doctrine), [church doctrine](dic://church doctrine), [gospel](dic://gospel), [creed](dic://creed), [doctrine](dic://doctrine), [philosophy](dic://philosophy), [philosophical system](dic://philosophical system)
 		4. **dogmatic**教条的;**orthodoxy**正统说法;**doctrine**教义;**tenets**信条;**ideology**意识形态;**beliefs**信仰;**belief**相信，信赖;**religion**宗教信仰;**heresy**异教;**theology**神学;**heretical**异教的;
-		5. dogmatic
-			1. **dogma**教条，教理;**orthodoxy**正统说法;**doctrinal**学说的;**heretical**异教的;**theological**神学的;**rigid**严格的;**intolerant**无法忍受的;**reactionary**反动的;**fundamentalist**信奉正统派基督教的人;**orthodox**正统的;**philosophical**哲学的;
-			2. dogmatical
-			3. dogmatics
-		6. dogmatism
-		7. dogmatist
-		8. dogmatize
-		9. 
+		5. People are beginning to question the old dogmas /人们开始质疑旧的信条。
+		6. Instead, it shields science from becoming unchallenged dogma. /正好相反，不断创新让科学免于固步自封。
+		7. Don't be trapped by dogma, which is living with the results of other people's thinking. /不要被教条所迷惑，它诱使你按照他人的思维定式生活。
+		8. dogmatic
+			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+			2. **dogma**教条，教理;**orthodoxy**正统说法;**doctrinal**学说的;**heretical**异教的;**theological**神学的;**rigid**严格的;**intolerant**无法忍受的;**reactionary**反动的;**fundamentalist**信奉正统派基督教的人;**orthodox**正统的;**philosophical**哲学的;
+			3. A lack of willingness to change your categories is dogmatic, and your categories become chains that restrict your growth. /缺乏改变个人分类的意愿是一种教条主义，而你的分类将成为限制你成长的枷锁。
+			4. Science was dry, dogmatic, uncoordinated, insignificant /科学是枯燥的、教条的、不协调的、微不足道的。
+			5. Isn't my safety worth a little sacrifice of dogmatic principle? /难道我的安全不值得教条原则的一点牺牲吗？
+			6. Least of all was any use made of reason, either analytic, synthetic, or dogmatic. /最不重要的是对理性的任何使用， 无论是分析的、综合的还是教条的。
+			7. So proud are these religions and philosophies of their insight into existence, they can't help but accord it universal and dogmatic application. /这些宗教和哲学对自己存在的洞察力是如此引以为豪，甚至于赋予了它普适性、教条化的应用方式。
+			8. Many writers at this time held rigidly **dogmatic** views. /许多作家这一时期刻板地固守教条主义的观点。
+			9. dogmatical
+			10. dogmatics
+		9. dogmatism
+		10. dogmatist
+		11. dogmatize
+		12. 
 
 
 ### + \*deks- +
@@ -1002,18 +1072,19 @@
 		2. [callous](dic://callous), [pachydermatous](dic://pachydermatous)
 		3. 
 	6. obdurate
-		1. obduracy
-		2. obdurability
-		3. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
-		4. [cussed](dic://cussed), [obstinate](dic://obstinate), [unrepentant](dic://unrepentant)
-		5. [flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
-		6. [unregenerate](dic://unregenerate), [unregenerated](dic://unregenerated), [hardhearted](dic://hardhearted), [heartless](dic://heartless)
-		7. [regenerate](dic://regenerate), [softhearted](dic://softhearted), [soft-boiled](dic://soft-boiled)
-	7. darn
+		1. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, )
+		2. obduracy
+		3. obdurability
+		4. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
+		5. [cussed](dic://cussed), [obstinate](dic://obstinate), [unrepentant](dic://unrepentant)
+		6. [flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
+		7. [unregenerate](dic://unregenerate), [unregenerated](dic://unregenerated), [hardhearted](dic://hardhearted), [heartless](dic://heartless)
+		8. [regenerate](dic://regenerate), [softhearted](dic://softhearted), [soft-boiled](dic://soft-boiled)
+	8. darn
 		1. **dang**谴责;**damn**谴责;**pretty**漂亮的;**damned**该死的;**awfully**可怕地;**ridiculously**可笑地;**too**也;**amazingly**令人惊奇地;**unbelievably**难以置信地;**freaking**该死的，使人憎厌的，糟透的;**terribly**可怕地;
-	8. duralumin, durum, durain
+	9. duralumin, durum, durain
 		3. n. 硬粒小麦
-	9. dour
+	10. dour
 		1. adj. 严厉的；顽强的；阴沉的；不爱讲话的
 		2. 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
 		3. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
@@ -1679,6 +1750,11 @@
 		4. microeffect
 		5. ill-effect
 		6. effectuate
+			1. vt. 使发生, 实行, 完成
+			2. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make)
+			3. **facilitate**使便利, 减轻…的困难;**enact**扮演;**accomplish**完成;**initiate**开始，创始;**thwart**反对;**implement**使生效, 贯彻, 执行;**compel**强迫，迫使;**authorize**授权, 批准;**expedient**应急有效的;**induce**引诱;**devise**设计;
+			4. a social program that was axed to effectuate budget cuts. /为实现预算削减而被无情去除的社会项目
+			5. If it were even to take pains to prevent their importation, it would not be able to effectuate it. /即使它竭力阻止它们的进口， 它也无法实现。
 		7. effectual
 		8. effector
 		9. effetive
@@ -1687,17 +1763,70 @@
 		12. bioeffect
 		13. aftereffect
 	7. infect
+		1. in-进入 + fect-做 → 做进去 → 传染进去。
+		2. infectomics
+		3. infective
+		4. infectious
+			1. _adj._ [septic](dic://septic), [infected](dic://infected), [catching](dic://catching), [communicable](dic://communicable), [contagious](dic://contagious), [contractable](dic://contractable), [transmissible](dic://transmissible)
+			2. _n._ [antiseptic](dic://antiseptic), [noninfectious](dic://noninfectious)
+			3. **contagious**传染性的;**disease**病，疾病;**diseases**病害;**infection**传染;**pathogen**病原体;**pathogens**病原体;**infected**被感染的;**malaria**疟疾;**exuberant**兴高采烈的;**influenza**流行性感冒;**smallpox**天花;
+			4. _infectious disease_ 传染病
+			5. _infectious mononucleosis_ 传染性单核细胞增多
+			6. _infectious disease hospital_ 传染病院
+			7. The man was declared infectious and his clothes and bed had to be fumigated. /这人有传染病，他的衣服和床必须用烟熏来消毒。
+			8. All right, Guillermo, your ambition is infectious. /好的 吉列莫 你的野心具有传染性。
+		5. infectiosity
+		6. infection
+		7. infectible
+		8. infected
+		9. disinfect
+			1. _v._ [clean](dic://clean), [make clean](dic://make clean)
+			2. _n._ [infect](dic://infect), [taint](dic://taint)
+			3. **bleach**使漂白，使变白;**bathe**沐浴;**purify**净化;**rinse**冲洗掉;**wipe**擦;**clean**清洁的，干净的;**infect**感染，传染;**wash**洗涤;**infected**被感染的;**rinsing**清水;**contaminated**受污染的;
+			4. You'd think that half-bottle of tequila you drank would've disinfected it. /你想想你喝的半瓶龙舌兰酒 有没有消毒。
+			5. Test rooms are disinfected after each examination to ensure student safety. /每场考试结束都会对考场进行消毒，以确保学生的安全。
+			6. disinfector
+			7. disinfection
+			8. disinfectant
 	8. defect
-		1. microdefect
-		2. indefectible
-		3. defectoscopy
-		4. defectoscope
-		5. defector
-		6. defective
-			1. defectiveness
-			2. defectively
-		7. defection
-	9. benefice
+		1. [shortcoming](dic://shortcoming)
+		2. [fault](dic://fault), [flaw](dic://flaw)
+		3.  [blemish](dic://blemish), [mar](dic://mar)
+		4.  [desert](dic://desert)
+		5. _n._ [imperfection](dic://imperfection), [imperfectness](dic://imperfectness), [disadvantage](dic://disadvantage), [appearance](dic://appearance), [visual aspect](dic://visual aspect)
+		6. _v._ [flee](dic://flee), [fly](dic://fly), [take flight](dic://take flight)
+			1. [error](dic://error) 指思想或行动背离正题轨道或没有得到正确指引而出现的偏差或错误。  
+			2. [fault](dic://fault) 一般指小并且可宽容的缺点、错误。  
+			3. [blunder](dic://blunder) 通常指由于无知或情况不明造成判断或行动上的大错。  
+			4. [flaw](dic://flaw) 指结构或组织上的缺点，如破裂之处。用作比喻意义时，指品格上的缺陷。  
+			5. [mistake](dic://mistake) 最普通用词，泛指思想上、行为上或认识上的判断或理解方面的错误。  
+			6. [shortcoming](dic://shortcoming) 指没有达到所要求的标准、没有充分发展或没尽到职责的不足、缺点或短处。多用复数形式。   
+			7. [defect](dic://defect) 普通用词。指表面上的缺陷，或指人或物本质上的缺点。  
+			8. [slip](dic://slip) 指因疏忽或无意而造成的差错。
+		7. **flaw**瑕疵，缺点;**abnormality**不正常,反常,变态,畸形;**imperfection**不完美;**abnormalities**异常情况;**faulty**有缺点的;**congenital**先天的,天生的;**deficiency**缺乏, 不足, 短缺;**malfunction**故障;**failure**失败;**flaws**缺陷;**irregularities**谬误;
+		8. The defect in the drainage must be remedied /这排水系统的缺陷该设法补救。
+		9. A simple plastic surgery could correct the defect. /一项简单的整形手术就能使之痊愈。
+		10. microdefect
+		11. indefectible
+		12. defectoscopy
+		13. defectoscope
+		14. defector
+		15. defective
+			1. _adj._ [imperfect](dic://imperfect), [abnormal](dic://abnormal), [malfunctioning](dic://malfunctioning), [nonfunctional](dic://nonfunctional)
+			2. n._ [perfect](dic://perfect), [normal](dic://normal), [functioning](dic://functioning)
+			3. **faulty**有缺点的;**damaged**被损坏的;**deficient**有缺点的，有缺陷的;**replacement**代替, 替换, 更换;**improper**不正确的，错误的;**repaired**修好的;**substandard**标准以下的;**malfunction**故障;**unsatisfactory**使人不满意的;**negligent**疏忽的;**incorrect**错误的, 不正确的;
+			4. a defective appliance. /有毛病的器具
+			5. have defective vision /视力不好
+			6. notification of defective products /废品通知单
+			7. We replace defective tubes. /我们更换有毛病的管子。
+			8. exchange defective merchandise at a store /在商店里退还瑕疵品
+			9. complaints over defective goods /对次品的抱怨。
+			10. As a result, these " defective girls" are not faring well academically. /因此，这些" 有缺陷的女孩" 在学业上表现得并不好。
+			11. We mean you're not alone or defective or inept /我们的意思是你不是一个人，不是有缺陷的，也不是无能之人。
+			12. defectiveness
+			13. defectively
+		17. defection
+	19. benefice
 		1. benefit
 			1. beneficial
 			2. beneficiary
@@ -1705,25 +1834,48 @@
 		3. beneficence
 		5. beneficent
 		4. benefactor
-	10. confect
+	20. confect
 		1. n. 蜜饯, 糖果  
 		2. vt. 调制, 混合
-		3. confection
-		4. confectionery, confectioner, 
-		5. confectionary
-	12. defeasible
-	13. defeat
+		3.  [candy](dic://candy)
+		4.  [confection](dic://confection), [comfit](dic://comfit)
+		5. _n._ [sweet](dic://sweet), [confection](dic://confection)
+		6. _v._ [produce](dic://produce), [make](dic://make), [create](dic://create), [assemble](dic://assemble), [piece](dic://piece), [put together](dic://put together), [set up](dic://set up)
+		7. **conjure**变戏法;**concoction**混合;**fabricate**编造, 捏造, 虚构;**dispense**分配，分发;
+		8. confect a dress from odds and ends of fabric /用剩布头凑成一件衣服
+		9. It used in **confect** a series of essence of coffee, herb, fumes and tobacco /主要用于配制咖啡、香草、熏烟和烟草等型香精。
+		10. a group of writers who confected a television series /一组编写电视系列剧的作家
+		11. a trifle confected from angelica and piped cream /用天使酒和裱花奶油配制成的酒浸布丁。
+		12. confection
+			1. _n._ [dainty](dic://dainty), [delicacy](dic://delicacy), [goody](dic://goody), [kickshaw](dic://kickshaw), [treat](dic://treat), [creating from raw materials](dic://creating from raw materials)
+			2. _v._ [assemble](dic://assemble), [piece](dic://piece), [put together](dic://put together), [set up](dic://set up), [tack](dic://tack), [tack together](dic://tack together)
+			3. **concoction**混合;**candy**用糖煮;**sugary**含糖的;**candies**糖果，果饵;**delectable**令人愉快的;**chocolate**巧克力;**dessert**餐后甜点;**cake**蛋糕;**marshmallow**药属葵,药属葵蜜饯;**meringue**调合蛋白;**sweets**糖果;
+			4. the confection of a syllabub. /乳酒冻的调配。
+			5. The gown was a confection of satin and appliqué. /这件上衣是用缎子和花边精心缝制的
+			6. She's tasked with making chocolate confections of different flavors, shapes, and colors. /她负责制作不同风味、形状和颜色的巧克力糖果。
+			7. Their techniques are different, but between them Messrs Bras and Vongerichten created a sophisticated confection /s他们的技术不同，但布拉斯先生和冯热里什唐先生共同创造了一种精致的甜点。
+			8. It's an interesting confection, this, and I think it's one you'll cook at home /这道料理的馅料很有趣 你可以在家里做。
+			9. The jello that gives this confection its structure is like that extracellular matrix in your connective tissue. /这种果冻的结构就像你结缔组织中的细胞外基质。
+		13. confectionery, confectioner, 
+		14. confectionary
+	21. defeasible
+		1. _n._ [indefeasible](dic://indefeasible)
+		2. **inference**推论, 推理, 推断;**conditional**有条件的;**presumption**推测;**predicate**断言;**probabilistic**盖然论的,或然说的;**implicit**暗示的;**contingent**偶然的;
+		3. a defeasible claim to an estate /对地产的宣告无效的要求
+		4. 
+	22. defeat
 		1. de-向下 + feat-做 → 做下去 → 打下去。
 		2. self-defeating
 		3. defeatist
 		4. defeatism
-	15. olfact
-	16. perfect
+	23. olfact
+		1. n. 嗅阈值；嗅觉系数
+	24. perfect
 		1. n. 完成时  
 		2. a. 完美的, 完好的, 理想的, 熟练的, 精确的, 完成式的  
 		3. vt. 使完美, 修改, 使精通, 改善, 使熟练
-	17. prefect
-	18. facile 
+	25. prefect
+	26. facile
 		1. (facile, piddling, trifling, petty, frivolous, superfluous, trivial, minuscule)
 		2. 来自 PIE*dhe,做，放置，词源同 do,fact.即好做的，简单的。后词义贬义化，用来指轻率的，肤浅的。
 		3. _adj._ [superficial](dic://superficial), [effortless](dic://effortless), [articulate](dic://articulate)
@@ -1742,7 +1894,7 @@
 		16. He yearns to have faith in faith, and not in the facile kind either /他渴望笃信信仰，而不是轻率地相信。
 		17. Whenever silence seemed to threaten us and I racked my brain for something fresh to talk about, she broke in with facile chatter. /每当沉默似乎威胁到我们， 我绞尽脑汁想找点新鲜的话题时， 她就会轻松地喋喋不休地插话。
 		18. This spirit has long rocked the colleges in America. It begins, as a rule, during the immaturities and facile impressions of freshman year—sometimes back in preparatory school. /这种精神长期以来一直震撼着美国的大学。通常，它开始于大一新生的不成熟和浅薄印象——有时回到预备学校。
-	20. facility
+	27. facility
 		1. [installation](dic://installation)
 		2.  [adeptness](dic://adeptness), [adroitness](dic://adroitness), [deftness](dic://deftness), [quickness](dic://quickness)
 		3. [readiness](dic://readiness)
@@ -1755,8 +1907,8 @@
 		10. _communication facility_ 通信设备；通信设施
 		11. _storage facility_ 储藏设施；存储设备
 		12. _public facility_ 公共设施
-	21. facilitate, facilitory
-	22. facsimile
+	28. facilitate, facilitory
+	29. facsimile
 		1. fac-做 + simil-一样 + -e，做出来一样的东西，缩写为fax。
 		2. _n._ [copy](dic://copy), [duplicator](dic://duplicator), [copier](dic://copier)
 		3. _v._ [telecommunicate](dic://telecommunicate)
@@ -1766,7 +1918,7 @@
 			4. [reproduction](dic://reproduction) 批按原物复制的产品，着重复制品与原物相似。  
 			5. [facsimile](dic://facsimile) 含义与copy大体相同，但较文雅。
 		4. **photocopy**影印本;**fax**传真;**copy**复制;**reproduction**再现;**reprint**再版;**handwritten**手写的;**typewriter**打字机;**printed**印刷的;**postcard**明信片;**replica**复制品，复制物;**hardback**精装本;
-	23. fact
+	30. fact
 		1. factor
 			1. nilfactor
 			3. nonfactor
@@ -1862,10 +2014,10 @@
 			10. **ambiguity upon the factum**:  事实含糊；翻译；事实含糊英语
 		11. facture
 			1. _[facture](dic://facture)_  n. 制作；发票；制作法​​​​
-	24. feat
-	25. feature
-	26. faculty, facultative
-	27. feckless (bootless, reckless)
+	31. feat
+	32. feature
+	33. faculty, facultative
+	34. feckless (bootless, reckless)
 		1. adj. 无效的；软弱的；没精神的；不负责任的；无气力的
 		2. feck, 缩写自effect【效果，价值】。-less没有，无 → 词义引申为差劲的，品格差的。 
 		3. feckless ['feklɪs] adj.无效的；软弱的；没精神的；不负责任的；无气力的。单词中的feck实际是effect，这样就很好理解了。值得说的是，这个单词是苏格兰作家Thomas Carlyle从苏格兰语引入到英语中来的，另外一个被Thomas Carlyle引入的单词是：outcome结果，结果不就是act or fact of coming out吗？ ​​​​
@@ -1878,7 +2030,7 @@
 		10. two years of feckless negotiations /拖了两年毫无结果的谈判
 		11. The S.E.C. May be feckless, but they're not incompetent /证监会可能会很软弱 但是他们不是没有能力。
 		12. And it creates a fissured response and a feckless attitude towards Russia's land grab in Ukraine. /它对俄罗斯在乌克兰的土地掠夺造成了一种有分歧的反应和一种鲁莽的态度。
-	28. feasance
+	35. feasance
 		1. n. 履行
 		2. _[feasance](dic://feasance)_  n. 履行；履行条件；义务
 		3. It can regulate the non-feasance, adjust the negligence scope and limit tort liabilities. /它可规范不作为，调控过失侵权的范围和限制赔偿责任。
@@ -1911,7 +2063,7 @@
 			2. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
 			3. **accomplice**从犯, 帮凶, 同谋;**murderer**凶手;**perpetrator**做坏事者;**thief**小偷，贼;**sinner**罪人;**adversary**对手, 敌手;**offender**冒犯者;**robber**强盗;**villain**坏人，恶棍;**felon**重罪犯;**spammer**垃圾邮件制作者;
 		10. unfeasable
-	29. manufacture
+	36. manufacture
 		1. n. 产品, 制造  
 		2. vt. 制造, 假造  
 		3. vi. 制造
@@ -1923,11 +2075,11 @@
 		9. manufacturer
 		10. manufactural
 		11. manufacturability
-	30. malefaction
+	37. malefaction
 		1. _[malefaction](dic://malefaction)_  n. 罪行；罪恶；犯罪行为
 		2. malefic
 		3. maleficent, maleficence
-	31. fake
+	38. fake
 		1. 俚语，词源不确定。可能来自 fact-,做，词源同 face,factitious.即人为的，伪造的。
 		2. n. 假货, 欺骗, 诡计  
 		3. a. 假的  
@@ -1941,7 +2093,7 @@
 			1. n. 假货, 伪造签名, 诡计, 骗局
 		9. deepfake
 			1. n. 深度伪造
-	32. fashion
+	39. fashion
 		1. n. 流行, 风尚, 时样  
 		2. vt. 形成, 造, 作
 		3. 来自法语，来自 fash-,做，词源同 face,fact.即做，准备，形象，外表。后来该词用来指时尚，潮流。
@@ -1958,7 +2110,7 @@
 			1. unfashionable
 			2. ultrafashionable
 			3. fashionably
-	33. fetish
+	40. fetish
 		1. fetish（恋物）：非洲原始部落的实物崇拜  
 		2. 在西非和中非的一些原始部落流行传统的实物崇拜，这是一种非常原始的宗教。这些原始部落由于对自然现象缺乏理解，以为许多物体如石块、木片、树枝、弓箭等具有灵性，并赋以神秘的、超自然的性质，以及支配人的命运的力量。他们将这种灵性物品制作成护身符，或当成偶像来进行崇拜。  
 		3. 最初来到西非的葡萄牙航海家、水手和商人接触这些非洲原始部落后，将他们所崇拜的这些护身符或偶像称为feitiço，意思是“人造的”，来自拉丁语facticius（人造的）。1760年，著名人类学家查尔斯•德•布霍斯（Charles De Brosses）在其著作中提到了非洲原始部落的这种实物崇拜，并在葡萄牙语feitiço的基础上构造了法语fétiche，英语单词fetish正是来源于此。  
@@ -1977,32 +2129,32 @@
 		14. fetishist
 			1. fetishistic
 		15. fetishism
-	34. satisfactory
+	41. satisfactory
 		1. satis-足够 + fact-做 + -ory, 表形容词。
 		2. sa-
-	35. tabefaction, labefactionm
+	42. tabefaction, labefactionm
 		1. _[tabefaction](dic://tabefaction)_  n. 消瘦，衰弱
-	36. rubefaction
+	43. rubefaction
 		1. _[rubefaction](dic://rubefaction)_  n. 皮肤发红；使…发红；红化作用
 		2. rubefacient
-	37. refactory, refection
-	38. abortifacient
+	44. refactory, refection
+	45. abortifacient
 		1. _n._ [drug](dic://drug)
 		2. _adj._ [causative](dic://causative)
 		3. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
 		4. **contraceptive**避孕药;**contraception**避孕;**abortion**流产，小产;**progesterone**孕酮,黄体酮;**medicinal**医学的;**uterine**子宫的;**uterus**子宫;**fetus**胎儿，胎;**pill**药丸;**poison**使中毒，放毒于;**pills**丸剂;
-	39. absorbefacient
+	46. absorbefacient
 		1. _[absorbefacient](dic://absorbefacient)_  n. 吸收剂; adj. 吸收性的;
-	40. calefacient, calefactory
+	47. calefacient, calefactory
 		1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
-	41. deficient, deficit
+	48. deficient, deficit
 		1. _adj._ [inadequate](dic://inadequate), [depleted](dic://depleted), [low](dic://low), [poor](dic://poor), [short](dic://short), [lean](dic://lean), [skimpy](dic://skimpy)
 		2. _n._ [adequate](dic://adequate), [standard](dic://standard)
 		3. **deficiency**缺乏, 不足, 短缺;**inadequate**不适当的;**lacking**缺乏的;**insufficient**不足的;**defective**有缺陷的;**woefully**悲伤地;**insufficiency**不充足,不足;**chronically**长期地;**incapable**无能力的, 不会的;**flawed**有缺陷的;**impaired**受损的;
 		4. deficiency
-	42. difficult
-	43. editfice
-	44. efficacious
+	49. difficult
+	50. editfice
+	51. efficacious
 		1. a. 有效的, 灵验的
 		2. [美 /ˌefɪˈkeɪʃəs/](cmd://Speak/_us_/efficacious)
 		3. _adj._ [effective](dic://effective), [hard-hitting](dic://hard-hitting), [trenchant](dic://trenchant), [impelling](dic://impelling), [impressive](dic://impressive), 
@@ -2021,7 +2173,7 @@
 		8. efficiency
 		9. efficient
 		10. inefficacy
-	45. proficient
+	52. proficient
 		1. _adj._ [skilled](dic://skilled)
 		2. _n._ [unskilled](dic://unskilled)
 			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
@@ -2029,33 +2181,33 @@
 			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
-	46. prolific (profligate, prolix, )
+	53. prolific (profligate, prolix, )
 		1. adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
 		2. [fecund](dic://fecund), [fertile](dic://fertile)
 		3. [fertile](dic://fertile)
 		4. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
 		5. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
 		6. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-	47. munificent
+	54. munificent
 		1. muni-服务、礼物 + fic-做 + -ent，即送礼物的，准备大礼的。
 		2. 来自拉丁语 munificus,慷慨的，大方的，来自 munus,礼物，-fic,做，词源同 fact,beneficial.即送礼物的，准备大礼的。
 		3.  [lavish](dic://lavish), [overgenerous](dic://overgenerous), [prodigal](dic://prodigal), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
 		4. _adj._ [generous](dic://generous)
 		5. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
 		6. **benefactor**恩人;**generous**慷慨的，大方的;**benevolent**好心肠的;**endowed**赋予，捐赠;**patronage**赞助;**prodigious**巨大的;**generosity**慷慨, 大方, 宽容;**pious**虔诚的;**splendid**辉煌的;**endowment**资助,捐助;**bestow**授予;
-	48. omnificent
+	55. omnificent
 		1. adj. 创造万物的；有无限创造力的（等于 omnific）
-	49. office
-	50. orifice
+	56. office
+	57. orifice
 		1. n. (尤指身体上的) 孔口
 		2. ori-嘴 + -fic做，引申词义孔，穴，腔。
 		3. 来自拉丁语 orificium,开口，来自 ori-,嘴，词源同 oral,-fic,做，词源同 do,fact.引申词义孔，穴，腔。
 		4. orificium
 		5. orificial
-	51. sacrifice
-	52. significant
+	58. sacrifice
+	59. significant
 		1. significative
-	53. soporific
+	60. soporific
 		1. sopor-睡觉，昏睡 + -fic做，使，引申词义催眠的。
 		2. a. 催眠的, 想睡的, 令人麻木不仁的  
 		3. n. 催眠剂, 安眠药
@@ -2065,9 +2217,9 @@
 		7. **hypnotic**催眠的，催眠术的;**sleepy**困乏的;**narcotic**麻醉的;**soothing**使人宽心的;**inane**愚蠢的;**intoxicating**醉人的;**banal**陈腐的;**stimulant**兴奋剂;**hangover**宿醉;**noxious**有害的;**calming**平静的;
 		8. the motion of the train had a somewhat soporific effect /火车的行驶起了一定的催眠作用。
 		9. I dozed off during the soporific music /我听到这催人入睡的音乐,便不知不觉打起盹儿来了。
-	54. sorbefacient
-	55. liquefacient
-	56. suffice
+	61. sorbefacient
+	62. liquefacient
+	63. suffice
 		1. suf-在下面 + fic-做 + -e → 在下面先做好 → 充足。
 		2. suf-,在下，向上，-fic,做，词源同 fact,efficient.引申词义做到足够，使足够，足以。
 		4. [do](dic://do), [answer](dic://answer), [serve](dic://serve)
@@ -2086,15 +2238,15 @@
 			1. self-sufficiency
 			2. insufficiency
 		13. self-sufficing
-	57. traffic
-	58. tumefacient
+	64. traffic
+	65. tumefacient
 		1. a. 肿胀的, 肿大的, 引起肿胀的
-	59. counterfeit
+	66. counterfeit
 		1. n. 赝品, 伪造品  
 		2. a. 假冒的, 假装的  
 		3. v. 仿造, 伪装, 假装
 		4. counter-相对 + feit-=fact-做。
-	60. forfeit (confiscate)
+	67. forfeit (confiscate)
 		1. n. 没收物, 罚金  
 		2. vt. 丧失，被没收  
 		3. a. 丧失了的
@@ -2115,7 +2267,7 @@
 		18. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
 		19. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
 		20. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
-	61. surfeit
+	68. surfeit
 		1.  [excess](dic://excess), [overabundance](dic://overabundance)
 		2.  [glut](dic://glut), [oversupply](dic://oversupply)
 		3.  [repletion](dic://repletion)
@@ -2126,14 +2278,14 @@
 		8. a surfeit of complaints /过度的牢骚
 		9. a surfeit of food and drink /过量的食物和饮料。
 		10. a surfeit of rich food /过量的油腻食物
-	62. discomfit
-	63. rarefactive
+	69. discomfit
+	70. rarefactive
 		1. adj．稀薄的，使稀薄的：导致气体或物质变得稀薄的。
 			1. The rarefactive effect of high altitude causes a decrease in air pressure.  /高海拔的稀薄效应导致气压降低。
-	64. putrefactives
-	65. petrifactive
+	71. putrefactives
+	72. petrifactive
 		1. _adj._ 石化性的;造成石化的
-	66. profit
+	73. profit
 		1. superprofit
 		2. profittaking
 		3. profitless
@@ -2148,7 +2300,7 @@
 		7. profit-hungry
 		8. nonprofit
 		9. 
-7. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
+16. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
 	1. facade
 		2. _n._ <建>(房屋的)正面
 		3. 假象;外观
@@ -2308,7 +2460,7 @@
 		74. lithofacies
 		75. petrofacies
 		76. tectofacies
-8. **the-, thec-, thet-** = setting
+17. **the-, thec-, thet-** = setting
 	1. apothecary
 		1. apo- + thec-放置 + -ary名词后缀 → 放药的地方 → 药房。
 		2. apothecary（药剂师）：存储药材并对外销售的人  
@@ -2424,7 +2576,7 @@
 		12. treasury, treasurehouse
 		13. You don't need a thesaurus. Just write from here /你不必用" 辞典" 要用这里写。
 		14. Of course, it does, it's smart, I used a thesaurus. /当然有，很聪明，我用了同义词词典。
-9. deed
+18. deed
 	1.  来自 PIE*dhe,做，树立，放置，词源同 do,fact.用于指行为，契约。
 	2. n. 行为, 实行, 契约 
 	3. vt. 立契转让
@@ -2448,7 +2600,7 @@
 	17. deeds that redound to one's discredit /损害个人信誉的行为
 	18. This is the deed to John's plantation. /这是约翰农场的契约。
 	19. emblazoning a heroine's deeds in song /在歌曲中颂扬女英雄的事迹
-11. deem
+19. deem
 	1. v. 认为，相信
 	2. 词源见 “doom”
 	3. [hold](dic://hold), [view as](dic://view as), [take for](dic://take for)
@@ -2469,8 +2621,8 @@
 	11. Was deemed a dead or living Tell! /视死如归，生者死者的袒露秘密。
 	12. " I deemed in prudent, " said the deeper-voiced goblin. /“我想谨慎一些，”嗓音低沉的妖精说。
 	13. But, some things are so bad that mainstream culture deems them unspeakable. /然而，有些坏事令人发指到主流文化对其噤若寒蝉。
-12. do
-13. doom
+20. do
+21. doom
 	1. n. 厄运, 不幸, 法律, 宣告, 判决, 死亡  
 	2. vt. 命中注定, 判决
 	3. doom（厄运）：上帝的末日审判  
@@ -2509,7 +2661,7 @@
 		1. [cursed](dic://cursed), [damned](dic://damned), [unredeemed](dic://unredeemed), [unsaved](dic://unsaved)
 		2. [ill-fated](dic://ill-fated), [ill-omened](dic://ill-omened), [ill-starred](dic://ill-starred), [unlucky](dic://unlucky)
 		3. **destined**命定的;**hopeless**绝望的;**fail**失败，不及格;**hopelessly**绝望地;**ill-fated**走恶运的,注定要遭受罚的;**inevitable**不可避免的, 必然发生的;**disastrous**灾难性的;**futile**无用的;**failure**失败;**miserable**悲惨的;**ultimately**最后;
-14. purdah
+22. purdah
 	1. n. 窗帘, 帷幕
 	2.  来自波斯语 pardah,窗帘，帘布，面纱，来自古波斯语 pari,周围，围起来，词源同 peri-,-dah,放置，来自 PIE*dhe,放置，词源同 do.
 	3. 
@@ -3323,61 +3475,137 @@
 
 ### + \*dhghem- + = earth
 1. **chthon-** = land, earth, soil，表示“泥土”。源自希腊语 khthon "earth."
+	1. autochthon
+	2. chthonian
+	3. chthonic
 2. **hom-** = human, 表示“人”。源自拉丁语 hoo "human being, man."
 	1. bonhomie
-		1. **camaraderie**友情;**banter**戏谑;**cynicism**犬儒主义;**enthusiasm**热情, 热心;**laughter**笑声;**optimism**乐观;**awkwardness**笨拙;**goodwill**好意;**humour**诙谐;**warmth**温暖;**friendliness**友情
-		2. [affability](dic://affability), [affableness](dic://affableness), [amiability](dic://amiability), [amiableness](dic://amiableness), [geniality](dic://geniality)
-	2. homage
-		1.  [court](dic://court)
-		2. _n._ [deference](dic://deference), [respect](dic://respect)
-		3. **tribute**贡物;**tributes**献礼篇;**reverence**敬礼;**throwback**返回;**reminiscent**提醒的, 暗示的;**parody**拙劣的模仿;**salute**敬礼;**commemorate**纪念;**honour**荣誉;**honor**信用;**allusion**暗示;
-		4. _pay homage to_ 向…表示敬意
-		5. pay homage to sb. /向某人表示敬意
-		6. They bowed in homage to the Unknown Soldiers. /他们向无名烈士墓鞠躬致敬。
-	3. homicide
-		1. homicidomania
-		2. homicidium
-		3. homicidal
-	4. hominid
-		1. _n._ [primate](dic://primate)
-		2. _adj._ [human](dic://human)
-		3. _n._ [nonhuman](dic://nonhuman)
-		4. **prehistoric**史前的;**fossils**化石;**ape**猿;**primate**大主教;**fossil**化石;**primates**灵长类;**sapiens**现代人的;**dinosaur**过时、落伍的人或事物;**evolutionary**进化的;**mammal**哺乳动物;**vertebrate**脊椎动物;
-		5. extinct primitive hominid of late Pleistocene /已经灭绝的晚更新世的灵长类动物
-		6. extinct species of primitive hominid with upright stature but small brain;formerly Pithecanthropus erectus /已经灭绝的原始人种,直立但脑子小;以前的爪哇直立猿人。
-	5. homization
-	6. homunculus
+		1. n. 愉快, 温和, 和蔼
+		2. bon-好 + hom-=hum-人 + ie → 好人性情温和。
+		3. **camaraderie**友情;**banter**戏谑;**cynicism**犬儒主义;**enthusiasm**热情, 热心;**laughter**笑声;**optimism**乐观;**awkwardness**笨拙;**goodwill**好意;**humour**诙谐;**warmth**温暖;**friendliness**友情
+		4. [affability](dic://affability), [affableness](dic://affableness), [amiability](dic://amiability), [amiableness](dic://amiableness), [geniality](dic://geniality)
+	3. homage
+		1. hom-人 + -age，原指中世纪时下属或封臣对领主的效忠仪式，即“我是你的人”。homage为对单一领主的效忠，而fealty可以是对不同领主的忠诚。
+		2. homage（敬意）：封臣向封建主表示臣服的隆重仪式  
+		3. 在西方封建社会中，封建主分封土地时，获封土地的人需要举行隆重的仪式，向封建主表示臣服和崇敬之意。这种仪式就是homage。英语单词homage来自拉丁语homo（man，人），意思就是向封建主宣誓从今以后就是“他的臣仆”了，承诺履行臣仆的各项义务，如参加领主会议和法庭、服兵役等。现在，homage一词所包含的封建色彩已经消失，通常用来比喻向某人表达崇高的敬意。  
+		4. homage：['hɒmɪdʒ] n.敬意，尊敬，效忠  
+		5. pay homage to：向……表示敬意
+		6.  [court](dic://court)
+		7. _n._ [deference](dic://deference), [respect](dic://respect)
+		8. **tribute**贡物;**tributes**献礼篇;**reverence**敬礼;**throwback**返回;**reminiscent**提醒的, 暗示的;**parody**拙劣的模仿;**salute**敬礼;**commemorate**纪念;**honour**荣誉;**honor**信用;**allusion**暗示;
+		9. _pay homage to_ 向…表示敬意
+		10. pay homage to sb. /向某人表示敬意
+		11. They bowed in homage to the Unknown Soldiers. /他们向无名烈士墓鞠躬致敬。
+	5. homicide
+		1.  来自拉丁语 homo,人，-cid,杀，词源同 herbicide.
+		2. homicidomania
+		3. homicidium
+		4. homicidal
+	7. hominid
+		1.  homin-,人，-id,相似，外观。引申词义人科。
+		2. _n._ [primate](dic://primate)
+		3. _adj._ [human](dic://human)
+		4. _n._ [nonhuman](dic://nonhuman)
+		5. **prehistoric**史前的;**fossils**化石;**ape**猿;**primate**大主教;**fossil**化石;**primates**灵长类;**sapiens**现代人的;**dinosaur**过时、落伍的人或事物;**evolutionary**进化的;**mammal**哺乳动物;**vertebrate**脊椎动物;
+		6. extinct primitive hominid of late Pleistocene /已经灭绝的晚更新世的灵长类动物
+		7. extinct species of primitive hominid with upright stature but small brain;formerly Pithecanthropus erectus /已经灭绝的原始人种,直立但脑子小;以前的爪哇直立猿人。
+	9. homization
+	10. homunculus
 		1. _[homunculus](dic://homunculus)_  n. 矮人，侏儒
 3. **hum-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
 	1. humiliate
-		1. _v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
+		1. humus ['hjuːməs] n. 腐殖质。拉丁词源，与humble谦卑的、humiliate羞辱和human人类等同根，与groom马夫和希腊词源的chameleon变色龙等中的cham部分（表earth）同源。-us是拉丁第二变格阳性名词结尾，但坏就坏在其读音上了：humous['hjuːməs] adj.含腐殖土的，你看看，两个单词的读音一模一样。
+		2. _v._ [hurt](dic://hurt), [wound](dic://wound), [injure](dic://injure), [bruise](dic://bruise), [offend](dic://offend), [spite](dic://spite)
 			1. [humble](dic://humble) 常可和degrade换用，强调降级所带来的耻辱；也多指自卑和感到渺小无能的心理状态。  
 			2. [humiliate](dic://humiliate) 指损伤或剥夺自尊感，损坏自尊心，强调蒙受耻辱。  
 			3. [degrade](dic://degrade) 指因过失而受到降级、阶格；也多指因自身的境遇而感到耻辱。  
 			4. [disgrace](dic://disgrace) 指降低某人在他人心目中的地位，使其丢脸
-		2. **embarrass**使窘迫;**intimidate**恐吓, 威胁;**punish**严厉对待;**harass**使烦恼;**taunt**嘲弄;**seduce**引诱;**retaliate**报复, 反击;**ridicule**嘲笑;**discredit**败坏…的名声;**kidnap**绑架;**tease**取笑;
-		3. _[humiliating](dic://humiliating)_  adj. 丢脸的；羞辱性的; v. 使蒙耻（humiliate的ing形式）; 
-		4. _[humiliate](dic://humiliate)_  vt. 羞辱；使…丢脸；耻辱
-		5. _[humiliated](dic://humiliated)_  v. （使）蒙羞，丢脸（humiliate 的过去式及过去分词）; adj. 蒙羞的；感到自惭的;
-		6. you'll humiliate me in front of the whole school! /你会令我在全校面前蒙羞！。
-		7. a defeat that humiliated both army and nation. See also Synonyms at demote /一次丧失了军队和国家尊严的失败 参见同义词 demote
-		8. humiliator
-		9. humiliation
-		10. humiliating
+		3. **embarrass**使窘迫;**intimidate**恐吓, 威胁;**punish**严厉对待;**harass**使烦恼;**taunt**嘲弄;**seduce**引诱;**retaliate**报复, 反击;**ridicule**嘲笑;**discredit**败坏…的名声;**kidnap**绑架;**tease**取笑;
+		4. _[humiliating](dic://humiliating)_  adj. 丢脸的；羞辱性的; v. 使蒙耻（humiliate的ing形式）; 
+		5. _[humiliate](dic://humiliate)_  vt. 羞辱；使…丢脸；耻辱
+		6. _[humiliated](dic://humiliated)_  v. （使）蒙羞，丢脸（humiliate 的过去式及过去分词）; adj. 蒙羞的；感到自惭的;
+		7. you'll humiliate me in front of the whole school! /你会令我在全校面前蒙羞！。
+		8. a defeat that humiliated both army and nation. See also Synonyms at demote /一次丧失了军队和国家尊严的失败 参见同义词 demote
+		9. humiliator
+		10. humiliation
+		11. humiliating
 	3. hummock (hammock)
 		1. **dune**沙丘;**dunes**沙丘;**grassy**长满草的;**vegetation**植物;**grassland**草原，牧场;**tundra**苔原;**ridge**山脉;**meadow**草地;**bog**沼泽;**marsh**湿地;**mound**堆;
 		2. [knoll](dic://knoll), [mound](dic://mound), [hillock](dic://hillock), [hammock](dic://hammock)
 		3. The season was more advanced than at the Creek, two hundred miles to the north, and I noticed that spring flowers were blooming among the lumpy hummocks. /这个季节比在北面两百英里的小溪要早， 我注意到春天的花朵在凹凸不平的小丘之间盛开。
 		4. Under the hollow hummock of earth that was her home in Vaes Dothrak, Dany ordered them to leave her, all but Ser Jorah. Tell me, she commanded as she lowered herself onto her cushions. Was it the Usurper? /回到她在维斯·多斯拉克的空心圆丘后，丹妮吩咐人们全部退下——除了乔拉爵士。" 告诉我，" 她在靠垫上缓缓躺下，同时命令道，" 是‘篡夺者’下的令吗？"
 		5. hummocky
-	4. exhume
+	4. human
+		1. human（人类）：“泥土造人”的神话传说  
+		2. 关于人类的起源，全世界都有很多“泥土造人”的神话传说。比如，在中国神话中，人类是女娲用黄土捏成的。《圣经》上说，上帝用地上的尘土造人，将生气吹进他的鼻孔里，他就成了有生气的人，名字叫Adam，源自希伯来语adamah（地面）。在希腊神话中，人类是普罗米修斯用泥土造成的。英语中表示“人类”的单词human就与此类神话传说相关。很多人认为，human的前一部分来自拉丁语humus（泥土），表示“泥土所造的、地球上的生物”，与“神灵”相对。英语词根hum-也来自拉丁语humus（泥土），表示“泥土、潮湿”，含有该词根的单词有：humble（谦卑的）、humid（潮湿的）、inhume（埋葬）。  
+		3. human：['hjuːmən] n.人，人类adj.人的，人类的  
+		4. humane：[hju'men] adj. 仁慈的，人道的；高尚的  
+		5. inhumane：['ɪnhjʊ'men] adj. 残忍的；无人情味的  
+		6. humanity：[hjʊ'mænəti] n. 人类；人道；仁慈；人文学科  
+		7. humanism： ['hjʊmə'nɪzəm] n. 人道主义adj. 人文主义的；人道主义的  
+		8. humanist： ['hjʊmənɪst] n. 人道主义者；人文学者；人文主义者adj. 人文主义的；人道主义的  
+		9. humble： ['hʌmbl] adj. 谦逊的；低下的vt. 使谦恭；轻松打败；低声下气  
+		10. humid： ['hjumɪd] adj. 潮湿的；湿润的；多湿气的  
+		11. inhume：[ɪn'hjuːm] vt. 埋葬；土葬  
+		12. exhume：[ɪɡ'zum] vt. 发掘；掘出
+		13. posthumous, posthumously
+			1. _adj._ [late](dic://late)
+			2. _n._ [early](dic://early), [middle](dic://middle)
+			3. **honours**优等成绩;**honorary**荣誉的;**autobiography**自传;**honors**优异;**biography**传记;**death**死;**deceased**已故的;**reissue**重新发行;**memoirs**回忆录;**opus**作品;**tributes**献礼篇;
+			4. _[posthumous](dic://posthumous)_  adj. 死后的；遗腹的；作者死后出版的
+			5. _[posthumous title](dic://posthumous%20title)_  谥号
+			6. _[posthumous child](dic://posthumous%20child)_  遗腹子
+			7. _[posthumous name](dic://posthumous%20name)_  谥号
+			8. a posthumous book. /作者死后才出版的书
+			9. He received a posthumous award for bravery. /他表现勇敢, 死后受到了嘉奖。
+			10. his brother's posthumous children are admissible as intestate heirs. /他兄弟的遗孤可被承认为未留遗嘱亡者的合法继承人。
+			11. he was awarded a posthumous Military Cross. /他死后被授予了军人十字勋章。
+			12. For Mendel, appreciation was also posthumous, though it came somewhat sooner. /而对于孟德尔来说，他生前也是默默无闻，死后不久却哀荣备至。
+			13. Previous posthumous revisions of Christie's work have proven worthwhile, he said. /他说，之前在克里斯蒂去世后对她的作品进行的修改被证明是值得的。
+			14. The posthumous success of the artist is curiously due to Theo's widow, Jo van Gogh-Bonger. /奇怪的是，这位艺术家死后的要归功于西奥的遗孀乔·梵高-邦格尔。
+		14. unhuman
+		15. superhuman
+		16. subterhuman
+		17. subhuman
+		18. protohuman
+		19. preterhuman
+			1. _[preterhuman](dic://preterhuman)_  adj. 超人的
+		20. prehuman
+		21. nonhuman
+		22. interhuman
+		23. humanware
+		24. humanoscope
+		25. humanoid
+			1.  [android](dic://android), [mechanical man](dic://mechanical man)
+			2. _n._ [automaton](dic://automaton), [robot](dic://robot), [golem](dic://golem)
+			3. **sentient**有感觉力的;**robot**机器人;**alien**外国的;**creature**动物，生物;**non-human**非人类的;**robotic**自动的;**robots**机器人;**beings**人;**humans**人类;**aliens**外国人;**human**人的;
+			4. We have to remember that all computers occasionally crash they're only humanoids after al /我们必须记住，所有的计算机都会偶尔崩溃——毕竟它们只是类人机器人。
+			5. So our bet at Apptronik was that electric humanoids were going to be the future. /所以我们在Apptronik的赌注是电动人形机器人将是未来。
+		26. humanly
+		27. humanness
+		28. humanly
+		29. humanlike
+		30. humankind
+		31. humanize
+		32. humanist
+		33. humanism
+		34. humanistic
+			1. _adj._ [humanism](dic://humanism), [secular humanism](dic://secular humanism), [humanistic discipline](dic://humanistic discipline), [humanities](dic://humanities), [liberal arts](dic://liberal arts), [arts](dic://arts), [humane](dic://humane)
+			2. _n._ [inhumane](dic://inhumane)
+			3. **humanist**人道主义者;**philosophical**哲学的;**naturalistic**自然的;**pragmatic**务实的;**secular**世俗的;**humane**仁慈的，人道的;**theological**神学的;**ethical**道德的;**sociological**社会学的;**idealistic**理想主义的;**empathetic**移情作用的;
+			4. _humanistic education_ 人本教育；人文主义教育
+			5. _humanistic psychology_ 人本主义心理学；人本心理学
+		35. humanitarian
+		36. humanics
+		37. humane, inhumane
+	5. exhume
 		1. [disinter](dic://disinter)
 		2. _v._ [excavate](dic://excavate), [dig up](dic://dig up), [turn up](dic://turn up)
 		3. **bury**埋葬;**corpse**尸体;**resurrect**使复活;**dig**挖，掘;**buried**埋葬的;**burial**埋葬;**autopsy**验尸;**unearthed**掘出的;**corpses**尸体;**reconstruct**重建;**dispose**处理;
 		4. Marie Curie’s remains were exhumed and interred in the Pantheon. /玛丽·居里的遗体被移出葬在先贤祠中。
 		5. I mean, first of all, you have to get the family's permission to exhume the body. /我是说，首先你得得到家人的允许才能挖掘尸体。
 		6. Today's trial follows toxicology tests on the exhume remains of others. /今天的审判包括对其他遇害人员的毒理学检验。
-		8. exhumation
+		7. exhumation
 			1. [disinterment](dic://disinterment), [digging up](dic://digging up)
 			2. _n._ [deed](dic://deed), [feat](dic://feat), [effort](dic://effort), [exploit](dic://exploit)
 			3. **burial**埋葬;**autopsy**验尸;**excavation**挖掘;**graves**坟墓;**cremation**火化;**corpse**尸体;**inquest**审讯;**deposition**罢免;**investigation**调查;**decomposition**分解;**corpses**尸体;
@@ -3386,51 +3614,7 @@
 		2. [bury](dic://bury), [entomb](dic://entomb), [inter](dic://inter), [lay to rest](dic://lay to rest)
 		3. _v._ [lay](dic://lay), [put down](dic://put down), [repose](dic://repose)
 		4. inhumation
-	8. human
-		1. posthumous, posthumously
-			1. _adj._ [late](dic://late)
-			2. _n._ [early](dic://early), [middle](dic://middle)
-			3. **honours**优等成绩;**honorary**荣誉的;**autobiography**自传;**honors**优异;**biography**传记;**death**死;**deceased**已故的;**reissue**重新发行;**memoirs**回忆录;**opus**作品;**tributes**献礼篇;
-			4. _[posthumous](dic://posthumous)_  adj. 死后的；遗腹的；作者死后出版的
-			5. _[posthumous title](dic://posthumous%20title)_  谥号
-			6. _[posthumous child](dic://posthumous%20child)_  遗腹子
-			7. _[posthumous name](dic://posthumous%20name)_  谥号
-		2. unhuman
-		3. superhuman
-		4. subterhuman
-		5. subhuman
-		6. protohuman
-		7. preterhuman
-			1. _[preterhuman](dic://preterhuman)_  adj. 超人的
-		8. prehuman
-		9. nonhuman
-		10. interhuman
-		11. humanware
-		12. humanoscope
-		13. humanoid
-			1.  [android](dic://android), [mechanical man](dic://mechanical man)
-			2. _n._ [automaton](dic://automaton), [robot](dic://robot), [golem](dic://golem)
-			3. **sentient**有感觉力的;**robot**机器人;**alien**外国的;**creature**动物，生物;**non-human**非人类的;**robotic**自动的;**robots**机器人;**beings**人;**humans**人类;**aliens**外国人;**human**人的;
-			4. We have to remember that all computers occasionally crash they're only humanoids after al /我们必须记住，所有的计算机都会偶尔崩溃——毕竟它们只是类人机器人。
-			5. So our bet at Apptronik was that electric humanoids were going to be the future. /所以我们在Apptronik的赌注是电动人形机器人将是未来。
-		14. humanly
-		15. humanness
-		16. humanly
-		17. humanlike
-		18. humankind
-		19. humanize
-		20. humanist
-		21. humanism
-		22. humanistic
-			1. _adj._ [humanism](dic://humanism), [secular humanism](dic://secular humanism), [humanistic discipline](dic://humanistic discipline), [humanities](dic://humanities), [liberal arts](dic://liberal arts), [arts](dic://arts), [humane](dic://humane)
-			2. _n._ [inhumane](dic://inhumane)
-			3. **humanist**人道主义者;**philosophical**哲学的;**naturalistic**自然的;**pragmatic**务实的;**secular**世俗的;**humane**仁慈的，人道的;**theological**神学的;**ethical**道德的;**sociological**社会学的;**idealistic**理想主义的;**empathetic**移情作用的;
-			4. _humanistic education_ 人本教育；人文主义教育
-			5. _humanistic psychology_ 人本主义心理学；人本心理学
-		23. humanitarian
-		24. humanics
-		25. humane, inhumane
-	9. humble
+	7. humble
 		1. [humiliate](dic://humiliate), [mortify](dic://mortify), [chagrin](dic://chagrin), [abase](dic://abase)
 		2. [low](dic://low), [lowly](dic://lowly), [modest](dic://modest), [small](dic://small)
 		3. [menial](dic://menial), [lowly](dic://lowly)
@@ -3450,15 +3634,25 @@
 		1. [hummus](dic://hummus), [hommos](dic://hommos), [hoummos](dic://hoummos), [humous](dic://humous)
 		2. **soil**土地;**soils**土壤;**compost**堆肥;**hummus**鹰嘴豆泥;**manure**施肥于;**mulch**覆盖物，护盖物;**vegetation**植物;**peat**泥煤;**inorganic**无机的;**pita**圆面饼;**organic**有机的;
 		3. The rendzina is rich in lime and has an upper humus-rich horizon. /其富含有石灰和较高量的腐殖质。
+		4. The effect of organic expanders including humus acid, lignin, vio-lanthrone and isoviolanthrone on the performances of the lead-acid battery are described. /本文叙述了腐殖酸、木素、紫蒽酮及异紫蒽酮作膨胀剂对蓄电池性能的影响.
+		5. Plants and other soil life cannot survive without humus. /没有腐殖质，植物和其他土壤生物就不能生存。
 	13. transhumance
 		1. - n. （牲畜的）季节性迁移放牧
 1. **hum-, hom-** = earth, 表示“土，地”。源自拉丁语 humus "earth."
 	1. etc..
 2. **zem-** = earth. 表示“土”。源自古俄语 zemi "land, earth."
-	1. etc..
+	1. zemstvo
+	2. chernzem
+	3. sierozem
 3. bridegroom
 	1. **bride**新娘;**groom**新郎;**wedding**结婚;**bridesmaid**女傧相;**daughter-in-law**儿媳妇;**bridal**新娘的;**son-in-law**女婿;**wed**结婚;**procession**队伍, 行列;**marry**娶;**fiancée**未婚妻;
 4. chameleon
+	1. n. 美洲变色蜥蜴, 善变的人
+	2. chame, 土 + leon-狮子。字面意思“土狮子”。
+	3.  - cham-,土，词源同 human,土，人。-leon,词源同 lion,狮子。字面意思即土狮子。
+	4. chameleon（变色龙）：地上的狮子  
+	5. 英语单词chameleon来自希腊语khamaileon，由khamai（地上）+leon（狮子）构成，字面意思就是“地上的狮子”。变色龙之所以得此名，是因为变色龙的头颈部有硕大的头冠，看起来就像是雄狮颈部的鬃毛。  
+	6. chameleon：[kə'miːlɪən]n.变色龙，善变的人
 
 
 ### + \*dhigw- +

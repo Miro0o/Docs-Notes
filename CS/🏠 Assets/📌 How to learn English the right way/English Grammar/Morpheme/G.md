@@ -160,23 +160,57 @@
 		7. genocide, genocidal
 		8. genotype
 		9. genteel
+			1.  [civilized](dic://civilized), [civilised](dic://civilised), [cultivated](dic://cultivated), [cultured](dic://cultured), [polite](dic://polite)
+			2. _adj._ [refined](dic://refined)
+			3. _n._ [unrefined](dic://unrefined)
+			4. **aristocratic**贵族的;**dignified**高贵的;**posh**漂亮的;**middle-class**中产阶级的;**stately**庄严的;**polite**有礼貌的，客气的;**Edwardian**爱德华时代的;**civilized**文明的,非野蛮的;**old-fashioned**老式的;**affluent**富裕的;**elegant**高雅的，优雅的;
+			5. genteel manners and appearance. /优美的举止和漂亮的外表
+			6. She was a good example of a genteel woman, Lydia thought. /利迪娅想，她是有教养的女性中的一个范例。
+			7. Despite all the genteel charm, Bernini was known to have a low boiling point. /尽管贝尼尼表面上是温文尔雅，但是大家都知道他是个容忍度很低的人。
+			8. There was a genteel tap of the knocker and the musical voice asked again. /只听门环轻轻响了一下，那个音乐般的声音又问道。
 		10. genuine
+			1. [echt](dic://echt)
+			2.  [true(a)](dic://true(a)), [unfeigned](dic://unfeigned)
+			3.  [actual](dic://actual), [literal](dic://literal), [real](dic://real)
+			4. _adj._ [authentic](dic://authentic), [bona fide](dic://bona fide), [unquestionable](dic://unquestionable), [veritable](dic://veritable), [attested](dic://attested), [authenticated](dic://authenticated), [documented](dic://documented)
+			5. _n._ [counterfeit](dic://counterfeit), [imitative](dic://imitative), [insincere](dic://insincere), [false](dic://false)
+			6. **authentic**真的, 真正的;**sincere**真诚的;**real**真实的;**sincerity**真实, 诚挚;**fake**假货;**authenticity**可靠性;**legitimate**合情合理的;**phony**假的，欺骗的;**heartfelt**衷心的;**true**真实的;**authentically**确实地,真正地;
+			7. She seemed so genuine and so refined. /她看起来很真诚，也很优雅。
+			8. He had a genuine enthusiasm for the commonplace /他衷心拜倒在平凡庸俗的脚下。
 		11. genus
 		12. genial
-			1. **cheerful**高兴的;**chatty**饶舌的;**hospitable**好客的;**unassuming**谦逊的;**down-to-earth**务实的;**pleasant**令人愉快的，舒适的;**charming**迷人的;**gracious**亲切的;**friendly**友好的;**cordial**兴奋的;**jolly**愉快的;
-		13. congenital
+			1. (affable, amicable, amiable, cordial, genial)
+			2. a. 和蔼的, 亲切的, 友善的
+			3. genial - 在拉丁语中Genius乃古罗马神话中人的守护神（attendant/guardian/tutelary spirit），希腊人则称之为daimōn（英语中意为“恶魔”的demon即源于此）。据说，每人都有自己的守护神，他塑造人的性格，守护和伴随人的一生（attend a man fromcradle to grave, govern his fortunes, determin his character）。传说Genius只庇护男性，女性则由Juno保护。Genius一词第一次在英语中出现是在1513年，当时仍用于原义，指人的守护神。到了16世纪末该词转指一个人性格上的倾向（characteristicdisposition），首字母也由大写变为小写。到17世纪genius进而指“天生的才能”或“天赋”（innate capability），到了18世纪，浪漫主义作家、艺术家、音乐家等开始用genius指“非凡的聪明智慧”（an extraordinary native intellectual power），即“天才”，随后也指“天才人物”。  
+			4. 另有一种传说和上述传说略有出入，说是每个人都有两位守护神，一为善神，一为恶神。于是英语就有了good genius和evil genius的说法，前者指使人得救的神魔，后者则指使人毁灭的恶魔，前者喻指对某人有好影响者，后者则指对某人有坏影响者。  
+			5. 英语另有两个词和genius有亲缘关系。一个是genie，是从源于拉丁语genius（守护神）的法语génie借用过来的。18世纪《天方夜谭》（The Arabian Nights）被译成英语时，译者用该词指古代阿拉伯神话故事中的“妖怪”，因为其音和义与阿拉伯语借用词jinn/jinni相近。另一个是genial，它源自拉丁语genius的派生词geniālis 'belonging to the genius'，现用于“欢快的”、“友好的”、“和蔼的”等义。
+			6. **cheerful**高兴的;**chatty**饶舌的;**hospitable**好客的;**unassuming**谦逊的;**down-to-earth**务实的;**pleasant**令人愉快的，舒适的;**charming**迷人的;**gracious**亲切的;**friendly**友好的;**cordial**兴奋的;**jolly**愉快的;
+			7.  [affable](dic://affable), [amiable](dic://amiable), [cordial](dic://cordial)
+			8. [mental](dic://mental)
+			9. [kind](dic://kind)
+			10. _adj._ [friendly](dic://friendly), [chin](dic://chin), [mentum](dic://mentum), [hospitable](dic://hospitable)
+			11. _n._ [unfriendly](dic://unfriendly), [inhospitable](dic://inhospitable)
+			12. **cheerful**高兴的;**chatty**饶舌的;**hospitable**好客的;**unassuming**谦逊的;**down-to-earth**务实的;**pleasant**令人愉快的，舒适的;**charming**迷人的;**gracious**亲切的;**friendly**友好的;**cordial**兴奋的;**jolly**愉快的;
+			13. Mr Jacobs, though, keeps the mood genial and the yarns flowing. /尽管如此，雅各布斯先生还是以平和的心态完成了这个故事。
+			14. You are the most genial person I know /你是我认识的最和蔼可亲的人。
+			15. For Mr. Bhaer talked well in this genial atmosphere, and did himself justice /因为巴尔教授在这种轻松的气氛中很健谈，能充分地表达自己。
+			16. genially
+			17. genialize
+			18. geniality
+			19. congenial
+		14. congenital
 			1. **abnormalities**异常情况;**abnormality**不正常,反常,变态,畸形;**neurological**神经病学的;**neonatal**新生的;**defect**缺点，缺陷;**cardiac**心脏的;**pulmonary**肺的,肺部的;**defects**缺点;**cleft**裂开的;**hypothyroidism**甲状腺机能减退;**hereditary**遗传的;
-		14. generate, generic, generosity
+		15. generate, generic, generosity
 			1. **erectile**勃起的;**Cialis**西力士;**bland**乏味的;**Viagra**万艾可;**prescription**处方;**cheap**便宜的;**penile**阴茎的，用阴茎的;**impotence**阳萎;**vague**不明确的;**descriptive**说明的;**pharmacy**药房;
 			2. **generic**一般的;**commonly**一般地;**interchangeably**可交换地;**broadly**宽广地;**similarly**相似地;**specifically**特有地, 特定地, 具体地;**generally**一般地;**variously**不同地;**analogous**相似的,可比拟的;**aptly**适宜地;**vaguely**暧昧地;
 			3. generous
 			4. genesses, genesis
 			5. genitive
-		15. genius
-		16. gentile
-		17. gentility
-		18. gentle
-		19. gentry
+		16. genius
+		17. gentile
+		18. gentility
+		19. gentle
+		20. gentry
 	8. autogenous, cytogenous
 		1. abiogenetic, biogenic, autogenic, autogeny
 			1. abiogenist, abiogenous
@@ -213,34 +247,38 @@
 		3. **degenerate**退化;**decay**腐烂，腐朽;**immorality**不道德,无道义;**entropy**熵;**degeneration**堕落;**impurity**杂质;**wickedness**邪恶;**disintegration**瓦解;**degradation**下降,降低;**recombination**再结合;**annihilation**歼灭,灭绝;
 	13. ectogenetic
 		1. _[ectogenetic](dic://ectogenetic)_ 人工生殖的
-	14. erogenous
-		1. _adj._ [sensitive](dic://sensitive)
-		2. _n._ [insensitive](dic://insensitive)
-		3. **erotic**色情的;**sensual**感觉的;**genital**生殖的;**arousal**激励;**clit**阴核;**genitals**生殖器;**anus**肛门;**fleshy**肉的;**vagina**阴道;**penile**阴茎的，用阴茎的;**sexual**性的;
-	15. ethongeny
-	16. exogenous
-		1. _n._ [endogenous](dic://endogenous), [endogenic](dic://endogenic)
-		2. **endogenous**内长的,内生的;**recombinant**重组器官;**systemic**全身的;**cytokines**细胞活素类;**stimuli**刺激;**induced**感应的;**intracellular**细胞内的;**macroeconomic**宏观经济的;**pathogenic**引起疾病的;**concomitant**相伴的;**inhibitory**禁止的;
-	17. heterogenous
-		1. _adj._ [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley), [disparate](dic://disparate), [inhomogeneous](dic://inhomogeneous)
-		2. _n._ [autogenous](dic://autogenous), [autogenic](dic://autogenic)
-		3. **heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**heterogeneity**异质性;**diverse**不同的;**disparate**不同的;**fragmented**成碎片的,片断的;**monolithic**独块巨石的;**stratified**形成阶层的;**dispersed**被驱散的;**clustered**丛生的;**mixtures**配合料;
-	18. homogeneity
-		1. _n._ [uniformity](dic://uniformity), [uniformness](dic://uniformness)
-		2. _n._ [heterogeneity](dic://heterogeneity), [heterogeneousness](dic://heterogeneousness)
-		3. **uniformity**一致;**heterogeneity**异质性;**homogeneous**同性质的, 同类的;**cohesion**内聚力;**diversity**多样化;**coherence**条理性,连贯性,一致性;**conformity**依照, 遵从;**uniqueness**唯一性;**consistency**连贯;**dispersion**散布;**purity**纯净;
-		4. homogeneous
+	14. erogenous (voluptuous, erogenous, erotic, venereal)
+		1. a. 唤起情欲的, 性感的
+		2. _adj._ [sensitive](dic://sensitive)
+		3. _n._ [insensitive](dic://insensitive)
+		4. **erotic**色情的;**sensual**感觉的;**genital**生殖的;**arousal**激励;**clit**阴核;**genitals**生殖器;**anus**肛门;**fleshy**肉的;**vagina**阴道;**penile**阴茎的，用阴茎的;**sexual**性的;
+	16. ethongeny
+	17. exogenous
+		1.  - exo-,外面，-gen,产生，词源同 generate.
+		2. _n._ [endogenous](dic://endogenous), [endogenic](dic://endogenic)
+		3. **endogenous**内长的,内生的;**recombinant**重组器官;**systemic**全身的;**cytokines**细胞活素类;**stimuli**刺激;**induced**感应的;**intracellular**细胞内的;**macroeconomic**宏观经济的;**pathogenic**引起疾病的;**concomitant**相伴的;**inhibitory**禁止的;
+	19. heterogenous
+		1. a. 异源的, 异型的, 异种的
+		2. _adj._ [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley), [disparate](dic://disparate), [inhomogeneous](dic://inhomogeneous)
+		3. _n._ [autogenous](dic://autogenous), [autogenic](dic://autogenic)
+		4. **heterogeneous**由很多种类组成的;**homogeneous**同性质的, 同类的;**heterogeneity**异质性;**diverse**不同的;**disparate**不同的;**fragmented**成碎片的,片断的;**monolithic**独块巨石的;**stratified**形成阶层的;**dispersed**被驱散的;**clustered**丛生的;**mixtures**配合料;
+	21. homogeneity
+		1. n. 同种, 同质, 齐性
+		2. _n._ [uniformity](dic://uniformity), [uniformness](dic://uniformness)
+		3. _n._ [heterogeneity](dic://heterogeneity), [heterogeneousness](dic://heterogeneousness)
+		4. **uniformity**一致;**heterogeneity**异质性;**homogeneous**同性质的, 同类的;**cohesion**内聚力;**diversity**多样化;**coherence**条理性,连贯性,一致性;**conformity**依照, 遵从;**uniqueness**唯一性;**consistency**连贯;**dispersion**散布;**purity**纯净;
+		5. homogeneous
 			1. _adj._ [consistent](dic://consistent), [uniform](dic://uniform), [solid](dic://solid), [self-colored](dic://self-colored), [self-coloured](dic://self-coloured), [homogenized](dic://homogenized), [homogenised](dic://homogenised)
 			2. _n._ [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
 			3. **heterogeneous**由很多种类组成的;**uniformly**一律地;**amorphous**无定形的;**cohesive**有结合力的;**monolithic**独块巨石的;**discrete**离散的，不连续的;**stratified**形成阶层的;**well-defined**清晰可辨的;**spatially**空间地;**symmetric**相称性的,均衡的;**ethnically**人种上,民族上;
-		5. homogenize
+		6. homogenize
 			1. _v._ [equal](dic://equal), [match](dic://match), [equalize](dic://equalize), [equalise](dic://equalise), [equate](dic://equate), [change state](dic://change state), [turn](dic://turn)
 			2. _n._ [curdle](dic://curdle), [clabber](dic://clabber), [clot](dic://clot)
 			3. **standardize**使合乎规格;**assimilate**吸收, 消化;**homogeneous**同性质的, 同类的;**unify**统一;**normalize**使正常;**dilute**稀释, 冲淡;**isolate**使孤立;**reshape**改造;**displace**取代;**distort**扭曲;**uniformity**一致;
-		6. homogenous, inhomogenous
-		7. isogenous, isogeny
+		7. homogenous, inhomogenous
+		8. isogenous, isogeny
 			1. _[isogenous](dic://isogenous)_  adj. [生物] 同源的
-	19. indigene
+	23. indigene
 		9. indi-内部 + gen-产生 + -e
 		10. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		11. [native](dic://native), [indigen](dic://indigen)
@@ -251,7 +289,7 @@
 			3. _adj._ [native](dic://native)
 			4. _n._ [foreign](dic://foreign), [strange](dic://strange)
 			5. **aboriginal**最早就存在的，最早就有的;**tribal**部落的;**tribes**部落;**peoples**民族学;**Maori**毛利人的;**Peruvian**秘鲁人的;**Andean**安第斯山脉的;**Inuit**因纽特人;**Bolivian**玻利维亚的;**Ecuadorian**厄瓜多尔的;**native**本国的;
-	20. engine
+	24. engine
 		1. engine（引擎）：设计精巧装置所需的天赋  
 			1. 我们知道，在现代英语中，engine一词表示“发动机”。那么，在发动机问世之前，engine表示什么呢？其实，engine来自拉丁语ingenium，由in（内在）+gen（产生）+ium（名词后缀）构成，意思是“天赋，内在才能”。12世纪左右进入法语后演变为engin，表示“技能、才智、诡计、战争器械”等含义。13世纪左右进入英语后演变为engine，词义演变为“（战争中使用的）精巧的机械装置”。当蒸汽机问世后， engine通常专指从自然界获取能量并将其转换为机械能的装置，即中文所说的“发动机”。与它同源的英语单词有ingenious（心灵手巧的）、ingenuity（独创性）。  
 				1. engine：['endʒɪn] n.引擎，发动机，机车，火车头  
@@ -259,7 +297,7 @@
 				3. engineering：['ɛndʒə'nɪrɪŋ] n. 工程，工程学  
 				4. ingenious：[ɪn'dʒiːnɪəs] adj.心灵手巧的，有独创性的，机灵的  
 				5. ingenuity：[,ɪndʒɪ'njuːɪtɪ] n.独创性，心灵手巧，精巧，精巧的装置
-	21. ingenious
+	25. ingenious (indigenous, ingenious)
 		1. in-内 + geni-产生 + -ous形容词后缀 → 自内心产生 → 聪明的。
 		2. _adj._ [creative](dic://creative), [originative](dic://originative), [artful](dic://artful), [adroit](dic://adroit)
 		3. _n._ [uncreative](dic://uncreative), [artless](dic://artless), [maladroit](dic://maladroit)
@@ -273,21 +311,27 @@
 			8. [shrewd](dic://shrewd) 指精明老练，有头脑，善于判断，把握有利机会。
 		4. **clever**聪明的;**inventive**有发明才能的;**innovative**新发明的, 新引进的;**artful**狡猾的;**brilliant**闪光的, 明亮的;**imaginative**富于想像力的;**devised**计划;**cleverly**聪明地;**cunning**狡猾的;**devious**弯曲的;**devise**设计;
 		5. ingenuity
-		6. ingenuous
-			1. 1 - 来自拉丁语 ingenuus,天生的，出生高贵的，来自 in-,进入，使，内在，-gen,生育，出生，词源同 gene,gentle.原指出生高贵的，后引申词义真诚的，天真无邪的，但现在多用于贬义天真的，单纯的。
-			2. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
-			3. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
-			4. [disingenuous](dic://disingenuous), [artful](dic://artful), [sophisticated](dic://sophisticated)
-	22. ingenue
+	26. ingenuous
+		1. 1 - 来自拉丁语 ingenuus,天生的，出生高贵的，来自 in-,进入，使，内在，-gen,生育，出生，词源同 gene,gentle.原指出生高贵的，后引申词义真诚的，天真无邪的，但现在多用于贬义天真的，单纯的。
+		2. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
+		3. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
+		4. [disingenuous](dic://disingenuous), [artful](dic://artful), [sophisticated](dic://sophisticated)
+	27. ingenue
 		1. n. 天真无邪的姑娘, 扮演天真姑娘的女演员
 		2.  来自法语 ingenue,词源同 ingenuous,天真无邪的。引申词义纯真少女，特别指戏剧或舞台表演的少女形象。
 		3. _n._ [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [juvenile](dic://juvenile), [juvenile person](dic://juvenile person)
 		4. **actress**女演员;**heroine**女英雄;**diva**歌剧中的首席女主角;**socialite**社会名流;**ballerina**芭蕾舞女演员;**vaudeville**杂耍;**melodrama**情节剧;**glamorous**富有魅力的;**sassy**无礼的;**heiress**女继承人;**sultry**闷热的;
-	23. benign
+		5. There is an ingenue air about her. /她有天真无邪的气质。
+		6. This is no time to have a political ingenue as secretary of state. /这不是让政治经验不足的人当国务卿的时候。
+		7. So he was still very much a political ingenue, until, that is, he met the likes of him /所以，从政治角度上说他还是不够老练，直到他遇见了这样一个人。
+		8. I'm trying to figure out whether I should go with " high school senior" ...or " coquettish ingenue." /我现在正琢磨我是该摆“高中毕业生”还是“风情美少女。”
+		9. Yeah, you don't. You don't hear about it, but normally maybe it's like the younger, more ingenue girls and then they develop more. /是的，确实没有。你没听说过，但通常情况下，这可能就像更年轻、更天真的女孩，然后她们发展得更多。
+	28. benign
 		1. bene-好 + gn-出生，指出生好的，有教养的。
-	24. malign
-		1. mal-坏的，不良的 + gn-出生， 字面意思即出生就坏的，引申词义诽谤，中伤等。
-	25. cognate
+	29. malign
+		1. mal-坏的，不良的 + gn-出生， 字面意思即出生就坏的，引申词义诽谤，中伤等。 
+		2. mel-(5)
+	30. cognate
 		1. co-同 + gn-出生 + -ate → 同出生的 → 同种的。
 		2. a. 同族的, 同语系的, 同词源的, 母族的, 同性质的, 同类的, 同种的  
 		3. n. 亲族, 同语系的语言, 同词源的词, 同性质的东西, 同源物
@@ -302,15 +346,15 @@
 		12. _[cognate object](dic://cognate%20object)_  同根宾语；同源宾语
 		13. _[cognate interaction](dic://cognate%20interaction)_  同种相互作用
 		14. _[cognate inclusion](dic://cognate%20inclusion)_  同源包体；均匀包合物
-	26. progeny
+	31. progeny
 		1. [offspring](dic://offspring), [issue](dic://issue)
 		2. _n._ [relative](dic://relative), [relation](dic://relation)
 		3. **offspring**子女, 子孙, 后代;**sire**陛下;**progenitor**祖先;**lineage**血统;**pedigree**家谱;**brood**沉思;**breeding**教养;**bred**繁殖;**clones**无性繁殖系个体;**stallion**种马;**descendant**后代, 后裔;
-	27. pathogeny
+	32. pathogeny
 		1. _[pathogeny](dic://pathogeny)_  n. [基医] 病原；[病理] 发病机理
 		2. _[pathogeny microbiology](dic://pathogeny%20microbiology)_ 病原微生物学
 		3. _[pathogeny identification](dic://pathogeny%20identification)_ 病原检测
-	28. kindred
+	33. kindred
 		1. [kin](dic://kin), [kin group](dic://kin group), [kinship group](dic://kinship group), [clan](dic://clan), [tribe](dic://tribe)
 		2. [akin(p)](dic://akin(p)), [related](dic://related)
 		3. _n._ [social group](dic://social group)
@@ -319,10 +363,10 @@
 		6. **kinship**亲属关系，家属关系;**spirits**精力;**spirit**精神;**soul**灵魂;**like-minded**具有相似意向或目的的;**familial**家庭的;**ancestral**祖先的,祖宗传下来的;**brethren**弟兄们;**dearest**最亲爱的人;**fellow**同事;**affinity**吸引力;
 		7. _kindred spirit_ 志趣相投的人
 		8. king
-	29. anthropogeny
+	34. anthropogeny
 		1. _[anthropogeny](dic://anthropogeny)_  n. 人类起源论（等于anthropogenesis）
-	30. cancerogenic, carcinogen
-	31. etc...
+	35. cancerogenic, carcinogen
+	36. etc...
 3. **-gen** = 中文翻译成“...原”，原意表示“产生”。
 	1. allergen
 		1. n. 过敏原; 变(态反)应原
@@ -371,15 +415,16 @@
 			1. degermation
 	3. germane  (germane, fitting, condign, apposite, commensurate)
 		1. 来自拉丁语 germen,来自 gen-,生育，词源同 generate.即同种类的，贴切的。字母 n 在 m 前 r 化，比较 charm.
-		2. a. 关系密切的, 有关的, 同样的, 恰当的, 贴切的
-		3. - adj. 有密切关系的；贴切的；恰当的
-		4. [related](dic://related)
-		5. **pertinent**有关的;**relevant**有关的;**irrelevant**不相干的,不相关的;**pertain**关于;**salient**突出的;**debatable**有争议的,有问题的,可争辩的;**substantive**独立的;**particularly**特别;**topic**题目;**unrelated**无关的, 不相关的;**instructive**教育性的;
-		6. contingent, 
-		7. awry, sidebar, 
-		8. That's really germane to this whole discussion right now /和我们现在讨论的问题有密切关联。
-		9. But when it talks about these publicly, it is mostly because they are germane to its business. /但当它公开谈论这些时，主要是因为它们与其业务密切相关。
-		10. The call for public engagement with the unthinkable is especially **germane** in this moment of still-uncontrolled pandemic and economic crises in the world's most technologically advanced nations /在世界上技术最先进的国家仍然不能控制疫情和经济危机的时刻，呼吁公众参与令人无法想象的事情尤为重要。
+		2. germ-种子 + -ane, 来自同一品种 → 关系密切的。
+		3. a. 关系密切的, 有关的, 同样的, 恰当的, 贴切的
+		4. - adj. 有密切关系的；贴切的；恰当的
+		5. [related](dic://related)
+		6. **pertinent**有关的;**relevant**有关的;**irrelevant**不相干的,不相关的;**pertain**关于;**salient**突出的;**debatable**有争议的,有问题的,可争辩的;**substantive**独立的;**particularly**特别;**topic**题目;**unrelated**无关的, 不相关的;**instructive**教育性的;
+		7. contingent, 
+		8. awry, sidebar, 
+		9. That's really germane to this whole discussion right now /和我们现在讨论的问题有密切关联。
+		10. But when it talks about these publicly, it is mostly because they are germane to its business. /但当它公开谈论这些时，主要是因为它们与其业务密切相关。
+		11. The call for public engagement with the unthinkable is especially **germane** in this moment of still-uncontrolled pandemic and economic crises in the world's most technologically advanced nations /在世界上技术最先进的国家仍然不能控制疫情和经济危机的时刻，呼吁公众参与令人无法想象的事情尤为重要。
 	4. germen
 	5. germinal
 		1. unigerminal
@@ -428,16 +473,23 @@
 		5. agnation
 		6. agnatic
 	4. connate
-		1. [cognate](dic://cognate)
+		1. a. 天赋的, 先天的, 同族的
+		2. [cognate](dic://cognate)
 			1. [akin(p)](dic://akin(p)), [blood-related](dic://blood-related), [consanguine](dic://consanguine), [consanguineous](dic://consanguineous), [consanguineal](dic://consanguineal), [kin(p)](dic://kin(p))
-		2. [adnate](dic://adnate), [unrelated](dic://unrelated)
-		3. connation
-	5. innate
+		3. [adnate](dic://adnate), [unrelated](dic://unrelated)
+		4. connation
+	6. innate (inherent)
+		1. a. 先天的, 天生的
 		1. [congenital](dic://congenital), [inborn](dic://inborn), [native](dic://native), [natural](dic://natural),
 		2. [acquired](dic://acquired), [conditioned](dic://conditioned)
 		3. **instinctive**本能的;**intrinsic**固有的, 内在的, 本质的;**instinct**本能，直觉;**inherent**固有的;**intellect**智力;**immune**免疫的;**intuition**直觉;**ability**能力，能耐;**empathy**移情作用;**latent**潜在的;**newfound**新发现的;
-		4. innateness
-		5. innately
+		4. innate common sense /天生的常识。
+		5. an innate knowledge of right and wrong. /一种内在的对正确和错误的判断
+		6. the innate conservatism of British businessmen /英国商人天生的保守思想
+		7. an inbred distrust of radicalism.See Synonyms at innate /激进主义与生俱来的不信任感参见 innate
+		8. It's a form of innate or unlearned optimism. /这是一种内在，无需学习的乐观主义精神。
+		9. innateness
+		10. innately
 	1. naive
 		1. naivete
 		2. naivety
@@ -890,13 +942,26 @@
 		11. _debit balance_ 借方余额；借方差额
 		12. _debit side_ 借方；收方
 	3. debt
-		1. indebted, indebtedness
-			1. **grateful**感谢的;**owe**感激;**owed**感恩，亏欠，负债];**owes**感恩;**repay**偿还;**obliged**感激的;**fortunate**交好运的, 带来好运的;**esteemed**受人尊敬的;**repaid**偿还;**lent**借给;**appreciative**有欣赏力的;
-			2. _[be indebted](dic://be%20indebted)_  承蒙
-			3. _[be indebted to](dic://be%20indebted%20to)_  负债于…；负债的，感激的
-		2. debtor
-		3. debtee
-	4. due
+		1. debt - 意为“债务”的debt源于同义的古法语词dette，16世纪以前不带字母b，拼作det。中世纪一些学者认为，既然其终极词源是拉丁语dēbitum（债务），那就应该把不发音的字母b加上去才对。因此，从13至16世纪该词的原法语拼写形式曾一度被拉丁化为debte，受此影响，它的英语拼写形式也相应地改拼作debt。这一改使后人经常把debt一词读错。英语另有几个词，即doubt（怀疑），plumber（管子工），subtle（微妙的）等，词中不发音的字母b也是因为和拉丁词源相联系而后被加上去的。
+		2. n. 债务, 罪过
+		3. 
+		4. indebted (beholden)
+			1. adj. 感激的，蒙恩的；负债的 
+			2. v. 使负债；使受恩惠（indebt 的过去式和过去分词形式）
+			3. **grateful**感谢的;**owe**感激;**owed**感恩，亏欠，负债];**owes**感恩;**repay**偿还;**obliged**感激的;**fortunate**交好运的, 带来好运的;**esteemed**受人尊敬的;**repaid**偿还;**lent**借给;**appreciative**有欣赏力的;
+			4. _[be indebted](dic://be%20indebted)_  承蒙
+			5. _[be indebted to](dic://be%20indebted%20to)_  负债于…；负债的，感激的
+			6. I am in some sort indebted to you. /我在某种程度上要感谢你。
+			7. I am greatly indebted to you for your help /我非常感激你的帮助。
+			8. a heavily indebted businessman was being pursued by creditors /负债累累的商人正被债主们逼得走投无路。
+			9. I am indebted to her for her help in indexing my book /她为我的书做索引，对此我不胜感激。
+			10. I am deeply indebted to all the doctors and nurses who treated me. /我深深地感激所有救治过我的医生和护士。
+			11. He grew up quite well off and always felt indebted to those who didn't. /他在富裕的环境中长大，总是觉得亏欠那些不富裕的人。
+			12. 
+		5. indebtedness
+		6. debtor
+		7. debtee
+	5. due
 		1. _due for_ 应该得到
 		2. _due out_ 待发；待退；应离店但还未离店
 		3. [owed](dic://owed)
@@ -1564,7 +1629,7 @@
 		13. She was gloating about sleeping with you, and I just wanted to shut her up /她正吹嘘和你做爱，我只是想让她住嘴。
 		14. " And I wish they'd stop singing that stupid song, " said Hermione miserably, " haven't they gloatedenough? " /“我希望他们别再唱这首傻乎乎的歌了。”赫敏难过地说，“他们还不够得意吗？”
 	22. gloom
-		1. gloomy (moody, dreary, drab, dingy, grim, gloomy)
+		1. gloomy (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
 			1. [grim](dic://grim), [darkening](dic://darkening)
 			2. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
 			3. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
@@ -1903,7 +1968,7 @@
 		1. _[achrestic](dic://achrestic)_ 失利用性的; 利用不能的;
 	5. antichresis
 2. **hort-** = encourage, 表示“鼓励”。源自拉丁语 hortari "to urge on, encourage."
-	1. exhort (expostulate)
+	1. exhort (expostulate, admonish)
 		1. ex-出 + hort-鼓励 → 鼓励人出去做事。
 		2. ex-,向外，-hort,神恩，鼓励，词源同 hortatory, charisma.
 		3. [cheer](dic://cheer), [inspire](dic://inspire), [urge](dic://urge), [barrack](dic://barrack), [urge on](dic://urge on), [pep up](dic://pep up)
@@ -1940,7 +2005,7 @@
 		2. n._ [discouraging](dic://discouraging)
 		3. **verb**动词;**verbs**动词;**adjective**形容词;**noun**名词;**participle**分词;**imperative**紧要的;**colloquial**口语的, 会话的;**nouns**名词;**modality**形式，形态;**grammatical**语法的;**singular**单数的;
 		4. _[hortative](dic://hortative)_  adj. 劝告的；奖励的
-	5. hortatory
+	5. hortatory [美 /'hɔrtə,tori/](cmd://Speak/_us_/hortatory)
 		1. adj. 激励的；劝告的
 		2. _adj._ [encouraging](dic://encouraging)
 		3. _n._ [discouraging](dic://discouraging)
@@ -2698,7 +2763,7 @@
 		11. In essence, they're getting weaker, because their ability to overcome suffering is regressing. /本质上，他们变得越来越弱，因为他们克服痛苦的能力正在退化。
 		12. Indeed, women's views on gender roles have shown signs of regressing in recent years. /事实上，女性对性别角色的看法近年来有退步的迹象。
 	10. retrogress
-	11. transgress
+	11. transgress (trespass)
 		1. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
 		2. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
 		3. _[transgress duty](dic://transgress%20duty)_ 越过职责
@@ -4466,10 +4531,18 @@
 		4. vivandiere
 			1. _._ 随军女小贩
 	15. victual
-		1.  [comestible](dic://comestible), [edible](dic://edible), [eatable](dic://eatable), [pabulum](dic://pabulum), [victuals](dic://victuals)
-		2. _n._ [food](dic://food), [nutrient](dic://nutrient)
-		3. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [store](dic://store), [hive away](dic://hive away), [lay in](dic://lay in)
-		4. **sustenance**食物;**procure**获得，取得;**thee**你;**nigh**近于;**hath**有;**rations**配给量;**sundry**杂的;**aforesaid**上述的;**likewise**也;**nourishment**食物, 滋养品;**ere**在…以前;
+		1. n. 食物  
+		2. vt. 供应食物给  
+		3. vi. 吃, 贮藏食品
+		4. 来自拉丁语 vivere,生命，存活，-ct,过去分词格，词源同 vivid,vital.引申词义维持生命所需之物，食物，饮料。
+		5.  [comestible](dic://comestible), [edible](dic://edible), [eatable](dic://eatable), [pabulum](dic://pabulum), [victuals](dic://victuals)
+		6. _n._ [food](dic://food), [nutrient](dic://nutrient)
+		7. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [store](dic://store), [hive away](dic://hive away), [lay in](dic://lay in)
+		8. **sustenance**食物;**procure**获得，取得;**thee**你;**nigh**近于;**hath**有;**rations**配给量;**sundry**杂的;**aforesaid**上述的;**likewise**也;**nourishment**食物, 滋养品;**ere**在…以前;
+		9. The ship will victual before sailing /船于航行前先装贮食物。
+		10. " Shall I go and bring the victuals now? /“要不要我现在把早餐拿来？”
+		11. You've as splendid victuals and drink as at other parties, and even better. /丧事有好吃的，好喝的，跟其它聚会一样，甚至还要更好些。
+		12. 
 	16. viper
 		1. **snake**蛇;**serpent**蛇;**lizard**蜥蜴;**venom**毒液;**venomous**有毒的;**spider**蜘蛛;**wasp**黄蜂;**dragon**龙;**pit**深坑;**reptile**爬虫类的;**python**大蟒;
 		2. [snake](dic://snake), [serpent](dic://serpent), [ophidian](dic://ophidian)
@@ -4506,21 +4579,26 @@
 		1. adj. 能飞的；飞的；快速活动的
 	2. volitation
 	3. volley
-		1. volleyball
-	4. volant
-		1. - adj. （动物）能飞的；与飞有关的；（纹章）做飞行状的；（诗、文）快速移动的
+		1. n. 群射, 齐发, 迸发  
+		2. vt. 群射, 齐发, 截击  
+		3. vi. 进行群射, 齐鸣
+		4. - 来自拉丁语 volare,飞，词源同 volatile.比喻子弹发射，齐投，齐发。
+		5. volleyball
+	5. volant
+		1. adj. （动物）能飞的；与飞有关的；（纹章）做飞行状的；（诗、文）快速移动的
 		2. _adj._ [winged](dic://winged)
 		3. _n._ [wingless](dic://wingless)
 		4. newly volant young
 		5. _[volante](dic://volante)_  adj. 轻快的; n. 源于西班牙的敏捷式马车; n. (Volante) （美）沃朗特（人名）;
 		6. circumvolant
 	6. volatile
-		1. [explosive](dic://explosive)
-		2. [fickle](dic://fickle)
-		3. _n._ [substance](dic://substance), [matter](dic://matter)
-		4. _adj._ [evaporable](dic://evaporable), [vaporific](dic://vaporific), [vapourific](dic://vapourific), [vaporizable](dic://vaporizable), [vapourisable](dic://vapourisable), [volatilizable](dic://volatilizable), [volatilisable](dic://volatilisable)
-		5. _n._ [nonvolatile](dic://nonvolatile), [nonvolatilizable](dic://nonvolatilizable), [nonvolatilisable](dic://nonvolatilisable), [stable](dic://stable), [constant](dic://constant), [unchangeable](dic://unchangeable)
-		6. **volatility**挥发性;**unstable**不稳定的;**unpredictable**无法预言的, 不可预测的;**turbulent**骚动的;**tumultuous**无秩序的;**chaotic**混乱的，无秩序的;**erratic**不稳定的;**dangerous**有危险的, 危险的;**toxic**有毒的;**risky**危险的;**explosive**爆炸的, 爆发的;
+		1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) 
+		2. [explosive](dic://explosive)
+		3. [fickle](dic://fickle)
+		4. _n._ [substance](dic://substance), [matter](dic://matter)
+		5. _adj._ [evaporable](dic://evaporable), [vaporific](dic://vaporific), [vapourific](dic://vapourific), [vaporizable](dic://vaporizable), [vapourisable](dic://vapourisable), [volatilizable](dic://volatilizable), [volatilisable](dic://volatilisable)
+		6. _n._ [nonvolatile](dic://nonvolatile), [nonvolatilizable](dic://nonvolatilizable), [nonvolatilisable](dic://nonvolatilisable), [stable](dic://stable), [constant](dic://constant), [unchangeable](dic://unchangeable)
+		7. **volatility**挥发性;**unstable**不稳定的;**unpredictable**无法预言的, 不可预测的;**turbulent**骚动的;**tumultuous**无秩序的;**chaotic**混乱的，无秩序的;**erratic**不稳定的;**dangerous**有危险的, 危险的;**toxic**有毒的;**risky**危险的;**explosive**爆炸的, 爆发的;
 			1. _volatile oil_ 挥发油；香精油
 			2. _volatile matter_ 挥发分，易挥发物
 			3. _volatile market_ 不稳定的行情
@@ -4532,55 +4610,91 @@
 			9. _volatile corrosion inhibitor_ 挥发性减蚀剂；挥发性防腐纸；挥发性防锈剂
 			10. _volatile fatty acid_ 挥发性脂肪酸
 			11. _volatile acid_ 挥发酸
-		14. volatilize
+		8. volatilize
 			1. volatilizer
 			2. volatilization
 			3. volatilizable
-		15. volatility
-		16. volatilise
-		17. nonvolatile
+		9. volatility
+		10. volatilise
+		11. nonvolatile
 
 
 ### + \*gwele- +
 #### + \*gwele- (3) + = 
 1. **glut-** = to devour, 表示“吞吃”。源自拉丁语 gula "gullet, throat," gluttire, glutire "to swallow."
 	1. glut
-		1.  [oversupply](dic://oversupply), [surfeit](dic://surfeit)
-		2. [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
-		3. **dearth**缺乏;**shortage**不足;**scarcity**缺乏;**spate**洪水;**slump**下降，衰落;**surplus**过剩;**deluge**洪水;**downturn**低迷时期;**influx**流入;**awash**被浪冲打的;**slowdown**减速;
-		4. [overabundance](dic://overabundance), [overmuch](dic://overmuch), [overmuchness](dic://overmuchness), [superabundance](dic://superabundance)
-		5. _[saving glut](dic://saving%20glut)_  储蓄过剩
-		6. _[oil glut](dic://oil%20glut)_  石油过剩
-		7. _[dollar glut](dic://dollar%20glut)_  美元过剩
-		8. _[be glutted with](dic://be%20glutted%20with)_  充斥
-		9. _[glut oversupply](dic://glut%20oversupply)_ 供过于求
-		10. _[gas glut](dic://gas%20glut)_ 量供给
-		11. _[Sometimes Glut](dic://Sometimes%20Glut)_ 有时供过于求
-		12. _[glutted with pleasure](dic://glutted%20with%20pleasure)_ 纵情享乐
-		13. _[glut the market](dic://glut%20the%20market)_ 使市场存货过剩; 翻译;
+		1. 来自 PIE*gwele,喉咙，吞食，词源同 gullet.后用于经济学术语，供过于求。
+		2. n. 大量, 供过于求  
+		3. vt. 使充满, 使吃饱, 过多供应  
+		4. vi. 吃得过多, 狼吞虎咽
+		5.  [oversupply](dic://oversupply), [surfeit](dic://surfeit)
+		6. [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
+		7.  [flood](dic://flood), [oversupply](dic://oversupply)
+		8. _n._ [overabundance](dic://overabundance), [overmuch](dic://overmuch), [overmuchness](dic://overmuchness), [superabundance](dic://superabundance)
+		9. _v._ [eat](dic://eat), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		10. **dearth**缺乏;**shortage**不足;**scarcity**缺乏;**spate**洪水;**slump**下降，衰落;**surplus**过剩;**deluge**洪水;**downturn**低迷时期;**influx**流入;**awash**被浪冲打的;**slowdown**减速;
+		11. [overabundance](dic://overabundance), [overmuch](dic://overmuch), [overmuchness](dic://overmuchness), [superabundance](dic://superabundance)
+		12. _[saving glut](dic://saving%20glut)_  储蓄过剩
+		13. _[oil glut](dic://oil%20glut)_  石油过剩
+		14. _[dollar glut](dic://dollar%20glut)_  美元过剩
+		15. _[be glutted with](dic://be%20glutted%20with)_  充斥
+		16. _[glut oversupply](dic://glut%20oversupply)_ 供过于求
+		17. _[gas glut](dic://gas%20glut)_ 量供给
+		18. _[Sometimes Glut](dic://Sometimes%20Glut)_ 有时供过于求
+		19. _[glutted with pleasure](dic://glutted%20with%20pleasure)_ 纵情享乐
+		20. _[glut the market](dic://glut%20the%20market)_ 使市场存货过剩; 翻译;
+		21. glut oneself with food /吃得过饱
+		22. there is a glut of cars on the market. /市场上汽车供大于求。
+		23. Even the surrender of half of Europe failed to glut Hitler's ambition. /即使是半个欧洲的投降也不能满足希特勒的野心。
+		24. The glut of coffee led to a sharp drop in prices. /咖啡供过于求道致价格急剧下跌。
+		25. Nor are rates very sensitive to increases in government borrowing, given the glut of saving. /同时，由于储蓄过剩，利率对于政府举债行为的增多也不是特别敏感。
+		26. Despite investment fleeing Russia, and a glut of office space, construction of new skyscrapers continues. /尽管投资正逃离俄罗斯，有大量办公空间限制，但仍有新的摩天大楼在兴建。
+		28. The global glut of solar panels owes much to protectionism, according to the Hayleys' book /根据海利的书，太阳能电池板在全球范围内的供给过剩是由保护主义造成的。
 	2. glutton
-		1. **eater**食者;**punishment**处罚, 受罚;**indulgence**放纵;**snob**势利小人，势利眼;**foodie**美食家;**hypocrite**伪君子;**compulsive**极有趣的;**craving**热望;**sinner**罪人;**hungry**饥饿的;**connoisseur**鉴识家;
-		2. gluttony
-			1. **indulgence**放纵;**greed**贪婪，贪心;**laziness**怠惰;**immorality**不道德,无道义;**selfishness**自私;**consumerism**商品的消费和销售性服务;**binge**狂欢作乐;**lust**性欲;**excesses**越轨;**idolatry**偶像崇拜;**sinful**有罪的;
-		3. gluttonous, gluttonously
-			1. **greedy**贪婪的;**decadent**颓废的;**indulgent**放纵的;**insatiable**不知足的;**indulgence**放纵;**hungry**饥饿的;**monstrous**极可恶的;**self-centered**自我为中心的,利己主义的;**depraved**堕落的;**selfish**自私的;**binge**狂欢作乐;
-		4. gluttonize
+		1. n. 暴食者, 酷爱...的人
+		2. 1 - 来自 PIE*gwele,喉咙，吞食，词源同 gullet.
+		3. **eater**食者;**punishment**处罚, 受罚;**indulgence**放纵;**snob**势利小人，势利眼;**foodie**美食家;**hypocrite**伪君子;**compulsive**极有趣的;**craving**热望;**sinner**罪人;**hungry**饥饿的;**connoisseur**鉴识家;
+		4. his depiction of himself as a glutton for poetry. /他把自己描述成一个酷爱诗歌的人。
+		5. She’s a glutton for work.She stays late every evening. /她是个工作狂,每天都很晚才下班。
+		6. We'd say that a glutton enjoys and appreciates food, while the opposite may be the case. /我们会说暴食者喜欢并欣赏食物，而情况正好相反。
+		7. gluttony
+			1. [overeating](dic://overeating), [gula](dic://gula)
+			2. _n._ [intemperance](dic://intemperance), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
+			3. **indulgence**放纵;**greed**贪婪，贪心;**laziness**怠惰;**immorality**不道德,无道义;**selfishness**自私;**consumerism**商品的消费和销售性服务;**binge**狂欢作乐;**lust**性欲;**excesses**越轨;**idolatry**偶像崇拜;**sinful**有罪的;
+		8. gluttonous, gluttonously
+			1. _adj._ [crapulous](dic://crapulous), [crapulent](dic://crapulent), [edacious](dic://edacious), [esurient](dic://esurient), [rapacious](dic://rapacious), [ravening](dic://ravening), [ravenous](dic://ravenous)
+			2. _n._ [abstemious](dic://abstemious)
+			3. **greedy**贪婪的;**decadent**颓废的;**indulgent**放纵的;**insatiable**不知足的;**indulgence**放纵;**hungry**饥饿的;**monstrous**极可恶的;**self-centered**自我为中心的,利己主义的;**depraved**堕落的;**selfish**自私的;**binge**狂欢作乐;
+			4. a gluttonous appetite; /贪吃的大胃口；
+			5. the French propagated the idea that the English were violent and gluttonous drunkards. /法国人传播这样的观念： 英国人是狂暴、贪婪的酒鬼。
+			6. Put fillings on the covers, pack and roll them into round balls, then you get gluttonous rice puddings /将馅料放在封皮上，包住并卷成圆球，这样就做出汤圆啦。
+			7. Compared to gluttonous rice puddings, sweet dumplings are more difficult to produce /与汤圆相比，元宵更难做一些。
+			8.  Now, don't you give way to gluttonous desires, my child, " said the woman in weeds reprovingly. /“现在，你不要让位于贪吃的欲望， 我的孩子，” 穿着野草的女人责备道。
+		9. gluttonize
 	3. deglutition
-		1. **swallowing**吞咽;**respiration**呼吸;**esophageal**食道的;**esophagus**食道;**airway**导气管;**digestion**消化;**mucosa**粘膜;**ingestion**摄取;**alveolar**肺泡的;**utterance**说话;**digestive**消化的;
+		1.  [swallow](dic://swallow), [drink](dic://drink)
+		2. _n._ [consumption](dic://consumption), [ingestion](dic://ingestion), [intake](dic://intake), [uptake](dic://uptake)
+		3. **swallowing**吞咽;**respiration**呼吸;**esophageal**食道的;**esophagus**食道;**airway**导气管;**digestion**消化;**mucosa**粘膜;**ingestion**摄取;**alveolar**肺泡的;**utterance**说话;**digestive**消化的;
+		4. Feeling without judgment is a washy draught indeed; but judgment untempered by feeling is too bitter and husky a morsel for human deglutition. /没有判断力的感觉确实是无用的草稿；但是未经感情调和的判断对于人类的吞咽来说太过苦涩和沙哑。
+		5. The degree of **deglutition** difficulty depends on narrow length and caliber size. /吞咽困难的程度取决于狭窄的长度和口径大小。
 	4. gullet
 		1. [esophagus](dic://esophagus), [oesophagus](dic://oesophagus), [gorge](dic://gorge)
 		2. _n._ [passage](dic://passage), [passageway](dic://passageway), [muscular structure](dic://muscular structure), [musculature](dic://musculature), [muscle system](dic://muscle system)
 		3. **throat**喉咙;**esophagus**食道;**mouth**口，嘴;**rectum**直肠;**swallow**燕子;**stomach**胃;**orifice**孔口;**intestine**肠;**bowels**内脏;**tongue**语言;**anus**肛门;
-	6. gully
-		1. _n._ [valley](dic://valley), [vale](dic://vale)
-		2. **ravine**峡谷;**ridge**山脉;**ledge**壁架;**boulder**大圆石;**creek**小溪;**slope**倾斜;**canyon**峡谷;**boulders**岩石;**hillside**山坡，山腹;**hill**小山;**embankment**路堤
+	5. gully
+		1. n. 小峡谷, 排水沟
+		2. _n._ [valley](dic://valley), [vale](dic://vale)
+		3. **ravine**峡谷;**ridge**山脉;**ledge**壁架;**boulder**大圆石;**creek**小溪;**slope**倾斜;**canyon**峡谷;**boulders**岩石;**hillside**山坡，山腹;**hill**小山;**embankment**路堤
 2. jowl
 	1. _n._ 颌,颚骨,面颊
-	2. [lower jaw](dic://lower jaw), [mandible](dic://mandible), [mandibula](dic://mandibula), [mandibular bone](dic://mandibular bone), [submaxilla](dic://submaxilla), [lower jawbone](dic://lower jawbone), [jawbone](dic://jawbone)
-	3. _n._ [jaw](dic://jaw), [articulator](dic://articulator), [feature](dic://feature), [lineament](dic://lineament)
-	4. **cheek**面颊，脸颊;**chin**下巴;**cheeks**面颊;**pork**猪肉;**brow**眉，眉毛;
-	5. _cheek by jowl_ adv. 紧密地
-	6. _cheek by jowl with_ ◎(与…)紧挨着;◎(与…)很亲密;
+	2. n. 下颌; 双下巴, 下颌垂肉
+	3. - 来自古英语 ceole,喉咙，来自 PIE*gwele,吞食，吞咽，词源同 glut,gullet.拼写受 jaw 影响。引申词义下颌垂肉，双下巴。
+	4. [lower jaw](dic://lower jaw), [mandible](dic://mandible), [mandibula](dic://mandibula), [mandibular bone](dic://mandibular bone), [submaxilla](dic://submaxilla), [lower jawbone](dic://lower jawbone), [jawbone](dic://jawbone)
+	5. _n._ [jaw](dic://jaw), [articulator](dic://articulator), [feature](dic://feature), [lineament](dic://lineament)
+	6. **cheek**面颊，脸颊;**chin**下巴;**cheeks**面颊;**pork**猪肉;**brow**眉，眉毛;
+	7. _cheek by jowl_ adv. 紧密地
+	8. _cheek by jowl with_ ◎(与…)紧挨着;◎(与…)很亲密;
+	9. 
 
 
 ### + \*gwer- + = to lift up the voice, praise

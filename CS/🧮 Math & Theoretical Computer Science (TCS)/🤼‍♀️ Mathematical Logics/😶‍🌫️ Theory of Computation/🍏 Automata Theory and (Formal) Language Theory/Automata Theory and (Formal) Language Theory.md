@@ -82,4 +82,4 @@ Automata theory is closely related to [formal language](https://en.wikipedia.or
 
 [Lecture 7: Streaming Algorithms and Communication Complexity | Stanford]: https://people.csail.mit.edu/rrw/6.045-2020/lec7-color.pdf
 
-
+[计算理论】计算理论总结 ( 上下文无关文法 | 乔姆斯基范式 | 乔姆斯基范式转化步骤 | 示例 ) ★★ | CSDN]: https://hanshuliang.blog.csdn.net/article/details/111460929?fromshare=blogdetail&sharetype=blogdetail&sharerId=111460929&sharerefer=PC&sharesource=&sharefrom=from_link

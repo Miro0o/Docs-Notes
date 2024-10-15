@@ -7,6 +7,7 @@ The overall design of Lab 2 is as follows:
 
 //============== KeyStore ==================
 // uuid(username+"_DS"): Public_key_for_Digital_Signiture
+// uuid(username+"_PKE"): Public_key_for_Encryption
 
 // ============= DataStore =================
 // uuid(user_name): {HMAC, user_meta}
@@ -42,6 +43,7 @@ type file_meta struct{
 // file_content_node2: {HMAC, file_content}
 // ...
  ```
+
 ### Functions Designs (encryption methods are introduced in the diagram)
 1. `InitUser(username string, password string) (userdataptr *User, err error)`
 	1. Create `user_meta` and initialize it: randomly generate `User_salt`, computing `hash(salt, password)` and store it as `User_pwst_hash`. 

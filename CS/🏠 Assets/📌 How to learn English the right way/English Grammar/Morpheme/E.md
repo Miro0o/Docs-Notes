@@ -9,34 +9,35 @@
 	2. n. 内壕
 	3. e- + scarp【n. 悬崖】
 	4. escarpment
-3. eschew (elude, )
-	3. e-缓音字母 + -schew = shy, 害羞，逃避。
-	4. [shun](dic://shun)
-	5. _v._ [avoid](dic://avoid)
-	6. **shun**避开, 回避, 避免;**forgo**放弃;**abandon**离弃;**prefer**宁愿;**loathe**讨厌，厌恶;**embrace**包含;**opt**选择;**insist**坚持，强调;**favor**喜欢;**avoid**避免;**ignore**驳回诉讼，忽视，不理睬;
-	7. Maybe they didn't want to be found so they just eschewed scientists /也许它们并不想被发现，所以才避开科学家。
-	8. In recent years—having once eschewed such missions—China has become a frequent contributor of blue-helmet troops. /曾一度不介入维和行动的中国，近年来已成为蓝盔部队的一份子，频繁参与联合国维和行动。
-	9. She eschewed political causes; her fight was “against the bad poet who is prone to using too many words” /她远避政治；她的斗争是针对那些“会用词太多的差劲诗人”。
-4. escritoire
+3. eschew 
+	1. (shirk, shun, chide, spurn, elude, eschew)
+	2. e-缓音字母 + -schew = shy, 害羞，逃避。
+	3. [shun](dic://shun)
+	4. _v._ [avoid](dic://avoid)
+	5. **shun**避开, 回避, 避免;**forgo**放弃;**abandon**离弃;**prefer**宁愿;**loathe**讨厌，厌恶;**embrace**包含;**opt**选择;**insist**坚持，强调;**favor**喜欢;**avoid**避免;**ignore**驳回诉讼，忽视，不理睬;
+	6. Maybe they didn't want to be found so they just eschewed scientists /也许它们并不想被发现，所以才避开科学家。
+	7. In recent years—having once eschewed such missions—China has become a frequent contributor of blue-helmet troops. /曾一度不介入维和行动的中国，近年来已成为蓝盔部队的一份子，频繁参与联合国维和行动。
+	8. She eschewed political causes; her fight was “against the bad poet who is prone to using too many words” /她远避政治；她的斗争是针对那些“会用词太多的差劲诗人”。
+5. escritoire
 	1. n. (有抽屉的)写字台
-5. escutcheon
+6. escutcheon
 	1. n. 有花纹的盾, 孔罩
 	2.  - e-,缓和语音，-scud,盾，来自 PIE*skei,分开，词源同 shield.后用于物品名。
 	3. **heraldic**纹章的;**emblem**象征;**insignia**徽章;**monogram**交织文字;**faucet**旋塞;**emblems**象征动作;**crest**冠;**brass**黄铜;
-6. espalier
-7. especial, especially
-8. esperanto
+7. espalier
+8. especial, especially
+9. esperanto
 	1. _n._ [artificial language](dic://artificial language)
 	2. **language**语言;**English**英国人的;**Yiddish**意第绪语;**Catalan**加泰罗尼亚语;**Spanish**西班牙的;**bilingual**两种语言的;**linguistics**语言学;**linguist**语言学家;**English-speaking**说英语的;**multilingual**使用多种语言的;**Indo-European**印欧;
 	3. Radio Beijing's Esperanto program is the most popular program in Esperanto in the world. /北京广播电台的世界语栏目是世界上最流行的世界语节目。
 	4. Esperanto also has a highly productive system of constructing new words from old ones. /世界语同样有一套高产的新词生成系统，即从旧词中生成新词。
-9. espionage
+10. espionage
 	1. A组：esquire [ɪ'skwaɪə] n.绅士和squire [skwaɪə] n.乡绅（中世纪拉丁语作 scutarius）。B组：spy n.间谍和espionage['espɪənɑːʒ] n.间谍活动。C组：estate n.财产；身份和state n.情况。什么原因？罗马帝国后期罗马人越发觉着sc-,sp-和st开头的单词难发音或发音难听，就在前边加了个e-。
 	2. _n._ [spying](dic://spying), [undercover work](dic://undercover work)
 	3. **spy**侦察;**spying**侦探;**covert**隐蔽的;**clandestine**秘密的,保密的,暗中的;**subversion**颠覆;**treason**叛国罪;**intrigue**阴谋;**bribery**贿赂;**subversive**破坏性的;**terrorism**恐怖主义;**criminal**罪犯;
 	4. counterespionage
 	5. antiespionage
-10. espouse
+11. espouse
 	1.  [adopt](dic://adopt), [follow](dic://follow)
 	3.  [marry](dic://marry), [get married](dic://get married), [wed](dic://wed), [conjoin](dic://conjoin), [hook up with](dic://hook up with), [get hitched with](dic://get hitched with)
 	4.  [embrace](dic://embrace), [adopt](dic://adopt), [sweep up](dic://sweep up)
@@ -47,28 +48,28 @@
 	9. It espoused the conventional wisdom of the day—what is often called the “Treasury view”. /它站在了当时的传统智慧，也就是常说的“财政部观点”一边。
 	10. Both authors espouse the importance of discipline, ritual and habit in managing time more productively. /在更高效地管理时间方面，两位作者都赞同自律、仪式和习惯的重要性。
 	11. Yes, of course. Aurelius espouses a perversion of Stoic philosophy as justification for his crimes. /当然，奥里利乌斯利用对斯多葛哲学的曲解来为他的罪行开脱。
-11. espousal
+12. espousal
 	1. 
-12. espy
+13. espy
 	1. **apprehend**理解;**procure**获得，取得;**indubitably**无疑地;**ere**在…以前;**ascertain**弄清, 确定, 查明;**likewise**也;**moreover**此外;
-13. espial
+14. espial
 	1. [detection](dic://detection), [catching](dic://catching), [spying](dic://spying), [spotting](dic://spotting)
-14. establish
+15. establish
 	1. reestablishing
 	2. reestablish
 	3. preestablish
 	4. establishment
 	5. established
 	6. disestablishment
-15. estate
+16. estate
 	1. real-estate
 	2. estaed
-16. estop
+17. estop
 	1. estoppel
 	2. estoppage
 	3. **tort**侵权行为;**doctrine**教义;**plaintiff**原告;**adjudication**宣告;**appellant**上诉人;**waiver**弃权，放弃;**presumption**推测;**enforceable**可实施的;**defendant**被告;**equitable**公正的,合理的;
-17. estray
-18. estreat
+18. estray
+19. estreat
 
 
 
@@ -257,14 +258,24 @@
 ## eg
 ### + \*eg- +
 1. **ig-** = lack, 表示“缺乏”。源自拉丁语 egere "to lack, be in want."
-	1. indigence
+	1. indigency
+	2. indigent
+		1. indi-,在内，在里，来自 in-的扩大形式，-ig,缺乏，需要，来自拉丁语 egere,需要的，来自 PIE*angh,紧的，紧缩的，词源同 anguish,anxious.引申词义贫穷的。
+		2. (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+		3.  [destitute](dic://destitute), [impoverished](dic://impoverished), [necessitous](dic://necessitous), [needy](dic://needy), [poverty-stricken](dic://poverty-stricken)
+		4. _adj._ [poor](dic://poor)
+		5. _n._ [rich](dic://rich)
+		6. **destitute**赤贫的, 贫苦的;**needy**贫穷的;**impoverished**穷困的,无力的,用尽了的;**uninsured**未保险的;**homeless**无家可归的;**underprivileged**被剥夺基本权力的,穷困的,下层社会的;**disadvantaged**贫穷的,处于不利地位的;**poor**可怜的;**underserved**服务不周到的,服务水平低下的;**Medicaid**医疗补助计划;**elderly**过了中年的;
+		7. The town government is responsible for assistance to indigent people. /镇政府负责给穷人提供帮助。
+		8. Indigent places are often racked by chaos; but somewhat better-off ones are not necessarily more stable. /贫困的国家经常遭遇骚乱，但并不意味着经济状况稍好的国家就会更稳定。
+		9. In one sense, expired is a synonym for died, and in indigent circumstances for poor /在某种意义上，expired 是 death 的同义词，在贫穷的情况下是 poor 的同义词。
+		10. And then his father died young, and Chaplin was sent to a workhouse as an indigent child /后来他的父亲早逝，卓别林作为一个贫困的孩子被送到济贫院。
+		11. That which is carried on for the benefit of the poor and the indigent is too often either neglected or oppressed. /那些为穷人和穷人的利益而进行的活动往往要么被忽视， 要么受到压迫。
+	3. indigence
 		1. indigence ['ɪndɪdʒ(ə)ns] n.穷困。它与indigenous [ɪn'dɪdʒɪnəs] adj.本土的；国产的；固有的，看着相似，但是前缀indi-表into,within一样，词根不一样。indigence的词根是ig-表lack，indigence=a lacking inside家徒四壁之感，indigenous的词根是gen-表出生，born within a certainplace。
 		2. **destitute**赤贫的, 贫苦的;**poverty**贫困;**deprivation**剥夺;**hardship**困苦;**abject**卑贱的;**sustenance**食物;**subsistence**存活, 生存, 维生之道;**mistreatment**虐待;**misery**痛苦，悲惨;**welfare**福利;**affliction**折磨;
 		3. [need](dic://need), [penury](dic://penury), [pauperism](dic://pauperism), [pauperization](dic://pauperization)
 		4. [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment)
-	2. indigency
-	3. indigent
-		1. indi-,在内，在里，来自 in-的扩大形式，-ig,缺乏，需要，来自拉丁语 egere,需要的，来自 PIE*angh,紧的，紧缩的，词源同 anguish,anxious.引申词义贫穷的。
 
 
 ### ⭐ + \*eghs- + = out
@@ -1250,16 +1261,18 @@
 	6. Entoderm
 	7. Entozoon
 8. **eso-** = within, 表示“内”。源自希腊语 eso "within."
-	1. esoteric (intrinsic, exorcise, occult) (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric)
-		1. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
-		2. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
-		4. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
-		5. esoteric interests. /少数人的利益
-		6. esoteric philosophical debates. /深奥的哲学辩论。
-		7. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
-		8. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
-		9. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
-		10. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
+	1. esoteric
+		1. (intrinsic, exorcise, occult)
+		2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative) 
+		3. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
+		4. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
+		5. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
+		6. esoteric interests. /少数人的利益
+		7. esoteric philosophical debates. /深奥的哲学辩论。
+		8. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
+		9. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
+		10. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
+		11. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
 9. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
 	1. etc.. (too many!)
 10. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."

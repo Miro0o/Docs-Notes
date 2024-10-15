@@ -96,9 +96,19 @@
 	16. _fatigue fracture_ 疲劳断裂；疲劳骨折
 3. indefatigability
 4. indefatigable
-	1. _adj._ [energetic](dic://energetic)
-	2. _n._ [lethargic](dic://lethargic), [unergetic](dic://unergetic)
-	3. **tireless**不疲劳的;**tenacious**抓紧的;**intrepid**无畏的;**ardent**热情的;**relentless**残酷的, 不留情的, 无怜悯心的;**stalwart**坚定的;**diligent**勤勉的;**prodigious**巨大的;**zealous**热心的，热情的，积极的;**dogged**顽强的;**valiant**英勇的，勇敢的;
+	1. (perseverance, diligent, assiduous, unyielding, indefatigable, )
+	2. 
+	3. in-使… + de-否定 + fatig-疲倦 + -able, 表形容词 → 使不知疲倦。
+	4. a. 不知疲倦的, 有耐性的, 不屈不挠的
+	5. _adj._ [energetic](dic://energetic)
+	6. _n._ [lethargic](dic://lethargic), [unergetic](dic://unergetic)
+	7. **tireless**不疲劳的;**tenacious**抓紧的;**intrepid**无畏的;**ardent**热情的;**relentless**残酷的, 不留情的, 无怜悯心的;**stalwart**坚定的;**diligent**勤勉的;**prodigious**巨大的;**zealous**热心的，热情的，积极的;**dogged**顽强的;**valiant**英勇的，勇敢的;
+	8. an amalgam of charming agreeability and indefatigable humor /极为令人愉快而又富于幽默的混合
+	9. an indefatigable advocate of equal rights /一个不屈不挠的权利平等的倡导者；
+	10. NPR's indefatigable Eleanor Beardsley is on the line now from Paris. /NPR新闻精力充沛的埃莉诺·比尔兹莉将从巴黎和我们进行连线。
+	11. Honour to those indefatigable spirits who consecrate their vigils to the amelioration or to the alleviation of their kind! /光荣归于不知疲倦、不分昼夜、献身事业、增进人类幸福、减轻人类痛苦的天才！
+	12. With his mind's eye, Bernard saw the needle on the scent meter creeping round and round, antlike, indefatigable. /他心里的眼睛看见那香水指针一圈一圈不疲倦地走着，像蚂蚁一样。
+	13. 
 
 
 ### + \*fauc- + = 表示“咽喉”，参见拉丁语 lauces“咽喉、喉咙”。
@@ -117,10 +127,12 @@
 	2. _n._ [passage](dic://passage), [passageway](dic://passageway)
 	3. **mucosa**粘膜;**nostrils**鼻孔;**anterior**前面的;**anus**肛门;**nasal**鼻的;**esophagus**食道;**sinuses**鼻窦;**throat**喉咙;**mucous**黏液的;
 5. faucet
-	1. [spigot](dic://spigot)
-	2. _n._ [regulator](dic://regulator)
-	3. **sink**下沉;**countertop**工作台面;**bathtub**浴缸;**spout**喷口;**backsplash**挡板;**plumbing**管道装置;**shower**淋浴;**bathroom**浴室;**tub**桶;**taps**熄灯号;**sprinkler**洒水器;
-6. suffocate
+	1. n. 龙头, 开关, 旋塞
+	2. fauc-咽喉 + -et
+	3. [spigot](dic://spigot)
+	4. _n._ [regulator](dic://regulator)
+	5. **sink**下沉;**countertop**工作台面;**bathtub**浴缸;**spout**喷口;**backsplash**挡板;**plumbing**管道装置;**shower**淋浴;**bathroom**浴室;**tub**桶;**taps**熄灯号;**sprinkler**洒水器;
+7. suffocate
 	1. _v._ [kill](dic://kill), [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block)
 	2. **breathe**呼吸;**drown**淹没;**choking**透不过气来的;**starve**饿死;**bury**埋葬;**choke**使窒息;**stifling**沉闷的;**trapped**陷入困境的;**kill**杀死;**explode**爆炸，爆发;**stifle**使窒息;
 	3. suffocative
