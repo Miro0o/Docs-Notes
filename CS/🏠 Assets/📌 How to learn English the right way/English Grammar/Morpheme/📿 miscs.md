@@ -549,27 +549,7 @@ bang
 	- n. 砰砰的枪声, (喻)暴烈行为, 射击
 
 banter
-- buffoonery, facetious, chaffing, badinage, bantering, quizzical, waggish
-- [raillery](dic://raillery), [give-and-take](dic://give-and-take), [backchat](dic://backchat)
-- [kid](dic://kid), [chaff](dic://chaff), [jolly](dic://jolly), [josh](dic://josh)
-- _n._ [repartee](dic://repartee)
-- _v._ [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait)
-- **bickering**争吵;**chatting**聊天;**joking**戏谑的;**flirting**玩弄;**antics**滑稽动作;**conversation**交谈, 谈话, 会话;**teasing**戏弄;**laughing**可笑的;**mocking**嘲弄的;**talking**说话的，多嘴的;**silliness**愚蠢;
-- [bantering](dic://bantering), [facetious](dic://facetious), [tongue-in-cheek](dic://tongue-in-cheek)
-- _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
-- _[bantering nature](dic://bantering%20nature)_ 戏谑性
-- _[bantering performance](dic://bantering%20performance)_ 谐谑表演
-- _[bantering novel](dic://bantering%20novel)_ 谐谑小说
-- _[bantering poem](dic://bantering%20poem)_ 谐谑诗
-- _[a bantering tone](dic://a%20bantering%20tone)_ 戏谑的口吻; 我;
-- the men bantered with the waitresses. /男人们和女招待谈笑逗趣。
-- He bantered with his grandchildren. /他和他的几个孙子逗乐。
-- The students exchanged banter with each other. /同学们互相开玩笑。
-- I really enjoy our banter at work! /我真的很喜欢我们工作时的玩笑！
-- Sure, I engaged in some friendly e-mail banter. /好吧，我确实有开一些无害的邮件玩笑。
-- Hello. Hello. All right, let's dispense with the friendly banter. /你好 好啊 得 我们就省掉假惺惺的友好吧。
-- You don't have to do the banter, but what's it cost me? /其实不用非得逗她 不过我又不会少块肉对吧？
-- It was banter. Has this country come to the point where you can't joke with the help? /我开玩笑呢。美国什么时候成这样了不能跟佣人开玩笑？
+- bassus-
 
 baobab
 - n. 猴面包树
@@ -1144,6 +1124,21 @@ book
 - blankbook
 - bankbook
 
+boor
+- - n. 农民；粗野的人；不懂礼貌的人
+-  [peasant](dic://peasant), [barbarian](dic://barbarian), [churl](dic://churl), [Goth](dic://Goth), [tyke](dic://tyke), [tike](dic://tike)
+- _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person)
+- **vulgar**粗俗的;**pompous**浮夸的;**bigot**偏执的人;**moron**痴愚者;**rude**粗鲁的;**idiot**白痴;**crass**粗鲁的;**coward**懦夫，懦弱的人;**obnoxious**可憎的;**hypocrite**伪君子;**condescending**降低身份的,屈尊的;
+- She has thrown herself away upon that boor from sheer ignorance that better individuals existed! /只因为她全然不知道天下还有更好的人，她就嫁给了那个乡下佬！
+- boorish
+	-  [loutish](dic://loutish), [neanderthal](dic://neanderthal), [neandertal](dic://neandertal), [oafish](dic://oafish), [swinish](dic://swinish)
+	- _adj._ [unrefined](dic://unrefined)
+	- _n._ [refined](dic://refined)
+	- **obnoxious**可憎的;**crass**粗鲁的;**arrogant**自大的，傲慢的;**vulgar**粗俗的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**bigoted**顽固的;**rude**粗鲁的;**brash**仓促的，性急的;**belligerent**好战的;**insensitive**不敏感的;
+	- Though the man I introduced to you last night looks somewhat boorish, he is a diamond in the rough /我昨天晚上介绍给你认识的那个人虽然看上去有点没礼貌, 可他是个外粗内秀的人。
+	- In the end, there might be some signs that boorish boys know they're overreaching — and that may be expressed in the level of their braggadocio. /最后,也许有一些粗俗的男人发现自己过了头的迹象——这表现在他们吹牛的程度中。
+	-  He found Jobs's boorish behavior as despicable as Jobs found Sculley's lack of passion for product details /他觉得乔布斯的行为粗鲁可鄙，这程度就和乔布斯鄙视他对产品细节缺乏激情一样。
+
 boot
 - 靴子，来自 beat,击，打，踢。2. 益处，词源不详。主要用于短语 to boot,除此之外。比较级 better,最高级 best.
 - n. 长靴; 踢; 解雇; 效用; 汽车行李箱  
@@ -1404,6 +1399,7 @@ breast (bust)
 	- adj. 深及胸部的 
 	- adv. 深及胸部地
 - abreast
+	- a-=on + breast【胸】 → 胸部看齐 → 并肩地。
 	- [informed](dic://informed)
 	- [au courant](dic://au courant), [au fait](dic://au fait), [up on(p)](dic://up on(p))
 	- **up-to-date**现代的;**keep**保持;**informed**消息灵通的;**keeping**一致;**forefront**最前部;**trends**动态，趋势;**constantly**不断地;**lookout**监视哨;**continually**不停地;**vigilant**警惕的;
@@ -2008,7 +2004,7 @@ can
 - 来自 PIE*gno,知道，词源同 know.  
 - 词源同 cane,芦苇。引申词义容器，罐子。
 - oilcan
-- canny
+- canny (cunning) (prudent, shrewd, canny, savvy, calculative, nifty, )
 	- - 来自 can,知道，词源同 cunning,uncanny.
 	- a. 精明的, 谨慎的, 节约的  
 	- uncanny
@@ -2248,7 +2244,8 @@ cherub
 	- The star of the team was a blond, cherubic, and psychologically intense self-taught young engineer named Burrell Smith, who worshipped the code work of Wozniak and tried to pull off similar dazzling feats. 团队中的明星是一个叫伯勒尔·史密斯的无师自通的年轻工程师。他有一头金发，长着一张娃娃脸，内心却极其严肃认真，他十分崇拜沃兹尼亚克编写的代码，自己也想做出一些耀眼的成就
 
 chide
--  [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule)
+- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
 - _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 - **accuse**控告，指控;**criticize**评论, 批评;**rebuke**指责，非难;**embarrass**使窘迫;**criticise**批评;**mocking**嘲弄的;**condemn**判刑，定罪;**taunt**嘲弄;**denounce**谴责;**accusing**指责的;**shun**避开, 回避, 避免;
 - He chided her for carelessness. /他因她的粗心大意而责备她。
@@ -3860,6 +3857,22 @@ flub (founder /gaffe /blunder /flummox /flub /)
 - There aren't any slips or flubs in the script written by our scriptwriter, the wonderful Dr. Lucy Tse /我们的编剧，出色的谢露西博士所写的剧本没有任何错误或错误。
 - A "blooper" (blooper) is similar to a flub or a slip – it's a mistake /“失误” （blooper）类似于失误或失误——这是一个错误。
 - If you try a sales technique and **flub** it, not making a sale, will you try it again? /如果你尝试了一种销售技巧，但是没有成功，一份单子都没做成，你会再试一次吗？
+
+fluke
+- n. 侥幸；锚爪；意外的挫折 
+- vt. 侥幸成功；意外受挫 
+- vi. 侥幸成功
+- [good luck](dic://good luck), [good fortune](dic://good fortune)
+- [flue](dic://flue)
+-  [trematode](dic://trematode), [trematode worm](dic://trematode worm)
+- _n._ [luck](dic://luck), [fortune](dic://fortune), [barb](dic://barb), [projection](dic://projection), [tail](dic://tail), [flatworm](dic://flatworm), [platyhelminth](dic://platyhelminth)
+- **coincidence**巧合，同时发生;**blip**物体光点;**coincidental**巧合的;**anomaly**不规则;**unlucky**不幸的;**aberration**偏差;**miracle**奇迹，奇迹般的人或物;**hunch**预感;**improbable**不可信的;**miraculous**奇迹般的, 超自然的;
+- _blood fluke_ 血吸虫
+-  Ever wonder if that whiskery fellow walking his jowly Scottish terrier or that leggy, long-haired blonde jogging with her Afghan hound were just flukes? /你有否觉得，那个长着山羊胡子的家伙遛着他那只皱皮疙瘩的苏格兰梗，或者那个长腿的金色长发美女跟她的阿富汗猎犬一起慢跑的时候，他们简直就是一对？
+- I mean it's almost a fluke every time we find a cave. /我的意思是，我们每次发现洞穴都是侥幸。
+- That was just such a perfect fluke that happened.And I was so lucky /这是个侥幸的成功之作 我太走运了。
+- Individually, each team's result could be a statistical fluke  /客观地说，每个研究团队所得出的结论可能只是统计意义上的偶然现象。
+- They might ask if he's feeling whale, but he'll be able to say, hey, it's no fluke /人们还可能会问他是否对鲸鱼有所感觉，但他会说，嘿，这决不是侥幸。
 
 flummery (sycophant /commendation)
 - n. 麦片粥, 蛋奶甜点心, 假恭维
@@ -6936,7 +6949,8 @@ hum
 	- **whistling**吹笛;**chirping**啁啾声;**buzzing**嗡嗡响的;**singing**歌声;**tune**曲调, 曲子;**rumbling**隆隆声;**noises**噪音，响声，噪音;**screeching**发动机啸声;**sing**唱歌;**echoing**回音;**cranking**摇动;
 	- **bird**鸟;**butterfly**蝴蝶;**birds**鸟类;**owl**猫头鹰;**sparrow**麻雀;**squirrel**松鼠;**nectar**花蜜;**insect**昆虫;**bee**蜜蜂，蜂;**orchid**兰花;**peacock**孔雀;
 - hummer
-- humdrum (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot)
+- humdrum 
+	-  (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian, )
 	-  [commonplace](dic://commonplace), [prosaic](dic://prosaic), [unglamorous](dic://unglamorous), [unglamourous](dic://unglamourous)
 	- **mundane**世俗的，平凡的;**banal**陈腐的;**monotonous**无变化的, 单调乏味的;**dreary**沉闷的，枯燥的;**drab**单调的;**dull**钝的;**boring**令人厌烦的;**ordinary**普通的;**unremarkable**寻常的,不值得注意的;**uninteresting**无趣的,令人厌倦的;**bland**乏味的
 	- seeking a way out of his mundane, humdrum existence.
@@ -7012,6 +7026,9 @@ inane
 	- **exhaustion**精疲力竭;**starvation**挨饿, 饥饿;**paralysis**瘫痪;**dehydration**脱水;**insufficiency**不充足,不足;**malnutrition**营养失调，营养不良;**atrophy**萎缩，萎缩症;**illness**疾病;**malaise**不舒服;**indifference**不关心,不在乎;**death**死;
 	- I was now nearly sick from inanition, having taken so little the day before /我现在几乎因营养不良而生病，因为前一天吃的太少了。
 
+ink
+- kau-
+
 ire
 - **scorn**轻蔑;**outrage**暴行;**indignation**愤怒, 愤慨, 气愤;**wrath**愤怒;**backlash**反斜线;**criticism**批评, 批判, 指责;**hostility**敌意;**displeasure**不快, 不悦, 生气;**animosity**憎恨, 仇恨, 敌意;**outcry**尖叫;**anger**怒，愤怒;
 - [anger](dic://anger), [choler](dic://choler)
@@ -7047,7 +7064,7 @@ Irene (evangelist)
 		- 
 - _[irenic irenical pacifistic](dic://irenic%20irenical%20pacifistic)_ 和平主义的
 
-irk
+irk (ire)
 - 来自中古英语 irken,厌倦的，厌恶的，可能来自 PIE*werg,工作，词源同 work,organ.词义激怒可能是受 ire 的影响。
 - vt. 使厌倦, 使苦恼
 - [gall](dic://gall)
@@ -7125,6 +7142,18 @@ jam
 
 jar
 - n. 广口瓶；震动；刺耳声；罐 vi. 冲突；不一致；震惊；发刺耳声
+- 来自阿拉伯语 jarrah,陶罐。  
+- 拟声词。
+-  [jarful](dic://jarful)
+-  [jolt](dic://jolt), [jounce](dic://jounce)
+- [clash](dic://clash), [collide](dic://collide)
+-  [jolt](dic://jolt)
+-  [shake up](dic://shake up), [bump around](dic://bump around)
+- _n._ [vessel](dic://vessel), [containerful](dic://containerful), [blow](dic://blow), [bump](dic://bump)
+- _v._ [conflict](dic://conflict), [move](dic://move), [displace](dic://displace), [affect](dic://affect), [impress](dic://impress), [strike](dic://strike), [put](dic://put)
+- **container**容器;**jug**水壶;**bottle**瓶子;**lid**盖子;**vase**花瓶;**mason**泥瓦匠;**vial**小瓶;**spoonful**一匙;**containers**器皿;**canister**小罐;**flask**烧瓶;
+- That jars with the surroundings. /那与环境不协调。
+- a jar with floral designs on the exterior. /表面印有花卉图案的罐子。
 - jarring
 	- **disconcerting**困惑的, 不安的, 尴尬的;**unsettling**使人不安的;**unnerving**使人胆怯的;**abrupt**突然的;**startling**令人震惊的,惊人的;**juxtaposition**并置,并列;**disjointed**脱离开的,不连贯的;**awkward**笨拙的;**disturbing**烦扰的;**clunky**沉重的;**oddly**古怪地;
 	- [cacophonous](dic://cacophonous), [cacophonic](dic://cacophonic)
@@ -7532,11 +7561,13 @@ lam
 - lamster
 	-  逃犯（等于lamister）
 - lambaste, lambast
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 	- [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
 	- **criticize**评论, 批评;**denounce**谴责;**criticise**批评;**accuse**控告，指控;**condemn**判刑，定罪;**bashing**用废矸石充填采空区;**accusing**指责的;**mocking**嘲弄的;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**ridicule**嘲笑;
 	- they lambasted the report as a gross distortion of the truth. /他们激烈批评该报告是严重歪曲事实。
+	-  The announcement was lambasted in France, where the government has dispensed a huge rescue package/这一声明在法国遭到抨击，法国政府已经推出了一项巨额救助计划。
 
 large
 - largomycin
@@ -7669,6 +7700,7 @@ leek
 - cockyleeky
 
 lech
+- (voluptuous, lech, )
 - n. 肉欲；好色的人
 - vi. 好色；纵欲 adj. 好色的
 - [satyr](dic://satyr), [lecher](dic://lecher), [letch](dic://letch)
@@ -8698,6 +8730,13 @@ niche
 - I think we have found a **niche** in the toy market /我认为我们已经在玩具市场找到了领地。
 - He eventually found his **niche** in sports journalism /最后他在体育新闻界找到了理想的工作。
 - However, it wasn't as if mammals swarmed forward to fill every niche. /不过，情况似乎不像是哺乳动物一哄而上去抢占每一块地盘。
+
+nifty
+- [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [dandy](dic://dandy), [great](dic://great), [groovy](dic://groovy), [keen](dic://keen), [neat](dic://neat), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
+- adj. good
+- n. bad
+- neat整洁的;handy手边的，就近的;clever聪明的;groovy吸引人的, 绝妙的;ingenious灵巧的, 善于创造发明的;cool冷静的;dandy上等的，极好的;awesome令人敬畏的;darned岂有此理的;nice精密的，美好的，细微的，和蔼的;terrific极好的;
+- 
 
 night
 - benighted
@@ -9861,13 +9900,13 @@ pull
 - leg-pull
 - bellpull
 
-pulpit
+pulpit (alter)
 - [dais](dic://dais), [podium](dic://podium), [rostrum](dic://rostrum), [ambo](dic://ambo), [stump](dic://stump), [soapbox](dic://soapbox)
 - **preacher**传教士;**sermon**布道, 讲道, 说教;**church**教堂;**preaching**讲道,讲道法;**sermons**布道辞;**pastor**牧师;**congregation**人群;**preach**说教;**altar**祭坛;**chapel**小教堂;**deacon**执事;
 - _[bully pulpit](dic://bully%20pulpit)_  天字第一号讲坛（白宫）
 - they chopped up the pulpit for firewood /他们把讲道台劈了当柴火。
 
-pummel
+pummel (trammel, pommel)
 - vt. 击, 打, 揍
 - 来自 pommel 拼写变体，来自 pommel,圆球，圆鞍，引申词义连续猛击，捶打。
 - [pommel](dic://pommel), [biff](dic://biff)
@@ -10084,13 +10123,17 @@ Quixote
 	- **audacious**大胆的, 有冒险精神的;**idealistic**理想主义的;**misguided**由错误思想指引的,不明智的;**ambitious**有抱负的, 雄心勃勃的;**futile**无用的;**improbable**不可信的;**fanciful**想像的;**eccentric**古怪的, 怪癖的;**grandiose**宏伟的;**bizarre**奇异的;**outlandish**古怪的, 奇异的;
 	- a vast and perhaps quixotic project. .庞大而或许不切实际的项目。
 	- These may seem quixotic or paradoxical choices, but bear with me. /这些似乎是不切实际或自相矛盾的选择，但请先容我讲完。
+	- It is rather Quixotic of you. /你真是太不切实际了。
+	- These may seem quixotic or paradoxical choices, but please bear with me. /这些可能看起来不切实际或自相矛盾的选择， 但请多多包涵。
+	- In his first year as head of the special operatives unit Skorzeny was plagued by the over-ambition and Quixotic ideas of his superiors. /在担任特种部队队长的第一年，斯科尔兹尼就被上级的野心勃勃和不切实际的想法所困扰。
+	- Now, this all probably sounds pretty quixotic, kind of like recycling your cans, just a tiny drop in the ocean of a gigantic problem, but that's actually a misconception. /现在，这一切可能听起来很不切实际， 有点像回收你的罐头，只是一个巨大问题的沧海一粟， 但这实际上是一种误解。
 
 
 
 ## R
 rabbit
-- n. 兔子  
-- vi. 猎兔  
+- n. 兔子
+- vi. 猎兔
 - vt. 让...见鬼去. vi.[英国俚语]唠叨, 喋喋不休(常与on about连用).
 - rabbit hole
 	- 兔子洞：一种复杂、离奇或困难的状态或情况，被认为是一个人掉进或下降的洞。尤其是在追求某事物（如答案或解决方案）的过程中，会导致其他问题、困难或追求。
@@ -10108,7 +10151,7 @@ rabbit
 - jackrabbit
 	- n. 长耳大野兔
 
-racket
+racket (raucous, racket, ruckus, commotion, din, ruction, rumpus, tumult, rowdy, mayhem, brawl, outcry)
 - **racquet**球拍;**badminton**羽毛球;**tennis**网球;**extortion**敲诈,勒索,逼取;**backhand**反手抽击;
 - [noise](dic://noise), [enterprise](dic://enterprise), [endeavor](dic://endeavor), [endeavour](dic://endeavour), [sound](dic://sound), [auditory sensation](dic://auditory sensation), [sports implement](dic://sports implement)
 - [celebrate](dic://celebrate), [fete](dic://fete), [make noise](dic://make noise), [resound](dic://resound), [noise](dic://noise), [hit](dic://hit)
@@ -10122,18 +10165,30 @@ racket
 - He hates the racket of modern life /他讨厌现代生活的繁忙社交活动。
 - He was known for running a brutal extortion racket./ 他因干过一起残忍的敲诈勒索而出名
 - rackety
+	- (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, rackety) 
+	- - adj. 喧扰的，喧闹的；不牢固的，摇晃的
 	- [rip-roaring](dic://rip-roaring), [uproarious](dic://uproarious)
 	- **dilapidated**破旧的;**raucous**沙哑的;**noisy**嘈杂的;**dusty**落满灰尘的;**boisterous**热闹的;**wobbly**摆动的;**ghastly**可怕的;**seedy**多种子的;**eccentric**古怪的, 怪癖的;**dodgy**狡猾的，逃避的;**ragged**衣衫褴褛的;
 	- adj. 喧扰的，喧闹的；不牢固的，摇晃的
 - racketeer
+	- n. 骗子；敲诈者 
+	- vt. 对……进行勒索 
+	- vi. 敲诈
 	- [criminal](dic://criminal), [felon](dic://felon), [crook](dic://crook), [outlaw](dic://outlaw), [malefactor](dic://malefactor)
 	- [conduct](dic://conduct), [carry on](dic://carry on), [deal](dic://deal)
 	- **gangster**歹徒，流氓;**thug**暴徒;**gambler**赌徒;**pimp**皮条客;**underworld**黑社会;**Capone**卡波尼;**crook**钩;**Mafia**秘密政党;**syndicate**企业联合;**tycoon**巨富;**businessman**商人;
 	- _[Lady racketeer](dic://Lady%20racketeer)_ 美人计
 	- _[commercial racketeer](dic://commercial%20racketeer)_ 奸商
+	- Yeah, they're probably drug lords, smugglers, and racketeers /克拉克：是的，他们可能是毒枭、走私犯和敲诈勒索者。
 	- The former president of the Guatemala football federation Brayan Jimenez has pleaded guilty in a New York court to racketeering a wire fraud. /关于电信诈骗指控，危地马拉足协前主席布莱恩·吉梅内斯在纽约认罪。
+	- Like some seedy racketeer, the delinquents in Pyongyang had extorted a generous payment in exchange for talks about giving up their pursuit of nuclear weapons. /为争取朝鲜参与放弃核武器对话，朝鲜趁此在平壤拖欠行为同于乞丐的敲诈，以此勒索了大笔钱财。
 - racketeering
+	- _n._ [felony](dic://felony)
 	- **extortion**敲诈,勒索,逼取;**bribery**贿赂;**laundering**洗涤;**criminal**罪犯;**indictment**起诉;**fraud**欺骗;**conspiracy**阴谋;**cartel**卡特尔;**Mafia**秘密政党;**prosecution**起诉, 诉讼;**corruption**堕落;
+	- n. 敲诈勒索；诈骗
+	- He was convicted last year of racketeering and sex trafficking /去年，他被判犯有敲诈勒索和性交易罪。
+	- He's also been charged with collusion, racketeering, and peddling influence. /他还被指控串通、敲诈勒索和兜售影响力
+	- Brazil's top anti-corruption prosecutor has charged President Michel Temer with obstruction of justice and racketeering. /巴西高级反腐检察官控诉其总统特梅尔(Michel Temer)阻碍公正，并涉嫌敲诈勒索。
 
 radar
 - scuba ['skuːbə; 'skjuːbə] n.水肺；水中呼吸器。这是一个acronym首字母缩略词（acro表tip，onym表名字，与name同源），来自self-contained underwater breathing apparatus，即水下独立呼吸系统的首字母缩略词。再类似radar雷达是RAdio Detection And Ranging即无线电侦测和定距的首字母缩略词。
@@ -10214,7 +10269,7 @@ ratchet
 - But ratchet pay off sometimes, you feel me? /但是我们得奖了，你们能感受到我的心情吗？
 - How could that possibly ratchet up their chances for success? /这怎么可能增加他们成功的机会呢？
 
-rattle
+rattle (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, )
 - [rattling](dic://rattling), [rale](dic://rale)
 - _n._ [noise](dic://noise), [plaything](dic://plaything), [toy](dic://toy), [tail](dic://tail)
 - _v._ [sound](dic://sound), [go](dic://go), [shake](dic://shake), [agitate](dic://agitate)
@@ -11327,7 +11382,7 @@ scrumptious
 - I'd a perfectly scrumptious time in the Academy today. /我今天在学院度过了一段非常愉快的时光。/
 - There are a lot of nice girls in school and we had scrumptious fun playing at dinnertime /学校里有很多漂亮的女孩，我们在晚餐时间玩得很开心。
 
-scruple
+scruple (scruple, oscillation , vacillation)
 - scruple - 如果你在走路时有小碎石进到鞋子里，你的脚就会有刺痛感，就会感到不好受，你就非得将它弄出来不可。拉丁语有个词scrūpulus，它的意思就是“尖利的小石子”，它曾被用作古罗马的重量单位，1 scrūpulus等于1/24盎司。古罗马政治家、演说家和哲学家西塞罗（M. T. Cicero, 106-43 BC）将该词用来喻指“良心上的不安”、“顾虑”或“顾忌”。法语借用了这个词，作scrupule，英语scruple即由此演变而来，也用于这些喻义，既用作名词，亦可转类为动词。形容词scrupulous亦源于此，表示“有顾虑的”、“一丝不苟的”、“正直的”等义。
 -  来自拉丁语 scrupulus,顾忌，顾虑，良心不安，来自 scrupus,小石子，碎屑，可能来自 PIE*sker,砍，切，词源同 scar,scree,scrap.比喻用法。
 - n. 踌躇, 犹豫, 微量  vi. 踌躇, 有顾忌
@@ -11348,7 +11403,9 @@ scruple
 	- She is scrupulous to a degree /她非常谨慎。
 	- a scrupulous businessman /正直的商人
 	- unscrupulousness
-	- unscrupulous
+	- unscrupulous 
+		- (imprudence, unscrupulous, )
+		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily)
 		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
 		- _n._ [scrupulous](dic://scrupulous)
 		- **dishonest**不诚实的;**unethical**不道德的;**devious**弯曲的;**greedy**贪婪的;**sleazy**质地薄的;**nefarious**极坏的;**ruthless**无情的，残忍的;**opportunistic**机会主义的;**corrupt**腐败的，贪污的;**scheming**惯耍阴谋的，诡计多端的;**fraudulent**欺骗的,不诚实的
@@ -11378,7 +11435,8 @@ schlock, schlockmeister
 - [shlock](dic://shlock), [dreck](dic://dreck)
 - **drivel**淌口水,说傻话;**horror**惊骇;**trashy**碎屑的;**melodrama**情节剧;**cliches**陈腔滥调;**sci-fi**科幻;**cheesy**干酪质的;**crap**废话;**genre**类型;**crass**粗鲁的;**sleazy**质地薄的;
 
-schmaltz
+schmaltz 
+- (mawkish bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy, lugubrious, drippiness, )
 - (Yiddish) excessive sentimentality in art or music
 - **melodrama**情节剧;**cliches**陈腔滥调;**cheesy**干酪质的;**corny**谷类的;**cynicism**犬儒主义;**overdone**把…煮得过久;**lard**猪油;**crass**粗鲁的;**silliness**愚蠢;**nostalgia**对往事的怀恋, 怀旧;**cliche**陈词滥调;
 - [shmaltz](dic://shmaltz), [schmalz](dic://schmalz)
@@ -11491,7 +11549,7 @@ seam
 - she sewed the seams and hemmed the border. /她缝好接缝和褶边。
 - unseam
 	- vt. 拆……的线缝；将……拆开
-- seamy
+- seamy (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand )
 	-  seam,缝补，缝隙，-y,形容词后缀。比喻用法，把难看的一面缝在里面。词义演变比较 seedy.
 	- a. 露出线缝的, 丑恶的
 	- [seedy](dic://seedy), [sleazy](dic://sleazy), [sordid](dic://sordid), [squalid](dic://squalid)
@@ -11746,7 +11804,7 @@ shingle
 - _v._ [roof](dic://roof)
 - **roofing**屋顶;**roof**屋顶;**stucco**粉饰，粉刷;**siding**侧线;**decking**装饰;**brick**砖，砖块;**sand**沙;**masonry**石工行业;**pebble**卵石;**drywall**纸面石膏板;**sandy**含沙的;
 
-shirk (shirk, shun, chide, spurn, elude, eschew,  )
+shirk (shirk, shun, spurn, elude, eschew,  )
 - 可能来自 shark,鲨鱼，骗子，引申词义逃避，偷懒。
 - [fiddle](dic://fiddle), [shrink from](dic://shrink from), [goldbrick](dic://goldbrick)
 - _v._ [avoid](dic://avoid)
@@ -12101,18 +12159,30 @@ skull
 	- skull【头脑】 + duggery。
 	- _n._ [misrepresentation](dic://misrepresentation), [deceit](dic://deceit), [deception](dic://deception)
 	- **intrigue**阴谋;**treachery**背信弃义, 不忠, 背叛;**collusion**共谋;**deceit**欺骗;**espionage**谍报活动;**deception**欺骗;**nefarious**极坏的;**dishonesty**不诚实的行为;**bribery**贿赂;**corruption**堕落;**incompetence**无能力;
+	- The opposition claimed the vote had been rigged, but the electoral commission insisted there had been no skulduggery. /反对派声称投票被人操纵，但选举委员会坚称没有任何欺诈行为。
+	- When he couldn't by text, he wasn't averse to a little skulduggery to get what he wanted /当他无法买到文字，他也不反对用一点不诚实的手法来得到他想要的东西。
 - skullcap
+	- - n. 并头草属的植物；无边便帽；头盖骨（考古学）
 	- [calvaria](dic://calvaria)
 	- [helmetflower](dic://helmetflower)
 	- _n._ [cap](dic://cap), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [bone](dic://bone), [os](dic://os)
 	- **beard**胡须;**scarf**围巾;**headband**头饰带;**helmet**钢盔，头盔;**hat**帽子;**tunic**束腰外衣;**skull**头盖骨，脑壳;**hoodie**冠鸦;**robe**长袍，礼服;**wearing**磨损的;**garb**装束;
+	- You're removing part of my skullcap? Do you really have to do that? /你们要切掉我的部分颅骨？一定要这么做？
+	- The skullcap, they said, was that of an ape, probably a gibbon, and not of any early human. /他们认为，那块头盖骨是猿猴的，很可能是长臂猿的，根本不是什么早期人类的。
+	- People across Germany are being encouraged to wear a Jewish skullcap or kippah today, Saturday, as a sign of solidarity with the Jewish community. /周六，德国鼓励各地的民众佩戴犹太人的圆顶帽，作为与犹太社区团结的标志。
+	- Crowds of men with beards and skullcaps were swarming the streets /一群群头戴瓜皮帽的大胡子男人 挤满了街道。
 - numskull
 
 slabber
+- n. 浓而变酸的牛奶 
+- vt. 使变酸；使凝结 
+- vi. 变酸；凝结
+- [curdle](dic://curdle), [clot](dic://clot)
 - [drivel](dic://drivel), [drool](dic://drool), [slaver](dic://slaver), [slobber](dic://slobber), [dribble](dic://dribble)
 - _v._ [salivate](dic://salivate)
 - all the slabbering you do gets Bobby into some trouble /你那没完的唠叨使鲍比遇到了麻烦。
 - his trouser legs were slabbered with mud /他的裤腿上溅了泥巴
+- The flavor of **clabber** is unique. The texture is uniform and smooth. The structure is exquisite. The cheese is creamy and thick. /实验室保藏乳酸杆菌的发酵产酸能力一般，此菌发酵所得的凝乳风味独特，质地均匀光滑，组织结构细腻。
 
 slack
 - [slump](dic://slump), [drop-off](dic://drop-off), [falloff](dic://falloff), [falling off](dic://falling off)
@@ -12905,6 +12975,14 @@ sound
 	- _[switch sound off](dic://switch%20sound%20off)_  关闭声音
 	- _[sound off](dic://sound%20off)_  奏序曲；提高声音说话；依次报数；吹号
 
+spackle
+- n. 斯百克填料(一种抹墙粉的商标名)  
+- vt. 以斯百克填料涂
+- _n._ [plaster](dic://plaster)
+- **drywall**纸面石膏板;**putty**油灰;**sealant**密封剂;**glue**粘合;**paint**油漆;**plaster**灰泥;**grout**用薄泥浆填塞;**epoxy**环氧的;**sanding**砂纸打磨;**stucco**粉饰，粉刷;**patching**修补;
+- Do you remember which part of the wall is not spackle? /你记得哪面墙壁没补过吗？
+- He planed the projected paint and **spackle** off the wall. /他把原来的油漆和抹墙粉从墙上刨掉了。
+
 spar
 - _n._ 圆材
 - _vi._ (拳击练习中)不用力打, 试击; 争论, 争吵
@@ -13250,6 +13328,8 @@ spur
 	- _spur track_ 支路；（铁路的）支线
 	- _spur line_ 延线；（货物）支线
 - spurn
+	- (flout, jeer, scoff, barrack, gibe, scorn, )
+	- (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
 	- - 来自古英语 spurnan,踢开，词源同 spur,马刺，鞭刺。引申比喻义拒绝，回绝。
 	- reject with contempt
 	- [reject](dic://reject), [freeze off](dic://freeze off), [scorn](dic://scorn), [pooh-pooh](dic://pooh-pooh), [disdain](dic://disdain), [turn down](dic://turn down)
@@ -13266,6 +13346,7 @@ spur
 - cockspur
 
 spurious (salubrious)
+- (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning)
 - 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
 - (sper-)
 
@@ -13922,7 +14003,7 @@ swivel
 
 
 ## T
-tamp ( tempt, temper, tamper)
+tamp  (tamp, temper, tamper, temping, tempt,)
 - **quell**镇压;**dampen**抑制;**push**推动;**suppress**抑制;**curtail**截断, 缩短;**flatten**使……平坦;**counteract**对抗;**ratchet**棘轮;**stifle**使窒息;**loosen**放松;**neutralize**使中立;
 - [tamp down](dic://tamp down), [pack](dic://pack)
 - [tamper](dic://tamper), [tamping bar](dic://tamping bar)
@@ -13944,7 +14025,7 @@ tamp ( tempt, temper, tamper)
 	- n. 塞子；炮栓；枪口盖
 - tamping
 - tampicin
-- tamper
+- tamper  (tamp, temper, tamper, temping, tempt,)
 	- **interfere**干预;**sabotage**妨害;**manipulate**熟练控制;**proof**证明;**destroy**毁坏;**circumvent**设法克服或避免;**tarnish**晦暗;
 	- [manipulate](dic://manipulate), [intervene](dic://intervene), [step in](dic://step in), [interfere](dic://interfere), [interpose](dic://interpose)
 	- _tamper with_ 篡改；贿赂；胡乱摆弄
@@ -14147,6 +14228,7 @@ tether ​​​​
 thief
 - thievishness
 - thievish
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily)
 	- _adj._ [dishonest](dic://dishonest), [dishonorable](dic://dishonorable)
 	- _n._ [honest](dic://honest, [honorable](dic://honorable)
 	- adj. 有偷窃癖的；贼似的；偷偷摸摸的
@@ -14554,6 +14636,7 @@ tower
 
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
+- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
 - [restrict](dic://restrict), [restrain](dic://restrain), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
@@ -14755,7 +14838,14 @@ vacillate (oscillate)
 - _[vacillating and staggering](dic://vacillating%20and%20staggering)_  摇摇晃晃（vacillating是vacillate的现在分词，staggering是stagger的现在分词）
 - **ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**seeming**外观;**fluctuate**波动;**tend**趋向，倾向;**perpetually**持久地;**tendency**倾向，趋势;**loathe**讨厌，厌恶;**agonizing**使人极度痛苦的;**wildly**野生地;**fluctuating**上下浮动的;**fickle**易变的;
 - Such parents vacillate between saying no and giving in—but neither response seems satisfactory to them. /这类家长举棋不定，对孩子们的无理要求，不知道是该回绝还是该满足，觉得这两者都不理想。
-- vacillation
+- vacillation (irresolution)
+	-  [hesitation](dic://hesitation), [wavering](dic://wavering)
+	-  [swing](dic://swing), [swinging](dic://swinging)
+	- _n._ [indecision](dic://indecision), [indecisiveness](dic://indecisiveness), [irresolution](dic://irresolution), [motion](dic://motion), [movement](dic://movement), [move](dic://move)
+	- **impatience**急躁;**reluctance**不愿意;**inconsistency**矛盾;**ambiguity**歧义;**uncertainty**不确定;**weakness**弱点;**inaction**不活动;**cowardice**懦弱;**indifference**不关心,不在乎;**contradiction**矛盾;**dissatisfaction**不满;
+	- There is vacillation in his k's and self-esteem in his capitals. /他的k字写得不一律，大写的字母倒还工整。
+	- But Trump has remained determined to carry out his trade agenda, in contrast to his vacillations on other issues. /但特朗普依然坚持要推行他的贸易议程，他的这一举动与他在其他问题上的犹豫不决形成了鲜明的对比。
+	- And I think that's some of what he'd seen this week and the vacillations on immigration are all over the place /我认为这就是特朗普本周看到的情况，各地在移民问题上都犹豫不决。
 - vacillating
 
 vanilla
@@ -14811,7 +14901,7 @@ vernacular
 - _[writings in the vernacular](dic://writings%20in%20the%20vernacular)_  白话文
 - There are many strange words in the vernacular of the lawyers /律师的术语中颇有些怪字。
 
-veneer
+veneer (venial, venner, venal)
 - coating consisting of a thin layer of superior wood glued to a base of inferior wood
 	- [veneering](dic://veneering)
 - an ornamental coating to a building

@@ -3,13 +3,18 @@
 1. labor, labour
 	1. Laborite
 	2. laborious
-		1. **tedious**冗长乏味的;**time-consuming**耗费时间的;**arduous**费力的;**painstaking**极小心的;**cumbersome**笨重的;**tiresome**烦人的，无聊的;**lengthy**漫长的，冗长的;**tiring**麻烦的;**fruitless**没有成果的, 无益的;**strenuous**费力的;**consuming**消费的;
-		2. [effortful](dic://effortful)
-	3. laborer
-	4. labored
-	5. overlabor
-	6. unlabored
-	7. laboratory
+		1. (arduous
+		1.  [backbreaking](dic://backbreaking), [grueling](dic://grueling), [gruelling](dic://gruelling), [hard](dic://hard), [heavy](dic://heavy), [laborious](dic://laborious), [operose](dic://operose), [punishing](dic://punishing), [toilsome](dic://toilsome)
+		2.  [straining](dic://straining), [strenuous](dic://strenuous)
+		3. _adj._ [effortful](dic://effortful), [difficult](dic://difficult), [hard](dic://hard)
+		4. **laborious**勤劳的;**grueling**惩罚;**tedious**冗长乏味的;**strenuous**费力的;**exhausting**使耗尽的;**time-consuming**耗费时间的;**tiring**麻烦的;**lengthy**漫长的，冗长的;**onerous**繁重的;**protracted**<书>延长的;**daunting**使人畏缩的;)
+		6. **tedious**冗长乏味的;**time-consuming**耗费时间的;**arduous**费力的;**painstaking**极小心的;**cumbersome**笨重的;**tiresome**烦人的，无聊的;**lengthy**漫长的，冗长的;**tiring**麻烦的;**fruitless**没有成果的, 无益的;**strenuous**费力的;**consuming**消费的;
+		7. [effortful](dic://effortful)
+	4. laborer
+	5. labored
+	6. overlabor
+	7. unlabored
+	8. laboratory
 		1. laboratory（实验室）：中世纪炼丹术士的炼丹场所  
 		1. 英语单词laboratory（实验室）来自中世纪拉丁文laboratorium，labor表示“劳作”，laboratorium意思就是“劳作的地方”，所以laboratory的本意也是“劳作的地方”。为什么是“劳作的地方”呢？这是因为最初的实验室其实就是炼金术士炼金的场所。炼金是件费时费力的活，需要炼金术士动手劳作，所以其场所就被称为laboratory。即使到了现代，实验室依然是科研人员动手劳作的场所，而不是空谈或冥思的场所。  
 		2. laboratory：['læbrə'tɔri] n.实验室，研究室  
@@ -23,8 +28,8 @@
 		10. collaborate： [kə'læbəret] vi. 合作；勾结，通敌  
 		11. collaboration：[kə,læbə'reʃən] n. 合作；勾结；通敌
 		12. laboration
-	8. laborsaving
-	9. laborsome
+	9. laborsaving
+	10. laborsome
 2. belabour /belabor
 	1. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
 	2. vt. 痛打；不断辱骂和嘲弄；唠叨
@@ -205,7 +210,7 @@
 	3. laconic：[lə'kɒnɪk] adj.简洁的，凝炼的，言简意赅的
 	4. [concise](dic://concise)
 	5. [prolix](dic://prolix)
-	6. crisp, curt, terse
+	6. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
 	7. **wry**面部肌肉扭曲的;**no-nonsense**实际的,严肃的;**witty**诙谐的;**sarcastic**讽刺的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**enigmatic**谜的;**austere**简朴的;**succinct**简洁的;**laid-back**安详的, 轻松的;**melancholy**忧郁, 悲哀;
 3. laconism
 
@@ -887,23 +892,25 @@
 		2. legendry
 		3. legendary
 	12. legible
-		1. **readable**易读的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**handwritten**手写的;**typeface**字型;**lettering**字体;**visible**明显的;**handwriting**书法, 字迹;**readability**可读性;**concise**简明的，简洁的;**font**字体;**recognizable**可认出的;
-		2. [clean](dic://clean), [fair](dic://fair), [clear](dic://clear), [decipherable](dic://decipherable), [readable](dic://readable)
-		3. Her handwriting was clearly legible /她的字清晰可辨。
-		4. legible weaknesses in character and disposition /性格和脾气上很明显的弱点
-		5. legibly
-		6. legibility, illegibility
-		7. illegible, illegibly
-			1. _adj._ [dirty](dic://dirty), [foul](dic://foul), [marked-up](dic://marked-up), [indecipherable](dic://indecipherable), [unclear](dic://unclear), [undecipherable](dic://undecipherable), [unreadable](dic://unreadable)
-			2. _n._ [legible](dic://legible)
-			3. **unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**legible**易读的;**handwritten**手写的;**handwriting**书法, 字迹;**unintelligible**不可能理解的;**lettering**字体;**inscription**题字;**unusable**不能用的;**obscured**遮蔽的;**incomplete**不完全的, 未完成的;**inscribed**印刻的;
-			4. the funding covers transcription of nearly illegible photocopies. /这笔资助金足以用于几乎无法辨认的影印件的誊写工作。
-			5. tattered notebooks filled with illegible hieroglyphics /破烂笔记本里满是难以辨认的字迹。
-	13. prolegomenon
+		1. leg-读 + -ible, 表形容词 → 能够读的。
+		2. **readable**易读的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**handwritten**手写的;**typeface**字型;**lettering**字体;**visible**明显的;**handwriting**书法, 字迹;**readability**可读性;**concise**简明的，简洁的;**font**字体;**recognizable**可认出的;
+		3. [clean](dic://clean), [fair](dic://fair), [clear](dic://clear), [decipherable](dic://decipherable), [readable](dic://readable)
+		4. Her handwriting was clearly legible /她的字清晰可辨。
+		5. legible weaknesses in character and disposition /性格和脾气上很明显的弱点
+		6. legibly
+		7. legibility, illegibility
+		8. illegible, illegibly
+			1. il-不，非 + legible【可读的，可辨的】。
+			2. _adj._ [dirty](dic://dirty), [foul](dic://foul), [marked-up](dic://marked-up), [indecipherable](dic://indecipherable), [unclear](dic://unclear), [undecipherable](dic://undecipherable), [unreadable](dic://unreadable)
+			3. _n._ [legible](dic://legible)
+			4. **unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**legible**易读的;**handwritten**手写的;**handwriting**书法, 字迹;**unintelligible**不可能理解的;**lettering**字体;**inscription**题字;**unusable**不能用的;**obscured**遮蔽的;**incomplete**不完全的, 未完成的;**inscribed**印刻的;
+			5. the funding covers transcription of nearly illegible photocopies. /这笔资助金足以用于几乎无法辨认的影印件的誊写工作。
+			6. tattered notebooks filled with illegible hieroglyphics /破烂笔记本里满是难以辨认的字迹。
+	14. prolegomenon
 		1. _[foreword preamble preface prolegomena prolegomenon](dic://foreword%20preamble%20preface%20prolegomena%20prolegomenon)_ 前言
 		2. **treatise**论文;**preface**前言;**elaboration**精心制作;**monograph**专著,专论;**foreword**前言;**essay**散文;**tome**册;**Hegel**黑格尔;**discourse**论文;**footnote**脚注;**compendium**摘要,纲要;
 		3. the prolegomenon to a work on Shakespeare's dramatic structure /为一部莎士比亚戏剧结构论写的绪论
-	14. sociolect
+	15. sociolect
 3. **lect-, lig-, leg-** = choose, gather, 表示“选择，收集”。源自拉丁语 legere "to gather, choose, pluck, read."
 	1. analects
 		1. ana-上 + lect-选择 + -s
@@ -960,9 +967,10 @@
 	4. delectus
 		1. _[delectus](dic://delectus)_  n. 选萃；教科书用抄本
 	5. elite
-		1. elitist
-		2. elitism
-	6. elect
+		1. e-向外 + lit-=lect-选出 + -e。
+		2. elitist
+		3. elitism
+	7. elect
 		1. election
 			1. reelection
 			2. electioneer
@@ -984,21 +992,22 @@
 			5. electoral
 		6. elective
 		7. electable
-	7. eclectic
-		1. _adj._ 兼收并蓄的；不拘一格的；折中的，折中主义的  _n._ 兼收并蓄的人；折中派的人，折中主义者
-		2. _n._ [philosopher](dic://philosopher)
-		3. _adj._ [discriminating](dic://discriminating)
-		4. _n._ [undiscriminating](dic://undiscriminating), [indiscriminating](dic://indiscriminating)
-		5. **quirky**诡诈的;**diverse**不同的;**idiosyncratic**特殊物质的,特殊的,异质的;**offbeat**离奇的;**artsy**艺术家气派的;**funky**畏缩的;**varied**多变的;**whimsical**异想天开的,闹着玩的;**eccentric**古怪的, 怪癖的;**edgy**尖利的;**laid-back**安详的, 轻松的
-		6. _[eclectic approach](dic://eclectic%20approach)_  折衷研究方式
-		7. an eclectic mix of theatrical styles /把各种戏剧风格糅合在一起
-		8. an eclectic mixture of architectural styles /融各种建筑风格之长的混合体
-		9. An eclectic variety of antiques and knick knacks fill the curiosity shop Salmagundi West. /意译：有特色的温哥华图片。一种选择的各种古董和小玩艺人充满古玩店大杂烩西部。
-		10. What a brilliant eclectic collection of birthday favourites. /庆祝生日的食物应有尽有。
-		11. The food scene in Portland is really eclectic right now. /现在波特兰的美食真是五花八门。
-		12. eclecticism
-		13. eclectically
-	9. eclogue
+	8. eclectic (elegiac, eclectic)
+		1. ec-向外 + lect-收集 + -ic。
+		2. _adj._ 兼收并蓄的；不拘一格的；折中的，折中主义的  _n._ 兼收并蓄的人；折中派的人，折中主义者
+		3. _n._ [philosopher](dic://philosopher)
+		4. _adj._ [discriminating](dic://discriminating)
+		5. _n._ [undiscriminating](dic://undiscriminating), [indiscriminating](dic://indiscriminating)
+		6. **quirky**诡诈的;**diverse**不同的;**idiosyncratic**特殊物质的,特殊的,异质的;**offbeat**离奇的;**artsy**艺术家气派的;**funky**畏缩的;**varied**多变的;**whimsical**异想天开的,闹着玩的;**eccentric**古怪的, 怪癖的;**edgy**尖利的;**laid-back**安详的, 轻松的
+		7. _[eclectic approach](dic://eclectic%20approach)_  折衷研究方式
+		8. an eclectic mix of theatrical styles /把各种戏剧风格糅合在一起
+		9. an eclectic mixture of architectural styles /融各种建筑风格之长的混合体
+		10. An eclectic variety of antiques and knick knacks fill the curiosity shop Salmagundi West. /意译：有特色的温哥华图片。一种选择的各种古董和小玩艺人充满古玩店大杂烩西部。
+		11. What a brilliant eclectic collection of birthday favourites. /庆祝生日的食物应有尽有。
+		12. The food scene in Portland is really eclectic right now. /现在波特兰的美食真是五花八门。
+		13. eclecticism
+		14. eclectically
+	10. eclogue
 		1. ec-外 + log-=lect-选择。
 		2. n. 牧歌, 田园诗
 		3. a short descriptive poem of rural or pastoral life
@@ -1036,16 +1045,17 @@
 		4. neglectful
 		5. neglected
 	13. predilection
-		1. pre-在前 + di-分开 + lect-选择，词源同collect . 即先选出来的，引申词义喜爱，偏爱。
-		2. **penchant**嗜好;**fondness**溺爱;**propensity**倾向;**tendency**倾向，趋势;**preoccupation**全神贯注，入神;**aversion**厌恶;**knack**诀窍;**preference**较喜欢的东西, 偏爱;**inclination**倾向;**fascination**魅力;**affinity**吸引力;
-		3. [preference](dic://preference), [orientation](dic://orientation)
-		4. have a predilection for opera /特别爱好歌剧
-		5. your predilection for pretty girls /你对漂亮女孩的偏爱。
-		6. a strong predilection for anything French /偏爱一切法国事物的强烈偏见
-		7. This predilection for pointed fangs is not, however, how it has always been /但对尖牙的这种偏爱并非一直如此。
-	14. select
+		1. (predilection, propensity, penchant, proclivity, )
+		2. pre-在前 + di-分开 + lect-选择，词源同collect . 即先选出来的，引申词义喜爱，偏爱。
+		3. **penchant**嗜好;**fondness**溺爱;**propensity**倾向;**tendency**倾向，趋势;**preoccupation**全神贯注，入神;**aversion**厌恶;**knack**诀窍;**preference**较喜欢的东西, 偏爱;**inclination**倾向;**fascination**魅力;**affinity**吸引力;
+		4. [preference](dic://preference), [orientation](dic://orientation)
+		5. have a predilection for opera /特别爱好歌剧
+		6. your predilection for pretty girls /你对漂亮女孩的偏爱。
+		7. a strong predilection for anything French /偏爱一切法国事物的强烈偏见
+		8. This predilection for pointed fangs is not, however, how it has always been /但对尖牙的这种偏爱并非一直如此。
+	15. select
 		1. etc..
-	15. diligent, diligence
+	16. diligent, diligence
 		1. di-=dis-分开，散开 + lig-选择 + -ent表形容词
 		2. a. 勤勉的, 用功的
 		3. quietly and steadily persevering especially in detail or exactness
@@ -1063,21 +1073,23 @@
 		14. A spotless stove told us that his mother is a diligent housekeeper. /炉子清洁无瑕就表明他母亲是个勤劳的主妇。
 		15. Anne was a very studious and diligent student who had a passion for books. /安妮勤奋好学，她非常喜爱读书。
 		16. Former incarcerees were praised as compliant, diligent, and respectful of authority /之前被囚禁者被称赞为顺从、勤勉、尊重权威。
-	16. eligible (elect, elite, legible, illegible)
+	17. eligible (elect, elite, legible, illegible)
 		1. a. 有资格当选的, 合格的  n. 有资格者, 合格者, 适任者
 		2. reeligible
 		3. ineligible
 		4. eligibly
 		5. eligibility
-	17. florilegium
-	18. legion
-		1. legionary
-		2. legionaire
-	19. legume
+	18. florilegium
+	19. legion
+		1. leg-=lect-收集 + -ion, 表名词。
+		2.  来自拉丁语 legere,选出，收集，词源同 collect,colleague.引申词义军团。
+		3. legionary
+		4. legionaire
+	21. legume
 		1. - 来自拉丁语 legumen,豆科，来自 legere,收集，词源同 collect.因要把豆子用手择出来而得名。
 		2. **soybean**大豆;**maize**黄色的，玉米色的;**alfalfa**紫花苜蓿;**quinoa**藜麦;**lentils**扁豆;**bean**豆;**carbohydrate**碳水化合物;**soybeans**黄豆;**sunflower**向日葵;**grasses**稻科植物类;**vegetable**蔬菜;
 		3. [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [pod](dic://pod), [seedpod](dic://seedpod), [vegetable](dic://vegetable), [veggie](dic://veggie)
-	20. sacrilege
+	22. sacrilege
 		1. sacr-神圣的 + i + leg-收集 + -e → 收集圣物 → 盗取圣物 → 亵渎。
 		2. sacrilege（亵渎）：盗窃神殿圣物的行为  
 		3. 古代罗马人对待神灵十分虔诚，用最好的材料为神灵修筑神殿，使用各种贵重的祭祀用品，为神灵供奉各种食品。因此，这些宗教场所里积累了很多财富，很多盗贼都喜欢对宗教场所下手，一些穷人也会在难耐饥饿时盗窃供奉给神灵的食品。因此，古罗马设置了严酷律法来惩罚这种盗窃圣物的行为。这种行为在拉丁语被称为sacrilegium，由sacrum（神圣之物）+legere（拿、取）构成，字面意思就是“盗窃圣物”，引申为“亵渎神灵”。英语单词sacrilege就来自拉丁语sacrilegium，表示“亵渎神灵”，还可以比喻其他各种亵渎行为。  
@@ -1087,7 +1099,7 @@
 		7. sacrilegus
 		8. sacrilegium
 		9. sacrilegious
-	21. sortilege
+	23. sortilege
 		1. sorcery（巫术）：西方古代的抽签占卜术  
 		2. 在古代西方，有一种常见的占卜方法，就是使用刻在石头、木片、纸片、骰子上的符号、图形、或文字，通过随机抽取、翻取、投掷等方式来达到占卜的目的。这种占卜工具在拉丁语中被称为sors，属格形式为sortis。使用这种工具进行占卜的人则称为sortarius。单语单词sorcery（巫术）和sorcerer（巫师）都来源于此。同源词还有sort（种类）、sortilege（抽签占卜）。  
 		3. sorcery：['sɔːs(ə)rɪ] n.巫术，魔法  
@@ -1214,26 +1226,28 @@
 		1. **vocabulary**词汇;**dictionary**词典, 字典;**slang**俚语;**vernacular**【C】本地话;**lingo**行话;**idiom**成语，习语;**phrase**成语;**word**单词;**glossary**术语表;**thesaurus**同类词汇编;**colloquial**口语的, 会话的;
 6. **lign-** = wood, 表示“木头”。源自拉丁语 lignum "wood, firewood."
 	1. lignify
-		1. ligneous
+		1. lign-木头 + ify, 表动词
+		2. v. 木质化
+		3. ligneous
 			1. **woody**木质的;**deciduous**每年落叶的;**plant**植物;**pine**松树;**wood**木材;**biomass**生物量;**fibrous**纤维的，纤维性的;**shrub**灌木;**vegetation**植物;**beech**山毛榉;**assemblage**聚集;
-		2. ligniferous
-		3. lignification
-		4. ligniform
-		5. lignin, lignine
-		6. lignivorous
-		7. lignicolous
-	2. lignite
+		4. ligniferous
+		5. lignification
+		6. ligniform
+		7. lignin, lignine
+		8. lignivorous
+		9. lignicolous
+	3. lignite
 		1.  [brown coal](dic://brown coal), [wood coal](dic://wood coal)
 		2. _n._ [coal](dic://coal), [humate](dic://humate)
 		3. **coal**煤;**coal-fired**烧煤的;**peat**泥煤;**shale**页岩;**biomass**生物量;**sulphur**硫磺;**hydrocarbon**碳氢化合物;**limestone**石灰岩;**sulfur**用硫磺处理;**sulfide**硫化物;**petroleum**石油;
 		4. _[brown lignite](dic://brown%20lignite)_  褐煤；[矿物] 棕褐煤
-	3. lignohumus
-	4. lignosa
-	5. lignosae
-	6. lignose
-	7. lignosulphonate
-	8. lignotuber
-	9. lignumvitae
+	4. lignohumus
+	5. lignosa
+	6. lignosae
+	7. lignose
+	8. lignosulphonate
+	9. lignotuber
+	10. lignumvitae
 7. **log-, logu-** = speak, 表示“说话”，更倾向于知识阶层的‘说’，所以经常引申为...学。源自希腊语 logos "speech, word, reason."'
 	1. logorrhea, logorrhoea
 		1. _n._ [mania](dic://mania), [passion](dic://passion), [cacoethes](dic://cacoethes)
@@ -2192,28 +2206,50 @@
 	4. leipomeria
 	5. leipopsychia
 2. **linqu-** = leave, 表示“离开”。源自拉丁语 linquere "to leave."
-	1. delinquent, delinquency
-		1. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
-		2. _adj._ [guilty](dic://guilty), [negligent](dic://negligent), [incorrigible](dic://incorrigible), [due](dic://due), [owed](dic://owed)
-		3. _n._ [innocent](dic://innocent), [guiltless](dic://guiltless), [clean-handed](dic://clean-handed), [diligent](dic://diligent), [corrigible](dic://corrigible), [undue](dic://undue), [not due](dic://not due)
-		4. **delinquency**不法行为;**arrears**到期未付之债;**juvenile**青少年的;**debtors**债务人;**debtor**债务人;**adolescent**青春期的;**unpaid**未付款的;**wayward**任性的;**incarcerated**钳闭的;**rebellious**叛逆的;**owed**感恩，亏欠，负债];
+	1. delinquent
+		1. de-一再 + linqu-离开 + -ent → 一再离开[正道] → 有过失。
+		2. 1. _adj._ 违法的；有过失的
+		3. (债务、账目等)拖欠的，到期未付的
+		4. _n._ (尤指青少年)有过失的人，违法的人
+		5. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
+		6. _adj._ [guilty](dic://guilty), [negligent](dic://negligent), [incorrigible](dic://incorrigible), [due](dic://due), [owed](dic://owed)
+		7. _n._ [innocent](dic://innocent), [guiltless](dic://guiltless), [clean-handed](dic://clean-handed), [diligent](dic://diligent), [corrigible](dic://corrigible), [undue](dic://undue), [not due](dic://not due)
+		8. **delinquency**不法行为;**arrears**到期未付之债;**juvenile**青少年的;**debtors**债务人;**debtor**债务人;**adolescent**青春期的;**unpaid**未付款的;**wayward**任性的;**incarcerated**钳闭的;**rebellious**叛逆的;**owed**感恩，亏欠，负债];
+		9. _juvenile delinquent_ 少年犯 
+		10. The businessman was billed for delinquent taxes /那商人因拖欠税金而被罚款。
+		11. Most delinquent children have deprived backgrounds /多数少年犯都有贫困且未受教育的背景。
+		12. China is also ordering banks to go easy on delinquent borrowers. /中国还要求银行对拖欠贷款的借款人宽容一些。
+		13. Sir, you are delinquent on... on your property taxes... /先生 你的房产税拖欠未付。
+		14. In films and television, they're often portrayed as slackers and delinquents. /在电影和电视中，他们经常被描绘成懒汉和不良少年。
+		15. 
+		16. delinquency
 	2. relinquish, relinquishment
-		1. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
-	3. delict, delictum
+		1. re-强调 + linqu-离开 + -ish表动词 → 离开不再要 → 放弃。
+		2. 来自拉丁语 relinquere,留下，留给，来自 re-,向后，往回，linquere,留下，留给，词源同delinquency,relic.引申诸相关词义。
+		3. (renounce, abjure, abdicate, foreswear, quit, relinquish, )
+		4. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
+		5. can't bear to relinquish the idea. /不能忍受放弃这个主意。
+		6. They will never voluntarily relinquish their independence /他们绝对不会自动放弃独立。
+		7. he relinquished his managerial role to become chief executive. /他放弃了经理职务以便出任首席执行官。
+	3. delict, delictum (derelict, delict, predilection) 
 		1. n. 侵权行为；轻罪；不法行为
-		2. delictual
 		3. _[in flagrant delict](dic://in%20flagrant%20delict)_ 在作案时; 在作案现场英语; 在作案时英语;
 		4. _[bribery delict](dic://bribery%20delict)_ 受贿罪
 		5. _[joint delict](dic://joint%20delict)_ 共同侵权行为
 		6. _[a delict jure genetium](dic://a%20delict%20jure%20genetium)_ 国际不法行为
+		7. The term **delict** and variants thereof are used in civil law systems for civil wrongs /不法侵害及其变化的术语在民法制度中被用于民事侵权行为上。
+		8. In Chinese arbitral law field, there are disputes over whether or not **delict** can be arbitrated. /能否对侵权行为给以仲裁，在我国仲裁法律界存在争议。
+		9. delictual
 	4. relic
 		1.  [keepsake](dic://keepsake), [souvenir](dic://souvenir), [token](dic://token)
 		2. _n._ [antiquity](dic://antiquity), [object](dic://object), [physical object](dic://physical object)
 		3. _cultural relic_ 文物；文化遗产
 		4. **artifact**人工制品;**bygone**过去的;**artifacts**史前古器物;**remnant**剩余;**archaic**古代的;**ancient**古代的;**treasure**财富，财产;**throwback**返回;**shrine**圣地;**grail**杯;**antiquated**陈旧的;
-		5. reliquary
+		5. They try their best to avoid destroying the historical relics. /他们尽最大可能避免毁坏历史文物。
+		6. Mitchell spends his time looking for something decidedly different from such handmade relics. /米切尔花时间寻找与这些手工文物截然不同的东西。
+		7. reliquary
 			1. **relics**遗迹;**relic**废墟;**shrine**圣地;**crypt**地窖,教堂地下室;**tomb**坟墓;**rosary**玫瑰园，玫瑰花坛;**basilica**长方形会堂;**casket**匣子;**chapel**小教堂;**statue**雕像，塑像;**figurine**小雕像，小塑像;
-		6. reliquiae
+		8. reliquiae
 			1. _[relique reliquiae](dic://relique%20reliquiae)_ 遗体
 	5. relict
 		1. n. 寡妇；残余物，残余体；未亡人
@@ -2234,7 +2270,7 @@
 			10. dereliction,
 				1. **derelict**玩忽职守的;**neglect**疏忽，忽视;**disrepair**失修,破损;**mismanagement**办错,管理不善;**incompetence**无能力;**duty**责任;**abandonment**放弃;**negligence**疏忽, 玩忽;**disgrace**耻辱;**abject**卑贱的;**folly**愚蠢;
 				2. [negligence](dic://negligence), [neglect](dic://neglect), [neglectfulness](dic://neglectfulness), [carelessness](dic://carelessness), [nonperformance](dic://nonperformance), [wrongdoing](dic://wrongdoing), [wrongful conduct](dic://wrongful conduct)
-3. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."
+4. **lips-** = leave, 表示“离开”。源自希腊语 leipein "to leave."
 	1. eclipse
 		1. ec-出 + lips-离开 + -e，[太阳]离开 → 日。
 		2. ec-,向外，-lipse,留下，词源同 leave,ellipse.即留下一块阴影。
@@ -2287,8 +2323,8 @@
 	4. lipography
 	5. liptobiolite
 	6. liptobiolith
-4. lend
-5. loan
+5. lend
+6. loan
 
 
 ### + \*leid- + = to play
@@ -2699,36 +2735,84 @@
 	13. paralyse, paralyze
 	14. etc..
 5. **solv-, solu-, solut-** = loosen，松开
-	1. consolute, 
-	2. dissolute
-		1. dissolution
-			1. redissolution
-			2. electrodissolution
-		2. dissoluteness
-		3. dissolutely
-	3. dissolve
-		1. undissolved
-		2. redissolve
-		3. predissolve
-		4. dissolver
-		5. dissolvent
-		6. dissolved
-		7. dissolvant
-		8. dissolvable
+	1. solve (volute)
+		1. 来自拉丁语 solvere,松开，解开，分开，溶解，来自 se-,分开，各自，luo,松开，失去，词源同 lose,loose,analyze.引申词义解决，解答。
+		2. 
+		3. soluble
+			1. **insoluble**不能解决的,不溶的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**aqueous**水的，水般的;**polymeric**聚合的;**surfactant**表面活性剂;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**granules**颗粒剂;**starch**淀粉;**acidic**酸的，酸性的;**protein**蛋白质;**proteins**蛋白质;
+			2. water-soluble
+			3. solubleness
+			4. solubilize
+				1. solubilization
+				2. solubilizer
+				3. solubilizing
+				4. insolubilize
+			5. solubility
+				1. etc..
+			6. resoluble
+			7. insoluble
+			8. dissoluble
+			9. etc..
+		4. solvability
+			1. unsolvability
+			2. dissolvability
+		5. solvable
+		6. solvate
+		7. solvent
+			1. insolvent
+				1. insolvency
+					1. **bankruptcy**破产;**liquidation**清偿,结算;**bankrupt**破产的;**creditor**债权人，贷方;**debtors**债务人;**restructuring**重组;**debtor**债务人;**debt**债务;**indebtedness**债务;**litigation**打官司;**liabilities**债务;
+			2. cosolvent
+			3. etc..
+		8. solvency
+		9. polysolve
+		10. cellosolve
+	3. solute
+		1. n. 溶解物, 溶质
+		2. solution
+		3. supersolution
+		4. solutionist
+		5. etc..
+	4. consolute (convolute) 
+	5. dissolute (dissipate)
+		1. a. 放荡的, 风流的
+		2. dis-分开 + solut-松 + -e → 放松不放 → 放荡的。
+		3. dissolution
+			1. n. 分解, 溶解, 解散, 结束
+			2. dissolute【a. 放荡的, 风流的】 + -ion, 表名词，是单词dissolute 派生的名词。
+			3. - dis-,分开，散开，-solut,松开，词源同 solve.即松散，引申词义四分五裂，解体，解除。
+			4. redissolution
+			5. electrodissolution
+		5. dissoluteness
+		6. dissolutely
+	6. dissolve
+		1. v. 溶解; 解散会议, 解除婚姻; 消除, 消散; 禁不住（哭起来）; 破坏
+		2. dis-分开 + solv-松 + -e → 松开分散 → 溶解。
+		3. undissolved
+		4. redissolve
+		5. predissolve
+		6. dissolver
+		7. dissolvent
+		8. dissolved
+		9. dissolvant
+		10. dissolvable
 			1. indissolvableness
 			2. indissolvable
-	4. resolute
-		1. resolutive
-		2. resolution
+	7. resolute (revolute)
+		2. resolutive
+		3. resolution
 			1. superresolution
 			2. resolutioner
 			3. multiresolution
 			4. hyperresolution
 			5. eigenresolution
-		3. resolutely
-		4. irresolute
-			1. irresolutely
-	5. resolve
+		4. resolutely
+		5. irresolute
+			1. ir-不，非 + resolute【坚决的, 刚毅的, 毅然的】
+			2. a. 无决断的, 优柔寡断的, 踌躇不定的
+			3. 
+			4. irresolutely
+	8. resolve (revolve)
 		1. [resoluteness](dic://resoluteness), [firmness](dic://firmness), [firmness of purpose](dic://firmness of purpose), [resolution](dic://resolution)
 		2. [resolution](dic://resolution), [declaration](dic://declaration)
 		3.  [decide](dic://decide), [settle](dic://settle), [adjudicate](dic://adjudicate)
@@ -2751,7 +2835,7 @@
 		15. resolved, unresolved, resolvedly
 		16. resolvable, resolvability
 			1. irresolvable
-	7. absolute
+	9. absolute
 		1. [downright](dic://downright), [out-and-out(a)](dic://out-and-out(a)), [rank(a)](dic://rank(a)), [right-down](dic://right-down), [sheer(a)](dic://sheer(a))
 		2. [conclusive](dic://conclusive)
 		3. [total](dic://total), [unconditioned](dic://unconditioned)
@@ -2765,69 +2849,36 @@
 		11. absolution
 		12. absoluteness
 		13. absolutely
-	8. absolve
-		1. vt. 宣告...无罪, 赦免, 免除
-		2. ab-,离开，solve,溶解，解开，解决。用于法律用语指宣告无罪，无罪释放。
-		3. **blame**责备;**responsibility**责任;**guilt**内疚;**forgive**原谅;**accuse**控告，指控;**acknowledge**承认;**obligation**义务;**condemn**判刑，定罪;**punish**严厉对待;**negate**否定;**wrongdoing**坏事;
-		4. [forgive](dic://forgive)
-		5. [justify](dic://justify), [free](dic://free)
-		6. absolvitor
+	10. absolve
+		1. ab-离开 + solv-松开 + -e → 松开 → 免罪。
+		2. vt. 宣告...无罪, 赦免, 免除
+		3. ab-,离开，solve,溶解，解开，解决。用于法律用语指宣告无罪，无罪释放。
+		4. **blame**责备;**responsibility**责任;**guilt**内疚;**forgive**原谅;**accuse**控告，指控;**acknowledge**承认;**obligation**义务;**condemn**判刑，定罪;**punish**严厉对待;**negate**否定;**wrongdoing**坏事;
+		5. [forgive](dic://forgive)
+		6. [justify](dic://justify), [free](dic://free)
+		7. absolvitor
 			1. 【法】 赦免, 释放
-		7. absolver
-		8. absolvent
-		9. absolvable, unabsolvable
-	10. aerosol
+		8. absolver
+		9. absolvent
+		10. absolvable, unabsolvable
+	11. aerosol
 		1. radioaerosol
 		2. aerosolology
 		3. aerosology
 		4. aerosolize, aerosolizer
-	11. solve
-		1. soluble
-			1. **insoluble**不能解决的,不溶的;**solubility**溶度,溶性,可解决性,可解释性,溶解性;**aqueous**水的，水般的;**polymeric**聚合的;**surfactant**表面活性剂;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**granules**颗粒剂;**starch**淀粉;**acidic**酸的，酸性的;**protein**蛋白质;**proteins**蛋白质;
-			2. water-soluble
-			3. solubleness
-			4. solubilize
-				1. solubilization
-				2. solubilizer
-				3. solubilizing
-				4. insolubilize
-			5. solubility
-				1. etc..
-			6. resoluble
-			7. insoluble
-			8. dissoluble
-			9. etc..
-		2. solvability
-			1. unsolvability
-			2. dissolvability
-		3. solvable
-		4. solvate
-		5. solvent
-			1. insolvent
-				1. insolvency
-					1. **bankruptcy**破产;**liquidation**清偿,结算;**bankrupt**破产的;**creditor**债权人，贷方;**debtors**债务人;**restructuring**重组;**debtor**债务人;**debt**债务;**indebtedness**债务;**litigation**打官司;**liabilities**债务;
-			2. cosolvent
-			3. etc..
-		6. solvency
-		7. polysolve
-		8. cellosolve
-	12. solute, solution
-		1. supersolution
-		2. solutionist
-		3. etc..
-6. leister
-7. loess
-8. loose
+7. leister
+8. loess
+9. loose
 	1. play fat and loose
 		1. Your board playing fast and loose with the lives of people in service? /对于董事会随意玩弄政府部门人员的性命一事？
 		2. I mean, there's always gonna be people in this world who are playing fast and loose with the rules /我是说，这世上肯定有些人会不守规则。
 		3. I'm gonna play fast and loose, and not measure. /我会快速而松散地玩，而不是衡量。
 		4. They played fast and loose with investors’ money. /他们滥用投资者的资金。
 		5. We can't play fast and loose with your mental health. /不能把你的精神健康当儿戏。
-9. lorn
-10. lose
-11. loss
-12. lost
+10. lorn
+11. lose
+12. loss
+13. lost
 
 
 ### + \*leub(h)- + =
@@ -3192,8 +3243,8 @@
 ### + \*leug +
 1. **lugubr-** = mournful, 表示“悲痛”。源自拉丁语 lugere "to mourn."
 	1. lugubrious
-		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
-		2. (mawkish bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, doleful)
+		2. (mawkish bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy, lugubrious, drippiness, )
 		3. 1 - 来自拉丁语 lugere,悲伤，悼念，来自 PIE*leug,断开，破开，使悲痛，可能来自 PIE*skel,撕，切，词源同 scale,scalper.
 		4. **melancholy**忧郁, 悲哀;**somber**昏暗的;**brooding**沉思的;**gloomy**黑暗的;**wry**面部肌肉扭曲的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**pompous**浮夸的;**moody**喜怒无常的;**grim**冷酷的;
 		5. [sorrowful](dic://sorrowful)
@@ -3215,21 +3266,22 @@
 		2. **vivid**鲜明的;**concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**succinct**简洁的;**sober**冷静的，清醒的;**perceptive**敏感的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**hypnotic**催眠的，催眠术的;**awake**觉醒，意识到;**dreaming**有梦想的;
 		3. translucid
 		4. pellucid
-			1. [crystalline](dic://crystalline), [crystal clear](dic://crystal clear), [limpid](dic://limpid), [lucid](dic://lucid), [transparent](dic://transparent)
-			2.  [limpid](dic://limpid), [lucid](dic://lucid), [luculent](dic://luculent), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
-			3. _adj._ [clear](dic://clear)
-			4. _n._ [opaque](dic://opaque), [unclear](dic://unclear)
-			5. **crystalline**水晶的;**silvery**似银的，银色的;**translucent**半透明的;**glistening**闪耀的,反光的;**luminous**发光的;**lucid**易懂的;**sparkling**闪闪发光的;**opaque**不透明的;**eloquent**雄辩的，有口才的;**iridescent**彩虹色的;**velvety**天鹅绒般柔软
-		5. lucidum
-		6. lucidness
-		7. lucidly
-		8. lucidity
-		9. lucidification
-		10. elucidate
+			1. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative, opaque, obscure, inaccessible) 
+			2. [crystalline](dic://crystalline), [crystal clear](dic://crystal clear), [limpid](dic://limpid), [lucid](dic://lucid), [transparent](dic://transparent)
+			3.  [limpid](dic://limpid), [lucid](dic://lucid), [luculent](dic://luculent), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
+			4. _adj._ [clear](dic://clear)
+			5. _n._ [opaque](dic://opaque), [unclear](dic://unclear)
+			6. **crystalline**水晶的;**silvery**似银的，银色的;**translucent**半透明的;**glistening**闪耀的,反光的;**luminous**发光的;**lucid**易懂的;**sparkling**闪闪发光的;**opaque**不透明的;**eloquent**雄辩的，有口才的;**iridescent**彩虹色的;**velvety**天鹅绒般柔软
+		6. lucidum
+		7. lucidness
+		8. lucidly
+		9. lucidity
+		10. lucidification
+		11. elucidate
 			1. elucidator
 			2. elucidative
 			3. elucidation
-		11. elucidata
+		12. elucidata
 	3. lucifer, lucifugous
 		1. luciferase
 		2. luciferin

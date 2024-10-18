@@ -67,7 +67,9 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 
 ## Intro: Web Basics
-↗ [Web Development & Web Basics](../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
+> ↗ [Web Development & Web Basics](../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
+> 🔗 https://textbook.cs161.org/web/intro.html
+
 
 
 

@@ -47,4 +47,20 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 
 
+## Human Factors in Web Attacks
+### Social Engineering
+
+
+### UI Attacks
+General theme: The attacker tricks the victim into thinking they are taking an intended action, when they are actually taking a malicious action
+- Takes advantage of user interfaces: The trusted path between the user and the computer
+	- Browser disallows the website itself to interact across origins (same-origin policy), but trusts the user to do whatever they want
+- Remember: Consider human factors!
+
+Two main types of UI attacks
+- Clickjacking: Trick the victim into clicking on something from the attacker
+- Phishing: Trick the victim into sending the attacker personal information
+
+
+
 ## Ref

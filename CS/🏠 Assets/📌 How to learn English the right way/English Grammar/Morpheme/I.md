@@ -130,7 +130,7 @@
 	5. insulate：['ɪnsjʊleɪt] vt.隔离，孤立，使绝缘
 	6. insulance
 3. insulate
-4. insular (insular, provincial, private, )
+4. insular (insular, provincial, private, parochial)
 	1. - adj. 孤立的；与世隔绝的；海岛的；岛民的
 	2. insular - 岛总是和大陆隔离才成其为岛。作“隔离”或“孤立”解的isolate一词的词源正是表示“岛”的意大利语isola和拉丁语īnsula。英语另有几个词如isle（岛），insulate（使绝缘）及insular（岛屿的）等均源于此。isolate是从isolated逆生而成的。
 	3.  [parochial](dic://parochial)

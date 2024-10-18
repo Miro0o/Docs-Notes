@@ -2846,7 +2846,7 @@
 4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
 5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
 	1. admonish (exhort, expostulate)
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate)
 		2.  ad-,去，往，-mon,建议，警告，词源同 monitor,班长。
 		3. _vt._ 劝告, 训诫
 		4. (温和地)责备，轻责
@@ -3144,9 +3144,10 @@
 		3. vi. 好转, 改善
 		4. - 缩写自 amend,修理。来自拉丁语 emendare,修理，纠正错误，来自 ex-,向外，menda,错误，缺陷，词源同 mendicant,残疾人，行乞者。
 		5. mendacious
-			1. mend-错误 + -acious(=-acy + -ous)形容词后缀。
-			2. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
-		6. mendacity
+			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious)
+			2. mend-错误 + -acious(=-acy + -ous)形容词后缀。
+			3. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
+		7. mendacity
 			1. n. 虚伪, 谎话, 说谎癖
 			2. mend-错误 + -ac + -ity
 			3. **dishonesty**不诚实的行为;**hypocrisy**伪善;**incompetence**无能力;**falsehood**谎言;**deceit**欺骗;**idiocy**白痴;**stupidity**愚笨;**hubris**傲慢;**ignorance**无知;**deception**欺骗;**cowardice**懦弱;
@@ -3155,15 +3156,15 @@
 			6. In recent years, he has found himself drawn to mendacity, prevarication, fabrication—you know, lying. /近年来，他发现自己被谎言、推诿、蒙骗所吸引，这就是撒谎。
 			7. The fantasy of visible mendacity may help explain why " Pinocchio" is in vogue /这种对于谎言一目了然的幻想，可能有助于我们明白《匹诺曹》为什么如此流行。
 			8. She glowed; remembering the mendacity of the imagination, she flagged; then she freshened; then she fired; then she cooled again. /她脸放光彩；跟着想起这种想象的不着边际，又消沉了下去；随后情绪又振奋起来；她脸上发烫；再接着又冷了下去。
-		7. mender
-		8. mendicity
+		8. mender
+		9. mendicity
 			1. - n. 化缘；乞丐生活（等于 mendicancy）
 			2. mend-身体缺陷 + -ic + -ancy, 表名词
 			3. **beggar**乞丐;**monastic**僧侣;**monk**僧侣，修道士;**hermit**隐士;**nun**修女，尼姑;**pilgrim**朝圣者;**convent**女修道院;**abbot**男修道院院长;**pious**虔诚的;**Franciscan**圣方济各会的;**monastery**修道院;
 			4. **piety**虔诚;**poverty**贫困;**beggar**乞丐;**destitute**赤贫的, 贫苦的;**penance**使…以苦行赎罪;
 			5. mendicant
 			6. mendicancy
-		9. mending
+		10. mending
 			1.  [repair](dic://repair), [fix](dic://fix), [fixing](dic://fixing), [fixture](dic://fixture), [mend](dic://mend), [reparation](dic://reparation)
 			2. _n._ [garment](dic://garment), [improvement](dic://improvement)
 			3. **fixing**固定;**repair**修复;**patching**修补;**sewing**缝纫;**frayed**受磨损;**repairs**备件;**undoing**毁灭;**broken**坏掉的;**washing**洗涤;**healing**能治愈的;**stitching**用U字钉钉箱,缝纫;
@@ -3175,19 +3176,36 @@
 	2. emend
 		1. e-=ex-出 + mend-错误，缺陷。
 		2. vt. 修订, 校勘
-		3. emendatory
-		4. emendator
-		5. emendation
-		6. emendable
+		3. _v._ [better](dic://better), [improve](dic://improve), [amend](dic://amend), [ameliorate](dic://ameliorate), [meliorate](dic://meliorate)
+		4. emend the text of a book /校勘一本书的课文
+		5. I am going to **emend** the second passage in this book /我打算对该书中的第二节进行修改。
+		6. He is emending classical authors. /他在校勘古典著作。
+		7. emendatory
+		8. emendator
+		9. emendation
+		10. emendable
 	3. amend
 		1.  a-,改写自 ex-,向外，-mend,虚假，缺陷，词源同 mendacious,虚假的。
 		2. vt. 修改, 改善, 改良  vi. 改过自新
-		3. amends
-		4. amendment
-		5. amended
-		6. amendatory
-		7. amendable
-	4. maunder
+		3.  [better](dic://better), [improve](dic://improve), [ameliorate](dic://ameliorate), [meliorate](dic://meliorate)
+		4.  [rectify](dic://rectify), [remediate](dic://remediate), [remedy](dic://remedy), [repair](dic://repair)
+		5. _v._ [revise](dic://revise), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [correct](dic://correct), [rectify](dic://rectify), [right](dic://right)
+			1. [correct](dic://correct) 指纠正或改正不正确、不真实或有缺点的东西。  
+			2. [rectify](dic://rectify) 正式用词，意义较抽象，侧重指彻底改正偏离子正确标准或规则的东西。  
+			3. [remedy](dic://remedy) 正式用词，通常指在局部范围内进行纠正，尤指对困难或棘手问题的解决。  
+			4. [revise](dic://revise) 指通过仔细阅读、反复思考后而进行改正、订正或修订，使趋于完善。  
+			5. [amend](dic://amend) 书面语用词。指进行更正或改变，使之更好，符合更高的要求。
+		6. **revise**校订;**modify**修改，修饰;**revoke**废除;**alter**改变，更改;**enact**扮演;**approve**批准;**repeal**废除;**authorize**授权, 批准;**abolish**废除，废止;**reinstate**使恢复原职;**ratify**批准;
+		7. _make amends for_ 补偿；赔偿…损失
+		8. You must amend your pronunciation. /你必须改正你的发音。
+		9.  The teacher advised him to amend his way of living /老师劝他改变生活方式。
+		10. The Equality Act of 2010 will be amended. /2010年的《平等法》将会修订。
+		11. amends
+		12. amendment
+		13. amended
+		14. amendatory
+		15. amendable
+	10. maunder
 		1. vi. 唠叨地讲, 徘徊
 		2.  来自 maund,乞讨，来自法语 mendier,乞讨，化缘，词源同 mendicant,mendacious.-er,表反复。引申词义咕哝，抱怨。
 		3.  [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [twaddle](dic://twaddle), [clack](dic://clack), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
@@ -3224,7 +3242,7 @@
 			9. The case was different when President Eliot himself hinted that Adams's services merited recognition /当艾略特总统本人暗示亚当斯的服务值得认可时，情况就不同了。
 			10. Her honest ostentatious nature made the sharing of a merited dishonor as bitter as it could be to any mortal /她诚实而爱炫耀的本性使分担应有的耻辱对任何凡人来说都是痛苦的。
 			11. For all the pretence of due legal process and distaste at Ms Yingluck's nepotism, this was not an offence that merited the ousting of a prime minister. /所有对于相应法定程序的托词以及英拉裙带关系的愤恨都不足以成为剥夺一国总理的理由。
-		4. unmerited
+		4. unmerited (undeserved, unmerited, )
 			1. adj. 无功受禄的；不当的；不应受的
 			2. _adj._ [gratuitous](dic://gratuitous), [undeserved](dic://undeserved), [unworthy](dic://unworthy)
 			3. _n._ [merited](dic://merited), [deserved](dic://deserved), [worthy](dic://worthy)
@@ -3243,22 +3261,23 @@
 			7. By these days it was a demerit to be muscular /到这个时代，肌肉发达乃是个缺陷。
 			8. The young man was relieved from the awkwardness of making any further protestations of his own demerits, by an exclamation from Chingachgook, and the attitude of riveted attention assumed by his son /Chingachgook 的一声惊呼，以及他儿子所表现出的全神贯注的态度，让这个年轻人不再为自己的过失做出任何进一步的抗议而感到尴尬。
 	3. meretricious (tawdry)
-		7. meretricious [,merɪ'trɪʃəs] adj.俗气的；娼妓的；俗丽的。希腊神话中对应的命运三女神叫Moirai，词根moir-,mer-表分配；制定（份额）等。命运女神决定了我们活多少年。meretricious中的tric-部分，同aviatrix [,eɪvɪ'eɪtrɪks] n.女飞行员，中的-trix部分，表女性，娼妓靠媚俗赚钱（份额）。 ​​​​
-		8. 来自拉丁语 meretrix,妓女，来自3 mereri,挣钱，赚取自己应得的部分，来自 PIE*mer,smer,砍，切，分配，词源同 merit,polymer.-trix,表阴性，词源同 dominatrix.字面意思即赚钱的女人，用于委婉语指妓女。并由此引申多种贬义词义。最终词源可能同 market,mercy.
-		9. adj. 俗气的；娼妓的；华丽而庸俗的
-		10. _adj._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
-		11. _n._ [tasteful](dic://tasteful), [sincere](dic://sincere)
-		12. **crass**粗鲁的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**self-serving**自私的,自私自利的;**trashy**碎屑的;**banal**陈腐的;**disingenuous**不真诚的;**pernicious**很有害的;**pretentious**自命不凡的;**dishonest**不诚实的;**sordid**肮脏的;
-		13. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [trashy](dic://trashy)
-		14. meretricious relationships. /嫖娼关系
-		15. meretricious ornamentation /俗气的装饰
-		16. a meretricious yet stylish book; /俗不可耐但却时髦的书
-		17. meretricious souvenirs for the tourist trade. /没有真正价值的俗丽旅游纪念品。
-		18. longueurs and passages of meretricious vulgarity /乏味的段落和极其庸俗的章节
-		19. " I am your verdict." In office, his talent for zingers and impish charm soon seemed meretricious /“我是你的裁决。”在办公室里，他的活力和顽皮的魅力很快就显得很庸俗。
-		20. He was a son of God—a phrase which, if it means anything, means just that—and he must be about His Father's Business, the service of a vast, vulgar and meretricious beauty. /他是上帝的儿子——这个称号，如果有什么意义的话，就是字面的意思——因此他必须为他的天父效命，献身于一种博大、庸俗、华而不实的美。
-		21. If there is anything more degrading, immoral, unnatural, than another in my life, it is this meretricious contract with Arabella which has been called doing the right thing! /如果说我生命中还有比其他任何事情更可耻、更不道德、更不自然的事情， 那就是与阿拉贝拉签订的这份华而不实的合同， 这被称为做正确的事！
-	4. meristem
+		1. 
+		2. meretricious [,merɪ'trɪʃəs] adj.俗气的；娼妓的；俗丽的。希腊神话中对应的命运三女神叫Moirai，词根moir-,mer-表分配；制定（份额）等。命运女神决定了我们活多少年。meretricious中的tric-部分，同aviatrix [,eɪvɪ'eɪtrɪks] n.女飞行员，中的-trix部分，表女性，娼妓靠媚俗赚钱（份额）。 ​​​​
+		3. 来自拉丁语 meretrix,妓女，来自3 mereri,挣钱，赚取自己应得的部分，来自 PIE*mer,smer,砍，切，分配，词源同 merit,polymer.-trix,表阴性，词源同 dominatrix.字面意思即赚钱的女人，用于委婉语指妓女。并由此引申多种贬义词义。最终词源可能同 market,mercy.
+		4. adj. 俗气的；娼妓的；华丽而庸俗的
+		5. _adj._ [prostitute](dic://prostitute), [cocotte](dic://cocotte), [whore](dic://whore), [harlot](dic://harlot), [bawd](dic://bawd), [tart](dic://tart), [cyprian](dic://cyprian)
+		6. _n._ [tasteful](dic://tasteful), [sincere](dic://sincere)
+		7. **crass**粗鲁的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**self-serving**自私的,自私自利的;**trashy**碎屑的;**banal**陈腐的;**disingenuous**不真诚的;**pernicious**很有害的;**pretentious**自命不凡的;**dishonest**不诚实的;**sordid**肮脏的;
+		8. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [garish](dic://garish), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [trashy](dic://trashy)
+		9. meretricious relationships. /嫖娼关系
+		10. meretricious ornamentation /俗气的装饰
+		11. a meretricious yet stylish book; /俗不可耐但却时髦的书
+		12. meretricious souvenirs for the tourist trade. /没有真正价值的俗丽旅游纪念品。
+		13. longueurs and passages of meretricious vulgarity /乏味的段落和极其庸俗的章节
+		14. " I am your verdict." In office, his talent for zingers and impish charm soon seemed meretricious /“我是你的裁决。”在办公室里，他的活力和顽皮的魅力很快就显得很庸俗。
+		15. He was a son of God—a phrase which, if it means anything, means just that—and he must be about His Father's Business, the service of a vast, vulgar and meretricious beauty. /他是上帝的儿子——这个称号，如果有什么意义的话，就是字面的意思——因此他必须为他的天父效命，献身于一种博大、庸俗、华而不实的美。
+		16. If there is anything more degrading, immoral, unnatural, than another in my life, it is this meretricious contract with Arabella which has been called doing the right thing! /如果说我生命中还有比其他任何事情更可耻、更不道德、更不自然的事情， 那就是与阿拉贝拉签订的这份华而不实的合同， 这被称为做正确的事！
+	5. meristem
 		1. undifferentiated tissue from which new cells are formed, as at the tip of a stem or root
 		2. _n._ [plant tissue](dic://plant tissue)
 		3. **apical**顶上的, 顶点的;**bud**芽，萌芽;**elongation**延伸;**germination**萌芽,发生;**basal**基础的;**vegetative**植物生长的;**flowering**开花的;**apoptosis**细胞死;**ovary**子房;**photosynthesis**光合作用;**seedlings**幼苗;
@@ -3272,15 +3291,15 @@
 			1. - n. 真分生组织
 		11. antimeristem
 			1. n. 抗分生霉素
-	5. meroblast
+	6. meroblast
 		13. _n._ 部分裂卵,不全裂卵
-	6. merohedral
+	7. merohedral
 		1. [晶体] 缺面的
-	7. metamer
+	8. metamer
 		1. n. 条件等色；[有化] 位变异构体
 		2. metamerism
 			1. _n._ 位变异构,体节性
-	8. isomer
+	9. isomer
 		1. n. [化学] 同分异构物；[核] 同质异能素
 		2. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
 		3. **metabolite**代谢物;**ester**酯;**methyl**甲基;**molecule**分子;**ligand**配合基;**amine**胺;**benzene**苯;**esters**酯类;**monomer**单体;**ethyl**乙烷基;**ligands**配体;
@@ -3298,13 +3317,13 @@
 		15. isomerize
 		16. isomerization
 		17. isomerism
-	9. monomer
+	10. monomer
 		1. n. 单体；单元结构
 		2. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
 		3. **polymerization**聚合;**copolymer**共聚物;**polymer**聚合物;**polymers**聚合物;**polymeric**聚合的;**molecule**分子;**amine**胺;**polypeptide**多肽;**ethylene**乙烯;**ligand**配合基;**subunits**子单位;
 		4. The catalyst breaks down the waste into its two base monomers: DMT, dimethyl terephthalate, and MEG, monoethylene glycol. /DMT，也就是对苯二甲酸二甲酯，和 MEG，单乙二醇。
 		5. The monomers are simply added together and no by products are formed. /单体简单地加在一起， 没有副产物形成。
-	10. dimer
+	11. dimer
 		1. n. [有化]二聚物；二量体
 		2. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
 		3. **monomer**单体;**ligand**配合基;**molecule**分子;**subunits**子单位;**subunit**亚组;**ligands**配体;**molecules**分子学;**peptide**肽;**hydrophobic**狂犬病的,恐水病的,患恐水病的,不易被水沾湿的;**benzene**苯;**helix**螺旋;
@@ -3318,7 +3337,7 @@
 		11. codimer
 		12. allodimer
 		13. dimerous
-	11. polymer
+	12. polymer
 		1. poly-多，复，聚 + mer-部分。 poly-,多，复，聚，-mer,部分，词源同 merit,isomer,monomer.
 		2. n. [高分子]聚合物
 		3. _n._ [compound](dic://compound), [chemical compound](dic://chemical compound)
@@ -3379,33 +3398,33 @@
 		45. bipolymer
 		46. autopolymer
 		47. etc..
-	12. tetramer
+	13. tetramer
 		4. _n._ 四聚物
 		5. tetramerous
 			1. adj. 四部分的
-	13. pentamer
+	14. pentamer
 		1. pentamerous
 		2. adj. [植] 五基数的；[昆] 五跗节的；由五个部分组成的
 		3. _adj._ [divided](dic://divided)
 		4. _n._ [united](dic://united)
 		5. **symmetrical**对称的;**axial**轴的;**petals**花瓣;**fleshy**肉的;**symmetric**相称性的,均衡的;**genera**种;**lobes**耳垂;
-	14. heptamer
+	15. heptamer
 		1. n. 七聚物
-	15. dendrimers
+	16. dendrimers
 		1. 树枝状大分子
-	16. telomerase
+	17. telomerase
 		1. telo-终端 + mere-部分
 		2. n. 端粒酶（核糖体蛋白酶）
 		3. _n._ [enzyme](dic://enzyme)
 		4. **enzyme**酶;**polymerase**聚合酶;**apoptosis**细胞死;**RNA**核糖核酸;**enzymes**酶类，酵素;**overexpression**超表达;**glutathione**谷胱甘肽;**methylation**甲基化作用;**gene**基因，遗传因子;**enzymatic**酶的;**cytotoxic**细胞毒素的;
 		5. So it was thanks to their plentiful telomerase that our pond scum critters never got old. /因此， 正是由于它们丰富的端粒酶，我们的池塘浮渣生物才不会变老。
 		6. But when we analyze the cells chemically we find something very interesting, a chemical in them, an enzyme called telomerase./但是当我们对细胞进行化学分析时， 我们发现了一些非常有趣的东西，它们中的一种化学物质， 一种叫做端粒酶的酶。
-	17. centromere
+	18. centromere
 		1. centro-中心 + mere
 		2. n. 着丝点, 着丝粒
 		3. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
 		4. **chromosome**染色体;**chromosomal**染色体的;**chromatin**核染质;**cytoplasmic**细胞质的;**histone**组蛋白;**cytoplasm**细胞质;**loci**地点;**methylation**甲基化作用;**recombination**再结合;**nuclei**核心，核子;**homologous**相应的;
-	18. metamere
+	19. metamere
 		1. n. 体节（等于 metamer）
 
 
@@ -3470,15 +3489,16 @@
 			2. [penitent](dic://penitent), [repentant](dic://repentant)
 			3. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
 	3. mordacious, mordacity
-		1. [sarcastic](dic://sarcastic), [dangerous](dic://dangerous), [unsafe](dic://unsafe)
-		2. [unsarcastic](dic://unsarcastic), [safe](dic://safe)
-	4. mordancy, mordant
+		1. - adj. 锐利的；辛辣的 (poignant, mordacious, )
+		2. [sarcastic](dic://sarcastic), [dangerous](dic://dangerous), [unsafe](dic://unsafe)
+		3. [unsarcastic](dic://unsarcastic), [safe](dic://safe)
+	5. mordancy, mordant
 		4. [coloring material](dic://coloring material), [colouring material](dic://colouring material), [color](dic://color), [colour](dic://colour)
 		5. [sarcastic](dic://sarcastic), [destructive](dic://destructive)
 		6. [black](dic://black), [grim](dic://grim)
 		7. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
 		8. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
-	5. morsel (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, morsel)
+	6. morsel (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, morsel)
 		1. morsel ['mɔːs(ə)l] n.一口；（食物）少量。拉丁词根mord-,mors-表示咬，后缀-el指小，所以morsel就是你能一口（量少）吞下（咬）的食物。类似逻辑，单词bit [bɪt] n.比特；少量；马嚼子；一点，adj.很小的，adv.有点儿，与bite咬和bait诱饵等日耳曼词源单词有关。一口咬下去，差不多都是那个量。 ​​​​
 		2. [bit](dic://bit), [bite](dic://bite)
 		3. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
@@ -3492,7 +3512,7 @@
 		6. **recoil**畏缩, 退缩;**snout**鼻子;**pistol**手枪;**gun**枪;**rifle**步枪;**barrel**桶;**tail**尾部;**nose**鼻子;**projectile**发射体;**paw**抓，扒;**firearm**枪炮;
 		7. unmuzzle
 		8. muzzle-loader
-	9. smart
+	8. smart
 		1. adj. 聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的 
 		2. v. （身体部位）感到刺痛；（因批评、失败等）难过，烦恼
 		3. n. 剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）
@@ -3534,12 +3554,13 @@
 		31. smart-aleck
 		32. smart-alec
 		33. outsmart
-	10. smirch (smirk)
-		1. 原意表示“折磨”，s-=ex- + mirch=mord-咬 → 折磨 → 弄脏。
-		2. vt. 沾污, 弄脏  
-		3. n. 脏污, 污点
-		4.  [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [slur](dic://slur)
-		5.  [blot](dic://blot), [smear](dic://smear), [spot](dic://spot), [stain](dic://stain)
+	9. smirch (smirk)
+		1. 
+		2. 原意表示“折磨”，s-=ex- + mirch=mord-咬 → 折磨 → 弄脏。
+		3. vt. 沾污, 弄脏  
+		4. n. 脏污, 污点
+		5.  [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [slur](dic://slur)
+		6.  [blot](dic://blot), [smear](dic://smear), [spot](dic://spot), [stain](dic://stain)
 		7. besmirch
 		8. [defame](dic://defame), [slander](dic://slander), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear), [sully](dic://sully), [besmirch](dic://besmirch)
 		9. _n._ [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar), [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
@@ -3899,21 +3920,22 @@
 
 ### + \*mere- + = to hinder, delay
 1. **mor-, mur-** = delay 「Latin」mora, "a delay"
-	1. demur
-		1. [demurral](dic://demurral), [demurrer](dic://demurrer)
-		2. [except](dic://except)
-		3. _n._ [objection](dic://objection)
-		4. _v._ [object](dic://object), [plead](dic://plead)
-		5. **politely**客气地;**objection**反对, 异议;**cheerfully**欢乐地,愉快地;**respectfully**恭敬地;**hesitation**犹豫;**concede**承认;**humbly**卑贱地;**emphatically**断然地;**dare**的风险;**insistent**坚持的;**insist**坚持，强调;
-		6. _[without demur](dic://without%20demur)_  无异义的
-		7. to demur at working on Sunday /反对在星期日上班
-		8. He demured at the difficulty /他因困难而踌躇。
-		9. Mr Read has so far demurred. /目前为止，雷德表示拒绝。
-		10. They demurred and remained in their seats /她们犹豫半天，还是留在原来的座位上没有动。
-		11. demurrer
-		12. demurrant
-		13. demurrable
-		14. demurrage
+	1. demur (demure)
+		1. (rebuttal, confute, rebut, demur, refute, refuse, decline, denounce, )
+		2. [demurral](dic://demurral), [demurrer](dic://demurrer)
+		3. [except](dic://except)
+		4. _n._ [objection](dic://objection)
+		5. _v._ [object](dic://object), [plead](dic://plead)
+		6. **politely**客气地;**objection**反对, 异议;**cheerfully**欢乐地,愉快地;**respectfully**恭敬地;**hesitation**犹豫;**concede**承认;**humbly**卑贱地;**emphatically**断然地;**dare**的风险;**insistent**坚持的;**insist**坚持，强调;
+		7. _[without demur](dic://without%20demur)_  无异义的
+		8. to demur at working on Sunday /反对在星期日上班
+		9. He demured at the difficulty /他因困难而踌躇。
+		10. Mr Read has so far demurred. /目前为止，雷德表示拒绝。
+		11. They demurred and remained in their seats /她们犹豫半天，还是留在原来的座位上没有动。
+		12. demurrer
+		13. demurrant
+		14. demurrable
+		15. demurrage
 	3. moratory
 		1. _[moratory](dic://moratory)_  adj. 延期偿付的
 		2. _[moratory plan](dic://moratory%20plan)_ 命令性商量
@@ -4618,6 +4640,11 @@
 		6. _remissive treatment_ 缓解治疗
 		7. _Remissive stage-reinforcing and acute stage-reducing_ 补缓泻急
 		8. Methods 80 patients with the **remissive** state of illness were inquired by using a self designed questionnaire. /方法采用自行设计的问卷，对住院、病情缓解的80例患者进行调查。
+	24. unremitting
+		1. un-不，非 + remit【宽恕, 缓解】 + -ing。
+		2. _adj._ [continuous](dic://continuous), [uninterrupted](dic://uninterrupted)
+		3. _n._ [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous)
+		4. **unrelenting**不屈不挠的;**relentless**残酷的, 不留情的, 无怜悯心的;**incessant**不停的, 持续不断的;**unending**不断的，无止境的;**continual**不间断的, 不停的;**unwavering**不动摇的,坚定的;**never-ending**不停的,无限的;**constant**不变的;**tireless**不疲劳的;**merciless**无情的,残忍的;**continuous**连续的;
 21. remiss
 	1. a. 怠慢的, 不小心的, 没精打采的, 疏忽的
 	2. 来自拉丁语 remittere,松开，松懈，减轻，送走，来自 re-,向后，往回，mittere,送出，送走，词源同 emit,remit.-ss,过去分词格。引申词义疏忽的，懈怠的。
@@ -4853,8 +4880,9 @@
 		26. _brief case_ 公文包
 		27. _brief exposure_ 手控时间快门
 	10. brumal
-		1. a. 冬天的, 冬天发生的, 冬天出现的
-		2. brumal (adj.) - "belonging to winter"，16世纪10年代，源自拉丁语brumalis，源自bruma "winter" (参看：brume)。拉丁语单词是Brumaire的最终词源，Brumaire是法兰西共和国时的日历的二月 (Oct. 22-Nov. 20)，字面含义 "the foggy month"；1793由Fabre d'Eglantine创造的词，源自法语brume "fog"。
+		1.  (vernal, estival, autumnal, brumal/hibernal/wintry)
+		2. a. 冬天的, 冬天发生的, 冬天出现的
+		3. brumal (adj.) - "belonging to winter"，16世纪10年代，源自拉丁语brumalis，源自bruma "winter" (参看：brume)。拉丁语单词是Brumaire的最终词源，Brumaire是法兰西共和国时的日历的二月 (Oct. 22-Nov. 20)，字面含义 "the foggy month"；1793由Fabre d'Eglantine创造的词，源自法语brume "fog"。
 		4. [hibernal](dic://hibernal), [hiemal](dic://hiemal)
 		5. _adj._ [wintry](dic://wintry), [wintery](dic://wintery)
 		6. _n._ [vernal](dic://vernal), [summery](dic://summery), [autumnal](dic://autumnal)
@@ -5973,12 +6001,13 @@
 ## mu
 ### mund- 表示“世界”。
 1. mundane
-	1. [everyday](dic://everyday), [quotidian](dic://quotidian), [routine](dic://routine), [unremarkable](dic://unremarkable), [workaday](dic://workaday)
-	2. [terrestrial](dic://terrestrial)
-	3. [terrene](dic://terrene)
-	4. [ordinary](dic://ordinary), [worldly](dic://worldly), [earthly](dic://earthly)
-	5. [extraordinary](dic://extraordinary), [unworldly](dic://unworldly), [heavenly](dic://heavenly)
-	6. **banal**陈腐的;**ordinary**普通的;**trivial**不重要的，琐碎的;**everyday**每天的，日常的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**monotonous**无变化的, 单调乏味的;**boring**令人厌烦的;**unimportant**不重要的;**seemingly**看来似乎, 表面上看;**day-to-day**日常的,逐日的;**commonplace**平凡的
+	1. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian, )
+	2. [everyday](dic://everyday), [quotidian](dic://quotidian), [routine](dic://routine), [unremarkable](dic://unremarkable), [workaday](dic://workaday)
+	3. [terrestrial](dic://terrestrial)
+	4. [terrene](dic://terrene)
+	5. [ordinary](dic://ordinary), [worldly](dic://worldly), [earthly](dic://earthly)
+	6. [extraordinary](dic://extraordinary), [unworldly](dic://unworldly), [heavenly](dic://heavenly)
+	7. **banal**陈腐的;**ordinary**普通的;**trivial**不重要的，琐碎的;**everyday**每天的，日常的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**monotonous**无变化的, 单调乏味的;**boring**令人厌烦的;**unimportant**不重要的;**seemingly**看来似乎, 表面上看;**day-to-day**日常的,逐日的;**commonplace**平凡的
 
 
 

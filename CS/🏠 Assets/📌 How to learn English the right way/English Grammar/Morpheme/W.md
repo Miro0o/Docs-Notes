@@ -826,7 +826,7 @@
 		4. advene
 		5. advection
 	3. convect
-		1. - v. 通过对流传送（热，物质）；（流体）对流
+		1. v. 通过对流传送（热，物质）；（流体）对流
 		2. con-一起 + vect-带来
 		3. convector, convective, convection
 		4. **convection**传送,对流;**oven**烤箱, 炉;**magma**岩浆;**dissipate**驱散;**radiate**传播;**airflow**气流;**heat**热度;**defrost**除霜;**griddle**矿筛;**bake**烤, 烘焙;**radially**放射状地;
@@ -834,7 +834,7 @@
 	5. vector, vectorize
 		4. vectorgraph, vectorgram
 		5. subvector, eigenvector
-	6. convex
+	6. convex (convex, concave, )
 		1. con-强调 + vex-=vect-携带，移动，即在拱顶汇集的，形成凸透镜形状的。
 		2. _adj._ [bell-shaped](dic://bell-shaped), [biconvex](dic://biconvex), [convexo-convex](dic://convexo-convex), [lenticular](dic://lenticular), [lentiform](dic://lentiform), [broken-backed](dic://broken-backed), [hogged](dic://hogged)
 		3. _n._ [concave](dic://concave)
@@ -846,6 +846,10 @@
 		3. [intense](dic://intense), [strong](dic://strong)
 		4. [mild](dic://mild), [weak](dic://weak)
 		5. **fervent**强烈的;**ardent**热情的;**impassioned**充满激情的, 热烈的;**outspoken**直言的;**staunch**坚固的;**forceful**有说服力的;**indignation**愤怒, 愤慨, 气愤;**fierce**凶猛的;**zealous**热心的，热情的，积极的;**opposition**反对;**vigorous**有力的;
+		6. She was herself a vehement protagonist of sexual equality. /她本人就热心提倡男女平等。
+		7. She made a vehement attack on the government’s policies. /她强烈谴责政府的政策。
+		8. His negation was so vehement and strong. /他的否定是如此的激烈和强烈。
+		9. Sometimes, the vehement “No! ” from people could be a saviour to you. /有时，激烈的“不！ ” 人可能是你的救世主。
 	8. vehicle
 		1. veh-带来 + -icle工具。
 		2. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
@@ -858,20 +862,21 @@
 		3. vexatious
 			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
 			2. [disagreeable](dic://disagreeable)
-		4. vexation (chagrin)
-			1.  [annoyance](dic://annoyance), [chafe](dic://chafe)
-			2.  [irritation](dic://irritation), [annoyance](dic://annoyance), [botheration](dic://botheration)
-			3.  [concern](dic://concern), [worry](dic://worry), [headache](dic://headache)
-			4.  [annoyance](dic://annoyance), [annoying](dic://annoying), [irritation](dic://irritation)
-			5. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire), [psychological state](dic://psychological state), [mental state](dic://mental state), [negative stimulus](dic://negative stimulus), [mistreatment](dic://mistreatment)
-			6. **indignation**愤怒, 愤慨, 气愤;**anguish**苦闷;**sorrow**悲伤;**affliction**折磨;**annoyance**烦恼;**astonishment**惊讶, 惊奇;**impatience**急躁;**countenance**面容，表情;**malice**怨恨;**displeasure**不快, 不悦, 生气;**irritation**刺激;
-			7. fresh remembrance of vexation must still enkindle rage. /对烦恼的事的清晰记忆一定还会叫人怒不可遏。
-			8. She was crying with vexation and shock. /她正在因烦恼和震惊而哭泣。
-			9. Much to my vexation, I just missed a chance of visiting China. /错过一个访问中国的机会, 真气人。
-			10. He gave the doctor a look of vexation. /他很不高兴地看了医生一眼。
-			11. I gazed at her, looking totally startled by the flutters of anger and vexation in her voice. /我盯着她看，完全被她声音里突然的生气和恼火吓到了。
+		4. vexation  ()
+			1. (chagrin)
+			2.  [annoyance](dic://annoyance), [chafe](dic://chafe)
+			3.  [irritation](dic://irritation), [annoyance](dic://annoyance), [botheration](dic://botheration)
+			4.  [concern](dic://concern), [worry](dic://worry), [headache](dic://headache)
+			5.  [annoyance](dic://annoyance), [annoying](dic://annoying), [irritation](dic://irritation)
+			6. _n._ [anger](dic://anger), [choler](dic://choler), [ire](dic://ire), [psychological state](dic://psychological state), [mental state](dic://mental state), [negative stimulus](dic://negative stimulus), [mistreatment](dic://mistreatment)
+			7. **indignation**愤怒, 愤慨, 气愤;**anguish**苦闷;**sorrow**悲伤;**affliction**折磨;**annoyance**烦恼;**astonishment**惊讶, 惊奇;**impatience**急躁;**countenance**面容，表情;**malice**怨恨;**displeasure**不快, 不悦, 生气;**irritation**刺激;
+			8. fresh remembrance of vexation must still enkindle rage. /对烦恼的事的清晰记忆一定还会叫人怒不可遏。
+			9. She was crying with vexation and shock. /她正在因烦恼和震惊而哭泣。
+			10. Much to my vexation, I just missed a chance of visiting China. /错过一个访问中国的机会, 真气人。
+			11. He gave the doctor a look of vexation. /他很不高兴地看了医生一眼。
+			12. I gazed at her, looking totally startled by the flutters of anger and vexation in her voice. /我盯着她看，完全被她声音里突然的生气和恼火吓到了。
 	10. evection
-	11. inveigh
+	11. inveigh (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective)
 		1. in-进入，使 + veigh , 携带，运载，词义演变同invective。
 		2. [rail](dic://rail)
 		3.  [declaim](dic://declaim)
@@ -880,14 +885,15 @@
 		8. inveigh against bureaucracy /指责官僚主义
 		9. They inveighed against cruel criminal laws and unsanitary prisons /他们强烈反对残酷的刑法和不卫生的监狱。
 		10. invective
-			1. in-进入，使 + vect-携带，运载，把坏话带进来的，用言语攻击，引申词义诅咒，咒骂。
-			2. n. 恶言漫骂, 臭骂 
-			3. a. 漫骂的, 非难的, 恶言的
-			4. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
-			5. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
-			6.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
-			7. He retorted the invective on her. /他用恶言讽刺还击她。
-			8. a species of invective at once tough and suave. /软硬兼施的一种漫骂。
+			1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective)
+			2. in-进入，使 + vect-携带，运载，把坏话带进来的，用言语攻击，引申词义诅咒，咒骂。
+			3. n. 恶言漫骂, 臭骂 
+			4. a. 漫骂的, 非难的, 恶言的
+			5. **insults**侮辱;**rhetoric**修辞，修辞学;**hyperbole**夸张的语句;**profanity**渎神;**uncivil**不文明的;**slander**诽谤;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**incivility**粗鲁,粗野;**hateful**可恨的;**spew**呕吐;
+			6. [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+			7.  [vituperation](dic://vituperation), [vitriol](dic://vitriol)
+			8. He retorted the invective on her. /他用恶言讽刺还击她。
+			9. a species of invective at once tough and suave. /软硬兼施的一种漫骂。
 3. **vi, via, vey-, voy-**
 	1. convey
 		1. conveyor, conveyer
@@ -1519,13 +1525,14 @@
 			3. _n._ [creation](dic://creation), [expedient](dic://expedient), [performance](dic://performance)
 			4. **improv**即兴;**improvise**临时制作, 临时凑成;**spontaneity**自然性;**jazz**爵士乐，爵士舞;**musicianship**音乐技巧;**solos**独奏;**experimentation**实验;**rehearsal**练习, 排练, 排演;**virtuoso**艺术品鉴赏家;**choreography**舞台舞蹈设计;**musical**音乐的;
 	19. provide, provided
-		1. providence, provident
+		1. providence
 			1. n. 深谋远虑, 天意, 天命n.上帝; 苍天(Providence)
 			2. _n._ [state capital](dic://state capital), [care](dic://care), [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship), [fortune](dic://fortune), [destiny](dic://destiny)
 			3. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness)
 			4. **divine**神圣的;**grace**优雅;**mercy**仁慈，宽容;**merciful**仁慈的;**salvation**拯救;**faithfulness**忠诚,正确,诚实;**omnipotent**全能的;**deliverance**解救;**destiny**命运，定数，天命;**divinity**神;**benevolent**好心肠的;
 			5. improvidence
-			6. providently
+			6. provident /providently
+				1.  (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, provident, )
 			7. providential
 			8. improvident
 				1. _adj._ [prodigal](dic://prodigal), [short](dic://short), [shortsighted](dic://shortsighted), [unforesightful](dic://unforesightful), [myopic](dic://myopic), [thriftless](dic://thriftless), [unforethoughtful](dic://unforethoughtful)
@@ -1599,14 +1606,51 @@
 		1. **cuckold**与…的妻子通奸使其丈夫戴绿帽子;**handjob**手淫;**gangbang**一群男子与一女子的淫乱活动;**nudist**裸体主义的;**masturbate**)进行手淫;**shemale**女人;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**porn**<口>色情文学，色情描写，色情刊物;**masturbation**手淫;**naked**裸体的;**slut**懒妇;
 	30. wise
 	31. wit
+		1. witty
+		2. witting
+			1. unwitting
+				1. _adj._ [unintended](dic://unintended), [uninformed](dic://uninformed)
+				2. _n._ [intended](dic://intended), [witting](dic://witting), [aware](dic://aware), [informed](dic://informed)
+				3. **unsuspecting**无疑心的;**hapless**运气不好的，倒霉的;**unwittingly**不知情地;**would-be**想要成为的,自称自许的,自充的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**accomplice**从犯, 帮凶, 同谋;**well-meaning**善意的;**unintended**非故意的,无意识的;**unwilling**不愿意的;**gullible**易受骗的;**innocent**无罪的;
+		3. witless (fatuous, witless)
+			1. [nitwitted](dic://nitwitted), [senseless](dic://senseless), [soft-witted](dic://soft-witted)
+			2. _adj._ [stupid](dic://stupid)
+			3. _n._ [smart](dic://smart)
+			4. **clueless**无线索的;**ignorant**无知的;**hapless**运气不好的，倒霉的;**idiotic**白痴的;**inane**愚蠢的;**uninformed**信息不足的;**inept**不适当的;**foolish**愚蠢的;**cowardly**怯懦的，懦弱的;**frightened**害怕的;**mindless**不小心的;
+			5. Despite his reputation as a tough guy, he admits that he was ‘scared witless’ when he first arrived in New York. /1. 他承认自己虽号称硬汉，但是刚到纽约时，几乎被吓破了胆。
+			6. Witless bullies and hapless punks do it all the time. /只有无知恶霸和倒霉瘪三总做这种事。
+			7. We obsessively go back over our slips and errors and contrast what did happen with what could so easily have been skirted if we had not been so fatuous and so witless. /我们痴迷地回顾我们的失误和错误， 并将已经发生的事情与如果我们不是那么愚蠢和愚蠢的话很容易被回避的事情进行对比。
+		4. witticism
+		5. witted
+		6. witness
+		7. thick-witted
+		8. soft-witted
+		9. slow-wited
+		10. sharp-witted
+		11. readywitted
+		12. quick-witted
+		13. outwit
+		14. nitwitted
+		15. nitwit
+		16. nimble-witted
+		17. half-witted
+		18. half-wit
+		19. godwit
+		20. fat-witted
+		21. dull-witted
+		22. dimwit
+		23. dim-witted
+		24. bird-witted
+		25. beef-witted
+		26. afterwit
 8. guise
 	1. 印欧语w音，日耳曼人用w表示；罗曼语族（包括后来诺曼征服的人）念起来比较费劲，而且他们的语言里没有w字母，用gu表示这个w音（后期更是简化为g）音。如guard和warden，waranty和guaranty，warrior和guerrilla，guise和wise等。两种形式在不同时期通过不同途径进入英语并保留到现在。
 	2. **pretense**借口;**pretext**托辞;**ostensibly**表面上地;**ruse**诡计;**auspices**支持;**disguise**假装;**behest**命令;**cloak**斗蓬;**semblance**外表;**moniker**名字;**under**低于，少于;
 	3. [semblance](dic://semblance), [gloss](dic://gloss), [color](dic://color), [colour](dic://colour)
 	4. [pretense](dic://pretense), [pretence](dic://pretence), [pretext](dic://pretext)
-10. history
-11. story
-12. wit
+9. history
+10. story
+11. wit
 
 
 ### + \*weidh+
@@ -1726,19 +1770,20 @@
 		2. _n._ [community](dic://community), [jurisdiction](dic://jurisdiction)
 		3. **church**教堂;**diocese**主教管区, 教区;**vicar**教区牧师，教堂牧师;**diocesan**主教管区的;**congregation**人群;**churchyard**墓地,境内;**chapel**小教堂;**bishop**主教;**priest**牧师;**ecclesiastical**基督教会的;**clergy**牧师;
 	6. parochial
-		1. 来自希腊语paroikia , 堂区，教区，来自para- , 在旁，在周围，oikos , 家，屋子，即教区的，引申词义地方观念的。
-		2. _adj._ [parish](dic://parish), [provincial](dic://provincial)
-		3. **schools**学校;**parish**教区;**Catholic**天主教的;**school**学校;**religious**宗教的;**sectarian**宗派的;**diocesan**主教管区的;**ecclesiastical**基督教会的;**secular**世俗的;**nationalistic**民族主义的;**elitist**优秀人材;
+		1. (insular, provincial, private, parochial)
+		2. 来自希腊语paroikia , 堂区，教区，来自para- , 在旁，在周围，oikos , 家，屋子，即教区的，引申词义地方观念的。
+		3. _adj._ [parish](dic://parish), [provincial](dic://provincial)
+		4. **schools**学校;**parish**教区;**Catholic**天主教的;**school**学校;**religious**宗教的;**sectarian**宗派的;**diocesan**主教管区的;**ecclesiastical**基督教会的;**secular**世俗的;**nationalistic**民族主义的;**elitist**优秀人材;
 			1. _[parochial education](dic://parochial%20education)_ 教会教育
 			2. _[parochial outlook](dic://parochial%20outlook)_ 狭隘的眼界
 			3. _[parochial thinking](dic://parochial%20thinking)_ 狭隘观点
 			4. _[Parochial Empiricist](dic://Parochial%20Empiricist)_ 狭隘的经验论者
 			5. _[a parochial School](dic://a%20parochial%20School)_ 教区附设学校
-		4. parochial attitudes /带地方观念的态度
-		5. Officials tend to tilt toward secrecy from a parochial view of their responsibilities. /官吏出于狭隘的责任观念往往倾向于保密。
-		6. Minister, that is a narrow and parochial view. /大臣，这是狭隘局限的看法。
-		7. Success has been anything but parochial. Six of the nine biggest firms sell more abroad than at home. /成功绝不是闭门造车。最大的九家企业中有六家，其产品在国外市场比国内市场更畅销。
-		8. e're still locked in a 17th-century paradigm of parochial national sovereignty. /我们仍然停留在 17 世纪狭隘的国家主权范式中。
+		5. parochial attitudes /带地方观念的态度
+		6. Officials tend to tilt toward secrecy from a parochial view of their responsibilities. /官吏出于狭隘的责任观念往往倾向于保密。
+		7. Minister, that is a narrow and parochial view. /大臣，这是狭隘局限的看法。
+		8. Success has been anything but parochial. Six of the nine biggest firms sell more abroad than at home. /成功绝不是闭门造车。最大的九家企业中有六家，其产品在国外市场比国内市场更畅销。
+		9. e're still locked in a 17th-century paradigm of parochial national sovereignty. /我们仍然停留在 17 世纪狭隘的国家主权范式中。
 2. **vill-** = 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."
 	1. villain
 		2. villa【村庄，农场】 + -ain表人，原指奴隶等地位地下的人，有强烈的贬义
@@ -2376,25 +2421,62 @@
 4. **ile-, ileo-, ili-, ilio-** = ile-, ileo-, 表示“回肠”，ili-, ilio- 表示髂骨。源自拉丁语 ileum (复数ilia) 表示“腹部，肋”
 	1. etc..
 5. **volt-, volv-, volut-** =  roll, turn, 表示“卷，转”。源自拉丁语 volvere "to roll."
-	1. convolute
+	1. **solv-, solu-, solut-** = loosen，松开 (leu-)
+	2. volute (-volve, solve)
+		1. [spiral](dic://spiral)
+		2. [coil](dic://coil), [spiral](dic://spiral), [whorl](dic://whorl), [helix](dic://helix)
+		3. [coiling](dic://coiling), [helical](dic://helical), [spiral](dic://spiral), [spiraling](dic://spiraling), [voluted](dic://voluted), [whorled](dic://whorled), [turbinate](dic://turbinate)
+		4. _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation), [structure](dic://structure), [construction](dic://construction)
+		5. _adj._ [coiled](dic://coiled)
+		6. _n._ [uncoiled](dic://uncoiled), [straight](dic://straight)
+		7. **conical**圆锥形的;**axial**轴的;**cylindrical**圆柱形的;**flange**凸缘;**inlet**插入物;**centrifugal**离心的;**concave**凹的，凹面的;**octagonal**八边形的;**helical**螺旋形的;**annular**环形的，有环纹的;**radial**半径的;
+		8. spoked wheels with outside volute springs /外有锥形弹簧的辐条轮。
+		9. volution
+			1. _n._ [turning](dic://turning), [turn](dic://turn)
+		10. voluted
+	3. volume
+		1. vol-转 + ume → 卷 → 一卷书。
+		2. volume - 古代拉丁文字是书写在纸莎草纸（papyrus）或羊皮纸（parchment, vellum）上，为了阅读方便，就粘连成长幅，卷在卷轴上，阅读时将卷轴打开，读完再卷起。拉丁语动词volvere 'to roll'（卷，绕）即指这种开卷收卷动作，古罗马人称这种可以卷动的书卷为volūmen 'roll ofparchment'，古法语作volum，英语volume即由此而来，它始见于14世纪，原词形亦作volum。后来书的式样变了，但很多纸页订成的厚本书仍称volume，小册子就不叫volume。由于volume所指的是篇幅大、页数多的大部头书，16世纪时又被用以指书的size（篇幅，部头），到17世纪开始泛指各种物体的size，即“量”、“额”、“分量”、“容量”等，而“音量”这一今义则是到19世纪初才出现的。因此，由volume派生出的形容词voluminous便被赋予“篇幅长的”、“大部头的”、“容量大的”等义。  
+		3. 在探究volume的来龙去脉时，我们发现汉语“卷”的字源与其颇为相似。中国古时的书籍是写在帛或纸上，卷起来收藏，因此书籍的数量论卷，一部书可以分成若干卷。英语的volume何尝不是如此呢？如今volume一词通常也指“（一套书的）卷”或“册”。
+		4. [bulk](dic://bulk), [mass](dic://mass)
+		5.  [loudness](dic://loudness), [intensity](dic://intensity)
+		6. _n._ [measure](dic://measure), [quantity](dic://quantity), [amount](dic://amount), [magnitude](dic://magnitude), [product](dic://product), [production](dic://production), [publication](dic://publication)
+		7. **voluminous**卷数多的;**vol**显示磁盘卷标;**volumetric**体积的;**quantity**量，数量;**amount**总计，合计;**frequency**频繁;**output**产量;
+		8. voluble, volubly, volubility
+			1. _adj._ [blathering](dic://blathering), [blithering](dic://blithering), [jabbering](dic://jabbering), [babbling](dic://babbling), [chatty](dic://chatty), [gabby](dic://gabby), [garrulous](dic://garrulous)
+			2. _n._ [taciturn](dic://taciturn)
+			3. **boisterous**热闹的;**chatty**饶舌的;**outspoken**直言的;**exuberant**兴高采烈的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**feisty**活跃的;**opinionated**固执己见的,武断的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lively**活泼的;**impassioned**充满激情的, 热烈的;
+			4. a voluble vine /缠绕性藤
+			5. she was as voluble as her husband was silent 她十分健谈，而她丈夫却沉默寡言。
+			6. He became very voluble and told her everything /他变得滔滔不绝, 把一切都告诉了她。
+		9. volumetric
+	4. convolute
 		1. v. 回旋, 卷绕, 盘旋  a. 旋绕的
 		2. con-共同 + volut-转 + -e
 		3. _v._ [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [twist](dic://twist), [turn](dic://turn), [denote](dic://denote), [refer](dic://refer)
 		4. _adj._ [coiled](dic://coiled)
 		5. _n._ [uncoiled](dic://uncoiled), [straight](dic://straight)
 		6. **distort**扭曲;**complicate**使复杂化;**twisted**扭曲的;**twisting**缠绕;**confuse**使混乱;**simplify**简化;**unravel**解开;**baffle**使…困惑;
-		7. convolve
+		7. convoluted
+			1. (intricate, convoluted, involved, tanglesome, mazy, complex, involute)
+			2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative) 
+			3. _adj._ [coiled](dic://coiled), [complex](dic://complex)
+			4. _n._ [uncoiled](dic://uncoiled), [straight](dic://straight), [simple](dic://simple)
+			5. **complicated**结构复杂的;**confusing**莫名其妙的, 难以理解的;**baffling**令人困惑的;**nonsensical**无意义的;**muddled**混乱的;**illogical**不合逻辑的;**bizarre**奇异的;**intricate**错综复杂的;**disjointed**脱离开的,不连贯的;**tedious**冗长乏味的;**contrived**不自然的;
+			6. the reasoning was convoluted in the extreme. /这一推理让人极为费解。
+			7. convoluted legal language; convoluted reasoning. /繁复的法律用语；错综复杂的推理
+		9. convolve
 			1. v. 卷, 盘旋, 缠绕
 			2. _v._ [flex](dic://flex), [bend](dic://bend), [deform](dic://deform), [twist](dic://twist), [turn](dic://turn)
 			3. **interpolation**窜改;**waveform**波形;**compute**计算;**raster**光栅;**filter**过滤, 过滤器;**recursive**回归的,递归的;**Fourier**傅立叶;
-		9. convolution
+		10. convolution
 			1. n. 回旋, 卷绕, 盘旋
 			2. _n._ [round shape](dic://round shape), [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure), [change of shape](dic://change of shape)
 			3. **interpolation**窜改;**recursive**回归的,递归的;**quadratic**二次的;**parametric**参数的,参量的;**Fourier**傅立叶;**inverse**倒转;**polynomial**多项式;**tensor**张量;**spectral**光谱的;**nonlinear**非线性的;**fractal**不规则碎片形;
 		11. convolvulus
-	3. evolute
+	5. evolute
 		1. _[evolute](dic://evolute)_  n. 渐屈线，发包线; adj. 展开的，反卷的;
-	4. evolve
+	6. evolve
 		1. [germinate](dic://germinate), [develop](dic://develop)
 		2. [develop](dic://develop), [acquire](dic://acquire)
 		3. _v._ [create by mental act](dic://create by mental act), [create mentally](dic://create mentally), [develop](dic://develop), [change](dic://change)
@@ -2409,19 +2491,20 @@
 			5. **evolutionary**进化的;**evolve**发展，进化;**emergence**出现;**evolving**进化的;**creationism**创造宇宙说,特别创造说;**genesis**起源;**evolved**进化了的;**creation**创造，创作;**theory**理论;**origins**起源;**existence**存在;
 		7. evolutive
 			1. _[evolutive](dic://evolutive)_  adj. 发展的；进化的
-	5. involute
-		1. a. 纷乱的, 复杂的, 内卷的  
-		2. n. 渐开线  vi. 内卷, 恢复原状, 消失
-		2. _adj._ [coiled](dic://coiled)
-		3. _n._ [uncoiled](dic://uncoiled), [straight](dic://straight)
-		4. **conical**圆锥形的;**convex**凸面的;**helical**螺旋形的;**cylindrical**圆柱形的;**symmetric**相称性的,均衡的;**concave**凹的，凹面的;**annular**环形的，有环纹的;**spherical**球的;**radially**放射状地;
-		5. his involuted prose /他深邃的散文。
-		6. The moves in chess are not only manifold, but **involute** ./下棋的走法不但多种多样，而且错综复杂。
-		7. involution
+	7. involute
+		1. (intricate, convoluted, involved, tanglesome, mazy, complex, involute)
+		2. a. 纷乱的, 复杂的, 内卷的  
+		3. n. 渐开线  vi. 内卷, 恢复原状, 消失
+		4. _adj._ [coiled](dic://coiled)
+		5. _n._ [uncoiled](dic://uncoiled), [straight](dic://straight)
+		6. **conical**圆锥形的;**convex**凸面的;**helical**螺旋形的;**cylindrical**圆柱形的;**symmetric**相称性的,均衡的;**concave**凹的，凹面的;**annular**环形的，有环纹的;**spherical**球的;**radially**放射状地;
+		7. his involuted prose /他深邃的散文。
+		8. The moves in chess are not only manifold, but **involute** ./下棋的走法不但多种多样，而且错综复杂。
+		9. involution
 			1. _n._ [organic process](dic://organic process), [biological process](dic://biological process), [construction](dic://construction), [grammatical construction](dic://grammatical construction), [expression](dic://expression), [complexity](dic://complexity), [complexness](dic://complexness)
 			2. **algebraic**代数的;**maturation**化脓;**invariant**无变化的,不变的;**differentiation**区别;**transcendental**超凡的;**topological**拓扑的;**singularity**异常,奇怪,奇特;**degeneration**堕落;**polynomial**多项式;**mammary**乳房的;**enlargement**扩大;
 			3. involutory
-	7. involve
+	8. involve
 		1. [affect](dic://affect), [regard](dic://regard)
 		2.  [imply](dic://imply)
 		3.  [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [call for](dic://call for), [demand](dic://demand)
@@ -2436,7 +2519,13 @@
 		5. **entail**必需，使承担;**require**要求;**necessitate**使…成为必要, 需要;**revolve**旋转;**include**包含，包括;**preclude**妨碍;**consist**组成;**usually**通常，经常;**undertake**担任, 承揽;**necessarily**必要地, 必需地;**occur**发生;
 		6. involvement
 		7. involved
-	9. revolute
+			1. (intricate, convoluted, involved, tanglesome, mazy, complex, involute)
+			2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative) 
+			3. [mired](dic://mired)
+			4. _adj._ [active](dic://active), [participating](dic://participating), [concerned](dic://concerned), [interested](dic://interested), [embroiled](dic://embroiled), [entangled](dic://entangled)
+			5. _n._ [uninvolved](dic://uninvolved), [unencumbered](dic://unencumbered), [unattached](dic://unattached), [uncommitted](dic://uncommitted), [simple](dic://simple), [unenclosed](dic://unenclosed)
+			6. **engaged**使用中的，忙碌的;**actively**积极地;**intimately**熟悉地;**interested**感兴趣的;**participating**一起参加的;**participate**参加, 参与;**associated**联合的,关联的;**concerned**担心的, 烦恼的, 忧虑的;**related**讲述的，叙述的;**aware**知道的;**responsible**有责任的;
+	9. revolute (resolute)
 		1. adj. [植] 外卷的；[植] 后旋的; vi. 参加革命;
 		2. revolution
 			1. _n._ [change](dic://change), [alteration](dic://alteration), [modification](dic://modification), [group action](dic://group action), [turning](dic://turning), [turn](dic://turn)
@@ -2457,7 +2546,9 @@
 		6. revolt against authority /反抗当局
 		7. the country was a hotbed of  revolt and dissension. /该国是反叛和冲突的温床。
 	11. revolve
-		1. revolver, revolving
+		1. v. (使)旋转, 反复考虑, 循环出现
+		2. re-再 + volv-转 + -e → 再转一次 → 旋转。
+		3. revolver, revolving
 	12. devolve
 		1. [fall](dic://fall), [return](dic://return), [pass](dic://pass)
 		2. [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate)
@@ -2469,42 +2560,14 @@
 		8. "While Mr White was ill, most of his work devolved on his nephew. /"怀特先生生病期间,他的大部分工作移交给了他的侄子。"
 		9. More powers are gradually being devolved to the regions. /正逐步向地方下放更多的权力。
 		10. devolution
-	13. volute
-		1. [spiral](dic://spiral)
-		2. [coil](dic://coil), [spiral](dic://spiral), [whorl](dic://whorl), [helix](dic://helix)
-		3. [coiling](dic://coiling), [helical](dic://helical), [spiral](dic://spiral), [spiraling](dic://spiraling), [voluted](dic://voluted), [whorled](dic://whorled), [turbinate](dic://turbinate)
-		4. _n._ [decoration](dic://decoration), [ornament](dic://ornament), [ornamentation](dic://ornamentation), [structure](dic://structure), [construction](dic://construction)
-		5. _adj._ [coiled](dic://coiled)
-		6. _n._ [uncoiled](dic://uncoiled), [straight](dic://straight)
-		7. **conical**圆锥形的;**axial**轴的;**cylindrical**圆柱形的;**flange**凸缘;**inlet**插入物;**centrifugal**离心的;**concave**凹的，凹面的;**octagonal**八边形的;**helical**螺旋形的;**annular**环形的，有环纹的;**radial**半径的;
-		8. spoked wheels with outside volute springs /外有锥形弹簧的辐条轮。
-		9. volution
-			1. _n._ [turning](dic://turning), [turn](dic://turn)
-		10. voluted
-	14. volume
-		1. vol-转 + ume → 卷 → 一卷书。
-		2. volume - 古代拉丁文字是书写在纸莎草纸（papyrus）或羊皮纸（parchment, vellum）上，为了阅读方便，就粘连成长幅，卷在卷轴上，阅读时将卷轴打开，读完再卷起。拉丁语动词volvere 'to roll'（卷，绕）即指这种开卷收卷动作，古罗马人称这种可以卷动的书卷为volūmen 'roll ofparchment'，古法语作volum，英语volume即由此而来，它始见于14世纪，原词形亦作volum。后来书的式样变了，但很多纸页订成的厚本书仍称volume，小册子就不叫volume。由于volume所指的是篇幅大、页数多的大部头书，16世纪时又被用以指书的size（篇幅，部头），到17世纪开始泛指各种物体的size，即“量”、“额”、“分量”、“容量”等，而“音量”这一今义则是到19世纪初才出现的。因此，由volume派生出的形容词voluminous便被赋予“篇幅长的”、“大部头的”、“容量大的”等义。  
-		3. 在探究volume的来龙去脉时，我们发现汉语“卷”的字源与其颇为相似。中国古时的书籍是写在帛或纸上，卷起来收藏，因此书籍的数量论卷，一部书可以分成若干卷。英语的volume何尝不是如此呢？如今volume一词通常也指“（一套书的）卷”或“册”。
-		4. [bulk](dic://bulk), [mass](dic://mass)
-		5.  [loudness](dic://loudness), [intensity](dic://intensity)
-		6. _n._ [measure](dic://measure), [quantity](dic://quantity), [amount](dic://amount), [magnitude](dic://magnitude), [product](dic://product), [production](dic://production), [publication](dic://publication)
-		7. **voluminous**卷数多的;**vol**显示磁盘卷标;**volumetric**体积的;**quantity**量，数量;**amount**总计，合计;**frequency**频繁;**output**产量;
-		8. voluble, volubly, volubility
-			1. _adj._ [blathering](dic://blathering), [blithering](dic://blithering), [jabbering](dic://jabbering), [babbling](dic://babbling), [chatty](dic://chatty), [gabby](dic://gabby), [garrulous](dic://garrulous)
-			2. _n._ [taciturn](dic://taciturn)
-			3. **boisterous**热闹的;**chatty**饶舌的;**outspoken**直言的;**exuberant**兴高采烈的;**eloquent**雄辩的，有口才的;**brash**仓促的，性急的;**feisty**活跃的;**opinionated**固执己见的,武断的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lively**活泼的;**impassioned**充满激情的, 热烈的;
-			4. a voluble vine /缠绕性藤
-			5. she was as voluble as her husband was silent 她十分健谈，而她丈夫却沉默寡言。
-			6. He became very voluble and told her everything /他变得滔滔不绝, 把一切都告诉了她。
-		9. volumetric
-	15. advolution
+	13. advolution
 		1. _[advolution](dic://advolution)_  n. 向…生长和发展
-	16. archivolt
-	17. circumvolve
+	14. archivolt
+	15. circumvolve
 		1. _[circumvolve](dic://circumvolve)_  vi. 旋转；盘绕; vt. 使…盘旋而转;
 		2. circumvolution
-	19. bivoltine, hypervolia, multivoltine, trivoltine
-	20. vault
+	16. bivoltine, hypervolia, multivoltine, trivoltine
+	17. vault
 		1. [burial vault](dic://burial vault)
 		2. [bank vault](dic://bank vault)
 		3. [hurdle](dic://hurdle)
@@ -2523,7 +2586,7 @@
 		16. vaulter
 		17. vaulted
 		18. pole-vault
-6. **vulv-, vulvo-** = 表示“外阴”，用于解剖学词汇。源自拉丁语 vulva, volva "covering, womb."
+7. **vulv-, vulvo-** = 表示“外阴”，用于解剖学词汇。源自拉丁语 vulva, volva "covering, womb."
 	1. vulva
 		1. _n._ [female genitalia](dic://female genitalia), [female genitals](dic://female genitals), [female genital organ](dic://female genital organ), [fanny](dic://fanny)
 		2. **vagina**阴道;**anus**肛门;**genitals**生殖器;**vaginal**阴道的;**cervix**子宫颈;**genital**生殖的;**rectum**直肠;**buttocks**臀部;**penis**阳物，阴茎;**uterus**子宫;**pubic**阴部的;
@@ -2532,7 +2595,7 @@
 	4. vulvovaginal
 		1. _[vulvovaginal candidiasis](dic://vulvovaginal%20candidiasis)_  女阴阴道念珠菌病; 外阴阴道念珠菌病;
 	5. vulvovaginitis
-7. vale
+8. vale
 	1. a long depression in the surface of the land that usually contains a river
 		1.  [valley](dic://valley)
 	2. _n._ [natural depression](dic://natural depression), [depression](dic://depression)
@@ -2544,7 +2607,7 @@
 10. wallet
 	1. [billfold](dic://billfold), [notecase](dic://notecase), [pocketbook](dic://pocketbook)
 	2. **purse**钱包，小钱袋;**pocket**口袋;**handbag**手提包;**briefcase**公文包;**backpack**远足用的背包;**debit**记入借方，登入借方;**bag**袋;**pouch**小袋;**suitcase**手提箱;**tote**携带;**cash**现款，现金;
-11. wallow (wobble, hallow, hollow, harrow, )
+11. wallow (wobble) (mallow, hallow, sallow, shallow, hollow)
 	1. 1. vi. 打滚；颠簸；沉迷 n. 打滚；堕落；泥坑
 	2. [welter](dic://welter)
 	3. [billow](dic://billow)
@@ -2558,18 +2621,29 @@
 	11. They may wallow in the mud, but domestic pigs clean up in the intelligence department. /他们可能会沉浸在泥泞中，但家猪在情报部门却很干净。
 1. waltz
 2. welt
-	1.  [wale](dic://wale), [weal](dic://weal), [wheal](dic://wheal)
-	2.  [flog](dic://flog), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
-	3. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [seam](dic://seam)
-	4. _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [add](dic://add)
-	5. **heel**脚后跟;**placket**女裙口袋;**hem**褶边;**waistband**腰带;**stitching**用U字钉钉箱,缝纫;**zipper**拉链;**seam**缝;**suede**绒面革;**toe**脚趾;**insole**鞋内底;**cuffs**袖口;
-3. welter
-	1.  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
-	2.  [wallow](dic://wallow)
-	3. _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder)
-	4. _v._ [roll over](dic://roll over), [move](dic://move)
-	5. **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
-4. whelk
+	1. n. 贴边，[服装]沿条；鞭痕；殴打 
+	2. vt. 加沿条于……；使……留下鞭痕；对……进行殴打
+	3. n. 红肿  
+	4. v. 猛击, 打气凸起的伤痕
+	5.  [wale](dic://wale), [weal](dic://weal), [wheal](dic://wheal)
+	6.  [flog](dic://flog), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap), [trounce](dic://trounce)
+	7. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma), [seam](dic://seam)
+	8. _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [add](dic://add)
+	9. **heel**脚后跟;**placket**女裙口袋;**hem**褶边;**waistband**腰带;**stitching**用U字钉钉箱,缝纫;**zipper**拉链;**seam**缝;**suede**绒面革;**toe**脚趾;**insole**鞋内底;**cuffs**袖口;
+	10.  his lip was beginning to thicken and welt from the blow./他的嘴唇正开始变肿，并显出被打的伤痕。
+	11. amidst this welter of confusing signals, it's difficult to winnow out the truth. /在杂乱无章的信号之中，要辨别真相很困难。
+	12. There were still deep welts on his forearms where the brain's tentacles had wrapped around him. /他的前臂上那些被大脑的触角缠绕过的地方仍有些很深的伤口。
+	13. Chances are, you've had the opportunity to study firsthand the swollen, itchy welt left by a mosquito bite. /很有可能，你会有机会研究有关肿胀的第一手资料——被蚊虫叮咬后留下的痒痕。
+	14. It was scarred, flattened, thickened, checkered, and welted. /它伤痕累累， 扁平化，变厚，方格和贴边。
+	15. 
+4. welter
+	1. (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother)
+	2.  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
+	3.  [wallow](dic://wallow)
+	4. _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder)
+	5. _v._ [roll over](dic://roll over), [move](dic://move)
+	6. **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
+6. whelk
 #### + \*wel- (4) +
 1. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
 	1. villus
@@ -2725,20 +2799,22 @@
 		4. Syphilis was the most feared of **venereal** diseases
 		5. Aids and some **venereal** diseases, which are called century fatal diseases, are now doing serious harm to international community.
 		6. Yours, I understand, is the lamentable consequence of venery
-	5. venial (piddling, facile, )
-		1. a. 可原谅的, 可宽恕的, 轻微的
-		2. - 来自拉丁语 venus,美丽，爱慕，渴求，词源同 Venus.引申词义纵容的，可原谅的。
-		3.  [minor](dic://minor)
-		4. [excusable](dic://excusable), [forgivable](dic://forgivable)
-		5. _adj._ [pardonable](dic://pardonable)
-		6. _n._ [unpardonable](dic://unpardonable)
-		7. **sin**过失;**sins**罪恶;**sinful**有罪的;**sinner**罪人;**mortal**致命的;**cardinal**红衣主教;**sinners**罪人;**transgression**犯罪;**habitual**惯常的;**pernicious**很有害的;**carnal**肉体的;
-		8. forgivable, remissible, venial
-		9. mortal sin, venial sin, misdemeanor, felony, probation 
+	5. venial
+		1. (piddling, facile, )
+		2. (venal, venereal, venerate, vertebrate, vernal, venial, veneer,)
+		3. a. 可原谅的, 可宽恕的, 轻微的
+		4. - 来自拉丁语 venus,美丽，爱慕，渴求，词源同 Venus.引申词义纵容的，可原谅的。
+		5.  [minor](dic://minor)
+		6. [excusable](dic://excusable), [forgivable](dic://forgivable)
+		7. _adj._ [pardonable](dic://pardonable)
+		8. _n._ [unpardonable](dic://unpardonable)
+		9. **sin**过失;**sins**罪恶;**sinful**有罪的;**sinner**罪人;**mortal**致命的;**cardinal**红衣主教;**sinners**罪人;**transgression**犯罪;**habitual**惯常的;**pernicious**很有害的;**carnal**肉体的;
+		10. forgivable, remissible, venial
+		11. mortal sin, venial sin, misdemeanor, felony, probation 
 			1. burglary, trespass, disorderly 
-		10. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
-		11. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
-	6. venison
+		12. The Constitution defines an impeachable offense as treason, bribery or other high crimes and misdemeanors
+		13. More than 30 other defendants have pleaded guilty though mostly to misdemeanor charges.
+	7. venison
 3. Venus
 4. wean
 	1. _v._ [deprive](dic://deprive), [estrange](dic://estrange), [alienate](dic://alienate), [alien](dic://alien), [disaffect](dic://disaffect)
@@ -4662,10 +4738,11 @@
 		16. vendue
 			1. n. 公开拍卖, 拍卖
 	2. venal
-		1. 1 - 来自拉丁语 venum,出售，词源同 vendor.引申词义见利忘义，卖友求荣等。
-		2. **self-serving**自私的,自私自利的;**corrupt**腐败的，贪污的;**despicable**可鄙的,卑鄙的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**greedy**贪婪的;**cynical**愤世嫉俗的;**depraved**堕落的;**crass**粗鲁的;**sleazy**质地薄的;**dishonest**不诚实的;**vile**卑鄙的;
-		3. venally
-		4. venality
+		1. (venial, veneer, venal)
+		2. 1 - 来自拉丁语 venum,出售，词源同 vendor.引申词义见利忘义，卖友求荣等。
+		3. **self-serving**自私的,自私自利的;**corrupt**腐败的，贪污的;**despicable**可鄙的,卑鄙的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**greedy**贪婪的;**cynical**愤世嫉俗的;**depraved**堕落的;**crass**粗鲁的;**sleazy**质地薄的;**dishonest**不诚实的;**vile**卑鄙的;
+		4. venally
+		5. venality
 4. **vil-** = base, 表示“卑劣”, 原指低价买卖，和表示“卖”的词根 vend- 同源。源自拉丁语 venum "sale."
 	1. revile
 		1. re-再 + vil-卑劣 + -e → 一再[使别人感到]卑劣 → 辱骂[别人]。
@@ -4684,19 +4761,20 @@
 		4. **discredit**败坏…的名声;**criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**accuse**控告，指控;**criticise**批评;**humiliate**蒙羞;**glorify**赞美;**intimidate**恐吓, 威胁;**harass**使烦恼;**undermine**在某物下挖洞或挖通道;
 		5. vilifier
 		6. vilification
-	6. vilipend
-		1. vt. 轻视, 诋毁
-		2. vili-卑劣 + pend-称重
-		3. vilipend ['vɪlə,pend] vt. 诋毁；轻视。词根vil表cheap，本意是出售，-pend部分表示称量、估价，与pound英镑、ponderous沉闷的；笨重的（很量）和expensive昂贵的（需要花费很多两银子）等单词有关。因此vilipend的字面意思就是“to hold in light value ”，比较vilify v.诽谤；轻视，-fy表使动。
-		4. [deprecate](dic://deprecate), [depreciate](dic://depreciate)
-		5. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+	5. vilipend
+		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
+		2. vt. 轻视, 诋毁
+		3. vili-卑劣 + pend-称重
+		4. vilipend ['vɪlə,pend] vt. 诋毁；轻视。词根vil表cheap，本意是出售，-pend部分表示称量、估价，与pound英镑、ponderous沉闷的；笨重的（很量）和expensive昂贵的（需要花费很多两银子）等单词有关。因此vilipend的字面意思就是“to hold in light value ”，比较vilify v.诽谤；轻视，-fy表使动。
+		5. [deprecate](dic://deprecate), [depreciate](dic://depreciate)
+		6. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
 5. bazaar
 	1.  [bazar](dic://bazar)
 	2. _n._ [shop](dic://shop), [store](dic://store), [marketplace](dic://marketplace), [mart](dic://mart), [sale](dic://sale), [cut-rate sale](dic://cut-rate sale), [sales event](dic://sales event)
 	3. **wares**商品;**mall**购物商场;**flea**跳蚤;**stalls**正厅前排座位;**marketplace**市场;**shop**商店;**shops**商店;**bustling**忙乱的;**barter**进行易货贸易;**plaza**广场;**consignment**托付货物;
 #### + \*wes- (4) + = to clothe
 1. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
-	1. vest (endow, confer, bestow, )
+	1. vest (endow, confer, bestow, vest, grant, deign, impart, sanction)
 		1. n. 背心, 汗背心  
 		2. vt. 使穿衣服, 授予  vi. 穿衣服, 归属
 		3. [waistcoat](dic://waistcoat)
@@ -4711,22 +4789,24 @@
 		12. _close to the vest_ 做事小心谨慎
 		13. _bullet-proof vest_ 防弹背心，防弹衣
 		14. vesture
-			1.  [clothing](dic://clothing), [article of clothing](dic://article of clothing), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
-			2. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [consumer goods](dic://consumer goods)
-			3. _v._ [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [garb](dic://garb), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment)
-			4. **garments**服装，衣着;**garment**衣服，服装;**tunic**束腰外衣;**countenance**面容，表情;**robe**长袍，礼服;**doth**从事;**clothing**服装;**liturgical**礼拜仪式的;
-			5. _[Nanjing vesture](dic://Nanjing%20vesture)_ 天鹅绒
-			6. _[frock overall vesture](dic://frock%20overall%20vesture)_ 罩袍
-			7. a vesture of verdure 一片翠绿
-			8. hills in a vesture of mist. 笼罩在雾中的山峦
-		15. vestment, vestlike, devest
-		16. vested
-		17. vestee
+			1. n. 衣服, 衣裳, 覆盖物  
+			2. vt. 给穿衣服
+			3.  [clothing](dic://clothing), [article of clothing](dic://article of clothing), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
+			4. _n._ [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [consumer goods](dic://consumer goods)
+			5. _v._ [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [garb](dic://garb), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment)
+			6. **garments**服装，衣着;**garment**衣服，服装;**tunic**束腰外衣;**countenance**面容，表情;**robe**长袍，礼服;**doth**从事;**clothing**服装;**liturgical**礼拜仪式的;
+			7. _[Nanjing vesture](dic://Nanjing%20vesture)_ 天鹅绒
+			8. _[frock overall vesture](dic://frock%20overall%20vesture)_ 罩袍
+			9. a vesture of verdure 一片翠绿
+			10. hills in a vesture of mist. 笼罩在雾中的山峦
+		16. vestment, vestlike, devest
+		17. vested
+		18. vestee
 			1. n. V形装饰片, 背心式胸衣
-		18. vestry
+		19. vestry
 			1. n. 法衣圣器储藏室, 祈祷室, 教区委员会
 			2. vestryman
-		19. undervest
+		20. undervest
 	2. revest
 		1. _[revest](dic://revest)_  vt. 再赋予（权力，职权等）；重新投资; n. (Revest)人名；(法)勒韦;
 	3. transvest
@@ -4734,7 +4814,7 @@
 		2. transevstite
 		3. transvestist
 		4. transvestism
-	4. divest 
+	4. divest
 		1. di-去掉 + vest-衣服 → 去掉衣服 → 脱去。
 		2. [deprive](dic://deprive), [strip](dic://strip)
 		3. [disinvest](dic://disinvest)
@@ -4818,27 +4898,28 @@
 	7. weary
 		1. adj. 疲劳的，疲倦的；使人疲劳的，令人厌烦的；厌倦的，厌烦的 
 		2. v. （使）疲倦，（使）厌烦；<苏格兰>忧伤，烦恼
-		3.  [tire](dic://tire), [wear upon](dic://wear upon), [tire out](dic://tire out), [wear](dic://wear), [jade](dic://jade), [wear out](dic://wear out), [outwear](dic://outwear), [wear down](dic://wear down), [fag out](dic://fag out), [fag](dic://fag), [fatigue](dic://fatigue)
-		4. [tire](dic://tire), [pall](dic://pall), [fatigue](dic://fatigue), [jade](dic://jade)
-		5. [aweary](dic://aweary)
-		6. _v._ [indispose](dic://indispose), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate)
-		7. _adj._ [tired](dic://tired)
-		8. _n._ [rested](dic://rested)
-		9. [weary](dic://weary) 侧重指由于连续不断进行某项活动而造成的疲劳，以致感到厌烦。  
-		10. [tired](dic://tired) 普通用词，泛指因工作紧张，劳动过度，休息不足等而引起的疲乏。
-		11. **tired**疲倦的;**fatigued**疲乏的;**restless**焦躁不安的;**jaded**厌倦的;**aching**疼痛的;**exhausted**耗尽的,用完的;**disillusioned**不再抱幻想的, 大失所望的;**feeble**微弱的，无力的;**lonely**寂寞的;**anxious**渴望的;**burdened**负荷的;
-		12. _weary of_ 疲倦；厌烦于
-		13. _weary with_ 因…而厌烦
-		14. weary of delays. /对推迟感到不耐烦
-		15. a weary wait /令人心焦的等待
-		16. cheat the weary night /消磨长夜
-		17. she was weary of their constant arguments. /她对他们频繁的争论不胜其烦。
-		18. the weary journey began again /令人疲乏的旅程又开始了。
-		19. I felt weary after work. /我下班后感到疲乏。
-		20. Young people weary of countless restrictions and fetters. /年轻人对各种清规戒律感到厌烦。
-		21. " I grow weary of contradiction, " said Phineas Nigellus. /“我懒得反驳你，”菲尼亚斯·奈杰尔说。
-		22. Age shall not weary them, nor the years condemn. /岁月和时间将不会给他们留下痕迹。
-		23. And the debate about standards has left the schools weary. /学校之间已经厌倦了关于教学水准的争论。
+		3. (exhausted, fatigue, weariness, pall, pale, jaded, weary, fag out)
+		4.  [tire](dic://tire), [wear upon](dic://wear upon), [tire out](dic://tire out), [wear](dic://wear), [jade](dic://jade), [wear out](dic://wear out), [outwear](dic://outwear), [wear down](dic://wear down), [fag out](dic://fag out), [fag](dic://fag), [fatigue](dic://fatigue)
+		5. [tire](dic://tire), [pall](dic://pall), [fatigue](dic://fatigue), [jade](dic://jade)
+		6. [aweary](dic://aweary)
+		7. _v._ [indispose](dic://indispose), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate)
+		8. _adj._ [tired](dic://tired)
+		9. _n._ [rested](dic://rested)
+		10. [weary](dic://weary) 侧重指由于连续不断进行某项活动而造成的疲劳，以致感到厌烦。  
+		11. [tired](dic://tired) 普通用词，泛指因工作紧张，劳动过度，休息不足等而引起的疲乏。
+		12. **tired**疲倦的;**fatigued**疲乏的;**restless**焦躁不安的;**jaded**厌倦的;**aching**疼痛的;**exhausted**耗尽的,用完的;**disillusioned**不再抱幻想的, 大失所望的;**feeble**微弱的，无力的;**lonely**寂寞的;**anxious**渴望的;**burdened**负荷的;
+		13. _weary of_ 疲倦；厌烦于
+		14. _weary with_ 因…而厌烦
+		15. weary of delays. /对推迟感到不耐烦
+		16. a weary wait /令人心焦的等待
+		17. cheat the weary night /消磨长夜
+		18. she was weary of their constant arguments. /她对他们频繁的争论不胜其烦。
+		19. the weary journey began again /令人疲乏的旅程又开始了。
+		20. I felt weary after work. /我下班后感到疲乏。
+		21. Young people weary of countless restrictions and fetters. /年轻人对各种清规戒律感到厌烦。
+		22. " I grow weary of contradiction, " said Phineas Nigellus. /“我懒得反驳你，”菲尼亚斯·奈杰尔说。
+		23. Age shall not weary them, nor the years condemn. /岁月和时间将不会给他们留下痕迹。
+		24. And the debate about standards has left the schools weary. /学校之间已经厌倦了关于教学水准的争论。
 		25. world-weary
 		26. world-weariness
 		27. wearisome
@@ -4878,19 +4959,20 @@
 1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
 	1. primavera
 		1. _n._ 白桃花心木(中美洲出产的一种树木或其木材)
-	2. vernal (venal, venereal, venerate, vertebrate, )
-		1.  [youthful](dic://youthful), [young](dic://young) (estival)
-		2. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
-		3. [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
-		4. [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
-		5. vernally
-		6. vernalize, vernalization
-		7. _vernal equinox_ n. 春分；春分点（约在3月20日
-		8. the vernal freshness of the land. /土地的春天清新气息。
-		9. The linnet chirps her vernal song /红雀吱喳鸣叫着她春天的歌。
-	3. primeverin
-	4. primeverose
-	5. vernamycin
+	2. vernal (venal, venereal, venerate, vertebrate, vernal, venial, veneer,)
+		1. (vernal, estival, autumnal, brumal/hibernal/wintry)
+		2.  [youthful](dic://youthful), [young](dic://young)
+		3. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
+		4. [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
+		5. [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
+		6. vernally
+		7. vernalize, vernalization
+		8. _vernal equinox_ n. 春分；春分点（约在3月20日
+		9. the vernal freshness of the land. /土地的春天清新气息。
+		10. The linnet chirps her vernal song /红雀吱喳鸣叫着她春天的歌。
+	4. primeverin
+	5. primeverose
+	6. vernamycin
 
 
 ### + \*wet- + 

@@ -101,11 +101,41 @@
 	1. aeronaut, aquanaut, astronaut, cosmonaut, hydronaut, lunarnaut
 		1. cosmonautics
 		2. hydronautics 
-	2. nausea, nauseous
-	4. nautical
-	5. nautiform
-	6. nautilus
-	7. nautophone
+	2. nausea
+		1. n. 反胃, 晕船, 恶心, 厌恶
+		2. nausea（恶心）：海上航行时的晕船现象  
+		3. 古代人和现代人一样，在海上航行时也会发生晕船恶心现象。英语单词nausea的本意就是表示这种晕船恶心现象。它来自希腊语nausia，其中词根naus-表示“航行”，后缀-ia表示“病症”。进入拉丁语后，nausia的拼写变为nausea。不过在现代英语中，nausea并不局限于表示“晕船”，通常仅仅表示“恶心”。  
+			1. nausea： [ˈnɔ:ziə] n.恶心，晕船，极度的憎恶  
+			2. nauseate：['nɔzɪet] vi. 作呕；厌恶；产生恶感vt. 使厌恶；使恶心；使作呕  
+			3. nauseous：['nɔʃəs] adj. 令人作呕的；厌恶的  
+			4. nauseant：['nɔsɪənt] adj. 引起呕吐的n. 呕吐剂
+		4.  [sickness](dic://sickness)
+		5. _n._ [symptom](dic://symptom), [disgust](dic://disgust)
+		6. **dizziness**头昏眼花;**vomiting**呕吐;**heartburn**心痛,妒忌;**constipation**便秘;**diarrhea**腹泻，痢疾;**headache**头痛;**cramps**肌肉抽筋;**tiredness**疲劳;**migraine**偏头痛;**numbness**麻木;**cramping**图象压缩，夹压;
+		7. nauseous 
+			1. [nauseating](dic://nauseating), [noisome](dic://noisome), [queasy](dic://queasy), [loathsome](dic://loathsome), [offensive](dic://offensive), [sickening](dic://sickening), [vile](dic://vile)
+			2.  [nauseated](dic://nauseated), [queasy](dic://queasy), [sick](dic://sick), [sickish](dic://sickish)
+			3. _adj._ [unwholesome](dic://unwholesome), [ill](dic://ill), [sick](dic://sick)
+			4. _n._ [wholesome](dic://wholesome), [well](dic://well)
+			5. **dizzy**晕眩的;**nausea**恶心，晕船;**vomiting**呕吐;**vomit**吐出;**puke**吐剂;**sick**病人;**fatigued**疲乏的;**feeling**感觉，触觉;**tired**疲倦的;**icky**讨厌的;**uncomfortable**不舒服的;
+			6. The food is nauseous to the taste. /这种食品有种令人作呕的味道。
+			7. Yeah, it's not unusual to feel nauseous post run /是的，跑完步之后感到恶心是很正常的。
+	3. nautical (nocturnal, naughty, nautical)
+		1. naut-海 + -ical表形容词 → 航海的。
+		2.  来自拉丁语 naus,船，词源同 navigate,navy.引申词义航行的，航海的。
+		3. [maritime](dic://maritime), [marine](dic://marine)
+		4. _adj._ [navigation](dic://navigation)
+		5. **maritime**海的;**sailor**水手，海员;**naval**海军的;**sailboat**帆船;**sailing**航行，航海;**knots**结;**navy**海军;**sea**海洋;**marine**海生的;**oceanic**海洋的;
+		6. _nautical mile_ n. 海里（合1.852公里）
+		7. _nautical chart_ 海图；航海图
+		8. _nautical almanac_ n. 航海天文历，航海历
+		9. The frigate's interior accommodations complemented its nautical virtues. /战舰内部的装备完全合乎这次航海任务的要求。
+		10. There were nautical portraits on the walls. /墙上挂着航海图。
+		11. Is it distance in space, nautical speed, audio frequency or water depth? /是空间距离、航海速度、音频还是水深?
+		12. 
+	4. nautiform
+	5. nautilus
+	6. nautophone
 2. **nav-** = ship, 「Latin」navis, "ship"
 	1. navaid (navigational aid)
 	2. naval
@@ -197,11 +227,16 @@
 		2. negative
 		3. negation
 	3. negatron
-	4. neglect, negligence, negligent, negligible, negligee
-	5. negotiate
+	4. neglect
+	5. negligence
+	6. negligent
+	7. negligible (nebulous, negligible, numinous)
+		1. (immaterial, inconsequential, trifling, trivial, negligible, marginal,)
+	8. negligee
+	9. negotiate
 		1. negotiant, negotiable, negotiability
 		2. negotiation, negotiation
-	6. renege
+	10. renege
 		1. [revoke](dic://revoke)
 		2. [renege on](dic://renege on), [renegue on](dic://renegue on), [go back on](dic://go back on)
 		3. _n._ [mistake](dic://mistake), [error](dic://error), [fault](dic://fault)
@@ -224,7 +259,7 @@
 			10. a renegade bodyguard /背叛的保镖。
 			11. The renegade is the first cousin to a rattlesnake. /叛徒象响尾蛇一样地毒狠。
 			12. And this is why the greatest designers are almost always the biggest dreamers and rebels and renegades. /而这就是为什么最伟大的设计师总是最大的梦想家、叛逆者和革新者
-	7. nebbish
+	11. nebbish
 		1. - 来自希伯来依地语 nebekh,可怜的家伙，来自 ne-,没有，bekh,份额，引申词义穷鬼，胆小鬼。
 		2. 1. (Yiddish) a timid unfortunate simpleton
 		3. _n._ [simpleton](dic://simpleton), [simple](dic://simple)
@@ -233,14 +268,14 @@
 		6. necessity, necessitate, necessitation, 
 		7. necessitous
 		8. necessitarian
-	8. nefarious
+	12. nefarious
 		1. ne-否认 + far-说 + -ious表形容词
 		2. _adj._ [wicked](dic://wicked)
 		3. _n._ [virtuous](dic://virtuous)
 		4. **devious**弯曲的;**sinister**阴险的;**malevolent**有恶意的;**villainous**邪恶的;**insidious**隐伏的;**murderous**蓄意谋杀的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**malicious**恶意的, 恶毒的;**scheming**惯耍阴谋的，诡计多端的;**thwart**反对;**evil**邪恶的;
 		5. Lucinda is uncorrupted by nefarious influences /露辛达未受邪恶影响而堕落。
-	9. nescience, nescient
-	10. deny
+	13. nescience, nescient
+	14. deny
 		1. denial, deniable
 4. **nihil-** = nothing, 表示“无，不存在”。源自拉丁语 nihil "nil."
 	1. annihilate
@@ -290,7 +325,7 @@
 		2. nebulization
 	3. nebulose, nebulosity
 		1. [cloudy](dic://cloudy), [nebulous](dic://nebulous)
-	4. nebulous
+	4. nebulous (nebulous, negligible, numinous)
 		1. [cloudy](dic://cloudy), [nebulose](dic://nebulose)
 		2. [nebular](dic://nebular)
 		3. [unfixed](dic://unfixed)
@@ -768,21 +803,22 @@
 	1. numen
 		1. 1. a spirit believed to inhabit an object or preside over a place (especially in ancient Roman religion) /n. 守护神；精灵；天才
 		2. **deity**神;**goddess**女神，受崇拜的女性;**divinity**神;**divine**神圣的;**god**神;
-	3. numinous
-		1. numin-说、点头示意 + -ous形容词后缀 → 神说的话 → 超自然的。
-		2. 来自拉丁语 numen,神性，神的意志。引申词义神圣的。
-		3. 1. _adj._ 神圣的，神秘的;超自然的 令人敬畏而又向往的
-		4. **transcendent**卓越的;**mystical**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**otherworldly**非现实世界的;**transcendental**超凡的;**ethereal**天上的;**mystic**神秘的;**mysticism**神秘主义;**mythic**神话的;**divine**神圣的;**supernatural**超自然的;
-		5. [sacred](dic://sacred), [numen](dic://numen)
-		6. [profane](dic://profane)
-		7. _[numinous summits](dic://numinous%20summits)_ 光辉的顶点
-		8. _[numinous discretion](dic://numinous%20discretion)_ 至上裁量
-		9. _[the numinous](dic://the%20numinous)_ 庄严的事物; 神秘者;
-		10. the strange, numinous beauty of this ancient landmark /这片古老的遗址神奇的美。
-		11. They led me to a **numinous** place that day /那天他们领着我去了一个神秘的地方。
-		12. The coolness of the merely beautiful, however, can be supercharged by the sublime or even the **numinous**. /然而仅仅美丽之酷就可能被升华甚或神圣超常地激发。
-	4. nutant
-	5. nutate
+	3. numinous (nebulous, negligible, numinous)
+		1. (numinous, occult)
+		2. numin-说、点头示意 + -ous形容词后缀 → 神说的话 → 超自然的。
+		3. 来自拉丁语 numen,神性，神的意志。引申词义神圣的。
+		4. 1. _adj._ 神圣的，神秘的;超自然的 令人敬畏而又向往的
+		5. **transcendent**卓越的;**mystical**神秘的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**otherworldly**非现实世界的;**transcendental**超凡的;**ethereal**天上的;**mystic**神秘的;**mysticism**神秘主义;**mythic**神话的;**divine**神圣的;**supernatural**超自然的;
+		6. [sacred](dic://sacred), [numen](dic://numen)
+		7. [profane](dic://profane)
+		8. _[numinous summits](dic://numinous%20summits)_ 光辉的顶点
+		9. _[numinous discretion](dic://numinous%20discretion)_ 至上裁量
+		10. _[the numinous](dic://the%20numinous)_ 庄严的事物; 神秘者;
+		11. the strange, numinous beauty of this ancient landmark /这片古老的遗址神奇的美。
+		12. They led me to a **numinous** place that day /那天他们领着我去了一个神秘的地方。
+		13. The coolness of the merely beautiful, however, can be supercharged by the sublime or even the **numinous**. /然而仅仅美丽之酷就可能被升华甚或神圣超常地激发。
+	5. nutant
+	6. nutate
 		1. rock, sway, or nod; usually involuntarily
 		3. [rock](dic://rock), [sway](dic://sway), [shake](dic://shake)
 		4. vi. vi. （无意识地）摆动或点头；（天文学）章动
@@ -820,14 +856,21 @@
 		2. **convent**女修道院;**seminary**神学院;**monastic**僧侣;**monastery**修道院;**Jesuits**耶稣会;**nun**修女，尼姑;**Franciscan**圣方济各会的;**Jesuit**耶稣会信徒;**vocation**职业;**Benedictine**圣本笃修会修士;**abbot**男修道院院长;
 	8. novocaine
 	9. renovate
-		1. **remodel**改变;**demolish**毁坏;**modernize**现代化;**revitalize**使恢复元气,使具有新的活力;**rebuild**重建;**rehabilitate**使恢复;**revamp**修补;**dilapidated**破旧的;**refurbishment**翻新，整修，再装修;**remodeling**重新塑造;**build**建筑;
-		2. [regenerate](dic://regenerate), [renew](dic://renew), [stimulate](dic://stimulate), [arouse](dic://arouse), [brace](dic://brace), [energize](dic://energize), [energise](dic://energise)
-		3.  [animate](dic://animate), [recreate](dic://recreate), [reanimate](dic://reanimate), [revive](dic://revive), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
-		4. [refurbish](dic://refurbish), [freshen up](dic://freshen up)
-		5. [restitute](dic://restitute)
-		7. renovator
-		8. renovation
-	10. nouveau
+		1. vt. 更新, 革新, 刷新, 修复, 使恢复活力
+		2. renovate - 一般的英语辞书都收录了两个novel。一个是形容词，意思是“新的”、“新颖的”、“新奇的”，它源自拉丁语novus（新的）的指小形式novellus，是15世纪取道古法语进入英语的。另一个是名词，指“（长篇）小说”，它来自意大利语novella，而novella又源于拉丁语novellus，其终极词源也是拉丁语novus，16世纪出现在英语时，特指意大利作家薄伽丘（Glovanni Boccaccio, 1313-1375）的作品《十日谈》（Decameron）一类的散文故事或中短篇小说，但到了17世纪中期转指“（长篇）小说”。在18世纪的英格兰，小说成了最受欢迎的文学形式。20世纪初期英语再次——但却原形不变地——吸收了意大利语novella，用以指“中篇小说”，以别于novel。
+		3. **remodel**改变;**demolish**毁坏;**modernize**现代化;**revitalize**使恢复元气,使具有新的活力;**rebuild**重建;**rehabilitate**使恢复;**revamp**修补;**dilapidated**破旧的;**refurbishment**翻新，整修，再装修;**remodeling**重新塑造;**build**建筑;
+		4. [regenerate](dic://regenerate), [renew](dic://renew), [stimulate](dic://stimulate), [arouse](dic://arouse), [brace](dic://brace), [energize](dic://energize), [energise](dic://energise)
+		5.  [animate](dic://animate), [recreate](dic://recreate), [reanimate](dic://reanimate), [revive](dic://revive), [repair](dic://repair), [quicken](dic://quicken), [vivify](dic://vivify), [revivify](dic://revivify)
+		6. [refurbish](dic://refurbish), [freshen up](dic://freshen up) redecorate, remodling,
+		7. [restitute](dic://restitute)
+		8. a little warm nourishment renovated him for a short time. /一点热食使他短暂地恢复了活力。
+		9. the builder I've hired to renovate my new domicile /我雇来装修新家的建筑工人。
+		10. the old school has been tastefully renovated as a private house. /旧学校已经被修复成一所雅致的私人住宅。
+		11. Now we have renovated our old bathroom, my husband has taken to having a shower every morning. /因为我们已整修翻新了我们的旧浴室, 我丈夫已习惯于每天早晨淋浴。
+		12. Inflation means the cost of renovating and maintaining homes is rising. /通货膨胀导致翻新和维护房屋的成本不断上升。
+		13. renovator
+		14. renovation
+	11. nouveau
 3. new
 
 

@@ -397,7 +397,7 @@
 		2. ex-出 + ig-做 + -u- + -ity
 		3.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
 		4. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**minuscule**小写字;**feeble**微弱的，无力的;**diminutive**小的;**comparatively**对比地;**scarcely**简直没有;**prodigious**巨大的;**precarious**依靠机会的;**insignificant**无价值的, 无意义的, 无用的;
-		5. exiguous
+		5. exiguous (tenuous)
 			1. a. 稀少的, 细微的, 细小的
 	15. intransigence
 		1. in-没有 + trans-穿过 + ig-做 + -ence, 表名词
@@ -685,21 +685,24 @@
 		3. **facade**正面;**building**建筑;**structure**结构;**crumbling**皱纹;**monument**纪念碑;**basilica**长方形会堂;**facades**外立面;**citadel**城堡;**monumental**纪念碑的;**colossal**巨大的;**masonry**石工行业
 		4. the concepts on which the edifice of capitalism was built. /为资本主义大厦奠定基础的一些观念。
 	3. edify
-		1. [enlighten](dic://enlighten)
-		2. _v._ [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
-		3. **enlighten**启发;**glorify**赞美;**amuse**使发笑;**inspire**鼓舞;**enrich**使肥沃;**entertain**娱乐;**encourage**鼓励, 激励;**educate**教育;**nourish**滋养;**instruct**命令;**motivate**刺激;
-		4. "I persuaded her," he said, with an edifying air of superiority. /“我说服了她，”他说，带着一种令人陶醉的优越感。
-		5. You are giving thanks well enough, but no one else is edified. /你感谢的固然是好，无奈不能造就别人。
-		6. He was unsparing but also generous, lyrical, edifying as a conscience. /他不留情面，但同时内容丰富，感情丰满，像良知一样启迪人心。
-	4. estival
-		1. est-燃烧 + -iv + -al表形容词
-		2. estival [iː'staɪvəl] adj.夏季的。拉丁词源，意思是“of the hot season”，词根本意是燃烧（因夏天温度高），与日耳曼词源的ash灰烬等同源，再如estivate ['iːstɪveɪt] vi.夏眠。来，我们在estival的词首加个f，它就成了festival ['festɪv(ə)l] n.节日；庆祝；欢乐，adj.节日的；快乐的。 ​​​​
-		3. _dj._ [summery](dic://summery)
-		4. _n._ [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery), [vernal](dic://vernal)
-		5. **festival**节日;**extravaganza**娱乐表演;**carnival**狂欢节，嘉年华会;**solstice**至;
-		6. estivate
+		1. vt. 启迪, 熏陶, 教诲
+		2. 1 - 来自 PIE*aidh,燃烧，词源同 ash,ether.原指火炉，引申词义居住地，大厦。-fy,使。即建造大厦，树立起榜样。
+		3. [enlighten](dic://enlighten)
+		4. _v._ [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
+		5. **enlighten**启发;**glorify**赞美;**amuse**使发笑;**inspire**鼓舞;**enrich**使肥沃;**entertain**娱乐;**encourage**鼓励, 激励;**educate**教育;**nourish**滋养;**instruct**命令;**motivate**刺激;
+		6. "I persuaded her," he said, with an edifying air of superiority. /“我说服了她，”他说，带着一种令人陶醉的优越感。
+		7. You are giving thanks well enough, but no one else is edified. /你感谢的固然是好，无奈不能造就别人。
+		8. He was unsparing but also generous, lyrical, edifying as a conscience. /他不留情面，但同时内容丰富，感情丰满，像良知一样启迪人心。
+	5. estival
+		1.  (vernal, estival, autumnal, brumal/hibernal/wintry)
+		2. est-燃烧 + -iv + -al表形容词
+		3. estival [iː'staɪvəl] adj.夏季的。拉丁词源，意思是“of the hot season”，词根本意是燃烧（因夏天温度高），与日耳曼词源的ash灰烬等同源，再如estivate ['iːstɪveɪt] vi.夏眠。来，我们在estival的词首加个f，它就成了festival ['festɪv(ə)l] n.节日；庆祝；欢乐，adj.节日的；快乐的。 ​​​​
+		4. _dj._ [summery](dic://summery)
+		5. _n._ [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery), [vernal](dic://vernal)
+		6. **festival**节日;**extravaganza**娱乐表演;**carnival**狂欢节，嘉年华会;**solstice**至;
+		7. estivate
 			1. How is estivate just healthy /怎样过夏天才是健康？
-		7. estivation
+		8. estivation
 	6. estuary
 		1. _n._ [body of water](dic://body of water), [water](dic://water)
 		2. **river**河，江;**waterway**水路;**lagoon**泻湖;**harbour**藏匿;**wetland**湿地;**coastal**海岸的;**shoreline**海〔湖〕滨线;**wetlands**沼泽地;**tidal**潮的，有关潮水的;**marsh**湿地;**coastline**海岸线;
@@ -714,7 +717,7 @@
 	2. _v._ [toughen](dic://toughen)
 	3. **weld**焊接;**etch**蚀刻;**soldering**软焊;**solder**焊接;**nitride**氮化物;**primers**引子;**etching**蚀刻术;**recombination**再结合;**welding**焊接的;**crimp**卷发;**elongation**延伸;
 	4. The main rason of leading to overhigh hydrogen content was insufficient annealafter forged /导致氢含量过高的原因可能在于锻后退火不足。
-3. ember
+3. ember (amber)
 	1. [coal](dic://coal)
 	2. _n._ [fragment](dic://fragment)
 	3. **flame**火焰;**ash**灰;**fire**火;**hearth**炉床;**burning**燃烧的;**ashes**骨灰，灰烬;**glow**发热;**burn**燃烧;**ignite**点燃;**bonfire**营火;**fireball**火球;
@@ -2603,33 +2606,36 @@
 		4. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
 		5. **awning**雨篷;**acronym**首字母缩略词;**chairs**安乐椅;**tarp**油布;**under**低于，少于;**canopy**天篷;**blanket**毛毯，毯子;
 	6. somber
-		1. 1. _adj._ 昏暗的；阴沉的
-		2.  忧郁的；闷闷不乐的 严峻的
-		3. (颜色等)暗淡的，灰暗的；朴实无华的
-		4. [sombre](dic://sombre), [melancholy](dic://melancholy)
-		5. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
-		6. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
-		7. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
-		8. _[somber yellow](dic://somber%20yellow)_ 苍黄
-		9. _[droll somber](dic://droll%20somber)_ 好笑的
-		10. the somber atmosphere /阴沉忧郁的气氛
-		11. That was a somber January day. /那是一个阴沉的正月天。
-		12. Dumbledore came in, looking very somber. /邓布利多走了进来，神情十分凝重。
-		13. sombre
+		1. 源自拉丁语 subumbrare "to shadow," 词根分解：sub-下 + umbr-阴影。
+		2. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule)
+		3. 1. _adj._ 昏暗的；阴沉的
+		4.  忧郁的；闷闷不乐的 严峻的
+		5. (颜色等)暗淡的，灰暗的；朴实无华的
+		6. [sombre](dic://sombre), [melancholy](dic://melancholy)
+		7. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
+		8. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
+		9. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
+		10. _[somber yellow](dic://somber%20yellow)_ 苍黄
+		11. _[droll somber](dic://droll%20somber)_ 好笑的
+		12. the somber atmosphere /阴沉忧郁的气氛
+		13. That was a somber January day. /那是一个阴沉的正月天。
+		14. Dumbledore came in, looking very somber. /邓布利多走了进来，神情十分凝重。
+		15. sombre
 	8. sombrero
 		1. _n._ [island](dic://island), [hat](dic://hat), [chapeau](dic://chapeau), [lid](dic://lid)
 		2. **hat**帽子;**cactus**仙人掌;**mustache**胡子，髭;**burrito**玉米煎饼;**taco**墨西哥煎玉米卷;**cowboy**牧童;**tacos**炸玉米饼;**tequila**龙舌兰酒;**moustache**小胡子;**Mexican**墨西哥的;**scarf**围巾;
 		3. _[Red Sombrero](dic://Red%20Sombrero)_ 红色阔边帽
 	9. umbel
-		1. **petals**花瓣;**flower**花;**orchid**兰花;**blooms**水华;**shrub**灌木;**flowering**开花的;**whitish**带白色的;**petal**花瓣;**taxon**分类单元;
-		2. umbellar
-		3. umbellate
-		4. umbellifer
-		5. umbelliferose
-		6. uymbelliferous
-		7. umbellula
-		8. umbellule
-		9. umbrette
+		1. n. 伞状花序
+		2. **petals**花瓣;**flower**花;**orchid**兰花;**blooms**水华;**shrub**灌木;**flowering**开花的;**whitish**带白色的;**petal**花瓣;**taxon**分类单元;
+		3. umbellar
+		4. umbellate
+		5. umbellifer
+		6. umbelliferose
+		7. uymbelliferous
+		8. umbellula
+		9. umbellule
+		10. umbrette
 
 
 

@@ -80,7 +80,7 @@ As a discipline, computer science spans a range of topics from theoretical studi
 	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
 2. What is computing? (Computability & Complexity) /What computation can be automated?
 	1. ↗ [Theory of Computation](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
-		1. ↗ [Computability Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory/Computability%20Theory.md)
+		1. ↗ [Computability Theory & Turing Machine](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Computability%20Theory%20&%20Turing%20Machine.md)
 		2. ↗ [Computational Complexity Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 		3. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 3. what is a computer and how is it designed & constructed? (hardware, software, protocols)

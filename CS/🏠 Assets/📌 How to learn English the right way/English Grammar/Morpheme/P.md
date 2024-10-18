@@ -1250,13 +1250,14 @@
 	5. parapedesis
 2. **pair-, pejor-** = worse, 表示“使更糟”。源自拉丁语 peior "worse." 字母 d 在拉丁语中脱落，-i- 在进入英语后音变为 -j-, -or, 比较级后缀。
 	1. pejorative
-		1. 1 - 来自拉丁语 peior,更坏的，来自 PIE*ped,脚，词源同 foot,impair,impeach.字母 d 脱落，拉丁语i 在英语里音变为 j,-or,比较级后缀。词义由其基本义脚引申为向下，低等，低到尘埃，卑贱，最后引申词义贬损的，轻蔑的。
-		2.   adj. 轻蔑的，贬损的；恶化的，变坏的; n. 轻蔑语，贬义词;
-		3. **derogatory**不敬的;**connotation**内涵;**disparaging**轻蔑的;**slur**诽谤;**colloquial**口语的, 会话的;**epithet**词语;**slang**俚语;**neologism**新词;**adjective**形容词;**term**学期;**condescending**降低身份的,屈尊的;
-		4. _adj._ [uncomplimentary](dic://uncomplimentary)
-		5. _[pejorative and inaccurate](dic://pejorative%20and%20inaccurate)_ 带贬义且不够准确
-		6. _[English proverb pejorative proverb](dic://English%20proverb%20pejorative%20proverb)_ 褒义谚语; 英语的谚语;
-		7. _[pejorative suffix](dic://pejorative%20suffix)_ 轻蔑词尾
+		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize)
+		2. 1 - 来自拉丁语 peior,更坏的，来自 PIE*ped,脚，词源同 foot,impair,impeach.字母 d 脱落，拉丁语i 在英语里音变为 j,-or,比较级后缀。词义由其基本义脚引申为向下，低等，低到尘埃，卑贱，最后引申词义贬损的，轻蔑的。
+		3.   adj. 轻蔑的，贬损的；恶化的，变坏的; n. 轻蔑语，贬义词;
+		4. **derogatory**不敬的;**connotation**内涵;**disparaging**轻蔑的;**slur**诽谤;**colloquial**口语的, 会话的;**epithet**词语;**slang**俚语;**neologism**新词;**adjective**形容词;**term**学期;**condescending**降低身份的,屈尊的;
+		5. _adj._ [uncomplimentary](dic://uncomplimentary)
+		6. _[pejorative and inaccurate](dic://pejorative%20and%20inaccurate)_ 带贬义且不够准确
+		7. _[English proverb pejorative proverb](dic://English%20proverb%20pejorative%20proverb)_ 褒义谚语; 英语的谚语;
+		8. _[pejorative suffix](dic://pejorative%20suffix)_ 轻蔑词尾
 	3. pejoration
 		1. _[pejoration](dic://pejoration)_  n. 恶化；堕落；语义的转贬
 	4. impair
@@ -2831,6 +2832,7 @@
 			7. Pope Benedict XVI bestowed the final Sunday blessing of his pontificate in St. Peter's Square. /教皇本笃十六世在圣彼得广场为教皇宝座送上了最后的祝福。
 			8. Some are on-staff at your local newspaper, usually reviewing little-theater productions or pontificating about the local sports teams /有些在你们当地报纸供职，通常写些小制作的剧评，或是对当地球队指手画脚或是大加吹捧。
 			9. Without rebuttal, it's not debate, it's just pontificating /没有反驳，就不是辩论， 只是自以为是。
+			10. Politicians like to **pontificate** about falling standards.
 	1. pontine
 		1. etc..
 	2. pontlevis
@@ -2929,80 +2931,82 @@
 	5. perchance
 	6. percolate
 	7. percuss
-		1. repercussive, 
-		2. percussor, percussion, 
+		1. vt. 叩诊, 轻敲
+		2. repercussive, 
+		3. percussor, percussion, 
 			1. repercussion
-	8. perdure, peregrine
-		1. perdurable
-		2. peregrination, peregrinate
-	9. peremptory, peremptorily
-	10. perennial
-	11. perfect
+	9. perdure
+		1.  perdurable
+	10. peregrine
+		1. peregrination, peregrinate
+	11. peremptory, peremptorily
+	12. perennial
+	13. perfect
 		1. perfective, perfection
-	12. perforate
+	14. perforate
 		1. perforative, perforation
 		2. perforce
 		3. perform
-	13. perfume, perfuse
+	15. perfume, perfuse
 		1. perfusive, perfusion
-	14. perhaps
-	15. perish
+	16. perhaps
+	17. perish
 		1. perisher, perishable, 
 		2. imperishability
-	16. permanent
-	17. permeate, permeant, permeance, permeable
+	18. permanent
+	19. permeate, permeant, permeance, permeable
 		1. permeation
-	18. permit, permissive, permissible
+	20. permit, permissive, permissible
 		1. permittee, permission
-	19. permute, permutation
-	20. pernicious
-	21. pernoctation
-	22. perorate
-	23. peroxide
-	24. perpend,
+	21. permute, permutation
+	22. pernicious
+	23. pernoctation
+	24. perorate
+	25. peroxide
+	26. perpend,
 		1. perpendicular
-	25. perpetrate
+	27. perpetrate
 		1. perpetrator,
 		2. perpetration
-	26. perpetual, 
+	28. perpetual, 
 		1. _adj._ [permanent](dic://permanent), [lasting](dic://lasting), [continuous](dic://continuous), [uninterrupted](dic://uninterrupted), [continual](dic://continual)
 		2. _n._ [impermanent](dic://impermanent), [temporary](dic://temporary), [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous), [sporadic](dic://sporadic)
 		3. **continual**不间断的, 不停的;**unending**不断的，无止境的;**never-ending**不停的,无限的;**constant**不变的;**eternal**永恒的;**incessant**不停的, 持续不断的;**continuous**连续的;**everlasting**永恒的;**ever-present**经常存在的;**endless**无止境的;**eternally**永恒地;
 		4. 
 		5. perpetuation, perpetrator
 		6. perpetuity
-	27. perpetuate
+	29. perpetuate
 		1. **subvert**推翻;**propagate**繁殖;**promote**促进;**undermine**在某物下挖洞或挖通道;**reinforce**增强;**counteract**对抗;**exacerbate**使恶化;**glorify**赞美;**dispel**驱散，驱逐;**preserve**保存;**diminish**使减少;
 		2. _v._ [continue](dic://continue), [uphold](dic://uphold), [carry on](dic://carry on), [bear on](dic://bear on), [preserve](dic://preserve)
 		3. 
-	28. perplex
+	30. perplex
 		1. perplexity, 
 		2. perplexed, perplexing
-	29. perquisite, 
+	31. perquisite, 
 		1. perquisition
-	30. persecute
+	32. persecute
 		1. persecutor, persecution
 		2. persecutee
-	31. persevere, 
+	33. persevere, 
 		1. perseveration, perseverant, perseverance
-	32. persist
+	34. persist
 		1. persistor, persister
 		2. persistent, persistency, persistence
-	33. person
+	35. person
 		1. personage, personate, personhood
 			1. impersonate
 		2. personification
 		3. layperson
 		4. intrapersonal
-	34. perspex, 
+	36. perspex, 
 		1. perspective
 		2. perspicacious, perspicacity
 		3. perspicuity, perspicuous
-	35. perspire
+	37. perspire
 		1. perspiration, perspiratory
-	36. persuade, 
+	38. persuade, 
 		1. persuasion, persuasive, 
-	37. pertain
+	39. pertain
 		1. pertinacious, pertinacity
 		2. pertinent, pertinency, pertinence
 		3. impertinent
@@ -3012,25 +3016,27 @@
 			4. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
 			5. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
 			6. 
-	38. perturb
-		1. perturbative
-		2. perturbation, imperturbation
-	39. peruse
-		1. 1 - per-,完全的，use,使用。比喻用法。
-		2. reperuse
-		3. peruser, perusal
-	41. pervade
+	40. perturb
+		1. vt. 扰乱, 使混乱, 使心绪不宁
+		2. perturbative
+		3. perturbation, imperturbation
+	42. peruse
+		1. vt. 熟读, 精读, 阅读, 仔细研究
+		2. 1 - per-,完全的，use,使用。比喻用法。
+		3. reperuse
+		4. peruser, perusal
+	43. pervade
 		1. 1 - per-,穿过，通过，-vad,走，词源同 wade,invade.引申词义渗透，弥漫。
 		2. pervasive, pervasion
 		3. pervious, impervious
-	43. afford
-	44. appurtenance
+	44. afford
+	45. appurtenance
 		1. appurtenant
-	45. forth
+	46. forth
 		1. thenceforth, henceforth, forthwith, forthright, forthcoming
-	46. paramour
-	47. parboil
-	48. parvenu
+	47. paramour
+	48. parboil
+	49. parvenu
 		1.  [upstart](dic://upstart), [nouveau-riche](dic://nouveau-riche), [arriviste](dic://arriviste)
 		2. [nouveau-riche](dic://nouveau-riche), [parvenue](dic://parvenue), [upstart(a)](dic://upstart(a))
 		3. _：_ [parvenue](dic://parvenue)
@@ -3038,19 +3044,32 @@
 		5. _adj._ [pretentious](dic://pretentious), [new](dic://new)
 		6. _n._ [unpretentious](dic://unpretentious), [old](dic://old)
 		7. **aristocratic**贵族的;**bourgeois**资产阶级的;**aristocracy**贵族;**bourgeoisie**资产阶级;**pompous**浮夸的;**nobility**贵族;**elitist**优秀人材;**nobleman**贵族;**pretentious**自命不凡的;**snob**势利小人，势利眼;**socialite**社会名流;
-	49. pellucid
-		1.  [crystalline](dic://crystalline), [crystal clear](dic://crystal clear), [limpid](dic://limpid), [lucid](dic://lucid), [transparent](dic://transparent)
-		2.  [limpid](dic://limpid), [lucid](dic://lucid), [luculent](dic://luculent), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
-		3. _adj._ [clear](dic://clear)
-		4. _n._ [opaque](dic://opaque), [unclear](dic://unclear)
-		5. **crystalline**水晶的;**silvery**似银的，银色的;**translucent**半透明的;**glistening**闪耀的,反光的;**luminous**发光的;**lucid**易懂的;**sparkling**闪闪发光的;**opaque**不透明的;**eloquent**雄辩的，有口才的;**iridescent**彩虹色的;**velvety**天鹅绒般柔软的;
-	50. percent
-	51. peroral
+	50. pellucid
+		1. a. 透明的, 澄清的, 明了的
+		2. pel-=per-整个的 + luc-光 + id，引申词义透明的，清晰的。
+		3.  来自拉丁语 pellucere,透过，光线穿过，来自 pel-,整个的，来自 per-在字母 l 开头词根前的异化，lucere,照耀，光照，词源同 light,translucent.引申词义透明的，清晰的。
+		4.  [crystalline](dic://crystalline), [crystal clear](dic://crystal clear), [limpid](dic://limpid), [lucid](dic://lucid), [transparent](dic://transparent)
+		5.  [limpid](dic://limpid), [lucid](dic://lucid), [luculent](dic://luculent), [crystal clear](dic://crystal clear), [perspicuous](dic://perspicuous)
+		6. _adj._ [clear](dic://clear)
+		7. _n._ [opaque](dic://opaque), [unclear](dic://unclear)
+		8. **crystalline**水晶的;**silvery**似银的，银色的;**translucent**半透明的;**glistening**闪耀的,反光的;**luminous**发光的;**lucid**易懂的;**sparkling**闪闪发光的;**opaque**不透明的;**eloquent**雄辩的，有口才的;**iridescent**彩虹色的;**velvety**天鹅绒般柔软的;
+		9. Down their sides flowed numberless waterfalls, which went on their way in brawling but pellucid streams. /无数的瀑布从它们的两侧流淌而下，在湍急但清澈的溪流中流淌。
+		10. It was to this part that a swimmer would naturally go, for it formed a beautiful pellucid green pool as clear as crystal. /游泳者自然会到这里， 因为它形成了一个美丽的透明绿色池塘， 晶莹剔透。
+		11. Depositing his unemptied glass he went out and walked up and down the street. Here was a rude flounce into the pellucid sentimentality of his sad attachment to Sue /他放下没喝完的杯子，出门在街上走来走去。这是对他对苏的悲伤依恋的明显多愁善感的粗鲁抨击。
+		12. If this sounds like a definition that's familiar to you, if you've been studying some GRE vocabulary words already, it may be because the words lucid and pellucid also basically mean the same thing /如果这听起来像是您熟悉的定义，如果您已经学习了一些 GRE 词汇，可能是因为“lucid” 和“pellucid” 这两个词基本上也表示相同的意思。
+	51. percent
+	52. peroral
 		1. _[peroral](dic://peroral)_  adj. 口周围的；经过口的
-	52. persiflage
-		1. **silliness**愚蠢;**satire**讽刺;**nonsense**谬论;**parody**拙劣的模仿;**farce**笑剧,闹剧,滑稽戏;**light-hearted**轻松的;**banter**戏谑;**drivel**淌口水,说傻话;**sarcasm**讽刺;**irony**讽刺;**vulgar**粗俗的;
-	53. pertussis, parapertussis
-	54. prandial
+	53. persiflage (tutelage)
+		1. (raillery, give-and-take, backchat, persiflage)
+		2. n. 戏弄, 插科打诨, 嘲弄, 挖苦
+		3.  来自法语 persifler,打趣，逗笑，来自 per-,整个的，siffler,发嘶嘶声，来自拉丁语 sibilare,发嘶嘶声，拟声词，词源同 sibilate.
+		4. _n._ [banter](dic://banter), [raillery](dic://raillery), [give-and-take](dic://give-and-take), [backchat](dic://backchat)
+		5. **silliness**愚蠢;**satire**讽刺;**nonsense**谬论;**parody**拙劣的模仿;**farce**笑剧,闹剧,滑稽戏;**light-hearted**轻松的;**banter**戏谑;**drivel**淌口水,说傻话;**sarcasm**讽刺;**irony**讽刺;**vulgar**粗俗的;
+		6. The **persiflage** is not appropriate when we are discussing such serious problems. /当我们在讨论如此严肃的问题的时候，这种戏谑的言辞是不恰当的。
+		7. Even if such, I return clear feel there individual bring my warmth with love, after all is I am dreaming or live in the **persiflage**. /即便如此，我还分明的能感觉到那个人带给我的温暖和爱，到底是我在做梦还是生活在戏弄？
+	55. pertussis, parapertussis
+	56. prandial
 		1. preprandial, anteprandial
 		2. postprandial
 2. **peri-**
@@ -3075,18 +3094,19 @@
 	7. periodontics, periodontal
 	8. periostitis
 	9. peripatetic
-		1. 1 - 来自希腊语 peripatein,走动，讲学，授课，来自 peri-,在周围，-pat,走动，词源同 path,foot.该词原用于形容古希腊哲学家亚里士多德给弟子讲课时，喜欢边走边讲，后引申词义巡回工作的，流动的等。
-		2. _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
-		3. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
-		4. _n._ [settled](dic://settled)
-		5. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
-	10. peripheral, periphery, 
-	11. periphrase, periphrastic
-	12. periscope, periscopical, periscopic
-	13. peristalsis
-	14. perishable, imperishable
-	15. peristaltic
-	16. periventricular
+		1. （peripatetic, peregrinate, itinerant ）
+		2. 1 - 来自希腊语 peripatein,走动，讲学，授课，来自 peri-,在周围，-pat,走动，词源同 path,foot.该词原用于形容古希腊哲学家亚里士多德给弟子讲课时，喜欢边走边讲，后引申词义巡回工作的，流动的等。
+		3. _n._ [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
+		4. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
+		5. _n._ [settled](dic://settled)
+		6. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
+	11. peripheral, periphery, 
+	12. periphrase, periphrastic
+	13. periscope, periscopical, periscopic
+	14. peristalsis
+	15. perishable, imperishable
+	16. peristaltic
+	17. periventricular
 3. **periss-**
 4. **presby- = old**
 	1. presbyope, presbyopic, presbyopia
@@ -4099,25 +4119,31 @@
 			12. For the bite force, probably comparable to a great white shark. /它的咬合力，应该可以媲美大白鲨。
 			13. Its economy is comparable to other European economies. /它的经济与其他欧洲经济体相当。
 	2. disparage (asperse, dissipate)
-		1. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
-		2. _n._ [flatter](dic://flatter), [blandish](dic://blandish)
-		3. **criticize**评论, 批评;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**offend**冒犯;**accuse**控告，指控;**embarrass**使窘迫;**ridicule**嘲笑;**despise**轻视，鄙视;**insult**侮辱;**intimidate**恐吓, 威胁;**denounce**谴责;
-		4. disparaging
-		5. disparagement
-	3. disparate (asperse, dissipate) (dissimilar, disparate, heterogeneous, )
-		1. _n._ [difference](dic://difference), [deviation](dic://deviation), [divergence](dic://divergence), [departure](dic://departure), discrepancy, distinction, discrimination, disparity, asymmetry,
-		2. _adj._ [different](dic://different), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
-		3. _n._ [same](dic://same), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
-		4. **dissimilar**不同的;**diverse**不同的;**heterogeneous**由很多种类组成的;**myriad**无数的;**interrelated**相互关联的;**contradictory**矛盾的;**conflicting**相冲突的;**disjointed**脱离开的,不连贯的;**various**各种各样的;**different**不同的, 差异的;**unrelated**无关的, 不相关的;
-		5. _disparate treatment_ 差别性对待
-		6. disparate regions had begun to knit together under the king /四分五裂的地区开始在国王的领导下团结起来。
-		7. a poise between disparate and contradictory emotions. See also Synonyms at proportion ,remainder imbalance /根本对立，相互矛盾的感情之间的平衡 参见同义词 proportion ,remainder imbalance
-		8. a melting pot of disparate rhythms and cultures. /融合殊异节奏和文化的熔炉。
-		9. Other threads knit the writer's disparate subjects into a coherent oeuvre /其他线索将作者不同的主题编织成连贯的作品
-		10. Because there were, like, a lot of disparate groups /因为有很多不同的团体。
-		11. And we can reduce the disparity in policing by changing exams that produce disparate outcomes. /通过改变产生迥异结果的体能考试， 我们可减少警察中男女不公平差异。
-	4. nonpareil
-	5. par
+		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
+		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule)
+		3. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		4. _n._ [flatter](dic://flatter), [blandish](dic://blandish)
+		5. **criticize**评论, 批评;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**offend**冒犯;**accuse**控告，指控;**embarrass**使窘迫;**ridicule**嘲笑;**despise**轻视，鄙视;**insult**侮辱;**intimidate**恐吓, 威胁;**denounce**谴责;
+		6. Some critics disparage psychoanalysis as being a pseudoscience. /一些批评家轻蔑地把精神分析学看作是伪科学。
+		7. The prevalent view in China disparages the humanities /国内流行的观点是轻视人文社科。
+		8. Some disparage the prime minister's obsessive city management as befitting a mere mayor. /一些人贬损总理太过痴迷于城市管理，认为他只适合做一个市长。
+		9. disparaging
+		10. disparagement
+	4. disparate (asperse, dissipate) 
+		1. (dissimilar, disparate, heterogeneous, )
+		2. _n._ [difference](dic://difference), [deviation](dic://deviation), [divergence](dic://divergence), [departure](dic://departure), discrepancy, distinction, discrimination, disparity, asymmetry,
+		3. _adj._ [different](dic://different), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
+		4. _n._ [same](dic://same), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
+		5. **dissimilar**不同的;**diverse**不同的;**heterogeneous**由很多种类组成的;**myriad**无数的;**interrelated**相互关联的;**contradictory**矛盾的;**conflicting**相冲突的;**disjointed**脱离开的,不连贯的;**various**各种各样的;**different**不同的, 差异的;**unrelated**无关的, 不相关的;
+		6. _disparate treatment_ 差别性对待
+		7. disparate regions had begun to knit together under the king /四分五裂的地区开始在国王的领导下团结起来。
+		8. a poise between disparate and contradictory emotions. See also Synonyms at proportion ,remainder imbalance /根本对立，相互矛盾的感情之间的平衡 参见同义词 proportion ,remainder imbalance
+		9. a melting pot of disparate rhythms and cultures. /融合殊异节奏和文化的熔炉。
+		10. Other threads knit the writer's disparate subjects into a coherent oeuvre /其他线索将作者不同的主题编织成连贯的作品
+		11. Because there were, like, a lot of disparate groups /因为有很多不同的团体。
+		12. And we can reduce the disparity in policing by changing exams that produce disparate outcomes. /通过改变产生迥异结果的体能考试， 我们可减少警察中男女不公平差异。
+	5. nonpareil
+	6. par
 		1. n. 标准, 票面价值, 平均数量, 同等水平  
 		2. a. 票面的, 平常的, 标准的, 平价的
 		3. 1 - 来自拉丁语 par,相等的，匹配的，可能来自 PIE*pere,分配，分割，切分，词源同 part,pair.  
@@ -4152,7 +4178,7 @@
 		32. That's on par with the impact household recycling can have globally. /这相当于全球家庭回收所产生的影响。
 		33. But it is also par for the course. /但也在意料之中。
 		34. supar
-	19. pardon
+	7. pardon
 		1. [forgiveness](dic://forgiveness)
 		2. [amnesty](dic://amnesty)
 		3. [amnesty](dic://amnesty), [free pardon](dic://free pardon)
@@ -4170,7 +4196,7 @@
 		11. _beg one's pardon_ 请某人再说一遍
 		12. pardoner
 		13. pardonable
-	29. parity
+	8. parity
 		1. n. 同等, 同位, 平价, 奇偶性; 胎次; 分娩
 		2. [para](dic://para)
 		3. [parity bit](dic://parity bit), [check bit](dic://check bit)
@@ -4188,11 +4214,11 @@
 			2. _n._ [inequality](dic://inequality)
 			3. **discrepancy**差异, 不符合;**inequality**不平等,不均等,不等量;**gap**缺口;**difference**差异;**imbalance**不平衡;**mismatch**使配错;**unequal**不平等的;**disproportionate**不成比例的;**socioeconomic**社会经济的;**inconsistency**矛盾;**heterogeneity**异质性;
 			4. _regional disparity_ 地区差异
-	31. pair
+	9. pair
 		1.  来自拉丁语 par,对等，双，对，词源同 part,peer.
 		2. mispair
 		3. unpaired
-	32. peer
+	10. peer
 		1. 1.来自拉丁语par , 对等，等同，引申词义同辈。2.贵族来自小说家模仿英国Arthur王传说中的圆桌骑士改编的八世纪法国君主Charlemagne大帝的十二骑士（TwelvePeers）的传奇故事。3.仔细看，可能缩写自appear。
 		2. [equal](dic://equal), [match](dic://match), [compeer](dic://compeer)
 		3. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [Lord](dic://Lord)
@@ -4203,13 +4229,13 @@
 		8. _peer pressure_ 来自同辈的压力
 		9. _peer group_ 同辈群体；同龄群体
 		10. _peer at_ 凝视
-	33. umpire
+	11. umpire
 		1. n. 裁判员, 仲裁人  
 		2. vt. 对...进行仲裁, 当...的裁判  
 		3. vi. 当裁判
 		4. um- = non- 非 pir- = per- 相等，引申词义第三者，裁判，参照testament , 第三人，见证，证据。
 		5. umpire - 该词一般指“公断人”、“仲裁人”，在法律上指“裁定人”（即仲裁人之间意见不一致时参加公断的第三者），在体育上则指“裁判员”，只限用于羽毛球、棒球、板球、乒乓球、网球及排球等比赛中。14世纪源于古法语nomper (non 'not' + per 'equal, peer')，原字面义是third person（第三者），在中古英语中原拼作noumpere，到15世纪时首字母n脱离了noumpere，转附到前面的不定冠词上，a noumpere变成an oumpere，最后又演变为an umpire。类似现象也发生于另外几个英语单词，如apron（围裙），adder（蝰蛇），auger（螺旋钻）等原先词首都有个字母n。（参见apron）
-	34. vampire
+	12. vampire
 		1. 来自匈牙利语vampir , 吸血鬼，吸血蝙蝠。参照电影《惊情四百年》，其发生地德古拉城堡即位于原匈牙利。
 		2. vampire（吸血鬼）：东欧民间传说中的吸血鬼  
 		3. 英语单词vampire（吸血鬼）来自东欧塞尔维亚语。关于古代欧洲吸血鬼的第一手资料，能在位于巴尔干半岛的塞尔维亚王国寻得——实际上，吸血鬼的传说也正是从巴尔干半岛出现并扩散到全世界的。公元14世纪，欧洲暴发了大规模的瘟疫，瘟疫传染极快并且危害极大，当时在欧洲造成了恐慌。有些得了瘟疫的人并没有真的死去，但其亲友便将其草草掩埋，以至于后来某些坟墓被打开时，人们发现里面的尸体呈现着各种古怪姿势，并且还染有鲜血，这当然是因为被误埋的活人挣扎所致，但是当时的人们因为过于害怕便产生了奇异的联想，于是吸血鬼的说法从贫穷落后的东欧传到整个欧洲。  
@@ -5162,23 +5188,24 @@
 			2. _One more impudicity_ 放肆一把
 			3. _impudicity presumption run wild wanton_ 放肆
 			4. _shameless impudicity cheeky blushless blatant_ 无耻的
-	6. repudiate (capitulate)
-		1. 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
-		2. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
-		3. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
-		4. _[totally repudiate](dic://totally%20repudiate)_  完全否定; 全盘否定; 
-		5. _[repudiate contract](dic://repudiate%20contract)_  [法] 否认合同有效
-		6. _[repudiate espouse](dic://repudiate%20espouse)_ 批判
-		7. _[repudiate debts](dic://repudiate%20debts)_ 赖帐
-		8. to repudiate a charge of murder /否认谋杀案的指控
-		9. They also repudiated any emotions and effects that anybody may have had towards the nonhuman. /他们也否定了任何人类可能对非人类产生的情感和感情。
-		10. The protesters called for the Catholic Church to repudiate centuries-old decrees that were used to justify the seizure of Native lands. /抗议者呼吁天主教会推翻数百年前的一些法令，这些法令曾被用来为没收原住民土地辩护。
-		11. He utterly repudiated the narrow construction of our national charter /他完全否定了我们国家宪章的狭隘结构。
-		12. repudiator
-		13. repudiation
+	6. repudiate (capitulate, recapitulate)
+		1. (scant, spurn, repudiate, )
+		2. 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
+		3. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
+		4. [reject](dic://reject), [refuse](dic://refuse), [decline](dic://decline), [deny](dic://deny)
+		5. _[totally repudiate](dic://totally%20repudiate)_  完全否定; 全盘否定; 
+		6. _[repudiate contract](dic://repudiate%20contract)_  [法] 否认合同有效
+		7. _[repudiate espouse](dic://repudiate%20espouse)_ 批判
+		8. _[repudiate debts](dic://repudiate%20debts)_ 赖帐
+		9. to repudiate a charge of murder /否认谋杀案的指控
+		10. They also repudiated any emotions and effects that anybody may have had towards the nonhuman. /他们也否定了任何人类可能对非人类产生的情感和感情。
+		11. The protesters called for the Catholic Church to repudiate centuries-old decrees that were used to justify the seizure of Native lands. /抗议者呼吁天主教会推翻数百年前的一些法令，这些法令曾被用来为没收原住民土地辩护。
+		12. He utterly repudiated the narrow construction of our national charter /他完全否定了我们国家宪章的狭隘结构。
+		13. repudiator
+		14. repudiation
 			1. _n._ [rejection](dic://rejection), [refusal](dic://refusal), [exposure](dic://exposure)
 			2. **condemnation**谴责;**rejection**拒绝;**abandonment**放弃;**acknowledgment**承认;**affirmation**肯定;**defiance**蔑视;**betrayal**背叛;**declaration**宣布, 宣告, 声明;**denial**否认;**denounce**谴责;**unequivocal**只有一种含意的;
-		14. nonrepudiation
+		15. nonrepudiation
 			1. _[nonrepudiation](dic://nonrepudiation)_  n. 认可；不可抵赖性；非否认性
 
 
