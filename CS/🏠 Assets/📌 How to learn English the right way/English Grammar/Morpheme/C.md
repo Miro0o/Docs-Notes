@@ -959,31 +959,33 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	8. Caught shoplifting, the culprit stuttered a few transparent lies. /当逛商店行窃被抓住时，那个罪犯结结巴巴地说了几个显而易见的谎话
 	9. They are the culprits and the problem. They are reckless criminal /“他们才是罪魁祸首和问题所在。他们就是鲁莽的罪犯。”
 	10. Protein could also be the culprit. /蛋白质也可能是凶手之一。
-3. disculpate, exculpate (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
-	1. - vt. 开脱……的罪责
-	2. _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge)
-	3. **discredit**败坏…的名声;**blame**责备;**accuse**控告，指控;**guilt**内疚;**complicity**合谋, 串通;**scapegoat**替罪的羔羊;**prosecute**检举、告发某人;**wrongdoing**坏事;**accomplice**从犯, 帮凶, 同谋;**condemn**判刑，定罪;**punish**严厉对待;
-	4. the article exculpated the mayor. /那篇文章为市长开脱罪责。
-	5. 'Margaret! I am going to consult Mr. Lennox as to the chance of exculpating myself, so that I may return to England whenever I choose, more for your sake than for the sake of any one else. /'玛格丽特！我打算和伦诺克斯先生商量开脱罪责的机会，这样我就可以随时返回英国，更多的是为了你，而不是为了其他任何人。
-	6. But there is a troubling subtext: the author’s attempts to **exculpate** himself. /不过令人烦恼的是，作者总打算替自己开脱。
-	7. exculpatory
+3. disculpate, exculpate
+	1. (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
+	2. - vt. 开脱……的罪责
+	3. _v._ [pronounce](dic://pronounce), [label](dic://label), [judge](dic://judge)
+	4. **discredit**败坏…的名声;**blame**责备;**accuse**控告，指控;**guilt**内疚;**complicity**合谋, 串通;**scapegoat**替罪的羔羊;**prosecute**检举、告发某人;**wrongdoing**坏事;**accomplice**从犯, 帮凶, 同谋;**condemn**判刑，定罪;**punish**严厉对待;
+	5. the article exculpated the mayor. /那篇文章为市长开脱罪责。
+	6. 'Margaret! I am going to consult Mr. Lennox as to the chance of exculpating myself, so that I may return to England whenever I choose, more for your sake than for the sake of any one else. /'玛格丽特！我打算和伦诺克斯先生商量开脱罪责的机会，这样我就可以随时返回英国，更多的是为了你，而不是为了其他任何人。
+	7. But there is a troubling subtext: the author’s attempts to **exculpate** himself. /不过令人烦恼的是，作者总打算替自己开脱。
+	8. exculpatory
 		1. _adj._ [absolvitory](dic://absolvitory), [exonerative](dic://exonerative), [forgiving](dic://forgiving), [extenuating](dic://extenuating), [justificative](dic://justificative), [justificatory](dic://justificatory), [vindicatory](dic://vindicatory)
 		2. _n._ [inculpatory](dic://inculpatory), [inculpative](dic://inculpative)
 		3. **circumstantial**详细的;**evidence**证据，证明;**prosecution**起诉, 诉讼;**damning**咒骂的;**admissible**可容许的;**testimony**证词;**hearsay**传闻，谣言;**subpoena**传唤，传审;**defendant**被告;**acquittal**宣告无罪;**indictment**起诉;
 		4. _[exculpatory](dic://exculpatory)_  adj. 申明无罪的；辩解的
 		5. _[exculpatory clause](dic://exculpatory%20clause)_  开脱责任条款
 		6. _[exculpatory evidence](dic://exculpatory%20evidence)_  开脱罪责的证据
-	8. exculpation
+	9. exculpation
 		1. _n._ [defense](dic://defense), [defence](dic://defence), [vindication](dic://vindication), [forgiveness](dic://forgiveness), [pardon](dic://pardon)
 		2. **complicity**合谋, 串通;**justification**理由;**condemnation**谴责;**guilt**内疚;**acquittal**宣告无罪;**indemnity**保障, 赔偿, 补偿;**refusal**拒绝;**confession**承认;**atonement**弥补,补偿;**negligence**疏忽, 玩忽;**presumption**推测;
 		3. _[exculpation](dic://exculpation)_  n. 辩解；使无罪
 		4. _[defend oneself exculpate exculpation](dic://defend%20oneself%20exculpate%20exculpation)_ 分辩
 		5. Will you consult a lawyer as to your chances of exculpation? “你会就你开脱的机会咨询律师吗” ？
-4. inculpate
-	1. _v._ [suggest](dic://suggest), [evoke](dic://evoke), [paint a picture](dic://paint a picture)
-	2. **accomplice**从犯, 帮凶, 同谋;**prosecute**检举、告发某人;**discredit**败坏…的名声;**accuse**控告，指控;**defendant**被告;**convict**证明…有罪;**betray**背叛;**compel**强迫，迫使;**admissible**可容许的;**apprehend**理解;**refute**反驳，驳斥;
-	3. _inculpate_  vt. 使连累；使负罪；控告
-	4. Granice was overcome by the futility of any farther attempt to inculpate himself. He was chained to life — a " prisoner of consciousness" . Where was it he had read the phrase? Well, he was learning what it meant /Granice 被任何进一步试图让自己受罪的尝试都徒劳无功所克服。他被束缚在生命中——一个“意识的囚徒”。他是在哪里读到这句话的？好吧，他正在学习这意味着什么。
+5. inculpate
+	1. - vt. 使连累；使负罪；控告
+	2. _v._ [suggest](dic://suggest), [evoke](dic://evoke), [paint a picture](dic://paint a picture)
+	3. **accomplice**从犯, 帮凶, 同谋;**prosecute**检举、告发某人;**discredit**败坏…的名声;**accuse**控告，指控;**defendant**被告;**convict**证明…有罪;**betray**背叛;**compel**强迫，迫使;**admissible**可容许的;**apprehend**理解;**refute**反驳，驳斥;
+	4. _inculpate_  vt. 使连累；使负罪；控告
+	5. Granice was overcome by the futility of any farther attempt to inculpate himself. He was chained to life — a " prisoner of consciousness" . Where was it he had read the phrase? Well, he was learning what it meant /Granice 被任何进一步试图让自己受罪的尝试都徒劳无功所克服。他被束缚在生命中——一个“意识的囚徒”。他是在哪里读到这句话的？好吧，他正在学习这意味着什么。
 	6. inculpable
 	7. inculpatory
 	8. inculpation
@@ -1005,20 +1007,22 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 			10. Methods Contrast the curative effect and prognosis in autoreinfusion and xenogenous transfusion /方法对比应用储存失自体输血和异体输血的疗效、预后。
 			11. There's no curative treatment for neurodegeneration /神经退行性变没有治愈方法。
 		4. incurably
-	2. curate, curacy
-		1. [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
-		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
-		3. **curator**馆长;**vicar**教区牧师，教堂牧师;
-		4. **vicar**教区牧师，教堂牧师;**rector**校长;**curate**助理牧师;**ordination**任命;**deacon**执事;**parish**教区;
-	3. curator
-	4. curio
+	2. curate, curacy (curative)
+		1. n. （某教区的）助理牧师；堂区牧师
+		2. v. 操持（收藏品或展品的）展出；组织（音乐节的）演出
+		3. [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
+		4. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
+		5. **curator**馆长;**vicar**教区牧师，教堂牧师;
+		6. **vicar**教区牧师，教堂牧师;**rector**校长;**curate**助理牧师;**ordination**任命;**deacon**执事;**parish**教区;
+	4. curator
+	5. curio
 		1. **antique**古老的，年代久远的;**antiques**古玩，古董;**relic**废墟;**souvenir**纪念品;**cabinet**内阁;**collectible**可收集的,可代收的;**bookcase**书柜，书架;**flea**跳蚤;**collector**收集者, 收取者
-	5. curiosity, curious
-	6. accurate, accuracy
-	7. pococurante
+	6. curiosity, curious
+	7. accurate, accuracy
+	8. pococurante
 		1. _adj._ 冷漠的的,漠不关心的
 		2. _n._ 漠不关心的人
-	8. procure
+	9. procure 
 		1. 来自拉丁语 procurare,关心，照看，管理，看护，来自 pro-,向前，代表，-cur,关切，照看，词源同 cure,pedicure.引申词义得到，获得，特指费尽心力取得。
 		3. v. 获得 (尤指难以获得的东西); 诱使（妇女）卖淫
 		4.  [secure](dic://secure)
@@ -1027,14 +1031,21 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		7. _[procured frinome](dic://procured%20frinome)_ 组合构架
 		8. _[Procuring activity](dic://Procuring%20activity)_ 采购作业
 		9. _[Procure Manage](dic://Procure%20Manage)_ 采购管理
-		10. procuress
+		10. procure a solution to a knotty problem. /解决了一个棘手的问题
+		11. food procured for the rebels. /为叛军谋得的食物。
+		12. managed to procure a pass /设法获取护照
+		13. procure the co-operation of any number of gentlemanlike curates. /他可以找到许多举止高雅的副牧师来和他合作。
+		14. Cargill spokesman Dan Sullivan says masks were provided to all employees once supplies were procured. /嘉吉公司发言人丹·沙利文说，一旦物资采购完毕，就向所有员工提供口罩。
+		15. However, her time in China was hampered by difficulties procuring a visa. /然而，她在中国的时间却因难以获得签证而受阻。
+		16. We procured a search warrant to search your offices this morning /我们有搜查证，早上搜查了你的办公室。
+		17. procuress
 			1. _n._ [pimp](dic://pimp), [procurer](dic://procurer), [panderer](dic://panderer), [pander](dic://pander), [pandar](dic://pandar), [fancy man](dic://fancy man), [ponce](dic://ponce)
 			2. **prostitute**娼妓;**mistress**情妇;**brothel**妓院;**maid**女仆;**nobleman**贵族;**lady**女士，夫人;**servant**仆人，佣人;**housekeeper**管家;**pimp**皮条客;**prostitution**卖淫;**whore**卖淫，娼妓;
 			3. _[procuress](dic://procuress)_  n. 老鸨
-		11. procurer
-		12. procuration, procrance, procural
-		13. procurable
-		14. procurement
+		18. procurer
+		19. procuration, procrance, procural
+		20. procurable
+		21. procurement
 			1. - n. （尤指为政府或机构）采购，购买；取得，获得；
 			2. _n._ [acquisition](dic://acquisition)
 			3. **logistics**后勤;**contracting**收缩的,缩成的,缩小的;**expenditure**花费, 使用;**outsourcing**外部采办,外购;**commissioning**试运转;**sourcing**纯源化;**modernization**现代化;**supplier**供应者;**implementation**贯彻，执行;**manufacturing**制造业,工业;**allocation**配给, 分配, 拨出;
@@ -1043,20 +1054,24 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 			6. _procurement cost_ 采购成本
 			7. _procurement contract_ 采购合同；订货合同；采办合同
 			8. _procurement division_ 采购部门
-		15. procuration
+			9. financial assistance for the procurement of legal advice. /获得法律帮助的财政资助。
+			10. competitive procurement seems to have beached several firms /竞争性采购似乎让几家公司都遭受损失了。
+			11. if you had transparent government procurement, corruption would go away. /如果你们的政府采购透明，就不会有腐败。
+			12. Large procurement volumes have secured substantial price reductions. /大宗采购使药品价格大幅度下降。
+		22. procuration
 			1. 代理；获得；委任；拉皮条；佣金
-		16. procurator
+		23. procurator
 			1. n. 代理人, 行政长官, 检察官
 			2. _n._ [agent](dic://agent), [bureaucrat](dic://bureaucrat), [administrative official](dic://administrative official)
 			3. **magistrate**地方法官, 治安官;**abbot**男修道院院长;**consul**领事;**deputy**代理人，代表;**Pilate**彼拉多;**prosecutor**检举人;**ecclesiastical**基督教会的;**prefect**长官;**nobleman**贵族;**rector**校长;**priest**牧师;
-		17. procuratorial
+		24. procuratorial
 			1. _procuratorial organ_ 检察机关
-		18. procuratory
+		25. procuratory
 			1. 委任；代理权
-		19. procuratorate
+		26. procuratorate
 			1. 检察院
 			2. 县人民检察院
-	9. secure
+	10. secure
 		1. se-分开 + cur-关心 + -e → 不关心 , 不担忧 → 安全的。
 		2. 1 - se-,分开，没有，-cur,关心，挂念，照顾，词源同 cure,curator.即不需要挂念的，引申词义安全的，可靠的等。
 		3. [procure](dic://procure)
@@ -1083,24 +1098,46 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		2. 英语另有几个单词也源出拉丁语cūrā，如curator，即a person who takes“care”of a museum or library（博物馆或图书馆馆长）；curate，即a person who takes“care”of souls（助理牧师）；cure，即bring health to someone by taking“care”of him（治愈）。从含义上来看，这三个词和care多少是有联系的。
 		3. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
 		4. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的;
-	11. curette
+		5. He condemned parliamentary sinecures and argued that too many ministers were in the pocket of the Crown /s他谴责议会中的尸位素餐者，并争辩说太多的大臣来自国王的口袋名单。
+		6. In African countries such as Ghana, Nigeria and Uganda teaching is all too often a sinecure , not a vocation. /在非洲国家如加纳，尼日利亚和乌干达，老师只是一个闲职，而非真正的工作。
+		7. So far as work went I enjoyed a complete sinecure; I had nothing to do but to walk about the valley, to eat, and to sleep /就工作而言，我享有完全的闲职。我无事可做，只能在山谷里走来走去，吃饭睡觉。
+		8. a sinecure, and consisted simply in a daily care and inspection /他在马厩里的工作是个轻闲差使，每天只要去照料照料巡视一番。
+	10. curette
 		1. 借自法语 curette, 源自 curer ‎"to clean out, scrape out."
 		2. n. 刮匙, 刮器  vt. 用刮匙刮 
-		3. **cannula**套管，插管;**biopsy**活组织检查;**suture**缝合;**cervix**子宫颈;**suction**抽吸;**incision**切开;**uterus**子宫;
-		4. curettage
+		3.  [curet](dic://curet)
+		4. **cannula**套管，插管;**biopsy**活组织检查;**suture**缝合;**cervix**子宫颈;**suction**抽吸;**incision**切开;**uterus**子宫;
+		5. That's it. Give me a **curette**. Fine. I'll suture now. Was that uncomfortable /对了。给我一把刮匙。好。我现在就给你缝上。会不舒服吗？
+		6. curettage
 			1. n. 刮术, 刮除术
 			2. _n._ [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process)
 			3. **hysterectomy**子宫切除;**resection**切除术;**abortion**流产，小产;**uterine**子宫的;**uterus**子宫;**surgical**外科的;**biopsy**活组织检查;**procedure**程序;**cervix**子宫颈;**sterilization**杀菌,绝育;
 1. **sur-** = sure, 表示“肯定”。
 	1. assure
-		1. reassure
-		2. assuring
-		3. assurer
-		4. assured
-		5. assurance
-		6. assurable
-	2. ensure
-	3. insure
+		1.  [guarantee](dic://guarantee), [ensure](dic://ensure), [insure](dic://insure), [secure](dic://secure)
+		2.  [tell](dic://tell)
+		3.  [see](dic://see), [check](dic://check), [insure](dic://insure), [see to it](dic://see to it), [ensure](dic://ensure), [control](dic://control), [ascertain](dic://ascertain)
+		4. [reassure](dic://reassure)
+		5.  [promise](dic://promise)
+		6. _v._ [affirm](dic://affirm), [verify](dic://verify), [assert](dic://assert), [avow](dic://avow), [aver](dic://aver), [swan](dic://swan), [swear](dic://swear)
+			1. [ensure](dic://ensure) 侧重使人相信某个行为或力量产生的结果。  
+			2. [insure](dic://insure) 常与ensure换用，但前者多指经济方面的保证、保险。  
+			3. [assure](dic://assure) 侧重指消除某人思想上的怀疑或担心，从而有达到目的的保证感，但不如ensure普通。  
+			4. [guarantee](dic://guarantee) 指对事物的品质或人的行为及履行义务、义务等承担责任的保证。  
+			5. [pledge](dic://pledge) 正式用词，指通过郑重许诺、协议或立誓等保证承担某一义务或遵守某一原则。  
+			6. [promise](dic://promise) 侧重表自己的主观意向，设法用语言使人感到稳当可靠。
+		7. **ensure**保证，确保;**reassure**使…安心，使消除疑虑;**guarantee**保证;**insure**确保，保证;**ensures**保证，确定;**assurance**保证，担保;**sure**可靠的;**hope**希望;**inform**通知;**believe**信任;**strive**努力;
+		8. Nothing can assure permanent happiness /没有什么东西能确保永久的幸福。
+		9. _assure oneself_ 弄清楚，查明
+		10. _assure of_ vt. 向...保证）；查明（使相信
+		11. reassure
+		12. assuring
+		13. assurer
+		14. assured
+		15. assurance
+		16. assurable
+	11. ensure
+	12. insure
 		1. uninsured
 		2. reinsurer
 		3. insurer
@@ -1110,7 +1147,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		7. insurable
 		8. insurability
 		9. coinsure
-	4. sure
+	13. sure
 		1. unsure
 		2. surety
 		3. sureness
@@ -1119,4 +1156,4 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		6. sure-enough
 		7. footsure
 		8. cocksure
-	5. surely
+	14. surely

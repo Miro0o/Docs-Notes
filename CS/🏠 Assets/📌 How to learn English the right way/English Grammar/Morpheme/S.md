@@ -109,28 +109,30 @@
 			5. **herald**使者, 预报者;**precede**领先，在…之前;**prelude**前奏;**imminent**迫近的;**foresee**预知;**signify**表示;**impending**即将发生的;**bode**预示;**ominous**不祥的;**might**可能;**predict**预报，预言;
 		8. sagacity
 		9. sagacious, sagaciously
-			1. _adj._ [wise](dic://wise), [politic](dic://politic)
-			2. _n._ [foolish](dic://foolish), [impolitic](dic://impolitic)
-			3. **shrewd**精明的;**astute**机敏的;**wise**聪明的;**perceptive**敏感的;**prudent**谨慎的;**skillful**熟练的;**cunning**狡猾的;**enlightened**开明的;**statesman**政治家;**resourceful**资源丰富的;**pious**虔诚的;
-		10. sagaciousness
+			1.  (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, )
+			2. _adj._ [wise](dic://wise), [politic](dic://politic)
+			3. _n._ [foolish](dic://foolish), [impolitic](dic://impolitic)
+			4. **shrewd**精明的;**astute**机敏的;**wise**聪明的;**perceptive**敏感的;**prudent**谨慎的;**skillful**熟练的;**cunning**狡猾的;**enlightened**开明的;**statesman**政治家;**resourceful**资源丰富的;**pious**虔诚的;
+		11. sagaciousness
 			1. _n._ [wisdom](dic://wisdom), [sapience](dic://sapience), [wiseness](dic://wiseness)
-		11. sagamore
+		12. sagamore
 			1. _n._ [Indian chief](dic://Indian chief), [Indian chieftain](dic://Indian chieftain)
 			2. **Iroquois**易洛魁人;**brook**小河;**hill**小山;**Algonquin**阿尔冈琴
 	7. beseech
-		1.  [bid](dic://bid), [entreat](dic://entreat), [adjure](dic://adjure), [press](dic://press), [conjure](dic://conjure)
-		2. _v._ [plead](dic://plead)
-		3. **beg**恳求;**pray**祈祷;**humbly**卑贱地;**thee**你;**earnestly**认真地;**thy**你的;**plead**辩护;**forgive**原谅;**lest**唯恐，以免;**doth**从事;**affirm**断言;
-		4. beseeching, beseechingly
-		5. beseeched
-	8. exegete
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate)
+		2.  [bid](dic://bid), [entreat](dic://entreat), [adjure](dic://adjure), [press](dic://press), [conjure](dic://conjure)
+		3. _v._ [plead](dic://plead)
+		4. **beg**恳求;**pray**祈祷;**humbly**卑贱地;**thee**你;**earnestly**认真地;**thy**你的;**plead**辩护;**forgive**原谅;**lest**唯恐，以免;**doth**从事;**affirm**断言;
+		5. beseeching, beseechingly
+		6. beseeched
+	9. exegete
 		1. **theologian**神学家;**scholar**学者;**linguist**语言学家;**theological**神学的;**scripture**经文;**scriptural**手稿的,圣经的,依据圣经的;**theology**神学;**jurist**法官;**philosopher**哲学家;**preacher**传教士;**historian**历史学家, 史学工作者;
 		2. _n._ 解释者,注释家,评注家
 		3. exegesis
 		4. exegetic, exegetical, exegetically
 		5. exegetical, exegetically
 		6. exegetics
-	9. forsake
+	10. forsake
 		1. forgo [abandon](dic://abandon), [desolate](dic://desolate), [desert](dic://desert)
 		2. _v._ [leave](dic://leave)
 			1. [abandon](dic://abandon) 强调永远或完全放弃或抛弃人或事物等，这可能是被迫的，也可能是自愿的。  
@@ -141,12 +143,12 @@
 		3. **abandon**离弃;**shun**避开, 回避, 避免;**betray**背叛;**renounce**宣布放弃;**repent**忏悔;**perish**毁灭;**leave**离开;**despise**轻视，鄙视;**obey**服从，听从;**relinquish**交出, 让给;**depart**离开;
 		4. I won't forsake my vegetarian principles. /我不会放弃素食原则。
 		5. I knew you wouldn't forsake me just when I need you most. /“我知道，在我最需要你的时候，你是不会丢下我的。”
-	10. ransack
+	11. ransack
 		1. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [pillage](dic://pillage), [foray](dic://foray)
 		2. [comb](dic://comb)
 		3. [take](dic://take), [search](dic://search)
 		4. **plunder**抢夺;**invade**侵略;**steal**剽窃;**seize**抓住;**rob**抢劫;**looting**抢劫;**flee**消失，消散;**loot**掠夺品;**hoard**储藏, 积存;**destroy**毁坏;**gunpoint**枪口;
-	11. saker
+	12. saker
 2. sake
 3. seek
 4. soke
@@ -334,7 +336,7 @@
 		1. _n._ [quality](dic://quality)
 		2.  [holiness](dic://holiness), [sanctitude](dic://sanctitude)
 		3. **dignity**尊严;**holiness**神圣;**sacred**神圣的;**integrity**正直;**piety**虔诚;**primacy**首位;**morality**道德;**purity**纯净;**propriety**①礼貌,规矩;**devotion**热爱;**holy**圣洁的，神圣的;
-	6. sanctuary
+	6. sanctuary (estuary)
 		1. _n._ [place](dic://place), [property](dic://property), [shelter](dic://shelter), [area](dic://area)
 		2. **refuge**避难;**temple**庙宇;**shelter**避难所;**chapel**小教堂;**shrine**圣地;**oasis**绿洲;**monastery**修道院;**altar**祭坛;**church**教堂;**hideaway**潜伏处;**shelters**庇护所;
 	7. sanctum
@@ -388,23 +390,23 @@
 	10. _n._ [insane](dic://insane), [irrational](dic://irrational)
 	11. **rational**理性的;**sensible**明智的;**insane**精神病的;**sanity**明智;**sober**冷静的，清醒的;**lunatic**精神错乱的;**civilized**文明的,非野蛮的;**crazy**疯狂的;**deranged**疯狂的;**reasonable**合理的;**calm**静的，平静的;
 	12. sanity
-	13. insane
-		1. insanity
-			1. _n._ [mental illness](dic://mental illness), [mental disease](dic://mental disease), [psychopathy](dic://psychopathy)
-			2. _n._ [sanity](dic://sanity), [saneness](dic://saneness)
-			3. **madness**疯狂;**insane**精神病的;**craziness**发狂,热中,狂热;**idiocy**白痴;**stupidity**愚笨;**paranoia**偏执狂，妄想狂;**psychosis**精神病;**delusion**错觉;**hysteria**不正常的兴奋;**mayhem**大混乱, 大破坏;**sanity**明智;
-		2. insanely
-			1. [crazily](dic://crazily), [dementedly](dic://dementedly), [madly](dic://madly)
-			2. [madly](dic://madly), [deadly](dic://deadly), [deucedly](dic://deucedly), [devilishly](dic://devilishly)
-			3. _adv._ [insane](dic://insane)
-			4. _n._ [sanely](dic://sanely)
-			5. **ridiculously**可笑地;**incredibly**极其;**unbelievably**难以置信地;**absurdly**愚蠢地;**amazingly**令人惊奇地;**outrageously**凶残地;**extremely**极端;**fantastically**空想地;**extraordinarily**非常;**impossibly**不可能地;**supremely**极其;
-2. sanitate
+2. insane
+	1. insanity
+		1. _n._ [mental illness](dic://mental illness), [mental disease](dic://mental disease), [psychopathy](dic://psychopathy)
+		2. _n._ [sanity](dic://sanity), [saneness](dic://saneness)
+		3. **madness**疯狂;**insane**精神病的;**craziness**发狂,热中,狂热;**idiocy**白痴;**stupidity**愚笨;**paranoia**偏执狂，妄想狂;**psychosis**精神病;**delusion**错觉;**hysteria**不正常的兴奋;**mayhem**大混乱, 大破坏;**sanity**明智;
+	2. insanely
+		1. [crazily](dic://crazily), [dementedly](dic://dementedly), [madly](dic://madly)
+		2. [madly](dic://madly), [deadly](dic://deadly), [deucedly](dic://deucedly), [devilishly](dic://devilishly)
+		3. _adv._ [insane](dic://insane)
+		4. _n._ [sanely](dic://sanely)
+		5. **ridiculously**可笑地;**incredibly**极其;**unbelievably**难以置信地;**absurdly**愚蠢地;**amazingly**令人惊奇地;**outrageously**凶残地;**extremely**极端;**fantastically**空想地;**extraordinarily**非常;**impossibly**不可能地;**supremely**极其;
+3. sanitate
 	1. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
 	2. 1. provide with sanitary facilities or appliances
 	3. - vt. 使合卫生；装设卫生设备
 	4. sanitation
-3. sanitize
+4. sanitize
 	1. [sanitise](dic://sanitise), [hygienize](dic://hygienize), [hygienise](dic://hygienise)
 	2. _v._ [clean](dic://clean), [make clean](dic://make clean), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 	3. **wipe**擦;**scrubbed**精制的，纯净的;**scrubbing**擦洗;**remove**移开;**wash**洗涤;**clean**清洁的，干净的;**purify**净化;**cleanse**净化;**purge**净化;**rinse**冲洗掉;**erase**抹去;
@@ -414,9 +416,9 @@
 	7. sanitization
 		1. _n._ [cleaning](dic://cleaning), [cleansing](dic://cleansing), [cleanup](dic://cleanup)
 		2. **sterilization**杀菌,绝育;**filtration**过滤;**hygienic**卫生的，保健的;**cleaning**清洗;**hygiene**卫生学;**sanitation**卫生系统或设备;**scrubbing**擦洗;**purification**净化;**clean-up**打扫,卫生扫除;**cleansing**清洁,使清洁的人或物;**cleanup**清除;
-4. sanify
+5. sanify
 	1. _[sanify](dic://sanify)_  vt. 使卫生
-5. sanitary
+6. sanitary
 	1. [healthful](dic://healthful)
 	2. _adj._ [hygienic](dic://hygienic), [hygienical](dic://hygienical)
 	3. _n._ [unsanitary](dic://unsanitary), [insanitary](dic://insanitary), [unhealthful](dic://unhealthful)
@@ -426,7 +428,7 @@
 		2. **hospital**医院;**psychiatric**精神病的;**psychiatrist**精神病专家, 精神病医生;**mansion**大厦;**tuberculosis**肺结核;**orphanage**孤儿院;**convent**女修道院;**clinic**诊所;**psychiatry**精神病学;**rehab**修复;**brothel**妓院;
 	7. sanitarian
 	8. insanitary, unsanitary
-6. sanitorium
+7. sanitorium
 	1. _[sanitorium](dic://sanitorium)_  n. （美）疗养院，休养所（等于sanatorium）
 	2. _[sanitarium sanitorium](dic://sanitarium%20sanitorium)_ 疗养院
 	3. _[small-scale sanitorium](dic://small-scale%20sanitorium)_ 小型疗养院
@@ -439,43 +441,54 @@
 	3. exsanguination
 	4. exsanguinate
 3. sanguine
-	1. [rubicund](dic://rubicund), [ruddy](dic://ruddy), [florid](dic://florid)
-	2. [red](dic://red), [redness](dic://redness)
-	3. [optimistic](dic://optimistic), [healthy](dic://healthy)
-	4. **optimistic**乐观的, 乐观主义的;**pessimistic**悲观的;**rosy**蔷薇色的，玫瑰红色的;**cautious**谨慎的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**sceptical**怀疑的;**gloomy**黑暗的;**cynical**愤世嫉俗的;**fearful**可怕的;**optimism**乐观;
-	5. 
-	6. sanguineous
+	1. a. 血红色的, 满怀希望的, 乐观的  
+	2. n. 血红色, 红粉笔  
+	3. vt. 用血沾污, 血染
+	4. sanguin-（血）：导致人活泼好动的血液  
+	5. 根据四体液学说，血液占优势的人就属于多血质，这种人活泼好动、乐观开朗。因此，英语单词sanguineous既表示“血的、多血质的”，也表示“乐观的”。它的词根sanguin-来自希腊语，表示“血”。  
+	6. sanguineous：[sæn'ɡwɪnɪəs] adj.血的；血红色的；多血质的；乐观的  
+	7. sanguine：['sæŋgwɪn] adj. 乐观的；面色红润的vt. 血染；以血沾污n. 血红色  
+	8. sanguinity：[sæn'ɡwɪnəti] n. 血色；乐天  
+	9. consanguine：[kɔn'sæŋɡwin] adj. 同血亲的；同宗族的（等于consanguineous）  
+	10. consanguinity：[,kɑnsæŋ'ɡwɪnəti] n. 血亲，同族；亲密关系
+	11. [rubicund](dic://rubicund), [ruddy](dic://ruddy), [florid](dic://florid)
+	12. [red](dic://red), [redness](dic://redness)
+	13. [optimistic](dic://optimistic), [healthy](dic://healthy)
+	14. **optimistic**乐观的, 乐观主义的;**pessimistic**悲观的;**rosy**蔷薇色的，玫瑰红色的;**cautious**谨慎的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**sceptical**怀疑的;**gloomy**黑暗的;**cynical**愤世嫉俗的;**fearful**可怕的;**optimism**乐观;
+	16. sanguineous
 		1. adj. 血的；血红色的；多血质的；乐观的
 		2. **blood**血，血液;**fleshy**肉的;**venous**静脉的;**veins**纹理;**grotesque**奇形怪状的;**hemorrhage**出血;**fluid**流动的;**malignant**有恶意的;**mucous**黏液的;**cutaneous**皮肤的;**bleeding**出血;
 		3. _[sanguineous](dic://sanguineous)_  adj. 血的；血红色的；多血质的；乐观的
 		4. _[sanguineous temperament](dic://sanguineous%20temperament)_  多血质
-	8. sanguinity
+	17. sanguinity
 		1. **optimism**乐观;**cynicism**犬儒主义;**melancholy**忧郁, 悲哀;**sincerity**真实, 诚挚;**enthusiasm**热情, 热心;**impatience**急躁;**idealism**唯心主义，理想主义;**trepidation**惊恐;**silliness**愚蠢;**apprehension**理解;**skepticism**怀疑论;
-	9. sanguinin
-	10. sanguinary
+	18. sanguinin
+	19. sanguinary
 		1. adj. 血腥的；流血的；残暴的
 		2. **savage**残酷的;**bloody**嗜杀的，残忍的;**murderous**蓄意谋杀的;**bloodshed**流血,虐杀;**gruesome**可怕的;**violent**猛烈的;**brutal**残忍的;**ferocious**残忍的;**ghastly**可怕的;**skirmish**小冲突，小规模战斗;**gory**血淋淋的;
-	12. sanguinaria
+	20. sanguinaria
 		1. _n._ 血根草(属)
 		2. ensanguine, ensanguined
 		3. sanguinarine
 		4. sanguinarin
-	14. consanguine
-		1. adj. 同血亲的，同宗族的（等于 consanguineous）
-		2. **kinship**亲属关系，家属关系;**familial**家庭的;**paternal**父亲的;**kindred**同类的;**offspring**子女, 子孙, 后代;**maternal**母亲的;**kin**亲戚;**marital**婚姻的;**unmarried**未婚的;**siblings**同科;**sibling**兄弟姊妹;
-		3. consanguinity
+	21. consanguine
+		1. con-一起 + sanguine【a. 血红色的】
+		2. adj. 同血亲的，同宗族的（等于 consanguineous）
+		3. **kinship**亲属关系，家属关系;**familial**家庭的;**paternal**父亲的;**kindred**同类的;**offspring**子女, 子孙, 后代;**maternal**母亲的;**kin**亲戚;**marital**婚姻的;**unmarried**未婚的;**siblings**同科;**sibling**兄弟姊妹;
+		4. Its core is to put patrilineal **consanguine** group benefit first. /其核心便是以父系血缘群体利益为重。
+		5. consanguinity
 			1. **kinship**亲属关系，家属关系;**familial**家庭的;**hereditary**遗传的;**ancestry**祖先;**marrying**证婚;**paternal**父亲的;
 			2. [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship)
-		4. consanguini
-		5. consanguineus
-		6. consanguineous
-		7. consanguineal
-4. sanguinolent
+		6. consanguini
+		7. consanguineus
+		8. consanguineous
+		9. consanguineal
+5. sanguinolent
 	1. adj. 血的；血染的
-5. sanguinopurulent
-6. sangfroid
+6. sanguinopurulent
+7. sangfroid
 	1. _n._ <法>冷静;沉着;镇定
-7. sanguification
+8. sanguification
 
 
 ### + \*sawel- + = the sun, to shine
@@ -533,7 +546,7 @@
 		2. vt. 使曝晒
 		3. [sun](dic://sun), [solarize](dic://solarize), [solarise](dic://solarise)
 		4. insolation
-	2. parasol
+	2. parasol (umbrage)
 		2. n. 阳伞
 		3. parasol - 降落伞起初用于体育运动和飞行人员救生，后来又广泛用于空投物资和空降人员、回收飞行器或探空仪器等。最早使用降落伞是在18世纪末，第一次表演跳伞的是法国人，用以表示“降落伞”的parachute本是法语。在法语中para-意为warding off（防，避），chute意为fall（降落，下降），所以在字面上parachute是“防止降落”的意思，但汉语却将之译为“降落伞”。作动词用时则表示“跳降落伞”、“伞投”或“空投”。英语还有一个词parasol，结构和parachute极为相似。parasol意为“（女用）阳伞”，它源自意大利语parasole，由para- 'warding off'（防，避）和sole 'sun'（太阳）合成，按字面讲是“防太阳晒”的意思。表示“雨伞”的法语单词parapluie，其结构也大致相同，字面上含有“防雨水”之义。
 		4. 1.parapet ['pærəpɪt] n.栏杆；扶手；矮护墙。para-在这里并不是如paradox悖论和paradise天堂及paralysis瘫痪中的前缀para-表around,abnormal等，而是词根par-表准备，在这里表抵挡、防卫等。parapet中的-pet不是宠物，而是词根pect-表胸腔经过意大利语后的变体，于是parapet是起防卫作用的“胸墙”。  
@@ -1214,9 +1227,15 @@
 ### ⭐ + \*sekw- + 
 #### + \*sekw- (1) + = to follow
 1. **secut-, sequ-, su-** = follow, 表示“跟随”。源自 拉丁语 sequi "to follow," sequester "follower."
-	1. consecution
-		1. n. 连续；条理；词序和语法变化等一致
-		2. consecutive
+	1. consecution 
+		1. (accord, consensus, congruity, conformity, consistency, coherence, consecution) 
+		2. (discord, dissonance, discrepancy, disparity)
+		3. con- + secut-跟随 + -ion
+		4. n. 连续, 推理, 条理
+		5. n. 连续；条理；词序和语法变化等一致
+		6. This **consecution** that has ever made the China civilization keep a kind of stabilization in a period of time /这曾使得中华文明在相当一段时间内保持了一种相当稳定的连续性。
+		7. As to concrete method of design, we can take keeping the **consecution** of the history and space as the principle /在具体的延续文脉设计方法上，以保持历史和空间的连续性为原则。
+		8. consecutive
 			1. con-全部 + secu-跟随 + -tive, 表形容词 → 一个接一个跟随。
 			2. _adj._ [ordered](dic://ordered), [continuous](dic://continuous), [uninterrupted](dic://uninterrupted),   
 			3. _adv._ [sequent](dic://sequent), [sequential](dic://sequential), [serial](dic://serial), [successive](dic://successive)
@@ -1230,10 +1249,10 @@
 			11. they registered their third consecutive draw. /他们取得第三场连平。
 			12. rang up several consecutive victories. /取得几次连续性的胜利
 			13. was absent on three consecutive days; won five consecutive games on the road. /接连三天都缺席；一路上连续赢了五场比赛
-		4. inconsecutive
-		5. consecutiveness
-		6. consecutively
-	2. persecute
+		9. inconsecutive
+		10. consecutiveness
+		11. consecutively
+	3. persecute
 		1. per-始终 + secut-跟随 + -e → 从头跟到尾 → 迫害。
 		2. per-,完全的，-sec,追求，跟随，词源同 execute,sequence.引申词义追踪，猎捕，迫害。
 		3. vt. 迫害, 虐待, 困扰, 同...捣乱
@@ -1264,13 +1283,17 @@
 			10. Tom had become indifferent to **persecution** by this time /这时，汤姆已经对和这跟迫害差不多的治疗麻木不仁。
 			11. Yet, as often as not, they find themselves the target of **persecution** rather than praise. /然而，他们往往发现自己是迫害对象，而不是表扬对象。
 		15. persecutee
-	3. prosecute
+	4. prosecute
 		17. pro-在前 + secut-跟随 + -e → 跟随到[法官]前面 → 控告。
 		18. vt. 告发, 起诉, 彻底进行, 执行, 从事  
 		19. vi. 告发, 起诉, 作检察官
-		20. prosecutrix
-		21. prosecutor
-		22. prosecution
+		20. He was prosecuted for murder. /他被指控犯有谋杀罪。(他因谋杀罪而被起诉。)
+		21. the council says it will prosecute traders who break the law. /该委员会称它将告发违法商人。
+		22. This corruption case now could take years to prosecute /这起腐败案可能会审理数年。
+		23. That's so many other people who can be prosecuted. /有那么多人都可以被起诉。
+		24. prosecutrix
+		25. prosecutor
+		26. prosecution
 			1. _n._ [legal action](dic://legal action), [action](dic://action), [action at law](dic://action at law), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
 			2. _n._ [defense](dic://defense), [defence](dic://defence), [denial](dic://denial), [demurrer](dic://demurrer), [defense team](dic://defense team), [defense lawyers](dic://defense lawyers)
 			3. **prosecutor**检举人;**acquittal**宣告无罪;**criminal**罪犯;**indictment**起诉;**extradition**引渡逃犯;**trial**试验;**conviction**确信, 坚定的信仰;**defendant**被告;**arrest**逮捕;**investigation**调查;**crimes**犯罪;
@@ -1280,21 +1303,42 @@
 			7. they sketched out the prosecution case. /他们概述了这起起诉案。
 			8. The finance director is subpoenaed by prosecution. /财务经理被检查机关传讯。
 			9. Donald Trump is already facing three other prosecutions. /唐纳德·特朗普已经面临另外三项起诉。
-		23. prosecuting
-		24. prosecutable
-	4. execute
-		1. unexecuted
-		2. inexecutable
-		3. executrix
-		4. executory
-		5. executor
-		6. executive
-		7. execution
-		8. executing
-		9. executant
-		10. executable
-		11. coexecutrix
-	5. obsequy /obsequies
+		27. prosecuting
+		28. prosecutable
+	5. execute
+		1. v. 执行，实施；处决；完成，表演（高难度动作）；制作（艺术作品）；（计算机）执行指令（或程序）
+		2.  [put to death](dic://put to death)
+		3.  [carry through](dic://carry through), [accomplish](dic://accomplish), [carry out](dic://carry out), [action](dic://action), [fulfill](dic://fulfill), [fulfil](dic://fulfil)
+		4.  [run](dic://run)
+		5.  [perform](dic://perform), [do](dic://do)
+		6. _v._ [kill](dic://kill), [punish](dic://punish), [penalize](dic://penalize), [penalise](dic://penalise), [murder](dic://murder), [slay](dic://slay), [hit](dic://hit)
+			1. [kill](dic://kill) 普通用词，含义广泛，泛指以任何方式使人、动物或植物死亡。  
+			2. [murder](dic://murder) 指谋杀或凶杀。  
+			3. [slaughter](dic://slaughter) 本义指大批宰杀动物，也指像屠宰牲畜一样一次杀死许多人。  
+			4. [massacre](dic://massacre) 语气比slaughter强。指大屠杀，尤指屠杀失去了自卫能力的人。  
+			5. [assassinate](dic://assassinate) 通常指因政治原因用非法手段杀害政治领袖人物或短名人士。  
+			6. [execute](dic://execute) 指依法处死罪犯。
+		7. **implement**使生效, 贯彻, 执行;**perform**执行;**commit**犯罪;**deploy**使展开;**initiate**开始，创始;**formulate**构想出, 规划;**devise**设计;**manage**管理;**deliver**发表;**undertake**担任, 承揽;**accomplish**完成;
+		8. they had to execute their dance steps with the greatest precision. /他们得一丝不苟地表演他们的舞步。
+		9. they never executes nobody nohow /他们绝不会处死任何人。
+		10. The ravisher of the bank was executed yesterday. /昨天那个银行抢劫犯被枪决了。
+		11. A month or two later they executed the king. /一两个月以后他们处死了国王。
+		12. 
+		13. unexecuted
+		14. inexecutable
+		15. executrix
+		16. executory
+		17. executor
+		18. executive
+			1. _n._ [administrator](dic://administrator), [decision maker](dic://decision maker), [administration](dic://administration), [governance](dic://governance), [governing body](dic://governing body), [establishment](dic://establishment), [brass](dic://brass)
+			2. _adj._ [execution](dic://execution), [implementation](dic://implementation), [carrying out](dic://carrying out)
+			3. **exec**主任参谋，副舰长;**director**人事助理;**vice-president**副总裁,副校长;**chief**酋长;**CEO**首席执行官;**chairman**主席，会长;**president**总统;**vice**缺点;**officer**军官，警官;**producer**生产者;**CFO**首席财务官;
+		19. execution
+		20. executing
+		21. executant
+		22. executable
+		23. coexecutrix
+	7. obsequy /obsequies
 		1. 来自 obsequy 的复数形式，也为常见形式。来自拉丁语 exsequi,送葬，来自 ex-,向外，-sequi,跟随，词源同 sequence.拼写和词义可能是受到 obsequium 影响，词源同 obsequious.
 		2. _[obsequies ceremony](dic://obsequies%20ceremony)_ 丧俗仪式
 		3. _[obsequies culture](dic://obsequies%20culture)_ 丧俗文化
@@ -1303,9 +1347,9 @@
 		6. They were the obsequies of poverty, with which pride had nothing to do. /它们是贫穷的葬礼， 与骄傲无关。
 		7. She entered their obsequies, and was obsessed by some obscure mood. /她参加了她们的葬礼，并被一些模糊情绪困扰住了。
 		8. The letter, marked on the envelope: To be delivered immediately after my death, contained instructions for his obsequies. /这封信在信封上标明：我死后立即送达， 其中包含有关他的葬礼的说明。
-		9. obsequial
-	6. obsequious
-		1. (sycophant, obsequious, submissive, )
+		10. obsequial
+	8. obsequious
+		1. (sycophant, obsequious, submissive, servile)
 		2. ob-用力 + sequ-跟随 + -ious表形容词 → 拼命跟随别人 → 谄媚的。
 		3. 来自拉丁语obsequium,顺从，履行服务职责，来自ob-,向前，朝向，-sequi,跟随，词源同sequence.原为跟班，跟随，后引申词义巴结的，讨好的。
 		4. a. 谄媚的, 奉承的, 顺从的
@@ -1316,7 +1360,7 @@
 		9. My role is to be sly, obsequious and without scruples /就该诡计多端 阿谀逢迎 行事无孔不入。
 		10. The waiter withdrew, and returned in a moment with manager, who bowed with obsequious respect. /服务员退了下去，不一会儿就带着经理回来了，经理恭恭敬敬地鞠了一躬。
 		11. They were obsequious and servile and did not presume to talk to their masters as if they were their equals. /他们阿谀奉承，卑躬屈膝，不敢像对待自己的主人一样与主人交谈。
-	8. sequel
+	9. sequel
 		1. [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
 		2. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
 		3.  [subsequence](dic://subsequence)
@@ -1331,8 +1375,10 @@
 		12. It's the sequel to Black Panther. /这就是《黑豹》的续集。
 		13. Flight controllers celebrated the sequel to an orbital flight to the moon in 2008. /飞行器控制人员庆祝这一胜利，这也是继2008年月球轨道飞行的第二次尝试。
 		14. sequacious
-			1. adj. 盲从的；合于逻辑的；缺乏独创性的
-			2. I want something sequacious now and robust. /我现在想要前后一贯和健全的东西。
+			1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious)
+			2. adj. 盲从的；合于逻辑的；缺乏独创性的
+			3. I want something sequacious now and robust. /我现在想要前后一贯和健全的东西。
+			4. The psychological cause refers to the **sequacious** and the fluke mind. /心理原因指盲从与侥幸心理使然。
 		15. sequacity
 			1. n. 盲从
 		16. sequela, sequelae
@@ -1344,7 +1390,7 @@
 				3. _[apoplexy sequela](dic://apoplexy%20sequela)_ 中风后遗症
 			4. Otherwise, decorate a likelihood impertinently to leave sequela to bridal chamber. /否则，不恰当的装修可能给新房留下后遗症。
 			5. You don't want to scare people to death on how bad these diseases can be, but at the same time, you want them to understand that these diseases are serious and can cause really bad disease and sequela /你不想因为这些疾病有多严重而把人们吓死，但与此同时，你想让他们明白这些疾病很严重， 会导致非常严重的疾病和后遗症。
-	9. sequence
+	10. sequence
 		1. sequent, subsequent
 		2. supersequence
 		3. subsequence
@@ -1359,15 +1405,18 @@
 					3. [important](dic://important), [of import](dic://of import), [logical](dic://logical)
 				2. consequentially
 				3. consequentiality
-	10. sequester
+	11. sequester
 		1. 来自古法语 sequestrer,使分开，使隔离，来自拉丁语 sequestrare,使妥善保管，使安全，来自sequester,中间的，调解的，引申词义中间人，调解人，受托人，可能来自 sequi,追随，跟随，词源同 sequence,second.词义演变比较 seconder,支持者，后援者。后引申词义扣押，没收，强制管理。
 		2. **sequestration**扣押;**shutdown**关门;**CBO**通道总线输出;
 		3. [take](dic://take), [change](dic://change), [isolate](dic://isolate), [insulate](dic://insulate), [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide)
 			1. _[sequester](dic://sequester)_  vt. 使隔绝；使隐退；没收，扣押
 			2. _[sequestered](dic://sequestered)_  v. 扣押；隔离；（使）隔绝；多价螯和（sequester 的过去式及过去分词）; adj. 隐蔽的，与世隔绝的；僻静的;
-	11. ensue
+		4. to sit close together in the sequestered pergola /在幽静的藤架下拥坐在一起
+		5. The jury is expected to be sequestered for at least two months. /陪审团渴望被隔离至少两个月。
+		6. And how do we sequester the carbon? /我们如何封存碳呢？
+	12. ensue
 		1. **occur**发生;**arise**发生;**inevitably**不可避免地;**erupt**爆发;**happen**发生;**inevitable**不可避免的, 必然发生的;**subside**平息;**abound**充满;**unavoidable**不可避免的;**escalate**逐步升高;**entail**必需，使承担;
-	12. pursue
+	13. pursue
 		1. **seek**寻找;**pursuit**追求;**abandon**离弃;**embark**上船或飞机;**continue**仍旧，连续;**forgo**放弃;**undertake**担任, 承揽;**seeking**寻找;**devote**奉献;**desire**欲望;**fulfill**履行;
 		2. pursuivant
 		3. pursuit
@@ -1375,10 +1424,10 @@
 		5. pursuance
 		6. pursuable
 		7. suable
-	13. sue
+	14. sue
 		1. suable
 		2. suability
-	14. suit
+	15. suit
 		1.  [lawsuit](dic://lawsuit), [case](dic://case), [cause](dic://cause), [causa](dic://causa)
 		2.  [suit of clothes](dic://suit of clothes)
 		3.  [courtship](dic://courtship), [wooing](dic://wooing), [courting](dic://courting)
@@ -1421,12 +1470,21 @@
 		29. jumpsuit
 		30. ill-suited
 		31. countersuite
-	15. extrinsic, extrinsicfactor
-	16. intrinsic, intrinsical, intrinsically
-		1. **inherent**固有的;**innate**先天的;**intrinsically**从本质上;**underlying**根本的;**value**价值;**fundamental**基本的;**characteristic**典型的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**uniqueness**唯一性;**observable**观察得到的;**immaterial**非物质的;
+	16. extrinsic, extrinsicfactor
+	17. intrinsic, intrinsical, intrinsically
+		1. intrin-,内在的，来自 internal, -sic, 沿着的，词源同 sequel, sequence. 引申词义固有的，内在的。
 		2. [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [inherent](dic://inherent), [integral](dic://integral), [inner](dic://inner), [internal](dic://internal)
-		3. 
-2. **sign-** = mark, 表示“记号，信号”。源自拉丁语 signum "identifying mark, sign."
+		3. _n._ [extrinsic](dic://extrinsic), [external](dic://external)
+		4. **inherent**固有的;**innate**先天的;**intrinsically**从本质上;**underlying**根本的;**value**价值;**fundamental**基本的;**characteristic**典型的;**intangible**难以捉摸的, 难以理解的, 无法确定的;**uniqueness**唯一性;**observable**观察得到的;**immaterial**非物质的;
+		5. a complex interplay of extrinsic and intrinsic factors /内外因素复杂的相互影响。
+		6. The intrinsic worth of the pen is 30 yuan. /这支钢笔本身价值是30元。
+		7. The brooch has little intrinsic value. /这枚胸针没有一点实质的价值。
+		8. astronomers can gauge the star's intrinsic brightness /天文学家可以判断出星星的内在亮度。
+		9. access to the arts is intrinsic to a high quality of life. /接触艺术是高质量生活之本。
+		10. The intrinsic value of a coin is the value of the metal it is made of. /一枚钱币的内在价值是造这枚钱币的金属的价值。
+		11. Sometimes people underestimate the importance of intrinsic motivators like recognition. /有时人们低估了内在激励的重要性，比如认可。
+		12. And what underlies these two things is an intrinsic penchant for what one studies. /然而决定上述两项的关键就是学生的兴趣爱好。
+9. **sign-** = mark, 表示“记号，信号”。源自拉丁语 signum "identifying mark, sign."
 	1. assign
 		1. 
 	2. consign
@@ -1505,7 +1563,7 @@
 	17. seal
 	18. significancy, insignificancy
 	19. tocsin
-3. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
+10. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
 	1. anthroposociology
 	2. associate
 		1. _n._ [peer](dic://peer), [equal](dic://equal), [match](dic://match), [compeer](dic://compeer), [friend](dic://friend), [accompaniment](dic://accompaniment), [concomitant](dic://concomitant)
@@ -2027,22 +2085,41 @@
 	1. etc...
 7. **homo-** = 表示“同类的”。源自希腊语 homos "same."
 	1. anomaly
-	2. homily
-	3. homocentric
-	4. homoeopathic
-	5. homogamy, homogamous
-	6. homogeneity, homogeneous
+		1. [anomalousness](dic://anomalousness)
+		2.  [unusual person](dic://unusual person)
+		3. _n._ [abnormality](dic://abnormality), [abnormalcy](dic://abnormalcy), [abnormal condition](dic://abnormal condition), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody)
+		4. **anomalous**不规则的,反常的;**aberration**偏差;**abnormality**不正常,反常,变态,畸形;**blip**物体光点;**discrepancy**差异, 不符合;**phenomenon**现象;**deviation**背离,偏离;**unusual**与众不同的;**abnormal**反常的，不规则的;**fluke**侥幸;**divergence**分叉，叉开;
+		5. It is often unpleasant to see an anomaly animal. /见到一只畸形动物常常会使人感到不快。
+		6. congenital anomaly of reproductive system /生殖系统先天异常
+		7. Well, there were some anomalies in the doctor's report. /在医生的报告里有一些反常。
+		8. The government maintains that these revisions justly removed an anomaly and conform with practice elsewhere. /多米尼加政府表示，这些修订以合法的方式抹去了本国法律的特殊性，与其他国家一致。
+		9. anomalogy
+		10. anomalistic
+			1. - adj. 不规则的；异常的；近点的
+		11. anomalistical
+	3. homily
+	4. homocentric
+	5. homoeopathic
+	6. homogamy, homogamous
+	7. homogeneity, homogeneous
 		1. homogenous
-	7. homogenesis
-	8. homogenise, homogenize
-	9. homolog,
-	10. homograph
-	11. homograft
-	12. homology
-		1. homologate, homologous
-	13. homonym, homophone
-	14. homophobia
-	15. homosexual
+	8. homogenesis
+	9. homogenise, homogenize
+	10. homolog,
+	11. homograph
+	12. homograft
+		1. n. [免疫][生物] 同种移植物
+		2. _n._ [graft](dic://graft), [transplant](dic://transplant)
+		3. **transplantation**移植;**graft**嫁接;**aortic**大动脉的;**transplant**移居;**prosthesis**弥补;**implantation**培植,灌输;**aorta**主动脉;**grafting**嫁接法;**perfusion**灌注;**myocardial**心肌的;**femoral**股骨的;
+	14. homology
+		1. _n._ [similarity](dic://similarity)
+		2. **homologous**相应的;**phylogenetic**系统发生的,动植物种类史的;**topological**拓扑的;**similarity**类似, 相似;**specificity**特性;**topology**拓扑学;**sequence**序列;**nucleotide**核苷酸;**proteins**蛋白质;**genome**基因组;**genomes**基因组;
+		3. It also discusses some properties of homology regular morphism, and its close relationships to homologymonomorphism (epimorphism) and homology equivalence. /给出了同调正则态射的一些性质，以及它与同调单（满）态和同调等价之间的关系。
+		4. How inexplicable are the cases of serial homologies on the ordinary view of creation! /用普通的创造观来看， 连续同源的情况是多么令人费解啊！
+		5. homologate, homologous
+	16. homonym, homophone
+	17. homophobia
+	18. homosexual
 8. **simil-, simul, sem-, sembl-** = alike, same 「Latin」simulare "to make like, imitate, copy, represent"
 	1. assemble, assemling
 		1. as-不断 + semble【相同】 → 把相同的东西放到一起 → 收集、集合。
@@ -2562,19 +2639,33 @@
 			7. etc..
 		19. sensing
 		20. sensible
-			1. supersensible
-			2. sensibilizer
-			3. sensibilization
-			4. sensibility
-			5. rachisensible
-			6. insensible
-		21. senses
-		22. senseless
-		23. missense
+			1.  (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible)
+			2. a. 理智的, 明智的; 实用耐穿的
+			3.  [reasonable](dic://reasonable)
+			4. [sensitive](dic://sensitive)
+			5. _adj._ [commonsense](dic://commonsense), [commonsensible](dic://commonsensible), [commonsensical](dic://commonsensical), [healthy](dic://healthy), [intelligent](dic://intelligent), [levelheaded](dic://levelheaded), [level-headed](dic://level-headed)
+			6. _n._ [insensible](dic://insensible), [imperceptible](dic://imperceptible), [unperceivable](dic://unperceivable), [unaware](dic://unaware), [incognizant](dic://incognizant)
+				1. [aware](dic://aware) 强调通过耳闻目睹或感觉而得到的信息，也指敏税的观察和推断。侧重感知，多与of一起用。  
+				2. [conscious](dic://conscious) 指内心的感觉，强调深刻的心理活动。  
+				3. [sensible](dic://sensible) 侧重通过直觉或理性感觉意识到某物的存在。
+			7. **prudent**谨慎的;**rational**理性的;**sensibly**容易感知地;**pragmatic**务实的;**sane**神志正常的;**reasonable**合理的;**workable**可经营的;**eminently**很;**logical**逻辑学的;**wise**聪明的;**straightforward**正直的, 坦率的;
+			8. a sensible reduction in price /相当大的减价
+			9. it will effect a sensible reduction in these figures. /这会使这些数字明显减少。
+			10.  There's been a sensible rise in temperature recently /最近温度明显上升了。
+			11.  personally, I think he made a very sensible move. /在我看来，他作出了非常明智的举动。
+			12. supersensible
+			13. sensibilizer
+			14. sensibilization
+			15. sensibility
+			16. rachisensible
+			17. insensible
+		22. senses
+		23. senseless
+		24. missense
 			1. n. [生]错义
 			2. adj. 错义的
-		24. direction-sense
-		25. antisense
+		25. direction-sense
+		26. antisense
 	8. sentence
 		1. 来自古法语 sentence,裁决，判断，决定，来自拉丁语 sententia,裁决，决定，表达思想，现在分词格名词形式于 sentire,感觉，感知，发表意见，来自 PIE*sent,感觉，词源同 sense.引申词义教条，训导，格言等。后主要用于语法格指句子，即一个完整的表达。
 		2. n. 句子, 命题, 宣判  
@@ -4182,6 +4273,13 @@
 	4. _n._ [adeptness](dic://adeptness), [adroitness](dic://adroitness), [deftness](dic://deftness), [facility](dic://facility), [quickness](dic://quickness)
 	5. **magician**魔术师，变戏法的人;**deft**灵巧的;**hand**手，手艺;**trick**诡计;**tricks**技巧，诀窍;**magic**巫术，魔法，戏法;**deception**欺骗;**manipulation**操作;**ploy**策略;**ruse**诡计;**dexterity**灵巧;
 	6. _sleight of hand_ 花招；熟练手法
+	7. The trick is done simply by sleight of hand. /变这个戏法全凭手法敏捷。
+	8. this is financial sleight of hand of the worst sort. /这是最恶劣的金融把戏。
+	9. turn out to be a clumsy sleight of hand /弄巧成拙
+	10. except by sleight of logic, the two positions cannot be harmonized. /除非通过逻辑诡辩，否则这两种观点无法调和。
+	11. a nifty bit of sleight of hand got the ashtray into the correct position /一记漂亮的手法把烟灰缸放到了正确的位置。
+	12. Ali made him pay for the sleight, mercilessly pounding him while yelling, 'What's my name? /阿里让他为此付出代价——一边无情地猛击他，一边大喊：“我的名字是什么？”
+	13. I mean think about magic, as an example, it's that magic works on everybody, sleight is hand. Right? /我的意思是，以魔术为例，魔术可以利用花招说服所有人，是吗？
 5. sly
 	1. [crafty](dic://crafty), [cunning](dic://cunning), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [slick](dic://slick), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
 	2. _adj._ [artful](dic://artful)
@@ -4190,7 +4288,7 @@
 	5. _on the sly_ 偷偷地；秘密地
 	6. slyly
 	7. slily
-7. sledge (sled)
+6. sledge (sled)
 	1. [sledge](dic://sledge), [sleigh](dic://sleigh)
 	2. [sleigh](dic://sleigh)
 	3. _n._ [vehicle](dic://vehicle)
@@ -4203,7 +4301,7 @@
 		2. _v._ [hammer](dic://hammer)
 		3. **hammer**敲打;**hammers**锤子;**smash**打碎;**axe**斧;**hammering**锤打,锤打的声音;**smashing**粉碎性的，猛烈的;**chainsaw**用链锯割,肢解;**whack**重打;**smashed**喝醉酒的;**fist**拳头;**slamming**砰击;
 	8. aboutsledge
-8. sleigh
+7. sleigh (inveigh)
 	1.  - 来自荷兰语 slee,缩写自 slede,雪橇，词源同 sled.
 	2. [sled](dic://sled), [sledge](dic://sledge)
 	3. _n._ [vehicle](dic://vehicle)
@@ -4214,12 +4312,16 @@
 
 ### + \*sleg- +
 1. **lag-** = rabbit, 表示“兔子”。源自希腊语 lagos "hare."
+	1. lagomorph
+	2. Lagovirus
 2. **lagn-** = lust, 表示“色欲”。源自希腊语 lagnos "lustful, lascivious."
+	1. algolagnia
 3. **lax-, leas-, lang-** = loose, 表示“松”；= languid, 表示“疲倦”。源自拉丁语 laxus "loose, slack;" languere "to be languid."
 	1. languid, languidly
-		1. langu-疲倦 + -id。
+		1. langu-疲倦 + -id。 
 		2. 1 - 来自 PIE*sleg,松的，松散的，词源同 lax.引申词义懒洋洋的。
-		3. a. 疲倦的, 无力的, 阴沉的
+		3. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, languid)
+		4. a. 疲倦的, 无力的, 阴沉的
 	2. languish
 		1. 来自 PIE*sleg,松的，松散的，词源同 lax,slack.引申词义松软无力的，消瘦的，后用来指长期受苦，煎熬。
 		2. langu-疲倦 + -ish表动词。
@@ -4519,7 +4621,16 @@
 	3. connubial
 		1. 源自拉丁语 conubium "marriage," 词根组成：con-强调 + nub-婚姻 + -ial表形容词。
 		2. con-,表强调，-nub,婚姻，词源同 nubile,nuptial
-	4. nubile
+		3. _adj._ [marriage](dic://marriage), [matrimony](dic://matrimony), [union](dic://union), [spousal relationship](dic://spousal relationship), [wedlock](dic://wedlock)
+		4. adv. [conjugal](dic://conjugal)
+		5. **connubial inherit**:  配偶继承 
+		6. **Connubial Love**:  夫妻恩爱 
+		7. **Connubial bliss**:  室家久乐 
+		8. **connubial l**:  婚姻的 
+		9. **connubial right**:  配偶权
+		10. **marital**婚姻的;**courtship**求爱;**marriage**结婚;**blissful**充满喜悦的;**intercourse**交往;**matrimonial**婚姻的;**bliss**极乐;**intimacy**亲密;**familial**家庭的;**carnal**肉体的;**infidelity**不信神;
+		11. But no such happy marriage could now teach the admiring multitude what connubial felicity really was. An union of a different tendency, and precluding the possibility of the other, was soon to be formed in their family. /可惜这件幸福的婚姻已经不可能实现，天下千千万万想要缔结真正幸福婚姻的有情人，从此也错过了一个借鉴的榜样。她家里立刻就要缔结一门另一种意味的亲事，也就是那门亲事破坏了这门亲事。
+	8. nubile
 		1. nub-婚姻 + -ile形容词后缀。指将要结婚的“美丽的”新娘。
 		2. 来自拉丁语 nubo,结婚，新婚，来自 PIE*sne,缝纫，编织，词源同 needle,net.引申词义结合，结婚。即如将要结婚的新娘，美丽的，迷人的。
 2. **nymph-, nympho-** = young bride, 表示“少女”，在构成医学词汇时表示“小阴唇”。源自希腊语 nymphē "bride, young wife, beautiful young woman."
@@ -4603,31 +4714,51 @@
 		1. _adj._ [wholesome](dic://wholesome)
 		2. _n._ [unwholesome](dic://unwholesome)
 		3. **environs**市郊，郊区;**posh**漂亮的;**healthful**有益健康的;**pleasant**令人愉快的，舒适的;**invigorating**精神充沛的,爽快的;**tranquil**安静的，平静的;**temperate**饮食有节制的, 克己的;**wholesome**有益健康的;**favourable**赞许的, 赞同的;**agreeable**欣然同意的;**cosmopolitan**世界性的;
-		4. salubrity
+		4. The idea being that calories from a vitamin and fiber-packed apple might displace those from less salubrious snacks. /每天一苹果的目的是使人们从富含维生素和纤维的苹果中摄取微量元素，从而代替从不健康的小点心中摄取的同类物质。
+		5. James had a legacy over North America’s colonisation in other less salubrious ways. /詹姆斯以其他不太有益的方式在北美殖民方面留下了遗产。
+		6. But confidence that higher education has a salubrious impact on society is eroded by a belief that we will not engage with ideas that challenge us. /但是，对于高等教育将为社会带来有益影响的信心却被一种质疑所侵蚀，那就是我们不愿接受挑战的声音。
+		7. salubrity
 			1. _n._ [healthfulness](dic://healthfulness)
 			2. _n._ [insalubrity](dic://insalubrity), [insalubriousness](dic://insalubriousness)
 			3. **vitality**活力，生气;**healthful**有益健康的;**impotence**阳萎;**erectile**勃起的;**health**健康;**wellbeing**幸福;**heath**荒地;
-		5. insalubrious
-	7. salve, lipsalve
-		1. **balm**香油;**ointment**油膏;**soothe**安慰;**lotion**洗液;**wounds**枪伤，伤处;**heal**治愈，痊愈;**bandage**绷带;**healing**能治愈的;**remedy**药品, 治疗法;**rub**擦;**soothing**使人宽心的;
-		5.  [rescue](dic://rescue), [deliver](dic://deliver), [medicate](dic://medicate), [medicine](dic://medicine)
-		6. [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [redress](dic://redress), [remediation](dic://remediation)
-		2. salvable, 
-		3. salvage
-			1.  [salve](dic://salve), [relieve](dic://relieve), [save](dic://save)
-			2.  [scavenge](dic://scavenge)
-			3. _n._ [property](dic://property), [belongings](dic://belongings), [holding](dic://holding), [material possession](dic://material possession), [commodity](dic://commodity), [trade good](dic://trade good), [good](dic://good)
-			4. _v._ [rescue](dic://rescue), [deliver](dic://deliver), [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
-			5. **repair**修复;**scrap**小块;**rebuild**重建;**restoration**恢复;**rescue**营救;**reclaim**开拓;**wreck**失事;**wreckage**残骸;**wrecking**失事，遇难;**restore**修复;**recover**恢复;
-		4. salvor
+		8. insalubrious
+	7. salve, lipsalve (suave, salve)
+		1. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy)
+		2. **balm**香油;**ointment**油膏;**soothe**安慰;**lotion**洗液;**wounds**枪伤，伤处;**heal**治愈，痊愈;**bandage**绷带;**healing**能治愈的;**remedy**药品, 治疗法;**rub**擦;**soothing**使人宽心的;
+		3.  [rescue](dic://rescue), [deliver](dic://deliver), [medicate](dic://medicate), [medicine](dic://medicine)
+		4. [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic), [redress](dic://redress), [remediation](dic://remediation)
+		5. charity salves our conscience. /做善事使我们的良心得到安慰。
+		6. It's no longer the salve to our fears or the guide to our actions. /它不再是我们恐惧的良药，也不再是我们行动的指南。
+		7. These were heavy salves that often didn't hold their scent for very long. /这些是味道很重的物质，通常不会保持很长时间的气味。
+		8. The tincture and the salve will help /药酒和药膏会有帮助的。
+		9. salvable, 
+		10. salvage
+			1. n. 海上救助, 抢救, 打捞, 抢救出来的财物  
+			2. vt. 海上救助, 抢救, 打捞, 营救
+			13.  [salve](dic://salve), [relieve](dic://relieve), [save](dic://save)
+			14.  [scavenge](dic://scavenge)
+			15. _n._ [property](dic://property), [belongings](dic://belongings), [holding](dic://holding), [material possession](dic://material possession), [commodity](dic://commodity), [trade good](dic://trade good), [good](dic://good)
+			16. _v._ [rescue](dic://rescue), [deliver](dic://deliver), [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
+			17. **repair**修复;**scrap**小块;**rebuild**重建;**restoration**恢复;**rescue**营救;**reclaim**开拓;**wreck**失事;**wreckage**残骸;**wrecking**失事，遇难;**restore**修复;**recover**恢复;
+		12. salvor
 			1. [salvager](dic://salvager)
 			2. _n._ [rescuer](dic://rescuer), [recoverer](dic://recoverer), [saver](dic://saver)
 			3. **salvage**打捞;**shipwreck**海难, 船只失事;**vessel**容器，器皿;**schooner**纵帆船;**maritime**海的;**claimant**原告;**indemnity**保障, 赔偿, 补偿;**vessels**容器;
-		5. salvation
-			1. _n._ [rescue](dic://rescue), [deliverance](dic://deliverance), [delivery](dic://delivery), [saving](dic://saving), [means](dic://means), [agency](dic://agency), [way](dic://way)
-			2. **deliverance**解救;**righteousness**正当;**eternal**永恒的;**holiness**神圣;**Christ**基督;**repentance**悔悟;**atonement**弥补,补偿;**redemption**赎回;**resurrection**复活;**gospel**福音书;**sinner**罪人;
-			3. salvational
-	8. salvo
+		13. salvation
+			1. salvation（拯救）：基督教中的“灵魂得救”  
+			4. 英语单词salvation原本是一个宗教术语，指的是基督教中的“灵魂得救”理论。基督教认为因为人类始祖亚当和夏娃违反上帝意愿偷吃禁果，因此所有人类从一出生就带有原罪，需要进行赎罪，死后灵魂才能得救，才能升入天堂。英语中salvation就特指基督教中的“灵魂得救”。现在，该词已经广泛应用于非宗教领域，表示“救赎、拯救”。  
+			5. salvation来自拉丁语动词salvare（save，拯救），与单词save同源。  
+			6. salvation： [sæl'veɪʃ(ə)n] n.拯救，救助，救赎  
+			7. save：[sev] v. 节省；保存；储蓄；解救；救球prep. 除...之外n. 救球，救援  
+			8. safe： [sef]  adj. 安全的；可靠的；平安的n. 保险箱；冷藏室；纱橱  
+			9. saver：['sevɚ] n. 救助者；节俭的人；节约装置  
+			10. savior：['sevjɚ] n. 救世主；救星；救助者  
+			11. salve：[sælv] vt. 涂油膏；缓和n. 药膏；安慰  
+			12. salvage：['sælvɪdʒ] n. 打捞；海上救助；抢救财货；救难的奖金vt. 抢救；海上救助
+			2. _n._ [rescue](dic://rescue), [deliverance](dic://deliverance), [delivery](dic://delivery), [saving](dic://saving), [means](dic://means), [agency](dic://agency), [way](dic://way)
+			3. **deliverance**解救;**righteousness**正当;**eternal**永恒的;**holiness**神圣;**Christ**基督;**repentance**悔悟;**atonement**弥补,补偿;**redemption**赎回;**resurrection**复活;**gospel**福音书;**sinner**罪人;
+			4. salvational
+	9. salvo
 		1. [fusillade](dic://fusillade), [volley](dic://volley), [burst](dic://burst)
 		2. _n._ [outburst](dic://outburst), [burst](dic://burst), [flare-up](dic://flare-up), [fire](dic://fire), [firing](dic://firing), [cheer](dic://cheer)
 		3. **barrage**弹幕;**volley**齐发;**firing**生火;**incendiary**放火的;**onslaught**猛攻, 攻击;**launching**发射;**scathing**严厉的;**blistering**酷热的;**opening**开始;**skirmish**小冲突，小规模战斗;**torpedo**鱼雷;
@@ -4635,7 +4766,7 @@
 		5. _[bracketing salvo](dic://bracketing%20salvo)_ 夹叉齐射
 		6. _[missile salvo firing](dic://missile%20salvo%20firing)_ 导弹齐射
 		7. _[saturation rocket salvo](dic://saturation%20rocket%20salvo)_ 火箭饱和齐射
-	9. save
+	10. save
 		1. saviour, savior
 		2. unsave
 		3. saving
@@ -4653,7 +4784,7 @@
 		6. dissave
 		7. saved
 		8. save-all
-	10. safe
+	11. safe
 		1. vouchsafe
 			1. _v._ [allow](dic://allow), [grant](dic://grant)
 			2. **bestow**授予;**doth**从事;**thy**你的;**thee**你;**oblige**强制;**hath**有;**procure**获得，取得;**compel**强迫，迫使;**hasten**催促;**countenance**面容，表情;**beg**恳求;
@@ -4769,19 +4900,25 @@
 	2. sophist
 		1. _n._ [philosopher](dic://philosopher), [reasoner](dic://reasoner), [ratiocinator](dic://ratiocinator)
 		2. **philosopher**哲学家;**Socrates**苏格拉底;**rhetorical**修辞的;**Athenian**雅典的;**Plato**柏拉图;**liar**说谎的人;**Aristotle**亚里士多德;**disingenuous**不真诚的;**rhetoric**修辞，修辞学;**fallacy**谬论，谬误;**hypocrite**伪君子;
-7. sophistic
-	1. sophisticate
-		1. _n._ [adult](dic://adult), [grownup](dic://grownup)
-		2. _v._ [educate](dic://educate), [school](dic://school), [train](dic://train), [cultivate](dic://cultivate), [civilize](dic://civilize), [civilise](dic://civilise), [denote](dic://denote)
-		3. **chic**时髦;**fashionable**流行的, 符合时尚的, 时髦的;**glamorous**富有魅力的;**elegant**高雅的，优雅的;**socialite**社会名流;**cosmopolitan**世界性的;**classy**漂亮的;**sensibility**感情;**elegance**典雅;**seductive**诱惑的;**trendy**时髦的，流行的;
-		4. _[sophisticates](dic://sophisticates)_  n. 老于世故的人；复杂购买者（sophisticate的复数）
-		5. _[sophisticate](dic://sophisticate)_  v. 弄复杂；使变得世故；曲解；（老练地）讲话; adj. 老于世故的; n. 久经世故的人；精通时尚和文化的人;
-		6. sphisticator
-		7. sophistication
-		8. sophisticated
-			1. unsophisticated
-			2. sophisticatedly
-	3. sophistical
+		3. You have probably come across a few of these sophists in your young life. /你年纪虽小，但或许已经遇见过几位这样的诡辩学家。
+		4. Isocrates, in what is called his discourse against the sophists, reproaches the teachers of his own times with inconsistency. /伊索克拉底在他所谓的反对诡辩者的演讲中，指责他那个时代的老师前后矛盾。
+		5. That some sophists wrote tragedies and that tragedians manipulate sophistic rhetoric is not a casual overlap of interest. /一些诡辩家写悲剧和悲剧演员操纵诡辩修辞并不是偶然的兴趣重叠。
+	3. sophistic
+		1. _adj._ [casuist](dic://casuist), [sophist](dic://sophist), [invalid](dic://invalid)
+		2. _n._ [valid](dic://valid)
+		3. **rhetorical**修辞的;**rhetoric**修辞，修辞学;**disingenuous**不真诚的;**artful**狡猾的;**fallacy**谬论，谬误;**dogmatic**教条的;**sophisticated**老练的;**hyperbole**夸张的语句;**self-serving**自私的,自私自利的;**pretentious**自命不凡的;**argumentative**好辩的,争论的;
+7. sophisticate
+	1. _n._ [adult](dic://adult), [grownup](dic://grownup)
+	2. _v._ [educate](dic://educate), [school](dic://school), [train](dic://train), [cultivate](dic://cultivate), [civilize](dic://civilize), [civilise](dic://civilise), [denote](dic://denote)
+	3. **chic**时髦;**fashionable**流行的, 符合时尚的, 时髦的;**glamorous**富有魅力的;**elegant**高雅的，优雅的;**socialite**社会名流;**cosmopolitan**世界性的;**classy**漂亮的;**sensibility**感情;**elegance**典雅;**seductive**诱惑的;**trendy**时髦的，流行的;
+	4. _[sophisticates](dic://sophisticates)_  n. 老于世故的人；复杂购买者（sophisticate的复数）
+	5. _[sophisticate](dic://sophisticate)_  v. 弄复杂；使变得世故；曲解；（老练地）讲话; adj. 老于世故的; n. 久经世故的人；精通时尚和文化的人;
+	6. sphisticator
+	7. sophistication
+	8. sophisticated
+		1. unsophisticated
+		2. sophisticatedly
+	9. sophistical
 
 
 
@@ -4957,13 +5094,14 @@
 		1. _[plate specimen](dic://plate%20specimen)_  板试件
 		2. _[blood specimen](dic://blood%20specimen)_  血标本
 	5. specious
-		1.  [spurious](dic://spurious)
-		2. [gilded](dic://gilded), [meretricious](dic://meretricious)
-		3. _adj._ [false](dic://false), [insincere](dic://insincere)
-		4. _n._ [true](dic://true), [sincere](dic://sincere)
-		5. **disingenuous**不真诚的;**spurious**假的;**baseless**无根据的;**bogus**伪造的;**absurd**荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**preposterous**反常的,荒谬的;**nonsensical**无意义的;**unsubstantiated**无事实根据的;**laughable**荒唐可笑的;**dubious**可疑的;
-		6. speciosity
-	6. spice
+		1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, )
+		2.  [spurious](dic://spurious)
+		3. [gilded](dic://gilded), [meretricious](dic://meretricious)
+		4. _adj._ [false](dic://false), [insincere](dic://insincere)
+		5. _n._ [true](dic://true), [sincere](dic://sincere)
+		6. **disingenuous**不真诚的;**spurious**假的;**baseless**无根据的;**bogus**伪造的;**absurd**荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**preposterous**反常的,荒谬的;**nonsensical**无意义的;**unsubstantiated**无事实根据的;**laughable**荒唐可笑的;**dubious**可疑的;
+		7. speciosity
+	7. spice
 		1. [spiciness](dic://spiciness), [spicery](dic://spicery)
 		2. [spice up](dic://spice up)
 		3. [zest](dic://zest), [spice up](dic://spice up)
@@ -5040,8 +5178,17 @@
 		3. _[Auditing Conspectus](dic://Auditing%20Conspectus)_ 审计学概论
 		4. _[Design conspectus](dic://Design%20conspectus)_ 设计概论
 		5. _[teaching conspectus](dic://teaching%20conspectus)_ 教学概论
-		6. conspicuous, perspicuous
-	6. spectacle
+		6. conspicuous
+			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, obtrusive, spectacular, impressive, overblown, striking)
+		7. perspicuous 
+			1. (illustrative, perspicuous, lucid, pellucid, limpid, luculent, crystal clear, )
+			2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative) 
+			3. _adj._ [clear](dic://clear)
+			4. _n._ [unclear](dic://unclear)
+			5. **succinct**简洁的;**unambiguous**不含糊的;**concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**agreeable**欣然同意的;**lucid**易懂的;**eminently**很;**perceptive**敏感的;**straightforward**正直的, 坦率的;**utterance**说话;**expedient**应急有效的;
+			6. it provides simpler and more perspicuous explanations than its rivals. /它提供的解释比对手们的更简单明了。
+			7. He pointed out the perspicuous perspective in front of people. /他指出了人们面前明晰的远景。
+	5. spectacle
 		1. _n._ [sight](dic://sight), [display](dic://display), [presentation](dic://presentation), [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle)
 		2. **extravaganza**娱乐表演;**awe-inspiring**令人起敬畏心的;**spectacular**壮观的, 雄伟的, 引人入胜的;**grotesque**奇形怪状的;**farce**笑剧,闹剧,滑稽戏;**spectator**观众, 旁观者;**dazzling**耀眼的;**carnage**残杀;**splendor**光彩;**grandeur**庄严;**travesty**滑稽模仿;
 		3. spectate
@@ -5053,7 +5200,7 @@
 			3. _n._ [unimpressive](dic://unimpressive), [undramatic](dic://undramatic), [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
 			4. **breathtaking**令人赞叹的;**stunning**极好的;**magnificent**壮丽的;**awe-inspiring**令人起敬畏心的;**incredible**不能相信的, 不可信的;**fantastic**极好的;**splendid**辉煌的;**amazing**令人惊异的;**phenomenal**现象的;**marvelous**引起惊异的,不可思议的,非凡的;**impressive**给人印象深刻的, 感人的;
 		5. spectator,
-	7. speculate
+	6. speculate
 		1. _v._ [expect](dic://expect), [anticipate](dic://anticipate), [reason](dic://reason), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate), [invest](dic://invest)[think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。  
 			1. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。  
 			2. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。  
@@ -5066,17 +5213,17 @@
 		3. speculation
 			1. _n._ [opinion](dic://opinion), [view](dic://view), [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [investment](dic://investment), [investment funds](dic://investment funds)
 			2. **rumors**谣传，流言;**rumor**谣言;**rumour**谣言;**conjecture**推测;**unsubstantiated**无事实根据的;**controversy**争论;**unconfirmed**未最后认可的;**wishful**渴望的，愿望的;**unfounded**无事实根据的;**rumoured**谣传的;**skepticism**怀疑论;
-	8. specter
+	7. specter
 		1. 1 - 来自拉丁语 spectrum,出现，显示，影像，鬼魂，幽灵，来自 specere,看，词源同 spectate,aspect.
 		2. [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [spectre](dic://spectre)
 		3. [ghost](dic://ghost), [shade](dic://shade), [spook](dic://spook), [wraith](dic://wraith), [spectre](dic://spectre)
 		4. _n._ [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [spirit](dic://spirit)
 		5. **looming**上现蜃景;**ominous**不祥的;**ghostly**幽灵的;**ever-present**经常存在的;**looms**织布机;**lingering**拖延的;**threat**威胁，恐吓;**menace**威胁;**impending**即将发生的;**haunting**不易忘怀的，萦绕于心头的;**ghosts**鬼;
 		6. spectre, spectra, spectral,
-	9. specular
+	8. specular
 		1. a. 镜子的, 镜子一般的, 会反射的
-	10. suspect
-	11. espy
+	9. suspect
+	10. espy
 		1. - e-,缓和语音，-spy,看，注视，词源同 spy,spectate.即观察，密切注意，后词义有所变化。
 		2. [descry](dic://descry), [spot](dic://spot), [spy](dic://spy)
 		3. _v._ [sight](dic://sight)
@@ -5084,7 +5231,7 @@
 		5. _[espy set eyes on](dic://espy%20set%20eyes%20on)_ 望见
 		6. _[espy catch sight of](dic://espy%20catch%20sight%20of)_ 探出; 窥见; 发现; 
 		7. _[descry espy make out see](dic://descry%20espy%20make%20out%20see)_ 看出
-	12. despise
+	11. despise
 		1. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
 		2. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
 		3. _v._ [hate](dic://hate), [detest](dic://detest)
@@ -5225,7 +5372,7 @@
 		1. suspender, suspendable
 	9. suspense
 		1. suspensor, suspensive, suspension
-	10. penchant (penchant, dote, indulge, fondness, cosher, spoil)
+	10. penchant (penchant, dote, indulge, fondness, cosher, spoil, tendentious, )
 		1. - n. 嗜好；倾向
 		2.  [preference](dic://preference), [predilection](dic://predilection), [taste](dic://taste)
 		3. **fondness**溺爱;**knack**诀窍;**propensity**倾向;**obsession**困扰;**aversion**厌恶;**fascination**魅力;**notorious**臭名昭著的;**preoccupation**全神贯注，入神;**disdain**蔑视;**flair**天资;**obsessive**萦绕于心的;
@@ -5278,7 +5425,7 @@
 		2. outpensioner
 		3. pensionable
 	9. compendious 
-		1. (succint, terse, compendious, concise, cursory)
+		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
 		3. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
 		4. _adj._ [concise](dic://concise)
 		5. _n._ [prolix](dic://prolix)
@@ -5286,12 +5433,22 @@
 			1. **tome**册;**treatise**论文;**compilation**编辑,编写;**handbook**手册;**comprehensive**广泛的, 综合的;**guidebook**旅行指南;**glossary**术语表;**encyclopaedia**<英>百科全书;**foreword**前言;**collection**收集;**anthology**选集;
 			2. _compendium of materia medica_ 本草纲目
 			3. _n._ [publication](dic://publication), [summary](dic://summary), [sum-up](dic://sum-up)
-	11. dispense, dispenser
-		1. _n._ [container](dic://container), [supplier](dic://supplier), [provider](dic://provider)
-		2. **plunger**活塞;**receptacle**容器;**tray**托盘;**refill**被再注满;**vial**小瓶;**canister**小罐;**syringe**注射器;**applicator**涂敷器;**nozzle**喷嘴;**beverage**饮料;**bottle**瓶子;
-		3. dispensability, dispensable, dispensation
-		4. dispensary, dispensatory
-		5. indispensable, indispensability 
+	11. dispense
+		1. [distribute](dic://distribute), [administer](dic://administer), [mete out](dic://mete out), [deal](dic://deal), [parcel out](dic://parcel out), [lot](dic://lot), [shell out](dic://shell out), [deal out](dic://deal out), [dish out](dic://dish out), [allot](dic://allot), [dole out](dic://dole out)
+		2. _v._ [give](dic://give), [exempt](dic://exempt), [relieve](dic://relieve), [free](dic://free), [treat](dic://treat), [care for](dic://care for)
+		3. **prescribe**开药方;**administer**管理, 支配;**spout**喷口;**refill**被再注满;**inject**注射;**syringe**注射器;**dispose**处理;**distribute**分配, 分给;**operate**运转;**displace**取代;**procure**获得，取得;
+		5. _dispense with_ 无需；免除；省掉
+			1. Would you find me very ungrateful if I dispensed with his services?  /如果我不再需要他的服务，您会不会认为我不领情？
+			2. Let's dispense with the small talk, shall we? /我们还是免去无聊的寒暄吧？
+			3. He's dispensed with finery and removed his princely jewellery. /他已脱掉了华丽的衣饰，摘掉了珠宝。
+		6. You have a responsibility to dispense justice. /你有责任伸张正义。
+		7. It even uses it in some public restrooms to dispense toilet paper. /甚至在一些公共卫生间使用该技术来分发卫生纸。
+		8.  dispenser
+			1. _n._ [container](dic://container), [supplier](dic://supplier), [provider](dic://provider)
+			2. **plunger**活塞;**receptacle**容器;**tray**托盘;**refill**被再注满;**vial**小瓶;**canister**小罐;**syringe**注射器;**applicator**涂敷器;**nozzle**喷嘴;**beverage**饮料;**bottle**瓶子;
+		9. dispensability, dispensable, dispensation
+		10. dispensary, dispensatory
+		11. indispensable, indispensability 
 			1. (essential, integrated, indispensable, crucial, obligatory)
 			2. **essential**基本的;**invaluable**无法估计的, 非常宝贵的;**vital**生死攸关的;**crucial**决定性的;**vitally**紧要地;**irreplaceable**不能调换的,不能代替的;**important**重要的, 重大的;**integral**构成整体所必需的;**valuable**贵重的;**useful**有用的，有益的;**necessary**必要的;
 				1. [indispensable](dic://indispensable) 语气强，侧重指绝对必要性或不可缺少性。
@@ -5299,9 +5456,9 @@
 				3. [necessary](dic://necessary) 最常用词，侧重由客观因素决定的某种需要，强调不可避免，但并非绝不可缺少。
 				4. [requisite](dic://requisite) 正式用词，特指为实现某一目的或得到某种结果而应有的需要，有时可与necessary换用。
 			3. [critical](dic://critical), [vital](dic://vital), [necessary](dic://necessary), [obligatory](dic://obligatory)
-	12. prepense
+	13. prepense
 		4. adj. 预谋的；预先考虑过的；有计划的
-	13. perpend
+	14. perpend
 		1. vt. 深思；慎重考虑
 		2. vi. 考虑；仔细考虑
 		3. n. 贯石；穿墙石
@@ -5309,7 +5466,7 @@
 		5. [wistful](dic://wistful)
 		6. _adj._ [thoughtful](dic://thoughtful), [sad](dic://sad)
 		7. **introspective**好反省的;**contemplative**沉思的;**somber**昏暗的;**melancholy**忧郁, 悲哀;**brooding**沉思的;**moody**喜怒无常的;**meditative**沉思的;**dreamy**梦想的;**serene**平静的;**solemn**庄严的，严肃的;**wry**面部肌肉扭曲的;
-	14. pensive
+	15. pensive
 		1. [brooding](dic://brooding), [broody](dic://broody), [contemplative](dic://contemplative), [meditative](dic://meditative), [musing](dic://musing), [pondering](dic://pondering), [reflective](dic://reflective), [ruminative](dic://ruminative)
 		2. [wistful](dic://wistful)
 		3. _adj._ [thoughtful](dic://thoughtful), [sad](dic://sad)
@@ -5319,51 +5476,64 @@
 		7.  I don't know, " said Hermione, looking pensive. /“不知道，”赫敏说，显得忧心忡忡。
 		8. " We shall see, " replied Aouda, becoming suddenly pensive. /" 好吧，" 艾娥达夫人说，她显然是在沉思着。
 		9. Why you are still singing a **pensive** lay there for youth? /为什么你还在那里吟唱青春的哀歌？
-	15. vilipend
-		1. belittle
-		2. _synonymous：_ [deprecate](dic://deprecate), [depreciate](dic://depreciate)
-		3. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
-	16. ponder
+	16. vilipend
+		1. vilipend ['vɪlə,pend] vt. 诋毁；轻视。词根vil表cheap，本意是出售，-pend部分表示称量、估价，与pound英镑、ponderous沉闷的；笨重的（很量）和expensive昂贵的（需要花费很多两银子）等单词有关。因此vilipend的字面意思就是“to hold in lightvalue ”，比较vilify v.诽谤；轻视，-fy表使动。
+		2.  (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, villipend, deprecate, depreciate, belittle)
+		3. _synonymous：_ [deprecate](dic://deprecate), [depreciate](dic://depreciate)
+		4. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+	18. ponder
 		1. [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [ruminate](dic://ruminate), [speculate](dic://speculate)
 		2. _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
 		3. ponderance, 
 		4. ponderancy
 		5. ponderous
-			1. **weighty**重的;**unwieldy**笨拙的;**clunky**沉重的;**cumbersome**笨重的;**clumsy**笨拙的;**pompous**浮夸的;**laborious**勤劳的;**stately**庄严的;**disjointed**脱离开的,不连贯的;**tedious**冗长乏味的;**pretentious**自命不凡的;
-			2. ponderosity
+			1. a. 沉重的, 笨重的, 毫无趣味的, 生硬的
+			2. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian, ponderous, unwieldy, clunky, clumsy, cumbersome, lumbering)
+			3. **weighty**重的;**unwieldy**笨拙的;**clunky**沉重的;**cumbersome**笨重的;**clumsy**笨拙的;**pompous**浮夸的;**laborious**勤劳的;**stately**庄严的;**disjointed**脱离开的,不连贯的;**tedious**冗长乏味的;**pretentious**自命不凡的;
+			4. The upstairs hall seemed to shake as Mammy's ponderous weight came toward the door. /当嬷嬷的笨重身躯一步步来到门口时，仿佛楼道都震得颤抖了。她挑着两大桶水，显得那么沉重，把肩膀都压斜了。
+			5. But it's also slow, lumbering, and ponderous, a predator that occasionally has to scavenge to survive. /但同时也动作迟缓笨拙，这位捕食者有时要靠食腐才能生存。
+			6. ponderosity
 				1. _[platitudinous ponderosity](dic://platitudinous%20ponderosity)_ 陈词滥调
 				2. _[With the ponderosity steps](dic://With%20the%20ponderosity%20steps)_ 踏着沉重的脚步
-		6. ponderation, ponderable, ponderability
+		7. ponderation, ponderable, ponderability
 			1. _[many-sided ponderation](dic://many-sided%20ponderation)_ 多方面思考
 			2. _[philosophical ponderation](dic://philosophical%20ponderation)_ 哲学思考
 			3. _[legislative ponderation](dic://legislative%20ponderation)_ 立法思考
 			4. _[philosophic ponderation](dic://philosophic%20ponderation)_ 哲学思索
-	17. preponderant, 
-		1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
-		2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,
-		3. preponderate
-			1. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail)
-			2. **preponderance**多数;**chiefly**主要地;**favour**偏爱;**doubtless**无疑地, 肯定地;**accrue**自然增加;**prevail**盛行，流行;**outweigh**比…重;**admissible**可容许的;**presumption**推测;**consequently**所以, 因此;**favor**喜欢;
-		4. preponderance
+	19. preponderate
+			1. vi. 占优势, 主宰
+			2. - v. （在重量、影响、重要性等方面）占优势，胜过
+			3. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail)
+			4. **preponderance**多数;**chiefly**主要地;**favour**偏爱;**doubtless**无疑地, 肯定地;**accrue**自然增加;**prevail**盛行，流行;**outweigh**比…重;**admissible**可容许的;**presumption**推测;**consequently**所以, 因此;**favor**喜欢;
+			5. In the coin of many countries the silver preponderates. /在许多国家的硬币中， 白银占优势。
+			6. This did not simplify the situation, for there was no denying that unfavourable criticisms preponderatedin Betton's correspondence. /这并没有简化情况，因为不可否认的是，在贝顿的信件中，不利的批评占了绝大多数。
+		1. preponderant
+			1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
+			2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,
+		2. preponderance
 			1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
 			2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,确凿的;
-	18. propensity
-		1. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
-		2. **tendency**倾向，趋势;**penchant**嗜好;**inclination**倾向;**willingness**自愿;**prone**有…倾向的，易于…的;**aversion**厌恶;**ability**能力，能耐;**unwillingness**不情愿;**eagerness**渴望;**habitually**习惯地;**affinity**吸引力
-		3. _propensity to consume_ 消费倾向
-		4. _marginal propensity_ 边际倾向
-		5. _marginal propensity to consume_ [经]边际消费倾向
-	19. equiponderate
+	20. propensity
+		1. (predilection, propensity, penchant, proclivity, )
+		2. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
+		3. **tendency**倾向，趋势;**penchant**嗜好;**inclination**倾向;**willingness**自愿;**prone**有…倾向的，易于…的;**aversion**厌恶;**ability**能力，能耐;**unwillingness**不情愿;**eagerness**渴望;**habitually**习惯地;**affinity**吸引力
+		4. _propensity to consume_ 消费倾向
+		5. _marginal propensity_ 边际倾向
+		6. _marginal propensity to consume_ [经]边际消费倾向
+		7. 
+	21. equiponderate
 		1. vt. 使…相称；使…重量相等; vi. 重量相等; adj. 等重的;
 		2. equiponderant, equiponderancy
 		3. equiponderance
-	20. pansy
+	22. pansy
 		1.  [Viola tricolor hortensis](dic://Viola tricolor hortensis)
 		2. [sissy](dic://sissy), [pantywaist](dic://pantywaist), [milksop](dic://milksop), [Milquetoast](dic://Milquetoast)
 		3. [fagot](dic://fagot), [faggot](dic://faggot), [fag](dic://fag), [fairy](dic://fairy), [nance](dic://nance), [queen](dic://queen), [queer](dic://queer), [poof](dic://poof), [poove](dic://poove), [pouf](dic://pouf)
 		4. _n._ [viola](dic://viola), [coward](dic://coward), [gay man](dic://gay man), [shirtlifter](dic://shirtlifter)
 		5. **coward**懦夫，懦弱的人;**flower**花;**moron**痴愚者;**sissy**胆小鬼;**bitch**母狗，母狼;**daisy**雏菊;**cowardly**怯懦的，懦弱的;**hater**怀恨者;**tulips**郁金香;**idiot**白痴;**lilac**淡紫色;
-	21. poise
+		6. You were fighting there like pansies. /你们刚才打的和女人打架似的。
+		7.  In some places the pansy is better known under the name of " heart's-ease. " /在有些地方, 人们更习惯于把三色堇称为“心安草”。
+	23. poise
 		1. [aplomb](dic://aplomb), [assuredness](dic://assuredness), [cool](dic://cool), [sang-froid](dic://sang-froid)
 		2. [brace](dic://brace)
 		3. [balance](dic://balance)
@@ -5378,18 +5548,24 @@
 			2. _n._ [weight](dic://weight)
 			3. _v._ [oppose](dic://oppose), [counterbalance](dic://counterbalance)
 			4. **antenna**天线;**dipole**偶极;
+			5. His robust strength was a counterpoise to the disease. /他身体强壮抵住了这疾病。
+			6. the organization sees the power of Brussels as a counterpoise to that of London. /该组织视布鲁塞尔为伦敦的抗衡力量。
+			7. The imagination, however, is heated, and the feelings rendered fastidious, if not sophisticated; or, a counterpoise of judgment is not acquired, when the heart still remains artless, though it becomes too tender. /然而，想象力是炽热的， 感情即使不复杂， 也变得挑剔； 或者，当心仍然保持朴素， 尽管它变得过于温柔时， 没有获得判断力的平衡点。
 		11. composure
 			1. _n._ [disposition](dic://disposition), [temperament](dic://temperament)
 			2. **poise**平衡;**calmness**平静，安宁;**demeanor**行为;**calm**静的，平静的;**tact**老练，圆通，得体，乖巧;**temper**脾气;**toughness**有粘性;**confidence**信任;**tenacity**固执;**fortitude**坚韧, 刚毅;**gentleness**温和;
-			3. discomposure
-				1. _n._ [embarrassment](dic://embarrassment), [anxiety](dic://anxiety), [disposition](dic://disposition), [temperament](dic://temperament)
-				2. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
-				3. **nervousness**神经质,焦躁,胆小;**apprehension**理解;**composure**镇静, 沉着;**countenance**面容，表情;**astonishment**惊讶, 惊奇;**indignation**愤怒, 愤慨, 气愤;**anguish**苦闷;**melancholy**忧郁, 悲哀;**trembling**发抖;**embarrassment**困窘;**discomfort**不舒适;
-5. space
-6. spade
+			3. her veneer of composure cracked a little. 她的表面镇定还是露出了破绽。
+			4. " Open the door! " she yells, really losing her composure now. /“开门！”她朝欧维吼，情绪已经全面失控。
+			5. And it gives you a moment to pause and regain your composure if needed. /需要的时候，这也可以给你一点时间休息、平复情绪。
+		12. discomposure
+			1. _n._ [embarrassment](dic://embarrassment), [anxiety](dic://anxiety), [disposition](dic://disposition), [temperament](dic://temperament)
+			2. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
+			3. **nervousness**神经质,焦躁,胆小;**apprehension**理解;**composure**镇静, 沉着;**countenance**面容，表情;**astonishment**惊讶, 惊奇;**indignation**愤怒, 愤慨, 气愤;**anguish**苦闷;**melancholy**忧郁, 悲哀;**trembling**发抖;**embarrassment**困窘;**discomfort**不舒适;
+4. space
+5. spade
 	1. spdaer
 	2. n. 铲具；用铲的人
-7. span
+6. span
 	1.  [couple](dic://couple), [pair](dic://pair), [twosome](dic://twosome), [twain](dic://twain), [brace](dic://brace), [yoke](dic://yoke), [couplet](dic://couplet), [distich](dic://distich), [duo](dic://duo), [duet](dic://duet), [dyad](dic://dyad), [duad](dic://duad)
 	2. [bridge](dic://bridge)
 	3. [straddle](dic://straddle)
@@ -5403,7 +5579,7 @@
 	11. _span length_ 跨度距离；杆间距离
 	12. _attention span_ 注意广度；注意力的持续时间
 	13. _long span bridge_ 长跨桥；大跨径桥
-8. space
+7. space
 	1. spatial
 		1. _adj._ [space](dic://space), [infinite](dic://infinite)
 		2. **temporal**现世的;**perceptual**知觉的,有知觉的;**geometrical**几何的;**geographic**地理学的;**topographic**地质的;**geographical**地理的;**visual**视觉的，视力的;**coherence**条理性,连贯性,一致性;**multidimensional**多维的;**three-dimensional**三维的;**mapping**绘图;
@@ -5417,7 +5593,7 @@
 	9. _spatial frequency_ 空间频率
 	10. _spatial relationship_ 空间关系
 	11. _spatial organization_ 空间组织；空间结构
-9. spin
+8. spin
 
 
 ### + \*spend- + = to make an offering, perform a rite
@@ -5580,14 +5756,15 @@
 		9. antispark
 	5. spread
 4. spurious
-	1. 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
-	2. _adj._ [false](dic://false), [illegitimate](dic://illegitimate), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
-	3. _n._ [true](dic://true), [legitimate](dic://legitimate), [genuine](dic://genuine), [echt](dic://echt)
-	4. **bogus**伪造的;**unsubstantiated**无事实根据的;**erroneous**错误的, 不正确的;**false**伪造的;**baseless**无根据的;**dubious**可疑的;**unfounded**无事实根据的;**nonsensical**无意义的;**unwarranted**没有根据的, 无正当理由的;**misleading**欺骗的;**untrue**不真实的;
-	5. _[spurious relationship](dic://spurious%20relationship)_  伪关系；虚假关系
-	6. _[spurious loyalty](dic://spurious%20loyalty)_ 虚假忠诚
-	7. _[spurious attractors](dic://spurious%20attractors)_ 伪吸引子
-	8. _[spurious pregnancy](dic://spurious%20pregnancy)_ 假孕; 虚孕; 假妊娠;
+	1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, )
+	2. 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
+	3. _adj._ [false](dic://false), [illegitimate](dic://illegitimate), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
+	4. _n._ [true](dic://true), [legitimate](dic://legitimate), [genuine](dic://genuine), [echt](dic://echt)
+	5. **bogus**伪造的;**unsubstantiated**无事实根据的;**erroneous**错误的, 不正确的;**false**伪造的;**baseless**无根据的;**dubious**可疑的;**unfounded**无事实根据的;**nonsensical**无意义的;**unwarranted**没有根据的, 无正当理由的;**misleading**欺骗的;**untrue**不真实的;
+	6. _[spurious relationship](dic://spurious%20relationship)_  伪关系；虚假关系
+	7. _[spurious loyalty](dic://spurious%20loyalty)_ 虚假忠诚
+	8. _[spurious attractors](dic://spurious%20attractors)_ 伪吸引子
+	9. _[spurious pregnancy](dic://spurious%20pregnancy)_ 假孕; 虚孕; 假妊娠;
 6. speak
 	1. 自古英语 specan,拼写变体自 sprecan,说话，交谈，来自 Proto-Germanic*sprekana,说话，来自 PIE*sprek,说话，可能来自 PIE*spreg,播洒，散开，展开，词源同 spark,spread.引申诸相关词义。
 	2. unspoke
@@ -6372,9 +6549,10 @@
 		2. _n._ [slow](dic://slow)
 		3. **voila**瞧;**hey**喂！;**gee**向右！前进！快！;**yep**是;**magically**如魔法般地,用魔法地;**oh**哦;**yup**是的;**nope**不是，没有;**then**当时;
 	62. restive
-		1.  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy))
-		2.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
-		3. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
+		1. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery, )
+		2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, )
+		3.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
+		4. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
 	63. solstice
 		1. _n._ [cosmic time](dic://cosmic time)
 		2. **winter**冬季;**sun**太阳;**springtime**春季，春天;**moon**月亮;**pagan**异教的;**Hanukkah**光明节;**sunrise**日出;**autumn**秋天;**summer**夏季;**eclipse**日或月食;**summertime**夏季;
@@ -7245,9 +7423,10 @@
 			3. [restrict](dic://restrict) 指把某人或物限制在一定范围之内。
 		6. **curtail**截断, 缩短;**prohibit**阻止，禁止;**limiting**限制的;**constrain**强迫, 强使;**inhibit**抑制;**allow**允许;**impede**阻止;**exclude**排除;**confine**限制;**limit**限度;**hinder**成为阻碍;
 	17. distrain
-		1. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
-		2. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
-	18. district
+		1. vt.vi. 扣押
+		2. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
+		3. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
+	19. district
 		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
 		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
 		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
@@ -7259,8 +7438,8 @@
 		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
 		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
 		11.  [zone](dic://zone)
-	19. distress
-	20. prestige, prestigious
+	20. distress
+	21. prestige, prestigious
 		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
 		2. [prestigiousness](dic://prestigiousness)
 		3. _n._ [standing](dic://standing)
@@ -7415,7 +7594,7 @@
 	3. _n._ [astonishment](dic://astonishment), [amazement](dic://amazement), [unconsciousness](dic://unconsciousness), [action](dic://action)
 	4. **astonishment**惊讶, 惊奇;**amazement**惊奇, 惊愕;**disgust**厌恶，嫌恶;**disbelief**不相信, 怀疑;**indifference**不关心,不在乎;**indignation**愤怒, 愤慨, 气愤;**euphoria**精神欢快，欣快;**ecstasy**狂喜;**awe**使敬畏;**helplessness**无可奈何状态;**fright**惊吓;
 	5. _[protective stupefaction](dic://protective%20stupefaction)_ 保护性昏迷
-4. stupefy
+4. stupefy (tumefy)
 	1. 来自拉丁语 stupere,震惊，困惑，词源同 stupid.-fy,使。
 	2. [besot](dic://besot)
 	3. [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [nonplus](dic://nonplus), [gravel](dic://gravel), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
@@ -7423,7 +7602,7 @@
 	5. _v._ [desensitize](dic://desensitize), [desensitise](dic://desensitise), [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle)
 	6. **amuse**使发笑;**dazzle**耀眼的光;**frighten**使惊吓;**arouse**引起;**stun**打昏;**excite**刺激…，使…兴奋;**amaze**使吃惊;**seduce**引诱;**humiliate**蒙羞;**overwhelm**覆盖, 淹没;**subdue**征服;
 	7. _[be quite confused and stupefied](dic://be%20quite%20confused%20and%20stupefied)_ 恍恍惚惚
-5. stupendous
+5. stupendous (egregious, stupendous, flagrant)
 	1. 来自拉丁语 stupere,震惊，困惑，词源同 stupid.-end,现在分词后缀，-ous,形容词后缀。引申词义极大的，使人惊叹的。
 	2. _adj._ [large](dic://large), [big](dic://big)
 	3. _n._ [small](dic://small), [little](dic://little)
@@ -8041,13 +8220,23 @@
 			4. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [deception](dic://deception), [deceit](dic://deceit)
 			5. **imitation**模仿, 仿效;**spoof**①滑稽的模仿;**parody**拙劣的模仿;**forgery**伪造;**persona**人物角色;**imitating**模仿;**skit**讽刺文;**fraud**欺骗;**fake**假货;**fraudulent**欺骗的,不诚实的;**comedian**喜剧演员;
 	13. resonate
-		1. [vibrate](dic://vibrate)
-		2.  [come across](dic://come across)
-		3. _v._ [sound](dic://sound), [go](dic://go)
-		4. **evoke**引起，唤起;**inspire**鼓舞;**resonant**共鸣的;**convey**传达;**amplify**放大，扩大;**relate**联系起来;**resonance**回响, 回荡;**embody**体现，使具体化;**powerfully**强大地;**excite**刺激…，使…兴奋;**connect**连接;
-		5. _[resonating](dic://resonating)_  v. 产生共鸣；回响；使产生联想；产生（电或机械）共振；（对某人）有重要性（resonate 的现在分词）; adj. 产生共鸣的; n. 感通; 
-		6. _[resonate with](dic://resonate%20with)_  与……共鸣; 共振;
-		7. resonance, resonant
+		1. re-,向后，往回，-son,声音，词源同 sound,sonorous.即回声，引申词义共鸣，回响。
+		2. v. （嗓音、乐器等）产生共鸣；发出回响；回荡
+		3. （使）回响，起回声
+		4. 使产生联想；引起共鸣；和…的想法（或观念）类似
+		5. [vibrate](dic://vibrate)
+		6.  [come across](dic://come across)
+		7. _v._ [sound](dic://sound), [go](dic://go)
+		8. **evoke**引起，唤起;**inspire**鼓舞;**resonant**共鸣的;**convey**传达;**amplify**放大，扩大;**relate**联系起来;**resonance**回响, 回荡;**embody**体现，使具体化;**powerfully**强大地;**excite**刺激…，使…兴奋;**connect**连接;
+		9. _[resonating](dic://resonating)_  v. 产生共鸣；回响；使产生联想；产生（电或机械）共振；（对某人）有重要性（resonate 的现在分词）; adj. 产生共鸣的; n. 感通; 
+		10. _[resonate with](dic://resonate%20with)_  与……共鸣; 共振;
+		11. the sound of the siren resonated across the harbour. /汽笛声在整个港口回荡。
+		12. the words resonate with so many different meanings. /这些词使人们想起很多不同的意义。
+		13. Dickens’s sparkling language and panoramic worldview continue to resonate. /狄更斯卓越的文字驾驭能力和广大的世界观让读者们持续产生共鸣。
+		14. So I think that's why it really resonates with folks. /所以我想也正因此它能引起人们的共鸣。
+		15. And they're not just here tonight because they resonated with audiences Hollywood often ignores. /他们今晚来这里不仅仅是因为他们要和好莱坞常常忽视的观众产生共鸣。
+		16. 
+		17. resonance, resonant
 	15. sonic
 		1. sonics
 		2. soniferous
@@ -8080,8 +8269,8 @@
 	27. sonogram
 	28. sonography
 	29. etc..
-2. sound
-3. swan
+3. sound
+4. swan
 
 
 ### + \*swep- +

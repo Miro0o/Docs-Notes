@@ -572,10 +572,11 @@
 	1. copy
 		1. copybook, copyboy, copycat, copydesk, copyhold, photocopy, xerocopy, copier
 	2. copious
-		1. **ample**丰富的;**prodigious**巨大的;**replete**充满的;**plenty**丰富，大量;**voluminous**卷数多的;**considerable**相当大的;**plethora**过剩;**extensive**广阔的, 广泛的;**innumerable**无数的, 数不清的;**abundant**充裕的;**scant**不足的;
-		2. [ample](dic://ample), [plenteous](dic://plenteous), [plentiful](dic://plentiful), [rich](dic://rich)
-		3. [abundant](dic://abundant) , [scarce](dic://scarce), [voluminous](dic://voluminous)
-	3. cornucopia
+		1. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, )
+		2. **ample**丰富的;**prodigious**巨大的;**replete**充满的;**plenty**丰富，大量;**voluminous**卷数多的;**considerable**相当大的;**plethora**过剩;**extensive**广阔的, 广泛的;**innumerable**无数的, 数不清的;**abundant**充裕的;**scant**不足的;
+		3. [ample](dic://ample), [plenteous](dic://plenteous), [plentiful](dic://plentiful), [rich](dic://rich)
+		4. [abundant](dic://abundant) , [scarce](dic://scarce), [voluminous](dic://voluminous)
+	4. cornucopia
 		1. _n._ [symbol](dic://symbol), [symbolization](dic://symbolization), [symbolisation](dic://symbolisation), [symbolic representation](dic://symbolic representation), [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
 		2. **plethora**过剩;**veritable**真正的，名副其实的;**myriad**无数的;**chock**木楔;**assorted**混杂的;**replete**充满的;**abundance**大量, 充足;**brimming**盈满的;**multitude**大量, 许多;**assortment**分类;**awash**被浪冲打的;
 		3. _[The cornucopia](dic://The%20cornucopia)_ 聚宝盆
@@ -583,7 +584,7 @@
 		5. _[stone cornucopia](dic://stone%20cornucopia)_ 石雕羊角
 		6. a cornucopia of employment opportunities. 充足的就业机会
 		7. the festival offers a cornucopia of pleasures. 节日带来了许多欢乐。
-	4. cornucopian
+	5. cornucopian
 2. **omni-** = 表示“全部，到处”。源自拉丁语 omnis "all."
 	1. omnibus
 	2. omnicompetent
@@ -636,7 +637,7 @@
 	7. opulence
 		1. [luxury](dic://luxury), [luxuriousness](dic://luxuriousness), [sumptuousness](dic://sumptuousness)
 		2. **opulent**富裕的;**elegance**典雅;**grandeur**庄严;**splendor**光彩;**luxury**奢侈，奢华;**sophistication**老练;**lavish**浪费的;**glamour**魅力，魔力;**extravagant**奢侈的, 铺张的;**luxurious**奢侈的;**sensuality**喜爱感官享受;
-		3. opulent
+		3. opulent (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut)
 			1. [deluxe](dic://deluxe), [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [princely](dic://princely), [sumptuous](dic://sumptuous)
 			2. **lavish**浪费的;**luxurious**奢侈的;**sumptuous**豪华的, 奢侈的;**extravagant**奢侈的, 铺张的;**decadent**颓废的;**ornate**华丽的;**elegant**高雅的，优雅的;**exquisite**精致的, 精美的;**glamorous**富有魅力的;**stately**庄严的;**regal**帝王的;
 	8. opus
@@ -665,28 +666,34 @@
 	9. soroptimist
 5. **ure-, euver-** = = work, 表示“工作”，是拉丁词根 oper- 的法语形式。源自拉丁语 operari "to work, operate," 借道法语时产生的变体。
 	1. inure
-		1.  [harden](dic://harden), [indurate](dic://indurate)
-		2. _v._ [habituate](dic://habituate), [accustom](dic://accustom)
-		3. **benefit**利益，好处;
-		4. _[inure to](dic://inure%20to)_  习惯于
-		5. _[inure to the benefit of](dic://inure%20to%20the%20benefit%20of)_  以其为受益人
-		6. 1. inure oneself to cold 使自己习惯寒冷
-		7. 1. The agreement inures to the benefit of the employees. 这协定对雇员的权益有利。
-	2. maneuver, outmaneuver
-	3. manoeuvre
-	4. manure
-		1. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
-		2. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
-		3. _n._ [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
-		4. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
-		5. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
+		1. in-进入，使 + ure, 工作，实践，练习，即经常练习，使习惯。
+		2.  [harden](dic://harden), [indurate](dic://indurate)
+		3. _v._ [habituate](dic://habituate), [accustom](dic://accustom)
+		4. **benefit**利益，好处;
+		5. _[inure to](dic://inure%20to)_  习惯于
+		6. _[inure to the benefit of](dic://inure%20to%20the%20benefit%20of)_  以其为受益人
+		7. 1. inure oneself to cold 使自己习惯寒冷
+		8. 1. The agreement inures to the benefit of the employees. 这协定对雇员的权益有利。
+	3. maneuver, outmaneuver
+	4. manoeuvre
+	5. manure
+		1. n. 肥料, 粪肥  
+		2. vt. 施肥于
+		3. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
+		4. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
+		5. _n._ [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
+		6. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
+		7. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
 			1. _green manure_ 绿肥；未熟的堆肥
 			2. _pig manure_ 猪粪；猪粪肥
 			3. _chicken manure_ 鸡粪
 			4. _animal manure_ 动物性杂肥，畜肥
 			5. _horse manure_ 马粪，马粪肥
-		6. muck
-		7. manuring, manurial
+		8. Sheep's little fertilizer pellets or manure is 30 percent carbon /绵羊的少量化肥颗粒或粪便含有30%的碳。
+		9. There isn't time to dig deeply and put in **manure** or compost /没有时间挖得再深些，并放入粪肥或堆肥。
+		10. Aerobium were added to the compost using chicken manure and wheat straw as raw materials.Effects of transformation promoter on the chicken manure compost fermentation were investigated. /摘要 选用鸡粪和小麦秸秆为原料进行高温好氧堆肥，研究促腐剂在鸡粪堆肥发酵中的应用。
+		11. muck
+		12. manuring, manurial
 #### + \*op- (2) + = to choose, prefer
 1. **opt-** = choose, 表示“选择”。源自拉丁语 optio "choice," optare "to choose," opinari "to be of an opinion"
 	1. adopt
@@ -824,6 +831,8 @@
 	6. perorate
 		1. _v._ [conclude](dic://conclude), [declaim](dic://declaim), [recite](dic://recite)
 		2. vi. 下结论；冗长地谈论；作结语
+		3. - v. 作长篇大论，冗长地谈论；（演讲）作结语，致结束语
+		4. 
 
 
 
@@ -861,9 +870,10 @@
 		2. oscillator
 			1. etc...
 		3. oscillation
-			1. self-oscillation
-			2. autooscillation
-		4. oscillating, non-oscillating
+			1. (oscillation, vasillation, scrupulous,  )
+			2. self-oscillation
+			3. autooscillation
+		5. oscillating, non-oscillating
 	3. osciducer
 	4. oscillector
 	5. oscillight
@@ -880,13 +890,19 @@
 	2. oscular
 		1. adj. 出水孔的；接吻的；嘴巴的
 	3. osculate
-		1. [kiss](dic://kiss), [buss](dic://buss)
-		2. **kiss**吻;**orifice**孔口;**anus**肛门;**tangent**切线的，相切的;
-		3. osculatory
-		4. osculation
+		1. vt. 接吻, 接触, 与...有共同特性  
+		2. vi. 有共通点
+		3. - v. （曲线或面）与（另一曲线或面）互成密切；亲吻
+		4. [kiss](dic://kiss), [buss](dic://buss)
+		5. **kiss**吻;**orifice**孔口;**anus**肛门;**tangent**切线的，相切的;
+		6. Throught numerous of GuangZhou Export Machindise Fair experience, can fluent **osculate** and negotiate business with foreign clients; /带着多次的广交会经验，能流利的和外商沟通，洽谈；
+		7. osculatory
+		8. osculation
 			1. [contact](dic://contact), [touch](dic://touch), [touching](dic://touching)
 			2. **kiss**吻;**intercourse**交往;**kissing**接吻的;**orifice**孔口;**anus**肛门;**mating**交配，交尾;
-		5. inosculate
+		9. inosculate
+			1. vt. 使连接，使吻合 
+			2. vi. 融合；结合
 	4. osculum
 	5. interosculate
 4. Auriga

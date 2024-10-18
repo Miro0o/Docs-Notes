@@ -12,6 +12,8 @@
 
 
 ## Intro
+> 🔗 https://textbook.cs161.org/web/sop.html
+
 - Same-origin policy: A rule that prevents one website from tampering with other unrelated websites
 	- Enforced by the web browser
 	- Prevents a malicious website from tampering with behavior on other websites

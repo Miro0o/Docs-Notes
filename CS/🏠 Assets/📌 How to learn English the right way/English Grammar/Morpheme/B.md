@@ -257,6 +257,29 @@
 		3. _n._ [high](dic://high), [high-pitched](dic://high-pitched)
 		4. **guitar**吉他，六弦琴;**drums**鼓;**guitars**吉他;**bassist**低音歌手;**saxophone**萨克斯管;**sax**萨克斯管;**trombone**长号，伸缩喇叭;**vocals**元音;**treble**三倍的;**percussion**碰撞;**drummer**鼓手;
 	12. basset
+	13. banter 
+		1. (raillery, give-and-take, backchat, persiflage, banter, )
+		2. (buffoonery, facetious, chaffing, badinage, bantering, quizzical, waggish)
+		3. [raillery](dic://raillery), [give-and-take](dic://give-and-take), [backchat](dic://backchat)
+		4. [kid](dic://kid), [chaff](dic://chaff), [jolly](dic://jolly), [josh](dic://josh)
+		5. _n._ [repartee](dic://repartee)
+		6. _v._ [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [cod](dic://cod), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait)
+		7. **bickering**争吵;**chatting**聊天;**joking**戏谑的;**flirting**玩弄;**antics**滑稽动作;**conversation**交谈, 谈话, 会话;**teasing**戏弄;**laughing**可笑的;**mocking**嘲弄的;**talking**说话的，多嘴的;**silliness**愚蠢;
+		8. [bantering](dic://bantering), [facetious](dic://facetious), [tongue-in-cheek](dic://tongue-in-cheek)
+		9. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+		10. _[bantering nature](dic://bantering%20nature)_ 戏谑性
+		11. _[bantering performance](dic://bantering%20performance)_ 谐谑表演
+		12. _[bantering novel](dic://bantering%20novel)_ 谐谑小说
+		13. _[bantering poem](dic://bantering%20poem)_ 谐谑诗
+		14. _[a bantering tone](dic://a%20bantering%20tone)_ 戏谑的口吻; 我;
+		15. the men bantered with the waitresses. /男人们和女招待谈笑逗趣。
+		16. He bantered with his grandchildren. /他和他的几个孙子逗乐。
+		17. The students exchanged banter with each other. /同学们互相开玩笑。
+		18. I really enjoy our banter at work! /我真的很喜欢我们工作时的玩笑！
+		19. Sure, I engaged in some friendly e-mail banter. /好吧，我确实有开一些无害的邮件玩笑。
+		20. Hello. Hello. All right, let's dispense with the friendly banter. /你好 好啊 得 我们就省掉假惺惺的友好吧。
+		21. You don't have to do the banter, but what's it cost me? /其实不用非得逗她 不过我又不会少块肉对吧？
+		22. It was banter. Has this country come to the point where you can't joke with the help? /我开玩笑呢。美国什么时候成这样了不能跟佣人开玩笑？
 
 
 ### bat- 表示“马鞍”。源自法语bast
@@ -399,48 +422,105 @@
 		6. bellicosity：[,bɛlə'kɑsəti] n. 好斗；好战  
 		7. belligerent：[bə'lɪdʒ(ə)r(ə)nt] adj.交战的，交战国的，好战的n.交战国
 	4. antebellum, postbellum
-	5. bellicose, belligerence, belligerent, 
-		1. belligerency, cobelligerent, belligerently
-	6. rebel
-		1. rebellious
+	5. belligerence
+		1. bell-战斗 + ger-带来 + -ence, 表名词。
+		2. n. 交战, 好战性, 斗争性
+		3. _n._ [hostility](dic://hostility), [enmity](dic://enmity), [ill will](dic://ill will), [disagreeableness](dic://disagreeableness)
+		4. **aggression**进攻;**hostility**敌意;**belligerent**好战的;**arrogance**傲慢;**provocation**激怒;**defiance**蔑视;**incivility**粗鲁,粗野;**indifference**不关心,不在乎;**animosity**憎恨, 仇恨, 敌意;**hubris**傲慢;**impatience**急躁;
+		5. Five-and-a-half decades of history show us that such belligerence inhibits better judgment /55年的历史告诉我们，这样的敌对阻碍了更明智的判断。
+		6. Today though with the rise of China and Russia's renewed belligerence, a successor to the SR71 is now in testing, and is rumored to hit speeds as high as Mach 6. /今天，尽管随着中国的崛起和俄罗斯的新好战， SR71 的继任者正在测试中，据传最高速度可达 6 马赫。
+		7. bellicose, belligerent, 
+		8. belligerency, cobelligerent, belligerently
+	7. rebel
+		1. [Reb](dic://Reb), [Johnny Reb](dic://Johnny Reb), [Johnny](dic://Johnny), [greyback](dic://greyback)
+		2. [insurgent](dic://insurgent), [insurrectionist](dic://insurrectionist), [freedom fighter](dic://freedom fighter)
+		3.  [maverick](dic://maverick)
+		4. [arise](dic://arise), [rise](dic://rise), [rise up](dic://rise up)
+		5.  [renegade](dic://renegade)
+		6. _n._ [Confederate soldier](dic://Confederate soldier), [revolutionist](dic://revolutionist), [revolutionary](dic://revolutionary), [subversive](dic://subversive), [subverter](dic://subverter), [reformer](dic://reformer), [reformist](dic://reformist)
+		7. _v._ [protest](dic://protest), [resist](dic://resist), [dissent](dic://dissent)
+		8. _adj._ [southern](dic://southern)
+		9. _n._ [northern](dic://northern)
+		10. **rebellion**叛乱;**rebellious**叛逆的;**renegade**变节者;**insurgent**起义的,叛乱的,造反的;**militant**好战的;**separatist**分离主义者,独立派;**revolt**反抗;**guerrilla**游击队员;**militia**义勇军;**uprising**起义;**militias**民兵;
+		11. _rebel against_ v. 反抗
+		12. rebel against exploitation /反抗剥削
+		13. The rebel army is attempting to subvert the government. /反叛军队企图颠覆政府统治。
+		14. Rebel troops laid waste the town. /叛军洗劫了这座城镇
+		15. You married one rebel and mothered another. /你不仅嫁了个反叛者 还生了一个。
+		16. rebellious
 			1. **defiant**挑衅的;**rebel**造反;**rebellion**叛乱;**rebelled**造反;**unruly**不守规矩的;**brash**仓促的，性急的;**renegade**变节者;**wayward**任性的;**mischievous**淘气的, 顽皮的;**stubborn**顽固的;**subvers**
 			2. [insubordinate](dic://insubordinate), [discontented](dic://discontented), [discontent](dic://discontent), [disloyal](dic://disloyal)
 			3. [subordinate](dic://subordinate), [contented](dic://contented), [content](dic://content), [loyal](dic://loyal)
-		2. rebellion
+			4. a child with a rebellious temper /一个脾气倔强的孩子
+		17. rebellion
 			1. **revolt**反抗;**insurrection**暴动;**uprising**起义;**rebel**造反;**mutiny**兵变;**rebellious**叛逆的;**rebelled**造反;**rebels**反叛者;**disobedience**不服从,违抗;**overthrow**打倒;**defiance**蔑视;
-		3. rebeldom
-	7. revel
-		2. **bask**晒太阳;**savor**使有风味;**relish**获得乐趣;**indulge**迁就;**enjoy**喜爱;**rejoice**高兴;**glorious**值得称道的;**yearn**渴望;**embrace**包含;**delight**高兴;**partake**参与;
-		3. [racket](dic://racket), [make whoopie](dic://make whoopie), [make merry](dic://make merry), [make happy](dic://make happy), [whoop it up](dic://whoop it up), [jollify](dic://jollify), [wassail](dic://wassail)
-		4. [delight](dic://delight), [enjoy](dic://enjoy)
+		18. rebeldom
+	12. revel
 		5. [revelry](dic://revelry)
-		6. **revel in**:  着迷；得意；得意于；沉迷于
-		7. revelry
-		8. reveller
-		9. reveler
-	8. duel
-		1. deullist
-3. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
-	1. polemic
-		1. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
-		2. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)
-		3. [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
-		4. polemics
-		5. polemical
+		9. [delight](dic://delight), [enjoy](dic://enjoy)
+		8. [racket](dic://racket), [make whoopie](dic://make whoopie), [make merry](dic://make merry), [make happy](dic://make happy), [whoop it up](dic://whoop it up), [jollify](dic://jollify), [wassail](dic://wassail)
+		7. **bask**晒太阳;**savor**使有风味;**relish**获得乐趣;**indulge**迁就;**enjoy**喜爱;**rejoice**高兴;**glorious**值得称道的;**yearn**渴望;**embrace**包含;**delight**高兴;**partake**参与;
+		8. **revel in**:  着迷；得意；得意于；沉迷于
+			1. She seems to revel in annoying her parents. /她似乎以惹父母生气为乐。
+			2. He positively revelled in the cult of difficulty /毕加索肯定是在享受对挑战难度的迷恋中。
+			3. She said she wasn't hungry. Can't we just revel in her absence? /她说了她不饿。我不不能享受她的缺席吗？
+			4. He revels in the sensuality of his post-lovemaking state. /他陶醉于做爱后状态的感官享受。
+		10. revelry
+			1.  [revel](dic://revel)
+			2. _n._ [merrymaking](dic://merrymaking), [conviviality](dic://conviviality), [jollification](dic://jollification)
+			3. **celebration**庆祝;**raucous**沙哑的;**mayhem**大混乱, 大破坏;**drunken**喝醉的;**orgy**狂欢宴会;**extravaganza**娱乐表演;**madness**疯狂;**frenzied**狂乱的;**joyous**令人高兴的;**rowdy**吵闹的;**frenzy**狂怒;
+			4. The sound of revelry filled the house yesterday. /昨天这个屋子里充满了欢闹声。
+			5. sounds of revelry issued into the night. /纵酒狂欢的喧闹声响彻夜空。
+			6. In the debate between economics and epidemiology, local officials generally took the side of money and revelry. /在就经济PK流行病展开的辩论中，地方官员大多选择了金钱和狂欢。
+		11. reveller
+		12. reveler
+	14. duel
+		1. du-二 + el[=bell斗] → 二个人斗 → 决斗。
+		2.  来自拉丁语 duellum,战争，打斗，词源同 bellicose,Bellona.但后来受拉丁语 duo 及对骑士精神的向往，引申词义决斗，特指一对一的公平的决斗。
+		4. duellist
+			1. n. 决斗者
+2. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
+	1. polemic (prole)
+		1. 来自希腊语 polemos,战争，战斗。比喻用法。
+		2. a. 争辩的, 好争论的  
+		3. n. 激烈争论; 辩论术, 辩论法
+		4. [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
+		5. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)
+		6. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
+		7. He wrote a splendid polemic in my favour. /他写了一篇出色的文章为我辩护。
+		8. It is a polemic framed as a personal quest. /这是一本以个人探索为论辩框架的书。
+		9. The result is a lively mix of scholarship, reporting and polemic /最终，Studwell 把学术研究、调查报道以及书面论战生动地糅为一体。
+		10. People continued their pointless polemic day and night. /人们整天继续着无意义的争论。
+		11. 
+		12. polemics
+		13. polemical
 			1. **theological**神学的;**dogmatic**教条的;**ideological**观念学的;**argumentative**好辩的,争论的;**rhetorical**修辞的;**scholarly**学术性的;**provocative**刺激的;**satirical**含讽刺意味的, 嘲讽的;**confrontational**对抗;**rhetoric**修辞，修辞学;**philosophical**哲学的;
-		6. polemicist
-		7. polemicize
-	2. polemist
-		1. **theologian**神学家;**philosopher**哲学家;**essayist**随笔作家，散文家;**jurist**法官;**thinker**思想家;**humanist**人道主义者;**journalist**记日志者;**linguist**语言学家;**clergyman**牧师;**poet**诗人;**historian**历史学家, 史学工作者;
-	3. polemize
-		1. [quarrel](dic://quarrel), [dispute](dic://dispute), [scrap](dic://scrap), [argufy](dic://argufy), [altercate](dic://altercate)
+			2. The book is slightly technical, eminently readable, consistently shocking, occasionally hectoring and unapologetically polemical. /该书以“专业门槛低、可读性强、时刻吸引读者兴趣、彻底颠覆药业形象、语言咄咄逼人又击中要害”而颇具特色。
+			3. Perhaps, he says, the gags would come easier if he were more polemical. /他说，或许，如果他更好辩一些，那些段子就会更容易响。
+			4. The letter was probably written for polemical impact. It is scarcely credible /这封信可能是为了起到引发争论的效果，内容并不可信。
+			5. On the other hand he was boldly and ardently casting his mystical and polemical writings upon the social battlefield. From 1900 to 1910 such work absorbed the greater part of his time and energy. /另一方面，他大胆而热情地将他的神秘和好战的作品投向社会战场。从 1900 年到 1910 年，这些工作占用了他大部分的时间和精力。
+		14. polemicist
+		15. polemicize
+	3. polemist
+		1. - n. 辩论家，争论者；善辩论者
+		2.  [polemicist](dic://polemicist), [polemic](dic://polemic)
+		3. **theologian**神学家;**philosopher**哲学家;**essayist**随笔作家，散文家;**jurist**法官;**thinker**思想家;**humanist**人道主义者;**journalist**记日志者;**linguist**语言学家;**clergyman**牧师;**poet**诗人;**historian**历史学家, 史学工作者;
+	5. polemize
+		1. - v. 争论；辩论
 		2. [polemise](dic://polemise), [polemicize](dic://polemicize), [polemicise](dic://polemicise)
+		3. [quarrel](dic://quarrel), [dispute](dic://dispute), [scrap](dic://scrap), [argufy](dic://argufy), [altercate](dic://altercate)
 
 
 ### bezzle- = 表示“毁灭”
-1. embezzle
-	1. **bribe**贿赂，收买;**steal**剽窃;**rob**抢劫;**procure**获得，取得;**seize**抓住;**bribes**赃物;**conceal**隐藏;**funds**基金;**kidnap**绑架;**repay**偿还;**blackmail**敲诈, 勒索;
-	2.  [defalcate](dic://defalcate), [peculate](dic://peculate), [misappropriate](dic://misappropriate), [malversate](dic://malversate)
+1. embezzle (misappropriate, embezzle)
+	1. em-进入，使 + bezzle, 毁灭，吞没。
+	2. vt. 盗用, 挪用
+	3. vt. 盗用；挪用；贪污
+	5. [defalcate](dic://defalcate), [peculate](dic://peculate), [misappropriate](dic://misappropriate), [malversate](dic://malversate)
+	4. **bribe**贿赂，收买;**steal**剽窃;**rob**抢劫;**procure**获得，取得;**seize**抓住;**bribes**赃物;**conceal**隐藏;**funds**基金;**kidnap**绑架;**repay**偿还;**blackmail**敲诈, 勒索;
+	6. she had embezzled $5,600,000 in company funds /她挪用了560万美元公司基金。
+	7. He's been accused by opposition legislators of embezzling funds from public companies. /反对党议员指控他挪用上市公司的资金。
+	8. Karim Wade denies charges of embezzling more than 200 million dollars, saying the accusations are politically motivated /卡里姆·瓦德否认有关侵吞2亿多美元资金的指控，称这些指控是出于政治动机。
 
 
 
@@ -860,19 +940,19 @@
 1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
 	1. fastidious (factitious)
 		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious)
-		2. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious)
-		3. 来自拉丁语 fastus,傲慢，骄傲，蔑视。其原义为骄傲的，过于骄傲的。并引申相关词义。
-		4. _adj._ [choosy](dic://choosy), [choosey](dic://choosey), [dainty](dic://dainty), [nice](dic://nice), [overnice](dic://overnice), [prissy](dic://prissy), [squeamish](dic://squeamish)
-		5. _n._ [unfastidious](dic://unfastidious)
-		6. **weblog**网络日志;**zealous**热心的，热情的，积极的;**meticulous**极仔细的;**write-up**报导,评论;**admirable**令人钦佩的;
-		7. _[fastidious](dic://fastidious)_  adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
-		8. _[be fastidious](dic://be%20fastidious)_  讲究的; 挑剔; 吹求;
-		9. the child seemed fastidious about getting her fingers sticky or dirty. 这女孩似乎特别怕把手指弄得黏乎乎、脏兮兮的。
-		10. Decliners are fastidious folk, they won't touch a door knob without sanitising it, let alone shake hands. /后退式的人比较挑剔，如果门把手不消毒都不会碰，更不要说握手。
-		11. How was it that a man so exact and fastidious could have made this error of a day? /现在人们要问，一个象他这样精细的人，怎会把日子记错的呢？
-		12. Let the high and mighty celebrate their greatness with fastidious etiquette. Let them even copy the rest of Europe if they must /让那些趾高气扬的人们去庆祝他们伟大的繁缛礼节，如果他们需要，就让他们去向欧洲其它国家去学吧。
-		13. fastidiousness
-		14. fastidiously
+		2. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious, captious, faultfinding,)
+		4. 来自拉丁语 fastus,傲慢，骄傲，蔑视。其原义为骄傲的，过于骄傲的。并引申相关词义。
+		5. _adj._ [choosy](dic://choosy), [choosey](dic://choosey), [dainty](dic://dainty), [nice](dic://nice), [overnice](dic://overnice), [prissy](dic://prissy), [squeamish](dic://squeamish)
+		6. _n._ [unfastidious](dic://unfastidious)
+		7. **weblog**网络日志;**zealous**热心的，热情的，积极的;**meticulous**极仔细的;**write-up**报导,评论;**admirable**令人钦佩的;
+		8. _[fastidious](dic://fastidious)_  adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
+		9. _[be fastidious](dic://be%20fastidious)_  讲究的; 挑剔; 吹求;
+		10. the child seemed fastidious about getting her fingers sticky or dirty. 这女孩似乎特别怕把手指弄得黏乎乎、脏兮兮的。
+		11. Decliners are fastidious folk, they won't touch a door knob without sanitising it, let alone shake hands. /后退式的人比较挑剔，如果门把手不消毒都不会碰，更不要说握手。
+		12. How was it that a man so exact and fastidious could have made this error of a day? /现在人们要问，一个象他这样精细的人，怎会把日子记错的呢？
+		13. Let the high and mighty celebrate their greatness with fastidious etiquette. Let them even copy the rest of Europe if they must /让那些趾高气扬的人们去庆祝他们伟大的繁缛礼节，如果他们需要，就让他们去向欧洲其它国家去学吧。
+		14. fastidiousness
+		15. fastidiously
 	3. fastuous 
 		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious)
 		2. (brandish, swank, boast, brag, flaunt, fastuous, fastidious)
@@ -1270,25 +1350,32 @@
 	7. fustin
 4. **fut-** = beat, “打，击”
 	1. confute, confutation
-		1. [disprove](dic://disprove)
-		2. _v._ [negate](dic://negate), [contradict](dic://contradict)
-		3. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
-		4. _confute an argument_ 驳斥某一论点; 驳倒一个论点;
-		5. restorers who sought to confute this view were accused of ignorance /试图驳斥这种观点的修复者被指责为无知。
-	2. refute, refutation (rebuke, rebuttal, )
-		1. [rebut](dic://rebut)
-		2. [rebut](dic://rebut), [controvert](dic://controvert)
-		3. [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
-		4. **disprove**反驳，证明…是虚假的;**substantiate**用事实支持;**contradict**矛盾;**rebuttal**反驳;**assertion**主张,维护;**discredit**败坏…的名声;**deny**否定，否认;**argument**争吵;**prove**证明;**cite**引用;**validate**确认;
+		1. (rebuttal, confute, rebut, demur, refute, refuse, decline, denounce, )
+		2. vt. 驳倒, 驳斥
+		3.  con-,表强调，-fut,击，打，词源同 beat,refute.即对打，驳斥。
+		4. [disprove](dic://disprove)
+		5. _v._ [negate](dic://negate), [contradict](dic://contradict)
+		6. **refute**反驳，驳斥;**contradict**矛盾;**disprove**反驳，证明…是虚假的;**doth**从事;**affirm**断言;**falsehood**谎言;**substantiate**用事实支持;**assert**断言;**hath**有;**deny**否定，否认;**dismiss**离开;
+		7. _confute an argument_ 驳斥某一论点; 驳倒一个论点;
+		8. restorers who sought to confute this view were accused of ignorance /试图驳斥这种观点的修复者被指责为无知。
+	3. refute, refutation (rebuke) 
+		1. (rebuttal, confute, rebut, demur, refute, refuse, decline, denounce, )
+		2. [rebut](dic://rebut)
+		3. [rebut](dic://rebut), [controvert](dic://controvert)
+		4. [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
+		5. **disprove**反驳，证明…是虚假的;**substantiate**用事实支持;**contradict**矛盾;**rebuttal**反驳;**assertion**主张,维护;**discredit**败坏…的名声;**deny**否定，否认;**argument**争吵;**prove**证明;**cite**引用;**validate**确认;
 			1. [contradict](dic://contradict) 指肯定地否认、反对或反驳某事，坚持相反的意见。
 			2. [deny](dic://deny) 普通用词，侧重否认意见或言论的真实性，尤指否定他人的指控或责难。
 			3. [oppose](dic://oppose) 普通的广泛用词。指不作争论或不提出论据而无理由地反对；也指任何温和、有理由的反对或否定。
 			4. [refute](dic://refute) 语气较强，强调凭推理或证据驳斥一项主张或言论。
-		5. refutal
-		6. refutable, 
-		7. irrefutable
+		6. refutal
+			1.  [falsification](dic://falsification), [falsifying](dic://falsifying), [disproof](dic://disproof), [refutation](dic://refutation)
+			2. _n._ [determination](dic://determination), [finding](dic://finding)
+			3. **refute**反驳，驳斥;**rebuttal**反驳;**accusation**指责;**assertion**主张,维护;**baseless**无根据的;**disprove**反驳，证明…是虚假的;**misrepresentation**不实的陈述;**substantiate**用事实支持;**allegation**陈述, 宣称, 辩解;**unsubstantiated**无事实根据的;**argument**争吵;
+		7. refutable, 
+		8. irrefutable
 			1. **undeniable**不可否认的;**unequivocal**只有一种含意的;**evidence**证据，证明;**proof**证明;**assertion**主张,维护;**conclusive**令人信服的,确凿的;**disprove**反驳，证明…是虚假的;**refute**反驳，驳斥;**verifiable**能作证的,能证实的;**circumstantial**详细的;**substantiate**用事实支持;
-		8. irrefutability
+		9. irrefutability
 
 
 ### + \* bheid- + = to split
@@ -3198,32 +3285,33 @@
 		13. coniferaldehyde
 		14. Coniferae
 	7. confer
-		1.  [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
-		2. [bestow](dic://bestow)
-		3. _v._ [hash out](dic://hash out), [discuss](dic://discuss), [talk over](dic://talk over), [award](dic://award), [present](dic://present)
+		1. (endow, confer, bestow, vest, grant, deign, impart, sanction)
+		2.  [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
+		3. [bestow](dic://bestow)
+		4. _v._ [hash out](dic://hash out), [discuss](dic://discuss), [talk over](dic://talk over), [award](dic://award), [present](dic://present)
 			1. [consult](dic://consult) 多指向权威或有识之士请教或咨询。
 			2. [negotiate](dic://negotiate) 正式用词，指双方通过争论或讨论最后达成协议等；也指通过商议从而解决问题。
 			3. [confer](dic://confer) 正式用词，强调对观点或意见的交换
-		4. **bestow**授予;**induce**引诱;**impart**给予，传授;**preclude**妨碍;**exert**运用，发挥;**assert**断言;**possess**持有;**granted**诚然;**mediate**调解;**sufficient**足够的;**signify**表示;
-		5. _confer with_ 协商；交换意见
-		6. _confer on_ vt. 授给（授予）
-		7. They often confer together. /他们经常在一起协商。
-		8. Jogging will confer striking benefits /慢跑会带来明显益处。
-		9. The Act confers powers of entry, search and seizure on the police. /该法案授予警察入室、搜查和扣押的权力。
-		10. moves were made to confer an honorary degree on her /为授予她荣誉学位而采取了一些行动。
-		11. I'm afraid, you'll have to confer, I can only accept one answer. /我恐怕你俩得商量一下，我只能接受一个答案。
-		12. He had casually conferred on me the freedom of the neighborhood. /他无意之中授予了我这一带地方的荣誉市民权。
-		13. conferrer
-		14. conferrable
+		5. **bestow**授予;**induce**引诱;**impart**给予，传授;**preclude**妨碍;**exert**运用，发挥;**assert**断言;**possess**持有;**granted**诚然;**mediate**调解;**sufficient**足够的;**signify**表示;
+		6. _confer with_ 协商；交换意见
+		7. _confer on_ vt. 授给（授予）
+		8. They often confer together. /他们经常在一起协商。
+		9. Jogging will confer striking benefits /慢跑会带来明显益处。
+		10. The Act confers powers of entry, search and seizure on the police. /该法案授予警察入室、搜查和扣押的权力。
+		11. moves were made to confer an honorary degree on her /为授予她荣誉学位而采取了一些行动。
+		12. I'm afraid, you'll have to confer, I can only accept one answer. /我恐怕你俩得商量一下，我只能接受一个答案。
+		13. He had casually conferred on me the freedom of the neighborhood. /他无意之中授予了我这一带地方的荣誉市民权。
+		14. conferrer
+		15. conferrable
 			1. _[conferrable](dic://conferrable)_  adj. 能授与的，可赠予的
-		15. conferment
+		16. conferment
 			1. _n._ [giving](dic://giving), [gift](dic://gift)
 			2. **honorary**荣誉的;**honours**优等成绩;**posthumous**死后的;**awarding**获奖情况;**fulfilment**履行,完成;**plenary**全体出席的;**commencement**开始, 开端;**doctorate**博士学位;**ceremony**典礼，仪式;
 			3. _[newly granted Master's degree conferment](dic://newly%20granted%20Master%27s%20degree%20conferment)_ 新增硕士学位
 			4. _[degree conferment](dic://degree%20conferment)_ 学位授予
 			5. _[conferment system](dic://conferment%20system)_ 封爵制度
 			6. Every day I am enjoying **conferment** which lives /Every day I am enjoying **conferment** which lives
-		16. conference
+		17. conference
 			1. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting), [association](dic://association), [discussion](dic://discussion), [give-and-take](dic://give-and-take), [word](dic://word)
 				1. [conference](dic://conference) 正式用词，一般指大型会议，如政府工作会议、国际学术交流会议、各国之间的协商、会谈等。   
 				2. [congress](dic://congress) 指国会、议会、代表大会等机构，尤指经选举产生的国家立法机构的大会或由这些机构召开的大会，也可指专业人员代表大会。  
@@ -4572,18 +4660,25 @@
 		3. Bill! Thank God, thank God—” Mrs. Weasley ran forward, but the hug Bill bestowed upon her was perfunctory /“比尔！感谢上帝，感谢上帝——”韦斯莱夫人跑上前去，比尔却只给了她一个勉强的拥抱。
 		4. Barban was less civilized, more skeptical and scoffing, his manners were formal, even perfunctory /巴尔班不那么文明， 更多的是怀疑和嘲笑， 他的举止很正式， 甚至是敷衍了事。
 	6. fungible
-		1. funct-活动 + -ible, 表形容词
-		2. _n._ [commodity](dic://commodity), [trade good](dic://trade good), [good](dic://good)
-		3. _adj._ [exchangeable](dic://exchangeable)
-		4. _n._ [unexchangeable](dic://unexchangeable)
-		5. of goods or commodities; freely exchangeable for or replaceable by another of like nature or kind in the satisfaction of an obligation
-		6. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
-		7. 代替物 （[拉丁语](%E6%8B%89%E4%B8%81%E8%AF%AD.html "拉丁语")：res fungibiles，德语：vetretbere Sachen，法语：choses fongibles，英语：fungible goods）在民法学上系指为[交易](%E4%BA%A4%E6%98%93.html "交易")上不注重物之个性，而可以同种类、品质及数量的其他物代替之物；于消费借贷及消费寄托[契约](%E5%A5%91%E7%B4%84.html "契约")，仅能以代替物为标的物。代替物与[不代替物](%E4%B8%8D%E4%BB%A3%E6%9B%BF%E7%89%A9.html "不代替物")相对，如金钱、酒、米及谷物等属之。
-		8. _[fungible freight](dic://fungible%20freight)_ 可代替的货物
-		9. _[fungible property](dic://fungible%20property)_ 可替代财产
-		10. _[fungible products](dic://fungible%20products)_ 可代换油品
-		11. _[fungible things](dic://fungible%20things)_ 翻译; 可代替的物品; 
-		12. _[fungible funds](dic://fungible%20funds)_ 可代替资金
+		1. a. 可取代的, 代替的  
+		2. n. 代替物
+		3. funct-活动 + -ible, 表形容词
+		4. _n._ [commodity](dic://commodity), [trade good](dic://trade good), [good](dic://good)
+		5. _adj._ [exchangeable](dic://exchangeable)
+		6. _n._ [unexchangeable](dic://unexchangeable)
+		7. of goods or commodities; freely exchangeable for or replaceable by another of like nature or kind in the satisfaction of an obligation
+		8. **commodity**商品, 货物;**immaterial**非物质的;**marketable**可卖的;**interchangeable**可互换的;**worthless**无价值的, 没有用处的;**intrinsically**从本质上;**intangible**难以捉摸的, 难以理解的, 无法确定的;**essentially**本质上;**inherently**天性地,固有地;**meaningless**无意义的;**scarce**缺乏的，不
+		9. 代替物 （[拉丁语](%E6%8B%89%E4%B8%81%E8%AF%AD.html "拉丁语")：res fungibiles，德语：vetretbere Sachen，法语：choses fongibles，英语：fungible goods）在民法学上系指为[交易](%E4%BA%A4%E6%98%93.html "交易")上不注重物之个性，而可以同种类、品质及数量的其他物代替之物；于消费借贷及消费寄托[契约](%E5%A5%91%E7%B4%84.html "契约")，仅能以代替物为标的物。代替物与[不代替物](%E4%B8%8D%E4%BB%A3%E6%9B%BF%E7%89%A9.html "不代替物")相对，如金钱、酒、米及谷物等属之。
+		10. _[fungible freight](dic://fungible%20freight)_ 可代替的货物
+		11. _[fungible property](dic://fungible%20property)_ 可替代财产
+		12. _[fungible products](dic://fungible%20products)_ 可代换油品
+		13. _[fungible things](dic://fungible%20things)_ 翻译; 可代替的物品; 
+		14. _[fungible funds](dic://fungible%20funds)_ 可代替资金
+		15. A note is just a little bit more fungible. /只是现金的流通性更强。
+		16. Oil may be fungible but oil infrastructure is not, notes Michael Tran of RBC Capital Markets. /加拿大皇家银行资本市场的迈克尔·特兰指出，石油也许是可替代的，但石油基础设施却不可或缺。
+		17. The fact that you can have distributed ledgers that accurately keep information that's not copyable or fungible, if you will, is a major computer science advance. /事实上，如果你愿意，你可以拥有准确保存不可复制或不可替代信息的分布式账本，这是计算机科学的一项重大进步。
+		18. But unlike currencies, where every token is of equal value and could be swapped for any other, NFTs have unique qualities which stop them from being interchangeable, or 'fungible' /但与货币不同， 在货币中，每个代币都具有相同的价值并且可以交换为任何其他代币，NFT 具有独特的品质， 这使得它们无法互换或“可替代” 。
+		19. Money's fungible. Everything's on the table /钱是可以互换的 所有事都有关系。
 
 
 ### + \*bhlag- +
@@ -5787,8 +5882,17 @@
 ## br
 ### broch- = to pierce, 表示“刺，缝”。
 1. broche
+	1. - adj. 织锦的；锦缎的 
+	2. n. 织锦
 2. brochette
 3. brochure
+	1.  [booklet](dic://booklet), [folder](dic://folder), [leaflet](dic://leaflet), [pamphlet](dic://pamphlet)
+	2. _n._ [book](dic://book)
+	3. **booklet**小册子;**pamphlet**小册子;**leaflet**传单;**flyer**飞鸟;**booklets**小册子;**handout**散发材料;**flier**飞行员;**advertisement**广告;**guidebook**旅行指南;**handbook**手册;**postcard**明信片;
+	4. _brochure design_ 宣传册设计；小册子设计；书刊画册设计
+	5. _sales brochure_ 售楼说明书；推广小册子
+	6. _travel brochure_ 旅游指南
+	7. the details contained in this brochure have been published in good faith . /这本册子中细节的披露出版是出于善意的。
 4. broach
 	1. n. 烧肉叉, 凿子, 钻头  
 	2. vt. 用凿子修琢(石块), 钻孔  
@@ -5798,8 +5902,17 @@
 	6. broker： ['brəʊkə] n.经纪人，中间人，掮客v.以中间人身份来谈判、安排  
 	7. brokerage：['brokərɪdʒ]  n. 佣金；回扣；中间人业务  
 	8. broach： [brəʊtʃ] n.钻头，凿子，胸针vt.提出，给……钻孔、开口，开始讨论
+	9. the salmon broach, then fall to slap the water. /大马哈鱼跃出水面，然后又“啪”的一声落回水里。
+	10. We broached our plans for the new year. /我们提出了新年计划
+	11. didn't know how to broach the subject tactfully; /不知道如何有技巧地提出主题；
+	12. I thought I’d better broach the matter with my boss. /我想我最好还是跟老板说一下这事。
 5. broccoli
 6. broker
+	1.  [agent](dic://agent), [factor](dic://factor)
+	2. _n._ [businessperson](dic://businessperson), [bourgeois](dic://bourgeois)
+	3. _v._ [negociate](dic://negociate), [negotiate](dic://negotiate), [talk terms](dic://talk terms)
+	4. **brokerage**经纪人业务;**trader**商人;**realtor**房地产经纪人;**agent**代理人，代理商;**intermediary**中间人;**salesperson**售货员，销售员;**lender**贷方;**investor**投资者;**dealer**商人;**buyer**采购员;**banker**银行家;
+	5. speculative brokers; speculative stocks /投机经纪人，投机股票
 7. brocade
 	1. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
 	2. _v._ [weave](dic://weave), [tissue](dic://tissue)

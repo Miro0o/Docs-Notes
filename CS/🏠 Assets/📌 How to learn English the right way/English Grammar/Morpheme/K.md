@@ -887,14 +887,17 @@
 			4. [free](dic://free), [inattentive](dic://inattentive)
 			5. [absorbed](dic://absorbed), [engrossed](dic://engrossed), [enwrapped](dic://enwrapped), [intent](dic://intent), [wrapped](dic://wrapped)
 			6. [confined](dic://confined), [imprisoned](dic://imprisoned), [jailed](dic://jailed)
-		2. captious
-			1. **argumentative**好辩的,争论的;**zealous**热心的，热情的，积极的;**dogmatic**教条的;**irritable**易怒的, 急躁的;**pompous**浮夸的;**perceptive**敏感的;**opinionated**固执己见的,武断的;**pious**虔诚的;**pretentious**自命不凡的;**reproach**责备;**inquisitive**好问的;
-			2. [faultfinding](dic://faultfinding)
-			3. [critical](dic://critical)
-		3. captivate, captivation
+		2. captious 
+			1. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious, captious, faultfinding,)
+			2. **argumentative**好辩的,争论的;**zealous**热心的，热情的，积极的;**dogmatic**教条的;**irritable**易怒的, 急躁的;**pompous**浮夸的;**perceptive**敏感的;**opinionated**固执己见的,武断的;**pious**虔诚的;**pretentious**自命不凡的;**reproach**责备;**inquisitive**好问的;
+			3. [faultfinding](dic://faultfinding)
+			4. [critical](dic://critical)
+			5. a captious pedant; an excessively demanding and faultfinding tutor /吹毛求疵的学究；过分苛求、吹毛求疵的导师。
+			6. 
+		4. captivate, captivation
 			1. **excite**刺激…，使…兴奋;**amaze**使吃惊;**dazzle**耀眼的光;**entice**诱使;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**entertain**娱乐;**attract**吸引;**amuse**使发笑;**arouse**引起;**delight**高兴;
 			2. _v._ [attract](dic://attract), [appeal](dic://appeal)
-		4. caption
+		5. caption
 			1. **photo**照片;**picture**照片，图画;**image**影像;**photograph**相片;**screenshot**屏幕截图;**alt**高音，中高音;**illustration**说明;**close-up**特写镜头;**blurb**简介, 推荐广告;**thumbnail**拇指甲,极小的东西;**closeup**特写镜头;
 	16. capable, 
 		1. capacious
@@ -929,46 +932,64 @@
 		1. **apostle**传道者;**monk**僧侣，修道士;**devotee**爱好者;**apostles**传道者;**Jesus**耶稣;**discipleship**做弟子的身份;**servant**仆人，佣人;**Christ**基督;**mentor**指导者，良师益友;**prophet**先知;**follower**追随者;
 		2. self-discipline, disciplinary, 
 		3. indiscipline
-	18. ==anticipate, emancipate, participate, principate==
+	18. anticipate
 		1. anticipant, anticipatory, anticipation, anticipative
-		2. emancipist
-		3. participal, participle, 
-		4. principal, principle, principium
-	19. municipal
-	20. occupy
+	19. emancipate
+		3. emancipist
+	20. participate
+		5. participal, participle, 
+	21. principate
+		7. principal, principle, principium
+	22. municipal
+		1. _adj._ [municipality](dic://municipality), [domestic](dic://domestic)
+		2. _n._ [foreign](dic://foreign)
+		3. **municipality**自治市;**provincial**省的;**city**城市，都市;**council**理事会;**wastewater**废水;**mayor**市长;**governmental**政府的;**sewage**污水;**mayoral**市长的;**county**郡，县;**federal**联邦的;
+		4. _municipal government_ 市政府
+		5. _municipal sewage_ 城市污水
+		6. _municipal engineering_ 市政工程
+		7. _municipal facilities_ 市政工程设施
+		8. _municipal waste_ 城市垃圾；城市废物；城市废料
+		9. _municipal refuse_ 城市垃圾
+		10. _municipal works_ 市政工程
+		11. _municipal bond_ 市政债券
+		12. _municipal council_ 市政委员会；市议会
+		13. _municipal court_ 市法院
+		14. An angry mob gathered outside the municipal building /一群愤怒的暴民聚集在市政大楼的外面。
+		15. the mayor was accused of using municipal funds for personal gain /市长被控挪用市政基金为个人谋利。
+	23. occupy
 		1. preoccupy
 			1. _v._ [control](dic://control), [command](dic://command), [assume](dic://assume), [usurp](dic://usurp), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
 			2. **preoccupation**全神贯注，入神;**distract**转移;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**amuse**使发笑;**arouse**引起;**ponder**仔细考虑;**occupy**占据，占领;**linger**逗留, 徘徊;**anxious**渴望的;**concentrate**专心于;
-	21. case, cash, cable
-	22. catch, cater
+	24. case, cash, cable
+	25. catch, cater
 		1. catchall, catchcry, catcher, catchpenny, catchphrase, catchy, catchword
 		2. catchment
-	23. chase (=catch, capture, )
+	26. chase (=catch, capture, )
 		1. smokechaser
 		2. purchase
 		3. enchase
 		4. chaser
-	24. chasseur, chassis
-3. **caps- 囊，辣椒**
+	27. chasseur, chassis
+11. **caps- 囊，辣椒**
 	1. capsicum
 	2. capsid
 		1. **RNA**核糖核酸;**cytoplasm**细胞质;**proteins**蛋白质;**virus**病毒;**subunit**亚组;**subunits**子单位;**membrane**膜;**HCV**高超声速巡航飞行器;**viruses**病毒;**genome**基因组;**protease**蛋白酶;
 	3. capsular, capsulate, capsule, capsulize
-4. **hav- = possess, (habban 「old english」, "to have, hold")**
+12. **hav- = possess, (habban 「old english」, "to have, hold")**
 	1. behave
 		1. well-behaved, misbehave
 		2. behaviour, beavior, behavioral
 	2. have
 	3. haven
 	4. 
-5. behoof
-6. behoove
-7. haft, heft
-8. heave
+13. behoof
+14. behoove
+15. haft, heft
+16. heave
 	1. upheave, upheaval
 	2. heaver, coal-heaver
-9. heavy
-10. copepod
+17. heavy
+18. copepod
 
 
 ### + \*kap-ro- +
@@ -1032,7 +1053,7 @@
 		4. capitation
 			1. capit-头 + -ation，即按人头收的税，是单词capitate 派生的名词。
 		5. bicapitate
-	6. capitulates (succumb, )
+	6. capitulates (recapitulate) (capitulate, subjugate, subdue, succumb)
 		1. 来自 capitulation 的回构词，原指协议，条款，来自 cap-,头，-ul,小词后缀。指小头，一条一条的条款，后指有条件投降，比较 chapter.
 		2. _v._ [surrender](dic://surrender), [give up](dic://give up)
 		3. **surrender**投降;**succumb**屈服;**renounce**宣布放弃;**abandon**离弃;**relinquish**交出, 让给;**concede**承认;**unwilling**不愿意的;**withdraw**撤消;**accept**接受;**ultimatum**最后通牒;**refuse**拒绝;
@@ -1052,7 +1073,7 @@
 			8. _[capitulation trade](dic://capitulation%20trade)_ 投降式交易
 			9. _[capitulation agreement](dic://capitulation%20agreement)_ 投降协议
 			10. _[practise capitulation and national betrayal](dic://practise%20capitulation%20and%20national%20betrayal)_ 投降卖国
-		10. recapitulate
+		10. recapitulate (capitulate)
 			1. re-重新 + capit-头 + -ul + -ate, 表动词 → 重新把头拿出来 → 概括要点。
 			2. _v._ [sum up](dic://sum up), [summarize](dic://summarize), [summarise](dic://summarise), [resume](dic://resume), [duplicate](dic://duplicate), [reduplicate](dic://reduplicate), [double](dic://double)
 			3. **summarize**总结, 概述;**elucidate**阐明,解释;**characterize**是…的特征, 以…为特征;**dissect**切细;**illustrate**给…加插图;**examine**调查;**explain**说明，解释;**conclude**推断出;**reconstruct**重建;**reiterate**反复地说,重申;**synthesize**合成;
@@ -1257,7 +1278,7 @@
 			1. _n._ [containerful](dic://containerful)
 			2. **tablespoon**大汤匙,大调羹;**teaspoon**一茶匙的量;**quart**夸脱;**tsp**一茶匙的量;**rinse**冲洗掉;**tbsp**汤匙;**gallons**加仑;**gallon**加仑;**spoonful**一匙;**detergent**洗涤剂;**bleach**使漂白，使变白;
 		29. blackcap
-	15. cape
+	15. cape (pall)
 		1. **robe**长袍，礼服;**tunic**束腰外衣;**costume**服装，装束;**cloak**斗蓬;**cowl**蒙头斗篷;**jumpsuit**跳伞装;**cod**鳕鱼;**vest**背心;**gown**长袍，长外衣;**superhero**超级英雄;**jacket**夹克;
 		2. [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground), [solid ground](dic://solid ground), [terra firma](dic://terra firma), [cloak](dic://cloak)
 		3. [ness](dic://ness)
@@ -1284,14 +1305,16 @@
 		13. capitalist
 		14. capitalism
 	17. capsize
-		1. overturn accidentally
-		2. [turtle](dic://turtle), [turn turtle](dic://turn turtle)
-		3. [overturn](dic://overturn), [turn over](dic://turn over), [tip over](dic://tip over), [tump over](dic://tump over)
-		4. **boat**小船;**lifeboat**救生艇，救生船;**rudder**飞机方向舵;**sail**航行;**shipwreck**海难, 船只失事;**aground**搁浅地;**boats**船艇;**sinking**沉没;**sailboat**帆船;**kayak**爱斯基摩人用的皮船;**sailing**航行，航海;
-		5. the craft capsized in heavy seas. 该船倾覆于汹涌的大海之中。
-	18. capstan
+		1. caps-头 + -ize, 表动词。即头往下栽的。
+		2. v. 翻覆, 倾覆
+		3. overturn accidentally
+		4. [turtle](dic://turtle), [turn turtle](dic://turn turtle)
+		5. [overturn](dic://overturn), [turn over](dic://turn over), [tip over](dic://tip over), [tump over](dic://tump over)
+		6. **boat**小船;**lifeboat**救生艇，救生船;**rudder**飞机方向舵;**sail**航行;**shipwreck**海难, 船只失事;**aground**搁浅地;**boats**船艇;**sinking**沉没;**sailboat**帆船;**kayak**爱斯基摩人用的皮船;**sailing**航行，航海;
+		7. the craft capsized in heavy seas. 该船倾覆于汹涌的大海之中。
+	19. capstan
 		1. **pulley**滑轮;**winch**卷扬机,绞车,辘轳;**schooner**纵帆船;**turntable**转盘;**spool**缠绕;**rudder**飞机方向舵;**spindle**轴;**servo**伺服;**outboard**外侧的;**rollers**压路机，长涌群;**shaft**柄;
-	19. capstone
+	20. capstone
 		1.  [finishing touch](dic://finishing touch), [copestone](dic://copestone)
 		2.  [copestone](dic://copestone), [coping stone](dic://coping stone), [stretcher](dic://stretcher)
 		3. _n._ [touch](dic://touch), [stone](dic://stone)
@@ -1300,14 +1323,14 @@
 		6. _[capstone project](dic://capstone%20project)_  顶点项目; 毕业项目;
 		7. **coursework**课程作业;**undergraduate**大学生, 大学肄业生;**thesis**论文;**semester**学期;**internship**实习医师,实习医师期;**graduate**授予…学位;**interdisciplinary**各学科间的;**dissertation**专题论文, 学位论文;**year-long**每年的，一年一次的;**doctoral**博士的;**two-part**三分之二;
 		8. This is called the capstone and is driven by horsepower. 这叫顶石，要用马来转动才行。
-	20. captain
+	21. captain
 		1. **skipper**船长;**commander**指挥官;**lieutenant**中尉;**sailor**水手，海员;**admiral**舰队司令;**squad**班, 小队;**sergeant**军士;**coach**教练;**colonel**陆军上校;**officer**军官，警官;**crew**全体人员，全体船员;
 		2. [commissioned military officer](dic://commissioned military officer), [commissioned naval officer](dic://commissioned naval officer), [policeman](dic://policeman), [police officer](dic://police officer), [officer](dic://officer), [ship's officer](dic://ship's officer), [leader](dic://leader)
 		3. mine-captain
 		4. captainship
 		5. captaincy
 			1. **captain**船长;**skipper**船长;**batsman**击球手，打者;**captains**船长;**cricket**蟋蟀;**cricketer**板球运动员;**ODI**开放式数据链路接口;**wicket**三柱门;**squad**班, 小队;**bowler**投球手;**Indies**印度地方，西印度群岛;
-	21. escape
+	22. escape
 		1. ex-向外 + cap-帽子，斗篷 → 被抓住的时候，从斗篷里钻出来逃跑 → 逃跑。
 		2. escape（逃跑）：脱掉身上的斗篷得以逃脱  
 		3. 在古代欧洲的战场上，被击败的战士为了保命，往往会使出“金蝉脱壳”的招数，在被敌人抓住斗篷时脱掉斗篷而摆脱敌人，或在被敌人追赶时主动脱掉斗篷，趁敌人去捡斗篷时赶紧逃掉。因为在古代，一件斗篷算是不菲的财产，有钱人才穿得起。英语单词escape（逃脱）就跟古人脱掉斗篷保命的做法有关。它来自拉丁语excappare，由ex（out of）和cappa（cape，斗篷）构成，字面意思就是“脱掉斗篷”。  
@@ -1336,47 +1359,50 @@
 			5. She knows nothing of her son’s escapades or anti-hero status /她对儿子的恶作剧或反英雄身份一无所知。
 			6. He undressed with excessive caution, and fell asleep congratulating himself that nobody knew of his escapade. /他小心翼翼地脱掉衣服，睡着了，庆幸自己没有人知道他的逃跑。
 		13. escapable
-	22. precipice (precipitate)
+	23. precipice (precipitate)
 		1. pre-前 + cip-头 + -ice → 前面是尽头 → 悬崖。
 		2. precipice - 英语中有为数不少的词，其终极词源可以一直追溯到拉丁语caput（头），capital即为其中之一。它来自caput的派生词capitālis'of the head'，因此最初也表示“头的”。英国诗人弥尔顿（John Milton, 1608-1674）在长诗《失乐园》中写了(Serpent's) capital bruise（头部的伤痕）这样的字句，其中capital一词即含此义。capital的几个常用词义均与“头”有联系。旧时一个人犯了capital crime（死罪）被判以capital sentence（死刑）或被处以capital punishment（极刑），不是被砍头就是被绞死。capital letter（大写字母）一般多位于句首和词首。capital还用以指“首都”、“首府”，该用法出自弥尔顿笔下，始见于《失乐园》。capital用以指“资本”则始于用牛的头数计算财富的时代，但这一用法直至18世纪才通用起来。除了capital，源自拉丁语caput的英语常用词还有cape（海角），captain（队长，船长），decapitate（斩首），chapter（章，回），precipice（悬崖），precipitate（突然下降；促成；沉淀）等。
 		3. **brink**边缘;**abyss**深渊;**cliff**绝壁;**verge**边缘;**cusp**尖端;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**edge**边缘;**ledge**壁架;**ravine**峡谷;**precarious**依靠机会的;
 		4. [cliff](dic://cliff), [drop](dic://drop), [drop-off](dic://drop-off)
-		5. 
-	23. cabbage
+		5. on the precipice of defeat. /处于失败的边缘
+		6. The precipice darkles in front. /山崖的前面是阴暗的。
+		7. They were perilously close to the edge of the precipice. /他们离悬崖边很近，十分危险。
+		8. It doesn't stand a chance on this precipice. /在这悬崖峭壁上，它没有任何机会。
+	24. cabbage
 		1. cabbagehead
 		2. **broccoli**花椰菜;**cauliflower**花椰菜;**kale**羽衣甘蓝;**asparagus**芦笋;**spinach**菠菜;**lettuce**莴苣;**potatoes**马铃薯;**celery**芹菜;**potato**土豆，马铃薯;**onions**洋葱;**beets**甜菜;
 		3. [pilfer](dic://pilfer), [purloin](dic://purloin), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift)
 		4. [boodle](dic://boodle), [bread](dic://bread), [clams](dic://clams), [dinero](dic://dinero), [dough](dic://dough), [gelt](dic://gelt), [kale](dic://kale), [lettuce](dic://lettuce), [lolly](dic://lolly), [lucre](dic://lucre), [loot](dic://loot), [moolah](dic://moolah), [pelf](dic://pelf), [scratch](dic://scratch), [shekels](dic://shekels), [simoleons](dic://simoleons), [sugar](dic://sugar), [wampum](dic://wampum)
 		5. [cultivated cabbage](dic://cultivated cabbage), [Brassica oleracea](dic://Brassica oleracea)
-	24. cadet
+	25. cadet
 		1. cadetship
 		2. **academy**学会;**sergeant**军士;**lieutenant**中尉;**officer**军官，警官;**trainee**新兵;**ROTC**后备军官训练队;**junior**年少的;**commander**指挥官;**military**军事的;**colonel**陆军上校;**captain**船长;
-	25. capa
+	26. capa
 		1. 斗牛士的红色斗篷
-	26. caparison
+	27. caparison
 		1. **armour**装甲;**chariot**二轮战车;**garb**装束;
 		2. [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
-	27. capeador (toreador, picador, Ecuador, Quixote)
+	28. capeador (toreador, picador, Ecuador, Quixote)
 		1. **tango**探戈舞曲;**bull**公牛;**Quixote**堂吉诃德;**flamboyant**显眼的, 浮夸的, 炫耀的;**gypsy**吉卜赛人;**knight**骑士，武士;**mistress**情妇;**cowboy**牧童;**ballerina**芭蕾舞女演员;**waltz**跳华尔兹舞;
-	28. cattle
+	29. cattle
 		1. [cows](dic://cows), [kine](dic://kine), [oxen](dic://oxen), [Bos taurus](dic://Bos taurus)
 		2. **livestock**家畜, 牲畜;**herds**畜群;**sheep**羊，绵羊;**cow**奶牛，母牛;**herd**兽群，畜群;**calves**小牛;**goats**山羊;**pasture**牧场;**grazing**牧草;**horses**马;**poultry**家禽;
 		3. cattleman
 			1. **rancher**大农场经营者;**cowboy**牧童;**cattle**牛;**ranch**大牧场;**farmer**农夫，农民;**rodeo**竞技者;**businessman**商人;**landowner**土地拥有者;**cowboys**牛仔;**livestock**家畜, 牲畜;**Texan**得克萨斯州的;
 			2. [stockman](dic://stockman), [stock raiser](dic://stock raiser), [stock farmer](dic://stock farmer), [ranch hand](dic://ranch hand)
 		4. cattle-lifter
-	29. chapeau, chapeaux
+	30. chapeau, chapeaux
 		1. headdress that protects the head from bad weather; has shaped crown and usually a brim
 		2.  [hat](dic://hat), [lid](dic://lid)
 		3. _n._ [headdress](dic://headdress), [headgear](dic://headgear)
 		4. **hat**帽子;**Monsieur**先生;**bonnet**软帽;**moustache**小胡子;**garb**装束;**scarf**围巾;
 		5. Do you think I should wear a chapeau /你觉得我该戴顶法式帽子吗？
-	30. chapel
+	31. chapel
 		1. **church**教堂;**cathedral**大教堂;**churchyard**墓地,境内;**altar**祭坛;**basilica**长方形会堂;**shrine**圣地;**monastery**修道院;**parish**教区;**convent**女修道院;**abbey**大修道院，大寺院;**cemetery**墓地;
 		2. [place of worship](dic://place of worship), [house of prayer](dic://house of prayer), [house of God](dic://house of God), [house of worship](dic://house of worship), [service](dic://service), [religious service](dic://religious service), [divine service](dic://divine service)
 		3. chapelgoer
 		4. antechapel
-	31. chaperon, chaperone
+	32. chaperon, chaperone
 		1. chaperon这个单词与cap棒球帽、cape袍子、escape逃脱（run out of the cape）、chief主要的、chieftain酋长、captain队长、capital首都以及chef厨师长（head cooker）和chattel动产；奴隶（财富的体现，论“头”数）等同根，而这个词根与head同源。袍子或斗篷等，或者有一个帽兜来盖头，或从头套着穿。
 		2. _n._ [defender](dic://defender), [guardian](dic://guardian), [protector](dic://protector), [shielder](dic://shielder)
 		3. _v._ [escort](dic://escort)
@@ -1384,27 +1410,27 @@
 		5. He laughed too, and so loudly that several of the chaperons in the corner looked their way. /他也跟着笑，笑得那么响，以致角落里的几位陪护人都朝这边观看。
 		6. " Caroline, my Caroline! Jump in, or your chaperon will go off without you" /“卡罗琳，我的卡罗琳！跳进去，否则你的伴侣会在没有你的情况下离开” 。
 		7. chaperonage
-	32. chapfallen (crestfallen)
-	33. chapiter
+	33. chapfallen (crestfallen)
+	34. chapiter
 		1.  [capital](dic://capital), [cap](dic://cap)
 		2. _[chapiter lamp](dic://chapiter%20lamp)_ 柱头灯
-	34. chaplain
+	35. chaplain
 		1. **pastor**牧师;**clergyman**牧师;**vicar**教区牧师，教堂牧师;**rector**校长;**deacon**执事;**priest**牧师;**sergeant**军士;**bishop**主教;**clergy**牧师;**counselor**顾问;**chapel**小教堂;
 		2. [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth)
-	35. chaplet, chapleted
+	36. chaplet, chapleted
 		1. **rosary**玫瑰园，玫瑰花坛;**beads**玻璃珠;**prayer**恳求;**recitation**背诵;**garland**花环;**saint**圣徒;**necklace**项链;**wreath**花冠;**bracelet**手镯;**beaded**珠状的;
 		2. [wreath](dic://wreath), [garland](dic://garland), [coronal](dic://coronal), [lei](dic://lei)
 		3. Over this chaplet my brother Bartholomew and I had some little discussion. /关于这串项圈，我的哥哥巴索洛谬和我也曾经讨论过。
-	36. chapter
-	37. chattel
+	37. chapter
+	38. chattel
 		1. chattel - cattle原指“动产”，系拉丁语capitāle（资产）之讹误。中世纪英国农民觉得该拉丁语借词拗口难读，将它改成catel，最后形式又演变为cattle。农民的主要资产是牲畜，特别是牛，旧时一个人的财富也以牛的头数来计算，因此cattle一词便逐渐地转指“牛”了。在法语中capitale也因讹误而作chatel，该词进入英语以后作chattel，但词义无甚变化，仍指“动产”。可见cattle与chattel同出一源，其实连同capital（资本）一词，均可一直追溯到拉丁语caput（头）。（参见capital）
 		2. **slavery**奴役;**servitude**奴隶状态;**slave**奴隶;**lien**留置权;**Slaves**斯拉夫人;**property**财产;**borrower**剽窃者，借用人;
 		3. [personal property](dic://personal property), [personal estate](dic://personal estate), [personalty](dic://personalty), [private property](dic://private property)
 		4.  [personal chattel](dic://personal chattel), [movable](dic://movable)
-	38. chef
+	39. chef
 		1. **cooks**一般的厨师和炊事人员;**waiter**服务员，侍者;**restaurant**饭店, 餐馆;**culinary**厨房的;**foodie**美食家;**cook**烹调，煮;**gourmet**美食家;**cuisine**烹饪，烹调法;**pastry**油酥点心;**baker**面包师;**cookery**烹调术;
 		2. 
-	39. multicipital
+	40. multicipital
 3. **capill-** = hair, 表示“头发，毛发”，专业词汇里译作“毛细（血）管”。是表示“头”的词根 cap- 的指小形式。源自拉丁语 caput "head"
 	1. capillarity
 		1. **capillary**毛细管;**viscosity**黏稠;**porosity**有孔性，多孔性;**permeability**弥漫;**evaporation**蒸发;**diffusion**扩散，传播;**elasticity**弹性;**adhesion**支持;**membrane**膜;**conductivity**传导性;**solubility**溶度,溶性,可解决性,可解释性,溶解性;
@@ -2012,11 +2038,45 @@
 		13. cautery
 			1. caut-烧 + -ery
 			2. n. 烧灼, 烧灼器, 腐蚀
+		14. thermocaustica
+		15. portcaustic
+		16. encaustic (ink)
+			1. a. 上釉烧的, 烧上彩色的, 烧上蜡的  
+			2. n. 蜡画法, 蜡画
+			3. encaustic [en'kɔːstɪk] adj.烧上蜡的；上釉烧的，n.蜡画法；蜡画。前缀en-同in-，词根caust-表燃烧。一些贝壳类动物的尸体混以染料并经过加热和燃烧后能得到紫红色的墨水，罗马皇帝们用来签署文件。你猜后来怎么着？encaustic这个单词太长了，但人性是懒惰的，所以最终encaustic简化成了ink墨水。 ​​​​
+			4. 
+		17. caustics
+		18. causticize
+		19. causticity
+		20. caustically
+		21. anticaustic
 	4. holocaust（holograph, halo）
 		1. n. 大屠杀, 大火灾, 毁灭, 大规模烧杀
 		2. holo-全部 + caust-烧 → 全部烧光。
 	5. hypocaust
 		1. n. 火坑式供暖, 热坑
+	6. ink 
+		1. n. 墨水，油墨；<非正式>文字宣传，纸媒宣传；（章鱼、乌贼等海洋生物分泌出的）墨汁 
+		2. v. 签订，签署（合同等）；涂墨水于（某物）
+		3. _n._ [liquid](dic://liquid), [liquid body substance](dic://liquid body substance), [bodily fluid](dic://bodily fluid), [body fluid](dic://body fluid), [humor](dic://humor), [humour](dic://humour)
+		4. _v._ [sign](dic://sign), [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full)
+		5. **inkjet**喷墨打印机;**pen**钢笔;**toner**调色剂，增色剂;**pigment**颜料;**pens**钢笔;**watercolor**水彩;**vellum**上等皮纸;**printer**打印机;**printing**印刷;**pencil**铅笔;**stencil**模版，蜡纸;
+		6. a blot of ink on the paper /纸上的墨水污迹
+		7. There is a blot of ink on the paper. /纸上有一滴墨水渍。
+		8. The U.S. Postal Service (USPS) continues to bleed red ink. /美国邮政署（USPS）继续深陷赤字。
+		9. “It might be invisible ink! ” she whispered. /“也许是隐形墨水！”她小声说。
+		10. And fingerprints are just inked in sweat. /指纹只是在汗水上涂上墨水。
+		11. There was probably very little ink in the bottle. /可能是瓶中的墨水很少。
+		12. The inker then is the one that applies black ink. /接下来的墨笔工是用黑色墨水作画的人。
+		13. inkling (inkling, glimmering, glimmer, intimation, clue, idea)
+			1.  [intimation](dic://intimation), [glimmering](dic://glimmering), [glimmer](dic://glimmer)
+			2. _n._ [suggestion](dic://suggestion)
+			3. **clue**线索;**hint**暗示;**indication**指示, 表示;**idea**主意;**doubt**怀疑;**knew**知道;**thought**思想;**sort**种类;**wonder**惊奇;**glimpse**一瞥，一看;**sense**官能, 感官;
+			4.  He gave me an inkling of what was to come /他给我暗示将要发生什么事。
+			5. the records give us an inkling of how people saw the world. /这些记录让我们粗略地了解过去人们对世界的看法。
+			6. Doctors can get an inkling by questioning people about their age, diet, infrequency of exercise and smoking habits—but it is only an inkling, not a direct measurement. /医生可以通过询问病人的年龄、饮食、锻炼的频率以及吸烟的习惯得到初步印象——但这仅仅是初步印象，并不是直接测量。
+			7. You get one idea, and an inkling of another. /听到这儿，你马上就有主意了，暗示另一个想法。
+			8. Oh, come on. What do you think happened? Not an inkling? Never considered the possibility /哦，拜托。你觉得发生了什么？完全没概念吗？就没想想别的可能性？
 2. calm
 	1. 词源同 calorie.原指酷暑下的安静，后指人心静，类似汉语心静自然凉的意味。
 	2. [composure](dic://composure), [calmness](dic://calmness), [equanimity](dic://equanimity)
@@ -2237,7 +2297,31 @@
 3. **cine-** = film, 表示“电影”。源自希腊语 kinein "to move."
 4. **cine-, kine-, cinesis-, -kinesis** 表示“运动，活动”。源自希腊语 kinein "to move."
 5. **cit-** = quote, call, 表示“引用，唤起”。源自拉丁语 citare "to summon, urge, call; to put in sudden motion, call forward; arouse, excite."
+	1. cite
+		1. 来自 PIE*keie,运动，移动，词源同 cinema,conation.此处引申词义召唤，援引。
+	2. excite
+		1. vt. 刺激, 使兴奋, 激励
+		2. ex-出 + cit-唤醒 + -e → 引出情绪。
+		3.  ex-,向外，-cit,呼喊，移动，词源同 cite,cinema.后用于心理学，指唤醒，兴奋。
+		4. 
+	3. incite
+		1. vt. 刺激, 激励, 引诱
+		2. in-进入，使 + cit-召唤 + -ation，引申词义煽动，刺激。
+	4. recite
+		1. re-向后，往回 + cite召唤，援引。引申词义想起，背诵，朗诵。
+	5. resusciate
+		1. re-再 + sus-下 + cit-唤起 + -able, 表形容词
+		2. resuscitable
+	6. solicit
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit)
+		2. 来自拉丁语 sollicitare,打扰，麻烦，刺激，煽动，来自 sollus,整个的，全部的，词源同 solid,-cit,召唤，使兴奋，词源同 cite,excite.后引申词义请求，恳求，以及俚语词义招嫖，拉客等。
+		3. solicitor
+		4. solicitous
+	8. oscitant
+	9. 
 6. **souc-** = care, 表示”关心“，和 cit- 呼唤同源。
+	1. insouciance
+	2. insouciant
 7. behest
 	1.  be-,表强调，-hest,命令，召唤，词源同 cite,引用，传讯。
 8. hight
@@ -3791,11 +3875,12 @@
 		12. _n._ [stable](dic://stable)
 		13. **crankshaft**机轴;**knob**把手;**ratchet**棘轮;**gears**齿轮，传动装置;**lever**杠杆;**flywheel**飞轮，惯性轮;**pulley**滑轮;**turn**转动，旋转;**spindle**轴;**wrench**扳手，扳钳;**piston**活塞;
 		10. cranky
-			1.  [crank](dic://crank), [tender](dic://tender), [tippy](dic://tippy)
-			2.  [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
-			3. _adj._ [unstable](dic://unstable), [ill-natured](dic://ill-natured)
-			4. _n._ [stable](dic://stable), [good-natured](dic://good-natured)
-			5. **grumpy**脾气暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**tired**疲倦的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**angry**生气的;**irritated**恼怒的;**chatty**饶舌的;**frustrated**挫败的;**neurotic**神经过敏的;
+			1. (cranky, kinky, quirky)
+			2.  [crank](dic://crank), [tender](dic://tender), [tippy](dic://tippy)
+			3.  [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+			4. _adj._ [unstable](dic://unstable), [ill-natured](dic://ill-natured)
+			5. _n._ [stable](dic://stable), [good-natured](dic://good-natured)
+			6. **grumpy**脾气暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**tired**疲倦的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**angry**生气的;**irritated**恼怒的;**chatty**饶舌的;**frustrated**挫败的;**neurotic**神经过敏的;
 	5. cringe
 		1. cringing
 		2. cringeworthy
@@ -5479,14 +5564,19 @@
 		3. **occlusion**闭塞;**obstruct**阻塞;**distort**扭曲;**displace**取代;**inhibit**抑制;**penetrate**穿过, 刺入, 渗入;**illuminate**使明亮;**impede**阻止;**constrain**强迫, 强使;**diffuse**散开的;**confine**限制;
 		4. [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
 		5. [impede](dic://impede), [hinder](dic://hinder)
-		6. occlusion
+		6. This, coupled with thick tenacious secretions and crusts, may completely occlude the airway. /再加上厚厚的分泌物和伪膜，可能会完全堵塞气道。
+		7. Well, a heart attack is anything that occludes the vessel that feeds the heart. /嗯，心脏病发作是指任何东西阻塞了供给心脏的血管。
+		8. It can also knock stuff over, and occlude your vision, and droop into your flasks. /它还会把东西打翻， 挡住你的视线， 掉进你的烧瓶里。
+		9. They occlude long jump triple jump, high jump people, pole vault, short-put, discus and javelin, to name just a few /他们排除了跳远三级跳远，跳高人，撑杆跳，短推，铁饼和标枪，仅举几例。
+		10. So we have a greater tendency to make thrombi that can **occlude** the coronary vessels /所以我们有制造血凝块的倾向，这个血凝块会封闭冠状血管
+		11. occlusion
 			1. **stenosis**狭窄;**ischemia**局部缺血;**perfusion**灌注;**aortic**大动脉的;**lesion**损害;**coronary**冠状的;**aneurysm**动脉瘤;**lumen**流明;**retinal**视网膜的;**artery**动脉;**carotid**颈动脉的;
 			2. [attack](dic://attack), [front](dic://front), [position](dic://position), [spatial relation](dic://spatial relation), [obstruction](dic://obstruction), [obstructor](dic://obstructor), [obstructer](dic://obstructer)
-		7. occlusive
+		12. occlusive
 			1. a. 闭塞的, 咬合的, 闭塞音的
 			2. [stop consonant](dic://stop consonant), [stop](dic://stop), [plosive consonant](dic://plosive consonant), [plosive speech sound](dic://plosive speech sound), [plosive](dic://plosive)
 			3. **occlusion**闭塞;**vascular**血管的;**venous**静脉的;**ischemic**缺血性的;**cutaneous**皮肤的;**arterial**动脉的;**coronary**冠状的;**thrombosis**血栓形成;**carotid**颈动脉的;**artery**动脉;**atherosclerosis**动脉粥样硬化;
-		9. occlusor
+		13. occlusor
 			1. 闭壳肌〔蛤; 闭肌; 闭塞体;
 	10. preclude
 		1. pre-预先 + clud-关闭 → 提前关闭 → 阻止。
@@ -5669,9 +5759,20 @@
 	4. clime
 	5. climograph
 2. **clim-, clin-, cliv-** = lean, slope, 表示“倾斜，斜坡”，来自拉丁语。
-	1. acclivitous, acclivity, acclivous
-		1. **incline**倾斜;**ascent**上升;**slope**倾斜;**ridge**山脉;**sloping**倾斜的;**hill**小山;**ascending**上升的,向上的;**ascend**上升;**plateau**高原;**steep**陡峭的;**abode**住处;
-	2. aclinic, triclinic, diclinic, isoclinal
+	1. acclivitous /acclivous
+		2. a. 上斜的
+		4.  acclivity
+			1. n. 向上的斜坡；[建] 上斜
+			2. _n._ [slope](dic://slope), [incline](dic://incline), [side](dic://side)
+			3. **incline**倾斜;**ascent**上升;**slope**倾斜;**ridge**山脉;**sloping**倾斜的;**hill**小山;**ascending**上升的,向上的;**ascend**上升;**plateau**高原;**steep**陡峭的;**abode**住处;
+			4. It embraced hillocks, pits, ridges, acclivities, one behind the other, till all was finished by a high hill cutting against the still light sky /只见土墩、溪谷、山脊、斜坡，一个比一个高，一直到一座高山，耸立在依然明亮的天空。
+			5. The young Mohican gave a shout of triumph, and followed by Duncan, he glided up the acclivity they had descended to the combat, and sought the friendly shelter of the rocks and shrubs /年轻的莫希干人发出胜利的欢呼，邓肯紧随其后，他滑上了他们为了战斗而下降的斜坡，寻找岩石和灌木丛中友好的避难所。
+			6. The car could not go up the **acclivity** in high gear. /这破车不能挂高速档爬斜坡。
+	2. aclinic
+		1. - adj. 水平的；[地理] 无倾角的
+		2. triclinic
+		3. diclinic
+		4. isoclinal
 	3. anticline, geosyncline, monocline
 	4. climacteric
 		1. climactic
@@ -5682,10 +5783,20 @@
 		2. declivous
 	8. incline
 	9. recline
-		1. reclinate
-		2. **swivel**转环;**seat**座位;**sit**坐;**sofa**沙发;**seats**座椅，座位;**seating**就座;**chair**椅子;**snooze**小睡;**chairs**安乐椅;**cushions**酥心糖;**legroom**放脚空间;
-		3.  [recumb](dic://recumb), [repose](dic://repose)
-		4. [lean](dic://lean), [tilt](dic://tilt), [tip](dic://tip), [slant](dic://slant), [angle](dic://angle), [put](dic://put), [set](dic://set)
+		1. vt. 使斜靠  
+		2. vi. 靠, 斜倚, 依赖
+		3. reclinate
+		4. **swivel**转环;**seat**座位;**sit**坐;**sofa**沙发;**seats**座椅，座位;**seating**就座;**chair**椅子;**snooze**小睡;**chairs**安乐椅;**cushions**酥心糖;**legroom**放脚空间;
+		5.  [recumb](dic://recumb), [repose](dic://repose)
+		6. [lean](dic://lean), [tilt](dic://tilt), [tip](dic://tip), [slant](dic://slant), [angle](dic://angle), [put](dic://put), [set](dic://set)
+		7. _[recline on](dic://recline%20on)_  信赖；依赖
+		8. _[reclining seat](dic://reclining%20seat)_  可躺座椅
+		9. _[reclining chair](dic://reclining%20chair)_  n. 躺椅；活动靠背扶手椅
+		10. Retroverted high back rest (half reclined); /靠背可后倾（半躺）；
+		11. She sat there, reclined against a foam rubber cushion. /她在那儿倚靠着海绵橡胶垫坐着。
+		12. During your flight, you can recline your seat, and lean back. /在你的飞行过程中，你可以倾斜你的座位，向后倾斜。
+		13. They said rich countries will recline out to provide cash and cut emissions. /他们表示，富裕国家应该提供现金，减少碳排放。
+		14. He believed that the desert wind, shaped a natural land form to resemble a reclining sphinx. /他认为，沙漠中的风塑造出了一个自然地形，就像一个躺着的狮身人面像。
 	10. syncline
 		1. synclinal
 		2. synclinorium
@@ -5694,19 +5805,39 @@
 		2. **pardon**原谅;**parole**誓言;**amnesty**大赦，特赦;**forgiveness**宽恕;**mercy**仁慈，宽容;**extradition**引渡逃犯;**asylum**庇护;**judicial**法庭的;**plea**恳求，请求;**reprieve**缓期执行;**appeals**上诉;
 		3. [mildness](dic://mildness)
 		4. [mercifulness](dic://mercifulness), [mercy](dic://mercy)
-		5. inclemency, inclement
-			1. a. 险恶的, 严酷的
-			2. **weather**天气;**windy**多风的，有风的;**unforeseen**未预见到的, 意料之外的;**rainy**多雨的;**rain**雨;**snowstorm**暴风雪,雪崩;**postponed**延期的;**overcast**阴暗的;**stormy**暴风雨的;**chilly**寒冷的，凉飕飕的;**reschedule**重订时间表;
-			3. [unsparing](dic://unsparing)
-	13. proclitic
+		5. The judge believed in clemency for youthful offenders /法官认为对年轻的犯罪者应以慈悲为怀。
+		6.  Trump granted clemency to one of the two birds named Peas and Carrots./特朗普对名为豌豆仔和萝卜丝的两只火鸡给予宽大处理。
+		7. He's offered clemency, pardons and commutations to more than 90 people. /他为90多人提供了宽大、赦免和减刑。
+		8. The man was executed although his family asked for clemency and activists protested his sentence. /尽管他的家人请求宽大处理，活动人士也对他的判决提出抗议，但他还是被处决了。
+		9. Unless he appeals for clemency from the President which is unlikely to be granted, he could be hanged in days. /他曾请求总统宽大，但获准可能性不大，他或将在几天之内遭受绞刑。
+		10. inclemency, inclement
+			1. _[asperity astringency inclemency rigor rigour](dic://asperity%20astringency%20inclemency%20rigor%20rigour)_ 严酷
+			2. a. 险恶的, 严酷的
+			3. **weather**天气;**windy**多风的，有风的;**unforeseen**未预见到的, 意料之外的;**rainy**多雨的;**rain**雨;**snowstorm**暴风雪,雪崩;**postponed**延期的;**overcast**阴暗的;**stormy**暴风雨的;**chilly**寒冷的，凉飕飕的;**reschedule**重订时间表;
+			4. [unsparing](dic://unsparing)
+			5. The inclemency of the weather kept us from school /天气恶劣使我们不能上学。
+			6. They leave to the sun and the moon their journey, to the stars their courses, to the seasons their blessing and their inclemency; /他们离开到太阳和月亮他们的旅程,到星他们的课程,到季节他们的祝福和他们的险恶;
+			7. Agnes alone was insensible of the inclemency of the Air, and before eleven joined me at the spot which had witnessed our former interview. /只有艾格尼丝对空气的恶劣没有感觉， 并在十一点之前与我会合， 那里目睹了我们之前的会面。
+			8. He walked swiftly, then stopped, and seemed to listen: He stamped upon the ground, and beat his stomach with his arms as if to guard himself from the inclemency of the season. /他快步走着，然后停了下来，似乎在倾听：他跺着脚，用胳膊捶着肚子，好像是为了抵御这个季节的恶劣天气
+	12. proclitic
 		1. adj. 后接的；后接发音的; n. 后接词;
-	14. proclivity
-		1. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
-		2. **propensity**倾向;**penchant**嗜好;**tendency**倾向，趋势;**fondness**溺爱;**inclination**倾向;**knack**诀窍;**aversion**厌恶;**preoccupation**全神贯注，入神;**innate**先天的;**disdain**蔑视;**affinity**吸引力;
-	15. declension
-		1. _n._ [inflection](dic://inflection), [inflexion](dic://inflexion), [decline](dic://decline), [diminution](dic://diminution), [slope](dic://slope), [incline](dic://incline), [side](dic://side)
-		2. **verbs**动词;**nouns**名词;**verb**动词;**pronouns**代名词;**pronoun**代词;**consonant**辅音;**participle**分词;**noun**名词;**grammatical**语法的;**vowel**元音;**Germanic**德国的;
-	16. etc...
+	13. proclivity
+		1. (predilection, propensity, penchant, proclivity, )
+		2.  pro-,向前，-cliv,倾斜，词源同 acclivity,lean.引申词义倾向，癖好。
+		3. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
+		4. **propensity**倾向;**penchant**嗜好;**tendency**倾向，趋势;**fondness**溺爱;**inclination**倾向;**knack**诀窍;**aversion**厌恶;**preoccupation**全神贯注，入神;**innate**先天的;**disdain**蔑视;**affinity**吸引力;
+		5. a proclivity for self-assertiveness; /一意孤行的癖性；
+		6. Your leg still jiggles to " I Want You Back" , despite what you know about Michael Jackson's proclivities. /尽管你知道迈克尔·杰克逊的不良癖好，但你听到" 我想要你回来" 时还是会开始抖腿。
+		7. But with someone of his generation who shares the same proclivities? /但是和一个与他年龄相当有共同喜好的人呢？
+	14. declension
+		1.  de-,向下，-clen,弯，转，词源同 lean,incline.用于语法格指词形变化。
+		2. n. 词形变化, 变格, 倾斜, 衰退
+		3. _n._ [inflection](dic://inflection), [inflexion](dic://inflexion), [decline](dic://decline), [diminution](dic://diminution), [slope](dic://slope), [incline](dic://incline), [side](dic://side)
+		4. **verbs**动词;**nouns**名词;**verb**动词;**pronouns**代名词;**pronoun**代词;**consonant**辅音;**participle**分词;**noun**名词;**grammatical**语法的;**vowel**元音;**Germanic**德国的;
+		5. I can look up specifics of, you know, Ukrainian noun declensions, or anything really that you need to look up, you can look it up. /我可以查一下乌克兰语名词变格的细节，或者任何你真正需要查的东西，你都可以查一下。
+		6. But the rate of profit does not, like rent and wages, rise with the prosperity, and fall with the declension of the society /但是利润率并不像地租和工资一样，随着社会的繁荣而上升，而随着社会的衰落而下降。
+		7. Portugal, however, is but a very small part of Europe, and the declension of Spain is not, perhaps, so great as is commonly imagined. /然而，葡萄牙只是欧洲的一小部分，而西班牙的衰落也许并不像通常想象的那么大。
+	15. etc...
 3. **clin-** = bed, 表示“床”。源自希腊语 cline "bed."
 	1. clinic
 		1. polyclinic

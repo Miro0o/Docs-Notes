@@ -1,4 +1,4 @@
-# Computability Theory
+# Computability Theory & Turing Machine
 
 [TOC]
 
@@ -27,3 +27,6 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 [Computability theory]: https://en.wikipedia.org/wiki/Computability_theory
 
 [Turing Mahine | Wikipedia]: https://en.wikipedia.org/wiki/Turing_machine
+[Universal Turing Machine]: https://en.wikipedia.org/wiki/Universal_Turing_machine
+
+[How to tell if a language is recognizable, co-recognizable or decidable? | Stackoverflow]: https://cs.stackexchange.com/q/11500/174354

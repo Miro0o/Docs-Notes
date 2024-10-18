@@ -167,9 +167,11 @@
 			2. _adv._ [implied](dic://implied), [silent](dic://silent), [tacit](dic://tacit), [understood](dic://understood)
 			3. _[tacitly approve](dic://tacitly%20approve)_  默认
 			4. _[understand tacitly](dic://understand%20tacitly)_  心领神会
-	5. taciturn
-		1. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
-		2. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
+	5. taciturn 
+		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
+		2. - 来自 tacit,安静的，-urn,形容词后缀。引申词义不苟言笑的。
+		3. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
+		4. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
 			1. _[voluble taciturn](dic://voluble%20taciturn)_ 健谈的
 			2. _[silent taciturn](dic://silent%20taciturn)_ 不说话
 			3. _[glib taciturn](dic://glib%20taciturn)_ 流利圆滑的
@@ -177,15 +179,15 @@
 			5. _[reticent taciturn](dic://reticent%20taciturn)_ 不爱交谈的
 			6. _[Taciturn knight](dic://Taciturn%20knight)_ 沉默寡言的骑士
 			7. _[a taciturn person](dic://a%20taciturn%20person)_ 沉默寡言的人
-		9. taciturnly
-		10. taciturnity
+		5. taciturnly
+		6. taciturnity
 			1. **demeanor**行为;**aloof**冷淡的;**countenance**面容，表情;**melancholy**忧郁, 悲哀;**brooding**沉思的;**indifference**不关心,不在乎;**solitude**孤独;**reverence**敬礼;**piety**虔诚;**disdain**蔑视;**politeness**有礼貌;
 			2. _n._ [uncommunicativeness](dic://uncommunicativeness)
-		11. _[volubility taciturnity](dic://volubility%20taciturnity)_ 沉默寡言; 口若悬河; 
-		12. _[windbag taciturnity](dic://windbag%20taciturnity)_ 饶舌的人
-		13. _[sometimes taciturnity itself](dic://sometimes%20taciturnity%20itself)_ 仅仅是静默
-		14. _[wear taciturnity calm](dic://wear%20taciturnity%20calm)_ 若即若离
-		15. _[blank mind and taciturnity](dic://blank%20mind%20and%20taciturnity)_ 神呆少言
+		7. _[volubility taciturnity](dic://volubility%20taciturnity)_ 沉默寡言; 口若悬河; 
+		8. _[windbag taciturnity](dic://windbag%20taciturnity)_ 饶舌的人
+		9. _[sometimes taciturnity itself](dic://sometimes%20taciturnity%20itself)_ 仅仅是静默
+		10. _[wear taciturnity calm](dic://wear%20taciturnity%20calm)_ 若即若离
+		11. _[blank mind and taciturnity](dic://blank%20mind%20and%20taciturnity)_ 神呆少言
 
 
 ### tann- = tan，表示“鞣”。
@@ -638,7 +640,7 @@
 1. attemper
 2. distemper, distemperoid
 	1. **rabies**狂犬病，恐水病;**measles**麻疹;**smallpox**天花;**fever**发烧，发热;**flu**流感;**contagious**传染性的;**vaccination**种痘;**infection**传染;**incurable**不能医治的;**cured**治愈的;**shingles**带状疱疹;
-3. temper
+3. temper  (tamp, temper, tamper, temping, tempt,)
 	3. tempering
 	4. temperable
 	5. retemper
@@ -677,7 +679,7 @@
 
 
 ### tempt- = try, 表示“尝试”。
-1. tempt (tamp, temper, tamper)
+1. tempt (tamp, temper, tamper, temping, tempt,)
 	1. tempting
 	2. tempter, temptress
 	3. temptation
@@ -1189,20 +1191,21 @@
 		10. Coexistence of the rational and elegant prose has brought on interflowing of the two style and therefore facilitated prosperity and tenuity in this field. /理性散文与通俗散文并存,形成了雅俗合流的创作格局,共同促成了当代散文创作的繁荣与苍白。
 		11. The charcoal filling has **tenuity** effect in the improvement of water quality were only by its absorption and interception function /仅靠木炭填料吸附、截留作用去除水体污染物能力有限。
 	5. tenuous
-		1. 1 - 来自拉丁语 tenuis,拉长的，薄的，细的，来自 PIE*ten,展开，词源同 extend,thin,attenuate.引申词义纤细的，脆弱的等。
-		2. [flimsy](dic://flimsy), [slight](dic://slight), [thin](dic://thin)
-		3. _adj._ [weak](dic://weak), [thin](dic://thin)
-		4. _n._ [strong](dic://strong), [thick](dic://thick)
-		5. (precarious )
-		6. **precarious**依靠机会的;**shaky**摇晃的;**dubious**可疑的;**fragile**脆的;**uneasy**不舒服的;**flimsy**脆弱的;**improbable**不可信的;**untenable**不能防守的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**iffy**未确定的;**unlikely**不太可能的;
-		7. a tenuous cloud. /淡淡的云彩。
-		8. a tenuous argument. /站不住脚的论点
-		9. a tenuous line of argument /空洞的辩论方式
-		10. the tenuous air at a great height /高空的稀薄空气
-		11. He has a rather tenuous grasp of reality. /他对现实认识很肤浅。
-		12. the tenuous link between interest rates and investment. /利率与投资之间可有可无的联系。As remnants expand and age they become more tenuous. /随着残余的膨胀力和年岁的增长，它们变得更加脆弱。
-		13. The picture was that of a long **tenuous** line stretching from bizerte to gafsa /图片上是从比塞大延至盖夫萨的一条长而脆弱的阵线。
-	6. trendril
+		1. (exiguous, tenuous, )
+		2. 1 - 来自拉丁语 tenuis,拉长的，薄的，细的，来自 PIE*ten,展开，词源同 extend,thin,attenuate.引申词义纤细的，脆弱的等。
+		3. [flimsy](dic://flimsy), [slight](dic://slight), [thin](dic://thin)
+		4. _adj._ [weak](dic://weak), [thin](dic://thin)
+		5. _n._ [strong](dic://strong), [thick](dic://thick)
+		6. (precarious )
+		7. **precarious**依靠机会的;**shaky**摇晃的;**dubious**可疑的;**fragile**脆的;**uneasy**不舒服的;**flimsy**脆弱的;**improbable**不可信的;**untenable**不能防守的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**iffy**未确定的;**unlikely**不太可能的;
+		8. a tenuous cloud. /淡淡的云彩。
+		9. a tenuous argument. /站不住脚的论点
+		10. a tenuous line of argument /空洞的辩论方式
+		11. the tenuous air at a great height /高空的稀薄空气
+		12. He has a rather tenuous grasp of reality. /他对现实认识很肤浅。
+		13. the tenuous link between interest rates and investment. /利率与投资之间可有可无的联系。As remnants expand and age they become more tenuous. /随着残余的膨胀力和年岁的增长，它们变得更加脆弱。
+		14. The picture was that of a long **tenuous** line stretching from bizerte to gafsa /图片上是从比塞大延至盖夫萨的一条长而脆弱的阵线。
+	7. trendril
 		1. 1 - 来自中古法语 tendrillon,小枝，新芽，软骨，-ille,小词后缀，来自拉丁语 tendere,延伸，伸长，词源同 tend,tender.后用于指植物卷须。
 7. **tetan-** = rigid
 	1. tetanus
@@ -1346,11 +1349,11 @@
 	1. etc..
 5. **trib-** = to rub, 表示“摩擦”。源自希腊语 tribein "to rub, ghresh, pound, wear out."
 	1. diatribe
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
-		2. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, )
-		3. [fulmination](dic://fulmination)
-		4. _n._ [denunciation](dic://denunciation), [denouncement](dic://denouncement)
-		5. **rant**咆哮;**ranting**吼闹;**rebuttal**反驳;**drivel**淌口水,说傻话;**scathing**严厉的;**rambling**漫步的;**inane**愚蠢的;**hyperbole**夸张的语句;**idiocy**白痴;**remarks**摘要;**snarky**恶声恶气的，咬人
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate)
+		3. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, )
+		4. [fulmination](dic://fulmination)
+		5. _n._ [denunciation](dic://denunciation), [denouncement](dic://denouncement)
+		6. **rant**咆哮;**ranting**吼闹;**rebuttal**反驳;**drivel**淌口水,说傻话;**scathing**严厉的;**rambling**漫步的;**inane**愚蠢的;**hyperbole**夸张的语句;**idiocy**白痴;**remarks**摘要;**snarky**恶声恶气的，咬人
 	3. tribade, tribadism, tribadia
 	4. tribology
 	5. triboelectric
@@ -1389,7 +1392,7 @@
 	5. lithotrity
 		1. litho-石头 + trity
 	6. trite, triteness, tritely (contrite)
-		1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, )
+		1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash)
 		2. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
 		3. 1 - 来自拉丁语 tritus,穿旧的，过去分词格于 terere,转，刮，磨下，词源同 turn,throw.引申词义陈腐的，老套的。
 		4. [banal](dic://banal), [commonplace](dic://commonplace), [hackneyed](dic://hackneyed), [old-hat](dic://old-hat), [shopworn](dic://shopworn), [stock(a)](dic://stock(a)), [threadbare](dic://threadbare), [timeworn](dic://timeworn), [tired](dic://tired), [well-worn](dic://well-worn)
@@ -2452,42 +2455,71 @@
 1. **tut-, tuit-** = protect, 表示“保护，教育”。原意表示“看、照顾”。源自拉丁语 tueri "to look at, watch, protect."
 	1. intuit
 		1. intuitive
-			1. **user-friendly**用户界面友好的,用户容易掌握使用的;**straightforward**正直的, 坦率的;**instinctive**本能的;**intuition**直觉;**easy**容易的;**simple**简单的;**intelligent**聪明的;**effortless**不费力的;**interface**界面;**perceptive**敏感的;**simplistic**过分单纯化的;
-			2. intuitivism
-			3. intuitively
-			4. counterintuitive
-		2. intuition
-			1. intuitionism
-			2. intuitional
-			3. intuitionist
-			4. intuitionalism
-		3. counterintuitive
+			1. in-不 + tuit-保护 + -ive, 表形容词 → 不加保护而来的[感觉] → 直觉的，是单词intuit 派生的形容词。
+			2. a. 直觉的
+			3. **user-friendly**用户界面友好的,用户容易掌握使用的;**straightforward**正直的, 坦率的;**instinctive**本能的;**intuition**直觉;**easy**容易的;**simple**简单的;**intelligent**聪明的;**effortless**不费力的;**interface**界面;**perceptive**敏感的;**simplistic**过分单纯化的;
+			4. intuitivism
+			5. intuitively
+			6. counterintuitive
+		3. intuition
+			1. intuition [ɪntjʊ'ɪʃ(ə)n] n.直觉，指不用经过思考而很快出现的直接想法和感觉。前缀in-就表示动作方向，词根tuit表观察、照看，是指与观察四周情况然后作出分析判断相对，直接look inside内心就有了想法。比如有的警察一眼就能看出来哪个是罪犯，再比如有的商人凭直觉就能判断某人是否可靠等。
+			2. in-不 + tuit-保护 + -ion名词后缀 → 不加保护而来的[感觉] → 直觉，是单词intuit 派生的名词。
+			3. intuitionism
+			4. intuitional
+			5. intuitionist
+			6. intuitionalism
+		5. counterintuitive
 	2. tuition
-		1. tuitional
-		2. tuitee
-	3. tutelage
-		1. **auspices**支持;**supervision**监督, 管理;**mentored**辅导;**mentor**指导者，良师益友;**watchful**注意的;**guidance**指导，引导;**under**低于，少于;**tutored**辅导;**taught**教授;**coaching**辅导;**coached**指导
-		2. tutelar
-		3. tutelary
-	4. tutor
-		1. **teacher**教师;**instructor**指导者,教师;**mentor**指导者，良师益友;**student**学生;**lecturer**讲师，演讲者;**counsellor**顾问;**pupil**学生，小学生;**tuition**学费;**teaching**教学;**homework**家庭作业，课外作业;**advisor**顾问;
+		1. n. 学费, 讲授
+		2. tuit-教育 + -ion名词后缀 → 受教育的费用。
+		3. 来自拉丁语 tuitus,看护的，教导的，过去分词格于 tueri,看护，词源同 tutor,tutelage.引申词义教导，教学等。
+		4. tuitional
+		5. tuitee
+	4. tutelage
+		1. n. 守护, 监护, 指导
+		2. tut-教育 + -el + -age名词后缀。引申诸相关词义。
+		3.  [tuition](dic://tuition), [tutorship](dic://tutorship)
+		4.  [care](dic://care), [charge](dic://charge), [guardianship](dic://guardianship)
+		5. _n._ [teaching](dic://teaching), [instruction](dic://instruction), [pedagogy](dic://pedagogy), [protection](dic://protection)
+		6. **auspices**支持;**supervision**监督, 管理;**mentored**辅导;**mentor**指导者，良师益友;**watchful**注意的;**guidance**指导，引导;**under**低于，少于;**tutored**辅导;**taught**教授;**coaching**辅导;**coached**指导;
+		7. **auspices**支持;**supervision**监督, 管理;**mentored**辅导;**mentor**指导者，良师益友;**watchful**注意的;**guidance**指导，引导;**under**低于，少于;**tutored**辅导;**taught**教授;**coaching**辅导;**coached**指导
+		8. he felt privileged to be under the tutelage of an experienced actor. /他为能得到一位有经验的演员指导而倍感荣幸。
+		9. He hesitated over it. Exact reproduction, which he had never done, was surely the most slavish tutelage of all /他在这件事上犹豫了。他从没做过一模一样的复制品，这肯定是最奴性的监护。
+		10. Still, he took immediately to his new training environment, flourishing under the tutelage of Dundee. /但他还是立即来到了新的训练环境中，在邓迪的教导下成才。
+		11. So I've invited a representative from the law school to see firsthand how joyful you all are under my tutelage. /所以 我邀请了一位法学院的代表过来亲眼看看你们在我的指导下是多么的愉快。
+		13. tutelar
+		14. tutelary
+	6. tutor
+		1. - 来自拉丁语 tutor,保护者，看护者，过去分词形式施动格于 tueri,保护，看护，来自 PIE*ste,*sta,站立，词源同 stand,institute.引申词义教师，导师等。
+		2. [coach](dic://coach), [private instructor](dic://private instructor)
+		3. **teacher**教师;**instructor**指导者,教师;**mentor**指导者，良师益友;**student**学生;**lecturer**讲师，演讲者;**counsellor**顾问;**pupil**学生，小学生;**tuition**学费;**teaching**教学;**homework**家庭作业，课外作业;**advisor**顾问;
 			1. [teach](dic://teach) 最普通用词，含义广泛。指直接教某人知识或技能等，侧重传播知识和帮助应用知识。
 			2. [instruct](dic://instruct) 与teach含义很接近，但语体较正式。指系统、详细、精心地传播知识，侧重教授与指示。
 			3. [educate](dic://educate) 较正式用词，指教育，内容比teach广泛，侧重动机或结果，或对潜在能力的开发。
 			4. [coach](dic://coach) 指对个人或小组等进行辅导、训练或补课。
 			5. [train](dic://train) 指训练与培养。
 			6. [tutor](dic://tutor) 指进行个别教学或课外辅导。
-		2. untutored
-		3. tutory
-		4. tutorship
-			1. **tutelage**监护;**tutor**导师;**tutors**导师;**tutoring**当家庭教师;**guardianship**保护,守护,监护人的职责;**supervision**监督, 管理;**tutored**辅导;**mentor**指导者，良师益友;**tuition**学费;**teaching**教学;**apprenticeship**学徒期;
-		5. tutorial
-			1. **how-to**解释作法的,指引的;**step-by-step**按部就班的;**walkthrough**游戏攻略;**instructions**指令;**video**电视;**demo**样本唱片;**beginner**初学者;**post**职位;**lesson**课;**intro**介绍;**origami**折纸手工;
-		6. tutoress
-		7. tutorage
-		8. protutor
-		9. microtutor
+		4. she is a tutor for the Open University. /她是开放大学的指导老师。
+		5. tutors were circulated with the handout. /导师随散发的材料一起分配到各个小组。 
+		6. an excessively demanding and faultfinding tutor; /一个过度苛刻和挑剔的导师；
+		7. We tutored and mentored local school kids. /s我们还为本地的学生提供课业辅导和咨询。
+		8. How do you get on with your tutor? /你和你的导师相处得怎么样？
+		9. untutored
+		10. tutory
+		11. tutorship
+			1. _n._ [teaching](dic://teaching), [instruction](dic://instruction), [pedagogy](dic://pedagogy)
+			2. **tutelage**监护;**tutor**导师;**tutors**导师;**tutoring**当家庭教师;**guardianship**保护,守护,监护人的职责;**supervision**监督, 管理;**tutored**辅导;**mentor**指导者，良师益友;**tuition**学费;**teaching**教学;**apprenticeship**学徒期;
+		13. tutorial
+			1. _n._ [session](dic://session)
+			2. _adj._ [coach](dic://coach), [private instructor](dic://private instructor), [tutor](dic://tutor)
+			3. **how-to**解释作法的,指引的;**step-by-step**按部就班的;**walkthrough**游戏攻略;**instructions**指令;**video**电视;**demo**样本唱片;**beginner**初学者;**post**职位;**lesson**课;**intro**介绍;**origami**折纸手工;
+			4. The school offers special tutorials for slow learners /学校给迟钝的学生提供专门的辅导。
+		14. tutoress
+		15. tutorage
+		16. protutor
+		17. microtutor
 2. thew
+	1. - n. 体力；肌肉
 #### + \*teue- (2) + = to swell
 1. **obtur-** = 表示“封闭”ob- + tur-, 源自拉丁语 turare "to stop up."
 	1. obturate (construe, abstruse,)
@@ -2495,6 +2527,8 @@
 		2. [obstruct](dic://obstruct), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
 		3. _v._ [impede](dic://impede), [hinder](dic://hinder)
 		4. **orifice**孔口;**cavity**洞，凹处;**penetrate**穿过, 刺入, 渗入;**apical**顶上的, 顶点的;**suture**缝合;
+		5. obturator
+		6. obturation
 2. **som-** = body, 表示“身体”。源自希腊语 soma "body."
 	1. psychosomatic
 	2. autosome
@@ -2545,15 +2579,15 @@
 	36. trisomy
 3. **tuber-** = bump, swelling，表示“膨胀”。源自拉丁语 tuber "lump, swelling."
 	1. tuber
-		2. [genus Tuber](dic://genus Tuber)
-		3. _n._ [stalk](dic://stalk), [stem](dic://stem), [fungus genus](dic://fungus genus)
-		4. **potato**土豆，马铃薯;**potatoes**马铃薯;**root**根;**vegetable**蔬菜;**seedlings**幼苗;**leaf**叶子;**maize**黄色的，玉米色的;**cabbage**卷心菜，甘蓝菜，脑袋;**starch**淀粉;**pea**豌豆;**plant**植物;
-		5. _pinellia tuber_ [药草]半夏；[药草]半夏粉末
-		6. The potato is a tuber plant. /马铃薯是块茎植物。
-		7. At the stage of tuberization to tuber-expanding, the growth of leaves, stalks and tubers reached the maximum. /块茎形成到块茎膨大始期，阶段吸硫量和吸硫速率均达到最大值，成熟收获时降到最低值。
-		8. Find some tubers, share 'em with your friends. /找一些块茎，就和你的朋友分享。
-		9. Guinness said they had found the tuber of a gourd. /吉尼斯称，他们发现它是一个葫芦的块茎。
-		10. The tuber is a stem that grows out of the gourd. /这个块茎是从葫芦里长出来的茎。
+		1. [genus Tuber](dic://genus Tuber)
+		2. _n._ [stalk](dic://stalk), [stem](dic://stem), [fungus genus](dic://fungus genus)
+		3. **potato**土豆，马铃薯;**potatoes**马铃薯;**root**根;**vegetable**蔬菜;**seedlings**幼苗;**leaf**叶子;**maize**黄色的，玉米色的;**cabbage**卷心菜，甘蓝菜，脑袋;**starch**淀粉;**pea**豌豆;**plant**植物;
+		4. _pinellia tuber_ [药草]半夏；[药草]半夏粉末
+		5. The potato is a tuber plant. /马铃薯是块茎植物。
+		6. At the stage of tuberization to tuber-expanding, the growth of leaves, stalks and tubers reached the maximum. /块茎形成到块茎膨大始期，阶段吸硫量和吸硫速率均达到最大值，成熟收获时降到最低值。
+		7. Find some tubers, share 'em with your friends. /找一些块茎，就和你的朋友分享。
+		8. Guinness said they had found the tuber of a gourd. /吉尼斯称，他们发现它是一个葫芦的块茎。
+		9. The tuber is a stem that grows out of the gourd. /这个块茎是从葫芦里长出来的茎。
 	2. tubercle
 		1. n. （皮肤、骨头或植物上的）结节，疣粒，小块茎；（肺）结核结节
 		2. [nodule](dic://nodule)
@@ -2576,6 +2610,8 @@
 		1. _n._ 肺结核
 		2. _n._ [infectious disease](dic://infectious disease)
 		3. **syphilis**梅毒;**pneumonia**肺炎;**malaria**疟疾;**disease**病，疾病;**cholera**霍乱;**smallpox**天花;**influenza**流行性感冒;**meningitis**脑膜炎;**measles**麻疹;**polio**脊髓灰质炎;**infection**传染;
+		4. He was struck down by tuberculosis while in his twenties. /在他二十岁时被结核病夺去了生命
+		5. People used to go to special health spring to recover from tuberculosis /人们常去温泉疗养胜地治疗肺结核。
 	11. tubercular
 		1. adj. 结核的；[医] 结节的；瘤状的
 		2. _n._ [sick person](dic://sick person), [diseased person](dic://diseased person), [sufferer](dic://sufferer)
@@ -2593,6 +2629,8 @@
 		2. _adj._ 块茎状的,似块茎的
 		3. _n._ [flower](dic://flower)
 		4. **jasmine**茉莉;**fragrance**香味;**musk**麝香;**perfume**香水;**perfumes**香料;**scent**气味;**scents**气味;**orchid**兰花;**fragrant**芳香的;**scented**有气味的;**lavender**淡紫色;
+		5. The tuberose in female flower, daffodil, fuchsia, carnation, sowbread. /草花中的晚香玉、水仙花、倒挂金钟、康乃馨、仙客来等。
+		6. Includes: crushed peony, sueded musk, sheer tuberose, woven cassis, and crepe gardenia /牡丹，麝香，晚香玉，黑醋栗，栀子花。
 	15. tuberosity
 		1. _n._ [process](dic://process), [outgrowth](dic://outgrowth), [appendage](dic://appendage)
 		2. **femur**股骨;**anterior**前面的;**ligament**韧带;**medial**中间的;**tendon**腱;**posterior**(在时间;**vertebral**椎骨的;**femoral**股骨的;**dislocation**转位;**fracture**破裂，断裂;**lateral**侧面的，横向的;
@@ -2609,7 +2647,7 @@
 		5. It's unclear exactly what purpose the protuberances serve. /这个突起物的作用仍不清楚。
 		6. It is my belief your great protuberance, that they are in league with Elves! /大王我相信，他们跟精灵族是一伙的！
 		7. There is nothing like a thorough drenching for reducing the protuberances of clothes, but Elfride's seemed to cling to her like a glove. /没有什么比彻底湿透更能减少衣服的突起了，但 Elfride 的衣服似乎像手套一样紧贴在她身上
-	18. protuberant (conspicuous, ostentatious, salient, )
+	18. protuberant (conspicuous, ostentatious, salient, protuberant)
 		1. adj. 突起的；招人注意的；显著的
 		2. [bellied](dic://bellied), [bellying](dic://bellying), [bulbous](dic://bulbous), [bulging](dic://bulging), [bulgy](dic://bulgy)
 		3. _adj._ [protrusive](dic://protrusive)
@@ -2622,29 +2660,32 @@
 	1. contumacy
 	2. contumely
 	3. detumescence
-	4. intumesce
-		1. vi. 膨胀, 肿大
-		2. intumescence
-		3. intumescent
-	6. tumefy (distend)
-		1. v. (使)肿胀, (使)肿大
-		2.  [swell](dic://swell), [swell up](dic://swell up), [intumesce](dic://intumesce), [tumesce](dic://tumesce)
-		3. _v._ [swell](dic://swell), [expand](dic://expand)
-		4. tumescence
-		5. tumescent
-		6. tumefacient
-		7. tumefaction
-	7. tumid (tumefy, distend, intumesce)
-		1. a. 肿胀的, 肿大的
-		2. 1 - 来自拉丁语 tumere,肿胀，肿大，来自 PIE*teue,肿胀，膨胀，词源同 thigh,tube
-		3. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [orotund](dic://orotund), [turgid](dic://turgid)
-		4.  [bloated](dic://bloated), [distended](dic://distended), [puffed](dic://puffed), [puffy](dic://puffy), [swollen](dic://swollen), [intumescent](dic://intumescent), [tumescent](dic://tumescent), [turgid](dic://turgid)
-		5.  [erect](dic://erect)
-		6. _adj._ [rhetorical](dic://rhetorical), [unhealthy](dic://unhealthy), [hard](dic://hard)
-		7. _n._ [unrhetorical](dic://unrhetorical), [healthy](dic://healthy), [soft](dic://soft)
-		8. **fleshy**肉的;**whitish**带白色的;**elongated**细长的;
-	9. tumor
-	10. tumour
+	4. intumesce (distend)
+		1. _v._ [surface](dic://surface), [come up](dic://come up), [rise up](dic://rise up), [rise](dic://rise), [expand](dic://expand)
+		2. vi. 膨胀, 肿大
+		3. intumescence
+		4. intumescent
+	6. tumefy (stupefy)
+		1. (distend, swell, swell up, intumesce, tumesce, tumid)
+		2. v. (使)肿胀, (使)肿大
+		3.  [swell](dic://swell), [swell up](dic://swell up), [intumesce](dic://intumesce), [tumesce](dic://tumesce)
+		4. _v._ [swell](dic://swell), [expand](dic://expand)
+		5. tumescence
+		6. tumescent
+		7. tumefacient
+		8. tumefaction
+	8. tumid
+		1. (distend, swell, swell up, intumesce, tumesce, tumid, )
+		2. a. 肿胀的, 肿大的
+		3. 1 - 来自拉丁语 tumere,肿胀，肿大，来自 PIE*teue,肿胀，膨胀，词源同 thigh,tube
+		4. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [orotund](dic://orotund), [turgid](dic://turgid)
+		5.  [bloated](dic://bloated), [distended](dic://distended), [puffed](dic://puffed), [puffy](dic://puffy), [swollen](dic://swollen), [intumescent](dic://intumescent), [tumescent](dic://tumescent), [turgid](dic://turgid)
+		6.  [erect](dic://erect)
+		7. _adj._ [rhetorical](dic://rhetorical), [unhealthy](dic://unhealthy), [hard](dic://hard)
+		8. _n._ [unrhetorical](dic://unrhetorical), [healthy](dic://healthy), [soft](dic://soft)
+		9. **fleshy**肉的;**whitish**带白色的;**elongated**细长的;
+	10. tumor
+	11. tumour
 		1. _n._ [growth](dic://growth)
 		2. **tumor**肿瘤;**tumors**肿瘤;**metastases**移位变化;**cancerous**癌的;**metastasis**转移;**cancer**癌症;**malignant**有恶意的;**lesion**损害;**lymphoma**淋巴瘤;**carcinoma**癌;**cyst**胞,包囊,膀胱;
 		3. tumorous
@@ -2656,40 +2697,75 @@
 		9. intratumorally
 		10. antitumorigenic
 		11. antitumorigenesis
-	11. tumulus
+	12. tumulus
 		1. **mound**堆;**tombs**古墓，陵墓;**excavation**挖掘;**graves**坟墓;**churchyard**墓地,境内;**burial**埋葬;**tomb**坟墓;**monument**纪念碑;**archaeological**考古学的;**grave**严肃的;**mausoleum**陵墓;
-	12. tumult
-		1.  [tumultuousness](dic://tumultuousness), [uproar](dic://uproar), [garboil](dic://garboil)
-		2.  [turmoil](dic://turmoil)
-		3.  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [rumpus](dic://rumpus)
-		4. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
-		5. **turmoil**混乱，骚动;**upheaval**剧变;**strife**冲突;**tumultuous**无秩序的;**unrest**不安;**chaos**混沌，混乱;**commotion**暴乱;**midst**当中，中间;**discord**不和;**turbulent**骚动的;**uproar**骚动;
-		6. tumults
-		7. tumultuous
-		8. tumultuary
-	13. thumb
-		1. thumbtack
-		2. thumbstail
-		3. thumbscrew
-		4. thumbs-up
-		5. thumbs-down
-		6. thumbprint
-		7. thumbnail
-		8. thumbmark
-		9. thumb-up
-		10. thimble
-		11. nose-thumbing
+	13. tumult
+		1. 1 - 来自拉丁语 tumultus,混乱，骚乱，来自 tumere,肿胀，肿大，词源同 tumid,tumescence.
+		2.  [tumultuousness](dic://tumultuousness), [uproar](dic://uproar), [garboil](dic://garboil)
+		3.  [turmoil](dic://turmoil)
+		4.  [commotion](dic://commotion), [din](dic://din), [ruction](dic://ruction), [ruckus](dic://ruckus), [rumpus](dic://rumpus)
+		5. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
+		6. **turmoil**混乱，骚动;**upheaval**剧变;**strife**冲突;**tumultuous**无秩序的;**unrest**不安;**chaos**混沌，混乱;**commotion**暴乱;**midst**当中，中间;**discord**不和;**turbulent**骚动的;**uproar**骚动;
+		7. The tumult in the streets awakened everyone in the house. /街上的喧哗吵醒了屋子里的每一个人。
+		8. his personal tumult ended when he began writing songs /当他开始写歌时，个人的烦恼平息了下来。
+		9. a tumult of shouting and screaming broke out. /人群中爆发出一阵喊叫与尖叫。
+		10. From Bismarck's Germany to the cold war, " The Magician" covers a lot of history alongside its personal tumult. /从俾斯麦统治下的德国到冷战时期，《魔术师》在讲述个人骚动的同时，也讲述了很多历史。
+		11. From their wars, their tumults, and anxieties we have been, happily, almost entirely exempt. /我们可幸地几乎完全地避免了他们的战争、动乱和焦虑。
+		12. tumults
+		13. tumultuous
+		14. tumultuary
+	15. thumb
+		1. 古英语 thūma; 和古撒克逊语 thūma, 古高地德语 thūmo, 古诺尔斯语 thumall "thumb of a glove," 拉丁语 tumēre "to swell" 有亲缘关系。
+		2. thumbtack
+		3. thumbstail
+		4. thumbscrew
+		5. thumbs-up
+		6. thumbs-down
+		7. thumbprint
+		8. thumbnail
+		9. thumbmark
+		10. thumb-up
+		11. thimble
+		12. nose-thumbing
 5. **tyl-** = callus, 表示“胼胝”源自希腊语 tulos "callus, lump."
 	1. tylosis
 		1. n. 胼胝形成
 6. butter
+	1. butterfly（蝴蝶）：喜欢吃黄油的飞虫  
+	2. 英语单词butterfly（蝴蝶）由butter（黄油）+fly（飞虫）构成。那么，蝴蝶跟黄油到底有啥关系呢？有一种说法认为，是因为蝴蝶喜欢偷吃黄油和牛奶，还有一种说法认为，是因为很多蝴蝶的颜色像黄油，甚至还有一种说法认为，蝴蝶的粪便的颜色像黄油。  
+	3. butterfly：['bʌtəflaɪ] n.蝴蝶  
+	4. butter： ['bʌtɚ] vt. 涂黄油于；讨好n. 黄油；奶油；奉承话  
+	5. fly：[flaɪ]  v. 飞；驾驶飞机；（使）飘扬n. 飞行；苍蝇；两翼昆虫
+	6. buttery
+		1. (sycophant, obsequious, submissive, buttery,  fulsome, oily, oleaginous, smarmy, soapy, unctuous)
+		2.  [pantry](dic://pantry), [larder](dic://larder)
+		3. [fulsome](dic://fulsome), [oily](dic://oily), [oleaginous](dic://oleaginous), [smarmy](dic://smarmy), [soapy](dic://soapy), [unctuous](dic://unctuous)
+		4. These included the great kitchen, privy kitchen, cellar, larder, pantry, buttery, ewery, saucery, chaundry, spicery, poultery and victualling house /这些厨房包括大厨房、私密厨房、地窖、贮藏室、备膳室、酒窖、水洗房、茶碟室、仓储室、调料室、饲禽房以及储粮室。
+		5. butterfly
+		6. butterfingers
+		7. etc..
 7. sorites
+	1. n. 连锁推理, 连锁诡辩
 8. sorus
 9. thigh
+	1. n. 大腿, 股
+	2. 与shank小腿相对，thigh [θaɪ] n.大腿；股。词根本意是膨胀（的），因为大腿比较（小腿）粗，与拉丁词根tum-,tub-表肿胀同源，如tumor ['tju:mə(r)] n.肿瘤；肿块；赘生物。类似逻辑，手指中粗的是thumb拇指，而做针线活时套在（大拇）指尖的”顶针“叫thimble ['θɪmb(ə)l] n.顶针；套管；嵌环。 ​​
+	3. shank [ʃæŋk] n.柄；小腿。古英语里shank指腿，尤其是膝盖以下脚踝以上的部分，印欧根本意是弯曲，因为小腿可以灵活弯曲，后被维京人的leg取代。习语shank's mare表示one's own legs或者步行。这里的mare是马，自嘲自己的腿权当骑的马了。Thecar broke down, so we had to travel by shank's mare. ​​​​
 10. thole
 11. thousand
 12. tomb
+	1. [grave](dic://grave)
+	2. _n._ [topographic point](dic://topographic point), [place](dic://place), [spot](dic://spot)
+	3. **mausoleum**陵墓;**crypt**地窖,教堂地下室;**burial**埋葬;**grave**严肃的;**shrine**圣地;**graves**坟墓;**cemetery**墓地;**tombstone**墓碑;**coffin**棺材;**casket**匣子;**churchyard**墓地,境内;
+	4. _tomb stone_ n. 墓碑
+	5. the tomb was surmounted by a sculptured angel. /坟墓上立着一座天使雕塑。
+	6. the tomb had been defiled and looted. /这坟墓被亵渎盗掠了。
+	7. the site of the tomb was a place of sanctity for the ancient Egyptians. /墓地对于古埃及人来说是个神圣的地方。
+	8. a tomb effigy of Eleanor of Aquitaine. /阿基坦的埃莱诺的墓碑雕像。
+	9. In grief, Shah Jahan commissions a tomb for his beloved wife /悲伤中的沙杰罕命人为他的挚爱修建一座坟墓。
 13. truffle
+	1. n. 松露, 块菌, 圆形巧克力软糖
+	2.  来自中古法语 trufle,块菌，置换自拉丁语 tufera,来自 tuber,块茎，可食根，来自 PIE*teue,鼓起，膨胀，词源同 tuber,tumid.
 
 
 ### + \*teuta- + = tribe
@@ -2863,7 +2939,7 @@
 		2. [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
 		3. propounder
 3. **pos-, posit-** = put, 表示“放”。源自拉丁语 positionem "act or fact of placing, situation, position, affirmation."
-	1. apposite  (germane, fitting, condign, apposite, commensurate)
+	1. apposite  (germane, fitting, condign, apposite, commensurate, apropos, apt, pertinent)
 		1. ap-加强动作 + pos-放 + -ite → 放到(合适的位置) → 适当的。
 		2.  [appropriate](dic://appropriate), [apt](dic://apt), [pertinent](dic://pertinent)
 		3. _adj._ [apropos](dic://apropos)
@@ -3901,49 +3977,77 @@
 ### + \*trei- + = three
 1. **test-** = test, witness, “测试，证据”，医学上表示“睾丸”，
 	1. attest
-		1. unattested
-		2. attestor
-		3. attestment
-		4. attesting
-		5. attestation
-	2. contest
-		1. contestation
-		2. contestant
-		3. contestable
-		4. contestee
-		5. incontested, incontestable
-	3. obtest, obtestation
-	4. pretest
-	5. protest
+		1. at- + test【试验】 → 一再试验 → 证实。
+		2.  at-,向，往，-test,见证，来自 PIE*tri-st,来自*tri,三，词源同 three,三，-st,站，词源同 stand.即第三者，见证者，词源同 testis,睾丸，testament,证词。
+		3. vi. 证明, 表明, 作证  
+		4. vt. 为...作证
+		5. unattested
+		6. attestor
+		7. attestment
+		8. attesting
+			1.  [certify](dic://certify), [manifest](dic://manifest), [demonstrate](dic://demonstrate), [evidence](dic://evidence)
+			2. [testify](dic://testify), [take the stand](dic://take the stand), [bear witness](dic://bear witness)
+			3. _v._ [testify](dic://testify), [bear witness](dic://bear witness), [prove](dic://prove), [evidence](dic://evidence), [show](dic://show), [affirm](dic://affirm), [verify](dic://verify)
+			4. **vouch**担保;**testament**证明;**firsthand**直接来源的〔地〕 , 第一手的〔地〕;**substantiate**用事实支持;**prove**证明;**notwithstanding**尽管;**personally**就个人而言;**demonstrate**证明;**first-hand**第一手的;**documented**备有证明文件的;**truthfully**深信不疑地;
+			5. I can attest to the absolute truth of his story. /我可以证实他的话是千真万确的。
+			6. Witnesses attested his account. /几名证人都证实了他的陈述是真实的。
+			7. Ladies, I can attest that he is a kind, handsome, intelligent... /姑娘们，我可以证明他是一个善良，帅气，聪明。
+		9. attestation
+	3. contest
+		1. con-共同 + test【测试】 → 共同测试 → 比赛。
+		2. contestation
+		3. contestant
+		4. contestable
+		5. contestee
+		6. incontested, incontestable
+	4. obtest
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest)
+		2. vt. 恳请, 反对, 祈求(上帝或神灵)作证  
+		3. vi. 恳求, 抗议
+		4. obtestation
+	6. pretest
+		1. n. （学习或做某事前的）预先测试，预先试验 
+		2. v. 进行预测试，进行预试验
+	7. protest
 		1. Protestant
 		2. protestor
 		3. protestingly
 		4. protestation
-	6. testamur
-	7. testate, intestate
-		1. testatus
-		2. testatrix
-		3. testator
-		4. testation
-		5. testacy
-		6. testament
-	8. testee
-	9. testes, testicle, testicular
-	10. testis
-	11. testitis
-	12. testify, testimony
-	13. testing
-	14. detest (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, )
-		1. detest - testify源于意为“证人”或“证明”的拉丁语testis，因此它也表示“证明”。另一个出于同源的词testimony，其词义“证词”、“证据”也与其词源密切相关。可是人们往往把这两个词同testis直接进入英语后被赋予的词义“睾丸”相联系。以前有一家名为《女士》（Ms）的杂志刊登了一封读者来信，信上说，“我对使用testimony一词来表示女人的‘证言’这一做法提出抗议，因为该词的词根是testis，它和女性毫无瓜葛。为什么不用ovarimony（注：ovario-是个组合语素，表示‘卵巢’）？”这位读者恐怕是个女权运动者。其实源于testis的词远不止以上两个。Testament（圣约书），intestate（无遗嘱的），attest（证明），protest（抗议），detest（憎恶），contest（竞争）等等，以及它们的派生词，看来都得受牵连了。
-		2. detestation
-			1.  [abhorrence](dic://abhorrence), [abomination](dic://abomination), [execration](dic://execration), [loathing](dic://loathing), [odium](dic://odium)
+	8. testamur
+	9. testate /intestate
+		1. n. 留有遗嘱的死者 
+		2. adj. 留有遗嘱的
+		3.  [testator](dic://testator)
+		4. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
+		5. **executor**执行者;**probate**遗嘱认证;**heirs**继承人;**deceased**已故的;
+		6. When a person dies testate – that is, with a valid will – an executor, executrix, or administrator takes over the task of winding up the decedent's financial affairs. /一个留有遗嘱（即有效遗嘱）的人去世后，遗嘱执行人（女执行人）或遗嘱管理人接管了最后处理死者财务的事宜。
+		7. 
+		8. testatus
+		9. testatrix
+		10. testator
+		11. testation
+		12. testacy
+		13. testament
+	11. testee
+	12. testes, testicle, testicular
+	13. testis
+	14. testitis
+	15. testify, testimony
+	16. testing
+	17. detest (attest)
+		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, )
+		2. detest - testify源于意为“证人”或“证明”的拉丁语testis，因此它也表示“证明”。另一个出于同源的词testimony，其词义“证词”、“证据”也与其词源密切相关。可是人们往往把这两个词同testis直接进入英语后被赋予的词义“睾丸”相联系。以前有一家名为《女士》（Ms）的杂志刊登了一封读者来信，信上说，“我对使用testimony一词来表示女人的‘证言’这一做法提出抗议，因为该词的词根是testis，它和女性毫无瓜葛。为什么不用ovarimony（注：ovario-是个组合语素，表示‘卵巢’）？”这位读者恐怕是个女权运动者。其实源于testis的词远不止以上两个。Testament（圣约书），intestate（无遗嘱的），attest（证明），protest（抗议），detest（憎恶），contest（竞争）等等，以及它们的派生词，看来都得受牵连了。
+		3. detestation
+			1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium)
+			2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate)
+			1. [abhorrence](dic://abhorrence), [abomination](dic://abomination), [execration](dic://execration), [loathing](dic://loathing), [odium](dic://odium)
 			2. _n._ [hate](dic://hate), [hatred](dic://hatred), [disgust](dic://disgust)
 			3. **disdain**蔑视;**hatred**憎恨;**disgust**厌恶，嫌恶;**indignation**愤怒, 愤慨, 气愤;**admiration**钦佩;**scorn**轻蔑;**contempt**轻视，蔑视;**hostility**敌意;**wickedness**邪恶;**enmity**敌意;**affection**感情;
 			4. sniffish
-		3. detestable
-	16. testosterone
-	17. tested
-	18. testert
+		4. detestable
+	18. testosterone
+	19. tested
+	20. testert
 3. **tri-** = 表示“三”。源自希腊语 tri- "three."
 	1. tercel
 	2. tercentenary

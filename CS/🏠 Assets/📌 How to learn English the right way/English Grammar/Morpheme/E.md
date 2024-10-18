@@ -446,6 +446,7 @@
 			1. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**citrate**柠檬酸盐;**intercourse**交往;**dysfunction**机能障碍,机能失调;**ejaculation**突然的叫出声;**erection**直立;**libido**性欲;**Viagra**万艾可;**Cialis**西力士;
 		5. postcoital
 	7. concomitant
+		1. （symbiotic; accrete; commensal; paragenetic, concomitant)
 		2. con-强调 + com-一起 + it-走 + -ant表形容词， 即在一起走的，伴随的。
 		3. n. 相伴, 伴随, 共存
 		4. **consequent**作为结果的;**necessitate**使…成为必要, 需要;**prolonged**持续很久的,长时间的;**consequence**结果, 后果;**subsequent**随后的, 继…之后的;**simultaneous**同时发生的;**continual**不间断的, 不停的;**commensurate**相等的;**preclude**妨碍;**concurrent**同时存在的;**adverse**不利的;
@@ -461,31 +462,33 @@
 	10. itinerate
 		1. itiner-=it-走 + -ate, 表动词
 		2. **preacher**传教士;**pastor**牧师;**clergyman**牧师;**evangelist**福音传道者;**missionary**传教士;**preaching**讲道,讲道法;**vocation**职业;**congregation**人群;**nomadic**游牧的;**deacon**执事;
-		3. itinerant
-			2. [gypsy](dic://gypsy), [gipsy](dic://gipsy)
-			3. [road](dic://road), [touring](dic://touring), [traveling](dic://traveling)
-			4. [laborer](dic://laborer), [manual laborer](dic://manual laborer), [labourer](dic://labourer), [jack](dic://jack)
-			5. [unsettled](dic://unsettled), [moving](dic://moving)
-			6. **nomadic**游牧的;**gypsy**吉卜赛人;**preacher**传教士;**wandering**漫游的;**expatriate**侨民;**part-time**兼职的;**clergyman**牧师;**unskilled**不熟练的;**roving**粗纱;**renegade**变节者;**carpenter**木工, 木匠;
-		4. itinerary
+		3. itinerant （peripatetic, peregrinate, itinerant ）
+			1. itiner-=it-走 + -ant表形容词 → 走的 → 走来走去的。
+			2. 1 - 来自 itinerary,旅程，行程表。引申词义巡回的，流动的。
+			3. [gypsy](dic://gypsy), [gipsy](dic://gipsy)
+			4. [road](dic://road), [touring](dic://touring), [traveling](dic://traveling)
+			5. [laborer](dic://laborer), [manual laborer](dic://manual laborer), [labourer](dic://labourer), [jack](dic://jack)
+			6. [unsettled](dic://unsettled), [moving](dic://moving)
+			7. **nomadic**游牧的;**gypsy**吉卜赛人;**preacher**传教士;**wandering**漫游的;**expatriate**侨民;**part-time**兼职的;**clergyman**牧师;**unskilled**不熟练的;**roving**粗纱;**renegade**变节者;**carpenter**木工, 木匠;
+		5. itinerary
 			1. **trip**旅行;**excursion**远足, 短途旅行;**sightseeing**【U】观光;**tour**旅游，旅行;**travel**旅行;**guidebook**旅行指南;**schedule**安排，计划;**destination**目的地, 终点;**trips**远行;**stopover**中途停留;**booking**预订;
 			2. [line](dic://line), [guidebook](dic://guidebook), [guide](dic://guide), [plan of action](dic://plan of action)
-		5. itinerancy, itineracy
+		6. itinerancy, itineracy
 			4. n. 巡回；巡回公务
-		6. itineration
+		7. itineration
 			1. **itinerary**旅行计划，行程表;**missionary**传教士;
 			2. [tour](dic://tour), [circuit](dic://circuit)
-	12. preterit
+	11. preterit
 		1. **verbs**动词;**participle**分词;**verb**动词;**tense**拉紧的;**pronoun**代词;**pronouns**代名词;**grammatical**语法的;**nouns**名词;**imperfect**不完美的;**grammar**语法;**plural**复数的;
 		2. preterite
 		3. preterition,
-	13. sedition,
+	12. sedition,
 		1. sed-=se-分开 + it-走 + -ion, 表名词 → 分开走 → 叛乱。
 		2. **treason**叛国罪;**blasphemy**对上帝的亵渎,亵渎的言词〔行为〕;**insurrection**暴动;**inciting**刺激的;**rebellion**叛乱;**mutiny**兵变;**heresy**异教;**revolt**反抗;**subversion**颠覆;**disobedience**不服从,违抗;**defamation**诽谤, 中伤;
 		3. [misdemeanor](dic://misdemeanor), [misdemeanour](dic://misdemeanour), [infraction](dic://infraction), [offence](dic://offence), [offense](dic://offense), [violation](dic://violation), [infringement](dic://infringement)
 		4. seditionary
 		5. seditious
-	15. transit, transition
+	13. transit, transition
 		1. trans-交换 + it-走 + -ion名词后缀 → 交换走 → 过渡。
 		2. transiter
 		3. transitive, transitory
@@ -493,7 +496,7 @@
 			2. transiently,
 			3. subtransient
 		5. transitional
-	17. issue
+	14. issue
 		1. 来自古法语 issue,出口，出去，来自拉丁语 exire,出去，词源同 exit,ion.由向外走出引申问题，议题，期刊，发行等多种词义。
 		2. n. 发行, 问题, 后果, 流出, 出口, 争端  
 		3. vi. 发行, 流出, 造成...结果, 传下  
@@ -518,7 +521,7 @@
 			1. adj. 可发行的；[法] 可提出抗辩的；可成为争论点的
 			2. issuable currency; issuable securities. /可发行的货币；可发行的债券
 			3. a corporation's issuable profits. /一个公司的可增殖的利润
-	18. sudden
+	15. sudden
 		1.  - 来自盎格鲁诺曼法语 sudein,改写自拉丁语 subitaneus,来自 subitus,突然的，来自 sub,在下，向上，-it,走，词源同 exit,itinerary.即向上走来的，引申词义突然走来的，突然的。
 		2. suddenly
 		3. suddenness
@@ -561,8 +564,34 @@
 	3. hierophant
 	4. hieroglyph
 4. **hier-** = 表示“骶骨”。源自希腊语 hieros "holy."
+	1. platyhieric
+	2. hierolisthesis
+	3. etc..
 5. ire
-6. iron
+	1. [anger](dic://anger), [choler](dic://choler)
+	2. [wrath](dic://wrath), [anger](dic://anger), [ira](dic://ira)
+	3. _n._ [emotion](dic://emotion), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
+	4. **scorn**轻蔑;**outrage**暴行;**indignation**愤怒, 愤慨, 气愤;**wrath**愤怒;**backlash**反斜线;**criticism**批评, 批判, 指责;**hostility**敌意;**displeasure**不快, 不悦, 生气;**animosity**憎恨, 仇恨, 敌意;**outcry**尖叫;**anger**怒，愤怒;
+	5. the plans provoked the ire of conservationists. /此计划激起了自然资源保护主义者的愤怒。
+	6. Will anyone be spared your ire tonight? /你父亲？
+	7. A Cameroonian scheme to legalise gay marriage is drawing particular ire. /卡梅伦让同性恋获得合法地位的计划正招来特别的不满。
+	8. And a lone film blogger drew the ire of fans when he sullied Lady Bird's perfect Rotten Tomatoes score. /而某电影博主在烂番茄上将《伯德小姐》拉下了满分神坛，此举激起了粉丝们的愤怒。
+	9. The greatest ire, perhaps with some justification, came from Greek speakers. /最大的愤怒来自说希腊语的人，这或许是有道理的。
+	10. This is a big concession on both sides, actually, sure to arouse the ire of hard-line critics. /这是双方做出的巨大让步，这肯定会引发强硬派的指责。
+	11. ireful
+	12. irate
+		1.  [ireful](dic://ireful)
+		2. _adj._ [angry](dic://angry)
+		3. _n._  **enraged**暴怒的;**angry**生气的;**disgruntled**不满的, 不高兴的;**annoyed**恼怒的;**furious**狂怒的;**outraged**义愤填膺的;**frustrated**挫败的;**agitated**激动的;**irritated**恼怒的;**distraught**心烦意乱;**upset**使心烦;
+		4. a barrage of irate letters. /连珠炮般的斥责信件。
+		5. an irate phone call. /一个愤怒的电话
+		6. paltering with an irate customer /搪塞一个愤怒的顾客；
+		7. retribution arrived in the shape of my irate father. /父亲勃然大怒，这就是我受到的惩罚。
+		8. The president also has been irate about a Justice Department investigation into President-elect Joe Biden's son, Hunter, for possible tax evasion. /总统还对司法部调查当选总统拜登的儿子亨特可能逃税一事感到愤怒。
+	13. irascible
+	14. irascibility
+		1. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery)
+7. iron
 
 
 ## ek
@@ -1353,12 +1382,17 @@
 		6. _[inappropriate intimacy](dic://inappropriate%20intimacy)_  狎昵关系；过度亲密；不合适的亲密
 		7. _[physical intimacy](dic://physical%20intimacy)_ 体亲密
 	2. intimate
-		1. [confidant](dic://confidant)
-		2. [adumbrate](dic://adumbrate), [insinuate](dic://insinuate)
-		3. [suggest](dic://suggest)
-		4. [cozy](dic://cozy), [informal](dic://informal)
-		5. [familiar](dic://familiar)
-		6. [inner](dic://inner), [internal](dic://internal)
+		1. intim-内心的 + -ate, 表形容词 → 亲密的。
+		2.  来自拉丁语 intus,在内部，在里面，-m,最高级后缀，词源同 extreme,ultimate.引申词义亲密的。
+		3. a. 亲密的, 私人的, 秘密的  
+		4. vt. 暗示, 通知, 告诉  
+		5. n. 至交
+		6. [confidant](dic://confidant)
+		7. [adumbrate](dic://adumbrate), [insinuate](dic://insinuate)
+		8. [suggest](dic://suggest)
+		9. [cozy](dic://cozy), [informal](dic://informal)
+		10. [familiar](dic://familiar)
+		11. [inner](dic://inner), [internal](dic://internal)
 		7. [knowledgeable](dic://knowledgeable), [versed](dic://versed)
 		8. [friend](dic://friend)
 		9. [hint](dic://hint), [suggest](dic://suggest), [imply](dic://imply)
@@ -1368,10 +1402,30 @@
 			1. _intimate relationship_ 亲密的关系
 			2. _intimate friend_ 知交，知己
 			3. _intimate contact_ 亲密接触
-		13. intimation
-			1. **acknowledgment**承认;**acknowledgement**答谢的表示;**apprehension**理解;**particulars**事实;**objection**反对, 异议;**invitation**邀请;**continuance**继续;**indication**指示, 表示;**assent**赞成;**allusion**暗示;**telegram**电报;
-			2. _[the pursuit of intimation](dic://the%20pursuit%20of%20intimation)_ 追求暗示
-		14. intimately
+		13. on an intimate footing /温暖的立足之地。
+		14. they are on intimate terms. /他们关系亲密。
+		15. intimate correspondence. /私人通信。
+		16. intimate prayers. /发自内心的祷告
+		17. their intimate involvement with their community. /他们与所居社区的紧密关系。
+		18. An intimate friendship grew up between them. /他们之间渐渐产生了亲密的友情。
+		19. the moil of his intimate thoughts. /他心里一片混乱。
+		20. his most intimate and self-revealing book /他的最能揭示自我内心世界的书。
+		21. Whom can it be to? you have so few intimates here. /还会是谁？你在这没什么密友吧。
+		22. He had merely intimated his displeasure, in his pride believing that to intimate was to command. /他只是想表达一下自己的不满。他认为，凭他的身份，这么表达一下就足以使别人驯服了。
+		23. The cafe has an **intimate** but buzzy atmosphere /咖啡馆气氛暧昧但又很活泼。
+		24. intimation
+			1. (adumbrate, insinuate, clue, glimpse)
+			2. (inkling, glimmering, glimmer, intimation)
+			3. [hint](dic://hint), [breath](dic://breath)
+			4. [inkling](dic://inkling), [glimmering](dic://glimmering), [glimmer](dic://glimmer)
+			5. _n._ [suggestion](dic://suggestion), [proposition](dic://proposition), [proffer](dic://proffer)
+			6. **acknowledgment**承认;**acknowledgement**答谢的表示;**apprehension**理解;**particulars**事实;**objection**反对, 异议;**invitation**邀请;**continuance**继续;**indication**指示, 表示;**assent**赞成;**allusion**暗示;**telegram**电报;
+			7. _[the pursuit of intimation](dic://the%20pursuit%20of%20intimation)_ 追求暗示
+			8. Blue, with its intimations of the Virgin Mary, constancy, and faithfulness, symbolized femininity. /蓝色象征着女性，代表圣母玛利亚，坚贞与忠诚。
+			9. With the unreasonable petulance of mankind I rang the bell and gave a curt intimation that I was ready. /我一时没有道理地发起火来，立刻按铃，简捷地告诉房东太太，我已准备吃早餐。
+			10. After a few moments of scanning the penumbra of the inner mind, we are liable to pick up a few intimations of something /扫描内心的半影片刻后，我们很容易获得一些暗示。
+			11. You see the intimation? House practically told Bryan that he was too important for the job — and Bryan was satisfied. /你看明白个中的暗示了吗？ 豪斯上校实事求是地告诉布赖恩：他身居要职，不可以避重就轻地去担任和平特使。 如此，布赖恩便可以欣然面对威尔逊的安排。
+		26. intimately
 11. **intra-** = 表示“在内，内部”。
 	1. intracellular
 	2. intracollegiate
@@ -2275,18 +2329,20 @@
 		7. he could never forgive his daughter's errant ways. /他永远无法原谅女儿的出格行为。
 		8. She went to Paris to bring back her errant son. /她到巴黎去把误入歧途的儿子领回来。
 		9. An errant May-fly swerved unsteadily athwart the current in the intoxicated fashion affected by young bloods of May-flies seeing life.  A swirl of water and a ‘cloop!’ /一只随波漂流的蜉蝣，满怀着血气方刚的后生对生活的憧憬，正歪歪斜斜地逆水游来。
-	6. erratic (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) (eccentric, queer, erratic, )
-		1. err-错误 + -atic → [被人认为]错误的 → 古怪的。
-		2. n. 古怪的人, 漂石  a. 不规则的; 不确定的; 不稳定的, 不可靠的
-		3. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
-		4.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
-		5. [planetary](dic://planetary), [wandering](dic://wandering)
-		6. the erratic behaviour of the old car. /那辆旧车不稳定的性能。
-		7. the wicket was causing the occasional erratic bounce. /这一轮击球中出现了偶尔飘忽不定的反弹球。
-		8. he was let down by an erratic serve. /一个奇怪的发球让他扫兴。
-		9. He is a very erratic football player. /他是个技术非常不稳定的足球队员。
-		10. Bill's erratic moods upset everyone in our office. /比尔古怪的情绪使我们办公室的每个人都心烦。
-	7. erratum
+	6. erratic 
+		1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, portean) 
+		2. (eccentric, queer, erratic, )
+		3. err-错误 + -atic → [被人认为]错误的 → 古怪的。
+		4. n. 古怪的人, 漂石  a. 不规则的; 不确定的; 不稳定的, 不可靠的
+		5. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
+		6.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
+		7. [planetary](dic://planetary), [wandering](dic://wandering)
+		8. the erratic behaviour of the old car. /那辆旧车不稳定的性能。
+		9. the wicket was causing the occasional erratic bounce. /这一轮击球中出现了偶尔飘忽不定的反弹球。
+		10. he was let down by an erratic serve. /一个奇怪的发球让他扫兴。
+		11. He is a very erratic football player. /他是个技术非常不稳定的足球队员。
+		12. Bill's erratic moods upset everyone in our office. /比尔古怪的情绪使我们办公室的每个人都心烦。
+	8. erratum
 		1. err-漫游 + -atum
 		2. **corrected**折算的,修正的,校正的;**typo**排印错误;**reprint**再版;**publication**出版;**correction**改〔纠〕正;**footnote**脚注;**retraction**收回;**appendix**附
 

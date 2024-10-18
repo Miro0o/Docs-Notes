@@ -158,74 +158,75 @@
 		2. 
 	13. jurisdiction
 	14. abdicate
-		1. vt. 正式放弃  
-		2. vi. 退位, 退出, 辞职
-		3. ab-离开 + dic-说, 命令 + -ate, 表动词 → 不再命令 → 退位。
-		4. abdicate（退位）：君主主动放弃王位  
-		5. 英语单词abdicate来自拉丁语abdicatus，是动词abdicare的过去分词形式，而后者由ab（away，离开）和dicare（宣布）构成，字面意思就是“宣布脱离关系”。在古罗马法中，abdicatus表示与某家庭成员断绝关系，如断绝父子关系，相当于剥夺儿子的继承权。进入英语后演变为abdicate，更常用来表示辞掉某项正式职位。但与resign（辞职）不同，abdicate专指放弃国家的最高职位，通常表示君主或教皇宣布退位。  
-		6. 在近代史中，最著名的一次abdication莫过于英国国王爱德华八世的退位。1936年，爱德华在一片反对声中，宣布与美国寡妇辛普森夫人结婚，并为此自愿退位。这位“不爱江山爱美人”的国王是英国历史上唯一一位自愿退位的国王。  
-		7. abdicate：['æbdɪkeɪt] v.退位，放弃  
-		8. abdication：[,æbdə'keʃən] n.退位，放弃权利
-		9. abdicable
-	15. dedicate
-	16. dictate
-	17. indicate 
+		1. (renounce, abjure, abdicate, foreswear, quit, relinquish, )
+		2. vt. 正式放弃  
+		3. vi. 退位, 退出, 辞职
+		4. ab-离开 + dic-说, 命令 + -ate, 表动词 → 不再命令 → 退位。
+		5. abdicate（退位）：君主主动放弃王位  
+		6. 英语单词abdicate来自拉丁语abdicatus，是动词abdicare的过去分词形式，而后者由ab（away，离开）和dicare（宣布）构成，字面意思就是“宣布脱离关系”。在古罗马法中，abdicatus表示与某家庭成员断绝关系，如断绝父子关系，相当于剥夺儿子的继承权。进入英语后演变为abdicate，更常用来表示辞掉某项正式职位。但与resign（辞职）不同，abdicate专指放弃国家的最高职位，通常表示君主或教皇宣布退位。  
+		7. 在近代史中，最著名的一次abdication莫过于英国国王爱德华八世的退位。1936年，爱德华在一片反对声中，宣布与美国寡妇辛普森夫人结婚，并为此自愿退位。这位“不爱江山爱美人”的国王是英国历史上唯一一位自愿退位的国王。  
+		8. abdicate：['æbdɪkeɪt] v.退位，放弃  
+		9. abdication：[,æbdə'keʃən] n.退位，放弃权利
+		10. abdicable
+	16. dedicate
+	17. dictate
+	18. indicate 
 		1. (bespeak, indicate, point, signal)
-	18. predicate
+	19. predicate
 		1. predicability, predicable, predicably, predicament
-	19. vindicate
+	20. vindicate
 		1. (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 		2. vindicability
 		3. vindicable
 		4. vindictive
-	20. dictaphone
-	21. valedictory
-	22. diction
+	21. dictaphone
+	22. valedictory
+	23. diction
 		1. diction - 该词16世纪始用于英语，它来自中世纪拉丁语dictiōnārium 'collection of words'（词集）。但若再进一步追本溯源，我们就会发现它和另一词diction（措词）都源于拉丁语dictiō（词）和dīcere（说）。英语中有不少带有拉丁词根dic-或dict-的词，其终极词源都是dīcere（说），都与“说”或“话”有关。例如benediction是“祝福”（a saying of good words），其前缀bene-是well（好）的意思；malediction是“诅咒”（asaying of bad words），其前缀mal-是“恶”或“坏”的意思。再如contradict意为“顶撞”（speak against or the opposite of another's words），其前缀contra-是“反对”或“与……相反”的意思；predict意为“预言”（say beforehand），其前缀pre-是“前”的意思。又如dictate意为“口授”或“听写”，其派生词dictator则指“独裁者”；verdict意为“裁决”，其中ver(e)是“真实地”的意思；edict意为“法令”、“敕令”，其前缀e- = ex-，含有“（话）向外（传）”之义；dictum意为“名言”或“格言”（a saying or pronouncement），等等。
 		2. dict-说 + -ion, 表名词 → 说话状态 → 措词。
-	23. dictograph
+	24. dictograph
 		1. dict-说话 + -graph仪器
-	24. dictum (proverb, dictum, )
+	25. dictum (proverb, dictum, )
 		1. dict-说 + -um → 说[出]的话 → 格言。
 		2.  [pronouncement](dic://pronouncement), [say-so](dic://say-so)
 		3.  [obiter dictum](dic://obiter dictum)
 		4. _n._ [declaration](dic://declaration), [opinion](dic://opinion), [legal opinion](dic://legal opinion), [judgment](dic://judgment), [judgement](dic://judgement)
 		5. **adage**格言，谚语;**axiom**公理;**principle**原理;**proverb**谚语，格言;**motto**座右铭，格言;**doctrine**教义;**precepts**戒律;**mantra**颂歌;**dogma**教条，教理;**paraphrase**释义;**rule**统治;
-	25. theodicy
+	26. theodicy
 		1. theo-神 + dic-说 + -y
-	26. condition
+	27. condition
 		1. 1 - 来自法语。con-,表强调，-dit,说，讨论，词源同 dictate,dictionary.字母 c 脱落比较benefit,benefactor.原指描述的情况，规定的情况，后指客观情况。
-	27. ditto
+	28. ditto
 		1. [ditto mark](dic://ditto mark)
 		2. _n._ [mark](dic://mark)
 		3. _v._ [repeat](dic://repeat), [reiterate](dic://reiterate), [ingeminate](dic://ingeminate), [iterate](dic://iterate), [restate](dic://restate), [retell](dic://retell)
 		4. **BTW**随便说一下;**yep**是;**yes**是;**yup**是的;**nope**不是，没有;**ugh**啊;**anyhow**无论如何;**heh**嗨!;**duh**咄;**yeah**是;**dunno**我不知道;
 		5. _say ditto to_ [口语]同意…的意见，对…表示同意，赞成(某种观点)
-	28. ditty
+	29. ditty
 		1. 1 - 来自拉丁语 dictatum,说，说唱，词源同 diction.
 		2. _n._ [song](dic://song), [vocal](dic://vocal)
 		3. **song**歌曲;**lyric**抒情的;**jingle**发出叮当声;**ballad**歌谣，民谣;**melody**旋律;**tune**曲调, 曲子;**catchy**引人注意的;**riff**反复乐节;**lyrics**歌词;**hymn**赞美诗;**anthem**赞美诗;
-	29. index
+	30. index
 		1. 来自拉丁语 indicare,指出，说明，来自 in-,进入，使，-dic,指出，说，词源同 digit,indication.引申词义指数，标志，特征等。其复数形式为 indices.
-	30. indite (indict)
+	31. indite (indict)
 		1. 单词A：indict [ɪn'daɪt] vt.控告；起诉；[法] 揭发，单词B：indite [ɪn'daɪt] vt.写成文章。两个单词意思不同，但读音相同，而更重要的是，它们同根。拉丁词根dict-表to speak，indict控告，那是要把想要说（控诉）的东西（dict-）写出来，而indite也是把要说的话写出来，只不过不在法律方向了。 ​​​​
 		2. _v._ [create verbally](dic://create verbally)
 		3. **jot**略记;**compose**作曲;**likewise**也;**furnish**供应;**assemblage**聚集;**confine**限制;**moreover**此外;**nigh**近于;**write**写，写字;
 		4. [write](dic://write), [compose](dic://compose), [pen](dic://pen)
-	31. paradigm
+	32. paradigm
 		1. para-旁边 + digm-=dict-说、展示 → 在旁边显示给(别人) → 示范。
 		2.  [prototype](dic://prototype), [epitome](dic://epitome), [image](dic://image)
 		3.  [substitution class](dic://substitution class)
 		4. _n_ [inflection](dic://inflection), [inflexion](dic://inflexion), [model](dic://model), [example](dic://example), [class](dic://class), [category](dic://category), [family](dic://family)
 		5. **shift**移动;**mindset**心态;**dichotomy**一分成二,对分;**notion**概念;**theory**理论;**framework**构架;**approach**接近;**postmodern**后现代主义的;**concept**观念，概念;**top-down**组织管理严密的;**mechanistic**机械学的;
 		6. _paradigm shift_ 典范转移；思考模式的转移
-	32. preach
+	33. preach
 		1. 1 - 来自古英语 predician,传道，布道，借自古法语 preechier,传道，布道，来自拉丁语 praedicare,公开宣称，通知，宣布，公告，来自 prae,在前面，dicare,说，宣布，公告，词源同 diction,predict.引申贬义词义说教。
 		2. preachy
 			1. **corny**谷类的;**condescending**降低身份的,屈尊的;**pretentious**自命不凡的;**judgmental**审判的;**crass**粗鲁的;**cliche**陈词滥调;**snarky**恶声恶气的，咬人的;**whiny**烦躁的;**pompous**浮夸的;**pushy**有进取心的;**overbearing**专横的,傲慢的;
 			2. _adj._ [instructive](dic://instructive), [informative](dic://informative)
 			3. _n._ [uninstructive](dic://uninstructive)
-	33. vendetta
+	34. vendetta
 		1. 1 - 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
 		2. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
 3. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
@@ -299,7 +300,7 @@
 		8. indecency
 3. **dign-** = worthy, noble, 表示“值得，高贵”。源自拉丁语 dignus "worthy, deserving, fitting."
 	1. condign
-		1.  (germane, fitting, condign, apposite, commensurate)
+		1.  (germane, fitting, condign, apposite, commensurate, apropos, apt, pertinent)
 		2. 1 - con-,表强调，-dign,价值，值得，词源同 decent,dignity.原指获得应有价值的，也指值得惩罚的，罪有应得的。
 		3. **punishment**处罚, 受罚;**retribution**应得的惩罚或赔偿;**penance**使…以苦行赎罪;**justly**公正地;
 		4. [merited](dic://merited), [deserved](dic://deserved)
@@ -552,15 +553,24 @@
 	3. dolesome
 		1. - adj. 寂寞的；悲哀的
 	4. dolorous
-		1. [dolourous](dic://dolourous), [lachrymose](dic://lachrymose), [tearful](dic://tearful), [weeping](dic://weeping) 
-		2. [sorrowful](dic://sorrowful)
-		3. **melancholy**忧郁, 悲哀;**dreadful**可怕的;**wretched**可怜的;**gloomy**黑暗的;**somber**昏暗的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**lament**悲叹;**grim**冷酷的;**anguish**苦闷;
-		4. Since then, $3 trillion has been added, pushing the dolorous pile above $16 trillion /从那以后，债务增加了3万亿美元，总额已超过16万亿美元。
-		5. His plump, pink face was dolorous, sagging, wan-eyed /他丰满的粉红色脸庞忧郁、下垂、苍白的眼睛。
-	5. doleful
-		1. **melancholy**忧郁, 悲哀;**gloomy**黑暗的;**somber**昏暗的;**grim**冷酷的;**solemn**庄严的，严肃的;**lament**悲叹;**dreary**沉闷的，枯燥的;**wry**面部肌肉扭曲的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**brooding**沉思的;
-		2. [mournful](dic://mournful)
-		3. [sad](dic://sad)
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule)
+		2. [dolourous](dic://dolourous), [lachrymose](dic://lachrymose), [tearful](dic://tearful), [weeping](dic://weeping) 
+		3. [sorrowful](dic://sorrowful)
+		4. **melancholy**忧郁, 悲哀;**dreadful**可怕的;**wretched**可怜的;**gloomy**黑暗的;**somber**昏暗的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**lament**悲叹;**grim**冷酷的;**anguish**苦闷;
+		5. Since then, $3 trillion has been added, pushing the dolorous pile above $16 trillion /从那以后，债务增加了3万亿美元，总额已超过16万亿美元。
+		6. His plump, pink face was dolorous, sagging, wan-eyed /他丰满的粉红色脸庞忧郁、下垂、苍白的眼睛。
+	6. doleful
+		1. - adj. 寂寞的；悲哀的；阴沉的；忧郁的
+		2. dole-伤心 + -ful, 表形容词
+		3. **melancholy**忧郁, 悲哀;**gloomy**黑暗的;**somber**昏暗的;**grim**冷酷的;**solemn**庄严的，严肃的;**lament**悲叹;**dreary**沉闷的，枯燥的;**wry**面部肌肉扭曲的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**brooding**沉思的;
+		4. [mournful](dic://mournful)
+		5. [sad](dic://sad)
+		6. he could be stricken off with doleful consequences. /他可能会遭到令人伤心的结果。
+		7. The chastised child looked at her father with a pathetic, doleful expression. /被责骂的孩子哀怜地、悲伤地看着她的父亲。
+		8. But never doleful dream again shall break his happy slumber when /但悲哀的梦已不再打断他幸福的梦乡。
+		9. Critics argue that small-town literature offers an outdated and melancholic doleful portrayal of small towns, filled with sorrowful and confused characters. /批评家认为，小镇文学描述的是一个过时的、忧郁的、悲哀的小镇形象，充满了悲伤和困惑的人物。
+		10. He has been very silent and doleful of late. /他最近一直很沉默和悲伤。
+		11. A very ragged beggar had slouched up to them, with a doleful, monotonous whine. /一个衣衫褴褛的乞丐无精打采地向他们走来，发出凄凉而单调的哀鸣。
 2. **dolabri-** = pickax, 「latin」dolabra, "mattock, pickax"
 	1. dedolation
 	2. dolabrate
@@ -1877,23 +1887,24 @@
 	25. prefect
 	26. facile
 		1. (facile, piddling, trifling, petty, frivolous, superfluous, trivial, minuscule)
-		2. 来自 PIE*dhe,做，放置，词源同 do,fact.即好做的，简单的。后词义贬义化，用来指轻率的，肤浅的。
-		3. _adj._ [superficial](dic://superficial), [effortless](dic://effortless), [articulate](dic://articulate)
-		4. _n._ [profound](dic://profound), [effortful](dic://effortful), [inarticulate](dic://inarticulate), [unarticulate](dic://unarticulate)
-		5. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
-		6. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
-		7. _[facile profound](dic://facile%20profound)_ 易做到的
-		8. _[sonata facile](dic://sonata%20facile)_ 简易奏鸣曲
-		9. _[facile a](dic://facile%20a)_ 容易做的
-		10. _[a facile worker](dic://a%20facile%20worker)_ 能干的工作者
-		11. the gift of facile expression: /表现出轻松的礼物：
-		12. a facile slogan devised by politicians. /政客所提出的缺乏诚意和深度的口号
-		13. She has a facile tongue /她口齿流利。
-		14. proposed a facile solution to a complex problem /对一复杂的问题提出肤浅的解决建议
-		15. His facile banter was rather stupid /他轻率的玩笑相当愚蠢。
-		16. He yearns to have faith in faith, and not in the facile kind either /他渴望笃信信仰，而不是轻率地相信。
-		17. Whenever silence seemed to threaten us and I racked my brain for something fresh to talk about, she broke in with facile chatter. /每当沉默似乎威胁到我们， 我绞尽脑汁想找点新鲜的话题时， 她就会轻松地喋喋不休地插话。
-		18. This spirit has long rocked the colleges in America. It begins, as a rule, during the immaturities and facile impressions of freshman year—sometimes back in preparatory school. /这种精神长期以来一直震撼着美国的大学。通常，它开始于大一新生的不成熟和浅薄印象——有时回到预备学校。
+		2. (facile, flimsy, shallow, superficial, callow, )
+		3. 来自 PIE*dhe,做，放置，词源同 do,fact.即好做的，简单的。后词义贬义化，用来指轻率的，肤浅的。
+		4. _adj._ [superficial](dic://superficial), [effortless](dic://effortless), [articulate](dic://articulate)
+		5. _n._ [profound](dic://profound), [effortful](dic://effortful), [inarticulate](dic://inarticulate), [unarticulate](dic://unarticulate)
+		6. **simplistic**过分单纯化的;**banal**陈腐的;**crass**粗鲁的;**disingenuous**不真诚的;**straightforward**正直的, 坦率的;**cynical**愤世嫉俗的;**expedient**应急有效的;**contrived**不自然的;**ludicrous**荒唐可笑的,滑稽可笑的;**amenable**有责任的，应服从的;**easy**容易的;
+		7. [eloquent](dic://eloquent), [fluent](dic://fluent), [silver](dic://silver), [silver-tongued](dic://silver-tongued), [smooth-spoken](dic://smooth-spoken)
+		8. _[facile profound](dic://facile%20profound)_ 易做到的
+		9. _[sonata facile](dic://sonata%20facile)_ 简易奏鸣曲
+		10. _[facile a](dic://facile%20a)_ 容易做的
+		11. _[a facile worker](dic://a%20facile%20worker)_ 能干的工作者
+		12. the gift of facile expression: /表现出轻松的礼物：
+		13. a facile slogan devised by politicians. /政客所提出的缺乏诚意和深度的口号
+		14. She has a facile tongue /她口齿流利。
+		15. proposed a facile solution to a complex problem /对一复杂的问题提出肤浅的解决建议
+		16. His facile banter was rather stupid /他轻率的玩笑相当愚蠢。
+		17. He yearns to have faith in faith, and not in the facile kind either /他渴望笃信信仰，而不是轻率地相信。
+		18. Whenever silence seemed to threaten us and I racked my brain for something fresh to talk about, she broke in with facile chatter. /每当沉默似乎威胁到我们， 我绞尽脑汁想找点新鲜的话题时， 她就会轻松地喋喋不休地插话。
+		19. This spirit has long rocked the colleges in America. It begins, as a rule, during the immaturities and facile impressions of freshman year—sometimes back in preparatory school. /这种精神长期以来一直震撼着美国的大学。通常，它开始于大一新生的不成熟和浅薄印象——有时回到预备学校。
 	27. facility
 		1. [installation](dic://installation)
 		2.  [adeptness](dic://adeptness), [adroitness](dic://adroitness), [deftness](dic://deftness), [quickness](dic://quickness)
@@ -1974,18 +1985,19 @@
 			16. Faction almost broke up the club. /内部纠纷几乎使俱乐部解体。
 			17. factions within the government were contending for the succession to the presidency. /内阁各派系正在为连任而相互竞争。
 		3. factious (schism, discord, ) (cliquish, clannish, clubby)
-			1. a. 好搞派系的, 好结党营私的
-			2.  [dissentious](dic://dissentious), [divisive](dic://divisive)
-			3. _adj._ [discordant](dic://discordant)
-			4. _n._ [accordant](dic://accordant)
-			5. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
+			1. (factious, factitious, fractious)
+			2. a. 好搞派系的, 好结党营私的
+			3.  [dissentious](dic://dissentious), [divisive](dic://divisive)
+			4. _adj._ [discordant](dic://discordant)
+			5. _n._ [accordant](dic://accordant)
+			6. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
 			7. a factious country. /四分五裂的国家。
 			8. It was, accordingly, no mere factious spirit that drove him into opposition to Hamilton. /因此，驱使他反对汉密尔顿的不仅仅是党派精神。
 			9. 
-		4. factitious 
+		5. factitious 
 			1. (factitious, factious, fractious)
 			2. (contrived, factitious, planned, plotted, apocryphal)
-			3. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious)
+			3. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious, plastic)
 			4. a. 人为的, 人工的, 不自然的 /fact-做 + -itious…的 → 做出来的 , 不自然的。
 			5. 来自 fact-,做，词源同 fact,face.词义贬义化，即人为的，虚假的。
 			6. _adj._ [artificial](dic://artificial), [unreal](dic://unreal)
@@ -4028,29 +4040,30 @@
 		2. **retraction**收回;**withdraw**撤消;**refute**反驳，驳斥;**suspend**延缓，推迟;**extend**延伸;**reconsider**重新考虑;**detach**分离;**accept**接受;**deflect**使偏斜;**invalidate**使无效;**resign**辞职;
 	17. subtract
 4. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
-	1. entreat (supplicate)
-		1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
-		2. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。
-		3. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。
-		4. [require](dic://require) 强调根据事业、需要或纪律、法律等而提出的要求。
-		5. [request](dic://request) 正式用词，指非常正式，有礼貌的请求或恳求，多含担心因种种原因对方不能答应的意味。
-		6. [implore](dic://implore) 书面用词，着重指迫切、焦急或痛苦地恳求或哀求，常含较强的感情色彩。
-		7. [claim](dic://claim) 指有权或宣称有权得到而公开提出的要求。
-		8. [pray](dic://pray) 语气庄重，指热情、诚恳和敬祈的要求，现不很常用。
-		9. [entreat](dic://entreat) 泛指一般“恳求或哀求”，含企图说服对方或用热烈的请求软化反对意见的意味。
-		10. **beg**恳求;**earnestly**认真地;**plead**辩护;**persuade**说服，劝说;**compel**强迫，迫使;**thee**你;**doth**从事;**humbly**卑贱地;**pray**祈祷;**oblige**强制;**obliged**感激的;
-	2. maltreat
+	1. entreat
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate, implore, pray)
+		2. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
+		3. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。
+		4. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。
+		5. [require](dic://require) 强调根据事业、需要或纪律、法律等而提出的要求。
+		6. [request](dic://request) 正式用词，指非常正式，有礼貌的请求或恳求，多含担心因种种原因对方不能答应的意味。
+		7. [implore](dic://implore) 书面用词，着重指迫切、焦急或痛苦地恳求或哀求，常含较强的感情色彩。
+		8. [claim](dic://claim) 指有权或宣称有权得到而公开提出的要求。
+		9. [pray](dic://pray) 语气庄重，指热情、诚恳和敬祈的要求，现不很常用。
+		10. [entreat](dic://entreat) 泛指一般“恳求或哀求”，含企图说服对方或用热烈的请求软化反对意见的意味。
+		11. **beg**恳求;**earnestly**认真地;**plead**辩护;**persuade**说服，劝说;**compel**强迫，迫使;**thee**你;**doth**从事;**humbly**卑贱地;**pray**祈祷;**oblige**强制;**obliged**感激的;
+	3. maltreat
 		1. [mistreat](dic://mistreat), [abuse](dic://abuse), [ill-use](dic://ill-use), [step](dic://step), [ill-treat](dic://ill-treat)
 		2. **humiliate**蒙羞;**mistreatment**虐待;**injure**伤害，损害;**harass**使烦恼;**neglect**疏忽，忽视;**abuse**滥用;**punish**严厉对待;**kidnap**绑架;**intimidate**恐吓, 威胁;**betray**背叛;**frighten**使惊
-	3. retreat
+	4. retreat
 		1. **retreating**再加工,再精制;**getaway**逃走;**hideaway**潜伏处;**secluded**隐退的，隐居的;**seclusion**隔绝,隔离,隐居;**regroup**重新组合;**solitude**孤独;**tranquil**安静的，平静的;**respite**暂缓;**serenity**平静，宁静;**refuge**避难;
 		2. _[beat a retreat](dic://beat%20a%20retreat)_  撤退；放弃
 		3. 
-	4. treat
+	5. treat
 		1. treatable
 		2. treatment
-	5. treaty
-	6. tractable
+	6. treaty
+	7. tractable
 		1.  来自拉丁语 tractare,处理，操纵，对待，词源同 tract.-able,形容词后缀。
 		2. _adj._ [ductile](dic://ductile), [malleable](dic://malleable), [docile](dic://docile), [teachable](dic://teachable), [tamable](dic://tamable), [tameable](dic://tameable), [susceptible](dic://susceptible)
 		3. _n._ [intractable](dic://intractable), [unsusceptible](dic://unsusceptible), [insusceptible](dic://insusceptible)
