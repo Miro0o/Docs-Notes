@@ -266,22 +266,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8cf02eb6e1a6ef39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Computability Theory & Turing Machine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -331,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.50271224975586
+    "width": 406.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -347,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Computability Theory & Turing Machine.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Computability Theory & Turing Machine.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Computability Theory & Turing Machine.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md"
               }
             }
           },
@@ -432,11 +420,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8cf02eb6e1a6ef39",
+  "active": "bbd06af908d98b7f",
   "lastOpenFiles": [
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/Drawing 2024-10-18 18.36.12.excalidraw.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/CS172 Computability and Complexity.md",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/Drawing 2024-10-18 18.36.12.excalidraw.png",
+    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/Drawing 2024-10-18 18.36.12.excalidraw.svg",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Theory of Computation.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Computability Theory & Turing Machine.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Church–Turing Thesis (Computability Thesis).md",
     "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/H.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
@@ -454,12 +449,6 @@
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/I.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Y.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/XSS (Cross Site Scripting)/XSS (Cross Site Scripting).md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x01 Application Layer/🔥 Web (WWW) Protocols/HTTP (HyperText Transfer Protocol)/HTTP Secuirty/CSP (Content Security Policy).md",
-    "CS/CyberSecurity/☠️ Kill Chain/🎯 Cyber Ranges & Labs/🧪 Ranges & Security Labs/SEED Project/SeedLab - Web Security.md",
     "Assets/Pics/Screenshot 2024-10-10 at 22.13.43.png",
     "Assets/Pics/Screenshot 2024-10-10 at 21.38.06.png",
     "Assets/Pics/Screenshot 2024-10-10 at 21.22.22.png",
@@ -469,8 +458,6 @@
     "Assets/Pics/Screenshot 2024-10-10 at 12.21.56.png",
     "Assets/Pics/Screenshot 2024-10-10 at 12.21.48.png",
     "Assets/Pics/Screenshot 2024-10-10 at 00.25.22.png",
-    "Assets/Pics/Screenshot 2024-10-10 at 00.21.49.png",
-    "Assets/Pics/Screenshot 2024-10-10 at 00.20.17.png",
     "CS/🏠 Assets/📌 How to learn English the right way/English Speaking",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS161 Computer Security/Lab2 Design",
     "Untitled.table",
