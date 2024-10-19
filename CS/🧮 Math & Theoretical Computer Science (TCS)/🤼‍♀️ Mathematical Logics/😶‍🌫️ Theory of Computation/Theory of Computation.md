@@ -59,6 +59,21 @@ The goal is to build a collection of videos for an undergraduate Theory of Compu
 - [Ch16 NP完全 NP-Complete, NPC](http://mropengate.blogspot.tw/2015/06/formal-language-ch16-np-np-complete-npc.html)
 - [Ch16.5 Cook-Levin理論與卡普的二十一個NP-完全問題](http://mropengate.blogspot.tw/2015/06/algorithm-cook-levinnp.html)
 
+https://zemdalk.github.io/archive.html?tag=理论计算机科学基础
+- 06月02日[理论计算机科学基础（13）——NL完全、NL=coNL](https://zemdalk.github.io/2022/06/02/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-13.html)
+- 05月31日[理论计算机科学基础（12）——PSPACE完全](https://zemdalk.github.io/2022/05/31/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-12.html)
+- 05月30日[理论计算机科学基础（11）——空间复杂性类](https://zemdalk.github.io/2022/05/30/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-11.html)
+- 05月19日[理论计算机科学基础（10）——更多NP完全问题](https://zemdalk.github.io/2022/05/19/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-10.html)
+- 05月13日[理论计算机科学基础（9）——NP完全问题](https://zemdalk.github.io/2022/05/13/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-9.html)
+- 05月12日[理论计算机科学基础（8）——时间复杂性](https://zemdalk.github.io/2022/05/12/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-8.html)
+- 04月25日[理论计算机科学基础（7）——图灵归约](https://zemdalk.github.io/2022/04/25/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-7.html)
+- 04月15日[理论计算机科学基础（6）——递归定理](https://zemdalk.github.io/2022/04/15/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-6.html)
+- 04月07日[理论计算机科学基础（5）——可归约性](https://zemdalk.github.io/2022/04/07/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-5.html)
+- 03月31日[理论计算机科学基础（4）——可计算性](https://zemdalk.github.io/2022/03/31/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-4.html)
+- 03月28日[理论计算机科学基础（3）——图灵机](https://zemdalk.github.io/2022/03/28/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-3.html)
+- 03月14日[理论计算机科学基础（2）——上下文无关文法](https://zemdalk.github.io/2022/03/14/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-2.html)
+- 02月22日[理论计算机科学基础（1）——绪论、正则语言](https://zemdalk.github.io/2022/02/22/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-1.html)
+
 
 
 ## Intro
