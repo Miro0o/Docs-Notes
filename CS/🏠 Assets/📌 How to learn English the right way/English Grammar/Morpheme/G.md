@@ -667,7 +667,7 @@
 		7. panegyrize
 			1. vt. 颂扬；致颂词 
 			2. vi. 称赞；致颂词
-	6. paregoric (analgesic)
+	6. paregoric (paregoric, analgesic) 
 		1. - n. 复方樟脑酊；止痛药
 		2. par- + agor
 		3. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
@@ -4483,9 +4483,18 @@
 		1. _[allegro vivace](dic://allegro%20vivace)_  活泼的快板
 		2. _[Scherzo Allegretto vivace](dic://Scherzo%20Allegretto%20vivace)_ 谐谑曲
 		3. **molto**甚;**concerto**协奏曲;**tempo**拍子;**symphony**交响乐;**chromatic**有颜色的,颜色鲜艳的;**alla**如同…一样的;**waltz**跳华尔兹舞;**Brahms**布拉姆斯;**oboe**双簧管;**alto**女低音;**Haydn**海顿;
-		4. vivacious, vivaciously
-			1. [spirited](dic://spirited)
-			2. **feisty**活跃的;**exuberant**兴高采烈的;**lively**活泼的;**energetic**精力充沛的, 充满活力的;**vibrant**振动的;**sassy**无礼的;**cheerful**高兴的;**spirited**生机勃勃的;**charming**迷人的;**boisterous**热闹的;**flamboyant**显眼的, 浮夸的, 炫耀的;
+		4. vivacious
+			1. viv-生命 + -acious多…的 → 多生命的 → 活泼的。
+			2. a. 活泼的, 快活的, 多年生的
+			3. vivaciously
+			4. [spirited](dic://spirited)
+			5. **feisty**活跃的;**exuberant**兴高采烈的;**lively**活泼的;**energetic**精力充沛的, 充满活力的;**vibrant**振动的;**sassy**无礼的;**cheerful**高兴的;**spirited**生机勃勃的;**charming**迷人的;**boisterous**热闹的;**flamboyant**显眼的, 浮夸的, 炫耀的;
+			6. a vivacious elderly man /一个具有孩子气的老人
+			7. a bright vivacious strain /明快活泼的曲调
+			8. a charming and vivacious host /有魅力和活力的主人
+			9. On the contrary his mind became singularly vivacious. /相反，他的头脑变得异常活跃。
+			10. I'm vivacious, eccentric, and I'm a scorpio. /- 我活泼、古怪， 而且我是天蝎座。
+			11. 
 		5. vivarium
 			1. **aquarium**水族馆;**reptile**爬虫类的;**reptiles**爬行类;**enclosure**圈占, 围绕;**cage**笼，兽笼;**cages**笼子;**lizards**蜥蜴;**laboratory**实验室;**lizard**蜥蜴;**habitats**栖息地;**zoo**动物园;
 		6. vivacity

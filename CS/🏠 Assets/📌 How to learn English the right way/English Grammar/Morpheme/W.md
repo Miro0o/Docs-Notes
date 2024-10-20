@@ -1045,15 +1045,21 @@
 1. **vic-, vit-** = fault, 表示“缺陷、过错、污点”。源自拉丁语 vitium "fault, vice."
 	1. vitiable
 	2. vitiate
-		1. [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [deprave](dic://deprave), [misdirect](dic://misdirect)
-		2. [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower)
-		3. [invalidate](dic://invalidate), [void](dic://void)
-		4. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [damage](dic://damage)
-		5. _[vitiated air](dic://vitiated%20air)_  污浊空气
-		6. _[enfeeble enervate debilitate weaken vitiate](dic://enfeeble%20enervate%20debilitate%20weaken%20vitiate)_ 使衰弱
-		7. **undermine**在某物下挖洞或挖通道;**invalidate**使无效;**negate**否定;**preclude**妨碍;**impair**削弱;**deprive**使丧失，剥夺;**subvert**推翻;**weaken**减少;**distort**扭曲;**notwithstanding**尽管;**erode**腐蚀，侵蚀;
-		8. vitiator
-		9. vitiation
+		1. - vt. 损害，弄坏；使无效；污染
+		2. viti-缺陷，过错 + -ate使… → 使错误 → 使堕落。
+		3.  来自拉丁语 vitium,错误，缺陷，污点，词源同 vice,vicious.即中伤，找茬，伤害等。
+		4. [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [deprave](dic://deprave), [misdirect](dic://misdirect)
+		5. [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower)
+		6. [invalidate](dic://invalidate), [void](dic://void)
+		7. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [damage](dic://damage)
+		8. _[vitiated air](dic://vitiated%20air)_  污浊空气
+		9. _[enfeeble enervate debilitate weaken vitiate](dic://enfeeble%20enervate%20debilitate%20weaken%20vitiate)_ 使衰弱
+		10. **undermine**在某物下挖洞或挖通道;**invalidate**使无效;**negate**否定;**preclude**妨碍;**impair**削弱;**deprive**使丧失，剥夺;**subvert**推翻;**weaken**减少;**distort**扭曲;**notwithstanding**尽管;**erode**腐蚀，侵蚀;
+		11. a proof vitiated by a serious omission.  /因严重玩忽职守而被破坏的证据
+		12. development programmes have been vitiated by the rise in population. /人口上升影响了发展计划的效果。
+		13. It is time for the hurricane of war to burst once more upon these vitiated minds. The fatherland, Russia, is invaded. Then comes the day of Borodino, with its solemn majesty. Enmities are effaced. Dologhov embraces his enemy Pierre /是时候让战争的飓风再次袭击这些腐朽的心灵了。祖国俄罗斯遭到入侵。然后是庄严庄严的博罗金诺日。敌意消失了。多洛霍夫拥抱他的敌人皮埃尔。
+		14. vitiator
+		15. vitiation
 	4. vice
 		1. vicious
 			1. viciouness
@@ -1608,41 +1614,42 @@
 	31. wit
 		1. witty
 		2. witting
-			1. unwitting
+			1. unwitting (witless) (unfeeling)
 				1. _adj._ [unintended](dic://unintended), [uninformed](dic://uninformed)
 				2. _n._ [intended](dic://intended), [witting](dic://witting), [aware](dic://aware), [informed](dic://informed)
 				3. **unsuspecting**无疑心的;**hapless**运气不好的，倒霉的;**unwittingly**不知情地;**would-be**想要成为的,自称自许的,自充的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**accomplice**从犯, 帮凶, 同谋;**well-meaning**善意的;**unintended**非故意的,无意识的;**unwilling**不愿意的;**gullible**易受骗的;**innocent**无罪的;
-		3. witless (fatuous, witless)
-			1. [nitwitted](dic://nitwitted), [senseless](dic://senseless), [soft-witted](dic://soft-witted)
-			2. _adj._ [stupid](dic://stupid)
-			3. _n._ [smart](dic://smart)
-			4. **clueless**无线索的;**ignorant**无知的;**hapless**运气不好的，倒霉的;**idiotic**白痴的;**inane**愚蠢的;**uninformed**信息不足的;**inept**不适当的;**foolish**愚蠢的;**cowardly**怯懦的，懦弱的;**frightened**害怕的;**mindless**不小心的;
-			5. Despite his reputation as a tough guy, he admits that he was ‘scared witless’ when he first arrived in New York. /1. 他承认自己虽号称硬汉，但是刚到纽约时，几乎被吓破了胆。
-			6. Witless bullies and hapless punks do it all the time. /只有无知恶霸和倒霉瘪三总做这种事。
-			7. We obsessively go back over our slips and errors and contrast what did happen with what could so easily have been skirted if we had not been so fatuous and so witless. /我们痴迷地回顾我们的失误和错误， 并将已经发生的事情与如果我们不是那么愚蠢和愚蠢的话很容易被回避的事情进行对比。
-		4. witticism
-		5. witted
-		6. witness
-		7. thick-witted
-		8. soft-witted
-		9. slow-wited
-		10. sharp-witted
-		11. readywitted
-		12. quick-witted
-		13. outwit
-		14. nitwitted
-		15. nitwit
-		16. nimble-witted
-		17. half-witted
-		18. half-wit
-		19. godwit
-		20. fat-witted
-		21. dull-witted
-		22. dimwit
-		23. dim-witted
-		24. bird-witted
-		25. beef-witted
-		26. afterwit
+		3. witless (unwitting)
+			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, unwieldy, clunky, clumsy, cumbersome, lumbering)
+			2. [nitwitted](dic://nitwitted), [senseless](dic://senseless), [soft-witted](dic://soft-witted)
+			3. _adj._ [stupid](dic://stupid)
+			4. _n._ [smart](dic://smart)
+			5. **clueless**无线索的;**ignorant**无知的;**hapless**运气不好的，倒霉的;**idiotic**白痴的;**inane**愚蠢的;**uninformed**信息不足的;**inept**不适当的;**foolish**愚蠢的;**cowardly**怯懦的，懦弱的;**frightened**害怕的;**mindless**不小心的;
+			6. Despite his reputation as a tough guy, he admits that he was ‘scared witless’ when he first arrived in New York. /1. 他承认自己虽号称硬汉，但是刚到纽约时，几乎被吓破了胆。
+			7. Witless bullies and hapless punks do it all the time. /只有无知恶霸和倒霉瘪三总做这种事。
+			8. We obsessively go back over our slips and errors and contrast what did happen with what could so easily have been skirted if we had not been so fatuous and so witless. /我们痴迷地回顾我们的失误和错误， 并将已经发生的事情与如果我们不是那么愚蠢和愚蠢的话很容易被回避的事情进行对比。
+		5. witticism
+		6. witted
+		7. witness
+		8. thick-witted
+		9. soft-witted
+		10. slow-wited
+		11. sharp-witted
+		12. readywitted
+		13. quick-witted
+		14. outwit
+		15. nitwitted
+		16. nitwit
+		17. nimble-witted
+		18. half-witted
+		19. half-wit
+		20. godwit
+		21. fat-witted
+		22. dull-witted
+		23. dimwit
+		24. dim-witted
+		25. bird-witted
+		26. beef-witted
+		27. afterwit
 8. guise
 	1. 印欧语w音，日耳曼人用w表示；罗曼语族（包括后来诺曼征服的人）念起来比较费劲，而且他们的语言里没有w字母，用gu表示这个w音（后期更是简化为g）音。如guard和warden，waranty和guaranty，warrior和guerrilla，guise和wise等。两种形式在不同时期通过不同途径进入英语并保留到现在。
 	2. **pretense**借口;**pretext**托辞;**ostensibly**表面上地;**ruse**诡计;**auspices**支持;**disguise**假装;**behest**命令;**cloak**斗蓬;**semblance**外表;**moniker**名字;**under**低于，少于;

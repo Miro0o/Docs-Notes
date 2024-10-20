@@ -500,6 +500,7 @@
 		15. conjugation
 		16. biconjugate
 	23. subjugate (capitulate, subjugate, subdue, succumb)
+		1. (repress, quash, keep down, subjugate, reduce)
 		2. subjugate（征服）：强迫俘虏从矛轭下走过  
 		3. 在古罗马时期，在战场上被俘的俘虏会受到一种特别的处置：获胜军队的士兵将两只长矛交叉搭成一个轭，强迫战俘们低下头，从矛轭下通过。这种仪式象征着获胜者对战俘的征服。英语单词subjugate就源自这种做法。它来自拉丁语subjugatus，是动词subjugare的过去分词形式，词干由sub（下面）+jug（结合、轭），字面意思就是“在轭的下面”，即强迫战俘从矛轭的下面通过。习语pass under the yoke（从矛轭下面通过）就是“低头认输”的意思。  
 			1. subjugate：['sʌbdʒuɡet] vt. 征服；使服从；克制  
@@ -510,7 +511,7 @@
 		5. **subdue**征服;**conquer**战胜，征服;**liberate**解放;**humiliate**蒙羞;**destroy**毁坏;**invade**侵略;**subvert**推翻;**dominate**支配;**overthrow**打倒;**intimidate**恐吓, 威胁;**suppress**抑制;
 		6. Imperialism has not been able to subjugate China. /帝国主义不能征服中国。
 		7. the new ruler firmly subjugated the Church to the state. /新统治者果断地使教会从属于国家。
-	24. jostle
+	25. jostle
 		1. 1 - 来自 joust,推挤，打斗，-le,表反复。引申词义竞争，争夺。拼写比较 claim,clamor.
 		2. _n._ [shove](dic://shove)
 		3. _v._ [make](dic://make), [work](dic://work), [push](dic://push), [force](dic://force)
@@ -519,20 +520,20 @@
 		6. photographs to jostle the mind and the funny bone /搅扰心智和触发幽默感的照片。
 		7. a jumble of images jostled for attention. /纷乱的图像令人目不暇接。
 		8. jostled my way through the mob. /从人群中挤过去
-	25. joust
+	26. joust
 		1. joust [dʒaʊst] n. 竞技；厮打，vi. 进行马上长矛比武；竞争。 jousting长枪比武大赛是两名骑士之间的武术竞技，在中世纪最为兴盛。参赛的骑士主要用长枪攻击疾驰过来的对手，把对方打下马的骑士为胜利者。来自拉丁词根jug-,juxta-,junct-，表to join together，双方come together时才能互相攻击。
 		2. _n._ [struggle](dic://struggle), [battle](dic://battle)
 		3. _v._ [contend](dic://contend), [fight](dic://fight), [struggle](dic://struggle)
 		4. **duel**决斗;**knights**骑兵，骑士;**knight**骑士，武士;**sparring**拳击;**battle**战役;**duke**公爵，君主;**sword**刀，剑;**skirmish**小冲突，小规模战斗;**brawl**争吵;**swords**宝剑;**head-to-head**肉搏战,白刃战;
 		5. _[jousting](dic://jousting)_  v. 马上长枪比武；参加比赛（joust的现在分词）; n. 竞争；比赛;
 		6. a politician who relishes a joust with reporters. /喜欢和记者过不去的政治家
-	26. junta
+	27. junta
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **dictatorship**独裁;**dictator**独裁者;**coup**政变;**regime**政权，政体;**authoritarian**权力主义的,专制的;**Mugabe**穆加比;**government**政府;**military**军事的;**Burma**缅甸;**Burmese**缅甸的;**Myanmar**缅甸;
 		3. _[military junta](dic://military%20junta)_  军事执政团
 		4. _[military junta of salvation](dic://military%20junta%20of%20salvation)_ 军人救国委员会
 		5. the ruling junta; ruling circles of the government. /执政的军人集团；政府的执政人员
-	27. junto
+	28. junto
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **que**阙;**con**欺骗，哄骗;
 		3. [cabal](dic://cabal), [faction](dic://faction), [camarilla](dic://camarilla)
@@ -730,11 +731,11 @@
 	8. objurgate
 		1. ob- + jur-发誓 + g-做 + -ate
 		2. _[objurgate](dic://objurgate)_  v. 痛骂，训斥，谴责
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate)
-		4. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium)
-		5. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery)
-		6. _v._ [denounce](dic://denounce), [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof)
-		7. _[abuse berate objurgate curse](dic://abuse%20berate%20objurgate%20curse)_ 放肆地乱骂
+		4.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant)
+		5. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite)
+		6. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery)
+		7. _v._ [denounce](dic://denounce), [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof)
+		8. _[abuse berate objurgate curse](dic://abuse%20berate%20objurgate%20curse)_ 放肆地乱骂
 	9. perjure (pejorative)
 		1. - 来自拉丁语 periurium,伪誓，来自 per-,整个的，-jur,发誓，词源同 adjure,jury.即信誓旦旦，词义贬义化，引申词义作伪证，发假誓。比较 perfidy.
 		2. _v._ [lie](dic://lie)
@@ -764,7 +765,43 @@
 	2. etc..
 3. **-er** = 是施动者名词后缀，表示“人或物”，一般缀于动词后，来自古英语。
 	1. abandoner
-	2. etc..
+	2. monger
+		1. 来自拉丁语 mango,交易商，贸易商，商人，词源同 warmonger,whore-monger.来自 PIE*mang,装饰，打扮，清洗，整理，可能来自 PIE*ma,水气，湿气，流出，词源同 emanate,marine.
+		2. n. 商人, ...商, ...贩  vt. 贩卖, 传播
+		3.  [trader](dic://trader), [bargainer](dic://bargainer), [dealer](dic://dealer)
+		4.  [peddle](dic://peddle), [huckster](dic://huckster), [hawk](dic://hawk), [vend](dic://vend), [pitch](dic://pitch)
+		5. _n._ [merchant](dic://merchant), [merchandiser](dic://merchandiser)
+		6. _v._ [deal](dic://deal), [sell](dic://sell), [trade](dic://trade)
+		7. **hater**怀恨者;**bigot**偏执的人;**liar**说谎的人;**hypocrite**伪君子;**whore**卖淫，娼妓;**butcher**屠杀;**herring**鲱;**troll**穴居巨怪，侏儒;**slander**诽谤;**fish**捕鱼，钓鱼;**fanatic**狂热入迷者;
+		8. granger, engineer, linguister, pizza boy, monger, knock knock man. There u go, all me /大概做过农民，工程师，翻译，送批萨的，摆摊吆喝的，上门死不要脸推销的。。。如上，恩，都是俺。
+		9. Who the hell do these revolution mongers think they are, making a fuss over rice balls? /这些革命贩子到底以为自己是谁，为了饭团而大惊小怪？
+		10. The themed market wakes up each day at 5: 00 a.m. Among the first to arrive, flower vendors and fish mongers like Jason Scott. /这个市场有自己的主题，每天早上5点就开门。先到这里的有花贩和像杰森·斯科特这样的鱼贩。
+		11. warmongering
+		12. warmonger
+		13. versemonger
+		14. scaremonger
+		15. scandalmonger
+		16. rumormongering
+		17. rumormonger
+		18. profit-monger
+		19. phrasemongering
+		20. phrasemongering
+		21. phrasemonger
+		22. peacemonger
+		23. panicmonger
+		24. newsmonger
+		25. ironmongery
+		26. ironmonger
+		27. hatemonger
+		28. gossipmonger
+		29. friction-monger
+		30. fishmonger
+		31. fellmonger
+		32. fearmonger
+		33. fashionmonger
+		34. cheesemonger
+		35. balladmonger
+	4. etc..
 4. **ory-, -atory** = 表形容词，“…的”。源自拉丁语 -atorius, adjective suffix for agent nouns in -ator.
 	1. acclamatory
 	2. etc.

@@ -118,15 +118,23 @@
 	6. investigator
 	7. investigative
 	8. investigation
-3. vestige
-	1.  [trace](dic://trace), [tincture](dic://tincture), [shadow](dic://shadow)
-	2. _n._ [indication](dic://indication), [indicant](dic://indicant)
-	3. **remnants**残余;**remnant**剩余;**bastion**棱堡;**semblance**外表;**relic**废墟;**sliver**裂片;**bygone**过去的;**traces**痕迹;**existence**存在;**notion**概念;**devoid**缺乏的;
-	4. _[pesticide vestiges](dic://pesticide%20vestiges)_ 农药残留
-	5. _[pernicious vestiges](dic://pernicious%20vestiges)_ 余毒
-	6. vestigium
-	7. vestigital
-	8. vestigial
+3. vestige (relic, vestige)
+	1. n. 遗迹；残余；退化的器官
+	2. [trace](dic://trace), [tincture](dic://tincture), [shadow](dic://shadow)
+	3. _n._ [indication](dic://indication), [indicant](dic://indicant)
+	4. **remnants**残余;**remnant**剩余;**bastion**棱堡;**semblance**外表;**relic**废墟;**sliver**裂片;**bygone**过去的;**traces**痕迹;**existence**存在;**notion**概念;**devoid**缺乏的;
+	5. _[pesticide vestiges](dic://pesticide%20vestiges)_ 农药残留
+	6. _[pernicious vestiges](dic://pernicious%20vestiges)_ 余毒
+	7. No vestige of a change appeared. /没有一点改变。
+	8. vestiges of an ancient civilization /古代文明的遗迹
+	9. There’s not a vestige of truth in the witness’s statement. /这个证人的证词没有一丝一毫的真实性。
+	10. he waited patiently, but without a vestige of sympathy. /他耐心等着，但却丝毫不显同情。
+	11. Guys, I still see vestiges of our game, and I'm just so proud of what we've done. /各位，我现在仍能看到我们比赛的痕迹，我为我们所做的一切感到骄傲。
+	12. This dust is vestiges of our solar system, broken up asteroids and the matter that never turned into planets. /这些尘埃是我们太阳系的遗迹，是破碎的小行星和从未变成行星的物质。
+	13. 
+	14. vestigium
+	15. vestigital
+	16. vestigial
 		1. **superfluous**过多的;**archaic**古代的;**remnant**剩余;**rudimentary**基本的;**primitive**原始的;**remnants**残余;**fleshy**肉的;**extant**现存的;**obsolete**老式的;**bony**骨的;**antiquated**陈旧的;
 		2. _adj._ [undeveloped](dic://undeveloped)
 		3. _n._ [developed](dic://developed)

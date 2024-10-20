@@ -32,7 +32,15 @@
 	- integer
 - **tact-, tag-, tig-, ting- = to touch**
 	- tact
-		- tactic, tactless
+		- tactic 
+		- tactless (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, )
+			- tact【机智】 + -less无，没有
+			- a. 不机智的, 不机敏的
+			- [untactful](dic://untactful)
+			- [inept](dic://inept)
+			- _adj._ [maladroit](dic://maladroit)
+			- _n._ [tactful](dic://tactful), [adroit](dic://adroit)
+			- **rude**粗鲁的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**insensitive**不敏感的;**callous**起老茧的;**arrogant**自大的，傲慢的;**sarcastic**讽刺的;**disrespectful**失礼的,无礼的;**obnoxious**可憎的;**pompous**浮夸的;**snarky**恶声恶气的，咬人的;
 		- tactician, tactful
 	- tactile
 		- dermotactile
@@ -139,19 +147,25 @@
 
 ### + \*tak- + = to be silent
 1. **tac-,tic-,retic-** = silent, 表示“安静”。源自拉丁语 tacere "to be silent."
-	1. reticent
-		1. [untalkative](dic://untalkative)
-		2. [reserved](dic://reserved), [restrained](dic://restrained), [unemotional](dic://unemotional)
-		3. [self-effacing](dic://self-effacing), [retiring](dic://retiring)
-		4. _adj._ [taciturn](dic://taciturn), [undemonstrative](dic://undemonstrative), [unassertive](dic://unassertive)
-		5. _n._ [voluble](dic://voluble), [demonstrative](dic://demonstrative), [assertive](dic://assertive)
-		6. **reluctant**不情愿的, 勉强的;**hesitant**踌躇的;**timid**羞怯的;**shy**害羞的;**wary**机警的;**cautious**谨慎的;**apprehensive**忧虑的;**aloof**冷淡的;**understandably**可理解地;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**reluctance**不愿意
-		7. reticence
+	1. reticent (repentant)
+		1. (reticent, taciturn, aloof, reserved, )
+		2. 1 - 来自拉丁语 reticere,保持安静，来自 re-,表强调，tacere,安静，词源同 tacit.引申词义寡言少语的
+		3. a. 无言的, 沉默的, 不情愿的
+		4. [untalkative](dic://untalkative)
+		5. [reserved](dic://reserved), [restrained](dic://restrained), [unemotional](dic://unemotional)
+		6. [self-effacing](dic://self-effacing), [retiring](dic://retiring)
+		7. _adj._ [taciturn](dic://taciturn), [undemonstrative](dic://undemonstrative), [unassertive](dic://unassertive)
+		8. _n._ [voluble](dic://voluble), [demonstrative](dic://demonstrative), [assertive](dic://assertive)
+		9. **reluctant**不情愿的, 勉强的;**hesitant**踌躇的;**timid**羞怯的;**shy**害羞的;**wary**机警的;**cautious**谨慎的;**apprehensive**忧虑的;**aloof**冷淡的;**understandably**可理解地;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**reluctance**不愿意
+		10. be reticent of one's opinion /有保留意见
+		11. he was more reticent than of old. /他比过去更加沉默。
+		12. The scholar was reticent, aloof, and meditative. /这位学者寡言少语、离群索居而且总在沉思。
+		13. reticence
 			1. _n._ [uncommunicativeness](dic://uncommunicativeness)
 			2. **reluctance**不愿意;**unwillingness**不情愿;**disdain**蔑视;**eagerness**渴望;**trepidation**惊恐;**awkwardness**笨拙;**cynicism**犬儒主义;**mistrust**不信任;**distrust**不信任;**refusal**拒绝;**impatience**急躁;
-		8. reticency
+		14. reticency
 			1. n. 沉默寡言
-		9. reticently
+		15. reticently
 	3. tacit,
 		1. 1 - 来自拉丁语 tacere,安静，来自 PIE*tak,使安静，词源同 tacet.引申词义默许的等。
 		2. tacit ['tæsɪt] adj. 缄默的；不言而喻的；心照不宣的；默许的。词根tac-表be silent，tacit是完成分词形式，即silenced，然后分词作形容词，所以tacit可以理解做silent。
@@ -167,7 +181,7 @@
 			2. _adv._ [implied](dic://implied), [silent](dic://silent), [tacit](dic://tacit), [understood](dic://understood)
 			3. _[tacitly approve](dic://tacitly%20approve)_  默认
 			4. _[understand tacitly](dic://understand%20tacitly)_  心领神会
-	5. taciturn 
+	4. taciturn 
 		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
 		2. - 来自 tacit,安静的，-urn,形容词后缀。引申词义不苟言笑的。
 		3. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
@@ -952,7 +966,7 @@
 			3. **tenacity**固执;**stubborn**顽固的;**resourceful**资源丰富的;**feisty**活跃的;**fearless**无畏的;**relentless**残酷的, 不留情的, 无怜悯心的;**tireless**不疲劳的;**dogged**顽强的;**diligent**勤勉的;**courageous**勇敢的;**steadfast**坚定的;
 		6. tenacity
 		7. tenaculum
-		8. untenable
+		8. untenable (untenable, unwarranted, groundless, baseless, unfounded, )
 			1. _adj._ [unreasonable](dic://unreasonable)
 			2. _n._ [reasonable](dic://reasonable), [sensible](dic://sensible)
 			3. **absurd**荒谬的;**intolerable**无法忍受的;**unsustainable**不能证实的;**ludicrous**荒唐可笑的,滑稽可笑的;**illogical**不合逻辑的;**unacceptable**不能接受的;**precarious**依靠机会的;**impractical**不切实际的;**preposterous**反常的,荒谬的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**unwise**不明智的;
@@ -1349,8 +1363,8 @@
 	1. etc..
 5. **trib-** = to rub, 表示“摩擦”。源自希腊语 tribein "to rub, ghresh, pound, wear out."
 	1. diatribe
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate)
-		3. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, )
+		2.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant)
+		3. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite)
 		4. [fulmination](dic://fulmination)
 		5. _n._ [denunciation](dic://denunciation), [denouncement](dic://denouncement)
 		6. **rant**咆哮;**ranting**吼闹;**rebuttal**反驳;**drivel**淌口水,说傻话;**scathing**严厉的;**rambling**漫步的;**inane**愚蠢的;**hyperbole**夸张的语句;**idiocy**白痴;**remarks**摘要;**snarky**恶声恶气的，咬人
@@ -1377,6 +1391,11 @@
 		6. **apology**道歉;**apologetic**道歉的;**sincere**真诚的;**repentance**悔悟;**repent**忏悔;**remorse**懊悔, 悔恨, 自责;**apologized**道歉的;**forgiving**宽容的;**merciful**仁慈的;**forgiven**原谅;**embarrassed**尴尬的;
 		7. _[a contrite apology](dic://a%20contrite%20apology)_ 表示悔罪的道歉
 		8. _[a contrite apology manner](dic://a%20contrite%20apology%20manner)_ 深表懊悔的致歉
+		9. " No, no! " He was instantly contrite. /“不，不！”他立刻懊悔不已。
+		10. As to all the rest, he was humble and contrite, and I never knew him complain. /至于其余的一切，他谦逊而懊悔，我从未见过他抱怨过。
+		11. “I’m not sure how it converts fuel to energy,” Tom replied with a **contrite** smile /“我不太清楚它是如何把燃料转变成能的。” 汤姆回答道，脸上露出歉疚的笑容。
+		12. The sacrifices He accepts are broken and **contrite** hearts. /因为神所悦纳的祭，乃是忧伤痛悔的心。
+		13. Three years later, the Akagi Nyugyo manager who came up with the idea for the ad is still feeling contrite /三年后，赤城乳业那位为这个广告献策的经理仍然感到懊悔。
 	3. detrition
 		1. de-坏 + tri-=trit-摩擦 + -tion表名词
 		2. _n._ [erosion](dic://erosion), [eroding](dic://eroding), [eating away](dic://eating away), [wearing](dic://wearing), [wearing away](dic://wearing away), [friction](dic://friction), [rubbing](dic://rubbing)
@@ -1399,14 +1418,14 @@
 		5. _adj._ [unoriginal](dic://unoriginal)
 		6. _n._ [original](dic://original), derivative 
 		7. **cliche**陈词滥调;**banal**陈腐的;**corny**谷类的;**cliches**陈腔滥调;**inane**愚蠢的;**pretentious**自命不凡的;**nonsensical**无意义的;**simplistic**过分单纯化的;**silly**愚蠢的;**crass**粗鲁的;**tiresome**烦人的，无聊的;
-	8. triturate, triturator, trituration
+	7. triturate, triturator, trituration
 		1. 1 - 来自拉丁语 triturare,磨碎，碾磨，反复格形式于 terere,转，刮，磨下，词源同 turn,throw.
 		2. _[triturate](dic://triturate)_  v. 磨碎；把……研成粉末; n. 磨碎物;
-	9. detriment, detrimental,  (deleterious)
+	8. detriment, detrimental,  (deleterious)
 		1. de-坏 + tri-=trit-摩擦 + -ment名词后缀 → 磨坏了 → 损害。
 		2. _n._ [damage](dic://damage), [harm](dic://harm), [impairment](dic://impairment)
 		3. **detrimental**有害的;**undermining**底切;**undermine**在某物下挖洞或挖通道;**benefit**利益，好处;**jeopardize**危及, 损害;**hindrance**起妨碍作用的事物或人;**hinder**成为阻碍;**harm**伤害;**disservice**伤害,虐待,不亲切的行为;**consequence**结果, 后果;**diminish**使减少;
-	10. thread
+	9. thread
 		1. Ariadne's thread阿里阿德涅之线；帮助摆脱困境的办法。克里特岛公主Ariadne喜欢上了要去迷宫深处诛杀牛头怪Minotaur的雅典王子Theseus，担心他有去无回（Minotaur凶猛且迷宫异常复杂），遂给其一线团，叮嘱他如果胜利，循着线找到迷宫的入口。那事情竟成了，Ariadne's thread也就成了指点迷津之物。
 		2. unthread
 		3. threaworm
@@ -1414,7 +1433,7 @@
 		5. threadbare
 		6. goldthread
 		7. etc..
-	11. thresh
+	10. thresh
 		1. 1 - 来自古英语 threscan,击打，打谷，踩踏，来自 Proto-Germanic*threskan,踩踏，使脱粒，来自PIE*tere,弯，转，磨，词源同 turn,throw.引申诸相关词义。
 		2.  [convulse](dic://convulse), [thresh about](dic://thresh about), [thrash](dic://thrash), [thrash about](dic://thrash about), [slash](dic://slash), [toss](dic://toss), [jactitate](dic://jactitate)
 		3.  [flail](dic://flail)
@@ -1427,12 +1446,12 @@
 		10. threshold
 		11. threshing
 		12. thresher
-	12. throe
+	11. throe
 		1. 1 - 来自中古英语 throwe,剧痛，尤指分娩的痛苦，临死前的挣扎，词源不详，可能来自古英语thrawan,扭曲，挣扎，词源同 throw,torque.
 		2. _n._ [agony](dic://agony), [suffering](dic://suffering), [excruciation](dic://excruciation), [distress](dic://distress)
 		3. **tho**可是,不过;**tor**岩山;**oi**喂，嘿;**hundred**一百;**thousand**一千;**ana**言论集;**sixty**六十;**twelve**十二;**fifty**五十;**twenty**二十;**ere**在…以前;
 		4. _[death throes](dic://death%20throes)_  临死前痛苦的挣扎; （彻底失败或终结前的） 垂死挣扎;
-	13. throw
+	12. throw
 		1. 1 - 来自中英语 thrawan,转动，旋转，拧，来自 Proto-Germanic*threw,转动，来自 PIE*tere,弯，转，词源同 turn,torque.词义由旋转引申为扔，来自投掷的姿势和动作。
 		2. windthrow
 		3. upthrow
@@ -1445,12 +1464,12 @@
 		10. flamethrower
 		11. downthrow
 		12. crankthrow
-	14. trepan, trepanner, trepannation
+	13. trepan, trepanner, trepannation
 		1. n. 环锯, 钻孔机 vt. 用环锯做手术, 诱入圈套, 欺骗
 		2. _n._ [surgical instrument](dic://surgical instrument), [drill](dic://drill)
 		3. _v._ [bore](dic://bore), [drill](dic://drill)
 		4. **skull**头盖骨，脑壳;**needle**针;
-	15. tribulation (trebuchet)
+	14. tribulation (trebuchet)
 		1. 来自拉丁语 tribulare,压制，镇压，折磨，来自 terere,转，刮，摩擦，词源同 turn,throw.-bul,工具格后缀，词源同 table,tintinnabulation.引申词义忧患，痛苦磨难等。
 		2. _n._ [affliction](dic://affliction)
 		3. [trial](dic://trial), [visitation](dic://visitation)
@@ -1460,7 +1479,10 @@
 		7. _[suffer tribulation](dic://suffer%20tribulation)_ 遭受苦难
 		8. _[hardship tribulation](dic://hardship%20tribulation)_ 困苦
 		9. Great Tribulation
-	16. turn
+		10. After many trials and tribulations we reached our destination. /经过了许多艰难险阻，我们到达了目的地。
+		11. You know, we all -- as Vivienne said -- we go through our trials and tribulations. /正如薇薇安所说，我们都曾经历过重重磨难。
+		12. He was thinking of the hardships, the insufferable tribulations he had gone through. /他在想他所经历的艰辛， 那些难以忍受的磨难。
+	15. turn
 		1. n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折  
 		2. vt. 使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通  
 		3. vi. 转动, 转弯, 转向, 翻转, 回转, 改变, 转身, 变成, 变质, 晕眩, 易脱手
@@ -1560,10 +1582,11 @@
 #### + \*tere- (2) + = cross over, pass through, overcome
 1. **trans-** = cross, over, beyond, through
 	1. intransigence, intransigent
-		1.  in-,不，非，-transig,转给，妥协，词源同 transact,transigent.
-		2. a. 非妥协性的 
-		3. n. 不妥协的人
-		4. ag-(1), trans-
+		1.  (obdurate, tenacious, steadfast, intransigence, fortitude, )
+		2.  in-,不，非，-transig,转给，妥协，词源同 transact,transigent.
+		3. a. 非妥协性的 
+		4. n. 不妥协的人
+		5. ag-(1), trans-
 	3. traduce
 	4. traffic
 	5. transact
@@ -1767,17 +1790,18 @@
 				3. The angry entomologist went to the entry to the entrenchment and thrust his own entrails with a knife! /愤怒的昆虫学家走到堑壕的入口，用刀戳进他自己的内脏！
 				4. It was a British castle or entrenchment, with triple rings of defence, rising roll behind roll, their outlines cutting sharply against the sky, and Jim's kiln nearly undermining their base /那是一座英国城堡或壕沟，有三重防御环，一个接一个地上升，它们的轮廓在天空中锐利地切割，吉姆的窑几乎破坏了它们的基地。
 			11. entrenched
-	2. trenchancy, trenchant
-		1. trench-切 + -ancy, 表名词
-		2. n. 锐利
-		3. adj. 尖刻的；锐利的；苛刻的；锋利的（名词 trenchancy, 副词 trenchantly）
-		4. _adj._ [intelligent](dic://intelligent), [effective](dic://effective), [effectual](dic://effectual), [efficacious](dic://efficacious), [clear](dic://clear)
-		5. _n._ [unintelligent](dic://unintelligent), [stupid](dic://stupid), [ineffective](dic://ineffective), [uneffective](dic://uneffective), [ineffectual](dic://ineffectual), [unclear](dic://unclear)
-		6. **scathing**严厉的;**wry**面部肌肉扭曲的;**perceptive**敏感的;**astute**机敏的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**succinct**简洁的;**impassioned**充满激情的, 热烈的;**witty**诙谐的;**poignant**尖锐的;**provocative**刺激的;
-		7. rench-切 + -ant表形容词 → 象刀切进去一样。
-		8. One trenchant backbench critic acknowledges that many Tory MPs “usually follow the prevailing pattern” /一位后座议员兼批评家一针见血地指出, 许多托利党议员“一般都会遵循眼下流行的观点”。
-		9. The dog's trenchant speech played a trick on wolves. /狗儿锋利的演讲捉弄了狼们。
-	3. retrench
+	2. trenchancy, trenchant (penchant)
+		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic,)
+		2. trench-切 + -ancy, 表名词
+		3. n. 锐利
+		4. adj. 尖刻的；锐利的；苛刻的；锋利的（名词 trenchancy, 副词 trenchantly）
+		5. _adj._ [intelligent](dic://intelligent), [effective](dic://effective), [effectual](dic://effectual), [efficacious](dic://efficacious), [clear](dic://clear)
+		6. _n._ [unintelligent](dic://unintelligent), [stupid](dic://stupid), [ineffective](dic://ineffective), [uneffective](dic://uneffective), [ineffectual](dic://ineffectual), [unclear](dic://unclear)
+		7. **scathing**严厉的;**wry**面部肌肉扭曲的;**perceptive**敏感的;**astute**机敏的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**succinct**简洁的;**impassioned**充满激情的, 热烈的;**witty**诙谐的;**poignant**尖锐的;**provocative**刺激的;
+		8. rench-切 + -ant表形容词 → 象刀切进去一样。
+		9. One trenchant backbench critic acknowledges that many Tory MPs “usually follow the prevailing pattern” /一位后座议员兼批评家一针见血地指出, 许多托利党议员“一般都会遵循眼下流行的观点”。
+		10. The dog's trenchant speech played a trick on wolves. /狗儿锋利的演讲捉弄了狼们。
+	4. retrench
 		1. 1. tighten one's belt; use resources carefully
 		2. make a reduction, as in one's workforce
 			2. The company had to retrench
@@ -1786,14 +1810,14 @@
 		5. _[retrench expenses](dic://retrench%20expenses)_ 精简开支
 		6. _[retrench expenditures](dic://retrench%20expenditures)_ 压缩开支
 		7. _[retrench enlarge](dic://retrench%20enlarge)_ 削减
-	4. retrenchment
+	5. retrenchment
 		1. _n._ [entrenchment](dic://entrenchment), [intrenchment](dic://intrenchment), [economy](dic://economy), [saving](dic://saving)
 		2. **layoffs**解雇;**downturn**低迷时期;**restructuring**重组;**downsizing**缩小规模;**recession**经济衰退;**austerity**严厉;**layoff**活动停止期间;**upheaval**剧变;**reorganization**改组;**consolidation**巩固,加强,强化;**slowdown**减速;
 		3. _[Retrenchment strategies](dic://Retrenchment%20strategies)_ 收缩战略; 紧缩型战略; 紧缩战略; 
 		4. _[financial retrenchment](dic://financial%20retrenchment)_ 财政紧缩
 		5. _[retrenchment policy](dic://retrenchment%20policy)_ 紧缩政策
 		6. _[retrenchment monetary](dic://retrenchment%20monetary)_ 紧缩性货币
-	5. truncate
+	6. truncate
 		1. 来自拉丁语 truncare,砍掉，砍倒，截肢，可能来自通俗拉丁语*trinicare,砍成三段，词源同 three.
 		2. **parse**从语法上分析;**modify**修改，修饰;**constrain**强迫, 强使;**shorten**缩短;**overwrite**写在…上面,写得过多;**extend**延伸;**omit**省略;**encode**编码，译码;**lengthen**使延长;**compress**受压缩小;**terminate**结束;
 		3. [substitute](dic://substitute), [replace](dic://replace), [estimate](dic://estimate), [gauge](dic://gauge), [approximate](dic://approximate), [guess](dic://guess), [judge](dic://judge)
@@ -1805,10 +1829,10 @@
 		8. obtruncate
 			1. ob- + trunc-切割 + -ate, 表动词
 			2. vt. 砍去头部
-	6. truncheon
+	7. truncheon
 		1.  来自拉丁语 truncus,树干，词源同 trunk.-on,小词后缀。字面意思即小树干，引申词义警棍。
 		2. **baton**接力棒;**policeman**警察;**handcuffs**手铐;**constable**警察;**sword**刀，剑;**fists**拳套;**hammer**敲打;**whips**鞭策者，鞭子;**fist**拳头;**axe**斧;**swords**宝剑;
-	7. trounce (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe)
+	8. trounce (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe)
 		1. 词源不详，可能来自拉丁语 truncare,砍，切，词源同 truncate,trench.引申词义打败，击溃等。
 		2. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
 		3. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
@@ -1817,7 +1841,7 @@
 		6. [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
 		7. trounce the biggest party /痛击最大党派
 		8. It recently went head-to- head with the basketball play-offs and trounced the ball game in rating /近期它和篮球的决赛时间撞车，把篮球比赛的排名远远抛在后面。
-	8. trunk
+	9. trunk
 		1.  来自拉丁语 truncus,树干，躯干，来自 truncare,砍倒，截断，词源同 trench,truncate.引申词义箱子，衣箱，象鼻，汽车后备箱等。
 		2. **tree**树;**compartment**间隔, 隔间;**car**汽车;**branch**分支;**limbs**四肢;**sedan**轿车;**branches**分支机构;**hood**头巾;**bonnet**软帽;**suitcase**手提箱;**backseat**次要位置;
 		3. [tree trunk](dic://tree trunk), [bole](dic://bole)

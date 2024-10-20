@@ -655,6 +655,7 @@ baste ( alabaster, baster)
 - Chuck it some garlic as well and start basting your steak. /再放些大蒜，开始给牛排涂油。
 - Pop the ribs back in the oven for another ten minutes, basting halfway through /把排骨放回烤箱，再烤10分钟，中途喷点水。
 - lambaste
+	-  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant)
 	-  [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
@@ -2191,7 +2192,32 @@ charisma
 - ka-
 
 check
-- etc..
+- n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军  
+- vt. 检查, 阻止, 核对, 寄存, 托运  
+- vi. 逐项相符, 开支票
+- - v. 检查，核对；查看，查询；克制，抑制；存放，寄放；托运；在……上打钩；将（对方的）军 
+- n. 检查，核对；制止（手段），抑制（手段）；结账单；支票（=cheque）；方格图案；衣帽寄存处；寄存凭证；钩号；（国际象棋）将军
+- check（核查）：国际象棋中的“将军”  
+- 关于国际象棋，大部分历史学者认为起源于古印度，后来流传至波斯，再经过阿拉伯、流传至欧洲。至今见诸于文献最早的记录是在萨珊王朝时期用波斯文写的。国际象棋中向对方的国王“将军”，英语叫check，它是从古波斯语shah（国王）演变来的，意思是提醒对方我下一步就要吃掉你的国王了。当对手发出check的提醒时，自己就要仔细检查本方棋盘中国王的安全，所以check一词延伸出现在的“检查”、“核查”等含义。  
+- 另外，古波斯人称象棋中“把对方将死”为shah-mat，mat是“死”的意思。英语单词checkmate（将死）就来源于此。  
+- 英语单词chess（国际象棋）和check一样，都来自古波斯语shah（国王），是check的复数形式，字面意思就是“连续将军的游戏”。  
+- check：[tʃek] n.支票，核对，检验v.检查，核查，制止，打勾，将一军  
+- there was no check to the expansion of the market. /无法阻挡市场的扩展。
+- check the enemy's advance /阻止敌人的进军
+- a blue check T-shirt. /蓝格子T恤衫。
+- The checks are small in this pattern. /这图案中的方格太小。
+- They checked their steps. /他们突然停止了脚步。
+- checker work grillage /砖格
+- Can we have a time check, Ebbers? /我们能问一下时间吗，埃伯斯？
+- checkmate：['tʃekmeɪt] n.将死，挫败vt.把……将死，使……彻底失败  
+- chess：[tʃes] n.国际象棋
+- checker
+	- - n. 检验员；收银员；棋子；方格图案；制止者 
+	- vt. 把……画成棋盘形方格图案；使多样化
+	- a checkered career. /充满波折的经历
+	- a family with a checkered past. /一个有着波折历史的家族
+	- The ground under the trees was checkered with sunlight and shade. /林地光影交错。
+	- 
 
 cherry
 - cherry - 意为“樱桃”的cherry原作cherries，源自法语cerise/cherise，后来人们把本不是复数名词而听起来像复数名词的cherries误作复数，从而去掉词尾-s逆构出cherrie/cherry这一形式。类似的例子还有几个，如本不是复数名词的pease，buriels，sherris也被误作复数名词，并逆生出pea（豌豆），burial（埋葬），sherry（雪利酒）这样的单数形式。可是另一方面，有些词本是复数名词，却被误作单数使用，如chess（国际象棋），invoice（发票），truce（停战协定）等即是。（参见chess）
@@ -2235,7 +2261,7 @@ cherub
 - _n._ [baby](dic://baby), [babe](dic://babe), [infant](dic://infant), [angel](dic://angel)
 - **angel**天使;**angelic**天使的;**angels**天使投资人;**gilded**镀金的，装饰的;**figurine**小雕像，小塑像;**winged**有翼的;**chubby**圆胖的，丰满的;**darling**心爱的人，亲爱的;**serpent**蛇;**dainty**秀丽的;**altar**祭坛;
 - cherubism
-- cherubic
+- cherubic [美 /tʃəˈruːbɪk/](cmd://Speak/_us_/cherubic)
 	-  [angelic](dic://angelic), [angelical](dic://angelical), [seraphic](dic://seraphic), [sweet](dic://sweet)
 	- _adj._ [lovable](dic://lovable), [loveable](dic://loveable)
 	- _n._ [hateful](dic://hateful)
@@ -2266,14 +2292,18 @@ chunk
 	- **skinny**皮的;**boxy**四四方方的;**meaty**多肉的;**textured**有织纹的;**thick**厚的;**chubby**圆胖的，丰满的;**funky**畏缩的;**lumpy**粗笨的;**sleek**圆滑的;**clunky**沉重的;**creamy**含乳脂的;
 - chunking
 
-churl, churlish
+churl,
 -  [peasant](dic://peasant), [barbarian](dic://barbarian), [boor](dic://boor), [Goth](dic://Goth), [tyke](dic://tyke), [tike](dic://tike)
 -  [niggard](dic://niggard), [skinflint](dic://skinflint), [scrooge](dic://scrooge)
 - _n._ [unpleasant person](dic://unpleasant person), [disagreeable person](dic://disagreeable person), [hoarder](dic://hoarder)
 - **bastard**私生的;**tyrant**暴君;**wretched**可怜的;**coward**懦夫，懦弱的人;**heathen**异教徒;**pompous**浮夸的;**scorn**轻蔑;**beggar**乞丐;**doth**从事;
 - n. 吝啬鬼；乡下人；粗暴的人；（中世纪的）农民
+- churlish
+	- _adj._ [ungracious](dic://ungracious), [ill-natured](dic://ill-natured)
+	- _n._ [gracious](dic://gracious), [good-natured](dic://good-natured)
+	- **daft**愚蠢可笑的;**dismissive**轻视的, 轻蔑的, 鄙视的;**disingenuous**不真诚的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**hypocritical**伪善的;**arrogant**自大的，傲慢的;**cynical**愤世嫉俗的;**foolish**愚蠢的;**rude**粗鲁的;**pompous**浮夸的;
 
-chic
+chic (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy)
 - [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [swank](dic://swank), [last word](dic://last word)
 - **stylish**时髦的;**trendy**时髦的，流行的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**luxe**奢侈;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**sleek**圆滑的;**edgy**尖利的;**rustic**乡村的;**retro**制动火箭,减速火箭;
 
@@ -2616,6 +2646,8 @@ cougar
 
 cow
 - cowfish
+	- _n._ [boxfish](dic://boxfish), [trunkfish](dic://trunkfish)
+	- **sharks**鲨鱼;**squid**鱿鱼;**jellyfish**水母;**eel**鳝鱼;**shark**鲨鱼;**octopus**章鱼;**fish**捕鱼，钓鱼;**catfish**鲶鱼;**turtle**海龟;**seaweed**海藻，海草;**dolphin**海豚;
 - cowgirl, cowman
 - cowgrass
 - cowhage
@@ -2652,6 +2684,11 @@ cowl
 - _[cowl grille](dic://cowl%20grille)_  通风格栅
 - _[cowl panel](dic://cowl%20panel)_  前隔壁板总成，前罩板
 - _[litter container with cowl](dic://litter%20container%20with%20cowl)_  有通风罩废物箱
+- Her head turned. Beneath the shadow of the cowl, her eyes burned like pale red candle flames. " Not I." /她别开头。在兜帽的阴影下，她的双目如浅红的燃烛一般炯炯发亮。" 不是我。"
+- The head and neck of the cowl were separate. /整流罩的头部和颈部是分开的。
+- Sophie could see a sudden frown flash across Alberto's face beneath the brown cowl. /苏菲可以看到阿尔贝托棕色头罩下的脸上突然皱起眉头。
+- Gonna need a cowl panel replaced and a new windscreen. /需要换一个前围板和一个新挡风玻璃。
+- 'Cause being a superhero is not about a cape or a cowl. /因为做超级英雄不用任何披肩或斗篷。
 - cowled
 - cowling
 	- **fuselage**机身;**cockpit**驾驶室;**propeller**螺旋桨;**radiator**散热器;**windscreen**挡风玻璃;**rudder**飞机方向舵;**engine**引擎，发动机;**flaps**马唇肿胀;**fender**防卫物;**shroud**寿衣;**fenders**防撞垫;
@@ -2874,7 +2911,7 @@ dear
 	- Now, don't listen to him, Pheebs, all right? I think it's endearing. 不，别听他的，菲比，好吗？ 我觉得那很可爱。
 - deary
 -  dearth
-	-  (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+	-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
 	- 来自dear, 贵重，珍贵。
 	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
 	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
@@ -4360,6 +4397,22 @@ gain
 - gainer
 - gainable
 
+gallery
+- - n. 美术馆，画廊；（大厅的）楼座，楼上旁听席；（剧场中的）顶层楼座；阳台，露台；一群（相似的人或物）；长廊，走廊；（矿井下的）巷道；观众
+- - 来自拉丁语 Galilaea,现巴勒斯坦地名 Galilee,原指位于 Galilee 的教堂门廊，走廊。
+- [veranda](dic://veranda), [verandah](dic://verandah)
+- [art gallery](dic://art gallery), [picture gallery](dic://picture gallery)
+- [drift](dic://drift), [heading](dic://heading)
+- _n._ [audience](dic://audience), [porch](dic://porch), [room](dic://room), [corridor](dic://corridor), [balcony](dic://balcony), [passageway](dic://passageway)
+- **exhibition**展览, 展览会;**museum**博物馆;**exhibit**显示;**photo**照片;**artwork**艺术品;**art**艺术;**thumbnail**拇指甲,极小的东西;**showroom**陈列室;**photos**照片，图片;**sculpture**雕塑;**flickr**网络相簿;
+- the gallery will provide a showcase for Scotland's young photographers /画廊将为苏格兰的年轻摄影师提供一个展示场所。
+- The visitor's gallery in the House of Commons was full. /下议院的旁听席上坐满了人。
+- accused the administration of playing to the gallery on the defense issue /指控行政机关在国防议题中哗众取宠
+- The trial featured a gallery of famous and flamboyant witnesses. /这次审判的特色是有一批声名显赫的证人
+- the inn has a long gallery, now glassed in. /这个酒店有一个长廊，现用玻璃围了起来。
+- 
+
+
 gamut
 - n. 音阶, 整个范围, 全部, 音域 /gamut（全音阶）：六声音阶中的最低音阶  
 - complete extent or range:
@@ -4880,13 +4933,24 @@ grasp
 grass
 - 来自 PIE*ghre,生长，变绿，词源同 grow,green.
 
-grate
+grate (integrate) 
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate)
+- - n. （壁炉上的）金属炉架，炉箅；壁炉（或熔炉）的炉膛；格栅；<美>下水道孔盖 
+- v. 擦碎，磨碎（食物）；粗声粗气地说话；使烦躁，使难受；发出刺耳的摩擦声
 - **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
 - [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [noise](dic://noise), [barrier](dic://barrier)
 - [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to)
 - [eat into](dic://eat into), [fret](dic://fret), [rankle](dic://rankle)
 - [grind](dic://grind)
 - [scrape](dic://scrape)
+- "Who is it?" A man's low, garbled voice asked through the speaker **grate**. /“哪位？” 一个男子低沉含糊的声音通过扬声器的格栅问道。
+- Put the ginger in a plastic bag and put it in the freezer, **grate** it as needed. /把姜放进塑料袋后，把它放进冰箱，需要的时候磨碎它。
+- Then there's a steel grate behind that door that requires another key to open. /然后，那扇门后面有个钢栅栏需要另一把钥匙才能打开。
+- But they're a dissonant combo that's particularly grating to many Western ears /但这是一种不和谐的组合，尤其令许多西方人感到刺耳。
+- He sloshed forward and poured down through a nearby sidewalk grate./阿波说着化成水形，钻进了人行道旁的下水道。
+- They crouched over the grate with a flashlight, searching for the lost gem. /他们打着手电蹲踞在壁炉前，寻找遗失的珠宝
+- grated her teeth in anger. /愤怒中咬紧她的牙齿发出吱吱声
+- the grate of a key in a lock. /钥匙在锁中发出的刺耳声音
 - pulverize
 	- _v._ [disintegrate](dic://disintegrate), [destroy](dic://destroy), [destruct](dic://destruct)
 	- **crush**压碎;**destroy**毁坏;**crushing**压倒的;**grind**磨碎;**shatter**打碎;**shred**碎片;**chop**砍;**smash**打碎;**demolish**毁坏;**expel**驱逐;**stomp**
@@ -5290,7 +5354,7 @@ gultch
 guppy
 - **goldfish**金鱼;**fish**捕鱼，钓鱼;**fishes**鱼类;**aquarium**水族馆;**shark**鲨鱼;**dolphin**海豚;**jellyfish**水母;**octopus**章鱼;**turtle**海龟;**catfish**鲶鱼;**sharks**鲨鱼;
 
-gush
+gush (flush, gush, lush, slush, plush, blush, shush)
 - 1. _vi._ 喷，涌
 - 滔滔不绝地说话
 - _n._ 涌出；迸发
@@ -6950,7 +7014,7 @@ hum
 	- **bird**鸟;**butterfly**蝴蝶;**birds**鸟类;**owl**猫头鹰;**sparrow**麻雀;**squirrel**松鼠;**nectar**花蜜;**insect**昆虫;**bee**蜜蜂，蜂;**orchid**兰花;**peacock**孔雀;
 - hummer
 - humdrum 
-	-  (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian, )
+	- (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding, earthbound)
 	-  [commonplace](dic://commonplace), [prosaic](dic://prosaic), [unglamorous](dic://unglamorous), [unglamourous](dic://unglamourous)
 	- **mundane**世俗的，平凡的;**banal**陈腐的;**monotonous**无变化的, 单调乏味的;**dreary**沉闷的，枯燥的;**drab**单调的;**dull**钝的;**boring**令人厌烦的;**ordinary**普通的;**unremarkable**寻常的,不值得注意的;**uninteresting**无趣的,令人厌倦的;**bland**乏味的
 	- seeking a way out of his mundane, humdrum existence.
@@ -9591,7 +9655,7 @@ plunk
 - Plunk down your money! 将钱丢下!
 - The dart landed plunk in the center of the target. 标枪正中靶心
 
-plush
+plush  (flush, gush, lush, slush, plush, blush, shush)
 - [lavish](dic://lavish), [lucullan](dic://lucullan), [lush](dic://lush), [plushy](dic://plushy)
 - [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
 - **cuddly**令人想拥抱的;**luxurious**奢侈的;**velvety**天鹅绒般柔软的;**soft**温柔的，温和的;**deluxe**豪华的，奢华的;**stuffed**塞满了的;**comfy**舒服的;**padded**有装填垫料的;**pillows**靠垫;**fluffy**蓬松的;**sumptuous**豪华的, 奢侈的;
@@ -9749,7 +9813,7 @@ porgy
 - **snapper**啮鱼，鲷鱼;**cod**鳕鱼;**shrimp**虾;**fish**捕鱼，钓鱼;**trout**鳟鱼;**catfish**鲶鱼;**squid**鱿鱼;**lobster**龙虾;**eel**鳝鱼;**tuna**金枪鱼，鲔鱼;**crab**螃蟹;
 - _[red porgy](dic://red%20porgy)_  真鲷；红海鲷
 
-posh
+posh (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy)
 - posh - 关于posh的由来，有一种说法聊备一阅。昔日，富人乘船从英国去印度旅行，为求航海途中阴凉舒适，大多喜欢选择背阴朝北的房舱。乘客在订票登记时，大英轮船公司（Peninsular and Oriental Steam Navigation Co.，简称P &amp; O）就会注上P. O. S. H四个字母，或在来回票上加盖P. O. S. H字样。P. O. S. H代表Port Out（或Outward），Starboard Home（或Homeward），意思是“去程左舷，回程右舷”。在客轮穿越苏伊士运河、红海，进入印度洋时，这种房舱可以避免午后太阳的直射，比较凉快。不久，这一缩写式即被用作一个单词，转指“头等乘客”，据认为今作“漂亮的”、“第一流的”等义解的口语用词posh即源于此。这一说法还曾出现在大英轮船公司于20世纪60年代所作的广告上。然而，遗憾的是，大英轮船公司没有这方面的证据和记录，所以这种说法一直没能得到证实。另有一点，posh始用于20世纪初，但在19世纪时英语原本就有一个盗贼俚语posh，意思是“钱”和“花花公子”，可能源自吉卜赛语（Romany）。因此，我们如今所用的posh很可能是从旧的posh演变过来的。
 - a. 豪华的, 漂亮的, 优雅的, 极好的
 -  [classy](dic://classy), [swish](dic://swish)
@@ -9808,6 +9872,7 @@ prose (parody)
 - prosaist
 - prosaism
 - prosaic
+	- (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding, earthbound)
 	- [matter-of-fact](dic://matter-of-fact)
 	- [pedestrian](dic://pedestrian), [prosy](dic://prosy), [earthbound](dic://earthbound)
 	- [commonplace](dic://commonplace), [humdrum](dic://humdrum), [unglamorous](dic://unglamorous), [unglamourous](dic://unglamourous)
@@ -10029,6 +10094,16 @@ qualify
 	- _qualify as_ 取得……资格；作为……合适
 	- I'd like to qualify my last statement. 我想修正一下最后一句话。
 	- qualify coffee with a few drops of brandy 加几滴白兰地于咖啡中, 以改变其味道
+- unqualified (totally, unalloyed, unqualified)
+	- un-不，非 + qualify【有资格】 + -ied表形容词。
+	- adj. 不合格的；无资格的；不胜任的；不受限制的；无条件的；绝对的
+	- _adj._ [categoric](dic://categoric), [categorical](dic://categorical), [flat](dic://flat), [unconditional](dic://unconditional), [clean](dic://clean), [clear](dic://clear), [cool](dic://cool)
+	- _n._ [qualified](dic://qualified), [eligible](dic://eligible), [competent](dic://competent)
+	- **qualified**有资格的;**incompetent**无能力的;**unfit**不适宜的;**unworthy**不值得的;**inexperienced**经验不足的,不熟练的;**inept**不适当的;**uninformed**信息不足的;**inadequate**不适当的;**unskilled**不熟练的;**uneducated**未受良好教育的;**irresponsible**不负责任的;
+	- I am singularly unqualified to write about football /我特别不能胜任足球报道工作。
+	- weed out unqualified applicants. /剔除不合格的申请人
+	- In the case of an aluminum can the answer is an unqualified yes /如果说是铝罐制造答案绝对是肯定的。
+	- They had Potions that afternoon, which was an unqualified disaster. /那天下午他们考魔药，那绝对是一场灾难。
 - quality
 	- qualitative
 	- high-quality
@@ -10106,13 +10181,14 @@ quip
 quirk
 - 词源不详，可能来自 queer 的强化形式，引申词义怪癖，怪异。-k,表强调，比较 hear,hark.
 - quirky (crank)
+	- (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
 	-  [far-out](dic://far-out), [kinky](dic://kinky), [offbeat](dic://offbeat), [way-out](dic://way-out)
 	- _adj._ [unconventional](dic://unconventional)
 	- _n._ [conventional](dic://conventional)
 	- **offbeat**离奇的;**whimsical**异想天开的,闹着玩的;**charming**迷人的;**endearing**惹人喜爱的;**wacky**乖僻的，古怪的;**funky**畏缩的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**eclectic**兼收并蓄的;**delightfully**大喜;**lovable**可爱的，讨人喜欢的;
 
 Quixote
-- quixotic
+- quixotic (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
 	- quixotic（不切实际的）：塞万提斯名著《堂吉坷德》的男主角  
 	- 堂吉坷德是17世纪伟大的西班牙作家塞万提斯的代表作《堂吉诃德》中的人物。他是一个迷恋骑士小说的小乡绅。在骑士已经绝迹100多年后的年代，把自己幻想为中世纪的一名骑士，雇佣了附近一名农民做随从，披甲持盾，肩扛一柄生锈长枪，骑着一匹瘦弱的老马，出门行侠仗义，做出种种与时代相悖，令人匪夷所思的事情，如把风车当成巨人，要与它决斗；把一群罪犯当成受压迫的绅士，杀散了衙役解救了他们，结果反而被他们一顿暴揍。因此，在英语中，人们就用堂吉诃德来表示与脱离现实的幻想家，从他的名字Quixote（吉诃德）中衍生出形容词quixotic，表示不切实际的。  
 		- quixotic： [kwɪk'sɒtɪk] adj.不切实际的，幻想家的，堂吉诃德式的
@@ -10925,6 +11001,38 @@ ruction
 - [commotion](dic://commotion), [din](dic://din), [ruckus](dic://ruckus), [rumpus](dic://rumpus), [tumult](dic://tumult)
 - a senseless ruction over trivia. /为区区小事的无意义争吵
 
+rudder
+- **propeller**螺旋桨;**keel**给…装龙骨;**starboard**右舷;**hull**船体;**fuselage**机身;**aft**在船尾;**cockpit**驾驶室;**steering**掌舵;**servo**伺服;**sail**航行;**boat**小船;
+- _rudder angle_ 方向舵偏角
+- we need to get that jury rudder fixed. /我们需要把备用舵安装好。
+- the rudder kept the dinghy straight against the set of the tide. /船舵使小划艇顶着潮水流向直行。
+- Midships Rudder to be held in the fore and aft position. /1正舵舵保持在船首尾线位置上。
+- A sailor uses the rudder to make the ship go in the correct direction /水手用舵导航。
+- rudderpost
+- rudderless
+	- **adrift**漂浮着的;**inept**不适当的;**disarray**无秩序;**hopelessly**绝望地;**disorganized**紊乱的, 无组织的;**disillusioned**不再抱幻想的, 大失所望的;**mired**使…陷于泥泞，使…陷入困境;**hopeless**绝望的;**disjointed**脱离开的,不连贯的;**muddled**混乱的;**powerless**无力的;
+
+rue
+- n. 懊悔, 后悔; 芸香  
+- v. 后悔, 悲伤, 懊悔
+-  来自古英语 hreowan,伤心，懊悔，来自 PIE*kreue,击，打。
+-  [herb of grace](dic://herb of grace), [Ruta graveolens](dic://Ruta graveolens)
+- [sorrow](dic://sorrow), [regret](dic://regret), [ruefulness](dic://ruefulness)
+-  [repent](dic://repent), [regret](dic://regret)
+- _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [sadness](dic://sadness), [unhappiness](dic://unhappiness), [street](dic://street)
+- _v._ [feel](dic://feel), [experience](dic://experience)
+- You'll live to rue it. /你总有一天要后悔的。
+- Ferguson will rue the day he turned down that offer. /弗格森将后悔那天拒绝那个提议。
+-  /" And he will rue it some day, and think of me! "“将来有一天他会后悔的，到时候他就会想起我来了！”
+- rueful
+	-  [contrite](dic://contrite), [remorseful](dic://remorseful), [ruthful](dic://ruthful)
+	- _adj._ [penitent](dic://penitent), [repentant](dic://repentant)
+	- _n._ [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+	- **wry**面部肌肉扭曲的;**melancholy**忧郁, 悲哀;**chuckle**咯咯的笑，轻声地笑;**sly**狡猾的;**poignant**尖锐的;**smirk**傻笑;**somber**昏暗的;**cynical**愤世嫉俗的;**sarcastic**讽刺的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**grim**冷酷的;
+	- she gave a rueful grin /她懊悔地苦笑了一下。
+	- Stroeve, I said. He gave a little start, and then smiled, but his smile was rueful. /“施特略夫。”我叫了一声。他吓了一跳，接着就露出笑容来，但是他笑得那么凄惨。
+	- The old gentleman looked almost as rueful as Oliver when the key grated in the lock. /当钥匙卡在锁里时，老先生看起来几乎和奥利弗一样懊悔。
+
 ruin
 - - 来自拉丁语 ruina,倒塌，毁坏，来自 ruere,倒塌，崩塌，来自 PIE*reue,击，打，撕开，词源同 rag,rough.字母 g 脱落，比较 regulate,rule.
 - [ruination](dic://ruination)
@@ -10970,17 +11078,6 @@ rumpus
 - _[kick up a rumpus](dic://kick%20up%20a%20rumpus)_ 使发生争吵
 - _[rumpus room](dic://rumpus%20room)_  娱乐室；游戏室
 - Yes, I'm sure that was quite a rumble in the Eriksen rumpus room /没错 我敢肯定Eriksen那混乱的房间里 可展开过一场混战啊。
-
-rudder
-- **propeller**螺旋桨;**keel**给…装龙骨;**starboard**右舷;**hull**船体;**fuselage**机身;**aft**在船尾;**cockpit**驾驶室;**steering**掌舵;**servo**伺服;**sail**航行;**boat**小船;
-- _rudder angle_ 方向舵偏角
-- we need to get that jury rudder fixed. /我们需要把备用舵安装好。
-- the rudder kept the dinghy straight against the set of the tide. /船舵使小划艇顶着潮水流向直行。
-- Midships Rudder to be held in the fore and aft position. /1正舵舵保持在船首尾线位置上。
-- A sailor uses the rudder to make the ship go in the correct direction /水手用舵导航。
-- rudderpost
-- rudderless
-	- **adrift**漂浮着的;**inept**不适当的;**disarray**无秩序;**hopelessly**绝望地;**disorganized**紊乱的, 无组织的;**disillusioned**不再抱幻想的, 大失所望的;**mired**使…陷于泥泞，使…陷入困境;**hopeless**绝望的;**disjointed**脱离开的,不连贯的;**muddled**混乱的;**powerless**无力的;
 
 
 
@@ -11626,6 +11723,7 @@ shadow
 	- shadowboxing
 - overshadow
 - foreshadow
+	- (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow)
 	- vt. 预示；成为……的前兆 
 	- n. 预兆
 	- _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
@@ -11804,7 +11902,7 @@ shingle
 - _v._ [roof](dic://roof)
 - **roofing**屋顶;**roof**屋顶;**stucco**粉饰，粉刷;**siding**侧线;**decking**装饰;**brick**砖，砖块;**sand**沙;**masonry**石工行业;**pebble**卵石;**drywall**纸面石膏板;**sandy**含沙的;
 
-shirk (shirk, shun, spurn, elude, eschew,  )
+shirk (shirk, shun, spurn, elude, eschew,  shrink)
 - 可能来自 shark,鲨鱼，骗子，引申词义逃避，偷懒。
 - [fiddle](dic://fiddle), [shrink from](dic://shrink from), [goldbrick](dic://goldbrick)
 - _v._ [avoid](dic://avoid)
@@ -12172,6 +12270,10 @@ skull
 	- People across Germany are being encouraged to wear a Jewish skullcap or kippah today, Saturday, as a sign of solidarity with the Jewish community. /周六，德国鼓励各地的民众佩戴犹太人的圆顶帽，作为与犹太社区团结的标志。
 	- Crowds of men with beards and skullcaps were swarming the streets /一群群头戴瓜皮帽的大胡子男人 挤满了街道。
 - numskull
+
+slug, slay, slog, slag, 
+slattern, slut, sloven, slug
+- leig-
 
 slabber
 - n. 浓而变酸的牛奶 
@@ -13328,7 +13430,8 @@ spur
 	- _spur track_ 支路；（铁路的）支线
 	- _spur line_ 延线；（货物）支线
 - spurn
-	- (flout, jeer, scoff, barrack, gibe, scorn, )
+	- (spurn, rebuff, refuse, snub, repel, reject,)
+	- (flout, jeer, scoff, barrack, gibe, scorn, spurn)
 	- (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
 	- - 来自古英语 spurnan,踢开，词源同 spur,马刺，鞭刺。引申比喻义拒绝，回绝。
 	- reject with contempt
@@ -13864,6 +13967,7 @@ sully
 - _[sully secured creditors](dic://sully%20secured%20creditors)_ 担保充分的债权人
 - This has been an election that has been sullied from the very start /这是一场从一开始就被玷污的选举。
 surly
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy)
 - nclined to anger or bad feelings with overtones of menace
 	- a surly waiter
 - **grumpy**脾气暴躁的;**unfriendly**不友好的;**cranky**暴躁的;**arrogant**自大的，傲慢的;**rude**粗鲁的;**cocky**自大的;**condescending**降低身份的,屈尊的;**belligerent**好战的;**jaded**厌倦的;**obnoxious**可憎的;**chatty**饶舌的;
@@ -14501,6 +14605,7 @@ tip
 token
 -  来自古英语 tacen,符号，象征，证据，来自 Proto-Germanic*taiknam,符号，标志，来自 PIE*teik,显示，展示，词源同 teach,digit,toe.引申诸相关词义。
 - betoken
+	- (bespeak, indicate, point, signal, adumbrate,  betoken)
 	- vt. 预示
 	- [bespeak](dic://bespeak), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
 	- [tell](dic://tell), [bespeak](dic://bespeak), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
@@ -14865,6 +14970,7 @@ vanilla
 _plain vanilla_ 单纯功能
 
 vapid
+- (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding, earthbound)
 - 来自 vapor,蒸气，蒸发，用于指酒的酒精蒸发掉的，乏味的。
 - a. 乏味的, 走了气味的, 无生气的, 无趣味的
 - [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [insipid](dic://insipid), [savorless](dic://savorless), [savourless](dic://savourless)
@@ -14889,6 +14995,9 @@ velocity
 - **acceleration**加速;**trajectory**弹道,轨迹;**speed**加速，迅速前行;**amplitude**广阔;**inertial**惯性的;**kinetic**运动的;**projectile**发射体;**angular**有角的;**gravity**重力，地心引力;**radial**半径的;**gravitational**万有引力的;
 
 vernacular
+- vernacular [və'nækjʊlə] adj.本国的；地方的；用本地语写成的，n. 本地话；动植物的俗名。罗马共和国建立在奴隶制基础上，奴隶的主要来源是战俘，这些战俘在主人家里生下来的后代叫verna，拉丁语里-culus是指小词后缀，vernaculus是家庭内部的、国内的、与出生在家里的奴隶有关的。后缀-ar同-al。
+- n. 本地话, 方言  
+- a. 地方的, 用本地语写成的
 - _n._ [non-standard speech](dic://non-standard speech)
 - _adj._ [informal](dic://informal)
 - _n._ [formal](dic://formal)
@@ -14900,8 +15009,11 @@ vernacular
 - _[vernacular language](dic://vernacular%20language)_  地方语言; 当地方言; 
 - _[writings in the vernacular](dic://writings%20in%20the%20vernacular)_  白话文
 - There are many strange words in the vernacular of the lawyers /律师的术语中颇有些怪字。
+- he wrote in the vernacular to reach a larger audience. /为了赢得更多的读者，他用本地话写作。
+- Returning to China in 1922, Xu began writing poems and essays in the vernacular style. /1922年回国后，徐志摩开始以白话创作诗歌和散文。
+- His vernacular delivery implied that he was a real boss, not a backslapping hack, with unique skills to get things done. /他的白话表达意味着他是一个真正的老板，而不是弹冠相庆的政客，他用这些独特的技巧当选了总统。
 
-veneer (venial, venner, venal)
+veneer (venial, veneer, venal)
 - coating consisting of a thin layer of superior wood glued to a base of inferior wood
 	- [veneering](dic://veneering)
 - an ornamental coating to a building
@@ -14917,6 +15029,8 @@ veneer (venial, venner, venal)
 
 ## W
 wad
+- n. 小软团, 小软块, 一卷, 填料, 大量  vt. 揉成一团, 填塞
+- 词源不详，可能来 Proto-Germanic*wediz,衣服，衬料，词源同 weeds,衣服。引申词义卷，沓。
 - [batch](dic://batch), [deal](dic://deal), [flock](dic://flock), [good deal](dic://good deal), [great deal](dic://great deal), [hatful](dic://hatful), [heap](dic://heap), [lot](dic://lot), [mass](dic://mass), [mess](dic://mess), [mickle](dic://mickle), [mint](dic://mint), [muckle](dic://muckle), [peck](dic://peck), [pile](dic://pile), [plenty](dic://plenty), [pot](dic://pot), [quite a little](dic://quite a little), [raft](dic://raft), [sight](dic://sight), [slew](dic://slew), [spate](dic://spate), [stack](dic://stack), [tidy sum](dic://tidy sum), [whole lot](dic://whole lot), [whole slew](dic://whole slew)
 -  [chew](dic://chew), [chaw](dic://chaw), [cud](dic://cud), [quid](dic://quid), [plug](dic://plug)
 -  [pack](dic://pack), [bundle](dic://bundle), [compact](dic://compact)
@@ -14931,6 +15045,7 @@ wad
 - **panties**女式短裤;**shove**推, 猛推, 乱推;**spit**吐口水;**load**负载，负荷;**crumpled**摺皱的，弄皱的;**goo**感伤;**pile**堆;**handkerchief**手帕;
 - a wad of lint-free rag. /一块不掉棉绒的抹布。
 - The children waded out into the lake /孩子们一路蹚水到了湖里。
+- 
 
 waffle
 - **pancake**薄烤饼;**pancakes**薄烤饼;**griddle**矿筛;**biscuit**小点心，饼干;**crepe**绉绸;**fries**炸薯条;**donut**炸面圈;**doughnut**圆环图;**iron**铁;**sandwich**三明治;**oatmeal**燕麦粥;
@@ -15327,6 +15442,7 @@ welter
 - " And looks a lot like Betty, too, " said Camilla, and then disappeared shrieking amid a welter of skirts and pantalets and bobbing hats, as Betty, who did have a long face, began pinching her. /" 而且长得也很像赫蒂，" 卡米拉说，这惹得长脸的赫蒂动手来拧她，她尖叫一声就躲到一大堆裙子，长裤子和晃动的帽子中间去了。
 
 whimsy
+- (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
 - [notion](dic://notion), [whim](dic://whim), [whimsey](dic://whimsey)
 - [flightiness](dic://flightiness), [arbitrariness](dic://arbitrariness), [whimsicality](dic://whimsicality), [whimsey](dic://whimsey), [capriciousness](dic://capriciousness)
 - _n._ [idea](dic://idea), [thought](dic://thought), [irresponsibility](dic://irresponsibility), [irresponsibleness](dic://irresponsibleness)
@@ -15338,6 +15454,7 @@ whimsy
 - They bring a sense of whimsy and nostalgia. /它们能勾起大家的各种情怀。
 - whimsied
 - whimsical, whimsically
+	- (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, whimsical, ) 
 	- _adj._ [arbitrary](dic://arbitrary)
 	- _n._ [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
 	- **fanciful**想像的;**whimsy**怪念头;**playful**爱嬉戏的;**quirky**诡诈的;**colorful**华美的;**fantastical**空想的,捕风捉影的;**delightful**令人非常高兴的, 讨人喜欢的;**light-hearted**轻松的;**artful**狡猾的;**delightfully**大喜;**imaginative**富于想像力的;
@@ -15516,16 +15633,42 @@ wonky
 - You have a wonky nose and a crooked mouth /你有个歪鼻子和一张斜嘴。
 - they sat drinking, perched on the wonky stools /他们坐在摇晃的小凳上喝酒。
 
-woo
+woo (woo, swoop, goo, oozy)
+- vt. 追求, 向...求爱, 恳求  vi. 求爱, 央求
+- 词源不详，可能来自古英语 wog,弯曲，弯腰，引申词义恭敬，求爱。
 - [court](dic://court), [romance](dic://romance), [solicit](dic://solicit)
+- _v._ [act](dic://act), [move](dic://move)
 - **entice**诱使;**persuade**说服，劝说;**seduce**引诱;**convince**使确信，使信服;**hoo**呼！;**lure**诱惑物;**attract**吸引;**impress**给…以深刻印象, 使铭记;**flirt**调情;**appease**使平息;**gullible**易受骗的;
+- to woo the voters before an election /在选举之前争取选民的支持
+- attempts to woo undecided voters /游说未作出决定的选民的努力
+- a two-pronged campaign to woo potential customers. /双管齐下、旨在招引潜在顾客的商业宣传。
+- the minister scorned Labour's attempt to woo voters. /部长嘲笑了工党的拉票行为。
 - wooingly
+	- _adv._ 吸引人地,迷人地
 - wooer
 
 wood
+- _n._ [plant material](dic://plant material), [vegetation](dic://vegetation), [flora](dic://flora), [botany](dic://botany), [actress](dic://actress), [conductor](dic://conductor), [music director](dic://music director)
+	- [lumber](dic://lumber) 指伐下后未经削磨的木材，现多用于美国英语中。  
+	- [timber](dic://timber) 指经过匠人初步加要的备用木材，多用于英国英语。  
+	- [wood](dic://wood) 最普通用词，含义广，除表示“木材，木”外，还可用复数形式表示森林。  
+	- [log](dic://log) 指原木或圆木。
+- **timber**木料;**hardwood**硬木，硬木材;**oak**橡树;**plywood**夹板，胶合板;**pine**松树;**cedar**雪松;**birch**桦木;**walnut**胡桃木;**lumber**伐木;**beech**山毛榉;**teak**柚木;
+- the wood was riven with deep cracks /木头被劈得满是深深的裂口。
+- keep a cord of wood in the shed /将木材储存在小屋里
+- the subtle savour of wood smoke. /淡淡的木头烟熏味。
+- This wood is too wet to kindle. /这木柴太湿点不着。
+- We got hickory wood in amongst the charcoal. /
 - woody
-	- **oak**橡树;**pine**松树;**aromatic**芳香的，芬芳的;**earthy**土的;**cedar**雪松;**vegetation**植物;**fleshy**肉的;**deciduous**每年落叶的;**grasses**稻科植物类;**fruity**有果味的;**citrus**柑橘属果树;
+	- - adj. 木质的；多树木的；木头似的；像木头味的
+	- [arboraceous](dic://arboraceous), [arboreous](dic://arboreous), [woodsy](dic://woodsy)
+	- [lignified](dic://lignified)
 	- [ashen](dic://ashen), [beechen](dic://beechen), [birch](dic://birch), [birchen](dic://birchen), [birken](dic://birken), [cedarn](dic://cedarn), [ligneous](dic://ligneous)
+	- **oak**橡树;**pine**松树;**aromatic**芳香的，芬芳的;**earthy**土的;**cedar**雪松;**vegetation**植物;**fleshy**肉的;**deciduous**每年落叶的;**grasses**稻科植物类;**fruity**有果味的;**citrus**柑橘属果树;
+	- It is especially important to water trees and woody plants well in their first season. /树木和木本植物在第一季浇水特别重要。
+	- The four children, holding hands and panting, found themselves standing in a woody place. /四个孩子手拉着手，气喘吁吁，发现自己站在一片树林之中。
+	- The priority here is woody landscape plants like trees and bushes /这里优先考虑的是树木和灌木丛等木质景观植物。
+	- Include a backdrop of woody plants like the sweet-smelling Korean spice viburnum, or white-blooming hydrangeas. /以木本植物为背景，比如芳香的韩国香料荚蒾或白色的绣球花。
 - etc.. (todo)
 
 wool

@@ -2813,7 +2813,7 @@
 		6. [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception), [gustatory perception](dic://gustatory perception), [flavorsomeness](dic://flavorsomeness), [flavoursomeness](dic://flavoursomeness)
 	2. insipid
 		1. in-不 , 无 + sip-[=sap] + id → 无味的。
-		2. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot)
+		2. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding)
 		3. [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [savorless](dic://savorless), [savourless](dic://savourless), [vapid](dic://vapid)
 		4. [tasteless](dic://tasteless), [innocuous](dic://innocuous), [harmless](dic://harmless), [uninteresting](dic://uninteresting), [unappetizing](dic://unappetizing), [unappetising](dic://unappetising)
 		5. [tasty](dic://tasty), [noxious](dic://noxious), [harmful](dic://harmful), [interesting](dic://interesting), [appetizing](dic://appetizing), [appetising](dic://appetising)
@@ -3705,11 +3705,12 @@
 		6. The familiarity of that face, the features out of numberless visions in his earliest prescience, shocked Paul to stillness. /那张面孔的熟悉感，以及他最早的先见之明中无数幻象中的特征，让保罗震惊得一动不动。
 		7. It gave him a new understanding of his prescience, and he saw the source of blind time, the source of error in it, with an immediate sensation of fear /这让他对自己的先见之明有了新的认识，他看到了盲目时间的来源，其中的错误来源，立即感到恐惧。
 		8. prescient
-			1. _adj._ [discerning](dic://discerning)
-			2. _n._ [undiscerning](dic://undiscerning)
-			3. **perceptive**敏感的;**prophetic**预言的,先知的;**astute**机敏的;**insightful**有深刻见解的;**sobering**使清醒的;**visionary**幻想的;**poignant**尖锐的;**shrewd**精明的;**instructive**教育性的;**provocative**刺激的;**ominous**不祥的;
-			4. The vision was prescient, but the jargon died. /这一愿景是有先见之明的，但这个术语已不复存在了。
-			5. It was prescient, and it was visionary and it was one of Lincoln's finest acts and finest moments. /这是一个有卓识有远见的决策，这是林肯最好的举措之一，是他人生中最美妙的时刻之一。
+			1. (prescient, portend, presage, prefigure, foretell, prophetic, )
+			2. _adj._ [discerning](dic://discerning)
+			3. _n._ [undiscerning](dic://undiscerning)
+			4. **perceptive**敏感的;**prophetic**预言的,先知的;**astute**机敏的;**insightful**有深刻见解的;**sobering**使清醒的;**visionary**幻想的;**poignant**尖锐的;**shrewd**精明的;**instructive**教育性的;**provocative**刺激的;**ominous**不祥的;
+			5. The vision was prescient, but the jargon died. /这一愿景是有先见之明的，但这个术语已不复存在了。
+			6. It was prescient, and it was visionary and it was one of Lincoln's finest acts and finest moments. /这是一个有卓识有远见的决策，这是林肯最好的举措之一，是他人生中最美妙的时刻之一。
 	10. sciolism
 		1. sciol-知道 + -ism
 		2. sciolist
@@ -4318,17 +4319,20 @@
 	1. algolagnia
 3. **lax-, leas-, lang-** = loose, 表示“松”；= languid, 表示“疲倦”。源自拉丁语 laxus "loose, slack;" languere "to be languid."
 	1. languid, languidly
-		1. langu-疲倦 + -id。 
-		2. 1 - 来自 PIE*sleg,松的，松散的，词源同 lax.引申词义懒洋洋的。
-		3. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, languid)
-		4. a. 疲倦的, 无力的, 阴沉的
-	2. languish
-		1. 来自 PIE*sleg,松的，松散的，词源同 lax,slack.引申词义松软无力的，消瘦的，后用来指长期受苦，煎熬。
-		2. langu-疲倦 + -ish表动词。
-		3. [pine away](dic://pine away), [waste](dic://waste)
-		4. [ache](dic://ache), [yearn](dic://yearn), [yen](dic://yen), [pine](dic://pine)
-		5. [weaken](dic://weaken), [hanker](dic://hanker), [long](dic://long), [yearn](dic://yearn), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop)
-		6. **limbo**林波舞;**remain**保持;**mired**使…陷于泥泞，使…陷入困境;**linger**逗留, 徘徊;**suffer**忍受;**sit**坐;**stagnant**停滞的;**obscurity**不明, 费解, 隐晦, 无闻;**disappear**不见, 消失;**neglected**被忽视的;**shelved**搁置的;
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid)
+		2. langu-疲倦 + -id。 
+		3. 1 - 来自 PIE*sleg,松的，松散的，词源同 lax.引申词义懒洋洋的。
+		4. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, languid)
+		5. a. 疲倦的, 无力的, 阴沉的
+	3. languish
+		1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish)
+		2. 来自 PIE*sleg,松的，松散的，词源同 lax,slack.引申词义松软无力的，消瘦的，后用来指长期受苦，煎熬。
+		3. langu-疲倦 + -ish表动词。
+		4. - v. 长期受苦，受煎熬；衰败，未能取得进展 ；变得衰弱；<古>思恋；<古>显示出温柔亲切（或忧伤）的样子
+		5. [pine away](dic://pine away), [waste](dic://waste)
+		6. [ache](dic://ache), [yearn](dic://yearn), [yen](dic://yen), [pine](dic://pine)
+		7. [weaken](dic://weaken), [hanker](dic://hanker), [long](dic://long), [yearn](dic://yearn), [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop)
+		8. **limbo**林波舞;**remain**保持;**mired**使…陷于泥泞，使…陷入困境;**linger**逗留, 徘徊;**suffer**忍受;**sit**坐;**stagnant**停滞的;**obscurity**不明, 费解, 隐晦, 无闻;**disappear**不见, 消失;**neglected**被忽视的;**shelved**搁置的;
 			1. _[languished](dic://languished)_  v. 失去活力（languish的过去分词形式
 			2. _[languishing](dic://languishing)_  adj. 渴望的；含情脉脉的；渐渐衰弱的
 			3. _[languish in](dic://languish%20in)_  在某方面受煎熬; 在某地方受煎熬; 
@@ -4337,9 +4341,13 @@
 			6. _[languishing shame](dic://languishing%20shame)_ 刻骨的羞愧
 			7. _[Languishing Lord](dic://Languishing%20Lord)_ 昏君
 			8. _[Languish Lads](dic://Languish%20Lads)_ 倦怠少年
-		7. languishment
-		8. languishing
-	4. languor
+		9.  Within weeks, our national congress approved the disarmament bill that had been languishing for years./几周内，国家议会通过了那个折腾了好多年的缴械法案。
+		10. I think I'm languishing, to tell you the truth. /对你说实话，我想我在衰竭。”
+		11. But the bill languished in Illinois's house for months. /但是该法案在伊利诺伊州众议院搁置了数月之久。
+		12. The land beneath Sheger Park, for instance, had languished for years. /例如，谢格公园下面的土地已经荒废多年。
+		13. languishment
+		14. languishing
+	5. languor
 		1. n. 怠惰, 疲倦, 无气力
 		2. languorous, languorously
 	6. lease
@@ -4975,18 +4983,24 @@
 	3. scutellum
 		1. n. [植] 盾片；角质鳞片（鸟足的）；小盾板；胚盘
 	4. squire
-		1. _n._ [attendant](dic://attendant), [attender](dic://attender), [tender](dic://tender), [landowner](dic://landowner), [landholder](dic://landholder), [property owner](dic://property owner)
-		2. _v._ [escort](dic://escort)
-		3. **knight**骑士，武士;**nobleman**贵族;**knights**骑兵，骑士;**lad**少年，小伙子;**gentleman**绅士;**manor**庄园;**earl**伯爵;**lord**上帝;**baron**男爵;**duke**公爵，君主;**archer**弓箭手;
-		4. _[white squire](dic://white%20squire)_  白护卫
-		5. _[country squire](dic://country%20squire)_  乡绅牌汽车
-	5. esquire
+		1. esquire（绅士）：古代骑士的侍从  
+		2. 英语单词esquire和squire都来自法语esquier，字面意思就是“（替骑士）扛盾牌的人”，指的是骑士的“侍从”，是封建时期西方的年轻贵族成为“骑士”（knight）之前的一种级别，其职责是服侍骑士，为其背负盾牌等物品。在16世纪，随着骑士阶层的没落，该词的词义变宽，可以用作任何有教养的专业人士的头衔。在19世纪的美国，该词主要用来称呼律师。  
+		3. Esquire还是一本美国著名的时尚杂志的英文名称。它的中国大陆版本的名字为“时尚先生”，台湾版本的名字为“君子”。  
+		4. squire是esquire的另一种拼写形式，词义与esquire接近，在近代用来表示拥有田产但地位低于骑士的人，如乡绅、地主，在现代美式英语中一般用作地方法官的头衔。  
+		5. esquire：[ɪ'skwaɪə; e-] n.绅士，先生  
+		6. squire：[skwaɪə] n.侍从，乡绅，地主，地方法官
+		7. _n._ [attendant](dic://attendant), [attender](dic://attender), [tender](dic://tender), [landowner](dic://landowner), [landholder](dic://landholder), [property owner](dic://property owner)
+		8. _v._ [escort](dic://escort)
+		9. **knight**骑士，武士;**nobleman**贵族;**knights**骑兵，骑士;**lad**少年，小伙子;**gentleman**绅士;**manor**庄园;**earl**伯爵;**lord**上帝;**baron**男爵;**duke**公爵，君主;**archer**弓箭手;
+		10. _[white squire](dic://white%20squire)_  白护卫
+		11. _[country squire](dic://country%20squire)_  乡绅牌汽车
+	6. esquire
 		1. _n._ [attendant](dic://attendant), [attender](dic://attender), [tender](dic://tender), [man](dic://man), [adult male](dic://adult male)
 		2. **knight**骑士，武士;**earl**伯爵;**lord**上帝;**duke**公爵，君主;**gentleman**绅士;**knights**骑兵，骑士;**manor**庄园;**barrister**律师;**solicitor**律师;**nobleman**贵族;
-	6. escutcheon
+	7. escutcheon
 		1. _n._ [protective covering](dic://protective covering), [protective cover](dic://protective cover), [protection](dic://protection), [plate](dic://plate), [shield](dic://shield), [buckler](dic://buckler)
 		2. **heraldic**纹章的;**emblem**象征;**insignia**徽章;**monogram**交织文字;**faucet**旋塞;**emblems**象征动作;**crest**冠;**brass**黄铜;
-	7. scutage
+	8. scutage
 		1. . 兵役免除税
 2. **spi-, spin-** , spin- 表示“脊柱”，原意为“刺”，和 spi- 同源。
 	1. cerebrospinal
@@ -5066,11 +5080,13 @@
 		1. _n._ [intellectual](dic://intellectual), [intellect](dic://intellect)
 		2. **skeptical**怀疑的;**sceptical**怀疑的;**skepticism**怀疑论;**atheist**无神论者;**believer**者;**scientist**科学家;**agnostic**不可知论者;**optimist**乐天派;**proponent**支持者,拥护者;**environmentalist**环境保护论者, 人类生态学者;**fundamentalist**信奉正统派基督教的人;
 5. **speci-, = look, kind,** 
-	1. speciate, speciation, 
-		1. [differentiate](dic://differentiate), [specialize](dic://specialize), [specialise](dic://specialise)
-		2. species 
+	1. speciate,
+		1. - vi. （通过进化）形成物种
+		3. [differentiate](dic://differentiate), [specialize](dic://specialize), [specialise](dic://specialise)
+		4. speciation, 
+		5. species 
 			1. subspecies
-	2. specify, special
+	3. specify, special
 		1. [stipulate](dic://stipulate), [qualify](dic://qualify), [condition](dic://condition)
 		2. [define](dic://define), [delineate](dic://delineate), [delimit](dic://delimit), [delimitate](dic://delimitate)
 		3. [set](dic://set), [determine](dic://determine), [fix](dic://fix), [limit](dic://limit)
@@ -5088,12 +5104,12 @@
 		12. specificity, specification
 			1. _n._ [particularity](dic://particularity), [specialness](dic://specialness)
 			2. **sensitivity**敏感;**selectivity**选择性;**accuracy**精确度，准确性;**relevance**中肯;**applicability**适用性;**heterogeneity**异质性;**robustness**强度;**homology**相同;**affinity**吸引力;**quantification**定量，量化;**nuance**细微差别;
-	3. nonspecialist
+	4. nonspecialist
 		1. _n._ 非专门人员,非专家
-	4. speciman
+	5. speciman
 		1. _[plate specimen](dic://plate%20specimen)_  板试件
 		2. _[blood specimen](dic://blood%20specimen)_  血标本
-	5. specious
+	6. specious
 		1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, )
 		2.  [spurious](dic://spurious)
 		3. [gilded](dic://gilded), [meretricious](dic://meretricious)
@@ -5180,7 +5196,7 @@
 		5. _[teaching conspectus](dic://teaching%20conspectus)_ 教学概论
 		6. conspicuous
 			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, obtrusive, spectacular, impressive, overblown, striking)
-		7. perspicuous 
+		7. perspicuous
 			1. (illustrative, perspicuous, lucid, pellucid, limpid, luculent, crystal clear, )
 			2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative) 
 			3. _adj._ [clear](dic://clear)
@@ -5232,14 +5248,15 @@
 		6. _[espy catch sight of](dic://espy%20catch%20sight%20of)_ 探出; 窥见; 发现; 
 		7. _[descry espy make out see](dic://descry%20espy%20make%20out%20see)_ 看出
 	11. despise
-		1. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
-		2. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
-		3. _v._ [hate](dic://hate), [detest](dic://detest)
-		4. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
-		5. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
-		6. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
-		7. **loathe**讨厌，厌恶;**hate**憎恨;**dislike**不喜欢，厌恶;**hates**讨厌;**disdain**蔑视;**shun**避开, 回避, 避免;**resent**怨恨;**adore**爱慕;**profess**公开表示;**love**恋爱;**criticize**评论, 批评;
-		8. despite
+		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite)
+		2. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
+		3. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
+		4. _v._ [hate](dic://hate), [detest](dic://detest)
+		5. [despise](dic://despise) 指由于卑鄙、软弱，渺小或无价值等而被轻视。  
+		6. [scorn](dic://scorn) 语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。   
+		7. [look down upon](dic://look down upon) 指自视地位优越而蔑视他人或事。
+		8. **loathe**讨厌，厌恶;**hate**憎恨;**dislike**不喜欢，厌恶;**hates**讨厌;**disdain**蔑视;**shun**避开, 回避, 避免;**resent**怨恨;**adore**爱慕;**profess**公开表示;**love**恋爱;**criticize**评论, 批评;
+		9. despite
 			2. 词源同despise,鄙视，-t, 过去分词后缀。用于引申义，尽管（鄙视），仍然。
 			3. [contempt](dic://contempt), [disdain](dic://disdain), [scorn](dic://scorn)
 			4. _n._ [dislike](dic://dislike), [disregard](dic://disregard), [neglect](dic://neglect)
@@ -5250,35 +5267,42 @@
 			6. despiteful, despicable,
 			7. spite, spiteful
 				1. 缩写自 despite,怨恨，憎恨。
-		1. respite
-			1. 1 - 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
-			2.  [reprieve](dic://reprieve)
-			3.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
-			4.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
-			5. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
-			6.  [reprieve](dic://reprieve)
-			7.  [reprieve](dic://reprieve)
-			8. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
-			9. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
-			10. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
-			11. _[respite care](dic://respite%20care)_  临时看护
-			12. _[payment respite](dic://payment%20respite)_  延期付款
-			13. _[poverty respite](dic://poverty%20respite)_ 扶贫
-			14. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
-			15. _[respite centers](dic://respite%20centers)_ 休中心
-			16. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
-			17. _[respite service](dic://respite%20service)_ 暂托服务
-			18. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
-			19. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
-			20. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
-			21. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
+	12. respite
+		1. 1 - 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
+		2. n. （不快或困难的）暂缓，暂延；（做不喜欢的事之前的）暂缓，喘息 
+		3. v. <罕>暂缓执行（判决），暂缓履行（义务等）
+		4.  [reprieve](dic://reprieve)
+		5.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
+		6.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
+		7. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
+		8.  [reprieve](dic://reprieve)
+		9.  [reprieve](dic://reprieve)
+		10. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
+		11. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
+		12. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
+		13. _[respite care](dic://respite%20care)_  临时看护
+		14. _[payment respite](dic://payment%20respite)_  延期付款
+		15. _[poverty respite](dic://poverty%20respite)_ 扶贫
+		16. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
+		17. _[respite centers](dic://respite%20centers)_ 休中心
+		18. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
+		19. _[respite service](dic://respite%20service)_ 暂托服务
+		20. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
+		21. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
+		22. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
+		23. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
+		24. The catch is that the respite does not last. /但问题是Xalkori对病情的缓解作用持续时间不长。
+		25. Any respite will probably prove short-lived, however. /然而，任何缓和期都可能是短暂的。
+		26. The weather has cooled in New South Wales after days of recordbreaking heat but there's been little respite. /在经历了几天创纪录的高温后，新南威尔士州的气温有所下降，但仍旧几乎没有缓解的迹象。
+		27. Oh, but for one short hour! a respite however brief! /哦，只有短短的一个小时！多么短暂的喘息时间啊！
+		28. Devaluation would only give the economy a brief **respite** /货币贬值只会给经济一个短时间的暂缓。
 7. spy
 
 
 ### + \*spel- +
 1. **spoil-, spol-** = booty, 表示“抢劫、破坏”。源自拉丁语 spolium "hide torn from an animal, armor stripped from an enemy, booty."
 	1. spoil
-		1. (penchant, dote, indulge, fondness, cosher, spoil)
+		1. (penchant, dote, indulge, fondness, cosher, spoil, tendentious, ) 
 		2. n. 战利品, 赃物, 奖品, 变质, 次品  
 		3. vt. 损坏, 破坏, 溺爱  
 		4. vi. 腐坏, 掠夺
@@ -5372,7 +5396,7 @@
 		1. suspender, suspendable
 	9. suspense
 		1. suspensor, suspensive, suspension
-	10. penchant (penchant, dote, indulge, fondness, cosher, spoil, tendentious, )
+	10. penchant (penchant, dote, indulge, fondness, cosher, spoil, tendentious, ) (trenchant)
 		1. - n. 嗜好；倾向
 		2.  [preference](dic://preference), [predilection](dic://predilection), [taste](dic://taste)
 		3. **fondness**溺爱;**knack**诀窍;**propensity**倾向;**obsession**困扰;**aversion**厌恶;**fascination**魅力;**notorious**臭名昭著的;**preoccupation**全神贯注，入神;**disdain**蔑视;**flair**天资;**obsessive**萦绕于心的;
@@ -5488,11 +5512,11 @@
 		4. ponderancy
 		5. ponderous
 			1. a. 沉重的, 笨重的, 毫无趣味的, 生硬的
-			2. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian, ponderous, unwieldy, clunky, clumsy, cumbersome, lumbering)
-			3. **weighty**重的;**unwieldy**笨拙的;**clunky**沉重的;**cumbersome**笨重的;**clumsy**笨拙的;**pompous**浮夸的;**laborious**勤劳的;**stately**庄严的;**disjointed**脱离开的,不连贯的;**tedious**冗长乏味的;**pretentious**自命不凡的;
-			4. The upstairs hall seemed to shake as Mammy's ponderous weight came toward the door. /当嬷嬷的笨重身躯一步步来到门口时，仿佛楼道都震得颤抖了。她挑着两大桶水，显得那么沉重，把肩膀都压斜了。
-			5. But it's also slow, lumbering, and ponderous, a predator that occasionally has to scavenge to survive. /但同时也动作迟缓笨拙，这位捕食者有时要靠食腐才能生存。
-			6. ponderosity
+			3. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding)
+			4. **weighty**重的;**unwieldy**笨拙的;**clunky**沉重的;**cumbersome**笨重的;**clumsy**笨拙的;**pompous**浮夸的;**laborious**勤劳的;**stately**庄严的;**disjointed**脱离开的,不连贯的;**tedious**冗长乏味的;**pretentious**自命不凡的;
+			5. The upstairs hall seemed to shake as Mammy's ponderous weight came toward the door. /当嬷嬷的笨重身躯一步步来到门口时，仿佛楼道都震得颤抖了。她挑着两大桶水，显得那么沉重，把肩膀都压斜了。
+			6. But it's also slow, lumbering, and ponderous, a predator that occasionally has to scavenge to survive. /但同时也动作迟缓笨拙，这位捕食者有时要靠食腐才能生存。
+			7. ponderosity
 				1. _[platitudinous ponderosity](dic://platitudinous%20ponderosity)_ 陈词滥调
 				2. _[With the ponderosity steps](dic://With%20the%20ponderosity%20steps)_ 踏着沉重的脚步
 		7. ponderation, ponderable, ponderability
@@ -5736,13 +5760,39 @@
 		3. etc...
 	3. Diaspora
 3. **spr-** 表示“散开”，原始印欧语形式为 *spe- "to strew."
-	1. sprawl
-		1. sprawling
-	2. sprint
+	1. sprawl (scrawl)
+		1. v. 伸开四肢坐（或躺）；蔓延 
+		2. n. （城市）杂乱无序拓展的地区；四肢摊开的姿势；随意扩展，蔓延物
+		3. 1. _vi._ 伸开四肢坐〔躺〕
+		4. 蔓延；杂乱无序地拓展
+		5. 四肢伸展坐着(或躺着)
+		6. _n._ (城市)杂乱无序拓展的地区
+		7. 随意扩展；蔓延；蔓延物
+		8. [conurbation](dic://conurbation), [urban sprawl](dic://urban sprawl)
+		9. [sprawling](dic://sprawling)
+		10. [straggle](dic://straggle)
+		11. _n._ [urban area](dic://urban area), [populated area](dic://populated area), [position](dic://position), [posture](dic://posture), [attitude](dic://attitude)
+		12. _v._ [sit](dic://sit), [sit down](dic://sit down), [lie](dic://lie), [spread](dic://spread), [distribute](dic://distribute)
+		13. **urban**城市的;**suburban**土气的;**suburbs**郊外;**urbanization**都市化,文雅化;**blight**枯萎病;**metropolis**一国的主要城市;**congestion**拥挤;**freeways**高速公路;**metropolitan**大都会的, 大城市的;**rampant**猖獗的;
+		14. _urban sprawl_ 城市扩张；都市向郊区扩张的现象
+		15. sprawling on the sofa /平躺在沙发上
+		16. she lay sprawled on the bed. /她伸展开四肢躺在床上。
+		17. a city that sprawls out into the countryside /乱七八糟地向农村延伸的城市
+		18. suburbs that sprawl out into the countryside /乱七八糟向乡间扩展的市郊
+		19. The sprawling family today is hardly monolithic. /但我们很难说今天这个庞大的家庭依然还是一个整体。
+		20. Municipal services are failing, too—not least because the city now sprawls over 139 square miles. /城市服务质量也在下降，尤其是在城市扩张了139多平方英里以后。
+		21. We rail against urban sprawl, and rightly so. /我们反对城市扩张，这点绝对正确。
+		22. This sprawling metropolis offers a seemingly unlimited choice of shopping, entertainment culture and dining. /在这座超级大都市可以说能够提供购物、文化娱乐和餐饮的无限选择。
+		23. People **sprawl** in deck chairs or sit under umbrellas. /人们四肢舒展地躺在沙滩椅上，或坐在遮阳伞下。
+		24. He would take two aspirin and **sprawl** out on his bed. /他会吃两片阿斯匹林，然后摊开四肢躺在床上。
+		25. The Congo River basin sprawls across six countries. /刚果河流域横跨六个国家。
+		26. Agricultural sprawl is a far greater ecological threat. /农业的扩张才是更大的生态威胁。
+		27. sprawling
+	3. sprint
 		1. sprinter
-	3. sprout
+	4. sprout
 		1. been-sprout
-	4. spark
+	5. spark
 		1. sparky
 		2. sparkplug
 		3. sparkover
@@ -5754,8 +5804,8 @@
 		7. sparkish
 		8. sparking
 		9. antispark
-	5. spread
-4. spurious
+	6. spread
+5. spurious
 	1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, )
 	2. 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
 	3. _adj._ [false](dic://false), [illegitimate](dic://illegitimate), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
@@ -5793,15 +5843,16 @@
 	10. outspeak
 	11. English-speaking
 	12. bespeak
-		1.  [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
-		2.  [request](dic://request), [call for](dic://call for), [quest](dic://quest)
-		3. _v._ [tell](dic://tell), [communicate](dic://communicate), [pass on](dic://pass on), [pass](dic://pass), [pass along](dic://pass along), [put across](dic://put across)
-		4. **countenance**面容，表情;**evoke**引起，唤起;**necessitate**使…成为必要, 需要;**seeming**外观;**embody**体现，使具体化;**likewise**也;**signify**表示;**notwithstanding**尽管;**indubitably**无疑地;**doubtless**无疑地, 肯定地;**convey**传达;
-		5. bespoke
+		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow)
+		2. [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+		3. [request](dic://request), [call for](dic://call for), [quest](dic://quest)
+		4. _v._ [tell](dic://tell), [communicate](dic://communicate), [pass on](dic://pass on), [pass](dic://pass), [pass along](dic://pass along), [put across](dic://put across)
+		5. **countenance**面容，表情;**evoke**引起，唤起;**necessitate**使…成为必要, 需要;**seeming**外观;**embody**体现，使具体化;**likewise**也;**signify**表示;**notwithstanding**尽管;**indubitably**无疑地;**doubtless**无疑地, 肯定地;**convey**传达;
+		6. bespoke
 			1. _adj._ [custom-made](dic://custom-made), [customized](dic://customized), [custom](dic://custom), [customised](dic://customised)
 			2. _n._ [ready-made](dic://ready-made)
 			3. **tailor-made**裁缝做的;**custom-made**定做的,订制的;**custom**风俗;**tailored**裁缝做的;**customise**定制;**specialise**专门从事, 专攻;**one-off**一次性的;**tailor**剪裁;**in-house**内部的;**purpose-built**为特定目的建造的;**specialised**专门的;
-		6. bespoken
+		7. bespoken
 			1. _adj._ [custom-made](dic://custom-made), [customized](dic://customized), [custom](dic://custom), [customised](dic://customised), [attached](dic://attached), [committed](dic://committed)
 			2. _n._ [ready-made](dic://ready-made), [unattached](dic://unattached), [uncommitted](dic://uncommitted)
 			3. [bespoke](dic://bespoke), [made-to-order](dic://made-to-order), [tailored](dic://tailored), [tailor-made](dic://tailor-made)
@@ -7273,22 +7324,24 @@
 ### stirp- = root, stock of a tree，表示“根，树干”。
 1. strip, strips
 2. stirpiculture, stirpicultural
-3. extirpate ()
-	1. ex-,向外，-stirp,根，主干，词源同 stand.即根除。
-	2. **eradicate**摧毁,完全根除;**eradicated**画着根的;**destroy**毁坏;**expel**驱逐;**abolish**废除，废止;**eradication**根除;**subdue**征服;**extinguish**使熄灭, 扑灭;**scourge**鞭打;**eliminate**消除, 排除;**suppress**抑制;
-	3. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process), [pull](dic://pull), [pulling](dic://pulling)
-	4. extirpator
-	5. extirpation
-	6. _[To surround and extirpate Brigands](dic://To%20surround%20and%20extirpate%20Brigands)_ 兜剿土匪
-	7. _[Health education of extirpate drug](dic://Health%20education%20of%20extirpate%20drug)_ 禁毒健康教育
-	8. _[extirpate weeds](dic://extirpate%20weeds)_ 根除杂草
-	9. extirpate superstition
+3. extirpate 
+	1. (obliterate, annihilate, eradicate, demolition, wipeout, extirpate, )
+	2. ex-,向外，-stirp,根，主干，词源同 stand.即根除。
+	3. **eradicate**摧毁,完全根除;**eradicated**画着根的;**destroy**毁坏;**expel**驱逐;**abolish**废除，废止;**eradication**根除;**subdue**征服;**extinguish**使熄灭, 扑灭;**scourge**鞭打;**eliminate**消除, 排除;**suppress**抑制;
+	4. [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure), [surgical process](dic://surgical process), [pull](dic://pull), [pulling](dic://pulling)
+	5. extirpator
+	6. extirpation
+	7. _[To surround and extirpate Brigands](dic://To%20surround%20and%20extirpate%20Brigands)_ 兜剿土匪
+	8. _[Health education of extirpate drug](dic://Health%20education%20of%20extirpate%20drug)_ 禁毒健康教育
+	9. _[extirpate weeds](dic://extirpate%20weeds)_ 根除杂草
+	10. extirpate superstition
 
 
 ### + \*strep- + = to make a noise
 1. **strep-** = noise
 	1. obstreperous
 	2. strepitous
+		1. - adj. 嘈杂的
 
 
 ### + \*streig- + = to stroke, rub, press
@@ -7321,6 +7374,10 @@
 	4. stress
 	5. strict
 		1. stringent
+			1. (exacting, exigent, pressing, demanding, stringent, rigorous, needy)
+			2. **strict**严格的;**rigorous**严格的，严厉的;**exacting**苛求的;**restrictive**限制的;**lax**松弛的;**draconian**非常严厉的;**lenient**仁慈的;**onerous**繁重的;**requirements**必要条件;**regulations**规程;**rigorously**严厉地;
+			3. The first wave happened under a significantly stringent lockdown /第一波疫情是在非常严格的封锁下发生的。
+			4. Stringent job dismissal regulations adversely affect productivity growth and hamper both prosperity and overall well-being. /严格的解雇规定对生产率增长产生不利影响，并阻碍了繁荣和整体福祉。
 	6. striction
 		1. stricture
 			1. _n._ [pathology](dic://pathology), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
@@ -7329,7 +7386,7 @@
 			4. _[stricture](dic://stricture)_  n. 狭窄；苛评；非难
 			5. _[urethral stricture](dic://urethral%20stricture)_  尿道狭窄
 		2. strictured, stringenecy
-	8. strait (straight)
+	7. strait (straight)
 		1. [sound](dic://sound)
 		2. [pass](dic://pass), [straits](dic://straits)
 		3. _n._ [channel](dic://channel), [situation](dic://situation)
@@ -7348,7 +7405,7 @@
 			1. _v._ [confine](dic://confine), [detain](dic://detain)
 			2. **straighten**弄直;**straightening**变形矫正,整直,矫直,校正;**bend**使弯曲;**tighten**变紧;**loosen**放松;**fasten**扎牢;**lengthen**使延长;**doth**从事;
 			3. _[straitened](dic://straitened)_  adj. 经济上拮据的，贫困的; v. 使窘迫；限制…的范围（straiten的过去分词）;
-	9. straight
+	8. straight
 		1. 来自中古英语 streight,拉直的，过去分词格于 strechen,拉直，展开，来自古英语 streccan,拉直，展开，词源同 stretch,伸展，延伸。拼写比较 bake,batch.引申词义正的，正直的，以及现代词义传统的，异性恋的等。
 		2. n. 直线, 直
 		3. a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的
@@ -7369,7 +7426,7 @@
 		16. straight-cut
 		17. straight-arm
 		18. nonstraightness
-	10. strand
+	9. strand
 		1. [chain](dic://chain), [string](dic://string)
 		2. [fibril](dic://fibril), [filament](dic://filament)
 		3. [maroon](dic://maroon)
@@ -7378,11 +7435,11 @@
 		6. **braid**辫子;**helix**螺旋;**braided**编辫子的;**weave**编织;**filament**细丝;**DNA**脱氧核糖核酸;**looped**成圈的;**bead**珠子;**beads**玻璃珠;**knotted**多节的，有节的;**knot**结;
 		7. strandee
 		8. stranded
-	11. astrict
+	10. astrict
 		1. _[astrict](dic://astrict)_  v. 束缚，限制
 		2. _[standardize and astrict](dic://standardize%20and%20astrict)_ 规制
 		3. _[keep to astrict budget](dic://keep%20to%20astrict%20budget)_ 遵守严格的预算
-	12. astringe
+	11. astringe
 		1. vt. 扎缚, 使收缩, 使收敛
 		2. _v._ [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [contract](dic://contract), [press](dic://press), [constringe](dic://constringe)
 		3. And during autumn and winter, yang qi goes inward and astringes, qi and blood of the body tend to flow internally, causing less sweating and more urination /秋天和冬天，阳气内敛，身体气血趋向于里，出现出汗少、排尿多。
@@ -7392,7 +7449,7 @@
 			1. a-=ad-去，往 + string-拉 + -ent。
 			2. n. 收敛剂  
 			3. a. 收敛性的, 严厉的, 涩的
-	14. constrain
+	12. constrain
 		1. _v._ [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		2. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。  
 		3. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。  
@@ -7404,7 +7461,7 @@
 			2. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
 		8. constringe
 			1. _constringe_  vt. 使收敛；使收缩；压缩
-	15. restrain (refrain)
+	13. restrain (refrain)
 		1. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
 		2.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [confine](dic://confine), [hold](dic://hold)
@@ -7412,7 +7469,7 @@
 		5.  [intimidate](dic://intimidate)
 		6. _v._ [prevent](dic://prevent), [keep](dic://keep), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check)
 		7. **curtail**截断, 缩短;**confine**限制;**subdue**征服;**constrain**强迫, 强使;**suppress**抑制;**inhibit**抑制;**stifle**使窒息;**restraining**抑制的,遏制的,控制的;**restrained**克制的,节制的,受到控制的;**restrict**限制;**compel**强迫，迫使;
-	16. restrict
+	14. restrict
 		1. [curtail](dic://curtail), [curb](dic://curb), [cut back](dic://cut back)
 		2.  [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [qualify](dic://qualify)
@@ -7422,11 +7479,11 @@
 			2. [confine](dic://confine) 侧重施加不可逾越的限制，有时暗示束缚、囚禁。  
 			3. [restrict](dic://restrict) 指把某人或物限制在一定范围之内。
 		6. **curtail**截断, 缩短;**prohibit**阻止，禁止;**limiting**限制的;**constrain**强迫, 强使;**inhibit**抑制;**allow**允许;**impede**阻止;**exclude**排除;**confine**限制;**limit**限度;**hinder**成为阻碍;
-	17. distrain
+	15. distrain
 		1. vt.vi. 扣押
 		2. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
 		3. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
-	19. district
+	16. district
 		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
 		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
 		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
@@ -7438,8 +7495,8 @@
 		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
 		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
 		11.  [zone](dic://zone)
-	20. distress
-	21. prestige, prestigious
+	17. distress
+	18. prestige, prestigious
 		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
 		2. [prestigiousness](dic://prestigiousness)
 		3. _n._ [standing](dic://standing)

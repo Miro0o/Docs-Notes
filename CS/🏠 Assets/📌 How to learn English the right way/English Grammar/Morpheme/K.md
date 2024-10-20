@@ -1748,7 +1748,7 @@
 
 ### + \*kat- + = down
 1. **cata-** = 向下，相反，离开
-	1. catabolic
+	1. catabolic (catabolic, anabolic, metabolic)
 		1. cata-下 + bol-扔 + -ic
 		2. _adj._ [catabolism](dic://catabolism), [katabolism](dic://katabolism), [dissimilation](dic://dissimilation), [destructive metabolism](dic://destructive metabolism), [destructive-metabolic](dic://destructive-metabolic),   
 		3. _n._ [anabolic](dic://anabolic)
@@ -1761,7 +1761,7 @@
 		10. katabolism
 	3. catachresis
 	4. cateclasite
-	5. cataclysm (aslyum)
+	5. cataclysm [美 /'kætəklɪzəm/](cmd://Speak/_us_/cataclysm) (aslyum) (antediluvian)
 		1. cata-离开 + clysm-洪水 , 冲 → 被洪水冲掉 → 大灾难。
 		2. n. 灾难；大洪水，地震；（社会政治的）大变动
 		3. _n._ [geological phenomenon](dic://geological phenomenon), [misfortune](dic://misfortune), [bad luck](dic://bad luck)
@@ -1965,7 +1965,7 @@
 		5. _[chartres cathedral](dic://chartres%20cathedral)_  沙特尔大教堂
 		6. _[florence cathedral](dic://florence%20cathedral)_  佛罗伦萨大教堂
 		7. etc.. 
-	26. cathode
+	26. cathode (anode, cathode /cation, anion)
 		1. [美 /'kæθod/](cmd://Speak/_us_/cathode)
 		2. cata-,向下，-hod,走，路，词源同 accede,anode,methodn. 阴极（在电解池中，发生还原反应的电极）；正极（在原电池中，发生还原反应的电极）
 		3. _cathode ray_ 阴极射线
@@ -4164,7 +4164,7 @@
 		1. 来自词根cur-跑，原指路程，驰骋，后用于职业。
 		2. careerist
 		3. careerism
-	5. cargo
+	5. cargo (embargo)
 		1. charabanc ['ʃærəbæŋ] n. 大游览车。chara-这个部分通charge装载和cargo货物以及car等，核心含义就是（用有轮子的车）装载和运输人和物。-banc这个部分同bench长凳；工作台。观光车，敞篷（或为防晒有顶棚），很多游客，一排排的长凳，这就是这个单词。值得注意的是，首音节cha-发ʃ-而不是tʃ-哦。
 		2. 来自拉丁词carricare, 装载，词源同car, charge。
 		3. supercargo
@@ -4244,11 +4244,15 @@
 			9. _carry away_ 运走；使失去自制力
 			10. _carry off_ 夺去；获得；使丧命；成功地处理
 				1. 1. 导致死亡：指某种疾病或灾难导致大量人员死亡。2．成功完成或管理：指成功地完成某项任务或管理某种情况。
-				2.  [pull off](dic://pull off), [negociate](dic://negociate), [bring off](dic://bring off), [manage](dic://manage)
-				3.  [take away](dic://take away), [bear off](dic://bear off), [bear away](dic://bear away), [carry away](dic://carry away)
-				4.  [eliminate](dic://eliminate), [annihilate](dic://annihilate), [extinguish](dic://extinguish), [eradicate](dic://eradicate), [wipe out](dic://wipe out), [decimate](dic://decimate)
-				5. _v._ [succeed](dic://succeed), [win](dic://win), [come through](dic://come through), [bring home the bacon](dic://bring home the bacon), [deliver the goods](dic://deliver the goods), [remove](dic://remove), [take](dic://take)
-				6. 
+				2. 成功完成：指成功地完成某项任务或活动。 
+				3. 带走，拿走：指将某物从一个地方带走或拿走。 
+				4. 成功地做到，成功地实现：指成功地做到或实现某事。
+				5.  [pull off](dic://pull off), [negociate](dic://negociate), [bring off](dic://bring off), [manage](dic://manage)
+				6.  [take away](dic://take away), [bear off](dic://bear off), [bear away](dic://bear away), [carry away](dic://carry away)
+				7.  [eliminate](dic://eliminate), [annihilate](dic://annihilate), [extinguish](dic://extinguish), [eradicate](dic://eradicate), [wipe out](dic://wipe out), [decimate](dic://decimate)
+				8. _v._ [succeed](dic://succeed), [win](dic://win), [come through](dic://come through), [bring home the bacon](dic://bring home the bacon), [deliver the goods](dic://deliver the goods), [remove](dic://remove), [take](dic://take)
+				9. You gentle so approach, **carry** **off** my palpitation /你的温柔如此靠近，带走我的心跳。
+				10. Of course, a professional dancer can **carry** **off** a decentvogue, as long as it suits their image /当然，只要形象适合，专业舞者可以做出美妙的折手动作。
 			11. _carry over_ ..留到以后处理；继续存在
 			12. _fetch and carry_ 做杂务，打杂
 			13. _carry trade_ 套利交易；套息交易；利差交易；息差交易
@@ -4282,6 +4286,8 @@
 	13. cart
 		1. 来自 PIE*sker,围，转，编织，词源同 cradle.本义为提东西的篮子，后词义外延至小推车。
 		2. n. 二轮运货马车  v. 运送, 手提, 抓走
+		3. n. （马拉的）大车，马车；小型机动车；购物车，手推车 
+		4. v. 用车装运；搬运，移动；挟持，带走
 		3. [handcart](dic://handcart), [pushcart](dic://pushcart), [go-cart](dic://go-cart)
 		4. [haul](dic://haul), [hale](dic://hale), [drag](dic://drag)
 		5. _n._ [wagon](dic://wagon), [waggon](dic://waggon), [wheeled vehicle](dic://wheeled vehicle)
@@ -4294,28 +4300,33 @@
 		12. threw the cart over /把马车翻了过去
 		13. cart away garbage /运送垃圾
 		14. the cart came abreast of the Americans in their rickshaw /大车赶上了坐在人力车里的美国人。
-		15. watercart
-		16. undercart
-		17. uncart
-		18. tipcart
-		19. pushcart
-		20. oxcart
-		21. mail-cart
-		22. handcart
-		23. gocart
-		24. dustcart
-		25. dung-cart
-		26. dumpcart
-		27. dandy-cart
-		28. cartwright
-		29. cartwheel
-		30. cartvision
-		31. cartload
-		32. cartful
-		33. carthorse
-		34. carter
-		35. cartage
-		36. applecart
+		15. to pile a cart with straw /把稻草装到车上
+		16. a good cart track, navigable by cars. /一条不错的马车道，适合汽车行驶。
+		17. a shopping cart; a pastry cart. /购物车；糕点车
+		18. The cart bumped down the track. /马车在小路上颠簸着前进。
+		19. The **cart** clattered over the cobbles /大车哐当哐当地行驶在卵石路上。
+		20. watercart
+		21. undercart
+		22. uncart
+		23. tipcart
+		24. pushcart
+		25. oxcart
+		26. mail-cart
+		27. handcart
+		28. gocart
+		29. dustcart
+		30. dung-cart
+		31. dumpcart
+		32. dandy-cart
+		33. cartwright
+		34. cartwheel
+		35. cartvision
+		36. cartload
+		37. cartful
+		38. carthorse
+		39. carter
+		40. cartage
+		41. applecart
 	15. carriole
 		1. n. 小单人马车, 小篷车, 狗拉的雪橇
 	16. chariot
@@ -4579,6 +4590,23 @@
 		2. excursus
 		3. excursive
 		4. excursion
+			1. _n._ [journey](dic://journey), [journeying](dic://journeying)
+				1. [journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。  
+				2. [tour](dic://tour) 指最后反回出发地，旅途中有停留游览点，距离可长可短，目的各异的周游或巡行。  
+				3. [travel](dic://travel) 泛指旅行的行为而不指某次具体的旅行，多指到远方作长期旅行，不强调直接目的地，单、复数均可用。  
+				4. [trip](dic://trip) 普通用词，口语多用，常指为公务或游玩作的较短暂的旅行。  
+				5. [voyage](dic://voyage) 指在水上旅行，尤指海上旅行，也可指空中旅行。  
+				6. [excursion](dic://excursion) 较正式用词，常指不超过一天的短时期娱乐性游玩，也可指乘火车或轮船往返特定景点的远足旅游。  
+				7. [expedition](dic://expedition) 指有特定目的远征或探险。  
+				8. [cruise](dic://cruise) 主要指乘船的游览并在多处停靠。
+			2. **trip**旅行;**sightseeing**【U】观光;**trips**远行;**itinerary**旅行计划，行程表;**tour**旅游，旅行;**expedition**远征;**cruise**巡航，巡游;**trek**艰苦跋涉;**adventure**冒险活动;**outing**远足;**cruises**游艇;
+			3. the club's excursion was postponed at the request of some of the members /在一些成员的要求下俱乐部的远足计划被推迟了。
+			4. I have arranged with my classmates for an excursion to the beach. /我已经跟同学们商量好去海滩远足的事。
+			5. We took an excursion around the island yesterday. /我们昨天环岛进行了短途旅行。
+			6. The big overseas experience or the big overseas excursion. /海外大体验或者说海外大考察。
+			7. Another excursion available on this sailing is kayaking. /这次航行的另一项游览项目是皮划艇。
+			8. If we book now, we can get an excursion fare /如果我们现在订往返机票可以享受优惠。
+			9. In hindsight, we should have just joined in on their excursion. /事后看来，我们应该加入他们的远足。
 	14. precursor, precursory,
 		1. _n._ [substance](dic://substance), [matter](dic://matter), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
 		2. **forerunner**先驱, 开路人;**catalyst**催化剂;**prelude**前奏;**analogous**相似的,可比拟的;**akin**同族的;**byproduct**副产品;**offshoot**分支;**by-product**副产品;**progenitor**祖先;**formation**形成, 构成;**nascent**初期的;
@@ -4651,10 +4679,10 @@
 			1. **invasion**侵犯;**intrusion**闯入;**invaders**侵入种;**infiltration**渗透;**onslaught**猛攻, 攻击;**outpost**前哨;**foray**突袭;**attack**攻击;**takeover**接管;**colonization**殖民地的开拓,殖民;**assault**攻击;
 			2. [penetration](dic://penetration)
 			3. [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [ingress](dic://ingress), [incoming](dic://incoming), [attack](dic://attack), [onslaught](dic://onslaught)
-	21. occur
+	20. occur
 		1. occurrent
 		2. occurrence
-	22. recur
+	21. recur
 		1. [repeat](dic://repeat)
 		2. [go back](dic://go back)
 		3. [fall back](dic://fall back), [resort](dic://resort)
@@ -4701,7 +4729,7 @@
 			5. _recurrence interval_ 重现期，重复周期；脉冲周期
 			6. _recurrence relation_ [计]递归关系，递推关系
 		27. nonrecurring
-	23. carousel, carrousel
+	22. carousel, carrousel
 		1. carouse [kə'raʊz] vi.畅饮，n.喧闹的酒宴和carousel [,kærə'sel] n.旋转木马；cruse [kruːz] n. 瓶；罐和crusade [kruː'seɪd] n.十字军东征；aspersion [ə'spɜːʃ(ə)n] n.诽谤；洒水和asperity [ə'sperɪtɪ] n.粗糙；严酷。三组单词拼写相近，但词源无关。那是夏雨和张一山的区别好吧。
 		2. **trolley**手推车;**carriage**四轮马车;**sleigh**乘雪橇;**circus**马戏团;**coaster**沿岸贸易船;**ride**骑马;**gondola**两头尖的平底船;**cart**二轮运货马车;**carnival**狂欢节，嘉年华会;
 		3. [merry-go-round](dic://merry-go-round), [roundabout](dic://roundabout), [whirligig](dic://whirligig)
@@ -4715,7 +4743,7 @@
 		11. Well, think of a big, spinning planet a bit like a carousel /嗯，想象一个大大的旋转的星球，有点像旋转木马一样。
 		12. Imagine hopping on a fast-spinning carousel while holding a rope attached to a rock. /想象你跳上一座快速运转的旋转木马，手上抓着一条末端绑着石头的绳子。
 		13. So, where is it? I don't know, perhaps somebody took it off the carousel by mistake? /那它在哪里？我不知道，可能有人不小心从行李转盘上拿走了？
-	24. coarse (hoarse)
+	23. coarse (hoarse)
 		1. coarse=course → 跑过去 → 粗糙的。
 		2. 来自 course 的拼写变体。原指常规的，普通的，后来词义贬义化。
 		3. adj. 粗糙的，粗织的；粗的，大颗粒的；粗鲁的，粗俗的；（人的容貌）难看的，不雅的；（食物，饮料）粗劣的；<英>与钓淡水鱼有关的
@@ -4751,17 +4779,17 @@
 		28. coarsen
 		29. coarsely
 		30. coarse-grained
-	25. corridor
+	24. corridor
 		1. n. 走廊, 回廊, 人口密集地带
 		2. _n._ [passageway](dic://passageway)
 		3. **hallway**门厅;**passageway**通道;**walkway**通道，走道;**stairwell**楼梯井;**hallways**走廊;**highway**公路，大路;**doorway**门口;**tunnel**隧道;**freeway**高速公路;**stairway**阶梯，楼梯;**rail**横杆;
 		4. a corridor with a moulded cornice. /有模制装饰檐口的走廊。
 		5. a gloomy corridor badly lit by oil lamps /用油灯照明的阴森森的走廊。
-	26. corsair
+	25. corsair
 		1. n. 海盗, 海盗船, 回教徒的私掠船
 		2. _n._ [pirate](dic://pirate), [buccaneer](dic://buccaneer), [sea robber](dic://sea robber), [sea rover](dic://sea rover), [pirate ship](dic://pirate ship)
 		3. **pirate**海盗;**pirates**海盗，盗印者;**motherboard**底板,母板;**frigate**护卫舰;**raiders**突击者;
-	27. cursorial
+	26. cursorial
 		1. 适于行走的
 		2. **gait**步法，步态;**mammals**哺乳类;**mammal**哺乳动物;**vertebrate**脊椎动物;**agile**敏捷的;**evolutionary**进化的;**predator**食肉动物;**lizards**蜥蜴;**sedentary**坐着的;**primates**灵长类;**prey**捕食;
 5. horse
@@ -4864,20 +4892,22 @@
 		11. grant-in-aid
 		12. grant-aided
 		13. gramercy
+			1. _int._ 多谢! 不得了!
 3. heart
 
 
 ### + \*kerp- +
 1. **carp-, carpo-** = fruit, 表示“果实”。本意为“撕扯”，引申为“采摘”，进一步引申为“果实”。源自希腊语 karpos "fruit."
 	1. scarce
-		1. 1 - 来自古诺斯法语 scars,稀少的，稀疏的，来自通俗拉丁语*scarsus 减少的，缩小的，过去分词形式于拉丁语 excerpere,拔出，来自 ex-,向外，-cerp,拔，割，词源同 excerpt,harvest.
-		2. 形近字： scare 惊吓 scarce 缺乏的。 sparse, scant
-		3.  [barely](dic://barely), [hardly](dic://hardly), [just](dic://just), [scarcely](dic://scarcely)
-		4. _adj._ [insufficient](dic://insufficient), [deficient](dic://deficient), [rare](dic://rare), [tight](dic://tight)
-		5. _n._ [sufficient](dic://sufficient), [abundant](dic://abundant)
-		6. **plentiful**丰富的;**scarcity**缺乏;**abundant**充裕的;**rarer**更稀罕的,更珍贵的;**sparse**稀疏的;**shortage**不足;**rarity**罕见;**dearth**缺乏;**rare**半熟的;**commodity**商品, 货物;**resources**资源;
-		7. _scarce resources_ 稀有资源
-		8. scarcity
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+		2. 1 - 来自古诺斯法语 scars,稀少的，稀疏的，来自通俗拉丁语*scarsus 减少的，缩小的，过去分词形式于拉丁语 excerpere,拔出，来自 ex-,向外，-cerp,拔，割，词源同 excerpt,harvest.
+		3. 形近字： scare 惊吓 scarce 缺乏的。 sparse, scant
+		4.  [barely](dic://barely), [hardly](dic://hardly), [just](dic://just), [scarcely](dic://scarcely)
+		5. _adj._ [insufficient](dic://insufficient), [deficient](dic://deficient), [rare](dic://rare), [tight](dic://tight)
+		6. _n._ [sufficient](dic://sufficient), [abundant](dic://abundant)
+		7. **plentiful**丰富的;**scarcity**缺乏;**abundant**充裕的;**rarer**更稀罕的,更珍贵的;**sparse**稀疏的;**shortage**不足;**rarity**罕见;**dearth**缺乏;**rare**半熟的;**commodity**商品, 货物;**resources**资源;
+		8. _scarce resources_ 稀有资源
+		9. scarcity
 			1. _n._ [insufficiency](dic://insufficiency), [inadequacy](dic://inadequacy), [deficiency](dic://deficiency)
 			2. _n._ [abundance](dic://abundance), [copiousness](dic://copiousness), [teemingness](dic://teemingness)
 				1. [lack](dic://lack) 普通用词，指部分或完全的不足。  
@@ -4886,9 +4916,9 @@
 				4. [shortage](dic://shortage) 指不足，但侧重达不到规定的，需要的或已知应有的数量。  
 				5. [scarcity](dic://scarcity) 指产量不足或缺乏某物难以应付或满足需要。
 			3. **shortage**不足;**scarce**缺乏的，不足的;**dearth**缺乏;**glut**供过于求;**abundance**大量, 充足;**demand**要求;**commodity**商品, 货物;**depletion**消耗;**constraints**强制;**lack**缺乏;**necessity**必要;
-		9. scarcement
+		10. scarcement
 			1. _n._ (墙上、堤岸上或扶壁上的)壁阶
-		10. scarcely
+		11. scarcely
 	3. carpet
 		1. [rug](dic://rug), [carpeting](dic://carpeting)
 		2. _n._ [floor cover](dic://floor cover), [floor covering](dic://floor covering), [furnishing](dic://furnishing)
@@ -4905,6 +4935,12 @@
 		3. _n._ [passage](dic://passage)
 		4. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out)
 		5. **snippet**小片;**blurb**简介, 推荐广告;**article**物品;**synopsis**概要，大纲;**summary**扼要的;**book**书籍;**paragraph**段落;**read**阅读;**abridged**删节的;**foreword**前言;**interview**面谈;
+		6. This is an excerpt from a novel. /这是一部小说的摘录。
+		7. Can you excerpt something from the newspaper? /你能从报纸上选录些东西吗?
+		8. While News of the World didn't have any excerpts, The Sunday Times did /《世界新闻报》没有节选，而《星期日泰晤士报》有。
+		9. This is just a short excerpt of a conversation they had soon after Oshea was freed. /在Oshea重获自由不久， 他俩完成了一段访谈，下面是一小段节选。
+		10. For question 6, the listening passage is an excerpt from an academic lecture on a single topic. /对于问题6，听力文章是一篇关于某个话题的学术演讲的节选。
+		11. Here is an excerpt from the conversation /下面是该段对话选段。
 	6. sarcocarp
 	7. discerptible
 		1. _[discerptible](dic://discerptible)_  adj. 可分解的
@@ -4997,47 +5033,76 @@
 ### ⭐ + \*(s)keu- + = to cover, conceal
 1. **coil-, cul-** = 表示“后面、底部”源自拉丁语 culus "the rump, backside."
 	1. recoil
-		1. [kick](dic://kick)
-		2. [repercussion](dic://repercussion), [rebound](dic://rebound), [backlash](dic://backlash)
-		3. [flinch](dic://flinch), [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [quail](dic://quail)
-		4. [backfire](dic://backfire), [backlash](dic://backlash)
-		5. [bounce](dic://bounce), [resile](dic://resile), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
-		6.  [kick back](dic://kick back), [kick](dic://kick)
-		7. _n._ [movement](dic://movement), [motion](dic://motion)
-		8. _v._ [move](dic://move), [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass)
-		9. **muzzle**枪口，炮口;**rifle**步枪;**pistol**手枪;**bolt**门闩;**ammo**弹药;**trigger**触发;**projectile**发射体;**barrel**桶;**Ruger**鲁格;**shock**打击;**pistols**手枪;
-		10. _recoil from_ 畏缩，后退
-		11. _recoil force_ n. 反冲力；坐后力
-		12. recoilless
-		13. recoiler
+		1. n. 畏缩, 后退, 弹回, 反作用, 后坐力  vi. 退却, 畏缩, 弹回, 撤退, 反冲, 报应
+		2. [kick](dic://kick)
+		3. [repercussion](dic://repercussion), [rebound](dic://rebound), [backlash](dic://backlash)
+		4. [flinch](dic://flinch), [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [quail](dic://quail)
+		5. [backfire](dic://backfire), [backlash](dic://backlash)
+		6. [bounce](dic://bounce), [resile](dic://resile), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
+		7.  [kick back](dic://kick back), [kick](dic://kick)
+		8. _n._ [movement](dic://movement), [motion](dic://motion)
+		9. _v._ [move](dic://move), [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass)
+		10. **muzzle**枪口，炮口;**rifle**步枪;**pistol**手枪;**bolt**门闩;**ammo**弹药;**trigger**触发;**projectile**发射体;**barrel**桶;**Ruger**鲁格;**shock**打击;**pistols**手枪;
+		11. Most people would recoil at the sight of the snake /许多人看见蛇都会向后退缩。
+		12. She recoiled at the sight of the snake. /她看到蛇就退缩了。
+		13. Revenge may recoil upon the person who takes it. /报复者常会受到报应。
+		14. his body jerked with the recoil of the rifle. /步枪的反冲力使他的身体猛地震动了一下。
+		15. He was easier and he didn't recoil when I touched him. /他很容易相处，我抚摸他他不会躲开。
+		16. This is a result of recoil from the asteroid's strike. /这是小行星撞击的反作用力造成的。
+		17. The old goblin seemed to recoil a little. /老妖精似乎有点畏缩的样子。
+		18. My first shot would liquify her insides and injure you, second shot adds recoil. /我的第一枪会液化她的内脏，但只能打伤你，第二枪后坐力会增加。
+		19. Her mother looked at her. " I am frightened" ! cried the child, recoiling. /她母亲瞧着她。 " 我怕！" 孩子边说边往后缩。
+		20. An evil deed may **recoil** on the head of the doer. /干坏事的人会受到邪恶的报应。
+		21. _recoil from_ 畏缩，后退
+		22. _recoil force_ n. 反冲力；坐后力
+		23. recoilless
+		24. recoiler
 	3. cul-de-sac
 	4. culdesac
 	5. culet
 	6. culotte
-		1. sansculotte
-		2. culottes
+		1. - n. 裤裙
+		2. sansculotte
+		3. culottes
 2. **custod-** = to guard, 表示“看护”。源自拉丁语 custos "guard."
 	1. custodial
-	2. custodian
-		1. custodianship
-	3. custody
-	4. custos
-	5. custodia
+		1.  adj. 保管的；保管人的 
+		2. n. 圣物保管容器
+		3. _adj._ [protective](dic://protective)
+		4. _n._ [unprotective](dic://unprotective)
+		5. **custody**拘留;**custodian**管理人;**inmate**同住者;**parent**父母亲;**parental**父母亲的，父母的;**correctional**改正的,矫正的,修正的;**supervision**监督, 管理;**guardianship**保护,守护,监护人的职责;**detention**拘留, 扣押;**spousal**婚礼;**visitation**访问,探望,正式的视察;
+		6. the custodial duties of a security guard. /安全警卫的看管责任
+		7. the custodial parent petitioned the court for payment of the arrears. /监护一方向法院请求支付欠款。
+		8. custodial treatment of terminal patients. /照料患不治之症的病人
+	3. custodian
+		1. _n._ [defender](dic://defender), [guardian](dic://guardian), [protector](dic://protector), [shielder](dic://shielder)
+		2. **trustee**受托人;**guardian**监护人，保护人;**caretaker**看门人;**custodial**保管的,保管人的;**janitor**守卫;**librarian**图书馆馆长;**keeper**看守人;**steward**乘务员;**treasurer**司库,财务主管;**supervisor**监督人;**executor**执行者;
+		3. the custodians of pension and insurance funds. /养老金和保险金监管人。
+		4. worked nights as custodian of a high school. /一个高级中学晚间的看门人
+		5. I undertake today to be the custodian of the dreams of all./我今天向你们保证，我要实现我们的所有梦想。
+		6. I don't approve of everything he did, but he was a responsible custodian of public emotion. /虽然我不赞成他做的事，但他是一个负责任的公众情感守护者。
+		7. custodianship
+	5. custody
+	6. custos
+	7. custodia
 3. **cut-** 表示“表皮”。源自拉丁语 cutis "skin."
 	1. cutaneous
-		1. **mucosal**粘膜的;**ocular**眼睛的;**subcutaneous**皮下的;**dermatitis**皮肤炎;**lesion**损害;**venous**静脉的;**corneal**角膜的;**skin**皮肤;**squamous**鳞状的;**melanoma**黑素瘤;**plantar**脚底的;
-		2. transcutaneous
-		3. subcutaneous
-		4. renocutaneous
-		5. percutaneous
-		6. etc...
-	2. cuticle
+		1. _adj._ [skin](dic://skin), [tegument](dic://tegument), [cutis](dic://cutis)
+		2. **mucosal**粘膜的;**ocular**眼睛的;**subcutaneous**皮下的;**dermatitis**皮肤炎;**lesion**损害;**venous**静脉的;**corneal**角膜的;**skin**皮肤;**squamous**鳞状的;**melanoma**黑素瘤;**plantar**脚底的;
+		3. This will lead to complete loss of all cutaneous sensation at the level of lesion. /但在病变平面水平，右边同侧的脊髓丘脑束也会受到损伤；这会导致病变平面水平失去所有的皮肤感觉。
+		4. cutaneous pigmentation /皮肤色素沉淀。
+		5. transcutaneous
+		6. subcutaneous
+		7. renocutaneous
+		8. percutaneous
+		9. etc...
+	3. cuticle
 		1. exocuticle
 		2. epicuticle
 		3. endocuticle
-	3. cuticular
-	4. cutin
-	5. cutis
+	4. cuticular
+	5. cutin
+	6. cutis
 		1. subcutis
 		2. epicutis
 4. **cyt-, cyto-, cyte-** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."
@@ -5054,13 +5119,34 @@
 		7. ex-husband
 	3. hut, hutment
 	4. hutch
-	5. huddle
+	5. huddle 
+		1. n. 杂乱一团, 混乱, 拥挤  
+		2. vt. 把...挤在一起, 乱堆, 草率了事, 蜷曲  
+		3. vi. 挤作一团, 蜷缩
+		4. 可能来自 PIE*skeu,遮蔽，隐藏，词源同 hide,hut,-le,表反复。引申词义蜷缩，挤在一起。
+		5. [powwow](dic://powwow)
+		6. [huddle together](dic://huddle together)
+		7. [cower](dic://cower)
+		8. _n._ [conference](dic://conference), [group discussion](dic://group discussion), [crowd](dic://crowd)
+		9. _v._ [cluster](dic://cluster), [constellate](dic://constellate), [flock](dic://flock), [clump](dic://clump), [crouch](dic://crouch), [stoop](dic://stoop), [bend](dic://bend)
+		10. **sideline**球场边线;**sit**坐;**scrimmage**混战;**shivering**颤抖的;**dugout**独木舟;**yell**大叫，叫喊;**cheer**欢呼;**locker**柜，箱;**kneel**跪下，跪;**congregate**集合, 聚集;**stare**凝视，盯着看;
+		11. go into a huddle with sb. /与某人秘密商议
+		12. huddle together for warmth /挤成一团取暖
+		13. huddled on the street in the guise of beggars. /装扮成乞丐挤在街道上
+		14. The cat huddled itself on the cushion. /猫将身子缩成一团睡在椅垫上。
+		15. The children huddled away in a corner. /孩子们挤在一个角落里。
+		16. He huddled the job together. /他匆匆忙忙地做完这项工作。
+		17. she huddled up close to him /她紧紧偎依着他。
+		18. The sheep were huddled together in a ditch. /羊群被赶到一条沟里挤在一起。
+		19. The two countries huddled up a treaty. /这两个国家草草地签订了一份合同。
+		20. The boys huddled together in the cave to keep warm. /"男孩们在山洞里挤作一团,使身体暖和些。"
 6. **scu-, scur-** = shield, 表示“盖上”。源自拉丁语 -scurus "covered."
 	1. chiaroscuro
-		1. **shading**明暗法;**shadows**阴影，影子;**subtlety**微妙;**realism**现实主义;**painting**油画;**pastels**色粉笔;**watercolour**水彩;**naturalistic**自然的;**iconography**图解,插图;**illumination**照明;**evocative**引起…记忆的, 唤起…感情的;
-		2. [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
-		3. n. （素描、油画的）明暗对比法；明暗对比效果；（文学、音乐等中的）对比法
-	2. obscure
+		1. chiaro-=clear清楚 + scur-遮盖 + o → 明暗对照。
+		2. **shading**明暗法;**shadows**阴影，影子;**subtlety**微妙;**realism**现实主义;**painting**油画;**pastels**色粉笔;**watercolour**水彩;**naturalistic**自然的;**iconography**图解,插图;**illumination**照明;**evocative**引起…记忆的, 唤起…感情的;
+		3. [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
+		4. n. （素描、油画的）明暗对比法；明暗对比效果；（文学、音乐等中的）对比法
+	3. obscure
 		1. [befog](dic://befog), [becloud](dic://becloud), [obnubilate](dic://obnubilate), [haze over](dic://haze over), [fog](dic://fog), [cloud](dic://cloud), [mist](dic://mist)
 		2. [confuse](dic://confuse), [blur](dic://blur), [obnubilate](dic://obnubilate)
 		3. [bedim](dic://bedim), [overcloud](dic://overcloud)

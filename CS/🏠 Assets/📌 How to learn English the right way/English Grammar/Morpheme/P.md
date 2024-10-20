@@ -5244,19 +5244,20 @@
 	3. pointy
 		1. _[Pointy](dic://Pointy)_ 非常尖锐; 非常尖的; 尖的; 有尖头的
 	4. poignant
-		1. 来自古法语 poignant,锋利的，尖锐的，来自拉丁语 pungere,刺，词源同 pugnacious,point.
-		2. a. 辛酸的, 尖锐的, 剧烈的
-		3.  [affecting](dic://affecting), [touching](dic://touching)
-		4. _adj._ [moving](dic://moving), [painful](dic://painful)
-		5. _n._ [unmoving](dic://unmoving), [painless](dic://painless)
-		6. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
-		7. _[poignant sarcasm](dic://poignant%20sarcasm)_ 辛辣的讽刺
-		8. _[poignant remarks](dic://poignant%20remarks)_ 尖锐的批评
-		9. _[poignant reminder](dic://poignant%20reminder)_ 令人痛苦的提示
-		10. _[poignant anxiety](dic://poignant%20anxiety)_ 深深的焦虑
-		11. _[The poignant sadness](dic://The%20poignant%20sadness)_ 凄美的忧伤
-		12. poignancy
-	5. pungency, pungent
+		1.  (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic,)
+		2. 来自古法语 poignant,锋利的，尖锐的，来自拉丁语 pungere,刺，词源同 pugnacious,point.
+		3. a. 辛酸的, 尖锐的, 剧烈的
+		4.  [affecting](dic://affecting), [touching](dic://touching)
+		5. _adj._ [moving](dic://moving), [painful](dic://painful)
+		6. _n._ [unmoving](dic://unmoving), [painless](dic://painless)
+		7. **evocative**引起…记忆的, 唤起…感情的;**heartwarming**暖人心房的;**heartfelt**衷心的;**heartbreaking**令人心碎的;**sobering**使清醒的;**insightful**有深刻见解的;**haunting**不易忘怀的，萦绕于心头的;**thought-provoking**引起思考的,发人深省的;**harrowing**令人伤心的,令人痛苦的;**bittersweet**又苦又甜的;**tragic**悲剧的;
+		8. _[poignant sarcasm](dic://poignant%20sarcasm)_ 辛辣的讽刺
+		9. _[poignant remarks](dic://poignant%20remarks)_ 尖锐的批评
+		10. _[poignant reminder](dic://poignant%20reminder)_ 令人痛苦的提示
+		11. _[poignant anxiety](dic://poignant%20anxiety)_ 深深的焦虑
+		12. _[The poignant sadness](dic://The%20poignant%20sadness)_ 凄美的忧伤
+		13. poignancy
+	6. pungency, pungent
 		1. 来自拉丁语 pungere,刺，叮，咬，来自 PIE*pung,刺，击，打，词源同 point,puncture.引申词义刺鼻的，一针见血的等。
 		2. _n._ [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [spiciness](dic://spiciness), [spice](dic://spice)
 		3. **pungent**刺激性的;**sweetness**美味;**aroma**芳香;**flavor**滋味;**flavour**香味;**acidity**酸度;**spicy**辛辣的;**tangy**有刺激性的;**aftertaste**回味;**freshness**新;**richness**丰富;
@@ -6082,12 +6083,13 @@
 		13. While it battles Epic in the courts, Apple may tweak its rules to placate some developers /尽管苹果在法庭上与Epic公司明争暗斗，但它可能也会为安抚一些应用开发商对应用商店规则进行调整。
 		14. placable, placability
 		15. placatory
-			1. adj. 抚慰的；怀柔的；调解的
-			1. _adj._ [conciliatory](dic://conciliatory), [conciliative](dic://conciliative)
-			1. _n._ [antagonistic](dic://antagonistic)
-			1. **gesture**姿态;**dismissive**轻视的, 轻蔑的, 鄙视的;**soothing**使人宽心的;**gestures**手势，姿态;**apologetic**道歉的;**condescending**降低身份的,屈尊的;**reassuring**安慰的;**diplomatic**外交的;**self-serving**自私的,自私自利的;**appease**使平息;**cordial**兴奋的;
-			1. He raised a **placatory** hand. "All right, we'll see what we can do." /他举起一只手，安抚地说：“好吧，我们看看能做些什么。”
-			1. When next he spoke he was more **placatory**. /当他又开口说话时，语气更具安抚性。
+			1. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy)
+			2. adj. 抚慰的；怀柔的；调解的
+			3. _adj._ [conciliatory](dic://conciliatory), [conciliative](dic://conciliative)
+			4. _n._ [antagonistic](dic://antagonistic)
+			5. **gesture**姿态;**dismissive**轻视的, 轻蔑的, 鄙视的;**soothing**使人宽心的;**gestures**手势，姿态;**apologetic**道歉的;**condescending**降低身份的,屈尊的;**reassuring**安慰的;**diplomatic**外交的;**self-serving**自私的,自私自利的;**appease**使平息;**cordial**兴奋的;
+			6. He raised a **placatory** hand. "All right, we'll see what we can do." /他举起一只手，安抚地说：“好吧，我们看看能做些什么。”
+			7. When next he spoke he was more **placatory**. /当他又开口说话时，语气更具安抚性。
 	3. implacable, implacably
 		1. a. 不能安抚的, 难和解的, 不变的
 		2. _adj._ [grim](dic://grim), [inexorable](dic://inexorable), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
@@ -6306,15 +6308,16 @@
 	3. paraplegia, paraplegic, paraplegics
 		1. **wheelchair**轮椅;**handicapped**残疾的;**disabled**残废的，有缺陷的;**disability**无能力, 无力;**crippled**残废的，跛腿的;**walker**步行者;**deaf**聋的;**amputation**截肢;**prosthetic**假体的;**elderly**过了中年的;**autistic**孤僻的;
 		2. **paralysis**瘫痪;**disability**无能力, 无力;**amputation**截肢;**palsy**麻痹，麻痹状态;**wheelchair**轮椅;**sclerosis**硬化;**neurological**神经病学的;**neuropathy**神经病;**atrophy**萎缩，萎缩症;**spinal**脊骨的;**epilepsy**癫痫，癫痫症;
-	4. apoplexy, cataplexy
-		1. apoplectic
-		2. postapoplectic
-		3. antiapoplectic
-		4. antapoplectic
-		5. pseudoapoplexy
-		6. parapoplexy
-		7. myelapoplexy
-	5. complain
+	4. apoplexy, cataplexy 
+		1. - n. [医] 中风
+		2. apoplectic
+		3. postapoplectic
+		4. antiapoplectic
+		5. antapoplectic
+		6. pseudoapoplexy
+		7. parapoplexy
+		8. myelapoplexy
+	6. complain
 		1. com-强调 + plain-=plag-击打 → 指捶胸顿足的，抱怨的。
 		2. uncomplaining
 		3. complaint
@@ -7346,19 +7349,21 @@
 			1. [sniffler](dic://sniffler)
 			2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 	8. snub
-		1. n. 冷落, 怠慢, 斥责, 制止  
-		2. a. 制动用的, 短而扁的  
-		3. vt. 冷落, 怠慢, 制止, 使...停住, 掐灭
-		4. [rebuff](dic://rebuff), [repulse](dic://repulse)
-		5. [cut](dic://cut), [cold shoulder](dic://cold shoulder)
-		6. [ignore](dic://ignore), [disregard](dic://disregard), [cut](dic://cut)
-		7. [rebuff](dic://rebuff), [repel](dic://repel)
-		8. _n._ [rejection](dic://rejection), [rebuff](dic://rebuff), [slight](dic://slight)
-		9. _v._ [treat](dic://treat), [handle](dic://handle), [do by](dic://do by), [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn)
-		10. _adj._ [short](dic://short)
-		11. _n._ [long](dic://long)
-		12. **blunder**的错误;
-	9. snarl
+		1. (spurn, rebuff, refuse, snub, repel, reject,)
+		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub)
+		3. n. 冷落, 怠慢, 斥责, 制止  
+		4. a. 制动用的, 短而扁的  
+		5. vt. 冷落, 怠慢, 制止, 使...停住, 掐灭
+		6. [rebuff](dic://rebuff), [repulse](dic://repulse)
+		7. [cut](dic://cut), [cold shoulder](dic://cold shoulder)
+		8. [ignore](dic://ignore), [disregard](dic://disregard), [cut](dic://cut)
+		9. [rebuff](dic://rebuff), [repel](dic://repel)
+		10. _n._ [rejection](dic://rejection), [rebuff](dic://rebuff), [slight](dic://slight)
+		11. _v._ [treat](dic://treat), [handle](dic://handle), [do by](dic://do by), [reject](dic://reject), [spurn](dic://spurn), [freeze off](dic://freeze off), [scorn](dic://scorn)
+		12. _adj._ [short](dic://short)
+		13. _n._ [long](dic://long)
+		14. **blunder**的错误;
+	10. snarl
 		1. v. 咆哮, 吼叫, 怒骂; 缠结, 搞乱  
 		2. n. 咆哮, 吼叫, 怒骂; 缠结, 混乱
 		3. 拟声词，模仿怒吼的声音。  
@@ -7376,7 +7381,7 @@
 			2. [complicate](dic://complicate), [perplex](dic://perplex)
 		14. ensnarl
 			1. [enmesh](dic://enmesh), [mesh](dic://mesh)
-	10. snug
+	11. snug
 		1. 词源不详，原指把船上物品压紧，弄实，使结实，可能来自古丹麦语 snog,整洁的。引申词义偎依，躺，卧，雅室等相关词义
 		2.  [cubby](dic://cubby), [cubbyhole](dic://cubbyhole), [snuggery](dic://snuggery)
 		3.  [close](dic://close), [close-fitting](dic://close-fitting)
@@ -7385,7 +7390,12 @@
 		6. _adj._ [protected](dic://protected), [secure](dic://secure), [tight](dic://tight), [comfortable](dic://comfortable), [comfy](dic://comfy)
 		7. _n._ [unprotected](dic://unprotected), [loose](dic://loose), [leaky](dic://leaky), [uncomfortable](dic://uncomfortable)
 		8. **comfy**舒服的;**comfortable**安逸的, 使人舒服的;**fit**安装;**tight**紧的;**roomy**宽敞的;**stretchy**有弹性的;**cozy**舒适的，惬意的;**toasty**似烤面包片的;**cosy**舒适的;**comfortably**舒服地;**tucked**盘;
-	11. snag
+		9. a snug living /收入尚可的生活
+		10. The jacket was a snug fit. /那件短上衣很合身。
+		11. a snug little sailboat. /建造得很紧密的小帆船
+		12. He gets quite a snug income in his job. /他工作的收入相当可观。
+		13. He showed us into a snug little sitting room /他领我们走进了一间温暖而舒适的小客厅。
+	12. snag
 		1. (snag, hitch, glitch, flaw, rub, hang-up)
 		2. n. (尖利的)突出物, (衣服等的)戳破处; 问题, 困难, 障碍, 麻烦  vt. 钩住, 钩破; 抓住机会, 抢到
 	13. snap
@@ -7448,7 +7458,7 @@
 		9. he gave a snort of disgust /他厌恶地哼了一声。
 		10. snorted cocaine /吸食柯卡因
 		11. snorty
-	22. snout, snouted
+	21. snout, snouted
 		1. 自中古低地德语 snute,鼻子，口鼻部，来自 Proto-Germanic*snut,鼻子，拟声词，模仿鼻子发出的声音。引申诸相关词义。
 		2. n. 鼻口部, 鼻子, 口吻状物, 烟草
 		3. [neb](dic://neb)
@@ -7456,14 +7466,14 @@
 		5.  [rostrum](dic://rostrum)
 		6. _n._ [nose](dic://nose), [olfactory organ](dic://olfactory organ)
 		7. **beak**鸟嘴;**nostrils**鼻孔;**tail**尾部;**nose**鼻子;**muzzle**枪口，炮口;**fangs**尖牙;**hind**后部的;**dorsal**背的，背侧的;**claws**爪子;**bony**骨的;**jaws**狭口;
-	23. snoop
+	22. snoop
 		1. 1 - 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申比喻义打探，打听。
 		2. vi. 调查, 窥探   n. 窥视行为, 爱管闲事的人, 私家侦探
 		3. snoopy
 		4. snooperscope
 			1. n. 夜望镜
 		5. snooper
-	24. snuff
+	23. snuff
 		1. n. 鼻烟  
 		2. vt. 出声地嗅, 通过鼻子吸入; 掐灭, 闷熄, 熄灭（小火苗）
 		3. 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申词义鼻烟。
@@ -8151,6 +8161,31 @@
 	1. 【化】 丙匹西林; 苯氧丙基青霉素  
 	2. 【医】 苯丙西林, 苯氧丙基青霉素钾
 12. propodeum
+
+
+### + \*pregn- + = pregnancy, 表示“怀孕”。
+1. impregnate
+	1. vt. 使怀孕, 使肥沃, 使充满, 灌输  a. 怀孕的, 充满的
+	2.  im-,进入，使，pregnant,怀孕的，孕育的，词源同 gene.引申词义繁殖，使充满，使遍布。
+	3. _v._ [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full), [inseminate](dic://inseminate), [fecundate](dic://fecundate), [fertilize](dic://fertilize), [fertilise](dic://fertilise)
+	4. **seduce**引诱;**conceive**构思;**marry**娶;**semen**精液;**kidnap**绑架;**sperm**精液;**offspring**子女, 子孙, 后代;**pregnant**怀孕的;**virgin**处女的;**kill**杀死;**abort**流产;
+	5. a cotton wad that was impregnated with ether. /浸透了醚的棉花团
+	6. air impregnated with disease-germs /充满病菌的空气
+	7. water impregnated with salt /饱含盐份的水
+	8. impregnate a speech with optimism. /使讲演充满乐观主义
+	9. The purpose of the marinade is to impregnate foods with the flavour of the ingredients. /使用腌泡汁的目的是使配料的味道浸透到食物中去。
+	10. They also said all the girls had been impregnated by just one man. /他们称所有女孩都是一名男子致孕的。
+2. pregnable
+	1. a. 易攻击的, 可攻克的
+	2.  来自古法语 prenable,可占领的，可攻破的，来自（缩写自）拉丁语 prehendere,抓住，占领，词源同 comprehend,prehensile.插入字母 g 可能是习惯性作用。
+	3. the fort's pregnable approaches /堡垒易受攻击的入口处。
+	4. the only  pregnable point /唯一的弱点
+3. pregnancy
+	1. n. 怀孕, 妊娠, 含蓄, 丰富
+	2. 
+4. pregnant
+	1.  pre-,在前，-gn,生育，生产，词源同 gene,generate.即即将生育的。
+	2. a. 怀孕的; 饱含（~ with）; 耐人寻味的
 
 
 ### + \*prek- +

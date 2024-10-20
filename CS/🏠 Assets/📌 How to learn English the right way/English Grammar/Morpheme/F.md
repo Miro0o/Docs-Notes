@@ -96,8 +96,7 @@
 	16. _fatigue fracture_ 疲劳断裂；疲劳骨折
 3. indefatigability
 4. indefatigable
-	1. (perseverance, diligent, assiduous, unyielding, indefatigable, )
-	2. 
+	1. (perseverance, diligent, assiduous, unyielding, indefatigable, unflagging, unfatigued, unremitting)
 	3. in-使… + de-否定 + fatig-疲倦 + -able, 表形容词 → 使不知疲倦。
 	4. a. 不知疲倦的, 有耐性的, 不屈不挠的
 	5. _adj._ [energetic](dic://energetic)
