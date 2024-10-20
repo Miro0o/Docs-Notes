@@ -481,31 +481,32 @@
 			1. n. 决斗者
 2. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
 	1. polemic (prole)
-		1. 来自希腊语 polemos,战争，战斗。比喻用法。
-		2. a. 争辩的, 好争论的  
-		3. n. 激烈争论; 辩论术, 辩论法
-		4. [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
-		5. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)
-		6. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
-		7. He wrote a splendid polemic in my favour. /他写了一篇出色的文章为我辩护。
-		8. It is a polemic framed as a personal quest. /这是一本以个人探索为论辩框架的书。
-		9. The result is a lively mix of scholarship, reporting and polemic /最终，Studwell 把学术研究、调查报道以及书面论战生动地糅为一体。
-		10. People continued their pointless polemic day and night. /人们整天继续着无意义的争论。
-		11. 
-		12. polemics
-		13. polemical
+		1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
+		2. 来自希腊语 polemos,战争，战斗。比喻用法。
+		3. a. 争辩的, 好争论的  
+		4. n. 激烈争论; 辩论术, 辩论法
+		5. [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
+		6. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)
+		7. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
+		8. He wrote a splendid polemic in my favour. /他写了一篇出色的文章为我辩护。
+		9. It is a polemic framed as a personal quest. /这是一本以个人探索为论辩框架的书。
+		10. The result is a lively mix of scholarship, reporting and polemic /最终，Studwell 把学术研究、调查报道以及书面论战生动地糅为一体。
+		11. People continued their pointless polemic day and night. /人们整天继续着无意义的争论。
+		12. 
+		13. polemics
+		14. polemical
 			1. **theological**神学的;**dogmatic**教条的;**ideological**观念学的;**argumentative**好辩的,争论的;**rhetorical**修辞的;**scholarly**学术性的;**provocative**刺激的;**satirical**含讽刺意味的, 嘲讽的;**confrontational**对抗;**rhetoric**修辞，修辞学;**philosophical**哲学的;
 			2. The book is slightly technical, eminently readable, consistently shocking, occasionally hectoring and unapologetically polemical. /该书以“专业门槛低、可读性强、时刻吸引读者兴趣、彻底颠覆药业形象、语言咄咄逼人又击中要害”而颇具特色。
 			3. Perhaps, he says, the gags would come easier if he were more polemical. /他说，或许，如果他更好辩一些，那些段子就会更容易响。
 			4. The letter was probably written for polemical impact. It is scarcely credible /这封信可能是为了起到引发争论的效果，内容并不可信。
 			5. On the other hand he was boldly and ardently casting his mystical and polemical writings upon the social battlefield. From 1900 to 1910 such work absorbed the greater part of his time and energy. /另一方面，他大胆而热情地将他的神秘和好战的作品投向社会战场。从 1900 年到 1910 年，这些工作占用了他大部分的时间和精力。
-		14. polemicist
-		15. polemicize
+		15. polemicist
+		16. polemicize
 	3. polemist
 		1. - n. 辩论家，争论者；善辩论者
 		2.  [polemicist](dic://polemicist), [polemic](dic://polemic)
 		3. **theologian**神学家;**philosopher**哲学家;**essayist**随笔作家，散文家;**jurist**法官;**thinker**思想家;**humanist**人道主义者;**journalist**记日志者;**linguist**语言学家;**clergyman**牧师;**poet**诗人;**historian**历史学家, 史学工作者;
-	5. polemize
+	4. polemize
 		1. - v. 争论；辩论
 		2. [polemise](dic://polemise), [polemicize](dic://polemicize), [polemicise](dic://polemicise)
 		3. [quarrel](dic://quarrel), [dispute](dic://dispute), [scrap](dic://scrap), [argufy](dic://argufy), [altercate](dic://altercate)
@@ -2981,16 +2982,17 @@
 		11. a scoffer, a debauched person, and, in brief, a man of Belial /一个玩世不恭的人，一个生活放荡的家伙，总而言之，是个恶棍
 		12. The round, at that very moment, debauched upon the terrace and proceeded to summon him with shouts and curses. /就在那一刻，那轮在露台上放荡不羁，开始用喊叫和诅咒召唤他。
 		13. debauchery
-			1. n. 放荡；纵情酒色；堕落
-			2. _n._ [revel](dic://revel), [revelry](dic://revelry)
-			3. **immorality**不道德,无道义;**drunken**喝醉的;**booze**酒;**mayhem**大混乱, 大破坏;**orgy**狂欢宴会;**madness**疯狂;**depraved**堕落的;**lust**性欲;**intoxication**陶醉;**craziness**发狂,热中,狂热;**sordid**肮脏的;
-			4. Then she fell back exhausted, for these transports of vague love wearied her more than great debauchery /但紧接着她又从天上摔了下来，香消魂断，因为这种朦朦胧胧的爱情冲动使她精疲力竭，比起肉体的荒淫无度来，还有过之而无不及。
-			5. Non-college-goers who come to join in the debauchery commit more serious crimes- feuds become perilous when partiers bring pistols. /没有上过大学的人来参加这种花天酒地的活动会犯下更严重的罪行——当参与者带着手枪时，争端就变得危险了。
-			6. Did I teach the one his vices, and the other his debauchery? /我教一个他的恶习，另一个他的放荡吗？
-			7. Heat induces languor and stillness—but also debauchery and frenzy. /热会导致倦怠和静止——但也会导致放荡和狂热。
-			8. World domination by day, debauchery by night. /白天统治世界 晚上灯红酒绿。
-		14. debauchee
-		15. debauched
+			1. (voluptuous, debauchery, )
+			2. n. 放荡；纵情酒色；堕落
+			3. _n._ [revel](dic://revel), [revelry](dic://revelry)
+			4. **immorality**不道德,无道义;**drunken**喝醉的;**booze**酒;**mayhem**大混乱, 大破坏;**orgy**狂欢宴会;**madness**疯狂;**depraved**堕落的;**lust**性欲;**intoxication**陶醉;**craziness**发狂,热中,狂热;**sordid**肮脏的;
+			5. Then she fell back exhausted, for these transports of vague love wearied her more than great debauchery /但紧接着她又从天上摔了下来，香消魂断，因为这种朦朦胧胧的爱情冲动使她精疲力竭，比起肉体的荒淫无度来，还有过之而无不及。
+			6. Non-college-goers who come to join in the debauchery commit more serious crimes- feuds become perilous when partiers bring pistols. /没有上过大学的人来参加这种花天酒地的活动会犯下更严重的罪行——当参与者带着手枪时，争端就变得危险了。
+			7. Did I teach the one his vices, and the other his debauchery? /我教一个他的恶习，另一个他的放荡吗？
+			8. Heat induces languor and stillness—but also debauchery and frenzy. /热会导致倦怠和静止——但也会导致放荡和狂热。
+			9. World domination by day, debauchery by night. /白天统治世界 晚上灯红酒绿。
+		15. debauchee
+		16. debauched
 	5. fulcrum
 2. **phalang-** 表示“指骨”。源自希腊语 phalanx "beam, finger bone, line of battle."
 
@@ -3109,11 +3111,23 @@
 		9. bindery
 			1. bookbinder
 		10. binder
-			1. spellbinder
-			2. self-binder
-			3. highbinder
-			4. bookbinder
-	14. bond
+			1. 1. _n._ (书籍的)装订机；装订者
+			2. 活页封面，活页夹
+			3. 黏合物
+			4. (购买不动产时包括预付订金在内的)保证书，临时契约
+			5. 捆缚(或包扎)用具；绳索，带子
+			6. 割捆机；(收割机上的)捆缚装置
+			7. _organic binder_ 有机粘结剂
+			8. _asphalt binder_ 沥青结合料；沥青粘结剂，沥青胶泥
+			9. _ring binder_ 扣眼活页夹
+			10. bindery
+				1. - n. 装订所；装订工场；平构数据库
+				2. 
+			11. spellbinder
+			12. self-binder
+			13. highbinder
+			14. bookbinder
+	19. bond
 		1. weldbonding
 		2. unbonded
 		3. polybond
@@ -3126,24 +3140,24 @@
 			1. _n._ [subjugation](dic://subjugation), [subjection](dic://subjection), [sexual activity](dic://sexual activity), [sexual practice](dic://sexual practice), [sex](dic://sex), [sex activity](dic://sex activity)
 			2. **servitude**奴隶状态;**BDSM**绑缚与调教、支配与臣服、施虐与受虐;**fetish**迷信;**kinky**奇形怪状的，怪癖的;**slave**奴隶;**slavery**奴役;**shackles**手铐，脚镣;**erotic**色情的;**chastity**纯洁;**kink**扭结;**submissive**顺从的, 唯命是从的;
 		8. antibond, antibonding
-	15. bonded
-	16. bonder
-	17. bondholder
-	18. bonding
-	19. bondmaid
-	20. bondman
-	21. bonds
-	22. bondslave
+	20. bonded
+	21. bonder
+	22. bondholder
+	23. bonding
+	24. bondmaid
+	25. bondman
+	26. bonds
+	27. bondslave
 		1. _n._ 奴隶,农奴
-	23. bondsman
-	24. bondstone
-	25. bondwoman
-	26. banner
+	28. bondsman
+	29. bondstone
+	30. bondwoman
+	31. banner
 		1. bannerol
 		2. bannerline
 		3. bannerette
 		4. banneret
-	27. bundle
+	32. bundle
 		1.  [package](dic://package), [packet](dic://packet), [parcel](dic://parcel)
 		2.  [sheaf](dic://sheaf)
 		3. [pile](dic://pile), [big bucks](dic://big bucks), [megabucks](dic://megabucks), [big money](dic://big money)

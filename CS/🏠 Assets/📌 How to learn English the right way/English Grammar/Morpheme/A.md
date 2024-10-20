@@ -383,7 +383,7 @@
 		5. avigation, avigator,
 		6. excogitation, excogitive, cogitator, cogitative, cogitation
 		7. variegation, variegated
-	12. exigent
+	12. exigent (exacting, exigent, pressing, demanding, stringent, rigorous, needy)
 		1. ex-出 + ig-做 + -ent表形容词。
 		2. a. 紧急的, 迫切的, 苛求的
 		3. exigency, exigence
@@ -1753,7 +1753,7 @@
 		9. _[Labour analgesia](dic://Labour%20analgesia)_ 分娩镇痛
 		10. Remember that people with congenital analgesia (or insensitivity to pain) navigate every day on a tightrope and are forever getting injured /请记住， 患有先天性镇痛症（或对疼痛不敏感）的人每天都在走钢丝，而且永远都会受伤。
 		11. Three things that you need for general anesthetic are you need amnesia so that they don't remember, analgesia so they have pain relief and then operating conditions for the surgeon. /记忆缺失，这样就患者不会记住手术过程；痛觉缺失，这样可以缓解他们的疼痛；然后是外科医生所需的工作条件。
-	2. analgesic (paregoric)
+	2. analgesic (paregoric, analgesic) (analgesic /analeptic)
 		2. a. 止痛的, 痛觉缺失的 n. 止痛剂
 		3. an-没有 + alges-痛 + -ic表形容词。
 		4. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
@@ -2341,11 +2341,90 @@
 ## an
 ### + \*an- +
 #### + \*an- (1) + = on, upon, above
-1. **ana-** = "again, up, apart, back"
-2. **ano-** = up, above
-	1. anode
-3. naprapathy
-4. on
+1. **ana-** = 1. "again, up, apart, back", 表示“再，上，分开，后”等。
+	1. anabaptism
+		1. anabaptist
+	2. anabasis
+		1. - n. 进军；远征；侵入
+	3. anabatic
+		1. - adj. 上升的；加剧的；加重的
+	4. anabiosis
+	5. anabolic (catabolic, anabolic, metabolic)
+		1. - adj. 合成代谢的；同化的
+		2. _adj._ [anabolism](dic://anabolism), [constructive metabolism](dic://constructive metabolism), [constructive-metabolic](dic://constructive-metabolic),   
+		3. _n._ [catabolic](dic://catabolic), [katabolic](dic://katabolic)
+		4. **steroid**类固醇;**steroids**甾体;**HGH**人体生长激素;**creatine**肌酸，肌肉素;**testosterone**睾丸激素;**stimulant**兴奋剂;**hormone**激素，荷尔蒙;**muscle**肌肉;**metabolic**新陈代谢的;**hormones**荷尔蒙;**estrogen**雌性激素;
+		5. _anabolic steroid_ 合成代谢类固醇；促蛋白合成甾类
+		6. 
+		7. anabolism
+	6. anabranch
+	7. anachronic
+		1. anachronism
+		2. anachronistic
+	8. anaclastic
+	9. anadromous
+	10. anaglyph
+	11. anagoge
+	12. anagram
+	13. analects
+		1. n. 短论选，短文选
+	14. analeptic (demulcent) (analgesic /analeptic)
+		1. - adj. （主要指药剂）健身的，复元的；（药剂等）兴奋的 
+		2. n. 强身剂，复元剂；兴奋剂
+		3. _n._ [stimulant](dic://stimulant), [stimulant drug](dic://stimulant drug), [excitant](dic://excitant)
+		4. _adj._ [stimulative](dic://stimulative)
+		5. _n._ [depressant](dic://depressant)
+		6. **stimulant**兴奋剂;**narcotic**麻醉的;**aural**耳的;**anesthetic**麻醉剂;**antidepressant**抗抑郁剂;
+		7. Accordingly, the packing appropriate of centre analeptic is given priority to with red base wither, solve those who heat up demulcent medicine to pack give priority to fundamental key with blue. /因此，中枢兴奋药的包装宜用红色为主基凋，解热镇痛药的包装则用蓝色为主基调。
+	15. analogy
+	16. analyse
+		1.  ana-,向上，向后，-lys,松开，词源同 lose,loose.即分解进行分析。
+		2. vt. 分析, 细察, 分解
+		3. analysis
+		4. analyst
+		5. analytic
+		6. analyze
+	18. anamnesis
+		1. anamnestic
+	19. anamorphosis
+	20. anaphora
+		1. anaphoric
+	21. anaphylactic
+		1. anaphylaxis
+	22. anaplasty
+	23. anasarca
+	24. anastomose
+	25. anathema
+		1. anathematize
+	26. anatomy (necropsy, autopsy, anatomy)
+		1. n. 解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼
+		2. [general anatomy](dic://general anatomy)
+		3. [human body](dic://human body), [physical body](dic://physical body), [material body](dic://material body), [soma](dic://soma), [build](dic://build), [figure](dic://figure), [physique](dic://physique), [shape](dic://shape), [bod](dic://bod), [chassis](dic://chassis), [frame](dic://frame), [form](dic://form), [flesh](dic://flesh)
+		4. _n._ [morphology](dic://morphology), [body](dic://body), [organic structure](dic://organic structure), [physical structure](dic://physical structure), [analysis](dic://analysis)
+		5. **anatomical**结构的;**physiology**生理学;**dissection**解剖，切开;**biology**生物学;**pathology**病理学;**morphology**形态学;**cranial**头盖的;**pelvis**骨盆;**biochemistry**生物化学;**botany**植物学;**neurology**神经病学;
+		6. 
+	27. anchoress
+	28. anchoret
+	29. anchorite
+	30. aneurism
+	31. aneurysm
+	32. anion
+	33. anaclisis
+	34. anaclitic
+	35. ananastasia
+	36. anapest
+	37. anaphor
+	38. anastrophe
+		1. - n. 倒置法（等于 anastrophy）
+3. **ano-** = up, above, 表示“上”，和前缀 ana- 同源。
+	1. anode [美 /'ænod/](cmd://Speak/_us_/anode) (anode, cathode /cation, anion)
+		1. ana向上 + -ode极 → （电子）沿着向上的路通往 → 阳极。
+		2. _n._ [electrode](dic://electrode), [terminal](dic://terminal), [pole](dic://pole)
+		3. _n._ [cathode](dic://cathode)
+		4. **cathode**阴极;**electrode**电极;**electrochemical**电气化学的;**capacitor**电容器;**electrolyte**电解物;**dielectric**电介质;**diode**二极管;**capacitance**电容;**oxide**氧化物;**nitride**氮化物;**emitter**发射器，发射体;
+		5. 
+4. naprapathy
+5. on
 
 
 ### + \*ane- + = to breathe
@@ -2386,18 +2465,19 @@
 	6. animosity， animus (enmity, amity, inimical, comity)
 		1. **hostility**敌意;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**prejudice**成见, 偏见, 歧视;**malice**怨恨;**bigotry**顽固;**resentment**愤恨,不满,怨恨;**enmity**敌意;**disdain**蔑视;**racism**种族主义，种族歧视;**anger**怒，愤怒;
 	7. equanimity
-		1. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
-	8. longanimity, longanimous
+		1. 
+		2. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
+	9. longanimity, longanimous
 		1. **patience**耐性，耐心;**fortitude**坚韧, 刚毅;**exertion**努力;**self-control**克己;**perseverance**坚持不懈;**firmness**坚定;**likewise**也;
-	9. magnanimity, magnanimous, magnanimously
+	10. magnanimity, magnanimous, magnanimously
 		1. **generosity**慷慨, 大方, 宽容;**humility**谦卑，谦逊;**kindness**仁慈;**compassion**怜悯, 同情;**sincerity**真实, 诚挚;**piety**虔诚;**gratitude**感激, 感谢;**cowardice**懦弱;**gentleness**温和;**arrogance**傲慢;**fortitude**坚韧, 刚毅;
-	10. pusillanimity, pusillanimous, pusillanimously
+	11. pusillanimity, pusillanimous, pusillanimously
 		1. _n._ [fearfulness](dic://fearfulness)
 		2. **cowardice**懦弱;**folly**愚蠢;**arrogance**傲慢;**hubris**傲慢;**hypocrisy**伪善;**incompetence**无能力;**inaction**不活动;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**foolishness**愚蠢;**cynicism**犬
 		3. Some reckon its failure to unearth masses of new information is down to a mix of mendacious reticence on the part of key witnesses and the pusillanimity of their inquisitors /一些人承认，没能发现大量的新信息是由于关键证人的虚假的沉默和审判者的胆怯。
-	11. unanimity, unanimous, unanimously
+	12. unanimity, unanimous, unanimously
 		1. **consensus**一致, 一致同意;**overwhelmingly**压倒地;**decision**决定，决心;**unequivocal**只有一种含意的;**resounding**鸣响的,回响的,回荡的,响亮的;**vote**投票，选举;**verdict**裁定;**emphatic**加强语气的;**overwhelming**势不可挡的, 压倒一切的;**veto**否决权;**dissenting**不同意的;
-	12. reanimatology
+	13. reanimatology
 3. Enid
 
 
@@ -2435,6 +2515,7 @@
 		6. Everything you do is sort of vantage flare to it. /做的一切都将对以后产生影响。
 		7. It's a fascinating vantage point from which to view the city /这是观察这座城市的一个有利角度。
 	6. vanward
+		1. 1. adj. 先锋的；向前的；前卫的 adv. 向前方；向先锋
 2. **anci-, antiqu-** = old, 「Latin」antiquus, "former, antique"
 	1. antic
 		2. 是antique的简化变体词。引申义源于文艺复兴时代意大利在古罗马遗迹发掘出大量奇形怪状的假面具和雕像。
@@ -2458,10 +2539,34 @@
 		17. But the little female paid no attention to Louis's antics. She pretended he didn't exist. /可这只小雌天鹅根本不去注意路易斯的这些古怪举动。她装出一副他根本不存在的样子。
 		18. anticly, antically
 	2. antique
-		8. antiquity, antiqueness
-		9. antiquate
-		10. antiquary, antiquarian, antiquated, antiquarianize
-	3. ancient
+		1. adj. 古老的，古董的；老式的，过时的；（木器表面罩漆工艺）仿古的，古式的；年久的，破旧的 
+		2. n. 古物，古董；古式（尤指古希腊、古罗马的雕刻、建筑等）；西文粗体字体 
+		3. v. 以仿古式样制作；觅购古玩
+		4.  [old-timer](dic://old-timer), [oldtimer](dic://oldtimer), [gaffer](dic://gaffer), [old geezer](dic://old geezer)
+		5. [antiquate](dic://antiquate)
+		6.  [demode](dic://demode), [ex](dic://ex), [old-fashioned](dic://old-fashioned), [old-hat(p)](dic://old-hat(p)), [outmoded](dic://outmoded), [passe](dic://passe), [passee](dic://passee)
+		7.  [age-old](dic://age-old)
+		8. _n._ [old man](dic://old man), [greybeard](dic://greybeard), [graybeard](dic://graybeard), [Methuselah](dic://Methuselah), [antiquity](dic://antiquity)
+		9. _v._ [shop](dic://shop), [browse](dic://browse), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		10. _adj._ [old](dic://old), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
+		11. _n._ [new](dic://new), [fashionable](dic://fashionable), [stylish](dic://stylish)
+		12. [ancient](dic://ancient) 指很久以前发生或存在的事物。用于描述历史时，指远古时代。  
+		13. [old](dic://old) 指长期以来一直存在着的事物，与times连用指古代，与days连用时指从前或旧社会。  
+		14. [antique](dic://antique) 指已经很古老或颇有古风的事物，一般都具有较高价值。
+		15. **vintage**收获;**patina**铜绿;**heirloom**传家宝;**pewter**锡铅合金,白镴;**furniture**家具;**ornate**华丽的;**pottery**陶器;**thrift**节俭;**collectible**可收集的,可代收的;**flea**跳蚤;**decorative**装饰性的;
+		16. _antique furniture_ 古董家具；古典家具；古式家具
+		17. _antique shop_ 古董店
+		18. _antique brass_ 古铜色
+		19. a button-back antique chair. /一只古董棉靠背椅。
+		20. there is little call for antique furniture. /对古式家具的需求几乎没有。
+		21. a cluster of  antique shops. /古董店群。
+		22. the museum's trove of antique treasure. /博物馆的古董收藏。
+		23. 
+		24. antiquity, antiqueness
+		25. antiquate
+			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+		26. antiquary, antiquarian, antiquated, antiquarianize
+	4. ancient
 		1. ancientry, anciently
 3. **ante-, anti-** = before, 一般放在名词性词根前。「Latin」ante, "before, in front of against"
 	1. anterior
@@ -2565,13 +2670,15 @@
 			2. adj. 遮阳的；成荫的
 			3. adumbrative
 			4. adumbration
-		7. adumbrate
-			1. _v._ [describe](dic://describe), [depict](dic://depict), [draw](dic://draw), [hint](dic://hint), [suggest](dic://suggest)
-			2. **likewise**也;**moreover**此外;**apprehend**理解;**elucidate**阐明,解释;**countenance**面容，表情;**doubtless**无疑地, 肯定地;**indubitably**无疑地;**allusion**暗示;**comprehend**理解, 领会;**necessitate**使…成为必要, 需要;**plainly**平坦地;
-			3. Hobhouse had already adumbrated the idea of a welfare state /霍布豪斯已经简略地介绍了福利国家这一概念。
-			4. the walls were only adumbrated by the meagre light /几面墙只是在朦胧的光线下显示出轮廓来。
-			5. The recent development adumbrate a world-wide revolution in computer technology /最新事态的发展预示着一场全球性的计算机技术革命。
-		8. umbriferous
+		7. adumbrate (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow)
+			1. ad- + umbr-影子 + -ate, 表动词 → [将来的]影子出现 → 预示。
+			2. vt. 画...的轮廓, 预示
+			3. _v._ [describe](dic://describe), [depict](dic://depict), [draw](dic://draw), [hint](dic://hint), [suggest](dic://suggest)
+			4. **likewise**也;**moreover**此外;**apprehend**理解;**elucidate**阐明,解释;**countenance**面容，表情;**doubtless**无疑地, 肯定地;**indubitably**无疑地;**allusion**暗示;**comprehend**理解, 领会;**necessitate**使…成为必要, 需要;**plainly**平坦地;
+			5. Hobhouse had already adumbrated the idea of a welfare state /霍布豪斯已经简略地介绍了福利国家这一概念。
+			6. the walls were only adumbrated by the meagre light /几面墙只是在朦胧的光线下显示出轮廓来。
+			7. The recent development adumbrate a world-wide revolution in computer technology /最新事态的发展预示着一场全球性的计算机技术革命。
+		9. umbriferous
 			1. - adj. 成荫的；投下阴影的 
 			2. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的
 		10. penumbra, penumbral
@@ -2605,22 +2712,22 @@
 		3. _adj._ [comprehensive](dic://comprehensive)
 		4. _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
 		5. **awning**雨篷;**acronym**首字母缩略词;**chairs**安乐椅;**tarp**油布;**under**低于，少于;**canopy**天篷;**blanket**毛毯，毯子;
-	6. somber
+	6. somber (staid, somber, sobering) (sober)
 		1. 源自拉丁语 subumbrare "to shadow," 词根分解：sub-下 + umbr-阴影。
 		2. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule)
-		3. 1. _adj._ 昏暗的；阴沉的
-		4.  忧郁的；闷闷不乐的 严峻的
-		5. (颜色等)暗淡的，灰暗的；朴实无华的
-		6. [sombre](dic://sombre), [melancholy](dic://melancholy)
-		7. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
-		8. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
-		9. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
-		10. _[somber yellow](dic://somber%20yellow)_ 苍黄
-		11. _[droll somber](dic://droll%20somber)_ 好笑的
-		12. the somber atmosphere /阴沉忧郁的气氛
-		13. That was a somber January day. /那是一个阴沉的正月天。
-		14. Dumbledore came in, looking very somber. /邓布利多走了进来，神情十分凝重。
-		15. sombre
+		4. 1. _adj._ 昏暗的；阴沉的
+		5.  忧郁的；闷闷不乐的 严峻的
+		6. (颜色等)暗淡的，灰暗的；朴实无华的
+		7. [sombre](dic://sombre), [melancholy](dic://melancholy)
+		8. [drab](dic://drab), [sober](dic://sober), [sombre](dic://sombre)
+		9. _adj._ [cheerless](dic://cheerless), [uncheerful](dic://uncheerful), [colorless](dic://colorless), [colourless](dic://colourless)
+		10. **solemn**庄严的，严肃的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**grim**冷酷的;**poignant**尖锐的;**ominous**不祥的;**light-hearted**轻松的;**eerie**可怕的;**upbeat**上升;**introspective**好反省的;**moody**喜怒无常的;
+		11. _[somber yellow](dic://somber%20yellow)_ 苍黄
+		12. _[droll somber](dic://droll%20somber)_ 好笑的
+		13. the somber atmosphere /阴沉忧郁的气氛
+		14. That was a somber January day. /那是一个阴沉的正月天。
+		15. Dumbledore came in, looking very somber. /邓布利多走了进来，神情十分凝重。
+		16. sombre
 	8. sombrero
 		1. _n._ [island](dic://island), [hat](dic://hat), [chapeau](dic://chapeau), [lid](dic://lid)
 		2. **hat**帽子;**cactus**仙人掌;**mustache**胡子，髭;**burrito**玉米煎饼;**taco**墨西哥煎玉米卷;**cowboy**牧童;**tacos**炸玉米饼;**tequila**龙舌兰酒;**moustache**小胡子;**Mexican**墨西哥的;**scarf**围巾;
@@ -2736,7 +2843,11 @@
 		11. ineptly, ineptitude, 
 	6. coapt
 	7. contraption
-	8. 
+		1. n. 奇妙的装置, 稀奇古怪的玩意儿, 新发明的玩意儿, 外形奇怪的机器/装置
+		2. 来自 contrive 和 deception 的合成词。
+		3. **concoction**混合;**ingenious**灵巧的, 善于创造发明的;**gadget**小器具;**machine**机械，机器;**makeshift**权宜之计, 临时代用的物品;**nifty**俏皮的;**robot**机器人;**prototype**原型, 雏形, 蓝本;**inventor**发明家;**gadgets**小配件;**windmill**风车;
+		4. I don't understand how this contraption operates. /我弄不懂这怪玩意儿是怎么工作的。
+		5. 
 3. **copul-** = bond, tie, link
 	1. copula, copular, copulate
 		1. copulation, copulative, copulatory
@@ -2746,9 +2857,29 @@
 		3. couplant, couplet, coupler, 
 4. **hapt-, hapto-** = 接触，系牢
 	1. hapten
-	2. haptic, haptical
-		1. periapt, synapse, synapsis, synaptic
-			1. polysynaptic, monosynaptic
+	2. haptic
+		1. a. 触觉的
+		2.  来自希腊语 haptein,系牢，系紧，来自 PIE*ap,抓住，达到，词源同 apt,adept.引申词义触觉的。
+		3.  [tactile](dic://tactile), [tactual](dic://tactual)
+		4. _adj._ [touch](dic://touch), [sense of touch](dic://sense of touch), [skin senses](dic://skin senses), [touch modality](dic://touch modality), [cutaneous senses](dic://cutaneous senses), [touch sensation](dic://touch sensation), [tactual sensation](dic://tactual sensation)
+		5. **tactile**触觉的，有触觉的;**capacitive**电容性的;**joystick**操纵杆，控制杆;**sensory**感觉的;**perceptual**知觉的,有知觉的;**visual**视觉的，视力的;**auditory**听众;**stylus**唱针;**wearable**可穿用的，可佩带的;**immersive**拟真的;**aural**耳的;
+		6. Things like light, sound, haptics and electricity. /比如光、声、触觉和电。
+		7. We've developed a linear actuator that provides haptic feedback to complement your interactions. /我们打造了一种线性制动器，通过产生触觉来与你进行互动。
+		8. There's a redesigned Magic Keyboard with a function row and haptic trackpad. /重新设计的妙控键盘增加了功能键行，扩大了触控板面积。
+		9. Existing **haptic** devices use rotary motors with off-centre weights to generate such tremors /现有的触感设备均采用重量不对称的旋转电机来产生震动效果。
+	3. haptical
+	4. periapt,
+	5. synapse
+		1. _n._ [junction](dic://junction), [conjunction](dic://conjunction), [conjugation](dic://conjugation), [colligation](dic://colligation)
+		2. **synaptic**突触的;**neuron**神经元，神经单位;**neuronal**神经元的;**neurons**神经原，神经细胞;**neural**神经的;**dendritic**树枝状的;**plasticity**粘性;**cortical**皮质的;**hippocampus**马头鱼尾的怪兽;**cortex**皮质;**brain**脑袋;
+		3. synapsis
+		4. synaptic
+			1. _adj._ [synapse](dic://synapse)
+			2. **neuronal**神经元的;**neuron**神经元，神经单位;**neural**神经的;**neurons**神经原，神经细胞;**cortical**皮质的;**glutamate**【生化】谷氨酸盐，谷氨酸酯;**hippocampus**马头鱼尾的怪兽;**dendritic**树枝状的;**plasticity**粘性;**dopamine**多巴胺;**intracellular**细胞内的;
+			3. Active play may provide necessary stimulation to the growth of **synaptic** connections in the brain, especially the cerebellum, which is responsible for motor functioning and movements /积极游戏行为可能为大脑突触连接的生长提供必要的刺激，尤其是在负责运动功能和运动的小脑。
+			4. In general, action potentials that reach the **synaptic** knobs cause a neurotransmitter to be released into the **synaptic** cleft. /一般来说，动作电位到达突触节会导致神经递质释放到突触间隙。
+			5. A drug's effectiveness stems from its ability to manipulate these synaptic transmissions at different phases of the process. /药物的有效性源于它在过程的不同阶段操纵这些突触传递的能力。
+		5. polysynaptic, monosynaptic
 
 
 ### aphrodis- 原指“泡沫”，希腊神话里的爱与美之神阿佛罗狄忒 Aphodite 传说就是在海水的泡沫中诞生的。因其生性放荡，从她的名字 Aphrodite 产生的词汇都跟性爱相关。
@@ -3268,6 +3399,41 @@
 	9. arbitrary：['ɑrbətrɛri] adj.独断的，武断的，任意的，专制的
 6. arbiter
 7. arbitrable
+
+
+### arbor-  = tree, 表示“树”。有表示草的词根herb首字母h脱落后组成。
+1. arbor
+2. arboraceous
+	1. - adj. 长满树木的；树木状的
+3. arboreal
+	1.  [arborical](dic://arborical), [arborary](dic://arborary), [arborous](dic://arborous)
+	2. [arboreous](dic://arboreous), [tree-living](dic://tree-living)
+	3. [arboreous](dic://arboreous), [arborescent](dic://arborescent), [arboresque](dic://arboresque), [arboriform](dic://arboriform), [dendriform](dic://dendriform), [dendroid](dic://dendroid), [dendroidal](dic://dendroidal), [treelike](dic://treelike), [tree-shaped](dic://tree-shaped)
+	4. _adj._ [tree](dic://tree), [branchy](dic://branchy)
+	5. _n._ [nonarboreal](dic://nonarboreal), [branchless](dic://branchless)
+	6. **nocturnal**在夜间的;**deciduous**每年落叶的;**terrestrial**陆地的;**lowland**低地;**primate**大主教;**lizards**蜥蜴;**primates**灵长类;**species**物种;**vegetation**植物;**habitats**栖息地;**rainforest**雨林;
+	7. arboreal rodents. /栖于树上的啮齿目动物。
+	8. A small, nocturnal, chiefly arboreal mammal of the genus Bassaricyon native to Central and South America, resembling the kinkajou but having a nonprehensile tail. /尖吻浣熊：环尾浣熊属的哺乳动物，体型较小，惯于夜间活动，大量时间栖息在树上。它原产于中南美洲，象蜜熊但有一条不能盘卷的尾巴
+	9. The koala is a sluggish, tailless, furry arboreal marsupial. /考拉是一种行动迟缓的、无尾的、有皮毛、生活于树上的有袋目哺乳动物。
+	10. This young orangutan will grow to be the heaviest arboreal animal in the world. /这只年幼的红毛猩猩长大后将成为地球上最重的树栖动物。
+	11. Whether the first birds evolved from arboreal or terrestrial ancestors is a matter of lively debate among palaeontologists. /关于第一只鸟是从树栖还是陆生的祖先进化而来，一直是古生物学家激烈争论的话题。
+	12. They were probably arboreal hunters that chased prey through the treetops. /他们可能是树栖猎人，在树顶追逐猎物。
+	13. This is called the arboreal leaping theory, which sounds kinda fun. /这就是所谓的树栖跳跃理论，听起来还挺有趣的。
+4. arboreous
+5. arborescence
+6. arborescent
+	1. _adj._ [branchy](dic://branchy)
+	2. _n._ [branchless](dic://branchless)
+	3. **shrub**灌木;**branching**分歧;**shrubs**灌木;**hierarchical**分等级的;**fleshy**肉的;**deciduous**每年落叶的;**fibrous**纤维的，纤维性的;**ferns**蕨类;**foliage**叶子;**genus**类，种;**slender**微薄的;
+	4. The animals to which they belonged roamed on the shores of this subterranean sea, under the shade of those arborescent trees. /它们所属的动物在上面漫游“在这片地下海的海岸上，在那些树荫下。
+	5. We discovered that all the cutaneous arteries are distributed in **arborescent** type /发现了皮肤微循环血管呈树枝状分布的特征；
+7. arboretum
+8. arboriculture
+9. arborist
+10. arborize
+11. arborvitae
+12. arbour
+13. arboriculturist
 
 
 ### -arian = 表形容词或名词，“…的(人)”。

@@ -274,7 +274,7 @@
 			8. " Cross your hands, " commanded Tibeats, with the addition of such a shuddering expression of blasphemy as is not decorous to repeat. /“交叉你的双手， ” 提比茨命令道，还带着一种亵渎神明的颤抖表情， 重复一遍是不礼貌的。
 			9. I did not know the decorous gathering well enough to tell them that they came to Cross Creek as a menace to a young girl's virtue. /我不太了解这次盛大的集会，无法告诉他们他们来克罗斯溪是为了威胁一个年轻女孩的美德。
 		11. indecorum
-		12. indecorous (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent;)
+		12. indecorous (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; unseemly, ungainly, )
 			1. in-,不，非，decorous,体面的，得体的。
 			2. _adj._ [improper](dic://improper)
 			3. _n._ [decorous](dic://decorous), [proper](dic://proper)
@@ -763,6 +763,28 @@
 			1. _n._ [communication](dic://communication)
 			2. **melodrama**情节剧;**modernism**现代主义;**cynicism**犬儒主义;**satire**讽刺;**narrative**记叙文;**allegory**寓言;**storytelling**说故事,说谎话;**subtlety**微妙;**idealism**唯心主义，理想主义;**realism**现实主义;**pedagogical**教学的;
 		3. didactical
+#### + \*dens (2) +
+1. **dens-** = make thick, 表示“变浓厚”。源自拉丁语 densus "thick."
+	1. dense (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, unwieldy, clunky, clumsy, cumbersome, lumbering)
+		1. 来自 PIE*dens,厚的。
+		2. - adj. 稠密的；浓密的，浓重的；密度大的；（文字）难懂的；愚钝的，笨拙的
+		3.  [heavy](dic://heavy), [impenetrable](dic://impenetrable)
+		4. [compact](dic://compact), [thick](dic://thick)
+		5.  [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [obtuse](dic://obtuse), [slow](dic://slow)
+		6. _adj._ [thick](dic://thick), [concentrated](dic://concentrated), [impenetrable](dic://impenetrable), [heavy](dic://heavy), [stupid](dic://stupid)
+		7. _n._ [thin](dic://thin), [distributed](dic://distributed), [penetrable](dic://penetrable), [light](dic://light), [smart](dic://smart)
+		8. **densely**密集地;**thick**厚的;**sparse**稀疏的;**impenetrable**不能穿过的;**lush**丰富的，豪华的;**density**密度;**thin**薄的;**velvety**天鹅绒般柔软的;**homogeneous**同性质的, 同类的;**moist**潮湿的;**voluminous**卷数多的;
+		9. a dense population. /稠密的人口
+		10. a dense novel. /一篇晦涩难懂的小说
+		11. dense glass; a dense fog. /毛玻璃；浓雾
+		12. the narrow streets were dense with merry throngs of students. /狭窄的街道挤满了欢快的学生。
+		13. How come you're so dense all of a sudden? /你怎么突然变得这么愚蠢？
+		14. This creature's fur is short, **dense** and silky /这种动物的毛短、浓密且柔顺。
+	3. densify
+	4. densimeter
+	5. densitometer
+	6. densitometry
+2. dasyure
 
 
 ### + \*dent- +
@@ -1017,11 +1039,12 @@
 		22. black-letter
 		23. belles-letters
 	9. obliterate, obliteration (delete, lei-)
-		1. 来自拉丁语 oblittero,涂抹，抹掉，来自 oblino,涂抹，抹掉，-t,过去分词缀。来自 ob-,相对，对着的，-lino,涂抹，词源同 liniment,delete.拼写受 letter,literal 影响。
-		2. [annihilation](dic://annihilation)
-		3. [eradication](dic://eradication)
-		4. [destruction](dic://destruction), [devastation](dic://devastation), [demolition](dic://demolition), [wipeout](dic://wipeout)
-		5. **destruction**破坏, 毁灭, 消灭;**annihilation**歼灭,灭绝;**disintegration**瓦解;**extermination**消灭;**eradication**根除;**extinction**熄灭,消灭,灭绝;**abandonment**放弃;**devastation**毁灭;**dismantling**分解;**eventual**最后的，结果的;**oblivion**遗忘;
+		1. (obliterate, annihilate, eradicate, demolition, wipeout, extirpate, )
+		2. 来自拉丁语 oblittero,涂抹，抹掉，来自 oblino,涂抹，抹掉，-t,过去分词缀。来自 ob-,相对，对着的，-lino,涂抹，词源同 liniment,delete.拼写受 letter,literal 影响。
+		3. [annihilation](dic://annihilation)
+		4. [eradication](dic://eradication)
+		5. [destruction](dic://destruction), [devastation](dic://devastation), [demolition](dic://demolition), [wipeout](dic://wipeout)
+		6. **destruction**破坏, 毁灭, 消灭;**annihilation**歼灭,灭绝;**disintegration**瓦解;**extermination**消灭;**eradication**根除;**extinction**熄灭,消灭,灭绝;**abandonment**放弃;**devastation**毁灭;**dismantling**分解;**eventual**最后的，结果的;**oblivion**遗忘;
 
 
 
@@ -1083,13 +1106,14 @@
 		3. 
 	6. obdurate
 		1. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, )
-		2. obduracy
-		3. obdurability
-		4. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
-		5. [cussed](dic://cussed), [obstinate](dic://obstinate), [unrepentant](dic://unrepentant)
-		6. [flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
-		7. [unregenerate](dic://unregenerate), [unregenerated](dic://unregenerated), [hardhearted](dic://hardhearted), [heartless](dic://heartless)
-		8. [regenerate](dic://regenerate), [softhearted](dic://softhearted), [soft-boiled](dic://soft-boiled)
+		2. (obdurate, tenacious, steadfast, intransigence, fortitude, )
+		3. obduracy
+		4. obdurability
+		5. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
+		6. [cussed](dic://cussed), [obstinate](dic://obstinate), [unrepentant](dic://unrepentant)
+		7. [flinty](dic://flinty), [granitic](dic://granitic), [stony](dic://stony)
+		8. [unregenerate](dic://unregenerate), [unregenerated](dic://unregenerated), [hardhearted](dic://hardhearted), [heartless](dic://heartless)
+		9. [regenerate](dic://regenerate), [softhearted](dic://softhearted), [soft-boiled](dic://soft-boiled)
 	8. darn
 		1. **dang**谴责;**damn**谴责;**pretty**漂亮的;**damned**该死的;**awfully**可怕地;**ridiculously**可笑地;**too**也;**amazingly**令人惊奇地;**unbelievably**难以置信地;**freaking**该死的，使人憎厌的，糟透的;**terribly**可怕地;
 	9. duralumin, durum, durain

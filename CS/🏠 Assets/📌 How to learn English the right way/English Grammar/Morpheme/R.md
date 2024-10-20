@@ -924,38 +924,50 @@
 		36. The storm forced cancellation of hundreds more flights and disrupted commuter rail./这场暴风雪迫使数百个航班取消，并扰乱了通勤铁路。
 		37. The bus apparently hit a highway guard rail, crashed and caught fire /这辆大巴车显然撞上了高速公路的护栏，撞毁并起火。
 		38. Seeing their reaction makes riding the rails worth it for educators like Pandya /看看他们的反应就使得像迪亚这样的教育者认为投身到这次科学列车之旅是值得的。
-		39. rerailer
-		40. railway
-		41. railsplitter
-		42. railroad
-		43. railmill
-		44. railman
-		45. railless
-		46. raillery
+		39. rail against
+			1. We rail against urban sprawl, and rightly so. /我们反对城市扩张，这点绝对正确。
+			2. Trump railed against his Cabinet secretaries and staff /特朗普内阁多位部长和工作人员都受到了他的责骂。
+			3. His youngest daughter, Tiffany, railed against what she called big tech and mainstream media censorship. /他的小女儿蒂芙尼痛斥她所谓的大技术和主流媒体审查制度。
+		40. rerailer
+		41. railway
+		42. railsplitter
+		43. railroad
+		44. railmill
+		45. railman
+		46. railless
+		47. raillery
 			1. [banter](dic://banter), [give-and-take](dic://give-and-take), [backchat](dic://backchat)
 			2. _n._ [repartee](dic://repartee)
 			3. **jest**玩笑;**ridicule**嘲笑;**scorn**轻蔑;**countenance**面容，表情;**vulgar**粗俗的;**satire**讽刺;**quarrel**吵架;**mischievous**淘气的, 顽皮的;**humour**诙谐;**indignation**愤怒, 愤慨, 气愤;**provocation**激怒;
 			4. _[indulge in raillery](dic://indulge%20in%20raillery)_ 拿人开玩笑
-		47. railling
-		48. railhead
+			5. They would look at each other with a deep affection just behind their eyes which both would conceal beneath some attenuated raillery. /他们会用深沉的感情看着对方，他们的眼睛会隐藏在一些减弱的笑话之下。
+			6. Prince Charles does not escape **raillery** from others. /查尔斯王子也难逃人们善意的嘲弄。
+		49. railling
+		50. railhead
 			1. **railway**铁路;**railroad**铁路，铁道;**rail**横杆;**depot**仓库;**railways**铁路;**freight**运送;**overland**陆上的;**airfield**飞机场;**inland**内地;**garrison**守备部队, 卫戍部队;
 			2. [storehouse](dic://storehouse), [depot](dic://depot), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store), [end](dic://end)
-		49. railer
+		51. railer
 			1. _[railer snubber](dic://railer%20snubber)_ 斥责者
 			2. 横杆；扶手；围栏；铁轨 vi. 抱怨；责骂
-		50. railcar
-		51. railboat
-		52. rialage
-		53. rail-motor
-		54. monorial
-		55. handrailing
-		56. handrail
-		57. guardrail
-		58. derail
-		59. crossrail
-		60. cograilway
-		61. breastrail
-		62. bedrail
+		52. railcar
+		53. railboat
+		54. rialage
+		55. rail-motor
+		56. monorial
+		57. handrailing
+		58. handrail
+		59. guardrail
+		60. derail
+			1.  [jump](dic://jump)
+			2. _v._ [sabotage](dic://sabotage), [undermine](dic://undermine), [countermine](dic://countermine), [counteract](dic://counteract), [subvert](dic://subvert), [weaken](dic://weaken), [travel](dic://travel)
+			3. **undermine**在某物下挖洞或挖通道;**hijack**抢劫;**thwart**反对;**sabotage**妨害;**disrupt**使分裂;**hinder**成为阻碍;**jeopardize**危及, 损害;**threaten**威胁;**impede**阻止;**obstruct**阻塞;**complicate**使复杂化;
+			4. a campaign derailed by lack of funds; a policy that derailed under the new administration. /由于资金缺乏而突然中止的运动；被新政府下突然中止的政策
+			5. the plot is seen by some as an attempt to derail the negotiations. /有人认为这一阴谋的目的是阻挠谈判。
+			6. a train was derailed after it collided with a herd of cattle. /一列火车在与牛群相撞后出轨。
+		61. crossrail
+		62. cograilway
+		63. breastrail
+		64. bedrail
 	12. realm
 		1. [kingdom](dic://kingdom), [land](dic://land)
 		2. [domain](dic://domain), [region](dic://region)
@@ -1050,13 +1062,24 @@
 	9. viceroy
 7. **rog-** = ask, 表示“要求，问”。源自拉丁语 rogare "to ask."
 	1. rogation
-		1. rog-要求 + -ation
-		2. **rites**仪式;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**prayer**恳求;**sacrament**圣事,圣礼;**rite**仪式;
+		1. - n. 祈祷；法律草案
+		2. rog-要求 + -ation
+		3. **rites**仪式;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**prayer**恳求;**sacrament**圣事,圣礼;**rite**仪式;
 	3. rogue
 		1.  可能来自拉丁语 rogere,要求，乞求，词源同 reach,arrogant.引申词义乞丐，后用于指死讨白要的无赖，恶棍。
-		2. roguish
-		3. roguery
-	5. abrogate
+		2. [knave](dic://knave), [rascal](dic://rascal), [rapscallion](dic://rapscallion), [scalawag](dic://scalawag), [scallywag](dic://scallywag), [varlet](dic://varlet)
+		3. _n._ [villain](dic://villain), [scoundrel](dic://scoundrel)
+		4. **renegade**变节者;**mercenary**雇用的,为钱的,唯利是图的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**mage**博学者;**spy**侦察;**assassin**刺客，暗杀者;**malevolent**有恶意的;**hacker**电脑黑客，企图不法侵入他人电脑系统的人;**bandit**强盗;**traitor**叛徒;**pirate**海盗;
+		5. an unconscionable rogue /恣意妄为的流氓
+		6. he hacked into data and ran rogue programs. /他非法闯入数据库，运行反常程序。
+		7. Don’t get too matey with him he’s a rogue. /别和他太亲近了——他是个无赖。
+		8. to blame the debacle on the antics of a rogue trader is not credible—it doesn't stack up /把失败归咎于无赖商人哗众取宠的行为是不可信的，这与事实不符。
+		9. The little rogue had his grandpa's glasses on. /这淘气鬼带上了他祖父的眼镜。
+		10. Have you seen these photos of the new government ministers? What a rogues’ gallery! /你看到新上任的那些政府部长的照片了吗？好一帮无耻之徒！
+		11. The rogue blew on the scheme and so betrayed his partner to the police. /这个无赖告发了这起阴谋, 向警察当局出卖了他们的同伙。
+		12. roguish
+		13. roguery
+	4. abrogate
 		1. ab-去掉 + rog-要求 + -ate, 表动词 → 不再要求有 → 取消掉。
 		2. abrogation
 			1. **abolition**废除;**constitutional**宪法的;**imposition**强加,被迫接受;**prohibition**禁止;**sovereignty**最高统治权, 君权;**concomitant**相伴的;**unilateral**单方面的;**disregard**不顾, 不理会, 无视;**abandonment**放弃;**ratification**正式批准;**consequent**作为结果的;
@@ -1069,7 +1092,7 @@
 		7. _[abrogation of right](dic://abrogation%20of%20right)_ 取消权利
 		8. _[abrogation of derogations](dic://abrogation%20of%20derogations)_ 废除例外
 		9. _[Abrogation of judgment](dic://Abrogation%20of%20judgment)_ 撤销判决
-	7. arrogate, arrogation
+	5. arrogate, arrogation
 		1. ar- + rog-要求 + -ate, 表动词 → 一再要求 → 霸占。
 		2. **assert**断言;**bestow**授予;**prerogative**权利,特权;**ought**应该，应当;**confer**商讨;**confine**限制;**exert**运用，发挥;**appoint**任命;**authority**威信，权力;**compel**强迫，迫使;**legislate**制定法律;
 		3. [claim](dic://claim), [lay claim](dic://lay claim)
@@ -1083,11 +1106,11 @@
 			5. _[Arrogate All Powers To Oneself](dic://Arrogate%20All%20Powers%20To%20Oneself)_ 独揽大权
 			6. _[arrogate financial power to oneself](dic://arrogate%20financial%20power%20to%20oneself)_ 独揽经济大权
 			7. _[arrogate all authority to oneself](dic://arrogate%20all%20authority%20to%20oneself)_ 大权独揽
-	9. arrogant, arrogance
+	6. arrogant, arrogance
 		1. ar- + rog-要求 + -ance, 表名词 → 一再要求的 → 傲慢的。
 		2. **hubris**傲慢;**stupidity**愚笨;**arrogant**自大的，傲慢的;**ignorance**无知;**incompetence**无能力;**idiocy**白痴;**hypocrisy**伪善;**foolishness**愚蠢;**cynicism**犬儒主义;**selfishness**自私;**humility**谦卑，谦逊;
 		3. arrogant, arrogantly
-	11. derogate
+	7. derogate
 		1. de-向下 , 坏 + rog-问 + -ate, 表动词 → 问下去 → 毁损掉。
 		2. [minimize](dic://minimize), [belittle](dic://belittle), [denigrate](dic://denigrate)
 		3. [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
@@ -1101,7 +1124,7 @@
 			1. **provisions**食品;**provision**提供，供给，给养，供应品;**clause**条款;**prohibition**禁止;**exclusion**拒绝,排除;**imposition**强加,被迫接受;**clauses**子句;**presumption**推测;
 			2. [disparagement](dic://disparagement), [depreciation](dic://depreciation)
 			3. [disrespect](dic://disrespect), [discourtesy](dic://discourtesy), [abrogation](dic://abrogation), [repeal](dic://repeal), [annulment](dic://annulment)
-	12. interrogate
+	8. interrogate
 		1. 1 - inter-,在内，在中间，相互，-rog,要求，询问，词源同 reach,arrogate.引申词义质问，审问。
 		2. **investigate**调查;**examine**调查;**detain**拘留;**apprehend**理解;**confront**遭遇;**analyze**对…进行分析，分解;**identify**识别;**dissect**切细;**uncover**揭露;**ascertain**弄清, 确定, 查明;**retrieve**重新得到;
 		3. [air](dic://air), [send](dic://send), [broadcast](dic://broadcast), [beam](dic://beam), [transmit](dic://transmit), [ask](dic://ask)
@@ -1112,7 +1135,7 @@
 		8. interrogative, interrogatively
 		9. interrogation
 		10. interrogating
-	14. prerogative
+	9. prerogative
 		1. pre-,在前，早于，-rog,要求，词源同 reach,arrogant.比喻用法。
 		2. **discretion**谨慎;**sovereign**元首;**authority**威信，权力;**purview**范围，权限;**privilege**特权;**sovereignty**最高统治权, 君权;**deference**顺从;**legislate**制定法律;**primacy**首位;**vested**既定的;**dictate**命令;
 		3. _[prerogative](dic://prerogative)_  n. 特权; adj. 有特权的; 
@@ -1122,14 +1145,14 @@
 		7. it's not a female prerogative to feel insecure. /缺乏安全感并非女性专有。
 		8. Making such decisions is not the sole prerogative of managers /作这类决定并不是管理者的专有特权。
 		9. President may use his prerogative of mercy towards a criminal. /总统可行使赦免罪犯的特权。
-	15. prorogue
+	10. prorogue
 		1. pro-前 + rog-问 + ue → 提前问好[下一次开会日期] → 休会。
 		2. [postpone](dic://postpone), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
 		3. [delay](dic://delay), [adjourn](dic://adjourn), [withdraw](dic://withdraw), [retire](dic://retire)
 		4. **parliament**议会, 国会;**NDP**国内生产净值;**legislate**制定法律;
 		5. prorogation
 			1. **NDP**国内生产净值;**parliamentary**议会的;**parliament**议会, 国会;**Tories**英国托利派;**legislature**立法机关;
-	16. subrogate, subrogation
+	11. subrogate, subrogation
 		1. sub-下 + rog-要求 + -ate
 		2. vt. 代替, 取代
 		3. **insurer**承保人;**indemnity**保障, 赔偿, 补偿;**reimburse**偿还;**insurance**保险;**sue**起诉, 控告, 和…打官司;**insured**被保险人;**liability**责任;**claimant**原告;**damages**伤害;**plaintiff**原告;**insurers**保险公司;
@@ -1137,7 +1160,7 @@
 		5. _[subrogate country](dic://subrogate%20country)_ 替代国
 		6. _[subrogate against](dic://subrogate%20against)_ 代位对; 对替代; 正在翻译; 
 		7. _[subrogate country system](dic://subrogate%20country%20system)_ 替代国制度
-	17. supererogation
+	12. supererogation
 		1. super-超过 + e- + rog-要求，问 + -ation
 		2. n. 职责以外的工作
 		3. **piety**虔诚;**penance**使…以苦行赎罪;**virtue**美德;**ought**应该，应当;**necessity**必要;**justification**理由;**holiness**神圣;**atonement**弥补,补偿;**justly**公正地;
@@ -1146,22 +1169,22 @@
 		6. 'But it was quite a work of supererogation on my part /“但这对我来说是一种过度的工作” 。
 		8. supererogatory
 			1. **obligatory**必须的, 必要的;**piety**虔诚;**superfluous**过多的;**pious**虔诚的;**penance**使…以苦行赎罪;
-	18. surrogate, surrogacy
+	13. surrogate, surrogacy
 		1. sur-下面 + rog-要求 + -ate → 要求下面(有人) → 代理人。
 		2. n. 替代者, 代用品  vt. 代理, 替代
 		3. **adoptive**有收养关系的;**mother**母亲;**biological**生物的;**maternal**母亲的;**father**父亲，爸爸;**mothers**母亲;**newborn**新生的;**donor**供者;**stepfather**继父;**baby**婴儿，婴孩;**putative**推定的，假定的;
 		4. [stand-in](dic://stand-in), [substitute](dic://substitute), [relief](dic://relief), [reliever](dic://reliever), [backup](dic://backup), [backup man](dic://backup man), [fill-in](dic://fill-in)
 		5. [adoptive](dic://adoptive)
 8. rack
-	1. 1 - 来自古英语 reccan,拉开，展开，来自 Proto-Germanic*rak,拉直，来自 PIE*reg,拉直，词源同regulate,reach.引申词义支架，架子，后用于指架子状的刑具，引申词义折磨。
+	1. 来自古英语 reccan,拉开，展开，来自 Proto-Germanic*rak,拉直，来自 PIE*reg,拉直，词源同regulate,reach.引申词义支架，架子，后用于指架子状的刑具，引申词义折磨。
 	2. n. 架; 痛苦, 折磨  v. 使受折磨, 使痛苦
 	3. [wrack](dic://wrack)
 	4. [wheel](dic://wheel)
-	5.  [stand](dic://stand)
+	5. [stand](dic://stand)
 	6. [single-foot](dic://single-foot)
 	7. [extort](dic://extort), [squeeze](dic://squeeze), [gouge](dic://gouge), [wring](dic://wring)
-	8.  [scud](dic://scud)
-	9.  [torment](dic://torment), [torture](dic://torture), [excruciate](dic://excruciate)
+	8. [scud](dic://scud)
+	9. [torment](dic://torment), [torture](dic://torture), [excruciate](dic://excruciate)
 	10. _n._ [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [cut](dic://cut), [cut of meat](dic://cut of meat), [destruction](dic://destruction), [demolition](dic://demolition)
 	11. _v._ [pace](dic://pace), [try](dic://try), [strain](dic://strain), [stress](dic://stress), [work](dic://work), [put to work](dic://put to work), [overcharge](dic://overcharge)
 	12. **hanger**衣架;**hangers**衣架;**shelving**倾斜，架子;**tray**托盘;**lockers**储物柜;**shelf**搁板;**trays**托盘;**mount**爬上;**pan**平锅，盘子;**wire**金属丝;**shelves**架子;
@@ -1173,32 +1196,68 @@
 	18. _storage rack_ 存放架；带卷垛存台架
 	19. _gear rack_ 齿条；齿轮齿条
 	20. _rack up_ 击倒，获胜
+		1. We have racked up over 13,000 donkeys rescued. /我们救出了一万三千多头驴。
+		2. He is racking up oceans of debt. /他债台高筑。
+		3. She's now racked up seven Olympic gold medals, 11 medals in all. /她已经获得了7枚奥运金牌，总共11枚奖牌。
+		4. Peter's videos racking up almost 2 million views in less than two months. /彼得的视频在不到两个月的时间里就获得了近 200 万次观看。
+		5. Its defence and space division also racked up an operating loss. /其国防和航天业务部门也出现了运营亏损。
+		6. The US is now $31.4 trillion in debt and is racking up even more. /美国现在有31.4万亿美元的债务，而且还在增加。
+		7. Lower rates mean that firms are more likely to **rack** **up** profits in the coming months. /更低的费率意味着各公司更有可能在未来的几个月里获得大量利润。
 	21. _off the rack_ 现成的
-	22. _pipe rack_ 烟斗架
-	23. _drying rack_ 晒衣架；干燥器
-	24. _wine rack_ 放葡萄酒的架子；酒架；壁挂酒架
-	25. _rack and pinion_ 齿条与齿轮
-	26. _trash rack_ 拦污栅
-	27. _rack and ruin_ 损坏；毁灭；荒芜；分崩离析
-	28. _roof rack_ 车顶行李架；行李架
-	29. _rack system_ 托架系统
-	30. _rack of lamb_ n. 小羊肋骨肉
-	31. _magazine rack_ 杂志架；期刊架；书报杂志架
-	32. _steering rack_ 转向齿条，转向器
-	33. He is racking up oceans of debt. 他债台高筑.
+		1. 现货的：指标准尺寸的商品，尤指服装；现成的。
+		2.  [off-the-rack](dic://off-the-rack), [off-the-shelf](dic://off-the-shelf), [off-the-peg](dic://off-the-peg), [ready-to-wear](dic://ready-to-wear)
+		3. _adj._ [ready-made](dic://ready-made)
+		4. _n._ [custom-made](dic://custom-made), [customized](dic://customized), [custom](dic://custom), [customised](dic://customised)
+		5. Let's take the clothes off the rack. /我们把衣服从晾衣架上拿下来吧。
+		6. Things off the rack without knocking a million things over. /从架子上取下东西，但不要打乱其它东西。
+		7. I have never seen something like that off the rack. /我从来没有见过现成的东西。
+		8. This way, Gianna could wear a shirt right off the rack and just adjust the one sleeve. /这样， Gianna 就可以直接穿一件现成的衬衫，只需调整其中一个袖子即可。
+	23. _pipe rack_ 烟斗架
+	24. _drying rack_ 晒衣架；干燥器
+	25. _wine rack_ 放葡萄酒的架子；酒架；壁挂酒架
+	26. _rack and pinion_ 齿条与齿轮
+	27. _trash rack_ 拦污栅
+	28. _rack and ruin_ 损坏；毁灭；荒芜；分崩离析
+		1. - 荒废：指事物因长时间未被照料或使用而逐渐破败、失修的状态。
+		2. That fellow Heyerdahl's assistant, he's letting his place go to rack and ruin; takes more interest in running about selling folk up. /海尔达尔的那个助手， 他正在让自己的位置破败不堪； 他更感兴趣的是跑来跑去卖人。
+		3. " I cannot let the country go to rack and ruin, even if that would please everybody" . /“我不能让这个国家走向崩溃和毁灭，即使这会让每个人都满意”。
+		4. The house went to **rack** **and** **ruin**. /这所旧的空房子很快就毁坏了。
+	29. _roof rack_ 车顶行李架；行李架
+	30. _rack system_ 托架系统
+	31. _rack of lamb_ n. 小羊肋骨肉
+	32. _magazine rack_ 杂志架；期刊架；书报杂志架
+	33. _steering rack_ 转向齿条，转向器
+	34. He is racking up oceans of debt. 他债台高筑.
 10. rich
 11. right
 
 
 ### rest- = stay, 表示“停留”，re- 向后 + st- 站。
 1. arrest
-	1. rearrest
-	2. arrestor
-	3. arrestment
-	4. arresting
-	5. arrester
-	6. arrestee
-2. rest
+	1. v. 逮捕，拘留；阻止，抑制；吸引；心跳停止
+	2. n. 逮捕，拘留；停止，终止
+	3. [apprehension](dic://apprehension), [catch](dic://catch), [collar](dic://collar), [pinch](dic://pinch), [taking into custody](dic://taking into custody)
+	4. [check](dic://check), [halt](dic://halt), [hitch](dic://hitch), [stay](dic://stay), [stop](dic://stop), [stoppage](dic://stoppage)
+	5. [collar](dic://collar), [nail](dic://nail), [apprehend](dic://apprehend), [pick up](dic://pick up), [nab](dic://nab), [cop](dic://cop)
+	6. [check](dic://check), [turn back](dic://turn back), [stop](dic://stop), [contain](dic://contain), [hold back](dic://hold back)
+	7. [catch](dic://catch), [get](dic://get)
+	8. [halt](dic://halt), [hold](dic://hold)
+	9. _n._ [capture](dic://capture), [gaining control](dic://gaining control), [seizure](dic://seizure), [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
+	10. _v._ [seize](dic://seize), [prehend](dic://prehend), [clutch](dic://clutch), [defend](dic://defend), [attract](dic://attract), [pull](dic://pull), [pull in](dic://pull in)
+		1. [arrest](dic://arrest) 指根据法律或命令进行逮捕并予以监禁或拘留。  
+		2. [capture](dic://capture) 指通过武力或计谋等，战胜抵抗而捉住敌人或动物。  
+		3. [catch](dic://catch) 普通用词，指捉住跑动或隐藏中的人或动物，一般指活捉。  
+		4. [seize](dic://seize) 侧重指以突然、有力地动作迅速抓住或捉住。  
+		5. [trap](dic://trap) 多指诱捕。
+	11. **police**警察，警方;**warrant**正当理由;**jail**监狱;**imprisonment**关押,监禁;**prosecution**起诉, 诉讼;**jailed**监禁的;**extradition**引渡逃犯;**kidnapping**诱拐;**conviction**确信, 坚定的信仰;**deportation**驱逐出境;**detention**拘留, 扣押;
+	12. they were arrested for robbery and kidnap. /他们因抢劫和绑架被捕。
+	13. rearrest
+	14. arrestor
+	15. arrestment
+	16. arresting
+	17. arrester
+	18. arrestee
+3. rest
 	1. unrest
 	2. restomycin
 	3. restless
