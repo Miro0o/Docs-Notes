@@ -51,12 +51,8 @@ Physical attacks typically involve the physical existence of an attacker, who th
 - Attacks at the console: These involve all attacks that involve physical access to the system, such as changing the password of an administrator user, planting a keylogger, extracting stored browser passwords, or the installation of backdoor.
 
 - Vishing. Vishing is the art of utilizing a recorded voice message or an individual calling the victim to extract information from a targeted victim or group of victims. Typically, Vishing involves a trustable script, for example, if company X announces a new joint venture with company Y, the staff will be curious about the future of both companies. This allows the attackers to call the victim directly with a pre-defined script as follows: "Hello, I am XX calling from Company Y, we have now been announced as a joint venture, so technically we are all the same team. Having said that, can you please let me know where your data centers are located and do provide me with list of mission-critical servers. If you are not the right person, can you point me to the right one. Many thanks, XX".
-
-
 ##### 👉 The Social Engineering Toolkit (SET)
 ↗ [SET (Social Engineering Toolkits)](../../../☠️%20Kill%20Chain/Social%20Engineering%20Tools/SET%20(Social%20Engineering%20Toolkits).md)
-
-
 ##### 👉 Gophish
 ↗ [Gophish](../../../☠️%20Kill%20Chain/Social%20Engineering%20Tools/Gophish.md)
 

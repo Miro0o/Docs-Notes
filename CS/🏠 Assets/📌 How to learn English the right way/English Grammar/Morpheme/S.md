@@ -612,6 +612,40 @@
 4. sun
 
 
+### saur-  = lizard, 表示“蜥蜴”。
+1. saurian
+	1. adj. 蜥蜴的；蜥蜴类的 
+	2. n. 蜥蜴；蜥蜴类
+	3.  [lacertilian](dic://lacertilian)
+	4. _n._ [diapsid](dic://diapsid), [diapsid reptile](dic://diapsid reptile)
+	5. _adj._ [lizard](dic://lizard)
+	6. **humanoid**像人的;**reptile**爬虫类的;**dinosaur**过时、落伍的人或事物;**lizard**蜥蜴;**creature**动物，生物;**reptiles**爬行类;**prehistoric**史前的;**fossil**化石;**ape**猿;**alien**外国的;**fossils**化石;
+	7. 
+3. brontosaurus
+4. dinosaur
+	1. - n. 恐龙；守旧落伍的人，过时落后的东西
+	2. dino-恐怖的 + saur-蜥蜴，用于指恐龙。
+	3. dinosaur（恐龙）：令人恐怖的蜥蜴  
+	4. 恐龙（dinosaur）这名字最早为英国科学家理查德•欧文（Richard Owen）在1842年创造，由希腊语deinos（恐怖的）和sauros（蜥蜴）组合而成，字面意思就是“令人恐怖的蜥蜴”。恐龙和蜥蜴拥有相同的祖先，虽然表面上和蜥蜴相似，但实际上其生物结构却远比蜥蜴、蛇、龟等先进。汉字“恐龙”是日本生物学家对dinosaur的翻译，后来被中国接受。实际上恐龙与中国的“龙”毫无相似之处。  
+	5. dinosaur：['daɪnəsɔː] n.恐龙，过时的人或事物  
+	6. saurian：['sɔrɪən] adj.蜥蜴的，蜥蜴类的n.蜥蜴，蜥蜴类  
+	7. tyrannosaurus：[tɪˌrænə'sɔ:rəs] n. 暴龙，霸王龙  
+	8. brontosaurus：[,brɑntə'sɔrəs] n. 雷龙
+	9. dinosaur - 恐龙的英文名称dinosaur是英国古生物学家欧文（Sir Richard Owen, 1804-1892）于1841年取的。在他看来这是一类极为恐怖的类蜥蜴爬行动物，所以根据希腊语里意为“恐怖的”的deinós和意指“蜥蜴”的sauros组合成dinosaur一词。从现代英语的构词法来看，dinosaur系由两个组合语素dino-（恐怖的）与-saur（蜥蜴）构成，含有“恐怖的蜥蜴”之义。其实欧文取的名字并不很恰当，因为恐龙和今天的蜥蜴之间没有特别密切的联系。
+	10. _n._ [archosaur](dic://archosaur), [archosaurian](dic://archosaurian), [archosaurian reptile](dic://archosaurian reptile)
+	11. **fossils**化石;**fossil**化石;**reptile**爬虫类的;**prehistoric**史前的;**Jurassic**侏罗纪的;**skeleton**骨架，骨骼;**penguin**企鹅;**lizard**蜥蜴;**mammal**哺乳动物;**turtle**海龟;**gorilla**大猩猩;
+	12. 
+6. ichthyosaur
+7. megalosaurus
+8. plesiosaur
+9. pterosaur
+10. stegosaurus
+11. tyrannosaurus
+12. ankylosaur
+13. plesiosaurus
+14. psittacosaurus
+
+
 ### + \*saus- +
 1. **auster-** = severe, 表示“严重的”。源自希腊语 austeros "harsh."
 	1. austere 
@@ -2354,6 +2388,11 @@
 	20. simple
 		1. simply
 		2. simplistic
+			1. a. 过分简单化的
+			2. simple,简单的，单纯的，-istic,形容词后缀，词源同 artistic.
+			3. In contrast to simplistic expectations, the total amount of protofibrils and the amount of permeabilizing activity per mole protein in the protofibril fraction were reduced by the E46K mutation. /与过分简单化的期望相反，E46K突变减少了原纤维的总数和有孔道样结构的原纤维数。
+			4. Now, this might sound too simplistic to affect behavior. /这听起来，好像没那容易 可以影响行为。
+			5. That narrative is simplistic, and McGreevy complicates it. /这种说法过于简单，而麦克格里维则将其复杂化。
 		3. simplist
 		4. simplism
 		5. simplify
@@ -2479,45 +2518,74 @@
 ### + \*sene- +
 1. **sine-, sund-** 原始含义表示“分开的”，sine- 引申为“无”。源自拉丁语 sine "without."
 	1. sinecure
-		1. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
-		2. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的
-		3. sinecurist
+		1. 来自拉丁短语 beneficium sine cura,不用履行牧师职责的圣俸职务，来自 beneficium,圣俸，即benefice,sine,无，没有，cura,关心，关切，即 cure.后词义通俗化为挂名，闲职，吃空饷。
+		2. sinecure - sinecure是个拉丁借用词。在拉丁文中sine意为without（没有），cūrā意为care（关心，照管），短语sine cūrā则是without care（不费心的，不操心的）的意思。英语把这个短语合为一词sinecure，早先用以指教会中不担任教化工作但却领取干薪的牧师职位，现在则泛指工作清闲而报酬优厚的职位，即“闲职”或“挂名差事”。  
+		3. 英语另有几个单词也源出拉丁语cūrā，如curator，即a person who takes“care”of a museum or library（博物馆或图书馆馆长）；curate，即a person who takes“care”of souls（助理牧师）；cure，即bring health to someone by taking“care”of him（治愈）。从含义上来看，这三个词和care多少是有联系的。
+		4. _n._ [benefice](dic://benefice), [ecclesiastical benefice](dic://ecclesiastical benefice), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office), [spot](dic://spot)
+		5. **patronage**赞助;**ministerial**牧师的;**stipend**固定薪金;**tenure**占有;**bureaucrat**官僚作风的人;**part-time**兼职的
+		6. He condemned parliamentary sinecures and argued that too many ministers were in the pocket of the Crown /他谴责议会中的尸位素餐者，并争辩说太多的大臣来自国王的口袋名单。
+		7. sinecurist
 			1. _[sinecurist](dic://sinecurist)_  n. 担任闲职的人员，任闲职的人
-	2. sunder
-		1. _v._ [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise)
-		2. **king**国王;**slay**杀害;
-		3. sundry
+	3. sunder (untether, sunder)
+		1. vt. 切开；切断 
+		2. vi. 分离；断开
+		3. _v._ [break up](dic://break up), [fragment](dic://fragment), [fragmentize](dic://fragmentize), [fragmentise](dic://fragmentise)
+		4. **king**国王;**slay**杀害;
+		5. Nothing can sunder our friendship. /什么也不能破坏我们的友谊。
+		6. The fleet of feet on flights of fancy step up to new wonders, torn to sunder are the records under shoes of record records. /飞驰的脚步踏上奇特的旅程，迈向新的奇迹，在创纪录的鞋子下撕碎记录。
+		7. 
+		8. sundry
 			1.  [assorted](dic://assorted), [miscellaneous](dic://miscellaneous), [mixed](dic://mixed), [motley](dic://motley)
 			2. _adj._ [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
 			3. _n._ [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
 			4. **assorted**混杂的;**various**各种各样的;**miscellaneous**多方面的;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**all**全部的;**other**其他的，另外的;**numerous**许多的，很多的;**plethora**过剩;**aforesaid**上述的;
 			5. _sundry goods_ 杂货
 			6. _all and sundry_ 全部，所有的人
-		4. asunder
-			1. [apart](dic://apart)
-			2. _adj._ [separate](dic://separate)
-			3. _n._ [joint](dic://joint)
-			4. **apart**分离着;**torn**扯裂，撕开;**tore**撕开;**tear**撕掉，扯下;**tearing**痛苦的;**together**一起;**rip**撕;**unite**使…混合;**split**劈开;
-			5. _[split asunder](dic://split%20asunder)_  分裂; 撕裂;
-			6. _[take asunder](dic://take%20asunder)_ 拆开
-			7. _[wide as the poles asunder](dic://wide%20as%20the%20poles%20asunder)_ 南辕北辙
-			8. _[asunder in a piece](dic://asunder%20in%20a%20piece)_ 分离
-			9. 
+			7. a purse containing keys, wallet, and sundry items. /装了钥匙、钱包和各种杂七杂八东西的小包
+			8. This cream can be used to treat sundry minor injuries. /这种药膏可用来治各种轻伤。
+			9. "Chinese sundry secret laborious " account: The daughter Liang Nvying that emperor of post of the Eastern Han Dynasty wants to establish imperatorial Liang Shang is empress. /《汉杂事秘辛》记载：东汉桓帝要立大将军梁商的女儿梁女莹为皇后。
+			10. But when did the news, in all of these varied and sundry forms, become integral to our lives? /但是，新闻是什么时候以各种各样的形式成为我们生活中不可或缺的一部分的呢？
+			11. I was revolving sundry matters in my mind. /我脑子里想着各种各样的事情。
+			12. The club is open to all and **sundry** /这个俱乐部什么人都可以加入。
+		9. asunder
+			1. adv. 化为碎片地，被撕裂；（诗/文）分开地，分离地 
+			2. adj. 化为碎片地，被撕裂；（诗/文）分开地，分离地
+			3. [apart](dic://apart)
+			4. _adj._ [separate](dic://separate)
+			5. _n._ [joint](dic://joint)
+			6. **apart**分离着;**torn**扯裂，撕开;**tore**撕开;**tear**撕掉，扯下;**tearing**痛苦的;**together**一起;**rip**撕;**unite**使…混合;**split**劈开;
+			7. _[split asunder](dic://split%20asunder)_  分裂; 撕裂;
+			8. _[take asunder](dic://take%20asunder)_ 拆开
+			9. _[wide as the poles asunder](dic://wide%20as%20the%20poles%20asunder)_ 南辕北辙
+			10. _[asunder in a piece](dic://asunder%20in%20a%20piece)_ 分离
+			11. Many of your families have been torn asunder. /你们许多家庭都被弄得四分五裂
+			12. What man has joined, nature is powerless to put asunder /这种人造的联系木是自然所能够拆散的。
+			13. I stopped in my tracks, my heart torn asunder; but still I did not understand. /我停止了我的追踪，我的心碎成了片，但我仍然不明白是怎么回事。
+			14. Even Jordan's party, the quartet from East Egg, were rent asunder by dissension. /连乔丹的那一伙，从东卵来的那四位，也由于意见不和而四分五裂了。
+			15. Many of your families have been torn asunder. A week ago, a student was taken from our midst. /你们许多家庭都被弄得四分五裂。一星期前，我们中间的一位同学被夺去了生命。"
+			16. But if the fixation on law and order brought Sessions and Trump together, it is also what has rent them asunder. /然而，如果说对法律和秩序的执着让塞申斯和特朗普走到了一起，那么，让两人分道扬镳的也是这一执着。
+			17. And now comes death to snap us asunder! /现在死亡来把我们撕成碎片！
 
 
 ### + \*sent- + = to go
 1. **sens-, sent-** = feel, 表示“感觉”。源自拉丁语 sentire "to feel."
 	1. assent
-		1.  [acquiescence](dic://acquiescence)
+		1. [acquiescence](dic://acquiescence)
 		2. [accede](dic://accede), [acquiesce](dic://acquiesce)
 		3. _n._ [agreement](dic://agreement)
 		4. _v._ [agree](dic://agree)
 		5. _n._ [dissent](dic://dissent)
 		6. **consent**同意;**tacit**缄默的;**ratification**正式批准;**acknowledgment**承认;**unequivocal**只有一种含意的;**ratify**批准;**acceptance**接受, 认可;**approval**赞成;**affirmation**肯定;**unanimous**全体一致的;**proclamation**宣布,声明,公告;
-		7. unassented
-		8. assentor
-		9. assentient
-		10. assentation
+		7. gave my assent to the plan. /我对计划表示同意
+		8. reached assent on a course of action. /就行动进程达成一致意见
+		9. the third party assents thereto. /第三方对此表示赞同。
+		10. There was a dull murmur of assent throughout the class. /班里响起一片喃喃表示肯定的声音。
+		11. There was a murmur of assent and everybody moved forwards to collect one from the basket. /一片赞同声，人人上前从篮里拿了一枚金币。
+		12. There was a time when certain elementary rules of human intercourse were enforced in this society by popular assent. /曾经有一段时间，一些人际交往的基本礼节因为公众的舆论而在这个社会得以实行。
+		13. unassented
+		14. assentor
+		15. assentient
+		16. assentation
 	2. desnesitise
 	3. dissent
 		1. [protest](dic://protest), [objection](dic://objection)
@@ -2527,11 +2595,15 @@
 		5. _v._ [disagree](dic://disagree), [differ](dic://differ), [take issue](dic://take issue), [oppose](dic://oppose), [controvert](dic://controvert), [contradict](dic://contradict)
 		6. _n._ [assent](dic://assent), [accede](dic://accede), [acquiesce](dic://acquiesce)
 		7. **opposition**反对;**discontent**不满;**disagreement**分歧, 意见不合;**protest**抗议;**outrage**暴行;**dissident**有异议的;**defiance**蔑视;**indignation**愤怒, 愤慨, 气愤;**disapproval**不赞同, 反对;**protests**抗议;**hostility**敌意;
-		8. dissension
-		9. dissenting
-		10. dissentiente
-		11. dissentient
-		12. dissenter
+		8. he gestured his dissent at this. /他做了个表示不同意的手势。
+		9. two members dissented from the majority. /有两个成员不同意大多数人的意见。
+		10. The regime ruthlessly suppresses all dissent. /这个政权残酷压制所有不同意见。
+		11. Universities are supposed to encourage dissent. /大学应该鼓励不同的声音。
+		12. dissension
+		13. dissenting
+		14. dissentiente
+		15. dissentient
+		16. dissenter
 	4. nonsense
 		1. nonsensical
 		2. nononsense
@@ -2568,19 +2640,39 @@
 			1. _adj._ [sentient](dic://sentient), [animate](dic://animate)
 			2. _n._ [insentient](dic://insentient), [insensate](dic://insensate)
 			3. **senses**感觉;**sensual**感觉的;**transcendental**超凡的;**perceptual**知觉的,有知觉的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**tactile**触觉的，有触觉的;**transcendent**卓越的;**consciousness**意识;**sensory**感觉的;**experiential**经验的,经验上的,根据经验的;
-			4. sensation
-				1. subsensation
-				2. sensational
-					1. sensationalize
-					2. sensationalist
-					3. sensationalism
-				3. paleosensation
-			5. insensate
+			4. the infant stretches, sensate, wakening. /婴儿伸展着，感觉着，醒来了。
+			5. you are immersed in an illusionary, yet sensate, world. /你们沉浸在一个虚幻的却能感觉到的世界里。
+			6. This is made clear not only by the interactions between the sensates, but maybe even more so by the interactions between the sensates and their significant others. /这点不仅通过通感者之间的互动而变得明确，通感者与其他重要的人之间的互动更是如此。
+			7. sensation
+				1. _n._ [perception](dic://perception), [expert](dic://expert), [stir](dic://stir), [excitement](dic://excitement), [excitation](dic://excitation), [inflammation](dic://inflammation), [fervor](dic://fervor)
+				2. **tingling**发出叮当声;**discomfort**不舒适;**numbness**麻木;**phenomenon**现象;**feeling**感觉，触觉;**euphoria**精神欢快，欣快;**arousal**激励;**ecstasy**狂喜;**jolt**使颠簸;**sensational**轰动的;**thrill**激动;
+				3. _pleasant sensation_ 快感
+				4. _visual sensation_ 视觉
+				5. _tactile sensation_ 触觉；质感
+				6. _auditory sensation_ 听觉
+				7. subsensation
+				8. sensational
+					1. _adj._ [lurid](dic://lurid), [shocking](dic://shocking), [scandalmongering](dic://scandalmongering), [sensationalistic](dic://sensationalistic), [impressive](dic://impressive)
+					2. _n._ [unsensational](dic://unsensational), [unimpressive](dic://unimpressive)
+					3. **stunning**极好的;**spectacular**壮观的, 雄伟的, 引人入胜的;**thrilling**令人兴奋的;**breathtaking**令人赞叹的;**mind-blowing**引起幻觉的,使兴奋的;**dazzling**耀眼的;**captivating**迷人的;**astonishing**惊人的;**eye-catching**令人注意的;**unbelievable**难以置信的;**superb**极好的;
+					4.  a sensational account of a murder/谋杀案耸人听闻的报道
+					5. cheap sensational periodicals. /廉价煽情杂志。
+					6. sensational journalistic reportage of the scandal. /对丑闻的耸人听闻的报刊报道
+					7. We attended a sensational concert—one never to be forgotten. /我们参加了一个壮观的音乐会——决不会被忘记的音乐会
+					8. sensationalize
+					9. sensationalist
+					10. sensationalism
+				11. paleosensation
+			10. insensate
+				1. _dj._ [unfeeling](dic://unfeeling), [inhumane](dic://inhumane)
+				2. _n._ [humane](dic://humane)
+				3. **senseless**无感觉的;**helpless**无助的;**numb**使麻木;**callous**起老茧的;**inhuman**无人性的;**motionless**不动的,静止的;**wretched**可怜的;**inanimate**无生命的;**unconscious**失去知觉的;**abject**卑贱的;**agony**极大的痛苦;
+				4. 
 		12. sensus
 			1. -n. 感觉
 			2. sensuous
 			3. sensuously
-		14. sensual
+		13. sensual
 			1. adj. 感官的，愉悦感官的；肉欲的，性感的；喜爱感官享受（尤指情欲）的
 			2. [animal(a)](dic://animal(a)), [carnal](dic://carnal), [fleshly](dic://fleshly)
 			3. [sultry](dic://sultry)
@@ -2602,7 +2694,7 @@
 			19. pretersensual
 			20. consensual
 			21. etc..
-		16. sensor
+		14. sensor
 			1. thermosensor
 			2. sensorivasomotor
 			3. sensorium
@@ -2611,6 +2703,9 @@
 			6. sensorimetabolism
 			7. sensoriglandular
 			8. sensorial
+				1. In nocebo mode, it creates this sensorial experience of hyperallergy. /在非安慰剂模式下，头盔可以创造超敏的感官体验。
+				2.  Not only in immersive room, but the creation of different sensorial experiences. /除了沉浸式房间，这里还创造出了不同的感官体验。
+				3. Great first rider with plenty of **sensorial** gadgets. /伟大的第一车手小工具很多感官。
 			9. psychosensorial
 			10. piezosensor
 			11. photosensor
@@ -2619,7 +2714,7 @@
 			14. hygrosensor
 			15. biosensor
 			16. etc..
-		17. sensitize
+		15. sensitize
 			1. sensitizing
 			2. sensitizin
 			3. sensitizer
@@ -2629,7 +2724,7 @@
 			7. desensitize
 			8. cosensitize
 			9. autosensitized
-		18. sensitive
+		16. sensitive
 			1. uviosensitive
 			2. thermosensitive
 			3. supersensitive
@@ -2637,8 +2732,8 @@
 			5. insensitive
 			6. oversensitive
 			7. etc..
-		19. sensing
-		20. sensible
+		17. sensing
+		18. sensible
 			1.  (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible)
 			2. a. 理智的, 明智的; 实用耐穿的
 			3.  [reasonable](dic://reasonable)
@@ -2659,14 +2754,14 @@
 			15. sensibility
 			16. rachisensible
 			17. insensible
-		22. senses
-		23. senseless
-		24. missense
+		19. senses
+		20. senseless
+		21. missense
 			1. n. [生]错义
 			2. adj. 错义的
-		25. direction-sense
-		26. antisense
-	8. sentence
+		22. direction-sense
+		23. antisense
+	10. sentence
 		1. 来自古法语 sentence,裁决，判断，决定，来自拉丁语 sententia,裁决，决定，表达思想，现在分词格名词形式于 sentire,感觉，感知，发表意见，来自 PIE*sent,感觉，词源同 sense.引申词义教条，训导，格言等。后主要用于语法格指句子，即一个完整的表达。
 		2. n. 句子, 命题, 宣判  
 		3. vt. 宣判, 判决
@@ -2707,7 +2802,7 @@
 		19. sentencing
 		20. presentence
 		21. matrixsentence
-	10. sentience
+	11. sentience
 		1. - n. 感觉性；感觉能力；知觉
 		2. **sentient**有感觉力的;**consciousness**意识;**beings**人;**humans**人类;**non-human**非人类的;**humanity**人类;**immortality**不朽,不朽的声名;**humanoid**像人的;**self-awareness**自我意识;**superhuman**超人的;**intellect**智力;
 		3. [consciousness](dic://consciousness), [faculty](dic://faculty), [mental faculty](dic://mental faculty), [module](dic://module), [animateness](dic://animateness), [aliveness](dic://aliveness), [liveness](dic://liveness)
@@ -2757,7 +2852,7 @@
 		14. Apparently a number of other experts shared that sentiment. /似乎有些专家也持同样的观点。
 		15. sentimental
 		16. presentiment
-	14. sentry
+	13. sentry
 		1. n. 哨兵, 步兵
 		2. [lookout](dic://lookout), [lookout man](dic://lookout man), [sentinel](dic://sentinel), [watch](dic://watch), [spotter](dic://spotter), [scout](dic://scout), [picket](dic://picket)
 		3. [watchman](dic://watchman), [watcher](dic://watcher), [security guard](dic://security guard)
@@ -2765,7 +2860,7 @@
 		5. _stand sentry_ 站岗，守卫
 		6. _sentry box_ 岗亭
 		7. _stand sentinel_ 站岗，放哨，守卫
-	15. sentinel
+	14. sentinel
 		1. 来自中古法语 sentinelle,来自拉丁语 sentinella,哨兵，可能来自拉丁语 sentire,感觉，听，看，词源同 sense.
 		2. n. 哨兵
 		3. vt. 守卫，放哨
@@ -2780,10 +2875,10 @@
 		12. Their wakeful sentinel had descried danger, and this was his warning. /他们那警觉的岗哨发现有危险情况，发出警报。
 		13. Shanghai watches for 15 categories of infectious disease at more than 5,700 sentinel sites. /上海设立了超过5700个哨点，密切关注15类传染病。
 		14. We are through the line of sentinels. Everything depends on speed. Hurry on! /咱们已经闯过了警戒线了。一切就靠迅速了，快跑！
-	16. insincerely
-	17. sensitimeter
-	18. sensitometric
-	19. sensory
+	15. insincerely
+	16. sensitimeter
+	17. sensitometric
+	18. sensory
 		1. adj. 感觉的；知觉的；传递感觉的
 		2. [centripetal](dic://centripetal), [receptive](dic://receptive)
 		3. [sensorial](dic://sensorial)
@@ -2798,8 +2893,8 @@
 		12. viscerosensory
 		13. vasosensory
 		14. etc...
-3. send
-4. widdershins
+4. send
+5. widdershins
 
 
 ### + \*sep- + = to taste, perceive
@@ -3877,31 +3972,53 @@
 		3. inscriptive
 		4. inscription
 	9. prescribe
-		1. vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
-		2. 1 - pro-,在前，提前，-scribe,写，词源同 describe,prescribe.即写在前面的话，说在前面的丑话，引申词义禁令，禁止。
-		3. prescript
-		4. prescription
-		5. prescriptive
+		1. v. 给……开（药），让……采用（疗法）；开处方；规定，命令；制定规定；推荐，推举
+		2. _v._ [inflict](dic://inflict), [bring down](dic://bring down), [visit](dic://visit), [impose](dic://impose)
+		3. **prescription**处方;**administer**管理, 支配;**medication**药物治疗;**dispense**分配，分发;**impose**强加;**regulate**调节，规定;**dictate**命令;**authorize**授权, 批准;**consult**查阅;**enforce**强迫，强制;**formulate**构想出, 规划;
+		4. _prescribe for_ 开处方，开药方
+		5. the doctor prescribed a course of antibiotics /医生开了一个疗程的抗生素。
+		6. The doctor prepared to prescribe a receipt./医生准备开个药方。
+		7. The researchers are not prescribing a change from busy to bare rooms. /研究人员并没有表明精心布置的教室需要改变。
+		8. This is why it was initially prescribed for pain relief. /这就是为什么它最初会用来缓解疼痛。
+		9. Therefore, medications like ACE inhibitors and diuretics may be prescribed. /因此，可施用如ACE抑制剂和利尿剂等处方药。
+		10. 
+		11. prescript
+		12. prescription
+		13. prescriptive
 			1. _n._ [descriptive](dic://descriptive)
 			2. **descriptive**说明的;**prescribe**开药方;**dogmatic**教条的;**normative**标准的;**pragmatic**务实的;**restrictive**限制的;**interpretive**说明的;**concise**简明的，简洁的;**succinct**简洁的;**authoritative**权威性的;**explanatory**解释的, 说明的;
 				1. _[prescriptive](dic://prescriptive)_  adj. 规定的，规范的；指定的
 				2. _[prescriptive right](dic://prescriptive%20right)_  [法] 因时效而取得的权利；法定期限权
 				3. _[prescriptive rules](dic://prescriptive%20rules)_  法定规则
 				4. _[prescriptive linguistics](dic://prescriptive%20linguistics)_  [语] 规范语言学; [语] 规定语言学;
-		6. imprescriptible
-		7. imprescriptibility
-	10. transcribe
-		1. transcript
+		14. imprescriptible
+		15. imprescriptibility
+	11. imperscriptible
+	12. proscribe
+		1. vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
+		2. 1 - pro-,在前，提前，-scribe,写，词源同 describe,prescribe.即写在前面的话，说在前面的丑话，引申词义禁令，禁止。
+		3. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
+		4. **prescribe**开药方;**prohibit**阻止，禁止;**restrict**限制;**forbid**禁止;**curtail**截断, 缩短;**confine**限制;**condemn**判刑，定罪;**forbade**禁止;**forbidding**冷峻的;**legislate**制定法律;**regulate**调节，规定;
+		5. In industry parlance, these groups were designated as " proscribed" . /按照业界的说法，这些组织被指定为“被禁止的”。
+		6. While governments might make a distinction between proscribed and criminal groups, kidnappers don't. /虽然政府可能会对被禁组织和犯罪集团做出区分，但绑架者不会。
+		7. The boy was not making sense. " The Warrior's Sons were proscribed three hundred years ago" . /" 战士之子三百年前就被废黜了。"
+		8. " No matter, " said Homais. " I am surprised that in our days, in this century of enlightenment, anyone should still persist in proscribing an intellectual relaxation that is inoffensive, moralising, and sometimes even hygienic; is it not, doctor" ?  /" 没关系！" 奥默说， " 我觉得奇怪的是，到了今天，到了一个光明的世纪，既然可以读《圣经》，为什么要禁止看放松精神的戏剧，禁止读无害而有益健康的文学、读警恶扬善的文学呢？ 博士，你说呢？"
+	13. transcribe
+		1. v. （逐字逐句）记录；改写成，译成（另一种语言）；改编（乐曲）；用音标标音；誊写，抄写；抄录（乐曲），录（音）；（生化）转录
+		2. _v._ [write down](dic://write down), [set down](dic://set down), [get down](dic://get down), [put down](dic://put down), [rewrite](dic://rewrite), [adapt](dic://adapt), [accommodate](dic://accommodate)
+		3. **transcription**抄本;**decipher**译解;**translate**翻译;**compose**作曲;**recite**背诵;**transcript**抄本;**verbatim**逐字地;**write**写，写字;**handwritten**手写的;**memorize**记住，背熟;**synthesize**合成;
+		4. a word transcribed literatim. /逐字抄下的词
+		5. It isn't transcribing your words or entire sentences. /它没有转录你说的单词或整个句子。
+		7. transcript
 			1. transcriptive
 			2. transcription
 				1. transcriptional
 				2. teletranscription
 			3. transcriptase
-		2. transcriptome
-		3. transcripton
-		4. transcriptor
-	11. imperscriptible
-	12. subscribe
+		8. transcriptome
+		9. transcripton
+		10. transcriptor
+	15. subscribe
 		1. ubsubscribe, unsubscripted
 		2. subscriber
 		3. oversubscribe
@@ -3911,11 +4028,11 @@
 		7. subscript
 		8. subscription
 			1. oversubscription
-	13. superscribe, superscription
-	14. escribe
+	16. superscribe, superscription
+	17. escribe
 		1. vt. 作（圆）旁切
 		2. escritoire
-	15. manuscript
+	18. manuscript
 		1. _n._ [writing](dic://writing), [written material](dic://written material), [piece of writing](dic://piece of writing), [autograph](dic://autograph)
 		2. **unpublished**未出版的,未出版发行的;**publication**出版;**authorship**著述;**copy**复制;**drafts**精绵;**book**书籍;**novel**新奇的;**handwritten**手写的;**writing**笔迹;**publishing**出版，出版业，出版社;**novella**短篇故事;
 		3. _original manuscript_ 原稿
@@ -3923,7 +4040,7 @@
 		5. To my mortification, my manuscript was rejected. /使我感到失面子的是:我的稿件被退了回来。
 		6. laboriously copying out an old manuscript /费劲地抄出一份旧的手稿
 		7. her autobiography remained in manuscript /她的自传还是手稿，尚未出版。
-	16. nondescript
+	19. nondescript
 		1. **unassuming**谦逊的;**unremarkable**寻常的,不值得注意的;**bland**乏味的;**drab**单调的;**forgettable**容易被忘的,可忘记的;**innocuous**无害的;**uninteresting**无趣的,令人厌倦的;**faceless**无个性的;**dreary**沉闷的，枯燥的;**obscure**模糊的;**seedy**多种子的;
 		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		3. [ordinary](dic://ordinary)
@@ -3932,16 +4049,16 @@
 		6. As in the case of Stella, a smart timid girl from a nondescript Midwestern town. /以史黛拉为例，她是来自中西部小镇的一个聪明、胆小的女孩。
 		7. Floating in the flood waters, it looks like nondescript vegetation until you notice it's moving. /它漂在水上的时候就像普通的植物一样，但你会发现它在动。
 		8. Yeah, Of think I saw that next to that ambiguous vague thing by the nondescript place /那条我看到，名状的，无特徵的，是放在那个不确定的地方边上，那个不知道是什么东西的旁边
-	17. rescript
+	20. rescript
 		1. n. 法令；布告；抄件
 		2. [decree](dic://decree), [edict](dic://edict), [fiat](dic://fiat), [order](dic://order) 
 		3. [revision](dic://revision), [revisal](dic://revisal), [revise](dic://revise)
 		4.  [rewrite](dic://rewrite), [revision](dic://revision)
 		5. _n._ [answer](dic://answer), [reply](dic://reply), [response](dic://response), [act](dic://act), [enactment](dic://enactment), [rewriting](dic://rewriting), [revising](dic://revising)
 		6. **decree**法令;**decrees**法令;**proclamation**宣布,声明,公告;**emperor**皇帝，君主;**writ**令状;**declaration**宣布, 宣告, 声明;**memorandum**记录;
-	18. typescript
-	19. typoscript
-	20. descry
+	21. typescript
+	22. typoscript
+	23. descry
 		1. des-强调 + cry【尖叫】。引申词义突然看到，尖叫。
 		2. vt. 看见；发现；察看
 		3. [spot](dic://spot), [espy](dic://espy), [spy](dic://spy)
@@ -3957,9 +4074,9 @@
 		13. Following the sound, Mr. Bumble raised his head and descried a man looking out of a door, breast-high, on the second story. /顺着声音，班布尔先生抬起头，看到二楼有一个齐胸高的男人正从门外张望。
 		14. descrier
 		15. descried
-	21. festschrift
+	24. festschrift
 		1. n. 纪念文集；纪念论文集
-	22. scramble
+	25. scramble
 		2. 可能来自 scrabble 的鼻音形式，来自 scrabble,刮，擦，乱翻，乱打，引申诸相关比喻义。
 		3. v. 爬, 攀登; 抢夺; 艰难地（或仓促地）完成; 扰乱; 紧急起飞; 炒（蛋）  
 		4. n. 爬，攀登; 扰乱; 争抢; 摩托车越野赛; [美国英语]煎炒(鸡蛋)
@@ -3999,7 +4116,7 @@
 		38. scrambler
 		39. scrambled
 		40. descrambler
-	23. scrap
+	26. scrap
 		1. 来自 scrape 对词形式，来自 scrape,刮，擦，磨，引申词义碎片，废料，垃圾等。
 		2. n. （纸、布等的）碎片，小块；丝毫，一丁点；废品，废弃材料（=scrap metal）；吃剩的东西，残羹剩饭（scraps）；<非正式>小摩擦，小口角；<英，非正式>极瘦小的人（常指小孩） 
 		3. v. （因不切实际而）放弃，抛弃（计划、体系）；把（旧机器、旧汽车等当）作废料处理，报废；<非正式>打架，吵架；激烈竞争 
@@ -4032,7 +4149,7 @@
 		24. scrappy
 		25. scrapbook
 		26. scrap-iron
-	24. scrape
+	27. scrape
 		1. 来自古英语 scrapian,刮，擦，来自 Proto-Germanic*skrapona,刮，擦，来自 PIE*skerb,扩大形式自 PIE*sker,砍，切，削，刮，词源同 share,shear,scribe.引申诸相关词义。
 		2. v. 刮, 擦, 挖; 擦坏, 擦伤; 艰难取得; 挖坑  
 		3. n. 刮, 刮擦声; 擦伤, 擦痕; 困境
@@ -4087,7 +4204,7 @@
 			3. **sausage**香肠;**bacon**熏猪肉;**pancakes**薄烤饼;**brisket**胸肉;**lard**猪油;**waffles**华夫饼干;**sausages**香肠， 腊肠;**ham**火腿;**fried**油炸的，油煎的;**pancake**薄烤饼;**Philly**费城;
 		48. scraping
 		49. scraper
-	25. scrabble
+	28. scrabble
 		1. 改写自 scrape,刮，擦，-le,表反复。引申词义乱翻，乱找。
 		2. v. （忙乱地）扒寻，摸索；（为了找到或抓牢）抓，摸；（动物）用爪子乱抓，挣扎；乱涂；在……上乱扒；快爬；努力，尽力；苦求 
 		3. n. 抓，扒；摸索；努力，尽力；挣扎；涂鸦；（Scrabble）（商标）拼字游戏
@@ -4106,7 +4223,7 @@
 		16. scrabble about for sth. dropped under the table /扒来扒去(或摸索着)寻找掉在桌下的某物
 		17. The memory of thousands of years scrabbling for food faded /数千年艰苦觅食的记忆逐渐淡忘。
 		18. We're not playing naughty word scrabble. You just have a dirty mind /我们没玩什么“拼脏字”游戏，是你自己思想肮脏。
-	26. scratch
+	29. scratch
 		1. v. （用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）；（用爪子）抓，刨；（鸟、哺乳动物，尤指鸡）用嘴（或爪子）扒地找食物；寻觅（难找的人或物）（scratch for）；艰难生活（scratch along）；勾掉，划去（写下的字）；<非正式> 仓促写下；（用尖利物）刮擦出声音；<非正式> 取消，撤销（想法或计划）；<非正式>（使）退出比赛；（用刮擦技法）播放唱片 
 		2. n. （某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠；刮擦声 ；唱片的嚓嚓声（指唱片纹道与唱针的摩擦噪声）；刮擦（多用于快板乐中，用手制止唱片转动，使其来回移动发出有节奏的嚓嚓声的技巧）；（高尔夫）零让步（表明选手不弱，能在场上达到规定击球的次数）；<非正式> 钱 
 		3. adj. （球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫球员）无让杆的，无让步优待的；碰巧的；打草稿用的
@@ -4171,7 +4288,7 @@
 			1. n. 搔背用的小扒子
 		38. microscratch
 		39. backscratcher
-	27. scrawl
+	30. scrawl
 		1. 可能来自 scribe,写，拼写受影响于 sprawl,蔓延，杂乱无章的展开。引申词义潦草的写。
 		2. vt. 潦草地写
 		3. vi. 乱写
@@ -4666,18 +4783,28 @@
 ## so
 ### sol- = be accustomed, 表示“习惯”。
 1. insolence
-2. insolent
-	1. [impudent](dic://impudent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
-	2. [audacious](dic://audacious), [barefaced](dic://barefaced), [bodacious](dic://bodacious), [bald-faced](dic://bald-faced), [brassy](dic://brassy), [brazen](dic://brazen), [brazen-faced](dic://brazen-faced)
-	3. [disrespectful](dic://disrespectful), [unashamed](dic://unashamed)
-	4. **arrogant**自大的，傲慢的;**rebellious**叛逆的;**pompous**浮夸的;**defiant**挑衅的;**condescending**降低身份的,屈尊的;**cocky**自大的;**obnoxious**可憎的;**rude**粗鲁的;**belligerent**好战的;**cruel**残酷的，残忍的;**mischievous**淘气的, 顽皮的;
-	5. _[impertinence rude impolite insolent](dic://impertinence%20rude%20impolite%20insolent)_ 缺乏礼貌
-	6. insolently
-3. obsolesce
+2. insolent (insolent, obsolete, desolate)
+	1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous)
+	2. [impudent](dic://impudent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
+	3. [audacious](dic://audacious), [barefaced](dic://barefaced), [bodacious](dic://bodacious), [bald-faced](dic://bald-faced), [brassy](dic://brassy), [brazen](dic://brazen), [brazen-faced](dic://brazen-faced)
+	4. [disrespectful](dic://disrespectful), [unashamed](dic://unashamed)
+	5. **arrogant**自大的，傲慢的;**rebellious**叛逆的;**pompous**浮夸的;**defiant**挑衅的;**condescending**降低身份的,屈尊的;**cocky**自大的;**obnoxious**可憎的;**rude**粗鲁的;**belligerent**好战的;**cruel**残酷的，残忍的;**mischievous**淘气的, 顽皮的;
+	6. _[impertinence rude impolite insolent](dic://impertinence%20rude%20impolite%20insolent)_ 缺乏礼貌
+	7. His insolent manner really got my blood up. /他那专横的态度把我的肺都气炸了。
+	8. she hated the insolent tone of his voice. /她憎恶他声音里傲慢无礼的语调。
+	9. The bandit bared his teeth in an insolent smile. /那匪徒龇牙咧嘴地狞笑。
+	10. At these insolent words her anger rose. /听了这些傲慢无礼的话,她冒火了。
+	11. The reply was couched in insolent terms /回答措词蛮横。
+	12. You bastard, thought MaComber, you insolent bastard. /你这畜生，麦康伯想，你这神气活现的畜生。
+	13. " She is an insolent, giddy-headed thing, or perhaps worse" ! /" 蛮不讲理、杨花水性的东西！ 真不知道坏到什么程度！"
+	14. He was suspended from school for three days, and he returned more perverse and insolent than before. /曾罚他停学三天，再来以后，反而更加顽强乱暴了。
+	15. "Proud and **insolent** youth," said Hook, "prepare to meet thy doom." /“傲慢无礼的年轻人，”胡克说，“准备迎接你的厄运吧。”
+	16. insolently
+4. obsolesce
 	1. **obsolete**老式的;**inevitable**不可避免的, 必然发生的;**demise**死亡，终止;**technological**科技的;**consumerism**商品的消费和销售性服务;**deterioration**恶化,变坏;
 	3. obsolescent
 	4. obsolescence
-4. obsolete
+5. obsolete
 	1. [outdated](dic://outdated), [out-of-date](dic://out-of-date), [superannuated](dic://superannuated)
 	2. [disused](dic://disused)
 	3. **antiquated**陈旧的;**outdated**过时的;**archaic**古代的;**useless**无用的;**unusable**不能用的;**redundant**因人员过剩而被解雇的;**worthless**无价值的, 没有用处的;**superfluous**过多的;**irrelevant**不相干的,不相关的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**discarded**放弃的;
@@ -5188,15 +5315,16 @@
 			1. _adj._ [clear](dic://clear)
 			2. _n._ [unclear](dic://unclear)
 			3. **succinct**简洁的;**unambiguous**不含糊的;**concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**agreeable**欣然同意的;**lucid**易懂的;**eminently**很;**perceptive**敏感的;**straightforward**正直的, 坦率的;**utterance**说话;**expedient**应急有效的;
-	4. conspectus (synoptics)
-		1. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
-		2. **compendium**摘要,纲要;**monograph**专著,专论;**treatise**论文;**taxonomic**分类学的;**opus**作品;**taxon**分类单元;**catalogue**目录, 一览表;**corpus**文集;
-		3. _[Auditing Conspectus](dic://Auditing%20Conspectus)_ 审计学概论
-		4. _[Design conspectus](dic://Design%20conspectus)_ 设计概论
-		5. _[teaching conspectus](dic://teaching%20conspectus)_ 教学概论
-		6. conspicuous
+	4. conspectus
+		1. (compendium, precis, brief, synoptic, digest, abstract, conspectus, gist, summary, )
+		2. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
+		3. **compendium**摘要,纲要;**monograph**专著,专论;**treatise**论文;**taxonomic**分类学的;**opus**作品;**taxon**分类单元;**catalogue**目录, 一览表;**corpus**文集;
+		4. _[Auditing Conspectus](dic://Auditing%20Conspectus)_ 审计学概论
+		5. _[Design conspectus](dic://Design%20conspectus)_ 设计概论
+		6. _[teaching conspectus](dic://teaching%20conspectus)_ 教学概论
+		7. conspicuous
 			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, obtrusive, spectacular, impressive, overblown, striking)
-		7. perspicuous
+		8. perspicuous
 			1. (illustrative, perspicuous, lucid, pellucid, limpid, luculent, crystal clear, )
 			2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative) 
 			3. _adj._ [clear](dic://clear)
@@ -5204,7 +5332,7 @@
 			5. **succinct**简洁的;**unambiguous**不含糊的;**concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**agreeable**欣然同意的;**lucid**易懂的;**eminently**很;**perceptive**敏感的;**straightforward**正直的, 坦率的;**utterance**说话;**expedient**应急有效的;
 			6. it provides simpler and more perspicuous explanations than its rivals. /它提供的解释比对手们的更简单明了。
 			7. He pointed out the perspicuous perspective in front of people. /他指出了人们面前明晰的远景。
-	5. spectacle
+	6. spectacle
 		1. _n._ [sight](dic://sight), [display](dic://display), [presentation](dic://presentation), [blunder](dic://blunder), [blooper](dic://blooper), [bloomer](dic://bloomer), [bungle](dic://bungle)
 		2. **extravaganza**娱乐表演;**awe-inspiring**令人起敬畏心的;**spectacular**壮观的, 雄伟的, 引人入胜的;**grotesque**奇形怪状的;**farce**笑剧,闹剧,滑稽戏;**spectator**观众, 旁观者;**dazzling**耀眼的;**carnage**残杀;**splendor**光彩;**grandeur**庄严;**travesty**滑稽模仿;
 		3. spectate
@@ -5216,7 +5344,7 @@
 			3. _n._ [unimpressive](dic://unimpressive), [undramatic](dic://undramatic), [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
 			4. **breathtaking**令人赞叹的;**stunning**极好的;**magnificent**壮丽的;**awe-inspiring**令人起敬畏心的;**incredible**不能相信的, 不可信的;**fantastic**极好的;**splendid**辉煌的;**amazing**令人惊异的;**phenomenal**现象的;**marvelous**引起惊异的,不可思议的,非凡的;**impressive**给人印象深刻的, 感人的;
 		5. spectator,
-	6. speculate
+	7. speculate
 		1. _v._ [expect](dic://expect), [anticipate](dic://anticipate), [reason](dic://reason), [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate), [invest](dic://invest)[think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。  
 			1. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。  
 			2. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。  
@@ -5229,17 +5357,17 @@
 		3. speculation
 			1. _n._ [opinion](dic://opinion), [view](dic://view), [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [investment](dic://investment), [investment funds](dic://investment funds)
 			2. **rumors**谣传，流言;**rumor**谣言;**rumour**谣言;**conjecture**推测;**unsubstantiated**无事实根据的;**controversy**争论;**unconfirmed**未最后认可的;**wishful**渴望的，愿望的;**unfounded**无事实根据的;**rumoured**谣传的;**skepticism**怀疑论;
-	7. specter
+	8. specter
 		1. 1 - 来自拉丁语 spectrum,出现，显示，影像，鬼魂，幽灵，来自 specere,看，词源同 spectate,aspect.
 		2. [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [spectre](dic://spectre)
 		3. [ghost](dic://ghost), [shade](dic://shade), [spook](dic://spook), [wraith](dic://wraith), [spectre](dic://spectre)
 		4. _n._ [apparition](dic://apparition), [phantom](dic://phantom), [phantasm](dic://phantasm), [phantasma](dic://phantasma), [fantasm](dic://fantasm), [shadow](dic://shadow), [spirit](dic://spirit)
 		5. **looming**上现蜃景;**ominous**不祥的;**ghostly**幽灵的;**ever-present**经常存在的;**looms**织布机;**lingering**拖延的;**threat**威胁，恐吓;**menace**威胁;**impending**即将发生的;**haunting**不易忘怀的，萦绕于心头的;**ghosts**鬼;
 		6. spectre, spectra, spectral,
-	8. specular
+	9. specular
 		1. a. 镜子的, 镜子一般的, 会反射的
-	9. suspect
-	10. espy
+	10. suspect
+	11. espy
 		1. - e-,缓和语音，-spy,看，注视，词源同 spy,spectate.即观察，密切注意，后词义有所变化。
 		2. [descry](dic://descry), [spot](dic://spot), [spy](dic://spy)
 		3. _v._ [sight](dic://sight)
@@ -5247,7 +5375,7 @@
 		5. _[espy set eyes on](dic://espy%20set%20eyes%20on)_ 望见
 		6. _[espy catch sight of](dic://espy%20catch%20sight%20of)_ 探出; 窥见; 发现; 
 		7. _[descry espy make out see](dic://descry%20espy%20make%20out%20see)_ 看出
-	11. despise
+	12. despise
 		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite)
 		2. 1 - 来自古法语 despis,来自 de-,向下，-spis,看，词源同 special,spectator.即向下看，鄙视。
 		3. [contemn](dic://contemn), [scorn](dic://scorn), [disdain](dic://disdain)
@@ -5267,35 +5395,36 @@
 			6. despiteful, despicable,
 			7. spite, spiteful
 				1. 缩写自 despite,怨恨，憎恨。
-	12. respite
-		1. 1 - 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
-		2. n. （不快或困难的）暂缓，暂延；（做不喜欢的事之前的）暂缓，喘息 
-		3. v. <罕>暂缓执行（判决），暂缓履行（义务等）
-		4.  [reprieve](dic://reprieve)
-		5.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
-		6.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
-		7. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
-		8.  [reprieve](dic://reprieve)
+	13. respite
+		1. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, respite)
+		2. 1 - 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
+		3. n. （不快或困难的）暂缓，暂延；（做不喜欢的事之前的）暂缓，喘息 
+		4. v. <罕>暂缓执行（判决），暂缓履行（义务等）
+		5.  [reprieve](dic://reprieve)
+		6.  [recess](dic://recess), [break](dic://break), [time out](dic://time out)
+		7.  [suspension](dic://suspension), [reprieve](dic://reprieve), [hiatus](dic://hiatus), [abatement](dic://abatement)
+		8. _：_ [rest](dic://rest), [relief](dic://relief), [rest period](dic://rest period)
 		9.  [reprieve](dic://reprieve)
-		10. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
-		11. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
-		12. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
-		13. _[respite care](dic://respite%20care)_  临时看护
-		14. _[payment respite](dic://payment%20respite)_  延期付款
-		15. _[poverty respite](dic://poverty%20respite)_ 扶贫
-		16. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
-		17. _[respite centers](dic://respite%20centers)_ 休中心
-		18. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
-		19. _[respite service](dic://respite%20service)_ 暂托服务
-		20. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
-		21. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
-		22. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
-		23. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
-		24. The catch is that the respite does not last. /但问题是Xalkori对病情的缓解作用持续时间不长。
-		25. Any respite will probably prove short-lived, however. /然而，任何缓和期都可能是短暂的。
-		26. The weather has cooled in New South Wales after days of recordbreaking heat but there's been little respite. /在经历了几天创纪录的高温后，新南威尔士州的气温有所下降，但仍旧几乎没有缓解的迹象。
-		27. Oh, but for one short hour! a respite however brief! /哦，只有短短的一个小时！多么短暂的喘息时间啊！
-		28. Devaluation would only give the economy a brief **respite** /货币贬值只会给经济一个短时间的暂缓。
+		10.  [reprieve](dic://reprieve)
+		11. _n._ [relief](dic://relief), [ease](dic://ease), [pause](dic://pause), [interruption](dic://interruption), [break](dic://break), [intermission](dic://intermission), [suspension](dic://suspension)
+		12. _v._ [postpone](dic://postpone), [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back)
+		13. **reprieve**缓期执行;**solace**安慰;**refuge**避难;**oasis**绿洲;**relief**减轻，解除;**solitude**孤独;**retreat**撤退;**refreshment**茶点;**breather**呼吸者;**companionship**友谊;**sustenance**食物;
+		14. _[respite care](dic://respite%20care)_  临时看护
+		15. _[payment respite](dic://payment%20respite)_  延期付款
+		16. _[poverty respite](dic://poverty%20respite)_ 扶贫
+		17. _[respite hostel](dic://respite%20hostel)_ 暂居宿舍
+		18. _[respite centers](dic://respite%20centers)_ 休中心
+		19. _[Seeking Respite](dic://Seeking%20Respite)_ 寻找缓解
+		20. _[respite service](dic://respite%20service)_ 暂托服务
+		21. _[seek a respite through compromises](dic://seek%20a%20respite%20through%20compromises)_ 妥协苟安
+		22. _[Napper's Respite](dic://Napper%27s%20Respite)_ 火焰兵; 安眠睡帽; 
+		23. _[respite a payment](dic://respite%20a%20payment)_ 延期付款
+		24. _[respite care service](dic://respite%20care%20service)_ 照顾服务; 临时照顾服务;
+		25. The catch is that the respite does not last. /但问题是Xalkori对病情的缓解作用持续时间不长。
+		26. Any respite will probably prove short-lived, however. /然而，任何缓和期都可能是短暂的。
+		27. The weather has cooled in New South Wales after days of recordbreaking heat but there's been little respite. /在经历了几天创纪录的高温后，新南威尔士州的气温有所下降，但仍旧几乎没有缓解的迹象。
+		28. Oh, but for one short hour! a respite however brief! /哦，只有短短的一个小时！多么短暂的喘息时间啊！
+		29. Devaluation would only give the economy a brief **respite** /货币贬值只会给经济一个短时间的暂缓。
 7. spy
 
 
@@ -7971,7 +8100,7 @@
 	14. idiomorphism
 	15. etc..
 3. **sol-** = alone, 表示“独自、自己”，= be used to 习惯。源自拉丁语 solus "by oneself alone."
-	1. desolate
+	1. desolate (insolent, obsolete, desolate)
 		1. de-非常 + sol-单独 + -ate, 表形容词 → 非常单独 → 荒凉的。
 		2. desolator
 		3. desolation
@@ -8093,7 +8222,7 @@
 	4. _sibling rivalry_ 同胞争宠；手足之争
 	5. That's it. My father's dead, obviously, there are no siblings. /没有了，父亲去世了，我也没有兄弟姐妹。
 11. sodality
-	1.  来自拉丁语 sodalitatem,同伴，伴随，友情，兄弟之情，来自 sodalis,同伴，伴侣，来自 suescere,习惯于，习惯，来自 PIE*swe,自己，自身，词源同 self,custom,idiom.
+	1. 来自拉丁语 sodalitatem,同伴，伴随，友情，兄弟之情，来自 sodalis,同伴，伴侣，来自 suescere,习惯于，习惯，来自 PIE*swe,自己，自身，词源同 self,custom,idiom.
 	2. n. 友好, 伙伴关系, 慈善团体, 联谊会
 	3. [brotherhood](dic://brotherhood), [fraternity](dic://fraternity)
 	4. _n._ [class](dic://class), [social class](dic://social class), [socio-economic class](dic://socio-economic class)
@@ -8214,9 +8343,9 @@
 		11. The piece starts out innocuously enough, with an almost sultry little snake dance. /乐曲的开始并不激烈，略带一点妖娆的印第安蛇舞的韵味。
 		12. In summer, the temperature in the Taiga can soar to a sultry twenty degree Celsius. /夏季时，泰加林里的气温可上升到闷热的二十摄氏度。
 		13. For a seaside experience with a difference, head to the north or west to discover sultry black sand beaches. /若想尝试不一样的海边体验，可以前往北边或西边 体验燠热的黑沙滩。
-	2. sultrily
-	3. sultriness
-	4. swelter
+	3. sultrily
+	4. sultriness
+	5. swelter (welter)
 		1. _v._ [suffer](dic://suffer), [sweat](dic://sweat), [sudate](dic://sudate), [perspire](dic://perspire)
 		2. **scorching**极热的;**humid**潮湿的;**heat**热度;**chilly**寒冷的，凉飕飕的;**frigid**寒冷的，严寒的;**summertime**夏季;**summer**夏季;**air-conditioning**空调设备;**winter**冬季;**cold**寒冷的;**sweaty**出汗的;
 		3. stuffy, frowst, sultry, swelter, muggy
@@ -8333,7 +8462,8 @@
 ### + \*swep- +
 #### swep(1) = to throw, sling, cast
 1. dissipate (disperse, asperse, )
-	1. dis-,分开，散开，-sip,扔，分散。引申词义挥霍，浪费。
+	1. 
+	2. dis-,分开，散开，-sip,扔，分散。引申词义挥霍，浪费。
 	3. **evaporate**蒸发;**subside**平息;**disperse**使散开;**absorb**吸收;**vanish**消失;**diminish**使减少;**fade**褪色;**disappear**不见, 消失;**dissolve**使溶解;**radiate**传播;**intensify**增强, 加剧;
 	4. [separate](dic://separate), [divide](dic://divide), [part](dic://part), [split](dic://split), [consume](dic://consume), [squander](dic://squander), [waste](dic://waste)
 		1. _[dissipated power](dic://dissipated%20power)_  [电子] 耗散功率
@@ -8347,9 +8477,9 @@
 	10. The heat had to be dissipated by elaborate cooling systems. /热得用复杂的冷却装置散发。
 	11. And surface area limits how much body heat you can dissipate. /然而表面面积决定着身体的散热。
 	12. Soccer fans' passion will not easily dissipate. /球迷的热情不会轻易消退。
-	14. dissipator
-	15. dissipative
-	16. dissipation
+	13. dissipator
+	14. dissipative
+	15. dissipation
 		1. _n._ [dispersion](dic://dispersion), [scattering](dic://scattering), [intemperance](dic://intemperance), [intemperateness](dic://intemperateness), [self-indulgence](dic://self-indulgence), [activity](dic://activity)
 		2. **heat**热度;**dispersion**散布;**damping**阻尼;**convection**传送,对流;**evaporation**蒸发;**degradation**下降,降低;**cooling**冷却的;**thermal**热的，热量的;**leakage**泄漏;**entropy**熵;**attenuation**变薄,稀薄化,变细,衰减;
 		3. the dissipation of the country's mineral wealth. /对国家矿产资源的浪费。
@@ -8357,8 +8487,8 @@
 		5. But of course he'd ruined his constitution by drink and dissipation /当然喽，他喝酒作乐早把身体搞垮了。
 		6. Such materials can transport electricity without dissipation /这种材料可以不耗散地传输电力。
 		7. His brown skin showed no signs of dissipation /他棕色的皮肤没有消散的迹象。
-	17. dissipater
-	18. dissipated (voluptuous)
+	16. dissipater
+	17. dissipated (voluptuous)
 		1. a. 沉迷于酒色的, 闲游浪荡的, 消失的
 		2. _adj._ [immoral](dic://immoral), [indulgent](dic://indulgent)
 		3. _n._ [moral](dic://moral), [amoral](dic://amoral), [unmoral](dic://unmoral), [nonindulgent](dic://nonindulgent), [strict](dic://strict)
@@ -8396,13 +8526,14 @@
 	7. somnopath, somnipathy
 		1. n. 睡眠障碍
 	8. somnolency, somnolent
-		1. [slumberous](dic://slumberous), [slumbery](dic://slumbery), [slumbrous](dic://slumbrous)
-		2. **sleepy**困乏的;**restless**焦躁不安的;**hypnotic**催眠的，催眠术的;**slumber**睡眠;**hapless**运气不好的，倒霉的;**agitated**激动的;**nocturnal**在夜间的;**sluggish**萧条的;**blissful**充满喜悦的;**awake**觉醒，意识到;**disinterested**不感兴趣的;
-		3. _[somnolent state](dic://somnolent%20state)_ 啫睡状态; 嗜睡状态; 
-		4. _[dozy somnolent soporific](dic://dozy%20somnolent%20soporific)_ 想睡的
-		5. _[somnolent metabolic rate](dic://somnolent%20metabolic%20rate)_ 睡眠代谢率
-		6. _n._ 想睡,梦幻
-	9. sopite
+		1. (lethargic, somnolent, slumberous, hypersomnia, dozy,  slumbrous, slumbery)
+		2. [slumberous](dic://slumberous), [slumbery](dic://slumbery), [slumbrous](dic://slumbrous)
+		3. **sleepy**困乏的;**restless**焦躁不安的;**hypnotic**催眠的，催眠术的;**slumber**睡眠;**hapless**运气不好的，倒霉的;**agitated**激动的;**nocturnal**在夜间的;**sluggish**萧条的;**blissful**充满喜悦的;**awake**觉醒，意识到;**disinterested**不感兴趣的;
+		4. _[somnolent state](dic://somnolent%20state)_ 啫睡状态; 嗜睡状态; 
+		5. _[dozy somnolent soporific](dic://dozy%20somnolent%20soporific)_ 想睡的
+		6. _[somnolent metabolic rate](dic://somnolent%20metabolic%20rate)_ 睡眠代谢率
+		7. _n._ 想睡,梦幻
+	10. sopite
 
 
 ### + \*swer- +

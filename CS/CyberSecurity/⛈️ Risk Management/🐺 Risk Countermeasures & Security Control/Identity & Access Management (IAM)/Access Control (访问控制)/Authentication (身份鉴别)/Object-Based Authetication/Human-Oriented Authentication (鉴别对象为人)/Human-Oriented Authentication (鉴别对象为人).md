@@ -5,6 +5,10 @@
 
 
 ## Res
+### Related Topics
+↗ [Web Access Control](../../../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Access%20Control.md)
+↗ [Web Authentication Technologies & Frameworks](../../../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Technologies%20&%20Frameworks.md)
+
 
 
 ## Intro
@@ -20,45 +24,63 @@
 
 
 
-
-
-## Password Based (基于口令)
+## Basic Authentication Factors
+### 👉 Password Based (基于口令)
 Traditional password authentication is static, which is feasible to attack. That's where dynamic password authentication is adopted. 
 
 ↗ [Password Based Authentication (基于口令)](Password%20Based%20Authentication%20(基于口令)/Password%20Based%20Authentication%20(基于口令).md)
 
 
-
-## Biometrics (生物特征提取)
+### 👉 Biometrics (生物特征提取)
 ↗ [Biometrics Authentication](Biometrics%20Authentication%20(基于生物特征信息)/Biometrics%20Authentication.md)
 
 
-
-## Key Based (基于密钥)
+### 👉 Cryptographic Key /Token Based (基于密钥/令牌)
 ↗ [Key Based Authentication](Key%20Based%20Authentication%20(基于密码学原理)/Key%20Based%20Authentication.md)
+#### 👉 Anonymous Authentication
+#### 👉 Group Key Agreement
 
 
-
-## Identity Token Based (基于实物凭证)
+### 👉 Identity Token Based (基于实物凭证)
 ↗ [Identity Token Based Authentication (基于实物凭证)](Identity%20Token%20Based%20Authentication%20(基于实物凭证)/Identity%20Token%20Based%20Authentication%20(基于实物凭证).md)
 
 
-
-## Zero-Knowledge Proof (ZKP)
+### 👉 Zero-Knowledge Proof (ZKP)
 ↗ [Zero-Knowledge Proof (ZKP)](Zero-Knowledge%20Proof%20(ZKP)/Zero-Knowledge%20Proof%20(ZKP).md)
 
 
 
-## Anonymous Authentication
-
-
-
-## Group Key Agreement
-
-
 ## 2FA /Multi-factor Authentication
+**2FA Example: Authentication Tokens** (↗ [JWT (Json Web Token)](../../../../../../../Application%20Security/💉%20Web%20Security/🍭%20Web%20Application%20Security%20Mechanisms/Web%20Access%20Control/Web%20Authentication%20Technologies%20&%20Frameworks/Web%20Authentication%20Frameworks/JWT%20(Json%20Web%20Token).md))
+- Authentication token: A device that generates secure second-factor codes
+	- Something the user owns
+	- Examples: RSA SecurID and Google Authenticator
+- Usage
+	- The token and the server share a common secret key k
+	- When the user wants to log in, the token generates a code HMAC(k, time)
+		- The time is often truncated to the nearest 30 seconds for usability
+		- The code is often truncated to 6 digits for usability
+	- The user submits the code to the website
+	- The website uses its secret key to regenerate the code and compare
+- Drawback: Vulnerable to relay attacks
+- Drawback: Vulnerable to online brute-force attacks
+- Possible fix: rate limits
 
+**2FA Example: Security Keys** (↗ [Dongle](../../../../../../../../🔑%20CS%20Core/Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Dongle/Dongle.md))
+- Security key: A device designed to defend against phishing
+	- Something the user owns
+- Usage
+	- When the user signs up for a website, the security key generates a new public/private key pair and gives the public key to the website
+	- When the user wants to log in, the server sends a nonce to the security key
+	- The security key signs the nonce and website name (from the browser) and gives the signature to the server
+- Security keys prevent phishing
+	- In a phishing attack, the security key generates a signature with the attacker’s website name, not the legitimate website name
+		- Impervious to relay attacks!
+##### Subverting 2FA : Relay Attacks
+↗ [Cybersecurity Threats & Attacks](../../../../../../🐗%20Cybersecurity%20Threats%20&%20Attacks/Cybersecurity%20Threats%20&%20Attacks.md)
 
+![](../../../../../../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.37.10.png)
+##### Subverting 2FA : Social Engineering
 
 
 

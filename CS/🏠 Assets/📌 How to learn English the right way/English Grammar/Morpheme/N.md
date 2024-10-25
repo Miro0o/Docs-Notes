@@ -347,6 +347,35 @@
 		1. n. [气象] 云学
 
 
+### + \*ned- +
+1. **adnex-** 表示“附件”。源自拉丁语 nectere (过去分词 nexus) "to tie, bind, connect."
+	1. adnexa
+	2. adnexal 
+		1. (ancillary, incidental, contingent, annexal, adnexal)
+		2. adj. 附件的；附属器的
+		3. [annexal](dic://annexal)
+		4. _adj._ [adnexa](dic://adnexa), [annexa](dic://annexa)
+		5. **ovarian**卵巢的;**cystic**膀胱的，胆囊的;**uterine**子宫的;**cysts**囊;**cyst**胞,包囊,膀胱;**ocular**眼睛的;**pelvic**骨盆的;**metastases**移位变化;**lesion**损害;**ovary**子房;**malignant**有恶意的;
+		6. The vasculature of the dermis is particularly well developed at sites of **adnexal** structures /皮肤附属器部的真皮脉管尤其发达。
+		7. Syringoma, a benign **adnexal** tumor, mainly occurs on the periorbital area of middle-aged women. /汗管瘤是一良性皮肤附属器肿瘤，好发于中年妇女的眼睑四周。
+	4. adnexectomy
+	5. adnexitis
+	6. adnexogenesis
+2. **nect-, nex-** = bind, 表示“连结”。源自拉丁语 nectere (过去分词 nexus) "to tie, bind, connect."
+	1. connect
+		1. connection /connexion
+	3. annex
+	5. nexus
+	6. adiponectin
+	7. endonexin
+	8. fibronection
+	9. vitronectin
+3. net
+4. node
+5. noose
+6. 
+
+
 ### + \*nek- +
 #### + \*nek- (1) + = death
 1. **nec-, necro-** = die, 表示“死”。源自希腊语 nekro "corpse."

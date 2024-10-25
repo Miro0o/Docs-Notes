@@ -40,6 +40,9 @@ https://offer.gter.net/summary/Z8pDorvJyrj56IOSuzmbHV9eRRKhfH5rEWQ2MGQ~
 
 ## 🧔🏼‍♀️ Europe
 ### Europe Overview
+https://mp.weixin.qq.com/s/5SaU4nU76vLGH7LCR9PJBg
+
+
 ### 🇪🇺 Associated Programs 
 #### 👉 Erasmus Mundus
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
@@ -110,10 +113,9 @@ EIT Manufacturing（EIT制造）
 需要注意的是奖学金是**择优发放，** 这里给出几个往年获得奖学金的学生情况，供大家参考：  
 （1）北京航天航空大学[电子信息工程专业](https://www.zhihu.com/search?q=%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D),2019年毕业，**GPA 87.5/100 托福103,GRE** **321，** 被欧盟**EIT视觉计算和通信项目**，学制2年，并获得**奖学金24,000欧元；**  
 （2）[华北电力大学](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)（北京)[核工程与核技术专业](https://www.zhihu.com/search?q=%E6%A0%B8%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%A0%B8%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)，**GPA81.4/100**，**雅思7.5**，被欧盟**EIT核能硕士**录取，学制2年，并获得欧盟**奖学金30000欧元**  
-（3）[同济大学](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)[电气工程及其自动化专业](https://www.zhihu.com/search?q=%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E5%8F%8A%E5%85%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)；2019年毕业；**GPA 4.62/5.0 雅思 7，**被E**IT[嵌入式系统](https://www.zhihu.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)硕士**项目，学制2年，并获得 **奖学金24,000欧元**
+（3）[同济大学](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)[电气工程及其自动化专业](https://www.zhihu.com/search?q=%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E5%8F%8A%E5%85%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)；2019年毕业；**GPA 4.62/5.0 雅思 7，** 被E**IT[嵌入式系统](https://www.zhihu.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)硕士** 项目，学制2年，并获得 **奖学金24,000欧元**
 ##### EIT Digital /Masterschool
 https://masterschool.eitdigital.eu
-
 ###### Cyber Security
 ###### Cloud and Networking Infrastructure
 ###### Data Science
@@ -158,17 +160,22 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 https://www.kuleuven.be/english/application/FAQ
 - 可以之后申请APS
 - 可以同时申请多个项目
-##### Master of Engineering: Computer Science
+- **Motivation letter** (recommended length: one A4-page)
+
+https://www.kuleuven.be/english/apply/requested-documents#master
+Requested documents
+
+##### Master of Engineering: Computer Science (2 years)
+https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_52364422.htm#activetab=voorwaarden_1
+
 https://www.kuleuven.be/programmes/master-engineering-computer-science
 - The master of computer science programme, courses, and areas of specialisation are **strongly linked to the research groups**, guaranteeing state-of-the-art education in the field of computer science.
 - A significant number of courses are focused on **industry-relevant skills and content**. The high volume of industry-related research projects in the Department of Computer Science allows us to include relevant content in our courses. 
 - Students are also encouraged to carry out an **industrial and research internship abroad** under the supervision of the Internship Coordinator.
-##### Advanced Master of Cybersecurity
+##### Advanced Master of Cybersecurity (1 year)
 https://onderwijsaanbod.kuleuven.be/2024/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1
 
 https://www.kuleuven.be/programmes/master-cybersecurity#About
-
-https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1&bl=
 
 The admission policy is intended to ensure equal opportunity of access to higher education for qualified European and third country students. There are two ways to be admitted to the programme:
 
@@ -280,6 +287,9 @@ The Institution Code: 7806, Department: 5199 ("all other departments").
 #### 👉 Universität Heidelberg
 #### 👉 KIT, Karlsruhe Institute of Technology
 #### 👉 RWTH Aachen University
+##### Computer Science M.Sc.
+https://www.rwth-aachen.de/go/id/bcfg?lidx=1#aaaaaaaaaaabcfh
+
 #### 👉 Freie Universitaet Berlin
 #### 👉 Humboldt-Universität zu Berlin
 #### 👉 Ruhr-University Bochum
@@ -316,6 +326,10 @@ Given the very high selectivity of the PhD Tracks, it is strongly recommended th
 
 ### 🇨🇭 Switzerland
 #### 👉 ETH Zurich
+https://ethz.ch/staffnet/en/news-and-events/internal-news/archive/2024/10/dual-use-and-sanctions-these-applications-require-security-screening.html
+Dual use and sanctions: these applications require security screening
+
+---
 https://ethz.ch/en/studies/master/application/international-bachelor.html
 
 **International Bachelor's degrees: 1 - 30 November 2024**
@@ -337,6 +351,8 @@ All other candidates are also welcome to apply during this period. 
 | **Lectures begin**                                           | 16 September 2025                                                                                                   |
 ##### Computer Science
 ##### Cyber Security
+https://ethz.ch/en/studies/master/application/master-cybsec.html
+
 ##### Data Science
 
 #### 👉 EPFL École polytechnique fédérale de Lausanne
@@ -427,8 +443,18 @@ Netherlands universities **offer exemption from IELTS** if you are from Englis
 - I have written an article on how to **[Study in Netherlands Universities Without IELTS (2023)](https://link.zhihu.com/?target=https%3A//opportunitiescorners.com/study-in-netherlands-universities-without-ielts/)**
 #### 👉 University of Amsterdam (UvA)
 https://www.uva.nl/en
-##### Computer Science (joint degree UvA/VU)
+https://vu.nl/en/education/more-about/apply-masters-programme
+##### Computer Science (joint degree UvA/VU) (2 years)
 https://www.uva.nl/shared-content/programmas/en/masters/computer-science/study-programme/study-programme.html#Courses
+##### Software Engineering
+https://www.uva.nl/en/programmes/masters/software-engineering/software-engineering.html?origin=5BOaRAofTjCccATraJp2XA
+##### Security and Network Engineering
+https://www.uva.nl/en/programmes/masters/security-and-network-engineering/security-and-network-engineering.html?origin=5BOaRAofTjCccATraJp2XA
+##### Information Studies: Information Systems (track)
+https://www.uva.nl/en/programmes/masters/information-studies-information-systems/information-systems.html?origin=5BOaRAofTjCccATraJp2XA
+##### Information Studies: Data Science (track)
+https://www.uva.nl/en/programmes/masters/information-studies-data-science/data-science.html?origin=5BOaRAofTjCccATraJp2XA
+
 #### 👉 University of Twente
 ##### Master of Computer Science
 https://www.utwente.nl/en/education/master/programmes/computer-science/
@@ -457,10 +483,37 @@ Please note: admission for Non-EU nationals with an international (Non-Dutch) ba
 - Admission is granted to the best ranked students. Students who are ranked outside of the capacity receive a rejection letter.
 
 There will be no correspondence on ranking criteria or relative ranking numbers.
+#### 👉 Utrecht University
+##### Master of Computing Science
+https://www.uu.nl/en/masters/computing-science
 
+https://www.uu.nl/en/masters/computing-science/admission-and-application/degree-from-a-non-dutch-university
+
+The programme is build around [3 specialized tracks](https://www.uu.nl/en/masters/computing-science/tracks), each focussing on a different area of computing science. At the start of the programme you must select 1 track to determine the focus of your programme. The curriculum then consists of a 75 EC course part, followed by a 45 EC research part in year 2. 
+
+Course part (75 EC) The course part contains: 
+- 3 compulsory courses (22,5 EC)
+- 7 elective courses (52,5 EC)
 
 ### 🇩🇰 Danmark
 #### 👉 University of Copenhagen
+
+
+### 🇳🇴 Norway
+#### 👉 NTNU (Norway University of Science and Technology)
+**Verification reports of educational documents** (bachelor’s/undergraduate degrees). This only applies to applicants with a first degree from China or Pakistan: 
+- Applicants who have a **first degree from China** must [submit an application to CSSD.](https://www.chsi.com.cn/en/)  The document must be uploaded to Søknadsweb by the deadline 1 December.  
+- Applicants who have a **first degree from Pakistan** must submit an [application to HEC](http://www.hec.gov.pk/english/Pages/Home.aspx). Once the transcripts and diplomas have a HEC stamp, they must be uploaded to Søknadsweb by the deadline 1 December.
+##### Applied Computer Science 
+##### Information Security
+##### Information Security - Experience-based
+##### Digital Infrastructure and Cyber Security
+##### Informatics
+
+
+### 🇫🇮 Finland
+#### 👉 Aalto University
+https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes
 
 
 ### 🇸‍🇪 Sweden
@@ -468,7 +521,15 @@ There will be no correspondence on ranking criteria or relative ranking numbers.
 MSc Computer Simulations for Science and Engineering
 https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering
 
+https://www.kth.se/en/studies/master/admissions/entry-requirements-for-master-s-studies-1.6915
+
+The letter of motivation explains why you have chosen this programme at KTH, what you hope to gain from it and how your interests and skills will help you succeed in your studies. Include an autobiography with the development and relevance of your academic and professional pursuits, extra-curricular activities and related experiences. KTH does not require a standard template, but it must be in English and less than 500 words. If you apply to multiple programmes that require a letter of motivation, you should submit one for each and state which programme each letter applies to at the top of the page.
+##### Cybersecurity
+https://www.kth.se/en/studies/master/cybersecurity/entry-requirements-cybersecurity-1.1076016
+##### Computer Science
+
 #### 👉 Lund University
+
 #### 👉 Uppsala University
 
 
@@ -538,7 +599,7 @@ Visit the [department website](https://www.cs.wisc.edu/) for faculty interests
 - [Professional Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-professional-program-ms/) (MS Computer Sciences: Professional Program): This degree is designed for students who are primarily interested in a professional career as a computer scientist in a variety of industries. 
 - [Data Engineering MS](https://guide.wisc.edu/graduate/computer-sciences/data-engineering-ms/): A master’s program focused on principles and practices of managing large data sets.
 
-#### 👉 University of Washington (UW)
+#### 👉 University of Washington (UW) - Seattle
 🏫 https://www.washington.edu
 
 https://www.cs.washington.edu/academics/apply#GradInfo
@@ -548,6 +609,8 @@ https://www.cs.washington.edu/research/
 - PLSE
 	- https://homes.cs.washington.edu/~rjust/
 - Security & Privacy Research Lab https://seclab.cs.washington.edu
+##### Master of Human-Computer Interaction and Design at University of Washington
+https://mhcid.washington.edu
 #### 👉 Dartmouth College
 
 #### 👉 California Institute of Technology (Caltech)
@@ -576,14 +639,23 @@ Applicants admitted to the Department of Computer Science graduate program usual
         - IELTS: An overall band of 6.5 on the Academic Examination
 #### 👉 Yale University
 📄 https://www.topuniversities.com/universities/yale-university
-
 #### 👉 University of California, Irvine (UCI)
-
 #### 👉 University of California, Los Angeles (UCLA)
 https://grad.ucla.edu/admissions/steps-to-apply/
+https://grad.ucla.edu/admissions/research-requirements/
+
 ##### Graduate Program: Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
 https://www.cs.ucla.edu/graduate-admissions/
+
+Applicants, _including U.S. citizens and Permanent Residents_, who do not hold a bachelor’s or higher degree from a university located in the United States or in another country in which English is both the spoken language of daily life _and_ the medium of instruction, or who have not completed at least two years of full-time study at such an institution, please consult [English Requirements](https://grad.ucla.edu/admissions/english-requirements/).
+
+Please review:
+- [Materials to Be Uploaded into the Application or Sent to the Department/Program/School](https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/)  
+    Transcripts, Statements, and Letters of Recommendation.
+- [Program specific forms](https://grad.ucla.edu/admissions/departmental-applications/)
+- [Requirements for International Applicants](https://grad.ucla.edu/admissions/international-applicants/)  
+    Includes English language requirements, required academic records, and visa procedures.
 #### 👉 University of California, Berkeley (UCB)
 ##### UCB Academic Overview
 https://grad.berkeley.edu
@@ -633,6 +705,16 @@ https://eecs.berkeley.edu/academics/graduate/
 	3. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
 2. Research-Oriented Degree Programs
 #### 👉 University of California, San Diego
+##### Department of Computer Science & Engineering
+https://cse.ucsd.edu/graduate/admissions
+
+Engineering professionals are encouraged to consider the [Master of Advanced Studies (MAS) Degree Programs](https://cse.ucsd.edu/graduate/degree-programs/master-advanced-studies-mas).
+- [Doctoral (PhD) Degree Program](https://cse.ucsd.edu/graduate/degree-programs/phd)
+- [Master of Science (MS) Degree Program](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
+- [Master of Data Science (MDS) Online Degree Program](http://omds.ucsd.edu/)
+- [Bachelor/Master (BS/MS) Combined Degree Program](https://cse.ucsd.edu/graduate/bachelorsmasters-program)
+
+
 #### 👉 Purdue University
 ##### Cybersecurity and Trusted Systems /Masters
 https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology
@@ -794,12 +876,41 @@ Journalism and Computer Science [Dual MS](http://www.cs.columbia.edu/education/
 | Dual MS, CS & Journalism | January 15 | N/A |
 | CS@CU MS Bridge Program | **Priority:** February 15th<br>Final Deadline: March 1st | N/A |
 \* This is NOT a CS MS; it is a degree earned en route to the PhD. CS MS applicants need to follow the Master of Science Deadlines.
-
-
-### 👉 University of Florida (UF)
-#### Florida Institute for Cybersecurity Research (FICS  Research)
+#### 👉 University of Florida (UF)
+##### Florida Institute for Cybersecurity Research (FICS  Research)
 🏠 https://fics.institute.ufl.edu/index.php/about/
+#### 👉 University of Minnesota (Twin-City)
+https://grad.umn.edu/admissions
+https://grad.umn.edu/admissions/application-instructions
+##### Department of Computer Science & Engineering
+https://cse.umn.edu/cs/ms-admissions
 
+---
+https://cse.umn.edu/cs/graduate-admissions-overview
+- [Ph.D. in Computer Science](https://cse.umn.edu/cs/phd-overview): This is a research degree that culminates in a unique dissertation that demonstrates original and creative research. [Application instructions can be found here](https://cse.umn.edu/cs/phd-admissions). 
+- [M.S. in Computer Science](https://cse.umn.edu/cs/ms-overview): The department offers three types of M.S.  degrees: (i) Plan A with a research thesis, (ii) Plan B with an independent project, and (iii) Plan C that only requires coursework-based projects. [Application instructions can be found here.](https://cse.umn.edu/cs/ms-admissions) 
+- [M.C.S.](https://cse.umn.edu/cs/mcs-overview) (Masters of Computer Science): This is a coursework-only degree designed to meet the needs of working professionals. [Application instructions can be found here](https://cse.umn.edu/cs/mcs-admissions). 
+- [M.S. in Software Engineering](https://cse.umn.edu/node/67691): This degree focuses on working professionals that want to get a deeper understanding of software engineering. This is a coursework-only Plan C.
+
+In addition, the department’s faculty members play a significant role in two other graduate degree programs, which are:
+- [Data Science](https://datascience.umn.edu/)*
+- [Bioinformatics and Computational Biology](https://r.umn.edu/academics-research/graduate/bicb)*
+
+*Please note that the respective programs handle admissions in these programs.
+
+---
+- ##### Personal statement/statement of purpose
+	- Concisely discuss your computer science educational, research, or industrial background as they relate to your objectives. Include any unique experiences relevant to the research you have done. Discuss why you are applying to the University of Minnesota. Please include names of faculty members and research groups at the University of Minnesota whose research is of interest to you. Use this area to list any extenuating circumstances such as poor grades or test scores. 
+	- A 4000 character limit (or approximately 700 words) is strongly recommended.  This character limit does not include spaces, and not strictly enforced.
+- ##### Optional 
+	- The following items are **optional** in the application, and there are no character limits:
+		- Diversity statement (for international applicants only—this is required for domestic applicants)
+		- Extenuating circumstances statement
+		- Writing sample
+		- Description of research - examples include publications, research papers, or research you are interested in conducting
+	- ###### Diversity Statement
+		- This is only required of domestic applicants. A 4000-character limit (not including spaces) is recommended. International applicants do not need to complete this statement, but they are welcome to complete a statement.  
+		- The statement should cover how your background, experiences, and achievements will contribute to the University's and our Department’s goal of promoting excellence through diversity and inclusion. If applicable, you should mention hardships or obstacles you have overcome to complete your undergraduate education. Some University of Minnesota graduate student applicants will be considered for funding opportunities, like the [DOVE Fellowship](https://grad.umn.edu/funding/program-requests-nominations/nominations/diversity-of-views-experience-fellowship-dove), based on their diversity statement.
 
 
 ### 🇨🇦 Canada
@@ -895,17 +1006,28 @@ https://ccs.korea.ac.kr/people/
 
 
 ### 🇯🇵 Japan
+https://bbs.gter.net/thread-2553299-1-1.html
+2023FALL申请总结兼日本CS SGU申请及劝退贴（东大京都东工大阪）
+
+https://www.cnblogs.com/orangestar/p/16995900.html
+国内修考单冲东京大学情报理工CS\复杂理工 23.4经验贴
+
+https://www.1point3acres.com/bbs/thread-931508-1-1.html
+直达东京大学CS低GPA修考飘过
+
 
 
 ### 🇸🇬 Singapore
 ↗ [Singapore 🇸🇬](../../../../International%20Politics%20&%20Countries'%20Overview/Countries'%20Overview/Singapore%20🇸🇬.md)
+#### 👉 NUS
+#### 👉 NTU
+
 
 ### 🇸🇦 Saudi Arabia
 #### 👉 KAUST
 🏠 https://www.kaust.edu.sa/en
 
 [personal profile](https://app.askadmissions.co.uk/AYApplicantMain/fl_AYApplicantMain.asp?AYID=98A94D1-26C2-495A-BEF3-A15660463D6)
-
 
 [CV/CG/AI申请]阿卜杜拉国王科技大学（KAUST）导师汇总 - Guohao Li的文章 - 知乎 https://zhuanlan.zhihu.com/p/102331024
 
@@ -929,18 +1051,14 @@ CV/CG/AI相关的导师主要在CEMSE中。其中CEMSE下又主要有三个负�
 
 以上是作者自己所了解到的，可能并不全，但希望对申请的同学有所帮助。另外，最近学校在筹备AI学院，应该还会新招不少Faculty，AI学院的院长也还在物色人选，AI未来几年应该是学校大力发展的方向。关于KAUST的申请条件，截止时间等，请到[https://admissions.kaust.edu.sa/admission-requirment.html](https://link.zhihu.com/?target=https%3A//admissions.kaust.edu.sa/admission-requirment.html)去了解。
 
-
-
 >  你可以大三大四的时候申请去KAUST实习，去体验一下那边的环境，和那边的老师建立联系。KAUST给实习生提供丰厚的工资和[往返机票](https://www.zhihu.com/search?q=往返机票&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A"921555530"})。详情搜索KAUST VSRP，需翻墙。
 
 > 虽然申请季已经接近尾声，但KAUST的申请Deadline好像还有最后两轮，分别在1.15和2.15结束。
 
 
-
 如果不去美国，哪个国家适合计算机专业硕士留学的？ - CS GOGOGO的回答 - 知乎 https://www.zhihu.com/question/322327430/answer/1643243699
 
 Kaust面试 - Xperia的文章 - 知乎 https://zhuanlan.zhihu.com/p/345703199
-
 
 
 阿卜杜拉国王科技大学 (KAUST) AI Initiative 研究中心 Jrgen Schmidhuber 课题组招聘 - 军师与皮匠的文章 - 知乎 https://zhuanlan.zhihu.com/p/584241858
@@ -954,7 +1072,6 @@ Kaust面试 - Xperia的文章 - 知乎 https://zhuanlan.zhihu.com/p/345703199
 > [Prof. Jürgen Schmidhuber在AII担任主任](https://link.zhihu.com/?target=https%3A//people.idsia.ch/~juergen/kaust-2021.html). 
 >
 > [Prof. Jürgen Schmidhuber博客](https://link.zhihu.com/?target=https%3A//people.idsia.ch/~juergen/blog.html)
-
 
 
 欢迎加入KAUST VCC 计算成像Wolfgang Heidrich 组 - Singer Yang的文章 - 知乎 https://zhuanlan.zhihu.com/p/545986372
@@ -972,7 +1089,6 @@ Kaust面试 - Xperia的文章 - 知乎 https://zhuanlan.zhihu.com/p/345703199
 > 去工业界有去meta, adobe, sony, disney 各种和camera/computational photography 有关系的厂，也有自己创业的，具体我不了解我也没法多说了。
 
 
-
 在阿卜杜拉国王科技大学(KAUST)工作是一种怎样的体验？ - 弈心的回答 - 知乎 https://www.zhihu.com/question/319635794/answer/647707571
 
 KAUST申请经验：面试失败的我，被教授反套磁“重获”全奖硕博 offer - 棕榈大道的文章 - 知乎 https://zhuanlan.zhihu.com/p/343490760
@@ -982,6 +1098,5 @@ KAUST申请经验：面试失败的我，被教授反套磁“重获”全奖硕
 ## Oceania
 ### 🇦🇺 Australia
 #### 👉 UTS (University of Technology Sydney)
-
 
 [UTS | Wikipedia]: https://en.wikipedia.org/wiki/University_of_Technology_Sydney

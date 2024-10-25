@@ -3630,8 +3630,12 @@
 		8. lay out a fortune on jewelry /买珠宝花了一大笔钱
 		9. the acquisition of a fortune is the study of all. /获得财富是所有人的努力目标。
 		10. fortuitism
-		11. fortuitist, fortuitous
-		12. fortuity
+		11. fortuitist
+		12. fortuitous
+			1. _adj._ [unintended](dic://unintended), [fortunate](dic://fortunate)
+			2. _n._ [intended](dic://intended), [unfortunate](dic://unfortunate)
+			3. **coincidental**巧合的;**coincidence**巧合，同时发生;**unfortunate**不幸的;**improbable**不可信的;**unexpected**没有料想到的, 意外的, 突如其来的;**unforeseen**未预见到的, 意料之外的;**momentous**重大的, 严重的;**accidental**意外的;**circumstance**环境;**unplanned**无计划的;**fortunate**交好运的, 带来好运的;
+		13. fortuity
 	4. fortutous
 5. **furt-** = to steal, 「latin」fur, "thief"
 	1. furtive (figurative, fugitive) (covert, clandestine, sneaky, devious, furtive, surreptitious)
@@ -3726,18 +3730,19 @@
 		12. dilatable
 		13. arteriodilating
 	8. dilatory
-		1. a. 拖拉的
-		2. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
-		3. vasodilatory
-		4. dilatoriness
-		5. dilatorily
-		6. [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
-		7. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
-		8. he had been dilatory in appointing a solicitor. /他在指定律师时磨磨蹭蹭的。
-		9. The boss sacked a dilatory worker yesterday /昨天老板开除了一个凡事都爱拖延的人。
-		10. After a pause he added 'sir' in a dilatory, grudging way. /停了一会他才慢吞吞地、勉勉强强地加了一声" 先生" 。
-		11. At the moment there could have been nothing more natural than that Ned should dash himself from the roof in the pursuit of dilatory tradesmen /眼下，内德为了追赶拖延的商人而从屋顶上跳下来再自然不过了。
-	9. elate
+		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic)
+		2. a. 拖拉的
+		3. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
+		4. vasodilatory
+		5. dilatoriness
+		6. dilatorily
+		7. [laggard](dic://laggard), [poky](dic://poky), [pokey](dic://pokey)[drone](dic://drone), [lagger](dic://lagger), [trailer](dic://trailer), [poke](dic://poke), dawdler
+		8. **obstructive**阻碍的;**delaying**延迟的;**ineffective**无效的;**frivolous**不重要的,不必要的;**feeble**微弱的，无力的;**hasty**匆忙的;**impatient**不耐烦的, 急躁的;**slow**慢的;**expedient**应急有效的;**inaction**不活动;**inept**不适当的;
+		9. he had been dilatory in appointing a solicitor. /他在指定律师时磨磨蹭蹭的。
+		10. The boss sacked a dilatory worker yesterday /昨天老板开除了一个凡事都爱拖延的人。
+		11. After a pause he added 'sir' in a dilatory, grudging way. /停了一会他才慢吞吞地、勉勉强强地加了一声" 先生" 。
+		12. At the moment there could have been nothing more natural than that Ned should dash himself from the roof in the pursuit of dilatory tradesmen /眼下，内德为了追赶拖延的商人而从屋顶上跳下来再自然不过了。
+	10. elate
 		1. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
 		2. vt. 使兴高采烈, 使得意
 		3.  [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate)
@@ -3746,25 +3751,26 @@
 		6. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
 		7. He was greatly elated by success. /他因获得成功而得意洋洋。
 		8. elation, ellated
-	10. illation
+	11. illation
 		1. il-进入 + lat-拿 + -ion, 表名词
 		2. n. 演绎；推论；推定
 		3. Of, relating to, or of the nature of an **illation** /推论的，与推理有关的，或具有推理的性质的。
 		5. illative, 
-	11. legislate
+	12. legislate
 		1. legis-法律 + lat-放 + -e → 放出法律 → 立法。
 		2. n. 推定, 推论, 演绎
 		3. legislature
 		4. legislator
 		5. legislative
 		6. legislation
-	12. oblate (prolate)
+	13. oblate (prolate, oblate, prelate, )
 		1. n. 献身于修会的俗人  a. 献身修会的, 扁圆的, 椭圆的
-		2. [pumpkin-shaped](dic://pumpkin-shaped)
-		3. _n._ [religious person](dic://religious person)
-		4. _n._ [prolate](dic://prolate), [watermelon-shaped](dic://watermelon-shaped)
-		5. **spherical**球的;**cylindrical**圆柱形的;**Benedictine**圣本笃修会修士;**conical**圆锥形的;**monastic**僧侣;**abbot**男修道院院长;**monk**僧侣，修道士;**elongated**细长的;**nun**修女，尼姑;
-		6. Planet Earth is an oblate solid /地球是扁圆形的固体
+		2. ob-向前，朝向 + lat-带，携带 + -e
+		3. [pumpkin-shaped](dic://pumpkin-shaped)
+		4. _n._ [religious person](dic://religious person)
+		5. _n._ [prolate](dic://prolate), [watermelon-shaped](dic://watermelon-shaped)
+		6. **spherical**球的;**cylindrical**圆柱形的;**Benedictine**圣本笃修会修士;**conical**圆锥形的;**monastic**僧侣;**abbot**男修道院院长;**monk**僧侣，修道士;**elongated**细长的;**nun**修女，尼姑;
+		7. Planet Earth is an oblate solid /地球是扁圆形的固体
 		8. oblatory
 			1. _[oblatory](dic://oblatory)_  adj. 供奉物的；奉献的
 		9. oblation
@@ -3775,8 +3781,8 @@
 			5. **altar**祭坛;**consecration**奉献;**consecrated**神圣的,被视为神圣的;**incense**香;**sacrificial**献祭的;**atonement**弥补,补偿;**sacrifice**牺牲;**Eucharist**圣餐;**penance**使…以苦行赎罪;**offering**提供;**holy**圣洁的，神圣的;
 			6. Thinkers and poets throughout the ages have offered the courtesan the oblation of their mercy /各个时期的思想家和诗人都把仁慈的怜悯心奉献给娼家女子。
 			7. I would proffer the most exquisite oblations of flowery banners, garlands, as well as nautch, music, scented ointments, and canopies, for veneration of all Buddhas. /以诸最胜妙华鬘，伎乐涂香及伞盖，如是最胜庄严具，我以供养诸如来。
-		11. oblateness
-	13. prelate (prelect, vi. 讲课；讲演)
+		10. oblateness
+	14. prelate (prelect, vi. 讲课；讲演) (prolate, oblate, prelate, )
 		1. n. 高级教士
 		2. pre-,在前，早于，-lat,携带，承载，词源同 relate,translate.后用于指高级神职人员。
 		3. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [primate](dic://primate)
@@ -3788,23 +3794,24 @@
 		9. prelatical
 			1. _adj._ 高位者的,教长政治的
 		10. prelatic
-	14. prolate (oblate)
+	15. prolate (prolate, oblate, prelate, )
 		1. a. 扁长的, 扩展的, 延长的
 		2. prolative
-	15. relate
+	16. relate
 		1. re-向后，往回 + lat-拿，带。即带回来，引申词系联系，相关。
 		2. re-,向后，往回，-lat,拿，带，词源同 translate,prelate.即带回来，引申词系联系，相关。
 		3. unrelated, related, interrelate, correlate
 		4. relator, relater
 		5. relative
 		6. relation
-	16. sublate
-		1. vt. 否定, 消除
-		2. **sublate capital**:  扬弃资本 
-		3. **sublate alienation**:  扬弃异化
-		4. **self-sublate**:  自我扬弃
-		5. I'll **sublate** that predestined, ominous borderline /我要扬弃那命定不祥的界线。
-	17. superlative
+	17. sublate
+		1.  (spurn, rebuff, refuse, snub, repel, reject, recalcitrate, sublate)
+		2. vt. 否定, 消除
+		3. **sublate capital**:  扬弃资本 
+		4. **sublate alienation**:  扬弃异化
+		5. **self-sublate**:  自我扬弃
+		6. I'll **sublate** that predestined, ominous borderline /我要扬弃那命定不祥的界线。
+	19. superlative (paramount, superlative, aces, )
 		1. super-,在上，上方，-lat,携带，承载，词源同 relate,translate.用于语法格指形容词最高级形式。
 		2. super-在…上面 + lat-拿 + -ive, 表形容词 → 带到上面 → 最高的。
 		3. _n._ [praise](dic://praise), [congratulations](dic://congratulations), [kudos](dic://kudos), [extolment](dic://extolment), [degree](dic://degree), [level](dic://level), [stage](dic://stage)
@@ -3812,7 +3819,7 @@
 		5. _n._ [inferior](dic://inferior)
 		6. **first-rate**第一流的,最佳的;**incomparable**无比的;**superb**极好的;**top-notch**拔尖的;**exceptional**优越的, 杰出的;**unsurpassed**未被凌驾的,非常卓越的;**finest**警察;**masterful**善于控制别人的;**impeccable**无瑕疵的;**sublime**高尚的;**splendid**辉煌的;
 		7. Tech CEOs compete with each other for superlatives /各技术巨头相互竞争，力求推出最优秀的产品。
-	18. translate
+	20. translate
 		1. trans-交换 + lat-拿 + -e → 交换拿出 → 翻译。
 7. **pher-** = to bring, 「Greeks」pherein, "to carry"
 	1. peripheral, periphery, peripherad
@@ -3849,15 +3856,16 @@
 		4. **sweating**出汗;**respiration**呼吸;**shivering**颤抖的;**medicinal**医学的;**stimulant**兴奋剂;**anti-inflammatory**抗炎的;
 		5. It's also a diaphoretic, which means it will help your body warm from the inside out. /它也是一种发汗剂，能让你的身体从里到外感到温暖。
 	3. dysphoria
-		1. n. 烦躁不安
-		2. dys-不良 + phor-带来 + -ia
-		3. _n._ [discontentment](dic://discontentment), [discontent](dic://discontent), [discontentedness](dic://discontentedness), [depression](dic://depression)
-		4. _n._ [euphoria](dic://euphoria), [euphory](dic://euphory)
-		5. **anxiety**焦虑;**psychosis**精神病;**depression**沮丧;**gender**性;**arousal**激励;**disorder**混乱;**PTSD**创伤后精神紧张性精神障碍;**anorexia**厌食;**schizophrenia**精神分裂症;**nausea**恶心，晕船;**insomnia**失眠症，失眠;
-		6. _[dysphoria](dic://dysphoria)_  n. [医] 烦躁不安
-		7. _[gender dysphoria](dic://gender%20dysphoria)_  性别焦虑症（对自己生理和心理性别有错位认识，并有不舒服或者焦虑的感受）
-		8. Be suitable for the people with insomnia and dreaminess, hypodynamia, sallow complexion, dysphoria, depressed expression, or suffering from climacteric syndrome (pale tongue thin coating). /适于失眠多梦、乏力、面色干黄，心情烦燥、神情抑郁，更年期综合征（舌淡苔薄）者服用。
-	4. euphoria
+		1.  (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, dysphoria)
+		2. n. 烦躁不安
+		3. dys-不良 + phor-带来 + -ia
+		4. _n._ [discontentment](dic://discontentment), [discontent](dic://discontent), [discontentedness](dic://discontentedness), [depression](dic://depression)
+		5. _n._ [euphoria](dic://euphoria), [euphory](dic://euphory)
+		6. **anxiety**焦虑;**psychosis**精神病;**depression**沮丧;**gender**性;**arousal**激励;**disorder**混乱;**PTSD**创伤后精神紧张性精神障碍;**anorexia**厌食;**schizophrenia**精神分裂症;**nausea**恶心，晕船;**insomnia**失眠症，失眠;
+		7. _[dysphoria](dic://dysphoria)_  n. [医] 烦躁不安
+		8. _[gender dysphoria](dic://gender%20dysphoria)_  性别焦虑症（对自己生理和心理性别有错位认识，并有不舒服或者焦虑的感受）
+		9. Be suitable for the people with insomnia and dreaminess, hypodynamia, sallow complexion, dysphoria, depressed expression, or suffering from climacteric syndrome (pale tongue thin coating). /适于失眠多梦、乏力、面色干黄，心情烦燥、神情抑郁，更年期综合征（舌淡苔薄）者服用。
+	5. euphoria
 		1. (e)su-
 		2. euphoric
 			1. 
@@ -3911,7 +3919,7 @@
 		3. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
 		4. _[fling away the scabbard](dic://fling%20away%20the%20scabbard)_ 丢开剑鞘决心作战
 		5. He first called for my scimitar, which I took out, scabbard and all. /他先是要了我的弯刀，我把它连刀鞘都拿出来了。
-	4. burrow (barrow, borrow)
+	4. burrow (barrow, borrow, furrow, harrow,)
 		1.  [tunnel](dic://tunnel)
 		2. _n._ [hole](dic://hole), [hollow](dic://hollow)
 		3. _v._ [dig](dic://dig), [delve](dic://delve), [cut into](dic://cut into), [turn over](dic://turn over)
@@ -3988,14 +3996,15 @@
 		3. _n._ [socialistic](dic://socialistic), [socialist](dic://socialist), [upper-class](dic://upper-class), [lower-class](dic://lower-class), [low-class](dic://low-class)
 		4. **bourgeoisie**资产阶级;**aristocratic**贵族的;**aristocracy**贵族;**capitalist**资本家;**working-class**工人阶级的;**middle-class**中产阶级的;**socialist**社会主义者;**peasant**农民;**peasants**农民,民工;**Marxist**马克思主义者;**Parisian**巴黎人的;
 	11. harbinger
-		1.  通告者, 预告者, 先驱, 预兆  vt. 预告, 充做...的前驱
-		2. har-军队，队伍，-binger,住宿，庇护所，词源同burg. 原义为先头部队，为大部队准备安营扎寨，后引申词义传令官，使者，以及预兆，兆头。
-		3. _n._ [indication](dic://indication), [indicant](dic://indicant)
-		4. _v._ [tell](dic://tell)
-		5. **herald**使者, 预报者;**imminent**迫近的;**doom**厄运;**ominous**不祥的;**prelude**前奏;**rebirth**复兴;**impending**即将发生的;**inevitable**不可避免的, 必然发生的;**forerunner**先驱, 开路人;**emergence**出现;**usher**带位员;
-		6. The cock is the harbinger of dawn /雄鸡报晓。
-		7. witch hazels are the harbingers of spring /金缕梅预示春天的来临。
-		8. Now they find that those harbingers tend to cluster in the same zip codes /现在，他们发现这些“先驱者”往往聚集在相同区域。
+		1.  (prescient, portend, presage, prefigure, foretell, prophetic, anticipate, bode, herald, foresee, harbinger)
+		2.  通告者, 预告者, 先驱, 预兆  vt. 预告, 充做...的前驱
+		3. har-军队，队伍，-binger,住宿，庇护所，词源同burg. 原义为先头部队，为大部队准备安营扎寨，后引申词义传令官，使者，以及预兆，兆头。
+		4. _n._ [indication](dic://indication), [indicant](dic://indicant)
+		5. _v._ [tell](dic://tell)
+		6. **herald**使者, 预报者;**imminent**迫近的;**doom**厄运;**ominous**不祥的;**prelude**前奏;**rebirth**复兴;**impending**即将发生的;**inevitable**不可避免的, 必然发生的;**forerunner**先驱, 开路人;**emergence**出现;**usher**带位员;
+		7. The cock is the harbinger of dawn /雄鸡报晓。
+		8. witch hazels are the harbingers of spring /金缕梅预示春天的来临。
+		9. Now they find that those harbingers tend to cluster in the same zip codes /现在，他们发现这些“先驱者”往往聚集在相同区域。
 5. **forc-, fort-** = strong, 表示“强大，力量”。源自拉丁语 fortis "strong."
 	1. comfort
 		1. com-,表强调，-fort,堡垒，强壮，见 fortify.
@@ -4059,23 +4068,31 @@
 		6. [asset](dic://asset), [plus](dic://plus), [volume](dic://volume), [loudness](dic://loudness), [intensity](dic://intensity), [part](dic://part), [portion](dic://portion)
 		7. [fortemente](dic://fortemente), [fortissimo](dic://fortissimo)
 		8. [loud](dic://loud)
-	13. fortissimo
+		9. Her forte is playing the piano. /她擅长弹钢琴。
+		10. Even his fans would not say that Mr Davies's forte is details; some niggling errors deserve speedy correction. /戴维斯的粉丝并不认为新书的特点在于资料的详细。书中的一些微小错误应该及时更正，因为著书过程中再所难免有些笔误。
+		11. So, well, they're really not my forte, I can't lie. /好吧，我真的不擅长这些，我骗不了人。
+		12. And this might be because once a child's immune system is established, novelty is it's forte. /这或许是因为一旦孩子的免疫系统建立，新环境反而对其有所帮助
+	12. fortissimo
 		1. **symphony**交响乐;**concerto**协奏曲;**orchestral**管弦乐队的;**octave**八度音阶;**orchestra**管弦乐队;**chorus**合唱队;**violins**小提琴;**chromatic**有颜色的,颜色鲜艳的;**soprano**女高音;**symphonic**交响乐的;**Brahms**布拉姆斯;
 		2. adj. 极强的；非常嘹亮的; adv. 极强地；非常响亮地; n. 用极强音奏的音，标记用极强音演奏的部分;
-	14. perforce
+	13. perforce
 		1. ad. 必然地, 只得
 		2. by necessity; by force of circumstance
 		3. _[by perforce](dic://by%20perforce)_ 强制地
 		4. _[of perforce](dic://of%20perforce)_ 不得已
-	15. reinforce
+		5. who holds the sea, perforce doth hold the land. /谁拥有该海域，谁就真正拥有这片土地。
+		6. The heart, making itself guilty of such secrets, must perforce hold them, until the day when all hidden things shall be revealed. /内心因犯下这些秘密而内疚，必须坚持不懈， 直到所有隐藏的事情都被揭露的那一天。
+		7. She was not unsociable that day, and, her father expressing a hard and fast acceptance of the invitation, she perforce agreed to go with him. /那天她并非不善交际，父亲强硬地表示接受邀请，她只好答应跟他一起去。
+		8. It was impossible for him to get to the station on foot in time for this train, and he settled himself perforce to wait for the next-the last to Melchester that night. /他不可能赶上这趟火车，步行及时赶到车站，于是他不得不安顿下来，等待那天晚上开往梅尔切斯特的下一班——最后一班。
+	14. reinforce
 		1. unreinforced
 		2. reinforcing
 		3. reinforcer
 		4. reinforcement
 			1. unreinforcement
 			2. reinforcements
-	16. unforced
-	17. forcipression
+	15. unforced
+	16. forcipression
 6. belfry, belfried
 7. berg
 	1. Nuremberg
@@ -4365,7 +4382,7 @@
 		12. beading
 		13. beadhouse
 			1. _[beadhouse](dic://beadhouse)_  n. 养育院；养老院
-	1. beadle
+	1. beadle (custodian, beadle, )
 		1.  [George Beadle](dic://George Beadle), [George Wells Beadle](dic://George Wells Beadle)
 		2. _n._ [official](dic://official), [functionary](dic://functionary), [biologist](dic://biologist), [life scientist](dic://life scientist)
 		3. **vicar**教区牧师，教堂牧师;**clergyman**牧师;**deacon**执事;**rabbi**拉比;**constable**警察;**headmaster**校长;**warden**看守人;**rector**校长;**miller**碾磨工;**priest**牧师;**magistrate**地方法官, 治安官;
@@ -4537,6 +4554,7 @@
 	1. 1 - 来自 PIE*bheue,存在，生长，居住。词源同 booth,bothy.
 14. fiat
 	1. n. 命令；许可；政法 /vt. 批准；颁布
+	2. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat,)
 	3. a legally binding command or decision entered on the court record (as if issued by a court or judge)
 		1. _synonymous：_ [decree](dic://decree), [edict](dic://edict), [order](dic://order), [rescript](dic://rescript)
 	4. _n._ [act](dic://act), [enactment](dic://enactment)
@@ -4571,7 +4589,7 @@
 			2. _n._ [physical property](dic://physical property), [transience](dic://transience), [transiency](dic://transiency), [transitoriness](dic://transitoriness)
 			3. **solubility**溶度,溶性,可解决性,可解释性,溶解性;**thermodynamic**热力的;**entropy**熵;**equilibrium**平衡,均势;**vapour**蒸气;**vapor**蒸汽;**permeability**弥漫;**viscosity**黏稠;**adsorption**吸附;**kinetics**动力学;**fluxes**流动;
 			4. _[fugacity coefficient](dic://fugacity%20coefficient)_  [化学] 逸度系数
-		10. fugitive
+		10. fugitive (figurative)
 			1. [runaway](dic://runaway), [fleer](dic://fleer)
 			2. [fugitive from justice](dic://fugitive from justice)
 			3. [fleeting](dic://fleeting), [momentaneous](dic://momentaneous), [momentary](dic://momentary)
@@ -4605,22 +4623,25 @@
 	6. febrifuge
 		1. febrifugal
 	7. refuge
-		1. [safety](dic://safety)
-		2.  [recourse](dic://recourse), [resort](dic://resort)
-		3. [sanctuary](dic://sanctuary), [asylum](dic://asylum)
+		1. re-反 + fug-逃 + -e构词字尾。
+		2. n. 避难所, 安全地带, 避难, 庇护  
+		3. vi. 躲避  vt. 给予...庇护
+		3. [safety](dic://safety)
 		4.  [recourse](dic://recourse), [resort](dic://resort)
-		5. _n._ [area](dic://area), [country](dic://country), [resource](dic://resource), [shelter](dic://shelter), [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance)
-		6. **sanctuary**圣所;**shelter**避难所;**solace**安慰;**solitude**孤独;**respite**暂缓;**flee**消失，消散;**sheltered**受庇护的,受掩护的;**escape**逃避，避免;**hideaway**潜伏处;**shelters**庇护所;**oasis**绿洲;
-		7. _seek refuge_ 寻求避难；寻求庇护
-		8. _take refuge_ 避难；躲避
-		9. _take refuge in_ 避难；求助于
-		10. _wildlife refuge_ 野生动物保护区
-		11. I sought refuge in drink /我以喝酒来逃避。
-		12. refugee
+		5. [sanctuary](dic://sanctuary), [asylum](dic://asylum)
+		6.  [recourse](dic://recourse), [resort](dic://resort)
+		7. _n._ [area](dic://area), [country](dic://country), [resource](dic://resource), [shelter](dic://shelter), [aid](dic://aid), [assist](dic://assist), [assistance](dic://assistance)
+		8. **sanctuary**圣所;**shelter**避难所;**solace**安慰;**solitude**孤独;**respite**暂缓;**flee**消失，消散;**sheltered**受庇护的,受掩护的;**escape**逃避，避免;**hideaway**潜伏处;**shelters**庇护所;**oasis**绿洲;
+		9. _seek refuge_ 寻求避难；寻求庇护
+		10. _take refuge_ 避难；躲避
+		11. _take refuge in_ 避难；求助于
+		12. _wildlife refuge_ 野生动物保护区
+		13. I sought refuge in drink /我以喝酒来逃避。
+		14. refugee
 			1. _n._ [exile](dic://exile), [expatriate](dic://expatriate)
 			2. **resettlement**再定居,重新安置;**migrant**移居者;**asylum**庇护;**immigrant**移民;**migrants**移居者;**UNHCR**联合国难民事务高级专员;**humanitarian**人道主义者;**deportation**驱逐出境;**immigration**移民局检查站;**homeless**无家可归的;**detention**拘留, 扣押;
 			3. refugee camp on the border. /边界地区的难民营。
-	8. lucifugous
+	9. lucifugous
 2. **phyg-** = to flee, 表示“逃离”。源自希腊语 phuge "flight."
 	1. apophyge
 		1. n. 蜗牛形柱墩, 柱身之凹; 柱座
@@ -4629,8 +4650,13 @@
 	1. defunct
 		1. 1 - de-,夺去，损毁，-funct,功能，词源同 function.
 		2. a. 死的, 不能使用的 n. 死者
-		3. **formerly**以前;**offshoot**分支;**former**从前的，前者的;**erstwhile**过去的, 从前的;**obsolete**老式的;**venerable**值得尊敬的;**ceased**中止;**short-lived**短命的;**abandoned**被抛弃的;**derelict**玩忽职守的;**subsidiary**附带的, 附属的, 次
-	3. function
+		3. [dead](dic://dead)
+		4. _adj._ [inoperative](dic://inoperative), [dead](dic://dead)
+		5. **formerly**以前;**offshoot**分支;**former**从前的，前者的;**erstwhile**过去的, 从前的;**obsolete**老式的;**venerable**值得尊敬的;**ceased**中止;**short-lived**短命的;**abandoned**被抛弃的;**derelict**玩忽职守的;**subsidiary**附带的, 附属的, 次
+		6. The scheme for building an airport seems to be completely defunct now. /建造新机场的计划看来整个完蛋了。
+		7. They were published at some conference, which is now defunct, which left no traces./ 这些问题是发表在某个会议上是，现在已经不存在了，没有留下任何痕迹。
+		8. By the end of the year the currently defunct Freeview channel eight will start to glow with local fare. /到今年年底，之前已停播的自由观点第八频道将通过地方收费重获新生。
+	2. function
 		1. superfunction
 		2. subfunctino
 		3. parafunctino
@@ -4666,14 +4692,14 @@
 		13. disfunction
 		14. cofunction
 		15. afunction
-	4. functor
+	3. functor
 		1. n. 起功能作用的东西, 函子, 功能词
-	5. perfunctory, perfunctorily
+	4. perfunctory, perfunctorily
 		1. per-完全的 + funct-功能，职责 . 字面意思即完全的履行公事，词义贬义化，引申词义例行公事的，潦草的，不负责任的等。
 		2. **banal**陈腐的;**cursory**粗略的;**bland**乏味的;**forgettable**容易被忘的,可忘记的;**obligatory**必须的, 必要的;**unremarkable**寻常的,不值得注意的;**superficial**表面的;**gratuitous**不必要的, 未要求的;**dismissive**轻视的, 轻蔑的, 鄙视的;**brief**简短的，简洁的;**afterthought**事后的想法;
 		3. Bill! Thank God, thank God—” Mrs. Weasley ran forward, but the hug Bill bestowed upon her was perfunctory /“比尔！感谢上帝，感谢上帝——”韦斯莱夫人跑上前去，比尔却只给了她一个勉强的拥抱。
 		4. Barban was less civilized, more skeptical and scoffing, his manners were formal, even perfunctory /巴尔班不那么文明， 更多的是怀疑和嘲笑， 他的举止很正式， 甚至是敷衍了事。
-	6. fungible
+	5. fungible
 		1. a. 可取代的, 代替的  
 		2. n. 代替物
 		3. funct-活动 + -ible, 表形容词
@@ -5895,7 +5921,7 @@
 
 ## br
 ### broch- = to pierce, 表示“刺，缝”。
-1. broche
+1. broche (brocade, broche)
 	1. - adj. 织锦的；锦缎的 
 	2. n. 织锦
 2. brochette
@@ -5907,7 +5933,7 @@
 	5. _sales brochure_ 售楼说明书；推广小册子
 	6. _travel brochure_ 旅游指南
 	7. the details contained in this brochure have been published in good faith . /这本册子中细节的披露出版是出于善意的。
-4. broach
+4. broach (encroach)
 	1. n. 烧肉叉, 凿子, 钻头  
 	2. vt. 用凿子修琢(石块), 钻孔  
 	3. vi. 露出水面
@@ -5927,7 +5953,7 @@
 	3. _v._ [negociate](dic://negociate), [negotiate](dic://negotiate), [talk terms](dic://talk terms)
 	4. **brokerage**经纪人业务;**trader**商人;**realtor**房地产经纪人;**agent**代理人，代理商;**intermediary**中间人;**salesperson**售货员，销售员;**lender**贷方;**investor**投资者;**dealer**商人;**buyer**采购员;**banker**银行家;
 	5. speculative brokers; speculative stocks /投机经纪人，投机股票
-7. brocade
+7. brocade (broche)
 	1. _n._ [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
 	2. _v._ [weave](dic://weave), [tissue](dic://tissue)
 	3. **silk**蚕丝;**velvet**天鹅绒，丝绒;**chiffon**薄绸;**satin**缎子;**kimono**和服;**tulle**薄纱;**plaid**格子花呢;**lace**花边;**tunic**束腰外衣;**fabric**织物;**gilded**镀金的，装饰的;

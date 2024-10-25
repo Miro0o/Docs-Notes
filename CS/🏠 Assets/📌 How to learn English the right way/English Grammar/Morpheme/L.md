@@ -279,7 +279,7 @@
 		26. lethalis
 		27. lethaline
 		28. hyperlethal
-	2. lethargy
+	2. lethargy 
 		1. [lassitude](dic://lassitude), [sluggishness](dic://sluggishness)
 		2. [inanition](dic://inanition), [lassitude](dic://lassitude), [slackness](dic://slackness)
 		3. [languor](dic://languor), [sluggishness](dic://sluggishness), [phlegm](dic://phlegm), [flatness](dic://flatness)
@@ -288,16 +288,17 @@
 		6. lethargus
 		7. lethargize
 			1. _[lethargize](dic://lethargize)_  vt. 使无生气；使昏睡
-		8. lethargic
-			1. _adj._ [dazed](dic://dazed), [foggy](dic://foggy), [groggy](dic://groggy), [logy](dic://logy), [stuporous](dic://stuporous), [dreamy](dic://dreamy), [lackadaisical](dic://lackadaisical)
-			2. _n._ [energetic](dic://energetic)
-			3. **sluggish**萧条的;**fatigued**疲乏的;**irritable**易怒的, 急躁的;**sleepy**困乏的;**tired**疲倦的;**restless**焦躁不安的;**cranky**暴躁的;**lifeless**无生命的;**erratic**不稳定的;**sickly**有病的，苍白的;**unwell**生病的
-			4. _[lethargic](dic://lethargic)_  adj. 无精打采的，懒洋洋的；昏睡的
-			5. _[lethargic encephalitis](dic://lethargic%20encephalitis)_  埃科诺莫病，[内科] 昏睡性脑炎；流行性甲型脑炎
-			6. The caracara, a somewhat lethargic bird, passes much of the day on the ground of the open country it inhabits. /卡拉卡拉鹰，一种有点无精打采的鸟，白天大部分时间都在它空旷的栖息地度过。
-			7. It can change a depressive, lethargic person into a happy, active one / 它能使一个情绪低落、无精打采的人变得快乐并精力充沛。
-			8. He was not standing very well, very lethargic. /它状况不好，一直昏昏欲睡。
-		9. antilethargic
+		8. lethargic (lethargic, somnolent, slumberous, hypersomnia, dozy,  )
+			1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic)
+			2. _adj._ [dazed](dic://dazed), [foggy](dic://foggy), [groggy](dic://groggy), [logy](dic://logy), [stuporous](dic://stuporous), [dreamy](dic://dreamy), [lackadaisical](dic://lackadaisical)
+			3. _n._ [energetic](dic://energetic)
+			4. **sluggish**萧条的;**fatigued**疲乏的;**irritable**易怒的, 急躁的;**sleepy**困乏的;**tired**疲倦的;**restless**焦躁不安的;**cranky**暴躁的;**lifeless**无生命的;**erratic**不稳定的;**sickly**有病的，苍白的;**unwell**生病的
+			5. _[lethargic](dic://lethargic)_  adj. 无精打采的，懒洋洋的；昏睡的
+			6. _[lethargic encephalitis](dic://lethargic%20encephalitis)_  埃科诺莫病，[内科] 昏睡性脑炎；流行性甲型脑炎
+			7. The caracara, a somewhat lethargic bird, passes much of the day on the ground of the open country it inhabits. /卡拉卡拉鹰，一种有点无精打采的鸟，白天大部分时间都在它空旷的栖息地度过。
+			8. It can change a depressive, lethargic person into a happy, active one / 它能使一个情绪低落、无精打采的人变得快乐并精力充沛。
+			9. He was not standing very well, very lethargic. /它状况不好，一直昏昏欲睡。
+		10. antilethargic
 	3. Lethe
 		1. n. 里忒（希腊神话中的遗忘女神，也是五条冥河中的遗忘之河）
 		2. _n._ [river](dic://river)
@@ -1592,6 +1593,7 @@
 		3. vi. 躺着, 说谎, 位于, 展现, 存在, 停泊  vt. 谎骗
 		3. underlying
 		4. underlie
+			1. **underpinning**基础,支柱,支撑;**fundamental**基本的;**elucidate**阐明,解释;**modulate**调节;**embody**体现，使具体化;**pertain**关于;**ascribed**随意取得的;**affect**影响;**inhibit**抑制;**characterize**是…的特征, 以…为特征;**impair**削弱;
 		5. overlying
 		6. overlie
 		7. outlying
@@ -1603,7 +1605,7 @@
 		13. lie-abed
 		14. liar
 		15. inlier
-		16. belie (ambivalent)
+		16. belie (ambivalent) (mask)
 			1. vt. 掩饰, 与...不符, 使失望
 			2. vt. 给人以假象，掩饰（感情等）；显示……为虚假，表明……不正确；使落空，辜负（要求、期望等）；给人以……假象，使人对……产生错觉
 			3. be-使... + lie【说谎】
@@ -1623,15 +1625,19 @@
 	4. alochia
 	5. Aristolochia
 3. lair
-	1. **cave**使凹陷，使塌落;**dungeon**地牢，土牢;**subterranean**地表下面的;**den**兽穴，窝巢;**basement**地下室;**hideaway**潜伏处;**hiding**隐匿;**caves**洞穴;**monster**怪物;**minions**奴才;**underworld**黑社会;
-	2. [den](dic://den)
-	3. [habitation](dic://habitation)
-	4. laird
+	1. n. 兽穴, 兽窝, 泥潭  
+	2. vi. 进入兽穴, 在泥中打滚  
+	3. vt. 放于穴中, 使陷入泥潭
+	4. **cave**使凹陷，使塌落;**dungeon**地牢，土牢;**subterranean**地表下面的;**den**兽穴，窝巢;**basement**地下室;**hideaway**潜伏处;**hiding**隐匿;**caves**洞穴;**monster**怪物;**minions**奴才;**underworld**黑社会;
+	5. [den](dic://den)
+	6. [habitation](dic://habitation)
+	7. laird
 		1. **earl**伯爵;**nobleman**贵族;**Scottish**苏格兰的;**Ayrshire**埃尔郡;**Scots**苏格兰的;**miller**碾磨工;**duke**公爵，君主;**Scotsman**苏格兰人;**baron**男爵;**Orkney**奥克尼;**abbot**男修道院院长;
 		2. lairdship
-	5. lairy
-		1. adj. 艳俗的；华丽而俗气的
-	6. lairage
+	8. lairy
+		1. (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, lairy)
+		2. adj. 艳俗的；华丽而俗气的
+	10. lairage
 
 
 ### + \*legwh- + = not heavy, having little weight
@@ -1649,59 +1655,72 @@
 			2. mesorelief
 			3. megarelief
 	4. alleviate
-		1. alleviatory
-		2. alleviator
-		3. alleviative
-		4. alleviation
-	5. elevate
-		1. elevatus
-		2. elevatory
-		3. elevator
-		4. elevation
-		5. elevated
-	6. lever
-		1. monolever
-		2. leverage
-		3. leverstand
-		4. gearlever
-		5. exolever
-		6. cantilever
-	7. levitate
-		1. hover
-		2. _v._ [raise](dic://raise), [lift](dic://lift), [elevate](dic://elevate), [get up](dic://get up), [bring up](dic://bring up)
-		3. **teleport**心灵运输;**hover**盘旋，翱翔;**magically**如魔法般地,用魔法地;**summon**召唤;**orb**天体;**fly**飞;**float**使漂浮;**manipulate**熟练控制;**hovering**停悬;**floating**漂浮的，浮动的;**animate**使有生气;
-	8. levity
-		1. _n._ [feeling](dic://feeling), [frivolity](dic://frivolity), [frivolousness](dic://frivolousness)
-		2. _n._ [gravity](dic://gravity), [solemnity](dic://solemnity)
-		3. **humor**幽默，诙谐;**silliness**愚蠢;**humour**诙谐;**whimsy**怪念头;**light-hearted**轻松的;**seriousness**严肃;**absurdity**荒谬;**lightness**光亮度;**sarcasm**讽刺;**banter**戏谑;**comedic**喜剧的;
-	9. levy
-		1. [levy en masse](dic://levy en masse)
-		2. [impose](dic://impose)
-		3.  [recruit](dic://recruit), [raise](dic://raise)
-		4. _n._ [charge](dic://charge), [conscription](dic://conscription), [muster](dic://muster), [draft](dic://draft), [selective service](dic://selective service)
-		5. _v._ [charge](dic://charge), [bill](dic://bill), [enlist](dic://enlist), [draft](dic://draft), [muster in](dic://muster in)
-		6. **tax**向…课税;**taxes**赋税;**excise**货物税;**taxation**课税，征税;**subsidy**津贴;**imposition**强加,被迫接受;**tariff**关税表;**fee**酬金;**impose**强加;**fund**资金;
-		7. _tax levy_ 纳税；征收税款
-		8. _levy on_ 征税；扣押
-		9. _levy tax_ 征税
-		10. _transaction levy_ 交易征费**shortfall**不足之量,差额;
-		11. levier
-		12. leviable
-	11. pontlevis
-	12. relevance, relevancy
+		1. al-同ad- + levi-轻 + -ate动词后缀 → 使轻松 → 缓和 。
+		2. alleviatory
+		3. alleviator
+		4. alleviative
+		5. alleviation
+	6. elevate (elate)
+		1. e-出 + lev-举起 + -ate, 表动词 → 举出 → 升高。
+		2. elevatus
+		3. elevatory
+		4. elevator
+		5. elevation
+		6. elevated
+	8. lever
+		1. n. 杠杆, 似杠杆之工具  
+		2. vt. 撬开  
+		3. vi. 使用杠杆
+		4. 来自拉丁语 levare,升起，举起，来自 PIE*legwh,轻的，可举起的，词源同 light,levitate.引申词义杠杆。
+		5. monolever
+		6. leverage
+		7. leverstand
+		8. gearlever
+		9. exolever
+		10. cantilever
+	10. levitate
+		1.  来自拉丁语 levare,升起，举起，词源同 lever,light.引申词义使升空，漂浮。
+		2. v. (使)轻轻浮起, (使)飘浮空中
+		3. hover
+		4. _v._ [raise](dic://raise), [lift](dic://lift), [elevate](dic://elevate), [get up](dic://get up), [bring up](dic://bring up)
+		5. **teleport**心灵运输;**hover**盘旋，翱翔;**magically**如魔法般地,用魔法地;**summon**召唤;**orb**天体;**fly**飞;**float**使漂浮;**manipulate**熟练控制;**hovering**停悬;**floating**漂浮的，浮动的;**animate**使有生气;
+	12. levity (flighty)
+		1. n. 轻率, 轻浮, 不稳定
+		2. _n._ [feeling](dic://feeling), [frivolity](dic://frivolity), [frivolousness](dic://frivolousness)
+		3. _n._ [gravity](dic://gravity), [solemnity](dic://solemnity)
+		4. **humor**幽默，诙谐;**silliness**愚蠢;**humour**诙谐;**whimsy**怪念头;**light-hearted**轻松的;**seriousness**严肃;**absurdity**荒谬;**lightness**光亮度;**sarcasm**讽刺;**banter**戏谑;**comedic**喜剧的;
+	14. levy (tariff, tax, levy)
+		1. n. 税款, 所征的人数, 征收  
+		2. vi. 征税, 课税  
+		3. vt. 征收, 强求, 召集
+		4. [levy en masse](dic://levy en masse)
+		5. [impose](dic://impose)
+		6.  [recruit](dic://recruit), [raise](dic://raise)
+		7. _n._ [charge](dic://charge), [conscription](dic://conscription), [muster](dic://muster), [draft](dic://draft), [selective service](dic://selective service)
+		8. _v._ [charge](dic://charge), [bill](dic://bill), [enlist](dic://enlist), [draft](dic://draft), [muster in](dic://muster in)
+		9. **tax**向…课税;**taxes**赋税;**excise**货物税;**taxation**课税，征税;**subsidy**津贴;**imposition**强加,被迫接受;**tariff**关税表;**fee**酬金;**impose**强加;**fund**资金;
+		10. _tax levy_ 纳税；征收税款
+		11. _levy on_ 征税；扣押
+		12. _levy tax_ 征税
+		13. _transaction levy_ 交易征费**shortfall**不足之量,差额;
+		14. levier
+		15. leviable
+	16. pontlevis
+	17. relevance, relevancy
 		1. irrelevance
 		2. irrelevancy
 		3. relevant
 			1. relevantly
 			2. irrelevant
-	13. leaven
-		1. [raise](dic://raise), [prove](dic://prove)
-		2. unleavened
-		3. leavening
-		4. **loaves**大块烤过的食物;**yeast**酵母;**loaf**块;**bread**面包;**ferment**发酵;**wickedness**邪恶;**dough**生面团;**parable**寓言，比喻;**flour**面粉;**Passover**逾越节;
-		5. "his sermons benefited from a leavening of humor"
-	14. levitron
-	15. 
+	18. leaven
+		1. [leavening](dic://leavening)
+		2. [raise](dic://raise), [prove](dic://prove)
+		3. unleavened
+		4. leavening
+		5. **loaves**大块烤过的食物;**yeast**酵母;**loaf**块;**bread**面包;**ferment**发酵;**wickedness**邪恶;**dough**生面团;**parable**寓言，比喻;**flour**面粉;**Passover**逾越节;
+		6. "his sermons benefited from a leavening of humor"
+	20. levitron
+	21. 
 2. light
 3. lung
 
@@ -2262,7 +2281,7 @@
 	2. relinquish, relinquishment
 		1. re-强调 + linqu-离开 + -ish表动词 → 离开不再要 → 放弃。
 		2. 来自拉丁语 relinquere,留下，留给，来自 re-,向后，往回，linquere,留下，留给，词源同delinquency,relic.引申诸相关词义。
-		3. (renounce, abjure, abdicate, foreswear, quit, relinquish, )
+		3. (renounce, abjure, abdicate, foreswear, quit, relinquish, cede, concede, )
 		4. **renounce**宣布放弃;**abandon**离弃;**surrender**投降;**forfeit**罚金;**reclaim**开拓;**seize**抓住;**regain**恢复;**retain**保持;**withdraw**撤消;**forgo**放弃;**refuse**拒绝;
 		5. can't bear to relinquish the idea. /不能忍受放弃这个主意。
 		6. They will never voluntarily relinquish their independence /他们绝对不会自动放弃独立。
@@ -2375,23 +2394,32 @@
 		3. collusive
 	4. delude
 		1. de-坏 + lud-玩 + -e → 玩坏的[手段] → 欺骗。
+		2. - v. 欺骗，哄骗；<旧>迷惑；<旧>逃避；<旧>使失望
+		3.  [deceive](dic://deceive), [lead on](dic://lead on), [cozen](dic://cozen)
+		4. _v._ [victimize](dic://victimize), [victimise](dic://victimise)
+		5. **deceive**欺骗;**believing**有信仰的;**fool**开玩笑;**mislead**误导;**fooling**开玩笑的言行;**gullible**易受骗的;**delusion**错觉;**pretend**假装;**deceived**被欺骗的;**convince**使确信，使信服;**confuse**使混乱;
+		6. The government deluded the public about the dangers of low-level radiation /政府欺骗公众，关于低强度辐射的危险性。
+		7. fraudulent ads that delude consumers into sending in money. /欺骗顾客花钱的虚假广告
+		8. You've deluded yourself that you're a benefactor bringing books to the masses /你欺骗自己是把书带给大众的施主。
+		9. " It's your fault that he's deluded himself into thinking I'm going to prom with him." /“都是你的错，他才会自欺欺人地想着我会和他一起去正式舞会。”
+		10. The man had deluded the youth to demarcate against the government /此人煽动青少年与政府对着干。
 	5. elude
 		1. e-出 + lud-玩 + -e → 玩出去 → 躲出去。
 		2. elusory
 		3. ineludible
-	7. illude
+	6. illude
 		1. vt. 欺骗
 		2. illusion
 		3. illusive
 		4. illusory
-	9. prelude (preclude)
+	7. prelude (preclude)
 		1. pre-在前 + lud-玩 , 演奏 + -e → 先演奏 → 序曲。
 		2. prolusion
 			1. n. 序言, 绪言, 序幕, 序乐, 开场白, 预演
 		3. prelusive
 		4. prelusory
-	10. interlude, postlude, 
-	11. ludic
+	8. interlude, postlude, 
+	9. ludic
 		1. 来自拉丁语 ludere,游戏，玩乐，词源同 allude,prelude.
 		2. a. 顽皮的, 好开玩笑的
 		3. College students acted in a typically **ludic** style while dating, which proves the deceit inherent in ludus. /大学生在约会时表现出典型的卢迪克风格，这证明了卢迪克固有的欺骗行为。
@@ -2540,7 +2568,7 @@
 		1. leag-=leg-绑 + -ue，引申词义联盟，联赛。
 		2. leaguer
 		3. bigleague
-	13. liable, liability
+	13. liable
 		1. a. 有义务的, 应负责的, 有...倾向的
 		2. 来自拉丁语 ligare,绑定，连结，词源同 ligament,oblige.
 		3. [liable](dic://liable) 指易于产生某种不利的结果，侧重偶然性，常表示警告或提醒。  
@@ -2552,7 +2580,13 @@
 		9. [likely](dic://likely), [nonexempt](dic://nonexempt), [susceptible](dic://susceptible), [responsible](dic://responsible)
 		10. [onimmune](dic://nonimmune), [nonresistant](dic://nonresistant), [unresistant](dic://unresistant)
 		11. **responsible**有责任的;**liability**责任;**indemnify**赔偿;**negligent**疏忽的;**incur**招致，引发;**damages**伤害;**incurred**遭受;**accountable**负有责任的;**negligence**疏忽, 玩忽;**shall**将;**reimburse**偿还
-		12. **indemnity**保障, 赔偿, 补偿;**negligence**疏忽, 玩忽;**liable**有责任的，有义务的;**damages**伤害;**tort**侵权行为;**responsibility**责任;**insurance**保险;**insurer**承保人;**indemnify**赔偿;**risk**危险;**insured**被保险人;
+		13. liability
+			1. _n._ [susceptibility](dic://susceptibility), [susceptibleness](dic://susceptibleness), [obligation](dic://obligation), [bad](dic://bad), [badness](dic://badness)
+			2. _n._ [asset](dic://asset), [plus](dic://plus)
+			3. **indemnity**保障, 赔偿, 补偿;**negligence**疏忽, 玩忽;**liable**有责任的，有义务的;**damages**伤害;**tort**侵权行为;**responsibility**责任;**insurance**保险;**insurer**承保人;**indemnify**赔偿;**risk**危险;**insured**被保险人;
+			4. liability to pay taxes /纳税的义务
+			5. Most Italians seem to have realised that their prime minister is a liability. /大部分意大利人似乎已经意识到他们的总理是个累赘。
+			6. This might be a liability for most candidates, but not necessarily for Trump. /这可能是大多数候选人的负担，但不一定是特朗普的负担。
 	14. liaise
 		1. vi. (与某人) 联络 (~ with sb); 做联络员 (~ between A and B)
 		2. [intercede](dic://intercede), [mediate](dic://mediate), [intermediate](dic://intermediate), [arbitrate](dic://arbitrate)
@@ -2718,13 +2752,17 @@
 		2. [lionise](dic://lionise), [celebrate](dic://celebrate)
 		3. [respect](dic://respect), [honor](dic://honor), [honour](dic://honour), [abide by](dic://abide by), [observe](dic://observe)
 		4. **criticize**评论, 批评;**glorify**赞美;**denounce**谴责;**portray**描绘;**heroes**英雄;**condemn**判刑，定罪;**emulate**与…竞争, 努力赶上;**perpetuate**使永存;**ilk**同样;**exaggerate**扩大, 增加;**admire**欣赏，赞赏;
-	5. lionism
-	6. lionhood
-	7. lionhearted
+		5. We even lionize them as individuals. /我们甚至把他们当做个体来崇拜。
+		6. In literature and film, the male genius is lionized; the female genius is institutionalized. This is just how it goes /在文学和电影中，男性天才受到崇拜，女性天才被制度化，事实就是这样的。
+		7. I had only met her once before, but she took it into her head to lionize me. /我以前只见过她一次，但她却把我当成了偶像。
+		8. 
+	4. lionism
+	5. lionhood
+	6. lionhearted
 		1. **fearless**无畏的;**courageous**勇敢的;**brave**勇敢的;**valiant**英勇的，勇敢的;**feisty**活跃的;**heroic**英勇的;**intrepid**无畏的;**tenacious**抓紧的;**warrior**战士，勇士;**ferocious**残忍的;**bravery**勇敢;
-	8. lionet
-	9. lioness
-	10. lion-hunter
+	7. lionet
+	8. lioness
+	9. lion-hunter
 
 
 ### + \*leu- +

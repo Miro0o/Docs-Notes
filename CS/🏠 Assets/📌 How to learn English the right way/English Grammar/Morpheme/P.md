@@ -1156,8 +1156,53 @@
 	2. recount, recounteur
 		1. recountal
 	3. account
-	4. 
-	5. 
+		1. n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目  
+		2. vi. 报帐, 解释, 导致, 报偿, 占, 杀死  
+		3. vt. 认为
+		4. ac-一再 + count【计算】 → 反复计算 → 评估、报账。
+		5. [business relationship](dic://business relationship)
+		6. [report](dic://report)
+		7. [history](dic://history), [chronicle](dic://chronicle), [story](dic://story)
+		8. [report](dic://report), [news report](dic://news report), [story](dic://story), [write up](dic://write up)
+		9. [accounting](dic://accounting), [account statement](dic://account statement)
+		10. [explanation](dic://explanation)
+		11. [bill](dic://bill), [invoice](dic://invoice)
+		12. [score](dic://score)
+		13. [calculate](dic://calculate)
+		14. [report](dic://report), [describe](dic://describe)
+		15. [answer for](dic://answer for)
+		16. _n._ [relationship](dic://relationship), [informing](dic://informing), [making known](dic://making known), [record](dic://record), [news](dic://news), [statement](dic://statement), [financial statement](dic://financial statement)
+		17. _v._ [be](dic://be), [inform](dic://inform), [declare](dic://declare)
+			1. [account](dic://account) 普通用词，不如report正式，侧重对亲身经历或目睹之事所作的书面或口头的报道或叙述。  
+			2. [report](dic://report) 正式用词，多指报刊上的报道，强调对情况经过调查或审核后作出的详尽叙述，具有一定权威性。
+		18. **login**进入系统;**username**由字母或数字组成的用户名称，以标明用户的身份;**password**密码;**bank**银行;**debit**记入借方，登入借方;**eyewitness**目击者;**log**原木;**logged**笨拙的;
+		19. a sensational account of a murder /谋杀案耸人听闻的报道
+		20. money was of no account to her /金钱对她无关紧要。
+		21. This is a particular account of the accident. /这是一份全面而详尽的事故报告。
+		22. account for
+			1. 解释，说明：对某事物进行解释或说明。 
+			2. 占比，占据：在总数或总体中占有一定比例或位置。 
+			3. 对……负责，对……负有责任：对某事物负有责任或义务。 
+			4. 解决，处理：解决或处理某个问题或情况。
+			5. How do you **account** **for** the fact that unemployment is still rising? /你如何解释失业人数仍在增加这个现实？
+			6. The gene they discovered today doesn't **account** **for** all those cases /他们今天发现的那种基因解释不了所有的那些情况。
+			7. The social services **account** **for** a substantial part of public spending. /社会服务性事业占政府开支的相当大的一部分。
+			8. They account for more than $900 million of spending. /他们占了超过9亿美元的开支。
+		23. unaccounted
+		24. no-account
+		25. microaccounting
+		26. macroaccounting
+		27. accountioin
+		28. accounting
+		29. accountee
+		30. accountant
+			1. accountantship
+			2. accountant-general
+		31. accountancy
+		32. accountable
+			1. unaccountable
+			2. accountably
+			3. accountability
 2. **pav-** 
 	1. pave
 		1. unpaved
@@ -1328,7 +1373,15 @@
 		13. expediential
 		14. expediency
 		15. expedience
-		16. inexpedience, inexpedient
+		16. inexpedience
+		17. inexpedient
+			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+			2. a. 不便的, 不适当的, 失策的
+			3. 1. _adj._ <正>不妥当的;不适当的;不明智的
+			4. _n._ 不妥当;不明智
+			5. _adv._ 不妥当地;不适当地;不明智地
+			6. To rely on such a measure is **inexpedient**. /依赖这种措施是不得计的。
+			7.  It would be **inexpedient** to raise taxes further/进一步加税就是不合理。
 	5. impede
 		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, )
 		2. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
@@ -1347,11 +1400,11 @@
 			1. n. 妨碍, 障碍, 阻止, 口吃
 			2. impediment - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		14. impedance
-	7. millepede, millipede
-	8. pedal
+	6. millepede, millipede
+	7. pedal
 		1. pedalo
 		2. pedestal
-	9. pedestrian
+	8. pedestrian
 		1. pedestrian - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		2. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
 		3. _adj._ [uninteresting](dic://uninteresting)
@@ -1366,15 +1419,15 @@
 			8. _pedestrian subway_ 地下人行道
 			9. _pedestrian overcrossing_ 人行天桥
 			10. _pedestrian area_ 行人专区；步行街
-	10. pedate
+	9. pedate
 		1. a. 有脚的, 脚状的, 鸟脚状的
 		2. _adj._ [compound](dic://compound), [footed](dic://footed)
 		3. _n._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [footless](dic://footless)
-	11. pedicure
+	10. pedicure
 		1. n. 脚治疗, 脚治疗医师, 修趾甲术  
 		2. vt. 修脚, 医脚
-	12. pediform
-	13. pedigree
+	11. pediform
+	12. pedigree
 		1.  [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
 		2.  [bloodline](dic://bloodline)
 		3.  [pedigreed](dic://pedigreed), [pureblood](dic://pureblood), [pureblooded](dic://pureblooded), [thoroughbred](dic://thoroughbred)
@@ -1384,42 +1437,42 @@
 		7. _[pedigrees](dic://pedigrees)_  家系; [遗] 谱系，[遗] 血统; 衍生后代; 
 		8. _[pedigree selection](dic://pedigree%20selection)_  [遗] 谱系选择
 		9. _[pedigree chart](dic://pedigree%20chart)_  系谱图；家谱；谱系图
-	14. pediment
+	13. pediment
 		1. n. 山形墙, 三角墙, 山花饰
-	15. pedometer, pedosphere
-	16. peddle
+	14. pedometer, pedosphere
+	15. peddle
 		1. vi. 挑卖, 沿街叫卖, 游荡, 闲混 
 		2. vt. 叫卖, 兜售, 散播
-	17. pedler
+	16. pedler
 		1. n. 小贩, 货郎, 流动商贩, (喻)兜售者, 传播者
 		2. pedlary
 			1. n. 小贩的货物, 小贩的营生
 		3. pedlar
 			1. n. 沿街叫卖的小贩, (流言)传播者
-	18. pedrail
-	19. pedicab
+	17. pedrail
+	18. pedicab
 		1. n. (人力)三轮车
-	20. taliped
+	19. taliped
 		1. a. 拐脚的, 畸形脚的
-	21. uniped
+	20. uniped
 		1. a. 独脚的, 独腿的
-	22. velocipede
+	21. velocipede
 		1. n. 脚踏两轮车, 孩童用三轮车
-	23. cirripede
+	22. cirripede
 		1. n. 蔓脚类动物
-	24. despatch, dispatch
+	23. despatch, dispatch
 		1. celerity
-	25. fetch
+	24. fetch
 		1. fet-=fed-脚。即跑腿。
-	26. orthopeady
-	27. parallelepiped
+	25. orthopeady
+	26. parallelepiped
 		1. n. 平行六面体
-	28. patrol
+	27. patrol
 		1. patrol - 这是从法语吸收过来的大量军事用语之一。17世纪始用于英语，源自法语patrouiller，而patrouiller又是从古法语patouiller演化而来，原意是flounder in mud（在泥巴里蹒跚而行）。这大概是因为古时军营中夜巡的卫兵往往是在泥巴中来回走个没完，所以才用了这样一个词。
-	29. patten
+	28. patten
 		1. n. 木套鞋, 木底鞋
-	30. peon,
-	31. pilot
+	29. peon,
+	30. pilot
 		1. n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人  
 		2. vt. 领航, 驾驶, 引导, 试用  
 		3. a. 引导的, 控制的, 试点的
@@ -1431,18 +1484,18 @@
 		9. gyropilot
 		10. copilot
 		11. autpilot
-	32. pioneer
-	33. stapes
+	31. pioneer
+	32. stapes
 		1. n. 镫骨
-	34. trivet
+	33. trivet
 		1. n. 三脚架
-5. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
+6. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
 	1. pessimism
 	2. pessimist
 	3. pessimistic
 		1. _adj._ [bearish](dic://bearish), [demoralized](dic://demoralized), [demoralised](dic://demoralised), [discouraged](dic://discouraged), [disheartened](dic://disheartened)
 		2. **optimistic**乐观的, 乐观主义的;**cynical**愤世嫉俗的;**gloomy**黑暗的;**optimist**乐天派;**bleak**荒凉的，无遮蔽的;**optimism**乐观;**outlook**展望;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**grim**冷酷的;**idealistic**理想主义的;
-6. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
+7. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
 	1. antipode
 	2. arthropod
 	3. unipod
@@ -1455,7 +1508,7 @@
 	10. platypus
 	11. podium
 	12. etc..
-7. **trapez-** 表示“四边形”。
+8. **trapez-** 表示“四边形”。
 	1. trapeze
 	2. trapezium
 	3. trapezoid
@@ -1464,22 +1517,42 @@
 		3. _n._ [quadrilateral](dic://quadrilateral), [quadrangle](dic://quadrangle), [tetragon](dic://tetragon), [carpal bone](dic://carpal bone), [carpal](dic://carpal), [wrist bone](dic://wrist bone)
 		4. trapezial
 		5. trapezidal
-8. fetlock
-9. fetter
+9. fetlock
+10. fetter
 	1. **shackles**手铐，脚镣;**bondage**奴役身份;**bind**捆绑, 捆扎;**rein**缰绳;**constrain**强迫, 强使;**restrain**抑制，控制;**hindrance**起妨碍作用的事物或人;
 	2. **shackles**手铐，脚镣;**chained**装链的;**constrained**不舒服的,被强迫的,拘泥的;**unfettered**无拘无束的;**freed**释放的;**burdened**负荷的;**restrained**克制的,节制的,受到控制的;**bondage**奴役身份;**bound**跳;**liberated**被解放的;**confined** 被限制的，封闭的，狭窄的;
 	3. trammel
 	4. hamper
-10. foot
-11. pawn
-12. petiole
+11. foot
+12. pawn
+13. petiole
 
 
 
 ### + \*pei- + 
 1. **pass-, pat-** = suffer, 表示“忍受”，引申为“感情”。源自拉丁语 pati "to suffer."
 	1. compatible
-	2. passion
+	2. passion ( impassion, dispassionate, impassive, passionate, compassion)
+		1. passionless
+		2. passionflower
+		3. passionate
+		4. passional
+		5. impassion (impassive)
+		6. dispassion
+			1. dispassionate (impartial, fair, unbiased, posed, cerebral)
+				1. a. 冷静的, 不带感情的
+				2. dis-不，非，使相反 + passionate【有感情的】。
+				3. _adj._ [impartial](dic://impartial), [fair](dic://fair)
+				4. _n._ [partial](dic://partial), [unfair](dic://unfair)
+				5. **impartial**不偏不倚的;**disinterested**不感兴趣的;**unbiased**无偏见的;**methodical**有条理的, 井然的;**pragmatic**务实的;**empathetic**移情作用的;**rational**理性的;**aloof**冷淡的;**introspective**好反省的;**cynical**愤世嫉俗的;**perceptive**敏感的;
+				6. she dealt with life's disasters in a calm, dispassionate way. /对待生活中的灾祸，她沉着理智。
+				7. a dispassionate look at a problem /对某个问题客观的研究
+		7. compassion (compass, compression, compaction, compassion)
+			1. _n._ [sympathy](dic://sympathy), [fellow feeling](dic://fellow feeling), [mercifulness](dic://mercifulness), [mercy](dic://mercy)
+			2. **empathy**移情作用;**kindness**仁慈;**gentleness**温和;**humility**谦卑，谦逊;**compassionate**表示怜悯的,有同情心的 ;**sympathy**同情;**generosity**慷慨, 大方, 宽容;**mercy**仁慈，宽容;**sincerity**真实, 诚挚;**selfishness**自私;**caring**有同情心的;
+			3. if I feel compassion for her, it is not to be wondered at /如果我同情她的话，那也没什么可惊讶的。
+			4. The notion advocated by Buddhism, boundless compassion and uncontainable pity, is the best method to set up a harmonious relation between persons /如果我们对包括自身在内的一切生命个体都保持平等和爱恋，无缘大慈，同体大悲，那么，世界将会变得更加美好。
+			5. We need to return to a long-held value of compassion -- compassion and empathy. /我们需要拾回怜悯的价值观—— 同情心和同理心。
 	3. passible, impassible, compassable
 		1. impassibility
 	4. passive, impassive
@@ -1900,10 +1973,11 @@
 			3. appellor
 	2. repeal
 		1. re-向后，往回 + peal-呼叫，引申词义废除，废止。
-	3. extrapolate (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, assume, presume)
-		1. extra-外 + pol-推 + -ate → 推出来 → 推断。
-		2. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude), [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute)
-		3. **infer**推断;**deduce**推论，推断;**generalize**概括;**interpret**解释;**predict**预报，预言;**analyze**对…进行分析，分解;**quantify**量化;**conclude**推断出;**speculate**思索;**presume**假定;**summarize**总结, 概述;
+	3. extrapolate 
+		1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
+		2. extra-外 + pol-推 + -ate → 推出来 → 推断。
+		3. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude), [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute)
+		4. **infer**推断;**deduce**推论，推断;**generalize**概括;**interpret**解释;**predict**预报，预言;**analyze**对…进行分析，分解;**quantify**量化;**conclude**推断出;**speculate**思索;**presume**假定;**summarize**总结, 概述;
 	5. interpolate
 		1. _v._ [calculate](dic://calculate), [cipher](dic://cipher), [cypher](dic://cypher), [compute](dic://compute), [work out](dic://work out), [reckon](dic://reckon), [figure](dic://figure)
 		2. **compute**计算;**infer**推断;**calculate**计算;**calibrate**校准;**reconstruct**重建;**interpret**解释;**subtract**减去;**deduce**推论，推断;**parse**从语法上分析;**encode**编码，译码;**render**提出;
@@ -3757,8 +3831,24 @@
 		5. empiricist
 		6. empiricism
 		7. empirical
-			1. **theoretical**理论的;**methodological**方法的;**hypotheses**臆断;**qualitative**性质上的;**anecdotal**轶事的,趣闻的;**evidence**证据，证明;**hypothesis**假说, 假设, 前提;**observational**根据观察的;**quantitative**数量的;**scientific**科学的;**theory**理论;
-			2. [a posteriori](dic://a posteriori), [confirmable](dic://confirmable), [verifiable](dic://verifiable), [falsifiable](dic://falsifiable), [experiential](dic://experiential), [existential](dic://existential), [experimental](dic://experimental)
+			1. em-进入，使 + pir-尝试，冒险 + -ical表形容词，字面意思即尝试过的，有经验的。
+			2. em-,进入，使，-pir,尝试，冒险，词源同 pirate,expert.字面意思即尝试过的，有经验的。
+			3. a. 完全跟据经验的, 经验主义的
+			4. **theoretical**理论的;**methodological**方法的;**hypotheses**臆断;**qualitative**性质上的;**anecdotal**轶事的,趣闻的;**evidence**证据，证明;**hypothesis**假说, 假设, 前提;**observational**根据观察的;**quantitative**数量的;**scientific**科学的;**theory**理论;
+			5. [a posteriori](dic://a posteriori), [confirmable](dic://confirmable), [verifiable](dic://verifiable), [falsifiable](dic://falsifiable), [experiential](dic://experiential), [existential](dic://existential), [experimental](dic://experimental)
+			6. _empirical study_ 实证研究；经验研究
+			7. _empirical analysis_ 经验性分析
+			8. _empirical research_ 经验研究，实证研究；实征性研究
+			9. _empirical formula_ 经验式；实验式
+			10. _empirical mode_ 经验模式；经验众数
+			11. _empirical evidence_ 实验性证据
+			12. _empirical data_ 经验数据（公式）
+			13. _empirical equation_ 经验公式；经验方程
+			14. _empirical test_ 验证；经验检验
+			15. in the next chapter we review a number of recent empirical studies. /在下一章里我们评论几个最近的实验研究。
+			16. Secondly, structural grammar is empirical, aiming at objectivity in the sense that all definitions and statements should be verifiable or refutable. /其次，结构语法是经验主义的，它非常注重观察中的客观性，认为所有的定义和表述都应该要么是可证实的，要么是可驳倒的。
+			17. More than ever, economics today is an empirical discipline. /如今，经济学比以往任何时候都是一门实证学科。
+			18. " there's absolutely no empirical evidence that it can be done in an orderly way." /“我们没有任何的经验表明我们还能有序地完成这项工作。”
 	2. experiment
 		1. experimenter
 		2. experimentation
@@ -3775,7 +3865,7 @@
 		1. **precarious**依靠机会的;**dire**可怕的, 恐怖的;**dismal**凄凉的，忧郁的;**appalling**令人震惊的;**beleaguered**饱受批评的;**deplorable**可叹的;**perilous**危险的，冒险的;**dilapidated**破旧的;**dreadful**可怕的;**wretched**可怜的;**abysmal**深不可测的;
 		2. [perilous](dic://perilous), [precarious](dic://precarious), [touch-and-go](dic://touch-and-go)
 		3. [dangerous](dic://dangerous), [unsafe](dic://unsafe)
-	7. peril
+	6. peril
 		1.  [hazard](dic://hazard), [jeopardy](dic://jeopardy), [risk](dic://risk), [endangerment](dic://endangerment)
 		2.  [riskiness](dic://riskiness)
 		3.  [risk](dic://risk), [danger](dic://danger)
@@ -3798,11 +3888,11 @@
 			1.  [endanger](dic://endanger), [jeopardize](dic://jeopardize), [jeopardise](dic://jeopardise), [menace](dic://menace), [threaten](dic://threaten), [peril](dic://peril)
 			2. **endanger**危及;**jeopardize**危及, 损害;**threaten**威胁;**undermine**在某物下挖洞或挖通道;**impair**削弱;**impede**阻止;**curtail**截断, 缩短;**hinder**成为阻碍;**disrupt**使分裂;**erode**腐蚀，侵蚀;**undermining**底切;
 			3. 
-	8. piracy
+	7. piracy
 		1. autopiracy
-	9. pirate
+	8. pirate
 		1. piratic, piratical
-2. fear
+10. fear
 #### + \*per- (4) + = to strike
 1. **-pressin** = 加压素，加压素类强心药。
 	1. vasopressin
@@ -8925,7 +9015,7 @@
 		34. flagrant-foul
 		35. befoul
 12. **pur-, pus-, putr-** = foul matter，表示“脓”。源自拉丁语 puter (词干 putri-) "rotten."
-	1. putrefy (putrid, suppurate, putrefy, fetter)
+	1. putrefy (putrid, suppurate, putrefy, fester)
 		1. putr-腐败 + -e- + -fy使...，...化。
 		2. v. (使)化脓, (使)腐烂, (使)堕落
 		3. _v._ [decay](dic://decay)
@@ -8952,10 +9042,11 @@
 			5. _[putrefactive bacterium](dic://putrefactive%20bacterium)_ 腐烂细菌; 腐败细菌; 
 			6. _[putrefactive diarrhea](dic://putrefactive%20diarrhea)_ 腐败性腹泻
 		12. putrid
-			1. 来自拉丁语 putrere,发臭，腐烂，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.
-			2. _adj._ [putrefaction](dic://putrefaction), [rot](dic://rot), [rotten](dic://rotten), [corrupt](dic://corrupt)
-			3. _n._ [fresh](dic://fresh), [incorrupt](dic://incorrupt)
-			4. **stench**恶臭;**vile**卑鄙的;**stinking**发恶臭的;**horrid**可怕的;**disgusting**令人厌恶的;**ghastly**可怕的;**smelly**有臭味的，发臭的;**wretched**可怜的;**filthy**污秽的;**stinky**发恶臭的;**atrocious**恶毒的;
+			1. (putrid, suppurate, putrefy, fester, )
+			2. 来自拉丁语 putrere,发臭，腐烂，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.
+			3. _adj._ [putrefaction](dic://putrefaction), [rot](dic://rot), [rotten](dic://rotten), [corrupt](dic://corrupt)
+			4. _n._ [fresh](dic://fresh), [incorrupt](dic://incorrupt)
+			5. **stench**恶臭;**vile**卑鄙的;**stinking**发恶臭的;**horrid**可怕的;**disgusting**令人厌恶的;**ghastly**可怕的;**smelly**有臭味的，发臭的;**wretched**可怜的;**filthy**污秽的;**stinky**发恶臭的;**atrocious**恶毒的;
 	2. purulence
 		1. pur-脓 + -ul + -ence
 		2. purulency
@@ -8964,7 +9055,7 @@
 			1. 1 - 来自拉丁语 pus,脓，疮口，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pustule.
 		5. pustule
 			1. - 来自拉丁语 pustula,脓肿，水泡，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.-ule,小词后缀。
-	3. suppurate (putrid, suppurate, putrefy, fetter, )
+	3. suppurate (putrid, suppurate, putrefy, fester, )
 		1. vi. 生脓, 化脓, 流脓
 		2.  sup-,在下，-pur,脓，来自拉丁语 pus 所有格形式 puris,脓的。
 		3. _v._ [draw](dic://draw), [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)

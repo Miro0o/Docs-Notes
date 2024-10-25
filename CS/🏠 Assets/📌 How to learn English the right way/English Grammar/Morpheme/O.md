@@ -889,18 +889,20 @@
 	1. osculant
 	2. oscular
 		1. adj. 出水孔的；接吻的；嘴巴的
-	3. osculate
+	3. osculate (auscultate, osculate, )
 		1. vt. 接吻, 接触, 与...有共同特性  
 		2. vi. 有共通点
 		3. - v. （曲线或面）与（另一曲线或面）互成密切；亲吻
 		4. [kiss](dic://kiss), [buss](dic://buss)
 		5. **kiss**吻;**orifice**孔口;**anus**肛门;**tangent**切线的，相切的;
 		6. Throught numerous of GuangZhou Export Machindise Fair experience, can fluent **osculate** and negotiate business with foreign clients; /带着多次的广交会经验，能流利的和外商沟通，洽谈；
-		7. osculatory
-		8. osculation
+		7. In this big world, we **osculate** with so many different kinds of people. Because of this everybody knows that there are lots of emotions engendered in our life /在广袤的世界，独一无二的我们有着很多共通之处，这是每个人都知道的，也正因为这样，人们在生活中产生了各种各样的情感。
+		8. osculatory
+		9. osculation
 			1. [contact](dic://contact), [touch](dic://touch), [touching](dic://touching)
 			2. **kiss**吻;**intercourse**交往;**kissing**接吻的;**orifice**孔口;**anus**肛门;**mating**交配，交尾;
-		9. inosculate
+			3. The concept of band **osculation** is presented by analyzing surface contact types. /通过对曲面接触类型分析，提出了带状密切的概念。
+		10. inosculate
 			1. vt. 使连接，使吻合 
 			2. vi. 融合；结合
 	4. osculum

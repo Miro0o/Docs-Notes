@@ -28,6 +28,10 @@
 
 ## Intro
 ### Modern Web Application Architecture
+↗ [DS Web Services' Architectures](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
+
+![](../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.52.55.png)
+
 ![web_application_arch.excalidraw | 800](../../../Assets/Illustrations/Web%20Development/web_application_arch.excalidraw.md)
 <small>Web Architecture: frontend and backend</small>
 

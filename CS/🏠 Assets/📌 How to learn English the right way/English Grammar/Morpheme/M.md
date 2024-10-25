@@ -252,34 +252,35 @@
 			1. **emancipation**解放;**slavery**奴役;**slave**奴隶;**servitude**奴隶状态;**abolition**废除;**Slaves**斯拉夫人;**secession**脱离;**deed**行动;
 			2. **slave**奴隶;**emancipation**解放;**Slaves**斯拉夫人;**slavery**奴役;**servitude**奴隶状态;
 	3. manacle
-		1. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
-		2. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
-		3. [fetter](dic://fetter), [shackle](dic://shackle)
-		4. [cuff](dic://cuff), [handcuff](dic://handcuff)
-		5. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
-	4. manage
-	5. maneuver
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, manacle)
+		2. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
+		3. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
+		4. [fetter](dic://fetter), [shackle](dic://shackle)
+		5. [cuff](dic://cuff), [handcuff](dic://handcuff)
+		6. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
+	5. manage
+	6. maneuver
 		1. manoeuvre
-	6. manicure
+	7. manicure
 		1. **pedicure**修趾甲术;**mani**落花生;**nails**钉子;**polish**磨光，擦亮;**nail**钉;**salon**沙龙;**haircut**理发;**spa**矿泉;**hairdresser**理发师;**glitter**闪烁;**lipstick**口红;
-	7. manifest
-	8. manipulate,
+	8. manifest
+	9. manipulate,
 		1. **distort**扭曲;**subvert**推翻;**alter**改变，更改;**deceive**欺骗;**exploit**开发，开拓;**modify**修改，修饰;**expose**使曝光;**suppress**抑制;**mimic**模仿，摹拟;**fabricate**编造, 捏造, 虚构;**destroy**毁坏;
 		2. manipulable
-	9. manner
-	10. manual
-	11. manufactory, manufacture
-	12. manus
+	10. manner
+	11. manual
+	12. manufactory, manufacture
+	13. manus
 		1. n. 手；前肢；丈夫对妻子之权威
 		2. quadrumana, quadrumanous
 		3. amenuensis
 		4. bimane, bimanous
-	13. manuscript
+	14. manuscript
 		1. **unpublished**未出版的,未出版发行的;**publication**出版;**authorship**著述;**copy**复制;**drafts**精绵;**book**书籍;**novel**新奇的;**handwritten**手写的;**writing**笔迹;**publishing**出版，出版业，出版社;**novella**短篇故事;
-	14. manciple
+	15. manciple
 		1. - n. 伙食委员
-	15. manumotive
-	16. manure
+	16. manumotive
+	17. manure
 		1. [muck](dic://muck)
 		2. [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
 		3. [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
