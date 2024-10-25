@@ -39,10 +39,11 @@
 		6. And some protective behaviors-such as condom use-increased, particularly among circumcised men /而一些保护行为，诸如尤其接受手术的男性增加了使用安全套的意识。
 		7. The Jewish Torah, however, is inconveniently specific: God told Abraham to circumcisehis heirs on the eighth day. /然而，犹太律法则明确规定：神吩咐亚伯拉罕，在其子嗣出生第八天时为他们行割礼。
 	3. concise
-		1. a. 简洁的, 简明的
-		2. con-加强 + cis-切 + -e → 切掉多余的 → 简明的。
-		3. concision
-	4. excise
+		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
+		2. a. 简洁的, 简明的
+		3. con-加强 + cis-切 + -e → 切掉多余的 → 简明的。
+		4. concision
+	5. excise
 		1. n. (烟、酒等)消费税, 货物税, 国产税  vt. 切除
 		2. ex-外 + cis-切 + -e → 切出 → 切除。
 		3. 来自拉丁语 accensum,评估，估税，来自 cens-,评估，审查，词源同 census.因词义与 excise有所重合，因而拼写受 excise影响俗化。  
@@ -58,7 +59,11 @@
 		13.  excised goods /征税商品。
 		14. excised the tumor; excised two scenes from the film. /切掉一个肿瘤；切掉电影中两个场景
 		15. Customs and excise receipts rose 2.5 per cent. /关税及消费税收入提高了2.5%。
-	5. incise
+		16. Uh, we were able to excise all the infected bone. /我们成功切除了所有被感染的骨骼。
+		17. Recently, in the Czech Republic, there was a proposal to increase the excise tax on smoking. /最近，捷克共和国有一个增加香烟消费税的提案。
+		18. And the taxes in this bill include a 15% corporate minimum tax and an excise tax on stock buybacks /该法案中的税收包括15%的公司最低税和股票回购的消费税。
+		19. In the 15th century, excise in exchange was an excellent and exciting way to enrich the exchequer. /在15世纪，交换中的消费税是一种极好的令人兴奋的方法来富足国库。
+	6. incise
 		1. vt. 切割, 雕刻
 		2. in-进入，使 + cis-切，砍，刻 + -e。词源同 excise,circumcise.
 		3. _v._ [cut](dic://cut)
@@ -76,34 +81,37 @@
 		15. incised
 		16. incisure
 		17. incisive
-			1. in-进入 + cis-切开 + -ive, 表形容词 → 切人的 → 一针见血的，是单词incise 派生的形容词。
-			2. a. 敏锐的, 机敏的, 激烈的, 切入的, 锋利的
-			3. [acute](dic://acute), [discriminating](dic://discriminating), [keen](dic://keen), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
-			4. [piercing](dic://piercing)
-			5. _adj._ [perceptive](dic://perceptive), [sharp](dic://sharp)
-			6. _n._ [unperceptive](dic://unperceptive), [unperceiving](dic://unperceiving), [dull](dic://dull)
-			7. **insightful**有深刻见解的;**perceptive**敏感的;**witty**诙谐的;**astute**机敏的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**deft**灵巧的;**hard-hitting**有力的, 有效的;**thought-provoking**引起思考的,发人深省的;**thoughtful**沉思的, 思考的;**succinct**简洁的;
-			8. _[incisive canal](dic://incisive%20canal)_  [解剖] 门齿管; [解剖] 切牙管; 
-			9. _[incisive bone](dic://incisive%20bone)_  [解剖] 切牙骨；门齿骨
-			10. _[incisive fossa](dic://incisive%20fossa)_  [解剖] 切牙窝；[解剖] 门齿窝
-			11. _[incisive foramen](dic://incisive%20foramen)_  切牙孔；[解剖] 门齿孔
-			12. an incisive mind; incisive comments /锐利的头脑；尖锐的评论
-			13. a trenchant argument. /a biting aphorism./a crisp reply./a cutting remark.
-			14. the narrative is bookended by a pair of incisive essays. /这篇叙述文头尾部分都有深刻的短论。
-			15. an incisive and piquant style of writing; /锋利、辛辣的写作风格；
-	6. precis
-		1. n. 摘要, 梗概, 大意, 概要  
-		2. vt. 摘...的要点, 写...的大意
-		3. pre-预先 + cis-剪，切 → 摘要，大纲。
-		4. a sketchy summary of the main points of an argument or theory
+			1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, incisive, ascute, )
+			2. in-进入 + cis-切开 + -ive, 表形容词 → 切人的 → 一针见血的，是单词incise 派生的形容词。
+			3. a. 敏锐的, 机敏的, 激烈的, 切入的, 锋利的
+			4. [acute](dic://acute), [discriminating](dic://discriminating), [keen](dic://keen), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
+			5. [piercing](dic://piercing)
+			6. _adj._ [perceptive](dic://perceptive), [sharp](dic://sharp)
+			7. _n._ [unperceptive](dic://unperceptive), [unperceiving](dic://unperceiving), [dull](dic://dull)
+			8. **insightful**有深刻见解的;**perceptive**敏感的;**witty**诙谐的;**astute**机敏的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**deft**灵巧的;**hard-hitting**有力的, 有效的;**thought-provoking**引起思考的,发人深省的;**thoughtful**沉思的, 思考的;**succinct**简洁的;
+			9. _[incisive canal](dic://incisive%20canal)_  [解剖] 门齿管; [解剖] 切牙管; 
+			10. _[incisive bone](dic://incisive%20bone)_  [解剖] 切牙骨；门齿骨
+			11. _[incisive fossa](dic://incisive%20fossa)_  [解剖] 切牙窝；[解剖] 门齿窝
+			12. _[incisive foramen](dic://incisive%20foramen)_  切牙孔；[解剖] 门齿孔
+			13. an incisive mind; incisive comments /锐利的头脑；尖锐的评论
+			14. a trenchant argument. /a biting aphorism./a crisp reply./a cutting remark.
+			15. the narrative is bookended by a pair of incisive essays. /这篇叙述文头尾部分都有深刻的短论。
+			16. an incisive and piquant style of writing; /锋利、辛辣的写作风格；
+	7. precis
+		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
+		2. (compendium, precis, brief, synoptic, digest, abstract, conspectus, gist, summary, )
+		3. n. 摘要, 梗概, 大意, 概要  
+		4. vt. 摘...的要点, 写...的大意
+		5. pre-预先 + cis-剪，切 → 摘要，大纲。
+		6. a sketchy summary of the main points of an argument or theory
 			1. [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract)
-		5. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
-		6. _v._ [sum up](dic://sum up), [summarize](dic://summarize), [summarise](dic://summarise), [resume](dic://resume)
-		7. **succinct**简洁的;**concise**简明的，简洁的;**summary**扼要的;**gist**主旨，要点;**synopsis**概要，大纲;**brief**简短的，简洁的;**compendium**摘要,纲要;**essay**散文;**summation**总和,加在一起;**rebuttal**反驳;**summarize**总结, 概述;
-		8. Precis this chapter in two pages. /用两页写出这一章的大意。
-		9. a precis aims to express a passage more economically /提要就是要将一段文章更加简洁地表达出来。
-		10. I suppose further that you need a **precis** of the idea so you can decide whether the suggestion is feasible and warrants more exploration. /我进一步假设您需要有一个大致的想法，以使得您可以决定那个建议是否切实可行而且确保深入的研究。
-	7. precise
+		7. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
+		8. _v._ [sum up](dic://sum up), [summarize](dic://summarize), [summarise](dic://summarise), [resume](dic://resume)
+		9. **succinct**简洁的;**concise**简明的，简洁的;**summary**扼要的;**gist**主旨，要点;**synopsis**概要，大纲;**brief**简短的，简洁的;**compendium**摘要,纲要;**essay**散文;**summation**总和,加在一起;**rebuttal**反驳;**summarize**总结, 概述;
+		10. Precis this chapter in two pages. /用两页写出这一章的大意。
+		11. a precis aims to express a passage more economically /提要就是要将一段文章更加简洁地表达出来。
+		12. I suppose further that you need a **precis** of the idea so you can decide whether the suggestion is feasible and warrants more exploration. /我进一步假设您需要有一个大致的想法，以使得您可以决定那个建议是否切实可行而且确保深入的研究。
+	9. precise
 		1. a. 精确的, 严谨的, 明确的
 		2. pre-向前 + cis-切，雕刻 + -e → 向前雕刻，继续雕刻 → 精确的。
 		3. _adj._ [dead](dic://dead), [fine](dic://fine), [finespun](dic://finespun), [hairsplitting](dic://hairsplitting), [meticulous](dic://meticulous), [punctilious](dic://punctilious), [microscopic](dic://microscopic)
@@ -119,9 +127,9 @@
 			1. _n._ [exactness](dic://exactness), [exactitude](dic://exactitude)
 			2. _n._ [impreciseness](dic://impreciseness), [imprecision](dic://imprecision)
 			3. **accuracy**精确度，准确性;**finesse**纤细;**dexterity**灵巧;**subtlety**微妙;**craftsmanship**技巧;**smoothness**平滑;**exacting**苛求的;**meticulous**极仔细的;**clarity**清楚，明晰;**artistry**艺术性;**machining**加工;
-	8. recision
+	10. recision
 		1. n. 取消, 废除
-	9. cement
+	11. cement
 		1. [cementum](dic://cementum)
 		2. _n._ [concrete](dic://concrete), [building material](dic://building material), [adhesive material](dic://adhesive material), [adhesive agent](dic://adhesive agent), [adhesive](dic://adhesive), [filling](dic://filling), [fill](dic://fill)
 		3. _v._ [bind](dic://bind), [coat](dic://coat), [surface](dic://surface), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
@@ -130,10 +138,10 @@
 		6. cement a concrete floor /在混凝土地面上涂以水泥
 		7. Let's cement the parts together. /咱们来把这些部件粘接在一起吧
 		8. The cement plant is going full blast. /水泥厂正大力发展生产。
-	10. cementite
+	12. cementite
 		1. cement【水泥】 + -ite
 		2. _n._ 渗碳体,碳化铁
-	11. chisel
+	13. chisel
 		1. **hammer**敲打;**carving**雕刻;**screwdriver**螺丝起子;**carve**雕刻;**lathe**用车床加工;**knife**刀;**axe**斧;**blade**刀片，刀锋;**hammers**锤子;**pliers**钳子;**stone**石头;
 		2. [edge tool](dic://edge tool)
 		3. [deceive](dic://deceive), [lead on](dic://lead on), [delude](dic://delude), [cozen](dic://cozen), [victimize](dic://victimize), [victimise](dic://victimise), [carve](dic://carve)
@@ -149,23 +157,23 @@
 		13. Camille used a hammer and chisel to carve out a figure from the marble /卡米尔用锤子和凿子将大理石雕刻出一个人像。
 		14. Contouring is pretty much the must-have, you just want a really really chiseled face /修容基本上是美式妆容必不可少的了，要的是那种轮廓分明的脸颊。
 		15. But living things are not chiseled. /但活的东西不是被凿出来的。
-	12. cisgender
+	14. cisgender
 		1. n. 顺性别, 个人的生理性别与其行为或其扮演的角色完全匹配
 		2. cissexual
-	13. aminocidin
+	15. aminocidin
 		1. _[aminocidin](dic://aminocidin)_ 氨基杀菌素
-	14. gancidin
+	16. gancidin
 		1. _n._ 灭癌素
-	15. hadicidin
+	17. hadicidin
 		1. n. 哈迪杀菌素
-	16. methocidin
-	17. mitecidin
-	18. mycocidal
-	19. mycocidin
-	20. rhodocidin
-	21. takacidin
-	22. valacidin
-	23. aborticide
+	18. methocidin
+	19. mitecidin
+	20. mycocidal
+	21. mycocidin
+	22. rhodocidin
+	23. takacidin
+	24. valacidin
+	25. aborticide
 		1. bactericide
 			1. bacteri-细菌 + cid-杀 + -e
 		2. biocide
@@ -301,11 +309,13 @@
 		13. Deciduous and evergreen trees handle this problem in different ways. /落叶树和常青树以不同的方式处理这个问题。
 	7. caducity
 		1. n. 衰老；早落性；暂时性；无常
-		2. caducous
+		2. It can not only cure the disease, but also postpone **caducity** and strengthen the body /医疗按摩是祖国传统医学中一朵奇葩，它不仅能够治疗疾病，而且能延缓衰老强身健体。
+		3. The fitting gas combination can delay the fruit **caducity**, control fruit Browning and prolong fresh-storage period. /适宜的气体组合可延缓果实衰老，防止果实褐变且延长贮藏期。
+		4. caducous
 			1. _adj._ [deciduous](dic://deciduous)
 			2. _n._ [persistent](dic://persistent), [lasting](dic://lasting)
 			3. **whitish**带白色的;**fleshy**肉的;**deciduous**每年落叶的;**yellowish**微黄色的;**brownish**呈褐色的;**flowering**开花的;**reddish**微红的;
-		3. deciduous, indeciduous
+		5. deciduous, indeciduous
 	8. cascade
 		1. _n._ [waterfall](dic://waterfall), [falls](dic://falls), [succession](dic://succession), [descent](dic://descent)
 		2. _v._ [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down), [arrange](dic://arrange), [set up](dic://set up)
@@ -322,9 +332,43 @@
 	12. coincide
 		1. coincident
 		2. coincidence
-	13. incidence, incident, occident
-	14. occasion
-	15. recidivism
+	13. incidence
+		1. in-进入，使 + cid-掉落，落下 + -ence, 表名词。引申词义发生率。
+		2. n. 发生, 发生率, 影响, 负担者, 入射, 倾角
+		3. incident
+		4. incidental (ancillary, incidental, contingent, )
+			1. a. 附带的, 偶然的, 容易发生的  n. 附带事件
+			2.  来自 incident,偶发事件，发生。引申词义偶然的，附带的。
+			3. _n._ [expense](dic://expense), [item](dic://item), [point](dic://point)
+			4. _adj._ [omissible](dic://omissible), [parenthetic](dic://parenthetic), [parenthetical](dic://parenthetical), [peripheral](dic://peripheral), [secondary](dic://secondary), [related](dic://related), [related to](dic://related to)
+			5. _n._ [basic](dic://basic), [unrelated](dic://unrelated), [essential](dic://essential)
+			6. **ancillary**辅助的, 附属的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**extraneous**外部的,外来的;**accidental**意外的;**consequential**重要的;**coincidental**巧合的;**trivial**不重要的，琐碎的;**unintentional**不是故意的,无心的,无意识的;**occasional**偶尔的, 不经常的;**unimportant**不重要的;**unrelated**无关的, 不相关的;
+			7. the incidental catch of dolphins in the pursuit of tuna /捕捉金枪鱼时偶尔捕到的海豚。
+			8. the ordinary risks incidental to a fireman's job. /从事消防工作易发生的常见险情。
+			9. Certain discomforts are incidental to the joys of camping out. /享受露营的快乐时, 难免也会有些不便之处.
+			10. Naturally, there will be a few incidental expenses. /自然会有一些附加费用。
+			11. _incidental music_ 配乐（戏剧、电影等）
+	14. occident (orient)
+		1. n. 西方, 欧美, 西欧诸国, 西部
+		2. oc-一再 + cid-落下 + -ent表名词。
+		3. occident - 日本素有Land of the Rising Sun（旭日之国）的别称，而亚洲（特别是远东）则一向被欧美人称为the Orient（东方）。orient一词源于拉丁语sōl oriēns（旭日），其中oriēns作rising（正在升起的）解，也可以说orient就是来自oriēns。在作形容词用时，orient除了表示“东方的”之外，至今仍然保留了“升起的”这一原义。orient和east的区别在于，前者属诗歌语言，而后者属普通词汇。orient在作名词用时，表示“东方（国家）”或“远东”，在美国英语中也常作动词用，表示“以……为方向（或目标）”、“定……的方位”、“使熟悉情况”等义，相当于英国英语orientate。  
+		4. 对古罗马占卜者来说，东预示吉祥。他们以观察鸟的飞向来预卜吉凶。神鸟从笼子里放出，若朝东飞则为吉兆。基督教徒也接受了这种迷信看法。基督教堂常以位于东端的圣坛定其朝向。若神鸟朝西飞则为凶兆，因为昔日教士总是将西与死亡及毁灭相联系。与orient相对的occident其词源就反映了这层含义。occident源于拉丁语occidēns 'setting'（落下的）。因为日落于西，所以occident后被转义表示“西方”或“西方的”，而且常与死亡相联系。英语成语go west也含有“死”或“完蛋”之意。
+		5.  [western hemisphere](dic://western hemisphere), [New World](dic://New World)
+		6. First of all, food systems between China and **Occident** are different /首先，西方国家和中国的进餐方式不同。
+		7. Our cultural beliefs caused many problems traveling through the **Occident**. /我们在文化上的信仰导致了许多在西方国家旅游时的问题。
+	15. occasion
+		1. n. （某事发生的）时刻，时候；<正式>时机，适当的机会；特殊（或重大）场合，特殊（或重大）事件；<正式>理由，原因 
+		2. v. <正式> 引起，惹起
+		3.  [juncture](dic://juncture)
+		4.  [affair](dic://affair), [social occasion](dic://social occasion), [function](dic://function), [social function](dic://social function)
+		5. _n._ [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event), [social event](dic://social event), [reason](dic://reason), [ground](dic://ground)
+		6. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make)
+		7. [chance](dic://chance) 侧重指偶然或意外的机会，有时也指正常或好的机会。  
+		8. [opportunity](dic://opportunity) 侧重指有利或适合于采取行动，以达到某一目的或实现某种愿望的最佳时机或机会。  
+		9. [occasion](dic://occasion) 指特殊时机或良机，也指时节。
+		10. **momentous**重大的, 严重的;**celebration**庆祝;**anniversary**周年纪念;**birthday**生日，诞辰;**special**特别的;**commemorate**纪念;**commemoration**纪念;**day**一天;**celebrate**庆祝;**circumstance**环境;**event**事件，大事;
+		11. 
+	17. recidivism
 		1. re-往回、向后 + cid-落下 + -iv(e) + -ism。
 		2. n. 累犯
 		3. _n._ [backsliding](dic://backsliding), [lapse](dic://lapse), [lapsing](dic://lapsing), [relapse](dic://relapse), [relapsing](dic://relapsing), [reversion](dic://reversion), [reverting](dic://reverting)
@@ -345,16 +389,21 @@
 			2. **offender**冒犯者;**felon**重罪犯;**habitual**惯常的;**criminal**罪犯;**delinquent**有过失的;**juvenile**青少年的;**incarcerated**钳闭的;**rapist**强奸犯;**inmate**同住者;**perpetrator**做坏事者;**convict**证明…有罪;
 			3. the third lowest recidivist rate in the country. /该国第三低的继续犯罪率。
 			4. He can be paroled during prison time if he is not a **recidivist**. /如果他不是累犯的话，在服刑期间有可能被假释。
-2. chance
-3. cheat
-4. chute
+7. chance
+8. cheat
+9. chute
 	1. [parachute](dic://parachute)
 	2. [slide](dic://slide), [slideway](dic://slideway), [sloping trough](dic://sloping trough)
 	3. [parachute](dic://parachute), [jump](dic://jump)
 	4. _n._ [rescue equipment](dic://rescue equipment), [gutter](dic://gutter), [trough](dic://trough)
 	5. _v._ [dive](dic://dive), [plunge](dic://plunge), [plunk](dic://plunk)
 	6. **hopper**单足跳者;**conveyor**输送机，传送机;**parachute**降落伞;**ramp**斜坡，坡道;**sled**雪橇;**ledge**壁架;**dispenser**配药师,药剂师;**receptacle**容器;**slurry**泥浆;**elevator**电梯;**chopper**斧头;
-	7. 
+	7. That's all chutes and ladders, isn't it? /人生起起落落 不是吗？
+	8. Some idiot keeps stuffing the trash chute with pizza boxes. /某个白痴小孩老是用披萨盒 把垃圾槽堵住。
+	9. He slid down a coal chute and got the dirtiest of all. /他从输煤管滑下来，脏得面目全非。
+	10. You slide down a chute and then work your way back up through the appellate system. /你沿着滑道滑下然后又通过上诉制度沿路折回。
+	11. When the plane stopped, crew members and all 379 passengers slid down emergency chuteswithin 20 minutes. All survived /当飞机停下来时，机组人员和所有379名乘客在20分钟内从紧急滑梯上滑下来。机上人员都幸存。
+	12. He hauled on them, trying to angle the chute away from the enemy fire, but it was no use /他操纵着绳索，试图远离敌军的炮火，但并没有起什么作用。
 
 
 ### + \*kal- +
@@ -363,7 +412,7 @@
 	1. callosity
 		1. _n._ [hardening](dic://hardening), [insensitivity](dic://insensitivity), [insensitiveness](dic://insensitiveness)
 		2. **whitish**带白色的;**dorsal**背的，背侧的;**lesion**损害;**fleshy**肉的;**bony**骨的;**plantar**脚底的;**ventral**腹部的;**ridges**带钢单向皱纹;**hoof**步行;**fibrous**纤维的，纤维性的;**apical**顶上的, 顶点的;
-	2. callous
+	2. callous (aloof, disinterested, indifferent, callous,)
 		1. a. 冷酷无情的, 无同情心的, 冷漠的
 		2. call-硬的 + -ous表形容词。比喻无感情的，冷漠的。
 		3.  [cauterize](dic://cauterize), [cauterise](dic://cauterise)
@@ -749,7 +798,7 @@
 		11. candlelight
 		12. candleholder
 		13. candlefish
-	19. cense (sense)
+	19. cense  (sense, censure, censor, cense, census)
 		1. v. （依据仪式）用香熏；焚香敬神
 		2. [incense](dic://incense), [thurify](dic://thurify)
 		3. _v._ [odorize](dic://odorize), [odourise](dic://odourise), [scent](dic://scent)
@@ -780,11 +829,12 @@
 		17. incensory
 			1. in-进入，使 + cens-=cand-火，燃烧 + -ory
 			2. n.香炉（等于 censer）
-		18. incensation (incineration, insinuation) (incarcerate, incarnadine, incarnate, incaution, incendiary)
-			1. _n._ 熏香,焚香
-			2. _[incensation](dic://incensation)_ 上香举行礼仪时焚烧香料的献香行动
-			3. in-进入，使 + cens-=cand-火，燃烧 + -ation表名词，是单词incense 派生的名词。
-		19. frankincense
+		18. incensation (incineration, insinuation)
+			1. (incarcerate, incarnadine, incarnate, incaution, incendiary, incensation)
+			2. _n._ 熏香,焚香
+			3. _[incensation](dic://incensation)_ 上香举行礼仪时焚烧香料的献香行动
+			4. in-进入，使 + cens-=cand-火，燃烧 + -ation表名词，是单词incense 派生的名词。
+		20. frankincense
 			1. frank,高贵的，贵重的，incense,香。
 			2. _[frankincense](dic://frankincense)_  n. 乳香
 			3. _n._ [gum](dic://gum)
@@ -802,7 +852,7 @@
 	7. _v._ [flare up](dic://flare up), [ignite](dic://ignite), [light](dic://light), [make](dic://make), [create](dic://create)
 		1. [kindle](dic://kindle) 指艰难或缓慢地把可燃料点燃，可用于比喻。  
 		2. [fire](dic://fire) 普通用词，指将某物点燃使其燃烧起来，火势可大可小。  
-		3. [ignite](dic://ignite) 多用于科技文体，指使某物受热直到燃烧或发光，也可指用火花使易燃物迅速燃烧起来。   
+		3. [ignite](dic://ignite) 多用于科技文体，指使某物受热直到燃烧或发光，也可指用火花使易燃物迅速燃烧起来。  
 		4. [light](dic://light) 普通用词，指点燃易燃物，使其能发光，满足各种需要。
 	8. **e-book**电子图书;**amazon**女战士;**paperback**纸封面本;**books**书评;**hardback**精装本;**nook**角落;**book**书籍;**audiobook**有声读物;**tablet**碑;**bookshelf**书架;**bookshop**书店;
 	9. rekindle
@@ -2179,31 +2229,70 @@
 		2. recessional
 	12. retrocede
 		1. retrocession, 
-	13. secede, secession
-	14. cede (concede)
-		1.  来自 PIE*sed,走，离开，放弃，词源同 accede,cession.
-		2.  [concede](dic://concede), [yield](dic://yield), [grant](dic://grant)
-		3.  [surrender](dic://surrender), [deliver](dic://deliver), [give up](dic://give up)
-		4. _v._ [give](dic://give), [gift](dic://gift), [present](dic://present)
-		5. **relinquish**交出, 让给;**renounce**宣布放弃;**surrender**投降;**abandon**离弃;**seize**抓住;**concede**承认;**unwilling**不愿意的;**occupy**占据，占领;**invade**侵略;**sovereignty**最高统治权, 君权;**negotiate**谈判，商议;
-		6. they have had to cede ground to the government. /他们不得不将土地让给政府。
-		7. a province ceded by treaty. /条约的割让的一个省。
-		8. A third of the territory was ceded to France. /领土的三分之一割让给了法国。
-		9. As a result of a series of European wars, Florida was ceded to England /一系列欧洲战事的结果是佛罗里达被割让给英国。
-		10. And they agreed that after a certain period of time, they would cede power to civilians. /他们同意在一段时间后，将权力移交给平民。
-		11. He did not admit it but, by turning the colour of a cough drop, he ceded the point. /他没有承认，但他脸色变了，放弃了观点。
-		12. cessation
+	13. secede
+		1. vi. 正式脱离(或退出), 分离
+		2. se-分开 + ced-走 + -e → 走开 → 退出。
+		3. [splinter](dic://splinter), [break away](dic://break away)
+		4. _v._ [separate](dic://separate), [part](dic://part), [split up](dic://split up), [split](dic://split), [break](dic://break), [break up](dic://break up)
+		5. **secession**脱离;**annexation**并吞;**statehood**独立国家的地位;**referendum**公民投票权;**insurrection**暴动;**self-determination**自主;**republic**共和国;**constitution**宪法;**unite**使…混合;**invade**侵略;
+		6. They plotted to make the whole Mississippi Valley secede from the United States /他们阴谋策划使整个密西西比流域脱离美国。
+		7. For decades, the party campaigned to secede from the rest of the country. /数十年来，该政党一直致力于脱离意大利其他地区的运动。
+		8. North of Denver now threatening to secede. /丹佛北部现在威胁要退出。
+		9. Could part of Ukraine secede from the rest of the country and become part of Russia? /乌克兰的一部分地区会脱离这个国家成为俄罗斯的所属吗?
+		10. secession
+	15. succeed
+	16. accede
+		1. 1. _vi._ 答应, 同意
+		2. (正式)加入，参加
+		3. 开始任职，就职，就任；就位，即位，继任
+		4. (通过财产的添附而)增加；继承(财产)
+		5. <古>接近
+		6.  [submit](dic://submit), [bow](dic://bow), [defer](dic://defer), [give in](dic://give in)
+		7. [enter](dic://enter)
+		8.  [assent](dic://assent), [acquiesce](dic://acquiesce)
+		9. _v._ [yield](dic://yield), [give in](dic://give in), [succumb](dic://succumb), [knuckle under](dic://knuckle under), [buckle under](dic://buckle under), [succeed](dic://succeed), [come after](dic://come after)
+		10. **oblige**强制;**relinquish**交出, 让给;**assent**赞成;**renounce**宣布放弃;**concede**承认;**ratify**批准;**accept**接受;**obliged**感激的;**refusal**拒绝;**succumb**屈服;**compel**强迫，迫使;
+		11. Our government acceded to the treaty. /我国政府加入了该条约。
+		12. the authorities did not accede to the strikers' demands. /当局没有同意罢工者的要求。
+		13. The prince acceded to the throne when the king died. /国王死后,王子继承了王位。
+		14. Being on show is a serious business for Queen Elizabeth II who acceded to the throne 60 years ago next month. /对于伊丽莎白二世来说，出席公众场合是一项非常重要的任务，下个月就是她登基六十周年的纪念了。
+		15. It begins when the first James acceded to the throne and was struck by England's apparent wealth compared with his native Scotland. /故事始于詹姆斯一世即位，他震惊于英格兰远超其祖国苏格兰的巨大财富。
+	17. antecede
+		1.  [predate](dic://predate), [precede](dic://precede), [forego](dic://forego), [forgo](dic://forgo), [antedate](dic://antedate)
+		2. thinkers who anteceded the rise of capitalism /资本主义兴起前的思想家
+		3. In order to antecede his antagonists in this field, he set said to the Antarctic /为了在这个领域居他的对手之先，他启航去了南极。
+	18. acedia
+		1. - n. 绝望；懒惰，倦怠
+		2.  [sloth](dic://sloth), [laziness](dic://laziness)
+		3. _n._ [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
+		4. **affliction**折磨;**procrastination**延迟,拖延;**sin**过失;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**malaise**不舒服;**insomnia**失眠症，失眠;**laziness**怠惰;**loneliness**孤独,寂寞;**tiredness**疲劳;**depression**沮丧;
+		5. Among them, " escape from prison " " libidinal city " " acedia housewife " wait for popular drama anthology to be belonged to " without card " . /其中，《越狱》《欲望都市》《绝望主妇》等热门剧集都属于“无证”。
+		6. You must be honest with yourself, because self -deception is one of the commonest roads to **Acedia**. /在这个问题上，你必须保持诚实，因为自欺也通向“怠惰”最常见的道路。
+	19. cede
+		1. (renounce, abjure, abdicate, foreswear, quit, relinquish, cede, concede, )
+		2.  来自 PIE*sed,走，离开，放弃，词源同 accede,cession.
+		3.  [concede](dic://concede), [yield](dic://yield), [grant](dic://grant)
+		4.  [surrender](dic://surrender), [deliver](dic://deliver), [give up](dic://give up)
+		5. _v._ [give](dic://give), [gift](dic://gift), [present](dic://present)
+		6. **relinquish**交出, 让给;**renounce**宣布放弃;**surrender**投降;**abandon**离弃;**seize**抓住;**concede**承认;**unwilling**不愿意的;**occupy**占据，占领;**invade**侵略;**sovereignty**最高统治权, 君权;**negotiate**谈判，商议;
+		7. they have had to cede ground to the government. /他们不得不将土地让给政府。
+		8. a province ceded by treaty. /条约的割让的一个省。
+		9. A third of the territory was ceded to France. /领土的三分之一割让给了法国。
+		10. As a result of a series of European wars, Florida was ceded to England /一系列欧洲战事的结果是佛罗里达被割让给英国。
+		11. And they agreed that after a certain period of time, they would cede power to civilians. /他们同意在一段时间后，将权力移交给平民。
+		12. He did not admit it but, by turning the colour of a cough drop, he ceded the point. /他没有承认，但他脸色变了，放弃了观点。
+		13. cessation
 			1. **withdrawal**撤退;**resumption**重新开始;**smoking**抽烟;**cease**停止;**quitting**书面收据;**termination**终止;**onset**开始，着手;**abstinence**节制;**nicotine**尼古丁;**reduction**减少;**tobacco**烟草，烟叶;
 			2. incessant, incessancy
 				1. _[cessation](dic://cessation)_  n. 停止；中止；中断
 				2. _[smoking cessation](dic://smoking%20cessation)_  戒烟
 				3. _[cessation of business](dic://cessation%20of%20business)_  停止营业
 				4. _[contrived cessation of business](dic://contrived%20cessation%20of%20business)_  有预谋的停业
-		13. cesser
+		14. cesser
 			1. **Cesser clause**:  责任终止条款；负担终止条款；仔肩终止条款；职守终止条款
-		14. cession, cessionary
+		15. cession, cessionary
 			1. **annexation**并吞;**treaty**条约，协议;**annexed**附加的，附属的;**sovereignty**最高统治权, 君权;**secession**脱离;**indemnity**保障, 赔偿, 补偿;**ratification**正式批准;**statehood**独立国家的地位;**assent**赞成;**surrender**投降;**proclamation**宣布,声明,公告;
-	16. concede
+	21. concede
 		1. [profess](dic://profess), [confess](dic://confess)
 		2. [yield](dic://yield), [grant](dic://grant)
 		3. [admit](dic://admit), [acknowledge](dic://acknowledge), [agree](dic://agree), [hold](dic://hold), [concur](dic://concur), [concord](dic://concord), [give](dic://give)
@@ -2238,25 +2327,25 @@
 			1. _concessional loan_ 优惠贷款,
 		11. concededly
 			1. adv. 明白地；无可争辩地；毫无疑问地
-	17. decedent
+	22. decedent
 		1.  [dead person](dic://dead person), [dead soul](dic://dead soul), [deceased person](dic://deceased person), [deceased](dic://deceased), [departed](dic://departed)
 		2. **deceased**已故的;**executor**执行者;**plaintiff**原告;**defendant**被告;**claimant**原告;**heirs**继承人;**petitioner**请愿人;**appellant**上诉人;**beneficiary**受惠者;**probate**遗嘱认证;**debtor**债务人;
 		3. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		4. tried to tamper with the decedent's will; tampering with the timing mechanism of the safe /竭力篡改死者的遗嘱；胡乱拨弄保险箱的计时装置
 		5. I can't believe,there is such a imbrute doing in this age,I can't even believe the decedent is just a "infidel /我无法相信，如此粗鲁野蛮的刑罚竟然能在这个时代出现，更无法相信处死的只是一个政见不同的人。
-	18. cease
+	23. cease
 		1. unceasing, surcease
 		2. decease, predecease, deceased
 		3. ceasing, ceaseless
 		4. ceasefire
-	19. necessary
+	24. necessary
 		1. ne-,无，没有，不能，词源同 no,-cess,走，离开，词源同 cede,concession.即不能走的，不能离开的，引申词义必不可少的，必需的。
 		2. necessity, 
 		3. necessitate, necessitation
 		4. necessarily, 
 		5. necessitarian
 		6. necessitous
-	20. acedia
+	25. acedia
 		1. n. 倦怠, 漠然
 		2. a- + ced-走 + -ia
 		3. **affliction**折磨;**procrastination**延迟,拖延;**sin**过失;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**malaise**不舒服;**insomnia**失眠症，失眠;**laziness**怠惰;**loneliness**孤独,寂寞;**tiredness**疲劳;**depression**沮丧;
@@ -3045,8 +3134,8 @@
 		5. censorial
 			1. _adj._ [censor](dic://censor)
 			2. **censorship**审查员的职权;**censor**审查，检查;**authoritarian**权力主义的,专制的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**repressive**镇压的;**reactionary**反动的;**governmental**政府的;**judicial**法庭的;**tyrannical**暴君的,暴君似的;**totalitarian**极权主义的;**ideological**观念学的;
-	2. censure
-		1. admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure,
+	2. censure (sense, censure, censor, cense, census)
+		1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
 		2. [animadversion](dic://animadversion)
 		3. [excommunication](dic://excommunication), [exclusion](dic://exclusion)
 		4. [reprimand](dic://reprimand), [criminate](dic://criminate)
@@ -3189,6 +3278,23 @@
 	6. carotodynia
 2. **cerebell-** = 表示“小脑”。源自拉丁语 cerebrum "brain."
 3. **cerebr-** = brain, 表示“脑”。源自拉丁语 cerebrum "brain."
+	1. cerebra
+	2. cerebral (dispassionate, cerebral)
+		1. adj. 大脑的，脑的；理智的，智力的；卷舌的，卷舌音的
+		2.  [intellectual](dic://intellectual)
+		3. _adj._ [cerebrum](dic://cerebrum)
+		4. _n._ [emotional](dic://emotional)
+		5. **brain**脑袋;**hemorrhage**出血;**cortical**皮质的;**neurological**神经病学的;**spinal**脊骨的;**vascular**血管的;**pulmonary**肺的,肺部的;**ischemic**缺血性的;**infarction**梗塞;**venous**静脉的;**myocardial**心肌的;
+		6. You know, very cerebral.. - Yeah, I know the type. /你知道的，非常有理智… -是的，我知道那一类型的人。
+		7. It's very cerebral stuff, this fugue business. /写赋格是件很动脑子的事情。
+		8. 
+	4. cerebromalacia
+	5. cerebrosclerosis
+	6. cerebrospinal
+	7. cerebrum
+	8. cerebrate
+	9. cerebritis
+	10. subcerebral
 4. **cervic, cervico-** = 表示“颈，宫颈”，多用于医学领域。和表示角的horn同源。源自拉丁语 cervix "neck."
 5. **corn-** = horn, 表示“角”。源自拉丁语 cornu "horn."
 	1. bicorn
@@ -4589,6 +4695,7 @@
 		1. _[excurse](dic://excurse)_  v. 偏离，离题；远足，短程旅行
 		2. excursus
 		3. excursive
+			1. (digress, sidebar, distraction, excursive, )
 		4. excursion
 			1. _n._ [journey](dic://journey), [journeying](dic://journeying)
 				1. [journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。  
@@ -4969,21 +5076,33 @@
 		9. **humiliate**蒙羞;**kill**杀死;**neuter**无性动物;**genitals**生殖器;**subdue**征服;
 		10. _[castrated](dic://castrated)_  阉割的
 		11. An ox is a castrated bull /阉牛是经过阉割的公牛。
-		12. castration
+		13. castration
+			1. n. 阉割；[农学] 去雄
+			2. _n._ [neutering](dic://neutering), [fixing](dic://fixing), [altering](dic://altering), [operation](dic://operation), [surgery](dic://surgery), [surgical operation](dic://surgical operation), [surgical procedure](dic://surgical procedure)
+			3. **mutilation**切断;**circumcision**割礼;**sterilization**杀菌,绝育;**punishment**处罚, 受罚;**humiliation**丢脸，耻辱;**torture**折磨;**bestiality**兽性;**crucifixion**苦难;**genitals**生殖器;**rape**强奸，掠夺;**euthanasia**安乐死;
+			4. They were given a choice no doubt-- castration or the wall. /毫无疑问 他们有两个选择 阉刑或去长城。
+			5. Instead, he died a criminal for his sexual orientation, and he was forced to endure chemical castration. /相反， 他因性取向而死于罪犯，并被迫忍受化学阉割。
+			6. 
 	7. chaste
-		1. morally pure (especially not having experienced sexual intercourse)
+		1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
+		2. morally pure (especially not having experienced sexual intercourse)
 			1. a holy woman innocent and chaste
-		2. pure and simple in design or style
+		3. pure and simple in design or style
 			1. a chaste border of conventionalized flowers
-		3. abstaining from unlawful sexual intercourse
-		4. _adj._ [celibate](dic://celibate), [continent](dic://continent), [pure](dic://pure), [vestal](dic://vestal), [virgin](dic://virgin), [virginal](dic://virginal), [virtuous](dic://virtuous)
-		5. _n._ [unchaste](dic://unchaste), [fancy](dic://fancy), [immoral](dic://immoral), [amoral](dic://amoral), [unmoral](dic://unmoral)
-		6. **pious**虔诚的;**virtuous**有道德的;**chastity**纯洁;**unmarried**未婚的;**sensual**感觉的;**godly**神圣的;**virgin**处女的;**faithful**忠实的，忠诚的;**discreet**小心的;**heterosexual**异性恋的;**wholesome**有益健康的;
-		7. _[chastest](dic://chastest)_  adj. 纯洁的；贞洁的；有道德的；朴素的 (chaste的变形)
-		8. _[chaste and undefiled](dic://chaste%20and%20undefiled)_  贞洁
-		9. unchastity, chastity
-		10. chastise
-			1. admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure,
+		4. abstaining from unlawful sexual intercourse
+		5. _adj._ [celibate](dic://celibate), [continent](dic://continent), [pure](dic://pure), [vestal](dic://vestal), [virgin](dic://virgin), [virginal](dic://virginal), [virtuous](dic://virtuous)
+		6. _n._ [unchaste](dic://unchaste), [fancy](dic://fancy), [immoral](dic://immoral), [amoral](dic://amoral), [unmoral](dic://unmoral)
+		7. **pious**虔诚的;**virtuous**有道德的;**chastity**纯洁;**unmarried**未婚的;**sensual**感觉的;**godly**神圣的;**virgin**处女的;**faithful**忠实的，忠诚的;**discreet**小心的;**heterosexual**异性恋的;**wholesome**有益健康的;
+		8. _[chastest](dic://chastest)_  adj. 纯洁的；贞洁的；有道德的；朴素的 (chaste的变形)
+		9. _[chaste and undefiled](dic://chaste%20and%20undefiled)_  贞洁
+		10. Ah, that humble, chaste, charitable brand of fraud! /啊，这个谦逊、贞洁、慈善的骗子！
+		11. Surely there can be no harm in discussing so chaste an idyl — when there hasn't been anything wrong. /那么，既然已经谈到这里，怎么又不谈了呢？讨论这样圣洁的一首情诗肯定不会有什么害处----既然其中没有什么不正当的关系嘛。
+		12. Among them you will not find the chaste and tranquil being in whom you may forever reign. /在他们中间， 你找不到你可以永远统治的纯洁和宁静的人。
+		13. He held her lightly enough and, after the chaste custom of the era, his hands were gloved. /他轻轻地抱着她， 按照那个时代的纯洁习俗， 他的双手戴着手套。
+		14. The same Signor Jupe was to 'enliven the varied performances at frequent intervals with his chaste Shaksperean quips and retorts'. /同一位 Signor Jupe 将“以他莎士比亚式的纯洁讽刺和反驳频繁地使各种表演活跃起来” 。
+		15. unchastity, chastity
+		16. chastise
+			1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
 			2.  [castigate](dic://castigate), [objurgate](dic://objurgate), [chasten](dic://chasten), [correct](dic://correct)
 			3. _v._ [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture)
 			4. **criticize**评论, 批评;**punish**严厉对待;**condemn**判刑，定罪;**accuse**控告，指控;**rebuke**指责，非难;**denounce**谴责;**embarrass**使窘迫;**humiliate**蒙羞;**dissuade**劝阻，劝止;**criticise**批评;**forgive**原谅;
@@ -4991,26 +5110,35 @@
 			6. he chastised the dancers who'd been hotdogging /他严惩了卖弄技巧的舞蹈演员。
 			7. Last week, the president openly chastised Sessions for recusing himself in the Russia matter. /上周，他还公开批评塞申斯刻意回避俄罗斯调查。
 			8. chastiser, chastisement, chastisable
-		12. chasteness
-		13. chasten (criticize, chasten, chastise)
+		17. chasteness
+		18. chasten (criticize, chasten, chastise)
 			1. 1. _vt._ 惩罚(某人)(使之改正或改进)；惩戒
 			2. 遏制(某人)；制止 净化
 			3. **chasten a careless writing style**:  使随便草率的文风变得简洁朴实
 			4. **chasten one's sense of independence**:  锻炼人的独立性
 			5. These, then, are the various ways we use " criticize, " " chasten, " and " chastise." /那么，这些就是我们使用“批评” 、“管教” 和“惩罚” 的各种方式。
 			6. " I want a humble heart; and a chastened mind; and I have never had them yet" ! /“我想要一颗谦卑的心；一颗受过磨练的心；但我还没有拥有它们”！
-		14. chastely
-	8. chateau
+		19. chastely
+	9. chateau
 		1. _n._ [country house](dic://country house)
 		2. **castle**城堡;**mansion**大厦;**manor**庄园;**abbey**大修道院，大寺院;**farmhouse**农舍;**chalet**瑞士山中的牧人小屋;**palace**宫殿;**Loire**卢瓦尔河;**vineyard**葡萄园;**villa**别墅;**Versailles**凡尔赛;
-	9. chateaux
-	10. chatelaine
-	11. incest, incestuous
-	12. 
+	10. chateaux
+	11. chatelaine
+	12. incest (infest, incest, )
+		1. n. 近亲相奸, 乱伦
+		2. - in-,不，非，-cest,纯的，词源同 caste,castrate.即不纯洁的，引申词义乱伦。
+		3. _n._ [unlawful carnal knowledge](dic://unlawful carnal knowledge), [criminal congress](dic://criminal congress)
+		4. **rape**强奸，掠夺;**bestiality**兽性;**porn**<口>色情文学，色情描写，色情刊物;**porno**色情作品;**sex**性别;**gangbang**一群男子与一女子的淫乱活动;**orgy**狂欢宴会;**adultery**通奸，通奸行为;**japan**日本亮漆;**interracial**人种间的,人种混合的;**scat**用拟声唱法唱;
+		5. Was it the gripping tale of teen incest or just the general fine quality of the prose? /是关于幼虫的故事呢 还是只喜欢大体内容呢总体来说质量很高的散文呢？
+		6. This is one function of the universal incest taboo, the prohibition of sex between close relatives. /这是普遍的乱伦禁忌的一个功能，即禁止近亲之间发生性关系。
+		7. incestuous
+	13. 
 3. caret
 	1. _n._ [mark](dic://mark)
 	2. **cursor**游标，指针;**pointer**指针;**syntax**语法;
 	3. Remember file codepage and caret position; /记住文件的代码页，并插入位置;
+	4. So, caret goes to the first non-empty character on a line, kind of like Regex caret. /因此，插入符号指向一行中的第一个非空字符，有点像正则表达式插入符号。
+	5. You can also move by whole lines, so zero moves to the beginning of a line, dollar sign moves to the end of a line, and the caret key moves to the first non-empty character on a line /您还可以按整行移动，因此零移动到行的开头，美元符号移动到行的末尾，插入符号键移动到行上的第一个非空字符。
 4. cashier
 	1. [teller](dic://teller), [bank clerk](dic://bank clerk)
 	2. _n._[banker](dic://banker), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
@@ -5024,10 +5152,18 @@
 	10. _[Financial Cashiers](dic://Financial%20Cashiers)_ 财务收银员
 5. cassation
 6. quash (misc)
-	1.  [repress](dic://repress), [keep down](dic://keep down), [subdue](dic://subdue), [subjugate](dic://subjugate), [reduce](dic://reduce)
-	2. [invalidate](dic://invalidate), [annul](dic://annul), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify)
-	3. _v._ [oppress](dic://oppress), [suppress](dic://suppress), [crush](dic://crush), [cancel](dic://cancel), [strike down](dic://strike down)
-	4. **suppress**抑制;**dismiss**离开;**stifle**使窒息;**quell**镇压;**thwart**反对;**overturn**推翻;**oust**剥夺;**curtail**截断, 缩短;**undermine**在某物下挖洞或挖通道;**compel**强迫，迫使;**discredit**败坏…的名声;
+	1. vt. 撤销；镇压；宣布无效；捣碎
+	2.  [repress](dic://repress), [keep down](dic://keep down), [subdue](dic://subdue), [subjugate](dic://subjugate), [reduce](dic://reduce)
+	3. [invalidate](dic://invalidate), [annul](dic://annul), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify)
+	4. _v._ [oppress](dic://oppress), [suppress](dic://suppress), [crush](dic://crush), [cancel](dic://cancel), [strike down](dic://strike down)
+	5. **suppress**抑制;**dismiss**离开;**stifle**使窒息;**quell**镇压;**thwart**反对;**overturn**推翻;**oust**剥夺;**curtail**截断, 缩短;**undermine**在某物下挖洞或挖通道;**compel**强迫，迫使;**discredit**败坏…的名声;
+	6. vt. 撤销; 平息, 镇压
+	7. 来自拉丁语 quassare,使无效，来自 cassare 拼写变体，来自 PIE*kes,砍，切，来自 PIE*skei,砍，切，词源同 caste,segment,scissors.
+	8. a hospital executive quashed rumours that nursing staff will lose jobs /一位医院管理人员平息了护理人员将要失业的谣言。
+	9. his conviction was quashed on appeal /上诉后他的判决被撤销。
+	10. The provincial authorities quashed another proposed plant in the Mekong Delta. /地方当局还否决了湄公河三角洲的另一个工厂提案
+	11. To quash the threat, the Sultan brings his war elephants to battle /为了消除威胁，苏丹带着他的战象参战。
+	12. I have quite enough to do at the moment without trying to quash these ridiculous rumors. /目前我已经忙得不可开交，却还要平息这些无聊的谣言。
 
 
 ### ⭐ + \*(s)keu- + = to cover, conceal
@@ -5083,6 +5219,14 @@
 		6. I don't approve of everything he did, but he was a responsible custodian of public emotion. /虽然我不赞成他做的事，但他是一个负责任的公众情感守护者。
 		7. custodianship
 	5. custody
+		1. [detention](dic://detention), [detainment](dic://detainment), [hold](dic://hold)
+		2. [hands](dic://hands)
+		3. _n._ [confinement](dic://confinement), [imprisonment](dic://imprisonment), [internment](dic://internment), [guardianship](dic://guardianship), [keeping](dic://keeping), [safekeeping](dic://safekeeping)
+		4. **guardianship**保护,守护,监护人的职责;**custodial**保管的,保管人的;**detention**拘留, 扣押;**remanded**发回更审;**divorce**使离婚，使分离;**jail**监狱;**arrest**逮捕;**prisoner**囚犯，犯人;**remand**还押;**extradition**引渡逃犯;**arrested**被捕的;
+		5. _in custody_ 被拘留
+		6. _custody transfer_ 运输监护
+		7. the understood provisos of a custody agreement. /监护协议的含蓄附文
+		8. He spent a week in custody on remand awaiting sentence. /等候判决期间他被还押候审一个星期。
 	6. custos
 	7. custodia
 3. **cut-** 表示“表皮”。源自拉丁语 cutis "skin."
@@ -5101,6 +5245,7 @@
 		2. epicuticle
 		3. endocuticle
 	4. cuticular
+		1. a. 表皮的
 	5. cutin
 	6. cutis
 		1. subcutis
@@ -5117,29 +5262,34 @@
 		5. husbandlike
 		6. husbandage
 		7. ex-husband
-	3. hut, hutment
-	4. hutch
-	5. huddle 
-		1. n. 杂乱一团, 混乱, 拥挤  
-		2. vt. 把...挤在一起, 乱堆, 草率了事, 蜷曲  
-		3. vi. 挤作一团, 蜷缩
-		4. 可能来自 PIE*skeu,遮蔽，隐藏，词源同 hide,hut,-le,表反复。引申词义蜷缩，挤在一起。
-		5. [powwow](dic://powwow)
-		6. [huddle together](dic://huddle together)
-		7. [cower](dic://cower)
-		8. _n._ [conference](dic://conference), [group discussion](dic://group discussion), [crowd](dic://crowd)
-		9. _v._ [cluster](dic://cluster), [constellate](dic://constellate), [flock](dic://flock), [clump](dic://clump), [crouch](dic://crouch), [stoop](dic://stoop), [bend](dic://bend)
-		10. **sideline**球场边线;**sit**坐;**scrimmage**混战;**shivering**颤抖的;**dugout**独木舟;**yell**大叫，叫喊;**cheer**欢呼;**locker**柜，箱;**kneel**跪下，跪;**congregate**集合, 聚集;**stare**凝视，盯着看;
-		11. go into a huddle with sb. /与某人秘密商议
-		12. huddle together for warmth /挤成一团取暖
-		13. huddled on the street in the guise of beggars. /装扮成乞丐挤在街道上
-		14. The cat huddled itself on the cushion. /猫将身子缩成一团睡在椅垫上。
-		15. The children huddled away in a corner. /孩子们挤在一个角落里。
-		16. He huddled the job together. /他匆匆忙忙地做完这项工作。
-		17. she huddled up close to him /她紧紧偎依着他。
-		18. The sheep were huddled together in a ditch. /羊群被赶到一条沟里挤在一起。
-		19. The two countries huddled up a treaty. /这两个国家草草地签订了一份合同。
-		20. The boys huddled together in the cave to keep warm. /"男孩们在山洞里挤作一团,使身体暖和些。"
+	3. hut
+		1. n. 小屋, 茅舍, 临时军营  v. (使)住在茅舍
+		2. hutment
+	5. hutch
+		1. n. 箱, 厨, 笼, 小屋  vt. 把...装箱
+		2. - 来自古法语 huche,柜子，来自拉丁语 hutica,柜子，箱子，来自 PIE*skeu,隐藏，遮盖，词源同 hut,house.现主要用于指养兔子等小动物的笼子或柜子，在家具行业也指抽屉柜。
+	6. huddle 
+		1. (cuddle, coddle, dawdle, daddle, diddle, doodle, fiddle, fuddle, huddle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, reddle, riddle, saddle, toddle, treadle, twiddle, waddle)
+		2. n. 杂乱一团, 混乱, 拥挤  
+		3. vt. 把...挤在一起, 乱堆, 草率了事, 蜷曲  
+		4. vi. 挤作一团, 蜷缩
+		5. 可能来自 PIE*skeu,遮蔽，隐藏，词源同 hide,hut,-le,表反复。引申词义蜷缩，挤在一起。
+		6. [powwow](dic://powwow)
+		7. [huddle together](dic://huddle together)
+		8. [cower](dic://cower)
+		9. _n._ [conference](dic://conference), [group discussion](dic://group discussion), [crowd](dic://crowd)
+		10. _v._ [cluster](dic://cluster), [constellate](dic://constellate), [flock](dic://flock), [clump](dic://clump), [crouch](dic://crouch), [stoop](dic://stoop), [bend](dic://bend)
+		11. **sideline**球场边线;**sit**坐;**scrimmage**混战;**shivering**颤抖的;**dugout**独木舟;**yell**大叫，叫喊;**cheer**欢呼;**locker**柜，箱;**kneel**跪下，跪;**congregate**集合, 聚集;**stare**凝视，盯着看;
+		12. go into a huddle with sb. /与某人秘密商议
+		13. huddle together for warmth /挤成一团取暖
+		14. huddled on the street in the guise of beggars. /装扮成乞丐挤在街道上
+		15. The cat huddled itself on the cushion. /猫将身子缩成一团睡在椅垫上。
+		16. The children huddled away in a corner. /孩子们挤在一个角落里。
+		17. He huddled the job together. /他匆匆忙忙地做完这项工作。
+		18. she huddled up close to him /她紧紧偎依着他。
+		19. The sheep were huddled together in a ditch. /羊群被赶到一条沟里挤在一起。
+		20. The two countries huddled up a treaty. /这两个国家草草地签订了一份合同。
+		21. The boys huddled together in the cave to keep warm. /"男孩们在山洞里挤作一团,使身体暖和些。"
 6. **scu-, scur-** = shield, 表示“盖上”。源自拉丁语 -scurus "covered."
 	1. chiaroscuro
 		1. chiaro-=clear清楚 + scur-遮盖 + o → 明暗对照。
@@ -5177,6 +5327,13 @@
 9. lederhosen
 10. meerschaum
 11. scum
+	1. n. 浮渣, 糟粕, 浮藻, 熔渣, 不起好作用的人  
+	2. vt. 撇去(浮沫)  vi. 产生泡沫
+	3. 来自中古英语 scum,泡沫，浮渣，来自 Proto-Germanic*skumaz,覆盖，隐藏，来自 PIE*skeu,覆盖，隐藏，词源同 hide,skim.引申比喻义渣滓，败类等。
+	4. scummy
+	5. scumming
+	6. scumbag
+	7. offscum
 12. skewbald
 13. skim
 14. sky
@@ -7606,25 +7763,26 @@
 		1. n. 商业化的平民文化; adj. 大众文化的；通俗文化的;
 4. **cycl-** = ring, circle, “圆，环”，「Greeks」kyklos, "circle, wheel, circle of event"
 	1. ancillary
-		1. **incidental**附属的;**miscellaneous**多方面的;**auxiliary**助动词;**provision**提供，供给，给养，供应品;**additional**增加的, 额外的, 另外的;**supplementary**增补的;**extraneous**外部的,外来的;**supplemental**补足的,追加的;**sundry**杂的;**value-added**增值的;**services**服务;
-		2. _ancillary equipment_ 辅助设备；外部设备；外围设备
-		3. _ancillary service_ 附属设备；辅助性服务
-		4. _ancillary materials_ 辅助材料
-	2. cycle
+		1. (ancillary, incidental, contingent, annexal, adnexal)
+		2. **incidental**附属的;**miscellaneous**多方面的;**auxiliary**助动词;**provision**提供，供给，给养，供应品;**additional**增加的, 额外的, 另外的;**supplementary**增补的;**extraneous**外部的,外来的;**supplemental**补足的,追加的;**sundry**杂的;**value-added**增值的;**services**服务;
+		3. _ancillary equipment_ 辅助设备；外部设备；外围设备
+		4. _ancillary service_ 附属设备；辅助性服务
+		5. _ancillary materials_ 辅助材料
+	3. cycle
 		1. bicycle, autocycle, cyclecar
 		2. acyclic
 		3. cycler, cyclic, cycling, cyclist, 
-	3. cyclane
+	4. cyclane
 		1. n. 环烷烃
-	4. cyclization
+	5. cyclization
 		1. n. [化学] 环化；环合作用
-	5. cyclometry
-	6. cyclone
+	6. cyclometry
+	7. cyclone
 		1. _n._ [atmosphere](dic://atmosphere), [atmospheric state](dic://atmospheric state), [windstorm](dic://windstorm)
 		2. _n._ [anticyclone](dic://anticyclone)
 		3. **typhoon**台风;**hurricane**飓风;**storm**暴风雨;**tornado**旋风;**storms**暴风雨;**tsunami**海啸;**landfall**着陆;**monsoon**季候风;**thunderstorm**雷电交加的暴风雨;**tropical**热带的;**vortex**涡流;
-	7. cyclop
-	8. etc... 
+	8. cyclop
+	9. etc... 
 5. **cylindr-** = 圆柱
 	1. cylinder
 		1. [piston chamber](dic://piston chamber)
@@ -7721,7 +7879,14 @@
 		24. **pitiful**可怜的，令人同情的;**laughable**荒唐可笑的;**idiotic**白痴的;**ridiculous**可笑的, 荒谬的;**stupid**愚蠢的;**lame**瘸的;**despicable**可鄙的,卑鄙的;**wretched**可怜的;**disgraceful**可耻的,丢脸的,不光彩的;**feeble**微弱的，无力的;**disgusting**令人厌恶的;
 		25. apathetic
 		26. antipathetic
-		27. antipathetical
+			1. adj. 格格不入的，怀有反感的；引起反感的；讨厌的
+			2. _adj._ [disinclined](dic://disinclined), [hostile](dic://hostile)
+			3. _n._ [amicable](dic://amicable)
+			4. **antagonistic**敌对的;**indifferent**漠不关心;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**sympathetic**表示同情的;**hostility**敌意;**hostile**敌对的，敌方的;**reactionary**反动的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**prejudiced**怀偏见的;**disdain**蔑视;**cynical**愤世嫉俗的;
+			5. it is human nature to be antipathetic to change. /厌恶变化是人类的天性。
+			6. antipathetic factions within the party. /政党中的反对派
+			7. 
+		28. antipathetical
 	10. psychopath
 		1. psycho-,精神，心理，-path,疾病，词源同 pathology.
 		2. _n._ [neurotic](dic://neurotic), [psychoneurotic](dic://psychoneurotic), [mental case](dic://mental case)
@@ -7802,6 +7967,50 @@
 	3. vaporer
 	4. vaporific
 4. vapid
+
+
+### + \*kwerp- +
+1. **carp-** = wrist, 表示“腕”。源自希腊语 karpos "wrist."
+	1. carpal
+		1. a. 腕的  n. 腕骨
+		2. 来自 PIE*sker,转，弯，词源同 ring,curve.
+	2. carpale
+		1. n. 腕骨
+	3. carpus
+		1. n. 腕, 腕骨
+		2. carpus ['kɑːpəs] n.[解剖] 腕骨；腕。希腊语来源，本意是转动，因为手腕可以转动。类似，日耳曼词源的单词wrist [rɪst] n.手腕；腕关节，vt.用腕力移动，本意也是转动。体会下这两个wr-开头的单词：wring [ren(t)ʃ] n.扳手；扭伤，v.猛扭；曲解，wry [raɪ] adj.歪斜的；歪曲的，vt.扭曲；扭歪。 ​​​​
+2. **whar-, whir-** 表示“旋转”
+	1. wharf
+		1. n. 码头  
+		2. vt. 卸在码头上, 靠码头  
+		3. vi. 靠码头, 入坞
+		4.  来自古英语 hwearf,河岸，船停靠点，来自 PIE*kwerp,转，转开。引申词义船的临时停靠点，码头。
+		5.  [pier](dic://pier), [wharfage](dic://wharfage), [dock](dic://dock)
+		6. [moor](dic://moor), [berth](dic://berth)
+		7. _n._ [platform](dic://platform)
+		8. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish), [store](dic://store), [drop](dic://drop), [drop off](dic://drop off)
+			1. [harbour](dic://harbour) 一般用词，指停泊船只、装卸货物的天然或人工港口。  
+			2. [port](dic://port) 多指人工港口，还可指有港口的市。  
+			3. [wharf](dic://wharf) 指船只停泊装卸货物的码头。  
+			4. [pier](dic://pier) 专指与海岸成直角形而突出的码头，可供旅客，货物上下船或供人散步用。   
+			5. [seaport](dic://seaport) 指港埠。
+		9. **pier**水上平台, 码头;**jetty**码头;**harbour**藏匿;**waterfront**海〔湖〕滨;**dock**船坞;**marina**码头，小艇船坞;**barge**驳船;**piers**支墩，支柱;**ferry**渡口;**harbor**海港;**shipyard**船坞;
+		10. _fisherman's wharf_ n. 渔人码头（美国旧金山旅游观光名胜）
+		11. _coal wharf_ 煤码头
+		12. _wharf apron_ 码头岸肩；自码头货棚至水边间的空间
+		13. We fetch up at the wharf exactly on time. /我们准时到达码头。
+		14. There is a serious sediment deposition in the wharf apron of an alongshore pile wharf. /摘要顺岸式桩基码头前沿会发生较??严重的泥沙淤积。
+		15. There were the busy wharves of Milan, Ohio - the busy shipping port where he was born /俄亥俄州米兰的繁忙码头是一个业务很多的运输港口，爱迪生就出生在这里。
+		16. After spending time on Pier 39 you can continue to explore the neighborhood of Fisherman's Wharf /在花时间参观完 39 号码头之后，你可以继续探索渔人码头附近的地区。
+		17. Take a stroll, try some clam chowder and learn about the history of the wharf. /散步，品尝蛤蜊杂烩，了解码头的历史。
+		18. wharves
+		19. wharfs
+		20. wharfmaster
+		21. wharfinger
+		22. wharfage
+	12. whir
+	13. whirl
+	14. whorl
 
 
 ### + \*kwes +
@@ -7916,18 +8125,29 @@
 ### + \*kwet- + = to shake
 1. **cuss-** = shake, 表示“摇动”。源自拉丁语 quastere "to shake, strike."
 	1. concuss
-		1. concussor, concussive, concussion
-	2. discuss
+		1. - v. 震动；使脑部受到震荡；恐吓
+		2. _v._ [shake](dic://shake), [agitate](dic://agitate), [injure](dic://injure), [wound](dic://wound)
+		3. **injure**伤害，损害;**concussion**震荡,脑震荡;**bruise**擦伤;**subdue**征服;
+		4. Silent of float to concuss deep thought reservedly in the breeze /静默的在风中含蓄的飘荡深思。
+		5.  a middle-aged woman concussed by a blow on the head /被击中头而造成脑震荡的一个中年妇女
+		6. So far, we've been talking about heavy full-contact sports like boxing, but the truth is that any sportsperson can get concussed /到目前为止，我们一直在谈论像拳击这样的重量级全接触运动，但事实是任何运动员都可能脑震荡。
+		7. I studied trigonometry for a month. I sometimes dreamed about sine, cosine and tangent, about mysterious angles and concussed computations, but for all this I made no real progress. I could not self-teach trigonometry. But I knew someone who had /我学习了一个月的三角学。我有时会梦见正弦、余弦和正切，梦见神秘的角度和让我绞尽脑汁的计算，尽管如此，我并未取得任何实质性进展。我无法自学三角学，但我认识一个自学成功的人。
+		8. concussor, concussive, concussion
+	3. discuss
 		1. discussive, discussion, discussible, discussant
-	3. percuss
-		1. percussor, repercussive, percussive, percussion, percussible
-	4. fracas
-	5. rescue
+	4. percuss
+		1. The doctor percussed the patient's chest. /医生叩击病人的胸膛
+		2. Now let me auscultate and percuss you /现在让我用听诊器听一听和在你身上敲几下。
+		3. A healthy tooth percussed with a metal instrument gives a metallic sound. /用金属器械对健康的牙齿作叩诊则发出金属声。
+		4. 
+		5. percussor, repercussive, percussive, percussion, percussible
+	6. fracas
+	7. rescue
 		1. rescuer
 		2. rescuegrass
 		3. pararescue
 		4. beach-rescue
-	6. succussion, succussatory
+	8. succussion, succussatory
 2. **past-** = dough, 表示“面团”。源自希腊语 passein "to sprinkle."
 	1. impasto
 		1. _n._ [painting](dic://painting)

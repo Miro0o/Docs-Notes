@@ -157,7 +157,7 @@ about
 	- _[face about](dic://face%20about)_  转过身；向后转
 	- With these parting words lingering in his ears, Corporal Patch saluted, executed a right about face, and left the tent. /耳边回荡着这句离别的话，帕奇下士行了一礼，右转身，离开了帐篷。
 
-addle
+addle (putrid, suppurate, putrefy, fester, addle)
 - vt. 使昏乱, 使腐坏  
 - vi. 变质  
 - a. 昏乱的, 腐坏的
@@ -193,6 +193,13 @@ agave
 - **tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
 - [desert plant](dic://desert plant), [xerophyte](dic://xerophyte), [xerophytic plant](dic://xerophytic plant), [xerophile](dic://xerophile), [xerophilous plant](dic://xerophilous plant)
 - [century plant](dic://century plant), [American aloe](dic://American aloe)
+
+albeit
+- - conj. 虽然，尽管
+- clear albeit cold weather /虽然天冷但仍很晴朗
+- It is a pretty story, albeit a trifle naif. /这故事虽说有点幼稚简单，却颇为有趣。
+- Albeit fair, the girl was not sought after /那姑娘虽然漂亮，但不是被爱慕的女子。
+- This theater is still going by the way albeit in a different location /这家剧院虽然位置不同 但至今仍在运营。
 
 all
 - always
@@ -4096,7 +4103,7 @@ fond
 	- _n._ [candy](dic://candy), [confect](dic://confect)
 	- **buttercream**奶油;**frosting**霜状白糖;**ganache**甘那许;**icing**结冰;**cake**蛋糕;**cakes**蛋糕;**cupcakes**纸杯蛋糕;**cupcake**纸托蛋糕;**meringue**调合蛋白;**pastry**油酥点心;**tulle**薄纱;
 
-forage (scrounge; foray)
+forage (scrounge; foray, forage)
 - 来自 Proto-Germanic*fodram,食物，觅食，词源同 food,fodder.
 - [eatage](dic://eatage), [pasture](dic://pasture), [pasturage](dic://pasturage), [grass](dic://grass)
 - **grazing**牧草;**graze**擦伤;**pasture**牧场;**alfalfa**紫花苜蓿;**grasses**稻科植物类;**livestock**家畜, 牲畜;**feed**喂养;**habitat**栖息地，产地;**rations**配给量;**vegetation**植物;**grassland**草原，牧场;
@@ -4113,12 +4120,12 @@ forage (scrounge; foray)
 	- _n._ [hunter](dic://hunter)
 	- **hunter**猎人;**farmer**农夫，农民;**naturalist**博物学家;**gardener**花匠;**anthropologist**人类学家;**subsistence**存活, 生存, 维生之道;**foodie**美食家;**chef**厨师，大师傅;**predator**食肉动物;**eater**食者;**botanist**植物学家
 
-foray
+foray (scrounge; foray, forage)
 - n. 涉足，初次尝试；突袭；侵略；攻击 
 - vi. 袭击 
 - vt. 劫掠
--  [raid](dic://raid), [maraud](dic://maraud), bust
--  [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage)
+- [raid](dic://raid), [maraud](dic://maraud), bust
+- [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage)
 - _n._ [penetration](dic://penetration), [incursion](dic://incursion), [attempt](dic://attempt), [effort](dic://effort), [endeavor](dic://endeavor), [endeavour](dic://endeavour), [try](dic://try)
 - _v._ [take](dic://take), [penetrate](dic://penetrate), [perforate](dic://perforate)
 - **venture**敢于;**ventures**投机者;**launching**发射;**ill-fated**走恶运的,注定要遭受罚的;**debut**演员首次演出;**fledgling**幼鸟;**full-fledged**羽毛生齐的;**nascent**初期的;**burgeoning**迅速成长的;**first**第一;**long-awaited**期待已久的;
@@ -4162,7 +4169,7 @@ fraud
 	- defrauder
 		- **fraud**欺骗;**fraudulent**欺骗的,不诚实的;**crook**钩;**forgery**伪造;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**accomplice**从犯, 帮凶, 同谋;**dishonest**不诚实的;**liar**说谎的人;**scam**骗局，诡计;**financier**金融家;**thief**小偷，贼;
 	- defraudation
-		- - n. 骗取钱财
+		- n. 骗取钱财
 
 fringe
 - **lunatic**精神错乱的;**right-wing**右翼的;**mainstream**主流;**left-wing**左派的;**hippie**嬉皮士;**marginal**边缘的;**ruffle**弄皱;**extremist**极端主义者;**subculture**亚文化群;
@@ -4221,6 +4228,7 @@ frizz
 
 frock
 - (s)ker-(3)
+-  来自古法语 froc,僧侣的道袍，衣服，裙摆，来自 PIE*krek,编织，可能进一步来自 PIE*sker,弯，转，编织，词源同 cradle,crown.现主要用于指女装，连衣裙等。
 - [dress](dic://dress)
 - _n._ [habit](dic://habit), [woman's clothing](dic://woman's clothing)
 - _v._ [dress](dic://dress), [clothe](dic://clothe), [enclothe](dic://enclothe), [garb](dic://garb), [raiment](dic://raiment), [tog](dic://tog), [garment](dic://garment)
@@ -4244,6 +4252,12 @@ froth
 - _froth flotation_ 浮选；泡沫浮选
 	- a froth of entertainment 一阵短暂的娱乐
 	- the froth of party politics. 浅薄空洞的党派政治。
+- was in a froth over the long delay. /因长时间的拖延而发泄
+- the cinema lobby frothed with indignation. /电影院休息厅里激荡着愤慨的气氛。
+- her skirt swirled in a froth of black lace. /她裙子上黑色的透孔花边像升腾的漩涡似的打着转。
+- a yeasty froth; yeasty bread dough; a yeasty home-brewed beer. /发酵泡沫；发酵面团；家酿发酵啤酒
+- The chicken was tough, the tongue too salty, and the chocolate wouldn't froth properly. /鸡肉太老，牛舌太咸，而巧克力不会好好发泡。
+- The Potion hissed loudly like a boiling kettle and frothed madly. /汤剂响声大作，像一锅滚开的水，并且起劲地泛着泡沫。
 - frothy
 	- [bubbling](dic://bubbling), [bubbly](dic://bubbly), [foaming](dic://foaming), [foamy](dic://foamy), [effervescing](dic://effervescing)
 	- [foamy](dic://foamy)
@@ -4257,10 +4271,44 @@ froth
 - antifrother
 
 fry
+- 来自拉丁语 frigere,烤，煎，来自 PIE*bher,燃烧，烤，煎，词源同 burn,brew.  
+- 可能来自 fricare,刮，摩擦，词源同 friction.或来自 PIE*sper,播，撒，词源同 spread,sprout.
+- n. 油炸食物, 鱼苗  
+- v. 油炸, 煎
+-  [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry), [tiddler](dic://tiddler), [tike](dic://tike), [tyke](dic://tyke), [nestling](dic://nestling)
+-  [electrocute](dic://electrocute)
+- _n._ [painter](dic://painter), [art critic](dic://art critic), [dramatist](dic://dramatist), [playwright](dic://playwright), [juvenile](dic://juvenile), [juvenile person](dic://juvenile person)
+- _v._ [heat](dic://heat), [hot up](dic://hot up), [heat up](dic://heat up), [cook](dic://cook), [kill](dic://kill)
+- **fish**捕鱼，钓鱼;**saute**炒;**cook**烹调，煮;**pan**平锅，盘子;**wok**锅,炒菜锅;**shrimp**虾;**skillet**煮锅;**griddle**矿筛;**chicken**小鸡;**fillets**嵌条;**stir**激起;
+- _stir fry_ 用大火炒；快炒
+- _deep fry_ 油炸
+- _small fry_ 无足轻重的人；不重要的
+- _fish fry_ 鱼苗；炸鱼
+- a frying pan with a nonstick surface. /不粘锅的炸锅
+- the aroma of frying onions; /煎洋葱的气味；
+-  /Which do you want, french fries or salad? /你想要哪个，薯条还是沙拉？
+- small-fry
+- pan-fry
+- frying-pan
+- fryer
+- fried
+	- friedcake
 
 fuddle
 - vt. 灌醉, 使烂醉, 使迷糊  vi. 狂饮  
 - n. 烂醉
+- vt. 灌醉；使混乱 
+- n. 混乱；酗酒 
+- vi. 酗酒
+-  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [mare's nest](dic://mare's nest), [welter](dic://welter), [smother](dic://smother)
+- [befuddle](dic://befuddle)
+-  [drink](dic://drink), [booze](dic://booze)
+- [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [bedevil](dic://bedevil), [confound](dic://confound), [discombobulate](dic://discombobulate)
+- _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder)
+- _v._ [intoxicate](dic://intoxicate), [soak](dic://soak), [inebriate](dic://inebriate), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take)
+- The **fuddle** spent together with you the rest of the spring, the hottest, I where to go /糊里糊涂的度过了和你在一块儿的春季，余下的最热的时候，我该何去何从。
+- If a person lacks a beacon light - ideal, his life will be **fuddle**. /如果一个人缺少一颗指路明灯灯——理想，就会醉生梦死。
+- The depression comes cannot from already when, I am met oneself burst into tears after **fuddle**. /压抑至无法自已的时候，我会把自己灌醉后放声大哭。
 - befuddle
 	- [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [confound](dic://confound), [discombobulate](dic://discombobulate)
 	- [fuddle](dic://fuddle)
@@ -4360,12 +4408,13 @@ gag
 - gagger
 - gagbit
 
-gain
+gain (dain)
 - n. 增益, 获得, 利润, 收获, 增加  
 - vt. 得到, 增进, 赚到  
 - vi. 获利, 增加
 - 来自 PIE*weie,努力，追寻，词源同 virile,venison,Venus.原指农业收成。
 - ungainly
+	- (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly,)
 	- 来自古英语 ungeinliche,来自 un-,不，非，gein,直的，词源同 again,against,-liche,词源同-ly,形容词后缀。即不直的，引申词义形状不好的，难看的，不雅的，笨拙的。
 	- n-不，非 + gain-直的 + -ly, 表形容词。即不直的，引申词义形状不好的，难看的，不雅的，笨拙的。
 	- a. 难看的, 不优雅的, 粗陋的
@@ -8141,6 +8190,7 @@ lucre
 	- [profitable](dic://profitable)
 
 lull
+- (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, respite)
 - **flurry**一阵疾风;**slump**下降，衰落;**momentary**瞬间的;**interlude**中间;**respite**暂缓;**slumber**睡眠;**complacency**自满;**pause**暂停;**protracted**<书>延长的;**surge**汹涌;**prolonged**持续很久的,长时间的;
 - [pause](dic://pause), [intermission](dic://intermission), [break](dic://break), [interruption](dic://interruption), [suspension](dic://suspension), [calmness](dic://calmness)
 - [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
@@ -8394,6 +8444,7 @@ marshal
 - marshalcy
 
 martinet
+- (exacting, exigent, pressing, demanding, stringent, rigorous, needy, martinet)
 - martinet（严格执行纪律的人）：严酷操练士兵的法国军官马丁内特  
 - 马丁内特（Jean Martinet）是17世纪时法国的一名军官，曾经担任陆军中校和总检察长等职务。他是近代历史上第一位伟大的军事训练大师。他对尚处于起步阶段的现代军队进行了改革，制定了一整套标准化的军事训练体系。通过这套体系，能够快速将新兵培养为训练有素的战士。然而，这套训练体系十分严格，受训者在接受严酷训练时往往会情不自禁地咒骂创立了这套体系的马丁内特。因此他的姓氏Martinet也就成了“严格执行纪律的人”的代名词。  
 - martinet：[,mɑːtɪ'net] n. 严格执行纪律的人
@@ -9093,14 +9144,19 @@ orgy
 ought
 - aux. 应该, 大概  n. 责任
 - 来自古英语 ahte,拥有的，所有的，来自 agan 的过去分词，拥有，所有，词源同 own,owe.后词义由拥有的引申为有义务去支付或偿还，并最终在语法上演变成虚拟情态动词。
+- _ought to do sth_ 应该；应该做某事
+- _ought to know better_ 应该懂得多一些
+- Gee, Daisy! Maybe you ought to be a nun. /哇，黛丝！也许你应当去当尼姑（修女）。
+- Harry deliberated, wondering whether he ought to lie or not. /哈利犹豫着，不知该不该说谎。
 
 owe
 - vt. 亏欠, 负...债, 归功于, 怀有, 应给予, 感恩  vi. 欠钱
 - 来自古英语 agan,拥有，所有，来自 Proto-Germanic*aigan,占有，来自 PIE*aik,掌握，掌管，词源同 ought,own.其现义来自古英语习语 agan to geldanne,用拥有的去支付或偿还，即 own to
 - owing
 
-own
+own (freight, fraught)
 - 来自古英语 agan,拥有，所有，来自 Proto-Germanic*aigan,占有，来自 PIE*aik,掌握，掌管，词源同 ought,owe.
+- aboard/abroad、abode/adobe、note/tone、now/own...这样的现象叫anagram ['ænəgræm] n.易位构词，指重新安排一个单词、名字或短语中的字母顺序而变成另外一个单词、名字或短语。希腊前缀ana-与介词on同源，多表back,up，希腊词根gram表something written。哦，dormitory宿舍岂不是dirty room了吗？
 - n. 自己的  
 - a. 自己的, 嫡亲的, 同胞的  
 - vt. 拥有, 支配, 自认, 承认, 顺从于  
@@ -9882,6 +9938,13 @@ prose (parody)
 	- prosaic language can't convey the experience. /散文式的语言不足以表达这种经历。
 	- the masses were too preoccupied by prosaic day-to-day concerns. /人们都太忙碌于平淡的日常事务。
 	- There are some mischievous and prosaic people who carp and calculate at every detail of the romancer /有些刁钻促狭，迂腐愚蠢的人，喜欢吹毛求疵，对小说家的每一个细节都要追根究底。
+
+proxy
+- n. 代理, 代理人, 委托书
+-  缩写自 procuracy,代理权，代表权。
+-  [placeholder](dic://placeholder), [procurator](dic://procurator)
+- - n. 代理权，代表权；代理人，代表；（测算用的）代替物，指标；投票委托书
+- 
 
 pry
 -  [crowbar](dic://crowbar), [wrecking bar](dic://wrecking bar), [pry bar](dic://pry bar)
@@ -15557,6 +15620,30 @@ whist
 
 wield
 - + \*wal +
+
+where
+- wherewithal
+	- 
+- wherewith
+- wherever
+- whereupon
+- whereto
+- whereon
+- whereof
+- whereinto
+- wherein
+- wherefrom
+- wherefore
+- whereby
+- whereat
+- whereas
+- whereafter
+- whereabouts
+- somewhere
+- nowhere
+- everywhere
+- elsewhere
+- anywhere
 
 whisk
 - 来自 PIE*weis,旋转，搅动，来自 PIE*wei 的扩大格，弯，转，词源同 wind,wire.

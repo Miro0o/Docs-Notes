@@ -3,12 +3,20 @@
 1. defalcate
 	1. v. 贪污公款，挪用公款；滥用公款
 2. falcate
+	1. adj. 钩状的，镰状的
+	2. [falciform](dic://falciform), [sickle-shaped](dic://sickle-shaped)
+	3. _adj._ [curved](dic://curved), [curving](dic://curving)
+	4. _n._ [straight](dic://straight)
+	5. **whitish**带白色的;**slender**微薄的;**elongate**拉长;**elongated**细长的;**dorsal**背的，背侧的;**apical**顶上的, 顶点的;**yellowish**微黄色的;**conical**圆锥形的;**greenish**呈绿色的;**concave**凹的，凹面的;**fleshy**肉的;
+4. falchion
+5. falciform
 	1. _adj._ [curved](dic://curved), [curving](dic://curving)
 	2. _n._ [straight](dic://straight)
-	3. **whitish**带白色的;**slender**微薄的;**elongate**拉长;**elongated**细长的;**dorsal**背的，背侧的;**apical**顶上的, 顶点的;**yellowish**微黄色的;**conical**圆锥形的;**greenish**呈绿色的;**concave**凹的，凹面的;**fleshy**肉的;
-3. falchion
-4. falciform
-5. falcon
+	3. **ventral**腹部的;**anterior**前面的;**dorsal**背的，背侧的;**apical**顶上的, 顶点的;**hepatic**肝的;**mucosa**粘膜;**posterior**(在时间;**ligament**韧带;**epithelium**上皮;**distal**末梢的，末端的;**bony**骨的;
+	4. The falciform ligament is the rough dividing line between the two lobes. /镰状韧带将两叶分开。
+	5. The veins of **falciform** ligament didn't companied arteries, and drained to left inferior phrenic vein. /静脉不与动脉伴行，回流至左膈下静脉。
+	6. 
+6. falcon
 	1. _n._ [hawk](dic://hawk)
 	2. _v._ [hunt](dic://hunt), [run](dic://run), [hunt down](dic://hunt down), [track down](dic://track down)
 	3. **eagle**鹰;**raven**掠夺，劫掠;**hawk**鹰;**bird**鸟;**eagles**老鹰乐队，鹰;**phoenix**凤凰;**fox**欺骗;**sparrow**麻雀;**owl**猫头鹰;**wolf**狼;**swan**天鹅;
@@ -16,7 +24,7 @@
 	5. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
 	6. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
 	7. _[Fighting Falcon](dic://Fighting%20Falcon)_  战隼（战斗机名）
-6. flacula
+7. flacula
 
 
 ### fall-,fail-,fault- = err, deceive, 表示“犯错误，欺骗”。
@@ -77,37 +85,36 @@
 
 
 ### fatig- = weary, 表示“疲倦”。
-1. fatigable
-2. fatigue
+1. fatigue
 	1. [weariness](dic://weariness), [tiredness](dic://tiredness)
 	2. [fatigue duty](dic://fatigue duty)
 	3. [tire](dic://tire), [pall](dic://pall), [weary](dic://weary), [jade](dic://jade)
-	5. [tire](dic://tire), [wear upon](dic://wear upon), [tire out](dic://tire out), [wear](dic://wear), [weary](dic://weary), [jade](dic://jade), [wear out](dic://wear out), [outwear](dic://outwear), [wear down](dic://wear down), [fag out](dic://fag out), [fag](dic://fag)
-	6. _n._ [temporary state](dic://temporary state), [tiredness](dic://tiredness), [failing](dic://failing), [weakness](dic://weakness), [boredom](dic://boredom), [ennui](dic://ennui), [tedium](dic://tedium), [assignment](dic://assignment)
-	7. _v._ [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate), [indispose](dic://indispose)
-	8. **tiredness**疲劳;**exhaustion**精疲力竭;**stiffness**僵硬;**stress**压力;**soreness**悲伤;**insomnia**失眠症，失眠;**burnout**烧坏;**boredom**厌倦;**discomfort**不舒适;**nausea**恶心，晕船;**malaise**不舒服;
-	9. _fatigue life_ 疲劳寿命
-	10. _fatigue strength_ 疲劳强度
-	11. _fatigue crack_ 疲劳裂纹
-	12. _fatigue test_ 疲劳试验；耐久试验
-	13. _fatigue damage_ 疲劳损伤；疲劳损坏
-	14. _thermal fatigue_ 热疲劳
-	15. _fatigue failure_ 疲劳失效；疲劳破坏；疲劳断裂
-	16. _fatigue fracture_ 疲劳断裂；疲劳骨折
-3. indefatigability
-4. indefatigable
+	4. [tire](dic://tire), [wear upon](dic://wear upon), [tire out](dic://tire out), [wear](dic://wear), [weary](dic://weary), [jade](dic://jade), [wear out](dic://wear out), [outwear](dic://outwear), [wear down](dic://wear down), [fag out](dic://fag out), [fag](dic://fag)
+	5. _n._ [temporary state](dic://temporary state), [tiredness](dic://tiredness), [failing](dic://failing), [weakness](dic://weakness), [boredom](dic://boredom), [ennui](dic://ennui), [tedium](dic://tedium), [assignment](dic://assignment)
+	6. _v._ [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate), [indispose](dic://indispose)
+	7. **tiredness**疲劳;**exhaustion**精疲力竭;**stiffness**僵硬;**stress**压力;**soreness**悲伤;**insomnia**失眠症，失眠;**burnout**烧坏;**boredom**厌倦;**discomfort**不舒适;**nausea**恶心，晕船;**malaise**不舒服;
+	8. _fatigue life_ 疲劳寿命
+	9. _fatigue strength_ 疲劳强度
+	10. _fatigue crack_ 疲劳裂纹
+	11. _fatigue test_ 疲劳试验；耐久试验
+	12. _fatigue damage_ 疲劳损伤；疲劳损坏
+	13. _thermal fatigue_ 热疲劳
+	14. _fatigue failure_ 疲劳失效；疲劳破坏；疲劳断裂
+	15. _fatigue fracture_ 疲劳断裂；疲劳骨折
+2. fatigable
+3. indefatigable
 	1. (perseverance, diligent, assiduous, unyielding, indefatigable, unflagging, unfatigued, unremitting)
-	3. in-使… + de-否定 + fatig-疲倦 + -able, 表形容词 → 使不知疲倦。
-	4. a. 不知疲倦的, 有耐性的, 不屈不挠的
-	5. _adj._ [energetic](dic://energetic)
-	6. _n._ [lethargic](dic://lethargic), [unergetic](dic://unergetic)
-	7. **tireless**不疲劳的;**tenacious**抓紧的;**intrepid**无畏的;**ardent**热情的;**relentless**残酷的, 不留情的, 无怜悯心的;**stalwart**坚定的;**diligent**勤勉的;**prodigious**巨大的;**zealous**热心的，热情的，积极的;**dogged**顽强的;**valiant**英勇的，勇敢的;
-	8. an amalgam of charming agreeability and indefatigable humor /极为令人愉快而又富于幽默的混合
-	9. an indefatigable advocate of equal rights /一个不屈不挠的权利平等的倡导者；
-	10. NPR's indefatigable Eleanor Beardsley is on the line now from Paris. /NPR新闻精力充沛的埃莉诺·比尔兹莉将从巴黎和我们进行连线。
-	11. Honour to those indefatigable spirits who consecrate their vigils to the amelioration or to the alleviation of their kind! /光荣归于不知疲倦、不分昼夜、献身事业、增进人类幸福、减轻人类痛苦的天才！
-	12. With his mind's eye, Bernard saw the needle on the scent meter creeping round and round, antlike, indefatigable. /他心里的眼睛看见那香水指针一圈一圈不疲倦地走着，像蚂蚁一样。
-	13. 
+	2. in-使… + de-否定 + fatig-疲倦 + -able, 表形容词 → 使不知疲倦。
+	3. a. 不知疲倦的, 有耐性的, 不屈不挠的
+	4. _adj._ [energetic](dic://energetic)
+	5. _n._ [lethargic](dic://lethargic), [unergetic](dic://unergetic)
+	6. **tireless**不疲劳的;**tenacious**抓紧的;**intrepid**无畏的;**ardent**热情的;**relentless**残酷的, 不留情的, 无怜悯心的;**stalwart**坚定的;**diligent**勤勉的;**prodigious**巨大的;**zealous**热心的，热情的，积极的;**dogged**顽强的;**valiant**英勇的，勇敢的;
+	7. an amalgam of charming agreeability and indefatigable humor /极为令人愉快而又富于幽默的混合
+	8. an indefatigable advocate of equal rights /一个不屈不挠的权利平等的倡导者；
+	9. NPR's indefatigable Eleanor Beardsley is on the line now from Paris. /NPR新闻精力充沛的埃莉诺·比尔兹莉将从巴黎和我们进行连线。
+	10. Honour to those indefatigable spirits who consecrate their vigils to the amelioration or to the alleviation of their kind! /光荣归于不知疲倦、不分昼夜、献身事业、增进人类幸福、减轻人类痛苦的天才！
+	11. With his mind's eye, Bernard saw the needle on the scent meter creeping round and round, antlike, indefatigable. /他心里的眼睛看见那香水指针一圈一圈不疲倦地走着，像蚂蚁一样。
+5. indefatigability
 
 
 ### + \*fauc- + = 表示“咽喉”，参见拉丁语 lauces“咽喉、喉咙”。
@@ -192,27 +199,67 @@
 
 ### fest- = handle, 表示“处理”，引申为“控制”，“击打”。
 1. infest
-	1. in-不 + fest-处理 → 处理不了 → 扰乱。
-	2. - in-,不，非，-fest,击，打，抓住，词源同 defend,manifest.其原义为抓不住的，控制不住的，引申词义骚扰，麻烦，大量滋生。词义演变比较 opportune.
-	3. **infect**感染，传染;**invade**侵略;**infestation**群袭,出没,横行;**inhabit**居住于;**parasites**寄生生物;**pests**害虫;**infiltrate**渗透;**populate**居住于;**rot**腐烂;**lurk**潜伏;**congregate**集合, 聚集;
-	4. [invade](dic://invade), [occupy](dic://occupy), [inhabit](dic://inhabit)
-	5. infestation, disinfest
-3. manifest
-	1. manifest - 该词的词源是拉丁语manifestus，由manū 'with hand'（用手）加-fest 'struck'（打）构成，所以它的原义是struckwith hand（被手打的）。被手打的东西可以触摸得到，可以清清楚楚感觉到，也是显而易见的。据此，它的词义由“被手打的”引申为“显然的”。英语在14世纪吸收了manifestus，拼作manifest，也用于此义，以后也作动词用，表示“显示”、“显露”等。manifesto（宣言）一词和manifest有亲缘关系，虽然也源自拉丁语，但却直接借自意大利语。（参见manager）
-	2. manifesto
+	1. vt. 骚扰；寄生于；大批出没；大批滋生
+	2. in-不 + fest-处理 → 处理不了 → 扰乱。
+	3. - in-,不，非，-fest,击，打，抓住，词源同 defend,manifest.其原义为抓不住的，控制不住的，引申词义骚扰，麻烦，大量滋生。词义演变比较 opportune.
+	4. **infect**感染，传染;**invade**侵略;**infestation**群袭,出没,横行;**inhabit**居住于;**parasites**寄生生物;**pests**害虫;**infiltrate**渗透;**populate**居住于;**rot**腐烂;**lurk**潜伏;**congregate**集合, 聚集;
+	5. [invade](dic://invade), [occupy](dic://occupy), [inhabit](dic://inhabit)
+	6. We could be infested with these things. /可能已经滋生起来了。
+	7. French officials say that bedbugs have infested Paris' transport networks and the wider city. /法国官员说，臭虫已经侵袭了巴黎的交通网络，甚至是整座城市。
+	8. The soil of that planet was infested with them /在那里的泥土里，这种种子多得成灾。
+	9. Accordingly, their scaly ancestors infest the island's rivers and are the subjects of special veneration. /所以。他们的带鳞甲的祖宗在岛上河流中大量繁殖，是人们特殊尊敬的对象。
+	10. They initially planned to plant this model society on the wild-wolf infested island. /他们最初是打算在这个狼出没的荒岛上建立起这么一个社会。
+	11. " Oh, it's all their fault-those women or immigrants are infesting our country." /“哦，都是他们的错——那些妇女和移民在我们国家出没。”
+	13. infestation
+		1. Local agriculture officials say farmers alone cannot solve the locust infestation. /当地农业官员说，仅靠农民无法解决蝗灾问题。
+		2. Officials in Italy say they're taking action to tackle an infestation of rats around the Colosseum in Rome. /意大利官员宣布正在采取行动，应对罗马斗兽场周边老鼠泛滥的问题。
+	14. disinfest
+2. manifest
+	1. - v. 显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单 
+	2. adj. 明显的，显而易见的 
+	3. n. 旅客名单，载货清单；货运列车编组清单
+	4. manifest - 该词的词源是拉丁语manifestus，由manū 'with hand'（用手）加-fest 'struck'（打）构成，所以它的原义是struckwith hand（被手打的）。被手打的东西可以触摸得到，可以清清楚楚感觉到，也是显而易见的。据此，它的词义由“被手打的”引申为“显然的”。英语在14世纪吸收了manifestus，拼作manifest，也用于此义，以后也作动词用，表示“显示”、“显露”等。manifesto（宣言）一词和manifest有亲缘关系，虽然也源自拉丁语，但却直接借自意大利语。（参见manager）
+	5. [attest](dic://attest), [certify](dic://certify), [demonstrate](dic://demonstrate), [evidence](dic://evidence)
+	6.  [apparent](dic://apparent), [evident](dic://evident), [patent](dic://patent), [plain](dic://plain), [unmistakable](dic://unmistakable)
+	7. _n._ [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
+	8. _v._ [testify](dic://testify), [bear witness](dic://bear witness), [prove](dic://prove), [evidence](dic://evidence), [show](dic://show), [record](dic://record), [enter](dic://enter)
+	9. _adj._ [obvious](dic://obvious)
+	10. _n._ [unobvious](dic://unobvious)
+		2. [apparent](dic://apparent) 强调显而易见或一想便知。这个词从动词appear派生而来，故有时含有表面如此而事实上未必的意味。  
+		3. [obvious](dic://obvious) 语气较强，指极为明显，有目共睹，无需说明和论证。  
+		4. [evident](dic://evident) 指根据事实成为显然的。  
+		5. [clear](dic://clear) 普通用词，侧重清楚明白。  
+		6. [plain](dic://plain) 普通用词，含义与clear很接近，可通用，但plain着重简单明了，不复杂。  
+		7. [distinct](dic://distinct) 较正式用词，指轮廓的清楚或定义、含义的明确，不会弄错。   
+		8. [definite](dic://definite) 语气肯定，着重明白无误，无可怀疑。  
+		9. [manifest](dic://manifest) 语义较强，书面用词，强调一目了然，暗示不要任何推论就一清二楚。
+	11. **manifestation**显示;**outward**外面的;**perceive**察觉，感觉;**embody**体现，使具体化;**awaken**唤起;**evident**明显的;**observable**观察得到的;**desire**欲望;**emerge**浮现;**discern**识别;**arise**发生;
+	12. He is a manifest liar. /他显然是个说谎的人。
+	13. That is manifest to all of us /那对我们大家来说是显而易见的。
+	14. every passenger is manifested at the point of departure. /出发前每个乘客都被记入乘客名单。
+	15. The contradiction manifested itself in the employment situation /在就业问题上矛盾暴露了。
+	16. It was their manifest failure to modernize the country's industries. /他们使国家进行工业现代化, 明显失败了。
+	17. The rules and regulations should be made to be manifest to all staff. /规章制度应该让全体员工都明白。
+	18. It's hard to tell. He may have manifested some sort of butt. /尚不明朗，他好像臆现出了某种屁股。
+	19. Creativity does not necessarily have to manifest itself through art. /创造力不尽然必须通过艺术表达。
+	20. The same alarm is **manifest** everywhere. /同样的恐慌在各地都已出现。
+	21. manifesto
 		1. **pamphlet**小册子;**blueprint**蓝图;**declaration**宣布, 宣告, 声明;**anarchist**无政府主义者;**foreword**前言;**slogan**标语;**socialist**社会主义者;**roadmap**路标;**utopian**空想的;**outlining**描绘轮廓;**pledge**发誓;
 		2. _communist manifesto_ 共产党宣言（现代共产主义学说发展史上的第一部经典，由马克思和恩格斯合著）
 		3. [declaration](dic://declaration)
-	3. manifestly
+	22. manifestly
 		1. **patently**公然地;**plainly**平坦地;**utterly**完全地;**grossly**很;**therefore**因此, 为此, 所以;**evidently**明显地;**wholly**完全地;**unquestionably**毫无疑问地;**undeniably**不可否认地;**inherently**天性地,固有地;**indubitably**无疑地;
 		2. [apparent](dic://apparent), [evident](dic://evident), [manifest](dic://manifest), [patent](dic://patent), [plain](dic://plain), [unmistakable](dic://unmistakable)
-	4. manifestative
-	5. manifestation
+	23. manifestative
+	24. manifestation
 		1. **anifest**证明，表明;**awakening**唤醒的,激励的;**divine**神圣的;**duality**二元性;**symptom**症状;**consciousness**意识;**phenomenon**现象;**transcendent**卓越的;**realization**认识, 领会;**incarnation**化身;**antithesis**对照;
 		2. [materialization](dic://materialization), [materialisation](dic://materialisation)
 		3. [expression](dic://expression), [reflection](dic://reflection), [reflexion](dic://reflexion)
 		4. [demonstration](dic://demonstration)
 		5. _clinical manifestation_ 临床表现
+		6. Fulminant amebic colitis is an uncommon manifestation of amebiasis. /摘要猛暴性阿米巴大肠炎，是阿米巴痢疾感染的一种不寻常表现。
+		7. So I think it is a physical manifestation of gross wealth inequality. /所以我认为这是财富不平等的一种物理表现。
+		8. I suppose that art is a manifestation of the sexual instinct. /我认为艺术也是性本能的一种流露。
 
 
 
@@ -417,35 +464,42 @@
 ### fl-
 1. flag
 	1. unflagging
-		1. **unwavering**不动摇的,坚定的;**tireless**不疲劳的;**unrelenting**不屈不挠的;**steadfast**坚定的;**enthusiasm**热情, 热心;**tenacity**固执;**relentless**残酷的, 不留情的, 无怜悯心的;**zeal**热心;**fervent**强烈的;**dogged**顽强的;**devotion**热爱;
-		2. [lethargic](dic://lethargic), [unergetic](dic://unergetic), [inconstant](dic://inconstant)
-		3. [energetic](dic://energetic), [constant](dic://constant)
-	2. flagging
+		1. (perseverance, diligent, assiduous, unyielding, indefatigable, unflagging, unfatigued, unremitting)
+		2. **unwavering**不动摇的,坚定的;**tireless**不疲劳的;**unrelenting**不屈不挠的;**steadfast**坚定的;**enthusiasm**热情, 热心;**tenacity**固执;**relentless**残酷的, 不留情的, 无怜悯心的;**zeal**热心;**fervent**强烈的;**dogged**顽强的;**devotion**热爱;
+		3. [lethargic](dic://lethargic), [unergetic](dic://unergetic), [inconstant](dic://inconstant)
+		4. [energetic](dic://energetic), [constant](dic://constant)
+	3. flagging
 		1. **boosting**助推，局部通风;**slowing**慢化;**revive**苏醒;**sagging**下垂;**ramping**炒高价格;**lagging**绝缘层材料;**marking**做记号;**stalling**失速，停转;**boost**促进;
-	3. flagstone
+	4. flagstone
 		1. **walkway**通道，走道;**tile**瓷砖，瓦片;**brick**砖，砖块;**gravel**砂砾;**tiled**平铺的;**flooring**地板材料;
-	4. flagstaff
-	5. flagship
-	6. flagpole
-	7. flagman
-	8. flaggy
+	5. flagstaff
+	6. flagship
+	7. flagpole
+	8. flagman
+	9. flaggy
 		1. adj. 调萎的，软疲的；（像）扁石的
-	9. flag-boat
-	10. flag-weaving
-	11. flag-weaver
+	10. flag-boat
+	11. flag-weaving
+	12. flag-weaver
 2. flaccid
-	1. [lax](dic://lax), [limp](dic://limp), [slack](dic://slack)
-	2. [soft](dic://soft), [flabby](dic://flabby)
-	3. _adj._ [weak](dic://weak), [soft](dic://soft), [unfit](dic://unfit)
-	4. _n._ [strong](dic://strong), [hard](dic://hard), [fit](dic://fit), [healthy](dic://healthy)
-	5. **limp**柔软的，无力的;**penis**阳物，阴茎;**erect**使竖立;**penile**阴茎的，用阴茎的;**muscular**肌肉发达的;**fleshy**肉的;**girth**周围长度;**feeble**微弱的，无力的;**erection**直立;**manhood**成年;**impote**
-3. _flaccid paralysis_ 驰缓性麻痹；弛缓性瘫痪；松弛性麻痹；软瘫
+	1. adj. 弛缓的，软弱的；蔫软的；无活力的；不见成效的
+	2. [lax](dic://lax), [limp](dic://limp), [slack](dic://slack)
+	3. [soft](dic://soft), [flabby](dic://flabby)
+	4. _adj._ [weak](dic://weak), [soft](dic://soft), [unfit](dic://unfit)
+	5. _n._ [strong](dic://strong), [hard](dic://hard), [fit](dic://fit), [healthy](dic://healthy)
+	6. **limp**柔软的，无力的;**penis**阳物，阴茎;**erect**使竖立;**penile**阴茎的，用阴茎的;**muscular**肌肉发达的;**fleshy**肉的;**girth**周围长度;**feeble**微弱的，无力的;**erection**直立;**manhood**成年;**impote**
+	7. _flaccid paralysis_ 驰缓性麻痹；弛缓性瘫痪；松弛性麻痹；软瘫
+	8. Everything was totally limp and flaccid on the left side /左边的身体软弱无力。
+	9. The level of consciousness may also decrease and give rise to flaccid paralysis, where there's reduced muscle tone. /意识水平也可能下降，而且随着肌肉张力的降低，也可能发生弛缓性麻痹。
+	10. He found a woman with flaccid breasts, affectionate and cheap, who calmed his stomach for some time /他找到了一个乳房松弛、深情又廉价的女人，这让他的胃平静了一段时间。
+	11. He lifted his head and sniffed the flaccid air, which was laden with a heavy odour. /他抬起头，嗅了嗅带着浓重气味的松软空气。
+	12. 
 4. flap
 	1. tbd..
 	2. the flap of an envelope /信封的封盖
 	3. flap a book down hastily /急忙把书合上
 	4. The flag flaps in the wind. /旗在风中飘动。
-6. flutter
+5. flutter
 	1. [waver](dic://waver), [flicker](dic://flicker)
 	2.  [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha), [hoo-hah](dic://hoo-hah), [kerfuffle](dic://kerfuffle)
 	3.  [flap](dic://flap), [flapping](dic://flapping), [fluttering](dic://fluttering)
@@ -464,7 +518,7 @@
 	16. My heart fluttered wildly. /我的心猛烈地跳动着
 	17. there was a flutter of wings at the window. /有鸟在窗外拍动翅膀。
 	18. Everyone was in a flutter over the news that the director was resigning. /局长辞职的消息使每个人都极为不安
-7. flounce
+6. flounce
 	1. a strip of pleated material used as a decoration or a trim
 		1. _synonymous：_ [frill](dic://frill), [ruffle](dic://ruffle), [furbelow](dic://furbelow)
 	2. the act of walking with exaggerated jerky motions
@@ -485,44 +539,87 @@
 
 ### ⭐ flect-, flex- = bend, 表示“弯曲”。
 1. flex
-	2. flexible, flexibility
-	3. flexometer
-	4. flexor
-	5. flexuosity
-	6. flexuous
-	7. flexure
-	8. flexile, flexility
-	9. flexitarian
-	10. flexiplast, flexiplastic
-	11. flexiboard
-	12. flection
+	1. 来自 flexible 的回构词。
+	2. vt. 弯曲, 伸缩, 折曲  
+	3. vi. 弯曲  
+	4. n. 屈曲, 折曲
+	5. v. 弯曲，曲折（四肢，关节）；活动，绷紧（肌肉）；（材料）有弹性 
+	6. n. <英>（电器用的）皮线，花线；屈曲；<美，俚>松紧带 
+	7. adj. <美，非正式>弹性工作制的
+	8. [bend](dic://bend)
+	9.  [bend](dic://bend), [deform](dic://deform), [twist](dic://twist), [turn](dic://turn)
+	10. _n._ [flexion](dic://flexion), [flexure](dic://flexure)
+	11. _v._ [shrink](dic://shrink), [contract](dic://contract), [flaunt](dic://flaunt), [flash](dic://flash), [show off](dic://show off), [ostentate](dic://ostentate), [swank](dic://swank)
+	12. **muscles**肌肉;**flexibility**灵活性;**muscle**肌肉;**stiffness**僵硬;**flexible**灵活的;**bend**使弯曲;**rigid**严格的;**rigidity**硬度，刚性;**wiggle**使……摆动，使……扭动;**stiff**严厉的;**grip**紧握;
+	13. flex one's stiff arm slowly /慢慢弯曲僵硬的手臂
+	14. a muscle flexed in his jaw. /他颚部一块肌肉绷紧了。
+	15. The runners flexed their muscles as the preparatory activities for the race. /"赛跑选手们伸屈四肢,放松肌肉以此作为比赛前的准备活动。"
+	16. We rarely get the opportunity to flex that /而我们以前没有机会展示这些。
+	17. Is there anger at Russia for flexing its muscle? /他们是对俄罗斯展示力量感到不满吗？
+	18. And then helps you flex your mental muscles. /然后透过一些你平常不会去涉猎的东西。
+	19. 
+	20. flexible, flexibility
+	21. flexometer
+	22. flexor
+	23. flexuosity
+	24. flexuous
+	25. flexure
+	26. flexile, flexility
+	27. flexitarian
+	28. flexiplast, flexiplastic
+	29. flexiboard
+	30. flection
 		1. the state of being flexed (as of a joint)
 			1. _synonymous：_ [flexure](dic://flexure), [flexion](dic://flexion)
 		2. deviation from a straight or normal course
 			1. _synonymous：_ [inflection](dic://inflection), [flexion](dic://flexion)
 		3. flectional
 		4. introflection
-2. deflect
-	1. undeflected
-	2. deflectoscope
-	3. deflector
-	4. deflectometer
-	5. deflective
-	6. deflection
-	7. deflecting
-3. deflex
+3. deflect
+	1. vt. 使转向；使偏斜；使弯曲 
+	2. vi. 转向；偏斜
+	3.  [debar](dic://debar), [obviate](dic://obviate), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+	4. [bend](dic://bend), [turn away](dic://turn away)
+	5.  [distract](dic://distract)
+	6.  [parry](dic://parry), [block](dic://block)
+	7. _v._ [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid), [turn](dic://turn), [confuse](dic://confuse)
+	8. **divert**转移;**deflection**突然转向,偏斜,偏离;**evade**逃避;**distract**转移;**repel**击退;**counteract**对抗;**dodge**躲闪;**negate**否定;**shield**盾;**thwart**反对;**discredit**败坏…的名声;
+	9. deflect a stream from its original course /使河流改道
+	10. he attempted to deflect attention away from his private life. /他想要转移对他的私人生活的注意。
+	11. The Secretary of State tried to calmly deflect the criticisms. /国务卿试图平静地转移这些批评。
+	12. To deflect means to make something change direction. /折射就是使某物改变路径。
+	13. Still, this mission is going to demonstrate how you might deflect a planet-killing asteroid. /不过，这次任务将演示如何使毁灭地球的小行星偏离轨道。
+	14. Cage changed his name to **deflect** accusations of nepotism /凯奇改了名字以转移裙带关系的指责。
+	15. undeflected
+	16. deflectoscope
+	17. deflector
+	18. deflectometer
+	19. deflective
+	20. deflection
+	21. deflecting
+5. deflex
 	1. deflexion
-4. genuflect, genuflexion
+6. genuflect, genuflexion
 	1. genu-膝盖 + flect-弯 → 膝盖弯 → 下跪。
 	2. _v._ [bow](dic://bow)
 	3. **kneel**跪下，跪;**bowing**运弓法;**reverence**敬礼;**adoration**爱慕;**kneeling**跪着，跪下;**salute**敬礼;**altar**祭坛;**humbly**卑贱地;**bow**弓;**deference**顺从;**denounce**谴责;
 	4. _[genuflect](dic://genuflect)_  vi. 屈服；跪拜（尤指做宗教仪式时）
 	5. to genuflect before an altar /在祭坛前下跪
 	6. politicians had to genuflect to the far left to advance their careers /为了发展自己事业，政客们得向极左人士屈膝献媚。
-5. inflect, inflex
-	1. inflective
-	2. inflection
-6. reflect
+7. inflect
+	1. . vt. 弯曲；改变；使屈曲
+	2. vi. [语]发生曲折变化
+	3. [tone](dic://tone), [modulate](dic://modulate)
+	4. _v._ [modify](dic://modify), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter), [mouth](dic://mouth), [verbalize](dic://verbalize), [verbalise](dic://verbalise)
+	5. **verb**动词;**nouns**名词;**pronouns**代名词;**verbs**动词;**inflict**把…强加给, 使承受, 遭受;**singular**单数的;**modulate**调节;**evoke**引起，唤起;**pronoun**代词;
+	6. Like I figure out exactly how I wanna inflect my lines, my word choice, my outfit. /我想清楚我要如何改变我的台词，我的用词，我的服装。
+	7. Many languages all around the world are heavily inflected, encoding lots of information in verbs. /世界各地的许多语言都有很大的屈折变化，用动词编码大量信息。
+	8. We tend to inflect our voice as we say those. /当我们说这些话时，我们往往会改变声音。
+	9. But how did their melodies **inflect** their meaning? /但是它们的旋律是如何改变了其意义的呢？
+	10. inflex
+	11. inflective
+	12. inflection
+8. reflect
 	1.  [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [ponder](dic://ponder), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [mull](dic://mull), [mull over](dic://mull over), [ruminate](dic://ruminate), [speculate](dic://speculate)
 	2. unreflecting, unreflected
 	3. reflective, reflecting, reflectable
@@ -532,7 +629,7 @@
 	8. reflectogram
 	9. reflectogauge
 	10. reflection, reflectance
-7. reflex
+9. reflex
 	1. _n._ [reaction](dic://reaction), [response](dic://response)
 	2. _adj._ [involuntary](dic://involuntary)
 	3. _n._ [voluntary](dic://voluntary)
@@ -547,16 +644,29 @@
 	12. _gag reflex_ 咽反射；呕反射
 	13. sneezing is a reflex action. /打喷嚏是本能反应动作。
 	14. A law should be a reflex of the will of the people /法律应该是全民意志的反映。
-8. retroflex
+	15. reflexive
+		1. a. 反射的, 折回的, 折转的, 内省的, 反省的, 反身的  n. 反身代词, 反身动词
+		2. 来自 reflex,反射，-ive,形容词后缀。引申语法词义反身的。
+		3. _n._ [personal pronoun](dic://personal pronoun)
+		4. _adj._ [involuntary](dic://involuntary), [backward](dic://backward)
+		5. _n._ [voluntary](dic://voluntary), [forward](dic://forward)
+		6. **instinctive**本能的;**habitual**惯常的;**reactionary**反动的;**singular**单数的;**verb**动词;**passive**被动的，消极的;**verbs**动词;**discourse**论文;**reactive**反动的;**involuntary**无意识做出的;**conscious**意识到的;
+		7. Sometimes we use a reflexive pronoun without " by" . /有时我们用反身代词，不带by。
+		8. And interestingly this expression is usually reflexive so the subject and the object are the same. /有趣的是，这种表达通常是反身形式的，所以主语和宾语是相同的。
+		9. 
+10. retroflex
 	1. _v._ [bend](dic://bend), [flex](dic://flex), [pronounce](dic://pronounce), [articulate](dic://articulate), [enounce](dic://enounce), [sound out](dic://sound out), [enunciate](dic://enunciate)
 	2. _adj._ [backward](dic://backward)
 	3. _n._ [forward](dic://forward)
 	4. **consonant**辅音;**vowel**元音;**vowels**元音，母音;**alveolar**肺泡的;**dialects**乡土语言，方言;**phonetic**语音的，语音学的;**pronunciation**发音;**nasal**鼻的;
 	5. _[retroflex](dic://retroflex)_  adj. 向后弯曲的，后屈的；卷舌的，卷舌音的; n. 卷舌音; v. 向后弯曲，反折；卷舌（发音）; 
 	6. _[retroflex consonant](dic://retroflex%20consonant)_  卷舌音
-	7. retroflexion
-	8. retroflexed, retroflection
-9. circumflex
+	7. You can have a retroflex R where your tongue essentially curls upside down under your palatal arch /你可以发一个卷舌 R ，发这个音的时候你的舌头实际上是在你的腭弓下弯曲的。
+	8. So, in this video I'm focusing specifically on the retroflex sound /所以，在这个视频中， 我特别关注卷舌音。
+	9. The way I like to make the " r" is what we call the " retroflex way" . /我喜欢制作“r” 的方式就是我们所说的“卷舌方式” 。
+	10. retroflexion
+	11. retroflexed, retroflection
+11. circumflex
 	1. n. 音调符号 
 	2. adj. 弯曲的；有声调符号的 v. 标有抑扬音符；弯曲
 	2. _n._ [diacritical mark](dic://diacritical mark), [diacritic](dic://diacritic)
@@ -570,11 +680,23 @@
 1. franchise
 	1. n. 公民权, 特权, 特许经营权, 免赔额  vt. 给以特权, 给以...公民权
 	2. 来自古法语 franc,非奴役的，自由的，来自拉丁语 francus,法兰克人，自由人，词源同 Frank.其原词义即使享有自由权，后引申词义选举权，特许经销权等。
-	3. franchiser
-	4. franchisee
-	5. enfranchise
+	3. n. 特许经营权；获特许经营权的企业（商店）；公民权，选举权；<美，非正式>职业运动队；<美>（由运动联合会授予的）会员运动队拥有权；特许经营品牌（或创意）；在相关故事中出现相同角色的一组电影 
+	4. v. 给予特许经销权；给予……公民权（或选举权）
+	5. _n._ [concession](dic://concession), [grant](dic://grant), [business](dic://business), [concern](dic://concern), [business concern](dic://business concern), [business organization](dic://business organization), [business organisation](dic://business organisation)
+	6. _v._ [license](dic://license), [licence](dic://licence), [certify](dic://certify)
+	7. **league**联盟;**blockbuster**重磅炸弹, 了不起的人或事;**sequel**续集;**playoff**延长赛;**spinoff**续集;**spin-off**副产品;**remake**重做;**game**游戏;**NBA**全美篮球协会;
+	8. _franchise chain_ 特许连锁
+	9. _franchise rights_ 特许经营权
+	10. "In Britain, women were given the franchise in 1918." /英国妇女于一九一八年获得了选举权。
+	11. Catering in the schools is run on a franchise basis. /学校餐饮服务以特许权经营。
+	12. Even fantasy franchises can influence naming trends /即使是科幻系列也能影响命名趋势。
+	13. Not only did you ruin Raiders for me, you may have ruined the whole franchise. /你不仅毁了《夺宝奇兵1》你可能还毁了整个系列。
+	14. It's been confirmed that David Beckham is to start a soccer franchise in Miami. /经证实，大卫 · 贝克汉姆要在迈阿密建立足球专销商。
+	16. franchiser
+	17. franchisee
+	18. enfranchise
 		1. disenfranchisement
-	6. disfranchise
+	19. disfranchise
 		1. disfranchisement
-	7. affranchise
+	20. affranchise
 2. frank

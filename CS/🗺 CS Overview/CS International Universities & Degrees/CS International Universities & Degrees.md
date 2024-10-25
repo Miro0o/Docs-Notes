@@ -22,6 +22,9 @@ https://www.gter.net
 https://huaren.us/home/index
 北美华人e网
 
+https://www.51deguo.com
+我要德国
+
 
 ### General Information about International Universities & Countries' Lives
 https://www.niche.com/
@@ -62,11 +65,16 @@ Get the latest on degrees, college, and scholarship opportunities straight to yo
 [Awesome CS PhD application advice ](https://github.com/jedyang97/awesome-cs-phd-application-advice)
 为未来和当前的博士生收集的建议
 
-[CS Open Application (CS Masters Application)](https://csmsapp.org)
+[CS Open Application (CS Masters Application)](https://opencs.app)
 > Insights
 > 我们很高兴宣布[DataPoints©](https://csmsapp.org/datapoints/)，快来尝试吧！期待大家[提交新的 DataPoints](https://csmsapp.org/datapoints_submit.md)
 > [申请 FAQ](https://csmsapp.org/faq/)栏目中收集了一些群内大家常问的问题及解答，欢迎补充！
 > [外部链接](https://csmsapp.org/link/)中收录了非常有用的工具网站，give it a try!
+
+https://global-cs-application.github.io
+这是一个针对**欧洲/港新**地区计算机硕士相关项目的介绍网站
+（如果你更关心北美地区的项目，请移步[openCS](https://opencs.app/) ╥﹏╥）
+我们理解并支持每一位同学的选择，项目的所有信息仅辅助所有用户的个人决策。
 
 [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 为 CS PhD 申请者提供的建议精选列表，由互联网上的博客组成，略微偏重于 AI/ML 和 NLP 领域。

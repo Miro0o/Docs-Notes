@@ -957,22 +957,23 @@
 	10. deviate
 		1. deviant, deviator, deviation
 		2. retrodeviation, laterodeviation, exodeviation, esodeviation
-	11. obviate (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
-		1. ob-去掉 + vi-路 + -ate, 表动词 → 就在路上掉东西 → 排除障碍。
-		2. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
-		3. [rid of](dic://rid of), [eliminate](dic://eliminate)
-		4. [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
-		5. [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
-		6. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
-		7. to obviate the need for something /使不需要某事物
-		8. No one can deny it. It doesn't obviate peace. It makes peace possible /没人可以否认，它会为我们带来和平，让实现和平成为可能。
-		9. obviation
+	11. obviate (obliterate, oblivious, obviate)
+		1. (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
+		2. ob-去掉 + vi-路 + -ate, 表动词 → 就在路上掉东西 → 排除障碍。
+		3. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+		4. [rid of](dic://rid of), [eliminate](dic://eliminate)
+		5. [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
+		6. [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
+		7. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
+		8. to obviate the need for something /使不需要某事物
+		9. No one can deny it. It doesn't obviate peace. It makes peace possible /没人可以否认，它会为我们带来和平，让实现和平成为可能。
+		10. obviation
 			1. _n._ [prevention](dic://prevention), [bar](dic://bar)
 			2. **concomitant**相伴的;**grammatical**语法的;**derivation**发展;**necessitate**使…成为必要, 需要;**preclude**妨碍;**semantic**语义的;**quantification**定量，量化;**consequent**作为结果的;**lexical**词汇的;**linguistic**语言的, 语言学的, 语言研究的;
 			3. _[obviation](dic://obviation)_  n. 消除；回避；避免
-	12. obvious
+	13. obvious
 		1. ob-加强状态 + vi-路 + -ous形容词后缀 → 就在路上 → 明显的。
-	13. pervious
+	14. pervious
 		1. per-穿过 + vi-道路 + -ous表形容词 → 道路穿过去能透过去的。
 		2. impervious
 	15. previous
@@ -980,8 +981,8 @@
 	16. invoice
 		1.  - 来自中古法语 envois,派遣，送出，-s,复数后缀，来自 envoyer,送出，en-,进入，使，-voy,路，词源同 way,envoy.引申词义发送的货物，后用来指货物清单，发票等。拼写受 voice 影响俗化。
 		2. overinvoicing
-	18. quadrivium, trivium
-	19. weigh (inveigh)
+	17. quadrivium, trivium
+	18. weigh (inveigh)
 		1. 1 - 来自 PIE*wegh,承载，运输，词源同 way,vehicle,wagon.引申词义承载，重量。
 		2. weight
 			1. winter-weight
@@ -3113,6 +3114,17 @@
 			6. _aeration basin_ 曝气池；曝气塘；通气池
 	13. air
 	14. aery
+		1. 1. n. 高巢；高处的城堡；高处的房子（等于aerie）adj. 天空中的；飘渺的
+		2. [aerie](dic://aerie), [eyrie](dic://eyrie), [eyry](dic://eyry)
+		3. [aerie](dic://aerie), [eyrie](dic://eyrie), [eyry](dic://eyry)
+		4.  [aeriform](dic://aeriform), [aerial](dic://aerial), [airy](dic://airy), [ethereal](dic://ethereal)
+		5. _n._ [bird's nest](dic://bird's nest), [bird nest](dic://bird nest), [birdnest](dic://birdnest), [habitation](dic://habitation)
+		6. _adj._ [insubstantial](dic://insubstantial), [unsubstantial](dic://unsubstantial), [unreal](dic://unreal)
+		7. _n._ [substantial](dic://substantial), [real](dic://real), [material](dic://material)
+		8. **airy**通风的;
+		9. Sounds like **aery** bad cold /听起来像很严重的感冒。
+		10. In order to be a good salesman, you need **aery** thick skin. /想作一个好的推销员必须厚脸皮。
+		11. The **aery** but vain felling have no, saving only of that continues to long for to also become memory. /飘渺而虚幻的感觉没有了，仅存的那点依恋也成为记忆。
 	15. aura
 		1. 1 - 词源同 air.指人身上所流露出来的一种微妙的东西，类似我们所说的气场。
 		2. [aureole](dic://aureole), [halo](dic://halo), [nimbus](dic://nimbus), [glory](dic://glory), [gloriole](dic://gloriole)
@@ -3122,12 +3134,22 @@
 		6. the ceremony retains an aura of mystery. /仪式保留着一种神秘气氛。
 		7. The woods have an aura of mystery /林子里有一种神秘的气氛。
 		8. An aura of defeat pervaded the candidate's headquarters /失败的氛围笼罩着候选者总部
-	17. meteor
-		1. micrometeor
-		2. meteorophobia
-		3. meteoroid
-		4. meteoric
-	18. soar
+	16. meteor
+		1. n. 流星, 大气现象
+		2. 1 - 来自希腊语 ta meteora,天体现象，天空之上，来自 meta-,在上，-eora,空中的，词源同 air.引申词义气象。后特别用于指流星，可能因流星比较有代表性。其原义见：aerial meteors,风；aqueous meteors,雨；luminous meteors,极光；igneousmeteors,流星。
+		3.  [shooting star](dic://shooting star)
+		4.  [meteoroid](dic://meteoroid)
+		5. _n._ [light](dic://light), [visible light](dic://visible light), [visible radiation](dic://visible radiation), [extraterrestrial object](dic://extraterrestrial object), [estraterrestrial body](dic://estraterrestrial body)
+		6. **meteorite**陨星;**fireball**火球;**comet**彗星;**asteroid**小行星;**comets**彗星;**lightning**闪电;**thunderstorm**雷电交加的暴风雨;**celestial**天的, 天空的;**orb**天体;**sky**天空;**extraterrestrial**地球外的
+		7. _meteor shower_ [天]流星雨
+		8. a meteor shower; a shower of leaves. /流星雨；一阵落叶
+		9. Others speculated it was a meteor or aliens. /其他人则猜测它是一颗流星或者外星人。
+		10. It's the first meteor shower of Spring. /天琴座流星雨是春季的第一场流星雨
+		11. micrometeor
+		12. meteorophobia
+		13. meteoroid
+		14. meteoric
+	17. soar
 		1. n. 高扬, 翱翔  vi. 往上飞舞, 高耸, 翱翔
 		2. s=ex-是前缀“向外” + -ar与单词air（空气，天空）同源；该词本义为“向外升至空中”。
 		3. soaring
@@ -3985,6 +4007,56 @@
 13. weird
 14. worm
 15. worry
+#### + \*wer- (4) +
+1. **oram-** = see, view, 表示“观看，景”。源自希腊语 hordan "to see."
+	1. cosmorama
+	2. cyclorama
+	3. cycloramic
+	4. diorama
+		1. [panorama](dic://panorama), [cyclorama](dic://cyclorama)
+		2. _n._ [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
+		3. **miniature**小型的, 微小的;**figurine**小雕像，小塑像;**sculpture**雕塑;**museum**博物馆;**vignette**装饰图案;**sculpt**雕刻;**collage**抽象拚贴画;**Lego**垒高拼装玩具;**painting**油画;**mural**墙壁的;**toy**玩具;
+	5. dioramic
+	6. panorama
+	7. panoramic
+		1. _adj._ [wide](dic://wide), [broad](dic://broad)
+		2. _n._ [narrow](dic://narrow)
+		3. **panorama**全景，全貌;**unobstructed**不被阻塞的;**breathtaking**令人赞叹的;**view**风景;**skyline**地平线;**spectacular**壮观的, 雄伟的, 引人入胜的;**picturesque**如画的;**vantage**有利情况;**terrace**梯田;**vista**远景，狭长的街景;**scenic**舞台的;
+		4. Dickens’s sparkling language and panoramic worldview continue to resonate /狄更斯卓越的文字驾驭能力和广大的世界观让读者们持续产生共鸣。
+		5. High-altitude spy cameras are usually panoramic cameras /高空间谍照相机通常是全景相机。
+		6. Software recreates snow conditions and the panoramic screen transports me to snowy mountains /软件再现了雪景，全景屏幕将我带到了雪山。
+		7. Aside from offering a panoramic view of the city, the luxurious hotel is an architectural wonder. /这家豪华酒店不仅能将城市美景尽收眼底，它还是一个建筑奇迹。
+	8. cinepanoramic
+	9. colorama
+2. **rever-** = awe, 表示“敬畏”。源自拉丁语 vereri "to respect, feel awe for."
+	1. revere
+	2. reverence
+		1.  [fear](dic://fear), [awe](dic://awe), [veneration](dic://veneration)
+		2.  [fear](dic://fear), [revere](dic://revere), [venerate](dic://venerate)
+		3. _n._ [emotion](dic://emotion), [attitude](dic://attitude), [mental attitude](dic://mental attitude)
+		4. _v._ [respect](dic://respect), [esteem](dic://esteem), [value](dic://value), [prize](dic://prize), [prise](dic://prise)
+		5. _n._ [irreverence](dic://irreverence)
+		6. **admiration**钦佩;**adoration**爱慕;**deference**顺从;**devotion**热爱;**humility**谦卑，谦逊;**disdain**蔑视;**respect**尊敬，尊重;**affection**感情;**awe**使敬畏;**piety**虔诚;**majesty**威严;
+		7. reverence the country's laws /尊重国家法律
+		8. He was a bishop who was held in reverence by all. /他是一位被大家都尊敬的主教。
+		9. a painting that inspires deep reverence for nature /激起对大自然深深敬畏之情的绘画
+		10. So, we pay huge reverence to this. /我们对此表示崇敬。
+		11. He also promised to show " unconditional reverence and obedience" to the next pope. /他还承诺向下届教皇展现“无条件的尊敬和服从。”
+	3. reverend
+	4. reverent
+3. **ware-** = watch, 表示“注视”。
+	1. aware
+	2. beware
+	3. wary (vigilant, wary, circumspect, thoughtful, )
+		1. adj. 机警的；谨慎的；惟恐的；考虑周到的
+		2. [leery](dic://leery), [mistrustful](dic://mistrustful), [suspicious](dic://suspicious), [untrusting](dic://untrusting)
+		3. _adj._ [on guard](dic://on guard), [on your guard](dic://on your guard), [shy](dic://shy), [distrustful](dic://distrustful)
+		4. _n._ [unwary](dic://unwary), [trustful](dic://trustful), [trusting](dic://trusting)
+		5. **cautious**谨慎的;**hesitant**踌躇的;**skeptical**怀疑的;**apprehensive**忧虑的;**worried**担心的;**fearful**可怕的;**sceptical**怀疑的;**reluctant**不情愿的, 勉强的;**afraid**害怕的;**uneasy**不舒服的;**aware**知道的;
+4. award
+5. guard
+6. lord
+7. ward
 #### + \*wer- (5) + = to cover
 1. **aper-** = to open, apo- + ver-
 	1. aperient

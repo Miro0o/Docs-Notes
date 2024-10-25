@@ -66,13 +66,11 @@
 
 > 🔗 More of Modle-View-Control architecture is at [MVC](../../../../Software%20Engineering/Web%20Development/👩🏻‍🎨%20Design%20Pattern/MVC.md)
 
-| Advantages of Mainframe Architecture | Disadvantages of Mainframe Architecture |
-| - | - |
-| All advantages of the client/server architecture |  Adds another layer of complexity (web server) |
-| Increased ease of application version control | Various software apps must keep synchronized with database software |
-| Very good at handling intermittent use from large numbers of users (millions)| Upgrades in browsers may require changes to application |
-
-
+| Advantages of Mainframe Architecture                                          | Disadvantages of Mainframe Architecture                             |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| All advantages of the client/server architecture                              | Adds another layer of complexity (web server)                       |
+| Increased ease of application version control                                 | Various software apps must keep synchronized with database software |
+| Very good at handling intermittent use from large numbers of users (millions) | Upgrades in browsers may require changes to application             |
 #### Application Server
 #TODO 
 

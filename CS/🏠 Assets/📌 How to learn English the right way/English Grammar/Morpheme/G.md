@@ -2431,9 +2431,9 @@
 	5. ecchymosis
 	6. perichylous
 3. **fus-, fund-, found-** = pour, 表示“流，泻”。源自拉丁语 fundere "to melt, pour out."
-	1. confound
+	8. confound
 		1. be confusing or perplexing to; cause to be unable to think clearly
-			1. [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [discombobulate](dic://discombobulate)
+			2. [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [discombobulate](dic://discombobulate)
 		2. mistake one thing for another
 			1. [confuse](dic://confuse)
 		3. _v._ [be](dic://be), [mistake](dic://mistake), [misidentify](dic://misidentify)
@@ -2453,7 +2453,7 @@
 		17. confounded
 			1. [baffled](dic://baffled), [befuddled](dic://befuddled), [bemused](dic://bemused), [bewildered](dic://bewildered), [confounded](dic://confounded), [confused](dic://confused), [lost](dic://lost)
 			2. **awfully**可怕地;**terribly**可怕地;**painfully**痛苦地;**delightfully**大喜;**strangely**奇妙地;**hopelessly**绝望地;**exceedingly**非常;**curiously**好奇地;**perplexed**困惑的;**stupidly**愚蠢地;**absurdly**愚蠢地;
-	2. foundry
+	9. foundry
 		1. [metalworks](dic://metalworks)
 		2. _n._ [factory](dic://factory), [mill](dic://mill), [manufacturing plant](dic://manufacturing plant), [manufactory](dic://manufactory)
 		3. **furnaces**炉子，熔炉;**castings**铸件;**manufacturing**制造业,工业;**machining**加工;**blacksmith**铁匠;**mill**磨坊;**lathe**用车床加工;**shipyard**船坞;**factory**工厂;**foreman**领班;**quarry**采石场;
@@ -2462,7 +2462,7 @@
 		6. _steel foundry_ 铸钢厂；铸钢车间
 		7. The air near the foundry was always dirty. /铸造厂附近的空气总是灰蒙蒙的
 		8. Tell the foundry to cast another piston. /告诉铸铁间再铸一只活塞。
-	3. refund
+	10. refund
 		1. [repayment](dic://repayment)
 		2. [return](dic://return), [repay](dic://repay), [give back](dic://give back)
 		3. _n._ [payment](dic://payment), [defrayal](dic://defrayal), [defrayment](dic://defrayment)
@@ -2475,7 +2475,7 @@
 			1. The refundment of the payment of the formal agreement should be settled on the condition of no dispute between the two parties /正式协议付款的退还，应该在双方没有任何分歧下解决；
 		10. refunding
 		11. refundable
-	5. fuse
+	11. fuse
 		1.  [electrical fuse](dic://electrical fuse), [safety fuse](dic://safety fuse)
 		2.  [fuze](dic://fuze), [fusee](dic://fusee), [fuzee](dic://fuzee), [primer](dic://primer), [priming](dic://priming)
 		3.  [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
@@ -2576,12 +2576,12 @@
 			2. transfuser
 			3. transfusable
 		36. infusible
-	7. fusil
+	12. fusil
 		1. n. [军]轻型燧发枪
 		2. _n._ [musket](dic://musket)
 		3. **un**家伙，东西;**revolver**左轮手枪;**rifle**步枪;**rifles**来福枪;**lance**长矛;**petit**细小的;
 		4. fusillade
-	9. futile, futility, 
+	13. futile, futility, 
 		1. **fruitless**没有成果的, 无益的;**pointless**无意义的;**vain**徒劳的;**futility**无用;**counterproductive**反生产的,使达不到预期目标的;**hopeless**绝望的;**useless**无用的;**unsuccessful**不成功的;**meaningless**无意义的;**ineffective**无效的;**misguided**由错误思想指引的,不明智的;
 		2. [bootless](dic://bootless), [fruitless](dic://fruitless), [sleeveless](dic://sleeveless), [vain](dic://vain)
 		3. [ineffectual](dic://ineffectual), [otiose](dic://otiose), [unavailing](dic://unavailing)
@@ -2776,23 +2776,24 @@
 		1. - n. （税率的）递减；下降；渐减
 		2. degressive
 	3. digress
-		1. vi. 走向岔道, 离题, 扯到枝节上
-		2. di-偏离 + gress-走 → 走偏离 → 离题。
-		3.  [stray](dic://stray), [divagate](dic://divagate), [wander](dic://wander)
-		4.  [sidetrack](dic://sidetrack), [depart](dic://depart), [straggle](dic://straggle)
-		5. _v._ [tell](dic://tell), [deviate](dic://deviate), [divert](dic://divert)
-		6. **suppose**假设;**guess**猜测;**heh**嗨!;**duh**咄;**anyway**无论如何，不管怎样;**anyhow**无论如何;**ahem**呃哼！;**alas**唉;**yeah**是;**dunno**我不知道;**ugh**啊;
-	4. gressorial
-	5. egress
-	6. ingress
+		1. (digress, sidebar, distraction, excursive, )
+		2. vi. 走向岔道, 离题, 扯到枝节上
+		3. di-偏离 + gress-走 → 走偏离 → 离题。
+		4.  [stray](dic://stray), [divagate](dic://divagate), [wander](dic://wander)
+		5.  [sidetrack](dic://sidetrack), [depart](dic://depart), [straggle](dic://straggle)
+		6. _v._ [tell](dic://tell), [deviate](dic://deviate), [divert](dic://divert)
+		7. **suppose**假设;**guess**猜测;**heh**嗨!;**duh**咄;**anyway**无论如何，不管怎样;**anyhow**无论如何;**ahem**呃哼！;**alas**唉;**yeah**是;**dunno**我不知道;**ugh**啊;
+	5. gressorial
+	6. egress
+	7. ingress
 		1.  [immersion](dic://immersion)
 		2.  [entrance](dic://entrance), [entering](dic://entering), [entry](dic://entry), [incoming](dic://incoming)
 		3. _n._ [disappearance](dic://disappearance), [arrival](dic://arrival)
 		4. _n._ [egress](dic://egress), [emersion](dic://emersion)
 		5. **leakage**泄漏;**moisture**潮湿;**corrosion**腐蚀;**intrusion**闯入;**abrasion**磨损;**condensation**冷凝,凝聚;**incoming**引入的，入射的;
-	7. introgression
-	8. progress
-	9. regress (recess, )
+	8. introgression
+	9. progress
+	10. regress (recess, )
 		1.  [reasoning backward](dic://reasoning backward)
 		2.  [regression](dic://regression), [reversion](dic://reversion), [retrogression](dic://retrogression), [retroversion](dic://retroversion)
 		3.  [revert](dic://revert), [return](dic://return), [retrovert](dic://retrovert), [turn back](dic://turn back)
@@ -2805,8 +2806,8 @@
 		10. Most rhabdomyomas actually usually regress spontaneously /大多数横纹肌瘤其实通常会自发消退。
 		11. In essence, they're getting weaker, because their ability to overcome suffering is regressing. /本质上，他们变得越来越弱，因为他们克服痛苦的能力正在退化。
 		12. Indeed, women's views on gender roles have shown signs of regressing in recent years. /事实上，女性对性别角色的看法近年来有退步的迹象。
-	10. retrogress
-	11. transgress (trespass)
+	11. retrogress
+	12. transgress (trespass)
 		1. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
 		2. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
 		3. _[transgress duty](dic://transgress%20duty)_ 越过职责
@@ -2814,8 +2815,8 @@
 		5. she had transgressed an unwritten social law. /她违反了不成文的社会规范。
 		6. South Korean makers of electric vehicles in America transgress them because they use Chinese batteries. /韩国电动汽车厂商因为使用了中国电池就违反了本土化规则。
 		7. So many people (including path-breaking members of minority groups) will be deemed to have transgressed that skeletons in closets come to be regarded as inevitable. /如果有太多人的行为被视为越轨（包括少数群体的领先成员），那么人们也会觉得这样的隐情丑事是不可避免的。
-	12. congress
-	13. degree
+	13. congress
+	14. degree
 
 
 ### + \*ghrendh- + 
@@ -3111,11 +3112,11 @@
 	14. The pleasures of idleness soon **cloy** /无所事事的快乐很快就令人厌烦了。
 	15. cloying
 		1. a. 因过量而厌烦的, 甜得发腻的, 过于感性的
-		1. Cloying speech or sentiment. /令人腻烦的语言或情感
-		1. a romantic, rather cloying story /一个浪漫的，相当腻人的故事。
-		1. a rancid, cloying odour that made him nauseous. /让他要吐的腻味和腐臭气味。
-		1. By 1602 Ben Jonson was using " fulsome" in the sense of cloying or overdone. /到1602年，本·琼森开始使用“fulsome”来表示令人厌烦或过度的意思。
-		1. Jake's show of kindness was fake, I could say that he was cloying or syrupy. /杰克的友善表现是假的，我可以说他是在令人厌烦或甜言蜜语。
+		2. Cloying speech or sentiment. /令人腻烦的语言或情感
+		3. a romantic, rather cloying story /一个浪漫的，相当腻人的故事。
+		4. a rancid, cloying odour that made him nauseous. /让他要吐的腻味和腐臭气味。
+		5. By 1602 Ben Jonson was using " fulsome" in the sense of cloying or overdone. /到1602年，本·琼森开始使用“fulsome”来表示令人厌烦或过度的意思。
+		6. Jake's show of kindness was fake, I could say that he was cloying or syrupy. /杰克的友善表现是假的，我可以说他是在令人厌烦或甜言蜜语。
 
 
 ### + \*glem-, \*glom- + 
@@ -3494,23 +3495,37 @@
 		1. notably
 		2. notability
 	2. annotate
-		1. **visualize**在脑中使形象化, 设想, 想像;**analyze**对…进行分析，分解;**edit**编辑;**revise**校订;**categorize**把…归类;**organize**组织;**identify**识别;**parse**从语法上分析;**modify**修改，修饰;**summarize**总结, 概述;**assign**分配;
-		2. [footnote](dic://footnote)
-		3. [gloss](dic://gloss), [comment](dic://comment)
-		4. annotator
-		5. annotation
-	3. connote
+		1. v. 作注解, 注释
+		2. an-加强 + not-知道 , 注意 + -ate, 表动词 → 给予注意 → 注解。
+		3. **visualize**在脑中使形象化, 设想, 想像;**analyze**对…进行分析，分解;**edit**编辑;**revise**校订;**categorize**把…归类;**organize**组织;**identify**识别;**parse**从语法上分析;**modify**修改，修饰;**summarize**总结, 概述;**assign**分配;
+		4. [footnote](dic://footnote)
+		5. [gloss](dic://gloss), [comment](dic://comment)
+		6. Next, you wanna annotate the material /接下来，你还需要给资料增添注释。
+		7. Hands data in the art museum isn't yet annotated to show how they work. /艺术博物馆里的关于手数据还没有注释来显示它们是如何工作的。
+		8. The collection contains an annotated catalogue of 10,680 titles along with compendiums of 3,593 titles. /收藏有10680种注释目录和3593种简编。
+		9. 
+		10. annotator
+		11. annotation
+	4. connote
 		1. **denote**表示，指示;**connotation**内涵;**signify**表示;**imply**暗示;**equate**使相等;**evoke**引起，唤起;**meaning**意义;**synonymous**同义的;**signifying**①吹牛游戏②对骂游戏;**symbolize**象征;**interchangeably**可交换地;
 		2. connotative
 		3. connotation
-	4. denote
+			1. n. 内涵意义，隐含意义，联想意义
+			2. [intension](dic://intension)
+			3. _n._ [meaning](dic://meaning), [significance](dic://significance), [signification](dic://signification), [import](dic://import), [substance](dic://substance)
+			4. **meaning**意义;**phrase**成语;**word**单词;**meanings**含义;**derogatory**不敬的;**implication**暗示;**overtones**弦外之音;**term**学期;**colloquial**口语的, 会话的;**adjective**形容词;**allusion**暗示;
+			5. These butterflies seem to have a magical connotation, but are still rooted in reality. /这些蝴蝶似乎有魔法的含义，但仍然来源于现实。
+			6. Cognitive behavioural therapy, which teaches people to bypass unhelpful thoughts, has few negative connotations. /“认知行为疗法”能教人们绕开那些无益的想法，这种疗法几乎没什么潜在负面影响。
+			7. For decades, feminists have expanded its connotations beyond the idea of " hatred of women" /几十年来，女权主义者将其内涵扩展到“憎恨女性”之外。
+			8. 
+	5. denote
 		1. [designate](dic://designate), [denominate](dic://denominate), [mean](dic://mean), [intend](dic://intend), [inform](dic://inform)
 		2. **signify**表示;**signifying**①吹牛游戏②对骂游戏;**correspond**相符合, 相一致;**indicate**指出;**designate**指派, 委任;**represent**表现;**define**定义;**distinguish**辨别, 区别;**refer**涉及;**symbolize**象征;**imply**暗示;
 		3. denoter
 		4. denotative
 		5. denotation
 		6. denotable
-	5. note
+	6. note
 		1. notly
 		2. noteworthy
 		3. noter, notepaper, notepad
@@ -3550,11 +3565,22 @@
 		6. metanotion
 		7. hypernotion
 	10. notoriety
-		1. notorious
-		2. notoriousness
-		3. notoriously
-	11. unnoted
-	12. connoisseur, connoisseurship
+		1. _n._ [infamy](dic://infamy)
+		2. **fame**名声，名望;**prominence**声望, 杰出;**renown**声誉;**popularity**普遍,流行;**publicity**公众的注意;**acclaim**称赞;**reputation**名气, 名声, 名誉;**stardom**演员们;**obscurity**不明, 费解, 隐晦, 无闻;**prestige**威望，声望;**limelight**众人注目的中心;
+		3. The one among them who found real notoriety wasn't the most polished, though, or even the most comical. /不过，他们当中发现其真正臭名昭著的人并不是最光鲜的，甚至不是最滑稽的。
+		4. The video from that event went viral and I got a lot of notoriety /记录该活动的视频像病毒一样迅速传播，我也因此受到很多关注。
+		5. And it just sort of was like the notoriety was just an overflow of the work. /感觉好像你拍的作品泛滥就会名声很差一样。
+		6. Branson has used not only his money, but his brand and his notoriety to influence world leaders. /布兰森不仅用了他的钱，还用了他的品牌和名声去影响世界领导人。
+		7. He may have sought notoriety, but we in New Zealand will give him nothing. Not even his name /他或许已经臭名昭著了，但在新西兰我们不会给他任何东西，甚至没有名字。
+		8. notorious
+			1. _adj._ [disreputable](dic://disreputable)
+			2. _n._ [reputable](dic://reputable)
+			3. **infamous**无耻的;**famed**著名的;**famous**著名的;**well-known**出名的;**renowned**著名的;**penchant**嗜好;**best-known**众所周知的;**high-profile**高姿态的;**legendary**传说的;**ruthless**无情的，残忍的;**famously**极好地;
+			4. a weapon of notorious inaccuracy /因其不准确度而声名狼藉的武器。
+		9. notoriousness
+		10. notoriously
+	12. unnoted
+	13. connoisseur, connoisseurship
 5. **quaint-** = know, 「Latin」congnitus. "known, approved"
 	1. acquaint
 		1. _v._ [inform](dic://inform)
@@ -3573,9 +3599,10 @@
 			5. _nodding acquaintance_ 相识不深的人；不完整或肤浅的知识
 			6. _make the acquaintance of_ vt. 和…相识，结识
 	3. quaint
-		1. [old-time](dic://old-time), [olde worlde](dic://olde worlde)
-		2. _adj._ [strange](dic://strange), [unusual](dic://unusual), [peculiar](dic://peculiar), [old-fashioned](dic://old-fashioned)
-		3. _n._ [familiar](dic://familiar), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
+		1. (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
+		2. [old-time](dic://old-time), [olde worlde](dic://olde worlde)
+		3. _adj._ [strange](dic://strange), [unusual](dic://unusual), [peculiar](dic://peculiar), [old-fashioned](dic://old-fashioned)
+		4. _n._ [familiar](dic://familiar), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
 			1. [queer](dic://queer) 指一种无法解释的怪诞，强调事物的奇特和不可思议。  
 			2. [odd](dic://odd) 通常指不规律、偶尔出现的人或事物，往往令人困惑或奇怪。  
 			3. [funny](dic://funny) 较通俗用词，指奇怪得滑稽可笑或反常。  
@@ -3587,8 +3614,8 @@
 			9. [quaint](dic://quaint) 指古色古香，使人感到既奇怪又有趣。  
 			10. [singular](dic://singular) 通常指异常或奇特，暗含不同于一般。
 			11. **charming**迷人的;**picturesque**如画的;**quirky**诡诈的;**delightful**令人非常高兴的, 讨人喜欢的;**homey**舒适的;**idyllic**牧歌的，田园诗的;**cozy**舒适的，惬意的;**rustic**乡村的;**tranquil**安静的，平静的;**homely**平凡的;**delightfully**大喜;
-		4. quaintness
-		5. quaintly
+		5. quaintness
+		6. quaintly
 6. can
 7. couth
 	1. _adj._ [refined](dic://refined)
@@ -4826,7 +4853,7 @@
 		9. Gratuities for waiters are included in the bill. /给侍者的小费包括在帐单中
 		10. He lost his job, no gratuity at all. /他没有任何养老金地失去了工作。
 		11. The debtor, for fear of a very severe execution, was obliged, without any further gratuity, to vote for the candidate whom the creditor recommended /债务人由于担心处决非常严厉，不得不在没有任何进一步酬金的情况下投票给债权人推荐的候选人。
-		12. gratuitous, gratuitously
+		12. gratuitous, gratuitously (gratuitous, fortuitous, iniquitous, circuitous, ubiquitous)
 			1. gratu-感谢 + -itous表形容词，原指表达感谢，报答，免费给予。后词义贬义化，指无缘无故的，莫名其妙的。比较汉语无功不受禄。
 			2. 来自 grat-,感谢，词源同 grace,gratitude.原指表达感谢，报答，免费给予。后词义贬义化，指无缘无故的，莫名其妙的。
 			3. adj. 无理由的，无端的；免费的
@@ -4868,7 +4895,7 @@
 		4. It would take an ingrate great courage to work on ways to dispel such measures /一个不知感激为何物的人理直气壮的否定这些措施。
 		5. That ingrate can't stop hounding me for five minutes /这忘恩负义的家伙 5分钟也不让我闲着。
 		6. ingratitude
-	10. ingratiate
+	10. ingratiate (ingratiate, sycophant, obsequious, submissive, )
 		1. vt. 使迎合；使讨好；使逢迎
 		2. _v._ [manipulate](dic://manipulate), [keep in line](dic://keep in line), [control](dic://control)
 		3. pander, indulge, gratify
@@ -4881,21 +4908,33 @@
 	11. grace, graces
 		1. ungracious, ungraceful
 			1. scapegrace
-		2. gracious, graceful
-			1. gracefulness
-			2. gracefully
-			3. gracefulless
-		3. gracilis
-		4. gracile
-		5. graceless
-		6. disgrace, disgraceful, disgracefully
-2. bard
+		2. gracious
+			1. [benignant](dic://benignant)
+			2.  [courteous](dic://courteous), [nice](dic://nice)
+			3. _adj._ [elegant](dic://elegant), [graceful](dic://graceful), [refined](dic://refined), [merciful](dic://merciful), [kind](dic://kind), [polite](dic://polite), [propitious](dic://propitious)
+			4. _n._ [ungracious](dic://ungracious), [unkind](dic://unkind), [impolite](dic://impolite), [unpropitious](dic://unpropitious)
+			5. **hospitable**好客的;**generous**慷慨的，大方的;**considerate**体贴的, 体谅的;**courteous**彬彬有礼的;**accommodating**乐于助人的;**thoughtful**沉思的, 思考的;**polite**有礼貌的，客气的;**merciful**仁慈的;**attentive**对某人〔物〕 注意的;**sincere**真诚的;**personable**英俊的;
+			6. the accession of Her present gracious Majesty. /登上陛下目前的王位。
+			7. responded to the insult with gracious humor. /以礼貌的幽默回应侮辱
+			8. the British painter specialized in gracious Victorian interiors. /专门从事高品位的维多利亚式室内装饰的英国画家。
+			9. I thanked Jane for her gracious hospitality. /我感谢简的盛情款待。
+			10. graceful
+			11. gracefulness
+			12. gracefully
+			13. gracefulless
+		4. gracilis
+		5. gracile我感谢简的盛情款待。
+		6. graceless
+		7. disgrace, disgraceful, disgracefully
+2. bard (brad)
 	1. **mage**博学者;**poet**诗人;**elf**小精灵;**cleric**牧师;**warrior**战士，勇士;**Druid**德鲁伊教团员;**archer**弓箭手;**barbarian**野蛮人;**shaman**萨满教的道士;**poets**诗人;**storyteller**讲故事者;
 	2. [caparison](dic://caparison), [barde](dic://barde), [dress up](dic://dress up)
 	3. [poet](dic://poet), [caparison](dic://caparison), [trapping](dic://trapping), [housing](dic://housing)
 	4. [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify)
-	5. bardic
-	6. 
+	5. The Atlantic even called him the bow tied bard of populism /《大西洋月刊》甚至称他为“系着领结的民粹主义吟游诗人”。
+	6. William faulkner is the bard of the American South. /威廉·福克纳是美国南方的诗人。
+	7. bardic
+	8. 
 
 
 ### + \*gwere- + = 
@@ -4937,7 +4976,7 @@
 		9. It has been taken as an important barometer of the country's foreign trade /广交会一直被视为中国对外贸易的重要晴雨表。
 	12. barometry
 		1. n. [气象] 气压测定法
-	13. baron
+	13. baron (barren)
 		1.  [big businessman](dic://big businessman), [business leader](dic://business leader), [king](dic://king), [magnate](dic://magnate), [mogul](dic://mogul), [power](dic://power), [top executive](dic://top executive), [tycoon](dic://tycoon)
 		2. _n._ [Lord](dic://Lord), [noble](dic://noble), [nobleman](dic://nobleman), [peer](dic://peer), [businessman](dic://businessman), [man of affairs](dic://man of affairs)
 		3. **magnate**巨头;**tycoon**巨富;**nobleman**贵族;**heiress**女继承人;**lord**上帝;**industrialist**工业家,实业家;**mogul**有权势的人;**knight**骑士，武士;**duke**公爵，君主;**billionaire**亿万富翁;**financier**金融家;
@@ -4965,6 +5004,15 @@
 		6. Yeah, I'm surprised you didn't end up in the brig. /就是 你没进监狱我都挺奇怪的。
 		7. Obtaining possession of the brig was suggested by one of us. /我们中的一个人建议获得双桅船的所有权。
 	2. brigade
+		1. _n._ [army unit](dic://army unit)
+		2. _v._ [group](dic://group), [aggroup](dic://aggroup)
+		3. **battalion**营;**regiment**把…编成团;**infantry**步兵;**army**陆军，军队;**corps**军团;**platoon**排，团;**cavalry**骑兵;**commander**指挥官;**squadron**中队;**artillery**炮, 大炮;**troops**部队;
+		4. _fire brigade_ n. 消防队
+		5. Our brigade will be committed at dawn. /我们旅黎明就要投入战斗。
+		6. they thought the speech too closely brigaded with illegal action. /他们认为这番话与非法行为联系过紧。
+		7. formed a bucket brigade to carry water to the fire. /提桶形成一个队列以传水救火
+		8. The king was thinking of sending an armored brigade into Syria. /国王正在考虑派遣一装甲旅前往叙利亚。
+		9. We also have the medical brigade, which is in Honduras, partners of surgery in Guatemala. /我们还资助了洪都拉斯的一个医疗团队，他们是危地马拉外科手术团队的合作伙伴。
 	3. brigand
 		1.  [bandit](dic://bandit)
 		2. _n._ [thief](dic://thief), [stealer](dic://stealer)
@@ -4973,6 +5021,18 @@
 		5. We passed the desiccated corpse of a brigand hanging on a gibbet. /我们路过一具悬在绞刑架上的土匪干尸。
 3. **brut-**  = brutish, 表示“粗鲁的”。源自拉丁语 brutus "heavy, dull, stupid, brutish"
 	1. brute
+		1.  [beast](dic://beast), [wolf](dic://wolf), [savage](dic://savage), [wildcat](dic://wildcat)
+		2.  [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [creature](dic://creature), [fauna](dic://fauna)
+		3.  [beastly](dic://beastly), [bestial](dic://bestial), [brutish](dic://brutish)
+		4. _n._ [attacker](dic://attacker), [aggressor](dic://aggressor), [assailant](dic://assailant), [assaulter](dic://assaulter), [organism](dic://organism), [being](dic://being)
+		5. _adj._ [inhumane](dic://inhumane)
+		6. _n._ [humane](dic://humane)
+			1. [animal](dic://animal) 普通用词，指区别于植物和矿物而言的动物的总称。  
+			2. [beast](dic://beast) 指有别于爬行动物、昆虫等的较大的四脚兽类或牛、马等牲畜。  
+			3. [creature](dic://creature) 通常指生物或动物，与非生动相对。指人时，则含怜悯或轻蔑的意味。  
+			4. [brute](dic://brute) 特指野兽。用于人时，突出其野蛮或残忍。  
+			5. [cattle](dic://cattle) 指大牲畜，尤其指牛。
+		7. **force**武力;**cunning**狡猾的;**savage**残酷的;**beast**野兽;**ruthless**无情的，残忍的;**formidable**可怕的;**merciless**无情的,残忍的;**ferocious**残忍的;**monstrous**极可恶的;**brutal**残忍的;**inhuman**无人性的;
 4. **grav-, griev-** = heavy, 表示“重”。
 	1. aggrieve
 	2. grieve
@@ -5037,18 +5097,30 @@
 		5. gorget
 			1. _n._ [armor plate](dic://armor plate), [armour plate](dic://armour plate), [armor plating](dic://armor plating), [plate armor](dic://plate armor), [plate armour](dic://plate armour)
 			2. **armor**装甲;**armour**装甲;**tunic**束腰外衣;**plumage**翅膀;**insignia**徽章;**dagger**匕首，短剑;**brooch**胸针，领针;**beak**鸟嘴;**cloak**斗蓬;**feathers**羽状裂缝;
-		6. engorge, engorgement
-		7. regorged
-		8. disgorge
+		6. engorge
+			1. _v._ 大吃，狼吞虎咽，使充血；大吃，贪吃，充血，充血，充盈
+			2.  [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [glut](dic://glut), [englut](dic://englut), [stuff](dic://stuff), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
+			3. _v._ [eat](dic://eat)
+			4. **inflate**使充气;**devour**毁灭;**enlarge**扩大;**anus**肛门;**restrain**抑制，控制;**vagina**阴道;**infect**感染，传染;**invade**侵略;**stimulate**刺激;**nourish**滋养;**penis**阳物，阴茎;
+			5. the river was engorged by a day-long deluge. /一天的大雨使河流涨满了水。
+			6. Pulse, blood pressure, and breathing rates keep increasing and genitals are becoming fully engorged. /脉搏、血压和呼吸频率不断增加，生殖器变得完全充血。
+			7. Her bowel will **engorge** quite often, I'm afraid. /她的肠将相当经常充血，我害怕。
+			8. engorgement
+		8. regorged
+		9. disgorge
 			1.  [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
 	2. gurgitation
 		1. _n._ 起伏,沸腾声
 		2. n. 涡旋；沸腾；汹涌
-	3. ingurgitate,
+	3. ingurgitate
 		1. _[ingurgitate](dic://ingurgitate)_  vt. 大口吞食；吞没; vi. 狼吞虎咽；大吃大喝;
 	4. regurgitate, regurgitation
 		1. _v._ [pour](dic://pour), [feed](dic://feed), [give](dic://give), [repeat](dic://repeat), [echo](dic://echo), [excrete](dic://excrete), [egest](dic://egest)
 		2. **spew**呕吐;**drivel**淌口水,说傻话;**digest**消化;**spouting**喷射;**dissect**切细;**spewing**压出,榨出,吐花,吐毛;**ingest**咽下;**swallow**燕子;**inane**愚蠢的;**chew**咀嚼;**vomit**吐出;
+		3. For years we sit and regurgitate what we're told. /多年来我们坐着机械式地被灌输千篇一律的知识。
+		4. They sometimes regurgitate them for their cubs to eat. /有时还会把它们反刍出来给幼崽吃。
+		5. They're kind of mixing everything together, and it just seems like they're regurgitating everything they've ever heard before /他们把所有的东西都混在一起，防腐在重复他们以前听过的所有东西。
+		6. One of the wands will force the other to regurgitate spells it has performed-in reverse /一根魔杖会强迫另一根魔杖重复它施过的魔咒——以倒叙的方式。
 	5. gormand, gourmand
 		1. _[gastronome gormand gourmand](dic://gastronome%20gormand%20gourmand)_ 美食者
 	6. gourmandise, gormandize
@@ -5089,15 +5161,22 @@
 		1. _adj._ [carnivorous](dic://carnivorous)
 		2. _n._ [herbivorous](dic://herbivorous), [omnivorous](dic://omnivorous), [insectivorous](dic://insectivorous)
 		3. **prey**捕食;**predation**掠夺行为;**predator**食肉动物;**fishes**鱼类;**aquatic**水生的;**predatory**食肉的;**freshwater**淡水的;**fish**捕鱼，钓鱼;**larval**幼虫状态的;**species**物种;**vertebrate**脊椎动物;
-	14. omnivory, omnivore, omnivorous
+	14. omnivory
+		1. omnivore,
+		2. omnivorous
+			1. _n._ [insectivorous](dic://insectivorous), [carnivorous](dic://carnivorous), [herbivorous](dic://herbivorous)
+			2. **vegetarian**素食者;**eater**食者;**nocturnal**在夜间的;**insatiable**不知足的;**opportunistic**机会主义的;**predatory**食肉的;**predator**食肉动物;**prey**捕食;**inquisitive**好问的;**adaptable**可适应的,有适应能力的;**vegan**严格的素食主义者;
+			3. Two-toed sloths are omnivorous, which means that they also eat bugs, small lizards, as well fruit and leaves. /二趾树懒是杂食性的，这意味着它们也吃虫子、小蜥蜴以及水果和树叶
+			4. Many are omnivorous and supplement diets of things like insects, crustaceans, worms, and fish with fruits, seeds, and other plant matter. /许多是杂食性的，以昆虫、甲壳类动物、蠕虫和鱼类等食物为食，并补充水果、种子和其他植物物质。
 	15. limivorous
 	16. formicivorous
 5. craw
-	1. crop
-	2. _n._ [stomach](dic://stomach), [tummy](dic://tummy), [tum](dic://tum), [breadbasket](dic://breadbasket)
-	3. **sticks**树枝;**stick**手杖;**stuck**刺;**sticking**粘的;**pike**矛;
-6. hellebore
-7. scrag
+	1. - n. 嗉囊；嗉子；胃
+	2. crop
+	3. _n._ [stomach](dic://stomach), [tummy](dic://tummy), [tum](dic://tum), [breadbasket](dic://breadbasket)
+	4. **sticks**树枝;**stick**手杖;**stuck**刺;**sticking**粘的;**pike**矛;
+7. hellebore
+8. scrag
 	1. 1. vt. 绞死；扼杀；排挤掉…
 	2. n. 皮包骨的人或动物；弱不禁风的植物；[俚]脖子；羊颈肉（等于scragend）
 	3. v. （非正式）粗暴对待；痛打；（英式橄榄球）搂住（对手）脖子；扼杀；杀死；谋杀 
@@ -5404,33 +5483,36 @@
 	1. gynaecocracy, gynecocracy
 		1. n. 妇女当政；女权政治
 		2. gynaecologist
-	3. gynaecology, gynecology
-		1. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
-		2. **cardiology**心病学;**pediatrics**小儿科;**oncology**肿瘤学;**neurology**神经病学;**radiology**放射学,辐射学;**surgical**外科的;**maternity**母性;**psychiatry**精神病学;**infertility**不肥沃,不毛;**hysterectomy**子宫切除;**clinic**诊所;
-		3. When that happens, your regular ob-gyn or midwife appointments will have ended, but your baby's doctor visits will have just begun /当那发生的时候，你定期的与妇产科或助产师见面将会结束，但你的儿科医生的拜访将只是一个开始。
-		4. gynecian
-	4. gynecoid
-	5. gynandrous
-	6. gyniatrics
+	3. gynaecology,  [美 /ˌɡaini'kɔlədʒi/](cmd://Speak/_us_/gynaecology)
+		1. (obstetrics and gynaecology)
+		2. gynecology
+		3. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
+		4. **cardiology**心病学;**pediatrics**小儿科;**oncology**肿瘤学;**neurology**神经病学;**radiology**放射学,辐射学;**surgical**外科的;**maternity**母性;**psychiatry**精神病学;**infertility**不肥沃,不毛;**hysterectomy**子宫切除;**clinic**诊所;
+		5. When that happens, your regular ob-gyn or midwife appointments will have ended, but your baby's doctor visits will have just begun /当那发生的时候，你定期的与妇产科或助产师见面将会结束，但你的儿科医生的拜访将只是一个开始。
+		6. gynecian
+	5. gynecoid
+	6. gynandrous
+	7. gyniatrics
 		1. _[gyniatrics](dic://gyniatrics)_ 妇科治疗学; 妇科治疗;
-	7. gynoecium
+	8. gynoecium
 		1. _[gynoecium](dic://gynoecium)_  n. 雌蕊；[植] 雌蕊群
 		2. _n._ [gametoecium](dic://gametoecium)
 		3. **ovary**子房;**apical**顶上的, 顶点的;**petals**花瓣;**petal**花瓣;**flower**花;**flowering**开花的;
-	8. misogyny
+	9. misogyny
 		1. miso-坏的，错的，不好的 + -gyny, 妇女
-	9. monogyny
+	10. monogyny [美 /məˈnɑdʒəni/](cmd://Speak/_us_/monogyny)
 		1. 1. having only one wife at a time
 		2. _n._ [monogamy](dic://monogamy), [monogamousness](dic://monogamousness)
 		3. The wolf is the monogyny, cannot a husband two wife /狼是一夫一妻制的，绝不会一夫两妻。
 		4. monogynous
 			1. a. 一妻制的
 			2. mono-单个的 + gyn-妇女 + -ous
-	10. philogyny
-		1. philogynist
-		2. philogynous
-		3. polygynous
-		4. polygyny
+	11. philogyny
+		1. - n. 对女子的爱慕；爱女人
+		2. philogynist
+		3. philogynous
+		4. polygynous
+		5. polygyny
 2. banshee
 3. quean
 4. queen
@@ -5453,15 +5535,16 @@
 			1. _n._ [attention](dic://attention), [cognitive state](dic://cognitive state), [state of mind](dic://state of mind), [assiduity](dic://assiduity), [assiduousness](dic://assiduousness), [concentration](dic://concentration)
 			2. **aforesaid**上述的;**contemplation**沉思;
 		11. engrossing
-			1. _adj._ [interesting](dic://interesting)
-			2. _n._ [uninteresting](dic://uninteresting)
-			3. **riveting**吸引人的;**captivating**迷人的;**suspenseful**悬疑的,令人紧张的;**fascinating**迷人的;**thrilling**令人兴奋的;**gripping**引人注意的;**intriguing**引起好奇心的;**entertaining**有趣的;**compelling**引人注目的;**enjoyable**愉快的,快乐的;**thought-provoking**引起思考的,发人深省的;
-			4. _[engrossing competition](dic://engrossing%20competition)_ 垄断性竞争
-			5. _[engrossing syrup](dic://engrossing%20syrup)_ 滚糖球用糖浆
-			6. _[an engrossing story](dic://an%20engrossing%20story)_ 引人入胜的故事
-			7. this movie's an engrossing watch. /这部电影引人入胜。
-			8. listened to an engrossing symphony. /听一首引人入胜的交响乐
-		12. engrossed
+			1. (engaging, winning, gripping, absorbing, engrossing, riveting)
+			2. _adj._ [interesting](dic://interesting)
+			3. _n._ [uninteresting](dic://uninteresting)
+			4. **riveting**吸引人的;**captivating**迷人的;**suspenseful**悬疑的,令人紧张的;**fascinating**迷人的;**thrilling**令人兴奋的;**gripping**引人注意的;**intriguing**引起好奇心的;**entertaining**有趣的;**compelling**引人注目的;**enjoyable**愉快的,快乐的;**thought-provoking**引起思考的,发人深省的;
+			5. _[engrossing competition](dic://engrossing%20competition)_ 垄断性竞争
+			6. _[engrossing syrup](dic://engrossing%20syrup)_ 滚糖球用糖浆
+			7. _[an engrossing story](dic://an%20engrossing%20story)_ 引人入胜的故事
+			8. this movie's an engrossing watch. /这部电影引人入胜。
+			9. listened to an engrossing symphony. /听一首引人入胜的交响乐
+		13. engrossed
 	3. gross
 		1. grosbeak
 		2. grosgram

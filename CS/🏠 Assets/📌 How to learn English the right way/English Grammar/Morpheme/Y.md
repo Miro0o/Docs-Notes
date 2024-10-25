@@ -198,17 +198,18 @@
 	17. subject
 	18. intraject
 	19. introjection
-	20. conjecture (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, )
-		1. con-强调 + ject-扔，投掷 + -ure, 表名词。
-		2. conjecture [kən'dʒektʃə] n.推测；猜想，vi.&amp;vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。比如著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 ​​​​
-		3.  [speculation](dic://speculation)
-		4.  [guess](dic://guess), [supposition](dic://supposition), [surmise](dic://surmise), [surmisal](dic://surmisal), [speculation](dic://speculation), [hypothesis](dic://hypothesis)
-		5.  [speculate](dic://speculate), [theorize](dic://theorize), [theorise](dic://theorise), [hypothesize](dic://hypothesize), [hypothesise](dic://hypothesise), [hypothecate](dic://hypothecate), [suppose](dic://suppose)
-		6. _n._ [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [opinion](dic://opinion), [view](dic://view), [reasoning](dic://reasoning), [logical thinking](dic://logical thinking)
-		7. _v._ [expect](dic://expect), [anticipate](dic://anticipate)
-		8. **speculation**思考,思索;**theorem**定理;**assertion**主张,维护;**theory**理论;**hypothesis**假说, 假设, 前提;**hearsay**传闻，谣言;**disprove**反驳，证明…是虚假的;**assumption**假定, 臆断;**unsubstantiated**无事实根据的;**hypotheses**臆断;**mathematical**数学的;
-		9. conjecture over who'll get the heave-ho /关于谁会被开除的猜测。
-		10. I cannot conjecture what his plans are. /我拿不准他的计划是什么。
+	20. conjecture 
+		1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
+		2. con-强调 + ject-扔，投掷 + -ure, 表名词。
+		3. conjecture [kən'dʒektʃə] n.推测；猜想，vi.&amp;vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。比如著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 ​​​​
+		4.  [speculation](dic://speculation)
+		5.  [guess](dic://guess), [supposition](dic://supposition), [surmise](dic://surmise), [surmisal](dic://surmisal), [speculation](dic://speculation), [hypothesis](dic://hypothesis)
+		6.  [speculate](dic://speculate), [theorize](dic://theorize), [theorise](dic://theorise), [hypothesize](dic://hypothesize), [hypothesise](dic://hypothesise), [hypothecate](dic://hypothecate), [suppose](dic://suppose)
+		7. _n._ [hypothesis](dic://hypothesis), [possibility](dic://possibility), [theory](dic://theory), [opinion](dic://opinion), [view](dic://view), [reasoning](dic://reasoning), [logical thinking](dic://logical thinking)
+		8. _v._ [expect](dic://expect), [anticipate](dic://anticipate)
+		9. **speculation**思考,思索;**theorem**定理;**assertion**主张,维护;**theory**理论;**hypothesis**假说, 假设, 前提;**hearsay**传闻，谣言;**disprove**反驳，证明…是虚假的;**assumption**假定, 臆断;**unsubstantiated**无事实根据的;**hypotheses**臆断;**mathematical**数学的;
+		10. conjecture over who'll get the heave-ho /关于谁会被开除的猜测。
+		11. I cannot conjecture what his plans are. /我拿不准他的计划是什么。
 	22. trajectory
 		1. tra-穿过 + ject-扔 + -ory, 表名词 → 扔进去 → 弹道。
 	23. adjacent

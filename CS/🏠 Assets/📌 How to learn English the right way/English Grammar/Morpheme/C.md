@@ -13,18 +13,25 @@
 	8. calculator： ['kælkjuletɚ] n. 计算器；计算者  
 	9. calcium：['kælsɪəm] n.钙  
 	10. calcify： ['kælsɪfaɪ] vi. 钙化；变成石灰质vt. 使钙化；使思想僵化
-	11. calculability
+	11. _v._ [reason](dic://reason), [evaluate](dic://evaluate), [pass judgment](dic://pass judgment), [judge](dic://judge), [predict](dic://predict), [foretell](dic://foretell), [prognosticate](dic://prognosticate)
+		1. [calculate](dic://calculate) 通常指要求细致精确和复杂的计算，以解决疑难问题，多用于自然科学、生产部门或要求专门计算的场合。  
+		2. [count](dic://count) 指逐一计算而得出总数。  
+		3. [compute](dic://compute) 一般指已有数据的，较简单但数字长的数学运算。  
+		4. [reckon](dic://reckon) 通常指较简单的数学计算，也可指心算。
+	12. **compute**计算;**subtract**减去;**determine**决定;**quantify**量化;**estimate**估计，估价;**calculator**计算器;**estimating**估算;**deduce**推论，推断;**approximate**近似的, 大约的;**predict**预报，预言;**assess**评定;
+	13. Only his voice sounded different, cunning, calculating, evil. /只不过他的声音有所不同，显得狡猾、算计、邪恶。
+	14. calculability
 		1. incalculability
-	12. calculable
+	15. calculable
 		1. incalculable
-3. calcium
+7. calcium
 	1. _n._ [metallic element](dic://metallic element), [metal](dic://metal)
 	2. **potassium**钾;**magnesium**镁;**sodium**钠;**manganese**锰;**carbonate**碳酸盐;**phosphate**磷酸盐;**phosphorus**磷;**nutrient**营养物;**boron**硼;**zinc**镀锌于…;**folate**叶酸;
-4. calculi
-5. calculous
+8. calculi
+9. calculous
 	1. _adj._ [calculus](dic://calculus), [concretion](dic://concretion)
 	2. **calculus**结石;**gallbladder**胆囊;**mathematical**数学的;**arithmetic**算术;**algebra**代数学;**renal**肾脏的，肾的;**algebraic**代数的;**urinary**尿壶;**obstructive**阻碍的;**gout**痛风;**mathematics**数学;
-6. calculus
+10. calculus
 	1. n. 微积分；（数，逻）演算（法），计算（法）；（医）（尤指肾或胆囊的）结石，石
 	2. [concretion](dic://concretion)
 	3. [tartar](dic://tartar), [tophus](dic://tophus)
@@ -35,22 +42,22 @@
 	8. But a series of increasingly unfortunate events completely changed the entire calculus of power. /但一系列越来越不幸的事件彻底改变了整个权力的划分。
 	9. " The calculus for this disease is proximity, congestion and time, " he added. /“因为根据距离、拥堵程度还有时间就能推算出某个地方的疫情会有多严重，”他又说道。
 	10. The much more productive warm-up to have done would have been the calculus of Bob's approach. /更有成效的热身 将是鲍勃方法的演算。
-7. calcarious
+11. calcarious
 	1. adj.钙质的，石灰质的（同 calcareous）
-8. calcic
+12. calcic
 	1. adj. 钙的；含钙的
 	2. _adj._ [calcium](dic://calcium), [Ca](dic://Ca), [atomic number 20](dic://atomic number 20)
 	3. **sedimentary**沉积的;**carbonate**碳酸盐;**soils**土壤;**limestone**石灰岩;**alkaline**碱性的，碱的;**crystalline**水晶的;**sediments**沉淀物;**volcanic**火山的;**acidic**酸的，酸性的;**phosphate**磷酸盐;**alkali**碱;
-9. calciferol
+13. calciferol
 	1. n. [生化]钙化醇；维生素 D2
 	2. _n._ [fat-soluble vitamin](dic://fat-soluble vitamin)
 	3. **vitamin**维生素;**calcium**钙;**folate**叶酸;**aspirin**阿司匹林;**magnesium**镁;**progesterone**孕酮,黄体酮;**dosages**剂量;**estrogen**雌性激素;**soluble**可溶的，可溶解的;**vitamins**维生素;**prednisone**强的松;
-10. calciferous
+14. calciferous
 	1. adj. 含钙的；[生物] 含碳酸钙的
-11. calcimine
+15. calcimine
 	1. n. 墙粉；粉刷用涂料 
 	2. vt. 刷墙粉于；粉刷
-12. calcine
+16. calcine
 	1. v. 锻烧，焙烧；（使）氧化 
 	2. n. 煅烧产物
 	3. _v._ [heat](dic://heat), [heat up](dic://heat up)
@@ -58,14 +65,14 @@
 	5. There was a calcined mass which she broke up with the poker. /有一团烧焦的东西， 她用拨火棍把它弄碎了。
 	6. In Colombia, a product based on this technology was commercialized a few months ago, and in the Ivory Coast, the full-scale plant is being commissioned to calcineclays. /在哥伦比亚， 一种基于该技术的产品已于几个月前实现商业化，而在科特迪瓦， 全规模工厂正投入使用以煅烧粘土。
 	7. I saw another at work to calcine ice into gunpowder; who likewise showed me a treatise he had written concerning the malleability of fire, which he intended to publish /我看到另一个人在把冰块煅烧成火药；他还给我看了一篇他写的关于火的可塑性的论文，他打算发表这篇论文。
-13. calcineurin
+17. calcineurin
 	1. 钙调磷酸酶
-14. calciosilicosis
-15. discalced
+18. calciosilicosis
+19. discalced
 	1. _adj._ (修士或修女)赤脚的; 仅穿拖鞋的
 	2. _n._ [calced](dic://calced), [shod](dic://shod)
 	3. **Franciscan**圣方济各会的;**monastic**僧侣;**nun**修女，尼姑;**convent**女修道院;**Benedictine**圣本笃修会修士;**barefoot**赤脚的;**monk**僧侣，修道士;**saint**圣徒;**Dominican**多米尼加的;**monastery**修道院;
-16. inculcate (indoctrinate)
+20. inculcate (indoctrinate)
 	1. vt. 教育；谆谆教诲；教授；反复灌输
 	2. _v._ [drill](dic://drill)
 	3. **instill**徐徐滴入;**impart**给予，传授;**cultivate**耕作, 种植;**educate**教育;**teach**教;**reinforce**增强;**nurture**养育;**perpetuate**使永存;**motivate**刺激;**develop**开发;**propagate**繁殖;
@@ -73,12 +80,13 @@
 	5. they will try to inculcate you with a respect for culture. /他们会谆谆教导你要尊重文化。
 	6. We failed to inculcate students with love of knowledge. /我们未能通过谆谆教诲使学生们热爱知识。
 	7. It also aims to inculcate values such as telling the truth or not stealing /它的目的就是灌输价值观，比如要说真话，不能偷盗。
-17. recalcitrate
-	1. vi. 不服从；顽抗；踢回去
-	2. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
-	3. _recalcitrate_  vi. 不服从；顽抗；踢回去
-	4. _contrary implacability obduracy pertinacity recalcitrate_ 执拗
-	5. recalcitrant
+21. recalcitrate
+	1. (spurn, rebuff, refuse, snub, repel, reject, recalcitrate)
+	2. vi. 不服从；顽抗；踢回去
+	3. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
+	4. _recalcitrate_  vi. 不服从；顽抗；踢回去
+	5. _contrary implacability obduracy pertinacity recalcitrate_ 执拗
+	6. recalcitrant
 		1. [fractious](dic://fractious), [refractory](dic://refractory)
 		2. _adj._ [disobedient](dic://disobedient), [defiant](dic://defiant), [noncompliant](dic://noncompliant)
 		3. _n._ [obedient](dic://obedient), [compliant](dic://compliant)
@@ -86,16 +94,16 @@
 		5. a class of recalcitrant fifteen-year-olds. /一群桀骜不驯的15岁少年。
 		6. wrung the truth out of the recalcitrant witness. /从那个顽固的目击者口中逼出事情的真像
 		7. The university suspended the most recalcitrant demonstrators. /该大学对最为桀骜不驯的学生做了暂令停学的处理。
-18. recalcitrance
+23. recalcitrance
 	1. _n._ [intractability](dic://intractability), [intractableness](dic://intractableness)
 	2. **unwillingness**不情愿;**refusal**拒绝;**impatience**急躁;**reluctance**不愿意;**insistence**坚持;**hostility**敌意;**defiance**蔑视;**inaction**不活动;**arrogance**傲慢;**incompetence**无能力;**contempt**轻视，蔑视;
 	3. Your recalcitrance obliges firmness on my part. /你不服从，迫使我这方面更坚定了。
-19. calx
+24. calx
 	1. n. 矿灰；金属灰；生石灰
 	2. [calcium oxide](dic://calcium oxide), [quicklime](dic://quicklime), [lime](dic://lime), [calcined lime](dic://calcined lime), [fluxing lime](dic://fluxing lime), [unslaked lime](dic://unslaked lime), [burnt lime](dic://burnt lime)
 	3. _n._ [oxide](dic://oxide)
 	4. **carbonate**碳酸盐;**sulphur**硫磺;**sulfur**用硫磺处理;**manganese**锰;**magnesium**镁;
-20. caulk
+25. caulk
 	1. v. 用填料（或密封剂）密封；补（船的）漏洞；填补（缝隙） 
 	2. n. 防水填料，密封剂
 	3. [caulking](dic://caulking)
@@ -111,7 +119,7 @@
 	9. an ink cartridge; a disposable cartridge of caulking compound. /油墨块；可弃式填塞物
 	10. But the caulking mallet is full of it. /我这个捻缝的木槌里可都是音乐。
 	11.  And shall I caulk the seams, sir? " moving his hand as with a caulking-iron. /“我要把缝隙都堵死吗，先生？”他挥着手，像左右摆着一把堵缝凿。
-21. causeway
+26. causeway
 	1. 来自 calc-,石子，石灰，词源同 calculate,chalk.指用石子或石灰铺的路。s
 	2. n. 堤道；铺道 
 	3. vt. 筑堤道于……
@@ -122,7 +130,7 @@
 	8. " By the causeway? Against Moat Cailin" ? /" 通过堤道？强攻卡林湾？"
 	9. It's the site of what we call a causewayed enclosure. /堤道围墙的所在地。
 	10. The narrow causeway meandered sinuously among the green rice-fields /狭窄的堤道在绿色的稻田间蜿蜒曲折。
-23. chalk
+27. chalk
 	1. vt. 用粉笔写；用白垩粉擦；记录；规划
 	2. n. 粉笔；白垩；用粉笔划的记号
 	3. adj. 用粉笔写的
@@ -144,8 +152,7 @@
 	19. a sidewalk fruit stand; sidewalk chalk artists. /街旁的一水果摊；街头粉笔画师
 	20. Will a black chalk chalk on a white blackboard? /黑色的粉笔会在白色的黑板上写字吗?
 	21. No dude, not by a long chalk. /远远不是。
-	22. 
-24. osteocalcin
+28. osteocalcin
 
 
 ### camera- 
@@ -223,7 +230,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	20. It is vitally important to cancel the order immediately. /马上取消这批订货是至关重要的。
 	21. I intend to cancel your debt to me. /我打算免去你欠我的债务。
 	22. The pros and cons cancel out. /正反两种意见抵消。
-2. chancel
+2. chancel (alter, chancel, )
 	1. n. 高坛
 	2. [sanctuary](dic://sanctuary), [bema](dic://bema)
 	3. _n._ [area](dic://area)
@@ -269,7 +276,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	9. We would draw up a demand letter and send it to the chancery. /我们商讨一个索赔函 然后发给给主教办公室。
 8. carceral
 	1. 与监狱有关的
-9. incarcerate (incarnadine, incarnate, incaution, incendiary, incensation)
+9. incarcerate (incarcerate, incarnadine, incarnate, incaution, incendiary, incensation)
 	1. vt. 下狱, 监禁, 禁闭
 	2. in-进入，使 + carcer-围，监狱 + -ate。
 	3. in-,进入，使，-carcer,围，监狱，词源同 carceral, circle.
@@ -836,14 +843,18 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		1. n. 拐杖, 支撑, 依靠  vt. 支撑
 		2. _n._ [staff](dic://staff), [expedient](dic://expedient)
 		3. **prop**支撑;**cane**手杖;**hindrance**起妨碍作用的事物或人
-	11. encroach
-		1. vi. 侵犯, 侵蚀, 蚕食
-		2.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
+	11. encroach (broach)
+		1.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
+		2. vi. 侵犯, 侵蚀, 蚕食
 		3. [infringe](dic://infringe), [impinge](dic://impinge)
 		4. [impinge](dic://impinge), [entrench](dic://entrench), [trench](dic://trench)
 		5. _v._ [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on), [trespass](dic://trespass)
 		6. **interfere**干预;**erode**腐蚀，侵蚀;**invade**侵略;**infringe**侵犯;**threaten**威胁;**curtail**截断, 缩短;**occupy**占据，占领;**impede**阻止;**displace**取代;**endanger**危及;**diminish**使减少;
 		7. encroach on/upon the territory of a neighbouring country /侵略邻国的领土
+		8. His new house encroached on his neighbour's land. /他的新住宅侵占了邻居的土地。
+		9. Pierce is not just encroaching on Kamin's business. /皮尔斯不光侵占了卡盟的生意。
+		10. Midland is home to Dow Chemical, and the flooding is already encroaching on the company's main plant site. /米德兰是陶氏化学公司的总部，洪水已经侵蚀了该公司的主要工厂。
+		11. Essentially what she's painting is this bleak picture of the encroaching disaster. /本质上，她描绘的是一幅不断蔓延的灾难的凄凉画面。
 	12. cricket
 		1. 1.蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
 2. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。

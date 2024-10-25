@@ -18,6 +18,8 @@
 
 
 ## Intro
+![](../../../../Assets/Pics/Screenshot%202024-10-22%20at%2010.52.55.png)
+
 ![web_application_arch.excalidraw | 800](../../../../Assets/Illustrations/Web%20Development/web_application_arch.excalidraw.md)
 <small>Web Architecture: frontend and backend</small>
 
