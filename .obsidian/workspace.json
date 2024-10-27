@@ -283,32 +283,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/I.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I"
-            }
-          },
-          {
-            "id": "c5d371567a56aac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS International Universities & Degrees"
+              "title": "O"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -381,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +376,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CS International Universities & Degrees"
+              "title": "Backlinks for A"
             }
           },
           {
@@ -400,12 +385,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CS International Universities & Degrees"
+              "title": "Outgoing links from A"
             }
           },
           {
@@ -427,10 +412,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CS International Universities & Degrees"
+              "title": "Outline of A"
             }
           },
           {
@@ -478,37 +463,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c5d371567a56aac5",
+  "active": "98ab87ac8fc3cba0",
   "lastOpenFiles": [
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/N.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/H.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux (Derived From UNIX Family).md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/🍸 Linux Kernel.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/⭕️ Task Management & Scheduling (Process & Threads)/Concurrency & Locking & IPC (Inter-Process Communication)/Linux IPC Basics.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/🔩 Linux Kernel/👽 Linux System Calls/Linux Virtual System Calls.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/🪁 DSL(Domain Specific Languages) & GPL(General Purpose Languages)/Markup DSL & GPL/👍 Tex & LaTex.md",
-    "CS/🏠 Assets/This is X/🇨🇳 This is China/政治课的资料和笔记/中国式现代化.md",
-    "CS/🏠 Assets/This is X/🇨🇳 This is China/This is China.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/I.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Pascal/Pascal.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Logic Programming Languages/Logic Programming Languages.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Compiled Languages/Pascal",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Injection/SQL Injection/SQL Injection.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/🫂 Human Factors in Web Security.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
-    "CS/Software Engineering/Web Development/Web Application Systems & Architecture Design/Web Application Systems & Architecture Design.md",
-    "CS/Software Engineering/Web Development/Web Development & Web Basics.md",
-    "CS/🔑 CS Core/🍕 Computer Storage & Database Systems/Database Systems/Web & DBMS/DS Web Services' Architectures.md",
     "Assets/Pics/Screenshot 2024-10-22 at 10.52.55.png",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Human-Oriented Authentication (鉴别对象为人).md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Key Based Authentication (基于密码学原理)/Key Based Authentication.md",
-    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/Identity & Access Management (IAM)/Access Control (访问控制)/Authentication (身份鉴别)/Object-Based Authetication/Human-Oriented Authentication (鉴别对象为人)/Identity Token Based Authentication (基于实物凭证)/Identity Token Based Authentication (基于实物凭证).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🍭 Web Application Security Mechanisms/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Frameworks/JWT (Json Web Token).md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🍭 Web Application Security Mechanisms/Web Access Control/Web Authentication Technologies & Frameworks/Web Authentication Technologies & Frameworks.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🍭 Web Application Security Mechanisms/Web Access Control/Web Access Control.md",
-    "CS/CyberSecurity/Application Security/💉 Web Security/🍭 Web Application Security Mechanisms/Web Access Control/Web Authorization Protocols/Web Authorization Protocols.md",
     "Assets/Pics/Screenshot 2024-10-22 at 10.37.10.png",
-    "CS/CyberSecurity/⛈️ Risk Management/🐗 Cybersecurity Threats & Attacks/Cybersecurity Threats & Attacks.md",
     "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/🫂 Human Factors in Web Security/Phishing Attacks",
     "CS/CyberSecurity/Application Security/💉 Web Security/🛟 Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP/🫂 Human Factors in Web Security",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS172 Computability and Complexity/Drawing 2024-10-18 18.36.12.excalidraw.png",

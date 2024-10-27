@@ -2,7 +2,6 @@
 
 
 
-
 ## ia
 ### -ia, 疾病
 1. etc..
@@ -27,19 +26,42 @@
 
 ### iatr- = healing, 表示“治疗，治愈”。
 1. podiatry
+	1. n. 足部医疗；脚病学
+	2.  [chiropody](dic://chiropody)
+	3. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
+	4. **orthopedic**整形手术 的;**chiropractic**脊椎推拿疗法;**dentistry**牙医业;**veterinary**动物疾病的;**neurology**神经病学;**radiology**放射学,辐射学;**medical**医学的;**clinic**诊所;**pediatrics**小儿科;**cardiology**心病学;**dental**牙齿的，牙的;
+	5. Could be a step toward better " podiatry" /它可能会让足部医学向前迈进一步。
+	6. Drugs prescribed outside of hospitals , hearing aids , glasses , dental care and podiatry are not covered at all under Medicare /不是由医院开的药的药费、助听器、眼睛、牙科和足科病，国家医疗照顾制度根本一律不予负担。
 2. psychiatry
+	1. _n._ [medicine](dic://medicine), [medical specialty](dic://medical specialty)
+	2. **neurology**神经病学;**psychiatric**精神病的;**psychotherapy**精神疗法;**psychology**心理;**psychiatrist**精神病专家, 精神病医生;**pediatrics**小儿科;**neuroscience**神经系统科学;**medicine**药;**psychologist**心理学研究者，心理学家;**pharmacology**药理学,药物学;**psych**用精神分析治疗;
+	3. _forensic psychiatry_ 司法精神病学；法医精神病学
+	4. But modern psychiatry is actively trying to avoid that /但是现代精神治疗法正在努力避免这种情况。
+	5. He is a professor of psychiatry at King's College London. /韦斯利是伦敦国王学院的精神病学教授。
+	6. The fledgling dissident movement was systematically crushed—by imprisonment, exile, coercive psychiatry or ferocious pressure on family members. /异见运动还没孵化就遭到有计划的打击——监禁、流放、强加精神病罪名亦或异见者家人承受着不堪重负的压力。
 3. bariatrics
-4. geriatric
-5. gyniatrics
-6. iatric
-7. iatrical
-8. kinesiatrics
-9. paediatric
-10. paediatrics
-11. pediatric
-12. physiatrics
-13. podiatrist
-14. geriatrist
+	1. - n. 肥胖病学；肥胖治疗学
+	2. If diabetics have bariatric surgery early on, they can be cured /如果糖尿病患者早期进行减肥手术，他们是可以被治愈的。
+	3. If people with diabetes have bariatric surgery early on, their diabetes can be cured. /如果糖尿病患者在早期进行减肥手术，他们的糖尿病是可以治愈的。
+	4. For those who have had the disease for 10 years or more, and need insulin, bariatric surgery will not cure their diabetes. /对于那些患有糖尿病10年或10年以上并需要胰岛素治疗的人来说，减肥手术并不能治愈他们的糖尿病。
+5. geriatric
+	1. _adj._ [aged](dic://aged), [elderly](dic://elderly), [geriatrics](dic://geriatrics), [gerontology](dic://gerontology)
+	2. **elderly**过了中年的;**pediatric**【美】儿科学的，小儿科的;**nursing**护理;**aging**【美】变老;**ambulatory**走动的,流动的,非固定的 回廊;**demented**发狂的，疯狂的;**dementia**痴呆;**psychiatric**精神病的;**oncology**肿瘤学;**inpatient**住院病人;**clinical**临床的;
+	3. _geriatric medicine_ 老年医学
+	4. Carrie Plummer, a geriatric specialist at Vanderbilt's nursing school, is designing the research /卡里是范德堡大学护理学院的老年专家，他设计了这项研究。
+	5. Plenty of time for you to meet another geriatric boy toy. /足够你邂逅另一个老头。
+	6.  'Because wearing pinstripes will be vital if I'm spoon-feeding a geriatric. /” “因为如果我用勺子喂老人，穿细条纹衣服是至关重要的。
+	7. If the trainees pass the final exam, they will be able to work in Germany as geriatric nurses for another 3 years. /如果通过最终考试，他们将能在德国再做三年的老年科护士。
+6. gyniatrics
+7. iatric
+8. iatrical
+9. kinesiatrics
+10. paediatric
+11. paediatrics
+12. pediatric
+13. physiatrics
+14. podiatrist
+15. geriatrist
 	1. _[geriatrist](dic://geriatrist)_  n. 老年病学者
 
 

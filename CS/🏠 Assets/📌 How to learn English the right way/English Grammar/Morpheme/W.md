@@ -4062,9 +4062,27 @@
 	1. aperient
 		1. n. 有轻泻作用的药剂  a. 有轻泻作用的
 	2. aperitif
+		1. _n._ [alcohol](dic://alcohol), [alcoholic beverage](dic://alcoholic beverage), [intoxicant](dic://intoxicant), [inebriant](dic://inebriant)
+		2. **appetizer**开胃品;**cocktail**鸡尾酒;**wine**酒，葡萄酒;**liqueur**利口酒;**tapas**餐前小吃;**sherry**雪利酒;**wines**葡萄酒;**dessert**餐后甜点;**drink**喝，饮;**champagne**香槟酒;**bistro**小酒馆;
+		3. _aperitif wine_ 开胃葡萄酒
+		4. Would you like an aperitif? /您愿意来杯开胃酒吗？
+		5. the aperitif has a faint bouquet of almonds. /开胃酒有一股淡淡的杏仁香味。
+		6. It will astonish your aperitif papillae by its muscat fragrances and the with mellifluous by its mouth. /她会以她浓郁的麝香味道和蜜汁的丰盈口感，给您的味觉一个美妙的惊喜。
+		7. 'I grieve to see, O most excellent Warren, that the ripe juice of the aperitif has glazed your sparkling eye'. /“我很伤心地看到，最优秀的沃伦，开胃酒的成熟汁液让你闪闪发光的眼睛变得光彩照人”。
 	3. aperitive
-	4. aperture
-	5. April
+		1. (laxative; cathartic; purge; bitter aloes; jollop; aperitive, aperient; physic; evacuant; purgative)
+		2. adj. 有轻泻效应的；开胃的 
+		3. n. 轻泻剂；开胃药；通便药 
+	5. aperture
+		1. aper-开口 + -ture名词后缀。
+		2. n. 孔, 缝隙, 孔径 - n. 孔，穴；（照相机，望远镜等的）光圈，孔径；缝隙
+		3. _n._ [regulator](dic://regulator), [hole](dic://hole), [opening](dic://opening)
+		4. **lens**透镜;**shutter**百叶窗;**autofocus**自动聚焦装置,自动对光装置;**viewfinder**取景器;**orifice**孔口;**diaphragm**膈,隔膜;**flange**凸缘;**cavity**洞，凹处;**annular**环形的，有环纹的;**reflector**反射镜;**waveguide**波导管;
+		5. There are no apertures for ventilation, yet the air is fresh. /那里没有调节空气的设备，空气却是清新的。
+		6. Has to be frustrating. And, Tam, widen the aperture for us from the Senate to the presidential race. /肯定令人沮丧。另外，塔玛，讲完参议院，再跟我们讲一下总统竞选吧。
+		7. Specifically, a type called synthetic aperture radar, which works day and night, and through clouds. /具体来说，就是一种合成孔径雷达，它可以夜以继日地工作，还可以穿越云层工作。
+		8. 
+	6. April
 2. **cover-** = cover
 	1. **cover**
 		1. etc..
@@ -4084,9 +4102,10 @@
 		3. kerchiefed
 3. **gar-, garn-** = furnish, supply 「Old French」guarnir, "to equip"
 	1. garniture
-		1. _[appendant appendix garniture](dic://appendant%20appendix%20garniture)_ 附属品
-		2. _[accretion garniture make weight](dic://accretion%20garniture%20make%20weight)_ 添加物
-	2. garrison
+		1. n. 附属品, 添加物, 服装
+		2. _[appendant appendix garniture](dic://appendant%20appendix%20garniture)_ 附属品
+		3. _[accretion garniture make weight](dic://accretion%20garniture%20make%20weight)_ 添加物
+	3. garrison (jettison)
 		1. n. 守备队, 驻军, 要塞  
 		2. vt. 守备, 派兵驻守
 		3. garr-供应 + ison表动词 → 供应物资的驻军。
@@ -4095,6 +4114,9 @@
 		6. _n._ [military post](dic://military post), [post](dic://post), [abolitionist](dic://abolitionist), [emancipationist](dic://emancipationist), [military personnel](dic://military personnel), [soldiery](dic://soldiery), [troops](dic://troops)
 		7. _v._ [station](dic://station), [post](dic://post), [base](dic://base), [send](dic://send), [place](dic://place)
 		8. **army**陆军，军队;**fortress**要塞;**troops**部队;**fort**堡垒;**barracks**兵营，营房;**fortifications**防御工事;**battalion**营;**regiment**把…编成团;**outpost**前哨;**citadel**城堡;**siege**围攻;
+		9. they thought the garrison a superfluity /他们认为守备部队是多余的。
+		10. Moscow says soldiers are returning to their garrisons. /莫斯科表示，士兵们正在返回驻扎地。
+		11. 
 	4. garment (garb)
 		1. n. 衣服, 衣装, 外表
 		2. gar-装饰 + -ment表名词 → 装饰的东西 → 衣服。
@@ -4125,17 +4147,18 @@
 		17. interline a garment with an inner lining /衣服里面加上内衬
 		18. Every garment in the shop has a price mark sewn on it. /店里每一件衣服都缝有价签。
 		19. undergarment, garments
-	5. garish (brash, garnish, garner, posh)
+	5. garish (brash, garnish, garner, posh, garish)
 		1. a. 穿着花哨的, 炫耀的, 过分装饰的
 		2. 可能和 garnish【装饰】有关，也就是 gar-装饰 + -ish表形容词。
-		3. tastelessly showy
+		3. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose, brandish, protuberant. salient, obtrusive, spectacular, impressive, pretentious, garish)
+		4. tastelessly showy
 			1. [brassy](dic://brassy), [cheap](dic://cheap), [flash](dic://flash), [flashy](dic://flashy), [gaudy](dic://gaudy), [gimcrack](dic://gimcrack), [loud](dic://loud), [meretricious](dic://meretricious), [tacky](dic://tacky), [tatty](dic://tatty), [tawdry](dic://tawdry), [trashy](dic://trashy)
-		4. _dj._ [tasteless](dic://tasteless)
-		5. _n._ [tasteful](dic://tasteful)
-		6. **hideous**可怕的;**flashy**闪光的;**tacky**俗气的;**ghastly**可怕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**neon**氖;**grotesque**奇形怪状的;**over-the-top**过多的;**drab**单调的;**bland**乏味的;**extravagant**奢侈的, 铺张的;
-		7. garish makeup /
-		8. garish shirts in all sorts of colours /
-		9. They must look queer in their garish frames on the walls of the peasant house /这些画镶着很讲究的金框子，挂在一家村舍的墙上是多么不伦不类呀！
+		5. _dj._ [tasteless](dic://tasteless)
+		6. _n._ [tasteful](dic://tasteful)
+		7. **hideous**可怕的;**flashy**闪光的;**tacky**俗气的;**ghastly**可怕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**neon**氖;**grotesque**奇形怪状的;**over-the-top**过多的;**drab**单调的;**bland**乏味的;**extravagant**奢侈的, 铺张的;
+		8. garish makeup /
+		9. garish shirts in all sorts of colours /
+		10. They must look queer in their garish frames on the walls of the peasant house /这些画镶着很讲究的金框子，挂在一家村舍的墙上是多么不伦不类呀！
 	6. garnish
 		1. n. 装饰, 装饰品  vt. 装饰
 		2. v. 装饰（尤指食物）；（为合法扣押属于债务人或被告的钱财）传讯（第三方） 
@@ -4232,10 +4255,13 @@
 		20. a guard against tooth decay /防止虫牙的东西
 		21. we must be on guard against such temptation. /我们应警惕这种诱惑。
 		22. Guard dog to guard the hot dogs? I don't think so. /看守热狗的看门狗吗 算了。
-	5. guaranty
+	5. guaranty (warranty)
 		7. guarantor
 		8. guarantee
-	6. garage, garageman
+			1. n. 担保, 抵押品, 保证书  vt. 保证, 担保
+			2. 
+	6. garage
+		1. garageman
 	7. garret
 		1. n. 阁楼；顶楼
 		2. [loft](dic://loft), [attic](dic://attic)
@@ -4264,7 +4290,7 @@
 		10. _[overt narrator](dic://overt%20narrator)_ 公开的叙述者
 		11. _[overt hostility](dic://overt%20hostility)_ 公开的敌意; 公众智慧的结晶; 
 		12. _[overt coherence](dic://overt%20coherence)_ 隐性连贯
-	2. overture (exordium, prologue, onset, )
+	2. overture (exordium, prologue, onset, overture, prelude)
 		1. n. 主动表示, 事件的开端, 序言, 提议, 提案, 初步交涉  vt. 提议, 为...奏前奏曲
 		2. 源自拉丁语 aperire "to open, uncover"，后借道法语进入英语，词根组成：overt-打开 + -ure名词后缀。
 		3.  [preliminary](dic://preliminary), [prelude](dic://prelude)

@@ -840,74 +840,148 @@
 ### + \*os- + = mouth
 1. **or-, ora-, orat-, os-** = mouth, 表示“嘴，说”。源自拉丁语 os "mouth, face, orifice"
 	1. oral
-		1. preoral
-		2. postoral
-		3. peroral
-		4. perioral
-		5. orally
-		6. intraoral
-		7. circumoral
-		8. adoral
-		9. aboral
-	2. orifice
-		1. **nozzle**喷嘴;**inlet**插入物;**valve**阀;**anus**肛门;**cannula**套管，插管;**cavity**洞，凹处;**nozzles**喷嘴;**annular**环形的，有环纹的;**vagina**阴道;**rectum**直肠;**aperture**孔，穴;
-		2. [opening](dic://opening), [porta](dic://porta)
-		3. orificium
-		4. orificial
-	3. orotund
-		1. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [tumid](dic://tumid), [turgid](dic://turgid)
-		2. [rotund](dic://rotund), [round](dic://round), [pear-shaped](dic://pear-shaped)
-	4. oscine
-		1. [oscine bird](dic://oscine bird)
-		2. **avian**鸟类的;**birds**鸟类;**mammals**哺乳类;
-	5. oscitant
-	6. usher, ushership, usherette
+		1. n. 口试  a. 口头的, 口述的, 口部的
+		2. 来自拉丁语 os 的所有格形式 oris,嘴，来自 PIE*os,嘴，词源同 orator,osculate.
+		3.  [oral exam](dic://oral exam), [oral examination](dic://oral examination), [viva voce](dic://viva voce), [viva](dic://viva)
+		4. [unwritten](dic://unwritten)
+		5. _n._ [examination](dic://examination), [exam](dic://exam), [test](dic://test)
+		6. _adj._ [spoken](dic://spoken), [mouth](dic://mouth), [oral cavity](dic://oral cavity), [oral fissure](dic://oral fissure), [rima oris](dic://rima oris), [buccal](dic://buccal)
+		7. _n._ [written](dic://written), [aboral](dic://aboral), [anal](dic://anal), [anal retentive](dic://anal retentive)
+		8. **verbal**口头的;**rectal**直肠的;**dental**牙齿的，牙的;**anal**肛门的;**aural**耳的;**intravenous**进入静脉的;**intercourse**交往;**vaginal**阴道的;**genital**生殖的;**nasal**鼻的;
+		9. oral hygiene /口腔卫生。
+		10. Five-centimeter-wide tumors are labeled as T3 in oral cancers, but T2 in breast cancers. /五厘米宽的肿瘤在口腔癌中被标记为 T3，而在乳腺癌中则被标记为 T2。
+		11. preoral
+		12. postoral
+		13. peroral
+		14. perioral
+		15. orally
+		16. intraoral
+		17. circumoral
+		18. adoral
+			1. - adj. 口旁的，口部附近的 n. 口部
+		19. aboral
+	3. orifice
+		1. n. (尤指身体上的) 孔口
+		2. ori-嘴 + -fic做，引申词义孔，穴，腔。
+		3. - 来自拉丁语 orificium,开口，来自 ori-,嘴，词源同 oral,-fic,做，词源同 do,fact.引申词义孔，穴，腔。
+		4. **nozzle**喷嘴;**inlet**插入物;**valve**阀;**anus**肛门;**cannula**套管，插管;**cavity**洞，凹处;**nozzles**喷嘴;**annular**环形的，有环纹的;**vagina**阴道;**rectum**直肠;**aperture**孔，穴;
+		5. [opening](dic://opening), [porta](dic://porta)
+		6. orificium
+		7. orificial
+	5. orotund
+		1. a. 朗朗的, 夸大的, 做作的
+		2. or-嘴 + rot-轮子 + und → 圆嘴（张大的嘴） → 声音响亮的。
+		3.  来自拉丁语 ore rotundo,圆嘴，来自 ore,嘴，词源同 oral,rotundo,圆的，词源同 round,rotate.引申词义嗓音洪亮的。
+		4. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [tumid](dic://tumid), [turgid](dic://turgid)
+		5. [rotund](dic://rotund), [round](dic://round), [pear-shaped](dic://pear-shaped)
+	7. oscine
+		1. a. 鸣禽类的  n. 鸣禽
+		2. [oscine bird](dic://oscine bird)
+		3. **avian**鸟类的;**birds**鸟类;**mammals**哺乳类;
+		4. The results showed that the acoustic structures of non-passerine, sub-**oscine** passerine and **oscine**passerine's songs have significant differences /结果表明，非鸣禽、亚鸣禽及鸣禽叫声的声学结构具有很大的差异性。
+	8. oscitant
+	9. usher
+		1. n. 引座员, 招待员  
+		2. vt. 引导, 招待  
+		3. vi. 作招待员
+		4. 来自 PIE*os,嘴，词源同 oral,osculate.用来指迎宾。
+		5.  [Ussher](dic://Ussher), [James Ussher](dic://James Ussher), [James Usher](dic://James Usher)
+		6.  [doorkeeper](dic://doorkeeper)
+		7.  [guide](dic://guide)
+		8.  [show](dic://show)
+		9. _n._ [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [prelate](dic://prelate), [primate](dic://primate), [official](dic://official), [functionary](dic://functionary)
+		10. _v._ [lead](dic://lead), [take](dic://take), [direct](dic://direct), [conduct](dic://conduct), [guide](dic://guide)
+		11. **herald**使者, 预报者;**bring**带来;**era**时代;**greet**欢迎，迎接;**poised**泰然自若的，镇定的;**pave**铺设;
+		12. ushering a visitor out. /陪来访者出去。
+		13. was ushered into the archbishop's august presence. /为主教威严的外表所陶醉。
+		14. a celebration to usher in the new century. /开创新世纪的庆典
+		15. with a flourish , she ushered them inside. /她以夸张手势请他们进屋。
+		16. Well, hey, just 'cause are not an usher, doesn't mean you're not gonna get into an ivy. /嘿 你当不成接待生 并不意味着你没有考进那所学校。
+		17. He told the crowd that he will usher in a peaceful and orderly transformation of Mexico. /他对人群表示，他将开启墨西哥和平有序的改革进程。
+		18. ushership
+		19. usherette
 2. **oscill-** = to swing, 表示“摇摆”。源自拉丁语 oscillum，字面含义“小嘴”。古罗马的农民习惯在葡萄园里挂一张画着酒神 Bacchus 巴克斯的面具，让它在微风中摇来晃去，祈福葡萄丰收。源自表示嘴的词根“os-”。源自拉丁语 os "mouth, face, orifice"
-	1. oscilloscope
-		1. oscilloscopy
-	2. oscillate
-		1. oscillatory
-		2. oscillator
+	1. oscillate
+		1. (oscillation, vasillation, scrupulous,  hesitate, apprehension, misgiving)
+		2. vi. 振动, 彷徨, 犹豫  vt. 使振动, 使动摇
+		3. os-嘴 + -cill小词 + -ate, 表动词，原指在葡萄园入口处挂上的酒神Bacchus的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，引申词义波动，使摇摆。
+		4.  来自拉丁语 os,嘴，词源同 oral,-cill,小词后缀。原指在葡萄园入口处挂上的酒神 Bacchus 的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，最终词义俗化，引申词义波动，使摇摆。
+		5. _v._ [hesitate](dic://hesitate), [waver](dic://waver), [waffle](dic://waffle), [swing](dic://swing), [sway](dic://sway)
+		6. **vibrate**振动;**fluctuate**波动;**rotate**旋转;**oscillator**摆动物;**radiate**传播;**converge**集中于一点;**modulate**调节;**wobble**摇晃;**alternately**轮流地, 交替地;**drift**漂流，漂移;**emit**发出，放射;
+		7. _[oscillating fan](dic://oscillating%20fan)_  摆头电扇
+		8. _[oscillating block](dic://oscillating%20block)_  [机] 摆杆
+		9. _[oscillating field](dic://oscillating%20field)_  振荡场
+		10. _[oscillating bar](dic://oscillating%20bar)_  摆杆，摇动杆；摇动筛条
+		11. _[oscillating system](dic://oscillating%20system)_  [物] 振荡系统
+		12. _[oscillating reactions](dic://oscillating%20reactions)_  振荡反应
+		13. _[oscillating damper](dic://oscillating%20damper)_  减振器
+		14. _[oscillating machinery](dic://oscillating%20machinery)_  振动机械
+		15. _[oscillating arm](dic://oscillating%20arm)_  摇臂；摆臂
+		16. Both are oscillating or wiggling in different directions /两者都在向不同的方向摆动。
+		17. A high-capacity battery, and the storage it provides, will be most useful when prices oscillate between extremes. /当价格在两极之间波动时，大容量电池及其提供的电力储存技术将最为有用。
+		18. Once again he began oscillating wildly in his attitude toward Sculley. /他对于斯卡利的态度又开始疯狂地摇摆。
+		19. Radio waves, on the other hand, oscillate at around 50 million to 1 billion times per second. /而无线电波则每秒震动约5000万至10亿次。
+		20. oscilloscope
+			1. oscilloscopy
+		21. oscillatory
+			1. _adj._ [periodic](dic://periodic), [periodical](dic://periodical)
+			2. _n._ [aperiodic](dic://aperiodic), [nonperiodic](dic://nonperiodic)
+			3. **oscillation**振动;**amplitude**广阔;**nonlinear**非线性的;**excitation**刺激;**dynamical**动力的,有力量的;**oscillator**摆动物;**stochastic**随机的;**axial**轴的;**harmonic**和声的;**cyclic**环的;**high-frequency**高周波的;
+			4. slow discharge of a condenser is fundamental to oscillatory circuits. /电容器的缓慢放电对振荡电路是很重要的。
+		22. oscillator
 			1. etc...
-		3. oscillation
-			1. (oscillation, vasillation, scrupulous,  )
+		23. oscillation
+			1. (oscillation, vasillation, scrupulous,  hesitate, apprehension, misgiving)
 			2. self-oscillation
 			3. autooscillation
-		5. oscillating, non-oscillating
+		24. oscillating, non-oscillating
 	3. osciducer
 	4. oscillector
 	5. oscillight
 	6. oscilloprobe
 	7. oscillogram
 	8. oscillograph
-		1. tonoscillograph
-		2. oscillography
-		3. oscillographic
-		4. etc..
+		1. n. [电子] 示波器；记录仪；波形图
+		2. _n._ [recorder](dic://recorder), [recording equipment](dic://recording equipment), [recording machine](dic://recording machine)
+		3. **waveform**波形;**transducer**传感器,变频器;**oscillation**振动;**amplitude**广阔;**oscillator**摆动物;**ECG**心电图;**impedance**阻抗;**recording**录音;**recorder**录音机;**excitation**刺激;**calibration**调准;
+		4. **Oscillograph** is a helpful assistant for engineers in product designing and debugging. /示波器一直是工程师设计调试产品的好帮手。
+		5. The simple digital storage **oscillograph** can make up of general **oscillograph** appended circuits. /普通示波器通过附加电路可构成简易数字存储示波器。
+		6. 
+		7. tonoscillograph
+		8. oscillography
+		9. oscillographic
+		10. etc..
 	9. etc..
-3. **oscul-** = kiss, 表示“吻”，从词源上讲 oscul-来自 or-, os- 表示“嘴”。源自拉丁语 os "mouth, face, orifice"
+11. **oscul-** = kiss, 表示“吻”，从词源上讲 oscul-来自 or-, os- 表示“嘴”。源自拉丁语 os "mouth, face, orifice"
 	1. osculant
+		1. - adj. 中间型的；接吻的
 	2. oscular
 		1. adj. 出水孔的；接吻的；嘴巴的
+		2. Mainly be apply in the industry to control the product, resolve it has no the USB to connect **oscular** of applied problem /主要应用于工业控制产品，解决其无usb接口的应用问题。
 	3. osculate (auscultate, osculate, )
-		1. vt. 接吻, 接触, 与...有共同特性  
-		2. vi. 有共通点
-		3. - v. （曲线或面）与（另一曲线或面）互成密切；亲吻
-		4. [kiss](dic://kiss), [buss](dic://buss)
-		5. **kiss**吻;**orifice**孔口;**anus**肛门;**tangent**切线的，相切的;
-		6. Throught numerous of GuangZhou Export Machindise Fair experience, can fluent **osculate** and negotiate business with foreign clients; /带着多次的广交会经验，能流利的和外商沟通，洽谈；
-		7. In this big world, we **osculate** with so many different kinds of people. Because of this everybody knows that there are lots of emotions engendered in our life /在广袤的世界，独一无二的我们有着很多共通之处，这是每个人都知道的，也正因为这样，人们在生活中产生了各种各样的情感。
-		8. osculatory
-		9. osculation
+		1. vt. 接吻, 接触, 与...有共同特性  vi. 有共通点
+		2. 来自拉丁语 os,嘴，词源同 oral,-cul,小词后缀。字面意思即小嘴，引申词义接吻。
+		3. vt. 接吻, 接触, 与...有共同特性  
+		4. vi. 有共通点
+		5. - v. （曲线或面）与（另一曲线或面）互成密切；亲吻
+		6. [kiss](dic://kiss), [buss](dic://buss)
+		7. **kiss**吻;**orifice**孔口;**anus**肛门;**tangent**切线的，相切的;
+		8. Throught numerous of GuangZhou Export Machindise Fair experience, can fluent **osculate** and negotiate business with foreign clients; /带着多次的广交会经验，能流利的和外商沟通，洽谈；
+		9. In this big world, we **osculate** with so many different kinds of people. Because of this everybody knows that there are lots of emotions engendered in our life /在广袤的世界，独一无二的我们有着很多共通之处，这是每个人都知道的，也正因为这样，人们在生活中产生了各种各样的情感。
+		10. osculatory
+		11. osculation
 			1. [contact](dic://contact), [touch](dic://touch), [touching](dic://touching)
 			2. **kiss**吻;**intercourse**交往;**kissing**接吻的;**orifice**孔口;**anus**肛门;**mating**交配，交尾;
 			3. The concept of band **osculation** is presented by analyzing surface contact types. /通过对曲面接触类型分析，提出了带状密切的概念。
-		10. inosculate
+		12. inosculate
 			1. vt. 使连接，使吻合 
 			2. vi. 融合；结合
+			3. The research of applied librarianship should be strengthened to **inosculate** theories with practices. /加强应用图书馆学研究 ，密切图书馆学理论与实践的关系 ；
+			4. Different human civilizations will conflict or **inosculate** with one another? This has become the focus concerned by the world. /人类不同的文明之间是大冲突还是大融合？这已成为世人关注的焦点。
+			5. In the process of practical analysis, it 's difficult to educe the advantages and disadvantages of two techniques and **inosculate** them /在实际分析的过程中得出两种技术的优缺点，并将两种技术融合起来，各取所长是一个难点。
 	4. osculum
 	5. interosculate
-4. Auriga
+12. Auriga
 
 
 ### -ose
@@ -979,17 +1053,30 @@
 ## ot
 ### oti- 表示“休闲”。
 1. negotiate
-	1. renegotiate, negotiator, renegotiation
-	2. negotiation
-	3. negotiable, negotiability
-	4. nonnegotiable
-	5. negotiant
+	1. neg-不，没有 + oti-轻松，轻闲 + -ate, 表动词，引申词义谈判，协商。
+	2. v. 谈判, 商定; 成功越过
+	3. - v. （尤指在商业或政治上）谈判，磋商，洽谈；商定，达成协议；顺利通过，成功越过；解决（难题）；议付，洽兑；转让（支票、汇票或票据）
+	4. negotiate - 一个人在谈判过程中，比如商人在谈判一笔大的生意时，心理状态往往有几分紧张不安，表示“谈判”的negotiate一词本身就带有此一含义。其拉丁语词源negōtium由neg 'not'和ōtium 'ease'组成，字面含义就是not at ease（紧张，不安）。
+	5. [hash out](dic://hash out), [discuss](dic://discuss), [talk over](dic://talk over), [pass](dic://pass), [go through](dic://go through), [go across](dic://go across)
+		1. [consult](dic://consult) 多指向权威或有识之士请教或咨询。  
+		2. [negotiate](dic://negotiate) 正式用词，指双方通过争论或讨论最后达成协议等；也指通过商议从而解决问题。  
+		3. [confer](dic://confer) 正式用词，强调对观点或意见的交换。
+	6. **deal**协定;**negotiator**磋商者;**mediate**调解;**compromise**妥协;**agreed**同意的;**persuade**说服，劝说;**agreement**协定, 协议, 契约;**agreeing**同意;**finalize**最后决定，敲定;**willing**乐意的;**settle**定居;
+	7. _negotiate about_ 协商；谈判
+	8. negotiate a difficult musical passage. /完成一段艰困的乐章
+	9. 
+	10. renegotiate, negotiator, renegotiation
+	11. negotiation
+	12. negotiable, negotiability
+	13. nonnegotiable
+	14. negotiant
 3. otiose
 	1. **superfluous**过多的;**meaningless**无意义的;**inane**愚蠢的;**irrelevant**不相干的,不相关的;**extraneous**外部的,外来的;**pointless**无意义的;**useless**无用的;**banal**陈腐的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**nonsensical**无意义的;**incomprehensible**费解的;
 	2. [faineant](dic://faineant), [indolent](dic://indolent), [lazy](dic://lazy), [slothful](dic://slothful), [work-shy](dic://work-shy)
 	3. [futile](dic://futile), [ineffectual](dic://ineffectual), [unavailing](dic://unavailing)
 	4. [pointless](dic://pointless), [superfluous](dic://superfluous), [wasted](dic://wasted)
 	5. [worthless](dic://worthless), [useless](dic://useless), [idle](dic://idle)
+
 
 
 ## ou
@@ -1152,8 +1239,8 @@
 131. outrigger
 
 
-
 ### ⭐ -ous,-itious,-eous,-ious,-uous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
 1. adventitious
 	1. advent【来到】 + -itious形容词后缀 → [突然]来到的 → 偶然的。
 2. etc..
+

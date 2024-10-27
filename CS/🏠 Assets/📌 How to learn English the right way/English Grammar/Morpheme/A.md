@@ -3337,8 +3337,9 @@
 		10. coordinating
 	10. subordinate
 	11. exordial
-		1. _[exordial](dic://exordial)_  adj. 绪论的；绪言的
-		2. exordium
+		1. (exordium, prologue, onset, overture, prelude)
+		2. _[exordial](dic://exordial)_  adj. 绪论的；绪言的
+		3. exordium
 			1. _n._ [introduction](dic://introduction)
 			2. **prologue**序言;**interlude**中间;**epilogue**结语，收场白;**verse**诗，诗篇;**recitation**背诵;**exposition**阐述, 讲解;**stanza**诗节;**prelude**前奏;**utterance**说话;**preface**前言;**treatise**论文;
 	13. ornery
@@ -3349,7 +3350,7 @@
 		5. _adj._ [ill-natured](dic://ill-natured)
 		6. _n._ [good-natured](dic://good-natured)
 		7. **cranky**暴躁的;**grumpy**脾气暴躁的;**feisty**活跃的;**stubborn**顽固的;**irritable**易怒的, 急躁的;**obnoxious**可憎的;**mischievous**淘气的, 顽皮的;**opinionated**固执己见的,武断的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**sassy**无礼的;
-	15. primoridial
+	14. primoridial
 8. **orn-** = embellish, 表示“装饰”。
 	1. adorn
 		1. 1 - ad-,去，往，-orn,装饰，词源同 ornament,装饰物。

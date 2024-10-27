@@ -225,6 +225,28 @@ Russ Cox
 ### Info & Res & News
 > ↗ [Cyber Threat Intelligence (CTI) & Reconnaissance](⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance.md)
 
+---
+> 🔗 https://comydream.github.io/journals-and-conferences/index.html
+
+计算机安全学术知名公众号：
+- 安全研究 GoSSIP (蜚语、上海交通大学软件安全小组，主要由李卷孺老师指导) [[官网]](https://gossip.team/)
+    - [G.O.S.S.I.P 圣诞特别篇 2023-12-25 安全研究人员的天梯排行榜](https://mp.weixin.qq.com/s/FPWnVv6zUQ7uk6C6iiyTDw)
+    - [G.O.S.S.I.P 2024 新年祝福](https://mp.weixin.qq.com/s/F2nHOZcsREihJK1TqRaI5w)
+- 网安国际 (由清华大学段海新教授、复旦大学杨珉教授、蚂蚁韦韬博士、华为万涛博士等共同发起) [官网](https://www.inforsec.org/)
+- 安全学术圈 (SecQuan ，由四川大学黄诚副教授运营) 
+	- https://www.sec-wiki.com/
+	- https://secdr.org
+	- https://blog.secdr.org
+- 漏洞战争 (林桠泉 泉哥)
+- 安全张之家 (中国科学院大学张玉清教授)
+    - [网络安全四大顶会中国大陆学者和机构发表论文数量统计](https://mp.weixin.qq.com/s/Dg8VbvACf7_s27CCZRuQGQ)
+    - [网络安全三大密码会中国大陆学者和机构发表论文数量统计](https://mp.weixin.qq.com/s/gkZHB1Zgb0xGWds9JEbr9w)
+- 隐者联盟 (AI 安全和多媒体安全，主要由复旦大学钱振兴教授运营)
+- 开放隐私计算 (OpenMPC)
+- NISL 实验室 (清华大学) [[官网]](https://netsec.ccert.edu.cn/)
+- 复旦白泽战队
+
+---
 📄 🤔 https://assume-breach.medium.com/im-not-a-pentester-and-you-might-not-want-to-be-one-either-8b5701808dfc
 I’m Not A Pentester (And You Might Not Want To Be One Either)
 
@@ -239,12 +261,6 @@ https://www.secrss.com
 ---
 Freebuf
 https://www.freebuf.com
-
----
-👍 📄 安全圈 Sec-wiki | 黄诚
-https://www.sec-wiki.com/
-https://secdr.org
-https://blog.secdr.org
 
 ---
 👨‍💻 📚 https://prose.sh

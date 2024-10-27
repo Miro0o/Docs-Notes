@@ -1181,7 +1181,7 @@
 		8. ostensory
 			1. _[ostensory](dic://ostensory)_  n. 圣礼显示台（等于monstrance）
 		9. ostentatious
-			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose)
+			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose, brandish, protuberant. salient, obtrusive, spectacular, impressive, pretentious, garish)
 			2. _adj._ [flaunty](dic://flaunty), [showy](dic://showy), [splashy](dic://splashy), [tasteless](dic://tasteless)
 			3. _n._ [unostentatious](dic://unostentatious), [unpretentious](dic://unpretentious), [unpretending](dic://unpretending), [tasteful](dic://tasteful)
 			4. **extravagant**奢侈的, 铺张的;**opulent**富裕的;**flamboyant**显眼的, 浮夸的, 炫耀的;**lavish**浪费的;**flashy**闪光的;**grandiose**宏伟的;**pretentious**自命不凡的;**over-the-top**过多的;**pompous**浮夸的;**conspicuous**显眼的;**ornate**华丽的;
@@ -1216,7 +1216,7 @@
 			3. _n._ [artificiality](dic://artificiality), [claim](dic://claim), [unnaturalness](dic://unnaturalness)
 			4. **pretentious**自命不凡的;**cynicism**犬儒主义;**arrogance**傲慢;**trappings**服饰;**absurdity**荒谬;**subtlety**微妙;**silliness**愚蠢;**grandeur**庄严;**sincerity**真实, 诚挚;**originality**独创性;**disdain**蔑视;
 		4. pretentious
-			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, obtrusive, spectacular, impressive, pretentious, )
+			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose, brandish, protuberant. salient, obtrusive, spectacular, impressive, pretentious, garish)
 	14. subtend
 		1. [delimit](dic://delimit)
 		2. **angle**角，角度;**perpendicular**垂直的;**radially**放射状地;
@@ -1264,19 +1264,19 @@
 		4. n. 时态
 		5. tensity
 		6. tensive
-	18. tensibility
+	17. tensibility
 		1. tensible
 		2. temsility
 		3. tensometer
-	19. tent
+	18. tent
 		1. tentage
 		2. tented
-	20. tentacle
+	19. tentacle
 		1. tentacular
-	21. tentative
+	20. tentative
 		1. tentatively
-	22. tenter
-	23. detente
+	21. tenter
+	22. detente
 2. **tendin-** = tendon, “腱”
 	1. etc..
 3. **teni-** = tenia, 绦虫
@@ -2793,15 +2793,16 @@
 		5. It's unclear exactly what purpose the protuberances serve. /这个突起物的作用仍不清楚。
 		6. It is my belief your great protuberance, that they are in league with Elves! /大王我相信，他们跟精灵族是一伙的！
 		7. There is nothing like a thorough drenching for reducing the protuberances of clothes, but Elfride's seemed to cling to her like a glove. /没有什么比彻底湿透更能减少衣服的突起了，但 Elfride 的衣服似乎像手套一样紧贴在她身上
-	18. protuberant (conspicuous, ostentatious, salient, protuberant)
-		1. adj. 突起的；招人注意的；显著的
-		2. [bellied](dic://bellied), [bellying](dic://bellying), [bulbous](dic://bulbous), [bulging](dic://bulging), [bulgy](dic://bulgy)
-		3. _adj._ [protrusive](dic://protrusive)
-		4. _n._ [intrusive](dic://intrusive)
-		5. **fleshy**肉的;**elongated**细长的;**bulging**打气;**bony**骨的;**concave**凹的，凹面的;**elongate**拉长;**conical**圆锥形的;**bulge**膨胀, 肿起;**cylindrical**圆柱形的;**deformed**畸形的;**slender**微薄的;
-		6. his protuberant eyes fluttered open. /他那凸出的眼睛猛然睁开。
-		7. " I think so, " replied Ollivander, his protuberant eyes upon Harry's face. " You ask deep questions, Mr. Potter. Wandlore is a complex and mysterious branch of magic." /“我想是的，”奥利凡德回答，他的凸眼睛盯着哈利的脸，“你问的问题很深奥，波特先生。魔杖学是一门复杂而神秘的魔法学科。”
-		8. A flat smile illuminated his face; his bald head shone rosily in a garland of red curls; his little protuberant stomach shook with silent chucklings as he swept in his gains. /他的脸上洋溢着淡淡的微笑。他的光头在红色卷发的花环中闪闪发光。当他扫荡他的收获时，他隆起的小肚子随着无声的咯咯笑而颤抖。
+	18. protuberant
+		1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose, brandish, protuberant. salient, obtrusive, spectacular, impressive, pretentious, garish)
+		2. adj. 突起的；招人注意的；显著的
+		3. [bellied](dic://bellied), [bellying](dic://bellying), [bulbous](dic://bulbous), [bulging](dic://bulging), [bulgy](dic://bulgy)
+		4. _adj._ [protrusive](dic://protrusive)
+		5. _n._ [intrusive](dic://intrusive)
+		6. **fleshy**肉的;**elongated**细长的;**bulging**打气;**bony**骨的;**concave**凹的，凹面的;**elongate**拉长;**conical**圆锥形的;**bulge**膨胀, 肿起;**cylindrical**圆柱形的;**deformed**畸形的;**slender**微薄的;
+		7. his protuberant eyes fluttered open. /他那凸出的眼睛猛然睁开。
+		8. " I think so, " replied Ollivander, his protuberant eyes upon Harry's face. " You ask deep questions, Mr. Potter. Wandlore is a complex and mysterious branch of magic." /“我想是的，”奥利凡德回答，他的凸眼睛盯着哈利的脸，“你问的问题很深奥，波特先生。魔杖学是一门复杂而神秘的魔法学科。”
+		9. A flat smile illuminated his face; his bald head shone rosily in a garland of red curls; his little protuberant stomach shook with silent chucklings as he swept in his gains. /他的脸上洋溢着淡淡的微笑。他的光头在红色卷发的花环中闪闪发光。当他扫荡他的收获时，他隆起的小肚子随着无声的咯咯笑而颤抖。
 4. **tum-** = to swell, 表示“肿”。源自拉丁语 tumere "to swell, be swollen, be proud;" tumulus "raised heap of earth, mound."
 	1. contumacy
 	2. contumely
