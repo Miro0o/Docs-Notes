@@ -62,9 +62,6 @@ CSRankings 根据 dblp 中收录顶会论文数量进行排名
 https://www.universities.com
 Get the latest on degrees, college, and scholarship opportunities straight to your inbox.
 
-[Awesome CS PhD application advice ](https://github.com/jedyang97/awesome-cs-phd-application-advice)
-为未来和当前的博士生收集的建议
-
 [CS Open Application (CS Masters Application)](https://opencs.app)
 > Insights
 > 我们很高兴宣布[DataPoints©](https://csmsapp.org/datapoints/)，快来尝试吧！期待大家[提交新的 DataPoints](https://csmsapp.org/datapoints_submit.md)
@@ -78,6 +75,9 @@ https://global-cs-application.github.io
 
 [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 为 CS PhD 申请者提供的建议精选列表，由互联网上的博客组成，略微偏重于 AI/ML 和 NLP 领域。
+
+[Awesome CS PhD application advice ](https://github.com/jedyang97/awesome-cs-phd-application-advice)
+为未来和当前的博士生收集的建议
 
 [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
 各校教授，排名，最佳论文，津贴信息

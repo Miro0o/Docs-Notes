@@ -24,7 +24,6 @@ IEEE Symposium on Security and Privacy (**S&P**)
 https://www.ndss-symposium.org
 Network and Distributed System Security (**NDSS**) Symposium
 
-
 ACM Conference on Computer and Communications Security (CCS)
 
 International Conference on Information Security and Cryptology (ICISC)
@@ -96,7 +95,6 @@ IH&MMSec 由原先的 [IH](https://link.springer.com/conference/ih) 和 [ACM 
 > For over a decade, two workshops have been shaping the landscape of research in multimedia security. On one hand, **Information Hiding (aka. IH)** was created in 1996 and focused on digital watermarking, steganography and steganalysis, anonymity and privacy, hard to intercept communications and covert/subliminal channels. On the other hand, **the ACM Workshop on Multimedia and Security (aka. ACM MM&Sec)** was initiated in 1998 and focused on data hiding, robust/perceptual hash, biometrics, video surveillance, and multimedia forensics. Key seminal works have been published in these two workshops and papers accepted for publication there attracted over 9,000 citations in total. Year after year, the two communities grew closer and the overlap between their respective scope got bigger. As a result, after 14 successful editions each, IH and ACM MMSec decided to merge in a single event in an attempt to establish synergies between the two communities while building on the reputation obtained over the years. 
 > https://dl.acm.org/doi/proceedings/10.1145/2482513
 
-
 计算机安全学术知名公众号：
 - 安全研究 GoSSIP (蜚语、上海交通大学软件安全小组，主要由李卷孺老师指导) [[官网]](https://gossip.team/)
     - [G.O.S.S.I.P 圣诞特别篇 2023-12-25 安全研究人员的天梯排行榜](https://mp.weixin.qq.com/s/FPWnVv6zUQ7uk6C6iiyTDw)
@@ -116,3 +114,5 @@ IH&MMSec 由原先的 [IH](https://link.springer.com/conference/ih) 和 [ACM 
 
 ## Ref
 [安全四大顶会论文查询 | CSDN]: https://blog.csdn.net/qq_38329811/article/details/121859997?fromshare=blogdetail&sharetype=blogdetail&sharerId=121859997&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
+
+[Computer Security Conference Ranking and Statistic (2009-11-11)]: http://www.blogjava.net/xingxiao/articles/302025.html

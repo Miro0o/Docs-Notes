@@ -795,6 +795,16 @@
 10. kerf
 
 
+### gere-
+#### gere- (1)
+1. **ger-,gero-,geronto-**   = old, 表示“老”。源自希腊语 geras "old age," geron "old man."
+	1. gerontology
+	2. ageration
+	3. geriatric
+	4. geriatrist
+	5. gerontocracy
+
+
 ### + \*gerere + = to carry on, wage, perform
 1. **ger** = to bear, carry, 「Latin」gerere "to carry on, wage, perform"
 	1. belligerence, belligerent
@@ -816,30 +826,166 @@
 	8. congery
 2. **gest-, gister-** = carry, bring, 「Latin」gerere "to carry on, wage, perform"
 	1. congest
-		1. congestive, congestion
-		2. congestin
-		3. congested, 
-		4. decongestant
-	2. digest
-	3. egest
-		2. **assemblage**聚集;**ingest**咽下;**likewise**也;**nigh**近于;**indubitably**无疑地;**necessitate**使…成为必要, 需要;**moreover**此外;**ordinarily**平常地,普普通通地;
-		3. [excrete](dic://excrete), [eliminate](dic://eliminate), [pass](dic://pass)
-	4. ingest
-		1. **ingestion**摄取;**consume**消耗，消费;**inhale**吸入;**swallow**燕子;**eat**吃，喝;**digest**消化;**consuming**消费的;**devour**毁灭;**toxins**毒素，毒质;**chew**咀嚼;**assimilate**吸收, 消化;
-		2. [absorb](dic://absorb), [assimilate](dic://assimilate), [take in](dic://take in)
-		3. ingestive
-		4. ingestion
-		5. ingestible
-		6. ingesta
-		7. hyperingestion
-	5. gesture, gesticulate
-		1. **gestures**手势，姿态;**yell**大叫，叫喊;**waving**挥手;**clapping**掌声;**clap**鼓掌，拍手;**loudly**大声地，响亮地;**speak**说话;**converse**相反的，逆向的;**animate**使有生气;**gesture**姿态;**shout**呼喊;
-	6. suggest
-		1. suggestive
+		1. vt. 使充满, 使拥塞, 使充血  vi. 充塞, 充血, 拥挤
+		2. con-一起 + gest-带来 → 带到一起 → 拥塞。
+		3.  [clog](dic://clog), [choke off](dic://choke off), [clog up](dic://clog up), [back up](dic://back up), [choke](dic://choke), [foul](dic://foul)
+		4. _v._ [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
+		5. _v._ [obstruct](dic://obstruct), [obturate](dic://obturate), [impede](dic://impede), [occlude](dic://occlude), [jam](dic://jam), [block](dic://block), [close up](dic://close up)
+		6. the road was congested with refugees /公路上挤满了难民。
+		7. His throat congested with phlegm. /他的喉咙被痰塞住了。
+		8. the congested roads of south-east England. /英格兰东南部拥塞的公路。
+		9. If you are admired by your success, my benison is warmly and hortative contemplation traversing congested crowd. /假若你成功受景仰，那么我的祝福就是穿越拥挤的人群给你温暖鼓历的注视；
+		10. When a highway is congested, they might take local roads instead /当高速公路拥挤时，他们可能会选择当地的城市道路。
+		11. Traffic at the busy intersection in front of the Sarinah, the city’s oldest department store, is again congested as usual /该市最古老百货大楼萨丽娜门前繁忙的十字路口车来人往热闹依旧。
+		12. congestive
+			1. a. 充血的, 引起拥塞的
+			2. congest【拥挤】 + -ive, 表形容词，是单词congest 派生的形容词。
+			3. _adj._ [congestion](dic://congestion)
+			4. **cardiac**心脏的;**renal**肾脏的，肾的;**pneumonia**肺炎;**pulmonary**肺的,肺部的;**hypertension**过度紧张;**kidney**腰子;**angina**心绞痛;**respiratory**呼吸的;**heart**心脏;**pancreatic**胰腺的;**coronary**冠状的;
+			5. _congestive heart failure_ 充血性心力衰竭，郁血性心脏衰竭
+			6. Denny, your congestive heart failure is getting worse despite the meds /Denny，尽管使用药物治疗，你的充血性心力衰竭还是在恶化。
+			7. These are more common in conditions like congestive heart failure and bacterial pneumonia. /这些在充血性心力衰竭与细菌性肺炎等情况中更常见。
+			8. Nasal irrigation can flush out the sinuses, reducing the congestive symptoms of allergic rhinitis. /鼻腔冲洗可以通过排出鼻窦分泌物来减轻过敏性鼻炎的充血症状。
+			9. I had sudden onset of very close to fatal congestive heart failure /我突然发作非常接近致命的充血性心力衰竭。
+			10. If the hyperthyroidism has been ongoing for a long time, there is a risk of developing congestive heart failure and osteoporosis. /如果甲亢已持续了很长时间，也有发生充血性心力衰竭和骨质疏松的风险。
+		13. congestion
+		14. congestin
+		15. congested, 
+		16. decongestant
+	3. digest
+		1. di-=dis-分开 + gest-带来 → 分解，消化。
+		2. v. 理解，领悟；消化 n. 文摘，摘要；分解物，提炼物
+		3. digest（文摘）：东罗马帝国的《法学汇编》  
+		4. 公元6世纪东罗马帝国皇帝查士丁尼(Justinian )下令将罗马法学家学说的摘要汇编出版，全书共50卷，英语称该书为Pandects，又名Digest。digest一词源自拉丁语digests，表示“a collection of writing”(文集)，最初仅用来表示该书，以后逐渐由专有名词转变为普通名词，泛指“摘要”、“文摘”或“汇编”。digest还有“消化”的意思，这个含义的词源可以追溯到拉丁语动词digerere，表示“todissolve，separate”(分解，分离)。因此，digest还可以作动词用，表示“消化”。  
+		5. digest： [daɪ'dʒɛst] n.文摘，摘要v.消化，吸收  
+		6. digestion：[daɪdʒɛstʃən] n. 消化；领悟  
+		7. digestive：[daɪ'dʒɛstɪv] adj. 消化的；助消化的n. 助消化药  
+		8. indigestion：[,ɪndɪ'dʒɛstʃən] n. 消化不良；不消化
+		9. [compilation](dic://compilation)
+		10. [endure](dic://endure), [stick out](dic://stick out), [stomach](dic://stomach), [bear](dic://bear), [stand](dic://stand), [tolerate](dic://tolerate), [support](dic://support), [brook](dic://brook), [abide](dic://abide), [suffer](dic://suffer), [put up](dic://put up)
+		11. [condense](dic://condense), [concentrate](dic://concentrate)
+		12. _n._ [periodical](dic://periodical), [collection](dic://collection), [compendium](dic://compendium)
+		13. _v._ [process](dic://process), [treat](dic://treat), [grok](dic://grok), [get the picture](dic://get the picture), [comprehend](dic://comprehend), [savvy](dic://savvy), [dig](dic://dig)
+			1. [absorb](dic://absorb) 普通用词，词义广泛，既可指吸收光、热、液体等具体东西，又可指吸收知识等抽象概念的东西。  
+			2. [suck](dic://suck) 作“吸收”解时，可与absorb换用，但还可有“吮吸”之意。  
+			3. [digest](dic://digest) 侧重在消化道内改变食物的化学结构后被人体吸收。  
+			4. [incorporate](dic://incorporate) 指一物或多物与它物相融合，形成一整体。
+		14. **absorb**吸收;**digestion**消化;**ingest**咽下;**assimilate**吸收, 消化;**parse**从语法上分析;**swallow**燕子;**consume**消耗，消费;**dissect**切细;**chew**咀嚼;**synthesize**合成;
+		15. a digest of their findings. /他们的发现成果的汇编。
+		16. digest everything in the book /领会了书中的一切
+		17. Cheese doesn't digest easily. /乳酪不易消化。
+		18. I just cannot digest eggs. /我吃鸡蛋就不能消化。
+		19. It often takes a long time to digest new ideas /吸收新思想往往需要很长一段时间。
+		20. They could eat plants that other animals might struggle to digest. /它们可以吃掉其他动物难以消化的植物。
+		21. undigested
+		22. predigest
+			1. _v._ [digest](dic://digest)
+			2. **digest**消化;**digestion**消化;**ingest**咽下;**digestive**消化的;**enzymes**酶类，酵素;**bacteria**细菌;**mush**软而稠的混合物或块;**microbes**细菌，微生物;
+		23. indigested
+		24. digestor
+		25. digestive
+			1. adj. 消化的，与消化有关的 
+			2. n. 助消化的食物（或药物）；<英>（全麦）消化饼干
+			3. _n._ [substance](dic://substance), [matter](dic://matter)
+			4. _adj._ [digestion](dic://digestion)
+			5. **digestion**消化;**gastrointestinal**胃与肠的;**intestinal**肠的;**bowel**肠;**intestine**肠;**circulatory**循环的;**stomach**胃;**constipation**便秘;**gastric**胃的;**endocrine**内分泌的, 激素的;**metabolic**新陈代谢的;
+			6. _digestive system_ 消化系统
+			7. _digestive tract_ 消化道
+			8. _digestive enzyme_ 消化酶
+			9. _digestive juice_ 消化液
+			10. and if your digestive system remains untired and young and fresh, of course you can live longer. /如果你的消化系统保持不疲劳、年轻的和新鲜的，当然你能更加长寿。
+			11. Sugariness is in digestive process, if the word because of without complete combustion corruption, will become lactic acid /糖质在消化的过程中，如果因为没有完全燃烧而腐败的话，将会变成乳酸。
+			12. This digestive ability of goats may have practical applications. /山羊的这种消化能力可能会有实际用途。
+			13. Yes, we have the chocolate digestive, the garibaldi, the custard cream and the jammie dodger. /是的，我们有消化饼干，葡萄干饼干，奶油糖霜饼干和黄油酥饼夹果酱。
+			15. postdigestive
+			16. indigestive
+			17. bilidigestive
+			18. antidigestive
+		27. digestion
+			1. predigestion
+			2. maldigestion
+			3. indigestion
+			4. autodigestion
+		28. digesting
+		29. digestible
+			1. _adj._ [assimilable](dic://assimilable), [digested](dic://digested), [light](dic://light), [predigested](dic://predigested)
+			2. _n._ [indigestible](dic://indigestible)
+			3. **palatable**可口的,美味的;**digest**消化;**concise**简明的，简洁的;**succinct**简洁的;**nutritious**有营养的, 滋养的;**manageable**易处理的;**readable**易读的;**condensed**浓缩;**relatable**有关系的，可关联的;**chunks**大块，矮胖的人或物;**accessible**可得到的;
+			4. her books convey philosophical issues in digestible form /她的作品以容易理解的方式讲述哲学问题。
+			5. Instead, divide your dreams into smaller, digestible chunks. /相反，是把你的梦想分成更小的、可消化的大块。
+			6. Their teeth and jaws had to work hard to make the food they ate digestible. /他们的牙齿和下颚要很费力让他们的所吃的食物能被消化。
+			7. The protein is very digestible by the human body. /这种蛋白质很容易被人体消化。
+			9. indigestible
+			10. digestibility
+		31. digester
+			1. n. （化）蒸煮器，煮解器；做摘要者，汇编者
+			2. _n._ [autoclave](dic://autoclave), [sterilizer](dic://sterilizer), [steriliser](dic://steriliser)
+			3. **composting**堆制肥料;**wastewater**废水;**effluent**流出物;**anaerobic**厌氧菌的;**compost**堆肥;**methane**甲烷;**slurry**泥浆;**biomass**生物量;**fermentation**发酵;**sludge**烂泥;**manure**施肥于;
+			4. Biogas include marsh gas, landfill gas, **digester** gas. They distinguish by the producing location /生物气包括沼气、堆填气体、胃肠气，由产生的地点来区分类别。
+			5. 
+		32. digestant
+			1. digestats
+	10. egest
+		1. vt. 排泄；排出（汗、粪便等）
+		2. [excrete](dic://excrete), [eliminate](dic://eliminate), [pass](dic://pass)
+		3. **assemblage**聚集;**ingest**咽下;**likewise**也;**nigh**近于;**indubitably**无疑地;**necessitate**使…成为必要, 需要;**moreover**此外;**ordinarily**平常地,普普通通地;
+		4. A greater conflict side-to-side can egest the container evidence towards the broadside with the littlest roller. /有时，可以控制移动工作，如果作弊连铸机车轮举行枯竭。方向推进的路线是由树梢加入到乐观的辊道有时领薪先进的辊。
+		5. 
+	11. ingest
+		1. vt. 摄取；咽下；吸收；接待
+		2. [consume](dic://consume), [take in](dic://take in), [take](dic://take), [have](dic://have)
+		3. [absorb](dic://absorb), [assimilate](dic://assimilate), [take in](dic://take in)
+		4. **ingestion**摄取;**consume**消耗，消费;**inhale**吸入;**swallow**燕子;**eat**吃，喝;**digest**消化;**consuming**消费的;**devour**毁灭;**toxins**毒素，毒质;**chew**咀嚼;**assimilate**吸收, 消化;
+		5. to ingest by phagocytosis /通过吞噬作用吞食
+		6. Good. It can be extremely dangerous if it's ingested. /好的。如果不小心食用的话，它真的超级危险。
+		7. The towns people ingesting vervain? Well, that's inconvenient. /镇上有人开始服用马鞭草了？这可不太妙。
+		8. First, it was understood that if there are some microbes missing, they can be ingested. /首先，人们发现如果有些微生物缺失了，它们可以被摄入。
+		10. ingestive
+		11. ingestion
+		12. ingestible
+		13. ingesta
+		14. hyperingestion
+	13. gesture
+		1. [motion](dic://motion)
+		2. [gesticulate](dic://gesticulate), [motion](dic://motion)
+		3. _n._ [motion](dic://motion), [movement](dic://movement), [move](dic://move), [motility](dic://motility), [visual communication](dic://visual communication), [indication](dic://indication), [indicant](dic://indicant)
+		4. _v._ [communicate](dic://communicate), [intercommunicate](dic://intercommunicate)
+		5. **symbolic**使用符号的;**handshake**握手;**acknowledgment**承认;**token**代币;**acknowledgement**答谢的表示;**greeting**问候，招呼;**goodwill**好意;**kindness**仁慈;**gratitude**感激, 感谢;**swipe**猛击;**salute**敬礼;
+		6. _gesture recognition_ 手势识别
+		7. _make a gesture_ 做手势，表示；做一个手势
+		8. an emphatic gesture of disapproval; /一个表式不赞成的强调手势；
+		9. an expressive gesture; /意图明确的手势；
+		10. Alex made a gesture of apology. /亚历克斯做了个道歉的手势。
+		11. a token gesture of reconciliation; token resistance. /象征性和解姿态；象征性的抵抗
+		12. gesticulate
+			1. vi. 用姿势示意；（讲话时）做手势 vt. 用手势谈话；做姿势表达
+			2. _v._ [communicate](dic://communicate), [intercommunicate](dic://intercommunicate)
+			3. **gestures**手势，姿态;**yell**大叫，叫喊;**waving**挥手;**clapping**掌声;**clap**鼓掌，拍手;**loudly**大声地，响亮地;**speak**说话;**converse**相反的，逆向的;**animate**使有生气;**gesture**姿态;**shout**呼喊;
+			4. he gesticulated comically and did a little dance /他做出滑稽的姿势，跳了一小段舞。
+			5. The officer gesticulated towards the refugees. /那官员朝难民做着手势。
+			6. They tower over the seated audience, gesticulating wildly. /他们高高站在坐着的观众面前，疯狂地打着手势。
+			7. Like maybe, just maybe, I'm building to some sort of satisfying conclusion, I mean, I'm gesticulating as though I am /彷佛也许，也许，我正要下个令人满意的结论，我是说，我的手势看起来像要下结论。
+			8. Hindawi came across as an affable kind of man, often smiling and gesticulating as he gave his account. /辛达维面容友善，在提供陈词时也是经常微笑，还有动作示意。
+	14. suggest
+		1. vt. 提议, 建议, 促成, 暗示, 启发, 使人想起
+		2. sug-=sub- 在下面 + gest-带来 → 字面含义带到下面 → 不明说，暗示。
+		3.  [propose](dic://propose), [advise](dic://advise)
+		4. [intimate](dic://intimate)
+		5. [hint](dic://hint)
+		6.  [indicate](dic://indicate)
+		7.  [evoke](dic://evoke), [paint a picture](dic://paint a picture)
+		8. _v._ [declare](dic://declare), [imply](dic://imply), [convey](dic://convey), [impart](dic://impart), [inform](dic://inform), [express](dic://express), [show](dic://show)
+			1. [hint](dic://hint) 指通过时间接而有提示性的话语或表情来暗示某事。  
+			2. [imply](dic://imply) 侧重指话语、行为或情景中的一种暗示，听者或读者必须加以逻辑推断才能领会。  
+			3. [suggest](dic://suggest) 指有意或无意的，直接或间接暗示，强调事物的表征等使人引起联想。
+		9. **indicate**指出;**consider**认为;**advise**劝告，忠告;**suggestion**建议;**recommend**推荐;**conclude**推断出;**might**可能;**propose**建议;**presume**假定;**think**想;**argue**争论，辩论;
+		10.  What does the woman suggest they do? /这位女士建议他们怎么做？
+		11. There's more to him than appearances suggest /这个霍比特人不可貌相。
+		12. suggestive
 			1. **provocative**刺激的;**evocative**引起…记忆的, 唤起…感情的;**ambiguous**模棱两可的;**explicit**清楚的;**hinting**微调;**vulgar**粗俗的;**inappropriate**不恰当的, 不适宜的;**overtly**明显地;**disturbing**烦扰的;**indicative**指示的;**tantalizing**逗人的，惹弄人的，撩人的，煽情的;
 			2. [denotative](dic://denotative), [denotive](dic://denotive), [concealing](dic://concealing)
 			3. [connotative](dic://connotative), [revealing](dic://revealing)
-		2. suggestion
+		13. suggestion
 			1. suggestionize
 			2. suggestionist
 			3. self-suggestion
@@ -848,19 +994,92 @@
 			6. ectosuggestion
 			7. countersuggestion
 			8. autosuggestion, autosuggestibility
-		3. suggestible
-		4. suggestibility
-	7. gestate
-		1. gestation, pseudogestation
-			1. gestational
-			2. progestational
-			3. pregestational
-			4. **gestation**怀孕;**pregnancy**怀孕;**preterm**早产，早产儿;**fetal**胎的，胎儿的;**fetus**胎儿，胎;**prenatal**［医］产前的;**trimester**三个月,学期;**neonatal**新生的;**postpartum**产后的;**placenta**胎盘;**uterine**子宫的;
-		2. progestin, progesterone, progestine
-		3. gestoral
-	8. register
-	9. gest
-	10. jest, jester, jesting, jestbook
+		14. suggestible
+		15. suggestibility
+	19. gestate
+		1. vt. 孕育
+		2. vt. 使怀孕 vi. 孕育，创案
+		3. gest-含有，带来 + -ate, 表动词。
+		4. 来自 gest-,含有，带来，词源同 exaggerate,gesture.引申词义孕育。
+		5. [conceive](dic://conceive), [conceptualize](dic://conceptualize), [conceptualise](dic://conceptualise)
+		6. [have a bun in the oven](dic://have a bun in the oven), [bear](dic://bear), [carry](dic://carry), [expect](dic://expect)
+		7. _v._ [create by mental act](dic://create by mental act), [create mentally](dic://create mentally), [give birth](dic://give birth), [deliver](dic://deliver), [bear](dic://bear), [birth](dic://birth), [have](dic://have)
+		8. **conceive**构思;**womb**子宫;**fetus**胎儿，胎;**embryo**胚胎;**offspring**子女, 子孙, 后代;**uterus**子宫;**conception**概念;
+		9. Now gestating within two hosts, the pathogen has twice the odds of mutating into a more successful virus /现在病原体可在两个宿主中孕育，其变异为成功病毒的概率提高两倍。
+		10. A technology like this, if it's developed to the point where we can gestate a baby for the full length of term outside the human body, then viability begins at conception. /像这样的技术，如果它发展到我们可以在体外孕育一个完整的婴儿，那么生存能力就从受孕开始。
+		11. Well, bigger mammal species give birth to bigger young, which requires a huge amount of time and energy to gestate. /好吧， 更大的哺乳动物物种会生出更大的后代，这需要大量的时间和精力来孕育。
+		12. gestation
+			1. n. 妊娠, 妊娠期, 孕育, 酝酿
+			2. _n._ [biological time](dic://biological time), [physiological state](dic://physiological state), [physiological condition](dic://physiological condition), [construction](dic://construction), [mental synthesis](dic://mental synthesis)
+			3. **gestational**妊娠期的;**pregnancy**怀孕;**fetus**胎儿，胎;**trimester**三个月,学期;**womb**子宫;**preterm**早产，早产儿;**neonatal**新生的;**embryo**胚胎;**fetal**胎的，胎儿的;**postpartum**产后的;**weaning**断奶;
+			4. _gestation period_ 妊娠期；怀孕期；怀孕期间
+			5. born after a gestation period of less than the normal time /在短于正常时间的妊娠期后出生的
+			6. This film was two years in gestation. /这部电影酝酿了两年。
+			7. If the gestation period does not pay attention to the nutrition, easy to cause the denutrition, to will be pregnant mother and the embryo will have the adverse effect. /孕期如果不注意营养，容易引起营养缺乏，对孕妈妈及胎儿将产生不良影响。
+			8. I also found out that their gestation period takes anywhere from three to five months. /我还发现它们的妊娠期大约需要三到五个月。
+			9. But here, a mountain is in gestation. /但这里却在酝酿一座高山。
+			10. pseudogestation
+				1. 【医】 假妊娠
+			11. gestational
+				1. 【医】 妊娠的, 受[孕]的
+			12. progestational
+			13. pregestational
+		13. progestin, progesterone, progestine
+		14. gestoral
+	20. register
+		1. n. 登记表, 注册簿; 寄存器; 声区, 音区  
+		2. v. 登记, 注册; 发表意见; 显示（读数）; 流露出; 注意到；记住, 受到注意; 把…挂号邮寄
+		3. re-回 + gist-携带 + -er后缀 → 带回 → 注册/登记之目的就是备案，以便未来带回此时的信息。
+		4.  来自拉丁语 regerere,登记，记录，-st,过去分词格，来自 re-,向后，往回，-ger,携带，承载，词源同 gesture,belligerent.
+		5. unregistered
+		6. self-registering
+		7. registry
+		8. registration
+		9. registrar
+		10. registrant
+		11. registrable
+		12. registor
+		13. registered
+		14. preregister
+		15. nonregistered
+		16. multiregister
+		17. enregister
+		18. deregister
+	21. gest
+		1. - n. 故事诗；故事；武功；诗体小说
+	22. jest
+		1. n. 笑柄, 笑话  
+		2. vi. 讲笑话, 嘲笑, 开玩笑  
+		3. vt. 嘲笑
+		4. 来自拉丁语 gesta,事迹，英雄故事，来自 gerere,带来，词源同 belligerent,digest.原指讲述英雄故事，通常带有夸张色彩，最后引申词义开玩笑，打趣，逗笑。
+		5. jest-=gest-带来。表示讲述英雄故事，后词义通过闲聊过渡到开玩笑，嘲笑等
+		6.  [joke](dic://joke), [gag](dic://gag), [laugh](dic://laugh), [jape](dic://jape)
+		7. [joke](dic://joke), [jocularity](dic://jocularity)
+		8. [joke](dic://joke)
+		9. _n._ [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [diversion](dic://diversion), [recreation](dic://recreation)
+		10. _v._ [communicate](dic://communicate), [intercommunicate](dic://intercommunicate), [act](dic://act), [behave](dic://behave), [do](dic://do)
+		11. **joking**戏谑的;**joke**玩笑，笑话;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**remark**评论;**sarcastic**讽刺的;**mockery**嘲弄;**chuckle**咯咯的笑，轻声地笑;**jokingly**开玩笑地;**sarcasm**讽刺;**mocking**嘲弄的;**laugh**笑;
+		12. _in jest_ adv. 开玩笑地；诙谐地
+		13. _jest with_ vt. 开某人玩笑
+		14. lowly virtue is the jest of fools. /谦卑是傻瓜的笑柄。
+		15. They made a jest of his ignorance. /他们笑话他无知。
+		16. Please don't jest with me. /请不要和我开玩笑。
+		17. All jests aside, we're in big trouble. A witticism is a witty, usually cleverly phrased remark: /玩笑归玩笑，我们遇到了大麻烦。 witticism 指一句风趣的，通常措辞巧妙的语句：
+		18. It was a jest, but Sansa took it for criticism. " I am sorry, my lord" . /这只是个玩笑，珊莎却将其视为责备。" 对不起，大人。"
+		19. jester
+		20. jesting
+			1. adj. 爱开玩笑的，幽默的 
+			2. v. 开玩笑，打趣（jest 的现在分词）
+			3. [jocose](dic://jocose), [jocular](dic://jocular), [joking](dic://joking)
+			4. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+			5. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+			6. **joking**戏谑的;**mocking**嘲弄的;**sarcastic**讽刺的;**laughing**可笑的;**light-hearted**轻松的;**banter**戏谑;**joke**玩笑，笑话;**sarcasm**讽刺;**silliness**愚蠢;**remark**评论;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;
+			7. _in jest_ adv. 开玩笑地；诙谐地
+			8. _jest with_ vt. 开某人玩笑
+			9. And the courtiers were amazed, and some of them laughed, for they thought that he was jesting. /群臣都感到很惊讶，有些人甚至笑了，因为他们认为国王是在开玩笑。
+			10. " How do you do, Agrippina Petrovna? What's the news" ? asked Nekhludoff, jesting. /“你好，阿格里皮娜·彼得罗芙娜？有什么消息吗？ ”聂赫留朵夫开玩笑地问。
+			11. Mrs. Montgomery stared; she evidently thought he was jesting; but she presently saw that he was not, and the complication of her feelings became painful. /蒙哥马利夫人瞪大了眼睛； 她显然以为他是在开玩笑。 但她很快就发现他不是， 她复杂的感情变得痛苦起来。
+		22. jestbook
 
 
 ### + \*geu- + = to bend, curve
@@ -871,15 +1090,26 @@
 		3. **helicopter**直升机;**airship**飞艇;**aircraft**飞机，航空器;**airplane**飞机;**glider**滑翔机;**aviator**飞行员;**airliner**班机;**UAV**无人机;
 	2. gyre
 	3. gyro
-	4. gyrocompass
-	5. gryograph
-	6. gyroidal
-	7. gyropilot
-	8. gyroplane
-	9. gyroscope
-	10. gyrostabilizer
-	11. gyral
-	12. gyrate
+		1. n. 陀螺仪；[航] 回转仪（等于gyroscope）；回转式罗盘（等于gyrocompass）；自动旋翼飞机（等于autogyro）；希腊旋转烤肉卷饼（又名皮塔三明治）
+		2. [gyroscope](dic://gyroscope)
+		3. _n._ [sandwich](dic://sandwich), [rotating mechanism](dic://rotating mechanism)
+		4. **servo**伺服;**joystick**操纵杆，控制杆;**rudder**飞机方向舵;**inertial**惯性的;**burger**汉堡包;**antenna**天线;**pita**圆面饼;**sensor**传感器;**actuator**执行机构;**hamburger**汉堡包;**burgers**汉堡包;
+		5. _ring laser gyro_ 环状激光陀螺
+		6. So the gyro joins our four other sensors in every phone. /陀螺仪，现在加入了其他四个传感器当中。
+		7. Remember, no gyros from the food court. /记住 不许在美食街买烤肉包吃。
+		8. I think she's doing Greek food... like gyros. /我想她打算用希腊菜 像是希腊卷饼。
+		9. 
+	5. gyrocompass
+	6. gryograph
+	7. gyroidal
+	8. gyropilot
+	9. gyroplane
+	10. gyroscope
+	11. gyrostabilizer
+	12. gyral
+		1. _adj._ [gyrus](dic://gyrus), [convolution](dic://convolution)
+		2. **cortical**皮质的;**cortex**皮质;**cranial**头盖的;**anterior**前面的;**frontal**正面的，前面的;**apical**顶上的, 顶点的;**dorsal**背的，背侧的;**ventral**腹部的;**lobe**耳垂;**lesion**损害;**lobes**耳垂;
+	13. gyrate
 		1. [spiral](dic://spiral), [coil](dic://coil)
 		2. [spin](dic://spin), [spin around](dic://spin around), [whirl](dic://whirl), [reel](dic://reel)
 		3. **dance**舞蹈;**wobble**摇晃;**dancing**舞蹈;**swaying**使摇动;**sideways**向侧面地;**rotate**旋转;**clap**鼓掌，拍手;**tumbling**翻筋斗;**dancers**舞蹈家;
@@ -891,20 +1121,20 @@
 		9. gyration
 		10. dextrogyrate
 		11. circumgyrate
-	13. gyrus
-	14. spirogyra
-	15. gyrase
-	16. gyrohorizon
-	17. gyrolevel
-	18. gyroma
-	19. gyropter
-	20. gyrorotor
-	21. gyroscopics
-	22. gyrosphere
-	23. gyroscope
+	14. gyrus
+	15. spirogyra
+	16. gyrase
+	17. gyrohorizon
+	18. gyrolevel
+	19. gyroma
+	20. gyropter
+	21. gyrorotor
+	22. gyroscopics
+	23. gyrosphere
+	24. gyroscope
 		1.  [gyro](dic://gyro)
 		2. **inertial**惯性的;**joystick**操纵杆，控制杆;**compass**指南针，罗盘;**laser**激光;
-	24. etc..
+	25. etc..
 
 
 
@@ -915,7 +1145,7 @@
 		1. v. 提供周转资金; （使）合适
 		2. **rehabilitate**使恢复;**doctorate**博士学位;
 		3. [qualify](dic://qualify), [dispose](dic://dispose), [change state](dic://change state), [turn](dic://turn)
-		4. rehabilitate (remodel, repair, recoup, reimpuse)
+		4. rehabilitate (remodel, repair, recoup, reimpuse, ameliorate)
 			1. vt. 恢复原状, 修复, 使康复
 			2. **revitalize**使恢复元气,使具有新的活力;**restore**修复;**renovate**修复;**rejuvenate**使变得年轻, 使恢复活力;**rebuild**重建;**reconstruct**重建;**stabilize**稳定;**recover**恢复;**revive**苏醒;**reclaim**开拓;**demolish**毁坏;
 			3. [reinstate](dic://reinstate), [restore](dic://restore), [reconstruct](dic://reconstruct)
@@ -959,16 +1189,30 @@
 		3. ablebodieed
 		4. able-minded
 	4. ably
-		1. questionably
-		2. peaceably
-		3. objectionably
-		4. colourably
-		5. colorably
+		1.  [competently](dic://competently), [aptly](dic://aptly), [capably](dic://capably), [with competence](dic://with competence)
+		2. _adv._ [able](dic://able), [capable](dic://capable)
+		3. **admirably**极好地,美好地;**deftly**灵巧地;**skillfully**巧妙地;**expertly**熟练地;**excellently**优秀地;**brilliantly**辉煌地;**superbly**雄伟地;**masterfully**好支配人地,专横地;**smartly**潇洒地;**impressively**令人难忘地;**elegantly**优美地;
+		4. Tell me, what do you think of young Lochinvar who has so ably carried off our granddaughter and our money? /说说你对那个小伙子怎么看，能如此精明地偷走我们的孙女和我们的钱？
+		5. This view has been ably maintained by many authors. /许多作者巧妙地坚持了这一观点。
+		6. Many eminent congressmen were converted to their cause and presented it ably to their colleagues of both chambers. /许多杰出的国会议员都皈依了他们的事业，并巧妙地将其介绍给了两院的同事。
+		7. As it continues to waste time experimenting, Walmart is ably copying its best moves. /在继续浪费时间进行试验的同时，沃尔玛正在巧妙地复制其最佳举措。
+		8. questionably
+		9. peaceably
+			1. _adv._ [pacific](dic://pacific), [peaceable](dic://peaceable)
+			2. **peacefully**平静地;**lawfully**守法地;**assemble**集合，聚集;**peaceful**和平的，爱好和平的;**quietly**安静地;**coexist**共存;
+			3. The right to dissent peaceably, in the guardrails of our Republic, is perhaps this nation's greatest strength. /在我们共和国的护栏内，和平异议权也许是这个国家的最大力量。
+			4. The right to dissent peaceably within the guardrails of our republic is perhaps this nation's greatest strength. /在我们国家的护栏里和平表达异议也许正是我们国家最大的力量。
+			5. Hans slept peaceably at the foot of a rock, in a lava bed, where he had found a suitable couch for himself; but my uncle was pacing around the bottom of the crater like a wild beast in a cage. /汉斯在岩石脚下的熔岩床上平静地睡着了，他在那里找到了一张适合自己的沙发。但我的叔叔却像一头关在笼子里的野兽一样在火山口底部踱步。
+		10. objectionably
+		11. colourably
+		12. colorably
 2. **deb-** = to owe, 表示“欠债”。源自拉丁语 debere "to owe."
 	1. debenture
 		1. _n._ [bond](dic://bond), [bond certificate](dic://bond certificate), [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument)
 		2. **issuance**发布，发行;**indebtedness**债务;**securities**股票;**issuer**发行人;**bonds**监禁;**equity**公平，公正;**payable**应付的;**convertible**可改变的;**prospectus**章程,简章,简介;**debt**债务;**unsecured**不稳当的,不安全的
 		3. _debenture bond_ 无担保债券；无押债券；信用债券
+		4. The **debenture** market is an important part of financial market /公司债券市场是金融市场的重要组成部分。
+		5. **Debenture** holder has priority over ordinary shareholder. /债券持有人比普通股东享有优先权。
 	2. debit
 		1.  [debit entry](dic://debit entry)
 		2. _n._ [entry](dic://entry), [accounting entry](dic://accounting entry), [ledger entry](dic://ledger entry)
@@ -982,10 +1226,12 @@
 		10. _debit note_ 借项清单；借方通知；收款票
 		11. _debit balance_ 借方余额；借方差额
 		12. _debit side_ 借方；收方
+		13. And it's like a bank. You put in your debit card, and it gives you money. /它就像银行一洋。你把金融签帐卡放进去，它会让你领钱出来。
+		14. The next thing you need to know before you go to Denmark is to carry cash or debit. /在去丹麦之前，你需要知道的下一件事是携带现金或借记卡。
+		15. And it's like a bank. You put in your debit card, and it gives you money. /它就像银行一洋。你把金融签帐卡放进去，它会让你领钱出来。
 	3. debt
 		1. debt - 意为“债务”的debt源于同义的古法语词dette，16世纪以前不带字母b，拼作det。中世纪一些学者认为，既然其终极词源是拉丁语dēbitum（债务），那就应该把不发音的字母b加上去才对。因此，从13至16世纪该词的原法语拼写形式曾一度被拉丁化为debte，受此影响，它的英语拼写形式也相应地改拼作debt。这一改使后人经常把debt一词读错。英语另有几个词，即doubt（怀疑），plumber（管子工），subtle（微妙的）等，词中不发音的字母b也是因为和拉丁词源相联系而后被加上去的。
 		2. n. 债务, 罪过
-		3. 
 		4. indebted (beholden)
 			1. adj. 感激的，蒙恩的；负债的 
 			2. v. 使负债；使受恩惠（indebt 的过去式和过去分词形式）
@@ -1002,7 +1248,7 @@
 		5. indebtedness
 		6. debtor
 		7. debtee
-	5. due
+	4. due
 		1. _due for_ 应该得到
 		2. _due out_ 待发；待退；应离店但还未离店
 		3. [owed](dic://owed)
@@ -1018,7 +1264,7 @@
 		13. overdue
 		14. duly
 		15. dock-dues
-	6. duty
+	5. duty
 		1. multiduty, mediumduty, lightduty, heavy-duty, generalduty
 		2. duty-paid, duty-free, duty-bound
 		3. dutiable
@@ -1028,6 +1274,8 @@
 			4. You have to go to the duty office and see if you have something dutiable next. /下面请到缴税办公室看一下您是否需要缴税的物品。
 			5. I don't know what is dutiable. Do I have to pay duties on things for my own use? /我不知道什么东西要交税。我的个人用品也要交税吗？
 			6. This is a **dutiable** article /这件物品应该交税。
+			7. All the articles listed here are **dutiable** /这儿所列的物品都要缴税。
+			8. No, I haven't got any **dutiable** things with me /不，我没有带任何需要交应征税的东西。
 		4. duteous
 			1. **obedient**孝顺的;**mistress**情妇;**pious**虔诚的;**thy**你的;**countenance**面容，表情;**affectionate**慈爱的,充满深情的,温柔亲切的;**merciful**仁慈的;**honourable**诚实的, 正直的;**doth**从事;**thee**你;**consort**结交;
 			2. Patient griselda was a chaste and **duteous** wife /蓓什特·格里·塞尔达是一个贞洁而顺从的妻子。
@@ -1042,7 +1290,7 @@
 			5. Ove, conscientious and dutiful, completed his two-week stint on the railways. /欧维在铁道上工作了两周，勤勤恳恳，兢兢业业。
 			6. Dutiful applause came from the audience, including her parents, Bonnie and Stu Hopps. /人群报以礼节性的鼓掌，包括她的父母——邦妮和斯图·霍普斯。
 			7. Ramon runs the business here, for my parents. He's the dutiful son /Ramon为我父母经营这里的生意. 他是那个孝顺的儿子。
-	7. endeavor, endeavour
+	6. endeavor, endeavour
 		1. **endeavour**尽力,竭力;**effort**成就;**undertaking**任务;**efforts**努力;**venture**敢于;**worthwhile**值得的, 值钱的, 有价值的;**strive**努力;**accomplish**完成;**attempt**企图，试图;**ventures**投机者;**undertake**担任, 承揽;
 		2. [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [activity](dic://activity)
 		3. [try](dic://try), [seek](dic://seek), [attempt](dic://attempt), [essay](dic://essay), [assay](dic://assay)
@@ -1073,21 +1321,59 @@
 		4. inhabit
 			3. in-,进入，使，-habit,持有，握住，词源同 habitable,habitat.引申词义居住，栖息。
 			4. vt. 居住于, 占据, 栖息
-			5. inhabitation
-		5. cohabit
+			5. [dwell](dic://dwell), [live](dic://live)
+			6. [occupy](dic://occupy)
+			7. _v._ [be](dic://be)
+				1. [dwell](dic://dwell) 文学上的用词，口语中通常用live代替。  
+				2. [reside](dic://reside) 书面用词，指合法的永久性居住，也指在豪华的住宅里居住。  
+				3. [live](dic://live) 最普通用词，指固定的居住，可以是长期的，也可以是临时的。  
+				4. [lodge](dic://lodge) 指短时间或临时住宿。  
+				5. [inhabit](dic://inhabit) 强调人或动物居住在某个地区并已适应某种特殊环境。  
+				6. [settle](dic://settle) 侧重指某人定居于城市、国家或地区，而不指居住的住所。
+			8. **occupy**占据，占领;**reside**居住;**populate**居住于;**dwell**居住;**roam**漫游，漫步;**habitats**栖息地;**congregate**集合, 聚集;**beings**人;**uninhabited**无人居住的;**thrive**繁荣，兴旺;**embody**体现，使具体化;
+			9. a sparsely inhabited plain. /鲜有人烟的平原
+			10. Wild tribes still inhabit part of the Philippines /菲律宾部分地区仍然居住着一些原始部落。
+			11. Nomads have inhabited this region for thousands of years /游牧民族在这地区居住已有数千年了。
+			12. our mortal bodies are inhabited by immortal souls. /我们终有一死的身躯有着不死的灵魂。
+			13. inhabitation
+		12. cohabit
 			1. co-共同 + habit-居住 → 共同住一起。
-			2. cohabitant
-			3. cohabitation
-	2. habitual
+			2.  [shack up](dic://shack up)
+			3. _v._ [dwell](dic://dwell), [live](dic://live), [inhabit](dic://inhabit)
+			4. **coexist**共存;**marry**娶;**unmarried**未婚的;**mingle**混合;**happily**幸福地;**married**已婚的，有配偶的;**couples**一对，一双;**marrying**证婚;**reside**居住;**intercourse**交往;**inhabit**居住于;
+			5. cohabitant
+			6. cohabitation
+	9. habitual
 		1. a. 习惯的, 惯常的, 平常的
-	3. habituate
+		2. - adj. 习惯性的，惯常的；上瘾的
+		3.  [accustomed](dic://accustomed), [customary](dic://customary), [wonted(a)](dic://wonted(a))
+		4.  [confirmed](dic://confirmed), [inveterate(a)](dic://inveterate(a))
+		5. _adj._ [established](dic://established), [constituted](dic://constituted), [usual](dic://usual), [addicted](dic://addicted)
+		6. _n._ [unestablished](dic://unestablished), [unusual](dic://unusual), [unaddicted](dic://unaddicted)
+			1. [usual](dic://usual) 普通用词，概念广泛。指经常发生或意料中的事，既可指自然发生的现象，也可指按个人习惯或惯例而做的事。  
+			2. [customary](dic://customary) 指特定的个人或群体的平常习惯，或习俗性的行为。  
+			3. [habitual](dic://habitual) 指按个人习惯反复发生的事情。侧重经常性、习惯性。  
+			4. [conventional](dic://conventional) 语气强，指遵守已成习惯的事情，强调符合惯例，由人们普遍认可。  
+			5. [regular](dic://regular) 着重遵守约定俗成的规则。
+		7. **compulsive**极有趣的;**habit**习惯，习性;**habits**习性;**frequent**时常发生的;**propensity**倾向;**chronic**慢性的;**preoccupation**全神贯注，入神;**tendency**倾向，趋势;**pathological**病理学的;**behavior**行为，举止;**erratic**不稳定的;
+		8. _habitual abortion_ 习惯性流产
+		9. _habitual residence_ 通常住址；惯常居所
+		10. He's a habitual smoker--he always has a cigarette while having dinner. /他是个吸烟成瘾者──吃饭时总要吸一支烟。
+		11. He suddenly dropped his habitual banter. /他突然不再像往常一样开玩笑。
+		12. He’s been taken to task for his habitual lack of punctuality /他因为经常不准时而受到批评。
+		13. habitual antagonism that culminated in open hostility. /在公开敌对中达到高潮的习惯性对抗
+		14. they squatted, hunched in their habitual dolour. /沉浸在他们惯常的悲痛中。
+		15. But it transforms your habitual recall /却能改变你习惯性的回忆。
+		16. He bore his misfortune with his habitual tranquillity. /这位绅士受了这次打击仍然和往常一样不动声色。
+		17. The habitual thief was finally arrested by the police. /警方终于逮捕了这名惯偷。
+	10. habituate
 		1. vt. 使习惯于, 使熟习于
-	4. habitude
+	11. habitude
 		1. n. 习俗, 习惯
-	5. habitus
+	12. habitus
 		1. n. 习惯, 体质
-	6. provender
-4. **hibit-** = hold, 表示“拿住”。源自拉丁语 habere "to hold, posses, have, handle."
+	13. provender
+13. **hibit-** = hold, 表示“拿住”。源自拉丁语 habere "to hold, posses, have, handle."
 	1. adhibit
 		1. vt. 贴, 粘, 采用, 引入
 	2. exhibit
@@ -1179,7 +1465,7 @@
 			3. a treaty for the prohibition of nuclear tests /禁止核试验的条约
 			4. Prohibition was abolished in 1933 /禁酒令于1933年废除。
 		11. prohibiter
-5. gavel
+14. gavel
 	1. 词源不详。可能来自旧时参加行业公会需上交一定数额的费用，主持人敲打小槌进行通报，词源同 give.后指拍卖商或法官用的小槌。
 	2. _n._ (拍卖商、会议主席或法官用的)小木槌
 	3. _n._ [mallet](dic://mallet), [beetle](dic://beetle)
@@ -1188,7 +1474,7 @@
 	6. The gavel has a frog’s head as frogs symbolize change in Japanese culture. /在日本文化中青蛙象征着改变，因此这把木槌上有一个青蛙头。
 	7. The gavel came down on two weeks of intense and sometimes emotional negotiations /经过两周紧张，有时甚至是情绪化的谈判，小木槌落下了。
 	8. But as of the recording of this show, the Louisiana Republican lacks the votes needed to win the gavel. /但截至节目录制为止，这位路易斯安那州共和党人尚未获得成功当选所需的票数。
-6. gift
+15. gift
 	1. Beware of Greeks bearing gifts小心突然对你好的敌人。特洛伊战争十年了，希腊人始终攻破不了特洛伊城，足智多谋的Odysseus奥德修斯献计木马藏兵并佯退。喜爱马的特洛伊人将城墙破坏后把木马拉入城内畅饮欢庆胜利，是夜，马肚中的希腊勇士涌出，城灭。 ​​​​
 	2. n. 礼物, 赠予, 天才  vt. 赋予
 	3.  [endowment](dic://endowment), [talent](dic://talent), [natural endowment](dic://natural endowment)
@@ -1209,7 +1495,7 @@
 	9. **keepsake**纪念品;**giver**送礼者;**valentine**情人;**ornament**装饰;**birthday**生日，诞辰;**certificate**证明书, 执照;**blessing**祝福;**Christmas**圣诞节;**souvenir**纪念品;**donation**捐赠;**voucher**代金券;
 	10. have the gift of prophecy /有预言的天赋
 	11. a gifted child; a gifted pianist. /有天赋的孩子；有才华的钢琴家
-7. give
+16. give
 	1. thanksgiving
 	2. self-giving, self-given
 	3. outgiving
@@ -1293,7 +1579,33 @@
 	9. _[gaping hole](dic://gaping%20hole)_  不渗透层的孔
 6. gas
 7. gasp
-8. yawn
+	1. v. （因惊讶或疼痛）喘气 
+	2. n. 喘息，倒抽气
+	3. [pant](dic://pant)
+	4. [pant](dic://pant), [puff](dic://puff), [heave](dic://heave)
+	5. _n._ [inhalation](dic://inhalation), [inspiration](dic://inspiration), [aspiration](dic://aspiration), [breathing in](dic://breathing in)
+	6. _v._ [blow](dic://blow)
+	7. **groan**呻吟;**sigh**叹息，叹气;**shudder**震动;**yawn**哈欠;**gulp**狼吞虎咽地吃;**ahem**呃哼！;**cringe**畏缩;**scream**尖叫;**giggle**傻笑;**sob**啜泣，呜咽;**sighs**叹息;
+	8. _last gasp_ 最终喘息；奄奄一息
+	9. _gasp for breath_ 呼吸十分困难， 上气不接下气
+	10. Now it was Edmond's turn to gasp. /爱德蒙喘息着。
+	11. No. It's the last gasp of conscience. /没有 这是他最后一丝良知。
+	12. Suddenly she gave a little gasp of surprise /突然，她惊讶地倒吸了一口气。
+	13.  He suspected Black? " gasped Madam Rosmerta. /“他信不过布莱克吗? ”罗斯默塔女士喘着气问道。
+	14. Now I know there's a gasp coming in 20 pages. /现在我知道20页后有个让人惊呼的大转折了。
+	15. The fireman heard the gasps of a boy in the smoky room /消防队员在烟雾缭绕的房间听到一个男孩的喘息声。
+	16. It was the eyes that made Mr. Craven **gasp** for breath /是那双眼睛让克雷文先生喘不过气。
+9. yawn
+	1.  [yawning](dic://yawning), [oscitance](dic://oscitance), [oscitancy](dic://oscitancy)
+	2. [gape](dic://gape), [yaw](dic://yaw)
+	3. _n._ [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
+	4. _v._ [breathe](dic://breathe), [take a breath](dic://take a breath), [respire](dic://respire), [suspire](dic://suspire), [be](dic://be)
+	5. **sigh**叹息，叹气;**gasp**喘息;**groan**呻吟;**giggle**傻笑;**chuckle**咯咯的笑，轻声地笑;**grin**露齿而笑，咧着嘴笑;**shrug**耸肩，耸肩表示;**shudder**震动;**sighs**叹息;**wink**闪烁;**smirk**傻笑;
+	6. a long period of your life is a yawn to everyone. /你一生中有很长一段时光对大家而言都是平淡乏味的。
+	7. The chasm yawned at our feet. /陷坑在我们的脚下裂开
+	8. The hole yawned before him. /洞口在他面前豁然而开。
+	9. The meeting was one big yawn from start to finish. /那会议自始至终十分无聊。
+	10. Harry stifled a yawn behind his hand. /哈利用手捂住了一个哈欠。
 
 
 ### + \*ghais- + = to adhere, hesitate
@@ -1312,52 +1624,122 @@
 	2. adhesion, inadhesion
 		1. inadhesion
 	3. adhesive
-		1. inadhesive
-		2. coadhesive
-		3. adhesivity
-		4. adhesiveness
-		5. adhesively
-	4. cohere
-		1. incoherence
-		2. decohere, decoherer
-		3. coherer
+		1.  [adhesive material](dic://adhesive material), [adhesive agent](dic://adhesive agent)
+		2. _n._ [material](dic://material), [stuff](dic://stuff)
+		3. _adj._ [adherent](dic://adherent), [agglutinate](dic://agglutinate), [agglutinative](dic://agglutinative), [bondable](dic://bondable), [coherent](dic://coherent), [tenacious](dic://tenacious), [cohesive](dic://cohesive)
+		4. _n._ [nonadhesive](dic://nonadhesive)
+		5. **glue**粘合;**sealant**密封剂;**epoxy**环氧的;**adhesion**支持;**polymeric**聚合的;**sealer**盖印人;**gluing**粘合;**tape**磁带;**thermoplastic**热后可塑性的;**substrate**底面,基底;**coating**涂层;
+		6. Use a good waterproof adhesive in addition to the screws. /除了螺钉外, 还要用优质防水黏合剂。
+		7. You'll need a strong adhesive to mend that chair. /你需要一种粘性很强的东西来修理那把椅子。
+		8. You need a strong adhesive to bond wood to metal /需要强力胶才能把木料粘在金属上。
+		9. Adhesive bonds occur between an adhesive's molecules and the molecules of whatever it's sticking to. /粘合骨架形成于粘着剂分子，和与它粘连的任意分子之间。
+		10. A traditional laptop contains multiple screws, cables and adhesives, making it a challenge to take apart /传统的笔记本电脑包含多个螺丝、电缆和粘合剂，这使得拆卸它成为一个挑战。
+		11. inadhesive
+		12. coadhesive
+		13. adhesivity
+		14. adhesiveness
+		15. adhesively
+	5. cohere
+		1. vi. 凝聚；连贯；粘着；一致
+		2. [cling](dic://cling), [cleave](dic://cleave), [adhere](dic://adhere), [stick](dic://stick)
+		3. _v._ [touch](dic://touch), [adjoin](dic://adjoin), [meet](dic://meet), [contact](dic://contact), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		4. **cohesive**有结合力的;**coherent**连贯的，一致的;**disparate**不同的;**coherence**条理性,连贯性,一致性;**unify**统一;**disjointed**脱离开的,不连贯的;**converge**集中于一点;**narrative**记叙文;**contradict**矛盾;**together**一起;**diverge**分歧;
+		5. The adornments do not cohere with the basic design /装饰物与设计的基调不协调。
+		6. this view does not cohere with their other beliefs. /这个观点和他们其他的信念不一致。
+		7. When you squeeze a handful of snow, the flakes cohere to make a snowball. /你把一团雪捏紧,雪就黏合成雪球。
+		8. Yet the game proliferated, and the 15th century saw it cohering into the form we know today. /然而，这款游戏迅速传播，在 15 世纪，它演变成我们今天所知的游戏形式。
+		9. That's then cohered with yolk of eggs and cream reduced and then finished with butter and cream. /然后用蛋黄和浓缩奶油混合在一起，最后用黄油和奶油收尾。
+		10. Egg coheres a sauce, but it has to be hot to do that and it becomes almost custardy. /鸡蛋可以使酱汁凝结，但必须是热的才行，这样它就会变成奶冻。
+		11. That dream of beautiful Paris was not likely to cohere into substance in the presence of this misfortune. /面对眼前的不幸，巴黎的美梦是不大可能实现的了。
+		12. Each sentence was fine on its own; remarkably, three or four back to back could stay on topic, apparently cohering. /每个句子单拿出来都很好；值得注意的是，三四个连续的句子还可以保持话题的连贯性。
+		13. Homologous parts tend to vary in the same manner, and homologous parts tend to cohere. /同源部分倾向于以相同的方式变化，而同源部分倾向于凝聚。
+		14. 
+		15. incoherence
+		16. decohere, decoherer
+		17. coherer
 			1. anticoherer
-		4. coherent, incoherency
-			1. noncoherent
-			2. incoherent
-			3. coherently
-		5. coherence
-	5. cohesion
+		18. coherent
+			1. adj. 有条理的，连贯的；说话条理清晰的，易于理解的；团结一致的，凝聚的；（波）相干的，相参的；黏着的，黏连的
+			2.  [consistent](dic://consistent), [logical](dic://logical), [ordered](dic://ordered), [orderly](dic://orderly)
+			3.  [logical](dic://logical), [lucid](dic://lucid)
+			4. [tenacious](dic://tenacious)
+			5. _adj._ [seamless](dic://seamless), [rational](dic://rational), [adhesive](dic://adhesive)
+			6. _n._ [incoherent](dic://incoherent), [irrational](dic://irrational), [nonadhesive](dic://nonadhesive)
+			7. **cohesive**有结合力的;**incoherent**不连贯的;**coherence**条理性,连贯性,一致性;**unified**统一的, 统一标准的, 一元化的;**succinct**简洁的;**concise**简明的，简洁的;**articulate**发音清晰的;**disjointed**脱离开的,不连贯的;**well-defined**清晰可辨的;**formulate**构想出, 规划;**consistent**始终如一的;
+			8. _coherent light_ 相干光，相干光线
+			9. _partially coherent light_ 部分相干光
+			10. _coherent demodulation_ 相干解调
+			11. _coherent signal_ 相干信号
+			12. _coherent radar_ 相干雷达；同调雷达
+			13. _coherent radiation_ [化]相干辐射；相关辐射
+			14. The minister offered a clear and coherent explanation for the tax increase. /部长就税收增加给予了明确一致的解释。
+			15. It doesn't seem like the most coherent life plan, even now. /看起来并不是什么清楚的生活计划，甚至到了现在也是如此。
+			16. Something that is coherent is clear, carefully considered and sensible. /连贯的东西是明晰、经过仔细考虑以及明智。
+			17. I devised a coherent system for living. It was a moral system, which was wholly logical. /我设计了一套完整统一的生活体系，这是一个道德体系，具有完全的逻辑性。
+			18. Now, this is not an attempt to write a coherent paper. /这并不是指要写一篇连贯的论文。
+			19. But he also was not coherent, and he had too many word-salad answers. /但是他没有条理，他的很多回答都语无伦次。
+			20. 
+			21. incoherency
+			22. noncoherent
+			23. incoherent
+			24. coherently
+		20. coherence
+	14. cohesion
 		1. decohesion
 		2. cohesionless
-	6. cohesive
-		1. noncohesive
-		2. incohesive
-		3. equicohesive
-		4. cohesiveness
-	7. hesitate
-		1. hesitance
-		2. hesitancy
-		3. hesitant
+	15. cohesive
+		1. - adj. 团结的，有凝聚力的；使团结的，使凝聚的
+		2. _adj._ [adhesive](dic://adhesive), [united](dic://united)
+		3. _n._ [nonadhesive](dic://nonadhesive), [divided](dic://divided)
+		4. **coherent**连贯的，一致的;**unified**统一的, 统一标准的, 一元化的;**cohesion**内聚力;**unifying**使成一体;**disjointed**脱离开的,不连贯的;**homogeneous**同性质的, 同类的;**harmonious**和谐的;**well-balanced**匀称的;**overarching**首要的;**workable**可经营的;**consistent**始终如一的;
+		5. _cohesive force_ 内聚力；粘结力；粘合力
+		6. _cohesive soil_ 粘性土壤
+		7. _cohesive strength_ 凝聚强度
+		8. _cohesive energy_ 内聚能
+		9. _cohesive zone_ 软熔带；内聚区
+		10. _cohesive property_ 粘结性
+		11. The author skillfully fuses these fragments into a cohesive whole. /作者将这些片断巧妙地结合成一个连贯的整体。
+		12. systematizing a vast assortment of rules into a cohesive whole. /把大堆杂乱的规则系统整理成连贯的整体。 
+		13. Ringo provides backing; the band would be less cohesive without him. /林格是后盾；没有他，乐队就没有这般凝聚力。
+		14. We want one epic cohesive story that we tell the world. /我们想告诉世界的是一个完整的历诗。
+		15. But, unlike Japan, Europe is not a single cohesive country. /但是，不同于日本，欧洲不是结合在一起的一个国家。
+		16. Daring Adventures" from '86 is a far more **cohesive** and successful album. /1986年出的《勇敢的冒险》是一张极富凝聚力、极成功的唱片集。
+		17. Middle Eastern politics is so complicated that even experts cannot agree on a cohesive policy. /中东政治如此复杂以致于甚至专家们也难以制定出统一的政策。
+		18. noncohesive
+		19. incohesive
+		20. equicohesive
+		21. cohesiveness
+	17. hesitate
+		1. (oscillation, vasillation, scrupulous,  hesitate, apprehension, misgiving)
+		2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, dysphoria)
+		3. hes-粘 + it + -ate, 表动词 → 粘粘糊糊 → 犹豫。
+		4. vi. 犹豫, 迟疑, 踌躇, 支吾, 停顿
+		5. hesitance
+		6. hesitancy
+		7. hesitant
 			1. hesitantly
-		4. unhesitating
-		5. hesitative
-		6. hesitation
-		7. hesitatingly
-	8. inhere
-		1. **inherent**固有的;**arise**发生;**immaterial**非物质的;**exist**存在;**intrinsically**从本质上;**preclude**妨碍;**pertain**关于;**subjectivity**主观性;**intrinsic**固有的, 内在的, 本质的;**transcend**超越;
-		2. inherent, inherently
+		8. unhesitating
+		9. hesitative
+		10. hesitation
+		11. hesitatingly
+	19. inhere
+		1. vi. 固有；生来即存在；本质上即属
+		2. _v._ [dwell](dic://dwell), [consist](dic://consist), [lie](dic://lie), [belong](dic://belong), [lie in](dic://lie in)
+		3. **inherent**固有的;**arise**发生;**immaterial**非物质的;**exist**存在;**intrinsically**从本质上;**preclude**妨碍;**pertain**关于;**subjectivity**主观性;**intrinsic**固有的, 内在的, 本质的;**transcend**超越;
+		4. Finally citizens had the right of petition; it inheres in all free government and it is expressly guaranteed by the first amendment to the Constitution. /最后，公民有了请愿权；它是所有自由政府所固有的， 并且受到宪法第一修正案的明确保障。
+		5. Liberty inheres in some sensible object; and every nation has formed to itself some favorite point, which by way of eminence becomes the criterion of their happiness. /自由存在于某些可感知的对象中； 每个民族都形成了自己最喜欢的点， 通过卓越成为他们幸福的标准。
+		7. inherent, inherently
 			1. [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [integral](dic://integral)
 			2.  [implicit in(p)](dic://implicit in(p)), [underlying](dic://underlying)
 			3. [intrinsic](dic://intrinsic), [intrinsical](dic://intrinsical), [implicit](dic://implicit), [inexplicit](dic://inexplicit)
 			4. **intrinsic**固有的, 内在的, 本质的;**innate**先天的;**complexities**复杂;**uniqueness**唯一性;**complexity**复杂;**ambiguity**歧义;**fragility**脆弱,虚弱;**underlying**根本的;**virtue**美德;**fundamental**基本的;**flaws**缺陷;
 			5. [inherent](dic://inherent) 指物体本身固有的、不能与该物体分割的某种特性。
 			6. [essential](dic://essential) 指决定所属事物存在的关键因素。
-		3. inherency, inherence
+		8. inherency, inherence
 			1. **inherent**固有的;**doctrine**教义;**argument**争吵;**presumption**推测;**validity**有效性;**implication**暗示;**dichotomy**一分成二,对分;**assertion**主张,维护;**objection**反对, 异议;**fallacy**谬论，谬误;**primacy**首位;
-		4. inhesion
+		9. inhesion
 			1. _[the inhesion transcend](dic://the%20inhesion%20transcend)_ 内在超越
-	9. cohesiometer
+	21. cohesiometer
 
 
 ### + \*ghans- +
@@ -1381,6 +1763,8 @@
 		1. **geese**鹅;**goose**鹅;**ducks**薄帆布工作服，帆布裤子;**duck**鸭子;**swan**天鹅;**chick**小鸡;**hen**母鸡;**sparrow**麻雀;**flock**群;**swans**天鹅;**penguin**企鹅;
 	4. 
 4. gander
+	1. n. 雄鹅；呆子；一瞥 
+	2. vi. 闲逛
 5. gannet
 
 
@@ -1406,8 +1790,9 @@
 		12. cholane
 		13. cholecystis
 	2. melancholy
-		1. melancholia
-		2. melancholic
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, dour, )
+		2. melancholia
+		3. melancholic
 	4. etc..
 4. **cholang-** = bile vessel, 表示“胆管”，chol- + ang-组成。= bile vessel, 表示“胆管”，chol- + ang-组成。
 5. **choledoch-** = bile duct, 表示“胆总管”，第二部分doch- "to take, receive" 同源。
@@ -1429,20 +1814,41 @@
 7. **cholest-**. 表示“胆甾”。
 8. **gl-** 表示“光滑，发光”。
 	1. glad
-		1. gladsome
-		2. gladness
-		3. gladly
-		4. gladden
-		5. glad-hander
-		6. glad-hand
-	2. glade
-	3. glare
+		1.  [gladiolus](dic://gladiolus), [gladiola](dic://gladiola), [sword lily](dic://sword lily)
+		2.  [beaming](dic://beaming)
+		3. _n._ [iridaceous plant](dic://iridaceous plant)
+		4. _adj._ [gladsome](dic://gladsome), [willing](dic://willing), [grateful](dic://grateful), [thankful](dic://thankful), [cheerful](dic://cheerful)
+		5. _n._ [sad](dic://sad), [unwilling](dic://unwilling), [ungrateful](dic://ungrateful), [thankless](dic://thankless), [unthankful](dic://unthankful), [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+			1. [happy](dic://happy) 侧重感到满足、幸福或高兴。  
+			2. [glad](dic://glad) 最普通用词，语气较弱，表示礼貌的惯用语。指乐于做某事或因某事而感到满足，常表愉快的心情。  
+			3. [cheerful](dic://cheerful) 多指因内心的愉快而表现出兴高采烈，是强调而自然的感情流露。  
+			4. [joyful](dic://joyful) 语气较强，强调心情或感情上的欣喜。  
+			5. [merry](dic://merry) 指精神情绪的暂时高涨，表示欢乐、愉快的心境或情景，侧重充满欢笑声和乐趣。  
+			6. [delightful](dic://delightful) 指能带来强烈的快乐，激起愉快的情感，用于非常愉快的场合。  
+			7. [gay](dic://gay) 侧重无忧无虑、精神昂扬、充满生命的快乐。  
+			8. [pleasant](dic://pleasant) 侧重给人以“赏心悦目”或“愉快的，宜人的”感受。  
+			9. [nice](dic://nice) 语气较温和，泛指任何愉快或满意的感觉。  
+			10. [jolly](dic://jolly) 通俗用词，多指充满快乐与喜悦的神情。  
+			11. [agreeable](dic://agreeable) 指与感受者的愿望、情趣或受好等和谐一致而带来的心情上的快意。
+		6. **happy**高兴的;**thankful**感谢的;**grateful**感谢的;**hope**希望;**thrilled**非常兴奋的;**pleased**高兴的;**sorry**对不起的，抱歉的;**sure**可靠的;**hoping**希望;**delighted**喜欢的, 高兴的;**thank**感谢;
+		7. _glad to meet you_ 见到你很高兴
+		8. _glad to see you_ 见到你很高兴
+		9. _glad of_ 对……感到高兴
+		10. _glad eye_ n. [口]媚眼；秋波
+		11. gladsome
+		12. gladness
+		13. gladly
+		14. gladden
+		15. glad-hander
+		16. glad-hand
+	20. glade
+	21. glare
 		1. glary
 		2. glarometer
 		3. glaring
 		4. glarimeter
 		5. antiglare
-	4. glass
+	22. glass
 		1. wineglass
 		2. weatherglass
 		3. vistaglass
@@ -1485,7 +1891,7 @@
 		40. cheval-glass
 		41. amberglass
 		42. alkalifreeglass
-	5. glaze
+	23. glaze
 		1. [glass](dic://glass), [glass over](dic://glass over), [glaze over](dic://glaze over)
 		2. [sugarcoat](dic://sugarcoat), [candy](dic://candy)
 		3. [topping](dic://topping), [polish](dic://polish), [gloss](dic://gloss), [glossiness](dic://glossiness), [burnish](dic://burnish), [coating](dic://coating), [finish](dic://finish)
@@ -1670,13 +2076,15 @@
 		13. She was gloating about sleeping with you, and I just wanted to shut her up /她正吹嘘和你做爱，我只是想让她住嘴。
 		14. " And I wish they'd stop singing that stupid song, " said Hermione miserably, " haven't they gloatedenough? " /“我希望他们别再唱这首傻乎乎的歌了。”赫敏难过地说，“他们还不够得意吗？”
 	22. gloom
-		1. gloomy (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
-			1. [grim](dic://grim), [darkening](dic://darkening)
-			2. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
-			3. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
-			4. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
+		1. gloomy 
+			1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, dour, )
+			2. [grim](dic://grim), [darkening](dic://darkening)
+			3. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear), [dreary](dic://dreary)
+			4. **dreary**沉闷的，枯燥的;**bleak**荒凉的，无遮蔽的;**grim**冷酷的;**gloom**忧郁;**dismal**凄凉的，忧郁的;**somber**昏暗的;**depressing**令人沮丧的;**pessimistic**悲观的;**melancholy**忧郁, 悲哀;**moody**喜怒无常的;**ominous**不祥的;
+			5. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening)
 	23. glum, glumly, glumpy
-		1. **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, dour, )
+		2. **gloomy**黑暗的;**grim**冷酷的;**bleak**荒凉的，无遮蔽的;**dreary**沉闷的，枯燥的;**grumpy**脾气暴躁的;**somber**昏暗的;**cheery**愉快的，活泼的;**gloom**忧郁;**smug**自满的, 沾沾自喜的;**dismal**凄凉的，忧郁的;**depressing**令人沮丧的; sulky
 1. gall (pall)
 	1. 来自 PIE*ghel,发光，照耀，词源同 yellow,gold,chlorine.因胆呈黄绿色而得名。引申词义恼怒。
 	2.  [saddle sore](dic://saddle sore)
@@ -1759,19 +2167,19 @@
 7. zloty
 	1. **euro**欧元;**yen**日元;**rupee**卢比;**EUR**欧洲，欧洲人;**Euros**带雨东南暴风;**currency**货币;**Poland**波兰;**Warsaw**华沙;**Krakow**克拉科夫;**PLN**波兰货币兹罗提在ISO 4217体系中的代码;**Lithuanian**立陶宛人;
 8. callow 
-	1. (mallow, hallow, sallow, shallow, hollow)
-	2. (callow, jejune, )
-	3. a. 年轻而无经验的, (鸟)羽毛未丰的
-	4.  来自 PIE*gal,秃头，参照 Calvinism,chauvinism,进一步来自 PIE*ghel,发光的，词源同glass,gleam.指刚出生的，没长毛的。
-	5.  [fledgling](dic://fledgling), [unfledged](dic://unfledged)
-	6. _adj._ [inexperienced](dic://inexperienced), [inexperient](dic://inexperient)
-	7. _n._ [experienced](dic://experienced), [experient](dic://experient)
-	8. **naive**天真的，幼稚的;**youthful**年轻的;**immature**不成熟的;**young**年轻的;**jaded**厌倦的;**hapless**运气不好的，倒霉的;**inexperienced**经验不足的,不熟练的;**cynical**愤世嫉俗的;**adolescent**青春期的;**brash**仓促的，性急的;**pompous**浮夸的;
-	9. earnest and callow undergraduates /严肃认真但天真幼稚的大学本科生。
-	10. A troop of newly arrived students, very young, pink and callow, followed nervously, rather abjectly, at the Director's heels. /一群新来的学生低声下气地跟在主任身后，有些紧张。他们全都非常年轻，红扑扑的脸蛋，乳臭未干
-	11. Now cynics like to mock the supposedly spoiled or callow youth of the new millennia /现在，愤世嫉俗者喜欢嘲笑新千年中所谓的娇生惯养或幼稚的年轻人。
-	12. Her callow heart made an epoch of the incident; she considered her array of feelings, for and against /她幼稚的心使这件事成为一个时代。 她考虑了她的一系列感受， 支持和反对。
-	13. Never, even at his most callow, had he gone to see any woman with an eagerness as great as the one that was taking him to Holly Pavement this morning /从来没有，即使是在他最幼稚的时候，他也从来没有像今天早上带他去霍莉路面的女人那样热切地去看任何女人。
+	2. (mallow, hallow, sallow, shallow, hollow, callow)
+	3. (callow, jejune, )
+	4. a. 年轻而无经验的, (鸟)羽毛未丰的
+	5.  来自 PIE*gal,秃头，参照 Calvinism,chauvinism,进一步来自 PIE*ghel,发光的，词源同glass,gleam.指刚出生的，没长毛的。
+	6.  [fledgling](dic://fledgling), [unfledged](dic://unfledged)
+	7. _adj._ [inexperienced](dic://inexperienced), [inexperient](dic://inexperient)
+	8. _n._ [experienced](dic://experienced), [experient](dic://experient)
+	9. **naive**天真的，幼稚的;**youthful**年轻的;**immature**不成熟的;**young**年轻的;**jaded**厌倦的;**hapless**运气不好的，倒霉的;**inexperienced**经验不足的,不熟练的;**cynical**愤世嫉俗的;**adolescent**青春期的;**brash**仓促的，性急的;**pompous**浮夸的;
+	10. earnest and callow undergraduates /严肃认真但天真幼稚的大学本科生。
+	11. A troop of newly arrived students, very young, pink and callow, followed nervously, rather abjectly, at the Director's heels. /一群新来的学生低声下气地跟在主任身后，有些紧张。他们全都非常年轻，红扑扑的脸蛋，乳臭未干
+	12. Now cynics like to mock the supposedly spoiled or callow youth of the new millennia /现在，愤世嫉俗者喜欢嘲笑新千年中所谓的娇生惯养或幼稚的年轻人。
+	13. Her callow heart made an epoch of the incident; she considered her array of feelings, for and against /她幼稚的心使这件事成为一个时代。 她考虑了她的一系列感受， 支持和反对。
+	14. Never, even at his most callow, had he gone to see any woman with an eagerness as great as the one that was taking him to Holly Pavement this morning /从来没有，即使是在他最幼稚的时候，他也从来没有像今天早上带他去霍莉路面的女人那样热切地去看任何女人。
 
 
 ### + \*gher- +
@@ -2637,22 +3045,37 @@
 		2. **eagles**老鹰乐队，鹰;**eagle**鹰;**bird**鸟;**birds**鸟类;**nest**巢，窝;**hawk**鹰;**waterfowl**水鸟,水禽;**swans**天鹅;**otter**水獭;**nesting**嵌套;**nests**巢;
 2. **prehens-, prehend-** = catch, 表示“抓住”。源自拉丁语 prehendere "to grasp, seize", 源自 pre-“前” + hend- “抓住”。源自拉丁语 prehendere "to get hold of, seize, grasp."
 	1. apprehend
-		1. _v._ [understand](dic://understand), [seize](dic://seize), [prehend](dic://prehend), [clutch](dic://clutch), [anticipate](dic://anticipate), [look for](dic://look for), [look to](dic://look to)
+		1. - v. 逮捕，拘押； 理解，领会；<古>忐忑不安（或心怀恐惧）地期待
+		2. _v._ [understand](dic://understand), [seize](dic://seize), [prehend](dic://prehend), [clutch](dic://clutch), [anticipate](dic://anticipate), [look for](dic://look for), [look to](dic://look to)
 			2. [understand](dic://understand) 一般用词，很常用，指对事实或意义不仅知道得很清楚。  
 			3. [comprehend](dic://comprehend) 较正式用词，指对较复杂的事物能透彻理解其意义。  
 			4. [appreciate](dic://appreciate) 语气较弱，指对某事物或意义有充分的理解。着重有能力领域或觉察。  
 			5. [apprehend](dic://apprehend) 指知道某事物或某观念的大概意义，但未能理解其内涵意义，暗含一知半解意味。  
 			6. [grasp](dic://grasp) 从本义抓紧、抓住，引申作“理解、掌握”。
-		2. **detain**拘留;**subdue**征服;**apprehension**理解;**ascertain**弄清, 确定, 查明;**comprehend**理解, 领会;**accomplice**从犯, 帮凶, 同谋;**seize**抓住;**prosecute**检举、告发某人;**perceive**察觉，感觉;**locate**位于;**discern**识别;
-		3. misapprehend
+		3. **detain**拘留;**subdue**征服;**apprehension**理解;**ascertain**弄清, 确定, 查明;**comprehend**理解, 领会;**accomplice**从犯, 帮凶, 同谋;**seize**抓住;**prosecute**检举、告发某人;**perceive**察觉，感觉;**locate**位于;**discern**识别;
+		4. apprehension
+			1. - n. 忧虑，恐惧；逮捕，拘押；理解，领悟
+			2.  [apprehensiveness](dic://apprehensiveness), [dread](dic://dread)
+			3. [understanding](dic://understanding), [discernment](dic://discernment), [savvy](dic://savvy)
+			4. [misgiving](dic://misgiving)
+			5.  [arrest](dic://arrest), [catch](dic://catch), [collar](dic://collar), [pinch](dic://pinch), [taking into custody](dic://taking into custody)
+			6. _n._ [fear](dic://fear), [fearfulness](dic://fearfulness), [fright](dic://fright), [knowing](dic://knowing), [expectation](dic://expectation), [outlook](dic://outlook), [prospect](dic://prospect)
+			7. **trepidation**惊恐;**nervousness**神经质,焦躁,胆小;**fear**害怕;**suspicion**怀疑, 嫌疑;**apprehensive**忧虑的;**anxiety**焦虑;**anticipation**预期;**dread**惧怕;**distrust**不信任;**uncertainty**不确定;**excitement**兴奋, 激动;
+			8. _[evaluation apprehension](dic://evaluation%20apprehension)_  评价顾忌 
+			9. Fortunately, as it turned out, Dr Dixon Chibanda's apprehensions were wrong. /幸运的是，事实证明，狄克逊·契班达医生担忧错了。
+			10. First, talk about Mandela's apprehension by authorities in 1962. /首先，我们来说一下曼德拉在1962年被当局逮捕的情况。
+			11. Apprehensions of adults at the US-Mexico border have risen. /在美墨边境逮捕的成年人有所增加。
+			12. But a new study argues against the apprehension parents may feel. /但一项新研究反驳了家长们的忧虑。
+			13. 
+		5. misapprehend
 			1. _v._ [interpret](dic://interpret), [construe](dic://construe), [see](dic://see)
 			2. **misunderstand**误会, 误解;**perceive**察觉，感觉;**infer**推断;**presume**假定;**confuse**使混乱;**misunderstanding**误会;**affirm**断言;**misread**读错;**understand**懂;**comprehend**理解, 领会;**discern**识别;
-	2. comprehend
+	3. comprehend
 		1. incomprehensible
 			1. **nonsensical**无意义的;**baffling**令人困惑的;**unintelligible**不可能理解的;**incoherent**不连贯的;**illogical**不合逻辑的;**inexplicable**无法说明的;**inconceivable**不可思议的;**absurd**荒谬的;**meaningless**无意义的;**ludicrous**荒唐可笑的,滑稽可笑的;**bizarre**奇异的;
 			2. [cryptic](dic://cryptic), [cryptical](dic://cryptical), [deep](dic://deep), [inscrutable](dic://inscrutable), [mysterious](dic://mysterious), [mystifying](dic://mystifying), [paradoxical](dic://paradoxical)
 			3. [comprehensible](dic://comprehensible), [comprehendible](dic://comprehendible)
-	3. reprehend
+	4. reprehend
 		1. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 		2. **condemn**判刑，定罪;**rebuke**指责，非难;**reproach**责备;**doth**从事;**punish**严厉对待;**forgive**原谅;**repent**忏悔;**condone**宽恕;**denounce**谴责;**apprehend**理解;**lest**唯恐，以免;
 		3. reprehension
@@ -2664,12 +3087,12 @@
 		4. _adj._ [intelligent](dic://intelligent), [acquisitive](dic://acquisitive)
 		5. _n._ [nonprehensile](dic://nonprehensile), [unintelligent](dic://unintelligent), [stupid](dic://stupid), [unacquisitive](dic://unacquisitive)
 		6. **claws**爪子;**limbs**四肢;**fleshy**肉的;**grasping**贪婪的;**beak**鸟嘴;**fangs**尖牙;**jaws**狭口;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**tail**尾部;**hind**后部的;**snout**鼻子;
-	7. prehension
+	6. prehension
 		1. n. 抓住, 理解
 		2. _n._ [control](dic://control)
 		3. [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing)
 		4. **cognition**认识;**grasping**贪婪的;**perceptual**知觉的,有知觉的;**sensory**感觉的;**extremity**端点,尽头;**dexterity**灵巧;**reflexes**反应;**stimuli**刺激;**reflex**反射;**tactile**触觉的，有触觉的;
-	9. apprentice
+	7. apprentice
 		1. apprentice（学徒）：处于学习阶段的手工艺人  
 		2. 在古代西方的手工艺行业中，广泛采取学徒制（apprenticeship）的教育培训方式。学徒（apprentice）是手工艺行业中最低一级，要寄宿在行业中最高一级的master（师傅）家中充当学徒，一边为师傅干活，一边学习和实习。通常要学习3到6年后才能出师，升为“熟练工”（journeyman）。在大多数手工艺行业公会中，工匠的职称一般都划分为“学徒”（apprentice）、“熟练工”（journeyman）和“师傅”（master）这三个级别。  
 		3. 英语单词apprentice来自古法语aprentiz（学习者），而后者来自动词aprendre。同源的英语单词有apprehend（理解）。  

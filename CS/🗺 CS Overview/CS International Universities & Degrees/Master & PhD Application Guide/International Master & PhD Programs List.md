@@ -498,6 +498,8 @@ Course part (75 EC) The course part contains: 
 ### 🇩🇰 Danmark
 #### 👉 University of Copenhagen
 
+#### 👉 DTU
+
 
 ### 🇳🇴 Norway
 #### 👉 NTNU (Norway University of Science and Technology)
@@ -549,6 +551,30 @@ https://www.kth.se/en/studies/master/cybersecurity/entry-requirements-cybersecur
 
 https://studentaid.gov
 Federal Student Aid
+
+
+[25fall 上交CS一实习两科研 申请美新CSMaster 选校求定位]: https://instant.1point3acres.cn/thread/1092579
+选校：  
+冲刺  
+Columbia, MSCS  
+CMU, MITS  
+UCLA, MSCS  
+UIUC, MCS  
+主申  
+UCSD, MSCS  
+Gatech, CSE  
+Gatech, MSECE  
+NYU, MSDS (?)  
+Umich, MSDS (?)  
+Rice, MCS  
+保底  
+USC, CS28  
+USC, CS37  
+UCSD, MS in Machine Learning & Data Science Focus  
+NYU Tandon, MCS (?)  
+UCI, MSCS  
+NTU, MSAI  
+NUS, Msc in Data Science & Machine Learning
 #### 👉 Arizona State University (ASU)
 ##### Computer Science (Cybersecurity), MS
 Applicants must fulfill the requirements of both the Graduate College and the Ira A. Fulton Schools of Engineering.
@@ -586,6 +612,49 @@ The applicant's undergraduate GPA and depth of preparation in computer science a
 [apply now for BU](https://mycas.bu.edu/100457380/apply_now)
 
 [FAQ](https://www.bu.edu/cas/admissions/ma-ms/frequently-asked-questions/)
+#### 👉 Carnegie Mellon University  (CMU)
+https://www.cmu.edu/graduate/prospective/index.html
+
+[CMU MSISPM小众项目在读分享 - 2018.11.07]: https://www.chasedream.com/show.aspx?id=24718&cid=24
+
+##### Carnegie Mellon Institute for Strategy & Technology
+- ###### Master of Information Technology Strategy (MITS)
+	- https://www.cmu.edu/cmist/academics/graduate-programs/mits/index.html
+##### College of Engineering
+🏠 https://engineering.cmu.edu
+
+https://engineering.cmu.edu/education/graduate-studies/programs/index.html
+- ###### Electrical and Computer Engineering
+	- 
+- ###### Information Networking Institute
+	- https://www.cmu.edu/ini/admissions/howtoapply.html
+	- MSIN (information networking)
+	- MSIS (information security)
+	- MSAIE-IS (Artificial Intelligence Engineering - Information Security)
+	- MSIMITE and MSIT-IS (Bicoastal Programs: )
+##### School of Computer Science
+🏠 https://www.cs.cmu.edu/academics/overview-programs
+
+- ###### Computer Science (CSD)
+- ###### Software and Societal System Department (S3D)
+	- [Master of Software Engineering](https://mse.s3d.cmu.edu/)
+	- [Master of Software Engineering Online](https://mse.s3d.cmu.edu/applicants/mse-as-online/index.html)
+	- [Master of Software Engineering - Embedded Systems](https://mse.isri.cmu.edu/applicants/mse-ap/index.html)
+	- [Master of Software Engineering - Scalable Systems](https://mse.isri.cmu.edu/applicants/mse-ap/index.html)
+	- [M.S. in Information Technology - Privacy Engineering](https://privacy.cs.cmu.edu/)
+- ###### Language Technologies Institute (LTI)
+	- https://lti.cmu.edu/index.html
+- ###### Machine Learning (ML)
+	- http://www.ml.cmu.edu/
+##### Heinz College of Information Systems and Public Policy
+🏠 https://www.heinz.cmu.edu/
+
+https://www.heinz.cmu.edu/programs/
+- ###### Information Systems Management (MISM)
+- ###### AI Systems Management (AIM)
+- ###### Business Intelligence & Data Analytics (BIDA)
+- ###### Master of Science in Information Security Policy & Management (MSISPM)
+- ###### Master of Information Systems Management (MISM)
 #### 👉 University of Wisconsin-Madison
 https://grad.wisc.edu/apply/
 ##### Computer Science, MS
@@ -617,7 +686,8 @@ https://mhcid.washington.edu
 📄 https://www.topuniversities.com/universities/california-institute-technology-caltech
 #### 👉 University of Texas at Austin (UT Austin)
 📄 https://www.topuniversities.com/universities/university-texas-austin
-##### Computer Science /Master &PhD | College of Natural Sciences
+##### College of Natural Sciences | Computer Science /Master &PhD
+https://www.cs.utexas.edu/graduate-program
 https://www.cs.utexas.edu/graduate-program/prospective-students
 
 To be eligible for admission consideration, applicants must meet the Graduate School's [minimum requirements](http://catalog.utexas.edu/general-information/admission/graduate-admission/).
@@ -637,15 +707,34 @@ Applicants admitted to the Department of Computer Science graduate program usual
     - The minimum scores considered acceptable for admission by the Graduate School are:
         - TOEFL: 79 on the Internet-based test (iBT)
         - IELTS: An overall band of 6.5 on the Academic Examination
+##### Cockrell School of Engineering
+https://cockrell.utexas.edu
+https://cockrell.utexas.edu/academics/graduate-education/programs
+
+- ###### Electrical and Computer Engineering
+	- Software Engineering and Systems (SES)
+		- https://www.ece.utexas.edu/academics/graduate/tracks/software
+	- Decision, Information, and Communications Engineering (DICE)
+		- https://www.ece.utexas.edu/academics/graduate/tracks/dice
+	- Architecture, Computer Systems, and Embedded Systems (ACSES)
+- ###### Software Engineering
 #### 👉 Yale University
 📄 https://www.topuniversities.com/universities/yale-university
+#### 👉 University of Pennsylvania (UPenn)
+##### Engineering
+- ###### Master of Science in Engineering in Computer and Information Science (CIS/MSE)
+	- https://www.cis.upenn.edu/graduate/program-offerings/mse-in-cis/
+- ###### On-Campus MCIT Program Degree Requirements
+	- https://www.cis.upenn.edu/graduate/program-offerings/master-of-computer-and-information-technology/requirements/
+- ###### MSE in Data Science (DS)
+	- https://dats.seas.upenn.edu
 #### 👉 University of California, Irvine (UCI)
 #### 👉 University of California, Los Angeles (UCLA)
 https://grad.ucla.edu/admissions/steps-to-apply/
 https://grad.ucla.edu/admissions/research-requirements/
-
 ##### Graduate Program: Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
+https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/
 https://www.cs.ucla.edu/graduate-admissions/
 
 Applicants, _including U.S. citizens and Permanent Residents_, who do not hold a bachelor’s or higher degree from a university located in the United States or in another country in which English is both the spoken language of daily life _and_ the medium of instruction, or who have not completed at least two years of full-time study at such an institution, please consult [English Requirements](https://grad.ucla.edu/admissions/english-requirements/).
@@ -691,10 +780,10 @@ Faculty
 
 bearX
 https://bearx.co/
-##### computer science, MS/PhD
+##### Computer Science, MS/PhD
 https://eecs.berkeley.edu/academics/graduate/
 
-1. Industry-Oriented Degree Programs
+- ###### Industry-Oriented Degree Programs
 	1. https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/
 	2. Master of Engineering (M.Eng.)
 		1. TOEFL:  No min requirement. Avg admittee: >100 score; iBT: 90 minimum (or 7 out of 9 on the IELTS)
@@ -703,18 +792,18 @@ https://eecs.berkeley.edu/academics/graduate/
 		4. Strong technical background equivalent to a computer science bachelor’s degree.
 		5. Experience in programming, algorithms, data structures, and theory at or above the undergraduate level.
 	3. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
-2. Research-Oriented Degree Programs
-#### 👉 University of California, San Diego
+- ###### Research-Oriented Degree Programs
+#### 👉 University of California, San Diego (UCSD)
 ##### Department of Computer Science & Engineering
 https://cse.ucsd.edu/graduate/admissions
+
+https://cse.ucsd.edu/graduate/cse-graduate-application-checklist
 
 Engineering professionals are encouraged to consider the [Master of Advanced Studies (MAS) Degree Programs](https://cse.ucsd.edu/graduate/degree-programs/master-advanced-studies-mas).
 - [Doctoral (PhD) Degree Program](https://cse.ucsd.edu/graduate/degree-programs/phd)
 - [Master of Science (MS) Degree Program](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 - [Master of Data Science (MDS) Online Degree Program](http://omds.ucsd.edu/)
 - [Bachelor/Master (BS/MS) Combined Degree Program](https://cse.ucsd.edu/graduate/bachelorsmasters-program)
-
-
 #### 👉 Purdue University
 ##### Cybersecurity and Trusted Systems /Masters
 https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology
@@ -836,7 +925,7 @@ https://warmup.khoury.northeastern.edu/programs/cybersecurity-ms-2/#request-info
 ##### Department of Computer Science
 
 https://engineering.virginia.edu/department/computer-science/academics/cs-graduate-programs
-#### 👉 Virginia Tech
+#### 👉 Virginia Tech (VT)
 ##### Computer Science & Applications
 https://secure.graduateschool.vt.edu/graduate_catalog/program.htm?programID=002d14431ce38e83011ce38e96c30044&nocache=1705737207838
 (with accelerated BS/MS programs)
@@ -855,6 +944,26 @@ https://grad.gatech.edu/admissions/international
 https://grad.gatech.edu/degree-programs/cybersecurity-campus
 ##### Computer Science (On Campus)
 https://grad.gatech.edu/degree-programs/computer-science-campus
+
+**TOEFL Requirements**
+- Institute Code: 5248
+- Department Code: 78
+- Minimum Score Required:
+    - Internet-based: 100, with minimum section scores of 19
+
+**IELTS Academic Requirements**
+- Scores submitted to Georgia Institute of Technology, "Graduate"
+- Minimum Score Required: ≥ 7.5
+    - Minimum band score for Reading, Listening, and Speaking is 6.5
+    - Minimum band score for Writing is 5.5
+
+**GRE Requirements**
+- Institute Code: R5248
+- Department Code: 0402
+- **Master's**
+    - General Test: Applicants scores are expected to be at least 153 Verbal, 155 Quantitative, and 3.0 in the Analytical sections
+- **PhD**
+    - General Test: Scores are optional
 #### 👉 Columbia University in the City of New York
 ##### Computer Engineering
 Computer Engineering: MS
@@ -960,7 +1069,7 @@ Note: International candidates must check the [admission equivalencies](https:/
 - Complete up to 6 units from the OCICS master’s courses each with 70% (B) or higher grade (taken during their Bachelor’s program in Computer Science or Software Engineering).
 - Have an admission average of A- (80%) or higher.
 - Have a thesis supervisor.
-#### 👉 University of British Columbia
+#### 👉 University of British Columbia (UBC)
 ##### UBC Vancouver
 ###### MASTER OF ENGINEERING IN ELECTRICAL AND COMPUTER ENGINEERING (MENG)
 https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering
@@ -971,13 +1080,26 @@ https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-
 Master of Science (MSc), Doctor of Philosophy (PhD)
 
 https://cmps.ok.ubc.ca/graduate/computer-science/
-#### 👉 University of Toronto
+#### 👉 University of Toronto (UoT)
 ##### Computer Science
+https://sgs.calendar.utoronto.ca/degree/Computer-Science
+
+International applicants considering applying to graduate programs in Computer Science are strongly encouraged to apply to either the [Master of Science in Applied Computing](https://mscac.utoronto.ca/prospective-students/) or the [Direct-Entry PhD Program](https://web.cs.toronto.edu/graduate/phd).
+
+**International applicants are not considered for the MSc in Computer Science.**
+
 > 只要托福成绩，≥ 93/120
 
 Computer Science offers two degrees: 
-- Applied Computing (MScAC)
-- Computer Science (MSc and PhD)
+- ###### Applied Computing (MScAC)
+	- https://mscac.utoronto.ca/apply/
+	- https://mscac.utoronto.ca/apply/
+	- Can i apply for both ?
+		- Yes. Please note that the two programs have separate application forms, and payment of the application fee is required for both.
+	- Can I defer my offer of admission?
+		- Deferrals are granted at the discretion of the Program Director, in line with the deferral policy applicable to the respective admissions cycle. Deferrals are usually only permitted once and are valid until the following academic year.
+- ###### Computer Science (MSc and PhD)
+	- https://web.cs.toronto.edu/graduate/msc
 There is also Collaborative Specializations:
 - [Genome Biology and Bioinformatics](https://sgs.calendar.utoronto.ca/collaborative/Genome-Biology-and-Bioinformatics) 
     - Computer Science, PhD
@@ -987,8 +1109,6 @@ There is also Collaborative Specializations:
     - Computer Science, MSc, PhD
 - [Robotics](https://sgs.calendar.utoronto.ca/collaborative/Robotics)
     - Computer Science, MSc, PhD
-
-https://sgs.calendar.utoronto.ca/degree/Computer-Science
 
 
 
@@ -1016,10 +1136,18 @@ https://www.1point3acres.com/bbs/thread-931508-1-1.html
 直达东京大学CS低GPA修考飘过
 
 
-
 ### 🇸🇬 Singapore
 ↗ [Singapore 🇸🇬](../../../../International%20Politics%20&%20Countries'%20Overview/Countries'%20Overview/Singapore%20🇸🇬.md)
 #### 👉 NUS
+##### School of Computing
+https://nusgs.nus.edu.sg/programmes/?faculty=Computing
+
+- M.Sc + Ph.D (Research)
+- Master of Computing (Infocomm Security Specialisation) (Coursework)
+- 
+##### ISS
+https://nusgs.nus.edu.sg/programmes/?faculty=NUS-ISS
+
 #### 👉 NTU
 
 
