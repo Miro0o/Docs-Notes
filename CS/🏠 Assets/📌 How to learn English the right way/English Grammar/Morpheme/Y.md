@@ -271,10 +271,11 @@
 ### + \*yeug- +
 1. **junct-, join-, jug-** = join, 表示“结合，连接”。源自拉丁语 iugum "yoke," iungere "to join."
 	1. adjunct
-		1. n. 附属物, 附件, 助手, 修饰语  a. 附属的
-		2. adjunctive
-		3. adjunction
-	2. conjunct
+		1. (ancillary, incidental, contingent, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+		2. n. 附属物, 附件, 助手, 修饰语  a. 附属的
+		3. adjunctive
+		4. adjunction
+	3. conjunct
 		1. a. 结合的, 聚合的
 		2. conjuncture
 		3. conjunctly
@@ -285,7 +286,7 @@
 		2. disjunctor
 		3. disjunctive
 		4. disjunction
-	6. injunction
+	5. injunction
 		1. in-不 + junction【连接】 → 不让连接 → 禁止令。
 		2. _n._ [command](dic://command), [bid](dic://bid), [bidding](dic://bidding), [dictation](dic://dictation), [prohibition](dic://prohibition), [ban](dic://ban), [proscription](dic://proscription)
 		3. **restraining**抑制的,遏制的,控制的;**lawsuit**诉讼;**ruling**统治的，支配的;**decree**法令;**prohibition**禁止;**ban**禁止;**desist**停止;**reinstatement**复职;**court**法院;**writ**令状;**remand**还押;
@@ -294,7 +295,10 @@
 		6. Ask him if I could get an injunction to stop a face. /问他我可不可以申请禁制令。
 		7. The judge issued a preliminary injunction, stopping the state from enforcing the medication ban while that challenge goes forward. /该法官发布了一项初步禁令，在质疑持续期间，禁止该州执行该药物禁令。
 		8. injunctive
-	7. junction (junction, confluence)
+			1. - adj. 命令的；指令的；禁止令
+			2. _injunctive relief_ 禁令性救济；法令救济；强制救济；申请制止侵权、违约行为的权利
+			3. 
+	6. junction (junction, confluence)
 		1. n. 连接, 会合处, 交叉点
 		2.  [conjunction](dic://conjunction), [conjugation](dic://conjugation), [colligation](dic://colligation)
 		3.  [articulation](dic://articulation), [join](dic://join), [joint](dic://joint), [juncture](dic://juncture)
@@ -316,23 +320,24 @@
 		19. exjunction
 		20. dijunction
 		21. abjunction
-	8. juncture
-		1. n. 接合, 连接, 接缝
-		2. - n. 接缝；连接；接合；特定时刻，关头；交接处，接合点；音渡
-		3. [occasion](dic://occasion)
-		4.  [critical point](dic://critical point), [crossroads](dic://crossroads)
-		5.  [articulation](dic://articulation), [join](dic://join), [joint](dic://joint), [junction](dic://junction)
-		6. _n._ [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event), [crisis](dic://crisis), [connection](dic://connection), [connexion](dic://connexion)
-		7. **point**要点;**moment**瞬间;**crossroads**十字路口;**pivotal**关键的;**outset**开始;**momentous**重大的, 严重的;**crucial**决定性的;**retrospect**回顾，追溯;**circumstance**环境;**confluence**汇合处,汇流处,交汇处;**salient**突出的;
-		8. _at this juncture_ 在此时，值此之际 /
-		9. an important juncture in a man’s career /人生历程中的重要关头
-		10. it is difficult to say at this juncture whether this upturn can be sustained /在这个当口，很难讲这种好转的情况是否会持续不变。
-		11. the plane crashed at the juncture of two mountains. /飞机在两座大山的交界处失事了。
-		12. negotiations that had reached a crucial juncture; /已走到关键性时刻的谈判；
-		13. "At this juncture in our nation's affairs, we need firm leadership." /"国家事务于此关键时刻,我们需要坚强的领导。"
-		14. 
-		15. junctura
-	9. jugular
+	7. juncture
+		1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, juncture)
+		2. n. 接合, 连接, 接缝
+		3. - n. 接缝；连接；接合；特定时刻，关头；交接处，接合点；音渡
+		4. [occasion](dic://occasion)
+		5.  [critical point](dic://critical point), [crossroads](dic://crossroads)
+		6.  [articulation](dic://articulation), [join](dic://join), [joint](dic://joint), [junction](dic://junction)
+		7. _n._ [happening](dic://happening), [occurrence](dic://occurrence), [occurrent](dic://occurrent), [natural event](dic://natural event), [crisis](dic://crisis), [connection](dic://connection), [connexion](dic://connexion)
+		8. **point**要点;**moment**瞬间;**crossroads**十字路口;**pivotal**关键的;**outset**开始;**momentous**重大的, 严重的;**crucial**决定性的;**retrospect**回顾，追溯;**circumstance**环境;**confluence**汇合处,汇流处,交汇处;**salient**突出的;
+		9. _at this juncture_ 在此时，值此之际 /
+		10. an important juncture in a man’s career /人生历程中的重要关头
+		11. it is difficult to say at this juncture whether this upturn can be sustained /在这个当口，很难讲这种好转的情况是否会持续不变。
+		12. the plane crashed at the juncture of two mountains. /飞机在两座大山的交界处失事了。
+		13. negotiations that had reached a crucial juncture; /已走到关键性时刻的谈判；
+		14. "At this juncture in our nation's affairs, we need firm leadership." /"国家事务于此关键时刻,我们需要坚强的领导。"
+		15. 
+		16. junctura
+	8. jugular
 		1. yoga（瑜伽）：追求“合一”的修行方式  
 		2. yoga（瑜伽）起源于印度，一种达到身体、心灵与精神和谐统一的运动方式，包括调身的体位法、调息的呼吸法、调心的冥想法等。英语单词yoga来自梵语yoga-s，其含义是“一致”、“结合”或“和谐”，而后者又来自原始印欧语词根yeug-（结合）。所以yoga一词的字面意思就是“合一”，这正是瑜伽运动的宗旨，即身心合一和天人合一。  
 			1. 与yoga同源的单词还有yoke（轭）、jugular（颈部的）  
@@ -348,8 +353,8 @@
 		9. The details are extraordinary, my own favorite is the jugular vein, which is swollen /这座雕像的细节非常特别，我最喜欢的是其胀起的颈静脉。
 		10. The blood's still leaving the head through other pathways, so flowing backwards through a jugularvein may not be dangerous. /血液仍会从其他血管流出头部，因此血液从颈静脉倒流可能并不危险。
 		11. transjugular
-	10. subjunctive
-	11. join
+	9. subjunctive
+	10. join
 		1.  [articulation](dic://articulation), [joint](dic://joint), [juncture](dic://juncture), [junction](dic://junction)
 		2.  [union](dic://union), [sum](dic://sum)
 		3.  [fall in](dic://fall in), [get together](dic://get together)
@@ -410,7 +415,7 @@
 			32. conjoints
 			33. conjoint
 			34. abjoint
-	13. adjoin
+	11. adjoin
 		1.  [border](dic://border), [edge](dic://edge), [abut](dic://abut), [march](dic://march), [butt](dic://butt), [butt against](dic://butt against), [butt on](dic://butt on)
 		2. [touch](dic://touch), [meet](dic://meet), [contact](dic://contact)
 		3. _v._ [touch](dic://touch), [meet](dic://meet), [contact](dic://contact), [add](dic://add)
@@ -419,7 +424,7 @@
 		6. the gates are flush with the adjoining fencing /大门与边上的围栏一样高。
 		7. adjoining
 		8. adjoiner
-	14. conjoin (combine)
+	12. conjoin (combine)
 		1. _vt. & vi._ 结合, 联合
 		2. [marry](dic://marry), [get married](dic://get married), [wed](dic://wed), [hook up with](dic://hook up with), [get hitched with](dic://get hitched with), [espouse](dic://espouse)
 		3. _v._ [connect](dic://connect), [link](dic://link), [tie](dic://tie), [link up](dic://link up), [unite](dic://unite), [unify](dic://unify)
@@ -427,7 +432,7 @@
 		5. an approach which conjoins theory and method. /结合了理论和方法的态度。
 		6. Conjoined twin baby boys in Syria have been evacuated from a rebel stronghold to a Children's hospital in Damascus. /叙利亚连体男婴已从反对派阵地转移到大马士革儿童医院
 		7. conjoined
-	15. disjoin
+	13. disjoin
 		1. [disjoint](dic://disjoint)
 		2. _v._ [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide), [part](dic://part)
 		3. _n._ [join](dic://join), [bring together](dic://bring together), [conjoin](dic://conjoin)
@@ -444,7 +449,7 @@
 			8. disjointed sentences. /不连贯的句子
 			9. the loss of the area disjointed military plans. /该地区的沦陷打乱了军事计划。
 			10. To make things more confusing, Benjy's narration is disjointed in time, slipping between past and present without warning. /为了让事情更加混乱，本吉的叙述在时间上是支离破碎的，毫无预警地在过去和现在之间切换。
-	16. enjoin
+	14. enjoin
 		1. en-,进入，使，join,连接。字面意思即参与，施加影响，进一步指责令，嘱咐。参照 interdict.
 		2. [order](dic://order), [tell](dic://tell), [say](dic://say)
 		3. _v._ [forbid](dic://forbid), [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow), [request](dic://request)
@@ -457,19 +462,19 @@
 		10. the code enjoined members to trade fairly /章程要求所有成员进行公平贸易。
 		11. the charitable deeds enjoined on him by religion /宗教要求他进行的善行。
 		12. Don't mention it, ' he enjoined me eagerly. /" 没有关系，" 他恳切地嘱咐我。
-	17. rejoin
+	15. rejoin
 		1.  [retort](dic://retort), [come back](dic://come back), [repay](dic://repay), [return](dic://return), [riposte](dic://riposte)
 		2. _v._ [join](dic://join), [fall in](dic://fall in), [get together](dic://get together), [answer](dic://answer), [reply](dic://reply), [respond](dic://respond)
 		3. **join**参加;**reunite**使再结合;**re-enter**再次进入或加入中;**reunited**重聚;**abandon**离弃;**leave**离开;**regroup**重新组合;**return**返回;**departed**过去的;**joining**连接,接缝,连接物;**leaving**离开;
 		4. _[rejoining](dic://rejoining)_  n. 再连接；团聚; v. 使再连接；再加入（rejoin的ing形式）;
 		5. The same day it rejoined the world health organization /就在同一天，它重新加入了世界卫生组织。
 		6. Essentially as an invitation for their spirits to rejoin the living. /本质上是邀请他们的灵魂回到活人身边。
-	18. subjoin
+	16. subjoin
 		1. - vt. 增补；附加
 		2. _v._ [append](dic://append), [tag on](dic://tag on), [tack on](dic://tack on), [tack](dic://tack), [hang on](dic://hang on)
 		3. **preface**前言;**doubtless**无疑地, 肯定地;**furnish**供应;**aforesaid**上述的;**omit**省略;**viz**即;**particulars**事实;**enclose**围绕;
 		4.  The ceremony is quite broken off, " subjoined the voice behind us /“仪式完全中断了，”我们身后的声音附和道。
-	19. conjugate
+	17. conjugate
 		1.  con-,表强调，-jug,连接，词源同 join,jugular.
 		2. v. 结合, 配合, 使成对, 结亲  
 		3. a. 结合的, 成对的; 同根变形的  n. 同根变形词
@@ -500,7 +505,7 @@
 		14. conjugative
 		15. conjugation
 		16. biconjugate
-	23. subjugate (capitulate, subjugate, subdue, succumb)
+	18. subjugate (capitulate, subjugate, subdue, succumb)
 		1. (repress, quash, keep down, subjugate, reduce)
 		2. subjugate（征服）：强迫俘虏从矛轭下走过  
 		3. 在古罗马时期，在战场上被俘的俘虏会受到一种特别的处置：获胜军队的士兵将两只长矛交叉搭成一个轭，强迫战俘们低下头，从矛轭下通过。这种仪式象征着获胜者对战俘的征服。英语单词subjugate就源自这种做法。它来自拉丁语subjugatus，是动词subjugare的过去分词形式，词干由sub（下面）+jug（结合、轭），字面意思就是“在轭的下面”，即强迫战俘从矛轭的下面通过。习语pass under the yoke（从矛轭下面通过）就是“低头认输”的意思。  
@@ -512,7 +517,7 @@
 		5. **subdue**征服;**conquer**战胜，征服;**liberate**解放;**humiliate**蒙羞;**destroy**毁坏;**invade**侵略;**subvert**推翻;**dominate**支配;**overthrow**打倒;**intimidate**恐吓, 威胁;**suppress**抑制;
 		6. Imperialism has not been able to subjugate China. /帝国主义不能征服中国。
 		7. the new ruler firmly subjugated the Church to the state. /新统治者果断地使教会从属于国家。
-	25. jostle
+	19. jostle
 		1. 1 - 来自 joust,推挤，打斗，-le,表反复。引申词义竞争，争夺。拼写比较 claim,clamor.
 		2. _n._ [shove](dic://shove)
 		3. _v._ [make](dic://make), [work](dic://work), [push](dic://push), [force](dic://force)
@@ -521,20 +526,20 @@
 		6. photographs to jostle the mind and the funny bone /搅扰心智和触发幽默感的照片。
 		7. a jumble of images jostled for attention. /纷乱的图像令人目不暇接。
 		8. jostled my way through the mob. /从人群中挤过去
-	26. joust
+	20. joust
 		1. joust [dʒaʊst] n. 竞技；厮打，vi. 进行马上长矛比武；竞争。 jousting长枪比武大赛是两名骑士之间的武术竞技，在中世纪最为兴盛。参赛的骑士主要用长枪攻击疾驰过来的对手，把对方打下马的骑士为胜利者。来自拉丁词根jug-,juxta-,junct-，表to join together，双方come together时才能互相攻击。
 		2. _n._ [struggle](dic://struggle), [battle](dic://battle)
 		3. _v._ [contend](dic://contend), [fight](dic://fight), [struggle](dic://struggle)
 		4. **duel**决斗;**knights**骑兵，骑士;**knight**骑士，武士;**sparring**拳击;**battle**战役;**duke**公爵，君主;**sword**刀，剑;**skirmish**小冲突，小规模战斗;**brawl**争吵;**swords**宝剑;**head-to-head**肉搏战,白刃战;
 		5. _[jousting](dic://jousting)_  v. 马上长枪比武；参加比赛（joust的现在分词）; n. 竞争；比赛;
 		6. a politician who relishes a joust with reporters. /喜欢和记者过不去的政治家
-	27. junta
+	21. junta
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **dictatorship**独裁;**dictator**独裁者;**coup**政变;**regime**政权，政体;**authoritarian**权力主义的,专制的;**Mugabe**穆加比;**government**政府;**military**军事的;**Burma**缅甸;**Burmese**缅甸的;**Myanmar**缅甸;
 		3. _[military junta](dic://military%20junta)_  军事执政团
 		4. _[military junta of salvation](dic://military%20junta%20of%20salvation)_ 军人救国委员会
 		5. the ruling junta; ruling circles of the government. /执政的军人集团；政府的执政人员
-	28. junto
+	22. junto
 		1. _n._ [clique](dic://clique), [coterie](dic://coterie), [ingroup](dic://ingroup), [inner circle](dic://inner circle), [pack](dic://pack), [camp](dic://camp)
 		2. **que**阙;**con**欺骗，哄骗;
 		3. [cabal](dic://cabal), [faction](dic://faction), [camarilla](dic://camarilla)
@@ -578,16 +583,17 @@
 			3. judgemental
 		12. judge-made
 	4. judicious
-		1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, )
-		2. _[judicious](dic://judicious)_  adj. 明智的；头脑精明的；判断正确的
-		3. _adj._ [prudent](dic://prudent)
-		4. _n._ [imprudent](dic://imprudent)
-		5. **careful**仔细的，小心的;**prudent**谨慎的;**shrewd**精明的;**deft**灵巧的;**skillful**熟练的;**astute**机敏的;**sensible**明智的;**diligent**勤勉的;**cautious**谨慎的;**artful**狡猾的;**conscientious**认真的, 勤奋的;
-		6. a judicious change of policy /明智的政策改变
-		7. an article with a judicious use of examples /一篇巧妙利用例证的文章
-		8. judiciousness
-		9. judiciously
-		10. injudicious, injudiciously
+		1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
+		2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+		3. _[judicious](dic://judicious)_  adj. 明智的；头脑精明的；判断正确的
+		4. _adj._ [prudent](dic://prudent)
+		5. _n._ [imprudent](dic://imprudent)
+		6. **careful**仔细的，小心的;**prudent**谨慎的;**shrewd**精明的;**deft**灵巧的;**skillful**熟练的;**astute**机敏的;**sensible**明智的;**diligent**勤勉的;**cautious**谨慎的;**artful**狡猾的;**conscientious**认真的, 勤奋的;
+		7. a judicious change of policy /明智的政策改变
+		8. an article with a judicious use of examples /一篇巧妙利用例证的文章
+		9. judiciousness
+		10. judiciously
+		11. injudicious, injudiciously
 			1. _[injudicious](dic://injudicious)_  adj. 不明智的；不慎重的；浅薄的；不聪明的
 			2. I took a few injudicious swigs of potent cider. /我很不明智地喝了几大口烈性苹果酒。
 	6. prejudice
@@ -713,7 +719,7 @@
 		8. On receiving this the victim might either openly abjure his former ways, or might fly from the country. /受到敌视的人接到警告以后，可以公开宣布放弃原有观点，或逃奔国外。
 		9. Some abjure the daunting unknowns of action and drown in their tailcoats or beds. /有些人放弃了行动中令人生畏的未知数，并淹没在他们的燕尾服或床上。
 	5. adjure (adjudge)
-		1. (bid, beseech, entreat, press, conjure, adjure, obtest, supplicate, solicit,)
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
 		2. ad- + jure-发誓
 		3. vt. 恳请, 恳求, 命令, 起誓
 		4. [bid](dic://bid), [beseech](dic://beseech), [entreat](dic://entreat), [press](dic://press), [conjure](dic://conjure)
@@ -732,8 +738,9 @@
 	8. objurgate
 		1. ob- + jur-发誓 + g-做 + -ate
 		2. _[objurgate](dic://objurgate)_  v. 痛骂，训斥，谴责
-		4.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant)
-		5. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite)
+		4. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 		6. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery)
 		7. _v._ [denounce](dic://denounce), [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof)
 		8. _[abuse berate objurgate curse](dic://abuse%20berate%20objurgate%20curse)_ 放肆地乱骂

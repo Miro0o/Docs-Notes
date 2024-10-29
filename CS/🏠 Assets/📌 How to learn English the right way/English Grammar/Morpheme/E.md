@@ -261,7 +261,7 @@
 	1. indigency
 	2. indigent
 		1. indi-,在内，在里，来自 in-的扩大形式，-ig,缺乏，需要，来自拉丁语 egere,需要的，来自 PIE*angh,紧的，紧缩的，词源同 anguish,anxious.引申词义贫穷的。
-		2. (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+		2. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury)
 		3.  [destitute](dic://destitute), [impoverished](dic://impoverished), [necessitous](dic://necessitous), [needy](dic://needy), [poverty-stricken](dic://poverty-stricken)
 		4. _adj._ [poor](dic://poor)
 		5. _n._ [rich](dic://rich)
@@ -280,12 +280,13 @@
 
 ### ⭐ + \*eghs- + = out
 1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
-	1. exoteric (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric)
-		1. exo-外 + ter-比较级后缀 + -ic
-		2. _n._ [esoteric](dic://esoteric)
-		3. **esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**occult**神秘的;**mysticism**神秘主义;**metaphysics**形而上学,玄学;**mystic**神秘的;**mystical**神秘的;**transcendental**超凡的;**orthodox**正统的;**dogmatic**教条的;**astrology**占星术;
-		4. He had been appointed a committee-man, and said that he knew secrets of which the exoteric knew nothing. /他被任命为委员会成员， 并说他知道外行人一无所知的秘密。
-	2. exotic (esoteric, excoriate, exorcize, exotic) 
+	1. exoteric 
+		1.  (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric, occult, impenetrable, inscrutable, uninformative)
+		3. exo-外 + ter-比较级后缀 + -ic
+		4. _n._ [esoteric](dic://esoteric)
+		5. **esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**occult**神秘的;**mysticism**神秘主义;**metaphysics**形而上学,玄学;**mystic**神秘的;**mystical**神秘的;**transcendental**超凡的;**orthodox**正统的;**dogmatic**教条的;**astrology**占星术;
+		6. He had been appointed a committee-man, and said that he knew secrets of which the exoteric knew nothing. /他被任命为委员会成员， 并说他知道外行人一无所知的秘密。
+	3. exotic (esoteric, excoriate, exorcize, exotic) 
 		1. exo-外 + -tic表形容词 → 从外面来的。
 		2.  [alien](dic://alien)
 		3. _adj._ [foreign](dic://foreign), [strange](dic://strange), [unusual](dic://unusual)
@@ -294,7 +295,7 @@
 		6. _exotic plant_ 外来植物；引入的植物
 		7. _exotic dancer_ 脱衣舞女
 		8. exoticism
-	3. eff
+	4. eff
 		1. _n._ 字母f
 		2. _v._ 弄糟,滚开,咒骂
 		3. _v._ [copulate](dic://copulate), [mate](dic://mate), [pair](dic://pair), [couple](dic://couple)
@@ -758,12 +759,14 @@
 	1. sumptuary
 	2. sumptuosity
 	3. sumptuous, (profusion, proliferate, effusive)
-		1. sumptu-花费 + -ous形容词后缀 → 拿钱去大把花 → 奢侈的。
-		2.  来自拉丁语 sumptus,购买的，花销的，吃喝的，过去分词格于 sumere,购买，花销，缩写自*sub-emere,来自 sub,向下，emere,买，词源同 assume,assumption,emption.-ous,形容词后缀。后引申词义奢华的，奢侈的。
-		3. **opulent**富裕的;**exquisite**精致的, 精美的;**delectable**令人愉快的;**luxurious**奢侈的;**lavish**浪费的;**luscious**甘美的;**scrumptious**可口的,美味的;**decadent**颓废的;**mouth-watering**流着口水的;**splendid**辉煌的;**lush**丰富的，豪华的;
-		4. 
-		5. sumptuousness
-		6. sumptuously
+		1. (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
+		2. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
+		3. sumptu-花费 + -ous形容词后缀 → 拿钱去大把花 → 奢侈的。
+		4.  来自拉丁语 sumptus,购买的，花销的，吃喝的，过去分词格于 sumere,购买，花销，缩写自*sub-emere,来自 sub,向下，emere,买，词源同 assume,assumption,emption.-ous,形容词后缀。后引申词义奢华的，奢侈的。
+		5. **opulent**富裕的;**exquisite**精致的, 精美的;**delectable**令人愉快的;**luxurious**奢侈的;**lavish**浪费的;**luscious**甘美的;**scrumptious**可口的,美味的;**decadent**颓废的;**mouth-watering**流着口水的;**splendid**辉煌的;**lush**丰富的，豪华的;
+		6. 
+		7. sumptuousness
+		8. sumptuously
 
 
 ### -eme = unit, 表示“...单位”
@@ -910,7 +913,8 @@
 		9. indigenous Indian tribes /本土印第安人部落。
 		10. the discord between indigenous and Western cultures /本土文化和西方文化之间的不协调。
 		11. indigent
-			1. indigently
+			1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel)
+			2. indigently
 	54. industry
 		1. indu-在内，在里 + -stry来自-stru , 建造，建设。
 		2. n. 工业, 生产制造; 行业; 勤劳
@@ -1292,16 +1296,16 @@
 8. **eso-** = within, 表示“内”。源自希腊语 eso "within."
 	1. esoteric
 		1. (intrinsic, exorcise, occult)
-		2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative) 
-		3. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
-		4. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
-		5. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
-		6. esoteric interests. /少数人的利益
-		7. esoteric philosophical debates. /深奥的哲学辩论。
-		8. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
-		9. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
-		10. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
-		11. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
+		2.  (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric, occult, impenetrable, inscrutable, uninformative)
+		4. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
+		5. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
+		6. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
+		7. esoteric interests. /少数人的利益
+		8. esoteric philosophical debates. /深奥的哲学辩论。
+		9. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
+		10. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
+		11. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
+		12. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
 9. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
 	1. etc.. (too many!)
 10. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
@@ -1833,65 +1837,119 @@
 	1. episiocele
 	2. etc...
 8. **ob-, oc-, of-, op-** = before, toward, to against, 去，朝向，在...方向，在上，相对
-	1. obdurate, obdurability, obduracy, 
+	1. obdurate (obstinate, obdurate)
+		1. obdurability
+		2. obduracy, 
 	2. obbligato
-	3. obfuscate, obfuscation, obfusticated
+	3. obfuscate
+		1. obfuscation
+		2. obfusticated
 	4. object
 		1. objectless, objective, 
 		2. objection,
 		3. objectify.
 		4. etc...
-	5. objurgate, objurgatory, objurgation
-	6. oblate, oblatory, oblation
-	7. oblige, disoblige
-		1. obligor, obliger
-		2. obliging, disobliging
-		3. obligee
-		4. obligate, oligator, obligation
-	8. oblique
+	5. objurgate
+		1. 
+		2. objurgatory
+		3. objurgation
+	7. oblate
+		1. n. 献身于修会的俗人  
+		2. a. 献身修会的, 扁圆的, 椭圆的
+		3. oblatory
+		4. oblation
+			1. n. 向上帝的供奉, 祭献, (对宗教、慈善业的)损献, 祭品
+			2. oblate【祭献】 + -ion, 表名词，引申词义献祭，祭品，祭物，是单词oblate 派生的名词。
+			3.  ob-,向前，朝向，-lat,带，携带，词源同 translate.引申词义献祭，祭品，祭物。
+	8. oblige
+		1. ob-加强 + lig-绑 + -e → 绑住某人 → 迫使 , 束缚。
+		2. disoblige
+		3. obligor, obliger
+		4. obliging, disobliging
+		5. obligee
+		6. obligate, oligator, obligation
+	10. oblique
 		1. obliquus, 
 		2. obliquity, obliquitous
 		3. obliquimeter
 		4. obliquely
-	9. obliterate, obliteration
-	10. oblong
-	11. obloguy
-	12. obscene, obscenity, antiobscenity
-	13. obscure, obscurity, obscuration, obscurant
-		1. obscurantism
-	14. obsecrate, obsecration, 
-	15. obsequial, 
-	16. obsequious, obsequies
-	17. observe
+	11. obliterate, obliteration
+	12. oblong
+	13. obloquy
+	14. obscene
+		1. obscenity
+		2. antiobscenity
+	15. obscure
+		1. obscurity
+		2. obscuration
+		3. obscurant
+		4. obscurantism
+	17. obsecrate, obsecration, 
+	18. obsequial, 
+	19. obsequious
+		1. _adj._ 奉承拍马的,卑躬屈膝的
+		2. obsequies
+	20. observe
 		1. unobserved, observing
 		2. observatory, observation
 		3. observant, observance
 		4. observability
 		5. etc..
-	18. obsess, obsessive, obsession
-	19. obstacle
-	20. obstetric, obstetrics, obstetrician, obstetrical
-	21. obstinacy, obstinate
-	22. obstreperous
-	23. obstruct
+	21. obsess
+		1. obsessive
+		2. obsession
+	22. obstacle
+	23. obstetric
+		1. obstetrics
+		2. obstetrician
+		3. obstetrical
+	24. obstinate (obstinate, obdurate)
+		1. obstinacy
+	25. obstreperous
+	26. obstruct
 		1. obstructor,
 		2. obstructive
 		3. obstruction
 		4. etc..
-	24. obtain (abstain)
+	27. obtain (abstain)
 		1. obtainable,
 		2. obtaining
-	25. obtest, obtestation
-	26. obtrude, obtruder
-		1. obtruncate
-		2. obtrusion
-		3. obtrusive,
-	27. obtund, obtundent
-	28. obtuse, obtusion
-	29. obverse, obvert, obversion
-	30. obviate, obviation
-	31. obvious, obviously
-	32. occasion
+	28. obtest
+		1. obtestation
+	29. obtrude
+		1. obtruder
+		2. obtruncate
+		3. obtrusion
+		4. obtrusive,
+	31. obtund
+		1. - vt. 使缓和，使迟钝；减轻
+		2. obtundent
+	33. obtuse
+		1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+		2. obtusion
+	34. obverse (observe)
+		1. n. 正面；对立面；主要的一面 
+		2. adj. 正面的；[植] 倒转的；对应面的
+		3. _n._ [option](dic://option), [alternative](dic://alternative), [choice](dic://choice), [side](dic://side)
+		4. _n._ [reverse](dic://reverse), [verso](dic://verso)
+		5. **coin**硬币;**coinage**造币;**inscription**题字;**inscribed**印刻的;**emblem**象征;**reverse**逆转;**medallion**大奖章;**engraved**被牢记的;**insignia**徽章;**commemorative**纪念的;**gilt**镀金;
+		6. the obverse of this issue /这个问题中更引人注目的一面
+		7. the obverse side of things /事物的正面
+		8. the obverse side of a statue. /塑像的正面
+		9. true solitude is the obverse of true society /真正的孤独是真正社交的对立面。
+		10. Both notes, with a denomination of 20 yuan, feature the official emblem of the 24th Winter Olympics on the obverse. /两款纸币面值均为二十元，正面均印有第 24 届冬奥会会徽。
+		11. 
+		12. obvert, obversion
+	36. obviate (obviate, deviate, devious, vitiate)
+		1. [rid of](dic://rid of), [eliminate](dic://eliminate)
+		2. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+		3. _v._ [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
+		4. _n._ [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
+		5. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
+		6. obviation
+	39. obvious
+		1. obviously
+	40. occasion
 		1. oc-使 + cas-落下 + -ion名词后缀 → 使…落下 → 事情发生。
 		2. n. （某事发生的）时刻，时候；<正式>时机，适当的机会；特殊（或重大）场合，特殊（或重大）事件；<正式>理由，原因 
 		3. v. <正式> 引起，惹起
@@ -1918,7 +1976,7 @@
 				2. Transcending subjectivist aesthetics, Gadmer s discussion of **occasionality** in his "Truth and Method" Bridges his artistic ontology and hermeneutical ontology on a universal level /伽达默尔在《真理与方法》一书中对艺术作品偶缘性问题的讨论，是他超越主观论美学而从艺术本体论向普遍意义的诠释学本体论过渡的一座桥梁。
 				3. _[occasionality and inevitability](dic://occasionality%20and%20inevitability)_ 偶然性和必然性
 			16. occasional
-	34. occident (orient)
+	41. occident (orient)
 		1. oc-一再 + cid-落下 + -ent表名词。
 		2. n. 欧美国家；西方
 		3. occident - 日本素有Land of the Rising Sun（旭日之国）的别称，而亚洲（特别是远东）则一向被欧美人称为the Orient（东方）。orient一词源于拉丁语sōl oriēns（旭日），其中oriēns作rising（正在升起的）解，也可以说orient就是来自oriēns。在作形容词用时，orient除了表示“东方的”之外，至今仍然保留了“升起的”这一原义。orient和east的区别在于，前者属诗歌语言，而后者属普通词汇。orient在作名词用时，表示“东方（国家）”或“远东”，在美国英语中也常作动词用，表示“以……为方向（或目标）”、“定……的方位”、“使熟悉情况”等义，相当于英国英语orientate。  
@@ -1938,48 +1996,79 @@
 			6. **western**西方的，西部的;**Oriental**东方人的;**pacific**和平的;**civilization**文明, 文化;**modernity**现代性;**civilisation**文明;**eastern**东方的;**postmodern**后现代主义的;**bourgeois**资产阶级的;**cosmopolitan**世界性的;**Asiatic**亚洲人;
 			7. an Asian challenge to occidental dominance. /亚洲对西方统治地位的挑战。
 			8. On the occasion of an earlier operation, an occult occidental gave occasion to her attention. /在早先的一次手术之际，一个神秘的西洋人引起她的注意
-	35. occlude, ...
+	42. occlude, ...
 		1. occlusion
 		2. disocclude
 		3. occluder
 		4. occlusive
 		5. occlusior
-	36. occult
-		1. occultation
-		2. occultism
-	37. occupy, ..
+	43. occult
+		1. oc-强调 + cult-教派 → 在教派内不让别人知道 → 奥秘的。
+		2. a. 神秘的, 不可思议的, 超自然的  
+		3. v. 掩蔽, 隐藏  
+		4. n. 神秘之事, 神秘学
+		5.  (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric, occult, impenetrable, inscrutable, uninformative)
+		6. occultation
+		7. occultism
+	45. occupy, ..
 		1. preoccupied, preoccupy
 		2. occupation
 		3. occupant, occupancy
-	38. occur, ..
+	46. occur, ..
 		1. occurrent
-	39. offend, ...
+	47. offend, ...
 		1. offense, ...
-	40. offer, ...
-	41. oppilate
+	48. offer, ...
+	49. oppilate
 		1. oppilation, oppilative
-	42. opportune
+	50. opportune
 		3. opportunity
 		4. opportunistic
 		5. inopportune
 		6. ...
-	43. oppose, opposent
+	51. oppose, opposent
 		1. unopposed, opposite
 		2. opposing
-	44. oppress
+	52. oppress
 		1. oppressive, oppressor
 		2. oppression
-	45. opprobrious
+	53. opprobrious
 		1. opprobrium
-	46. oppugn, oppugner
-	47. ostensible, ostensive, ostensory, ostentation, ostentatious
-	48. obsolesce, obsolescent, obsolescence
-	49. obsolete, obsoletism, obsoleting
-	50. omissible, omission, omissive, omit
-	51. oust, ouster
-9. **opisth-** 表示“后部”源自希腊语 opisthen "behind, at the back."
+			1. 1 - 来自拉丁语 opprobrare,嘲笑，奚落，谴责，来自 op-,相对，对着的，probrum,耻辱，羞辱，可能来自 PIE*pro,向前，向前嘲笑，词源同 reproach,approach,problem.-brum,工具格后缀，词源同 vertebra.
+	54. oppugn
+		1.  [question](dic://question), [call into question](dic://call into question)
+		2. oppugner
+	55. ostensible
+		1.  _adj._ (指理由等)假装的,表面的
+		2. _adv._ 表面上地
+		3. _adj._ [superficial](dic://superficial), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
+		4. _n._ [profound](dic://profound), [genuine](dic://genuine), [echt](dic://echt)
+		5. **ostensibly**表面上地;**purported**传说的,谣传的;**apparent**显然的;**pretext**托辞;**erstwhile**过去的, 从前的;**pretense**借口;**putative**推定的，假定的;**merely**仅仅，只不过;**overarching**首要的;**legitimate**合情合理的;**insistence**坚持;
+		6. The ostensible reason wasn’t the real reason. /表面上的理由并不是真正的理由。
+		7. the real dispute which lay behind the ostensible complaint. /在表面上抱怨背后的真实争辩。
+		8. His ostensible purpose was charity, but his real goal was popularity. /从表面看来他是为了慈善事业，但他真正的目的却是提高自己的知名度
+		9. So two or three other persons were invited; but Morris Townsend, though he was by no means the ostensible, was the real, occasion of the feast. /于是又邀请了两三个人；但是莫里斯·汤森德，尽管他绝不是表面上的样子，却是宴会的真正主角。
+		10. 
+		11. ostensive
+		12. ostensory
+		13. ostentation
+		14. ostentatious
+			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose, brandish, protuberant. salient, obtrusive, spectacular, impressive, pretentious, garish)
+	56. obsolete
+		1. obsolesce
+			1. - v. 使……成为废物；使……过时
+		2. obsolescent
+		3. obsolescence
+		4. obsoletism
+		5. obsoleting
+	57. omit
+		1. omissible
+		1. omission
+		2. omissive
+	58. oust, ouster
+11. **opisth-** 表示“后部”源自希腊语 opisthen "behind, at the back."
 	1. etc..
-10. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
+12. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
 	1. opsonic
 	2. opsonin
 
@@ -2022,10 +2111,17 @@
 	2. equiponderancy
 	3. equiponderant
 10. equipotential
-11. equivalent
-	1. equivalence
-	2. equivalency
-12. equivocal (ambiguous)
+11. equivalent (ambivalent)
+	1. _n._ [cognition](dic://cognition), [knowledge](dic://knowledge), [noesis](dic://noesis), [atomic weight](dic://atomic weight), [relative atomic mass](dic://relative atomic mass)
+	2. _adj._ [equal](dic://equal)
+	3. _n._ [unequal](dic://unequal)
+	4. [equal](dic://equal) 指几个物或事在数目、数量、重量、程度或价值等方面完全相等。  
+	5. [equivalent](dic://equivalent) 指几个物或事彼此对等，或者具有同等的价值、效果或意义等。
+	6. **analogous**相似的,可比拟的;**comparable**类似的, 同类的, 相当的;**akin**同族的;**equivalence**均等;**roughly**粗糙地;**equated**同等看待;**equal**相等的;**equate**使相等;**essentially**本质上;**counterpart**与对方地位相当的人, 与另一方作用相当的物;**standard**标准;
+	7. a wish that was equivalent to a command. /相当于命令的请求
+	8. equivalence
+	9. equivalency
+17. equivocal (ambiguous, ambivalent)
 	1. equivoque, equivoke,
 	2. equivocated
 	3. unequivocal
@@ -2044,15 +2140,15 @@
 		13. And scientists say they found unequivocal evidence of climate change. /科学家表示 他们发现了气候变化的明确证据。
 		14. The report says global warming is unequivocal, and that it's mainly being caused by human activity rather than by other factors. /该报告称全球变暖是无可争议的，主要是由人类活动而并非其他因素引起的。
 		15. unequivocally
-14. adequate
+18. adequate
 	1. ad-去，往 + equ-等同, 相等的 + -ate, 表示形容词→ 此处指足够多的。
 	2. adequacy
 	3. inadequate
 		1. **insufficient**不足的;**adequate**适当的;**ineffective**无效的;**unsatisfactory**使人不满意的;**deficient**有缺点的，有缺陷的;**lacking**缺乏的;**inefficient**无效率的, 效率低的, 无能的, 不称职的;**substandard**标准以下的;**woefully**悲伤地;**unsuitable**不合适的;**incomplete**不完全的, 未完成的;
 		2. [deficient](dic://deficient), [incapable](dic://incapable), [incompetent](dic://incompetent), [short-handed](dic://short-handed)
-15. equity
+19. equity
 	1. **investment**投资;**investor**投资者;**shareholder**股东;**valuation**估价;**securities**股票;**liquidity**资产折现力, 资产流动性;**financing**融资;**capital**首都，省会;**mortgage**抵押;**dividend**股息;**assets**资产;
-16. equate, equal
+20. equate, equal
 	1. equable
 		1. **temperate**饮食有节制的, 克己的;**agreeable**欣然同意的;**harmonious**和谐的;**equitable**公正的,合理的;**dignified**高贵的;**sensible**明智的;**favourable**赞许的, 赞同的;**orderly**整齐的;**arid**干旱的;**conducive**有助的;**pleasant**令人愉快的，舒适的;
 		2.  [even-tempered](dic://even-tempered), [good-tempered](dic://good-tempered), [placid](dic://placid)
@@ -2063,9 +2159,9 @@
 		1. **wickedness**邪恶;**sins**罪恶;**sin**过失;**righteousness**正当;**hath**有;**transgression**犯罪;**immorality**不道德,无道义;**abomination**厌恶;**wicked**邪恶的;**sinners**罪人;**deceit**欺骗;
 		2. iniquitous
 		3. inequable
-17. equalize
+21. equalize
 	1. equal【平等的】 + -ize, 表动词
-18. equanimity (composed /serenity /tranquility /equanimity /)
+22. equanimity (composed /serenity /tranquility /equanimity /)
 	1. equ-相等 + anim-生命 + -ity, 表名词 → 生命平静 → 沉着。
 	2. anim-（生命）：代表生命之源的灵魂  
 	3. 古代人认为生命的本质是因为灵魂的存在。在拉丁文中，灵魂分为阴性和阳性两个单词，既阴性的anima（阿尼玛）和阳性的animus（阿尼姆斯）。表示生命的词根anim就来自这两个拉丁文。由于生命和灵魂密不可分，所有词根anim既有“生命”、“能动”的含义，也有“精神”、“心”的含义。  
@@ -2085,10 +2181,10 @@
 	8. That equanimity stems in part from the fact that migrants in Scotland are not especially common. /这份淡定部分是源于这样一个事实，即苏格兰的移民还没那么常见。
 	9. In fact, she could endure the hospital with equanimity now because it was a perfect happy hunting ground. /事实上，她现在对医院里的事情已能镇静地应付了，因为那里还是一个很好很愉快的狩猎场呢。
 	10. Endurance and despair, equanimity and gloom, the tints of health and the pallor of death, mingled weirdly in his face /忍耐和绝望，平静和忧郁，健康的气色和死亡的灰白，在他脸上不可思议地交织在一起。
-19. equant
+23. equant
 	1. equ-相等 + -ate, 表动词。
 	2. _[equant](dic://equant)_  adj. 等分的；等径的; n. 易广；等分；均衡点；对应点；想象的天体运行轨道（（托勒密天文体系中的）;
-20. egalitarian
+24. egalitarian
 	1. egal-,平等，词源同 equal.字母 g,q 音变。
 	2. _n._ [moralist](dic://moralist)
 	3. _adj._ [democratic](dic://democratic)
@@ -2116,7 +2212,7 @@
 	4. hormephobia
 	5. hormesis
 2. **ori-, orig-, ort-** = rise, begin, 表示“升起，开始”。源自拉丁语 oriri "to arise, appear, be born."
-	1. orient
+	1. orient (occident)
 		1. [eastern hemisphere](dic://eastern hemisphere)
 		2.  [orientate](dic://orientate)
 		3. _n._ [Asia](dic://Asia), [hemisphere](dic://hemisphere)
@@ -2331,17 +2427,18 @@
 		9. An errant May-fly swerved unsteadily athwart the current in the intoxicated fashion affected by young bloods of May-flies seeing life.  A swirl of water and a ‘cloop!’ /一只随波漂流的蜉蝣，满怀着血气方刚的后生对生活的憧憬，正歪歪斜斜地逆水游来。
 	6. erratic 
 		1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, portean) 
-		2. (eccentric, queer, erratic, )
-		3. err-错误 + -atic → [被人认为]错误的 → 古怪的。
-		4. n. 古怪的人, 漂石  a. 不规则的; 不确定的; 不稳定的, 不可靠的
-		5. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
-		6.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
-		7. [planetary](dic://planetary), [wandering](dic://wandering)
-		8. the erratic behaviour of the old car. /那辆旧车不稳定的性能。
-		9. the wicket was causing the occasional erratic bounce. /这一轮击球中出现了偶尔飘忽不定的反弹球。
-		10. he was let down by an erratic serve. /一个奇怪的发球让他扫兴。
-		11. He is a very erratic football player. /他是个技术非常不稳定的足球队员。
-		12. Bill's erratic moods upset everyone in our office. /比尔古怪的情绪使我们办公室的每个人都心烦。
+		2.  (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, quaint, queer, odd, curious, peculiar, strange, singular, crazy, erratic,)
+		3. (eccentric, queer, erratic, )
+		4. err-错误 + -atic → [被人认为]错误的 → 古怪的。
+		5. n. 古怪的人, 漂石  a. 不规则的; 不确定的; 不稳定的, 不可靠的
+		6. **unpredictable**无法预言的, 不可预测的;**inconsistent**不一致的;**unstable**不稳定的;**irregular**不对称的, 不规则的;**sluggish**萧条的;**sporadic**零星的;**chaotic**混乱的，无秩序的;**unreliable**不可靠的;**reckless**鲁莽的，不顾后果的;**impulsive**冲动的,易冲动的;**uncontrollable**无法管束的;
+		7.  [fickle](dic://fickle), [mercurial](dic://mercurial), [quicksilver(a)](dic://quicksilver(a))
+		8. [planetary](dic://planetary), [wandering](dic://wandering)
+		9. the erratic behaviour of the old car. /那辆旧车不稳定的性能。
+		10. the wicket was causing the occasional erratic bounce. /这一轮击球中出现了偶尔飘忽不定的反弹球。
+		11. he was let down by an erratic serve. /一个奇怪的发球让他扫兴。
+		12. He is a very erratic football player. /他是个技术非常不稳定的足球队员。
+		13. Bill's erratic moods upset everyone in our office. /比尔古怪的情绪使我们办公室的每个人都心烦。
 	8. erratum
 		1. err-漫游 + -atum
 		2. **corrected**折算的,修正的,校正的;**typo**排印错误;**reprint**再版;**publication**出版;**correction**改〔纠〕正;**footnote**脚注;**retraction**收回;**appendix**附
@@ -2572,12 +2669,14 @@
 			2. vacu-空 + -ole 小词后缀
 		3. vacuometer
 		4. vacuous
-			1.  [asinine](dic://asinine), [fatuous](dic://fatuous), [inane](dic://inane), [mindless](dic://mindless)
-			2.  [empty](dic://empty), [hollow](dic://hollow)
-			3.  [blank](dic://blank)
-			4. _adj._ [foolish](dic://foolish), [meaningless](dic://meaningless), [nonmeaningful](dic://nonmeaningful), [empty](dic://empty), [uncommunicative](dic://uncommunicative), [incommunicative](dic://incommunicative)
-			5. _n._ [wise](dic://wise), [meaningful](dic://meaningful), [full](dic://full), [communicative](dic://communicative), [communicatory](dic://communicatory)
-			6. **inane**愚蠢的;**banal**陈腐的;**meaningless**无意义的;**nonsensical**无意义的;**drivel**淌口水,说傻话;**pretentious**自命不凡的;**pompous**浮夸的;**idiotic**白痴的;**incoherent**不连贯的;**crass**粗鲁的;**self-serving**自私的,自私自利的;
+			1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
+			2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+			3.  [asinine](dic://asinine), [fatuous](dic://fatuous), [inane](dic://inane), [mindless](dic://mindless)
+			4.  [empty](dic://empty), [hollow](dic://hollow)
+			5.  [blank](dic://blank)
+			6. _adj._ [foolish](dic://foolish), [meaningless](dic://meaningless), [nonmeaningful](dic://nonmeaningful), [empty](dic://empty), [uncommunicative](dic://uncommunicative), [incommunicative](dic://incommunicative)
+			7. _n._ [wise](dic://wise), [meaningful](dic://meaningful), [full](dic://full), [communicative](dic://communicative), [communicatory](dic://communicatory)
+			8. **inane**愚蠢的;**banal**陈腐的;**meaningless**无意义的;**nonsensical**无意义的;**drivel**淌口水,说傻话;**pretentious**自命不凡的;**pompous**浮夸的;**idiotic**白痴的;**incoherent**不连贯的;**crass**粗鲁的;**self-serving**自私的,自私自利的;
 	11. vacuum
 		1.  [vacuity](dic://vacuity)
 		2.  [void](dic://void), [vacancy](dic://vacancy), [emptiness](dic://emptiness)

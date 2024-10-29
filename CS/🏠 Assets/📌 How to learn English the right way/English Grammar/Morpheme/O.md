@@ -9,47 +9,63 @@
 	1. _n._ [generator](dic://generator)
 	2. **powerhouse**强大的集团〔组织〕;**electric**电的;**magnetism**磁性;**flywheel**飞轮，惯性轮;**centrifugal**离心的;**alternator**交流发电机;**magnetic**有吸引力的;
 3. fiasco
-	1. _n._ [collapse](dic://collapse)
-	2. **debacle**崩溃;**scandal**丑闻;**meltdown**熔化;**blunder**的错误;**travesty**滑稽模仿;**disastrous**灾难性的;**mishap**灾祸;**mismanagement**办错,管理不善;**disaster**不幸;**uproar**骚动;**saga**冒险故事;
-4. fresco
-	1. _n._ [mural](dic://mural), [wall painting](dic://wall painting), [painting](dic://painting)
-	2. _v._ [paint](dic://paint)
-	3. **painting**油画;**mosaics**镶嵌细工;**murals**壁画;**Michelangelo**米开兰基罗;**stucco**粉饰，粉刷;**mural**墙壁的;**dining**吃饭，进餐;**mosaic**摩西的;**terrace**梯田;**courtyard**庭院, 院子;
-	4. _al fresco_ 在户外；在野外
-5. gusto
-	1. [relish](dic://relish), [zest](dic://zest), [zestfulness](dic://zestfulness)
-	2. _n._ [enjoyment](dic://enjoyment), [enthusiasm](dic://enthusiasm)
-	3. **fervor**热情;**enthusiasm**热情, 热心;**vigor**活力，精力;**glee**快乐;**zeal**热心;**finesse**纤细;**relish**获得乐趣;**eagerness**渴望;**unbridled**无辔头的;**zest**风味;**exuberant**兴高采烈的;
-	4. _[with gusto](dic://with%20gusto)_  满怀热情
-	5. _[With gusto](dic://With%20gusto)_ 饶有兴趣地; 满怀热情; 上劲; 
-	6. _[speciala gusto](dic://speciala%20gusto)_ 风味
-	7. _[ith gusto](dic://ith%20gusto)_ 满怀热情
-	8. _[translate with gusto](dic://translate%20with%20gusto)_ 畅所欲译
-	9. _[with enormous gusto](dic://with%20enormous%20gusto)_ 津津有味
-6. impresario
+	1. n. 惨败, 大失败; 尴尬的结局
+	2. 意大利语，源自拉丁语 flasco "bottle." 引申词义惨败，可能来自一种游戏，由输者支付酒钱，因而得名。
+	3. fiasco（惨败）：用来制造瓶子的低劣玻璃  
+	4. 中世纪时，威尼斯的制造玻璃的工匠在生产时，会将有瑕疵的玻璃扔到一旁，用于制作价格低廉的普通瓶子。因此，在意大利语中，人们用far fiasco（制造瓶子）来表示“遭受惨败”。fiasco来自拉丁语flasco，表示瓶子。英语单词fiasco（惨败）就来源与此，与它同源的单词是flask（烧瓶）。  
+	5. 关于意大利语中“瓶子”和“失败”的关联，还有一种说法，说意大利人经常在酒吧中玩一种游戏，输的人就买一瓶酒给大家喝，所以原本表示“瓶子”的单词fiasco就衍生出“失败”的含义，常用于表示“代价昂贵的失败”。  
+	6. 不管哪一种解释，fiasco与flask同源，原本表示“瓶子”，记住这一点有助于我们记忆这两个单词。  
+	7. fiasco：[fɪ'æskəʊ] n.惨败  
+	8. flask：[flæsk] n.烧瓶，长颈瓶
+	9. _n._ [collapse](dic://collapse)
+	10. **debacle**崩溃;**scandal**丑闻;**meltdown**熔化;**blunder**的错误;**travesty**滑稽模仿;**disastrous**灾难性的;**mishap**灾祸;**mismanagement**办错,管理不善;**disaster**不幸;**uproar**骚动;**saga**冒险故事;
+5. fresco
+	1. n. 湿壁画, 湿壁画技法  
+	2. vt. 作湿壁画于
+	3. 词源同fresh , 新的。指新石膏或湿石膏上做画的壁画艺术。
+	4. _n._ [mural](dic://mural), [wall painting](dic://wall painting), [painting](dic://painting)
+	5. _v._ [paint](dic://paint)
+	6. **painting**油画;**mosaics**镶嵌细工;**murals**壁画;**Michelangelo**米开兰基罗;**stucco**粉饰，粉刷;**mural**墙壁的;**dining**吃饭，进餐;**mosaic**摩西的;**terrace**梯田;**courtyard**庭院, 院子;
+	7. _al fresco_ 在户外；在野外
+6. gusto
+	1. n. 热情, 兴致, 精力
+	2. gust-味道 + -o意大利语阳性名词后缀。
+	3. [relish](dic://relish), [zest](dic://zest), [zestfulness](dic://zestfulness)
+	4. _n._ [enjoyment](dic://enjoyment), [enthusiasm](dic://enthusiasm)
+	5. **fervor**热情;**enthusiasm**热情, 热心;**vigor**活力，精力;**glee**快乐;**zeal**热心;**finesse**纤细;**relish**获得乐趣;**eagerness**渴望;**unbridled**无辔头的;**zest**风味;**exuberant**兴高采烈的;
+	6. _[with gusto](dic://with%20gusto)_  满怀热情
+	7. _[With gusto](dic://With%20gusto)_ 饶有兴趣地; 满怀热情; 上劲; 
+	8. _[speciala gusto](dic://speciala%20gusto)_ 风味
+	9. _[ith gusto](dic://ith%20gusto)_ 满怀热情
+	10. _[translate with gusto](dic://translate%20with%20gusto)_ 畅所欲译
+	11. _[with enormous gusto](dic://with%20enormous%20gusto)_ 津津有味
+7. impresario
 	1. _[impresario](dic://impresario)_  n. （意）（歌剧、乐团等的）演出者；经理人；乐队指挥，导演
 	2. _n._ [booker](dic://booker), [booking agent](dic://booking agent)
 	3. **mogul**有权势的人;**promoter**发起人;**magnate**巨头;**entertainer**表演娱乐节目的人;**financier**金融家;**cabaret**卡巴莱歌舞表演;**philanthropist**慈善家;**publicist**宣传人员;**musician**音乐家;**entrepreneur**企业家;**vaudeville**杂耍;
-7. maestro
-	8. _n._ [artist](dic://artist), [creative person](dic://creative person)
-	9. **virtuoso**艺术品鉴赏家;**composer**作曲家;**pianist**钢琴家;**prodigy**奇迹，奇事;**violinist**小提琴手;**guru**古鲁;**genius**天才，天赋;**masterful**善于控制别人的;**orchestra**管弦乐队;**cellist**大提琴演奏家;**organist**风琴演奏者;
-8. manifesto
+8. maestro
+	1. (maestro, virtuoso, cognoscente, guru, connoisseur, mavin, ace, adept, champion, sensation, maven, genius, hotshot, star, superstar, whiz, whizz, wizard, wiz)
+	2. n. 音乐大师, 大音乐家
+	3. _n._ [artist](dic://artist), [creative person](dic://creative person)
+	4. **virtuoso**艺术品鉴赏家;**composer**作曲家;**pianist**钢琴家;**prodigy**奇迹，奇事;**violinist**小提琴手;**guru**古鲁;**genius**天才，天赋;**masterful**善于控制别人的;**orchestra**管弦乐队;**cellist**大提琴演奏家;**organist**风琴演奏者;
+10. manifesto
 	1. _n._ [declaration](dic://declaration)
 	2. **pamphlet**小册子;**blueprint**蓝图;**declaration**宣布, 宣告, 声明;**anarchist**无政府主义者;**foreword**前言;**slogan**标语;**socialist**社会主义者;**roadmap**路标;**utopian**空想的;**outlining**描绘轮廓;**pledge**发誓;
 	3. _communist manifesto_ 共产党宣言（现代共产主义学说发展史上的第一部经典，由马克思和恩格斯合著）
-9. Negrillo
-10. Negrito
+11. Negrillo
+12. Negrito
 	1. n. 矮小黑人
-11. relievo
+13. relievo
 	1. n. 浮雕；浮雕品
 	3. [relief](dic://relief), [rilievo](dic://rilievo), [embossment](dic://embossment), [sculptural relief](dic://sculptural relief)
 	4. **alto**女低音;
-12. tyro
+14. tyro
 	1.  [novice](dic://novice), [beginner](dic://beginner), [tiro](dic://tiro), [initiate](dic://initiate)
 	2. _n._ [unskilled person](dic://unskilled person)
 	3. **novice**初学者，新手;**newbie**网络新手;**inexperienced**经验不足的,不熟练的;**newcomer**新来者;**youngster**年轻人;**novices**新手，初学者;**beginner**初学者;**wannabe**想达到目标的人;**lad**少年，小伙子;**prodigy**奇迹，奇事;**seasoned**经验丰富的;
-13. virtuoso
-	1.  [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
+15. virtuoso
+	1. n. 艺术品鉴赏家
+	1. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
 	2. [consummate](dic://consummate), [masterful](dic://masterful), [masterly](dic://masterly)
 	3. _n._ [expert](dic://expert), [musician](dic://musician)
 	4. _adj._ [skilled](dic://skilled)
@@ -58,28 +74,42 @@
 	7. _[The virtuoso Pianist](dic://The%20virtuoso%20Pianist)_ 钢琴家六十练习曲; 大师级钢琴家;
 	8. _[virtuoso connoisseur](dic://virtuoso%20connoisseur)_ 艺术品鉴赏家
 14. volcano
-	1. _n._ [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure), [mountain](dic://mountain), [mount](dic://mount)
+	1. volcano（火山）：火神伏尔甘  
+	2. 伏尔甘（Vulcan）是罗马神话中的火及锻造之神，等同于希腊神话中的赫淮斯托斯（Hephaestus）。他天生相貌丑陋，所以一出生就让老爸朱庇特很不爽，把他扔到海上一个岛上，并因此摔断了一条腿，变成了瘸腿。  
+	3. 伏尔甘心地善良并且心灵手巧，是诸神的铁匠，制造了许多著名的武器、工具和艺术品。他在奥林匹斯山上建筑了诸神的宫殿，为朱庇特打造雷霆和铠甲，此外还制造了小爱神的弓箭、赫拉克勒斯的马车、阿波罗驾驶的日车、捆绑普罗米修斯的铁链、阿喀琉斯的盔甲等器具。他用斧子劈开朱庇特的脑袋，让智慧女神密涅瓦跳出来，从而治好了朱庇特的头痛病。  
+	4. 伏尔甘的老婆就是大名鼎鼎的爱神维纳斯。但他们的婚姻是朱庇特包办的，维纳斯根本瞧不上这个瘸腿丑八怪，与英俊潇洒的战神勾搭上了，还生下了私生子小爱神丘比特。有一次伏尔甘制造了一张精巧的网，布设在床上，把正在床上偷情的维纳斯和战神抓个正着，并让他们在众神面前出丑。  
+	5. 伏尔甘还暗恋智慧女神密涅瓦。海神尼普顿骗他说密涅瓦也喜欢你，一会儿就来找你。过了一会儿，密涅瓦果然来了，其实是来求伏尔甘打造武器的。自作多情的伏尔甘欲火焚身，想非礼密涅瓦，被密涅瓦挣脱开，射出的精液落在密涅瓦大腿上。密涅瓦擦拭干净后扔在地上，结果让大地女神受孕，生下了一个半人半蛇的孩子，名叫刻克洛普斯（cecrops），密涅瓦收养了这个孩子，后来他成为了雅典的第一个国王。  
+	6. 伏尔甘大部分时间都在地底下打铁，火山传说就是他的打铁铺，一旦看到火山又开始冒烟冒火了，那就是伏尔甘在下面开工了。因此，人们就用伏尔甘的罗马名字Vulcan来命名火山，这就是英语单词volcano（火山）的来历。  
+	7. Vulcan：['vʌlkən] n.伏尔甘，火及锻造之神。  
+	8. volcano：[vɒl'keɪnəʊ] n.火山。  
+	9. volcanic：[vɒl'kænɪk] adj.火山的，猛烈的，容易突然发作的n.火山岩  
+	10. vulcanian：[vʌl'keniən] adj.火山的，金工的  
+	11. vulcanize：['vʌlkənaɪz] vt.硫化，硬化
+	12. _n._ [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure), [mountain](dic://mountain), [mount](dic://mount)
 		1. [hill](dic://hill) 通常指小的土山、石山或浅丘。有时也指高山，复数表群山。  
 		2. [mount](dic://mount) 常用于地名之前， 即一般放在专用名词前，书面用词。  
 		3. [mount](dic://mount) ain通常指比hill高而陡的高山、山岳。但这种区别不是绝对的，“大”与“小”常常是相对而言。  
 		4. [range](dic://range) 形成的山脉或岭。  
 		5. [peak](dic://peak) 指山峰，也可指山顶。  
 		6. [volcano](dic://volcano) 特指主要由喷出的熔岩和火山灰堆积而成的圆锥形火山。
-	2. **volcanic**火山的;**eruption**爆发，喷发;**lava**火山岩浆;**crater**坑;**magma**岩浆;**erupt**爆发;**mountain**山脉;**craters**火山口;**glacier**冰河，冰川;**cave**使凹陷，使塌落;**ash**灰;
-15. patio
-	1. _n._ [area](dic://area)
-	2. **porch**门廊;**veranda**阳台;**gazebo**露台，眺望台;**terrace**梯田;**backyard**后院;**courtyard**庭院, 院子;**balcony**阳台;**garden**菜园;**decking**装饰;**outdoor**户外的;**deck**甲板，舱面;
-	3. _[patio furniture](dic://patio%20furniture)_  露台家具
-	4. _[patio heater](dic://patio%20heater)_  户外取暖器; 户外加热器; 
-	5. _[patio garden](dic://patio%20garden)_  内院
-16. tornado, tornadotron
-	1. [twister](dic://twister)
-	2. [crack](dic://crack)
-	3. _n._ [cyclone](dic://cyclone), [cocaine](dic://cocaine), [cocain](dic://cocain)
-	4. **hurricane**飓风;**storm**暴风雨;**thunderstorm**雷电交加的暴风雨;**storms**暴风雨;**cyclone**气旋;**typhoon**台风;**earthquake**地震;**cyclones**旋风;**snowstorm**暴风雪,雪崩;**blizzard**暴风雪，大风雪;**quake**颤抖;
-	5. _[tornados](dic://tornados)_  n. 龙卷风（tornado的复数）
-	6. _[tornadoes](dic://tornadoes)_  n. [气象] 龙卷风（tornado的复数）
-	7. _[tornado fighter jet](dic://tornado%20fighter%20jet)_  旋风式战机
+	13. **volcanic**火山的;**eruption**爆发，喷发;**lava**火山岩浆;**crater**坑;**magma**岩浆;**erupt**爆发;**mountain**山脉;**craters**火山口;**glacier**冰河，冰川;**cave**使凹陷，使塌落;**ash**灰;
+16. patio
+	1. n. 屋子与花园之间的一片供晴天休息用的石砌空地
+	2. _n._ [area](dic://area)
+	3. **porch**门廊;**veranda**阳台;**gazebo**露台，眺望台;**terrace**梯田;**backyard**后院;**courtyard**庭院, 院子;**balcony**阳台;**garden**菜园;**decking**装饰;**outdoor**户外的;**deck**甲板，舱面;
+	4. _[patio furniture](dic://patio%20furniture)_  露台家具
+	5. _[patio heater](dic://patio%20heater)_  户外取暖器; 户外加热器; 
+	6. _[patio garden](dic://patio%20garden)_  内院
+17. tornado, tornadotron
+	1. 来自西班牙语 tronada,雷暴，来自 tronar,打雷，来自拉丁语 tonare,打雷，词源同 thunder,Thor.拼写和词义可能受到拉丁语 tornare 影响，来自 tornare,扭曲，转动，词源同 turn.引申词义龙卷风，旋风。
+	2. n. 旋风, 龙卷风, 大雷雨
+	3. [twister](dic://twister)
+	4. [crack](dic://crack)
+	5. _n._ [cyclone](dic://cyclone), [cocaine](dic://cocaine), [cocain](dic://cocain)
+	6. **hurricane**飓风;**storm**暴风雨;**thunderstorm**雷电交加的暴风雨;**storms**暴风雨;**cyclone**气旋;**typhoon**台风;**earthquake**地震;**cyclones**旋风;**snowstorm**暴风雪,雪崩;**blizzard**暴风雪，大风雪;**quake**颤抖;
+	7. _[tornados](dic://tornados)_  n. 龙卷风（tornado的复数）
+	8. _[tornadoes](dic://tornadoes)_  n. [气象] 龙卷风（tornado的复数）
+	9. _[tornado fighter jet](dic://tornado%20fighter%20jet)_  旋风式战机
 
 
 
@@ -572,7 +602,7 @@
 	1. copy
 		1. copybook, copyboy, copycat, copydesk, copyhold, photocopy, xerocopy, copier
 	2. copious
-		1. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, )
+		1. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
 		2. **ample**丰富的;**prodigious**巨大的;**replete**充满的;**plenty**丰富，大量;**voluminous**卷数多的;**considerable**相当大的;**plethora**过剩;**extensive**广阔的, 广泛的;**innumerable**无数的, 数不清的;**abundant**充裕的;**scant**不足的;
 		3. [ample](dic://ample), [plenteous](dic://plenteous), [plentiful](dic://plentiful), [rich](dic://rich)
 		4. [abundant](dic://abundant) , [scarce](dic://scarce), [voluminous](dic://voluminous)
@@ -637,9 +667,10 @@
 	7. opulence
 		1. [luxury](dic://luxury), [luxuriousness](dic://luxuriousness), [sumptuousness](dic://sumptuousness)
 		2. **opulent**富裕的;**elegance**典雅;**grandeur**庄严;**splendor**光彩;**luxury**奢侈，奢华;**sophistication**老练;**lavish**浪费的;**glamour**魅力，魔力;**extravagant**奢侈的, 铺张的;**luxurious**奢侈的;**sensuality**喜爱感官享受;
-		3. opulent (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut)
-			1. [deluxe](dic://deluxe), [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [princely](dic://princely), [sumptuous](dic://sumptuous)
-			2. **lavish**浪费的;**luxurious**奢侈的;**sumptuous**豪华的, 奢侈的;**extravagant**奢侈的, 铺张的;**decadent**颓废的;**ornate**华丽的;**elegant**高雅的，优雅的;**exquisite**精致的, 精美的;**glamorous**富有魅力的;**stately**庄严的;**regal**帝王的;
+		3. opulent
+			1. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
+			2. [deluxe](dic://deluxe), [gilded](dic://gilded), [grand](dic://grand), [luxurious](dic://luxurious), [princely](dic://princely), [sumptuous](dic://sumptuous)
+			3. **lavish**浪费的;**luxurious**奢侈的;**sumptuous**豪华的, 奢侈的;**extravagant**奢侈的, 铺张的;**decadent**颓废的;**ornate**华丽的;**elegant**高雅的，优雅的;**exquisite**精致的, 精美的;**glamorous**富有魅力的;**stately**庄严的;**regal**帝王的;
 	8. opus
 		1.  [musical composition](dic://musical composition), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music)
 		2. **masterpiece**杰作;**magnum**大酒瓶;**tome**册;**symphonic**交响乐的;**album**相簿;**symphony**交响乐;**monumental**纪念碑的;**concerto**协奏曲;**orchestral**管弦乐队的;**treatise**论文;**compendium**摘要,纲要;

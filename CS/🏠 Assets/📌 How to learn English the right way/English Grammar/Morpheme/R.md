@@ -443,7 +443,22 @@
 		2. **parachute**降落伞;**chute**斜槽;**pull**拉;**webbing**带子，边带;**rope**绳，绳索;**tether**系绳;**sheath**鞘;
 		3. n. 开伞索
 	43. rip-roarious
-6. reap
+	44. ripple (riffle, ripple, ruffle, cripple, dripple, tipple, crinkle, wrinkle, ruckle, rumple, crumple, )
+		1. - 可能来自 rip,撕开，撕裂，-le,表反复。引申词义波浪，涟漪。
+		2. n. 涟波, 涟漪, 波纹, 粗钢梳  
+		3. vt. 使起涟漪  
+		4. vi. 起微波, 起潺潺声
+		5.  [rippling](dic://rippling), [riffle](dic://riffle), [wavelet](dic://wavelet)
+		6.  [ruffle](dic://ruffle), [riffle](dic://riffle), [cockle](dic://cockle), [undulate](dic://undulate)
+		7.  [babble](dic://babble), [guggle](dic://guggle), [burble](dic://burble), [bubble](dic://bubble), [gurgle](dic://gurgle)
+		8. _n._ [wave](dic://wave), [moving ridge](dic://moving ridge), [oscillation](dic://oscillation), [vibration](dic://vibration)
+		9. _v._ [flow](dic://flow), [flux](dic://flux), [sound](dic://sound), [go](dic://go)
+		10. [wave](dic://wave) 普通用词，指水面上移动的任何具有峰谷皱形的波动，尤指距离相等的波浪，也比喻任何类似的物体。  
+		11. [ripple](dic://ripple) 多指微风吹过水面或石头投入水中所激起的涟漪或细浪。  
+		12. [surge](dic://surge) 词义较模糊，泛指巨浪、波涛或作比喻使用。
+		13. **effect**效果;**cascading**级串联;**impact**影响;**cascade**小瀑布;**swirl**漩涡;**swirls**旋涡;**domino**多米诺骨牌;**repercussions**反响;**trickle**滴;**waves**波;**far-reaching**深远的;
+		14. 
+5. reap
 	44. [harvest](dic://harvest), [glean](dic://glean)
 	45. [draw](dic://draw)
 	46. _v._ [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together), [derive](dic://derive), [gain](dic://gain)
@@ -454,7 +469,7 @@
 	51. the company is poised to reap the benefits of this investment. /该公司做好准备收获这一投资的收益。
 	52. The ground must have been ploughed, and sowed, and harrowed, and reaped /首先得犁地，再播种，还要耙地，最后才能收获。
 	53. But not everyone is reaping the benefits /但并非每个人都得以从中受益。
-7. rift (rip, bereave, rupture)
+6. rift (rip, bereave, rupture)
 	1. n. （人际关系）不和，分歧；裂缝，裂口；地堑，裂谷 
 	2. v. 开裂，断裂；使断裂，使开裂
 	3. [rupture](dic://rupture), [breach](dic://breach), [break](dic://break), [severance](dic://severance), [falling out](dic://falling out)
@@ -468,8 +483,8 @@
 	11. The sun appeared through a rift in the clouds /太阳从云层间隙中冒出来。
 	12. These rugged limestone hills in a rift valley. /这些崎岖不平的石灰岩山丘位于裂谷之中。
 	13. The fallout from last month's failed coup has deepened a rift between Ankara and its Western allies. /上个月军变发生以后，土耳其与西方同盟分歧加深。
-8. rigatoni
-9. rive
+7. rigatoni
+8. rive
 	1. _vt._ 猛地劈开[撕开]
 	2. 劈开(木头或石头)
 	3. [rend](dic://rend), [rip](dic://rip), [pull](dic://pull)
@@ -482,13 +497,13 @@
 	10. They'd be riven to bits, ere ever they'd be different'. /他们会被撕成碎片，在他们变得不同之前。
 	11. This plant now looks entirely at home on the banks of English rives. /这种植物现在看起来完全像在英国河流岸边的家。
 	12. He planted a rice paddy, an upland rive and some glutinous rice /他种植水稻、旱稻和糯米。
-10. reeve
+9. reeve
 	1. n. 地方行政官，城镇长官；（村镇议会的）民选议长；雌性流苏鹬 
 	2. v. （绳索）穿过；把（绳、滑轮）缚紧
 	3. _n._ [ruff](dic://ruff), [Philomachus pugnax](dic://Philomachus pugnax)
 	4. _v._ [pass through](dic://pass through)
 	5. **constable**警察;**councillor**政务会委员;**warden**看守人;**mayor**市长;**miller**碾磨工;**treasurer**司库,财务主管;**abbot**男修道院院长;**lord**上帝;**sheriff**州长;**township**镇区;**trustee**受托人;
-11. rope
+10. rope
 
 
 ### + \*reie- + = to flow, run
@@ -1406,23 +1421,24 @@
 	5. subreption
 		1. n. 歪曲事实；隐匿事实；作虚伪的申辩 
 	6. subreptitious  adj. 隐瞒事实的；以隐瞒事实而骗得的
-	7. surreptitious (superstitious) (covert, clandestine, sneaky, devious, furtive, surreptitious)
-		1. sur-下面 + rept-爬 + -itious表形容词 → 在下面爬的 → 鬼鬼祟祟。
-		2. _adj._ [concealed](dic://concealed), [covert](dic://covert)
-		3. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
-		4. **covert**隐蔽的;**clandestine**秘密的,保密的,暗中的;**sly**狡猾的;**sneaky**鬼鬼祟祟的;**nefarious**极坏的;**devious**弯曲的;**illicit**违法的;**ruse**诡计;**sneaking**鬼鬼祟祟的;**overt**明显的;**spying**侦探;
-		5. adj. 秘密的；鬼鬼祟祟的；暗中的
-		6. _[surreptitious entry](dic://surreptitious%20entry)_ 秘密进入
-		7. _[surreptitious software](dic://surreptitious%20software)_ 隐蔽软件; 软件加密与解密; 
-		8. _[surreptitious barefaced](dic://surreptitious%20barefaced)_ 暗中的
-		9. _[surreptitious menstruation](dic://surreptitious%20menstruation)_ 暗经
-		10. _[surreptitious advertising](dic://surreptitious%20advertising)_ 属于这种隐藏性的广告
-		11. _[a surreptitious glance](dic://a%20surreptitious%20glance)_ 偷偷的一瞥
-		12. But look; it's all part of a strategy here from Trump to make it something shady, something surreptitious. /不过你看，这是特朗普让某事变得阴暗且诡秘的部分策略。
-		13. But I think they're leaving surreptitious scented messages for potential mates /但我认为他们正在为潜在的配偶留下秘密的气味信息。
-		14. It was so deep in the crack that Elfride could not pull it out with her hand, though she made several surreptitious trials. /它在裂缝中如此之深，以至于 Elfride 无法用手将其拉出，尽管她做了几次暗中试验。
-		15. He made a **surreptitious** entrance to the club through the little door in the brick wall. /他从砖墙的小门偷偷进入俱乐部。
-		16. surreptitiously
+	7. surreptitious (superstitious) 
+		1. (covert, clandestine, sneaky, devious, furtive, surreptitious)
+		2. sur-下面 + rept-爬 + -itious表形容词 → 在下面爬的 → 鬼鬼祟祟。
+		3. _adj._ [concealed](dic://concealed), [covert](dic://covert)
+		4. _n._ [unconcealed](dic://unconcealed), [overt](dic://overt), [open](dic://open)
+		5. **covert**隐蔽的;**clandestine**秘密的,保密的,暗中的;**sly**狡猾的;**sneaky**鬼鬼祟祟的;**nefarious**极坏的;**devious**弯曲的;**illicit**违法的;**ruse**诡计;**sneaking**鬼鬼祟祟的;**overt**明显的;**spying**侦探;
+		6. adj. 秘密的；鬼鬼祟祟的；暗中的
+		7. _[surreptitious entry](dic://surreptitious%20entry)_ 秘密进入
+		8. _[surreptitious software](dic://surreptitious%20software)_ 隐蔽软件; 软件加密与解密; 
+		9. _[surreptitious barefaced](dic://surreptitious%20barefaced)_ 暗中的
+		10. _[surreptitious menstruation](dic://surreptitious%20menstruation)_ 暗经
+		11. _[surreptitious advertising](dic://surreptitious%20advertising)_ 属于这种隐藏性的广告
+		12. _[a surreptitious glance](dic://a%20surreptitious%20glance)_ 偷偷的一瞥
+		13. But look; it's all part of a strategy here from Trump to make it something shady, something surreptitious. /不过你看，这是特朗普让某事变得阴暗且诡秘的部分策略。
+		14. But I think they're leaving surreptitious scented messages for potential mates /但我认为他们正在为潜在的配偶留下秘密的气味信息。
+		15. It was so deep in the crack that Elfride could not pull it out with her hand, though she made several surreptitious trials. /它在裂缝中如此之深，以至于 Elfride 无法用手将其拉出，尽管她做了几次暗中试验。
+		16. He made a **surreptitious** entrance to the club through the little door in the brick wall. /他从砖墙的小门偷偷进入俱乐部。
+		17. surreptitiously
 			1. _adv._ [furtive](dic://furtive), [sneaky](dic://sneaky), [stealthy](dic://stealthy), [surreptitious](dic://surreptitious)
 			2. **secretly**秘密地;**unwittingly**不知情地;**discreetly**谨慎地,小心地;**inadvertently**漫不经心地;**unknowingly**不知不觉地;**sneaking**鬼鬼祟祟的;**snuck**动词sneak的过去式和过去分词;**quietly**安静地;**deliberately**慎重地;**purposefully**有目的地;**subtly**敏锐地;
 

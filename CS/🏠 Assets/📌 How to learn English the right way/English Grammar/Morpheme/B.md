@@ -482,26 +482,26 @@
 2. **polem-** = 表示“战争”，源自希腊语 polemos "war."。
 	1. polemic (prole)
 		1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
-		2. 来自希腊语 polemos,战争，战斗。比喻用法。
-		3. a. 争辩的, 好争论的  
-		4. n. 激烈争论; 辩论术, 辩论法
-		5. [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
-		6. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)
-		7. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
-		8. He wrote a splendid polemic in my favour. /他写了一篇出色的文章为我辩护。
-		9. It is a polemic framed as a personal quest. /这是一本以个人探索为论辩框架的书。
-		10. The result is a lively mix of scholarship, reporting and polemic /最终，Studwell 把学术研究、调查报道以及书面论战生动地糅为一体。
-		11. People continued their pointless polemic day and night. /人们整天继续着无意义的争论。
-		12. 
-		13. polemics
-		14. polemical
+		3. 来自希腊语 polemos,战争，战斗。比喻用法。
+		4. a. 争辩的, 好争论的  
+		5. n. 激烈争论; 辩论术, 辩论法
+		6. [uncontroversial](dic://uncontroversial), [noncontroversial](dic://noncontroversial)
+		7. [writer](dic://writer), [author](dic://author), [controversy](dic://controversy), [contention](dic://contention), [contestation](dic://contestation), [disputation](dic://disputation), [disceptation](dic://disceptation)
+		8. **rhetoric**修辞，修辞学;**rebuttal**反驳;**critique**批评;**discourse**论文;**satire**讽刺;**dogmatic**教条的;**satirical**含讽刺意味的, 嘲讽的;**provocative**刺激的;**treatise**论文;**criticism**批评, 批判, 指责;**philosophical**哲学的;
+		9. He wrote a splendid polemic in my favour. /他写了一篇出色的文章为我辩护。
+		10. It is a polemic framed as a personal quest. /这是一本以个人探索为论辩框架的书。
+		11. The result is a lively mix of scholarship, reporting and polemic /最终，Studwell 把学术研究、调查报道以及书面论战生动地糅为一体。
+		12. People continued their pointless polemic day and night. /人们整天继续着无意义的争论。
+		13. 
+		14. polemics
+		15. polemical
 			1. **theological**神学的;**dogmatic**教条的;**ideological**观念学的;**argumentative**好辩的,争论的;**rhetorical**修辞的;**scholarly**学术性的;**provocative**刺激的;**satirical**含讽刺意味的, 嘲讽的;**confrontational**对抗;**rhetoric**修辞，修辞学;**philosophical**哲学的;
 			2. The book is slightly technical, eminently readable, consistently shocking, occasionally hectoring and unapologetically polemical. /该书以“专业门槛低、可读性强、时刻吸引读者兴趣、彻底颠覆药业形象、语言咄咄逼人又击中要害”而颇具特色。
 			3. Perhaps, he says, the gags would come easier if he were more polemical. /他说，或许，如果他更好辩一些，那些段子就会更容易响。
 			4. The letter was probably written for polemical impact. It is scarcely credible /这封信可能是为了起到引发争论的效果，内容并不可信。
 			5. On the other hand he was boldly and ardently casting his mystical and polemical writings upon the social battlefield. From 1900 to 1910 such work absorbed the greater part of his time and energy. /另一方面，他大胆而热情地将他的神秘和好战的作品投向社会战场。从 1900 年到 1910 年，这些工作占用了他大部分的时间和精力。
-		15. polemicist
-		16. polemicize
+		16. polemicist
+		17. polemicize
 	3. polemist
 		1. - n. 辩论家，争论者；善辩论者
 		2.  [polemicist](dic://polemicist), [polemic](dic://polemic)
@@ -816,18 +816,20 @@
 		2. _n._ [folly](dic://folly), [foolishness](dic://foolishness), [unwiseness](dic://unwiseness)
 		3. **folly**愚蠢;**idiocy**白痴;**absurdity**荒谬;**stupidity**愚笨;**hubris**傲慢;**hypocrisy**伪善;**foolishness**愚蠢;**arrogance**傲慢;**cynicism**犬儒主义;**indifference**不关心,不在乎;**silliness**愚蠢;
 		4. _[fatuity sagacity](dic://fatuity%20sagacity)_ 愚笨
-	2. fatuous
-		1.  [asinine](dic://asinine), [inane](dic://inane), [mindless](dic://mindless), [vacuous](dic://vacuous)
-		2. _adj._ [foolish](dic://foolish)
-		3. _n._ [wise](dic://wise)
-		4. **inane**愚蠢的;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**idiotic**白痴的;**nonsensical**无意义的;**absurd**荒谬的;**disingenuous**不真诚的;**pompous**浮夸的;**silly**愚蠢的;**nonsense**谬论;**self-serving**自私的,自私自利的;
-		5. _[fatuous love](dic://fatuous%20love)_  愚昧的爱
-		6. _[fatuous muddle-headed](dic://fatuous%20muddle-headed)_ 昏庸的
-		7. _[fatuous footling benighted](dic://fatuous%20footling%20benighted)_ 愚昧的
-		8. _[complacent fatuous self-content self-satisfied](dic://complacent%20fatuous%20self-content%20self-satisfied)_ 自满的
-		9. _[fatuous asinine oafish lunatic](dic://fatuous%20asinine%20oafish%20lunatic)_ 四大傻瓜
-		10. _[a fatuous and self-indulgent ruler](dic://a%20fatuous%20and%20self-indulgent%20ruler)_ 昏君; 昏乱的君王;
-	3. infatuate
+	2. fatuous (gratuitous, fortuitous, fatuous)
+		1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
+		2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+		3.  [asinine](dic://asinine), [inane](dic://inane), [mindless](dic://mindless), [vacuous](dic://vacuous)
+		4. _adj._ [foolish](dic://foolish)
+		5. _n._ [wise](dic://wise)
+		6. **inane**愚蠢的;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**idiotic**白痴的;**nonsensical**无意义的;**absurd**荒谬的;**disingenuous**不真诚的;**pompous**浮夸的;**silly**愚蠢的;**nonsense**谬论;**self-serving**自私的,自私自利的;
+		7. _[fatuous love](dic://fatuous%20love)_  愚昧的爱
+		8. _[fatuous muddle-headed](dic://fatuous%20muddle-headed)_ 昏庸的
+		9. _[fatuous footling benighted](dic://fatuous%20footling%20benighted)_ 愚昧的
+		10. _[complacent fatuous self-content self-satisfied](dic://complacent%20fatuous%20self-content%20self-satisfied)_ 自满的
+		11. _[fatuous asinine oafish lunatic](dic://fatuous%20asinine%20oafish%20lunatic)_ 四大傻瓜
+		12. _[a fatuous and self-indulgent ruler](dic://a%20fatuous%20and%20self-indulgent%20ruler)_ 昏君; 昏乱的君王;
+	4. infatuate
 		1. _v._ [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke), [fire](dic://fire), [raise](dic://raise)
 		2. **seduce**引诱;**impress**给…以深刻印象, 使铭记;**flirt**调情;**betray**背叛;**dazzle**耀眼的光;**alluring**迷人的，吸引人的;**entice**诱使;**woo**寻求支持;**amuse**使发笑;**excite**刺激…，使…兴奋;**arouse**引起;
 		3. _[infatuate](dic://infatuate)_  v. 使糊涂，使冲昏头脑；使迷恋; adj. （古）着迷的（同 infatuated）; n. 热恋者，迷恋者；被冲昏头脑的人; 
@@ -3299,7 +3301,7 @@
 		13. coniferaldehyde
 		14. Coniferae
 	7. confer
-		1. (endow, confer, bestow, vest, grant, deign, impart, sanction)
+		1. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat, decree, invest, enthrone, ordain,)
 		2.  [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
 		3. [bestow](dic://bestow)
 		4. _v._ [hash out](dic://hash out), [discuss](dic://discuss), [talk over](dic://talk over), [award](dic://award), [present](dic://present)
@@ -4932,16 +4934,17 @@
 		13. _flue gas desulfurization process_ 烟道气脱硫过程
 	8. fluent, fluency, fluid, 
 		1. affluence, affluent (afferent)
-			1. **prosperity**幸运;**wealth**财富;**affluent**富裕的;**prestige**威望，声望;**consumerism**商品的消费和销售性服务;**materialism**唯物主义;**riches**财富;**poverty**贫困;**abundance**大量, 充足;**contentment**满足,满意;**middle-class**中产阶级的;
-			2. the affluence of blood to the heart /血流入心脏
-			3. a heritage of affluence and social position. /与生俱来的富有和社会地位
-		2. influence, influent
+			1. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse,)
+			2. **prosperity**幸运;**wealth**财富;**affluent**富裕的;**prestige**威望，声望;**consumerism**商品的消费和销售性服务;**materialism**唯物主义;**riches**财富;**poverty**贫困;**abundance**大量, 充足;**contentment**满足,满意;**middle-class**中产阶级的;
+			3. the affluence of blood to the heart /血流入心脏
+			4. a heritage of affluence and social position. /与生俱来的富有和社会地位
+		3. influence, influent
 			1. **impact**影响;**exert**运用，发挥;**exerted**外露的;**affect**影响;**clout**破布;**exerts**运用;**influential**有影响的, 有权势的;**involvement**卷入;**sway**使摇动;**perception**感知;**effect**效果;
 			2. influenza
 				1. **flu**流感;**pandemic**在全国流行的;**measles**麻疹;**dengue**登革热;**vaccine**疫苗;**pneumonia**肺炎;**outbreak**发作;**tuberculosis**肺结核;**smallpox**天花;**hepatitis**肝炎;**vaccination**种痘;
 			3. interfluent
 				1.  合流的
-		3. confluence, confluent, confluction
+		4. confluence, confluent, confluction
 			1. [geographic point](dic://geographic point), [geographical point](dic://geographical point), [blend](dic://blend), [blending](dic://blending), [merging](dic://merging), [meeting](dic://meeting), [coming together](dic://coming together)
 			2. **tributary**纳贡的;**river**河，江;**intersection**横断;**junction**连接，接合;**juncture**连接;**watershed**分水岭;**convergence**集中,收敛;**upstream**向上游;**intersecting**相叉的;**downstream**在下游;**present-day**现在的;
 				1. _[confluence river](dic://confluence%20river)_ 交汇水流
@@ -4949,11 +4952,11 @@
 				3. _[confluence conformability](dic://confluence%20conformability)_ 一致性
 				4. _[confluence plain](dic://confluence%20plain)_ 汇流平原; 汇聚平原; 
 				5. _[river confluence](dic://river%20confluence)_ 河流汇合点; 河道交叉点;
-		4. diffluence
+		5. diffluence
 			1. _[diffluence](dic://diffluence)_  n. 分流；溶解
 			2. diffluent
 				1. The structure and machining process of plane **diffluent** compound die are introduced /介绍了平面分流组合模的结构和加工工艺。
-		5. effluence (efferent, afferent)
+		6. effluence (efferent, afferent)
 			1. _[effluence](dic://effluence)_  n. 流出；流出物；发射物
 			2. **effluent**流出物;**sewage**污水;**stench**恶臭;**sludge**烂泥;**polluted**受污染的;**filth**猥亵;**wastewater**废水;**pollution**污染, 弄脏;**noxious**有害的;**outflow**流出;**polluting**污染的;
 			3. effluent
@@ -4968,14 +4971,14 @@
 			5. effluvium
 				1. _n._ [discharge](dic://discharge), [emission](dic://emission)
 				2. **stench**恶臭;**noxious**有害的;**fecal**排泄物的;**smelly**有臭味的，发臭的;
-		6. circumfluence, circumfluent
+		7. circumfluence, circumfluent
 			1. 环流；周流
-		7. mellifluence, mellifluent, mellifluous
+		8. mellifluence, mellifluent, mellifluous
 			1. **baritone**男中音;**soulful**感情上的;**eloquent**雄辩的，有口才的;**evocative**引起…记忆的, 唤起…感情的;**lyrical**抒情诗调的;**melodic**有旋律的;**sultry**闷热的;**poetic**诗的，诗歌的;**velvety**天鹅绒般柔软的;**ethereal**天上的;**soothing**使人宽心的;
 			2. [melodious](dic://melodious), [melodic](dic://melodic), [musical](dic://musical)
-		8. defluent
+		9. defluent
 			1. n. 向下流的部分
-		9. refluence, refluent
+		10. refluence, refluent
 			1. 逆流；退潮
 	9. superfluity
 		1. _n._ [excess](dic://excess), [excessiveness](dic://excessiveness), [inordinateness](dic://inordinateness)
@@ -5438,27 +5441,33 @@
 		3.  [detrition](dic://detrition), [rubbing](dic://rubbing)
 		4. _n._ [conflict](dic://conflict), [resistance](dic://resistance), [effort](dic://effort), [elbow grease](dic://elbow grease), [exertion](dic://exertion), [travail](dic://travail), [sweat](dic://sweat)
 		5. **tension**张力，拉力;**lubrication**润滑;**abrasion**磨损;**lubricant**润滑剂;**roughness**粗糙;**inertia**惯性;**torque**转矩，扭矩;**vibration**震动;**pressure**压力;**damping**阻尼;**viscous**粘性的;
-	5. frivolity
-		1. n. 轻薄, 轻率, 不足取的事
-		2. frivol【虚度日子, 做无聊事】 + -ity, 表名词
-		3. _n._ [trait](dic://trait), [triviality](dic://triviality), [trivia](dic://trivia), [trifle](dic://trifle), [small beer](dic://small beer), [folly](dic://folly), [foolery](dic://foolery)
-		4. _n._ [seriousness](dic://seriousness), [earnestness](dic://earnestness), [serious-mindedness](dic://serious-mindedness), [sincerity](dic://sincerity)
-		5. **silliness**愚蠢;**frivolous**不重要的,不必要的;**whimsy**怪念头;**indulgence**放纵;**absurdity**荒谬;**foolishness**愚蠢;**cynicism**犬儒主义;**seriousness**严肃;**craziness**发狂,热中,狂热;**light-hearted**轻松的;**boredom**厌倦;
-		6. His frivolity annoys the other people in the office /他的轻浮使办公室里的其他人感到不快。
-		7. People enjoy a few frivolities during their holidays /人们在假期里轻松地娱乐一番。
-	6. frivolous
-		1. _adj._ [airheaded](dic://airheaded), [dizzy](dic://dizzy), [empty-headed](dic://empty-headed), [featherbrained](dic://featherbrained), [giddy](dic://giddy), [light-headed](dic://light-headed), [lightheaded](dic://lightheaded)
-		2. **silly**愚蠢的;**pointless**无意义的;**extravagant**奢侈的, 铺张的;**childish**幼稚的，孩子气的;**outrageous**骇人的;**unnecessary**不必要的, 多余的;**wasteful**浪费的，不经济的;**baseless**无根据的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**superfluous**过多的;
-		3. It might seem frivolous, but it's not /这看上去可能不值一提，但并非如此。
-		4. It can be frivolous, but it doesn't have to be /快乐可能是无意义的，但也不一定如此。
-		5. They shun books with naughty or frivolous children, or where youngsters outsmart their elders /他们不会出版那些关于淘气或者不务正业的孩子的书籍，以及那些描述孩子的智慧超过大人的书籍。
-		6. For every story of successful investment and charitable giving there is a more sensational story of frivolous spending. /既然有成功投资和慈善捐赠的美事佳话，自然也会有胡乱消费的骇人故事。
-	7. affricate
+	5. frivol
+		1.  (vitriol, thrive, frivol, virile, trivia)
+		2. 1. vt. 浪费；糟蹋 vi. 虚度日子
+		3. Male:"Good can't frivol a food." /男：“好不能糟蹋粮食。”
+		4. It's frivol misuse of time, I confess /我承认，这有点无谓浪费时间。
+		5. 
+		6. frivolity
+			1. n. 轻薄, 轻率, 不足取的事
+			2. frivol【虚度日子, 做无聊事】 + -ity, 表名词
+			3. _n._ [trait](dic://trait), [triviality](dic://triviality), [trivia](dic://trivia), [trifle](dic://trifle), [small beer](dic://small beer), [folly](dic://folly), [foolery](dic://foolery)
+			4. _n._ [seriousness](dic://seriousness), [earnestness](dic://earnestness), [serious-mindedness](dic://serious-mindedness), [sincerity](dic://sincerity)
+			5. **silliness**愚蠢;**frivolous**不重要的,不必要的;**whimsy**怪念头;**indulgence**放纵;**absurdity**荒谬;**foolishness**愚蠢;**cynicism**犬儒主义;**seriousness**严肃;**craziness**发狂,热中,狂热;**light-hearted**轻松的;**boredom**厌倦;
+			6. His frivolity annoys the other people in the office /他的轻浮使办公室里的其他人感到不快。
+			7. People enjoy a few frivolities during their holidays /人们在假期里轻松地娱乐一番。
+		7. frivolous
+			1. _adj._ [airheaded](dic://airheaded), [dizzy](dic://dizzy), [empty-headed](dic://empty-headed), [featherbrained](dic://featherbrained), [giddy](dic://giddy), [light-headed](dic://light-headed), [lightheaded](dic://lightheaded)
+			2. **silly**愚蠢的;**pointless**无意义的;**extravagant**奢侈的, 铺张的;**childish**幼稚的，孩子气的;**outrageous**骇人的;**unnecessary**不必要的, 多余的;**wasteful**浪费的，不经济的;**baseless**无根据的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**superfluous**过多的;
+			3. It might seem frivolous, but it's not /这看上去可能不值一提，但并非如此。
+			4. It can be frivolous, but it doesn't have to be /快乐可能是无意义的，但也不一定如此。
+			5. They shun books with naughty or frivolous children, or where youngsters outsmart their elders /他们不会出版那些关于淘气或者不务正业的孩子的书籍，以及那些描述孩子的智慧超过大人的书籍。
+			6. For every story of successful investment and charitable giving there is a more sensational story of frivolous spending. /既然有成功投资和慈善捐赠的美事佳话，自然也会有胡乱消费的骇人故事。
+	6. affricate
 		4. af- + fric-摩擦 + -ate
 		5. _n._ [obstruent](dic://obstruent)
 		6. **consonant**辅音;**vowel**元音;**vowels**元音，母音;**phonetic**语音的，语音学的;**pronunciation**发音;**alveolar**肺泡的;**syllable**音节;**dialects**乡土语言，方言;
 		7. _[affricate](dic://affricate)_  n. 塞擦音；破擦音; vt. 使发成塞擦音;
-	8. dentifrice
+	7. dentifrice
 		1. n. 牙膏；牙粉
 		2. denti-牙齿 + -frice, 摩
 		3. dandelion（蒲公英）：叶子像狮子牙齿的植物  
