@@ -33,7 +33,7 @@
 - **tact-, tag-, tig-, ting- = to touch**
 	- tact
 		- tactic 
-		- tactless (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, )
+		- tactless (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
 			- tact【机智】 + -less无，没有
 			- a. 不机智的, 不机敏的
 			- [untactful](dic://untactful)
@@ -41,7 +41,8 @@
 			- _adj._ [maladroit](dic://maladroit)
 			- _n._ [tactful](dic://tactful), [adroit](dic://adroit)
 			- **rude**粗鲁的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**insensitive**不敏感的;**callous**起老茧的;**arrogant**自大的，傲慢的;**sarcastic**讽刺的;**disrespectful**失礼的,无礼的;**obnoxious**可憎的;**pompous**浮夸的;**snarky**恶声恶气的，咬人的;
-		- tactician, tactful
+		- tactician
+			- tactful
 	- tactile
 		- dermotactile
 		- tectilogical
@@ -145,7 +146,7 @@
 			3. _[tacitly approve](dic://tacitly%20approve)_  默认
 			4. _[understand tacitly](dic://understand%20tacitly)_  心领神会
 	4. taciturn 
-		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
+		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn, austere,)
 		2. - 来自 tacit,安静的，-urn,形容词后缀。引申词义不苟言笑的。
 		3. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
 		4. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
@@ -256,9 +257,10 @@
 	3. - re-,向后，往回，-tard,缓慢，词源同 tardy.引申词义延缓，阻碍。
 3. tardy
 	1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy)
-	2. a. 慢的, 迟到的, 勉强的, 拖拉的, 迟的
-	3. 来自拉丁语 tardus,缓慢的，词源同 retard.
-5. tarry
+	2. 
+	3. a. 慢的, 迟到的, 勉强的, 拖拉的, 迟的
+	4. 来自拉丁语 tardus,缓慢的，词源同 retard.
+5. tarry (parry, harry, tarry, marry)
 	1. v. 耽搁, 逗留  
 	2. a. 涂了焦油的
 	3. 来自阿拉伯语 tardare,延迟，迟缓，词源同tardy, retard。
@@ -376,10 +378,11 @@
 	2. tectology
 		1. n. 组织构造学
 	3. tectonic
-		1.  [architectonic](dic://architectonic)
-		2. _adj._ [tectonics](dic://tectonics), [plate tectonics](dic://plate tectonics), [plate tectonic theory](dic://plate tectonic theory), [architectonics](dic://architectonics)
-		3. **seismic**地震的;**geological**地质的;**geologic**地质的;**sedimentary**沉积的;**volcanic**火山的;**deformation**损形;**oceanic**海洋的;**glacial**冰的;**magma**岩浆;**geology**地质情况;**earthquake**地震;
-	4. tectonics
+		1. a. 构造的, 建筑的
+		2. [architectonic](dic://architectonic)
+		3. _adj._ [tectonics](dic://tectonics), [plate tectonics](dic://plate tectonics), [plate tectonic theory](dic://plate tectonic theory), [architectonics](dic://architectonics)
+		4. **seismic**地震的;**geological**地质的;**geologic**地质的;**sedimentary**沉积的;**volcanic**火山的;**deformation**损形;**oceanic**海洋的;**glacial**冰的;**magma**岩浆;**geology**地质情况;**earthquake**地震;
+	5. tectonics
 		1. _n._ [science](dic://science), [scientific discipline](dic://scientific discipline), [morphology](dic://morphology), [geomorphology](dic://geomorphology)
 		2. **tectonic**构造的;**geology**地质情况;**geological**地质的;**geologic**地质的;**sedimentary**沉积的;**seismic**地震的;**magma**岩浆;**deformation**损形;**plate**盘子, 碟;**crust**面包皮;**oceanic**海洋的;
 		3. petrotectonics
@@ -404,7 +407,14 @@
 	2. context
 		1. microcontext
 		2. contexture
-		3. contxtual
+			1. - n. 组织，结构；编织（工艺或方式）
+		3. contextual
+		4. contextualize
+			1. _vt._ 将(音素、单词等)置于上下文中研究，(通过介绍来龙去脉)，使(事件、 活动等) 溶入背景
+			2. As Europeans began to colonize the world, they contextualized bug eating as savage and primitive because they observed many indigenous people doing it. /随着欧洲人开始在世界上殖民，他们将吃虫子视为野蛮和原始的背景， 因为他们观察到许多土著人这样做。
+			3. That people are contextualizing you as an Oscar contender /人们把你看作是奥斯卡的竞争者。
+			4. And sometimes we need to put things away, contextualize them and move again /有时候我们需要把东西放好，把它们联系起来，然后再向前进。
+			5. Everyone loves a good story—they're easier to listen to and they help contextualize the work that we do. /每个人都喜欢好故事——他们更容易倾听， 而且有助于将我们所做的工作融入情境。
 	3. pretext
 	4. textile
 		1.  [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material)
@@ -426,12 +436,12 @@
 		17. _textile auxiliary_ 纺织助剂
 		18. _textile fibre_ 纺织纤维
 		19. acoustextile
-	6. textolite
+	5. textolite
 		1. 层压胶布板；织物酚醛塑胶，夹布胶木
-	7. textual
+	6. textual
 		1. textually
 		2. textualist
-	8. texture
+	7. texture
 		1. texturity
 		2. textureless
 		3. textured, untextured
@@ -440,7 +450,7 @@
 		6. microtexture
 		7. interrtexture
 		8. geotexture
-	9. tissue
+	8. tissue
 		1. tissular
 		2. pluritissular
 4. **toil-** = 表示“布，帆布，网”。源自拉丁语 tela "web, net, warp of a fabric"
@@ -1415,13 +1425,14 @@
 		6. _v._ [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on), [touch](dic://touch), [color](dic://color)
 		7. **greenish**呈绿色的;**hint**暗示;**reddish**微红的;**overtones**弦外之音;**melancholy**忧郁, 悲哀;**slight**轻微的，少量的;**yellowish**微黄色的;**brownish**呈褐色的;**sheen**光辉，光泽，光彩;**whiff**喷出;**cynicism**犬儒主义;
 	3. distain
-		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, distain,)
-		2. v. （使）变色；将……弄脏；伤害……的名誉
-		3. _[despise belittle distain](dic://despise%20belittle%20distain)_ 轻视
-		4. _[distain n](dic://distain%20n)_ 贬损; 鄙视;
-		5. _[distain for](dic://distain%20for)_ 蔑视
-		6. _[distain to reply](dic://distain%20to%20reply)_ 不屑置答
-		7. _[For thee to distain it](dic://For%20thee%20to%20distain%20it)_ 你也不会再来鄙薄
+		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
+		3. v. （使）变色；将……弄脏；伤害……的名誉
+		4. _[despise belittle distain](dic://despise%20belittle%20distain)_ 轻视
+		5. _[distain n](dic://distain%20n)_ 贬损; 鄙视;
+		6. _[distain for](dic://distain%20for)_ 蔑视
+		7. _[distain to reply](dic://distain%20to%20reply)_ 不屑置答
+		8. _[For thee to distain it](dic://For%20thee%20to%20distain%20it)_ 你也不会再来鄙薄
 	5. taint
 		1.  [contamination](dic://contamination)
 		2.  [defile](dic://defile), [sully](dic://sully), [corrupt](dic://corrupt), [cloud](dic://cloud)
@@ -1482,8 +1493,8 @@
 	1. etc..
 5. **trib-** = to rub, 表示“摩擦”。源自希腊语 tribein "to rub, ghresh, pound, wear out."
 	1. diatribe
-		2.   (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
-		3. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, distain,)
+		2.  (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
 		4. [fulmination](dic://fulmination)
 		5. _n._ [denunciation](dic://denunciation), [denouncement](dic://denouncement)
 		6. **rant**咆哮;**ranting**吼闹;**rebuttal**反驳;**drivel**淌口水,说傻话;**scathing**严厉的;**rambling**漫步的;**inane**愚蠢的;**hyperbole**夸张的语句;**idiocy**白痴;**remarks**摘要;**snarky**恶声恶气的，咬人
@@ -3104,20 +3115,48 @@
 		2. [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
 		3. propounder
 7. **pos-, posit-** = put, 表示“放”。源自拉丁语 positionem "act or fact of placing, situation, position, affirmation."
-	1. apposite  (germane, fitting, condign, apposite, commensurate, apropos, apt, pertinent)
-		1. ap-加强动作 + pos-放 + -ite → 放到(合适的位置) → 适当的。
-		2.  [appropriate](dic://appropriate), [apt](dic://apt), [pertinent](dic://pertinent)
-		3. _adj._ [apropos](dic://apropos)
-		4. _n._ [malapropos](dic://malapropos)
-		5. **pertinent**有关的;**instructive**教育性的;**indubitably**无疑地;**eminently**很;**appropriate**适当的, 恰当的;**juncture**连接;**doubtless**无疑地, 肯定地;**amusing**有趣的，好玩的;**particularly**特别;**allusion**暗示;**ironic**讽刺的;
-		6. _[apposite coordinate paratactic](dic://apposite%20coordinate%20paratactic)_ 并列的
-		7. appositive
-			1. **pronoun**代词;**adjective**形容词;**comma**逗号;**verb**动词;**punctuation**标点法, 标点符号的使用;**grammatical**语法的;**possessive**所有格;**clauses**子句;**sentence**宣判，判决;**noun**名词;**nouns**名词;
-		8. contrapositive
-			1. adj. 对换的；对照的; n. 对换句;
-			2. - adj. 对换的；对照的 n. 对换句
-			3. Contraposition 换质换位律/ 逆否命题
-	3. deposit
+	1. posit
+		1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
+		2.  [postulate](dic://postulate)
+		3. [situate](dic://situate), [fix](dic://fix), [deposit](dic://deposit)
+		4.  [submit](dic://submit), [state](dic://state), [put forward](dic://put forward)
+		5. **argue**争论，辩论;**notion**概念;**conclude**推断出;**plausible**貌似真实的，貌似有理的;**presume**假定;**infer**推断;**hypothesis**假说, 假设, 前提;**assert**断言;**assumption**假定, 臆断;**speculate**思索;**propose**建议;
+		6. [proposition](dic://proposition)
+		7. [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay), [propose](dic://propose)
+		8. This theory posits that the film is a giant palindrome. /这个理论假设这部电影是一个巨大的回文。
+		9. These are all questions that I have posited in my brain, and I'm here to answer those questions. /这些问题萦绕在我的脑海里，而我来这里就是为了寻求答案的。
+		10. It is not all Mark Zuckerbergs at the top, the authors posit. /作者认为并非所有高层都像马克·扎克伯格一样。
+		11. The difference, the researchers posited, might have to do with memories of past consumption. /研究人员假定，这种差异可能与过去消耗的记忆有关。
+		12. oviposit
+	2. position
+		1. transposition
+		2. superposition
+		3. retroposition
+		4. postposition
+		5. positioner
+		6. positioned
+		7. positional
+		8. multiposition
+		9. microposition
+		10. malposition
+		11. lateroposition
+		12. larviposition
+		13. contraposition
+		14. antiposition
+		15. anteposition
+		16. amphiposition
+		17. interposition
+		18. interoposition
+		19. dextroposition
+		20. juxtaposition
+	3. positive
+		1. prepositive
+			2. adj. 前置的; n. 前置语;
+		2. postpositive
+		3. dispositive
+			1. adj. （事件、行为等）决定性的
+		4. etc..
+	4. deposit
 		1. [sedimentation](dic://sedimentation), [alluviation](dic://alluviation)
 		2. [deposition](dic://deposition)
 		3. [bank deposit](dic://bank deposit)
@@ -3147,19 +3186,21 @@
 			4. codeposition
 			5. redeposition
 			6. etc..
-	4. disposition
-		1. **temperament**性格, 性情, 气质;**demeanor**行为;**attitude**态度;**countenance**面容，表情;**determination**决心;**judgment**判断;**conveyance**运输;**personality**人格, 个性;**continuance**继续;**manner**方式;**nature**自然;
+	5. disposition
+		1.  (disposition, complexion, countenance, comportment, demeanor, )
+		2. **temperament**性格, 性情, 气质;**demeanor**行为;**attitude**态度;**countenance**面容，表情;**determination**决心;**judgment**判断;**conveyance**运输;**personality**人格, 个性;**continuance**继续;**manner**方式;**nature**自然;
 			1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。
 			2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。
 			3. [nature](dic://nature) 指天生的、不可改变性格。
 			4. [personality](dic://personality) 主要指一个人稳定的心理特征。
 			5. [disposition](dic://disposition) 书面用词，指人的主要爱好或思想、精神方面的重要习性、气质。也可指短暂的情绪。
 			6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
-		2. etc
-	5. exposit (expound, elaborate, exposit, )
-		1. _v._ [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [expound](dic://expound)
-		2. **exposition**阐述, 讲解;**comprehend**理解, 领会;**summarize**总结, 概述;**dissect**切细;**discern**识别;**interpret**解释;**formulate**构想出, 规划;**examine**调查;**explain**说明，解释;**deduce**推论，推断;**apprehend**理解;
-		3. This paper systematic **exposit** various patterns of the hot water supply systems in high-rise buildings. /本文系统地论述了高层建筑热水供应的各种系统型式。
+		3. etc
+	7. exposit
+		1. (expound, elaborate, exposit, lucubrate, expatiate, expand, elucidate, )
+		2. _v._ [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [expound](dic://expound)
+		3. **exposition**阐述, 讲解;**comprehend**理解, 领会;**summarize**总结, 概述;**dissect**切细;**discern**识别;**interpret**解释;**formulate**构想出, 规划;**examine**调查;**explain**说明，解释;**deduce**推论，推断;**apprehend**理解;
+		4. This paper systematic **exposit** various patterns of the hot water supply systems in high-rise buildings. /本文系统地论述了高层建筑热水供应的各种系统型式。
 		5. The article includes four parts. In the first part, it interprets the harmony and fairness from philosophy and **exposit** their relations. /本文共分四部分，第一部分结合古今中外的思想对和谐与公平作了哲学解读，并对二者的关系做了阐述；
 		6. expository
 			2. [instructive](dic://instructive), [informative](dic://informative)
@@ -3170,50 +3211,9 @@
 			2. [intellectual](dic://intellectual), [intellect](dic://intellect)
 		8. expositive
 		9. exposition
-	7. posit
-		1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
-		2.  [postulate](dic://postulate)
-		3. [situate](dic://situate), [fix](dic://fix), [deposit](dic://deposit)
-		4.  [submit](dic://submit), [state](dic://state), [put forward](dic://put forward)
-		5. **argue**争论，辩论;**notion**概念;**conclude**推断出;**plausible**貌似真实的，貌似有理的;**presume**假定;**infer**推断;**hypothesis**假说, 假设, 前提;**assert**断言;**assumption**假定, 臆断;**speculate**思索;**propose**建议;
-		6. [proposition](dic://proposition)
-		7. [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay), [propose](dic://propose)
-		8. This theory posits that the film is a giant palindrome. /这个理论假设这部电影是一个巨大的回文。
-		9. These are all questions that I have posited in my brain, and I'm here to answer those questions. /这些问题萦绕在我的脑海里，而我来这里就是为了寻求答案的。
-		10. It is not all Mark Zuckerbergs at the top, the authors posit. /作者认为并非所有高层都像马克·扎克伯格一样。
-		11. The difference, the researchers posited, might have to do with memories of past consumption. /研究人员假定，这种差异可能与过去消耗的记忆有关。
-		12. oviposit
-	9. position
-		1. transposition
-		2. superposition
-		3. retroposition
-		4. postposition
-		5. positioner
-		6. positioned
-		7. positional
-		8. multiposition
-		9. microposition
-		10. malposition
-		11. lateroposition
-		12. larviposition
-		13. contraposition
-		14. antiposition
-		15. anteposition
-		16. amphiposition
-		17. interposition
-		18. interoposition
-		19. dextroposition
-		20. juxtaposition
-	10. positive
-		1. prepositive
-			1. adj. 前置的; n. 前置语;
-		2. postpositive
-		3. dispositive
-			1. adj. （事件、行为等）决定性的
-		4. etc..
-	11. preposition, prepositioning
+	9. preposition, prepositioning
 		1. **verb**动词;**pronoun**代词;**verbs**动词;**noun**名词;**nouns**名词;**participle**分词;**adjective**形容词;**grammatical**语法的;**pronouns**代名词;**sentence**宣判，判决;**plural**复数的;
-	12. reposit
+	10. reposit
 		1. repository
 			1. **repository**仓库，贮藏室，存放处;
 			2. **database**数据库，资料库;**archive**存档;**metadata**元数据;**library**图书馆，藏书室;**git**饭桶;**archives**档案，档案室;**source**来源;**directory**人名地址录, 号码簿;**resource**资源，财力;**documentation**证明某事属实的证据;**schema**图解;
@@ -3221,33 +3221,47 @@
 			1. facility, installation, confidant, intimate, burial chamber, sepulcher, sepulchre
 		3. reposition
 			1. **reshape**改造;**rotate**旋转;**rearrange**重新安排;**detach**分离;**positioning**配置,布置;**move**迁居;**remove**移开;**reinvent**重新使用;**stabilize**稳定;**displace**取代;**adjust**校准;
-	13. suppository
+	11. suppository
 		1. **rectum**直肠;**anus**肛门;**ointment**油膏;**ibuprofen**布洛芬,异丁苯丙酸;**capsules**太空舱;**dosage**剂量，用量;**constipation**便秘;**syringe**注射器;**vagina**阴道;**rectal**直肠的;**vaginal**阴道的;
 		2. [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
-	14. appose
-		1. **oppose**反对;**opposed**敌对的;**opposing**对面的;**condemn**判刑，定罪;**denounce**谴责;**prefer**宁愿;**supporting**支持的;**consider**认为;**despise**轻视，鄙视;**justify**证明合法;
-		2. apposition, appositional
-			1. **suture**缝合;**noun**名词;**verb**动词;**proximal**最接近的，邻近的;**distal**末梢的，末端的;**pronoun**代词;
-	15. apropos
-		1. [incidentally](dic://incidentally)
-		2. [seasonably](dic://seasonably), [timely](dic://timely), [well-timed](dic://well-timed)
-		3. [apposite](dic://apposite), [appropriate](dic://appropriate), [apt](dic://apt), [pertinent](dic://pertinent)
-		4. **ironic**讽刺的;**ironically**嘲讽地, 挖苦地;**allusion**暗示;**amusing**有趣的，好玩的;**pertinent**有关的;**indubitably**无疑地;**oddly**古怪地;**remark**评论;**apt**有…倾向的;**evidently**明显地;**disconcerting**困惑的, 不安的, 尴尬的;
-		5. _apropos of_ 关于，至于；就…而言
-		6. malapropos
+	12. apropos
+		4. [incidentally](dic://incidentally)
+		5. [seasonably](dic://seasonably), [timely](dic://timely), [well-timed](dic://well-timed)
+		6. [apposite](dic://apposite), [appropriate](dic://appropriate), [apt](dic://apt), [pertinent](dic://pertinent)
+		7. **ironic**讽刺的;**ironically**嘲讽地, 挖苦地;**allusion**暗示;**amusing**有趣的，好玩的;**pertinent**有关的;**indubitably**无疑地;**oddly**古怪地;**remark**评论;**apt**有…倾向的;**evidently**明显地;**disconcerting**困惑的, 不安的, 尴尬的;
+		8. _apropos of_ 关于，至于；就…而言
+		9. malapropos
 			1. **colloquial**口语的, 会话的;**vulgar**粗俗的;**crass**粗鲁的;**inane**愚蠢的;**pompous**浮夸的;**allusion**暗示;
 			2. [inapposite](dic://inapposite), [out of place](dic://out of place)
-		7. aproposity
-	16. contrapose
+		10. aproposity
+	13. appose
+		1. vt. 使并列, 放...在近处
+		2. **oppose**反对;**opposed**敌对的;**opposing**对面的;**condemn**判刑，定罪;**denounce**谴责;**prefer**宁愿;**supporting**支持的;**consider**认为;**despise**轻视，鄙视;**justify**证明合法;
+		3. apposition, appositional
+			1. **suture**缝合;**noun**名词;**verb**动词;**proximal**最接近的，邻近的;**distal**末梢的，末端的;**pronoun**代词;
+	14. apposite  (germane, fitting, condign, apposite, commensurate, apropos, apt, pertinent)
+		1. ap-加强动作 + pos-放 + -ite → 放到(合适的位置) → 适当的。
+		2.  [appropriate](dic://appropriate), [apt](dic://apt), [pertinent](dic://pertinent)
+		3. _adj._ [apropos](dic://apropos)
+		4. _n._ [malapropos](dic://malapropos)
+		5. **pertinent**有关的;**instructive**教育性的;**indubitably**无疑地;**eminently**很;**appropriate**适当的, 恰当的;**juncture**连接;**doubtless**无疑地, 肯定地;**amusing**有趣的，好玩的;**particularly**特别;**allusion**暗示;**ironic**讽刺的;
+		6. _[apposite coordinate paratactic](dic://apposite%20coordinate%20paratactic)_ 并列的
+		7. appositive
+			1. **pronoun**代词;**adjective**形容词;**comma**逗号;**verb**动词;**punctuation**标点法, 标点符号的使用;**grammatical**语法的;**possessive**所有格;**clauses**子句;**sentence**宣判，判决;**noun**名词;**nouns**名词;
+		8. contrapositive
+			1. adj. 对换的；对照的; n. 对换句;
+			2. - adj. 对换的；对照的 n. 对换句
+			3. Contraposition 换质换位律/ 逆否命题
+	15. contrapose
 		1. vt. 针对；对照
-	17. depose
+	16. depose
 		1. **oust**剥夺;**overthrow**打倒;**assassinate**暗杀，行刺;**compel**强迫，迫使;**appoint**任命;**topple**倾倒;**persuade**说服，劝说;**discredit**败坏…的名声;**prosecute**检举、告发某人;**expel**驱逐;**overthrown**打翻的;
 		2. [oust](dic://oust), [throw out](dic://throw out), [drum out](dic://drum out), [boot out](dic://boot out), [kick out](dic://kick out), [expel](dic://expel), [declare](dic://declare)
 		3. [swear](dic://swear), [depone](dic://depone)
 		4. [force out](dic://force out)
 		5. deposable
 		6. deposal
-	18. dispose
+	17. dispose
 		1. **recycle**使再循环;**discard**丢弃;**disposal**清理;**bury**埋葬;**rid**使去掉;**remove**移开;**acquire**获得;**discarded**放弃的;**dump**倾倒;**trash**垃圾;**waste**废物;
 		2. [sell](dic://sell), [get rid of](dic://get rid of), [remove](dic://remove), [determine](dic://determine), [shape](dic://shape), [mold](dic://mold), [influence](dic://influence)
 		3. [discard](dic://discard), [fling](dic://fling), [toss](dic://toss), [toss out](dic://toss out), [toss away](dic://toss away), [chuck out](dic://chuck out), [cast aside](dic://cast aside), [throw out](dic://throw out), [cast out](dic://cast out), [throw away](dic://throw away), [cast away](dic://cast away), [put away](dic://put away)
@@ -3276,7 +3290,7 @@
 				2. _disposable chopsticks_ 一次性筷子
 				3. _disposable diaper_ 一次性尿片，纸尿裤
 		16. bomb-disposal
-	19. expose
+	18. expose
 		1. **conceal**隐藏;**reveal**揭露;**uncover**揭露;**hide**隐藏;**protect**保护，防卫;**exploit**开发，开拓;**manipulate**熟练控制;**discredit**败坏…的名声;**revealing**有启迪作用的;**embarrass**使窘迫;**confront**遭遇;
 		2. unexposed
 		3. underexpose
@@ -3285,7 +3299,7 @@
 		6. exposing
 		7. exposed
 		8. exposal
-	20. impose
+	19. impose
 		1.  [enforce](dic://enforce)
 		2.  [inflict](dic://inflict), [bring down](dic://bring down), [visit](dic://visit)
 		3. [levy](dic://levy)
@@ -3306,29 +3320,36 @@
 		13. imposition
 			1. **impose**强加;**imposed**强加的;**imposing**壮观的;**abolition**废除;**draconian**非常严厉的;**consequent**作为结果的;**prohibition**禁止;**unjust**不公平的，不公正的;**taxation**课税，征税;**levy**征收;**coercive**强制的;
 		14. imposing
-	21. impost
-		1. **taxation**课税，征税;**levy**征收;**excise**货物税;**imposing**壮观的;**imposition**强加,被迫接受;**tariff**关税表;**taxes**赋税;**tax**向…课税;**imposed**强加的;**impose**强加;**onerous**繁重的;
-	22. imposter, impostor
+	20. impost
+		1. n. 税款, 关税  vt. 决定关税, 分类课税
+		2. **taxation**课税，征税;**levy**征收;**excise**货物税;**imposing**壮观的;**imposition**强加,被迫接受;**tariff**关税表;**taxes**赋税;**tax**向…课税;**imposed**强加的;**impose**强加;**onerous**繁重的;
+	21. imposter, impostor
 		1. **fake**假货;**phony**假的，欺骗的;**fraudulent**欺骗的,不诚实的;**fakes**云母板状岩;**liar**说谎的人;**traitor**叛徒;**bogus**伪造的;**ruse**诡计;**hoax**愚弄;**disguise**假装;**fraud**欺骗;
 		2. [impostor](dic://impostor), [pretender](dic://pretender), [fake](dic://fake), [faker](dic://faker), [fraud](dic://fraud), [sham](dic://sham), [shammer](dic://shammer), [pseudo](dic://pseudo), [pseud](dic://pseud), [role player](dic://role player)
 		3. [deceiver](dic://deceiver), [cheat](dic://cheat), [cheater](dic://cheater), [trickster](dic://trickster), [beguiler](dic://beguiler), [slicker](dic://slicker)
-	23. imposture
-		1. **falsehood**谎言;**deception**欺骗;**forgery**伪造;**deceit**欺骗;**fraud**欺骗;**fraudulent**欺骗的,不诚实的;**dishonesty**不诚实的行为;**treachery**背信弃义, 不忠, 背叛;**heresy**异教;**delusion**错觉;**deceive**欺骗;
-		2. [deception](dic://deception), [deceit](dic://deceit), [dissembling](dic://dissembling), [dissimulation](dic://dissimulation)
-		3. [impersonation](dic://impersonation)
-	24. interpose
-		1. **compel**强迫，迫使;**restrain**抑制，控制;**obstruct**阻塞;**intervene**干涉;**confine**限制;**assert**断言;**thwart**反对;**render**提出;**invoke**援引;**defend**防护;**induce**引诱;
-		2. [introduce](dic://introduce), [interrupt](dic://interrupt), [disrupt](dic://disrupt), [break up](dic://break up), [cut off](dic://cut off), [interact](dic://interact)
-		3. interposer
-		4. interposal
-		5. interposition
+	22. imposture
+		1. n. 欺诈, 冒牌
+		2. im-进入，使 + post-放置 + -ure, 表名词，引申词义放置，替代，冒名行骗。
+		3.  im-,进入，使，-post,放置，词源同 posture,compose. 引申词义放置，替代，冒名行骗。
+		4. **falsehood**谎言;**deception**欺骗;**forgery**伪造;**deceit**欺骗;**fraud**欺骗;**fraudulent**欺骗的,不诚实的;**dishonesty**不诚实的行为;**treachery**背信弃义, 不忠, 背叛;**heresy**异教;**delusion**错觉;**deceive**欺骗;
+		5. [deception](dic://deception), [deceit](dic://deceit), [dissembling](dic://dissembling), [dissimulation](dic://dissimulation)
+		6. [impersonation](dic://impersonation)
+	23. interpose
+		1. vt. 使插入, 使介于二者间, 使干涉  vi. 插嘴, 干预
+		2. inter-在中间 + pos-放 + -e → 放在二者之间。
+		3. inter-,在内，在中间，相互，-pos,放置，词源同 pose,position.引申词义插入。
+		4. **compel**强迫，迫使;**restrain**抑制，控制;**obstruct**阻塞;**intervene**干涉;**confine**限制;**assert**断言;**thwart**反对;**render**提出;**invoke**援引;**defend**防护;**induce**引诱;
+		5. [introduce](dic://introduce), [interrupt](dic://interrupt), [disrupt](dic://disrupt), [break up](dic://break up), [cut off](dic://cut off), [interact](dic://interact)
+		6. interposer
+		7. interposal
+		8. interposition
 			1. [interjection](dic://interjection), [interpolation](dic://interpolation), [interpellation](dic://interpellation)
 			2. [break](dic://break), [interruption](dic://interruption), [disruption](dic://disruption), [gap](dic://gap), [placement](dic://placement), [location](dic://location), [locating](dic://locating)
 			3. **providence**天意;**obstruction**障碍;
-	25. juxtapose
+	24. juxtapose
 		1. **juxtaposition**并置,并列;**evoke**引起，唤起;**portray**描绘;**characterize**是…的特征, 以…为特征;**illustrate**给…加插图;**depict**描画;**accentuate**重读;**counterpoint**对位法;**combine**使联合，使结合;**artfully**狡诈地;**emphasize**强调;
 		2. [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
-	26. oppose
+	25. oppose
 		1. **condemn**判刑，定罪;**opposition**反对;**denounce**谴责;**reject**拒绝;**disapprove**不赞成;**endorse**赞同;**vehemently**热烈地;**disagree**不一致;**deny**否定，否认;**reconsider**重新考虑;**objection**反对, 异议;
 		2. unopposed
 		3. opposite
@@ -3336,13 +3357,13 @@
 		5. opposer
 		6. opposed
 		7. opposable
-	27. poseur
+	26. poseur
 		1. **wannabe**想达到目标的人;**snob**势利小人，势利眼;**pretentious**自命不凡的;**hipster**世面灵通的人;**moron**痴愚者;**elitist**优秀人材;**idiot**白痴;**pompous**浮夸的;**douche**灌注法;**hypocrite**伪君子;**hipsters**时髦人群;
-	28. positron
+	27. positron
 		1. **photon**光子;**electron**电子;**proton**质子;**neutron**中子;**protons**质子;**particle**颗粒;**atom**原子;**ion**离子;**photons**光子;**ionization**离子化,电离;**nuclei**核心，核子;
 		2. positronium
 		3. orthopositronium
-	29. posture
+	28. posture
 		5. **stance**姿态;**gait**步法，步态;**pose**摆姿势;**stances**步型;**kneeling**跪着，跪下;**positioning**配置,布置;**movements**整个活动;**muscles**肌肉;**position**位置，方位;**muscular**肌肉发达的;**demeanor**行
 		6. [bodily property](dic://bodily property), [attitude](dic://attitude), [mental attitude](dic://mental attitude), [capability](dic://capability), [capableness](dic://capableness)
 		7. [behave](dic://behave), [acquit](dic://acquit), [bear](dic://bear), [deport](dic://deport), [conduct](dic://conduct), [comport](dic://comport), [carry](dic://carry)
@@ -3357,7 +3378,7 @@
 		17. postural
 			1. **posture**姿势;**postures**姿势，态度;**gait**步法，步态;**musculoskeletal**肌骨骼的;**autonomic**自主的;**neurological**神经病学的;**physiological**生理的， 生理学的;**cognitive**认识的;**spinal**脊骨的;**lumbar**腰椎;**pelvic**骨盆的;
 			2. _adj._ [carriage](dic://carriage), [bearing](dic://bearing), [posture](dic://posture)
-	30. propose
+	29. propose
 		1. pro-向前 + pos-放置 + -e → 拿出（观点）到前面 → 建议。
 		2. [suggest](dic://suggest), [advise](dic://advise)
 		3. [project](dic://project)
@@ -3369,7 +3390,7 @@
 		9. proposition
 		10. proposer
 		11. proposal, counterproposal
-	31. purpose
+	30. purpose
 		1. pur-始终 + pos-放 + -e → 始终放的东西 → 目的。
 		2. - pur-,向前，-pos,放置，词源同 pose,position.引申词义意图，目的等。
 		3. repurpose
@@ -3383,22 +3404,23 @@
 		11. dual-purpose
 		12. cross-purposes
 		13. all-purpose
-	32. superpose
+	31. superpose
 		1. - super-,在上，上方，-pos,放置，词源同 position,superimpose.引申词义叠放，放在上面。
 		2. **superimposed**成阶层的,有层理的;**waveform**波形;**overlaid**覆盖;**distort**扭曲;**reconstruct**重建;**orthogonal**直角的,直交的;**spatially**空间地;**combine**使联合，使结合;**correspond**相符合, 相一致;**amplitude**广阔;**compose**作曲;
 		3. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
-	33. suppose
+	32. suppose
 		1. sup-下 + pos-放 + -e → 放下去想 → 猜想。
 		2. - sup-,在下，-pos,放置，词源同 position,propose.引申词义认为，假设等。
 		3. suppositive
 		4. supposititious
 		5. supposition
+			1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
 		6. supposing
 		7. supposed
 		8. supposal
 		9. supposable
 		10. presuppose
-	34. transpose
+	33. transpose
 		1. trans-转移 + pos-放 + -e → [互相]移放。
 		3. **notation**符号;**compose**作曲;**improvise**临时制作, 临时凑成;**rearrange**重新安排;**memorize**记住，背熟;**translate**翻译;**octave**八度音阶;**chord**弦;**matrices**基质;**subtract**减去;**melody**旋律;
 		4. _n._ [matrix](dic://matrix)
@@ -3407,7 +3429,7 @@
 		7. transpositive
 		8. transposer
 		9. transposal
-	35. compote
+	34. compote (asymptote)
 		1. 来自法语。com-,表强调，-pos,放置，词源同 opponent,position.指把水果、糖等放在一起调制。构成 compost 的对词，但词义产生差别。
 		2. n. 煮熟的糖渍水果, 高脚果盘
 		3.  [fruit compote](dic://fruit compote)
@@ -3415,7 +3437,7 @@
 		5. **rhubarb**大黄;**tart**酸的;**puree**浓汤;**marmalade**果子酱;**chutney**酸辣酱;**custard**蛋奶糊,牛奶沙司;**dessert**餐后甜点;**syrup**糖浆，果汁;**berry**浆果;**pear**梨树;**apricot**杏树;
 		6. _[fruit compote](dic://fruit%20compote)_  烩水果
 		7. _[apple compote](dic://apple%20compote)_  糖渍苹果
-	36. depot, subdepot
+	35. depot, subdepot
 		1. de-离开 + pot-放
 		2. 来自 deposit 的法语拼写形式，引申词义放置，仓库。拼写比较 entrepot,compote.
 		3. _oil depot_ [化]油库
@@ -3429,14 +3451,14 @@
 		11. [storehouse](dic://storehouse), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store)
 		12. [terminal](dic://terminal), [terminus](dic://terminus)
 		13. subdepot
-	37. entrepot
-	38. larvipositor
-	39. provost
-8. hamlet
-9. hanger
-10. haunt
-11. home
-12. site
+	36. entrepot
+	37. larvipositor
+	38. provost
+9. hamlet
+10. hanger
+11. haunt
+12. home
+13. site
 
 
 
@@ -3654,14 +3676,15 @@
 		3. 
 	8. obloquy
 		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		2. n. 毁谤；耻辱；漫骂
-		3. [opprobrium](dic://opprobrium)
-		4. [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
-		5. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
-		6. **scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**condemnation**谴责;**embarrassment**困窘;**slander**诽谤;**humiliation**丢脸，耻辱;**ire**忿怒;**disgrace**耻辱;**doubtless**无疑地, 肯定地;
-		7. I have had enough obloquy for one lifetime. /我一辈子受够了诽谤。
-		8. conduct to which no more obloquy could reasonably attach. /不会再遭受公开指责的行为。
-		9. Few words carry stronger obloquy than slumlord. /甚少有比贫民窟主更具有贬义的词汇了。
+		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
+		3. n. 毁谤；耻辱；漫骂
+		4. [opprobrium](dic://opprobrium)
+		5. [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
+		6. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
+		7. **scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**condemnation**谴责;**embarrassment**困窘;**slander**诽谤;**humiliation**丢脸，耻辱;**ire**忿怒;**disgrace**耻辱;**doubtless**无疑地, 肯定地;
+		8. I have had enough obloquy for one lifetime. /我一辈子受够了诽谤。
+		9. conduct to which no more obloquy could reasonably attach. /不会再遭受公开指责的行为。
+		10. Few words carry stronger obloquy than slumlord. /甚少有比贫民窟主更具有贬义的词汇了。
 	9. prolocutor
 		1. _n._ (尤指英国国教宗教会议下院的)主席发言人
 	10. ventriloquy
@@ -4241,11 +4264,20 @@
 		2. v. 进行预测试，进行预试验
 	7. protest
 		1. Protestant
-		2. protestor
-		3. protestingly
-		4. protestation
-	8. testamur
-	9. testate /intestate
+		2. protestantism
+			1. n. 新教, 新教教义, 新教徒
+			2. protestant（新教）：抗议罗马天主教的基督教新教派  
+			3. 一五一七年九月四日，马丁•路德发表了他的九十五条论纲；同年十月三十一日马丁路德在萨克森选侯教堂大门所张贴《有关赎罪券辩论之邀请》，反对买卖赎罪券，由此揭开了欧洲宗教改革的序幕。改教开始之初，路德及其志友要求召开基督教大会来解决改革中的种种问题，并得到了德国当局的赞同。1526年帝国议会在斯拜尔（Speyer）举行，准许在基督教大会召开前各地区政府可自主决定本区域所欲尊奉的教派。然而，1529年，在神圣罗马帝国皇帝查理五世的影响下，帝国议会第二次会议取消了一五二六年的准许，议会中的路德派对此决定提出抗议。那些在抗议文件上签名及拥护抗议文件的人就被称为“抗议者”（Protestant）。后来，该词被用来泛指对罗马公教（即天主教）抱抗议态度的诸多新教派，包括路德宗、加尔文宗、英国国教安立甘宗，统称为“新教”，又称作“抗罗宗”、“归正教”“改革宗”。  
+			4. Protestant： ['prɒtɪstənt] n.新教，新教徒；抗议者adj.新教的，新教徒的；抗议的  
+			5. Protestantism：['prɑtɪstənt,ɪzm] n. 新教；新教教义；新教徒  
+			6. protest：[ˈproʊtest] v. 抗议；断言n. 抗议adj. 表示抗议的；抗议性的  
+			7. protester：[prə'tɛstɚ] n. 抗议者；反对者；持异议者  
+			8. protestation：[,prɑtə'steʃən] n. 抗议，异议；声明；断言
+		3. protestor
+		4. protestingly
+		5. protestation
+	14. testamur
+	15. testate /intestate
 		1. n. 留有遗嘱的死者 
 		2. adj. 留有遗嘱的
 		3.  [testator](dic://testator)
@@ -4259,18 +4291,21 @@
 		11. testation
 		12. testacy
 		13. testament
-	11. testee
-	12. testes, testicle, testicular
-	13. testis
-	14. testitis
-	15. testify, testimony
-	16. testing
-	17. detest (attest)
-		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, )
-		2. detest - testify源于意为“证人”或“证明”的拉丁语testis，因此它也表示“证明”。另一个出于同源的词testimony，其词义“证词”、“证据”也与其词源密切相关。可是人们往往把这两个词同testis直接进入英语后被赋予的词义“睾丸”相联系。以前有一家名为《女士》（Ms）的杂志刊登了一封读者来信，信上说，“我对使用testimony一词来表示女人的‘证言’这一做法提出抗议，因为该词的词根是testis，它和女性毫无瓜葛。为什么不用ovarimony（注：ovario-是个组合语素，表示‘卵巢’）？”这位读者恐怕是个女权运动者。其实源于testis的词远不止以上两个。Testament（圣约书），intestate（无遗嘱的），attest（证明），protest（抗议），detest（憎恶），contest（竞争）等等，以及它们的派生词，看来都得受牵连了。
-		3. detestation
-			1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium)
-			2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate)
+	16. testee
+	17. testes, testicle, testicular
+	18. testis
+	19. testitis
+	20. testify, testimony
+	21. testing
+	22. detest (attest)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		4. detest - testify源于意为“证人”或“证明”的拉丁语testis，因此它也表示“证明”。另一个出于同源的词testimony，其词义“证词”、“证据”也与其词源密切相关。可是人们往往把这两个词同testis直接进入英语后被赋予的词义“睾丸”相联系。以前有一家名为《女士》（Ms）的杂志刊登了一封读者来信，信上说，“我对使用testimony一词来表示女人的‘证言’这一做法提出抗议，因为该词的词根是testis，它和女性毫无瓜葛。为什么不用ovarimony（注：ovario-是个组合语素，表示‘卵巢’）？”这位读者恐怕是个女权运动者。其实源于testis的词远不止以上两个。Testament（圣约书），intestate（无遗嘱的），attest（证明），protest（抗议），detest（憎恶），contest（竞争）等等，以及它们的派生词，看来都得受牵连了。
+		5. detestation
+			1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+			2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+			3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 			1. [abhorrence](dic://abhorrence), [abomination](dic://abomination), [execration](dic://execration), [loathing](dic://loathing), [odium](dic://odium)
 			2. _n._ [hate](dic://hate), [hatred](dic://hatred), [disgust](dic://disgust)
 			3. **disdain**蔑视;**hatred**憎恨;**disgust**厌恶，嫌恶;**indignation**愤怒, 愤慨, 气愤;**admiration**钦佩;**scorn**轻蔑;**contempt**轻视，蔑视;**hostility**敌意;**wickedness**邪恶;**enmity**敌意;**affection**感情;
@@ -4286,16 +4321,21 @@
 	3. tercet
 	4. tertiary
 	5. treble
-		1. trebly
-	6. triad
-	7. triangle
+		1. 1. adj. 三倍的；最高声部的；三层的；三重的
+		2. n. 三倍；最高声部
+		3. vi. 变成三倍
+		4. vt. 使成三倍
+		6. 
+		7. trebly
+	7. triad
+	8. triangle
 		1. triangular
 		2. triangulate
-	8. triarchy
-	9. tribe
-	10. tricep
-	11. trichotomy
-	12. trickle
+	9. triarchy
+	10. tribe
+	11. tricep
+	12. trichotomy
+	13. trickle
 		1. [drip](dic://drip), [dribble](dic://dribble)
 		2. [dribble](dic://dribble), [filter](dic://filter)
 		3. _n._ [flow](dic://flow), [flowing](dic://flowing)
@@ -4307,21 +4347,22 @@
 		9. There was a trickle of blood from the wound. /血从伤口汩汩流。
 		10. Information trickled out. /消息泄漏出来。
 		11. The audience trickled in /观众一个接一个地进来了
-	13. trident
-	14. trigon
+	14. trident
+	15. trigon
 		1. [triangle](dic://triangle), [trilateral](dic://trilateral)
 		2. [triplicity](dic://triplicity)
 		3. _n._ [polygon](dic://polygon), [polygonal shape](dic://polygonal shape), [trio](dic://trio), [triad](dic://triad), [triplet](dic://triplet), [triple](dic://triple), [lyre](dic://lyre)
-	15. trilogy
-	16. trivet
-	17. trivial
-	18. trivia
-	19. trivium
-	20. triathlon
-	21. tbd..
-4. three
-5. travail
-6. trey
+	16. trilogy
+	17. trivet
+	18. trivial
+	19. trivia
+	20. trivium
+	21. triathlon
+	22. tbd..
+5. three
+6. travail
+7. trey
+	1. - n. 三点的牌；三点的骰子；刻有三点的一面；三分球
 
 
 ### trib- = 表示“部落”，引申为“贡品、给予”。来自 tri- 三 + be- 存在。

@@ -12,6 +12,8 @@
 ↗ [Vulnerability Disclosure（漏洞挖掘）](../../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Vulnerability%20Disclosure（漏洞挖掘）.md)
 ↗ [Vulnerability Discovery（漏洞检测）](../../🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Discovery（漏洞检测）/Vulnerability%20Discovery（漏洞检测）.md)
 
+↗ [LLM & Security](../../../../🤖%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+
 
 ### Learning Resources
 📖 Practical Malware Analysis

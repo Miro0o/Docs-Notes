@@ -641,8 +641,21 @@
 3. **und-** = wave, 表示“波动”。源自拉丁语 unda "wave."
 	1. abound
 		1. abundance
-		2. abundant
+		3. abundant
+			1. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
 	2. inundate
+		1. vt. 浸水, 泛滥, 淹没, 使充满
+		2. in-进入 + und-波浪 + -ate, 表动词 → 进入波浪 → 淹没。
+		3.  in-,进入，使，-und,流动，波浪，词源同 undulate,water.即流进来的，淹没，引申词义应接不暇。
+		4.  [deluge](dic://deluge), [flood](dic://flood), [swamp](dic://swamp)
+		5.  [deluge](dic://deluge), [submerge](dic://submerge)
+		6. _v._ [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full), [flood](dic://flood)
+		7. **overwhelm**覆盖, 淹没;**flooded**洪水浸没的;**swamped**泥沼状的;**deluge**洪水;**flooding**产后出血;**flood**淹没;**drown**淹没;**floods**洪水;**overflowing**溢出,过剩;**displace**取代;**threaten**威胁;
+		8. we've been inundated with complaints from listeners. /听众的投诉让我们应接不暇。
+		9. The theater was inundated with requests for tickets. /剧场为索票的声势所压倒
+		10. In the 1960s, the Europeans were being inundated with cheap American chickens. /在20世纪60年代，欧洲人被廉价的美国鸡淹没。
+		11. Communities near New Orleans were also inundated, along with the region around Pass Christian, Mississippi. /新奥尔良附近的社区也被淹没，以及密西西比州Pass Christian附近的地区。
+		12. Results from Tuesday's election were delayed after cities were inundated by nearly a million mail-in ballots. /星期二的选举结果被推迟，因为城市被近100万张邮寄选票淹没。
 	3. redound
 		1. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail), [reflect](dic://reflect), [accrue](dic://accrue)
 		2. **detriment**损害, 伤害;**benefit**利益，好处;**accrue**自然增加;**diminish**使减少;**bestow**授予;**doubtless**无疑地, 肯定地;**reap**收割;**justly**公正地;**undermine**在某物下挖洞或挖通道;**outweigh**比…重;**confer**商讨;
@@ -654,11 +667,11 @@
 			2. _n._ [necessary](dic://necessary), [concise](dic://concise)
 			3. **redundancy**多余，累赘，啰唆;**superfluous**过多的;**unneeded**不需要的;**unnecessary**不必要的, 多余的;**useless**无用的;**pointless**无意义的;**obsolete**老式的;**irrelevant**不相干的,不相关的;**nonsensical**无意义的;**extraneous**外部的,外来的;**duplicated**复制的;
 		7. irredundant
-	5. surround, surrounding, surroundings
-	6. undine
+	4. surround, surrounding, surroundings
+	5. undine
 		1. _n._ [water sprite](dic://water sprite), [water nymph](dic://water nymph), [water spirit](dic://water spirit)
 		2. **mermaid**美人鱼;**potion**一剂;
-	7. undulate (fluctuate)
+	6. undulate (fluctuate)
 		1.  [ripple](dic://ripple), [ruffle](dic://ruffle), [riffle](dic://riffle), [cockle](dic://cockle)
 		2. [roll](dic://roll)
 		3. [roll](dic://roll), [flap](dic://flap), [wave](dic://wave)
@@ -681,7 +694,7 @@
 			1. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [movement](dic://movement), [motion](dic://motion)
 			2. **curvature**弯曲;**curving**弯曲的;**oscillation**振动;**topography**地志;**amplitude**广阔;**sloping**倾斜的;**ripples**涟漪;**slope**倾斜;**ridges**带钢单向皱纹;**rhythmic**间歇的;**roughness**粗糙;
 			3. She was soon ascending Blooms-End valley and traversing the undulations on the side of the hill /她很快就走上布卢姆斯恩德山谷，横穿过起伏的山坡。
-	8. vodka
+	7. vodka
 
 
 ### + \*weg- +
@@ -857,12 +870,13 @@
 		4. vehicular
 		5. extravehicular
 	9. vex
-		1. vt. 使烦恼, 使苦恼 vi. 烦恼
-		2. vexing, vexed
-		3. vexatious
+		1. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin)
+		2. vt. 使烦恼, 使苦恼 vi. 烦恼
+		3. vexing, vexed
+		4. vexatious
 			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
 			2. [disagreeable](dic://disagreeable)
-		4. vexation  ()
+		5. vexation  ()
 			1. (chagrin)
 			2.  [annoyance](dic://annoyance), [chafe](dic://chafe)
 			3.  [irritation](dic://irritation), [annoyance](dic://annoyance), [botheration](dic://botheration)
@@ -875,8 +889,8 @@
 			10. Much to my vexation, I just missed a chance of visiting China. /错过一个访问中国的机会, 真气人。
 			11. He gave the doctor a look of vexation. /他很不高兴地看了医生一眼。
 			12. I gazed at her, looking totally startled by the flutters of anger and vexation in her voice. /我盯着她看，完全被她声音里突然的生气和恼火吓到了。
-	10. evection
-	11. inveigh (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective)
+	11. evection
+	12. inveigh (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective)
 		1. in-进入，使 + veigh , 携带，运载，词义演变同invective。
 		2. [rail](dic://rail)
 		3.  [declaim](dic://declaim)
@@ -929,13 +943,15 @@
 		3. viaticum
 		4. viaduct
 			1. **bridge**桥;**embankment**路堤;**railway**铁路;**tunnel**隧道;**roadway**路面;**walkway**通道，走道;**bridges**桥梁;**motorway**高速公路，汽车高速公路;**footpath**小路;**piers**支墩，支柱;**rail**横杆;
-		5. devious
-			1. [oblique](dic://oblique)
-			2. [shifty](dic://shifty)
-			3. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
-			4. _adj._ [indirect](dic://indirect), [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
-			5. **cunning**狡猾的;**nefarious**极坏的;**scheming**惯耍阴谋的，诡计多端的;**sneaky**鬼鬼祟祟的;**sinister**阴险的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**manipulative**控制的,操纵的;**malevolent**有恶意的;**clever**聪明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
-	9. trivia (vitriol, thrive, frivol, virile)
+		5. devious (obviate, deviate, devious, vitiate)
+			1. (covert, clandestine, sneaky, devious, furtive, surreptitious)
+			2. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent)
+			3. [oblique](dic://oblique)
+			4. [shifty](dic://shifty)
+			5. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
+			6. _adj._ [indirect](dic://indirect), [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
+			7. **cunning**狡猾的;**nefarious**极坏的;**scheming**惯耍阴谋的，诡计多端的;**sneaky**鬼鬼祟祟的;**sinister**阴险的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**manipulative**控制的,操纵的;**malevolent**有恶意的;**clever**聪明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
+	9. trivia (vitriol, thrive, frivol, virile, trivia)
 		1.  [triviality](dic://triviality), [trifle](dic://trifle), [small beer](dic://small beer)
 		2. _n._ [object](dic://object), [physical object](dic://physical object)
 		3. **tidbits**花边新闻;**quiz**考查;**quizzes**智力比赛;**tidbit**小栏报导;**inane**愚蠢的;**puzzles**智力游戏;**silliness**愚蠢;**crossword**纵横填字谜;**gossip**小道传闻;**lore**传说，典故;**encyclopedic**百科全书般的;
@@ -955,34 +971,37 @@
 		8. trivialize
 		9. triviality
 	10. deviate
-		1. deviant, deviator, deviation
-		2. retrodeviation, laterodeviation, exodeviation, esodeviation
-	11. obviate (obliterate, oblivious, obviate)
-		1. (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
-		2. ob-去掉 + vi-路 + -ate, 表动词 → 就在路上掉东西 → 排除障碍。
-		3. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
-		4. [rid of](dic://rid of), [eliminate](dic://eliminate)
-		5. [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
-		6. [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
-		7. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
-		8. to obviate the need for something /使不需要某事物
-		9. No one can deny it. It doesn't obviate peace. It makes peace possible /没人可以否认，它会为我们带来和平，让实现和平成为可能。
-		10. obviation
+		1.  (obviate, deviate, devious, vitiate)
+		2. deviant, deviator, deviation
+		3. retrodeviation, laterodeviation, exodeviation, esodeviation
+	12. obviate 
+		1. (obliterate, oblivious, obviate)
+		2.  (obviate, deviate, devious, vitiate)
+		3. (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
+		4. ob-去掉 + vi-路 + -ate, 表动词 → 就在路上掉东西 → 排除障碍。
+		5. [debar](dic://debar), [deflect](dic://deflect), [avert](dic://avert), [head off](dic://head off), [stave off](dic://stave off), [fend off](dic://fend off), [avoid](dic://avoid), [ward off](dic://ward off)
+		6. [rid of](dic://rid of), [eliminate](dic://eliminate)
+		7. [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
+		8. [necessitate](dic://necessitate), [ask](dic://ask), [postulate](dic://postulate), [need](dic://need), [require](dic://require), [take](dic://take), [involve](dic://involve)
+		9. **necessitate**使…成为必要, 需要;**preclude**妨碍;**eliminate**消除, 排除;**mitigate**使缓和，使减轻;**alleviate**缓和;**lessen**使…变小;**negate**否定;**minimize**使减到最少;**necessity**必要;**circumvent**设法克服或避免;**prevent**预防，防止;
+		10. to obviate the need for something /使不需要某事物
+		11. No one can deny it. It doesn't obviate peace. It makes peace possible /没人可以否认，它会为我们带来和平，让实现和平成为可能。
+		12. obviation
 			1. _n._ [prevention](dic://prevention), [bar](dic://bar)
 			2. **concomitant**相伴的;**grammatical**语法的;**derivation**发展;**necessitate**使…成为必要, 需要;**preclude**妨碍;**semantic**语义的;**quantification**定量，量化;**consequent**作为结果的;**lexical**词汇的;**linguistic**语言的, 语言学的, 语言研究的;
 			3. _[obviation](dic://obviation)_  n. 消除；回避；避免
-	13. obvious
+	14. obvious
 		1. ob-加强状态 + vi-路 + -ous形容词后缀 → 就在路上 → 明显的。
-	14. pervious
+	15. pervious
 		1. per-穿过 + vi-道路 + -ous表形容词 → 道路穿过去能透过去的。
 		2. impervious
-	15. previous
+	16. previous
 		1. pre-以前 + vi-路[引申为走] + -ous形容词后缀 → 以前走过的 → 以前的。
-	16. invoice
+	17. invoice
 		1.  - 来自中古法语 envois,派遣，送出，-s,复数后缀，来自 envoyer,送出，en-,进入，使，-voy,路，词源同 way,envoy.引申词义发送的货物，后用来指货物清单，发票等。拼写受 voice 影响俗化。
 		2. overinvoicing
-	17. quadrivium, trivium
-	18. weigh (inveigh)
+	18. quadrivium, trivium
+	19. weigh (inveigh)
 		1. 1 - 来自 PIE*wegh,承载，运输，词源同 way,vehicle,wagon.引申词义承载，重量。
 		2. weight
 			1. winter-weight
@@ -1067,12 +1086,15 @@
 			2. viciously
 		2. vicelike
 	5. vituperate
-		1. vitu-过错、伤害 + per-准备 + -ate, 表动词。
-		2. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)
-		3. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指责，非难;
-		4. vituperator
-		5. vituperative
-		6. vituperation
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		2. vitu-过错、伤害 + per-准备 + -ate, 表动词。
+		3. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)
+		4. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指责，非难;
+		5. vituperator
+		6. vituperative
+		7. vituperation
 2. **vitilig-, vitiligin-** = 表示“白斑”。源自拉丁语 vitiligo "tetter, blemish."
 	1. vitiligo
 		1. _n._ [skin disease](dic://skin disease), [disease of the skin](dic://disease of the skin), [skin disorder](dic://skin disorder), [skin problem](dic://skin problem), [skin condition](dic://skin condition)
@@ -1170,6 +1192,9 @@
 		2. self-invited
 		3. inviting
 			1. a. 引人动心的, 有魅力的
+			2. _adj._ [invitatory](dic://invitatory), [tantalizing](dic://tantalizing), [tantalising](dic://tantalising), [tempting](dic://tempting)
+			3. _n._ [uninviting](dic://uninviting)
+			4. **enticing**迷人的;**welcome**受欢迎的;**encouraging**鼓励的;**appealing**上诉的;**invitation**邀请;**gracious**亲切的;**engaging**迷人的;**warm**温暖的;**hospitable**好客的;**homey**舒适的;**comforting**安慰的;
 		4. uninviting
 			1. a. 无吸引力的, 讨厌的, 不逗人兴趣的
 		5. inviter
@@ -1306,7 +1331,7 @@
 		10. And the " ideate" bubble, it's about having lot's of ideas. /而“创意”泡沫，就是有很多想法。
 		11. PB is a process that brings community and government together to ideate, develop concrete proposals and vote on projects that solve real problems in community. /PB 是一个将社区和政府聚集在一起构思、制定具体提案并对解决社区实际问题的项目进行投票的过程。
 		12. It's about giving them a great environment, an environment where they can **ideate**, collaborate. /即给员工一个不错的环境，一个能酝酿灵感、团结合作的环境。
-	6. idyl, idyll (pastoral, bucolic, )
+	6. idyl, idyll (pastoral, bucolic, idyllic, )
 		1. n. 叙事诗, 田园景色, 田园诗, 田园乐曲, 牧歌
 		2.  [pastorale](dic://pastorale), [pastoral](dic://pastoral)
 		3.  [eclogue](dic://eclogue), [bucolic](dic://bucolic)
@@ -1539,7 +1564,8 @@
 			4. **divine**神圣的;**grace**优雅;**mercy**仁慈，宽容;**merciful**仁慈的;**salvation**拯救;**faithfulness**忠诚,正确,诚实;**omnipotent**全能的;**deliverance**解救;**destiny**命运，定数，天命;**divinity**神;**benevolent**好心肠的;
 			5. improvidence
 			6. provident /providently
-				1.  (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, provident, )
+				2. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
+				3. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
 			7. providential
 			8. improvident
 				1. _adj._ [prodigal](dic://prodigal), [short](dic://short), [shortsighted](dic://shortsighted), [unforesightful](dic://unforesightful), [myopic](dic://myopic), [thriftless](dic://thriftless), [unforethoughtful](dic://unforethoughtful)
@@ -4879,21 +4905,22 @@
 	3. **wares**商品;**mall**购物商场;**flea**跳蚤;**stalls**正厅前排座位;**marketplace**市场;**shop**商店;**shops**商店;**bustling**忙乱的;**barter**进行易货贸易;**plaza**广场;**consignment**托付货物;
 #### + \*wes- (4) + = to clothe
 1. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
-	1. vest (endow, confer, bestow, vest, grant, deign, impart, sanction)
-		1. n. 背心, 汗背心  
-		2. vt. 使穿衣服, 授予  vi. 穿衣服, 归属
-		3. [waistcoat](dic://waistcoat)
-		4. [singlet](dic://singlet), [undershirt](dic://undershirt)
-		5. [invest](dic://invest), [enthrone](dic://enthrone)
-		6.  [robe](dic://robe)
-		7. _n._ [garment](dic://garment), [undergarment](dic://undergarment), [unmentionable](dic://unmentionable)
-		8. _v._ [install](dic://install), [give](dic://give), [change hands](dic://change hands), [change owners](dic://change owners), [dress](dic://dress), [dress up](dic://dress up), [clothe](dic://clothe)
-		9. **jacket**夹克;**sweater**毛线衣，运动衫;**hoodie**冠鸦;**jumpsuit**跳伞装;**shirt**衬衫;**scarf**围巾;**cardigan**羊毛衫，开襟羊毛衫;**sweatshirt**运动衫;**pullover**套衫;**jackets**短上装;**tunic**束腰外衣;
-		10. _vest in_ v. 归属于；授予
-		11. _bulletproof vest_ 防弹背心；避弹衣
-		12. _close to the vest_ 做事小心谨慎
-		13. _bullet-proof vest_ 防弹背心，防弹衣
-		14. vesture
+	1. vest
+		1. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat, decree, invest, enthrone, ordain,)
+		2. n. 背心, 汗背心  
+		3. vt. 使穿衣服, 授予  vi. 穿衣服, 归属
+		4. [waistcoat](dic://waistcoat)
+		5. [singlet](dic://singlet), [undershirt](dic://undershirt)
+		6. [invest](dic://invest), [enthrone](dic://enthrone)
+		7.  [robe](dic://robe)
+		8. _n._ [garment](dic://garment), [undergarment](dic://undergarment), [unmentionable](dic://unmentionable)
+		9. _v._ [install](dic://install), [give](dic://give), [change hands](dic://change hands), [change owners](dic://change owners), [dress](dic://dress), [dress up](dic://dress up), [clothe](dic://clothe)
+		10. **jacket**夹克;**sweater**毛线衣，运动衫;**hoodie**冠鸦;**jumpsuit**跳伞装;**shirt**衬衫;**scarf**围巾;**cardigan**羊毛衫，开襟羊毛衫;**sweatshirt**运动衫;**pullover**套衫;**jackets**短上装;**tunic**束腰外衣;
+		11. _vest in_ v. 归属于；授予
+		12. _bulletproof vest_ 防弹背心；避弹衣
+		13. _close to the vest_ 做事小心谨慎
+		14. _bullet-proof vest_ 防弹背心，防弹衣
+		15. vesture
 			1. n. 衣服, 衣裳, 覆盖物  
 			2. vt. 给穿衣服
 			3.  [clothing](dic://clothing), [article of clothing](dic://article of clothing), [wear](dic://wear), [wearable](dic://wearable), [habiliment](dic://habiliment)
@@ -4912,14 +4939,14 @@
 			1. n. 法衣圣器储藏室, 祈祷室, 教区委员会
 			2. vestryman
 		20. undervest
-	2. revest
+	3. revest
 		1. _[revest](dic://revest)_  vt. 再赋予（权力，职权等）；重新投资; n. (Revest)人名；(法)勒韦;
-	3. transvest
+	4. transvest
 		1. _[transvest](dic://transvest)_  vt. 使穿异性衣服
 		2. transevstite
 		3. transvestist
 		4. transvestism
-	4. divest
+	5. divest
 		1. di-去掉 + vest-衣服 → 去掉衣服 → 脱去。
 		2. [deprive](dic://deprive), [strip](dic://strip)
 		3. [disinvest](dic://disinvest)
@@ -4934,7 +4961,7 @@
 		11. divestiture
 			1. _n._ [court order](dic://court order), [sale](dic://sale)
 			2. **merger**合并;**acquisition**获得物，获得;**restructuring**重组;**reorganization**改组;**mergers**兼并;**takeover**接管;**realignment**重新排列,再结盟;**liquidation**清偿,结算;**consolidation**巩固,加强,强化;**privatization**私有化;**buyout**全部买下;
-	5. invest
+	6. invest
 		1. invest（投资）：给财富换上神奇的衣服  
 		2. 17世纪初期，西方的英、法、荷等国纷纷向东半球开展殖民扩展，并设立多家“东印度公司”负责殖民地的经贸事务，实际上是西方列强侵略盘剥印度等地的工具。1602年，荷兰联合东印度公司成立。它采取了一种全新的企业组织形式——股份制，即通过向全社会融资来筹集资金。1609年，在荷兰的阿姆斯特丹成立了世界上第一家股票交易所。当时，东印度公司成了国家的摇钱树，源源不断地从东方带来巨大财富。在海外财富的刺激下，成千上万的人把自己的积蓄投入给东印度公司，希望将来能获得丰厚的回报。甚至，阿姆斯特丹市市长的女仆也成了东印度公司的股东之一。正是在这种背景下，invest这个原本与金融毫无关系的单词衍生出了“投资”的含义。  
 		3. 英语单词invest来自investire，本意是“穿上正式的制服”，由in（进入）+vestire（衣服）构成，英语单词vest（背心，汗衫）就源自vestire。人们将手中的钱换成东印度公司股票时，就像是给财富换上了一件神奇的衣服，一件可以带来滚滚财源的衣服，所以人们用invest这个单词来比喻这种购买股票的投资行为，invest也就产生了“投资”的含义。有趣的是，股票交易所中的交易员都身穿马甲（in vest）。  
@@ -4985,8 +5012,8 @@
 			12. The investiture of our first Chairwoman, Mrs Reginald Crawley, who has graciously agreed to share the duties of our beloved President, the Dowager Countess of Grantham. /我们有幸任命第一位女主席，雷金纳德·卡劳利夫人，她愿与我们敬爱的董事长格兰瑟姆伯爵夫人共同管理我们的医院。
 			13. The heir of every immediate vassal of the crown paid a certain duty, generally a year's rent, upon receiving the investiture of the estate. /每个王室直属封臣的继承人在接受财产授予时都要缴纳一定的税款，通常是一年的租金。
 		33. investitive
-	6. travesty
-	7. revet
+	7. travesty
+	8. revet
 		1. vt. 用砖石护(堤等), 用水泥等覆护
 		2. _v._ [construct](dic://construct), [build](dic://build), [make](dic://make), [face](dic://face)
 		3. **revert**恢复;
@@ -5483,7 +5510,7 @@
 		11. deliquescence
 	3. prolix 
 		1. (prole, prolific, profligate, proliferate, prolix)
-		2. (succint, terse, compendious, concise, )
+		2. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
 		3. 源自拉丁语 prolixus "poured forth," 词根：pro-向前 + lix-流动，液化，引申词义繁琐的，罗嗦的。
 		4. **voluminous**卷数多的;**tiresome**烦人的，无聊的;**eloquent**雄辩的，有口才的;**pompous**浮夸的;**succinct**简洁的;**rambling**漫步的;**convoluted**盘绕的,卷曲的;**pretentious**自命不凡的;**superfluous**过多的;**laborious**勤劳的;**lengthy**漫长的，冗长的;
 		5. [diffuse](dic://diffuse), [long-winded](dic://long-winded), [tedious](dic://tedious), [verbose](dic://verbose), [windy](dic://windy), [wordy](dic://wordy), [verbal](dic://verbal)

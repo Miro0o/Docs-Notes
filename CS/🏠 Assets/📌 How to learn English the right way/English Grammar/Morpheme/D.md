@@ -296,7 +296,7 @@
 		5. he led us into a room bedecked with tinsel. /他把我们领进一间用金属箔片串装饰的房间。
 		6. The cars were all bedecked with flowers for the wedding ceremony /为了结婚仪式汽车都用鲜花装饰起来。
 	5. decency, decent
-		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent;)
+		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly,)
 		2. _n._ [propriety](dic://propriety), [properness](dic://properness), [correctitude](dic://correctitude), [respectability](dic://respectability), [reputability](dic://reputability)
 		3. _n._ [indecency](dic://indecency)
 		4. **civility**礼貌;**dignity**尊严;**morals**道德;**morality**道德;**honesty**诚实，正直;**fairness**公平;**modesty**谦逊;**propriety**①礼貌,规矩;**integrity**正直;**compassion**怜悯, 同情;**politeness**有礼貌;
@@ -324,20 +324,21 @@
 			6. _n._ [dislike](dic://dislike), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
 			7. _v._ [hate](dic://hate), [detest](dic://detest), [refuse](dic://refuse), [decline](dic://decline)
 			8. **contempt**轻视，蔑视;**scorn**轻蔑;**disgust**厌恶，嫌恶;**admiration**钦佩;**hostility**敌意;**indifference**不关心,不在乎;**displeasure**不快, 不悦, 生气;**distrust**不信任;**disrespect**失礼,无礼;**hatred**憎恨;**fondness**溺爱;
-	4. dignify
+	5. dignify
 		1. dignitary, dignity, 
-	5. indign, indignity
+	6. indign, indignity
 		1. - adj. 不值得的；可耻的
 		2. in-不 + dign-高贵
 		3. (obnoxious, invidious, pernicious, indignity)
 		4. indignation
 		5. indignant
 		6. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
-	6. deign  (dain, gain, deign)
-		1. 词源同 dignity,尊贵。引申词义屈尊。
-		2. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
-		3. [condescend](dic://condescend), [descend](dic://descend)
-		4. Then Votini fell to twirling his very handsome white castor hat on the tip of his forefinger; but the boy — and it seemed as though he did it on purpose — did not deign even a glance at the hat
+	7. deign  (dain, gain, deign)
+		1. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat, decree, invest, enthrone, ordain,)
+		2. 词源同 dignity,尊贵。引申词义屈尊。
+		3. **dare**的风险;**bestow**授予;**beg**恳求;**refuse**拒绝;**dared**敢于;**gladly**乐意地;**presume**假定;**oblige**强制;**humbly**卑贱地;**stoop**弯腰;**bother**烦扰，打扰;
+		4. [condescend](dic://condescend), [descend](dic://descend)
+		5. Then Votini fell to twirling his very handsome white castor hat on the tip of his forefinger; but the boy — and it seemed as though he did it on purpose — did not deign even a glance at the hat
 4. **doc-, doct-** = to teach, 表示“教”。源自拉丁语 docere "to teach."
 	1. doctrine
 		1. doctrine ['dɒktrɪn] n.主义；学说；教义；信条。单词本意是“教条”，词根含义是遵守和价值（教义有价值，教徒需遵守）。1823年美国提出了Monroe Doctrine门罗主义：美洲是美洲人的美洲”。20世纪初美国又推出了Roosevelt Corollary罗斯福推论：既然美洲是美洲人的美洲，那美国就有权介入美洲事物。 ​​​​
@@ -4182,7 +4183,7 @@
 	17. subtract
 4. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 	1. entreat
-		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate, implore, pray)
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
 		2. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
 		3. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。
 		4. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。

@@ -351,7 +351,7 @@
 1. **adnex-** 表示“附件”。源自拉丁语 nectere (过去分词 nexus) "to tie, bind, connect."
 	1. adnexa
 	2. adnexal 
-		1. (ancillary, incidental, contingent, annexal, adnexal)
+		1. (ancillary, incidental, contingent, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
 		2. adj. 附件的；附属器的
 		3. [annexal](dic://annexal)
 		4. _adj._ [adnexa](dic://adnexa), [annexa](dic://annexa)

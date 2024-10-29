@@ -770,27 +770,66 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 
 ## cr
 ### crep-, crev- = to burst, "爆裂，破裂声"
-1. crepitant, crepitate
-2. decrepit, decrepitude
-3. crevasse
-	1. _n._ [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure)
-	2. **glacier**冰河，冰川;**ravine**峡谷;**ledge**壁架;**abyss**深渊;**boulder**大圆石;**avalanche**雪崩;**canyon**峡谷;**gorge**峡，峡谷;**climbing**上升的;**ridge**山脉;**climber**登山者;
-	3. _[crevasse splay](dic://crevasse%20splay)_  决口扇
-	4. _[crevasse filling](dic://crevasse%20filling)_  裂隙填积；裂隙填充
-4. crevice
-	1.  [cranny](dic://cranny), [crack](dic://crack), [fissure](dic://fissure), [chap](dic://chap)
-	2.  [crack](dic://crack), [cleft](dic://cleft), [fissure](dic://fissure), [scissure](dic://scissure)
-	3. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [opening](dic://opening), [gap](dic://gap)
-	4. **ledge**壁架;**nook**角落;**ravine**峡谷;**crack**使破裂;**cavity**洞，凹处;**underside**下侧;**hole**洞，孔;**boulder**大圆石;**cave**使凹陷，使塌落;**cleft**裂开的;**underneath**在下面;
-	5. _crevice corrosion_ 缝隙腐蚀；裂隙腐蚀；接触腐蚀；隙间腐蚀
-5. discrepancy, discrepant
-6. craven
+1. crepitant
+	1. adj. 劈劈拍拍响的；碎裂声的；捻发音的
+	2. crepitate
+3. decrepit (precipitant, )
+	1. de-加强 + crepit-破裂 → 破裂不堪。
+	2. a. 衰老的; 破旧的
+	3.  [creaky](dic://creaky), [derelict](dic://derelict), [flea-bitten](dic://flea-bitten), [run-down](dic://run-down), [woebegone](dic://woebegone)
+	4.  [debile](dic://debile), [feeble](dic://feeble), [infirm](dic://infirm), [rickety](dic://rickety), [sapless](dic://sapless), [weak](dic://weak), [weakly](dic://weakly)
+	5. _adj._ [worn](dic://worn), [frail](dic://frail)
+	6. _n._ [new](dic://new), [robust](dic://robust)
+	7. **dilapidated**破旧的;**derelict**玩忽职守的;**decaying**颓坏;**crumbling**皱纹;**antiquated**陈旧的;**frail**虚弱的;**old**年老的;**tattered**破烂的，衣衫褴褛的;**wretched**可怜的;**sickly**有病的，苍白的;**rotting**深蚀刻;
+	8. a row of decrepit houses. /一排破烂不堪的房屋。
+	9. But while three-lane highways are being built, feeder roads from rural communities remain decrepit /但是正当三条高速公路建设时，通往农村社区的支路却还是残破不堪。
+	10. A vast number of other public-sector entities, some of them decrepit, often create bottlenecks. /大量其他公有制经济成份经常为经济发展制造瓶颈，其中不乏落后垂死的公司产业。
+	11. decrepitude
+5. crevasse
+	1. n. 裂缝, (堤、坝等的)决口, 崩溃处  vt. 使有裂缝
+	2. _n._ [crack](dic://crack), [cleft](dic://cleft), [crevice](dic://crevice), [fissure](dic://fissure), [scissure](dic://scissure)
+	3. **glacier**冰河，冰川;**ravine**峡谷;**ledge**壁架;**abyss**深渊;**boulder**大圆石;**avalanche**雪崩;**canyon**峡谷;**gorge**峡，峡谷;**climbing**上升的;**ridge**山脉;**climber**登山者;
+	4. _[crevasse splay](dic://crevasse%20splay)_  决口扇
+	5. _[crevasse filling](dic://crevasse%20filling)_  裂隙填积；裂隙填充
+	6. And the biggest problem here is that ice will fall on you or you will fall on a crevasse /这里最大的问题是冰会落到你身上，或者你会落在裂缝上。
+	7. The team need to get down, but visibility's so poor that descending on foot past the crevasses is too risky /摄制组要下山，可是能见度非常低步行下山会经过冰隙，实在太冒险了。
+	8. Dick tried to plunge over the Alpine crevasse between the sexes. /迪克试图从两性之间的阿尔卑斯裂缝中跳下去。
+	9. Higher temperatures are casuing more rockfalls and crevasses. /温度上升导致更多的岩石坠落和裂缝。
+	10. The ascent is slowed by a series of dangerous crevasses. /一连串危险的冰隙使减缓了攀登过程。
+7. crevice
+	1. 来自 crep-,嘎吱作响，词源同 decrepit,discrepancy.词义由嘎吱作响引申为裂缝。
+	2. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, )
+	3.  [cranny](dic://cranny), [crack](dic://crack), [fissure](dic://fissure), [chap](dic://chap)
+	4.  [crack](dic://crack), [cleft](dic://cleft), [fissure](dic://fissure), [scissure](dic://scissure)
+	5. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [opening](dic://opening), [gap](dic://gap)
+	6. **ledge**壁架;**nook**角落;**ravine**峡谷;**crack**使破裂;**cavity**洞，凹处;**underside**下侧;**hole**洞，孔;**boulder**大圆石;**cave**使凹陷，使塌落;**cleft**裂开的;**underneath**在下面;
+	7. _crevice corrosion_ 缝隙腐蚀；裂隙腐蚀；接触腐蚀；隙间腐蚀
+9. discrepancy
+	1.  (dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
+	2. n. 不符合, 差异, 不相符之处
+	3. dis-分开，散开 + crep-破裂声 + -ancy → 指不同的声音，引申词义争吵，不一致
+	4. dis-,分开，散开，-crep,破裂声，词源同 crevice,decrepit.引申词义争吵，不一致。
+	5. _n._ [difference](dic://difference), [deviation](dic://deviation), [divergence](dic://divergence), [departure](dic://departure)
+		1. [difference](dic://difference) 普通用词，可指事物本质上的差异或数量上的差额，也可指事物在某一方面的差别，还可指人们之间的不同意见。   
+		2. [distinction](dic://distinction) 较正式用词，除指事物在本质上的差别外，还指在某一方面或某一细节上的区分，要在认真观察、研究后才易觉察。  
+		3. [discrepancy](dic://discrepancy) 多用于言论和记述方面，指两物之间缺乏使之相似或平衡的协调。  
+		4. [discrimination](dic://discrimination) 侧重指在判断、见识方面的差别，也可指待遇上的区别。
+	6. **disparity**不一致;**inconsistency**矛盾;**difference**差异;**mismatch**使配错;**imbalance**不平衡;**inaccuracy**不准确,误差;**variance**变异;**variation**变种;**contradiction**矛盾;**misunderstanding**误会;**asymmetry**不对称;
+	7. discrepant
+		1. a. 不符合的, 有差异的, 矛盾的
+11. craven
 	1. 词源不详。可能来自 crep-,破碎，劈里啪啦，词源同 decrepit,discrepancy.原指被打败的，后指被打怕而胆小的。
-	2. [poltroon](dic://poltroon), [recreant](dic://recreant)
-	3. _n._ [coward](dic://coward)
-	4. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
-	5. _n._ [brave](dic://brave), [courageous](dic://courageous)
-	6. **cowardly**怯懦的，懦弱的;**despicable**可鄙的,卑鄙的;**cowardice**懦弱;**abject**卑贱的;**self-serving**自私的,自私自利的;**heartless**无情的;**vile**卑鄙的;**pathetic**可怜的，悲哀的;**brazen**黄铜制的;**shameless**无耻的;**crass**粗鲁的;
+	2. adj. 畏缩的；怯懦的 n. 懦夫
+	3. [poltroon](dic://poltroon), [recreant](dic://recreant)
+	4. _n._ [coward](dic://coward)
+	5. _adj._ [cowardly](dic://cowardly), [fearful](dic://fearful)
+	6. _n._ [brave](dic://brave), [courageous](dic://courageous)
+	7. **cowardly**怯懦的，懦弱的;**despicable**可鄙的,卑鄙的;**cowardice**懦弱;**abject**卑贱的;**self-serving**自私的,自私自利的;**heartless**无情的;**vile**卑鄙的;**pathetic**可怜的，悲哀的;**brazen**黄铜制的;**shameless**无耻的;**crass**粗鲁的;
+	8. a craven abdication of his moral duty. /对道德责任的胆怯抛弃。
+	9. I had no doubt that the craven fellow would be only too pleased to back out. /我毫不怀疑那个胆小的家伙巴不得撒手退出呢。
+	10. In an example of just utter, craven cowardice refused to publish the book. /这些怯懦的胆小鬼们拒绝出版此书。
+	11. " Stubborn or craven, what does it matter? Ser Cortnay Penrose seemed hale and hearty to me" . /" 他顽固还是懦弱有什么区别？科塔奈·庞洛斯爵士在我看来正是容光焕发，老当益壮。"
+	12. " This is craven, " Ser Rodrik said. " To use a child so … this is despicable" . /" 懦夫的行为，" 罗德利克爵士道，" 居然利用孩童… … 太卑鄙了。"
 
 
 ### crast- = 表示“明天”。

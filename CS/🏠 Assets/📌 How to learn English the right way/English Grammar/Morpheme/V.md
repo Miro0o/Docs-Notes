@@ -162,36 +162,37 @@
 		4. _[vitrified abrasive wheel](dic://vitrified%20abrasive%20wheel)_ 陶瓷砂轮
 		5. _[Vitrified porcelain tile](dic://Vitrified%20porcelain%20tile)_ 玻化砖
 2. vitriol
-	1. 1 - 来自拉丁语 vitrum,玻璃，镜子，铜镜，词源同 vitreous.后用于指硫化铁，蓝矾，可能因为其颜色相似而得名。该物质加热后分离出硫酸，因此，引申词义尖酸的，尖刻的。
-	2. [oil of vitriol](dic://oil of vitriol), [sulfuric acid](dic://sulfuric acid), [sulphuric acid](dic://sulphuric acid)
-	3.  [vituperation](dic://vituperation), [invective](dic://invective)
-	4. _n._ [acid](dic://acid), [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
-	5. _v._ [subject](dic://subject), [attack](dic://attack), [round](dic://round), [assail](dic://assail), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault)
-	6. **hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**outrage**暴行;**hostility**敌意;**indignation**愤怒, 愤慨, 气愤;**spew**呕吐;**insults**侮辱;**bigotry**顽固;**negativity**否定性;**hateful**可恨的;**fury**狂怒;
-	7. vitriolum
-	8. vitriolize
-	9. vitriolic
+	1.  (vitriol, thrive, frivol, virile, trivia)
+	2. 1 - 来自拉丁语 vitrum,玻璃，镜子，铜镜，词源同 vitreous.后用于指硫化铁，蓝矾，可能因为其颜色相似而得名。该物质加热后分离出硫酸，因此，引申词义尖酸的，尖刻的。
+	3. [oil of vitriol](dic://oil of vitriol), [sulfuric acid](dic://sulfuric acid), [sulphuric acid](dic://sulphuric acid)
+	4.  [vituperation](dic://vituperation), [invective](dic://invective)
+	5. _n._ [acid](dic://acid), [abuse](dic://abuse), [insult](dic://insult), [revilement](dic://revilement), [contumely](dic://contumely), [vilification](dic://vilification)
+	6. _v._ [subject](dic://subject), [attack](dic://attack), [round](dic://round), [assail](dic://assail), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault)
+	7. **hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**outrage**暴行;**hostility**敌意;**indignation**愤怒, 愤慨, 气愤;**spew**呕吐;**insults**侮辱;**bigotry**顽固;**negativity**否定性;**hateful**可恨的;**fury**狂怒;
+	8. vitriolum
+	9. vitriolize
+	10. vitriolic
 		1. _adj._ [unpleasant](dic://unpleasant), [destructive](dic://destructive)
 		2. _n._ [pleasant](dic://pleasant), [constructive](dic://constructive)
 		3. **hateful**可恨的;**caustic**腐蚀性的;**scathing**严厉的;**vile**卑鄙的;**venomous**有毒的;**virulent**剧毒的;**snarky**恶声恶气的，咬人的;**vicious**恶的, 邪恶的;**bigoted**顽固的;**incendiary**放火的;**disparaging**轻蔑的;
-	10. vitriolated
-	11. vitriol-throwing
-	12. uranvitriol
-3. vitrain
-4. vitrifaction
-5. vitrinertite
-6. vitrinite
+	11. vitriolated
+	12. vitriol-throwing
+	13. uranvitriol
+4. vitrain
+5. vitrifaction
+6. vitrinertite
+7. vitrinite
 	1. _[vitrinite](dic://vitrinite)_  n. 镜质组；镜质体
-7. vitrinization
-8. vitrite
+8. vitrinization
+9. vitrite
 	1. _[vitrite](dic://vitrite)_  [矿物] 微镜煤
-9. vitrobasalt
-10. vitroclastic
+10. vitrobasalt
+11. vitroclastic
 	1. _[vitroclastic](dic://vitroclastic)_ 玻璃状构造
-11. vitrolite
+12. vitrolite
 	1. _[vitrolite](dic://vitrolite)_  n. [印刷] 瓷板
-12. vitronectin
-13. 
+13. vitronectin
+14. 
 
 
 ### viscer-,viscero- = 表示“内脏”。源自拉丁语 viscera（internal organ）。

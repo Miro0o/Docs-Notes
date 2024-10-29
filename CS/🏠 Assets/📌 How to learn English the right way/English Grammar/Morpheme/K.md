@@ -2730,11 +2730,13 @@
 	2. caviler
 	3. calumny
 		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-		2.  [defamation](dic://defamation), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
-		3.  [aspersion](dic://aspersion), [slander](dic://slander), [defamation](dic://defamation), [denigration](dic://denigration)
-		4. _n._ [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [attack](dic://attack)
-		5. **slander**诽谤;**falsehood**谎言;**accusation**指责;**reproach**责备;**indignation**愤怒, 愤慨, 气愤;**ridicule**嘲笑;**scorn**轻蔑;**vile**卑鄙的;**heresy**异教;**defamation**诽谤, 中伤;**smear**涂抹;
-		6. 
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		4.  [defamation](dic://defamation), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
+		5.  [aspersion](dic://aspersion), [slander](dic://slander), [defamation](dic://defamation), [denigration](dic://denigration)
+		6. _n._ [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [attack](dic://attack)
+		7. **slander**诽谤;**falsehood**谎言;**accusation**指责;**reproach**责备;**indignation**愤怒, 愤慨, 气愤;**ridicule**嘲笑;**scorn**轻蔑;**vile**卑鄙的;**heresy**异教;**defamation**诽谤, 中伤;**smear**涂抹;
+		8. 
 	5. challenge
 
 
@@ -3135,7 +3137,9 @@
 			1. _adj._ [censor](dic://censor)
 			2. **censorship**审查员的职权;**censor**审查，检查;**authoritarian**权力主义的,专制的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**repressive**镇压的;**reactionary**反动的;**governmental**政府的;**judicial**法庭的;**tyrannical**暴君的,暴君似的;**totalitarian**极权主义的;**ideological**观念学的;
 	2. censure (sense, censure, censor, cense, census)
-		1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 		2. [animadversion](dic://animadversion)
 		3. [excommunication](dic://excommunication), [exclusion](dic://exclusion)
 		4. [reprimand](dic://reprimand), [criminate](dic://criminate)
@@ -3495,10 +3499,12 @@
 		2. decorticator
 		3. decortication, hemidecortication
 	8. excoriate, excoriation (esoteric, excoriate, exorcize) 
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, excoriate, indict, crab)
-		2. ex-使… + cori-皮 +ate, 表动词 → 使去皮 → 没去皮遭到严厉批评 → 严厉批评。
-		4. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
-		5. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		4. ex-使… + cori-皮 +ate, 表动词 → 使去皮 → 没去皮遭到严厉批评 → 严厉批评。
+		5. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
+		6. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
 	10. corticocerebellar
 	11. cuirass
 		1. _n._ [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
@@ -5061,7 +5067,9 @@
 	1. caste
 	2. castellan, castellated, castellation, 
 	3. castigate,(objurgate, chastise)
-		1. admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure,
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 	4. casting
 	5. castle
 		1. forecastle, sandcastle, cloud-castle, castle-builder
@@ -5084,47 +5092,51 @@
 			5. Instead, he died a criminal for his sexual orientation, and he was forced to endure chemical castration. /相反， 他因性取向而死于罪犯，并被迫忍受化学阉割。
 			6. 
 	7. chaste
-		1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
-		2. morally pure (especially not having experienced sexual intercourse)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		4. morally pure (especially not having experienced sexual intercourse)
 			1. a holy woman innocent and chaste
-		3. pure and simple in design or style
+		5. pure and simple in design or style
 			1. a chaste border of conventionalized flowers
-		4. abstaining from unlawful sexual intercourse
-		5. _adj._ [celibate](dic://celibate), [continent](dic://continent), [pure](dic://pure), [vestal](dic://vestal), [virgin](dic://virgin), [virginal](dic://virginal), [virtuous](dic://virtuous)
-		6. _n._ [unchaste](dic://unchaste), [fancy](dic://fancy), [immoral](dic://immoral), [amoral](dic://amoral), [unmoral](dic://unmoral)
-		7. **pious**虔诚的;**virtuous**有道德的;**chastity**纯洁;**unmarried**未婚的;**sensual**感觉的;**godly**神圣的;**virgin**处女的;**faithful**忠实的，忠诚的;**discreet**小心的;**heterosexual**异性恋的;**wholesome**有益健康的;
-		8. _[chastest](dic://chastest)_  adj. 纯洁的；贞洁的；有道德的；朴素的 (chaste的变形)
-		9. _[chaste and undefiled](dic://chaste%20and%20undefiled)_  贞洁
-		10. Ah, that humble, chaste, charitable brand of fraud! /啊，这个谦逊、贞洁、慈善的骗子！
-		11. Surely there can be no harm in discussing so chaste an idyl — when there hasn't been anything wrong. /那么，既然已经谈到这里，怎么又不谈了呢？讨论这样圣洁的一首情诗肯定不会有什么害处----既然其中没有什么不正当的关系嘛。
-		12. Among them you will not find the chaste and tranquil being in whom you may forever reign. /在他们中间， 你找不到你可以永远统治的纯洁和宁静的人。
-		13. He held her lightly enough and, after the chaste custom of the era, his hands were gloved. /他轻轻地抱着她， 按照那个时代的纯洁习俗， 他的双手戴着手套。
-		14. The same Signor Jupe was to 'enliven the varied performances at frequent intervals with his chaste Shaksperean quips and retorts'. /同一位 Signor Jupe 将“以他莎士比亚式的纯洁讽刺和反驳频繁地使各种表演活跃起来” 。
-		15. unchastity, chastity
-		16. chastise
-			1.  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
-			2.  [castigate](dic://castigate), [objurgate](dic://objurgate), [chasten](dic://chasten), [correct](dic://correct)
-			3. _v._ [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture)
-			4. **criticize**评论, 批评;**punish**严厉对待;**condemn**判刑，定罪;**accuse**控告，指控;**rebuke**指责，非难;**denounce**谴责;**embarrass**使窘迫;**humiliate**蒙羞;**dissuade**劝阻，劝止;**criticise**批评;**forgive**原谅;
-			5. was roundly chastised for insolence /因为傲慢而受到一顿惩罚。
-			6. he chastised the dancers who'd been hotdogging /他严惩了卖弄技巧的舞蹈演员。
-			7. Last week, the president openly chastised Sessions for recusing himself in the Russia matter. /上周，他还公开批评塞申斯刻意回避俄罗斯调查。
-			8. chastiser, chastisement, chastisable
-		17. chasteness
-		18. chasten (criticize, chasten, chastise)
+		6. abstaining from unlawful sexual intercourse
+		7. _adj._ [celibate](dic://celibate), [continent](dic://continent), [pure](dic://pure), [vestal](dic://vestal), [virgin](dic://virgin), [virginal](dic://virginal), [virtuous](dic://virtuous)
+		8. _n._ [unchaste](dic://unchaste), [fancy](dic://fancy), [immoral](dic://immoral), [amoral](dic://amoral), [unmoral](dic://unmoral)
+		9. **pious**虔诚的;**virtuous**有道德的;**chastity**纯洁;**unmarried**未婚的;**sensual**感觉的;**godly**神圣的;**virgin**处女的;**faithful**忠实的，忠诚的;**discreet**小心的;**heterosexual**异性恋的;**wholesome**有益健康的;
+		10. _[chastest](dic://chastest)_  adj. 纯洁的；贞洁的；有道德的；朴素的 (chaste的变形)
+		11. _[chaste and undefiled](dic://chaste%20and%20undefiled)_  贞洁
+		12. Ah, that humble, chaste, charitable brand of fraud! /啊，这个谦逊、贞洁、慈善的骗子！
+		13. Surely there can be no harm in discussing so chaste an idyl — when there hasn't been anything wrong. /那么，既然已经谈到这里，怎么又不谈了呢？讨论这样圣洁的一首情诗肯定不会有什么害处----既然其中没有什么不正当的关系嘛。
+		14. Among them you will not find the chaste and tranquil being in whom you may forever reign. /在他们中间， 你找不到你可以永远统治的纯洁和宁静的人。
+		15. He held her lightly enough and, after the chaste custom of the era, his hands were gloved. /他轻轻地抱着她， 按照那个时代的纯洁习俗， 他的双手戴着手套。
+		16. The same Signor Jupe was to 'enliven the varied performances at frequent intervals with his chaste Shaksperean quips and retorts'. /同一位 Signor Jupe 将“以他莎士比亚式的纯洁讽刺和反驳频繁地使各种表演活跃起来” 。
+		17. unchastity, chastity
+		18. chastise
+			1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+			2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+			3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+			4.  [castigate](dic://castigate), [objurgate](dic://objurgate), [chasten](dic://chasten), [correct](dic://correct)
+			5. _v._ [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture)
+			6. **criticize**评论, 批评;**punish**严厉对待;**condemn**判刑，定罪;**accuse**控告，指控;**rebuke**指责，非难;**denounce**谴责;**embarrass**使窘迫;**humiliate**蒙羞;**dissuade**劝阻，劝止;**criticise**批评;**forgive**原谅;
+			7. was roundly chastised for insolence /因为傲慢而受到一顿惩罚。
+			8. he chastised the dancers who'd been hotdogging /他严惩了卖弄技巧的舞蹈演员。
+			9. Last week, the president openly chastised Sessions for recusing himself in the Russia matter. /上周，他还公开批评塞申斯刻意回避俄罗斯调查。
+			10. chastiser, chastisement, chastisable
+		20. chasteness
+		21. chasten (criticize, chasten, chastise)
 			1. 1. _vt._ 惩罚(某人)(使之改正或改进)；惩戒
 			2. 遏制(某人)；制止 净化
 			3. **chasten a careless writing style**:  使随便草率的文风变得简洁朴实
 			4. **chasten one's sense of independence**:  锻炼人的独立性
 			5. These, then, are the various ways we use " criticize, " " chasten, " and " chastise." /那么，这些就是我们使用“批评” 、“管教” 和“惩罚” 的各种方式。
 			6. " I want a humble heart; and a chastened mind; and I have never had them yet" ! /“我想要一颗谦卑的心；一颗受过磨练的心；但我还没有拥有它们”！
-		19. chastely
-	9. chateau
+		22. chastely
+	8. chateau
 		1. _n._ [country house](dic://country house)
 		2. **castle**城堡;**mansion**大厦;**manor**庄园;**abbey**大修道院，大寺院;**farmhouse**农舍;**chalet**瑞士山中的牧人小屋;**palace**宫殿;**Loire**卢瓦尔河;**vineyard**葡萄园;**villa**别墅;**Versailles**凡尔赛;
-	10. chateaux
-	11. chatelaine
-	12. incest (infest, incest, )
+	9. chateaux
+	10. chatelaine
+	11. incest (infest, incest, )
 		1. n. 近亲相奸, 乱伦
 		2. - in-,不，非，-cest,纯的，词源同 caste,castrate.即不纯洁的，引申词义乱伦。
 		3. _n._ [unlawful carnal knowledge](dic://unlawful carnal knowledge), [criminal congress](dic://criminal congress)
@@ -5132,7 +5144,7 @@
 		5. Was it the gripping tale of teen incest or just the general fine quality of the prose? /是关于幼虫的故事呢 还是只喜欢大体内容呢总体来说质量很高的散文呢？
 		6. This is one function of the universal incest taboo, the prohibition of sex between close relatives. /这是普遍的乱伦禁忌的一个功能，即禁止近亲之间发生性关系。
 		7. incestuous
-	13. 
+	12. 
 3. caret
 	1. _n._ [mark](dic://mark)
 	2. **cursor**游标，指针;**pointer**指针;**syntax**语法;
@@ -7763,7 +7775,7 @@
 		1. n. 商业化的平民文化; adj. 大众文化的；通俗文化的;
 4. **cycl-** = ring, circle, “圆，环”，「Greeks」kyklos, "circle, wheel, circle of event"
 	1. ancillary
-		1. (ancillary, incidental, contingent, annexal, adnexal)
+		1. (ancillary, incidental, contingent, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
 		2. **incidental**附属的;**miscellaneous**多方面的;**auxiliary**助动词;**provision**提供，供给，给养，供应品;**additional**增加的, 额外的, 另外的;**supplementary**增补的;**extraneous**外部的,外来的;**supplemental**补足的,追加的;**sundry**杂的;**value-added**增值的;**services**服务;
 		3. _ancillary equipment_ 辅助设备；外部设备；外围设备
 		4. _ancillary service_ 附属设备；辅助性服务

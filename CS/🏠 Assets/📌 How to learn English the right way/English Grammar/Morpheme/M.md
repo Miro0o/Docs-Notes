@@ -920,7 +920,7 @@
 		6. [immodest](dic://immodest), [immoderate](dic://immoderate), [pretentious](dic://pretentious), [superior](dic://superior), [proud](dic://proud), [unlimited](dic://unlimited), [limitless](dic://limitless)
 		7. **meager**贫乏的;**paltry**不足取的;**sizable**相当大的;**comparatively**对比地;**substantial**大量的;**respectable**人格高尚的;**hefty**重的;**sizeable**大的，相当大的;**unassuming**谦逊的;**small**少的，小的;**relatively**相对地,比较而言;
 	1. modicum 
-		1.  (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel)
 		2. mode【模式，方式，尺度】 + -ic + -um , 表中性。即按尺度，按量，引申词义少量，一点点。
 		3. **semblance**外表;**lack**缺乏;**sense**官能, 感官;**requisite**必要的事物;**decency**正派;**scant**不足的;**considerable**相当大的;**sort**种类;**sufficient**足够的;**decent**得体的;**glimmer**微光
 		4. _[mint modicum](dic://mint%20modicum)_ 巨额
@@ -2847,7 +2847,7 @@
 4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
 5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
 	1. admonish (exhort, expostulate)
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
 		2.  ad-,去，往，-mon,建议，警告，词源同 monitor,班长。
 		3. _vt._ 劝告, 训诫
 		4. (温和地)责备，轻责
@@ -3499,12 +3499,13 @@
 		6. [black](dic://black), [grim](dic://grim)
 		7. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
 		8. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
-	6. morsel (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, morsel)
-		1. morsel ['mɔːs(ə)l] n.一口；（食物）少量。拉丁词根mord-,mors-表示咬，后缀-el指小，所以morsel就是你能一口（量少）吞下（咬）的食物。类似逻辑，单词bit [bɪt] n.比特；少量；马嚼子；一点，adj.很小的，adv.有点儿，与bite咬和bait诱饵等日耳曼词源单词有关。一口咬下去，差不多都是那个量。 ​​​​
-		2. [bit](dic://bit), [bite](dic://bite)
-		3. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
-		4. **nibble**细咬;**mouthful**一口，满口;**spoonful**一匙;**nugget**天然金块，矿块;**devour**毁灭;**bite**咬;**delectable**令人愉快的;**savor**使有风味;**tidbit**小栏报导;**sliver**裂片;**chew**咀嚼;
-	7. muzzle (nozzle )
+	6. morsel 
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel)
+		2. morsel ['mɔːs(ə)l] n.一口；（食物）少量。拉丁词根mord-,mors-表示咬，后缀-el指小，所以morsel就是你能一口（量少）吞下（咬）的食物。类似逻辑，单词bit [bɪt] n.比特；少量；马嚼子；一点，adj.很小的，adv.有点儿，与bite咬和bait诱饵等日耳曼词源单词有关。一口咬下去，差不多都是那个量。 ​​​​
+		3. [bit](dic://bit), [bite](dic://bite)
+		4. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
+		5. **nibble**细咬;**mouthful**一口，满口;**spoonful**一匙;**nugget**天然金块，矿块;**devour**毁灭;**bite**咬;**delectable**令人愉快的;**savor**使有风味;**tidbit**小栏报导;**sliver**裂片;**chew**咀嚼;
+	8. muzzle (nozzle )
 		1. 来自古法语 musel,口鼻，猪鼻，狗鼻，可能来自拉丁语 morsus,咬，词源同 mordant,morsel.引申词义给狗，马等动物带的口套，以及枪口等。
 		2. [gun muzzle](dic://gun muzzle)
 		3. [gag](dic://gag)
@@ -3513,7 +3514,7 @@
 		6. **recoil**畏缩, 退缩;**snout**鼻子;**pistol**手枪;**gun**枪;**rifle**步枪;**barrel**桶;**tail**尾部;**nose**鼻子;**projectile**发射体;**paw**抓，扒;**firearm**枪炮;
 		7. unmuzzle
 		8. muzzle-loader
-	8. smart
+	9. smart
 		1. adj. 聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的 
 		2. v. （身体部位）感到刺痛；（因批评、失败等）难过，烦恼
 		3. n. 剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）
@@ -3555,7 +3556,7 @@
 		31. smart-aleck
 		32. smart-alec
 		33. outsmart
-	9. smirch (smirk)
+	10. smirch (smirk)
 		1. 
 		2. 原意表示“折磨”，s-=ex- + mirch=mord-咬 → 折磨 → 弄脏。
 		3. vt. 沾污, 弄脏  

@@ -109,17 +109,18 @@
 			5. **herald**使者, 预报者;**precede**领先，在…之前;**prelude**前奏;**imminent**迫近的;**foresee**预知;**signify**表示;**impending**即将发生的;**bode**预示;**ominous**不祥的;**might**可能;**predict**预报，预言;
 		8. sagacity
 		9. sagacious, sagaciously
-			1.  (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, )
-			2. _adj._ [wise](dic://wise), [politic](dic://politic)
-			3. _n._ [foolish](dic://foolish), [impolitic](dic://impolitic)
-			4. **shrewd**精明的;**astute**机敏的;**wise**聪明的;**perceptive**敏感的;**prudent**谨慎的;**skillful**熟练的;**cunning**狡猾的;**enlightened**开明的;**statesman**政治家;**resourceful**资源丰富的;**pious**虔诚的;
+			1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
+			2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+			3. _adj._ [wise](dic://wise), [politic](dic://politic)
+			4. _n._ [foolish](dic://foolish), [impolitic](dic://impolitic)
+			5. **shrewd**精明的;**astute**机敏的;**wise**聪明的;**perceptive**敏感的;**prudent**谨慎的;**skillful**熟练的;**cunning**狡猾的;**enlightened**开明的;**statesman**政治家;**resourceful**资源丰富的;**pious**虔诚的;
 		11. sagaciousness
 			1. _n._ [wisdom](dic://wisdom), [sapience](dic://sapience), [wiseness](dic://wiseness)
 		12. sagamore
 			1. _n._ [Indian chief](dic://Indian chief), [Indian chieftain](dic://Indian chieftain)
 			2. **Iroquois**易洛魁人;**brook**小河;**hill**小山;**Algonquin**阿尔冈琴
 	7. beseech
-		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate)
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
 		2.  [bid](dic://bid), [entreat](dic://entreat), [adjure](dic://adjure), [press](dic://press), [conjure](dic://conjure)
 		3. _v._ [plead](dic://plead)
 		4. **beg**恳求;**pray**祈祷;**humbly**卑贱地;**thee**你;**earnestly**认真地;**thy**你的;**plead**辩护;**forgive**原谅;**lest**唯恐，以免;**doth**从事;**affirm**断言;
@@ -129,9 +130,15 @@
 		1. **theologian**神学家;**scholar**学者;**linguist**语言学家;**theological**神学的;**scripture**经文;**scriptural**手稿的,圣经的,依据圣经的;**theology**神学;**jurist**法官;**philosopher**哲学家;**preacher**传教士;**historian**历史学家, 史学工作者;
 		2. _n._ 解释者,注释家,评注家
 		3. exegesis
-		4. exegetic, exegetical, exegetically
-		5. exegetical, exegetically
-		6. exegetics
+		4. exegetic
+			1. a. 注释的, 评注的
+			2. _adj._ [exegesis](dic://exegesis)
+			3. **theological**神学的;**scriptural**手稿的,圣经的,依据圣经的;**textual**本文的;**scholarly**学术性的;**doctrinal**学说的;**philosophical**哲学的;**linguistic**语言的, 语言学的, 语言研究的;**pedagogical**教学的;**literary**文学的;**methodological**方法的;**Biblical**圣经的;
+			4. The approach of **exegetic** reading of Chinese poetry and prose is a means developed by the Japanese in accepting Chinese classics and then writing poetry and prose in Chinese. /汉诗文训读法是一种双向处理汉诗文与和文，使二者相互训译转换的语言机制，是日本接受汉籍并进而创作汉诗文之津桥。
+			5. exegetical, exegetically
+		6. exegetical
+			1. exegetically
+		7. exegetics
 	10. forsake
 		1. forgo [abandon](dic://abandon), [desolate](dic://desolate), [desert](dic://desert)
 		2. _v._ [leave](dic://leave)
@@ -144,13 +151,49 @@
 		4. I won't forsake my vegetarian principles. /我不会放弃素食原则。
 		5. I knew you wouldn't forsake me just when I need you most. /“我知道，在我最需要你的时候，你是不会丢下我的。”
 	11. ransack
-		1. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [pillage](dic://pillage), [foray](dic://foray)
-		2. [comb](dic://comb)
-		3. [take](dic://take), [search](dic://search)
-		4. **plunder**抢夺;**invade**侵略;**steal**剽窃;**seize**抓住;**rob**抢劫;**looting**抢劫;**flee**消失，消散;**loot**掠夺品;**hoard**储藏, 积存;**destroy**毁坏;**gunpoint**枪口;
+		1. v. 洗劫
+		2. 来自古诺斯语 ransakka,入室抢劫，来自 rann,屋子，房屋，词源同 barn,saka,搜寻，翻找，词源同 seek.
+		3. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [reave](dic://reave), [strip](dic://strip), [rifle](dic://rifle), [pillage](dic://pillage), [foray](dic://foray)
+		4. [comb](dic://comb)
+		5. [take](dic://take), [search](dic://search)
+		6. **plunder**抢夺;**invade**侵略;**steal**剽窃;**seize**抓住;**rob**抢劫;**looting**抢劫;**flee**消失，消散;**loot**掠夺品;**hoard**储藏, 积存;**destroy**毁坏;**gunpoint**枪口;
+		7. I ransacked the house looking for my purse. /我满房子各处找我的钱包。
+		8. man has ransacked the planet for fuel. /人类为了燃料已经彻底搜索了这一行星。
+		9. He began to ransack his mother's workbox for a piece of thread. /他要找一根线，开始翻腾妈妈的针线盒。
 	12. saker
 2. sake
+	1. n. 目的, 缘故, 理由; 日本清酒
+	2. 1 - 来自古英语 sacu,诉讼，争辩，来自 Proto-Germanic*sako,起诉，事件，事情，来自 PIE*sag,调查，寻找，寻求，词源同 seek,forsake.常见于短语 for the sake of,因某原因。  
+	3. 2 - 来自日语（可能是日式汉语）sake,酒，也可发 shu 音，代指清酒 seishu,清酒。比较 shogun,来自日式汉语将军。
+	4. _n._ [cause](dic://cause), [reason](dic://reason), [alcohol](dic://alcohol), [alcoholic beverage](dic://alcoholic beverage), [purpose](dic://purpose)
+	5. **brevity**短暂，短促;**goodness**善良，仁慈;**simplicity**简单, 朴素, 率直;**sanity**明智;**completeness**完全;**convenience**便利;**posterity**后代;**forbid**禁止;**practicality**实际;**purpose**目的;**for**为，为了;
+	6. _for the sake_ 为了…；为了...的利益
+	7. _for the sake of_ 为了；为了…的利益
+	8. _for god's sake_ 看在上帝面上
+	9. _for sake_ 为了…的缘故
+	10. _for sake of_ 为了…
+	11. _for heaven's sake_ 看在上帝的份上
+	12. _without sake_ adv. 无缘无故
 3. seek
+	1. vt. 寻求, 寻找, 探索, 追求, 搜索, 请求  
+	2. vi. 寻找, 搜索
+	3. 来自古英语 secan,寻求，追寻，渴望，来自 Proto-Germanic*sokjan,寻求，来自 PIE*sag,寻求，找出，词源同 sake,beseech.
+	4. [search](dic://search), [look for](dic://look for)
+	5. [try](dic://try), [attempt](dic://attempt), [essay](dic://essay), [assay](dic://assay)
+	6. _n._ [movement](dic://movement), [motion](dic://motion)
+	7. _v._ [desire](dic://desire), [want](dic://want), [act](dic://act), [move](dic://move), [travel](dic://travel), [go](dic://go), [locomote](dic://locomote)
+		1. [hunt](dic://hunt) 一般指寻找所需的物件，或对罪犯的搜寻，特指追猎。  
+		2. [explore](dic://explore) 一般指对未知事物或新生事物的探索、观察与研究。  
+		3. [track](dic://track) 侧重按一定线索追查出结果。  
+		4. [seek](dic://seek) 语义庄重，语气强，使用广。多暗示做出很大努力去寻求某人或物。
+	8. **pursue**追求;**encourage**鼓励, 激励;**compel**强迫，迫使;**obtain**获得;**find**发现;**provide**规定;**strive**努力;**try**试验;**help**帮助;**bring**带来;**desire**欲望;
+	9. seek enforcement of judgement /请求执行判决
+	10. seek a college education /努力获得高等教育
+	11. European officials say they are urgently seeking clarification. /欧洲官员表示，他们正迫切地寻求以色列做出解释。
+	12. self-seeking
+	13. seeking
+	14. seeker
+	15. pleasure-seeking
 4. soke
 
 
@@ -2931,12 +2974,12 @@
 		2. sapient, sapiences, sapiential
 		3. insipience, insipient, 
 			1. 愚蠢的；笨的
-	6. savvy
+	6. savvy (privy)
 		1. **astute**机敏的;**shrewd**精明的;**resourceful**资源丰富的;**adept**熟练的;**smart**时髦的;**sophisticated**老练的;**acumen**聪明，敏锐;**clueless**无线索的;**literate**受过教育的;**enterprising**有事业心的;**seasoned**经验丰富的;
 		2. [grok](dic://grok), [get the picture](dic://get the picture), [comprehend](dic://comprehend), [dig](dic://dig), [grasp](dic://grasp), [compass](dic://compass), [apprehend](dic://apprehend)
 		3. [understanding](dic://understanding), [apprehension](dic://apprehension), [discernment](dic://discernment)
 		4. _[marketing savvy](dic://marketing%20savvy)_  营销知识 (business acumen)
-	7. sage
+	7. sage (sagacious)
 		1. **thyme**百里香;**rosemary**迷迭香;**herb**香草，药草;**wisdom**智慧，才智;**guru**古鲁;**herbs**药草;**parsley**荷兰芹，欧芹;**basil**罗勒属植物;**fennel**茴香;**saffron**藏红花;**lavender**淡紫色;
 		2. [mentor](dic://mentor), [wise man](dic://wise man), [herb](dic://herb), [herbaceous plant](dic://herbaceous plant)
 		3. [wise](dic://wise), [chromatic](dic://chromatic)
@@ -4436,13 +4479,12 @@
 	1. algolagnia
 3. **lax-, leas-, lang-** = loose, 表示“松”；= languid, 表示“疲倦”。源自拉丁语 laxus "loose, slack;" languere "to be languid."
 	1. languid, languidly
-		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid)
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
 		2. langu-疲倦 + -id。 
 		3. 1 - 来自 PIE*sleg,松的，松散的，词源同 lax.引申词义懒洋洋的。
-		4. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, languid)
 		5. a. 疲倦的, 无力的, 阴沉的
 	3. languish
-		1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish)
+		1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy)
 		2. 来自 PIE*sleg,松的，松散的，词源同 lax,slack.引申词义松软无力的，消瘦的，后用来指长期受苦，煎熬。
 		3. langu-疲倦 + -ish表动词。
 		4. - v. 长期受苦，受煎熬；衰败，未能取得进展 ；变得衰弱；<古>思恋；<古>显示出温柔亲切（或忧伤）的样子
@@ -5084,17 +5126,32 @@
 	7. etc..
 
 
+### + \*spat- +
+1. spatial
+2. spatio-temporal
+3. expatiate
+	1. (expound, elaborate, exposit, lucubrate, expatiate, expand, elucidate, )
+	2. ex-向外 + spat-走，展开 + -ate, 表动词。
+	3. vi. 详述, 细说, 漫游
+	4. _v._ [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate)
+	5. **confine**限制;**doubtless**无疑地, 肯定地;**elucidate**阐明,解释;**ponder**仔细考虑;**enlighten**启发;**ramble**漫步;**bestow**授予;**dwell**居住;**moreover**此外;**chiefly**主要地;**ought**应该，应当;
+	6. _expatiate on_ 阐述；详述
+
+
 ### + \*spe- +
 #### + \*spe- + (1) = to thrive, prosper
 1. **sper-** = hope, 表示“希望”。源自拉丁语 sperare "to hope."
 	1. despair, despairing, despairingly
 	2. desperado
-	3. desperate
+	3. desperate (disparate)
 		1. desperation
 		2. desperateness
 		3. desperately
 	4. Esperanto
-	5. prosper, prosperous, prosperity, prosperously
+	5. prosper
+		1. prosperous
+		2. prosperity
+		3. prosperously
 2. speed
 
 

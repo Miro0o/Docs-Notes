@@ -573,7 +573,7 @@
 		1. caching
 		2. cacheable
 		3. microcache
-	6. cachet [美 /kæ'ʃe/](cmd://Speak/_us_/cachet) (bouquet, cachet, crotchet, coquet)
+	6. cachet [美 /kæ'ʃe/](cmd://Speak/_us_/cachet)  (bouquet, banquet cachet, crotchet, coquet, ratchet)
 		1. n. 公章, 私人印戳, 标记, 威望, 纪念邮戳
 		2. n. （证明品质的）优良标志；公务印章；私人印戳；标记；威望；纪念邮戳
 		3. 来自拉丁词coactare, 压缩，堆放。co-, 强调，-act, 做，压紧。在法语里指公文印章，特指国王印章，因而有了威望之意。
@@ -604,12 +604,30 @@
 		11. _[folk adages](dic://folk%20adages)_ 俗语
 		12. _[flok adage](dic://flok%20adage)_ 民间流传的通俗语句; 包括俚语;
 	2. prodigy
-		1.  来自拉丁语 prodigium,预言，预兆，奇怪的预示，妖怪，来自 pro-,向前，-igium,说，预言，可能来自 PIE*ag,说，词源同 adage.后用于指天赋异禀的孩子，天才，神童。
-		2. prodigious
-			1. _adj._ [large](dic://large), [big](dic://big), [significant](dic://significant), [important](dic://important), [extraordinary](dic://extraordinary)
-			2. _n._ [small](dic://small), [little](dic://little), [insignificant](dic://insignificant), [unimportant](dic://unimportant), [ordinary](dic://ordinary)
-			3. **immense**巨大的，广大的;**enormous**庞大的，巨大的;**prolific**多产的;**astonishing**惊人的;**copious**丰富的;**remarkable**异常的;**colossal**巨大的;**astounding**使人震惊的;**extraordinary**非常奇怪的;**tremendous**极大的, 巨大的;**considerable**相当大的;
-		3. prodigiously
+		1. pro-向前 + -d- + ig-说，预言 + -y → 能提前说、能预知未来 → 天才，神童。
+		2.  来自拉丁语 prodigium,预言，预兆，奇怪的预示，妖怪，来自 pro-,向前，-igium,说，预言，可能来自 PIE*ag,说，词源同 adage.后用于指天赋异禀的孩子，天才，神童。
+		3. n. （年轻的）天才, 奇才, 精英; 神童
+		4.  [omen](dic://omen), [portent](dic://portent), [presage](dic://presage), [prognostic](dic://prognostic), [prognostication](dic://prognostication)
+		5. _n._ [genius](dic://genius), [mastermind](dic://mastermind), [brain](dic://brain), [brainiac](dic://brainiac), [Einstein](dic://Einstein), [augury](dic://augury), [sign](dic://sign)
+		6. **virtuoso**艺术品鉴赏家;**youngster**年轻人;**genius**天才，天赋;**teenager**青少年;**violinist**小提琴手;**boy**男孩;**kid**小孩;**superstar**超级明星;**pianist**钢琴家;**gifted**有才华的;**musician**音乐家;
+		7. _child prodigy_ 神童
+		8. She was a child prodigy on the violin. /她是神童小提琴手。
+		9. Germany seemed a prodigy of industrial discipline. /德国似乎是工业纪律的奇迹。
+		10. He was brilliant—a prodigy who graduated from Yale at 18, a pathbreaking scholar and a devoted and generous teacher. /他那么优秀出色：一个18岁就从耶鲁毕业的天才，一个有着开拓精神的学者和一个专注慷慨的教师。
+		11. " What is it" ? she asked joyfully, ready to promise prodigies. /" 什么事？" 思嘉欢喜地问，准备承担什么了不起的任务。
+		12. The Russian tennis **prodigy** is well on the way to becoming the youngest world champion of all time. /这位俄罗斯网球奇才已很有望成为历史上最年轻的世界冠军。
+		13. prodigious (egregious, stupendous, flagrant, prodigious, tremendous, astounding, considerable, )
+			1. - adj. （范围，规模，程度）巨大的，庞大的
+			2. _adj._ [large](dic://large), [big](dic://big), [significant](dic://significant), [important](dic://important), [extraordinary](dic://extraordinary)
+			3. _n._ [small](dic://small), [little](dic://little), [insignificant](dic://insignificant), [unimportant](dic://unimportant), [ordinary](dic://ordinary)
+			4. **immense**巨大的，广大的;**enormous**庞大的，巨大的;**prolific**多产的;**astonishing**惊人的;**copious**丰富的;**remarkable**异常的;**colossal**巨大的;**astounding**使人震惊的;**extraordinary**非常奇怪的;**tremendous**极大的, 巨大的;**considerable**相当大的;
+			5. And so, let freedom ring from the prodigious hilltops of New Hampshire. /所以，让自由之声从新罕布什尔州的巍峨的崇山峻岭响起来。
+			6. I have a prodigious amount of work to do before I leave /我在离开之前还有大量的工作要做。
+			7. She was a witch, as Harry knew, with prodigious skill and no conscience. /她是女巫，正如同哈利知道的一样，有着一精一湛的技艺和冷酷的心。
+			8. Becker applied his own prodigious reserves of human capital well beyond education. /贝克尔对他自己庞大的人力资本储备的应用远远超出了教育。
+			9. It left this place of devastation with prodigious speed, 100 feet beneath the waters. /“鹦鹉螺号”潜在水下100英尺处以惊人的速度飞快地离开这处令人悲痛的地方。
+			10. One of the most prodigious conductors of recent years Lorin Maazel has died. We look back at his career. /近年来最伟大的乐队指挥洛林·马泽尔去世，我们将回顾他的职业生涯。
+		14. prodigiously
 
 
 ### + \*agro- + = field
@@ -3274,16 +3292,17 @@
 		15. disharmony
 7. **ordin-, order-** = order, 表示“命令，顺序”。
 	1. ordain
-		1. 来自拉丁语 ordinare,安排，布置，指定，词源同 order.引申词义安排职位，授予圣职或圣秩。
-		2.  [enact](dic://enact)
-		3.  [consecrate](dic://consecrate), [ordinate](dic://ordinate), [order](dic://order)
-		4. _v._ [decree](dic://decree), [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone)
-		5. **ordination**任命;**appoint**任命;**priesthood**神职;**likewise**也;**deacon**执事;**bestow**授予;**bishop**主教;**consecration**奉献;**elect**选出的;
-		6. He was ordained in 1984. /他在一九八四年被任命为牧师
-		7. the path ordained by God. /上帝指定的路。
-		8. self-ordained
-		9. preordain
-		10. foreordain
+		1. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat, decree, invest, enthrone, ordain,)
+		2. 来自拉丁语 ordinare,安排，布置，指定，词源同 order.引申词义安排职位，授予圣职或圣秩。
+		3.  [enact](dic://enact)
+		4.  [consecrate](dic://consecrate), [ordinate](dic://ordinate), [order](dic://order)
+		5. _v._ [decree](dic://decree), [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone)
+		6. **ordination**任命;**appoint**任命;**priesthood**神职;**likewise**也;**deacon**执事;**bestow**授予;**bishop**主教;**consecration**奉献;**elect**选出的;
+		7. He was ordained in 1984. /他在一九八四年被任命为牧师
+		8. the path ordained by God. /上帝指定的路。
+		9. self-ordained
+		10. preordain
+		11. foreordain
 	3. order
 		1. well-ordered, unordered
 		3. superorder
@@ -3312,7 +3331,7 @@
 		7. a case which had taken up an inordinate amount of time. /占用了过多时间的事情。
 		8. It affords you then an inordinate amount of self-esteem. /相反地，他还会为此洋洋自得。
 		9. inordinately
-	6. ordinance
+	5. ordinance
 		1. ordin-命令 + -ance, 表名词 → 命令[状态] → 法令。
 		2. _n._ [rule](dic://rule), [prescript](dic://prescript), [legislative act](dic://legislative act), [statute](dic://statute), [appointment](dic://appointment), [assignment](dic://assignment), [designation](dic://designation)
 		3. **zoning**分区制;**bylaws**章程;**amendment**修改, 改动;**council**理事会;**statute**法令;**prohibition**禁止;**legislation**法律;**decree**法令;**proclamation**宣布,声明,公告;**statutes**议会立法，章程;**regulations**规程;
@@ -3320,11 +3339,11 @@
 		5. _[zoning ordinance](dic://zoning%20ordinance)_  市区划分令；分区规则；[建] 分区法规
 		6. _[employment ordinance](dic://employment%20ordinance)_  雇佣条例
 		7. _[company ordinance](dic://company%20ordinance)_  公司条例
-	7. ordinand
+	6. ordinand
 		1. n. 神职候选人
-	8. ordinary
+	7. ordinary
 		1. ordin-命令 + -ary, 表形容词 → 有顺序的;听命令的 → 普通的。
-	9. coordinate
+	8. coordinate
 		1. coordinal
 		2. uncoordinated
 		3. uncoordinate
@@ -3335,14 +3354,14 @@
 		8. coordinative
 		9. coordination
 		10. coordinating
-	10. subordinate
-	11. exordial
-		1. (exordium, prologue, onset, overture, prelude)
+	9. subordinate
+	10. exordial
+		1. (exordium, prologue, onset, overture, prelude, preface)
 		2. _[exordial](dic://exordial)_  adj. 绪论的；绪言的
 		3. exordium
 			1. _n._ [introduction](dic://introduction)
 			2. **prologue**序言;**interlude**中间;**epilogue**结语，收场白;**verse**诗，诗篇;**recitation**背诵;**exposition**阐述, 讲解;**stanza**诗节;**prelude**前奏;**utterance**说话;**preface**前言;**treatise**论文;
-	13. ornery
+	11. ornery
 		1.  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery)
 		2. 来自ordinary方言缩写，词义由普通的引申为劣质的，粗糙的，后用于形容人脾气坏的，闹别扭的。
 		3. [cantankerous](dic://cantankerous), [crotchety](dic://crotchety)
@@ -3350,7 +3369,7 @@
 		5. _adj._ [ill-natured](dic://ill-natured)
 		6. _n._ [good-natured](dic://good-natured)
 		7. **cranky**暴躁的;**grumpy**脾气暴躁的;**feisty**活跃的;**stubborn**顽固的;**irritable**易怒的, 急躁的;**obnoxious**可憎的;**mischievous**淘气的, 顽皮的;**opinionated**固执己见的,武断的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**sassy**无礼的;
-	14. primoridial
+	12. primoridial
 8. **orn-** = embellish, 表示“装饰”。
 	1. adorn
 		1. 1 - ad-,去，往，-orn,装饰，词源同 ornament,装饰物。

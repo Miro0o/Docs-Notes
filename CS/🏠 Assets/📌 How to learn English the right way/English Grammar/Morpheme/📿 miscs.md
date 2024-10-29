@@ -920,7 +920,7 @@ blunt
 - bluntly
 - blunthook
 
-bluster
+bluster (butter  bluster  blotter  clutter  flutter  splutter )
 - vt. 风狂吹, 咆哮, 汹涌  
 - vi. 咆哮着说出, 恐吓  
 - n. 狂风声, 巨浪声, 夸口, 大话
@@ -1350,7 +1350,7 @@ bounce
 bound
 - etc..
 
-bouquet (bouquet, banquet cachet, crotchet, coquet) (spray)
+bouquet (bouquet, banquet cachet, crotchet, coquet, ratchet) (spray)
 - 来自拉丁语 boscus,灌木，灌木花，词源同 bush.-et,小词后缀。
 - n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
 - [corsage](dic://corsage), [posy](dic://posy), [nosegay](dic://nosegay)
@@ -2310,7 +2310,7 @@ churl,
 	- _n._ [gracious](dic://gracious), [good-natured](dic://good-natured)
 	- **daft**愚蠢可笑的;**dismissive**轻视的, 轻蔑的, 鄙视的;**disingenuous**不真诚的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**hypocritical**伪善的;**arrogant**自大的，傲慢的;**cynical**愤世嫉俗的;**foolish**愚蠢的;**rude**粗鲁的;**pompous**浮夸的;
 
-chic (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy)
+chic  (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, )
 - [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [swank](dic://swank), [last word](dic://last word)
 - **stylish**时髦的;**trendy**时髦的，流行的;**fashionable**流行的, 符合时尚的, 时髦的;**classy**漂亮的;**luxe**奢侈;**elegant**高雅的，优雅的;**glamorous**富有魅力的;**sleek**圆滑的;**edgy**尖利的;**rustic**乡村的;**retro**制动火箭,减速火箭;
 
@@ -2875,6 +2875,7 @@ dandruff
 - dander
 
 dandy
+- (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 - n. 好打扮的男子；花花公子；华丽物品，极品；登革热 
 - adj. 上等的，极好的；服装华丽的；与花花公子有关的
 - [dude](dic://dude), [fop](dic://fop), [gallant](dic://gallant), [sheik](dic://sheik), [beau](dic://beau), [swell](dic://swell), [fashion plate](dic://fashion plate), [clotheshorse](dic://clotheshorse)
@@ -2918,7 +2919,7 @@ dear
 	- Now, don't listen to him, Pheebs, all right? I think it's endearing. 不，别听他的，菲比，好吗？ 我觉得那很可爱。
 - deary
 -  dearth
-	-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent)
+	-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel)
 	- 来自dear, 贵重，珍贵。
 	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
 	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
@@ -3049,7 +3050,7 @@ dove
 - etc...
 
 drab
-- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
 
 drain
 -  词源同 dry,排空，干。
@@ -4205,7 +4206,7 @@ fritz
 - The Wi-Fi in my office is on the fritz. /我办公室无线网出毛病了。
 - Maybe your machine really is on the fritz. /也许你的机器真出故障了。
 
-frivol
+frivol  (vitriol, thrive, frivol, virile, trivia)
 - **frivolous**不重要的,不必要的;
 - _[frivol away](dic://frivol%20away)_ 愚蠢地浪费
 - _[Don't frivol your life away](dic://Don%27t%20frivol%20your%20life%20away)_ 不要虚度年华
@@ -4889,7 +4890,9 @@ glory
 	- self-glorifying
 	- glorification
 
-goad
+goad (joust)
+- - n. 刺激；（赶牲口用的）刺棒；激励 
+- vt. 刺激；激励；用刺棒驱赶；煽动
 - **provoke**激怒;**incite**煽动;**dissuade**劝阻，劝止;**intimidate**恐吓, 威胁;**taunt**嘲弄;**humiliate**蒙羞;**persuade**说服，劝说;**accuse**控告，指控;**embarrass**使窘迫;**stab**刺;**nudge**用肘轻推;
 - [encourage](dic://encourage), [prod](dic://prod), [incite](dic://incite), [egg on](dic://egg on), [stab](dic://stab), [jab](dic://jab), [harass](dic://harass)
 - [device](dic://device), [encouragement](dic://encouragement)
@@ -5019,6 +5022,7 @@ grate (integrate)
 
 gravel (grovel， gavel)
 - n. 砂砾；碎石 vt. 用碎石铺；使船搁浅在沙滩上；使困惑
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
 -  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 -  [grating](dic://grating), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough), [scratchy](dic://scratchy)
@@ -5172,16 +5176,15 @@ groove
 	- **groovy**吸引人的, 绝妙的;**jazzy**爵士乐的;**boogie**摇滚乐;**techno**泰克诺音乐;**funk**恐惧;**electro**电的;**soulful**感情上的;**funky**畏缩的;**reggae**瑞格舞;**synth**合成器;**riff**反复乐节;
 - groovelike
 	- _[groovelike](dic://groovelike)_  adj. 缺乏独创性的；墨守成规的
-- 
-
-groovy
--  [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [dandy](dic://dandy), [great](dic://great), [keen](dic://keen), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
-- [swagger](dic://swagger)
-- _adj._ [good](dic://good), [fashionable](dic://fashionable), [stylish](dic://stylish)
-- _n._ [bad](dic://bad), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
-- **funky**畏缩的;**jazzy**爵士乐的;**retro**制动火箭,减速火箭;**cool**冷静的;**psychedelic**引起幻觉的;**nifty**俏皮的;**vibe**感应;**catchy**引人注意的;**soulful**感情上的;**hippie**嬉皮士;**trendy**时髦的，流行的;
-- sporting a groovy new haircut /惹人注目地做了个新潮发型。
-- he played all the remarkably groovy guitar parts himself /非常欢快的吉他声部全都由他亲自演奏。
+- groovy
+	- (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
+	-  [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [dandy](dic://dandy), [great](dic://great), [keen](dic://keen), [neat](dic://neat), [nifty](dic://nifty), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
+	- [swagger](dic://swagger)
+	- _adj._ [good](dic://good), [fashionable](dic://fashionable), [stylish](dic://stylish)
+	- _n._ [bad](dic://bad), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
+	- **funky**畏缩的;**jazzy**爵士乐的;**retro**制动火箭,减速火箭;**cool**冷静的;**psychedelic**引起幻觉的;**nifty**俏皮的;**vibe**感应;**catchy**引人注意的;**soulful**感情上的;**hippie**嬉皮士;**trendy**时髦的，流行的;
+	- sporting a groovy new haircut /惹人注目地做了个新潮发型。
+	- he played all the remarkably groovy guitar parts himself /非常欢快的吉他声部全都由他亲自演奏。
 
 grovel (gravel)
 - **kneel**跪下，跪;**beg**恳求;**stoop**弯腰;**humiliate**蒙羞;**humbly**卑贱地;**tolerate**忍受;**forgive**原谅;**apology**道歉;**stomp**跺;**abject**卑贱的;**whine**闹声;
@@ -7154,7 +7157,7 @@ ire
 	- a barrage of irate letters / 连珠炮般的斥责信件。
 	- an irate phone call. /一个愤怒的电话
 - irascible
-	-  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy))
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy )
 	- [choleric](dic://choleric), [hotheaded](dic://hotheaded), [hot-tempered](dic://hot-tempered), [quick-tempered](dic://quick-tempered), [short-tempered](dic://short-tempered)
 	- _adj._ [ill-natured](dic://ill-natured), [angry](dic://angry)
 	- _n._ [good-natured](dic://good-natured),
@@ -7674,7 +7677,9 @@ lam
 - lamster
 	-  逃犯（等于lamister）
 - lambaste, lambast
-	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule)
+	- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+	- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 	- [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
@@ -8511,6 +8516,28 @@ meager
 - [scanty](dic://scanty), [spare](dic://spare), [exiguous](dic://exiguous), [hardscrabble](dic://hardscrabble), [marginal](dic://marginal)
 - **paltry**不足取的;**scant**不足的;**pitiful**可怜的，令人同情的;**modest**谦虚的，谦逊的;**feeble**微弱的，无力的;**sizable**相当大的;**minuscule**小写字;**decent**得体的;**hefty**重的;**dismal**凄凉的，忧郁的;**mere**仅仅的;
 
+meander
+- n. (河流的)蜿蜒, 漫步, 迂回旅行  
+- vi. 蜿蜒流动, 漫步  
+- vt. 使蜿蜒曲折
+- v. （河流、道路等）蜿蜒，曲折前行；漫步，闲逛，徘徊；漫谈，闲聊；（文章）行文散漫 
+- n. 河流（或道路）弯道，河曲；漫游
+- meander - 你可曾听过一首旋律优美的英国民歌The Ash Grove（梣丛）？歌中的第一句这样唱道：Down yonder green valleywhere streamlets meander，意思是说涓涓小溪沿着绿色山谷蜿蜒而下。meander一词在这里表示“蜿蜒流动”。它来自一河流名，这是小亚细亚古国弗里吉亚（Phrygia）境内，即今土耳其西部的一条河流，现名the Menderes，古称the Meander。该河以其河道蜿蜒曲折著称。meander一词源于希腊语Maíandros，16世纪末取道拉丁文、法语进入英语，17世纪以后多作动词用，用于河川，作“蜿蜒”解，用于人则作“漫步”、“闲逛”解。
+-  来自拉丁语 meander,蜿蜒的水道，来自希腊语 Maiandros,河流名，位于现土耳其境内。由于这条河流非常曲折，因此，引申词义蜿蜒，闲逛，散步等。该河流名字面意思可能为伟大的男人或善变的男人，来自 andro-,男人，词源同 android,mai-,伟大的，词源同 magnate,或善变的，词源同 mutable.
+- [ramble](dic://ramble)
+-  [weave](dic://weave), [wind](dic://wind), [thread](dic://thread), [wander](dic://wander)
+- _n._ [curve](dic://curve), [curved shape](dic://curved shape), [amble](dic://amble), [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
+- _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote)
+- **wander**徘徊;**ramble**漫步;**stroll**闲逛;**leisurely**从容的, 不慌不忙的;**winding**线圈;**curving**弯曲的;**drift**漂流，漂移;**strolling**巡回的;**walk**步行，走;**wandering**漫游的;**rambling**漫步的;
+- the curl of a meandering river. /河流弯弯曲曲地盘旋流动
+- the meanders of the law /法律程序的繁复
+- A brook meanders through the meadow. /一条小溪从草地中蜿蜒流过。
+- 'cause it seems like you're meandering /因为看上去你在混日子。
+- They meander through the galaxy on their own /而是在银河系中蜿蜒穿行。
+- 
+- meandering
+- meander
+
 meek
 - meug-
 
@@ -8774,6 +8801,8 @@ net
 - network
 - netty
 - nettle
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil)
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy )
 - netting
 - netted
 - netstat
@@ -8797,6 +8826,8 @@ net
 - catenet
 - netty
 - nettle
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy )
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
 	- 来自net , 网。即织网的材料，用于指荨麻。
 	- n. 荨麻 vt. 使烦恼, 使生气; 以荨麻刺
 	- [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [gravel](dic://gravel), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
@@ -8847,6 +8878,7 @@ niche
 - However, it wasn't as if mammals swarmed forward to fill every niche. /不过，情况似乎不像是哺乳动物一哄而上去抢占每一块地盘。
 
 nifty
+- (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 - [bang-up](dic://bang-up), [bully](dic://bully), [corking](dic://corking), [cracking](dic://cracking), [dandy](dic://dandy), [great](dic://great), [groovy](dic://groovy), [keen](dic://keen), [neat](dic://neat), [not bad(p)](dic://not bad(p)), [peachy](dic://peachy), [slap-up](dic://slap-up), [swell](dic://swell), [smashing](dic://smashing)
 - adj. good
 - n. bad
@@ -9374,6 +9406,7 @@ peck (peck, pike, pick)
 - henpeck
 
 peeve
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
 - 来自 peevish 的回构词。
 - **gripe**抱怨;**dislike**不喜欢，厌恶;**no-no**被禁止的东西;**annoyance**烦恼;**rant**咆哮;**pet**宠物;**mine**矿山，矿井;
 - [temper](dic://temper), [mood](dic://mood), [humor](dic://humor), [humour](dic://humour)
@@ -9694,10 +9727,32 @@ plank
 - planking
 - gangplank
 
-plunder (plunge, plunk, plunger, plank)
+pluck
+- n. 勇气；内脏；快而猛的拉
+- vt. 摘；拔；扯
+- vi. 拉；拽；扯
+- [gutsiness](dic://gutsiness), [pluckiness](dic://pluckiness)
+-  [tweak](dic://tweak), [pull off](dic://pull off), [pick off](dic://pick off)
+- [hustle](dic://hustle), [roll](dic://roll)
+-  [overcharge](dic://overcharge), [soak](dic://soak), [surcharge](dic://surcharge), [gazump](dic://gazump), [fleece](dic://fleece), [plume](dic://plume), [rob](dic://rob), [hook](dic://hook)
+- [plunk](dic://plunk), [pick](dic://pick)
+-  [pull](dic://pull), [tear](dic://tear), [deplume](dic://deplume), [deplumate](dic://deplumate), [displume](dic://displume)
+-  [pick](dic://pick), [cull](dic://cull)
+- _n._ [fearlessness](dic://fearlessness), [pull](dic://pull), [pulling](dic://pulling)
+- _v._ [pull](dic://pull), [draw](dic://draw), [force](dic://force), [steal](dic://steal), [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel)
+- **pull**拉;**courage**勇气;**snatch**抢夺;**pick**挑选;**scrape**用工具刮;**sprout**长芽;**audacity**厚颜无耻;**comb**梳子;**chop**砍;**prune**修剪;**guts**飞碟游戏;
+- But their eyes and hair colours aren't just plucked out of the air. /不过他们头发和眼睛的颜色可不是随便决定的。
+- I thought about plucking out her eyes. /我本想挖出她的眼睛。
+- But you cannot pluck the stars from heaven. /可你却不能摘下这些星星呀！
+
+plunder (plunge, plunk, plunger, plank, pluck)
 - pill-
 
-plunk
+plunk (pluck)
+- 1. n. 使劲投掷；一美元
+- vt. 用力丢下；使发扑通声
+- vi. 砰砰作响；沉重地坠落
+- adv. 恰好；发出扑通声
 - [plunker](dic://plunker)
 - [clop](dic://clop), [clump](dic://clump), [clunk](dic://clunk)
 - [plank](dic://plank), [flump](dic://flump), [plonk](dic://plonk), [plop](dic://plop), [plump down](dic://plump down), [plunk down](dic://plunk down), [plump](dic://plump)
@@ -9710,8 +9765,13 @@ plunk
 - _[Plink Plank Plunk](dic://Plink%20Plank%20Plunk)_ 乒乒乓乓
 - Plunk down your money! 将钱丢下!
 - The dart landed plunk in the center of the target. 标枪正中靶心
+- Do not plunk the flower in the garden, please /请勿摘折花园里的花。
+- She plunked a ticket down, and a moose yelled at her: " I was thirty seconds over! " /她刚撕下一张罚单，一头麋鹿就冲着她大喊大叫：“我只超时30秒！”
+-  How opportune it was that my throat is swollen plunk together and tears were easy to muster. /我的喉咙肿胀起来， 眼泪很容易聚集起来， 这是多么恰当的时机.
+- 
 
 plush  (flush, gush, lush, slush, plush, blush, shush)
+- (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
 - [lavish](dic://lavish), [lucullan](dic://lucullan), [lush](dic://lush), [plushy](dic://plushy)
 - [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
 - **cuddly**令人想拥抱的;**luxurious**奢侈的;**velvety**天鹅绒般柔软的;**soft**温柔的，温和的;**deluxe**豪华的，奢华的;**stuffed**塞满了的;**comfy**舒服的;**padded**有装填垫料的;**pillows**靠垫;**fluffy**蓬松的;**sumptuous**豪华的, 奢侈的;
@@ -9869,7 +9929,8 @@ porgy
 - **snapper**啮鱼，鲷鱼;**cod**鳕鱼;**shrimp**虾;**fish**捕鱼，钓鱼;**trout**鳟鱼;**catfish**鲶鱼;**squid**鱿鱼;**lobster**龙虾;**eel**鳝鱼;**tuna**金枪鱼，鲔鱼;**crab**螃蟹;
 - _[red porgy](dic://red%20porgy)_  真鲷；红海鲷
 
-posh (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy)
+posh
+- (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 - posh - 关于posh的由来，有一种说法聊备一阅。昔日，富人乘船从英国去印度旅行，为求航海途中阴凉舒适，大多喜欢选择背阴朝北的房舱。乘客在订票登记时，大英轮船公司（Peninsular and Oriental Steam Navigation Co.，简称P &amp; O）就会注上P. O. S. H四个字母，或在来回票上加盖P. O. S. H字样。P. O. S. H代表Port Out（或Outward），Starboard Home（或Homeward），意思是“去程左舷，回程右舷”。在客轮穿越苏伊士运河、红海，进入印度洋时，这种房舱可以避免午后太阳的直射，比较凉快。不久，这一缩写式即被用作一个单词，转指“头等乘客”，据认为今作“漂亮的”、“第一流的”等义解的口语用词posh即源于此。这一说法还曾出现在大英轮船公司于20世纪60年代所作的广告上。然而，遗憾的是，大英轮船公司没有这方面的证据和记录，所以这种说法一直没能得到证实。另有一点，posh始用于20世纪初，但在19世纪时英语原本就有一个盗贼俚语posh，意思是“钱”和“花花公子”，可能源自吉卜赛语（Romany）。因此，我们如今所用的posh很可能是从旧的posh演变过来的。
 - a. 豪华的, 漂亮的, 优雅的, 极好的
 -  [classy](dic://classy), [swish](dic://swish)
@@ -10344,6 +10405,15 @@ raddle
 	- a. 混乱的, 坏掉的
 	- 来自 raddle,红赭石。比喻用法，用浓妆艳抹来掩盖疲劳。
 
+rag
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
+- n. 碎布, 抹布, 碎片, 碎屑, 少量, 破旧衣服  
+- vt. 责骂, 揶揄, 戏弄  
+- vi. 喧闹
+- a red rag to a bull惹人生气的事。rag是破布，bull是公牛，传说中西班牙斗牛表演中......错！其实据说牛的视觉系统并不能把红色和其它颜色区分开来，惹它愤怒的是布的抖动，而不是布的颜色，换块绿色的布，它一样会狂躁地冲过来。Just mentioning hisex-wife's name was like a red rag to a bull. ​​​​
+- 来自古诺斯语 rogg,破布，粗糙的纺织物，来自 PIE*reue,撕开，粉碎，词源同 ruin,rough,rug.  
+- 词源不详，可能为拟声词。
+
 ramp (romp)
 - 来自古法语 ramper,爬，上升，登山，来自 Proto-Germanic*hrimp,卷起，弯起，收缩，来自PIE*sker,弯，转，缩起，词源同 ring,curve.比喻用法，原用于形容动物蹲立在后脚跟上蓄势待发奔跑的姿势，引申诸相关词义。
 - [incline](dic://incline)
@@ -10387,7 +10457,7 @@ rapscallion (capscallion, scallion)
 - [villain](dic://villain), [scoundrel](dic://scoundrel), [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver)
 - The capscallion of all rapscallions. A scurvy, vermiform scug with a serpentine twinkle in his solitary eye./流氓中的流氓。猥琐下流，蠕虫般不招人待见，一只独眼闪烁着蛇蝎之光。
 
-ratchet
+ratchet  (bouquet, banquet, cachet, crotchet, coquet, ratchet)
 - 来自法语 rochet,线轴，纺锤，词源同 rock,rocket.引申词义棘轮。插入字母 t,比较 bake,batch.
 - n. 棘轮, 棘爪,棘齿 
 - v. (使) 逐渐小幅增长 (~ up) vt. 安装棘轮于；松脱
@@ -10684,6 +10754,23 @@ rife
 - But the war's aftermath was rife with insecurity. /但战后的局势充满了不安全因素。
 - They carry dengue fever, which is rife here at the moment. /它们携带着登革热病毒，目前登革热在这里很流行。
 
+riffle (riffle, ripple, ruffle, cripple, dripple, tipple, crinkle, wrinkle, ruckle, rumple, crumple, )
+- 1 - 可能来自 ruffle 变皱，起皱，词义受 ripple 影响。现主要词义翻动可能来自拟声词，模仿翻东西的声音。
+- n. 浅滩, 急流, 涟漪, 弹洗  
+- vt. 使起涟漪, 迅速翻阅, 弹洗洗牌  
+- vi. 成涟漪, 飞快翻书
+- [ripple](dic://ripple), [rippling](dic://rippling),[wavelet](dic://wavelet)
+- [flick](dic://flick), [ruffle](dic://ruffle)
+-  [flick](dic://flick), [flip](dic://flip), [thumb](dic://thumb), [leaf](dic://leaf), [riff](dic://riff)
+- [ripple](dic://ripple), [ruffle](dic://ruffle), [cockle](dic://cockle), [undulate](dic://undulate)
+- _n._ [wave](dic://wave), [moving ridge](dic://moving ridge), [shuffle](dic://shuffle), [shuffling](dic://shuffling), [make](dic://make)
+- _v._ [move](dic://move), [displace](dic://displace), [peruse](dic://peruse), [flow](dic://flow), [flux](dic://flux), [shuffle](dic://shuffle), [ruffle](dic://ruffle)
+- **rifle**步枪;**pistol**手枪;**creek**小溪;**trout**鳟鱼;**pistols**手枪;**rifles**来福枪;**river**河，江;**wading**涉水的;
+- he riffled through the pages. /他飞快地翻书页。
+- there was a slight breeze that riffled her hair /一丝微风吹乱了她的头发。
+- he riffled through the papers on his desk. /他把桌上的文件翻阅了一遍。
+- She riffled them through and detached about half their number and put these back in the drawer /她把它们翻了个底朝天， 然后拆下大约一半的数量， 然后把它们放回抽屉里。
+
 rig
 - gear (including necessary machinery) for a particular enterprise
 - a truck consisting of a tractor and trailer together
@@ -10718,7 +10805,10 @@ rig
 - **rigorous**严格的，严厉的;**objectivity**客观性,客观现实;**sophistication**老练;**discipline**纪律;**rigidity**硬度，刚性;**originality**独创性;**vigor**活力，精力;**academic**学院的;**honesty**诚实，正直;**complexity**复杂;**rationality**理性;
 
 rip
--  rei- (1)
+- rei- (1)
+
+ripple (riffle, ripple, ruffle, cripple, dripple, tipple, crinkle, wrinkle, ruckle, rumple, crumple, )
+- rei- (1)
 
 rive
 - rei-(1)
@@ -11565,7 +11655,7 @@ scruple (scruple, oscillation , vacillation)
 	- unscrupulousness
 	- unscrupulous 
 		- (imprudence, unscrupulous, )
-		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily)
+		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent)
 		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
 		- _n._ [scrupulous](dic://scrupulous)
 		- **dishonest**不诚实的;**unethical**不道德的;**devious**弯曲的;**greedy**贪婪的;**sleazy**质地薄的;**nefarious**极坏的;**ruthless**无情的，残忍的;**opportunistic**机会主义的;**corrupt**腐败的，贪污的;**scheming**惯耍阴谋的，诡计多端的;**fraudulent**欺骗的,不诚实的
@@ -12820,6 +12910,7 @@ snatch
 - snatcher
 
 snazzy
+- (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 - a. 华丽的, 华丽而俗气的, 时髦的
 - 俚语，可能来自 snappy 和 jazzy 的合成词。
 - _adj._ [stylish](dic://stylish), [fashionable](dic://fashionable)
@@ -14010,7 +14101,7 @@ stymie
 - **thwart**反对;**impede**阻止;**stifle**使窒息;**hinder**成为阻碍;**frustrate**使不成功, 挫败, 阻止;**undermine**在某物下挖洞或挖通道;**curtail**截断, 缩短;**obstruct**阻塞;**derail**使出轨;**circumvent**设法克服或避免;**deter**制止，阻止;
 
 sulky
-- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, saturnine, morose, sour, dour, )
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
 - (mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**moody**喜怒无常的;**irritable**易怒的, 急躁的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**whiny**烦躁的;**angry**生气的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**aloof**冷淡的;**smug**自满的, 沾沾自喜的;
 sullen
@@ -14030,7 +14121,7 @@ sully
 - _[sully secured creditors](dic://sully%20secured%20creditors)_ 担保充分的债权人
 - This has been an election that has been sullied from the very start /这是一场从一开始就被玷污的选举。
 surly
-- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy)
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
 - nclined to anger or bad feelings with overtones of menace
 	- a surly waiter
 - **grumpy**脾气暴躁的;**unfriendly**不友好的;**cranky**暴躁的;**arrogant**自大的，傲慢的;**rude**粗鲁的;**cocky**自大的;**condescending**降低身份的,屈尊的;**belligerent**好战的;**jaded**厌倦的;**obnoxious**可憎的;**chatty**饶舌的;
@@ -14039,12 +14130,13 @@ sullage
 - _[sullage water](dic://sullage%20water)_ 淤泥水; 污水; 吸水阀;
 
 swank
+- (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 - 来自辅音丛 sw-,弯，转，摇摆，摇晃，比较 swing,sway,sweep,swipe.引申比喻义炫耀，卖弄。
 - [chic](dic://chic), [chicness](dic://chicness), [chichi](dic://chichi), [modishness](dic://modishness), [smartness](dic://smartness), [stylishness](dic://stylishness), [last word](dic://last word)
 - [flaunt](dic://flaunt), [flash](dic://flash), [show off](dic://show off), [ostentate](dic://ostentate)
 - [swanky](dic://swanky)
-	- [fashionable](dic://fashionable), [stylish](dic://stylish)
-	- **posh**漂亮的;**upscale**高消费的;**trendy**时髦的，流行的;**glamorous**富有魅力的;**fancy**想像力;**opulent**富裕的;**classy**漂亮的;**penthouse**楼顶房屋;**chic**时髦;**lavish**浪费的;**luxurious**奢侈的;
+- [fashionable](dic://fashionable), [stylish](dic://stylish)
+- **posh**漂亮的;**upscale**高消费的;**trendy**时髦的，流行的;**glamorous**富有魅力的;**fancy**想像力;**opulent**富裕的;**classy**漂亮的;**penthouse**楼顶房屋;**chic**时髦;**lavish**浪费的;**luxurious**奢侈的;
 - _n._ [elegance](dic://elegance)
 - _v._ [expose](dic://expose), [exhibit](dic://exhibit), [display](dic://display)
 - _adj._ [fashionable](dic://fashionable), [stylish](dic://stylish)
@@ -14916,6 +15008,26 @@ troth
 - betrothed
 - betrothal
 	- **marriage**结婚;**marry**娶;**bride**新娘;**courtship**求爱;**marrying**证婚;**wed**结婚;**coronation**加冕礼;**wedding**结婚;**vows**婚誓;**prince**王子，国君;**consecration**奉献;
+
+try
+- 来自古法语 trier,选择，选出，分开，词源不详。可能置换自古法语 tirer,拉出，拔出，来自Proto-Germanic*terana,撕，撕开，来自 PIE*der,撕，撕开，词源同 tear,tier.引申诸相关词义。
+- n. 尝试, 试验, 审理, 审判
+- vt. 试, 尝试, 试验, 考验, 审问, 提炼
+- vi. 尝试, 试图
+- well-tried
+- untried
+- tryout
+- trying
+- try-on
+- trier
+- trial
+	- trial-produce
+	- trial-manufacture
+	- retrial
+	- pretrial
+	- mistrial
+- triable
+- retry
 
 tsar
 - [czar](dic://czar), [tzar](dic://tzar)

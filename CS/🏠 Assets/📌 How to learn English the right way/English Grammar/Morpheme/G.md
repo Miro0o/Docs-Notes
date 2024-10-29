@@ -705,20 +705,21 @@
 		6. segregation
 		7. segregated
 		8. segregant
-	7. egregious (nefarious, defamous) (egregious, stupendous, flagrant)
-		1. e-,向外，-greg,群，集中，词源同 aggregate,gregarious.原义为鹤立鸡群的，极好的，现义贬义化。参照拉丁语 egregium,非凡，伟业。
-		2. _adj._ [conspicuous](dic://conspicuous)
-		3. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
-		4. _[egregious fraud](dic://egregious%20fraud)_ 分的欺诈; 显着欺诈;
-		5. _[egregious error](dic://egregious%20error)_ 绝大的错误
-		6. **blatant**明目张胆的;**heinous**可憎的;**outrageous**骇人的;**appalling**令人震惊的;**atrocious**恶毒的;**disgraceful**可耻的,丢脸的,不光彩的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**glaring**耀眼的;**horrendous**可怕的, 恐怖的;**deplorable**可叹的;
-		7. an egregious mistake /大错
-		8. egregious abuses of copyright. /令人震惊的侵犯版权行为。
-		9. Speaking of research condemned, the treatment of dogs in the Indigo facility as quote egregious. /说到被谴责的研究，靛蓝实验室对待狗的方式是非常恶劣的。
-		10. Levels of executive pay are far less egregious than in America /只对富人们征收的费用又远低于美国。
-		11. The first one here is kind of an egregious example /第一个商品有点过分。
-		12. USA Today reported " egregious failures" by the facility's leadership and staff. /《今日美国》报道了该机构的领导层和工作人员的“严重失误”。
-	8. gregarious
+	7. egregious (nefarious, defamous) 
+		1.  (egregious, stupendous, flagrant, prodigious, tremendous, astounding, considerable, )
+		2. e-,向外，-greg,群，集中，词源同 aggregate,gregarious.原义为鹤立鸡群的，极好的，现义贬义化。参照拉丁语 egregium,非凡，伟业。
+		3. _adj._ [conspicuous](dic://conspicuous)
+		4. _n._ [inconspicuous](dic://inconspicuous), [invisible](dic://invisible)
+		5. _[egregious fraud](dic://egregious%20fraud)_ 分的欺诈; 显着欺诈;
+		6. _[egregious error](dic://egregious%20error)_ 绝大的错误
+		7. **blatant**明目张胆的;**heinous**可憎的;**outrageous**骇人的;**appalling**令人震惊的;**atrocious**恶毒的;**disgraceful**可耻的,丢脸的,不光彩的;**shameful**可耻的;**despicable**可鄙的,卑鄙的;**glaring**耀眼的;**horrendous**可怕的, 恐怖的;**deplorable**可叹的;
+		8. an egregious mistake /大错
+		9. egregious abuses of copyright. /令人震惊的侵犯版权行为。
+		10. Speaking of research condemned, the treatment of dogs in the Indigo facility as quote egregious. /说到被谴责的研究，靛蓝实验室对待狗的方式是非常恶劣的。
+		11. Levels of executive pay are far less egregious than in America /只对富人们征收的费用又远低于美国。
+		12. The first one here is kind of an egregious example /第一个商品有点过分。
+		13. USA Today reported " egregious failures" by the facility's leadership and staff. /《今日美国》报道了该机构的领导层和工作人员的“严重失误”。
+	9. gregarious
 		1. greg-群体 + -arious爱…的 → 爱群体的。
 		2. adj. 爱交际的，合群的；（动物）群居的；（植物）聚生的
 		3. **sociable**好交际的;**chatty**饶舌的;**boisterous**热闹的;**charismatic**有魅力的;**flamboyant**显眼的, 浮夸的, 炫耀的;**exuberant**兴高采烈的;**brash**仓促的，性急的;**personable**英俊的;**laid-back**安详的, 轻松的;**outgoing**乐于助人的;**inquisitive**好问的;
@@ -1262,9 +1263,15 @@
 		11. she was due for a rise. /她该加薪了。
 		12. undue, unduly
 		13. overdue
+			1.  [delinquent](dic://delinquent)
+			2. _adj._ [due](dic://due), [owed](dic://owed)
+			3. _n._ [undue](dic://undue), [not due](dic://not due)
+			4. **long**长时间;**belated**迟来的;**long-awaited**期待已久的;**well-deserved**罪有应得的;**unpaid**未付款的;**hiatus**裂缝，空隙;**hefty**重的;
+			5. _overdue payment_ 逾期未支付款；过期付款
+			6. _overdue fine_ 滞纳金；过期罚金
 		14. duly
 		15. dock-dues
-	5. duty
+	9. duty
 		1. multiduty, mediumduty, lightduty, heavy-duty, generalduty
 		2. duty-paid, duty-free, duty-bound
 		3. dutiable
@@ -1290,7 +1297,7 @@
 			5. Ove, conscientious and dutiful, completed his two-week stint on the railways. /欧维在铁道上工作了两周，勤勤恳恳，兢兢业业。
 			6. Dutiful applause came from the audience, including her parents, Bonnie and Stu Hopps. /人群报以礼节性的鼓掌，包括她的父母——邦妮和斯图·霍普斯。
 			7. Ramon runs the business here, for my parents. He's the dutiful son /Ramon为我父母经营这里的生意. 他是那个孝顺的儿子。
-	6. endeavor, endeavour
+	10. endeavor, endeavour
 		1. **endeavour**尽力,竭力;**effort**成就;**undertaking**任务;**efforts**努力;**venture**敢于;**worthwhile**值得的, 值钱的, 有价值的;**strive**努力;**accomplish**完成;**attempt**企图，试图;**ventures**投机者;**undertake**担任, 承揽;
 		2. [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [activity](dic://activity)
 		3. [try](dic://try), [seek](dic://seek), [attempt](dic://attempt), [essay](dic://essay), [assay](dic://assay)
@@ -1307,7 +1314,7 @@
 			8. _[use all reasonable endeavors to](dic://use%20all%20reasonable%20endeavors%20to)_ 尽适当努力
 		7. Thereupon, we knew, our endeavor was valuable/ 于是，我们知道，我们的努力是有价值的！
 		8. Congress endeavored to lighten the taxpayers' burden. /国会努力减轻纳税人的负担。
-3. **habit-** = dwell, 表示“居住”。源自拉丁语 habere "to hold, posses, have, handle."
+7. **habit-** = dwell, 表示“居住”。源自拉丁语 habere "to hold, posses, have, handle."
 	1. habit
 		1.  来自古法语 habit,衣服，行为，习惯，来自拉丁语 habere,持，握，拥有，来自 PIE*ghabh,持，握，抓住，词源同 give,gift.引申词义居住，养成的习惯，及特指与宗教相关的袍子，道服等。
 		2. n. 习惯, 嗜好, 习性; <古>服装  vt. <古>使穿衣
@@ -1373,7 +1380,7 @@
 	12. habitus
 		1. n. 习惯, 体质
 	13. provender
-13. **hibit-** = hold, 表示“拿住”。源自拉丁语 habere "to hold, posses, have, handle."
+8. **hibit-** = hold, 表示“拿住”。源自拉丁语 habere "to hold, posses, have, handle."
 	1. adhibit
 		1. vt. 贴, 粘, 采用, 引入
 	2. exhibit
@@ -1465,7 +1472,7 @@
 			3. a treaty for the prohibition of nuclear tests /禁止核试验的条约
 			4. Prohibition was abolished in 1933 /禁酒令于1933年废除。
 		11. prohibiter
-14. gavel
+9. gavel
 	1. 词源不详。可能来自旧时参加行业公会需上交一定数额的费用，主持人敲打小槌进行通报，词源同 give.后指拍卖商或法官用的小槌。
 	2. _n._ (拍卖商、会议主席或法官用的)小木槌
 	3. _n._ [mallet](dic://mallet), [beetle](dic://beetle)
@@ -1474,7 +1481,7 @@
 	6. The gavel has a frog’s head as frogs symbolize change in Japanese culture. /在日本文化中青蛙象征着改变，因此这把木槌上有一个青蛙头。
 	7. The gavel came down on two weeks of intense and sometimes emotional negotiations /经过两周紧张，有时甚至是情绪化的谈判，小木槌落下了。
 	8. But as of the recording of this show, the Louisiana Republican lacks the votes needed to win the gavel. /但截至节目录制为止，这位路易斯安那州共和党人尚未获得成功当选所需的票数。
-15. gift
+10. gift
 	1. Beware of Greeks bearing gifts小心突然对你好的敌人。特洛伊战争十年了，希腊人始终攻破不了特洛伊城，足智多谋的Odysseus奥德修斯献计木马藏兵并佯退。喜爱马的特洛伊人将城墙破坏后把木马拉入城内畅饮欢庆胜利，是夜，马肚中的希腊勇士涌出，城灭。 ​​​​
 	2. n. 礼物, 赠予, 天才  vt. 赋予
 	3.  [endowment](dic://endowment), [talent](dic://talent), [natural endowment](dic://natural endowment)
@@ -1495,7 +1502,7 @@
 	9. **keepsake**纪念品;**giver**送礼者;**valentine**情人;**ornament**装饰;**birthday**生日，诞辰;**certificate**证明书, 执照;**blessing**祝福;**Christmas**圣诞节;**souvenir**纪念品;**donation**捐赠;**voucher**代金券;
 	10. have the gift of prophecy /有预言的天赋
 	11. a gifted child; a gifted pianist. /有天赋的孩子；有才华的钢琴家
-16. give
+11. give
 	1. thanksgiving
 	2. self-giving, self-given
 	3. outgiving
@@ -1536,22 +1543,23 @@
 		11. hyperchaos
 		12. chaotic
 	3. chasm
-		1. _n._ [opening](dic://opening), [gap](dic://gap)
-		2. **gap**缺口;**abyss**深渊;**rift**裂口;**gulf**海湾;**gaping**多洞穴的;**gaps**差异，缺口;**bridge**桥;**disparity**不一致;**bridging**桥接;**widening**使变宽;**ravine**峡谷;
-		3. _[a chasm in the manuscript](dic://a%20chasm%20in%20the%20manuscript)_ 原稿的脱落部分
-		4. uraniscochasma
-		5. stenochasmus
-		6. eurychasmus
-		7. chasmy
-		8. chasmus
-		9. chasmogamy
-		10. chasmogamous
-		11. chasmic
+		1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, )
+		2. _n._ [opening](dic://opening), [gap](dic://gap)
+		3. **gap**缺口;**abyss**深渊;**rift**裂口;**gulf**海湾;**gaping**多洞穴的;**gaps**差异，缺口;**bridge**桥;**disparity**不一致;**bridging**桥接;**widening**使变宽;**ravine**峡谷;
+		4. _[a chasm in the manuscript](dic://a%20chasm%20in%20the%20manuscript)_ 原稿的脱落部分
+		5. uraniscochasma
+		6. stenochasmus
+		7. eurychasmus
+		8. chasmy
+		9. chasmus
+		10. chasmogamy
+		11. chasmogamous
+		12. chasmic
 			1. _[chasmic fault](dic://chasmic%20fault)_ 裂陷断裂
 			2. _[chasmic stage](dic://chasmic%20stage)_ 裂陷阶段
-		12. chasmal
+		13. chasmal
 			1. _[chasmal](dic://chasmal)_  adj. 似裂罅的；深陷的
-		13. chasma
+		14. chasma
 2. **hiat-, hisc-**
 	1. dehisce
 		1. dehiscent
@@ -3636,14 +3644,19 @@
 		10. **atheist**无神论者;**atheism**不信神，无神论;**skeptic**怀疑论者;**devout**虔诚的;**believer**者;**dogmatic**教条的;**humanist**人道主义者;**orthodox**正统的;**religious**宗教的;**fundamentalist**信奉正统派基督教的人;**evangelical**福音的;
 		11. agnostic：[æg'nɒstɪk] adj.不可知论的n.不可知论者  
 		12. agnosticism：[æɡ'nɒstɪsɪzəm] n.不可知论
-		13. gnostic
+		13. I didn't know what to believe. I saw no purpose in life. I stopped praying. I became an agnostic /我不知道该相信什么。我看不到生活的目的。我停止了祈祷。我成了不可知论者。
+		14. However, he doesn't attend church, and regards himself as an agnostic. /然而，他不去教堂， 并认为自己是不可知论者。
+		15. I'm not suggesting you should act on your own self-interest, but be on guard, be agnostic /我不是建议你应该根据自己的利益行事， 而是要保持警惕， 保持不可知论。
+		16. gnostic
 			1. _n._ [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent)
 			2. _adj._ [Gnosticism](dic://Gnosticism)
 			3. _n._ [agnostic](dic://agnostic), [agnostical](dic://agnostical)
 			4. **heretical**异教的;**Satanic**邪恶的;**occult**神秘的;**mysticism**神秘主义;**pagan**异教的;**mystic**神秘的;**Syriac**叙利亚语的;**esoteric**秘传的;**Gospels**福音书;**mystical**神秘的;**Hellenistic**希腊风格的;
-	2. cognoscente
-		1. _[cognoscente](dic://cognoscente)_  n. （美术品）鉴别家；行家
-		2. cognoscible
+			5. Wherefore, gentlemen, it is convenient to explore the books of the Hebrews, the hieroglyphics of the Egyptians and those treatises of the Greeks which are called Gnosticprecisely because they possessed knowledge /因此，先生们，探索希伯来人的书籍、埃及人的象形文字和希腊人的那些论文是很方便的， 正是因为他们拥有知识而被称为诺斯替派。
+	1. cognoscente [美 /ˌkonjo'ʃɛntə/](cmd://Speak/_us_/cognoscente)
+		1. (maestro, virtuoso, cognoscente, guru, connoisseur, mavin, ace, adept, champion, sensation, maven, genius, hotshot, star, superstar, whiz, whizz, wizard, wiz)
+		2. _[cognoscente](dic://cognoscente)_  n. （美术品）鉴别家；行家
+		3. cognoscible
 			1. _[cognoscible](dic://cognoscible)_  adj. 可以认识到的；可辨识的
 	3. diagnose
 		1. - dia-,穿过，整个的，-gn,知道，词源同 know,cognizance.用于医学名词。
@@ -3661,7 +3674,7 @@
 		7. diagnosing
 		8. diagnoses
 		9. diagnosable
-	5. ignore
+	4. ignore
 		10. i-不 + gnor-知道 + -e → 不知道 → 不理睬。
 		11. ignoramus（笨蛋）：表示“驳回起诉”的法律术语  
 		12. 单词ignoramus原本是一个拉丁法律术语，由法国人带入英语。中世纪时，如果陪审团认为起诉书的证据不足，不能构成起诉，则在起诉书背面写上ignoramus，该词出自拉丁语动词ignorare（不知道，即英语中的ignore），意思是“我们不知道”。起诉的人拿到上面写有ignoramus的起诉书就知道自己的起诉被驳回了，往往会生气地大骂陪审团是一帮笨蛋。所以ignoramus一词逐渐衍生了“笨蛋”的意思。  
@@ -3672,7 +3685,7 @@
 			4. ignorance：['ɪɡnərəns] n. 无知，愚昧；不知，不懂
 		14. ignorant
 		15. ignorance
-	6. prognoses, prognosis
+	5. prognoses, prognosis
 		1. pro-前 + gnos-知道 + -es
 		2. pro-在前 + gnos-知道 + -osis → 预先知道 → 预测。
 		3. (专业术语)预后, 预测, 预知
@@ -3688,14 +3701,15 @@
 			7. prognosticate
 				1. _v._ [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend), [hazard](dic://hazard), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
 				2. **predict**预报，预言;**prognosis**预测;**prediction**预言;**foresee**预知;**speculate**思索;**anticipate**先于…行动;**dissect**切细;**quantify**量化;**assess**评定;**forecasting**预测;**ponder**仔细考虑;
-	7. cunning (canny)
+	6. cunning (canny)
 		1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, crafty, artful )
-		2. cun-, 词源同can, 知道，了解 + -n- + -ing。此处用作贬义。
-		3. a. 狡猾的; 灵巧的; n. 狡猾
-		4. overcunning
-		5. cunningness
-		6. cunningly
-	9. cognize
+		2. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious)
+		3. cun-, 词源同can, 知道，了解 + -n- + -ing。此处用作贬义。
+		4. a. 狡猾的; 灵巧的; n. 狡猾
+		5. overcunning
+		6. cunningness
+		7. cunningly
+	7. cognize
 		1. co-共同 + gn-知道 + -ize, 表动词
 		2. _[cognize paramedic](dic://cognize%20paramedic)_ 护理人员
 		3. _[cognize connection](dic://cognize%20connection)_ 认知矫正
@@ -3736,7 +3750,7 @@
 				3. derecognitino
 				4. allorecognition
 		14. incognito
-	10. reconnaissance
+	8. reconnaissance
 		1. 来自古法语 reconissance,认出，证实，来自拉丁语 recognoscere,知道，回想，认出，来自 re-,再，重新，con-,表强调，-gn,知道，了解，词源同 know,note.-ss,过去分词格，-ance,名词后缀。拼写比较 renaissance.引申词义侦
 		2. _n._ [intelligence](dic://intelligence), [intelligence activity](dic://intelligence activity), [intelligence operation](dic://intelligence operation)
 		3. **aerial**空气的, 空中的;**airborne**空运的;**amphibious**具有双重性的;**squadron**中队;**scouting**童子军的活动;**infantry**步兵;**unmanned**无人的;**artillery**炮, 大炮;**anti-aircraft**防空用的;**patrol**巡逻;**patrols**巡逻队;
@@ -3747,7 +3761,7 @@
 			5. _[fire scene reconnoiter](dic://fire%20scene%20reconnoiter)_ 火场勘查
 			6. _[reconnoiter information system](dic://reconnoiter%20information%20system)_ 勘探信息系统
 			7. _[reconnoiter design system](dic://reconnoiter%20design%20system)_ 勘察设计
-	11. noble
+	9. noble
 		1. noble（贵族）：平民通过仕途晋升而成的贵族  
 		2. 在古罗马，原本只有patrician（贵族）和plebeian（平民）。所有官职均有贵族担任，平民不能和贵族通婚，无能担任官职。后来，经过长期抗争，平民终于取得了和贵族通婚以及担任官职的权利。平民担任执政官、保民官等高官职位后，就被尊称为nobilis，通过法语进入英语后演变成了noble（贵族），字面意思就是“knowable，著名的、杰出的、高尚的”。  
 		3. noble和patrician都可以世袭，但patrician是封闭的，平民永远也不能变成patrician；而noble是开放性的，平民建功立业后可以被封为noble。 
@@ -3795,7 +3809,7 @@
 			4. [ungentle](dic://ungentle), [untitled](dic://untitled)
 			5. ignobly
 			6. ignobleness
-	12. gnome
+	10. gnome
 		1. n. 格言, 箴言, 侏儒, 土地神
 		2. 可能来自希腊语*genomos, 地下居住者。ge-土地 + -nomos, 居住，词源同nomad. 或词源同gnomic, know, 有见解，有知识的。
 		3.  [dwarf](dic://dwarf)
@@ -3813,9 +3827,9 @@
 			1. a. 侏儒的; 土地神的
 			2. **gnome**格言;**dwarves**矮人;**goblins**小妖;**mage**博学者;**elf**小精灵;**elves**侏儒;**arcane**晦涩难解的;**dwarf**变矮小;**barbarian**野蛮人;**humanoid**像人的;**wizard**男巫;
 		10. gnomical
-	13. geognosy
+	11. geognosy
 		14. _[geognosy](dic://geognosy)_  n. 地球构造学；地质学；岩石
-	14. gnomon
+	12. gnomon
 		1. 晷针
 		2. _n._ [indicator](dic://indicator)
 		3. **meridian**子午线的;**longitude**经度;**compass**指南针，罗盘;**numerals**数词;**octagonal**八边形的;
@@ -3823,10 +3837,10 @@
 		5. gnomonic
 		6. Gnomoniaceae
 		7. Gnomonia
-	15. gnotobiology
-	16. gnotobiote
+	13. gnotobiology
+	14. gnotobiote
 		1. gnotobiotics
-	17. keen
+	15. keen
 		1. [lament](dic://lament)
 		2. [acute](dic://acute), [discriminating](dic://discriminating), [incisive](dic://incisive), [knifelike](dic://knifelike), [penetrating](dic://penetrating), [penetrative](dic://penetrative), [piercing](dic://piercing), [sharp](dic://sharp)
 		3. [exquisite](dic://exquisite)
@@ -4003,26 +4017,47 @@
 		9. notoriousness
 		10. notoriously
 	12. unnoted
-	13. connoisseur, connoisseurship
+	13. connoisseur [美 /ˌkɑːnəˈsɜːr/](cmd://Speak/_us_/connoisseur)
+		1. con-强调 + noiss-知道，了解 + -eur
+		2. 1 - 来自法语。con-,强调，-noiss,知道，了解，词源同 know,note,reconnaissance.
+		3. _n._ [authority](dic://authority)
+		4. **enthusiast**热心人,热衷者;**snob**势利小人，势利眼;**lover**爱人，恋人;**fanatic**狂热入迷者;**junkie**有毒瘾者;**drinker**酒徒;**foodie**美食家;**devotee**爱好者;**collector**收集者, 收取者;**avid**渴望的，贪婪的;**discerning**有识别力的;
+		5. _[connoisseur](dic://connoisseur)_  n. 鉴赏家；内行
+		6. a masterpiece for connoisseurs of quality /供一流鉴赏家欣赏的杰作。
+		7. He is a connoisseur of antique furniture. /他是古家俱鉴定家。
+		8. His bluff exterior belied a connoisseur of antiques. /他作风粗放，令人看不出他是古董鉴赏家。
+		9. I know, Rob. You are a biscuit connoisseur after all /我知道，罗伯。毕竟在饼干方面你是内行。
+		10. connoisseurship
 5. **quaint-** = know, 「Latin」congnitus. "known, approved"
 	1. acquaint
-		1. _v._ [inform](dic://inform)
+		1. ac-使 + quaint-知道 → 使[人们]知道 → 告知。
+		2. ac-,去，往，-quaint,知道，来自拉丁语 cogniscere,知道，来自 co-,加强，-gn,知道，词源同can,know.
+		3. ac-使 + quaint-知道 → 使[人们]知道 → 告知。
+		4.  [introduce](dic://introduce), [present](dic://present)
+		5.  [familiarize](dic://familiarize), [familiarise](dic://familiarise)
+		6. _v._ [inform](dic://inform)
 			1. [inform](dic://inform) 普通用词，指传达事实或信息，或指经过研究或调查而获得的事实或信息。  
 			2. [acquaint](dic://acquaint) 指提供有关信息或情况使某人熟悉某些过程或复杂的情况。  
 			3. [notify](dic://notify) 指正式通知需要注意的事情。  
 			4. [advise](dic://advise) 指正式通知某件重要事，所通知的事情与被通知的人有关。
-		2. **familiarize**使熟悉,使通晓;**inform**通知;**introduce**介绍;**educate**教育;**instruct**命令;**enlighten**启发;**examine**调查;**furnish**供应;**ascertain**弄清, 确定, 查明;**immerse**沉浸;**prepare**准备;
-		3. unacquainted
-		4. preacquaint
-		5. acquaintance, acquaintanceship
-			1. _n._ [information](dic://information), [relationship](dic://relationship), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
-			2. **friend**朋友;**colleague**同事;**acquainted**熟悉的;**co-worker**合作者;**gentleman**绅士;**classmate**同学;**coworker**同事;**admirer**赞赏者;**pal**朋友，伙伴;**girlfriend**女朋友;**familiarity**熟悉，精通;
-			3. _acquaintance with_ 相识
-			4. _acquaintance with someone_ 对某人的相识，熟
-			5. _nodding acquaintance_ 相识不深的人；不完整或肤浅的知识
-			6. _make the acquaintance of_ vt. 和…相识，结识
+		7. **familiarize**使熟悉,使通晓;**inform**通知;**introduce**介绍;**educate**教育;**instruct**命令;**enlighten**启发;**examine**调查;**furnish**供应;**ascertain**弄清, 确定, 查明;**immerse**沉浸;**prepare**准备;
+		8. _acquaint with_ 熟悉；使认识，使了解 
+			1. acquainted myself with the controls. /我熟悉了一下规定
+			2. I am acquainted of the facts. /我了解这些事情。
+			3. I am not acquainted with any young lady of that name. /我不认识叫这名字的任何年轻女士。
+		9. unacquainted
+		10. preacquaint
+		11. acquaintance
+			1. n. 认识, 相识者
+			3. _n._ [information](dic://information), [relationship](dic://relationship), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal)
+			4. **friend**朋友;**colleague**同事;**acquainted**熟悉的;**co-worker**合作者;**gentleman**绅士;**classmate**同学;**coworker**同事;**admirer**赞赏者;**pal**朋友，伙伴;**girlfriend**女朋友;**familiarity**熟悉，精通;
+			5. _acquaintance with_ 相识
+			6. _acquaintance with someone_ 对某人的相识，熟
+			7. _nodding acquaintance_ 相识不深的人；不完整或肤浅的知识
+			8. _make the acquaintance of_ vt. 和…相识，结识
+			2. acquaintanceship
 	3. quaint
-		1. (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
+		1.  (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, quaint, queer, odd, curious, peculiar, strange, singular, crazy, erratic,)
 		2. [old-time](dic://old-time), [olde worlde](dic://olde worlde)
 		3. _adj._ [strange](dic://strange), [unusual](dic://unusual), [peculiar](dic://peculiar), [old-fashioned](dic://old-fashioned)
 		4. _n._ [familiar](dic://familiar), [unfashionable](dic://unfashionable), [unstylish](dic://unstylish)
@@ -4041,10 +4076,14 @@
 		6. quaintly
 6. can
 7. couth
-	1. _adj._ [refined](dic://refined)
-	2. _n._ [unrefined](dic://unrefined)
-	3. **decency**正派;**manners**礼貌;**civility**礼貌;**tact**老练，圆通，得体，乖巧;**politeness**有礼貌;**vulgar**粗俗的;**poise**平衡;**wit**智力;**polite**有礼貌的，客气的;**civilized**文明的,非野蛮的;**crass**粗鲁的;
-8. cunning
+	1. 
+	2. a. 文雅的, 有礼貌的
+	3. couth - uncouth是一个极为古老的词，可追溯至古英语uncūth，原始意义是unknown/unfamiliar（不被人知道的，不熟悉的），由否定前缀un-和couth构成，此义一直使用到17世纪。以后，人性中存在的一种对陌生人和外国人感到厌恶的倾向，使它的词义逐渐引申为“古怪的”、“笨拙的”，最后又进而引申为“粗野的”、“无教养的”。  
+	4. couth一词原义是known/familiar（熟识的，熟悉的），与情态动词can和形容词cunning（狡猾的）本是同源词，早已废弃不用。可是到了20世纪60年代，人们又从用于“粗野的”或“无教养的”一义的uncouth逆构出一个新的couth来，作为uncouth的反义词，一般用作戏谑语，表示“温文尔雅的”、“优雅的”和“有教养的”等义。
+	5. _adj._ [refined](dic://refined)
+	6. _n._ [unrefined](dic://unrefined)
+	7. **decency**正派;**manners**礼貌;**civility**礼貌;**tact**老练，圆通，得体，乖巧;**politeness**有礼貌;**vulgar**粗俗的;**poise**平衡;**wit**智力;**polite**有礼貌的，客气的;**civilized**文明的,非野蛮的;**crass**粗鲁的;
+9. cunning
 	1. [craft](dic://craft), [craftiness](dic://craftiness), [foxiness](dic://foxiness), [guile](dic://guile), [slyness](dic://slyness), [wiliness](dic://wiliness)
 	2. [cute](dic://cute)
 	3.  [crafty](dic://crafty), [dodgy](dic://dodgy), [foxy](dic://foxy), [guileful](dic://guileful), [knavish](dic://knavish), [slick](dic://slick), [sly](dic://sly), [tricksy](dic://tricksy), [tricky](dic://tricky), [wily](dic://wily)
@@ -4053,11 +4092,11 @@
 	6. _adj._ [attractive](dic://attractive), [artful](dic://artful), [adroit](dic://adroit)
 	7. _n._ [unattractive](dic://unattractive), [artless](dic://artless), [maladroit](dic://maladroit)
 	8. **devious**弯曲的;**shrewd**精明的;**clever**聪明的;**sly**狡猾的;**ruthless**无情的，残忍的;**scheming**惯耍阴谋的，诡计多端的;**skillful**熟练的;**sneaky**鬼鬼祟祟的;**ingenious**灵巧的, 善于创造发明的;**resourceful**资源丰富的;**treachery**背信弃义, 不忠, 背叛;
-9. ken
-10. kith
+10. ken
+11. kith
 	1. _kith and kin_ 朋友和亲属
 	2. **kin**亲戚;**kinship**亲属关系，家属关系;**kindred**同类的
-11. know
+12. know
 
 
 
