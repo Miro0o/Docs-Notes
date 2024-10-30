@@ -818,25 +818,31 @@
 		4. _[fatuity sagacity](dic://fatuity%20sagacity)_ 愚笨
 	2. fatuous (gratuitous, fortuitous, fatuous)
 		1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
-		2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+		2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
 		3.  [asinine](dic://asinine), [inane](dic://inane), [mindless](dic://mindless), [vacuous](dic://vacuous)
-		4. _adj._ [foolish](dic://foolish)
-		5. _n._ [wise](dic://wise)
-		6. **inane**愚蠢的;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**idiotic**白痴的;**nonsensical**无意义的;**absurd**荒谬的;**disingenuous**不真诚的;**pompous**浮夸的;**silly**愚蠢的;**nonsense**谬论;**self-serving**自私的,自私自利的;
-		7. _[fatuous love](dic://fatuous%20love)_  愚昧的爱
-		8. _[fatuous muddle-headed](dic://fatuous%20muddle-headed)_ 昏庸的
-		9. _[fatuous footling benighted](dic://fatuous%20footling%20benighted)_ 愚昧的
-		10. _[complacent fatuous self-content self-satisfied](dic://complacent%20fatuous%20self-content%20self-satisfied)_ 自满的
-		11. _[fatuous asinine oafish lunatic](dic://fatuous%20asinine%20oafish%20lunatic)_ 四大傻瓜
-		12. _[a fatuous and self-indulgent ruler](dic://a%20fatuous%20and%20self-indulgent%20ruler)_ 昏君; 昏乱的君王;
+		4. _[fatuous asinine oafish lunatic](dic://fatuous%20asinine%20oafish%20lunatic)_ 四大傻瓜
+		5. _adj._ [foolish](dic://foolish)
+		6. _n._ [wise](dic://wise)
+		7. **inane**愚蠢的;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**idiotic**白痴的;**nonsensical**无意义的;**absurd**荒谬的;**disingenuous**不真诚的;**pompous**浮夸的;**silly**愚蠢的;**nonsense**谬论;**self-serving**自私的,自私自利的;
+		8. _[fatuous love](dic://fatuous%20love)_  愚昧的爱
+		9. _[fatuous muddle-headed](dic://fatuous%20muddle-headed)_ 昏庸的
+		10. _[fatuous footling benighted](dic://fatuous%20footling%20benighted)_ 愚昧的
+		11. _[complacent fatuous self-content self-satisfied](dic://complacent%20fatuous%20self-content%20self-satisfied)_ 自满的
+		12. _[fatuous asinine oafish lunatic](dic://fatuous%20asinine%20oafish%20lunatic)_ 四大傻瓜
+		13. _[a fatuous and self-indulgent ruler](dic://a%20fatuous%20and%20self-indulgent%20ruler)_ 昏君; 昏乱的君王;
 	4. infatuate
-		1. _v._ [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke), [fire](dic://fire), [raise](dic://raise)
-		2. **seduce**引诱;**impress**给…以深刻印象, 使铭记;**flirt**调情;**betray**背叛;**dazzle**耀眼的光;**alluring**迷人的，吸引人的;**entice**诱使;**woo**寻求支持;**amuse**使发笑;**excite**刺激…，使…兴奋;**arouse**引起;
-		3. _[infatuate](dic://infatuate)_  v. 使糊涂，使冲昏头脑；使迷恋; adj. （古）着迷的（同 infatuated）; n. 热恋者，迷恋者；被冲昏头脑的人; 
-		4. _[infatuated](dic://infatuated)_  adj. 入迷的；昏头昏脑的; v. 迷恋；使糊涂（infatuate的过去分词）; 
-		5. _[be infatuated](dic://be%20infatuated)_  入魔; 神魂颠倒; 
-		6. _[be infatuated with](dic://be%20infatuated%20with)_  迷恋
-		7. infatuation, infatuated
+		1. in-进入，使 + fatuous【愚蠢的，傻的】。用于指犯傻的，迷恋的，痴迷的。
+		2. _v._ [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke), [fire](dic://fire), [raise](dic://raise)
+		3. **seduce**引诱;**impress**给…以深刻印象, 使铭记;**flirt**调情;**betray**背叛;**dazzle**耀眼的光;**alluring**迷人的，吸引人的;**entice**诱使;**woo**寻求支持;**amuse**使发笑;**excite**刺激…，使…兴奋;**arouse**引起;
+		4. _[infatuate](dic://infatuate)_  v. 使糊涂，使冲昏头脑；使迷恋; adj. （古）着迷的（同 infatuated）; n. 热恋者，迷恋者；被冲昏头脑的人; 
+		5. _[infatuated](dic://infatuated)_  adj. 入迷的；昏头昏脑的; v. 迷恋；使糊涂（infatuate的过去分词）; 
+		6. _[be infatuated](dic://be%20infatuated)_  入魔; 神魂颠倒; 
+		7. _[be infatuated with](dic://be%20infatuated%20with)_  迷恋
+		8. gradations of feeling from infatuation to deep affection; /从迷恋到挚爱的感情程度上的差别；
+		9. She realized that she felt fear as well as infatuation for this man /她意识到自己对这个男人又害怕又迷恋。
+		10. Are you sure it’s the real thing , not just infatuation? /你确信这是真爱,而不是一时的迷恋吗?
+		11. Others were weirdly psychological and stemmed from the torrid and unlikely infatuation they initially had with each other. /另一些就是奇怪的心理因素，源自他们最初对彼此的狂热和不现实的迷恋。
+		12. infatuation, infatuated
 4. **phas-, phe-, phu-** = speech, 表示“说”。源自希腊语 phanai "to speak."
 	1. phatic
 		1. _[phatic](dic://phatic)_  adj. 交流感情的；应酬的；仅仅是交际性的
@@ -853,9 +859,10 @@
 		1. prophet
 		2. prophetical
 		3. prophetic
-			1. _adj._ [adumbrative](dic://adumbrative), [foreshadowing](dic://foreshadowing), [prefigurative](dic://prefigurative), [apocalyptic](dic://apocalyptic), [apocalyptical](dic://apocalyptical), [revelatory](dic://revelatory), [clairvoyant](dic://clairvoyant)
-			2. _n._ [unprophetic](dic://unprophetic)
-			3. **prophecy**预言;**prophet**先知;**apocalyptic**预示灾祸的;**prophets**先知;**scriptural**手稿的,圣经的,依据圣经的;**visionary**幻想的;**visions**视力;**scripture**经文;**Biblical**圣经的;**apostolic**使徒的;**revelation**显露, 泄露, 透露, 揭露;
+			1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
+			2. _adj._ [adumbrative](dic://adumbrative), [foreshadowing](dic://foreshadowing), [prefigurative](dic://prefigurative), [apocalyptic](dic://apocalyptic), [apocalyptical](dic://apocalyptical), [revelatory](dic://revelatory), [clairvoyant](dic://clairvoyant)
+			3. _n._ [unprophetic](dic://unprophetic)
+			4. **prophecy**预言;**prophet**先知;**apocalyptic**预示灾祸的;**prophets**先知;**scriptural**手稿的,圣经的,依据圣经的;**visionary**幻想的;**visions**视力;**scripture**经文;**Biblical**圣经的;**apostolic**使徒的;**revelation**显露, 泄露, 透露, 揭露;
 5. **phem-** = speech, 表示“讲话”。源自希腊语 pheme "saying, speech."
 	1. blaspheme (blemish, calumny, asperse, smear, chastise, castigate, defame, swaer, blaspheme)
 		1.  [curse](dic://curse), [cuss](dic://cuss), [swear](dic://swear), [imprecate](dic://imprecate)
@@ -1338,18 +1345,19 @@
 		1. vt. 用棍棒打；抨击
 		2. fustigation
 			1. n. 用棍棒殴打,抨击
-	5. fusty (fusty, musty, dusty, feisty, fussy) (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
-		1. 来自古法语 fuste,瓶塞，酒塞，来自拉丁语 fustis,短棍，木棍，其原义为瓶塞味的。后来引申词义霉臭的，守旧的。比较 corked.
-		2. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
-		3. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
-		4. [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [conservative](dic://conservative)
-		5.  [musty](dic://musty), [frowsty](dic://frowsty)
-		6. But a closer listen reveals a conservative streak that would do fusty financial planners proud. /但仔细听一听，你会发现他有一种保守的性格，会让老气的理财规划师感到自豪。
-		7. It was a very small stuffy fusty room, with boards, and rafters, and cobwebs, and lath and plaster /这是一个非常小的闷热发霉的房间，有木板、椽子、蜘蛛网、板条和灰泥。
-		8. I considered those naysayers jaded has-beens, fusty old-timers pining away for the nonexistent " days of the giants" . /我认为那些反对者厌倦了， 挑剔的老前辈渴望不存在的“巨人时代” 。
-		9. So many meetings have been conducted via Zoom and other apps that bosses may decide that this is a better approach than gathering everyone together in one fusty room. /许多会议都是通过Zoom和其他应用程序进行的，老板们可能会认为这比把所有人都聚集在一个破旧房间里更好
-		10. fustiness
-		11. fusty musty 霉臭的
+	5. fusty (fusty, musty, dusty, feisty, fussy) 
+		1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
+		2. 来自古法语 fuste,瓶塞，酒塞，来自拉丁语 fustis,短棍，木棍，其原义为瓶塞味的。后来引申词义霉臭的，守旧的。比较 corked.
+		3. [standpat(a)](dic://standpat(a)), [unprogressive](dic://unprogressive), [nonprogressive](dic://nonprogressive)
+		4. **stuffy**闷热的;**antiquated**陈旧的;**old-fashioned**老式的;**archaic**古代的;**smelly**有臭味的，发臭的;**venerable**值得尊敬的;**dusty**落满灰尘的;**pompous**浮夸的;**pretentious**自命不凡的;**drab**单调的;**dreary**沉闷的，枯燥的;
+		5. [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky), [conservative](dic://conservative)
+		6.  [musty](dic://musty), [frowsty](dic://frowsty)
+		7. But a closer listen reveals a conservative streak that would do fusty financial planners proud. /但仔细听一听，你会发现他有一种保守的性格，会让老气的理财规划师感到自豪。
+		8. It was a very small stuffy fusty room, with boards, and rafters, and cobwebs, and lath and plaster /这是一个非常小的闷热发霉的房间，有木板、椽子、蜘蛛网、板条和灰泥。
+		9. I considered those naysayers jaded has-beens, fusty old-timers pining away for the nonexistent " days of the giants" . /我认为那些反对者厌倦了， 挑剔的老前辈渴望不存在的“巨人时代” 。
+		10. So many meetings have been conducted via Zoom and other apps that bosses may decide that this is a better approach than gathering everyone together in one fusty room. /许多会议都是通过Zoom和其他应用程序进行的，老板们可能会认为这比把所有人都聚集在一个破旧房间里更好
+		11. fustiness
+		12. fusty musty 霉臭的
 	7. fustin
 4. **fut-** = beat, “打，击”
 	1. confute, confutation
@@ -3633,11 +3641,12 @@
 		9. the acquisition of a fortune is the study of all. /获得财富是所有人的努力目标。
 		10. fortuitism
 		11. fortuitist
-		12. fortuitous
-			1. _adj._ [unintended](dic://unintended), [fortunate](dic://fortunate)
-			2. _n._ [intended](dic://intended), [unfortunate](dic://unfortunate)
-			3. **coincidental**巧合的;**coincidence**巧合，同时发生;**unfortunate**不幸的;**improbable**不可信的;**unexpected**没有料想到的, 意外的, 突如其来的;**unforeseen**未预见到的, 意料之外的;**momentous**重大的, 严重的;**accidental**意外的;**circumstance**环境;**unplanned**无计划的;**fortunate**交好运的, 带来好运的;
-		13. fortuity
+		12. fortuitous 
+			1.  (gratuitous, fortuitous, iniquitous, circuitous, ubiquitous)
+			2. _adj._ [unintended](dic://unintended), [fortunate](dic://fortunate)
+			3. _n._ [intended](dic://intended), [unfortunate](dic://unfortunate)
+			4. **coincidental**巧合的;**coincidence**巧合，同时发生;**unfortunate**不幸的;**improbable**不可信的;**unexpected**没有料想到的, 意外的, 突如其来的;**unforeseen**未预见到的, 意料之外的;**momentous**重大的, 严重的;**accidental**意外的;**circumstance**环境;**unplanned**无计划的;**fortunate**交好运的, 带来好运的;
+		14. fortuity
 	4. fortutous
 5. **furt-** = to steal, 「latin」fur, "thief"
 	1. furtive (figurative, fugitive) (covert, clandestine, sneaky, devious, furtive, surreptitious)
@@ -3998,7 +4007,7 @@
 		3. _n._ [socialistic](dic://socialistic), [socialist](dic://socialist), [upper-class](dic://upper-class), [lower-class](dic://lower-class), [low-class](dic://low-class)
 		4. **bourgeoisie**资产阶级;**aristocratic**贵族的;**aristocracy**贵族;**capitalist**资本家;**working-class**工人阶级的;**middle-class**中产阶级的;**socialist**社会主义者;**peasant**农民;**peasants**农民,民工;**Marxist**马克思主义者;**Parisian**巴黎人的;
 	11. harbinger
-		1.  (prescient, portend, presage, prefigure, foretell, prophetic, anticipate, bode, herald, foresee, harbinger)
+		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
 		2.  通告者, 预告者, 先驱, 预兆  vt. 预告, 充做...的前驱
 		3. har-军队，队伍，-binger,住宿，庇护所，词源同burg. 原义为先头部队，为大部队准备安营扎寨，后引申词义传令官，使者，以及预兆，兆头。
 		4. _n._ [indication](dic://indication), [indicant](dic://indicant)
@@ -4332,16 +4341,17 @@
 		9. The woodcutter’s abode is a house in the forest. /这伐木者的住处是森林中的一间房。
 		10. That was the name, style, and abode of my morning visitor. /这就是这位客人的姓名、身份和地址。
 	4. bode
-		10. [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
-		11. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
-		12. **well**满意地;**foresee**预知;**seem**似乎;**does**做;**affect**影响;**disappoint**使失望;**materialize**具体化;**indeed**真正地;**expect**预期;**might**可能;**not**不;
-		13. _bode well_ 主吉
-		14. ill-boding
-		15. forebode, foreboding
-		16. boding
-		17. bodement
-		18. bodeful
-	5. forbid
+		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
+		2. [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+		3. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+		4. **well**满意地;**foresee**预知;**seem**似乎;**does**做;**affect**影响;**disappoint**使失望;**materialize**具体化;**indeed**真正地;**expect**预期;**might**可能;**not**不;
+		5. _bode well_ 主吉
+		6. ill-boding
+		7. forebode, foreboding
+		8. boding
+		9. bodement
+		10. bodeful
+	6. forbid
 		1. for-否定，相反 + bid【命令】。即命令不许做某事的，禁止做某事的。
 		2. [prohibit](dic://prohibit), [interdict](dic://interdict), [proscribe](dic://proscribe), [veto](dic://veto), [disallow](dic://disallow)
 		3.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude)

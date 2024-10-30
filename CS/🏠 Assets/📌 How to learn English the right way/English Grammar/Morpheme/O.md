@@ -64,7 +64,8 @@
 	2. _n._ [unskilled person](dic://unskilled person)
 	3. **novice**初学者，新手;**newbie**网络新手;**inexperienced**经验不足的,不熟练的;**newcomer**新来者;**youngster**年轻人;**novices**新手，初学者;**beginner**初学者;**wannabe**想达到目标的人;**lad**少年，小伙子;**prodigy**奇迹，奇事;**seasoned**经验丰富的;
 15. virtuoso
-	1. n. 艺术品鉴赏家
+	1. (maestro, virtuoso, cognoscente, guru, connoisseur, mavin, ace, adept, champion, sensation, maven, genius, hotshot, star, superstar, whiz, whizz, wizard, wiz)
+	2. n. 艺术品鉴赏家
 	1. [ace](dic://ace), [adept](dic://adept), [champion](dic://champion), [sensation](dic://sensation), [maven](dic://maven), [mavin](dic://mavin), [genius](dic://genius), [hotshot](dic://hotshot), [star](dic://star), [superstar](dic://superstar), [whiz](dic://whiz), [whizz](dic://whizz), [wizard](dic://wizard), [wiz](dic://wiz)
 	2. [consummate](dic://consummate), [masterful](dic://masterful), [masterly](dic://masterly)
 	3. _n._ [expert](dic://expert), [musician](dic://musician)
@@ -175,10 +176,13 @@
 		4. odiousness
 		5. odiously
 	3. odium
-		1. [abhorrence](dic://abhorrence), [abomination](dic://abomination), [detestation](dic://detestation), [execration](dic://execration), [loathing](dic://loathing)
-		2. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [hate](dic://hate), [hatred](dic://hatred), [disgust](dic://disgust)
-		3. **enmity**敌意;**scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**wrath**愤怒;**reproach**责备;**ire**忿怒;**malice**怨恨;**hostility**敌意;**hatred**憎恨;**resentment**愤恨,不满,怨恨;
-	4. annoy
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		2. [abhorrence](dic://abhorrence), [abomination](dic://abomination), [detestation](dic://detestation), [execration](dic://execration), [loathing](dic://loathing)
+		3. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [hate](dic://hate), [hatred](dic://hatred), [disgust](dic://disgust)
+		4. **enmity**敌意;**scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**wrath**愤怒;**reproach**责备;**ire**忿怒;**malice**怨恨;**hostility**敌意;**hatred**憎恨;**resentment**愤恨,不满,怨恨;
+	5. annoy
 		1. noisome
 			1.  [nauseating](dic://nauseating), [nauseous](dic://nauseous), [queasy](dic://queasy), [loathsome](dic://loathsome), [offensive](dic://offensive), [sickening](dic://sickening), [vile](dic://vile)
 			2.  [fetid](dic://fetid), [foetid](dic://foetid), [foul](dic://foul), [foul-smelling](dic://foul-smelling), [funky](dic://funky), [smelly](dic://smelly), [stinking](dic://stinking), [ill-scented](dic://ill-scented)
@@ -196,8 +200,11 @@
 1. odious
 	1. a. 可憎的, 可厌的, 丑恶的
 2. odium
-	1. n. 憎恶, 讨厌, 臭名
-	2. 来自拉丁语 odi,憎恶，厌恶，来自 PIE*od,厌恶，憎恶，词源同 annoy,noisome.可能来自 PIE*od,气味，臭味，词源同 odor.
+	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+	4. n. 憎恶, 讨厌, 臭名
+	5. 来自拉丁语 odi,憎恶，厌恶，来自 PIE*od,厌恶，憎恶，词源同 annoy,noisome.可能来自 PIE*od,气味，臭味，词源同 odor.
 4. annoy
 	1. annoy - 在16至17世纪时annoy本是个军事用语，有“骚扰”、“破坏”等义，例如annoy a town，annoy the coast。其词源可以一直追溯到拉丁短语in odiō 'in hatred'，但却是从法语anoier 'to weary, vex'演变而来，今多释义为“使烦恼”或“使恼怒”。法语借用词ennui（厌倦，无聊）和常用词noisome（讨厌的，令人不快的）也都出于此源，后者原先拼作annoysome。
 	2. noisome
@@ -315,33 +322,34 @@
 		2. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**Foucault**傅科;**utopian**空想的;**prison**监狱;**dystopian**反面乌托邦的,反面假想国的;
 		3. _[panopticon](dic://panopticon)_  n. 圆形监狱
 	16. synoptic
-		1. _adj._ [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract), [precis](dic://precis), [same](dic://same)
-		2. _n._ [different](dic://different)
-		3. **meteorological**气象的;**Gospels**福音书;**precipitation**仓促;**forecasting**预测;**rainfall**降雨;**climatic**气候的;**atmospheric**大气的;**topographic**地质的;
-		4. synopses
-		5. synopsis
+		1. (compendium, precis, brief, synoptic, digest, abstract, conspectus, gist, summary, )
+		2. _adj._ [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract), [precis](dic://precis), [same](dic://same)
+		3. _n._ [different](dic://different)
+		4. **meteorological**气象的;**Gospels**福音书;**precipitation**仓促;**forecasting**预测;**rainfall**降雨;**climatic**气候的;**atmospheric**大气的;**topographic**地质的;
+		5. synopses
+		6. synopsis
 			1. _n._ [summary](dic://summary), [sum-up](dic://sum-up)
 			2. [outline](dic://outline), [abstract](dic://abstract), [precis](dic://precis)
 			3. **summary**扼要的;**blurb**简介, 推荐广告;**excerpt**摘录，引用;**description**描述;**overview**概观;**plot**阴谋;**excerpts**摘由，节选;**movie**电影;**gist**主旨，要点;**recap**翻新的轮胎;**story**故
-		6. synopsize
+		7. synopsize
 			1. _[synopsize](dic://synopsize)_  vt. 写…的梗概；作…的提要
-		7. synoptical
+		8. synoptical
 			1. _[synoptical](dic://synoptical)_  adj. 概略的；天气的
 			2. _[synoptical reading](dic://synoptical%20reading)_ 主题阅读
 			3. _adj._ [same](dic://same)
 			4. _n._ [different](dic://different)
 			5. **assemblage**聚集;**textual**本文的;**meteorological**气象的;**supplementary**增补的;**taxonomic**分类学的;
-	17. xanthopsia
+	18. xanthopsia
 		1. _[xanthopsia](dic://xanthopsia)_  n. [医] 黄视症，[眼科] 视物显黄症
-	18. amblyopia
-	19. antelop
-	20. cyclop
-	21. deuteranopia
-	22. diplopia
+	19. amblyopia
+	20. antelop
+	21. cyclop
+	22. deuteranopia
+	23. diplopia
 		1. 1. isual impairment in which an object is seen as two objects diplopia often disappears when one eye is covered
 		2. _n._ [visual impairment](dic://visual impairment), [visual defect](dic://visual defect), [vision defect](dic://vision defect), [visual disorder](dic://visual disorder)
 		3. **dizziness**头昏眼花;**ocular**眼睛的;**numbness**麻木;**glaucoma**青光眼;**blindness**失明;**edema**瘤腺体;**acuity**尖锐;**paralysis**瘫痪;**migraine**偏头痛;**nausea**恶心，晕船;**headache**头痛;
-	23. etc..
+	24. etc..
 4. daisy
 	1. _n._ [flower](dic://flower)
 	2. **flower**花;**lily**百合花，百合;**sunflower**向日葵;**clover**苜蓿;**petal**花瓣;**cactus**仙人掌;**petals**花瓣;**chain**链;**lilac**淡紫色;**floral**用花制作的;**butterfly**蝴蝶;
@@ -800,24 +808,25 @@
 		2. _[exorable](dic://exorable)_  adj. 可说服的；可用恳求打动的
 		3. inexorability
 		4. inexorable
-			1. _adj._ 无情的;不屈的
-			2. 不能变更的;不可阻挡的
-			3. [grim](dic://grim), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
-			4.  [adamant](dic://adamant), [adamantine](dic://adamantine), [intransigent](dic://intransigent)
-			5. _adj._ [implacable](dic://implacable), [inflexible](dic://inflexible)
-			6. _n._ [placable](dic://placable), [flexible](dic://flexible)
-			7. **relentless**残酷的, 不留情的, 无怜悯心的;**inescapable**不可避免的, 逃避不了的;**unrelenting**不屈不挠的;**inevitable**不可避免的, 必然发生的;**unending**不断的，无止境的;**gradual**逐渐的;**unstoppable**无法停止的;**ever-increasing**不断增长的;**never-ending**不停的,无限的;**seeming**外观;**insidious**隐伏的;
-			8. _[inexorable doom](dic://inexorable%20doom)_  劫数
-			9. _[inexorable trend](dic://inexorable%20trend)_  必然趋势
-			10. _[history inexorable trend](dic://history%20inexorable%20trend)_ 历史的必然趋势
-			11. _[the inexorable trend](dic://the%20inexorable%20trend)_ 经济发展的必然
-			12. _[Green inexorable doom](dic://Green%20inexorable%20doom)_ 绿色劫难
-			13. the inexorable march of time /不可阻挡的时间推移
-			14. the seemingly inexorable march of new technology. /新技术似乎不可阻挡的发展。
-			15. trying to prevent the inexorable slide into war /试图阻止滑向战争的无法阻挡的趋势
-			16. The West is not on an inexorable slide towards irrelevance. Far from it. /西方并非不可逆转地走向无关紧要。远非如此。
-			17. And so it went, the inexorable elimination of the superfluous /他们这才狠下心来把多余的物件清除。
-			18. What happened to the supposedly inexorable march of the machines? /那么曾经被认为势不可挡的机器人发展到底出了什么问题呢？
+			1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+			2. _adj._ 无情的;不屈的
+			3. 不能变更的;不可阻挡的
+			4. [grim](dic://grim), [relentless](dic://relentless), [stern](dic://stern), [unappeasable](dic://unappeasable), [unforgiving](dic://unforgiving), [unrelenting](dic://unrelenting)
+			5.  [adamant](dic://adamant), [adamantine](dic://adamantine), [intransigent](dic://intransigent)
+			6. _adj._ [implacable](dic://implacable), [inflexible](dic://inflexible)
+			7. _n._ [placable](dic://placable), [flexible](dic://flexible)
+			8. **relentless**残酷的, 不留情的, 无怜悯心的;**inescapable**不可避免的, 逃避不了的;**unrelenting**不屈不挠的;**inevitable**不可避免的, 必然发生的;**unending**不断的，无止境的;**gradual**逐渐的;**unstoppable**无法停止的;**ever-increasing**不断增长的;**never-ending**不停的,无限的;**seeming**外观;**insidious**隐伏的;
+			9. _[inexorable doom](dic://inexorable%20doom)_  劫数
+			10. _[inexorable trend](dic://inexorable%20trend)_  必然趋势
+			11. _[history inexorable trend](dic://history%20inexorable%20trend)_ 历史的必然趋势
+			12. _[the inexorable trend](dic://the%20inexorable%20trend)_ 经济发展的必然
+			13. _[Green inexorable doom](dic://Green%20inexorable%20doom)_ 绿色劫难
+			14. the inexorable march of time /不可阻挡的时间推移
+			15. the seemingly inexorable march of new technology. /新技术似乎不可阻挡的发展。
+			16. trying to prevent the inexorable slide into war /试图阻止滑向战争的无法阻挡的趋势
+			17. The West is not on an inexorable slide towards irrelevance. Far from it. /西方并非不可逆转地走向无关紧要。远非如此。
+			18. And so it went, the inexorable elimination of the superfluous /他们这才狠下心来把多余的物件清除。
+			19. What happened to the supposedly inexorable march of the machines? /那么曾经被认为势不可挡的机器人发展到底出了什么问题呢？
 		6. inexorably
 	4. oracle
 		1. oracle（神谕）：古希腊人求神谕的习俗  
@@ -905,7 +914,7 @@
 		3.  来自拉丁语 ore rotundo,圆嘴，来自 ore,嘴，词源同 oral,rotundo,圆的，词源同 round,rotate.引申词义嗓音洪亮的。
 		4. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [tumid](dic://tumid), [turgid](dic://turgid)
 		5. [rotund](dic://rotund), [round](dic://round), [pear-shaped](dic://pear-shaped)
-	7. oscine
+	7. oscine (asinine, oscine)
 		1. a. 鸣禽类的  n. 鸣禽
 		2. [oscine bird](dic://oscine bird)
 		3. **avian**鸟类的;**birds**鸟类;**mammals**哺乳类;
@@ -934,38 +943,38 @@
 2. **oscill-** = to swing, 表示“摇摆”。源自拉丁语 oscillum，字面含义“小嘴”。古罗马的农民习惯在葡萄园里挂一张画着酒神 Bacchus 巴克斯的面具，让它在微风中摇来晃去，祈福葡萄丰收。源自表示嘴的词根“os-”。源自拉丁语 os "mouth, face, orifice"
 	1. oscillate
 		1. (oscillation, vasillation, scrupulous,  hesitate, apprehension, misgiving)
-		2. vi. 振动, 彷徨, 犹豫  vt. 使振动, 使动摇
-		3. os-嘴 + -cill小词 + -ate, 表动词，原指在葡萄园入口处挂上的酒神Bacchus的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，引申词义波动，使摇摆。
-		4.  来自拉丁语 os,嘴，词源同 oral,-cill,小词后缀。原指在葡萄园入口处挂上的酒神 Bacchus 的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，最终词义俗化，引申词义波动，使摇摆。
-		5. _v._ [hesitate](dic://hesitate), [waver](dic://waver), [waffle](dic://waffle), [swing](dic://swing), [sway](dic://sway)
-		6. **vibrate**振动;**fluctuate**波动;**rotate**旋转;**oscillator**摆动物;**radiate**传播;**converge**集中于一点;**modulate**调节;**wobble**摇晃;**alternately**轮流地, 交替地;**drift**漂流，漂移;**emit**发出，放射;
-		7. _[oscillating fan](dic://oscillating%20fan)_  摆头电扇
-		8. _[oscillating block](dic://oscillating%20block)_  [机] 摆杆
-		9. _[oscillating field](dic://oscillating%20field)_  振荡场
-		10. _[oscillating bar](dic://oscillating%20bar)_  摆杆，摇动杆；摇动筛条
-		11. _[oscillating system](dic://oscillating%20system)_  [物] 振荡系统
-		12. _[oscillating reactions](dic://oscillating%20reactions)_  振荡反应
-		13. _[oscillating damper](dic://oscillating%20damper)_  减振器
-		14. _[oscillating machinery](dic://oscillating%20machinery)_  振动机械
-		15. _[oscillating arm](dic://oscillating%20arm)_  摇臂；摆臂
-		16. Both are oscillating or wiggling in different directions /两者都在向不同的方向摆动。
-		17. A high-capacity battery, and the storage it provides, will be most useful when prices oscillate between extremes. /当价格在两极之间波动时，大容量电池及其提供的电力储存技术将最为有用。
-		18. Once again he began oscillating wildly in his attitude toward Sculley. /他对于斯卡利的态度又开始疯狂地摇摆。
-		19. Radio waves, on the other hand, oscillate at around 50 million to 1 billion times per second. /而无线电波则每秒震动约5000万至10亿次。
-		20. oscilloscope
+		3. vi. 振动, 彷徨, 犹豫  vt. 使振动, 使动摇
+		4. os-嘴 + -cill小词 + -ate, 表动词，原指在葡萄园入口处挂上的酒神Bacchus的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，引申词义波动，使摇摆。
+		5.  来自拉丁语 os,嘴，词源同 oral,-cill,小词后缀。原指在葡萄园入口处挂上的酒神 Bacchus 的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，最终词义俗化，引申词义波动，使摇摆。
+		6. _v._ [hesitate](dic://hesitate), [waver](dic://waver), [waffle](dic://waffle), [swing](dic://swing), [sway](dic://sway)
+		7. **vibrate**振动;**fluctuate**波动;**rotate**旋转;**oscillator**摆动物;**radiate**传播;**converge**集中于一点;**modulate**调节;**wobble**摇晃;**alternately**轮流地, 交替地;**drift**漂流，漂移;**emit**发出，放射;
+		8. _[oscillating fan](dic://oscillating%20fan)_  摆头电扇
+		9. _[oscillating block](dic://oscillating%20block)_  [机] 摆杆
+		10. _[oscillating field](dic://oscillating%20field)_  振荡场
+		11. _[oscillating bar](dic://oscillating%20bar)_  摆杆，摇动杆；摇动筛条
+		12. _[oscillating system](dic://oscillating%20system)_  [物] 振荡系统
+		13. _[oscillating reactions](dic://oscillating%20reactions)_  振荡反应
+		14. _[oscillating damper](dic://oscillating%20damper)_  减振器
+		15. _[oscillating machinery](dic://oscillating%20machinery)_  振动机械
+		16. _[oscillating arm](dic://oscillating%20arm)_  摇臂；摆臂
+		17. Both are oscillating or wiggling in different directions /两者都在向不同的方向摆动。
+		18. A high-capacity battery, and the storage it provides, will be most useful when prices oscillate between extremes. /当价格在两极之间波动时，大容量电池及其提供的电力储存技术将最为有用。
+		19. Once again he began oscillating wildly in his attitude toward Sculley. /他对于斯卡利的态度又开始疯狂地摇摆。
+		20. Radio waves, on the other hand, oscillate at around 50 million to 1 billion times per second. /而无线电波则每秒震动约5000万至10亿次。
+		21. oscilloscope
 			1. oscilloscopy
-		21. oscillatory
+		22. oscillatory
 			1. _adj._ [periodic](dic://periodic), [periodical](dic://periodical)
 			2. _n._ [aperiodic](dic://aperiodic), [nonperiodic](dic://nonperiodic)
 			3. **oscillation**振动;**amplitude**广阔;**nonlinear**非线性的;**excitation**刺激;**dynamical**动力的,有力量的;**oscillator**摆动物;**stochastic**随机的;**axial**轴的;**harmonic**和声的;**cyclic**环的;**high-frequency**高周波的;
 			4. slow discharge of a condenser is fundamental to oscillatory circuits. /电容器的缓慢放电对振荡电路是很重要的。
-		22. oscillator
+		23. oscillator
 			1. etc...
-		23. oscillation
+		24. oscillation
 			1. (oscillation, vasillation, scrupulous,  hesitate, apprehension, misgiving)
 			2. self-oscillation
 			3. autooscillation
-		24. oscillating, non-oscillating
+		25. oscillating, non-oscillating
 	3. osciducer
 	4. oscillector
 	5. oscillight

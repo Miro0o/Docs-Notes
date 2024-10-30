@@ -3517,6 +3517,7 @@ feist
 
 fetter
 -   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
 -  来自古英语 fetor,链子，特指脚链，词源同 foot.
 -  [hobble](dic://hobble)
 -  [shackle](dic://shackle)
@@ -6291,7 +6292,8 @@ hide
 	- the whole hideous story. /骇人听闻的全部真相。
 	- the school was a hideous cuboid erection of brick and glass /学校是砖和玻璃垒起的丑陋的立方形建筑。
 	- I'm sorry. It's just this outfit is hideous. /对不起。只是这些服装太丑了。
-- hidebound (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
+- hidebound 
+	- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
 	- hide【兽皮】 + bound【绑】。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- hide,兽皮，bound,绑着，束缚。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- a. 思想偏狭顽固的, 死板的, 量小的
@@ -8194,8 +8196,8 @@ lucre
 	- **profitable**有利可图的;**coveted**梦寐以求的;**sought-after**很吃香的;**risky**危险的;**successful**成功的;**enticing**迷人的;**promising**有希望的, 有前途的;**marketable**可卖的;**high-profile**高姿态的;**ventures**投机者;**windfall**被风吹落的果子;
 	- [profitable](dic://profitable)
 
-lull
-- (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, respite)
+lul
+- (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate)
 - **flurry**一阵疾风;**slump**下降，衰落;**momentary**瞬间的;**interlude**中间;**respite**暂缓;**slumber**睡眠;**complacency**自满;**pause**暂停;**protracted**<书>延长的;**surge**汹涌;**prolonged**持续很久的,长时间的;
 - [pause](dic://pause), [intermission](dic://intermission), [break](dic://break), [interruption](dic://interruption), [suspension](dic://suspension), [calmness](dic://calmness)
 - [calm](dic://calm), [calm down](dic://calm down), [quiet](dic://quiet), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise), [quieten](dic://quieten)
@@ -11876,7 +11878,7 @@ shadow
 	- shadowboxing
 - overshadow
 - foreshadow
-	- (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow)
+	-  (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse)
 	- vt. 预示；成为……的前兆 
 	- n. 预兆
 	- _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
@@ -14896,7 +14898,7 @@ tower
 
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
-- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
 - [restrict](dic://restrict), [restrain](dic://restrain), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)

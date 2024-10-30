@@ -1450,12 +1450,18 @@
 		7. advisable
 	9. visage
 		1. envisage
-			1.  [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate)
-			2. _v._ [create by mental act](dic://create by mental act), [create mentally](dic://create mentally)
-			3. **envision**预想;**foresee**预知;**imagine**想像;**realise**认识到，明白;**conceivably**令人信服地;**contemplate**深思, 细想, 仔细考虑;**entail**必需，使承担;**anticipate**先于…行动;**recognise**<英>承认;**propose**建议;**could**能够;
-			4. envisage an bright future /设想一个光明的未来
-			5. programs envisaged by the Government /由政府拟议中的计划
+			1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
+			2.  [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate)
+			3. _v._ [create by mental act](dic://create by mental act), [create mentally](dic://create mentally)
+			4. **envision**预想;**foresee**预知;**imagine**想像;**realise**认识到，明白;**conceivably**令人信服地;**contemplate**深思, 细想, 仔细考虑;**entail**必需，使承担;**anticipate**先于…行动;**recognise**<英>承认;**propose**建议;**could**能够;
+			5. envisage an bright future /设想一个光明的未来
+			6. programs envisaged by the Government /由政府拟议中的计划
 	10. clairvoyance, clairvoyant
+		1.  [precognitive](dic://precognitive), [second-sighted](dic://second-sighted)
+		2. _n._ [psychic](dic://psychic)
+		3. _adj._ [extrasensory](dic://extrasensory), [paranormal](dic://paranormal), [prophetic](dic://prophetic), [prophetical](dic://prophetical)
+		4. _n._ [sensory](dic://sensory), [sensorial](dic://sensorial), [unprophetic](dic://unprophetic)
+		5. **psychic**精神的;**mystic**神秘的;**tarot**塔罗纸牌;**astrologer**占星家;**magician**魔术师，变戏法的人;**intuition**直觉;**prophetic**预言的,先知的;**mystical**神秘的;**healer**医治者;**perceptive**敏感的;**uncanny**可怕的;
 	11. guide
 		1. misguide
 			1. **mislead**误导;**deceive**欺骗;**confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**misled**把…带错方向;**frighten**使惊吓;**enlighten**启发;**tempt**诱惑;**astray**迷途地;**discredit**败坏…的名声;**discourage**使气馁;
@@ -1476,7 +1482,7 @@
 	14. invidious
 		1. 引起反感的, 惹人不快的, 不公平的, 诽谤的
 		2. in-不 + vid-看 + -ious形容词后缀 → 看上去不好的 → 有害的。
-		3. (obnoxious, invidious, pernicious, indignity)
+		3. (obnoxious, invidious, pernicious, indignity，)
 		4. **pernicious**很有害的;**discriminatory**有识别力的;**unfair**不公平的，不公正的;**distasteful**使人不愉快的;**insidious**隐伏的;**discrimination**歧视;**perverse**任性的,固执的;**unwarranted**没有根据的, 无正当理由的;**unjust**不公平的，不公正的;**noxious**有害的;**disingenuous**不真诚的;
 		5. invidious accusations. /招致不满的指控
 		6. she'd put herself in an invidious position. /她陷入了招人嫉妒的处境。
@@ -1523,8 +1529,8 @@
 		12. revised
 		13. revisal
 		14. revisable
-	17. previse 
-		1. (bode, portend, auspicate, prognosticate, omen, presage, foreshadow, augur, foretell, prefigure, forecast, predict, previse)
+	17. previse
+		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse)
 		2. vt. 预知；预先警告
 		3. [forewarn](dic://forewarn)
 		4. [anticipate](dic://anticipate), [foreknow](dic://foreknow), [foresee](dic://foresee)
@@ -1557,58 +1563,58 @@
 			3. _n._ [creation](dic://creation), [expedient](dic://expedient), [performance](dic://performance)
 			4. **improv**即兴;**improvise**临时制作, 临时凑成;**spontaneity**自然性;**jazz**爵士乐，爵士舞;**musicianship**音乐技巧;**solos**独奏;**experimentation**实验;**rehearsal**练习, 排练, 排演;**virtuoso**艺术品鉴赏家;**choreography**舞台舞蹈设计;**musical**音乐的;
 	19. provide, provided
-		1. providence
-			1. n. 深谋远虑, 天意, 天命n.上帝; 苍天(Providence)
-			2. _n._ [state capital](dic://state capital), [care](dic://care), [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship), [fortune](dic://fortune), [destiny](dic://destiny)
-			3. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness)
-			4. **divine**神圣的;**grace**优雅;**mercy**仁慈，宽容;**merciful**仁慈的;**salvation**拯救;**faithfulness**忠诚,正确,诚实;**omnipotent**全能的;**deliverance**解救;**destiny**命运，定数，天命;**divinity**神;**benevolent**好心肠的;
-			5. improvidence
-			6. provident /providently
-				2. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
-				3. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
-			7. providential
-			8. improvident
-				1. _adj._ [prodigal](dic://prodigal), [short](dic://short), [shortsighted](dic://shortsighted), [unforesightful](dic://unforesightful), [myopic](dic://myopic), [thriftless](dic://thriftless), [unforethoughtful](dic://unforethoughtful)
-				2. _n._ [provident](dic://provident), [prudent](dic://prudent)
-				3. **unwise**不明智的;**foolish**愚蠢的;**irresponsible**不负责任的;**reckless**鲁莽的，不顾后果的;**careless**粗心的;**wasteful**浪费的，不经济的;**frivolous**不重要的,不必要的;**negligent**疏忽的;**destitute**赤贫的, 贫苦的;**misguided**由错误思想指引的,不明智的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
-				4. improvident and undisciplined behaviour. /轻率任性的行为。
-				5. His father was irascible, witty, hard drinking and ruinously improvident /他父亲的个性暴躁、风趣、有酒瘾并且丝毫没有远见；
-				6. They had a large family, and they were very improvident and cheerful. /他们有一个大家庭， 他们非常省心和开朗。
-				7. This complaint, however, of the scarcity of money, is not always confined to improvident spendthrifts. /然而， 这种对金钱匮乏的抱怨并不总是局限于没有远见的挥霍者。
-				8. This young man has lived **improvident** life. /这个年轻人过着奢侈的生活。
-				9. You will pay for your **improvident** undisciplined behavior. /你会为自己轻率任性的行为付出代价的。
-		2. provision
-			1. - n. 提供，供应；准备，预备；（尤指为旅行准备的）食物，必需品（provisions）；条款，规定；赡养，供养；（机构账户上为已知负债，尤指坏账或资产价值缩减，从利润中留出的）准备金；<史>神职委任（尤指教皇对尚未缺额神职的预先委任） 
-			2. v. 为……提供所需物品（尤指食物）；（为已知债务）留出准备金
-			3. _n._ [condition](dic://condition), [precondition](dic://precondition), [stipulation](dic://stipulation), [activity](dic://activity), [thinking](dic://thinking), [thought](dic://thought), [thought process](dic://thought process)
-			4. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
-			5. **clause**条款;**amendment**修改, 改动;**statute**法令;**enactment**演出;**legislation**法律;**clauses**子句;**statutory**法定的;**requirement**要求, 必要条件;**exemption**免除;**amending**修改;**mandate**命令;
-			6. the provisions of lease /租借条款
-			7. to make provision for the future /准备日后之需
-			8. new contracts for the provision of services. /提供服务的新合同。
-			9. farmers have been slow to make provision for their retirement. /农民对退休生活准备较迟缓。
-			10. financial institutions have to provision against loan losses. /金融机构必须为贷款损失提供准备金。
-			11. Good to know. In here, you'll find emergency provisions. /很好 在这里 你可以找到应急储备。
-			12. reprovision
-			13. provisions
-			14. provisionment
-			15. provisioning
-			16. provisioner
-			17. provisional
-				1. - adj. 临时的，暂时的；暂定的；<英>（驾驶证）临时的；（邮票）临时流通的；（与）爱尔兰共和军和新芬党临时派（有关）的（Provisional） 
-				2. n. 临时执照，临时邮票；爱尔兰共和军（或新芬党）临时派成员（Provisional）
-				3. _adj._ [conditional](dic://conditional)
-				4. _n._ [unconditional](dic://unconditional)
-				5. **interim**临时的，暂时的;**preliminary**初步的;**tentative**试探性的;**temporary**临时的, 暂时的, 短时间的;**permanent**永久的, 固定的;**classification**分类, 分级;**declaration**宣布, 宣告, 声明;
-				6. _provisional rules_ 暂行条例；暂行规则；暂行条款
-				7. _provisional regulation_ 暂行条例
-				8. _provisional ball_ 暂定球（球员认为他的第一次击球可能出界或者掉入水障后所击出的第二个球）；临时球；暂代球
-				9. _provisional measure_ 临时措施
-				10. _provisional acceptance_ 临时验收；临时接受
-		3. provisor, provisory
-	20. televise
-	21. polyhistor
-	22. prudence, prudent, 
+	20. providence
+		1. n. 深谋远虑, 天意, 天命n.上帝; 苍天(Providence)
+		2. _n._ [state capital](dic://state capital), [care](dic://care), [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship), [fortune](dic://fortune), [destiny](dic://destiny)
+		3. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness)
+		4. **divine**神圣的;**grace**优雅;**mercy**仁慈，宽容;**merciful**仁慈的;**salvation**拯救;**faithfulness**忠诚,正确,诚实;**omnipotent**全能的;**deliverance**解救;**destiny**命运，定数，天命;**divinity**神;**benevolent**好心肠的;
+		5. improvidence
+		6. provident /providently
+			2. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
+			3. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+		7. providential
+		8. improvident
+			1. _adj._ [prodigal](dic://prodigal), [short](dic://short), [shortsighted](dic://shortsighted), [unforesightful](dic://unforesightful), [myopic](dic://myopic), [thriftless](dic://thriftless), [unforethoughtful](dic://unforethoughtful)
+			2. _n._ [provident](dic://provident), [prudent](dic://prudent)
+			3. **unwise**不明智的;**foolish**愚蠢的;**irresponsible**不负责任的;**reckless**鲁莽的，不顾后果的;**careless**粗心的;**wasteful**浪费的，不经济的;**frivolous**不重要的,不必要的;**negligent**疏忽的;**destitute**赤贫的, 贫苦的;**misguided**由错误思想指引的,不明智的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
+			4. improvident and undisciplined behaviour. /轻率任性的行为。
+			5. His father was irascible, witty, hard drinking and ruinously improvident /他父亲的个性暴躁、风趣、有酒瘾并且丝毫没有远见；
+			6. They had a large family, and they were very improvident and cheerful. /他们有一个大家庭， 他们非常省心和开朗。
+			7. This complaint, however, of the scarcity of money, is not always confined to improvident spendthrifts. /然而， 这种对金钱匮乏的抱怨并不总是局限于没有远见的挥霍者。
+			8. This young man has lived **improvident** life. /这个年轻人过着奢侈的生活。
+			9. You will pay for your **improvident** undisciplined behavior. /你会为自己轻率任性的行为付出代价的。
+	21. provision
+		1. - n. 提供，供应；准备，预备；（尤指为旅行准备的）食物，必需品（provisions）；条款，规定；赡养，供养；（机构账户上为已知负债，尤指坏账或资产价值缩减，从利润中留出的）准备金；<史>神职委任（尤指教皇对尚未缺额神职的预先委任） 
+		2. v. 为……提供所需物品（尤指食物）；（为已知债务）留出准备金
+		3. _n._ [condition](dic://condition), [precondition](dic://precondition), [stipulation](dic://stipulation), [activity](dic://activity), [thinking](dic://thinking), [thought](dic://thought), [thought process](dic://thought process)
+		4. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		5. **clause**条款;**amendment**修改, 改动;**statute**法令;**enactment**演出;**legislation**法律;**clauses**子句;**statutory**法定的;**requirement**要求, 必要条件;**exemption**免除;**amending**修改;**mandate**命令;
+		6. the provisions of lease /租借条款
+		7. to make provision for the future /准备日后之需
+		8. new contracts for the provision of services. /提供服务的新合同。
+		9. farmers have been slow to make provision for their retirement. /农民对退休生活准备较迟缓。
+		10. financial institutions have to provision against loan losses. /金融机构必须为贷款损失提供准备金。
+		11. Good to know. In here, you'll find emergency provisions. /很好 在这里 你可以找到应急储备。
+		12. reprovision
+		13. provisions
+		14. provisionment
+		15. provisioning
+		16. provisioner
+		17. provisional
+			1. - adj. 临时的，暂时的；暂定的；<英>（驾驶证）临时的；（邮票）临时流通的；（与）爱尔兰共和军和新芬党临时派（有关）的（Provisional） 
+			2. n. 临时执照，临时邮票；爱尔兰共和军（或新芬党）临时派成员（Provisional）
+			3. _adj._ [conditional](dic://conditional)
+			4. _n._ [unconditional](dic://unconditional)
+			5. **interim**临时的，暂时的;**preliminary**初步的;**tentative**试探性的;**temporary**临时的, 暂时的, 短时间的;**permanent**永久的, 固定的;**classification**分类, 分级;**declaration**宣布, 宣告, 声明;
+			6. _provisional rules_ 暂行条例；暂行规则；暂行条款
+			7. _provisional regulation_ 暂行条例
+			8. _provisional ball_ 暂定球（球员认为他的第一次击球可能出界或者掉入水障后所击出的第二个球）；临时球；暂代球
+			9. _provisional measure_ 临时措施
+			10. _provisional acceptance_ 临时验收；临时接受
+	22. provisor, provisory
+	23. televise
+	24. polyhistor
+	25. prudence, prudent, 
 		1. _adj._ [circumspect](dic://circumspect), [discreet](dic://discreet), [judicious](dic://judicious), [wise](dic://wise), [heady](dic://heady), [provident](dic://provident), [prudential](dic://prudential)
 		2. _n._ [imprudent](dic://imprudent)
 			1. [careful](dic://careful) 侧重做事谨慎、留心，特别注意一些细节地方。  
@@ -1620,25 +1626,25 @@
 			1. [primness](dic://primness), [prudishness](dic://prudishness), [Grundyism](dic://Grundyism)
 			2. _n._ [modesty](dic://modesty), [modestness](dic://modestness)
 			3. **modesty**谦逊;**immorality**不道德,无道义;**misogyny**厌恶女人;**propriety**①礼貌,规矩;**obscenity**淫秽;**censorship**审查员的职权;**hypocrisy**伪善;**chastity**纯洁;**nudity**裸露;**sexuality**性征;**femininity**妇女特质,柔弱性,温柔;
-	23. purvey
+	26. purvey
 		1. 1 - 来自古法语 porveoir,准备，供应，安排，来自拉丁语 providere,准备，预见，预防，词源同provide.
 		2. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
 		3. **procure**获得，取得;**revel**狂欢;**perpetuate**使永存;**disseminate**散布, 传播;**embody**体现，使具体化;
 		4. the majority of newspapers purvey a range of right-wing attitudes. /多数报纸都提供一系列右翼观点。
 		5. They purvey food for the army /他们供应食品给军队。
-	24. revue
+	27. revue
 		1. n. 时事讽刺歌舞剧
 		2. [review](dic://review)
 		3. _n._ [variety show](dic://variety show), [variety](dic://variety)
 		4. **cabaret**卡巴莱歌舞表演;**vaudeville**杂耍;**burlesque**作戏;**troupe**剧团, 艺术团体;**comedy**喜剧;**musical**音乐的;**Broadway**百老汇;**theatre**电影院，戏院;**skits**演练;**farce**笑剧,闹剧,滑稽戏;**skit**讽刺文;
-	25. survey
-	26. stratovision
-	27. ultravisuscope
-	28. vedette
-	29. voyeur
+	28. survey
+	29. stratovision
+	30. ultravisuscope
+	31. vedette
+	32. voyeur
 		1. **cuckold**与…的妻子通奸使其丈夫戴绿帽子;**handjob**手淫;**gangbang**一群男子与一女子的淫乱活动;**nudist**裸体主义的;**masturbate**)进行手淫;**shemale**女人;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**porn**<口>色情文学，色情描写，色情刊物;**masturbation**手淫;**naked**裸体的;**slut**懒妇;
-	30. wise
-	31. wit
+	33. wise
+	34. wit
 		1. witty
 		2. witting
 			1. unwitting (witless) (unfeeling)

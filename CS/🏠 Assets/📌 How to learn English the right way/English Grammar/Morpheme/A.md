@@ -660,21 +660,22 @@
 		5. _[agrestic local](dic://agrestic%20local)_ 乡土的
 		6. Folk art, an **agrestic** art, is the mother of all types of art /摘要民间美术是乡土艺术，是一切美术的母体。
 	14. peregrine
-		1. peregrine ['pɛrɪɡrɪn] n.游隼，adj.外来的；移住的。适合驯养的鹞鹰有几个品种可以选择，其中之一是游隼。前缀per-表through，词根egr-=agr-表田野，比如agriculture ['ægrɪkʌltʃə] n.农业；农耕；农艺，与acre ['eɪkə] n.英亩；土地，同源，后缀-ine表形容词。游隼，飞翔于山野间的鹰。 ​​​​
-		2. a. 流浪的, 移居的, 漫游的, 外国的, 异样的, 异国风味的, 外来的 n. 寄居外国的人
-		3. **bird**鸟;**avian**鸟类的;**birds**鸟类;**sparrow**麻雀;**hawk**鹰;**eagles**老鹰乐队，鹰;**migratory**迁移的;**eagle**鹰;**nesting**嵌套;**nest**巢，窝;**pigeons**杂波
-		4. _[peregrine](dic://peregrine)_  n. 游隼（等于 peregrine falcon）; adj. 异国的，外来的；闲逛的; n. (Peregrine) （美）博雷克林（人名）; 
-		5. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
-		6. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
-		7. The peregrine falcon is well-known as the world’s fastest animal. /游隼是众所周知的世界上最快的动物。
-		8. Part of the nightly drama involves evading peregrine falcons that come to feed on the starlings /夜间来临时，出现了前来捕食八哥的游隼。
-		9. peregrinator
-		10. peregrination
+		1.  (peregrinate, vagrant, ramble, perambulate, stroll, wander, trot, roam,  roll, swan, stray, tramp, cast, rove, range, drift, vagabond)
+		2. peregrine ['pɛrɪɡrɪn] n.游隼，adj.外来的；移住的。适合驯养的鹞鹰有几个品种可以选择，其中之一是游隼。前缀per-表through，词根egr-=agr-表田野，比如agriculture ['ægrɪkʌltʃə] n.农业；农耕；农艺，与acre ['eɪkə] n.英亩；土地，同源，后缀-ine表形容词。游隼，飞翔于山野间的鹰。 ​​​​
+		3. a. 流浪的, 移居的, 漫游的, 外国的, 异样的, 异国风味的, 外来的 n. 寄居外国的人
+		4. **bird**鸟;**avian**鸟类的;**birds**鸟类;**sparrow**麻雀;**hawk**鹰;**eagles**老鹰乐队，鹰;**migratory**迁移的;**eagle**鹰;**nesting**嵌套;**nest**巢，窝;**pigeons**杂波
+		5. _[peregrine](dic://peregrine)_  n. 游隼（等于 peregrine falcon）; adj. 异国的，外来的；闲逛的; n. (Peregrine) （美）博雷克林（人名）; 
+		6. _[peregrine falcons](dic://peregrine%20falcons)_  隼（鹰的一种）；外来猎鹰
+		7. _[peregrine falcon](dic://peregrine%20falcon)_  游隼（等于Falco peregrinus）
+		8. The peregrine falcon is well-known as the world’s fastest animal. /游隼是众所周知的世界上最快的动物。
+		9. Part of the nightly drama involves evading peregrine falcons that come to feed on the starlings /夜间来临时，出现了前来捕食八哥的游隼。
+		10. peregrinator
+		11. peregrination
 			1. **pilgrimage**朝圣者的旅程;**pilgrim**朝圣者;**journey**旅行;**voyage**航行;**journeys**旅行;**trek**艰苦跋涉;**pilgrims**朝圣者;**excursion**远足, 短途旅行;**voyages**长途旅行;**expedition**远征;
 			2. _n._ [travel](dic://travel), [traveling](dic://traveling), [travelling](dic://travelling)
 			3. In the following week, after more peregrinations, he went back home to Dresden. /在接下来的一周里， 经过更多的旅行之后， 他回到了德累斯顿的家中。
 			4. Having indulged in this imaginary peregrination for some considerable interval, she became impressed with a sense of the intolerable slowness of time /她沉浸在这段想像的行程中，过了好一会儿，她开始感到时间慢得令人难以忍受。
-		11. peregrinate
+		12. peregrinate
 			1. - vt. 游历；漫游；旅行 
 			2. vi. 徒步旅行
 			3. **erectile**勃起的;**impotence**阳萎;**penile**阴茎的，用阴茎的;**dysfunction**机能障碍,机能失调;**cheapest**最便宜的;
@@ -2688,14 +2689,15 @@
 			2. adj. 遮阳的；成荫的
 			3. adumbrative
 			4. adumbration
-		7. adumbrate (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow)
-			1. ad- + umbr-影子 + -ate, 表动词 → [将来的]影子出现 → 预示。
-			2. vt. 画...的轮廓, 预示
-			3. _v._ [describe](dic://describe), [depict](dic://depict), [draw](dic://draw), [hint](dic://hint), [suggest](dic://suggest)
-			4. **likewise**也;**moreover**此外;**apprehend**理解;**elucidate**阐明,解释;**countenance**面容，表情;**doubtless**无疑地, 肯定地;**indubitably**无疑地;**allusion**暗示;**comprehend**理解, 领会;**necessitate**使…成为必要, 需要;**plainly**平坦地;
-			5. Hobhouse had already adumbrated the idea of a welfare state /霍布豪斯已经简略地介绍了福利国家这一概念。
-			6. the walls were only adumbrated by the meagre light /几面墙只是在朦胧的光线下显示出轮廓来。
-			7. The recent development adumbrate a world-wide revolution in computer technology /最新事态的发展预示着一场全球性的计算机技术革命。
+		7. adumbrate
+			1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee)
+			2. ad- + umbr-影子 + -ate, 表动词 → [将来的]影子出现 → 预示。
+			3. vt. 画...的轮廓, 预示
+			4. _v._ [describe](dic://describe), [depict](dic://depict), [draw](dic://draw), [hint](dic://hint), [suggest](dic://suggest)
+			5. **likewise**也;**moreover**此外;**apprehend**理解;**elucidate**阐明,解释;**countenance**面容，表情;**doubtless**无疑地, 肯定地;**indubitably**无疑地;**allusion**暗示;**comprehend**理解, 领会;**necessitate**使…成为必要, 需要;**plainly**平坦地;
+			6. Hobhouse had already adumbrated the idea of a welfare state /霍布豪斯已经简略地介绍了福利国家这一概念。
+			7. the walls were only adumbrated by the meagre light /几面墙只是在朦胧的光线下显示出轮廓来。
+			8. The recent development adumbrate a world-wide revolution in computer technology /最新事态的发展预示着一场全球性的计算机技术革命。
 		9. umbriferous
 			1. - adj. 成荫的；投下阴影的 
 			2. _[adumbral shady umbrageous umbriferous](dic://adumbral%20shady%20umbrageous%20umbriferous)_ 成荫的

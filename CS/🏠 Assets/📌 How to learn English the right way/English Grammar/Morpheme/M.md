@@ -3491,15 +3491,17 @@
 			3. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
 	3. mordacious, mordacity
 		1. - adj. 锐利的；辛辣的 (poignant, mordacious, )
-		2. [sarcastic](dic://sarcastic), [dangerous](dic://dangerous), [unsafe](dic://unsafe)
-		3. [unsarcastic](dic://unsarcastic), [safe](dic://safe)
+		2. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
+		3. [sarcastic](dic://sarcastic), [dangerous](dic://dangerous), [unsafe](dic://unsafe)
+		4. [unsarcastic](dic://unsarcastic), [safe](dic://safe)
 	5. mordancy, mordant
-		4. [coloring material](dic://coloring material), [colouring material](dic://colouring material), [color](dic://color), [colour](dic://colour)
-		5. [sarcastic](dic://sarcastic), [destructive](dic://destructive)
-		6. [black](dic://black), [grim](dic://grim)
-		7. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
-		8. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
-	6. morsel 
+		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
+		2. [coloring material](dic://coloring material), [colouring material](dic://colouring material), [color](dic://color), [colour](dic://colour)
+		3. [sarcastic](dic://sarcastic), [destructive](dic://destructive)
+		4. [black](dic://black), [grim](dic://grim)
+		5. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
+		6. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
+	7. morsel 
 		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel)
 		2. morsel ['mɔːs(ə)l] n.一口；（食物）少量。拉丁词根mord-,mors-表示咬，后缀-el指小，所以morsel就是你能一口（量少）吞下（咬）的食物。类似逻辑，单词bit [bɪt] n.比特；少量；马嚼子；一点，adj.很小的，adv.有点儿，与bite咬和bait诱饵等日耳曼词源单词有关。一口咬下去，差不多都是那个量。 ​​​​
 		3. [bit](dic://bit), [bite](dic://bite)
@@ -5437,30 +5439,40 @@
 		10. I lived on selling mousetraps and mucilage. /我靠卖捕鼠器和胶水为生。
 		11. It looms up big in the window displays, but it's got a filler of glucose, or starch or mucilage or something, and two days after you wear it it's as limp as a cheesecloth rag. /它在橱窗里显得很大， 但里面有葡萄糖、淀粉或粘液之类的填充物， 戴上两天后， 它就会像粗棉布一样柔软。
 	10. moist
-		1.  来自拉丁语 musteus,新鲜的，带水滴的，来自 PIE*meus,水气，潮气，词源同 mist,must,moss.
-		2. [damp](dic://damp), [dampish](dic://dampish)
+		1. 来自拉丁语 musteus,新鲜的，带水滴的，来自 PIE*meus,水气，潮气，词源同 mist,must,moss.
+		2. (clammy, dank, drenched, saturated, soaked, soppy, moist) 
+		3. [damp](dic://damp), [dampish](dic://dampish)
 		4. _adj._ [wet](dic://wet)
 		5. _n._ [dry](dic://dry)
-		6. [humid](dic://humid) 正式用词，特指空气与天气的潮湿，相对湿度大。  
-		7. [damp](dic://damp) 指吸进或覆盖着一点水份，常表示潮湿得使人不舒服。  
-		8. [moist](dic://moist) 指微湿，侧重不干，但并非湿得使人不快。  
-		9. [wet](dic://wet) 普通用词，指各种潮湿的状态。
-		10. clammy, dank, drenched, saturated, soaked, soppy etc.
-		11. **dry**干的;**damp**使潮湿;**humid**潮湿的;**wet**潮湿的;**soggy**浸水的;**moisture**潮湿;**crumbly**脆的;**succulent**汁多味美的;**crispy**易碎的;**chewy**柔软而会黏着的;**warm**温暖的;
-		12. _moist air_ 湿空气
-		13. _moist soil_ 湿地
-		14. _moist heat_ 温湿
-		15. _moist climate_ 湿润气候
-		16. moisture
+			1. [humid](dic://humid) 正式用词，特指空气与天气的潮湿，相对湿度大。  
+			2. [damp](dic://damp) 指吸进或覆盖着一点水份，常表示潮湿得使人不舒服。  
+			3. [moist](dic://moist) 指微湿，侧重不干，但并非湿得使人不快。  
+			4. [wet](dic://wet) 普通用词，指各种潮湿的状态。
+		6. **dry**干的;**damp**使潮湿;**humid**潮湿的;**wet**潮湿的;**soggy**浸水的;**moisture**潮湿;**crumbly**脆的;**succulent**汁多味美的;**crispy**易碎的;**chewy**柔软而会黏着的;**warm**温暖的;
+		7. _moist air_ 湿空气
+		8. _moist soil_ 湿地
+		9. _moist heat_ 温湿
+		10. _moist climate_ 湿润气候
+		11. moisture
 			1. wet
 			2. _n._ [wetness](dic://wetness)
 			3. **humidity**湿度;**dryness**干燥;**evaporation**蒸发;**heat**热度;**moist**潮湿的;**vapor**蒸汽;**condensation**冷凝,凝聚;**wicking**灯芯材料;**drying**干燥;**dry**干的;**soil**土地;
 			4. moisturize
 			5. moisturizer
 			6. moistureproof
-		17. moistly
-		18. moisten
+		12. moistly
+		13. moisten
 			1. moistener
+		14. musty
+			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+			2.  [moldy](dic://moldy), [mouldy](dic://mouldy)
+			3.  [fusty](dic://fusty), [frowsty](dic://frowsty)
+			4. _adj._ [stale](dic://stale), [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky)
+			5. _n._ [fresh](dic://fresh), [fragrant](dic://fragrant)
+			6. **dusty**落满灰尘的;**smelly**有臭味的，发臭的;**stuffy**闷热的;**stinky**发恶臭的;**damp**使潮湿;**stale**不新鲜的;**smelling**嗅诊;**stench**恶臭;**pungent**刺激性的;**smell**嗅，闻;**mildew**霉;
+			7. The cottage had a musty smell after being shut up over the winter. /这间村舍关了一个冬天，有一股发霉的气味。
+			8. You enter a dark and musty crypt /你们进入一个昏暗霉臭的地窖。
+			9. Sorry, if it's musty. No one's been in here for months. /抱歉，可能有点霉味。很久没人来过了。
 	11. mold
 		1. _n._ 模具；铸模；模制品；类型，个性，风格；框架；体型，模样；霉，霉菌；耕作土壤；松软沃土  
 		2. _v._ 浇铸，塑造；用模子制作；对……影响重大；将……塑造成；使）紧贴于，吻合；轮廓相符；使发霉  (美式）
@@ -5510,9 +5522,9 @@
 		6. Regulation of **mucin** secretion may be under the influence of multiple pathways. /眼表粘蛋白的调节可能受多种因素影响。
 		7. I use this to rehydrate my face because the next step you need a moist face for snail mucin. /我用它来给我的脸补充水分，因为下一步你需要一张湿润的脸来补充蜗牛粘蛋白。
 		8. In mucin, long chains of sugars are attached to specific amino acids in the protein backbone. /在黏蛋白里，一长串的糖 会黏着於特定的氨基酸位於蛋白质的骨干。
-	15. mucociliary
+	14. mucociliary
 		1. _adj._ (哺乳动物呼吸系统中)黏膜纤毛的
-	16. mucopolysaccharidosis
+	15. mucopolysaccharidosis
 5. **munct-** = blow the nose, 表示“擤鼻子”。源自拉丁语 mungere "to blow the nose."
 	1. emunctory
 6. **myc-, mycet-** 表示“菌”，特别是“霉菌”。源自希腊语 mukes "fungus, mushroom."

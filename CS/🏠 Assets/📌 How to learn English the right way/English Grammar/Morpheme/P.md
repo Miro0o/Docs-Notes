@@ -214,14 +214,15 @@
 			6. The penitential den once set apart for interviews with the House, was now the news-Exchange, and was filled to overflowing. /忏悔室曾经专门用来接受众议院的采访，现在是新闻交流中心，人满为患。
 			7. If they would serve their fellow-men, let them do it by making manifest the power and reality of conscience, in constraining them to penitential self-abasement! /如果他们愿意为他们的同胞服务，就让他们通过彰显良心的力量和现实来做到这一点，迫使他们忏悔自卑！
 			8. penitentially
-		15. impenitent
-			1.  [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
-			2. _n._ [penitent](dic://penitent), [repentant](dic://repentant), [regenerate](dic://regenerate)
-			3. **sinners**罪人;**sinner**罪人;**repent**忏悔;**repentance**悔悟;**heretics**异教徒;**sinful**有罪的;**hardened**变硬的;**wickedness**邪恶;**righteous**公正的;**wicked**邪恶的;**depraved**堕落的;
-			4. an impenitent criminal /不知内疚[悔改]的罪犯
-			5. The Son of God Himself was sent to plead with the impenitent city. /上帝的儿子亲自奉差遣来到这个顽梗的城邑，发出恳切的劝告。
-			6. He was impenitent — but were not public criminals impenitent? /他不知悔改——但公共罪犯不是不知悔改吗？
-			7. impenitently
+		15. impenitent (impertinent, impendence, impenitent, impenetrable, )
+			1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+			2.  [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+			3. _n._ [penitent](dic://penitent), [repentant](dic://repentant), [regenerate](dic://regenerate)
+			4. **sinners**罪人;**sinner**罪人;**repent**忏悔;**repentance**悔悟;**heretics**异教徒;**sinful**有罪的;**hardened**变硬的;**wickedness**邪恶;**righteous**公正的;**wicked**邪恶的;**depraved**堕落的;
+			5. an impenitent criminal /不知内疚[悔改]的罪犯
+			6. The Son of God Himself was sent to plead with the impenitent city. /上帝的儿子亲自奉差遣来到这个顽梗的城邑，发出恳切的劝告。
+			7. He was impenitent — but were not public criminals impenitent? /他不知悔改——但公共罪犯不是不知悔改吗？
+			8. impenitently
 		17. impenitency
 			1. n. 不悔悟, 顽固
 
@@ -687,23 +688,23 @@
 		2. **funeral**葬礼;**funerals**丧葬;**casket**匣子;**uncle**伯父;**obituary**讣告;**coffin**棺材;**deceased**已故的;**deacon**执事;**memorial**纪念物;**uncles**叔伯;**burial**埋葬;
 		3. _[pallbearer](dic://pallbearer)_  n. 护柩者；棺侧送葬者
 3. palliate
-	1. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pecify, placatory)
-	3. 来自拉丁语 pallium,斗篷，覆盖，可能来自 pellis,皮，膜，词源同 film,pelt,surplice.即戴上斗篷，引申词义减轻痛苦，缓和，通常治标不治本。
-	4. [extenuate](dic://extenuate), [mitigate](dic://mitigate)
-	5. [relieve](dic://relieve), [alleviate](dic://alleviate), [assuage](dic://assuage)
-	6. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [better](dic://better)
-	7. **alleviate**缓和;**relieve**解除，减轻;**lessen**使…变小;**eradicate**摧毁,完全根除;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**induce**引诱;**procure**获得，取得;**prolong**拖延;**curtail**截断, 缩短;
-	8. _[palliate worsen](dic://palliate%20worsen)_ 减轻
-	9. _[assuage palliate](dic://assuage%20palliate)_ 减轻缓和
-	10. _[palliate the matter](dic://palliate%20the%20matter)_ 宁人息事
-	11. there is no way to excuse or palliate his dirty deed. /对他这种肮脏的行为无法原谅也无法掩饰。
-	12. Organizations for writers palliate the writer's loneliness but I doubt if they improve his writing. /作家的组织固然可以排遣他们的孤独，但是我怀疑它们未必能够促进作家的创作。
-	13. Cora remained silent, for she knew not how to palliate this imprudent severity on the part of her father in a manner to suit the comprehension of an Indian. /科拉保持沉默，因为她不知道如何以一种适合印第安人理解的方式来缓和她父亲这种鲁莽的严厉。
-	14. I don't wish to **palliate** them, I assure you /我不想掩饰，我可以向你保证。
-	15. What policy actions could China take to **palliate** the loss? /中国将采取何种政策来减轻其损失？
-	16. palliator
-	17. palliative
-	18. palliation
+	1. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate)
+	2. 来自拉丁语 pallium,斗篷，覆盖，可能来自 pellis,皮，膜，词源同 film,pelt,surplice.即戴上斗篷，引申词义减轻痛苦，缓和，通常治标不治本。
+	3. [extenuate](dic://extenuate), [mitigate](dic://mitigate)
+	4. [relieve](dic://relieve), [alleviate](dic://alleviate), [assuage](dic://assuage)
+	5. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise), [better](dic://better)
+	6. **alleviate**缓和;**relieve**解除，减轻;**lessen**使…变小;**eradicate**摧毁,完全根除;**mitigate**使缓和，使减轻;**diminish**使减少;**conceal**隐藏;**induce**引诱;**procure**获得，取得;**prolong**拖延;**curtail**截断, 缩短;
+	7. _[palliate worsen](dic://palliate%20worsen)_ 减轻
+	8. _[assuage palliate](dic://assuage%20palliate)_ 减轻缓和
+	9. _[palliate the matter](dic://palliate%20the%20matter)_ 宁人息事
+	10. there is no way to excuse or palliate his dirty deed. /对他这种肮脏的行为无法原谅也无法掩饰。
+	11. Organizations for writers palliate the writer's loneliness but I doubt if they improve his writing. /作家的组织固然可以排遣他们的孤独，但是我怀疑它们未必能够促进作家的创作。
+	12. Cora remained silent, for she knew not how to palliate this imprudent severity on the part of her father in a manner to suit the comprehension of an Indian. /科拉保持沉默，因为她不知道如何以一种适合印第安人理解的方式来缓和她父亲这种鲁莽的严厉。
+	13. I don't wish to **palliate** them, I assure you /我不想掩饰，我可以向你保证。
+	14. What policy actions could China take to **palliate** the loss? /中国将采取何种政策来减轻其损失？
+	15. palliator
+	16. palliative
+	17. palliation
 		1. - n. （痛苦的）减轻；缓和；辩解
 		2. _n._ [easing](dic://easing), [easement](dic://easement), [alleviation](dic://alleviation), [relief](dic://relief), [decrease](dic://decrease), [diminution](dic://diminution), [reduction](dic://reduction)
 		3. **radiotherapy**放射疗法;**resection**切除术;**metastases**移位变化;**metastasis**转移;**prognosis**预测;**postoperative**手术后的;**symptomatic**症状的;**recurrence**复发;**chemotherapy**化学疗法;**treatment**处理;**morbidity**病态;
@@ -1384,15 +1385,44 @@
 		1. im- + peach, 指脚镣，和词根pod-同源。
 	2. biped, centipede, cirriped(cirripede), multiped, palmiped, quadruped. taliped, uniped, pinniped, 
 		1. pedis, peduncle
-	3. expedite
+	3. expedite 
 		1. vt. 加快, 促进, 发出  
 		2. a. 畅通的, 无阻碍的, 迅速的, 方便的
 		3. ex-向外 + ped-脚，脚镣，即解脱脚镣的束缚，加快速度，或来自比喻义，解脱脚的束缚，飞起来。
-		4. expeditious
-			1. expeditiously
-		5. expedition
-			1. expeditionary
-	4. expedient (makeshift, workaround, expedient, muddle through,  )
+		4.  [hasten](dic://hasten)
+		2. _v._ [help](dic://help), [assist](dic://assist), [aid](dic://aid), [action](dic://action), [sue](dic://sue), [litigate](dic://litigate), [process](dic://process)
+		3. **facilitate**使便利, 减轻…的困难;**streamline**把…做成流线型;**hasten**催促;**accelerate**加快, 增速;**assist**帮助;**impede**阻止;**simplify**简化;**streamlining**流线;**order**命令;**finalize**最后决定，敲定;**process**处理;
+		5. expeditious
+			1. _adj._ 迅速而有效率的,迅速完成的
+			2. _adj._ [efficient](dic://efficient)
+			3. _n._ [inefficient](dic://inefficient)
+			4. **expedient**应急有效的;**cost-effective**有成本效益的,划算的;**expedite**加快;**swift**快的;**efficient**有能力的, 效率高的;**timely**及时的;**orderly**整齐的;**equitable**公正的,合理的;**painless**无痛的;**manner**方式;**proceeding**行动;
+			5. an expeditious investigation /迅速调查。
+			6. the most expeditious means/快速有效的方式
+			7.  They are almost as expeditious and effectual as Aladdin’s lamp/他们几乎像如意神灯那么迅速有效。
+			8. We were now to begin to adopt a mode of travelling both more expeditious and less fatiguing than hitherto. /我们现在开始采用一种比迄今为止更快捷、更不疲劳的旅行方式。
+			9. 
+			10. expeditiously
+		7. expedition
+			1. - n. 远征，考察；探险队，考察队；动作敏捷，迅速
+			2. _n._ [campaign](dic://campaign), [military campaign](dic://military campaign), [working group](dic://working group), [working party](dic://working party), [journey](dic://journey), [journeying](dic://journeying), [celerity](dic://celerity)
+				1. [journey](dic://journey) 最普通用词，侧重指时间较长、距离较远的单程陆上旅行，也指水上或空中的旅行。  
+				2. [tour](dic://tour) 指最后反回出发地，旅途中有停留游览点，距离可长可短，目的各异的周游或巡行。  
+				3. [travel](dic://travel) 泛指旅行的行为而不指某次具体的旅行，多指到远方作长期旅行，不强调直接目的地，单、复数均可用。  
+				4. [trip](dic://trip) 普通用词，口语多用，常指为公务或游玩作的较短暂的旅行。  
+				5. [voyage](dic://voyage) 指在水上旅行，尤指海上旅行，也可指空中旅行。  
+				6. [excursion](dic://excursion) 较正式用词，常指不超过一天的短时期娱乐性游玩，也可指乘火车或轮船往返特定景点的远足旅游。  
+				7. [expedition](dic://expedition) 指有特定目的远征或探险。  
+				8. [cruise](dic://cruise) 主要指乘船的游览并在多处停靠。
+			3. **voyage**航行;**excursion**远足, 短途旅行;**voyages**长途旅行;**mountaineering**登山运动;**trek**艰苦跋涉;**explorer**探测者，探测器;**overland**陆上的;**adventurer**探险家, 冒险家;**trekking**艰苦跋涉;**adventure**冒险活动;**Antarctica**南极洲;
+			4. an expedition against the enemy stronghold; a scientific expedition to the South Pole. /对敌人根据地的考察；对南极的科学考察
+			5. The cost of the expedition was defrayed by the college. /远征队的费用由校方支付。
+			6. he dispatched an expedition to relieve the city. /他派出一支远征队去救援被围之城。
+			7. The Brazilian government sent numerous expeditions to find him that all failed until 2007. /巴西政府多次派出探险队寻找他，但都失败了，直到 2007 年。
+			8. It's actually quite surreal after a whole year, trying to put the expedition together. /整整一年来我们一直在集结队伍。
+			9. 
+			10. expeditionary
+	13. expedient (makeshift, workaround, expedient, muddle through,  )
 		1. 来自 expedite,加速。引申词义权宜之计。
 		2. adj. 权宜的；方便的；有利的 
 		3. n. 权宜之计；应急手段
@@ -1410,14 +1440,14 @@
 		15. expedience
 		16. inexpedience
 		17. inexpedient
-			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
 			2. a. 不便的, 不适当的, 失策的
 			3. 1. _adj._ <正>不妥当的;不适当的;不明智的
 			4. _n._ 不妥当;不明智
 			5. _adv._ 不妥当地;不适当地;不明智地
 			6. To rely on such a measure is **inexpedient**. /依赖这种措施是不得计的。
 			7.  It would be **inexpedient** to raise taxes further/进一步加税就是不合理。
-	5. impede
+	14. impede
 		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, )
 		2. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		3. vt. 妨碍, 阻碍, 阻止
@@ -1435,11 +1465,11 @@
 			1. n. 妨碍, 障碍, 阻止, 口吃
 			2. impediment - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		14. impedance
-	6. millepede, millipede
-	7. pedal
+	15. millepede, millipede
+	16. pedal
 		1. pedalo
 		2. pedestal
-	8. pedestrian
+	17. pedestrian
 		1. pedestrian - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		2. _n._ [traveler](dic://traveler), [traveller](dic://traveller)
 		3. _adj._ [uninteresting](dic://uninteresting)
@@ -1454,15 +1484,15 @@
 			8. _pedestrian subway_ 地下人行道
 			9. _pedestrian overcrossing_ 人行天桥
 			10. _pedestrian area_ 行人专区；步行街
-	9. pedate
+	18. pedate
 		1. a. 有脚的, 脚状的, 鸟脚状的
 		2. _adj._ [compound](dic://compound), [footed](dic://footed)
 		3. _n._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [footless](dic://footless)
-	10. pedicure
+	19. pedicure
 		1. n. 脚治疗, 脚治疗医师, 修趾甲术  
 		2. vt. 修脚, 医脚
-	11. pediform
-	12. pedigree
+	20. pediform
+	21. pedigree
 		1.  [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [blood](dic://blood), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
 		2.  [bloodline](dic://bloodline)
 		3.  [pedigreed](dic://pedigreed), [pureblood](dic://pureblood), [pureblooded](dic://pureblooded), [thoroughbred](dic://thoroughbred)
@@ -1472,42 +1502,42 @@
 		7. _[pedigrees](dic://pedigrees)_  家系; [遗] 谱系，[遗] 血统; 衍生后代; 
 		8. _[pedigree selection](dic://pedigree%20selection)_  [遗] 谱系选择
 		9. _[pedigree chart](dic://pedigree%20chart)_  系谱图；家谱；谱系图
-	13. pediment
+	22. pediment
 		1. n. 山形墙, 三角墙, 山花饰
-	14. pedometer, pedosphere
-	15. peddle
+	23. pedometer, pedosphere
+	24. peddle
 		1. vi. 挑卖, 沿街叫卖, 游荡, 闲混 
 		2. vt. 叫卖, 兜售, 散播
-	16. pedler
+	25. pedler
 		1. n. 小贩, 货郎, 流动商贩, (喻)兜售者, 传播者
 		2. pedlary
 			1. n. 小贩的货物, 小贩的营生
 		3. pedlar
 			1. n. 沿街叫卖的小贩, (流言)传播者
-	17. pedrail
-	18. pedicab
+	26. pedrail
+	27. pedicab
 		1. n. (人力)三轮车
-	19. taliped
+	28. taliped
 		1. a. 拐脚的, 畸形脚的
-	20. uniped
+	29. uniped
 		1. a. 独脚的, 独腿的
-	21. velocipede
+	30. velocipede
 		1. n. 脚踏两轮车, 孩童用三轮车
-	22. cirripede
+	31. cirripede
 		1. n. 蔓脚类动物
-	23. despatch, dispatch
+	32. despatch, dispatch
 		1. celerity
-	24. fetch
+	33. fetch
 		1. fet-=fed-脚。即跑腿。
-	25. orthopeady
-	26. parallelepiped
+	34. orthopeady
+	35. parallelepiped
 		1. n. 平行六面体
-	27. patrol
+	36. patrol
 		1. patrol - 这是从法语吸收过来的大量军事用语之一。17世纪始用于英语，源自法语patrouiller，而patrouiller又是从古法语patouiller演化而来，原意是flounder in mud（在泥巴里蹒跚而行）。这大概是因为古时军营中夜巡的卫兵往往是在泥巴中来回走个没完，所以才用了这样一个词。
-	28. patten
+	37. patten
 		1. n. 木套鞋, 木底鞋
-	29. peon,
-	30. pilot
+	38. peon,
+	39. pilot
 		1. n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人  
 		2. vt. 领航, 驾驶, 引导, 试用  
 		3. a. 引导的, 控制的, 试点的
@@ -1519,18 +1549,18 @@
 		9. gyropilot
 		10. copilot
 		11. autpilot
-	31. pioneer
-	32. stapes
+	40. pioneer
+	41. stapes
 		1. n. 镫骨
-	33. trivet
+	42. trivet
 		1. n. 三脚架
-6. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
+14. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
 	1. pessimism
 	2. pessimist
 	3. pessimistic
 		1. _adj._ [bearish](dic://bearish), [demoralized](dic://demoralized), [demoralised](dic://demoralised), [discouraged](dic://discouraged), [disheartened](dic://disheartened)
 		2. **optimistic**乐观的, 乐观主义的;**cynical**愤世嫉俗的;**gloomy**黑暗的;**optimist**乐天派;**bleak**荒凉的，无遮蔽的;**optimism**乐观;**outlook**展望;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**grim**冷酷的;**idealistic**理想主义的;
-7. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
+15. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
 	1. antipode
 	2. arthropod
 	3. unipod
@@ -1543,7 +1573,7 @@
 	10. platypus
 	11. podium
 	12. etc..
-8. **trapez-** 表示“四边形”。
+16. **trapez-** 表示“四边形”。
 	1. trapeze
 	2. trapezium
 	3. trapezoid
@@ -1552,15 +1582,15 @@
 		3. _n._ [quadrilateral](dic://quadrilateral), [quadrangle](dic://quadrangle), [tetragon](dic://tetragon), [carpal bone](dic://carpal bone), [carpal](dic://carpal), [wrist bone](dic://wrist bone)
 		4. trapezial
 		5. trapezidal
-9. fetlock
-10. fetter
+17. fetlock
+18. fetter
 	1. **shackles**手铐，脚镣;**bondage**奴役身份;**bind**捆绑, 捆扎;**rein**缰绳;**constrain**强迫, 强使;**restrain**抑制，控制;**hindrance**起妨碍作用的事物或人;
 	2. **shackles**手铐，脚镣;**chained**装链的;**constrained**不舒服的,被强迫的,拘泥的;**unfettered**无拘无束的;**freed**释放的;**burdened**负荷的;**restrained**克制的,节制的,受到控制的;**bondage**奴役身份;**bound**跳;**liberated**被解放的;**confined** 被限制的，封闭的，狭窄的;
 	3. trammel
 	4. hamper
-11. foot
-12. pawn
-13. petiole
+19. foot
+20. pawn
+21. petiole
 
 
 
@@ -3118,7 +3148,7 @@
 	39. pertain
 		1. pertinacious, pertinacity
 		2. pertinent, pertinency, pertinence
-		3. impertinent
+		3. impertinent (impertinent, impendence, impenitent, impenetrable, )
 			1. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
 			2. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
 			3. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
@@ -4932,8 +4962,8 @@
 		3. **nomadic**游牧的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**intrepid**无畏的;**wandering**漫游的;**wayward**任性的;**expatriate**侨民;**musings**沉思;**solitary**孤独的;**dogged**顽强的;**meandering**蜿蜒的河流,漫步,聊天;
 	10. peripetia, peripeteia
 		1. 剧情突变，情节或命运的突变
-	11. propitiate (appropriate)
-		1.  (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory)
+	11. propitiate (appropriate, expiate, expatiate, propitiate, precipitate)
+		1. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate)
 		2. vt. 慰抚, 安抚, 和解, 谋求...的好感
 		3.  来自拉丁语 propitiare,安抚，缓和，求情，来自 pro-,向前，petere,寻求，努力，乞求，恳求，词源同 petition,petitioner.
 		4. **appease**使平息;**deity**神;**gods**上帝们;**purify**净化;**sacrifice**牺牲;**goddess**女神，受崇拜的女性;**sacrificial**献祭的;**penance**使…以苦行赎罪;**merciful**仁慈的;
@@ -5382,7 +5412,7 @@
 		3. There is a pudicity in noble minds which withholds them from speaking of their personal sufferings; proudly they hide the extent of their woes from hearts that love them, feeling a merciful joy in doing so. /高贵的头脑中有一种愚蠢，使他们不愿谈论自己的苦难。他们自豪地向爱他们的心隐藏他们的痛苦程度，并在这样做时感到仁慈的快乐。
 		4. On the other hand, the former inherited from the latter heavy consciousness of male chauvinism, especially the element of paternal culture of **pudicity** and gentleness. /另一方面，前者因袭了后者较浓的传统男权性别意识，特别是“贞”与“柔”等父系文化因子
 	4. impudent, impudently
-		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; indecorous)
+		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy)
 		2. im-,不，非，-pud,思考，羞耻心，词源同 impute,pudendum.即没有羞耻心的，无耻的，后引申词义不谦虚的，粗鲁的，无礼的。
 		3. [insolent](dic://insolent), [snotty-nosed](dic://snotty-nosed), [flip](dic://flip)
 		4. [fresh](dic://fresh), [impertinent](dic://impertinent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
@@ -5410,7 +5440,7 @@
 			2. _One more impudicity_ 放肆一把
 			3. _impudicity presumption run wild wanton_ 放肆
 			4. _shameless impudicity cheeky blushless blatant_ 无耻的
-	6. repudiate (capitulate, recapitulate)
+	5. repudiate (capitulate, recapitulate)
 		1. (scant, spurn, repudiate, )
 		2. 来自拉丁语 repudiare,拒绝，否认，离婚，来自 repudium,离婚，断绝婚姻关系，来自 re-,向后，离开，*pudium,击，打，来自 PIE*pu,击，打，词源同 pave,compute.也有学者认为该词来自 ped,脚，踢，词源同 foot.
 		3. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**reject**拒绝;**affirm**断言;**refute**反驳，驳斥;**deny**否定，否认;**assert**断言;**abandon**离弃;**oppose**反对;**acknowledge**承认;
@@ -5466,7 +5496,7 @@
 	3. pointy
 		1. _[Pointy](dic://Pointy)_ 非常尖锐; 非常尖的; 尖的; 有尖头的
 	4. poignant
-		1.  (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic,)
+		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
 		2. 来自古法语 poignant,锋利的，尖锐的，来自拉丁语 pungere,刺，词源同 pugnacious,point.
 		3. a. 辛酸的, 尖锐的, 剧烈的
 		4.  [affecting](dic://affecting), [touching](dic://touching)
@@ -5663,11 +5693,11 @@
 		6. The term **pugilism** is sometimes used for the sport. /拳击这个词经常用在体育中。
 	7. pugnacious, pugnacity
 		1. (pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist)
-		2.  来自拉丁语 pugnus,拳头，来自 pungere,刺，击，词源同 point,pungent.引申词义好斗的。
-		3. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
-		4. [tough](dic://tough), [aggressive](dic://aggressive)
-		5. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
-		6. loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant. /表“ 勉强、不愿、固执、难驾驭” 之意:
+		2. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude)
+		3.  来自拉丁语 pugnus,拳头，来自 pungere,刺，击，词源同 point,pungent.引申词义好斗的。
+		4. **combative**好战的;**feisty**活跃的;**brash**仓促的，性急的;**tenacious**抓紧的;**ferocious**残忍的;**boisterous**热闹的;**belligerent**好战的;**outspoken**直言的;**flamboyant**显眼的, 浮夸的, 炫耀的;**aggressive**侵略的;**defiant**挑衅的;
+		5. [tough](dic://tough), [aggressive](dic://aggressive)
+		6. [tender](dic://tender), [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
 		7. the increasingly pugnacious demeanour of right-wing politicians. /右翼政客越来越好斗的行径。
 		8. His pugnacious tone indicated that they were not about to laugh at Xenophilius, despite the clear provocation. " Come and dance, " he added abruptly to Hermione. /他用警告的语气表明这里并不欢迎取笑谢农费里厄斯的言辞，那会被当作是一种挑衅的，“我们去跳舞吧。”他突然对赫敏说。
 		9. Online, however, he is pugnacious, frequently taking people with whom he disagrees—including, on occasion, journalists at The Economist—to task. /然而，在网上，他好斗，经常责备与他意见相左的人——有时包括《经济学人》的记者。
@@ -5861,7 +5891,7 @@
 
 ## pi
 ### pi- = holy, 表示“神圣”
-1. expiate
+1. expiate  (appropriate, expiate, expatiate, propitiate, precipitate, expatriate, explicate)
 	1. ex-向外，此处表强调 + pi-虔诚，弥补 + -ate, 表动词，原指宗教上的虔诚，弥补过失， 请求神的原谅。
 	2. [aby](dic://aby), [abye](dic://abye), [atone](dic://atone)
 	3. _v._ [right](dic://right), [compensate](dic://compensate), [redress](dic://redress), [correct](dic://correct)
@@ -7193,49 +7223,54 @@
 			3. **deceit**欺骗;**deception**欺骗;**treachery**背信弃义, 不忠, 背叛;**hypocrisy**伪善;**complicity**合谋, 串通;**dishonesty**不诚实的行为;**betrayal**背叛;**cowardice**懦弱;**incompetence**无能力;**arrogance**傲慢;**falsehood**谎言;
 	4. quadruplicate
 	5. explicate
-		1. ex-出 + plic-折叠 + -ate, 表动词 → 把重叠的东西弄出来 → 解释。
-		2. explicable
-	6. explicit
+		1. (expound, elaborate, exposit, lucubrate, expatiate, expand, elucidate, explicate, )
+		2. ex-出 + plic-折叠 + -ate, 表动词 → 把重叠的东西弄出来 → 解释。
+		3. _v._ [inform](dic://inform), [speculate](dic://speculate), [theorize](dic://theorize), [theorise](dic://theorise), [conjecture](dic://conjecture), [hypothesize](dic://hypothesize), [hypothesise](dic://hypothesise)
+		4. **elucidate**阐明,解释;**explain**说明，解释;**characterize**是…的特征, 以…为特征;**examine**调查;**comprehend**理解, 领会;**clarify**澄清;**summarize**总结, 概述;**interpret**解释;**analyze**对…进行分析，分解;**dissect**切细;**illustrate**给…加插图;
+		5. 
+		6. explicable
+	7. explicit
 		1. a. 详述的, 清楚的, 直言的
 		2. inexplicability
 		3. inexclicable
 		4. inexplicably
-	7. implicit
-	8. implicate
-	9. multiply
-	10. replicate
+	8. implicit
+	9. implicate
+	10. multiply
+	11. replicate
 		1. replica, plica
 			1. 1 - 来自拉丁语 replica,复制，重复，来自 replicare,复制，词源同 replicate.
-	11. supplicate (entreat)
-		1. sup-下 + plic-重叠 + -ate, 表动词 → (膝盖)重叠跪下 → 恳求。
-		2. suppliance, suppliant
-	12. triplicate
+	12. supplicate
+		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
+		2. sup-下 + plic-重叠 + -ate, 表动词 → (膝盖)重叠跪下 → 恳求。
+		3. suppliance, suppliant
+	14. triplicate
 		1. triplicity
 			1. n. 三倍, 三个一组, 三位一体
-	13. applique
-	14. ply
+	15. applique
+	16. ply
 		1. n. 厚度, 板层  
 		2. vt. 使用, 使劲挥舞, 从事, 折, 弯  vi. 辛勤工作, 定期航行
 		2. pliability, pliable, pliancy, pliant
 		3. apply
 		4. imply
 		5. reply
-	15. plication
+	17. plication
 		1. n. 折襞, 皱纹, 细褶皱
 		2. fundoplication
 		3. centuplicate
 		4. sextuplicate
-	16. display
-	17. exploit
+	18. display
+	19. exploit
 		1. 1 - ex-,向外，-ploit,卷，词源同 imply,implicate.即展开，结果，功绩。后在 19 世纪初由于法国空想社会主义者，尤其是圣西门用该词指剥削，压榨，使得这一词义广泛传播。
 		2. n. 功绩, 勋绩  vt. 开发, 利用, 开拓, 剥削
-	18. ploy
+	20. ploy (cloy)
 		1. n. 计策; 手段
 		2. 缩写自 deploy,部署，词源同 ply,complicate.引申词义计谋，策略，花招等。
 		3. employ
 			1. 1 - em-,进入，使，-ploy,编织，卷入，词源同 deploy,imply,implicate.即成为其中的一份子。
 		4. deploy
-	19. splay
+	21. splay
 		1. vt. 使（手指、腿等）叉开, 分开, 张开, 展开  
 		2. n. 八字形展开  a. 向外张开的
 5. flax

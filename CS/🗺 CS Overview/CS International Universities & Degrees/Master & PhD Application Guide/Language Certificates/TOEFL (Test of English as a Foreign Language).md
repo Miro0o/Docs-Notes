@@ -13,6 +13,11 @@
 
 
 
+## TOEFL Speaking
+https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%8F%A3%E8%AF%AD/%E4%B8%AA%E4%BA%BA%E7%A7%81%E8%B4%A7/TOEFL%E5%8F%A3%E8%AF%AD%E6%80%BB%E7%BB%93.md
+
+
+
 ## TOEFL Writing
 ![](../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2012.23.12.png)
 ![](../../../../../Assets/Pics/Screenshot%202024-10-28%20at%2012.23.35.png)
