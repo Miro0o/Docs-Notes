@@ -102,13 +102,14 @@
 		5. _n._ [foolish](dic://foolish), [achromatic](dic://achromatic)
 		6. **thyme**百里香;**rosemary**迷迭香;**herb**香草，药草;**wisdom**智慧，才智;**guru**古鲁;**herbs**药草;**parsley**荷兰芹，欧芹;**basil**罗勒属植物;**fennel**茴香;**saffron**藏红花;**lavender**淡紫色;
 		7. presage
-			1. [bode](dic://bode), [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
-			2. [omen](dic://omen), [portent](dic://portent), [prognostic](dic://prognostic), [prognostication](dic://prognostication), [prodigy](dic://prodigy)
-			3. [foreboding](dic://foreboding), [premonition](dic://premonition), [presentiment](dic://presentiment), [boding](dic://boding), [augury](dic://augury), [sign](dic://sign), [foretoken](dic://foretoken)
-			4. [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
-			5. **herald**使者, 预报者;**precede**领先，在…之前;**prelude**前奏;**imminent**迫近的;**foresee**预知;**signify**表示;**impending**即将发生的;**bode**预示;**ominous**不祥的;**might**可能;**predict**预报，预言;
-		8. sagacity
-		9. sagacious, sagaciously
+			1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
+			2. [bode](dic://bode), [portend](dic://portend), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
+			3. [omen](dic://omen), [portent](dic://portent), [prognostic](dic://prognostic), [prognostication](dic://prognostication), [prodigy](dic://prodigy)
+			4. [foreboding](dic://foreboding), [premonition](dic://premonition), [presentiment](dic://presentiment), [boding](dic://boding), [augury](dic://augury), [sign](dic://sign), [foretoken](dic://foretoken)
+			5. [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
+			6. **herald**使者, 预报者;**precede**领先，在…之前;**prelude**前奏;**imminent**迫近的;**foresee**预知;**signify**表示;**impending**即将发生的;**bode**预示;**ominous**不祥的;**might**可能;**predict**预报，预言;
+		9. sagacity
+		10. sagacious, sagaciously
 			1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
 			2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
 			3. _adj._ [wise](dic://wise), [politic](dic://politic)
@@ -3843,7 +3844,7 @@
 		6. The familiarity of that face, the features out of numberless visions in his earliest prescience, shocked Paul to stillness. /那张面孔的熟悉感，以及他最早的先见之明中无数幻象中的特征，让保罗震惊得一动不动。
 		7. It gave him a new understanding of his prescience, and he saw the source of blind time, the source of error in it, with an immediate sensation of fear /这让他对自己的先见之明有了新的认识，他看到了盲目时间的来源，其中的错误来源，立即感到恐惧。
 		8. prescient
-			1. (prescient, portend, presage, prefigure, foretell, prophetic, )
+			1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
 			2. _adj._ [discerning](dic://discerning)
 			3. _n._ [undiscerning](dic://undiscerning)
 			4. **perceptive**敏感的;**prophetic**预言的,先知的;**astute**机敏的;**insightful**有深刻见解的;**sobering**使清醒的;**visionary**幻想的;**poignant**尖锐的;**shrewd**精明的;**instructive**教育性的;**provocative**刺激的;**ominous**不祥的;
@@ -5583,15 +5584,16 @@
 	9. suspense
 		1. suspensor, suspensive, suspension
 	10. penchant (penchant, dote, indulge, fondness, cosher, spoil, tendentious, ) (trenchant)
-		1. - n. 嗜好；倾向
-		2.  [preference](dic://preference), [predilection](dic://predilection), [taste](dic://taste)
-		3. **fondness**溺爱;**knack**诀窍;**propensity**倾向;**obsession**困扰;**aversion**厌恶;**fascination**魅力;**notorious**臭名昭著的;**preoccupation**全神贯注，入神;**disdain**蔑视;**flair**天资;**obsessive**萦绕于心的;
-		4. _[penchant for](dic://penchant%20for)_  对…的嗜好; 对…的倾向;
-		5. She has a penchant for Indian food. /她爱吃印度食物。
-		6. a penchant for exotic foods; /对异国食物的嗜好；
-		7. And what underlies these two things is an intrinsic penchant for what one studies. /然而决定上述两项的关键就是学生的兴趣爱好。
-		8. We can trace the American penchant for self-improvement at least partly to our unique history. /我们可以把美国人对自我改善的喜好至少部分归因于我们独特的历史。
-		9. 
+		1. (predilection, propensity, penchant, proclivity, )
+		2. - n. 嗜好；倾向
+		3.  [preference](dic://preference), [predilection](dic://predilection), [taste](dic://taste)
+		4. **fondness**溺爱;**knack**诀窍;**propensity**倾向;**obsession**困扰;**aversion**厌恶;**fascination**魅力;**notorious**臭名昭著的;**preoccupation**全神贯注，入神;**disdain**蔑视;**flair**天资;**obsessive**萦绕于心的;
+		5. _[penchant for](dic://penchant%20for)_  对…的嗜好; 对…的倾向;
+		6. She has a penchant for Indian food. /她爱吃印度食物。
+		7. a penchant for exotic foods; /对异国食物的嗜好；
+		8. And what underlies these two things is an intrinsic penchant for what one studies. /然而决定上述两项的关键就是学生的兴趣爱好。
+		9. We can trace the American penchant for self-improvement at least partly to our unique history. /我们可以把美国人对自我改善的喜好至少部分归因于我们独特的历史。
+		10. 
 3. **pend-, pens-, pond-** = weight, expend, ponder over
 	1. compensate, compensable
 		2. overcompensate, 
@@ -6503,7 +6505,7 @@
 	17. hemostat
 		1. hemostases
 	18. obstinate
-		1. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, )
+		1.   (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
 		2. ob-,相对，对着的，-stin,站，站立，词源同 stand,destiny.即对着站的，站在对面的，引申词义对手，顽固的。
 		3. _v._ [persevere](dic://persevere), [persist](dic://persist), [hang in](dic://hang in), [hang on](dic://hang on), [hold on](dic://hold on)
 		4. _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)

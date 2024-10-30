@@ -230,6 +230,11 @@
 			8. generous
 			9. genesses, genesis
 			10. genitive
+			11. unregenerate
+				1.  (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+				2. _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)
+				3. _n._ [regenerate](dic://regenerate), [corrigible](dic://corrigible)
+				4. **sinner**罪人;**sinful**有罪的;**sinners**罪人;**carnal**肉体的;**depraved**堕落的;**repent**忏悔;**wickedness**邪恶;**sin**过失;**heathen**异教徒;**repentance**悔悟;**salvation**拯救;
 		16. genius
 		17. gentile
 		18. gentility
@@ -454,26 +459,27 @@
 		5. germicide
 		6. degerm
 			1. degermation
-	3. germane  (germane, fitting, condign, apposite, commensurate, apropos, apt, pertinent)
-		1. 来自拉丁语 germen,来自 gen-,生育，词源同 generate.即同种类的，贴切的。字母 n 在 m 前 r 化，比较 charm.
-		2. germ-种子 + -ane, 来自同一品种 → 关系密切的。
-		3. a. 关系密切的, 有关的, 同样的, 恰当的, 贴切的
-		4. - adj. 有密切关系的；贴切的；恰当的
-		5. [related](dic://related)
-		6. **pertinent**有关的;**relevant**有关的;**irrelevant**不相干的,不相关的;**pertain**关于;**salient**突出的;**debatable**有争议的,有问题的,可争辩的;**substantive**独立的;**particularly**特别;**topic**题目;**unrelated**无关的, 不相关的;**instructive**教育性的;
-		7. contingent, 
-		8. awry, sidebar, 
-		9. That's really germane to this whole discussion right now /和我们现在讨论的问题有密切关联。
-		10. But when it talks about these publicly, it is mostly because they are germane to its business. /但当它公开谈论这些时，主要是因为它们与其业务密切相关。
-		11. The call for public engagement with the unthinkable is especially **germane** in this moment of still-uncontrolled pandemic and economic crises in the world's most technologically advanced nations /在世界上技术最先进的国家仍然不能控制疫情和经济危机的时刻，呼吁公众参与令人无法想象的事情尤为重要。
-	4. germen
-	5. germinal
+	3. germane 
+		1. (germane, fitting, condign, apposite, commensurate, apropos, apt, pertinent)
+		2. 来自拉丁语 germen,来自 gen-,生育，词源同 generate.即同种类的，贴切的。字母 n 在 m 前 r 化，比较 charm.
+		3. germ-种子 + -ane, 来自同一品种 → 关系密切的。
+		4. a. 关系密切的, 有关的, 同样的, 恰当的, 贴切的
+		5. - adj. 有密切关系的；贴切的；恰当的
+		6. [related](dic://related)
+		7. **pertinent**有关的;**relevant**有关的;**irrelevant**不相干的,不相关的;**pertain**关于;**salient**突出的;**debatable**有争议的,有问题的,可争辩的;**substantive**独立的;**particularly**特别;**topic**题目;**unrelated**无关的, 不相关的;**instructive**教育性的;
+		8. contingent, 
+		9. awry, sidebar, 
+		10. That's really germane to this whole discussion right now /和我们现在讨论的问题有密切关联。
+		11. But when it talks about these publicly, it is mostly because they are germane to its business. /但当它公开谈论这些时，主要是因为它们与其业务密切相关。
+		12. The call for public engagement with the unthinkable is especially **germane** in this moment of still-uncontrolled pandemic and economic crises in the world's most technologically advanced nations /在世界上技术最先进的国家仍然不能控制疫情和经济危机的时刻，呼吁公众参与令人无法想象的事情尤为重要。
+	5. germen
+	6. germinal
 		1. unigerminal
 		2. subgerminal
 		3. monogerminal
 		4. bigerminal
-	6. germinant
-	7. germinate
+	7. germinant
+	8. germinate
 		1. germin-=germ-种子 + -ate, 表动词 → 种子动 → 发芽。
 		2. _v._ [grow](dic://grow), [create by mental act](dic://create by mental act), [create mentally](dic://create mentally)
 		3. **seedlings**幼苗;**sprout**长芽;**sown**播种;**seed**种子;**sowing**播种;**flowering**开花的;**grow**生长;**sprouting**发芽;**wilt**使枯萎;**propagate**繁殖;**spores**孢子;
@@ -481,13 +487,13 @@
 		5. regerminate
 		6. germinative
 		7. germination
-	8. germfree
-	9. germinoma
-	10. germiparity
-	11. germless
-	12. germline
-	13. germovitellarium
-	14. etc..
+	9. germfree
+	10. germinoma
+	11. germiparity
+	12. germless
+	13. germline
+	14. germovitellarium
+	15. etc..
 5. **gon-,gono-** = seed, 表示“种子”，和 gen (产生) 同源。源自希腊语 gonos "child, procreation, seed."
 	1. gonorrhoea
 		1. gonorrhea
@@ -809,22 +815,23 @@
 ### + \*gerere + = to carry on, wage, perform
 1. **ger** = to bear, carry, 「Latin」gerere "to carry on, wage, perform"
 	1. belligerence, belligerent
-		1. bell-战斗 + ger-带来 + -ence, 表名词。
-		2. nonbelligerent, cobelligerent, belligerently
-		3. **combative**好战的;**hostile**敌对的，敌方的;**obnoxious**可憎的;**aggressive**侵略的;**confrontational**对抗;**unfriendly**不友好的;**arrogant**自大的，傲慢的;**defiant**挑衅的;**antagonistic**敌对的;**condescending**降低身份的,屈尊的;**unruly**不守
+		1. (pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist)
+		2. bell-战斗 + ger-带来 + -ence, 表名词。
+		3. nonbelligerent, cobelligerent, belligerently
+		4. **combative**好战的;**hostile**敌对的，敌方的;**obnoxious**可憎的;**aggressive**侵略的;**confrontational**对抗;**unfriendly**不友好的;**arrogant**自大的，傲慢的;**defiant**挑衅的;**antagonistic**敌对的;**condescending**降低身份的,屈尊的;**unruly**不守
 	3. exaggerate (hyperbole, overrate, exaggerate, magnify)
 		1. ex-加强 + agger-堆积 + -ate, 表动词 → 越堆越高 → 夸张。
 		2. gerund ['dʒerʌnd] n.动名词。用我们熟悉的概念来解释就是verbal noun，也就是我们做名词使用的动词原形+ing形式。拉丁词根ger,gest表执行、进行，体现了“动作和行为”，而-und则是古拉丁语的动名词后缀，后来变为-end，相当于英语动名词中的-ing，所以gerund就是“作为名词使用的动词ing形式”。于是可以理解这些单词了：gest n.故事诗；故事；武功；诗体小说，a carryingon of the folklore or legend之意。gesture n.姿势；手势，v.做手势，manner of carrying the body之意。gestation n.酝酿；怀孕；妊娠期，a carrying之意。exaggerate v.夸张，to carry out of the normal reach之意。
 		3. 
 		4. exaggerator, exaggerative, exaggeration,
-	5. gerund
+	4. gerund
 		1. n. 动名词
 		2. gerundive, gerundial
 		3. gerund-grinder
 		4. **verb**动词;**participle**分词;**verbs**动词;**pronoun**代词;**noun**名词;**nouns**名词;**adjective**形容词;**pronouns**代名词;**grammatical**语法的;**plural**复数的;**possessive**所有格;
-	6. lanigerous
-	7. vicegerency, vicegerent
-	8. congery
+	5. lanigerous
+	6. vicegerency, vicegerent
+	7. congery
 2. **gest-, gister-** = carry, bring, 「Latin」gerere "to carry on, wage, perform"
 	1. congest
 		1. vt. 使充满, 使拥塞, 使充血  vi. 充塞, 充血, 拥挤
@@ -3692,15 +3699,17 @@
 		5. seroprognosis
 		6. electroprognosis
 		7. prognostic
-			1. a. 预兆的, 预后的  n. 先兆, 预测
-			2. _n._ [augury](dic://augury), [sign](dic://sign), [foretoken](dic://foretoken), [preindication](dic://preindication)
-			3. _adj._ [prophetic](dic://prophetic), [prophetical](dic://prophetical)
-			4. _n._ [unprophetic](dic://unprophetic)
-			5. **predictive**预言性的,成为前兆的;**prognosis**预测;**biomarker**生物标记;**predictor**预言者;**diagnostic**诊断的, 判断的;**histological**组织学的;**multivariate**多变量的;**clinical**临床的;**psychosocial**社会心理的;**metastasis**转移;**biochemical**生物化学的
-			6. prognostician
-			7. prognosticate
-				1. _v._ [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend), [hazard](dic://hazard), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
-				2. **predict**预报，预言;**prognosis**预测;**prediction**预言;**foresee**预知;**speculate**思索;**anticipate**先于…行动;**dissect**切细;**quantify**量化;**assess**评定;**forecasting**预测;**ponder**仔细考虑;
+			1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee)
+			2. a. 预兆的, 预后的  n. 先兆, 预测
+			3. _n._ [augury](dic://augury), [sign](dic://sign), [foretoken](dic://foretoken), [preindication](dic://preindication)
+			4. _adj._ [prophetic](dic://prophetic), [prophetical](dic://prophetical)
+			5. _n._ [unprophetic](dic://unprophetic)
+			6. **predictive**预言性的,成为前兆的;**prognosis**预测;**biomarker**生物标记;**predictor**预言者;**diagnostic**诊断的, 判断的;**histological**组织学的;**multivariate**多变量的;**clinical**临床的;**psychosocial**社会心理的;**metastasis**转移;**biochemical**生物化学的
+			7. prognostician
+			8. prognosticate
+				1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee)
+				2. _v._ [guess](dic://guess), [venture](dic://venture), [pretend](dic://pretend), [hazard](dic://hazard), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
+				3. **predict**预报，预言;**prognosis**预测;**prediction**预言;**foresee**预知;**speculate**思索;**anticipate**先于…行动;**dissect**切细;**quantify**量化;**assess**评定;**forecasting**预测;**ponder**仔细考虑;
 	6. cunning (canny)
 		1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, crafty, artful )
 		2. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious)

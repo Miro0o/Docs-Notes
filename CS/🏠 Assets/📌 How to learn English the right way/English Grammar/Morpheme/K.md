@@ -5181,30 +5181,31 @@
 ### ⭐ + \*(s)keu- + = to cover, conceal
 1. **coil-, cul-** = 表示“后面、底部”源自拉丁语 culus "the rump, backside."
 	1. recoil
-		1. n. 畏缩, 后退, 弹回, 反作用, 后坐力  vi. 退却, 畏缩, 弹回, 撤退, 反冲, 报应
-		2. [kick](dic://kick)
-		3. [repercussion](dic://repercussion), [rebound](dic://rebound), [backlash](dic://backlash)
-		4. [flinch](dic://flinch), [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [quail](dic://quail)
-		5. [backfire](dic://backfire), [backlash](dic://backlash)
-		6. [bounce](dic://bounce), [resile](dic://resile), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
-		7.  [kick back](dic://kick back), [kick](dic://kick)
-		8. _n._ [movement](dic://movement), [motion](dic://motion)
-		9. _v._ [move](dic://move), [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass)
-		10. **muzzle**枪口，炮口;**rifle**步枪;**pistol**手枪;**bolt**门闩;**ammo**弹药;**trigger**触发;**projectile**发射体;**barrel**桶;**Ruger**鲁格;**shock**打击;**pistols**手枪;
-		11. Most people would recoil at the sight of the snake /许多人看见蛇都会向后退缩。
-		12. She recoiled at the sight of the snake. /她看到蛇就退缩了。
-		13. Revenge may recoil upon the person who takes it. /报复者常会受到报应。
-		14. his body jerked with the recoil of the rifle. /步枪的反冲力使他的身体猛地震动了一下。
-		15. He was easier and he didn't recoil when I touched him. /他很容易相处，我抚摸他他不会躲开。
-		16. This is a result of recoil from the asteroid's strike. /这是小行星撞击的反作用力造成的。
-		17. The old goblin seemed to recoil a little. /老妖精似乎有点畏缩的样子。
-		18. My first shot would liquify her insides and injure you, second shot adds recoil. /我的第一枪会液化她的内脏，但只能打伤你，第二枪后坐力会增加。
-		19. Her mother looked at her. " I am frightened" ! cried the child, recoiling. /她母亲瞧着她。 " 我怕！" 孩子边说边往后缩。
-		20. An evil deed may **recoil** on the head of the doer. /干坏事的人会受到邪恶的报应。
-		21. _recoil from_ 畏缩，后退
-		22. _recoil force_ n. 反冲力；坐后力
-		23. recoilless
-		24. recoiler
+		1. 
+		2. n. 畏缩, 后退, 弹回, 反作用, 后坐力  vi. 退却, 畏缩, 弹回, 撤退, 反冲, 报应
+		3. [kick](dic://kick)
+		4. [repercussion](dic://repercussion), [rebound](dic://rebound), [backlash](dic://backlash)
+		5. [flinch](dic://flinch), [squinch](dic://squinch), [funk](dic://funk), [cringe](dic://cringe), [shrink](dic://shrink), [wince](dic://wince), [quail](dic://quail)
+		6. [backfire](dic://backfire), [backlash](dic://backlash)
+		7. [bounce](dic://bounce), [resile](dic://resile), [take a hop](dic://take a hop), [spring](dic://spring), [bound](dic://bound), [rebound](dic://rebound), [reverberate](dic://reverberate), [ricochet](dic://ricochet)
+		8.  [kick back](dic://kick back), [kick](dic://kick)
+		9. _n._ [movement](dic://movement), [motion](dic://motion)
+		10. _v._ [move](dic://move), [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass)
+		11. **muzzle**枪口，炮口;**rifle**步枪;**pistol**手枪;**bolt**门闩;**ammo**弹药;**trigger**触发;**projectile**发射体;**barrel**桶;**Ruger**鲁格;**shock**打击;**pistols**手枪;
+		12. Most people would recoil at the sight of the snake /许多人看见蛇都会向后退缩。
+		13. She recoiled at the sight of the snake. /她看到蛇就退缩了。
+		14. Revenge may recoil upon the person who takes it. /报复者常会受到报应。
+		15. his body jerked with the recoil of the rifle. /步枪的反冲力使他的身体猛地震动了一下。
+		16. He was easier and he didn't recoil when I touched him. /他很容易相处，我抚摸他他不会躲开。
+		17. This is a result of recoil from the asteroid's strike. /这是小行星撞击的反作用力造成的。
+		18. The old goblin seemed to recoil a little. /老妖精似乎有点畏缩的样子。
+		19. My first shot would liquify her insides and injure you, second shot adds recoil. /我的第一枪会液化她的内脏，但只能打伤你，第二枪后坐力会增加。
+		20. Her mother looked at her. " I am frightened" ! cried the child, recoiling. /她母亲瞧着她。 " 我怕！" 孩子边说边往后缩。
+		21. An evil deed may **recoil** on the head of the doer. /干坏事的人会受到邪恶的报应。
+		22. _recoil from_ 畏缩，后退
+		23. _recoil force_ n. 反冲力；坐后力
+		24. recoilless
+		25. recoiler
 	3. cul-de-sac
 	4. culdesac
 	5. culet
@@ -5253,13 +5254,14 @@
 		8. percutaneous
 		9. etc...
 	3. cuticle
-		1. exocuticle
-		2. epicuticle
-		3. endocuticle
-	4. cuticular
+		1. n. 表皮
+		2. exocuticle
+		3. epicuticle
+		4. endocuticle
+	5. cuticular
 		1. a. 表皮的
-	5. cutin
-	6. cutis
+	6. cutin
+	7. cutis
 		1. subcutis
 		2. epicutis
 4. **cyt-, cyto-, cyte-** = cell, 表示“细胞”。源自希腊语 kutos "a hollow, vessel."
@@ -5277,7 +5279,7 @@
 	3. hut
 		1. n. 小屋, 茅舍, 临时军营  v. (使)住在茅舍
 		2. hutment
-	5. hutch
+	5. hutch (botch)
 		1. n. 箱, 厨, 笼, 小屋  vt. 把...装箱
 		2. - 来自古法语 huche,柜子，来自拉丁语 hutica,柜子，箱子，来自 PIE*skeu,隐藏，遮盖，词源同 hut,house.现主要用于指养兔子等小动物的笼子或柜子，在家具行业也指抽屉柜。
 	6. huddle 
@@ -5353,72 +5355,119 @@
 
 ### + \*keub- +
 1. **cub-, cumb-** = lie down, 表示“躺”； =barrier, 表示“躺的东西,障碍”。源自拉丁语 cumbere, cumare "to lie down, lean"
-	1. accumbent
-		1. _[accumbent](dic://accumbent)_  adj. 横卧的；斜靠着的；依状的
-	2. decumbence
+	1. accumbent  (recumbent)
+		1. ac- + cumb-躺 + -ent
+		2. _[accumbent](dic://accumbent)_  adj. 横卧的；斜靠着的；依状的
+	3. decumbence
 		1. n. 横卧；匍匐
 		2. decumbent
 			1. _adj._ [unerect](dic://unerect)
 			2. _n._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
 			3. **shrub**灌木;**deciduous**每年落叶的;**fleshy**肉的;**whitish**带白色的;**yellowish**微黄色的;**erect**使竖立;**fibrous**纤维的，纤维性的;
-	3. incumbency
-		1. _n._ [term](dic://term), [duty](dic://duty), [responsibility](dic://responsibility), [obligation](dic://obligation), [position](dic://position), [post](dic://post), [berth](dic://berth)
-		2. **incumbent**负有义务的;**election**选举;**tenure**占有;**electoral**选举的;**reelection**改选;**patronage**赞助;**seniority**年长;**presidency**总统的职位;**candidacy**候选人的地位;**electorate**选民;**by-election**递补选举;
 	4. incumbent
-		1. _n._ [official](dic://official), [functionary](dic://functionary)
-		2. _adj._ [superjacent](dic://superjacent), [necessary](dic://necessary), [current](dic://current)
-		3. _n._ [subjacent](dic://subjacent), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded), [noncurrent](dic://noncurrent)
-		4. **challenger**挑战者;**candidate**申请求职者, 候选人;**unopposed**不反对的,无对手的;**reelection**改选;**election**选举;**elect**选出的;**mayor**市长;**electorate**选民;**legislator**立法者;**opponent**对手;**senator**参议员;
-	5. recumbency
-		1. _[recumbency](dic://recumbency)_  n. 斜靠着；躺着；休息
-	6. recumbent
-		1. _adj._ [unerect](dic://unerect)
-		2. _n._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
-		3. **bike**自行车;**bicycle**自行车;**elliptical**椭圆的;**upright**正直的，诚实的;**bikes**自行车;**handlebars**把手;**riding**骑马;**saddle**鞍，鞍状物;**bicycles**自行车;**rider**附文;**treadmill**踏车;
-		4. semirecumbent
-		5. recumbently
-	8. succumb
-		1.  [yield](dic://yield), [give in](dic://give in), [knuckle under](dic://knuckle under), [buckle under](dic://buckle under)
-		2. _v._ [accept](dic://accept), [consent](dic://consent), [go for](dic://go for), [die](dic://die), [decease](dic://decease), [perish](dic://perish), [go](dic://go)
-		3. _n._ [survive](dic://survive), [pull through](dic://pull through), [pull round](dic://pull round), [come through](dic://come through), [make it](dic://make it)
-		4. **resist**抵抗，抗拒;**temptation**诱惑, 引诱;**suffer**忍受;**susceptible**易受影响的;**endure**忍耐;**shun**避开, 回避, 避免;**abandon**离弃;**tempted**有兴趣的;**defy**藐视;**overcome**克服;**withstand**经受, 承受;
-	9. concubine
-		1.  [courtesan](dic://courtesan), [doxy](dic://doxy), [odalisque](dic://odalisque), [paramour](dic://paramour)
-		2. _n._ [mistress](dic://mistress), [kept woman](dic://kept woman), [fancy woman](dic://fancy woman)
-		3. **mistress**情妇;**consort**结交;**harem**为一个雄性动物所控制的许多雌性动物;**prostitute**娼妓;**nobleman**贵族;**emperor**皇帝，君主;**stepmother**继母;**slave**奴隶;**servant**仆人，佣人;**adultery**通奸，通奸行为;**brothel**妓院;
-		4. concubinatus
-		5. concubinage
-	11. cubby
-		1.  [cubbyhole](dic://cubbyhole), [snuggery](dic://snuggery), [snug](dic://snug)
-		2. _n._ [room](dic://room)
-		3. **playroom**娱乐室;**bookcase**书柜，书架;**bookshelf**书架;**drawer**抽屉;**drawers**厨柜;**nook**角落;**cupboard**食橱;**shelving**倾斜，架子;**closet**壁橱;**cabinet**内阁;**hole**洞，孔;
-		4. cubbyhole
-	13. cubicle
-		1. [cell](dic://cell)
-		2.  [carrel](dic://carrel), [carrell](dic://carrell), [stall](dic://stall)
-		3. [booth](dic://booth), [stall](dic://stall), [kiosk](dic://kiosk)
-		4. _n._ [room](dic://room), [alcove](dic://alcove), [bay](dic://bay), [closet](dic://closet)
-		5. **office**办公室;**boardroom**会议室;**hallway**门厅;**desk**办公桌;**bathroom**浴室;**workday**工作日;**workplace**工作场所;**toilet**厕所，盥洗室;**restroom**洗手间;**dorm**宿舍;**shower**淋浴
-		6. _control cubicle_ 操纵室，控制室
-	14. decubitus
-	15. incubate
-		1.  [brood](dic://brood), [hatch](dic://hatch), [cover](dic://cover)
-		2. _v._ [develop](dic://develop), [reproduce](dic://reproduce), [procreate](dic://procreate), [multiply](dic://multiply)
-		3. **incubator**孵卵器;**hatched**孵化的;**develop**开发;**infuse**使充满;**hatching**剖面线;**ferment**发酵;
-		4. incubator
-		5. incubaive
-		6. incubation
-	16. incubus
+		1. in-里面 + cumb-躺 + -ent形容词后缀 → 躺在[官位]上的人 → 任职者。
+		2. _n._ [official](dic://official), [functionary](dic://functionary)
+		3. _adj._ [superjacent](dic://superjacent), [necessary](dic://necessary), [current](dic://current)
+		4. _n._ [subjacent](dic://subjacent), [unnecessary](dic://unnecessary), [unneeded](dic://unneeded), [noncurrent](dic://noncurrent)
+		5. **challenger**挑战者;**candidate**申请求职者, 候选人;**unopposed**不反对的,无对手的;**reelection**改选;**election**选举;**elect**选出的;**mayor**市长;**electorate**选民;**legislator**立法者;**opponent**对手;**senator**参议员;
+		6. the incumbent mayor. /在职的市长
+		7. It is incumbent on me to reclaim him. /劝他改过是我义不容辞的义务。
+		8. widespread public dissatisfaction with  incumbent politicians. /公众对在职政客的普遍不满。
+		9. defeated the incumbent in a close election. /在一场势均力敌的选举中击败在职者
+		10. gave only lukewarm support to the incumbent candidate. /给在位的候选人不冷不热的支持
+		11. It is incumbent upon you to warn them. /你有责任警告他们。
+		12. it is incumbent upon all hill users to respect the environment. /所有登山者有义务避免破坏环境。
+		13. incumbency
+			1. _n._ [term](dic://term), [duty](dic://duty), [responsibility](dic://responsibility), [obligation](dic://obligation), [position](dic://position), [post](dic://post), [berth](dic://berth)
+			2. **incumbent**负有义务的;**election**选举;**tenure**占有;**electoral**选举的;**reelection**改选;**patronage**赞助;**seniority**年长;**presidency**总统的职位;**candidacy**候选人的地位;**electorate**选民;**by-election**递补选举;
+			3. Critics say its vagueness is designed to frustrate initiatives that threaten its incumbency. /评论家说BT的含糊其辞是设计好用来打击地方积极性的，因为它们威胁到了BT的工作任务。 
+			4. The president, setting aside the exalted status and electoral advantages of incumbency, must submit to the same pre-agreed rules as his challenger. /总统要抛开崇高地位和在任优势，和竞争者一样遵从相同的预先商定的规则。
+			5. Li-ion batteries have the advantage of incumbency, and battery makers have invested billions of dollars in huge " gigafactories" to turn them out in droves /锂离子电池具备市场主导优势，电池制造商已经投资数十亿美元建立了巨大的“超级工厂”来对它们进行批量生产。
+			6. Much and deservedly to my own discredit, therefore, and considerably to the detriment of my official conscience, they continued, during my incumbency, to creep about the wharves, and loiter up and down the Custom-House steps. /因此，在我任职期间，他们继续在码头周围偷偷摸摸，在海关大楼的台阶上上下徘徊，这让我名誉扫地，而且对我的公职良心也有很大的损害。
+	5. recumbent
+		1. re-回 + cumb-躺 + -ent形容词后缀 → 躺回去 → 斜躺的。
+		2. _adj._ [unerect](dic://unerect)
+		3. _n._ [erect](dic://erect), [vertical](dic://vertical), [upright](dic://upright)
+		4. **bike**自行车;**bicycle**自行车;**elliptical**椭圆的;**upright**正直的，诚实的;**bikes**自行车;**handlebars**把手;**riding**骑马;**saddle**鞍，鞍状物;**bicycles**自行车;**rider**附文;**treadmill**踏车;
+		5. He moved a few steps in that direction, and now he perceived a recumbent figure almost close to his feet. /他往那个方向跨了几步，这时他看出一个斜卧着的身影，几乎就在他脚下。
+		6. A recumbent figure started up from the grass and came running toward them through the flickering screen of light and shade /一个躺着的人影从草丛中站起来，透过闪烁的光影屏幕向他们跑来。
+		7. So did the horses with drowsy bells, in long files of carts, creeping slowly towards the interior; so did their recumbent drivers, when they were awake, which rarely happened; so did the exhausted laborers in the fields. /带着昏昏欲睡的铃铛的马也是， 排成一排长长的大车，慢慢地向内部移动。 当他们醒着时，他们躺着的司机也是如此，这很少发生；田里疲惫不堪的劳动者也是如此。
+		8. recumbency
+			1. _[recumbency](dic://recumbency)_  n. 斜靠着；躺着；休息
+		9. semirecumbent
+		10. recumbently
+	6. succumb
+		1. suc-下面 + cumb-躺 → 躺下去 → 屈服；死亡。
+		2.  suc-,在下，-cumb,躺，词源同 succubus,recumbent.即躺在下面，引申比喻义屈服，屈从。
+		3. vi. 屈从, 屈服, 死
+		4.  [yield](dic://yield), [give in](dic://give in), [knuckle under](dic://knuckle under), [buckle under](dic://buckle under)
+		5. _v._ [accept](dic://accept), [consent](dic://consent), [go for](dic://go for), [die](dic://die), [decease](dic://decease), [perish](dic://perish), [go](dic://go)
+		6. _n._ [survive](dic://survive), [pull through](dic://pull through), [pull round](dic://pull round), [come through](dic://come through), [make it](dic://make it)
+		7. **resist**抵抗，抗拒;**temptation**诱惑, 引诱;**suffer**忍受;**susceptible**易受影响的;**endure**忍耐;**shun**避开, 回避, 避免;**abandon**离弃;**tempted**有兴趣的;**defy**藐视;**overcome**克服;**withstand**经受, 承受;
+	8. concubine
+		1. n. 妾, 姘妇
+		2.  [courtesan](dic://courtesan), [doxy](dic://doxy), [odalisque](dic://odalisque), [paramour](dic://paramour)
+		3. _n._ [mistress](dic://mistress), [kept woman](dic://kept woman), [fancy woman](dic://fancy woman)
+		4. **mistress**情妇;**consort**结交;**harem**为一个雄性动物所控制的许多雌性动物;**prostitute**娼妓;**nobleman**贵族;**emperor**皇帝，君主;**stepmother**继母;**slave**奴隶;**servant**仆人，佣人;**adultery**通奸，通奸行为;**brothel**妓院;
+		5. concubinatus
+		6. concubinage
+	10. cubby
+		1. n. 小房间
+		2.  [cubbyhole](dic://cubbyhole), [snuggery](dic://snuggery), [snug](dic://snug)
+		3. _n._ [room](dic://room)
+		4. **playroom**娱乐室;**bookcase**书柜，书架;**bookshelf**书架;**drawer**抽屉;**drawers**厨柜;**nook**角落;**cupboard**食橱;**shelving**倾斜，架子;**closet**壁橱;**cabinet**内阁;**hole**洞，孔;
+		5. cubbyhole
+	12. cubicle
+		1. cub-躺下 + -icle,小词后缀。
+		2. incubus（梦魇）：民间传说中与人梦中交合的梦淫妖  
+		3. 在中世纪的西方民间传说中，梦淫妖会在人的睡梦中与人交合，乘机吸收其精气。以男性形象出现的男妖称为incubus，以女性形象出现的女妖称为succubus。女子梦魇时往往会以为是被梦淫妖压身，所以incubus演变成“梦魇”和“重担”之意，而succubus逐渐用来表示“淫妇、娼妓”。  
+		4. incubus来自拉丁文incubare，由in（upon，在其上）+cubare（横卧）构成，字面意思是“横卧于其上”；而succubus来自拉丁文succubare，由sub（under，在其下）+cubare（横卧）构成，字面意思是“横卧于其下”。英语词根cub就来源于拉丁文cubare（横卧）。  
+		5. incubus： ['ɪŋkjʊbəs] n.梦魇，沉重的负担  
+		6. succubus： ['sʌkjʊbəs] n.女妖，女梦淫妖，妓女  
+		7. incubate： ['ɪŋkjʊbeɪt] v.孵化，培养n.孵育物  
+		8. cubicle： ['kjuːbɪk(ə)l] n.小卧室，小房间
+		9. [cell](dic://cell)
+		10.  [carrel](dic://carrel), [carrell](dic://carrell), [stall](dic://stall)
+		11. [booth](dic://booth), [stall](dic://stall), [kiosk](dic://kiosk)
+		12. _n._ [room](dic://room), [alcove](dic://alcove), [bay](dic://bay), [closet](dic://closet)
+		13. **office**办公室;**boardroom**会议室;**hallway**门厅;**desk**办公桌;**bathroom**浴室;**workday**工作日;**workplace**工作场所;**toilet**厕所，盥洗室;**restroom**洗手间;**dorm**宿舍;**shower**淋浴
+		14. _control cubicle_ 操纵室，控制室
+	19. decubitus
+	20. incubate
+		1. vt. 孵, 培养, 使发展  
+		2. vi. 孵蛋, 潜伏, 筑巢, 孵化, 酝酿  
+		3. n. 孵育物
+		4.  [brood](dic://brood), [hatch](dic://hatch), [cover](dic://cover)
+		5. _v._ [develop](dic://develop), [reproduce](dic://reproduce), [procreate](dic://procreate), [multiply](dic://multiply)
+		6. **incubator**孵卵器;**hatched**孵化的;**develop**开发;**infuse**使充满;**hatching**剖面线;**ferment**发酵;
+		7. They're only set to be incubated at about 38 to 39 degrees /它们只能在38到39度的温度下孵化。
+		8. But also they can incubate diseases like this that can also spread around the planet.” /但同时也可能会酝酿出埃博拉这样能蔓延整个世界的疾病。”
+		9. incubator
+		10. incubaive
+		11. incubation
+			1. - n. 孵化；[病毒][医] 潜伏；抱蛋
+			2. _n._  [care](dic://care), [attention](dic://attention), [aid](dic://aid), [tending](dic://tending), [phase](dic://phase), [stage](dic://stage), [parturition](dic://parturition)
+			3. **incubator**孵卵器;**hatching**剖面线;**gestation**怀孕;**fermentation**发酵;**maturation**化脓;**germination**萌芽,发生;**assay**试验;**larval**幼虫状态的;
+			4. _incubation period_ 发酵周期；孵育期；保温培养期
+			5. _incubation time_ 培养时间；孕育时间；孵化期
+			6. The four stages of creative thought are preparation, incubation, illumination, and verification. /创造性思考的四个阶段是准备、沉思、启迪、求证。
+			7. The average incubation period is eight to ten days. /通常情况下病毒潜伏期为8到10天。
+			8. Another key risk factor with Marburg is the long incubation period. /马尔堡病毒的另一个关键危险因素是潜伏期长。
+			9. 
+	21. incubus
 		1.  [nightmare](dic://nightmare)
 		2. _n._ [devil](dic://devil), [fiend](dic://fiend), [demon](dic://demon), [daemon](dic://daemon), [daimon](dic://daimon), [situation](dic://situation), [unpleasant person](dic://unpleasant person)
 		3. **demon**魔鬼;**vampire**吸血鬼;**demonic**有魔力的，恶魔的;**werewolf**狼人;**vampires**吸血鬼;**malevolent**有恶意的;**demons**守护程序;**evil**邪恶的;**immortal**长生的;**angelic**天使的;**mortal**致命的;
-	17. succubus
+		4. Only when the first assistant hasn't decided to become an incubus of viral plague /前提是第一助理没有变成可怕的病原体。
+		5. Anxious to be rid of his incubus, he walked somewhat faster than his ordinary, and he was already some way through Kensington Gardens when, in a solitary spot among trees, he found himself confronted by the General. /急于摆脱梦魇，他走得比平时快了一些，他已经穿过肯辛顿花园走了一段路，在树林中一个僻静的地方，他发现自己遇到了将军。
+	22. succubus
 		1. _n._ [devil](dic://devil), [fiend](dic://fiend), [demon](dic://demon), [daemon](dic://daemon), [daimon](dic://daimon)
 		2. **demon**魔鬼;**vampire**吸血鬼;**werewolf**狼人;**vampires**吸血鬼;**demonic**有魔力的，恶魔的;**demons**守护程序;**mage**博学者;**witch**巫婆，女巫;**seduction**诱惑;**goddess**女神，受崇拜的女性;**seductive**诱惑的;
-	18. covey
-		1. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [flock](dic://flock)
-		2. **quail**感到恐惧;**birds**鸟类;**flocks**短纤维，废毛铁;**flock**群;**doe**母鹿;**bird**鸟;**hawk**鹰;**geese**鹅;**ducks**薄帆布工作服，帆布裤子;**jay**鸟;**sparrow**麻雀;
-2. hip
+	23. covey
+		1. n. (一)群, 一队
+		2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [flock](dic://flock)
+		3. **quail**感到恐惧;**birds**鸟类;**flocks**短纤维，废毛铁;**flock**群;**doe**母鹿;**bird**鸟;**hawk**鹰;**geese**鹅;**ducks**薄帆布工作服，帆布裤子;**jay**鸟;**sparrow**麻雀;
+8. hip
 
 
 ### + \*keue- + = to swell, vault, hole, arch, cavity
@@ -5453,7 +5502,7 @@
 			1. n. 洞，腔；(牙齿的) 龋洞
 			2. [pit](dic://pit)
 			3. [enclosed space](dic://enclosed space)
-			4.  [caries](dic://caries), [dental caries](dic://dental caries), [tooth decay](dic://tooth decay)
+			4. [caries](dic://caries), [dental caries](dic://dental caries), [tooth decay](dic://tooth decay)
 			5. [bodily cavity](dic://bodily cavity), [cavum](dic://cavum)
 			6. _n._ [hole](dic://hole), [hollow](dic://hollow), [space](dic://space), [decay](dic://decay), [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part)
 				1. [hole](dic://hole) 最普通用词，泛指实体上的洞、孔或坑，不涉及其大小、深浅或穿透与否。  
@@ -5461,15 +5510,15 @@
 				3. [cavity](dic://cavity) 比hole正式，指实体内中或表面的空洞或空腔。  
 				4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。   
 				5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞
-				6. **waveguide**波导管;**orifice**孔口;**diaphragm**膈,隔膜;**chamber**室，膛;**passageway**通道;**aperture**孔，穴;**hole**洞，孔;**casing**盒;**slit**撕裂;**dielectric**电介质;**annular**环形的，有环纹的;
-				7. a cavity in the earth /地下穴洞
-				8. the cavity in a tooth /齿洞
-				9. There's a cavity in the boy's tooth /这个男孩的牙上有一个洞。
-				10. The nasal cavity is one of the busiest dypasses for metaboly of a man /呼吸时，鼻毛先将空气中较大的杂物挡住；
-				11. The pericardium is a pouch or cavity that the heart sits inside of. /心脏位于心包腔中。
-				12. The deposited mineral quickly hardens, completely filling the cavity. /沉积的矿物质迅速固化，将龋齿完全填充。
-				13. Get rid of a cavity? Are you stuck with a cavity once you have it? / 防止蛀牙？你长过蛀牙吗？
-		16. cave-house
+			7. **waveguide**波导管;**orifice**孔口;**diaphragm**膈,隔膜;**chamber**室，膛;**passageway**通道;**aperture**孔，穴;**hole**洞，孔;**casing**盒;**slit**撕裂;**dielectric**电介质;**annular**环形的，有环纹的;
+			8. a cavity in the earth /地下穴洞
+			9. the cavity in a tooth /齿洞
+			10. There's a cavity in the boy's tooth /这个男孩的牙上有一个洞。
+			11. The nasal cavity is one of the busiest dypasses for metaboly of a man /呼吸时，鼻毛先将空气中较大的杂物挡住；
+			12. The pericardium is a pouch or cavity that the heart sits inside of. /心脏位于心包腔中。
+			13. The deposited mineral quickly hardens, completely filling the cavity. /沉积的矿物质迅速固化，将龋齿完全填充。
+			14. Get rid of a cavity? Are you stuck with a cavity once you have it? / 防止蛀牙？你长过蛀牙吗？
+		1. cave-house
 	3. cavelet
 	4. caveman
 	5. cavern
@@ -5545,7 +5594,10 @@
 		10. birdcage
 	10. caveolin
 	11. caviate
-3. **celi-, coeli-** = abdomen
+		1. - [caviar](dic://caviar) n. 鱼子酱
+		2. - [aviate](dic://aviate) vi. 飞行；驾驶飞机 vt. 用飞机飞行
+		3. - [deviate](dic://deviate) v. 偏离；脱离 n. 叛离者；偏差；不正常的人或物 adj. 离经叛道的
+1. **celi-, coeli-** = abdomen
 	1. coelacanth
 		1. _n._ 腔棘鱼
 		2. _adj._ 腔棘鱼类的
@@ -5572,7 +5624,7 @@
 		6. Any deeper, and I would have cut your celiac artery. /再深一点 我就会切断你的腹动脉了。
 		7. Gluten is only harmful to those who are diagnosed with celiac disease /麦胶蛋白仅对被诊断患有乳糜泻的人才是有害的。
 		8. Can you explain the link between **celiac** and infertility /你能解释一下麸质过敏症和不孕症之间的联系吗？
-4. **cumul-** = 堆积，由膨胀引申到强大是church的本意
+2. **cumul-** = 堆积，由膨胀引申到强大是church的本意
 	1. cumulate
 		1. collect or gather
 			1. _synonymous：_ [accumulate](dic://accumulate), [conglomerate](dic://conglomerate), [pile up](dic://pile up), [gather](dic://gather), [amass](dic://amass)
@@ -5582,12 +5634,27 @@
 		5. Plutonic rocks consisting of pyroxene, pigeonite and plagioclase, the source of cumulate eucrites /包括辉石、易变辉石、和斜长石等火成岩，来自于推积性的喷发。
 		6. Maybe that's why it all too " cumulated" in a serious desire to take the " plunge" without " stratosphere" /也许这就是为什么它总是兴奋于在一个没有“平流层”的情况下采取降落的这么严肃的愿望。
 		7. accumulate
-			1. accumulation
-			2. accumulatior
-			3. accumulative
-			4. accumulating
-		8. cumulation, cumulative
-	3. cumulous
+			1. ac- + cumulate【堆积】 → 堆积起来 → 积累。
+			2. accumulate - 气象学有一术语cumulus（积云），是拉丁语借用词，原义为“堆”。accumulate一词源自拉丁语accumulāre，其词根正是这个意为“堆”的cumulus，由ad-加cumulus构成，因此作“积累”或“积聚”解。
+			3. _v._ [store](dic://store), [hive away](dic://hive away), [lay in](dic://lay in), [put in](dic://put in), [salt away](dic://salt away), [stack away](dic://stack away), [stash away](dic://stash away)
+				1. [accumulate](dic://accumulate) 几乎可用于指任何事物量的增加，侧重连续不断地，一点一滴地聚积。  
+				2. [amass](dic://amass) 着重大量地积聚，尤指对如金钱、珠宝等有价值东西的大量积聚。  
+				3. [collect](dic://collect) 普通用词，多用于指物，侧重指有区别地作选择或有安排有计划地把零散物集中起来。  
+				4. [gather](dic://gather) 普通用词，指人或物或抽象事物都可用。侧重于围绕一个中心的集合、聚集。  
+				5. [heap](dic://heap) 主要指把沙、石、煤、草等堆高，不强调整齐。  
+				6. [pile](dic://pile) 着重指比较整齐地把东西堆积在一起。
+			4. **accrue**自然增加;**collect**收集;**excess**超过;**accrued**应计的;**earn**获得，挣得;**expend**花费;**dissipate**驱散;**absorb**吸收;**replenish**补充;**discard**丢弃;**multiply**乘;
+			5. accumulation
+			6. accumulatior
+			7. accumulative
+			8. accumulating
+		15. cumulation
+			1. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
+			2. **accumulation**积聚;**consequent**作为结果的;**resultant**因而发生的, 必然产生的;**concomitant**相伴的;**consequence**结果, 后果;**culmination**顶点;
+			3. You make a five minute video and the cumulation is that there’s a road with signs using metric? /你制作了一个五分钟的视频，结果是有一条道路上有使用公制的标志？
+			4. Jason told him, his sense of injury and impotence feeding upon its own sound, so that after a time he forgot his haste in the violent cumulation of his self justification and his outrage. /杰森告诉他， 他的受伤感和无能为力自发地滋养着自己的声音， 所以过了一段时间， 他忘记了自己在自我辩解和愤怒的猛烈累积中的匆忙。
+		16. cumulative
+	2. cumulous
 		1. adj. 积云状的
 		2. thrown together in a pile
 			1. _synonymous：_ [heaped](dic://heaped), [heaped-up](dic://heaped-up), [piled](dic://piled)
@@ -5599,7 +5666,7 @@
 		8. cumulonimbus
 			1. Cumulonimbus cloud 积雨云
 		9. cumulostratus
-	5. cumulus
+	3. cumulus
 		1. n. 积云；堆积；堆积物
 		2.  [cumulus cloud](dic://cumulus cloud)
 		3.  [pile](dic://pile), [heap](dic://heap), [mound](dic://mound), [agglomerate](dic://agglomerate), [cumulation](dic://cumulation)
@@ -5608,9 +5675,9 @@
 		6. This will be just fair-weather cumulus on our way back to Florida. /这只是我们返回佛罗里达州途中的天气晴朗的积云。
 		7. At the dentist's, he hovered near the ceiling. As a test pilot, he found secret spaces in cumulus clouds /在牙科诊所，他盯着天花板发呆。当试飞员时，他在积云中发现了秘密空间。
 		8. Besides the periodical shower-bearing cumuli there is a thin, diffused, fog-like cloud overhead. /除了周期性的阵雨积云外， 头顶上还有一层薄薄的、弥散的、雾状的云。
-	7. cumulite
-	8. cumulophyric
-5. **cy-, cyes-** = pregnancy, 
+	4. cumulite
+	5. cumulophyric
+3. **cy-, cyes-** = pregnancy, 
 	1. cyesis
 		1. \[美 /saɪ'isɪs/\]
 		2. n. [妇产] 怀孕；[妇产] 妊娠
@@ -5626,7 +5693,7 @@
 		1. 【医】 妊娠诊断
 	6. cyesedema
 		1. 【医】 妊娠水肿
-6. **cym-** = 波纹
+4. **cym-** = 波纹
 	1. cyme
 	2. cymene
 	3. cymometer
@@ -5634,11 +5701,11 @@
 	5. cymose
 	6. cymous
 	7. kymograph
-7. **cymb-** = “凹舟状”
+5. **cymb-** = “凹舟状”
 	1. cymbal
 	2. cymbiform
-8. **koil-** = hollow, "空"
-9. church
+6. **koil-** = hollow, "空"
+7. church
 	1. 来自 PIE*keue,膨胀，增强，词源同 cumulative,accumulate.词义由膨胀外延到强大，强壮，上帝，上帝的世俗所在，其方言变体 kirk.
 	2. n. 教堂, 礼拜, 教会  
 	3. vt. 使人接受宗教仪式  
@@ -5667,7 +5734,7 @@
 		1. _n._ [religious person](dic://religious person)
 		2. **devout**虔诚的;**pastor**牧师;**preacher**传教士;**evangelical**福音的;**clergyman**牧师;**atheist**无神论者;**church**教堂;**vicar**教区牧师，教堂牧师;**congregation**人群;**deacon**执事;**Pentecostal**圣灵降临节的;
 	17. Christchurch
-10. enceinte
+8. enceinte
 	1. 医】 妊娠的
 
 
@@ -5687,28 +5754,50 @@
 	3. clavacin
 3. **clav-** 表示“锁，锁骨”，原意为钩状的钥匙。我们认为锁骨是守护胸腔的“锁”，而在古罗马人眼中锁骨更像一把打开胸腔的“钥匙”。源自拉丁语 clavis "key."
 	1. autoclave
-		1. **sterilization**杀菌,绝育;**incubator**孵卵器;**pressurized**加压;**laboratory**实验室;**flask**烧瓶;**boiler**锅炉;**refrigeration**制冷;**vacuum**真空;**reactor**反应堆;**fermentation**发酵;**extrusion**挤出,推出,喷出,赶出;
-		2. _n._ [vessel](dic://vessel)
-		3. _v._ [sterilize](dic://sterilize), [sterilise](dic://sterilise)
-	2. clavichord
-		1. **piano**钢琴;**violin**小提琴;**cello**大提琴;**pianos**钢琴;**violins**小提琴;**oboe**双簧管;**harp**竖琴;**concerto**协奏曲;**mandolin**曼陀林;**guitar**吉他，六弦琴;**instrument**仪器;
-		2. _n._ [stringed instrument](dic://stringed instrument)
-	3. clavicle (collarbone)
-		1. [collarbone](dic://collarbone)
-		2. **femur**股骨;**pelvis**骨盆;**forearm**前臂;**wrist**腕关节;**bone**骨;**shoulder**肩，肩膀;**vertebrae**椎骨;**ankle**踝关节，踝;**thigh**大腿，股;**fracture**破裂，断裂;**rib**肋骨;
-		3. **ankle**踝关节，踝;**wrist**腕关节;**neck**脖子;**thigh**大腿，股;**shoulder**肩，肩膀;**groin**腹股沟;**knee**膝盖，膝;**forearm**前臂;**pelvis**骨盆;**femur**股骨;**leg**腿;
-		4. clavicular
-		5. subclavian
+		1. n. 高压消毒锅, 高压锅  v. 使用高压蒸气灭菌器
+		2. **sterilization**杀菌,绝育;**incubator**孵卵器;**pressurized**加压;**laboratory**实验室;**flask**烧瓶;**boiler**锅炉;**refrigeration**制冷;**vacuum**真空;**reactor**反应堆;**fermentation**发酵;**extrusion**挤出,推出,喷出,赶出;
+		3. _n._ [vessel](dic://vessel)
+		4. _v._ [sterilize](dic://sterilize), [sterilise](dic://sterilise)
+	3. clavichord
+		1. n. 击弦古钢琴
+		2. **piano**钢琴;**violin**小提琴;**cello**大提琴;**pianos**钢琴;**violins**小提琴;**oboe**双簧管;**harp**竖琴;**concerto**协奏曲;**mandolin**曼陀林;**guitar**吉他，六弦琴;**instrument**仪器;
+		3. _n._ [stringed instrument](dic://stringed instrument)
+	5. clavicle (collarbone)
+		1. n. 锁骨
+		2. 1.clavicle（锁骨）：连接肩膀的关键  
+		3. 古代西方人认为，锁骨是连接人体两侧肩膀的骨头，故在拉丁语中称其为clavicula，是clavis（关键）的指小形式。英语单词clavicle就来自拉丁语clavicula，同源词有clavier（键盘）。  
+		4. clavicle：['klævəkl] n.锁骨  
+		5. clavier：[klə'vɪr] n.键盘，键盘乐器  
+		6. 2.conclave（秘密会议）：在封闭房间里选举教皇的秘密会议  
+		7. 在中世纪，欧洲教会和各国王室从未停止过对最高统治权的争夺。为了避免国王干涉教皇选举，1274年，罗马教皇格里高利五世颁布一道法令，要求在未来的教皇选举中，参加选举的红衣主教们将在一个封闭房间里开会选举。为了避免外界干涉，开会的房间将上锁，直到新教皇产生才开锁。因此，这种选举教皇的方式在拉丁语中就被称为conclave，由con（一道）和clave（钥匙）组成，字面意思就是“锁到一起”。该词后来进入英语，除了表示“教皇选举会议”外，还引申出“秘密会议”之意。  
+		8. 同样含有clave（钥匙）的单词有clavicle（锁骨），字面意思就是small key（小钥匙，小键）。  
+		9. conclave：['kɒŋkleɪv] n.秘密会议，教皇选举会议  
+		10. clavicle：['klævəkl] n.锁骨
+		11. [collarbone](dic://collarbone)
+		12. **femur**股骨;**pelvis**骨盆;**forearm**前臂;**wrist**腕关节;**bone**骨;**shoulder**肩，肩膀;**vertebrae**椎骨;**ankle**踝关节，踝;**thigh**大腿，股;**fracture**破裂，断裂;**rib**肋骨;
+		13. **ankle**踝关节，踝;**wrist**腕关节;**neck**脖子;**thigh**大腿，股;**shoulder**肩，肩膀;**groin**腹股沟;**knee**膝盖，膝;**forearm**前臂;**pelvis**骨盆;**femur**股骨;**leg**腿;
+		14. clavicular
+		15. subclavian
 			1. **venous**静脉的;**carotid**颈动脉的;**femoral**股骨的;**artery**动脉;**ventricle**室,脑室,心室;**aortic**大动脉的;**thoracic**胸的;**aorta**主动脉;**coronary**冠状的;**catheter**导管;**thrombosis**血栓形成;
-	4. clavier
+	7. clavier
 		1.  [piano keyboard](dic://piano keyboard), [fingerboard](dic://fingerboard)
 		2. **piano**钢琴;**keyboard**键盘;**violin**小提琴;**concerto**协奏曲;**pianos**钢琴;**oboe**双簧管;**virtuoso**艺术品鉴赏家;**flute**长笛;**viola**中提琴，中提琴演奏者;**Bach**巴赫;**clarinet**单簧管;
-	5. conclave
-		1. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**convened**集合;
-	6. enclave
-		1. _n._ [district](dic://district), [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
-		2. **outpost**前哨;**suburb**郊区;**oasis**绿洲;**neighborhood**地区;**hideaway**潜伏处;**stronghold**要塞;**hilltop**小山顶;**affluent**富裕的;**suburban**土气的;**upscale**高消费的;**secluded**隐退的，隐居的;
-	7. clef
+	8. conclave
+		1. n. 秘密会议, 教皇选举会议, 红衣主教团
+		2. con-强调 + clav-钥匙，锁匙，即锁住的房间，原指主教聚集在一起选举教皇的会议。
+		3. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**convened**集合;
+		4. _n._ [meeting](dic://meeting), [group meeting](dic://group meeting)
+		5. **pope**教皇，罗马教皇;**papal**罗马教皇的;**Vatican**罗马教廷;**convened**集合;
+		6. Cardinals will hold a conclave to decide on Benedict's successor. /红衣主教将举行秘密会议选举本笃十六世的接任者。
+		7. They denounced Urban as a usurper and held a new conclave to elect Pope Clement VII. /他们谴责乌尔巴诺是篡夺者，并展开新一轮秘密会议，推选教皇克莱孟七世。
+		8. Local officials pressured cardinals to choose an Italian pope, while rowdy mobs raided the conclave and plundered the papal wine cellar. /地方官员给红衣主教施压，使其选择意大利教皇，而暴徒们则突袭了会议厅，并洗劫了教会酒窖。
+		9. 
+	9. enclave (exclave)
+		1. n. 被包围的领土
+		2.  en-,进入，使，-clave,钥匙，锁住，词源同 clavicle,conclave,close.
+		3. _n._ [district](dic://district), [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
+		4. **outpost**前哨;**suburb**郊区;**oasis**绿洲;**neighborhood**地区;**hideaway**潜伏处;**stronghold**要塞;**hilltop**小山顶;**affluent**富裕的;**suburban**土气的;**upscale**高消费的;**secluded**隐退的，隐居的;
+	10. clef
 		1. **chord**弦;**treble**三倍的;
 		2. 
 4. **cleid-, cleido-** 表示“锁骨”，用于医学专业。源自希腊语 kleis (词干 kleid-) "key."
@@ -5845,19 +5934,11 @@
 			4. _[preclude sb from doing sth](dic://preclude%20sb%20from%20doing%20sth)_  阻止某人做某事
 		6. preclusion
 		7. preclusive
-	11. seclude (recluse, claustral)
-		1. se-分开 + clud-关闭 + -e → 分开关 → 隐居的。
-		2.  [sequester](dic://sequester), [sequestrate](dic://sequestrate), [withdraw](dic://withdraw)
-		3. _v._ [isolate](dic://isolate), [insulate](dic://insulate)
-		4. **seclusion**隔绝,隔离,隐居;**confine**限制;**solitude**孤独;**isolate**使孤立;**tranquil**安静的，平静的;**oneself**自己;**detach**分离;**quiet**安静的;**relax**放松，休息;**immerse**沉浸;**hideaway**潜伏处;
-		5. _[seclude from the world](dic://seclude%20from%20the%20world)_  与世隔绝
-		6. seclusion
-		7. seclusive
-	12. disclose
-		1. dis-打开 + clos-关 + -e → 把关的打开 → 揭发。
-		2. undisclosed
-		3. disclosure
-	13. enclose
+	11. disclose
+		9. dis-打开 + clos-关 + -e → 把关的打开 → 揭发。
+		10. undisclosed
+		11. disclosure
+	12. enclose
 		1. en-进入 + clos-关 + -e → 被关起来 → 包围。
 		2. [envelop](dic://envelop), [enfold](dic://enfold), [enwrap](dic://enwrap), [wrap](dic://wrap)
 		3. [hold in](dic://hold in), [confine](dic://confine)
@@ -5922,8 +6003,16 @@
 		7. The necessary occupation of a ditcher prepares him to work in the trenches, and to fortify a camp, as well as to inclose a field. /挖沟工的必要职业使他准备好在战壕里工作， 加固营地，以及封闭一块田地。
 		8. inclosure
 			1. **enclosure**圈占, 围绕;**churchyard**墓地,境内;**enclosed**被附上的;**aforesaid**上述的;**enclose**围绕;**meadow**草地;**manor**庄园;**pasture**牧场;**boundary**分界线;
-	18. recloser
-	19. recluse (seclude, claustral)
+	18. seclude (recluse, claustral)
+		1. se-分开 + clud-关闭 + -e → 分开关 → 隐居的。
+		2.  [sequester](dic://sequester), [sequestrate](dic://sequestrate), [withdraw](dic://withdraw)
+		3. _v._ [isolate](dic://isolate), [insulate](dic://insulate)
+		4. **seclusion**隔绝,隔离,隐居;**confine**限制;**solitude**孤独;**isolate**使孤立;**tranquil**安静的，平静的;**oneself**自己;**detach**分离;**quiet**安静的;**relax**放松，休息;**immerse**沉浸;**hideaway**潜伏处;
+		5. _[seclude from the world](dic://seclude%20from%20the%20world)_  与世隔绝
+		6. seclusion
+		7. seclusive
+	19. recloser
+	20. recluse (seclude, claustral)
 		1. n. 隐士；隐居者 
 		2. adj. 隐居的
 		3. re-返回 + clus-关闭 + -e → 返回[家中]关起来 → 隐居。
@@ -5937,26 +6026,29 @@
 		11. Or you don't want the herd anymore, and you become a recluse. /或者你不想再要群体了，你成了一个隐士。
 		12. A recluse is a person who lives alone away from the world and avoids other people. /隐士就是一个离群索居的人。
 		13. reclusive
-			1. **secretive**遮遮掩掩的,守口如瓶的,秘密的;**eccentric**古怪的, 怪癖的;**enigmatic**谜的;**hermit**隐士;**mysterious**神秘的;**aloof**冷淡的;**estranged**疏远的;**neurotic**神经过敏的;**brooding**沉思的;**solitary**孤独的;**introvert**个性内向者;
+			1. recluse【隐遁的】 + -ive, 表形容词，是单词recluse 派生的形容词。
+			2. _adj._ [unsocial](dic://unsocial), [private](dic://private)
+			3. **secretive**遮遮掩掩的,守口如瓶的,秘密的;**eccentric**古怪的, 怪癖的;**enigmatic**谜的;**hermit**隐士;**mysterious**神秘的;**aloof**冷淡的;**estranged**疏远的;**neurotic**神经过敏的;**brooding**沉思的;**solitary**孤独的;**introvert**个性内向者;
+			4. 
 	21. unclose
 		1. vt. 打开；揭露 vi. 打开，开
 		2. By degrees, other shops began to be unclosed, and a few scattered people were met with. /渐渐地，其他店铺也开始开门营业，接见了几个零散的人。
-	23. cloisonne
+	22. cloisonne
 		1. **porcelain**瓷, 瓷器;**enamel**珐琅;**brooch**胸针，领针;**ceramic**陶器的;**lacquer**涂漆;**pewter**锡铅合金,白镴;**pottery**陶器;**jade**碧玉;**vase**花瓶;**antique**古老的，年代久远的;**ornate**华丽的;
 		2. [adorned](dic://adorned), [decorated](dic://decorated)
 		3. [enamelware](dic://enamelware)
-	24. cloister
+	23. cloister
 		1. **convent**女修道院;**monastery**修道院;**abbey**大修道院，大寺院;**monastic**僧侣;**chapel**小教堂;**cathedral**大教堂;**courtyard**庭院, 院子;**basilica**长方形会堂;**nave**中殿;**abbot**男修道院院长;**Romanesque**罗马式的;
 		2. [residence](dic://residence), [court](dic://court), [courtyard](dic://courtyard)
 		3. [surround](dic://surround), [environ](dic://environ), [encircle](dic://encircle), [circle](dic://circle), [round](dic://round), [ring](dic://ring), [isolate](dic://isolate)
 		4. [religious residence](dic://religious residence)
-	25. claustral
+	24. claustral
 		1. claustr-关闭 + -al
 		2. _adj._ 修道院的,隐遁的
 		3. _[claustral recluse reclusive](dic://claustral%20recluse%20reclusive)_ 隐遁的
 		4. _[claustral cloistral monasterial](dic://claustral%20cloistral%20monasterial)_ 修道院的
 		5. claustrophobia, claustrophobic
-	26. sluice
+	25. sluice
 		1. 来自早期拼写 scluse,来自古法语 escluse,来自拉丁语 exclusa,水闸，闸门，来自 ex-,向外，-claus,关闭，阻挡，词源同 close,conclusion.引申动词词义冲洗，流泻。
 		2. n. 水门, 水闸, 蓄水  
 		3. vt. 泄洪, 冲洗  vi. 奔流
@@ -6034,10 +6126,23 @@
 	5. climb
 	6. clinometer
 	7. decline
-		1. declivity
-		2. declivous
-	8. incline
-	9. recline
+		1. n. 衰退, 跌落, 下降  
+		2. vt. 使降低, 婉谢  
+		3. vi. 下降, 衰落, 偏斜
+		4. declivity
+		5. declivous
+	9. incline
+		1. n. 倾斜, 斜坡, 斜面  
+		2. vt. 使倾向于, 使倾斜  
+		3. vi. 倾向, 倾斜, 爱好, 易于
+		4. inclinometer
+		5. inclined
+		6. inclination
+		7. inclinable
+		8. disincline
+			1. disinclined
+			2. disinclination
+	10. recline
 		1. vt. 使斜靠  
 		2. vi. 靠, 斜倚, 依赖
 		3. reclinate
@@ -6052,10 +6157,10 @@
 		12. During your flight, you can recline your seat, and lean back. /在你的飞行过程中，你可以倾斜你的座位，向后倾斜。
 		13. They said rich countries will recline out to provide cash and cut emissions. /他们表示，富裕国家应该提供现金，减少碳排放。
 		14. He believed that the desert wind, shaped a natural land form to resemble a reclining sphinx. /他认为，沙漠中的风塑造出了一个自然地形，就像一个躺着的狮身人面像。
-	10. syncline
+	11. syncline
 		1. synclinal
 		2. synclinorium
-	11. clemency, clement
+	12. clemency, clement
 		1. clem-=clin-倾斜 + -ent表形容词，引申词义倾向的，仁慈的。
 		2. **pardon**原谅;**parole**誓言;**amnesty**大赦，特赦;**forgiveness**宽恕;**mercy**仁慈，宽容;**extradition**引渡逃犯;**asylum**庇护;**judicial**法庭的;**plea**恳求，请求;**reprieve**缓期执行;**appeals**上诉;
 		3. [mildness](dic://mildness)
@@ -6074,9 +6179,9 @@
 			6. They leave to the sun and the moon their journey, to the stars their courses, to the seasons their blessing and their inclemency; /他们离开到太阳和月亮他们的旅程,到星他们的课程,到季节他们的祝福和他们的险恶;
 			7. Agnes alone was insensible of the inclemency of the Air, and before eleven joined me at the spot which had witnessed our former interview. /只有艾格尼丝对空气的恶劣没有感觉， 并在十一点之前与我会合， 那里目睹了我们之前的会面。
 			8. He walked swiftly, then stopped, and seemed to listen: He stamped upon the ground, and beat his stomach with his arms as if to guard himself from the inclemency of the season. /他快步走着，然后停了下来，似乎在倾听：他跺着脚，用胳膊捶着肚子，好像是为了抵御这个季节的恶劣天气
-	12. proclitic
+	13. proclitic
 		1. adj. 后接的；后接发音的; n. 后接词;
-	13. proclivity
+	14. proclivity
 		1. (predilection, propensity, penchant, proclivity, )
 		2.  pro-,向前，-cliv,倾斜，词源同 acclivity,lean.引申词义倾向，癖好。
 		3. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
@@ -6084,7 +6189,7 @@
 		5. a proclivity for self-assertiveness; /一意孤行的癖性；
 		6. Your leg still jiggles to " I Want You Back" , despite what you know about Michael Jackson's proclivities. /尽管你知道迈克尔·杰克逊的不良癖好，但你听到" 我想要你回来" 时还是会开始抖腿。
 		7. But with someone of his generation who shares the same proclivities? /但是和一个与他年龄相当有共同喜好的人呢？
-	14. declension
+	15. declension
 		1.  de-,向下，-clen,弯，转，词源同 lean,incline.用于语法格指词形变化。
 		2. n. 词形变化, 变格, 倾斜, 衰退
 		3. _n._ [inflection](dic://inflection), [inflexion](dic://inflexion), [decline](dic://decline), [diminution](dic://diminution), [slope](dic://slope), [incline](dic://incline), [side](dic://side)
@@ -6092,7 +6197,7 @@
 		5. I can look up specifics of, you know, Ukrainian noun declensions, or anything really that you need to look up, you can look it up. /我可以查一下乌克兰语名词变格的细节，或者任何你真正需要查的东西，你都可以查一下。
 		6. But the rate of profit does not, like rent and wages, rise with the prosperity, and fall with the declension of the society /但是利润率并不像地租和工资一样，随着社会的繁荣而上升，而随着社会的衰落而下降。
 		7. Portugal, however, is but a very small part of Europe, and the declension of Spain is not, perhaps, so great as is commonly imagined. /然而，葡萄牙只是欧洲的一小部分，而西班牙的衰落也许并不像通常想象的那么大。
-	15. etc...
+	16. etc...
 3. **clin-** = bed, 表示“床”。源自希腊语 cline "bed."
 	1. clinic
 		1. polyclinic
@@ -6108,6 +6213,10 @@
 	3. triclinium
 	4. diclinous
 4. client
+	1. client（客户）：置于贵族保护下的平民  
+	2. 很多人区分不清英语单词client（客户）和customer（顾客）之前的区别。了解到client的词源后就不必担心这个问题了。英语单词client来自拉丁语clientem（追随者、家臣），而后者又来自拉丁语动词cluere（倾听、服从、跟随）。在古罗马时期，clientem指的是置身于某一贵族保护下的平民。作为代价，这些平民必须服从贵族，听候贵族的差遣，因此被称为clientem，意思就是“服从者、追随者”。刚进入英语时，client专指律师的客户，因为在法律事务上，客户必须听从律师的建议，就像是古代平民听从贵族的命令一样。因此，client在用作“客户”时，通常指的是律师、医生、咨询顾问等专业人士的客户，通常会尊重并听从这些专业人士的建议。因此client还可译为“委托人”，而customer一般译为“顾客”，原意是“经常惠顾（custom）的人”。与client同源的单词是clientele（客户）。  
+	3. client：['klaɪənt] n.客户，顾客，委托人  
+	4. clientele：['klaɪən'tɛl] n.客户，诉讼委托人
 5. climax
 6. ladder
 7. lean

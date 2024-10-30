@@ -20,93 +20,94 @@
 
 
 ### + \*tag- + = to touch, to handle; border on; taste, partake of; strike, hit
-- **contamin-  = to pollute, con + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
-	- contaminant, contaminate
-		- contamination, decontamination
-- **integr- = whole, in + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
-	- integral, integrant, integrate
-		- reintegrate
-		- intergrative
-	- integrity
-	- entire
-	- integer
-- **tact-, tag-, tig-, ting- = to touch**
-	- tact
-		- tactic 
-		- tactless (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
-			- tact【机智】 + -less无，没有
-			- a. 不机智的, 不机敏的
-			- [untactful](dic://untactful)
-			- [inept](dic://inept)
-			- _adj._ [maladroit](dic://maladroit)
-			- _n._ [tactful](dic://tactful), [adroit](dic://adroit)
-			- **rude**粗鲁的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**insensitive**不敏感的;**callous**起老茧的;**arrogant**自大的，傲慢的;**sarcastic**讽刺的;**disrespectful**失礼的,无礼的;**obnoxious**可憎的;**pompous**浮夸的;**snarky**恶声恶气的，咬人的;
-		- tactician
-			- tactful
-	- tactile
-		- dermotactile
-		- tectilogical
-		- tactual
-	- contact, contingence
-		- contingency
-		- contingent
-			- (ancillary, incidental, contingent, )
-			- _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [military unit](dic://military unit), [military force](dic://military force), [military group](dic://military group), [force](dic://force)
-			- _adj._ [possible](dic://possible), [conditional](dic://conditional), [uncertain](dic://uncertain)
-			- _n._ [impossible](dic://impossible), [unconditional](dic://unconditional), [certain](dic://certain), [sure](dic://sure)
-			- **contingency**偶然发生的事故,意外事故;**cadre**干部;**sizable**相当大的;**sizeable**大的，相当大的;**troop**军队;**dependent**依靠的;**garrison**守备部队, 卫戍部队;**troops**部队;**battalion**营;
-			- _contingent on_ 视…而定；取决于…
-			- _contingent claim_ 未定权益；或有求偿权；附带要求
-			- _contingent liability_ 或有负债；不确定债务；临时负债
-			- a contingent was departing from Cairo. /一支小分队正从开罗出发。
-			- A defeasible interest is insurable, as also is a contingent interest. /可撤销的利益是保险利益，偶然的利益亦然。
-	- intact
-	- contagion
-		- contagiosity, 
-		- contagious
-		- contagium
-		- contiguity, contiguous
-	- tangent, tangency, tangible
-		- tangential
-			- _adj._ [irrelevant](dic://irrelevant), [tangent](dic://tangent)
-			- _n._ [relevant](dic://relevant)
-			- **tangent**切线的，相切的;**trivial**不重要的，琐碎的;**oblique**间接的;**extraneous**外部的,外来的;**unrelated**无关的, 不相关的;**hyperbolic**双曲线的;**irrelevant**不相干的,不相关的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**salient**突出的;**radial**半径的;**pertinent**有关的;
-			- _tangential velocity_ 切向速度
-			- _tangential direction_ 切线方向
-			- _tangential stress_ 切线应力
-			- _tangential force_ 切线力，切向力
-			- _tangential component_ 切线分量；切向分量
-			- _tangential strain_ 切向应变
-		- subtangent, cotangent, 
-		- intangible
-	- tack
-		- tintack
-		- thumbtack
-		- tacky, takify
-		- tacker
-		- hardtack
-	- take
-		- ==uptake, undertake, partake, overtake, offtake, mistake, intake, downtake, betake== 
-		- takeup, takeover, takeout, takeoff, takeaway
-		- breathtaking, painstaking
-	- tango
-		- **dance**舞蹈;**waltz**跳华尔兹舞;**ballet**芭蕾舞剧;**dancing**舞蹈;**salsa**①萨尔萨舞曲②沙司，调味汁;**dancer**舞女;**dancers**舞蹈家;**jazz**爵士乐，爵士舞;**cabaret**卡巴莱歌舞表演;**choreography**舞台舞蹈设计;**Argentinian**阿根廷人;
-		- [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
-		- [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
-		- 
-	- tangram
-- **tact-, tax-, = arrangement, -taxis = tend to ..**
-	- chemotaxis, hypotaxis, phototaxis, rheotaxis, thermotaxis
-		- chemotactic, phototactic, thermotaxic
-	- parataxis, paratactic, 
-	- ataxia, ataxic
-		- psychataxia
-	- syntax
-		- syntactic
-	- taxidermal, taxidermy
-	- taxology, taxonomy
-- task
-- tax
+1. **contamin-  = to pollute, con + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
+	1. contaminant, contaminate
+		1. contamination, decontamination
+2. **integr- = whole, in + tag; (tassein, tattein, 「ancient Greeks」 "to arrange", taxis, "arrangement")**
+	1. integral, integrant, integrate
+		1. reintegrate
+		2. intergrative
+	2. integrity
+	3. entire
+	4. integer
+3. **tact-, tag-, tig-, ting- = to touch**
+	1. tact
+		2. tactic 
+		3. tactless
+			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+			2. tact【机智】 + -less无，没有
+			3. a. 不机智的, 不机敏的
+			4. - [untactful](dic://untactful)
+			5. [inept](dic://inept)
+			6. _adj._ [maladroit](dic://maladroit)
+			7. _n._ [tactful](dic://tactful), [adroit](dic://adroit)
+			8. **rude**粗鲁的;**crass**粗鲁的;**condescending**降低身份的,屈尊的;**insensitive**不敏感的;**callous**起老茧的;**arrogant**自大的，傲慢的;**sarcastic**讽刺的;**disrespectful**失礼的,无礼的;**obnoxious**可憎的;**pompous**浮夸的;**snarky**恶声恶气的，咬人的;
+		4. tactician
+			1. tactful
+	2. tactile
+		1. dermotactile
+		2. tectilogical
+		3. tactual
+	3. contact, contingence
+		1. contingency
+		2. contingent
+			1. (ancillary, incidental, contingent, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+			2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [military unit](dic://military unit), [military force](dic://military force), [military group](dic://military group), [force](dic://force)
+			3. _adj._ [possible](dic://possible), [conditional](dic://conditional), [uncertain](dic://uncertain)
+			4. _n._ [impossible](dic://impossible), [unconditional](dic://unconditional), [certain](dic://certain), [sure](dic://sure)
+			5. **contingency**偶然发生的事故,意外事故;**cadre**干部;**sizable**相当大的;**sizeable**大的，相当大的;**troop**军队;**dependent**依靠的;**garrison**守备部队, 卫戍部队;**troops**部队;**battalion**营;
+			6. _contingent on_ 视…而定；取决于…
+			7. _contingent claim_ 未定权益；或有求偿权；附带要求
+			8. _contingent liability_ 或有负债；不确定债务；临时负债
+			9. a contingent was departing from Cairo. /一支小分队正从开罗出发。
+			10. A defeasible interest is insurable, as also is a contingent interest. /可撤销的利益是保险利益，偶然的利益亦然。
+	4. intact
+	5. contagion
+		1. contagiosity, 
+		2. contagious
+		3. contagium
+		4. contiguity, contiguous
+	6. tangent, tangency, tangible
+		1. tangential
+		2. _adj._ [irrelevant](dic://irrelevant), [tangent](dic://tangent)
+		3. _n._ [relevant](dic://relevant)
+		4. **tangent**切线的，相切的;**trivial**不重要的，琐碎的;**oblique**间接的;**extraneous**外部的,外来的;**unrelated**无关的, 不相关的;**hyperbolic**双曲线的;**irrelevant**不相干的,不相关的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**salient**突出的;**radial**半径的;**pertinent**有关的;
+		5. _tangential velocity_ 切向速度
+		6. _tangential direction_ 切线方向
+		7. _tangential stress_ 切线应力
+		8. _tangential force_ 切线力，切向力
+		9. _tangential component_ 切线分量；切向分量
+		10. _tangential strain_ 切向应变
+		11. subtangent, cotangent, 
+		12. intangible
+	7. tack
+		1. tintack
+		2. thumbtack
+		3. tacky, takify
+		4. tacker
+		5. hardtack
+	8. take
+		1. ==uptake, undertake, partake, overtake, offtake, mistake, intake, downtake, betake== 
+		2. takeup, takeover, takeout, takeoff, takeaway
+		3. breathtaking, painstaking
+	9. tango
+		1. **dance**舞蹈;**waltz**跳华尔兹舞;**ballet**芭蕾舞剧;**dancing**舞蹈;**salsa**①萨尔萨舞曲②沙司，调味汁;**dancer**舞女;**dancers**舞蹈家;**jazz**爵士乐，爵士舞;**cabaret**卡巴莱歌舞表演;**choreography**舞台舞蹈设计;**Argentinian**阿根廷人;
+		2. [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
+		3. [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
+		4. 
+	10. tangram
+4. **tact-, tax-, = arrangement, -taxis = tend to ..**
+	1. chemotaxis, hypotaxis, phototaxis, rheotaxis, thermotaxis
+		2. chemotactic, phototactic, thermotaxic
+	2. parataxis, paratactic, 
+	3. ataxia, ataxic
+		1. psychataxia
+	4. syntax
+		1. syntactic
+	5. taxidermal, taxidermy
+	6. taxology, taxonomy
+5. task
+6. tax
 
 
 ### + \*tak- + = to be silent
@@ -965,14 +966,18 @@
 		3. [dwell](dic://dwell), [consist](dic://consist), [lie](dic://lie), [belong](dic://belong), [lie in](dic://lie in)
 		4. **relating**关联的;**relate**联系起来;**concerning**关于，涉及，就…而言;**related**讲述的，叙述的;**regarding**关于， 至于;**correspond**相符合, 相一致;**pertinent**有关的;**belong**属于，应归入;**specifically**特有地, 特定地, 具体地;**indicate**指出;**specific**特殊的，特定的;
 		5. pertinent
-		6. impertinent
-			1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous)
-			2. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
-			3. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
-			4. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
-			5. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
-			6. [spiritless](dic://spiritless), [relevant](dic://relevant), [backward](dic://backward)
-			7. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
+		6. impertinent (impertinent, impendence, impenitent, impenetrable, )
+			1. a. 鲁莽的, 无礼的, 粗鲁的; <正式>不切题的, 不恰当的
+			2. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy)
+			3. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
+			4. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
+			5. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
+			6. [spirited](dic://spirited), [irrelevant](dic://irrelevant), [forward](dic://forward)
+			7. [spiritless](dic://spiritless), [relevant](dic://relevant), [backward](dic://backward)
+			8. **inane**愚蠢的;**vulgar**粗俗的;**frivolous**不重要的,不必要的;**foolish**愚蠢的;**daft**愚蠢可笑的;**rude**粗鲁的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**obnoxious**可憎的;**silly**愚蠢的;
+			9. She is too free with her tongue and is rather impertinent to people. /她讲话太随便, 对人相当无礼。
+			10. Nature says, he is my creature, and maugre all his impertinent griefs, he shall be glad with me. /大自然说，他是我的孩子，尽管有再多莫名的痛苦，他和我在一起终究会快乐。
+			11. " Having refused what I considered an impertinent request, I could see that my personal safety was in jeopardy." /“我拒绝了我认为是鲁莽的请求。我清楚地知道我正处在危险之中。”
 	12. retain
 		1. [continue](dic://continue), [keep](dic://keep), [keep on](dic://keep on), [keep going](dic://keep going)
 		2. [hold](dic://hold), [keep back](dic://keep back), [hold back](dic://hold back)
@@ -1006,31 +1011,31 @@
 		6. incontinent, incontinency
 			1. [leaky](dic://leaky)
 			2. **incontinence**失禁;**bladder**膀胱;**smelly**有臭味的，发臭的;**geriatric**老年医学的;**pee**尿;**demented**发狂的，疯狂的;**incompetent**无能力的;**soiled**脏的，被弄脏的;**irritable**易怒的, 急躁的;
-	18. continue
+	17. continue
 		1. con-全部 + tin-拿住 + ue → 全部拿住 → 做事做到尾 → 继续。
-	19. hypotenuse
+	18. hypotenuse
 		1. 直角三角形的斜边叫hypotenuse [haɪ'pɒtənjuːz; -s]，前缀hypo与subway中的sub同源，表在...之下 ，词根ten表示to stretch,to hold，与古英语词源的thin同源。不说复杂的语法成分，hypotenuse的字面意思就是“a stretching under" (the right angle)”，即直角下（与直角相对）的一条延伸线。
 		2. hypo-在下 + ten-展开 + -use，即在下面展开的，用于数学名词弦，即最长的边。
 		3. n. (直角三角形之)斜边
 		4. **triangle**三角;**rectangle**长方形, 矩形;**perpendicular**垂直的;**vertices**至高点;**triangular**三角形的;**vertex**顶点;**diagonal**对角线的;**equation**方程式，等式;
 		5. _n._ [flank](dic://flank)
 		6. ratio of the hypotenuse to the adjacent side /直角三角形的斜边与一个角的邻边之比
-	20. pertinacity
+	19. pertinacity
 		1. n. 执拗, 顽固, 顽强, (疾病的)难治
 		2. per-完全的 + tin-抓住，握住 + -acity
 		4. [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 		5. [docile](dic://docile)
 		6. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
-	21. pertinacious
+	20. pertinacious
 		1. (adamant, stubborn, obdurate, tenacious, steadfast, intransigence, fortitude, inexorable, impenetrable, pertinacious, obstinate, persevere, unregenerate, )
 		2. _adj._ [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 		3. _n._ [docile](dic://docile)
 		4. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
-	23. retinue
+	21. retinue
 		1. **entourage**随行人员;**consort**结交;**bodyguard**警卫员;**knights**骑兵，骑士;**palace**宫殿;**companions**同伴;**army**陆军，军队;**nobleman**贵族;**servants**仆人;**royal**皇家的;**horde**游牧部落;
 		2. [cortege](dic://cortege), [suite](dic://suite), [entourage](dic://entourage)
 		3. [gathering](dic://gathering), [assemblage](dic://assemblage)
-	24. tenable
+	22. tenable
 		1.  [well-founded](dic://well-founded)
 		2. _adj._ [reasonable](dic://reasonable), [sensible](dic://sensible)
 		3. _n._ [unreasonable](dic://unreasonable)
@@ -1058,7 +1063,7 @@
 			4. an intellectually untenable justification for police brutality. /为警方暴行而作的在理性上站不住脚的辩护。
 			5. It's just untenable and Nancy Pelosi would recognize that as well /这是不可能的，南希·佩洛西也会意识到这一点。
 		13. tenability
-	25. tenancy
+	23. tenancy
 		1.  [occupancy](dic://occupancy)
 		2. _n._ [residency](dic://residency), [residence](dic://residence), [abidance](dic://abidance)
 		3. **tenant**房客;**tenants**房客;**landlord**房东，老板;**lease**租约;**leases**租赁;**eviction**逐出;**renter**佃户;**leasing**租赁;**rent**租金;**renters**承租人;**rental**租赁;
@@ -1079,17 +1084,17 @@
 		18. subtenant
 		19. lieutenant
 		20. cotenant
-	27. tenet
+	24. tenet
 		1. 1 - 来自拉丁语 tenet,他所持有的，他所坚持的，来自 tenere 的指示格，来自 tenere,持有，握住，坚持，词源同 contain,tenure.引申词义原则，信条，教义等。
-	28. tennis
+	25. tennis
 		1. tennis（网球）：发球者提醒对方接球的叫声  
 		2. 网球的前身是14世纪时流行于法国宫廷的一种叫做“掌球”的游戏，两名游戏者隔着一条绳子，用手掌击打一个布球。后来，这种游戏不断得到改良，绳子换成了球网，出现了木板做成的球拍，后来受到羽毛球拍的启发，出现了类似羽毛球拍的网球拍。  
 		3. 1873年，英国的华尔特•科洛普顿•温菲尔德上校制订了现代的网球运动规则，并为这项运动起了一个很古典的名称——sphairistike。该词源自希腊语，意思是“玩球的技艺”。然而，这个冗长的名字很快被人遗忘，而源于网球运动时发球者提醒对方接球的叫声的法语单词tenetz却被人们普遍接受，成为了网球运动的通俗叫法。法语单词tenetz的本意是“接住”，是法国人在玩掌球和网球时，发球者提醒对方的习惯叫声。英语中表示网球运动的单词tennis就来源于此。  
 			1. tennis：['tenɪs] n.网球运动
 		2. table-tennis
-	29. tenor
+	26. tenor
 		1. countertenor
-	30. tenure
+	27. tenure
 		1. ten-拿 + -ure, 表名词 → 拿住状态 → 占有权。
 		2.  [term of office](dic://term of office), [incumbency](dic://incumbency)
 		3. [land tenure](dic://land tenure)
@@ -1202,8 +1207,8 @@
 			1. _adj._ [quiet](dic://quiet), [restrained](dic://restrained), [tasteful](dic://tasteful), [discreet](dic://discreet)
 			2. _n._ [ostentatious](dic://ostentatious), [pretentious](dic://pretentious), [tasteless](dic://tasteless), [indiscreet](dic://indiscreet)
 			3. **unassuming**谦逊的;**dignified**高贵的;**austere**简朴的;**unobtrusive**不突出的;**pious**虔诚的;**elegant**高雅的，优雅的;**modest**谦虚的，谦逊的;**understated**不夸张的;**low-key**抑制的,软调的;**tasteful**有鉴赏力的;**admirable**令人钦佩的;
-	11. portend
-		1.  (prescient, portend, presage, prefigure, foretell, prophetic, anticipate, bode, herald, foresee, )
+	11. portend (protean )
+		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee)
 		2. por-在前 + tend-延伸，伸展，引申词义预示，预兆。 
 		3. [bode](dic://bode), [auspicate](dic://auspicate), [prognosticate](dic://prognosticate), [omen](dic://omen), [presage](dic://presage), [betoken](dic://betoken), [foreshadow](dic://foreshadow), [augur](dic://augur), [foretell](dic://foretell), [prefigure](dic://prefigure), [forecast](dic://forecast), [predict](dic://predict)
 		4. _v._ [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point), [signal](dic://signal)
@@ -1226,7 +1231,7 @@
 			3. _n._ [artificiality](dic://artificiality), [claim](dic://claim), [unnaturalness](dic://unnaturalness)
 			4. **pretentious**自命不凡的;**cynicism**犬儒主义;**arrogance**傲慢;**trappings**服饰;**absurdity**荒谬;**subtlety**微妙;**silliness**愚蠢;**grandeur**庄严;**sincerity**真实, 诚挚;**originality**独创性;**disdain**蔑视;
 		4. pretentious
-			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose, brandish, protuberant. salient, obtrusive, spectacular, impressive, pretentious, garish)
+			1. (flamboyant, ostentatious, conspicuous, flaunty, pretentious, flagrant, grandiose, brandish, protuberant. salient, obtrusive, spectacular, impressive, garish)
 	14. subtend
 		1. [delimit](dic://delimit)
 		2. **angle**角，角度;**perpendicular**垂直的;**radially**放射状地;
@@ -1308,7 +1313,7 @@
 		12. Traditional attenuated vaccines create long lasting resilience. /传统的减毒疫苗具有持久的弹性。
 		13. There is no greater evidence of the attenuated, monetised nature of the 21st-century crowd than the rise of the events industry. /没有什么比活动产业的崛起更能证明21世纪人群的弱化和货币化本质了。
 	2. extenuate
-		1. (allay, lull, calm, damp, dwindle, attenuate, extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, respite)
+		1.  (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, )
 		2. ex-出 + tenu-薄 + -ate, 表动词 → 把重罪弄细薄出来 → 减轻[罪行]。
 		3. vt. 减轻, 为...找借口
 		4. _v._ [apologize](dic://apologize), [apologise](dic://apologise), [excuse](dic://excuse), [justify](dic://justify), [rationalize](dic://rationalize), [rationalise](dic://rationalise)
@@ -1715,216 +1720,219 @@
 #### + \*tere- (2) + = cross over, pass through, overcome
 1. **trans-** = cross, over, beyond, through
 	1. intransigence, intransigent
-		1.  (obdurate, tenacious, steadfast, intransigence, fortitude, )
-		2.  in-,不，非，-transig,转给，妥协，词源同 transact,transigent.
-		3. a. 非妥协性的 
-		4. n. 不妥协的人
-		5. ag-(1), trans-
-	3. traduce
-	4. traffic
-	5. transact
-	6. transalpine
-	7. transaminase
-	8. transatlantic
-	9. transborder
-	10. transceiver
-	11. transcend
-	12. transcode
-	13. transcontinental
-	14. transcribe
-	15. transcriber
-	16. transcript
-	17. transcurrent
-	18. transcutaneous
-	19. transducer
-	20. transduction
-	21. transect
-	22. transept
-	23. transfer
-	24. transfigure
-	25. transfinite
-	26. transfix
-	27. transform
-	28. transformative
-	29. transfrontier
-	30. transfuse
+		2. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude)
+		3.  in-,不，非，-transig,转给，妥协，词源同 transact,transigent.
+		4. a. 非妥协性的 
+		5. n. 不妥协的人
+		6. ag-(1), trans-
+	2. traduce
+	3. traffic
+	4. transact
+	5. transalpine
+	6. transaminase
+	7. transatlantic
+	8. transborder
+	9. transceiver
+	10. transcend
+	11. transcode
+	12. transcontinental
+	13. transcribe
+	14. transcriber
+	15. transcript
+	16. transcurrent
+	17. transcutaneous
+	18. transducer
+	19. transduction
+	20. transect
+	21. transept
+	22. transfer
+	23. transfigure
+	24. transfinite
+	25. transfix
+	26. transform
+	27. transformative
+	28. transfrontier
+	29. transfuse
 		1. _v._ [lend](dic://lend), [impart](dic://impart), [bestow](dic://bestow), [contribute](dic://contribute), [add](dic://add), [bring](dic://bring), [pour](dic://pour)
 		2. **blood**血，血液;**hemoglobin**血红素;**clot**凝块;**infuse**使充满;**clotting**凝血;**marrow**髓，骨髓;**infusion**灌输;**platelet**血小板;**inject**注射;**bloodstream**血流;**bleed**使出血;
-	31. transgress
+	30. transgress (trespass)
 		1. _v._ [disrespect](dic://disrespect), [spread](dic://spread), [overspread](dic://overspread), [offend](dic://offend), [infract](dic://infract), [violate](dic://violate), [go against](dic://go against)
 		2. **transgression**犯罪;**violate**违反;**obey**服从，听从;**defy**藐视;**subvert**推翻;**enforce**强迫，强制;**punish**严厉对待;**transcend**超越;**commandment**戒条;**uphold**支持;**abide**忍受，容忍;
-	32. transhumance
-	33. transience
-	34. transiency
-	35. transient
-	36. transigent
-	37. transillumination
-	38. transistance
-	39. transit
-	40. transition
-	41. transitive
-	42. transitory
-	43. translate
-	44. transliterate
-	45. translocation
-	46. translucence
-	47. translucency
-	48. translucent
-	49. translunar
-	50. translunary
-	51. transmarine
-	52. transmigrant
-	53. transmigrate
-	54. transmissbility
-	55. transmissbile
-	56. transmissive
-	57. transmit
-	58. transmogrify
-	59. tranmute
-	60. transnational
-	61. transnatural
-	62. transnormal
-	63. transoceanic
-	64. transom
-	65. transonic
-	66. transpacific
-	67. transparence
-	68. transparent
-	69. transpersonal
-	70. transpierce
-	71. transpire
-	72. transplant
-	73. transpolar
-	74. transponder
-	75. transpontine
-	76. transport
-	77. transpose
-	78. transsexual
-	79. transubstantiate
-	80. transude
-	81. transuranic
-	82. transuranium
-	83. transvaluation
-	84. transverse
-	85. transvest
-	86. trajectory
-	87. trance
-	88. tranquil
-	89. traverse
-	90. travesty
-	91. supertransuranics
-	92. trans-sonic
-	93. transabdominal
-	94. transactivate
-	95. transamin
-	96. transamine
-	97. transbeam
-	98. transbooster
-	99. transcapsidation
-	100. transchanger
-	101. transconductor
-	102. transcontainer
-	103. transcriptional
-	104. transcriptome
-	105. trascripton
-	106. transcriptor
-	107. transcrystalline
-	108. transcrystallization
-	109. transcurium
-	110. transcytosis
-	111. transdifferentiation
-	112. transduce
-	113. transductant
-	114. transfaunation
-	115. transfectant
-	116. fransferrin
-	117. transformant
-	118. transgene
-	119. transgenome
-	120. transglucosidation
-	121. transgranular
-	122. transistor
-	123. transjugular
-	124. translat
-	125. transloader
-	126. translocator
-	127. translocon
-	128. translot
-	129. translucidus
-	130. rtransluminla
-	131. transmanganin
-	132. transmat
-	133. transmembrane
-	134. transmissometer
-	135. transmissometry
-	136. transmitt
-	137. transmittability
-	138. transmontane
-	139. transnucleosidation
-	140. transoesophageal
-	141. transolver
-	142. transosonde
-	143. transownership
-	144. transpadane
-	145. transphobia
-	146. transphobic
-	147. transplutonics
-	148. transoplutonium
-	149. transpond
-	150. transposition
-	151. transporession
-	152. transracial
-	153. transradar
-	154. transsexualism
-	155. transsonic
-	156. transspecific
-	157. transtage
-	158. transtat
-	159. transtension
-	160. transtentorial
-	161. transversopagus
-	162. transversum
-	163. transverter
-	164. trespass
+	31. transhumance
+	32. transience
+	33. transiency
+	34. transient
+	35. transigent
+	36. transillumination
+	37. transistance
+	38. transit
+	39. transition
+	40. transitive
+	41. transitory
+	42. translate
+	43. transliterate
+	44. translocation
+	45. translucence
+	46. translucency
+	47. translucent
+	48. translunar
+	49. translunary
+	50. transmarine
+	51. transmigrant
+	52. transmigrate
+	53. transmissbility
+	54. transmissbile
+	55. transmissive
+	56. transmit
+	57. transmogrify
+	58. tranmute
+	59. transnational
+	60. transnatural
+	61. transnormal
+	62. transoceanic
+	63. transom
+	64. transonic
+	65. transpacific
+	66. transparence
+	67. transparent
+	68. transpersonal
+	69. transpierce
+	70. transpire
+	71. transplant
+	72. transpolar
+	73. transponder
+	74. transpontine
+	75. transport
+	76. transpose
+	77. transsexual
+	78. transubstantiate
+	79. transude
+	80. transuranic
+	81. transuranium
+	82. transvaluation
+	83. transverse
+	84. transvest
+	85. trajectory
+	86. trance
+	87. tranquil
+	88. traverse
+	89. travesty
+	90. supertransuranics
+	91. trans-sonic
+	92. transabdominal
+	93. transactivate
+	94. transamin
+	95. transamine
+	96. transbeam
+	97. transbooster
+	98. transcapsidation
+	99. transchanger
+	100. transconductor
+	101. transcontainer
+	102. transcriptional
+	103. transcriptome
+	104. trascripton
+	105. transcriptor
+	106. transcrystalline
+	107. transcrystallization
+	108. transcurium
+	109. transcytosis
+	110. transdifferentiation
+	111. transduce
+	112. transductant
+	113. transfaunation
+	114. transfectant
+	115. fransferrin
+	116. transformant
+	117. transgene
+	118. transgenome
+	119. transglucosidation
+	120. transgranular
+	121. transistor
+	122. transjugular
+	123. translat
+	124. transloader
+	125. translocator
+	126. translocon
+	127. translot
+	128. translucidus
+	129. rtransluminla
+	130. transmanganin
+	131. transmat
+	132. transmembrane
+	133. transmissometer
+	134. transmissometry
+	135. transmitt
+	136. transmittability
+	137. transmontane
+	138. transnucleosidation
+	139. transoesophageal
+	140. transolver
+	141. transosonde
+	142. transownership
+	143. transpadane
+	144. transphobia
+	145. transphobic
+	146. transplutonics
+	147. transoplutonium
+	148. transpond
+	149. transposition
+	150. transporession
+	151. transracial
+	152. transradar
+	153. transsexualism
+	154. transsonic
+	155. transspecific
+	156. transtage
+	157. transtat
+	158. transtension
+	159. transtentorial
+	160. transversopagus
+	161. transversum
+	162. transverter
+	163. trespass
 		1. trespasser
-	165. trestle
+	164. trestle
 		1. trestlework
 		2. trestletree
 2. **trench-, trunc-** = cut, "deprived of branches or limbs, mutilated" "trunk"
 	1. trench
-		1.  [deep](dic://deep), [oceanic abyss](dic://oceanic abyss)
-		2.  [impinge](dic://impinge), [encroach](dic://encroach), [entrench](dic://entrench)
-		3.  [ditch](dic://ditch)
-		4. _n._ [ditch](dic://ditch), [natural depression](dic://natural depression), [depression](dic://depression)
-		5. _v._ [trespass](dic://trespass), [take advantage](dic://take advantage), [fortify](dic://fortify), [fort](dic://fort), [cut](dic://cut), [put](dic://put), [set](dic://set)
-		6. **tunnel**隧道;**ditch**在…上掘沟;**bunker**沙坑;**coat**外套;**dug**挖，翻土;**tunneling**掘进;**digging**挖掘，采掘;**excavation**挖掘;**ditches**沟;**ravine**峡谷;**tunnels**隧道;
-		7. _in the trenches_ ◎在第一线，在现场;◎在壕沟中;
-		8. _cable trench_ 电缆沟；电缆槽
-		9. _trench cover_ 沟盖板
-		10. _trench warfare_ 堑壕战
-		11. _trench coat_ n. 军用防水短上衣
-		12. _pipe trench_ 管沟
-		13. trenching
-		14. trencher
-		15. trenched
-		16. entrench (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
-			1.  [intrench](dic://intrench)
-			2.  [impinge](dic://impinge), [encroach](dic://encroach), [trench](dic://trench)
-			3.  [dig in](dic://dig in)
-			4. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [trespass](dic://trespass), [take advantage](dic://take advantage)
-			5. **perpetuate**使永存;**undermine**在某物下挖洞或挖通道;**reinforce**增强;**solidify**团结;**consolidate**巩固;**weaken**减少;**erode**腐蚀，侵蚀;**strengthen**加强, 巩固;**subvert**推翻;**bolster**长枕;**elevate**举起;
-			6. ageism is entrenched in our society /年龄歧视在我们的社会里根深蒂固。
-			7. the inertia of an entrenched bureaucracy. /平稳的官僚机构内存在的惰性
-			8. Television seems to be firmly entrenched as the number one medium for national advertising. /电视看来要在全国广告媒介中牢固地占据头等位置。
-			9. The bias towards familiar forms of activity is deeply entrenched. /s对熟悉的活动形式的偏向根深蒂固。
-			10. entrenchment
+		1. n. 壕沟，沟渠；海沟，海底沟；战壕，堑壕；堑壕阵地；一战时期法国北部和比利时的堑壕战（the trenches）；战壕雨衣 
+		2. v. 在（地）上开沟，在……上挖战壕；翻（田地，花园）的地
+		3.  [deep](dic://deep), [oceanic abyss](dic://oceanic abyss)
+		4.  [impinge](dic://impinge), [encroach](dic://encroach), [entrench](dic://entrench)
+		5.  [ditch](dic://ditch)
+		6. _n._ [ditch](dic://ditch), [natural depression](dic://natural depression), [depression](dic://depression)
+		7. _v._ [trespass](dic://trespass), [take advantage](dic://take advantage), [fortify](dic://fortify), [fort](dic://fort), [cut](dic://cut), [put](dic://put), [set](dic://set)
+		8. **tunnel**隧道;**ditch**在…上掘沟;**bunker**沙坑;**coat**外套;**dug**挖，翻土;**tunneling**掘进;**digging**挖掘，采掘;**excavation**挖掘;**ditches**沟;**ravine**峡谷;**tunnels**隧道;
+		9. _in the trenches_ ◎在第一线，在现场;◎在壕沟中;
+		10. _cable trench_ 电缆沟；电缆槽
+		11. _trench cover_ 沟盖板
+		12. _trench warfare_ 堑壕战
+		13. _trench coat_ n. 军用防水短上衣
+		14. _pipe trench_ 管沟
+		15. trenching
+		16. trencher
+		17. trenched
+		18. entrench
+			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+			2.  [intrench](dic://intrench)
+			3.  [impinge](dic://impinge), [encroach](dic://encroach), [trench](dic://trench)
+			4.  [dig in](dic://dig in)
+			5. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [trespass](dic://trespass), [take advantage](dic://take advantage)
+			6. **perpetuate**使永存;**undermine**在某物下挖洞或挖通道;**reinforce**增强;**solidify**团结;**consolidate**巩固;**weaken**减少;**erode**腐蚀，侵蚀;**strengthen**加强, 巩固;**subvert**推翻;**bolster**长枕;**elevate**举起;
+			7. ageism is entrenched in our society /年龄歧视在我们的社会里根深蒂固。
+			8. the inertia of an entrenched bureaucracy. /平稳的官僚机构内存在的惰性
+			9. Television seems to be firmly entrenched as the number one medium for national advertising. /电视看来要在全国广告媒介中牢固地占据头等位置。
+			10. The bias towards familiar forms of activity is deeply entrenched. /s对熟悉的活动形式的偏向根深蒂固。
+			11. entrenchment
 				1. _n._ [fortification](dic://fortification), [munition](dic://munition)
 				2. **erosion**侵蚀，腐蚀;**bastion**棱堡;**hegemony**霸权;**fortifications**防御工事;**institutional**机构的;**ideological**观念学的;**consequent**作为结果的;**citadel**城堡;**undermining**底切;**fortification**加强;**abandonment**放弃;
 				3. The angry entomologist went to the entry to the entrenchment and thrust his own entrails with a knife! /愤怒的昆虫学家走到堑壕的入口，用刀戳进他自己的内脏！
 				4. It was a British castle or entrenchment, with triple rings of defence, rising roll behind roll, their outlines cutting sharply against the sky, and Jim's kiln nearly undermining their base /那是一座英国城堡或壕沟，有三重防御环，一个接一个地上升，它们的轮廓在天空中锐利地切割，吉姆的窑几乎破坏了它们的基地。
-			11. entrenched
-	2. trenchancy, trenchant (penchant)
-		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic,)
+			12. entrenched
+	3. trenchancy, trenchant (penchant)
+		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
 		2. trench-切 + -ancy, 表名词
 		3. n. 锐利
 		4. adj. 尖刻的；锐利的；苛刻的；锋利的（名词 trenchancy, 副词 trenchantly）
@@ -1935,14 +1943,18 @@
 		9. One trenchant backbench critic acknowledges that many Tory MPs “usually follow the prevailing pattern” /一位后座议员兼批评家一针见血地指出, 许多托利党议员“一般都会遵循眼下流行的观点”。
 		10. The dog's trenchant speech played a trick on wolves. /狗儿锋利的演讲捉弄了狼们。
 	4. retrench
-		1. 1. tighten one's belt; use resources carefully
-		2. make a reduction, as in one's workforce
+		1. vt. 删除；减少；紧缩开支 vi. 节省；紧缩
+		2. tighten one's belt; use resources carefully
+		3. make a reduction, as in one's workforce
 			2. The company had to retrench
-		3. _v._ [conserve](dic://conserve), [husband](dic://husband), [economize](dic://economize), [economise](dic://economise), [reduce](dic://reduce), [cut down](dic://cut down), [cut back](dic://cut back)
-		4. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
-		5. _[retrench expenses](dic://retrench%20expenses)_ 精简开支
-		6. _[retrench expenditures](dic://retrench%20expenditures)_ 压缩开支
-		7. _[retrench enlarge](dic://retrench%20enlarge)_ 削减
+		4. _v._ [conserve](dic://conserve), [husband](dic://husband), [economize](dic://economize), [economise](dic://economise), [reduce](dic://reduce), [cut down](dic://cut down), [cut back](dic://cut back)
+		5. **rethink**再想;**restructure**重建, 改建, 重组;**curtail**截断, 缩短;**consolidate**巩固;**downsizing**缩小规模;**abandon**离弃;**regroup**重新组合;**diversify**使多样化;**layoffs**解雇;**relocate**重新安置;**resign**辞
+		6. _[retrench expenses](dic://retrench%20expenses)_ 精简开支
+		7. _[retrench expenditures](dic://retrench%20expenditures)_ 压缩开支
+		8. _[retrench enlarge](dic://retrench%20enlarge)_ 削减
+		9. Western companies responded to the tough sanctions introduced by America and its allies by retrenching from Russia. /西方公司响应美国及其盟友实施的严厉制裁，从俄罗斯撤出。
+		10. When a company retrenches employees, it's similar to the layoff, but it's for different reasons. /当公司裁员时，它类似于裁员，但出于不同的原因。
+		11. Shortly afterwards, cuts in defence spending forced the aerospace industry to **retrench** /此后不久，国防开支的削减迫使航空航天业紧缩开支。
 	5. retrenchment
 		1. _n._ [entrenchment](dic://entrenchment), [intrenchment](dic://intrenchment), [economy](dic://economy), [saving](dic://saving)
 		2. **layoffs**解雇;**downturn**低迷时期;**restructuring**重组;**downsizing**缩小规模;**recession**经济衰退;**austerity**严厉;**layoff**活动停止期间;**upheaval**剧变;**reorganization**改组;**consolidation**巩固,加强,强化;**slowdown**减速;
@@ -1965,15 +1977,18 @@
 	7. truncheon
 		1.  来自拉丁语 truncus,树干，词源同 trunk.-on,小词后缀。字面意思即小树干，引申词义警棍。
 		2. **baton**接力棒;**policeman**警察;**handcuffs**手铐;**constable**警察;**sword**刀，剑;**fists**拳套;**hammer**敲打;**whips**鞭策者，鞭子;**fist**拳头;**axe**斧;**swords**宝剑;
-	8. trounce (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe)
-		1. 词源不详，可能来自拉丁语 truncare,砍，切，词源同 truncate,trench.引申词义打败，击溃等。
-		2. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
-		3. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
-		4. [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [knock](dic://knock)
-		5. [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [vanquish](dic://vanquish)
-		6. [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
-		7. trounce the biggest party /痛击最大党派
-		8. It recently went head-to- head with the basketball play-offs and trounced the ball game in rating /近期它和篮球的决赛时间撞车，把篮球比赛的排名远远抛在后面。
+	8. trounce 
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		2. 词源不详，可能来自拉丁语 truncare,砍，切，词源同 truncate,trench.引申词义打败，击溃等。
+		3. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
+		4. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
+		5. [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [get the better of](dic://get the better of), [overcome](dic://overcome), [defeat](dic://defeat), [knock](dic://knock)
+		6. [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [vanquish](dic://vanquish)
+		7. [flog](dic://flog), [welt](dic://welt), [whip](dic://whip), [lather](dic://lather), [lash](dic://lash), [slash](dic://slash), [strap](dic://strap)
+		8. trounce the biggest party /痛击最大党派
+		9. It recently went head-to- head with the basketball play-offs and trounced the ball game in rating /近期它和篮球的决赛时间撞车，把篮球比赛的排名远远抛在后面。
 	9. trunk
 		1.  来自拉丁语 truncus,树干，躯干，来自 truncare,砍倒，截断，词源同 trench,truncate.引申词义箱子，衣箱，象鼻，汽车后备箱等。
 		2. **tree**树;**compartment**间隔, 隔间;**car**汽车;**branch**分支;**limbs**四肢;**sedan**轿车;**branches**分支机构;**hood**头巾;**bonnet**软帽;**suitcase**手提箱;**backseat**次要位置;
@@ -1990,13 +2005,16 @@
 		13. trunk-nail
 3. **trucul-** = "rierce, rough, savage wild"
 	1. truculence
-		1. **arrogance**傲慢;**cynicism**犬儒主义;**hostility**敌意;**impatience**急躁;**cowardice**懦弱;**swagger**吓唬;**toughness**有粘性;**indignation**愤怒, 愤慨, 气愤;**aggression**进攻;**disdain**蔑视;**indifference**不关心,不在乎;
-		2. [truculency](dic://truculency)
-	2. truculency
+		1. (pugnacity, belligerent, bellicose, combative, truculence, jingoist, nihilist, chauvinist)
+		2. **arrogance**傲慢;**cynicism**犬儒主义;**hostility**敌意;**impatience**急躁;**cowardice**懦弱;**swagger**吓唬;**toughness**有粘性;**indignation**愤怒, 愤慨, 气愤;**aggression**进攻;**disdain**蔑视;**indifference**不关心,不在乎;
+		3. [truculency](dic://truculency)
+	3. truculency
 		1. [aggressiveness](dic://aggressiveness), [belligerence](dic://belligerence), [pugnacity](dic://pugnacity)
-	3. truculent
-		1. **belligerent**好战的;**combative**好战的;**defiant**挑衅的;**brash**仓促的，性急的;**unruly**不守规矩的;**arrogant**自大的，傲慢的;**boisterous**热闹的;**cranky**暴躁的;**stubborn**顽固的;**obnoxious**可憎的;**ferocious**残忍的;
-		2. [aggressive](dic://aggressive)
+	4. truculent
+		1. a. 野蛮的, 粗暴的, 致命的, 好斗的
+		2. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, )
+		3. **belligerent**好战的;**combative**好战的;**defiant**挑衅的;**brash**仓促的，性急的;**unruly**不守规矩的;**arrogant**自大的，傲慢的;**boisterous**热闹的;**cranky**暴躁的;**stubborn**顽固的;**obnoxious**可憎的;**ferocious**残忍的;
+		4. [aggressive](dic://aggressive)
 4. avatar
 5. thorough
 6. thrill
@@ -2456,12 +2474,13 @@
 		5. masturbator
 		6. masturbation
 	4. obtuse
-		1. 来自 obtund,使迟钝，-s,过去分词后缀。引申词义迟钝的，愚蠢的。
-		2. [purblind](dic://purblind)
-		3. [dense](dic://dense), [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [slow](dic://slow)
-		4. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [undiscerning](dic://undiscerning), [stupid](dic://stupid)
-		5. _n._ [acute](dic://acute), [compound](dic://compound), [discerning](dic://discerning), [smart](dic://smart)
-		6. **convoluted**盘绕的,卷曲的;**condescending**降低身份的,屈尊的;**disingenuous**不真诚的;**baffling**令人困惑的;**ignorant**无知的;**pretentious**自命不凡的;**nonsensical**无意义的;**inane**愚蠢的;**simplistic**过分单纯化的;**idiotic**白痴的;**clueless**无线索的;
+		1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+		2. 来自 obtund,使迟钝，-s,过去分词后缀。引申词义迟钝的，愚蠢的。
+		3. [purblind](dic://purblind)
+		4. [dense](dic://dense), [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [slow](dic://slow)
+		5. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [undiscerning](dic://undiscerning), [stupid](dic://stupid)
+		6. _n._ [acute](dic://acute), [compound](dic://compound), [discerning](dic://discerning), [smart](dic://smart)
+		7. **convoluted**盘绕的,卷曲的;**condescending**降低身份的,屈尊的;**disingenuous**不真诚的;**baffling**令人困惑的;**ignorant**无知的;**pretentious**自命不凡的;**nonsensical**无意义的;**inane**愚蠢的;**simplistic**过分单纯化的;**idiotic**白痴的;**clueless**无线索的;
 		8. _obtuse angle_ 钝角
 		9. be obtuse in understanding /头脑迟钝
 		10. an obtuse leaf /钝形圆头的叶子尖
@@ -3065,14 +3084,15 @@
 		9. componentry
 		10. etc...
 	9. expound (extrapolate)
-		1. [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [dilate](dic://dilate)
-		2. [set forth](dic://set forth), [exposit](dic://exposit)
-		3. [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit)
-		4. **explain**说明，解释;**elucidate**阐明,解释;**summarize**总结, 概述;**ponder**仔细考虑;**discuss**讨论;**dissect**切细;**refute**反驳，驳斥;**enlighten**启发;**clarify**澄清;**delve**钻研;**reiterate**反复地说,重申;
-		5. He's still happy to expound upon the differences between analytic philosophers and continental philosophers. /他仍然乐于阐述分析哲学家与大陆哲学家之间的区别。
-		6. He was merely expounding the Biblical doctrine of salvation and damnation 他只是在阐述圣经关于救赎和诅咒的教义。
-		7. And thus he went on, expounding his opinions generally and his personal likings, until Justin came to fetch him for a mulled egg that was wanted. /他就这样高谈阔论，谈个人的好恶，一直谈到朱斯坦来找他回去配制蛋黄甜奶。
-	10. exponent
+		1. (expound, elaborate, exposit, lucubrate, expatiate, expand, elucidate, explicate, )
+		2. [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [dilate](dic://dilate)
+		3. [set forth](dic://set forth), [exposit](dic://exposit)
+		4. [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [exposit](dic://exposit)
+		5. **explain**说明，解释;**elucidate**阐明,解释;**summarize**总结, 概述;**ponder**仔细考虑;**discuss**讨论;**dissect**切细;**refute**反驳，驳斥;**enlighten**启发;**clarify**澄清;**delve**钻研;**reiterate**反复地说,重申;
+		6. He's still happy to expound upon the differences between analytic philosophers and continental philosophers. /他仍然乐于阐述分析哲学家与大陆哲学家之间的区别。
+		7. He was merely expounding the Biblical doctrine of salvation and damnation 他只是在阐述圣经关于救赎和诅咒的教义。
+		8. And thus he went on, expounding his opinions generally and his personal likings, until Justin came to fetch him for a mulled egg that was wanted. /他就这样高谈阔论，谈个人的好恶，一直谈到朱斯坦来找他回去配制蛋黄甜奶。
+	11. exponent
 		1. **integer**整数;**equation**方程式，等式;**coefficient**系数;**modulus**模数;**integers**整数;**polynomial**多项式;**determinant**决定物;**amplitude**广阔;**quadratic**二次的;**arithmetic**算术;**summation**总和,加在一起;
 		2. [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [intellectual](dic://intellectual)
 		3. [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent)
@@ -3094,23 +3114,23 @@
 				6. nonexponential
 				7. hyperexponential
 				8. exponentially
-	11. opponent
+	12. opponent
 		1. [opposition](dic://opposition), [opposite](dic://opposite)
 		2. [adversary](dic://adversary), [antagonist](dic://antagonist), [opposer](dic://opposer), [resister](dic://resister)
 		3. [opposing](dic://opposing)
 		4. [contestant](dic://contestant), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		5. [hostile](dic://hostile)
 		6. **foe**敌人;**adversary**对手, 敌手;**challenger**挑战者;**enemy**敌人，仇敌;**opposing**对面的;**opposition**反对;**defeat**击败，战胜;**matchup**火柴,比赛,竞赛,匹配,比赛;**teammate**队友，同队队员;**defender**防卫者，守卫者;**defeated**被击败，失败;
-	12. postpone
+	13. postpone
 		1. [prorogue](dic://prorogue), [hold over](dic://hold over), [put over](dic://put over), [table](dic://table), [shelve](dic://shelve), [set back](dic://set back), [defer](dic://defer), [remit](dic://remit), [put off](dic://put off)
 		2. postponent
 		3. postponement
 		4. postponable
-	13. propone
+	14. propone
 		1. vt. 提议；倡言；陈述
 		2. proponent
 			1. **advocate**提倡，主张，拥护;**supporter**支持者;**believer**者;**staunch**坚固的;**ardent**热情的;**outspoken**直言的;**innovator**改革者;**skeptic**怀疑论者;**admirer**赞赏者;**environmentalist**环境保护论者, 人类生态学者;**pioneer**拓荒者;
-	14. propound
+	15. propound
 		1. **propose**建议;**formulate**构想出, 规划;**devise**设计;**refute**反驳，驳斥;**earnestly**认真地;**assert**断言;**profess**公开表示;**ought**应该，应当;**furnish**供应;**contradict**矛盾;**affirm**断言;
 		2. [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel)
 		3. propounder
@@ -3197,7 +3217,7 @@
 			6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
 		3. etc
 	7. exposit
-		1. (expound, elaborate, exposit, lucubrate, expatiate, expand, elucidate, )
+		1. (expound, elaborate, exposit, lucubrate, expatiate, expand, elucidate, explicate, )
 		2. _v._ [elaborate](dic://elaborate), [lucubrate](dic://lucubrate), [expatiate](dic://expatiate), [enlarge](dic://enlarge), [flesh out](dic://flesh out), [expand](dic://expand), [expound](dic://expound)
 		3. **exposition**阐述, 讲解;**comprehend**理解, 领会;**summarize**总结, 概述;**dissect**切细;**discern**识别;**interpret**解释;**formulate**构想出, 规划;**examine**调查;**explain**说明，解释;**deduce**推论，推断;**apprehend**理解;
 		4. This paper systematic **exposit** various patterns of the hot water supply systems in high-rise buildings. /本文系统地论述了高层建筑热水供应的各种系统型式。
@@ -3211,20 +3231,23 @@
 			2. [intellectual](dic://intellectual), [intellect](dic://intellect)
 		8. expositive
 		9. exposition
-	9. preposition, prepositioning
-		1. **verb**动词;**pronoun**代词;**verbs**动词;**noun**名词;**nouns**名词;**participle**分词;**adjective**形容词;**grammatical**语法的;**pronouns**代名词;**sentence**宣判，判决;**plural**复数的;
-	10. reposit
-		1. repository
+	8. preposition
+		1. n. 前置词, 介词
+		2. **verb**动词;**pronoun**代词;**verbs**动词;**noun**名词;**nouns**名词;**participle**分词;**adjective**形容词;**grammatical**语法的;**pronouns**代名词;**sentence**宣判，判决;**plural**复数的;
+		3. prepositioning
+	9. reposit
+		1. vt. 贮藏, 使复位
+		2. repository
 			1. **repository**仓库，贮藏室，存放处;
 			2. **database**数据库，资料库;**archive**存档;**metadata**元数据;**library**图书馆，藏书室;**git**饭桶;**archives**档案，档案室;**source**来源;**directory**人名地址录, 号码簿;**resource**资源，财力;**documentation**证明某事属实的证据;**schema**图解;
-		2. repositor
+		3. repositor
 			1. facility, installation, confidant, intimate, burial chamber, sepulcher, sepulchre
-		3. reposition
+		4. reposition
 			1. **reshape**改造;**rotate**旋转;**rearrange**重新安排;**detach**分离;**positioning**配置,布置;**move**迁居;**remove**移开;**reinvent**重新使用;**stabilize**稳定;**displace**取代;**adjust**校准;
 	11. suppository
 		1. **rectum**直肠;**anus**肛门;**ointment**油膏;**ibuprofen**布洛芬,异丁苯丙酸;**capsules**太空舱;**dosage**剂量，用量;**constipation**便秘;**syringe**注射器;**vagina**阴道;**rectal**直肠的;**vaginal**阴道的;
 		2. [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug)
-	12. apropos
+	12. apropos (germane, fitting, condign, apposite, commensurate, apropos, apt, pertinent)
 		4. [incidentally](dic://incidentally)
 		5. [seasonably](dic://seasonably), [timely](dic://timely), [well-timed](dic://well-timed)
 		6. [apposite](dic://apposite), [appropriate](dic://appropriate), [apt](dic://apt), [pertinent](dic://pertinent)
@@ -3324,17 +3347,18 @@
 		1. n. 税款, 关税  vt. 决定关税, 分类课税
 		2. **taxation**课税，征税;**levy**征收;**excise**货物税;**imposing**壮观的;**imposition**强加,被迫接受;**tariff**关税表;**taxes**赋税;**tax**向…课税;**imposed**强加的;**impose**强加;**onerous**繁重的;
 	21. imposter, impostor
-		1. **fake**假货;**phony**假的，欺骗的;**fraudulent**欺骗的,不诚实的;**fakes**云母板状岩;**liar**说谎的人;**traitor**叛徒;**bogus**伪造的;**ruse**诡计;**hoax**愚弄;**disguise**假装;**fraud**欺骗;
-		2. [impostor](dic://impostor), [pretender](dic://pretender), [fake](dic://fake), [faker](dic://faker), [fraud](dic://fraud), [sham](dic://sham), [shammer](dic://shammer), [pseudo](dic://pseudo), [pseud](dic://pseud), [role player](dic://role player)
-		3. [deceiver](dic://deceiver), [cheat](dic://cheat), [cheater](dic://cheater), [trickster](dic://trickster), [beguiler](dic://beguiler), [slicker](dic://slicker)
-	22. imposture
+		1. im- + post-放 + -er
+		2. **fake**假货;**phony**假的，欺骗的;**fraudulent**欺骗的,不诚实的;**fakes**云母板状岩;**liar**说谎的人;**traitor**叛徒;**bogus**伪造的;**ruse**诡计;**hoax**愚弄;**disguise**假装;**fraud**欺骗;
+		3. [impostor](dic://impostor), [pretender](dic://pretender), [fake](dic://fake), [faker](dic://faker), [fraud](dic://fraud), [sham](dic://sham), [shammer](dic://shammer), [pseudo](dic://pseudo), [pseud](dic://pseud), [role player](dic://role player)
+		4. [deceiver](dic://deceiver), [cheat](dic://cheat), [cheater](dic://cheater), [trickster](dic://trickster), [beguiler](dic://beguiler), [slicker](dic://slicker)
+	23. imposture
 		1. n. 欺诈, 冒牌
 		2. im-进入，使 + post-放置 + -ure, 表名词，引申词义放置，替代，冒名行骗。
 		3.  im-,进入，使，-post,放置，词源同 posture,compose. 引申词义放置，替代，冒名行骗。
 		4. **falsehood**谎言;**deception**欺骗;**forgery**伪造;**deceit**欺骗;**fraud**欺骗;**fraudulent**欺骗的,不诚实的;**dishonesty**不诚实的行为;**treachery**背信弃义, 不忠, 背叛;**heresy**异教;**delusion**错觉;**deceive**欺骗;
 		5. [deception](dic://deception), [deceit](dic://deceit), [dissembling](dic://dissembling), [dissimulation](dic://dissimulation)
 		6. [impersonation](dic://impersonation)
-	23. interpose
+	24. interpose
 		1. vt. 使插入, 使介于二者间, 使干涉  vi. 插嘴, 干预
 		2. inter-在中间 + pos-放 + -e → 放在二者之间。
 		3. inter-,在内，在中间，相互，-pos,放置，词源同 pose,position.引申词义插入。
@@ -3346,10 +3370,10 @@
 			1. [interjection](dic://interjection), [interpolation](dic://interpolation), [interpellation](dic://interpellation)
 			2. [break](dic://break), [interruption](dic://interruption), [disruption](dic://disruption), [gap](dic://gap), [placement](dic://placement), [location](dic://location), [locating](dic://locating)
 			3. **providence**天意;**obstruction**障碍;
-	24. juxtapose
+	25. juxtapose
 		1. **juxtaposition**并置,并列;**evoke**引起，唤起;**portray**描绘;**characterize**是…的特征, 以…为特征;**illustrate**给…加插图;**depict**描画;**accentuate**重读;**counterpoint**对位法;**combine**使联合，使结合;**artfully**狡诈地;**emphasize**强调;
 		2. [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
-	25. oppose
+	26. oppose
 		1. **condemn**判刑，定罪;**opposition**反对;**denounce**谴责;**reject**拒绝;**disapprove**不赞成;**endorse**赞同;**vehemently**热烈地;**disagree**不一致;**deny**否定，否认;**reconsider**重新考虑;**objection**反对, 异议;
 		2. unopposed
 		3. opposite
@@ -3357,13 +3381,13 @@
 		5. opposer
 		6. opposed
 		7. opposable
-	26. poseur
+	27. poseur
 		1. **wannabe**想达到目标的人;**snob**势利小人，势利眼;**pretentious**自命不凡的;**hipster**世面灵通的人;**moron**痴愚者;**elitist**优秀人材;**idiot**白痴;**pompous**浮夸的;**douche**灌注法;**hypocrite**伪君子;**hipsters**时髦人群;
-	27. positron
+	28. positron
 		1. **photon**光子;**electron**电子;**proton**质子;**neutron**中子;**protons**质子;**particle**颗粒;**atom**原子;**ion**离子;**photons**光子;**ionization**离子化,电离;**nuclei**核心，核子;
 		2. positronium
 		3. orthopositronium
-	28. posture
+	29. posture
 		5. **stance**姿态;**gait**步法，步态;**pose**摆姿势;**stances**步型;**kneeling**跪着，跪下;**positioning**配置,布置;**movements**整个活动;**muscles**肌肉;**position**位置，方位;**muscular**肌肉发达的;**demeanor**行
 		6. [bodily property](dic://bodily property), [attitude](dic://attitude), [mental attitude](dic://mental attitude), [capability](dic://capability), [capableness](dic://capableness)
 		7. [behave](dic://behave), [acquit](dic://acquit), [bear](dic://bear), [deport](dic://deport), [conduct](dic://conduct), [comport](dic://comport), [carry](dic://carry)
@@ -3378,7 +3402,7 @@
 		17. postural
 			1. **posture**姿势;**postures**姿势，态度;**gait**步法，步态;**musculoskeletal**肌骨骼的;**autonomic**自主的;**neurological**神经病学的;**physiological**生理的， 生理学的;**cognitive**认识的;**spinal**脊骨的;**lumbar**腰椎;**pelvic**骨盆的;
 			2. _adj._ [carriage](dic://carriage), [bearing](dic://bearing), [posture](dic://posture)
-	29. propose
+	30. propose
 		1. pro-向前 + pos-放置 + -e → 拿出（观点）到前面 → 建议。
 		2. [suggest](dic://suggest), [advise](dic://advise)
 		3. [project](dic://project)
@@ -3390,7 +3414,7 @@
 		9. proposition
 		10. proposer
 		11. proposal, counterproposal
-	30. purpose
+	31. purpose
 		1. pur-始终 + pos-放 + -e → 始终放的东西 → 目的。
 		2. - pur-,向前，-pos,放置，词源同 pose,position.引申词义意图，目的等。
 		3. repurpose
@@ -3404,23 +3428,24 @@
 		11. dual-purpose
 		12. cross-purposes
 		13. all-purpose
-	31. superpose
+	32. superpose
 		1. - super-,在上，上方，-pos,放置，词源同 position,superimpose.引申词义叠放，放在上面。
 		2. **superimposed**成阶层的,有层理的;**waveform**波形;**overlaid**覆盖;**distort**扭曲;**reconstruct**重建;**orthogonal**直角的,直交的;**spatially**空间地;**combine**使联合，使结合;**correspond**相符合, 相一致;**amplitude**广阔;**compose**作曲;
 		3. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
-	32. suppose
-		1. sup-下 + pos-放 + -e → 放下去想 → 猜想。
-		2. - sup-,在下，-pos,放置，词源同 position,propose.引申词义认为，假设等。
-		3. suppositive
-		4. supposititious
-		5. supposition
+	33. suppose
+		1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
+		2. sup-下 + pos-放 + -e → 放下去想 → 猜想。
+		3. - sup-,在下，-pos,放置，词源同 position,propose.引申词义认为，假设等。
+		4. suppositive
+		5. supposititious
+		6. supposition
 			1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
-		6. supposing
-		7. supposed
-		8. supposal
-		9. supposable
-		10. presuppose
-	33. transpose
+		7. supposing
+		8. supposed
+		9. supposal
+		10. supposable
+		11. presuppose
+	35. transpose
 		1. trans-转移 + pos-放 + -e → [互相]移放。
 		3. **notation**符号;**compose**作曲;**improvise**临时制作, 临时凑成;**rearrange**重新安排;**memorize**记住，背熟;**translate**翻译;**octave**八度音阶;**chord**弦;**matrices**基质;**subtract**减去;**melody**旋律;
 		4. _n._ [matrix](dic://matrix)
@@ -3429,7 +3454,7 @@
 		7. transpositive
 		8. transposer
 		9. transposal
-	34. compote (asymptote)
+	36. compote (asymptote)
 		1. 来自法语。com-,表强调，-pos,放置，词源同 opponent,position.指把水果、糖等放在一起调制。构成 compost 的对词，但词义产生差别。
 		2. n. 煮熟的糖渍水果, 高脚果盘
 		3.  [fruit compote](dic://fruit compote)
@@ -3437,7 +3462,7 @@
 		5. **rhubarb**大黄;**tart**酸的;**puree**浓汤;**marmalade**果子酱;**chutney**酸辣酱;**custard**蛋奶糊,牛奶沙司;**dessert**餐后甜点;**syrup**糖浆，果汁;**berry**浆果;**pear**梨树;**apricot**杏树;
 		6. _[fruit compote](dic://fruit%20compote)_  烩水果
 		7. _[apple compote](dic://apple%20compote)_  糖渍苹果
-	35. depot, subdepot
+	37. depot, subdepot (despot)
 		1. de-离开 + pot-放
 		2. 来自 deposit 的法语拼写形式，引申词义放置，仓库。拼写比较 entrepot,compote.
 		3. _oil depot_ [化]油库
@@ -3451,9 +3476,9 @@
 		11. [storehouse](dic://storehouse), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store)
 		12. [terminal](dic://terminal), [terminus](dic://terminus)
 		13. subdepot
-	36. entrepot
-	37. larvipositor
-	38. provost
+	38. entrepot
+	39. larvipositor
+	40. provost
 9. hamlet
 10. hanger
 11. haunt
@@ -3555,19 +3580,24 @@
 4. attorn, attorneyship
 	1. **attorney**代理人;**lawyer**律师;**counsel**忠告;**solicitor**律师;
 5. contour
-	1. contours
-	2. contouring
-	3. contourgraph
-	4. contoured
-6. detour
-7. entourage
-	1. **bodyguard**警卫员;**posse**一队;**escorting**护送者;**palace**宫殿;**chauffeur**司机;**backstage**在后台;**adoring**崇拜的;**companions**同伴;**limo**豪华轿车;**clique**派系;**advisers**顾问;
-8. tour
+	1. n. 轮廓  
+	2. vt. 画轮廓  
+	3. a. 显示轮廓的
+	4. contours
+	5. contouring
+	6. contourgraph
+	7. contoured
+7. detour
+8. entourage (ensemble, entourage)
+	1. n. 全体随行人员, 陪同人员
+	2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage)
+	3. **bodyguard**警卫员;**posse**一队;**escorting**护送者;**palace**宫殿;**chauffeur**司机;**backstage**在后台;**adoring**崇拜的;**companions**同伴;**limo**豪华轿车;**clique**派系;**advisers**顾问;
+10. tour
 	1. tourist, tourism
 	2. touring
 	3. tourer
 		1. **hatchback**装有向上开的后车门的小轿车;**coupe**小轿车;**sedan**轿车;**wheelbase**前后轮之车轮轴距离;**bike**自行车;**cruiser**巡洋舰;**seater**有座位的交通工具;**bikes**自行车;**saloon**酒馆;**sporty**运动比赛的;**sedans**箱式轿车;
-9. tourelle
+11. tourelle
 	1. 
 
 
@@ -3675,8 +3705,9 @@
 		2. magniloquent
 		3. 
 	8. obloquy
-		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 		3. n. 毁谤；耻辱；漫骂
 		4. [opprobrium](dic://opprobrium)
 		5. [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [traducement](dic://traducement), [hatchet job](dic://hatchet job)

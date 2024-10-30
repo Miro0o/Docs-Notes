@@ -1538,7 +1538,7 @@
 			7. The most important element of the **belay** is the anchor. /固定保护绳最重要的部分就是锚点。
 			8. I've got you on **belay**. I'll hold you if you do slip off. /我已帮你完成确保了，如果你真的失足，我会抓住你的。
 		32. allay (alloy, alley, ally)
-			1. (allay, lull, calm, damp, dwindle, attenuate, palliate, propitiate, reconcile, appease, placate, assuage, pacify, mitigate)
+			1. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate)
 			2. vt. 使平静, 使缓和
 			3. al-去，往 + lay【放】，这里指“放心，使平静”。
 			4. [still](dic://still), [relieve](dic://relieve), [ease](dic://ease)

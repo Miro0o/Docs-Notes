@@ -454,13 +454,14 @@
 		2. **poisonous**有毒的;**toxic**有毒的;**pungent**刺激性的;**vile**卑鄙的;**pernicious**很有害的;**corrosive**腐蚀的;**stench**恶臭;**unpleasant**使人不愉快的;**virulent**剧毒的;**harmful**能造成损害的;**venomous**有毒的;
 		3. [baneful](dic://baneful), [deadly](dic://deadly), [pernicious](dic://pernicious), [pestilent](dic://pestilent), [corrupting](dic://corrupting), [degrading](dic://degrading), [vesicatory](dic://vesicatory)
 		4. obnoxious
-			1. 1 - ob-,在上，表强调，-nox,伤害，杀死，词源同 noxious,necrosis.引申词义即其讨厌的，可憎的。
-			2. **annoying**恼人的;**irritating**气人的, 使人不愉快的;**whiny**烦躁的;**overbearing**专横的,傲慢的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**idiotic**白痴的;**rude**粗鲁的;**crass**粗鲁的;**belligerent**好战的;
-			3. My brother-in-law is an obnoxious know-it-all. /我的姐夫是个讨人厌的自以为是万事通的家伙。
-			4. His disgusting table manners made him obnoxious to me /他那令人厌恶的吃相使我反感。
-			5. As the fuels were combusting they gave off noxious vapors. /当燃料在燃烧时，它们释放出有毒的烟
-			6. Appreciable amounts of noxious waste are still being dumped into the harbor. /可以估算的大量有害废物仍被倾倒入海港。
-		5. innoxious
+			1. (obnoxious, invidious, pernicious, indignity)
+			2. 1 - ob-,在上，表强调，-nox,伤害，杀死，词源同 noxious,necrosis.引申词义即其讨厌的，可憎的。
+			3. **annoying**恼人的;**irritating**气人的, 使人不愉快的;**whiny**烦躁的;**overbearing**专横的,傲慢的;**arrogant**自大的，傲慢的;**pompous**浮夸的;**condescending**降低身份的,屈尊的;**idiotic**白痴的;**rude**粗鲁的;**crass**粗鲁的;**belligerent**好战的;
+			4. My brother-in-law is an obnoxious know-it-all. /我的姐夫是个讨人厌的自以为是万事通的家伙。
+			5. His disgusting table manners made him obnoxious to me /他那令人厌恶的吃相使我反感。
+			6. As the fuels were combusting they gave off noxious vapors. /当燃料在燃烧时，它们释放出有毒的烟
+			7. Appreciable amounts of noxious waste are still being dumped into the harbor. /可以估算的大量有害废物仍被倾倒入海港。
+		6. innoxious
 			1. **innoxious substance**:  无害物质
 	6. nuisance
 		1. nu-=noc-伤害 + -i- + -ance, 表名词，用来指妨害行为，讨厌的人。

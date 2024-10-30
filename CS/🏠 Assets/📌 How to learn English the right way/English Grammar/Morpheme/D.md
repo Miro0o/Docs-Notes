@@ -326,13 +326,19 @@
 			8. **contempt**轻视，蔑视;**scorn**轻蔑;**disgust**厌恶，嫌恶;**admiration**钦佩;**hostility**敌意;**indifference**不关心,不在乎;**displeasure**不快, 不悦, 生气;**distrust**不信任;**disrespect**失礼,无礼;**hatred**憎恨;**fondness**溺爱;
 	5. dignify
 		1. dignitary, dignity, 
-	6. indign, indignity
+	6. indign, 
 		1. - adj. 不值得的；可耻的
 		2. in-不 + dign-高贵
-		3. (obnoxious, invidious, pernicious, indignity)
-		4. indignation
-		5. indignant
-		6. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
+		5. indignity
+			1. n. 侮辱；轻蔑；有伤尊严；无礼举动
+			2. (chagrin, humiliation, mortification, invidious, obnoxious, pernicious, humiliation, disgrace, abject, indignity)
+			3. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+			4. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+			5. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+			6. **humiliation**丢脸，耻辱;**humiliating**丢脸的;**embarrassment**困窘;**agony**极大的痛苦;**endure**忍耐;**misery**痛苦，悲惨;**abject**卑贱的;**disgrace**耻辱;**endured**忍耐;**anguish**苦闷;**intolerable**无法忍受的;
+		7. indignation
+		8. indignant
+		9. 
 	7. deign  (dain, gain, deign)
 		1. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat, decree, invest, enthrone, ordain,)
 		2. 词源同 dignity,尊贵。引申词义屈尊。
@@ -430,15 +436,16 @@
 		7. Don't be trapped by dogma, which is living with the results of other people's thinking. /不要被教条所迷惑，它诱使你按照他人的思维定式生活。
 		8. dogmatic
 			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
-			2. **dogma**教条，教理;**orthodoxy**正统说法;**doctrinal**学说的;**heretical**异教的;**theological**神学的;**rigid**严格的;**intolerant**无法忍受的;**reactionary**反动的;**fundamentalist**信奉正统派基督教的人;**orthodox**正统的;**philosophical**哲学的;
-			3. A lack of willingness to change your categories is dogmatic, and your categories become chains that restrict your growth. /缺乏改变个人分类的意愿是一种教条主义，而你的分类将成为限制你成长的枷锁。
-			4. Science was dry, dogmatic, uncoordinated, insignificant /科学是枯燥的、教条的、不协调的、微不足道的。
-			5. Isn't my safety worth a little sacrifice of dogmatic principle? /难道我的安全不值得教条原则的一点牺牲吗？
-			6. Least of all was any use made of reason, either analytic, synthetic, or dogmatic. /最不重要的是对理性的任何使用， 无论是分析的、综合的还是教条的。
-			7. So proud are these religions and philosophies of their insight into existence, they can't help but accord it universal and dogmatic application. /这些宗教和哲学对自己存在的洞察力是如此引以为豪，甚至于赋予了它普适性、教条化的应用方式。
-			8. Many writers at this time held rigidly **dogmatic** views. /许多作家这一时期刻板地固守教条主义的观点。
-			9. dogmatical
-			10. dogmatics
+			2. 
+			3. **dogma**教条，教理;**orthodoxy**正统说法;**doctrinal**学说的;**heretical**异教的;**theological**神学的;**rigid**严格的;**intolerant**无法忍受的;**reactionary**反动的;**fundamentalist**信奉正统派基督教的人;**orthodox**正统的;**philosophical**哲学的;
+			4. A lack of willingness to change your categories is dogmatic, and your categories become chains that restrict your growth. /缺乏改变个人分类的意愿是一种教条主义，而你的分类将成为限制你成长的枷锁。
+			5. Science was dry, dogmatic, uncoordinated, insignificant /科学是枯燥的、教条的、不协调的、微不足道的。
+			6. Isn't my safety worth a little sacrifice of dogmatic principle? /难道我的安全不值得教条原则的一点牺牲吗？
+			7. Least of all was any use made of reason, either analytic, synthetic, or dogmatic. /最不重要的是对理性的任何使用， 无论是分析的、综合的还是教条的。
+			8. So proud are these religions and philosophies of their insight into existence, they can't help but accord it universal and dogmatic application. /这些宗教和哲学对自己存在的洞察力是如此引以为豪，甚至于赋予了它普适性、教条化的应用方式。
+			9. Many writers at this time held rigidly **dogmatic** views. /许多作家这一时期刻板地固守教条主义的观点。
+			10. dogmatical
+			11. dogmatics
 		9. dogmatism
 		10. dogmatist
 		11. dogmatize
@@ -738,7 +745,7 @@
 ### + \*deme- +
 1. **adam-** 表示不屈服，强硬的。来自a-（否定）+ dam-（驯服），字面含义不能驯服的。
 	1. adamant
-		1. (adamant, stubborn, obdurate, tenacious, steadfast, intransigence, fortitude, inexorable, impenetrable, pertinacious, obstinate, persevere, )
+		1.   (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
 		2. a-不 + dam-驯服 + -ant → 不可征服的。
 		3. diamond（钻石）：坚不可摧的物质  
 		4. 英语单词diamond（钻石）和adamant（坚硬无比的）其实是同源单词，都源自希腊语adamas，由a（not）+daman（to conquer, to tame）组合而成，字面意思就是“不可征服的、坚不可摧的”。希腊人用adamas来表示钻石这一类坚硬无比的物质，由此衍生出diamond和adamant这两个英语单词。其中diamond的演变路径比较复杂，为：希腊语adamas→古拉丁语adamantem→通俗拉丁语adiamantem→中世纪拉丁语diamantem→古法语diamant→英语diamond。而单词adamant的演变路径相对简单，为：希腊语adamas→古拉丁语adamantem→英语adamant。  
@@ -1195,8 +1202,7 @@
 		7. His person, though muscular, was rather attenuated than full; but every nerve and muscle appeared strung and indurated by unremitted exposure and toil. /他的人虽然肌肉发达， 但与其说是丰满， 不如说是消瘦了。 但每一根神经和肌肉似乎都因持续不断的暴露和辛劳而变得紧张和僵硬。
 		8. My feet, which had become accustomed to the indurated lava floor, suddenly rested upon a dust composed of the debris of plants and shells. /我的双脚已经习惯了坚硬的熔岩地面，突然踩在了由植物和贝壳碎片组成的灰尘上。
 	6. obdurate
-		1. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, )
-		2.  (adamant, stubborn, obdurate, tenacious, steadfast, intransigence, fortitude, inexorable, impenetrable, pertinacious, obstinate, persevere, unregenerate, dour)
+		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
 		3. obduracy
 		4. obdurability
 		5. **stubborn**顽固的;**defiant**挑衅的;**steadfast**坚定的;**tenacious**抓紧的;**stubbornly**倔强地;**insistent**坚持的;**belligerent**好战的;**unrelenting**不屈不挠的;**persistent**持续的;**arrogant**自大的，傲慢的;**defiance**蔑视;
@@ -1210,7 +1216,7 @@
 		3. n. 硬粒小麦
 	9. dour
 		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, dour, )
-		2. (adamant, stubborn, obdurate, tenacious, steadfast, intransigence, fortitude, inexorable, impenetrable, pertinacious, obstinate, persevere, unregenerate, dour)
+		2.  (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
 		3. adj. 严厉的；顽强的；阴沉的；不爱讲话的
 		4. 来自拉丁语 durus,硬的，词源同 endure,tree.引申词义冷酷的。
 		5. [dark](dic://dark), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
@@ -3118,10 +3124,11 @@
 		3. subfigure
 		4. refigure
 		5. prefigure
-			1. [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate), [envisage](dic://envisage), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
-			2. **depict**描画;**precede**领先，在…之前;**resemble**类似，像;**evoke**引起，唤起;**embody**体现，使具体化;**herald**使者, 预报者;**prelude**前奏;**forerunner**先驱, 开路人;**allegory**寓言;**imagines**成虫;**utopian**空想的;
-			3. prefigurative
-			4. prefiguration
+			1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
+			2. [imagine](dic://imagine), [conceive of](dic://conceive of), [ideate](dic://ideate), [envisage](dic://envisage), [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate)
+			3. **depict**描画;**precede**领先，在…之前;**resemble**类似，像;**evoke**引起，唤起;**embody**体现，使具体化;**herald**使者, 预报者;**prelude**前奏;**forerunner**先驱, 开路人;**allegory**寓言;**imagines**成虫;**utopian**空想的;
+			4. prefigurative
+			5. prefiguration
 		7. figurine
 		8. figurehead
 		9. figured
