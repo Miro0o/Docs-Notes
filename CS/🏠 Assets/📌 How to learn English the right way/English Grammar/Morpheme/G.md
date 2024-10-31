@@ -6006,7 +6006,7 @@
 			1. _n._ [attention](dic://attention), [cognitive state](dic://cognitive state), [state of mind](dic://state of mind), [assiduity](dic://assiduity), [assiduousness](dic://assiduousness), [concentration](dic://concentration)
 			2. **aforesaid**上述的;**contemplation**沉思;
 		11. engrossing
-			1. (engaging, winning, gripping, absorbing, engrossing, riveting)
+			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
 			2. _adj._ [interesting](dic://interesting)
 			3. _n._ [uninteresting](dic://uninteresting)
 			4. **riveting**吸引人的;**captivating**迷人的;**suspenseful**悬疑的,令人紧张的;**fascinating**迷人的;**thrilling**令人兴奋的;**gripping**引人注意的;**intriguing**引起好奇心的;**entertaining**有趣的;**compelling**引人注目的;**enjoyable**愉快的,快乐的;**thought-provoking**引起思考的,发人深省的;

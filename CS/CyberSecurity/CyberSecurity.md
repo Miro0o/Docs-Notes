@@ -378,7 +378,6 @@ http://www.china-cia.org.cn
 ![risk_management_and_software_security.excalidraw | 1000](../../Assets/Illustrations/Computer%20Security/risk_management_and_software_security.excalidraw.md)
 
 
-
 ### What is Information & Information Systems?
 #### Basics of Information
 ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
