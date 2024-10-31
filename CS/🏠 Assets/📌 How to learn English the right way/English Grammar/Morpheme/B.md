@@ -2240,32 +2240,33 @@
 			2. n. 异化作用, 分解代谢
 		8. catabolize
 	12. diabolic, diabolical
-		1. a. 恶魔的, 恶毒的, 凶暴的, 恶魔似的, (非正式)非常可憎的
-		2. dia-穿过 + bol-抛 + -ic表形容词。源自希腊语 diabollos“诽谤，攻击”，字面含义“扔过去”。
-		3. **demonic**有魔力的，恶魔的;**sinister**阴险的;**malevolent**有恶意的;**devious**弯曲的;**murderous**蓄意谋杀的;**evil**邪恶的;**depraved**堕落的;**sadistic**残酷成性的;**unholy**不神圣的;**nefarious**极坏的;**monstrous**极可恶的;
-		4. **devious**弯曲的;**sinister**阴险的;**nefarious**极坏的;**malevolent**有恶意的;**murderous**蓄意谋杀的;**evil**邪恶的;**cunning**狡猾的;**insidious**隐伏的;**demonic**有魔力的，恶魔的;**wicked**邪恶的;**sadistic**残酷成性的;
-		5.  [devilish](dic://devilish), [diabolical](dic://diabolical), [mephistophelian](dic://mephistophelian), [mephistophelean](dic://mephistophelean)
-		6.  [demonic](dic://demonic), [diabolical](dic://diabolical), [fiendish](dic://fiendish), [hellish](dic://hellish), [infernal](dic://infernal), [satanic](dic://satanic), [unholy](dic://unholy)
-		7. There was a diabolic gleam in his eyes as if something amused him greatly /那时他眼里闪耀着一丝残忍的光辉，仿佛有什么叫他大为高兴似的。
-		8. This is the diabolic world of the camp. /这是营地的恶魔世界。
-		9. This will ensure that the physical profile of the wire is very small, so as Leather face rushes forwards he isn't able to see it in the dark, but it'll also serve another, much more diabolic purpose /这将确保电线的物理轮廓非常小，因此当 Leatherface 向前冲时， 他无法在黑暗中看到它， 但它也会用于另一个更邪恶的目的。
-		10. diabolism
-	13. discobolus
+		1. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
+		2. a. 恶魔的, 恶毒的, 凶暴的, 恶魔似的, (非正式)非常可憎的
+		3. dia-穿过 + bol-抛 + -ic表形容词。源自希腊语 diabollos“诽谤，攻击”，字面含义“扔过去”。
+		4. **demonic**有魔力的，恶魔的;**sinister**阴险的;**malevolent**有恶意的;**devious**弯曲的;**murderous**蓄意谋杀的;**evil**邪恶的;**depraved**堕落的;**sadistic**残酷成性的;**unholy**不神圣的;**nefarious**极坏的;**monstrous**极可恶的;
+		5. **devious**弯曲的;**sinister**阴险的;**nefarious**极坏的;**malevolent**有恶意的;**murderous**蓄意谋杀的;**evil**邪恶的;**cunning**狡猾的;**insidious**隐伏的;**demonic**有魔力的，恶魔的;**wicked**邪恶的;**sadistic**残酷成性的;
+		6.  [devilish](dic://devilish), [diabolical](dic://diabolical), [mephistophelian](dic://mephistophelian), [mephistophelean](dic://mephistophelean)
+		7.  [demonic](dic://demonic), [diabolical](dic://diabolical), [fiendish](dic://fiendish), [hellish](dic://hellish), [infernal](dic://infernal), [satanic](dic://satanic), [unholy](dic://unholy)
+		8. There was a diabolic gleam in his eyes as if something amused him greatly /那时他眼里闪耀着一丝残忍的光辉，仿佛有什么叫他大为高兴似的。
+		9. This is the diabolic world of the camp. /这是营地的恶魔世界。
+		10. This will ensure that the physical profile of the wire is very small, so as Leather face rushes forwards he isn't able to see it in the dark, but it'll also serve another, much more diabolic purpose /这将确保电线的物理轮廓非常小，因此当 Leatherface 向前冲时， 他无法在黑暗中看到它， 但它也会用于另一个更邪恶的目的。
+		11. diabolism
+	14. discobolus
 		1. n. (古希腊或罗马的)掷铁饼者, 掷铁饼者塑像
-	14. hyperbola
+	15. hyperbola
 		1. parabola [pə'ræb(ə)lə] n.抛物线。希腊前缀para-表alongside,beside，希腊词根bol-表to throw。三种圆锥曲线中（另外两种是椭圆和双曲线），抛物线的离心率=1(para-)，hyperbola [haɪ'pɜːbələ] n.双曲线，离心率&gt;1，因为希腊前缀hyper-与拉丁前缀super-同源，表over,above，椭圆的离心率&lt;1。 ​​​​
 		2. **quadratic**二次的;**tangent**切线的，相切的;**algebraic**代数的;**curvature**弯曲;**polynomial**多项式;**Euler**欧拉;**algebra**代数学;**triangle**三角;**rectangle**长方形, 矩形;**equation**方程式，等式;**hyperbolic**双曲线的;
 		3. _n._ [conic section](dic://conic section), [conic](dic://conic)
 		4. Results The difference values calculated were various with the arch form, the sequence was oval, round, parabola, catenuliform, and hyperbola from big difference to smell. /牙弓深度的差值按从大到小的顺序排列为：椭圆形、圆形、抛物线形、悬链形、双曲线形。
 		5. The orbit is now a hyperbola, which is similar to a parabola, but is even more open /这种轨道是条双曲线，类似于抛物线，但更加开放。
-	15. hyperbole
+	16. hyperbole
 		1. hyper-过多 + bol-抛 + -e → 话抛得很高 → 夸张法。
 		2. **exaggeration**夸张;**disingenuous**不真诚的;**overblown**停息的,盛开过的;**rhetoric**修辞，修辞学;**sarcasm**讽刺;**ludicrous**荒唐可笑的,滑稽可笑的;**silliness**愚蠢;**nonsense**谬论;**laughable**荒唐可笑的;**idiocy**白痴;**absurd**荒谬的;
 		3. [trope](dic://trope), [figure of speech](dic://figure of speech), [figure](dic://figure), [image](dic://image)
 		4. aggrandise, amplify, bombastic, grandiloquent, grandiose, hyperbole, rhetorical, turgid. 
 		5. to express with hyperbole /表达时使用夸张法
 		6. American humor is founded largely on hyperbole/美式幽默主要以夸张为基础。
-	16. parable
+	17. parable
 		1. n. （尤指《圣经》中耶稣所讲的的）（道德或宗教）寓言 
 		2. n. 寓言, 隐晦的比较
 		3. para-在周围 + ble-=bole扔，投掷， 即扔在旁边的，引申词义打比方，讲寓言故事。
@@ -2276,7 +2277,7 @@
 		8. The parable of the good Samaritan. /正是有关撒玛利亚人的寓言故事。
 		9. Maybe this was the real lesson of the parable. /也许那则寓言的教育意义正在于此。
 		10. parabolus
-	17. parabola
+	18. parabola
 		1. para-在旁，在周围 + -bol扔，投掷，即扔在旁边的，用于几何术语指抛物线。
 		2. **quadratic**二次的;**curvature**弯曲;**curve**曲线;**tangent**切线的，相切的;**vertex**顶点;**concave**凹的，凹面的;**slope**倾斜;**convex**凸面的;**rectangle**长方形, 矩形;**equation**方程式，等式;**geometry**几何学;
 		3. All you need is a jetliner, a parabola and voila, you're weightless. /你需要的只是一架客机, 飞行个抛物线, 然后看看自己, 你已经失重了。
@@ -2286,27 +2287,27 @@
 		6. parabolical
 		7. paraboloid
 			1. n. 抛物面
-	18. symbol
+	19. symbol
 		1.  sym-,一起，一致，-bol,扔，投掷，词源同 ballistic,problem,parabolic.引申词义象征，符号。
 		2. n. 符号, 象征, 代号, 信条
 		3. sym-共同 + bol-抛 → 共同抛出的标志 → 象征。
-	19. amphibole
+	20. amphibole
 		1. n. 闪石
 		2. amphibology
 			1. n. 语言模棱两可, 意义含混的词句
 		3. ampholbolous
 			1. a. 模棱两可的
-	20. belt
+	21. belt
 		1. n. 腰带, 皮带; 传送带; 地带, 地区; 狠打  
 		2. v. 狠打; 飞奔; 用带系住
 		3. 自 PIE*bhel,膨胀，鼓起，词源同 ball.指鼓起来的一圈，绕一圈的带子
-	21. bolus
-	22. bullet
+	22. bolus
+	23. bullet
 		1. bulletwound
 		2. bulletproof
 		3. bullet-headed
 		4. bullet-head
-	23. devil
+	24. devil
 		1. 来自拉丁语diabolus, 穿过，诽谤，攻击，词源同diabolic.来自dia-，穿过，-ball, 投掷，词源同ballistic, kill. 后用于指魔鬼。devil ’s advocate 故意唱反调的人来自天主教神学名词。原指教堂的一项特殊职务，其职能是对即将宣圣或成为圣徒的凡人进行行为或德行审查，以确保成为圣徒者德行之完美，其对应职务为God’s advocate. 其原先功能部分类似于现在的中纪委，而现在的词义就类似于走过场，一唱一和以使程序完美。
 		2. devil（魔鬼）：希腊语对圣经中“撒旦”的翻译  
 		3. 英语单词devil（魔鬼）的真正历史比所传devil乃do-evil（作恶）之缩略的古老传说要复杂得多。希伯来文的犹太教圣典《旧约》中的Satan（撒旦）实际上是devil的前身，它的意思是adversary（敌手），即“上帝的敌手”。当希伯来文的《旧约》被译成希腊文时，译者将Satan（撒旦）翻译成了diabolos一词，后来演变为英语单词devil。其实，diabolos在希腊文中原义是“诽谤者”，是圣经的影响才使它获得我们今天熟悉的词义“魔鬼”或“恶魔”的。  
@@ -2343,9 +2344,9 @@
 			7. This polarisation is Mrs May's legacy-and it will bedevil her successor /这种两极分化是梅遗留下来的问题，也将困扰她的继任者。
 			8. Negotiators from the EU and Britain are grappling with a bedeviled issue of the border on the island of Ireland. /来自欧盟和英国的谈判代表正在努力解决爱尔兰岛边界的棘手问题。
 			9. bedevilment
-	24. ballute
+	25. ballute
 		1. _[ballute](dic://ballute)_  n. [航] 气球式降落伞
-	25. embolus, emboli
+	26. embolus, emboli
 		1. em-在...内 + bl-=bol-抛 + -em
 		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
 		3. an abnormal particle (e.g. an air bubble or part of a clot) circulating in the blood
@@ -2355,7 +2356,7 @@
 			1. [intercalation](dic://intercalation)
 			2. _n._ [time interval](dic://time interval), [interval](dic://interval), [occlusion](dic://occlusion)
 			3. **thrombosis**血栓形成;**hemorrhage**出血;**aneurysm**动脉瘤;**clot**凝块;**infarction**梗塞;**venous**静脉的;**pulmonary**肺的,肺部的;**edema**瘤腺体;**stenosis**狭窄;**rupture**破裂;**coronary**冠状的;
-	26. emblem
+	27. emblem
 		1. n. 象征, 徽章, 符号  vt. 用象征表示
 		2. em-,进入，使，-bl,扔，掷，镶嵌，词源同 problem,symbol.
 		1. [allegory](dic://allegory)
@@ -3197,13 +3198,14 @@
 		1. cum-=com-一起 + ber-携带 → 带到一起 → 妨碍。
 		2. cumber ['kʌmbə] vt.阻碍；使受苦，n.拖累；妨害。前缀cum-同com-，表together，ber部分同bear承担。搬家公司给你干活呢，已经背着你家的冰箱了，你非要在脖子上再给人家挂个手提袋（together），那就是cumber。然后搬家工小哥会觉着这很cumbersome['kʌmbəs(ə)m] adj.笨重的；累赘的；难处理的。
 		3. cumbrous, cumbersome
-			1. [cumbersome](dic://cumbersome)
-			2. _adj._ [unwieldy](dic://unwieldy), [unmanageable](dic://unmanageable)
-			3. _n._ [wieldy](dic://wieldy)
-			4. **cumbersome**笨重的;**unwieldy**笨拙的;**laborious**勤劳的;**superfluous**过多的;**archaic**古代的;**burdensome**繁重的,烦累的,难以承担的;**antiquated**陈旧的;**bulky**庞大的;**clunky**沉重的;**clumsy**笨拙的;**tedious**冗长乏味的;
-			5. _[cumbrous burdensome](dic://cumbrous%20burdensome)_ 累赘的; 麻烦的; 拖累的; 
-			6. _[cumbrous verbose](dic://cumbrous%20verbose)_ 累赘的
-		4. encumber
+			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+			2. [cumbersome](dic://cumbersome)
+			3. _adj._ [unwieldy](dic://unwieldy), [unmanageable](dic://unmanageable)
+			4. _n._ [wieldy](dic://wieldy)
+			5. **cumbersome**笨重的;**unwieldy**笨拙的;**laborious**勤劳的;**superfluous**过多的;**archaic**古代的;**burdensome**繁重的,烦累的,难以承担的;**antiquated**陈旧的;**bulky**庞大的;**clunky**沉重的;**clumsy**笨拙的;**tedious**冗长乏味的;
+			6. _[cumbrous burdensome](dic://cumbrous%20burdensome)_ 累赘的; 麻烦的; 拖累的; 
+			7. _[cumbrous verbose](dic://cumbrous%20verbose)_ 累赘的
+		5. encumber
 			1. [restrain](dic://restrain), [cumber](dic://cumber), [constrain](dic://constrain)
 			2. _v._ [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 			3. **impede**阻止;**hinder**成为阻碍;**impair**削弱;**constrain**强迫, 强使;**burdensome**繁重的,烦累的,难以承担的;**interfere**干预;**burdened**负荷的;**obstruct**阻塞;**deprive**使丧失，剥夺;**inhibit**抑制;**expend**花费;
@@ -3288,26 +3290,29 @@
 	4. crucife
 		1. Cruciferac, cruciferous
 	5. conifer
-		1. Any gymnospermous tree or shrub bearing cones /n. 针叶树；松柏科植物
-		2. _n._ [gymnospermous tree](dic://gymnospermous tree)
-		3. **pine**松树;**deciduous**每年落叶的;**beech**山毛榉;**shrub**灌木;**evergreen**常绿的;**shrubs**灌木;**birch**桦木;**woodland**林地;**spruce**赤松;**trees**树木;**fir**冷杉;
-		4. Creatures are scarce because few can eat conifer needles. /这里缺乏生物的原因是很少有生物以针叶为食。
-		5. An average hectare of Himalayan conifer forest produces over six tonnes of needles a year /喜马拉雅针叶林平均一公顷每年生产6吨以上的针叶。
-		6. Red squirrels cut conifer cones from trees and bury them in plant litteron the forest floor /红松鼠会将针叶树上的果实割下来，然后埋在森林地面的落叶中。
-		7. coniferyl
-		8. coniferous
-			1. _adj._ [evergreen](dic://evergreen)
-			2. _n._ [deciduous](dic://deciduous)
-			3. **deciduous**每年落叶的;**pine**松树;**beech**山毛榉;**forests**森林;**woodland**林地;**forest**植树于，使成为森林;**birch**桦木;**evergreen**常绿的;**woody**木质的;**vegetation**植物;**spruce**赤松;
-			4. _coniferous forest_ 针叶林；原始森林
-			5. _coniferous tree_ n. 针叶树；针叶树针叶树Y
-			6. Coniferous trees are trees that have needles instead of leaves, and they stay green year round. /针叶树是有针叶而不是叶子的树木，它们全年都保持绿色。
-		9. coniferophyte
-		10. coniferol
-		11. coniferin
-		12. coniferase
-		13. coniferaldehyde
-		14. Coniferae
+		1. coni-松果 + fer-带来 → 带来松果的树 → 针叶树。
+		2. cone [kəʊn] n. 圆锥体；[植] 球果，vt. 使成锥形。古希腊语和拉丁语里，con-词根都表圆锥或球果，本意是尖锐的，与日耳曼词源的单词hone [həʊn] n.磨刀石。因此长着松果这样圆锥体状果实的树木叫conifer ['kɒnɪfə] n.针叶树；[植] 松柏科植物，拉丁词根fer表携带，因为这些树carrying cones。
+		3. Any gymnospermous tree or shrub bearing cones /n. 针叶树；松柏科植物
+		4. _n._ [gymnospermous tree](dic://gymnospermous tree)
+		5. **pine**松树;**deciduous**每年落叶的;**beech**山毛榉;**shrub**灌木;**evergreen**常绿的;**shrubs**灌木;**birch**桦木;**woodland**林地;**spruce**赤松;**trees**树木;**fir**冷杉;
+		6. Creatures are scarce because few can eat conifer needles. /这里缺乏生物的原因是很少有生物以针叶为食。
+		7. An average hectare of Himalayan conifer forest produces over six tonnes of needles a year /喜马拉雅针叶林平均一公顷每年生产6吨以上的针叶。
+		8. Red squirrels cut conifer cones from trees and bury them in plant litteron the forest floor /红松鼠会将针叶树上的果实割下来，然后埋在森林地面的落叶中。
+		9. coniferyl
+		10. coniferous
+			1. a. 松柏目的, 结球果的
+			2. _adj._ [evergreen](dic://evergreen)
+			3. _n._ [deciduous](dic://deciduous)
+			4. **deciduous**每年落叶的;**pine**松树;**beech**山毛榉;**forests**森林;**woodland**林地;**forest**植树于，使成为森林;**birch**桦木;**evergreen**常绿的;**woody**木质的;**vegetation**植物;**spruce**赤松;
+			5. _coniferous forest_ 针叶林；原始森林
+			6. _coniferous tree_ n. 针叶树；针叶树针叶树Y
+			7. Coniferous trees are trees that have needles instead of leaves, and they stay green year round. /针叶树是有针叶而不是叶子的树木，它们全年都保持绿色。
+		12. coniferophyte
+		13. coniferol
+		14. coniferin
+		15. coniferase
+		16. coniferaldehyde
+		17. Coniferae
 	7. confer
 		1. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat, decree, invest, enthrone, ordain,)
 		2.  [confabulate](dic://confabulate), [confab](dic://confab), [consult](dic://consult)
@@ -3351,7 +3356,7 @@
 			4. teleconference
 			5. conferencing
 		18. conferee
-	9. defer, deferent
+	8. defer, deferent
 		1. **deferred**延期的;**postpone**使…延期;**forgo**放弃;**withhold**保留，不给;**reconsider**重新考虑;**deference**顺从;**waive**放弃;**decide**决定;**declare**宣布，声明;**consider**认为;**proceed**开始;
 			1. [delay](dic://delay) 普通用词，多指因外界原因推迟或耽误，也可指有意推迟。
 			2. [postpone](dic://postpone) 正式用词，语气较强，多指有安排的延期，常指明延期到一定的时间。
@@ -3376,14 +3381,15 @@
 			1. **repayment**偿还;**deferred**延期的;**waiver**弃权，放弃;**loan**贷款;**reinstatement**复职;**exemption**免除;**loans**借贷;**withdrawal**撤退;**defer**延期;**eligibility**适任,合格;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效
 			2. After years of dodge and deferment, Jacob Zuma, a former president of South Africa, appeared in court. /经过多年的回避以及推迟后，南非前总统雅各布·祖马(Jacob Zuma)终于出庭受审。
 		6. deferential, deferentialy
-			1. **deference**顺从;**dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**condescending**降低身份的,屈尊的;**respectful**表示尊敬的;**aloof**冷淡的;**assertive**断定的;**sympathetic**表示同情的;**lenient**仁慈的;**judgmental**审判的;**dignified**高贵的;
-			2. people were always deferential to him /人们始终对他很恭敬。
-		7. deference
+			1. (sycophant, obsequious, submissive, servile, deferential)
+			2. **deference**顺从;**dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**condescending**降低身份的,屈尊的;**respectful**表示尊敬的;**aloof**冷淡的;**assertive**断定的;**sympathetic**表示同情的;**lenient**仁慈的;**judgmental**审判的;**dignified**高贵的;
+			3. people were always deferential to him /人们始终对他很恭敬。
+		8. deference
 			1. **reverence**敬礼;**disdain**蔑视;**respect**尊敬，尊重;**contempt**轻视，蔑视;**admiration**钦佩;**regard**尊敬;**defer**延期;**presumption**推测;**propriety**①礼貌,规矩;**prerogative**权利,特权;**disrespect**失礼,无礼;
 			2. [complaisance](dic://complaisance), [compliance](dic://compliance), [compliancy](dic://compliancy), [obligingness](dic://obligingness)
 			3. [politeness](dic://politeness), [civility](dic://civility), [courtesy](dic://courtesy), [good manners](dic://good manners), [agreeableness](dic://agreeableness), [agreeability](dic://agreeability)
 			4. [respect](dic://respect), [respectfulness](dic://respectfulness)
-	10. differ
+	9. differ
 		1. different
 			1. indifferent (nonchalance)
 				1. _adj._ [uninterested](dic://uninterested), [unconcerned](dic://unconcerned), [heedless](dic://heedless), [thoughtless](dic://thoughtless), [unheeding](dic://unheeding), [unimportant](dic://unimportant), [inferior](dic://inferior)
@@ -3422,9 +3428,9 @@
 		7. differentiable
 		8. differentiability
 		9. differentia
-	11. indifference, indifferency
+	10. indifference, indifferency
 		11. **disinterested**不感兴趣的;**uninterested**不感兴趣的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**aloof**冷淡的;**indifference**不关心,不在乎;**unfriendly**不友好的;**oblivious**未察觉;**unhappy**不幸福的;**hostile**敌对的，敌方的;**ignorant**无知的;**callous**起老茧的;
-	12. afferent
+	11. afferent
 		1. adj. [生理] 传入的，输入的
 		2. [sensory nerve](dic://sensory nerve), [afferent nerve](dic://afferent nerve)
 		3. _n._ [nerve](dic://nerve), [nervus](dic://nervus)
@@ -3441,7 +3447,7 @@
 		14. deafferentate, deafferentation
 		15. corticoafferent
 		16. afferentia
-	13. efferent (afferent)
+	12. efferent (afferent)
 		1.  [motor nerve](dic://motor nerve), [efferent nerve](dic://efferent nerve)
 		2. [motorial](dic://motorial)
 		3. _n._ [nerve](dic://nerve), [nervus](dic://nervus)
@@ -3451,8 +3457,8 @@
 		7. efferential
 		8. efferentation
 		9. corticoefferent
-	14. circumference, circumferential
-	15. refer
+	13. circumference, circumferential
+	14. refer
 		1. referral
 		2. referent
 		3. reference
@@ -3481,7 +3487,7 @@
 			12. The groundswell of opinion is in favour of a **referendum**. /赞成公投的观点迅速高涨。
 			13. In 2008, voters there passed a paid-sick-leave referendum by a huge margin. /2008年，那里的选民以极大的优势通过了带薪病假公投。
 			14. Opinion polls show the public might vote down a referendum. /民调显示，民众可能否决公投。
-	16. proffer
+	15. proffer
 		9. pro-向前 + fer-带来 → 带向前 → 贡献出。
 		10. vt. 提供, 贡献, 提议  n. 提供, 提议
 		11. [suggestion](dic://suggestion), [proposition](dic://proposition)
@@ -3499,7 +3505,7 @@
 		23. She sank into the proffered chair, glaring at the discomfited fat captain, and gave her name /女士，他可是拒绝会见她呢。" 她在挪过来的椅子坐下，瞪着眼睛看着显得很尴尬的胖队长，报了自己名字。
 		24. He remembered that Williams had proffered a bar of soap. /。 他记得威廉姆斯曾递过一块肥皂。
 		25. Harry could not as much as proffer a word in explanation /Harry连一个字都解释不了。
-	17. prefer
+	16. prefer
 		1. preferred
 		2. preferment
 		3. preferent
@@ -3510,15 +3516,15 @@
 			3. isopreferences
 		6. preferably
 		7. preferable
-	18. infer
+	17. infer
 		1. inferential, inference
 		2. inferable
-	19. lucifer
-	20. offer
+	18. lucifer
+	19. offer
 		1. reoffer
 		3. offertory, counteroffer
 		4. offeror, offerer, offeree
-	21. fertile
+	20. fertile
 		1. [fecund](dic://fecund), [prolific](dic://prolific)
 		2. [prolific](dic://prolific)
 		3. [fat](dic://fat), [productive](dic://productive), [rich](dic://rich)

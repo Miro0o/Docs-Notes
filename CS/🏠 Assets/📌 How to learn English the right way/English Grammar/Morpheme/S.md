@@ -499,23 +499,27 @@
 	12. [red](dic://red), [redness](dic://redness)
 	13. [optimistic](dic://optimistic), [healthy](dic://healthy)
 	14. **optimistic**乐观的, 乐观主义的;**pessimistic**悲观的;**rosy**蔷薇色的，玫瑰红色的;**cautious**谨慎的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**sceptical**怀疑的;**gloomy**黑暗的;**cynical**愤世嫉俗的;**fearful**可怕的;**optimism**乐观;
-	16. sanguineous
+	15. In the few interactions I've had with her, she seems quite sanguine about aging. /在我与她的几次交流中，她似乎对衰老相当乐观。
+	16. Well, that glass of sanguine will cost you more. /嗯，享用酒精会让你花费更多。
+	17. But then, according to researchers at University College London, human beings are naturally sanguine creatures. /伦敦大学的研究表明，人类是天性乐观的生物。
+	18. They are less **sanguine** about the company's long-term prospects /他们对公司的远景不那么乐观。
+	19. sanguineous
 		1. adj. 血的；血红色的；多血质的；乐观的
 		2. **blood**血，血液;**fleshy**肉的;**venous**静脉的;**veins**纹理;**grotesque**奇形怪状的;**hemorrhage**出血;**fluid**流动的;**malignant**有恶意的;**mucous**黏液的;**cutaneous**皮肤的;**bleeding**出血;
 		3. _[sanguineous](dic://sanguineous)_  adj. 血的；血红色的；多血质的；乐观的
 		4. _[sanguineous temperament](dic://sanguineous%20temperament)_  多血质
-	17. sanguinity
+	20. sanguinity
 		1. **optimism**乐观;**cynicism**犬儒主义;**melancholy**忧郁, 悲哀;**sincerity**真实, 诚挚;**enthusiasm**热情, 热心;**impatience**急躁;**idealism**唯心主义，理想主义;**trepidation**惊恐;**silliness**愚蠢;**apprehension**理解;**skepticism**怀疑论;
-	18. sanguinin
-	19. sanguinary
+	21. sanguinin
+	22. sanguinary
 		1. adj. 血腥的；流血的；残暴的
 		2. **savage**残酷的;**bloody**嗜杀的，残忍的;**murderous**蓄意谋杀的;**bloodshed**流血,虐杀;**gruesome**可怕的;**violent**猛烈的;**brutal**残忍的;**ferocious**残忍的;**ghastly**可怕的;**skirmish**小冲突，小规模战斗;**gory**血淋淋的;
-	20. sanguinaria
+	23. sanguinaria
 		1. _n._ 血根草(属)
 		2. ensanguine, ensanguined
 		3. sanguinarine
 		4. sanguinarin
-	21. consanguine
+	24. consanguine
 		1. con-一起 + sanguine【a. 血红色的】
 		2. adj. 同血亲的，同宗族的（等于 consanguineous）
 		3. **kinship**亲属关系，家属关系;**familial**家庭的;**paternal**父亲的;**kindred**同类的;**offspring**子女, 子孙, 后代;**maternal**母亲的;**kin**亲戚;**marital**婚姻的;**unmarried**未婚的;**siblings**同科;**sibling**兄弟姊妹;
@@ -585,7 +589,7 @@
 		5. **annular**环形的，有环纹的;**concentric**同一中心的,同轴的;**planar**平坦的;**circle**圆;**halo**光环;**spherical**球的;
 		6. a bright spot on the parhelic circle; caused by diffraction by ice crystals /出现在太阳旁边的一个常常形成光亮的环的明亮光斑；是由于冰晶衍射造成的。
 2. **sol-** = sun, 表示“太阳”。源自拉丁语 sol "the sun."
-	1. insolate (insulate)
+	1. insolate (insulate, insolent, obsolete, )
 		1. in-进入 + sol-太阳 + -ate, 表动词 → 放在太阳之中 → 曝晒。
 		2. vt. 使曝晒
 		3. [sun](dic://sun), [solarize](dic://solarize), [solarise](dic://solarise)
@@ -755,6 +759,60 @@
 	14. "I am sure Peter has eaten **sorrel** again, and that makes him groan so," said his mother /“我相信彼得一定又吃了酸模，才这样呻吟。”他母亲说。
 3. surmullet
 
+
+
+## se
+### serv-   = serve, 表示“服务”。
+1. concierge
+2. deserve
+3. dessert
+4. disserve
+5. serf
+6. sergeancy
+7. sergeant
+8. serve
+	1. vt. 可作...用, 服务, 经历, 招待, 供应, 送交, 对待  
+	2. vi. 服务, 服役, 侍应, 适合, 有用, 开球  
+	3. n. 发球, 轮到发球
+	5. timeserving
+	6. timeserver
+	7. servitude
+	8. servile
+		1. (sycophant, obsequious, submissive, servile, deferential)
+		2. _adj._ [bootlicking](dic://bootlicking), [fawning](dic://fawning), [sycophantic](dic://sycophantic), [toadyish](dic://toadyish), [obsequious](dic://obsequious), [slavish](dic://slavish), [subservient](dic://subservient)
+		3. _n._ [unservile](dic://unservile), [unsubmissive](dic://unsubmissive), [free](dic://free)
+		4. **servitude**奴隶状态;**obedient**孝顺的;**submissive**顺从的, 唯命是从的;**slave**奴隶;**abject**卑贱的;**unworthy**不值得的;**bourgeois**资产阶级的;**wretched**可怜的;**servants**仆人;**tyrannical**暴君的,暴君似的;**lowly**地位低的;
+		5. _[servile self-abasement](dic://servile%20self-abasement)_ 卑躬屈节的自贬
+		6. 
+	9. service
+		1. unserviceable
+		2. Teleservices
+		3. servicing
+		4. servicer
+		5. serviceman
+		6. serviceable
+		7. slef-service
+		8. interservice
+		9. in-service
+		10. ex-service
+		11. disservice
+	10. servant
+		1. servant-maid
+		2. servant-girl
+		3. manservant
+		4. maidservant
+		5. eyeservant
+	11. self-serving
+9. server
+10. servery
+11. serviete
+12. servility
+13. serving
+14. servitor
+15. servo
+16. servomechanism
+17. servomotor
+18. subserve
 
 
 ## sc
@@ -1427,7 +1485,7 @@
 		8. The letter, marked on the envelope: To be delivered immediately after my death, contained instructions for his obsequies. /这封信在信封上标明：我死后立即送达， 其中包含有关他的葬礼的说明。
 		10. obsequial
 	8. obsequious
-		1. (sycophant, obsequious, submissive, servile)
+		1. (sycophant, obsequious, submissive, servile, deferential)
 		2. ob-用力 + sequ-跟随 + -ious表形容词 → 拼命跟随别人 → 谄媚的。
 		3. 来自拉丁语obsequium,顺从，履行服务职责，来自ob-,向前，朝向，-sequi,跟随，词源同sequence.原为跟班，跟随，后引申词义巴结的，讨好的。
 		4. a. 谄媚的, 奉承的, 顺从的
@@ -3626,11 +3684,12 @@
 	3. scansorial
 		1. 鸟] 攀禽类的; 攀附的;
 	4. slander
-		1.  [aspersion](dic://aspersion), [calumny](dic://calumny), [defamation](dic://defamation), [denigration](dic://denigration)
-		2.  [defame](dic://defame), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear), [sully](dic://sully), [besmirch](dic://besmirch)
-		3. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [speech act](dic://speech act)
-		4. _v._ [charge](dic://charge), [accuse](dic://accuse)
-		5. **defamation**诽谤, 中伤;**libel**诽谤罪;**accusation**指责;**falsehood**谎言;**defamatory**诽谤的;**insults**侮辱;**smear**涂抹;**harassment**骚扰, 扰乱;**hateful**可恨的;**insult**侮辱;**discredit**败坏…的名声;
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		2.  [aspersion](dic://aspersion), [calumny](dic://calumny), [defamation](dic://defamation), [denigration](dic://denigration)
+		3.  [defame](dic://defame), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear), [sully](dic://sully), [besmirch](dic://besmirch)
+		4. _n._ [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job), [speech act](dic://speech act)
+		5. _v._ [charge](dic://charge), [accuse](dic://accuse)
+		6. **defamation**诽谤, 中伤;**libel**诽谤罪;**accusation**指责;**falsehood**谎言;**defamatory**诽谤的;**insults**侮辱;**smear**涂抹;**harassment**骚扰, 扰乱;**hateful**可恨的;**insult**侮辱;**discredit**败坏…的名声;
 3. **scend-, scens-, scent-** = climb, 表示“爬，攀”，源自原始印欧语 *skand-（to spring, leap跳）。和表示爬的 scale，表示浏览的 scan，表示诽谤的 scandal 同源。源自拉丁语 scandere "to climb."
 	1. condescend
 		1. **stoop**弯腰;**criticize**评论, 批评;**offend**冒犯;**dare**的风险;**amuse**使发笑;**bother**烦扰，打扰;**refuse**拒绝;**speak**说话;**insult**侮辱;**politely**客气地;**beg**恳求;
@@ -4039,15 +4098,16 @@
 		15. imprescriptibility
 	11. imperscriptible
 	12. proscribe
-		1. vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
-		2. 1 - pro-,在前，提前，-scribe,写，词源同 describe,prescribe.即写在前面的话，说在前面的丑话，引申词义禁令，禁止。
-		3. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
-		4. **prescribe**开药方;**prohibit**阻止，禁止;**restrict**限制;**forbid**禁止;**curtail**截断, 缩短;**confine**限制;**condemn**判刑，定罪;**forbade**禁止;**forbidding**冷峻的;**legislate**制定法律;**regulate**调节，规定;
-		5. In industry parlance, these groups were designated as " proscribed" . /按照业界的说法，这些组织被指定为“被禁止的”。
-		6. While governments might make a distinction between proscribed and criminal groups, kidnappers don't. /虽然政府可能会对被禁组织和犯罪集团做出区分，但绑架者不会。
-		7. The boy was not making sense. " The Warrior's Sons were proscribed three hundred years ago" . /" 战士之子三百年前就被废黜了。"
-		8. " No matter, " said Homais. " I am surprised that in our days, in this century of enlightenment, anyone should still persist in proscribing an intellectual relaxation that is inoffensive, moralising, and sometimes even hygienic; is it not, doctor" ?  /" 没关系！" 奥默说， " 我觉得奇怪的是，到了今天，到了一个光明的世纪，既然可以读《圣经》，为什么要禁止看放松精神的戏剧，禁止读无害而有益健康的文学、读警恶扬善的文学呢？ 博士，你说呢？"
-	13. transcribe
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+		2. vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
+		3. 1 - pro-,在前，提前，-scribe,写，词源同 describe,prescribe.即写在前面的话，说在前面的丑话，引申词义禁令，禁止。
+		4. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
+		5. **prescribe**开药方;**prohibit**阻止，禁止;**restrict**限制;**forbid**禁止;**curtail**截断, 缩短;**confine**限制;**condemn**判刑，定罪;**forbade**禁止;**forbidding**冷峻的;**legislate**制定法律;**regulate**调节，规定;
+		6. In industry parlance, these groups were designated as " proscribed" . /按照业界的说法，这些组织被指定为“被禁止的”。
+		7. While governments might make a distinction between proscribed and criminal groups, kidnappers don't. /虽然政府可能会对被禁组织和犯罪集团做出区分，但绑架者不会。
+		8. The boy was not making sense. " The Warrior's Sons were proscribed three hundred years ago" . /" 战士之子三百年前就被废黜了。"
+		9. " No matter, " said Homais. " I am surprised that in our days, in this century of enlightenment, anyone should still persist in proscribing an intellectual relaxation that is inoffensive, moralising, and sometimes even hygienic; is it not, doctor" ?  /" 没关系！" 奥默说， " 我觉得奇怪的是，到了今天，到了一个光明的世纪，既然可以读《圣经》，为什么要禁止看放松精神的戏剧，禁止读无害而有益健康的文学、读警恶扬善的文学呢？ 博士，你说呢？"
+	14. transcribe
 		1. v. （逐字逐句）记录；改写成，译成（另一种语言）；改编（乐曲）；用音标标音；誊写，抄写；抄录（乐曲），录（音）；（生化）转录
 		2. _v._ [write down](dic://write down), [set down](dic://set down), [get down](dic://get down), [put down](dic://put down), [rewrite](dic://rewrite), [adapt](dic://adapt), [accommodate](dic://accommodate)
 		3. **transcription**抄本;**decipher**译解;**translate**翻译;**compose**作曲;**recite**背诵;**transcript**抄本;**verbatim**逐字地;**write**写，写字;**handwritten**手写的;**memorize**记住，背熟;**synthesize**合成;
@@ -6788,20 +6848,21 @@
 		2. _n._ [slow](dic://slow)
 		3. **voila**瞧;**hey**喂！;**gee**向右！前进！快！;**yep**是;**magically**如魔法般地,用魔法地;**oh**哦;**yup**是的;**nope**不是，没有;**then**当时;
 	62. restive
-		1. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery, )
-		2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, )
-		3.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
-		4. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
-	63. solstice
+		1. - adj. 难驾驭的；焦躁不安的，不耐烦的；（马）倔头倔脑不肯往前的，停下闹别扭的
+		2. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery, )
+		3. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, fidgety, restless, itchy, antsy, agitated, cranky, chatty)
+		4.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
+		5. **restless**焦躁不安的;**unruly**不守规矩的;**unsettled**未处理的;**agitated**激动的;**discontent**不满;**unrest**不安;**beleaguered**饱受批评的;**rebellious**叛逆的;**irritable**易怒的, 急躁的;**lawless**非法的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;
+	64. solstice
 		1. _n._ [cosmic time](dic://cosmic time)
 		2. **winter**冬季;**sun**太阳;**springtime**春季，春天;**moon**月亮;**pagan**异教的;**Hanukkah**光明节;**sunrise**日出;**autumn**秋天;**summer**夏季;**eclipse**日或月食;**summertime**夏季;
 		3. solstitial
 			1. adj. 至的；冬至的；夏至的
-	64. stead, steadfast, steady, steading
+	65. stead, steadfast, steady, steading
 		1. _adj._ [resolute](dic://resolute), [constant](dic://constant)
 		2. _n._ [irresolute](dic://irresolute), [inconstant](dic://inconstant)
 		3. **unwavering**不动摇的,坚定的;**staunch**坚固的;**stalwart**坚定的;**faithful**忠实的，忠诚的;**fervent**强烈的;**loyal**忠诚的，忠心的;**tenacious**抓紧的;**tireless**不疲劳的;**ardent**热情的;**principled**原则性的;**fearless**无畏的;
-	65. steer
+	66. steer
 		1. [tip](dic://tip), [lead](dic://lead), [confidential information](dic://confidential information), [wind](dic://wind), [hint](dic://hint)
 		2. [bullock](dic://bullock)
 		3. [maneuver](dic://maneuver), [manoeuver](dic://manoeuver), [manoeuvre](dic://manoeuvre), [direct](dic://direct), [point](dic://point), [head](dic://head), [guide](dic://guide), [channelize](dic://channelize), [channelise](dic://channelise)
@@ -6810,8 +6871,8 @@
 		7. _v._ [control](dic://control), [command](dic://command), [direct](dic://direct)
 		8. **nudge**用肘轻推;**propel**推进;**direction**方向;**skid**刹车;**clear**清楚的;**sway**使摇动;**avoid**避免;**deflect**使偏斜;**toward**向;**rein**缰绳;**navigate**航行于;
 		9. _steer clear of_ 避开；绕开
-	66. still
-	67. stilt
+	67. still
+	68. stilt
 		1.  [pile](dic://pile), [spile](dic://spile), [piling](dic://piling)
 		2. [Australian stilt](dic://Australian stilt)
 		3. [stiltbird](dic://stiltbird), [longlegs](dic://longlegs), [long-legs](dic://long-legs), [stilt plover](dic://stilt plover), [Himantopus stilt](dic://Himantopus stilt)
@@ -6821,7 +6882,7 @@
 		7. _[stilt house](dic://stilt%20house)_  支架屋; 干栏屋; 
 		8. _[built on stilts](dic://built%20on%20stilts)_  架空
 		9. _[walk on stilts](dic://walk%20on%20stilts)_  踩高跷
-	68. stoic, stolid (staid, 1. characterized by dignity and propriety)
+	69. stoic, stolid (staid, 1. characterized by dignity and propriety)
 		1. stoic - 公元前308年左右，古希腊哲学家芝诺（Zeno of Citium, 336?-264?BC）创立了一个新的学派。其哲学体系以伦理学为中心，宣扬宿命论、神秘主义与禁欲主义，主张对神意与不可避免的命运无条件地屈从。  
 		2. 芝诺通常在雅典集市的画廊柱下讲学，人们称此地点为Stoā Poikilē 'Painted Portico'（有画的柱廊），因为那里的柱廊装饰着壁画。也正因为如此，这一派学者被称为Stoics（由拉丁语stōicus演化而来），汉语译为“画廊派”、“柱廊派”或音译作“斯多葛派”。由于这一派学者有高度自制力，不以苦乐为意，能忍受困苦与不幸而无怨言，所以到了16世纪首字母小写的stoic常用以喻指“恬淡寡欲的人”、“坚忍克己的人”或“禁欲主义者”；在用作形容词时，stoic表示“坚忍的”、“恬淡寡欲的”；从stoic派生的stoicism原指“斯多葛派”，而今则被赋予“坚忍”、“自制”、“禁欲”等义。
 		3. a. 斯多葛派的, 禁欲主义的, 不以苦乐为意的, 坚忍的, 淡泊的  
@@ -6844,7 +6905,7 @@
 			8. Meme bore up under the exhibitions with the same stoicism that she had dedicated to her apprenticeship /梅梅以她在学徒生涯中所献身的那种坚忍态度忍受着展览。
 		13. stoical
 			1. 
-	69. store
+	70. store
 		1. superstore
 		2. storewide
 		3. storethrough
@@ -6879,7 +6940,7 @@
 		23. megastore
 		24. drugstore
 		25. bookstore
-	70. stultify
+	71. stultify
 		1. [cripple](dic://cripple)
 		2. [prove](dic://prove), [demonstrate](dic://demonstrate), [establish](dic://establish), [show](dic://show), [shew](dic://shew), [ridicule](dic://ridicule), [roast](dic://roast)
 		3. stultification
@@ -6887,17 +6948,17 @@
 			2. _n._ [derision](dic://derision), [degradation](dic://degradation), [debasement](dic://debasement)
 			3. **stagnation**停滞;**malaise**不舒服;**alienation**离间,疏远;**apathy**冷漠，无兴趣，漠不关心;**tyranny**暴政;**complacency**自满;**boredom**厌倦;**disintegration**瓦解;**abject**卑贱的;**mediocrity**平庸,第二流;**preoccupation**全神贯注，入神;
 		5. **stifle**使窒息;**subvert**推翻;**impede**阻止;**hinder**成为阻碍;**deprive**使丧失，剥夺;**undermine**在某物下挖洞或挖通道;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**obstruct**阻塞;**compel**强迫，迫使;**impair**削弱;
-	71. varistor, 
-	72. armistice
+	72. varistor, 
+	73. armistice
 		1. _n._ [peace](dic://peace)
 		2. **truce**休战;**cease-fire**停火;**ceasefire**停火;**treaty**条约，协议;**surrender**投降;**agreement**协定, 协议, 契约;**disarmament**解除武装;**war**战争，斗争;**ultimatum**最后通牒;**stalemate**僵局;**pact**条约;
-	73. extant
+	74. extant
 		1. _adj._ [living](dic://living), [surviving](dic://surviving)
 		2. _n._ [extinct](dic://extinct), [nonextant](dic://nonextant)
 		3. **surviving**继续存在的;**earliest**最早;**unpublished**未出版的,未出版发行的;**preserved**保存的;**existent**生存者;**ancient**古代的;**extinct**灭绝的，绝种的;**manuscript**手稿, 原稿, 底稿;**remains**残余;**archaic**古代的;**exist**存在;
-	74. statin
+	75. statin
 		1. n. 他汀类药物；抑制素（statin的复数形式）；降低胆固醇药物
-	75. stet
+	76. stet
 		1. _v._ [invalidate](dic://invalidate), [annul](dic://annul), [quash](dic://quash), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify), [direct](dic://direct)
 		2. - v. 对……加注表示不删，保留 
 		3. n. 保留，不删
@@ -6908,14 +6969,18 @@
 	1. _n._ [reproductive structure](dic://reproductive structure)
 	2. **petals**花瓣;**petal**花瓣;**flower**花;**ovary**子房;**pollen**传授花粉给;**orchid**兰花;**blooms**水华;**flowering**开花的;**bloom**花;**bud**芽，萌芽;**blooming**盛开的;
 8. stem
-	1. stemmed
+	1. n. 茎, 干, 柄, 船首, 血统, 堵塞物  
+	2. vt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行  
+	3. vi. 堵住, 逆行
+	4.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+	5. stemmed
 		1. _adj._ [cylindrical-stemmed](dic://cylindrical-stemmed), [leafy-stemmed](dic://leafy-stemmed), [multi-stemmed](dic://multi-stemmed), [short-stemmed](dic://short-stemmed), [spiny-stemmed](dic://spiny-stemmed), [stout-stemmed](dic://stout-stemmed), [thick-stemmed](dic://thick-stemmed)
 		2. _n._ [stemless](dic://stemless)
 		3. [caulescent](dic://caulescent), [cauline](dic://cauline)
 		4. **arose**引发;**spurred**装有马刺的;**led**通向;**precipitated**沉淀的;**compounded**混合的;**partly**在一定程度上;**derived**导出的;**resulting**作为结果的,因而发生的;**attributable**的;**reflected**反射的;**hampered**受阻碍的;
 		5. _[stemmed goblet](dic://stemmed%20goblet)_ 高脚酒杯
 		6. stemware
-9. stow (bestow)
+10. stow (bestow)
 	1. 1. _vt._ 装, 装载
 	2. 无票偷乘(交通工具，尤指船或飞机)
 	3. 将某物收好(或保存好)
@@ -7437,7 +7502,7 @@
 	2. destruct
 	3. instruct
 	4. obstruct
-		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
 	5. structure
 		1. structured
 		2. structural
@@ -7645,19 +7710,21 @@
 		5. [oblige](dic://oblige) 指由于生理上或道德上的需要，促使某人做某事，也指有权威的人或机构迫使某人做某事，还可指在特定情况下被迫作出的反应。
 		6. **restrict**限制;**restrain**抑制，控制;**curtail**截断, 缩短;**confine**限制;**impede**阻止;**inhibit**抑制;**hinder**成为阻碍;**constraints**强制;**dictate**命令;**constraint**约束;**define**定义;
 		7. constrict
-			1. _v._ [tighten](dic://tighten)
-			2. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
-		8. constringe
+			1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+			2. _v._ [tighten](dic://tighten)
+			3. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
+		9. constringe
 			1. _constringe_  vt. 使收敛；使收缩；压缩
 	13. restrain (refrain)
-		1. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
-		2.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
-		3. [confine](dic://confine), [hold](dic://hold)
-		4. [encumber](dic://encumber), [cumber](dic://cumber), [constrain](dic://constrain)
-		5.  [intimidate](dic://intimidate)
-		6. _v._ [prevent](dic://prevent), [keep](dic://keep), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check)
-		7. **curtail**截断, 缩短;**confine**限制;**subdue**征服;**constrain**强迫, 强使;**suppress**抑制;**inhibit**抑制;**stifle**使窒息;**restraining**抑制的,遏制的,控制的;**restrained**克制的,节制的,受到控制的;**restrict**限制;**compel**强迫，迫使;
-	14. restrict
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+		2. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
+		3.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
+		4. [confine](dic://confine), [hold](dic://hold)
+		5. [encumber](dic://encumber), [cumber](dic://cumber), [constrain](dic://constrain)
+		6.  [intimidate](dic://intimidate)
+		7. _v._ [prevent](dic://prevent), [keep](dic://keep), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check)
+		8. **curtail**截断, 缩短;**confine**限制;**subdue**征服;**constrain**强迫, 强使;**suppress**抑制;**inhibit**抑制;**stifle**使窒息;**restraining**抑制的,遏制的,控制的;**restrained**克制的,节制的,受到控制的;**restrict**限制;**compel**强迫，迫使;
+	15. restrict
 		1. [curtail](dic://curtail), [curb](dic://curb), [cut back](dic://cut back)
 		2.  [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [qualify](dic://qualify)
@@ -7667,11 +7734,11 @@
 			2. [confine](dic://confine) 侧重施加不可逾越的限制，有时暗示束缚、囚禁。  
 			3. [restrict](dic://restrict) 指把某人或物限制在一定范围之内。
 		6. **curtail**截断, 缩短;**prohibit**阻止，禁止;**limiting**限制的;**constrain**强迫, 强使;**inhibit**抑制;**allow**允许;**impede**阻止;**exclude**排除;**confine**限制;**limit**限度;**hinder**成为阻碍;
-	15. distrain
+	16. distrain
 		1. vt.vi. 扣押
 		2. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
 		3. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
-	16. district
+	17. district
 		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
 		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
 		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
@@ -7683,8 +7750,8 @@
 		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
 		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
 		11.  [zone](dic://zone)
-	17. distress
-	18. prestige, prestigious
+	18. distress
+	19. prestige, prestigious
 		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
 		2. [prestigiousness](dic://prestigiousness)
 		3. _n._ [standing](dic://standing)

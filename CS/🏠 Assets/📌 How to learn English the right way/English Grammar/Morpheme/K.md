@@ -549,6 +549,8 @@
 			4. The canticle is gradual perhaps because the bear's awakening is gradual. /这首圣歌之所以是渐进的，也许是因为熊是渐渐觉醒的。
 			5. It had more Latin, like the weekly services, which now featured Latin masses and canticles /颂歌中有了更多的拉丁语，就像每周的礼拜一样，现在以拉丁语弥撒和圣歌为特色。
 		10. enchant：[ɪn'tʃænt] vt.使迷住，用魔法迷住  
+			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
+			2. 
 		11. enchantment：[ɪn'tʃɑːntm(ə)nt] n.魅力，魔法，妖术，迷醉  
 			1. _n._ [liking](dic://liking), [psychological state](dic://psychological state), [mental state](dic://mental state), [sorcery](dic://sorcery), [black magic](dic://black magic), [black art](dic://black art), [necromancy](dic://necromancy)
 			2. **magic**巫术，魔法，戏法;**magical**魔术的;**sorcery**魔术，巫术;**aura**气氛;**allure**吸引;**mystical**神秘的;**potion**一剂;**spells**拼写;**whimsy**怪念头;**charms**吸引力;**alchemy**点金术;

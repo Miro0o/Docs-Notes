@@ -1448,7 +1448,7 @@
 			6. To rely on such a measure is **inexpedient**. /依赖这种措施是不得计的。
 			7.  It would be **inexpedient** to raise taxes further/进一步加税就是不合理。
 	14. impede
-		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, )
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
 		2. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		3. vt. 妨碍, 阻碍, 阻止
 		4. im-进入 + ped-脚 + -e → 把脚放进去 → 妨碍。

@@ -3516,7 +3516,7 @@ feist
 	- Hollywood doesn't have a lot of good feisty roles for girls my age. /好莱坞没多少适合我这个年龄的女孩子扮演的生气勃勃的好角色。
 
 fetter
--   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
 -  来自古英语 fetor,链子，特指脚链，词源同 foot.
 -  [hobble](dic://hobble)
@@ -3560,6 +3560,7 @@ fidget (fiddle, piddle)
  - She's always fidgeting about her mother's health. /她经常为她母亲的健康担忧。
  - His voice was deep and rich and somehow took the fidgets out of them. /它的声音深沉、圆润，不知怎么竟消除了他们的不安。
  - fidgety
+	 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, fidgety, restless, itchy, antsy, agitated, cranky, chatty)
 	 - unable to relax or be still
 	 - a. 不安的, 烦躁的
 	 - [antsy](dic://antsy), [fretful](dic://fretful), [itchy](dic://itchy), [restless](dic://restless)
@@ -4987,7 +4988,7 @@ grass
 - 来自 PIE*ghre,生长，变绿，词源同 grow,green.
 
 grate (integrate) 
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, fidgety, restless, itchy, antsy, agitated, cranky, chatty)
 - - n. （壁炉上的）金属炉架，炉箅；壁炉（或熔炉）的炉膛；格栅；<美>下水道孔盖 
 - v. 擦碎，磨碎（食物）；粗声粗气地说话；使烦躁，使难受；发出刺耳的摩擦声
 - **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
@@ -5528,7 +5529,7 @@ ham
 - hamstring
 	- n. 后腿腱  
 	- vt. 使无能为力; 妨碍; 切断腿腱使成跛腿
-	-   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
 	- **groin**腹股沟;**knee**膝盖，膝;**ankle**踝关节，踝;**soreness**悲伤;**tendon**腱;**ligament**韧带;**injury**伤害，损害;**calf**小牛;**biceps**二头肌，强健的筋肉;**tightness**坚固,紧密;**thigh**大腿
 	- Farming, the north's main source of income, has been hamstrung. .作为北方最主要的收入来源的农业也因此荒废。
 	- The slightly kinder reading is that the dowager empress was hamstrung by convention unable to pick anyone older. /稍微温和一点的解读是，皇太后被传统束缚，无法挑选年龄更大的人。
@@ -5553,7 +5554,7 @@ hammock (hummock)
 - He's taking a nap in his hammock. /他正在吊床上睡小觉。
 
 hamper (tamper)
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
 - 1 - 来自古法语 hanap,杯子，酒杯，后引申词义装杯子的大篮子。防碍义词源不详，参照习语basket case,困境。
 - op-hamper
 - [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
@@ -5691,6 +5692,7 @@ hamper (tamper)
 	- _handicraft industry_ 手工业
 	- _handicraft article_ 工艺美术品
 - handicap
+	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
 	- _n._ 障碍 ;(生理或智力上的)缺陷；残疾; 加给强对手的不利条件
 	- _vt._ 妨碍；使不利 使(某人)行动和生活不正常
 	- [disability](dic://disability), [disablement](dic://disablement), [impairment](dic://impairment)
@@ -6402,6 +6404,7 @@ hind
 - hindlimb
 - hindgut
 - hinder
+	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
 	- [impede](dic://impede)
 	- [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
 	- [handicap](dic://handicap), [hamper](dic://hamper)
@@ -10671,6 +10674,7 @@ regard
 	- disregardful
 
 rein
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar)
 - 来自（缩写自）拉丁语 retinere,维持，控制，词源同 retain.引申诸相关词义。
 	- [harness](dic://harness), [rein in](dic://rein in), [draw rein](dic://draw rein)
 	- [rein in](dic://rein in)
@@ -10847,7 +10851,8 @@ rivet ()
 - Right, so a riveting book, you're riveted to the book /所以一本引人入胜的书，你被这本书深深吸引。
 - Flat head rivets would reduce wind drag. /用平头铆钉可以减小风阻。
 - I was riveted. I loved it so much. /我被吸引住了。我非常喜欢它。
-- riveting (engaging, winning, gripping, absorbing, engrossing, riveting)
+- riveting
+	-  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
 	-  [absorbing](dic://absorbing), [engrossing](dic://engrossing), [fascinating](dic://fascinating), [gripping](dic://gripping)
 	- _adj._ [interesting](dic://interesting)
 	- _n._ [uninteresting](dic://uninteresting)
@@ -11657,7 +11662,7 @@ scruple (scruple, oscillation , vacillation)
 	- unscrupulousness
 	- unscrupulous 
 		- (imprudence, unscrupulous, )
-		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent)
+		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
 		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
 		- _n._ [scrupulous](dic://scrupulous)
 		- **dishonest**不诚实的;**unethical**不道德的;**devious**弯曲的;**greedy**贪婪的;**sleazy**质地薄的;**nefarious**极坏的;**ruthless**无情的，残忍的;**opportunistic**机会主义的;**corrupt**腐败的，贪污的;**scheming**惯耍阴谋的，诡计多端的;**fraudulent**欺骗的,不诚实的
@@ -11801,7 +11806,8 @@ seam
 - she sewed the seams and hemmed the border. /她缝好接缝和褶边。
 - unseam
 	- vt. 拆……的线缝；将……拆开
-- seamy (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand )
+- seamy
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
 	-  seam,缝补，缝隙，-y,形容词后缀。比喻用法，把难看的一面缝在里面。词义演变比较 seedy.
 	- a. 露出线缝的, 丑恶的
 	- [seedy](dic://seedy), [sleazy](dic://sleazy), [sordid](dic://sordid), [squalid](dic://squalid)
@@ -11945,7 +11951,7 @@ sham
 - _[sham battle](dic://sham%20battle)_  模拟战
 
 shackle
--   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
 - 来自古英语 sceacel,镣铐，脚链，来自 Proto-Germanic*skakulaz,镣铐，脚链，来自 PIE*skek,摇晃，词源同 shake.-le,工具格后缀。
 - _n._ [restraint](dic://restraint), [constraint](dic://constraint), [bar](dic://bar)
 - _v._ [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold)
@@ -13136,6 +13142,7 @@ south
 	- a. 向南行的, 向南行驶的
 
 sordid
+- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
 - [seamy](dic://seamy), [seedy](dic://seedy), [sleazy](dic://sleazy), [squalid](dic://squalid)
 - [flyblown](dic://flyblown), [squalid](dic://squalid)
 - _adj._ [disreputable](dic://disreputable), [corrupt](dic://corrupt), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean), [acquisitive](dic://acquisitive)
@@ -13827,6 +13834,7 @@ sterling
 - **silver**银;**pewter**锡铅合金,白镴;**gold**金，黄金;**earrings**耳环;**pound**英镑;**brooch**胸针，领针;**earring**耳环，耳饰;**bracelet**手镯;**pendant**下垂物，垂饰;**jewellery**珠宝;**brass**黄铜;
 
 stifle
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
 - 1 - 词源不确定，可能最终来自 PIE*steip,压紧，打包，塞满，词源同 stiff,stuff.-le,表反复。引申词义窒息，压制，扼杀等。
 - [smother](dic://smother), [strangle](dic://strangle), [muffle](dic://muffle), [repress](dic://repress)
 - [suffocate](dic://suffocate), [asphyxiate](dic://asphyxiate), [choke](dic://choke)
@@ -14096,6 +14104,7 @@ stub
 	- adj. 多梗株的；株状的；粗短的; v. 使…碰踢；清除掉…的残根（stub的过去式与过去分词）;
 
 stymie
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
 - . (喻)困难的境地  
 - vt. 使(球)处于困难的位置, 使为难, 使处困境, 妨碍, 阻挠, 阻碍
 - [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
@@ -14489,7 +14498,7 @@ tether ​​​​
 thief
 - thievishness
 - thievish
-	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily)
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
 	- _adj._ [dishonest](dic://dishonest), [dishonorable](dic://dishonorable)
 	- _n._ [honest](dic://honest, [honorable](dic://honorable)
 	- adj. 有偷窃癖的；贼似的；偷偷摸摸的
@@ -14899,6 +14908,7 @@ tower
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
 - [restrict](dic://restrict), [restrain](dic://restrain), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)

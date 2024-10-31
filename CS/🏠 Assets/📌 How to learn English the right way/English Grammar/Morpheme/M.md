@@ -2615,7 +2615,7 @@
 		1. maliciousness
 		2. maliciously
 	30. malign
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
 		2.  [badmouth](dic://badmouth), [traduce](dic://traduce), [drag through the mud](dic://drag through the mud)
 		3. [malefic](dic://malefic), [malevolent](dic://malevolent), [evil](dic://evil)
 		4. _v._ [defame](dic://defame), [slander](dic://slander), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear)
@@ -3559,7 +3559,7 @@
 		32. smart-alec
 		33. outsmart
 	10. smirch (smirk)
-		1. 
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
 		2. 原意表示“折磨”，s-=ex- + mirch=mord-咬 → 折磨 → 弄脏。
 		3. vt. 沾污, 弄脏  
 		4. n. 脏污, 污点

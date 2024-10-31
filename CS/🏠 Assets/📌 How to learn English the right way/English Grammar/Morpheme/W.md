@@ -163,7 +163,7 @@
 		4. unengaged
 		5. preengage
 		6. engaging
-			1.  (engaging, winning, gripping, absorbing, engrossing, riveting)
+			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
 			2.  [piquant](dic://piquant)
 			3. _adj._ [attractive](dic://attractive)
 			4. n._ [unattractive](dic://unattractive)
@@ -1191,16 +1191,17 @@
 		1. uninvited
 		2. self-invited
 		3. inviting
-			1. a. 引人动心的, 有魅力的
-			2. _adj._ [invitatory](dic://invitatory), [tantalizing](dic://tantalizing), [tantalising](dic://tantalising), [tempting](dic://tempting)
-			3. _n._ [uninviting](dic://uninviting)
-			4. **enticing**迷人的;**welcome**受欢迎的;**encouraging**鼓励的;**appealing**上诉的;**invitation**邀请;**gracious**亲切的;**engaging**迷人的;**warm**温暖的;**hospitable**好客的;**homey**舒适的;**comforting**安慰的;
-		4. uninviting
+			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
+			2. a. 引人动心的, 有魅力的
+			3. _adj._ [invitatory](dic://invitatory), [tantalizing](dic://tantalizing), [tantalising](dic://tantalising), [tempting](dic://tempting)
+			4. _n._ [uninviting](dic://uninviting)
+			5. **enticing**迷人的;**welcome**受欢迎的;**encouraging**鼓励的;**appealing**上诉的;**invitation**邀请;**gracious**亲切的;**engaging**迷人的;**warm**温暖的;**hospitable**好客的;**homey**舒适的;**comforting**安慰的;
+		5. uninviting
 			1. a. 无吸引力的, 讨厌的, 不逗人兴趣的
-		5. inviter
-		6. invitee
-		7. invitatory
-		8. invitation
+		6. inviter
+		7. invitee
+		8. invitatory
+		9. invitation
 			1. invitational
 4. gain
 
@@ -1571,7 +1572,7 @@
 		5. improvidence
 		6. provident /providently
 			2. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
-			3. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse )
+			3. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
 		7. providential
 		8. improvident
 			1. _adj._ [prodigal](dic://prodigal), [short](dic://short), [shortsighted](dic://shortsighted), [unforesightful](dic://unforesightful), [myopic](dic://myopic), [thriftless](dic://thriftless), [unforethoughtful](dic://unforethoughtful)
@@ -1652,7 +1653,7 @@
 				2. _n._ [intended](dic://intended), [witting](dic://witting), [aware](dic://aware), [informed](dic://informed)
 				3. **unsuspecting**无疑心的;**hapless**运气不好的，倒霉的;**unwittingly**不知情地;**would-be**想要成为的,自称自许的,自充的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**accomplice**从犯, 帮凶, 同谋;**well-meaning**善意的;**unintended**非故意的,无意识的;**unwilling**不愿意的;**gullible**易受骗的;**innocent**无罪的;
 		3. witless (unwitting)
-			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, unwieldy, clunky, clumsy, cumbersome, lumbering)
+			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
 			2. [nitwitted](dic://nitwitted), [senseless](dic://senseless), [soft-witted](dic://soft-witted)
 			3. _adj._ [stupid](dic://stupid)
 			4. _n._ [smart](dic://smart)
