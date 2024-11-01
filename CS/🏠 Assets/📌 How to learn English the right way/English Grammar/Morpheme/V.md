@@ -183,9 +183,10 @@
 	9. vitriolize
 	10. vitriolic
 		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
-		2. _adj._ [unpleasant](dic://unpleasant), [destructive](dic://destructive)
-		3. _n._ [pleasant](dic://pleasant), [constructive](dic://constructive)
-		4. **hateful**可恨的;**caustic**腐蚀性的;**scathing**严厉的;**vile**卑鄙的;**venomous**有毒的;**virulent**剧毒的;**snarky**恶声恶气的，咬人的;**vicious**恶的, 邪恶的;**bigoted**顽固的;**incendiary**放火的;**disparaging**轻蔑的;
+		2. (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity, counterproductive, vitriolic, caustic, vile, snarky, devastating, )
+		3. _adj._ [unpleasant](dic://unpleasant), [destructive](dic://destructive)
+		4. _n._ [pleasant](dic://pleasant), [constructive](dic://constructive)
+		5. **hateful**可恨的;**caustic**腐蚀性的;**scathing**严厉的;**vile**卑鄙的;**venomous**有毒的;**virulent**剧毒的;**snarky**恶声恶气的，咬人的;**vicious**恶的, 邪恶的;**bigoted**顽固的;**incendiary**放火的;**disparaging**轻蔑的;
 	12. vitriolated
 	13. vitriol-throwing
 	14. uranvitriol

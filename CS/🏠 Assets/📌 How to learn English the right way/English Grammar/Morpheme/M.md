@@ -1867,20 +1867,23 @@
 		8. comminute the walnut kernel into shatters; /再将核桃仁弄成碎末；She has an open, comminuted Galeazzi fracture. /开放性粉碎性盖氏骨折。
 		9. And time of union was 6-10 weeks for open and **comminute** fracture. /其中粉碎性骨折及开放性骨折愈合时间6 ~ 10周。
 	4. diminish
-		1. [decrease](dic://decrease), [lessen](dic://lessen), [fall](dic://fall)
-		2. [belittle](dic://belittle)
-		3. _v._ [change magnitude](dic://change magnitude), [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify)
-		4. [decrease](dic://decrease) 指逐渐地、不断地减少。  
-		5. [diminish](dic://diminish) 侧重大小数量和重要性的不断减小，强调减小的部分。  
-		6. [lessen](dic://lessen) 普通用词，与decrease近义。指数目、程度、价值、实力等的减少。  
-		7. [reduce](dic://reduce) 普通用词，含义广。指数量、程度的降低或减少。  
-		8. [dwindle](dic://dwindle) 与decrease同义，指逐渐减小，但强调变得越来越少终至全无。
-		9. **lessen**使…变小;**reduce**减少;**lessened**减少的;**weaken**减少;**enhance**提高;**detract**转移，使分心;**erode**腐蚀，侵蚀;**undermine**在某物下挖洞或挖通道;**negate**否定;**hinder**成为阻碍;**curtail**截断, 缩短;
-		10. _diminish inflammation_ 消炎
-		11. a diminished fifth. /减五度音程。
-		12. a diminished role for local government. /当地政府被削弱了的地位。
-		13. she felt diminished by the report. /她感到被那篇报道贬损了形象。
-	5. diminuendo
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		2. [decrease](dic://decrease), [lessen](dic://lessen), [fall](dic://fall)
+		3. [belittle](dic://belittle)
+		4. _v._ [change magnitude](dic://change magnitude), [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify)
+			1. [decrease](dic://decrease) 指逐渐地、不断地减少。  
+			2. [diminish](dic://diminish) 侧重大小数量和重要性的不断减小，强调减小的部分。  
+			3. [lessen](dic://lessen) 普通用词，与decrease近义。指数目、程度、价值、实力等的减少。  
+			4. [reduce](dic://reduce) 普通用词，含义广。指数量、程度的降低或减少。  
+			5. [dwindle](dic://dwindle) 与decrease同义，指逐渐减小，但强调变得越来越少终至全无。
+		5. **lessen**使…变小;**reduce**减少;**lessened**减少的;**weaken**减少;**enhance**提高;**detract**转移，使分心;**erode**腐蚀，侵蚀;**undermine**在某物下挖洞或挖通道;**negate**否定;**hinder**成为阻碍;**curtail**截断, 缩短;
+		6. _diminish inflammation_ 消炎
+		7. a diminished fifth. /减五度音程。
+		8. a diminished role for local government. /当地政府被削弱了的地位。
+		9. she felt diminished by the report. /她感到被那篇报道贬损了形象。
+	6. diminuendo
 		1. _n._ [softness](dic://softness)
 		2. _adj._ [decreasing](dic://decreasing)
 		3. _n._ [increasing](dic://increasing)
@@ -1889,7 +1892,7 @@
 		6. the sudden diminuendos are brilliantly effective /音乐突然的减弱起到了很好的效果。
 		7. The song of the oyster, though not silenced, was diminuendo con amore. /牡蛎之歌，虽然还未沉寂，已渐唱渐弱。
 		8. So, things like allegro, allegretto, crescendo, diminuendo are all Italian words, which musicians understand, even though they're not in their own language /所以，像 allegro、allegretto、crescendo、diminuendo 之类的东西都是意大利语， 音乐家可以理解这些词，即使它们不是用他们自己的语言写的。
-	6. diminution
+	7. diminution
 		1. [decline](dic://decline)
 		2. [decrease](dic://decrease), [reduction](dic://reduction), [step-down](dic://step-down)
 		3. _n._ [decrease](dic://decrease), [decrement](dic://decrement), [statement](dic://statement), [change of magnitude](dic://change of magnitude)
@@ -3145,7 +3148,7 @@
 		3. vi. 好转, 改善
 		4. - 缩写自 amend,修理。来自拉丁语 emendare,修理，纠正错误，来自 ex-,向外，menda,错误，缺陷，词源同 mendicant,残疾人，行乞者。
 		5. mendacious
-			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious)
+			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
 			2. mend-错误 + -acious(=-acy + -ous)形容词后缀。
 			3. **dishonest**不诚实的;**self-serving**自私的,自私自利的;**disingenuous**不真诚的;**despicable**可鄙的,卑鄙的;**hypocritical**伪善的;**vile**卑鄙的;**falsehood**谎言;**devious**弯曲的;**cynical**愤世嫉俗的;**idiotic**白痴的;**deceptive**可能欺骗的, 导致误解的;
 		7. mendacity
@@ -3478,36 +3481,37 @@
 	6. morbigenous
 3. **mord-, mors-** = bite, 表示“咬”。源自拉丁语 mordere "to bite."
 	1. remorse
-		1. re-,向后，往回，mors-,咬，词源同 mordant,morsel.比喻用法。
-		2. **guilt**内疚;**regret**遗憾;**regrets**后悔;**sorrow**悲伤;**anguish**苦闷;**sympathy**同情;**sadness**悲哀;**empathy**移情作用;**anger**怒，愤怒;**disgust**厌恶，嫌恶;**betrayal**背叛;
-		3. [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
-		4. [compunction](dic://compunction), [self-reproach](dic://self-reproach)
+		1. (contrite, remorse, rueful, compunction, rue, penitent )
+		2. re-,向后，往回，mors-,咬，词源同 mordant,morsel.比喻用法。
+		3. **guilt**内疚;**regret**遗憾;**regrets**后悔;**sorrow**悲伤;**anguish**苦闷;**sympathy**同情;**sadness**悲哀;**empathy**移情作用;**anger**怒，愤怒;**disgust**厌恶，嫌恶;**betrayal**背叛;
+		4. [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
+		5. [compunction](dic://compunction), [self-reproach](dic://self-reproach)
 			1. _[without remorse](dic://without%20remorse)_  毫不后悔地; 不间断地; 无情地; 冷血悍将（电影名，Without Remorse）; 
 			2. _[remorse and reform](dic://remorse%20and%20reform)_  改过自新
-		5. remorseless
-		6. remorseful
+		6. remorseless
+		7. remorseful
 			1. **remorse**懊悔, 悔恨, 自责;**distraught**心烦意乱;**heartbroken**悲伤的;**wronged**被委屈的;**disgusted**厌恶的;**angry**生气的;**apologized**道歉的;**guilty**有罪的;**embarrassed**尴尬的;**apologetic**道歉的;**betrayed**出卖，背叛;
 			2. [penitent](dic://penitent), [repentant](dic://repentant)
 			3. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
 	3. mordacious, mordacity
-		1. - adj. 锐利的；辛辣的 (poignant, mordacious, )
-		2. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
+		1. - adj. 锐利的；辛辣的
+		2. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic, astringent, sulfurous, venomous, blistering, bitter, acid, scathing,)
 		3. [sarcastic](dic://sarcastic), [dangerous](dic://dangerous), [unsafe](dic://unsafe)
 		4. [unsarcastic](dic://unsarcastic), [safe](dic://safe)
-	5. mordancy, mordant
+	4. mordancy, mordant
 		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
 		2. [coloring material](dic://coloring material), [colouring material](dic://colouring material), [color](dic://color), [colour](dic://colour)
 		3. [sarcastic](dic://sarcastic), [destructive](dic://destructive)
 		4. [black](dic://black), [grim](dic://grim)
 		5. [caustic](dic://caustic), [corrosive](dic://corrosive), [erosive](dic://erosive), [vitriolic](dic://vitriolic)
 		6. **caustic**腐蚀性的;**wry**面部肌肉扭曲的;**dye**染料;**dyes**染料，染色;**witty**诙谐的;**humour**诙谐;**dyeing**染色;**wit**智力;**humor**幽默，诙谐;**satire**讽刺;**pungent**刺激性的;
-	7. morsel 
+	5. morsel 
 		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel)
 		2. morsel ['mɔːs(ə)l] n.一口；（食物）少量。拉丁词根mord-,mors-表示咬，后缀-el指小，所以morsel就是你能一口（量少）吞下（咬）的食物。类似逻辑，单词bit [bɪt] n.比特；少量；马嚼子；一点，adj.很小的，adv.有点儿，与bite咬和bait诱饵等日耳曼词源单词有关。一口咬下去，差不多都是那个量。 ​​​​
 		3. [bit](dic://bit), [bite](dic://bite)
 		4. [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [taste](dic://taste), [mouthful](dic://mouthful)
 		5. **nibble**细咬;**mouthful**一口，满口;**spoonful**一匙;**nugget**天然金块，矿块;**devour**毁灭;**bite**咬;**delectable**令人愉快的;**savor**使有风味;**tidbit**小栏报导;**sliver**裂片;**chew**咀嚼;
-	8. muzzle (nozzle )
+	6. muzzle (nozzle )
 		1. 来自古法语 musel,口鼻，猪鼻，狗鼻，可能来自拉丁语 morsus,咬，词源同 mordant,morsel.引申词义给狗，马等动物带的口套，以及枪口等。
 		2. [gun muzzle](dic://gun muzzle)
 		3. [gag](dic://gag)
@@ -3516,7 +3520,7 @@
 		6. **recoil**畏缩, 退缩;**snout**鼻子;**pistol**手枪;**gun**枪;**rifle**步枪;**barrel**桶;**tail**尾部;**nose**鼻子;**projectile**发射体;**paw**抓，扒;**firearm**枪炮;
 		7. unmuzzle
 		8. muzzle-loader
-	9. smart
+	7. smart
 		1. adj. 聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的 
 		2. v. （身体部位）感到刺痛；（因批评、失败等）难过，烦恼
 		3. n. 剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）
@@ -3558,7 +3562,7 @@
 		31. smart-aleck
 		32. smart-alec
 		33. outsmart
-	10. smirch (smirk)
+	8. smirch (smirk)
 		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
 		2. 原意表示“折磨”，s-=ex- + mirch=mord-咬 → 折磨 → 弄脏。
 		3. vt. 沾污, 弄脏  
@@ -4650,28 +4654,30 @@
 		3. _n._ [discontinuous](dic://discontinuous), [noncontinuous](dic://noncontinuous)
 		4. **unrelenting**不屈不挠的;**relentless**残酷的, 不留情的, 无怜悯心的;**incessant**不停的, 持续不断的;**unending**不断的，无止境的;**continual**不间断的, 不停的;**unwavering**不动摇的,坚定的;**never-ending**不停的,无限的;**constant**不变的;**tireless**不疲劳的;**merciless**无情的,残忍的;**continuous**连续的;
 21. remiss
-	1. a. 怠慢的, 不小心的, 没精打采的, 疏忽的
-	2. 来自拉丁语 remittere,松开，松懈，减轻，送走，来自 re-,向后，往回，mittere,送出，送走，词源同 emit,remit.-ss,过去分词格。引申词义疏忽的，懈怠的。
-	3. [derelict](dic://derelict), [delinquent](dic://delinquent), [neglectful](dic://neglectful)
-	4. _adj._ [negligent](dic://negligent)
-	5. _n._ [diligent](dic://diligent)
-	6. **neglected**被忽视的;**mention**说起;**forgot**忘记;**forget**忘记;**sorely**疼痛地;**sadly**悲哀地;**compelled**强迫,迫使,强要;**overlook**俯瞰;**reiterate**反复地说,重申;**confess**承认;**retrospect**回顾，追溯;
-	7. _[be remiss of](dic://be%20remiss%20of)_  粗心；疏忽；不负责任 
-	8. It was remiss of him to forget her birthday. /他竟忘了她的生日，实在是糊涂。
-	9. the Home Office has been remiss about security devices. /内政部对于安全设备问题一直不在意。
-	10. It would have been remiss not to admire them. /不去欣赏它们简直就是一种怠慢。
-	11. Indeed, given the crises the church faces, delicacy might seem remiss. /但事实是，鉴于教会目前面临的危机，精细也许就是怠慢。
-	12. And I would be especially remiss if I didn't discharge right now one personal debt of gratitude. /如果我不先向你们表达我的感激之情，我就太过轻慢了。
-	13. I think would be remiss not to say to look at currencies as well. /我认为不说也看货币是失职的。
-	14. It was **remiss** of them not to inform us of these changes sooner. /他们粗心大意，没有早一些通知我们这些变化。
-22. submit
+	1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss)
+	2. a. 怠慢的, 不小心的, 没精打采的, 疏忽的
+	3. 来自拉丁语 remittere,松开，松懈，减轻，送走，来自 re-,向后，往回，mittere,送出，送走，词源同 emit,remit.-ss,过去分词格。引申词义疏忽的，懈怠的。
+	4. [derelict](dic://derelict), [delinquent](dic://delinquent), [neglectful](dic://neglectful)
+	5. _adj._ [negligent](dic://negligent)
+	6. _n._ [diligent](dic://diligent)
+	7. **neglected**被忽视的;**mention**说起;**forgot**忘记;**forget**忘记;**sorely**疼痛地;**sadly**悲哀地;**compelled**强迫,迫使,强要;**overlook**俯瞰;**reiterate**反复地说,重申;**confess**承认;**retrospect**回顾，追溯;
+	8. _[be remiss of](dic://be%20remiss%20of)_  粗心；疏忽；不负责任 
+	9. It was remiss of him to forget her birthday. /他竟忘了她的生日，实在是糊涂。
+	10. the Home Office has been remiss about security devices. /内政部对于安全设备问题一直不在意。
+	11. It would have been remiss not to admire them. /不去欣赏它们简直就是一种怠慢。
+	12. Indeed, given the crises the church faces, delicacy might seem remiss. /但事实是，鉴于教会目前面临的危机，精细也许就是怠慢。
+	13. And I would be especially remiss if I didn't discharge right now one personal debt of gratitude. /如果我不先向你们表达我的感激之情，我就太过轻慢了。
+	14. I think would be remiss not to say to look at currencies as well. /我认为不说也看货币是失职的。
+	15. It was **remiss** of them not to inform us of these changes sooner. /他们粗心大意，没有早一些通知我们这些变化。
+23. submit
 	1. submission
 	2. submissive
-23. transmit
+		1.  (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, meek, tame, docile, humble, modest)
+24. transmit
 	1. transmittal
 	2. transmission
 	3. transmissive, transimissble, transmissible
-24. summit
+25. summit
 	1. summ-总和 + it表名词 → 山的顶峰像数量总和 → 一样 → 最高数量 → 最高峰。
 	2. [acme](dic://acme), [height](dic://height), [elevation](dic://elevation), [peak](dic://peak), [pinnacle](dic://pinnacle), [superlative](dic://superlative), [meridian](dic://meridian), [tiptop](dic://tiptop), [top](dic://top)
 	3. [peak](dic://peak), [crown](dic://crown), [crest](dic://crest), [top](dic://top), [tip](dic://tip)
@@ -4686,7 +4692,7 @@
 	12. Posing as a bold outrider, as he did at the summit, may yet help /他在峰会上摆出勇敢的先驱者的姿态或许会对塑造这样的形象有所帮助。
 	13. The craftsmen inlaid clouds to mark the summits. /工匠们在其中雕刻嵌入了云朵以凸显出山峰
 	14. summitry
-25. demise
+26. demise
 	1. [美 /dɪ'maɪz/](cmd://Speak/_us_/demise)
 	2. n. 死亡; 终止, 失败 
 	3. vt. 正式放弃, 转让
@@ -4706,7 +4712,7 @@
 	17. Others will be frankly relieved at the GOCO's demise. /其他人对GOCO的失败表现的很轻松。
 	18. The ritual of bullfighting has changed little since Joselito's demise. /自何塞利托去世后，斗牛的传统几乎没有改变。
 	19. demisable
-26. promise
+27. promise
 	1. pro-前面 + mis-送 + -e → 在做事前送出的话 → 允诺。
 	2. 来自古法语 promesse,承诺，保证，来自拉丁语 promissum,承诺，来自 pro-,向前，-miss,送出，词源同 mission,emit.
 	3. v. 承诺，保证；使很可能，预示；指望，期待（promise oneself）；<古>把（某人，尤指女人）许配给；有指望，有前途 
@@ -4767,7 +4773,7 @@
 		13. MacGregor would be a compromise, the safe choice. /麦格雷戈是一个折中人选，如果选他风险较小。
 		14. But you would never compromise on your vision. /但你不会因此而改变你的看法。
 		15. My work has been compromising my marriage. /我的工作已经影响到婚姻了。
-27. premise
+28. premise
 	1. [premiss](dic://premiss), [assumption](dic://assumption)
 	2. [precede](dic://precede), [preface](dic://preface), [introduce](dic://introduce)
 	3. [premiss](dic://premiss)
@@ -4788,7 +4794,7 @@
 	18. We have a warrant to search the premises /我们有搜索这栋宅邸的授权令。
 	19. Are the inferences valid? Does the conclusion follow the premises? /推断有效吗？结论与前提一致吗？
 	20. premises
-28. remise (remiss)
+29. remise (remiss)
 	1. n. 再刺, 重刺  
 	2. vi. 再刺, 重刺  
 	3. vt. 放弃, 出让
@@ -4800,7 +4806,7 @@
 	9. When the time limit to **remise** or lease out comes, the users have the priority to continue renting /租赁土地期满后，使用者可优先续租或受让。
 	10. The mining rights exchange should include **remise**, transference, mortgage, hire, contract and inheritance. /矿业权的流转应包括出让、转让、抵押、出租、承包、继承这六方面的内容。
 	11. This is the famous classical type of E. Shine. Miss He bought it at three million at that time, and now she wants to **remise** to you. /Shine非常有名的经典款式，当时何小姐用三百万的价值买到的，现在她要让出来给你
-29. surmise
+30. surmise
 	1. vt. 猜测；推测 
 	2. vi. 猜测；认为 
 	3. n. 推测；猜度
@@ -5464,7 +5470,7 @@
 		13. moisten
 			1. moistener
 		14. musty
-			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 			2.  [moldy](dic://moldy), [mouldy](dic://mouldy)
 			3.  [fusty](dic://fusty), [frowsty](dic://frowsty)
 			4. _adj._ [stale](dic://stale), [malodorous](dic://malodorous), [malodourous](dic://malodourous), [unpeasant-smelling](dic://unpeasant-smelling), [ill-smelling](dic://ill-smelling), [stinky](dic://stinky)
@@ -5611,30 +5617,31 @@
 10. meek (geek, cheek, reek, leek)
 	1. a. 温顺的, 逆来顺受的
 	2. meek (adj.) - 大约1200，"gentle, quiet, unaggressive; benevolent, kind; courteous, humble, unassuming"；of awoman，"modest"，斯堪的纳维亚语词源例如：古挪威语mjukr "soft, pliant, gentle"，源自原始日耳曼语*meukaz (同源词：哥特语muka-modei "humility"，荷兰语muik "soft")，词源不确定，可能源自原始印欧语*meug- "slippery, slimy"。在圣经中，该词用来翻译拉丁语圣经中的mansuetus (参见mansuetude)。含义 "submissive" 始于14世纪中期。
-	3. [mild](dic://mild), [modest](dic://modest)
-	4. [tame](dic://tame)
-	5. [spiritless](dic://spiritless)
-	6. _adj._ [humble](dic://humble), [docile](dic://docile), [submissive](dic://submissive)
-	7. _n._ [proud](dic://proud), [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [domineering](dic://domineering)
-	8. **timid**羞怯的;**obedient**孝顺的;**submissive**顺从的, 唯命是从的;**unassuming**谦逊的;**lowly**地位低的;**humble**谦逊的;**gentle**温和的;**arrogant**自大的，傲慢的;**feisty**活跃的;**aloof**冷淡的;**assertive**断定的;
-	9. _[overbearing meek](dic://overbearing%20meek)_ 傲慢的
-	10. _[truculent meek](dic://truculent%20meek)_ 好战的
-	11. _[meek unyielding](dic://meek%20unyielding)_ 温顺的
-	12. _[courteous meek respectful](dic://courteous%20meek%20respectful)_ 谦恭的
-	13. _[Elly Schull Meeks](dic://Elly%20Schull%20Meeks)_ 陌生的地方
-	14. _[meek in spirit](dic://meek%20in%20spirit)_ 性情温柔
-	15. _[meek and mild](dic://meek%20and%20mild)_ 温和的；平和
-	16. _[The wretched and the meek](dic://The%20wretched%20and%20the%20meek)_ 贫苦与软弱的人们
-	17. the meek compliance of our domestic politicians. /国内政客的驯顺屈从。
-	18. He expects his wife to be meek and submissive. /他期望妻子温顺而且听他摆布。
-	19. She won’t object—she’s so meek and mild /她不会反对的——她是那么顺服温和。
-	20. He isn't bad-tempered, he is as meek as a lamb. /他脾气并不坏，他温顺如羔羊。
-	21.  Lord Snow" ? he heard. Soft and meek. He turned /" 雪诺大人？" 有人唤道，轻柔又温顺。他转过头。
-	22. I'll be meek under their coldness and repentant of my evil ways /我愿意乖乖地忍受她们的奚落，忏悔我过去的恶行。
-	23. She was no longer the meek, soft native girl, but a determined woman. /她不再是一个温柔、驯顺的土人女孩子，而是一个意志坚定的妇人。
-	24.  Back then, the world was divided in two: vicious predator or meek prey. " /" 当时，整个世界被一分为二：凶残的食肉动物和温顺的猎物。"
-	25. meekness
-	26. meeky
+	3.  (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, meek, tame, docile, humble, modest)
+	4. [mild](dic://mild), [modest](dic://modest)
+	5. [tame](dic://tame)
+	6. [spiritless](dic://spiritless)
+	7. _adj._ [humble](dic://humble), [docile](dic://docile), [submissive](dic://submissive)
+	8. _n._ [proud](dic://proud), [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate), [domineering](dic://domineering)
+	9. **timid**羞怯的;**obedient**孝顺的;**submissive**顺从的, 唯命是从的;**unassuming**谦逊的;**lowly**地位低的;**humble**谦逊的;**gentle**温和的;**arrogant**自大的，傲慢的;**feisty**活跃的;**aloof**冷淡的;**assertive**断定的;
+	10. _[overbearing meek](dic://overbearing%20meek)_ 傲慢的
+	11. _[truculent meek](dic://truculent%20meek)_ 好战的
+	12. _[meek unyielding](dic://meek%20unyielding)_ 温顺的
+	13. _[courteous meek respectful](dic://courteous%20meek%20respectful)_ 谦恭的
+	14. _[Elly Schull Meeks](dic://Elly%20Schull%20Meeks)_ 陌生的地方
+	15. _[meek in spirit](dic://meek%20in%20spirit)_ 性情温柔
+	16. _[meek and mild](dic://meek%20and%20mild)_ 温和的；平和
+	17. _[The wretched and the meek](dic://The%20wretched%20and%20the%20meek)_ 贫苦与软弱的人们
+	18. the meek compliance of our domestic politicians. /国内政客的驯顺屈从。
+	19. He expects his wife to be meek and submissive. /他期望妻子温顺而且听他摆布。
+	20. She won’t object—she’s so meek and mild /她不会反对的——她是那么顺服温和。
+	21. He isn't bad-tempered, he is as meek as a lamb. /他脾气并不坏，他温顺如羔羊。
+	22.  Lord Snow" ? he heard. Soft and meek. He turned /" 雪诺大人？" 有人唤道，轻柔又温顺。他转过头。
+	23. I'll be meek under their coldness and repentant of my evil ways /我愿意乖乖地忍受她们的奚落，忏悔我过去的恶行。
+	24. She was no longer the meek, soft native girl, but a determined woman. /她不再是一个温柔、驯顺的土人女孩子，而是一个意志坚定的妇人。
+	25.  Back then, the world was divided in two: vicious predator or meek prey. " /" 当时，整个世界被一分为二：凶残的食肉动物和温顺的猎物。"
+	26. meekness
+	27. meeky
 11. muck
 	1. n. 垃圾, 淤泥, 令人厌恶的事物, 粪肥  vt. 施肥, 弄脏, 弄糟, 糊弄; 游手好闲; 合伙
 	2. n. 垃圾；肥料；淤泥；品质低劣的东西

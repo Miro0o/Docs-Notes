@@ -175,9 +175,30 @@
 	16. dedicate
 	17. dictate
 	18. indicate 
-		1. (bespeak, indicate, point, signal)
+		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse, harbinger)
 	19. predicate
-		1. predicability, predicable, predicably, predicament
+		1. n. 谓语, 谓项  
+		2. a. 谓语的  
+		3. vt. 断定为, 使基于, 意味着, 预言  
+		4. vi. 断言
+		5. _n._ [term](dic://term), [phrase](dic://phrase)
+		6. _v._ [relate](dic://relate), [interrelate](dic://interrelate), [assert](dic://assert), [asseverate](dic://asseverate), [maintain](dic://maintain), [imply](dic://imply)
+		7. **verb**动词;**Boolean**布尔数学体系的;**semantics**语义学;**inference**推论, 推理, 推断;**categorical**绝对的,无条件的,断言的,确信无疑的,明确的;**equivalence**均等;**verbs**动词;**semantic**语义的;**axiom**公理;**syntax**语法;**conditional**有条件的;
+		8. _(grammatical) predicate_ （语法）谓语
+		9. _predicate logic_ 谓词逻辑
+		10. _predicate verb_ 谓语动词
+		11. _predicate calculus_ 谓词演算
+		12. We predicate of the motive that it is good. (=We predicate the motive to be good.) /我们断言这个动机是好的。
+		13. The sermon predicated the perfectibility of humankind. /这篇布道文断言了人类的完美性
+		14. He predicates his argument on the facts. /他的论据以事实为基础
+		15. Complete sentences involve a subject and a predicate. /完整的句子包括主语和谓语。
+		16. predicability
+		17. predicable
+		18. predicably
+		19. predicament
+			1. (quandary, conundrum, predicament, plight, perplexity, dilemma, riddle, enigma, puzzling, knot, strait, distress, mishap, fiasco, debacle, blunder, hazard, )
+			2. _n._ [difficulty](dic://difficulty)
+			3. **dilemma**困境;**situation**形势;**plight**困境;**conundrum**谜,猜不透的难题,难答的问题;**dilemmas**困境;**misfortune**不幸, 厄运, 逆境;**dire**可怕的, 恐怖的;**circumstance**环境;**precarious**依靠机会的;**crisis**危机;**fate**命运;
 	20. vindicate
 		1. (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 		2. vindicability
@@ -233,7 +254,7 @@
 	34. vendetta
 		1. 1 - 来自意大利语 vendetta,仇怨，血仇，来自拉丁语 vindicta,报仇，复仇，字母 c 脱落，词源同vindictive,vengeful.
 		2. **grudge**不满, 怨恨, 妒忌;**revenge**复仇;**vengeance**复仇;**vengeful**复仇的，报复的;**feud**长期不和;**crusade**改革运动;**vigilante**治安团体的成员;**retribution**应得的惩罚或赔偿;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**accusation**指责;
-3. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
+8. **digit-** = finger, 表示“手指”。源自拉丁语 digitus "finger."
 	1. digit
 	2. digitalis
 	3. digitate
@@ -247,11 +268,11 @@
 		4. He thinks digitizing food can help people stay healthy. /乔纳森觉得，食物的数码化可以帮助人类保持健康。
 	6. prestidigitation, prestidigitator
 	7. sexdigital
-4. **judg-, judic-** = judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
+9. **judg-, judic-** = judge, 表示“判断”，符合词根 ju- "just" + dg- "dict"。源自拉丁语 iiudex "on who shows or pronounces the law."
 	1. see **judg-, judic-** in J
-5. teach
-6. toe
-7. token (betoken)
+10. teach
+11. toe
+12. token (betoken)
 	1.  来自古英语 tacen,符号，象征，证据，来自 Proto-Germanic*taiknam,符号，标志，来自 PIE*teik,显示，展示，词源同 teach,digit,toe.引申诸相关词义。
 	2. n. 表征, 记号, 代币  a. 象征的, 表意的
 
@@ -1789,29 +1810,30 @@
 	11. That was followed by a daft claim by Congress that the Americans were egging on the protesters. /之后国会发表一 份可笑的申明，说美国人在抗议者中煽风点火。
 	12. It'll feel daft. I shall be myself /这感觉太蠢了 我应该做我自己。
 5. deft
-	1. adj. 灵巧的；机敏的；敏捷熟练的
-	2. [dexterous](dic://dexterous), [dextrous](dic://dextrous)
-	3. _adj._ [adroit](dic://adroit)
-	4. _n._ [maladroit](dic://maladroit)
-	5. **masterful**善于控制别人的;**skillful**熟练的;**artful**狡猾的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**knack**诀窍;**finesse**纤细;**wry**面部肌肉扭曲的;
-	6. _[agile nimble brisk deft](dic://agile%20nimble%20brisk%20deft)_ 灵活敏捷
-	7. _[hamhanded deft](dic://hamhanded%20deft)_ 笨手笨脚的
-	8. _[deft maladroit](dic://deft%20maladroit)_ 灵巧的〈〉笨拙的
-	9. _[deft dexterous](dic://deft%20dexterous)_ 手巧的
-	10. _[deft clumsy](dic://deft%20clumsy)_ 灵巧的
-	11. _[deft desig](dic://deft%20desig)_ 设计精巧
-	12. _[deft agile](dic://deft%20agile)_ 灵巧的
-	13. _[deft inept](dic://deft%20inept)_ 熟练
-	14. a deft piece of footwork. /灵巧的步法。
-	15. the script was both deft and literate. /剧本巧妙又有文采。
-	16. with a deft motion of her nimble fingers /随着她灵活的手指做出的一个熟练的动作。
-	17. The pianist has deft fingers. /钢琴家有灵巧的双手。
-	18. defused the hostility with a deft turn of phrase. /用巧妙的措辞去除了敌意。
-	19. Some practice in the deft use of words may well be ancillary to the study of natural science. /熟练使用文字的练习对于自然科学的研究也是有帮助的。
-	20. She skated a cross-shaped pattern on the ice while deftly maneuvering the puck. /她在冰面上沿十字形路线滑行，同时灵巧地操纵着冰球。
-	21. Mr Gellately, a professor in Florida, has a deft touch with detail. /盖拉特莱，是一名佛罗里达的教授，善于挖掘细节。
-	22. Making a short deft movement Tom Buchanan broke her nose with his open hand. /汤姆·布坎农动作敏捷，伸出手一巴掌打破了威尔逊太太的鼻子。
-	23. By deft maneuvering he managed to land the plane, but it was badly damaged although nobody was hurt. /靠着他高超的技术，他才将飞机降落，但是飞机遭到了严重损坏，虽然人没有受伤。
+	1. (deft, astute, dexterous, adroit, )
+	2. adj. 灵巧的；机敏的；敏捷熟练的
+	3. [dexterous](dic://dexterous), [dextrous](dic://dextrous)
+	4. _adj._ [adroit](dic://adroit)
+	5. _n._ [maladroit](dic://maladroit)
+	6. **masterful**善于控制别人的;**skillful**熟练的;**artful**狡猾的;**adept**熟练的;**shrewd**精明的;**astute**机敏的;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**knack**诀窍;**finesse**纤细;**wry**面部肌肉扭曲的;
+	7. _[agile nimble brisk deft](dic://agile%20nimble%20brisk%20deft)_ 灵活敏捷
+	8. _[hamhanded deft](dic://hamhanded%20deft)_ 笨手笨脚的
+	9. _[deft maladroit](dic://deft%20maladroit)_ 灵巧的〈〉笨拙的
+	10. _[deft dexterous](dic://deft%20dexterous)_ 手巧的
+	11. _[deft clumsy](dic://deft%20clumsy)_ 灵巧的
+	12. _[deft desig](dic://deft%20desig)_ 设计精巧
+	13. _[deft agile](dic://deft%20agile)_ 灵巧的
+	14. _[deft inept](dic://deft%20inept)_ 熟练
+	15. a deft piece of footwork. /灵巧的步法。
+	16. the script was both deft and literate. /剧本巧妙又有文采。
+	17. with a deft motion of her nimble fingers /随着她灵活的手指做出的一个熟练的动作。
+	18. The pianist has deft fingers. /钢琴家有灵巧的双手。
+	19. defused the hostility with a deft turn of phrase. /用巧妙的措辞去除了敌意。
+	20. Some practice in the deft use of words may well be ancillary to the study of natural science. /熟练使用文字的练习对于自然科学的研究也是有帮助的。
+	21. She skated a cross-shaped pattern on the ice while deftly maneuvering the puck. /她在冰面上沿十字形路线滑行，同时灵巧地操纵着冰球。
+	22. Mr Gellately, a professor in Florida, has a deft touch with detail. /盖拉特莱，是一名佛罗里达的教授，善于挖掘细节。
+	23. Making a short deft movement Tom Buchanan broke her nose with his open hand. /汤姆·布坎农动作敏捷，伸出手一巴掌打破了威尔逊太太的鼻子。
+	24. By deft maneuvering he managed to land the plane, but it was badly damaged although nobody was hurt. /靠着他高超的技术，他才将飞机降落，但是飞机遭到了严重损坏，虽然人没有受伤。
 
 
 ### ⭐️ + \*dhe- + = to put, to do
@@ -2119,18 +2141,17 @@
 			17. factions within the government were contending for the succession to the presidency. /内阁各派系正在为连任而相互竞争。
 		3. factious (schism, discord, ) (cliquish, clannish, clubby)
 			1. (factious, factitious, fractious)
-			2. a. 好搞派系的, 好结党营私的
-			3.  [dissentious](dic://dissentious), [divisive](dic://divisive)
-			4. _adj._ [discordant](dic://discordant)
-			5. _n._ [accordant](dic://accordant)
-			6. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
-			7. a factious country. /四分五裂的国家。
-			8. It was, accordingly, no mere factious spirit that drove him into opposition to Hamilton. /因此，驱使他反对汉密尔顿的不仅仅是党派精神。
-			9. 
+			3. a. 好搞派系的, 好结党营私的
+			4.  [dissentious](dic://dissentious), [divisive](dic://divisive)
+			5. _adj._ [discordant](dic://discordant)
+			6. _n._ [accordant](dic://accordant)
+			7. **factions**内讧;**rebellious**叛逆的;**faction**派别;**partisan**偏袒的;**divisive**分裂的;**schism**分裂;**strife**冲突;**lawless**非法的;**quarrel**吵架;**Whig**辉格党;**brethren**弟兄们;
+			8. a factious country. /四分五裂的国家。
+			9. It was, accordingly, no mere factious spirit that drove him into opposition to Hamilton. /因此，驱使他反对汉密尔顿的不仅仅是党派精神。
+			10. 
 		5. factitious 
-			1. (factitious, factious, fractious)
-			2. (contrived, factitious, planned, plotted, apocryphal)
-			3. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious, plastic)
+			1. (factitious, factious, fractious, fastidious)
+			2. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
 			4. a. 人为的, 人工的, 不自然的 /fact-做 + -itious…的 → 做出来的 , 不自然的。
 			5. 来自 fact-,做，词源同 fact,face.词义贬义化，即人为的，虚假的。
 			6. _adj._ [artificial](dic://artificial), [unreal](dic://unreal)
@@ -3114,11 +3135,13 @@
 		2. fictionist
 		3. fictioneer
 		4. fictional, fictionally
-	8. fictitious, fictifiously
-	9. fictive
-	10. figment
-	11. figuline
-	12. figure
+	8. fictitious
+		1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, )
+		2. fictifiously
+	10. fictive
+	11. figment
+	12. figuline
+	13. figure
 		1. transfigure, transfiguration
 		2. three-figure
 		3. subfigure
@@ -4802,7 +4825,14 @@
 2. **deut-, deuter-** = 表示“第二，次，亚”。
 	1. etc..
 3. **di-, dicho-** = 表示“两个，双”。源自希腊语 dis "twice;" dikha "in two."
-	1. etc.. (todo)
+	1. dichotomy
+		1. (discord, dissonance, incongruity, dichotomy, dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
+		2. dichotomous
+			1. _adj._ [divided](dic://divided)
+			2. _n._ [united](dic://united)
+			3. **categorical**绝对的,无条件的,断言的,确信无疑的,明确的;**dichotomy**一分成二,对分;**ambiguous**模棱两可的;**multivariate**多变量的;**paradoxical**似是而非的 矛盾的 诡论的;**normative**标准的;**stratified**形成阶层的;**qualitative**性质上的;**subjective**主观的;**variable**易变的，多变的;**contradictory**矛盾的;
+		3. dichroic
+	2. etc.. (todo)
 4. **dia-** = 表示“穿过，二者之间”。
 	1. etc.. (todo)
 5. **didym-** = testicle, 表示“睾丸”，= two, 表示“两个”。源自希腊语 didumos "double, the testicles."

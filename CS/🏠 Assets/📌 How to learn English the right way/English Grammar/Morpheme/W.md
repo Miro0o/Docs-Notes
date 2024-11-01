@@ -163,7 +163,7 @@
 		4. unengaged
 		5. preengage
 		6. engaging
-			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
+			1. (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping, diverting, entertaining, seizing)
 			2.  [piquant](dic://piquant)
 			3. _adj._ [attractive](dic://attractive)
 			4. n._ [unattractive](dic://unattractive)
@@ -478,7 +478,7 @@
 		17. women winnow the chaff from piles of unhusked rice /女人们把成堆成堆的稻谷扬去谷壳。
 		18. Yeah, I dream big. Then I winnow down. /对 我构思远大 然后再精简。
 		19. When a king sits on his throne to judge, he winnows out all evil with his eyes. /王坐在审判的位上，以眼目驱散诸恶。
-	11. wither (writhe)
+	11. wither (writhe) (blighted)
 		1. 来自古英语 wederen,暴露于空气中，枯萎，词源同 weather.
 		2. [shrivel](dic://shrivel), [shrivel up](dic://shrivel up), [shrink](dic://shrink)
 		3. [fade](dic://fade)
@@ -944,13 +944,14 @@
 		4. viaduct
 			1. **bridge**桥;**embankment**路堤;**railway**铁路;**tunnel**隧道;**roadway**路面;**walkway**通道，走道;**bridges**桥梁;**motorway**高速公路，汽车高速公路;**footpath**小路;**piers**支墩，支柱;**rail**横杆;
 		5. devious (obviate, deviate, devious, vitiate)
-			1. (covert, clandestine, sneaky, devious, furtive, surreptitious)
-			2. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent)
-			3. [oblique](dic://oblique)
-			4. [shifty](dic://shifty)
-			5. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
-			6. _adj._ [indirect](dic://indirect), [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
-			7. **cunning**狡猾的;**nefarious**极坏的;**scheming**惯耍阴谋的，诡计多端的;**sneaky**鬼鬼祟祟的;**sinister**阴险的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**manipulative**控制的,操纵的;**malevolent**有恶意的;**clever**聪明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
+			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
+			2. (covert, clandestine, sneaky, devious, furtive, surreptitious, indirect, guile)
+			3. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
+			4. [oblique](dic://oblique)
+			5. [shifty](dic://shifty)
+			6. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
+			7. _adj._ [indirect](dic://indirect), [untrustworthy](dic://untrustworthy), [untrusty](dic://untrusty)
+			8. **cunning**狡猾的;**nefarious**极坏的;**scheming**惯耍阴谋的，诡计多端的;**sneaky**鬼鬼祟祟的;**sinister**阴险的;**sly**狡猾的;**mischievous**淘气的, 顽皮的;**manipulative**控制的,操纵的;**malevolent**有恶意的;**clever**聪明的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;
 	9. trivia (vitriol, thrive, frivol, virile, trivia)
 		1.  [triviality](dic://triviality), [trifle](dic://trifle), [small beer](dic://small beer)
 		2. _n._ [object](dic://object), [physical object](dic://physical object)
@@ -1088,7 +1089,7 @@
 	5. vituperate
 		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
 		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		2. vitu-过错、伤害 + per-准备 + -ate, 表动词。
 		3. _v._ [abuse](dic://abuse), [clapperclaw](dic://clapperclaw), [blackguard](dic://blackguard), [shout](dic://shout)
 		4. **denounce**谴责;**uncivil**不文明的;**scorn**轻蔑;**slander**诽谤;**vulgar**粗俗的;**vile**卑鄙的;**disparaging**轻蔑的;**ridicule**嘲笑;**hateful**可恨的;**criticize**评论, 批评;**rebuke**指责，非难;
@@ -1191,7 +1192,7 @@
 		1. uninvited
 		2. self-invited
 		3. inviting
-			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
+			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping, diverting, entertaining, seizing)
 			2. a. 引人动心的, 有魅力的
 			3. _adj._ [invitatory](dic://invitatory), [tantalizing](dic://tantalizing), [tantalising](dic://tantalising), [tempting](dic://tempting)
 			4. _n._ [uninviting](dic://uninviting)
@@ -1483,7 +1484,7 @@
 	14. invidious
 		1. 引起反感的, 惹人不快的, 不公平的, 诽谤的
 		2. in-不 + vid-看 + -ious形容词后缀 → 看上去不好的 → 有害的。
-		3. (obnoxious, invidious, pernicious, indignity，)
+		3.  (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity, counterproductive, vitriolic, caustic, vile, snarky, devastating, )
 		4. **pernicious**很有害的;**discriminatory**有识别力的;**unfair**不公平的，不公正的;**distasteful**使人不愉快的;**insidious**隐伏的;**discrimination**歧视;**perverse**任性的,固执的;**unwarranted**没有根据的, 无正当理由的;**unjust**不公平的，不公正的;**noxious**有害的;**disingenuous**不真诚的;
 		5. invidious accusations. /招致不满的指控
 		6. she'd put herself in an invidious position. /她陷入了招人嫉妒的处境。
@@ -1492,7 +1493,7 @@
 		9. People began to say " Who are they? " but no invidious inquiries were made /人们开始问起“他们是谁呀”？但是并没有人很讨嫌地去询问。
 		10. It's a really invidious process, and it creates those feelings of inferiority at the bottom. /这是一个非常令人反感的过程，它在底层造成了自卑感。
 		11. For surely no two men were ever left in a position so invidious and irritating. /因为肯定没有两个人处于如此令人反感和恼人的境地。
-	15. supervise
+	16. supervise
 		1. _v._ [administer](dic://administer), [administrate](dic://administrate), [observe](dic://observe)
 			1. [control](dic://control) 含义广泛的常用词，指对人或物施以约束或控制的力量。  
 			2. [direct](dic://direct) 侧重行使领导或指导权。  
@@ -1502,7 +1503,7 @@
 			6. [supervise](dic://supervise) 侧重指运用本身的或被授予的权力来管理、检查工作，含监督意味。  
 			7. [administer](dic://administer) 指官方的或正式的对事务的管理
 		2. **oversee**监督;**supervision**监督, 管理;**manage**管理;**instruct**命令;**undertake**担任, 承揽;**inspect**检查;**administer**管理, 支配;**oversaw**视察;**coordinate**协调;**monitor**监视器，监听器，监控器，班长;**appoint**任命;
-	16. revise
+	17. revise
 		1.  [revision](dic://revision), [revisal](dic://revisal), [rescript](dic://rescript)
 		2.  [retool](dic://retool)
 		3. _n._ [rewriting](dic://rewriting), [revising](dic://revising)
@@ -1530,7 +1531,7 @@
 		12. revised
 		13. revisal
 		14. revisable
-	17. previse
+	18. previse
 		1. (bespeak, indicate, point, signal, adumbrate,  betoken, foreshadow, prescient, portend, presage, prefigure, foretell, prophetic, envisage, preconceive, anticipate, envision, bode, auspicate, prognosticate, omen, augur, herald, foresee, foretell, forecast, previse)
 		2. vt. 预知；预先警告
 		3. [forewarn](dic://forewarn)
@@ -1541,7 +1542,7 @@
 		8. _[radim mozda i previse](dic://radim%20mozda%20i%20previse)_ 从事职业
 		9. he had intelligence to previse the possible future. /他有智力预见可能的未来。
 		10. The study previse with provides what scientists say is the first evidence of a genetic link between a fat cell gene and colon cancer. /研究给出了科学家说的脂肪细胞和结肠癌之间基因联系的第一份证据。
-	18. improvise
+	19. improvise
 		1. vt. 即席创作, 临时做
 		2. im-不，非 + provise【准备】，即没准备，临时做的，即兴准备。
 		3.  im-,不，非，-provise,准备，词源同 provide.即没准备，临时做的，即兴准备。
@@ -1563,15 +1564,15 @@
 			2. [extemporization](dic://extemporization), [extemporisation](dic://extemporisation)
 			3. _n._ [creation](dic://creation), [expedient](dic://expedient), [performance](dic://performance)
 			4. **improv**即兴;**improvise**临时制作, 临时凑成;**spontaneity**自然性;**jazz**爵士乐，爵士舞;**musicianship**音乐技巧;**solos**独奏;**experimentation**实验;**rehearsal**练习, 排练, 排演;**virtuoso**艺术品鉴赏家;**choreography**舞台舞蹈设计;**musical**音乐的;
-	19. provide, provided
-	20. providence
+	20. provide, provided
+	21. providence
 		1. n. 深谋远虑, 天意, 天命n.上帝; 苍天(Providence)
 		2. _n._ [state capital](dic://state capital), [care](dic://care), [charge](dic://charge), [tutelage](dic://tutelage), [guardianship](dic://guardianship), [fortune](dic://fortune), [destiny](dic://destiny)
 		3. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness)
 		4. **divine**神圣的;**grace**优雅;**mercy**仁慈，宽容;**merciful**仁慈的;**salvation**拯救;**faithfulness**忠诚,正确,诚实;**omnipotent**全能的;**deliverance**解救;**destiny**命运，定数，天命;**divinity**神;**benevolent**好心肠的;
 		5. improvidence
 		6. provident /providently
-			2. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
+			2. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident, deliberate, )
 			3. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
 		7. providential
 		8. improvident
@@ -1584,7 +1585,7 @@
 			7. This complaint, however, of the scarcity of money, is not always confined to improvident spendthrifts. /然而， 这种对金钱匮乏的抱怨并不总是局限于没有远见的挥霍者。
 			8. This young man has lived **improvident** life. /这个年轻人过着奢侈的生活。
 			9. You will pay for your **improvident** undisciplined behavior. /你会为自己轻率任性的行为付出代价的。
-	21. provision
+	22. provision
 		1. - n. 提供，供应；准备，预备；（尤指为旅行准备的）食物，必需品（provisions）；条款，规定；赡养，供养；（机构账户上为已知负债，尤指坏账或资产价值缩减，从利润中留出的）准备金；<史>神职委任（尤指教皇对尚未缺额神职的预先委任） 
 		2. v. 为……提供所需物品（尤指食物）；（为已知债务）留出准备金
 		3. _n._ [condition](dic://condition), [precondition](dic://precondition), [stipulation](dic://stipulation), [activity](dic://activity), [thinking](dic://thinking), [thought](dic://thought), [thought process](dic://thought process)
@@ -1612,40 +1613,42 @@
 			8. _provisional ball_ 暂定球（球员认为他的第一次击球可能出界或者掉入水障后所击出的第二个球）；临时球；暂代球
 			9. _provisional measure_ 临时措施
 			10. _provisional acceptance_ 临时验收；临时接受
-	22. provisor, provisory
-	23. televise
-	24. polyhistor
-	25. prudence, prudent, 
-		1. _adj._ [circumspect](dic://circumspect), [discreet](dic://discreet), [judicious](dic://judicious), [wise](dic://wise), [heady](dic://heady), [provident](dic://provident), [prudential](dic://prudential)
-		2. _n._ [imprudent](dic://imprudent)
+	23. provisor, provisory
+	24. televise
+	25. polyhistor
+	26. prudence, prudent, 
+		1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident, )
+		2. ( deliberate, circumspect, discreet, heady, prudent, cautious, scrupulous, punctilious, meticulous, calculate, analytic, rational, )
+		3. _adj._ [circumspect](dic://circumspect), [discreet](dic://discreet), [judicious](dic://judicious), [wise](dic://wise), [heady](dic://heady), [provident](dic://provident), [prudential](dic://prudential)
+		4. _n._ [imprudent](dic://imprudent)
 			1. [careful](dic://careful) 侧重做事谨慎、留心，特别注意一些细节地方。  
 			2. [cautious](dic://cautious) 着重考虑事情的后果，谨慎留意，防止出差错。  
 			3. [attentive](dic://attentive) 指认真地注意地倾听别人的意见，留心别人的需要等。  
 			4. [prudent](dic://prudent) 指遇事审慎，思考计划周密，不贸然行事。
-		6. **unwise**不明智的;**sensible**明智的;**wise**聪明的;**cautious**谨慎的;**foolish**愚蠢的;**advisable**明智的;**careful**仔细的，小心的;**shrewd**精明的;**vigilant**警惕的;**expedient**应急有效的;**diligent**勤勉的;
-		8. prudery
+		5. **unwise**不明智的;**sensible**明智的;**wise**聪明的;**cautious**谨慎的;**foolish**愚蠢的;**advisable**明智的;**careful**仔细的，小心的;**shrewd**精明的;**vigilant**警惕的;**expedient**应急有效的;**diligent**勤勉的;
+		6. prudery
 			1. [primness](dic://primness), [prudishness](dic://prudishness), [Grundyism](dic://Grundyism)
 			2. _n._ [modesty](dic://modesty), [modestness](dic://modestness)
 			3. **modesty**谦逊;**immorality**不道德,无道义;**misogyny**厌恶女人;**propriety**①礼貌,规矩;**obscenity**淫秽;**censorship**审查员的职权;**hypocrisy**伪善;**chastity**纯洁;**nudity**裸露;**sexuality**性征;**femininity**妇女特质,柔弱性,温柔;
-	26. purvey
+	28. purvey
 		1. 1 - 来自古法语 porveoir,准备，供应，安排，来自拉丁语 providere,准备，预见，预防，词源同provide.
 		2. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
 		3. **procure**获得，取得;**revel**狂欢;**perpetuate**使永存;**disseminate**散布, 传播;**embody**体现，使具体化;
 		4. the majority of newspapers purvey a range of right-wing attitudes. /多数报纸都提供一系列右翼观点。
 		5. They purvey food for the army /他们供应食品给军队。
-	27. revue
+	29. revue
 		1. n. 时事讽刺歌舞剧
 		2. [review](dic://review)
 		3. _n._ [variety show](dic://variety show), [variety](dic://variety)
 		4. **cabaret**卡巴莱歌舞表演;**vaudeville**杂耍;**burlesque**作戏;**troupe**剧团, 艺术团体;**comedy**喜剧;**musical**音乐的;**Broadway**百老汇;**theatre**电影院，戏院;**skits**演练;**farce**笑剧,闹剧,滑稽戏;**skit**讽刺文;
-	28. survey
-	29. stratovision
-	30. ultravisuscope
-	31. vedette
-	32. voyeur
+	30. survey
+	31. stratovision
+	32. ultravisuscope
+	33. vedette
+	34. voyeur
 		1. **cuckold**与…的妻子通奸使其丈夫戴绿帽子;**handjob**手淫;**gangbang**一群男子与一女子的淫乱活动;**nudist**裸体主义的;**masturbate**)进行手淫;**shemale**女人;**threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**porn**<口>色情文学，色情描写，色情刊物;**masturbation**手淫;**naked**裸体的;**slut**懒妇;
-	33. wise
-	34. wit
+	35. wise
+	36. wit
 		1. witty
 		2. witting
 			1. unwitting (witless) (unfeeling)
@@ -3414,14 +3417,15 @@
 			7. The minister is averse to/from flattery /部长不喜欢听恭维话。
 			8. But Jobs was congenitally averse to such a plan /但以乔布斯的天性，他必然反对这样的计划。
 			9. aversion
-				1.  [antipathy](dic://antipathy), [distaste](dic://distaste)
-				2.  [averting](dic://averting)
-				3. _n._ [dislike](dic://dislike), [avoidance](dic://avoidance), [turning away](dic://turning away), [shunning](dic://shunning), [dodging](dic://dodging)
-				4. **dislike**不喜欢，厌恶;**fondness**溺爱;**phobia**恐惧症;**distrust**不信任;**fear**害怕;**penchant**嗜好;**disdain**蔑视;**reluctance**不愿意;**propensity**倾向;**indifference**不关心,不在乎;**obsession**困扰;
-				5. _risk aversion_ 风险规避；厌恶风险
-				6. _aversion therapy_ [心理]厌恶疗法
-				7. a temperamental aversion to work 禀性不喜欢工作
-			10. averseness
+				1. (anathema, aversion, )
+				2.  [antipathy](dic://antipathy), [distaste](dic://distaste)
+				3.  [averting](dic://averting)
+				4. _n._ [dislike](dic://dislike), [avoidance](dic://avoidance), [turning away](dic://turning away), [shunning](dic://shunning), [dodging](dic://dodging)
+				5. **dislike**不喜欢，厌恶;**fondness**溺爱;**phobia**恐惧症;**distrust**不信任;**fear**害怕;**penchant**嗜好;**disdain**蔑视;**reluctance**不愿意;**propensity**倾向;**indifference**不关心,不在乎;**obsession**困扰;
+				6. _risk aversion_ 风险规避；厌恶风险
+				7. _aversion therapy_ [心理]厌恶疗法
+				8. a temperamental aversion to work 禀性不喜欢工作
+			11. averseness
 	17. advert
 		1. ad-去，往 + vert-转 → 吸引人们注意力的，广告。
 		2.  [ad](dic://ad), [advertisement](dic://advertisement), [advertizement](dic://advertizement), [advertising](dic://advertising), [advertizing](dic://advertizing)
@@ -3599,12 +3603,13 @@
 			2. _n._ [same](dic://same)
 			3. **scuba**水中呼吸器;**dive**跳水;**swimmers**游泳者;**underwater**在水中生长的;**fishermen**渔夫,钓鱼者,渔船;**rescuers**救援者;**snorkeling**潜水;**snorkel**通气管;**anglers**钓鱼者;**reefs**群礁;**sharks**鲨鱼;
 		14. diverting
-			1. _adj._ [entertaining](dic://entertaining)
-			2. _n._ [unentertaining](dic://unentertaining)
-			3. **diversion**转移, 转向;**transporting**运输;**draining**排水;**avoiding**回避;**freeing**释放;**channeling**凿沟,沟渠,沟槽;**reducing**减低;**wasting**浪费;**absorbing**吸引人的,非常有趣的;**seizing**抓;**providing**如果;
-			4. his inimitable way of retailing a diverting anecdote. /他讲述奇闻轶事的独特方式。
-			5. The conviction was for an assault stance, but not for diverting the plane /她获罪是因为攻击行为，并非因为要求飞机折回。”
-			6. Mr Sharma offers a diverting guide to that world. /s沙尔曼以颇有意思的方式带领读者们进入这个新世界。
+			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping, diverting, entertaining, seizing)
+			2. _adj._ [entertaining](dic://entertaining)
+			3. _n._ [unentertaining](dic://unentertaining)
+			4. **diversion**转移, 转向;**transporting**运输;**draining**排水;**avoiding**回避;**freeing**释放;**channeling**凿沟,沟渠,沟槽;**reducing**减低;**wasting**浪费;**absorbing**吸引人的,非常有趣的;**seizing**抓;**providing**如果;
+			5. his inimitable way of retailing a diverting anecdote. /他讲述奇闻轶事的独特方式。
+			6. The conviction was for an assault stance, but not for diverting the plane /她获罪是因为攻击行为，并非因为要求飞机折回。”
+			7. Mr Sharma offers a diverting guide to that world. /s沙尔曼以颇有意思的方式带领读者们进入这个新世界。
 	27. divorce
 	28. evert
 		1. vt. 使…外翻；翻转
@@ -4938,14 +4943,15 @@
 			8. _[frock overall vesture](dic://frock%20overall%20vesture)_ 罩袍
 			9. a vesture of verdure 一片翠绿
 			10. hills in a vesture of mist. 笼罩在雾中的山峦
-		16. vestment, vestlike, devest
-		17. vested
-		18. vestee
+		16. vestment, vestlike,
+		17. divest (strip, divest, deprive, expropriate, confiscate, plunder, foreclose)
+		18. vested
+		19. vestee
 			1. n. V形装饰片, 背心式胸衣
-		19. vestry
+		20. vestry
 			1. n. 法衣圣器储藏室, 祈祷室, 教区委员会
 			2. vestryman
-		20. undervest
+		21. undervest
 	3. revest
 		1. _[revest](dic://revest)_  vt. 再赋予（权力，职权等）；重新投资; n. (Revest)人名；(法)勒韦;
 	4. transvest

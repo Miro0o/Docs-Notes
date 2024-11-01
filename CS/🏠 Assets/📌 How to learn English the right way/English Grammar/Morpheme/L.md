@@ -31,13 +31,16 @@
 	9. laborsaving
 	10. laborsome
 2. belabour /belabor
-	1. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
-	2. vt. 痛打；不断辱骂和嘲弄；唠叨
-	3. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
-	4. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
-	5. there is no need to belabour the point. /没有必要对这一点多费口舌。
-	6. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
-	7. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
+	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+	4. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
+	5. vt. 痛打；不断辱骂和嘲弄；唠叨
+	6. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
+	7. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
+	8. there is no need to belabour the point. /没有必要对这一点多费口舌。
+	9. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
+	10. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
 4. collaborate
 	1. collaboratory
 	2. collaborator
@@ -164,12 +167,13 @@
 		2. _n._ [stimulation](dic://stimulation), [stimulus](dic://stimulus), [stimulant](dic://stimulant), [input](dic://input)
 		3. **facilitation**简易化,助长;**elicit**引出, 探出;**stimuli**刺激;**elaboration**精心制作;**quantification**定量，量化;**methodology**方法学;**evaluation**估价,评价;**analysis**细察;
 2. frolic
-	1. fro-,蹦，跳，词源同 frog,-lic,像，词源同 like.即看起来像青蛙一样的，蹦蹦跳跳的
-	2. n. 嬉戏  vi. 嬉戏  a. 嬉戏的, 欢乐的
-	3. [play](dic://play), [romp](dic://romp), [gambol](dic://gambol), [caper](dic://caper)
-	4. [lark](dic://lark), [rollick](dic://rollick), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
-	5. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
-	6. _v._ [play](dic://play)
+	1.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
+	2. fro-,蹦，跳，词源同 frog,-lic,像，词源同 like.即看起来像青蛙一样的，蹦蹦跳跳的
+	3. n. 嬉戏  vi. 嬉戏  a. 嬉戏的, 欢乐的
+	4. [play](dic://play), [romp](dic://romp), [gambol](dic://gambol), [caper](dic://caper)
+	5. [lark](dic://lark), [rollick](dic://rollick), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
+	6. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
+	7. _v._ [play](dic://play)
 	8. **romp**嬉闹玩笑;**stroll**闲逛;**revel**狂欢;**roam**漫游，漫步;**mischief**伤害;**strolling**巡回的;**merry**愉快的;**carefree**无忧无虑的;**fun**乐趣;**partake**参与;**playful**爱嬉戏的;
 	9. They had a frolic in the country /他们在乡村度过了一段欢乐的时光。
 	10. a thousand forms of frolic life /无数种欢乐嬉戏的生活方式。
@@ -178,7 +182,7 @@
 	13. Half in fear and half in frolic. /一半在恐惧，一半在嬉闹。
 	14. And who is that japanese feline I see frolicking on your shorts? Hello, hello kitty! /那个在你短裤上嬉闹的日本的猫科动物又叫什么？你好！Hello Kitty！
 	15. The tourists who frolicked by the sea suffered few adverse consequences beyond a spot of sunburn. /在海边嬉戏的游客除了有点晒伤外，几乎没有什么不良后果。
-3. lace
+4. lace
 	1. [lacing](dic://lacing)
 	2. [intertwine](dic://intertwine), [twine](dic://twine), [entwine](dic://entwine), [enlace](dic://enlace), [interlace](dic://interlace)
 	3. [braid](dic://braid), [plait](dic://plait)
@@ -193,7 +197,7 @@
 	12. a black lace peekaboo dress /黑色花边露透装。
 	13. laced the eggnog with rum and brandy /把兰姆酒和白兰地加到蛋酒中
 	14. These shoes lace easily. /这些鞋带子容易系。
-4. lasso
+5. lasso
 	1.  [lariat](dic://lariat), [riata](dic://riata), [reata](dic://reata)
 	2. _n._ [composer](dic://composer), [rope](dic://rope)
 	3. _v._ [get](dic://get), [catch](dic://catch), [capture](dic://capture)
@@ -1765,19 +1769,20 @@
 		3. slimeball
 	5. delete
 		1. 1 - de-,向下，离开，-let,涂抹，抹掉，词源同 liniment,obliterate.-t,过去分词格 (obliterate, deph-, liter-)
-		2. deleterious (counterproductive, vitriolic, caustic, vile, snarky)
-			1. 来自希腊语 deleter,破坏者，毁灭者，可能进一步来自 PIE*da,切，分，词源同 demon.即破坏性的，有害的。
-			2. _adj._ [harmful](dic://harmful)
-			3. _n._ [harmless](dic://harmless)
-			4. **detrimental**有害的;**harmful**能造成损害的;**adverse**不利的;**undesirable**不良的;**pernicious**很有害的;**effects**财物;**effect**效果;**damaging**有破坏性的，损害的;**destructive**破坏性的, 毁灭性的;**unintended**非故意的,无意识的;**beneficial**有益的, 有利的;
-			5. _deleterious effect_ 毒害身心的作用，有毒影响
-			6. The cold weather had most deleterious consequences among the chrysanthemums. /寒冷的天气对菊花产生了极有害的影响。
-			7. It's bad news for biodiversity, but it's also deleterious for the dinner plate. /这对生物多样性来说是个坏消息，同时对我们的晚餐供应来说也是不利的。
-		3. deletion
-		4. deleting
-		5. deleter
-		6. deletable
-		7. indelible
+		2. deleterious
+			1. (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity, counterproductive, vitriolic, caustic, vile, snarky, devastating, )
+			2. 来自希腊语 deleter,破坏者，毁灭者，可能进一步来自 PIE*da,切，分，词源同 demon.即破坏性的，有害的。
+			3. _adj._ [harmful](dic://harmful)
+			4. _n._ [harmless](dic://harmless)
+			5. **detrimental**有害的;**harmful**能造成损害的;**adverse**不利的;**undesirable**不良的;**pernicious**很有害的;**effects**财物;**effect**效果;**damaging**有破坏性的，损害的;**destructive**破坏性的, 毁灭性的;**unintended**非故意的,无意识的;**beneficial**有益的, 有利的;
+			6. _deleterious effect_ 毒害身心的作用，有毒影响
+			7. The cold weather had most deleterious consequences among the chrysanthemums. /寒冷的天气对菊花产生了极有害的影响。
+			8. It's bad news for biodiversity, but it's also deleterious for the dinner plate. /这对生物多样性来说是个坏消息，同时对我们的晚餐供应来说也是不利的。
+		4. deletion
+		5. deleting
+		6. deleter
+		7. deletable
+		8. indelible
 			1. 1 - in-,不，非，-delib,删除，抹去，词源同 delete.引申词义难以磨灭的。
 			2. _adj._ [ineradicable](dic://ineradicable)
 			3. _n._ [eradicable](dic://eradicable)
@@ -3933,15 +3938,29 @@
 
 ### + \*lithra- +
 1. **liber-,libr-,liter-,lev-** = 表示“天平，秤，称”。源自拉丁语 libra "a pound, balance."
-	1. deliberate (circumspect, contemplate, calculated, )
-		1. de-向下，强调 + liber-秤，称量 + -ate, 表形容词，引申义反复称量的，故意的。
-		2. _take time to deliberate_ 做事要深思熟虑
-		3. _deliberate on_ 审议；仔细研究，考虑
-	2. libra
+	1. deliberate
+		1.  ( deliberate, circumspect, discreet, heady, prudent, cautious, scrupulous, punctilious, meticulous, calculate, analytic, rational, contemplate)
+		2. de-向下，强调 + liber-秤，称量 + -ate, 表形容词，引申义反复称量的，故意的。
+		3. _v._ [hash out](dic://hash out), [discuss](dic://discuss), [talk over](dic://talk over)
+		4. _adj._ [intended](dic://intended), [unhurried](dic://unhurried), [thoughtful](dic://thoughtful), [premeditated](dic://premeditated)
+		5. _n._ [unintended](dic://unintended), [hurried](dic://hurried), [thoughtless](dic://thoughtless), [unpremeditated](dic://unpremeditated)
+			1. [think](dic://think) 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。  
+			2. [deliberate](dic://deliberate) 指缓慢、按部就班地作仔细而认真的思考或判断。  
+			3. [meditate](dic://meditate) 语气较强，指认真地长时间集中精力进行思考。  
+			4. [muse](dic://muse) 通常指漫无目的地猜想。  
+			5. [reason](dic://reason) 指根据资料、证据或事实进行推断，作出结论或判断的逻辑思维活动。  
+			6. [reflect](dic://reflect) 指回想或回顾，侧重认真而冷静地反复地思考某个问题，尤指对已发生事情的思索。   
+			7. [speculate](dic://speculate) 指推论过程，隐含在证据不足的基础上作出推测或设想。
+		6. **intentional**存心的;**purposeful**有目的的;**unintentional**不是故意的,无心的,无意识的;**willful**有意的;**concerted**共同筹划的, 合作的;**methodical**有条理的, 井然的;**blatant**明目张胆的;**intentionally**有意地,故意地;**artful**狡猾的;**accidental**意外的;**purposefully**有目的地;
+		7. _take time to deliberate_ 做事要深思熟虑
+		8. _deliberate on_ 审议；仔细研究，考虑
+		9. _take time to deliberate_ 做事要深思熟虑
+		10. _deliberate on_ 审议；仔细研究，考虑
+	14. libra
 		1. - 来自拉丁语 libra,秤，平衡，词源同 lira,liter,deliberate.
-	3. librate
+	15. librate
 		1. vi. 摆动, 颤动, 保持平衡
-	4. equilibrant
+	16. equilibrant
 		1. equilibrate
 		2. equilibrist
 		3. equilibrium

@@ -319,23 +319,24 @@
 	13. histaffine
 	14. equiaffine
 	15. affined
-3. affinity
-	1. [chemical attraction](dic://chemical attraction)
-	2.  [phylogenetic relation](dic://phylogenetic relation)
-	3.  [kinship](dic://kinship)
-	4. _n._ [force](dic://force), [attraction](dic://attraction), [attractive force](dic://attractive force), [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship), [relation](dic://relation)
-	5. _n._ [consanguinity](dic://consanguinity), [blood kinship](dic://blood kinship), [cognation](dic://cognation)
-	6. **fondness**溺爱;**kinship**亲属关系，家属关系;**similarity**类似, 相似;**penchant**嗜好;**propensity**倾向;**specificity**特性;**familiarity**熟悉，精通;**closeness**接近;**innate**先天的;**selectivity**选择性;**interest**兴趣，爱好;
-	7. _affinity chromatography_ 亲和色谱法
-	8. _electron affinity_ 电子亲合性
-	9. negative electron affinity photoemitter /负电子亲合力光电发射体
-	10. a dye with an affinity for synthetic fabrics. /对合成纤维具有亲和力的染液。
-	11. he had a special affinity with horses. /他对马有天生的喜爱。
-	12. She feels a strong affinity for him. /她对他很有吸引力。
-	13. He has a natural affinity with numbers. /他天生就喜欢数字。
-	14. Many girls do show an affinity for craft skills. /确实有许多女孩子喜爱手工。
-	15. affinal
-	16. electroaffinity
+3. affinity 
+	1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+	2. [chemical attraction](dic://chemical attraction)
+	3.  [phylogenetic relation](dic://phylogenetic relation)
+	4.  [kinship](dic://kinship)
+	5. _n._ [force](dic://force), [attraction](dic://attraction), [attractive force](dic://attractive force), [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship), [relation](dic://relation)
+	6. _n._ [consanguinity](dic://consanguinity), [blood kinship](dic://blood kinship), [cognation](dic://cognation)
+	7. **fondness**溺爱;**kinship**亲属关系，家属关系;**similarity**类似, 相似;**penchant**嗜好;**propensity**倾向;**specificity**特性;**familiarity**熟悉，精通;**closeness**接近;**innate**先天的;**selectivity**选择性;**interest**兴趣，爱好;
+	8. _affinity chromatography_ 亲和色谱法
+	9. _electron affinity_ 电子亲合性
+	10. negative electron affinity photoemitter /负电子亲合力光电发射体
+	11. a dye with an affinity for synthetic fabrics. /对合成纤维具有亲和力的染液。
+	12. he had a special affinity with horses. /他对马有天生的喜爱。
+	13. She feels a strong affinity for him. /她对他很有吸引力。
+	14. He has a natural affinity with numbers. /他天生就喜欢数字。
+	15. Many girls do show an affinity for craft skills. /确实有许多女孩子喜爱手工。
+	16. affinal
+	17. electroaffinity
 5. confine
 	1.  [limit](dic://limit), [circumscribe](dic://circumscribe)
 	2. [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [throttle](dic://throttle)
@@ -359,7 +360,7 @@
 	20. confines
 	21. confinement
 	22. confined
-7. define
+6. define
 	1. well-defined
 	2. user-defined
 	3. undefined
@@ -369,10 +370,12 @@
 	7. ill-defined
 	8. ill-define
 	9. definite
+		1. definitive
+			1.  (convincing, compelling, persuasive, reasoned, authoritative, definitive, cogent)
 	10. defining
 	11. definable
 	12. definability
-8. final
+7. final
 	1. semifinal
 	2. quarterfinal
 	3. finally
@@ -382,14 +385,14 @@
 	7. finalise
 	8. finalin
 	9. finale
-9. finance
+8. finance
 	1. refinancing
 	2. refinance
 	3. financing
 	4. financier
 	5. financial
 	6. finances
-10. fine
+9. fine
 	1. finery
 		1. _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress)
 		2. **garb**装束;**attire**服装;**splendor**光彩;**dressed**穿好衣服的;**opulent**富裕的;**decked**装了甲板的;**costumes**服装;**dress**给…穿衣;**trappings**服饰;**jewels**珠宝;**robes**礼服;
@@ -416,9 +419,9 @@
 	22. finable
 	23. extrafine
 	24. centrifiner
-11. finial
-12. finis
-13. finish
+10. finial
+11. finis
+12. finish
 	1. unfinished
 	2. superfinishing
 	3. superfinish
@@ -429,7 +432,7 @@
 	8. finisher
 	9. finished
 	10. finishabilitys
-14. finite
+13. finite
 	1. non-finite
 	2. finiteness
 	3. infinite
@@ -442,7 +445,7 @@
 		7. infiniteness
 		8. infinitely
 	4. transfinite
-15. refine
+14. refine
 	1. unrefined
 	2. refinish
 	3. refining

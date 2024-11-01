@@ -180,24 +180,25 @@
 		7. They had confessed their sins and done their penance. /他们已经告罪并做了补赎。
 		8. he had done public penance for those hasty words. /他为那些草率的话而当众自我惩罚。
 		9. a hair shirt to penance him for his folly in offending /一件使其为冒犯他人的过错而忏悔的刚毛衬衣。
-	2. penitent
-		1. a. 忏悔的, 悔悟的, 表示悔罪的  n. 忏悔的人, 悔罪者
-		2. 来自拉丁语 paenitere,感到遗憾，感到歉意，可能来自 poena,惩罚，处罚，补偿，弥补，词源同 pain,penal,punish.引申词义悔罪，忏悔。
-		3. [repentant](dic://repentant)
-		4. [religious person](dic://religious person)
-		5. [contrite](dic://contrite), [remorseful](dic://remorseful), [rueful](dic://rueful), [ruthful](dic://ruthful), [penitential](dic://penitential)
-		6. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
-		7. **sinner**罪人;**penance**使…以苦行赎罪;**repentance**悔悟;**pious**虔诚的;**confession**承认;**sinners**罪人;**priest**牧师;**nun**修女，尼姑;**merciful**仁慈的;**confessional**告解室;**repent**忏悔;
-		8. a penitent expression. /表示悔过的话语
-		9. Zion will be delivered with justice, her penitent ones with righteousness. /锡安必因公平得蒙救赎，其中归正的人必因公义得蒙救赎。
-		10. For Alice was penitent of her one earthly sin, and proud no more! /因为爱丽丝为她在世上犯下的一个罪孽忏悔，不再骄傲！
-		11. penitence, impenitence
+	2. penitent 
+		1. (contrite, remorse, rueful, compunction, rue, penitent )
+		2. a. 忏悔的, 悔悟的, 表示悔罪的  n. 忏悔的人, 悔罪者
+		3. 来自拉丁语 paenitere,感到遗憾，感到歉意，可能来自 poena,惩罚，处罚，补偿，弥补，词源同 pain,penal,punish.引申词义悔罪，忏悔。
+		4. [repentant](dic://repentant)
+		5. [religious person](dic://religious person)
+		6. [contrite](dic://contrite), [remorseful](dic://remorseful), [rueful](dic://rueful), [ruthful](dic://ruthful), [penitential](dic://penitential)
+		7. [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
+		8. **sinner**罪人;**penance**使…以苦行赎罪;**repentance**悔悟;**pious**虔诚的;**confession**承认;**sinners**罪人;**priest**牧师;**nun**修女，尼姑;**merciful**仁慈的;**confessional**告解室;**repent**忏悔;
+		9. a penitent expression. /表示悔过的话语
+		10. Zion will be delivered with justice, her penitent ones with righteousness. /锡安必因公平得蒙救赎，其中归正的人必因公义得蒙救赎。
+		11. For Alice was penitent of her one earthly sin, and proud no more! /因为爱丽丝为她在世上犯下的一个罪孽忏悔，不再骄傲！
+		12. penitence, impenitence
 			1. n. 后悔, 忏悔, 改过
 			2. penit-懊悔 + -ence, 表名词
 			3. [repentance](dic://repentance), [penance](dic://penance)
 			4. [compunction](dic://compunction), [remorse](dic://remorse), [self-reproach](dic://self-reproach)
 			5. **penance**使…以苦行赎罪;**repentance**悔悟;**piety**虔诚;**confession**承认;**repent**忏悔;**forgiveness**宽恕;**remorse**懊悔, 悔恨, 自责;**sins**罪恶;**atonement**弥补,补偿;**martyrdom**殉难;**humility**谦卑，谦逊;
-		12. penitentiary
+		13. penitentiary
 			1. _n._ [correctional institution](dic://correctional institution)
 			2. _adj._ [punitive](dic://punitive), [punitory](dic://punitory)
 			3. **prison**监狱;**correctional**改正的,矫正的,修正的;**jail**监狱;**inmate**同住者;**penal**刑罚的;**prisoner**囚犯，犯人;**incarcerated**钳闭的;**incarceration**监禁;**parole**誓言;**confinement**限制,被监禁;**imprisonment**关押,监禁;
@@ -205,7 +206,7 @@
 			5. _[penitentiary establishment](dic://penitentiary%20establishment)_ 反省机关
 			6. _[city penitentiary](dic://city%20penitentiary)_ 市监狱
 			7. _[county penitentiary](dic://county%20penitentiary)_ 县监狱
-		13. penitential
+		14. penitential
 			1. _adj._ [repentance](dic://repentance), [penitence](dic://penitence), [penance](dic://penance), [penitent](dic://penitent), [repentant](dic://repentant)
 			2. _n._ [impenitent](dic://impenitent), [unrepentant](dic://unrepentant), [unremorseful](dic://unremorseful)
 			3. **penance**使…以苦行赎罪;**liturgical**礼拜仪式的;**liturgy**礼拜仪式;**monastic**僧侣;**ecclesiastical**基督教会的;**piety**虔诚;**contemplative**沉思的;**fasting**禁食;**repentance**悔悟;**priestly**祭司的;**pious**虔诚的;
@@ -223,7 +224,7 @@
 			6. The Son of God Himself was sent to plead with the impenitent city. /上帝的儿子亲自奉差遣来到这个顽梗的城邑，发出恳切的劝告。
 			7. He was impenitent — but were not public criminals impenitent? /他不知悔改——但公共罪犯不是不知悔改吗？
 			8. impenitently
-		17. impenitency
+		16. impenitency
 			1. n. 不悔悟, 顽固
 
 
@@ -3470,20 +3471,21 @@
 		16. appropriately
 		17. appropriated, unappropriated
 	3. expropriate
-		1. ex-出 + propri-拥有 + -ate, 表动词 → 不再拥有 → 没收。
-		2. _v._ [deprive](dic://deprive), [strip](dic://strip), [divest](dic://divest)
-		3. **seize**抓住;**deprive**使丧失，剥夺;**plunder**抢夺;**redistribute**重新分配;**demolish**毁坏;**acquire**获得;**land**陆地;**dismantle**拆开, 拆卸;**displace**取代;
-		4. expropriate sb. from an estate /没收某人的财产
-		5. the measures expropriated the landlords /这些措施剥夺了地主的财产。
-		6. expropriator
-		7. expropriation
+		1. (strip, divest, deprive, expropriate, confiscate, plunder, foreclose)
+		2. ex-出 + propri-拥有 + -ate, 表动词 → 不再拥有 → 没收。
+		3. _v._ [deprive](dic://deprive), [strip](dic://strip), [divest](dic://divest)
+		4. **seize**抓住;**deprive**使丧失，剥夺;**plunder**抢夺;**redistribute**重新分配;**demolish**毁坏;**acquire**获得;**land**陆地;**dismantle**拆开, 拆卸;**displace**取代;
+		5. expropriate sb. from an estate /没收某人的财产
+		6. the measures expropriated the landlords /这些措施剥夺了地主的财产。
+		7. expropriator
+		8. expropriation
 			1. _n._ [confiscation](dic://confiscation), [arrogation](dic://arrogation)
 			2. **confiscation**没收,充公,征用;**privatization**私有化;**annexation**并吞;**exploitation**开发;**plunder**抢夺;**alienation**离间,疏远;**looting**抢劫;**taxation**课税，征税;**oppression**压迫手段;**condemnation**谴责;**bourgeoisie**资产阶级;
-	4. impropriate
-	5. proper
+	5. impropriate
+	6. proper
 		1. improper, improperly
 		2. properly
-	6. property, propertied
+	7. property, propertied
 		1. [place](dic://place)
 		2. [belongings](dic://belongings), [holding](dic://holding), [material possession](dic://material possession)
 		3. [attribute](dic://attribute), [dimension](dic://dimension)
@@ -3495,7 +3497,7 @@
 			5. [property](dic://property) 含义较estate宽，指个人或团体合法拥有的财产，包括动产与不动产，或临时的财产。
 			6. [resources](dic://resources) 指在需要时可以动用的财产，包括国家土地、矿藏、水力等自然资源或个人的存款及其他财产。
 		5. **estate**财产;**land**陆地;**ownership**物主的身份;**acreage**面积，英亩数;**house**住宅;**easement**缓和;**condominium**公寓;**condo**分户出售公寓大厦;**owner**所有者;**rental**租赁;**beachfront**海滨地区;
-	7. proprietary
+	8. proprietary
 		1. 1 - 来自 proper,自己的，私人的，-ary,形容词后缀。引申诸相关词义。
 		2. a. 专卖的, 专营的; 专利的; 所有的, 所有权的  n. 所有者, 业主, 所有权
 		3. _n._ [ownership](dic://ownership)
@@ -3518,9 +3520,9 @@
 				3. _[with propriety](dic://with%20propriety)_  适当; 按照礼节;
 		8. proprietory
 		9. nonproprietary
-	8. proprioceptor
+	9. proprioceptor
 		1. _n._ 本体感受器,固有感受器
-	9. malaprop, malapropism
+	10. malaprop, malapropism
 9. **prot-, proteo-  = protein, 源自proto“最重要的”，因为最初科学家就认识到了蛋白质对生命的重要性，它可以被认为是生命的根本，所以用希腊词根proto-命名，以示其重要性**
 	1. proteo
 	2. proteolysis
@@ -3789,25 +3791,27 @@
 		7. deportee
 		8. deportation
 	4. disport (dispart)
-		1. v. 玩耍, 娱乐  n. 娱乐
-		2. dis-不 + port-搬运 → 不干活（搬） → 娱乐。
-		3. sport [spɔːt] n.运动；游戏；娱乐，v.游戏；参加体育运动；夸耀，adj.运动的。实际是disport的缩短式，disport [dɪ'spɔːt] v.（使）娱乐，n.娱乐，词根port-表to carry或港口，与ford [fɔːd] n.浅滩，v.涉水而过同源，dis-表away,apart。从严肃的事情carry away到欢乐的事情，就是disport。 ​​​​
-		4. [amuse](dic://amuse), [divert](dic://divert)
-		5.  [frolic](dic://frolic), [lark](dic://lark), [rollick](dic://rollick), [skylark](dic://skylark), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
-		6. _v._ [entertain](dic://entertain), [play](dic://play)
-		7. **amuse**使发笑;**doth**从事;**revel**狂欢;**adorn**装饰;**bathe**沐浴;
-		8. a painting of lords and ladies disporting themselves by a lake. /一幅贵族贵妇在湖边尽情欢娱的图画。
-		9. I rather fancied that Cinderella might be disporting herself amongst them in some wonderful costume, but I saw no signs of her. /我倒觉得灰姑娘可能穿着漂亮的服装在他们中间嬉戏， 但我没有看到她的踪迹。
-		10. Both inside Fenway park and a disport bar outside of it, Boston Red Sox fans cheered passionately and proudly for those introduced before the game. /无论是在芬威球场或是外面的一家娱乐酒吧, 波士顿红袜队的球迷们对那些赛前介绍热烈自豪地欢呼。
-		11. The lithe young copper-colored body still disported itself in the cool waters; superstition held that should their canoe, or even their paddle-blades, touch a human being, their marvellous power would be lost /轻盈的古铜色年轻身体仍在凉爽的水中嬉戏； 迷信认为，如果他们的独木舟， 甚至他们的桨叶碰到人， 他们的神奇力量就会消失。
-	5. export
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
+		2.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
+		3. v. 玩耍, 娱乐  n. 娱乐
+		4. dis-不 + port-搬运 → 不干活（搬） → 娱乐。
+		5. sport [spɔːt] n.运动；游戏；娱乐，v.游戏；参加体育运动；夸耀，adj.运动的。实际是disport的缩短式，disport [dɪ'spɔːt] v.（使）娱乐，n.娱乐，词根port-表to carry或港口，与ford [fɔːd] n.浅滩，v.涉水而过同源，dis-表away,apart。从严肃的事情carry away到欢乐的事情，就是disport。 ​​​​
+		6. [amuse](dic://amuse), [divert](dic://divert)
+		7.  [frolic](dic://frolic), [lark](dic://lark), [rollick](dic://rollick), [skylark](dic://skylark), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
+		8. _v._ [entertain](dic://entertain), [play](dic://play)
+		9. **amuse**使发笑;**doth**从事;**revel**狂欢;**adorn**装饰;**bathe**沐浴;
+		10. a painting of lords and ladies disporting themselves by a lake. /一幅贵族贵妇在湖边尽情欢娱的图画。
+		11. I rather fancied that Cinderella might be disporting herself amongst them in some wonderful costume, but I saw no signs of her. /我倒觉得灰姑娘可能穿着漂亮的服装在他们中间嬉戏， 但我没有看到她的踪迹。
+		12. Both inside Fenway park and a disport bar outside of it, Boston Red Sox fans cheered passionately and proudly for those introduced before the game. /无论是在芬威球场或是外面的一家娱乐酒吧, 波士顿红袜队的球迷们对那些赛前介绍热烈自豪地欢呼。
+		13. The lithe young copper-colored body still disported itself in the cool waters; superstition held that should their canoe, or even their paddle-blades, touch a human being, their marvellous power would be lost /轻盈的古铜色年轻身体仍在凉爽的水中嬉戏； 迷信认为，如果他们的独木舟， 甚至他们的桨叶碰到人， 他们的神奇力量就会消失。
+	6. export
 		1. reexport
 		2. exporter, importer-exporter
 		3. exportation
 			1. reexportation
 			2. nonexportation
 		4. exportable
-	6. import
+	7. import
 		1. [meaning](dic://meaning), [significance](dic://significance), [signification](dic://signification)
 		2. [consequence](dic://consequence), [moment](dic://moment)
 		3. **export**输出，出口;**importation**进口;**exports**出口商品;**exporter**输出国;**tariffs**关税;**excise**货物税;**shipment**装货;**tariff**关税表;**customs**海关;
@@ -3850,8 +3854,8 @@
 			2. self-importance
 		11. importable
 		12. importability
-	7. jetport
-	8. purport, purported
+	8. jetport
+	9. purport, purported
 		1. pur-向前 + port-含有，承载，引申词义自称，标榜等。
 		2. [intent](dic://intent), [spirit](dic://spirit)
 		3. [drift](dic://drift)
@@ -3862,7 +3866,7 @@
 		8. the purport of existence /生存的目的。
 		9. the main purport of one's speech /演说的要点
 		10. She purports to represent the whole group /她自称代表整个团体。
-	9. rapport
+	10. rapport
 		1. r(e)-往回 + ap-向 + port-带，引申词义恢复，融洽，和谐。
 		2. [resonance](dic://resonance)
 		3. _n._ [affinity](dic://affinity), [kinship](dic://kinship)
@@ -3870,7 +3874,7 @@
 		5. She has an excellent rapport with her staff. /她跟她职员的关系非常融洽。
 		6. _n._ [affinity](dic://affinity), [kinship](dic://kinship)
 		7. [resonance](dic://resonance)
-	10. report
+	11. report
 		1. unreported
 		2. underreport
 		3. reportorial
@@ -3881,7 +3885,7 @@
 		8. reportage, photoreportage
 		9. reportable
 		10. misreport
-	11. opportune
+	12. opportune
 		1. **juncture**连接;**opportunity**机会, 时机;**moment**瞬间;**advantageous**有利的;**momentous**重大的, 严重的;**prudent**谨慎的;**time**时间;**crucial**决定性的;**auspicious**吉利的;**expedient**应急有效的;**seize**抓住;
 		2. _adj._ [good](dic://good), [right](dic://right), [ripe](dic://ripe), [timely](dic://timely), [seasonable](dic://seasonable),
 		4. opportunity
@@ -3890,9 +3894,9 @@
 		7. opportunism
 		8. opportunely
 		9. inopportune, inopportunely
-	12. portfolio
+	13. portfolio
 		1. portico
-	13. sport
+	14. sport
 		1. unsporting
 		2. sporty
 		3. sports
@@ -3900,7 +3904,7 @@
 		5. sporting
 		6. sportful
 		7. spoilsport
-	14. support
+	15. support
 		1. unsupported
 		2. supportsaddle
 		3. supportless
@@ -3914,14 +3918,14 @@
 		11. nonsupport
 		12. life-support
 		13. insupportable
-	15. transport
+	16. transport
 		1. transporter
 		2. transportee
 		3. transportation
 		4. transportable
 		5. hydrotransport
 		6. aerotransport
-	16. porch
+	17. porch
 		1. n. 门廊, 走廊
 		2. 来自拉丁语porta "gate", 后借道古法语进入英语。
 		3. porched
@@ -4355,16 +4359,17 @@
 			12. For the bite force, probably comparable to a great white shark. /它的咬合力，应该可以媲美大白鲨。
 			13. Its economy is comparable to other European economies. /它的经济与其他欧洲经济体相当。
 	2. disparage (asperse, dissipate)
-		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
-		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule)
-		3. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
-		4. _n._ [flatter](dic://flatter), [blandish](dic://blandish)
-		5. **criticize**评论, 批评;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**offend**冒犯;**accuse**控告，指控;**embarrass**使窘迫;**ridicule**嘲笑;**despise**轻视，鄙视;**insult**侮辱;**intimidate**恐吓, 威胁;**denounce**谴责;
-		6. Some critics disparage psychoanalysis as being a pseudoscience. /一些批评家轻蔑地把精神分析学看作是伪科学。
-		7. The prevalent view in China disparages the humanities /国内流行的观点是轻视人文社科。
-		8. Some disparage the prime minister's obsessive city management as befitting a mere mayor. /一些人贬损总理太过痴迷于城市管理，认为他只适合做一个市长。
-		9. disparaging
-		10. disparagement
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		4. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		5. _n._ [flatter](dic://flatter), [blandish](dic://blandish)
+		6. **criticize**评论, 批评;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**offend**冒犯;**accuse**控告，指控;**embarrass**使窘迫;**ridicule**嘲笑;**despise**轻视，鄙视;**insult**侮辱;**intimidate**恐吓, 威胁;**denounce**谴责;
+		7. Some critics disparage psychoanalysis as being a pseudoscience. /一些批评家轻蔑地把精神分析学看作是伪科学。
+		8. The prevalent view in China disparages the humanities /国内流行的观点是轻视人文社科。
+		9. Some disparage the prime minister's obsessive city management as befitting a mere mayor. /一些人贬损总理太过痴迷于城市管理，认为他只适合做一个市长。
+		10. disparaging
+		11. disparagement
 	4. disparate (asperse, dissipate) 
 		1. (dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
 		3. _adj._ [different](dic://different), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
@@ -5496,7 +5501,7 @@
 	3. pointy
 		1. _[Pointy](dic://Pointy)_ 非常尖锐; 非常尖的; 尖的; 有尖头的
 	4. poignant
-		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
+		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic, astringent, sulfurous, venomous, blistering, bitter, acid, )
 		2. 来自古法语 poignant,锋利的，尖锐的，来自拉丁语 pungere,刺，词源同 pugnacious,point.
 		3. a. 辛酸的, 尖锐的, 剧烈的
 		4.  [affecting](dic://affecting), [touching](dic://touching)
@@ -5520,7 +5525,7 @@
 		8. Lots of spicy foods get their pungency from a chemical called capsaicin. /许多辛辣食物的刺激性来自一种叫做辣椒素的化学物质。
 		9. There he fell sound asleep on the sofa, and so Gloria found him, his breath filling the air with an unpleasant pungency, his hand still clutching his open brief case. /他在沙发上睡着了，于是格洛丽亚找到了他，他的呼吸充满了令人不快的刺鼻气味，他的手仍然抓着打开的公文包。
 		10. Being perfect, they can never droop under that satiety which arises from the perception of fault; their virtue can never be so entirely savoured as to leave no pungency of gusto for the next approach /作为完美的人，他们永远不会在因错误的感知而产生的满足感下垂头丧气；他们的美德永远无法被完全品味到对下一个方法没有热情的刺激。
-	1. compunction (contrite, remorse, rueful, )
+	1. compunction (contrite, remorse, rueful, compunction, rue, penitent )
 		1. com-共同 + punct-刺 + -ion名词后缀 → 浑身像针刺一样 → 悔恨。
 		2. _n._ [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
 		3. **qualms**良心之谴责，不安;**remorse**懊悔, 悔恨, 自责;**hesitation**犹豫;**pretense**借口;**intention**意图, 意向;**conscience**良心;**penchant**嗜好;**indignation**愤怒, 愤慨, 气愤;**disdain**蔑视;**pretext**托辞;**whatsoever**无论什么;
@@ -5538,17 +5543,18 @@
 	5. punctilio
 		1. punct-尖、点 + -ilious表形容词 → [做事]点滴不漏 → 小心的。
 		2. pun [pʌn] vi.说双关语，n.双关语；俏皮话。这个单词与punctilious [pʌŋ(k)'tɪlɪəs] adj. 一丝不苟的；拘泥形式的有关。词根punct表示刺，与point点同根。pun就是语言表达上的一个“fine point”。美国演员George Carlin的pun"Atheism is a non-prophet institution"中，prophet双关了profit。
-	6. punctilious (punctilious, meticulous) (fastidious)
-		1. _adj._ [precise](dic://precise)
-		2. n._ [imprecise](dic://imprecise)
-		3. **meticulous**极仔细的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**exacting**苛求的;**zealous**热心的，热情的，积极的;**precise**精确的;**methodical**有条理的, 井然的;**fastidious**过分讲究的;**impeccable**无瑕疵的;**strict**严格的;**attentive**对某人〔物〕 注意的;
-		4. he was punctilious in providing every amenity for his guests /他在客人面前拘泥礼节。
-		5. Congress would have to be punctilious in drawing up rules to forestall tax evasion. /国会将不得不严谨地制定规则，防止逃税。
-		6. The first, which looks inward, is the relentless self-scolding of the workaholic or punctilious student. /第一种是向内的，是工作狂或刻苦学生的严厉自责。
-		7. He is the most punctilious blockhead under heaven /他是天下最死板的笨蛋。
-		8. Soldiers, as well as women, practice the minor virtues with punctilious politeness. /士兵和女人一样， 以一丝不苟的礼貌来践行小美德。
-		9. He is punctilious to the point of quixotism in acknowledging the salutes of his men and in himself saluting the standards. /他一丝不苟地承认他的手下的敬礼和他自己向标准致敬。
-	7. punctual
+	6. punctilious (fastidious)
+		1.  ( deliberate, circumspect, discreet, heady, prudent, cautious, scrupulous, punctilious, meticulous, calculate, analytic, rational, contemplate)
+		3. _adj._ [precise](dic://precise)
+		4. n._ [imprecise](dic://imprecise)
+		5. **meticulous**极仔细的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**exacting**苛求的;**zealous**热心的，热情的，积极的;**precise**精确的;**methodical**有条理的, 井然的;**fastidious**过分讲究的;**impeccable**无瑕疵的;**strict**严格的;**attentive**对某人〔物〕 注意的;
+		6. he was punctilious in providing every amenity for his guests /他在客人面前拘泥礼节。
+		7. Congress would have to be punctilious in drawing up rules to forestall tax evasion. /国会将不得不严谨地制定规则，防止逃税。
+		8. The first, which looks inward, is the relentless self-scolding of the workaholic or punctilious student. /第一种是向内的，是工作狂或刻苦学生的严厉自责。
+		9. He is the most punctilious blockhead under heaven /他是天下最死板的笨蛋。
+		10. Soldiers, as well as women, practice the minor virtues with punctilious politeness. /士兵和女人一样， 以一丝不苟的礼貌来践行小美德。
+		11. He is punctilious to the point of quixotism in acknowledging the salutes of his men and in himself saluting the standards. /他一丝不苟地承认他的手下的敬礼和他自己向标准致敬。
+	8. punctual
 		1. _adj._ [on time](dic://on time), [prompt](dic://prompt), [timely](dic://timely)
 		2. _n._ [unpunctual](dic://unpunctual)
 		3. **courteous**彬彬有礼的;**polite**有礼貌的，客气的;**considerate**体贴的, 体谅的;**attentive**对某人〔物〕 注意的;**personable**英俊的;**dependable**可靠的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**communicative**爱说话的,好社交的;**efficient**有能力的, 效率高的;**hardworking**苦干的,不辞辛劳的;
@@ -5566,23 +5572,23 @@
 			10. a speech punctuated with cheers /演讲不时地被喝采声打断
 		6. punctulate
 			1. a. 有细孔的
-	8. puncture
+	9. puncture
 		1. 来自拉丁语 punctum,点，刺点，来自 pungere,刺，击，词源同 pungent,point.引申词义小孔，小洞。
 		2. _n._ [mishap](dic://mishap), [misadventure](dic://misadventure), [mischance](dic://mischance), [hole](dic://hole), [activity](dic://activity)
 		3. _v._ [pierce](dic://pierce), [make](dic://make), [create](dic://create), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [depressurize](dic://depressurize)
 		4. **tyre**装轮胎于;**rupture**破裂;**abrasion**磨损;**tire**疲劳;**wound**创伤，伤口;**sidewall**边墙，侧壁;**suture**缝合;**needle**针;**stab**刺;**tear**撕掉，扯下;**ruptured**破裂的;
 		5. _puncture needle_ 穿刺针
 		6. _puncture wound_ 刺伤，穿刺伤
-	9. contrapuntal, contrapuntist
+	10. contrapuntal, contrapuntist
 		1. contra-,相对，相反，-punt,刺，词源同 point,puncture.用于音乐术语。
 		2. _adj._ [counterpoint](dic://counterpoint)
 		3. **melodic**有旋律的;**rhythmic**间歇的;**harmonic**和声的;**orchestral**管弦乐队的;**melody**旋律;**counterpoint**对位法;**symphonic**交响乐的;**improvisation**即兴创作;**tonal**音调的;**orchestration**管弦乐编曲;**chromatic**有颜色的,颜色鲜艳的;
 		4. _[contrapuntal combinations](dic://contrapuntal%20combinations)_ 对位组合
 		5. _[contrapuntal reading](dic://contrapuntal%20reading)_ 对位阅读; 对位式阅读; 对位阅读法; 
 		6. _[contrapuntal music](dic://contrapuntal%20music)_ 复调音乐
-	10. pontil
+	11. pontil
 		1. _[punty pontil](dic://punty%20pontil)_ 吹玻璃用的铁棒
-	11. pounce
+	12. pounce
 		1. vi. 突袭，猛扑  vt. 扑过去抓住 
 		2. n. 猛扑，爪
 		3. [swoop](dic://swoop)
@@ -5593,7 +5599,7 @@
 		8. pounce on an opportunity. /掌握机会
 		9. the kestrel is ready to pounce on unsuspecting prey /红隼准备扑向毫无戒备的猎物。
 		10. Keynesian academics pounced, declaring the intellectual foundation of austerity destroyed /于是，凯恩斯主义学者们趁势断言，财政紧缩的理论基础破裂。
-	12. punch
+	13. punch
 		1. [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
 		2. [puncher](dic://puncher)
 		3. [perforate](dic://perforate)
@@ -5656,7 +5662,7 @@
 		16. expugnable
 			1. adj. 可突击的；可攻克的
 	2. impugn (inhume)
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		2. im-进入 + pugn-打 → 打进去 → 抨击。
 		3. - vt. 指责，非难；抨击；反驳；对…表示怀疑
 		4. **discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**accuse**控告，指控;**criticize**评论, 批评;**veracity**诚实;**refute**反驳，驳斥;**denounce**谴责;**contradict**矛盾;**slander**诽谤;**reproach**责备;**substantiate**用事实支持;
@@ -5668,14 +5674,14 @@
 		10. impugnment
 		11. impugnable
 	3. oppugn, oppugner
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		2. vt. 责难, 反驳, 质疑, 抨击
 		3. [question](dic://question), [call into question](dic://call into question)
 		4. But the other scholars **oppugn** the expansion of literariness /另一些学者对“文学性的扩张”产生了质疑。
 		5. "Just as the title indicating, this thesis is written to **oppugn**" the theory about unification of double quality "whi." /正如标题所示，本文就是针对课标关于语文课程性质“两性统一说”的这一界定进行质疑
 		6. The dispute and **oppugn** between the law circle and the judicial circle on the checking right of death penalty are apparently concluded /法学理论界与司法实务界一直以来关于死刑复核权的争议与质疑似乎尘埃落定。
 	4. repugn
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn)
+		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		2. v. 反对, 反抗
 		3. **disgust**厌恶，嫌恶;**aversion**厌恶;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**indifference**不关心,不在乎;**apprehension**理解;**hostility**敌意;**contempt**轻视，蔑视;**astonishment**惊讶, 惊奇;**prejudice**成见, 偏见, 歧视;**admiration**钦佩;
 		4. [disgust](dic://disgust), [contradictoriness](dic://contradictoriness)
@@ -6796,7 +6802,7 @@
 	18. flattish
 		1. a. 有点平的, 稍平的
 	19. flatties
-	20. flatter
+	20. flatter  (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest,)
 		1. vt. 奉承; 自命不凡; 凸显, 使显得更漂亮; n. 平面锤
 		2. flat【平的】 + -er表反复。字面含义“五体投地”。
 		3. flat,平的，-er,表反复。引申词义俯伏在地，拜倒，奉承等。
@@ -7273,8 +7279,8 @@
 	21. splay
 		1. vt. 使（手指、腿等）叉开, 分开, 张开, 展开  
 		2. n. 八字形展开  a. 向外张开的
-5. flax
-6. plagiary
+6. flax
+7. plagiary
 
 
 ### + \*pleu- + = to flow, to float, to swim
@@ -7448,19 +7454,20 @@
 2. **plumb-** = lead, 表示“铅”。源自拉丁语 blumbum "lead."
 	1. plumb
 		1. aplomb
-			1. 来自短语on plomb, 同plumb, 铅垂线。指沉着如铅垂线。
-			2. aplomb（沉着）：像铅垂那样处于垂直状态  
-			3. 古人很早就发现铅的比重较大，特别适合用来确定垂直线，不容易因为风、水流等偏离垂直方向，所以在建筑、测深等领域广泛使用铅垂。英语中表示“铅”的单词plumb来自拉丁语plumbum。它既能表示“铅”这种物质，还可以表示“垂直的”、“使垂直”等含义。英语单词aplomb由a（at，处于……状态）和plomb（plumb，垂直的）组成，字面意思就是“像铅垂那样处于垂直状态”。由于铅垂不易受风或水流影响而左右乱动，所以aplomb引申出“沉着、泰然自若”的含义。  
-			4. aplomb：[ə'plɒm] n.垂直，沉着，泰然自若  
-			5. plumb：[plʌm] n.铅垂，垂直adj.垂直的vt.使垂直，探索，探测
-			6. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
-			7. **gusto**热情,乐趣,津津有味;**finesse**纤细;**poise**平衡;**admirably**极好地,美好地;**subtlety**微妙;**deft**灵巧的;**composure**镇静, 沉着;**swagger**吓唬;**deftly**灵巧地;**wit**智力;**flair**天资;
-			8.  [assuredness](dic://assuredness), [cool](dic://cool), [poise](dic://poise), [sang-froid](dic://sang-froid)
-			9. From the age of 15-21 he took on many different identities and pulled them off with aplomb /从 15 岁到 21 岁， 他拥有许多不同的身份， 并沉着应对。
-			10. Working these examples into an optional essay or the interview is perfectly acceptable if done with aplomb. /如果泰然自若，将这些例子写成一篇可选的论文或面试是完全可以接受的。
-			11. Gates is one of the few to pull off both feats with **aplomb** /盖茨是少数自信的成功者之一。
-		2. etc..
-		3. unplumbed
+			1. (sedate, serene, tranquil, calm, repose, compose, placidity, equanimity, aplomb, )
+			2. 来自短语on plomb, 同plumb, 铅垂线。指沉着如铅垂线。
+			3. aplomb（沉着）：像铅垂那样处于垂直状态  
+			4. 古人很早就发现铅的比重较大，特别适合用来确定垂直线，不容易因为风、水流等偏离垂直方向，所以在建筑、测深等领域广泛使用铅垂。英语中表示“铅”的单词plumb来自拉丁语plumbum。它既能表示“铅”这种物质，还可以表示“垂直的”、“使垂直”等含义。英语单词aplomb由a（at，处于……状态）和plomb（plumb，垂直的）组成，字面意思就是“像铅垂那样处于垂直状态”。由于铅垂不易受风或水流影响而左右乱动，所以aplomb引申出“沉着、泰然自若”的含义。  
+			5. aplomb：[ə'plɒm] n.垂直，沉着，泰然自若  
+			6. plumb：[plʌm] n.铅垂，垂直adj.垂直的vt.使垂直，探索，探测
+			7. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
+			8. **gusto**热情,乐趣,津津有味;**finesse**纤细;**poise**平衡;**admirably**极好地,美好地;**subtlety**微妙;**deft**灵巧的;**composure**镇静, 沉着;**swagger**吓唬;**deftly**灵巧地;**wit**智力;**flair**天资;
+			9.  [assuredness](dic://assuredness), [cool](dic://cool), [poise](dic://poise), [sang-froid](dic://sang-froid)
+			10. From the age of 15-21 he took on many different identities and pulled them off with aplomb /从 15 岁到 21 岁， 他拥有许多不同的身份， 并沉着应对。
+			11. Working these examples into an optional essay or the interview is perfectly acceptable if done with aplomb. /如果泰然自若，将这些例子写成一篇可选的论文或面试是完全可以接受的。
+			12. Gates is one of the few to pull off both feats with **aplomb** /盖茨是少数自信的成功者之一。
+		3. etc..
+		4. unplumbed
 			1. unplumbed ideas. /未被深究的思想
 			2. unplumbed ocean depths. /未用铅锤测量的海洋深度
 	2. plummet
@@ -7632,7 +7639,7 @@
 			2. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 	8. snub
 		1. (spurn, rebuff, refuse, snub, repel, reject,)
-		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub)
+		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		3. n. 冷落, 怠慢, 斥责, 制止  
 		4. a. 制动用的, 短而扁的  
 		5. vt. 冷落, 怠慢, 制止, 使...停住, 掐灭
@@ -8464,7 +8471,7 @@
 	6. profligately
 6. profuse
 	1. a. 很多的, 丰富的, 浪费的, 慷慨的
-	2. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse,)
+	2. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
 	3. profusion
 	4. profuseness
 	5. profusely
@@ -8510,10 +8517,10 @@
 
 ### + \*prek- +
 1. **prec-** = to pray, “祈祷” 「Latin」precari, "pray"
-	1. deprecate (impugn, oppugn, repugn) 
-		1. (dislike, disparagement, depreciation, derogation, hate, detest, refuse, decline, contempt, scorn, sniffish, deprecate)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, distain,)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic)
+	1. deprecate (impugn, oppugn, repugn) (detract)
+		1. (dislike, disparagement, depreciation, derogation, hate, detest, refuse, decline, contempt, scorn, sniffish, deprecate, detract)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		4. de-,向下，表强调，-prec,祈祷，词源同 precatory,imprecate,pray.原义为祈祷恶魔离开，强烈的憎恶，后表示强烈反对
 		5. vt. 反对；抨击；轻视；声明不赞成
 		6. **abandon**离弃;**shun**避开, 回避, 避免;**declare**宣布，声明;**standardize**使合乎规格;**defer**延期;**intend**打算;**abolish**废除，废止;**hasten**催促;**propose**建议;**rename**重新命名，改名;**condemn**判刑，定罪;

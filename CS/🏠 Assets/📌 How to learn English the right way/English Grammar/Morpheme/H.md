@@ -38,6 +38,11 @@
 		9. And yet I have made no use of it myself, so blind and foolish a thing is avarice. /可是我也未曾利用过这些宝物，贪婪真是极愚蠢的行为。
 		10. She, too, could produce avarice, brutality, stupidity—and, what was worse, vulgarity. /s她，同样，可以产生贪婪， 野蛮，愚蠢——更糟糕的是， 粗俗。
 		11. Pray, my dear aunt, what is the difference in matrimonial affairs, between the mercenary and the prudent motive? Where does discretion end, and avarice begin? /“请问你，亲爱的舅母，拿婚姻问题来讲，见钱眼红与动机正当究竟有什么不同？做到什么地步为止就算知礼，打哪儿起就要算是贪心？
+		12. avaricious,  (insatiable, avaricious, greedy, rapacious, )
+			1. _adj._ [acquisitive](dic://acquisitive)
+			2. _n._ [unacquisitive](dic://unacquisitive)
+			3. **greedy**贪婪的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**ruthless**无情的，残忍的;**selfish**自私的;**opportunistic**机会主义的;**arrogant**自大的，傲慢的;**devious**弯曲的;**heartless**无情的;**self-serving**自私的,自私自利的;**self-centered**自我为中心的,利己主义的;**insatiable**不知足的;
+			4. 
 	2. avid (arid)
 		1. a. 渴望的, 急切的
 		2. - adj. 热心的，热衷的；渴望的，渴求的

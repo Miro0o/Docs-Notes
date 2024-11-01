@@ -805,7 +805,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	6. **ledge**壁架;**nook**角落;**ravine**峡谷;**crack**使破裂;**cavity**洞，凹处;**underside**下侧;**hole**洞，孔;**boulder**大圆石;**cave**使凹陷，使塌落;**cleft**裂开的;**underneath**在下面;
 	7. _crevice corrosion_ 缝隙腐蚀；裂隙腐蚀；接触腐蚀；隙间腐蚀
 9. discrepancy
-	1.  (dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
+	1.  (discord, dissonance, incongruity, dichotomy, dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
 	2. n. 不符合, 差异, 不相符之处
 	3. dis-分开，散开 + crep-破裂声 + -ancy → 指不同的声音，引申词义争吵，不一致
 	4. dis-,分开，散开，-crep,破裂声，词源同 crevice,decrepit.引申词义争吵，不一致。

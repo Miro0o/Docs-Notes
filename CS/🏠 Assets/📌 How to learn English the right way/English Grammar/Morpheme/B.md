@@ -321,18 +321,19 @@
 		14. " At Belle Watling's sporting house, " said Rhett, looking abashed. /沃特琳赌场，" 瑞德边说，脸上边显出难为情的的样子。"
 		15. I was not so easily abashed as I had been some years earlier. /我不像几年以前那样动不动就感到难为情了。
 		16. 
-		17. abeyance：[ə'beəns] n.中止，暂停，搁置；归属待定  
-			1. [suspension](dic://suspension)
-			2. _n._ [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
-			3. **pending**未决定的;**limbo**林波舞;**continuance**继续;**deferred**延期的;**lapsed**堕落的;**indefinitely**无限地;**suspended**暂停的,缓期的;**dormant**静止的;**reconsideration**再考虑,再审议,新审议;**adjudication**宣告;**postponed**延期的;
-			4. My face was purple, my lips blue, my faculties in abeyance /我的脸孔发紫，我的双唇变蓝，我身体器官失灵。
-			5. From that day to this, such plutonic construction work has been in abeyance. /那个时期后直到现在，海中的浮沉工作停止了。
-			6. Without a plausible explanation for what might have provoked an ice age, the whole theory fell into abeyance /不对造成一个冰川时代的原因作出合理的解释，整个理论就没法站住脚。
-			7. Logic said the traitor was Yueh, but he held final decision in abeyance /逻辑上说叛徒是越，但他暂时搁置了最后的决定权。
-			8. Once war broke out, the system went into **abeyance**. /一战爆发后，金本位体系告终。
-		18. abash：[ə'bæʃ] vt. 使困窘；使羞愧；使局促不安  
-		19. bashful：['bæʃfl]  adj.困窘的；羞愧的；局促不安的
-		20. abashment
+		17. abeyance：[ə'beəns]  (quiescence, abeyance)
+			1. n.中止，暂停，搁置；归属待定  
+			2. [suspension](dic://suspension)
+			3. _n._ [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness)
+			4. **pending**未决定的;**limbo**林波舞;**continuance**继续;**deferred**延期的;**lapsed**堕落的;**indefinitely**无限地;**suspended**暂停的,缓期的;**dormant**静止的;**reconsideration**再考虑,再审议,新审议;**adjudication**宣告;**postponed**延期的;
+			5. My face was purple, my lips blue, my faculties in abeyance /我的脸孔发紫，我的双唇变蓝，我身体器官失灵。
+			6. From that day to this, such plutonic construction work has been in abeyance. /那个时期后直到现在，海中的浮沉工作停止了。
+			7. Without a plausible explanation for what might have provoked an ice age, the whole theory fell into abeyance /不对造成一个冰川时代的原因作出合理的解释，整个理论就没法站住脚。
+			8. Logic said the traitor was Yueh, but he held final decision in abeyance /逻辑上说叛徒是越，但他暂时搁置了最后的决定权。
+			9. Once war broke out, the system went into **abeyance**. /一战爆发后，金本位体系告终。
+		19. abash：[ə'bæʃ] vt. 使困窘；使羞愧；使局促不安  
+		20. bashful：['bæʃfl]  adj.困窘的；羞愧的；局促不安的
+		21. abashment
 			1. _n._ [embarrassment](dic://embarrassment)
 			2. **embarrassment**困窘;**indignation**愤怒, 愤慨, 气愤;**astonishment**惊讶, 惊奇;**disgust**厌恶，嫌恶;**apprehension**理解;**awkwardness**笨拙;**countenance**面容，表情;**pity**怜悯，同情;**impatience**急躁;**disdain**蔑视;**annoyance**烦恼;
 			3. abashed
@@ -378,16 +379,18 @@
 ### bat- = 表示“马鞍”。源自法语bast
 1. bast-minded
 2. bastard
-	1. bastardy
-	2. bastardly
-	3. bastardize
-	4. bastardization
-	5. bastarda
-3. bastinado
-4. batman
-5. baton
+	1. n. 私生子, 劣货  
+	2. a. 私生的, 杂种的, 不合标准的
+	3. bastardy
+	4. bastardly
+	5. bastardize
+	6. bastardization
+	7. bastarda
+4. bastinado
+5. batman
+6. baton
 	1. batonist
-6. bastborn
+7. bastborn
 
 
 
@@ -398,9 +401,20 @@
 
 1. **bil-, bilit-** = strength, 表示“力量”。源自拉丁语 bilis "strength."
 	1. debilitate
-		1. debilitated
-		2. debilitating
-	2. debility
+		1. vt. 使衰弱
+		2. _vt._ 使(人或人的身体)非常虚弱
+		3. de-去掉 + bilit-力量 + -ate, 表动词 → 去掉力量 → 使衰弱。
+		4. - de-,不，非，使相反，-hab,持，握，力量，词源同 able,habit.
+		5. _v._ [weaken](dic://weaken)
+		6. **cripple**使跛, 受伤致残;**weaken**减少;**injure**伤害，损害;**impair**削弱;**threaten**威胁;**hinder**成为阻碍;**overwhelm**覆盖, 淹没;**endanger**危及;**undermine**在某物下挖洞或挖通道;**infect**感染，传染;**impede**阻止;
+		7. Her already debilitated constitution is being further weakened by overwork and smoking /她那本已虚弱的身体由于劳累过度和抽烟而变得更弱了
+		8. It can be debilitating, and cleaning won't solve the problem. /它是很累人的，清洁并没有办法解决问题的根源。
+		9. But the noise of it has grown deafening and debilitating in the past two years. /但是在过去的两年里，恐惧之声变得震耳欲聋，令人衰弱。
+		10. Another study of Korean immigrants found the discrimination was linked to debilitating mental health effects. /另一个针对韩国移民的研究发现，歧视和削弱心理健康的影响有关。
+		11. The ruling centred on two women with debilitating conditions, both of whom died before it was handed down. /该判决关注了两名身体衰弱的妇女，两人都在判决宣告之前死亡。
+		12. debilitated
+		13. debilitating
+	3. debility
 		1. [infirmity](dic://infirmity), [frailty](dic://frailty), [feebleness](dic://feebleness), [frailness](dic://frailness), [valetudinarianism](dic://valetudinarianism)
 		2. [unfitness](dic://unfitness), [softness](dic://softness), [poor shape](dic://poor shape), [bad condition](dic://bad condition)
 		3. **ailment**小病;**illness**疾病;**ailments**疾病，小病;**paralysis**瘫痪;**malaise**不舒服;**exhaustion**精疲力竭;**anemia**贫血;**affliction**折磨;**atrophy**萎缩，萎缩症;**incurable**不能医治的;**sickness**疾病;
@@ -422,7 +436,7 @@
 		6. bellicosity：[,bɛlə'kɑsəti] n. 好斗；好战  
 		7. belligerent：[bə'lɪdʒ(ə)r(ə)nt] adj.交战的，交战国的，好战的n.交战国
 	4. antebellum, postbellum
-	5. belligerence
+	5. belligerence (truculence, belligerence, )
 		1. bell-战斗 + ger-带来 + -ence, 表名词。
 		2. n. 交战, 好战性, 斗争性
 		3. _n._ [hostility](dic://hostility), [enmity](dic://enmity), [ill will](dic://ill will), [disagreeableness](dic://disagreeableness)
@@ -460,20 +474,22 @@
 		9. [delight](dic://delight), [enjoy](dic://enjoy)
 		8. [racket](dic://racket), [make whoopie](dic://make whoopie), [make merry](dic://make merry), [make happy](dic://make happy), [whoop it up](dic://whoop it up), [jollify](dic://jollify), [wassail](dic://wassail)
 		7. **bask**晒太阳;**savor**使有风味;**relish**获得乐趣;**indulge**迁就;**enjoy**喜爱;**rejoice**高兴;**glorious**值得称道的;**yearn**渴望;**embrace**包含;**delight**高兴;**partake**参与;
-		8. **revel in**:  着迷；得意；得意于；沉迷于
+		8. Suddenly, high above the jubilant roar and thunder of the **revel**, broke the clear peal of a bugle-note. /突然，在欢呼的咆哮声和响亮的狂欢声音之上，响起了大声清脆的号角声。
+		9. 
+		10. **revel in**:  着迷；得意；得意于；沉迷于
 			1. She seems to revel in annoying her parents. /她似乎以惹父母生气为乐。
 			2. He positively revelled in the cult of difficulty /毕加索肯定是在享受对挑战难度的迷恋中。
 			3. She said she wasn't hungry. Can't we just revel in her absence? /她说了她不饿。我不不能享受她的缺席吗？
 			4. He revels in the sensuality of his post-lovemaking state. /他陶醉于做爱后状态的感官享受。
-		10. revelry
+		11. revelry
 			1.  [revel](dic://revel)
 			2. _n._ [merrymaking](dic://merrymaking), [conviviality](dic://conviviality), [jollification](dic://jollification)
 			3. **celebration**庆祝;**raucous**沙哑的;**mayhem**大混乱, 大破坏;**drunken**喝醉的;**orgy**狂欢宴会;**extravaganza**娱乐表演;**madness**疯狂;**frenzied**狂乱的;**joyous**令人高兴的;**rowdy**吵闹的;**frenzy**狂怒;
 			4. The sound of revelry filled the house yesterday. /昨天这个屋子里充满了欢闹声。
 			5. sounds of revelry issued into the night. /纵酒狂欢的喧闹声响彻夜空。
 			6. In the debate between economics and epidemiology, local officials generally took the side of money and revelry. /在就经济PK流行病展开的辩论中，地方官员大多选择了金钱和狂欢。
-		11. reveller
-		12. reveler
+		12. reveller
+		13. reveler
 	14. duel
 		1. du-二 + el[=bell斗] → 二个人斗 → 决斗。
 		2.  来自拉丁语 duellum,战争，打斗，词源同 bellicose,Bellona.但后来受拉丁语 duo 及对骑士精神的向往，引申词义决斗，特指一对一的公平的决斗。
@@ -790,10 +806,12 @@
 	8. preface, prefatory, prefatorial
 		1. **foreword**前言;**treatise**论文;**prologue**序言;**introduction**介绍;**epilogue**结语，收场白;**pamphlet**小册子;**preamble**序文;**footnote**脚注;**book**书籍;**monograph**专著,专论;**excerpt**摘录，引用;
 	9. affable, inaffable
-		1. af-接近 + fab-说 + le → 接近说话 → 和蔼的。
-		2. inaffable
-		3. affably
-		4. affability
+		1. (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, agreeable, alacrity)
+		2. (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
+		3. af-接近 + fab-说 + le → 接近说话 → 和蔼的。
+		4. inaffable
+		5. affably
+		6. affability
 	11. effable, ineffable
 		1. _[effable](dic://effable)_  adj. 可表达的
 	12. fable
@@ -801,12 +819,12 @@
 		2. fabliau
 		3. fabler
 		4. fabled
-	14. faerie, faery
+	13. faerie, faery
 		1.  [fairy](dic://fairy), [faerie](dic://faerie), [fay](dic://fay), [sprite](dic://sprite)
 		2.  [fairyland](dic://fairyland), [faerie](dic://faerie)
 		3. _n._ [spiritual being](dic://spiritual being), [supernatural being](dic://supernatural being), [imaginary place](dic://imaginary place), [mythical place](dic://mythical place), [fictitious place](dic://fictitious place)
 		4. **fairy**仙女，小精灵;**fairies**瓶之仙女;**elf**小精灵;**elves**侏儒;**mermaid**美人鱼;**witches**魔女;**fairytale**童话式的;**witch**巫婆，女巫;**vampire**吸血鬼;**princess**王妃;**goblins**小妖
-	15. nefarious
+	14. nefarious
 		1. 来自拉丁语 nefas,罪行，邪恶，不虔诚，ne-,无，没有，fas,公理，正义，神权，词源同 fate.引申词义罪恶的，邪恶的。
 		2. nefariousness
 		3. nefariously
@@ -949,8 +967,9 @@
 #### + \*bhars- (1) + 
 1. **fast-** = disdain, 表示“轻蔑”。源自拉丁语 fastus, fastidium "disdain."
 	1. fastidious (factitious)
-		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious)
+		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
 		2. (meticulous; punctilious; overcritical; scrupulous about every detail; fastidious, captious, faultfinding,)
+		3.  ( deliberate, circumspect, discreet, heady, prudent, cautious, scrupulous, punctilious, meticulous, calculate, analytic, rational, contemplate)
 		4. 来自拉丁语 fastus,傲慢，骄傲，蔑视。其原义为骄傲的，过于骄傲的。并引申相关词义。
 		5. _adj._ [choosy](dic://choosy), [choosey](dic://choosey), [dainty](dic://dainty), [nice](dic://nice), [overnice](dic://overnice), [prissy](dic://prissy), [squeamish](dic://squeamish)
 		6. _n._ [unfastidious](dic://unfastidious)
@@ -1599,15 +1618,16 @@
 		9. confidante
 		10. confidant
 	3. diffident, diffidence
-		12. _adj._ [reserved](dic://reserved), [unconfident](dic://unconfident)
-		13. _n._ [unreserved](dic://unreserved), [confident](dic://confident)
-		14. **timid**羞怯的;**aloof**冷淡的;**brash**仓促的，性急的;**shy**害羞的;**self-conscious**自觉的;**meek**温顺的;**unassuming**谦逊的;**clumsy**笨拙的;**indifferent**漠不关心;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**apprehensive**忧虑的;
-	4. infidel
+		1.  (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident)
+		2. _adj._ [reserved](dic://reserved), [unconfident](dic://unconfident)
+		3. _n._ [unreserved](dic://unreserved), [confident](dic://confident)
+		4. **timid**羞怯的;**aloof**冷淡的;**brash**仓促的，性急的;**shy**害羞的;**self-conscious**自觉的;**meek**温顺的;**unassuming**谦逊的;**clumsy**笨拙的;**indifferent**漠不关心;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**apprehensive**忧虑的;
+	5. infidel
 		1. 1 - in-,不，非，-fid,信任，信仰，词源同 faith,infidelity.即信仰不同的，引申词义异教徒。
 		2. fidelity
 			1. fid-相信 + -el + -ity, 表示性质 → 相信的性质 → 坚贞。
 		3. high-fidelity
-	5. fiducial
+	6. fiducial
 		1. 1 - 来自拉丁语 fides,相信，信仰，词源同 faith.用于经济学名词信托。
 		2. - adj. [测] 基准的；信托的；根据信仰的
 		3. _adj._ [trust](dic://trust), [standard](dic://standard), [criterion](dic://criterion), [measure](dic://measure), [touchstone](dic://touchstone), [trustworthy](dic://trustworthy), 
@@ -1617,7 +1637,7 @@
 		7. fiduciary
 			1. a. 基于信用的, 信托的, 受信托的  
 			2. n. 被信托者, 受托人
-	6. perfidy (perfunction)
+	7. perfidy (perfunction)
 		1. per-假 + fid-信任 + y → 假相信 → 不忠诚。
 		2. _n._ [disloyalty](dic://disloyalty), [dishonesty](dic://dishonesty), [knavery](dic://knavery)
 		3. [perfidiousness](dic://perfidiousness), [treachery](dic://treachery)
@@ -1632,22 +1652,22 @@
 		8. perfidiously
 			1. _adv._ [punic](dic://punic), [perfidious](dic://perfidious), [treacherous](dic://treacherous)
 			2. **unjustly**不义地;**treachery**背信弃义, 不忠, 背叛;**willfully**任性固执地;**shamelessly**不知羞耻地;**unwittingly**不知情地;**foolishly**愚蠢地;**deliberately**慎重地;**vile**卑鄙的;**habitually**习惯地;**maliciously**有敌意地;**devious**弯曲的;
-	7. affiant
+	8. affiant
 		10. n. person, individual, someone, somebody, mortal, soul
 		11. affidavit宣誓书;petitioner请愿人;defendant被告;appellant上诉人;informant报告者,告密者;respondent被告;plaintiff原告;complainant发牢骚的人,原告;testimony证词;undersigned签过字的;aforesaid上述的;
 		12. affiance
 			1. af- + fi-信赖 + -ance
 			2. n. 信赖, 婚约 
 			3. vt. 使订婚
-	8. defy
+	9. defy
 		1. defier
 		2. defiant
 		3. defiance
 		4. defiantly
-	9. fiance, fiancess
+	10. fiance, fiancess
 		1. _n._ [betrothed](dic://betrothed)
 		2. **fiancee**未婚妻;**fiancé**未婚夫;**fiancée**未婚妻;**boyfriend**男朋友;**girlfriend**女朋友;**husband**丈夫;**wife**妻子，已婚妇女;**sister-in-law**夫或妻的姊妹;**daughter**女儿;**hubby**丈夫;**brother-in-law**内兄;
-	10. fideism, fideist
+	11. fideism, fideist
 		1. fideistic
 			1. 信仰主义者
 		2. solifidian
@@ -3381,7 +3401,7 @@
 			1. **repayment**偿还;**deferred**延期的;**waiver**弃权，放弃;**loan**贷款;**reinstatement**复职;**exemption**免除;**loans**借贷;**withdrawal**撤退;**defer**延期;**eligibility**适任,合格;**retroactive**反动的,追溯的,有追溯力的,从以往某天开始生效
 			2. After years of dodge and deferment, Jacob Zuma, a former president of South Africa, appeared in court. /经过多年的回避以及推迟后，南非前总统雅各布·祖马(Jacob Zuma)终于出庭受审。
 		6. deferential, deferentialy
-			1. (sycophant, obsequious, submissive, servile, deferential)
+			1.  (sycophant, obsequious, submissive, servile, deferential, approbation, adulation)
 			2. **deference**顺从;**dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**condescending**降低身份的,屈尊的;**respectful**表示尊敬的;**aloof**冷淡的;**assertive**断定的;**sympathetic**表示同情的;**lenient**仁慈的;**judgmental**审判的;**dignified**高贵的;
 			3. people were always deferential to him /人们始终对他很恭敬。
 		8. deference
@@ -3747,7 +3767,7 @@
 		12. dilatable
 		13. arteriodilating
 	8. dilatory
-		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic)
+		1.  (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss)
 		2. a. 拖拉的
 		3. di-=dis-分开，散开 + lat拿 + -ory, 表形容词，即四散的，没方向的，引申词义拖延。
 		4. vasodilatory
@@ -3760,27 +3780,29 @@
 		11. After a pause he added 'sir' in a dilatory, grudging way. /停了一会他才慢吞吞地、勉勉强强地加了一声" 先生" 。
 		12. At the moment there could have been nothing more natural than that Ned should dash himself from the roof in the pursuit of dilatory tradesmen /眼下，内德为了追赶拖延的商人而从屋顶上跳下来再自然不过了。
 	10. elate
-		1. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
-		2. vt. 使兴高采烈, 使得意
-		3.  [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate)
-		4. _v._ [stimulate](dic://stimulate), [shake](dic://shake), [shake up](dic://shake up), [excite](dic://excite), [stir](dic://stir)
-		5. _n._ [depress](dic://depress), [deject](dic://deject), [cast down](dic://cast down), [get down](dic://get down), [dismay](dic://dismay), [dispirit](dic://dispirit), [demoralize](dic://demoralize)
-		6. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
-		7. He was greatly elated by success. /他因获得成功而得意洋洋。
-		8. elation, ellated
-	11. illation
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
+		2.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
+		3. e-向外 + lat-承受，兴起 + -e，原指提升的，晋升的，引申义兴奋的。
+		4. vt. 使兴高采烈, 使得意
+		5.  [lift up](dic://lift up), [uplift](dic://uplift), [pick up](dic://pick up), [intoxicate](dic://intoxicate)
+		6. _v._ [stimulate](dic://stimulate), [shake](dic://shake), [shake up](dic://shake up), [excite](dic://excite), [stir](dic://stir)
+		7. _n._ [depress](dic://depress), [deject](dic://deject), [cast down](dic://cast down), [get down](dic://get down), [dismay](dic://dismay), [dispirit](dic://dispirit), [demoralize](dic://demoralize)
+		8. **excite**刺激…，使…兴奋;**delight**高兴;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**impress**给…以深刻印象, 使铭记;**inspire**鼓舞;**enlighten**启发;**giddy**头晕的;**entertain**娱乐;**awaken**唤起;
+		9. He was greatly elated by success. /他因获得成功而得意洋洋。
+		10. elation, ellated
+	12. illation
 		1. il-进入 + lat-拿 + -ion, 表名词
 		2. n. 演绎；推论；推定
 		3. Of, relating to, or of the nature of an **illation** /推论的，与推理有关的，或具有推理的性质的。
 		5. illative, 
-	12. legislate
+	13. legislate
 		1. legis-法律 + lat-放 + -e → 放出法律 → 立法。
 		2. n. 推定, 推论, 演绎
 		3. legislature
 		4. legislator
 		5. legislative
 		6. legislation
-	13. oblate (prolate, oblate, prelate, )
+	14. oblate (prolate, oblate, prelate, )
 		1. n. 献身于修会的俗人  a. 献身修会的, 扁圆的, 椭圆的
 		2. ob-向前，朝向 + lat-带，携带 + -e
 		3. [pumpkin-shaped](dic://pumpkin-shaped)
@@ -3799,7 +3821,7 @@
 			6. Thinkers and poets throughout the ages have offered the courtesan the oblation of their mercy /各个时期的思想家和诗人都把仁慈的怜悯心奉献给娼家女子。
 			7. I would proffer the most exquisite oblations of flowery banners, garlands, as well as nautch, music, scented ointments, and canopies, for veneration of all Buddhas. /以诸最胜妙华鬘，伎乐涂香及伞盖，如是最胜庄严具，我以供养诸如来。
 		10. oblateness
-	14. prelate (prelect, vi. 讲课；讲演) (prolate, oblate, prelate, )
+	15. prelate (prelect, vi. 讲课；讲演) (prolate, oblate, prelate, )
 		1. n. 高级教士
 		2. pre-,在前，早于，-lat,携带，承载，词源同 relate,translate.后用于指高级神职人员。
 		3. [archpriest](dic://archpriest), [hierarch](dic://hierarch), [high priest](dic://high priest), [primate](dic://primate)
@@ -3811,17 +3833,17 @@
 		9. prelatical
 			1. _adj._ 高位者的,教长政治的
 		10. prelatic
-	15. prolate (prolate, oblate, prelate, )
+	16. prolate (prolate, oblate, prelate, )
 		1. a. 扁长的, 扩展的, 延长的
 		2. prolative
-	16. relate
+	17. relate
 		1. re-向后，往回 + lat-拿，带。即带回来，引申词系联系，相关。
 		2. re-,向后，往回，-lat,拿，带，词源同 translate,prelate.即带回来，引申词系联系，相关。
 		3. unrelated, related, interrelate, correlate
 		4. relator, relater
 		5. relative
 		6. relation
-	17. sublate
+	18. sublate
 		1.  (spurn, rebuff, refuse, snub, repel, reject, recalcitrate, sublate)
 		2. vt. 否定, 消除
 		3. **sublate capital**:  扬弃资本 
@@ -5070,12 +5092,13 @@
 		8. infliction
 		9. inflictable
 	5. profligate
-		1. pro-向前 + flig-打出 + -ate, 表形容词 → 把钱不断的打出去 → 挥霍。
-		2. _n._ [libertine](dic://libertine), [debauchee](dic://debauchee), [rounder](dic://rounder), [consumer](dic://consumer)
-		3. _adj._ [wasteful](dic://wasteful), [immoral](dic://immoral)
-		4. _n._ [thrifty](dic://thrifty), [moral](dic://moral), [amoral](dic://amoral), [unmoral](dic://unmoral)
-		5. **wasteful**浪费的，不经济的;**extravagant**奢侈的, 铺张的;**reckless**鲁莽的，不顾后果的;**irresponsible**不负责任的;**frugal**节俭的;**lavish**浪费的;**wayward**任性的;**excesses**越轨;**unsustainable**不能证实的;**careless**粗心的;**foolish**愚蠢的;
-		6. profligacy
+		1. (profligate, dissipate, fritter, profuse, squander, extravagant, improvident, prodigal, )
+		2. pro-向前 + flig-打出 + -ate, 表形容词 → 把钱不断的打出去 → 挥霍。
+		3. _n._ [libertine](dic://libertine), [debauchee](dic://debauchee), [rounder](dic://rounder), [consumer](dic://consumer)
+		4. _adj._ [wasteful](dic://wasteful), [immoral](dic://immoral)
+		5. _n._ [thrifty](dic://thrifty), [moral](dic://moral), [amoral](dic://amoral), [unmoral](dic://unmoral)
+		6. **wasteful**浪费的，不经济的;**extravagant**奢侈的, 铺张的;**reckless**鲁莽的，不顾后果的;**irresponsible**不负责任的;**frugal**节俭的;**lavish**浪费的;**wayward**任性的;**excesses**越轨;**unsustainable**不能证实的;**careless**粗心的;**foolish**愚蠢的;
+		7. profligacy
 			1. _n._ [improvidence](dic://improvidence), [shortsightedness](dic://shortsightedness), [intemperance](dic://intemperance), [intemperateness](dic://intemperateness), [self-indulgence](dic://self-indulgence)
 			2. **excesses**越轨;**mismanagement**办错,管理不善;**folly**愚蠢;**immorality**不道德,无道义;**greed**贪婪，贪心;**hubris**傲慢;**wasteful**浪费的，不经济的;**incompetence**无能力;**austerity**严厉;**hypocrisy**伪善;**stupidity**愚笨;
 
