@@ -51,7 +51,7 @@
 	3. contact, contingence
 		1. contingency
 		2. contingent
-			1. (ancillary, incidental, contingent, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+			1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
 			2. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [military unit](dic://military unit), [military force](dic://military force), [military group](dic://military group), [force](dic://force)
 			3. _adj._ [possible](dic://possible), [conditional](dic://conditional), [uncertain](dic://uncertain)
 			4. _n._ [impossible](dic://impossible), [unconditional](dic://unconditional), [certain](dic://certain), [sure](dic://sure)
@@ -113,7 +113,7 @@
 ### + \*tak- + = to be silent
 1. **tac-,tic-,retic-** = silent, 表示“安静”。源自拉丁语 tacere "to be silent."
 	1. reticent (repentant)
-		1. (reticent, taciturn, aloof, reserved, )
+		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident)
 		2. 1 - 来自拉丁语 reticere,保持安静，来自 re-,表强调，tacere,安静，词源同 tacit.引申词义寡言少语的
 		3. a. 无言的, 沉默的, 不情愿的
 		4. [untalkative](dic://untalkative)
@@ -147,7 +147,7 @@
 			3. _[tacitly approve](dic://tacitly%20approve)_  默认
 			4. _[understand tacitly](dic://understand%20tacitly)_  心领神会
 	4. taciturn 
-		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn, austere,)
+		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident)
 		2. - 来自 tacit,安静的，-urn,形容词后缀。引申词义不苟言笑的。
 		3. _adj._ [buttoned-up](dic://buttoned-up), [reticent](dic://reticent), [untalkative](dic://untalkative)
 		4. **aloof**冷淡的;**unassuming**谦逊的;**enigmatic**谜的;**brooding**沉思的;**chatty**饶舌的;**brash**仓促的，性急的;**demeanor**行为;**grumpy**脾气暴躁的;**timid**羞怯的;**eccentric**古怪的, 怪癖的;**austere**简朴的;
@@ -257,10 +257,9 @@
 	2. v. 妨碍, 延迟, 使减速
 	3. - re-,向后，往回，-tard,缓慢，词源同 tardy.引申词义延缓，阻碍。
 3. tardy
-	1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy)
-	2. 
-	3. a. 慢的, 迟到的, 勉强的, 拖拉的, 迟的
-	4. 来自拉丁语 tardus,缓慢的，词源同 retard.
+	1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss)
+	2. a. 慢的, 迟到的, 勉强的, 拖拉的, 迟的
+	3. 来自拉丁语 tardus,缓慢的，词源同 retard.
 5. tarry (parry, harry, tarry, marry)
 	1. v. 耽搁, 逗留  
 	2. a. 涂了焦油的
@@ -490,7 +489,9 @@
 		8. tolerance, tolerant
 		9. intolerance
 		10. toleration
-	3. extol (exalt, extol, )
+	3. extol
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
+		2.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
 		1. ex-,向外，-tol,承受，举起，词源同 tolerate.
 		2. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
 		3. extoller
@@ -968,7 +969,7 @@
 		5. pertinent
 		6. impertinent (impertinent, impendence, impenitent, impenetrable, )
 			1. a. 鲁莽的, 无礼的, 粗鲁的; <正式>不切题的, 不恰当的
-			2. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy)
+			2.  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall)
 			3. [irreverent](dic://irreverent), [pert](dic://pert), [saucy](dic://saucy)
 			4. [extraneous](dic://extraneous), [immaterial](dic://immaterial), [orthogonal](dic://orthogonal)
 			5. [fresh](dic://fresh), [impudent](dic://impudent), [overbold](dic://overbold), [smart](dic://smart), [saucy](dic://saucy), [sassy](dic://sassy), [wise](dic://wise)
@@ -1557,11 +1558,12 @@
 	8. triturate, triturator, trituration
 		1. 1 - 来自拉丁语 triturare,磨碎，碾磨，反复格形式于 terere,转，刮，磨下，词源同 turn,throw.
 		2. _[triturate](dic://triturate)_  v. 磨碎；把……研成粉末; n. 磨碎物;
-	9. detriment, detrimental,  (deleterious)
-		1. de-坏 + tri-=trit-摩擦 + -ment名词后缀 → 磨坏了 → 损害。
-		2. _n._ [damage](dic://damage), [harm](dic://harm), [impairment](dic://impairment)
-		3. **detrimental**有害的;**undermining**底切;**undermine**在某物下挖洞或挖通道;**benefit**利益，好处;**jeopardize**危及, 损害;**hindrance**起妨碍作用的事物或人;**hinder**成为阻碍;**harm**伤害;**disservice**伤害,虐待,不亲切的行为;**consequence**结果, 后果;**diminish**使减少;
-	10. thread
+	9. detriment, detrimental, 
+		1. (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity, counterproductive, vitriolic, caustic, vile, snarky, devastating, )
+		2. de-坏 + tri-=trit-摩擦 + -ment名词后缀 → 磨坏了 → 损害。
+		3. _n._ [damage](dic://damage), [harm](dic://harm), [impairment](dic://impairment)
+		4. **detrimental**有害的;**undermining**底切;**undermine**在某物下挖洞或挖通道;**benefit**利益，好处;**jeopardize**危及, 损害;**hindrance**起妨碍作用的事物或人;**hinder**成为阻碍;**harm**伤害;**disservice**伤害,虐待,不亲切的行为;**consequence**结果, 后果;**diminish**使减少;
+	11. thread
 		1. Ariadne's thread阿里阿德涅之线；帮助摆脱困境的办法。克里特岛公主Ariadne喜欢上了要去迷宫深处诛杀牛头怪Minotaur的雅典王子Theseus，担心他有去无回（Minotaur凶猛且迷宫异常复杂），遂给其一线团，叮嘱他如果胜利，循着线找到迷宫的入口。那事情竟成了，Ariadne's thread也就成了指点迷津之物。
 		2. unthread
 		3. threaworm
@@ -1569,7 +1571,7 @@
 		5. threadbare
 		6. goldthread
 		7. etc..
-	11. thresh
+	12. thresh
 		1. 1 - 来自古英语 threscan,击打，打谷，踩踏，来自 Proto-Germanic*threskan,踩踏，使脱粒，来自PIE*tere,弯，转，磨，词源同 turn,throw.引申诸相关词义。
 		2.  [convulse](dic://convulse), [thresh about](dic://thresh about), [thrash](dic://thrash), [thrash about](dic://thrash about), [slash](dic://slash), [toss](dic://toss), [jactitate](dic://jactitate)
 		3.  [flail](dic://flail)
@@ -1582,12 +1584,12 @@
 		10. threshold
 		11. threshing
 		12. thresher
-	12. throe
+	13. throe
 		1. 1 - 来自中古英语 throwe,剧痛，尤指分娩的痛苦，临死前的挣扎，词源不详，可能来自古英语thrawan,扭曲，挣扎，词源同 throw,torque.
 		2. _n._ [agony](dic://agony), [suffering](dic://suffering), [excruciation](dic://excruciation), [distress](dic://distress)
 		3. **tho**可是,不过;**tor**岩山;**oi**喂，嘿;**hundred**一百;**thousand**一千;**ana**言论集;**sixty**六十;**twelve**十二;**fifty**五十;**twenty**二十;**ere**在…以前;
 		4. _[death throes](dic://death%20throes)_  临死前痛苦的挣扎; （彻底失败或终结前的） 垂死挣扎;
-	13. throw
+	14. throw
 		1. 1 - 来自中英语 thrawan,转动，旋转，拧，来自 Proto-Germanic*threw,转动，来自 PIE*tere,弯，转，词源同 turn,torque.词义由旋转引申为扔，来自投掷的姿势和动作。
 		2. windthrow
 		3. upthrow
@@ -1600,12 +1602,12 @@
 		10. flamethrower
 		11. downthrow
 		12. crankthrow
-	14. trepan, trepanner, trepannation
+	15. trepan, trepanner, trepannation
 		1. n. 环锯, 钻孔机 vt. 用环锯做手术, 诱入圈套, 欺骗
 		2. _n._ [surgical instrument](dic://surgical instrument), [drill](dic://drill)
 		3. _v._ [bore](dic://bore), [drill](dic://drill)
 		4. **skull**头盖骨，脑壳;**needle**针;
-	15. tribulation (trebuchet)
+	16. tribulation (trebuchet)
 		1. 来自拉丁语 tribulare,压制，镇压，折磨，来自 terere,转，刮，摩擦，词源同 turn,throw.-bul,工具格后缀，词源同 table,tintinnabulation.引申词义忧患，痛苦磨难等。
 		2. _n._ [affliction](dic://affliction)
 		3. [trial](dic://trial), [visitation](dic://visitation)
@@ -1618,7 +1620,7 @@
 		10. After many trials and tribulations we reached our destination. /经过了许多艰难险阻，我们到达了目的地。
 		11. You know, we all -- as Vivienne said -- we go through our trials and tribulations. /正如薇薇安所说，我们都曾经历过重重磨难。
 		12. He was thinking of the hardships, the insufferable tribulations he had gone through. /他在想他所经历的艰辛， 那些难以忍受的磨难。
-	16. turn
+	17. turn
 		1. n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折  
 		2. vt. 使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通  
 		3. vi. 转动, 转弯, 转向, 翻转, 回转, 改变, 转身, 变成, 变质, 晕眩, 易脱手
@@ -1932,7 +1934,7 @@
 				4. It was a British castle or entrenchment, with triple rings of defence, rising roll behind roll, their outlines cutting sharply against the sky, and Jim's kiln nearly undermining their base /那是一座英国城堡或壕沟，有三重防御环，一个接一个地上升，它们的轮廓在天空中锐利地切割，吉姆的窑几乎破坏了它们的基地。
 			12. entrenched
 	3. trenchancy, trenchant (penchant)
-		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic)
+		1. (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic, astringent, sulfurous, venomous, blistering, bitter, acid, scathing,)
 		2. trench-切 + -ancy, 表名词
 		3. n. 锐利
 		4. adj. 尖刻的；锐利的；苛刻的；锋利的（名词 trenchancy, 副词 trenchantly）
@@ -2025,7 +2027,7 @@
 1. terse
 	1.  [crisp](dic://crisp), [curt](dic://curt), [laconic](dic://laconic)
 	2. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
-	3. laconic, curt, taciturn, succinct
+	3. (curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident)
 	4. a terse one-word answer /一个简明的一词答案
 	5. I thought you were rather terse with her./我觉得你对她直接了些。
 	6. He whittled and listened, gave monosyllabic replies, and, when it was asked, terse advice. /他一边削，一边听，嘴里嗯、嗯地应着，哈尔发问时，他便简短地给几句忠告。

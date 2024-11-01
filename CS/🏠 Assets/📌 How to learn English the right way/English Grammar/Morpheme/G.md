@@ -15,8 +15,9 @@
 3. galvanize
 	1. (animate, rouse, galvanize)
 	2. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
-	3. **mobilize**动员，调动;**inspire**鼓舞;**incite**煽动;**motivate**刺激;**garner**贮藏;**empower**使能够;**unite**使…混合;**unify**统一;**strengthen**加强, 巩固;**revitalize**使恢复元气,使具有新的活力;**solidify**团结;
-	4. etc...
+	3.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
+	4. **mobilize**动员，调动;**inspire**鼓舞;**incite**煽动;**motivate**刺激;**garner**贮藏;**empower**使能够;**unite**使…混合;**unify**统一;**strengthen**加强, 巩固;**revitalize**使恢复元气,使具有新的活力;**solidify**团结;
+	5. etc...
 5. galvanometer
 6. galvanometric
 7. galvanometry
@@ -165,15 +166,17 @@
 		8. genocide, genocidal
 		9. genotype
 		10. genteel
-			1.  [civilized](dic://civilized), [civilised](dic://civilised), [cultivated](dic://cultivated), [cultured](dic://cultured), [polite](dic://polite)
-			2. _adj._ [refined](dic://refined)
-			3. _n._ [unrefined](dic://unrefined)
-			4. **aristocratic**贵族的;**dignified**高贵的;**posh**漂亮的;**middle-class**中产阶级的;**stately**庄严的;**polite**有礼貌的，客气的;**Edwardian**爱德华时代的;**civilized**文明的,非野蛮的;**old-fashioned**老式的;**affluent**富裕的;**elegant**高雅的，优雅的;
-			5. genteel manners and appearance. /优美的举止和漂亮的外表
-			6. She was a good example of a genteel woman, Lydia thought. /利迪娅想，她是有教养的女性中的一个范例。
-			7. Despite all the genteel charm, Bernini was known to have a low boiling point. /尽管贝尼尼表面上是温文尔雅，但是大家都知道他是个容忍度很低的人。
-			8. There was a genteel tap of the knocker and the musical voice asked again. /只听门环轻轻响了一下，那个音乐般的声音又问道。
-		11. genuine (indigenous, ingenious, ingenuous, genuine, ingenue)
+			1. (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, )
+			2. (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
+			3.  [civilized](dic://civilized), [civilised](dic://civilised), [cultivated](dic://cultivated), [cultured](dic://cultured), [polite](dic://polite)
+			4. _adj._ [refined](dic://refined)
+			5. _n._ [unrefined](dic://unrefined)
+			6. **aristocratic**贵族的;**dignified**高贵的;**posh**漂亮的;**middle-class**中产阶级的;**stately**庄严的;**polite**有礼貌的，客气的;**Edwardian**爱德华时代的;**civilized**文明的,非野蛮的;**old-fashioned**老式的;**affluent**富裕的;**elegant**高雅的，优雅的;
+			7. genteel manners and appearance. /优美的举止和漂亮的外表
+			8. She was a good example of a genteel woman, Lydia thought. /利迪娅想，她是有教养的女性中的一个范例。
+			9. Despite all the genteel charm, Bernini was known to have a low boiling point. /尽管贝尼尼表面上是温文尔雅，但是大家都知道他是个容忍度很低的人。
+			10. There was a genteel tap of the knocker and the musical voice asked again. /只听门环轻轻响了一下，那个音乐般的声音又问道。
+		12. genuine (indigenous, ingenious, ingenuous, genuine, ingenue)
 			1. [echt](dic://echt)
 			2.  [true(a)](dic://true(a)), [unfeigned](dic://unfeigned)
 			3.  [actual](dic://actual), [literal](dic://literal), [real](dic://real)
@@ -182,8 +185,8 @@
 			6. **authentic**真的, 真正的;**sincere**真诚的;**real**真实的;**sincerity**真实, 诚挚;**fake**假货;**authenticity**可靠性;**legitimate**合情合理的;**phony**假的，欺骗的;**heartfelt**衷心的;**true**真实的;**authentically**确实地,真正地;
 			7. She seemed so genuine and so refined. /她看起来很真诚，也很优雅。
 			8. He had a genuine enthusiasm for the commonplace /他衷心拜倒在平凡庸俗的脚下。
-		12. genus
-		13. genial
+		13. genus
+		14. genial
 			1. (affable, amicable, amiable, cordial, genial)
 			2. a. 和蔼的, 亲切的, 友善的
 			3. genial - 在拉丁语中Genius乃古罗马神话中人的守护神（attendant/guardian/tutelary spirit），希腊人则称之为daimōn（英语中意为“恶魔”的demon即源于此）。据说，每人都有自己的守护神，他塑造人的性格，守护和伴随人的一生（attend a man fromcradle to grave, govern his fortunes, determin his character）。传说Genius只庇护男性，女性则由Juno保护。Genius一词第一次在英语中出现是在1513年，当时仍用于原义，指人的守护神。到了16世纪末该词转指一个人性格上的倾向（characteristicdisposition），首字母也由大写变为小写。到17世纪genius进而指“天生的才能”或“天赋”（innate capability），到了18世纪，浪漫主义作家、艺术家、音乐家等开始用genius指“非凡的聪明智慧”（an extraordinary native intellectual power），即“天才”，随后也指“天才人物”。  
@@ -203,7 +206,7 @@
 			17. genialize
 			18. geniality
 			19. congenial
-		14. congenital  (innate, intrinsic, inherent, congenital, inborn)
+		15. congenital  (innate, intrinsic, inherent, congenital, inborn)
 			1.  con-,表强调，-gen-,生育，词源同 gene,generate.
 			2. _adj._ [noninheritable](dic://noninheritable), [nonheritable](dic://nonheritable)
 			3. _n._ [inheritable](dic://inheritable), [heritable](dic://heritable)
@@ -214,7 +217,7 @@
 			8. Montgomery suffered from a type of congenital heart disease /蒙哥马利患有一种先天性心脏病。
 			9. The truth is, congenital amusia probably affects less than 2% of the population. /事实是，先天性失歌症可能影响的人数不到 2%。
 			10. Some congenital causes of primary hypogonadism are genetic diseases like Klinefelter or Turner syndrome. /可引起原发性性腺功能减退的先天因素包括Klinefelter综合征或Turner综合征等遗传病。
-		15. generate
+		16. generate
 			1. gentleman（绅士）：出身高贵的人  
 			2. 英语单词gentleman由gentle+man构成。单词gentle来自法语gentil，本意是“出身高贵的”，其词根gen-表示“出身、种族、氏族”，来自原始印欧语词根gene-（产生、诞生）。因此，gentleman原本等同于nobleman（贵族）。后来，由于贵族通常都受到良好教养，举止文雅温柔，因此gentle又衍生出“温柔的、文雅的”之意。gentleman一词原本用来表示“贵族、绅士”，后来被用来作为对男人的一种尊称，可以用来称呼普通男士。  
 			3. 由词根gen-衍生的英语单词还有genus（类）、generate（产生）等。  
@@ -235,11 +238,11 @@
 				2. _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)
 				3. _n._ [regenerate](dic://regenerate), [corrigible](dic://corrigible)
 				4. **sinner**罪人;**sinful**有罪的;**sinners**罪人;**carnal**肉体的;**depraved**堕落的;**repent**忏悔;**wickedness**邪恶;**sin**过失;**heathen**异教徒;**repentance**悔悟;**salvation**拯救;
-		16. genius
-		17. gentile
-		18. gentility
-		19. gentle
-		20. gentry
+		17. genius
+		18. gentile
+		19. gentility
+		20. gentle
+		21. gentry
 	8. autogenous, cytogenous
 		1. abiogenetic, biogenic, autogenic, autogeny
 			1. abiogenist, abiogenous
@@ -394,25 +397,26 @@
 		2. _[pathogeny microbiology](dic://pathogeny%20microbiology)_ 病原微生物学
 		3. _[pathogeny identification](dic://pathogeny%20identification)_ 病原检测
 	30. kindred (affiliated)
-		1. kin【亲戚，亲属】 + -red,名词后缀，词源同 hundred, hatred。
-		2.  kin,亲戚，亲属，-red,名词后缀，词源同 hundred,hatred,插入字母 d,可能是受 kind 影响。
-		3. n. 家族；相似；亲属关系 
-		4. adj. 同类的；血缘的；同族的；类似的，相关的
-		5. [kin](dic://kin), [kin group](dic://kin group), [kinship group](dic://kinship group), [clan](dic://clan), [tribe](dic://tribe)
-		6. [akin(p)](dic://akin(p)), [related](dic://related)
-		7. _n._ [social group](dic://social group)
-		8. _adj._ [similar](dic://similar), [related](dic://related)
-		9. _n._ [dissimilar](dic://dissimilar), [unrelated](dic://unrelated)
-		10. **kinship**亲属关系，家属关系;**spirits**精力;**spirit**精神;**soul**灵魂;**like-minded**具有相似意向或目的的;**familial**家庭的;**ancestral**祖先的,祖宗传下来的;**brethren**弟兄们;**dearest**最亲爱的人;**fellow**同事;**affinity**吸引力;
-		11. _kindred spirit_ 志趣相投的人
-		12. The people of both countries could be called " kindred spirits" /两国人民都可以被称为" 志同道合" 。
-		13. Also, postpone your investigations into the occult. Do not dabble in theosophy, Spiritualism, or kindred studies /毋庸置疑，你应当停止任何有关神秘学术的研究，也绝对不要涉猎任何关于通神论、唯灵论及其相关学术的书籍。
-		14. 
-		15. king
-	31. anthropogeny
+		1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+		2. kin【亲戚，亲属】 + -red,名词后缀，词源同 hundred, hatred。
+		3.  kin,亲戚，亲属，-red,名词后缀，词源同 hundred,hatred,插入字母 d,可能是受 kind 影响。
+		4. n. 家族；相似；亲属关系 
+		5. adj. 同类的；血缘的；同族的；类似的，相关的
+		6. [kin](dic://kin), [kin group](dic://kin group), [kinship group](dic://kinship group), [clan](dic://clan), [tribe](dic://tribe)
+		7. [akin(p)](dic://akin(p)), [related](dic://related)
+		8. _n._ [social group](dic://social group)
+		9. _adj._ [similar](dic://similar), [related](dic://related)
+		10. _n._ [dissimilar](dic://dissimilar), [unrelated](dic://unrelated)
+		11. **kinship**亲属关系，家属关系;**spirits**精力;**spirit**精神;**soul**灵魂;**like-minded**具有相似意向或目的的;**familial**家庭的;**ancestral**祖先的,祖宗传下来的;**brethren**弟兄们;**dearest**最亲爱的人;**fellow**同事;**affinity**吸引力;
+		12. _kindred spirit_ 志趣相投的人
+		13. The people of both countries could be called " kindred spirits" /两国人民都可以被称为" 志同道合" 。
+		14. Also, postpone your investigations into the occult. Do not dabble in theosophy, Spiritualism, or kindred studies /毋庸置疑，你应当停止任何有关神秘学术的研究，也绝对不要涉猎任何关于通神论、唯灵论及其相关学术的书籍。
+		15. 
+		16. king
+	32. anthropogeny
 		1. _[anthropogeny](dic://anthropogeny)_  n. 人类起源论（等于anthropogenesis）
-	32. cancerogenic, carcinogen
-	33. etc...
+	33. cancerogenic, carcinogen
+	34. etc...
 3. **-gen** = 中文翻译成“...原”，原意表示“产生”。
 	1. allergen
 		1. n. 过敏原; 变(态反)应原
@@ -2946,21 +2950,23 @@
 			1. rediffuse
 			2. interdiffuse
 			3. diffusor
-			4. diffusive, diffusivity
-			5. diffusion
-				1.  [dissemination](dic://dissemination)
-				2.  [dispersion](dic://dispersion), [dispersal](dic://dispersal), [dissemination](dic://dissemination)
+			4. diffusive
+				1. a. 散播的, 冗长的, 扩散的
+				2. diffusivity
+			6. diffusion
+				1. [dissemination](dic://dissemination)
+				2. [dispersion](dic://dispersion), [dispersal](dic://dispersal), [dissemination](dic://dissemination)
 				3. _n._ [natural process](dic://natural process), [natural action](dic://natural action), [action](dic://action), [activity](dic://activity), [spread](dic://spread), [spreading](dic://spreading), [distribution](dic://distribution)
 				4. **dispersion**散布;**kinetics**动力学;**uptake**摄取;**evaporation**蒸发;**absorption**吸收，吸收作用;**permeability**弥漫;**propagation**繁殖;**adsorption**吸附;**conduction**传导;**convergence**集中,收敛;**polarization**极化;
 				5. The effective diffusion coefficient and rate constant of intraparticle transport were calculated. /求出了颗粒内有效扩散系数和颗粒内扩散速率常数。
 				6. Cell membranes allow for diffusion of certain molecules. /细胞膜允许某些分子扩散。
-			6. diffusiometer
-			7. diffusible
-			8. diffusibility
-			9. diffuser
-			10. diffuseness
-			11. diffusely
-			12. diffusate
+			7. diffusiometer
+			8. diffusible
+			9. diffusibility
+			10. diffuser
+			11. diffuseness
+			12. diffusely
+			13. diffusate
 		27. effuse
 			1. effusor
 			2. effusive
@@ -4182,12 +4188,12 @@
 		8. _[congruent triperspectives](dic://congruent%20triperspectives)_ 全等三角形
 	6. congruity, (gratuity)
 		1. (accord, consensus, congruity, conformity, consistency, coherence, consecution) 
-		2. (discord, dissonance, discrepancy, disparity)
 		3. **coherence**条理性,连贯性,一致性;**harmony**协调;**similarity**类似, 相似;**harmonious**和谐的;**conformity**依照, 遵从;**perception**感知;**dissonance**不一致;**propriety**①礼貌,规矩;**uniformity**一致;**juxtaposition**并置,并列;**symmetry**对称;
 		4. [harmony](dic://harmony), [harmoniousness](dic://harmoniousness)
 		5. [incongruity](dic://incongruity), [incongruousness](dic://incongruousness)
 		6. incongruity
-			1. **absurdity**荒谬;**juxtaposition**并置,并列;**irony**讽刺;**contradiction**矛盾;**inconsistency**矛盾;**discrepancy**差异, 不符合;**dichotomy**一分成二,对分;**dissonance**不一致;**ambiguity**歧义;**paradoxical**似是而非的 矛盾的 诡论的;**paradox**悖论;
+			1. (discord, dissonance, incongruity, dichotomy, dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
+			2. **absurdity**荒谬;**juxtaposition**并置,并列;**irony**讽刺;**contradiction**矛盾;**inconsistency**矛盾;**discrepancy**差异, 不符合;**dichotomy**一分成二,对分;**dissonance**不一致;**ambiguity**歧义;**paradoxical**似是而非的 矛盾的 诡论的;**paradox**悖论;
 	8. congruous, incongruous
 		1. **harmonious**和谐的;**dissimilar**不同的;**agreeable**欣然同意的;**wholly**完全地;**mutually**互相地;**pleasing**合意的;**incompatible**合不来的, 不能和谐相处的;**analogous**相似的,可比拟的;**consistent**始终如一的;**distinguishable**可区别的,可辨别的;**compatible**可以并存的, 相容的, 协调的;
 		2. [appropriate](dic://appropriate), [harmonious](dic://harmonious), [compatible](dic://compatible)
@@ -5717,6 +5723,13 @@
 	10. the telephone was the bane of my life . /电话是我生活的灾难。
 	11. I don't know about you, but mosquitoes are the bane of my digital existence /我不知道你们的情况，但是蚊子是我的数字生活的烦恼之源。
 	12. The aristocratic tradition embedded in British higher education is its bane /英国高等教育中根深蒂固的贵族传统是它的祸根。
+	13. baneful
+		1. (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity)
+		2. [deadly](dic://deadly), [pernicious](dic://pernicious), [pestilent](dic://pestilent)
+		3. _adj._ [noxious](dic://noxious), [harmful](dic://harmful), [maleficent](dic://maleficent)
+		4. _n._ [innocuous](dic://innocuous), [harmless](dic://harmless), [beneficent](dic://beneficent)
+		5. **pernicious**很有害的;**deleterious**有害的;**destructive**破坏性的, 毁灭性的;**poisonous**有毒的;**insidious**隐伏的;**harmful**能造成损害的;**noxious**有害的;**malevolent**有恶意的;**evil**邪恶的;**poisons**毒药，毒物;**malignant**有恶意的;
+		6. baneful effects of their foreign policy. 
 3. gun
 	1. six-gun
 	2. shotgun

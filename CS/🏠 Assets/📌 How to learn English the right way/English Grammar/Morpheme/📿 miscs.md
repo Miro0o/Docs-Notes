@@ -362,6 +362,7 @@ argot
 - The **argot** and proverb created by them enrich Chinese language. /他们创造的隐语、歇后语、谚语等丰富了中国的语言。
 
 ascetic (aesthetic)
+- (ascetic, austere, spartan, stoic, frugal, abstemious, abstinent, )
 - ascetic（苦修）：古希腊运动员赛前的禁欲  
 - 每一届足球世界杯总会有一个话题引发激烈的讨论，那就是大赛之前该不该禁欲。2014年巴西世界杯出现了一个奇怪的现象：所有对球员颁布“禁欲令”的队伍都遭到了淘汰，而那些对球员性生活持有更宽松态度的球队则走得更远。尽管如此，在历史上，人们普遍认为大赛之前应该禁欲，英语单词ascetic（苦修）一词就反映了这一观点。  
 - ascetic源自希腊语asketikos，来自动词askein（训练），最初指的是古希腊人在参加奥运会这样的比赛前的禁欲和锻炼。古希腊人格外重视比赛前的禁欲，因为他们认为精液是男人气概和力量的来源，在比赛时必须拥有充沛的储备。古希腊体育史上的传奇英雄、曾经在一天内获得三项比赛的桂冠的克雷托马库斯（Kleitomachos）就特别重视禁欲，甚至连含有色情话题的聊天都拒绝参与。还有些人甚至会采用系上包皮的方式来控制情欲。  
@@ -973,7 +974,7 @@ blow
 	- **exaggerated**言过其辞的;**overdone**把…煮得过久;**hyperbole**夸张的语句;**ludicrous**荒唐可笑的,滑稽可笑的;**unfounded**无事实根据的;**over-the-top**过多的;**laughable**荒唐可笑的;**ridiculous**可笑的, 荒谬的;**preposterous**反常的,荒谬的;**unwarranted**没有根据的, 无正当理由的;**disingenuous**不真诚的;
 - etc.. 
 
-boast
+boast (brandish)
 - n. 吹牛  
 - vi. 吹牛, 自夸  
 - vt. 夸口说, 自恃有
@@ -2028,6 +2029,7 @@ can
 - canner
 	- _[canner](dic://canner)_  n. 罐头制造商
 - canned
+	-  (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 	- a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的
 	- [transcribed](dic://transcribed)
 	-  [tinned](dic://tinned)
@@ -3349,6 +3351,7 @@ ember
 - _dying embers_  余烬; 余烬（书名，Dying Embers）;
 
 enigma
+- (quandary, conundrum, predicament, plight, perplexity, dilemma, riddle, enigma, puzzling, knot, strait, distress, mishap, fiasco, debacle, blunder, hazard, )
 - **enigmatic**谜的;**mystery**神秘，秘密;**riddle**出谜;**conundrum**谜,猜不透的难题,难答的问题;**puzzling**使莫明其妙的;**elusive**难以捉摸的;**baffling**令人困惑的;**mysterious**神秘的;**mysteries**古代的秘密宗教仪式;**paradox**悖论;**cryptic**秘密的,隐秘的;
 - enigmatize
 	- **mysterious**神秘的;**enigma**谜，不可思议的东西;**cryptic**秘密的,隐秘的;**intriguing**引起好奇心的;**alluring**迷人的，吸引人的;**elusive**难以捉摸的;**eccentric**古怪的, 怪癖的;**shadowy**有阴影的;**charismatic**有魅力的;**puzzling**使莫明其妙的;**brooding**沉思的;
@@ -3517,7 +3520,7 @@ feist
 
 fetter
 -  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
-- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
+- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 -  来自古英语 fetor,链子，特指脚链，词源同 foot.
 -  [hobble](dic://hobble)
 -  [shackle](dic://shackle)
@@ -3560,7 +3563,8 @@ fidget (fiddle, piddle)
  - She's always fidgeting about her mother's health. /她经常为她母亲的健康担忧。
  - His voice was deep and rich and somehow took the fidgets out of them. /它的声音深沉、圆润，不知怎么竟消除了他们的不安。
  - fidgety
-	 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, fidgety, restless, itchy, antsy, agitated, cranky, chatty)
+	 - (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	 - unable to relax or be still
 	 - a. 不安的, 烦躁的
 	 - [antsy](dic://antsy), [fretful](dic://fretful), [itchy](dic://itchy), [restless](dic://restless)
@@ -4163,7 +4167,14 @@ fraud
 	- [deception](dic://deception) 语气较弱，一般用词，侧重于具体的骗人行为。但有时并无欺骗行为，只是玩弄把戏，故弄玄虚而已。   
 	- [fraud](dic://fraud) 一般用于犯罪行为的欺骗，通常指政治或经济活动中的舞弊行为。
 - **fraudulent**欺骗的,不诚实的;**scam**骗局，诡计;**theft**盗窃;**forgery**伪造;**scams**诈骗;**deception**欺骗;**dishonesty**不诚实的行为;**corruption**堕落;**bribery**贿赂;**deceit**欺骗;**misrepresentation**不实的陈述;
-- fraudulent, fraudulence
+- fraudulent
+	- a. 欺诈的, 不正的, 不诚实的
+	- (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
+	- _adj._ [dishonest](dic://dishonest), [dishonorable](dic://dishonorable)
+	- _n._ [honest](dic://honest), [honorable](dic://honorable)
+	- **fraud**欺骗;**bogus**伪造的;**dishonest**不诚实的;**scam**骗局，诡计;**deceptive**可能欺骗的, 导致误解的;**phony**假的，欺骗的;**scams**诈骗;**unethical**不道德的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**forgery**伪造;**unauthorized**未经授权的;
+	- he was found guilty of the fraudulent conversion of clients' monies. /他被判犯了诈骗侵吞客户货款罪。
+	- fraudulence
 - defraud
 	- [victimize](dic://victimize), [swindle](dic://swindle), [rook](dic://rook), [goldbrick](dic://goldbrick), [nobble](dic://nobble), [diddle](dic://diddle), [bunco](dic://bunco), [scam](dic://scam), [mulct](dic://mulct), [gyp](dic://gyp), [gip](dic://gip), [hornswoggle](dic://hornswoggle), [short-change](dic://short-change), [con](dic://con)
 	- _v._ [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel)
@@ -4189,7 +4200,7 @@ fringe
 - fringing
 - fringeless
 
-fritter
+fritter (profligate, dissipate, fritter, profuse, squander, extravagant, improvident, prodigal, )
 - 浪费（时间、金钱）；挥霍；弄碎 
 - n. 油炸馅饼
 - vt. 浪费；细切；剁碎
@@ -4988,7 +4999,8 @@ grass
 - 来自 PIE*ghre,生长，变绿，词源同 grow,green.
 
 grate (integrate) 
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, fidgety, restless, itchy, antsy, agitated, cranky, chatty)
+- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - - n. （壁炉上的）金属炉架，炉箅；壁炉（或熔炉）的炉膛；格栅；<美>下水道孔盖 
 - v. 擦碎，磨碎（食物）；粗声粗气地说话；使烦躁，使难受；发出刺耳的摩擦声
 - **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
@@ -5024,7 +5036,8 @@ grate (integrate)
 
 gravel (grovel， gavel)
 - n. 砂砾；碎石 vt. 用碎石铺；使船搁浅在沙滩上；使困惑
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
+- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
 -  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 -  [grating](dic://grating), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough), [scratchy](dic://scratchy)
@@ -6295,7 +6308,7 @@ hide
 	- the school was a hideous cuboid erection of brick and glass /学校是砖和玻璃垒起的丑陋的立方形建筑。
 	- I'm sorry. It's just this outfit is hideous. /对不起。只是这些服装太丑了。
 - hidebound 
-	- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
+	- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 	- hide【兽皮】 + bound【绑】。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- hide,兽皮，bound,绑着，束缚。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- a. 思想偏狭顽固的, 死板的, 量小的
@@ -7162,7 +7175,8 @@ ire
 	- a barrage of irate letters / 连珠炮般的斥责信件。
 	- an irate phone call. /一个愤怒的电话
 - irascible
-	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy )
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	- [choleric](dic://choleric), [hotheaded](dic://hotheaded), [hot-tempered](dic://hot-tempered), [quick-tempered](dic://quick-tempered), [short-tempered](dic://short-tempered)
 	- _adj._ [ill-natured](dic://ill-natured), [angry](dic://angry)
 	- _n._ [good-natured](dic://good-natured),
@@ -7583,6 +7597,7 @@ knob
 - [pommel](dic://pommel)
 
 knot
+- (quandary, conundrum, predicament, plight, perplexity, dilemma, riddle, enigma, puzzling, knot, strait, distress, mishap, fiasco, debacle, blunder, hazard, )
 - unknot
 - topknot
 - slipknot
@@ -8806,8 +8821,8 @@ net
 - network
 - netty
 - nettle
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil)
-	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy )
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - netting
 - netted
 - netstat
@@ -8831,8 +8846,8 @@ net
 - catenet
 - netty
 - nettle
-	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy )
-	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	- 来自net , 网。即织网的材料，用于指荨麻。
 	- n. 荨麻 vt. 使烦恼, 使生气; 以荨麻刺
 	- [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [gravel](dic://gravel), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
@@ -9411,7 +9426,8 @@ peck (peck, pike, pick)
 - henpeck
 
 peeve
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
+- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - 来自 peevish 的回构词。
 - **gripe**抱怨;**dislike**不喜欢，厌恶;**no-no**被禁止的东西;**annoyance**烦恼;**rant**咆哮;**pet**宠物;**mine**矿山，矿井;
 - [temper](dic://temper), [mood](dic://mood), [humor](dic://humor), [humour](dic://humour)
@@ -9422,6 +9438,8 @@ peeve
 - his pet peeve is not having answers for questions from players /最让他生气的是选手们不回答问题。
 - Yes, a pet peeve is something that someone finds particularly annoying. /是的，" 恼人的事物" 是某人觉得特别讨厌的东西。
 - peevish
+	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	- 词源不详，可能来自 perverse 受-ish 影响的俗化形式，词义由任性的，无理取闹的引申为生气的，易怒的等。
 	- [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
 	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**grumpy**脾气暴躁的;**whiny**烦躁的;**snarky**恶声恶气的，咬人的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**condescending**降低身份的,屈尊的;**angry**生气的;**pompous**浮夸的;**impatient**不耐烦的, 急躁的;**obnoxious**可憎的
@@ -9731,6 +9749,13 @@ plank
 - 来自拉丁语 planca,宽木板，板条，来自 PIE*plak,平的，来自 PIE*pele,展开，放平，词源同plan,plain.
 - planking
 - gangplank
+
+plight
+- (quandary, conundrum, predicament, plight, perplexity, dilemma, riddle, enigma, puzzling, knot, strait, distress, mishap, fiasco, debacle, blunder, hazard, )
+- n. 困境; 誓约  
+- vt. 宣誓; 保证
+- 1 - 来自古英语 pliht,有风险的承诺，危险，风险，来自 Proto-Germanic*pleg,承诺，责任，担保，来自 PIE*dlegh,忙于，从事于，责任，承诺，来自 PIE*del,长的，词源同 long,play,pledge.引申词义誓言，誓约，特别是郑重的誓言，如订婚。  
+- 2 - 来自古法语 pleit,情况，来自拉丁语 plicare,卷入，卷进，词源同 ply,complex.后主要用于指坏的情况，引申词义苦难，困境。词义部分受到上一词义的影响。
 
 pluck
 - n. 勇气；内脏；快而猛的拉
@@ -10411,7 +10436,7 @@ raddle
 	- 来自 raddle,红赭石。比喻用法，用浓妆艳抹来掩盖疲劳。
 
 rag
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin, peeve,)
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - n. 碎布, 抹布, 碎片, 碎屑, 少量, 破旧衣服  
 - vt. 责骂, 揶揄, 戏弄  
 - vi. 喧闹
@@ -10483,7 +10508,9 @@ ratchet  (bouquet, banquet, cachet, crotchet, coquet, ratchet)
 - But ratchet pay off sometimes, you feel me? /但是我们得奖了，你们能感受到我的心情吗？
 - How could that possibly ratchet up their chances for success? /这怎么可能增加他们成功的机会呢？
 
-rattle (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, )
+rattle
+- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - [rattling](dic://rattling), [rale](dic://rale)
 - _n._ [noise](dic://noise), [plaything](dic://plaything), [toy](dic://toy), [tail](dic://tail)
 - _v._ [sound](dic://sound), [go](dic://go), [shake](dic://shake), [agitate](dic://agitate)
@@ -10852,7 +10879,7 @@ rivet ()
 - Flat head rivets would reduce wind drag. /用平头铆钉可以减小风阻。
 - I was riveted. I loved it so much. /我被吸引住了。我非常喜欢它。
 - riveting
-	-  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
+	-  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping, diverting, entertaining, seizing)
 	-  [absorbing](dic://absorbing), [engrossing](dic://engrossing), [fascinating](dic://fascinating), [gripping](dic://gripping)
 	- _adj._ [interesting](dic://interesting)
 	- _n._ [uninteresting](dic://uninteresting)
@@ -10882,6 +10909,8 @@ rod
 - ramrod
 
 rollick
+-  (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
+1.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
 -  [frolic](dic://frolic), [lark](dic://lark), [skylark](dic://skylark), [disport](dic://disport), [sport](dic://sport), [cavort](dic://cavort), [gambol](dic://gambol), [frisk](dic://frisk), [romp](dic://romp), [run around](dic://run around), [lark about](dic://lark about)
 - _v._ [play](dic://play)
 - **romp**嬉闹玩笑;**raucous**沙哑的;**rousing**活泼的;**jazzy**爵士乐的;**joyous**令人高兴的;**merry**愉快的;**boisterous**热闹的;**jolly**愉快的;**spirited**生机勃勃的;**exuberant**兴高采烈的;**gleefully**极快乐地,欢欣地;
@@ -11400,6 +11429,7 @@ scathe
 	- But the essential structure of Notre Dame emerges from its ordeal unscathed. /但是巴黎圣母院的核心结构逃过了这场灾难。
 	- Such is the strength of Revelin, that when the quake's dust finally settled, the fortress emerged unscathed. /在地震结束过后，拉夫林堡却如此强稳。
 - scathing
+	- (poignant, mordacious, mordant, pungent, piquant, trenchant, acrid, acerbic, vitriolic, caustic, corrosive, erosive, satire, sarcastic, astringent, sulfurous, venomous, blistering, bitter, acid, scathing,)
 	- [blistering](dic://blistering), [scalding](dic://scalding), [vituperative](dic://vituperative)
 	- _adj._ [critical](dic://critical)
 	- _n._ [uncritical](dic://uncritical)
@@ -13284,6 +13314,7 @@ sparta
 - _n._ [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center)
 - **Athens**雅典;**Corinth**科林斯;**Athenian**雅典的;**Spartan**斯巴达的;**Spartans**斯巴达人;**Macedonia**马其顿王国;**Greece**希腊;**Carthage**迦太基;**Verona**维罗那;**Cicero**西塞罗;**Ravenna**拉文那;
 - Spartan
+	- (ascetic, ascetical, austere, spartan, stoic, frugal, abstemious, abstinent, thrifty, scotch, sparing, stinting, )
 	- [severe](dic://severe)
 	- [ascetic](dic://ascetic), [ascetical](dic://ascetical), [austere](dic://austere)
 	- _n._ [Greek](dic://Greek), [Hellene](dic://Hellene)
@@ -13612,7 +13643,7 @@ spur
 - cockspur
 
 spurious (salubrious)
-- (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning)
+- (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
 - 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
 - (sper-)
 
@@ -14022,6 +14053,7 @@ strike
 - etc..
 
 strip
+- (strip, divest, deprive, expropriate, confiscate, plunder, foreclose)
 - 来自古英语 striepan,抢劫，掠夺，来自 Proto-Germanic*straupijan,抢劫，掠夺，词源可能同德语 Strafe,剥夺，罚金，惩罚。引申诸相关词义。  
 - 来自 strip 对词形式或拼写变体。
 - unstripped
@@ -14907,7 +14939,7 @@ tower
 
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
-- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic)
+- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 - (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
@@ -15021,6 +15053,13 @@ troth
 - betrothal
 	- **marriage**结婚;**marry**娶;**bride**新娘;**courtship**求爱;**marrying**证婚;**wed**结婚;**coronation**加冕礼;**wedding**结婚;**vows**婚誓;**prince**王子，国君;**consecration**奉献;
 
+troupe
+- n. 团, 班, 一伙  vi. 巡回演出
+- 1 - 来自法语 troupe,团队，队伍，词源同 troop.引申词义演员团队，表演队伍，表演团。
+- When this caught on with other troupes shops sprang up to supply the theaters. /这种做法兴起来之后 其他剧团纷纷涌现 为剧院供应物资。
+- Another AI researcher whose hobby is comedy includes an AI robot in his London-based improvisational troupe called Improbotics. /另一位爱好喜剧的人工智能研究人员在他位于伦敦的即兴剧团 Improbotics 中有一个人工智能机器人。
+- When the troupe walks up out of water, you get this amazing feeling /当团队从水中出来，你会感到很震惊。
+
 try
 - 来自古法语 trier,选择，选出，分开，词源不详。可能置换自古法语 tirer,拉出，拔出，来自Proto-Germanic*terana,撕，撕开，来自 PIE*der,撕，撕开，词源同 tear,tier.引申诸相关词义。
 - n. 尝试, 试验, 审理, 审判
@@ -15078,6 +15117,7 @@ turret
 - Silhouetted on the dark horizon, high on the cliff over the lake, stood the many turrets and towers of Hogwarts castle.  /在黑暗的地平线上，在湖对面高高的悬崖顶端，耸立着霍格沃茨城堡的角楼和高塔的剪影。
 
 twaddle (hogwash)
+- waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
 - [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [drool](dic://drool), [humbug](dic://humbug), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [tosh](dic://tosh)
 - [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 - _n._ [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)

@@ -336,18 +336,19 @@
 		1. in-进入，使 + cid-掉落，落下 + -ence, 表名词。引申词义发生率。
 		2. n. 发生, 发生率, 影响, 负担者, 入射, 倾角
 		3. incident
-		4. incidental (ancillary, incidental, contingent, )
-			1. a. 附带的, 偶然的, 容易发生的  n. 附带事件
-			2.  来自 incident,偶发事件，发生。引申词义偶然的，附带的。
-			3. _n._ [expense](dic://expense), [item](dic://item), [point](dic://point)
-			4. _adj._ [omissible](dic://omissible), [parenthetic](dic://parenthetic), [parenthetical](dic://parenthetical), [peripheral](dic://peripheral), [secondary](dic://secondary), [related](dic://related), [related to](dic://related to)
-			5. _n._ [basic](dic://basic), [unrelated](dic://unrelated), [essential](dic://essential)
-			6. **ancillary**辅助的, 附属的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**extraneous**外部的,外来的;**accidental**意外的;**consequential**重要的;**coincidental**巧合的;**trivial**不重要的，琐碎的;**unintentional**不是故意的,无心的,无意识的;**occasional**偶尔的, 不经常的;**unimportant**不重要的;**unrelated**无关的, 不相关的;
-			7. the incidental catch of dolphins in the pursuit of tuna /捕捉金枪鱼时偶尔捕到的海豚。
-			8. the ordinary risks incidental to a fireman's job. /从事消防工作易发生的常见险情。
-			9. Certain discomforts are incidental to the joys of camping out. /享受露营的快乐时, 难免也会有些不便之处.
-			10. Naturally, there will be a few incidental expenses. /自然会有一些附加费用。
-			11. _incidental music_ 配乐（戏剧、电影等）
+		4. incidental
+			1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+			2. a. 附带的, 偶然的, 容易发生的  n. 附带事件
+			3.  来自 incident,偶发事件，发生。引申词义偶然的，附带的。
+			4. _n._ [expense](dic://expense), [item](dic://item), [point](dic://point)
+			5. _adj._ [omissible](dic://omissible), [parenthetic](dic://parenthetic), [parenthetical](dic://parenthetical), [peripheral](dic://peripheral), [secondary](dic://secondary), [related](dic://related), [related to](dic://related to)
+			6. _n._ [basic](dic://basic), [unrelated](dic://unrelated), [essential](dic://essential)
+			7. **ancillary**辅助的, 附属的;**inconsequential**不重要的, 无足轻重的, 不值得考虑的;**extraneous**外部的,外来的;**accidental**意外的;**consequential**重要的;**coincidental**巧合的;**trivial**不重要的，琐碎的;**unintentional**不是故意的,无心的,无意识的;**occasional**偶尔的, 不经常的;**unimportant**不重要的;**unrelated**无关的, 不相关的;
+			8. the incidental catch of dolphins in the pursuit of tuna /捕捉金枪鱼时偶尔捕到的海豚。
+			9. the ordinary risks incidental to a fireman's job. /从事消防工作易发生的常见险情。
+			10. Certain discomforts are incidental to the joys of camping out. /享受露营的快乐时, 难免也会有些不便之处.
+			11. Naturally, there will be a few incidental expenses. /自然会有一些附加费用。
+			12. _incidental music_ 配乐（戏剧、电影等）
 	14. occident (orient)
 		1. n. 西方, 欧美, 西欧诸国, 西部
 		2. oc-一再 + cid-落下 + -ent表名词。
@@ -1061,7 +1062,7 @@
 			2. **bovine**牛的;**goat**山羊;**goats**山羊;**sheep**羊，绵羊;**equine**马的;**cow**奶牛，母牛;**calf**小牛;**herd**兽群，畜群;**cattle**牛;**swine**猪;**recombinant**重组器官;
 		11. capriform
 		12. capricious (duplicity)
-			1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous) 
+			1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, arbitary) 
 			2. _adj._ [unpredictable](dic://unpredictable), [arbitrary](dic://arbitrary)
 			3. _n._ [predictable](dic://predictable), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
 			4. **fickle**易变的;**arbitrary**随意的, 主观的;**unpredictable**无法预言的, 不可预测的;**cruel**残酷的，残忍的;**erratic**不稳定的;**tyrannical**暴君的,暴君似的;**whim**一时的兴致;**perverse**任性的,固执的;**unreasonable**不讲道理的, 非理智的;**irrational**无理性的;**illogical**不合逻辑的;
@@ -2175,16 +2176,17 @@
 				4. [supplement](dic://supplement) 主要指使书、报等正广更完善而额外增加的部分。
 				5. [accessory](dic://accessory) 作“附件”解时，与attachment同义，可互换，但还指增加美观的附属品
 		7. accessorial
-			5. **ancillary**辅助的, 附属的;**freight**运送;**allowance**零用钱;**charges**费用;**conveyance**运输;
-			6. _[accessorial](dic://accessorial)_  adj. 附属的；增加的；补充的
-			7. _[accessorial charge](dic://accessorial%20charge)_  附属费用
-		8. accessor, accessorize
-		9. accession
+			1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+			2. **ancillary**辅助的, 附属的;**freight**运送;**allowance**零用钱;**charges**费用;**conveyance**运输;
+			3. _[accessorial](dic://accessorial)_  adj. 附属的；增加的；补充的
+			4. _[accessorial charge](dic://accessorial%20charge)_  附属费用
+		9. accessor, accessorize
+		10. accession
 			1. [increase](dic://increase), [increment](dic://increment), [growth](dic://growth), [property right](dic://property right), [acquisition](dic://acquisition), [agreement](dic://agreement), [right](dic://right)
 			2. **ratification**正式批准;
 			3. _accession to the wto_ 加入世界贸易组织
 			4. _accession to the throne_ 登基，即位
-		10. accessible, accessibility
+		11. accessible, accessibility
 			1. inaccessible
 				1. **unusable**不能用的;**accessible**可得到的;**unavailable**难以获得的;**impenetrable**不能穿过的;**unexplored**未经勘探的;**unsuitable**不合适的;**impractical**不切实际的;**inconvenient**不便的;**uninhabited**无人居住的;**unreadable**不引起兴趣阅读的,难念的,难以认清的,难以理解的;**impossible**不可能的;
 				2. [remote](dic://remote), [deserted](dic://deserted), [pathless](dic://pathless), [roadless](dic://roadless), [trackless](dic://trackless), [untracked](dic://untracked)
@@ -3990,11 +3992,13 @@
 		13. **crankshaft**机轴;**knob**把手;**ratchet**棘轮;**gears**齿轮，传动装置;**lever**杠杆;**flywheel**飞轮，惯性轮;**pulley**滑轮;**turn**转动，旋转;**spindle**轴;**wrench**扳手，扳钳;**piston**活塞;
 		10. cranky
 			1. (cranky, kinky, quirky)
-			2.  [crank](dic://crank), [tender](dic://tender), [tippy](dic://tippy)
-			3.  [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
-			4. _adj._ [unstable](dic://unstable), [ill-natured](dic://ill-natured)
-			5. _n._ [stable](dic://stable), [good-natured](dic://good-natured)
-			6. **grumpy**脾气暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**tired**疲倦的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**angry**生气的;**irritated**恼怒的;**chatty**饶舌的;**frustrated**挫败的;**neurotic**神经过敏的;
+			2.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+			3. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
+			4.  [crank](dic://crank), [tender](dic://tender), [tippy](dic://tippy)
+			5.  [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+			6. _adj._ [unstable](dic://unstable), [ill-natured](dic://ill-natured)
+			7. _n._ [stable](dic://stable), [good-natured](dic://good-natured)
+			8. **grumpy**脾气暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**tired**疲倦的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**angry**生气的;**irritated**恼怒的;**chatty**饶舌的;**frustrated**挫败的;**neurotic**神经过敏的;
 	5. cringe
 		1. cringing
 		2. cringeworthy
@@ -4925,6 +4929,7 @@
 	7. courage
 		1. cor-心 + -age, 表名词。
 	8. discord (accord)
+		1. (discord, dissonance, incongruity, dichotomy, dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
 	9. record
 	10. precordium
 	11. chord
@@ -4968,32 +4973,41 @@
 			12. disaccredit
 			13. accreditee
 			14. accredition
-	2. credulity, credulous
-		1. overcredulity, overcredulous
-		2. incredulity
+	2. credulity
+		1. credulous
+			1. 来自 cred-,相信，信任。
+			2. cred-相信 + -ul + -ous, …的 → 轻信的。
+			3. _adj._ [credible](dic://credible), [overcredulous](dic://overcredulous), [unquestioning](dic://unquestioning), [naive](dic://naive), [naif](dic://naif)
+			4. _n._ [incredulous](dic://incredulous), [sophisticated](dic://sophisticated)
+			5. **gullible**易受骗的;**deluded**轻信的;**uninformed**信息不足的;**naive**天真的，幼稚的;**skeptical**怀疑的;**sceptical**怀疑的;**cynical**愤世嫉俗的;**ignorant**无知的;**skeptics**疑论者，怀疑主义者;**pious**虔诚的;**skeptic**怀疑论者;
+			6. the conscience of the credulous prince was directed by saints and bishops. /那位轻信的王子的良知得到了圣徒和主教们的指引。
+			7. We are less credulous than we used to be /我们不再像以往那样轻易相信别人了。
+			8. And so it happened that Adam was at once penetrating and credulous. /碰巧亚当既敏锐又轻信。
+		2. overcredulity, overcredulous
+		3. incredulity
 			1. **astonishment**惊讶, 惊奇;**disbelief**不相信, 怀疑;**amazement**惊奇, 惊愕;**skepticism**怀疑论;**indignation**愤怒, 愤慨, 气愤;**disgust**厌恶，嫌恶;**disdain**蔑视;**cynicism**犬儒主义;**outrage**暴行;**dismay**沮丧，灰心;**hostility**敌意;
 			2. [doubt](dic://doubt), [uncertainty](dic://uncertainty), [incertitude](dic://incertitude), [dubiety](dic://dubiety), [doubtfulness](dic://doubtfulness), [dubiousness](dic://dubiousness)
 			3. incredulous
-		3. credulousness
-		4. credulously
-	3. creed, credo
-	4. credence
+		4. credulousness
+		5. credulously
+	4. creed, credo
+	5. credence
 		1. _give credence to_ 相信…，以…为可信
 		2. **credibility**可信;**substantiate**用事实支持;**veracity**诚实;**unsubstantiated**无事实根据的;**evidence**证据，证明;**assertion**主张,维护;**credible**可靠的，可信的;**lend**贷;**legitimacy**合法;**anecdotal**轶事的,趣闻的;**refute**反驳，驳斥;
 		3. [attitude](dic://attitude), [mental attitude](dic://mental attitude), [buffet](dic://buffet), [counter](dic://counter), [sideboard](dic://sideboard)
 		4. [acceptance](dic://acceptance)
 		5. [credenza](dic://credenza)
 		6. credential
-	5. credenda
-	6. miscreant
-	7. recreancy (cower)
+	6. credenda
+	7. miscreant
+	8. recreancy (cower)
 		1. re-再、反复 + cre-信任、信仰 + -ancy → 一再表示信仰 → 不忠
 		2. n. 胆小, 怯懦, 不忠 
 		3. [poltroon](dic://poltroon), [craven](dic://craven)
 		4. [deserter](dic://deserter), [apostate](dic://apostate), [renegade](dic://renegade), [turncoat](dic://turncoat), [ratter](dic://ratter)
 		5. **traitor**叛徒;**reproach**责备;**betray**背叛;**cowardly**怯懦的，懦弱的;**coward**懦夫，懦弱的人;**oath**誓言，誓约;**cowardice**懦弱;**patriot**爱国者;**pious**虔诚的;**treachery**背信弃义, 不忠, 背叛;**disgrace**耻辱;
 		6. recreant
-	8. grant
+	9. grant
 		1. 来自拉丁文credentem, 相信，信任，词源同heart, credit, credible。
 		2. n. 授予, 授予物, 允许  
 		3. vt. 允许, 承认, 授与
@@ -6605,23 +6619,25 @@
 		9. haplessness
 		10. haplessly
 	4. haply
-		1. _[haply in the rough](dic://haply%20in%20the%20rough)_ 大致上
-		2. _[belike haply maybe perhaps probably](dic://belike%20haply%20maybe%20perhaps%20probably)_ 或许
-		3. _[And haply I may forget](dic://And%20haply%20I%20may%20forget)_ 亦或许
-		4. Doctor said she would haply come to her mind to-morrow'. /“医生说她明天会偶然想到的。
-	5. happen
+		1. ad. 偶然地, 大致上, 或许
+		2. _[haply in the rough](dic://haply%20in%20the%20rough)_ 大致上
+		3. _[belike haply maybe perhaps probably](dic://belike%20haply%20maybe%20perhaps%20probably)_ 或许
+		4. _[And haply I may forget](dic://And%20haply%20I%20may%20forget)_ 亦或许
+		5. Doctor said she would haply come to her mind to-morrow'. /“医生说她明天会偶然想到的。
+	6. happen
 		1. happenstance, happenchance
 			1. **coincidence**巧合，同时发生;**coincidental**巧合的;**circumstance**环境;**accidental**意外的;**intentional**存心的;**randomness**随意,无安排;**fluke**侥幸;**random**任意的;**purposeful**有目的的;**inexplicable**无法说明的;**unplanned**无计划的;
 		2. happening
-	6. happy
+	7. happy
 		1. unhappy
 		2. trigger-happy
 		3. thrice-happy
 		4. slaphappy
-			1. **wacky**乖僻的，古怪的;**goofy**傻瓜的，愚笨的;**manic**狂热的;**drunken**喝醉的;**frenetic**狂热的;**giddy**头晕的;**rowdy**吵闹的;**raucous**沙哑的;**boisterous**热闹的;**cranky**暴躁的;**silliness**愚蠢;
-		5. happiness
-		6. happily
-	7. mishap
+			1. _adj._ 〈美俚〉头昏眼花的,愚蠢的,轻率的
+			2. **wacky**乖僻的，古怪的;**goofy**傻瓜的，愚笨的;**manic**狂热的;**drunken**喝醉的;**frenetic**狂热的;**giddy**头晕的;**rowdy**吵闹的;**raucous**沙哑的;**boisterous**热闹的;**cranky**暴躁的;**silliness**愚蠢;
+		6. happiness
+		7. happily
+	8. mishap
 		1. mis-坏的，错的，不好的 + hap-机会，运气 → 坏运气。
 		2. [bad luck](dic://bad luck), [mischance](dic://mischance)
 		3.  [misadventure](dic://misadventure), [mischance](dic://mischance)
@@ -6629,7 +6645,7 @@
 		5. _[mishaps](dic://mishaps)_  n. 灾祸（mishap的复数）
 		6. _[without mishap](dic://without%20mishap)_  无事故; 没有发生意外;
 		7. **accident**事故;**incident**事件，事变;**malfunction**故障;**blunder**的错误;**fiasco**惨败;**accidental**意外的;**unfortunate**不幸的;**unforeseen**未预见到的, 意料之外的;**disaster**不幸;**debacle**崩溃;**accidentally**偶然地;
-	8. perhaps
+	9. perhaps
 		1. per-全部 + haps-机会 → 全是机会[决定] → 也许。
 
 
@@ -6703,6 +6719,9 @@
 		1. _adj._ [nasty](dic://nasty), [awful](dic://awful)
 		2. _n._ [nice](dic://nice)
 		3. **dodgy**狡猾的，逃避的;**seedy**多种子的;**filthy**污秽的;**smelly**有臭味的，发臭的;**posh**漂亮的;**drab**单调的;**dreary**沉闷的，枯燥的;**dilapidated**破旧的;**shabby**破旧的;**ghastly**可怕的;**damp**使潮湿;
+		4. if the person feels very grotty, it is probably true influenza /如果那个人觉得很难受，可能的确是流感。
+		5. She lives in a **grotty** little room with nowhere to cook. /她住在一间龌龊的斗室内，连做饭的地方都没有。
+		6. On particularly **grotty** days, all traffic could be barred from certain parts of the city centre /当交通拥堵的时候，所有车辆将被限制进入部分市中心区域。
 	11. grotesque
 		1. n. 奇异风格, 怪异图案  
 		2. a. 怪诞的, 荒唐的; 丑陋奇异的, 奇形怪状的
@@ -6721,56 +6740,85 @@
 ### + \*krei- + = to sieve; discriminate, distinguish
 1. **cern-, cert-, cret-, crimin-** = sure, separate, 表示“搞清，区别，分开”。源自拉丁语 cernere "to sift, separate, decide."
 	1. certain
-		1. uncertain
+		1. _adj._ [definite](dic://definite), [indisputable](dic://indisputable), [sure](dic://sure), [sure as shooting](dic://sure as shooting)
+		2. _n._ [indefinite](dic://indefinite), [uncertain](dic://uncertain), [unreliable](dic://unreliable), [undependable](dic://undependable), [careless](dic://careless)
+		3. **specific**特殊的，特定的;**some**一些;**particular**特定的;**all**全部的;**those**那些的;**such**这样的，如此的;**many**许多;**these**这些;**that**那;**same**相同的;**precisely**精确地;
+		4. uncertain
 			1. uncertainty
 			2. uncertainly
-		2. certainty
-		3. certainly
-		4. ascertain
-			1. unascertained
-			2. unascertainable
-			3. ascertainment
-			4. ascertainable
-	2. certes
-	3. certify
-		1. uncertified
-		2. decertify
-		3. certifier
-		4. certified
-		5. certificate
+		5. certainty
+		6. certainly
+		7. ascertain
+			1. as-加强 + certain【确信】 → 非常确信 → 确定。
+			2. vt. 确定, 查明
+			3. unascertained
+			4. unascertainable
+			5. ascertainment
+			6. ascertainable
+	3. certes
+	4. certify
+		1. cert-确定 + -ify, 表动词。
+		2. uncertified
+		3. decertify
+		4. certifier
+		5. certified
+		6. certificate
 			1. uncertificated
 			2. certification
 			3. certificated
-		6. certifiably
-		7. certifiable
-	4. certiorari
-	5. certitude, incertitude
-	6. concern
+		7. certifiably
+		8. certifiable
+	6. certiorari
+	7. certitude
+		1. n. 确实性, 确信
+		2. incertitude
+	9. concern
 		1. unconcern, unconcerned
 		2. self-concern
 		3. concernment
 		4. concerning
 		5. concerned, concernedly
-	7. concert
-		1. concertino
-		2. concerto
+	10. concert
+		1. n. 音乐会; 和谐, 一致; 联合行动  
+		2. v. 共同协定, 协力, 协调, 协同行动
+		3. con-,表强调，-cert,唱，词源同 chant,cantor.字母 n 被 r 化。即一起唱歌，音乐会。
+		4. _n._ [performance](dic://performance), [public presentation](dic://public presentation)
+		5. _v._ [plan](dic://plan), [project](dic://project), [contrive](dic://contrive), [design](dic://design), [settle](dic://settle), [square off](dic://square off), [square up](dic://square up)
+		6. **recital**背诵;**sold-out**全部预售完的;**gig**特约演奏;**festival**节日;**orchestra**管弦乐队;**venue**聚集地点;**music**音乐，乐曲;**tour**旅游，旅行;**symphony**交响乐;**rehearsal**练习, 排练, 排演;**encore**再演唱的要求;
+		7. _in concert_ 一致；齐声
+		8. _concert hall_ 音乐厅
+		9. _in concert with_ 和…相呼应；与…合作；和…一致
+		10. _go to the concert_ 去听音乐会，去参加音乐会
+		11. _solo concert_ 个人演唱会
+		12. _concert tour_ n. 演奏旅行
+		13. concertino
+		14. concerto
 			1. **symphony**交响乐;**Brahms**布拉姆斯;**violin**小提琴;**orchestral**管弦乐队的;**orchestra**管弦乐队;**cello**大提琴;**oboe**双簧管;**Beethoven**贝多芬;**Tchaikovsky**柴可夫斯基(俄国作曲家;**clarinet**单簧管;**soloist**独唱者;
 			2. [classical music](dic://classical music), [classical](dic://classical), [serious music](dic://serious music)
-		3. preconcert
+		15. preconcert
 			1. 预先商洽；预先安排; adj. （演出或音乐会）即将开始前的;
-		4. disconcert, disconcerted
-			1. disconcerting, disconcertingly
-			2. **frighten**使惊吓;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**annoy**骚扰;**embarrass**使窘迫;**excite**刺激…，使…兴奋;**provoke**激怒;**astonishment**惊讶, 惊奇;**countenance**面容，表情;**apprehension**理解;
-			3. [embarrass](dic://embarrass), [abash](dic://abash), [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke)
-			4. disconcertment
+		16. disconcert
+			1. (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert)
+			2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
+			3. 1. _vt._ 使不安,使为难 使慌张,使窘迫
+			4. **frighten**使惊吓;**amuse**使发笑;**arouse**引起;**frustrate**使不成功, 挫败, 阻止;**annoy**骚扰;**embarrass**使窘迫;**excite**刺激…，使…兴奋;**provoke**激怒;**astonishment**惊讶, 惊奇;**countenance**面容，表情;**apprehension**理解;
+			5. [embarrass](dic://embarrass), [abash](dic://abash), [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke)
+			6. To disrupt the composure of; **disconcer** /打扰打乱…的安静；
+			7. “No—I—of course not, ” said Harry, disconcerted by this sudden change of subject /“不—我—当然不介意，”哈利说，被这突然改变的话题弄得不知所措。
+			8. It disconcerted me, but I did my best not to show it. /我被他这种态度搞得心慌意乱，但是我尽量掩盖着自己。
+			9. She looked around at all the faces upturned to her, rather disconcerted. /她看看一张张仰望着她的面孔，有些发窘。
+			10. And it was just that which had most disconcerted me in my dealings with him. /在我同他打交道的时候，正是这一点使我狼狈不堪。
+			11. disconcerted
+			12. disconcerting, disconcertingly
+			13. disconcertment
 				1. 仓皇失措
-		5. concertmaster
-		6. concertize
+		18. concertmaster
+		19. concertize
 			1. **soloist**独唱者;**rehearse**排练;**pianist**钢琴家;**cellist**大提琴演奏家;**violin**小提琴;**concerto**协奏曲;**recital**背诵;
-		7. concertgoer
-		8. concerted
-	8. decretal, decretive
-	9. discern
+		20. concertgoer
+		21. concerted
+	16. decretal, decretive
+	17. discern
 		1. **distinguish**辨别, 区别;**ascertain**弄清, 确定, 查明;**decipher**译解;**perceive**察觉，感觉;**identify**识别;**comprehend**理解, 领会;**interpret**解释;**determine**决定;**detect**发现;**differentiate**区分;**recognize**承认;
 		2. undiscerning
 		3. discernment
@@ -6796,33 +6844,58 @@
 			18. indiscernible
 				1. **indistinguishable**难区分的,不能分辨的;**unintelligible**不可能理解的;**discernible**可识别的;**distinguishable**可区别的,可辨别的;**incomprehensible**费解的;**faintly**微弱地;**invisible**看不见的;**obscured**遮蔽的;**visible**明显的;**muffled**听不清的;**unseen**看不见的，未看见的;
 				2. [imperceptible](dic://imperceptible), [unperceivable](dic://unperceivable)
-	10. discrete
+	18. discrete
 		1. **discreet**小心的;**linear**线的，线型的;**homogeneous**同性质的, 同类的;**distinct**清楚的;**finite**有限的;**nonlinear**非线性的;**well-defined**清晰可辨的;**deterministic**确定的;**separate**使分离;**non-linear**非线性的;**continuous**连续的;
 		2. indiscrete
 		3. discretization
 		4. discreteness
 		5. discretely
-	11. discriminate
-		1. undiscriminating
-		2. indiscriminate
+	19. discriminate
+		1. (dissimilar, disparate, heterogeneous, difference, deviation, divergence, departure, discrepancy, distinction, discrimination, disparity, asymmetry, inconsistency, variance )
+		2. - v. 区分，辨别；歧视，区别对待
+		3. dis-分开 + crimin-区分 + -ate → 区别对待 → 歧视。
+		4. dis-,分开，散开，-crim,区分，词源同 crime,crisis.即区分开，区别对待，歧视。
+		5. _v._ [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secern](dic://secern), [secernate](dic://secernate), [severalize](dic://severalize), [severalise](dic://severalise)
+		6. _adj._ [discriminating](dic://discriminating)
+		7. _n._ [indiscriminate](dic://indiscriminate), [undiscriminating](dic://undiscriminating), [indiscriminating](dic://indiscriminating)
+		8. [discern](dic://discern) 语义较笼统，着重精深与准确的观察力，不一定有能分辨关系密切的各项事物的含义。   
+		9. [discriminate](dic://discriminate) 语气强，指从十分相似的事物中辨出差异，尤其把好坏区分开来。  
+		10. [distinguish](dic://distinguish) 普通用词，指辨别者的能力或实际观察到的区别，强调辨别所需的技巧。
+		11. **discriminatory**有识别力的;**classify**分类;**differentiate**区分;**distinguish**辨别, 区别;**prohibit**阻止，禁止;**exclude**排除;**prejudiced**怀偏见的;**offend**冒犯;**detect**发现;**violate**违反;**deny**否定，否认;
+		12. _discriminate against_ 歧视；排斥
+		13. It is unjust and unlawful to discriminate against people of other races. /歧视外族人是不公正的, 也是违法的。
+		14. features that discriminate this species from other gastropods. /使这个种类与其他腹足动物相区别的特点。
+		15. "When you come to a composition, you must try to discriminate between facts and opinions." /写作文时你要设法把事实和看法区别开来。
+		16. The judge wrote that the executive order, quote, discriminates based on nationality. /这名法官裁定，新版行政令是基于国籍的歧视。
+		17. Otherwise, you're just discriminating against me 'cause I'm poor now. /还是说我现在没钱了，你看不起我？
+		18. 
+		19. undiscriminating
+		20. indiscriminate
 			1. [undiscriminating](dic://undiscriminating), [indiscriminating](dic://indiscriminating), [promiscuous](dic://promiscuous), [sweeping](dic://sweeping), [wholesale](dic://wholesale)
 			2. **arbitrary**随意的, 主观的;**senseless**无感觉的;**gratuitous**不必要的, 未要求的;**unwarranted**没有根据的, 无正当理由的;**excessive**过度的, 过分的;**selective**精心选择的;**uncontrolled**不受抑制的;**exhaustive**全面的, 彻底的, 透彻的;**unjustified**不公正的;**encyclopedic**百科全书般的;**disproportionate**不成比例的;
-		3. discriminator
-		4. discriminative
-		5. discrimination
-		6. discriminating
-		7. discriminately
-		8. discriminated
-	12. excrete
-		1. excrement
-		2. excretory
-		3. excretive
-		4. excretion
-		5. excretin
-		6. excreter
-		7. excreta
-	13. navicert
-	14. discreet
+		21. discriminator
+		22. discriminative
+		23. discrimination
+		24. discriminating
+		25. discriminately
+		26. discriminated
+	21. excrete
+		1. _vt._ 排除，排泄；分泌，排出
+		2. _adj._ 排泄的，分泌的；促进排泄的
+		3. [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
+		4. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+		5. **ingest**咽下;**feces**排泄物;**toxins**毒素，毒质;**absorb**吸收;**consume**消耗，消费;**accumulate**堆积;**urine**尿;**fecal**排泄物的;**assimilate**吸收, 消化;**eat**吃，喝;**expel**驱逐;
+		6. Phosphoric acid also causes excess calcium to be excreted in urine. /磷酸还会导致过量的钙在尿液中排出。
+		7. Infected poultry **excrete** virus in their secretions and faeces /受感染家禽将病毒分泌或排泄到它们的唾液或粪便中。
+		8. excrement
+		9. excretory
+		10. excretive
+		11. excretion
+		12. excretin
+		13. excreter
+		14. excreta
+	23. navicert
+	24. discreet
 		1. indiscreet, indiscreetly
 		2. discretion
 			1. _n._ [liberty](dic://liberty), [sagacity](dic://sagacity), [sagaciousness](dic://sagaciousness), [judgment](dic://judgment), [judgement](dic://judgement), [discernment](dic://discernment), [taste](dic://taste)
@@ -6833,56 +6906,65 @@
 			6. _with discretion_ adv. 慎重地；谨慎地
 			7. _at discretion_ adv. 随意；任意
 			8. indiscretion
-				1. [injudiciousness](dic://injudiciousness)
-				2.  [peccadillo](dic://peccadillo)
-				3. _n._ [folly](dic://folly), [foolishness](dic://foolishness), [unwiseness](dic://unwiseness), [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
-				4. **transgression**犯罪;**blunder**的错误;**scandalous**令人反感的;**embarrassment**困窘;**careless**粗心的;**egregious**极坏的;**infidelity**不信神;**scandal**丑闻;**indulgence**放纵;**shameful**可耻的;**disgrace**耻辱;
-				5. _[commit an indiscretion](dic://commit%20an%20indiscretion)_ 翻译
-				6. _[Indiscretion Joke](dic://Indiscretion%20Joke)_ 爆笑口误
-				7. _[a youthful indiscretion](dic://a%20youthful%20indiscretion)_ 所以不谨慎
-				8. _[referred to my indiscretion](dic://referred%20to%20my%20indiscretion)_ 归因于我的不慎重
-				9. _[Indiscretion of an American Wife](dic://Indiscretion%20of%20an%20American%20Wife)_ 终站
-			9. discretionary
-			10. discretional
+				1. (impudence, unscrupulous, indiscretion, )
+				2. [injudiciousness](dic://injudiciousness)
+				3.  [peccadillo](dic://peccadillo)
+				4. _n._ [folly](dic://folly), [foolishness](dic://foolishness), [unwiseness](dic://unwiseness), [misbehavior](dic://misbehavior), [misbehaviour](dic://misbehaviour), [misdeed](dic://misdeed)
+				5. **transgression**犯罪;**blunder**的错误;**scandalous**令人反感的;**embarrassment**困窘;**careless**粗心的;**egregious**极坏的;**infidelity**不信神;**scandal**丑闻;**indulgence**放纵;**shameful**可耻的;**disgrace**耻辱;
+				6. _[commit an indiscretion](dic://commit%20an%20indiscretion)_ 翻译
+				7. _[Indiscretion Joke](dic://Indiscretion%20Joke)_ 爆笑口误
+				8. _[a youthful indiscretion](dic://a%20youthful%20indiscretion)_ 所以不谨慎
+				9. _[referred to my indiscretion](dic://referred%20to%20my%20indiscretion)_ 归因于我的不慎重
+				10. _[Indiscretion of an American Wife](dic://Indiscretion%20of%20an%20American%20Wife)_ 终站
+			10. discretionary
+			11. discretional
 		4. discreetly
-	15. secern, sesernent
+	25. secern, sesernent
 		1.  [distinguish](dic://distinguish), [separate](dic://separate), [differentiate](dic://differentiate), [secernate](dic://secernate), [severalize](dic://severalize), [severalise](dic://severalise), [tell](dic://tell), [tell apart](dic://tell apart)
-	16. secrete
+	26. secrete
 		1. **glands**腺体;**cytokines**细胞活素类;**gland**腺;**infiltrate**渗透;**extracellular**细胞外的;**emit**发出，放射;
 		2. secretaire
 		3. secretary
-			1. undersecretary
-			2. secretarygeneral
-			3. secretariat
-			4. secretarial
-		4. top-secret
-		5. supersecret
-		6. secretory
-		7. secretor
-		8. secretomotory
-		9. secretomotor
-		10. secretogogue
-		11. secretive
-		12. secretly
-		13. secretion
-		14. secretin
-		15. secretase
-		16. secreta
-		17. etc..
-	17. secret
+			1. n. 秘书, 书记, 大臣
+			2. secretary（秘书）：协助处理私密事务的人  
+			3. 英语单词secretary和secret（秘密）同源，都来自拉丁语secretum（秘密），其核心含义也与“秘密”有关。secretary一词于14世纪进入英语时，最初的含义是“委托机密的人”。15世纪时，secretary被用来表示一种职务，其职责是负责为重要人士如国王处理机密事务，最初仅仅是国王身边的仆人，后来演变为大臣。现在，secretary一词除了表示“秘书”外，还可以表示“部长”、“书记”等高级职位，如Secretary of State指的是美国的“国务卿”， Secretary General指的是联合国秘书长，General Secretary指的是中国共产党的总书记。  
+			4. secretary：['sɛkrətɛrɪ] n.秘书，书记，部长，大臣  
+			5. secretarial：['sɛkrə'tɛrɪəl] adj. 秘书的；书记的；部长的  
+			6. secretariat：[,sɛkrə'tɛəræt] n. 秘书处；书记处；秘书（书记，部长等）之职  
+			7. secret：['sikrɪt] n.秘密，机密adj.秘密的
+			8. undersecretary
+			9. secretarygeneral
+			10. secretariat
+			11. secretarial
+		9. top-secret
+		10. supersecret
+		11. secretory
+		12. secretor
+		13. secretomotory
+		14. secretomotor
+		15. secretogogue
+		16. secretive
+		17. secretly
+		18. secretion
+		19. secretin
+		20. secretase
+		21. secreta
+		22. etc..
+	32. secret
 		1. secrecy
-2. **cren-** = notch, 表示“槽口”。
+7. **cren-** = notch, 表示“槽口”。
 	1. cranny, crannied
-		1. [crevice](dic://crevice), [crack](dic://crack), [fissure](dic://fissure), [chap](dic://chap)
-		2. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [hole](dic://hole)
-		3. **nook**角落;**every**每一的，每个的;
-		4. _[layer cranny](dic://layer%20cranny)_ 离层裂隙
-		5. _[through cranny](dic://through%20cranny)_ 贯通裂缝
-		6. _[Every nook and cranny](dic://Every%20nook%20and%20cranny)_ 每个地方; 到处; 每一个角落; 
-		7. _[filling every nook and cranny](dic://filling%20every%20nook%20and%20cranny)_ 满坑满谷
-		8. _[cranny lamp microscope optical illusion](dic://cranny%20lamp%20microscope%20optical%20illusion)_ 光幻觉
-		9. _[every nook and every cranny](dic://every%20nook%20and%20every%20cranny)_ 所有缝隙
-	2. crenate
+		1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, )
+		2. [crevice](dic://crevice), [crack](dic://crack), [fissure](dic://fissure), [chap](dic://chap)
+		3. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint), [hole](dic://hole)
+		4. **nook**角落;**every**每一的，每个的;
+		5. _[layer cranny](dic://layer%20cranny)_ 离层裂隙
+		6. _[through cranny](dic://through%20cranny)_ 贯通裂缝
+		7. _[Every nook and cranny](dic://Every%20nook%20and%20cranny)_ 每个地方; 到处; 每一个角落; 
+		8. _[filling every nook and cranny](dic://filling%20every%20nook%20and%20cranny)_ 满坑满谷
+		9. _[cranny lamp microscope optical illusion](dic://cranny%20lamp%20microscope%20optical%20illusion)_ 光幻觉
+		10. _[every nook and every cranny](dic://every%20nook%20and%20every%20cranny)_ 所有缝隙
+	3. crenate
 		1. _adj._ [rough](dic://rough)
 		2. _n._ [smooth](dic://smooth)
 		3. **apical**顶上的, 顶点的;**elongate**拉长;**whitish**带白色的;**basal**基础的;**elongated**细长的;**yellowish**微黄色的;**concave**凹的，凹面的;**fleshy**肉的;**costa**肋骨;**shrub**灌木;**scalloped**有圆齿的;
@@ -6893,20 +6975,22 @@
 			1. n. 圆锯齿状
 		7. crenated
 	4. crenel
-		1. [scallop](dic://scallop), [crenation](dic://crenation), [crenature](dic://crenature), [crenelle](dic://crenelle)
-		2. [crenelle](dic://crenelle)
-		3. [crenelate](dic://crenelate), [crenellate](dic://crenellate)
-		4. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [space](dic://space)
-		5. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
-		6. **fortification**加强;**gable**山形墙;**fortified**加强的;**arched**有拱的;**nave**中殿;**fortifications**防御工事;**octagonal**八边形的;**fortress**要塞;
-		7. crenellation
-		8. crenellate
-		9. crenelation
-		10. crenelate
+		1. n. 雉堞上的凹处, 枪眼  
+		2. vt. 使...成雉堞状
+		3. [scallop](dic://scallop), [crenation](dic://crenation), [crenature](dic://crenature), [crenelle](dic://crenelle)
+		4. [crenelle](dic://crenelle)
+		5. [crenelate](dic://crenelate), [crenellate](dic://crenellate)
+		6. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [space](dic://space)
+		7. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		8. **fortification**加强;**gable**山形墙;**fortified**加强的;**arched**有拱的;**nave**中殿;**fortifications**防御工事;**octagonal**八边形的;**fortress**要塞;
+		9. crenellation
+		10. crenellate
+		11. crenelation
+		12. crenelate
 	6. crena
 		1. _[crena](dic://crena)_  n. [生物] 圆齿（叶缘）；裂缝，[生物] 裂隙
 	7. crenae
-3. **cribr-** = sieve, 表示“筛”。源自拉丁语 cribrum "sieve."
+8. **cribr-** = sieve, 表示“筛”。源自拉丁语 cribrum "sieve."
 	1. cribriform
 		1. _[cribriform](dic://cribriform)_  adj. （尤指筛骨板）筛状的，多孔的
 	2. cribral
@@ -6919,12 +7003,13 @@
 		1. precribrum
 		2. praecribrum
 		3. postcribrum
-5. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
+9. **crimin-** = crime, 表示“罪”，引申为“罪行、控诉”。源自拉丁语 crimen "judgment, crime."
 	1. crime
-		1. noncrime
-		2. crimeless
-		3. anticrime
-	2. criminal
+		1.  来自 PIE*krei,区分，筛选，词源同 crisis,discriminate.即区分出来的非法行为。
+		2. noncrime
+		3. crimeless
+		4. anticrime
+	3. criminal
 		1. supercriminal
 		2. noncriminal
 		3. criminaloid
@@ -6933,16 +7018,17 @@
 		6. criminality
 		7. criminalistics
 		8. arch-criminal
-	3. criminate
-		1. vt. 定罪；使负罪；责备
-		2. _v._ [charge](dic://charge), [accuse](dic://accuse), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
-		3. **prosecute**检举、告发某人;**confine**限制;**injure**伤害，损害;**habitually**习惯地;**compel**强迫，迫使;**betray**背叛;
-		4. And it is inadvisable to criminate the abettor separately by the aspect of legislation and judicature. /在个罪意义的立法和司法操作中也不宜于对教唆犯单独定罪。
-		5. To criminate the Monk, the constellated Mirror was produced, which Matilda had accidentally left in his chamber. /为了指控僧侣， 玛蒂尔达不小心将它留在了他的房间里， 制作了星座镜子。
-		6. While many indoor theft, it is very difficult to criminate those of larceny according to the above standard. /但很多入户盗窃行为，仅以以上标准难以对其进行定罪处罚。
-		7. recriminate
+	4. criminate
+		1. 
+		2. vt. 定罪；使负罪；责备
+		3. _v._ [charge](dic://charge), [accuse](dic://accuse), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		4. **prosecute**检举、告发某人;**confine**限制;**injure**伤害，损害;**habitually**习惯地;**compel**强迫，迫使;**betray**背叛;
+		5. And it is inadvisable to criminate the abettor separately by the aspect of legislation and judicature. /在个罪意义的立法和司法操作中也不宜于对教唆犯单独定罪。
+		6. To criminate the Monk, the constellated Mirror was produced, which Matilda had accidentally left in his chamber. /为了指控僧侣， 玛蒂尔达不小心将它留在了他的房间里， 制作了星座镜子。
+		7. While many indoor theft, it is very difficult to criminate those of larceny according to the above standard. /但很多入户盗窃行为，仅以以上标准难以对其进行定罪处罚。
+		8. recriminate
 			1. recriminative
-			2. recrimination
+			2. recrimination (recrimination, retribution, revenge, retaliation, )
 				1. n. 反责，反控；（互相）指责，批评（常复数）
 				2. _n._ [accusation](dic://accusation), [accusal](dic://accusal)
 				3. **resentment**愤恨,不满,怨恨;**animosity**憎恨, 仇恨, 敌意;**indignation**愤怒, 愤慨, 气愤;**mistrust**不信任;**hostility**敌意;**retribution**应得的惩罚或赔偿;**anger**怒，愤怒;**condemnation**谴责;**humiliation**丢脸，耻辱;**cynicism**犬儒主义;**hatred**憎恨;
@@ -6955,7 +7041,7 @@
 				10. Nico says, " What's done is done and I'm tired of blame and recriminations." /Nico 说：“事情已经过去了， 我已经厌倦了责备和相互指责。
 				11. But every now and then Nathan would disappear and we were left alone, sitting beside each other, the short distance between us jangling with unspoken recriminations /但内森时不时地会消失，我们被单独留下，坐在一起，我们之间的短暂距离与不言自明的指责。
 				12. Amid mutual suspicion and **recrimination** after a row about IRA spying at Stormont, the experiment in power-sharing broke down in October 2002 /在就爱尔兰共和军在斯托蒙特进行情报活动一事发生争执后，双方相互猜忌，彼此谴责。分权的尝试也因此于2002年10月宣告失败
-		8. incriminate
+		9. incriminate
 			1. _vt._ 使(某人)显得有罪, 牵连, 归罪于
 			2. _v._ [suggest](dic://suggest), [evoke](dic://evoke), [paint a picture](dic://paint a picture), [charge](dic://charge), [accuse](dic://accuse)
 			3. **embarrass**使窘迫;**prosecute**检举、告发某人;**discredit**败坏…的名声;**betray**背叛;**testify**作证;**prosecution**起诉, 诉讼;**accuse**控告，指控;**conceal**隐藏;**compel**强迫，迫使;**accomplice**从犯, 帮凶, 同谋;**intimidate**恐吓, 威胁;
@@ -6973,29 +7059,31 @@
 				3. **vengeful**复仇的，报复的;**caustic**腐蚀性的;**indignation**愤怒, 愤慨, 气愤;**hysterical**情绪异常激动的, 歇斯底里般的;**hostile**敌对的，敌方的;**uncivil**不文明的;**murderous**蓄意谋杀的;**antagonistic**敌对的;**vicious**恶的, 邪恶的;**cynical**愤世嫉俗的;**combative**好战的;
 				4. And they left the tent together, this pot-bellied man and florid woman, in the antipathetic, recriminatory mood of the average husband and wife of Christendom. /他们一起离开了帐篷， 这个大腹便便的男人和红润的女人， 怀着基督教世界普通夫妻那种反感、互相指责的心情。
 			3. discriminatory
-		12. criminative
-		13. crimination
-	5. criminological
-	6. criminologist
-	7. criminology
+		11. criminative
+		12. crimination
+	6. criminological
+	7. criminologist
+	8. criminology
 		1. _n._ [sociology](dic://sociology)
 		2. **sociology**社会学;**psychology**心理;**anthropology**人类学;**forensics**取证，法医学;**forensic**法院的;**jurisprudence**法学及其分支;**economics**经济学;**psychiatry**精神病学;**neuroscience**神经系统科学;**humanities**人文学科;**crime**罪行，犯罪;
 		3. The relationship between victimology and criminology is a longstanding issue within the academic realm. /摘要被害入学与犯罪学之间的关系问题是学界的一个宿疑。
 		4. You've just graduated from U.C. Santa Barbara with a degree in criminology. /你刚刚从加州大学圣巴巴拉分校获得犯罪学学位。
 		5. We saw this in criminology, in studies of policing, gang prevention and reentry. /我们在犯罪学、治安、帮派预防和重返社会的研究中看到了这一点。
 		6. But he is not overly sentimental, he writes about criminology, how the police deal with the media and the perverted beliefs behind the crimes /但他并没有过度感伤。他写到犯罪学，警察怎样与媒体周旋，怎样应对罪行背后扭曲的信仰。
-	8. criminous
+	9. criminous
 		1. adj. 犯了罪的；犯罪（性）的
-6. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
+10. **crin-, cris-** = 表示“分泌”。源自希腊语 krinein "to separate."
 	1. autocrine
 	2. crinophagy
 	3. eccrinology
 	4. endocrine
 	5. exocrine
+		1. a. 外分泌的
 	6. exocrinology
 	7. ichthyocrinotoxin
 	8. paracrine
-7. **crit-, cris-** = judge, discern, 表示“判断，分辨”。源自希腊语 krinein "to separate, decide, judge."
+		1. n. 旁分泌
+11. **crit-, cris-** = judge, discern, 表示“判断，分辨”。源自希腊语 krinein "to separate, decide, judge."
 	1. crises, crisis
 		1. urocrisis
 		2. pseudocrisis
@@ -7040,7 +7128,7 @@
 		3. [declare](dic://declare), [decide](dic://decide), [make up one's mind](dic://make up one's mind), [determine](dic://determine)
 	7. hematocrit
 	8. lactocrite
-8. **incret-** = 表示“内分泌”，由 in- + cret- 组成。源自希腊语 krinein "to separate."
+12. **incret-** = 表示“内分泌”，由 in- + cret- 组成。源自希腊语 krinein "to separate."
 	1. incretion
 		1. **gland excite incretion**:  腺体兴奋激素；腺体愉快激素
 		2. **incretion disorder**:  内分泌失调
@@ -7048,7 +7136,7 @@
 	3. anincretinosis
 	4. incretin
 	5. incretodiagnosis
-9. garble
+13. garble
 	1. garble - 该词源出原义为sift（筛）的阿拉伯语gharbala，很可能是通过香料贸易于15世纪末取道意大利语（作garbellare）和法语（作garbeler）进入英语之中的。英国同东方进行香料贸易之后，在伦敦城里随之出现了所谓garbler of spices（香料筛选员）的政府公务员，他们进出商店、仓库等地，检查香料，并将其杂质筛去。可见，garble在英语中的原始词义也是“筛选”。到了17世纪它才开始蒙上贬义，表示“使混乱不清”、“歪曲”和“使错乱”等，在现代英语中常以过去分词形式出现，作形容词用。
 	2. [falsify](dic://falsify), [distort](dic://distort), [warp](dic://warp)
 	3. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie)
@@ -7064,21 +7152,22 @@
 		6. _[garbled message](dic://garbled%20message)_ 错乱讯息; 翻译; 
 		7. _[circuit garbling](dic://circuit%20garbling)_ 线路干扰; 线路干扰英语; 
 		8. _[garble elucidate](dic://garble%20elucidate)_ 曲解
-10. riddle
-	1. n. 谜语；谜一般的人（或事）；（筛分土石的）粗筛 
-	2. v. 猜（某人）出的（谜），为（某人）解（谜）；<古> 打谜语般地说，出谜；把……打得满是窟窿；（尤指令人不快之事）充斥，布满；用粗筛筛；摇动（炉栅）使灰落下
-	3. [conundrum](dic://conundrum), [enigma](dic://enigma), [brain-teaser](dic://brain-teaser)
-	4. [permeate](dic://permeate), [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue)
-	5. _n._ [problem](dic://problem), [sieve](dic://sieve), [screen](dic://screen)
-	6. _v._ [pierce](dic://pierce), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify)
-	7. waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
-	8. **puzzle**使…困惑;**mystery**神秘，秘密;**conundrum**谜,猜不透的难题,难答的问题;**enigma**谜，不可思议的东西;**puzzles**智力游戏;**solve**解决;**mysteries**古代的秘密宗教仪式;**puzzling**使莫明其妙的;**answer**符合;**paradox**悖论;**solving**解决办法;
-	9. riddle a target with bullets /用子弹把耙子打成蜂窝似的
-	10. This ladder is riddled with woodworm. /这个梯子已经让蛀虫蛀了很多洞.
-	11. I'll riddle you with bullets! /我要用子弹把你打得尽是窟窿。
-	12. a riddle that haunted me all morning /一个困扰我整个上午的谜语
-	13. Russia is a riddle wrapped in a mystery inside an enigma /俄罗斯是被包藏在一个闷葫芦里面的神秘物体之中的谜。
-	14. Her typing was slow and riddled with mistakes. /她打字打得慢不说，还老出错。
+14. riddle
+	1. waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
+	2. n. 谜语；谜一般的人（或事）；（筛分土石的）粗筛 
+	3. v. 猜（某人）出的（谜），为（某人）解（谜）；<古> 打谜语般地说，出谜；把……打得满是窟窿；（尤指令人不快之事）充斥，布满；用粗筛筛；摇动（炉栅）使灰落下
+	4. [conundrum](dic://conundrum), [enigma](dic://enigma), [brain-teaser](dic://brain-teaser)
+	5. [permeate](dic://permeate), [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue)
+	6. _n._ [problem](dic://problem), [sieve](dic://sieve), [screen](dic://screen)
+	7. _v._ [pierce](dic://pierce), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify)
+	8. 
+	9. **puzzle**使…困惑;**mystery**神秘，秘密;**conundrum**谜,猜不透的难题,难答的问题;**enigma**谜，不可思议的东西;**puzzles**智力游戏;**solve**解决;**mysteries**古代的秘密宗教仪式;**puzzling**使莫明其妙的;**answer**符合;**paradox**悖论;**solving**解决办法;
+	10. riddle a target with bullets /用子弹把耙子打成蜂窝似的
+	11. This ladder is riddled with woodworm. /这个梯子已经让蛀虫蛀了很多洞.
+	12. I'll riddle you with bullets! /我要用子弹把你打得尽是窟窿。
+	13. a riddle that haunted me all morning /一个困扰我整个上午的谜语
+	14. Russia is a riddle wrapped in a mystery inside an enigma /俄罗斯是被包藏在一个闷葫芦里面的神秘物体之中的谜。
+	15. Her typing was slow and riddled with mistakes. /她打字打得慢不说，还老出错。
 
 
 ### ⭐ + \*kre-no- + = grain
@@ -7118,20 +7207,51 @@
 		3. granular
 	9. pomegranate
 	10. garner
-	11. granola
+		1. vt. 获得；储存；把……储入谷仓 
+		2. n. 谷仓
+		3. n. 谷仓, 积蓄  vt. 储存, 贮藏
+		4. [earn](dic://earn)
+		5. [gather](dic://gather), [collect](dic://collect), [pull together](dic://pull together)
+		6. _n._ [storehouse](dic://storehouse), [depot](dic://depot), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store)
+		7. _v._ [get](dic://get), [acquire](dic://acquire), [store](dic://store)
+		8. **attract**吸引;**elicit**引出, 探出;**generate**使形成;**solicit**恳求, 请求, 乞求;**notoriety**臭名昭著;**incite**煽动;**earn**获得，挣得;**acclaim**称赞;**gain**收获;**entice**诱使;**clout**破布;
+		9. By Monday afternoon, the article garnered more than 4,000 reader comments. /截至周一下午，这篇文章已收到4000余名读者评论。
+		10. The spacecraft didn't reach high enough to garner worldwide fame. /这艘宇宙飞船没有飞到足以享誉世界的高度。
+		11. But Madison in particular seems to garner more ire every year. /但这似乎每年都会招致更多的愤怒，尤其是“麦迪逊”这个名字。
+		12. In the economic realm this truism helps explain why surveys of consumer sentiment garner attention. /在经济领域，这一不言而喻的道理解释了为什么消费者情绪调查会受到关注。
+	13. granola
 		1. **oatmeal**燕麦粥;**yogurt**酸奶酪，酸乳;**cereal**谷类食品;**brownies**棕斑;**oats**燕麦;**snack**小吃，快餐;**quinoa**藜麦;**smoothie**举止优雅的人;**oat**燕麦;**almonds**杏仁;**applesauce**苹果酱;
-	12. grenade
-	13. pomegranate
-	14. 
-	15. granulocytic
-	16. granulosum
-	17. granulpoiesis
-	18. granulysin
-	19. granzyme
-	20. etc...
-3. einkorn
-4. garnet
-5. kernel
+	14. grenade
+		1. grenade - 古罗马人把热带水果石榴称作pōmum grānātum，字面义为“多籽果”（seedy apple），古法语作pome grenate，英语名称pomegranate就是借自法语的。以后法语pome grenate简缩为grenate，受西班牙语对应词granada的影响，grenate又演变为grenade，英语把grenade吸收了过来，因此pomegranate和grenade一度是同义词，同指“石榴”。16世纪末，一种小型弹即手榴弹问世了，因它形似石榴，故也称grenade。该词获得新义后，便和pomegranate分道扬镳，其原义渐渐丧失，而pomegranate则仍指“石榴”。到了17世纪，从grenade衍生出了grenadier（掷弹手）一词，1661年又出现了复合词hand grenade，进一步说明grenade是手投的。然而，只是在250多年后，即到了第一次世界大战手榴弹被大量用于堑壕战时，grenade才成了一个常用词。20世纪20年代芝加哥匪徒曾把grenade叫做pineapple（菠萝），而德国人在第一次世界大战期间所用的一端扁平另一端有柄的grenade则被称为potato masher，因为它的形状颇似熟洋芋捣烂器。
+		2. 
+	15. pomegranate
+		1. 1.pomegranate（石榴）：有许多颗粒的水果  
+			1. 英语单词pomegranate（石榴）来自拉丁语pomum granatum，字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。  
+			2. pomegranate：['pɒmɪgrænɪt] n.石榴  
+			3. grain： [ɡren] n. 粮食；谷物；颗粒；纹理v. （使）成谷粒  
+			4. engrain：[ɪn'ɡreɪn] vt. 使根深蒂固；把…染成木纹色adj. 根深蒂固的  
+			5. granulate：['grænjə,let] v.（使）成颗粒状；（使）表面变粗糙  
+			6. granite： ['grænɪt] n. 花岗岩  
+		2. 2.grenade（手榴弹）：状若石榴的炸弹  
+			1. 英语单词grenade（手榴弹）来自英语中表示“石榴”的单词pomegranate。之所以得此名称是因为早期的手榴弹形状很像石榴，而且里面填充的大量杀伤性碎片很像石榴里面的石榴籽。它的中文名称“手榴弹”中的“榴”指的就是“石榴”。  
+			2. grenade：[grə'neɪd] n.手榴弹，手雷vt.扔手榴弹  
+			3. grenadier：[,ɡrɛnə'dɪr] n. 掷弹兵  
+			4. pomegranate：['pɑmɪɡrænɪt] n. 石榴
+	16. granulocytic
+	17. granulosum
+	18. granulpoiesis
+	19. granulysin
+	20. granzyme
+	21. etc...
+4. einkorn
+5. garnet
+	1. n. 石榴石, 深红色
+	2. 来自 pomegranate 的缩写词。因形似石榴籽而得名。
+	3. _n._ [mineral](dic://mineral), [transparent gem](dic://transparent gem)
+	4. **ruby**红宝石;**gemstone**宝石;**sapphire**蓝宝石;**amber**琥珀色的;**turquoise**绿松石;**opal**猫眼石，蛋白石;**jade**碧玉;**emerald**绿宝石，翡翠;**diamond**钻石，金刚石;**violet**紫罗兰;**cobalt**钴;
+	5. Apart from magnetite and almandine garnet, the skarn also contains these minerals: idocrase, actinolite, epidote, fluorite and andradite (another garnet mineral). /主要构成矿物除磁铁矿和铁铝榴石外，矽卡岩尚有其他矿物如符山石，阳起石，绿帘石，萤石及钙铁榴石。
+	6. I'm holding 20 million worth of blue garnets in my hand. /我手上拿着价值两千万的蓝榴石。
+6. kernel
 
 
 ### + \*kreue- +
@@ -7151,55 +7271,103 @@
 		2. cruelness
 		3. cruelly
 	4. recrudesce
-		1. _v._ [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
-		2. _[recrudesce](dic://recrudesce)_  v. （疾病、麻烦等）复发
-		3. recrudescent
-		4. recrudescence
+		1. re-再 + crud-生的，原始的 + -esce
+		2. - 来自拉丁语 recrudescere,伤口再次裂开，re-,再，重新，crude,原始的，粗糙的。比喻用法，即回到原来的状态，引申词义复发。-esce,表起始。
+		3. vi. 复发, 再发作, 再爆发
+		4. _v._ [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+		5. _[recrudesce](dic://recrudesce)_  v. （疾病、麻烦等）复发
+		6. Or the case that tumor **recrudesce** produces after art /或术后发生肿瘤复发的病例。
+		7. recrudescent
+		8. recrudescence
 			1. _n._ [outbreak](dic://outbreak), [eruption](dic://eruption), [irruption](dic://irruption)
 			2. **recurrence**复发;**symptomatic**症状的;**concomitant**相伴的;**reversion**恢复,复原;**relapse**再度堕落;**eradication**根除;**emergence**出现;**infection**传染;**virulent**剧毒的;**resurgence**复苏;**manifestation**显示;
-	5. ecru
+	6. ecru
 3. **pancreas-, pancreat-** 表示“胰腺”。pan（全部） + creas（肉），字面含义“全部是肉”。源自希腊语 kreas "flesh."
 	1. pancreas
-	2. pancreatic
-	3. pancreatin
-	4. pancreatitis
-	5. cholangiopancreatography
+		1. pan-全部，所有 + -creas肉，因胰腺全部由肉组成而得名。
+		2. _n._ [exocrine gland](dic://exocrine gland), [exocrine](dic://exocrine), [duct gland](dic://duct gland)
+		3. **pancreatic**胰腺的;**liver**肝脏;**kidneys**肾脏;**intestine**肠;**gallbladder**胆囊;**insulin**胰岛素;**pituitary**垂体;**kidney**腰子;**thyroid**甲状腺;**tumor**肿瘤;**ovary**子房;
+		4. _pancreas islet_ 胰岛
+		5. There is little connective in the peripheryof the pancreas islet,so endocrine portion contacts suff. /胰岛外周仅有极少量的结缔组织，致使内、外分泌部得以充分密切地接触。
+		6. Eating all day long overtaxes our pancreas and our digestive system. /整日进食会对我们的胰脏以及消化系统带来额外的负担。
+	3. pancreatic
+	4. pancreatin
+	5. pancreatitis
+	6. cholangiopancreatography
 4. caruncle
 5. raw
+	1. caruncle ['kærəŋk(ə)l; kə'rʌŋ-] n.[植]种阜；[鸟]肉冠；肉垂。拉丁词根carun-表示（血淋淋的）肉，与日耳曼词源的raw [rɔː] adj.生的；未加工的，同源，后缀-cle指小，所以caruncle就是“a little piece of flesh”。江湖派一些，汽车（car）里坐着一大叔（uncle），而且是个胖（肉）大叔。 ​​​​
+	2.  来自古英语 hreaw,未煮的，生的，来自 Proto-Germanic*khrawaz,生的，来自 PIE*kreue,带血的肉，生肉，词源同 crude,cruel,pancreas.引申诸多相关词义。
+	3. rawish
+	4. rawness
+	5. rawhide
+	6. rawboned
 
 
 ### + \*kreus- +
 1. **cru-, crust-** = hard, hard outer surface, 表示“外壳、硬壳”，原指由冷冻形成的硬壳。源自拉丁语 crusta "crust."
 	1. crust
-		1. n. 外壳, 坚硬外皮, 面包皮  
-		2. vt. 盖以硬皮  
-		3. vi. 结硬皮
-		4. piecrust
-		5. encrust
+		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, truculent, uncomely, saucy, crust, cheekiness, freshness, gall)
+		2. n. 外壳, 坚硬外皮, 面包皮  
+		3. vt. 盖以硬皮  
+		4. vi. 结硬皮
+		5. upper crust上流社会。crust在这里特指面包皮，词根本意是“硬的”（因为面包皮更硬一些），与希腊词源的crystal水晶同源。同时因为面包皮的香味更浓些，所以对主食是面包的中世纪英国人来说，面包皮是要留给领主吃的。Much of this, however, maybenefit only a thin upper crust of Indian society. ​​​​
+		6. [incrustation](dic://incrustation), [encrustation](dic://encrustation)
+		7.  [gall](dic://gall), [impertinence](dic://impertinence), [impudence](dic://impudence), [insolence](dic://insolence), [cheekiness](dic://cheekiness), [freshness](dic://freshness)
+		8. _n._ [layer](dic://layer), [covering](dic://covering), [natural covering](dic://natural covering), [cover](dic://cover), [discourtesy](dic://discourtesy), [rudeness](dic://rudeness)
+		9. _v._ [change surface](dic://change surface)
+		10. **dough**生面团;**pie**馅饼;**crumb**面包屑，碎屑;**crumbly**脆的;**meringue**调合蛋白;**loaf**块;**pastry**油酥点心;**magma**岩浆;**tart**酸的;**pizza**比萨饼;**cheesecake**奶酪蛋糕;
+		11. _earth's crust_ 地壳
+		12. _continental crust_ 大陆地壳
+		13. _weathering crust_ 风化壳
+		14. _lower crust_ 下地壳；下部地壳
+		15. _earth crust_ 地壳
+		16. _upper crust_ 上流社会
+		17. _oceanic crust_ 海洋地壳，大洋地壳
+		18. _soil crust_ 土壤结皮；土结皮；土壤表壳
+		19. The pastry crust was always underdone /馅饼的壳皮常常烤得不透。
+		20. a sandwich with the crusts cut off. /切掉外皮的三明治。
+		21. a crusted establishment figure. /一位旧式权要人物。
+		22. The crust in western China is in the state of isostasy. /中国西部地壳处于地壳均衡状态。
+		23. rift valleys where the crust has been stretched and faulted. /地壳拉伸断裂的地堑。
+		24. The crust on the snow was thick enough for us to walk on it. /冻结的雪面够厚, 我们可以在上面行走。
+		25. Sheldon, you sure about this? - Yes, leave the crusts on. /谢尔顿，你确定吗？ - 确定，不要切边。
+		26. piecrust
+		27. encrust
 			1. vt. 包上外壳, 镶嵌外层  
 			2. vi. 结壳
-			3. encrusted
-		7. crusty
-			1. a. 有硬皮的, 易怒的; n. 脏皮士
-			2. [crusted](dic://crusted), [encrusted](dic://encrusted), [crustlike](dic://crustlike)
-			3. [curmudgeonly](dic://curmudgeonly), [gruff](dic://gruff), [ill-humored](dic://ill-humored), [ill-humoured](dic://ill-humoured)
-			4. _adj._ [covered](dic://covered), [ill-natured](dic://ill-natured)
-			5. _n._ [bare](dic://bare), [good-natured](dic://good-natured)
-			6. **flaky**薄片的;**gooey**感伤的;**crunchy**易碎的;**slimy**黏滑的;**crispy**易碎的;**soggy**浸水的;**smelly**有臭味的，发臭的;**stinky**发恶臭的;**buttery**谄媚的，奉承的;**greasy**油腻的;**buttered**涂奶油的;
-			7. _[crusty structure](dic://crusty%20structure)_  皮壳状构造
-			8. _[crusty bread](dic://crusty%20bread)_  硬皮面包
-			9. crusty bread /有硬皮的面包。
-			10. a crusty old Scots judge. /易怒的老苏格兰法官。
-			11. He's a crusty old gentleman who feeds stray dogs and cats. /他是个令人生畏的老绅士，常喂食离群的狗和猫。
-			12. Crusty old bastard's coming after you. /那暴躁的老头要搞你。
-			13. Just the idea leaves them " crusty" / 光是这个想法就让他们抓狂。
-			14. Give old Malba Toast some butter and tell her I'm crustier than she is. /给老马尔巴·吐司一些奶油，并告诉她我比她酥脆。
-			15. You know what will happen if you don't eat. You'll let all rotting and crusty /你知道如果你不吃会怎么样。你的身体会腐烂，你的脾气会更加暴躁。
-			16. The results are superb, a crusty fragrant berry pie, a creamy pumpkin pie and a spicy chocolate cake. /其结果是极好的，一个硬壳芬芳香甜浆果派，奶油南瓜派和一个辛辣巧克力蛋糕。
-			17. crustily
+			3.  [incrust](dic://incrust), [beset](dic://beset)
+			4. _v._ [coat](dic://coat), [surface](dic://surface), [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish)
+			5. **adorn**装饰;**crystals**晶体;**studded**布满颗粒，打上装饰钉;**glittering**闪闪发亮的;**embellish**美化;**jewels**珠宝;**pearls**珍珠;**fasten**扎牢;**scrape**用工具刮;**sequins**亮片;**sprinkle**洒;
+			6. the mussels encrust navigation buoys. /航标上附满了贻贝。
+			7. a scepter that is encrusted with diamonds; legalities that were encrusted with tradition. /镶嵌宝石的玉杖；约定俗成的义务
+			8. The emperor was clad in a rich robe encrusted with jewels. /皇帝身穿一件镶满宝石的华贵礼袍。
+			9. It's about yay big, encrusted in rubies? Hard to miss. /这是糖衣炮弹吧 不可错过哦。
+			10. A heart-shaped lace embellishment sat on top of the shoe, encrusted with sequins and pearls. /鞋子顶部饰有心形蕾丝装饰，上面镶嵌着亮片和珍珠。
+			11. encrusted
+		28. crusty
+			1.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert)
+			2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
+			3. a. 有硬皮的, 易怒的; n. 脏皮士
+			4. [crusted](dic://crusted), [encrusted](dic://encrusted), [crustlike](dic://crustlike)
+			5. [curmudgeonly](dic://curmudgeonly), [gruff](dic://gruff), [ill-humored](dic://ill-humored), [ill-humoured](dic://ill-humoured)
+			6. _adj._ [covered](dic://covered), [ill-natured](dic://ill-natured)
+			7. _n._ [bare](dic://bare), [good-natured](dic://good-natured)
+			8. **flaky**薄片的;**gooey**感伤的;**crunchy**易碎的;**slimy**黏滑的;**crispy**易碎的;**soggy**浸水的;**smelly**有臭味的，发臭的;**stinky**发恶臭的;**buttery**谄媚的，奉承的;**greasy**油腻的;**buttered**涂奶油的;
+			9. _[crusty structure](dic://crusty%20structure)_  皮壳状构造
+			10. _[crusty bread](dic://crusty%20bread)_  硬皮面包
+			11. crusty bread /有硬皮的面包。
+			12. a crusty old Scots judge. /易怒的老苏格兰法官。
+			13. He's a crusty old gentleman who feeds stray dogs and cats. /他是个令人生畏的老绅士，常喂食离群的狗和猫。
+			14. Crusty old bastard's coming after you. /那暴躁的老头要搞你。
+			15. Just the idea leaves them " crusty" / 光是这个想法就让他们抓狂。
+			16. Give old Malba Toast some butter and tell her I'm crustier than she is. /给老马尔巴·吐司一些奶油，并告诉她我比她酥脆。
+			17. You know what will happen if you don't eat. You'll let all rotting and crusty /你知道如果你不吃会怎么样。你的身体会腐烂，你的脾气会更加暴躁。
+			18. The results are superb, a crusty fragrant berry pie, a creamy pumpkin pie and a spicy chocolate cake. /其结果是极好的，一个硬壳芬芳香甜浆果派，奶油南瓜派和一个辛辣巧克力蛋糕。
+			19. crustily
 				1. adv. 有硬皮地；恶意地；粗暴地
 				2. Crustily skin of head bowed, ceng step! /硬着头皮低头蹭步，啊！！！
-		8. crusted
+		30. crusted
 			1.  [encrusted](dic://encrusted), [crusty](dic://crusty), [crustlike](dic://crustlike)
 			2. _adj._ [covered](dic://covered)
 			3. _n._ [bare](dic://bare)
@@ -7211,7 +7379,7 @@
 			9. The crust is nice and soft, but people still seem to prefer crusted sandwiches. /如今的面包边细腻柔软，但是人们似乎还是更喜欢去掉面包边的三明治。
 			10. All of this was scoured out by the lava and then the roof area was the top that crusted over. /这个由熔岩冲击而成，顶部就是熔岩冷结后变硬所成。
 			11. Right now I have a belly full of cheesy Korean French fry crusted corn dogs /现在我的肚子里装满了俗气的韩国炸薯条玉米热狗。
-	2. incrust
+	3. incrust
 		1. vt. 覆之以皮; 生外皮; 包壳; 镶饰
 		2. v. 包硬外壳于；生外皮；镶饰（同 encrust
 		3.  [encrust](dic://encrust), [beset](dic://beset)
@@ -7229,7 +7397,7 @@
 			6. The walls were decorated by incrustation with marble. /墙上镶嵌着大理石的装饰面。
 			7. get rid of congealable oil, wax precipitation and incrustation in pipe to reduce backpressure and friction, and lower temperature. /清除管线内部的凝油、结蜡、结垢，达到减小输油回压、减小磨阻、降低输油温度的目的。
 			8. In one corner of the room there stood an ancient arm-chair with incrustations, and the sight of this chair standing in his mother's bed-room suddenly raised in his soul an unexpected feeling. /在房间的一角，有一把古老的扶手椅，上面有结垢，看到这把椅子站在他母亲的卧室里，他的灵魂突然产生了一种意想不到的感觉
-	3. crustal
+	4. crustal
 		1. crust【外壳】 + -al
 		2. a. 地壳的
 		3. _adj._ [crust](dic://crust), [Earth's crust](dic://Earth's crust)
@@ -7241,11 +7409,11 @@
 		9. Basin floors generated at different times will exhibit a hierarchical sequence of crustal structure and epeirogenic behaviour. /不同时期生成的盆地底板，将显示地壳构造的等级次序和造陆性质。
 		10. This idea that the Earth cooked the Moon and formed the crustal anomaly is pretty new, and is still being argued over. /这种地球塑造了月球，导致月亮的不正常形成的观点还比较新，仍然有不少争议。
 		11. The idea was...if there was some other body there and it finally crashes into the Earth, it blows off all this crustal material from the Earth...As well as from the impacter itself. /这个概念是...如果那里有一些其它的物体，并且最终撞击地球，将从地球撞出这所有的地壳物质...同样也有撞击者自身。
-	4. crustily
+	5. crustily
 		1. ad. 有硬皮地, 易怒地
-	5. decrustation
+	6. decrustation
 		1. n. 脱皮
-	6. crustacean
+	7. crustacean
 		1. crust【硬壳】 + -acean表属性，见cetacean,鲸目动物。
 		2. a. 甲壳纲的  
 		3. n. 甲壳纲动物
@@ -7254,10 +7422,10 @@
 		6. Strausfeld says the organ systems detailed in this study are easily recognizable in today's crustaceans /Strausfeld说研究中详细可见的器官系统在如今的甲壳纲生物中也清晰可见。
 		7. The gentle giants work together to surround the tiny crustaceans with an ever-tightening spiral of bubbles. /这些温和的巨兽们协同作业，对这些微型甲壳纲动物四面包抄，形成一个不断向内缩紧的气泡螺旋。
 		8. Krill are crustaceans and look like very small shrimp. /磷虾是甲壳类动物，它看起来像很小的虾子。
-	7. crustaceous
+	8. crustaceous
 		1. a. 硬皮的, 外壳的
-	8. Crustacea
-	9. custard
+	9. Crustacea
+	10. custard
 		1. _n._ [dish](dic://dish)
 		2. **meringue**调合蛋白;**pudding**布丁;**cream**奶油，乳脂;**cheesecake**奶酪蛋糕;**mousse**奶油冻;**pastry**油酥点心;**tart**酸的;**ice-cream**乳白色的;**pie**馅饼;**curd**凝乳;**rhubarb**大黄;
 		3. _egg custard_ 牛奶蛋羹
@@ -7269,7 +7437,7 @@
 		9. Now, you might say that is a custard. /现在，你可能会说这是一个奶油冻。
 		10. I love it when you pour warm custard over mince pies /我喜欢你把热的蛋奶沙司倒在肉馅饼上。
 		11. custard-pie
-2. **cryo-** = cold, 表示“冷、冰块”。源自希腊语 kruos "icy, cold, frost," krumos "icy cold, frost."
+9. **cryo-** = cold, 表示“冷、冰块”。源自希腊语 kruos "icy, cold, frost," krumos "icy cold, frost."
 	1. cryobiology
 	2. cryogen
 		1. n. 冷冻剂；<制冷>制冷剂
@@ -7314,7 +7482,7 @@
 	21. cryotherapy
 	22. cryotron
 	23. cyrophyte
-3. **crystall-** = crystal, 表示“晶体”。古希腊人认为水晶是“石化”的冰。源自希腊语 krustallos "ice, crystal."
+10. **crystall-** = crystal, 表示“晶体”。古希腊人认为水晶是“石化”的冰。源自希腊语 krustallos "ice, crystal."
 	1. cryptocrystalline
 	2. crystal
 		1. [crystallization](dic://crystallization)
@@ -7390,7 +7558,7 @@
 		1. _n._ (静电)复印件
 	4. xeransis
 	5. xeranthemum
-	6. xeric
+	6. xeric (arid, xeric, sere, seer, wither, shrivel, dry)
 		1. adj. 干旱的，环境干燥的；耐旱的
 		2. _adj._ [xerophytic](dic://xerophytic)
 		3. _n._ [hydric](dic://hydric), [mesic](dic://mesic)
@@ -7435,23 +7603,10 @@
 		14. Of course — the Elixir of Life! /当然啦——长生不老药！
 		15. The air you breathe is an elixir which prepares you for the unexpected /你吸到胸中的空气象是补身的甘香酒，叫你精神振奋，准备经历一些你从来未料到的事。
 	15. xerderma
-2. serenade
-	1. 来自 serene,宁静的，平静的，-ity,名词后缀。用于指男子在所爱慕的女子窗下演奏的小夜曲，比喻用法。
-	2. n. 小夜曲
-	3. vt. 为……唱小夜曲  vi. 唱小夜曲
-	4. [divertimento](dic://divertimento)
-	5. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [song](dic://song), [vocal](dic://vocal)
-	6. _v._ [perform](dic://perform), [execute](dic://execute), [do](dic://do)
-	7. **sing**唱歌;**singing**歌声;**waltz**跳华尔兹舞;**chorus**合唱队;**sung**唱歌;**duet**二重奏;**sang**sing的过去式;**melody**旋律;**song**歌曲;**duets**二重唱;**symphony**交响乐;
-	8. the serenade was a showpiece for the wind section /小夜曲是展示管乐器的良机。
-	9. I sensed this to be a serenade—a Scottish serenade. /我意识到这是一支小夜曲——一支苏格兰小夜曲。
-	10. It was Harry's version of a serenade, and CharIotte ate it right up. /那是哈利的浪漫 夏绿蒂非常喜欢。
-	11. There's a mariachi guy, he is serenading you. /有个墨西哥流浪乐队的家伙在给你唱小夜曲。
-	12. serenader
-		1. n. 唱小夜曲的人, 奏小夜曲的人
-3. serene
-	1. 来自拉丁语 serenus,平静的，平和的，安详的。
-	2. a. 宁静的, 沉着的, 安详的, 晴朗的  n. 晴朗, 平静
+2. serene
+	1. (sedate, serene, tranquil, calm, repose, compose, placidity, equanimity )
+	2. 来自拉丁语 serenus,平静的，平和的，安详的。
+	3. a. 宁静的, 沉着的, 安详的, 晴朗的  n. 晴朗, 平静
 	3. [calm](dic://calm), [unagitated](dic://unagitated), [tranquil](dic://tranquil)
 	4. _adj._ [composed](dic://composed), [clear](dic://clear)
 	5. _n._ [discomposed](dic://discomposed), [cloudy](dic://cloudy)
@@ -7469,7 +7624,21 @@
 	10. remained serene in the midst of turbulence. /在这沸沸扬扬中保持镇静。
 	11. She has a lovely serene face. /她有一张可爱而安详的脸。
 	12. serene skies and a bright blue sea. /晴朗的天空和亮蓝色的大海
-4. serenity
+1. serenade
+	1. 来自 serene,宁静的，平静的，-ity,名词后缀。用于指男子在所爱慕的女子窗下演奏的小夜曲，比喻用法。
+	2. n. 小夜曲
+	3. vt. 为……唱小夜曲  vi. 唱小夜曲
+	4. [divertimento](dic://divertimento)
+	5. _n._ [musical composition](dic://musical composition), [opus](dic://opus), [composition](dic://composition), [piece](dic://piece), [piece of music](dic://piece of music), [song](dic://song), [vocal](dic://vocal)
+	6. _v._ [perform](dic://perform), [execute](dic://execute), [do](dic://do)
+	7. **sing**唱歌;**singing**歌声;**waltz**跳华尔兹舞;**chorus**合唱队;**sung**唱歌;**duet**二重奏;**sang**sing的过去式;**melody**旋律;**song**歌曲;**duets**二重唱;**symphony**交响乐;
+	8. the serenade was a showpiece for the wind section /小夜曲是展示管乐器的良机。
+	9. I sensed this to be a serenade—a Scottish serenade. /我意识到这是一支小夜曲——一支苏格兰小夜曲。
+	10. It was Harry's version of a serenade, and CharIotte ate it right up. /那是哈利的浪漫 夏绿蒂非常喜欢。
+	11. There's a mariachi guy, he is serenading you. /有个墨西哥流浪乐队的家伙在给你唱小夜曲。
+	12. serenader
+		1. n. 唱小夜曲的人, 奏小夜曲的人
+2. serenity
 	1. n. 平静，宁静；晴朗，风和日丽
 	2.  [repose](dic://repose), [quiet](dic://quiet), [placidity](dic://placidity), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility)
 	3.  [peace](dic://peace), [peacefulness](dic://peacefulness), [peace of mind](dic://peace of mind), [repose](dic://repose), [heartsease](dic://heartsease), [ataraxis](dic://ataraxis)
@@ -7481,7 +7650,7 @@
 	9. We ask God to grant us the serenity to accept the things we cannot change. /我们祈求上帝给我们一颗平静的心灵，去接受我们不能改变的事情
 	10. Her beauty and her serenity speak of her endless compassion. /她的美丽与宁静象征着无尽的慈悲。
 	11. West Lake is a big attraction in China because of its beauty and serenity. /西湖是中国的一大名胜，一个宁静美丽的圣地。
-5. serenely
+3. serenely
 
 
 ### ⭐ + \*ksun- + = with (preposition & preverb)
@@ -7886,7 +8055,7 @@
 		1. n. 商业化的平民文化; adj. 大众文化的；通俗文化的;
 4. **cycl-** = ring, circle, “圆，环”，「Greeks」kyklos, "circle, wheel, circle of event"
 	1. ancillary
-		1. (ancillary, incidental, contingent, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
+		1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
 		2. **incidental**附属的;**miscellaneous**多方面的;**auxiliary**助动词;**provision**提供，供给，给养，供应品;**additional**增加的, 额外的, 另外的;**supplementary**增补的;**extraneous**外部的,外来的;**supplemental**补足的,追加的;**sundry**杂的;**value-added**增值的;**services**服务;
 		3. _ancillary equipment_ 辅助设备；外部设备；外围设备
 		4. _ancillary service_ 附属设备；辅助性服务
@@ -8658,18 +8827,23 @@
 6. **ubiqu-** = everywhere, 表示“到处”。源自拉丁语 ubi "where."
 	1. ubiquity
 	2. ubiety
-7. how
-8. qualify
-9. what
-10. when
-11. where
-12. which
-13. who
-14. why
-15. quoth
+7. conundrum 
+	1. (quandary, conundrum, predicament, plight, perplexity, dilemma, riddle, enigma, puzzling, knot, )
+	2. 牛津大学俚语，模仿拉丁语创造出来的假拉丁语，用以形容食古不化的学究，词源不详。可能来自 PIE*kwo,表疑问，词源同 how,who,what,which,why,quality,quantity.
+	3. n. 谜语, 难题
+	4. 
+9. how
+10. qualify
+11. what
+12. when
+13. where
+14. which
+15. who
+16. why
+17. quoth
 	1. 来自古英语 cwaeth,说过，声称，声明，来自 PIE*gwet,说，词源同 bequeath.
 	2. vt. [古语]说, 说道
-16. bequeath
+18. bequeath
 	1. be-强调 + queath-说 → 说出来的“临终遗嘱” → 遗赠。
 	2. vt. 遗赠, 遗留
 	3. [will](dic://will), [leave](dic://leave)

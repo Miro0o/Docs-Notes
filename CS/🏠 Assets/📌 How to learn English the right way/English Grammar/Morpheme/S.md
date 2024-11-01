@@ -698,7 +698,7 @@
 1. **auster-** = severe, 表示“严重的”。源自希腊语 austeros "harsh."
 	1. austere 
 		1. (autistic, astute, altruism, austere)
-		2. (ascetic, ascetical, austere, spartan, stoic, frugal,)
+		2. (ascetic, ascetical, austere, spartan, stoic, frugal, abstemious, abstinent, thrifty, scotch, sparing, stinting, )
 		3. auster-严重的 + -e → 严峻的
 		4. a. 严峻的, 禁欲的, 简朴的
 		5. [ascetic](dic://ascetic), [ascetical](dic://ascetical), [spartan](dic://spartan)
@@ -1128,8 +1128,9 @@
 		3. _n._ [orthodox](dic://orthodox), [affirmative](dic://affirmative), [affirmatory](dic://affirmatory)
 		4. **leftist**急进派;**communist**共产主义的;**activist**积极分子;**left-wing**左派的;**militant**好战的;**anarchist**无政府主义者;**separatist**分离主义者,独立派;**nationalist**国家主义者;**renegade**变节者;**rebel**造反;**insurgent**起义的,叛乱的,造反的;
 	8. insidious
-		1. **pernicious**很有害的;**pervasive**普遍的;**sinister**阴险的;**devious**弯曲的;**nefarious**极坏的;**malevolent**有恶意的;**vile**卑鄙的;**destructive**破坏性的, 毁灭性的;**overt**明显的;**subtle**微妙的;**virulent**剧毒的;
-	9. preside
+		1.  (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity, counterproductive, vitriolic, caustic, vile, snarky, devastating, )
+		2. **pernicious**很有害的;**pervasive**普遍的;**sinister**阴险的;**devious**弯曲的;**nefarious**极坏的;**malevolent**有恶意的;**vile**卑鄙的;**destructive**破坏性的, 毁灭性的;**overt**明显的;**subtle**微妙的;**virulent**剧毒的;
+	10. preside
 		1. _v._ [control](dic://control), [command](dic://command)
 		2. **oversee**监督;**appoint**任命;**convene**召集，集合;**appointed**指定的,约定的;**convened**集合;**overseen**视察;**govern**统治;**presidency**总统的职位;**attend**出席;**chaired**就任要职;**summoned**传唤;
 		3. _preside over_ 主持；负责
@@ -1150,31 +1151,31 @@
 			2. **presidential**总统的;**president**总统;**reelection**改选;**inauguration**就职典礼;**candidacy**候选人的地位;**election**选举;**administration**实行, 执行;**impeachment**弹劾;**Clinton**克林顿;**tenure**占有;**Pres**普雷斯;
 			3. _[presidency](dic://presidency)_  n. 总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配
 			4. _[rotating presidency](dic://rotating%20presidency)_  轮值主席
-	10. reside
+	11. reside
 		1. residue
 		2. resident
 		3. residence
 		4. multiresidue
-	11. sedate
+	12. sedate
 		1. sedative, sedation, sedateness, sedately
 		2. sedentary
-	12. sediments
+	13. sediments
 		1. sedimentum
 		2. sedimentometer
 		3. sedimentation
 		4. sedimentary
-	13. subside
+	14. subside
 		1. subsidize
 		2. subsidise
 		3. antisubsidy
 		4. subsidiary, subsidy
-	14. supersede, supersession
-	15. sedan
-	16. cathedra, cathedral
+	15. supersede, supersession
+	16. sedan
+	17. cathedra, cathedral
 		1. _n._ [throne](dic://throne)
 		2. **ex**不包括，除外;**episcopal**主教的;**bishop**主教;**archbishop**大主教;**cathedral**大教堂;**papal**罗马教皇的;**ecclesiastical**基督教会的;
-	17. chair
-	18. chaise
+	18. chair
+	19. chaise
 		1.  [chaise longue](dic://chaise longue), [daybed](dic://daybed)
 		2.  [shay](dic://shay)
 		3. _n._ [chair](dic://chair), [carriage](dic://carriage), [equipage](dic://equipage), [rig](dic://rig)
@@ -1183,16 +1184,16 @@
 		6. _[post chaise](dic://post%20chaise)_  （旧时）驿递马车（18～19世纪初运载乘客及邮件的四轮车厢式马车）
 		7. _[chaise longue](dic://chaise%20longue)_  n. 躺椅
 		8. [chaise](dic://chaise), [daybed](dic://daybed)
-	19. gangliosidosis
-	20. nest
-	21. saddle
-	22. seance
+	20. gangliosidosis
+	21. nest
+	22. saddle
+	23. seance
 		1. **psychic**精神的;**ghost**鬼，幽灵;**ghosts**鬼;**ghostly**幽灵的;**paranormal**超常的;**spooky**幽灵般的;**haunted**闹鬼的;**occult**神秘的;**astral**星的;**trance**【C】昏睡状态;**tarot**塔罗纸牌;
 		2. [sitting](dic://sitting), [session](dic://session)
-	23. seat
-	24. sedile
-	25. sessile
-	26. siege
+	24. seat
+	25. sedile
+	26. sessile
+	27. siege
 		1. siege [siːdʒ] n.围攻；包围；围城；不断袭击；长期努力，vt.围攻；包围，日耳曼词源，同属日耳曼词源的单词有seat和sit以及settle等，与拉丁词源的sedan [sɪ'dæn] n. 轿车；轿子以及希腊词根hedr-表示座位、立体的面同源。siege本意是seat，军事上的围城是“sitting down before a fortress”。 ​​​​  
 		2. 但是在英国亚瑟王的传奇故事中，Siege Perilous（也叫做The Perilous Seat）中的siege就是其本意“seat”了。巫师梅林为亚瑟王的圆桌骑士们保留了一把椅子，谁能找到传说中的“圣杯”，谁才有资格坐那把椅子。同时理解单词besiege [bɪ'siːdʒ] vt. 围困；包围；烦扰The troops besieged the fort. ​​​​  
 		3. 类似逻辑，leaguer ['liːgə] n.围攻；盟员，vt. 围攻（盟员是另外一个词源），与lay和lie（躺）都是同源的日耳曼语词源单词，那就不光是“坐”下来，而是要“躺”在围攻城市的军营中了。同样比较单词;beleaguer [bɪ'liːgə] vt. 围攻；围，Enemy troopsbeleaguered the city.敌军围困了这座城。 ​​​​
@@ -1485,7 +1486,7 @@
 		8. The letter, marked on the envelope: To be delivered immediately after my death, contained instructions for his obsequies. /这封信在信封上标明：我死后立即送达， 其中包含有关他的葬礼的说明。
 		10. obsequial
 	8. obsequious
-		1. (sycophant, obsequious, submissive, servile, deferential)
+		1.   (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, meek, tame, docile, humble, modest)
 		2. ob-用力 + sequ-跟随 + -ious表形容词 → 拼命跟随别人 → 谄媚的。
 		3. 来自拉丁语obsequium,顺从，履行服务职责，来自ob-,向前，朝向，-sequi,跟随，词源同sequence.原为跟班，跟随，后引申词义巴结的，讨好的。
 		4. a. 谄媚的, 奉承的, 顺从的
@@ -2326,23 +2327,24 @@
 			3. **assimilation**同化;**consonant**辅音;**vowel**元音;**vowels**元音，母音;**pronunciation**发音;**syllable**音节;**derivation**发展;**phonetic**语音的，语音学的;**dialects**乡土语言，方言;**fermentation**发酵;**colonization**殖民地的开拓,殖民;
 			4. The incline of self-hobbling, which meals debasing his or other people" moral expectation through brickbat, is a dissimilation to the function of impulsing an individual take action /通过自贬性自我道德预言，放低他人、自己对自身的道德要求的自我阻碍倾向，是行为动力功能异化的反映。
 			5. What is assimilation, **dissimilation** and metathesis? /什么是同化、异化和换位？
-	4. dissemble (disassemble, dissipate,) (dissimulate, dissemble, )
-		1. vt. 掩饰，掩盖；假装; vi. 隐藏，掩饰（思想、感情等）;
-		2. _vt._ 假装；掩饰(感情、意图等)
-		3. dis-不 + semble【相同】 → 不相同装做相同 → 掩饰。
-		4. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [disguise](dic://disguise)
-		5. **conceal**隐藏;**disassemble**解开,分解;**fabricate**编造, 捏造, 虚构;**dismantle**拆开, 拆卸;**deceive**欺骗;**assemble**集合，聚集;**betray**背叛;**hide**隐藏;**distort**扭曲;**falsehood**谎言;**exaggerate**扩大, 增加;
-		6. **dissemble understanding**:  装出理解的样子 
-		7. **dissemble innocence**:  装出一副无辜的样子
-		8. I tried to dissemble an interest I didn’t feel. /我设法假装感到兴趣。
-		9. dissemble anger with a smile /用微笑掩饰愤怒
-		10. In politics, too, Mann knows how to dissemble and compromise /在政治上，曼也懂得如何掩饰和妥协。
-		11. I turned from him with a feeling of contempt which I did not seek to dissemble /我怀着一种不想掩饰的轻蔑之情转过身去。
-		12. " Oh, nothing particular" ! Catherine answered, dissembling for the first time in her life. /“哦，没什么特别的”！凯瑟琳回答，生平第一次掩饰。
-		13. She had lived too long among people who dissembled politely not to feel disturbed at hearing her own thoughts put into words /因为一般人在听到别人说出他们自己的心思时，总是委婉地掩饰着并不惊慌的感觉，而她在这些人中生活是太久了，怎能不受影响呢？
-		14. The former president exhibited a pattern of dissembling about the material he took from the White House, creating legal risk not just for himself but also some of his lawyers. /对他从白宫拿走的材料遮遮掩掩，不仅给他自己，也给他的一些律师带来法律风险。
-		15. dissembler
-	5. ensemble
+	4. dissemble (disassemble, dissipate,) 
+		1. (dissimulate, dissemble, belie, disguise, guile, )
+		2. vt. 掩饰，掩盖；假装; vi. 隐藏，掩饰（思想、感情等）;
+		3. _vt._ 假装；掩饰(感情、意图等)
+		4. dis-不 + semble【相同】 → 不相同装做相同 → 掩饰。
+		5. _v._ [misrepresent](dic://misrepresent), [belie](dic://belie), [disguise](dic://disguise)
+		6. **conceal**隐藏;**disassemble**解开,分解;**fabricate**编造, 捏造, 虚构;**dismantle**拆开, 拆卸;**deceive**欺骗;**assemble**集合，聚集;**betray**背叛;**hide**隐藏;**distort**扭曲;**falsehood**谎言;**exaggerate**扩大, 增加;
+		7. **dissemble understanding**:  装出理解的样子 
+		8. **dissemble innocence**:  装出一副无辜的样子
+		9. I tried to dissemble an interest I didn’t feel. /我设法假装感到兴趣。
+		10. dissemble anger with a smile /用微笑掩饰愤怒
+		11. In politics, too, Mann knows how to dissemble and compromise /在政治上，曼也懂得如何掩饰和妥协。
+		12. I turned from him with a feeling of contempt which I did not seek to dissemble /我怀着一种不想掩饰的轻蔑之情转过身去。
+		13. " Oh, nothing particular" ! Catherine answered, dissembling for the first time in her life. /“哦，没什么特别的”！凯瑟琳回答，生平第一次掩饰。
+		14. She had lived too long among people who dissembled politely not to feel disturbed at hearing her own thoughts put into words /因为一般人在听到别人说出他们自己的心思时，总是委婉地掩饰着并不惊慌的感觉，而她在这些人中生活是太久了，怎能不受影响呢？
+		15. The former president exhibited a pattern of dissembling about the material he took from the White House, creating legal risk not just for himself but also some of his lawyers. /对他从白宫拿走的材料遮遮掩掩，不仅给他自己，也给他的一些律师带来法律风险。
+		16. dissembler
+	6. ensemble
 		1. en-进入，使 + semble【相同，同时】，即多乐器同时演奏。
 		2. n. 全体, 合唱曲, (女人的)全套服装
 		3. n. （经常在一起演出的小型）乐团，剧团，舞剧团；全体，整体；全套服装；合奏（曲），合唱（曲）；成套的东西；演出者之间的配合；（主物理）系综 
@@ -2363,7 +2365,7 @@
 		18. When were you doing your Henry street, and Negro ensemble, what years were those? /你是什么时候在亨利街剧场和黑人剧团演出的，那是什么时候？
 		19. So the only place you can achieve that goal is if you're in front of the ensemble. /为了达到这个目的指挥必须站在整个乐团的最前面。
 		20. Mr. Titterton is chairman of the Omega **Ensemble** but has been the group's official page turner for the past four years. /蒂特顿先生是欧米茄乐团的主席，但在过去的四年里，他一直是该乐团的官方翻页人。
-	6. facsimile
+	7. facsimile
 		1. facsimile - 原先写成两个词，作fac simile，系直接借自拉丁语。fac是拉丁语动词facere 'to make'的祈使式，simile是similis'similar, like'的中性形式，fac simile两词连用则是make similar（使……相似，使……一模一样）之意。facsimile于17世纪进入英语，用以指“摹（真）本”、“复制本”，偶尔作动词用，表示“摹写”、“使……一模一样”，今天人们赋之以一些新的词义，如“电传真”、“传真通信”和“传真传输”，用于这些词义时，facsimile通常被缩略为fax。
 		2. n. 摹(真)本, 传真 
 		3. vt. 传真, 临摹  
@@ -5355,7 +5357,7 @@
 		1. _[plate specimen](dic://plate%20specimen)_  板试件
 		2. _[blood specimen](dic://blood%20specimen)_  血标本
 	6. specious
-		1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, )
+		1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
 		2.  [spurious](dic://spurious)
 		3. [gilded](dic://gilded), [meretricious](dic://meretricious)
 		4. _adj._ [false](dic://false), [insincere](dic://insincere)
@@ -6054,7 +6056,7 @@
 		9. antispark
 	6. spread
 5. spurious
-	1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, )
+	1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, )
 	2. 1 - 来自拉丁语 spurius,非婚生的，私生的，杂种的，来自 spurcus,低劣的，卑贱的，来自 PIE*spregh,播洒，播种，词源同 sperm,精子，精液。引申词义虚假的，伪造的。
 	3. _adj._ [false](dic://false), [illegitimate](dic://illegitimate), [counterfeit](dic://counterfeit), [imitative](dic://imitative)
 	4. _n._ [true](dic://true), [legitimate](dic://legitimate), [genuine](dic://genuine), [echt](dic://echt)
@@ -6848,7 +6850,7 @@
 		2. _n._ [slow](dic://slow)
 		3. **voila**瞧;**hey**喂！;**gee**向右！前进！快！;**yep**是;**magically**如魔法般地,用魔法地;**oh**哦;**yup**是的;**nope**不是，没有;**then**当时;
 	62. restive
-		1. - adj. 难驾驭的；焦躁不安的，不耐烦的；（马）倔头倔脑不肯往前的，停下闹别扭的
+		1. adj. 难驾驭的；焦躁不安的，不耐烦的；（马）倔头倔脑不肯往前的，停下闹别扭的
 		2. (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy), ornery, )
 		3. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, fidgety, restless, itchy, antsy, agitated, cranky, chatty)
 		4.  [edgy](dic://edgy), [high-strung](dic://high-strung), [highly strung](dic://highly strung), [in suspense(p)](dic://in suspense(p)), [jittery](dic://jittery), [jumpy](dic://jumpy), [nervy](dic://nervy), [overstrung](dic://overstrung), [uptight](dic://uptight)
@@ -6887,7 +6889,7 @@
 		2. 芝诺通常在雅典集市的画廊柱下讲学，人们称此地点为Stoā Poikilē 'Painted Portico'（有画的柱廊），因为那里的柱廊装饰着壁画。也正因为如此，这一派学者被称为Stoics（由拉丁语stōicus演化而来），汉语译为“画廊派”、“柱廊派”或音译作“斯多葛派”。由于这一派学者有高度自制力，不以苦乐为意，能忍受困苦与不幸而无怨言，所以到了16世纪首字母小写的stoic常用以喻指“恬淡寡欲的人”、“坚忍克己的人”或“禁欲主义者”；在用作形容词时，stoic表示“坚忍的”、“恬淡寡欲的”；从stoic派生的stoicism原指“斯多葛派”，而今则被赋予“坚忍”、“自制”、“禁欲”等义。
 		3. a. 斯多葛派的, 禁欲主义的, 不以苦乐为意的, 坚忍的, 淡泊的  
 		4. n. 斯多葛派学者, 画廊派的人, 禁欲主义者, 不介意苦乐的人, 高度自制的人
-		5. (ascetic, ascetical, austere, spartan, stoic, frugal,)
+		5. (ascetic, ascetical, austere, spartan, stoic, frugal, abstemious, abstinent, thrifty, scotch, sparing, stinting, )
 		6. [unemotional person](dic://unemotional person)
 		7. [stoical](dic://stoical)
 		8. _n._ [philosopher](dic://philosopher), [adult](dic://adult), [grownup](dic://grownup)
@@ -7246,26 +7248,27 @@
 	15. 
 3. **torp-** = numb, 表示“麻木”。源自拉丁语 torpere "to be stiff."
 	1. torpid
-		1. [inert](dic://inert), [sluggish](dic://sluggish), [soggy](dic://soggy)
-		2. [dormant](dic://dormant), [hibernating(a)](dic://hibernating(a))
-		3. [inactive](dic://inactive)
-		4. **sluggish**萧条的;**restless**焦躁不安的;**wretched**可怜的;**lifeless**无生命的;**feeble**微弱的，无力的;**sleepy**困乏的;**dreary**沉闷的，枯燥的;**dull**钝的;**weary**疲倦的;**stagnant**停滞的;**motionless**不动的,静止的;
-		5. _[torpid ardent](dic://torpid%20ardent)_ 迟钝的
-		6. _[torpid reaction](dic://torpid%20reaction)_ 迟钝反应; 翻译;
-		7. torpidly
-		8. torpidness
-		9. torpidity
+		1. (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern, languish, tardy, lethargic, remiss)
+		2. [inert](dic://inert), [sluggish](dic://sluggish), [soggy](dic://soggy)
+		3. [dormant](dic://dormant), [hibernating(a)](dic://hibernating(a))
+		4. [inactive](dic://inactive)
+		5. **sluggish**萧条的;**restless**焦躁不安的;**wretched**可怜的;**lifeless**无生命的;**feeble**微弱的，无力的;**sleepy**困乏的;**dreary**沉闷的，枯燥的;**dull**钝的;**weary**疲倦的;**stagnant**停滞的;**motionless**不动的,静止的;
+		6. _[torpid ardent](dic://torpid%20ardent)_ 迟钝的
+		7. _[torpid reaction](dic://torpid%20reaction)_ 迟钝反应; 翻译;
+		8. torpidly
+		9. torpidness
+		10. torpidity
 			1. **apathy**冷漠，无兴趣，漠不关心;**malaise**不舒服;**boredom**厌倦;**tiredness**疲劳;**laziness**怠惰;**exhaustion**精疲力竭;**indifference**不关心,不在乎;**melancholy**忧郁, 悲哀;**exertion**努力;**sluggish**萧条的;**paralysis**瘫痪;
-	2. torpify
-	3. torpor,
+	3. torpify
+	4. torpor,
 		1. **hibernation**冬眠;**malaise**不舒服;**slumber**睡眠;**apathy**冷漠，无兴趣，漠不关心;**boredom**厌倦;**exhaustion**精疲力竭;**inactivity**静止,不活泼,休止状态;**complacency**自满;**nocturnal**在夜间的;**paralysis**瘫痪;**euphoria**精神欢快，欣快;
 		2. [torpidity](dic://torpidity)
 		3. [listlessness](dic://listlessness), [torpidity](dic://torpidity), [torpidness](dic://torpidness)
 		4. [physiological state](dic://physiological state), [physiological condition](dic://physiological condition), [passivity](dic://passivity), [passiveness](dic://passiveness)
 		5. torporific
 			1. 引起麻痹的,引起麻木的,导致迟钝的
-	4. torpent
-	5. torpescence
+	5. torpent
+	6. torpescence
 4. starch
 	1. **cellulose**纤维素;**carbohydrate**碳水化合物;**sucrose**蔗糖;**cornstarch**玉蜀黍淀粉;**fructose**左旋糖;**sugar**糖;**corn**玉米;**flour**面粉;**soybean**大豆;**maize**黄色的，玉米色的;**rice**稻;
 	2. [amylum](dic://amylum)
@@ -7304,6 +7307,9 @@
 	5. [fertile](dic://fertile), [septic](dic://septic), [infected](dic://infected), [creative](dic://creative), [originative](dic://originative)
 	6. **barren**贫瘠的;**hygienic**卫生的，保健的;**inert**惰性的;**lifeless**无生命的;**saline**盐的;**sterilization**杀菌,绝育;**fertile**富饶的，肥沃的;**drab**单调的;**bland**乏味的;**contaminated**受污染的;**empty**空的;
 10. stern
+	1. 尾部, 船尾, 臀  a. 严厉的, 严格的, 坚定的, 坚决的
+	2. - adj. （人或其态度）严厉的，认真的；（工作等）严峻的，棘手的；不屈从的，不动摇的 
+	3. n. 船尾，艉部
 	1. [after part](dic://after part), [quarter](dic://quarter), [poop](dic://poop), [tail](dic://tail)
 	2. [buttocks](dic://buttocks), [nates](dic://nates), [arse](dic://arse), [butt](dic://butt), [backside](dic://backside), [bum](dic://bum), [buns](dic://buns), [can](dic://can), [fundament](dic://fundament), [hindquarters](dic://hindquarters), [hind end](dic://hind end), [keister](dic://keister), [posterior](dic://posterior), [prat](dic://prat), [rear](dic://rear), [rear end](dic://rear end), [rump](dic://rump), [seat](dic://seat), [tail](dic://tail), [tail end](dic://tail end), [tooshie](dic://tooshie), [tush](dic://tush), [bottom](dic://bottom), [behind](dic://behind), [derriere](dic://derriere), [fanny](dic://fanny), [ass](dic://ass)
 	3. [austere](dic://austere)
@@ -7314,12 +7320,18 @@
 	8. [nonindulgent](dic://nonindulgent), [strict](dic://strict), [implacable](dic://implacable), [demanding](dic://demanding), [plain](dic://plain)
 	9. [indulgent](dic://indulgent), [placable](dic://placable), [undemanding](dic://undemanding), [fancy](dic://fancy)
 	10. **starboard**右舷;**aft**在船尾;**defiant**挑衅的;**bow**弓;**keel**给…装龙骨;**no-nonsense**实际的,严肃的;**hull**船体;**rudder**飞机方向舵;**forceful**有说服力的;**rebuke**指责，非难;**gentle**温和的;
-	11. sternway
+	11. he stood at the stern of the yacht. /他站在游艇的尾部。
+	12. The profession of medicine is a stern taskmaster. /医生这个职业总要求其从事者承担繁重的任务
+	13. stern measures to restrict vehicle growth. /限制车辆增加的严厉措施。
+	14. He is very stern in his students' discipline /他对学生的纪律非常严格。
+	15. They said sometimes they get some stern looks, but mostly just smiles and waves /他们说，有时他们会遭到一些严厉的目光，但大多数时候只是微笑和挥手。
+	16. a smile transformed his stern face. /一个笑容改变了他那严肃的脸庞。
+	17. sternway
 		1. n. 船的后退；[水运] 倒驶
-	14. sternness
+	18. sternness
 		1. _n._ [asperity](dic://asperity), [grimness](dic://grimness), [hardship](dic://hardship), [rigor](dic://rigor), [rigour](dic://rigour), [severity](dic://severity), [severeness](dic://severeness)
 		2. **gentleness**温和;**countenance**面容，表情;**demeanor**行为;**sincerity**真实, 诚挚;**temper**脾气;**tenderness**柔软;**seriousness**严肃;**indifference**不关心,不在乎;**firmness**坚定;**sweetness**美味;**austere**简朴的;
-	15. sternly
+	19. sternly
 		4. _adv._ [austere](dic://austere), [stern](dic://stern)
 		5. **angrily**愤怒地;**politely**客气地;**calmly**平静地;**solemnly**庄严地;**emphatically**断然地;**harshly**严厉地;**smiled**以微笑表示，微笑;**frowned**皱眉;**cheerfully**欢乐地,愉快地;**softly**温柔地;**nervously**神经质地;
 		6. warn sternly 严正地警告或告诉
@@ -7328,17 +7340,17 @@
 		9. sternly refuse 严厉拒绝
 		10. acting sternly 严厉的
 		11. sternly warn 严厉警告
-	16. sternwards, sternward
+	20. sternwards, sternward
 		1. adj. 船尾的,后面的; adv. 在船尾 副 词:
-	17. sternpost
+	21. sternpost
 		1. _n._ [timber](dic://timber)
 		2. **keel**给…装龙骨;**rudder**飞机方向舵;**hull**船体;**starboard**右舷;**aft**在船尾;**schooner**纵帆船;**stern**严厉的，苛刻的;**mast**桅杆;**sail**航行;**vessel**容器，器皿;**plank**厚木板;
-	18. sternmost
+	22. sternmost
 		1. adj. 最后面的；最靠近船尾的
-	19. sternforemost
+	23. sternforemost
 		1. adv. 船尾向前地；倒退地；笨拙地
-	20. stern-wheeler
-	21. astern
+	24. stern-wheeler
+	25. astern
 		1. [aft](dic://aft), [abaft](dic://abaft)
 1. stork
 	2. _[white stork](dic://white%20stork)_  白鹳
@@ -8692,10 +8704,11 @@
 	3. Seeing clearly requires a vision unclouded either by rage or by sycophancy /看得清楚需要不受愤怒或阿谀奉承的影响。
 	4. In his splenetic new book, Mr Milbank dates the " crack-up" of the Republican Party to various " destructionists" and—to appropriate the author's trademark style—their depravity, deplorability, mendacity, moral turpitude, rapacity and sycophancy. /在他那本脾气暴躁的新书中，米尔班克先生将共和党的“崩溃”归咎于各种“破坏主义者”，以及——借用作者标志性的风格——他们的堕落、可悲、虚伪、道德败坏、贪婪和阿谀奉承。
 3. sycophant
-	1. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
-	2. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
-	3. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;
-4. sycosis
+	1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation)
+	2. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
+	3. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
+	4. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;
+5. sycosis
 
 
 ### syl- 表示“抓捕”

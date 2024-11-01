@@ -1383,16 +1383,17 @@
 			11. raptured
 			12. enrapture
 	3. rapacious
-		1. rap-夺 + -acious多…的 → 夺得多的 → 强夺的。
-		2. a. 强夺的, 贪欲的, 贪婪的
-		3. _adj._ [aggressive](dic://aggressive), [acquisitive](dic://acquisitive), [gluttonous](dic://gluttonous)
-		4. _n._ [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive), [unacquisitive](dic://unacquisitive), [abstemious](dic://abstemious)
-		5. **greedy**贪婪的;**predatory**食肉的;**ruthless**无情的，残忍的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**insatiable**不知足的;**murderous**蓄意谋杀的;**savage**残酷的;**tyrannical**暴君的,暴君似的;**opportunistic**机会主义的;**greed**贪婪，贪心;**malevolent**有恶意的;
-		6. _[rapacious demands](dic://rapacious%20demands)_ 贪婪的需要
-		7. _[rapacious creditor](dic://rapacious%20creditor)_ 贪婪的债权人; 贪婪债权人; 
-		8. _[rapacious aggressor](dic://rapacious%20aggressor)_ 血盆大口
-		9. _[rapacious market](dic://rapacious%20market)_ 掠夺性市场
-		10. rapacity
+		1. (insatiable, avaricious, greedy, rapacious, )
+		2. rap-夺 + -acious多…的 → 夺得多的 → 强夺的。
+		3. a. 强夺的, 贪欲的, 贪婪的
+		4. _adj._ [aggressive](dic://aggressive), [acquisitive](dic://acquisitive), [gluttonous](dic://gluttonous)
+		5. _n._ [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive), [unacquisitive](dic://unacquisitive), [abstemious](dic://abstemious)
+		6. **greedy**贪婪的;**predatory**食肉的;**ruthless**无情的，残忍的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**insatiable**不知足的;**murderous**蓄意谋杀的;**savage**残酷的;**tyrannical**暴君的,暴君似的;**opportunistic**机会主义的;**greed**贪婪，贪心;**malevolent**有恶意的;
+		7. _[rapacious demands](dic://rapacious%20demands)_ 贪婪的需要
+		8. _[rapacious creditor](dic://rapacious%20creditor)_ 贪婪的债权人; 贪婪债权人; 
+		9. _[rapacious aggressor](dic://rapacious%20aggressor)_ 血盆大口
+		10. _[rapacious market](dic://rapacious%20market)_ 掠夺性市场
+		11. rapacity
 			2. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [voracity](dic://voracity), [voraciousness](dic://voraciousness)
 			3. [avarice](dic://avarice), [greed](dic://greed), [covetousness](dic://covetousness), [avaritia](dic://avaritia)
 			4. _n._ [gluttony](dic://gluttony), [mortal sin](dic://mortal sin), [deadly sin](dic://deadly sin)
@@ -1400,16 +1401,17 @@
 			6. Time and again, successive popes and sundry allies deplored what they saw as the city-state's amoral rapacity /历任教皇和各式各样的盟友一次又一次地痛惜他们所看到的这个城邦不道德的贪婪行为。
 			7. In his splenetic new book, Mr Milbank dates the " crack-up" of the Republican Party to various " destructionists" and—to appropriate the author's trademark style—their depravity, deplorability, mendacity, moral turpitude, rapacity and sycophancy. /在他那本脾气暴躁的新书中，米尔班克先生将共和党的“崩溃”归咎于各种“破坏主义者”，以及——借用作者标志性的风格——他们的堕落、可悲、虚伪、道德败坏、贪婪和阿谀奉承。
 			8. He argued that the overcrowded cities were the product of a system based on "selfishness" and "**rapacity**." /他辩称说，过分拥挤的城市是建立在“自私”和“贪婪”基础上的制度造成的。
-	4. rapine
-		1. _n._ [plundering](dic://plundering), [pillage](dic://pillage), [pillaging](dic://pillaging)
-		2. **plunder**抢夺;**treachery**背信弃义, 不忠, 背叛;**wickedness**邪恶;**conquest**征服，战胜;**bloodshed**流血,虐杀;**looting**抢劫;**greed**贪婪，贪心;**violence**激烈;**immorality**不道德,无道义;**mayhem**大混乱, 大破坏;**lust**性欲;
-		3. n. 掠夺；劫掠
-		4. _[rapine and red ruin](dic://rapine%20and%20red%20ruin)_ 掠夺和火灾; 劫掠和纵火焚烧;
-		5. Each hour, dark fraud, or open rapine, or protected murder, cries out against them /每一刻，恶毒的欺骗，公开强夺，抑或保护起来的谋杀，大声反对他们。
-		6. Not only no great convulsion, but no sensible disorder, arose from so great a change in the situation of more than 100,000 men, all accustomed to the use of arms, and many of them to rapine and plunder. /十万多人的处境发生了如此巨大的变化，不仅没有引起剧烈的痉挛，而且也没有引起任何理智上的紊乱，他们都习惯了使用武器，其中许多人还习惯于掠夺和掠夺。
-	5. raven
+	5. rapine
+		1. 
+		2. _n._ [plundering](dic://plundering), [pillage](dic://pillage), [pillaging](dic://pillaging)
+		3. **plunder**抢夺;**treachery**背信弃义, 不忠, 背叛;**wickedness**邪恶;**conquest**征服，战胜;**bloodshed**流血,虐杀;**looting**抢劫;**greed**贪婪，贪心;**violence**激烈;**immorality**不道德,无道义;**mayhem**大混乱, 大破坏;**lust**性欲;
+		4. n. 掠夺；劫掠
+		5. _[rapine and red ruin](dic://rapine%20and%20red%20ruin)_ 掠夺和火灾; 劫掠和纵火焚烧;
+		6. Each hour, dark fraud, or open rapine, or protected murder, cries out against them /每一刻，恶毒的欺骗，公开强夺，抑或保护起来的谋杀，大声反对他们。
+		7. Not only no great convulsion, but no sensible disorder, arose from so great a change in the situation of more than 100,000 men, all accustomed to the use of arms, and many of them to rapine and plunder. /十万多人的处境发生了如此巨大的变化，不仅没有引起剧烈的痉挛，而且也没有引起任何理智上的紊乱，他们都习惯了使用武器，其中许多人还习惯于掠夺和掠夺。
+	7. raven
 		1. misc-
-	6. ravage
+	8. ravage
 		1. [depredation](dic://depredation)
 		2. [harry](dic://harry)
 		3. [lay waste to](dic://lay waste to), [waste](dic://waste), [devastate](dic://devastate), [desolate](dic://desolate), [scourge](dic://scourge)
@@ -1420,16 +1422,16 @@
 		8. _[the ravages of inflation](dic://the%20ravages%20of%20inflation)_ 通货膨胀的恶果
 		9. _[the ravages of war](dic://the%20ravages%20of%20war)_ 战争的创伤
 		10. _[the ravages of bridge pier](dic://the%20ravages%20of%20bridge%20pier)_ 桥墩剥蚀
-	7. ravin
+	9. ravin
 		1. _[ravin](dic://ravin)_  n. 掠夺；掠夺物；猎食; adj. 狼吞虎咽的；贪婪的; vt. 狼吞虎咽；大嚼; n. (Ravin)人名；(法)拉万；(俄、塞)拉温;
-	8. ravine
+	10. ravine
 		1. _n._ [valley](dic://valley), [vale](dic://vale)
 		2. **hillside**山坡，山腹;**canyon**峡谷;**gorge**峡，峡谷;**creek**小溪;**valley**山谷;**embankment**路堤;**cliff**绝壁;**wooded**树木繁茂的;**hill**小山;**cliffs**悬崖，峭壁;**river**河，江;
 		3. the ravine pitches down to the creek. /峡谷向下倾斜直至溪边。
 		4. The river had worn a ravine between the hills. /那条河在两山之间已造成一个深谷。
 		5. The city is built on the rock rising out of ravines. /这座城市建在高出峡谷的岩石上
-	9. rapid
-	10. usurp
+	11. rapid
+	12. usurp
 		1. us-用 + urp[=rape抢掠] → 抢过来用 → 篡夺。
 		2.  [assume](dic://assume), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
 		3. _v._ [take](dic://take), [supplant](dic://supplant), [replace](dic://replace), [supersede](dic://supersede), [supervene upon](dic://supervene upon), [supercede](dic://supercede)
