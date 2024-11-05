@@ -293,7 +293,7 @@
 		1. decayed
 		2. decadence, decadent, deccadency
 			1. **indulgent**放纵的;**opulent**富裕的;**sumptuous**豪华的, 奢侈的;**delectable**令人愉快的;**deliciously**美美地;**scrumptious**可口的,美味的;**delicious**美味的;**luxurious**奢侈的;**luscious**甘美的;**lavish**浪费的;**depraved**堕落的;
-	6. deciduous
+	6. deciduous  (deciduous, desiccate)
 		1. de-,向下，-cid,掉落，词源同 case,accident.即掉落的。
 		2. _adj._ [broadleaf](dic://broadleaf), [broad-leafed](dic://broad-leafed), [broad-leaved](dic://broad-leaved), [caducous](dic://caducous), [shed](dic://shed)
 		3. n._ [evergreen](dic://evergreen), [persistent](dic://persistent), [lasting](dic://lasting)
@@ -5285,20 +5285,37 @@
 	1. house
 		1. etc...
 	2. husband
-		1. unhusbanded
-		2. husbandry
-		3. husbandman
-		4. husbandly
-		5. husbandlike
-		6. husbandage
-		7. ex-husband
-	3. hut
+		1. n. 丈夫, 管理人, 节俭的人  vt. 节俭, 使成丈夫, 持有
+		2. 古义表示“一家之主”，在资源匮乏的时代，为了家里每个人都能填饱肚子必须精打细算，即“节俭”。
+		3.  来自古英语 husbonda,一家之主，男性首领，来自 hus,屋子，词源同 house,-bonda,居住者，耕作者，农夫，来自 PIE*bheue,是，存在，建造，词源同 be,build,boor.后引申词义丈夫，而wife 也由古英语词义女人引申为妻子。
+		4. husband：当家作主的自耕农  
+		5. 英语单词husband在字典上的含义是“丈夫”，但它本意却与“丈夫”大相径庭。husband一词源自北欧语husbondi，有hus（house）和bondi（拥有者、居住者、耕种者）组成，本意就是“一家之主”的意思。在中世纪的欧洲，很多农民其实还是农奴，依附于领主，并没有完全的人身自由。所以他们算不上husband，因为他们无法当家作主。只有当拥有人身自由的佃农或自耕农出现后，他们才算是husband。他们要耕作农田，饲养牲畜，同时还要精打细算地管理自己的小家庭。所以husband还可以做动词，表示“节俭地使用或管理”。他们所从事的工作就是husbandry，而这种人还可以称为husbandman（农夫），其中，husband不是表示“丈夫”，而是取其本意，即可以当家做主的自耕农。  
+		6. husband进入英语后，原本一直表示“一家之主”的意思，直到13世纪后，才逐渐取代英语中原本表示丈夫的wer一词，成为“丈夫”的常用表达。所以在西方的婚礼上，牧师宣布两人成为夫妻时，用的是“man and wife”，而不是“husband and wife”。  
+		7. husband：['hʌzbənd] n.丈夫v.节俭地使用（管理）  
+		8. husbandry：['hʌzbəndrɪ] n.饲养，畜牧，务农，耕种，家政  
+		9. husbandman：['hʌzbən(d)mən] n.农夫，百姓
+		10. [hubby](dic://hubby), [married man](dic://married man)
+		11. [conserve](dic://conserve), [economize](dic://economize), [economise](dic://economise)
+		12. _n._ [spouse](dic://spouse), [partner](dic://partner), [married person](dic://married person), [mate](dic://mate), [better half](dic://better half)
+		13. _v._ [save](dic://save), [preserve](dic://preserve)
+		14. _n._ [wife](dic://wife), [married woman](dic://married woman)
+		15. **wife**妻子，已婚妇女;**daughter**女儿;**sister-in-law**夫或妻的姊妹;**mother-in-law**婆母;**fiance**未婚夫;**daughter-in-law**儿媳妇;**father-in-law**岳父;**fiancé**未婚夫;**fiancee**未婚妻;**brother-in-law**内兄;**hubby**丈夫;
+		16. _husband and wife_ 夫妻
+		17. 
+		18. unhusbanded
+		19. husbandry
+		20. husbandman
+		21. husbandly
+		22. husbandlike
+		23. husbandage
+		24. ex-husband
+	7. hut
 		1. n. 小屋, 茅舍, 临时军营  v. (使)住在茅舍
 		2. hutment
-	5. hutch (botch)
+	8. hutch (botch)
 		1. n. 箱, 厨, 笼, 小屋  vt. 把...装箱
 		2. - 来自古法语 huche,柜子，来自拉丁语 hutica,柜子，箱子，来自 PIE*skeu,隐藏，遮盖，词源同 hut,house.现主要用于指养兔子等小动物的笼子或柜子，在家具行业也指抽屉柜。
-	6. huddle 
+	9. huddle 
 		1. (cuddle, coddle, dawdle, daddle, diddle, doodle, fiddle, fuddle, huddle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, reddle, riddle, saddle, toddle, treadle, twiddle, waddle)
 		2. n. 杂乱一团, 混乱, 拥挤  
 		3. vt. 把...挤在一起, 乱堆, 草率了事, 蜷曲  
@@ -5320,7 +5337,7 @@
 		19. The sheep were huddled together in a ditch. /羊群被赶到一条沟里挤在一起。
 		20. The two countries huddled up a treaty. /这两个国家草草地签订了一份合同。
 		21. The boys huddled together in the cave to keep warm. /"男孩们在山洞里挤作一团,使身体暖和些。"
-6. **scu-, scur-** = shield, 表示“盖上”。源自拉丁语 -scurus "covered."
+10. **scu-, scur-** = shield, 表示“盖上”。源自拉丁语 -scurus "covered."
 	1. chiaroscuro
 		1. chiaro-=clear清楚 + scur-遮盖 + o → 明暗对照。
 		2. **shading**明暗法;**shadows**阴影，影子;**subtlety**微妙;**realism**现实主义;**painting**油画;**pastels**色粉笔;**watercolour**水彩;**naturalistic**自然的;**iconography**图解,插图;**illumination**照明;**evocative**引起…记忆的, 唤起…感情的;
@@ -5939,22 +5956,23 @@
 		13. occlusor
 			1. 闭壳肌〔蛤; 闭肌; 闭塞体;
 	10. preclude
-		1. pre-预先 + clud-关闭 → 提前关闭 → 阻止。
-		2.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [forbid](dic://forbid)
-		3.  [rule out](dic://rule out), [close out](dic://close out)
-		4. **necessitate**使…成为必要, 需要;**prohibit**阻止，禁止;**impede**阻止;**exclude**排除;**hinder**成为阻碍;**prevent**预防，防止;**disqualify**丧失资格;**negate**否定;**inhibit**抑制;**imply**暗示;**barring**不包括;
-		5. _v._ [obviate](dic://obviate), [rid of](dic://rid of), [eliminate](dic://eliminate)
+		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+		2. pre-预先 + clud-关闭 → 提前关闭 → 阻止。
+		3.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [forbid](dic://forbid)
+		4.  [rule out](dic://rule out), [close out](dic://close out)
+		5. **necessitate**使…成为必要, 需要;**prohibit**阻止，禁止;**impede**阻止;**exclude**排除;**hinder**成为阻碍;**prevent**预防，防止;**disqualify**丧失资格;**negate**否定;**inhibit**抑制;**imply**暗示;**barring**不包括;
+		6. _v._ [obviate](dic://obviate), [rid of](dic://rid of), [eliminate](dic://eliminate)
 			1. _[precluded](dic://precluded)_  排除
 			2. _[preclude from](dic://preclude%20from)_  阻止；妨碍
 			3. _[preclude all misunderstanding](dic://preclude%20all%20misunderstanding)_  排除所有误解
 			4. _[preclude sb from doing sth](dic://preclude%20sb%20from%20doing%20sth)_  阻止某人做某事
-		6. preclusion
-		7. preclusive
-	11. disclose
+		7. preclusion
+		8. preclusive
+	12. disclose
 		9. dis-打开 + clos-关 + -e → 把关的打开 → 揭发。
 		10. undisclosed
 		11. disclosure
-	12. enclose
+	13. enclose
 		1. en-进入 + clos-关 + -e → 被关起来 → 包围。
 		2. [envelop](dic://envelop), [enfold](dic://enfold), [enwrap](dic://enwrap), [wrap](dic://wrap)
 		3. [hold in](dic://hold in), [confine](dic://confine)
@@ -7258,19 +7276,47 @@
 #### + \*kreue- (1) +
 1. **creas-, creo-** = row, 表示“生肉”。源自希腊语 kreas "flesh."
 	1. creatine
+		1. creat-生肉 + -ine
 	2. creatin
 	3. creosote
 	4. creophagy
 2. **crud-** = raw, 表示“生的”。源自拉丁语 crudus "bloody, raw." 
 	1. crude
-		1. crudity
-		2. crudeness
-		3. crudely
-	2. crudification
-	3. cruel
+		1. a. 天然的, 未成熟的, 粗糙的, 粗鲁的  n. 天然的物质
+		2.  adj. 粗糙的；粗鲁的；天然的，未加工的；粗略的n. 天然的物质；原油
+		3. 来自 PIE*kreue,生肉，带血肉，词源同 raw.
+		4. [petroleum](dic://petroleum), [crude oil](dic://crude oil), [rock oil](dic://rock oil), [fossil oil](dic://fossil oil)
+		5.  [rough](dic://rough)
+		6.  [coarse](dic://coarse), [earthy](dic://earthy), [gross](dic://gross), [vulgar](dic://vulgar)
+		7.  [unrefined](dic://unrefined), [unprocessed](dic://unprocessed)
+		8.  [primitive](dic://primitive), [rude](dic://rude)
+		9.  [blunt](dic://blunt), [stark(a)](dic://stark(a))
+		10. [raw](dic://raw)
+		11. _n._ [oil](dic://oil), [fossil fuel](dic://fossil fuel)
+		12. _adj._ [unskilled](dic://unskilled), [indecent](dic://indecent), [early](dic://early), [unconditional](dic://unconditional), [unanalyzed](dic://unanalyzed)
+		13. _n._ [skilled](dic://skilled), [decent](dic://decent), [late](dic://late), [conditional](dic://conditional), [analyzed](dic://analyzed)
+			1. [vulgar](dic://vulgar) 侧重指对听者的冒犯，往往强调粗野，言行、趣味不高，缺乏教养。   
+			2. [coarse](dic://coarse) 指缺乏教养，言谈粗俗，举止粗野，可与vulgar换用。  
+			3. [crude](dic://crude) 与vulgar同义，也指言谈举止粗俗，不文雅，缺乏教养。   
+			4. [gross](dic://gross) 语气强烈，指粗鲁、无礼貌，令人讨厌。
+		14. **vulgar**粗俗的;**petroleum**石油;**crass**粗鲁的;**oil**油;**refined**精炼的;**refinery**精炼厂;**refining**精炼;**tasteless**无味的;**lewd**淫荡的;**gasoline**汽油;**obscene**淫秽的;
+		15. a relatively crude nuclear weapon. /一件相对粗糙的核武器。
+		16. estimating of crude oil /原油评价
+		17. must face the crude truth. /必须面对真相
+		18. The cottage wears a very crude appearance. /那幢农舍外观颇为简陋。
+		19. the crude life of our savage ancesters in the remote past /远古时代未开化祖先的原始生活
+		20. His manners were crude at the party. /他在宴会上态度粗鲁。
+		21. This argument may, at first glance, seem rather crude. /乍一看，这种说法可能显得有些不成熟。
+		22.  Can you give us a crude example? " /(" 你能给我们举个粗浅的例子吗？" )。
+		23. 
+		24. crudity
+		25. crudeness
+		26. crudely
+	9. crudification
+	10. cruel
 		2. cruelness
 		3. cruelly
-	4. recrudesce
+	11. recrudesce
 		1. re-再 + crud-生的，原始的 + -esce
 		2. - 来自拉丁语 recrudescere,伤口再次裂开，re-,再，重新，crude,原始的，粗糙的。比喻用法，即回到原来的状态，引申词义复发。-esce,表起始。
 		3. vi. 复发, 再发作, 再爆发
@@ -7281,8 +7327,8 @@
 		8. recrudescence
 			1. _n._ [outbreak](dic://outbreak), [eruption](dic://eruption), [irruption](dic://irruption)
 			2. **recurrence**复发;**symptomatic**症状的;**concomitant**相伴的;**reversion**恢复,复原;**relapse**再度堕落;**eradication**根除;**emergence**出现;**infection**传染;**virulent**剧毒的;**resurgence**复苏;**manifestation**显示;
-	6. ecru
-3. **pancreas-, pancreat-** 表示“胰腺”。pan（全部） + creas（肉），字面含义“全部是肉”。源自希腊语 kreas "flesh."
+	12. ecru
+10. **pancreas-, pancreat-** 表示“胰腺”。pan（全部） + creas（肉），字面含义“全部是肉”。源自希腊语 kreas "flesh."
 	1. pancreas
 		1. pan-全部，所有 + -creas肉，因胰腺全部由肉组成而得名。
 		2. _n._ [exocrine gland](dic://exocrine gland), [exocrine](dic://exocrine), [duct gland](dic://duct gland)
@@ -7294,8 +7340,8 @@
 	4. pancreatin
 	5. pancreatitis
 	6. cholangiopancreatography
-4. caruncle
-5. raw
+11. caruncle
+12. raw
 	1. caruncle ['kærəŋk(ə)l; kə'rʌŋ-] n.[植]种阜；[鸟]肉冠；肉垂。拉丁词根carun-表示（血淋淋的）肉，与日耳曼词源的raw [rɔː] adj.生的；未加工的，同源，后缀-cle指小，所以caruncle就是“a little piece of flesh”。江湖派一些，汽车（car）里坐着一大叔（uncle），而且是个胖（肉）大叔。 ​​​​
 	2.  来自古英语 hreaw,未煮的，生的，来自 Proto-Germanic*khrawaz,生的，来自 PIE*kreue,带血的肉，生肉，词源同 crude,cruel,pancreas.引申诸多相关词义。
 	3. rawish

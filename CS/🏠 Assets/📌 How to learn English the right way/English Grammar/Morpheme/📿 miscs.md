@@ -381,6 +381,10 @@ ascetic (aesthetic)
 - asceticism
 - ascetical
 
+aspen
+- n. 山杨  
+- a. 山杨的, 颤抖的
+
 astute (autistic, astute, altruism, austere)
 - 可能来自希腊语 asty,城市，来自-st,站立，词源同 asteism,城里人的，故作绅士派头的。
 - a. 敏锐的, 狡猾的
@@ -2491,6 +2495,30 @@ clunk
 	- _[clunky reworking](dic://clunky%20reworking)_ 笨拙的改版
 - clunker
 
+coax
+- vt. 哄, 诱骗, 耐心地摆弄  vi. 哄骗
+- v. 哄，劝诱；连哄带劝地得到；小心地摆弄（机器或装置） 
+- n. 同轴电缆 
+- adj. 同轴的，共轴的
+-  [coaxial cable](dic://coaxial cable), [coax cable](dic://coax cable)
+-  [wheedle](dic://wheedle), [cajole](dic://cajole), [palaver](dic://palaver), [blarney](dic://blarney), [sweet-talk](dic://sweet-talk), [inveigle](dic://inveigle)
+- _n._ [cable](dic://cable), [line](dic://line), [transmission line](dic://transmission line)
+- _v._ [persuade](dic://persuade)
+	- [induce](dic://induce) 指用讲道理来使某人做某事。  
+	- [persuade](dic://persuade) 普通用词，指通过劝说、感情交流等而使对方做劝说者所希望的事。  
+	- [urge](dic://urge) 语气强，指不断地热情地规劝诱导。  
+	- [convince](dic://convince) 指凭行动、事实或言语使他人从思想感情上信服。  
+	- [counsel](dic://counsel) 较正式用词，指对一些较重大事情所提出的劝告。有时也用于非正式场合，但仍强调严肃的一面。  
+	- [coax](dic://coax) 指用好话善意或耐心劝诱、哄骗某人做某事。
+- **coaxial**同轴的，共轴的;**lure**诱惑物;**cables**电缆;**cable**电缆;**seduce**引诱;**entice**诱使;**persuade**说服，劝说;**pull**拉;**wires**电线;**convince**使确信，使信服;**cabling**布线;
+- coax a child to take its medicine /哄小孩吃药
+-  coax a smile from the baby/逗婴孩一笑
+- Her voice was as overwarm as if she were coaxing a sky child. /s她的声音过分亲切，像是在哄害羞的孩子。
+- Mrs May inherited a divided country which urgently needed to be coaxed back together. /梅接手的是一个分裂的国家，迫切需要重新团结起来。
+- For weeks, her German and European allies have been coaxing her to declare her candidacy. /数周以来，她的德国盟友和欧洲盟友一直在劝说她宣布参选。
+- We need to coax it out. /我们需要把它给哄出来。
+- 
+
 confetti
 - small pieces or streamers of colored paper that are thrown around on festive occasions (as at a wedding)
 - **glitter**闪烁;**balloons**轻气球;**sequins**亮片;**glittery**闪烁的，闪光的;**sparkly**闪耀的;**fireworks**烟火;**tulle**薄纱;**swirls**旋涡;**champagne**香槟酒;**grenades**手榴弹;**bouquets**宴会;
@@ -2501,13 +2529,23 @@ confetti
 cobalt
 - **manganese**锰;**turquoise**绿松石;**chromium**铬;**cadmium**镉;**copper**铜;**metallic**金属的，含金属的;**blue**蓝色的;**titanium**钛;**boron**硼;**zinc**镀锌于…;**nickel**镍;
 - [metallic element](dic://metallic element), [metal](dic://metal)
+- An impure oxide of cobalt, used to produce a blue color in enamel and in the making of smalt. /浅的绿蓝色颜料，主要由钴和锡的氧化物组成。
+- In recent years, cobalt-substitute prealloy powder for diamond tools were researched intensively /近年，国内外开展了金刚石工具代钻粉末的研究。
 - etc..
 
 cobble
+- v. 修，拙劣地修补；草率地拼凑，粗制滥造；铺鹅卵石，用圆石铺面 
+- n. 鹅卵石，圆石；（英）小圆煤块
 - [cobblestone](dic://cobblestone), [sett](dic://sett)
 - **together**一起;**scrape**用工具刮;**throw**抛;**stone**石头;**stones**小石头;**gather**收集;**gravel**砂砾;**forge**熔炉，锻铁炉;
 - _n._ [paving stone](dic://paving stone)
 - _v._ [pave](dic://pave), [repair](dic://repair), [mend](dic://mend), [fix](dic://fix), [bushel](dic://bushel), [doctor](dic://doctor), [furbish up](dic://furbish up)
+- the chiaroscuro of cobbled streets. /明暗交错的石子路。
+- a cobbled courtyard. /用小圆石铺地的庭院。
+- a long, shadowy, cobbled passage. /一条多荫的鹅卵石长通道。
+- He is allowed a week to cobble together a fresh coalition. /他获准有一周的时间来组建一个新的联盟。
+- Others cobble together incomes from a range of outside sources. /其他人则从各种外部来源东拼西凑成一些收入。
+- 
 - cobbly
 - cobblestone
 - cobbler
@@ -2521,6 +2559,23 @@ cobble
 - cobbled
 
 comb
+-  [cockscomb](dic://cockscomb), [coxcomb](dic://coxcomb)
+- [combing](dic://combing)
+- [ransack](dic://ransack)
+- [comb out](dic://comb out), [disentangle](dic://disentangle)
+- _n._ [device](dic://device), [crest](dic://crest), [caruncle](dic://caruncle), [caruncula](dic://caruncula), [tool](dic://tool), [plate](dic://plate), [hair care](dic://hair care)
+- _v._ [straighten](dic://straighten), [straighten out](dic://straighten out), [search](dic://search), [groom](dic://groom), [neaten](dic://neaten)
+- **hair**头发;**hairs**毛茸;**brush**刷子;**bristles**猪鬃;**wig**假发;**brushes**画笔;**brushing**擦拭的;**honey**蜂蜜;**braid**辫子;**shampoo**洗发;**razor**剃，用剃刀刮;
+- _comb filter_ 梳齿形滤波器
+- _comb out_ 仔细搜寻；裁减；挑选
+- _honey comb_ 蜂巢
+- _wooden comb_ 木梳
+- The old man combed his snowy hair. /老头儿梳他的白发。
+- she combed the burrs out of the dog's coat. /她给狗梳去毛上的刺球。
+- the socks are made of soft combed cotton. /这种短袜是用柔软的精梳棉做的。
+- she raked a comb through her hair /她用梳子梳理头发。
+- she was tugging a comb through her long tresses /她正梳理着长发。
+- And combed them thoroughly for good ideas. /并梳理出了精华的想法。
 - whitecomb
 - uncombed
 - toothcomb
@@ -2601,6 +2656,10 @@ coquet [美 /koˈkɛt/](cmd://Speak/_us_/coquet) (bouquet, cachet, crotchet, co
 	- _[coquettish excellence](dic://coquettish%20excellence)_ 风骚
 	- _[Coquettish allure](dic://Coquettish%20allure)_ 炫彩银绿
 	- _[coquettish woman](dic://coquettish%20woman)_ 轻佻的女子
+	- I'm trying to figure out whether I should go with " high school senior" ...or " coquettish ingenue." /我现在正琢磨我是该摆“高中毕业生”还是“风情美少女。”
+	- He put his head on one side, his smile became almost coquettish. " Just a few words from you, Mr. Savage." /他把脑袋偏到一边，微笑得几乎有点献媚的意思。“只需要你说几句话，野蛮人先生。”
+	- I shall be angry, ' she added with a little coquettish grimace, and she pouted. /我会生气的， ” 她噘起嘴，带着一点风骚的鬼脸补充道。
+	- A coquettish young girl, who loves early in life, gets habituated to the trouble of love, and when she reaches the age of real passion, finds the charm of novelty lacking. /一个风骚的少女， 早恋，习惯了爱情的烦恼， 到了真正热血沸腾的年纪， 却发现缺乏新奇的魅力。
 - coquette
 	- n. 卖弄风情的女人；冠蜂鸟 
 	- v. 卖弄风情，调情
@@ -3053,6 +3112,7 @@ dove
 
 drab
 - (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
+- 
 
 drain
 -  词源同 dry,排空，干。
@@ -3115,15 +3175,26 @@ drape
 dread
 - re(i)-
 
-dreary
-1. [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear)
-	1. [dull](dic://dull) 指缺乏鲜明、吸引力或情趣而显得乏味、沉闷。  
-	2. [tedious](dic://tedious) 侧重指文章、演讲、演出等冗长乏味或环境等单调、沉闷，缺乏活力，使感到不舒服。  
-	3. [monotonous](dic://monotonous) 指没有变化、重复单调的。  
-	4. [dreary](dic://dreary) 侧重无趣味的，不活泼的事或思想状态。
-2. **gloomy**黑暗的;**drab**单调的;**bleak**荒凉的，无遮蔽的;**dull**钝的;**dismal**凄凉的，忧郁的;**miserable**悲惨的;**monotonous**无变化的, 单调乏味的;**rainy**多雨的;**grim**冷酷的;**depressing**令人沮丧的;**gloom**忧郁;
-3. dreariness
-4. drearily
+dreary (weary)
+- 1. _adj._ 使人闷闷不乐或沮丧的；阴沉的，忧郁的
+2. 令人厌烦的；单调的；枯燥的
+3. 
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
+- [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drab](dic://drab), [drear](dic://drear)
+	- [dull](dic://dull) 指缺乏鲜明、吸引力或情趣而显得乏味、沉闷。  
+	- [tedious](dic://tedious) 侧重指文章、演讲、演出等冗长乏味或环境等单调、沉闷，缺乏活力，使感到不舒服。  
+	- [monotonous](dic://monotonous) 指没有变化、重复单调的。  
+	- [dreary](dic://dreary) 侧重无趣味的，不活泼的事或思想状态。
+- **gloomy**黑暗的;**drab**单调的;**bleak**荒凉的，无遮蔽的;**dull**钝的;**dismal**凄凉的，忧郁的;**miserable**悲惨的;**monotonous**无变化的, 单调乏味的;**rainy**多雨的;**grim**冷酷的;**depressing**令人沮丧的;**gloom**忧郁;
+- dreary little dorps with an ox-wagon mentality. /思想还停留在牛车时代的死气沉沉的小镇。
+- romantic novels should present an escape from the dreary realities of life. /传奇小说让人从沉闷的现实生活中暂时解脱出来。
+- Addressing envelopes all day long is dreary work. /成天给信封写地址是一种沉闷单调的工作。
+- Was ever such a dreary, dismal, unprofitable world? /难道有过这样凄凉惨淡而又无聊的世界吗？
+- Oh, it was Heaven after the last dreary year! /啊，经历了过去一年的暗淡日子，这里就是天堂了！
+- I suppose that everyone finds his first independent start in business a dreary experience. /我想，每个人都会发现，第一次独自开业是一件枯燥无味的事。
+- 
+- dreariness
+- drearily
 
 dress
 - well-dressed
@@ -3333,6 +3404,10 @@ eerie
 element
 - elementary
 
+elk
+- n. 麋鹿
+- 来自 PIE*el,红棕色，词源同 elm,eland.
+
 emerald
 - n. 翡翠, 绿宝石, 翠绿色  
 - a. 翡翠的, 翠绿色的
@@ -3519,7 +3594,7 @@ feist
 	- Hollywood doesn't have a lot of good feisty roles for girls my age. /好莱坞没多少适合我这个年龄的女孩子扮演的生气勃勃的好角色。
 
 fetter
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
+-   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
 -  来自古英语 fetor,链子，特指脚链，词源同 foot.
 -  [hobble](dic://hobble)
@@ -3563,7 +3638,7 @@ fidget (fiddle, piddle)
  - She's always fidgeting about her mother's health. /她经常为她母亲的健康担忧。
  - His voice was deep and rich and somehow took the fidgets out of them. /它的声音深沉、圆润，不知怎么竟消除了他们的不安。
  - fidgety
-	 - (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	 -  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	 - unable to relax or be still
 	 - a. 不安的, 烦躁的
@@ -4999,7 +5074,7 @@ grass
 - 来自 PIE*ghre,生长，变绿，词源同 grow,green.
 
 grate (integrate) 
-- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - - n. （壁炉上的）金属炉架，炉箅；壁炉（或熔炉）的炉膛；格栅；<美>下水道孔盖 
 - v. 擦碎，磨碎（食物）；粗声粗气地说话；使烦躁，使难受；发出刺耳的摩擦声
@@ -5036,7 +5111,7 @@ grate (integrate)
 
 gravel (grovel， gavel)
 - n. 砂砾；碎石 vt. 用碎石铺；使船搁浅在沙滩上；使困惑
-- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
 -  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
@@ -5317,6 +5392,7 @@ ground
 grump
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**bugger**家伙;**irritable**易怒的, 急躁的;**annoyed**恼怒的;**jolly**愉快的;**snarky**恶声恶气的，咬人的;**bitch**母狗，母狼;**fella**<俚>伙伴;
 - grumpy
+	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 	- **cranky**暴躁的;**irritable**易怒的, 急躁的;**whiny**烦躁的;**angry**生气的;**annoyed**恼怒的;**tired**疲倦的;**smug**自满的, 沾沾自喜的;**chatty**饶舌的;**moody**喜怒无常的;**jaded**厌倦的;**jolly**愉快的;
 	-  [crabbed](dic://crabbed), [crabby](dic://crabby), [cross](dic://cross), [fussy](dic://fussy), [grouchy](dic://grouchy), [bad-tempered](dic://bad-tempered), [ill-tempered](dic://ill-tempered)
 
@@ -5567,7 +5643,7 @@ hammock (hummock)
 - He's taking a nap in his hammock. /他正在吊床上睡小觉。
 
 hamper (tamper)
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+-   (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 - 1 - 来自古法语 hanap,杯子，酒杯，后引申词义装杯子的大篮子。防碍义词源不详，参照习语basket case,困境。
 - op-hamper
 - [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
@@ -5705,7 +5781,7 @@ hamper (tamper)
 	- _handicraft industry_ 手工业
 	- _handicraft article_ 工艺美术品
 - handicap
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+	-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 	- _n._ 障碍 ;(生理或智力上的)缺陷；残疾; 加给强对手的不利条件
 	- _vt._ 妨碍；使不利 使(某人)行动和生活不正常
 	- [disability](dic://disability), [disablement](dic://disablement), [impairment](dic://impairment)
@@ -5840,6 +5916,7 @@ harsh
 hash
 - rehashing
 - rehash
+	- (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over)
 	- **revisit**重游;**cliches**陈腔滥调;**recap**翻新的轮胎;**stale**不新鲜的;**reiterate**反复地说,重申;**pointless**无意义的;**cliche**陈词滥调;**tiresome**烦人的，无聊的;**gist**主旨，要点;**rewrite**改写;**summarize**总结, 概述;
 	- [retrograde](dic://retrograde), [hash over](dic://hash over)
 	- [recycle](dic://recycle), [reprocess](dic://reprocess), [reuse](dic://reuse), [recapitulate](dic://recapitulate), [recap](dic://recap)
@@ -6255,7 +6332,17 @@ hero
 	- _n._ [protagonist](dic://protagonist), [agonist](dic://agonist)
 	- **villain**坏人，恶棍;**protagonist**主角;**hero**英雄;**villainous**邪恶的;**villains**恶棍;**antagonist**敌手;**sidekick**伙伴,插袋;**superhero**超级英雄;**heroine**女英雄;**gangster**歹徒，流氓;**psychopath**精神病患者;
 
+heron
+-  来自 PIE*kreik,尖叫，拟声词，模仿这种鸟的叫声，词源同 egret.
+-  [Hero](dic://Hero), [Hero of Alexandria](dic://Hero of Alexandria)
+- _n._ [mathematician](dic://mathematician), [inventor](dic://inventor), [discoverer](dic://discoverer), [artificer](dic://artificer), [wading bird](dic://wading bird), [wader](dic://wader)
+- **bird**鸟;**swan**天鹅;**swans**天鹅;**hawk**鹰;**hummingbird**蜂鸟;**birds**鸟类;**eagle**鹰;**owl**猫头鹰;**crow**乌鸦;**sparrow**麻雀;**raven**掠夺，劫掠;
+- a heron glided to rest on a pebbly strand. /一只鹭轻轻地掠过天空，落在布满鹅卵石的岸边休息。
+- " Some say that herons are majestic, " said Old Bill Bone. /" 都说苍鹭是有王家风范的动物。" 老骨头比尔说。
+
 hew
+- - 来自 PIE*kau,击，打，砍，词源同 hay,hoe.进一步来自 PIE*sek,砍，劈，切，词源同segment,scissors.
+- vt. 砍, 砍倒, 砍成  vi. 砍, 劈, 坚持
 - **ere**在…以前;**deviate**偏离;**adhere**坚持;**conform**符合;
 - [carve](dic://carve), [strike](dic://strike)
 - [hew out](dic://hew out)
@@ -6417,7 +6504,7 @@ hind
 - hindlimb
 - hindgut
 - hinder
-	- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+	-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 	- [impede](dic://impede)
 	- [obstruct](dic://obstruct), [blockade](dic://blockade), [block](dic://block), [stymie](dic://stymie), [stymy](dic://stymy), [embarrass](dic://embarrass)
 	- [handicap](dic://handicap), [hamper](dic://hamper)
@@ -7175,7 +7262,7 @@ ire
 	- a barrage of irate letters / 连珠炮般的斥责信件。
 	- an irate phone call. /一个愤怒的电话
 - irascible
-	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	- [choleric](dic://choleric), [hotheaded](dic://hotheaded), [hot-tempered](dic://hot-tempered), [quick-tempered](dic://quick-tempered), [short-tempered](dic://short-tempered)
 	- _adj._ [ill-natured](dic://ill-natured), [angry](dic://angry)
@@ -7997,6 +8084,85 @@ liquorice
 - **licorice**欧亚甘草;**toffee**乳脂糖，太妃糖;**peppermint**薄荷;**chocolate**巧克力;**savoury**咸味的;**ginger**姜;**caramel**焦糖;**candied**甜蜜的;**sweets**糖果;**hazelnut**榛树;**marshmallow**药属葵,药属葵蜜饯;
 - [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [candy](dic://candy), [confect](dic://confect)
 - _liquorice root_ [药]甘草；甘草根；甘草粉末
+
+load
+- 来自古英语 lad,道路，航程，携带，来自 PIE*leit,向前，前进，词源同 lead.后引申词义负载，装载，并逐渐取代 lade.词义演变比较 way,vehicle,wagon.
+- n. 负荷, 担子, 重担, 装载量, 负载, 工作量, 加载
+- vt. 装载, 装填, 使担负
+- vi. 装货, 上客, 装料
+- [loading](dic://loading), [burden](dic://burden)
+- [loading](dic://loading)
+- [cargo](dic://cargo), [lading](dic://lading), [freight](dic://freight), [loading](dic://loading), [payload](dic://payload), [shipment](dic://shipment), [consignment](dic://consignment)
+- [burden](dic://burden), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance), [onus](dic://onus)
+- [lode](dic://lode)
+- [warhead](dic://warhead), [payload](dic://payload)
+- [lade](dic://lade), [laden](dic://laden), [load up](dic://load up)
+- [charge](dic://charge)
+- _n._ [weight](dic://weight), [indefinite quantity](dic://indefinite quantity), [merchandise](dic://merchandise), [ware](dic://ware), [product](dic://product), [electrical power](dic://electrical power), [electric power](dic://electric power)
+- _v._ [fill](dic://fill), [fill up](dic://fill up), [make full](dic://make full), [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose)
+	- [burden](dic://burden) 指沉重、令人不快的负担；指精神负担时常有不堪忍受的意味。  
+	- [cargo](dic://cargo) 指用轮船、车辆或飞机长距离运载的货物。  
+	- [load](dic://load) 普通用词，含义广泛，指人、畜、车、船等负载的东西，指精神负担时，可与burden换用，但无感情色彩。
+- **unload**卸;**unloaded**空载的;**unloading**卸料;**reload**重新装;**reloading**重复荷载，换装;**workload**工作量;**lighten**减轻;**dump**倾倒;**burden**负担;**overload**超载，超过负荷;**hauling**搬运;
+- that's a load of bosh. /废话连篇。
+- a load of firewood. /一担柴火
+- load the cassette into the camcorder. /把带子装到摄像机里。
+- Single malt? Have a seat, take a load off. /单片麦芽？请坐，休息会儿。
+- workload
+- upload
+- unloader
+- unload
+- underload
+- truckload
+- trainload
+- shipload
+- reload
+- preloaded
+- preload
+- planeload
+- peakload
+- payload
+- overload
+- onload
+- off-load
+- no-load
+- loadstone
+- loadines
+- loading
+	- unloading
+	- transloading
+	- self-loading
+	- reloading
+	- preloading
+	- loadingboard
+	- breech-loading
+- loader
+- loaded
+	- v. 向……装货；把……装入车船（或集装箱等）；（船、车）装货；（使）负载；有……的偏向（load 的过去式及过去分词） 
+	- adj. 载着（重物）的；（枪）装满弹药的；（非正式）腰包鼓鼓的；（非正式）喝酒过多的；（非正式）有多种附加功能的；欺骗的；话中有话的；不公平的；诱导性的
+	-  [laden](dic://laden), [ladened](dic://ladened)
+	-  [affluent](dic://affluent), [flush](dic://flush), [moneyed](dic://moneyed), [wealthy](dic://wealthy)
+	- [besotted](dic://besotted), [blind drunk](dic://blind drunk), [blotto](dic://blotto), [crocked](dic://crocked), [cockeyed](dic://cockeyed), [fuddled](dic://fuddled), [pie-eyed](dic://pie-eyed), [pissed](dic://pissed), [pixilated](dic://pixilated), [plastered](dic://plastered), [potty](dic://potty), [slopped](dic://slopped), [sloshed](dic://sloshed), [smashed](dic://smashed), [soaked](dic://soaked), [soused](dic://soused), [sozzled](dic://sozzled), [squiffy](dic://squiffy), [stiff](dic://stiff), [tiddly](dic://tiddly), [tiddley](dic://tiddley), [tight](dic://tight), [tipsy](dic://tipsy), [wet](dic://wet)
+	- _adj._ [full](dic://full), [live](dic://live), [undischarged](dic://undischarged), [unexploded](dic://unexploded), [prejudiced](dic://prejudiced), [discriminatory](dic://discriminatory), [rich](dic://rich)
+	- _n._ [empty](dic://empty), [unloaded](dic://unloaded), [unprejudiced](dic://unprejudiced), [impartial](dic://impartial), [poor](dic://poor), [sober](dic://sober)
+	- **unloaded**空载的;**laden**装满的;**packed**充满…的，塞满了…的;**unload**卸;**filled**加满的;**emptied**耗尽的;**unloading**卸料;**reload**重新装;**stored**储存的;**unpacked**未包装的;**crammed**塞满的;
+	- _fully loaded_ 满载
+	- _spring loaded_ 受载弹簧；弹簧加压的
+	- _loaded question_ 含沙射影韵问题
+	- was loaded with worries. /为烦恼所累
+	- They front-loaded their tax deductions. /他们提早享受了税额削减
+	- I'm much more charming if you're loaded. /你醉了会觉得我更有魅力。
+	- Yeah! Her dad is really loaded. /是的！她爸爸很有钱。
+	- 
+- loadage
+- load-shedding
+- freeload
+- download
+- caseload
+- cartload
+- carload
+- boatload
+- afterload
 
 loaf
 - n. 一条面包, 块, 游荡  
@@ -8821,7 +8987,7 @@ net
 - network
 - netty
 - nettle
-	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - netting
 - netted
@@ -8846,7 +9012,7 @@ net
 - catenet
 - netty
 - nettle
-	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	- 来自net , 网。即织网的材料，用于指荨麻。
 	- n. 荨麻 vt. 使烦恼, 使生气; 以荨麻刺
@@ -9426,7 +9592,7 @@ peck (peck, pike, pick)
 - henpeck
 
 peeve
-- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - 来自 peevish 的回构词。
 - **gripe**抱怨;**dislike**不喜欢，厌恶;**no-no**被禁止的东西;**annoyance**烦恼;**rant**咆哮;**pet**宠物;**mine**矿山，矿井;
@@ -9438,7 +9604,7 @@ peeve
 - his pet peeve is not having answers for questions from players /最让他生气的是选手们不回答问题。
 - Yes, a pet peeve is something that someone finds particularly annoying. /是的，" 恼人的事物" 是某人觉得特别讨厌的东西。
 - peevish
-	- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 	- 词源不详，可能来自 perverse 受-ish 影响的俗化形式，词义由任性的，无理取闹的引申为生气的，易怒的等。
 	- [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
@@ -10335,14 +10501,14 @@ quip
 quirk
 - 词源不详，可能来自 queer 的强化形式，引申词义怪癖，怪异。-k,表强调，比较 hear,hark.
 - quirky (crank)
-	- (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
+	- (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
 	-  [far-out](dic://far-out), [kinky](dic://kinky), [offbeat](dic://offbeat), [way-out](dic://way-out)
 	- _adj._ [unconventional](dic://unconventional)
 	- _n._ [conventional](dic://conventional)
 	- **offbeat**离奇的;**whimsical**异想天开的,闹着玩的;**charming**迷人的;**endearing**惹人喜爱的;**wacky**乖僻的，古怪的;**funky**畏缩的;**eccentric**古怪的, 怪癖的;**idiosyncratic**特殊物质的,特殊的,异质的;**eclectic**兼收并蓄的;**delightfully**大喜;**lovable**可爱的，讨人喜欢的;
 
 Quixote
-- quixotic (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
+- quixotic (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
 	- quixotic（不切实际的）：塞万提斯名著《堂吉坷德》的男主角  
 	- 堂吉坷德是17世纪伟大的西班牙作家塞万提斯的代表作《堂吉诃德》中的人物。他是一个迷恋骑士小说的小乡绅。在骑士已经绝迹100多年后的年代，把自己幻想为中世纪的一名骑士，雇佣了附近一名农民做随从，披甲持盾，肩扛一柄生锈长枪，骑着一匹瘦弱的老马，出门行侠仗义，做出种种与时代相悖，令人匪夷所思的事情，如把风车当成巨人，要与它决斗；把一群罪犯当成受压迫的绅士，杀散了衙役解救了他们，结果反而被他们一顿暴揍。因此，在英语中，人们就用堂吉诃德来表示与脱离现实的幻想家，从他的名字Quixote（吉诃德）中衍生出形容词quixotic，表示不切实际的。  
 		- quixotic： [kwɪk'sɒtɪk] adj.不切实际的，幻想家的，堂吉诃德式的
@@ -10509,7 +10675,7 @@ ratchet  (bouquet, banquet, cachet, crotchet, coquet, ratchet)
 - How could that possibly ratchet up their chances for success? /这怎么可能增加他们成功的机会呢？
 
 rattle
-- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
+-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery)
 - (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
 - [rattling](dic://rattling), [rale](dic://rale)
 - _n._ [noise](dic://noise), [plaything](dic://plaything), [toy](dic://toy), [tail](dic://tail)
@@ -10701,7 +10867,7 @@ regard
 	- disregardful
 
 rein
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 - 来自（缩写自）拉丁语 retinere,维持，控制，词源同 retain.引申诸相关词义。
 	- [harness](dic://harness), [rein in](dic://rein in), [draw rein](dic://draw rein)
 	- [rein in](dic://rein in)
@@ -11981,7 +12147,7 @@ sham
 - _[sham battle](dic://sham%20battle)_  模拟战
 
 shackle
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 - 来自古英语 sceacel,镣铐，脚链，来自 Proto-Germanic*skakulaz,镣铐，脚链，来自 PIE*skek,摇晃，词源同 shake.-le,工具格后缀。
 - _n._ [restraint](dic://restraint), [constraint](dic://constraint), [bar](dic://bar)
 - _v._ [restrain](dic://restrain), [confine](dic://confine), [hold](dic://hold)
@@ -13865,7 +14031,7 @@ sterling
 - **silver**银;**pewter**锡铅合金,白镴;**gold**金，黄金;**earrings**耳环;**pound**英镑;**brooch**胸针，领针;**earring**耳环，耳饰;**bracelet**手镯;**pendant**下垂物，垂饰;**jewellery**珠宝;**brass**黄铜;
 
 stifle
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 - 1 - 词源不确定，可能最终来自 PIE*steip,压紧，打包，塞满，词源同 stiff,stuff.-le,表反复。引申词义窒息，压制，扼杀等。
 - [smother](dic://smother), [strangle](dic://strangle), [muffle](dic://muffle), [repress](dic://repress)
 - [suffocate](dic://suffocate), [asphyxiate](dic://asphyxiate), [choke](dic://choke)
@@ -14136,7 +14302,7 @@ stub
 	- adj. 多梗株的；株状的；粗短的; v. 使…碰踢；清除掉…的残根（stub的过去式与过去分词）;
 
 stymie
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 - . (喻)困难的境地  
 - vt. 使(球)处于困难的位置, 使为难, 使处困境, 妨碍, 阻挠, 阻碍
 - [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid)
@@ -14940,7 +15106,7 @@ tower
 trammel
 - - 来自古法语 tramail,鱼网，特指比较精细的鱼网，来自拉丁语 tremaculum,鱼网，可能来自 tri-,三，macula,网眼，网纱，词源同 mail.其原义可能为三层网纱制成的鱼网。引申词义束缚，限制。
 - (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
-- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest,)
+-  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 - [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper)
 - [trap](dic://trap), [entrap](dic://entrap), [snare](dic://snare), [ensnare](dic://ensnare)
 - [restrict](dic://restrict), [restrain](dic://restrain), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
@@ -15196,7 +15362,7 @@ vanilla
 
 _plain vanilla_ 单纯功能
 
-vapid
+vapid (bromide)
 - (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding, earthbound)
 - 来自 vapor,蒸气，蒸发，用于指酒的酒精蒸发掉的，乏味的。
 - a. 乏味的, 走了气味的, 无生气的, 无趣味的
@@ -15406,6 +15572,7 @@ want
 - unwanted
 
 wane
+- (wax and wane / bane and boon /weal and woe /ebb and flow)
 - wane [weɪn] vi. 衰落；变小；亏缺；退潮；消逝，n. 衰退；月亏；衰退期；缺损。这个单词与wax意思基本相反，日耳曼词源，与waste和want等有关，与拉丁来源的vain徒劳的；自负的和vast以及void空的和vacuum真空等同源。我们说月有阴晴圆缺，用上wax和wane这两个单词就是The moon waxes and wanes。
 - [ebb](dic://ebb), [ebbing](dic://ebbing)
 - [decline](dic://decline), [go down](dic://go down)
@@ -15487,6 +15654,11 @@ wealth
 - 来自 PIE*wel,希望，愿望，词源同 will,volunteer.引申词义按自己意愿，随心所欲，财富。
 - wealthy
 - commonwealth
+
+wear
+- - 来自 PIE*wes,穿衣，词源同 vest,invest,字母 r,s 音变。引申词义磨损，损耗。
+- wear your heart on your sleeve情绪化；公开地展示感情。习语中的heart指的是倾慕之人。中世纪马上比武（长枪）中，有些骑士会将代表自己所支持的贵妇（heart）的颜色的布条或布块穿戴（wear）在袖子上或用丝带绑在胳膊上（sleeve），以此公开表明自己的立场。Do not wear your heart on your sleeve.
+- wes-
 
 weave
 - [tissue](dic://tissue)
@@ -15669,7 +15841,7 @@ welter
 - " And looks a lot like Betty, too, " said Camilla, and then disappeared shrieking amid a welter of skirts and pantalets and bobbing hats, as Betty, who did have a long face, began pinching her. /" 而且长得也很像赫蒂，" 卡米拉说，这惹得长脸的赫蒂动手来拧她，她尖叫一声就躲到一大堆裙子，长裤子和晃动的帽子中间去了。
 
 whimsy
-- (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, )
+- (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
 - [notion](dic://notion), [whim](dic://whim), [whimsey](dic://whimsey)
 - [flightiness](dic://flightiness), [arbitrariness](dic://arbitrariness), [whimsicality](dic://whimsicality), [whimsey](dic://whimsey), [capriciousness](dic://capriciousness)
 - _n._ [idea](dic://idea), [thought](dic://thought), [irresponsibility](dic://irresponsibility), [irresponsibleness](dic://irresponsibleness)

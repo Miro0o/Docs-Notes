@@ -426,12 +426,14 @@
 		6. propagating
 		7. nonpropagating
 	14. impinge
-		1. [encroach](dic://encroach), [entrench](dic://entrench), [trench](dic://trench)
-		2.  [encroach](dic://encroach), [infringe](dic://infringe)
-		3. _v._ [trespass](dic://trespass), [take advantage](dic://take advantage), [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on)
-		4. **interfere**干预;**infringe**侵犯;**impede**阻止;**affect**影响;**impair**削弱;**inhibit**抑制;**endanger**危及;**adversely**逆地,反对地;**obstruct**阻塞;**interfering**妨碍的;**hinder**成为阻碍;
-		5. impinger
-		6. impingement
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, )
+		2. vi. 撞击, 起作用, 侵犯  vt. 撞击
+		3. [encroach](dic://encroach), [entrench](dic://entrench), [trench](dic://trench)
+		4.  [encroach](dic://encroach), [infringe](dic://infringe)
+		5. _v._ [trespass](dic://trespass), [take advantage](dic://take advantage), [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on)
+		6. **interfere**干预;**infringe**侵犯;**impede**阻止;**affect**影响;**impair**削弱;**inhibit**抑制;**endanger**危及;**adversely**逆地,反对地;**obstruct**阻塞;**interfering**妨碍的;**hinder**成为阻碍;
+		7. impinger
+		8. impingement
 4. **pag-, peas-** 表示“乡村、村民”，原意表示 district limited by markers（圈起来的一块固定土地）。源自拉丁语 pagina "trellis to which a row of vines is fixed."
 	1. peasant
 		1. peasantry
@@ -1343,12 +1345,13 @@
 	3. pejoration
 		1. _[pejoration](dic://pejoration)_  n. 恶化；堕落；语义的转贬
 	4. impair
-		1. **impede**阻止;**hinder**成为阻碍;**inhibit**抑制;**interfere**干预;**endanger**危及;**affect**影响;**diminish**使减少;**disrupt**使分裂;**adversely**逆地,反对地;**obstruct**阻塞;**jeopardize**危及, 损害;
-		2. [mar](dic://mar), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate)
-		3. [damage](dic://damage)
-		4. umimpaired
-		5. impairment
-		6. impaired
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+		2. **impede**阻止;**hinder**成为阻碍;**inhibit**抑制;**interfere**干预;**endanger**危及;**affect**影响;**diminish**使减少;**disrupt**使分裂;**adversely**逆地,反对地;**obstruct**阻塞;**jeopardize**危及, 损害;
+		3. [mar](dic://mar), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate)
+		4. [damage](dic://damage)
+		5. umimpaired
+		6. impairment
+		7. impaired
 3. **pecc-** = sin，表示“犯罪”。源自拉丁语 peccare "to stumble, sin."
 	1. peccable
 		1.  [peccant](dic://peccant)
@@ -1449,7 +1452,7 @@
 			6. To rely on such a measure is **inexpedient**. /依赖这种措施是不得计的。
 			7.  It would be **inexpedient** to raise taxes further/进一步加税就是不合理。
 	14. impede
-		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain)
+		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
 		2. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		3. vt. 妨碍, 阻碍, 阻止
 		4. im-进入 + ped-脚 + -e → 把脚放进去 → 妨碍。
@@ -4690,7 +4693,15 @@
 			12. His very clothes seemed to partake of the hospitable nature of the wearer. /他穿的衣服似乎也感染了穿者好客的天性。
 			13. It's something that things in the empirical world can participate in or partake of to varying degrees. /它是以不同程度参与到经验世界中的各种事物。
 		19. parted
-		20. partial
+		20. partial (impartial)
+			1.  (disposed, biased, inclined, lean towards, partial, one-sided, opinionated, skew, bigoted, prejudiced, )
+			2.  [partial derivative](dic://partial derivative)
+			3.  [overtone](dic://overtone), [partial tone](dic://partial tone)
+			4. _n._ [derived function](dic://derived function), [derivative](dic://derivative), [differential coefficient](dic://differential coefficient), [differential](dic://differential), [first derivative](dic://first derivative), [harmonic](dic://harmonic)
+			5. _adj._ [incomplete](dic://incomplete), [uncomplete](dic://uncomplete), [biased](dic://biased), [colored](dic://colored), [coloured](dic://coloured), [one-sided](dic://one-sided), [slanted](dic://slanted)
+			6. _n._ [complete](dic://complete), [impartial](dic://impartial), [fair](dic://fair), [disinclined](dic://disinclined)
+			7. **complete**完全的;**partially**部分地;**full**完全的，完整的;**incomplete**不完全的, 未完成的;**simultaneous**同时发生的;**total**全部的;**conditional**有条件的;
+			8. partial to detective novels /偏爱侦探小说
 		21. partible
 	22. participate
 		1.  part,部分，-cip,承担，抓住，词源同 capable,anticipate.即承担一部分，成为其中的一部分，引申词义参加，参与。
@@ -4778,8 +4789,9 @@
 			7. he is in double jeopardy , unable to speak either language adequately. /他面临着双重风险，即两种语言都说不好。
 			8. Why put your town's safety in jeopardy? /你怎么能把家乡的安全置之不顾？
 		6. jeopardize： ['dʒɛpɚdaɪz] vt. 危害；使陷危地；使受危困
-			1. _v._ [exist](dic://exist), [be](dic://be), [risk](dic://risk), [put on the line](dic://put on the line), [lay on the line](dic://lay on the line)
-			2. **endanger**危及;**undermine**在某物下挖洞或挖通道;**threaten**威胁;**impede**阻止;**hinder**成为阻碍;**interfere**干预;**impair**削弱;**disrupt**使分裂;**ruin**毁坏;**undermining**底切;**detrimental**有害的;
+			1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+			2. _v._ [exist](dic://exist), [be](dic://be), [risk](dic://risk), [put on the line](dic://put on the line), [lay on the line](dic://lay on the line)
+			3. **endanger**危及;**undermine**在某物下挖洞或挖通道;**threaten**威胁;**impede**阻止;**hinder**成为阻碍;**interfere**干预;**impair**削弱;**disrupt**使分裂;**ruin**毁坏;**undermining**底切;**detrimental**有害的;
 
 
 ### pest- = plague，表示“瘟疫”。源自拉丁语 pestis "deadly contagious disease."
@@ -6732,9 +6744,12 @@
 		1. plateau
 		2. platform
 		3. platitude
-			1. [cliche](dic://cliche), [banality](dic://banality), [commonplace](dic://commonplace), [bromide](dic://bromide)
-			2. _n._ [remark](dic://remark), [comment](dic://comment), [truism](dic://truism)
-			3. **cliche**陈词滥调;**cliches**陈腔滥调;**hyperbole**夸张的语句;**banal**陈腐的;**drivel**淌口水,说傻话;**meaningless**无意义的;**adage**格言，谚语;**phrase**成语;**rhetoric**修辞，修辞学;**nonsense**谬论;**mantra**颂歌;
+			1. plat-平 + -itude状态 → [语言]平坦 → 陈词滥调。
+			2. n. 单调, 平凡, 陈腐, 陈词滥调
+			3. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over)
+			4. [cliche](dic://cliche), [banality](dic://banality), [commonplace](dic://commonplace), [bromide](dic://bromide)
+			5. _n._ [remark](dic://remark), [comment](dic://comment), [truism](dic://truism)
+			6. **cliche**陈词滥调;**cliches**陈腔滥调;**hyperbole**夸张的语句;**banal**陈腐的;**drivel**淌口水,说傻话;**meaningless**无意义的;**adage**格言，谚语;**phrase**成语;**rhetoric**修辞，修辞学;**nonsense**谬论;**mantra**颂歌;
 				1. _[be a mere platitude](dic://be%20a%20mere%20platitude)_ 老生常谈
 				2. _[platitude n](dic://platitude%20n)_ 陈词滥调
 				3. _[a platitude](dic://a%20platitude)_ 英语翻译; 陈词滥调; 

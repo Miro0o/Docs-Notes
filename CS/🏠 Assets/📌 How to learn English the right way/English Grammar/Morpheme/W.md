@@ -657,21 +657,29 @@
 		11. Communities near New Orleans were also inundated, along with the region around Pass Christian, Mississippi. /新奥尔良附近的社区也被淹没，以及密西西比州Pass Christian附近的地区。
 		12. Results from Tuesday's election were delayed after cities were inundated by nearly a million mail-in ballots. /星期二的选举结果被推迟，因为城市被近100万张邮寄选票淹没。
 	3. redound
-		1. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail), [reflect](dic://reflect), [accrue](dic://accrue)
-		2. **detriment**损害, 伤害;**benefit**利益，好处;**accrue**自然增加;**diminish**使减少;**bestow**授予;**doubtless**无疑地, 肯定地;**reap**收割;**justly**公正地;**undermine**在某物下挖洞或挖通道;**outweigh**比…重;**confer**商讨;
-		3. _redound upon_ v. 回报
-		4. **redound to one's credit**:  为自己增光
-		5. redundance, redundancy
-		6. redundant
-			1. _adj._ [unnecessary](dic://unnecessary), [unneeded](dic://unneeded), [prolix](dic://prolix)
-			2. _n._ [necessary](dic://necessary), [concise](dic://concise)
-			3. **redundancy**多余，累赘，啰唆;**superfluous**过多的;**unneeded**不需要的;**unnecessary**不必要的, 多余的;**useless**无用的;**pointless**无意义的;**obsolete**老式的;**irrelevant**不相干的,不相关的;**nonsensical**无意义的;**extraneous**外部的,外来的;**duplicated**复制的;
-		7. irredundant
-	4. surround, surrounding, surroundings
-	5. undine
+		1. vi. 有助于; 改进, 提高（印象）
+		2. - v. 有助于，提高，改进（印象，声誉）；产生反作用，报应；增添，累积，上升
+		3. (ameliorate, redound, improve,)
+		4. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail), [reflect](dic://reflect), [accrue](dic://accrue)
+		5. **detriment**损害, 伤害;**benefit**利益，好处;**accrue**自然增加;**diminish**使减少;**bestow**授予;**doubtless**无疑地, 肯定地;**reap**收割;**justly**公正地;**undermine**在某物下挖洞或挖通道;**outweigh**比…重;**confer**商讨;
+		6. _redound upon_ v. 回报
+		7. **redound to one's credit**:  为自己增光
+		8. Any help you can give us will redound to your credit /你所能给我们的任何帮助都会提高你的声誉。
+		9. In some cases, those principles might indeed redound to everyone's benefit. /在某些情况下，这些原理或许的确有助于每一个人的福利。
+		10. His accomplishments-a massive corporate tax cut, a strong stock market-have largely redounded to the benefit of the bankers and fat cats. /而他的政绩 - 大规模的企业减税，强劲的股票市场 - 很大程度上也只是服务了银行家和肥猫。
+		11. The autonomous technologies that we develop for building in space redound to us on Earth. /我们为太空施工开发的自主技术也可以让地球上的人们受益。
+		12. Scarlett felt pleased at hearing of their exploits, pleased in a proprietary manner. Once a man had been her beau, she never lost the conviction that he belonged to her, and all his good deeds redounded to her credit. /一个男人只要曾经追求过她，她就永远忘不了他是属于她的，他所做的一切好事也就有助于她的荣誉了。
+		13. redundance, redundancy
+	4. redundant
+		1. _adj._ [unnecessary](dic://unnecessary), [unneeded](dic://unneeded), [prolix](dic://prolix)
+		2. _n._ [necessary](dic://necessary), [concise](dic://concise)
+		3. **redundancy**多余，累赘，啰唆;**superfluous**过多的;**unneeded**不需要的;**unnecessary**不必要的, 多余的;**useless**无用的;**pointless**无意义的;**obsolete**老式的;**irrelevant**不相干的,不相关的;**nonsensical**无意义的;**extraneous**外部的,外来的;**duplicated**复制的;
+	5. irredundant
+	6. surround, surrounding, surroundings
+	7. undine
 		1. _n._ [water sprite](dic://water sprite), [water nymph](dic://water nymph), [water spirit](dic://water spirit)
 		2. **mermaid**美人鱼;**potion**一剂;
-	6. undulate (fluctuate)
+	8. undulate (fluctuate)
 		1.  [ripple](dic://ripple), [ruffle](dic://ruffle), [riffle](dic://riffle), [cockle](dic://cockle)
 		2. [roll](dic://roll)
 		3. [roll](dic://roll), [flap](dic://flap), [wave](dic://wave)
@@ -694,7 +702,100 @@
 			1. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [movement](dic://movement), [motion](dic://motion)
 			2. **curvature**弯曲;**curving**弯曲的;**oscillation**振动;**topography**地志;**amplitude**广阔;**sloping**倾斜的;**ripples**涟漪;**slope**倾斜;**ridges**带钢单向皱纹;**rhythmic**间歇的;**roughness**粗糙;
 			3. She was soon ascending Blooms-End valley and traversing the undulations on the side of the hill /她很快就走上布卢姆斯恩德山谷，横穿过起伏的山坡。
-	7. vodka
+	9. vodka
+#### \*wed- (2)
+1. **od-** 
+	1. ode
+		1. _n._ [lyric](dic://lyric), [lyric poem](dic://lyric poem)
+		2. **poem**诗;**hymn**赞美诗;
+		3. But this ode to liberty wasn't written by some aloof, aristocratic admirer. /但是这首自由的颂歌不是什么冷漠的贵族崇拜者写的。
+		4. It was an ode to the functionalism and machine aesthetics of the 20th century. /这是对20世纪功能主义和机器美学的赞颂。
+		5. And obviously, a little bit of ode to Chanel of the '90s with Karl. /显然，还有一点卡尔对 90 年代香奈儿的致敬。
+	2. hymnodist
+	3. hymnody
+		1. - n. 赞美诗（集合词）；赞美诗研究；唱赞美诗
+		2. [psalmody](dic://psalmody)
+		3. _n._ [singing](dic://singing), [vocalizing](dic://vocalizing)
+		4. **hymns**赞美诗;**hymn**赞美诗;**liturgy**礼拜仪式;**liturgical**礼拜仪式的;**choral**合唱队的;**theology**神学;**carols**颂歌;**gospel**福音书;**vernacular**【C】本地话;**sermons**布道辞;**Syriac**叙利亚语的;
+	11. melody
+		1. n. 曲子, 美妙音乐, 曲调
+		2. mel-歌 + od-歌 + -y → 歌唱歌曲 → 旋律。
+		3. 来自希腊语 meloidia,吟唱，曲调，抒情诗，来自 melos, 歌，可能来自 PIE*mel,蜜，甜的，词源同 molasses.oide,歌，颂歌，词源同 ode.引申词义旋律，曲调。
+		4.  [tune](dic://tune), [air](dic://air), [strain](dic://strain), [melodic line](dic://melodic line), [line](dic://line), [melodic phrase](dic://melodic phrase)
+		5.  [tonal pattern](dic://tonal pattern)
+		6. _n._ [music](dic://music), [musical perception](dic://musical perception)
+			1. [melody](dic://melody) 指悦耳的曲调旋律。  
+			2. [song](dic://song) 多指配有歌词的歌曲。  
+			3. [tune](dic://tune) 指曲调，与配有歌词的歌曲相对。  
+			4. [theme](dic://theme) 指主旋律。
+		7. **melodic**有旋律的;**song**歌曲;**riff**反复乐节;**ballad**歌谣，民谣;**lyric**抒情的;**lyrics**歌词;**chorus**合唱队;**rhythm**节奏;**tune**曲调, 曲子;**rhythmic**间歇的;**hymn**赞美诗
+		8. picked a melody out on the guitar. /用吉他弹奏一曲
+		9. She struck up a folk melody on the piano /她开始用钢琴演奏那首民歌。
+		10. melodeon
+		11. melodic
+		12. melodics
+		13. melodious
+		14. melodist
+		15. melodize
+	17. monodist
+	18. monody
+	19. odeum
+		1. n. 表演场, 音乐厅, 剧场
+		2.  来自拉丁语 odeum,剧场，音乐厅，词源同 ode,-um,中性格。
+	20. odic
+	21. palinode
+	22. parodist
+	23. parody
+		1. n. 打油诗文, 诙谐的模仿诗文, 拙劣的模仿  vt. 拙劣模仿, 作模仿诗文
+		2. par-旁边 + od-唱 + -y → 在旁边歌唱 → 模仿歌。
+		3. 来自拉丁语 parodia,滑稽剧，滑稽模仿，来自 para-,在旁，在周围，-odia,吟唱，吟咏，词源同 ode,comedy,melody.
+		4.  [lampoon](dic://lampoon), [spoof](dic://spoof), [sendup](dic://sendup), [mockery](dic://mockery), [takeoff](dic://takeoff), [burlesque](dic://burlesque), [travesty](dic://travesty), [charade](dic://charade), [pasquinade](dic://pasquinade), [put-on](dic://put-on)
+		5.  [mockery](dic://mockery), [takeoff](dic://takeoff)
+		6.  [spoof](dic://spoof), [burlesque](dic://burlesque)
+		7. _n._ [caricature](dic://caricature), [imitation](dic://imitation), [impersonation](dic://impersonation), [apery](dic://apery), [mimicry](dic://mimicry)
+		8. _v._ [act](dic://act), [play](dic://play), [represent](dic://represent), [mock](dic://mock)
+		9. **spoof**①滑稽的模仿;**satire**讽刺;**satirical**含讽刺意味的, 嘲讽的;**skit**讽刺文;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**joke**玩笑，笑话;**hilarious**十分有趣的, 非常滑稽的;**comedic**喜剧的;**caricature**漫画;**cartoon**卡通片，动画片;**mockery**嘲弄;
+		10. The trial was a parody of justice /这次审判是对公正的一次拙劣的模拟
+		11. She has become a grotesque parody of her former elegant self. /她成为了以前那个举止优雅的自己的怪诞模仿品。
+		12. pathetic, self-parodying former beauty queens propped up by surgery and cosmetics. /通过外科手术和化妆品包装起来的、可怜的、自我嘲弄的前选美冠军们。
+	24. prosody
+		1. prosody（韵律）：古希腊语中的天然韵律  
+		2. 古希腊语具有特别适合吟唱的音乐属性，它的元音和辅音相互交替，相互呼应，并且每个单词都以柔和的音节收尾。所以古希腊语读起来抑扬顿挫、朗朗上口，特别适合吟唱。英语中表示“韵律”的单词prosody就体现了古希腊语所固有的这种音乐属性。它源自希腊语prosoidia，由pros（to, 朝向）+oide（歌曲，诗歌）构成，意思是“吟唱出来”。而英语单词accent（口音、重音）也来源于此。它来源于拉丁语accentus，是对希腊语prosoidia的意译，所以含义一样，表示一句话或一个词的唱法、发音法。  
+		3. prosody：['prɒsədɪ] n.韵律，韵律学，作诗法，诗体学  
+		4. accent：['æks(ə)nt; -sent] n.口音，重音，重音符号vt.重读，强调，带……的口音  
+		5. accentuate： [ək'sentʃʊeɪt; -tjʊ-] vt.强调，重读，突出
+		6.  [inflection](dic://inflection)
+		7.  [poetic rhythm](dic://poetic rhythm), [rhythmic pattern](dic://rhythmic pattern)
+		8.  [metrics](dic://metrics)
+		9. _n._ [manner of speaking](dic://manner of speaking), [speech](dic://speech), [delivery](dic://delivery), [versification](dic://versification), [poetics](dic://poetics)
+		10. **syllable**音节;**linguistics**语言学;**poetry**诗;**lexical**词汇的;**linguistic**语言的, 语言学的, 语言研究的;**utterance**说话;**grammatical**语法的;**syntax**语法;**grammar**语法;**poetic**诗的，诗歌的;**rhythm**节奏;
+		11. _[metrics poesy poetry prosody](dic://metrics%20poesy%20poetry%20prosody)_ 作诗法
+		12. the salience of prosody in child language acquisition. /儿童语言习得中韵律结构的重要性。
+		13. One possible answer is prosody, the patterns of rhythm in speech /一个可能的答案是韵律，语音中的节奏模式。
+	25. rhapsody
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		3. 来自希腊语rhapsoidia,史诗，史诗朗诵，诗词汇编，来自rhaptein,缝纫，编织，oide,诗，歌，词源同 ody, comedy。
+		4.  来自希腊语rhapsoidia,史诗，史诗朗诵，诗词汇编，来自rhaptein,缝纫，编织，来自PIE*wer,werb,弯，转，编织，词源同 wring,wrap,oide,诗，歌，词源同 ody,comedy.拼写比较 ring,来自 PIE*sker,弯，转。
+		5. n. 吟诵史诗, 狂文, 狂喜, 狂想曲
+		6. _n._ [epic poem](dic://epic poem), [heroic poem](dic://heroic poem), [epic](dic://epic), [epos](dic://epos)
+		7. **symphony**交响乐;**concerto**协奏曲;**orchestral**管弦乐队的;**symphonic**交响乐的;**melancholy**忧郁, 悲哀;**Bohemian**波希米亚的;**lyric**抒情的;**waltz**跳华尔兹舞;**Brahms**布拉姆斯;**orchestra**管弦乐队;**sublime**高尚的;
+		8. _[Hungarian Rhapsodies](dic://Hungarian%20Rhapsodies)_ 匈牙利狂想曲
+		9. _[Color Rhapsodies](dic://Color%20Rhapsodies)_ 彩色狂想曲
+		10. _[Little Rhapsodies](dic://Little%20Rhapsodies)_ 舒曼小狂想曲
+	26. trenode
+	27. comedy
+	28. psalmodic
+	29. psalmodist
+	30. psalmody
+	31. tragedy
+		1. trag-山羊 + ed-唱歌 + -y
+		2. Tragedy（悲剧）：古希腊酒神节上的“山羊之歌”  
+		3. 英语单词tragedy（悲剧）源自希腊语tragodia，由tragos（goat，山羊）+oide（song，歌）组成，字面意思就是“山羊之歌”。  
+		4. “悲剧”与“山羊”到底有何关系呢？关于这一点，历来众说纷纭，莫衷一是，有一种说法是，悲剧源自古希腊的酒神节上表演的“羊人剧”（satyric drama）。在羊人剧中，演员身披羊皮，装扮成羊人，所以被称为“山羊之歌”。另一种说法是，在酒神节上歌手们为了竞争作为奖品的山羊而高唱悲歌。还有一种说法，在酒神节上歌手们围绕着献祭给酒神的山羊歌唱酒神的不幸。  
+		5. tragedy： ['trædʒɪdɪ] n.悲剧，悲惨的事  
+		6. tragic： ['trædʒɪk] adj.悲剧的，悲惨的，不幸的  
+		7. tragedian：[trə'dʒidɪən] n. 悲剧演员；悲剧作家
 
 
 ### + \*weg- +
@@ -788,7 +889,7 @@
 				3. **rejuvenation**返老还童,恢复活力,回春,复壮;**vitality**活力，生气;**vigor**活力，精力;**rejuvenate**使变得年轻, 使恢复活力;**relaxation**消遣, 娱乐;**rejuvenated**回春的;**impetus**促进;**revitalization**新生;**renewal**更新，恢复;**nourishment**食物, 滋养品;**refreshment**茶点;
 				4. Through Charlie, she experiences the invigoration of desire, which can seem unbearably enticing when life feels short and the days all somehow run together. /通过查理，她体验到欲望的活力，当感觉生命短暂而日子不知何故地在一起时， 欲望似乎无法忍受地诱人。
 			12. invigorating
-	4. bivouac
+	4. bivouac [美 /'bɪvuæk/](cmd://Speak/_us_/bivouac)
 		1. 来自法语。bi-,二，-vouac,词源同 watch,看。指轮流看守。
 		2. n. 野营, 露营, 露营地  vi. 露宿
 		3. **campsite**营地;**tents**旅游帐篷;**hut**小屋;**tent**帐篷;**battalion**营;**camp**扎营;**barracks**兵营，营房;**infantry**步兵;**platoon**排，团;**garrison**守备部队, 卫戍部队;**camping**露营;
@@ -805,14 +906,27 @@
 		3. **spying**侦探;**monitoring**监视;**CCTV**闭路电视;**cameras**摄像机，照相机;**spy**侦察;**covert**隐蔽的;**security**保护，安全;**interrogation**讯问的行为实例;**NSA**美国国家安全局;**reconnaissance**侦察;**drone**雄蜂;
 		4. The country will also enhance demographic surveillance and forecasts. /中国还将加强人口监测和预测。
 4. waft
-	1. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
-	2.  [pennant](dic://pennant), [pennon](dic://pennon), [streamer](dic://streamer)
-	3. _n._ [flag](dic://flag)
-	4. _v._ [float](dic://float), [drift](dic://drift), [be adrift](dic://be adrift), [blow](dic://blow)
-	5. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
-	6. 1. wafts of sulphurous fumes. /一阵阵含硫的烟。
-	7. Spicy smells wafted through the air / 辛辣的气味在空中飘荡
-	8. 1. A breeze wafted the scent towards us. /微风送来阵阵香气。
+	1. vt. 随风传送, 使飘荡  
+	2. vi. 飘荡  
+	3. n. 吹拂, 飘荡
+	4. v. 使飘荡，吹拂；吹送，飘荡；平滑地移动，飘过 
+	5. n. 一阵，一股；（船舶展示作为信号的）结状信号旗，结状衣服
+	6.  [pennant](dic://pennant), [pennon](dic://pennon), [streamer](dic://streamer)
+	7. _n._ [flag](dic://flag)
+	8. _v._ [float](dic://float), [drift](dic://drift), [be adrift](dic://be adrift), [blow](dic://blow)
+	9. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
+	10.  [pennant](dic://pennant), [pennon](dic://pennon), [streamer](dic://streamer)
+	11. _n._ [flag](dic://flag)
+	12. _v._ [float](dic://float), [drift](dic://drift), [be adrift](dic://be adrift), [blow](dic://blow)
+	13. **whiff**喷出;**smell**嗅，闻;**aroma**芳香;**stench**恶臭;**breezes**轻而易举的事;**smelling**嗅诊;**scent**气味;**inhale**吸入;**linger**逗留, 徘徊;**scents**气味;**pungent**刺激性的;
+	14. 1. wafts of sulphurous fumes. /一阵阵含硫的烟。
+	15. Spicy smells wafted through the air / 辛辣的气味在空中飘荡
+	16. 1. A breeze wafted the scent towards us. /微风送来阵阵香气。
+	17. A delicious smell of freshly baked bread wafted across the garden. /花园中飘过一股刚出炉面包的香味。
+	18. He was as light and buoyant as swansdown, prey to any breeze that might carry him away, might waft him up to that golden gleam. /他觉得自己轻飘飘得就象天鹅的绒毛，祈求着微风把他带走，把他送到那片金光里。
+	19. Gentle piano music wafts through the air. /轻柔的钢琴声在空中飘荡。
+	20. They are zombie companies, much like those wafting through Japan in the 1990s. /这就是僵尸企业，很像二十世纪九十年代日本企业遭遇的情况。
+	21. 
 5. wait
 6. wake
 7. watch
@@ -831,6 +945,7 @@
 1. **ochlo-** = multitue, crowd (「Greeks」okhlos, "populace, mob")
 	1. ochlocracy
 	2. ochlocratic
+		1. _adj._ 暴民政治的,暴民统治的
 2. **veh-, vec-, vex-, veign-** = to carry, 带来；vect- 在数学里有“矢量，向量”的意思 （「latin」vehere, to carry）
 	1. advect (advert)
 		1. ad- + vect-带来
@@ -853,7 +968,7 @@
 		3. _n._ [concave](dic://concave)
 		4. **concave**凹的，凹面的;**conical**圆锥形的;**curved**弯曲的;**cylindrical**圆柱形的;**triangular**三角形的;**curvature**弯曲;**symmetric**相称性的,均衡的;**quadratic**二次的;**spherical**球的;**planar**平坦的;**vertex**顶点;
 		5. biconvex, convexity,
-	7. vehement, vehemence
+	7. vehement [美 /ˈviːəmənt/](cmd://Speak/_us_/vehement)
 		1. vehe-带来，-m- + -ent形容词后缀。
 		2. [fierce](dic://fierce), [tearing](dic://tearing), [violent](dic://violent), [trigger-happy](dic://trigger-happy)
 		3. [intense](dic://intense), [strong](dic://strong)
@@ -863,6 +978,16 @@
 		7. She made a vehement attack on the government’s policies. /她强烈谴责政府的政策。
 		8. His negation was so vehement and strong. /他的否定是如此的激烈和强烈。
 		9. Sometimes, the vehement “No! ” from people could be a saviour to you. /有时，激烈的“不！ ” 人可能是你的救世主。
+		10. vehemence
+			1.  [emphasis](dic://emphasis)
+			2.  [ferocity](dic://ferocity), [fierceness](dic://fierceness), [furiousness](dic://furiousness), [fury](dic://fury), [violence](dic://violence), [wildness](dic://wildness)
+			3. _n._ [intensity](dic://intensity), [intensiveness](dic://intensiveness)
+			4. **indignation**愤怒, 愤慨, 气愤;**fury**狂怒;**fervor**热情;**zeal**热心;**hostility**敌意;**outrage**暴行;**astonishment**惊讶, 惊奇;**admiration**钦佩;**disdain**蔑视;**boldness**大胆;**vigor**活力，精力;
+			5. What's the matter? I asked in astonishment at his vehemence. /“怎么回事？”我问；他的激动不安的样子叫我非常吃惊。
+			6. But as I have told you so with such vehemence and frequency already, the phrase has lost all meaning. /但是既然我已经无数次愤怒地告诉过你们了 所以现在这句话已经没有意义了。
+			7. I would rather you had come and upbraided me with vehemence. /我宁愿你来严厉地责备我。
+			8. Another up-train passed them, though with less **vehemence** than the first one. /另一辆向上的火车从他们身边驶过，虽然没有第一辆那么激烈。
+			9. He spoke more loudly and with more **vehemence** than he had intended /他演讲得比自己预想的声音更响亮，语调也更激烈。
 	8. vehicle
 		1. veh-带来 + -icle工具。
 		2. **car**汽车;**automobile**汽车;**truck**卡车;**minivan**小型货车;**towing**拖车，拖吊;**motorcycle**摩托车;**dealership**代理权,经销权;**sedan**轿车;**jeep**吉普车;**motor**发动机，马达;**passenger**乘客, 旅客;
@@ -870,13 +995,14 @@
 		4. vehicular
 		5. extravehicular
 	9. vex
-		1. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate,  gravel, annoy, rag, get to, bother, get at, irritate, rile, nark, vex, chafe, devil, chagrin)
-		2. vt. 使烦恼, 使苦恼 vi. 烦恼
-		3. vexing, vexed
-		4. vexatious
+		1. (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert)
+		2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
+		3. vt. 使烦恼, 使苦恼 vi. 烦恼
+		4. vexing, vexed
+		5. vexatious
 			1. **frivolous**不重要的,不必要的;**nuisance**讨厌的东西;**tiresome**烦人的，无聊的;**troublesome**令人烦恼的;**unreasonable**不讲道理的, 非理智的;**burdensome**繁重的,烦累的,难以承担的;**intolerable**无法忍受的;**uncivil**不文明的;**unwarranted**没有根据的, 无正当理由的;**obnoxious**可憎的;**disruptive**分裂性的,破裂的;
 			2. [disagreeable](dic://disagreeable)
-		5. vexation  ()
+		6. vexation  ()
 			1. (chagrin)
 			2.  [annoyance](dic://annoyance), [chafe](dic://chafe)
 			3.  [irritation](dic://irritation), [annoyance](dic://annoyance), [botheration](dic://botheration)
@@ -889,8 +1015,8 @@
 			10. Much to my vexation, I just missed a chance of visiting China. /错过一个访问中国的机会, 真气人。
 			11. He gave the doctor a look of vexation. /他很不高兴地看了医生一眼。
 			12. I gazed at her, looking totally startled by the flutters of anger and vexation in her voice. /我盯着她看，完全被她声音里突然的生气和恼火吓到了。
-	11. evection
-	12. inveigh (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective)
+	10. evection
+	11. inveigh (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective)
 		1. in-进入，使 + veigh , 携带，运载，词义演变同invective。
 		2. [rail](dic://rail)
 		3.  [declaim](dic://declaim)
@@ -5040,7 +5166,7 @@
 	4. vt. 穿着, 戴, 留(须、发等), 呈现, 磨损, 磨成, 耗损, 使疲乏, 消磨  
 	5. vi. 磨损, 变旧, 耐久, 渐变, 渐渐消失
 	6. womenswear
-	7. weary
+	7. weary (dreary)
 		1. adj. 疲劳的，疲倦的；使人疲劳的，令人厌烦的；厌倦的，厌烦的 
 		2. v. （使）疲倦，（使）厌烦；<苏格兰>忧伤，烦恼
 		3. (exhausted, fatigue, weariness, pall, pale, jaded, weary, fag out)

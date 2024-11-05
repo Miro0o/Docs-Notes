@@ -45,16 +45,18 @@
 	8. jubilance
 	9. jubilancy
 	10. jubilant
-		1.  [exultant](dic://exultant), [exulting](dic://exulting), [prideful](dic://prideful), [rejoicing](dic://rejoicing), [triumphal](dic://triumphal), [triumphant](dic://triumphant)
-		2.  [elated](dic://elated), [gleeful](dic://gleeful), [joyful](dic://joyful)
-		3. _adj._ [elated](dic://elated), [joyous](dic://joyous)
-		4. _n._ [dejected](dic://dejected), [joyless](dic://joyless)
-		5. **joyous**令人高兴的;**elated**兴高采烈的;**exuberant**兴高采烈的;**ecstatic**狂喜的;**joyful**欢喜的;**rejoicing**欣喜;**raucous**沙哑的;**triumphant**胜利的, 成功的;**boisterous**热闹的;**cheered**欢呼;**rousing**活泼的;
-		6. _[feel jubilant](dic://feel%20jubilant)_ 喜在心头
-		7. _[charmed jubilant](dic://charmed%20jubilant)_ 喜悦的
-		8. _[dolorous jubilant](dic://dolorous%20jubilant)_ 悲哀的
-		9. This jubilant nationality is extremely trepid toward melancholy. /这个喜洋洋的民族对忧郁似乎格外恐惧。
-		10. Oh, be swift my soul and to him be jubilant my feet. /哦，让我的灵魂聪慧吧，让我的双脚欢腾吧。
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		4.  [exultant](dic://exultant), [exulting](dic://exulting), [prideful](dic://prideful), [rejoicing](dic://rejoicing), [triumphal](dic://triumphal), [triumphant](dic://triumphant)
+		5.  [elated](dic://elated), [gleeful](dic://gleeful), [joyful](dic://joyful)
+		6. _adj._ [elated](dic://elated), [joyous](dic://joyous)
+		7. _n._ [dejected](dic://dejected), [joyless](dic://joyless)
+		8. **joyous**令人高兴的;**elated**兴高采烈的;**exuberant**兴高采烈的;**ecstatic**狂喜的;**joyful**欢喜的;**rejoicing**欣喜;**raucous**沙哑的;**triumphant**胜利的, 成功的;**boisterous**热闹的;**cheered**欢呼;**rousing**活泼的;
+		9. _[feel jubilant](dic://feel%20jubilant)_ 喜在心头
+		10. _[charmed jubilant](dic://charmed%20jubilant)_ 喜悦的
+		11. _[dolorous jubilant](dic://dolorous%20jubilant)_ 悲哀的
+		12. This jubilant nationality is extremely trepid toward melancholy. /这个喜洋洋的民族对忧郁似乎格外恐惧。
+		13. Oh, be swift my soul and to him be jubilant my feet. /哦，让我的灵魂聪慧吧，让我的双脚欢腾吧。
 2. jubilee
 	1. a special anniversary (or the celebration of it)
 	2. _n._ [anniversary](dic://anniversary), [day of remembrance](dic://day of remembrance)
