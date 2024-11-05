@@ -866,23 +866,24 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		1. 源同 crook,crochet.俚语，即看起来像个小弯钩。拼写比较 bake,batch.
 		2. n. 分叉处, 丫叉, 胯部
 	8. crotchet (bouquet, cachet, crotchet, coquet)
-		1. n. 小钩；奇想；怪想；反复无常
-		2. 词源同 crook,crochet.音乐术语，因形如小弯钩而得名。
-		3.  [hook](dic://hook)
-		4. [quarter note](dic://quarter note)
-		5.  [oddity](dic://oddity), [queerness](dic://queerness), [quirk](dic://quirk), [quirkiness](dic://quirkiness)
-		6. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [note](dic://note), [musical note](dic://musical note), [tone](dic://tone), [unfamiliarity](dic://unfamiliarity), [strangeness](dic://strangeness)
-		7. **crochet**钩边;**crocheting**钩编;**scarf**围巾;**knit**编织;**knitted**针织的;**knitting**针织;**scarves**围巾;**stitch**针脚，线迹;**shawl**围巾，长方形披巾;**lace**花边;**melody**旋律
-		8. _[crotchet rest](dic://crotchet%20rest)_  四分休止符
-	9. crouch
+		1. (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
+		2. n. 小钩；奇想；怪想；反复无常
+		3. 词源同 crook,crochet.音乐术语，因形如小弯钩而得名。
+		4.  [hook](dic://hook)
+		5. [quarter note](dic://quarter note)
+		6.  [oddity](dic://oddity), [queerness](dic://queerness), [quirk](dic://quirk), [quirkiness](dic://quirkiness)
+		7. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [note](dic://note), [musical note](dic://musical note), [tone](dic://tone), [unfamiliarity](dic://unfamiliarity), [strangeness](dic://strangeness)
+		8. **crochet**钩边;**crocheting**钩编;**scarf**围巾;**knit**编织;**knitted**针织的;**knitting**针织;**scarves**围巾;**stitch**针脚，线迹;**shawl**围巾，长方形披巾;**lace**花边;**melody**旋律
+		9. _[crotchet rest](dic://crotchet%20rest)_  四分休止符
+	10. crouch
 		1. 自 PIE*sker,转，弯，词源同 crumple,curve.即弯下腰的，蹲下的。
 		2. n. 蹲伏, 蜷缩 
 		3. vi. 蹲下, 蜷着, 缩着  vt. 低头
-	10. crutch
+	11. crutch
 		1. n. 拐杖, 支撑, 依靠  vt. 支撑
 		2. _n._ [staff](dic://staff), [expedient](dic://expedient)
 		3. **prop**支撑;**cane**手杖;**hindrance**起妨碍作用的事物或人
-	11. encroach (broach)
+	12. encroach (broach)
 		1.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
 		2. vi. 侵犯, 侵蚀, 蚕食
 		3. [infringe](dic://infringe), [impinge](dic://impinge)
@@ -894,7 +895,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		9. Pierce is not just encroaching on Kamin's business. /皮尔斯不光侵占了卡盟的生意。
 		10. Midland is home to Dow Chemical, and the flooding is already encroaching on the company's main plant site. /米德兰是陶氏化学公司的总部，洪水已经侵蚀了该公司的主要工厂。
 		11. Essentially what she's painting is this bleak picture of the encroaching disaster. /本质上，她描绘的是一幅不断蔓延的灾难的凄凉画面。
-	12. cricket
+	13. cricket
 		1. 1.蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
 2. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
 	1. crux

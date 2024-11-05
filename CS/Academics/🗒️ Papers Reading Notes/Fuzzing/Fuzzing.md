@@ -22,3 +22,9 @@
 [4] Manes, Valentin J.M., HyungSeok Han, Choongwoo Han, Sang Kil Cha, Manuel Egele, Edward J. Schwartz, and Maverick Woo. “The Art, Science, and Engineering of Fuzzing: A Survey.” _IEEE Transactions on Software Engineering_ 47, no. 11 (November 1, 2021): 2312–31. [https://doi.org/10.1109/TSE.2019.2946563](https://doi.org/10.1109/TSE.2019.2946563).
 
 [5] Wang, Yan, Peng Jia, Luping Liu, Cheng Huang, and Zhonglin Liu. “A Systematic Review of Fuzzing Based on Machine Learning Techniques.” Edited by Tao Song. _PLOS ONE_ 15, no. 8 (August 18, 2020): e0237749. [https://doi.org/10.1371/journal.pone.0237749](https://doi.org/10.1371/journal.pone.0237749).
+
+AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing
+https://arxiv.org/abs/2409.10737
+
+AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing
+https://ui.adsabs.harvard.edu/abs/2023arXiv230712469Z/abstract

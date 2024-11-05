@@ -234,7 +234,18 @@
 		1. n. 内分泌物
 #### + \*yek- (1) + =
 1. **joc-** 表示“欢乐，开心”。源自拉丁语 iocus "joke."
-	1. jocose
+	1. jocund
+		1.  (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		3. a. 欢乐的, 高兴的
+		4.  来自拉丁语 iocundus,来自 iucundus 拼写变体，缩写自*iuvicundus,来自 iuvare,帮助，帮忙，来自 iuvenis,年青人，词源同 young,juvenile,adjutant.其原义即年青人的，成长中的，帮忙的，帮助的，引申词义优雅的，让人愉悦的。后受拉丁词 jocus 影响，引申词义欢乐的，欢笑的。
+		5.  [gay](dic://gay), [jolly](dic://jolly), [jovial](dic://jovial), [merry](dic://merry), [mirthful](dic://mirthful)
+		6. _adj._ [joyous](dic://joyous)
+		7. _n._ [joyless](dic://joyless)
+		8. **merry**愉快的;**jolly**愉快的;**cheerful**高兴的;**doth**从事;**joyous**令人高兴的;**joyful**欢喜的;**boisterous**热闹的;**melancholy**忧郁, 悲哀;**thee**你;**thy**你的;**countenance**面容，表情;
+		9. A poet could not but be gay in such a jocund company. /一个诗人在这种兴高采烈的同伴中自然而然地会快乐。
+		10. 
+	2. jocose
 		1. a. 开玩笑的, 诙谐的, 戏谑的
 		2. [jesting](dic://jesting), [jocular](dic://jocular), [joking](dic://joking)
 		3. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
@@ -243,29 +254,66 @@
 		6. jocosity
 			1. Secondly, hidden sharp point of jocosity speech expresses novelist"s satire and jeer in amusing context/ 其次,暗藏机锋的诙谐性话语在笑谑中传达出小说家的讥讽;
 			2. His features were not naturally intended to wear a smiling aspect, but he was in general rather given to professional jocosity. /他的容貌并不是天生就带着微笑的样子，但总的来说，他更喜欢专业的玩笑。
-	2. jocular
-		1. [jesting](dic://jesting), [jocose](dic://jocose), [joking](dic://joking)
-		2. [jocosely](dic://jocosely)
-		3. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
-		4. _adv._ [jesting](dic://jesting), [jocose](dic://jocose), [joking](dic://joking)
-		5. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
-		6. **light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**sarcastic**讽刺的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**colloquial**口语的, 会话的;**wry**面部肌肉扭曲的;**witty**诙谐的;**comical**滑稽的，好笑的;**jest**玩笑;**amusing**有趣的，好玩的;
-	3. jeopardy
+	3. jocular
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		3. [jesting](dic://jesting), [jocose](dic://jocose), [joking](dic://joking)
+		4. [jocosely](dic://jocosely)
+		5. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+		6. _adv._ [jesting](dic://jesting), [jocose](dic://jocose), [joking](dic://joking)
+		7. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+		8. **light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**sarcastic**讽刺的;**humorous**诙谐的，幽默的;**irreverent**不敬的;**colloquial**口语的, 会话的;**wry**面部肌肉扭曲的;**witty**诙谐的;**comical**滑稽的，好笑的;**jest**玩笑;**amusing**有趣的，好玩的;
+	4. jeopardy
 		1. jeopardy（危险）：胜负难分的比赛
 		2. 英语单词jeopardy来自法语，原本是一个游戏术语，表示比赛、游戏时双方势均力敌、胜负难分。该单词的拼写中，jeo表示“比赛”（game），与joke同源；pard表示“部分”（part），因此该词的字面意思就是比赛双方各据一方，势均力敌。由于双方都有或输掉比赛，因此jeopardy一词逐渐衍生出“潜在的危险、风险”的含义。在法律领域中，jeopardy表示“被告在法庭上可能被判罪的风险”。词组doublejeopardy指的是被告因为同一罪行而受到两次审判和惩罚，这是法律禁止的，即“一罪不二罚”。  
 		3. 美国有一档著名的电视知识竞赛节目就叫做Jeopardy。参加节目的都是智商超高、知识超渊博的牛人。IBM公司甚至派出自己研发的人工智能系统“沃森”参加该节目，与两位最强选手同台竞技。  
 		4. jeopardy：['dʒepədɪ] n.危险，风险  
 		5. jeopardize： ['dʒɛpɚdaɪz] vt. 危害；使陷危地；使受危困
-	4. jewel
+	5. jewel
 		1. jewel ['dʒuːəl] n.宝石；珠宝，vt.镶以宝石；饰以珠宝。法语词源，与之相应的拉丁语直接进入英语的单词如jocular ['dʒɒkjʊlə] adj.爱开玩笑的；打趣的；滑稽的。拉丁词根元音间的c在进入法语时脱落，jewel中的-el后缀指小，jewel就是a little plaything，是让拥有者把玩、开心的“小玩意儿”。
-	5. joke
-	6. juggle
+	6. joke
+	7. juggle
 		1. v. 玩抛接杂耍; 尽量兼顾; 有效利用
 		2. jugglery
 			1. n. 戏法, 奇术, 欺诈
 		3. juggler
 			1. juggler - joke源自拉丁语jocus（玩笑），17世纪进入英语时，词形为joque/joc。出于同一词源的还有jocose（滑稽的；幽默的）和jocular（爱开玩笑的；打趣的）两个形容词及juggler（玩杂耍的人）。  
 			2. 据认为，拉丁语jocus又源于古罗马神话的主神Jovis（英语作Jove，即Jupiter）。他生性开朗，是诸神中最喜欢戏耍开玩笑的一位。英语jovial（善良快活的）一词即源于此。（参见jovial）
+	8. joy
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		3. n. 欢喜, 乐事, 高兴  
+		4. vt. 使快乐, 令人高兴  vi. 欢喜
+		5.  来自古法语 joie,来自拉丁语 gaudium,欢乐，愉悦，词源同 enjoy,gaudy.
+		6. overjoy
+			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
+			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		7. killjoy
+		8. joyswitch
+		9. joystick
+		10. joyride
+		11. joypop
+		12. joyous
+		13. joyless
+		14. joyhouse
+		15. joyful
+		16. joybells
+		17. joyful
+		18. joybells
+		19. joyance
+		20. joy-powder
+		21. joy-juice
+		22. enjoy
+			1. enjoyment
+			2. enjoyable
+				1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
+				2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+				3. _adj._ [pleasant](dic://pleasant)
+				4. _n._ [unpleasant](dic://unpleasant)
+				5. **pleasurable**令人愉快的;**pleasant**令人愉快的，舒适的;**entertaining**有趣的;**fun**乐趣;**satisfying**令人满意的;**rewarding**报答的;**worthwhile**值得的, 值钱的, 有价值的;**memorable**显著的，难忘的;**delightful**令人非常高兴的, 讨人喜欢的;**engrossing**引人入胜的;**relaxing**令人轻松的;
+				6. But, eating alone can be just as enjoyable. /但是，一个人吃饭也同样令人愉快。
+				7. This group thought talking with strangers would be the least enjoyable, by far. /到目前为止这组人认为和陌生人交谈是最愉快的。
+				8. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. /这种兴奋使追求目标变得愉快，并激发成功带来的快乐和骄傲。
 
 
 ### + \*yeug- +

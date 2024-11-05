@@ -16,6 +16,8 @@
 ↗ [DS Web Services' Architectures](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
 ↗ [Web Application Systems & Architecture Design](../../../Software%20Engineering/Web%20Development/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 
+↗ [AI (Data) Infrastructure & Stack](../../../Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/AI%20(Data)%20Infrastructure%20&%20Stack.md)
+
 
 ### Learning Resources
 #### Courses

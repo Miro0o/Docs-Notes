@@ -91,7 +91,7 @@ sudo apt-get install libqt4-test
 
 
 
-## 👉 
+## 👉  ??
 
 [Modulenotfounderror: no module named 'mediapipe.python._framework_bindings'#10]: https://github.com/superuser789/MediaPipe-on-RaspberryPi/issues/10
 

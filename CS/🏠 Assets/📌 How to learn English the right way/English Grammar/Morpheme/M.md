@@ -2516,20 +2516,21 @@
 		7. meliorative
 		8. melioration
 			1. **improvement**增加或修改;**reclamation**开垦,开拓;**habitation**居住;**cognition**认识;**betterment**改好;**enhancement**提高，增加，增强;**cultivation**耕作,耕种;
-	4. ameliorate
+	4. ameliorate (ameliorate, redound, improve,)
 		1. a-加强 + melior-好 + -ant
-		2. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
-		3. the reform did much to ameliorate living standards /改革使生活水平改善了许多。
-		4. Volunteers could do little to ameliorate conditions in the refugee camp /志愿者们对改善难民营的状况几乎做不了任何事情。
-		5. This slightly improves the blood flow and ameliorates hypoxia. /这样可以稍微改善血流，缓解缺氧状态。
-		6. Other fields are familiar with human imperfectibility, and take steps to ameliorate it. /人性的弱点在其他领域也很常见，人们会采取措施改进这一点。
-		7. ameliorant
-		8. ameliorable
-		9. ameliorative
+		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [change state](dic://change state), [turn](dic://turn)
+		3. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
+		4. the reform did much to ameliorate living standards /改革使生活水平改善了许多。
+		5. Volunteers could do little to ameliorate conditions in the refugee camp /志愿者们对改善难民营的状况几乎做不了任何事情。
+		6. This slightly improves the blood flow and ameliorates hypoxia. /这样可以稍微改善血流，缓解缺氧状态。
+		7. Other fields are familiar with human imperfectibility, and take steps to ameliorate it. /人性的弱点在其他领域也很常见，人们会采取措施改进这一点。
+		8. ameliorant
+		9. ameliorable
+		10. ameliorative
 			1. _adj._ [bettering](dic://bettering)
 			2. _n._ [worsening](dic://worsening)
 			3. **remedial**治疗的;**deleterious**有害的;**remedy**药品, 治疗法;**restorative**恢复健康和体力的;**preventive**预防,防止;**compensatory**补偿性的;**pharmacological**药理学的;**punitive**惩罚性的;**systemic**全身的;**corrective**有改正作用的;**reforms**改革;
-		10. amelioration
+		11. amelioration
 			1. [melioration](dic://melioration), [betterment](dic://betterment)
 			2. **improvement**增加或修改;**concomitant**相伴的;**deterioration**恶化,变坏;**degradation**下降,降低;**eradication**根除;**worsening**恶化;**reduction**减少;**consequent**作为结果的;**betterment**改好;**alleviate**缓和;**pharmacological**药理学的;
 			3. _[agricultural amelioration](dic://agricultural%20amelioration)_ 农业土壤改良

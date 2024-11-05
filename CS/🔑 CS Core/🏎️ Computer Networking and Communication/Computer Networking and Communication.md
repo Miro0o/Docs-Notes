@@ -100,7 +100,7 @@ More Topics With Fun! 🥳
   - Stream Engineering
 - Proxy/ Tor
 	- ↗ [Anonymous & Private Networks](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Anonymous%20&%20Private%20Networks.md)
-	- ↗ [Proxy](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy/Proxy.md)
+	- ↗ [Proxy Technology & GFW 🇨🇳](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Proxy%20Technology%20&%20GFW%20🇨🇳/Proxy%20Technology%20&%20GFW%20🇨🇳.md)
 	- ↗ [Darknet](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/Darknet.md)
 	- ↗ [Onion Network & Tor](../../CyberSecurity/Network%20Security/Anonymous%20&%20Private%20Networks/👺%20Routing%20Control/Onion%20Network%20&%20Tor/Onion%20Network%20&%20Tor.md)
 - ↗ [NAS (Network-Attached Storage) Protocols](📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/NAS%20(Network-Attached%20Storage)%20Protocols/NAS%20(Network-Attached%20Storage)%20Protocols.md)

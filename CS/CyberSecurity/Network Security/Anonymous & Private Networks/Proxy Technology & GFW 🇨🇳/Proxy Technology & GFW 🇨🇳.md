@@ -1,6 +1,7 @@
-# Proxy
+# Proxy Technology & GFW 🇨🇳
 
 [TOC]
+
 
 
 ## Res
@@ -50,9 +51,36 @@ https://miru.cloud/auth/register
 住宅IP的vps可以使用：[https://www.soladrive.com/support/aff.php?aff=146](https://www.soladrive.com/support/aff.php?aff=146)，进入网站后选择Residential IP VPS即可，$25每月，流量2T/月，适合于平时除了用chatGPT还顺便用来解锁netflix看看视频的。
 
 
-### Learning Resources
+### Other Resources
 🚧 https://github.com/hoochanlon/fq-book
 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+
+
+🚧 https://github.com/vpncn/vpncn.github.io
+2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
+
+> 其实直到2024年的目前为止，使用VPN加密、安全翻墙依然是最适合大多数人的最方便、安全的科学上网工具，同样也是我长期关注和测试的。目前国内还能使用的正规VPN已经被墙的差不多了，只剩下看重中国市场的几款大牌VPN还算稳定。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下面的2款，也是我日常使用最多的，下面把基本信息和翻墙使用体验简单介绍一下**：
+> - [StrongVPN](https://github.com/vpncn/vpncn.github.io#1-strongvpn--%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%80%E4%BD%B3)
+> - [ExpressVPN（优惠活动链接）](https://linkv.org/express/)
+
+1. [翻墙的安全问题](https://github.com/vpncn/vpncn.github.io#%E7%BF%BB%E5%A2%99%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E9%97%AE%E9%A2%98--%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%8Evpn%E7%9A%84%E5%8C%BA%E5%88%AB)
+2. [VPN翻墙稳定吗](https://github.com/vpncn/vpncn.github.io#vpn%E6%9C%8D%E5%8A%A1%E7%BF%BB%E5%A2%99%E7%A8%B3%E5%AE%9A%E5%90%97)
+3. [敏感时期](https://github.com/vpncn/vpncn.github.io#%E6%95%8F%E6%84%9F%E6%97%B6%E6%9C%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99)
+	1. [开大会期间](https://github.com/vpncn/vpncn.github.io#%E5%BC%80%E5%A4%A7%E4%BC%9A%E6%9C%9F%E9%97%B4)
+	2. [每年六月上旬](https://github.com/vpncn/vpncn.github.io#%E6%AF%8F%E5%B9%B4%E5%85%AD%E6%9C%88%E4%B8%8A%E6%97%AC)
+	3. [突发事件期间](https://github.com/vpncn/vpncn.github.io#%E7%AA%81%E5%8F%91%E4%BA%8B%E4%BB%B6)
+4. [买VPS自建翻墙](https://github.com/vpncn/vpncn.github.io#%E4%B9%B0vps%E8%87%AA%E5%BB%BA%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1%E5%99%A8)
+5. [什么VPN适合中国用户？](https://github.com/vpncn/vpncn.github.io#%E4%BB%80%E4%B9%88vpn%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7)
+6. [怎么下载和登录VPN客户端?](https://github.com/vpncn/vpncn.github.io#%E6%80%8E%E4%B9%88%E4%B8%8B%E8%BD%BD%E5%92%8C%E7%99%BB%E5%BD%95vpn%E5%AE%A2%E6%88%B7%E7%AB%AF)
+7. [适合在中国使用的翻墙软件VPN](https://github.com/vpncn/vpncn.github.io#%E9%80%82%E5%90%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BD%BF%E7%94%A8%E7%9A%84%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E5%9B%BD%E5%86%85%E5%AE%9E%E6%B5%8B)
+	1. [StrongVPN-性价比最好](https://github.com/vpncn/vpncn.github.io#1-strongvpn--%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%80%E4%BD%B3)
+	2. [ExpressVPN-网络速度最快](https://github.com/vpncn/vpncn.github.io#2-expressvpn--%E9%80%9F%E5%BA%A6%E4%BD%93%E9%AA%8C%E6%9C%80%E4%BD%B3)
+	3. [NordVPN](https://github.com/vpncn/vpncn.github.io#3-nordvpn)
+	4. [IVacy-不推荐国内使用](https://github.com/vpncn/vpncn.github.io#4-ivacy)
+	5. [PureVPN-不推荐国内使用](https://github.com/vpncn/vpncn.github.io#5-purevpn)
+8. [读者使用问题讨论](https://github.com/vpncn/vpncn.github.io#%E8%AF%BB%E8%80%85%E4%BD%BF%E7%94%A8%E9%97%AE%E9%A2%98%E8%AE%A8%E8%AE%BA)
+9. [不要入坑的VPN](https://github.com/vpncn/vpncn.github.io#%E4%B8%8D%E8%A6%81%E5%85%A5%E5%9D%91%E7%9A%84vpn)
+10. [其他VPN避坑提示](https://github.com/vpncn/vpncn.github.io#%E5%85%B6%E4%BB%96vpn%E9%81%BF%E5%9D%91%E6%8F%90%E7%A4%BA)
 
 
 

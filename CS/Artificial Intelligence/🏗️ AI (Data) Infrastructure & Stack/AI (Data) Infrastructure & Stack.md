@@ -1,14 +1,10 @@
-# Infrastructure for Large Scale Deep Learning Models
+# AI (Data) Infrastructure & Stack
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 ↗ [IDC & Data Center Networking](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
 - ↗ [Google Aquila](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/Google%20Aquila.md)
@@ -22,7 +18,20 @@
 
 
 ## Intro
+![](../../../../Assets/Pics/Pasted%20image%2020241104003300.png)
+<small>This map is meant to be a mental model and not exhaustive. Companies may work across areas, but we tried to limit to one per category as much as possible.<a>https://www.felicis.com/insight/ai-data-infrastructure</a></small>
 
 
 
 ## Ref
+[The rise of AI data infrastructure (6/24/2024)]: https://www.felicis.com/insight/ai-data-infrastructure
+
+[Roadmap: AI Infrastructure (6/11/2024)]: https://www.bvp.com/atlas/roadmap-ai-infrastructure
+![](../../../../Assets/Pics/Pasted%20image%2020241104003456.png)
+
+[Demystifying the AI Infrastructure Stack (04/02/2020)]: https://www.intelcapital.com/demystifying-the-ai-infrastructure-stack/
+![](../../../../Assets/Pics/Pasted%20image%2020241104003619.png)
+
+[从 AI 高管到犀利 CEO，贾扬清创业这一年：我们的目标是做 AI 时代的“第一朵云” | InfoQ]: https://www.infoq.cn/article/w155khed4mr860s7cpez
+
+[The Missing Guide to the H100 GPU Market]: https://blog.lepton.ai/the-missing-guide-to-the-h100-gpu-market-91ebfed34516

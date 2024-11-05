@@ -907,17 +907,18 @@
 		19. biregular
 		20. antiregular
 	9. regulate (adulate)
-		1. well-regularted
-		2. unregulated
-		3. self-regulating
-		4. regulatory
+		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+		2. well-regularted
+		3. unregulated
+		4. self-regulating
+		5. regulatory
 			1. **regulation**管理;**regulator**调整者;**regulations**规程;**governmental**政府的;**compliance**服从,听从,顺从;**legislative**立法的;**oversight**疏忽, 失察;**legal**法定的;**statutory**法定的;**jurisdictional**司法权的;**regulating**调节;
-		5. regulator
-		6. regulative
-		7. regulation
-		8. overregulate
-		9. deregulate
-	10. dirge
+		6. regulator
+		7. regulative
+		8. regulation
+		9. overregulate
+		10. deregulate
+	11. dirge
 		1. **lament**悲叹;**ballad**歌谣，民谣;**melancholy**忧郁, 悲哀;**wailing**哭号;**hymn**赞美诗;**riff**反复乐节;**anthem**赞美诗;**melody**旋律;**chorus**合唱队;**somber**昏暗的;**song**歌曲;
 		2. [coronach](dic://coronach), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
 		3. _n._ [song](dic://song), [vocal](dic://vocal)
@@ -926,7 +927,7 @@
 		6. _[on the soundwithout dirge](dic://on%20the%20soundwithout%20dirge)_ 声无哀乐论
 		7. _[sad melody elegy dirge threnode](dic://sad%20melody%20elegy%20dirge%20threnode)_ 悲歌
 		8. _[on the sound without dirge](dic://on%20the%20sound%20without%20dirge)_ 声无哀乐论
-	11. rail (hail)
+	12. rail (hail)
 		1. n. 铁路系统；铁轨，轨道；栏杆，扶手；（挂物用的）横杆；（赛马或赛狗场的）围栏；（镶板门或上下推拉窗的）横档，冒头；冲浪板（或帆板的）边缘；（电子）定电位导体轨；秧鸡 
 		2. v. 用栏杆把……围起，把……隔开；<正式>谴责，抱怨；由铁路运送（货物）；（风帆冲浪用语）斜板滑行
 		3. [railing](dic://railing)
@@ -1009,7 +1010,7 @@
 		62. cograilway
 		63. breastrail
 		64. bedrail
-	12. realm
+	13. realm
 		1. [kingdom](dic://kingdom), [land](dic://land)
 		2. [domain](dic://domain), [region](dic://region)
 		3. [kingdom](dic://kingdom)
@@ -1017,7 +1018,7 @@
 		5. **sphere**范围;**purview**范围，权限;**kingdom**王国;**confines**范围;**beyond**超过;**territory**领土;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystical**神秘的;**fantasy**幻想;**abyss**深渊;**uncharted**未知的;
 		6. _in the realm of_ 在……领域里
 		7. 
-	13. rule
+	14. rule
 		1. n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线  
 		2. vt. 规定, 统治, 管理, 控制, 支配, 裁决  
 		3. vi. 统治, 管辖, 裁定
@@ -1041,7 +1042,7 @@
 		14. misrule
 		15. metarule
 		16. hyperrule
-	14. sovereign
+	15. sovereign
 		1. _n._ [ruler](dic://ruler), [swayer](dic://swayer), [head of state](dic://head of state), [chief of state](dic://chief of state)
 		2. _adj._ [free](dic://free), [dominant](dic://dominant)
 		3. _n._ [unfree](dic://unfree), [subordinate](dic://subordinate), [low-level](dic://low-level)
@@ -1053,7 +1054,7 @@
 			1. _n._ [self-government](dic://self-government), [self-determination](dic://self-determination), [self-rule](dic://self-rule), [dominion](dic://dominion), [rule](dic://rule), [authority](dic://authority), [authorization](dic://authorization)
 			2. **sovereign**元首;**self-determination**自主;**primacy**首位;**autonomy**自治，自治权;**dominion**领土;**legitimacy**合法;**independence**独立, 自主, 自立;**hegemony**霸权;**democracy**民主国家;**territorial**领土的;**constitutional**宪法的;
 		6. quasi-sovereign
-	15. vicereine
+	16. vicereine
 		1. n. 总督夫人, 女总督
 		2. _n._ [wife](dic://wife), [married woman](dic://married woman), [governor](dic://governor)
 		3. **monarch**君主，帝王;**regent**摄政者;**consort**结交;**queen**女王，王后;

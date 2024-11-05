@@ -2421,7 +2421,7 @@
 		2. **beech**山毛榉;**oak**橡树;**tree**树;**pine**松树;**fir**冷杉;**ke**科;**birch**桦木;**ka**灵魂,鬼魂,阴灵;**willow**柳木制品;
 		3. Every wind is fretted by his voice, almost every bole and branch feels the sting of his sharp feet. /每一阵风都被他的声音吹动， 几乎每一个树干和树枝都感受到他锋利的脚的刺痛
 		4. Nimbly the lad sprang to its bole, clinging cat-like for an instant before he clambered quietly to the ground below. /小伙子敏捷地跳到它的树干上， 像猫一样紧贴了一会儿， 然后他悄悄地爬到下面的地面上。
-	3. bollard (ballad, billiard)
+	3. bollard (ballad, billiard, bollard)
 		1. strong post (as on a wharf or quay or ship for attaching mooring lines) /- n. <英>升降柱，升降地柱；系船柱； （Bollard）（捷）博拉尔德，（法）博拉尔（人名）
 			1. the road was closed to vehicular traffic with bollards
 			2.  [bitt](dic://bitt)
@@ -2479,31 +2479,38 @@
 		9. I  put on five ounces this year. I've really bulked up. /今年我一下就长了五两，现在的我可是个大块头了。
 		10. At the same time, women make up the bulk of the poor. /除此之外，贫困人口中女性数量庞大。
 	13. bulwark
+		1.  [rampart](dic://rampart), [wall](dic://wall)
+		2.  [breakwater](dic://breakwater), [groin](dic://groin), [groyne](dic://groyne), [mole](dic://mole), [seawall](dic://seawall), [jetty](dic://jetty)
+		3. _n._ [embankment](dic://embankment), [barrier](dic://barrier)
+		4. _v._ [defend](dic://defend)
+		5. **bastion**棱堡;**safeguard**防护措施, 安全设施;**pillar**柱子，柱形物;**stronghold**要塞;**fortress**要塞;**citadel**城堡;**hegemony**霸权;**protector**保护人;**stalwart**坚定的;**fortification**加强;**bedrock**根底;
 	14. ebullience
-		1. _n._ [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
-		2. **exuberant**兴高采烈的;**enthusiasm**热情, 热心;**optimism**乐观;**euphoria**精神欢快，欣快;**fervor**热情;**brilliance**才华,才智;**zest**风味;**unbridled**无辔头的;**spontaneity**自然性;**vigor**活力，精力;**cynicism**犬儒主义;
-		3. the ebullience of youth /青年人的热情洋溢
-		4. She burst into the room with her usual ebullience, and immediately start talking to everyone /她像往常一样兴高采烈地冲进了房间，立刻跟大家攀谈起来。
-		5. And now let's talk about Venice, AKA, the floating city, which has so much rich history, art, architecture, and charm, that it can bring a sort of ebullience to many who visit. /现在让我们谈谈威尼斯，又名水上城市，这座城市拥有着丰富的历史，艺术、建筑和魅力，令许多游客流连忘返。
-	15. ebullient
-		1. _adj._ [spirited](dic://spirited)
-		2. _n._ [spiritless](dic://spiritless)
-		3. **exuberant**兴高采烈的;**boisterous**热闹的;**upbeat**上升;**buoyant**有浮力的;**joyous**令人高兴的;**cheerful**高兴的;**energetic**精力充沛的, 充满活力的;**raucous**沙哑的;**enthusiastic**满腔热情的, 热心的;**cheery**愉快的，活泼的;**flamboyant**显眼的, 浮夸的, 炫耀的;
-		4. adj. 热情洋溢的；沸腾的
-		5. I would say somewhere between ebullient and ecstatic. /我想这里的氛围介于兴高采烈和狂喜之间。
-		6. At this he lapsed into ebullient laughter again-and so did I, my suspicions gradually receding /他又发出了一串串的笑声，我也笑了，我的怀疑慢慢被消除。
-		7. " The sloop Anarchy, " wrote an ebullient journalist, " when last heard from was ashore on Union rocks." The First Election. /“无政府状态号单桅帆船， ” 一位热情洋溢的记者写道，“最后一次听到消息是在联合礁上。 ” 第一次选举。
-		8. The Prime Minister was in **ebullient** mood. /首相兴致勃勃。
-	17. ebullition
-	18. follicle
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		2. _n._ [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
+		3. **exuberant**兴高采烈的;**enthusiasm**热情, 热心;**optimism**乐观;**euphoria**精神欢快，欣快;**fervor**热情;**brilliance**才华,才智;**zest**风味;**unbridled**无辔头的;**spontaneity**自然性;**vigor**活力，精力;**cynicism**犬儒主义;
+		4. the ebullience of youth /青年人的热情洋溢
+		5. She burst into the room with her usual ebullience, and immediately start talking to everyone /她像往常一样兴高采烈地冲进了房间，立刻跟大家攀谈起来。
+		6. And now let's talk about Venice, AKA, the floating city, which has so much rich history, art, architecture, and charm, that it can bring a sort of ebullience to many who visit. /现在让我们谈谈威尼斯，又名水上城市，这座城市拥有着丰富的历史，艺术、建筑和魅力，令许多游客流连忘返。
+		7. ebullient
+			1. _adj._ [spirited](dic://spirited)
+			2. _n._ [spiritless](dic://spiritless)
+			3. **exuberant**兴高采烈的;**boisterous**热闹的;**upbeat**上升;**buoyant**有浮力的;**joyous**令人高兴的;**cheerful**高兴的;**energetic**精力充沛的, 充满活力的;**raucous**沙哑的;**enthusiastic**满腔热情的, 热心的;**cheery**愉快的，活泼的;**flamboyant**显眼的, 浮夸的, 炫耀的;
+			4. adj. 热情洋溢的；沸腾的
+			5. I would say somewhere between ebullient and ecstatic. /我想这里的氛围介于兴高采烈和狂喜之间。
+			6. At this he lapsed into ebullient laughter again-and so did I, my suspicions gradually receding /他又发出了一串串的笑声，我也笑了，我的怀疑慢慢被消除。
+			7. " The sloop Anarchy, " wrote an ebullient journalist, " when last heard from was ashore on Union rocks." The First Election. /“无政府状态号单桅帆船， ” 一位热情洋溢的记者写道，“最后一次听到消息是在联合礁上。 ” 第一次选举。
+			8. The Prime Minister was in **ebullient** mood. /首相兴致勃勃。
+		8. ebullition
+	16. follicle
 		1. _n._ [vesicle](dic://vesicle), [cyst](dic://cyst)
 		2. **ovary**子房;**cyst**胞,包囊,膀胱;**hair**头发;**embryo**胚胎;**scalp**头皮;**epithelium**上皮;**ovarian**卵巢的;**ovulation**排卵;**cysts**囊;**uterus**子宫;**gland**腺;
 		3. _hair follicle_ 毛囊
 		4. _follicle stimulating hormone_ 促滤泡激素，促卵泡激素
-3. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
+5. **bol-** = ray, 表示“射线”。源自希腊语 bole "beam, ray."
 	1. bolograph
 	2. bolometer
-4. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
+6. **bu-, bull-** = ox, 表示“牛”。源自古英语 bulluc "bull."
 	1. bulla
 		1. n. 大疱；垂饰
 		2. [blister](dic://blister), [bleb](dic://bleb)
@@ -2614,7 +2621,7 @@
 	4. folliculitis
 	5. folliculoma
 6. **phall-** = penis, 表示“阴茎”。源自希腊语 phallos "phallus."
-	1. phallus
+	1. phallus [美 /'fæləs/](cmd://Speak/_us_/phallus)
 		1. 阴茎；阳物之图像；[生]交接器原基（分化后则成为阴蒂或阴茎）
 		2. [genus Phallus](dic://genus Phallus)
 		3.  [penis](dic://penis), [member](dic://member)s
@@ -2790,10 +2797,11 @@
 		5. inflorescent
 2. **foli-** = leaf, 表示“树叶”。源自拉丁语 folium "leaf."
 	1. foil
-		1. _n._ 箔，金属薄片 陪衬，衬托
-		2. _vt._ 挫败；使受挫折
-		3. [enhancer](dic://enhancer)
-		4. [hydrofoil](dic://hydrofoil)
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil)
+		2. _n._ 箔，金属薄片 陪衬，衬托
+		3. _vt._ 挫败；使受挫折
+		4. [enhancer](dic://enhancer)
+		5. [hydrofoil](dic://hydrofoil)
 		3. [transparency](dic://transparency)
 		4. [thwart](dic://thwart), [queer](dic://queer), [spoil](dic://spoil), [scotch](dic://scotch), [cross](dic://cross), [frustrate](dic://frustrate), [baffle](dic://baffle), [bilk](dic://bilk)
 		5. _n._ [sheet metal](dic://sheet metal), [attention](dic://attention), [device](dic://device), [picture](dic://picture), [image](dic://image), [icon](dic://icon), [ikon](dic://ikon)
@@ -4809,7 +4817,7 @@
 	1. afflatus
 		1. **divine**神圣的;**muse**沉思;**aspiration**抱负;**utterance**说话;
 		2. [inspiration](dic://inspiration)
-	2. conflate, conflation
+	2. conflate
 		1. con-,表强调，-flat,吹，膨胀，词源同 blow,flatulent.
 		2. v. 合并, 异文合并
 		3. [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [commingle](dic://commingle), [immix](dic://immix), [fuse](dic://fuse), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
@@ -4819,6 +4827,12 @@
 		7. Chayka argues that minimalism is conflated with self-optimization. /洽卡认为，极简主义与自我优化已被混为一谈。
 		8. For example: " Don't conflate love and sex, they're not the same thing" . /“不要把爱和性混为一谈，它们不是一回事。”
 		9. We overlook big things, forget details, **conflate** events. /
+		10. conflation
+			1. Now I mention this story to illustrate some issues of the conflation of class, race, ethnicity, and social status I often see on videos I post about the history of chattel slavery. /现在我提到这个故事是为了说明我经常在我发布的关于奴隶制度历史的视频中看到的阶级、种族、民族和社会地位的合并问题。
+			2. He also discovered how to scale his work into monumental public displays, like his mysterious steel head in Chicago's Daley Plaza, a conflation of his wife Jacqueline with their Afghan hound that manages to be both overwhelming and ingratiating. /他还发现了如何将他的作品扩展到巨大的公共展示中，比如他在芝加哥戴利广场的神秘钢铁头像，他的妻子杰奎琳和他们的阿富汗猎犬的混合体， 既让人难以抗拒又讨人喜欢。
+			3. As an additional performance improvement, the cache does **conflation** on these dirty records. /作为额外的性能改善，缓存会合并这些脏记录。
+			4. This is an interesting observation, but it's a **conflation** of software and templates. /有趣的观察，不过作者混淆了软件与模版这两个概念。
+			5. The gradual conflation of the AfD and Pegida is a new and worrying phenomenon /德国新选项党和Pegida日益要好着实是一个令人担忧的新问题。
 	3. deflate, deflator
 		1. [collapse](dic://collapse), [turn](dic://turn), [release](dic://release), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [change](dic://change)
 		2. [inflate](dic://inflate), [blow up](dic://blow up)
@@ -4886,15 +4900,15 @@
 			4. **fecal**排泄物的;**bowel**肠;**fart**屁，放屁;**bloating**鼓胀的;**rectum**直肠;**feces**排泄物;**odour**气味;**odor**气味;**urine**尿;**gaseous**气态的，气体的;**constipation**便秘;
 			5. "An average person, "Roach explains, "will, during the peak flatulence period, pass anywhere from one to almost three cups of **flatus** per hour /“一个普通人，”罗奇解释道，“在肠胃最胀气的时候，每个小时会放出1到3杯的的屁。
 		8. anti-flatulent
-	7. insufflate, 
+	6. insufflate, 
 		1. _[insufflate](dic://insufflate)_  v. 把……吸或吹入；（神学）对……吹气（象征神灵感化）
 		2. **inhalation**吸入;**inhale**吸入;**smoke**烟;**nostrils**鼻孔;**cannula**套管，插管;**syringe**注射器;
 		3. [administer](dic://administer), [treat](dic://treat), [care for](dic://care for), [blow](dic://blow)
 		4. insufflator
 		5. insufflation, exsufflation
-	8. exsufflate
+	7. exsufflate
 		1. _[exsufflate](dic://exsufflate)_  vt. 呼出；吹走
-	9. reflate
+	8. reflate
 		1. [change](dic://change), [inflate](dic://inflate), [alter](dic://alter), [modify](dic://modify), [blow up](dic://blow up), [balloon](dic://balloon), [billow](dic://billow)
 		2. **deflation**通货紧缩;**inflate**使充气;**inflation**膨胀;**Bernanke**伯南克;**economy**经济;**stabilize**稳定;**liquidity**资产折现力, 资产流动性;**bubble**气泡，泡沫，泡状物;**recession**经济衰退;**stimulate**刺激;**revive**苏醒;
 		3. It is harder to say how loudly they will burst - and which might still reflate. /很难说它们会以多大的声音破裂——以及哪些仍有可能再度膨胀。

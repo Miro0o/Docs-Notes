@@ -1,4 +1,4 @@
-# Frameworks & Implementations & SDKs
+# Foundation Models & Libraries & SDKs
 
 [TOC]
 
