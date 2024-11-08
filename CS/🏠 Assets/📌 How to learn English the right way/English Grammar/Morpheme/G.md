@@ -1,12 +1,20 @@
 ## ga
 ### gain- = against, 表示“反对”。
 1. again
-	1. on-again
-	2. off-again
-2. against
-3. gainsay (naysay, )
-	1. **refute**反驳，驳斥;**assert**断言;**dare**的风险;**scarcely**简直没有;**contradict**矛盾;**dared**敢于;**deny**否定，否认;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**doth**从事;**dares**敢;
-4. gainst
+	1. a- + gain-否认。
+	2. 来自古英语 ongean,来自 gegn,朝后，相对，词源同 gainsay,否认，against,对着的，相对的。
+	3. ad. 再一次, 又, 到原处
+	4. on-again
+	5. off-again
+3. against
+4. gainsay (naysayer, )
+	1.  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refute, reject, disapprove, disagree, )
+	2. gain-反对 + say【说】 → 反对地说 → 否认。
+	3. **refute**反驳，驳斥;**assert**断言;**dare**的风险;**scarcely**简直没有;**contradict**矛盾;**dared**敢于;**deny**否定，否认;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**doth**从事;**dares**敢;
+	4.  [challenge](dic://challenge), [dispute](dic://dispute)
+	5. _v._ [contest](dic://contest), [contend](dic://contend), [repugn](dic://repugn)
+	6. **refute**反驳，驳斥;**assert**断言;**dare**的风险;**scarcely**简直没有;**contradict**矛盾;**dared**敢于;**deny**否定，否认;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**doth**从事;**dares**敢;
+6. gainst
 
 
 ### galv-,galvan- 表示“电流, 电”，来自意大利医生路易吉·伽伐尼（Luigi Galvani，1737－1798年）的名字、物理学家与哲学家，是现代科学的先驱者。
@@ -132,7 +140,7 @@
 	5. gender
 		1. **offspring**子女, 子孙, 后代;**progeny**后裔;**conceive**构思;**doth**从事;**bestow**授予;**multiply**乘;**arise**发生;**produce**生产;**necessitate**使…成为必要, 需要;**precede**领先，在…之前;**likewise**也;
 	6. engender
-		1.  (render, garner, engender, yield, induce, entail, incur, inflict)
+		1.   (render, garner, engender, yield, induce, entail, incur, inflict, ensue, confer)
 		2. [beget](dic://beget), [get](dic://get), [father](dic://father), [mother](dic://mother), [sire](dic://sire), [generate](dic://generate), [bring forth](dic://bring forth)
 		3. [breed](dic://breed), [spawn](dic://spawn)
 		4. _v._ [cause](dic://cause), [do](dic://do), [make](dic://make), [create](dic://create)
@@ -1916,7 +1924,13 @@
 		3. [topping](dic://topping), [polish](dic://polish), [gloss](dic://gloss), [glossiness](dic://glossiness), [burnish](dic://burnish), [coating](dic://coating), [finish](dic://finish)
 		4. [coat](dic://coat), [surface](dic://surface), [change](dic://change), [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
 		5. **kiln**在干燥炉干燥;**lacquer**涂漆;**enamel**珐琅;**porcelain**瓷, 瓷器;**ganache**甘那许;**frosting**霜状白糖;**coating**涂层;**sauce**调味汁;**ceramic**陶器的;**icing**结冰;**gloss**注释;
-		6. glazed
+		6. the prospect makes my eyes glaze over with boredom/ 令人乏味的前景让我目光呆滞。
+		7. I feel like my teeth are glazed. /我觉得我的牙齿像上了一层釉。
+		8. Now all they need is that sticky glaze. /现在只需刷上黏黏的酱汁。
+		9. I asked Mary-Ann to put on a glaze before they went in. /我让玛丽-安在它们放进去之涂一层奶浆。
+		10. Through layers and layers of those thin, semi-transparent glazes, he blended everything sfumato style. /通过一层又一层薄薄的半透明釉料，他融合了所有的渲染风格。
+		11. Several salads have either cilantro lime **glaze**, or orange **glaze** added /有些沙拉要么加了芫荽酸糖浆，要么加了橙汁糖浆。
+		12. glazed
 			1.  [glassy](dic://glassy)
 			2. [glassed](dic://glassed)
 			3.  [shiny](dic://shiny)
@@ -1933,7 +1947,7 @@
 			14. His eyes glazed over and gradually he fell unconscious. /"他的眼睛变得呆滞,渐渐地便不省人事。"
 			15. Redware artistic hanging plate is the union of handwriting, painting and device.By combining engrave treatment and glazed pottery,It forms a unique modern pottery style /紫砂艺术挂盘融古今书法、绘画、图案与一体，经多种雕刻手法的处理，并和陶瓷釉料完美地结合，形成现代陶瓷的独特风格。
 			16. She glazed the pottery and waited for it to dry. /她把陶器上釉，等着它晾干。
-		7. unglazed
+		13. unglazed
 			1. adj. [陶瓷] 未上釉的；[纸] 无光的；没有装玻璃的
 			2. [glassless](dic://glassless)
 			3. _adj._ [unvitrified](dic://unvitrified)
@@ -1960,40 +1974,62 @@
 		5. [gleaming](dic://gleaming), [glimmer](dic://glimmer)
 		6. [glitter](dic://glitter), [glisten](dic://glisten), [glint](dic://glint), [shine](dic://shine)
 		7. [glimmer](dic://glimmer)
-		8. gleamy
+		8. the flossy gleam of a cheap suit. /廉价套装过分艳丽的闪光。
+		9. the gleam of hope vanished./那一线希望破灭了。
+		10. the red gleam of the firelight /火焰的红光
+		11. The moonlight gleamed on the river. /月光在河面上闪烁。
+		12. a hall floored in gleaming yellow wood. /铺着锃亮的黄木地板的会堂。
+		13.  her eyes gleamed with satisfaction./her eyes gleamed with satisfaction.
+		14. a hint of mischief gleaming in her eyes. /她的眼睛里闪现出一丝调皮。
+		15. His spectacles flashed a last gleam before he disappeared into the cavernous hallway. /老人的身影消失进门厅的一刹那，他眼镜的镜片闪过最后一丝微光。
+		16. gleamy
+			1. - adj. 发光的；闪光的
 	7. glean
 		1. v. 拾落穗, 收集
 		2. **insight**洞察力;**gather**收集;**tidbits**花边新闻;**discern**识别;**insights**洞察力;**impart**给予，传授;**derive**得到;**decipher**译解;**tidbit**小栏报导;**sift**筛选;**infer**推断;
 		3. [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
 		4. [reap](dic://reap), [harvest](dic://harvest)
-		5. gleaning
-		6. gleaner
-	9. glee (glum)
-		1. 词源同 glad,兴奋。引申词义幸灾乐祸。参照词源同源词 gloat.
-		2. **giddy**头晕的;**glee**快乐;**exuberant**兴高采烈的;**joyous**令人高兴的;**smug**自满的, 沾沾自喜的;**ecstatic**狂喜的;**delight**高兴;**unbridled**无辔头的;**frenzied**狂乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**joyful**欢喜的;
-		3. [hilarity](dic://hilarity), [mirth](dic://mirth), [mirthfulness](dic://mirthfulness), [gleefulness](dic://gleefulness)
-		4. [gloat](dic://gloat), [gloating](dic://gloating)
-		5. [gaiety](dic://gaiety), [merriment](dic://merriment), [satisfaction](dic://satisfaction)
-		6. gleesome
-		7. gleeman
-		8. gleeful, gleefully
-	11. glib
+		5. one of numerous trouvailles to be gleaned from his book. /有待从他的书中收集起来的众多意外收获之一。
+		6. From what I was able to glean, it appears they don’t intend to take any action yet. /根据我所收集到的资料分析, 他们看来还不打算采取任何行动。
+		7. There are some things that can be gleaned from this big, nutritional mess, though. /还有关于这个重大的、关于营养的资料有待收集。
+		8. It turned out that the estimates from tourist photos were just as good as those gleaned from traditional methods. /结果表明，从游客照片中得到的估计结果和从传统方法中得到的一样好。
+		9. gleaning
+		10. gleaner
+	8. glee (glum) 
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat)
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+		3. 词源同 glad,兴奋。引申词义幸灾乐祸。参照词源同源词 gloat.
+		4. **giddy**头晕的;**glee**快乐;**exuberant**兴高采烈的;**joyous**令人高兴的;**smug**自满的, 沾沾自喜的;**ecstatic**狂喜的;**delight**高兴;**unbridled**无辔头的;**frenzied**狂乱的;**hysterical**情绪异常激动的, 歇斯底里般的;**joyful**欢喜的;
+		5. [hilarity](dic://hilarity), [mirth](dic://mirth), [mirthfulness](dic://mirthfulness), [gleefulness](dic://gleefulness)
+		6. [gloat](dic://gloat), [gloating](dic://gloating)
+		7. [gaiety](dic://gaiety), [merriment](dic://merriment), [satisfaction](dic://satisfaction)
+		8. gleesome
+		9. gleeman
+		10. gleeful, gleefully
+	10. glib
 		1. 词源同glide. 用于形容人油腔滑调。
 		2. **cynical**愤世嫉俗的;**crass**粗鲁的;**disingenuous**不真诚的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**snarky**恶声恶气的，咬人的;**wry**面部肌肉扭曲的;**simplistic**过分单纯化的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pompous**浮夸的;**witty**诙谐的;
 		3. glibly
-	12. glide
-		1. **smooth**光滑的;**hover**盘旋，翱翔;**effortlessly**轻松地,毫不费劲地;**fly**飞;**smoothness**平滑;**wobble**摇晃;**drag**拖拉;**float**使漂浮;**slide**幻灯片;**smoother**路面平整机;**flutter**飘动;
-		2. [phone](dic://phone), [speech sound](dic://speech sound), [sound](dic://sound), [motion](dic://motion), [movement](dic://movement), [move](dic://move), [flight](dic://flight)
-		3. [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [fly](dic://fly), [aviate](dic://aviate), [pilot](dic://pilot)
-		4. [gliding](dic://gliding), [sailplaning](dic://sailplaning), [soaring](dic://soaring), [sailing](dic://sailing)
-		5. [slide](dic://slide), [coast](dic://coast)
-		6. upglide
-		7. paraglide
-		8. gliding
-		9. glider
-		10. glidepath
-		11. glide-bomb
-		12. glidant
+	11. glide
+		1. n. 滑动, 滑过, 流水  
+		2. vi. 滑动, 滑翔, 溜走, 流逝  
+		3. vt. 使滑动
+		4.  来自 PIE*ghel,照耀，发光，词源同 glass,gold.原指光线闪过，后词义通用化。
+		5. **smooth**光滑的;**hover**盘旋，翱翔;**effortlessly**轻松地,毫不费劲地;**fly**飞;**smoothness**平滑;**wobble**摇晃;**drag**拖拉;**float**使漂浮;**slide**幻灯片;**smoother**路面平整机;**flutter**飘动;
+		6. [phone](dic://phone), [speech sound](dic://speech sound), [sound](dic://sound), [motion](dic://motion), [movement](dic://movement), [move](dic://move), [flight](dic://flight)
+		7. [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [fly](dic://fly), [aviate](dic://aviate), [pilot](dic://pilot)
+		8. [gliding](dic://gliding), [sailplaning](dic://sailplaning), [soaring](dic://soaring), [sailing](dic://sailing)
+		9. [slide](dic://slide), [coast](dic://coast)
+		10. the cart seemed to glide like a terrible phantasm. /那辆敞篷马车像可怕的幽灵在滑动。
+		11. They glided the boat over the water. /他们使船在水上滑行。
+		12. The stately swan glides gracefully on the pond. /美丽的天鹅在池中优雅地游动。
+		13. upglide
+		14. paraglide
+		15. gliding
+		16. glider
+		17. glidepath
+		18. glide-bomb
+		19. glidant
 	13. glimmer
 		1. **sliver**裂片;**hint**暗示;**glimpse**一瞥，一看;**sparkle**发火花, 闪耀;**hope**希望;**optimism**乐观;**faint**头晕的;**shimmer**微光;**flicker**闪烁，摇曳;**tinge**淡色;**hopeful**有希望的;
 		2. [gleam](dic://gleam), [gleaming](dic://gleaming)
@@ -2056,7 +2092,7 @@
 			4. **sparkly**闪耀的;**glitter**闪烁;**shimmery**闪烁的;**sequins**亮片;**glittering**闪闪发亮的;**shimmer**微光;**sparkle**发火花, 闪耀;**rhinestone**莱茵石，水钻;**shiny**有光泽的，擦亮的;**metallic**金属的，含金属的;**pink**粉红色;
 		13. glittering
 		14. aglitter
-	18. glitch (hitch, error)
+	18. glitch (hitch, error, glitch, lisp, )
 		1. _n._ [defect](dic://defect), [fault](dic://fault), [flaw](dic://flaw)
 		2. [bug](dic://bug)
 		4. **malfunction**故障;**flaw**瑕疵，缺点;**bug**臭虫，小虫;**fix**安装;**hiccups**打嗝，呃逆;**error**错误;**workaround**工作区;**problem**难题;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**mishap**灾祸;**lag**落后，滞后，缓慢移动 n. 相隔的时间;
@@ -2069,10 +2105,18 @@
 		5. glowing
 		6. glower
 		7. counterglow
+			1. - n. 反晖；对日照
 		8. antiglow
 		9. alpenglow
 		10. aglow
 		11. afterglow
+			1. - n. 夕照，晚霞
+			2. _n._ [atmospheric phenomenon](dic://atmospheric phenomenon), [pleasantness](dic://pleasantness)
+			3. **euphoria**精神欢快，欣快;**glow**发热;**bask**晒太阳;**haze**疑惑;**luminous**发光的;**blissful**充满喜悦的;**twilight**黎明，黄昏;**brightness**明亮,光辉;**luminosity**发光,光明;**radiance**光辉;**arousal**激励;
+			4. Eastwards the snow-peaks burned in the afterglow. /向东，雪峰在余辉中燃烧。
+			5. This was the first image of the cosmic microwave background: the afterglow of the Big Bang. /这是宇宙微波背景的第一张图片：大爆炸的余辉。
+			6. The last few pages I read by the light of the full moon, that of afterglow having till then sufficed me. /最后几页是我在满月的光辉下阅读的，直到那时，余晖才让我感到满足。
+			7. 
 	20. yolk, yolky
 		1. [egg yolk](dic://egg yolk)
 		2. [vitellus](dic://vitellus)
@@ -2082,18 +2126,20 @@
 	21. gloat
 		1. (brandish, swank, boast, brag, flaunt, fastuous, fastidious)
 		2. (intoxicated, flaunt, proud, perk up, jaunty, triumphant, elated, smug, gloat, taunt)
-		3. 1 - 词源同 glib,欢喜，幸灾乐祸。
-		4. vi. 沾沾自喜, 满足地看, 幸灾乐祸, 贪婪地盯视 
-		5. n. 贪婪的盯视, 满足的注视, 幸灾乐祸
-		6. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
-		7. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
-		8. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
-		9. [gloating](dic://gloating), [glee](dic://glee)
-		10. [triumph](dic://triumph), [crow](dic://crow)
-		11. He gloated over his fellow student's failure to win the prize. /"他的同学未能获奖,他却幸灾乐祸。"
-		12. the headlines gloated with the kind of effusive unction only the English press can muster /那些标题采用只有英国报界敢用的过度谄媚表达洋洋自得之情。
-		13. She was gloating about sleeping with you, and I just wanted to shut her up /她正吹嘘和你做爱，我只是想让她住嘴。
-		14. " And I wish they'd stop singing that stupid song, " said Hermione miserably, " haven't they gloatedenough? " /“我希望他们别再唱这首傻乎乎的歌了。”赫敏难过地说，“他们还不够得意吗？”
+		3. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat)
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+		4. 1 - 词源同 glib,欢喜，幸灾乐祸。
+		5. vi. 沾沾自喜, 满足地看, 幸灾乐祸, 贪婪地盯视 
+		6. n. 贪婪的盯视, 满足的注视, 幸灾乐祸
+		7. **brag**吹牛，自夸;**bragging**吹牛;**revel**狂欢;**rejoice**高兴;**smug**自满的, 沾沾自喜的;**taunt**嘲弄;**gleefully**极快乐地,欢欣地;**embarrass**使窘迫;**weep**哭泣;**whine**闹声;**rejoicing**欣喜;
+		8. **smug**自满的, 沾沾自喜的;**bragging**吹牛;**ranting**吼闹;**mocking**嘲弄的;**lamenting**悲伤的,悲哀的;**whining**发牢骚;**rejoicing**欣喜;**gleefully**极快乐地,欢欣地;**brag**吹牛，自夸;**cheering**喝彩;**bashing**用废矸石充填采空区;
+		9. [boast](dic://boast), [tout](dic://tout), [swash](dic://swash), [shoot a line](dic://shoot a line), [brag](dic://brag), [gas](dic://gas), [blow](dic://blow)
+		10. [gloating](dic://gloating), [glee](dic://glee)
+		11. [triumph](dic://triumph), [crow](dic://crow)
+		12. He gloated over his fellow student's failure to win the prize. /"他的同学未能获奖,他却幸灾乐祸。"
+		13. the headlines gloated with the kind of effusive unction only the English press can muster /那些标题采用只有英国报界敢用的过度谄媚表达洋洋自得之情。
+		14. She was gloating about sleeping with you, and I just wanted to shut her up /她正吹嘘和你做爱，我只是想让她住嘴。
+		15. " And I wish they'd stop singing that stupid song, " said Hermione miserably, " haven't they gloatedenough? " /“我希望他们别再唱这首傻乎乎的歌了。”赫敏难过地说，“他们还不够得意吗？”
 	22. gloom
 		1. gloomy 
 			1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, dour, )
@@ -2974,15 +3020,16 @@
 			4. effusiometer
 			5. effuser
 		28. infuse
-			1. infusum, infusodecoction
-			2. infusion
-			3. infuser
-		29. interfuse
+			1. (infuse, inculcate, indoctrinate, regurgitate, imbue, imbibe, instill, )
+			2. infusum, infusodecoction
+			3. infusion
+			4. infuser
+		30. interfuse
 			1. interfusion
-		30. perfuse
+		31. perfuse
 			1. perfusate
 			2. perfusion, perfusive
-		31. profuse
+		32. profuse
 			1. [exuberant](dic://exuberant), [lush](dic://lush), [luxuriant](dic://luxuriant), [riotous](dic://riotous)
 			2. _adj._ [abundant](dic://abundant)
 			3. _n._ [scarce](dic://scarce)
@@ -2993,18 +3040,18 @@
 				3. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
 			6. profusely
 			7. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
-		32. refuse
+		33. refuse
 			1. refuser
 			2. refusal
 			3. refusable
-		33. suffuse
+		34. suffuse
 			1. suffusion
-		34. superfuse, superfusion
-		35. transfuse
+		35. superfuse, superfusion
+		36. transfuse
 			1. transfusion
 			2. transfuser
 			3. transfusable
-		36. infusible
+		37. infusible
 	12. fusil
 		1. n. [军]轻型燧发枪
 		2. _n._ [musket](dic://musket)
@@ -5264,8 +5311,9 @@
 		2. agreement
 		3. agreed
 		4. agreeable
-			1. _adj._ [consistent](dic://consistent), [accordant](dic://accordant)
-			2. _n._ [disagreeable](dic://disagreeable), [inconsistent](dic://inconsistent), [discordant](dic://discordant)
+			1.  (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, agreeable, alacrity, affable, amicable, amiable, genial, svelte)
+			2. _adj._ [consistent](dic://consistent), [accordant](dic://accordant)
+			3. _n._ [disagreeable](dic://disagreeable), [inconsistent](dic://inconsistent), [discordant](dic://discordant)
 				1. [happy](dic://happy) 侧重感到满足、幸福或高兴。
 				2. [glad](dic://glad) 最普通用词，语气较弱，表示礼貌的惯用语。指乐于做某事或因某事而感到满足，常表愉快的心情。
 				3. [cheerful](dic://cheerful) 多指因内心的愉快而表现出兴高采烈，是强调自然而然的感情流露。
@@ -5277,15 +5325,15 @@
 				9. [nice](dic://nice) 语气较温和，泛指任何愉快或满意的感觉。
 				10. [jolly](dic://jolly) 通俗用词，多指充满快乐与喜悦的神情。
 				11. [agreeable](dic://agreeable) 指与感受者的愿望、情趣或爱好等和谐一致而带来的心情上的快意。
-			3. **pleasant**令人愉快的，舒适的;**sensible**明智的;**pleasing**合意的;**expedient**应急有效的;**amenable**有责任的，应服从的;**cordial**兴奋的;**tolerable**可忍受的;**palatable**可口的,美味的;**satisfactory**令人满意的;**sociable**好交际的;**contented**满意的, 满足的;
-			4. _[agreeable](dic://agreeable)_  adj. 令人愉快的；适合的；和蔼可亲的
-			5. _[agreeable sweetness](dic://agreeable%20sweetness)_  甜而不腻
-			6. _[be agreeable to](dic://be%20agreeable%20to)_  同意
-			7. a cheerful and agreeable companion. /一位活泼开朗而令人愉快的伙伴。
-			8. Rose is a charming and agreeable girl. /罗丝是个迷人且讨人喜欢的女孩。
-			9. The weather in this city is anything but agreeable. /这个城市的天气一点也不宜人。
-			10. It was very agreeable under the trees /歇息在树荫下，大家都感到非常愉快。
-			11. He was much more agreeable than the old scholar. /家里的人看见我对老陈的工作感到这么大的兴趣，并不来干涉我，却嘲笑地唤我做老陈的徒弟，父亲甚至开玩笑地说要把我送到老陈那里学做木匠。
+			4. **pleasant**令人愉快的，舒适的;**sensible**明智的;**pleasing**合意的;**expedient**应急有效的;**amenable**有责任的，应服从的;**cordial**兴奋的;**tolerable**可忍受的;**palatable**可口的,美味的;**satisfactory**令人满意的;**sociable**好交际的;**contented**满意的, 满足的;
+			5. _[agreeable](dic://agreeable)_  adj. 令人愉快的；适合的；和蔼可亲的
+			6. _[agreeable sweetness](dic://agreeable%20sweetness)_  甜而不腻
+			7. _[be agreeable to](dic://be%20agreeable%20to)_  同意
+			8. a cheerful and agreeable companion. /一位活泼开朗而令人愉快的伙伴。
+			9. Rose is a charming and agreeable girl. /罗丝是个迷人且讨人喜欢的女孩。
+			10. The weather in this city is anything but agreeable. /这个城市的天气一点也不宜人。
+			11. It was very agreeable under the trees /歇息在树荫下，大家都感到非常愉快。
+			12. He was much more agreeable than the old scholar. /家里的人看见我对老陈的工作感到这么大的兴趣，并不来干涉我，却嘲笑地唤我做老陈的徒弟，父亲甚至开玩笑地说要把我送到老陈那里学做木匠。
 			13. disagreeable
 			14. agreeably
 			15. agreeableness
@@ -5306,19 +5354,21 @@
 			8. congratulatory
 			9. congratulation
 	4. gratis
-		1. gratis dictum, 空言；空洞的主张；不受法律拘束的自动陈述
+		1. ad. 免费地, 白送地  a. 免费的
+		2. grat-感谢 + -is，即感谢的，报答的，后指免费的，无偿的。
+		3. gratis dictum, 空言；空洞的主张；不受法律拘束的自动陈述
 			1. [complimentary](dic://complimentary), [costless](dic://costless), [free](dic://free), [gratuitous](dic://gratuitous)
 			2. [for free](dic://for free), [free of charge](dic://free of charge)
-		2. _[gratis investment](dic://gratis%20investment)_ 无偿投资
-		3. _[appropriate gratis](dic://appropriate%20gratis)_ 无偿拨款
-		4. _[entrada gratis](dic://entrada%20gratis)_ 免票
-		5. _[gratis verteilt](dic://gratis%20verteilt)_ 赠阅杂志
-		6. _[gratis services](dic://gratis%20services)_ 免费服务
-		7. I am satisfied with him. The old fish is doing Charles a good service, and gratis too /我对他很满意。这条老鱼帮了查尔斯大忙，而且还是免费的。
-		8. Every day, he would bring some food to the old man gratis. /每天，他都免费地带些食品给这个老人。
-		9. And the institution itself, being in debt, was only too glad to get a gratis course from an educated and accomplished man like Mr. Hale, let the subject be what it might. /而该机构本身，负债累累，非常高兴能从像黑尔先生这样受过良好教育和有成就的人那里获得免费课程，让主题成为可能。
-		10. I knew his help wouldn't be given **gratis**. /我知道他的帮助不会是无偿的。
-	5. gratuity
+		4. _[gratis investment](dic://gratis%20investment)_ 无偿投资
+		5. _[appropriate gratis](dic://appropriate%20gratis)_ 无偿拨款
+		6. _[entrada gratis](dic://entrada%20gratis)_ 免票
+		7. _[gratis verteilt](dic://gratis%20verteilt)_ 赠阅杂志
+		8. _[gratis services](dic://gratis%20services)_ 免费服务
+		9. I am satisfied with him. The old fish is doing Charles a good service, and gratis too /我对他很满意。这条老鱼帮了查尔斯大忙，而且还是免费的。
+		10. Every day, he would bring some food to the old man gratis. /每天，他都免费地带些食品给这个老人。
+		11. And the institution itself, being in debt, was only too glad to get a gratis course from an educated and accomplished man like Mr. Hale, let the subject be what it might. /而该机构本身，负债累累，非常高兴能从像黑尔先生这样受过良好教育和有成就的人那里获得免费课程，让主题成为可能。
+		12. I knew his help wouldn't be given **gratis**. /我知道他的帮助不会是无偿的。
+	6. gratuity
 		1. n. 赏钱，小费；赠物；退职金
 		2.  [tip](dic://tip), [pourboire](dic://pourboire), [baksheesh](dic://baksheesh), [bakshish](dic://bakshish), [bakshis](dic://bakshis), [backsheesh](dic://backsheesh)
 		3. _n._ [fringe benefit](dic://fringe benefit), [perquisite](dic://perquisite), [perk](dic://perk), [prize](dic://prize), [award](dic://award)
@@ -5344,7 +5394,7 @@
 			11. His films are full of gratuitous violence. /他拍的影片充满了不必要的暴力。
 			12. The video of the gratuitous beating of a Black man has deeply shocked France /这段无端殴打黑人的视频使法国深感震惊。
 			13. Since physicas was julia's favorite subject, she enjoyed providing gratuitous assistance to celia. /因为物理是朱丽亚最喜欢的课，她喜欢为西莉亚提供义务辅导。
-	6. gratify
+	7. gratify
 		1. grat-感谢 + -ify使… → 使[人]满足 , 高兴。
 		2. [satisfy](dic://satisfy) 
 		3. [pander](dic://pander), [indulge](dic://indulge)
@@ -5361,27 +5411,28 @@
 			3. gratefully
 		12. gratifying, gratifyingly
 		13. gratification
-	7. gratitude
+	8. gratitude
 		1. _n._ [feeling](dic://feeling)
 		2. _n._ [ingratitude](dic://ingratitude), [ungratefulness](dic://ungratefulness)
 		3. **kindness**仁慈;**appreciation**欣赏;**generosity**慷慨, 大方, 宽容;**admiration**钦佩;**grateful**感谢的;**thanking**致谢，感谢;**thankful**感谢的;**compassion**怜悯, 同情;**joy**欢乐，快乐;**devotion**热爱;**thank**感谢;
-	8. ingrate
+	9. ingrate
 		1. [thankless wretch](dic://thankless wretch), [ungrateful person](dic://ungrateful person)
 		2. _n._ [unwelcome person](dic://unwelcome person), [persona non grata](dic://persona non grata)
 		3. **bastard**私生的;**hypocrite**伪君子;**arrogant**自大的，傲慢的;**wretched**可怜的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**bitch**母狗，母狼;**heartless**无情的;**whiny**烦躁的;**coward**懦夫，懦弱的人;**idiot**白痴;**pompous**浮夸的;
 		4. It would take an ingrate great courage to work on ways to dispel such measures /一个不知感激为何物的人理直气壮的否定这些措施。
 		5. That ingrate can't stop hounding me for five minutes /这忘恩负义的家伙 5分钟也不让我闲着。
 		6. ingratitude
-	10. ingratiate (ingratiate, sycophant, obsequious, submissive, )
-		1. vt. 使迎合；使讨好；使逢迎
-		2. _v._ [manipulate](dic://manipulate), [keep in line](dic://keep in line), [control](dic://control)
-		3. pander, indulge, gratify
-		4. **persuade**说服，劝说;**embarrass**使窘迫;**alienate**使疏远，离间;**appease**使平息;**convince**使确信，使信服;**entice**诱使;**impress**给…以深刻印象, 使铭记;**humiliate**蒙羞;**seduce**引诱;**intimidate**恐吓, 威胁;**oust**剥夺;
-		5. a sycophantic attempt to ingratiate herself with the local aristocracy. /她阿谀奉承讨好地方权贵的企图。
-		6. She quickly sought to ingratiate herself with the new administration. /她很快就试图使她自己获得新政府的欢心
-		7. Jobs had an easier time ingratiating himself with the engineers who worked one floor above /乔布斯与在楼上工作的工程师们相处甚欢。
-		8. Well, I have, uh, " an ingratiating wit, trustworthy smile, " according to the Plainview Herald. /我有 " 出众的智慧，迷人的笑容" 《普莱维先驱报》是这么评价的。
-		9. ingratiating
+	10. ingratiate
+		1.  (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
+		2. vt. 使迎合；使讨好；使逢迎
+		3. _v._ [manipulate](dic://manipulate), [keep in line](dic://keep in line), [control](dic://control)
+		4. pander, indulge, gratify
+		5. **persuade**说服，劝说;**embarrass**使窘迫;**alienate**使疏远，离间;**appease**使平息;**convince**使确信，使信服;**entice**诱使;**impress**给…以深刻印象, 使铭记;**humiliate**蒙羞;**seduce**引诱;**intimidate**恐吓, 威胁;**oust**剥夺;
+		6. a sycophantic attempt to ingratiate herself with the local aristocracy. /她阿谀奉承讨好地方权贵的企图。
+		7. She quickly sought to ingratiate herself with the new administration. /她很快就试图使她自己获得新政府的欢心
+		8. Jobs had an easier time ingratiating himself with the engineers who worked one floor above /乔布斯与在楼上工作的工程师们相处甚欢。
+		9. Well, I have, uh, " an ingratiating wit, trustworthy smile, " according to the Plainview Herald. /我有 " 出众的智慧，迷人的笑容" 《普莱维先驱报》是这么评价的。
+		10. ingratiating
 	11. grace, graces
 		1. ungracious, ungraceful
 			1. scapegrace
@@ -5564,17 +5615,36 @@
 	3. diabrosis
 3. **gorg-, gurg-** = throat, 表示“喉”。源自拉丁语 gurges "throat," also "gulf, whirlpool."
 	1. gorge
-		1. **canyon**峡谷;**ravine**峡谷;**valley**山谷;**cliffs**悬崖，峭壁;**river**河，江;**waterfall**瀑布;**cliff**绝壁;**creek**小溪;**valleys**凹处;**plateau**高原;**hike**远足;
-		2. gorgeous
+		1. [defile](dic://defile)
+		2. [esophagus](dic://esophagus), [oesophagus](dic://oesophagus), [gullet](dic://gullet)
+		3. [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [glut](dic://glut), [englut](dic://englut), [stuff](dic://stuff), [engorge](dic://engorge), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
+		4. _n._ [ravine](dic://ravine), [pass](dic://pass), [mountain pass](dic://mountain pass), [notch](dic://notch), [passage](dic://passage), [passageway](dic://passageway), [muscular structure](dic://muscular structure)
+		5. _v._ [eat](dic://eat)
+			1. [eat](dic://eat) 普通用词，使用广泛。既可用于人，也可用于动物。  
+			2. [dine](dic://dine) 正式用词，既可指一日三餐中的任何一餐，也可以指特殊的用餐。  
+			3. [have](dic://have) 可与eat换用，但强调一次性的动作。  
+			4. [consume](dic://consume) 侧重痛痛快快地吃得一干二净，可用于人和动物。  
+			5. [devour](dic://devour) 指狼吞虎咽地吃，强调吃得既快又彻底。  
+			6. [gorge](dic://gorge) 侧重指拼命地吃或塞，强调吃饱或吃得过量。  
+			7. [swallow](dic://swallow) 主要指吃的整个过程的第二部分“咽”，并常指咀嚼得匆匆忙忙地吃。
+		6. **canyon**峡谷;**ravine**峡谷;**valley**山谷;**cliffs**悬崖，峭壁;**river**河，江;**waterfall**瀑布;**cliff**绝壁;**creek**小溪;**valleys**凹处;**plateau**高原;**hike**远足;
+		7. My gorge rose at the sight. /我看到那景象就作呕。
+		8. The children gorged on potato chips /孩子们猛吃土豆片。
+		9. we used to go to all the little restaurants there and gorge ourselves . /我们过去常去那些小饭店饱餐一顿。
+		10. His stomach was still swollen from last night's gorge /由于隔夜吃得太饱，它的肚子还涨鼓鼓的。
+		11. What feasting and carousing! A real gorge! /“多么丰盛的大餐和酒席啊！真正是大吃大喝了一通！
+		12. Soon it was no longer a gorge at all, only a valley. /不久峡谷就不见了，只有一个溪谷。
+		13. However, over time we start to lose the same feeling of euphoria because we musically gorgeourselves. /然而，随着时间的推移，我们开始失去同样的愉悦感，因为我们让音乐吞噬了自己。
+		14. gorgeous
 			1. 可能来自gorge，喉咙，吞没，咽口水，比喻极其壮观或美丽的事物和人。
 			2. _adj._ [beautiful](dic://beautiful)
 			3. _n._ [ugly](dic://ugly)
 			4. **beautiful**美丽的, 悦目的;**stunning**极好的;**fabulous**难以置信的;**lovely**可爱的;**stunningly**惊人地;**luscious**甘美的;**amazing**令人惊异的;**breathtaking**令人赞叹的;**adorable**可爱的;**wonderful**极好的, 精彩的, 绝妙的;**fantastic**极好的;
-		4. gorgerin
-		5. gorget
+		15. gorgerin
+		16. gorget
 			1. _n._ [armor plate](dic://armor plate), [armour plate](dic://armour plate), [armor plating](dic://armor plating), [plate armor](dic://plate armor), [plate armour](dic://plate armour)
 			2. **armor**装甲;**armour**装甲;**tunic**束腰外衣;**plumage**翅膀;**insignia**徽章;**dagger**匕首，短剑;**brooch**胸针，领针;**beak**鸟嘴;**cloak**斗蓬;**feathers**羽状裂缝;
-		6. engorge
+		17. engorge
 			1. _v._ 大吃，狼吞虎咽，使充血；大吃，贪吃，充血，充血，充盈
 			2.  [gorge](dic://gorge), [ingurgitate](dic://ingurgitate), [overindulge](dic://overindulge), [glut](dic://glut), [englut](dic://englut), [stuff](dic://stuff), [overgorge](dic://overgorge), [overeat](dic://overeat), [gormandize](dic://gormandize), [gormandise](dic://gormandise), [gourmandize](dic://gourmandize), [binge](dic://binge), [pig out](dic://pig out), [satiate](dic://satiate), [scarf out](dic://scarf out)
 			3. _v._ [eat](dic://eat)
@@ -5583,32 +5653,67 @@
 			6. Pulse, blood pressure, and breathing rates keep increasing and genitals are becoming fully engorged. /脉搏、血压和呼吸频率不断增加，生殖器变得完全充血。
 			7. Her bowel will **engorge** quite often, I'm afraid. /她的肠将相当经常充血，我害怕。
 			8. engorgement
-		8. regorged
-		9. disgorge
-			1.  [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
-	2. gurgitation
+		18. regorged
+		19. disgorge
+			1. vt. 吐出, 流注, 被迫交出  vi. 呕吐
+			2. dis-,不，非，使相反，gorge,喉咙，吞没。
+			3. [vomit](dic://vomit), [vomit up](dic://vomit up), [purge](dic://purge), [cast](dic://cast), [sick](dic://sick), [cat](dic://cat), [be sick](dic://be sick), [regorge](dic://regorge), [retch](dic://retch), [puke](dic://puke), [barf](dic://barf), [spew](dic://spew), [spue](dic://spue), [chuck](dic://chuck), [upchuck](dic://upchuck), [honk](dic://honk), [regurgitate](dic://regurgitate), [throw up](dic://throw up)
+			4. [spill](dic://spill), [shed](dic://shed)
+			5. _v._ [move](dic://move), [displace](dic://displace), [excrete](dic://excrete), [egest](dic://egest), [eliminate](dic://eliminate), [pass](dic://pass)
+			6. **devour**毁灭;**compel**强迫，迫使;**expel**驱逐;
+			7. they were made to disgorge all the profits made from the record. /他们被迫交出制作唱片的非法所得。
+			8. On December 9th a tanker in the area disgorged its oily cargo after a collision with another ship /然而12月9日在该地区与另一艘船相撞后一艘油轮发生了原油泄露。
+			9. In April, 1812, a ship pulled into port near Caracas, Venezuela, and disgorged a slender Scot in his mid-twenties. /1812年4月，一艘轮船驶进委内瑞拉加拉加斯附近的港口，从船上卸下了一名25岁左右、身材瘦弱的苏格兰人。
+			10. Below us a coach stopped to disgorge another load of visitors outside the castle gates /在我们下方，一辆马车停下来将另一批游客送到城堡大门外。
+			11. The equivalent route today is from the cavernous platforms of Canary Wharf Tube station-where, during rush hour, crowded trains disgorge throngs of bankers every few minutes-to the trading rooms above. /而如今，这样的道路只能在伦敦金融区（Canary Wharf）一座宛如巨穴的地铁站才能见到：上班高峰期间，每隔几分钟，大群银行工作者们就从拥挤的列车中鱼贯而出，直奔楼上的交易所。
+	10. gurgitation
 		1. _n._ 起伏,沸腾声
 		2. n. 涡旋；沸腾；汹涌
-	3. ingurgitate
+	11. ingurgitate
 		1. _[ingurgitate](dic://ingurgitate)_  vt. 大口吞食；吞没; vi. 狼吞虎咽；大吃大喝;
-	4. regurgitate, regurgitation
-		1. _v._ [pour](dic://pour), [feed](dic://feed), [give](dic://give), [repeat](dic://repeat), [echo](dic://echo), [excrete](dic://excrete), [egest](dic://egest)
-		2. **spew**呕吐;**drivel**淌口水,说傻话;**digest**消化;**spouting**喷射;**dissect**切细;**spewing**压出,榨出,吐花,吐毛;**ingest**咽下;**swallow**燕子;**inane**愚蠢的;**chew**咀嚼;**vomit**吐出;
-		3. For years we sit and regurgitate what we're told. /多年来我们坐着机械式地被灌输千篇一律的知识。
-		4. They sometimes regurgitate them for their cubs to eat. /有时还会把它们反刍出来给幼崽吃。
-		5. They're kind of mixing everything together, and it just seems like they're regurgitating everything they've ever heard before /他们把所有的东西都混在一起，防腐在重复他们以前听过的所有东西。
-		6. One of the wands will force the other to regurgitate spells it has performed-in reverse /一根魔杖会强迫另一根魔杖重复它施过的魔咒——以倒叙的方式。
-	5. gormand, gourmand
-		1. _[gastronome gormand gourmand](dic://gastronome%20gormand%20gourmand)_ 美食者
-	6. gourmandise, gormandize
+	12. regurgitate, regurgitation (ruminate)
+		1. (infuse, inculcate, indoctrinate, regurgitate, imbue, imbibe, instill, )
+		2. 
+		3. _v._ [pour](dic://pour), [feed](dic://feed), [give](dic://give), [repeat](dic://repeat), [echo](dic://echo), [excrete](dic://excrete), [egest](dic://egest)
+		4. **spew**呕吐;**drivel**淌口水,说傻话;**digest**消化;**spouting**喷射;**dissect**切细;**spewing**压出,榨出,吐花,吐毛;**ingest**咽下;**swallow**燕子;**inane**愚蠢的;**chew**咀嚼;**vomit**吐出;
+		5. For years we sit and regurgitate what we're told. /多年来我们坐着机械式地被灌输千篇一律的知识。
+		6. They sometimes regurgitate them for their cubs to eat. /有时还会把它们反刍出来给幼崽吃。
+		7. They're kind of mixing everything together, and it just seems like they're regurgitating everything they've ever heard before /他们把所有的东西都混在一起，防腐在重复他们以前听过的所有东西。
+		8. One of the wands will force the other to regurgitate spells it has performed-in reverse /一根魔杖会强迫另一根魔杖重复它施过的魔咒——以倒叙的方式。
+	13. gormand, gourmand
+		1. n. 讲究饮食, 狼吞虎咽地吃, 大吃大喝  vt.vi. 讲究饮食, 狼吞虎咽地吃, 大吃大喝
+		2. _[gastronome gormand gourmand](dic://gastronome%20gormand%20gourmand)_ 美食者
+		3. 
+	14. gourmandise
 		1. n. 暴食；贪吃；美食
-	7. gourmandism
+		2. You will not **gourmandise**, as you have done with me, nor sleep and snore and wear apparel out. Not with him /既然你已经跟我绝交，那么你就不会再狼吞虎咽了，也不用担心睡觉打鼾，因为衣服被撕扯而变烂。
+		3. gormandize
+			1. - n. 大吃大喝；讲究饮食 
+			2. vi. 狼吞虎咽 
+			3. vt. 狼吞虎咽
+	15. gourmandism
 		1. n. 美食家；贪食者 adj. 贪食的
+	16. gourmet
+		1.  [epicure](dic://epicure), [gastronome](dic://gastronome), [bon vivant](dic://bon vivant), [epicurean](dic://epicurean), [foodie](dic://foodie)
+		2. _n._ [sensualist](dic://sensualist)
+		3. **delectable**令人愉快的;**cuisine**烹饪，烹调法;**delicious**美味的;**foodie**美食家;**mouth-watering**流着口水的;**scrumptious**可口的,美味的;**culinary**厨房的;**dining**吃饭，进餐;**chef**厨师，大师傅;**bistro**小酒馆;**food**食物;
+		4. _gourmet powder_ 味精
+		5. _gourmet coffee_ 美食家咖啡，精制的咖啡
+		6. _gourmet food_ 美食
+		7. gourmet cooking; gourmet restaurants. /美食烹调法；美食馆
+		8. gourmet-quality meals are ready in a snap. /美味佳肴立刻就准备好了。
+		9. It's a little gourmet hot dog joint. /可爱的美食热狗展。
+		10. After your gourmet dinner, take a walking tour of the floodlit monuments. /在你的晚餐美食之后，可以到一片灯海照耀的纪念碑走一趟。
+		11. Let's have a look around. There's three bedrooms, a gourmet kitchen...for what it's worth. /我们到处看看吧。有三间卧室，一间美食家的厨房...绝对物有所值。
 4. **vor-** = eat, 表示“吃”。源自拉丁语 vorare "to swallow up."
-	1. devour
-		1. [down](dic://down), [consume](dic://consume), [go through](dic://go through)
-		2. [guttle](dic://guttle), [raven](dic://raven), [pig](dic://pig)
-		3. _v._ [destroy](dic://destroy), [ruin](dic://ruin), [enjoy](dic://enjoy), [bask](dic://bask), [relish](dic://relish), [savor](dic://savor), [savour](dic://savour)
+	1. devour (profligate, dissipate, fritter, profuse, squander, extravagant, improvident, prodigal, )
+		1. de-下去 + vour-=vor-吃 → 吃下去 → 吞吃。
+		2. de-,表强调，-vour,吃，词源同 herbivore,voracity.即整个吃下去，狼吞虎咽。
+		3. vt. 吞食, 挥霍, 吞没
+		4. - v. 狼吞虎咽地吃；如饥似渴地阅读，热切地看；吞噬，毁灭；充满（感情）
+		5. [down](dic://down), [consume](dic://consume), [go through](dic://go through)
+		6. [guttle](dic://guttle), [raven](dic://raven), [pig](dic://pig)
+		7. _v._ [destroy](dic://destroy), [ruin](dic://ruin), [enjoy](dic://enjoy), [bask](dic://bask), [relish](dic://relish), [savor](dic://savor), [savour](dic://savour)
 			1. [eat](dic://eat) 普通用词，使用广泛。既可用于人，也可用于动物。  
 			2. [dine](dic://dine) 正式用词，既可指一日三餐中的任何一餐，也可以指特殊的用餐。  
 			3. [have](dic://have) 可与eat换用，但强调一次性的动作。  
@@ -5616,16 +5721,28 @@
 			5. [devour](dic://devour) 指狼吞虎咽地吃，强调吃得既快又彻底。  
 			6. [gorge](dic://gorge) 侧重指拼命地吃或塞，强调吃饱或吃得过量。  
 			7. [swallow](dic://swallow) 主要指吃的整个过程的第二部分“咽”，并常指咀嚼得匆匆忙忙地吃。
-		4. **consume**消耗，消费;**savor**使有风味;**eat**吃，喝;**nibble**细咬;**slay**杀害;**destroy**毁坏;**crave**渴望;**hungry**饥饿的;**prey**捕食;**bite**咬;**eaten**吃;
-	2. voracity, voracious
-		1. [edacity](dic://edacity), [esurience](dic://esurience), [ravenousness](dic://ravenousness), [voraciousness](dic://voraciousness)
-		2. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [rapacity](dic://rapacity), [voraciousness](dic://voraciousness)
-		3. _n._ [hunger](dic://hunger), [hungriness](dic://hungriness), [gluttony](dic://gluttony)
-		4. **insatiable**不知足的;**veracity**诚实;**eagerness**渴望;**prodigious**巨大的;**ferocious**残忍的;**vigor**活力，精力;**fervor**热情;**zeal**热心;**unbridled**无辔头的;**appetite**食欲;**prowess**超凡技术;
+		8. **consume**消耗，消费;**savor**使有风味;**eat**吃，喝;**nibble**细咬;**slay**杀害;**destroy**毁坏;**crave**渴望;**hungry**饥饿的;**prey**捕食;**bite**咬;**eaten**吃;
+		9. Wow, we certainly devoured that ice cream. /我们简直是狼吞虎咽地吃了那个冰激凌。
+		10. He devoured the little red and yellow cars with his eyes. /惊异极了，一直看着那小小的红黄色的车厢。
+		11. A medium-sized dog will **devour** at least one can of food plus biscuits per day /一只中等大小的狗每天至少要干掉一罐食物外加饼干。
+	2. voracity,
+		1. n. 贪食, 贪婪
+		2. vor-吃 + -acity, 表抽象名词.
+		3. [edacity](dic://edacity), [esurience](dic://esurience), [ravenousness](dic://ravenousness), [voraciousness](dic://voraciousness)
+		4. [edacity](dic://edacity), [esurience](dic://esurience), [rapaciousness](dic://rapaciousness), [rapacity](dic://rapacity), [voraciousness](dic://voraciousness)
+		5. _n._ [hunger](dic://hunger), [hungriness](dic://hungriness), [gluttony](dic://gluttony)
+		6. **insatiable**不知足的;**veracity**诚实;**eagerness**渴望;**prodigious**巨大的;**ferocious**残忍的;**vigor**活力，精力;**fervor**热情;**zeal**热心;**unbridled**无辔头的;**appetite**食欲;**prowess**超凡技术;
+		7. voracious
+			1. he had a voracious appetite. /他的胃口很大。
+			2. a voracious reader. /如饥似渴的读者
+			3. a voracious observer of the political scene; /对政治事件的饥渴观察者；
+			4. But the consequences of our voracious lives are spiraling out of control. /然而，这种贪欲带来的后果已经无法控制。
+			5. India, home to the world's most voracious readers, gravitates toward poetry over the other genres. /印度是世界上最贪婪的读者的家园，它被诗歌而不是其他流派所吸引。
 	3. apivorous
 	4. carnivore, carnivorous
 		1. _n._ [placental](dic://placental), [placental mammal](dic://placental mammal), [eutherian](dic://eutherian), [eutherian mammal](dic://eutherian mammal), [predator](dic://predator), [predatory animal](dic://predatory animal)
 		2. **vegetarian**素食者;**predator**食肉动物;**mammal**哺乳动物;**animal**动物;**reptile**爬虫类的;**vegan**严格的素食主义者;**foodie**美食家;**cougar**美洲狮，美洲豹;**eater**食者;**mammals**哺乳类;**meat**肉，肉类;
+		3. Chris has talked about pandas being an evolutionary cul-de-sac, and it's certainly unusual for a carnivore to take up herbivory. /克里斯曾经说熊猫是进化的尽头，一种食肉动物吃起了草，这当然不同寻常。
 	5. fructivorous
 	6. frugivorous
 	7. fungivorous
@@ -5652,8 +5769,8 @@
 	2. crop
 	3. _n._ [stomach](dic://stomach), [tummy](dic://tummy), [tum](dic://tum), [breadbasket](dic://breadbasket)
 	4. **sticks**树枝;**stick**手杖;**stuck**刺;**sticking**粘的;**pike**矛;
-7. hellebore
-8. scrag
+6. hellebore
+7. scrag
 	1. 1. vt. 绞死；扼杀；排挤掉…
 	2. n. 皮包骨的人或动物；弱不禁风的植物；[俚]脖子；羊颈肉（等于scragend）
 	3. v. （非正式）粗暴对待；痛打；（英式橄榄球）搂住（对手）脖子；扼杀；杀死；谋杀 
@@ -5667,6 +5784,10 @@
 	11. **eel**鳝鱼;**fillet**无骨的鱼或肉排;**bugger**家伙;**carcass**尸体;**stew**炖，炖汤;**bastard**私生的;**troll**穴居巨怪，侏儒;**butcher**屠杀;**arse**屁股;
 	12.  [boney](dic://boney), [scrawny](dic://scrawny), [skinny](dic://skinny), [underweight](dic://underweight), [weedy](dic://weedy)
 	13.  [jagged](dic://jagged), [jaggy](dic://jaggy)
+	14. Okay, so we've got some scrags of guacamole, Hummus, Capri Sun, Babybel. /好，我们有鳄梨色拉酱，鹰嘴豆泥，Capri Sun（儿童果汁），Babybel（奶酪）。
+	15. 'He'll come to be scragged, won't he? /“他会来吃屎的，不是吗？
+	16. Again and again has my appetite been frustrated with an offer of mere sinew and scrag. /一次又一次， 我的食欲因仅提供筋肉和碎屑而受挫。
+	17. On the contrary, if I feel I am in the United States was a **scrag**, then in Japan, I felt I was a fat man had. /相反，如果我在美国感觉我自己是个瘦子，那么在日本我就感觉我自己是个胖子了。
 
 
 ### + \*gwhen- + = to strike, kill
@@ -5678,11 +5799,49 @@
 		4. defendant
 			1. codefendant
 	2. fend
-		1. forfend
-		2. fender
+		1. vt. 击退, 保护, 供养
+		2. 
+		3. forfend
+			1. vt. 防止, 防避, 防护
+			2. for-离开 + fend【vt. 击退, 保护, 供养】
+			3. When they've found a replacement. Heaven forfend she should have to put a comb through her own hair! /雇到新人就通知呗。哪能让夫人自己梳头啊！
+			4. Slower, more difficult options include cash handouts to poor families, as well as additional investment in green infrastructure, financed by state-guided policy banks or even—heaven forfend—central-government bonds. /更慢、更困难的选择包括向贫困家庭发放现金，以及对绿色基础设施进行额外投资，由国家指导的政策性银行甚至——天哪——中央政府债券提供资金。
+			5. God forfend that we should ever allow the media to tell us how to run our business. /1. 让媒体告诉我们如何经营？天哪，千万不要这样！。
+			6. And heaven forfend we lowly folk should do anything to contradict the blessed Lady Mary! /我们这些下人怎么敢违逆神圣的玛丽小姐？
+		4. fender
 			1. fenderless
-	3. fence
-		1. on the fence
+	4. fence
+		1. n. 篱笆，栅栏，围栏；（赛马中的）障碍物；<非正式>买卖赃物者，销赃犯；剑术；（刨子、锯子或其他工具的）防护装置，导向装置 
+		2. v. （用栅栏、篱笆或围栏）围住，隔开；击剑；巧妙回答，搪塞；出售（赃物）；防护，保卫
+		3. [fencing](dic://fencing)
+		4. [fence in](dic://fence in)
+		5.  [wall](dic://wall), [palisade](dic://palisade), [fence in](dic://fence in), [surround](dic://surround)
+		6.  [argue](dic://argue), [contend](dic://contend), [debate](dic://debate)
+		7. _n._ [barrier](dic://barrier), [trader](dic://trader), [bargainer](dic://bargainer), [dealer](dic://dealer), [monger](dic://monger)
+		8. _v._ [enclose](dic://enclose), [close in](dic://close in), [inclose](dic://inclose), [shut in](dic://shut in), [receive](dic://receive), [have](dic://have), [contend](dic://contend)
+		9. [enclose](dic://enclose) 指把某物四周围住或封闭起来，使之与外界隔绝。  
+		10. [encircle](dic://encircle) 侧重在某事物周围围成圈状。  
+		11. [envelop](dic://envelop) 着重指把某个物体完全包起来或整个封起来。  
+		12. [fence](dic://fence) 通常指用栅栏栏开或围起来。  
+		13. [surround](dic://surround) 普通用词，既可指环绕、围绕，也可指军事上的包围。
+		14. **railing**栏杆;**railings**围栏;**gate**大门;**picket**罢工纠察员;**siding**侧线;**perimeter**周边;**yard**码;**walkway**通道，走道;**wall**墙壁，围墙;**border**边界;**backyard**后院;
+		15. _over the fence_ 越过场端；不讲道理的 ，不公正的
+		16. _on the fence_ 保持中立；抱观望态度
+		17. _fence in_ 用栅栅围起来
+		18. _fence with_ 搪塞，回避
+		19. _chain link fence_ 铁丝网围栏
+		20. _on one's fence_ 帮助某人
+		21. _wire fence_ 铁丝网；铁丝栅栏
+		22. _back fence_ 后挡板；后篱笆
+		23. _electric fence_ 电丝网；电围网
+		24. _fence post_ 围篱桩；栅栏柱
+		25. _bamboo fence_ 竹篱笆
+		26. _rail fence_ n. 栅栏
+		27. _sit on the fence_ 保持中立；采取骑墙态度
+		28. They put a fence around the garden. /他们在园子的周围建起了篱笆。
+		29. a fenced-off back lot. /用篱笆圈起的后院。
+		30. 
+		31. on the fence
 			1. 犹豫不决：指在做决定或表达观点时犹豫不决，无法下定论。 
 			2. 中立：指在争议或争论中保持中立立场，不偏袒任何一方。
 			3. [undecided](dic://undecided)
@@ -5694,13 +5853,13 @@
 			9. I'm not on the fence about whether I should be angry. /我没怀疑过我是否该生气。
 			10. If it's desirable, that is something I'm on the fence on /是否有望达到，我持观望态度。
 			11. I have to admit I was kind of on the fence about you /我得承认 我是有点喜欢你。
-		3. unfenced
-		4. fencing
-		5. fencer
-		6. fenceless
-		7. fence-sitter
-		8. fence-hanger
-	5. offend
+		32. unfenced
+		33. fencing
+		34. fencer
+		35. fenceless
+		36. fence-sitter
+		37. fence-hanger
+	6. offend
 		1. v. 得罪, 冒犯; 犯罪; 违背, 违反; <体育>进攻
 		2. of-一再 + fend-打击 → 一再打击[别人] → 得罪。
 		3.  of-,向前，朝向，-fend,攻击，词源同 defend,manifest.引申词义进攻，冒犯。
@@ -5710,7 +5869,7 @@
 			2. counteroffensive
 		6. offenseless
 		7. offenseful
-2. bane (wax and wane / bane and boon /weal and woe /ebb and flow /boom and doom)
+13. bane (wax and wane / bane and boon /weal and woe /ebb and flow /boom and doom)
 	1. bane - bane源自古英语bana 'murderer'（杀人犯，凶手），首次以poison（毒物，毒药）的意义出现在1398年一篇题为On theProperties of Things（论物性）的论文中。文中有个句子henbane is mannis bane，意思是说“henbane（天仙子）这种植物对人体有毒害作用”。此义早已不用，仅残存于表示植物的一些复合词中，如fleabane（飞蓬，据信可驱跳蚤，故名），henbane（天仙子，对家禽尤其有毒），ratsbane（有杀鼠毒性的植物，也指“杀鼠药”），wolfsbane（狼毒乌头）等。bane的词义虽几经演变，但至今仍用于贬义，现一般多指“灾星”或“祸根”。
 	2. n. 烦恼之源, 祸根, 毒药, 灭亡的原因, 灭亡
 	3. [curse](dic://curse), [scourge](dic://scourge), [nemesis](dic://nemesis)
@@ -5730,7 +5889,7 @@
 		4. _n._ [innocuous](dic://innocuous), [harmless](dic://harmless), [beneficent](dic://beneficent)
 		5. **pernicious**很有害的;**deleterious**有害的;**destructive**破坏性的, 毁灭性的;**poisonous**有毒的;**insidious**隐伏的;**harmful**能造成损害的;**noxious**有害的;**malevolent**有恶意的;**evil**邪恶的;**poisons**毒药，毒物;**malignant**有恶意的;
 		6. baneful effects of their foreign policy. 
-3. gun
+14. gun
 	1. six-gun
 	2. shotgun
 		1. [scattergun](dic://scattergun)
@@ -5812,7 +5971,7 @@
 	1. thermostat
 	2. thermos
 	3. tbd...
-3. brand
+3. brand (brandish)
 	1. brand（品牌）：动物身上的烙印  
 	2. brand源自古北欧语 brandr，表示“火、火光、燃烧的木头、火炬”等意思。单词brand-new中的brand用的就是其本意，用来形容刚做好的铁制品，意思是“刚出炉的”。  
 	3. 在古代，为了区分牲畜，牧场主往往会用烙铁在牲畜身上打上烙印。因此，单词brand在这种场景下衍生出火印、烙印的意思。而动物身上的烙印就是最早的品牌了，所以后来人们在表示商品的品牌时，依然沿用brand一词。  
@@ -5837,7 +5996,7 @@
 	1. n. 斑, 斑纹
 7. burn
 8. furnace
-	1. 1 - 来自拉丁语 fornax,炉子，烤炉，来自 PIE*gwher,热，暖和，词源同 warm,thermal,burn.
+	1. 来自拉丁语 fornax,炉子，烤炉，来自 PIE*gwher,热，暖和，词源同 warm,thermal,burn.
 	3. n. 火炉, 熔炉, 考验  vt. 在炉中烧
 	4. _n._ [chamber](dic://chamber)
 	5. **boiler**锅炉;**heater**加热器;**stove**火炉;**heating**加热;**HVAC**高压交流电;**heaters**加热器;**thermostat**恒温器;**flue**烟道;**kiln**在干燥炉干燥;**blower**鼓风机，吹风机;**hearth**炉床;
@@ -5860,7 +6019,24 @@
 		1. _n._ [submission](dic://submission), [entry](dic://entry), [fragment](dic://fragment), [formation](dic://formation), [shaping](dic://shaping), [storage](dic://storage)
 		2. **filings**锉屑;**paperwork**文书工作;**lawsuit**诉讼;**complaint**抱怨;**bankruptcy**破产;**petition**请愿;**pending**未决定的;**divorce**使离婚，使分离;**IRS**美国国税局;**lawsuits**诉讼，法律诉讼;**affidavit**宣誓书;
 	3. fillet
-	4. filament
+		1. (mallet, pullet, pellet, pallet, mullet, millet, ballet, fillet)
+		2. n. 无骨肉片; 去骨鱼片  
+		3. vt. 使去骨
+		4. 来自拉丁语 filum,线，词源同 filament.因这种鱼片用丝线穿在一起而得名。
+		5.  [filet](dic://filet)
+		6. [filet](dic://filet), [fish fillet](dic://fish fillet), [fish filet](dic://fish filet)
+		7. [lemniscus](dic://lemniscus)
+		8.  [taenia](dic://taenia), [tenia](dic://tenia)
+		9. [stopping](dic://stopping)
+		10. _n._ [beefsteak](dic://beefsteak), [piece](dic://piece), [slice](dic://slice), [sensory nerve](dic://sensory nerve), [afferent nerve](dic://afferent nerve), [afferent](dic://afferent), [headband](dic://headband)
+		11. _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify), [carve](dic://carve)
+		12. **steak**牛排;**scallops**扇贝;**salmon**鲑鱼;**fish**捕鱼，钓鱼;**loin**腰;**tuna**金枪鱼，鲔鱼;**scallop**扇贝，干贝;**prawns**大虾，对虾;**boneless**无骨的;**veal**小牛肉;**lamb**羔羊，小羊;
+		13. a fillet steak. /里脊牛排，肺利牛排。
+		14. a bony fillet of fish. /一块多骨的鱼片
+		15. a lightly-grilled fillet steak /烤得很嫩的里脊牛排
+		16. Is it pate or is it a fillet? /是鱼酱还是鱼片？
+		17. Is that a fillet or something, or has that been pate'd? /那是鱼片还是什么，还是被压扁了？
+	5. filament
 		1. _n._ 细丝(如电灯泡内的灯丝)
 		2. _adj._ 细丝状的
 		3. _adj._ 有细丝的
@@ -5911,32 +6087,35 @@
 		22. filefish
 		23. end-of-file
 		24. defile
-			1. vt. 污损，弄脏；染污 
-			2. n. 狭谷；隘路 
-			3. vi. 以纵队前进
-			4. de-向下 + fil-踩，践踏，引申词义玷污。2. 狭道 de-向下，强调 + file, 线，文件。即如同一条线，一线天，用来指山中狭径。
-			5. de-,向下，-fil,踩，践踏，词源同 foil,full（漂洗，洗衣）。引申词义玷污。 
-			6. de-,向下，表强调，file,线，文件。即如同一条线，一线天，用来指山中狭径。
-			7. [gorge](dic://gorge)
-			8. [sully](dic://sully), [corrupt](dic://corrupt), [taint](dic://taint), [cloud](dic://cloud)
-			9. [tarnish](dic://tarnish), [stain](dic://stain), [maculate](dic://maculate), [sully](dic://sully)
-			10. [foul](dic://foul), [befoul](dic://befoul), [maculate](dic://maculate)
-			11. _n._ [pass](dic://pass), [mountain pass](dic://mountain pass), [notch](dic://notch)
-			12. _v._ [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate), [spot](dic://spot), [fleck](dic://fleck)
-			13. **lest**唯恐，以免;**purify**净化;**unclean**不纯洁的;**destroy**毁坏;**slay**杀害;**offend**冒犯;**obstruct**阻塞;**wickedness**邪恶;**gorge**峡，峡谷;**sinful**有罪的;
-			14. defile a river with sewage. /用污水弄脏河流
-			15. defile a temple /亵渎庙宇
-			16. I felt defiled by the filth. /我觉得这些脏话玷污了我。
-			17. the tomb had been defiled and looted. /这坟墓被亵渎盗掠了。
-			18. Rivers are often defiled by waste from factories. /河水常被工厂中的废物污染。
-			19. a country landscape that was defiled by urban sprawl. /被市区的发展破坏的乡村风景
-			20. I allowed my own daughter to be defiled by that man. /我让我的女儿给那家伙玷污。
-			21. The train entered the defiles of the Sutpour Mountains, which separate the Khandeish from Bundelcund, towards evening. /傍晚，在堪地士邦和本德尔汗德之间，火车驶进了苏特甫山丛的狭道里。
-			22. She is claimed. Yet dares to defile the blood laws. /她已被捕 竟敢玷污血法。
-			23. To the south stretched the defile, or rather broken plain, so often mentioned. /向南延伸着峡谷，或者更确切地说是破碎的平原，经常被提及。
-			24. undefiled
-			25. defiler
-			26. defilement
+			1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+			2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+			3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+			4. vt. 污损，弄脏；染污 
+			5. n. 狭谷；隘路 
+			6. vi. 以纵队前进
+			7. de-向下 + fil-踩，践踏，引申词义玷污。2. 狭道 de-向下，强调 + file, 线，文件。即如同一条线，一线天，用来指山中狭径。
+			8. de-,向下，-fil,踩，践踏，词源同 foil,full（漂洗，洗衣）。引申词义玷污。 
+			9. de-,向下，表强调，file,线，文件。即如同一条线，一线天，用来指山中狭径。
+			10. [gorge](dic://gorge)
+			11. [sully](dic://sully), [corrupt](dic://corrupt), [taint](dic://taint), [cloud](dic://cloud)
+			12. [tarnish](dic://tarnish), [stain](dic://stain), [maculate](dic://maculate), [sully](dic://sully)
+			13. [foul](dic://foul), [befoul](dic://befoul), [maculate](dic://maculate)
+			14. _n._ [pass](dic://pass), [mountain pass](dic://mountain pass), [notch](dic://notch)
+			15. _v._ [mar](dic://mar), [impair](dic://impair), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate), [spot](dic://spot), [fleck](dic://fleck)
+			16. **lest**唯恐，以免;**purify**净化;**unclean**不纯洁的;**destroy**毁坏;**slay**杀害;**offend**冒犯;**obstruct**阻塞;**wickedness**邪恶;**gorge**峡，峡谷;**sinful**有罪的;
+			17. defile a river with sewage. /用污水弄脏河流
+			18. defile a temple /亵渎庙宇
+			19. I felt defiled by the filth. /我觉得这些脏话玷污了我。
+			20. the tomb had been defiled and looted. /这坟墓被亵渎盗掠了。
+			21. Rivers are often defiled by waste from factories. /河水常被工厂中的废物污染。
+			22. a country landscape that was defiled by urban sprawl. /被市区的发展破坏的乡村风景
+			23. I allowed my own daughter to be defiled by that man. /我让我的女儿给那家伙玷污。
+			24. The train entered the defiles of the Sutpour Mountains, which separate the Khandeish from Bundelcund, towards evening. /傍晚，在堪地士邦和本德尔汗德之间，火车驶进了苏特甫山丛的狭道里。
+			25. She is claimed. Yet dares to defile the blood laws. /她已被捕 竟敢玷污血法。
+			26. To the south stretched the defile, or rather broken plain, so often mentioned. /向南延伸着峡谷，或者更确切地说是破碎的平原，经常被提及。
+			27. undefiled
+			28. defiler
+			29. defilement
 				1. n. 污秽；弄脏；污辱
 				2. [befoulment](dic://befoulment), [pollution](dic://pollution)
 				3. _n._ [dirtiness](dic://dirtiness), [uncleanness](dic://uncleanness)
@@ -5947,19 +6126,24 @@
 				8. Early readers of Proust’s novel were puzzled by and heavily critical of this scene of erotic defilement. /普鲁斯特小说的早期读者对这种色情污秽的场景感到困惑和严厉批评。
 				9. It was simple and, since both Helmholtz and the Savage were dreadfully pained by the shattering and defilement of a favourite poetic crystal, extremely effective. /这动作虽简单，却非常有效，因为破坏或玷污一首他们喜爱的水晶样的诗歌能给予赫姆霍尔兹和野蛮人严重的痛苦。
 				10. To free from dirt, **defilement**, or guilt; purge or clean. /使清洁，清洗使免除灰尘、玷污或罪责；洗净或清除。
-			27. defilade
-		25. cross-file
-		26. cardfile
-		27. backfile
-		28. autofile
+			30. defilade
+		26. cross-file
+		27. cardfile
+		28. backfile
+		29. autofile
 	12. filiform
 	13. filose
 	14. filoselle
 	15. profile
-		1. profilometer
-		2. profilogrpah
-		3. profilist
-		4. profiling
+		1. profile ['prəʊfaɪl] n.侧面；轮廓；外形；剖面；简况，vt.描…的轮廓；扼要描述，vi.给出轮廓。这里的词根fil-表示线绳（或拉线），而pro-表向前，profile名词意为“a drawing of the outline of anything”。如果还不明白，file作为文件和档案的意思应该知道吧？想想我们古代的“线装书”就懂了。 ​​​​
+		2. n. 侧面, 轮廓, 传略  vt. 描绘...轮廓, 写...的传略
+		3. _n._ [chart](dic://chart), [side view](dic://side view), [biography](dic://biography), [life](dic://life), [life story](dic://life story), [life history](dic://life history), [salience](dic://salience)
+		4. _v._ [write](dic://write), [compose](dic://compose), [pen](dic://pen), [indite](dic://indite), [represent](dic://represent), [interpret](dic://interpret)
+		5. **profiles**配置文件;**bio**个人简历，小传;**biography**传记;**profiled**描绘…轮廓，评论人物;**avatar**电影《阿凡达》;
+		6. profilometer
+		7. profilogrpah
+		8. profilist
+		9. profiling
 
 
 ### +\*gwn- +
@@ -5998,28 +6182,72 @@
 		4. polygynous
 		5. polygyny
 2. banshee
-3. quean
+3. quean (coquet, ingenue, quean )
+	1. n. 轻佻女人
+	2. queen [kwiːn] n.女王；王后，vt. 使…成为女王或王后，其实也不是很了不起。词源角度讲，queen只是王（king）的女人。比较一个类似单词吧：quean [kwiːn] n. 妓女；轻佻女人。根据格林定律，这个queen与希腊词根gyn-同源，gyn-表女人，如polygyny[pə'lɪdʒɪnɪ] n.一夫多妻
 4. queen
 5. zenana
 
 
 ### + \*gwres- +
 1. **gross-** = greate, 表示“大”。可能源自拉丁语 grossus "thick."
-	1. engross
-		1. [steep](dic://steep), [immerse](dic://immerse), [engulf](dic://engulf), [plunge](dic://plunge), [absorb](dic://absorb), [soak up](dic://soak up)
-		2. [absorb](dic://absorb), [engage](dic://engage), [occupy](dic://occupy)
-		3. _v._ [concentrate](dic://concentrate), [focus](dic://focus), [center](dic://center), [centre](dic://centre), [pore](dic://pore), [rivet](dic://rivet), [interest](dic://interest)
-		4. **excite**刺激…，使…兴奋;**amuse**使发笑;**immerse**沉浸;**entertain**娱乐;**arouse**引起;**compel**强迫，迫使;**entice**诱使;**confine**限制;**distract**转移;**frustrate**使不成功, 挫败, 阻止;**occupy**占据，占领;
-		5. _[engrossing](dic://engrossing)_  adj. 引人入胜的; v. 使全神贯注（engross的ing形式）; 
-		6. _[engrossed](dic://engrossed)_  adj. 全神贯注的；专心致志的; v. 全神贯注（engross的过去分词）; 
-		7. _[engross in](dic://engross%20in)_  全神贯注于
-		8. _[engrossed in](dic://engrossed%20in)_  埋头于，热衷于，全神贯注于
-		9. _[be engrossed in](dic://be%20engrossed%20in)_  全神贯注于某事
-		10. engrossment
-			1. _n._ [attention](dic://attention), [cognitive state](dic://cognitive state), [state of mind](dic://state of mind), [assiduity](dic://assiduity), [assiduousness](dic://assiduousness), [concentration](dic://concentration)
-			2. **aforesaid**上述的;**contemplation**沉思;
-		11. engrossing
-			1.  (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping )
+	1. gross
+		1. n. 总数, 总量  
+		2. a. 总共的, 未打折扣的; 恶劣的, 粗野的; 令人恶心的  
+		3. vt. 总共收入
+		4. [revenue](dic://revenue), [receipts](dic://receipts)
+		5. [megascopic](dic://megascopic)
+		6. [porcine](dic://porcine)
+		7. [crying(a)](dic://crying(a)), [egregious](dic://egregious), [flagrant](dic://flagrant), [glaring](dic://glaring), [rank](dic://rank)
+		8. [arrant(a)](dic://arrant(a)), [complete(a)](dic://complete(a)), [consummate(a)](dic://consummate(a)), [double-dyed(a)](dic://double-dyed(a)), [everlasting(a)](dic://everlasting(a)), [perfect(a)](dic://perfect(a)), [pure(a)](dic://pure(a)), [sodding(a)](dic://sodding(a)), [stark(a)](dic://stark(a)), [staring(a)](dic://staring(a)), [thoroughgoing(a)](dic://thoroughgoing(a)), [utter(a)](dic://utter(a)), [unadulterated](dic://unadulterated)
+		9.  [coarse](dic://coarse), [crude](dic://crude), [earthy](dic://earthy), [vulgar](dic://vulgar)
+		10. _n._ [large integer](dic://large integer), [income](dic://income)
+		11. _v._ [gain](dic://gain), [take in](dic://take in), [clear](dic://clear), [make](dic://make), [earn](dic://earn), [realize](dic://realize), [realise](dic://realise)
+		12. _adj._ [overall](dic://overall), [total](dic://total), [whole](dic://whole), [macroscopic](dic://macroscopic), [macroscopical](dic://macroscopical), [general](dic://general), [fat](dic://fat)
+		13. _n._  [net](dic://net), [nett](dic://nett), [microscopic](dic://microscopic), [microscopical](dic://microscopical), [specific](dic://specific), [thin](dic://thin), [lean](dic://lean)
+			1. [entire](dic://entire) 除了有whole的意思外，还强调既不能加一个也不减少一个的含义。  
+			2. [whole](dic://whole) 比entire更普通，强调每个组成部分都包括在内，无一漏掉或舍去。  
+			3. [complete](dic://complete) 强调事物在内容、程度、或数量方面已完整，已达标准。  
+			4. [full](dic://full) 侧重指内容，含有能包括所有的充足内容的意味。  
+			5. [total](dic://total) 与complete用法相近，但强调总量。  
+			6. [gross](dic://gross) 侧重指未打折扣，未除去成本或皮重等与净重、净数相对。  
+			7. [all](dic://all) 有时可与whole,entire和total换用。 
+		14. **disgusting**令人厌恶的;**icky**讨厌的;**grotesque**奇形怪状的;**total**全部的;**crass**粗鲁的;**domestic**国内的;
+		15. 
+		16. grosbeak
+		17. grosgram
+	13. grossly
+	14. grossness
+	15. grocer
+		1. 来自gross【总计，汇总】。原指批发商，现也指杂货商。
+		2. groceteria
+			1.  出售食品杂货的自动商店 (亦作亦作 grocerteria)
+		3. grocery
+			1. groceries
+		4. greengrocer
+			1. greengrocery
+	16. engross
+		1. vt. 使全神贯注；用大字体书写；正式写成（决议等）；独占；吸引
+		2. [steep](dic://steep), [immerse](dic://immerse), [engulf](dic://engulf), [plunge](dic://plunge), [absorb](dic://absorb), [soak up](dic://soak up)
+		3. [absorb](dic://absorb), [engage](dic://engage), [occupy](dic://occupy)
+		4. _v._ [concentrate](dic://concentrate), [focus](dic://focus), [center](dic://center), [centre](dic://centre), [pore](dic://pore), [rivet](dic://rivet), [interest](dic://interest)
+		5. **excite**刺激…，使…兴奋;**amuse**使发笑;**immerse**沉浸;**entertain**娱乐;**arouse**引起;**compel**强迫，迫使;**entice**诱使;**confine**限制;**distract**转移;**frustrate**使不成功, 挫败, 阻止;**occupy**占据，占领;
+		6. _[engrossing](dic://engrossing)_  adj. 引人入胜的; v. 使全神贯注（engross的ing形式）; 
+		7. _[engrossed](dic://engrossed)_  adj. 全神贯注的；专心致志的; v. 全神贯注（engross的过去分词）; 
+		8. _[engross in](dic://engross%20in)_  全神贯注于
+		9. _[engrossed in](dic://engrossed%20in)_  埋头于，热衷于，全神贯注于
+		10. _[be engrossed in](dic://be%20engrossed%20in)_  全神贯注于某事
+		11. they seemed to be engrossed in conversation. /他们好像在聚精会神地谈话。
+		12. the country had made the best of its position to engross trade. /那个国家充分利用其位置优势垄断贸易。
+		13. He seemed completely engrossed in his book. /他好像完全被他的那本书迷住了。
+		14. A more important subject than that of getting indoors now engrossed her. /现在，一个比回家更为重要的问题占据了她的心头。
+		15. 
+		16. engrossment
+			1. - n. 垄断居奇；用大字写；大量收买
+			2. _n._ [attention](dic://attention), [cognitive state](dic://cognitive state), [state of mind](dic://state of mind), [assiduity](dic://assiduity), [assiduousness](dic://assiduousness), [concentration](dic://concentration)
+			3. **aforesaid**上述的;**contemplation**沉思;
+		17. engrossing
+			1. (bewitching, enchanting, fascinating, ravishing, riveting, inviting, engaging, absorbing, enrapture, enthrall, delight, engrossing. winning, gripping, diverting, entertaining, seizing)
 			2. _adj._ [interesting](dic://interesting)
 			3. _n._ [uninteresting](dic://uninteresting)
 			4. **riveting**吸引人的;**captivating**迷人的;**suspenseful**悬疑的,令人紧张的;**fascinating**迷人的;**thrilling**令人兴奋的;**gripping**引人注意的;**intriguing**引起好奇心的;**entertaining**有趣的;**compelling**引人注目的;**enjoyable**愉快的,快乐的;**thought-provoking**引起思考的,发人深省的;
@@ -6028,16 +6256,4 @@
 			7. _[an engrossing story](dic://an%20engrossing%20story)_ 引人入胜的故事
 			8. this movie's an engrossing watch. /这部电影引人入胜。
 			9. listened to an engrossing symphony. /听一首引人入胜的交响乐
-		13. engrossed
-	3. gross
-		1. grosbeak
-		2. grosgram
-	4. grossly
-	5. grossness
-	6. grocer
-		1. groceteria
-			1.  出售食品杂货的自动商店 (亦作亦作 grocerteria)
-		2. grocery
-			1. groceries
-		3. greengrocer
-			1. greengrocery
+		18. engrossed

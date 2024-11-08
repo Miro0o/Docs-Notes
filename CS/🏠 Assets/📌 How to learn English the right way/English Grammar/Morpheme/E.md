@@ -10,7 +10,7 @@
 	3. e- + scarp【n. 悬崖】
 	4. escarpment
 3. eschew 
-	1. (shirk, shun, spurn, elude, eschew,  shrink)
+	1. (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt, shirk, shun, spurn, elude, eschew,  shrink, obviate)
 	2. e-缓音字母 + -schew = shy, 害羞，逃避。
 	3. [shun](dic://shun)
 	4. _v._ [avoid](dic://avoid)
@@ -261,7 +261,7 @@
 	1. indigency
 	2. indigent
 		1. indi-,在内，在里，来自 in-的扩大形式，-ig,缺乏，需要，来自拉丁语 egere,需要的，来自 PIE*angh,紧的，紧缩的，词源同 anguish,anxious.引申词义贫穷的。
-		2. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury)
+		2. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
 		3.  [destitute](dic://destitute), [impoverished](dic://impoverished), [necessitous](dic://necessitous), [needy](dic://needy), [poverty-stricken](dic://poverty-stricken)
 		4. _adj._ [poor](dic://poor)
 		5. _n._ [rich](dic://rich)
@@ -281,11 +281,10 @@
 ### ⭐ + \*eghs- + = out
 1. **e-, ef-, ex-** = 表示“从，从...离开，从...向外，向外，向上”，来自PIE \*eghs, 向外。该原始印欧语根进入希腊语产生变体形式 ek-, 进入英语拼写演变为 ec-；进入拉丁语演变成 ex-；在浊辅音 b, d, g 和半辅音 j, l, m, n, r, v 前缩写成 e-；在字母f前同化为 ef-。源自希腊语 ex, ek "out of, from." 拉丁语 ex, ex- "out of, away from."
 	1. exoteric 
-		1.  (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric, occult, impenetrable, inscrutable, uninformative)
-		3. exo-外 + ter-比较级后缀 + -ic
-		4. _n._ [esoteric](dic://esoteric)
-		5. **esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**occult**神秘的;**mysticism**神秘主义;**metaphysics**形而上学,玄学;**mystic**神秘的;**mystical**神秘的;**transcendental**超凡的;**orthodox**正统的;**dogmatic**教条的;**astrology**占星术;
-		6. He had been appointed a committee-man, and said that he knew secrets of which the exoteric knew nothing. /他被任命为委员会成员， 并说他知道外行人一无所知的秘密。
+		1. exo-外 + ter-比较级后缀 + -ic
+		2. _n._ [esoteric](dic://esoteric)
+		3. **esoteric**秘传的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**occult**神秘的;**mysticism**神秘主义;**metaphysics**形而上学,玄学;**mystic**神秘的;**mystical**神秘的;**transcendental**超凡的;**orthodox**正统的;**dogmatic**教条的;**astrology**占星术;
+		4. He had been appointed a committee-man, and said that he knew secrets of which the exoteric knew nothing. /他被任命为委员会成员， 并说他知道外行人一无所知的秘密。
 	3. exotic (esoteric, excoriate, exorcize, exotic) 
 		1. exo-外 + -tic表形容词 → 从外面来的。
 		2.  [alien](dic://alien)
@@ -2604,7 +2603,7 @@
 9. effervesce, effervescent, effervescency, effervescence
 10. effloresce
 11. evanesce
-	1. evanescent 
+	1. evanescent
 	2. 
 12. fluoresce
 	1. fluorescin
@@ -2904,10 +2903,12 @@
 		6. exuberance
 			1. - n. 丰富，茂盛；健康；感情洋溢(或慷慨激昂)的言行；(感情等的)过度(或极度)表现
 		7. exuberant
-			1. _adj._ [spirited](dic://spirited), [unrestrained](dic://unrestrained), [abundant](dic://abundant)
-			2. _n._ [spiritless](dic://spiritless), [restrained](dic://restrained), [scarce](dic://scarce)
-			3. **boisterous**热闹的;**joyous**令人高兴的;**flamboyant**显眼的, 浮夸的, 炫耀的;**raucous**沙哑的;**energetic**精力充沛的, 充满活力的;**joyful**欢喜的;**playful**爱嬉戏的;**enthusiastic**满腔热情的, 热心的;**brash**仓促的，性急的;**spirited**生机勃勃的;**cheerful**高兴的;
-		8. exuberantly
+			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+			2. _adj._ [spirited](dic://spirited), [unrestrained](dic://unrestrained), [abundant](dic://abundant)
+			3. _n._ [spiritless](dic://spiritless), [restrained](dic://restrained), [scarce](dic://scarce)
+			4. **boisterous**热闹的;**joyous**令人高兴的;**flamboyant**显眼的, 浮夸的, 炫耀的;**raucous**沙哑的;**energetic**精力充沛的, 充满活力的;**joyful**欢喜的;**playful**爱嬉戏的;**enthusiastic**满腔热情的, 热心的;**brash**仓促的，性急的;**spirited**生机勃勃的;**cheerful**高兴的;
+		9. exuberantly
 	3. uberous
 		1. - adj. 丰富的，富饶的：指物质或精神上的丰富。 
 		2. · The land is uberous and fertile, providing abundant crops. 这片土地丰饶肥沃，提供了丰收的庄稼。

@@ -2,6 +2,8 @@
 ### + \*ta- + = to melt, dissolve
 1. **ta-, tab-** = 表示“消瘦”。源自拉丁语 tabes "a melting, wasting away, putrefaction"
 	1. tabefaction
+		1. tabe-消瘦 + fact-做 + -ion, 表名词
+		2. 
 	2. tabes
 	3. tabid
 	4. tabetisol
@@ -34,7 +36,7 @@
 	1. tact
 		2. tactic 
 		3. tactless
-			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+			1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 			2. tact【机智】 + -less无，没有
 			3. a. 不机智的, 不机敏的
 			4. - [untactful](dic://untactful)
@@ -45,10 +47,11 @@
 		4. tactician
 			1. tactful
 	2. tactile
-		1. dermotactile
-		2. tectilogical
-		3. tactual
-	3. contact, contingence
+		1. a. 触觉的, 有触觉的
+		2. dermotactile
+		3. tectilogical
+		4. tactual
+	4. contact, contingence
 		1. contingency
 		2. contingent
 			1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
@@ -61,13 +64,27 @@
 			8. _contingent liability_ 或有负债；不确定债务；临时负债
 			9. a contingent was departing from Cairo. /一支小分队正从开罗出发。
 			10. A defeasible interest is insurable, as also is a contingent interest. /可撤销的利益是保险利益，偶然的利益亦然。
-	4. intact
-	5. contagion
+	5. intact
+		1. a. 尚未被人碰过的, 原封不动的, 完整的
+		2. in-不，非 + tact-接触，即没有接触的，引申词义完整的。
+		3. [integral](dic://integral), [entire](dic://entire)
+		4. [whole](dic://whole)
+		5. [inviolate](dic://inviolate)
+		6. [entire](dic://entire)
+		7. _adj._ [whole](dic://whole), [unimpaired](dic://unimpaired), [uninjured](dic://uninjured), [uncastrated](dic://uncastrated), [undamaged](dic://undamaged)
+		8. _n._ [fractional](dic://fractional), [impaired](dic://impaired), [injured](dic://injured), [castrated](dic://castrated), [unsexed](dic://unsexed), [damaged](dic://damaged)
+		9. **preserved**保存的;**untouched**未触及的;**unchanged**无变化的;**unharmed**无恙的;**remains**残余;**remain**保持;**unaffected**不受影响的;**tact**老练，圆通，得体，乖巧;**unscathed**未受损伤的,未受伤害的;**retained**保留的;**restored**精力充沛的;
+		10. It's not clear,the steel at point seems to be intact and plumpy. /看不太清楚,好象刀尖夹钢完整而丰满啊.
+		11. he emerged miraculously intact at the end of each cliffhanging episode. /每集惊险剧集的最后他总奇迹般毫发未伤地出现。
+		12. The intact carcass of the prehistoric animal was prevented from putrefying by the arctic cold. /史前时期动物的完整尸体，是由于北极严寒的保护不致腐烂。
+		13. She refused his offer tactfully, allowing him to go away with his pride intact. /她很得体地拒绝了他的提议，让他能保全面子离开。
+		14. They left the fluids and organs intact. /他们完整地保留死者的体液和器官。
+	6. contagion
 		1. contagiosity, 
 		2. contagious
 		3. contagium
 		4. contiguity, contiguous
-	6. tangent, tangency, tangible
+	7. tangent, tangency, tangible
 		1. tangential
 		2. _adj._ [irrelevant](dic://irrelevant), [tangent](dic://tangent)
 		3. _n._ [relevant](dic://relevant)
@@ -80,23 +97,23 @@
 		10. _tangential strain_ 切向应变
 		11. subtangent, cotangent, 
 		12. intangible
-	7. tack
+	8. tack
 		1. tintack
 		2. thumbtack
 		3. tacky, takify
 		4. tacker
 		5. hardtack
-	8. take
+	9. take
 		1. ==uptake, undertake, partake, overtake, offtake, mistake, intake, downtake, betake== 
 		2. takeup, takeover, takeout, takeoff, takeaway
 		3. breathtaking, painstaking
-	9. tango
+	10. tango
 		1. **dance**舞蹈;**waltz**跳华尔兹舞;**ballet**芭蕾舞剧;**dancing**舞蹈;**salsa**①萨尔萨舞曲②沙司，调味汁;**dancer**舞女;**dancers**舞蹈家;**jazz**爵士乐，爵士舞;**cabaret**卡巴莱歌舞表演;**choreography**舞台舞蹈设计;**Argentinian**阿根廷人;
 		2. [ballroom dancing](dic://ballroom dancing), [ballroom dance](dic://ballroom dance), [dance music](dic://dance music), [danceroom music](dic://danceroom music), [ballroom music](dic://ballroom music)
 		3. [dance](dic://dance), [trip the light fantastic](dic://trip the light fantastic), [trip the light fantastic toe](dic://trip the light fantastic toe)
 		4. 
-	10. tangram
-4. **tact-, tax-, = arrangement, -taxis = tend to ..**
+	11. tangram
+6. **tact-, tax-, = arrangement, -taxis = tend to ..**
 	1. chemotaxis, hypotaxis, phototaxis, rheotaxis, thermotaxis
 		2. chemotactic, phototactic, thermotaxic
 	2. parataxis, paratactic, 
@@ -106,8 +123,8 @@
 		1. syntactic
 	5. taxidermal, taxidermy
 	6. taxology, taxonomy
-5. task
-6. tax
+7. task
+8. tax
 
 
 ### + \*tak- + = to be silent
@@ -332,6 +349,8 @@
 3. thatch
 	1. n. 茅草, 稻草用草盖的屋顶; 浓密头发  vt. 用茅草覆盖
 	2. detect [dɪ'tekt] vt.察觉；探测。前缀de-表away from,down，词根teg-,tect-表to cover or cover，与日耳曼词源的thatch[θætʃ] n.茅草；浓密的头发；茅草屋顶，vt.用茅草覆盖屋顶，同源，也与希腊词根stego-同源，比如stegosaurus [,steɡə'sɔːrəs] n.剑龙（有背甲）。detect，就是除掉盖子。 ​​​​
+	3. We can also visit Du Fu's Thatched Cottage (Du Fu Caotang), one of my favourite places there. /我们也可以参观杜甫的茅草屋（杜甫草堂），是我在那里最喜欢的去处。
+	4. 
 4. tile
 	1. n. 砖瓦, 瓷砖, 瓦片  vt. 铺以瓦, 铺以瓷砖
 	2. 来自（缩写自）拉丁语 tegula,瓦，来自 tegere,遮盖，覆盖，词源同 tegular,deck,protect.拼写比较 regulate,rule.
@@ -442,15 +461,17 @@
 		1. textually
 		2. textualist
 	7. texture
-		1. texturity
-		2. textureless
-		3. textured, untextured
-		4. textural
-		5. retexture
-		6. microtexture
-		7. interrtexture
-		8. geotexture
-	8. tissue
+		1. n. (织物的)密度, (材料等的)结构, 纹理
+		2.  text-,纺织，编织，-ure,名词后缀。引申词义结构，后用于指纹理，质地等。
+		3. texturity
+		4. textureless
+		5. textured, untextured
+		6. textural
+		7. retexture
+		8. microtexture
+		9. interrtexture
+		10. geotexture
+	9. tissue
 		1. tissular
 		2. pluritissular
 4. **toil-** = 表示“布，帆布，网”。源自拉丁语 tela "web, net, warp of a fabric"
@@ -490,8 +511,8 @@
 		9. intolerance
 		10. toleration
 	3. extol
-		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate)
-		2.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
 		1. ex-,向外，-tol,承受，举起，词源同 tolerate.
 		2. **virtues**美德;**praises**赞扬;**tout**招徕;**touting**兜售;**proclaim**声明;**praise**赞扬;**denounce**谴责;**glorify**赞美;**boast**自吹自擂, 自夸的话;**criticize**评论, 批评;**revel**狂欢;
 		3. extoller
@@ -526,6 +547,7 @@
 	1. entomic
 	2. entomical
 	3. entomology
+		1. - n. 昆虫学
 	4. entomophilous
 5. **templ-** = temple, 表示“庙”，和表示切割的词根“tom-”同源。源自拉丁语 templum "temple, shrine, open place for observation."
 	1. contemplate
@@ -646,7 +668,7 @@
 	1. tenebrific (swart, negro, nocturne)
 		1. _adj._ 产生黑暗的;阴暗的;阴沉的
 	2. tenebrous
-		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish)
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
 		2. adj. 黑暗的；阴暗的；晦涩的
 		3. _adj._ [dark](dic://dark)
 		4. _n._ [light](dic://light)
@@ -673,20 +695,24 @@
 ### ⭐ + \*temp- + = stretched
 1. **tempor-** = time, age, season, 表示“时间”或时间引起的现象。
 	1. contemporize
-		1. **modernize**现代化;**reinvent**重新使用;**revitalize**使恢复元气,使具有新的活力;**redefine**重新定义;**renovate**修复;**re-create**改造;**revive**苏醒;**revamp**修补;**infuse**使充满;**reworking**再次加工,再造,再加工;**rework**重做;
-		2. [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
-		3. contemporaneity
-		4. contemporaneous
-		5. contemporary
-	2. contretemps
+		1. vt.vi. 同时发生
+		2. **modernize**现代化;**reinvent**重新使用;**revitalize**使恢复元气,使具有新的活力;**redefine**重新定义;**renovate**修复;**re-create**改造;**revive**苏醒;**revamp**修补;**infuse**使充满;**reworking**再次加工,再造,再加工;**rework**重做;
+		3. [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+		4. contemporaneity
+		5. contemporaneous
+		6. contemporary
+	3. contretemps
 		1. **fiasco**惨败;**controversy**争论;**debacle**崩溃;**dispute**争论;**contentious**容易引起争论的,好争论的;**quarrel**吵架;**uproar**骚动;**disagreement**分歧, 意见不合;**scandal**丑闻;**mishap**灾祸;**bickering**争吵;
-	3. extempore
-		1. 1 - ex-,向外，-temp,时间，词源同 temporary.即没时间的，临时安排的。
-		2. **impromptu**事先无准备, 临时;**recitation**背诵;**monologue**独白;**speech**演说;**sermons**布道辞;**improvisation**即兴创作;**sermon**布道, 讲道, 说教;**utterance**说话;**eloquent**雄辩的，有口才的;**lectures**演讲，讲演;**poetry**诗;
-		3. extemporize, extemporization
-		4. extemporary, extemporarily
-		5. extemporaneous
-		6. extemporal
+	4. extempore (impromptu, extempore, )
+		1. a. 即席的, 当场的  
+		2. ad. 即席, 当场  
+		3. n. 即席之作
+		4. 1 - ex-,向外，-temp,时间，词源同 temporary.即没时间的，临时安排的。
+		5. **impromptu**事先无准备, 临时;**recitation**背诵;**monologue**独白;**speech**演说;**sermons**布道辞;**improvisation**即兴创作;**sermon**布道, 讲道, 说教;**utterance**说话;**eloquent**雄辩的，有口才的;**lectures**演讲，讲演;**poetry**诗;
+		6. extemporize, extemporization
+		7. extemporary, extemporarily
+		8. extemporaneous
+		9. extemporal
 	5. temporise, temporize
 		1. **postpone**使…延期;**expedient**应急有效的;**defer**延期;**persuade**说服，劝说;**earnestly**认真地;**concede**承认;**hasten**催促;**abandon**离弃;**avert**避免，防止;**renounce**宣布放弃;**intervene**干涉;
 		2. temporal
@@ -702,28 +728,58 @@
 		6. temporization
 	6. spatiotemporal
 	7. tempest
-		1. **storm**暴风雨;**fury**狂怒;**gale**大风，狂风;**teapot**茶壶;**stormy**暴风雨的;**storms**暴风雨;**hurricane**飓风;**wrath**愤怒;**raging**愤怒的，狂暴的;**calamity**不幸事件;**thunder**雷;
-		2. tempestuous
-			1. **tumultuous**无秩序的;**stormy**暴风雨的;**turbulent**骚动的;**fiery**燃烧般的;**boisterous**热闹的;**feisty**活跃的;**ferocious**残忍的;**perilous**危险的，冒险的;**troubled**动乱的，不安的;**fierce**凶猛的;**treacherous**背信弃义的;
-			2. tempestuousness
-			3. tempestuously
-		3. tempest-tost
+		1. temp-时间引起天气变化 + -est → 天气聚变 → 暴风雨。
+		2. 来自拉丁语 tempestas,风暴，暴风雨，暴风雪，来自 tempus,时间，季节，词源同 temporal.词义由一段时间引申为特殊的时间，恶劣天气，最后指暴风雨雪天气，即代表性的天气特征。词义演变比较 meteor,meteorology.
+		3. 1. n. 暴风雨；骚动；动乱
+		4. vt. 使狂怒；扰乱，使激动
+		5. vi. 小题大作；起大风暴
+		6. [storm](dic://storm)
+		7. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
+		8. **storm**暴风雨;**fury**狂怒;**gale**大风，狂风;**teapot**茶壶;**stormy**暴风雨的;**storms**暴风雨;**hurricane**飓风;**wrath**愤怒;**raging**愤怒的，狂暴的;**calamity**不幸事件;**thunder**雷;
+		9. a tempest of laughter /大笑, 狂笑
+		10. The tempest beats against the house. /暴风雨冲击着这座房子。
+		11. There Jo was mistaken, for next day she made a discovery which produced a tempest. /这里乔可是想错了。因为第二天她就发现了一件事，引起了轩然大波。
+		12. Nor did they. The wind became a tempest, the woods roared and creaked all round them. /它们的确不知道。风越刮越猛，树林发出阵阵呼啸，在风中发出嘎吱嘎吱的声音。
+		13. tempestuous
+			1. a. 有暴风雨的, 暴乱的
+			2. adj. 有暴风雨的；暴乱的；剧烈的
+			3. **tumultuous**无秩序的;**stormy**暴风雨的;**turbulent**骚动的;**fiery**燃烧般的;**boisterous**热闹的;**feisty**活跃的;**ferocious**残忍的;**perilous**危险的，冒险的;**troubled**动乱的，不安的;**fierce**凶猛的;**treacherous**背信弃义的;
+			4. a tempestuous relationship. /一种狂暴的关系
+			5. he had a reckless and tempestuous streak /他生性鲁莽暴躁。
+			6. Meanwhile, her relationship with Rivera was tempestuous, marked by infidelity on both sides. /与此同时，她与Rivera的关系也是一团糟，双方都不忠。
+			7. People are completely freaked out finding themselves in a tempestuous situation /人们都被吓坏了，他们发现自己正处于一个极其危险的境地。
+			8. Wander through the rocky gorge to Divorce Beach, which is lashed by the tempestuousPacific. /穿过崎岖峡谷到达“离婚海滩”，看汹涌的太平洋猛烈冲击那海滩。
+			9. He was well known for his bitter rows with Argentina's tempestuous football star Diego Maradona. /他因和阿根廷脾气暴躁的足球明星迭戈·马拉多纳大打口水仗而知名。
+			10. In the future, we will inevitably face all sorts of risks and challenges, even unimaginable tempestuous storms /未来，我们将不可避免地要面临各种威胁、挑战甚至是难以想象的严酷风暴。
+			11. tempestuousness
+			12. tempestuously
+		15. tempest-tost
 			1. _[tempest tost](dic://tempest%20tost)_  动荡不定的
-		4. tempest-tossed
+		16. tempest-tossed
 			1. **destitute**赤贫的, 贫苦的;**wretched**可怜的;**troubled**动乱的，不安的
 			2. _adj._ 受暴风雨戏弄的,连遭打击的
-		5. tempest-swept
-		6. tempest-beaten
-	8. tempo
-		1. **pace**步速;**rhythm**节奏;**cadence**节奏;**melody**旋律;**rhythmic**间歇的;**melodic**有旋律的;**speed**加速，迅速前行;**jazzy**爵士乐的;**solos**独奏;**intensity**强烈, 剧烈;**waltz**跳华尔兹舞;
-2. **tempor-** = temple, 表示“颞”，俗称“太阳穴”，很薄，像被拉伸了一样，词根本意 "stretched, 拉"。
+		17. tempest-swept
+		18. tempest-beaten
+	9. tempo
+		1. n. 速度, 节奏, 进行速度, (棋的)一着
+		2. temp-时间 + -o → 按时间[快慢]做 → 速度;拍子。
+		3. **pace**步速;**rhythm**节奏;**cadence**节奏;**melody**旋律;**rhythmic**间歇的;**melodic**有旋律的;**speed**加速，迅速前行;**jazzy**爵士乐的;**solos**独奏;**intensity**强烈, 剧烈;**waltz**跳华尔兹舞;
+3. **tempor-** = temple, 表示“颞”，俗称“太阳穴”，很薄，像被拉伸了一样，词根本意 "stretched, 拉"。
 	1. etc...
-3. taffeta
-4. tapestry
-	1. **weaving**织动，编织;**woven**编织;**weave**编织;**mosaic**摩西的;**embroidery**刺绣品;**fabric**织物;**interwoven**交织的;**patchwork**缝缀而成的各色布片;**loom**织布机;**embroidered**绣花的;**silk**蚕丝;
-	2. [tapis](dic://tapis)
-	3. [arras](dic://arras)
-	4. [complexity](dic://complexity), [complexness](dic://complexness), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [hanging](dic://hanging)
+4. taffeta
+5. tapestry
+	1. n. 挂毯, 绒绣  vt. 用挂毯装饰
+	2. n. 织锦；挂毯；绣帷 vt. 用挂毯装饰
+	3. 来自古法语 tapisserie,织锦，壁毯，挂毯，来自 tapiz,毯子，地毯，通过拉丁语借自希腊语 tapes,纺织品，布料，毯子，词源同 tape.
+	4. **weaving**织动，编织;**woven**编织;**weave**编织;**mosaic**摩西的;**embroidery**刺绣品;**fabric**织物;**interwoven**交织的;**patchwork**缝缀而成的各色布片;**loom**织布机;**embroidered**绣花的;**silk**蚕丝;
+	5. [tapis](dic://tapis)
+	6. [arras](dic://arras)
+	7. [complexity](dic://complexity), [complexness](dic://complexness), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile), [hanging](dic://hanging)
+	8. a tapestry with a floral figure /花团锦簇的挂毯；
+	9. The Yao's traditional clothing technology includes knitting, dyeing, broidery, tapestry, ect. /摘要瑶族民间传统服饰工艺主要有纺织、染色、刺绣、织锦等。
+	10. it reached to the red maple leaves to dress it up with burny tapestry delicately; /照耀着漫山遍野的红枫，如火似锦，分外娇艳；
+	11. When it hits the tapestry, it breaks up. /当它击中绣帷时便碎裂了。
+	12. 
 
 
 ### ⭐ temper- = moderate, 表示“调和”。
@@ -735,14 +791,15 @@
 	4. temperable
 	5. retemper
 4. temperament
-	1. **personality**人格, 个性;**demeanor**行为;**disposition**气质, 天性, 性格;**temper**脾气;**aptitude**天资;**attitude**态度;**traits**特性，特质，性格;**intellect**智力;**trait**特性，特点;**breed**繁殖;**calmness**平静，安宁;
-	2. [nature](dic://nature), [emotionality](dic://emotionality), [emotionalism](dic://emotionalism), [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
-	3. temperamental,
-	4. temperamentally
-5. temperance
+	1. (disposition, complexion, countenance, comportment, demeanor, temperament, )
+	2. **personality**人格, 个性;**demeanor**行为;**disposition**气质, 天性, 性格;**temper**脾气;**aptitude**天资;**attitude**态度;**traits**特性，特质，性格;**intellect**智力;**trait**特性，特点;**breed**繁殖;**calmness**平静，安宁;
+	3. [nature](dic://nature), [emotionality](dic://emotionality), [emotionalism](dic://emotionalism), [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
+	4. temperamental,
+	5. temperamentally
+6. temperance
 	1. [restraint](dic://restraint), [control](dic://control), [natural virtue](dic://natural virtue), [abstinence](dic://abstinence), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
 	2. **suffrage**选举权;**abstinence**节制;**piety**虔诚;**virtues**美德;**morals**道德;**self-control**克己;**Whig**辉格党;**immorality**不道德,无道义;**zeal**热心;
-6. temperate
+7. temperate
 	1. **subtropical**亚热带的;**climates**气候，气氛;**arid**干旱的;**humid**潮湿的;**tropical**热带的;**warmer**取暖器;**climate**气候;**tropics**热带地区;**lowland**低地;**deciduous**每年落叶的;**warm**温暖的;
 	2. [cold-temperate](dic://cold-temperate), [equable](dic://equable), [abstemious](dic://abstemious), [moderate](dic://moderate), [restrained](dic://restrained), [mild](dic://mild)
 	3. temperature
@@ -752,7 +809,7 @@
 	6. subtemperate
 	7. intemperate, intemperance
 		1. **uncivil**不文明的;**vulgar**粗俗的;**vile**卑鄙的;**careless**粗心的;**caustic**腐蚀性的;**bigoted**顽固的;**profane**世俗的;**incendiary**放火的;**reckless**鲁莽的，不顾后果的;**hateful**可恨的;**irresponsible**不负责任
-7. tempered
+8. tempered
 	1. well-tempered
 	2. untempered
 		1. **tempered**缓和的，温和的;**unbridled**无辔头的;**indifference**不关心,不在乎;
@@ -765,7 +822,7 @@
 	6. ill-tempered
 	7. hot-tempered
 	8. bad-tempered
-8. temperer
+9. temperer
 
 
 ### tempt- = try, 表示“尝试”。
@@ -942,9 +999,14 @@
 		6. attainder
 		7. attainments
 	5. attaint
-		1.  [dishonor](dic://dishonor), [disgrace](dic://disgrace), [dishonour](dic://dishonour), [shame](dic://shame)
-		2. _v._ [condemn](dic://condemn)
-		3. **treason**叛国罪;**writ**令状;**bestow**授予;**honourable**诚实的, 正直的;**deprive**使丧失，剥夺;
+		1. vt. 剥夺财产和公民权, 侵袭, 玷污  
+		2. n. 污点, 耻辱, 被剥夺财产和公民权
+		3.  [dishonor](dic://dishonor), [disgrace](dic://disgrace), [dishonour](dic://dishonour), [shame](dic://shame)
+		4. _v._ [condemn](dic://condemn)
+		5. **treason**叛国罪;**writ**令状;**bestow**授予;**honourable**诚实的, 正直的;**deprive**使丧失，剥夺;
+		6. No breath of calumny ever attainted the personal purity of the candidate. /没有诽谤玷污这位候选人的个人纯洁。
+		7. They attainted him and tore his clothes asunder. /他们凌辱他并将他的衣服撕成碎片。
+		8. " Which means it cannot be lawfully seized, attainted, or taken from you. But what was given once can be given again" . /" 没错，按照律法，我不能从你们手中占领、没收或剥夺，但礼物既能赠与，自然也可再度送出。"
 	6. contain
 		1. continence
 		2. continency
@@ -1028,7 +1090,7 @@
 		5. [docile](dic://docile)
 		6. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
 	20. pertinacious
-		1. (adamant, stubborn, obdurate, tenacious, steadfast, intransigence, fortitude, inexorable, impenetrable, pertinacious, obstinate, persevere, unregenerate, )
+		1. (adamant, loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, recalcitrant, )
 		2. _adj._ [stubborn](dic://stubborn), [obstinate](dic://obstinate), [unregenerate](dic://unregenerate)
 		3. _n._ [docile](dic://docile)
 		4. **tenacious**抓紧的;**dogmatic**教条的;**zealous**热心的，热情的，积极的;**stubborn**顽固的;**vigorous**有力的;**ardent**热情的;**fervent**强烈的;**dogged**顽强的;**insistent**坚持的;**persistent**持续的;**steadfast**坚定的;
@@ -1423,23 +1485,31 @@
 		2. _v._ [color](dic://color), [colorize](dic://colorize), [colorise](dic://colorise), [colourise](dic://colourise), [colourize](dic://colourize), [colour](dic://colour), [color in](dic://color in)
 		3. **dis**冥府; **in-** 在…内;
 	2. tinge
-		1.  [touch](dic://touch), [hint](dic://hint), [mite](dic://mite), [pinch](dic://pinch), [jot](dic://jot), [speck](dic://speck), [soupcon](dic://soupcon)
-		2.  [undertone](dic://undertone)
-		3.  [color](dic://color), [colour](dic://colour), [distort](dic://distort)
-		4. [tint](dic://tint), [tinct](dic://tinct), [touch](dic://touch)
-		5. _n._ [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [shade](dic://shade), [tint](dic://tint), [tincture](dic://tincture), [tone](dic://tone)
-		6. _v._ [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on), [touch](dic://touch), [color](dic://color)
-		7. **greenish**呈绿色的;**hint**暗示;**reddish**微红的;**overtones**弦外之音;**melancholy**忧郁, 悲哀;**slight**轻微的，少量的;**yellowish**微黄色的;**brownish**呈褐色的;**sheen**光辉，光泽，光彩;**whiff**喷出;**cynicism**犬儒主义;
+		1. n. 色调, 色彩, 气味, 气息  vt. 染, 使带气息
+		2.  [touch](dic://touch), [hint](dic://hint), [mite](dic://mite), [pinch](dic://pinch), [jot](dic://jot), [speck](dic://speck), [soupcon](dic://soupcon)
+		3.  [undertone](dic://undertone)
+		4.  [color](dic://color), [colour](dic://colour), [distort](dic://distort)
+		5. [tint](dic://tint), [tinct](dic://tinct), [touch](dic://touch)
+		6. _n._ [small indefinite quantity](dic://small indefinite quantity), [small indefinite amount](dic://small indefinite amount), [shade](dic://shade), [tint](dic://tint), [tincture](dic://tincture), [tone](dic://tone)
+		7. _v._ [affect](dic://affect), [impact](dic://impact), [bear upon](dic://bear upon), [bear on](dic://bear on), [touch on](dic://touch on), [touch](dic://touch), [color](dic://color)
+		8. **greenish**呈绿色的;**hint**暗示;**reddish**微红的;**overtones**弦外之音;**melancholy**忧郁, 悲哀;**slight**轻微的，少量的;**yellowish**微黄色的;**brownish**呈褐色的;**sheen**光辉，光泽，光彩;**whiff**喷出;**cynicism**犬儒主义;
+		9. a tinge of regret. /一丝悔恨之意
+		10. a slight tinge of humor /有一点幽默气息
+		11. There was a tinge of sadness in her voice. /她声音中流露出一丝忧伤。
+		12. The sunset tinged the lake with pink. /落日把湖水染上淡淡的粉红色。
+		13. A something had occurred in his life, which had cast a tinge of melancholy over all his existence. /假如他生活中发生什么事，他的全身都会留下阴郁味道。
+		14. It's given me enormous pleasure but a tinge of sadness as well. /（找到他们并安葬好）给了我巨大的宽慰，但是也有一些淡淡的哀伤。
 	3. distain
-		1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		3. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+		4. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 		3. v. （使）变色；将……弄脏；伤害……的名誉
 		4. _[despise belittle distain](dic://despise%20belittle%20distain)_ 轻视
 		5. _[distain n](dic://distain%20n)_ 贬损; 鄙视;
 		6. _[distain for](dic://distain%20for)_ 蔑视
 		7. _[distain to reply](dic://distain%20to%20reply)_ 不屑置答
 		8. _[For thee to distain it](dic://For%20thee%20to%20distain%20it)_ 你也不会再来鄙薄
-	5. taint
+	4. taint
 		1.  [contamination](dic://contamination)
 		2.  [defile](dic://defile), [sully](dic://sully), [corrupt](dic://corrupt), [cloud](dic://cloud)
 		3.  [infect](dic://infect)
@@ -1467,20 +1537,21 @@
 1. tepefaction (stupefaction)
 	1. n. 微温, 微热
 2. tepefy
-3. tepid (insipid, vapid)
-	1. a. 微温的, 温热的, 不太热烈的
-	2. 来自拉丁语 tepere,使微热，温热，来自 PIE*tep,加热。
-	3. [lukewarm](dic://lukewarm)
-	4. [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [lukewarm](dic://lukewarm)
-	5. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
-	6. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
-	7. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
-	8. _[tepid water](dic://tepid%20water)_  温水
-	9. _[tepid fevered](dic://tepid%20fevered)_ 不热情的
-	10. In just a couple of hours, your refreshing water turned tepid and kinda...musty. /用不了几个小时，你那清爽的水就会变得不冷不热还有点儿霉味。
-	11. Well, who knew your marketing guys were such lame-os? What they came up with is so...tepid. /谁知道你的推销员都那么差劲。他们的想法都太… … 无趣了。
-	12. And for that, I will write a tepid character, which may enable you to find employment elsewhere /为此，我会在推荐信里说你性情温和，这或许能帮你在其他地方找到工作。
-4. tepidity
+3. tepid
+	1. (sapid, insipid, tepid, vapid, )
+	2. a. 微温的, 温热的, 不太热烈的
+	3. 来自拉丁语 tepere,使微热，温热，来自 PIE*tep,加热。
+	4. [lukewarm](dic://lukewarm)
+	5. [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [lukewarm](dic://lukewarm)
+	6. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
+	7. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
+	8. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+	9. _[tepid water](dic://tepid%20water)_  温水
+	10. _[tepid fevered](dic://tepid%20fevered)_ 不热情的
+	11. In just a couple of hours, your refreshing water turned tepid and kinda...musty. /用不了几个小时，你那清爽的水就会变得不冷不热还有点儿霉味。
+	12. Well, who knew your marketing guys were such lame-os? What they came up with is so...tepid. /谁知道你的推销员都那么差劲。他们的想法都太… … 无趣了。
+	13. And for that, I will write a tepid character, which may enable you to find employment elsewhere /为此，我会在推荐信里说你性情温和，这或许能帮你在其他地方找到工作。
+5. tepidity
 	1.  [lukewarmness](dic://lukewarmness), [tepidness](dic://tepidness)
 	2. _n._ [warmth](dic://warmth), [warmness](dic://warmness)
 	3. **indifference**不关心,不在乎;**complacency**自满;**cynicism**犬儒主义;**selfishness**自私;**apathy**冷漠，无兴趣，漠不关心;**mediocrity**平庸,第二流;**excesses**越轨;**zeal**热心;**reproach**责备;**piety**虔诚;**immorality**不道德,无道义;
@@ -1499,8 +1570,9 @@
 	1. etc..
 5. **trib-** = to rub, 表示“摩擦”。源自希腊语 tribein "to rub, ghresh, pound, wear out."
 	1. diatribe
-		2.  (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
+		2. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		3. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+		4. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 		4. [fulmination](dic://fulmination)
 		5. _n._ [denunciation](dic://denunciation), [denouncement](dic://denouncement)
 		6. **rant**咆哮;**ranting**吼闹;**rebuttal**反驳;**drivel**淌口水,说傻话;**scathing**严厉的;**rambling**漫步的;**inane**愚蠢的;**hyperbole**夸张的语句;**idiocy**白痴;**remarks**摘要;**snarky**恶声恶气的，咬人
@@ -1519,7 +1591,7 @@
 		2. **retention**保留物;**layoffs**解雇;**turnover**翻覆;**recruitment**征募新兵;**burnout**烧坏;**losses**损失;**churn**搅动;**inevitable**不可避免的, 必然发生的;**dropout**中途退学;**morale**士气，斗志;**erosion**侵蚀，腐蚀;
 		3. _attrition rate_ 损耗率；退学率
 	2. contrite, contrition
-		1. (contrite, remorseful, ruthful)
+		1. (contrite, remorseful, rueful)
 		2. con-共同 + trit-摩擦 + -e → 身心全部磨擦 → 悔恨交加的。
 		3. 1 - con-,表强调，-trit,转，磨，词源同 turn,attrition.此处用于比喻义，指磨心的，内心不安的。
 		4. [remorseful](dic://remorseful), [rueful](dic://rueful), [ruthful](dic://ruthful)
@@ -1724,11 +1796,11 @@
 #### + \*tere- (2) + = cross over, pass through, overcome
 1. **trans-** = cross, over, beyond, through
 	1. intransigence, intransigent
-		2. (loathe, pertinacious, impenitent, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude)
-		3.  in-,不，非，-transig,转给，妥协，词源同 transact,transigent.
-		4. a. 非妥协性的 
-		5. n. 不妥协的人
-		6. ag-(1), trans-
+		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, recalcitrant, )
+		2.  in-,不，非，-transig,转给，妥协，词源同 transact,transigent.
+		3. a. 非妥协性的 
+		4. n. 不妥协的人
+		5. ag-(1), trans-
 	2. traduce
 	3. traffic
 	4. transact
@@ -1982,9 +2054,9 @@
 		1.  来自拉丁语 truncus,树干，词源同 trunk.-on,小词后缀。字面意思即小树干，引申词义警棍。
 		2. **baton**接力棒;**policeman**警察;**handcuffs**手铐;**constable**警察;**sword**刀，剑;**fists**拳套;**hammer**敲打;**whips**鞭策者，鞭子;**fist**拳头;**axe**斧;**swords**宝剑;
 	8. trounce 
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		3. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+		4. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 		2. 词源不详，可能来自拉丁语 truncare,砍，切，词源同 truncate,trench.引申词义打败，击溃等。
 		3. **beat**打;**defeat**击败，战胜;**rivals**竞争者;**outperform**做得比…更好;**rout**击溃;**rival**竞争者;**beating**打;**oust**剥夺;**defeated**被击败，失败;**win**赢得;**surpass**胜过，优于;
 		4. [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
@@ -2478,7 +2550,7 @@
 		5. masturbator
 		6. masturbation
 	4. obtuse
-		1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+		1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 		2. 来自 obtund,使迟钝，-s,过去分词后缀。引申词义迟钝的，愚蠢的。
 		3. [purblind](dic://purblind)
 		4. [dense](dic://dense), [dim](dic://dim), [dull](dic://dull), [dumb](dic://dumb), [slow](dic://slow)
@@ -3330,7 +3402,7 @@
 				3. _disposable diaper_ 一次性尿片，纸尿裤
 		26. bomb-disposal
 	23. disposition
-		1.  (disposition, complexion, countenance, comportment, demeanor, )
+		1. (disposition, complexion, countenance, comportment, demeanor, temperament, )
 		2. **temperament**性格, 性情, 气质;**demeanor**行为;**attitude**态度;**countenance**面容，表情;**determination**决心;**judgment**判断;**conveyance**运输;**personality**人格, 个性;**continuance**继续;**manner**方式;**nature**自然;
 			1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。
 			2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。
@@ -3427,34 +3499,35 @@
 		1. **juxtaposition**并置,并列;**evoke**引起，唤起;**portray**描绘;**characterize**是…的特征, 以…为特征;**illustrate**给…加插图;**depict**描画;**accentuate**重读;**counterpoint**对位法;**combine**使联合，使结合;**artfully**狡诈地;**emphasize**强调;
 		2. [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
 	32. oppose
-		1. vt. 反对, 以...对抗, 抗争  vi. 反对
-		2.  [fight](dic://fight), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
-		3.  [counterbalance](dic://counterbalance)
-		4.  [pit](dic://pit), [match](dic://match), [play off](dic://play off)
-		5. [react](dic://react)
-		6.  [controvert](dic://controvert), [contradict](dic://contradict)
-		7. _v._ [argue](dic://argue), [contend](dic://contend), [debate](dic://debate), [fence](dic://fence), [fight](dic://fight), [struggle](dic://struggle), [contrast](dic://contrast)
+		1. (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refute, reject, disapprove, disagree, )
+		2. vt. 反对, 以...对抗, 抗争  vi. 反对
+		3.  [fight](dic://fight), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
+		4.  [counterbalance](dic://counterbalance)
+		5.  [pit](dic://pit), [match](dic://match), [play off](dic://play off)
+		6. [react](dic://react)
+		7.  [controvert](dic://controvert), [contradict](dic://contradict)
+		8. _v._ [argue](dic://argue), [contend](dic://contend), [debate](dic://debate), [fence](dic://fence), [fight](dic://fight), [struggle](dic://struggle), [contrast](dic://contrast)
 			1. [contradict](dic://contradict) 指肯定地否认、反对或反驳某事，坚持相反的意见。  
 			2. [deny](dic://deny) 普通用词，侧重否认意见或言论的真实性，尤指否定他人的指控或责难。   
 			3. [oppose](dic://oppose) 普通的广泛用词。指不作争论或不提出论据而无理由地反对；也指任何温和、有理由的反对或否定。  
 			4. [refute](dic://refute) 语气较强，强调凭推理或证据驳斥一项主张或言论。
-		8. **condemn**判刑，定罪;**opposition**反对;**denounce**谴责;**reject**拒绝;**disapprove**不赞成;**endorse**赞同;**vehemently**热烈地;**disagree**不一致;**deny**否定，否认;**reconsider**重新考虑;**objection**反对, 异议;
-		9. I strongly oppose that contention /我强烈地反对那种主张。
-		10. a candidate to oppose the leader in the presidential contest. /总统竞选中与领先者竞争的候选人。
-		11. an approach that is theoretical as opposed to practical. /一种理论上而不是实践上的方法。
-		12. unopposed
-		13. opposite
-		14. opposing
-		15. opposer
-		16. opposed
-		17. opposable
-	38. poseur
+		9. **condemn**判刑，定罪;**opposition**反对;**denounce**谴责;**reject**拒绝;**disapprove**不赞成;**endorse**赞同;**vehemently**热烈地;**disagree**不一致;**deny**否定，否认;**reconsider**重新考虑;**objection**反对, 异议;
+		10. I strongly oppose that contention /我强烈地反对那种主张。
+		11. a candidate to oppose the leader in the presidential contest. /总统竞选中与领先者竞争的候选人。
+		12. an approach that is theoretical as opposed to practical. /一种理论上而不是实践上的方法。
+		13. unopposed
+		14. opposite
+		15. opposing
+		16. opposer
+		17. opposed
+		18. opposable
+	34. poseur
 		1. **wannabe**想达到目标的人;**snob**势利小人，势利眼;**pretentious**自命不凡的;**hipster**世面灵通的人;**moron**痴愚者;**elitist**优秀人材;**idiot**白痴;**pompous**浮夸的;**douche**灌注法;**hypocrite**伪君子;**hipsters**时髦人群;
-	39. positron
+	35. positron
 		1. **photon**光子;**electron**电子;**proton**质子;**neutron**中子;**protons**质子;**particle**颗粒;**atom**原子;**ion**离子;**photons**光子;**ionization**离子化,电离;**nuclei**核心，核子;
 		2. positronium
 		3. orthopositronium
-	40. posture
+	36. posture
 		5. **stance**姿态;**gait**步法，步态;**pose**摆姿势;**stances**步型;**kneeling**跪着，跪下;**positioning**配置,布置;**movements**整个活动;**muscles**肌肉;**position**位置，方位;**muscular**肌肉发达的;**demeanor**行
 		6. [bodily property](dic://bodily property), [attitude](dic://attitude), [mental attitude](dic://mental attitude), [capability](dic://capability), [capableness](dic://capableness)
 		7. [behave](dic://behave), [acquit](dic://acquit), [bear](dic://bear), [deport](dic://deport), [conduct](dic://conduct), [comport](dic://comport), [carry](dic://carry)
@@ -3469,7 +3542,7 @@
 		17. postural
 			1. **posture**姿势;**postures**姿势，态度;**gait**步法，步态;**musculoskeletal**肌骨骼的;**autonomic**自主的;**neurological**神经病学的;**physiological**生理的， 生理学的;**cognitive**认识的;**spinal**脊骨的;**lumbar**腰椎;**pelvic**骨盆的;
 			2. _adj._ [carriage](dic://carriage), [bearing](dic://bearing), [posture](dic://posture)
-	41. propose
+	37. propose
 		1. pro-向前 + pos-放置 + -e → 拿出（观点）到前面 → 建议。
 		2. [suggest](dic://suggest), [advise](dic://advise)
 		3. [project](dic://project)
@@ -3481,7 +3554,7 @@
 		9. proposition
 		10. proposer
 		11. proposal, counterproposal
-	42. purpose
+	38. purpose
 		1. pur-始终 + pos-放 + -e → 始终放的东西 → 目的。
 		2. - pur-,向前，-pos,放置，词源同 pose,position.引申词义意图，目的等。
 		3.  [intent](dic://intent), [intention](dic://intention), [aim](dic://aim), [design](dic://design)
@@ -3511,11 +3584,11 @@
 		20. dual-purpose
 		21. cross-purposes
 		22. all-purpose
-	52. superpose
+	39. superpose
 		1. - super-,在上，上方，-pos,放置，词源同 position,superimpose.引申词义叠放，放在上面。
 		2. **superimposed**成阶层的,有层理的;**waveform**波形;**overlaid**覆盖;**distort**扭曲;**reconstruct**重建;**orthogonal**直角的,直交的;**spatially**空间地;**combine**使联合，使结合;**correspond**相符合, 相一致;**amplitude**广阔;**compose**作曲;
 		3. _v._ [put](dic://put), [set](dic://set), [place](dic://place), [pose](dic://pose), [position](dic://position), [lay](dic://lay)
-	53. suppose
+	40. suppose
 		1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
 		2. sup-下 + pos-放 + -e → 放下去想 → 猜想。
 		3. - sup-,在下，-pos,放置，词源同 position,propose.引申词义认为，假设等。
@@ -3528,7 +3601,7 @@
 		9. supposal
 		10. supposable
 		11. presuppose
-	54. transpose
+	41. transpose
 		1. trans-转移 + pos-放 + -e → [互相]移放。
 		3. **notation**符号;**compose**作曲;**improvise**临时制作, 临时凑成;**rearrange**重新安排;**memorize**记住，背熟;**translate**翻译;**octave**八度音阶;**chord**弦;**matrices**基质;**subtract**减去;**melody**旋律;
 		4. _n._ [matrix](dic://matrix)
@@ -3537,7 +3610,7 @@
 		7. transpositive
 		8. transposer
 		9. transposal
-	55. compote (asymptote)
+	42. compote (asymptote)
 		1. 来自法语。com-,表强调，-pos,放置，词源同 opponent,position.指把水果、糖等放在一起调制。构成 compost 的对词，但词义产生差别。
 		2. n. 煮熟的糖渍水果, 高脚果盘
 		3.  [fruit compote](dic://fruit compote)
@@ -3545,7 +3618,7 @@
 		5. **rhubarb**大黄;**tart**酸的;**puree**浓汤;**marmalade**果子酱;**chutney**酸辣酱;**custard**蛋奶糊,牛奶沙司;**dessert**餐后甜点;**syrup**糖浆，果汁;**berry**浆果;**pear**梨树;**apricot**杏树;
 		6. _[fruit compote](dic://fruit%20compote)_  烩水果
 		7. _[apple compote](dic://apple%20compote)_  糖渍苹果
-	56. depot, subdepot (despot)
+	43. depot, subdepot (despot)
 		1. de-离开 + pot-放
 		2. 来自 deposit 的法语拼写形式，引申词义放置，仓库。拼写比较 entrepot,compote.
 		3. _oil depot_ [化]油库
@@ -3559,9 +3632,9 @@
 		11. [storehouse](dic://storehouse), [entrepot](dic://entrepot), [storage](dic://storage), [store](dic://store)
 		12. [terminal](dic://terminal), [terminus](dic://terminus)
 		13. subdepot
-	57. entrepot
-	58. larvipositor
-	59. provost
+	44. entrepot
+	45. larvipositor
+	46. provost
 17. hamlet
 18. hanger
 19. haunt
@@ -3797,17 +3870,17 @@
 		2. magniloquent
 		3. 
 	8. obloquy [美 /ˈɑːbləkwi/](cmd://Speak/_us_/obloquy)
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
-		3. n. 毁谤；耻辱；漫骂
-		4. [opprobrium](dic://opprobrium)
-		5. [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
-		6. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
-		7. **scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**condemnation**谴责;**embarrassment**困窘;**slander**诽谤;**humiliation**丢脸，耻辱;**ire**忿怒;**disgrace**耻辱;**doubtless**无疑地, 肯定地;
-		8. I have had enough obloquy for one lifetime. /我一辈子受够了诽谤。
-		9. conduct to which no more obloquy could reasonably attach. /不会再遭受公开指责的行为。
-		10. Few words carry stronger obloquy than slumlord. /甚少有比贫民窟主更具有贬义的词汇了。
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		4. n. 毁谤；耻辱；漫骂
+		5. [opprobrium](dic://opprobrium)
+		6. [defamation](dic://defamation), [calumny](dic://calumny), [calumniation](dic://calumniation), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
+		7. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
+		8. **scorn**轻蔑;**ridicule**嘲笑;**indignation**愤怒, 愤慨, 气愤;**reproach**责备;**condemnation**谴责;**embarrassment**困窘;**slander**诽谤;**humiliation**丢脸，耻辱;**ire**忿怒;**disgrace**耻辱;**doubtless**无疑地, 肯定地;
+		9. I have had enough obloquy for one lifetime. /我一辈子受够了诽谤。
+		10. conduct to which no more obloquy could reasonably attach. /不会再遭受公开指责的行为。
+		11. Few words carry stronger obloquy than slumlord. /甚少有比贫民窟主更具有贬义的词汇了。
 	9. prolocutor
 		1. _n._ (尤指英国国教宗教会议下院的)主席发言人
 	10. ventriloquy
@@ -4461,9 +4534,9 @@
 		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 		4. detest - testify源于意为“证人”或“证明”的拉丁语testis，因此它也表示“证明”。另一个出于同源的词testimony，其词义“证词”、“证据”也与其词源密切相关。可是人们往往把这两个词同testis直接进入英语后被赋予的词义“睾丸”相联系。以前有一家名为《女士》（Ms）的杂志刊登了一封读者来信，信上说，“我对使用testimony一词来表示女人的‘证言’这一做法提出抗议，因为该词的词根是testis，它和女性毫无瓜葛。为什么不用ovarimony（注：ovario-是个组合语素，表示‘卵巢’）？”这位读者恐怕是个女权运动者。其实源于testis的词远不止以上两个。Testament（圣约书），intestate（无遗嘱的），attest（证明），protest（抗议），detest（憎恶），contest（竞争）等等，以及它们的派生词，看来都得受牵连了。
 		5. detestation
-			1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-			2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-			3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+			1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+			2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+			3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 			1. [abhorrence](dic://abhorrence), [abomination](dic://abomination), [execration](dic://execration), [loathing](dic://loathing), [odium](dic://odium)
 			2. _n._ [hate](dic://hate), [hatred](dic://hatred), [disgust](dic://disgust)
 			3. **disdain**蔑视;**hatred**憎恨;**disgust**厌恶，嫌恶;**indignation**愤怒, 愤慨, 气愤;**admiration**钦佩;**scorn**轻蔑;**contempt**轻视，蔑视;**hostility**敌意;**wickedness**邪恶;**enmity**敌意;**affection**感情;

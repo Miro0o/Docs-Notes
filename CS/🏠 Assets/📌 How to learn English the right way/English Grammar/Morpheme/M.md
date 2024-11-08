@@ -252,12 +252,12 @@
 			1. **emancipation**解放;**slavery**奴役;**slave**奴隶;**servitude**奴隶状态;**abolition**废除;**Slaves**斯拉夫人;**secession**脱离;**deed**行动;
 			2. **slave**奴隶;**emancipation**解放;**Slaves**斯拉夫人;**slavery**奴役;**servitude**奴隶状态;
 	3. manacle
-		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, manacle)
-		2. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
-		3. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
-		4. [fetter](dic://fetter), [shackle](dic://shackle)
-		5. [cuff](dic://cuff), [handcuff](dic://handcuff)
-		6. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
+		2. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle)
+		3. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
+		4. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
+		5. [fetter](dic://fetter), [shackle](dic://shackle)
+		6. [cuff](dic://cuff), [handcuff](dic://handcuff)
+		7. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
 	5. manage
 	6. maneuver
 		1. manoeuvre
@@ -2636,28 +2636,35 @@
 		15. malignometer
 		16. etc..
 	32. malinger
-		1. malingering
-		2. malingerer
-	33. malism
-	34. malison
-	35. malnourished
-	36. malnutrition
-	37. malodor
+		1. 来自法语 malingre,装病，可能来自 mal-,坏的，不良的，haingre,虚弱。后引申词义装病以逃避工作。
+		2. [skulk](dic://skulk)
+		3. _v._ [fiddle](dic://fiddle), [shirk](dic://shirk), [shrink from](dic://shrink from), [goldbrick](dic://goldbrick)
+		4. **habitually**习惯地;
+		5. True laziness cannot be disguised-if someone is malingering, chances are that their bosses already know. /真正的懒惰是无法掩饰的--如果有人装病，很可能他们的老板早就心知肚明了。
+		6. The fear of employers and governments is that generous benefits will be costly and create the temptation for employees to malinger. /雇主和政府担心的是，慷慨的福利将是昂贵的，并为雇员创造了诱惑。
+		7. Some returning soldiers grew so desperate to prove they were truly ill — not malingering or delusional, as other doctors had suggested — that they traveled to Tennessee and paid for a biopsy using private insurance. /一些回归的士兵急于证明他们真的生病了——而不是像其他医生所说的那样，是在装病或妄想——于是他们前往田纳西州，用私人保险支付活检费用。
+		8. malingering
+		9. malingerer
+	34. malism
+	35. malison
+	36. malnourished
+	37. malnutrition
+	38. malodor
 		1. malodorous
 		2. malodorant
-	38. malodour
-	39. malposition
-	40. malpractice
-	41. maltreat
-	42. malversation
-	43. malacanthid
-	44. Malacanthidae
-	45. Malacanthus
-	46. malcombustion
-	47. malcompression
-	48. malconformation
-	49. malcrystalline
-	50. malingery
+	39. malodour
+	40. malposition
+	41. malpractice
+	42. maltreat
+	43. malversation
+	44. malacanthid
+	45. Malacanthidae
+	46. Malacanthus
+	47. malcombustion
+	48. malcompression
+	49. malconformation
+	50. malcrystalline
+	51. malingery
 2. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
 	1. 见 wer- (3)
 
@@ -3050,9 +3057,10 @@
 		8. commination, comminatory
 			1. n. 威吓；诅咒
 	9. promenade (esplanade)
-		1. **seafront**滨海区;**boulevard**大街, 林阴大道;**boardwalk**用木板铺成的小道;**pier**水上平台, 码头;**walkway**通道，走道;**waterfront**海〔湖〕滨;**stroll**闲逛;**plaza**广场;**harbour**藏匿;**beach**海滩;**jetty**码头;
-		2. _n._ [ball](dic://ball), [formal](dic://formal), [walk](dic://walk), [walkway](dic://walkway), [paseo](dic://paseo), [country-dance](dic://country-dance), [country dancing](dic://country dancing)
-		3. _v._ [march](dic://march), [process](dic://process), [walk](dic://walk)
+		1. (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk)
+		2. **seafront**滨海区;**boulevard**大街, 林阴大道;**boardwalk**用木板铺成的小道;**pier**水上平台, 码头;**walkway**通道，走道;**waterfront**海〔湖〕滨;**stroll**闲逛;**plaza**广场;**harbour**藏匿;**beach**海滩;**jetty**码头;
+		3. _n._ [ball](dic://ball), [formal](dic://formal), [walk](dic://walk), [walkway](dic://walkway), [paseo](dic://paseo), [country-dance](dic://country-dance), [country dancing](dic://country dancing)
+		4. _v._ [march](dic://march), [process](dic://process), [walk](dic://walk)
 2. **ment-** = 表示“颏”。源自拉丁语 mentum "chin."
 	1. mentoanterior
 	2. basilomental
@@ -5677,14 +5685,14 @@
 	31. muckheap
 	32. mucker
 12. muggy
-	1. a. 闷热的
-	2. 可能来自 PIE*meug,黏的，滑的，词源同 mucus,match.引申词义闷热潮湿的，湿热的。
-	3. [steamy](dic://steamy), [sticky](dic://sticky)
-	4. stuffy, frowst, sultry, swelter, muggy
-	5. _adj._ [wet](dic://wet)
-	6. _n._ [dry](dic://dry)
-	7. **humid**潮湿的;**chilly**寒冷的，凉飕飕的;**windy**多风的，有风的;**overcast**阴暗的;**sunny**阳光充足的，和煦的;**rainy**多雨的;**sweaty**出汗的;**humidity**湿度;**damp**使潮湿;**frigid**寒冷的，严寒的;**breezy**有微风的;
-	8. mugginess
+	1. (stuffy, frowst, sultry, swelter, muggy, sere, smothering, steamy, sizzling, scorching)
+	2. a. 闷热的
+	3. 可能来自 PIE*meug,黏的，滑的，词源同 mucus,match.引申词义闷热潮湿的，湿热的。
+	4. [steamy](dic://steamy), [sticky](dic://sticky)
+	6. _adj._ [wet](dic://wet)
+	7. _n._ [dry](dic://dry)
+	8. **humid**潮湿的;**chilly**寒冷的，凉飕飕的;**windy**多风的，有风的;**overcast**阴暗的;**sunny**阳光充足的，和煦的;**rainy**多雨的;**sweaty**出汗的;**humidity**湿度;**damp**使潮湿;**frigid**寒冷的，严寒的;**breezy**有微风的;
+	9. mugginess
 
 
 ### + \*mezg- +

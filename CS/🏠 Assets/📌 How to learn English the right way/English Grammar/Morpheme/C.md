@@ -72,28 +72,31 @@
 	1. _adj._ (修士或修女)赤脚的; 仅穿拖鞋的
 	2. _n._ [calced](dic://calced), [shod](dic://shod)
 	3. **Franciscan**圣方济各会的;**monastic**僧侣;**nun**修女，尼姑;**convent**女修道院;**Benedictine**圣本笃修会修士;**barefoot**赤脚的;**monk**僧侣，修道士;**saint**圣徒;**Dominican**多米尼加的;**monastery**修道院;
-20. inculcate (indoctrinate)
-	1. vt. 教育；谆谆教诲；教授；反复灌输
-	2. _v._ [drill](dic://drill)
-	3. **instill**徐徐滴入;**impart**给予，传授;**cultivate**耕作, 种植;**educate**教育;**teach**教;**reinforce**增强;**nurture**养育;**perpetuate**使永存;**motivate**刺激;**develop**开发;**propagate**繁殖;
-	4. inculcate the young with a sense of duty. /向年轻人灌输责任感
-	5. they will try to inculcate you with a respect for culture. /他们会谆谆教导你要尊重文化。
-	6. We failed to inculcate students with love of knowledge. /我们未能通过谆谆教诲使学生们热爱知识。
-	7. It also aims to inculcate values such as telling the truth or not stealing /它的目的就是灌输价值观，比如要说真话，不能偷盗。
-21. recalcitrate
+20. inculcate
+	1. (infuse, inculcate, indoctrinate, regurgitate, imbue, imbibe, instill, )
+	2. vt. 教育；谆谆教诲；教授；反复灌输
+	3. _v._ [drill](dic://drill)
+	4. **instill**徐徐滴入;**impart**给予，传授;**cultivate**耕作, 种植;**educate**教育;**teach**教;**reinforce**增强;**nurture**养育;**perpetuate**使永存;**motivate**刺激;**develop**开发;**propagate**繁殖;
+	5. inculcate the young with a sense of duty. /向年轻人灌输责任感
+	6. they will try to inculcate you with a respect for culture. /他们会谆谆教导你要尊重文化。
+	7. We failed to inculcate students with love of knowledge. /我们未能通过谆谆教诲使学生们热爱知识。
+	8. It also aims to inculcate values such as telling the truth or not stealing /它的目的就是灌输价值观，比如要说真话，不能偷盗。
+22. recalcitrate
 	1. (spurn, rebuff, refuse, snub, repel, reject, recalcitrate)
-	2. vi. 不服从；顽抗；踢回去
-	3. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
-	4. _recalcitrate_  vi. 不服从；顽抗；踢回去
-	5. _contrary implacability obduracy pertinacity recalcitrate_ 执拗
-	6. recalcitrant
-		1. [fractious](dic://fractious), [refractory](dic://refractory)
-		2. _adj._ [disobedient](dic://disobedient), [defiant](dic://defiant), [noncompliant](dic://noncompliant)
-		3. _n._ [obedient](dic://obedient), [compliant](dic://compliant)
-		4. **stubborn**顽固的;**unruly**不守规矩的;**troublesome**令人烦恼的;**wayward**任性的;**hapless**运气不好的，倒霉的;**belligerent**好战的;**beleaguered**饱受批评的;**defiant**挑衅的;**rebellious**叛逆的;**would-be**想要成为的,自称自许的,自充的;**erstwhile**过去的, 从前的;
-		5. a class of recalcitrant fifteen-year-olds. /一群桀骜不驯的15岁少年。
-		6. wrung the truth out of the recalcitrant witness. /从那个顽固的目击者口中逼出事情的真像
-		7. The university suspended the most recalcitrant demonstrators. /该大学对最为桀骜不驯的学生做了暂令停学的处理。
+	3. vi. 不服从；顽抗；踢回去
+	4. _v._ [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down), [defend](dic://defend)
+	5. _recalcitrate_  vi. 不服从；顽抗；踢回去
+	6. _contrary implacability obduracy pertinacity recalcitrate_ 执拗
+	7. 
+	8. recalcitrant
+		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, )
+		2. [fractious](dic://fractious), [refractory](dic://refractory)
+		3. _adj._ [disobedient](dic://disobedient), [defiant](dic://defiant), [noncompliant](dic://noncompliant)
+		4. _n._ [obedient](dic://obedient), [compliant](dic://compliant)
+		5. **stubborn**顽固的;**unruly**不守规矩的;**troublesome**令人烦恼的;**wayward**任性的;**hapless**运气不好的，倒霉的;**belligerent**好战的;**beleaguered**饱受批评的;**defiant**挑衅的;**rebellious**叛逆的;**would-be**想要成为的,自称自许的,自充的;**erstwhile**过去的, 从前的;
+		6. a class of recalcitrant fifteen-year-olds. /一群桀骜不驯的15岁少年。
+		7. wrung the truth out of the recalcitrant witness. /从那个顽固的目击者口中逼出事情的真像
+		8. The university suspended the most recalcitrant demonstrators. /该大学对最为桀骜不驯的学生做了暂令停学的处理。
 23. recalcitrance
 	1. _n._ [intractability](dic://intractability), [intractableness](dic://intractableness)
 	2. **unwillingness**不情愿;**refusal**拒绝;**impatience**急躁;**reluctance**不愿意;**insistence**坚持;**hostility**敌意;**defiance**蔑视;**inaction**不活动;**arrogance**傲慢;**incompetence**无能力;**contempt**轻视，蔑视;
@@ -445,9 +448,16 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	1. vt. 连接, 把...连接成链状  
 	2. a. 链状的
 	3. Capital modern works notebook canny repair service center is a section notebook maintenance, Wraps service outside notebook, notebook accessory sales is all-in-one specialize it serve **catenate** agency /首都现代办公笔记本电脑精修服务中心是集笔记本维修、笔记本外包服务、笔记本配件销售为一体的专业化IT服务连锁机构。
+	4. concatenate
+		1. vt. 如锁链般连接, 使连锁, 连结  
+		2. a. 连锁的, 连结的
+		3. _v._ [chain](dic://chain), [add](dic://add)
+		4. **parse**从语法上分析;**encode**编码，译码;**filename**文件名;**integers**整数;**parser**语法剖析程式;**integer**整数;**parsing**剖析;**recursive**回归的,递归的;**string**线，细绳;**syntax**语法;**byte**字节;
+		5. Previously all the concatenated voices sounded like, (ROBOT VOICE) hello, how are you? /以前所有串联的声音听起来像，（机器人声音）你好，你好吗？
+		6. 
 5. catenulate
 	1. a. 链状的
-6. catena
+6. catena [美 /kə'tinə/](cmd://Speak/_us_/catena)
 	1. n. 连续，系列；彼此相连接的东西；（尤指）专业丛书 
 	2. Then can become the own brand but the **catena** management hotel. /才能形成自己的品牌而连锁经营饭店。
 	3. Pertaining to the arrangement of a series of items in a **catena**. /在链表或串中安排一组项目。
@@ -478,11 +488,12 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 ### + \*cauda- + = tail
 1. **caud-** = tail, 拉丁语 cauda【尾巴】, coda 是 cauda 常用的方言表示.
 	1. caudate
-		1. acaudal, caudad, caudal
-		4. ecaudate
-		5. caudated
-		6. bicaudate
-		7. acaudate
+		1. a. 有尾的
+		2. acaudal, caudad, caudal
+		3. ecaudate
+		4. caudated
+		5. bicaudate
+		6. acaudate
 	3. coda
 		1. **interlude**中间;**epilogue**结语，收场白;**prelude**前奏;**reprise**年金;**intro**介绍;**climactic**高潮的;**climax**高潮;**riff**反复乐节;**counterpoint**对位法;**melody**旋律;**finale**最后乐章;
 	4. coward, 
@@ -490,7 +501,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		2. cowardliness
 		3. cowardice懦弱;despicable可鄙的,卑鄙的;heartless无情的;callous起老茧的;arrogant自大的，傲慢的;hypocritical伪善的;foolish愚蠢的;timid羞怯的;disgraceful可耻的,丢脸的,不光彩的;pathetic可怜的，悲哀的;dishonest不诚实的;
 		4. cower, 来自低地德语 kuren,躺下，特指因恐惧躺倒，蜷缩，最终词源不详。cow,coward,cower 三词在拼写上相互影响，但是在词源上没有任何联系。
-	5. cue
+	5. cue [美 /kjuː/](cmd://Speak/_us_/cue)
 		1. n. 提示, 线索, 球杆  
 		2. vt. 给...暗示(或提示); 击球
 		3. cue（提示）：戏剧脚本中的提示标志 
@@ -519,16 +530,20 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		26. cueist
 			1. n. (台球等的)用球杆者, 精于用球杆者
 	6. curlicue
-		1. [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curl](dic://curl), [ringlet](dic://ringlet), [gyre](dic://gyre), [scroll](dic://scroll)
-		2. [squiggle](dic://squiggle)
-		3. _n._ [round shape](dic://round shape), [line](dic://line)
-		4. **swirls**旋涡;**curving**弯曲的;**ornate**华丽的;**wavy**多浪的;**pointy**尖的;**swirl**漩涡;**triangular**三角形的;**lettering**字体;**whimsical**异想天开的,闹着玩的;**stylized**程式化的;**intricate**错综复杂的;
-		5. He doesn't just put on a pair of glasses. He combs back his curlicue and affects a mild-mannered personality. /他不光只是戴上一副眼镜这么简单。他前额那一小撮卷发没了，性格也变得温文尔雅
-		6. They have a slithery, entropic texture—slice into them and little grey curlicues slide out—and smell like a urine-soaked barnyard. /它们有一种光滑、熵的质地——切开它们，灰色的小花饰滑出——闻起来像尿湿的谷仓。
-		7. They made circles, and curlicues, and squiggledy things, and these hardened at once and were candy. /他们做了圆圈、花饰和波浪形的东西，这些东西立刻变硬了， 变成了糖果。
-		8. Her fine forehead sloped gently up to where her hair, bordering it like an armorial shield, burst into lovelocks and waves and curlicues of ash blonde and gold /她漂亮的前额轻轻地向上倾斜， 直到她的头发像盾牌一样围绕着它， 爆发出爱情锁、波浪和灰金色和金色的花饰。
-		9. These dust devils have been seen from orbit, and when they blow the red dust around on the greyish basaltic plains, they can leave behind incredibly complex and beautiful curlicues. /这些尘暴从火星轨道上就能看见，当它们从灰扑扑的玄武岩平原上吹起红色的尘土时，会留下无比复杂和美丽的花纹。
-		10. BEHIND curlicues of cigarette smoke and with the gentle tones of wartime tunes wafting from a tape deck, Alf Biber is back on his feet after the looting of his dinky Tottenham barbershop (above) /在伦敦托特纳姆区一家小巧精致的男士理发店里烟圈缭绕，放音机里飘来战时音乐温柔的调子。埃尔夫? 拜博的这家小店在被打劫之后又重 回正轨（见上图）。
+		1. n. 花体  
+		2. vi. 形成花体  
+		3. vt. 以花体装饰
+		4. curl,卷曲，cue,尾巴，词源同 queue.
+		5. [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curl](dic://curl), [ringlet](dic://ringlet), [gyre](dic://gyre), [scroll](dic://scroll)
+		6. [squiggle](dic://squiggle)
+		7. _n._ [round shape](dic://round shape), [line](dic://line)
+		8. **swirls**旋涡;**curving**弯曲的;**ornate**华丽的;**wavy**多浪的;**pointy**尖的;**swirl**漩涡;**triangular**三角形的;**lettering**字体;**whimsical**异想天开的,闹着玩的;**stylized**程式化的;**intricate**错综复杂的;
+		9. He doesn't just put on a pair of glasses. He combs back his curlicue and affects a mild-mannered personality. /他不光只是戴上一副眼镜这么简单。他前额那一小撮卷发没了，性格也变得温文尔雅
+		10. They have a slithery, entropic texture—slice into them and little grey curlicues slide out—and smell like a urine-soaked barnyard. /它们有一种光滑、熵的质地——切开它们，灰色的小花饰滑出——闻起来像尿湿的谷仓。
+		11. They made circles, and curlicues, and squiggledy things, and these hardened at once and were candy. /他们做了圆圈、花饰和波浪形的东西，这些东西立刻变硬了， 变成了糖果。
+		12. Her fine forehead sloped gently up to where her hair, bordering it like an armorial shield, burst into lovelocks and waves and curlicues of ash blonde and gold /她漂亮的前额轻轻地向上倾斜， 直到她的头发像盾牌一样围绕着它， 爆发出爱情锁、波浪和灰金色和金色的花饰。
+		13. These dust devils have been seen from orbit, and when they blow the red dust around on the greyish basaltic plains, they can leave behind incredibly complex and beautiful curlicues. /这些尘暴从火星轨道上就能看见，当它们从灰扑扑的玄武岩平原上吹起红色的尘土时，会留下无比复杂和美丽的花纹。
+		14. BEHIND curlicues of cigarette smoke and with the gentle tones of wartime tunes wafting from a tape deck, Alf Biber is back on his feet after the looting of his dinky Tottenham barbershop (above) /在伦敦托特纳姆区一家小巧精致的男士理发店里烟圈缭绕，放音机里飘来战时音乐温柔的调子。埃尔夫? 拜博的这家小店在被打劫之后又重 回正轨（见上图）。
 	7. queue
 		1. subqueue
 		2. queueing
@@ -540,7 +555,16 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 
 
 ### caval- = horse, 表示“马”。
-1. chevalier
+1. chivalry (chivalry, cavalry)
+	1. [gallantry](dic://gallantry), [politesse](dic://politesse)
+	2. [knightliness](dic://knightliness)
+	3. _n._ [courtesy](dic://courtesy), [good manners](dic://good manners), [principle](dic://principle)
+	4. **knights**骑兵，骑士;**knight**骑士，武士;**nobility**贵族;**heroism**英勇，英雄气概;**bravery**勇敢;**morality**道德;**morals**道德;**romance**浪漫史;**manners**礼貌;**patriotism**爱国主义;**medieval**中世纪的;
+	5. a quixotic act of chivalry /表现出空想的骑士精神的行动
+	6. their relations with women were models of chivalry and restraint. /他们与女性的关系是有礼有节的典范。
+	7. He was admired for his chivalry /他因他的骑士风度而受到景仰。
+	8. Mercifully, some vestiges of Mike's chivalry still survived; he came to stand beside me. /所幸迈克身上残余的骑士精神还在，他走过来站到了我旁边。
+2. chevalier
 	1. chevalier（骑士）：法国贵族的最低级别  
 	2. 英语单词chevalier和cavalier都表示“骑士”、“武士”，它们有什么联系和区别呢？其实，它们词源相同，都来自拉丁语caballarius，意思是horseman（骑马的人）。不同的是，cavalier是从意大利语进入英语的，仅仅表示一种职业，如军队中的“骑兵”，而chevalier是从法语进入英语的，除了“骑士”本意外，还是一种贵族身份和荣誉称号。在法国，chevalier是贵族等级中最低一层，且不可世袭。这一点和英国的knight（骑士）一样。  
 	3. chevalier：[,ʃevə'lɪə] n.骑士，武士  
@@ -550,15 +574,6 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	7. "Messire Galiot de Genoilhac, chevalier, seigneur de Brussac, master of the king's artillery!" /“加利奥•德•热努阿克大人，骑士，普鲁萨克的领主，
 	8. Moreover, I myself, will be her preux chevalier, sixty and gouty though I be. /而且，我自己，将是她的假骑士， 虽然我已经六十多岁， 还患有痛风病。
 	9.  Both hands, " replied the chevalier, laughing. /“双手，”骑士笑着回答。
-2. chivalry
-	4. [gallantry](dic://gallantry), [politesse](dic://politesse)
-	5. [knightliness](dic://knightliness)
-	6. _n._ [courtesy](dic://courtesy), [good manners](dic://good manners), [principle](dic://principle)
-	7. **knights**骑兵，骑士;**knight**骑士，武士;**nobility**贵族;**heroism**英勇，英雄气概;**bravery**勇敢;**morality**道德;**morals**道德;**romance**浪漫史;**manners**礼貌;**patriotism**爱国主义;**medieval**中世纪的;
-	8. a quixotic act of chivalry /表现出空想的骑士精神的行动
-	9. their relations with women were models of chivalry and restraint. /他们与女性的关系是有礼有节的典范。
-	10. He was admired for his chivalry /他因他的骑士风度而受到景仰。
-	11. Mercifully, some vestiges of Mike's chivalry still survived; he came to stand beside me. /所幸迈克身上残余的骑士精神还在，他走过来站到了我旁边。
 3. cavalcade
 	1. caval-马 + cade。原指马队，现指车队，特指有摩托车开道的车队。
 	2. 来自拉丁语 caballus,马。原指马队，现指车队，特指有摩托车开道的车队。
@@ -569,7 +584,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	7. The cavalcade, following the sweep of the drive, quickly turned the angle of the house, and I lost sight of it /队伍随着车道的扫过，迅速转过房子的角度，我就看不见它了。
 	8. Considering the cavalcade of disasters that  befell Europe after the fall of the Roman Empire, nothing could describe the Renaissance  better than a complete rebirth of Europe /考虑到罗马帝国灭亡后降临在欧洲的一连串灾难，没有什么比欧洲的完全重生更能描述文艺复兴了。
 	9. A general movement among the domestics, and a low sound of gentle voices, announced the approach of those whose presence alone was wanted to enable the cavalcade to move /佣人之间的普遍运动，以及柔和的低沉声音，宣布那些只需要在场就可以使行列移动的人的到来。
-4. cavalry
+4. cavalry (chivalry, cavalry)
 	1. n. 骑兵；装甲兵；装甲部队
 	2. troops trained to fight on horseback
 		1. _synonymous：_ [horse cavalry](dic://horse cavalry), [horse](dic://horse)
@@ -636,19 +651,29 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 ## ch
 ### chron- = time, 表示“时间”，来自希腊神语 khronickos。
 1. anachronic
-	1. anachronistic
-	2. anachronism, parachronism
-	3. anachronous
-2. chronic, diachronic
-	1. synchronize
+	1. a. 记时错误的
+	2. anachronistic
+	3. anachronism, parachronism
+	4. anachronous
+3. chronic, diachronic
+	1. chron-（时间）：时间之神柯罗诺斯  
+	2. 在古希腊神话中，柯罗诺斯（Chronos）是时间的神格化，象征着永远存在、无始无终、自有永有的时间。古希腊神话中的俄耳甫斯密教（Orpheus）认为，柯罗诺斯是最初的神灵，是宇宙的第一因，是混沌和秩序的来源，并从中诞生了定数女神阿南刻，成为他的配偶。  
+	3. 柯罗诺斯是无形无象的超神，又或者化身为蛇的形象出现——拥有三颗头：人头、牛头及狮子头，除此之外还有无数的形象，如有翅膀的青须老者、环绕着混沌的龙……等等。他与配偶阿南刻围著原始世界卵盘绕，然后将混沌分开，形成了天堂、大地、海与天空。  
+	4. 在希腊语中，柯罗诺斯的名字Chronos就是时间的意思，由词干chron-（时间）和名词后缀-us构成。英语中表示“时间”的词根chron-就来源于此。  
+	5. chron-：时间  
+	6. chronic：['krɒnɪk] adj.慢性的，长期的，习惯性的  
+	7. chronicle：['krɒnɪk(ə)l] n. 编年史，年代史  
+	8. chronology：[krə'nɒlədʒɪ] n.年代学，年表  
+	9. synchronous：['sɪŋkrənəs] adj. 同步的；同时的
+	10. synchronize
 		1. synchronic, synchronical, synchronise, synchronism, 
 		2. synchrony, asynchrony
-	2. synchronous, tautochronous, 
-	3. diachronism, diachronous
-	4. heterochrony
-	5. tautochrone
-	6. etc..
-3. chronicle
+	11. synchronous, tautochronous, 
+	12. diachronism, diachronous
+	13. heterochrony
+	14. tautochrone
+	15. etc..
+4. chronicle
 	1. _n._ [record](dic://record)
 	2. _v._ [record](dic://record), [enter](dic://enter), [put down](dic://put down)
 	3. **documenting**文件制作，文件编制;**memoir**传记;**saga**冒险故事;**tale**故事;**compendium**摘要,纲要;**memoirs**回忆录;**diary**日记簿;**biography**传记;**story**故事;**musings**沉思;**autobiographical**自传的;
@@ -657,21 +682,25 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	6. his work chronicles 20th-century displacement and migration. /他的作品翔实记载了20世纪被迫离境和移居国外的情况。
 	7. Yet he chronicles his travels with a wearying feather-light jocularity, prizing one-liners over lucid analysis /但他记录旅行的笔法却是乏味的、轻佻的滑稽，过多的俏皮话替代了清晰的分析。
 	8. This is no arid chronicle of obscure facts from the dust-filled libraries of history. /这不是枯燥乏味的编年史，不是那种尘封的历史图书馆里搜罗来的鲜为人知的事实。
-4. chronograph, photochronograph
+5. chronograph, photochronograph
 	1. photochronography
-5. chronology
-	1. biochronology, biochronometer
-6. chronometer, chronometry
-7. chronoscope, chronometric, microchronometer
-8. crony
-	1.  [buddy](dic://buddy), [brother](dic://brother), [chum](dic://chum), [pal](dic://pal), [sidekick](dic://sidekick)
-	2. _n._ [friend](dic://friend)
-	3. **capitalist**资本家;**capitalism**资本主义;**corrupt**腐败的，贪污的;**lobbyist**说客;**billionaire**亿万富翁;**greed**贪婪，贪心;**sleazy**质地薄的;**crook**钩;**neoliberal**新自由主义;**corruption**堕落;**banker**银行家;
-	4. _crony capitalism_ 裙带资本主义；权贵资本主义；唯亲资本主义
-	5. In her late sixties she traveled over Europe with a crony of equal years. /在接近古稀之年,她同一个与她同年的密友漫游欧洲。
-	6. his cronies concocted a simple plan. /他的好友们制定了一个简单的计划。
-	7. They understand that they are not their child's friend, buddy, peer, comrade, or **crony**. /他们明白，他们并不是孩子的朋友、伙伴，同辈、同志，或者密友。
-	8. cronism
+6. chronology
+	1. n. 年代学, 资料按年月次序的排列, 按时间顺序编制的表格, 年表
+	2. 
+	3. biochronology, biochronometer
+7. chronometer, chronometry
+8. chronoscope, chronometric, microchronometer
+9. crony
+	1. n. 密友, 亲密伙伴, 好朋友
+	2. 来自 chrono-,时间，见 chronicle,chronology.
+	3.  [buddy](dic://buddy), [brother](dic://brother), [chum](dic://chum), [pal](dic://pal), [sidekick](dic://sidekick)
+	4. _n._ [friend](dic://friend)
+	5. **capitalist**资本家;**capitalism**资本主义;**corrupt**腐败的，贪污的;**lobbyist**说客;**billionaire**亿万富翁;**greed**贪婪，贪心;**sleazy**质地薄的;**crook**钩;**neoliberal**新自由主义;**corruption**堕落;**banker**银行家;
+	6. _crony capitalism_ 裙带资本主义；权贵资本主义；唯亲资本主义
+	7. In her late sixties she traveled over Europe with a crony of equal years. /在接近古稀之年,她同一个与她同年的密友漫游欧洲。
+	8. his cronies concocted a simple plan. /他的好友们制定了一个简单的计划。
+	9. They understand that they are not their child's friend, buddy, peer, comrade, or **crony**. /他们明白，他们并不是孩子的朋友、伙伴，同辈、同志，或者密友。
+	10. cronism
 
 
 
@@ -691,20 +720,60 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 ## cl
 ### cla- 表示“夹”，和表示粘的词根 glu- 同源，原始印欧语形式为 *glei.
 1. clam
-	1. clamshell
-	2. clambake
-2. clamp
-	1. unclamp
-	2. reclamp
-	3. clamping
-	4. clamper
-	5. clampdown
-3. clasp
-	1. [clench](dic://clench), [clutch](dic://clutch), [clutches](dic://clutches), [grasp](dic://grasp), [grip](dic://grip), [hold](dic://hold)
-	2. [brooch](dic://brooch)
-	3. [buckle](dic://buckle)
-	4. _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing), [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing)
-	5. _v._ [grasp](dic://grasp), [hold on](dic://hold on), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [seize](dic://seize), [prehend](dic://prehend)
+	1. n. 蛤; 沉默寡言的人  v. 捞蛤
+	2. 词源同clamp,夹子，夹具。后用以指蛤蜊之类的双壳软体动物。
+	3. [dollar](dic://dollar), [dollar bill](dic://dollar bill), [one dollar bill](dic://one dollar bill), [buck](dic://buck)
+	4. _n._ [bivalve](dic://bivalve), [pelecypod](dic://pelecypod), [lamellibranch](dic://lamellibranch), [bill](dic://bill), [note](dic://note), [government note](dic://government note), [bank bill](dic://bank bill)
+	5. _v._ [gather](dic://gather), [garner](dic://garner), [collect](dic://collect), [pull together](dic://pull together)
+	6. **oyster**牡蛎，蚝;**crab**螃蟹;**lobster**龙虾;**oysters**牡蛎，蚝;**shrimp**虾;**crabs**吊钳;**shellfish**贝;**scallop**扇贝，干贝;**mussels**淡菜;**shell**壳，贝壳;**squid**鱿鱼;
+	7. Grandpa’s as happy as a clam helping the children to fly their kites. /祖父帮着孩子们放风筝，乐不可支。
+	8. Buy fresh abalone, razor clam or geoduck, etc. can be hand nudged, select the living will be changed. /买新鲜鲍鱼、蛏子或象拔蚌等，可用手碰一碰，选取活的、会动的。
+	9. Manhattan clam chowder /曼哈顿蛤肉杂烩浓汤
+	10. clamshell
+	11. clambake
+3. clamp
+	1. n. 夹钳  
+	2. vt. 夹紧, 强加
+	3. clam（蛤蜊）：像钳子一样的蛤蜊壳  
+	4. 蛤蜊是一种有壳的软体动物，它的壳像是一把钳子，能够紧紧地夹住东西。因此，古苏格兰人将其命名为clam。该词来自古英语clamm，意思是“紧握”。英语单词clamp（夹钳）也来源于此。这就是为什么单词clam和clamp的拼写如此相似的原因。  
+	5. clam：[klæm] n.蛤蜊，沉默寡言的人，钳子vi.捞蛤；保持沉默，闭嘴不言  
+	6. clamp：[klæmp] n.夹钳vt.夹紧，固定住
+	7. 来自 PIE*glei,黏，粘，词源同 clay, glue.词义外延至夹子，夹具等，比较 clam, clasp, clip.
+	8.  [clinch](dic://clinch)
+	9. _n._ [holding device](dic://holding device)
+	10. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [inflict](dic://inflict), [bring down](dic://bring down), [visit](dic://visit), [impose](dic://impose)
+	11. **lever**杠杆;**flange**凸缘;**screw**旋，拧;**ratchet**棘轮;**bolt**门闩;**coupler**耦合器;**mounting**装备，装配;**crimp**卷发;**valve**阀;**screws**潜水员病;**pliers**钳子;
+	12. They clamped down on the newspapers. /他们施加压力制止报纸报道。
+	13. There are stage clamps available to attach the stage to the substage of the microscope /需要热台固定支架把热台安装在显微镜上。
+	14. The police are going to clamp down on illegal stock exchange activities in the streets. /警察即将取缔街道上的非法证券交易。
+	15. Maggie had to clamp a hand over her mouth to stop herself from laughing. /麦琪不得不用手紧捂住嘴，忍住笑声。
+	16. She threw a clamp at me once. /她曾经朝我扔过一个夹钳。
+	17. They have also clamped down on private media. /他们还压制了私人媒体。
+	18. It has since signed many bilateral tax agreements and clamped down on money-laundering. /自此以后，列支敦士登分别签订了多个双边税务协议，对洗钱活动予以了严厉打击。
+	19. 
+	20. unclamp
+		1. - vt. 松开……的夹钳
+	21. reclamp
+	22. clamping
+	23. clamper
+	24. clampdown 
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
+		2. n. 压制；取缔；严禁
+		3. _n._ [limitation](dic://limitation), [restriction](dic://restriction)
+		4. **crackdown**压迫,镇压,打击;**censorship**审查员的职权;**protests**抗议;**draconian**非常严厉的;**repression**压抑;**ban**禁止;**arrests**停止点;**protest**抗议;**unrest**不安;**curtail**截断, 缩短;**imposition**强加,被迫接受;
+		5. It did the clampdown on something and bite on it. /能紧紧咬住猎物不松口。
+		6. In March it struck a deal with Morocco to secure a clampdown on irregular migration /今年3月，它与摩洛哥达成了一项协议，以确保打击非正常移民。
+		7. The authority, however, didn't mention whether the move was part of the broader antitrust clampdown. /然而，当局没有提到此举是否是更广泛的反垄断打击的一部分。
+		8. Now China's chief corruption-buster, he has led a clampdown on trading abuses in the bond market. /当下中国的反腐先锋，他领导了一场取缔债券市场中贸易滥用的行动。
+		9. Since then, the population has witnessed Thailand’s worst-ever bomb attack and a clampdown on many freedoms. /自此以后，泰国人民遭遇了史上最惨烈的轰炸，许多权力遭到了践踏。
+		10. 
+4. clasp
+	1. n. 扣子, 钩, 紧握  v. 扣紧, 紧握
+	2. [clench](dic://clench), [clutch](dic://clutch), [clutches](dic://clutches), [grasp](dic://grasp), [grip](dic://grip), [hold](dic://hold)
+	3. [brooch](dic://brooch)
+	4. [buckle](dic://buckle)
+	5. _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing), [grasping](dic://grasping), [taking hold](dic://taking hold), [seizing](dic://seizing)
+	6. _v._ [grasp](dic://grasp), [hold on](dic://hold on), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [seize](dic://seize), [prehend](dic://prehend)
 		1. [take](dic://take) 最普通用词，不带感情色彩。指用手抓、取某东西或控制某物。
 		2. [grasp](dic://grasp) 指紧紧抓住、抓牢。 
 		3. [grab](dic://grab) 指粗暴而急迫的抓住。
@@ -713,7 +782,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		6. [clutch](dic://clutch) 强调匆忙、紧急地抓、抓紧。
 		7. [snatch](dic://snatch) 指突然抢走，侧重动作更快或更具暴力性质。
 		8. [seize](dic://seize) 指突然抓住某物，强调突然的猛烈动作
-	6. **bracelet**手镯;**strap**用带捆绑;**necklace**项链;**brooch**胸针，领针;**buckle**扣住;**zipper**拉链;**straps**绳;**fastening**扣处, 扣法;**buckles**带扣;**pendant**下垂物，垂饰;**earrings**耳环;
+	7. **bracelet**手镯;**strap**用带捆绑;**necklace**项链;**brooch**胸针，领针;**buckle**扣住;**zipper**拉链;**straps**绳;**fastening**扣处, 扣法;**buckles**带扣;**pendant**下垂物，垂饰;**earrings**耳环;
 	8. unclasp
 	9. handclasp
 		1. **handshake**握手;**clasp**扣子;**greeting**问候，招呼;**gesture**姿态;**greetings**问候,打招呼;**kinship**亲属关系，家属关系;**brotherhood**手足情谊;
@@ -724,25 +793,46 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	12. clasper
 	13. clasp-knife
 		1. [pocketknife](dic://pocketknife), [pocket knife](dic://pocket knife)
-4. clip
-	1. clipsheet
-	2. clipping
-	3. clippie
-	4. clipper
-		1.  [limiter](dic://limiter)
-		2.  [clipper ship](dic://clipper ship)
-		3. _n._ [circuit](dic://circuit), [electrical circuit](dic://electrical circuit), [electric circuit](dic://electric circuit), [sailing vessel](dic://sailing vessel), [sailing ship](dic://sailing ship), [shears](dic://shears), [scissors](dic://scissors)
-		4. **trimmer**整理者;**steamer**轮船;**cutter**刀具，切割机;**schooner**纵帆船;**clipping**剪报，剪辑;**blade**刀片，刀锋;**razor**剃，用剃刀刮;**sailboat**帆船;**blades**刀刃;**shaving**削;
-		5. pulsoclipper
-		6. nail-clippers
-		7. hairclipper
-		8. clippers
+5. clip
+	1. n. 修剪, 夹子, 回形针, 剪下来的东西; 弹夹; 快速动作  
+	2. v. 修剪, 痛打, 夹牢, 剪报; 诈骗
+	3. . 剪，拟声词，剪具剪东西的声音。 2. 夹子，来自PIE*glei,黏，粘，词源同clamp,cling
+	4. [cartridge holder](dic://cartridge holder), [cartridge clip](dic://cartridge clip), [magazine](dic://magazine)
+	5. [time](dic://time)
+	6. [clipping](dic://clipping), [snip](dic://snip)
+	7. [nip](dic://nip), [nip off](dic://nip off), [snip](dic://snip), [snip off](dic://snip off)
+	8. [trot](dic://trot), [jog](dic://jog)
+	9. [snip](dic://snip), [crop](dic://crop), [trim](dic://trim), [lop](dic://lop), [dress](dic://dress), [prune](dic://prune), [cut back](dic://cut back)
+	10. [curtail](dic://curtail), [cut short](dic://cut short)
+	11. _n._ [supply chamber](dic://supply chamber), [case](dic://case), [instance](dic://instance), [example](dic://example), [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast)
+	12. _v._ [cut](dic://cut), [run](dic://run), [attach](dic://attach), [thin out](dic://thin out), [shorten](dic://shorten)
+	13. _n._ [unclip](dic://unclip)
+	14. **video**电视;**montage**蒙太奇;**videos**视频文件;**footage**连续镜头;**snippet**小片;**tape**磁带;**skit**讽刺文;**strap**用带捆绑;**reel**卷;**trailer**预告片;**videotape**录像带;
+	15. seat an ammunition clip in an automatic rifle. /把子弹夹装在自动来福枪上
+	16. Let me put in a little clip here. /让我把一小小的片段放进来。
+	17. But he doesn't see the clips as mere engagement bait. /但他并不认为这些片段仅仅是提升订阅量的噱头。
+	18. So you count the paper clips? /所以你要数回形针？
+	19. clipsheet
+	20. clipping
+	21. clippie
+	22. clipper
+		1. n. 大剪刀
+		2. clip【剪】 + -p- + -er，是单词clip 派生的动作执行者（施动）名词。
+		3.  [limiter](dic://limiter)
+		4.  [clipper ship](dic://clipper ship)
+		5. _n._ [circuit](dic://circuit), [electrical circuit](dic://electrical circuit), [electric circuit](dic://electric circuit), [sailing vessel](dic://sailing vessel), [sailing ship](dic://sailing ship), [shears](dic://shears), [scissors](dic://scissors)
+		6. **trimmer**整理者;**steamer**轮船;**cutter**刀具，切割机;**schooner**纵帆船;**clipping**剪报，剪辑;**blade**刀片，刀锋;**razor**剃，用剃刀刮;**sailboat**帆船;**blades**刀刃;**shaving**削;
+		7. pulsoclipper
+		8. nail-clippers
+		9. hairclipper
+		10. clippers
 			1. _los angeles clippers_ 洛杉矶快船队（NBA中的一支球队）
-		9. clipper-built
-	5. clipped
-	6. clipbook
-	7. clipboard
-	8. clip-on
+		11. clipper-built
+	23. clipped
+	24. clipbook
+	25. clipboard
+	26. clip-on
+		1. a. 用夹子夹上去的
 
 
 
@@ -753,10 +843,23 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 
 
 ### com- 表示“头发”，来自希腊语。
-1. comet
-	1. cometophobia
-	2. cometic
-	3. cometary
+1. comet [美 /ˈkɑːmɪt/](cmd://Speak/_us_/comet)
+	1. n. 彗星
+	2. comet（彗星）：拖着一头长发的星星  
+	3. 彗星的特点是身后拖着一道长长的尾巴，形如扫帚，因此中国古人形象地将其称为“扫帚星”。但在浪漫的古希腊人眼中，这道长长的彗尾可不是扫帚，而是一头秀丽的长发。因此，古希腊人将彗星称为kometes，字面意思就是“长发的”，来自名词kome（头发）。该词途经拉丁语进入英语后，拼写演变为comet。英语词根com-（头发）便来自希腊语kome（头发）。含有该词根的单词还有acomia（秃头、无发症）。  
+	4. com-：头发  
+	5. comet：['kɑmət] n.彗星  
+	6. acomia：['eɪkəmjə] n.秃头、无发症
+	7. The appearance of a comet caused universal dismay in the ancient world. /在古代，彗星的出现引起普遍的恐慌。
+	8. Yeah, we drove over the mountain see the comets. /我们开车去山顶看流星。
+	9. cometophobia
+	10. cometic
+	11. cometary
+		1.  [cometic](dic://cometic)
+		2. _adj._ [comet](dic://comet)
+		3. **comet**彗星;**comets**彗星;**asteroid**小行星;**meteorite**陨星;**interstellar**星际的;**meteor**流星;**planetary**行星的;**galaxies**星系;**extraterrestrial**地球外的;**galactic**银河的;**orbital**轨道的;
+		4. Mumma is trying to determine if cometary water is made up of the same ingredients as our planet's water. /穆马试图证实水是否是来自彗星彗星的水组成成分应该跟地球一样。
+		5. One of the ways we analyze samples is to fly mass spectrometers through cometary debris that's coming off the comet when it's active. /一个分析样本的方法使用光谱分析仪分析透过彗星的光谱结构。
 2. comose
 	1. [comate](dic://comate)
 	2. [comate](dic://comate), [comal](dic://comal)
@@ -834,56 +937,106 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 
 ### crast- = 表示“明天”。
 1. procrastinate
-	1. **laziness**怠惰;**boredom**厌倦;**motivation**动机;**impatience**急躁;**to-do**吵闹;**insomnia**失眠症，失眠;**anxiety**焦虑;**apathy**冷漠，无兴趣，漠不关心;**willpower**意志力;**habit**习惯，习性;**burnout**烧坏;
-2. procrastination
-3. procrastinator
+	1. pro-多 + crastin-属于明天的 + -ate, 表动词 → 有许多明天明日复明日 → 拖延
+	2. v. 延迟, 耽搁
+	3. **laziness**怠惰;**boredom**厌倦;**motivation**动机;**impatience**急躁;**to-do**吵闹;**insomnia**失眠症，失眠;**anxiety**焦虑;**apathy**冷漠，无兴趣，漠不关心;**willpower**意志力;**habit**习惯，习性;**burnout**烧坏;
+3. procrastination
+4. procrastinator
 
 
 ### + \*crux- +
 1. **cro-, cru-** = hook, bend, 表示“钩子；弯曲”。
-	1. crochet (cachet)
-		1. n. 钩针编织品, 钩边 v. 用钩针编织
-		2. [hook](dic://hook)
-		3. _n._ [needlework](dic://needlework), [needlecraft](dic://needlecraft)
-		4. _v._ [create from raw material](dic://create from raw material), [create from raw stuff](dic://create from raw stuff), [loop](dic://loop), [intertwine](dic://intertwine)
-		5. **knitting**针织;**knit**编织;**knitted**针织的;**yarn**纱线;**stitch**针脚，线迹;**knitter**编织者;**shawl**围巾，长方形披巾;**sew**缝合，缝上;**scarf**围巾;**knits**针织品;**sewing**缝纫;
-		6. _crochet hook_ 钩针
-		7. _crochet machine_ n. 钩编机
-		8. crochet a sweater /用钩针编织一件毛衣
-		9. Can you show me some hand crochet article, please? /你能拿些手钩针编织品给我看看吗?
-	2. crocket
+	1. crochet
+		1. (bouquet, banquet, cachet, crotchet, crochet, coquet)
+		2. n. 钩针编织品, 钩边 v. 用钩针编织
+		3. [hook](dic://hook)
+		4. _n._ [needlework](dic://needlework), [needlecraft](dic://needlecraft)
+		5. _v._ [create from raw material](dic://create from raw material), [create from raw stuff](dic://create from raw stuff), [loop](dic://loop), [intertwine](dic://intertwine)
+		6. **knitting**针织;**knit**编织;**knitted**针织的;**yarn**纱线;**stitch**针脚，线迹;**knitter**编织者;**shawl**围巾，长方形披巾;**sew**缝合，缝上;**scarf**围巾;**knits**针织品;**sewing**缝纫;
+		7. _crochet hook_ 钩针
+		8. _crochet machine_ n. 钩编机
+		9. crochet a sweater /用钩针编织一件毛衣
+		10. Can you show me some hand crochet article, please? /你能拿些手钩针编织品给我看看吗?
+	3. crocket
 		1. n. 卷叶形花饰
-	3. crook
+	4. crook (by hook or by crook / every nook and cranny)
 		1. n. 钩, 弯曲部分, 坏蛋  
 		2. vt. 使弯曲, 诈骗  vi. 弯曲
-		2. by hook or by crook不择手段；千方百计；无论如何。中世纪的英格兰，森林属于国王，但是老百姓也要砍柴烧呀，怎么办？皇室会在适合时规定：不管你用billhook ['bɪlhʊk] n.归钩镰；修枝砍刀，还是crook [krʊk] n.牧羊人的钩状手杖，收集来的地上的枯枝归你用。He will do it byhook or by crook. ​​​​
-	4. croquet
+		3. 1. _n._ (牧羊人或主教用的)弯拐杖
+		4. 弯曲部分；弯曲处
+		5. 骗子，恶棍，窃贼
+		6. 罪犯，犯人
+		7. 想方设法；不择手段
+		8. _vt._ 弯成钩形
+		9. _n._ 不正当行为
+		10. by hook or by crook不择手段；千方百计；无论如何。中世纪的英格兰，森林属于国王，但是老百姓也要砍柴烧呀，怎么办？皇室会在适合时规定：不管你用billhook ['bɪlhʊk] n.归钩镰；修枝砍刀，还是crook [krʊk] n.牧羊人的钩状手杖，收集来的地上的枯枝归你用。He will do it byhook or by crook. ​​​​
+		11. [criminal](dic://criminal), [felon](dic://felon), [outlaw](dic://outlaw), [malefactor](dic://malefactor)
+		12.  [bend](dic://bend), [twist](dic://twist), [turn](dic://turn)
+		13. [shepherd's crook](dic://shepherd's crook)
+		14. [curve](dic://curve)
+		15. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender), [curve](dic://curve), [curved shape](dic://curved shape), [staff](dic://staff)
+		16. _v._ [bend](dic://bend), [flex](dic://flex)
+			1. [curve](dic://curve) 指变成曲线或弧线状的动作或状态。  
+			2. [bend](dic://bend) 普通用词，指把某物变成曲线或角形。用于人时，指头部或身躯弯下。  
+			3. [bow](dic://bow) 指把头部或上身弯向前方的动作，也指社交中的礼节性动作。  
+			4. [crook](dic://crook) 指不规则的弯曲，也指按照规则或模型弯曲某物。  
+			5. [twist](dic://twist) 指通过转动、拧或扭使某物成弯曲状。
+		17. **thief**小偷，贼;**thug**暴徒;**robber**强盗;**hook**挂钩，吊钩;**thieves**小偷;**liar**说谎的人;**felon**重罪犯;**gangster**歹徒，流氓;**shady**成荫的;**sleazy**质地薄的;**corrupt**腐败的，贪污的;
+		18. a crook in the path. /小路的转弯处
+		19. a river crooking through the valley /从山谷弯曲流过的一条河
+		20. the government intends, by hook or by crook, to hold on to the land. /政府打算千方百计地保留那块地。
+		21. you’re crook on me because I didn't walk out with you. /你对我生气因为我没有和你一起出去。
+		22. Because people had got to know whether or not their President is a crook. /因为人们需要知道他们的总统是否是一个骗子。
+		23. My first agent was a crook, and I thank you guys for protecting my money. /我的第一位经纪人是个骗子，我也很感谢他“守护”好了我的钱。
+		24. 
+	11. croquet
 		1. n. 槌球游戏  vi. 贴击对方的球
-	5. crosier
+	12. crosier
 		1. n. 权杖
-	6. cross
-	7. crotch
+	13. cross
+	14. crotch
 		1. 源同 crook,crochet.俚语，即看起来像个小弯钩。拼写比较 bake,batch.
 		2. n. 分叉处, 丫叉, 胯部
-	8. crotchet (bouquet, cachet, crotchet, coquet)
-		1. (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
-		2. n. 小钩；奇想；怪想；反复无常
-		3. 词源同 crook,crochet.音乐术语，因形如小弯钩而得名。
-		4.  [hook](dic://hook)
-		5. [quarter note](dic://quarter note)
-		6.  [oddity](dic://oddity), [queerness](dic://queerness), [quirk](dic://quirk), [quirkiness](dic://quirkiness)
-		7. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [note](dic://note), [musical note](dic://musical note), [tone](dic://tone), [unfamiliarity](dic://unfamiliarity), [strangeness](dic://strangeness)
-		8. **crochet**钩边;**crocheting**钩编;**scarf**围巾;**knit**编织;**knitted**针织的;**knitting**针织;**scarves**围巾;**stitch**针脚，线迹;**shawl**围巾，长方形披巾;**lace**花边;**melody**旋律
-		9. _[crotchet rest](dic://crotchet%20rest)_  四分休止符
-	10. crouch
+	15. crotchet
+		1. (bouquet, banquet, cachet, crotchet, crochet,  coquet)
+		2. (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
+		3. n. 小钩；奇想；怪想；反复无常
+		4. 词源同 crook,crochet.音乐术语，因形如小弯钩而得名。
+		5.  [hook](dic://hook)
+		6. [quarter note](dic://quarter note)
+		7.  [oddity](dic://oddity), [queerness](dic://queerness), [quirk](dic://quirk), [quirkiness](dic://quirkiness)
+		8. _n._ [curve](dic://curve), [curved shape](dic://curved shape), [note](dic://note), [musical note](dic://musical note), [tone](dic://tone), [unfamiliarity](dic://unfamiliarity), [strangeness](dic://strangeness)
+		9. **crochet**钩边;**crocheting**钩编;**scarf**围巾;**knit**编织;**knitted**针织的;**knitting**针织;**scarves**围巾;**stitch**针脚，线迹;**shawl**围巾，长方形披巾;**lace**花边;**melody**旋律
+		10. _[crotchet rest](dic://crotchet%20rest)_  四分休止符
+		11. the natural crotchets of inveterate bachelors. /对老光棍们来说很自然的怪念头。
+		12. And beyond that, you get into crotchets and quavers and things. /除此之外，还有四分之一血统和八分之一血统之类的
+		13. These are small naughty will be want as an omnipotent and big hero, you you their strange think the **crotchet** , all of their funny problems resolve good. /这些小淘气会把你当成一个无所不能的大英雄，你要把他们的奇思怪想，他们的无厘头问题全部解决好。
+	16. crouch
 		1. 自 PIE*sker,转，弯，词源同 crumple,curve.即弯下腰的，蹲下的。
 		2. n. 蹲伏, 蜷缩 
 		3. vi. 蹲下, 蜷着, 缩着  vt. 低头
-	11. crutch
+		4.  [stoop](dic://stoop), [bend](dic://bend), [bow](dic://bow)
+		5.  [squat](dic://squat), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [hunker](dic://hunker), [hunker down](dic://hunker down)
+		6. _n._ [bending](dic://bending)
+		7. _v._ [bend](dic://bend), [flex](dic://flex), [sit](dic://sit), [sit down](dic://sit down)
+		8. **kneel**跪下，跪;**kneeling**跪着，跪下;**squatting**蹲;**squat**蹲，蹲下;**stare**凝视，盯着看;**crawl**爬行;**ledge**壁架;**stoop**弯腰;**standing**直立的;**posture**姿势;**knelt**跪下;
+		9. she was crouching over some flower bed /她蹲在一个花坛前。
+		10. They crouched together on a shadowy hillside. /他们蹲在多荫的山坡上。
+		11. He crouched down to stroke the dog /他蹲下来抚摸他的狗。
+		12. Even from the distance where Ms. Achol is crouched, the ground shakes. /即使从阿科尔蹲着的远处看，地面也在震动。
+		13. Ms. Black was crouched near the door. /布莱克女士蜷缩在门边。
+		14. we crouched down in the trench. /我们蹲伏在战壕里。
+	17. crutch
 		1. n. 拐杖, 支撑, 依靠  vt. 支撑
 		2. _n._ [staff](dic://staff), [expedient](dic://expedient)
 		3. **prop**支撑;**cane**手杖;**hindrance**起妨碍作用的事物或人
-	12. encroach (broach)
+		4. they use the Internet as a crutch for their loneliness. /他们将因特网当作孤独时的精神寄托。
+		5. people who make use of crutches to ambulate. /借助T字形拐杖走路的人。
+		6. He needed aluminum crutches to walk. /他需要铝支架来帮助他行走。
+		7. Five hundred pounds and half the paperback rights is a pretty solid crutch, she said. /“五百英镑和平装本一半的版权，这可是相当可观的副业。”她说。
+		8. But I think you all for being my crutch in my career. You know what I mean. /我一直认为，你们是我职业生涯的支撑。你们懂我的意思。
+		9. 
+	18. encroach (broach, encroach, poach, )
 		1.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
 		2. vi. 侵犯, 侵蚀, 蚕食
 		3. [infringe](dic://infringe), [impinge](dic://impinge)
@@ -895,9 +1048,9 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		9. Pierce is not just encroaching on Kamin's business. /皮尔斯不光侵占了卡盟的生意。
 		10. Midland is home to Dow Chemical, and the flooding is already encroaching on the company's main plant site. /米德兰是陶氏化学公司的总部，洪水已经侵蚀了该公司的主要工厂。
 		11. Essentially what she's painting is this bleak picture of the encroaching disaster. /本质上，她描绘的是一幅不断蔓延的灾难的凄凉画面。
-	13. cricket
-		1. 1.蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
-2. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
+	19. cricket
+		1. 蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
+9. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
 	1. crux
 		1.  cruise - crux原为拉丁语单词，在古拉丁语中原指刑具（instruments of torture），即（处死刑用的）十字架、火刑柱（stake）和绞刑架或（吊绞刑尸体的）示众架（gibbet），以后由此引申出“折磨”、“麻烦”、“困难”和“苦难”等义。18世纪英语将crux直接借过来的时候，它就用于“疑难之事”或“难题”一义，后来才又进而引申出“（问题、疑问、争论等的）核心”、“症结”、“关键”等我们至今仍在使用的词义。 
 		2. 英语中源自crux的词为数不少。cross似乎是借自古爱尔兰语或古斯堪的纳维亚语（Old Norse），它是在盎格鲁撒克逊人皈依基督教时出现的，但其终极词源却是crux。除指“十字架”或“十字标记”之外，cross作动词用时，表示“横穿”、“横跨”，而作形容词用时，表示“恼怒的”或“生气的”，这些词义都是从十字架的形状引申出来的。还有crucify（钉死在十字架上），crucifix（有耶稣像的十字架），crucifixion（钉死在十字架上），cruciform（十字形的），crucial（决定性的），excruciating（剧烈疼痛的）等词均源于crux。此外，cruise（乘船巡游）一词虽然来自荷兰语kruisen 'to cross'（横越），但其终极词源还是crux。
@@ -1031,7 +1184,7 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		3. _[exculpation](dic://exculpation)_  n. 辩解；使无罪
 		4. _[defend oneself exculpate exculpation](dic://defend%20oneself%20exculpate%20exculpation)_ 分辩
 		5. Will you consult a lawyer as to your chances of exculpation? “你会就你开脱的机会咨询律师吗” ？
-5. inculpate
+5. inculpate (convict, incriminate, inculpate) (inculcate, inculpate)
 	1. - vt. 使连累；使负罪；控告
 	2. _v._ [suggest](dic://suggest), [evoke](dic://evoke), [paint a picture](dic://paint a picture)
 	3. **accomplice**从犯, 帮凶, 同谋;**prosecute**检举、告发某人;**discredit**败坏…的名声;**accuse**控告，指控;**defendant**被告;**convict**证明…有罪;**betray**背叛;**compel**强迫，迫使;**admissible**可容许的;**apprehend**理解;**refute**反驳，驳斥;
@@ -1044,8 +1197,27 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 
 ### + \*cura + = care
 1. **cur-** = care, 表示“关心”。源自拉丁语 cura "care."
-	1. cure
-		3. curative
+	1. cure (sinecure)
+		1. n. 解决方法; 治疗, 治疗法; 药物  
+		2. v. 治愈; 解决; 矫正; 硫化; (用熏、腌等方法) 加工
+		3. cure - sinecure是个拉丁借用词。在拉丁文中sine意为without（没有），cūrā意为care（关心，照管），短语sine cūrā则是without care（不费心的，不操心的）的意思。英语把这个短语合为一词sinecure，早先用以指教会中不担任教化工作但却领取干薪的牧师职位，现在则泛指工作清闲而报酬优厚的职位，即“闲职”或“挂名差事”。  
+		4. 英语另有几个单词也源出拉丁语cūrā，如curator，即a person who takes“care”of a museum or library（博物馆或图书馆馆长）；curate，即a person who takes“care”of souls（助理牧师）；cure，即bring health to someone by taking“care”of him（治愈）。从含义上来看，这三个词和care多少是有联系的。
+		5. recure
+		6. precure
+		7. pedicure
+			1. n. 脚治疗, 脚治疗医师, 修趾甲术  vt. 修脚, 医脚
+		8. manicure
+			1. n. 修指甲术, 修指甲, 修指甲师  vt. 修指甲, 修剪
+		9. faith-cure
+		10. dry-cure
+		11. curer
+		12. cureless
+		13. cure-all
+		14. curable
+			1. incurable
+		15. curability
+		16. chemicure
+		17. curative
 			1. a. 治病的, 有疗效的  
 			2. n. 药物, 治疗法
 			3. [remedy](dic://remedy), [cure](dic://cure), [therapeutic](dic://therapeutic)
@@ -1057,8 +1229,8 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 			9. _curative effect_ 疗效
 			10. Methods Contrast the curative effect and prognosis in autoreinfusion and xenogenous transfusion /方法对比应用储存失自体输血和异体输血的疗效、预后。
 			11. There's no curative treatment for neurodegeneration /神经退行性变没有治愈方法。
-		4. incurably
-	2. curate, curacy (curative)
+		18. incurably
+	3. curate, curacy (curative)
 		1. n. （某教区的）助理牧师；堂区牧师
 		2. v. 操持（收藏品或展品的）展出；组织（音乐节的）演出
 		3. [minister of religion](dic://minister of religion), [minister](dic://minister), [parson](dic://parson), [pastor](dic://pastor), [rector](dic://rector)
@@ -1188,16 +1360,18 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		15. assurance
 		16. assurable
 	11. ensure
+		1. vt. 确定, 保证, 担保, 保护
 	12. insure
-		1. uninsured
-		2. reinsurer
-		3. insurer
-		4. insured
-		5. insurant
-		6. insurance
-		7. insurable
-		8. insurability
-		9. coinsure
+		1. vt. 保险, 确保  vi. 投保
+		2. uninsured
+		3. reinsurer
+		4. insurer
+		5. insured
+		6. insurant
+		7. insurance
+		8. insurable
+		9. insurability
+		10. coinsure
 	13. sure
 		1. unsure
 		2. surety
