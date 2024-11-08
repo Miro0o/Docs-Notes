@@ -797,11 +797,12 @@
 		10. he was adroit at tax avoidance /他避税很熟练。
 		11. His skilful diplomacy depended upon his adroit use of flattery. /他娴熟的外交手段取决于他对奉承的巧妙运用。
 		12. maladroit
-			1. **inept**不适当的;**clumsy**笨拙的;**incompetent**无能力的;**crass**粗鲁的;**awkward**笨拙的;**well-meaning**善意的;**hapless**运气不好的，倒霉的;**embarrassing**令人为难的;**pompous**浮夸的;**misguided**由错误思想指引的,不明智的;**careless**粗心的;
-			2. [bumbling](dic://bumbling), [bungling](dic://bungling), [butterfingered](dic://butterfingered), [ham-fisted](dic://ham-fisted), [ham-handed](dic://ham-handed), [handless](dic://handless), [heavy-handed](dic://heavy-handed)
-			3. a maladroit translation /笨拙的翻译
-		13. adroitness
-		14. adroitly
+			1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
+			2. **inept**不适当的;**clumsy**笨拙的;**incompetent**无能力的;**crass**粗鲁的;**awkward**笨拙的;**well-meaning**善意的;**hapless**运气不好的，倒霉的;**embarrassing**令人为难的;**pompous**浮夸的;**misguided**由错误思想指引的,不明智的;**careless**粗心的;
+			3. [bumbling](dic://bumbling), [bungling](dic://bungling), [butterfingered](dic://butterfingered), [ham-fisted](dic://ham-fisted), [ham-handed](dic://ham-handed), [handless](dic://handless), [heavy-handed](dic://heavy-handed)
+			4. a maladroit translation /笨拙的翻译
+		14. adroitness
+		15. adroitly
 			1. **deftly**灵巧地;**skillfully**巧妙地;**masterfully**好支配人地,专横地;**expertly**熟练地;**cleverly**聪明地;**artfully**狡诈地;**smartly**潇洒地;**delicately**优美地;**deft**灵巧的;**brilliantly**辉煌地;**elegantly**优美地;
 	20. alert
 		1. alertor

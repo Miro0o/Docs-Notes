@@ -58,27 +58,29 @@
 ## ul
 ### ul- 表示“尾巴”。
 1. adulate (different from adult, ad + ol, adultery, ad + ulter + y)
-	1. ad-往 + ul-尾巴 + -ate, 表动词，摇尾乞怜之意。
-	2. - vt. 过分称赞；谄媚；奉承
-	3. _v._ [flatter](dic://flatter), [blandish](dic://blandish)
-	4. **adoration**爱慕;**adoring**崇拜的;**admiration**钦佩;**bestow**授予;**scorn**轻蔑;**despise**轻视，鄙视;**criticize**评论, 批评;**loathe**讨厌，厌恶;**disdain**蔑视;**profess**公开表示;**praise**赞扬;
-	5. Rather, it was that he was adulated in direct proportion to the wrong that he clearly could do. /相反，他所受的奉承与他所犯的错误成正比，这显然是他可以做到的。
-	6. In New York city he was lionized there, adulated and became the President of the American Medical Society. /在纽约，他受到人们的崇拜和追捧，并成为美国医学会主席。
-	7. adulatory
+	1. (inundate, undulate, adulate, )
+	2. ad-往 + ul-尾巴 + -ate, 表动词，摇尾乞怜之意。
+	3. - vt. 过分称赞；谄媚；奉承
+	4. _v._ [flatter](dic://flatter), [blandish](dic://blandish)
+	5. **adoration**爱慕;**adoring**崇拜的;**admiration**钦佩;**bestow**授予;**scorn**轻蔑;**despise**轻视，鄙视;**criticize**评论, 批评;**loathe**讨厌，厌恶;**disdain**蔑视;**profess**公开表示;**praise**赞扬;
+	6. Rather, it was that he was adulated in direct proportion to the wrong that he clearly could do. /相反，他所受的奉承与他所犯的错误成正比，这显然是他可以做到的。
+	7. In New York city he was lionized there, adulated and became the President of the American Medical Society. /在纽约，他受到人们的崇拜和追捧，并成为美国医学会主席。
+	8. adulatory
 		1. _adj._ [flattering](dic://flattering)
 		2. _n._ [unflattering](dic://unflattering), [uncomplimentary](dic://uncomplimentary)
 		3. **adoring**崇拜的;**adoration**爱慕;**gushing**涌出的;**praise**赞扬;**scathing**严厉的;**flattering**奉承的;**pompous**浮夸的;**acclaim**称赞;**dismissive**轻视的, 轻蔑的, 鄙视的;**lavish**浪费的;**breathless**喘不过气来的;
-	8. adulator
-	9. adulation (approbation, commendation /sycophant)
-		1. 1. servile flattery; exaggerated and hypocritical praise
-		2. _n._ [flattery](dic://flattery)
-		3. **adoration**爱慕;**admiration**钦佩;**adoring**崇拜的;**praise**赞扬;**notoriety**臭名昭著;**acclaim**称赞;**scorn**轻蔑;**applause**鼓掌欢迎;**fame**名声，名望;**affection**感情;**disdain**蔑视;
-		4. He thrived on the adulation of his henchmen /他是靠下属的奉承而发迹的。
-		5. The teenager’s adulation of the top group worried her parents. /十几岁的女儿吹捧流行歌星使父母很忧虑。
-		6. Few places put on these supersized displays of public adulation better than North Korea /很少有地方会像朝鲜这样举行超大型的公共宣传。
-		7. The people pleaser feels sulky and betrayed because they were angling for adulation and gratitude. /讨好者会感到生气和被背叛，因为他们是在谋求奉承和感激之情。
-		8. This adulation came not simply because he failed, but because of the manner of his failing. /这种崇拜不仅仅是因为他失败了，而且是因为他失败的方式。
-		9. He has spent a month basking in the **adulation** of the fans back in Jamaica /他一个月里都陶醉在牙买加崇拜者的吹捧之中。
+	9. adulator
+	10. adulation
+		1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
+		2. 1. servile flattery; exaggerated and hypocritical praise
+		3. _n._ [flattery](dic://flattery)
+		4. **adoration**爱慕;**admiration**钦佩;**adoring**崇拜的;**praise**赞扬;**notoriety**臭名昭著;**acclaim**称赞;**scorn**轻蔑;**applause**鼓掌欢迎;**fame**名声，名望;**affection**感情;**disdain**蔑视;
+		5. He thrived on the adulation of his henchmen /他是靠下属的奉承而发迹的。
+		6. The teenager’s adulation of the top group worried her parents. /十几岁的女儿吹捧流行歌星使父母很忧虑。
+		7. Few places put on these supersized displays of public adulation better than North Korea /很少有地方会像朝鲜这样举行超大型的公共宣传。
+		8. The people pleaser feels sulky and betrayed because they were angling for adulation and gratitude. /讨好者会感到生气和被背叛，因为他们是在谋求奉承和感激之情。
+		9. This adulation came not simply because he failed, but because of the manner of his failing. /这种崇拜不仅仅是因为他失败了，而且是因为他失败的方式。
+		10. He has spent a month basking in the **adulation** of the fans back in Jamaica /他一个月里都陶醉在牙买加崇拜者的吹捧之中。
 
 
 

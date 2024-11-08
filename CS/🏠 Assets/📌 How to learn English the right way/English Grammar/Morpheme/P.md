@@ -141,8 +141,8 @@
 			4. The Earth has umbral and penumbral shadows, too. /地球也有本影和半影。
 			5. The umbra is gone, but you're still in the penumbral shadow. /本影已经移开，但你仍处在半影中。
 			6. **Penumbral** lunar Benying and did not sweep the place, simply can not see the solar eclipse. /月球本影和半影没有扫过的地方，根本看不见日食。
-	9. penury
-		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation)
+	9. penury (impecunious)
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
 		2. n. 贫困, 贫穷, 拮据, 馈乏
 		3. pen-接近 . 引申词义物质缺乏，贫穷。
 		4. 来自拉丁语 penuria,缺乏，稀少，来自 paene,几乎，接近没有，词源同 penumbra.引申词义物质缺乏，贫穷。
@@ -159,13 +159,14 @@
 		9. Luxury and penury have always coexisted there in uneasy tension /奢华和贫困两种现象一直以来都并存于这个城市，其紧张关系也令人不安。
 		10. His is a world of violence, random death, corruption, hunger and penury. /他的世界充斥着暴力、随机死亡、腐败、饥饿和贫穷。
 		11. Had he stopped there, he would have faced a life on the edge of penury. /如果他就停在那里，他将会面临一生的穷困潦倒。
-		12. penurious
-			1. **destitute**赤贫的, 贫苦的;**frugal**节俭的;**wretched**可怜的;**impoverished**穷困的,无力的,用尽了的;**poor**可怜的;**wealthy**富有的;**miserable**悲惨的;**pious**虔诚的;**austere**简朴的;**meager**贫乏的;**hapless**运气不好的，倒霉的;
-			2. [poor](dic://poor), [stingy](dic://stingy), [ungenerous](dic://ungenerous)
-			3. a penurious old tramp /一贫如洗的老流浪汉。
-			4. he was generous and hospitable in contrast to his stingy and penurious wife /与他吝啬小气的妻子相比，他慷慨又好客。
-			5. It is like some penurious patrician who has sunk into the company of his inferiors /这就像某个吝啬的贵族融入了下属的行列。
-		13. penuriously
+		12. penurious (impecunious)
+			1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
+			2. **destitute**赤贫的, 贫苦的;**frugal**节俭的;**wretched**可怜的;**impoverished**穷困的,无力的,用尽了的;**poor**可怜的;**wealthy**富有的;**miserable**悲惨的;**pious**虔诚的;**austere**简朴的;**meager**贫乏的;**hapless**运气不好的，倒霉的;
+			3. [poor](dic://poor), [stingy](dic://stingy), [ungenerous](dic://ungenerous)
+			4. a penurious old tramp /一贫如洗的老流浪汉。
+			5. he was generous and hospitable in contrast to his stingy and penurious wife /与他吝啬小气的妻子相比，他慷慨又好客。
+			6. It is like some penurious patrician who has sunk into the company of his inferiors /这就像某个吝啬的贵族融入了下属的行列。
+		14. penuriously
 	11. penannular
 	12. peneplanation
 	13. peneplane
@@ -1019,7 +1020,7 @@
 	4. Parvobacteriaceae
 2. **pauc-** =  few, 表示“少”。拉丁语paucus "few, little."
 	1. paucity
-		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation)
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
 		2. **dearth**缺乏;**lack**缺乏;**insufficient**不足的;**plethora**过剩;**scant**不足的;**shortage**不足;**scarcity**缺乏;**preponderance**多数;**absence**缺席;**lacking**缺乏的;**considerable**相当大
 		3. [dearth](dic://dearth)
 		4. _n._ [scarcity](dic://scarcity), [scarceness](dic://scarceness)
@@ -1529,19 +1530,46 @@
 		1. n. 脚踏两轮车, 孩童用三轮车
 	31. cirripede
 		1. n. 蔓脚类动物
-	32. despatch, dispatch
-		1. celerity
-	33. fetch
+	32. despatch, dispatch (celerity)
+		1. v. 派遣；发送；迅速处理，迅速办妥；杀死，处决 
+		2. n. 派遣，发送；公文，急件；报道，电讯；杀死，除掉
+		3. [despatch](dic://despatch), [communique](dic://communique)
+		4. [despatch](dic://despatch), [shipment](dic://shipment)
+		5.  [despatch](dic://despatch), [expedition](dic://expedition), [expeditiousness](dic://expeditiousness)
+		6.  [despatch](dic://despatch), [send off](dic://send off)
+		7.  [discharge](dic://discharge), [complete](dic://complete)
+		8.  [murder](dic://murder), [slay](dic://slay), [hit](dic://hit), [bump off](dic://bump off), [off](dic://off), [polish off](dic://polish off), [remove](dic://remove)
+		9. _n._ [report](dic://report), [news report](dic://news report), [story](dic://story), [account](dic://account), [write up](dic://write up), [departure](dic://departure), [going](dic://going)
+		10. _v._ [transport](dic://transport), [send](dic://send), [ship](dic://ship), [carry through](dic://carry through), [accomplish](dic://accomplish), [execute](dic://execute), [carry out](dic://carry out)
+			1. [haste](dic://haste) 中性词，用作褒义指动作迅速，事情做得又快又好；作贬义用时，指做事急躁，行为鲁莽，得不到预期的结果。  
+			2. [speed](dic://speed) 多用于褒义，指行动敏捷快速，效果好。  
+			3. [hurry](dic://hurry) 指急速从事某项活动或匆忙对付一件事情，含明显慌乱的意味。  
+			4. [dispatch](dic://dispatch) 指迅速、敏捷地结束某事，强调敏捷和及时。
+		11. **dispatcher**发报机;**courier**送快信的;**delivery**交付;**shipment**装货;**orders**圣职;**arrive**到达;**call**呼叫;**telegram**电报;**order**命令;**deliver**发表;**telegraph**电报;
+		13. _economic dispatch_ 经济调度；经济分配
+		14. _dispatch center_ 调度中心；运输中心；勤务中心
+		15. _load dispatch_ 负载等；负载配电
+		16. _with dispatch_ 迅速地、尽快地
+		17. _dispatch from_ 从…发送
+		18. they dispatched the opposition. /他们迅速解决了反对意见。
+		19. the cheque was dispatched by courier. /支票是快递公司送的。
+		20. I'll advise you of the dispatch of the goods /我会通知你们货物的发运情况。
+		21. he dispatched the animal with one blow /他一棍子就把那动物解决了。
+		22. a resolution authorizing the dispatch of a peacekeeping force /批准派遣维和部队的一项决议。
+		23. goods dispatched to your branch in error. /错发到你们分部的商品。
+		24. I was at dispatch when the call came through. /电话进来的时候我正好换班。
+		25. 
+	34. fetch
 		1. fet-=fed-脚。即跑腿。
-	34. orthopeady
-	35. parallelepiped
+	35. orthopeady
+	36. parallelepiped
 		1. n. 平行六面体
-	36. patrol
+	37. patrol
 		1. patrol - 这是从法语吸收过来的大量军事用语之一。17世纪始用于英语，源自法语patrouiller，而patrouiller又是从古法语patouiller演化而来，原意是flounder in mud（在泥巴里蹒跚而行）。这大概是因为古时军营中夜巡的卫兵往往是在泥巴中来回走个没完，所以才用了这样一个词。
-	37. patten
+	38. patten
 		1. n. 木套鞋, 木底鞋
-	38. peon,
-	39. pilot
+	39. peon,
+	40. pilot
 		1. n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人  
 		2. vt. 领航, 驾驶, 引导, 试用  
 		3. a. 引导的, 控制的, 试点的
@@ -1553,18 +1581,18 @@
 		9. gyropilot
 		10. copilot
 		11. autpilot
-	40. pioneer
-	41. stapes
+	41. pioneer
+	42. stapes
 		1. n. 镫骨
-	42. trivet
+	43. trivet
 		1. n. 三脚架
-14. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
+17. **pessim-** = bottom-most, 表示“最底部的”，由 pess- 表示脚 + -im 最高级组成。源自拉丁语 pessimus "worst."
 	1. pessimism
 	2. pessimist
 	3. pessimistic
 		1. _adj._ [bearish](dic://bearish), [demoralized](dic://demoralized), [demoralised](dic://demoralised), [discouraged](dic://discouraged), [disheartened](dic://disheartened)
 		2. **optimistic**乐观的, 乐观主义的;**cynical**愤世嫉俗的;**gloomy**黑暗的;**optimist**乐天派;**bleak**荒凉的，无遮蔽的;**optimism**乐观;**outlook**展望;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**hopeful**有希望的;**grim**冷酷的;**idealistic**理想主义的;
-15. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
+18. **pod-** = foot, 表示“脚”。源自希腊语 pous (词干 pod-) "foot."
 	1. antipode
 	2. arthropod
 	3. unipod
@@ -1577,7 +1605,7 @@
 	10. platypus
 	11. podium
 	12. etc..
-16. **trapez-** 表示“四边形”。
+19. **trapez-** 表示“四边形”。
 	1. trapeze
 	2. trapezium
 	3. trapezoid
@@ -1586,15 +1614,15 @@
 		3. _n._ [quadrilateral](dic://quadrilateral), [quadrangle](dic://quadrangle), [tetragon](dic://tetragon), [carpal bone](dic://carpal bone), [carpal](dic://carpal), [wrist bone](dic://wrist bone)
 		4. trapezial
 		5. trapezidal
-17. fetlock
-18. fetter
+20. fetlock
+21. fetter
 	1. **shackles**手铐，脚镣;**bondage**奴役身份;**bind**捆绑, 捆扎;**rein**缰绳;**constrain**强迫, 强使;**restrain**抑制，控制;**hindrance**起妨碍作用的事物或人;
 	2. **shackles**手铐，脚镣;**chained**装链的;**constrained**不舒服的,被强迫的,拘泥的;**unfettered**无拘无束的;**freed**释放的;**burdened**负荷的;**restrained**克制的,节制的,受到控制的;**bondage**奴役身份;**bound**跳;**liberated**被解放的;**confined** 被限制的，封闭的，狭窄的;
 	3. trammel
 	4. hamper
-19. foot
-20. pawn
-21. petiole
+22. foot
+23. pawn
+24. petiole
 
 
 
@@ -1692,7 +1720,7 @@
 			2. [larceny](dic://larceny), [theft](dic://theft), [thievery](dic://thievery), [thieving](dic://thieving), [stealing](dic://stealing)
 			3. One revelation after another showed officers, high and low, possessed with the spirit of peculation. /一个又一个的爆料表明，官员们无论高低，都有贪财的心理。
 			4.  I find it impossible not to expect some depth of soul behind a deep grey eye with a long dark eyelash, in spite of an experience which has shown me that they may go along with deceit, peculation, and stupidity. /我发现不可能不期待深灰色的眼睛和长长的黑睫毛背后的灵魂深处，尽管我的经验告诉我他们可能会伴随着欺骗、投机和愚蠢。
-		8. pecuniary (impecunious)
+		8. pecuniary (impecunious, penurious, )
 			1. **monetary**财政的;**financial**财政的, 金融的;**remuneration**酬报,酬劳;**gratification**满意;**bodily**整体地;**economic**经济的，经济上的;**profit**利润;**consequence**结果, 后果;**motive**动机，目的;**exertion**努力;**windfall**被风吹落的果子;
 				1. _[pecuniary](dic://pecuniary)_  adj. 金钱的；应罚款的
 				2. _[pecuniary legacy](dic://pecuniary%20legacy)_  金钱遗赠
@@ -1702,20 +1730,20 @@
 				6. _[pecuniary resources](dic://pecuniary%20resources)_  财力
 				7. _[pecuniary condition](dic://pecuniary%20condition)_  财务或经济状况
 				8. _[pecuniary aid](dic://pecuniary%20aid)_  资助，金钱资助
-				9. as a set-off against such discussions there had come an improvement in their pecuniary position. /他们的财务状况有了改进，这就抵消掉了此类讨论。
-				10. He received thanks but no pecuniary compensation for his services. /他的服务只得到了一句谢谢却并没有物质上的补偿。
-				11. For all its pecuniary success, the Facebook brand has become tarnished. /尽管Facebook在金钱上取得了巨大成功，但它的品牌形象已蒙上污点。
-				12. He dramatized his pecuniary wants, but there was always some immediate necessity behind his display. /他夸大了自己的金钱需求， 但在他的表现背后总是有一些迫在眉睫的需要。
+			2. as a set-off against such discussions there had come an improvement in their pecuniary position. /他们的财务状况有了改进，这就抵消掉了此类讨论。
+			3. He received thanks but no pecuniary compensation for his services. /他的服务只得到了一句谢谢却并没有物质上的补偿。
+			4. For all its pecuniary success, the Facebook brand has become tarnished. /尽管Facebook在金钱上取得了巨大成功，但它的品牌形象已蒙上污点。
+			5. He dramatized his pecuniary wants, but there was always some immediate necessity behind his display. /他夸大了自己的金钱需求， 但在他的表现背后总是有一些迫在眉睫的需要。
 		9. pecunious (impecunious)
 			1. - adj. 有钱的；富有的
-		10. impecunious
-			1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation)
+		10. impecunious (penurious,)
+			1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
 			2. 1. _adj._ [poor](dic://poor)
 			3. _n._ [rich](dic://rich)
 			4. **destitute**赤贫的, 贫苦的;**impoverished**穷困的,无力的,用尽了的;**hapless**运气不好的，倒霉的;**wealthy**富有的;**affluent**富裕的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**aristocratic**贵族的;**poor**可怜的;**erstwhile**过去的, 从前的;**enterprising**有事业心的;**childless**无儿女的;
 			5. The company then factors in the cost of a degree, after financial aid (discounts for the clever or impecunious that greatly reduce the sticker price at many universities). /公司然后在排除财政补贴（对于天资聪颖或一文不名的学生的补助很大程度上削减了很多大学学费的吊牌价）后，把获得学位的成本计入考量在财政补贴。
 			6. They are independent, **impecunious** and able to tolerate all degrees of discomfort. /他们独立自主的，囊中羞涩的，并且能够忍受各种不便。
-		12. peculium
+		11. peculium
 	3. peculiar
 		1. a. 奇特的, 罕见的, 特殊的, 特别的  
 		2. n. 特有财产, 特权
@@ -1758,20 +1786,33 @@
 1. **coct-** = cook 「latin」coquere "to cock"
 	1. concoct
 		1. con-全部 + coct-=cock → 全部是调配出来的 → 编造。
-		2. concocter, concoctor
-		3. concoctive, concoction
-	3. decoct
+		2. [cook up](dic://cook up)
+		3.  [trump up](dic://trump up)
+		4.  [think up](dic://think up), [think of](dic://think of), [dream up](dic://dream up), [hatch](dic://hatch)
+		5. _v._ [mix](dic://mix), [mingle](dic://mingle), [commix](dic://commix), [unify](dic://unify), [amalgamate](dic://amalgamate), [cook](dic://cook), [fix](dic://fix)
+		6. **devise**设计;**concoction**混合;**invent**发明;**formulate**构想出, 规划;**conjure**变戏法;**fabricate**编造, 捏造, 虚构;**devised**计划;**contrived**不自然的;**outlandish**古怪的, 奇异的;**elaborate**详尽说明;**ingenious**灵巧的, 善于创造发明的;
+		7. concoct something to eat /调制食物
+		8. she began to concoct a dinner likely to appeal to him. /她开始烹制很可能会使他喜欢的饭菜。
+		9. One wonders also why Nature, with some snakes concocted poison of such extreme potency. /人们弄不清楚大自然为什么在某些蛇的身上调制出如此高效的毒液来。
+		10. Maybe you built a mashed potato volcano, or concocted a " potion" ? /也许你做了一个土豆泥火山，或者调制了一种“药水”？
+		11. concocter
+		12. concoctor
+		13. concoctive
+			1. - adj. 策划的；捏造的；调合的
+		14. concoction
+	2. decoct
 		1. vt. 熬, 煎
 		2. decoctum, decoction
 		3. infusodecoction
-	4. precocity
+	3. precocity
 		1. precocial
 		2. precocious
 		3. _adj._ [advanced](dic://advanced), [early](dic://early)
 		4. _n._ [retarded](dic://retarded), [late](dic://late),
 		5. **prodigy**奇迹，奇事;**young**年轻的;**adolescent**青春期的;**youngster**年轻人;**teenage**青少年的;**mischievous**淘气的, 顽皮的;**inquisitive**好问的;**immature**不成熟的;**teenager**青少年;**grown-up**成人的;**prodigious**巨大的;
 		6. _precocious puberty_ 性早熟；早熟青春期；性早熟症
-	6. apricot (almond)
+		7. Scholars enthuse about the speed and precocity of its “compressed development” /学者们对于韩国的这种压缩式的发展的速度和早熟都感到非常的振奋。
+	4. apricot (almond)
 		1. a-(=the)al-的变体 + pri-=pre-前 + cot-=coc-熟的变体 → 早熟的水果。
 		2. apricot - 杏子原产于中国，约在公元前1世纪传入地中海地区。古罗马人称杏子为praecoquum，意思是early-ripening（早熟），也许是因为杏树开花较早，比桃子等水果早熟的缘故。该词进入阿拉伯语作albirqūq，随后又进入葡萄牙语，作albricoque，最后进入了英语。英语原先的形式为apricock，到了18世纪，因受法语形式abricot的同化作用演变为apricot。
 		3.  [apricot tree](dic://apricot tree)
@@ -1783,7 +1824,7 @@
 		9. _apricot tree_ 杏树
 		10. _apricot kernel oil_ 杏仁油
 		11. _apricot blossom_ 杏花
-	8. biscuit
+	5. biscuit
 2. **peps-, pept-** = digest, 「greek」 "to cook, ripen, digest"
 	1. dyspepsy, dyspeptic
 		1. eupeptic, eupepsia
@@ -4933,17 +4974,18 @@
 		3. _n._ [force](dic://force), [drive](dic://drive), [thrust](dic://thrust), [driving force](dic://driving force)
 		4. **spurred**装有马刺的;**motivation**动机;**catalyst**催化剂;**inspiration**灵感;**motive**动机，目的;**momentum**动力;**encouragement**鼓励;**spur**马刺;**underpinning**基础,支柱,支撑;**reason**理由;**idea**主意;
 		5. **impatience**急躁;**zeal**热心;**boldness**大胆;**impulsive**冲动的,易冲动的;**eagerness**渴望;**temper**脾气;**vigor**活力，精力;**cowardice**懦弱;**fury**狂怒;**spontaneity**自然性;**reckless**鲁莽的，不顾后果的;
-		6. impetuous (precipitate, impetuous)
-			1. (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic)
-			2. _adj._ [incautious](dic://incautious), [forceful](dic://forceful)
-			3. n. [cautious](dic://cautious), [forceless](dic://forceless), [unforceful](dic://unforceful)
-			4. **impulsive**冲动的,易冲动的;**reckless**鲁莽的，不顾后果的;**brash**仓促的，性急的;**rebellious**叛逆的;**careless**粗心的;**hasty**匆忙的;**boisterous**热闹的;**foolish**愚蠢的;**fearless**无畏的;**exuberant**兴高采烈的;**timid**羞怯的;
-			5. an impetuous dash for freedom /急切要争取自由
-			6. an impetuous but controlled flow of water. /迅疾但受控制的水流。
-			7. The rapidity of change follows the impetuous pace of man rather than the deliberate pace of nature /这种快速的变化追随着人类轻率的步伐而非大自然的从容步态。
-			8. And the fact that you are being so impetuous and irresponsible tells me you're not even close to being ready /而且当下如此莽撞又不负责任的你根本没有做好准备踏上社会。
-			9. But Atlanta was of her own generation, crude with the crudities of youth and as headstrong and impetuous as herself. /可亚特兰大是她的同辈，带有青年时代的莽撞味，并且像她自己那样倔强而浮躁。
-			10. He was impetuous and it was difficult. /他很浮躁，很困难。
+		6. impetuous 
+			1. (precipitate, impetuous, reckless, snappish, madcap, impulsive, )
+			2. (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic)
+			3. _adj._ [incautious](dic://incautious), [forceful](dic://forceful)
+			4. n. [cautious](dic://cautious), [forceless](dic://forceless), [unforceful](dic://unforceful)
+			5. **impulsive**冲动的,易冲动的;**reckless**鲁莽的，不顾后果的;**brash**仓促的，性急的;**rebellious**叛逆的;**careless**粗心的;**hasty**匆忙的;**boisterous**热闹的;**foolish**愚蠢的;**fearless**无畏的;**exuberant**兴高采烈的;**timid**羞怯的;
+			6. an impetuous dash for freedom /急切要争取自由
+			7. an impetuous but controlled flow of water. /迅疾但受控制的水流。
+			8. The rapidity of change follows the impetuous pace of man rather than the deliberate pace of nature /这种快速的变化追随着人类轻率的步伐而非大自然的从容步态。
+			9. And the fact that you are being so impetuous and irresponsible tells me you're not even close to being ready /而且当下如此莽撞又不负责任的你根本没有做好准备踏上社会。
+			10. But Atlanta was of her own generation, crude with the crudities of youth and as headstrong and impetuous as herself. /可亚特兰大是她的同辈，带有青年时代的莽撞味，并且像她自己那样倔强而浮躁。
+			11. He was impetuous and it was difficult. /他很浮躁，很困难。
 		8. impetuosity
 		9. 
 	7. perpetual
@@ -4969,10 +5011,11 @@
 		1. n. 易怒, 坏脾气, 使性子
 		2. petulant
 			1. a. 任性的, 暴躁的, 易生气的, 难以取悦的
-			2.  (restive, skittish, peevish, irascibility, animosity, indignation,  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy),)
-			3. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
-			4.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
-		3. 
+			3.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+			4. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
+			5. **whiny**烦躁的;**childish**幼稚的，孩子气的;**arrogant**自大的，傲慢的;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**cranky**暴躁的;**defiant**挑衅的;**obnoxious**可憎的;**angry**生气的;**belligerent**好战的;**narcissistic**自我陶醉的;
+			6.  [cranky](dic://cranky), [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
+		4. 
 	9. peripatetic
 		1. [pedestrian](dic://pedestrian), [walker](dic://walker), [footer](dic://footer), [disciple](dic://disciple), [adherent](dic://adherent)
 		2. _adj._ [Aristotle](dic://Aristotle), [unsettled](dic://unsettled)
@@ -5295,7 +5338,7 @@
 		1. **inconceivable**不可思议的;**conceivable**可想到的, 可相信的, 可想像的;**incomprehensible**费解的;**unimaginable**不能想象的;**imaginable**可想像的;**understandable**能懂的;**unthinkable**不能考虑的, 不能接受的, 不可想像的, 难以置信的;**plausible**貌似真实的，貌似有理的;**justifiable**可证明为正当的;**inexplicable**无法说明的;**comprehend**理解, 领会;
 	19. unfathomable
 	20. unfathomed
-6. pallet  (mallet, pullet, pellet, pallet, mullet, millet, ballet)
+6. pallet  (mallet, pullet, pellet, pallet, mullet, millet, ballet, fillet)
 	1. 来自拉丁语 pala,铲，铁锹，可能缩写自 patella,小盘子，来自 patina 的小词形式，词源同pan,patella,paddle.-et,小词后缀。引申词义托盘。  
 	2. 来自拉丁语 palea,草，词源同 paliasse.
 	3. 
@@ -7818,7 +7861,7 @@
 
 ## po
 ### pock- = sack，表示“袋”。
-1. poach
+1. poach (broach, encroach, poach, )
 	1. vt. 水煮(蛋), 偷猎, 侵入, 窃取  
 	2. vi. 偷猎, 陷入泥中
 	3. 1 - 来自古法语 pochier,放入口袋，包起来，来自 poche,包，包裹，来自 Proto-Germanic*puk,袋子，来自 PIE*bu,beu,鼓起，膨胀，词源同 ball,pock,pouch.后用于比喻义像蛋白包裹着蛋黄，引申词义炖，煨，煮。  
@@ -7957,7 +8000,8 @@
 		4. bibulosity, bibulous
 			1.  [boozy](dic://boozy), [drunken](dic://drunken), [sottish](dic://sottish)
 		5. imbibe (intake, )
-			1. im-,进入，使，-bib,喝，饮，词源同 bibulous,beverage.即喝进去，引申词义吸收。
+			1. (infuse, inculcate, indoctrinate, regurgitate, imbue, imbibe, instill, )
+			2. im-,进入，使，-bib,喝，饮，词源同 bibulous,beverage.即喝进去，引申词义吸收。
 			3. [absorb](dic://absorb), [suck](dic://suck), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw), [take in](dic://take in), [take up](dic://take up)
 			4. [assimilate](dic://assimilate)
 			5. [absorb](dic://absorb), [consume](dic://consume), [ingest](dic://ingest), [take in](dic://take in), [take](dic://take), [have](dic://have), [assimilate](dic://assimilate)
@@ -8235,25 +8279,29 @@
 	20. foregift
 	21. forego
 	22. foreground
-		1. **background**背景, 底色;**image**影像;**close-up**特写镜头;**shadows**阴影，影子;**photograph**相片;**closeup**特写镜头;**backdrop**背景;**silhouette**影子;**obscured**遮蔽的;**picture**照片，图画;**hillside**山坡，山腹;
-		2. foregrounding
-	23. forehand
+		1. n. 前景, 最显著的位置
+		2. **background**背景, 底色;**image**影像;**close-up**特写镜头;**shadows**阴影，影子;**photograph**相片;**closeup**特写镜头;**backdrop**背景;**silhouette**影子;**obscured**遮蔽的;**picture**照片，图画;**hillside**山坡，山腹;
+		3. sexual relationships are foregrounded and idealized. /性关系被置于最突出地位且理想化。
+		4. The foreground of pos printing is vastitude on hospital information system. /热敏打印方式在医院信息管理系统中应用前景广阔。
+		5. 
+		6. foregrounding
+	24. forehand
 		1. forehanded
-	24. forehead
-	25. forejudge
+	25. forehead
+	26. forejudge
 		1. forejudgement
-	26. foreknow, foreknew
-	27. foreknowledge
-	28. forelady
-	29. foreland
-	30. foreleg
-	31. forelimb
-	32. forelock
-	33. foreman
-	34. foremast
-	35. foremastman
-	36. forementioned
-	37. foremost
+	27. foreknow, foreknew
+	28. foreknowledge
+	29. forelady
+	30. foreland
+	31. foreleg
+	32. forelimb
+	33. forelock
+	34. foreman
+	35. foremast
+	36. foremastman
+	37. forementioned
+	38. foremost
 		1. [first](dic://first), [world-class](dic://world-class)
 		2. [frontmost](dic://frontmost)
 		3. [first](dic://first), [firstly](dic://firstly), [first of all](dic://first of all), [first off](dic://first off)
@@ -8268,38 +8316,38 @@
 		12. [foremost](dic://foremost) 侧重指在行进或发展过程中居首位。  
 		13. [primary](dic://primary) 通常不用于人。用于物时，指在重要性方面占第一位。
 		14. **preeminent**卓越的;**paramount**最高的, 至上的;**important**重要的, 重大的;**greatest**最好的;**first**第一;**respected**尊敬的;**biggest**最大的;**one**一;**renowned**著名的;**premier**第一的;**vitally**紧要地
-	38. foremother
+	39. foremother
 		1. _n._ [ancestor](dic://ancestor), [ascendant](dic://ascendant), [ascendent](dic://ascendent), [antecedent](dic://antecedent), [root](dic://root)
 		2. **feminist**女权主义者，女权运动者  
 		3. ;**feminism**女权运动;**descendant**后代, 后裔;**forefathers**祖先;**grandmother**祖母;**ancestor**始祖，祖先;**patriarchy**父权制;**great-grandfather**曾祖父;**patriarchal**家长的;**mother**母亲;
-	39. forename
+	40. forename
 		1. forenamed
-	40. forenoon
-	41. forenotice
-	42. foreordain
-	43. foreordination
-	44. forepart
-	45. forepaw
-	46. forepeak
-	47. foreplane
-	48. forequarter
-	49. foreran
-	50. forereach
-	51. forerun, forerunner
+	41. forenoon
+	42. forenotice
+	43. foreordain
+	44. foreordination
+	45. forepart
+	46. forepaw
+	47. forepeak
+	48. foreplane
+	49. forequarter
+	50. foreran
+	51. forereach
+	52. forerun, forerunner
 		1. **precursor**先驱;**pioneer**拓荒者;**offshoot**分支;**pioneering**开创性的, 先驱的;**pioneers**先锋;**predecessor**前任, 前辈;**incarnation**化身;**emergence**出现;**akin**同族的;**originator**创作者;**brainchild**某人的发明或主意;
 		2. [temporal relation](dic://temporal relation), [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
-	52. foresail
-	53. foresaw, foresee
-	54. foresight
+	53. foresail
+	54. foresaw, foresee
+	55. foresight
 		1. foresighted
-	55. foreshadow
-	56. foreshank
-	57. foresheet
-	58. foreshore
-	59. foreshorten
-	60. foreshow
-	61. foreskin
-	62. forestall
+	56. foreshadow
+	57. foreshank
+	58. foresheet
+	59. foreshore
+	60. foreshorten
+	61. foreshow
+	62. foreskin
+	63. forestall
 		1. _v._ [act](dic://act), [move](dic://move)
 		2. **avert**避免，防止;**prevent**预防，防止;**thwart**反对;**counteract**对抗;**mitigate**使缓和，使减轻;**lessen**使…变小;**curtail**截断, 缩短;**avoid**避免;**stave**桶板;**hasten**催促;**eliminate**消除, 排除;
 		3. _[forestall risks](dic://forestall%20risks)_ 防风险
@@ -8307,42 +8355,42 @@
 		5. Try to forestall their questions. /尽量不让他们问问题(作到先发制人)。
 		6. they will present their resignations to forestall a vote of no confidence /为阻止投不信任票，他们将抢先提出辞呈。
 		7. 
-	63. forestay
-	64. foretaste
-	65. foretell
-	66. forethought
-	67. foretime
-	68. foretoken
-	69. foretold
-	70. foretop
-	71. foretopmast
-	72. forewarn
-	73. forewoman
-	74. foreword
+	64. forestay
+	65. foretaste
+	66. foretell
+	67. forethought
+	68. foretime
+	69. foretoken
+	70. foretold
+	71. foretop
+	72. foretopmast
+	73. forewarn
+	74. forewoman
 	75. foreword
-	76. foreyard
-	77. forecooler
-	78. foredeep
-	79. foredone
-	80. foredune
-	81. forefeel
-	82. forefend
-	83. forehatch
-	84. forehearth
-	85. foreheater
-	86. forehoof
-	87. forelandbasin
-	88. foreleech
-	89. foreneck
-	90. forepiece
-	91. foreplate
-	92. forepole
-	93. forepressure
-	94. forepump
-	95. foreroom
-	96. forescatter
-	97. foreshock
-	98. forward
+	76. foreword
+	77. foreyard
+	78. forecooler
+	79. foredeep
+	80. foredone
+	81. foredune
+	82. forefeel
+	83. forefend
+	84. forehatch
+	85. forehearth
+	86. foreheater
+	87. forehoof
+	88. forelandbasin
+	89. foreleech
+	90. foreneck
+	91. forepiece
+	92. foreplate
+	93. forepole
+	94. forepressure
+	95. forepump
+	96. foreroom
+	97. forescatter
+	98. foreshock
+	99. forward
 		1. thenceforward
 		2. sweepforward
 		3. straightforward
@@ -8947,7 +8995,7 @@
 			3. _n._ [privileged](dic://privileged)
 			4. **deprivation**剥夺;**starved**饥饿的;**destitute**赤贫的, 贫苦的;**disadvantaged**贫穷的,处于不利地位的;**impoverished**穷困的,无力的,用尽了的;**alienated**感到孤独的,不合群的;**oppressed**被压迫的;**neglected**被忽视的;**exhausted**耗尽的,用完的;**poor**可怜的;**diminished**减少了的;
 		11. deprivation (privation)
-			1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation)
+			1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation, xiguity, meagerness, leanness, poorness, scantiness,)
 			2. _n._ [poverty](dic://poverty), [poorness](dic://poorness), [impoverishment](dic://impoverishment), [disadvantage](dic://disadvantage), [social control](dic://social control)
 			3. **deprived**缺少食物的;**starvation**挨饿, 饥饿;**malnutrition**营养失调，营养不良;**exhaustion**精疲力竭;**sleep**睡，睡觉;**poverty**贫困;**alienation**离间,疏远;**misery**痛苦，悲惨;**hypoxia**氧不足;**confinement**限制,被监禁;**insomnia**失眠症，失眠;
 			4. _sleep deprivation_ 睡眠剥夺，剥夺睡眠
@@ -8962,7 +9010,7 @@
 			2. _[deprival value](dic://deprival%20value)_  掳夺价值
 		13. deprivable
 	2. privation
-		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation)
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness,)
 		2. n. 缺乏, 穷困
 		3. priv-个人 + -ation表名词，引申词义贫困，丧失，匮乏，艰难等，是单词private 派生的名词。
 		4. 来自拉丁语 privationem,剥夺，使失去，来自拉丁语 privare,使个人化，使分开，使剥离，词源同 private.引申词义贫困，丧失，匮乏，艰难等。 

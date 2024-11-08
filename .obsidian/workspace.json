@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a004f9f36d47a0ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "T"
-            }
-          },
-          {
             "id": "ee22a31723f48c3e",
             "type": "leaf",
             "state": {
@@ -38,7 +23,127 @@
             }
           },
           {
-            "id": "c03ca6cfe8165915",
+            "id": "eb97ffd0587ac070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W"
+            }
+          },
+          {
+            "id": "fb49042de02d849d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K"
+            }
+          },
+          {
+            "id": "0fc3558c0a6bf2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A"
+            }
+          },
+          {
+            "id": "1458663d5fcc9277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P"
+            }
+          },
+          {
+            "id": "2489a3c2b62a67bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D"
+            }
+          },
+          {
+            "id": "5c5fcebe0707ccbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B"
+            }
+          },
+          {
+            "id": "0f434bf1ee19660f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S"
+            }
+          },
+          {
+            "id": "f4fa04ed13bab27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "G"
+            }
+          },
+          {
+            "id": "95878b6af544aba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,9 +156,114 @@
               "icon": "lucide-file",
               "title": "C"
             }
+          },
+          {
+            "id": "2c7242c982e1d0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M"
+            }
+          },
+          {
+            "id": "d07ab328f23198cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E"
+            }
+          },
+          {
+            "id": "cffcf73388667016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L"
+            }
+          },
+          {
+            "id": "b79008bd4c62d1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "R"
+            }
+          },
+          {
+            "id": "3c8e5f09c1b3f165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T"
+            }
+          },
+          {
+            "id": "6291c0f447cfdc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O"
+            }
+          },
+          {
+            "id": "3f838b688f5265c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/U.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "U"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,10 +380,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of C"
+              "title": "Outline of D"
             }
           },
           {
@@ -205,7 +415,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,10 +431,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c03ca6cfe8165915",
+  "active": "2489a3c2b62a67bc",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/U.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Computability Theory & Turing Machine.md",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI (Data) Infrastructure & Stack.md",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Monitoring & Observability/Model Monitoring & Observability.md",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Development & Training/Model Development & Training.md",
@@ -237,27 +464,11 @@
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Troubleshooting.md",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/FAQ.md",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/🛫 Foundation Models & Libraries & SDKs/Foundation Models & Libraries & SDKs.md",
-    "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure/Foundation Models & Libraries/Foundation Models & Libraries.md",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI Data and Storage/Data Storage",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI Data and Storage/Data Sources",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI Data and Storage",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure/Foundation Models & Libraries",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Hardware & Computing",
-    "CS/Artificial Intelligence/Artificial Intelligence.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/J.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Y.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/TOEFL (Test of English as a Foreign Language).md",
-    "CS/CyberSecurity/Network Security/Anonymous & Private Networks/Proxy Technology & GFW 🇨🇳/Proxy Technology & GFW 🇨🇳.md",
-    "CS/Academics/🗒️ Papers Reading Notes/Fuzzing/Fuzzing.md",
     "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/All-in-one",
     "Untitled.canvas",
     "Untitled 1.table",

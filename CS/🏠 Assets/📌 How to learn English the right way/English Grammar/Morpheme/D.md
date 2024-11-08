@@ -581,36 +581,42 @@
 			1. **sympathy**同情;**tributes**献礼篇;**funeral**葬礼;**remembrance**回想;**heartfelt**衷心的;**apology**道歉;**obituary**讣告;**mourning**哀痛;**mourn**哀悼;**greetings**问候,打招呼;**memorial**纪念物;
 			2. [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement)
 	2. indolent, indolence (insolent, indolent)
-		1. 
-		2. _adj._ 懒惰的, 懒散的, 不活跃的
-		3. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
-		4. [idle](dic://idle), [inactive](dic://inactive)
-		5. [busy](dic://busy), [active](dic://active)
-		6. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
-		7. an indolent tumor /无痛感肿瘤
-		8. an indolent ulcer. /慢性溃疡
-		9. humid, indolent weather. /令人困倦的潮湿天气
-	4. dolesome
+		1. in-不，非 + dol-伤心的，悲伤的 + -ent → 懒惰的人安于现状，没有悲伤的 → 懒惰的。
+		2. 1 - in-,不，非，-dol,伤心的，悲伤的，词源同 condole,doleful.即没有悲伤的，后引申词义不用忍受痛苦的，不用尝试做事的，懒惰的。
+		3. _adj._ 懒惰的, 懒散的, 不活跃的
+		4. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
+		5. [idle](dic://idle), [inactive](dic://inactive)
+		6. [busy](dic://busy), [active](dic://active)
+		7. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
+		8. an indolent tumor /无痛感肿瘤
+		9. an indolent ulcer. /慢性溃疡
+		10. humid, indolent weather. /令人困倦的潮湿天气
+		11. Well, I am not an indolent person /我不是一个懒惰的人。
+		12. The ordinary feelings which make life amiable and indolent, were unknown to him /赋予生命以和蔼和懒惰这些特质的正常情感，他无从知晓。
+		13. Just sometimes, over the weekends I become indolent. /只是有时候，一到周末，我就变得懒散起来。
+		14. He concluded ruefully that it was "arrogant and rash" to profess virtues that you cannot live up to, and retreated into **indolent** seclusion. /他懊悔地总结道，宣称自己信奉不能修行到的美德是非常“自傲和轻率的”。最终，他选择隐居，不理世事。
+	3. dolesome
 		1. - adj. 寂寞的；悲哀的
-	5. dolorous
-		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule)
+	4. dolorous
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, doleful, surly, grumpy, languid, saturnine, morose, sour, dour, )
 		2. [dolourous](dic://dolourous), [lachrymose](dic://lachrymose), [tearful](dic://tearful), [weeping](dic://weeping) 
 		3. [sorrowful](dic://sorrowful)
 		4. **melancholy**忧郁, 悲哀;**dreadful**可怕的;**wretched**可怜的;**gloomy**黑暗的;**somber**昏暗的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**lament**悲叹;**grim**冷酷的;**anguish**苦闷;
 		5. Since then, $3 trillion has been added, pushing the dolorous pile above $16 trillion /从那以后，债务增加了3万亿美元，总额已超过16万亿美元。
 		6. His plump, pink face was dolorous, sagging, wan-eyed /他丰满的粉红色脸庞忧郁、下垂、苍白的眼睛。
-	6. doleful
-		1. - adj. 寂寞的；悲哀的；阴沉的；忧郁的
-		2. dole-伤心 + -ful, 表形容词
-		3. **melancholy**忧郁, 悲哀;**gloomy**黑暗的;**somber**昏暗的;**grim**冷酷的;**solemn**庄严的，严肃的;**lament**悲叹;**dreary**沉闷的，枯燥的;**wry**面部肌肉扭曲的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**brooding**沉思的;
-		4. [mournful](dic://mournful)
-		5. [sad](dic://sad)
-		6. he could be stricken off with doleful consequences. /他可能会遭到令人伤心的结果。
-		7. The chastised child looked at her father with a pathetic, doleful expression. /被责骂的孩子哀怜地、悲伤地看着她的父亲。
-		8. But never doleful dream again shall break his happy slumber when /但悲哀的梦已不再打断他幸福的梦乡。
-		9. Critics argue that small-town literature offers an outdated and melancholic doleful portrayal of small towns, filled with sorrowful and confused characters. /批评家认为，小镇文学描述的是一个过时的、忧郁的、悲哀的小镇形象，充满了悲伤和困惑的人物。
-		10. He has been very silent and doleful of late. /他最近一直很沉默和悲伤。
-		11. A very ragged beggar had slouched up to them, with a doleful, monotonous whine. /一个衣衫褴褛的乞丐无精打采地向他们走来，发出凄凉而单调的哀鸣。
+	5. doleful
+		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, doleful, surly, grumpy, languid, saturnine, morose, sour, dour, )
+		2. - adj. 寂寞的；悲哀的；阴沉的；忧郁的
+		3. dole-伤心 + -ful, 表形容词
+		4. **melancholy**忧郁, 悲哀;**gloomy**黑暗的;**somber**昏暗的;**grim**冷酷的;**solemn**庄严的，严肃的;**lament**悲叹;**dreary**沉闷的，枯燥的;**wry**面部肌肉扭曲的;**bleak**荒凉的，无遮蔽的;**wretched**可怜的;**brooding**沉思的;
+		5. [mournful](dic://mournful)
+		6. [sad](dic://sad)
+		7. he could be stricken off with doleful consequences. /他可能会遭到令人伤心的结果。
+		8. The chastised child looked at her father with a pathetic, doleful expression. /被责骂的孩子哀怜地、悲伤地看着她的父亲。
+		9. But never doleful dream again shall break his happy slumber when /但悲哀的梦已不再打断他幸福的梦乡。
+		10. Critics argue that small-town literature offers an outdated and melancholic doleful portrayal of small towns, filled with sorrowful and confused characters. /批评家认为，小镇文学描述的是一个过时的、忧郁的、悲哀的小镇形象，充满了悲伤和困惑的人物。
+		11. He has been very silent and doleful of late. /他最近一直很沉默和悲伤。
+		12. A very ragged beggar had slouched up to them, with a doleful, monotonous whine. /一个衣衫褴褛的乞丐无精打采地向他们走来，发出凄凉而单调的哀鸣。
 2. **dolabri-** = pickax, 「latin」dolabra, "mattock, pickax"
 	1. dedolation
 	2. dolabrate
@@ -679,21 +685,26 @@
 		7. He is domiciled in London /他定居在伦敦。
 		8. his wife has a domicile of origin in Germany. /他妻子原籍德国。
 	9. dominance
-		1. predominance, predominant
+		1. predominant
 			1. _adj._ [frequent](dic://frequent), [dominant](dic://dominant)
 			2. _n._ [infrequent](dic://infrequent), [subordinate](dic://subordinate), [low-level](dic://low-level)
-			3. [dominant](dic://dominant) 强调权威。  
-			4. [predominant](dic://predominant) 侧重指影响与新近的优势。  
-			5. [sovereign](dic://sovereign) 侧重指其他事物都从属于或低于它的。
-			6. **dominant**支配的，统治的;**prevalent**普遍的, 盛行的, 流行的;**characteristic**典型的;**primary**主要的;**common**普通的;**dominating**有领导作风的;**prevailing**占优势的;**determinant**决定物;**pervasive**普遍的;**dominated**受控的;**prominent**显著的;
-		2. dominant
-		3. dominate
+				1. [dominant](dic://dominant) 强调权威。  
+				2. [predominant](dic://predominant) 侧重指影响与新近的优势。  
+				3. [sovereign](dic://sovereign) 侧重指其他事物都从属于或低于它的。
+			3. **dominant**支配的，统治的;**prevalent**普遍的, 盛行的, 流行的;**characteristic**典型的;**primary**主要的;**common**普通的;**dominating**有领导作风的;**prevailing**占优势的;**determinant**决定物;**pervasive**普遍的;**dominated**受控的;**prominent**显著的;
+			4. the predominant feature of sb.'s character /某人性格的主要特征
+			5. its predominant colour was white. /主色调为白色。
+			6. In the environmental epidemiological study, the “lost for follow-up” group was much more predominant due to the custom of patrilocal residence. /在环境流行病学研究中，女性居民因为随夫居的习俗，样本流失的比例较高；
+			7. Man has been predominant over other species for a long time. /人类长久以来一直在支配其他物种。
+		2. predominance
+		4. dominate
 			1. [predominate](dic://predominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail)
 			2. [master](dic://master)
 			3. [command](dic://command), [overlook](dic://overlook), [overtop](dic://overtop)
 			4. [influence](dic://influence), [act upon](dic://act upon), [work](dic://work), [control](dic://control), [command](dic://command), [lie](dic://lie)
 			5. **dominant**支配的，统治的;**dominance**支配;**overtake**赶上;**compete**竞争;**overwhelm**覆盖, 淹没;**emerge**浮现;**dictate**命令;**invade**侵略;**conquer**战胜，征服;**occupy**占据，占领;**threaten**威胁;
 			6. _dominate the market_ 欺行霸市
+		1. dominant
 	1. domineer
 		1. **dominate**支配;**submissive**顺从的, 唯命是从的;**dominion**领土;**subdue**征服;**domination**支配;**humiliate**蒙羞;**exert**运用，发挥;**intimidate**恐吓, 威胁;**seduce**引诱;**subordinate**部属，下属，下级;**dominance**支配;
 		2.  [tyrannize](dic://tyrannize), [tyrannise](dic://tyrannise)
@@ -702,26 +713,30 @@
 		1. [Jesus](dic://Jesus), [Jesus of Nazareth](dic://Jesus of Nazareth), [the Nazarene](dic://the Nazarene), [Jesus Christ](dic://Jesus Christ), [Christ](dic://Christ), [Savior](dic://Savior), [Saviour](dic://Saviour)
 		2. **apostolic**使徒的;
 		3. adj. 主的；主日的；基督的
-		4. dominie
-		5. dominion
-	2. condominium (pandemonium)
-		1.  con-,表强调，-dom,管理，控制，词源同 domineer,domesticate.即共管区域。
-		2. **condo**分户出售公寓大厦;**townhouse**市政厅,镇公所;**high-rise**有多层的;**penthouse**楼顶房屋;**apartment**一套房间, 一户;**residential**住宅的, 适于作住宅的;**oceanfront**海滨;**beachfront**海滨地区;**estate**财产;**property**财产;**HOA**社区管理;
-		3. _n._ [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house), [housing](dic://housing)
-		4. a Godzilla of a condominium tower /一座巨型的共管公寓大厦。
-		5. Condominiums crowd the oceanfront./ 滨海地带到处都是私有公寓
-		6. The poor location of the condominium turned away many prospective buyers /公寓房偏僻的位置赶跑了许多很有希望的买主
-	3. danger
-		1. [risk](dic://risk), [peril](dic://peril)
-		2. _n._ [condition](dic://condition), [status](dic://status), [venture](dic://venture), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [area](dic://area)
+		4. In modern society, as a **dominical** special colony in common, administration men in terms of ethical value must go back to the commonweal. /在现代社会中，行政人是公共领域的特殊群体，行政人的道德价值以公共利益为依归。
+		5. 
+		6. dominie
+		7. dominion
+	3. condominium (pandemonium, compendium, condominium, )
+		1. - n. 共同统治；财产共有权；独立产权的公寓
+		2.  con-,表强调，-dom,管理，控制，词源同 domineer,domesticate.即共管区域。
+		3. **condo**分户出售公寓大厦;**townhouse**市政厅,镇公所;**high-rise**有多层的;**penthouse**楼顶房屋;**apartment**一套房间, 一户;**residential**住宅的, 适于作住宅的;**oceanfront**海滨;**beachfront**海滨地区;**estate**财产;**property**财产;**HOA**社区管理;
+		4. _n._ [dwelling](dic://dwelling), [home](dic://home), [domicile](dic://domicile), [abode](dic://abode), [habitation](dic://habitation), [dwelling house](dic://dwelling house), [housing](dic://housing)
+		5. a Godzilla of a condominium tower /一座巨型的共管公寓大厦。
+		6. Condominiums crowd the oceanfront./ 滨海地带到处都是私有公寓
+		7. The poor location of the condominium turned away many prospective buyers /公寓房偏僻的位置赶跑了许多很有希望的买主
+	5. danger
+		1. 来自法语，来自拉丁语 dominus,统治，主人，词源同 domino,domineer.原指君主的权力，君主的威严，引申词义危险。参照汉语“伴君如伴虎”。拼写参照词源同源词 dungeon.
+		2. [risk](dic://risk), [peril](dic://peril)
+		3. _n._ [condition](dic://condition), [status](dic://status), [venture](dic://venture), [causal agent](dic://causal agent), [cause](dic://cause), [causal agency](dic://causal agency), [area](dic://area)
 			1. [danger](dic://danger) 含义广，普通用词，指能够造成伤害、损害或不利的任何情况。  
 			2. [risk](dic://risk) 指有可能发生的危险，尤指主动进行某种活动或去碰运气而冒的危险。  
 			3. [hazard](dic://hazard) 比risk正式，多指偶然发生的或无法控制的危险，常含较严重或有一定风险的意味。  
 			4. [menace](dic://menace) 所指的危险性最严重，表示使用暴力或造成破坏性的可能。  
 			5. [peril](dic://peril) 指迫在眉睫很有可能发生的严重危险。  
 			6. [threat](dic://threat) 普通用词，语气弱于menace，指任何公开侵犯对方的言行，给对方构成危险或威胁。
-		3. **peril**危险;**threat**威胁，恐吓;**risk**危险;**jeopardy**危险;**imminent**迫近的;**menace**威胁;**hazard**尝试着做;**perils**事故;**fear**害怕;**hazards**危险;**dangerous**有危险的, 危险的;
-	4. despot
+		4. **peril**危险;**threat**威胁，恐吓;**risk**危险;**jeopardy**危险;**imminent**迫近的;**menace**威胁;**hazard**尝试着做;**perils**事故;**fear**害怕;**hazards**危险;**dangerous**有危险的, 危险的;
+	7. despot (depot)
 		1. des- = dom-家 + pot-力量 → 一家之主，引申为暴君。
 		2. despot - 该词直接借自中世纪法语despot，但其终极词源乃希腊语despótēs 'master'（主人）。当despot在16世纪首次用于英语时并不具有它如今所含的贬抑词义，而是用以指“君主”（如拜占庭帝国、奥斯曼帝国的皇帝）或“（东正教的）主教”。1789年发生了法国大革命以后，人民反对专制、要求民主的愿望使despot的词义开始贬降，逐渐蒙上一层贬义，所以现在despot一般释义为“专制君主”或“暴君”。
 		3. [tyrant](dic://tyrant), [autocrat](dic://autocrat)
@@ -732,41 +747,48 @@
 		8. The Kurds have turned to Syria's despot, Bashar al-Assad, for protection. /库尔德人已经转向叙利亚的总统巴沙尔·阿萨德寻求庇护。
 		9. despotism
 		10. despotic
-			1.  [despotical](dic://despotical)
-			2.  [authoritarian](dic://authoritarian), [autocratic](dic://autocratic), [dictatorial](dic://dictatorial), [tyrannical](dic://tyrannical)
-			3. _adj._ [tyrant](dic://tyrant), [autocrat](dic://autocrat), [despot](dic://despot), [undemocratic](dic://undemocratic)
-			4. _n._ [democratic](dic://democratic)
-			5. **tyrannical**暴君的,暴君似的;**authoritarian**权力主义的,专制的;**tyrant**暴君;**dictator**独裁者;**totalitarian**极权主义的;**oppressive**压迫的;**tyranny**暴政;**dictatorship**独裁;**repressive**镇压的;**rulers**统治者;**overthrow**打倒;
-			6. As for the New York Herald, it was a despotic empire admitting no personality but that of Bennett. /至于《纽约先驱报》，它是一个专制帝国，只承认贝内特的个性。
-			7. A member of a despotic State may be entirely free, even in the midst of the most brutal violence. /专制国家的成员可能是完全自由的， 即使在最残酷的暴力之中。
-			8. The stranger was the only person surprised by this scene; all the others were well-used to the despotic ways of the master. /陌生人是唯一对这一幕感到惊讶的人；其他人都已经习惯了主人的专横。
-			9. despotically
-	5. interdome
+			1. despot（暴君）：古希腊的“一家之主”  
+			2. 英语单词despot来自希腊语的despotes，本意是“一家之主、领主”。该词的前一半来自domestic（家庭的、国内的），后一半来自potent（有力的）。古希腊的一家之主对于家中成员和奴隶拥有绝对权威，因此despot一词含有“独裁、暴虐”的含义。在拜占庭帝国，despot曾被用于宫廷贵族的称号、诸侯国亲王的称号，甚至被用作拜占庭帝国皇帝的称号。现在，despot常用来表示那些独裁、暴虐的一国之主。  
+			3. despot： ['despɒt] n.暴君，专制君主，独裁者  
+			4. despotic：[dɪ'spɑtɪk] adj. 暴虐的，暴君的；专横的  
+			5. despotism： ['despətɪz(ə)m] n.独裁，专制，独裁政治
+			6.  [despotical](dic://despotical)
+			7.  [authoritarian](dic://authoritarian), [autocratic](dic://autocratic), [dictatorial](dic://dictatorial), [tyrannical](dic://tyrannical)
+			8. _adj._ [tyrant](dic://tyrant), [autocrat](dic://autocrat), [despot](dic://despot), [undemocratic](dic://undemocratic)
+			9. _n._ [democratic](dic://democratic)
+			10. **tyrannical**暴君的,暴君似的;**authoritarian**权力主义的,专制的;**tyrant**暴君;**dictator**独裁者;**totalitarian**极权主义的;**oppressive**压迫的;**tyranny**暴政;**dictatorship**独裁;**repressive**镇压的;**rulers**统治者;**overthrow**打倒;
+			11. As for the New York Herald, it was a despotic empire admitting no personality but that of Bennett. /至于《纽约先驱报》，它是一个专制帝国，只承认贝内特的个性。
+			12. A member of a despotic State may be entirely free, even in the midst of the most brutal violence. /专制国家的成员可能是完全自由的， 即使在最残酷的暴力之中。
+			13. The stranger was the only person surprised by this scene; all the others were well-used to the despotic ways of the master. /陌生人是唯一对这一幕感到惊讶的人；其他人都已经习惯了主人的专横。
+			14. despotically
+	12. interdome
 		1. _n._ 圆屋顶间、穹窿顶或圆屋顶内壳与外壳之间的空隙
-	6. isodomon
-	7. myrmecodomatia
-3. timber
-	1.  [lumber](dic://lumber)
-	2.  [forest](dic://forest), [woodland](dic://woodland), [timberland](dic://timberland)
-	3.  [timbre](dic://timbre), [quality](dic://quality), [tone](dic://tone)
-	4. _n._ [building material](dic://building material), [beam](dic://beam), [post](dic://post), [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground)
+	13. isodomon
+	14. myrmecodomatia
+5. timber
+	1. n. 木材, 木料  vt. 用木材建造
+	2. 来自古英语 timber,房屋，建筑物，来自 Proto-Germanic*timran,建筑物，来自 PIE*deme,建造，修建，来自 PIE*dom,屋子，住所，词源同 dome,domicile.后引申词义建筑材料，树木，木材，木料等。
+	3.  [lumber](dic://lumber)
+	4.  [forest](dic://forest), [woodland](dic://woodland), [timberland](dic://timberland)
+	5.  [timbre](dic://timbre), [quality](dic://quality), [tone](dic://tone)
+	6. _n._ [building material](dic://building material), [beam](dic://beam), [post](dic://post), [land](dic://land), [dry land](dic://dry land), [earth](dic://earth), [ground](dic://ground)
 		1. [lumber](dic://lumber) 指伐下后未经削磨的木材，现多用于美国英语中。  
 		2. [timber](dic://timber) 指经过匠人初步加工的备用木材，多用于英国英语。  
 		3. [wood](dic://wood) 最普通用词，含义广，除表示“木材，木”外，还可用复数形式表示森林。  
 		4. [log](dic://log) 指原木或圆木。
-	5. **lumber**伐木;**wood**木材;**forestry**林学;**plywood**夹板，胶合板;**teak**柚木;**hardwood**硬木，硬木材;**cedar**雪松;**oak**橡树;**firewood**木柴;**wooden**木制的;**pine**松树;
-	6. _timber tree_ 成材木
-	7. _timber structure_ 木结构；木构造
-	8. _sawn timber_ 锯材，锯木；成型木材
-	9. _seasoned timber_ 经干木材；风干木材
-	10. _standing timber_ 建筑用材
-	11. _timber frame_ 框形支架；木构架；木架
+	7. **lumber**伐木;**wood**木材;**forestry**林学;**plywood**夹板，胶合板;**teak**柚木;**hardwood**硬木，硬木材;**cedar**雪松;**oak**橡树;**firewood**木柴;**wooden**木制的;**pine**松树;
+	8. _timber tree_ 成材木
+	9. _timber structure_ 木结构；木构造
+	10. _sawn timber_ 锯材，锯木；成型木材
+	11. _seasoned timber_ 经干木材；风干木材
+	12. _standing timber_ 建筑用材
+	13. _timber frame_ 框形支架；木构架；木架
 
 
 ### + \*deme- +
 1. **adam-** 表示不屈服，强硬的。来自a-（否定）+ dam-（驯服），字面含义不能驯服的。
-	1. adamant
-		1.   (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+	1. adamant (adamant, advertent)
+		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable, )
 		2. a-不 + dam-驯服 + -ant → 不可征服的。
 		3. diamond（钻石）：坚不可摧的物质  
 		4. 英语单词diamond（钻石）和adamant（坚硬无比的）其实是同源单词，都源自希腊语adamas，由a（not）+daman（to conquer, to tame）组合而成，字面意思就是“不可征服的、坚不可摧的”。希腊人用adamas来表示钻石这一类坚硬无比的物质，由此衍生出diamond和adamant这两个英语单词。其中diamond的演变路径比较复杂，为：希腊语adamas→古拉丁语adamantem→通俗拉丁语adiamantem→中世纪拉丁语diamantem→古法语diamant→英语diamond。而单词adamant的演变路径相对简单，为：希腊语adamas→古拉丁语adamantem→英语adamant。  
@@ -1541,36 +1563,37 @@
 	14. induct
 		1. vt. 引导, 使入门, 引入, 使就职
 	15. induce
-		1. in-进入 + duc-引导 + -e → 引进去 → 诱导。
-		2. vt. 引诱, 招致, 归纳出, 感应
-	16. introduce
+		1.  (render, garner, engender, yield, induce, entail, incur, inflict, ensue, confer)
+		2. in-进入 + duc-引导 + -e → 引进去 → 诱导。
+		3. vt. 引诱, 招致, 归纳出, 感应
+	17. introduce
 		1. vt. 介绍, 引入, 采用, 输入
 		2. introduction, introductory
-	17. aqueduct
+	18. aqueduct
 		1. n. 水管, 沟渠, 导管
-	18. oviduct
+	19. oviduct
 		1. n. 输卵管
-	19. product
+	20. product
 		1. pro-前 + duct-引导 → 引出的东西 → 产品。
-	20. produce
-	21. subduct
-	22. subduce
+	21. produce
+	22. subduct
+	23. subduce
 		1. subduction, seduction, seductive, 
-	23. ventiduct
+	24. ventiduct
 		1. n. 通风管
-	24. viaduct
+	25. viaduct
 		1. 高架桥
 		2. via-路 + duct-引导路的路 → 高架桥。
-	25. conduit
+	26. conduit
 		1. n. 导管, 水管, 沟渠
 		2. con- + duit-引导。
 		3. **passageway**通道;**receptacle**容器;**pipe**管子;**intermediary**中间人;**outlet**出口，排放孔;**tubing**管子;**orifice**孔口;**wire**金属丝;**flow**流动，涌流;**inlet**插入物;**channeling**凿沟,沟渠,沟槽;
-	26. conduct
+	27. conduct
 		1. con-共同 + duct-引导 → 引导大家一起做 → 指挥。
 		2. n. 行为, 举动, 指导  
 		3. vt. 为人, 指挥, 管理, 实施  
 		4. vi. 领导, 传导, 指挥
-	27. conduce
+	28. conduce
 		1. vi. 有助于, 有益于, 有贡献于, 导致
 		2. con-共同 + duc-引导 + -e。
 		3. conducive
@@ -1583,8 +1606,8 @@
 			7. Exercise is conducive to health. /运动有益于健康。
 			8. This is a more conducive atmosphere for studying /这样的氛围更有利于学习。
 			9. it is clattery and not conducive to intelligent conversation about the state of British fiction; /这儿又吵又闹而且对这种关于英国小说的聪明人的会谈毫无益处；
-	28. reduce
-	29. reductase
+	29. reduce
+	30. reductase
 		1. reduction
 		2. reductive
 			1. _adj._ [subtractive](dic://subtractive)
@@ -1596,12 +1619,12 @@
 			7. Labeling them both as " Harry Potter actors" is a bit reductive; each has shown some impressive acting chops outside of that franchise. /把这两位演员都归于“哈利波特系列演员”有点简单了，他们两位在该系列之外都有着令人印象深刻的表演作品。
 			8. It sounds as though you're saying that calling someone else's argument a fallacy is — I don't want to be reductive, but a little cheap and lazy. /听起来你好像在说，称别人的论点为谬误是——我不想还原，但有点廉价和懒惰。
 		3. reductor
-	30. seduce
-	31. traduce
-	32. transduce
+	31. seduce
+	32. traduce
+	33. transduce
 		1. transduction
-	33. duke
-	34. duchess, duchy
+	34. duke
+	35. duchess, duchy
 3. douche
 	1. 来自意大利语 doccia,沐浴，洒水，来自 PIE*deuk,引导，管道，词源同 duct.后引申该词义。
 	2. n. 灌洗器
@@ -1857,11 +1880,12 @@
 		4. **flee**消失，消散;**kidnap**绑架;**seize**抓住;**steal**剽窃;**evade**逃避;**rob**抢劫;**apprehend**理解;**detain**拘留;**plunder**抢夺;**escape**逃避，避免;**bribe**贿赂，收买;
 		5. absconder
 		6. abscondence
-	3. recondite (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive)
-		1. 1 - re-,向后，离开，con-,表强调，-dit,放置，给予，词源同 edit,donate.即放到后面的，放起来的，引申词义隐藏的，深奥的。
-		2. _adj._ [esoteric](dic://esoteric)
-		3. _n._ [exoteric](dic://exoteric)
-		4. **esoteric**秘传的;**arcane**晦涩难解的;**obscure**模糊的;**perplexing**使人困惑的;**philosophical**哲学的;**cryptic**秘密的,隐秘的;**peculiar**特殊的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**banal**陈腐的;**mundane**世俗的，平凡的;**baffling**令人困惑的;
+	3. recondite
+		1. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive,  exoteric, occult, impenetrable, inscrutable, uninformative, inexplicable, convoluted) 
+		2. 1 - re-,向后，离开，con-,表强调，-dit,放置，给予，词源同 edit,donate.即放到后面的，放起来的，引申词义隐藏的，深奥的。
+		3. _adj._ [esoteric](dic://esoteric)
+		4. _n._ [exoteric](dic://exoteric)
+		5. **esoteric**秘传的;**arcane**晦涩难解的;**obscure**模糊的;**perplexing**使人困惑的;**philosophical**哲学的;**cryptic**秘密的,隐秘的;**peculiar**特殊的;**metaphysical**形而上学的,纯粹哲学的,超自然的;**banal**陈腐的;**mundane**世俗的，平凡的;**baffling**令人困惑的;
 	5. sconce
 		1. n. 壁式烛台, 头, 头盔  
 		2. vt. 遮蔽
@@ -2313,14 +2337,20 @@
 		1. _[absorbefacient](dic://absorbefacient)_  n. 吸收剂; adj. 吸收性的;
 	47. calefacient, calefactory
 		1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
-	48. deficient, deficit
+	48. deficit
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
+		2.  [shortage](dic://shortage), [shortfall](dic://shortfall)
+		3. _n._ [insufficiency](dic://insufficiency), [inadequacy](dic://inadequacy), [deficiency](dic://deficiency), [lack](dic://lack), [want](dic://want), [score](dic://score), [liabilities](dic://liabilities)
+		4. _n._ [lead](dic://lead)
+		5. **shortfall**不足之量,差额;**surplus**过剩;**budget**预算，预算费;**debt**债务;**budgetary**预算的;**fiscal**国库的;**expenditure**花费, 使用;**imbalance**不平衡;**GDP**国内生产总值;**trillion**万亿;**stimulus**刺激;
+	50. deficient
 		1. _adj._ [inadequate](dic://inadequate), [depleted](dic://depleted), [low](dic://low), [poor](dic://poor), [short](dic://short), [lean](dic://lean), [skimpy](dic://skimpy)
 		2. _n._ [adequate](dic://adequate), [standard](dic://standard)
 		3. **deficiency**缺乏, 不足, 短缺;**inadequate**不适当的;**lacking**缺乏的;**insufficient**不足的;**defective**有缺陷的;**woefully**悲伤地;**insufficiency**不充足,不足;**chronically**长期地;**incapable**无能力的, 不会的;**flawed**有缺陷的;**impaired**受损的;
 		4. deficiency
-	49. difficult
-	50. editfice
-	51. efficacious
+	51. difficult
+	52. editfice
+	53. efficacious
 		1. a. 有效的, 灵验的
 		2. [美 /ˌefɪˈkeɪʃəs/](cmd://Speak/_us_/efficacious)
 		3. _adj._ [effective](dic://effective), [hard-hitting](dic://hard-hitting), [trenchant](dic://trenchant), [impelling](dic://impelling), [impressive](dic://impressive), 
@@ -2339,7 +2369,7 @@
 		8. efficiency
 		9. efficient
 		10. inefficacy
-	52. proficient
+	54. proficient
 		1. _adj._ [skilled](dic://skilled)
 		2. _n._ [unskilled](dic://unskilled)
 			1. [expert](dic://expert) 特指有某项专长，有某方面经验。  
@@ -2347,33 +2377,33 @@
 			3. [skillful](dic://skillful) 指在工作或操作中表现出灵巧、熟练。  
 			4. [skilled](dic://skilled) 通常指已掌握某行业的专业技能或手段，或已有从事某一专门工作的本领或技术。
 		6. **adept**熟练的;**proficiency**熟练, 精通;**fluent**流畅的，流利的;**skilled**熟练的;**competent**有能力的;**skillful**熟练的;**versed**精通的;**literate**受过教育的;**knowledgeable**博学的;**mastered**精通的;**capable**能干的，能胜任的;
-	53. prolific (profligate, prolix, )
+	55. prolific (profligate, prolix, )
 		1. adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
 		2. [fecund](dic://fecund), [fertile](dic://fertile)
 		3. [fertile](dic://fertile)
 		4. _adj._ [productive](dic://productive), [fruitful](dic://fruitful)
 		5. _n._ [unproductive](dic://unproductive), [unfruitful](dic://unfruitful)
 		6. **prodigious**巨大的;**influential**有影响的, 有权势的;**well-known**出名的;**renowned**著名的;**best-known**众所周知的;**talented**有才能的;**sought-after**很吃香的;**notorious**臭名昭著的;**prominent**显著的;**tireless**不疲劳的;**illustrious**著名的, 杰出的, 卓越的;
-	54. munificent
+	56. munificent
 		1. muni-服务、礼物 + fic-做 + -ent，即送礼物的，准备大礼的。
 		2. 来自拉丁语 munificus,慷慨的，大方的，来自 munus,礼物，-fic,做，词源同 fact,beneficial.即送礼物的，准备大礼的。
 		3.  [lavish](dic://lavish), [overgenerous](dic://overgenerous), [prodigal](dic://prodigal), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
 		4. _adj._ [generous](dic://generous)
 		5. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
 		6. **benefactor**恩人;**generous**慷慨的，大方的;**benevolent**好心肠的;**endowed**赋予，捐赠;**patronage**赞助;**prodigious**巨大的;**generosity**慷慨, 大方, 宽容;**pious**虔诚的;**splendid**辉煌的;**endowment**资助,捐助;**bestow**授予;
-	55. omnificent
+	57. omnificent
 		1. adj. 创造万物的；有无限创造力的（等于 omnific）
-	56. office
-	57. orifice
+	58. office
+	59. orifice
 		1. n. (尤指身体上的) 孔口
 		2. ori-嘴 + -fic做，引申词义孔，穴，腔。
 		3. 来自拉丁语 orificium,开口，来自 ori-,嘴，词源同 oral,-fic,做，词源同 do,fact.引申词义孔，穴，腔。
 		4. orificium
 		5. orificial
-	58. sacrifice
-	59. significant
+	60. sacrifice
+	61. significant
 		1. significative
-	60. soporific
+	62. soporific
 		1. sopor-睡觉，昏睡 + -fic做，使，引申词义催眠的。
 		2. a. 催眠的, 想睡的, 令人麻木不仁的  
 		3. n. 催眠剂, 安眠药
@@ -2383,9 +2413,9 @@
 		7. **hypnotic**催眠的，催眠术的;**sleepy**困乏的;**narcotic**麻醉的;**soothing**使人宽心的;**inane**愚蠢的;**intoxicating**醉人的;**banal**陈腐的;**stimulant**兴奋剂;**hangover**宿醉;**noxious**有害的;**calming**平静的;
 		8. the motion of the train had a somewhat soporific effect /火车的行驶起了一定的催眠作用。
 		9. I dozed off during the soporific music /我听到这催人入睡的音乐,便不知不觉打起盹儿来了。
-	61. sorbefacient
-	62. liquefacient
-	63. suffice
+	63. sorbefacient
+	64. liquefacient
+	65. suffice
 		1. suf-在下面 + fic-做 + -e → 在下面先做好 → 充足。
 		2. suf-,在下，向上，-fic,做，词源同 fact,efficient.引申词义做到足够，使足够，足以。
 		4. [do](dic://do), [answer](dic://answer), [serve](dic://serve)
@@ -2404,15 +2434,15 @@
 			1. self-sufficiency
 			2. insufficiency
 		13. self-sufficing
-	64. traffic
-	65. tumefacient
+	66. traffic
+	67. tumefacient
 		1. a. 肿胀的, 肿大的, 引起肿胀的
-	66. counterfeit
+	68. counterfeit
 		1. n. 赝品, 伪造品  
 		2. a. 假冒的, 假装的  
 		3. v. 仿造, 伪装, 假装
 		4. counter-相对 + feit-=fact-做。
-	67. forfeit (confiscate)
+	69. forfeit (confiscate, forfeit)
 		1. n. 没收物, 罚金  
 		2. vt. 丧失，被没收  
 		3. a. 丧失了的
@@ -2433,7 +2463,7 @@
 		18. For him to forfeit his favourite hobby would be impossible. /要他放弃他所喜爱的业余爱好是不可能的。
 		19. Her health was the forfeit she paid for working too hard /她的健康的丧失是辛劳过度所致。
 		20. You have forfeited your chance of getting your money back /你失去了取回钱的机会。
-	68. surfeit
+	70. surfeit
 		1.  [excess](dic://excess), [overabundance](dic://overabundance)
 		2.  [glut](dic://glut), [oversupply](dic://oversupply)
 		3.  [repletion](dic://repletion)
@@ -2444,7 +2474,7 @@
 		8. a surfeit of complaints /过度的牢骚
 		9. a surfeit of food and drink /过量的食物和饮料。
 		10. a surfeit of rich food /过量的油腻食物
-	69. discomfit
+	71. discomfit
 		1. vt. 使困惑, 使窘迫, 使尴尬
 		2. dis-不，非，使相反 + com-强调 + fit-做，即使功亏一匮的，使失败的，后词义受discomfort影响，使不舒服，窘迫。
 		3.  dis-,不，非，使相反，com-,表强调，-fit,做，词源同 fact.即没做好，功亏一匮的。拼写比较fact,benefit.
@@ -2454,13 +2484,13 @@
 		7. He may laugh at our discomfiture now, but before long he’ll be laughing on the other side of his face. /他现在可以对我们幸灾乐祸,但是要不了多久他就会转喜为忧。
 		8. A tenacious hope sustained them, and they still predicted the approaching discomfiture of The Ladies' Paradise. /一种顽强的希望支撑着他们， 他们仍然预测到女士乐园即将来临的混乱。
 		9. Something is very wrong here. Jaime gave no sign of his discomfiture, but only smiled. " Did I say something amusing" ? /事情很不对劲。詹姆压住不安，抬头微笑，" 怎么回事？乐什么哪？"
-	70. rarefactive
+	72. rarefactive
 		1. adj．稀薄的，使稀薄的：导致气体或物质变得稀薄的。
 			1. The rarefactive effect of high altitude causes a decrease in air pressure.  /高海拔的稀薄效应导致气压降低。
-	71. putrefactives
-	72. petrifactive
+	73. putrefactives
+	74. petrifactive
 		1. _adj._ 石化性的;造成石化的
-	73. profit
+	75. profit
 		1. pro-多 + fit-做 → 做很多 → 做得好 → 利润。
 		2.  pro-,向前，-fit,做，词源同 benefit,effect.字母 c 脱落。即做事的收益，引申词义利润，报酬。
 		3. n. 利润, 赢利, 利益  
@@ -2480,7 +2510,7 @@
 		12. profit-hungry
 		13. nonprofit
 		14. 
-16. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
+7. **fac-, fic-** = face, 表示“脸，面”。源自拉丁语 facies "shape, face."
 	1. facade
 		2. _n._ <建>(房屋的)正面
 		3. 假象;外观
@@ -2640,7 +2670,7 @@
 		74. lithofacies
 		75. petrofacies
 		76. tectofacies
-17. **the-, thec-, thet-** = setting
+8. **the-, thec-, thet-** = setting
 	1. apothecary
 		1. apo- + thec-放置 + -ary名词后缀 → 放药的地方 → 药房。
 		2. apothecary（药剂师）：存储药材并对外销售的人  
@@ -2757,7 +2787,7 @@
 		12. treasury, treasurehouse
 		13. You don't need a thesaurus. Just write from here /你不必用" 辞典" 要用这里写。
 		14. Of course, it does, it's smart, I used a thesaurus. /当然有，很聪明，我用了同义词词典。
-18. deed
+9. deed
 	1.  来自 PIE*dhe,做，树立，放置，词源同 do,fact.用于指行为，契约。
 	2. n. 行为, 实行, 契约 
 	3. vt. 立契转让
@@ -2781,7 +2811,7 @@
 	17. deeds that redound to one's discredit /损害个人信誉的行为
 	18. This is the deed to John's plantation. /这是约翰农场的契约。
 	19. emblazoning a heroine's deeds in song /在歌曲中颂扬女英雄的事迹
-19. deem
+10. deem
 	1. v. 认为，相信
 	2. 词源见 “doom”
 	3. [hold](dic://hold), [view as](dic://view as), [take for](dic://take for)
@@ -2802,32 +2832,33 @@
 	11. Was deemed a dead or living Tell! /视死如归，生者死者的袒露秘密。
 	12. " I deemed in prudent, " said the deeper-voiced goblin. /“我想谨慎一些，”嗓音低沉的妖精说。
 	13. But, some things are so bad that mainstream culture deems them unspeakable. /然而，有些坏事令人发指到主流文化对其噤若寒蝉。
-20. do
-21. doom
-	1. n. 厄运, 不幸, 法律, 宣告, 判决, 死亡  
-	2. vt. 命中注定, 判决
-	3. doom（厄运）：上帝的末日审判  
-	4. 英语单词doom来自古英语dom，表示“判断、裁定、定罪”，同源单词有deem（认为、相信）。同源的还有后缀-dom，表示某种评价或裁定，如wisdom（明智）、freedom（自由）。基督教进入英国后，英国人就用doomsday表示基督教中上帝的“末日审判”，并常常简略为doom。因此doom一词衍生出“厄运、末日、命中注定的悲惨结局”等含义。  
-	5. 注意到doomsday的意思是最后审判日，是的，单词doom [duːm] n.厄运；死亡；判决；世界末日，vt. 注定；判决；使失败的本意就是“判决”，元音交替形式deem [diːm] v.认为；评价；视作，就是在做判断，而传说中俄罗斯的国家机构“杜马”写作Duma['du:mə] n.杜马，意思是议会，是立法（裁断）机关。 ​​​​
-	6. doom：[duːm] n. 厄运，世界末日，命中注定的悲惨结局；判决vt.判决，注定，使失败  
-	7. deem：[diːm] vt. 认为，视作；相信vi. 认为，持某种看法；作某种评价  
-	8. doomsday：['duːmzdeɪ] n. 世界末日；最后的审判日
-	9. [doomsday](dic://doomsday), [day of reckoning](dic://day of reckoning), [end of the world](dic://end of the world)
-	10. [destine](dic://destine), [fate](dic://fate), [designate](dic://designate)
-	11.  [sentence](dic://sentence), [condemn](dic://condemn)
-	12. _n._ [destiny](dic://destiny), [fate](dic://fate)
-	13. _v._ [ordain](dic://ordain), [declare](dic://declare), [guarantee](dic://guarantee), [ensure](dic://ensure), [insure](dic://insure), [assure](dic://assure), [secure](dic://secure)
+11. do
+12. doom
+	1. (wax and wane / bane and boon /weal and woe /ebb and flow /boom and doom)
+	2. n. 厄运, 不幸, 法律, 宣告, 判决, 死亡  
+	3. vt. 命中注定, 判决
+	4. doom（厄运）：上帝的末日审判  
+	5. 英语单词doom来自古英语dom，表示“判断、裁定、定罪”，同源单词有deem（认为、相信）。同源的还有后缀-dom，表示某种评价或裁定，如wisdom（明智）、freedom（自由）。基督教进入英国后，英国人就用doomsday表示基督教中上帝的“末日审判”，并常常简略为doom。因此doom一词衍生出“厄运、末日、命中注定的悲惨结局”等含义。  
+	6. 注意到doomsday的意思是最后审判日，是的，单词doom [duːm] n.厄运；死亡；判决；世界末日，vt. 注定；判决；使失败的本意就是“判决”，元音交替形式deem [diːm] v.认为；评价；视作，就是在做判断，而传说中俄罗斯的国家机构“杜马”写作Duma['du:mə] n.杜马，意思是议会，是立法（裁断）机关。 ​​​​
+	7. doom：[duːm] n. 厄运，世界末日，命中注定的悲惨结局；判决vt.判决，注定，使失败  
+	8. deem：[diːm] vt. 认为，视作；相信vi. 认为，持某种看法；作某种评价  
+	9. doomsday：['duːmzdeɪ] n. 世界末日；最后的审判日
+	10. [doomsday](dic://doomsday), [day of reckoning](dic://day of reckoning), [end of the world](dic://end of the world)
+	11. [destine](dic://destine), [fate](dic://fate), [designate](dic://designate)
+	12.  [sentence](dic://sentence), [condemn](dic://condemn)
+	13. _n._ [destiny](dic://destiny), [fate](dic://fate)
+	14. _v._ [ordain](dic://ordain), [declare](dic://declare), [guarantee](dic://guarantee), [ensure](dic://ensure), [insure](dic://insure), [assure](dic://assure), [secure](dic://secure)
 		1. [destiny](dic://destiny) 普通用词，侧重预先注定的命运，对未来命运的美好憧憬。  
 		2. [fate](dic://fate) 较庄严用词，多指不幸的命运，暗示不可避免，令人畏惧和人的意志无法改变，宿命论色彩较浓。   
 		3. [lot](dic://lot) 多指偶然的运气或终身遭受的不幸命运。  
 		4. [doom](dic://doom) 指最终的，常常是灾难性或毁灭性的命运，隐含不可避免的意味。  
 		5. [luck](dic://luck) 普通日常用词，指好的或坏的运气，尤多指好运气，有时也指成功或愉快的结局。  
 		6. [fortune](dic://fortune) 普通用词，指由机会或运气来决定的一种命运，如暗示一种比fate好的运气或一种愉快的未来
-	14. **gloom**忧郁;**apocalypse**启示, 天启;**apocalyptic**预示灾祸的;**demise**死亡，终止;**Armageddon**世界末日善恶决战的战场;**impending**即将发生的;**oblivion**遗忘;**thrash**打;**dread**惧怕;**gloomy**黑暗的;**calamity**不幸事件;
-	15. foredoom
-	16. doomster
+	15. **gloom**忧郁;**apocalypse**启示, 天启;**apocalyptic**预示灾祸的;**demise**死亡，终止;**Armageddon**世界末日善恶决战的战场;**impending**即将发生的;**oblivion**遗忘;**thrash**打;**dread**惧怕;**gloomy**黑暗的;**calamity**不幸事件;
+	16. foredoom
+	17. doomster
 		1. n. 预言灾难的人；审判者；宣判人
-	17. doomsday
+	18. doomsday
 		1. [Judgment Day](dic://Judgment Day), [Judgement Day](dic://Judgement Day), [Day of Judgment](dic://Day of Judgment), [Day of Judgement](dic://Day of Judgement), [Last Judgment](dic://Last Judgment), [Last Judgement](dic://Last Judgement), [Last Day](dic://Last Day), [day of reckoning](dic://day of reckoning), [crack of doom](dic://crack of doom), [end of the world](dic://end of the world)
 		2. [doom](dic://doom), [day of reckoning](dic://day of reckoning), [end of the world](dic://end of the world)
 		3. _n._ [day](dic://day), [destiny](dic://destiny), [fate](dic://fate)
@@ -2835,14 +2866,14 @@
 		5. we'll be here till doomsday if you go blethering on. /如果你继续胡说，我们就要永远呆在这儿了。
 		6. The Doomsday Clock is a symbolic clockface that the Bulletin has maintained since 1947 at its headquarters on the campus of the University of Chicago. /末日时钟是1947年起在芝加哥大学校园公报总部立起的一个象徵性「钟面」。
 		7. Yes. This is the science fiction doomsday scenario. /是的。这就是科幻小说中的末日场景。
-	18. doomsaying
-	19. doomsayer
+	19. doomsaying
+	20. doomsayer
 		1. n. 灾难预言者；凶事预示者
-	20. doomed
+	21. doomed
 		1. [cursed](dic://cursed), [damned](dic://damned), [unredeemed](dic://unredeemed), [unsaved](dic://unsaved)
 		2. [ill-fated](dic://ill-fated), [ill-omened](dic://ill-omened), [ill-starred](dic://ill-starred), [unlucky](dic://unlucky)
 		3. **destined**命定的;**hopeless**绝望的;**fail**失败，不及格;**hopelessly**绝望地;**ill-fated**走恶运的,注定要遭受罚的;**inevitable**不可避免的, 必然发生的;**disastrous**灾难性的;**futile**无用的;**failure**失败;**miserable**悲惨的;**ultimately**最后;
-22. purdah
+14. purdah
 	1. n. 窗帘, 帷幕
 	2.  来自波斯语 pardah,窗帘，帘布，面纱，来自古波斯语 pari,周围，围起来，词源同 peri-,-dah,放置，来自 PIE*dhe,放置，词源同 do.
 	3. 
@@ -2890,16 +2921,17 @@
 		9. feveret
 		10. fevered
 	7. foment
-		1. 来自拉丁语 fovere,热，词源同 fever.-ment,名词后缀。引申词义煽动。
-		2.  [agitate](dic://agitate), [stir up](dic://stir up)
-		3. _v._ [provoke](dic://provoke), [stimulate](dic://stimulate), [bathe](dic://bathe), [bath](dic://bath)
-		4. **incite**煽动;**provoke**激怒;**inciting**刺激的;**overthrow**打倒;**suppress**抑制;**stifle**使窒息;**quell**镇压;**insurrection**暴动;**ignite**点燃;**unrest**不安;**discord**不和;
-		5. _[foment dissension](dic://foment%20dissension)_  挑拨离间
-		6. That could actually foment violence. So the stakes are very, very high /而这很可能会煽动暴力事件。因此，风险非常高。
-		7. Analysts say Trump hopes to foment fear of migrants to garner more support for Republicans in midterm elections. /分析人士表示，特朗普希望煽动人们对移民的恐惧，在中期选举为共和党人获争取更多的支持。
-		8. However, he has failed to stop local politicians from fomenting ethnic cleansing at home. /然而，他未能阻止当地政客在国内煽动种族清洗。
-		9. fomenter
-		10. fomentation
+		1. (foment, abet, incite, instigate, demagogue, stoke, stir up, agitate, egg on, provoke, )
+		2. 来自拉丁语 fovere,热，词源同 fever.-ment,名词后缀。引申词义煽动。
+		3.  [agitate](dic://agitate), [stir up](dic://stir up)
+		4. _v._ [provoke](dic://provoke), [stimulate](dic://stimulate), [bathe](dic://bathe), [bath](dic://bath)
+		5. **incite**煽动;**provoke**激怒;**inciting**刺激的;**overthrow**打倒;**suppress**抑制;**stifle**使窒息;**quell**镇压;**insurrection**暴动;**ignite**点燃;**unrest**不安;**discord**不和;
+		6. _[foment dissension](dic://foment%20dissension)_  挑拨离间
+		7. That could actually foment violence. So the stakes are very, very high /而这很可能会煽动暴力事件。因此，风险非常高。
+		8. Analysts say Trump hopes to foment fear of migrants to garner more support for Republicans in midterm elections. /分析人士表示，特朗普希望煽动人们对移民的恐惧，在中期选举为共和党人获争取更多的支持。
+		9. However, he has failed to stop local politicians from fomenting ethnic cleansing at home. /然而，他未能阻止当地政客在国内煽动种族清洗。
+		10. fomenter
+		11. fomentation
 2. **tephr-** = ash, 表示“灰”。源自希腊语 tephra "ash."
 	1. tephromalacia
 	2. tephromyelitis
@@ -2970,36 +3002,38 @@
 			2. If you have never felt **felicific**, would you like me to give you felicity? /如果你认为你从未被爱过，可不可以让我来爱你?。
 			3. infelicific
 		13. felicitous
-			1. a. 巧妙的, 极为适当的, 善于措辞的, 可喜的
-			2. _adj._ (措词等)恰当的,贴切的
-			3. _n._ 恰当,贴切
-			4. _adj._ [congratulatory](dic://congratulatory), [gratulatory](dic://gratulatory), [happy](dic://happy), [well-chosen](dic://well-chosen), [well-turned](dic://well-turned), [fortunate](dic://fortunate)
-			5. _n._ [infelicitous](dic://infelicitous), [unfortunate](dic://unfortunate)
-			6. **artful**狡猾的;**splendid**辉煌的;**auspicious**吉利的;**agreeable**欣然同意的;**joyous**令人高兴的;**delightful**令人非常高兴的, 讨人喜欢的;**paradoxical**似是而非的 矛盾的 诡论的;**harmonious**和谐的;**improbable**不可信的;**marvelous**引起惊异的,不可思议的,非凡的;**deft**灵巧的;
-			7. _[felicitous tree](dic://felicitous%20tree)_ 幸福树
-			8. _[felicitous label](dic://felicitous%20label)_ 幸福标号
-			9. _[felicitous graph](dic://felicitous%20graph)_ 巧妙图
-			10. _[felicitous thing](dic://felicitous%20thing)_ 美事
-			11. a felicitous writer. /一位善于措词的作家
-			12. a felicitous phrase. /恰如其分的措辞。
-			13. the view was the room's only felicitous feature /这景色是这个房间的惟一亮点。
-			14. Nationalization is a word which is neither very felicitous nor free from ambiguity. /国有化是个既不十分贴切,意义也颇含糊的用语。
-			15. The three were eating breakfast on the terrace, a thousand and one felicitous birds in the garden trees /他们三人在平台上吃早餐，花园的树林里有很多快活的鸟儿。
-			16. The felicitous word " demise, " which had seasonably occurred to him, had raised his spirits even above their usual evening pitch. /恰如其分地想到“死亡” 这个恰当的词， 使他精神振奋， 甚至比平时晚上的情绪还要高。
-			17. Her prose style is not always **felicitous**; she tends to repetition /她的散文文风并非一直恰到好处，她会赘叙。
-			18. She played him — sometimes delicately, sometimes with a less **felicitous** touch /她吊着他——有时温柔地，有时手法就不那么巧妙。
-			19. infelicitous
+			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+			3. a. 巧妙的, 极为适当的, 善于措辞的, 可喜的
+			4. _adj._ (措词等)恰当的,贴切的
+			5. _n._ 恰当,贴切
+			6. _adj._ [congratulatory](dic://congratulatory), [gratulatory](dic://gratulatory), [happy](dic://happy), [well-chosen](dic://well-chosen), [well-turned](dic://well-turned), [fortunate](dic://fortunate)
+			7. _n._ [infelicitous](dic://infelicitous), [unfortunate](dic://unfortunate)
+			8. **artful**狡猾的;**splendid**辉煌的;**auspicious**吉利的;**agreeable**欣然同意的;**joyous**令人高兴的;**delightful**令人非常高兴的, 讨人喜欢的;**paradoxical**似是而非的 矛盾的 诡论的;**harmonious**和谐的;**improbable**不可信的;**marvelous**引起惊异的,不可思议的,非凡的;**deft**灵巧的;
+			9. _[felicitous tree](dic://felicitous%20tree)_ 幸福树
+			10. _[felicitous label](dic://felicitous%20label)_ 幸福标号
+			11. _[felicitous graph](dic://felicitous%20graph)_ 巧妙图
+			12. _[felicitous thing](dic://felicitous%20thing)_ 美事
+			13. a felicitous writer. /一位善于措词的作家
+			14. a felicitous phrase. /恰如其分的措辞。
+			15. the view was the room's only felicitous feature /这景色是这个房间的惟一亮点。
+			16. Nationalization is a word which is neither very felicitous nor free from ambiguity. /国有化是个既不十分贴切,意义也颇含糊的用语。
+			17. The three were eating breakfast on the terrace, a thousand and one felicitous birds in the garden trees /他们三人在平台上吃早餐，花园的树林里有很多快活的鸟儿。
+			18. The felicitous word " demise, " which had seasonably occurred to him, had raised his spirits even above their usual evening pitch. /恰如其分地想到“死亡” 这个恰当的词， 使他精神振奋， 甚至比平时晚上的情绪还要高。
+			19. Her prose style is not always **felicitous**; she tends to repetition /她的散文文风并非一直恰到好处，她会赘叙。
+			20. She played him — sometimes delicately, sometimes with a less **felicitous** touch /她吊着他——有时温柔地，有时手法就不那么巧妙。
+			21. infelicitous
 				1. a. 不幸的, 不完善的, 不适当的
 				2. _adj._ [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inapt](dic://inapt), [inept](dic://inept), [ill-chosen](dic://ill-chosen), [unfortunate](dic://unfortunate)
 				3. _n._ [felicitous](dic://felicitous), [fortunate](dic://fortunate)
 				4. **ambiguous**模棱两可的;**phrasing**分节法;**colloquial**口语的, 会话的;**innocuous**无害的;**idiom**成语，习语;**unsatisfactory**使人不满意的;**utterance**说话;**clumsy**笨拙的;**contrived**不自然的;**vulgar**粗俗的;**grammatical**语法的;
 				5. _[infelicitous phrase](dic://infelicitous%20phrase)_ 不贴切的辞句
 				6. _[infelicitous ominous sinister baleful hapless](dic://infelicitous%20ominous%20sinister%20baleful%20hapless)_ 不幸运的
-			20. felicitousness
+			22. felicitousness
 				1. _[aptitude felicitousness felicity seemliness](dic://aptitude%20felicitousness%20felicity%20seemliness)_ 恰当
 				2. The results show that the igniting condition of HCD is the felicitousness combination of vacuum width, air pressure and voltage /结果表明，空心阴极点燃的条件是不同的空腔宽度与电压、气压条件的合理组合；
 				3. They don't think it is **felicitousness** for me to settle this question . thus, arosed a fierce discussion. /人们认为我对如何处理这个问题的看法不恰当，因此，展开了异常热烈的讨论。
-		14. felicity
+		15. felicity
 			1. n. 极乐，幸福；恰当，贴切；（文学或艺术作品的）别具匠心之处；语言方面的才能
 			2. [felicitousness](dic://felicitousness)
 			3. [happiness](dic://happiness)
@@ -3018,13 +3052,14 @@
 			16. He certainly contrived to execute his commission with a curious felicity. /他肯定怀有一种奇妙的幸福感，极力完成他的使命。
 			17. Again, studying the felicity conditions is what is needed. /这再次需要研究合适性条件。
 			19. infelicity
-				1. _n._ [inappropriateness](dic://inappropriateness), [unworthiness](dic://unworthiness)
-				2. _n._ [felicity](dic://felicity), [felicitousness](dic://felicitousness)
-				3. **grammatical**语法的;**ambiguity**歧义;**inconsistency**矛盾;**punctuation**标点法, 标点符号的使用;**allusion**暗示;**omission**省略;**errors**误差;**blunder**的错误;**affliction**折磨;**utterance**说话;**typo**排印错误;
-				4. _[inadequacy infelicity unsuitablity](dic://inadequacy%20infelicity%20unsuitablity)_ 不适当的
-				5. You will be surprised there is so much infelicity in the world. /你会感到惊讶世界上竟有这么多不幸的事情。
-				6. Dorothea's faith supplied all that Mr. Casaubon's words seemed to leave unsaid: what believer sees a disturbing omission or infelicity? /多萝西娅的信仰提供了卡苏朋先生的话似乎没有说出来的一切：哪个信徒会看到令人不安的遗漏或不合时宜？
-				7. There is so much **infelicity** in the world /人世间有很多不幸的事。
+				1. agony, suffering, infelicity, misfortune, 
+				2. _n._ [inappropriateness](dic://inappropriateness), [unworthiness](dic://unworthiness)
+				3. _n._ [felicity](dic://felicity), [felicitousness](dic://felicitousness)
+				4. **grammatical**语法的;**ambiguity**歧义;**inconsistency**矛盾;**punctuation**标点法, 标点符号的使用;**allusion**暗示;**omission**省略;**errors**误差;**blunder**的错误;**affliction**折磨;**utterance**说话;**typo**排印错误;
+				5. _[inadequacy infelicity unsuitablity](dic://inadequacy%20infelicity%20unsuitablity)_ 不适当的
+				6. You will be surprised there is so much infelicity in the world. /你会感到惊讶世界上竟有这么多不幸的事情。
+				7. Dorothea's faith supplied all that Mr. Casaubon's words seemed to leave unsaid: what believer sees a disturbing omission or infelicity? /多萝西娅的信仰提供了卡苏朋先生的话似乎没有说出来的一切：哪个信徒会看到令人不安的遗漏或不合时宜？
+				8. There is so much **infelicity** in the world /人世间有很多不幸的事。
 2. **fet-** = productive, 表示“生产”。源自拉丁语 fetus "pregnancy, childbearing, offspring."
 	1. effete
 		1. a. 贫瘠的, 枯竭的, 衰微的
@@ -4697,44 +4732,45 @@
 		2. mandatory
 		3. mandator
 2. **rend-** = give
-	1. render (render, confer, incur, garner, )
-		1. 来自古法语 rendre,给回，呈现，出产，来自俗拉丁语*rendere,给予，给回，异化自 reddere,返回，给予，来自 red-,向后，往回，dare,给予，来自 PIE*do,给予，词源同 donate,edit.引申诸相关词义。
-		2. - v. 使成为，使处于某种状态；给予，提供；（以某种方式）表达，表现；粉刷，往（墙上）抹灰；将（脂肪）熬成油，使熔化；正式宣布（判决或决定）；（供审查，考虑）提交，呈报；<文>放弃，献出；演奏，演唱；翻译；绘制（指用色彩和明暗使轮廓图像具立体感）；秘密引渡（外国罪犯、恐怖嫌疑犯）；从（动物身体）提取（蛋白质、脂肪及其他可用部分） 
-		3. n. 底灰，底泥；<史>交纳
-		4. [supply](dic://supply), [provide](dic://provide), [furnish](dic://furnish)
-		5. [interpret](dic://interpret)
-		6. [yield](dic://yield), [return](dic://return), [give](dic://give), [generate](dic://generate)
-		7. [deliver](dic://deliver), [return](dic://return)
-		8. [submit](dic://submit)
-		9. [return](dic://return)
-		10. [hand over](dic://hand over), [fork over](dic://fork over), [fork out](dic://fork out), [fork up](dic://fork up), [turn in](dic://turn in), [get in](dic://get in), [deliver](dic://deliver)
-		11. [picture](dic://picture), [depict](dic://depict), [show](dic://show)
-		12.  [give](dic://give)
-		13. [translate](dic://translate), [interpret](dic://interpret)
-		14. [try](dic://try)
-		15. _n._ [stucco](dic://stucco)
-		16. _v._ [make](dic://make), [get](dic://get), [give](dic://give), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [produce](dic://produce)
+	1. render 
+		1.  (render, garner, engender, yield, induce, entail, incur, inflict, ensue, confer)
+		2. 来自古法语 rendre,给回，呈现，出产，来自俗拉丁语*rendere,给予，给回，异化自 reddere,返回，给予，来自 red-,向后，往回，dare,给予，来自 PIE*do,给予，词源同 donate,edit.引申诸相关词义。
+		3. - v. 使成为，使处于某种状态；给予，提供；（以某种方式）表达，表现；粉刷，往（墙上）抹灰；将（脂肪）熬成油，使熔化；正式宣布（判决或决定）；（供审查，考虑）提交，呈报；<文>放弃，献出；演奏，演唱；翻译；绘制（指用色彩和明暗使轮廓图像具立体感）；秘密引渡（外国罪犯、恐怖嫌疑犯）；从（动物身体）提取（蛋白质、脂肪及其他可用部分） 
+		4. n. 底灰，底泥；<史>交纳
+		5. [supply](dic://supply), [provide](dic://provide), [furnish](dic://furnish)
+		6. [interpret](dic://interpret)
+		7. [yield](dic://yield), [return](dic://return), [give](dic://give), [generate](dic://generate)
+		8. [deliver](dic://deliver), [return](dic://return)
+		9. [submit](dic://submit)
+		10. [return](dic://return)
+		11. [hand over](dic://hand over), [fork over](dic://fork over), [fork out](dic://fork out), [fork up](dic://fork up), [turn in](dic://turn in), [get in](dic://get in), [deliver](dic://deliver)
+		12. [picture](dic://picture), [depict](dic://depict), [show](dic://show)
+		13.  [give](dic://give)
+		14. [translate](dic://translate), [interpret](dic://interpret)
+		15. [try](dic://try)
+		16. _n._ [stucco](dic://stucco)
+		17. _v._ [make](dic://make), [get](dic://get), [give](dic://give), [perform](dic://perform), [execute](dic://execute), [do](dic://do), [produce](dic://produce)
 			1. [make](dic://make) 普通用词，指强迫或劝诱他人做某事。 
 			2. [cause](dic://cause) 正式用词，侧重指使某事发生的原因。
 			3. [get](dic://get) 侧重指劝某人做某事，或指使某事物处于某种状态或产生某种结果。
 			4. [have](dic://have) 普通用词，指让某人做某事。
 			5. [render](dic://render) 书面用词，多指因外界因素而使某人或某物处于某种状态。
-		17. **animate**使有生气;**unusable**不能用的;**useless**无用的;**make**做;**enable**使能够，使成为可能;**deem**认为，视作;**furnish**供应;**transform**改变;**obtain**获得;**therefore**因此, 为此, 所以;**compose**作曲;
-		18. _account rendered_ [经]结欠清单
-		19. _render services_ 提供服务
-		20. _render an account_ 报帐；开送账单
-		21. render a bill /开账单
-		22. a literal rendering of an idiom /成语的直译。
-		23. the rendering of Church dues. /教会会费的缴纳。
-		24. They will render blow for blow /他们将以牙还牙。
-		25. render a contract null and void. /使合同无效
-		26. The fat looks to have rendered away. /脂肪看来已经消失了。
-		27. The model minority myth renders all those distinctions moot. /少数模范人物的神话把这些差异全都抹煞了。
-		28. A correct proof would essentially render all modern encryption obsolete. /此问题正确的证明基本上能使所有现代的加密方法都失效。
-		29. It's a concept that is difficult to **render** into English /这个概念难以用英语来表达。
-		30. They couldn't resist anymore and decided to **render** up the city. /他们无法继续抵抗，决定放弃这座城市。
-		31. unrendered
-		32. rendering
+		18. **animate**使有生气;**unusable**不能用的;**useless**无用的;**make**做;**enable**使能够，使成为可能;**deem**认为，视作;**furnish**供应;**transform**改变;**obtain**获得;**therefore**因此, 为此, 所以;**compose**作曲;
+		19. _account rendered_ [经]结欠清单
+		20. _render services_ 提供服务
+		21. _render an account_ 报帐；开送账单
+		22. render a bill /开账单
+		23. a literal rendering of an idiom /成语的直译。
+		24. the rendering of Church dues. /教会会费的缴纳。
+		25. They will render blow for blow /他们将以牙还牙。
+		26. render a contract null and void. /使合同无效
+		27. The fat looks to have rendered away. /脂肪看来已经消失了。
+		28. The model minority myth renders all those distinctions moot. /少数模范人物的神话把这些差异全都抹煞了。
+		29. A correct proof would essentially render all modern encryption obsolete. /此问题正确的证明基本上能使所有现代的加密方法都失效。
+		30. It's a concept that is difficult to **render** into English /这个概念难以用英语来表达。
+		31. They couldn't resist anymore and decided to **render** up the city. /他们无法继续抵抗，决定放弃这座城市。
+		32. unrendered
+		33. rendering
 	3. rendition
 		1. _n._ [performance](dic://performance), [public presentation](dic://public presentation), [explanation](dic://explanation)
 		2. **duet**二重奏;**ballad**歌谣，民谣;**song**歌曲;**version**译文;**singing**歌声;**accompaniment**伴唱;**anthem**赞美诗;**medley**混合;**depiction**描写;**interpretation**解释, 说明;**reminiscent**提醒的, 暗示的;

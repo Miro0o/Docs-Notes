@@ -396,23 +396,25 @@
 	23. objurgate
 	24. variegate
 		7. variegation, variegated
-	25. exigent (exacting, exigent, pressing, demanding, stringent, rigorous, needy)
-		1. ex-出 + ig-做 + -ent表形容词。
-		2. a. 紧急的, 迫切的, 苛求的
-		3. exigency, exigence
-		4. **circumstance**环境;**necessity**必要;**unreasonable**不讲道理的, 非理智的;**urgent**紧急的;**extraordinary**非常奇怪的;
-		5. [clamant](dic://clamant), [crying](dic://crying), [insistent](dic://insistent), [instant](dic://instant)
-		6. [imperative](dic://imperative), [demanding](dic://demanding)
-	26. exigible
+	25. exigent 
+		1. (exacting, exigent, pressing, demanding, stringent, rigorous, needy)
+		2. ex-出 + ig-做 + -ent表形容词。
+		3. a. 紧急的, 迫切的, 苛求的
+		4. exigency, exigence
+		5. **circumstance**环境;**necessity**必要;**unreasonable**不讲道理的, 非理智的;**urgent**紧急的;**extraordinary**非常奇怪的;
+		6. [clamant](dic://clamant), [crying](dic://crying), [insistent](dic://insistent), [instant](dic://instant)
+		7. [imperative](dic://imperative), [demanding](dic://demanding)
+	27. exigible
 		1. a. 可要求的, 可强求的
-	27. exiguity (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, exiguity)
-		1. n. 稀少, 微小
-		2. ex-出 + ig-做 + -u- + -ity
-		3.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
-		4. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**minuscule**小写字;**feeble**微弱的，无力的;**diminutive**小的;**comparatively**对比地;**scarcely**简直没有;**prodigious**巨大的;**precarious**依靠机会的;**insignificant**无价值的, 无意义的, 无用的;
-		5. exiguous (tenuous)
+	28. exiguity
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
+		2. n. 稀少, 微小
+		3. ex-出 + ig-做 + -u- + -ity
+		4.  [meagerness](dic://meagerness), [meagreness](dic://meagreness), [leanness](dic://leanness), [poorness](dic://poorness), [scantiness](dic://scantiness), [scantness](dic://scantness)
+		5. **meager**贫乏的;**paltry**不足取的;**scant**不足的;**minuscule**小写字;**feeble**微弱的，无力的;**diminutive**小的;**comparatively**对比地;**scarcely**简直没有;**prodigious**巨大的;**precarious**依靠机会的;**insignificant**无价值的, 无意义的, 无用的;
+		6. exiguous (tenuous)
 			1. a. 稀少的, 细微的, 细小的
-	28. intransigence
+	30. intransigence
 		1. in-没有 + trans-穿过 + ig-做 + -ence, 表名词
 		2. intransigent 
 			1. (transient)
@@ -426,27 +428,28 @@
 			9. She says she was shocked at how intransigent the platform was when she asked for more writers on set /她说，当她要求更多编剧在片场时，她对这个平台的顽固态度感到震惊。
 		3. transigent (transient, transcend, etc..)
 			1. n. 愿意妥协者
-	29. prodigal (profligate)
-		1. prod-=pro-向前 + ig-做，驱使，驱动，比喻用法，被诱惑所驱动的，乱花钱的，挥霍的。
-		2. [profligate](dic://profligate), [squanderer](dic://squanderer)
-		3. [lavish](dic://lavish), [munificent](dic://munificent), [overgenerous](dic://overgenerous), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
-		4.  [extravagant](dic://extravagant), [profligate](dic://profligate), [spendthrift](dic://spendthrift)
-		5. _n._ [consumer](dic://consumer)
-		6. _adj._ [generous](dic://generous), [wasteful](dic://wasteful), [improvident](dic://improvident)
-		7. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous), [thrifty](dic://thrifty), [provident](dic://provident)
-		8. **wayward**任性的;**parable**寓言，比喻;**father**父亲，爸爸;**son**儿子;**estranged**疏远的;**savior**救世主;**rebellious**叛逆的;**sinner**罪人;
-		9. _prodigal son_ n. 悔改的罪人；回头的浪子
-		10. prodigalize, prodigality
-	30. vertigo
+	31. prodigal
+		1. (profligate, dissipate, fritter, profuse, squander, extravagant, improvident, prodigal, )
+		2. prod-=pro-向前 + ig-做，驱使，驱动，比喻用法，被诱惑所驱动的，乱花钱的，挥霍的。
+		3. [profligate](dic://profligate), [squanderer](dic://squanderer)
+		4. [lavish](dic://lavish), [munificent](dic://munificent), [overgenerous](dic://overgenerous), [too-generous](dic://too-generous), [unsparing](dic://unsparing), [unstinted](dic://unstinted), [unstinting](dic://unstinting)
+		5.  [extravagant](dic://extravagant), [profligate](dic://profligate), [spendthrift](dic://spendthrift)
+		6. _n._ [consumer](dic://consumer)
+		7. _adj._ [generous](dic://generous), [wasteful](dic://wasteful), [improvident](dic://improvident)
+		8. _n._ [stingy](dic://stingy), [ungenerous](dic://ungenerous), [thrifty](dic://thrifty), [provident](dic://provident)
+		9. **wayward**任性的;**parable**寓言，比喻;**father**父亲，爸爸;**son**儿子;**estranged**疏远的;**savior**救世主;**rebellious**叛逆的;**sinner**罪人;
+		10. _prodigal son_ n. 悔改的罪人；回头的浪子
+		11. prodigalize, prodigality
+	33. vertigo
 		1. vert-转 + ig-做 + -o → 眩晕。
 		2. vertigophobia, vertiginous, prevertiginous
-	31. essay
+	34. essay
 		1. essay（随笔）：在写作上的随意尝试  
 		2. 单词essay来自法语单词essai，原意是“尝试”，后来用来表示“随笔”，所以它指的是任何人在写作方面的小尝试，如学生的习作、日常随笔所写的一些小文章。跟它相反的就是专业的、篇幅较长的文学作品或论文。essay这种文学体裁源于法国人文主义作家蒙田。他将自己的作品称为“随笔”（essai），文体自由，篇幅有长有短，内容极为广泛，他读书后的感想、理解、评论，他到各国旅行中的见闻，冥思苦索得出的人生哲理、格言警句，都写进他的随笔集中。英国哲学家和语言大师培根所著的“随笔集”（Essays）是第一部重要的英文随笔集。美国学生申请大学时，往往需要提交几篇essay，相当于我们高考中的命题作文。  
 			1. essay：['eseɪ] n.散文，随笔，小品文  
 			2. essayist：['ɛseɪst] n. 随笔作家，散文家；评论家
 		4. essayist,
-	32. exam
+	35. exam
 		1. 1 - 来自 examine 的缩写词，学生俚语。
 		2. examen, examine, 
 		3. examinate, examiant, 
@@ -484,13 +487,20 @@
 		2. _n._ [agent](dic://agent)
 		3. **herb**香草，药草;**stimulant**兴奋剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**menstruation**月经;**uterine**子宫的;**herbal**草本的;**herbs**药草;
 	8. isagoge
-		1. _[isagoge](dic://isagoge)_  n. 绪论；序言
-	9. mystagogue
+		1. 
+		2. _[isagoge](dic://isagoge)_  n. 绪论；序言
+	10. mystagogue
 		1. _[mystagogue](dic://mystagogue)_  n. 引人入秘教者；解释或启示宗教奥秘者；神秘教义信仰者
 		2. mystagogy
 			1. mystagogic
 			2. mystagogical
-	10. pedagogy
+	11. pedagogy
+		1. ped-儿童 + agog-引导 + -y → 引导儿童 → 教学法。
+		2. pedagogue（教师）：小孩上学放学的带路人  
+		3. 在古希腊的雅典，儿童从7岁就要开始进入学校接受教育。由于年龄尚幼，还不记得上学和放学回家的道路，通常需要家里的奴隶或卫士领着去学校或回家。这些给学童带路的人就是pedagogue。这个英语单词来自希腊语，与ped(kid，儿童)+ agogos（lead，带领）构成。后来，这些人还负责督促儿童学习。因此，pedagogue逐渐衍生出“教师”的含义。  
+		4. pedagogue： ['pedəgɒg] n.教师，教员，卖弄学问的人，等于pedagog  
+		5. pedagogy： ['pedəgɒdʒɪ; -gɒgɪ]n.教育，教育学，教学法  
+		6. pedagogic：[,pɛdə'ɡɑdʒɪk] adj. 教师的（等于pedagogical）；教育学的；教授法的
 		1. [teaching method](dic://teaching method), [pedagogics](dic://pedagogics)
 		2. [teaching](dic://teaching), [instruction](dic://instruction)
 		3. [education](dic://education), [instruction](dic://instruction), [teaching](dic://teaching), [didactics](dic://didactics), [educational activity](dic://educational activity)
@@ -509,14 +519,31 @@
 		1. n. 犹太教堂，犹太会堂；犹太教堂会众（同 synagogue）
 	14. chloragogen
 5. **agon-** = struggle
-	1. agonize, agonise, agony
-		2. **ponder**仔细考虑;**contemplate**深思, 细想, 仔细考虑;**fret**烦恼;**lament**悲叹;**worry**烦恼;**obsessively**使人着迷地;**decide**决定;**cringe**畏缩;**weep**哭泣;**rationalize**使合理化;**excruciating**极为疼痛的;
-		3. agonizing
-		4. agonized
-		5. agonal, preagonal
-		6. agonist
+	1. agony (throe)
+		1.  [torment](dic://torment), [torture](dic://torture)
+		2. [suffering](dic://suffering), [excruciation](dic://excruciation)
+		3. _n._ [suffering](dic://suffering), [hurt](dic://hurt), [pain](dic://pain), [hurting](dic://hurting)
+			1. [agony](dic://agony) 侧重指精神或身体痛苦的剧烈程度。  
+			2. [anguish](dic://anguish) 指精神方面令人难以忍受的极度痛苦；用于身体时，多指局部或暂时的痛苦。  
+			3. [torment](dic://torment) 强调烦恼或痛苦的长期性。  
+			4. [torture](dic://torture) 语气比toment强，指在精神或肉体上受到的折磨所产生的痛苦。  
+			5. [grief](dic://grief) 指由某种特殊处境或原因造成的强烈的感情上的苦恼与悲痛。  
+			6. [misery](dic://misery) 着重痛苦的可悲状态，多含不幸、可怜或悲哀的意味。  
+			7. [distress](dic://distress) 多指因思想上的压力紧张、恐惧、忧虑等所引起的精神上的痛苦，也可指某种灾难带来的痛苦。  
+			8. [sorrow](dic://sorrow) 语气比grief弱，指因不幸、损失或失望等所产生的悲伤。
+		4. **anguish**苦闷;**excruciating**极为疼痛的;**agonizing**使人极度痛苦的;**torment**折磨，使痛苦;**pain**疼痛;**misery**痛苦，悲惨;**suffering**身体或心灵的痛苦, 苦难;**sorrow**悲伤;**grief**悲痛;**despair**绝望;**heartache**伤心;
+		5. He suffered agonies from his arm. /他感到胳膊痛极了。
+		6. He endured agonies of loneliness and misery. /他忍受着寂寞和贫穷的折磨。
+		7. He always piles on the agony when he has a cold; you’d think he was dying. /他感冒时总是夸大其词，你会以为他快死了。
+		8. He goes from agony to ecstasy! /他会从痛苦不堪变成欢天喜地！
+		9. agonize
+		10. agonise
+		11. agonizing
+		12. agonized
+		13. agonal, preagonal
+		14. agonist
 			1. agonistic, agonistically
-	2. antagonize, antagonise
+	11. antagonize, antagonise
 		1. _v._ [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile)
 		2. **intimidate**恐吓, 威胁;**alienate**使疏远，离间;**embarrass**使窘迫;**annoy**骚扰;**provoke**激怒;**harass**使烦恼;**humiliate**蒙羞;**antagonistic**敌对的;**frustrate**使不成功, 挫败, 阻止;**retaliate**报复, 反击;**threaten**威胁;
 		3. the aim was to antagonize visiting supporters /目的是使来访支持者反抗。
@@ -534,16 +561,22 @@
 			7. the woman was forcing her antagonist's face into the mud. /这女人正在把敌手的脸按到烂泥里。
 			8. pseudoantagonist
 			9. antagonistic 
-				1.  (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, )
-				2. 
+				1. - adj. 敌对的，反对的，仇恨的；拮抗物（或拮抗作用）的
+				2.  (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, )
+				3. an antagonistic(al) contradiction /对抗性的矛盾
+				4. she must put aside all her antagonistic feelings. /她必须把她的对抗情绪搁到一边。
+				5. The emotional qualities are antagonistic to clear reasoning /感情作用会影响清醒的理智。
+				6. Thus a novel starts in us all sorts of antagonistic and opposed emotions. /因此，一部小说在我们心中引发了各种对立和对立的情绪。
+				7. He's less antagonistic in the sense that he's less well-known than the real conservative firebrands. /从某种意义上说，他不像真正的保守派煽动者那样出名，因此不那么具有敌意。
+				8. 
 			11. deuteragonist
-	4. protagonist
+	12. protagonist
 		1. _[protagonist](dic://protagonist)_  n. 主角，主演；主要人物，领导者
 		2. _n._ [advocate](dic://advocate), [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent), [fictional character](dic://fictional character), [fictitious character](dic://fictitious character), [character](dic://character)
 		3. **heroine**女英雄;**narrator**叙述者;**character**个性;**antagonist**敌手;**titular**有名无实的;**hero**英雄;**villain**坏人，恶棍;**characters**人物;**sidekick**伙伴,插袋;**novel**新奇的;**fictional**虚构的;
-6. **agr-** = seize
+15. **agr-** = seize
 	1. etc..
-7. **axi-** = worthy, axios, "worth, wrothy, of like value, weighing as much"
+16. **axi-** = worthy, axios, "worth, wrothy, of like value, weighing as much"
 	1. axiology, axiom
 		1. the study of values and value judgments
 		2. **metaphysics**形而上学,玄学;**ontology**本体论;**ethics**伦理学;**normative**标准的;**philosophical**哲学的;**philosophy**哲学;**morality**道德;**Kant**康德;**metaphysical**形而上学的,纯粹哲学的,超自然的;**theology**神学;**ethical**道德的;
@@ -553,14 +586,15 @@
 		6. axiomation
 			1. n. 公理；格言；自明之理
 		7. axiomatic
-			1. _adj._ [obvious](dic://obvious), [maxim](dic://maxim), [axiom](dic://axiom)
-			2. _n._ [unobvious](dic://unobvious)
-			3. dasd**axiom**公理;**theorem**定理;**self-evident**不证自明的;**principle**原理;**probabilistic**盖然论的,或然说的;**theory**理论;**mathematical**数学的;**empirical**以观察或实验为依据的;**conjecture**推测;**deterministic**确定的;**notion**概念;
-			4. oh, please, if I don't know, you don't know. That's axiomatic. /拜托 我都不明白 你怎么可能知道 这是不言自明的。
-			5. axiomatically
-			6. axiomatical
+			1. axiom【公理】 + -atic形容词后缀 → 像公理一样明了的 → 自明的，是单词axiom 派生的形容词。
+			2. _adj._ [obvious](dic://obvious), [maxim](dic://maxim), [axiom](dic://axiom)
+			3. _n._ [unobvious](dic://unobvious)
+			4. dasd**axiom**公理;**theorem**定理;**self-evident**不证自明的;**principle**原理;**probabilistic**盖然论的,或然说的;**theory**理论;**mathematical**数学的;**empirical**以观察或实验为依据的;**conjecture**推测;**deterministic**确定的;**notion**概念;
+			5. oh, please, if I don't know, you don't know. That's axiomatic. /拜托 我都不明白 你怎么可能知道 这是不言自明的。
+			6. axiomatically
+			7. axiomatical
 	3. chronaxia, chronaxie, chronaximeter
-8. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
+17. **cog-, coag-** = to curdle, to compel, to collect, to drive together, co- + (a)g-
 	1. coagulant
 		1. n. 凝结剂,
 		3. **coagulation**凝结;**clotting**凝血;**slurry**泥浆;**albumin**白蛋白，清蛋白;**surfactant**表面活性剂;**urea**尿素;**hydroxide**氢氧化物;**platelet**血小板;**recombinant**重组器官;**soluble**可溶的，可溶解的;**effluent**流出物;
@@ -578,14 +612,15 @@
 		9. coagulating
 		10. coagulability
 		11. 
-	3. coagent (cogent, cotangent, contingent, collagen)
+	3. coagent (coagent, cogent, cotangent, contingent, collagen)
 		1. _[coagent](dic://coagent)_  n. 帮手；伙伴；合作者
 	4. cogency, cogent
-		1. (convincing, compelling, persuasive, reasoned, authoritative, definitive, cogent)
-		2. a. 有说服力的；令人信服的
-		3. co-强调 + ag-驱动，做，词源同agent。
-		4. **succinct**简洁的;**compelling**引人注目的;**eloquent**雄辩的，有口才的;**persuasive**能说服的;**concise**简明的，简洁的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**articulate**发音清晰的;**reasoned**详尽论述的;**rebuttal**反驳;**convincing**令人相信的;
-		5. cogently
+		1. (coagent, cogent, cotangent, contingent, collagen)
+		2. (convincing, compelling, persuasive, reasoned, authoritative, definitive, cogent)
+		3. a. 有说服力的；令人信服的
+		4. co-强调 + ag-驱动，做，词源同agent。
+		5. **succinct**简洁的;**compelling**引人注目的;**eloquent**雄辩的，有口才的;**persuasive**能说服的;**concise**简明的，简洁的;**coherent**连贯的，一致的;**insightful**有深刻见解的;**articulate**发音清晰的;**reasoned**详尽论述的;**rebuttal**反驳;**convincing**令人相信的;
+		6. cogently
 	6. cache
 		1. caching
 		2. cacheable
@@ -1720,15 +1755,17 @@
 	9. So, things like allegro, allegretto, crescendo, diminuendo are all Italian words, which musicians understand, even though they're not in their own language /所以，像 allegro、allegretto、crescendo、diminuendo 之类的东西都是意大利语， 音乐家可以理解这些词，即使它们不是用他们自己的语言写的。
 2. alacritous
 3. alacrity
-	1.  (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport )
-	2. n. 敏捷, 轻快, 乐意
-	3. 来自拉丁语 alacer,渴望，欢快，词源同 allegro,快板。
-	4.  [briskness](dic://briskness), [smartness](dic://smartness)
-	5. _n._ [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
-	6. **eagerness**渴望;**gusto**热情,乐趣,津津有味;**vigor**活力，精力;**zeal**热心;**fervor**热情;**haste**匆忙;**enthusiasm**热情, 热心;**swiftly**很快地;**boldness**大胆;**astonishment**惊讶, 惊奇;**impatience**急躁;
-	7. I think Mrs.Strickland was glad to show me her children, and she accepted my invitation with alacrity. /我猜想思特里克兰德太太很高兴让我看到她的两个孩子，她一点儿也没有犹豫就接受了我的邀请。
-	8. The boy, who clearly had had too much of a good thing, marched away into the shadows with alacrity. /显然，男孩已经如愿以偿，他动作轻快地大步朝荒原的阴影跑去
-	9. 'By all means, ' observed Mr. Bumble, with great alacrity. /“无论如何， ” 邦布尔先生非常敏捷地说道。
+	1.   (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, agreeable, alacrity, affable, amicable, amiable, genial, svelte)
+	2. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+	3. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+	4. n. 敏捷, 轻快, 乐意
+	5. 来自拉丁语 alacer,渴望，欢快，词源同 allegro,快板。
+	6.  [briskness](dic://briskness), [smartness](dic://smartness)
+	7. _n._ [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
+	8. **eagerness**渴望;**gusto**热情,乐趣,津津有味;**vigor**活力，精力;**zeal**热心;**fervor**热情;**haste**匆忙;**enthusiasm**热情, 热心;**swiftly**很快地;**boldness**大胆;**astonishment**惊讶, 惊奇;**impatience**急躁;
+	9. I think Mrs.Strickland was glad to show me her children, and she accepted my invitation with alacrity. /我猜想思特里克兰德太太很高兴让我看到她的两个孩子，她一点儿也没有犹豫就接受了我的邀请。
+	10. The boy, who clearly had had too much of a good thing, marched away into the shadows with alacrity. /显然，男孩已经如愿以偿，他动作轻快地大步朝荒原的阴影跑去
+	11. 'By all means, ' observed Mr. Bumble, with great alacrity. /“无论如何， ” 邦布尔先生非常敏捷地说道。
 
 
 ### + \*albho- +
@@ -1955,31 +1992,33 @@
 		7. It was a period of amity in Texas politics /那是德克萨斯州政坛的一段友好时期。
 		8. " No. I think now I can get back to amity with my wife. /" 不，我认为我现在可以回到与我妻子的和睦中去了。"
 		9. He had the satisfaction of seeing the conference end in a treaty of peace and amity. /s他很高兴看到会议以和平友好条约结束。
-	10. amicable (affable, amicable, amiable, cordial, genial)
-		1. amic-友爱 + -able, 表形容词 → 能爱(你)的 → 友好的。
-		2. _adj._ [friendly](dic://friendly), [unhostile](dic://unhostile), [well-meaning](dic://well-meaning), [unthreatening](dic://unthreatening)
-		3. _n._ [hostile](dic://hostile)
-		4. **cordial**兴奋的;**agreeable**欣然同意的;**harmonious**和谐的;**respectful**表示尊敬的;**mutually**互相地;**disagreement**分歧, 意见不合;**agreement**协定, 协议, 契约;**breakup**崩溃;**friendly**友好的;**sociable**好交际的;**break-up**解冻
-		5. there will be an amicable settlement of the dispute. /争端将以友好的方式解决。
-		6. the best course is to seek an amicable parting of the ways /最好的途径是寻找一个折衷的抉择时刻。
-		7. I believe we can solve disputes through an amicable negotiation /我认为我们可以通过友好协商的方式解决争议。
-	11. amiable /amiably
-		1.  [good-humored](dic://good-humored), [good-humoured](dic://good-humoured)
-		2.  [affable](dic://affable), [cordial](dic://cordial), [genial](dic://genial)
-		3. _adj._ [good-natured](dic://good-natured), [friendly](dic://friendly)
-		4. _n._ [ill-natured](dic://ill-natured), [unfriendly](dic://unfriendly)
-		5. **agreeable**欣然同意的;**cheerful**高兴的;**likeable**令人喜爱的，可爱的;**chatty**饶舌的;**charming**迷人的;**affectionate**慈爱的,充满深情的,温柔亲切的;**endearing**惹人喜爱的;**cordial**兴奋的;**lovable**可爱的，讨人喜欢的;**sociable**好交际的;**likable**可爱的;
-		6. the amiable young man greeted me enthusiastically /这友善的年轻人热情地迎接我。
-		7. We have a very amiable companionship /我们之间存在一种友好的关系。
-		8. The next-door neighbours are very amiable people /隔壁的邻居很和蔼。
-		9. Amiable by nature, she never beat or scolded us, let alone quarreled with anybody. /因此，虽在这样的大家庭里，长幼叔伯妯娌相处都很和睦。
-	12. enemy
+	10. amicable 
+		1.  (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, agreeable, alacrity, affable, amicable, amiable, genial, svelte)
+		2. amic-友爱 + -able, 表形容词 → 能爱(你)的 → 友好的。
+		3. _adj._ [friendly](dic://friendly), [unhostile](dic://unhostile), [well-meaning](dic://well-meaning), [unthreatening](dic://unthreatening)
+		4. _n._ [hostile](dic://hostile)
+		5. **cordial**兴奋的;**agreeable**欣然同意的;**harmonious**和谐的;**respectful**表示尊敬的;**mutually**互相地;**disagreement**分歧, 意见不合;**agreement**协定, 协议, 契约;**breakup**崩溃;**friendly**友好的;**sociable**好交际的;**break-up**解冻
+		6. there will be an amicable settlement of the dispute. /争端将以友好的方式解决。
+		7. the best course is to seek an amicable parting of the ways /最好的途径是寻找一个折衷的抉择时刻。
+		8. I believe we can solve disputes through an amicable negotiation /我认为我们可以通过友好协商的方式解决争议。
+	12. amiable /amiably
+		1.  (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, agreeable, alacrity, affable, amicable, amiable, genial, svelte)
+		2.  [good-humored](dic://good-humored), [good-humoured](dic://good-humoured)
+		3.  [affable](dic://affable), [cordial](dic://cordial), [genial](dic://genial)
+		4. _adj._ [good-natured](dic://good-natured), [friendly](dic://friendly)
+		5. _n._ [ill-natured](dic://ill-natured), [unfriendly](dic://unfriendly)
+		6. **agreeable**欣然同意的;**cheerful**高兴的;**likeable**令人喜爱的，可爱的;**chatty**饶舌的;**charming**迷人的;**affectionate**慈爱的,充满深情的,温柔亲切的;**endearing**惹人喜爱的;**cordial**兴奋的;**lovable**可爱的，讨人喜欢的;**sociable**好交际的;**likable**可爱的;
+		7. the amiable young man greeted me enthusiastically /这友善的年轻人热情地迎接我。
+		8. We have a very amiable companionship /我们之间存在一种友好的关系。
+		9. The next-door neighbours are very amiable people /隔壁的邻居很和蔼。
+		10. Amiable by nature, she never beat or scolded us, let alone quarreled with anybody. /因此，虽在这样的大家庭里，长幼叔伯妯娌相处都很和睦。
+	13. enemy
 		1. 来自拉丁文inimicus, 敌人，in-, 不，非 + im-=am-爱。
 		2. archenemy
 		3. **animosity**憎恨, 仇恨, 敌意;**hatred**憎恨;**hostility**敌意;**resentment**愤恨,不满,怨恨;**jealousy**嫉妒;**mistrust**不信任;**strife**冲突;**distrust**不信任;**discord**不和;**quarrel**吵架;**grudge**不满, 怨恨,
-	13. enmity (amity, comity, enmity, )
+	14. enmity (amity, comity, enmity, )
 		1. en-进入 + m-=am-爱 + -ity, 表名词 → 合成enmity , 爱太多的成为恨。
-	14. inimicable, inimical, inimically
+	15. inimicable, inimical, inimically
 		1. (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity)
 		2. (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
 		3. 词源同enemy , 敌人。拼写比较imperial , empire , invidious , envy。
@@ -2161,12 +2200,13 @@
 		22. preambulate
 			1. _[preambulate](dic://preambulate)_  vi. 作序言（等于preamble）
 		23. perambulate (esplanade, promenade)
-			1. **wander**徘徊;**stroll**闲逛;**strolling**巡回的;**leisurely**从容的, 不慌不忙的;**wandering**漫游的;**walk**步行，走;**roam**漫游，漫步;**ramble**漫步;**descend**下降;**trot**疾走;**inhabit**居住于;
-			2. the locals perambulate up and down the thoroughfare /她在广场上散步。
-			3. perambulatory
-			4. perambulator
-			5. perambulation
-		24. circumambulate
+			1. (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, )
+			2. **wander**徘徊;**stroll**闲逛;**strolling**巡回的;**leisurely**从容的, 不慌不忙的;**wandering**漫游的;**walk**步行，走;**roam**漫游，漫步;**ramble**漫步;**descend**下降;**trot**疾走;**inhabit**居住于;
+			3. the locals perambulate up and down the thoroughfare /她在广场上散步。
+			4. perambulatory
+			5. perambulator
+			6. perambulation
+		25. circumambulate
 	3. amble (ember)
 		1.  [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
 		2. [mosey](dic://mosey)
@@ -2503,22 +2543,23 @@
 			2. animator, animater
 				1. **animation**活泼;**illustrator**插图画家;**cartoonist**漫画家;**animated**活生生的;**screenwriter**电影剧本作家;**filmmaker**电影摄制者;**cinematographer**电影摄影技师;**artist**艺术家;**animate**使有生气;**designer**设计师;**programmer**程序员;
 		10. animated
-	7. animosity， animus (enmity, amity, inimical, comity)
-		1. **hostility**敌意;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**prejudice**成见, 偏见, 歧视;**malice**怨恨;**bigotry**顽固;**resentment**愤恨,不满,怨恨;**enmity**敌意;**disdain**蔑视;**racism**种族主义，种族歧视;**anger**怒，愤怒;
-	8. equanimity
+	7. animosity， animus (comity)
+		1. (malversation, animosity，enmity, amity, inimical, animadversion)
+		2. **hostility**敌意;**hatred**憎恨;**animosity**憎恨, 仇恨, 敌意;**prejudice**成见, 偏见, 歧视;**malice**怨恨;**bigotry**顽固;**resentment**愤恨,不满,怨恨;**enmity**敌意;**disdain**蔑视;**racism**种族主义，种族歧视;**anger**怒，愤怒;
+	9. equanimity
 		1. (sedate, serene, tranquil, calm, repose, compose, placidity, equanimity )
 		2. **calmness**平静，安宁;**serenity**平静，宁静;**composure**镇静, 沉着;**contentment**满足,满意;**gentleness**温和;**humility**谦卑，谦逊;**compassion**怜悯, 同情;**enlightenment**启发,开导,开明;**poise**平衡;**self-awareness**自我意识;**stillness**静止,不动;
-	9. longanimity, longanimous
+	10. longanimity, longanimous
 		1. **patience**耐性，耐心;**fortitude**坚韧, 刚毅;**exertion**努力;**self-control**克己;**perseverance**坚持不懈;**firmness**坚定;**likewise**也;
-	10. magnanimity, magnanimous, magnanimously
+	11. magnanimity, magnanimous, magnanimously
 		1. **generosity**慷慨, 大方, 宽容;**humility**谦卑，谦逊;**kindness**仁慈;**compassion**怜悯, 同情;**sincerity**真实, 诚挚;**piety**虔诚;**gratitude**感激, 感谢;**cowardice**懦弱;**gentleness**温和;**arrogance**傲慢;**fortitude**坚韧, 刚毅;
-	11. pusillanimity, pusillanimous, pusillanimously
+	12. pusillanimity, pusillanimous, pusillanimously
 		1. _n._ [fearfulness](dic://fearfulness)
 		2. **cowardice**懦弱;**folly**愚蠢;**arrogance**傲慢;**hubris**傲慢;**hypocrisy**伪善;**incompetence**无能力;**inaction**不活动;**indifference**不关心,不在乎;**treachery**背信弃义, 不忠, 背叛;**foolishness**愚蠢;**cynicism**犬
 		3. Some reckon its failure to unearth masses of new information is down to a mix of mendacious reticence on the part of key witnesses and the pusillanimity of their inquisitors /一些人承认，没能发现大量的新信息是由于关键证人的虚假的沉默和审判者的胆怯。
-	12. unanimity, unanimous, unanimously
+	13. unanimity, unanimous, unanimously
 		1. **consensus**一致, 一致同意;**overwhelmingly**压倒地;**decision**决定，决心;**unequivocal**只有一种含意的;**resounding**鸣响的,回响的,回荡的,响亮的;**vote**投票，选举;**verdict**裁定;**emphatic**加强语气的;**overwhelming**势不可挡的, 压倒一切的;**veto**否决权;**dissenting**不同意的;
-	13. reanimatology
+	14. reanimatology
 3. Enid
 
 
@@ -2872,7 +2913,7 @@
 		18. unapt, aptly
 		19. aptitude, attitude
 	4. inapt
-		1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, inept, inapt)
+		1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 		2. adj. 不适当的；不熟练的，笨拙的
 		3. [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inept](dic://inept), [ill-chosen](dic://ill-chosen)
 		4. _adj._ [infelicitous](dic://infelicitous)
@@ -2885,7 +2926,7 @@
 			1. His inaptitude for the job is very unfortunate. /非常遗憾他对此工作无法胜任。
 			2. Never validate their financial inaptitude by using irrelevant comparison /为自己平庸的财商开脱。
 	6. inept
-		1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, inept, inapt)
+		1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 		2. in-不，非 + ept-连接，抓住，达到，即达不到，引申词义无能力。
 		3. a. 不适当的, 不理智的, 笨拙的
 		4. [awkward](dic://awkward), [clumsy](dic://clumsy), [cumbersome](dic://cumbersome), [inapt](dic://inapt), [ill-chosen](dic://ill-chosen)
@@ -3241,7 +3282,7 @@
 	20. apoptosis, apoptotic
 7. **post-, poster-** = behind, 「latin」post "behind, back, afterward"
 	1. preposterous
-		1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, inept, inapt)
+		1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 		2. **ludicrous**荒唐可笑的,滑稽可笑的;**absurd**荒谬的;**ridiculous**可笑的, 荒谬的;**laughable**荒唐可笑的;**outlandish**古怪的, 奇异的;**nonsensical**无意义的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**outrageous**骇人的;**illogical**不合逻辑的;**idiotic**白痴的;**silly**愚蠢的;
 	3. post-horse, postboy
 	4. post-liberation, post-mortem, post-obit, postatomic, postbellum, postdiluvian, postdoctoral, postglacial, postgraduate
@@ -4156,14 +4197,16 @@
 	7. the asperity of northern winters. /北方的严冬
 	8. the asperities of a harsh and divided society /一个残酷而又四分五裂的社会所特有的艰难困苦。
 3. exasperate (exacerbate)
-	1. ex-使… + asper-粗糙 + -ate, 表动词 → 使变得更粗糙 → 激怒。
-	2. _v._ [anger](dic://anger), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
-	3. **frustrate**使不成功, 挫败, 阻止;**irritate**激怒;**annoy**骚扰;**exacerbate**使恶化;**provoke**激怒;**annoyance**烦恼;**amuse**使发笑;**alienate**使疏远，离间;**embarrass**使窘迫;**confuse**使混乱;**excite**刺激…，使…兴奋;
-	4. she was exasperated by all this havering /她对所有这一切游移不定的表现大为恼火。
-	5. late risers always exasperate early risers. /迟起的人总是惹怒早起的人。
-	6. he uttered an exasperated snort /他愤怒地哼了哼。
-	7. exasperation
-	8. exasperating
+	1.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+	2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
+	3. ex-使… + asper-粗糙 + -ate, 表动词 → 使变得更粗糙 → 激怒。
+	4. _v._ [anger](dic://anger), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+	5. **frustrate**使不成功, 挫败, 阻止;**irritate**激怒;**annoy**骚扰;**exacerbate**使恶化;**provoke**激怒;**annoyance**烦恼;**amuse**使发笑;**alienate**使疏远，离间;**embarrass**使窘迫;**confuse**使混乱;**excite**刺激…，使…兴奋;
+	6. she was exasperated by all this havering /她对所有这一切游移不定的表现大为恼火。
+	7. late risers always exasperate early risers. /迟起的人总是惹怒早起的人。
+	8. he uttered an exasperated snort /他愤怒地哼了哼。
+	9. exasperation
+	10. exasperating
 		1. _adj._ [displeasing](dic://displeasing), [intensifying](dic://intensifying)
 		2. _n._ [pleasing](dic://pleasing), [moderating](dic://moderating)
 		3. **infuriating**使人十分生气的,令人大怒的;**frustrating**使人沮丧的;**irritating**气人的, 使人不愉快的;**tiresome**烦人的，无聊的;**baffling**令人困惑的;**aggravating**使更恶化的;**troublesome**令人烦恼的;**exhausting**使耗尽的;**annoying**恼人的;**amusing**有趣的，好玩的;**tedious**冗长乏味的;

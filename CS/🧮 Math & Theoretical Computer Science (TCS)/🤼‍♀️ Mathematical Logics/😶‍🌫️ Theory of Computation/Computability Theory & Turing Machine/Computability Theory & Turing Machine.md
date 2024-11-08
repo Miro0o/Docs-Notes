@@ -30,3 +30,9 @@ Although there is considerable overlap in terms of knowledge and methods, mathem
 [Universal Turing Machine]: https://en.wikipedia.org/wiki/Universal_Turing_machine
 
 [How to tell if a language is recognizable, co-recognizable or decidable? | Stackoverflow]: https://cs.stackexchange.com/q/11500/174354
+
+[AI数学基础之:确定图灵机和非确定图灵机]: https://www.cnblogs.com/flydean/p/14646553.html
+
+[Arithmetical hierarchy | wikipedia]: https://en.wikipedia.org/wiki/Arithmetical_hierarchy
+[复杂度类列表 | wikipedia]: https://zh.wikipedia.org/zh-hans/複雜度類列表
+[Understanding the Arithmetical Hierarchy | StackExchange]: https://math.stackexchange.com/q/4887971/1230830

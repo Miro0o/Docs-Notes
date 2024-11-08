@@ -778,7 +778,7 @@
 	6. timeserver
 	7. servitude
 	8. servile
-		1. (sycophant, obsequious, submissive, servile, deferential)
+		1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
 		2. _adj._ [bootlicking](dic://bootlicking), [fawning](dic://fawning), [sycophantic](dic://sycophantic), [toadyish](dic://toadyish), [obsequious](dic://obsequious), [slavish](dic://slavish), [subservient](dic://subservient)
 		3. _n._ [unservile](dic://unservile), [unsubmissive](dic://unsubmissive), [free](dic://free)
 		4. **servitude**奴隶状态;**obedient**孝顺的;**submissive**顺从的, 唯命是从的;**slave**奴隶;**abject**卑贱的;**unworthy**不值得的;**bourgeois**资产阶级的;**wretched**可怜的;**servants**仆人;**tyrannical**暴君的,暴君似的;**lowly**地位低的;
@@ -1121,16 +1121,24 @@
 	5. assiduity
 		1. _n._ [diligence](dic://diligence), [industriousness](dic://industriousness), [industry](dic://industry)
 		2. **zeal**热心;**devotion**热爱;**piety**虔诚;**eagerness**渴望;**perseverance**坚持不懈;**utmost**极限;**admirable**令人钦佩的;**diligence**勤奋，勤勉;**admiration**钦佩;**exertion**努力;**dedication**奉献,献身;
-		3. assiduous, assiduously, assiduousness
-	7. dissident, dissidence
+		3. assiduous
+			1. (arduous, laborious, industrious, assiduous, diligent, studious)
+			2. assiduously
+			3. assiduousness
+	6. dissident, dissidence
 		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		2. _adj._ [unorthodox](dic://unorthodox), [negative](dic://negative)
 		3. _n._ [orthodox](dic://orthodox), [affirmative](dic://affirmative), [affirmatory](dic://affirmatory)
 		4. **leftist**急进派;**communist**共产主义的;**activist**积极分子;**left-wing**左派的;**militant**好战的;**anarchist**无政府主义者;**separatist**分离主义者,独立派;**nationalist**国家主义者;**renegade**变节者;**rebel**造反;**insurgent**起义的,叛乱的,造反的;
-	8. insidious
+	7. insidious
 		1.  (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity, counterproductive, vitriolic, caustic, vile, snarky, devastating, )
 		2. **pernicious**很有害的;**pervasive**普遍的;**sinister**阴险的;**devious**弯曲的;**nefarious**极坏的;**malevolent**有恶意的;**vile**卑鄙的;**destructive**破坏性的, 毁灭性的;**overt**明显的;**subtle**微妙的;**virulent**剧毒的;
-	10. preside
+		3. insidious propaganda /暗中进行的宣传
+		4. the insidious approach of age /不知不觉就老了
+		5. tourism represents an insidious form of consumptive activity. /旅游业是消耗性行为的潜在体现。
+		6. sexual harassment is a serious and insidious problem. /性骚扰是一个恶劣且有潜在恶果的问题。
+		7. They're looking to confront a more insidious threat, the rise of global temperatures /他们希望应对一个更棘手的威胁——全球气温上升。
+	8. preside
 		1. _v._ [control](dic://control), [command](dic://command)
 		2. **oversee**监督;**appoint**任命;**convene**召集，集合;**appointed**指定的,约定的;**convened**集合;**overseen**视察;**govern**统治;**presidency**总统的职位;**attend**出席;**chaired**就任要职;**summoned**传唤;
 		3. _preside over_ 主持；负责
@@ -1151,31 +1159,31 @@
 			2. **presidential**总统的;**president**总统;**reelection**改选;**inauguration**就职典礼;**candidacy**候选人的地位;**election**选举;**administration**实行, 执行;**impeachment**弹劾;**Clinton**克林顿;**tenure**占有;**Pres**普雷斯;
 			3. _[presidency](dic://presidency)_  n. 总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配
 			4. _[rotating presidency](dic://rotating%20presidency)_  轮值主席
-	11. reside
+	9. reside
 		1. residue
 		2. resident
 		3. residence
 		4. multiresidue
-	12. sedate
+	10. sedate
 		1. sedative, sedation, sedateness, sedately
 		2. sedentary
-	13. sediments
+	11. sediments
 		1. sedimentum
 		2. sedimentometer
 		3. sedimentation
 		4. sedimentary
-	14. subside
+	12. subside
 		1. subsidize
 		2. subsidise
 		3. antisubsidy
 		4. subsidiary, subsidy
-	15. supersede, supersession
-	16. sedan
-	17. cathedra, cathedral
+	13. supersede, supersession
+	14. sedan
+	15. cathedra, cathedral
 		1. _n._ [throne](dic://throne)
 		2. **ex**不包括，除外;**episcopal**主教的;**bishop**主教;**archbishop**大主教;**cathedral**大教堂;**papal**罗马教皇的;**ecclesiastical**基督教会的;
-	18. chair
-	19. chaise
+	16. chair
+	17. chaise
 		1.  [chaise longue](dic://chaise longue), [daybed](dic://daybed)
 		2.  [shay](dic://shay)
 		3. _n._ [chair](dic://chair), [carriage](dic://carriage), [equipage](dic://equipage), [rig](dic://rig)
@@ -1184,16 +1192,16 @@
 		6. _[post chaise](dic://post%20chaise)_  （旧时）驿递马车（18～19世纪初运载乘客及邮件的四轮车厢式马车）
 		7. _[chaise longue](dic://chaise%20longue)_  n. 躺椅
 		8. [chaise](dic://chaise), [daybed](dic://daybed)
-	20. gangliosidosis
-	21. nest
-	22. saddle
-	23. seance
+	18. gangliosidosis
+	19. nest
+	20. saddle
+	21. seance
 		1. **psychic**精神的;**ghost**鬼，幽灵;**ghosts**鬼;**ghostly**幽灵的;**paranormal**超常的;**spooky**幽灵般的;**haunted**闹鬼的;**occult**神秘的;**astral**星的;**trance**【C】昏睡状态;**tarot**塔罗纸牌;
 		2. [sitting](dic://sitting), [session](dic://session)
-	24. seat
-	25. sedile
-	26. sessile
-	27. siege
+	22. seat
+	23. sedile
+	24. sessile
+	25. siege
 		1. siege [siːdʒ] n.围攻；包围；围城；不断袭击；长期努力，vt.围攻；包围，日耳曼词源，同属日耳曼词源的单词有seat和sit以及settle等，与拉丁词源的sedan [sɪ'dæn] n. 轿车；轿子以及希腊词根hedr-表示座位、立体的面同源。siege本意是seat，军事上的围城是“sitting down before a fortress”。 ​​​​  
 		2. 但是在英国亚瑟王的传奇故事中，Siege Perilous（也叫做The Perilous Seat）中的siege就是其本意“seat”了。巫师梅林为亚瑟王的圆桌骑士们保留了一把椅子，谁能找到传说中的“圣杯”，谁才有资格坐那把椅子。同时理解单词besiege [bɪ'siːdʒ] vt. 围困；包围；烦扰The troops besieged the fort. ​​​​  
 		3. 类似逻辑，leaguer ['liːgə] n.围攻；盟员，vt. 围攻（盟员是另外一个词源），与lay和lie（躺）都是同源的日耳曼语词源单词，那就不光是“坐”下来，而是要“躺”在围攻城市的军营中了。同样比较单词;beleaguer [bɪ'liːgə] vt. 围攻；围，Enemy troopsbeleaguered the city.敌军围困了这座城。 ​​​​
@@ -1486,7 +1494,7 @@
 		8. The letter, marked on the envelope: To be delivered immediately after my death, contained instructions for his obsequies. /这封信在信封上标明：我死后立即送达， 其中包含有关他的葬礼的说明。
 		10. obsequial
 	8. obsequious
-		1.   (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, meek, tame, docile, humble, modest)
+		1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
 		2. ob-用力 + sequ-跟随 + -ious表形容词 → 拼命跟随别人 → 谄媚的。
 		3. 来自拉丁语obsequium,顺从，履行服务职责，来自ob-,向前，朝向，-sequi,跟随，词源同sequence.原为跟班，跟随，后引申词义巴结的，讨好的。
 		4. a. 谄媚的, 奉承的, 顺从的
@@ -1552,8 +1560,10 @@
 		5. The jury is expected to be sequestered for at least two months. /陪审团渴望被隔离至少两个月。
 		6. And how do we sequester the carbon? /我们如何封存碳呢？
 	12. ensue
-		1. **occur**发生;**arise**发生;**inevitably**不可避免地;**erupt**爆发;**happen**发生;**inevitable**不可避免的, 必然发生的;**subside**平息;**abound**充满;**unavoidable**不可避免的;**escalate**逐步升高;**entail**必需，使承担;
-	13. pursue
+		1. (render, garner, engender, yield, induce, entail, incur, inflict, ensue, confer)
+		2. en-进入，使 + sue-顺序，词源同suit, sequence。
+		3. **occur**发生;**arise**发生;**inevitably**不可避免地;**erupt**爆发;**happen**发生;**inevitable**不可避免的, 必然发生的;**subside**平息;**abound**充满;**unavoidable**不可避免的;**escalate**逐步升高;**entail**必需，使承担;
+	14. pursue
 		1. **seek**寻找;**pursuit**追求;**abandon**离弃;**embark**上船或飞机;**continue**仍旧，连续;**forgo**放弃;**undertake**担任, 承揽;**seeking**寻找;**devote**奉献;**desire**欲望;**fulfill**履行;
 		2. pursuivant
 		3. pursuit
@@ -1561,10 +1571,10 @@
 		5. pursuance
 		6. pursuable
 		7. suable
-	14. sue
+	15. sue
 		1. suable
 		2. suability
-	15. suit
+	16. suit
 		1.  [lawsuit](dic://lawsuit), [case](dic://case), [cause](dic://cause), [causa](dic://causa)
 		2.  [suit of clothes](dic://suit of clothes)
 		3.  [courtship](dic://courtship), [wooing](dic://wooing), [courting](dic://courting)
@@ -1607,8 +1617,8 @@
 		29. jumpsuit
 		30. ill-suited
 		31. countersuite
-	16. extrinsic, extrinsicfactor
-	17. intrinsic, intrinsical, intrinsically
+	17. extrinsic, extrinsicfactor
+	18. intrinsic, intrinsical, intrinsically
 		1. intrin-,内在的，来自 internal, -sic, 沿着的，词源同 sequel, sequence. 引申词义固有的，内在的。
 		2. [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [inherent](dic://inherent), [integral](dic://integral), [inner](dic://inner), [internal](dic://internal)
 		3. _n._ [extrinsic](dic://extrinsic), [external](dic://external)
@@ -1623,18 +1633,38 @@
 		12. And what underlies these two things is an intrinsic penchant for what one studies. /然而决定上述两项的关键就是学生的兴趣爱好。
 9. **sign-** = mark, 表示“记号，信号”。源自拉丁语 signum "identifying mark, sign."
 	1. assign
-		1. 
+		1. as-强调 + sign【符号】 → 不断给人信号 → 指定。
 	2. consign
-		1. **dispose**处理;**consignment**托付货物;**discard**丢弃;**reject**拒绝;**sell**销售;**recycle**使再循环;**bury**埋葬;**lest**唯恐，以免;**refuse**拒绝;**hasten**催促;**salvage**打捞;
-		2. consignment
-			1. **sale**出售;**shipment**装货;**shop**商店;**goods**商品;**thrift**节俭;**store**储备，贮藏;**seller**卖方，售货员;**merchandise**商品, 货物;**warehouse**仓库, 货栈;**barter**进行易货贸易;**second-hand**用过的;
-		3. consignor, consigner
+		1. vt. 交付, 储蓄, 委托, 寄存
+		2. 1. _vt._ 把…托人代售
+		3. 把…托付给, 把…交付给
+		4. 丟弃，拋弃(人或物)；把…搁置一旁
+		5. 把…置于(令人不快的境地)；打发；发落
+		6. con-共同 + sign【标记】 → 共同做记号 → 把…委托[别人]。
+		7. **dispose**处理;**consignment**托付货物;**discard**丢弃;**reject**拒绝;**sell**销售;**recycle**使再循环;**bury**埋葬;**lest**唯恐，以免;**refuse**拒绝;**hasten**催促;**salvage**打捞;
+		8. consign a letter to the post /付邮
+		9. The politicians who lost the elections will be consigned to the dustbin of history. /落选的政客就要丟进历史的垃圾箱。
+		10. She consigned his letter to the waste basket. /她把他的信丟进废纸篓。
+		11. The captured rebels were consigned to the dungeons /抓到的叛乱分子被送进了地牢。
+		12. It was quickly consigned to her attic for most of the 20th century. /在20世纪，大部分时间中，它很快就被寄存到了她的阁楼上。
+		13. If you want to consign people to oblivion, you don't light up their dungeons. /如果人家忘记了我们，人家便不会使这所黑牢亮起来。
+		14. consignment
+			1. - n. 发送的货物，运送物；发送，投递；寄售，寄卖；委托，托付
+			2. **sale**出售;**shipment**装货;**shop**商店;**goods**商品;**thrift**节俭;**store**储备，贮藏;**seller**卖方，售货员;**merchandise**商品, 货物;**warehouse**仓库, 货栈;**barter**进行易货贸易;**second-hand**用过的;
+			3. _consignment note_ 托运单；托运收据；寄售通知书
+			4. _consignment business_ 寄售业务
+			5. Their consignment of bananas was / were bad. /他们托运的一批香蕉质量不好。
+			6. Visit customers, dispatch consignments and things like that. /访问客户、发运货物，诸如此类的事。
+			7. Pakistan has also purchased several consignments of COVID-19 vaccines from China. /巴基斯坦还从中国购买了数批新冠肺炎疫苗。
+			8. A consignment of medical supplies from Egypt has been delivered to Gaza. /埃及的一批医疗用品已经运送至加沙。
+			9. The consignment was discovered during a search of scrap metal containers sent from Guiana /这批运送毒品是在搜查从圭亚那运来的废金属集装箱时发现的。
+		15. consignor, consigner
 			1. **purchaser**买方,购买者;**auctioneer**拍卖人，拍卖商;**buyer**采购员;**consignment**托付货物;**seller**卖方，售货员;**bidder**出价人;**auction**拍卖;**shipper**托运人;
-		4. consignee
-		5. consignation
-		6. consignable
-	4. countersign
-	5. design
+		16. consignee
+		17. consignation
+		18. consignable
+	5. countersign
+	6. design
 		1. undesigned
 		2. uinderdesign
 		3. redesign
@@ -1649,15 +1679,16 @@
 			4. designated
 		9. codesign
 		10. autodesign
-	6. ensign, insignia
+	7. ensign
 		1. **lieutenant**中尉;**admiral**舰队司令;**colonel**陆军上校;**flag**旗帜，国旗;**insignia**徽章;**captain**船长;**cadet**军官学员;**emblem**象征;**navy**海军;**sailor**水手，海员;**commander**指挥官;
-		2. **emblem**象征;**emblems**象征动作;**badge**徽章;**logo**商标，徽标;**symbol**符号;**crest**冠;**medallion**大奖章;**markings**标记;**logos**理性;**badges**徽章;**uniform**一致的;
-	7. resign
+	8. insignia
+		1. **emblem**象征;**emblems**象征动作;**badge**徽章;**logo**商标，徽标;**symbol**符号;**crest**冠;**medallion**大奖章;**markings**标记;**logos**理性;**badges**徽章;**uniform**一致的;
+	9. resign
 		1. resigned
 		2. resignation
 		3. resignedly
 		4. **resigned**顺从的;**resignation**辞职;**retire**退休;**quit**停止;**appoint**任命;**withdraw**撤消;**quits**对等的;**relinquish**交出, 让给;**renounce**宣布放弃;**reinstate**使恢复原职;**oust**剥夺;
-	8. sign
+	10. sign
 		1. unsigned, toesign, signed, signage, signable, signa, sign-off, re-sign, prosign
 		4. signatory
 			1. **ratified**批准的;**treaty**条约，协议;**ratify**批准;**ratification**正式批准;**signed**有符号的;**declaration**宣布, 宣告, 声明;**enforceable**可实施的;**member**成员;**multilateral**多方面的;**founding**创办的;
@@ -1668,13 +1699,13 @@
 			2. countersignature
 		6. signboard
 		7. signer
-	9. signet, sigil
+	11. signet, sigil
 		1. signet-ring
 		2. sigillum
 		3. sigillate
 		4. sigillary
 		5. sigillography
-	10. signal, signify
+	12. signal, signify
 		1. [signaling](dic://signaling), [sign](dic://sign)
 		2. [sign](dic://sign), [signalize](dic://signalize), [signalise](dic://signalise)
 		3.  [bespeak](dic://bespeak), [betoken](dic://betoken), [indicate](dic://indicate), [point](dic://point)
@@ -1684,23 +1715,23 @@
 		7. _n._ [unimpressive](dic://unimpressive)
 		8. **waveform**波形;**transmitter**传播者;**signalling**发信号;**amplitude**广阔;**modulation**调音;**modulator**调节器;**antenna**天线;**modulated**已调整的,被调的;**decoder**解码器，译码器;**output**产量;**transmitting**传送;
 		9. signifier
-	12. significant
+	13. significant
 		1. signification
 		2. significative
 		3. significantly
 		4. significance
 		5. nonsignificant
 		6. insignificant
-	13. signpost
-	14. signwriter
-	15. undersign
+	14. signpost
+	15. signwriter
+	16. undersign
 		1. undersigned
 		2. undersigning
-	16. sain
-	17. seal
-	18. significancy, insignificancy
-	19. tocsin
-10. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
+	17. sain
+	18. seal
+	19. significancy, insignificancy
+	20. tocsin
+11. **soci-, socio-** = companion, 表示“同伴”，引申为“社会”。源自拉丁语 socius "ally, companion."
 	1. anthroposociology
 	2. associate
 		1. _n._ [peer](dic://peer), [equal](dic://equal), [match](dic://match), [compeer](dic://compeer), [friend](dic://friend), [accompaniment](dic://accompaniment), [concomitant](dic://concomitant)
@@ -2010,8 +2041,8 @@
 			3. _n._ [joy](dic://joy), [joyousness](dic://joyousness), [joyfulness](dic://joyfulness), [utterance](dic://utterance), [vocalization](dic://vocalization)
 			4. **rejoicing**欣喜;**joy**欢乐，快乐;**indignation**愤怒, 愤慨, 气愤;**euphoria**精神欢快，欣快;**joyous**令人高兴的;**anguish**苦闷;**ecstasy**狂喜;**sorrow**悲伤;**triumph**胜利，凯旋;**glee**快乐;**astonishment**惊讶, 惊奇;
 		6. exultant (exuberant)
-			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
-			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 			3.  [exulting](dic://exulting), [jubilant](dic://jubilant), [prideful](dic://prideful), [rejoicing](dic://rejoicing), [triumphal](dic://triumphal), [triumphant](dic://triumphant)
 			4. _adj._ [elated](dic://elated)
 			5. _n._ [dejected](dic://dejected)
@@ -3005,14 +3036,14 @@
 
 ### + \*sep- + = to taste, perceive
 1. **sap-** = taste, "to taste, have taste, be wise"
-	1. sapid, sapidity
+	1. sapid, sapidity (sapid, insipid, tepid, vapid, )
 		1. **pungent**刺激性的;**aromatic**芳香的，芬芳的;**savory**可口的;**delectable**令人愉快的;**tangy**有刺激性的;**salty**咸的;**flavorful**充满…味道的,可口的;**savoury**咸味的;**spicy**辛辣的;**succulent**汁多味美的;**fragrant**芳香的;
 		2. [flavorful](dic://flavorful), [flavourful](dic://flavourful), [flavorous](dic://flavorous), [flavourous](dic://flavourous), [flavorsome](dic://flavorsome), [flavoursome](dic://flavoursome), [saporous](dic://saporous)
 		3. **acidity**酸度;**sweetness**美味;**pungent**刺激性的;**richness**丰富;**aroma**芳香;**tangy**有刺激性的;**flavour**香味;**aromatic**芳香的，芬芳的;**delicacy**精致, 精美;**palate**腭;**freshness**新;
 		4. [relish](dic://relish), [flavor](dic://flavor), [flavour](dic://flavour), [savor](dic://savor), [savour](dic://savour), [smack](dic://smack), [nip](dic://nip), [tang](dic://tang)
 		5. [sapidness](dic://sapidness)
 		6. [taste](dic://taste), [taste sensation](dic://taste sensation), [gustatory sensation](dic://gustatory sensation), [taste perception](dic://taste perception), [gustatory perception](dic://gustatory perception), [flavorsomeness](dic://flavorsomeness), [flavoursomeness](dic://flavoursomeness)
-	2. insipid
+	2. insipid (sapid, insipid, tepid, vapid, )
 		1. in-不 , 无 + sip-[=sap] + id → 无味的。
 		2. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding)
 		3. [bland](dic://bland), [flat](dic://flat), [flavorless](dic://flavorless), [flavourless](dic://flavourless), [savorless](dic://savorless), [savourless](dic://savourless), [vapid](dic://vapid)
@@ -4125,7 +4156,7 @@
 		15. imprescriptibility
 	11. imperscriptible
 	12. proscribe
-		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
 		2. vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
 		3. 1 - pro-,在前，提前，-scribe,写，词源同 describe,prescribe.即写在前面的话，说在前面的丑话，引申词义禁令，禁止。
 		4. _v._ [command](dic://command), [require](dic://require), [compel](dic://compel)
@@ -4458,18 +4489,19 @@
 	2. scrutable
 		1. _[scrutable](dic://scrutable)_  adj. 可以了解的；可解读的
 	3. inscrutable, inscrutably
-		1. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative, inexplicable,) 
-		2. in-不，非 + scrut-分割，分开 + -able. 即不可分开的，难以分析的，引申词义难以理解的。
-		3. a. 难以了解的, 不能预测的
-		4. _adj._ [inexplicable](dic://inexplicable), [incomprehensible](dic://incomprehensible)
-		5. _n._ [explicable](dic://explicable)
-		6. **enigmatic**谜的;**incomprehensible**费解的;**mysterious**神秘的;**baffling**令人困惑的;**impenetrable**不能穿过的;**enigma**谜，不可思议的东西;**cryptic**秘密的,隐秘的;**idiosyncratic**特殊物质的,特殊的,异质的;**obscure**模糊的;**esoteric**秘传的;**inexplicable**无法说明的;
-		7. his impenetrable eyes and inscrutable countenance give little away. /他让人捉摸不透的眼神和深不可测的表情几乎什么也没流露。
-		8. “It is not for me to attempt to fathom the inscrutable workings of Providence” (Earl of Birkenhead) /“我并不想明白上帝神秘工作的义务” （伯克黑德中的厄尔）
-		9. I do not know to what inscrutable Nirvana you aim. Do you know yourself /我不知道你寻求的是什么不可思议的涅盘。你自己知道吗？
-		10. For 19 years, the Fed was run by the famously inscrutable Alan Greenspan. /美联储的前19年是由知名的谜一般的艾伦·格林斯潘执掌。
-		11. Inscrutable people don't show their emotions so they are very difficult to get to know /高深莫测的人不会表露自己的情感，所以人们很难了解他们。
-	4. scrutator
+		1. (scruple, scrupulous, scrutiny, inscrutable, scrumptious, sumptuous, )
+		2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative, inexplicable, convoluted) 
+		3. in-不，非 + scrut-分割，分开 + -able. 即不可分开的，难以分析的，引申词义难以理解的。
+		4. a. 难以了解的, 不能预测的
+		5. _adj._ [inexplicable](dic://inexplicable), [incomprehensible](dic://incomprehensible)
+		6. _n._ [explicable](dic://explicable)
+		7. **enigmatic**谜的;**incomprehensible**费解的;**mysterious**神秘的;**baffling**令人困惑的;**impenetrable**不能穿过的;**enigma**谜，不可思议的东西;**cryptic**秘密的,隐秘的;**idiosyncratic**特殊物质的,特殊的,异质的;**obscure**模糊的;**esoteric**秘传的;**inexplicable**无法说明的;
+		8. his impenetrable eyes and inscrutable countenance give little away. /他让人捉摸不透的眼神和深不可测的表情几乎什么也没流露。
+		9. “It is not for me to attempt to fathom the inscrutable workings of Providence” (Earl of Birkenhead) /“我并不想明白上帝神秘工作的义务” （伯克黑德中的厄尔）
+		10. I do not know to what inscrutable Nirvana you aim. Do you know yourself /我不知道你寻求的是什么不可思议的涅盘。你自己知道吗？
+		11. For 19 years, the Fed was run by the famously inscrutable Alan Greenspan. /美联储的前19年是由知名的谜一般的艾伦·格林斯潘执掌。
+		12. Inscrutable people don't show their emotions so they are very difficult to get to know /高深莫测的人不会表露自己的情感，所以人们很难了解他们。
+	5. scrutator
 3. screed
 	1. n. 冗长的文章；[地质] 砂浆层
 	2. _n._ [harangue](dic://harangue), [rant](dic://rant), [ranting](dic://ranting), [writing](dic://writing), [written material](dic://written material), [piece of writing](dic://piece of writing), [strip](dic://strip)
@@ -4484,20 +4516,23 @@
 	5. 
 	6. schrod
 6. scroll
-	1.  [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curl](dic://curl), [curlicue](dic://curlicue), [ringlet](dic://ringlet), [gyre](dic://gyre)
-	2. _n._ [round shape](dic://round shape), [manuscript](dic://manuscript), [holograph](dic://holograph)
-	3. _v._ [move](dic://move)
-	4. **click**点击;**browse**浏览;**clicking**微小静电干扰声;**sidebar**工具条;**cursor**游标，指针;**page**页;**swipe**猛击;
-	5. scroll a document; scroll a page of text. /卷动一篇报告；翻滚一页文章
-	6. He was presented with a scroll commemorating his achievements /他被授予一幅卷轴, 以表彰其所做出的成就。
-	7. Ron unrolled the scroll and began to read /罗恩打开纸卷看了起来。
-7. shred
-8. shrew (eschew)
+	1. n. 卷轴, 画卷, 名册, 条幅, 滚动  v. (使)成卷形
+	2. 来自古法语 escroe,碎片，纸卷，羊皮纸卷轴，来自 Proto-Germanic*skrauth,碎片，来自 PIE*sker,砍，剪，切，词源同 shear,share,shred.引申词义画卷，卷形物等。
+	3.  [coil](dic://coil), [whorl](dic://whorl), [roll](dic://roll), [curl](dic://curl), [curlicue](dic://curlicue), [ringlet](dic://ringlet), [gyre](dic://gyre)
+	4. _n._ [round shape](dic://round shape), [manuscript](dic://manuscript), [holograph](dic://holograph)
+	5. _v._ [move](dic://move)
+	6. **click**点击;**browse**浏览;**clicking**微小静电干扰声;**sidebar**工具条;**cursor**游标，指针;**page**页;**swipe**猛击;
+	7. scroll a document; scroll a page of text. /卷动一篇报告；翻滚一页文章
+	8. He was presented with a scroll commemorating his achievements /他被授予一幅卷轴, 以表彰其所做出的成就。
+	9. Ron unrolled the scroll and began to read /罗恩打开纸卷看了起来。
+8. shred
+9. shrew (eschew)
 	1. [termagant](dic://termagant)
 	2. [shrewmouse](dic://shrewmouse)
 	3. _n._ [unpleasant woman](dic://unpleasant woman), [disagreeable woman](dic://disagreeable woman), [insectivore](dic://insectivore)
 	4. **toad**蟾蜍;**rat**鼠;**weasel**逃避;**rodent**啮齿目动物;**mammal**哺乳动物;**squirrel**松鼠;**mole**痣;**frog**青蛙;**sparrow**麻雀;**otter**水獭;**cougar**美洲狮，美洲豹;
-	5. shrewd
+	5. Who would want to visit with such a stale shrew? /谁会对这么个老泼妇的陈旧故事感兴趣呢？
+	6. shrewd
 10. shroud
 
 
@@ -4786,8 +4821,8 @@
 		3. mirrorstone
 		4. mirroring
 	6. mirth 
-		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
-		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 		3. 来自 merry,欢乐的，-th,名词后缀。 mir-惊奇 + -th → 惊喜状态 → 欢乐。
 		4. n. 欢笑, 欢乐, 愉快
 		5.  [hilarity](dic://hilarity), [mirthfulness](dic://mirthfulness), [glee](dic://glee), [gleefulness](dic://gleefulness)
@@ -4796,15 +4831,16 @@
 		8. The announcement was greeted with much hilarity and mirth. /这一项宣布引起了热烈的欢呼声。
 		9. His mind was boiling with mirth, fear and pride. /快意、恐惧、自豪一起在他心头翻腾。
 		10. mirthful
-			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, )
-			2.  [gay](dic://gay), [jocund](dic://jocund), [jolly](dic://jolly), [jovial](dic://jovial), [merry](dic://merry)
-			3.  [amusing](dic://amusing), [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [risible](dic://risible)
-			4. _adj._ [joyous](dic://joyous), [humorous](dic://humorous), [humourous](dic://humourous)
-			5. _n._ [joyless](dic://joyless), [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
-			6. **joyous**令人高兴的;**joyful**欢喜的;**light-hearted**轻松的;**laughter**笑声;**wry**面部肌肉扭曲的;**mischievous**淘气的, 顽皮的;**exuberant**兴高采烈的;**boisterous**热闹的;**merry**愉快的;**cheerful**高兴的;**jolly**愉快的;
-			7. _[Mirthful Jester](dic://Mirthful%20Jester)_ 愉快的弄臣
-			8. _[a mirthful laugh](dic://a%20mirthful%20laugh)_ 一阵欢乐的笑声
-			9. She laughed and I laughed too; but her laugh was mirthful and childlike, while mine, I felt, was strained /她笑了，我也跟着笑了；她笑得像孩子似的开心，而我觉得自己笑得有些勉强。
+			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
+			3.  [gay](dic://gay), [jocund](dic://jocund), [jolly](dic://jolly), [jovial](dic://jovial), [merry](dic://merry)
+			4.  [amusing](dic://amusing), [comic](dic://comic), [comical](dic://comical), [funny](dic://funny), [laughable](dic://laughable), [risible](dic://risible)
+			5. _adj._ [joyous](dic://joyous), [humorous](dic://humorous), [humourous](dic://humourous)
+			6. _n._ [joyless](dic://joyless), [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+			7. **joyous**令人高兴的;**joyful**欢喜的;**light-hearted**轻松的;**laughter**笑声;**wry**面部肌肉扭曲的;**mischievous**淘气的, 顽皮的;**exuberant**兴高采烈的;**boisterous**热闹的;**merry**愉快的;**cheerful**高兴的;**jolly**愉快的;
+			8. _[Mirthful Jester](dic://Mirthful%20Jester)_ 愉快的弄臣
+			9. _[a mirthful laugh](dic://a%20mirthful%20laugh)_ 一阵欢乐的笑声
+			10. She laughed and I laughed too; but her laugh was mirthful and childlike, while mine, I felt, was strained /她笑了，我也跟着笑了；她笑得像孩子似的开心，而我觉得自己笑得有些勉强。
 		11. mirthless
 	8. marvel
 		1. 来自古法语 marveille,惊讶，惊奇，奇迹，来自拉丁语 mirari,感到惊讶和惊奇，词源同mirror, miracle,smile.
@@ -6718,14 +6754,14 @@
 	10. distance
 		1. distant
 	11. ecstatic
-		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
-		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 		3. _adj._ [joyous](dic://joyous)
 		4. _n._ [joyless](dic://joyless)
 		5. **elated**兴高采烈的;**overjoyed**万分高兴的, 欣喜若狂的;**giddy**头晕的;**thrilled**非常兴奋的;**excited**激动的;**delighted**喜欢的, 高兴的;**joyous**令人高兴的;**happy**高兴的;**exuberant**兴高采烈的;**enthusiastic**满腔热情的, 热心的;**shocked**震撼的;tatic
 		6. [enraptured](dic://enraptured), [rapturous](dic://rapturous), [rapt](dic://rapt), [rhapsodic](dic://rhapsodic)
-		8. ecstasize
-		9. ecstacy
+		7. ecstasize
+		8. ecstacy
 	13. epistemic
 		1. epi-周围 + stem-站立 + -ic表形容词
 		2. epi-,在上，在中，-stem,站，词源同 stand.即站在中间，进行探索和认知，参照 understand.
@@ -7333,21 +7369,26 @@
 ### + \*steig- + = to stick, pointed
 1. **stigm-** = mark, 表示“标志，斑点”。
 	1. anastigmat
-	2. astigmatic, astigmatical, astigmatism, astigmatizer
+	2. astigmatic
+		1. astigmatical
+		2. astigmatism
+		3. astigmatizer
 	3. stigma
 		1. stigmatic
 		2. stigmatize, destigmatize
 		3. stigmatose
 	4. 
 2. **stinct-, stimul-** = prick, 表示“刺，刺激”。
-	1. instinct, instinctive
-	2. stimulate, stimulant
-		1. stimulatory
-		2. stimulator
-		3. stimulative
-		4. stimulation
-		5. 
-	3. distinct
+	1. instinct
+		1. instinctive
+	2. stimulate
+		1. stimulant
+		2. stimulatory
+		3. stimulator
+		4. stimulative
+		5. stimulation
+		6. 
+	4. distinct
 		1. indistinct
 		2. distinctor
 		3. distinctometer
@@ -7355,7 +7396,7 @@
 		5. distinctly
 		6. distinctive
 		7. distinction
-	4. distinguish
+	5. distinguish
 		1. undistinguished
 		2. undistinguishably
 		3. undistinguishable
@@ -7363,7 +7404,9 @@
 		5. distinguished
 		6. diistinguishable
 		7. contradistinguish
-	5. extinct, extinguish
+	6. extinct
+		1. extinguish
+		2. 
 	7. stimuli, stimulus
 	8. instigate
 		1. **incite**煽动;**provoke**激怒;**initiate**开始，创始;**engage**雇佣;**induce**引诱;**facilitate**使便利, 减轻…的困难;**inciting**刺激的;**thwart**反对;**stimulate**刺激;**suppress**抑制;**disrupt**使分裂;
@@ -7533,13 +7576,14 @@
 	25. astern
 		1. [aft](dic://aft), [abaft](dic://abaft)
 1. stork
-	2. _[white stork](dic://white%20stork)_  白鹳
-	3. _[black stork](dic://black%20stork)_  黑鹳
-	4. **bird**鸟;**baby**婴儿，婴孩;**owl**猫头鹰;**giraffe**长颈鹿;**swan**天鹅;**pigeon**鸽子;**frog**青蛙;**swans**天鹅;**sparrow**麻雀;**nest**巢，窝;**birds**鸟类;
+	1. _[white stork](dic://white%20stork)_  白鹳
+	2. _[black stork](dic://black%20stork)_  黑鹳
+	3. **bird**鸟;**baby**婴儿，婴孩;**owl**猫头鹰;**giraffe**长颈鹿;**swan**天鹅;**pigeon**鸽子;**frog**青蛙;**swans**天鹅;**sparrow**麻雀;**nest**巢，窝;**birds**鸟类;
 2. strut
-	1. [prance](dic://prance), [swagger](dic://swagger)
-	2. [tittup](dic://tittup), [swagger](dic://swagger), [ruffle](dic://ruffle), [prance](dic://prance), [sashay](dic://sashay), [cock](dic://cock)
-	3. [gait](dic://gait), [brace](dic://brace), [bracing](dic://bracing)
+	1. (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk)
+	2. [prance](dic://prance), [swagger](dic://swagger)
+	3. [tittup](dic://tittup), [swagger](dic://swagger), [ruffle](dic://ruffle), [prance](dic://prance), [sashay](dic://sashay), [cock](dic://cock)
+	4. [gait](dic://gait), [brace](dic://brace), [bracing](dic://bracing)
 		1. [walk](dic://walk) 最常用词，中性词，指除跑、跳之外所有移步的动作。
 		2. [stride](dic://stride) 着重步子大而且节奏有力，流露出匆忙、烦恼、得意等情绪。
 		3. [stroll](dic://stroll) 多指走走停停，步子缓慢，悠闲自得，漫无目的。
@@ -7902,13 +7946,13 @@
 		5. [oblige](dic://oblige) 指由于生理上或道德上的需要，促使某人做某事，也指有权威的人或机构迫使某人做某事，还可指在特定情况下被迫作出的反应。
 		6. **restrict**限制;**restrain**抑制，控制;**curtail**截断, 缩短;**confine**限制;**impede**阻止;**inhibit**抑制;**hinder**成为阻碍;**constraints**强制;**dictate**命令;**constraint**约束;**define**定义;
 		7. constrict
-			1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+			1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
 			2. _v._ [tighten](dic://tighten)
 			3. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
 		9. constringe
 			1. _constringe_  vt. 使收敛；使收缩；压缩
 	13. restrain (refrain)
-		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
 		2. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
 		3.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		4. [confine](dic://confine), [hold](dic://hold)
@@ -8311,8 +8355,8 @@
 			6. They were in a state of euphoria after the baby was born. /孩子出生后, 他们沉醉在狂喜之中。
 			7. I cannot tell you the euphoria in the room. /我形容不出那时在房间里的愉悦。
 		10. euphoric 
-			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, )
-			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth)
+			1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
+			2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 			3. _adj._ [euphoriant](dic://euphoriant), [expansive](dic://expansive)
 			4. _n._ [dysphoric](dic://dysphoric), [distressed](dic://distressed), [unhappy](dic://unhappy)
 			5. **euphoria**精神欢快，欣快;**ecstatic**狂喜的;**giddy**头晕的;**ecstasy**狂喜;**blissful**充满喜悦的;**heady**易使人醉〔发晕〕的;**intoxicating**醉人的;**joyous**令人高兴的;**elated**兴高采烈的;**exhilarating**令人振奋的;**feeling**感觉，触觉;
@@ -8655,13 +8699,12 @@
 	23. sulfamethoxypyridazine
 	24. sulfuric
 4. **sult-** = 表示“闷热”。源自古英语 sweltan "to die, perish."
-	1. sultry
+	1. sultry (stuffy, frowst, sultry, swelter, muggy, sere, smothering, steamy, sizzling, scorching)
 		1. [sensual](dic://sensual)
 		2. [stifling](dic://stifling), [sulfurous](dic://sulfurous), [sulphurous](dic://sulphurous)
 		3. _adj._ [hot](dic://hot)
 		4. _n._ [cold](dic://cold)
 		5. **seductive**诱惑的;**sexy**性感的;**alluring**迷人的，吸引人的;**steamy**蒸汽的;**sensual**感觉的;**luscious**甘美的;**sizzling**极热的;**soulful**感情上的;**sassy**无礼的;**dreamy**梦想的;**scorching**极热的;
-		6. stuffy, frowst, sultry, swelter, muggy
 		7. _[sultry weather](dic://sultry%20weather)_  闷热天气 
 		8. a sultry look; a sultry dances /猥亵的表情；淫荡舞蹈
 		9. she had a sultry, sulky mouth. /她总爱怨天尤人。
@@ -8671,10 +8714,10 @@
 		13. For a seaside experience with a difference, head to the north or west to discover sultry black sand beaches. /若想尝试不一样的海边体验，可以前往北边或西边 体验燠热的黑沙滩。
 	3. sultrily
 	4. sultriness
-	5. swelter (welter)
-		1. _v._ [suffer](dic://suffer), [sweat](dic://sweat), [sudate](dic://sudate), [perspire](dic://perspire)
-		2. **scorching**极热的;**humid**潮湿的;**heat**热度;**chilly**寒冷的，凉飕飕的;**frigid**寒冷的，严寒的;**summertime**夏季;**summer**夏季;**air-conditioning**空调设备;**winter**冬季;**cold**寒冷的;**sweaty**出汗的;
-		3. stuffy, frowst, sultry, swelter, muggy
+	5. swelter (welter, helter-skelter, swelter)
+		1. (stuffy, frowst, sultry, swelter, muggy, sere, smothering, steamy, sizzling, scorching)
+		2. _v._ [suffer](dic://suffer), [sweat](dic://sweat), [sudate](dic://sudate), [perspire](dic://perspire)
+		3. **scorching**极热的;**humid**潮湿的;**heat**热度;**chilly**寒冷的，凉飕飕的;**frigid**寒冷的，严寒的;**summertime**夏季;**summer**夏季;**air-conditioning**空调设备;**winter**冬季;**cold**寒冷的;**sweaty**出汗的;
 5. swale
 	1. n. 沼泽地, 低洼地
 
@@ -8683,21 +8726,39 @@
 1. **son-** = sound, 表示“声音”。源自拉丁语 sonus "a sound," sonare "to sound."
 	1. sonar
 	2. sonant
-		1. absonant
-	3. sonata
-	4. sonatina
-	5. assonance, assonant
-	6. consonant
-		1. inconsonant
-		2. consonantly
-		3. consonantal
-		4. consonance, inconsonance
-	7. dissonance
-	8. hypersonic
-	9. infrasonic
-	10. insonate
-	11. near-sonic
-	12. person
+		1. adj. 有浊音的；声音的 
+		2. n. 浊音；有声音；有声字母
+		3. [voiced sound](dic://voiced sound)
+		4. [voiced](dic://voiced), [soft](dic://soft)
+		5. _n._ [phone](dic://phone), [speech sound](dic://speech sound), [sound](dic://sound)
+		6. **consonant**辅音;**syllable**音节;**vowel**元音;**vowels**元音，母音;**harmonic**和声的;**phonetic**语音的，语音学的;**chromatic**有颜色的,颜色鲜艳的;**utterance**说话;**pronunciation**发音;**tonal**音调的;**noun**名词;
+		7. And a trend of devocalization in **sonant** can also be found /辅音清浊对立逐渐消失，有浊音清化的趋势。
+		8. absonant
+	4. sonata
+	5. sonatina
+	6. assonance, assonant
+	7. consonant
+		1. _n._ [phone](dic://phone), [speech sound](dic://speech sound), [sound](dic://sound), [letter](dic://letter), [letter of the alphabet](dic://letter of the alphabet), [alphabetic character](dic://alphabetic character)
+		2. _adj._ [harmonious](dic://harmonious), [consistent](dic://consistent)
+		3. _n._ [vowel](dic://vowel), [vowel sound](dic://vowel sound)
+		4. _n._ [inharmonious](dic://inharmonious), [unharmonious](dic://unharmonious), [inconsistent](dic://inconsistent)
+		5. **vowel**元音;**vowels**元音，母音;**syllable**音节;**phonetic**语音的，语音学的;**pronunciation**发音;**dialects**乡土语言，方言;**lexical**词汇的;**nouns**名词;**alveolar**肺泡的;**utterance**说话;**suffix**添后缀;
+		6. _initial consonant_ 开首辅音
+		7. _consonant cluster_ 辅音连缀；辅音音丛
+		8. We can move that consonant to any vowel at the beginning of the next word. /我们可以把这个辅音连到下一个单词开头的元音，无论这个元音是什么。
+		9. Now, a glottal stop is an audible consonant created by blocking the flow of air. /现在，喉塞音是通过阻止空气流动而产生的听得见的辅音。
+		10. inconsonant
+		11. consonantly
+		12. consonantal
+		13. consonance, inconsonance
+	9. dissonance
+	10. hypersonic
+	11. infrasonic
+	12. insonate
+		1. 1. vt. 使…受声波的作用
+		2. vi. 受到声波的作用
+	13. near-sonic
+	14. person
 		1. unperson
 		2. spokesperson, salesperson
 		4. personnel
@@ -8725,31 +8786,39 @@
 		13. layperson
 		14. personate
 			1. **deceive**欺骗;**imitate**模仿，仿效;**portray**描绘;**countenance**面容，表情;**amuse**使发笑;**seduce**引诱;**accomplice**从犯, 帮凶, 同谋;
-		15. impersonate
-			1. impersonative
-			2. impersonation
-			3. impersonator
-			4. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [deception](dic://deception), [deceit](dic://deceit)
-			5. **imitation**模仿, 仿效;**spoof**①滑稽的模仿;**parody**拙劣的模仿;**forgery**伪造;**persona**人物角色;**imitating**模仿;**skit**讽刺文;**fraud**欺骗;**fake**假货;**fraudulent**欺骗的,不诚实的;**comedian**喜剧演员;
-	13. resonate
-		1. re-,向后，往回，-son,声音，词源同 sound,sonorous.即回声，引申词义共鸣，回响。
-		2. v. （嗓音、乐器等）产生共鸣；发出回响；回荡
-		3. （使）回响，起回声
-		4. 使产生联想；引起共鸣；和…的想法（或观念）类似
-		5. [vibrate](dic://vibrate)
-		6.  [come across](dic://come across)
-		7. _v._ [sound](dic://sound), [go](dic://go)
-		8. **evoke**引起，唤起;**inspire**鼓舞;**resonant**共鸣的;**convey**传达;**amplify**放大，扩大;**relate**联系起来;**resonance**回响, 回荡;**embody**体现，使具体化;**powerfully**强大地;**excite**刺激…，使…兴奋;**connect**连接;
-		9. _[resonating](dic://resonating)_  v. 产生共鸣；回响；使产生联想；产生（电或机械）共振；（对某人）有重要性（resonate 的现在分词）; adj. 产生共鸣的; n. 感通; 
-		10. _[resonate with](dic://resonate%20with)_  与……共鸣; 共振;
-		11. the sound of the siren resonated across the harbour. /汽笛声在整个港口回荡。
-		12. the words resonate with so many different meanings. /这些词使人们想起很多不同的意义。
-		13. Dickens’s sparkling language and panoramic worldview continue to resonate. /狄更斯卓越的文字驾驭能力和广大的世界观让读者们持续产生共鸣。
-		14. So I think that's why it really resonates with folks. /所以我想也正因此它能引起人们的共鸣。
-		15. And they're not just here tonight because they resonated with audiences Hollywood often ignores. /他们今晚来这里不仅仅是因为他们要和好莱坞常常忽视的观众产生共鸣。
-		16. 
-		17. resonance, resonant
-	15. sonic
+		15. impersonate (imposter, impersonate)
+			1. vt. 模仿, 扮演, 体现, 使人格化
+			2. im-进入 + person【人】 + -ate, 表动词 → 进入别人 → 扮演别人。
+			3. _v._ [act](dic://act), [play](dic://play), [represent](dic://represent), [mock](dic://mock), [deceive](dic://deceive), [betray](dic://betray), [lead astray](dic://lead astray)
+			4. **deceive**欺骗;**pretending**假装的;**imitate**模仿，仿效;**assassinate**暗杀，行刺;**disguise**假装;**harass**使烦恼;**mimic**模仿，摹拟;**authenticate**证明是真实的、可靠的或有效的;**kidnap**绑架;**intimidate**恐吓, 威胁;**steal**剽窃;
+			5. it's a very serious offence to impersonate a police officer. /假冒警官是重罪。
+			6. The rendering of the zhoufang the positive just right solum impersonate this magic power. /周昉的渲染正恰到好处地体现出这一魅力。
+			7. I'm impersonating my dull as dishwater doppelganger, Elena. She has the worst taste /我要假扮我那无趣透顶的二重身，埃琳娜。她品位奇差无比。
+			8. impersonative
+			9. impersonation
+				1. [wit](dic://wit), [humor](dic://humor), [humour](dic://humour), [witticism](dic://witticism), [wittiness](dic://wittiness), [deception](dic://deception), [deceit](dic://deceit)
+				2. **imitation**模仿, 仿效;**spoof**①滑稽的模仿;**parody**拙劣的模仿;**forgery**伪造;**persona**人物角色;**imitating**模仿;**skit**讽刺文;**fraud**欺骗;**fake**假货;**fraudulent**欺骗的,不诚实的;**comedian**喜剧演员;
+			10. impersonator
+	15. resonate
+		1. (reverberate, resonate, echo)
+		2. re-,向后，往回，-son,声音，词源同 sound,sonorous.即回声，引申词义共鸣，回响。
+		3. v. （嗓音、乐器等）产生共鸣；发出回响；回荡
+		4. （使）回响，起回声
+		5. 使产生联想；引起共鸣；和…的想法（或观念）类似
+		6. [vibrate](dic://vibrate)
+		7.  [come across](dic://come across)
+		8. _v._ [sound](dic://sound), [go](dic://go)
+		9. **evoke**引起，唤起;**inspire**鼓舞;**resonant**共鸣的;**convey**传达;**amplify**放大，扩大;**relate**联系起来;**resonance**回响, 回荡;**embody**体现，使具体化;**powerfully**强大地;**excite**刺激…，使…兴奋;**connect**连接;
+		10. _[resonating](dic://resonating)_  v. 产生共鸣；回响；使产生联想；产生（电或机械）共振；（对某人）有重要性（resonate 的现在分词）; adj. 产生共鸣的; n. 感通; 
+		11. _[resonate with](dic://resonate%20with)_  与……共鸣; 共振;
+		12. the sound of the siren resonated across the harbour. /汽笛声在整个港口回荡。
+		13. the words resonate with so many different meanings. /这些词使人们想起很多不同的意义。
+		14. Dickens’s sparkling language and panoramic worldview continue to resonate. /狄更斯卓越的文字驾驭能力和广大的世界观让读者们持续产生共鸣。
+		15. So I think that's why it really resonates with folks. /所以我想也正因此它能引起人们的共鸣。
+		16. And they're not just here tonight because they resonated with audiences Hollywood often ignores. /他们今晚来这里不仅仅是因为他们要和好莱坞常常忽视的观众产生共鸣。
+		17. 
+		18. resonance, resonant
+	16. sonic
 		1. sonics
 		2. soniferous
 		3. subsonic
@@ -8761,26 +8830,26 @@
 		9. intrasonic
 		10. resonoscope
 		11. stereosonic
-	16. sonnet
+	17. sonnet
 		1. **poem**诗;**poems**诗歌，诗集;**poetry**诗;**stanza**诗节;**haiku**俳句;**lyric**抒情的;**poet**诗人;**Keats**济慈;**verse**诗，诗篇;**poetic**诗的，诗歌的;**Shakespeare**莎士比亚;
 		2. [praise](dic://praise), [verse](dic://verse), [versify](dic://versify), [poetize](dic://poetize), [poetise](dic://poetise)
-	17. sonobuoy
-	18. sonometer
-	19. sonorific
-	20. sonority
+	18. sonobuoy
+	19. sonometer
+	20. sonorific
+	21. sonority
 		1. **melodic**有旋律的;**tonal**音调的;**melody**旋律;**harmonic**和声的;**symphonic**交响乐的;**orchestral**管弦乐队的;**harmonics**和声学;**rhythmic**间歇的;**consonant**辅音;**chromatic**有颜色的,颜色鲜艳的;**octave**八度音阶;
-	21. sonorous
+	22. sonorous
 		1. **baritone**男中音;**resonant**共鸣的;**melodic**有旋律的;**evocative**引起…记忆的, 唤起…感情的;**rhythmic**间歇的;**muffled**听不清的;**velvety**天鹅绒般柔软的;**poetic**诗的，诗歌的;**eloquent**雄辩的，有口才的;**expressive**表达的;**sound**使发声;
-	22. unison
+	23. unison
 		1. **clapping**掌声;**chorus**合唱队;**harmony**协调;**loudly**大声地，响亮地;**simultaneously**同时地;**clap**鼓掌，拍手;**chant**圣歌;**chanting**念咒;**silently**静静地;**sing**唱歌;**synchronized**同步的;
-	23. sonance
+	24. sonance
 		1. _[sonance](dic://sonance)_  n. 声音；有声状态
-	24. sonancy
-	25. sonication
-	26. sonodome
-	27. sonogram
-	28. sonography
-	29. etc..
+	25. sonancy
+	26. sonication
+	27. sonodome
+	28. sonogram
+	29. sonography
+	30. etc..
 3. sound
 4. swan
 
@@ -8788,7 +8857,7 @@
 ### + \*swep- +
 #### swep(1) = to throw, sling, cast
 1. dissipate (disperse, asperse, )
-	1. 
+	1. (profligate, dissipate, fritter, profuse, squander, extravagant, improvident, prodigal, )
 	2. dis-,分开，散开，-sip,扔，分散。引申词义挥霍，浪费。
 	3. **evaporate**蒸发;**subside**平息;**disperse**使散开;**absorb**吸收;**vanish**消失;**diminish**使减少;**fade**褪色;**disappear**不见, 消失;**dissolve**使溶解;**radiate**传播;**intensify**增强, 加剧;
 	4. [separate](dic://separate), [divide](dic://divide), [part](dic://part), [split](dic://split), [consume](dic://consume), [squander](dic://squander), [waste](dic://waste)
@@ -8823,35 +8892,41 @@
 1. **hypno-**
 2. **somn-, sopor** = sleep, 「latin」 somnus "sleep, sopor, a deep sleep"
 	1. sopor
-		1. soporiferous
+		1. - n. 酣睡，迷睡
+		2. soporiferous
 			1. _adj._ [depressant](dic://depressant), [uninteresting](dic://uninteresting)
 			2. _n._ [stimulative](dic://stimulative), [interesting](dic://interesting)
-		2. soporific
+		3. soporific
 			1. _n._ [drug](dic://drug), [hypnagogue](dic://hypnagogue)
 			2. _adj._ [depressant](dic://depressant), [uninteresting](dic://uninteresting)
 			3. _n._ [stimulative](dic://stimulative), [interesting](dic://interesting)
 			4. **hypnotic**催眠的，催眠术的;**sleepy**困乏的;**narcotic**麻醉的;**soothing**使人宽心的;**inane**愚蠢的;**intoxicating**醉人的;**banal**陈腐的;**stimulant**兴奋剂;**hangover**宿醉;**noxious**有害的;**calming**平静的;
-		3. soporose
-		4. soporous
-	2. insomnia
-		1. insomniac
-		2. insomnious
-	3. semisomnus
+		4. soporose
+		5. soporous
+	3. insomnia
+		1. _n._ [sleep disorder](dic://sleep disorder)
+		2. _n._ [hypersomnia](dic://hypersomnia)
+		3. **sleep**睡，睡觉;**migraine**偏头痛;**anxiety**焦虑;**tiredness**疲劳;**depression**沮丧;**tinnitus**耳鸣;**apnea**窒息，呼吸暂停;**nausea**恶心，晕船;**constipation**便秘;**heartburn**心痛,妒忌;**melatonin**褪黑激素;
+		4. Work nonstop continuously, exhaustion of as a result, nervily, a little be frighted namely insomnia person; /连续不休息地工作，以致疲劳，神经过敏，稍微受惊即失眠者；
+		5. Acute insomnia lasts less than a month, whereas chronic insomnia lasts over a month. /急性失眠症发作持续时间小于一个月，慢性的则会持续一个月以上。
+		6. insomniac
+		7. insomnious
+	4. semisomnus
 		1. _._ 轻昏迷,半昏迷
-	4. somnambulate
+	5. somnambulate
 		1. somnambulator, somnambulation, 
 		2. somnambulism, somnambulist, somnambulistic
-	5. somniferous
+	6. somniferous
 		1. _adj._ [depressant](dic://depressant)
 		2. _n._ [stimulative](dic://stimulative)
 		3. **stimulant**兴奋剂;**narcotic**麻醉的;**hypnotic**催眠的，催眠术的;**intoxicating**醉人的;**insomnia**失眠症，失眠;**melatonin**褪黑激素;**noxious**有害的;**tonic**补药;**pungent**刺激性的;
-	6. somniloquence
+	7. somniloquence
 		1. somniloquist
 		2. somniloquous
 		3. somniloquy
-	7. somnopath, somnipathy
+	8. somnopath, somnipathy
 		1. n. 睡眠障碍
-	8. somnolency, somnolent
+	9. somnolent
 		1. (lethargic, somnolent, slumberous, hypersomnia, dozy,  slumbrous, slumbery)
 		2. [slumberous](dic://slumberous), [slumbery](dic://slumbery), [slumbrous](dic://slumbrous)
 		3. **sleepy**困乏的;**restless**焦躁不安的;**hypnotic**催眠的，催眠术的;**slumber**睡眠;**hapless**运气不好的，倒霉的;**agitated**激动的;**nocturnal**在夜间的;**sluggish**萧条的;**blissful**充满喜悦的;**awake**觉醒，意识到;**disinterested**不感兴趣的;
@@ -8859,6 +8934,10 @@
 		5. _[dozy somnolent soporific](dic://dozy%20somnolent%20soporific)_ 想睡的
 		6. _[somnolent metabolic rate](dic://somnolent%20metabolic%20rate)_ 睡眠代谢率
 		7. _n._ 想睡,梦幻
+		8. a somnolent summer day. /一个令人昏昏欲睡的夏日。
+		9. The sedative makes people very **somnolent** /镇定药让人昏昏欲睡。
+		10. In her ears was the voice of the stream—a hoarse-throated, sleepy old giant, muttering and mumbling his **somnolent** fancies /她听到溪水的声音——扯着沙哑的喉咙，昏昏欲睡的老巨人，在轻声低语，含混不清地说着他那使人困倦的幻想。
+		11. somnolency
 	10. sopite
 
 
@@ -8878,21 +8957,22 @@
 ## sy
 ### syco- =fig, 表示“无花果”。
 1. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
-	1. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
-	2. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
-	3. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
-	4. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
-	5. The office is a menagerie of egotists and sycophants /该办公室乃是自私者与谄媚者汇集之处。
-	6. " Tired of friends. The thing is to have sycophants" /“厌倦了朋友。事情是有马屁精” 。
-	7. Because you prefer to be in the company of sycophants /你倒喜欢跟这些马屁精混在一起。
-	8. A **sycophant** flatterer is neither a guru or a preacher. /一个谄媚者既非古茹也不是传教士。
-2. sycophancy
+	1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
+	2. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
+	3. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
+	4. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
+	5. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
+	6. The office is a menagerie of egotists and sycophants /该办公室乃是自私者与谄媚者汇集之处。
+	7. " Tired of friends. The thing is to have sycophants" /“厌倦了朋友。事情是有马屁精” 。
+	8. Because you prefer to be in the company of sycophants /你倒喜欢跟这些马屁精混在一起。
+	9. A **sycophant** flatterer is neither a guru or a preacher. /一个谄媚者既非古茹也不是传教士。
+3. sycophancy
 	1. _n._ [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
 	2. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
 	3. Seeing clearly requires a vision unclouded either by rage or by sycophancy /看得清楚需要不受愤怒或阿谀奉承的影响。
 	4. In his splenetic new book, Mr Milbank dates the " crack-up" of the Republican Party to various " destructionists" and—to appropriate the author's trademark style—their depravity, deplorability, mendacity, moral turpitude, rapacity and sycophancy. /在他那本脾气暴躁的新书中，米尔班克先生将共和党的“崩溃”归咎于各种“破坏主义者”，以及——借用作者标志性的风格——他们的堕落、可悲、虚伪、道德败坏、贪婪和阿谀奉承。
-3. sycophant
-	1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation)
+4. sycophant
+	1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
 	2. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
 	3. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
 	4. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;

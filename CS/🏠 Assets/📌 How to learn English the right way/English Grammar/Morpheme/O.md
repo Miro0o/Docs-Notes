@@ -200,9 +200,9 @@
 1. odious
 	1. a. 可憎的, 可厌的, 丑恶的
 2. odium
-	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
+	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
 	4. n. 憎恶, 讨厌, 臭名
 	5. 来自拉丁语 odi,憎恶，厌恶，来自 PIE*od,厌恶，憎恶，词源同 annoy,noisome.可能来自 PIE*od,气味，臭味，词源同 odor.
 4. annoy
@@ -230,32 +230,39 @@
 ### + \*okw- +
 1. **ocul-, oculo-** = eye, 表示“眼睛”。源自拉丁语 oculus "eye."
 	1. inoculate
+		1. vt. 接种, 给…注射预防针; 嫁接
 		2. _v._ [inform](dic://inform), [insert](dic://insert), [enclose](dic://enclose), [inclose](dic://inclose), [stick in](dic://stick in), [put in](dic://put in), [introduce](dic://introduce)
 		3. **infect**感染，传染;**isolate**使孤立;**propagate**繁殖;**infuse**使充满;**infected**被感染的;**inject**注射;**neutralize**使中立;**agar**琼脂;**ferment**发酵;**vaccine**疫苗;**cultivate**耕作, 种植
 		4. _inoculate with_ v. 灌输
-		5. inocula
+		5. Other senior government officials and frontline medics were also inoculated. /其他政府高级官员和前线医护人员也接种了疫苗。
+		6. Hundreds of thousands of people will be inoculated starting next month. /下个月将有成千上万的人接种疫苗。
+		7. The Delta variant appears to be making inroads, even in places where many are inoculated. /Delta变种病毒似乎正在攻城略地，就算是那些接种率很高的地区也不例外。
+		8. 
+		9. inocula
 			1. _[inocula](dic://inocula)_  n. 接种物（inoculum的复数）
-		6. inoculum
+		10. inoculum
 			1.  [inoculant](dic://inoculant)
 			2. _n._ [substance](dic://substance), [matter](dic://matter)
 			3. **pathogen**病原体;**agar**琼脂;**bacterial**细菌的;**biofilm**生物膜;**spores**孢子;**pathogens**病原体;**contaminant**杂质;**incubation**孵卵;**plasmid**质粒;**seeding**晶种;**germination**萌芽,发生;
 			4. _[inoculum size](dic://inoculum%20size)_  接种量
 			5. _[microbial inoculum](dic://microbial%20inoculum)_  菌剂
 			6. _[inoculum concentration](dic://inoculum%20concentration)_  接种量
-	2. ocular
-		1. oculomotor
+	3. ocular
+		1. a. 眼睛的, 用眼的, 凭视觉的, 目击的  n. 目镜
+		2. [eyepiece](dic://eyepiece)
+		4. oculomotor
 			1. _n._ [cranial nerve](dic://cranial nerve)
 			2. **cortical**皮质的;**auditory**听众;**ocular**眼睛的;**perceptual**知觉的,有知觉的;**retinal**视网膜的;**autonomic**自主的;**cortex**皮质;**stimuli**刺激;**neuronal**神经元的;**neural**神经的;**sensory**感觉的;
 			3. _oculomotor nerve_ 动眼神经
-		2. monocle
-		3. binocle
+		5. monocle
+		6. binocle
 			1. _[binocle](dic://binocle)_  n. 双目望远镜
-		4. binoculars
+		7. binoculars
 			1. _n._ [optical instrument](dic://optical instrument)
 			2. **telescope**望远镜;**flashlight**手电筒;**scopes**范围，领域;**magnification**放大;**goggles**护目镜;**magnifying**放大的;**optics**光学;**camera**照相机;**cameras**摄像机，照相机;**glasses**眼镜;**sunglasses**太阳镜,墨镜;
 			3. a binocular microscope 双目显微镜。
-		5. oculist
-	4. ferocity
+		8. oculist
+	5. ferocity
 		1. fer-野蛮 + oc-眼睛 + -ity
 		2.  [fierceness](dic://fierceness), [furiousness](dic://furiousness), [fury](dic://fury), [vehemence](dic://vehemence), [violence](dic://violence), [wildness](dic://wildness)
 		3. _n._ [intensity](dic://intensity), [intensiveness](dic://intensiveness)
@@ -283,45 +290,47 @@
 		2. optometry
 	2. achromatopsia
 	3. autopsy
-		1. [necropsy](dic://necropsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
-		2. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
-		3. _v._ [examine](dic://examine), [see](dic://see)
-		4. **coroner**验尸官;**inquest**审讯;**pathologist**病理学者;**toxicology**毒物学;**corpse**尸体;**forensic**法院的;**investigation**调查;**examination**检查, 调查;**examiner**主考人;**dissection**解剖，切开;**homicide**杀人;
-		5. autoptic
-		6. autoptical
-	4. biopsy
-		1. _n._ [diagnostic test](dic://diagnostic test), [diagnostic assay](dic://diagnostic assay)
-		2. **lesion**损害;**tumor**肿瘤;**cyst**胞,包囊,膀胱;**resection**切除术;**tumour**肿瘤;**diagnosis**诊断;**MRI**核磁共振成像;**gallbladder**胆囊;**ultrasound**超音，超声波;**tumors**肿瘤;**nodules**小瘤;
-	5. diopter
-	6. dioptric, dioptrics
+		1. necropsy ['nekrɒpsɪ] n.验尸，autopsy ['ɔːtɒpsɪ] n.验尸。二者意思接近，什么区别？necropsy侧重于对死亡牲畜等的解刨，要了解死因，词根necro-表death，如词汇necrosis坏疽，-osis后缀表disease。而autopsy侧重对人尸体的解刨，有科学需要也有司法用途，auto-表self，强调了要“亲自检验”。
+		2. [necropsy](dic://necropsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
+		3. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
+		4. _v._ [examine](dic://examine), [see](dic://see)
+		5. **coroner**验尸官;**inquest**审讯;**pathologist**病理学者;**toxicology**毒物学;**corpse**尸体;**forensic**法院的;**investigation**调查;**examination**检查, 调查;**examiner**主考人;**dissection**解剖，切开;**homicide**杀人;
+		6. autoptic
+		7. autoptical
+	5. biopsy
+		1. bi-生物 + ops-看 + -y
+		2. _n._ [diagnostic test](dic://diagnostic test), [diagnostic assay](dic://diagnostic assay)
+		3. **lesion**损害;**tumor**肿瘤;**cyst**胞,包囊,膀胱;**resection**切除术;**tumour**肿瘤;**diagnosis**诊断;**MRI**核磁共振成像;**gallbladder**胆囊;**ultrasound**超音，超声波;**tumors**肿瘤;**nodules**小瘤;
+	6. diopter
+	7. dioptric, dioptrics
 	8. erythropsia
 	9. necropsy
 		1. 1. an examination and dissection of a dead body to determine cause of death or the changes produced by disease
 		2. [autopsy](dic://autopsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
 		3. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
 		4. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
-	11. optic, optics
+	10. optic, optics
 		1.  [eye](dic://eye), [oculus](dic://oculus)
 		2.  [ocular](dic://ocular), [optical](dic://optical), [opthalmic](dic://opthalmic)
 		3.  [ocular](dic://ocular), [optical](dic://optical), [visual](dic://visual)
 		4. _n._ [sense organ](dic://sense organ), [sensory receptor](dic://sensory receptor), [receptor](dic://receptor)
 		5. _adj._ [eye](dic://eye), [oculus](dic://oculus), [sight](dic://sight), [vision](dic://vision), [visual sense](dic://visual sense), [visual modality](dic://visual modality)
 		6. **optical**光学的;**fiber**纤维;**fibre**纤维;**ocular**眼睛的;**retinal**视网膜的;**nerve**神经;**lens**透镜;**laser**激光;**coaxial**同轴的，共轴的;**peripheral**外围的;**neuropathy**神经病;
-	12. orthoptic
+	11. orthoptic
 		1. _adj._ [binocular vision](dic://binocular vision)
 		2. **ocular**眼睛的;**acuity**尖锐;**glaucoma**青光眼;**corneal**角膜的;**retinal**视网膜的;
-	13. panoptic
+	12. panoptic
 		1. 展示全景的, 一览无遗的
 		2.  [panoptical](dic://panoptical)
 		3.  [across-the-board](dic://across-the-board), [all-embracing](dic://all-embracing), [all-encompassing](dic://all-encompassing), [all-inclusive](dic://all-inclusive), [blanket(a)](dic://blanket(a)), [broad](dic://broad), [encompassing](dic://encompassing), [extensive](dic://extensive), [wide](dic://wide)
 		4. _adj._ [visible](dic://visible), [seeable](dic://seeable), [comprehensive](dic://comprehensive)
 		5. _n._ [invisible](dic://invisible), [unseeable](dic://unseeable), [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
 		6. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**utopian**空想的;**panoramic**全景的;**authoritarian**权力主义的,专制的;**panorama**全景，全貌;**postmodern**后现代主义的;**gaze**注视;**Foucault**傅科;
-	15. panopticon
+	13. panopticon
 		1. _n._ [area](dic://area), [prison](dic://prison), [prison house](dic://prison house)
 		2. **surveillance**盯梢, 监视;**totalitarian**极权主义的;**Foucault**傅科;**utopian**空想的;**prison**监狱;**dystopian**反面乌托邦的,反面假想国的;
 		3. _[panopticon](dic://panopticon)_  n. 圆形监狱
-	16. synoptic
+	14. synoptic
 		1. (compendium, precis, brief, synoptic, digest, abstract, conspectus, gist, summary, )
 		2. _adj._ [outline](dic://outline), [synopsis](dic://synopsis), [abstract](dic://abstract), [precis](dic://precis), [same](dic://same)
 		3. _n._ [different](dic://different)
@@ -339,17 +348,17 @@
 			3. _adj._ [same](dic://same)
 			4. _n._ [different](dic://different)
 			5. **assemblage**聚集;**textual**本文的;**meteorological**气象的;**supplementary**增补的;**taxonomic**分类学的;
-	18. xanthopsia
+	15. xanthopsia
 		1. _[xanthopsia](dic://xanthopsia)_  n. [医] 黄视症，[眼科] 视物显黄症
-	19. amblyopia
-	20. antelop
-	21. cyclop
-	22. deuteranopia
-	23. diplopia
+	16. amblyopia
+	17. antelop
+	18. cyclop
+	19. deuteranopia
+	20. diplopia
 		1. 1. isual impairment in which an object is seen as two objects diplopia often disappears when one eye is covered
 		2. _n._ [visual impairment](dic://visual impairment), [visual defect](dic://visual defect), [vision defect](dic://vision defect), [visual disorder](dic://visual disorder)
 		3. **dizziness**头昏眼花;**ocular**眼睛的;**numbness**麻木;**glaucoma**青光眼;**blindness**失明;**edema**瘤腺体;**acuity**尖锐;**paralysis**瘫痪;**migraine**偏头痛;**nausea**恶心，晕船;**headache**头痛;
-	24. etc..
+	21. etc..
 4. daisy
 	1. _n._ [flower](dic://flower)
 	2. **flower**花;**lily**百合花，百合;**sunflower**向日葵;**clover**苜蓿;**petal**花瓣;**cactus**仙人掌;**petals**花瓣;**chain**链;**lilac**淡紫色;**floral**用花制作的;**butterfly**蝴蝶;
@@ -942,7 +951,7 @@
 		19. usherette
 2. **oscill-** = to swing, 表示“摇摆”。源自拉丁语 oscillum，字面含义“小嘴”。古罗马的农民习惯在葡萄园里挂一张画着酒神 Bacchus 巴克斯的面具，让它在微风中摇来晃去，祈福葡萄丰收。源自表示嘴的词根“os-”。源自拉丁语 os "mouth, face, orifice"
 	1. oscillate
-		1. (oscillation, vasillation, scrupulous,  hesitate, apprehension, misgiving)
+		1. (oscillation, vacillation, scrupulous,  hesitate, apprehension, misgiving, irresolute, waver)
 		3. vi. 振动, 彷徨, 犹豫  vt. 使振动, 使动摇
 		4. os-嘴 + -cill小词 + -ate, 表动词，原指在葡萄园入口处挂上的酒神Bacchus的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，引申词义波动，使摇摆。
 		5.  来自拉丁语 os,嘴，词源同 oral,-cill,小词后缀。原指在葡萄园入口处挂上的酒神 Bacchus 的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，最终词义俗化，引申词义波动，使摇摆。
@@ -971,7 +980,7 @@
 		23. oscillator
 			1. etc...
 		24. oscillation
-			1. (oscillation, vasillation, scrupulous,  hesitate, apprehension, misgiving)
+			1. (oscillation, vacillation, scrupulous,  hesitate, apprehension, misgiving, irresolute, waver)
 			2. self-oscillation
 			3. autooscillation
 		25. oscillating, non-oscillating

@@ -3,7 +3,7 @@
 1. labor, labour
 	1. Laborite
 	2. laborious
-		1. (arduous
+		1. (arduous, laborious, industrious, assiduous, diligent, studious)
 		1.  [backbreaking](dic://backbreaking), [grueling](dic://grueling), [gruelling](dic://gruelling), [hard](dic://hard), [heavy](dic://heavy), [laborious](dic://laborious), [operose](dic://operose), [punishing](dic://punishing), [toilsome](dic://toilsome)
 		2.  [straining](dic://straining), [strenuous](dic://strenuous)
 		3. _adj._ [effortful](dic://effortful), [difficult](dic://difficult), [hard](dic://hard)
@@ -440,21 +440,7 @@
 
 
 ### lap-,laps-,lab- = slip, 表示“滑，滑走”，来自拉丁语。
-1. collapse
-	1. recollapse
-	2. collapsotherapy
-	3. collapsible
-		1. **expandable**可张开的,可扩大的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**detachable**可分开的，可拆开的;**tubular**管状的;**removable**抽取式的,可移动的;**portable**轻便的;**movable**可移动的;**lightweight**轻量级的;**folding**可折叠的;**inflatable**必须充气才能使用的;**tripod**三脚架;
-		2. [foldable](dic://foldable), [foldaway](dic://foldaway), [telescopic](dic://telescopic), [tip-up](dic://tip-up)
-		3. [noncollapsible](dic://noncollapsible), [noncollapsable](dic://noncollapsable)
-		4. _[collapsible life boat](dic://collapsible%20life%20boat)_  折叠式救生艇
-	4. collapssable
-2. elapse
-	1. [lapse](dic://lapse), [pass](dic://pass), [slip by](dic://slip by), [glide by](dic://glide by), [slip away](dic://slip away), [go by](dic://go by), [slide by](dic://slide by), [go along](dic://go along)
-	2. [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on)
-	3. **interval**间隔;**time**时间;**lapse**过失;**period**周期，期间;**seconds**秒，时刻;**delay**耽搁;**duration**持续;**before**在…之前，先于;**preceding**在先的, 在前的, 前面的;**periods**周期;**days**在白天;
-3. illapse
-4. lapse
+1. lapse
 	1.  [oversight](dic://oversight)
 	2.  [backsliding](dic://backsliding), [lapsing](dic://lapsing), [relapse](dic://relapse), [relapsing](dic://relapsing), [reversion](dic://reversion), [reverting](dic://reverting)
 	3.  [sink](dic://sink), [pass](dic://pass)
@@ -473,26 +459,74 @@
 	15. lapsus
 	16. lapsed
 	17. hydrolapse
+2. collapse
+	1. n. 崩溃; 倒塌; 晕倒; 暴跌  
+	2. v. 倒塌; 昏倒; 崩溃; 暴跌; 折叠; <医>萎陷; (劳累后）躺下放松
+	3. [flop](dic://flop)
+	4. [crash](dic://crash)
+	5.  [fall in](dic://fall in), [cave in](dic://cave in), [give](dic://give), [give way](dic://give way), [break](dic://break), [founder](dic://founder)
+	6. [break down](dic://break down)
+	7.  [crumble](dic://crumble), [crumple](dic://crumple), [tumble](dic://tumble), [break down](dic://break down)
+	8.  [burst](dic://burst)
+	9.  [crack up](dic://crack up), [crack](dic://crack), [crock up](dic://crock up), [break up](dic://break up)
+	10. _n._ [illness](dic://illness), [unwellness](dic://unwellness), [malady](dic://malady), [sickness](dic://sickness), [mishap](dic://mishap), [misadventure](dic://misadventure), [mischance](dic://mischance)
+	11. _v._ [change](dic://change), [suffer](dic://suffer), [sustain](dic://sustain), [have](dic://have), [get](dic://get), [fold](dic://fold), [fold up](dic://fold up)
+	12. [collapse](dic://collapse) 通常指房屋等突然倒塌。  
+	13. [fall](dic://fall) 一般指由于失去平衡等原因而倒塌，也可作引申用。
+	14. **disintegration**瓦解;**meltdown**熔化;**catastrophe**大灾难;**demise**死亡，终止;**catastrophic**灾难性的;**crumble**崩溃;**crisis**危机;**crumbling**皱纹;**deterioration**恶化,变坏;**downturn**低迷时期;**downfall**垮台;
+	15. _collapse mechanism_ 破坏机构
+	16. _collapse strength_ 抗挤强度；破裂强度
+	17. _collapse load_ 损毁荷载，极限载荷；破坏负荷；临界纵向荷载
+	18. In what year did the Soviet Union collapse? /苏联在哪一年解体了？
+	19. Collin Backowski had been missing since the tunnel collapsed Saturday. /这位名叫科林·拜客斯基的死者自周日隧道坍塌后一直下落不明。
+	20. recollapse
+	21. collapsotherapy
+	22. collapsible
+		1. **expandable**可张开的,可扩大的;**retractable**可收回的，可撤消的，可缩回的，可缩进的;**detachable**可分开的，可拆开的;**tubular**管状的;**removable**抽取式的,可移动的;**portable**轻便的;**movable**可移动的;**lightweight**轻量级的;**folding**可折叠的;**inflatable**必须充气才能使用的;**tripod**三脚架;
+		2. [foldable](dic://foldable), [foldaway](dic://foldaway), [telescopic](dic://telescopic), [tip-up](dic://tip-up)
+		3. [noncollapsible](dic://noncollapsible), [noncollapsable](dic://noncollapsable)
+		4. _[collapsible life boat](dic://collapsible%20life%20boat)_  折叠式救生艇
+		5. The Inflated incubator is collapsible and when folded resembles an ordinary travel bag. /这种充气恒温箱可以折叠, 折叠后就像一只普通的旅行袋。
+		6. Usually it is possible. What the Formula taught me is that every story and novel is collapsibleto some degree. /这公式教我的是，每个故事，或是长篇小说，到某个程度都会站不住脚坍塌下来。
+		7. Some varieties were collapsible and could be stored flat when not being worn. /有些款式是可折叠的，不戴时可以平放存放。
+		8. Detailed step descriptions are provided in **collapsible** sections /在折叠部分提供了详细的步骤说明。
+	23. collapssable
+3. elapse
+	1. [lapse](dic://lapse), [pass](dic://pass), [slip by](dic://slip by), [glide by](dic://glide by), [slip away](dic://slip away), [go by](dic://go by), [slide by](dic://slide by), [go along](dic://go along)
+	2. [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on)
+	3. **interval**间隔;**time**时间;**lapse**过失;**period**周期，期间;**seconds**秒，时刻;**delay**耽搁;**duration**持续;**before**在…之前，先于;**preceding**在先的, 在前的, 前面的;**periods**周期;**days**在白天;
+	4. weeks elapsed before anyone was charged with the attack. /等到有人因为这次袭击而被指控时，已经过去好几周了。
+	5. Three years have elapsed since we last met. /自从我们上次见面已经过去三年了。
+4. illapse
 5. prolapse
-	1. **stenosis**狭窄;**hernia**脱肠;**vaginal**阴道的;**incontinence**失禁;**pelvic**骨盆的;**uterine**子宫的;**hysterectomy**子宫切除;**anal**肛门的;**rupture**破裂;**bowel**肠;**rectal**直肠的;
-	2. [disability](dic://disability), [disablement](dic://disablement), [handicap](dic://handicap), [impairment](dic://impairment)
-	3.  [prolapsus](dic://prolapsus), [descensus](dic://descensus)
-	4. [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down)
+	1. n. （身体器官的）脱垂，下垂 
+	2. v. （身体器官、部位）脱垂，下垂
+	3. **stenosis**狭窄;**hernia**脱肠;**vaginal**阴道的;**incontinence**失禁;**pelvic**骨盆的;**uterine**子宫的;**hysterectomy**子宫切除;**anal**肛门的;**rupture**破裂;**bowel**肠;**rectal**直肠的;
+	4. [disability](dic://disability), [disablement](dic://disablement), [handicap](dic://handicap), [impairment](dic://impairment)
+	5.  [prolapsus](dic://prolapsus), [descensus](dic://descensus)
+	6. [descend](dic://descend), [fall](dic://fall), [go down](dic://go down), [come down](dic://come down)
+	7. **Prolapse** is a complication that can occur in women. /脱垂是一种并发症，可以发生在妇女。
+	8. Because if this is the umbilical cord, if this is an umbilical cord prolapse then it's gonna be a rushed, rushed thing. /因为如果这是脐带，如果这是脐带脱垂，那将是一件仓促、仓促的事情。
 6. relapse
-	1. [backsliding](dic://backsliding), [lapse](dic://lapse), [lapsing](dic://lapsing), [relapsing](dic://relapsing), [reversion](dic://reversion), [reverting](dic://reverting)
-	2. [get worse](dic://get worse)
-	3. [lapse](dic://lapse), [recidivate](dic://recidivate), [regress](dic://regress), [retrogress](dic://retrogress), [fall back](dic://fall back)
-	4. [failure](dic://failure)
-	5. **remission**缓和, 减轻;**recurrence**复发;**addiction**瘾，吸毒成瘾;**alcoholism**酒精中毒;**psychosis**精神病;**depression**沮丧;**illness**疾病;**disease**病，疾病;**anorexia**厌食;**abstinence**节制;**recovery**恢复，复原;
-	6. _relapse into_ 复发；堕落为
-	7. serorelapse
-	8. relapsing
-	9. relapsbale
-	10. neurorelapse
-	11. etc...
-7. labefaction
+	1. (relapse, recur, recrudesce, recidivation, recurrence, )
+	2. (convalesce, rehabilitation, recuperate, )
+	3. [backsliding](dic://backsliding), [lapse](dic://lapse), [lapsing](dic://lapsing), [relapsing](dic://relapsing), [reversion](dic://reversion), [reverting](dic://reverting)
+	4. [get worse](dic://get worse)
+	5. [lapse](dic://lapse), [recidivate](dic://recidivate), [regress](dic://regress), [retrogress](dic://retrogress), [fall back](dic://fall back)
+	6. [failure](dic://failure)
+	7. **remission**缓和, 减轻;**recurrence**复发;**addiction**瘾，吸毒成瘾;**alcoholism**酒精中毒;**psychosis**精神病;**depression**沮丧;**illness**疾病;**disease**病，疾病;**anorexia**厌食;**abstinence**节制;**recovery**恢复，复原;
+	8. _relapse into_ 复发；堕落为
+	9. he relapsed into silence. /他再次陷入沉默。
+	10. he suffered a relapse of schizophrenia after a car crash. /车祸后他的精神分裂症复发了。
+	11. Even in relapse there will be times when the patient’s general condition improves. /即便在复发期间，病人仍会有好转的时候。
+	12. serorelapse
+	13. relapsing
+	14. relapsbale
+	15. neurorelapse
+	16. etc...
+8. labefaction
 	1. _n._ 〈罕〉动摇,衰弱,恶化
-8. labile
+9. labile
 	1. lability
 	2. tremolabile
 	3. tempolabile
@@ -2417,6 +2451,7 @@
 		2. illusion
 		3. illusive
 		4. illusory
+			1. (specious, spurious, factitious, fictitious, mendacious, ostensible, inveracious, bogus, fabricated, artificial, fraudulent, beguiling, cunning, devious, contrived, factitious, planned, plotted, apocryphal, phony, illusory)
 	7. prelude (preclude)
 		1. pre-在前 + lud-玩 , 演奏 + -e → 先演奏 → 序曲。
 		2. prolusion
@@ -3471,6 +3506,7 @@
 	18. lunamoth
 	19. lunary
 	20. lunatic
+		1. (fatuous, witless,  tactless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 	21. lunatum
 	22. lunute
 5. **luster-, lustr-** = illuminate, 表示“照亮”。源自拉丁语 lustrum "purification," lustrare "to purify, illuminate."

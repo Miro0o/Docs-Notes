@@ -806,7 +806,7 @@
 	8. preface, prefatory, prefatorial
 		1. **foreword**前言;**treatise**论文;**prologue**序言;**introduction**介绍;**epilogue**结语，收场白;**pamphlet**小册子;**preamble**序文;**footnote**脚注;**book**书籍;**monograph**专著,专论;**excerpt**摘录，引用;
 	9. affable, inaffable
-		1. (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, agreeable, alacrity)
+		1.  (affable, easygoing, genteel, cordial, cultured, civilized, urbane, elegant, agreeable, alacrity, affable, amicable, amiable, genial, svelte)
 		2. (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 		3. af-接近 + fab-说 + le → 接近说话 → 和蔼的。
 		4. inaffable
@@ -836,7 +836,7 @@
 		4. _[fatuity sagacity](dic://fatuity%20sagacity)_ 愚笨
 	2. fatuous (gratuitous, fortuitous, fatuous)
 		1. (judicious, prudent, shred, sagacious, politic, perspective, astute, cunning, canny, cagy, advised, wise, sensible, provident)
-		2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+		2. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 		3.  [asinine](dic://asinine), [inane](dic://inane), [mindless](dic://mindless), [vacuous](dic://vacuous)
 		4. _[fatuous asinine oafish lunatic](dic://fatuous%20asinine%20oafish%20lunatic)_ 四大傻瓜
 		5. _adj._ [foolish](dic://foolish)
@@ -1418,27 +1418,28 @@
 		5. jailbait
 		6. bearbaiting
 	2. abet
-		1. abet（煽动）：中世纪时的纵狗斗熊游戏  
-		2. 单词abet与14至15世纪英国流行的“纵狗斗熊”游戏（bear baiting）有关。这种游戏一般在熊园里进行。先用铁链把熊拴在柱子上，然后放一群狗咬它，在经过一番撕咬搏斗之后，总是以熊被咬死而告终。据记载，1575年英国女王伊丽莎白一世在观看“纵狗斗熊”时就有13只熊被咬死。“纵狗斗熊”的游戏在英国延续了800多年，直到1835年才因为过于残忍而被取消。  
-		3. abet一词来自古法语abeter，其中a=to，beter=bait（诱使去咬）。狗的主人或观众唆使狗去咬熊的行为就是abet the dogs（唆使狗去咬熊）。后来，abet的词义变宽，用于表示更一般意义上的“教唆、唆使”。  
-		4. abet： [ə'bet] v.煽动，教唆  
-		5. abettor：[ə'bɛtɚ] n. 教唆犯；唆使者
-		6. abet - 人们常将该词的由来和14至15世纪流行于英国的“纵狗斗熊”游戏（bearbaiting）相联系。这种游戏一般在熊园里进行。先用铁链把熊拴在柱子上，然后放一群狗咬它，在经过一番撕咬搏斗之后总是以熊被咬死而告终。观众嗾使狗去咬熊常爱说“sic'em”或“go get'em”（去咬），这一做法就叫abet the dogs。abet一词是14世纪才出现于英语之中的，来自古法语abeter（纵犬袭击），abet如今常用的“怂恿”、“唆使”等义即由此引申而来。这种逗熊游戏在英国延续了八百年之久，直至1835年因被认为残忍才遭禁止。据有关资料记载，1575年英国女王伊丽莎白一世一次观看逗熊就有13只熊被狗咬死。
-		7. _v._ [assist](dic://assist)
-		8. **aiding**帮助;**aid**帮助;**hasten**催促;**thwart**反对;**incite**煽动;**impede**阻止;**aided**辅助的;**hinder**成为阻碍;**accomplice**从犯, 帮凶, 同谋;**obstruct**阻塞;**induce**引诱;
-		9. _[abets](dic://abets)_  n. 飞机信标电子试验装置
-		10. _[aid and abet](dic://aid%20and%20abet)_  帮凶，同谋
-		11. _[psychology of abetting offender](dic://psychology%20of%20abetting%20offender)_  教唆犯心理
-		12. abet the commission of a crime /教唆犯罪
-		13. We're not aiding and abetting a criminal. /我们不会帮助和教唆罪犯的。
-		14. Technology should abet my life, not dominate or redefine it. /科技应该帮助我的生活，而不是主宰或者改变我的生活本质。
-		15. He's aiding and abetting the sale of drugs /他在帮助并教唆人贩毒。
-		16. Well as my sign says I will aid and abet abortion /正如我的牌子上写的那样，我会帮助和支持堕胎。
-		17. Belarus is also being targeted for abetting the invasion of Ukraine /白俄罗斯也因协助入侵乌克兰而成为制裁目标。
-		18. He disappeared shortly before the supreme court could rule on his seven-year jail sentence for aiding and abetting mobsters. /在最高法院判决他帮助和教唆黑手党之罪入狱七年之前，他失踪了一小段时间。
-		19. abettor
-		20. abetter
-		21. abetment
+		1. (foment, abet, incite, instigate, demagogue, stoke, stir up, agitate, egg on, provoke, )
+		2. abet（煽动）：中世纪时的纵狗斗熊游戏  
+		3. 单词abet与14至15世纪英国流行的“纵狗斗熊”游戏（bear baiting）有关。这种游戏一般在熊园里进行。先用铁链把熊拴在柱子上，然后放一群狗咬它，在经过一番撕咬搏斗之后，总是以熊被咬死而告终。据记载，1575年英国女王伊丽莎白一世在观看“纵狗斗熊”时就有13只熊被咬死。“纵狗斗熊”的游戏在英国延续了800多年，直到1835年才因为过于残忍而被取消。  
+		4. abet一词来自古法语abeter，其中a=to，beter=bait（诱使去咬）。狗的主人或观众唆使狗去咬熊的行为就是abet the dogs（唆使狗去咬熊）。后来，abet的词义变宽，用于表示更一般意义上的“教唆、唆使”。  
+		5. abet： [ə'bet] v.煽动，教唆  
+		6. abettor：[ə'bɛtɚ] n. 教唆犯；唆使者
+		7. abet - 人们常将该词的由来和14至15世纪流行于英国的“纵狗斗熊”游戏（bearbaiting）相联系。这种游戏一般在熊园里进行。先用铁链把熊拴在柱子上，然后放一群狗咬它，在经过一番撕咬搏斗之后总是以熊被咬死而告终。观众嗾使狗去咬熊常爱说“sic'em”或“go get'em”（去咬），这一做法就叫abet the dogs。abet一词是14世纪才出现于英语之中的，来自古法语abeter（纵犬袭击），abet如今常用的“怂恿”、“唆使”等义即由此引申而来。这种逗熊游戏在英国延续了八百年之久，直至1835年因被认为残忍才遭禁止。据有关资料记载，1575年英国女王伊丽莎白一世一次观看逗熊就有13只熊被狗咬死。
+		8. _v._ [assist](dic://assist)
+		9. **aiding**帮助;**aid**帮助;**hasten**催促;**thwart**反对;**incite**煽动;**impede**阻止;**aided**辅助的;**hinder**成为阻碍;**accomplice**从犯, 帮凶, 同谋;**obstruct**阻塞;**induce**引诱;
+		10. _[abets](dic://abets)_  n. 飞机信标电子试验装置
+		11. _[aid and abet](dic://aid%20and%20abet)_  帮凶，同谋
+		12. _[psychology of abetting offender](dic://psychology%20of%20abetting%20offender)_  教唆犯心理
+		13. abet the commission of a crime /教唆犯罪
+		14. We're not aiding and abetting a criminal. /我们不会帮助和教唆罪犯的。
+		15. Technology should abet my life, not dominate or redefine it. /科技应该帮助我的生活，而不是主宰或者改变我的生活本质。
+		16. He's aiding and abetting the sale of drugs /他在帮助并教唆人贩毒。
+		17. Well as my sign says I will aid and abet abortion /正如我的牌子上写的那样，我会帮助和支持堕胎。
+		18. Belarus is also being targeted for abetting the invasion of Ukraine /白俄罗斯也因协助入侵乌克兰而成为制裁目标。
+		19. He disappeared shortly before the supreme court could rule on his seven-year jail sentence for aiding and abetting mobsters. /在最高法院判决他帮助和教唆黑手党之罪入狱七年之前，他失踪了一小段时间。
+		20. abettor
+		21. abetter
+		22. abetment
 	4. bet
 		1. bettor
 		2. betting
@@ -1495,7 +1496,7 @@
 
 ### + \bheg- +
 1. **bank-, bench-** = bench, 表示“长椅”。源自日耳曼语 *bankiz, *bankon- "bank of earth."
-	1. banquet (bouquet, banquet cachet, crotchet, coquet)
+	1. banquet (bouquet, banquet, cachet, crotchet, coquet)
 		1. 源自法语，和 bench【椅子】同源，词尾 -el 是小词后缀。古宴会时，人人面前摆张小凳子，用以放置食物。
 		2. banquet（宴会）：西方请客时摆在长凳上的小点心  
 		3. 英语单词banquet表示正式的宴会，如国宴，所以一看到banquet这个单词，很多人就会联想到美食琳琅满目的豪华宴会，但实际上，banquet这个词在历史上跟豪华一点关系也没有。banquet由bangu和et构成，其中，banqu源于拉丁语bancus，即bench（长凳），et表示“小的东西”。所以该词的字面意思就是摆在长凳上的小点心。16世纪的西方正式宴会上，当吃完正餐后或在两顿正餐之间，主人会在长凳上摆上各种小点心来款待客人，类似现在的饭后甜点。banquet原本指的就是这种小点心，而不是宴会。15世纪后，banquet的词义发生变化，用来表示宴会本身而不是宴会后的小点心。  
@@ -3226,7 +3227,7 @@
 		1. cum-=com-一起 + ber-携带 → 带到一起 → 妨碍。
 		2. cumber ['kʌmbə] vt.阻碍；使受苦，n.拖累；妨害。前缀cum-同com-，表together，ber部分同bear承担。搬家公司给你干活呢，已经背着你家的冰箱了，你非要在脖子上再给人家挂个手提袋（together），那就是cumber。然后搬家工小哥会觉着这很cumbersome['kʌmbəs(ə)m] adj.笨重的；累赘的；难处理的。
 		3. cumbrous, cumbersome
-			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse,  unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable)
+			1. (fatuous, witless,  tactless, witless, dense,  asinine, inane, mindless, vacuous, preposterous, untactful, inept/inapt. maladroit, obtuse, oafish, lunatic, unwieldy, clunky, clumsy, cumbersome, lumbering, inexpedient, inapplicable, gawky, clumsy, ungainly, awkward, )
 			2. [cumbersome](dic://cumbersome)
 			3. _adj._ [unwieldy](dic://unwieldy), [unmanageable](dic://unmanageable)
 			4. _n._ [wieldy](dic://wieldy)
@@ -5995,7 +5996,7 @@
 	5. _sales brochure_ 售楼说明书；推广小册子
 	6. _travel brochure_ 旅游指南
 	7. the details contained in this brochure have been published in good faith . /这本册子中细节的披露出版是出于善意的。
-4. broach (encroach)
+4. broach (broach, encroach, poach, )
 	1. n. 烧肉叉, 凿子, 钻头  
 	2. vt. 用凿子修琢(石块), 钻孔  
 	3. vi. 露出水面

@@ -879,11 +879,17 @@
 		3. deceitful
 		4. deceptive, self-deceiving
 		5. deception
-	3. receive, receipt, recuperate
+	3. receive, receipt,
 		1. recipe
 		2. recipience, recipient, 
-		3. recuperative, recuperation
-	4. except
+	4. recuperate
+		1. (relapse, recur, recrudesce, recidivation, recurrence, )
+		2. (convalesce, rehabilitation, recuperate, )
+		3. _v._ [get](dic://get), [acquire](dic://acquire), [revert](dic://revert), [return](dic://return), [retrovert](dic://retrovert), [regress](dic://regress), [turn back](dic://turn back)
+		4. _n._ [devolve](dic://devolve), [deteriorate](dic://deteriorate), [drop](dic://drop), [degenerate](dic://degenerate)
+		5. **recover**恢复;**recovering**恢复;**regroup**重新组合;**recoup**偿还;**rejuvenate**使变得年轻, 使恢复活力;**heal**治愈，痊愈;**relax**放松，休息;**regain**恢复;**unwind**展开;**mend**修理，修补;**recharge**再充电;
+		6. recuperative, recuperation
+	6. except
 		1. [demur](dic://demur)
 		2. [exclude](dic://exclude), [leave out](dic://leave out), [leave off](dic://leave off), [omit](dic://omit), [take out](dic://take out)
 		3. _v._ [object](dic://object), [eliminate](dic://eliminate), [get rid of](dic://get rid of), [do away with](dic://do away with)
@@ -898,7 +904,7 @@
 			2. **outstanding**突出的;**extraordinary**非常奇怪的;**excellent**优秀的, 卓越的, 杰出的;**superb**极好的;**remarkable**异常的;**incredible**不能相信的, 不可信的;**unsurpassed**未被凌驾的,非常卓越的;**unparalleled**无比的, 无双的, 空前的;**impeccable**无瑕疵的;**unmatched**无敌的, 无比的;**incomparable**无比的;
 			3. [extraordinary](dic://extraordinary), [uncommon](dic://uncommon), [abnormal](dic://abnormal)
 			4. [ordinary](dic://ordinary), [common](dic://common), [normal](dic://normal)
-	6. incept
+	7. incept
 		1. _[incept](dic://incept)_  vt. 开始；摄取；接收; vi. 获得学位；就职;
 		2. inception, inceptive
 			1. **since**既然;**founding**创办的;**decade**十年，十年期;**beginning**开始;**founded**有基础的;**decades**数十年;**outset**开始;**heyday**全盛期;**years**年代;**evolved**进化了的;**infancy**婴儿期;
@@ -911,7 +917,7 @@
 			1. percept
 				1. **perceptual**知觉的,有知觉的;**stimuli**刺激;**perception**感知;**cognition**认识;**auditory**听众;**consciousness**意识;**perceive**察觉，感觉;**stimulus**刺激;**neuron**神经元，神经单位;**senses**感觉;**spatial**空间的;
 			2. **cognitive**认识的;**auditory**听众;**perception**感知;**sensory**感觉的;**cognition**认识;**semantic**语义的;**spatial**空间的;**stimuli**刺激;**visual**视觉的，视力的;**linguistic**语言的, 语言学的, 语言研究的;**conceptual**观念的, 概念的;
-	10. precept
+	9. precept
 		7. preceptory, preceptive
 			1. precept
 				1. [principle](dic://principle)
@@ -920,19 +926,19 @@
 				4. **commandment**戒条;**principle**原理;**doctrine**教义;**tenets**信条;**teachings**学说;**scripture**经文;**morality**道德;**scriptural**手稿的,圣经的,依据圣经的;**obedience**服从;**axiom**公理;**ethics**伦理学;
 			3. preceptor
 				1. **physician**内科医生;**nurse**看护，护理;**mentor**指导者，良师益友;**disciple**门徒，信徒;**practitioner**从业者;**faculty**能力;**counselor**顾问;**chaplain**牧师;**nursing**护理;**pharmacist**药剂师;
-	11. recept
+	10. recept
 		9. receptacle, receptible
 			1. **conduit**导管;**connector**连接器;**dispenser**配药师,药剂师;**container**容器;**socket**插座;**tray**托盘;**orifice**孔口;**plug**塞子;**adaptor**改编者;**plunger**活塞;**flange**凸缘;
-	12. accept
+	11. accept
 		11. acceptant, acceptance
 			1. adj. 愿接受的，容易接受的
-	13. suscept
+	12. suscept
 		13. susceptible, susceptance, susceptance, susceptive
-	14. intercept
+	13. intercept
 		15. interceptive, interception, interceptor
 			1. intercept
 				1. **interception**拦截，截住;**retrieve**重新得到;**infiltrate**渗透;**thwart**反对;**divert**转移;**encrypt**将……译成密码;**evade**逃避;**detect**发现;**deploy**使展开;**seize**抓住;**transmit**传达;
-	15. capture, recapture
+	14. capture, recapture
 		1. captive
 			1. **captivity**被俘,拘禁,囚禁;**hostage**人质;**caged**关在笼子里的;**prisoner**囚犯，犯人;**freed**释放的;**tortured**拷打;**trapped**陷入困境的;**captured**被俘的;**chained**装链的;**escaped**溜走;**slave**奴隶;
 			2. [unfortunate](dic://unfortunate), [unfortunate person](dic://unfortunate person), [animal](dic://animal), [animate being](dic://animate being), [beast](dic://beast), [brute](dic://brute), [creature](dic://creature)
@@ -952,7 +958,7 @@
 			2. _v._ [attract](dic://attract), [appeal](dic://appeal)
 		5. caption
 			1. **photo**照片;**picture**照片，图画;**image**影像;**photograph**相片;**screenshot**屏幕截图;**alt**高音，中高音;**illustration**说明;**close-up**特写镜头;**blurb**简介, 推荐广告;**thumbnail**拇指甲,极小的东西;**closeup**特写镜头;
-	16. capable, 
+	15. capable, 
 		1. capacious
 			1. capacity
 				1.  [capability](dic://capability)
@@ -981,19 +987,19 @@
 		3. capacitate, capacitance
 		4. incapability, incapacitant, incapacitate, 
 		5. incapacitation
-	17. disciple, discipline, 
+	16. disciple, discipline, 
 		1. **apostle**传道者;**monk**僧侣，修道士;**devotee**爱好者;**apostles**传道者;**Jesus**耶稣;**discipleship**做弟子的身份;**servant**仆人，佣人;**Christ**基督;**mentor**指导者，良师益友;**prophet**先知;**follower**追随者;
 		2. self-discipline, disciplinary, 
 		3. indiscipline
-	18. anticipate
+	17. anticipate
 		1. anticipant, anticipatory, anticipation, anticipative
-	19. emancipate
+	18. emancipate
 		3. emancipist
-	20. participate
+	19. participate
 		5. participal, participle, 
-	21. principate
+	20. principate
 		7. principal, principle, principium
-	22. municipal
+	21. municipal
 		1. _adj._ [municipality](dic://municipality), [domestic](dic://domestic)
 		2. _n._ [foreign](dic://foreign)
 		3. **municipality**自治市;**provincial**省的;**city**城市，都市;**council**理事会;**wastewater**废水;**mayor**市长;**governmental**政府的;**sewage**污水;**mayoral**市长的;**county**郡，县;**federal**联邦的;
@@ -1009,20 +1015,20 @@
 		13. _municipal court_ 市法院
 		14. An angry mob gathered outside the municipal building /一群愤怒的暴民聚集在市政大楼的外面。
 		15. the mayor was accused of using municipal funds for personal gain /市长被控挪用市政基金为个人谋利。
-	23. occupy
+	22. occupy
 		1. preoccupy
 			1. _v._ [control](dic://control), [command](dic://command), [assume](dic://assume), [usurp](dic://usurp), [seize](dic://seize), [take over](dic://take over), [arrogate](dic://arrogate)
 			2. **preoccupation**全神贯注，入神;**distract**转移;**frustrate**使不成功, 挫败, 阻止;**confine**限制;**amuse**使发笑;**arouse**引起;**ponder**仔细考虑;**occupy**占据，占领;**linger**逗留, 徘徊;**anxious**渴望的;**concentrate**专心于;
-	24. case, cash, cable
-	25. catch, cater
+	23. case, cash, cable
+	24. catch, cater
 		1. catchall, catchcry, catcher, catchpenny, catchphrase, catchy, catchword
 		2. catchment
-	26. chase (=catch, capture, )
+	25. chase (=catch, capture, )
 		1. smokechaser
 		2. purchase
 		3. enchase
 		4. chaser
-	27. chasseur, chassis
+	26. chasseur, chassis
 11. **caps- 囊，辣椒**
 	1. capsicum
 	2. capsid
@@ -1062,7 +1068,7 @@
 			2. **bovine**牛的;**goat**山羊;**goats**山羊;**sheep**羊，绵羊;**equine**马的;**cow**奶牛，母牛;**calf**小牛;**herd**兽群，畜群;**cattle**牛;**swine**猪;**recombinant**重组器官;
 		11. capriform
 		12. capricious (duplicity)
-			1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, arbitary) 
+			1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, arbitrary) 
 			2. _adj._ [unpredictable](dic://unpredictable), [arbitrary](dic://arbitrary)
 			3. _n._ [predictable](dic://predictable), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
 			4. **fickle**易变的;**arbitrary**随意的, 主观的;**unpredictable**无法预言的, 不可预测的;**cruel**残酷的，残忍的;**erratic**不稳定的;**tyrannical**暴君的,暴君似的;**whim**一时的兴致;**perverse**任性的,固执的;**unreasonable**不讲道理的, 非理智的;**irrational**无理性的;**illogical**不合逻辑的;
@@ -1187,24 +1193,24 @@
 		10. mischievously
 		11. mischievousness
 	12. precipitate
-		1. (precipitate, impetuous, madcap)
-		2. pre-在前 + cipit-头 + -ate使 → 使头在前，一头栽下，后用于气象术语，降水，降雪，引申物理术语沉淀，沉积，积灰。
-		3. **dissolve**使溶解;**insoluble**不能解决的,不溶的;**agitation**激动;**disintegration**瓦解;**provoke**激怒;**dissolution**破裂;**dissolved**溶化的;**carbonate**碳酸盐;**dissolving**毁灭性的,消溶的;**evaporate**蒸发;**hydroxide**氢氧化物;
-		4. a precipitate decline in Labour fortunes. /工党的机会的陡然下降
-		5. They made a precipitate decision /他们作了一个轻率的决定。
-		6. precipitate the extinction of sth. /促进某种事物的消灭
-		7. Prolonged drought can precipitate early marriage as families contend with scarcity. /长期干旱会导致家庭因资源匮乏，从而促成早婚。
-		8. But it's unclear why or what had precipitated the shooting. /但目前尚不清楚导致枪击事件的原因。
-		9. The participation of Sierra Leone's military in Peacekeeping operations precipitated another fruitful discussion. /塞拉利昂军队参与的维和任务也促成了另一项成果丰硕的讨论。
-		10. This examination is avoided for fear of precipitating complete obstruction. /尽量避免喉镜检查，以免造成完全阻塞。
-		11. Column after column had been precipitated for eight hours on the enemy posted along the ridge of a hill. /一列列军队连续进攻沿山脊守护的敌军，战斗持续长达八小时之久。
-		12. precipitator
+		2. (precipitate, impetuous, reckless, snappish, madcap)
+		3. pre-在前 + cipit-头 + -ate使 → 使头在前，一头栽下，后用于气象术语，降水，降雪，引申物理术语沉淀，沉积，积灰。
+		4. **dissolve**使溶解;**insoluble**不能解决的,不溶的;**agitation**激动;**disintegration**瓦解;**provoke**激怒;**dissolution**破裂;**dissolved**溶化的;**carbonate**碳酸盐;**dissolving**毁灭性的,消溶的;**evaporate**蒸发;**hydroxide**氢氧化物;
+		5. a precipitate decline in Labour fortunes. /工党的机会的陡然下降
+		6. They made a precipitate decision /他们作了一个轻率的决定。
+		7. precipitate the extinction of sth. /促进某种事物的消灭
+		8. Prolonged drought can precipitate early marriage as families contend with scarcity. /长期干旱会导致家庭因资源匮乏，从而促成早婚。
+		9. But it's unclear why or what had precipitated the shooting. /但目前尚不清楚导致枪击事件的原因。
+		10. The participation of Sierra Leone's military in Peacekeeping operations precipitated another fruitful discussion. /塞拉利昂军队参与的维和任务也促成了另一项成果丰硕的讨论。
+		11. This examination is avoided for fear of precipitating complete obstruction. /尽量避免喉镜检查，以免造成完全阻塞。
+		12. Column after column had been precipitated for eight hours on the enemy posted along the ridge of a hill. /一列列军队连续进攻沿山脊守护的敌军，战斗持续长达八小时之久。
+		13. precipitator
 			1. _n._ 催促的人,沉淀剂
 			2. **electrostatic**静电的;**flue**烟道;**effluent**流出物;**particulate**微粒的,粒子的;**anode**阳极;**cathode**阴极;**aerosol**喷雾器;**furnace**火炉，熔炉;**combustion**燃烧;**wastewater**废水;**contaminant**杂质;
 			3. _electrostatic precipitator_ 静电除尘器；电集尘器
 			4. _dust precipitator_ 集尘器；吸尘器
 			5. It's the major source of water here, caught in windtraps and precipitators. /它是这里的主要水源，被捕风器和除尘器捕获。
-		13. precipitation
+		14. precipitation
 			1. _n._ [indefinite quantity](dic://indefinite quantity), [chemical process](dic://chemical process), [chemical change](dic://chemical change), [chemical action](dic://chemical action), [weather](dic://weather), [weather condition](dic://weather condition), [atmospheric condition](dic://atmospheric condition)
 			2. **rainfall**降雨;**snowfall**降雪;**rain**雨;**rains**雨季;**snow**雪，积雪;**evaporation**蒸发;**meteorological**气象的;**groundwater**地下水;**thunderstorm**雷电交加的暴风雨;**monsoon**季候风;**salinity**盐度;
 			3. _annual precipitation_ 年降水量；年雨量
@@ -1215,7 +1221,7 @@
 			8. _precipitation reaction_ 沉淀反应
 			9. _precipitation intensity_ 降水强度；降雨强度
 			10. _precipitation enhancement_ 人工增雨；降水增加
-		14. precipitating, precipitately
+		15. precipitating, precipitately
 			1. - adj. 起沉淀作用的；急落的；猛冲的
 			2. **abruptly**突然地;**swiftly**很快地;**hastily**匆忙地;**retreating**再加工,再精制;**hurried**匆忙的;**decisively**决然地;**southward**南方;**sharply**急剧地;**violently**猛烈地;**withdrew**收回;**leaped**跳跃;
 			3. [hasty](dic://hasty), [overhasty](dic://overhasty), [precipitate](dic://precipitate), [precipitant](dic://precipitant), [precipitous](dic://precipitous)
@@ -1223,25 +1229,25 @@
 			5. suddenly the ladder broke, precipitating them down into a heap. /梯子突然断裂，让他们摔作一团。
 			6. And that's, that was really the precipitating factor in puncturing the bubble /那就是，这确实是刺破泡沫的促成因素。
 			7.  He is only fifty but the liver has stopped restoring itself; the precipitatingfactor is alcoholism" . /“他只有五十岁，但肝脏已经停止自我修复；诱发因素是酒精中毒”。
-		15. precipitability
-		16. precipitable
+		16. precipitability
+		17. precipitable
 			1. _[precipitable](dic://precipitable)_  adj. 可沉淀的
 			2. _[precipitable water](dic://precipitable%20water)_  可降水; 可降水份;
-		17. precipitance, precipitancy
+		18. precipitance, precipitancy
 			1. _[precipitance](dic://precipitance)_  n. 急躁；鲁莽；仓促
 			2. _n._ [haste](dic://haste), [hastiness](dic://hastiness), [hurry](dic://hurry), [hurriedness](dic://hurriedness), [precipitation](dic://precipitation)
-		18. precipitant,
+		19. precipitant,
 			1. _n._ [agent](dic://agent)
 			2. _adj._ [hurried](dic://hurried)
 			3. _n._ [unhurried](dic://unhurried)
 			4. _[precipitant](dic://precipitant)_  adj. 急促的；匆忙的；突如其来的；轻率的; n. 沉淀剂；起因;
 			5. _[absorption precipitant](dic://absorption%20precipitant)_ 吸附沉淀剂 
-		19. precipitous
+		20. precipitous
 			1. _[precipitous](dic://precipitous)_  adj. 险峻的；急躁的，鲁莽的
 			2. _adj._ [hurried](dic://hurried), [cliffy](dic://cliffy), [clifflike](dic://clifflike), [steep](dic://steep)
 			3. _n._ [unhurried](dic://unhurried), [beachy](dic://beachy), [beachlike](dic://beachlike), [gradual](dic://gradual)
 			4. **steep**陡峭的;**decline**下降;**abrupt**突然的;**steeper**浸润器;**drastic**激烈的;**gradual**逐渐的;**dramatic**戏剧的;**cliff**绝壁;**cliffs**悬崖，峭壁;**perilous**危险的，冒险的;**declining**倾斜的,衰退中的;
-		20. precipitin
+		21. precipitin
 			1. _[precipitin](dic://precipitin)_  n. [免疫] 沉淀素
 			2. _[precipitin test](dic://precipitin%20test)_  [免疫] 沉淀素试验；沈淀素检验
 			3. **antibody**抗体;**antigen**抗原;**electrophoresis**电气泳动;**arc**弧;**antigens**抗原;**reagent**试剂;
@@ -5956,18 +5962,18 @@
 		13. occlusor
 			1. 闭壳肌〔蛤; 闭肌; 闭塞体;
 	10. preclude
-		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
-		2. pre-预先 + clud-关闭 → 提前关闭 → 阻止。
-		3.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [forbid](dic://forbid)
-		4.  [rule out](dic://rule out), [close out](dic://close out)
-		5. **necessitate**使…成为必要, 需要;**prohibit**阻止，禁止;**impede**阻止;**exclude**排除;**hinder**成为阻碍;**prevent**预防，防止;**disqualify**丧失资格;**negate**否定;**inhibit**抑制;**imply**暗示;**barring**不包括;
-		6. _v._ [obviate](dic://obviate), [rid of](dic://rid of), [eliminate](dic://eliminate)
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
+		3. pre-预先 + clud-关闭 → 提前关闭 → 阻止。
+		4.  [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [forbid](dic://forbid)
+		5.  [rule out](dic://rule out), [close out](dic://close out)
+		6. **necessitate**使…成为必要, 需要;**prohibit**阻止，禁止;**impede**阻止;**exclude**排除;**hinder**成为阻碍;**prevent**预防，防止;**disqualify**丧失资格;**negate**否定;**inhibit**抑制;**imply**暗示;**barring**不包括;
+		7. _v._ [obviate](dic://obviate), [rid of](dic://rid of), [eliminate](dic://eliminate)
 			1. _[precluded](dic://precluded)_  排除
 			2. _[preclude from](dic://preclude%20from)_  阻止；妨碍
 			3. _[preclude all misunderstanding](dic://preclude%20all%20misunderstanding)_  排除所有误解
 			4. _[preclude sb from doing sth](dic://preclude%20sb%20from%20doing%20sth)_  阻止某人做某事
-		7. preclusion
-		8. preclusive
+		8. preclusion
+		9. preclusive
 	12. disclose
 		9. dis-打开 + clos-关 + -e → 把关的打开 → 揭发。
 		10. undisclosed
@@ -6611,20 +6617,21 @@
 				4. _hazardous substance_ 有害物质；危险物品
 				5. _hazardous goods_ 危险品
 				6. _hazardous location_ 危险场地；危险地段
-		4. haphazard： ['hæphæzəd] adj. 偶然的；随便的；无计划的n. 偶然；偶然事件adv. 偶然地；随意地 (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic)
-			1. hap-运气，机会 + hazard游戏 → 运气游戏 → 偶然的。
-			2. _adj._ [random](dic://random), [careless](dic://careless)
-			3. _adv._ [slapdash](dic://slapdash), [slipshod](dic://slipshod), [sloppy](dic://sloppy)
-			4. _n._ [nonrandom](dic://nonrandom), [careful](dic://careful)
-			5. **disjointed**脱离开的,不连贯的;**disorganized**紊乱的, 无组织的;**chaotic**混乱的，无秩序的;**clumsy**笨拙的;**sloppy**草率的;**shoddy**劣质的;**erratic**不稳定的;**incoherent**不连贯的;**methodical**有条理的, 井然的;**inconsistent**不一致的;**careless**粗心的
-			6. _[haphazard](dic://haphazard)_  adj. 偶然的；随便的；无计划的; n. 偶然；偶然事件; adv. 偶然地；随意地; 
-			7. _[haphazard investment](dic://haphazard%20investment)_  盲目投资
-			8. _[haphazard selection](dic://haphazard%20selection)_  随意选择; 偶然选择; 
-			9. _[haphazard sampling](dic://haphazard%20sampling)_  不当抽样
-			10. _[haphazard evaluation](dic://haphazard%20evaluation)_ 随机评价
-			11. _[haphazard distribution](dic://haphazard%20distribution)_ 无规律分布
-			12. _[haphazard choice](dic://haphazard%20choice)_ 任意的选择
-			13. _[haphazard funding](dic://haphazard%20funding)_ 盲目投资
+		4. haphazard： ['hæphæzəd] adj. 偶然的；随便的；无计划的n. 偶然；偶然事件adv. 偶然地；随意地 
+			1. (slapdash, sloppy, reckless, haphazard, wayward, arbitrary, erratic, helter-skelter, )
+			2. hap-运气，机会 + hazard游戏 → 运气游戏 → 偶然的。
+			3. _adj._ [random](dic://random), [careless](dic://careless)
+			4. _adv._ [slapdash](dic://slapdash), [slipshod](dic://slipshod), [sloppy](dic://sloppy)
+			5. _n._ [nonrandom](dic://nonrandom), [careful](dic://careful)
+			6. **disjointed**脱离开的,不连贯的;**disorganized**紊乱的, 无组织的;**chaotic**混乱的，无秩序的;**clumsy**笨拙的;**sloppy**草率的;**shoddy**劣质的;**erratic**不稳定的;**incoherent**不连贯的;**methodical**有条理的, 井然的;**inconsistent**不一致的;**careless**粗心的
+			7. _[haphazard](dic://haphazard)_  adj. 偶然的；随便的；无计划的; n. 偶然；偶然事件; adv. 偶然地；随意地; 
+			8. _[haphazard investment](dic://haphazard%20investment)_  盲目投资
+			9. _[haphazard selection](dic://haphazard%20selection)_  随意选择; 偶然选择; 
+			10. _[haphazard sampling](dic://haphazard%20sampling)_  不当抽样
+			11. _[haphazard evaluation](dic://haphazard%20evaluation)_ 随机评价
+			12. _[haphazard distribution](dic://haphazard%20distribution)_ 无规律分布
+			13. _[haphazard choice](dic://haphazard%20choice)_ 任意的选择
+			14. _[haphazard funding](dic://haphazard%20funding)_ 盲目投资
 	3. hapless
 		1. [miserable](dic://miserable), [misfortunate](dic://misfortunate), [pathetic](dic://pathetic), [piteous](dic://piteous), [pitiable](dic://pitiable), [pitiful](dic://pitiful), [poor](dic://poor), [wretched](dic://wretched)
 		2. _adj._ [unfortunate](dic://unfortunate)
@@ -8305,6 +8312,7 @@
 	3. vaporer
 	4. vaporific
 4. vapid
+	1. (sapid, insipid, tepid, vapid, )
 
 
 ### + \*kwerp- +
@@ -8530,7 +8538,7 @@
 		17. If you look at Malay villages, the colors are kind of pastel /如果你看看马来人的村庄，颜色有点柔和。
 		18. He made a pasteboard house for himself and pasted some pastels on the wall. /他为自己做了一所纸板做的房子并在墙上张贴了一些彩色蜡笔画。
 		19. But it was so beautiful and such a beautiful pastel shade /但它是如此美丽， 如此美丽的柔和色调。
-	6. pastiche (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother) ()
+	6. pastiche (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother, ramshackle, assortment, mixture, miscellany, assemblage, sundry, ) 
 		1. 来自意大利语 pasticcio,面团，混成曲，集锦，来自拉丁语 pasta,面团。即揉成一团的，比喻用法。
 		2. n. 混成曲；模仿画 
 		3. vt. 东拼西凑；混杂
