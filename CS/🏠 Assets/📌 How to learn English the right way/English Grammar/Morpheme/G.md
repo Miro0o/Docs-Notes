@@ -4714,8 +4714,9 @@
 		9. However, as he describes in Naturwissenschaften, when he and his team examined the area, they were stunned to discover a revenant from this cataclysm just 50 metres from the crater. /然而，正如他在《自然科学》杂志上所说，当他和自己的团队对该区域进行调查时，在离火山口仅50米的地方发现了一棵劫后余生的松树，让他们震惊不已。
 		10. The biggest Oscar snubs this year, in my opinion, is Tom Hardy for his performance in The **Revenant**. /我认为今年最大的奥斯卡遗珠是“神鬼猎人”中的演员汤姆·哈迪。
 	10. revenue
-		1. 几乎同样的逻辑，revenue ['revənjuː] n.税收；国家的收入；收益，指的就是“回到手里的钱”了。这让我想起了单词income ['ɪnkʌm] n.收入；收益；所得。重要的是：词根ven-与come同源！这样就可以比较event [ɪ'vent] n.事件；项目；结果（前缀e=ex表out）和outcome ['aʊtkʌm] n.结果；成果了。 ​​​​
-		2. [income](dic://income), [government income](dic://government income), [government revenue](dic://government revenue)
+		1.  (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
+		2. 几乎同样的逻辑，revenue ['revənjuː] n.税收；国家的收入；收益，指的就是“回到手里的钱”了。这让我想起了单词income ['ɪnkʌm] n.收入；收益；所得。重要的是：词根ven-与come同源！这样就可以比较event [ɪ'vent] n.事件；项目；结果（前缀e=ex表out）和outcome ['aʊtkʌm] n.结果；成果了。 ​​​​
+		3. [income](dic://income), [government income](dic://government income), [government revenue](dic://government revenue)
 		4. [tax income](dic://tax income), [taxation](dic://taxation), [tax revenue](dic://tax revenue)
 		5. [gross](dic://gross), [receipts](dic://receipts)
 		6. **profits**收益，红利;**profit**利润;**sales**销售的，售货的;**earnings**收入;**income**收入，收益;**profitability**获利，盈利;**expenditure**花费, 使用;**royalties**版税;**tax**向…课税;**shortfall**不足之量,差额;**windfall**被风吹落的果子;
@@ -4725,7 +4726,7 @@
 		10. internally generated revenue /内部收入
 		11. she's with the Inland Revenue now /她受雇于国内税收局。
 		12. Diminish the revenue by reducing tax. /由于减税而使这个国家的税收减少。
-	11. venue
+	12. venue
 		1. **event**事件，大事;**stadium**露天大型运动场;**arena**竞技场;**concert**音乐会;**marquee**大帐篷;**festival**节日;**auditorium**观众席, 听众席;**concerts**音乐会;**nightclub**夜总会;**ballroom**舞厅;**theatre**电影院，戏院;
 		2. [scene](dic://scene), [jurisdiction](dic://jurisdiction)
 		3. [locale](dic://locale), [locus](dic://locus)
@@ -5369,18 +5370,19 @@
 		11. And the institution itself, being in debt, was only too glad to get a gratis course from an educated and accomplished man like Mr. Hale, let the subject be what it might. /而该机构本身，负债累累，非常高兴能从像黑尔先生这样受过良好教育和有成就的人那里获得免费课程，让主题成为可能。
 		12. I knew his help wouldn't be given **gratis**. /我知道他的帮助不会是无偿的。
 	6. gratuity
-		1. n. 赏钱，小费；赠物；退职金
-		2.  [tip](dic://tip), [pourboire](dic://pourboire), [baksheesh](dic://baksheesh), [bakshish](dic://bakshish), [bakshis](dic://bakshis), [backsheesh](dic://backsheesh)
-		3. _n._ [fringe benefit](dic://fringe benefit), [perquisite](dic://perquisite), [perk](dic://perk), [prize](dic://prize), [award](dic://award)
-		4. **waiter**服务员，侍者;**buffet**自助餐;**payable**应付的;**fee**酬金;**entree**主菜;**tipping**倾卸台;**tax**向…课税;**waitress**女服务员;**valet**贴身男仆;**fare**费, 票价;
-		5. _[commuted gratuity](dic://commuted%20gratuity)_  经折算的酬金；折算酬金
-		6. _[commuted pension gratuity](dic://commuted%20pension%20gratuity)_  经折算的退休酬金
-		7. _[pro rata gratuity](dic://pro%20rata%20gratuity)_  按比例领取酬金
-		8. No gratuity accepted. /不收小费。
-		9. Gratuities for waiters are included in the bill. /给侍者的小费包括在帐单中
-		10. He lost his job, no gratuity at all. /他没有任何养老金地失去了工作。
-		11. The debtor, for fear of a very severe execution, was obliged, without any further gratuity, to vote for the candidate whom the creditor recommended /债务人由于担心处决非常严厉，不得不在没有任何进一步酬金的情况下投票给债权人推荐的候选人。
-		12. gratuitous, gratuitously (gratuitous, fortuitous, iniquitous, circuitous, ubiquitous)
+		1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, )
+		2. n. 赏钱，小费；赠物；退职金
+		3.  [tip](dic://tip), [pourboire](dic://pourboire), [baksheesh](dic://baksheesh), [bakshish](dic://bakshish), [bakshis](dic://bakshis), [backsheesh](dic://backsheesh)
+		4. _n._ [fringe benefit](dic://fringe benefit), [perquisite](dic://perquisite), [perk](dic://perk), [prize](dic://prize), [award](dic://award)
+		5. **waiter**服务员，侍者;**buffet**自助餐;**payable**应付的;**fee**酬金;**entree**主菜;**tipping**倾卸台;**tax**向…课税;**waitress**女服务员;**valet**贴身男仆;**fare**费, 票价;
+		6. _[commuted gratuity](dic://commuted%20gratuity)_  经折算的酬金；折算酬金
+		7. _[commuted pension gratuity](dic://commuted%20pension%20gratuity)_  经折算的退休酬金
+		8. _[pro rata gratuity](dic://pro%20rata%20gratuity)_  按比例领取酬金
+		9. No gratuity accepted. /不收小费。
+		10. Gratuities for waiters are included in the bill. /给侍者的小费包括在帐单中
+		11. He lost his job, no gratuity at all. /他没有任何养老金地失去了工作。
+		12. The debtor, for fear of a very severe execution, was obliged, without any further gratuity, to vote for the candidate whom the creditor recommended /债务人由于担心处决非常严厉，不得不在没有任何进一步酬金的情况下投票给债权人推荐的候选人。
+		13. gratuitous, gratuitously (gratuitous, fortuitous, iniquitous, circuitous, ubiquitous)
 			1. gratu-感谢 + -itous表形容词，原指表达感谢，报答，免费给予。后词义贬义化，指无缘无故的，莫名其妙的。比较汉语无功不受禄。
 			2. 来自 grat-,感谢，词源同 grace,gratitude.原指表达感谢，报答，免费给予。后词义贬义化，指无缘无故的，莫名其妙的。
 			3. adj. 无理由的，无端的；免费的
@@ -5394,7 +5396,7 @@
 			11. His films are full of gratuitous violence. /他拍的影片充满了不必要的暴力。
 			12. The video of the gratuitous beating of a Black man has deeply shocked France /这段无端殴打黑人的视频使法国深感震惊。
 			13. Since physicas was julia's favorite subject, she enjoyed providing gratuitous assistance to celia. /因为物理是朱丽亚最喜欢的课，她喜欢为西莉亚提供义务辅导。
-	7. gratify
+	8. gratify
 		1. grat-感谢 + -ify使… → 使[人]满足 , 高兴。
 		2. [satisfy](dic://satisfy) 
 		3. [pander](dic://pander), [indulge](dic://indulge)
@@ -5411,18 +5413,18 @@
 			3. gratefully
 		12. gratifying, gratifyingly
 		13. gratification
-	8. gratitude
+	9. gratitude
 		1. _n._ [feeling](dic://feeling)
 		2. _n._ [ingratitude](dic://ingratitude), [ungratefulness](dic://ungratefulness)
 		3. **kindness**仁慈;**appreciation**欣赏;**generosity**慷慨, 大方, 宽容;**admiration**钦佩;**grateful**感谢的;**thanking**致谢，感谢;**thankful**感谢的;**compassion**怜悯, 同情;**joy**欢乐，快乐;**devotion**热爱;**thank**感谢;
-	9. ingrate
+	10. ingrate
 		1. [thankless wretch](dic://thankless wretch), [ungrateful person](dic://ungrateful person)
 		2. _n._ [unwelcome person](dic://unwelcome person), [persona non grata](dic://persona non grata)
 		3. **bastard**私生的;**hypocrite**伪君子;**arrogant**自大的，傲慢的;**wretched**可怜的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**bitch**母狗，母狼;**heartless**无情的;**whiny**烦躁的;**coward**懦夫，懦弱的人;**idiot**白痴;**pompous**浮夸的;
 		4. It would take an ingrate great courage to work on ways to dispel such measures /一个不知感激为何物的人理直气壮的否定这些措施。
 		5. That ingrate can't stop hounding me for five minutes /这忘恩负义的家伙 5分钟也不让我闲着。
 		6. ingratitude
-	10. ingratiate
+	11. ingratiate
 		1.  (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
 		2. vt. 使迎合；使讨好；使逢迎
 		3. _v._ [manipulate](dic://manipulate), [keep in line](dic://keep in line), [control](dic://control)
@@ -5433,7 +5435,7 @@
 		8. Jobs had an easier time ingratiating himself with the engineers who worked one floor above /乔布斯与在楼上工作的工程师们相处甚欢。
 		9. Well, I have, uh, " an ingratiating wit, trustworthy smile, " according to the Plainview Herald. /我有 " 出众的智慧，迷人的笑容" 《普莱维先驱报》是这么评价的。
 		10. ingratiating
-	11. grace, graces
+	12. grace, graces
 		1. ungracious, ungraceful
 			1. scapegrace
 		2. gracious

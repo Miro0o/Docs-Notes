@@ -31,9 +31,9 @@
 	9. laborsaving
 	10. laborsome
 2. belabour /belabor
-	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
-	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 	4. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
 	5. vt. 痛打；不断辱骂和嘲弄；唠叨
 	6. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
@@ -41,12 +41,12 @@
 	8. there is no need to belabour the point. /没有必要对这一点多费口舌。
 	9. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
 	10. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
-4. collaborate
+3. collaborate
 	1. collaboratory
 	2. collaborator
 	3. collaborative
 	4. collaboration
-5. elaborate
+4. elaborate
 	4. e-出 + labor-工作 + -ate, 表形容词 → 做出来的 → 精工细做。
 	5. a. 精细的, 详尽的, 精心计划(或制作)的  vt. 详尽阐述, 详细描述; 详细制订
 	6. _v._ [clarify](dic://clarify), [clear up](dic://clear up), [elucidate](dic://elucidate), [produce](dic://produce), [make](dic://make), [create](dic://create), [change](dic://change)

@@ -7865,8 +7865,10 @@
 		1. unrepentant
 		2. repently
 		3. repentent
-		4. repentant, repentantly
-		5. repentance
+		4. repentant
+			1. (contrite, remorseful, rueful, ruthful, penitent repentant, excusatory, compunctious)
+		5. repentantly
+		6. repentance
 	7. subpena, subpoena
 	8. pain
 		1. painstaking, painstakingly
@@ -8748,20 +8750,38 @@
 		6. _quest for_ 追求；探索，设法找到
 		7. _in quest of_ 探寻，寻求；为了追求……
 		8. question
-			1. unquestioning
-			2. unquestioned
-			3. unquestionable
-			4. slef-questioning
-			5. questionmaster
-			6. questionaire
-			7. questionless
-			8. questioningly
-			9. questioning
-			10. questionary
-			11. cross-question
-			12. counterquestion
-		9. request, requester
-		10. inquest
+			1. call into question
+				1. But in recent years, those assumptions are being called into question /但近年来，这些假设正受到质疑。
+				2. It was a disaster, Washington's leadership was called into question /这几乎是场灾难，华盛顿的领导力开始备受质疑。
+				3. Trump mercilessly attacked American spies and called into question their warnings. /特朗普对美国情报界发起了无情的攻击，还对他们的警告提出了质疑。
+				4. 
+			2. out of the question
+				1. 不可能的：不可能或不允许的。 不可考虑的：不可考虑或不允许的。
+				2. _[out of the question](dic://out%20of%20the%20question)_  不可能；不知底细；根本谈不上
+				3. To effect the delivery is out of the question. /发货是不可能的了。
+				4. I suppose that is absolutely out of the question? /我想 这是绝对办不到的?
+				5. It is totally **out** **of** **the** **question** to postpone **the** midnight deadline /延迟午夜的最后期限是根本不可能的。
+				6. 
+			3. out of question
+				1. - 毫无疑问、无可争议、肯定的（过时用法）：指某事或某观点是毫无疑问的，没有任何争议。
+				2. _[out of question](dic://out%20of%20question)_  毫无疑问
+				3. So it's not out of question for a hurricane to become a typhoon if it moves over the dateline. /因此，当飓风跨过国际日期变更线后就会变成台风。
+				4. That the beautiful flowers are hers is **out** **of** **question**. /毫无疑问那漂亮的花是她的。
+				5. 
+			4. unquestioning
+			5. unquestioned
+			6. unquestionable
+			7. slef-questioning
+			8. questionmaster
+			9. questionaire
+			10. questionless
+			11. questioningly
+			12. questioning
+			13. questionary
+			14. cross-question
+			15. counterquestion
+		10. request, requester
+		11. inquest
 	5. acquire
 		1. acquisition
 		2. acquisitive
@@ -8772,31 +8792,41 @@
 		5. acquirement
 		6. acquired
 	6. conquer
-		1. conquest
+		1. con-全部 + quer-找 → 全部寻求到 → 征服。
+		2. conquest
 			1. preconquest
 			2. conquistador
-		2. unconquerable
-		3. reconquer
-		4. conquereor
-		5. conquerable
-		6. all-conquering
-	7. inquire
-		1. inquiry
-		2. inquiring
-		3. inquirer
-		4. inquisition, inquisitional
-		5. inquisitive, inquisitively, inquisitiveness
-		6. inquisitor
-		7. inquisitorial
-	8. enquire
-		1. enquiry
-		2. enquirer
-	9. exquisite
-		4. exquisiteness
-		5. exquisitely
-	10. perquisite (perk)
-		1. perquisition
-	11. require
+		3. unconquerable
+		4. reconquer
+		5. conquereor
+		6. conquerable
+		7. all-conquering
+	8. inquire
+		1. v. 询问, 问明, 查究
+		2. in-进入 + quir-问 + -e → 问进去 → 盘问。
+		3. inquiry
+		4. inquiring
+		5. inquirer
+		6. inquisition, inquisitional
+		7. inquisitive, inquisitively, inquisitiveness
+		8. inquisitor
+		9. inquisitorial
+	10. enquire
+		1. v. 询问
+		2. en-进入，使 + quir-询问 + -e。
+		3. en-,进入，使，-quir,询问，词源同 query,question.
+		5. enquiry
+		6. enquirer
+	11. exquisite
+		8. exquisiteness
+		9. exquisitely
+	12. perquisite (perk)
+		1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, )
+		2. n. 额外补贴, 特殊待遇, 外快
+		3. per-完全的 + quis-寻求，要求，探索，词源同question , exquisite . 引申词义过分要求，特权。后也用于指额外补贴，津贴。
+		4.  per-,完全的，-quis,寻求，要求，探索，词源同 question,exquisite.引申词义过分要求，特权。后也用于指额外补贴，津贴。
+		5. perquisition
+	13. require
 		1. requirement
 		2. required
 		3. requisite
@@ -8822,7 +8852,7 @@
 				3. _purchasing requisition_ 采购申请，进货申请书；请购单
 			6. requisitioning
 			7. derequisition
-	12. disquisition
+	14. disquisition
 		1. _n._ [essay](dic://essay)
 		2. _[emulate disquisition](dic://emulate%20disquisition)_ 仿真研究
 		3. _[disquisition history](dic://disquisition%20history)_ 研究史

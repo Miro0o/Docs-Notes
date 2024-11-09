@@ -1011,6 +1011,122 @@
 	19. parolee
 
 
+### + \*pater- +
+1. **patr-,parto-,pater-**   = father, 表示“父亲，祖国”。源自拉丁语 pater (属格 patris) "father.".
+	1. paternal
+	2. paternity
+		1. n. <法律>父亲的身份；父系来源，父系出身；（想法或发明的）来源，出处 
+		2. adj. 为新生儿父亲的；鉴定父子关系的
+		3. _n._ [state](dic://state), [kinship](dic://kinship), [family relationship](dic://family relationship), [relationship](dic://relationship), [initiation](dic://initiation), [founding](dic://founding), [foundation](dic://foundation)
+		4. **maternity**母性;**spousal**婚礼;**parental**父母亲的，父母的;**divorce**使离婚，使分离;**DNA**脱氧核糖核酸;**marital**婚姻的;**pregnancy**怀孕;**infidelity**不信神;**parenthood**父母的身份;**offspring**子女, 子孙, 后代;**fathers**父亲们;
+		5. _paternity test_ 亲权认定；父权检验；试验
+		6. _paternity leave_ 陪产假
+		7. Still, some companies do provide not only paid maternity leave but paid paternity leave as well. /然而，一些公司不仅提供带薪产假，甚至提供带薪陪产假。
+		8. During this period, many parents take paternity and maternity leave from work. /在此期间，许多父母会休陪产假和产假。
+		9. That's a lie. -What if I took a paternity test? Will that shut you up? /s你在说谎。-我要不要去做个亲子鉴定？那样可不可以让你闭嘴？
+		10. 
+	4. paternoster
+	5. pater
+		1. - n. 父亲
+	6. paterfamilias
+	7. compatriot
+		1. _n._ [national](dic://national), [subject](dic://subject)
+		2. **teammate**队友，同队队员;**comrade**同志;**countrymen**国民;**Spaniard**西班牙人;**Frenchman**法国人;**fellow**同事;**colleague**同事;**Englishman**英国人;**comrades**同志们;**Dutchman**荷兰人;**friend**朋友;
+	8. expatriate
+		1. n. 旅居国外者，侨民；被流放者 
+		2. v. （强行或依法）把（某人）逐出本国，使移居国外；移居国外，定居国外 
+		3. adj. （人）旅居国外的；被流放国外的
+		4. _n._ [absentee](dic://absentee)
+		5. _v._ [expel](dic://expel), [throw out](dic://throw out), [kick out](dic://kick out), [emigrate](dic://emigrate)
+		6. _n._ [repatriate](dic://repatriate)
+		7. **expat**逐出国外,脱离国籍,放逐;**expats**亡命国外者;**immigrant**移民;**foreigner**外国人;**English-speaking**说英语的;**resident**定居的;**migrant**移居者;**Singaporean**新加坡人;**overseas**在海外，海外;**Englishman**英国人;**foreign**外国的;
+		8. _[expatriate staff](dic://expatriate%20staff)_  离国服务的工作人员
+		9. _[expatriate management](dic://expatriate%20management)_  外籍管理
+		10. _[expatriate manager](dic://expatriate%20manager)_  外派经理
+		11. _[expatriate personnel](dic://expatriate%20personnel)_  派出人员；外雇人员
+		12. _[appointment on expatriate terms](dic://appointment%20on%20expatriate%20terms)_  按外籍雇员条款聘用
+		13. American expatriates in London /伦敦的美国侨民。
+		14. The writer, an expatriate living in Singapore, has studied and worked in the US. /作者曾在美国读书和工作，目前旅居新加坡。
+		15. Even as hordes of less employable expatriates return, the brightest remain abroad. /即便有大批就业竞争力差的留学生回国，最优秀的还留在国外。
+		16. The word " expatriate" is used to describe people who live outside their home country. /外侨指居住在别国的外国居民。
+		17. The large number of British expatriates in places such as Amsterdam and southern Spain gives cover to British criminals. /在阿姆斯特丹和西班牙南部地区的大批英国侨胞给英国罪犯提供了掩护。
+	10. patriarch
+		1. n. （男性）家长，族长；德高望重的男长者；（基督教东派教会的）大牧首，宗主教（Patriarch）；（《圣经》中人类的）祖先（尤指亚伯拉罕、以撒和雅各以及他们的祖先，或尤指雅各的子孙们）
+		2. _n._ [spiritual leader](dic://spiritual leader), [man](dic://man), [adult male](dic://adult male), [head of household](dic://head of household), [forefather](dic://forefather), [father](dic://father), [sire](dic://sire)
+		3. **father-in-law**岳父;**bishop**主教;**father**父亲，爸爸;**clan**宗族;**uncle**伯父;**son-in-law**女婿;**patriarchal**家长的;**elder**年长者;**grandson**孙子;**archbishop**大主教;**nephew**侄子;
+		4. Cunningham's authoritative energy marks him out as patriarch within his own company. /坎宁安颐指气使，在自己公司内部挺像个主宰。
+		5. I don't like to play this card, but I am the patriarch, and I have spoken. /我不想把话说到这份上，但我可是家长，我已经发话了。
+		6. I've replaced them both as the de facto patriarch of your family and your universe. /我已经替代了他，现在你家和这个宇宙都是我做主。
+	12. patrician
+	13. patriciate [美 /pəˈtrɪʃiɪt/](cmd://Speak/_us_/patriciate)
+		1. _[aristocracy patriciate](dic://aristocracy%20patriciate)_ 贵族社会
+		2. _[nobility noblesse patriciate peerage](dic://nobility%20noblesse%20patriciate%20peerage)_ 贵族阶级
+		3. Gilbert Osmond had a high appreciation of this particular patriciate; not so much for its distinction, which he thought easily surpassable, as for its solid actuality. /吉尔伯特奥斯蒙德非常欣赏这位贵族。与其说是因为它的区别，他认为这是很容易超越的，不如说是因为它坚实的现实。
+	14. patricide
+	15. patrilineal
+	16. patrimony
+	17. patriot
+	18. patristic
+	19. patron
+		1. patron（主顾）：掏钱资助艺术家的贵族  
+		2. 在古代，艺术家的日子不好过。因为艺术品既不能拿来充饥，又不能拿来保暖，所以不能像普通商品那样能给艺术家带来稳定的收入。艺术家的收入主要来自上流人士的资助。那些达官贵人欣赏某位艺术家的才华，就会花大价钱购买他的作品。这种购买艺术家的作品、资助艺术家的人就被称为patron（赞助人、保护人）。这个单词来自拉丁语patronus（守护神、保护人），词根是pater-（father，父亲）。英语单词patrician（贵族）与此同源。  
+		3. 对于艺术家来说，这些人绝不仅仅是买家，而是他们的恩人和庇护人，故称之为patron。例如文艺复兴时期的意大利，在二百年的文艺复兴鼎盛时期，美第奇家族是许多艺术大师们的patron。罗马和佛罗伦萨的许多名垂青史的建筑，雕塑，绘画和壁画，都是在美第奇家族的资助下，由波提切利，达芬奇，米开郎基罗，拉斐尔等艺术大师完成，因而创造了辉煌灿烂的文艺复兴文化。  
+		4. 在现代，patron一词的含义已经泛化，可以表示各种行业的大主顾，但依然含有“赞助、庇护”的含义，因此一般指的是那种经常惠顾的老主顾，而不是一般的顾客（customer）。  
+		5. patron：['peɪtr(ə)n] n.主顾、赞助人、庇护人  
+		6. patroness：[,petrən'ɛs] n. 女主顾；女资助人；女保护人  
+		7. patronage：['pætrənɪdʒ] n. 赞助；光顾；任免权  
+		8. patronize：[ˈpætrəˌnaɪz] vt. 以高人一等的态度对待；经常光顾，惠顾；资助；保护
+		9. patronize
+			1. - v. 表现出高人一等的姿态，以高人一等的态度对待；光顾，惠顾（餐馆、酒店或其他生意）；赞助，资助
+			2. _v._ [support](dic://support), [back up](dic://back up), [interact](dic://interact), [foster](dic://foster), [nurture](dic://nurture)
+			3. _n._ [boycott](dic://boycott)
+			4. **patrons**赞助人;**shun*避开, 回避, 避免;**dine**进餐，用餐;**criticize**评论, 批评;**despise**轻视，鄙视;**advertise**公布, 宣传;**subsidize**给与补助金或奖助金;**refuse**拒绝;**encourage**鼓励, 激励;**entice**诱使;**insist**坚持，强调;
+			5. Because of the stigma that is associated with disability most times, people do not patronize them. /由于大多数时候与残疾有关的耻辱，人们不会屈尊于他们。
+			6. Don't patronize me. Oh, my God. This is gonna be a disaster /少拿这一套哄我。天啊。简直要完蛋了。
+			7. Because we say a lot of stupid, patronizing things that make people want to avoid us. /因为我们老说些蠢话，还盛气凌人，显得讨人厌。
+			8. Don't patronize me, Kenny. We're prepared to go to the mat on this one. /别护着我，肯尼。这个我们要据理力争。
+			9. He was possessed with a mania for patronizing Yankee ingenuity, and seeing his friends fitly furnished forth. /他陷入了对美国式独创性的狂热爱好，务必要使朋友们的家恰当地装备起来。
+			10. I'll never **patronize** that store again /我再也不去光顾那家商店了。
+			11. The ladies of Berne liked to **patronize** the palace for tea and little cakes. /伯尔尼的女士们喜欢光顾这个地方喝茶吃点心。
+		10. patronise
+		11. patroness
+		12. patronage
+			1. n. 赞助, 恩赐态度, 光顾, 任免权, 保护人的身份
+			2.  (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
+			3.  [backing](dic://backing), [backup](dic://backup), [championship](dic://championship)
+			4.  [clientele](dic://clientele), [business](dic://business)
+			5.  [condescension](dic://condescension), [disdain](dic://disdain)
+			6.  [trade](dic://trade)
+			7. [patronize](dic://patronize), [patronise](dic://patronise), [support](dic://support), [keep going](dic://keep going)
+			8. _n._ [blessing](dic://blessing), [approval](dic://approval), [approving](dic://approving), [people](dic://people), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation)
+			9. _v._ [sustain](dic://sustain), [keep](dic://keep), [maintain](dic://maintain), [foster](dic://foster), [nurture](dic://nurture)
+			10. **patron**赞助人;**prestige**威望，声望;**generosity**慷慨, 大方, 宽容;**aristocracy**贵族;**benefactor**恩人;**patrons**赞助人;**influence**影响;**establishment**确立;**loyalty**忠心;**clout**破布;**sponsorship**赞 赞助;
+			11. a no-show political patronage job. /轻闲的政治赞助工作
+			12. We give our patronage to local shops. /我们光顾本地的商店。
+			13. The Long Noses form a peculiar company, under the direct patronage of the god Tingou. /这些" 长鼻子" 是在天狗神直接佑护之下组成的一个特别的" 长鼻子" 班。
+	20. patryonymic
+	21. perpetrate
+		1. vt. 做(恶), 犯(罪), 胡说, 恶劣地做
+		2. 1 - 来自拉丁语 perpetrare,履行，执行，完成，来自 per-,整个的，patrare,执行，实施，来自 pater,父亲，词源同 father.其字面意思可能是生下小孩，成为父亲。其原义并无感情色情，后用于比喻用法始作俑者，犯罪，做恶。
+		3. _v._ [act](dic://act), [move](dic://move)
+		4. **perpetuate**使永存;**heinous**可憎的;**atrocity**暴行;**complicit**同谋的;**perpetrator**做坏事者;**crimes**犯罪;**conceal**隐藏;**commit**犯罪;**inflict**把…强加给, 使承受, 遭受;**incite**煽动;**despicable**可鄙的,卑鄙的;
+		5. a crime has been perpetrated against a sovereign state /对一个主权国家犯下了罪行。
+		6.  flimflams perpetrated against us by our elected officials./我们选出的官员对我们耍弄的骗局。
+		7. Almost all mass shootings in the U.S. have been perpetrated by men, most of them white /美国发生的所有大规模枪击案几乎都是男性制造的，而且大多数枪手是白人。
+		8. We have a recording of the defendant perpetrating this crime. /我们有被告犯罪的录音。
+		9. We will expose the abuses our government has perpetrated. /我们会曝光政府的恶行。
+		10. 
+		11. perpetration
+		12. perpetrator
+	22. repatriate
+	23. compadre
+		1. n. 密友, 老友
+	24. padre
+	25. pattern
+	26. poppa
+6. father
+
+
 ### ⭐ + \*pau- +
 #### + \*pau- (1) + = few, little, small, young
 1. **parv-** = small， 「Latin」parvus, "little, small"
@@ -1058,10 +1174,17 @@
 		3.  [teaching](dic://teaching), [instruction](dic://instruction)
 		4.  [education](dic://education), [instruction](dic://instruction), [teaching](dic://teaching), [didactics](dic://didactics), [educational activity](dic://educational activity)
 		5. **pedagogical**教学的;**curricula**课程;**curriculum**全部课程;**teaching**教学;**education**教育;**humanities**人文学科;**classroom**教室, 课堂;**learning**学习;**participatory**供人分享的;**philosophy**哲学;**theology**神学;
-	7. pedant, pedantry
+	7. pedant
 		1. ped-教育 + -ant人 → 受过教育的人 → 书呆子。
 		2. pedant - 在古希腊，富有人家未成年的公子常有一名机灵能干的奴隶负责照顾，公子上学或外出时都由这名奴隶随侍。希腊语称这种奴隶为paidagōgós，字面义是boy-leader（带领男孩者），由paîs 'boy'和agōgós 'leader'合成。14世纪该词经由拉丁语（paedagōgus）进入英语，词形演变为pedagogue（美国英语作pedagog）。英语的pedagogue所取的是“带领者”一义，这其中自然包括功课有不懂的地方从旁指点，故最初被赋予“教师”一义。嗣后，词义贬降为“学究”或“过分拘泥于条条框框的老师”。16世纪从pedagogue衍生出pedagogy（教育学；教学），17世纪又进而派生出pedagogical（教学法的），两个词都不再带贬抑含义。
-		3. 
+		3. [bookworm](dic://bookworm), [scholastic](dic://scholastic)
+		4. _n._ [scholar](dic://scholar), [scholarly person](dic://scholarly person), [bookman](dic://bookman), [student](dic://student)
+		5. **snob**势利小人，势利眼;**nerd**讨厌的人;**pompous**浮夸的;**pretentious**自命不凡的;**moron**痴愚者;**idiot**白痴;**bugger**家伙;**punctuation**标点法, 标点符号的使用;**geek**做低级滑稽表演的人;**daft**愚蠢可笑的;**philosopher**哲学家;
+		6. Don't let pedants make you scared to speak /不要让迂腐让你害怕说。
+		7. For years, linguists, grammar nerds, and pedants have battled over the Oxford comma /多年来，语言学家、语法怪才和学究们一直在为牛津逗号争论不休。
+		8. A pedant will correct native speakers' mistakes too, and not in the classroom /学究也会纠正母语使用者的错误，而且并不是在课堂上。
+		9. 
+		10. pedantry
 	8. propaedeutic
 		1. a. 预备的, 入门的  n. 预备教育
 		3. propaedeutical
@@ -1069,15 +1192,25 @@
 	9. 
 4. **pover-, paup-** = few, little,
 	1. parsimony
-		1.  来自拉丁语 parcere,节省，储蓄，适度，可能来自 parum,小的，少的，来自 PIE*pau,少的，词源同 few,poor.-mony,名词后缀。后词义贬义化。
-		2. _n._ [frugality](dic://frugality), [frugalness](dic://frugalness), [stinginess](dic://stinginess)
-		3. **phylogenetic**系统发生的,动植物种类史的;**Bayesian**贝叶斯定理的;**robustness**强度;**inference**推论, 推理, 推断;**taxonomic**分类学的;**altruism**利他;**constraint**约束;**rationality**理性;**probabilistic**盖然论的,或然说的;
-		4. parsimonious
+		1. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
+		2. (ascetic, ascetical, austere, spartan, stoic, frugal, abstemious, abstinent, thrifty, scotch, sparing, stinting, parsimony, stingy, )
+		3. (profligate, dissipate, fritter, profuse, squander, extravagant, improvident, prodigal, )
+		4.  来自拉丁语 parcere,节省，储蓄，适度，可能来自 parum,小的，少的，来自 PIE*pau,少的，词源同 few,poor.-mony,名词后缀。后词义贬义化。
+		5. _n._ [frugality](dic://frugality), [frugalness](dic://frugalness), [stinginess](dic://stinginess)
+		6. **phylogenetic**系统发生的,动植物种类史的;**Bayesian**贝叶斯定理的;**robustness**强度;**inference**推论, 推理, 推断;**taxonomic**分类学的;**altruism**利他;**constraint**约束;**rationality**理性;**probabilistic**盖然论的,或然说的;
+		7. The parsimony which leads to accumulation has become almost as rare in republican as in monarchical governments /导致积累的节俭在共和政体中几乎和在君主政体中一样罕见。
+		8. Independent of this necessity, he is, in such a situation, naturally disposed to the parsimony requisite for accumulation /独立于这种必要性， 在这种情况下， 他自然倾向于积累所需的吝啬。
+		9. " Yes, " said I, " how happy you are to have got out of the parsimony of oppression" ! /“是的，”我说，“你能摆脱压迫的吝啬是多么幸福啊”！
+		10. With an exasperating parsimony he took down the chests, opened them, and placedon the table, one by one, seventy-two gold bricks. /他以令人恼火的吝啬取下箱子，打开它们，把七十二块金砖一块一块地放在桌子上。
+		11. He paused in order to apportion with a parsimony full of justice, a dish of bacon and potatoes which the servant had just brought in. /他停下来，以一种充满正义感的节俭来分配仆人刚送进来的一盘培根和土豆。
+		12. Capitals are increased by **parsimony**, and diminished by prodigality and misconduct. /节俭使资本增长，挥霍和运用不当使资本减少。
+		13. Thrift, neither like extravagance, nor like **parsimony**, is a doctrine of the mean. /俭是一种中道 ，既不同于奢侈 ，又不能归结为吝啬。
+		14. parsimonious
 			1. **sensible**明智的;**plausible**貌似真实的，貌似有理的;**deterministic**确定的;**probabilistic**盖然论的,或然说的;**frugal**节俭的;**pragmatic**务实的;**Bayesian**贝叶斯定理的;**generous**慷慨的，大方的;**constrained**不舒服的,被强迫的,拘泥的;**implausible**难以置信的, 似乎不合情理的, 不太可能的;**prudent**谨慎的;
 			2. _adj._ [stingy](dic://stingy), [ungenerous](dic://ungenerous)
 			3. _[parsimonious](dic://parsimonious)_  adj. 吝啬的；过于节俭的；质量差的
 			4. _[parsimonious model](dic://parsimonious%20model)_  简约模型; 精简模型;
-	2. pauper
+	3. pauper
 		1. paup-少 + -er
 		2. 单词A：pauper ['pɔːpə] n.乞丐；穷人；靠救济度日者，adj.贫民的，单词B:poverty ['pɒvətɪ] n. 贫困；困难；缺少；低劣。二者明显有关系，除去-ty这个后缀，为什么A是-p-而B是-v-呢？这是因为A直接来自拉丁语而B经由法语进入英语，而拉丁语中词根中的-p-会在法语中变为-v-，如rape和ravage等。  
 		3. 那pauper又怎讲呢？pau-这个部分与few少同源，如paucity n.缺少；少数等，而-per这个部分实际是词根par-，表示准备、生产、出现、获得等相关含义，于是pauper就是that who is lacking property or means of living，出现在拉丁短语forma pauperis中时，就是in theform of a poor，打官司不用花钱的。
@@ -1091,23 +1224,23 @@
 		9. depauperate
 			1. _[depauperate](dic://depauperate)_  adj. 发育不全的；萎缩的; v. 使……贫穷；使……枯竭；妨碍……的生长;
 			2. 
-	3. pony
+	4. pony
 		1. **mare**母马;**stallion**种马;**filly**小雌马，小母马;**colt**小马;**gelding**去势;**horse**马;**sire**陛下;**horses**马;**equine**马的;**hoof**步行;**pony**小型马;
 		2. sumpter-pony
 		3. ponytail
 		4. pony-trekking
-	4. impoverish
+	5. impoverish
 		1. impoverishment
 		2. ipoverished
-	5. poor
+	6. poor
 		1. poorness
 		2. poorly
 		3. poorish
 		4. poorhouse
 		5. poor-spirited
 		6. poor-mouth
-	6. poverty, poverty-stricken
-	7. pullet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
+	7. poverty, poverty-stricken
+	8. pullet (mallet, pullet, pellet, pallet, mullet, millet, ballet)
 		1. 来自古法语 poule,小母鸡，来自拉丁语 pullus,小动物，家禽，来自 PIE*pulo,小动物，来自PIE*pau,小的，少的，词源同 few,foal,filly.-et,小词后缀。
 		2.  [fryer](dic://fryer), [frier](dic://frier)
 		3. _n._ [chicken](dic://chicken), [poulet](dic://poulet), [volaille](dic://volaille), [hen](dic://hen), [biddy](dic://biddy)
@@ -1335,14 +1468,16 @@
 	5. parapedesis
 2. **pair-, pejor-** = worse, 表示“使更糟”。源自拉丁语 peior "worse." 字母 d 在拉丁语中脱落，-i- 在进入英语后音变为 -j-, -or, 比较级后缀。
 	1. pejorative
-		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize)
-		2. 1 - 来自拉丁语 peior,更坏的，来自 PIE*ped,脚，词源同 foot,impair,impeach.字母 d 脱落，拉丁语i 在英语里音变为 j,-or,比较级后缀。词义由其基本义脚引申为向下，低等，低到尘埃，卑贱，最后引申词义贬损的，轻蔑的。
-		3.   adj. 轻蔑的，贬损的；恶化的，变坏的; n. 轻蔑语，贬义词;
-		4. **derogatory**不敬的;**connotation**内涵;**disparaging**轻蔑的;**slur**诽谤;**colloquial**口语的, 会话的;**epithet**词语;**slang**俚语;**neologism**新词;**adjective**形容词;**term**学期;**condescending**降低身份的,屈尊的;
-		5. _adj._ [uncomplimentary](dic://uncomplimentary)
-		6. _[pejorative and inaccurate](dic://pejorative%20and%20inaccurate)_ 带贬义且不够准确
-		7. _[English proverb pejorative proverb](dic://English%20proverb%20pejorative%20proverb)_ 褒义谚语; 英语的谚语;
-		8. _[pejorative suffix](dic://pejorative%20suffix)_ 轻蔑词尾
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+		4. 1 - 来自拉丁语 peior,更坏的，来自 PIE*ped,脚，词源同 foot,impair,impeach.字母 d 脱落，拉丁语i 在英语里音变为 j,-or,比较级后缀。词义由其基本义脚引申为向下，低等，低到尘埃，卑贱，最后引申词义贬损的，轻蔑的。
+		5.   adj. 轻蔑的，贬损的；恶化的，变坏的; n. 轻蔑语，贬义词;
+		6. **derogatory**不敬的;**connotation**内涵;**disparaging**轻蔑的;**slur**诽谤;**colloquial**口语的, 会话的;**epithet**词语;**slang**俚语;**neologism**新词;**adjective**形容词;**term**学期;**condescending**降低身份的,屈尊的;
+		7. _adj._ [uncomplimentary](dic://uncomplimentary)
+		8. _[pejorative and inaccurate](dic://pejorative%20and%20inaccurate)_ 带贬义且不够准确
+		9. _[English proverb pejorative proverb](dic://English%20proverb%20pejorative%20proverb)_ 褒义谚语; 英语的谚语;
+		10. _[pejorative suffix](dic://pejorative%20suffix)_ 轻蔑词尾
 	3. pejoration
 		1. _[pejoration](dic://pejoration)_  n. 恶化；堕落；语义的转贬
 	4. impair
@@ -1637,13 +1772,14 @@
 		5. impassion (impassive)
 		6. dispassion
 			1. dispassionate (impartial, fair, unbiased, posed, cerebral)
-				1. a. 冷静的, 不带感情的
-				2. dis-不，非，使相反 + passionate【有感情的】。
-				3. _adj._ [impartial](dic://impartial), [fair](dic://fair)
-				4. _n._ [partial](dic://partial), [unfair](dic://unfair)
-				5. **impartial**不偏不倚的;**disinterested**不感兴趣的;**unbiased**无偏见的;**methodical**有条理的, 井然的;**pragmatic**务实的;**empathetic**移情作用的;**rational**理性的;**aloof**冷淡的;**introspective**好反省的;**cynical**愤世嫉俗的;**perceptive**敏感的;
-				6. she dealt with life's disasters in a calm, dispassionate way. /对待生活中的灾祸，她沉着理智。
-				7. a dispassionate look at a problem /对某个问题客观的研究
+				1. ( impassion, impassive, dispassionate, passionate, compassion)
+				2. a. 冷静的, 不带感情的
+				3. dis-不，非，使相反 + passionate【有感情的】。
+				4. _adj._ [impartial](dic://impartial), [fair](dic://fair)
+				5. _n._ [partial](dic://partial), [unfair](dic://unfair)
+				6. **impartial**不偏不倚的;**disinterested**不感兴趣的;**unbiased**无偏见的;**methodical**有条理的, 井然的;**pragmatic**务实的;**empathetic**移情作用的;**rational**理性的;**aloof**冷淡的;**introspective**好反省的;**cynical**愤世嫉俗的;**perceptive**敏感的;
+				7. she dealt with life's disasters in a calm, dispassionate way. /对待生活中的灾祸，她沉着理智。
+				8. a dispassionate look at a problem /对某个问题客观的研究
 		7. compassion (compass, compression, compaction, compassion)
 			1. _n._ [sympathy](dic://sympathy), [fellow feeling](dic://fellow feeling), [mercifulness](dic://mercifulness), [mercy](dic://mercy)
 			2. **empathy**移情作用;**kindness**仁慈;**gentleness**温和;**humility**谦卑，谦逊;**compassionate**表示怜悯的,有同情心的 ;**sympathy**同情;**generosity**慷慨, 大方, 宽容;**mercy**仁慈，宽容;**sincerity**真实, 诚挚;**selfishness**自私;**caring**有同情心的;
@@ -3305,8 +3441,10 @@
 		4. priest-ridden
 		5. archpriest
 5. **pro-, pur-, por- = forward, in front of** = 表示“向前，在前”，变体包括 pur-, por-。
-	1. etc...
-6. **proach- = near**
+	1. apropos
+		1. tkei-
+	2. etc...
+7. **proach- = near**
 	1. approach
 		1. counterapproach
 	2. reproach
@@ -3318,7 +3456,7 @@
 		3.  [reconciliation](dic://reconciliation)
 		4. **reconciliation**和解, 调和;**unity**联合;**cooperation**合作;**reunification**重新统一;**schism**分裂;**diplomacy**外交;**alliance**联盟，联合;**co-operation**合作;**truce**休战;**confrontation**对抗, 对抗的事物;**unification**统一,联合,一致;
 		5. _[Sino Us Rapprochement](dic://Sino%20Us%20Rapprochement)_ 中美关系解冻
-7. **prob-, prov- = test, pro + be**
+8. **prob-, prov- = test, pro + be**
 	1. reprobate
 		1. _n._ [wrongdoer](dic://wrongdoer), [offender](dic://offender)
 		2. _v._ [reject](dic://reject), [sentence](dic://sentence), [condemn](dic://condemn), [doom](dic://doom), [denounce](dic://denounce)
@@ -4403,9 +4541,9 @@
 			12. For the bite force, probably comparable to a great white shark. /它的咬合力，应该可以媲美大白鲨。
 			13. Its economy is comparable to other European economies. /它的经济与其他欧洲经济体相当。
 	2. disparage (asperse, dissipate)
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		4. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 		5. _n._ [flatter](dic://flatter), [blandish](dic://blandish)
 		6. **criticize**评论, 批评;**discredit**败坏…的名声;**undermine**在某物下挖洞或挖通道;**offend**冒犯;**accuse**控告，指控;**embarrass**使窘迫;**ridicule**嘲笑;**despise**轻视，鄙视;**insult**侮辱;**intimidate**恐吓, 威胁;**denounce**谴责;
@@ -4531,9 +4669,48 @@
 11. **part-, port-** = part, divide, 「Latin」pars "a share"
 	1. apart
 		1. ad. 成零碎, 成距离, 分别地, 分离着  a. 分离的
-		2. aprtment
-		3. apportion
-	3. compart
+		2.  [isolated](dic://isolated), [obscure](dic://obscure)
+		3. [separate](dic://separate), [separated](dic://separated)
+		4. [aside](dic://aside)
+		5.  [aside](dic://aside)
+		6.  [asunder](dic://asunder)
+		7. _adj._ [unconnected](dic://unconnected), [divided](dic://divided), [separate](dic://separate)
+		8. _n._ [connected](dic://connected), [united](dic://united), [joint](dic://joint)
+		9. **away**离去，离开;**aside**在旁边;**separated**分开的;**together**一起;**from**来自，从;**sets**集合，设置;**torn**扯裂，撕开;**tearing**痛苦的;**farther**此外;**falling**落下的;**off**离开;
+		10. _apart from_ 远离，除…之外；且不说；缺少
+		11. _fall apart_ 崩溃；土崩瓦解；破碎
+		12. _set apart_ 留出…；使分离；区别
+			1. - 分开：将某物与其他事物分开或区分开来。 
+			2. 保留，留出：将某物保留或留出来，不用于其他目的。 
+			3. 突出，使显眼：使某物在其他事物中突出或显眼。
+			4. [assign](dic://assign), [specify](dic://specify)
+			5.  [sequester](dic://sequester), [sequestrate](dic://sequestrate), [keep apart](dic://keep apart), [isolate](dic://isolate)
+			6.  [detached](dic://detached), [isolated](dic://isolated), [separated](dic://separated), [set-apart](dic://set-apart)
+			7. _v._ [choose](dic://choose), [take](dic://take), [select](dic://select), [pick out](dic://pick out), [separate](dic://separate), [disunite](dic://disunite), [divide](dic://divide)
+			8. _adj._ [separate](dic://separate)
+			9. Okay that's what sets apart leaders and and sets you apart as as someone unique. /这就是区分领导者的关键因素 它可以使你变得独一无二。
+			10. How do you set yourself apart? /你如何让自己与众不同?
+			11. What set the Super Bowl apart for you as a performance? /超级碗对你来说除了是一场演出外，还有什么特别之处？
+			12. Fighting dogs need to be **set** **apart** in the correct way. /正在打架的狗需要用正确的方式分离。
+		14. _take apart_ 拆开；剖析；粗暴对待
+		15. _come apart_ 破碎；崩溃；瓦解
+		16. _tear apart_ 把……弄乱；使……分裂
+		17. _torn apart_ 撕碎；心痛欲裂
+		18. _pull apart_ 撕开；扯断
+		19. _tell apart_ 区分；分辨
+		20. _poles apart_ 截然相反；天壤之别；大相径庭
+		21. _break apart_ 使…分裂开
+		22. _apart form_ 除…之外
+		23. _drift apart_ 漂离，疏远；各奔东西
+		24. _quite apart from_ 更何况
+		25. _keep apart_ 分离
+		26. _live apart_ 分开居住
+		27. _put apart_ 留出；留开；拨开
+		28. _joking apart_ 言归正传；说正经的
+		29. _set apart from_ 使分离
+		30. aprtment
+		31. apportion
+	20. compart
 		1. com-强调 + part-分开
 		2. vt. 分隔
 		3. _v._ [range](dic://range), [array](dic://array), [lay out](dic://lay out), [set out](dic://set out)
@@ -5580,12 +5757,16 @@
 		8. Lots of spicy foods get their pungency from a chemical called capsaicin. /许多辛辣食物的刺激性来自一种叫做辣椒素的化学物质。
 		9. There he fell sound asleep on the sofa, and so Gloria found him, his breath filling the air with an unpleasant pungency, his hand still clutching his open brief case. /他在沙发上睡着了，于是格洛丽亚找到了他，他的呼吸充满了令人不快的刺鼻气味，他的手仍然抓着打开的公文包。
 		10. Being perfect, they can never droop under that satiety which arises from the perception of fault; their virtue can never be so entirely savoured as to leave no pungency of gusto for the next approach /作为完美的人，他们永远不会在因错误的感知而产生的满足感下垂头丧气；他们的美德永远无法被完全品味到对下一个方法没有热情的刺激。
-	1. compunction (contrite, remorse, rueful, compunction, rue, penitent )
-		1. com-共同 + punct-刺 + -ion名词后缀 → 浑身像针刺一样 → 悔恨。
-		2. _n._ [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
-		3. **qualms**良心之谴责，不安;**remorse**懊悔, 悔恨, 自责;**hesitation**犹豫;**pretense**借口;**intention**意图, 意向;**conscience**良心;**penchant**嗜好;**indignation**愤怒, 愤慨, 气愤;**disdain**蔑视;**pretext**托辞;**whatsoever**无论什么;
-		4. _[ended the relationship without compunction](dic://ended%20the%20relationship%20without%20compunction)_ 毫不后悔地结束了关系
-		5. compunctious
+	1. compunction 
+		1. (contrite, remorse, rueful, compunction, rue, penitent )
+		2. com-共同 + punct-刺 + -ion名词后缀 → 浑身像针刺一样 → 悔恨。
+		3. _n._ [sorrow](dic://sorrow), [regret](dic://regret), [rue](dic://rue), [ruefulness](dic://ruefulness)
+		4. **qualms**良心之谴责，不安;**remorse**懊悔, 悔恨, 自责;**hesitation**犹豫;**pretense**借口;**intention**意图, 意向;**conscience**良心;**penchant**嗜好;**indignation**愤怒, 愤慨, 气愤;**disdain**蔑视;**pretext**托辞;**whatsoever**无论什么;
+		5. _[ended the relationship without compunction](dic://ended%20the%20relationship%20without%20compunction)_ 毫不后悔地结束了关系
+		6. compunctious
+			1. (contrite, remorseful, rueful, ruthful, penitent repentant, excusatory, compunctious)
+			2.  Make thick my blood, Stop up th' access and passage to remorse, That no compunctious visitings of nature Shake my fell purpose, nor keep peace between Th' effect and it./凝结我的血液，不要让怜悯钻进我的心头，不要让天性中的侧隐摇动我的毒的决意！
+			3. Scared, angst, **compunctious**, depressive, indignant, depressed… in the body of everybody, have a piece of map about the mood. /恐惧、焦虑、内疚、压抑、愤怒、沮丧……每个人的身体里，都有一张关于情绪的地图。
 	2. expunge (pugn-)
 		1. ex-向外 + pung-刺，即拔刺，拔掉，删除。
 		2. expunction
@@ -5609,7 +5790,7 @@
 		9. He is the most punctilious blockhead under heaven /他是天下最死板的笨蛋。
 		10. Soldiers, as well as women, practice the minor virtues with punctilious politeness. /士兵和女人一样， 以一丝不苟的礼貌来践行小美德。
 		11. He is punctilious to the point of quixotism in acknowledging the salutes of his men and in himself saluting the standards. /他一丝不苟地承认他的手下的敬礼和他自己向标准致敬。
-	8. punctual
+	7. punctual
 		1. _adj._ [on time](dic://on time), [prompt](dic://prompt), [timely](dic://timely)
 		2. _n._ [unpunctual](dic://unpunctual)
 		3. **courteous**彬彬有礼的;**polite**有礼貌的，客气的;**considerate**体贴的, 体谅的;**attentive**对某人〔物〕 注意的;**personable**英俊的;**dependable**可靠的;**conscientious**认真的, 勤奋的;**diligent**勤勉的;**communicative**爱说话的,好社交的;**efficient**有能力的, 效率高的;**hardworking**苦干的,不辞辛劳的;
@@ -5627,23 +5808,23 @@
 			10. a speech punctuated with cheers /演讲不时地被喝采声打断
 		6. punctulate
 			1. a. 有细孔的
-	9. puncture
+	8. puncture
 		1. 来自拉丁语 punctum,点，刺点，来自 pungere,刺，击，词源同 pungent,point.引申词义小孔，小洞。
 		2. _n._ [mishap](dic://mishap), [misadventure](dic://misadventure), [mischance](dic://mischance), [hole](dic://hole), [activity](dic://activity)
 		3. _v._ [pierce](dic://pierce), [make](dic://make), [create](dic://create), [deprecate](dic://deprecate), [depreciate](dic://depreciate), [vilipend](dic://vilipend), [depressurize](dic://depressurize)
 		4. **tyre**装轮胎于;**rupture**破裂;**abrasion**磨损;**tire**疲劳;**wound**创伤，伤口;**sidewall**边墙，侧壁;**suture**缝合;**needle**针;**stab**刺;**tear**撕掉，扯下;**ruptured**破裂的;
 		5. _puncture needle_ 穿刺针
 		6. _puncture wound_ 刺伤，穿刺伤
-	10. contrapuntal, contrapuntist
+	9. contrapuntal, contrapuntist
 		1. contra-,相对，相反，-punt,刺，词源同 point,puncture.用于音乐术语。
 		2. _adj._ [counterpoint](dic://counterpoint)
 		3. **melodic**有旋律的;**rhythmic**间歇的;**harmonic**和声的;**orchestral**管弦乐队的;**melody**旋律;**counterpoint**对位法;**symphonic**交响乐的;**improvisation**即兴创作;**tonal**音调的;**orchestration**管弦乐编曲;**chromatic**有颜色的,颜色鲜艳的;
 		4. _[contrapuntal combinations](dic://contrapuntal%20combinations)_ 对位组合
 		5. _[contrapuntal reading](dic://contrapuntal%20reading)_ 对位阅读; 对位式阅读; 对位阅读法; 
 		6. _[contrapuntal music](dic://contrapuntal%20music)_ 复调音乐
-	11. pontil
+	10. pontil
 		1. _[punty pontil](dic://punty%20pontil)_ 吹玻璃用的铁棒
-	12. pounce
+	11. pounce
 		1. vi. 突袭，猛扑  vt. 扑过去抓住 
 		2. n. 猛扑，爪
 		3. [swoop](dic://swoop)
@@ -5654,7 +5835,7 @@
 		8. pounce on an opportunity. /掌握机会
 		9. the kestrel is ready to pounce on unsuspecting prey /红隼准备扑向毫无戒备的猎物。
 		10. Keynesian academics pounced, declaring the intellectual foundation of austerity destroyed /于是，凯恩斯主义学者们趁势断言，财政紧缩的理论基础破裂。
-	13. punch
+	12. punch
 		1. [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
 		2. [puncher](dic://puncher)
 		3. [perforate](dic://perforate)
@@ -7466,13 +7647,16 @@
 
 ### plor- = cry, weep, 表示“喊，哭”。
 1. deplore
-	1. [ament](dic://lament), [bewail](dic://bewail), [bemoan](dic://bemoan)
-	2. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart), [complain](dic://complain), [kick](dic://kick), [plain](dic://plain)
-	3. **condemn**判刑，定罪;**denounce**谴责;**despise**轻视，鄙视;**lament**悲叹;**loathe**讨厌，厌恶;**criticise**批评;**criticize**评论, 批评;**condone**宽恕;**disgraceful**可耻的,丢脸的,不光彩的;**lamented**令人遗憾的;**appalled**惊骇的;
-	4. we deplore all violence /我们谴责一切暴力。
-	5. We deplore the accident /我们对这一事故深感遗憾。
-	6. deplored the rampant consumerism of contemporary society /对当代社会中狂热的拜金思想深感遗憾
-	7. deplorable, deplorably
+	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+	4. [ament](dic://lament), [bewail](dic://bewail), [bemoan](dic://bemoan)
+	5. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart), [complain](dic://complain), [kick](dic://kick), [plain](dic://plain)
+	6. **condemn**判刑，定罪;**denounce**谴责;**despise**轻视，鄙视;**lament**悲叹;**loathe**讨厌，厌恶;**criticise**批评;**criticize**评论, 批评;**condone**宽恕;**disgraceful**可耻的,丢脸的,不光彩的;**lamented**令人遗憾的;**appalled**惊骇的;
+	7. we deplore all violence /我们谴责一切暴力。
+	8. We deplore the accident /我们对这一事故深感遗憾。
+	9. deplored the rampant consumerism of contemporary society /对当代社会中狂热的拜金思想深感遗憾
+	10. deplorable, deplorably
 3. explore
 	1. [research](dic://research), [search](dic://search)
 	2. _v._ [investigate](dic://investigate), [look into](dic://look into), [diagnose](dic://diagnose), [name](dic://name)
@@ -7485,7 +7669,7 @@
 	5. unexplored
 	6. explorative
 	7. exploration
-5. implore
+4. implore
 	1. [beg](dic://beg), [pray](dic://pray)
 	2. _v._ [plead](dic://plead)
 		1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用。  
@@ -7502,7 +7686,7 @@
 		1. _adj._ [beseeching](dic://beseeching)
 		2. _n._ [imperative](dic://imperative)
 		3. **begging**乞讨，乞求;**urged**怂恿，催促;**pleading**答辩;**thanking**致谢，感谢;**asking**请求;**prompting**推动,奖励,驱使;**beg**恳求;**urge**力劝，催促;**persuade**说服，劝说;**plead**辩护;**urges**呼吁;
-6. ploreation
+5. ploreation
 
 
 ### + \* plumbum- + = lead
@@ -8444,17 +8628,18 @@
 	11. paramedic
 		1. n. 伞兵军医, 伞降急救人员
 	12. parry (harry)
-		1. vt. 挡开; 逃避, 回避
-		2. parry（躲开）：剑术训练课上的提醒  
-		3. 中世纪时，剑术被认为是贵族必须掌握的技艺之一。很多贵族家庭都会邀请剑术高超的教师来向子女传授剑术。在剑术训练课上，当老师向学生击出一剑时，会同时大声提醒：“Parez!”，意思就是“小心、躲开”，是法语单词parer（小心、躲开）的祈使形式，其源头来自意大利语动词parare（躲开或挡住一击）。英语单词parry就来自法国剑术训练课上的这句提醒“Parez!”，表示“躲开、挡住”。  
-		4. parry：['pæri] v.躲开，挡住n.回避，挡开，回避的回答
-		5. (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
-		6.  [counterpunch](dic://counterpunch), [counter](dic://counter)
-		7.  [block](dic://block), [deflect](dic://deflect)
-		8.  [hedge](dic://hedge), [fudge](dic://fudge), [evade](dic://evade), [put off](dic://put off), [circumvent](dic://circumvent), [elude](dic://elude), [skirt](dic://skirt), [dodge](dic://dodge), [duck](dic://duck), [sidestep](dic://sidestep)
-		9. _n._ [blocking](dic://blocking), [block](dic://block), [punch](dic://punch), [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
-		10. _v._ [fence](dic://fence), [avoid](dic://avoid)
-		11. **dodge**躲闪;**melee**混战，格斗;**volley**齐发;**deflect**使偏斜;**opponent**对手;**deflected**偏离的;**sword**刀，剑;**jab**戳;**spear**矛，枪;**deflection**突然转向,偏斜,偏离;**attack**攻击;
+		1. (avert, displace, blench, evitable, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt, shirk, shun, elude, eschew,  shrink, balk at)
+		2. vt. 挡开; 逃避, 回避
+		3. parry（躲开）：剑术训练课上的提醒  
+		4. 中世纪时，剑术被认为是贵族必须掌握的技艺之一。很多贵族家庭都会邀请剑术高超的教师来向子女传授剑术。在剑术训练课上，当老师向学生击出一剑时，会同时大声提醒：“Parez!”，意思就是“小心、躲开”，是法语单词parer（小心、躲开）的祈使形式，其源头来自意大利语动词parare（躲开或挡住一击）。英语单词parry就来自法国剑术训练课上的这句提醒“Parez!”，表示“躲开、挡住”。  
+		5. parry：['pæri] v.躲开，挡住n.回避，挡开，回避的回答
+		6. (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt)
+		7.  [counterpunch](dic://counterpunch), [counter](dic://counter)
+		8.  [block](dic://block), [deflect](dic://deflect)
+		9.  [hedge](dic://hedge), [fudge](dic://fudge), [evade](dic://evade), [put off](dic://put off), [circumvent](dic://circumvent), [elude](dic://elude), [skirt](dic://skirt), [dodge](dic://dodge), [duck](dic://duck), [sidestep](dic://sidestep)
+		10. _n._ [blocking](dic://blocking), [block](dic://block), [punch](dic://punch), [clout](dic://clout), [poke](dic://poke), [lick](dic://lick), [biff](dic://biff)
+		11. _v._ [fence](dic://fence), [avoid](dic://avoid)
+		12. **dodge**躲闪;**melee**混战，格斗;**volley**齐发;**deflect**使偏斜;**opponent**对手;**deflected**偏离的;**sword**刀，剑;**jab**戳;**spear**矛，枪;**deflection**突然转向,偏斜,偏离;**attack**攻击;
 3. **para-, par-** = 表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成 par-。源自希腊语 para "beside, alongside of, beyond."
 	1. parabiosphere
 	7. parabranchia
@@ -8593,7 +8778,18 @@
 		10. But the deprecated " the whole is comprised of the parts" usage has been around since the 16th century. /但“整体由部分包含”这种用法被弃用的情况早在16世纪就已经出现了。
 		11. The exclamation was so deprecating and touching that Morris indulged in another little demonstration of affection /感叹是如此的贬低和感人， 以至于莫里斯沉迷于另一个小小的爱的表现。
 		12. deprecatory (detracting)
-		13. deprecation
+			1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+			2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+			3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+			2. - adj. 不赞成的；反对的；恳求的
+			3. _adj._ [uncomplimentary](dic://uncomplimentary)
+			4. _n._ [complimentary](dic://complimentary)
+			5. **derogatory**不敬的;**disparaging**轻蔑的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**dismissive**轻视的, 轻蔑的, 鄙视的;**remark**评论;**vulgar**粗俗的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**slur**诽谤;**connotation**内涵;**colloquial**口语的, 会话的;
+			6. With a deprecatory grunt, the jackal again complied. /豺狗表示抱歉地哼了哼，照办了。
+			7. 'But we can't return now, ' he said in a deprecatory tone. /“但我们现在不能回去了，”他用贬低的语气说。
+			8. The steward stands facing him at the other side of the table, if so deprecatory a stance as his can be called standing. /管家站在桌子的​​另一边面对他， 如果像他这样贬义的姿势也能叫站着的话。
+			9. 
+		14. deprecation
 			1. n. 祈免；贬低；反对；（计）弃用
 			2. _n._ [prayer](dic://prayer), [petition](dic://petition), [orison](dic://orison), [disparagement](dic://disparagement), [dispraise](dic://dispraise)
 			3. **depreciation**贬值;**introspection**内省;**abandonment**放弃;
@@ -8601,7 +8797,7 @@
 			5. Don't speak laconically to me, ' she said with deprecation. /别跟我说话简洁， ” 她不以为然地说。
 			6. In spite of pride and temper, there was as much deprecation as anger in his voice when he said, " What do you mean, Adam" ? /尽管骄傲和脾气暴躁， 但当他说“你是什么意思， 亚当” 时，语气中既有愤怒也有不屑？
 			7. That’s self-**deprecation**, not service. /那是一种自我贬低，而非服务。
-		14. deprecatingly
+		15. deprecatingly
 	3. imprecate
 		1. im-进入，使 + prec-祈求，祈祷 + -ate，其原义为召唤鬼神，祈求神灵相助，后引申词义诅咒，咒骂。
 		2. vt. 咒语, 诅咒
@@ -9243,18 +9439,21 @@
 	7. " He will tell you, it is all pfuscherei, which is his most opprobrious word" ! /“他会告诉你， 都是pfuscherei， 这是他最下流的话” ！
 	8. When I meet a dog of my acquaintance I slap his head, call him opprobrious epithets, and roll him over on his back; and there he lies, gaping at me, and doesn't mind it a bit. /当我遇到我认识的狗时，我会拍打他的头，用侮辱性的绰号称呼他，然后将他翻过来仰面朝天；他躺在那里，目瞪口呆地看着我，一点也不介意。
 	9. One is the eulogistic word freedom, and the other is the **opprobrious** word chance /一个是表示褒义的词“自由”， 另一个是表示贬义的词“偶然”。
-3. opprobrium (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, )
-	1. n. 污名, 耻辱, 咒骂
-	2. 来自拉丁语 opprobrare,嘲笑，奚落，谴责，来自 op-,相对，对着的，probrum,耻辱，羞辱，可能来自 PIE*pro,向前，向前嘲笑，词源同 reproach,approach,problem.-brum,工具格后缀，词源同 vertebra.
-	3. op-朝 + probr-耻辱 + -ium
-	4. **scorn**轻蔑;**ridicule**嘲笑;**condemnation**谴责;**criticism**批评, 批判, 指责;**ire**忿怒;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**wrath**愤怒;**scrutiny**监视;**embarrassment**困窘;**backlash**反斜线;
-	5. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [dishonor](dic://dishonor), [dishonour](dic://dishonour)
-	6. That drunkard was the opprobrium of our community /那个酒鬼是我们社区里可耻的人物。
-	7. the critical opprobrium generated by his films. /他的电影招来的严厉批评。
-	8. Unsurprisingly, given the opprobrium often heaped on the profession, ambitious graduates tend to steer clear. /鉴于这份职业背负着许多骂名，充满抱负的大学生对它敬而远之的态度也是不足为奇的。
-	9. But that was then, this was now, and his actions received more than a little opprobrium. /但当时是这样，现在是这样，他的行为受到的谴责可不止一点点。
-	10. Together they might share the opprobrium that will inevitably result from the measures needed to do a deal with the IMF and get the economy working. /这样他们就可以共同分担为使经济运转以及与国际货币基金组织达成交易采取的措施所造成的不可避免的恶名。
-	11. For three or four generations, society has united in withering with contempt and opprobrium the shameless futility of Mme. /在三四代人的时间里， 社会团结起来， 以蔑视和耻辱的方式摧毁了夫人的无耻徒劳。
+3. opprobrium
+	1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+	4. n. 污名, 耻辱, 咒骂
+	5. 来自拉丁语 opprobrare,嘲笑，奚落，谴责，来自 op-,相对，对着的，probrum,耻辱，羞辱，可能来自 PIE*pro,向前，向前嘲笑，词源同 reproach,approach,problem.-brum,工具格后缀，词源同 vertebra.
+	6. op-朝 + probr-耻辱 + -ium
+	7. **scorn**轻蔑;**ridicule**嘲笑;**condemnation**谴责;**criticism**批评, 批判, 指责;**ire**忿怒;**indignation**愤怒, 愤慨, 气愤;**outrage**暴行;**wrath**愤怒;**scrutiny**监视;**embarrassment**困窘;**backlash**反斜线;
+	8. [shame](dic://shame), [disgrace](dic://disgrace), [ignominy](dic://ignominy), [dishonor](dic://dishonor), [dishonour](dic://dishonour)
+	9. That drunkard was the opprobrium of our community /那个酒鬼是我们社区里可耻的人物。
+	10. the critical opprobrium generated by his films. /他的电影招来的严厉批评。
+	11. Unsurprisingly, given the opprobrium often heaped on the profession, ambitious graduates tend to steer clear. /鉴于这份职业背负着许多骂名，充满抱负的大学生对它敬而远之的态度也是不足为奇的。
+	12. But that was then, this was now, and his actions received more than a little opprobrium. /但当时是这样，现在是这样，他的行为受到的谴责可不止一点点。
+	13. Together they might share the opprobrium that will inevitably result from the measures needed to do a deal with the IMF and get the economy working. /这样他们就可以共同分担为使经济运转以及与国际货币基金组织达成交易采取的措施所造成的不可避免的恶名。
+	14. For three or four generations, society has united in withering with contempt and opprobrium the shameless futility of Mme. /在三四代人的时间里， 社会团结起来， 以蔑视和耻辱的方式摧毁了夫人的无耻徒劳。
 
 
 

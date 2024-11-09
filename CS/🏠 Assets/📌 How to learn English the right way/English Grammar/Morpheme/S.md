@@ -1011,19 +1011,24 @@
 	2. [sedulousness](dic://sedulousness)
 	3. _n._ [diligence](dic://diligence), [industriousness](dic://industriousness), [industry](dic://industry)
 	4. sedulous
-		1. [assiduous](dic://assiduous)
-		2. _adj._ [diligent](dic://diligent)
-		3. _n._ [negligent](dic://negligent)
-		4. **zealous**热心的，热情的，积极的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**ardent**热情的;**zeal**热心;**skillful**熟练的;**tireless**不疲劳的;**meticulous**极仔细的;**vigorous**有力的;**laborious**勤劳的;**shrewd**精明的;
-		5. _[Sedulous And Studious](dic://Sedulous%20And%20Studious)_ 勤恳敬业
-		6. _[play the sedulous ape](dic://play%20the%20sedulous%20ape)_ 词语典故; 如法炮制; 
-		7. _[played the sedulous ape](dic://played%20the%20sedulous%20ape)_ 我孜孜不倦模仿过
-		8. _[sedulously ad](dic://sedulously%20ad)_ 孜孜不倦地
-		9. _[follow sedulously](dic://follow%20sedulously)_ 努力地经营
-		10. _[flatter sedulously](dic://flatter%20sedulously)_ 百般奉承
-		11. _[pool sedulously](dic://pool%20sedulously)_ 勤奋地把…集中在一起
-		12. _[collect sedulously](dic://collect%20sedulously)_ 勤奋地收集
-		13. _[cultivate sedulously](dic://cultivate%20sedulously)_ 小心周到地种植
+		1. a. 勤勉的, 勤苦工作的
+		2. se-离开，表否定 + dul-欺骗 + -ous多…的 → 不欺骗 → 勤勉的。
+		3.  来自拉丁语 sedulus,勤勉的，勤奋的，关注的，聚精会神的，来自拉丁语 sedere,坐下，词源同 sit,assiduous,勤奋的。
+		4. [assiduous](dic://assiduous)
+		5. _adj._ [diligent](dic://diligent)
+		6. _n._ [negligent](dic://negligent)
+		7. **zealous**热心的，热情的，积极的;**diligent**勤勉的;**conscientious**认真的, 勤奋的;**ardent**热情的;**zeal**热心;**skillful**熟练的;**tireless**不疲劳的;**meticulous**极仔细的;**vigorous**有力的;**laborious**勤劳的;**shrewd**精明的;
+		8. _[Sedulous And Studious](dic://Sedulous%20And%20Studious)_ 勤恳敬业
+		9. _[play the sedulous ape](dic://play%20the%20sedulous%20ape)_ 词语典故; 如法炮制; 
+		10. _[played the sedulous ape](dic://played%20the%20sedulous%20ape)_ 我孜孜不倦模仿过
+		11. _[sedulously ad](dic://sedulously%20ad)_ 孜孜不倦地
+		12. _[follow sedulously](dic://follow%20sedulously)_ 努力地经营
+		13. _[flatter sedulously](dic://flatter%20sedulously)_ 百般奉承
+		14. _[pool sedulously](dic://pool%20sedulously)_ 勤奋地把…集中在一起
+		15. _[collect sedulously](dic://collect%20sedulously)_ 勤奋地收集
+		16. _[cultivate sedulously](dic://cultivate%20sedulously)_ 小心周到地种植
+		17. he watched himself with the most sedulous care. /他照顾自己无微不至。
+		18. She was sedulous, pernickety, quietly determined; she would work on poems for years /只有在给毕肖普写信时，洛威尔才不加进表演成分；
 9. segregate
 	1. se-分开 + greg-群 + -ate, 表形容词 → 和人群分开 → 隔离。
 	2. unsegregated
@@ -1123,21 +1128,22 @@
 		2. **zeal**热心;**devotion**热爱;**piety**虔诚;**eagerness**渴望;**perseverance**坚持不懈;**utmost**极限;**admirable**令人钦佩的;**diligence**勤奋，勤勉;**admiration**钦佩;**exertion**努力;**dedication**奉献,献身;
 		3. assiduous
 			1. (arduous, laborious, industrious, assiduous, diligent, studious)
-			2. assiduously
-			3. assiduousness
-	6. dissident, dissidence
+			2. 
+			3. assiduously
+			4. assiduousness
+	6. dissident, dissidence (diffident, )
 		1. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul)
 		2. _adj._ [unorthodox](dic://unorthodox), [negative](dic://negative)
 		3. _n._ [orthodox](dic://orthodox), [affirmative](dic://affirmative), [affirmatory](dic://affirmatory)
 		4. **leftist**急进派;**communist**共产主义的;**activist**积极分子;**left-wing**左派的;**militant**好战的;**anarchist**无政府主义者;**separatist**分离主义者,独立派;**nationalist**国家主义者;**renegade**变节者;**rebel**造反;**insurgent**起义的,叛乱的,造反的;
-	7. insidious
+	7. insidious (invidious)
 		1.  (insidious, pernicious, invidious, pernicious, noxious, vile, virulent, inimical, antagonistic, deleterious, detrimental, adversarial, unharmonious, jarring, baneful, indignity, counterproductive, vitriolic, caustic, vile, snarky, devastating, )
-		2. **pernicious**很有害的;**pervasive**普遍的;**sinister**阴险的;**devious**弯曲的;**nefarious**极坏的;**malevolent**有恶意的;**vile**卑鄙的;**destructive**破坏性的, 毁灭性的;**overt**明显的;**subtle**微妙的;**virulent**剧毒的;
-		3. insidious propaganda /暗中进行的宣传
-		4. the insidious approach of age /不知不觉就老了
-		5. tourism represents an insidious form of consumptive activity. /旅游业是消耗性行为的潜在体现。
-		6. sexual harassment is a serious and insidious problem. /性骚扰是一个恶劣且有潜在恶果的问题。
-		7. They're looking to confront a more insidious threat, the rise of global temperatures /他们希望应对一个更棘手的威胁——全球气温上升。
+		3. **pernicious**很有害的;**pervasive**普遍的;**sinister**阴险的;**devious**弯曲的;**nefarious**极坏的;**malevolent**有恶意的;**vile**卑鄙的;**destructive**破坏性的, 毁灭性的;**overt**明显的;**subtle**微妙的;**virulent**剧毒的;
+		4. insidious propaganda /暗中进行的宣传
+		5. the insidious approach of age /不知不觉就老了
+		6. tourism represents an insidious form of consumptive activity. /旅游业是消耗性行为的潜在体现。
+		7. sexual harassment is a serious and insidious problem. /性骚扰是一个恶劣且有潜在恶果的问题。
+		8. They're looking to confront a more insidious threat, the rise of global temperatures /他们希望应对一个更棘手的威胁——全球气温上升。
 	8. preside
 		1. _v._ [control](dic://control), [command](dic://command)
 		2. **oversee**监督;**appoint**任命;**convene**召集，集合;**appointed**指定的,约定的;**convened**集合;**overseen**视察;**govern**统治;**presidency**总统的职位;**attend**出席;**chaired**就任要职;**summoned**传唤;
@@ -1165,25 +1171,27 @@
 		3. residence
 		4. multiresidue
 	10. sedate
-		1. sedative, sedation, sedateness, sedately
-		2. sedentary
-	11. sediments
+		1. 
+		2. sedative, sedation, sedateness, sedately
+		3. sedentary
+	12. sediments
 		1. sedimentum
 		2. sedimentometer
 		3. sedimentation
 		4. sedimentary
-	12. subside
+	13. subside
 		1. subsidize
 		2. subsidise
 		3. antisubsidy
 		4. subsidiary, subsidy
-	13. supersede, supersession
-	14. sedan
-	15. cathedra, cathedral
+	14. supersede
+		1. supersession
+	15. sedan
+	16. cathedra, cathedral
 		1. _n._ [throne](dic://throne)
 		2. **ex**不包括，除外;**episcopal**主教的;**bishop**主教;**archbishop**大主教;**cathedral**大教堂;**papal**罗马教皇的;**ecclesiastical**基督教会的;
-	16. chair
-	17. chaise
+	17. chair
+	18. chaise
 		1.  [chaise longue](dic://chaise longue), [daybed](dic://daybed)
 		2.  [shay](dic://shay)
 		3. _n._ [chair](dic://chair), [carriage](dic://carriage), [equipage](dic://equipage), [rig](dic://rig)
@@ -1192,16 +1200,16 @@
 		6. _[post chaise](dic://post%20chaise)_  （旧时）驿递马车（18～19世纪初运载乘客及邮件的四轮车厢式马车）
 		7. _[chaise longue](dic://chaise%20longue)_  n. 躺椅
 		8. [chaise](dic://chaise), [daybed](dic://daybed)
-	18. gangliosidosis
-	19. nest
-	20. saddle
-	21. seance
+	19. gangliosidosis
+	20. nest
+	21. saddle
+	22. seance
 		1. **psychic**精神的;**ghost**鬼，幽灵;**ghosts**鬼;**ghostly**幽灵的;**paranormal**超常的;**spooky**幽灵般的;**haunted**闹鬼的;**occult**神秘的;**astral**星的;**trance**【C】昏睡状态;**tarot**塔罗纸牌;
 		2. [sitting](dic://sitting), [session](dic://session)
-	22. seat
-	23. sedile
-	24. sessile
-	25. siege
+	23. seat
+	24. sedile
+	25. sessile
+	26. siege
 		1. siege [siːdʒ] n.围攻；包围；围城；不断袭击；长期努力，vt.围攻；包围，日耳曼词源，同属日耳曼词源的单词有seat和sit以及settle等，与拉丁词源的sedan [sɪ'dæn] n. 轿车；轿子以及希腊词根hedr-表示座位、立体的面同源。siege本意是seat，军事上的围城是“sitting down before a fortress”。 ​​​​  
 		2. 但是在英国亚瑟王的传奇故事中，Siege Perilous（也叫做The Perilous Seat）中的siege就是其本意“seat”了。巫师梅林为亚瑟王的圆桌骑士们保留了一把椅子，谁能找到传说中的“圣杯”，谁才有资格坐那把椅子。同时理解单词besiege [bɪ'siːdʒ] vt. 围困；包围；烦扰The troops besieged the fort. ​​​​  
 		3. 类似逻辑，leaguer ['liːgə] n.围攻；盟员，vt. 围攻（盟员是另外一个词源），与lay和lie（躺）都是同源的日耳曼语词源单词，那就不光是“坐”下来，而是要“躺”在围攻城市的军营中了。同样比较单词;beleaguer [bɪ'liːgə] vt. 围攻；围，Enemy troopsbeleaguered the city.敌军围困了这座城。 ​​​​
@@ -1372,7 +1380,7 @@
 ### ⭐ + \*sekw- + 
 #### + \*sekw- (1) + = to follow
 1. **secut-, sequ-, su-** = follow, 表示“跟随”。源自 拉丁语 sequi "to follow," sequester "follower."
-	1. consecution 
+	1. consecution
 		1. (accord, consensus, congruity, conformity, consistency, coherence, consecution) 
 		2. (discord, dissonance, discrepancy, disparity)
 		3. con- + secut-跟随 + -ion
@@ -5884,7 +5892,7 @@
 			10. South Koreans are normally among the top ten spenders on international travel, according to the World Bank. /根据世界银行的数据，韩国人通常名列国际旅游消费的前十名。
 		4. overspend, outspend, misspend
 	3. stipend, stipendiary
-		1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage)
+		1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
 		2. _n._ [regular payment](dic://regular payment)
 		3. **allowance**零用钱;**subsidy**津贴;**tuition**学费;**salary**薪水;**scholarship**奖学金;**reimbursement**偿还;**paycheck**付薪水的支票，薪水;**grant**授予，允许;**expenses**开支;**paid**付清的;**remuneration**酬报,酬劳;
 		4. _[stipend check](dic://stipend%20check)_ 去领取奖学金支票
@@ -6771,8 +6779,8 @@
 	14. estate
 	15. hemostat
 		1. hemostases
-	16. obstinate
-		1.   (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
+	16. obstinate (abstinent, )
+		1. (loathe, pertinacious, impenitent, impenetrable, refractory, obstinate, grudging, obdurate, mutinous, recalcitrant, intransigent, tenacious, steadfast , fortitude, adamant, stubborn, persevere,  unregenerate, dour, inexorable)
 		2. ob-,相对，对着的，-stin,站，站立，词源同 stand,destiny.即对着站的，站在对面的，引申词义对手，顽固的。
 		3. _v._ [persevere](dic://persevere), [persist](dic://persist), [hang in](dic://hang in), [hang on](dic://hang on), [hold on](dic://hold on)
 		4. _adj._ [bloody-minded](dic://bloody-minded), [cantankerous](dic://cantankerous), [bolshy](dic://bolshy), [stroppy](dic://stroppy), [bullheaded](dic://bullheaded), [bullet-headed](dic://bullet-headed), [pigheaded](dic://pigheaded)

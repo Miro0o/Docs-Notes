@@ -336,7 +336,10 @@
 		21. abashment
 			1. _n._ [embarrassment](dic://embarrassment)
 			2. **embarrassment**困窘;**indignation**愤怒, 愤慨, 气愤;**astonishment**惊讶, 惊奇;**disgust**厌恶，嫌恶;**apprehension**理解;**awkwardness**笨拙;**countenance**面容，表情;**pity**怜悯，同情;**impatience**急躁;**disdain**蔑视;**annoyance**烦恼;
-			3. abashed
+			3. Whether we will re-feel that **abashment** and shame? /我们是否会重新感到耻辱与羞愧？
+			4. Then, peach blossoms dropped like flakes of **abashment**. /然后，桃花就落了，落下雪片似的尴尬。
+			5. he was inarticulate with abashment and regret. /他因羞愧悔恨而口齿不清。
+			6. abashed
 		22. bashful
 			1. - adj. 害羞的，腼腆的
 			2. [blate](dic://blate)
@@ -1284,17 +1287,18 @@
 		4. buttonhole
 		5. belly-button
 	11. buttress
-		1. [buttressing](dic://buttressing)
-		2. _n._ [support](dic://support)
-		3. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
-		4. _[buttress up](dic://buttress%20up)_  支持
-		5. **bolster**长枕;**undercut**廉价出售;**reinforce**增强;**overhang**悬垂;**ledge**壁架;**arch**拱门;**ridge**山脉;**crux**关键;**substantiate**用事实支持;**reinforcing**增强;**pillar**柱子，柱形物;
-	12.  
-		1. combative, combatant
-		2. combat-worthy, combat-ready
-	13. debate
+		1. (buttress, holster, upholstery, prop up, bolster)
+		2. [buttressing](dic://buttressing)
+		3. _n._ [support](dic://support)
+		4. _v._ [reinforce](dic://reinforce), [reenforce](dic://reenforce), [strengthen](dic://strengthen), [beef up](dic://beef up), [fortify](dic://fortify)
+		5. _[buttress up](dic://buttress%20up)_  支持
+		6. **bolster**长枕;**undercut**廉价出售;**reinforce**增强;**overhang**悬垂;**ledge**壁架;**arch**拱门;**ridge**山脉;**crux**关键;**substantiate**用事实支持;**reinforcing**增强;**pillar**柱子，柱形物;
+		7.  
+		8. combative, combatant
+		9. combat-worthy, combat-ready
+	14. debate
 		1. debater, debatable
-	14. debut, debutant
+	15. debut, debutant
 		1. debut（首秀）：西方少女的“成人礼”  
 		2. 工业革命以前，欧洲的上流社会、贵族世家的女孩子在成年以前，基本上是没有机会接触到异性的，她们不去公立学校上学，家长为她们请了私人教师。女孩子到一定的年龄，就要穿上礼服、盛装打扮，参加“成人礼”舞会。这是她们在社交群中的第一次露面，在法语中称为debut。debut一词来自débuter，本意是“桌球或弹子球游戏中的第一次击球”。  
 		3. 进入英语后，debut一词常常被用来比喻“初次登台演出”。与它同源的单词有debutante（初次表演的女子）、debutant（初次表演的男子）。  
@@ -1307,28 +1311,32 @@
 		7. **full-length**全长的;**album**相簿;**long-awaited**期待已久的;**comeback**恢复;**directorial**管理的;**well-received**受到欢迎的,受到款待的;**foray**突袭;**released**已发布;**eponymous**齐名的;**breakthrough**突破，突破性进展;**sophomore**二年级学生;
 		8. _debut album_ 首张专辑；处女专辑
 		9. _debut single_ 首张单曲；出道歌曲
-	15. rebate
-		1. [discount](dic://discount)
-		2. [rabbet](dic://rabbet)
-		3. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
-		4. _v._ [discount](dic://discount), [cut](dic://cut), [join](dic://join), [bring together](dic://bring together)
-		5. **subsidy**津贴;**coupon**息票;**discount**折扣;**tax**向…课税;**incentive**刺激的;**coupons**优惠券;**voucher**代金券;**savings**存款;**vouchers**付款凭单;**reimbursement**偿还;**purchase**购买;
-		6. _tax rebate_ 退税；税收回扣
-		7. _export tax rebate system_ 出口退税机制
-		8. rebate a portion of a bill /减免帐单上一部分款项
-		9. the oak boarding was rebated in. /橡木板被用槽口嵌接进去。
-		10. We'll have to shut down those locations with whereby our landlords don't give us rebates /我们将不得不关闭那些房东不给我们退款的店铺。
-	16. rebut
-		1. [refute](dic://refute)
-		2. [refute](dic://refute), [controvert](dic://controvert)
-		3. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
-		4. **refute**反驳，驳斥;**rebuttal**反驳;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**discredit**败坏…的名声;**argument**争吵;**assertion**主张,维护;**contradict**矛盾;**accusation**指责;**dismiss**离开;**argue**争论，辩论;
-		5. 
-		6. surrebut
-		7. rebutter, rebuttal, surrebuttal
-		8. rebuttable, rebutment
-		9. irrebuttable
-	17. beat
+	16. rebate
+		1.  (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
+		2. [discount](dic://discount)
+		3. [rabbet](dic://rabbet)
+		4. _n._ [refund](dic://refund), [groove](dic://groove), [channel](dic://channel)
+		5. _v._ [discount](dic://discount), [cut](dic://cut), [join](dic://join), [bring together](dic://bring together)
+		6. **subsidy**津贴;**coupon**息票;**discount**折扣;**tax**向…课税;**incentive**刺激的;**coupons**优惠券;**voucher**代金券;**savings**存款;**vouchers**付款凭单;**reimbursement**偿还;**purchase**购买;
+		7. _tax rebate_ 退税；税收回扣
+		8. _export tax rebate system_ 出口退税机制
+		9. rebate a portion of a bill /减免帐单上一部分款项
+		10. the oak boarding was rebated in. /橡木板被用槽口嵌接进去。
+		11. We'll have to shut down those locations with whereby our landlords don't give us rebates /我们将不得不关闭那些房东不给我们退款的店铺。
+		12. Lariviere used the California turf replacement rebate to cover the cost of putting in her new drought-resistant garden. /拉里维尔用加州的草坪更换折扣来支付她新的抗旱花园的投入成本。
+		13. These rebates are mostly used for expensive brand-name prescription drugs in categories in which there are interchangeable products. /这些回扣主要用于在这其类别中有可互换产品的昂贵的品牌处方药。
+	18. rebut
+		1.  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry)
+		2. [refute](dic://refute)
+		3. [refute](dic://refute), [controvert](dic://controvert)
+		4. _v._ [renounce](dic://renounce), [repudiate](dic://repudiate), [disprove](dic://disprove), [confute](dic://confute)
+		5. **refute**反驳，驳斥;**rebuttal**反驳;**substantiate**用事实支持;**disprove**反驳，证明…是虚假的;**discredit**败坏…的名声;**argument**争吵;**assertion**主张,维护;**contradict**矛盾;**accusation**指责;**dismiss**离开;**argue**争论，辩论;
+		6. 
+		7. surrebut
+		8. rebutter, rebuttal, surrebuttal
+		9. rebuttable, rebutment
+		10. irrebuttable
+	19. beat
 		1. worldbeater
 		2. wingbeater
 		3. upbeat
@@ -1344,7 +1352,7 @@
 		13. beat-up
 		14. beat it
 			1. 走开，离开：用于告诉某人立即离开或停止干扰。
-	18. brickbat
+	20. brickbat
 		1. _n._ [fragment](dic://fragment), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
 		2. **stinging**激烈的;**epithet**词语;**axe**斧;**grenade**手榴弹;**slur**诽谤;
 		3. _[brickbat rubble](dic://brickbat%20rubble)_ 碎砖
@@ -2027,7 +2035,7 @@
 		21. ballcock
 			1. 浮球旋塞
 		22. ball-flower
-	2. bolster (buttress, holster, upholstery)
+	2. bolster (buttress, holster, upholstery, prop up, bolster)
 		1. n. 长枕  
 		2. v. 改善, 加强
 		3.  词源同 ball,用于指鼓起来的垫子，枕头，护垫等。后引申词义支持，保护。
@@ -2922,29 +2930,31 @@
 	1. balcony
 		1. balconied
 	2. balk
-		1. balk（障碍）：农田中的田脊或田埂  
-		2. 英语单词balk的最初含义是农田中没犁过的条状区域，即两条犁沟之间的田脊或分割两块农田的田埂。作为动词时，表示“在犁地时留下田脊或田埂不犁”，引申为“（有意）忽略”。由于犁过的农田都是平整的，而田脊或田埂高高突出在农田之上，因此balk作名词时又衍生出“障碍、梁木”等含义，作动词时又衍生出“阻碍、阻止、退缩、止步不前”的含义。  
-		3. 在体育运动中，balk一词还可以表示由于动作中断造成的违规，如棒球运动中投手做出投球动作后却没有投球，跳远运动员跑过起跑区域后没有起跳，马术表演的马在栏杆前突然止步不前。  
-		4. balk：[bɔːlk; bɔːk]n.障碍，田脊，田埂，梁木vt.忽略，阻碍，阻止vi.犹豫，退缩，止步不前，（棒球）佯投。  
-		5. balky：['bɔlki] adj. 停蹄不前的；倔强的；不愿干的
-		6. [baulk](dic://baulk)
-		7. [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [baulk](dic://baulk), [check](dic://check), [handicap](dic://handicap)
-		8. [rafter](dic://rafter), [baulk](dic://baulk)
-		9. [resist](dic://resist), [baulk](dic://baulk), [jib](dic://jib)
-		10. _n._ [area](dic://area), [expanse](dic://expanse), [surface area](dic://surface area), [difficulty](dic://difficulty), [beam](dic://beam), [pitch](dic://pitch), [delivery](dic://delivery)
-		11. _v._ [disobey](dic://disobey)
-		12. **hesitant**踌躇的;**insist**坚持，强调;**wary**机警的;**exorbitant**过高的;**reluctant**不情愿的, 勉强的;**tempted**有兴趣的;**averse**不愿意的;**cringe**畏缩;**forgo**放弃;**unreasonable**不讲道理的, 非理智的;**skeptical**怀疑的;
-		13. _[balk obligations](dic://balk%20obligations)_ 规避义务
-		14. _[balk line](dic://balk%20line)_ 起跳线; 犯规线;
-		15. a balk to one's plans /计划中的障碍
-		16. The horse balked at the jump /这匹马突然停下来不前进
-		17. He balked in his speech /他忽然中断讲演。
-		18. They braced up the old house with balks of timber /他们用梁木加固旧房子。
-		19. I wanted to buy the dress, but I balked at the high price. /我本想买这件连衣裙, 但一看价钱太高就犹豫了。
-		20. It was a fine apartment in which we found ourselves, large, lofty, and heavily raftered with huge balks of age-blackened oak /我们所在的房间确是华美，又高又大，因年代久远而变成了黑色的椽木巨梁密密地排着。
-		21. Why would they balk at a chance to topple him? /为什么他们不借机推翻他？
-		22. restbalk
-		23. balky (bulky, balmy)
+		1. (avert, displace, blench, evitable, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt, shirk, shun, elude, eschew,  shrink, balk at)
+		2. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+		3. balk（障碍）：农田中的田脊或田埂  
+		4. 英语单词balk的最初含义是农田中没犁过的条状区域，即两条犁沟之间的田脊或分割两块农田的田埂。作为动词时，表示“在犁地时留下田脊或田埂不犁”，引申为“（有意）忽略”。由于犁过的农田都是平整的，而田脊或田埂高高突出在农田之上，因此balk作名词时又衍生出“障碍、梁木”等含义，作动词时又衍生出“阻碍、阻止、退缩、止步不前”的含义。  
+		5. 在体育运动中，balk一词还可以表示由于动作中断造成的违规，如棒球运动中投手做出投球动作后却没有投球，跳远运动员跑过起跑区域后没有起跳，马术表演的马在栏杆前突然止步不前。  
+		6. balk：[bɔːlk; bɔːk]n.障碍，田脊，田埂，梁木vt.忽略，阻碍，阻止vi.犹豫，退缩，止步不前，（棒球）佯投。  
+		7. balky：['bɔlki] adj. 停蹄不前的；倔强的；不愿干的
+		8. [baulk](dic://baulk)
+		9. [hindrance](dic://hindrance), [hinderance](dic://hinderance), [deterrent](dic://deterrent), [impediment](dic://impediment), [baulk](dic://baulk), [check](dic://check), [handicap](dic://handicap)
+		10. [rafter](dic://rafter), [baulk](dic://baulk)
+		11. [resist](dic://resist), [baulk](dic://baulk), [jib](dic://jib)
+		12. _n._ [area](dic://area), [expanse](dic://expanse), [surface area](dic://surface area), [difficulty](dic://difficulty), [beam](dic://beam), [pitch](dic://pitch), [delivery](dic://delivery)
+		13. _v._ [disobey](dic://disobey)
+		14. **hesitant**踌躇的;**insist**坚持，强调;**wary**机警的;**exorbitant**过高的;**reluctant**不情愿的, 勉强的;**tempted**有兴趣的;**averse**不愿意的;**cringe**畏缩;**forgo**放弃;**unreasonable**不讲道理的, 非理智的;**skeptical**怀疑的;
+		15. _[balk obligations](dic://balk%20obligations)_ 规避义务
+		16. _[balk line](dic://balk%20line)_ 起跳线; 犯规线;
+		17. a balk to one's plans /计划中的障碍
+		18. The horse balked at the jump /这匹马突然停下来不前进
+		19. He balked in his speech /他忽然中断讲演。
+		20. They braced up the old house with balks of timber /他们用梁木加固旧房子。
+		21. I wanted to buy the dress, but I balked at the high price. /我本想买这件连衣裙, 但一看价钱太高就犹豫了。
+		22. It was a fine apartment in which we found ourselves, large, lofty, and heavily raftered with huge balks of age-blackened oak /我们所在的房间确是华美，又高又大，因年代久远而变成了黑色的椽木巨梁密密地排着。
+		23. Why would they balk at a chance to topple him? /为什么他们不借机推翻他？
+		24. restbalk
+		25. balky (bulky, balmy)
 			1. - adj. 停蹄不前的；倔强的；不愿干的
 			2.  [balking](dic://balking)
 			3. _adj._ [intractable](dic://intractable), stagnant, moribund
@@ -2953,7 +2963,7 @@
 			6. a balky switch; a balky engine. /不易接通的开关；难以起动的发动机
 			7. The first task was overhauling America's balky election infrastructure-in the middle of a pandemic. /第一个任务是在一场大流行的情况下，彻底改革美国停滞不前的选举基础设施。
 			8. 
-	3. block
+	4. block
 		1. wood-block
 		2. unblocking
 		3. unblock
@@ -3008,7 +3018,7 @@
 			14. blockaderunner
 			15. blockader
 		25. backblocks
-	4. debauch
+	5. debauch
 		1. 来自古法语 debaucher,偏离，逃离工作职责。词源不详，可能来自 de-,向下，-bauch,杆，栏杆，词源同 balk,balcony.即掉落栏杆，词义由掉落引申为堕落。
 		2. vt. 使堕落  
 		3. vi. 放荡  
@@ -3033,7 +3043,7 @@
 			9. World domination by day, debauchery by night. /白天统治世界 晚上灯红酒绿。
 		15. debauchee
 		16. debauched
-	5. fulcrum
+	6. fulcrum
 2. **phalang-** 表示“指骨”。源自希腊语 phalanx "beam, finger bone, line of battle."
 
 
@@ -6118,6 +6128,7 @@
 		12. Countries will be reimbursed for equipment they send. /各国将获得他们所提供设备的补偿。
 		13. reimbursible
 		14. reimbursement
+			1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
 		15. reimbursable
 	8. purse (pout)
 		1. [bag](dic://bag), [handbag](dic://handbag), [pocketbook](dic://pocketbook)

@@ -1541,17 +1541,18 @@
 			1. communization
 		16. communicate
 			1. see blow
-	2. remunerate (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage)
-		1.  来自拉丁语 remunerari,支付，奖励，来自 re-,向后，往回，munerari,给予，来自 munus,相互，礼物，职责，服务，词源同 mutual,municipal.即对别人的服务应支付的报酬。比较 emolument.
-		2. _[remunerate](dic://remunerate)_  vt. 酬劳；给与报酬；赔偿
-		3. _[remunerated](dic://remunerated)_  adj. 获得酬金的; v. 付给…报酬（remunerate的过去式）;
-		4. _v._ [pay](dic://pay)
-		5. **compensate**补偿;**reimburse**偿还;**pay**支付，付;**paid**付清的;**obliged**感激的;**procure**获得，取得;**employ**雇佣;**repay**偿还;**indemnity**保障, 赔偿, 补偿;**reward**报酬;**accrue**自然增加;
-		6. remunerate a person for his trouble /给某人的辛苦以报酬
-		7. they should be remunerated fairly for their work. /他们付出了劳动，应该得到较好的报酬。
-		8. The main characteristic of unpaid work is that it's not directly paid or remunerated. /无偿工作的主要特点是没有直接报酬。
-		9. It affects how we steer economies to produce more of some activities, less of others, how we also remunerate some activities more than others /这影响着我们如何引导经济去生产更多这种活动，减少那种活动，这影响我们某些活动的报酬比其他活动高。
-		10. remunerative, remuneration
+	2. remunerate 
+		1.  (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
+		2.  来自拉丁语 remunerari,支付，奖励，来自 re-,向后，往回，munerari,给予，来自 munus,相互，礼物，职责，服务，词源同 mutual,municipal.即对别人的服务应支付的报酬。比较 emolument.
+		3. _[remunerate](dic://remunerate)_  vt. 酬劳；给与报酬；赔偿
+		4. _[remunerated](dic://remunerated)_  adj. 获得酬金的; v. 付给…报酬（remunerate的过去式）;
+		5. _v._ [pay](dic://pay)
+		6. **compensate**补偿;**reimburse**偿还;**pay**支付，付;**paid**付清的;**obliged**感激的;**procure**获得，取得;**employ**雇佣;**repay**偿还;**indemnity**保障, 赔偿, 补偿;**reward**报酬;**accrue**自然增加;
+		7. remunerate a person for his trouble /给某人的辛苦以报酬
+		8. they should be remunerated fairly for their work. /他们付出了劳动，应该得到较好的报酬。
+		9. The main characteristic of unpaid work is that it's not directly paid or remunerated. /无偿工作的主要特点是没有直接报酬。
+		10. It affects how we steer economies to produce more of some activities, less of others, how we also remunerate some activities more than others /这影响着我们如何引导经济去生产更多这种活动，减少那种活动，这影响我们某些活动的报酬比其他活动高。
+		11. remunerative, remuneration
 	4. municipal
 		1. _adj._ [municipality](dic://municipality), [domestic](dic://domestic)
 		2. _n._ [foreign](dic://foreign)
@@ -1867,22 +1868,22 @@
 		8. comminute the walnut kernel into shatters; /再将核桃仁弄成碎末；She has an open, comminuted Galeazzi fracture. /开放性粉碎性盖氏骨折。
 		9. And time of union was 6-10 weeks for open and **comminute** fracture. /其中粉碎性骨折及开放性骨折愈合时间6 ~ 10周。
 	4. diminish
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
-		2. [decrease](dic://decrease), [lessen](dic://lessen), [fall](dic://fall)
-		3. [belittle](dic://belittle)
-		4. _v._ [change magnitude](dic://change magnitude), [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify)
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+		4. [decrease](dic://decrease), [lessen](dic://lessen), [fall](dic://fall)
+		5. [belittle](dic://belittle)
+		6. _v._ [change magnitude](dic://change magnitude), [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify)
 			1. [decrease](dic://decrease) 指逐渐地、不断地减少。  
 			2. [diminish](dic://diminish) 侧重大小数量和重要性的不断减小，强调减小的部分。  
 			3. [lessen](dic://lessen) 普通用词，与decrease近义。指数目、程度、价值、实力等的减少。  
 			4. [reduce](dic://reduce) 普通用词，含义广。指数量、程度的降低或减少。  
 			5. [dwindle](dic://dwindle) 与decrease同义，指逐渐减小，但强调变得越来越少终至全无。
-		5. **lessen**使…变小;**reduce**减少;**lessened**减少的;**weaken**减少;**enhance**提高;**detract**转移，使分心;**erode**腐蚀，侵蚀;**undermine**在某物下挖洞或挖通道;**negate**否定;**hinder**成为阻碍;**curtail**截断, 缩短;
-		6. _diminish inflammation_ 消炎
-		7. a diminished fifth. /减五度音程。
-		8. a diminished role for local government. /当地政府被削弱了的地位。
-		9. she felt diminished by the report. /她感到被那篇报道贬损了形象。
+		7. **lessen**使…变小;**reduce**减少;**lessened**减少的;**weaken**减少;**enhance**提高;**detract**转移，使分心;**erode**腐蚀，侵蚀;**undermine**在某物下挖洞或挖通道;**negate**否定;**hinder**成为阻碍;**curtail**截断, 缩短;
+		8. _diminish inflammation_ 消炎
+		9. a diminished fifth. /减五度音程。
+		10. a diminished role for local government. /当地政府被削弱了的地位。
+		11. she felt diminished by the report. /她感到被那篇报道贬损了形象。
 	6. diminuendo
 		1. _n._ [softness](dic://softness)
 		2. _adj._ [decreasing](dic://decreasing)
@@ -2619,7 +2620,9 @@
 		1. maliciousness
 		2. maliciously
 	30. malign
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage)
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		2.  [badmouth](dic://badmouth), [traduce](dic://traduce), [drag through the mud](dic://drag through the mud)
 		3. [malefic](dic://malefic), [malevolent](dic://malevolent), [evil](dic://evil)
 		4. _v._ [defame](dic://defame), [slander](dic://slander), [smirch](dic://smirch), [asperse](dic://asperse), [denigrate](dic://denigrate), [calumniate](dic://calumniate), [smear](dic://smear)
@@ -2858,7 +2861,9 @@
 4. **mnes-, mnem-** = remember, 表示“记忆”。源自希腊语 mneme "memory," mimneskein "to remember."
 5. **mon-, monit-** = warn, 表示“警告”。源自拉丁语 monere "to remind, warn."
 	1. admonish (exhort, expostulate)
-		1. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, )
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		2.  ad-,去，往，-mon,建议，警告，词源同 monitor,班长。
 		3. _vt._ 劝告, 训诫
 		4. (温和地)责备，轻责
@@ -3932,13 +3937,13 @@
 	11. ditolylmercury
 	12. dimethylmercury
 9. perimercurian
-	1. 近水点
+	1. 近水点 
 
 
 ### + \*mere- + = to hinder, delay
 1. **mor-, mur-** = delay 「Latin」mora, "a delay"
 	1. demur (demure)
-		1. (rebuttal, confute, rebut, demur, refute, refuse, decline, denounce, )
+		1.  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry)
 		2. [demurral](dic://demurral), [demurrer](dic://demurrer)
 		3. [except](dic://except)
 		4. _n._ [objection](dic://objection)
