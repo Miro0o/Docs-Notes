@@ -4252,25 +4252,26 @@
 		6. the reverberant booms of cannon. /回荡着隆隆的炮声。
 		7. Then it contracted swiftly, sucking in its sound until it left only a reverberant echo, which died upon the farther bank. /然后它迅速收缩，吸收它的声音，直到它只留下一个混响的回声，它在更远的河岸上消失了。
 	2. reverberate
-		1. - vt. 使回响；使反射；使弹回 
-		2. vi. 回响；反响；弹回；不断发生后效 
-		3. adj. 回响的；反射的
-		4. _v._ [sound](dic://sound), [go](dic://go), [prevail](dic://prevail), [persist](dic://persist), [die hard](dic://die hard), [run](dic://run), [endure](dic://endure)
-		5. **resonate**共鸣;**echoing**回音;**ripples**涟漪;**echo**重复，反射;**ripple**波纹;**linger**逗留, 徘徊;**haunt**常出没于…;**amplify**放大，扩大;**rumbling**隆隆声;**erupt**爆发;**repercussions**反响;
-		6. _[reverberate](dic://reverberate)_  vt. 使回响；使反射；使弹回; vi. 回响；反响；弹回；不断发生后效; adj. 回响的；反射的;
-		7. _[reverberating](dic://reverberating)_  v. 回弹；反射（reverberate的ing形式）
-		8. be reverberated with cheers and firecrackers /回荡着一片欢呼声和爆竹声
-		9. the hall reverberated with gaiety and laughter. /大厅里回荡着欢笑声。
-		10. the statements by the professor reverberated through the Capitol. /教授的话不断在国会引起反响。
-		11. One this week seems to have reverberated more loudly than most. /本周发生的一起刺杀案产生了更大的回响。
-		12. Echoes of cries of pain reverberate in my heart. /那些痛苦的呼唤经常在我内心深处回响激荡。
-		13. A snapping sound reverberated through the forest, maybe a breaking branch. /噼啪声在森林里回荡，可能是树枝折断的声音。
-		14. We begin with the assassination that is reverberating around the world. /我们首先从这起在全世界引起轰动的暗杀事件开始播报。
-		15. Forever after, it could be heard reverberating through hollow caves and rebounding across lonely clearings. /此后，其声音在空虚的洞穴中回响，在孤独的森林空地间回荡。
-		16. reverberatory
-		17. reverberator
-		18. reverberative
-		19. reverberation
+		1. (venal, venereal, venerate, vertebrate, vernal, venial, veneer, reverberate, )
+		2. - vt. 使回响；使反射；使弹回 
+		3. vi. 回响；反响；弹回；不断发生后效 
+		4. adj. 回响的；反射的
+		5. _v._ [sound](dic://sound), [go](dic://go), [prevail](dic://prevail), [persist](dic://persist), [die hard](dic://die hard), [run](dic://run), [endure](dic://endure)
+		6. **resonate**共鸣;**echoing**回音;**ripples**涟漪;**echo**重复，反射;**ripple**波纹;**linger**逗留, 徘徊;**haunt**常出没于…;**amplify**放大，扩大;**rumbling**隆隆声;**erupt**爆发;**repercussions**反响;
+		7. _[reverberate](dic://reverberate)_  vt. 使回响；使反射；使弹回; vi. 回响；反响；弹回；不断发生后效; adj. 回响的；反射的;
+		8. _[reverberating](dic://reverberating)_  v. 回弹；反射（reverberate的ing形式）
+		9. be reverberated with cheers and firecrackers /回荡着一片欢呼声和爆竹声
+		10. the hall reverberated with gaiety and laughter. /大厅里回荡着欢笑声。
+		11. the statements by the professor reverberated through the Capitol. /教授的话不断在国会引起反响。
+		12. One this week seems to have reverberated more loudly than most. /本周发生的一起刺杀案产生了更大的回响。
+		13. Echoes of cries of pain reverberate in my heart. /那些痛苦的呼唤经常在我内心深处回响激荡。
+		14. A snapping sound reverberated through the forest, maybe a breaking branch. /噼啪声在森林里回荡，可能是树枝折断的声音。
+		15. We begin with the assassination that is reverberating around the world. /我们首先从这起在全世界引起轰动的暗杀事件开始播报。
+		16. Forever after, it could be heard reverberating through hollow caves and rebounding across lonely clearings. /此后，其声音在空虚的洞穴中回响，在孤独的森林空地间回荡。
+		17. reverberatory
+		18. reverberator
+		19. reverberative
+		20. reverberation
 5. **verg-** = to turn,to bend, 表示“倾向；倾斜”。源自拉丁语 vergere "to turn, bend toward."
 	1. verge
 		1.  [brink](dic://brink), [threshold](dic://threshold)
@@ -5513,7 +5514,13 @@
 			9. a vesture of verdure 一片翠绿
 			10. hills in a vesture of mist. 笼罩在雾中的山峦
 		16. vestment, vestlike,
-		17. divest (strip, divest, deprive, expropriate, confiscate, plunder, foreclose)
+		17. divest
+			1. [deprive](dic://deprive), [strip](dic://strip)
+			2.  [disinvest](dic://disinvest)
+			3.  [strip](dic://strip), [undress](dic://undress), [disinvest](dic://disinvest)
+			4. _v._ [take](dic://take), [free](dic://free), [discharge](dic://discharge), [withdraw](dic://withdraw), [draw](dic://draw), [take out](dic://take out), [draw off](dic://draw off)
+			5. _n._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone), [put](dic://put), [commit](dic://commit), [place](dic://place)
+			6. **relinquish**交出, 让给;**acquire**获得;**renounce**宣布放弃;**withdraw**撤消;**relocate**重新安置;**compel**强迫，迫使;**diversify**使多样化;**invest**投资;**abandon**离弃;**dismantle**拆开, 拆卸;**holdings**占有的财产;
 		18. vested
 		19. vestee
 			1. n. V形装饰片, 背心式胸衣
@@ -5529,21 +5536,29 @@
 		3. transvestist
 		4. transvestism
 	5. divest
-		1. di-去掉 + vest-衣服 → 去掉衣服 → 脱去。
-		2. [deprive](dic://deprive), [strip](dic://strip)
-		3. [disinvest](dic://disinvest)
+		1. (strip, divest, deprive, expropriate, confiscate, plunder, foreclose)
+		2. di-去掉 + vest-衣服 → 去掉衣服 → 脱去。
+		3. [deprive](dic://deprive), [strip](dic://strip)
 		4. [disinvest](dic://disinvest)
-		5. [strip](dic://strip), [undress](dic://undress), [disinvest](dic://disinvest)
-		6. _v._ [take](dic://take), [free](dic://free), [discharge](dic://discharge), [withdraw](dic://withdraw), [draw](dic://draw), [take out](dic://take out), [draw off](dic://draw off)
-		7. _n._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone), [put](dic://put), [commit](dic://commit), [place](dic://place)
-		8. **relinquish**交出, 让给;**acquire**获得;**renounce**宣布放弃;**withdraw**撤消;**relocate**重新安置;**compel**强迫，迫使;**diversify**使多样化;**invest**投资;**abandon**离弃;**dismantle**拆开, 拆卸;**holdings**占有的财产;
-		9. undivested
-		10. divestment
+		5. [disinvest](dic://disinvest)
+		6. [strip](dic://strip), [undress](dic://undress), [disinvest](dic://disinvest)
+		7. _v._ [take](dic://take), [free](dic://free), [discharge](dic://discharge), [withdraw](dic://withdraw), [draw](dic://draw), [take out](dic://take out), [draw off](dic://draw off)
+		8. _n._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone), [put](dic://put), [commit](dic://commit), [place](dic://place)
+		9. **relinquish**交出, 让给;**acquire**获得;**renounce**宣布放弃;**withdraw**撤消;**relocate**重新安置;**compel**强迫，迫使;**diversify**使多样化;**invest**投资;**abandon**离弃;**dismantle**拆开, 拆卸;**holdings**占有的财产;
+		10. The wind divested the tree of their leaves. /风吹掉了树上的叶子。
+		11. I cannot divest myself of the idea. /我无法消除那个念头。
+		12. men are unlikely to be divested of power without a struggle. /从男人那里夺权是肯定会遇到一些反抗的。
+		13. she divested him of his coat. /她为他脱掉大衣。
+		14. the government's policy of divesting itself of state holdings. /政府取消国有持股的政策。
+		15. Week after week, institutions were divesting from fossil fuels. /一周又一周，机构废除化石燃料。
+		16. Back on board, the sailors helped divest us of our heavy copper carapaces. /一上了小艇，各人有艇上水手的帮助，解开了沉重的铜脑盖。
+		17. undivested
+		18. divestment
 			1. n. 转让部分投资，撤销投资
-		11. divestiture
+		19. divestiture
 			1. _n._ [court order](dic://court order), [sale](dic://sale)
 			2. **merger**合并;**acquisition**获得物，获得;**restructuring**重组;**reorganization**改组;**mergers**兼并;**takeover**接管;**realignment**重新排列,再结盟;**liquidation**清偿,结算;**consolidation**巩固,加强,强化;**privatization**私有化;**buyout**全部买下;
-	6. invest
+	7. invest
 		1. invest（投资）：给财富换上神奇的衣服  
 		2. 17世纪初期，西方的英、法、荷等国纷纷向东半球开展殖民扩展，并设立多家“东印度公司”负责殖民地的经贸事务，实际上是西方列强侵略盘剥印度等地的工具。1602年，荷兰联合东印度公司成立。它采取了一种全新的企业组织形式——股份制，即通过向全社会融资来筹集资金。1609年，在荷兰的阿姆斯特丹成立了世界上第一家股票交易所。当时，东印度公司成了国家的摇钱树，源源不断地从东方带来巨大财富。在海外财富的刺激下，成千上万的人把自己的积蓄投入给东印度公司，希望将来能获得丰厚的回报。甚至，阿姆斯特丹市市长的女仆也成了东印度公司的股东之一。正是在这种背景下，invest这个原本与金融毫无关系的单词衍生出了“投资”的含义。  
 		3. 英语单词invest来自investire，本意是“穿上正式的制服”，由in（进入）+vestire（衣服）构成，英语单词vest（背心，汗衫）就源自vestire。人们将手中的钱换成东印度公司股票时，就像是给财富换上了一件神奇的衣服，一件可以带来滚滚财源的衣服，所以人们用invest这个单词来比喻这种购买股票的投资行为，invest也就产生了“投资”的含义。有趣的是，股票交易所中的交易员都身穿马甲（in vest）。  
@@ -5594,8 +5609,8 @@
 			12. The investiture of our first Chairwoman, Mrs Reginald Crawley, who has graciously agreed to share the duties of our beloved President, the Dowager Countess of Grantham. /我们有幸任命第一位女主席，雷金纳德·卡劳利夫人，她愿与我们敬爱的董事长格兰瑟姆伯爵夫人共同管理我们的医院。
 			13. The heir of every immediate vassal of the crown paid a certain duty, generally a year's rent, upon receiving the investiture of the estate. /每个王室直属封臣的继承人在接受财产授予时都要缴纳一定的税款，通常是一年的租金。
 		33. investitive
-	7. travesty
-	8. revet
+	8. travesty
+	9. revet
 		1. vt. 用砖石护(堤等), 用水泥等覆护
 		2. _v._ [construct](dic://construct), [build](dic://build), [make](dic://make), [face](dic://face)
 		3. **revert**恢复;
@@ -5608,8 +5623,19 @@
 	3. n. 穿着, 戴, 使用, 耗损, 服装, 耐久性  
 	4. vt. 穿着, 戴, 留(须、发等), 呈现, 磨损, 磨成, 耗损, 使疲乏, 消磨  
 	5. vi. 磨损, 变旧, 耐久, 渐变, 渐渐消失
-	6. womenswear
-	7. weary (dreary)
+	6. worn
+		1.  [careworn](dic://careworn), [drawn](dic://drawn), [haggard](dic://haggard), [raddled](dic://raddled)
+		2. _adj._ [aged](dic://aged), [attrited](dic://attrited), [battered](dic://battered), [clapped out](dic://clapped out), [creaky](dic://creaky), [decrepit](dic://decrepit), [derelict](dic://derelict)
+		3. _n._ [new](dic://new), [rested](dic://rested)
+		4. **tattered**破烂的，衣衫褴褛的;**soiled**脏的，被弄脏的;**frayed**受磨损;**dressed**穿好衣服的;**faded**已褪色的;**torn**扯裂，撕开;**washed**洗过的;**sewn**缝纫，缝上;**ragged**衣衫褴褛的;**repaired**修好的;**fitted**合适的;
+		5. _worn out_ 疲惫不堪的；耗尽的
+		6. _worn parts_ 磨损部件
+		7. well-worn fame /名副其实
+		8. worn down by worry. /忧心忡忡
+		9. the transmission was plumb worn out. /变速器完全坏了。
+		10. the time-worn faces of the veterans. /老兵们饱经风霜的脸。
+	7. womenswear
+	8. weary (dreary)
 		1. adj. 疲劳的，疲倦的；使人疲劳的，令人厌烦的；厌倦的，厌烦的 
 		2. v. （使）疲倦，（使）厌烦；<苏格兰>忧伤，烦恼
 		3. (exhausted, fatigue, weariness, pall, pale, jaded, weary, fag out)
@@ -5673,23 +5699,31 @@
 1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
 	1. primavera
 		1. _n._ 白桃花心木(中美洲出产的一种树木或其木材)
-	2. vernal (venal, venereal, venerate, vertebrate, vernal, venial, veneer,)
+		2. He can have a nice spaghetti primavera. No cream. I'm not going to give hime something else. /他可以吃到美味的春意面。没有奶油。我不会给他别的东西。
+		3. Let's talk about my primavera sauce pancetta frying off in a pan, render out that fat get it all nice and golden brown and crispy, remove that. /让我们来谈谈我的意面酱，意式烟肉，在平底锅里煎，把脂肪煎出来，让它变得金黄酥脆，把它拿出来。
+	2. vernal (venal, venereal, venerate, vertebrate, vernal, venial, veneer, reverberate, )
 		1. (vernal, estival, autumnal, brumal/hibernal/wintry)
-		2.  [youthful](dic://youthful), [young](dic://young)
-		3. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
-		4. [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
-		5. [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
-		6. vernally
-		7. vernalize, vernalization
-		8. _vernal equinox_ n. 春分；春分点（约在3月20日
-		9. the vernal freshness of the land. /土地的春天清新气息。
-		10. The linnet chirps her vernal song /红雀吱喳鸣叫着她春天的歌。
-	4. primeverin
-	5. primeverose
-	6. vernamycin
+		2. a. 春天的, 和煦的, 青春的
+		3. 来自拉丁语 ver,春季。
+		4. [youthful](dic://youthful), [young](dic://young)
+		5. _adj._ [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
+		6. _n._ [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
+		7. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
+		8. _vernal equinox_ n. 春分；春分点（约在3月20日）
+		9. The linnet chirps her vernal song /红雀吱喳鸣叫着她春天的歌。
+		10. And if vernal pools had a mascot, it would probably be these fairy shrimp. /如果春池有吉祥物的话，可能是这些仙女虾。
+		11. Let tulips trust not the warm **vernal** rain. /让郁金香相信春天的绵绵细雨。
+		12. Dead place with light, and life, and **vernal** air. /充满生命的活力和炯炯光明。
+		13. One day before the vernal equinox. Dad? - Yeah. Mark that. /春分点的前一天 爸? - 画个记号。
+		14. vernalize
+			1. vt. 进行春化处理；以人工方法促进发育（等于 vernalise）
+		15. vernalization
+	3. primeverin
+	4. primeverose
+	5. vernamycin
 
 
-### + \*wet- + 
+### + \*wet- +
 1. **veter-** = old, 表示“老”。源自拉丁语 vetus "old."
 	1. inveteracy
 		1. n. 根深蒂固, 积习
@@ -6305,29 +6339,16 @@
 		6. He flew off the handle when someone rammed into his car. /当有人撞向他的车时，他大发雷霆。
 		7. Now the bell is struck by a big wooden ram in the shape of the wheel. /用于敲钟的是一根轮状的大木锤。
 		8. He wondered if they were actually getting a ram of some sort to batter at the door. /他不知道他们是否真的会拿东西砸门。
-	2. ramrod
-		1. 1. _n._ 推弹杆,严厉的负责人 _adj._ 严厉的,生硬的
-		2. _n._ [rod](dic://rod), [overseer](dic://overseer), [superintendent](dic://superintendent)
-		3. **cock**公鸡;**dick**阴茎;**bareback**无鞍的，不用鞍的;**dildo**假阴茎;**thrusting**推,插,挤;**twat**笨蛋;**rifle**步枪;**barrel**桶;**hunk**大块，大片;**rammed**撞击的;**erect**使竖立;
-		4. Next he put the ramrod back in its place against the gun barrel /接下来，他将推弹杆放回原位，靠在枪管上。
-	3. rammer
-		1. _[rammers](dic://rammers)_  n. 撞者；撞锤（rammer的复数形式）
-	4. ramjet
-	5. ramaway
-	6. ramble (gabble,)
-		1. 漫步；漫游；随笔
-		2. vt. 漫步于… vi. 漫游；漫步；漫谈；闲逛；蔓延
-		2. [meander](dic://meander)
-		3. [ramble on](dic://ramble on), [jog](dic://jog)
-		4.  [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
-		5. _n._ [amble](dic://amble), [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
-		6. _v._ [continue](dic://continue), [go on](dic://go on), [carry on](dic://carry on), [proceed](dic://proceed), [travel](dic://travel), [go](dic://go), [move](dic://move)
-		7. **rant**咆哮;**meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**ranting**吼闹;**musings**沉思;**babbling**胡说;**digress**离题;**tangent**切线的，相切的;**inane**愚蠢的;**ponder**仔细考虑;**drivel**淌口水,说傻话;
-		8. _ramble about_ 漫步于；闲逛
-		9. Willy rambled on about Norman archways /威利漫无边际地大谈诺曼式拱道。
-		10. I like ramble about the street after work,and buy something passingly. /我喜欢下班后乱逛，顺便买点东西。
-		11. You can also watch for rambling /你也可能看起来注意散漫。
-	8. ramiform
+		9. ramrod
+			1. 1. _n._ 推弹杆,严厉的负责人 _adj._ 严厉的,生硬的
+			2. _n._ [rod](dic://rod), [overseer](dic://overseer), [superintendent](dic://superintendent)
+			3. **cock**公鸡;**dick**阴茎;**bareback**无鞍的，不用鞍的;**dildo**假阴茎;**thrusting**推,插,挤;**twat**笨蛋;**rifle**步枪;**barrel**桶;**hunk**大块，大片;**rammed**撞击的;**erect**使竖立;
+			4. Next he put the ramrod back in its place against the gun barrel /接下来，他将推弹杆放回原位，靠在枪管上。
+		10. rammer
+			1. _[rammers](dic://rammers)_  n. 撞者；撞锤（rammer的复数形式）
+		11. ramjet
+		12. ramaway
+	2. ramiform
 		1. _[ramiform](dic://ramiform)_  adj. 有分枝的，枝状的
 	9. ramify
 		1. [complexify](dic://complexify)
@@ -6339,15 +6360,29 @@
 		7. Speaking at the White House, the president expressed concern the decision by the justices overturning decades of precedent could have ramifications beyond the classroom. /总统在白宫发表讲话时表示，他担心大法官们推翻几十年来先例的决定可能会产生课堂以外的影响。
 		8. These actions will **ramify** /这些活动将互相关联。
 		9. These plants **ramify** early and get to be very large /这些植物很早就分枝，因而可以长得非常大。
+		10. ramification
+			1. n. 分枝, 分叉, 枝状物, 支脉, 支流, 衍生物; (尤指最初并不明显的) 后果 
+			2. _n._（众多复杂而又难以预料的）结果，后果；衍生结果；派生影响
+			3. 来自 ramify,分支，分叉。引申词义后果，特指难以预料的结果。
+			4. [branching](dic://branching), [fork](dic://fork), [forking](dic://forking)
+			5. [branch](dic://branch), [leg](dic://leg)
+			6. [complication](dic://complication)
+			7. _n._ [division](dic://division), [subfigure](dic://subfigure), [development](dic://development), [placement](dic://placement), [arrangement](dic://arrangement)
+			8. **repercussions**反响;**consequence**结果, 后果;**implication**暗示;**divergence**分叉，叉开;**fallout**原子尘;**far-reaching**深远的;**consequent**作为结果的;**possibility**可能;**exponential**指数的;**impact**影响;**transgression**犯罪;
+			9. the ramifications of a court decision. /法庭决定的结果
+			10. What are the ramifications of our decision to join the union? /我们决定加入工会会引起哪些后果呢？
+			11. If the judge had ruled in favor, it would have major ramifications. /如果法官支持该诉讼，它将产生重大的后果。
+			12. Will there be political ramifications, do you think, for this vote? /你认为这次投票会产生政治影响吗？
+			13. 
 	10. rammish
 		1. _[rammish](dic://rammish)_  adj. 像公羊的；有恶臭的；膻气强烈的
 	11. ramose (remose)
 		1. _adj._ 多枝的,分枝的
 		2. [branched](dic://branched), [branching](dic://branching), [ramous](dic://ramous), [ramate](dic://ramate)
 		3. _ramose structure_ 支链结构
-	13. rampike
+	12. rampike
 		1. _rampike_  n. （直立的）枯树，死树
-	14. ramshackle
+	13. ramshackle
 		1. (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother, ramshackle, assortment, mixture, miscellany, assemblage, sundry, ) 
 		2. _[ramshackle](dic://ramshackle)_  adj. （建筑物、车辆等）摇摇欲坠的，破烂不堪的；（组织或体制）松散的，东拼西凑的
 		3. _adj._ [damaged](dic://damaged)
@@ -6357,6 +6392,19 @@
 		7. _[Ramshackle pier](dic://Ramshackle%20pier)_ 破败的码头
 		8. a ramshackle cottage. /摇摇欲坠的村舍。
 		9. a ramshackle cabin in the woods /林中一间要倒塌的棚屋
+	14. ramble (gabble,)
+		1. 漫步；漫游；随笔
+		2. vt. 漫步于… vi. 漫游；漫步；漫谈；闲逛；蔓延
+		2. [meander](dic://meander)
+		3. [ramble on](dic://ramble on), [jog](dic://jog)
+		4. [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
+		5. _n._ [amble](dic://amble), [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
+		6. _v._ [continue](dic://continue), [go on](dic://go on), [carry on](dic://carry on), [proceed](dic://proceed), [travel](dic://travel), [go](dic://go), [move](dic://move)
+		7. **rant**咆哮;**meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**ranting**吼闹;**musings**沉思;**babbling**胡说;**digress**离题;**tangent**切线的，相切的;**inane**愚蠢的;**ponder**仔细考虑;**drivel**淌口水,说傻话;
+		8. _ramble about_ 漫步于；闲逛
+		9. Willy rambled on about Norman archways /威利漫无边际地大谈诺曼式拱道。
+		10. I like ramble about the street after work,and buy something passingly. /我喜欢下班后乱逛，顺便买点东西。
+		11. You can also watch for rambling /你也可能看起来注意散漫。
 3. **rhiz-** = root, 表示“根”。源自希腊语 rhiza "root."
 	1. rhizogenic
 		1. _[rhizogenic layer](dic://rhizogenic%20layer)_ 生根层
@@ -6434,30 +6482,3 @@
 2. **retro-** 表示“向后，倒退，之前”。源自拉丁语 retro "backward, back, behind."
 	1. retro-rocket
 	2. retroat
-
-
-
-## wr
-### + \*wesr- +
-1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
-	1. primavera
-		1. _n._ 白桃花心木(中美洲出产的一种树木或其木材)
-		2. He can have a nice spaghetti primavera. No cream. I'm not going to give hime something else. /他可以吃到美味的春意面。没有奶油。我不会给他别的东西。
-		3. Let's talk about my primavera sauce pancetta frying off in a pan, render out that fat get it all nice and golden brown and crispy, remove that. /让我们来谈谈我的意面酱，意式烟肉，在平底锅里煎，把脂肪煎出来，让它变得金黄酥脆，把它拿出来。
-	2. vernal
-		1. (vernal, estival, autumnal, brumal/hibernal/wintry)
-		2. a. 春天的, 和煦的, 青春的
-		3. 来自拉丁语 ver,春季。
-		4. [youthful](dic://youthful), [young](dic://young)
-		5. _adj._ [young](dic://young), [immature](dic://immature), [spring-flowering](dic://spring-flowering), [early-flowering](dic://early-flowering), [spring-blooming](dic://spring-blooming), [early-blooming](dic://early-blooming), [late-spring-blooming](dic://late-spring-blooming)
-		6. _n._ [old](dic://old), [summery](dic://summery), [autumnal](dic://autumnal), [wintry](dic://wintry), [wintery](dic://wintery)
-		7. **springtime**春季，春天;**solstice**至;**meadow**草地;**pools**足球场;**meadows**草地;**marsh**湿地;
-		8. _vernal equinox_ n. 春分；春分点（约在3月20日）
-		9. The linnet chirps her vernal song /红雀吱喳鸣叫着她春天的歌。
-		10. And if vernal pools had a mascot, it would probably be these fairy shrimp. /如果春池有吉祥物的话，可能是这些仙女虾。
-		11. Let tulips trust not the warm **vernal** rain. /让郁金香相信春天的绵绵细雨。
-		12. Dead place with light, and life, and **vernal** air. /充满生命的活力和炯炯光明。
-		13. One day before the vernal equinox. Dad? - Yeah. Mark that. /春分点的前一天 爸? - 画个记号。
-		14. vernalize
-			1. vt. 进行春化处理；以人工方法促进发育（等于 vernalise）
-		15. vernalization

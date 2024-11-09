@@ -10,7 +10,7 @@
 	3. e- + scarp【n. 悬崖】
 	4. escarpment
 3. eschew 
-	1. (avert, displace, blench, evite, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt, shirk, shun, spurn, elude, eschew,  shrink, obviate)
+	1. (avert, displace, blench, evitable, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt, shirk, shun, elude, eschew,  shrink, balk at)
 	2. e-缓音字母 + -schew = shy, 害羞，逃避。
 	3. [shun](dic://shun)
 	4. _v._ [avoid](dic://avoid)

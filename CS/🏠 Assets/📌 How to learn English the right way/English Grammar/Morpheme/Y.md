@@ -157,10 +157,11 @@
 		1. interject a comment into a conversation;/ 在谈话中插入评论；
 		2. she interjected the odd question here and there /她时不时地打断谈话问些个稀奇古怪的问题。
 	13. object
-		1. [physical object](dic://physical object)
-		2.  [aim](dic://aim), [objective](dic://objective), [target](dic://target)
-		3. _n._ [physical entity](dic://physical entity), [goal](dic://goal), [end](dic://end), [constituent](dic://constituent), [grammatical constituent](dic://grammatical constituent), [content](dic://content), [cognitive content](dic://cognitive content)
-		4. _v._ [disapprove](dic://disapprove), [reject](dic://reject), [be](dic://be)
+		1.  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry)
+		2. [physical object](dic://physical object)
+		3.  [aim](dic://aim), [objective](dic://objective), [target](dic://target)
+		4. _n._ [physical entity](dic://physical entity), [goal](dic://goal), [end](dic://end), [constituent](dic://constituent), [grammatical constituent](dic://grammatical constituent), [content](dic://content), [cognitive content](dic://cognitive content)
+		5. _v._ [disapprove](dic://disapprove), [reject](dic://reject), [be](dic://be)
 			1. [aim](dic://aim) 从本义“靶子”引申而来，侧重比较具体而明确的目标，但常指短期目标。  
 			2. [goal](dic://goal) 指经过考虑和选择，需经坚持不懈的努力奋斗才能达到的最终目标。  
 			3. [purpose](dic://purpose) 普通用词，既指以坚决、审慎的行动去达到的目的，又指心中渴望要实际的目标。  
@@ -170,7 +171,7 @@
 			7. [objective](dic://objective) 与object基本同义，但语义更广泛，指具体或很快能达到的目的，也可指军事目标。书面用词。
 			8. **inanimate**无生命的;**attribute**把…归因于;**pointer**指针;**element**元素;**cursor**游标，指针;**objection**反对, 异议;**entity**实体;**item**条款，项目;**schema**图解;**artifact**人工制品;**constructor**构造器;
 			9. an object of contempt. /令人轻蔑的对象
-	14. project
+	15. project
 		1. n. 项目, 方案; 计划; 专题研究  v. 规划, 计划; 预测; 放映, 投射; 表现; 突出
 		2. projecture
 		3. projectoscope
@@ -185,20 +186,21 @@
 			3. microprojection
 		8. projecting
 		9. projectile
-	15. reject
-		1. rejector
-		2. rejection
+	16. reject
+		1.  (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce)
+		2. rejector
+		3. rejection
 			1. _n._ [act](dic://act), [human action](dic://human action), [human activity](dic://human activity), [situation](dic://situation), [state of affairs](dic://state of affairs), [organic phenomenon](dic://organic phenomenon), [speech act](dic://speech act)
 			2. _n._ [acceptance](dic://acceptance)
 			3. **acceptance**接受, 认可;**rejected**被拒的;**reject**拒绝;**abandonment**放弃;**denial**否认;**refusal**拒绝;**disapproval**不赞同, 反对;**alienation**离间,疏远;**condemnation**谴责;**resignation**辞职;**dismissal**解雇, 免职, 开除;
-		3. rejecter
-		4. rejectee
-	16. retroject
+		4. rejecter
+		5. rejectee
+	17. retroject
 		1. vt. 向后抛, 向后投射, 掷回, (喻)回想, 回溯
-	17. subject
-	18. intraject
-	19. introjection
-	20. conjecture 
+	18. subject
+	19. intraject
+	20. introjection
+	21. conjecture 
 		1. (conjure, hypothesis, conjecture, surmise, speculate, extrapolate, deduce, inference, conclude, reckon, premise, postulate, posit, assume, presume, supposition)
 		2. con-强调 + ject-扔，投掷 + -ure, 表名词。
 		3. conjecture [kən'dʒektʃə] n.推测；猜想，vi.&amp;vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。比如著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 ​​​​
