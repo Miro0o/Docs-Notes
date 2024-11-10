@@ -8284,12 +8284,23 @@
 	10. compositus
 	11. compositron
 	12. composite
+		1. _n._ [whole](dic://whole), [flower](dic://flower)
+		2. _adj._ [complex](dic://complex), [Compositae](dic://Compositae), [family Compositae](dic://family Compositae), [Asteraceae](dic://Asteraceae), [family Asteraceae](dic://family Asteraceae), [aster family](dic://aster family)
+			1. _n._ [simple](dic://simple)
+			2. [mixture](dic://mixture) 普通用词，指不同类种、性质不同的事物的混合。  
+			3. [blend](dic://blend) 侧重混合成分之间的类似和整个混合物的统一性。  
+			4. [combination](dic://combination) 指相混元素的紧密结合，但不一定的是融合。  
+			5. [compound](dic://compound) 特指两种或多种元素构成的化合物。  
+			6. [composite](dic://composite) 通常可与compound换用，但倾向于指人为的或偶然的结合或凑合。
+		3. **thermoplastic**热后可塑性的;**fiberglass**玻璃纤维;**polymeric**聚合的;**alloy**合金;**laminated**薄板的;**resin**树脂;**component**零部件;**extruded**压出的;**polymer**聚合物;**aluminum**铝;**components**零组件;
+		4. the English legal system is a composite of legislation and judicial precedent. /英国法制是立法和司法惯例的合成物。
+		5. The suite is a composite of themes for various parts of the opera. /这组曲是这部歌剧不同部分的主题的合成篇。
 	13. composing
 	14. composertron
 	15. composer
 	16. composed
 	17. compose-message
-2. pause
+9. pause
 	1. turbopause
 	2. tropopause
 	3. thermopause
@@ -8308,10 +8319,10 @@
 	16. anapausis
 	17. aeropause
 	18. adrenopause
-3. pose
+10. pose
 	1. poser
 	2. counterpose
-4. repose
+11. repose
 	1.  [rest](dic://rest), [ease](dic://ease), [relaxation](dic://relaxation)
 	2.  [peace](dic://peace), [peacefulness](dic://peacefulness), [peace of mind](dic://peace of mind), [serenity](dic://serenity), [heartsease](dic://heartsease), [ataraxis](dic://ataraxis)
 	3.  [quiet](dic://quiet), [placidity](dic://placidity), [serenity](dic://serenity), [tranquillity](dic://tranquillity), [tranquility](dic://tranquility)
@@ -8337,7 +8348,7 @@
 	14. reposal
 		1. _[reposal](dic://reposal)_  n. 信赖；信用；安卧；休息
 		2. _[reposal economy](dic://reposal%20economy)_ 信用经济
-5. discombobulate
+12. discombobulate
 	1. _v._ [upset](dic://upset), [discompose](dic://discompose), [untune](dic://untune), [disconcert](dic://disconcert), [discomfit](dic://discomfit), [be](dic://be)
 	2. **frustrate**使不成功, 挫败, 阻止;**confuse**使混乱;**amuse**使发笑;**annoy**骚扰;**overwhelm**覆盖, 淹没;**embarrass**使窘迫;**frighten**使惊吓;**dazzle**耀眼的光;**intimidate**恐吓, 威胁;**excite**刺激…，使…兴奋;**hapless**运气不好的，倒霉的;
 	3. _[discombobulate](dic://discombobulate)_  vt. 使混乱；使泄气；使困惑

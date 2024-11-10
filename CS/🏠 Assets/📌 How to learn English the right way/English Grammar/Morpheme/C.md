@@ -1195,6 +1195,50 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 	8. inculpation
 
 
+### + \*cuneus+
+1. **cun-, cune-** = wedge, 表示“楔形的”。
+	1. cuneate
+		1. a. 楔形的
+	2. cuneiform
+		1. a. 楔形的, 楔形文字的, 楔状骨的  
+		2. n. 楔形文字, 楔状骨
+		3. quoin [kwɒɪn] n.隅石；外角；楔子，vt.用楔子固定。一些建筑物外墙墙面连接处如图一那样见过吧。qu-是拉丁固化下来发/kw/音的，而拉丁里c最初也都发/k/音哦。那好，cuneiform ['kjuːnɪfɔːm] adj.楔形的；楔形文字的；楔状骨的，n.楔形文字；楔状骨，古代两河流域的苏美尔人用楔形书写工具刻写。 ​​​​
+	3. cunette
+	4. cuniform
+2. coin
+	1. n. 硬币, 金钱, 货币  
+	2. vt. 铸币, 创造, 杜撰
+	3. coin（硬币）：铸造硬币的模具  
+	4. 英语单词coin（硬币）的本意并非“硬币”，而是铸造硬币的模具。它来自拉丁语cuneus（楔子），因为古罗马时期用来冲压硬币的模子的形状是楔形的，故此得名。它本意是铸造硬币的工具，由此衍生出“铸造、创造、杜撰”之意，最后才演变为表示硬币本身。  
+	5. coin： [kɒɪn] n.硬币，钱币vt.铸造，杜撰，创造  
+	6. coinage：['kɔɪnɪdʒ]  n. 造币；货币制度；新造的字及其语等
+	7. coin a phrase编造一个新的词语。铸造（coin）硬币时在金属上刻画图案的冲模是楔形的，所以coin与单词cuniform['kju:nə,fɔ:m] adj. 楔形；楔状骨的，有关，还和quoin [kwɔɪn] n.隅石；外角；楔子，有关（q同c，都是k音），因为房角的隅石整体呈楔形。铸造货币，产生新的货币，coin新的词语同理。 ​​​​
+	8. uncoined
+		1. - adj. 未铸成钱币的；非制造的
+	9. recoin
+	10. new-coined
+	11. fresh-coined
+	12. coining
+	13. coiner
+	14. coinage
+		1. n. 硬币，金属货币；货币制度；新造的词，新词语的创造；铸币，造币
+		2. [mintage](dic://mintage), [specie](dic://specie), [metal money](dic://metal money)
+		3. [neologism](dic://neologism), [neology](dic://neology)
+		4. [neologism](dic://neologism), [neology](dic://neology)
+		5. _n._ [currency](dic://currency), [word](dic://word), [invention](dic://invention)
+		6. **coin**硬币;**currency**货币;**bullion**金银;**fiat**命令;**mint**薄荷;**treasury**财政部;**silver**银;**gold**金，黄金;**neologism**新词;**taxation**课税，征税;**pennies**便士;
+		7. the coinage standard was reformed under Elizabeth I. /硬币制在伊丽莎白一世时期被改革。
+		8. It is indicated that the coinage of the new words in EST conforms to certain cognitive regularities, especially to metaphorization. /指出大量科技英语新词的产生都体现出一定的认知规律,特别是隐喻思维;
+		9. As the Roman Empire flourished further south, Scandinavians had small settlements, no central government, and no coinage. /随着罗马帝国进一步向南扩张，斯堪的纳维亚人居住范围小，没有中央政府，也没有货币。
+		10. 
+	16. coin-op
+3. quoin
+	1. n. 外角, 楔子  
+	2. vt. 用楔子固定
+	3. quoin [kwɒɪn] n.隅石；外角；楔子，vt.用楔子固定。一些建筑物外墙墙面连接处如图一那样见过吧。qu-是拉丁固化下来发/kw/音的，而拉丁里c最初也都发/k/音哦。那好，cuneiform ['kjuːnɪfɔːm] adj.楔形的；楔形文字的；楔状骨的，n.楔形文字；楔状骨，古代两河流域的苏美尔人用楔形书写工具刻写。 ​​​​
+	4. 
+
+
 ### + \*cura + = care
 1. **cur-** = care, 表示“关心”。源自拉丁语 cura "care."
 	1. cure (sinecure)

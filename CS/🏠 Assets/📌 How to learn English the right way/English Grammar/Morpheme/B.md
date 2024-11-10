@@ -5150,6 +5150,13 @@
 		15. brashy
 			1. adj. 易碎的，脆弱的
 		16. brashness
+			1. _n._ [tastelessness](dic://tastelessness), [recklessness](dic://recklessness), [foolhardiness](dic://foolhardiness), [rashness](dic://rashness)
+			2. **boldness**大胆;**arrogance**傲慢;**swagger**吓唬;**subtlety**微妙;**eagerness**渴望;**charisma**非凡的领导力;**enthusiasm**热情, 热心;**cocky**自大的;**cynicism**犬儒主义;**audacity**厚颜无耻;**finesse**纤细;
+			3. Even thus isolated, he became known for his brashness. /即便已经隔绝到如此地步，他还是因为自己的鲁莽无礼出了名。
+			4. It's not about ideology; it's about style, aggressiveness, brashness. /这与意识形态无关; 这是关于风格，攻击性，鲁莽性。
+			5. Narrator: Stripping them back to five garish hues and commenting on American culture's contemporary brashness. /旁白：将它们剥回五种花哨的色调，并评论美国文化的当代傲慢。
+			6. Many at the university were shocked by the brashness of the young medical student named /大学里的许多人都对这名年轻医科学生的鲁莽行为感到震惊。
+			7. Natives will cringe and squirm with embarrassment at such **brashness**. /对于这种轻率鲁莽，当地人会因尴尬而战战兢兢。坐立不安。
 		17. brashly
 	4. breach
 		1. etc..
@@ -5194,6 +5201,10 @@
 			1. _n._ [field](dic://field)
 			2. **wildfire**磷火，鬼火;**fire**火;**footpath**小路;**vegetation**植物;**blaze**火焰;**clearing**清扫;**gravel**砂砾;**embankment**路堤;**overgrown**长得很快;
 			3. _[firebreak](dic://firebreak)_  n. 防火线；防火带；防火道；防火障
+			4. a firebreak against the spread of revolution from Russia. /防止革命从俄罗斯蔓延的屏障。
+			5. Well, bury power lines, build firebreaks into communities, do more controlled burns. /将电线地埋，为社区建立火灾停歇区，做更多能控制火灾的事情。
+			6. In the dry season, these indentations become essential watering holes and firebreaks, maintaining and protecting the swamp's other residents. /在旱季，这些坑洼就成了必不可少的饮水点和防火带，维系并保障了沼泽地其他居民的生存。
+			7. All these areas are generally very good firebreaks, so if you plan them to put them on the outskirts of your community and be like the first line of defense against wildfire. /所有这样的地方通常都是火灾暂歇的好地方，所以如果你计划把它们建立在社区周围，并作为火灾防御的第一道防线。
 		32. fast-break
 		33. daybreak
 		34. budbreak

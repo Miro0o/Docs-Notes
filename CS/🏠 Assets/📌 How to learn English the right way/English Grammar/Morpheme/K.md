@@ -21,7 +21,7 @@
 	1. abscise (excise, excide)
 		1. vt. 切除 vi. 脱离；被切除
 		2. _v._ [shed](dic://shed), [cast](dic://cast), [cast off](dic://cast off), [shake off](dic://shake off), [throw](dic://throw), [throw off](dic://throw off), [throw away](dic://throw away)
-		3. abscissa
+		3. abscissa (coordinate)
 			1. n. [数][天] 横坐标；横线
 			2. the value of a coordinate on the horizontal axis
 			3. _n._ [Cartesian coordinate](dic://Cartesian coordinate)
@@ -8132,9 +8132,16 @@
 	9. etc... 
 5. **cylindr-** = 圆柱
 	1. cylinder
-		1. [piston chamber](dic://piston chamber)
-		2. _n._ [container](dic://container), [solid](dic://solid), [round shape](dic://round shape), [chamber](dic://chamber)
-		3. **piston**活塞;**crankshaft**机轴;**pistons**活塞;**valve**阀;**cylindrical**圆柱形的;**gasket**束帆索,垫圈,衬垫;**solenoid**螺线管;**nozzle**喷嘴;**flywheel**飞轮，惯性轮;**engine**引擎，发动机;**canister**小罐;
+		1. n. 圆筒, 圆筒状物, 汽缸, 柱面
+		2. cylind-圆柱 + -er表反复 → 卷成卷。
+		3. [piston chamber](dic://piston chamber)
+		4. _n._ [container](dic://container), [solid](dic://solid), [round shape](dic://round shape), [chamber](dic://chamber)
+		5. **piston**活塞;**crankshaft**机轴;**pistons**活塞;**valve**阀;**cylindrical**圆柱形的;**gasket**束帆索,垫圈,衬垫;**solenoid**螺线管;**nozzle**喷嘴;**flywheel**飞轮，惯性轮;**engine**引擎，发动机;**canister**小罐;
+		6. the medium between the cylinders is a vacuum. /汽缸之间的媒质是真空。
+		7. They are working on all cylinders to get the job finished. /他们正在竭尽全力争取把这工作干完。
+		8. A can is in the shape of a cylinder. /易拉罐是圆柱状物体。
+		9. It's basically a cylinder that has little tiny teeth on the bottom. /它基本上是一个底部有小锯齿的圆柱体。
+		10. 
 	2. cylindric
 		1. _adj._ [rounded](dic://rounded)
 		2. _n._ [angular](dic://angular), [angulate](dic://angulate)
@@ -8615,30 +8622,32 @@
 	13. quadruplicate
 	14. quadrangular
 	15. quadrant
-		1. [right angle](dic://right angle)
-		2. [quarter-circle](dic://quarter-circle)
-		3. _n._ [angular unit](dic://angular unit), [line](dic://line), [area](dic://area), [country](dic://country), [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
-		4. **corner**角落，拐角处;**upper**上面的，上部的;**anterior**前面的;**meridian**子午线的;**hemisphere**半球;**posterior**(在时间;
-		5. _[left lower quadrant](dic://left%20lower%20quadrant)_ 左下腹; 左下象限; 左下腹部;
-		6. 
-	16. quadrate
-	17. quadrennial
-	18. quart
+		1. n. 四分之一圆, 象限, 象限仪
+		2.  quadr-,四分之一，-ant,形容词后缀。引申词义四分之一圆，象限等。
+		3. [right angle](dic://right angle)
+		4. [quarter-circle](dic://quarter-circle)
+		5. _n._ [angular unit](dic://angular unit), [line](dic://line), [area](dic://area), [country](dic://country), [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
+		6. **corner**角落，拐角处;**upper**上面的，上部的;**anterior**前面的;**meridian**子午线的;**hemisphere**半球;**posterior**(在时间;
+		7. _[left lower quadrant](dic://left%20lower%20quadrant)_ 左下腹; 左下象限; 左下腹部;
+		8. 
+	17. quadrate
+	18. quadrennial
+	19. quart
 		1. quartan
-	19. quarter
-	20. quartern
-	21. quartet
-	22. quartette
-	23. quartic
-	24. quartile
-	25. quarto
-	26. quad
-	27. cadre
-	28. carrefour
-	29. quadratic
-	30. quadric
-	31. squad
-	32. etc...
+	20. quarter
+	21. quartern
+	22. quartet
+	23. quartette
+	24. quartic
+	25. quartile
+	26. quarto
+	27. quad
+	28. cadre
+	29. carrefour
+	30. quadratic
+	31. quadric
+	32. squad
+	33. etc...
 2. **quarant-** = forty, 表示“四十”。源自拉丁语 quadraginta "forty."
 	1. quarantine
 3. **tetr-, tetra-** 表示“四”。源自希腊语 tetra- "four."

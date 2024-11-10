@@ -1042,7 +1042,8 @@
 		7. interactant
 	13. interblend
 	14. interborough
-	15. intercalary
+	15. intercalary (intercalary year /leap year)
+		1. This February is **intercalary** **month** /今年的二月是个闰月。
 	16. intercalate
 		1. vt. 放置闰日(月等), 插入
 	17. intercede

@@ -107,7 +107,9 @@
 ## ge
 ### ⭐ ge-,geo- = 表示“地，地球”，希腊神话中大地之母 Gaia 的名字也源于此。
 1. apogean
-2. etc..
+2. geometric
+	1. a. 几何学的, 几何学上的, 几何学图形的
+3. etc..
 
 
 ### + ⭐ \*gene- + = give birth, beget

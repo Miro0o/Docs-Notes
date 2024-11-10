@@ -532,6 +532,52 @@
 10. rope
 
 
+### + \*reid- +
+1. **rid-** 这是一组同源词，原始含义表示 "to ride" 骑行。
+	1. ride
+	2. palfray
+	3. raid
+	4. ready
+	5. road
+		1. tramroad
+		2. slip-road
+		3. roadworthy
+		4. roadwork
+		5. roadway
+		6. roadster
+		7. roadstead
+		8. roadside
+		9. roadman
+		10. roadless
+		11. roadhouse
+		12. roadholding
+		13. roadeteria
+		14. roadbook
+		15. roadblock
+		16. roadbed
+		17. roadability
+		18. road-train
+		19. rialroad
+		20. inroad
+			1. n. 侵入, 得手, 侵害
+			2. in-进入，使 + road，（古）骑马，侵袭 → 恶意入侵，侵扰，后词义褒义化指进展
+			3. road我们都认识，但是inroad却是名词袭击之意，什么情况？原来这里的road其实同单词raid n.&amp;v.袭击；突袭，指的是amilitary expedition on horseback，而inroad那就好理解了，a riding on or in。自古以来骑兵对步兵基本都是压倒性优势，想想蒙古或曾经铁蹄踏遍欧洲大部分领土的匈人的历史就明白了。
+			4. _n._ [trespass](dic://trespass), [encroachment](dic://encroachment), [violation](dic://violation), [intrusion](dic://intrusion), [usurpation](dic://usurpation), [invasion](dic://invasion)
+			5. **foothold**立足处;**foray**突袭;**headway**前进;**concerted**共同筹划的, 合作的;**strides**大步;**attempt**企图，试图;
+			6. make inroad into sb.'s life /干预某人的生活
+			7. to make inroads on one's time /花费某人的时间
+			8. Their products are already making inroads in these new markets. /他们的产品成功进入了这些新的市场。
+			9. The candidate made surprising inroads in the South. /那位候选人在南方出人意料地大为得手。
+			10. Foreign products have made inroads into the American economy. /进口产品侵害了美国经济
+			11. serious inroads had now been made into my pitiful cash reserves. /现在我可怜的存款已所剩无几。
+		21. crossroads
+		22. crossroad
+		23. countryroad
+		24. bytroad
+2. array
+3. curry
+
+
 ### + \*reie- + = to flow, run
 1. **riv-** = flow, 「Latin」rivus, "stream"
 	1. derive
@@ -2146,6 +2192,10 @@
 	8. _[rhomboid prism](dic://rhomboid%20prism)_ 菱形棱镜
 	9. Slopes, as in rhomboids and trapezoids, delighted him; pyramids pleased him for their perfect stability /斜坡，就像菱形和梯形一样，使他高兴；金字塔因其完美的稳定性而使他开心。
 4. rhombus
+	1.  [rhomb](dic://rhomb)
+	2. _n._ [parallelogram](dic://parallelogram)
+	3. **triangular**三角形的;**triangle**三角;**rectangle**长方形, 矩形;**hexagonal**六角形的;**rectangular**矩形的;**polygon**多边形;**geometric**几何学的;**diagonal**对角线的;**geometry**几何学;**diamond**钻石，金刚石;**geometrical**几何的;
+	4. So, is it a pentagon, square, diamond or rhombus? You've got three seconds, go! /它是五角形、正方形、钻石形还是菱形？你有3秒钟，开始！
 
 
 
