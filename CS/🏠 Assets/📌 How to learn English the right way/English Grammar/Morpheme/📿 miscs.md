@@ -962,8 +962,20 @@ blob
 - _n._ [amorphous shape](dic://amorphous shape)
 - _v._ [change surface](dic://change surface)
 - **goo**感伤;**gooey**感伤的;**slime**黏液;**slimy**黏滑的;**squishy**粘糊糊的;**greenish**呈绿色的;**jelly**果冻;**clump**丛;**turd**可鄙的人;**puddle**水坑，泥潭;**lump**块，块状;
+- A blob of ink fell on the desk. /一滴墨水掉到了写字台上。
+- A blob of paint fell on the floor. /一滴油漆掉到了地板上。
+- a big pink blob of a face was at the window. /窗口出现了一张肉团团的粉红色大脸。
+- the town is much more than a brown blob on the map. /这城市在地图上远远不只是一个棕色的斑点。
+- I have to show the little blobs. /我必须证明小斑点。
+- 
 
 blot
+-  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+3. 1. vi. 吸墨水；弄上墨渍或污渍
+2. vt. 涂污，弄脏；用吸墨纸弄干（或除去）
+3. n. 污点，污渍；墨水渍
 - [smudge](dic://smudge), [spot](dic://spot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch), [slur](dic://slur)
 -  [smear](dic://smear), [smirch](dic://smirch), [spot](dic://spot), [stain](dic://stain)
 -  [spot](dic://spot), [fleck](dic://fleck), [blob](dic://blob)
@@ -971,7 +983,16 @@ blot
 - _v._ [absorb](dic://absorb), [suck](dic://suck), [imbibe](dic://imbibe), [soak up](dic://soak up), [sop up](dic://sop up), [suck up](dic://suck up), [draw](dic://draw)
 - **stain**沾污;**staining**着色;**smear**涂抹;**assay**试验;**wipe**擦;
 - _blot out_ 完全清除（思想、记忆等）；遮盖
+	- The dawn of peace is being blotted out. /和平的曙光被遮住了。
+	- The cloud blotted out the sun but not for long. /云彩遮住了太阳，不过时间不长。
+	- A deep gloom blotted out the heavens from our sight. /昏暗的天遮住了我们的视线。
+	- I shall pay my debt and blot out the foul mark that sullies my good name. /我要付清我的债务，洗去辱没了我的美名的污点。
 - _western blot_ 蛋白质印迹
+- There is a blot of ink on the paper. /纸上有一滴墨水渍。
+- a blot on one's character /一个人品行上的污点
+- The spilled ink left a blot on the letter paper. /溅出的墨水在信纸上留下污点。
+- The ugly advertisement is a blot on the beautiful landscape. /这丑陋的广告对美丽的风景来说，是一个缺点。
+- “What do you mean? ” Harry scrawled, blotting the page in his excitement. /“你是什么意思？”哈利潦草地写，激动得把纸都戳破了。
 
 blow
 - overblown 
@@ -1004,6 +1025,28 @@ boast (brandish)
 - One given to loud, empty boasting; a bragger. /吹牛的人说话大声而空洞的人；
 - boastful
 - boaster
+
+bog
+- n. 沼泽; <俚>厕所, 浴室  
+- v. (使) 陷于泥沼; 妨碍; 走开 (~ off)
+- bagel ['beɪg(ə)l] n.百吉饼（先蒸后烤的发面圈）；（体育比赛中）零蛋。印欧词根 *bheug- 表示to bend，并扩展为柔软的和弯曲形状的物体，因为面包圈边缘呈弯曲状。几个同源词比较有意思：bow n.弓；鞠躬，v.鞠躬、buxom adj. （妇女）丰满的；健美的、bight n. 海湾，绳圈；曲线和bog n.沼泽等。
+-  [peat bog](dic://peat bog)
+-  [bog down](dic://bog down)
+- _n._ [wetland](dic://wetland)
+- _v._ [slow](dic://slow), [slow down](dic://slow down), [slow up](dic://slow up), [break](dic://break), [break off](dic://break off), [discontinue](dic://discontinue), [stop](dic://stop)
+- **muck**垃圾;**swamp**沼泽，低地，水洼;**peat**泥煤;**woodland**林地;**muddy**泥泞的;**mud**泥;**marsh**湿地;**ditch**在…上掘沟;**grassland**草原，牧场;**tundra**苔原;**gravel**砂砾;
+- _bog down_ 停顿；陷入困境
+- _peat bog_ 泥炭沼，泥炭沼泽
+- a bog of legal complications. /一大堆棘手的法律纠纷。
+- I told him to bog off. /我让他离开。
+- most are just bog-standard PCs or workstations. /绝大部分只是些普通的个人电脑或工作站。
+- How did the construction work bog down? /建筑工程怎样会停下来的?
+- We worried that the heavy rain across the prairie would soon bog our car. Don't bog me down in this mass of detail. /我们担心平原上的大雨将很快使我们的汽车陷入淤泥。不要让我陷入这些难缠的琐事中
+- If he saw a trucker in difficulty, he would just bog in and give a hand /如果他看到一个货运汽车司机有困难的话，他会非常热情地给予帮助。
+- All you need is a bog standard machine— nothing fancy. /你只需要一台普普通通的机器就行了—不要什么花里胡哨的玩意儿。
+- " These peat bogs are also an incredible store of carbon, aren't they, Milly? " /这些泥炭沼泽同时也储存了大量的碳，对吗，米莉？
+- It's only then you see some of the 29 different bog building moss species. /只有那样，你才能看到形成这片湿地的 29 种苔藓中的一些。
+- According to Dr Steffen, two things bog down the boarding process. /史蒂芬博士提出有两大因素容易阻碍登机过程。
 
 bogus (bonus)
 - bogus（伪造的）：擅长开空头支票的意大利骗子鲍格才  
@@ -1336,6 +1379,15 @@ bounce
 - _on the bounce_ ◎在弹起时;◎劲头(或劲儿)十足;◎在节骨眼上;
 - _bounce the ball_ 拍球
 - _bounce off_ 弹开，反弹；从…弹跳出来；掂量…
+	- So, I like bouncing ideas off them. /因此，我喜欢向他们征求意见。
+	- These kids will be bouncing off the walls. /这些孩子们会无比兴奋。
+	- The basketball hit the rim of the basket and bounced off. /球投到篮筐边缘又弹了回来。
+	- So these rapid clicks that are sent out **bounce** **off** objects, maybe a group of fish swimming over here, a boat coming from over there. /这些声波发出后碰到物体，有可能是这边的鱼群或是那边来的船。
+	- Short sound waves **bounce** **off** even small objects. /短声波即使遇到小物体都会产生回音。
+	- And I'm sure we sort of bounced ideas off each other. /我很肯定 我们有点像是将想法投向彼此。
+	- I want them to be bouncing ideas off each other, coming up with new designs and making headway into new markets. /我希望他们能够彼此交流想法、提出新设计并且打开新市场。
+	- You need a person that you can bounce ideas off of. You need a person that you can see yourself in. /你需要一个人来对你的想法做出回应和点评。你需要一个人来审视你自
+	- He's still working on his company, but he would come home and help me and kind of bounce ideas off of each other and help me structure it. /他仍然在他的公司工作，但他会回家来帮助我，互相交流想法，帮助我构建公司。
 - _bounce up and down_ 上下弹跳
 - bounce a ball on the sidewalk /在人行道上拍球
 - the bounce was now back in Jenny's step /杰米的步伐中又充满了自信。
@@ -9224,6 +9276,14 @@ nuance
 
 ## O
 off
+- off and on
+	- - 断断续续地：指以间歇的方式进行。
+	- It's been raining off and on all day. /一整天雨都在下下停停。
+	- Megan turns the printer off and on /梅根把它关了再开一次。
+	- We dated off and on since first year. /去年开始我们就不断分分合合。
+	- But my efforts at self-study were off and on. /但是恒心不足，时作时辍。
+	- We saw each other off and on, mostly in the city. /我们时不时地约会，通常都在城里。
+	- 
 - write-off
 - worst-off
 - worse-off
@@ -11590,6 +11650,12 @@ sardonic
 
 savanna
 - **grassland**草原，牧场;**rainforest**雨林;**plains**平地，平原;**forest**植树于，使成为森林;**lowland**低地;**vegetation**植物;**forests**森林;**subtropical**亚热带的;**arid**干旱的;**woodland**林地;**habitats**栖息地;
+
+scalene
+- a. 不等边的, 倾轴的, 斜角肌的  
+- n. 不等边三角形, 斜角肌
+- And then when you have all three sides different length, we call this a " scalene" , " scalene"triangle. /然后，当三个边的长度都不同时， 我们称其为“不等角线” 、“不等角线” 三角形。
+- For example, the isosceles or the scalene, or really any much either of these two can also be a " right angle triangle" . /例如，等腰或斜角，或者这两者中的任何一个都可以是“直角三角形”。
 
 scallion
 - **chives**香葱，细香葱;**onion**洋葱;**shallots**冬葱;**cilantro**芫荽叶;**leeks**大葱;**onions**洋葱;**garlic**大蒜;**parsley**荷兰芹，欧芹;**dill**莳萝;**tofu**豆腐;**asparagus**芦笋;

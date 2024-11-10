@@ -393,7 +393,9 @@
 36. Laborite
 37. sodomite
 38. trite
-39. etc..
+39. termite
+	1. n. 白蚁
+40. etc..
 
 
 ### ⭐ -ity 表名词，指具备某种性质。

@@ -1160,38 +1160,75 @@
 			3. [principal](dic://principal) 在英国可指大学校长、院长以及中小学校长，但在美国仅指中小学校长。
 			4. [president](dic://president) 在美国专指大学的校长，在英国指学院院长
 			5. **vice-president**副总裁,副校长;**chairman**主席，会长;**presidency**总统的职位;**vice**缺点;**CEO**首席执行官;**secretary**部长;**executive**行政的;**treasurer**司库,财务主管;**senator**参议员;**chairperson**主席;**chancellor**大臣, 司法官;
+			6. president-elect
+				1. - n. 总统当选人；已当选而尚未就职的总统
+				2. The calls began after the removal of Mr. Morsi, who was the country's first democratically elected president /此前，埃及首位民选总统穆尔西被赶下台。
+				3. Noboa, 35 years old is the youngest president ever elected in Ecuador /现年35岁的诺博亚是厄瓜多尔有史以来当选的最年轻的总统。
 		9. presidency
 			1. _n._ [tenure](dic://tenure), [term of office](dic://term of office), [incumbency](dic://incumbency), [position](dic://position), [post](dic://post), [berth](dic://berth), [office](dic://office)
 			2. **presidential**总统的;**president**总统;**reelection**改选;**inauguration**就职典礼;**candidacy**候选人的地位;**election**选举;**administration**实行, 执行;**impeachment**弹劾;**Clinton**克林顿;**tenure**占有;**Pres**普雷斯;
 			3. _[presidency](dic://presidency)_  n. 总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配
 			4. _[rotating presidency](dic://rotating%20presidency)_  轮值主席
 	9. reside
-		1. residue
-		2. resident
-		3. residence
-		4. multiresidue
-	10. sedate
-		1. 
-		2. sedative, sedation, sedateness, sedately
-		3. sedentary
-	12. sediments
+		1. re-再 + sid-坐 + -e → 再坐[之地] → 居住。
+		2.  来自拉丁语 residere,坐下，休息，留下，居住，定居，来自 re-,向后，往回，sedere,坐下，词源同 sit,sedentary.
+		3. vi. 住, 居留, 属于
+		4. residue
+		5. resident
+		6. residence
+		7. multiresidue
+	11. sedate
+		1. a. 沉着的, 镇静的, 安静的  
+		2. vt. 给...服镇静剂
+		3. sed-坐 + -ate, 表形容词 → 坐着的 → 安静的。动词回构自 sedative.
+		4.  来自拉丁语 sedere,坐，来自 PIE*sed,坐，坐下，词源同 sit,seat.引申比喻义使镇静，使镇定。
+		5.  [calm](dic://calm), [tranquilize](dic://tranquilize), [tranquillize](dic://tranquillize), [tranquillise](dic://tranquillise)
+		6. [staid](dic://staid)
+		7. [grave](dic://grave), [sober](dic://sober), [solemn](dic://solemn)
+		8. _v._ [affect](dic://affect)
+		9. _adj._ [decorous](dic://decorous), [serious](dic://serious)
+		10. _n._ [stimulate](dic://stimulate), [arouse](dic://arouse), [brace](dic://brace), [energize](dic://energize), [energise](dic://energise), [perk up](dic://perk up)
+		11. _n._ [indecorous](dic://indecorous), [indelicate](dic://indelicate), [frivolous](dic://frivolous)
+		12. **subdued**被制服的;**mellow**成熟的;**restrained**克制的,节制的,受到控制的;**calmer**更平静的;**low-key**抑制的,软调的;**frenetic**狂热的;**boisterous**热闹的;**calm**静的，平静的;**laid-back**安详的, 轻松的;**tame**驯服的;**leisurely**从容的, 不慌不忙的;
+		13. Melanie, bonneted and shawled, sedate in newly acquired matronly dignity, hung on his arm and the entire personnel of Tara, black and white, turned out to see Ashley off to the war. /媚兰戴着帽子，围着围巾，挽着他的肩膀，俨然一副新少奶奶端庄文静的模样。塔拉农场所有的人，无论白人黑人，全都来为艾希礼送行。
+		14. Two or three grave sedate-looking persons shook their heads, and left the inn, hinting, that if Gile Gosling wished to continue to thrive, he should turn his thriftless godless nephew adrift again. /有两三个严肃而沉静的人却摇摇头，走出了旅店，暗示吉尔斯·戈斯林，要是他想生意继续兴隆，就该趁早打发这个奢侈无度、不敬上帝的外甥再到外面去漂泊。
+		15. They sedated her, hooked her up to a harness and Lola took flight. /他们给它打了镇定剂，把她绑在挽具上，然后带它飞走了。
+		16. With the seal safely sedated, Romain must remove the ruptured eye. /在海豹安全地被麻醉后，Romain 必须切除破裂的眼睛。
+		17. sedative
+			1. n. [药] 镇静剂；能使安静的东西；止痛药 
+			2. adj. 使镇静的；使安静的
+			3. [sedative drug](dic://sedative drug), [depressant](dic://depressant), [downer](dic://downer)
+			4. [ataractic](dic://ataractic), [ataraxic](dic://ataraxic), [tranquilizing](dic://tranquilizing), [tranquilising](dic://tranquilising)
+			5. _n._ [medicine](dic://medicine), [medication](dic://medication), [medicament](dic://medicament), [medicinal drug](dic://medicinal drug), [drug of abuse](dic://drug of abuse), [street drug](dic://street drug)
+			6. _adj._ [depressant](dic://depressant)
+			7. _n._ [stimulative](dic://stimulative)
+			8. **anesthetic**麻醉剂;**narcotic**麻醉的;**stimulant**兴奋剂;**morphine**吗啡;**anesthesia**感觉缺失,麻木;**antidepressant**抗抑郁剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**medication**药物治疗;**hypnotic**催眠的，催眠术的;**pharmacological**药理学的;
+			9. They have timed the sedative so that it wears off soon after they land. /他们计算了镇静剂的用量，这样着陆后不久，北极熊就会苏醒过来。
+			10. Drinking alcohol may take the edge off at first since it's a natural sedative. /喝酒一开始可能会让人放松，因为它是一种天然镇静剂。
+			11. I am a little nervous, and I find my hookah an invaluable sedative /我有些神经紧张，我觉得我的水烟是无上的镇定剂。
+			12. 
+		19. sedation
+		20. sedateness
+		21. sedately
+		22. sedentary
+	15. sediments
 		1. sedimentum
 		2. sedimentometer
 		3. sedimentation
 		4. sedimentary
-	13. subside
+	16. subside
 		1. subsidize
 		2. subsidise
 		3. antisubsidy
 		4. subsidiary, subsidy
-	14. supersede
+	17. supersede
 		1. supersession
-	15. sedan
-	16. cathedra, cathedral
+	18. sedan
+	19. cathedra, cathedral
 		1. _n._ [throne](dic://throne)
 		2. **ex**不包括，除外;**episcopal**主教的;**bishop**主教;**archbishop**大主教;**cathedral**大教堂;**papal**罗马教皇的;**ecclesiastical**基督教会的;
-	17. chair
-	18. chaise
+	20. chair
+	21. chaise
 		1.  [chaise longue](dic://chaise longue), [daybed](dic://daybed)
 		2.  [shay](dic://shay)
 		3. _n._ [chair](dic://chair), [carriage](dic://carriage), [equipage](dic://equipage), [rig](dic://rig)
@@ -1200,16 +1237,16 @@
 		6. _[post chaise](dic://post%20chaise)_  （旧时）驿递马车（18～19世纪初运载乘客及邮件的四轮车厢式马车）
 		7. _[chaise longue](dic://chaise%20longue)_  n. 躺椅
 		8. [chaise](dic://chaise), [daybed](dic://daybed)
-	19. gangliosidosis
-	20. nest
-	21. saddle
-	22. seance
+	22. gangliosidosis
+	23. nest
+	24. saddle
+	25. seance
 		1. **psychic**精神的;**ghost**鬼，幽灵;**ghosts**鬼;**ghostly**幽灵的;**paranormal**超常的;**spooky**幽灵般的;**haunted**闹鬼的;**occult**神秘的;**astral**星的;**trance**【C】昏睡状态;**tarot**塔罗纸牌;
 		2. [sitting](dic://sitting), [session](dic://session)
-	23. seat
-	24. sedile
-	25. sessile
-	26. siege
+	26. seat
+	27. sedile
+	28. sessile
+	29. siege
 		1. siege [siːdʒ] n.围攻；包围；围城；不断袭击；长期努力，vt.围攻；包围，日耳曼词源，同属日耳曼词源的单词有seat和sit以及settle等，与拉丁词源的sedan [sɪ'dæn] n. 轿车；轿子以及希腊词根hedr-表示座位、立体的面同源。siege本意是seat，军事上的围城是“sitting down before a fortress”。 ​​​​  
 		2. 但是在英国亚瑟王的传奇故事中，Siege Perilous（也叫做The Perilous Seat）中的siege就是其本意“seat”了。巫师梅林为亚瑟王的圆桌骑士们保留了一把椅子，谁能找到传说中的“圣杯”，谁才有资格坐那把椅子。同时理解单词besiege [bɪ'siːdʒ] vt. 围困；包围；烦扰The troops besieged the fort. ​​​​  
 		3. 类似逻辑，leaguer ['liːgə] n.围攻；盟员，vt. 围攻（盟员是另外一个词源），与lay和lie（躺）都是同源的日耳曼语词源单词，那就不光是“坐”下来，而是要“躺”在围攻城市的军营中了。同样比较单词;beleaguer [bɪ'liːgə] vt. 围攻；围，Enemy troopsbeleaguered the city.敌军围困了这座城。 ​​​​
@@ -1243,8 +1280,8 @@
 			1. vt. 围攻, 包围
 			2. besieged
 			3. besiegement
-5. nest
-6. soot
+8. nest
+9. soot
 
 
 ### + \*sek- + = to cut
@@ -1514,27 +1551,25 @@
 		10. The waiter withdrew, and returned in a moment with manager, who bowed with obsequious respect. /服务员退了下去，不一会儿就带着经理回来了，经理恭恭敬敬地鞠了一躬。
 		11. They were obsequious and servile and did not presume to talk to their masters as if they were their equals. /他们阿谀奉承，卑躬屈膝，不敢像对待自己的主人一样与主人交谈。
 	9. sequel
-		1. [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
-		2. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
-		3.  [subsequence](dic://subsequence)
-		4. [continuation](dic://continuation)
-		5. _n._ [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
-		6. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
-		7. _in the sequel_ 结果；后来
-		8. Some important new characters appear in the sequel /在续篇中出现了一些重要的新人物。
-		9. The affair had a strange sequel. /这一事件的结局很奇怪。
-		10. The immediate sequel to the price rises was uprisings across the country /涨价的直接后果就是遍及全国的抗议浪潮。
-		11. Famine has often been the sequel of war /饥饿常是战争的结果。
-		12. It's the sequel to Black Panther. /这就是《黑豹》的续集。
-		13. Flight controllers celebrated the sequel to an orbital flight to the moon in 2008. /飞行器控制人员庆祝这一胜利，这也是继2008年月球轨道飞行的第二次尝试。
-		14. sequacious
+		1.  [subsequence](dic://subsequence)
+		2. [continuation](dic://continuation)
+		3. _n._ [result](dic://result), [resultant](dic://resultant), [final result](dic://final result), [outcome](dic://outcome), [termination](dic://termination), [addendum](dic://addendum), [supplement](dic://supplement)
+		4. **prequel**先行篇,前篇;**trilogy**三部曲;**remake**重做;**spin-off**副产品;**re-release**再发行,重新发行;**spinoff**续集;**storyline**故事情节;**blockbuster**重磅炸弹, 了不起的人或事;**installment**安装;**movie**电影;**novel**新奇的;
+		5. _in the sequel_ 结果；后来
+		6. Some important new characters appear in the sequel /在续篇中出现了一些重要的新人物。
+		7. The affair had a strange sequel. /这一事件的结局很奇怪。
+		8. The immediate sequel to the price rises was uprisings across the country /涨价的直接后果就是遍及全国的抗议浪潮。
+		9. Famine has often been the sequel of war /饥饿常是战争的结果。
+		10. It's the sequel to Black Panther. /这就是《黑豹》的续集。
+		11. Flight controllers celebrated the sequel to an orbital flight to the moon in 2008. /飞行器控制人员庆祝这一胜利，这也是继2008年月球轨道飞行的第二次尝试。
+		12. sequacious
 			1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious)
 			2. adj. 盲从的；合于逻辑的；缺乏独创性的
 			3. I want something sequacious now and robust. /我现在想要前后一贯和健全的东西。
 			4. The psychological cause refers to the **sequacious** and the fluke mind. /心理原因指盲从与侥幸心理使然。
-		15. sequacity
+		13. sequacity
 			1. n. 盲从
-		16. sequela, sequelae
+		14. sequela, sequelae
 			1. sequ-跟随 + -el指小 + a。
 			2. n. 后遗症；并发症
 			3. _n._ [abnormality](dic://abnormality), [abnormalcy](dic://abnormalcy), [abnormal condition](dic://abnormal condition)
@@ -1571,7 +1606,7 @@
 		1. (render, garner, engender, yield, induce, entail, incur, inflict, ensue, confer)
 		2. en-进入，使 + sue-顺序，词源同suit, sequence。
 		3. **occur**发生;**arise**发生;**inevitably**不可避免地;**erupt**爆发;**happen**发生;**inevitable**不可避免的, 必然发生的;**subside**平息;**abound**充满;**unavoidable**不可避免的;**escalate**逐步升高;**entail**必需，使承担;
-	14. pursue
+	13. pursue
 		1. **seek**寻找;**pursuit**追求;**abandon**离弃;**embark**上船或飞机;**continue**仍旧，连续;**forgo**放弃;**undertake**担任, 承揽;**seeking**寻找;**devote**奉献;**desire**欲望;**fulfill**履行;
 		2. pursuivant
 		3. pursuit
@@ -1579,10 +1614,10 @@
 		5. pursuance
 		6. pursuable
 		7. suable
-	15. sue
+	14. sue
 		1. suable
 		2. suability
-	16. suit
+	15. suit
 		1.  [lawsuit](dic://lawsuit), [case](dic://case), [cause](dic://cause), [causa](dic://causa)
 		2.  [suit of clothes](dic://suit of clothes)
 		3.  [courtship](dic://courtship), [wooing](dic://wooing), [courting](dic://courting)
@@ -1625,8 +1660,8 @@
 		29. jumpsuit
 		30. ill-suited
 		31. countersuite
-	17. extrinsic, extrinsicfactor
-	18. intrinsic, intrinsical, intrinsically
+	16. extrinsic, extrinsicfactor
+	17. intrinsic, intrinsical, intrinsically
 		1. intrin-,内在的，来自 internal, -sic, 沿着的，词源同 sequel, sequence. 引申词义固有的，内在的。
 		2. [built-in](dic://built-in), [constitutional](dic://constitutional), [inbuilt](dic://inbuilt), [inherent](dic://inherent), [integral](dic://integral), [inner](dic://inner), [internal](dic://internal)
 		3. _n._ [extrinsic](dic://extrinsic), [external](dic://external)
@@ -5799,17 +5834,22 @@
 	3. neutropenia
 	4. ...
 2. **pend-, pens-** = hang
-	1. append, 
-		1. appendix, 
-		2. appending
-		3. appendices
-		4. appendent, appendant, appendage
-	2. depend
-		1. dependent
-		2. dependence
-		3. dependent
-		4. dependable
-	3. impend
+	1. append
+		1. vt. 附加, 增补, 盖章
+		2.  ap-,向，往，-pend,悬挂，词源同 pendulum,钟摆。
+		3. appendix, 
+		4. appending
+		5. appendices
+		6. appendent, appendant, appendage
+	3. depend
+		1. vi. 靠, 视...而定, 信赖
+		2. de-加强 + pend-挂 → 挂在…上面 → 依靠。
+		3. de-,向下，离开，-pend,悬挂，词源同 pendulum,append.即悬挂点，引申词义依靠。
+		4. dependent
+		5. dependence
+		6. dependent
+		7. dependable
+	5. impend
 		1. (impend, imminent, impendent,  looming, )
 		2. (hang-up, on hold, at abeyance, suspend)
 		3. - v. 迫近；（坏事）隐现；悬而未决
@@ -5825,11 +5865,16 @@
 		13. The group says the killings of white farmers signals impending danger and calls the killings genocide /该组织表示，对白人农民的杀戮预示着迫在眉睫的危险，并称之为种族灭绝。
 		14. Looks like someone is worried about impending daddyhood. /看来某人很担心要做爸爸了。
 		15. impending, impendent
-	5. dispense （见下）
-	6. pend 
-		1. antependium
+	6. dispense （见下）
+	7. pend
+		1. vi. 悬而未决, 待定
+		2. matters were held in abeyance pending further enquiries. /问题被搁置，有待进一步调查。
+		3. This matter must wait pending her return from London. /1. 这件事必须等到她从伦敦回来后再处理。
+		4. with a general election pending, it would be wrong to force the changes through now. /随着大选的临近，现在强行改变是错误的。
+		5. antependium
 			1. n. 桌布；帷幔；（基督教教堂圣坛等前的）装饰
-		2. pendant (pedant, pendant)
+			2. Cloth: mainly including discarded clothes, **antependium**, towel, sacks, shoes, etc /布料：主要包罗废弃衣服、桌布、毛巾、布包、鞋等。
+		6. pendant (pedant, pendant)
 			1. [pendent](dic://pendent)
 			2. [chandelier](dic://chandelier), [pendent](dic://pendent)
 			3. [pendent](dic://pendent), [dependent](dic://dependent), [hanging](dic://hanging), [hanging down](dic://hanging down)
@@ -5838,26 +5883,48 @@
 			6. **necklace**项链;**earring**耳环，耳饰;**earrings**耳环;**brooch**胸针，领针;**bracelet**手镯;**chandelier**枝形吊灯;**lamp**灯;**medallion**大奖章;**beaded**珠状的;**ornament**装饰;**gemstone**宝石;
 			7. _pendant lamp_ n. 吊灯
 			8. _pendant light_ 吊灯
-		3. pendency, pendular, pending
-		4. pendulous
-		5. pendulum (pendulum, pudendum, pend)
+			9. pendant flowers on frail stems. /垂挂在纤弱茎干上的花朵。
+			10. The pendant was hanging by a thin gold chain. /那耳环是由一根细金链子吊着的。
+			11. My necklace has a heart pendant, but I don’t wear it everyday. /我的项链有一个心形的垂饰，但我并非每天都戴他。
+		7. pendency
+			1. pendular
+			2. pending
+		8. pendulous
+		9. pendulum (pendulum, pudendum, pend)
 			1. _n._ [apparatus](dic://apparatus), [setup](dic://setup)
 			2. **swing**摇摆;**swinging**活跃的;**swung**摇摆;**oscillation**振动;**inertia**惯性;**lever**杠杆;**tilt**倾斜;**clocks**钟表;**inertial**惯性的;
 			3. _inverted pendulum_ 倒立摆；倒摆
 			4. _simple pendulum_ 单摆；数学摆
 			5. _pendulum swing_ 测锤摆幅
 			6. _pendulum clock_ 摆钟
-		6. pensile
+		10. pensile
 			1. adj. 悬垂的；（鸟类）筑悬巢的
-		7. penthouse
+		11. penthouse
 			1. **apartment**一套房间, 一户;**mansion**大厦;**high-rise**有多层的;**condo**分户出售公寓大厦;**loft**顶楼;**rooftop**屋顶;**skyscraper**摩天大楼;**condominium**公寓;**townhouse**市政厅,镇公所;**balcony**阳台;**beachfront**海滨地区;
 			2. _n._ [apartment](dic://apartment), [flat](dic://flat)
-	7. perpendicular, perpendicularity
-	8. suspend
-		1. suspender, suspendable
-	9. suspense
+			3. Kids are holed up in the penthouse. /孩子躲在顶楼房间。
+			4. The penthouse cameras were conveniently malfunctioning. /顶层公寓的摄像机" 恰巧" 坏了。
+	8. perpendicular, perpendicularity
+	9. suspend
+		1. _v._ [hang](dic://hang), [hang up](dic://hang up), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [expel](dic://expel), [throw out](dic://throw out)
+			1. [delay](dic://delay) 普通用词，多指因外界原因推迟或耽误，也可指有意推迟。  
+			2. [postpone](dic://postpone) 正式用词，语气较强，多指有安排的延期，常指明延期到一定的时间。   
+			3. [defer](dic://defer) 正式用词，语气强于postpone，多指故意拖延。  
+			4. [suspend](dic://suspend) 指暂时中断以待某种条件的实现。  
+			5. [prolong](dic://prolong) 指把时间延长至超过正常或通常的限度。  
+			6. [put off](dic://put off) 口语用词，与postpone同义，但较通俗。
+		2. **revoke**废除;**reinstate**使恢复原职;**terminate**结束;**discontinue**终止,中断,中止;**withdraw**撤消;**postpone**使…延期;**cancel**取消;**suspension**暂停;**reconsider**重新考虑;**cease**停止;**withhold**保留，不给;
+		3. _suspend production_ 停产
+		4. _suspend payment_ v. 宣告破产
+		5. suspend oneself in the water. /浮在水里
+		6. suspend diplomatic relations /中止外交关糸
+		7. suspend a lamp from the ceiling /把灯从天花板挂下
+		8. A lamp was suspended from the ceiling. /天花板上吊着一盏灯。
+		9. suspender
+		10. suspendable
+	19. suspense
 		1. suspensor, suspensive, suspension
-	10. penchant (penchant, dote, indulge, fondness, cosher, spoil, tendentious, ) (trenchant)
+	20. penchant (penchant, dote, indulge, fondness, cosher, spoil, tendentious, ) (trenchant)
 		1. (predilection, propensity, penchant, proclivity, )
 		2. - n. 嗜好；倾向
 		3.  [preference](dic://preference), [predilection](dic://predilection), [taste](dic://taste)
@@ -5868,13 +5935,16 @@
 		8. And what underlies these two things is an intrinsic penchant for what one studies. /然而决定上述两项的关键就是学生的兴趣爱好。
 		9. We can trace the American penchant for self-improvement at least partly to our unique history. /我们可以把美国人对自我改善的喜好至少部分归因于我们独特的历史。
 		10. 
-3. **pend-, pens-, pond-** = weight, expend, ponder over
-	1. compensate, compensable
-		2. overcompensate, 
-		3. decompensate
-		4. compensatory, compensative, compensation
-		5. recompense
-	2. spend
+12. **pend-, pens-, pond-** = weight, expend, ponder over
+	1. compensate
+		1. v. 偿还, 补偿, 付报酬
+		2. com-全部 + pens-花费 + -ate, 表动词 → 花费的钱全部[拿回来] → 赔偿。
+		3. compensable
+		4. overcompensate, 
+		5. decompensate
+		6. compensatory, compensative, compensation
+		7. recompense
+	3. spend
 		1. spendthrift
 			1. **frugal**节俭的;**reckless**鲁莽的，不顾后果的;**irresponsible**不负责任的;**greedy**贪婪的;**extravagant**奢侈的, 铺张的;**wealthy**富有的;**wasteful**浪费的，不经济的;**selfish**自私的;**foolish**愚蠢的;**spoiled**被宠坏的;**self-centered**自我为中心的,利己主义的;
 			2. _n._ [prodigal](dic://prodigal), [profligate](dic://profligate), [squanderer](dic://squanderer)
@@ -5891,7 +5961,7 @@
 			9. Are you a saver or a spender, Sam? /萨姆，你是存钱的人还是花钱的人？
 			10. South Koreans are normally among the top ten spenders on international travel, according to the World Bank. /根据世界银行的数据，韩国人通常名列国际旅游消费的前十名。
 		4. overspend, outspend, misspend
-	3. stipend, stipendiary
+	4. stipend, stipendiary
 		1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
 		2. _n._ [regular payment](dic://regular payment)
 		3. **allowance**零用钱;**subsidy**津贴;**tuition**学费;**salary**薪水;**scholarship**奖学金;**reimbursement**偿还;**paycheck**付薪水的支票，薪水;**grant**授予，允许;**expenses**开支;**paid**付清的;**remuneration**酬报,酬劳;
@@ -5906,11 +5976,12 @@
 		1. expenditure, overexpenditure
 		2. expendable
 		3. expense, expensive, 
-	7. pension
-		1. pensionless, pensioner, pensionary
-		2. outpensioner
-		3. pensionable
-	9. compendious 
+	6. pension
+		1.  (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
+		2. pensionless, pensioner, pensionary
+		3. outpensioner
+		4. pensionable
+	8. compendious 
 		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
 		3. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
 		4. _adj._ [concise](dic://concise)
@@ -5919,7 +5990,7 @@
 			1. **tome**册;**treatise**论文;**compilation**编辑,编写;**handbook**手册;**comprehensive**广泛的, 综合的;**guidebook**旅行指南;**glossary**术语表;**encyclopaedia**<英>百科全书;**foreword**前言;**collection**收集;**anthology**选集;
 			2. _compendium of materia medica_ 本草纲目
 			3. _n._ [publication](dic://publication), [summary](dic://summary), [sum-up](dic://sum-up)
-	11. dispense
+	9. dispense
 		1. [distribute](dic://distribute), [administer](dic://administer), [mete out](dic://mete out), [deal](dic://deal), [parcel out](dic://parcel out), [lot](dic://lot), [shell out](dic://shell out), [deal out](dic://deal out), [dish out](dic://dish out), [allot](dic://allot), [dole out](dic://dole out)
 		2. _v._ [give](dic://give), [exempt](dic://exempt), [relieve](dic://relieve), [free](dic://free), [treat](dic://treat), [care for](dic://care for)
 		3. **prescribe**开药方;**administer**管理, 支配;**spout**喷口;**refill**被再注满;**inject**注射;**syringe**注射器;**dispose**处理;**distribute**分配, 分给;**operate**运转;**displace**取代;**procure**获得，取得;
@@ -5942,9 +6013,15 @@
 				3. [necessary](dic://necessary) 最常用词，侧重由客观因素决定的某种需要，强调不可避免，但并非绝不可缺少。
 				4. [requisite](dic://requisite) 正式用词，特指为实现某一目的或得到某种结果而应有的需要，有时可与necessary换用。
 			3. [critical](dic://critical), [vital](dic://vital), [necessary](dic://necessary), [obligatory](dic://obligatory)
-	13. prepense
+			4. These are indispensable accessories. /这些是不可缺少的附件。
+			5. he made himself indispensable to the parish priest. /他成了对教区教士来说不可或缺的人物。
+			6. the routine but indispensable ceremonies of state. /国家例行而不可避免的仪式
+			7. an uncelebrated but indispensable role /不可缺少的小角色。
+			8. He is indispensable to our work, we cannot do it without him. /对于我们的工作来说, 他是不可缺少的, 没有他, 我们就做不了。
+			9. Yet the sword was their one, indispensable weapon against the Horcruxes. /尽管那剑仍然是他们的对抗魂器不可或缺的武器。
+	10. prepense
 		4. adj. 预谋的；预先考虑过的；有计划的
-	14. perpend
+	11. perpend
 		1. vt. 深思；慎重考虑
 		2. vi. 考虑；仔细考虑
 		3. n. 贯石；穿墙石
@@ -5952,7 +6029,7 @@
 		5. [wistful](dic://wistful)
 		6. _adj._ [thoughtful](dic://thoughtful), [sad](dic://sad)
 		7. **introspective**好反省的;**contemplative**沉思的;**somber**昏暗的;**melancholy**忧郁, 悲哀;**brooding**沉思的;**moody**喜怒无常的;**meditative**沉思的;**dreamy**梦想的;**serene**平静的;**solemn**庄严的，严肃的;**wry**面部肌肉扭曲的;
-	15. pensive
+	12. pensive
 		1. [brooding](dic://brooding), [broody](dic://broody), [contemplative](dic://contemplative), [meditative](dic://meditative), [musing](dic://musing), [pondering](dic://pondering), [reflective](dic://reflective), [ruminative](dic://ruminative)
 		2. [wistful](dic://wistful)
 		3. _adj._ [thoughtful](dic://thoughtful), [sad](dic://sad)
@@ -5962,12 +6039,14 @@
 		7.  I don't know, " said Hermione, looking pensive. /“不知道，”赫敏说，显得忧心忡忡。
 		8. " We shall see, " replied Aouda, becoming suddenly pensive. /" 好吧，" 艾娥达夫人说，她显然是在沉思着。
 		9. Why you are still singing a **pensive** lay there for youth? /为什么你还在那里吟唱青春的哀歌？
-	16. vilipend
-		1. vilipend ['vɪlə,pend] vt. 诋毁；轻视。词根vil表cheap，本意是出售，-pend部分表示称量、估价，与pound英镑、ponderous沉闷的；笨重的（很量）和expensive昂贵的（需要花费很多两银子）等单词有关。因此vilipend的字面意思就是“to hold in lightvalue ”，比较vilify v.诽谤；轻视，-fy表使动。
-		2.  (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, villipend, deprecate, depreciate, belittle)
-		3. _synonymous：_ [deprecate](dic://deprecate), [depreciate](dic://depreciate)
-		4. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
-	18. ponder
+	13. vilipend
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+		4. vilipend ['vɪlə,pend] vt. 诋毁；轻视。词根vil表cheap，本意是出售，-pend部分表示称量、估价，与pound英镑、ponderous沉闷的；笨重的（很量）和expensive昂贵的（需要花费很多两银子）等单词有关。因此vilipend的字面意思就是“to hold in lightvalue ”，比较vilify v.诽谤；轻视，-fy表使动。
+		6. _synonymous：_ [deprecate](dic://deprecate), [depreciate](dic://depreciate)
+		7. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
+	14. ponder
 		1. [chew over](dic://chew over), [think over](dic://think over), [meditate](dic://meditate), [excogitate](dic://excogitate), [contemplate](dic://contemplate), [muse](dic://muse), [reflect](dic://reflect), [mull](dic://mull), [mull over](dic://mull over), [ruminate](dic://ruminate), [speculate](dic://speculate)
 		2. _v._ [think](dic://think), [cogitate](dic://cogitate), [cerebrate](dic://cerebrate)
 		3. ponderance, 
@@ -5986,7 +6065,7 @@
 			2. _[philosophical ponderation](dic://philosophical%20ponderation)_ 哲学思考
 			3. _[legislative ponderation](dic://legislative%20ponderation)_ 立法思考
 			4. _[philosophic ponderation](dic://philosophic%20ponderation)_ 哲学思索
-	19. preponderate
+	15. preponderate
 			1. vi. 占优势, 主宰
 			2. - v. （在重量、影响、重要性等方面）占优势，胜过
 			3. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail)
@@ -5999,7 +6078,7 @@
 		2. preponderance
 			1. _n._ [power](dic://power), [powerfulness](dic://powerfulness), [number](dic://number), [figure](dic://figure), [heaviness](dic://heaviness), [weightiness](dic://weightiness)
 			2. **evidence**证据，证明;**presumption**推测;**circumstantial**详细的;**substantial**大量的;**majority**多数;**dearth**缺乏;**anecdotal**轶事的,趣闻的;**disproportionate**不成比例的;**overwhelmingly**压倒地;**overwhelming**势不可挡的, 压倒一切的;**conclusive**令人信服的,确凿的;
-	20. propensity
+	16. propensity
 		1. (predilection, propensity, penchant, proclivity, )
 		2. _n._ [inclination](dic://inclination), [disposition](dic://disposition), [tendency](dic://tendency)
 		3. **tendency**倾向，趋势;**penchant**嗜好;**inclination**倾向;**willingness**自愿;**prone**有…倾向的，易于…的;**aversion**厌恶;**ability**能力，能耐;**unwillingness**不情愿;**eagerness**渴望;**habitually**习惯地;**affinity**吸引力
@@ -6007,11 +6086,11 @@
 		5. _marginal propensity_ 边际倾向
 		6. _marginal propensity to consume_ [经]边际消费倾向
 		7. 
-	21. equiponderate
+	17. equiponderate
 		1. vt. 使…相称；使…重量相等; vi. 重量相等; adj. 等重的;
 		2. equiponderant, equiponderancy
 		3. equiponderance
-	22. pansy
+	18. pansy
 		1.  [Viola tricolor hortensis](dic://Viola tricolor hortensis)
 		2. [sissy](dic://sissy), [pantywaist](dic://pantywaist), [milksop](dic://milksop), [Milquetoast](dic://Milquetoast)
 		3. [fagot](dic://fagot), [faggot](dic://faggot), [fag](dic://fag), [fairy](dic://fairy), [nance](dic://nance), [queen](dic://queen), [queer](dic://queer), [poof](dic://poof), [poove](dic://poove), [pouf](dic://pouf)
@@ -6019,7 +6098,7 @@
 		5. **coward**懦夫，懦弱的人;**flower**花;**moron**痴愚者;**sissy**胆小鬼;**bitch**母狗，母狼;**daisy**雏菊;**cowardly**怯懦的，懦弱的;**hater**怀恨者;**tulips**郁金香;**idiot**白痴;**lilac**淡紫色;
 		6. You were fighting there like pansies. /你们刚才打的和女人打架似的。
 		7.  In some places the pansy is better known under the name of " heart's-ease. " /在有些地方, 人们更习惯于把三色堇称为“心安草”。
-	23. poise
+	19. poise
 		1. [aplomb](dic://aplomb), [assuredness](dic://assuredness), [cool](dic://cool), [sang-froid](dic://sang-froid)
 		2. [brace](dic://brace)
 		3. [balance](dic://balance)
@@ -6047,11 +6126,11 @@
 			1. _n._ [embarrassment](dic://embarrassment), [anxiety](dic://anxiety), [disposition](dic://disposition), [temperament](dic://temperament)
 			2. _n._ [composure](dic://composure), [calm](dic://calm), [calmness](dic://calmness), [equanimity](dic://equanimity)
 			3. **nervousness**神经质,焦躁,胆小;**apprehension**理解;**composure**镇静, 沉着;**countenance**面容，表情;**astonishment**惊讶, 惊奇;**indignation**愤怒, 愤慨, 气愤;**anguish**苦闷;**melancholy**忧郁, 悲哀;**trembling**发抖;**embarrassment**困窘;**discomfort**不舒适;
-4. space
-5. spade
+13. space
+14. spade
 	1. spdaer
 	2. n. 铲具；用铲的人
-6. span
+15. span
 	1.  [couple](dic://couple), [pair](dic://pair), [twosome](dic://twosome), [twain](dic://twain), [brace](dic://brace), [yoke](dic://yoke), [couplet](dic://couplet), [distich](dic://distich), [duo](dic://duo), [duet](dic://duet), [dyad](dic://dyad), [duad](dic://duad)
 	2. [bridge](dic://bridge)
 	3. [straddle](dic://straddle)
@@ -6065,7 +6144,7 @@
 	11. _span length_ 跨度距离；杆间距离
 	12. _attention span_ 注意广度；注意力的持续时间
 	13. _long span bridge_ 长跨桥；大跨径桥
-7. space
+16. space
 	1. spatial
 		1. _adj._ [space](dic://space), [infinite](dic://infinite)
 		2. **temporal**现世的;**perceptual**知觉的,有知觉的;**geometrical**几何的;**geographic**地理学的;**topographic**地质的;**geographical**地理的;**visual**视觉的，视力的;**coherence**条理性,连贯性,一致性;**multidimensional**多维的;**three-dimensional**三维的;**mapping**绘图;
@@ -6079,7 +6158,7 @@
 	9. _spatial frequency_ 空间频率
 	10. _spatial relationship_ 空间关系
 	11. _spatial organization_ 空间组织；空间结构
-8. spin
+17. spin
 
 
 ### + \*spend- + = to make an offering, perform a rite
@@ -6604,15 +6683,29 @@
 	2. pentstemon
 2. **histo-** = tissue
 	1. histogram
-	2. histologic, histologist, histology
-		1. histophysiology
-		2. histamine
+		1. _n._ [bar chart](dic://bar chart), [bar graph](dic://bar graph)
+		2. **graph**图表;**dataset**资料组;**pixel**像素;**waveform**波形;**calibration**调准;**normalized**正火的;**interpolation**窜改;**spectra**光谱;**clustering**聚类;**pixels**像素;**gradient**梯度;
+		3. _histogram equalization_ 直方图均衡化
+		4. _frequency histogram_ 频率直方图；柱形统计图
+		5. _histogram specification_ [计]直方图规定化
+		6. I need to figure out how to use a histogram of oriented gradients to detect a face /我需要弄清楚如何使用定向梯度直方图来检测人脸。
+		7. It's essentially like a histogram or a bar chart. /它本质上类似于直方图或条形图。
+		8. The authors propose thinking in terms of histograms, which means that the output image should rely on statistical similarities with the source images. /而这篇文章的作者提出从直方图的角度思考，这意味着输出图像应该基于和原图的统计相似性。
+		9. 
+	2. histologic
+		1. 组织学
+		2. Tumor types are classified using WHO grading based on histologic and functional features. /基于组织学和功能特征，肿瘤类型根据世界卫生组织标准分级。
+		3. But definitive diagnosis needs to be made based on the histologic and molecular characteristics of a tissue biopsy. /但确诊需要基于组织活检的组织学与分子学特征。
+		4. 
+		5. histologist, histology
+		6. histophysiology
+		7. histamine
 			1. etc..
-		3. histiocyte
-		4. histopathological
-	3. histochemistry, histochemical
-	4. histocompatibility
-3. **sist-** = stand, st的重复式 (concise version)
+		8. histiocyte
+		9. histopathological
+	4. histochemistry, histochemical
+	5. histocompatibility
+6. **sist-** = stand, st的重复式 (concise version)
 	1. assist
 		1. unassissted
 		2. motor-assisted
@@ -6696,7 +6789,7 @@
 			2. inexistence
 		4. coexist
 			1. coexistence
-4. **st-, sta-, stan-, stant-, sint-** = stand
+7. **st-, sta-, stan-, stant-, sint-** = stand
 	1. aerostat
 		1. _[aerostat](dic://aerostat)_  n. 航空器；高空气球
 	2. apostate （asymptote）
@@ -7177,13 +7270,13 @@
 		1. _v._ [invalidate](dic://invalidate), [annul](dic://annul), [quash](dic://quash), [void](dic://void), [avoid](dic://avoid), [nullify](dic://nullify), [direct](dic://direct)
 		2. - v. 对……加注表示不删，保留 
 		3. n. 保留，不删
-6. **stauro-** = cross
+8. **stauro-** = cross
 	1. staurolatry
 	2. stauroscope
-7. stamen
+9. stamen
 	1. _n._ [reproductive structure](dic://reproductive structure)
 	2. **petals**花瓣;**petal**花瓣;**flower**花;**ovary**子房;**pollen**传授花粉给;**orchid**兰花;**blooms**水华;**flowering**开花的;**bloom**花;**bud**芽，萌芽;**blooming**盛开的;
-8. stem
+10. stem
 	1. n. 茎, 干, 柄, 船首, 血统, 堵塞物  
 	2. vt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行  
 	3. vi. 堵住, 逆行
@@ -7195,7 +7288,7 @@
 		4. **arose**引发;**spurred**装有马刺的;**led**通向;**precipitated**沉淀的;**compounded**混合的;**partly**在一定程度上;**derived**导出的;**resulting**作为结果的,因而发生的;**attributable**的;**reflected**反射的;**hampered**受阻碍的;
 		5. _[stemmed goblet](dic://stemmed%20goblet)_ 高脚酒杯
 		6. stemware
-10. stow (bestow)
+11. stow (bestow)
 	1. 1. _vt._ 装, 装载
 	2. 无票偷乘(交通工具，尤指船或飞机)
 	3. 将某物收好(或保存好)
@@ -7374,6 +7467,24 @@
 4. stake
 
 
+### + \*stegh +
+1. **sting-** = to stick, 表示“刺”。源自古英语 stingan "to sting."
+	1. sting, stinger
+	2. stingless
+	3. stingo
+	4. stingy
+		1. sting【刺】 + -y, 表形容词 → 像刺一样[小的心胸] → 小气的。
+		2. [ungenerous](dic://ungenerous)
+		3.  [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [scrimpy](dic://scrimpy)
+		4. _adj._ [beggarly](dic://beggarly), [mean](dic://mean), [cheap](dic://cheap), [chinchy](dic://chinchy), [chintzy](dic://chintzy), [cheeseparing](dic://cheeseparing), [close](dic://close)
+		5. _n._ [generous](dic://generous)
+		6. **greedy**贪婪的;**generous**慷慨的，大方的;**frugal**节俭的;**picky**吹毛求疵的;**lousy**多虱的;**spoiled**被宠坏的;**arrogant**自大的，傲慢的;**overly**过度地;**paltry**不足取的;**selfish**自私的;**lenient**仁慈的;
+		7. _[trifle stingy](dic://trifle%20stingy)_ 有一点小气
+		8. _[stingy employer](dic://stingy%20employer)_ 吝啬的雇主
+2. stag
+3. stochastic
+
+
 ### + \*steig- + = to stick, pointed
 1. **stigm-** = mark, 表示“标志，斑点”。
 	1. anastigmat
@@ -7422,22 +7533,43 @@
 4. **styl-** = column, 表示“柱”。
 
 
-### + \*stegh +
-1. **sting-** = to stick, 表示“刺”。源自古英语 stingan "to sting."
-	1. sting, stinger
-	2. stingless
-	3. stingo
-	4. stingy
-		1. sting【刺】 + -y, 表形容词 → 像刺一样[小的心胸] → 小气的。
-		2. [ungenerous](dic://ungenerous)
-		3.  [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [scrimpy](dic://scrimpy)
-		4. _adj._ [beggarly](dic://beggarly), [mean](dic://mean), [cheap](dic://cheap), [chinchy](dic://chinchy), [chintzy](dic://chintzy), [cheeseparing](dic://cheeseparing), [close](dic://close)
-		5. _n._ [generous](dic://generous)
-		6. **greedy**贪婪的;**generous**慷慨的，大方的;**frugal**节俭的;**picky**吹毛求疵的;**lousy**多虱的;**spoiled**被宠坏的;**arrogant**自大的，傲慢的;**overly**过度地;**paltry**不足取的;**selfish**自私的;**lenient**仁慈的;
-		7. _[trifle stingy](dic://trifle%20stingy)_ 有一点小气
-		8. _[stingy employer](dic://stingy%20employer)_ 吝啬的雇主
-2. stag
-3. stochastic
+### + \*stel- +
+1. **-stalsis** = perstalsis, 表示“蠕动”。
+2. **stal-** = constriction, 表示“收缩”。
+3. **stall-** = place, 表示“放”。
+	1. stallion
+	2. stallkeeper
+	3. stalls
+	4. bookstall
+	5. fingerstall
+	6. forestall
+	7. headstall
+	8. laystall
+	9. stall
+	10. diastole
+	11. install
+		1. install（安装）：神职人员在圣座就坐以示就职  
+		2. 在基督教堂的唱诗班或高坛位置常常有一个半封闭区域，里面摆放有一张座位，只有高级神职人员才有资格进入该区域就坐，这个区域就被称为stall（圣座）。当教会任命神职人员时，新任命者将进入stall就坐以示就职，这个过程就是install，字面意思就是“进入stall”，引申为将某人安排到某个职位上。后来，install的宗教色彩消失，可以用来表示各种任命。现在，install不仅可以表示将某人安排到某职位上，还可以表示将某物安排到某位置上，即“安装”的意思。  
+		3. install：[ɪn'stɔl]  vt. 安装；任命；安顿  
+		4. installation：['ɪnstə'leʃən]  n. 安装，装置；就职  
+		5. stall：[stɔl]  n. 货摊；畜栏；（教堂）圣座
+		6. 
+		7. installment
+		8. intaller
+		9. installation
+			1. n. 安装, 装置, 就职
+			2. _n._ [payment](dic://payment), [broadcast](dic://broadcast), [program](dic://program), [programme](dic://programme), [text](dic://text), [textual matter](dic://textual matter), [beginning](dic://beginning)
+			3. **instalment**分期付款;**series**系列，连续;**two-part**三分之二;**sequel**续集;**trilogy**三部曲;**prequel**先行篇,前篇;**episode**插曲;**continuation**继续,连续,持续;**recap**翻新的轮胎;**saga**冒险故事;**iteration**反复;
+			4. _installment plan_ n. 分期付款方式；分期付款购物法
+			5. _installment payment_ 分期付款；分期付款帐户
+			6. _payment by installment_ 分期付款
+			7. _monthly installment_ 按月付款
+			8. I shall soon pay the last installment of my debt. /不久我将偿付我的最后一期债款。
+			9. Did you hear the final installment last week? /上星期你有没有听最后一集?
+			10. Look for the next installment in this series, coming soon. /即将推出的本系列的更多部分。
+		10. installant
+		11. installibility
+	17. systole
 
 
 ### ⭐ + \*ster- +

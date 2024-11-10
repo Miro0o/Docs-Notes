@@ -6032,6 +6032,26 @@
 10. testimony
 
 
+### + \*morwi- +
+1. **form-** 表示“甲，一”。最初 formic【甲酸】是从蚂蚁 (formica) 中提取的。源自拉丁语 formica "ant."
+	1. formaldehyde
+		1. form-甲 + aldehyde【n. 醛, 乙醛】
+		2. n. 甲醛
+		3. _n._ [aldehyde](dic://aldehyde), [gas](dic://gas)
+		4. **ammonia**氨，阿摩尼亚;**benzene**苯;**acetone**丙酮;**urea**尿素;**chemicals**化学药品;**methanol**甲醇;**asbestos**石棉;**non-toxic**无毒;**toxic**有毒的;**fumes**烟气;**methyl**甲基;
+		5. _urea formaldehyde_ 脲醛；尿素甲醛 
+		6. Formaldehyde is widely used in vinylite, plastic, rubber, paper making, pharmacy, and antisepsis and so on /甲醛用途十分广泛，涉及合成树脂、塑料、橡胶、造纸、制药和防腐等领域。
+	2. formalin
+		1. _n._ [solution](dic://solution)
+		2. **formaldehyde**甲醛;**acetone**丙酮;**methanol**甲醇;**sucrose**蔗糖;
+	3. formate
+	4. formic
+2. **mymec-** = ant, 表示“蚂蚁”。源自希腊语 murmex "ant."
+	1. myrmidon
+	2. myrmecology
+	3. 
+3. pismire
+
 
 ## mu
 ### mund- 表示“世界”。

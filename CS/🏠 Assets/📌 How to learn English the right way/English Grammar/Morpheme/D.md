@@ -36,7 +36,12 @@
 	10. pandemic
 		1. pandemicity
 	11. demography
-		1. demographic
+		1. _n._ [sociology](dic://sociology)
+		2. **demographics**人口特征;**demographic**人口统计学的，人口的;**geography**地理;**population**人口;**sociology**社会学;**ecology**生态学;**socio-economic**社会经济;**urbanization**都市化,文雅化;**economics**经济学;**epidemiology**传染病学;**genetics**遗传学;
+		3. Clearly a new force is developing in U.S. demography, but few people seem to appreciate its implications. /显然在美国的人口结构中有一股新的势力正在发展，但似乎很少有人了解到它的含意。
+		4. We can move from questions about demography and ask questions about human health. /我们可以把问题从人口统计学开始转向人类健康问题。
+		5. The demography is striking in a world where many younger leaders already have stepped up. /这一年龄结构着实令人震惊，尤其是在这个有许多年轻领导人崭露头角的时代。
+		6. demographic
 			1. _n._ [statistic](dic://statistic)
 			2. _adj._ [demography](dic://demography), [human ecology](dic://human ecology)
 			3. **socioeconomic**社会经济的;**socio-economic**社会经济;**geographic**地理学的;**population**人口;**geographical**地理的;**sociological**社会学的;**trends**动态，趋势;**generational**世代的;**ethnic**种族的;**viewership**电视观众;**societal**社会的;
