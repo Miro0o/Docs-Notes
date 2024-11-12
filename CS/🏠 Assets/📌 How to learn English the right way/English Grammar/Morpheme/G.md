@@ -253,6 +253,13 @@
 		19. gentility
 		20. gentle
 		21. gentry
+			1.  [aristocracy](dic://aristocracy)
+			2. _n._ [upper class](dic://upper class), [upper crust](dic://upper crust)
+			3. **aristocracy**贵族;**nobility**贵族;**aristocratic**贵族的;**peasants**农民,民工;**bourgeoisie**资产阶级;**nobleman**贵族;**estates**不动产;**feudal**封建制度的;**bourgeois**资产阶级的;**peasant**农民;**working-class**工人阶级的;
+			4. Landed income was the true measure of the gentry. /来自土地的收入是衡量是否士绅阶层的真正标准。
+			5. radar devices beyond the comprehension of all but the bespectacled gentry who invented them /除了那些戴眼镜的发明者谁也弄不懂的雷达装置。
+			6. The methods they employed were heavily biased in the gentry’s favour. /他们采用的方法严重偏袒中上阶级。
+			7. The so-called golden-collar gentry are essentially nothing but brain-workers with high income. /所谓的“金领贵族”实质上不过是高收入的脑力劳动者而已。
 	8. autogenous, cytogenous
 		1. abiogenetic, biogenic, autogenic, autogeny
 			1. abiogenist, abiogenous
@@ -260,22 +267,23 @@
 		3. cytogenetics
 		4. monogenetic
 		5. ontogeny, ontogenetic
-			1. _n._ [organic process](dic://organic process), [biological process](dic://biological process)
-			2. **larval**幼虫状态的;**morphology**形态学;**maturation**化脓;**vertebrate**脊椎动物;**embryonic**胚芽的;**physiology**生理学;**plasticity**粘性;**differentiation**区别;**taxon**分类单元;**evolutionary**进化的;**morphological**形态学的;
-			3. _[strong ontogeny](dic://strong%20ontogeny)_ 强劲的增长势头
-			4. _[actual ontogeny rate](dic://actual%20ontogeny%20rate)_ 实际增长率
-			5. _[reproduction and ontogeny](dic://reproduction%20and%20ontogeny)_ 生殖和个体发育
-		6. palingenetic
-		7. parthenogenetic
-		8. pathogenetic
-		9. philogrogenitive
-		10. phylogenetic
-		11. radiogenetics
-		12. thermogenetic
-		13. exnogenetic
-		14. lactogenic
-		15. mammogenic
-		16. monogenic, monogenism
+			1. - n. [生物] 个体发生；[生物] 个体发生学
+			2. _n._ [organic process](dic://organic process), [biological process](dic://biological process)
+			3. **larval**幼虫状态的;**morphology**形态学;**maturation**化脓;**vertebrate**脊椎动物;**embryonic**胚芽的;**physiology**生理学;**plasticity**粘性;**differentiation**区别;**taxon**分类单元;**evolutionary**进化的;**morphological**形态学的;
+			4. _[strong ontogeny](dic://strong%20ontogeny)_ 强劲的增长势头
+			5. _[actual ontogeny rate](dic://actual%20ontogeny%20rate)_ 实际增长率
+			6. _[reproduction and ontogeny](dic://reproduction%20and%20ontogeny)_ 生殖和个体发育
+		7. palingenetic
+		8. parthenogenetic
+		9. pathogenetic
+		10. philogrogenitive
+		11. phylogenetic
+		12. radiogenetics
+		13. thermogenetic
+		14. exnogenetic
+		15. lactogenic
+		16. mammogenic
+		17. monogenic, monogenism
 	9. embryogeny
 		1. _[embryogeny](dic://embryogeny)_  n. 胚胎发生
 	10. regeneracy
@@ -357,7 +365,7 @@
 		7. He invented an ingenious excuse for his absence. /他为缺席编造了一个巧妙的借口。
 		8. Your answer is either ingenious or wrong. She didn't know whether to laugh or cry. /你的回答不是独树一帜就是错了。她不知道是该哭还是该笑
 		9. ingenuity
-	23. ingenuous (indigenous, ingenious, ingenuous, genuine, ingenue)
+	22. ingenuous (indigenous, ingenious, ingenuous, genuine, ingenue)
 		1. 1 - 来自拉丁语 ingenuus,天生的，出生高贵的，来自 in-,进入，使，内在，-gen,生育，出生，词源同 gene,gentle.原指出生高贵的，后引申词义真诚的，天真无邪的，但现在多用于贬义天真的，单纯的。
 		2. **ingenious**灵巧的, 善于创造发明的;**naive**天真的，幼稚的;**artful**狡猾的;**clever**聪明的;**cynical**愤世嫉俗的;**mischievous**淘气的, 顽皮的;**shrewd**精明的;**childlike**天真的;**sly**狡猾的;**cunning**狡猾的;**devious**弯曲的;
 		3. [candid](dic://candid), [open](dic://open), [heart-to-heart](dic://heart-to-heart), [undistorted](dic://undistorted), [naive](dic://naive), [naif](dic://naif)
@@ -366,7 +374,7 @@
 		6. An ingenuous, transparent life was disclosed, as if the flow of her existence could be seen passing within her /她是一个天真纯朴、诚实直率的人，内心的任何活动，都能从外面看透。
 		7. He was, however, anticipated by the voice of the ingenuous and youthful Alice /然而，天真而年轻的爱丽丝的声音却预示着他。
 		8. Not pretty, but fresh and ingenuous with a mixture of shyness and pertness that I found amusing /不漂亮，但清新而天真， 混合了害羞和活泼， 我觉得很有趣。
-	24. ingenue (indigenous, ingenious, ingenuous, genuine, ingenue)
+	23. ingenue (indigenous, ingenious, ingenuous, genuine, ingenue)
 		1. n. 天真无邪的姑娘, 扮演天真姑娘的女演员
 		2.  来自法语 ingenue,词源同 ingenuous,天真无邪的。引申词义纯真少女，特别指戏剧或舞台表演的少女形象。
 		3. _n._ [actor](dic://actor), [histrion](dic://histrion), [player](dic://player), [thespian](dic://thespian), [role player](dic://role player), [juvenile](dic://juvenile), [juvenile person](dic://juvenile person)
@@ -376,12 +384,12 @@
 		7. So he was still very much a political ingenue, until, that is, he met the likes of him /所以，从政治角度上说他还是不够老练，直到他遇见了这样一个人。
 		8. I'm trying to figure out whether I should go with " high school senior" ...or " coquettish ingenue." /我现在正琢磨我是该摆“高中毕业生”还是“风情美少女。”
 		9. Yeah, you don't. You don't hear about it, but normally maybe it's like the younger, more ingenue girls and then they develop more. /是的，确实没有。你没听说过，但通常情况下，这可能就像更年轻、更天真的女孩，然后她们发展得更多。
-	25. benign
+	24. benign
 		1. bene-好 + gn-出生，指出生好的，有教养的。
-	26. malign
+	25. malign
 		1. mal-坏的，不良的 + gn-出生， 字面意思即出生就坏的，引申词义诽谤，中伤等。 
 		2. mel-(5)
-	27. cognate (congenital)
+	26. cognate (congenital)
 		1. co-同 + gn-出生 + -ate → 同出生的 → 同种的。
 		2. a. 同族的, 同语系的, 同词源的, 母族的, 同性质的, 同类的, 同种的  
 		3. n. 亲族, 同语系的语言, 同词源的词, 同性质的东西, 同源物
@@ -396,17 +404,17 @@
 		12. _[cognate object](dic://cognate%20object)_  同根宾语；同源宾语
 		13. _[cognate interaction](dic://cognate%20interaction)_  同种相互作用
 		14. _[cognate inclusion](dic://cognate%20inclusion)_  同源包体；均匀包合物
-	28. progeny (prodigy)
+	27. progeny (prodigy)
 		1. [offspring](dic://offspring), [issue](dic://issue)
 		2. _n._ [relative](dic://relative), [relation](dic://relation)
 		3. **offspring**子女, 子孙, 后代;**sire**陛下;**progenitor**祖先;**lineage**血统;**pedigree**家谱;**brood**沉思;**breeding**教养;**bred**繁殖;**clones**无性繁殖系个体;**stallion**种马;**descendant**后代, 后裔;
 		4. No more hiding behind Nobunaga's progeny and pretending that the Oda Clan was still running things. /不再躲在信长的后代后面，假装织田氏族仍在掌权。
 		5. 
-	29. pathogeny
+	28. pathogeny
 		1. _[pathogeny](dic://pathogeny)_  n. [基医] 病原；[病理] 发病机理
 		2. _[pathogeny microbiology](dic://pathogeny%20microbiology)_ 病原微生物学
 		3. _[pathogeny identification](dic://pathogeny%20identification)_ 病原检测
-	30. kindred (affiliated)
+	29. kindred (affiliated)
 		1. (affinity, kindred, cognation, consanguinity, affiliated, ancillary, incidental, contingent, accidental, accessorial, annexal, adnexal, auxiliary, adjunct, sundry, supplementary, extraneous)
 		2. kin【亲戚，亲属】 + -red,名词后缀，词源同 hundred, hatred。
 		3.  kin,亲戚，亲属，-red,名词后缀，词源同 hundred,hatred,插入字母 d,可能是受 kind 影响。
@@ -423,10 +431,10 @@
 		14. Also, postpone your investigations into the occult. Do not dabble in theosophy, Spiritualism, or kindred studies /毋庸置疑，你应当停止任何有关神秘学术的研究，也绝对不要涉猎任何关于通神论、唯灵论及其相关学术的书籍。
 		15. 
 		16. king
-	32. anthropogeny
+	30. anthropogeny
 		1. _[anthropogeny](dic://anthropogeny)_  n. 人类起源论（等于anthropogenesis）
-	33. cancerogenic, carcinogen
-	34. etc...
+	31. cancerogenic, carcinogen
+	32. etc...
 3. **-gen** = 中文翻译成“...原”，原意表示“产生”。
 	1. allergen
 		1. n. 过敏原; 变(态反)应原
@@ -1586,28 +1594,40 @@
 		1. dehiscent
 			1. indehiscent
 		2. dehiscence
-	2. hiatus
-		1. [suspension](dic://suspension), [respite](dic://respite), [reprieve](dic://reprieve), [abatement](dic://abatement)
-		2. [foramen](dic://foramen)
-		3. _n._ [interruption](dic://interruption), [break](dic://break), [piece](dic://piece), [opening](dic://opening), [gap](dic://gap)
-		4. **sabbatical**休假的;**stint**节约;**year-long**每年的，一年一次的;**self-imposed**自己强加的;**short-lived**短命的;**reprieve**缓期执行;**relaunch**重新发射;**hibernation**冬眠;**overdue**迟到的;**absence**缺席;**inactivity**静止,不活泼,休止状态;
-		5. hiatuses
+	2. hiatus (interim)
+		1. - n. 裂缝，空隙，脱漏部分；间断；元音连读
+		2. [suspension](dic://suspension), [respite](dic://respite), [reprieve](dic://reprieve), [abatement](dic://abatement)
+		3. [foramen](dic://foramen)
+		4. _n._ [interruption](dic://interruption), [break](dic://break), [piece](dic://piece), [opening](dic://opening), [gap](dic://gap)
+		5. **sabbatical**休假的;**stint**节约;**year-long**每年的，一年一次的;**self-imposed**自己强加的;**short-lived**短命的;**reprieve**缓期执行;**relaunch**重新发射;**hibernation**冬眠;**overdue**迟到的;**absence**缺席;**inactivity**静止,不活泼,休止状态;
+		6. For the past two months they have not had to commute, and will have enjoyed the hiatus. /在过去的两个月里，他们不需要通勤，而且会享受这段空档期。
+		7. All of my favorites are being renewed, with one taking a short hiatus. /所有我最喜欢的节目都将迎来新一季, 只有一档会短暂中断。
+		8. The latest round of the nuclear talks was held in Austria last month after a five-month hiatus. /中断 5 个月的最新一轮核谈判于上月在奥地利举行。
+		9. hiatuses
 3. achene
 	1. _n._ [fruit](dic://fruit)
 	2. **fleshy**肉的;**whitish**带白色的;**shrub**灌木;**fruit**水果;**ovary**子房;**apical**顶上的, 顶点的;**yellowish**微黄色的;**elongated**细长的;**brownish**呈褐色的;**elongate**拉长;**spores**孢子;
 4. gap
 5. gape
-	1. [goggle](dic://goggle), [gawp](dic://gawp), [gawk](dic://gawk)
-	2. [yawn](dic://yawn), [yaw](dic://yaw)
-	3. _n._ [facial expression](dic://facial expression), [facial gesture](dic://facial gesture), [stare](dic://stare)
-	4. _v._ [look](dic://look), [be](dic://be)
-	5. **jaws**狭口;
-	6. _[gapes](dic://gapes)_  n. 家禽张口病; v. 裂口（gape的第三人称单数形式）; 
-	7. _[gape at](dic://gape%20at)_  瞪眼看
-	8. _[gaping fault](dic://gaping%20fault)_  张开断层
-	9. _[gaping hole](dic://gaping%20hole)_  不渗透层的孔
-6. gas
-7. gasp
+	1. vi. 裂开，张开；打呵欠 
+	2. n. 裂口，张嘴；呵欠
+	3. [goggle](dic://goggle), [gawp](dic://gawp), [gawk](dic://gawk)
+	4. [yawn](dic://yawn), [yaw](dic://yaw)
+	5. _n._ [facial expression](dic://facial expression), [facial gesture](dic://facial gesture), [stare](dic://stare)
+	6. _v._ [look](dic://look), [be](dic://be)
+	7. **jaws**狭口;
+	8. _[gapes](dic://gapes)_  n. 家禽张口病; v. 裂口（gape的第三人称单数形式）; 
+	9. _[gape at](dic://gape%20at)_  瞪眼看
+	10. _[gaping fault](dic://gaping%20fault)_  张开断层
+	11. _[gaping hole](dic://gaping%20hole)_  不渗透层的孔
+	12. a wide gape of the jaws. /嘴上裂了一个大口子。
+	13. The curtains gaped when the wind blew. /风吹起时窗帘张开了
+	14. they gaped at her as if she was an alien. /他们目瞪口呆地看着她，好像她是个外星人。
+	15. A huge chasm gaped before them. /他们面前有个巨大的裂痕。
+	16. His shirt gapes open with a button missing. /他的衬衫因丢了一颗纽扣而敞开着。
+	17. They were still gaping at Mr. Weasley, thunderstruck. /他们仍然呆若木鸡地瞪着韦斯莱先生。
+7. gas
+8. gasp
 	1. v. （因惊讶或疼痛）喘气 
 	2. n. 喘息，倒抽气
 	3. [pant](dic://pant)
@@ -3651,7 +3671,7 @@
 		4. _glebe overturn_ 土地革命
 		5. _glebe land_ 蜡光透明防油纸; 教会属地;
 2. **glomer-** = ball, 表示“球”，加上小词后缀后的 glomerul- 表示小球。
-	1. agglomerate
+	1. agglomerate (amalgamate, agglomerate, conglomerate)
 		1. _n._ [volcanic rock](dic://volcanic rock), [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage)
 		2. _v._ [bunch](dic://bunch), [bunch up](dic://bunch up), [bundle](dic://bundle), [cluster](dic://cluster), [clump](dic://clump)
 		3. _adj._ [collective](dic://collective)
@@ -3663,7 +3683,7 @@
 		9. agglomerant
 			1. _[agglomerant temperature](dic://agglomerant%20temperature)_ 烧结温度
 			2. _[inorganic agglomerant](dic://inorganic%20agglomerant)_ 无机粘结剂
-	2. conglomerate
+	2. conglomerate(amalgamate, agglomerate, conglomerate)
 		1. _n._ [rock](dic://rock), [stone](dic://stone), [corporation](dic://corporation), [corp](dic://corp)
 		2. _v._ [increase](dic://increase)
 		3. _adj._ [combined](dic://combined)

@@ -863,3 +863,25 @@
 4. **ory-, -atory** = 表形容词，“…的”。源自拉丁语 -atorius, adjective suffix for agent nouns in -ator.
 	1. acclamatory
 	2. etc.
+
+
+### + \*yos +
+1. **zon-** = belt, 表示“带子”。源自希腊语 zone "girdle."
+	1. zone
+		1. in the zone 
+			1. - 处于状态：形容一个人处于一种临时的、高度集中注意力的状态，以实现最佳表现。
+			2. Loosen up. Get in the zone. You know this. /放轻松 进入状态 你会的。
+			3. I was so deeply in the zone I guess /我深深地沉浸在自己的世界里。
+			4. How were you able to stay in the zone in the third quarter? /你是怎么在第三节仍保持状态的？
+			5. 
+	2. zoned
+	3. azonic
+	4. bizonal
+	5. interzonal
+	6. unzoned
+	7. zonal
+	8. zonary
+	9. zonate
+	10. zoning
+	11. zonule
+2. zoster

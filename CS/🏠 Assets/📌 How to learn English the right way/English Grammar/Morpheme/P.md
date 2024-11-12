@@ -6970,7 +6970,7 @@
 		3. platitude
 			1. plat-平 + -itude状态 → [语言]平坦 → 陈词滥调。
 			2. n. 单调, 平凡, 陈腐, 陈词滥调
-			3. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over)
+			3. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
 			4. [cliche](dic://cliche), [banality](dic://banality), [commonplace](dic://commonplace), [bromide](dic://bromide)
 			5. _n._ [remark](dic://remark), [comment](dic://comment), [truism](dic://truism)
 			6. **cliche**陈词滥调;**cliches**陈腔滥调;**hyperbole**夸张的语句;**banal**陈腐的;**drivel**淌口水,说傻话;**meaningless**无意义的;**adage**格言，谚语;**phrase**成语;**rhetoric**修辞，修辞学;**nonsense**谬论;**mantra**颂歌;

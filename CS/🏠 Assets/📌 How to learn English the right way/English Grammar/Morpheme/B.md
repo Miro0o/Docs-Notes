@@ -190,10 +190,66 @@
 4. peg
 
 
+
+### balm-   = balsam, 表示“香油”。
+1. balm
+	1. (unguent, ointment, unction, balm, salve)
+	2. n. 镇痛软膏, 香膏
+	3. balm（香油）：古代阿拉伯人使用芬香植物制作的药膏  
+	4. 古代阿拉伯人同样很早就学会了使用芬香植物制作芬香气味的药膏，可用来治疗外伤、缓解疼痛，类似于我们中国的中药。这种芬香药膏在阿拉伯语中被称为basham。这个单词经过不同途径，最终演变为英语中的balm（镇痛软膏）和balsam（香脂）两个单词。在英语中，balm一词可以用来表示很多种护肤品，如眼霜唇膏之类。  
+	5. balm：[bɑm] n. 香油；镇痛软膏；香峰草，香树膏  
+	6. balmy：['bɑmi] adj.芬香的，温和的，止痛的  
+	7. embalm： [ɪm'bɑm] vt. 铭记于心；使不朽；防腐；使充满香气  
+	8. balsam：['bɔlsəm] n. 香脂；凤仙花；香膏；产香脂的树
+	9.  来自希伯来语，芳香，香料，香木。
+	10. _n._ [balsam](dic://balsam), [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
+	11. **lotion**洗液;**lip**嘴唇;**lotions**洗液;**ointment**油膏;**cleanser**清洁剂;**nourishing**有营养的,滋养多的;**soothing**使人宽心的;**soothe**安慰;**peppermint**薄荷;**lavender**淡紫色;**cream**奶油，乳脂;
+	12. _lip balm_ 润唇膏
+	13. _tiger balm_ 万金油
+	14. Friendship is the finest balm in need /友情是在困难时刻的最好安慰。
+	15. The new skin balm was welcome by middle-aged women. /这种新护肤香膏受到了中年妇女的欢迎。
+	16. the murmur of the water can provide balm for troubled spirits. /轻柔的流水声能给不安的心灵带来安慰。
+	17. Protect your skin. Sunscreen, lip balm, hats, and mittens will protect sensitive skin from sunburn, windburn, and frostbite. /保护你的皮肤。防晒油，润唇膏，帽子和手套可以很好的保护皮肤，避免晒黑，皮肤病或者冻伤。
+	18. embalm
+		1. _v._ [conserve](dic://conserve), [preserve](dic://preserve), [maintain](dic://maintain), [keep up](dic://keep up)
+		2. **casket**匣子;**corpse**尸体;**bury**埋葬;**coffin**棺材;**corpses**尸体;**funeral**葬礼;**burial**埋葬;**cremation**火化;**tomb**坟墓;**deceased**已故的;**resurrect**使复活;
+		3. the band was all about revitalizing pop greats and embalming their legacy. /这支乐队正竭力使流行乐坛的明星们重新焕发青春和活力，让他们的作品经久不衰。
+		4. Spicy aromas embalmed the air. /香料的味道弥漫在空气中
+		5. Spring embalms the woods and fields. /春天使森林和田野吐露芬芳。
+		6. Many sentiments are embalmed in poetry, /诗歌中充满着许多美好的感情。
+		7. That's because of the new technique known as embalming. /这归功于一种叫尸体防腐的新技术。
+		8. But if embalmed and buried, decomposition could be a slow process. /但如果进行防腐处理和埋藏，就会分解 可能是一个缓慢的过程。
+		9. Chavez's body will be embalmed and forever displayed inside a glass tomb at a military museum. /查韦斯的遗体将会做防腐处理永久保存，并放在玻璃棺材中在军事博物馆中陈列。
+		10. He provided in his will that his body be preserved, embalmed, and displayed in the University of London. /他在遗嘱里将自己的遗体捐献给伦敦大学进行防腐处理、保存、并陈列。
+		11. And these embalming instructions were probably not always the same — they changed over time and differed between workshops /而且这些防腐说明可能并不总是相同的——它们随着时间的推移而变化，在不同的作坊也不同。
+	19. balmy
+		1. - adj. 芳香的；温和的；止痛的
+		2.  [barmy](dic://barmy), [bats](dic://bats), [batty](dic://batty), [bonkers](dic://bonkers), [buggy](dic://buggy), [cracked](dic://cracked), [crackers](dic://crackers), [daft](dic://daft), [dotty](dic://dotty), [fruity](dic://fruity), [haywire](dic://haywire), [kooky](dic://kooky), [kookie](dic://kookie), [loco](dic://loco), [loony](dic://loony), [loopy](dic://loopy), [nuts](dic://nuts), [nutty](dic://nutty), [round the bend](dic://round the bend), [around the bend](dic://around the bend), [wacky](dic://wacky), [whacky](dic://whacky)
+		3.  [mild](dic://mild), [soft](dic://soft)
+		4. _adj._ [insane](dic://insane), [clement](dic://clement)
+		5. _n._ [sane](dic://sane), [inclement](dic://inclement)
+		6. **chilly**寒冷的，凉飕飕的;**sunny**阳光充足的，和煦的;**frigid**寒冷的，严寒的;**humid**潮湿的;**breezy**有微风的;**warm**温暖的;**warmer**取暖器;**sultry**闷热的;**scorching**极热的;**frosty**结霜的，严寒的;**windy**多风的，有风的;
+		7. _[balmy colour](dic://balmy%20colour)_ 暖色
+		8. _[fōnghēung balmy](dic://f%c5%8dngh%c4%93ung%20balmy)_ 芳香
+		9. _[inclement balmy](dic://inclement%20balmy)_ 冷酷的
+		10. _[balmy breeze](dic://balmy%20breeze)_ 和风
+		11. _[balmy etching](dic://balmy%20etching)_ 轻腐蚀
+		12. the balmy days of late summer. /夏末温暖宜人的日子。
+		13. a balmy breeze /一阵温和的微风
+		14. It’s a balmy evening, the golden time for lovers. /这是一个暖和的夜晚,是恋人们的黄金时光。
+		15. The Virgin Islands, located in the Caribbean, have a balmy climate. /位于加勒比海的维尔京群岛气候温和。
+		16. Through the balmy air of night how they ring out their delight! /声音穿透那温柔惬意的夜渗出浓浓喜悦！
+		17. The balmy evening was suddenly piercingly, bitingly cold. /刚才温和宜人的夜晚突然变得寒冷刺骨。
+		18. Hermione walked straight out of the oak front doors and down the stone steps into the balmy evening air. /赫敏径直穿过栎木大门走下石头台阶，走进傍晚温和的空气中。
+		19. 
+2. balsam
+
+
+
 ### + \*bassus- +
 1. **bas-, base-** =  low, foundation, 表示“低下，基础”，来自拉丁语，碱的含义由法国化学 Guillaume-Franois Rouelle 在1754年引入。
 	1. base
-	2. abase (abate, ablate, abash)
+	2. abase (abate, ablate, abash, abase)
 		1. vt. 降低...的地位, 降低...的品格, 贬抑, 使谦卑
 		2. a-=ad-使 + base【低】 → 使自己低 → 降低。
 		3.  a-,去，往，base,低下，卑微，词源同 base metal,贱金属。
@@ -1095,7 +1151,7 @@
 
 ### + \*bhau- + = to strike down
 1. **bat-, but** = beat, ”打，击“
-	1. abate (abash, abase, abate, ablate) (probate/approbate/..)
+	1. abate (abash, abase, abate, ablate) (probate/approbate/..) (rebate)
 		2. [slake](dic://slake), [slack](dic://slack)
 		3.  [let up](dic://let up), [slack off](dic://slack off), [slack](dic://slack), [die away](dic://die away)
 		4. _v._ [decrease](dic://decrease), [lessen](dic://lessen), [minify](dic://minify), [diminish](dic://diminish), [fall](dic://fall)
@@ -2954,7 +3010,7 @@
 		22. It was a fine apartment in which we found ourselves, large, lofty, and heavily raftered with huge balks of age-blackened oak /我们所在的房间确是华美，又高又大，因年代久远而变成了黑色的椽木巨梁密密地排着。
 		23. Why would they balk at a chance to topple him? /为什么他们不借机推翻他？
 		24. restbalk
-		25. balky (bulky, balmy)
+		25. balky (bulky, balmy, balky)
 			1. - adj. 停蹄不前的；倔强的；不愿干的
 			2.  [balking](dic://balking)
 			3. _adj._ [intractable](dic://intractable), stagnant, moribund
@@ -5743,18 +5799,32 @@
 		2. [excitement](dic://excitement), [excitation](dic://excitation), [inflammation](dic://inflammation), [fervour](dic://fervour)
 		3. _n._ [passion](dic://passion), [passionateness](dic://passionateness), [emotional arousal](dic://emotional arousal
 		4. **zeal**热心;**enthusiasm**热情, 热心;**fervent**强烈的;**vigor**活力，精力;**eagerness**渴望;**devotion**热爱;**gusto**热情,乐趣,津津有味;**frenzy**狂怒;**excitement**兴奋, 激动;**passion**激情;**indignation**愤怒, 愤慨, 气愤;
-	8. ferment
+	8. ferment (foment)
 		1. 词源同brew, 酿造，酝酿。引申词义发酵。
 		2. n. 酵素, 发酵, 动乱 v. (使)发酵, (使)动乱
-		3. fermentum
-		4. fermenter
-		5. fermentive
-		6. fermentation
-		7. fermental
-		8. fermentable
-		9. coferment
-		10. antiferment
-		11. etc...
+		3.  [agitation](dic://agitation), [fermentation](dic://fermentation), [tempestuousness](dic://tempestuousness), [unrest](dic://unrest)
+		4.  [zymosis](dic://zymosis), [zymolysis](dic://zymolysis), [fermentation](dic://fermentation), [fermenting](dic://fermenting)
+		5.  [work](dic://work)
+		6. [sour](dic://sour), [turn](dic://turn), [work](dic://work)
+		7. _n._ [turbulence](dic://turbulence), [upheaval](dic://upheaval), [Sturm und Drang](dic://Sturm und Drang), [substance](dic://substance), [matter](dic://matter), [chemical process](dic://chemical process), [chemical change](dic://chemical change)
+		8. _v._ [seethe](dic://seethe), [boil](dic://boil), [inflame](dic://inflame), [stir up](dic://stir up), [wake](dic://wake), [ignite](dic://ignite), [heat](dic://heat)
+		9. **fermentation**发酵;**yeast**酵母;**brewing**酿造;**brew**酿造;**sourdough**酵母;**grapes**葡萄;**mash**糊状物;**agitation**激动;**bottling**装瓶;
+		10. The whole country was in a state of ferment that year. /那一年这个国家全部处于动乱状态。
+		11. Fruit juices ferment if they are kept a long time. /果汁若是放置很久, 就会发酵。
+		12. the drink had fermented, turning some of the juice into alcohol. /饮料发酵了，把一些果汁变成了酒精。
+		13. Others like Salmonella and Shigella can't ferment lactose, so their colonies will be colorless. /其他的像是沙门氏菌和志贺氏菌都不能发酵乳糖，所以他们的菌落是无色的。
+		14. It's got that kind of. - Miso. - Umami ferment. /它有那种。- 味噌。- 鲜味发酵。
+		15. Sugar alcohol actually starts out as sugar, but then it's fermented to create a kind of alcohol /糖醇刚开始的时候其实是糖，但是后来经过发酵就产生了一种酒精。
+		16. The wet and warm climate helps ferment the hams. /这种温润的气候，最适合火腿的深度发酵。
+		17. fermentum
+		18. fermenter
+		19. fermentive
+		20. fermentation
+		21. fermental
+		22. fermentable
+		23. coferment
+		24. antiferment
+		25. etc...
 3. barm (yeast)
 	1. n. 泡沫状酵母, <古>酵母
 	2. barmy
@@ -5794,7 +5864,7 @@
 		2. fructan
 		3. fructose
 	2. frugal, frugality
-		1. (ascetic, ascetical, austere, spartan, stoic, frugal,)
+		1. (ascetic, ascetical, austere, spartan, stoic, frugal, abstemious, abstinent, thrifty, scotch, sparing, stinting, parsimony, stingy, )
 		2.  [economical](dic://economical), [scotch](dic://scotch), [sparing](dic://sparing), [stinting](dic://stinting)
 		3. _adj._ [thrifty](dic://thrifty)
 		4. _n._ [wasteful](dic://wasteful)
@@ -6002,11 +6072,31 @@
 	1. n. 被炸区域
 
 
+### botan-  = herb, 表示“草”。
+1. botany
+	1. n. 植物学
+	2. - n. 植物学；（特定地区的）植物（生态）
+	3. 来自希腊词botane, 植物，草，词源同pasture, 放牧。
+	4. botany ['bɒt(ə)nɪ] n.植物学；地区植物总称。希腊词根botan-表示植物、草和牧场等，比如植物园就可以叫做botanical garden。因为英国植物学家班克斯和瑞典自然学者索兰德发现现在澳大利亚悉尼以南的一个海湾附近植物种类非常多，所以同时代的英国探险家詹姆斯库克船长就将这片海湾叫做Botany Bay. ​​​​
+	5.  [vegetation](dic://vegetation), [flora](dic://flora)
+	6. [phytology](dic://phytology)
+	7. _n._ [collection](dic://collection), [aggregation](dic://aggregation), [accumulation](dic://accumulation), [assemblage](dic://assemblage), [biology](dic://biology), [biological science](dic://biological science)
+	8. **horticulture**园艺学;**botanist**植物学家;**botanical**植物学的;**biology**生物学;**geology**地质情况;**biochemistry**生物化学;**ecology**生态学;**astronomy**天文学;**microbiology**微生物学;**anthropology**人类学;**flora**植物群;
+	9. _pharmaceutical botany_ 药用植物学
+	10. the botany of the Ohio River valley. /俄亥俄河谷的植物
+	11. The coverage of the subject in his botany text is inadequate /他的植物学教科书中对那题目的叙述不充分。
+	12. Zoology and botany are the two main branches of biology. /动物学和植物学是生物学的两大分支。
+	13. This same approach was later used in other sciences, such as astronomy, botany, and mathematics. /同一方法后来也运用在其他学科中，如天文学、植物学和数学。
+	14. 
+2. proboscidean
+3. proboscis
+
+
 
 ## br
 ### broch- = to pierce, 表示“刺，缝”。
 1. broche (brocade, broche)
-	1. - adj. 织锦的；锦缎的 
+	1. - adj. 织锦的；锦缎的
 	2. n. 织锦
 2. brochette
 3. brochure
@@ -6060,15 +6150,16 @@
 	4. **chloride**氯化物;**arsenic**砒霜;**potassium**钾;**hydroxide**氢氧化物;**sodium**钠;**contaminant**杂质;**cadmium**镉;**sulfate**硫酸盐;**chlorine**氯;**nitrate**硝酸盐;**ammonia**氨，阿摩尼亚;
 4. bromic
 5. bromide
-	1.  [platitude](dic://platitude), [cliche](dic://cliche), [banality](dic://banality), [commonplace](dic://commonplace)
-	2. _n._ [halide](dic://halide), [remark](dic://remark), [comment](dic://comment), [truism](dic://truism)
-	3. **chloride**氯化物;**hydroxide**氢氧化物;**nitrate**硝酸盐;**sulfate**硫酸盐;**methyl**甲基;**cyanide**氰化物;**sulfide**硫化物;**ethyl**乙烷基;**hydrochloride**氢氯化物;**fluoride**氟化物;**acetate**醋酸盐;
-	4. _lithium bromide_ [化]溴化锂
-	5. feel-good bromides create the illusion of problem-solving /动听的陈词滥调给人一种问题已解决的错觉。
-	6. 
-6. bromine
-7. bromism
-8. bromyrite
+	1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
+	2.  [platitude](dic://platitude), [cliche](dic://cliche), [banality](dic://banality), [commonplace](dic://commonplace)
+	3. _n._ [halide](dic://halide), [remark](dic://remark), [comment](dic://comment), [truism](dic://truism)
+	4. **chloride**氯化物;**hydroxide**氢氧化物;**nitrate**硝酸盐;**sulfate**硫酸盐;**methyl**甲基;**cyanide**氰化物;**sulfide**硫化物;**ethyl**乙烷基;**hydrochloride**氢氯化物;**fluoride**氟化物;**acetate**醋酸盐;
+	5. _lithium bromide_ [化]溴化锂
+	6. feel-good bromides create the illusion of problem-solving /动听的陈词滥调给人一种问题已解决的错觉。
+	7. 
+7. bromine
+8. bromism
+9. bromyrite
 
 
 ## bu

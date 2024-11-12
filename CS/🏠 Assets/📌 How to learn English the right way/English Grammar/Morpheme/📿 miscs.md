@@ -65,6 +65,18 @@
 
 
 ## A
+abacus
+- n. 算盘
+- abacus（算盘）：古代希腊人用于算数的沙板  
+- 古代希腊人等很早就学会了使用表面覆盖有细沙的平板来进行书写、画图和计算，尤其是在教育中供学生使用。考古学家挖掘出土的一个古希腊花瓶上的绘画中，就描绘了波斯国王大流士一世的司库官利用沙板计算贡品的场面。后来，这种沙板逐渐演变，增加了算珠、柱子或沟槽等，甚至连沙子也取消了，变成了算板、算盘，如古罗马的槽式算盘（Roman abacus），它是一种带槽的金属算盘，槽中放着石子，上下移动石子进行计算。  
+- 作为算盘前身的沙板虽然已经消逝在历史长河中，但它的名称却是英语单词abacus（算盘）的来源。这种沙板在希腊语中称为abax，假借自希伯来语abaq，本意是dust（沙尘）。英语单词abacus就是希腊语abax经拉丁语演变而来的，通常用来表示从沙板演变而出的各种算板、算盘，几乎没有人记得它原本指的是沙板了。  
+- abacus：['æbəkəs] n.算盘，算板
+- abacus - 算盘历史悠久。巴比伦、古埃及、古罗马等文明古国都有各自形制的算盘。但长期以来使用广泛的首推中国算盘。一般认为算盘乃中国人所发明，但其英语对应名称系拉丁语借词abacus，源于古希腊语ábax，原先就有“计算板”（counting board）之意。不同的是，古希腊人是通过前后挪动排列在槽内的小圆石来计算，而中国算盘则用木珠，而且拨动珠子是上下的方向。
+- _n._ [tablet](dic://tablet), [calculator](dic://calculator), [calculating machine](dic://calculating machine)
+- **arithmetic**算术;**calculator**计算器;**math**数学;**numerals**数词;**maths**数学;**mathematical**数学的;**decimal**小数的;**numeral**数字;
+- INTRO The earliest recognized device for computing was the abacus, invented in Mesopotamia around 2500 BCE. /主题曲...最早被认可的计算设备是算盘 大约公元前2500年发明于美索不达米亚。
+- In the 16th century, the era of the counting rods came to an end to be completely replaced by the abacus. /在16世纪，算筹的时代结束了，完全为算盘所取代。
+
 abalone
 - _n._ 〈美〉鲍鱼(软体动物)
 - [ear-shell](dic://ear-shell)\
@@ -603,9 +615,16 @@ barm (yeast)
 - barmy
 
 barter
+- n. 物物交换, 实物交易  
+- v. 物物交换, 交换
 - baterer
 - **exchange**交换;**trade**贸易，交易;**goods**商品;**currency**货币;**sell**销售;**subsistence**存活, 生存, 维生之道;**commodity**商品, 货物;**consignment**托付货物;**bazaar**集市;**monetary**财政的;**commerce**贸易，商业;
 - [swap](dic://swap), [swop](dic://swop), [trade](dic://trade)
+- a barter economy /以物易物的经济形式
+- he often bartered a meal for drawings. /他经常用画换一餐饭。
+- We will never barter away principles. /我们决不拿原则做交易。
+- While you still have something to barter with /趁你还有筹码可以讨价还价。
+- Such exchanges that do not involve money are known as bartering. /这种不涉及金钱的交易被称为以物易物。
 
 barren
 - [inhospitable](dic://inhospitable), [empty](dic://empty), [sterile](dic://sterile), [unfertile](dic://unfertile), [infertile](dic://infertile), [dead](dic://dead)
@@ -804,6 +823,7 @@ bland
 - _n._ [tasty](dic://tasty), [stimulating](dic://stimulating), [undiplomatic](dic://undiplomatic)
 - **boring**令人厌烦的;**uninteresting**无趣的,令人厌倦的;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**dull**钝的;**drab**单调的;**banal**陈腐的;**monotonous**无变化的, 单调乏味的;**unremarkable**寻常的,不值得注意的;**overdone**把…煮得过久;**lackluster**无光泽,暗淡;
 - blandness
+	-  (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
 	- **mediocrity**平庸,第二流;**overdone**把…煮得过久;**banal**陈腐的;**cliches**陈腔滥调;**boredom**厌倦;**ugliness**丑陋，丑陋之物;**tasteless**无味的;**forgettable**容易被忘的,可忘记的;**subtlety**微妙;**monotonous**无变化的, 单调乏味的;**silliness**愚蠢;
 	- [unemotionality](dic://unemotionality), [emotionlessness](dic://emotionlessness), [unappetizingness](dic://unappetizingness), [unappetisingness](dic://unappetisingness), [graciousness](dic://graciousness)
 - blandly
@@ -1429,6 +1449,20 @@ brackish
 - a thin, brackish gruel /稀而难以下咽的粥
 - spluttering brackish water, he struggled to regain his feet /他喀喀地吐了几口苦水后便挣扎着想要重新站起来。
 
+bramble
+ - n. 荆棘, 悬钩子属植物, 黑莓
+ -  词源同 broom,金雀花灌木，扫帚。
+ - _n._ [woody plant](dic://woody plant), [ligneous plant](dic://ligneous plant)
+ - **berry**浆果;**bush**矮树丛;**thorns**荆棘;**blackberry**黑莓;**willow**柳木制品;**vine**葡萄树;**shrub**灌木;**thorn**刺;**blueberry**越橘的一种;**plum**李子;**rhubarb**大黄;
+ - she thrust through the bramble canes. /她奋力穿行过黑莓的爬藤。
+ - it was overgrown with brambles, so that I had difficulty making any progress. /这里布满了荆棘，所以我很难前进。
+ - the trailing lead got snarled up in a bramble bush. /拖地的（牵狗）皮带被带刺的灌木缠住了。
+ - I get tied up with the brambles and that. This was all covered in brambles. /我被荆棘缠住了，这里长满了荆棘。
+ - A bramble caught hold of her skirt, and checked her progress. /有一根刺藤钩住了她的裙子，让她停下步来。
+ - 
+ - brambly
+ - brambling
+
 brand
  - gwher-
 
@@ -1519,6 +1553,18 @@ brine
 - He said brine that is processed correctly dissolves quickly in the sea. /他说，经过正确处理的盐水在海洋里会很快溶解。
 - Then the men pump up this salt water, which is called brine /人们就可以把这些盐水抽出来。这种盐水叫“卤水”。
 - briny
+	- a. 盐水似的, 海水似的, 咸的
+	-  [main](dic://main)
+	-  [brackish](dic://brackish)
+	- _n._ [body of water](dic://body of water), [water](dic://water)
+	- _adj._ [salty](dic://salty)
+	- _n._ [fresh](dic://fresh), [sweet](dic://sweet)
+	- **salty**咸的;**tangy**有刺激性的;**pungent**刺激性的;**seawater**海水;**brine**卤水, 浓盐水;**watery**水的;**savory**可口的;**oysters**牡蛎，蚝;**waters**海域;**earthy**土的;**oceanic**海洋的;
+	- the briny tang of the scallops. /扇贝那浓浓的咸味。
+	- Gently, I searched the briny deep for the beginning of the overlap/我轻轻地在海水深处搜寻重叠的开始。s
+	- And it's so delicious, a little bit briny. /而且非常好吃，有点咸。
+	- A spectacular sunset descends on Pak Nai as these small briny creatures work to build an ever more vibrant ecosystem. /正当这些小型海水生物努力建立一个更加生机勃勃的生态系统时，壮观的日落降临在了白泥。
+	- It's briny, filled with special kind of salt called perchlorate salts /它是咸的，充满了一种叫做高氯酸盐的特殊盐。
 - brinish
 	- _[brinish](dic://brinish)_  adj. 大海的；盐水的；咸的；苦的
 	- I could be strawberry, I am sweet, I am brinish, I am crazy,I am sober, I could be the one /：我可以做一颗草莓，我甜，我边缘，我疯狂，我清醒，我是唯一的。
@@ -1543,6 +1589,10 @@ bristle
 - The rooster bristled his crest. /公鸡竖起了鸡冠。
 - bristly
 - bristling
+
+brocade
+- embroider
+- broch-
 
 brothel
 - brothel - 源于古英语brēothan 'to go to ruin'（毁灭），14世纪时原指“窝囊废”，15世纪转指“妓女”，故妓院就称brothelhouse。到了16世纪末期brothelhouse缩略为brothel，brothel的词义也因此由“妓女”变为“妓院”了。这两种形式莎士比亚在剧作中都使用过。brothel形与义的演变在很大程度上是受了意为“妓院”的古词bordel的影响。
@@ -1869,7 +1919,7 @@ bunk
 - 1. they bunk together in the dormitory. 他们合住在宿舍。
 - I'm Ed, and this is my bunk /我是艾德 这里就是我的位置。
 - debunk
-	- (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk)
+	- (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry, spurn,)
 	- [expose](dic://expose), [discredit](dic://discredit), [demystify](dic://demystify)
 	- **refute**反驳，驳斥;**disprove**反驳，证明…是虚假的;**dispel**驱散，驱逐;**discredit**败坏…的名声;**substantiate**用事实支持;**myth**神话;**contradict**矛盾;**unsubstantiated**无事实根据的;**discredited**不足信的,不名誉的;**skeptics**疑论者，怀疑主义者;**bogus**伪造的;
 
@@ -2336,7 +2386,9 @@ cherub
 	- The star of the team was a blond, cherubic, and psychologically intense self-taught young engineer named Burrell Smith, who worshipped the code work of Wozniak and tried to pull off similar dazzling feats. 团队中的明星是一个叫伯勒尔·史密斯的无师自通的年轻工程师。他有一头金发，长着一张娃娃脸，内心却极其严肃认真，他十分崇拜沃兹尼亚克编写的代码，自己也想做出一些耀眼的成就
 
 chide
-- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule)
+-  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 - [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
 - _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 - **accuse**控告，指控;**criticize**评论, 批评;**rebuke**指责，非难;**embarrass**使窘迫;**criticise**批评;**mocking**嘲弄的;**condemn**判刑，定罪;**taunt**嘲弄;**denounce**谴责;**accusing**指责的;**shun**避开, 回避, 避免;
@@ -2471,6 +2523,15 @@ clash (gl-, glei-, cl-)
 	- [collide](dic://collide) 多指带毁坏性的猛烈相撞，也可指严重的直接冲突。  
 	- [conflict](dic://conflict) 这个词以前可表具体东西的撞击，现在常指冲突或对立。
 - _clash with_ 与…冲突，不调和
+
+cliche
+- (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
+- n. 陈腔滥调, 凸印版  
+- a. 陈腐的
+- cliche（陈词滥调）：可以反复使用的铅版块  
+- 单词cliche来自法语，原本是印刷工人的行话，表示“铅版块”，是法语动词clicher（click，点击）的过去分词名词形式，可能是模拟制版时模子撞击融化金属时发出的声音。由于这些铅版是反复使用的，因此cliche就衍生出“陈词滥调”的含义。  
+- cliche：['kli:ʃei] n.陈词滥调，陈腐思想，铅版adj.陈腐的
+- 
 
 clique
 - 1. an exclusive circle of people with a common purpose
@@ -3354,7 +3415,7 @@ drool
 	- Oh, look at his little drools. /看他的口水流得。
 	- You're not being fair. I'm not some overheated housemaid drooling over a photograph of Douglas Fairbanks /你这么说不公平，我又不是头脑发热的女仆，痴迷一张道格拉斯·费尔班克斯（影星）的照片。
 
-droll (troll, stroll,)
+droll (troll, scroll, stroll, droll, toll, doll, roll, loll, moll)
 - 1 - 词源同 troll,山精，巨怪。
 - **wry**面部肌肉扭曲的;**witty**诙谐的;**amusing**有趣的，好玩的;**delightfully**大喜;**comical**滑稽的，好笑的;**irreverent**不敬的;**humorous**诙谐的，幽默的;**sly**狡猾的;**hilarious**十分有趣的, 非常滑稽的;**light-hearted**轻松的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;
 - his unique brand of droll self-mockery. /他别具一格的奇趣自嘲。
@@ -3766,7 +3827,112 @@ film
 	- What? You mean strap myself to a flimsy kite? No thank you! Next! /什么？你是我把我绑到很薄的风筝上？不，谢谢了，下一项。
 
 fire
+- n. 火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情  
+- vt. 点燃, 烧制, 使发光, 激动, 放枪, 解雇  
+- vi. 着火, 烧火, 开枪, 射击, 激动
+- fight fire with fire以火攻火；以毒攻毒。着火了，火势很大，正向小镇袭来，怎么办？着火得有可燃物对吧？于是我们可以有意识的在火前进的路线上提前放火，把大火必经之路上的东西先烧完（当然这一切得能控制住）。To address this dynamic, mostcompanies have attempted to fight fire with fire. ​​​​
+- 来自 PIE*paewr,火，词源同 pyre,empyrean.该词在印欧语指无生命之火，而 PIE*egni 则用来指有生命之火，词源同 ignite.
+- wildfire
+- unfired
+- test-fire
+- surefire
+- spitfire
+- shellfire
+- rapid-firing
+- rapid-firer
+- rapid-fire
+- qiuick-firing
+- quick-firer
+- quick-fire
+- portfire
+- oil-fired
+- needfire
+- misfiring
+- misfire
+- hellfire
+- hell-fired
+- gunfire
+- firework
+- firewood
+- fireweed
+- firewater
+- firewall
+- firetrap
+- firestorm
+- firestone
+- fireside
+- fireroom
+- firer
+- fireproof
+- firepower
+- fireplug
+- fireplace
+- fireman
+- firelock
+- firelight
+- fireless
+- firehydrant
+- firehouse
+- fireguard
+- firefly
+- firefighter
+- firedrake
+- firedog
+- firedamp
+- firecracker
+- fireclay
+- firebug
+- firebrick
+- firebreak
+- firebrand
+- firebox
+- fireboat
+- firebird
+- firebar
+- fireball
+- fireback
+- firearm
+- fire-worship
+- fire-raising
+- fire-new
+- fire-eating
+- fire-eater
+- fire-drill
 - fiery
+- drumfire
+- curtain-fire
+- crossfire
+- cross-firing
+- ceasefire
+- campfire
+- bonfire
+	- I remember you showing up messed up the night of the bonfire. /我记得你篝火节那天晚上一团糟地出现在我家门口。
+	- Towns and cities will have parades and bonfires to celebrate St. Joseph. /各城镇将举行游行和篝火晚会来庆祝圣约瑟夫诞辰。
+	- Protesters vowed to block more roads and light more bonfires. /
+	- The camp bonfire flamed away all the evening. /整个晚上野营的篝火都在燃烧。
+	- the bonfire still smouldered, the smoke drifting over the paddock. /篝火仍有余烬，烟雾萦绕在牧场上空。
+- balefire
+	- - n. 烽火；野火；焚化尸体的火
+- backfire
+	- n. 逆火, 回火, 放火  vi. 放逆火, 预先放火, 发生意外
+	- 1. _vi._ (内燃机等)发生逆火, 发生回火；(枪炮)向后爆发
+	- 发生意外, 产生事与愿违的后果
+	- _n._ (内燃机等)逆火, 回火；(枪炮)向后爆发
+	-  [blowback](dic://blowback)
+	- [boomerang](dic://boomerang)
+	- [backlash](dic://backlash), [recoil](dic://recoil)
+	- _n._ [explosion](dic://explosion), [detonation](dic://detonation), [blowup](dic://blowup), [fire](dic://fire), [miscalculation](dic://miscalculation), [misreckoning](dic://misreckoning), [misestimation](dic://misestimation)
+	- _v._ [happen](dic://happen), [hap](dic://hap), [go on](dic://go on), [pass off](dic://pass off), [occur](dic://occur), [pass](dic://pass), [fall out](dic://fall out)
+	- **counterproductive**反生产的,使达不到预期目标的;**ploy**策略;**disastrous**灾难性的;**sabotage**妨害;**alienate**使疏远，离间;**awry**歪曲;**tactic**策略，战略;**undermine**在某物下挖洞或挖通道;**retaliate**报复, 反击;**annoy**骚扰;**embarrass**使窘迫;
+	- over-zealous publicity backfired on her. /过分热心的宣传反而对她产生了反作用。
+	- His scheme backfired (on him) and he lost money. /他的计划招来相反的结果，他赔钱了。
+	- His scheme to win the girl backfired and she went to another guy. /他追求那女孩的计划产生了反效果,现在她名花另有主
+	- But believe me, it's already backfired. /相信我 事情已经事与愿违了。
+	- Scientists tell us this can **backfire** and actually have a negative impact on our wellbeing /科学家告诉我们，这可能适得其反，实际上会对我们的幸福产生负面影响。
+- all-fired
+- afire
+- fiery
+	- - adj. 燃烧的，充满火焰的；火红的，血红的；易怒的，暴躁的；怒气冲冲的，充满激情的；（食物或饮料）辣的
 	-  [ardent](dic://ardent), [burning(a)](dic://burning(a)), [fervent](dic://fervent), [fervid](dic://fervid), [impassioned](dic://impassioned), [perfervid](dic://perfervid), [torrid](dic://torrid)
 	-  [igneous](dic://igneous)
 	-  [flaming](dic://flaming)
@@ -3781,6 +3947,9 @@ fire
 	- the car was painted a fiery red. /车漆成了火红色。
 	- the sun was a fiery ball low on the hills. /太阳是低悬在山上的一个火球。
 	- a fiery, imaginative Aries /充满激情、富于想像的白羊座人。
+	- The sky turned from **fiery** orange to lemon yellow. /天空由火红色变成了柠檬黄。
+	- They've had six decades of fiery rhetoric from the North. /They've had six decades of fiery rhetoric from the North.
+	- In the distance, fireworks began going off - rockets, scattering fiery balls in the sky /远处开始放烟火——天上满是火箭式大烟火、散开的火球。
 - etc..
 
 fit
@@ -4325,7 +4494,7 @@ fraud
 	- defraudation
 		- n. 骗取钱财
 
-fringe
+fringe (fringe, edge, border, margin, rim, verge, brim, brink, )
 - **lunatic**精神错乱的;**right-wing**右翼的;**mainstream**主流;**left-wing**左派的;**hippie**嬉皮士;**marginal**边缘的;**ruffle**弄皱;**extremist**极端主义者;**subculture**亚文化群;
 	- [edge](dic://edge) 普通用词，指较窄的边沿。  
 	- [border](dic://border) 侧重刚好在界线内的一部分表面上，指较宽的边缘，也可指边缘本身。  
@@ -4755,6 +4924,22 @@ garnet
 - [cerulean](dic://cerulean), [sapphire](dic://sapphire), [lazuline](dic://lazuline), [sky-blue](dic://sky-blue)
 - **crimson**深红;**emerald**绿宝石，翡翠;**blue**蓝色的;**scarlet**猩红;**turquoise**绿松石;**silvery**似银的，银色的;**pale**苍白的;**indigo**靛蓝，靛蓝染料;**violet**紫罗兰;**sky**天空;**starry**布满星星的;
 
+gash
+- (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, gash)
+- n. 深长的伤口, 很深的裂缝  
+- v. (使)负深伤, 划开, 砍入很深
+- 来自古法语garser,划伤，来自PIE*gher,刻，划，词源同character,scratch.字母r脱落比较arse,ass.
+- [cut](dic://cut), [slash](dic://slash), [slice](dic://slice)
+- _n._ [wound](dic://wound), [lesion](dic://lesion), [furrow](dic://furrow), [cut](dic://cut), [cutting](dic://cutting)
+- _v._ [cut](dic://cut)
+- **bruise**擦伤;**bruises**击痕;**scar**给留下伤痕;**bruising**殊死的;**gaping**多洞穴的;**bruised**青肿的;**wounds**枪伤，伤处;**wound**创伤，伤口;**bandage**绷带;**incision**切开;**bleeding**出血;
+- a bad gash in one leg became infected. /一条腿上严重的伤口开始感染了。
+- Sap flowed from the gash in the tree. /树液从树的切口处涌出
+- He appeared to have suffered several gashes to his face and his clothes were ripped and torn. /他的脸上似乎划了几道口子，衣服被撕扯得不像样子。
+- I just gashed it trying to get into the filing cabinet /我打开档案柜的时候划破了手指。
+- It was a mile wide in some places, and it left a 17-mile long gash in the landscape. /造成了17英里长的裂缝景象。
+- Moody's lopsided gash of a mouth opened in surprise. /穆迪的嘴巴，那道歪斜的大口子吃惊地张大了。
+
 gaud
 - n. 华丽而俗气的东西
 - [bangle](dic://bangle), [bauble](dic://bauble), [gewgaw](dic://gewgaw), [novelty](dic://novelty), [fallal](dic://fallal), [trinket](dic://trinket)
@@ -5130,7 +5315,7 @@ grab
 - grab-all
 	- n. 贪心人, 杂物袋, (海岸附近的)渔网
 
-grasp
+grasp (gasp)
 - 词源同 grab,抓住，抓牢。字母 s,p 置换。
 - n. 把握, 抓紧, 理解, 抓, 柄, 控制  
 - vt. 抓住, 紧握, 领会  
@@ -5142,8 +5327,8 @@ grass
 - 来自 PIE*ghre,生长，变绿，词源同 grow,green.
 
 grate (integrate) 
-- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
+-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
 - - n. （壁炉上的）金属炉架，炉箅；壁炉（或熔炉）的炉膛；格栅；<美>下水道孔盖 
 - v. 擦碎，磨碎（食物）；粗声粗气地说话；使烦躁，使难受；发出刺耳的摩擦声
 - **strainer**过滤器;**grill**烤架;**stove**火炉;**pan**平锅，盘子;**griddle**矿筛;**wok**锅,炒菜锅;**hearth**炉床;**vent**出口;**chop**砍;
@@ -5179,8 +5364,8 @@ grate (integrate)
 
 gravel (grovel， gavel)
 - n. 砂砾；碎石 vt. 用碎石铺；使船搁浅在沙滩上；使困惑
-- (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
+-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
 - [annoy](dic://annoy), [rag](dic://rag), [get to](dic://get to), [bother](dic://bother), [get at](dic://get at), [irritate](dic://irritate), [rile](dic://rile), [nark](dic://nark), [nettle](dic://nettle), [vex](dic://vex), [chafe](dic://chafe), [devil](dic://devil)
 -  [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify), [baffle](dic://baffle), [beat](dic://beat), [pose](dic://pose), [bewilder](dic://bewilder), [flummox](dic://flummox), [stupefy](dic://stupefy), [nonplus](dic://nonplus), [amaze](dic://amaze), [dumbfound](dic://dumbfound)
 -  [grating](dic://grating), [gravelly](dic://gravelly), [rasping](dic://rasping), [raspy](dic://raspy), [rough](dic://rough), [scratchy](dic://scratchy)
@@ -5199,7 +5384,60 @@ gravy
 - _in the gravy_ [俚语]发横财的；很有钱的
 - _gravy boat_ 调味汁瓶；酱油壶；船形调味肉汁盘
 
+graze
+- 来自 grass,草。字母 s,z 音变。
+- n. 吃草, 放牧; 擦伤, 轻擦  v. (使)吃草, 放牧; 轻擦, 擦伤
+- - v. 吃草；放牧；擦过；擦伤，擦破；<非正式>经常吃零食而不吃正餐，吃很多零食；<美，非正式>随意地尝试（或体验、浏览） 
+- n. 擦伤
+- [grazing](dic://grazing)
+- [crop](dic://crop), [browse](dic://browse), [range](dic://range), [pasture](dic://pasture)
+- [crop](dic://crop), [pasture](dic://pasture)
+- [crease](dic://crease), [rake](dic://rake)
+- _n._ [abrasion](dic://abrasion), [scratch](dic://scratch), [scrape](dic://scrape), [excoriation](dic://excoriation), [eating](dic://eating), [feeding](dic://feeding)
+- _v._ [feed](dic://feed), [eat](dic://eat), [injure](dic://injure), [wound](dic://wound), [give](dic://give), [brush](dic://brush), [nosh](dic://nosh)
+- **pasture**牧场;**forage**饲料;**herds**畜群;**nibble**细咬;**roam**漫游，漫步;**cattle**牛;**herd**兽群，畜群;**goats**山羊;**hoof**步行;**wander**徘徊;**sheep**羊，绵羊;
+- cattle graze on the open meadows. /牛群在开阔的草地上吃草。
+- the field should be grazed or rested. /那地应该让牛羊放牧或休耕。
+- The car grazed the garage door. /汽车擦蹭了车房的门。
+- The plane grazed the hilltops. /飞机擦着山顶飞过。
+- we grazed up and down channels. /我们来回浏览各个频道。
+- Put a little antiseptic cream on the grazed skin /在擦伤的皮肤上塗点儿抗菌乳膏。
+- 
+- On Sundays he had earned the right to graze in the pasture and rest. /到星期天，它就有权在牧场上啃头草根休息休息了
+- Hameed tells Halim that finding places where the camels can graze remains difficult. /Hameed 告诉哈利姆，找到骆驼可以吃草的地方仍然很困难。
+- With this much ash on the ground, the horses cannot graze. /地面上有如此多的火山灰，马群无法吃草。
+- A herd of cattle was quietly grazing on the grass /一群牛在草地上正安静地吃草。
+- He could run, so maybe she just grazed him. /他还能跑，所以可能只是擦伤。
+- I don't touch guns anymore. Not since I accidentally grazed Katherine. /从我意外射到凯瑟琳后，我就再也不碰枪了。
+- Rain fell on the backs of the sheep as they grazed in the meadow. /雨水落在正在草地上吃草的羊背上。
+- That's when the fish can safely graze /此时鱼儿们可以安全进食。
+- The land is used by local people to **graze** their animals /这块地当地人用来放牧。
+- sungrazer
+- overgraze
+	- For a century, this land had been overgrazed by livestock, like most grasslands around the world /这片土地就像世界各地大部分草地一样，经历了长达一个世纪的过度放牧。
+	- Sharks limit the abundance of animals which would otherwise overgraze these essential plants. /鲨鱼限制了动物的数量，否则这些动物会过度放牧这些重要植物。
+- grazing
+- graziery
+- grazier
+- grazer
+	- n. 食草动物
+	- 
+
 grease
+- n. 油脂；润滑油 
+- v. 给……加润滑油，为……涂（或抹）油
+- [lubricating oil](dic://lubricating oil)
+-  [dirt](dic://dirt), [filth](dic://filth), [grime](dic://grime), [soil](dic://soil), [stain](dic://stain), [grunge](dic://grunge)
+- _n._ [oil](dic://oil), [dirtiness](dic://dirtiness), [uncleanness](dic://uncleanness)
+- _v._ [cover](dic://cover)
+- **lube**润滑油;**lubricant**润滑剂;**greasy**油腻的;**grime**尘垢;**lard**猪油;**lubrication**润滑;**oil**油;**elbow**弯头;**frying**油炸;**pan**平锅，盘子;**dirt**污垢，泥土;
+- scour grease from a pan /把油垢从锅上擦掉
+- wash grease out of overalls. /从工装服上洗去油腻
+- blanketed the grease fire with sand. /用沙子扑灭油火
+- accepted some grease to fix the outcome of the race. /接受贿赂来操纵比赛结果
+- This mixture removes all grease, stains, and colouring matters. /这种混合液体能够清理掉任何油脂、污点与有色物质。
+- The axle sleeve is then greased, and the new tire is slid smoothly on /在轮轴上涂上润滑油，然后把新的轮胎滑上去。
+- 
 - greasy
 	-  [oily](dic://oily), [sebaceous](dic://sebaceous), [oleaginous](dic://oleaginous)
 	- _adj._ [fatty](dic://fatty), [fat](dic://fat), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean)
@@ -5457,6 +5695,10 @@ ground
 - groundspeed
 - etc...
 
+grow
+- 1 - 来自 PIE*ghre,生长，词源同 grass,green.
+- vt. 种植, 使长满  vi. 生长, 变成, 发展
+
 grump
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**whiny**烦躁的;**smug**自满的, 沾沾自喜的;**bugger**家伙;**irritable**易怒的, 急躁的;**annoyed**恼怒的;**jolly**愉快的;**snarky**恶声恶气的，咬人的;**bitch**母狗，母狼;**fella**<俚>伙伴;
 - grumpy
@@ -5649,6 +5891,15 @@ hack
 - hacked down the saplings /把小树砍倒
 - hacked millions off the budget. /削减了几百万元的预算
 - Not unless he put it hack after. /那只能是他又把枪放回去了。
+- hackney
+	- hackneyed
+		- _adj._ [unoriginal](dic://unoriginal)老套的穷学生的形象
+		- _n._ [original](dic://original)
+		- **cliche**陈词滥调;**cliches**陈腔滥调;**banal**陈腐的;**corny**谷类的;**overused**过度使用的;**inane**愚蠢的;**tiresome**烦人的，无聊的;**nonsensical**无意义的;**contrived**不自然的;**crass**粗鲁的;**pretentious**自命不凡的;
+		- this is a hackneyed adventure lifted straight from a vintage Lassie episode. /这是从《少女》一书最精彩的情节中直接剽窃得来的一个老一套冒险故事。
+		- the hackneyed image of the poor student /老套的穷学生的形象
+		- a soap opera with a hackneyed plot /情节老掉牙的肥皂剧；
+		- To use the hackneyed phrase, here he found himself. /用一句陈腐的话说，他在这里可谓“得其所哉”。
 
 hag
 - **witch**巫婆，女巫;**whore**卖淫，娼妓;**lady**女士，夫人;**bastard**私生的;**bitch**母狗，母狼;**demon**魔鬼;**vile**卑鄙的;**witches**魔女;**elf**小精灵;**cursed**被诅咒的;**troll**穴居巨怪，侏儒;
@@ -5995,7 +6246,7 @@ harsh
 hash
 - rehashing
 - rehash
-	- (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over)
+	- (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
 	- **revisit**重游;**cliches**陈腔滥调;**recap**翻新的轮胎;**stale**不新鲜的;**reiterate**反复地说,重申;**pointless**无意义的;**cliche**陈词滥调;**tiresome**烦人的，无聊的;**gist**主旨，要点;**rewrite**改写;**summarize**总结, 概述;
 	- [retrograde](dic://retrograde), [hash over](dic://hash over)
 	- [recycle](dic://recycle), [reprocess](dic://reprocess), [reuse](dic://reuse), [recapitulate](dic://recapitulate), [recap](dic://recap)
@@ -6475,6 +6726,7 @@ hide
 	- I'm sorry. It's just this outfit is hideous. /对不起。只是这些服装太丑了。
 - hidebound 
 	- (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty /formulaic /canned)
+	- (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness)
 	- hide【兽皮】 + bound【绑】。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- hide,兽皮，bound,绑着，束缚。其原义为瘦骨嶙峋的老牛，后用于比喻义守旧的，迂腐的。
 	- a. 思想偏狭顽固的, 死板的, 量小的
@@ -6619,6 +6871,9 @@ hoar (grizzled)
 - _[hoar frost](dic://hoar%20frost)_  白霜
 - Her boots being thinner than those of the young men, the hoar had damped her feet and made them cold /她的皮靴比其他小伙子的要薄，白霜已使她的双脚湿透，冰冷冰冷的。
 - hoary
+	- hoar【灰白的】 + -y, 表形容词。引申词义头发灰白的，陈旧的。
+	- a. 灰白的, 陈旧的
+	- (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
 	- _adj._ [old](dic://old), [hairy](dic://hairy), [haired](dic://haired), [hirsute](dic://hirsute)
 	- _n._ [young](dic://young), [immature](dic://immature), [new](dic://new), [hairless](dic://hairless)
 	- **venerable**值得尊敬的;**age-old**古老的;**old**年老的;**cliches**陈腔滥调;**antiquated**陈旧的;**archaic**古代的;**cliche**陈词滥调;**hallowed**神圣的，神圣化的;**adage**格言，谚语;**ancient**古代的;**chestnut**栗子;
@@ -7556,6 +7811,8 @@ jive
 - Their rejuvenated virtual selves are eerily real: dancing, jiving and, between songs, joshing with the crowd (virtual Benny insisting that he is the real thing: " I just look very good for my age" ). /他们会跳舞、摇摆、在歌曲之间与观众开玩笑(虚拟的本尼坚称自己是真实的：“我只是保养得好而已”)。
 
 jocund
+- (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat)
+- (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 -  来自拉丁语 iocundus,来自 iucundus 拼写变体，缩写自*iuvicundus,来自 iuvare,帮助，帮忙，来自 iuvenis,年青人，词源同 young,juvenile,adjutant.其原义即年青人的，成长中的，帮忙的，帮助的，引申词义优雅的，让人愉悦的。后受拉丁词 jocus 影响，引申词义欢乐的，欢笑的。
 - a. 欢乐的, 高兴的
 - jocundity
@@ -7864,9 +8121,9 @@ lam
 - lamster
 	-  逃犯（等于lamister）
 - lambaste, lambast
-	- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-	- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+	-  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+	- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 	- [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
@@ -8019,9 +8276,23 @@ lech
 	- lechery
 	- lecherous
 
-lichen
+lest
+- conj. 以免, 唯恐, 免得
+- 来自古英语短语 les te,少于某某的情况下，les,即 less,te,即 that.比较 unless,despite.
+- she was trembling with fear lest worse might betide her. /她吓得发抖，担心更糟的事情会降临到她身上。
+- tiptoed lest the guard should hear her; anxious lest he become ill. /踮起脚趾走路，以免守卫发现她；唯恐他生病而感到焦虑
+- Be not just to excess, and be not overwise, lest you be ruined. /不要过于正义，也不要自作聪明，免得自趋灭亡。
+- I should never marry myself, lest I bias my judgment. /我永远不会结婚，以免影响我的判断力。
+ 
+lichen [美 /'laɪkən/](cmd://Speak/_us_/lichen)
+- n. 地衣；青苔 
+- vt. 使长满地衣
 - _n._ [skin disease](dic://skin disease), [disease of the skin](dic://disease of the skin), [skin disorder](dic://skin disorder), [skin problem](dic://skin problem), [skin condition](dic://skin condition), [fungus](dic://fungus)
 - **moss**苔藓;**fungi**真菌;**fungus**真菌，霉菌;**fungal**真菌的;**fern**蕨类植物;**ferns**蕨类;**flora**植物群;**algae**藻类;**vegetation**植物;**coral**珊瑚;**seaweed**海藻，海草;
+- No, the best organism for human beings to merge with is the lichen itself. /和人类杂交最好的生物就是苔藓。
+- It takes these map lichens, from frigid Greenland, a century to grow a single centimeter. /这些来自寒冷格陵兰的地图地衣需要一个世纪才能长出一厘米。
+- As for whether some lichens might have four, five species? /至于是否有地衣含有第四或第五种成分？
+- They also feed on moss and lichen growing on the outside. /它们也吃树外面长的苔藓和地衣。
 - lichenstarch
 - lichenous
 - ichenology
@@ -8048,6 +8319,7 @@ lick
 - a finger-licking meal
 - lick sb.’s spittle
 - unlicked
+	-  (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, unlicked, )
 	- adj. 无礼貌的；不像样的；不修饰的
 	- Greenough won't. He's wise in the ways of marvelous and unlicked cubs," said Decker. /德克尔说：“格里诺不会。他有明智而精彩和不加修饰的年青人的方式。”
 - lickspittle, lickspit
@@ -13130,6 +13402,15 @@ smoke
 	- A smoking gun refers to information or evidence that proves that something is true. /确凿的证据指的是证明某事是真实的信息或证据。
 	- The short answer is no. There is a lot of smoke here. There is no smoking gun /简单的回答是没有。现在有很多说法，但是并没有确凿的证据。
 
+smoulder
+- _n._ [fire](dic://fire)
+- _v._ [feel](dic://feel), [experience](dic://experience), [burn](dic://burn), [combust](dic://combust)
+- **burn**燃烧;**ignite**点燃;**burning**燃烧的;**burns**络腮胡子;**flame**火焰;**extinguish**使熄灭, 扑灭;**erupt**爆发;**linger**逗留, 徘徊;**smoky**冒烟的;**fire**火;**ash**灰;
+- the controversy smouldered on for several years. /这场论争暗中酝酿好几年了。
+- the last acrid smoulder of his cigarette. /他香烟上最后的刺鼻燃烟。
+- the plane was reduced to a smouldering wreck. /飞机只剩下一堆闷燃的残骸。
+- Under it ran a length of old stovepipe and fire still smouldered in this.  /在它下面有一段旧的瘦腿管， 火还在里面闷烧着。
+
 snack
 - [bite](dic://bite), [collation](dic://collation)
 - [nosh](dic://nosh)
@@ -13937,13 +14218,25 @@ squander
 - squanderingly
 - suanderer
 
-squelch
+squelch (crunchy, squelch, )
+- n. 嘎吱声, 压碎的一堆, 使对手哑口无言的话  
+- vt. 压碎, 镇压, 使咯吱咯吱响  
+- vi. 咯吱咯吱响, 涉水而过
+- v. 消除；镇压；压碎；（使……）咯吱咯吱的响 
+- n. 噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆- 
 - **suppress**抑制;**stifle**使窒息;**dampen**抑制;**stomp**跺;**quell**镇压;**thwart**反对;**inhibit**抑制;**curtail**截断, 缩短;**suppression**镇压;**amplify**放大，扩大;**overdrive**驱使过度,虐待;
 - [derision](dic://derision), [circuit](dic://circuit), [electrical circuit](dic://electrical circuit), [electric circuit](dic://electric circuit)
 - [suppress](dic://suppress), [stamp down](dic://stamp down), [inhibit](dic://inhibit), [subdue](dic://subdue), [conquer](dic://conquer), [curb](dic://curb), [sound](dic://sound)
 - [squash](dic://squash), [crush](dic://crush), [mash](dic://mash), [squeeze](dic://squeeze)
 - [squish](dic://squish), [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh), [slop](dic://slop)
 - [put-down](dic://put-down), [squelcher](dic://squelcher), [takedown](dic://takedown)
+- my feet squelched over marshy ground. /我的脚踩在泥泞的沼泽地上吱吱作响。
+- property developers tried to squelch public protest. /房地产开发商想压制公众的抗议。
+- bedraggled guests squelched across the lawns to seek shelter. /全身湿透的客人扑哧扑哧地穿过草坪去避雨。
+- You squelch me right when I'm about to soar. /每当我要展翅高飞时 你就打击我。
+- Some republicans say that the new rules are unfairly enforced squelching conservative voices. /一些共和党人说，新规定的实施不公平，压制了保守派的声音。
+- Two other major candidates, Elizabeth Warren and Mike Bloomberg, saw their hopes of a comeback squelched. /在另外两名主要候选人伊丽莎白·沃伦和迈克·布隆伯格看来，自己回归的希望已然破灭
+- 
 - squelchy
 - squelcher
 
@@ -13961,6 +14254,11 @@ stake
 - _v._ [risk](dic://risk), [put on the line](dic://put on the line), [lay on the line](dic://lay on the line), [bet](dic://bet), [wager](dic://wager), [play](dic://play), [mark](dic://mark)
 - **shareholder**股东;
 - _at stake_ 危如累卵；处于危险中；在紧要关头
+	- - 利害攸关：处于危险或风险之中，或者是涉及到重要的利益或结果。
+	- Money is at stake, and also race. /资金和种族是关键问题。
+	- And more is at stake here than individual objects. /这里涉及的不仅仅是单个物体。
+	- The prize **at** **stake** is a place in the final. /这次如果获胜，便能进入决赛。
+	- We cannot afford to take risks when peoples' lives are **at** **stake** /现在人命交关，不容我们有闪失
 - _stake someone to something_ 为某人取得某物而提供金钱(或援助)，资助某人取得某物
 - _equity stake_ 股权
 - _go to the stake_ ◎(被绑在火刑柱上)受火刑;◎为自己的行为或信仰而受苦难;
@@ -14327,13 +14625,19 @@ strip
 - 来自 strip 对词形式或拼写变体。
 - unstripped
 - outstrip
-- [surpass](dic://surpass), [outmatch](dic://outmatch), [outgo](dic://outgo), [exceed](dic://exceed), [outdo](dic://outdo), [surmount](dic://surmount), [outperform](dic://outperform)
-- [outdistance](dic://outdistance), [distance](dic://distance)
-- [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [leave behind](dic://leave behind)
-- **surpass**胜过，优于;**overtake**赶上;**surpassing**无比的, 非凡的, 卓越的, 超群的;**exceed**胜过;**eclipsed**引起日蚀;**outnumber**数量多于;**diminish**使减少;**augment**增加;**demand**要求;**prodigious**巨大的;**foresee**预知;
+	- - vt. 超过；胜过；比……跑得快
+	- [surpass](dic://surpass), [outmatch](dic://outmatch), [outgo](dic://outgo), [exceed](dic://exceed), [outdo](dic://outdo), [surmount](dic://surmount), [outperform](dic://outperform)
+	- [outdistance](dic://outdistance), [distance](dic://distance)
+	- [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [leave behind](dic://leave behind)
+	- **surpass**胜过，优于;**overtake**赶上;**surpassing**无比的, 非凡的, 卓越的, 超群的;**exceed**胜过;**eclipsed**引起日蚀;**outnumber**数量多于;**diminish**使减少;**augment**增加;**demand**要求;**prodigious**巨大的;**foresee**预知;
+	- It would thus remain the pre-eminent power, outstripping China and India. /这样的情况下，美国将继续保持领先地位，超越中国和印度。
+	- Demand for shares from retail investors outstripped supply by 1,148 times. /散户投资者对股票的需求是其供给的1148倍。
+	- This is a new record, and far outstrips spending in other countries. /这是一项新记录，远远将其他国家甩在身后。
+	- He also outstripped all his contemporaries at school and at the Senior National Championships. /在学校他的成绩也是远远超过同龄人，在全国高级锦标赛上也是如此。
 - etc..
 
 strut
+- (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, )
 - n. 高视阔步; 支柱, 撑杆  v. 趾高气扬地走
 - 来自中古英语 strutian,鼓起，膨胀，僵硬的站立，来自 Proto-Germanic*strut,鼓起，膨胀，来自 PIE*ster,僵硬的，生硬的，固定的，词源同 stark,stare,stereo.引申比喻义高视阔步，趾高气扬等。
 - 最终来自 PIE*ster,僵硬的，生硬的，固定的，词源同 stark,stare,stereo.引申词义支杆，支柱。
@@ -14796,6 +15100,27 @@ tether ​​​​
 - at the end of one's tether(rope or leash)山穷水尽。训练鹞鹰要从幼年就开始，脚上绑上绳子（tether ['teðə] n.范围；系链；拴绳，vt.用绳或链拴住），另一端绑在它的栖木（perch）上。不喜束缚的鹞鹰要飞走，每次都被绳子拉回，直到认命。I'm nearly at the end of my tether.我快要山穷水尽了。
 - untether
 
+thaw
+- n. 融解, 融化, 解冻时期  
+- vt. 使融解, 使缓和  
+- vi. 融化, 解冻- 
+-  来自古英语 thawian,来自 Proto-Germanic*thawon,来自 PIE*ta,融化，词源同拉丁语 tabes,融化，腐化。
+-  [melt](dic://melt), [thawing](dic://thawing), [melting](dic://melting)
+- [thawing](dic://thawing), [warming](dic://warming)
+-  [dissolve](dic://dissolve), [unfreeze](dic://unfreeze), [unthaw](dic://unthaw), [dethaw](dic://dethaw), [melt](dic://melt)
+- _n._ [heating](dic://heating), [warming](dic://warming), [phase change](dic://phase change), [phase transition](dic://phase transition), [state change](dic://state change), [physical change](dic://physical change), [weather](dic://weather)
+- _v._ [liquefy](dic://liquefy), [flux](dic://flux), [liquify](dic://liquify)
+- **freeze**僵硬;**frozen**冻结的;**defrost**除霜;**freezing**冰冻的;**freezer**冰箱;**frost**结霜于;**frosty**结霜的，严寒的;**freezes**冻结;**froze**冻结;**melt**熔化，溶解;**icy**冰冷的;
+- _thaw out_ 融化，解冻
+- A thaw has set in /暖流来临了。
+- the cast thawed the audience into real pleasure. /演员们使观众摆脱拘束，真正乐起来。
+- The sun thawed the ice and melted the snow. /阳光下冰消雪融。
+- The little girl's smile thawed the angry old man /小姑娘的微笑使发怒的老头缓和下来。
+- There, said he to his sister, I knew it hadn't thawed any. /“看，我就知道还没有融化呢。”
+- thawy
+- thawless
+- thawing
+
 thief
 - thievishness
 - thievish
@@ -14880,6 +15205,26 @@ throng
 tiara (crown, coronet)
 - _n._ [jewelled headdress](dic://jewelled headdress)
 - **brooch**胸针，领针;**crown**王冠;**jewels**珠宝;**necklace**项链;**headband**头饰带;**wig**假发;**princess**王妃;**gown**长袍，长外衣;**coronation**加冕礼;**sash**肩带;**earrings**耳环;
+
+tingle
+- v. 略感刺痛, 强烈感到  n. 刺痛感; 震颤
+- 1. vi. 感到刺痛；（耳朵等）鸣响
+- vt. 使激动；刺痛
+- n. 刺痛感；激动；鸣响
+- 词源不详，可能来自 tinkle 拼写变体。
+-  [frisson](dic://frisson), [shiver](dic://shiver), [chill](dic://chill), [quiver](dic://quiver), [shudder](dic://shudder), [thrill](dic://thrill)
+-  [prickling](dic://prickling), [tingling](dic://tingling)
+- _n._ [fear](dic://fear), [fearfulness](dic://fearfulness), [fright](dic://fright), [somesthesia](dic://somesthesia), [somaesthesia](dic://somaesthesia), [somatesthesia](dic://somatesthesia), [somatic sensation](dic://somatic sensation)
+- _v._ [itch](dic://itch)
+- **shiver**颤抖，战栗;**sensation**感觉;**ache**疼痛;**jolt**使颠簸;**tremble**战栗;**itch**痒;**tickle**使发痒;**shudder**震动;**numb**使麻木;**trembling**发抖;**clit**阴核;
+- a tingle of anticipation. /激动人心的等待。
+- I tingle where I sat in the nettles. /我坐过在荨麻上的那个部位觉得刺痛。
+- The crowd tingled with excitement. /群众大为兴奋。
+- Shame tingled his cheeks. /羞耻使他的脸上火辣辣的。
+- You feel all your ecological senses tingling. 全身的生态敏感性都会被激活。
+- The hairs on my neck began to tingle /我的颈部寒毛开始震颤地立起。
+- Feeling his spider-sense tingle again, Peter turned and saw the man with the tentacles approaching once more. /蜘蛛感应又传来刺痛感，彼得转身看去，只见触手男再次逼近。
+- 
 
 tit
 - n. 奶头; 山雀; 讨厌鬼, 窝囊废
@@ -15280,6 +15625,7 @@ triumph
 - galumph
 
 troll
+- (troll, scroll, stroll, droll, toll, doll, roll, loll, moll)
 - 1 - 来自古诺斯语 troll,巫师，术士，占卜者，来自 Proto-Germanic*truzla,魔鬼，山精，巨怪，来自 PIE*dra,跑，逃离，可能衍生自 PIE*der,走，跑，踩踏，词源同 trap,tread.参照电影《冰雪女王》。  
 - 2 - 词源不详，可能最终与 troll（山精，巨怪）来自同一词源。词义拖钓受 trawl 等影响。
 - **moron**痴愚者;**idiot**白痴;**hater**怀恨者;**spamming**兜售信息;**bigot**偏执的人;**spammer**垃圾邮件制作者;**hypocrite**伪君子;**bashing**用废矸石充填采空区;**flaming**燃烧的;**rant**咆哮;**uncivil**不文明的;
@@ -15288,17 +15634,33 @@ troll
 - _v._ [circle](dic://circle), [circulate](dic://circulate), [wheel](dic://wheel), [roll](dic://roll), [sing](dic://sing), [angle](dic://angle), [praise](dic://praise)
 - trolling
 - troller
+	- - n. [船][水产]曳绳钓渔船；拖钩渔船；小钓船
 	- [angler](dic://angler)
 	- _n._ [fisherman](dic://fisherman), [fisher](dic://fisher)
 	- **trolling**拖捕的行为;**troll**穴居巨怪，侏儒;**trolls**轮唱;**hater**怀恨者;**fisherman**渔夫, 渔民;**bait**引诱;**moron**痴愚者;
+	- Everyday, thousands of fishing trollers take to our seas, releasing miles and miles of nets to catch fish. /每天，数以千计的拖网渔船在我们的海洋上，放出数英里长的渔网来捕鱼。
+	- If there are no liberals to troll -- you know I've called him troller-in-chief. /如果没有自由主义者可以喷——你知道我称他为喷子头。
+	- 
 trolley
+- n. <英>手推车；<英>（送食品饮料的）小车，台车；<美>有轨电车；无轨电车；电车触轮（与架空电线接触以驱动电车）；有轨缆车，架空缆车；<英>（医院用的）担架车 
+- v. 乘电车；用手推车运
 - **tram**电车轨道;**streetcar**路面电车;**bus**公共汽车;**carousel**旋转木马;**cart**二轮运货马车;**gondola**两头尖的平底船;**wheeled**有轮的;**buses**公共汽车;**rail**横杆;**bicycle**自行车;**carriage**四轮马车;
 - [streetcar](dic://streetcar), [tram](dic://tram), [tramcar](dic://tramcar), [trolley car](dic://trolley car)
+- _trolley car_ n. （美）有轨电车
+- _shopping trolley_ 购物车
+- Oil the trolley, and then it will turn more freely. /给手推车加点油,这样它就能自由运转了。
+- the trolley had a mind of its own /这辆电车好像有想法。
+- Side by side, they pushed the second trolley forward, gathering speed. /他们并排推着手推车向前冲去，速度越来越快。
 - trolleybus
 - trolleyman
 trollop
+-  [slattern](dic://slattern), [slut](dic://slut), [slovenly woman](dic://slovenly woman)
+-  [adulteress](dic://adulteress), [fornicatress](dic://fornicatress), [hussy](dic://hussy), [jade](dic://jade), [loose woman](dic://loose woman), [slut](dic://slut), [strumpet](dic://strumpet)
 - **whore**卖淫，娼妓;**slut**懒妇;**bitch**母狗，母狼;**prostitute**娼妓;**twat**笨蛋;**hottie**热水瓶;**cunt**女性阴部;**mistress**情妇;**bastard**私生的;**hooker**扭夺时的中心选手;**moron**痴愚者;
 - [slob](dic://slob), [sloven](dic://sloven), [pig](dic://pig), [slovenly person](dic://slovenly person), [adulterer](dic://adulterer), [fornicator](dic://fornicator)
+- And while I may endure a trollop for a wife, I won't endure a coward. /我可以忍受自己的老婆当娼妇，可不能忍受一个胆小鬼。
+- ' And Mum and Dad would leap on the topic gratefully, remarking that she was a trollop or had nice hair or that she was no better than she should be. /’然后妈妈和爸爸会感激地跳到这个话题上，说她是个流浪汉， 或者说她的头发很漂亮， 或者说她没有达到应有的水平。
+- 
 - trollopy
 
 trombone
@@ -15321,6 +15683,22 @@ troth
 - betrothed
 - betrothal
 	- **marriage**结婚;**marry**娶;**bride**新娘;**courtship**求爱;**marrying**证婚;**wed**结婚;**coronation**加冕礼;**wedding**结婚;**vows**婚誓;**prince**王子，国君;**consecration**奉献;
+
+trough
+- [gutter](dic://gutter)
+- [bowl](dic://bowl)
+- [public treasury](dic://public treasury), [till](dic://till)
+- [manger](dic://manger)
+- _n._ [natural depression](dic://natural depression), [depression](dic://depression), [channel](dic://channel), [concave shape](dic://concave shape), [concavity](dic://concavity), [incurvation](dic://incurvation), [incurvature](dic://incurvature)
+- **ridge**山脉;**through**穿过;**feed**喂养;**feeding**饲养;**fed**饲养;
+- _water trough_ 水槽；饮水槽
+- _wave trough_ 波谷
+- As the wave bore down on us, the trough deepened. /当波涛向我们压来时, 波谷加深了。
+- An eave trough used to convey rainwater from the roof to the downspout. /用于传输屋顶的雨水到落水管檐沟。
+- The last Nankai Trough quake was off Shikoku in 1946. /上一次的南开海槽地震发生在1946年的四国岛附近。
+- The lamp still stood upon the floor where I had placed it when examining the trough. /灯还在地板上，是我检查铁槽时放在那里的。
+- The proportion of working-age people with jobs is lower than in the **trough** of the recession. /适龄劳动人口的就业比例还是低于经济衰退低谷时的比例。
+- The business cycle is a series of peaks and troughs. /商业周期是一系列的高峰期和低谷期。
 
 troupe
 - n. 团, 班, 一伙  vi. 巡回演出

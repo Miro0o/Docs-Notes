@@ -34,13 +34,14 @@
 	1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
 	2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
 	3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
-	4. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
-	5. vt. 痛打；不断辱骂和嘲弄；唠叨
-	6. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
-	7. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
-	8. there is no need to belabour the point. /没有必要对这一点多费口舌。
-	9. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
-	10. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
+	4. 
+	5. be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。
+	6. vt. 痛打；不断辱骂和嘲弄；唠叨
+	7. _v._ [work at](dic://work at), [work on](dic://work on), [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize)
+	8. **reiterate**反复地说,重申;**emphasise**强调;**quibble**谬论;**digress**离题;**misunderstand**误会, 误解;**bother**烦扰，打扰;**criticise**批评;**point**要点;**concede**承认;**presume**假定;**argue**争论，辩论;
+	9. there is no need to belabour the point. /没有必要对这一点多费口舌。
+	10. Bernard was belabouring Jed with his fists. /伯纳德正用拳打杰德。
+	11. For example: " I know I arrived late but if you're going to belabour that fact, then I'll just go home again" . /“我知道我迟到了，但如果你要大谈特谈这个事实，那我还是回家吧。”
 3. collaborate
 	1. collaboratory
 	2. collaborator

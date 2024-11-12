@@ -153,18 +153,34 @@
 			2. [modality](dic://modality), [sense modality](dic://sense modality), [sensory system](dic://sensory system), [exteroception](dic://exteroception)
 		5. etc..
 	4. ozone
-		1. etc..
-	5. redolent
+		1. n. 新鲜的空气, 臭氧, 使人愉快的影响
+		2.  来自希腊语 ozein,闻，嗅，散发气味，来自 PIE*od,词源同 odor,olfactory.-one,化学名词后缀。字母 d,z 音变，比较 Zeus,deus(拉丁语，神).
+		3. _n._ [gas](dic://gas)
+		4. **pollutant**污染物质;**pollutants**污染物质;**pollution**污染, 弄脏;**aerosol**喷雾器;**CO2**二氧化碳;**aerosols**气溶胶，喷雾器;**vapor**蒸汽;**methane**甲烷;**ammonia**氨，阿摩尼亚;**chlorine**氯;**smog**烟雾;
+		5. _ozone layer_ 【气】臭氧层
+		6. _ozone generator_ 臭氧发生器
+		7. _ozone hole_ 臭氧层空洞（等于ozone low）
+		8. _ozone depletion_ 臭氧消耗；臭氧枯竭
+		9. _atmospheric ozone_ 大气臭氧
+		10. _ozone resistance_ 耐臭氧；抗臭氧性
+		11. _ozone treatment_ 臭氧处理
+		12. Just breathe in the ozone on the sea. /Just breathe in the ozone on the sea.
+		13. a chemical implicated in ozone depletion. /对臭氧损耗负有一定责任的一种化学品。
+		14. ozone readings edged into the red zone. /臭氧读数接近了红色区。
+		15. Next, a dryer-like tumbler uses ozone to fade jeans. /接下来，一个干式滚筒利用臭氧使牛仔裤褪色。
+		16. 
+		17. etc..
+	13. redolent
 		1. **reminiscent**提醒的, 暗示的;**evocative**引起…记忆的, 唤起…感情的;**pungent**刺激性的;**whiff**喷出;**heady**易使人醉〔发晕〕的;**steeped**充满…的;**replete**充满的;**awash**被浪冲打的;**tinged**淡色的;**evoke**引起，唤起;**earthy**土的;
 		2. [mindful](dic://mindful), [aware](dic://aware), [odorous](dic://odorous), [fragrant](dic://fragrant)
 		3. [unmindful](dic://unmindful), [forgetful](dic://forgetful), [mindless](dic://mindless), [odorless](dic://odorless), [odourless](dic://odourless), [inodorous](dic://inodorous), [malodorous](dic://malodorous)
 		4. redolence, redolency
 		5. **aroma**芳香;**pungent**刺激性的;**scent**气味;**whiff**喷出;**stench**恶臭;**smell**嗅，闻;**fragrant**芳香的;**smelling**嗅诊;**fragrance**香味;**scents**气味;**aromatic**芳香的，芬芳的;
 		6. [olfactory property](dic://olfactory property), [smell](dic://smell), [aroma](dic://aroma), [odor](dic://odor), [odour](dic://odour), [scent](dic://scent)
-2. **osm-** = 表示化学元素“锇”，来自词根 osm- 嗅觉，因其强烈气味得名。源自希腊语 osme "smell, scent, odor"
+10. **osm-** = 表示化学元素“锇”，来自词根 osm- 嗅觉，因其强烈气味得名。源自希腊语 osme "smell, scent, odor"
 	1. osmic
 	2. osmium
-3. **osm-, osmo-** = 表示“嗅觉”。源自希腊语 osme "smell, scent, odor"
+11. **osm-, osmo-** = 表示“嗅觉”。源自希腊语 osme "smell, scent, odor"
 	1. anosmia
 
 #### + \*od- (2) + = to hate
@@ -286,10 +302,11 @@
 	4. xerophthalmia
 3. **ops-, opt-, opto-** = sight, 表示“视力，眼睛”。源自希腊语 ops "eye."
 	1. optometer
-		1. optometrist
-		2. optometry
-	2. achromatopsia
-	3. autopsy
+		1. n. 视力计, 视力检定装置
+		2. optometrist
+		3. optometry
+	3. achromatopsia
+	4. autopsy
 		1. necropsy ['nekrɒpsɪ] n.验尸，autopsy ['ɔːtɒpsɪ] n.验尸。二者意思接近，什么区别？necropsy侧重于对死亡牲畜等的解刨，要了解死因，词根necro-表death，如词汇necrosis坏疽，-osis后缀表disease。而autopsy侧重对人尸体的解刨，有科学需要也有司法用途，auto-表self，强调了要“亲自检验”。
 		2. [necropsy](dic://necropsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
 		3. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
@@ -302,6 +319,7 @@
 		2. _n._ [diagnostic test](dic://diagnostic test), [diagnostic assay](dic://diagnostic assay)
 		3. **lesion**损害;**tumor**肿瘤;**cyst**胞,包囊,膀胱;**resection**切除术;**tumour**肿瘤;**diagnosis**诊断;**MRI**核磁共振成像;**gallbladder**胆囊;**ultrasound**超音，超声波;**tumors**肿瘤;**nodules**小瘤;
 	6. diopter
+		1. n. 屈光度, 折光度
 	7. dioptric, dioptrics
 	8. erythropsia
 	9. necropsy
@@ -309,6 +327,8 @@
 		2. [autopsy](dic://autopsy), [postmortem](dic://postmortem), [post-mortem](dic://post-mortem), [PM](dic://PM), [postmortem examination](dic://postmortem examination), [post-mortem examination](dic://post-mortem examination)
 		3. _n._ [examination](dic://examination), [scrutiny](dic://scrutiny)
 		4. **autopsy**验尸;**veterinarian**兽医;**carcass**尸体;**coroner**验尸官;**pathologist**病理学者;**histological**组织学的;**dissection**解剖，切开;**vet**诊疗;**biopsy**活组织检查;**rabies**狂犬病，恐水病;**toxicology**毒物学;
+		5. So we arrived and examined the animal for a necropsy. /我们赶到那，对莫伊进行了尸体剖检。
+		6. Without the full **necropsy** it is impossible to know whether Macho b's death was related to his being snared. /在进行完整的尸检之前，几乎无从知晓马乔b的死是否与其落入陷阱有关。
 	10. optic, optics
 		1.  [eye](dic://eye), [oculus](dic://oculus)
 		2.  [ocular](dic://ocular), [optical](dic://optical), [opthalmic](dic://opthalmic)
@@ -378,7 +398,7 @@
 		2. **unsightly**不悦目的;**nuisance**讨厌的东西;**unattractive**不吸引人的;**dilapidated**破旧的;**ugly**丑陋的;**hideous**可怕的;**disrepair**失修,破损;**blight**枯萎病;**derelict**玩忽职守的;**overgrown**长得很快;**redevelopment**恢复经济发展,重点恢复;
 		3. _n._ [ugliness](dic://ugliness)
 	7. etc.
-6. ogle
+6. ogle [美 /ˈoʊɡl/](cmd://Speak/_us_/ogle)
 	1. _v._ [look](dic://look)
 	2. **peruse**详细考察;**drool**流口水;**admiring**赞赏的，羡慕的;**stare**凝视，盯着看;**flaunt**炫耀;**wander**徘徊;**topless**上空的;**revel**狂欢;**naked**裸体的;**swoon**昏晕;**indulge**迁就;
 	3. He ogled at all the attractive girls in the office 他向办公室里所有有魅力的女孩暗送秋波。
@@ -408,12 +428,23 @@
 
 
 ## om
-### omin- = omen, 表示“预兆”。
-1. abominate
-	1. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**despised**受轻视的;**likewise**也;**shun**避开, 回避, 避免;**indubitably**无疑地;**vile**卑鄙的;**relish**获得乐趣;**distasteful**使人不愉快的;**doubtless**无疑地, 肯定地;**moreover**此外;
-	2. _v._ [hate](dic://hate), [detest](dic://detest)
-	3. _[detest abhor abominate be disgusted](dic://detest%20abhor%20abominate%20be%20disgusted)_ 讨厌
-	4. 1. they abominated the very idea of monarchy 他们对君主制思想深恶痛绝。
+### omin- = omen,  表示“预兆”。
+1. abominate (animadversion)
+	1. ab-离开 + omin-预兆 + -ate, 表动词 → 没有预兆突然发生的事很让人厌恶。
+	2. abomination（憎恶）：厌恶和躲避不祥之物的迷信做法  
+	3. 古罗马人在采取任何重大行动前，都会首先进行占卜，请示神灵的意见。他们相信神灵会通过一些征兆（omen）来表达旨意。如果出现的是凶兆，他们自然会非常失望。因此，人们对那些带来凶兆的事物非常厌恶，会想尽各种办法远离这类事物。英语单词abomination就源自古罗马人对不祥之物的厌恶和躲避，它由ab（away，远离）+omin（omen,征兆）+ation（后缀）构成，原始含义就是“远离不祥之兆”，表示的是对不祥之物的憎恶。随着时间推移，它的宗教迷信含义逐渐淡化，可用来表示对各种事物的憎恶。而动词abominate其实是从它反向衍生出来的。  
+	4. abomination：[əbɒmɪ'neɪʃ(ə)n] n.憎恶，憎恨，令人讨厌的事物  
+	5. abominate：[ə'bɒmɪneɪt] vt.憎恶，痛恨  
+	6. abominable：[ə'bɒm(ə)nəb(ə)l] adj.令人憎恶的，讨厌的，可恶的  
+	7. omen：['omən] n. 预兆；征兆vt. 预示；有…的前兆；预告  
+	8. ominous：['ɑmɪnəs]  adj. 预兆的；不吉利的
+	9. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**despised**受轻视的;**likewise**也;**shun**避开, 回避, 避免;**indubitably**无疑地;**vile**卑鄙的;**relish**获得乐趣;**distasteful**使人不愉快的;**doubtless**无疑地, 肯定地;**moreover**此外;
+	10. _v._ [hate](dic://hate), [detest](dic://detest)
+	11. _[detest abhor abominate be disgusted](dic://detest%20abhor%20abominate%20be%20disgusted)_ 讨厌
+	12. 1. they abominated the very idea of monarchy 他们对君主制思想深恶痛绝。
+	13. All the teachers abominate cheating in examinations. /所有教师都憎恶考试作弊。
+	14. He professed both to abominate and despise all mystery, refinement, and intrigue, either in a prince or a minister. /他公开表示厌恶和蔑视王子或大臣的一切神秘、文雅和阴谋诡计。
+	15. For my part, I abominate all honorable respectable toils, trials, and tribulations of every kind whatsoever. It is quite as much as I can do to take care of myself, without taking care of ships, barques, brigs, schooners, and what not. /拿我来说，一切尊贵的、叫人敬重的劳动、考验和折磨，都使我乏味。能够照顾自己已经够我费事了，怎能管得了什么大船，三桅船，两桅方帆船，纵帆式小桅船等等？
 2. abominable
 3. ominous
 	1. [baleful](dic://baleful), [forbidding](dic://forbidding), [menacing](dic://menacing), [minacious](dic://minacious), [minatory](dic://minatory), [sinister](dic://sinister), [threatening](dic://threatening) 
@@ -557,13 +588,28 @@
 		11. Furthermore, in some cases after a sufficient period of good behavior, rise forbearance can to exoneration and full forgiveness. /而且，有时候经过足够长时间的优秀表现，宽容会变为免责和完全原谅。
 		12. We should be fighting for total exoneration. /我们应该争取无罪释放。
 		13. 
-3. onerous (ominous)
+3. onerous (ominous) [美 /ˈoʊnərəs/](cmd://Speak/_us_/onerous)
 	1. **burdensome**繁重的,烦累的,难以承担的;**cumbersome**笨重的;**arduous**费力的;**time-consuming**耗费时间的;**tedious**冗长乏味的;**costly**昂贵的;**laborious**勤劳的;**burdened**负荷的;**daunting**使人畏缩的;**prohibitive**禁止的;**draconian**非常严厉的;
-4. onus
-	1. 1 - 来自拉丁语 onus,责任，重担，来自 PIE*en,担子，可能来自 PIE*an,在上面，词源同 on.
-	2. **burden**负担;**blame**责备;**responsibility**责任;**squarely**直角地;**insist**坚持，强调;**presumption**推测;**emphasis**强调;**proof**证明;**prove**证明;**reliance**信心;**put**放;
-	3. [concern](dic://concern), [worry](dic://worry), [headache](dic://headache), [vexation](dic://vexation)
-	4. [burden](dic://burden), [load](dic://load), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance)
+	2. My household duties were not particularly onerous. /我的家务活并不繁重。
+	3. Indeed, some AIG shareholders are suing the federal government over the bail-out's onerous terms. /事实上，因为救援案中的许多苛刻的条款，一些美国国际集团的股东准备将联邦政府告上法庭。
+	4. It said the treaty would be too onerous, particularly the parts regulating working hours and health and safety. /他们认为这项条约太过苛刻，特别是那些涉及工作时间和健康安全方面的规定。
+4. onus (liabilitys)
+	1. - n. 责任，义务；负担
+	2. 1 - 来自拉丁语 onus,责任，重担，来自 PIE*en,担子，可能来自 PIE*an,在上面，词源同 on.
+	3. **burden**负担;**blame**责备;**responsibility**责任;**squarely**直角地;**insist**坚持，强调;**presumption**推测;**emphasis**强调;**proof**证明;**prove**证明;**reliance**信心;**put**放;
+	4. [concern](dic://concern), [worry](dic://worry), [headache](dic://headache), [vexation](dic://vexation)
+	5. [burden](dic://burden), [load](dic://load), [encumbrance](dic://encumbrance), [incumbrance](dic://incumbrance)
+	6. _onus probandi_ （拉）举证责任
+		1. - 举证责任：在法律诉讼中，一方需要证明其主张的事实或证据的责任。
+		2. Enhancing the party's **onus** **probandi** has been the common understanding of the law and judicial circle in our country. /强化当事人举证责任已成为我国法学理论和司法实务界的共识。
+		3. 
+	7. _onus of proof_ 举证责任
+	8. The onus was on the defense attorney. /麻烦出在辨方律师
+	9. The onus of proof lies with you /你有责任提供证据。
+	10. But this is absolutely not to place the onus back on climate vulnerable developing countries /但是这绝不是要将责任推向受气候变化影响严重的 脆弱的发展中国家。
+	11. The onus is now on every one of us in this House to find out what that is. /下议院每一个人都有责任去找寻它。
+	12. But that's really to put the onus on the museum to prove that these objects are genuine. /但这实际上是让博物馆有责任证明这些物品是真实的。
+	13. As a result, the onus of social mobility has shifted on to the individual. /结果， 社会流动的责任已经转移到个人身上。
 
 
 ### + \*ongw- +
@@ -582,7 +628,7 @@
 		1. _n._ [anointing](dic://anointing), [anointment](dic://anointment), [religious ceremony](dic://religious ceremony), [religious ritual](dic://religious ritual)
 		2. - n. 涂擦；涂油；软膏
 	3. ointment
-	4. unction
+	4. unction [美 /'ʌŋkʃən/](cmd://Speak/_us_/unction)
 		1.  [smarm](dic://smarm), [fulsomeness](dic://fulsomeness)
 		2.  [fulsomeness](dic://fulsomeness), [oiliness](dic://oiliness), [oleaginousness](dic://oleaginousness), [smarminess](dic://smarminess), [unctuousness](dic://unctuousness)
 		3.  [ointment](dic://ointment), [unguent](dic://unguent), [balm](dic://balm), [salve](dic://salve)
@@ -604,7 +650,7 @@
 		9. It's fruity and spiced and sweet, but also unctuous. /它有水果味、香料味和甜味，但也不油腻。
 		10. His voice was rather deep and unctuous. /他的声音相当低沉和油腻。
 		11. And it kinda goes really toffee-like, really unctuous, really scrumptious, and it's amazing. /香蕉会变得像太妃糖一样，非常香醇浓厚，美味至极。
-	6. unguent
+	6. unguent [美 /'ʌŋgwənt/](cmd://Speak/_us_/unguent)
 		1. [ointment](dic://ointment), [unction](dic://unction), [balm](dic://balm), [salve](dic://salve)
 		2. _n._ [remedy](dic://remedy), [curative](dic://curative), [cure](dic://cure), [therapeutic](dic://therapeutic)
 		3. **ointment**油膏;**potion**一剂;**incense**香;**potions**药剂，药水;**balm**香油;**concoction**混合;**lotion**洗液;**lotions**洗液;**perfume**香水;**perfumes**香料;**anointed**涂油于…;
@@ -636,18 +682,31 @@
 	1. omnibus
 	2. omnicompetent
 	3. omnidirectional
-	4. omnifarious
-	5. omnificent
-	6. omniparity
-	7. omnipotence
+	4. omnifarious (multifarious, omnifarious, assorted, varied, motley, sundry, miscellaneous, heterogeneous, myriad, )
+		1. - adj. 五花八门的；多方面的；各种各样的
+		2. _adj._ [varied](dic://varied)
+		3. And I found that the tourism department is an **omnifarious** learning environment /然后我发现世新大学的观光学系有个多元化的学习环境。
+		4. The causes are **omnifarious**, continuous consideration and putting forward countermeasures to solve the problems are needed. /其原因是多方面的，需要不断思考，提出解决问题的对策。
+	6. omnificent
+	7. omniparity
+	8. omnipotence
 		1. omnipotent
-	8. omnipresent
+	9. omnipresent
 		1. [ubiquitous](dic://ubiquitous)
 		2. **ubiquitous**普遍存在的;**ever-present**经常存在的;**pervasive**普遍的;**inescapable**不可避免的, 逃避不了的;**omnipotent**全能的;**invisible**看不见的;**everywhere**处处, 到处;**presence**出席;**faceless**无个性的;**incessant**不停的, 持续不断的;**commonplace**平凡的;
 		3. omnipresence
 	10. omnirange
 	11. omniscience
 		1. omniscient
+			1. omni-全，总 + sci-知道，知晓 + -ent表形容词 . 引申词义全能的。
+			2. a. 全知的, 无所不知的  
+			3. n. 无所不知者, 上帝
+			4. _adj._ [wise](dic://wise)
+			5. _n._ [foolish](dic://foolish)
+			6. **omnipotent**全能的;**infallible**绝无错误的;**narrator**叙述者;**benevolent**好心肠的;**deity**神;**universe**宇宙;**protagonist**主角;**merciful**仁慈的;**transcendent**卓越的;**god**神;**divine**神圣的;
+			7. an omniscient deity; the omniscient narrator. /无所不知的神灵；全知的叙述者
+			8. God cannot be glamorous because God is omnipotent, omniscient too far above us./ 上帝不能带有这种特质因为他无所不能，无所不知。这一切都使得我们只能敬畏之。
+			9. 
 	12. omnitude
 	13. omnium-gatherum
 	14. omnivore

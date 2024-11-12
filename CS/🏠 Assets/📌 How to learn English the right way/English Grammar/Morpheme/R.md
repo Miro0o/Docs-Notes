@@ -2027,6 +2027,10 @@
 		2. corroborate
 			1. _v._ [confirm](dic://confirm), [reassert](dic://reassert), [match](dic://match), [fit](dic://fit), [correspond](dic://correspond), [check](dic://check), [jibe](dic://jibe)
 			2. **substantiate**用事实支持;**refute**反驳，驳斥;**contradict**矛盾;**confirm**确认;**disprove**反驳，证明…是虚假的;**evidence**证据，证明;**verify**核实;**validate**确认;**infer**推断;**veracity**诚实;**eyewitness**目击者;
+			3. the witness had corroborated the boy's account of the attack. /目击者证实了男孩对袭击的陈述。
+			4. How extensive was the fragment? Who was the papyrologist? Had the dating been corroborated by others? /片段的范围有多大？谁是纸稿专家？日期是否得到了其他人的证实？
+			5. He looked at me anxiously as if he hoped I'd corroborate this. /他神色不安地看着我，仿佛希望我证实他的话。
+			6. Our findings **corroborate** the view that the lodicules of grasses are homologous to eudicot petal /本研究还证明了禾本科植物的浆片和双子叶植物中花瓣是同源器官的观点。
 		3. uncorroborated, corroborator, corroborative
 		4. corroboration
 	3. roborant
@@ -2072,6 +2076,8 @@
 			2. _adj._ [healthy](dic://healthy)
 			3. _n._ [unhealthy](dic://unhealthy)
 			4. **plump**丰满的;**countenance**面容，表情;**jolly**愉快的;**fleshy**肉的;**healthful**有益健康的;**splendid**辉煌的;**crimson**深红;**rosy**蔷薇色的，玫瑰红色的;**bosom**胸;**pale**苍白的;**slender**微薄的;
+			5. Passepartout, usually so rubicund, was fairly white with suspense /路路通因为过分激动，一向红润的面孔都气得发白了。
+			6. He was a rubicund, stoutish man, who affected the rough-and-ready language of the barracks, and his austere, cadaverous vicar general was always on pins and needles lest he should say something scandalous. /他是一个红润、结实的人， 他影响了军营粗犷而准备好的语言， 而他那严肃、苍白的代理将军总是如坐针毡， 唯恐他说出一些可耻的话。
 		5. rubidium
 		6. rubify
 		7. rubiginous
@@ -2093,12 +2099,34 @@
 	2. _n._ [iron ore](dic://iron ore)
 	3. _v._ [weave](dic://weave), [interweave](dic://interweave), [redden](dic://redden)
 9. ruddock
+	1. - n. <英，方>红鸫，欧洲知更鸟
 10. ruddy
 	1.  [rubicund](dic://rubicund), [florid](dic://florid), [sanguine](dic://sanguine)
 	2. [red](dic://red), [reddish](dic://reddish), [blood-red](dic://blood-red), [carmine](dic://carmine), [cerise](dic://cerise), [cherry](dic://cherry), [cherry-red](dic://cherry-red), [crimson](dic://crimson), [ruby](dic://ruby), [ruby-red](dic://ruby-red), [scarlet](dic://scarlet)
 	3. **pale**苍白的;**reddish**微红的;**crimson**深红;**greenish**呈绿色的;**silvery**似银的，银色的;**complexion**面色;**yellowish**微黄色的;**plump**丰满的;**jolly**愉快的;**blond**金发的;**rosy**蔷薇色的，玫瑰红色的;
+	4. a cheerful pipe-smoking man of ruddy complexion. /一个快乐的脸色红润的抽烟者。
+	5. That young man has a ruddy face. /那个年轻人脸色红润。
+	6. That hunter has a ruddy face because he is outdoors so much /那个猎人脸色红润,因为他长期待在户外。
+	7. Her grandfather is a jovial, ruddy-faced old gentleman. /她的教父是一位脸色红润的幽默老绅士。
+	8. They rob you blind and then throw you a ruddy sailor! /他们会把你眼睛蒙上绑走，扔给个大老粗水手！
+	9. " Who are all these ruddy owls from? " he growled. /“这些讨厌透顶的猫头鹰是谁派来的？”他凶狠地吼道。
+	10. What do you mean there's no ruddy car? -He went to Waterloo, I'm sorry. /你说没辆破车(来接我)是啥意思？-抱歉，他开车去了滑铁卢。
 11. rust
-12. 
+	1. [rusting](dic://rusting)
+	2.  [rust fungus](dic://rust fungus)
+	3.  [corrode](dic://corrode)
+	4.  [corrode](dic://corrode), [eat](dic://eat)
+	5.  [rusty](dic://rusty), [rust-brown](dic://rust-brown)
+	6. _n._ [ferric oxide](dic://ferric oxide), [plant disease](dic://plant disease), [corrosion](dic://corrosion), [corroding](dic://corroding), [erosion](dic://erosion), [oxidation](dic://oxidation), [oxidization](dic://oxidization)
+	7. _v._ [decay](dic://decay), [crumble](dic://crumble), [delapidate](dic://delapidate), [damage](dic://damage), [oxidise](dic://oxidise), [oxidize](dic://oxidize), [oxidate](dic://oxidate)
+	8. _adj._ [chromatic](dic://chromatic)
+	9. _n._ [achromatic](dic://achromatic)
+	10. **corrosion**腐蚀;**rusty**生锈的，腐蚀的;**mildew**霉;**discoloration**变色,污点;**patina**铜绿;**dents**花边边饰;**rot**腐烂;**stain**沾污;**weathering**风化;**dirt**污垢，泥土;**paint**油漆;
+	11. The rain will rust the iron roof. /雨水会使铁皮屋顶生锈。
+	12. As rust is to iron,so is laziness to man /懒惰对于人好比铁生了锈。
+	13. a pipe clogged by rust buildup. /被锈死的活塞
+	14. They found rust. Do you know what rust does to a boat? /生锈了，你知道生锈会怎样？
+
 
 
 ### + \*reue- +
@@ -2163,18 +2191,24 @@
 	2. rural
 		1. a. 乡下的, 田园的, 乡村风味的
 		2.  来自拉丁语 ruralis,乡村的，来自 rus,开阔地，乡村，来自 PIE*reue,展开，词源同 room,rustic.
-		3. ruralize
+		3. a rural community. /乡村社区。
+		4. a sleepy rural town. /安静的乡间城镇
+		5. the spread of the urban population into rural areas. /城市人口向乡村地区扩张。
+		6. Compared with urban transportation, rural transportation has experienced even bigger changes. /和城市交通相比，农村交通更是发生了翻天覆地的变化。
+		7. Like chickens, mini farm animals appeal to beginners who want to try a rural lifestyle. /像鸡一样，迷你农场动物吸引了想要尝试乡村生活方式的初学者。
+		8. ruralize
 			1. vt. 使成田园风味, 使农村化  
 			2. vi. 在农村生活
-		4. rurality
-		5. ruralist
-		6. ruralism
+		9. rurality
+		10. ruralist
+		11. ruralism
 	3. roister
 		1. vi. 大摇大摆, 摆架子, 喧闹, 闹饮
 		2. roisterous
 			1. a. 作威作福的, 饮酒取乐的
 			2. roister【摆架子, 喧闹】 + -ous表形容词，是单词roister 派生的形容词。
 		3. roisterer
+
 
 
 ## rh
