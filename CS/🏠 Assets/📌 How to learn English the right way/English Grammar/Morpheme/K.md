@@ -3882,8 +3882,15 @@
 		1. _[circumvolve](dic://circumvolve)_  vi. 旋转；盘绕; vt. 使…盘旋而转;
 2. **coron-, coroll-** = wreath, crown, 表示“花环，花冠”。源自希腊语 koronos "curved."
 	1. corollary
-		1. _n._ [consequence](dic://consequence), [aftermath](dic://aftermath), [inference](dic://inference), [illation](dic://illation)
-		2. **implication**暗示;**axiom**公理;**consequence**结果, 后果;**principle**原理;**caveat**警告;**notion**概念;**assumption**假定, 臆断;**contradiction**矛盾;**fallacy**谬论，谬误;**self-evident**不证自明的;**analogy**类似;
+		1. corollary [kə'rɒlərɪ] n.推论；必然的结果。这个单词逻辑学上常用，指前一个陈述所自然引发的后一个结论。字面意为“a littlegarland一个小花环”，词根本意是弯曲（因为花环可戴在头上或脖颈上）。逻辑含义大体为：买了花费较多的花篮后，店主因此情愿奉送一个较之花篮不值钱的花环
+		2. n. 必然的结果, 系, 推论
+		3. _n._ [consequence](dic://consequence), [aftermath](dic://aftermath), [inference](dic://inference), [illation](dic://illation)
+		4. **implication**暗示;**axiom**公理;**consequence**结果, 后果;**principle**原理;**caveat**警告;**notion**概念;**assumption**假定, 臆断;**contradiction**矛盾;**fallacy**谬论，谬误;**self-evident**不证自明的;**analogy**类似;
+		5. the huge increases in unemployment were the corollary of expenditure cuts. /失业人数大大增加是减少支出的必然结果。
+		6. Perhaps restlessness is a necessary corollary of devoted literacy /也许要真正学会读写本领，就必须如此不安分。
+		7. But the corollary of better performance is higher pay. /但更好成绩的必然结果是更高的薪水。
+		8. These secular rituals have deep religious roots and ancient corollaries, meant to prompt reflection by bringing appetites to heel. /这些世俗的仪式有着深厚的宗教根源和古老的必然结果，目的是为了通过使欲望屈服来促进反思。
+		9. 
 	2. coronach
 		4.  [dirge](dic://dirge), [lament](dic://lament), [requiem](dic://requiem), [threnody](dic://threnody)
 		5. _n._ [song](dic://song), [vocal](dic://vocal)
@@ -3907,32 +3914,48 @@
 		2. **Camry**凯美瑞;**petal**花瓣;**hatchback**装有向上开的后车门的小轿车;**petals**花瓣;**lobes**耳垂;**Toyota**日本丰田汽车;**sedan**轿车;**ovary**子房;**co**
 		3. corollaceous
 	7. coronal
-		1.  [wreath](dic://wreath), [garland](dic://garland), [chaplet](dic://chaplet), [lei](dic://lei)
-		2. _n._ [flower arrangement](dic://flower arrangement)
-		3. **anterior**前面的;**cortical**皮质的;**apical**顶上的, 顶点的;**cranial**头盖的;**dorsal**背的，背侧的;**transverse**横向的;**axial**轴的;**posterior**(在时间;**annular**环形的，有环纹的;**nuclei**核心，核子;**frontal**正面的，前面的;
-		4. pericoronal
-		5. intracoronal
-	8. coronary
-		1. _n._ [thrombosis](dic://thrombosis)
-		2. _adj._ [corona](dic://corona)
-		3. **cardiac**心脏的;**myocardial**心肌的;**cardiovascular**心血管的;**aortic**大动脉的;**ischemic**缺血性的;**carotid**颈动脉的;**vascular**血管的;**atherosclerosis**动脉粥样硬化;**thrombosis**血栓形成;**artery**动脉;**pulmonary**肺的,肺部的;
-		4. coronoid
+		1. n. 冠, 花冠, 冠状物  a. 冠的, 花冠的, 头顶的
+		2.  [wreath](dic://wreath), [garland](dic://garland), [chaplet](dic://chaplet), [lei](dic://lei)
+		3. _n._ [flower arrangement](dic://flower arrangement)
+		4. **anterior**前面的;**cortical**皮质的;**apical**顶上的, 顶点的;**cranial**头盖的;**dorsal**背的，背侧的;**transverse**横向的;**axial**轴的;**posterior**(在时间;**annular**环形的，有环纹的;**nuclei**核心，核子;**frontal**正面的，前面的;
+		5. pericoronal
+		6. intracoronal
+	9. coronary
+		1. a. 冠的, 花冠的, 冠状的
+		2. _n._ [thrombosis](dic://thrombosis)
+		3. _adj._ [corona](dic://corona)
+		4. **cardiac**心脏的;**myocardial**心肌的;**cardiovascular**心血管的;**aortic**大动脉的;**ischemic**缺血性的;**carotid**颈动脉的;**vascular**血管的;**atherosclerosis**动脉粥样硬化;**thrombosis**血栓形成;**artery**动脉;**pulmonary**肺的,肺部的;
+		5. _coronary heart disease_ 冠心病
+		6. _coronary artery disease_ 冠状动脉疾病
+		7. coronary thrombosis was the immediate cause of death. /冠状动脉血栓是死亡的直接原因。
+		8. She suffered from coronary heart disease and gall stones. /她本人也患有冠心病和胆结石。
+		9. coronoid
 			1. _[coronoid](dic://coronoid)_  adj. 冠状的；喙状的
 			2. _[coronoid process](dic://coronoid%20process)_  [解剖] 冠突；[解剖] 喙突
 			3. _[coronoid fossa](dic://coronoid%20fossa)_  [解剖] 冠突窝
-	9. coroner
+	11. coroner
 		5. _n._ [investigator](dic://investigator)
 		6. **inquest**审讯;**autopsy**验尸;**sheriff**州长;**examiner**主考人;**prosecutor**检举人;**magistrate**地方法官, 治安官;**pathologist**病理学者;**police**警察，警方;**toxicology**毒物学;**deputy**代理人，代表;**homicide**杀人;
-	10. cornice, corniced
-		1.  [valance](dic://valance), [valance board](dic://valance board), [pelmet](dic://pelmet)
-		2. _n._ [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [molding](dic://molding), [moulding](dic://moulding), [projection](dic://projection)
-		3. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
-		4. **gable**山形墙;**facade**正面;**stucco**粉饰，粉刷;**mantel**壁炉架;**staircase**楼梯;**facades**外立面;**ornate**华丽的;**arched**有拱的;**stair**楼梯，阶梯;**nave**中殿;**chancel**高坛;
-	11. coronavirus
-	12. coronate, coronation
+	12. cornice
+		1. n. 檐口  vt. 给...装檐口
+		2. 1 - 词源可能同 crown,花冠，因形似花冠而得名。
+		3.  [valance](dic://valance), [valance board](dic://valance board), [pelmet](dic://pelmet)
+		4. _n._ [framework](dic://framework), [frame](dic://frame), [framing](dic://framing), [molding](dic://molding), [moulding](dic://moulding), [projection](dic://projection)
+		5. _v._ [supply](dic://supply), [provide](dic://provide), [render](dic://render), [furnish](dic://furnish)
+		6. **gable**山形墙;**facade**正面;**stucco**粉饰，粉刷;**mantel**壁炉架;**staircase**楼梯;**facades**外立面;**ornate**华丽的;**arched**有拱的;**stair**楼梯，阶梯;**nave**中殿;**chancel**高坛;
+		7. I could dimly see a gilt cornice and vaulted plaster above /我可以隐约看到镀金的檐口和上面的拱形石膏。
+		8. And such a heavy cornice round the room! ' /房间周围还有这么重的檐口！
+		9. She loved the gracefully high ceiling, with its white-painted **cornice**. /她喜欢那雅致的、檐口被漆成白色的高高的天花板。
+		10. Can you show me the part of **cornice** on the drawing? /你能在图纸上给我指出檐口部分吗？
+		11. corniced
+	14. coronavirus
+	15. coronate, coronation
 		1. _v._ [invest](dic://invest), [vest](dic://vest), [enthrone](dic://enthrone)
 		2. **crowned**王室的;**anointed**涂油于…;**nominate**提名;
-	13. crown (coronet, tiara)
+		3. When her eldest son, Edward VII, prepared to be coronated in 1902, he needed a program. /当她的长子爱德华七世准备在 1902 年加冕时，他需要一个程序。
+		4. He was coronated, I believe, in the early 1930s or a little bit before that. /我相信，他是在 20 世纪 30 年代初或更早的时候加冕的。
+		5. On Christmas Day in the year 800, he took the crown from Pope Leo III's hands as the pontiff was about to **coronate** him, and placed it on his own head /在800年的圣诞节，他从为他加冕的教皇利奥三世手中夺过王冠，戴在了自己头上。
+	16. crown (coronet, tiara)
 		1. uncrown, uncrowned
 		2. steeple-crowned
 		3. flatcrown
@@ -3945,12 +3968,19 @@
 		10. crowner
 		11. crowned
 		12. crown-court
-	14. coronet, coroneted
-		1. _n._ [crown](dic://crown), [diadem](dic://diadem), [animal tissue](dic://animal tissue)
-		2. **crown**王冠;**crest**冠;**insignia**徽章;**regal**帝王的;**emblem**象征;**royal**皇家的;**heraldic**纹章的;**jewel**宝石;**gilt**镀金;**crimson**深红;
-4. **circ-** = ring, 表示“环”。多用于医学词汇。源自希腊语 kirkos, krikos "a ring."
+	17. coronet [美 /ˌkɔrə'nɛt/](cmd://Speak/_us_/coronet)
+		1. - n. （王子、贵族等戴的）小冠冕；冠状头饰；（马的）蹄冠
+		2. _n._ [crown](dic://crown), [diadem](dic://diadem), [animal tissue](dic://animal tissue)
+		3. **crown**王冠;**crest**冠;**insignia**徽章;**regal**帝王的;**emblem**象征;**royal**皇家的;**heraldic**纹章的;**jewel**宝石;**gilt**镀金;**crimson**深红;
+		4. One of her best-known works is a Peking Opera phoenix coronet, made out of 18 ring-pull cans. /她最著名的作品之一是京剧凤冠，由 18 个拉环罐制成。
+		5. Anna searched under the pile and produced a gilded coronet. /安娜在堆底下搜索，拿出一顶镀金的皇冠。
+		6. There is no reason why the eldest daughter and heiress of the Earl should not wear a duchess's coronet with honour /伯爵的长女兼继承人当公爵夫人，再合适不过了。
+		7. But in spite of all these fine arguments the marquis's soul could not reconcile itself to giving up all hopes of a coronet for his daughter. /但是，尽管有这些漂亮的论据，侯爵还是不甘心放弃为他的女儿戴上皇冠的所有希望。
+		8. These Americans in imperial robe and phoenix **coronet** look unusually graceful /美国人穿上龙袍、戴上凤冠风采不凡。
+		9. coroneted
+3. **circ-** = ring, 表示“环”。多用于医学词汇。源自希腊语 kirkos, krikos "a ring."
 	1. cricoid
-5. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
+4. **curv-, prav-** = curved, 原意表示“弯曲”，引申词义“变态、堕落”。源自拉丁语 curvus "bend, curved."
 	1. curve
 		1. curvaceous, curvacious
 			1. a. 婀娜多姿的, 苗条的, 有曲线美的
@@ -3980,8 +4010,19 @@
 		10. recurve
 		11. curvy
 	2. deprave
-		1. 1 - de-,向下，离开，-prav,弯的，扭曲的，词源可能同 crook,curve,字母 c,p 音变。引申词义变态，堕落。
+		1. de-,向下，离开，-prav,弯的，扭曲的，词源可能同 crook,curve,字母 c,p 音变。引申词义变态，堕落
+		2. [corrupt](dic://corrupt), [pervert](dic://pervert), [subvert](dic://subvert), [demoralize](dic://demoralize), [demoralise](dic://demoralise), [debauch](dic://debauch), [debase](dic://debase), [profane](dic://profane), [vitiate](dic://vitiate), [misdirect](dic://misdirect)
+		3. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		4. **corrupt**腐败的，贪污的;**perverted**不正当的;**pervert**使堕落, 把…引入邪路, 使变坏;**corrupted**毁坏的;**immoral**不道德的;**seduce**引诱;**arouse**引起;**carnal**肉体的;**perverse**任性的,固执的;**lewd**淫荡的;**morals**道德;
+		5. Do sadistic films deprave the viewers /有关性虐待的电影能使观众堕落吗?
+		6. It was undoubtedly depraved and a great misfortune for me to feel it. /这无疑是一种堕落， 对我来说是一种巨大的不幸。
+		7. Such a woman is not a more irrational monster than some of the Roman emperors, who were depraved by lawless power. /这样的女人，不比一些被无法无天的权力所堕落的罗马皇帝更不理智的怪物。
+		8. Let men take their choice, man and woman were made for each other, though not to become one being; and if they will not improve women, they will deprave them! /让男人自己选择吧，男人和女人是为彼此而造的，尽管不是为了成为一体；如果他们不改善女性，他们就会贬低她们！
+		9. In my view this book would **deprave** young children. /我认为这本书会腐蚀儿童。
 	3. cirrus
+		1. - n. 藤蔓；[动] 触毛；[植] 卷须
+		2. On Earth, NASA says, white wispy **cirrus** clouds are made of ice crystals /美国航天局说，在地球上稀疏的白色卷云是由冰晶所组成的。
+		3. In fact, all clouds belong to one of three principle types to which Howard gave the names: cirrus, Latin for tendril or hair, cumulus, heap or pile, and stratus, layer or sheet /实际上，所有的云属于三种基本形式之一，霍德华给它们命名为：卷云，来自于拉丁语中的卷须或头发，积云，堆积或积累，层云，层叠或片。
 	4. crank 
 		1. 1 - 来自 PIE*ger,转，弯，围，词源同 cramp,crook.引申词义曲柄，古怪的人。
 		2. [grouch](dic://grouch), [grump](dic://grump), [churl](dic://churl), [crosspatch](dic://crosspatch)
@@ -3997,9 +4038,9 @@
 		12. _n._ [stable](dic://stable)
 		13. **crankshaft**机轴;**knob**把手;**ratchet**棘轮;**gears**齿轮，传动装置;**lever**杠杆;**flywheel**飞轮，惯性轮;**pulley**滑轮;**turn**转动，旋转;**spindle**轴;**wrench**扳手，扳钳;**piston**活塞;
 		10. cranky
-			1. (cranky, kinky, quirky)
-			2.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, )
-			3. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty)
+			1. (cranky, kinky, quirky) 
+			2.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+			3. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
 			4.  [crank](dic://crank), [tender](dic://tender), [tippy](dic://tippy)
 			5.  [fractious](dic://fractious), [irritable](dic://irritable), [nettlesome](dic://nettlesome), [peevish](dic://peevish), [peckish](dic://peckish), [pettish](dic://pettish), [petulant](dic://petulant), [scratchy](dic://scratchy), [testy](dic://testy), [tetchy](dic://tetchy), [techy](dic://techy)
 			6. _adj._ [unstable](dic://unstable), [ill-natured](dic://ill-natured)
@@ -4014,25 +4055,26 @@
 		2. _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing)
 		3. **mast**桅杆;**buoy**浮标;**reef**暗礁;
 	7. crinkle
-		1. 词源同 crimp,crisp.
-		2. n. 皱, 波纹  
-		3. vt. 使皱, 使缩, 起皱  vi. 皱, 拳曲
-		4. [wrinkle](dic://wrinkle), [furrow](dic://furrow), [crease](dic://crease), [seam](dic://seam), [line](dic://line)
-		5. [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
-		6. [rumple](dic://rumple), [crumple](dic://crumple), [wrinkle](dic://wrinkle), [crease](dic://crease)
-		7. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint)
-		8. _v._ [fold](dic://fold), [fold up](dic://fold up), [turn up](dic://turn up)
-		9. **wrinkle**皱纹;**creases**摺痕;**wrinkled**具皱的，有皱纹的;**flap**拍打，拍打声;**satin**缎子;**squeak**告密;**curl**使…卷曲;**flutter**飘动;**flaps**马唇肿胀;**chiffon**薄绸;**ribbon**缎带
+		1. (chasm, crevice, fissure, chap, scissure, cleft/cleave, indentation, indenture, gap, opening, crack, crevasse, abyss, seam, wrinkle, furrow, crease, crinkle, line, cranny, rift, rupture, breach, break, severance, )
+		2. 词源同 crimp,crisp.
+		3. n. 皱, 波纹  
+		4. vt. 使皱, 使缩, 起皱  vi. 皱, 拳曲
+		5. [wrinkle](dic://wrinkle), [furrow](dic://furrow), [crease](dic://crease), [seam](dic://seam), [line](dic://line)
+		6. [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [crisp](dic://crisp)
+		7. [rumple](dic://rumple), [crumple](dic://crumple), [wrinkle](dic://wrinkle), [crease](dic://crease)
+		8. _n._ [depression](dic://depression), [impression](dic://impression), [imprint](dic://imprint)
+		9. _v._ [fold](dic://fold), [fold up](dic://fold up), [turn up](dic://turn up)
+		10. **wrinkle**皱纹;**creases**摺痕;**wrinkled**具皱的，有皱纹的;**flap**拍打，拍打声;**satin**缎子;**squeak**告密;**curl**使…卷曲;**flutter**飘动;**flaps**马唇肿胀;**chiffon**薄绸;**ribbon**缎带
 			1. _[crinkling](dic://crinkling)_  v. 起皱；（使）有皱纹（crinkle 的现在分词）
 			2. _[crinkles](dic://crinkles)_  n. 皱纹（crinkle的复数）; v. 使…起皱；使…发瑟瑟声（crinkle的第三人称单数）; 
-		10. _[crinkle finish](dic://crinkle%20finish)_  皱纹漆
-		11. _[crinkled crepe](dic://crinkled%20crepe)_ 泡泡绉
-		12. _[crinkled jeans](dic://crinkled%20jeans)_ 皱纹牛仔裤
-		13. _[crinkled effect](dic://crinkled%20effect)_ 褶皱效应
-		14. _[dark crinkles](dic://dark%20crinkles)_ 暗纹
-		15. Rose's face crinkled in bewilderment /罗斯困惑地皱起了脸。
-		16. there was a crinkle of suspicion on her forehead /她疑惑地皱着额头。
-		17. My clothes were all crinkled when I got them out of the case. /我的衣服从箱子里拿出来时都皱了。
+		11. _[crinkle finish](dic://crinkle%20finish)_  皱纹漆
+		12. _[crinkled crepe](dic://crinkled%20crepe)_ 泡泡绉
+		13. _[crinkled jeans](dic://crinkled%20jeans)_ 皱纹牛仔裤
+		14. _[crinkled effect](dic://crinkled%20effect)_ 褶皱效应
+		15. _[dark crinkles](dic://dark%20crinkles)_ 暗纹
+		16. Rose's face crinkled in bewilderment /罗斯困惑地皱起了脸。
+		17. there was a crinkle of suspicion on her forehead /她疑惑地皱着额头。
+		18. My clothes were all crinkled when I got them out of the case. /我的衣服从箱子里拿出来时都皱了。
 	8. curb
 		1. 来自 PIE*sker,转，弯，围，词源同 ring,curve.
 		2. [curbing](dic://curbing), [kerb](dic://kerb)
@@ -4095,11 +4137,11 @@
 		23. curlpaper
 		24. curling
 		25. culer
-	11. recherche
-6. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
+	10. recherche
+5. **cyrt-, kurt-** = bend, 表示“曲，弯”源自希腊语 kurtos "convex."
 	1. crytometer
 	2. kurtosis
-7. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
+6. **range-** = rank, 表示“排列，顺序”，来源于古法语 rangier“排成直线”。
 	1. range
 		1. 来自古法语 range,排列，布置，成排，来自 reng,排，行，线，词源同 rank.引申诸相关词义。
 		2. n. 排, 行, 山脉, 范围, 行列, 射程  
@@ -4162,7 +4204,7 @@
 		8. ranch meals are invariably big and hearty. /大农场里的饭菜总是丰盛的。
 		9. A vaquero on a cattle ranch in Mato Grosso. /马托格罗索州一间牛场的牧童。
 		10. a split-level ranch house. /错层式平房
-8. cradle
+7. cradle
 	1. [birthplace](dic://birthplace), [place of origin](dic://place of origin), [provenance](dic://provenance), [provenience](dic://provenience)
 	2. [rocker](dic://rocker)
 	3. _n._ [baby bed](dic://baby bed), [baby's bed](dic://baby's bed), [beginning](dic://beginning), [origin](dic://origin), [root](dic://root), [rootage](dic://rootage), [source](dic://source)
@@ -4172,7 +4214,7 @@
 	7. _from the cradle_ 自幼，从小
 	8. _from cradle to grave_ 一生（等于from the cradle to the grave）
 	9. _rob the cradle_ [美俚]劫摇篮；老牛吃嫩草；与比自己年轻地多的异性约会
-9. creche
+8. creche
 	1. n. 托儿所；育婴堂
 	2. [foundling hospital](dic://foundling hospital)
 	3. _n._ [hospital](dic://hospital), [infirmary](dic://infirmary), [representation](dic://representation)
@@ -4180,9 +4222,9 @@
 	5. Others suggested a library, a creche and a reimagined shopping arcade. /其他人则建议建立一个图书馆、一个托儿所和一个重新设计的购物街。
 	6. One explanation may be that the colony is acting like a giant creche /一种可能的解释是，这一群体像是大型托儿所。
 	7. Rather than opt for a creche, which can prove expensive, either parent may remain at home to educate, protect and play with their child to help them develop and grow /父母中的任何一方都可以留在家里教育、保护孩子，和他们一起玩耍，以帮助他们发展和成长，而不是选择昂贵的托儿所。
-10. crepe
-	1.  [crepe paper](dic://crepe paper)
-	2.  [crape](dic://crape), [French pancake](dic://French pancake)
+9. crepe
+	1. [crepe paper](dic://crepe paper)
+	2. [crape](dic://crape), [French pancake](dic://French pancake)
 	3. _n._ [paper](dic://paper), [pancake](dic://pancake), [battercake](dic://battercake), [flannel cake](dic://flannel cake), [flannel-cake](dic://flannel-cake), [flapcake](dic://flapcake), [flapjack](dic://flapjack)
 	4. _v._ [cover](dic://cover)
 	5. **chiffon**薄绸;**tulle**薄纱;**silk**蚕丝;**pleated**起褶的;**pastry**油酥点心;**satin**缎子;**rayon**人造丝;**pancake**薄烤饼;**lace**花边;**waffle**华夫饼干;**velvet**天鹅绒，丝绒;
@@ -4191,7 +4233,7 @@
 	8. They're great for sweet or savory crepes /它们非常适合制作甜味或咸味薄饼。
 	9. Strawberry, Nutella, powdered sugar, and whipped cream crepes. /草莓、花生酱、糖粉和鲜奶油薄饼。
 	10. They are so good. I really like the Swedish crepes. /他们太好了。我真的很喜欢瑞典薄饼。
-11. crib
+10. crib
 	1. [cot](dic://cot)
 	2. [pony](dic://pony), [trot](dic://trot)
 	3. [cribbage](dic://cribbage)
@@ -4206,7 +4248,7 @@
 		6. _[crib note](dic://crib%20note)_  考试时夹带的纸条
 		7. _[crib death](dic://crib%20death)_  婴儿猝死综合症
 		8. _[tool crib](dic://tool%20crib)_  工具仓库；工具架；工具盒
-12. crisp
+11. crisp
 	1. [chip](dic://chip), [potato chip](dic://potato chip), [Saratoga chip](dic://Saratoga chip)
 	2. [wrinkle](dic://wrinkle), [ruckle](dic://ruckle), [crease](dic://crease), [crinkle](dic://crinkle), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up)
 	3. [crispen](dic://crispen), [toast](dic://toast)
@@ -4221,9 +4263,9 @@
 	12. _adj._ [distinct](dic://distinct), [tender](dic://tender), [cold](dic://cold), [fresh](dic://fresh), [curly](dic://curly), [concise](dic://concise)
 	13. _n._ [indistinct](dic://indistinct), [tough](dic://tough), [hot](dic://hot), [stale](dic://stale), [straight](dic://straight), [prolix](dic://prolix)
 	14. **crispy**易碎的;**crunchy**易碎的;**snappy**厉声说话的;**sharp**急剧的;**bright**明亮的，鲜明的;**refreshingly**清爽地,有精神地;**vivid**鲜明的;**buttery**谄媚的，奉承的;**fresh**新鲜的;**soft**温柔的，温和的;**flavorful**充满…味道的,可口的;
-13. curl
-14. rank
-15. ridge
+12. curl
+13. rank
+14. ridge
 	1. [ridgeline](dic://ridgeline)
 	2.  [ridgepole](dic://ridgepole), [rooftree](dic://rooftree)
 	3. _n._ [natural elevation](dic://natural elevation), [elevation](dic://elevation), [convex shape](dic://convex shape), [convexity](dic://convexity), [geological formation](dic://geological formation), [formation](dic://formation), [process](dic://process)
@@ -4237,9 +4279,9 @@
 	11. the ridged sand of the beach. /海滩上的沙脊。
 	12. the traverse of the ridge is a challenge for experienced climbers. /穿越这座山脊对经验丰富的登山者来说也是一种考验。
 	13. We clambered up the hillside to the ridge above. /我们沿着山坡费力地爬上了山脊。
-16. ring
-17. search
-18. shrink
+15. ring
+16. search
+17. shrink
 
 
 #### + \*ker- (4)+ = heat, fire, to burn

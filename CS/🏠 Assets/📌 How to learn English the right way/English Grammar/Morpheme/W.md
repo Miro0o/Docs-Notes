@@ -688,9 +688,9 @@
 		11. Communities near New Orleans were also inundated, along with the region around Pass Christian, Mississippi. /新奥尔良附近的社区也被淹没，以及密西西比州Pass Christian附近的地区。
 		12. Results from Tuesday's election were delayed after cities were inundated by nearly a million mail-in ballots. /星期二的选举结果被推迟，因为城市被近100万张邮寄选票淹没。
 	3. redound
-		1. vi. 有助于; 改进, 提高（印象）
-		2. - v. 有助于，提高，改进（印象，声誉）；产生反作用，报应；增添，累积，上升
-		3. (ameliorate, redound, improve,)
+		1. (ameliorate, subserve, conducive, redound, improve,)
+		2. vi. 有助于; 改进, 提高（印象）
+		3. - v. 有助于，提高，改进（印象，声誉）；产生反作用，报应；增添，累积，上升
 		4. _v._ [predominate](dic://predominate), [dominate](dic://dominate), [rule](dic://rule), [reign](dic://reign), [prevail](dic://prevail), [reflect](dic://reflect), [accrue](dic://accrue)
 		5. **detriment**损害, 伤害;**benefit**利益，好处;**accrue**自然增加;**diminish**使减少;**bestow**授予;**doubtless**无疑地, 肯定地;**reap**收割;**justly**公正地;**undermine**在某物下挖洞或挖通道;**outweigh**比…重;**confer**商讨;
 		6. _redound upon_ v. 回报
@@ -5211,12 +5211,29 @@
 	14. telergy
 	15. peptidergic, serotoninergic
 3. **organ-** = instrument (organon 「ancient Greeks」 "tool")
-	1. organ, organism, organize, 
-		1. organic
-		2. organisation, disorganisation
-	2. organotropic
-	3. organotherapy
-4. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
+	1. organ
+		1. organism
+			1. organ【运行，器官，组织机构】 + -ism主义，思想，机制。即有组织运行的机制，后引申词义生物，有机体。
+			2.  来自 organ,运行，器官，组织机构，-ism,主义，思想，机制。即有组织运行的机制，后引申词义生物，有机体。
+			3. n. 生物, 有机体, 社会组织 - n. 生物，有机体，（尤指）微生物；有机组织，有机体系
+			4.  [being](dic://being)
+			5. _n._ [living thing](dic://living thing), [animate thing](dic://animate thing), [system](dic://system), [scheme](dic://scheme)
+			6. **bacterium**细菌;**microbes**细菌，微生物;**bacteria**细菌;**pathogen**病原体;**parasite**寄生虫;**pathogens**病原体;**bacterial**细菌的;**eukaryotic**真核状态的;**vertebrate**脊椎动物;**microbial**微生物的;**mammalian**哺乳动物;
+			7. _living organism_ 生物体；活体
+			8. _marine organism_ 海洋生物
+			9. _aquatic organism_ 水生生物
+			10. _multicellular organism_ 多细胞生物
+			11. _pathogenic organism_ 致病（病原）生物
+			12. The water is now full of microscopic organisms /水里满是微生物。
+			13. It was the organism trying to protect itself. /它们有自卫机制。
+			14. Kelp is amongst the fastest growing organisms on Earth. /海带是地球上生长最快的生物之一。
+			15. 
+		2. organize, 
+		3. organic
+		4. organisation, disorganisation
+	8. organotropic
+	9. organotherapy
+10. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
 	1. metallurgy
 		1. metal【金属】 + urg-作工，工作， 即冶金学。
 		2. **ceramics**制陶术，制陶业;**alloys**合金;**metals**五金;**welding**焊接的;**machining**加工;**engineering**工程, 工程师行业;**sciences**科学;**alchemy**点金术;**foundry**铸造，铸造类;**geology**地质情况;**archaeology**考古学;
@@ -5229,22 +5246,30 @@
 	4. zymurgy
 	5. chemurgy
 		1. _[chemurgy](dic://chemurgy)_  n. 应用化学；农业化工
-	6. thaumaturgy, thaumaturge
+	6. thaumaturgy [美 /ˈθɔməˌtɚdʒi/](cmd://Speak/_us_/thaumaturgy)
 		1. thaumat-看 + urg-制作 + -y
 		2. n. 奇术, 魔术
 		3. _n._ [supernaturalism](dic://supernaturalism), [performance](dic://performance)
 		4. **sorcery**魔术，巫术;**alchemy**点金术;**magic**巫术，魔法，戏法;**arcane**晦涩难解的;**occult**神秘的;**mysticism**神秘主义;**witchcraft**巫术;**potions**药剂，药水;**mage**博学者;**spells**拼写;**metaphysics**形而上学,玄学;
 		5. _[thaumaturgy](dic://thaumaturgy)_  n. 魔术；奇术
-		6. thaumaturgist, thaumaturgical, thaumaturgic
-		7. theurgist
+		6. 
+		7. thaumaturge
+			1.  [sorcerer](dic://sorcerer), [magician](dic://magician), [wizard](dic://wizard), [necromancer](dic://necromancer), [thaumaturgist](dic://thaumaturgist)
+			2. _n._ [occultist](dic://occultist)
+			3. **mage**博学者;**mystic**神秘的;**shaman**萨满教的道士;**cleric**牧师;**monk**僧侣，修道士;**alchemy**点金术;**sorcery**魔术，巫术;**magician**魔术师，变戏法的人;**potion**一剂;**healer**医治者;**potions**药剂，药水;
+		8. thaumaturgist, thaumaturgical, thaumaturgic
+		9. theurgist
 	8. dramarurge, 
 	9. demiurge, demiurgic
 		1. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
-5. irk
-6. orgy
-7. work
+11. irk
+12. orgy
+	1. _n._ [indulgence](dic://indulgence), [indulging](dic://indulging), [pampering](dic://pampering), [humoring](dic://humoring), [rite](dic://rite), [religious rite](dic://religious rite), [revel](dic://revel)
+	2. **threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**gangbang**一群男子与一女子的淫乱活动;**extravaganza**娱乐表演;**fisting**拳指性交;**masturbation**手淫;**anal**肛门的;**frenzy**狂怒;**sex**性别;**voyeur**偷看下流场面的人;**porn**<口>色情文学，色情描写，色情刊物;**bestiality**兽性;
+	3. 
+13. work
 	1. wrought
-8. wright
+14. wright
 	1. 来自古英语 wryhta,工人，词源同 work,wrought.
 	2. n. 制作者, 工人
 	3. wheelwright
@@ -6382,7 +6407,7 @@
 		3. _ramose structure_ 支链结构
 	12. rampike
 		1. _rampike_  n. （直立的）枯树，死树
-	13. ramshackle
+	13. ramshackle (ransack)
 		1. (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother, ramshackle, assortment, mixture, miscellany, assemblage, sundry, ) 
 		2. _[ramshackle](dic://ramshackle)_  adj. （建筑物、车辆等）摇摇欲坠的，破烂不堪的；（组织或体制）松散的，东拼西凑的
 		3. _adj._ [damaged](dic://damaged)
@@ -6392,19 +6417,24 @@
 		7. _[Ramshackle pier](dic://Ramshackle%20pier)_ 破败的码头
 		8. a ramshackle cottage. /摇摇欲坠的村舍。
 		9. a ramshackle cabin in the woods /林中一间要倒塌的棚屋
+		10. Large families were crammed into tiny, ramshackle houses with no running water. /大家庭挤在摇摇欲坠的小房子里，没有自来水。
+		11. And as you say, the American system is just, when you look at it, ramshackle. /正如你所说， 美国的制度只是， 当你看着它时， 摇摇欲坠。
+		12. For me, no visit to Alexandria is complete without venturing into its ramshackle market district. /对我来说，没有冒险进入摇摇欲坠的市场区，亚历山大之行就不算完整。
+		13. A ramshackle car came out from the lane that leads to Cow Hammock and turned toward the village /一辆摇摇欲坠的汽车从通往牛吊床的小巷驶出， 转向村子。
 	14. ramble (gabble,)
 		1. 漫步；漫游；随笔
 		2. vt. 漫步于… vi. 漫游；漫步；漫谈；闲逛；蔓延
-		2. [meander](dic://meander)
-		3. [ramble on](dic://ramble on), [jog](dic://jog)
-		4. [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
-		5. _n._ [amble](dic://amble), [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
-		6. _v._ [continue](dic://continue), [go on](dic://go on), [carry on](dic://carry on), [proceed](dic://proceed), [travel](dic://travel), [go](dic://go), [move](dic://move)
-		7. **rant**咆哮;**meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**ranting**吼闹;**musings**沉思;**babbling**胡说;**digress**离题;**tangent**切线的，相切的;**inane**愚蠢的;**ponder**仔细考虑;**drivel**淌口水,说傻话;
-		8. _ramble about_ 漫步于；闲逛
-		9. Willy rambled on about Norman archways /威利漫无边际地大谈诺曼式拱道。
-		10. I like ramble about the street after work,and buy something passingly. /我喜欢下班后乱逛，顺便买点东西。
-		11. You can also watch for rambling /你也可能看起来注意散漫。
+		3. (mosey, stroll, wander, peruse, ramble, trot, perambulate, promenade, roam, strut, pace, stride, walk, stump, stomp, stamp, prance, swagger, gait, march, brace, sashay, ruffle, cock, swan, stray, rove, range, drift, saunter, chase, )
+		4. [meander](dic://meander)
+		5. [ramble on](dic://ramble on), [jog](dic://jog)
+		6. [roll](dic://roll), [wander](dic://wander), [swan](dic://swan), [stray](dic://stray), [tramp](dic://tramp), [roam](dic://roam), [cast](dic://cast), [rove](dic://rove), [range](dic://range), [drift](dic://drift), [vagabond](dic://vagabond)
+		7. _n._ [amble](dic://amble), [promenade](dic://promenade), [saunter](dic://saunter), [stroll](dic://stroll), [perambulation](dic://perambulation)
+		8. _v._ [continue](dic://continue), [go on](dic://go on), [carry on](dic://carry on), [proceed](dic://proceed), [travel](dic://travel), [go](dic://go), [move](dic://move)
+		9. **rant**咆哮;**meandering**蜿蜒的河流,漫步,聊天;**wander**徘徊;**ranting**吼闹;**musings**沉思;**babbling**胡说;**digress**离题;**tangent**切线的，相切的;**inane**愚蠢的;**ponder**仔细考虑;**drivel**淌口水,说傻话;
+		10. _ramble about_ 漫步于；闲逛
+		11. Willy rambled on about Norman archways /威利漫无边际地大谈诺曼式拱道。
+		12. I like ramble about the street after work,and buy something passingly. /我喜欢下班后乱逛，顺便买点东西。
+		13. You can also watch for rambling /你也可能看起来注意散漫。
 3. **rhiz-** = root, 表示“根”。源自希腊语 rhiza "root."
 	1. rhizogenic
 		1. _[rhizogenic layer](dic://rhizogenic%20layer)_ 生根层

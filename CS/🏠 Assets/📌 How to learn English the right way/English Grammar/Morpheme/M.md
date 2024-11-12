@@ -244,49 +244,90 @@
 #### + \*man- (2) + = hand
 1. **man-, manu-** = hand, 表示“手”。源自拉丁语 manus "hand."
 	1. maintain
-		1. maintenance
-	2. emancipate
-		1. **liberate**解放;**empower**使能够;**slavery**奴役;**abolish**废除，废止;**liberated**被解放的;**servitude**奴隶状态;**freed**释放的;**oppressed**被压迫的;**shackles**手铐，脚镣;**unite**使…混合;**educate**教育;
-		2. emancipist
-		3. manumit, manumission
+		1.  [keep](dic://keep), [hold](dic://hold)
+		2.  [conserve](dic://conserve), [preserve](dic://preserve), [keep up](dic://keep up)
+		3.  [sustain](dic://sustain), [keep](dic://keep)
+		4. [assert](dic://assert), [asseverate](dic://asseverate)
+		5. [wield](dic://wield), [exert](dic://exert)
+		6.  [defend](dic://defend)
+		7. [uphold](dic://uphold)
+		8. [observe](dic://observe), [keep](dic://keep)
+		9. _v._ [keep](dic://keep), [have](dic://have), [have got](dic://have got), [hold](dic://hold), [insist](dic://insist), [take a firm stand](dic://take a firm stand), [record](dic://record)
+			1. [assert](dic://assert) 主观意味强，指自认为某事就是如此，而不管事实如何。  
+			2. [affirm](dic://affirm) 侧重在作出断言时表现出的坚定与不可动摇的态度。  
+			3. [allege](dic://allege) 多指无真凭实据，不提供证据的断言或宣称。  
+			4. [maintain](dic://maintain) 与assert近义，但前者指坚决维护某种主张或观点。  
+			5. [testify](dic://testify) 多指在法庭作证，庄严地宣称自己所说属实。  
+			6. [claim](dic://claim) 可与assert换用，但语气弱一些，侧重指行为自己的权利提出要求他人承认。
+		10. **retain**保持;**preserve**保存;**establish**建立, 成立;**sustain**承受, 支撑;**keep**保持;**regain**恢复;**manage**管理;**ensure**保证，确保;**restore**修复;**attain**达到，实现;**strengthen**加强, 巩固;
+		11. 
+		12. maintenance
+	9. emancipate
+		1. - v. 解放，使不受（法律、政治或社会的）束缚
+		2. e-出 + man-手 + cip-抓住 + -ate动词后缀 → 放手 → 释放。
+		3. emancipate（解放）：把手从奴隶身上挪开表示释放奴隶的仪式  
+		4. 按照古代罗马法律，罗马人在买卖奴隶时，要举行一定的仪式。奴隶买来后，新主人把手放到奴隶身上，表示对奴隶的拥有权，这一过程在拉丁语中被称为mancipum，由manus （hand，如单词manual）+ capere（take，如单词capable）构成。主人释放奴隶时，则把手从奴隶身上挪开，表示放弃对奴隶的拥有权，这一过程在拉丁语中被称为emancipare。除了表示释放奴隶外，还可以表示罗马家庭中的一家之主放弃对子女、妻子的父权和夫权，给予他们自由。这是因为古罗马是父系社会，妻子、子女和奴隶一样都属于男人的私有财产。英语单词emancipate就来自拉丁语emancipare。  
+		5. emancipate：[ɪ'mænsɪpeɪt] vt.释放，解放  
+		6. emancipation： [ɪ,mænsɪ'peɪʃ(ə)n] n.释放，解放  
+		7. emancipator：[ɪ'mænspetɚ] n. 释放者；解放者
+		8. **liberate**解放;**empower**使能够;**slavery**奴役;**abolish**废除，废止;**liberated**被解放的;**servitude**奴隶状态;**freed**释放的;**oppressed**被压迫的;**shackles**手铐，脚镣;**unite**使…混合;**educate**教育;
+		9. the citizen must be emancipated from the obsessive secrecy of government. /公民对政府必须享有知情权。
+		10. I heard about that. Andrew's asking to be emancipated? /我听说了。Andrew提出要脱离监管？
+		11. Maybe I'm meant for something more... emancipated. /也许我想追求更多的东西… … 获得自由。
+		12. Enlightenment thinkers believed that man emancipated by reason would rise to ever greater heights of achievement. /启蒙思想家们相信，被理性所解放的人能创造空前的成就。
+		13. Aids to an emancipated womanhood include supervised homework sessions, subsidised holiday camps for children and generous family allowances. /对一个被解放女人的帮助包括法国市政提供托儿所，监督孩子家庭作业，对孩子度假露营的补贴以及慷慨的家庭津贴。
+		14. 
+		15. emancipist
+		16. manumit, manumission
 			1. **emancipation**解放;**slavery**奴役;**slave**奴隶;**servitude**奴隶状态;**abolition**废除;**Slaves**斯拉夫人;**secession**脱离;**deed**行动;
 			2. **slave**奴隶;**emancipation**解放;**Slaves**斯拉夫人;**slavery**奴役;**servitude**奴隶状态;
-	3. manacle
-		2. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle)
-		3. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
-		4. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
-		5. [fetter](dic://fetter), [shackle](dic://shackle)
-		6. [cuff](dic://cuff), [handcuff](dic://handcuff)
-		7. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
-	5. manage
-	6. maneuver
+	10. manacle
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
+		2. **shackles**手铐，脚镣;**handcuffs**手铐;**chained**装链的;**wrist**腕关节;**cuffs**袖口;**wrists**手腕;**bondage**奴役身份;**rope**绳，绳索;**fasten**扎牢;**prisoner**囚犯，犯人;**ankle**踝关节，踝;
+		3. [shackle](dic://shackle), [bond](dic://bond), [hamper](dic://hamper), [trammel](dic://trammel)
+		4. [fetter](dic://fetter), [shackle](dic://shackle)
+		5. [cuff](dic://cuff), [handcuff](dic://handcuff)
+		6. [handcuff](dic://handcuff), [cuff](dic://cuff), [handlock](dic://handlock)
+	11. manage
+	12. maneuver
 		1. manoeuvre
-	7. manicure
+	13. manicure
 		1. **pedicure**修趾甲术;**mani**落花生;**nails**钉子;**polish**磨光，擦亮;**nail**钉;**salon**沙龙;**haircut**理发;**spa**矿泉;**hairdresser**理发师;**glitter**闪烁;**lipstick**口红;
-	8. manifest
-	9. manipulate,
+	14. manifest
+	15. manipulate
 		1. **distort**扭曲;**subvert**推翻;**alter**改变，更改;**deceive**欺骗;**exploit**开发，开拓;**modify**修改，修饰;**expose**使曝光;**suppress**抑制;**mimic**模仿，摹拟;**fabricate**编造, 捏造, 虚构;**destroy**毁坏;
 		2. manipulable
-	10. manner
-	11. manual
-	12. manufactory, manufacture
-	13. manus
+	16. manner
+	17. manual
+	18. manufactory, manufacture
+	19. manus
 		1. n. 手；前肢；丈夫对妻子之权威
 		2. quadrumana, quadrumanous
 		3. amenuensis
 		4. bimane, bimanous
-	14. manuscript
+	20. manuscript
 		1. **unpublished**未出版的,未出版发行的;**publication**出版;**authorship**著述;**copy**复制;**drafts**精绵;**book**书籍;**novel**新奇的;**handwritten**手写的;**writing**笔迹;**publishing**出版，出版业，出版社;**novella**短篇故事;
-	15. manciple
+	21. manciple
 		1. - n. 伙食委员
-	16. manumotive
-	17. manure
+	22. manumotive
+	23. manure (inure) [美 /məˈnʊr/](cmd://Speak/_us_/manure)
+		1. n. 肥料, 粪肥  vt. 施肥于
+		2. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
+		3. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
+		4. inure [ɪ'njʊə] vt. 使…习惯，vi. 适用；起作用；有助于。这个单词看起来很另类，怎么破？in-就是in，ure是法语化了的拉丁词根op，表to work。适应最好的方法那就是将他至于其中“in practice”。另外一个单词manure [mə'njʊə] vt.施肥；耕种，n.肥料，也有这个词根，man-表手，本指worked by hands。
+		5.  缩写自古法语 manouvrer,耕作，操作，词源同 manoeuvre,操作，控制。后引申词义在土地上劳作，给土地施肥，最后用于指肥料本身及粪肥。词源演变比较 pork,farrow,furrow.
 		1. [muck](dic://muck)
 		2. [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
 		3. [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
 		4. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
-	19. masturbate
-		1. **orgasm**性高潮;**dildo**假阴茎;**handjob**手淫;**pussy**猫咪;**fuck**与性交;**horny**角状的;**sex**性别;**jerking**颠簸，震摇，顿挫;**clit**阴核;**intercourse**交往;**dick**阴茎;
+		5. spread manure over a field /在田里撒粪肥
+		6. Application of organic manure can increase the activities of Sucrase, Phosphatase, Urase insoil. /有机肥的施用可以提高土壤耕层转化酶、磷酸酶和脲酶活性。
+		7. But the plants in the fallow field give us green manure. /但休耕地里的植物给我们带来了绿肥。
+		8. He needs a lot of coal and a lot of fresh horse manure to keep the hotbeds warm. /他需要很多煤和很多新鲜的马粪来保持温床的温暖。
+	1. masturbate
+		1. ma-手 + sturb-击打，受 turb- 转，影响 + -ate, 表动词
+		2.  来自拉丁语 masturbari,手淫，可能来自 PIE*mazdo,阴茎，杆，词源同 mast,-turb,转，词源同turbid,turn.或来自拉丁语 manus,手，词源同 manual.
+		3. **orgasm**性高潮;**dildo**假阴茎;**handjob**手淫;**pussy**猫咪;**fuck**与性交;**horny**角状的;**sex**性别;**jerking**颠簸，震摇，顿挫;**clit**阴核;**intercourse**交往;**dick**阴茎;
 2. **mand-, mend-** = order, 表示“命令”。源自拉丁语 mandare "to put into someone's hand; entrust, order."
 	1. demand, remand,
 		1. demanding
@@ -297,7 +338,25 @@
 		6. counterdemand
 		7. 
 	2. mandate
-	3. command
+		1. 命令, 指令, 要求  vt. 委任统治
+		2. 来自拉丁语 mandatum,命令，委托，交付，来自 manus,手，词源同 manual, -dat,给予，词源同 data,date.即交付给某人，引申词义授权，命令等。
+		3. 1. _n._ (选民对选出的代表、议会等的)授权
+		4. (上级官员对下级官员下达的)正式命令
+		5. _vt._ 将(某地)委托某国管理
+		6. 授权(某人)根据委托统治权(做某事)
+		7.  [authorization](dic://authorization), [authorisation](dic://authorisation)
+		8. [mandatory](dic://mandatory)
+		9. _n._ [legal document](dic://legal document), [legal instrument](dic://legal instrument), [official document](dic://official document), [instrument](dic://instrument), [district](dic://district), [territory](dic://territory), [territorial dominion](dic://territorial dominion)
+		10. _v._ [delegate](dic://delegate), [designate](dic://designate), [depute](dic://depute), [assign](dic://assign), [order](dic://order), [prescribe](dic://prescribe), [dictate](dic://dictate)
+		11. **government**政府;**requirement**要求, 必要条件;**legislation**法律;**enact**扮演;**statutory**法定的;**mandatory**命令的;**provision**提供，供给，给养，供应品;**legislate**制定法律;**decree**法令;**policy**政策，方针，策略;**enforce**强迫，强制;
+		12. The President had a clear mandate to end the war. /总统得到明确的授权结束那场战争。
+		13. mandated desegregation of public schools. /命令解除公立学校中的种族隔离
+		14. he procured his wife to sign the mandate for the joint account. /他说服妻子在联合账户上签了私人财产委托说明。
+		15. Samaritan follows no mandate other than its own. /撒马利亚人只接受自己的授权。
+		16. OK. What about lifting mask mandates in schools? /好的。 那取消学校佩戴口罩的规定呢?
+		17. No, it is imperative that the next President of Afghanistan has a clear mandate. /没有，重要的是阿富汗下一任总统要有明确的授权。
+		18. 
+	4. command
 		1. telecommand, subcommand, self-command, microcommand, macrocommand
 		2. commando
 		3. commandment
@@ -308,13 +367,25 @@
 		8. commandant
 		9. commanda
 		10. countermand
-	4. commend
-	5. recommend
+	5. commend
+	6. recommend
 
 
 ### masc-, mask = 「Latin」masca
-1. mascara
+1. mascara [美 /mæ'skærə/](cmd://Speak/_us_/mascara)
+	1. _n._ [makeup](dic://makeup), [make-up](dic://make-up), [war paint](dic://war paint)
+	2. **eyeliner**眼线膏，眼线笔;**lipstick**口红;**eyelashes**睫毛;**lashes**鞭子;**makeup**化妆品;**make-up**化妆品;**drugstore**药房;**lash**鞭打;**blush**脸红;**pigmented**有颜色的;**cosmetics**化妆品;
+	3. You could wear mascara and body armor. /你可以涂上睫毛膏并且穿上防弹衣。
+	4. I've been wearing Tubular mascara for years. /我用Tubular睫毛膏已经有好几年了。
+	5. The eye sold out to spectacles, shades and mascara. /眼睛被出卖给了眼镜、墨镜和睫毛膏。
+	6. 
 2. mascot
+	1. n. 福神, 吉祥的东西
+	2. mascot（吉祥物）：能够带来好运的人或物  
+	3. 英语中表示“吉祥物”的单词mascot源于法国南部普罗旺斯语mascoto，由单词masco（女巫）而来，原本表示“女巫的魔法、护身符”，引申为能够带来好运的东西。19世纪末它才被正式以mascotte的拼写收入法文词典。  
+	4. 该词得以流行源于1880年法国剧作家埃德蒙•奥德朗（Edmond Audran）所创作的一出轻歌剧《La Mascotte》（吉祥物）。歌剧中的主角是一名美丽善良的女孩贝蒂娜（Bettina），据说她是一个幸运儿，能给人带来好运，所以被人亲切地称为La Mascotte（吉祥物）。在剧中，贝蒂娜给很多带来了好运，如雇佣她照看火鸡的农夫遇到王子，变成了宫廷侍卫；在宫廷阴谋中，和她一起在农场干活的男友幸运逃脱危险；贝蒂娜参加的军队毫无悬念地赢得了所有战斗。  
+	5. 这一歌剧在法国大受欢迎，mascotte一词也得到广泛应用，用来表示“幸运儿、能带来好运的人或物”。随着该歌剧传入英国，该词也进入英语，拼写改为mascot。  
+	6. mascot：['mæskɒt] n.吉祥物，福神
 3. mask
 	1. [masquerade](dic://masquerade), [masquerade party](dic://masquerade party), [masque](dic://masque)
 	2. [dissemble](dic://dissemble), [cloak](dic://cloak)
@@ -331,11 +402,19 @@
 	11. demasking
 	12. antimask
 4. masque
-	1. masquer
-	2. antimasque
-5. masquerade
-	1. masquerading
-	2. masquerader
+	1. - n. 假面剧；化装舞会；假面剧剧本
+	2. masquer
+	3. antimasque
+5. masquerade [美 /ˌmæskəˈreɪd/](cmd://Speak/_us_/masquerade)
+	1. _n._ [party](dic://party), [costume](dic://costume), [disguise](dic://disguise), [pretense](dic://pretense), [pretence](dic://pretence), [pretending](dic://pretending), [simulation](dic://simulation)
+	2. _v._ [disguise](dic://disguise), [pose](dic://pose), [impersonate](dic://impersonate), [personate](dic://personate)
+	3. **carnival**狂欢节，嘉年华会;**disguise**假装;**masks**遮罩，面罩;**costume**服装，装束;**ruse**诡计;**mask**掩饰;**costumes**服装;**masked**戴面具的;**pretense**借口;**gala**节日，特别娱乐;**deception**欺骗;
+	4. He might try to masquerade as a policeman /他也许会设法化装成警察。
+	5. She masqueraded as a shepherd /她在假面舞会上化装成了牧羊人
+	6. It's a memoir masquerading as fiction like a reverse James Frey /这是一本冒充成虚构小说的回忆录就像山寨版的詹姆斯·弗雷。
+	7. These ornate masquerades and charades that are part of his complexity reveal something about his identity. /这些华丽的化装舞会和猜谜游戏揭露了他复杂个性中的一部分。
+	8. masquerading
+	9. masquerader
 
 
 ### + \*mater- + = mother
@@ -480,9 +559,14 @@
 		15. demoralise
 		16. amoral, amoralis, amoralia
 	4. morale
+		1. n. 士气, 道德
+		2. mor-道德 + -ale → [一群人]有道德精神 → 士气。
 	5. mores
-	6. morose, moroseness
-	7. morosis
+	6. morose
+		1. a. 阴郁的, 脾气不好的, 闷闷不乐的
+		2. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour,)
+		3. moroseness
+	8. morosis
 2. mood
 #### ⭐ + \*me- (2) + = in the middle
 1. **meta-** 表示“超过，改变，在...之后”。源自希腊语 meta "between, with, beside, after."
@@ -611,9 +695,10 @@
 	2. etc.
 3. **meas-, mens-** = measure, 表示“测量”。源自拉丁语 metiri "to measure."
 	1. commeasure
-		1. commensurate
-		2. commensurable
-		3. incommensurable
+		1. v. 可与 ... 相比
+		2. commensurate
+		3. commensurable
+		4. incommensurable
 			1. **paradoxical**似是而非的 矛盾的 诡论的;**unequal**不平等的;**infinite**无限的，无穷的;**irrational**无理性的;**incompatible**合不来的, 不能和谐相处的;**transcendental**超凡的;**orthogonal**直角的,直交的;**finite**有限的;**contradictory**矛盾的;**equal**相等的;**transcendent**卓越的;
 			2. [incomparable](dic://incomparable), [uncomparable](dic://uncomparable), [incommensurate](dic://incommensurate)
 	3. dimension
@@ -633,13 +718,13 @@
 		13. [vast](dic://vast) 多指空间、面积、范围的巨大，不涉及重量。
 		14. [massive](dic://massive) 指大的体积、数量和重量，侧重庞大而笨重。
 		15. [tremendous](dic://tremendous) 指某物很大，大得惊人；也可用作引申意义。
-	6. measure
-	7. mensurability
-	8. mensurable
-	9. mensural
-	10. mensurate
+	5. measure
+	6. mensurability
+	7. mensurable
+	8. mensural
+	9. mensurate
 4. **men-, meno-** = moon, 表示“月”。源自希腊语 men, mene "month."
-	1. menarche (monarchy)
+	1. menarche (monarchy) [美 /məˈnɑrki/](cmd://Speak/_us_/menarche)
 		1. 1. the first occurrence of menstruation in a woman
 		2. - n. 初潮（少女的第一次月经来潮）
 		3. _n._ [start](dic://start)
@@ -674,9 +759,10 @@
 		2. _n._ [discharge](dic://discharge), [emission](dic://emission), [expelling](dic://expelling)
 		3. **menstruation**月经;**menstrual**月经的;
 	8. emmenagogue
-		1. n. 月经促进剂, 通经剂, 调经剂
-		2. **herb**香草，药草;**stimulant**兴奋剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**menstruation**月经;**uterine**子宫的;**herbal**草本的;**herbs**药草;
-	9. mensal
+		1. em-使 + men-月经 + -agogue, 引导
+		2. n. 月经促进剂, 通经剂, 调经剂
+		3. **herb**香草，药草;**stimulant**兴奋剂;**medicinal**医学的;**anti-inflammatory**抗炎的;**menstruation**月经;**uterine**子宫的;**herbal**草本的;**herbs**药草;
+	10. mensal
 		1. a. 每月一次的, 每月的, 餐桌的
 		2. mensal ['mensəl] adj.餐桌的；每月的。第一层含义中mens表桌子，与meat肉同源，mensal就是pertaining to a table；第二层含义与moon同源，本意是测量，于是mensal就是monthly。但是commensal共餐者与moon木有关系，而commensalism共生就是eating together了，比如大快朵颐的狮子和随后吃腐肉的秃鹫。
 		3. _[mensal rate](dic://mensal%20rate)_ 月息率
@@ -687,8 +773,8 @@
 		8. _[Rate per mensal](dic://Rate%20per%20mensal)_ 月率
 		9. _[Orgiastic night is mensal](dic://Orgiastic%20night%20is%20mensal)_ 狂欢夜餐桌
 		10. _[Desconto mensal via Serviço](dic://Desconto%20mensal%20via%20Servi%c3%a7o)_ 在部门内扣除
-	10. menses
-	11. menstrual
+	11. menses
+	12. menstrual
 		1. a. 月经的, 一月一次的, 每月的
 		2. _adj._ [menstruation](dic://menstruation), [menses](dic://menses), [menstruum](dic://menstruum), [catamenia](dic://catamenia), [period](dic://period), [flow](dic://flow)
 		3. **menstruation**月经;**ovulation**排卵;**menopause**经绝期;**cramps**肌肉抽筋;**hormonal**荷尔蒙的，激素的;**vaginal**阴道的;**fertility**肥沃;**pregnancy**怀孕;**postpartum**产后的;**estrogen**雌性激素;**uterine**子宫的;
@@ -702,16 +788,16 @@
 		5. postmenstrual
 		6. midmenstrual
 		7. intermenstrual
-	12. menstruate
+	13. menstruate
 		1. vi. 有月经
 		2. menstruation
 		3. pseudoimenstruation
-	13. menstruous
+	14. menstruous
 		1. a. 月经的, 行经的
-	14. menstruum
+	15. menstruum
 		1. premenstruum
 		2. intermenstruum
-	15. menotropin
+	16. menotropin
 5. **menisc** = 用于构成解刨学词汇，表示“半月板”。
 	1. meniscus
 		1. n. 新月形物, 半月板
@@ -2445,6 +2531,32 @@
 11. mutton
 12. schmaltz
 13. smelt
+14. amalgam
+	1. n. 汞合金, 汞齐
+	2. amalgam（汞合金）：能够“点石成金”的神秘药膏  
+	3. 中世纪时，有些炼金术士宣称自己掌握了“点石成金”的本领。他们将一种神秘的药膏涂抹到铁、铜等贱金属的表面，过段时间后就会发现这些贱金属的表面金光闪闪，好像变成了黄金。这种能够“点石成金”的神秘药膏在阿拉伯语中被称为al-malgham（软化剂），可能来自希腊语malagma（软化物）。英语单词amalgam就来源于此。  
+	4. 这种神秘药膏其实是水银和黄金等贵重金属的合金，学名是“汞齐”，俗称“软银”。中国古代道教认为它是长生不老药的成分之一，可用于补牙。将汞齐涂抹到铁、铜金属表面后，汞齐里含有的水银会逐渐挥发，在金属表面留下一层贵金属的镀金，就能造成“点石成金”的假象。  
+	5. amalgam：[ə'mælgəm] n.汞合金，汞齐  
+	6. amalgamate：[ə'mælgəmeɪt] v.汞齐化，混合  
+	7. amalgamation： [ə,mælgə'meʃən] n. 融合，混合；合并，联合；混汞法，汞齐化法
+	8. amalgamator
+	9. amalgamative
+	10. amalgamation
+	11. amalgamating
+	12. amalgamate  (amalgamate, agglomerate, conglomerate)
+		1. v. 使汞齐化, 合并
+		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		3. _adj._ [united](dic://united)
+		4. _n._ [divided](dic://divided)
+		5. **merged**结了婚的;**consolidate**巩固;**merge**合并;**combine**使联合，使结合;**merging**归并;**dissolve**使溶解;**incorporate**合并;**integrate**使结合成为整体;**unite**使…混合;**unify**统一;**assimilate**吸收, 消化;
+		6. _[amalgamating juice](dic://amalgamating%20juice)_ 复合果汁
+		7. _[amalgamate polymerization](dic://amalgamate%20polymerization)_ 非均相聚合
+		8. _[amalgamating plate](dic://amalgamating%20plate)_ 混汞板
+		9. _[amalgamate annex](dic://amalgamate%20annex)_ 指侵吞别国的领土或别人的产业
+		10. One thing you did say though, was like when you think about your identity, you like sort of amalgamating masculine and feminine. /你确实说过一件事，就像当你考虑你的身份时，你喜欢融合男性和女性。
+		11. These scattered fragments of humanity had never shown any desire to be amalgamated with the social structure. /这些分散的人类碎片从未表现出任何融入社会结构的愿望。
+		12. 
+	16. amalgamable
 #### + \*mel- (2) + = of darkish color
 1. swart (misc)
 2. tenebrous
@@ -2517,21 +2629,22 @@
 		7. meliorative
 		8. melioration
 			1. **improvement**增加或修改;**reclamation**开垦,开拓;**habitation**居住;**cognition**认识;**betterment**改好;**enhancement**提高，增加，增强;**cultivation**耕作,耕种;
-	4. ameliorate (ameliorate, redound, improve,)
-		1. a-加强 + melior-好 + -ant
-		2. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [change state](dic://change state), [turn](dic://turn)
-		3. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
-		4. the reform did much to ameliorate living standards /改革使生活水平改善了许多。
-		5. Volunteers could do little to ameliorate conditions in the refugee camp /志愿者们对改善难民营的状况几乎做不了任何事情。
-		6. This slightly improves the blood flow and ameliorates hypoxia. /这样可以稍微改善血流，缓解缺氧状态。
-		7. Other fields are familiar with human imperfectibility, and take steps to ameliorate it. /人性的弱点在其他领域也很常见，人们会采取措施改进这一点。
-		8. ameliorant
-		9. ameliorable
-		10. ameliorative
+	4. ameliorate 
+		1. (ameliorate, subserve, conducive, redound, improve,)
+		2. a-加强 + melior-好 + -ant
+		3. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify), [change state](dic://change state), [turn](dic://turn)
+		4. **alleviate**缓和;**mitigate**使缓和，使减轻;**exacerbate**使恶化;**lessen**使…变小;**counteract**对抗;**reduce**减少;**diminish**使减少;**relieve**解除，减轻;**rectify**改正;**minimize**使减到最少;**worsen**恶化;
+		5. the reform did much to ameliorate living standards /改革使生活水平改善了许多。
+		6. Volunteers could do little to ameliorate conditions in the refugee camp /志愿者们对改善难民营的状况几乎做不了任何事情。
+		7. This slightly improves the blood flow and ameliorates hypoxia. /这样可以稍微改善血流，缓解缺氧状态。
+		8. Other fields are familiar with human imperfectibility, and take steps to ameliorate it. /人性的弱点在其他领域也很常见，人们会采取措施改进这一点。
+		9. ameliorant
+		10. ameliorable
+		11. ameliorative
 			1. _adj._ [bettering](dic://bettering)
 			2. _n._ [worsening](dic://worsening)
 			3. **remedial**治疗的;**deleterious**有害的;**remedy**药品, 治疗法;**restorative**恢复健康和体力的;**preventive**预防,防止;**compensatory**补偿性的;**pharmacological**药理学的;**punitive**惩罚性的;**systemic**全身的;**corrective**有改正作用的;**reforms**改革;
-		11. amelioration
+		12. amelioration
 			1. [melioration](dic://melioration), [betterment](dic://betterment)
 			2. **improvement**增加或修改;**concomitant**相伴的;**deterioration**恶化,变坏;**degradation**下降,降低;**eradication**根除;**worsening**恶化;**reduction**减少;**consequent**作为结果的;**betterment**改好;**alleviate**缓和;**pharmacological**药理学的;
 			3. _[agricultural amelioration](dic://agricultural%20amelioration)_ 农业土壤改良
@@ -4146,7 +4259,7 @@
 		1. subformula
 		2. formulistic
 		3. formulaic
-			1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, contrived)
+			1. (platitude, banality, commonplace, bromide, trite, cliche, derivative, banal, corny, formulaic, hidebound, sequacious, rehash, canned, stale, hash over, hackneyed, hoary, blandness, contrived)
 			2. **cliches**陈腔滥调;**predictable**可预知的;**bland**乏味的;**simplistic**过分单纯化的;**repetitive**重复的;**cliche**陈词滥调;**contrived**不自然的;**banal**陈腐的;**corny**谷类的;**monotonous**无变化的, 单调乏味的;
 		5. formulate
 			1. **devise**设计;**synthesize**合成;**implement**使生效, 贯彻, 执行;**develop**开发;**analyze**对…进行分析，分解;**establish**建立, 成立;**revise**校订;**evaluate**评价;**articulate**发音清晰的;**propose**建议;**enact**扮演;
@@ -5755,6 +5868,25 @@
 8. mimetite
 
 
+### miser-  = wretched, 表示“可怜的”，来自拉丁语。
+1. commiserate
+	1. 1. _vt. & vi._ 怜悯,同情
+	2. _n._ 怜悯,同情
+	3. _v._ [feel for](dic://feel for), [pity](dic://pity), [compassionate](dic://compassionate), [condole with](dic://condole with), [sympathize with](dic://sympathize with)
+	4. **empathize**移情,神会;**sympathize**同情, 支持;**mourn**哀悼;**reminisce**追忆;**lament**悲叹;**lamenting**悲伤的,悲哀的;**grieve**使悲伤，使苦恼;**socialize**交往,联谊;**weep**哭泣;**celebrate**庆祝;**rejoice**高兴;
+	5. she went over to commiserate with Rose on her unfortunate circumstances. /她转而对罗兹的不幸处境表示同情。
+	6. she did not exult in her rival's fall, but, on the contrary, commiserated her. /她不但没有因为对手的失败而幸灾乐祸，相反，她还同情她。
+	7. I commiserate with my friend after he got fired due to his frequent slips in the business /我的朋友由于在商务活动中多次失误而被解雇表示同情。
+3. miser
+	1. _n._ [hoarder](dic://hoarder)
+	2. **beggar**乞丐;**greedy**贪婪的;**frugal**节俭的;**thief**小偷，贼;**robber**强盗;**gambler**赌徒;**heartless**无情的;**millionaire**百万富翁;**hoard**储藏, 积存;**pious**虔诚的;**bandit**强盗;
+	3. A miser lusts for gold. /守财奴贪财。
+	4. The miser was untouched by the poor man’s story. /那个吝啬鬼对那穷人的叙述无动于衷。
+	5. The stone-hearted miser plagued by the ghost of Christmas past. /铁石心肠的守财奴被古时候的圣诞鬼魂捉弄。
+4. miserable
+5. misery
+
+
 
 ## mr
 ### + \*mregh-u- + = short
@@ -5803,13 +5935,16 @@
 		3. briefly
 		4. briefing
 		5. briefcase
-	7. brumal
-		1. [vernal](dic://vernal), [summery](dic://summery), [autumnal](dic://autumnal)
-		2. [hibernal](dic://hibernal), [hiemal](dic://hiemal)
-		3. brume, brumous
+	7. brumal (bromide, brumal)
+		1. (vernal, estival, autumnal, brumal/hibernal/wintry)
+		2. [vernal](dic://vernal), [summery](dic://summery), [autumnal](dic://autumnal)
+		3. [hibernal](dic://hibernal), [hiemal](dic://hiemal)
+		4. brume, brumous
 			1. [foggy](dic://foggy), [hazy](dic://hazy), [misty](dic://misty)
 5. merry
 6. mirth
+	1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, glee, hilarity, gloat)
+	2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
 7. pretzel
 
 
@@ -6034,7 +6169,7 @@
 
 ### + \*morwi- +
 1. **form-** 表示“甲，一”。最初 formic【甲酸】是从蚂蚁 (formica) 中提取的。源自拉丁语 formica "ant."
-	1. formaldehyde
+	1. formaldehyde [美 /fɔr'mældɪhaɪd/](cmd://Speak/_us_/formaldehyde)
 		1. form-甲 + aldehyde【n. 醛, 乙醛】
 		2. n. 甲醛
 		3. _n._ [aldehyde](dic://aldehyde), [gas](dic://gas)

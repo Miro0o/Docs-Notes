@@ -244,18 +244,38 @@
 	5. surcoat
 	6. surface
 	7. surfeit
+		1. n. 过食, 过度, 恶心  
+		2. vt. 使厌腻, 使沉溺于  
+		3. vi. 饮食过度
 	8. surficial
 	9. surmount
+		1. vt. 战胜, 超越, 克服
+		2. sur-超过 + mount-山、登 → 登上[山顶] , 超越困难。
+		3. 
 	10. surname
 	11. surpass
+		1. vt. 超越, 凌驾, 胜过
+		2. sur-超过 + pass-通过 → 通过并超过 → 胜过。
 	12. surplus
+		1. n. 剩余, 过剩, 盈余  
+		2. a. 过剩的, 剩余的
+		3. sur-超过 + plus【多余，加】 → 多出很多。
 	13. surprise
 	14. surrealism
 	15. surrender
+		1. vt. 交出, 放弃, 使投降, 让与  
+		2. vi. 投降, 自首  
+		3. n. 交出, 放弃, 投降
 	16. surveillance, surveillant
 	17. survey
 	18. survive
-	19. sirloin
+	19. sirloin (purloin)
+		1. n. 牛的上部腰肉, 牛里脊肉
+		2. sirloin（西冷牛肉）：被封为爵士的牛里脊肉  
+		3. 英语单词sirloin通常被音译为“西冷牛肉”，在古英语中原本拼写为surloin，由sur（上部）+loin（腰肉）构成，表示“牛腰部上方的里脊肉”。西冷牛肉连带着脂肪组织，烹饪后口感比较香、嫩、油润。同时它体积比较大，卖相很好。因此，用西冷牛肉制作的牛排是西餐中的佳品。  
+		4. 关于sirloin前半部分从sur变为sir的原因，有一个有趣的民间传说。传说，有一位英国国王有一回对吃到的牛里脊肉特别满意，高兴之下就把它封为爵士（Sir），因此，surloin的拼写就变成了sirloin（Sir Loin，腰肉爵士）。英国作家富勒（Thomas Fuller）和斯威夫特（Jonathan Swift）都认可这种说法。前者说这位国王是亨利八世，后者说是詹姆士一世，还有人认为英国是查理二世。虽然这种解释属于传说，缺乏严肃的学术考证，但对我们记忆这个单词很有帮助。  
+		5. sirloin：['sɜːlɒɪn] n.西冷牛肉，西冷牛排，牛的上部腰肉  
+		6. loin：[lɒɪn] n.腰，腰部，腰肉，里脊肉
 	20. surangulare
 	21. surprint
 	22. surreal

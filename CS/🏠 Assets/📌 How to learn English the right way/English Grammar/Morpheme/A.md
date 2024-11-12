@@ -770,16 +770,17 @@
 		2. _n._ [structure](dic://structure), [construction](dic://construction)
 		3. **facade**正面;**building**建筑;**structure**结构;**crumbling**皱纹;**monument**纪念碑;**basilica**长方形会堂;**facades**外立面;**citadel**城堡;**monumental**纪念碑的;**colossal**巨大的;**masonry**石工行业
 		4. the concepts on which the edifice of capitalism was built. /为资本主义大厦奠定基础的一些观念。
-	3. edify
+	2. edify
 		1. vt. 启迪, 熏陶, 教诲
 		2. 1 - 来自 PIE*aidh,燃烧，词源同 ash,ether.原指火炉，引申词义居住地，大厦。-fy,使。即建造大厦，树立起榜样。
-		3. [enlighten](dic://enlighten)
-		4. _v._ [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
-		5. **enlighten**启发;**glorify**赞美;**amuse**使发笑;**inspire**鼓舞;**enrich**使肥沃;**entertain**娱乐;**encourage**鼓励, 激励;**educate**教育;**nourish**滋养;**instruct**命令;**motivate**刺激;
-		6. "I persuaded her," he said, with an edifying air of superiority. /“我说服了她，”他说，带着一种令人陶醉的优越感。
-		7. You are giving thanks well enough, but no one else is edified. /你感谢的固然是好，无奈不能造就别人。
-		8. He was unsparing but also generous, lyrical, edifying as a conscience. /他不留情面，但同时内容丰富，感情丰满，像良知一样启迪人心。
-	5. estival
+		4. [enlighten](dic://enlighten)
+		5. _v._ [teach](dic://teach), [learn](dic://learn), [instruct](dic://instruct)
+		6. **enlighten**启发;**glorify**赞美;**amuse**使发笑;**inspire**鼓舞;**enrich**使肥沃;**entertain**娱乐;**encourage**鼓励, 激励;**educate**教育;**nourish**滋养;**instruct**命令;**motivate**刺激;
+		7. The sound of our pens going refreshed us exceedingly, insomuch that I sometimes found it difficult to distinguish between this edifying business proceeding and actually paying the money. /挥笔的声音让我们神清气爽，以至于有时我发现很难区分这种有启发性的业务流程和实际支付的钱。
+		8. "I persuaded her," he said, with an edifying air of superiority. /“我说服了她，”他说，带着一种令人陶醉的优越感。
+		9. You are giving thanks well enough, but no one else is edified. /你感谢的固然是好，无奈不能造就别人。
+		10. He was unsparing but also generous, lyrical, edifying as a conscience. /他不留情面，但同时内容丰富，感情丰满，像良知一样启迪人心。
+	4. estival
 		1.  (vernal, estival, autumnal, brumal/hibernal/wintry)
 		2. est-燃烧 + -iv + -al表形容词
 		3. estival [iː'staɪvəl] adj.夏季的。拉丁词源，意思是“of the hot season”，词根本意是燃烧（因夏天温度高），与日耳曼词源的ash灰烬等同源，再如estivate ['iːstɪveɪt] vi.夏眠。来，我们在estival的词首加个f，它就成了festival ['festɪv(ə)l] n.节日；庆祝；欢乐，adj.节日的；快乐的。 ​​​​
@@ -789,7 +790,7 @@
 		7. estivate
 			1. How is estivate just healthy /怎样过夏天才是健康？
 		8. estivation
-	6. estuary
+	5. estuary
 		1. _n._ [body of water](dic://body of water), [water](dic://water)
 		2. **river**河，江;**waterway**水路;**lagoon**泻湖;**harbour**藏匿;**wetland**湿地;**coastal**海岸的;**shoreline**海〔湖〕滨线;**wetlands**沼泽地;**tidal**潮的，有关潮水的;**marsh**湿地;**coastline**海岸线;
 		3. _[estuaries](dic://estuaries)_  n. （江河入海的）河口（estuary 的复数）
@@ -798,25 +799,27 @@
 		6. _[estuary deposit](dic://estuary%20deposit)_  河口沉积；港湾沉积；河口泥沙
 		7. estuarium
 		8. estuarine
-2. anneal
+3. anneal
 	1.  [temper](dic://temper), [normalize](dic://normalize)
 	2. _v._ [toughen](dic://toughen)
 	3. **weld**焊接;**etch**蚀刻;**soldering**软焊;**solder**焊接;**nitride**氮化物;**primers**引子;**etching**蚀刻术;**recombination**再结合;**welding**焊接的;**crimp**卷发;**elongation**延伸;
 	4. The main rason of leading to overhigh hydrogen content was insufficient annealafter forged /导致氢含量过高的原因可能在于锻后退火不足。
-3. ember (amber)
+4. ember (amber)
 	1. [coal](dic://coal)
 	2. _n._ [fragment](dic://fragment)
 	3. **flame**火焰;**ash**灰;**fire**火;**hearth**炉床;**burning**燃烧的;**ashes**骨灰，灰烬;**glow**发热;**burn**燃烧;**ignite**点燃;**bonfire**营火;**fireball**火球;
 	4. Embers glowed in the furnace. /余烬在炉膛中发出光亮
-4. ether
-	1.  [ethoxyethane](dic://ethoxyethane), [divinyl ether](dic://divinyl ether), [vinyl ether](dic://vinyl ether), [diethyl ether](dic://diethyl ether), [ethyl ether](dic://ethyl ether)
-	2. [quintessence](dic://quintessence)
-	3.  [aether](dic://aether)
-	4. _n._ [inhalation anesthetic](dic://inhalation anesthetic), [inhalation anaesthetic](dic://inhalation anaesthetic), [inhalation general anesthetic](dic://inhalation general anesthetic), [inhalation general anaesthetic](dic://inhalation general anaesthetic), [element](dic://element), [organic compound](dic://organic compound), [medium](dic://medium)
-	5. **ethyl**乙烷基;**ester**酯;**ethereal**天上的;**acetone**丙酮;**vapour**蒸气;**anesthetic**麻醉剂;**esters**酯类;**glycol**乙二醇;**aqueous**水的，水般的;**solvent**有溶解力的;**gaseous**气态的，气体的;
-	6. ether was used to deaden the pain /乙醚被用来减弱疼痛。
-5. etna
-6. oast
+5. ether [美 /'iθɚ/](cmd://Speak/_us_/ether)
+	1. n. 醚, 乙醚; 苍天; 以太
+	2.  [ethoxyethane](dic://ethoxyethane), [divinyl ether](dic://divinyl ether), [vinyl ether](dic://vinyl ether), [diethyl ether](dic://diethyl ether), [ethyl ether](dic://ethyl ether)
+	3. [quintessence](dic://quintessence)
+	4.  [aether](dic://aether)
+	5. _n._ [inhalation anesthetic](dic://inhalation anesthetic), [inhalation anaesthetic](dic://inhalation anaesthetic), [inhalation general anesthetic](dic://inhalation general anesthetic), [inhalation general anaesthetic](dic://inhalation general anaesthetic), [element](dic://element), [organic compound](dic://organic compound), [medium](dic://medium)
+	6. **ethyl**乙烷基;**ester**酯;**ethereal**天上的;**acetone**丙酮;**vapour**蒸气;**anesthetic**麻醉剂;**esters**酯类;**glycol**乙二醇;**aqueous**水的，水般的;**solvent**有溶解力的;**gaseous**气态的，气体的;
+	7. ether was used to deaden the pain /乙醚被用来减弱疼痛。
+	8. In this context, ether means the air where electronic communication happens. And nothing's flying around, Peter Pan! /在这里，以太是指电子通讯发生的空间。没有东西在飞来飞去，彼得·潘！
+6. etna
+7. oast
 
 
 ### + \*aim- + = copy
@@ -828,13 +831,15 @@
 		4. _v._ [imitate](dic://imitate), [copy](dic://copy), [simulate](dic://simulate), [compete](dic://compete), [vie](dic://vie), [contend](dic://contend)
 		5. **imitate**模仿，仿效;**mimic**模仿，摹拟;**replicate**复制;**aspire**渴望;**recreate**娱乐;**imitating**模仿;**simulate**模仿;**portray**描绘;**embody**体现，使具体化;**exemplify**是…的典型;**achieve**完成;
 		6. lesser men trying to emulate his greatness. /比他差而又试图取得像他那样伟大成就的人。
-		7. emulator
+		7. This will be hard for open-access publications to emulate /而这一点是开放存取出版很难效仿的。
+		8. I'm glad you think so. That's what I strive to emulate. /很高兴你这么想 我就是想让你这么认为。
+		9. emulator
 			1. miniemulator
-		8. emulative, emulatively
+		10. emulative, emulatively
 			1. _[emulative](dic://emulative)_  adj. 竞争性的；好胜的；有竞争心的
 			2. How to get along with **emulative** colleague? /这样跟好强的同事相处？
 			3. Sand table simulation experiment is a brand-new **emulative** experiencing study method /沙盘模拟实验是一种全新的具有竞争性的体验式学习。
-		9. emulation, emulational
+		11. emulation, emulational
 			1. **emulator**竞争者;**simulation**模仿;**hardware**计算机硬件;**imitation**模仿, 仿效;**console**安慰，安抚，抚慰;**simulator**模拟装置,模拟器;**initialization**设定初值,初始化;**fidelity**忠实;**debugging**程序调整;**synthesizer**综合者,合成器;
 			2. _[emulation mode](dic://emulation%20mode)_  仿真模式; [计] 仿真方式; 
 			3. _[terminal emulation](dic://terminal%20emulation)_  [计] 终端仿真
@@ -845,9 +850,9 @@
 			8. Both feelings are painful but emulation is better than envy. /两种感觉都很痛苦，但效仿总比嫉妒好。
 			9. He was not a model boss or human being, tidily packaged for emulation. /他不是众人尽可效仿的模范老板，或是人类楷模。
 			10. One of my goals now is the emulation of those strategies at larger scales. /我现在的目标之一是在更大范围内模拟这些策略。
-		10. emulable
+		12. emulable
 			1. _[emulable](dic://emulable)_  adj. 可赶上的；可仿效的
-		11. emulant
+		13. emulant
 	3. emulous (rivalrous, ambitious, emulous, )
 		1. adj. 好胜的，竞争心强的
 		2.  [rivalrous](dic://rivalrous)
@@ -2627,18 +2632,20 @@
 			1. antic：['æntɪk] adj.古怪的，滑稽的n.滑稽动作，丑角vi.扮演小丑，做滑稽动作  
 			2. antics：['æntɪks] n. 滑稽动作；古怪姿态  
 			3. antique：[æn'tiːk] adj.古老的，年代悠久的，过时的n.古董，古玩
-		7.  [joke](dic://joke), [prank](dic://prank), [trick](dic://trick), [caper](dic://caper), [put-on](dic://put-on)
-		8. [clown](dic://clown), [clown around](dic://clown around)
-		9.  [fantastic](dic://fantastic), [fantastical](dic://fantastical), [grotesque](dic://grotesque)
-		10. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
-		11. _v._ [joke](dic://joke), [jest](dic://jest)
-		12. _adj._ [strange](dic://strange), [unusual](dic://unusual)
-		13. _n._ [familiar](dic://familiar)
-		14. **comical**滑稽的，好笑的;**exuberant**兴高采烈的;**comedic**喜剧的;**wacky**乖僻的，古怪的;**outlandish**古怪的, 奇异的;**mischievous**淘气的, 顽皮的;**silliness**愚蠢;**irreverent**不敬的;**manic**狂热的;**endearing**惹人喜爱的;**eccentric**古怪的, 怪癖的;
-		15. But the audiences loved them, especially Lennon's onstage antics. /但观众爱他们，尤其是列侬在台上的滑稽举动。
-		16. Its antics, they say, encourage official crackdowns on internet freedoms /他们认为，它的各种离经叛道的行径就是在鼓励当局限制网络自由。
-		17. But the little female paid no attention to Louis's antics. She pretended he didn't exist. /可这只小雌天鹅根本不去注意路易斯的这些古怪举动。她装出一副他根本不存在的样子。
-		18. anticly, antically
+		7.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+		8. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
+		9.  [joke](dic://joke), [prank](dic://prank), [trick](dic://trick), [caper](dic://caper), [put-on](dic://put-on)
+		10. [clown](dic://clown), [clown around](dic://clown around)
+		11.  [fantastic](dic://fantastic), [fantastical](dic://fantastical), [grotesque](dic://grotesque)
+		12. _n._ [diversion](dic://diversion), [recreation](dic://recreation)
+		13. _v._ [joke](dic://joke), [jest](dic://jest)
+		14. _adj._ [strange](dic://strange), [unusual](dic://unusual)
+		15. _n._ [familiar](dic://familiar)
+		16. **comical**滑稽的，好笑的;**exuberant**兴高采烈的;**comedic**喜剧的;**wacky**乖僻的，古怪的;**outlandish**古怪的, 奇异的;**mischievous**淘气的, 顽皮的;**silliness**愚蠢;**irreverent**不敬的;**manic**狂热的;**endearing**惹人喜爱的;**eccentric**古怪的, 怪癖的;
+		17. But the audiences loved them, especially Lennon's onstage antics. /但观众爱他们，尤其是列侬在台上的滑稽举动。
+		18. Its antics, they say, encourage official crackdowns on internet freedoms /他们认为，它的各种离经叛道的行径就是在鼓励当局限制网络自由。
+		19. But the little female paid no attention to Louis's antics. She pretended he didn't exist. /可这只小雌天鹅根本不去注意路易斯的这些古怪举动。她装出一副他根本不存在的样子。
+		20. anticly, antically
 	2. antique
 		1. adj. 古老的，古董的；老式的，过时的；（木器表面罩漆工艺）仿古的，古式的；年久的，破旧的 
 		2. n. 古物，古董；古式（尤指古希腊、古罗马的雕刻、建筑等）；西文粗体字体 
@@ -2662,14 +2669,38 @@
 		20. there is little call for antique furniture. /对古式家具的需求几乎没有。
 		21. a cluster of  antique shops. /古董店群。
 		22. the museum's trove of antique treasure. /博物馆的古董收藏。
-		23. 
-		24. antiquity, antiqueness
+		23. antiquity
+			1. - n. 古代（尤指古希腊和古罗马时期）；年代久远；文物，古物；古代，古时（尤指古埃及、古希腊、古罗马时期）
+			2. _n._ [historic period](dic://historic period), [age](dic://age), [oldness](dic://oldness), [artifact](dic://artifact), [artefact](dic://artefact)
+			3. **ancient**古代的;**Hellenistic**希腊风格的;**medieval**中世纪的;**millennia**千年期;**prehistoric**史前的;**archaeology**考古学;**Greeks**希腊人;**civilisation**文明;**Mesopotamia**美索不达米亚;**civilization**文明, 文化;**archaeological**考古学的;
+			4. And what was being reborn was classical antiquity. /而获得重生的就是经典的古风古迹。
+			5. Comets have been seen the sky since antiquity. /彗星自古以来就出现在天空中。
+			6. The tablet is one of nearly 17,000 looted antiquities. /这块石碑是近17000件被洗劫的古董之一。
+			7. Grenfell and Hunt's discoveries forged an extraordinary, direct link with antiquity. /格伦费尔德和亨特的发现创造了一条非同寻常的、与古代直接相连的纽带。
+			8. A similar ban on trading in Iraqi antiquities is already in place. /与之相似的禁止伊拉克古董交易的禁令已经实施。
+		24. antiqueness
 		25. antiquate
-			1. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
-		26. antiquary, antiquarian, antiquated, antiquarianize
+			1. - v. 废弃，使……过时；使……具有古旧形式或风格
+			2. (hidebound /antiquated /musty /frowsty /stuffy /pedantry /dogmatic /entrenched /fetter /trammel /fusty)
+			3. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+			4. **archaic**古代的;**obsolete**老式的;**outdated**过时的;**old-fashioned**老式的;**modern**现代的，近代的;**modernize**现代化;
+			5. this antiquated central heating system. /这种老式的中央供热系统。
+			6. the antiquated defence of insanity is rarely invoked in England. /宣称被告精神失常的辩护已经过时，在英格兰已很少被援引。
+			7. Anyone who thought this was antiquated could " pretend to work somewhere else" , he tweeted. /他在推特上写道，任何认为坐班已经过时的人都可以“假装在其他地方工作”。
+			8. But we found that it was a very valuable exercise because some of the culture and values and the words that we use, they were antiquated in the new world of work. /但我们发现这是一个非常有价值的练习，因为我们使用的一些文化和价值观以及词语在新的工作世界中已经过时了。
+		27. antiquary, antiquarian, antiquated, antiquarianize
 	4. ancient
-		1. ancientry, anciently
-3. **ante-, anti-** = before, 一般放在名词性词根前。「Latin」ante, "before, in front of against"
+		1. [antediluvian](dic://antediluvian)
+		2. _n._ [oldster](dic://oldster), [old person](dic://old person), [senior citizen](dic://senior citizen), [golden ager](dic://golden ager), [person](dic://person), [individual](dic://individual), [someone](dic://someone)
+		3. _adj._ [past](dic://past), [old](dic://old)
+		4. _n._ [future](dic://future), [young](dic://young), [immature](dic://immature)
+			1. [ancient](dic://ancient) 指很久以前发生或存在的事物。用于描述历史时，指远古时代。  
+			2. [old](dic://old) 指长期以来一直存在着的事物，与times连用指古代，与days连用时指从前或旧社会。  
+			3. [antique](dic://antique) 指已经很古老或颇有古风的事物，一般都具有较高价值。
+		5. **antiquity**古代;**prehistoric**史前的;**medieval**中世纪的;**archaic**古代的;**modern**现代的，近代的;**millennia**千年期;**age-old**古老的;**ancestral**祖先的,祖宗传下来的;**sacred**神圣的;**Hellenistic**希腊风格的;**ruins**废墟;
+		6. 
+		7. ancientry, anciently
+9. **ante-, anti-** = before, 一般放在名词性词根前。「Latin」ante, "before, in front of against"
 	1. anterior
 		1. _n._ [tooth](dic://tooth)
 		2. _adj._ [frontal](dic://frontal), [prefrontal](dic://prefrontal), [antecedent](dic://antecedent), [preceding](dic://preceding)
@@ -2684,6 +2715,14 @@
 	7. antechamber
 	8. antechapel
 	9. antedate
+		1.  [predate](dic://predate), [precede](dic://precede), [forego](dic://forego), [forgo](dic://forgo), [antecede](dic://antecede)
+		2.  [predate](dic://predate), [foredate](dic://foredate)
+		3. _v._ [chronologize](dic://chronologize), [chronologise](dic://chronologise)
+		4. **precede**领先，在…之前;**antiquity**古代;**extant**现存的;**preclude**妨碍;**ascribed**随意取得的;**earliest**最早;**attested**证明无病的;**originate**发起;
+		5. We hunt from the car, which the Major considered effete. The custom antedates automobiles, going back to the days of the hunting wagon /我们从车里打猎，少校认为这很无力。这种习俗早于汽车，可以追溯到狩猎马车的时代。
+		6. I swore out a new warrant for Henry's arrest. The sheriff hedged, for Old Boss and the judge antedated me. He could not find Henry, he said. /我发誓要对亨利发出新的逮捕令。治安官对冲，因为老老板和法官先于我。他找不到亨利，他说
+		7. This vehicle, like the bicycle, is not essentially a modern invention; the reason any one can manufacture it is that practically all the basic ideas antedate 1840. /这种交通工具， 就像自行车一样， 本质上并不是现代发明； 任何人都可以制造它的原因是几乎所有的基本思想都早于 1840 年。
+		8. All this is not to **antedate** the demise of the empire /这一切不会使帝国提前衰亡。
 	10. antediluvian
 		1. antediluvial
 	11. antemarital
@@ -2705,9 +2744,9 @@
 	27. antepenultimate
 	28. antephase
 	29. antetheca
-4. **anti-** = “反对，相反，抗...” 「Greeks」anti, "against, opposite"
+10. **anti-** = “反对，相反，抗...” 「Greeks」anti, "against, opposite"
 	1. etc...  (too many!)
-5. end
+11. end
 
 
 ### + \*andh- + = to bloom

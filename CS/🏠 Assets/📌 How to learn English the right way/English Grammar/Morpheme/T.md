@@ -1104,7 +1104,7 @@
 			2. **incontinence**失禁;**bladder**膀胱;**smelly**有臭味的，发臭的;**geriatric**老年医学的;**pee**尿;**demented**发狂的，疯狂的;**incompetent**无能力的;**soiled**脏的，被弄脏的;**irritable**易怒的, 急躁的;
 	17. continue
 		1. con-全部 + tin-拿住 + ue → 全部拿住 → 做事做到尾 → 继续。
-	18. hypotenuse
+	18. hypotenuse  [haɪ'pɒtənjuːz; -s]
 		1. 直角三角形的斜边叫hypotenuse [haɪ'pɒtənjuːz; -s]，前缀hypo与subway中的sub同源，表在...之下 ，词根ten表示to stretch,to hold，与古英语词源的thin同源。不说复杂的语法成分，hypotenuse的字面意思就是“a stretching under" (the right angle)”，即直角下（与直角相对）的一条延伸线。
 		2. hypo-在下 + ten-展开 + -use，即在下面展开的，用于数学名词弦，即最长的边。
 		3. n. (直角三角形之)斜边

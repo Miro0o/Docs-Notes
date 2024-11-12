@@ -3,13 +3,21 @@
 	1. demos
 	2. demotic
 	3. demagog
-		1. demagogy
-		2. demagoguery
-		3. demagogue
-		4. demagogism
-		5. demagogical
-		6. demagogic
-	4. demiurge
+		1. n. 煽动者, 蛊惑人心的政客
+		2. dem-人民 + agog-引导
+		3. [demagogue](dic://demagogue), [rabble-rouser](dic://rabble-rouser)
+		4. _n._ [orator](dic://orator), [speechmaker](dic://speechmaker), [rhetorician](dic://rhetorician), [public speaker](dic://public speaker), [speechifier](dic://speechifier)
+		5. Populist demagogues eventually lose power because they are hopeless at governing. /民粹主义的煽动者们最终下台，因为他们治理无能。
+		6. Autocrats and demagogues seem emboldened, even cocky. /独裁者和煽动者似乎更有底气，甚至自大。
+		7. She called the Republican presidential candidate a demagogue, a danger to America. /她称共和党总统候选人是蛊惑民心的政客，称他是美国的威胁。
+		8. 
+		9. demagogy
+		10. demagoguery
+		11. demagogue
+		12. demagogism
+		13. demagogical
+		14. demagogic
+	5. demiurge
 		1. demo-,人民，词源同 demotic.-urg,制造，词源同 work.最早由古希腊哲学家柏拉图用来指神，造物主。
 		2. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
 	6. democrat, democracy
@@ -306,7 +314,7 @@
 			8. " Cross your hands, " commanded Tibeats, with the addition of such a shuddering expression of blasphemy as is not decorous to repeat. /“交叉你的双手， ” 提比茨命令道，还带着一种亵渎神明的颤抖表情， 重复一遍是不礼貌的。
 			9. I did not know the decorous gathering well enough to tell them that they came to Cross Creek as a menace to a young girl's virtue. /我不太了解这次盛大的集会，无法告诉他们他们来克罗斯溪是为了威胁一个年轻女孩的美德。
 		11. indecorum
-		12. indecorous (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly,)
+		12. indecorous (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, unlicked, )
 			1. in-,不，非，decorous,体面的，得体的。
 			2. _adj._ [improper](dic://improper)
 			3. _n._ [decorous](dic://decorous), [proper](dic://proper)
@@ -322,7 +330,7 @@
 		5. he led us into a room bedecked with tinsel. /他把我们领进一间用金属箔片串装饰的房间。
 		6. The cars were all bedecked with flowers for the wedding ceremony /为了结婚仪式汽车都用鲜花装饰起来。
 	5. decency, decent
-		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly,)
+		1. (indecent, sassy, crass, impolite; inurbane; disrespectful; impertinent; insolent; impudent, indecorous, unseemly, ungainly, unlicked, )
 		2. _n._ [propriety](dic://propriety), [properness](dic://properness), [correctitude](dic://correctitude), [respectability](dic://respectability), [reputability](dic://reputability)
 		3. _n._ [indecency](dic://indecency)
 		4. **civility**礼貌;**dignity**尊严;**morals**道德;**morality**道德;**honesty**诚实，正直;**fairness**公平;**modesty**谦逊;**propriety**①礼貌,规矩;**integrity**正直;**compassion**怜悯, 同情;**politeness**有礼貌;
@@ -585,31 +593,32 @@
 		4. condolence
 			1. **sympathy**同情;**tributes**献礼篇;**funeral**葬礼;**remembrance**回想;**heartfelt**衷心的;**apology**道歉;**obituary**讣告;**mourning**哀痛;**mourn**哀悼;**greetings**问候,打招呼;**memorial**纪念物;
 			2. [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement)
-	2. indolent, indolence (insolent, indolent)
-		1. in-不，非 + dol-伤心的，悲伤的 + -ent → 懒惰的人安于现状，没有悲伤的 → 懒惰的。
-		2. 1 - in-,不，非，-dol,伤心的，悲伤的，词源同 condole,doleful.即没有悲伤的，后引申词义不用忍受痛苦的，不用尝试做事的，懒惰的。
-		3. _adj._ 懒惰的, 懒散的, 不活跃的
-		4. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
-		5. [idle](dic://idle), [inactive](dic://inactive)
-		6. [busy](dic://busy), [active](dic://active)
-		7. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
-		8. an indolent tumor /无痛感肿瘤
-		9. an indolent ulcer. /慢性溃疡
-		10. humid, indolent weather. /令人困倦的潮湿天气
-		11. Well, I am not an indolent person /我不是一个懒惰的人。
-		12. The ordinary feelings which make life amiable and indolent, were unknown to him /赋予生命以和蔼和懒惰这些特质的正常情感，他无从知晓。
-		13. Just sometimes, over the weekends I become indolent. /只是有时候，一到周末，我就变得懒散起来。
-		14. He concluded ruefully that it was "arrogant and rash" to profess virtues that you cannot live up to, and retreated into **indolent** seclusion. /他懊悔地总结道，宣称自己信奉不能修行到的美德是非常“自傲和轻率的”。最终，他选择隐居，不理世事。
-	3. dolesome
+	2. indolent, indolence
+		1. (insulate, insolent, indolent obsolete, desolate, insolate)
+		2. in-不，非 + dol-伤心的，悲伤的 + -ent → 懒惰的人安于现状，没有悲伤的 → 懒惰的。
+		3. 1 - in-,不，非，-dol,伤心的，悲伤的，词源同 condole,doleful.即没有悲伤的，后引申词义不用忍受痛苦的，不用尝试做事的，懒惰的。
+		4. _adj._ 懒惰的, 懒散的, 不活跃的
+		5. [faineant](dic://faineant), [lazy](dic://lazy), [otiose](dic://otiose), [slothful](dic://slothful), [work-shy](dic://work-shy)
+		6. [idle](dic://idle), [inactive](dic://inactive)
+		7. [busy](dic://busy), [active](dic://active)
+		8. **lazy**懒惰的;**impatient**不耐烦的, 急躁的;**malignant**有恶意的;**arrogant**自大的，傲慢的;**indifferent**漠不关心;**self-centered**自我为中心的,利己主义的;**incurable**不能医治的;**benign**良性的;**indulgent**放纵的;**restless**焦躁不安的;**asymptomatic**无临床症状的;
+		9. an indolent tumor /无痛感肿瘤
+		10. an indolent ulcer. /慢性溃疡
+		11. humid, indolent weather. /令人困倦的潮湿天气
+		12. Well, I am not an indolent person /我不是一个懒惰的人。
+		13. The ordinary feelings which make life amiable and indolent, were unknown to him /赋予生命以和蔼和懒惰这些特质的正常情感，他无从知晓。
+		14. Just sometimes, over the weekends I become indolent. /只是有时候，一到周末，我就变得懒散起来。
+		15. He concluded ruefully that it was "arrogant and rash" to profess virtues that you cannot live up to, and retreated into **indolent** seclusion. /他懊悔地总结道，宣称自己信奉不能修行到的美德是非常“自傲和轻率的”。最终，他选择隐居，不理世事。
+	4. dolesome
 		1. - adj. 寂寞的；悲哀的
-	4. dolorous
+	5. dolorous
 		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, doleful, surly, grumpy, languid, saturnine, morose, sour, dour, )
 		2. [dolourous](dic://dolourous), [lachrymose](dic://lachrymose), [tearful](dic://tearful), [weeping](dic://weeping) 
 		3. [sorrowful](dic://sorrowful)
 		4. **melancholy**忧郁, 悲哀;**dreadful**可怕的;**wretched**可怜的;**gloomy**黑暗的;**somber**昏暗的;**dreary**沉闷的，枯燥的;**ghastly**可怕的;**solemn**庄严的，严肃的;**lament**悲叹;**grim**冷酷的;**anguish**苦闷;
 		5. Since then, $3 trillion has been added, pushing the dolorous pile above $16 trillion /从那以后，债务增加了3万亿美元，总额已超过16万亿美元。
 		6. His plump, pink face was dolorous, sagging, wan-eyed /他丰满的粉红色脸庞忧郁、下垂、苍白的眼睛。
-	5. doleful
+	6. doleful
 		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, doleful, surly, grumpy, languid, saturnine, morose, sour, dour, )
 		2. - adj. 寂寞的；悲哀的；阴沉的；忧郁的
 		3. dole-伤心 + -ful, 表形容词
@@ -624,6 +633,7 @@
 		12. A very ragged beggar had slouched up to them, with a doleful, monotonous whine. /一个衣衫褴褛的乞丐无精打采地向他们走来，发出凄凉而单调的哀鸣。
 2. **dolabri-** = pickax, 「latin」dolabra, "mattock, pickax"
 	1. dedolation
+		1. n. 伤肢感
 	2. dolabrate
 	3. dolabriform
 

@@ -817,13 +817,22 @@
 			2. _adj._ [immature](dic://immature), [early](dic://early) 
 			3. _n._ [mature](dic://mature), [late](dic://late),   
 			4. **embryo**胚胎;**embryos**晶胚;**fetal**胎的，胎儿的;**mammalian**哺乳动物;**larval**幼虫状态的;**vertebrate**脊椎动物;**progenitor**祖先;**fetus**胎儿，胎;**nascent**初期的;**gestation**怀孕;**maturation**化脓;
-			5. 
-		23. proembryo
-		24. carcinoembryonic
-		25. embryotoxicity
+		24. proembryo
+		25. carcinoembryonic
+		26. embryotoxicity
 2. **em-, en-** = 表示“入、内、在...之内、使...”，来自古法语 en-。在字母 b, m, p 前拼写同化为 em-。
-	1. etc.
-3. **endo-** = within, 表示“内部”。源自希腊语 endon, endo- "within."
+	1.  embroider (brocade, ) (embryonics)
+		1. em-进入，使 + broid =braid 编织，穗带。
+		2. em-,进入，使，-broid,词源同 braid,编织，穗带。
+		3. vt. 刺绣, 绣图案, 镶边, 装饰; 加以渲染
+		4. _v._ [decorate](dic://decorate), [adorn](dic://adorn), [grace](dic://grace), [ornament](dic://ornament), [embellish](dic://embellish), [beautify](dic://beautify), [overstate](dic://overstate)
+		5. **embroidery**刺绣品;**sew**缝合，缝上;**applique**贴花;**stitch**针脚，线迹;**sewed**缝;**crochet**钩边;**embellish**美化;**sewn**缝纫，缝上;**stitched**缝纫;**stitching**用U字钉钉箱,缝纫;**sewing**缝纫;
+		6. an embroidered tablecloth /一块绣花台布
+		7. Commonly adopted to get lambdoid sewing of leather and to embroider on cloth. /备有自动卷线器，操作简单，常用于皮料人字缝及布料绣花。
+		8. She embroidered flowers on the front of the dress /她在连衣裙的正面绣花。
+		9. she embroidered her stories with colourful detail. /她在讲述自己的经历时，夸张地添加了许多有趣的细节。
+	2. etc.
+4. **endo-** = within, 表示“内部”。源自希腊语 endon, endo- "within."
 	1. endoblast
 		1. 内胚层 
 		2. 内变晶
@@ -958,7 +967,7 @@
 			11. industrialism
 		23. industria
 			1. n. 工业；工业化的行政型态
-4. **enter-, inter-** = 表示“在…之间，相互，内”。由 in- + ter-（土地）组成。在医学领域 enter- 表示“小肠”，已单独列出。
+5. **enter-, inter-** = 表示“在…之间，相互，内”。由 in- + ter-（土地）组成。在医学领域 enter- 表示“小肠”，已单独列出。
 	1. enter
 	2. entertain
 		1. vt. 娱乐, 招待, 怀抱  
@@ -1103,7 +1112,7 @@
 	54. interglacial
 	55. intergroup
 	56. intergrowth
-	57. interim
+	57. interim (hiatus)
 		1. inter-,在内，在中间，相互，-im,副词后缀。引申词义在中间的，暂时的，过渡的。
 		2. a. 暂时的, 临时的, 间歇的
 		3. n. 过渡时期
