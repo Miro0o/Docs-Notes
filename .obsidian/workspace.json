@@ -28,28 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE Quant.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE Verbal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GRE Quant"
-            }
-          },
-          {
-            "id": "ec0e941a7dd50dad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/TOEFL (Test of English as a Foreign Language).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TOEFL (Test of English as a Foreign Language)"
+              "title": "GRE Verbal"
             }
           },
           {
@@ -68,67 +53,37 @@
             }
           },
           {
-            "id": "36bd675af0d7492c",
+            "id": "ac188944d9513bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S"
+              "title": "W"
             }
           },
           {
-            "id": "6e9f4a1d3d5001ae",
+            "id": "3a68488b6ecefab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A"
-            }
-          },
-          {
-            "id": "c23195a77081a4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M"
-            }
-          },
-          {
-            "id": "1fc2b08888061509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E"
+              "title": "K"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,10 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of M"
+              "title": "Outline of K"
             }
           },
           {
@@ -295,34 +250,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c23195a77081a4f0",
+  "active": "3a68488b6ecefab0",
   "lastOpenFiles": [
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/📿 miscs.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE Quant.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/TOEFL (Test of English as a Foreign Language).md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE Writing.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/K.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/W.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/P.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Y.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/E.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/S.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/B.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE Verbal.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE Writing.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/A.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/T.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/U.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/D.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/M.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/G.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/O.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/L.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE Quant.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Language Certificates/TOEFL (Test of English as a Foreign Language).md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/R.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/Y.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/I.md",
     "CS/🏠 Assets/📌 How to learn English the right way/English Grammar/Morpheme/C.md",
     "CS/🏠 Assets/📌 How to learn English the right way/Appendixes/数学词汇中英文对照.md",
     "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/Computability Theory & Turing Machine/Computability Theory & Turing Machine.md",
-    "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI (Data) Infrastructure & Stack.md",
-    "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Monitoring & Observability/Model Monitoring & Observability.md",
     "Assets/Pics/Pasted image 20241104003619.png",
     "Assets/Pics/Pasted image 20241104003456.png",
     "Assets/Pics/Pasted image 20241104003300.png",

@@ -1756,15 +1756,15 @@ buck
 	- _[butcher block](dic://butcher%20block)_  地板花；竹节花
 	- _[butcher shop](dic://butcher%20shop)_  肉店；肉铺；屠宰场
 
-budge (bulge, bugle, bungle)
+budge (budge, bulge, bugle, bungle)
 - [stir](dic://stir), [shift](dic://shift), [agitate](dic://agitate)
 - **stubbornly**倔强地;**refuse**拒绝;**stubborn**顽固的;**unwilling**不愿意的;**caved**塌落的;**wiggle**使……摆动，使……扭动;**adamant**坚定不移的;**hold**持有;**push**推动;**pry**打听;
 - 1. won't budge an inch. 一动不能动
 - budge up (scoot up)
 
-bugle (budge, bulge, bungle)
+bugle (budge, bulge, bugle, bungle)
 
-bulge (budge, bugle, bungle)
+bulge (budge, bulge, bugle, bungle)
 - [bump](dic://bump), [hump](dic://hump), [gibbosity](dic://gibbosity), [gibbousness](dic://gibbousness), [jut](dic://jut), [prominence](dic://prominence), [protuberance](dic://protuberance), [protrusion](dic://protrusion), [extrusion](dic://extrusion), [excrescence](dic://excrescence)
 - [pouch](dic://pouch), [protrude](dic://protrude)
 - [bag](dic://bag)
@@ -1814,7 +1814,7 @@ buff
 	- _[emery buff](dic://emery%20buff)_  金刚砂磨光机；布砂轮，皮砂轮
 	- _[in buff](dic://in%20buff)_  赤裸身体
 	- _[buff away](dic://buff%20away)_  磨去; 擦光;
-- buffoon
+- buffoon [美 /bəˈfuːn/](cmd://Speak/_us_/buffoon)
 	- [clown](dic://clown)
 	- [clown](dic://clown), [merry andrew](dic://merry andrew)
 	- _n._ [fool](dic://fool), [sap](dic://sap), [saphead](dic://saphead), [muggins](dic://muggins), [tomfool](dic://tomfool), [comedian](dic://comedian), [comic](dic://comic)
@@ -1822,12 +1822,19 @@ buff
 	- _[clown or buffoon player](dic://clown%20or%20buffoon%20player)_ 小丑演员
 	- _[a buffoon in modern pantomimes](dic://a%20buffoon%20in%20modern%20pantomimes)_ 笑话里的笑柄
 	- _[a buffoon who performs antics](dic://a%20buffoon%20who%20performs%20antics)_ 跳梁小丑
+	- This man symbolizes everything wrong with Britain - a deeply untalented buffoon, with athoroughly sinister interior. /这家伙象征着英国所有糟糕的东西----一个完全没有天赋的小丑，内心丑恶。
+	- Quite frankly, you look like a bunch of buffoons there. /坦率地说，你们看起来就像一群小丑。
+	- There is lowbrow talent too, including Otto Waalkes, a Frisian buffoon. /也有一些比较肤浅的人物，比如弗里斯兰小丑Otto Waalkes。
+	- I'm essentially playing kind of a buffoon who doesn't really care about the answer, much like yourselves, presumably. /我扮演的其实是丑角，我其实并不在意嘉宾的回答是什么，我想大家应该跟我很像。
 
 buffer
 - 拟声词，模仿物体撞击护垫的声音。
 
 buffet
 - 来自法语 bufet,桌子，橱柜。后指餐厅自助餐。
+- - n. 自助餐；快餐部，点心柜；<美>餐具架，餐具柜；<旧>打击；<苏格兰>矮凳，踏脚凳 
+- v. 连续猛击，打击；<文>虐待，不公正地对待 
+- adj. 自助的；自助餐的
 - [counter](dic://counter), [sideboard](dic://sideboard)
 - [snack bar](dic://snack bar), [snack counter](dic://snack counter)
 - [knock about](dic://knock about), [batter](dic://batter)
@@ -1835,6 +1842,12 @@ buffet
 - [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture), [meal](dic://meal), [repast](dic://repast), [bar](dic://bar)
 - [strike](dic://strike), [hit](dic://hit)
 - **breakfast**早餐;**meal**一餐，一顿饭;**dinner**宴会;**dessert**餐后甜点;**lunch**午餐;**banquet**宴会，盛宴;**restaurant**饭店, 餐馆;**brunch**早午餐;**appetizer**开胃品;**entree**主菜;**dining**吃饭，进餐;
+- a micro buffet area. /极小的自助餐区。
+- they were buffeted by a major recession. /他们遇到了一场大萧条。
+- the wind wailed and buffeted the timber structure. /狂风呼啸，吹打着那幢木结构的建筑物。
+- Basically like an all you can eat planet buffet. /基本上就像是吃行星吃到饱的自助一样。
+- The caterpillar is now both wasp buffet and battleground. /这条毛毛虫现在是黄蜂的海洋，也是一个战场。
+- 
 
 bum
 - [rotter](dic://rotter), [dirty dog](dic://dirty dog), [rat](dic://rat), [skunk](dic://skunk), [stinker](dic://stinker), [stinkpot](dic://stinkpot), [puke](dic://puke), [crumb](dic://crumb), [lowlife](dic://lowlife), [scum bag](dic://scum bag), [so-and-so](dic://so-and-so), [git](dic://git)
@@ -1853,6 +1866,14 @@ bum
 - _bum rap_ 不公正的惩罚；不公正的判决；责骂
 - stumblebum
 - bummer
+	- - n. <非正式>讨厌的事，令人失望的事；<美>流浪汉，游手好闲的人
+	- _n._ [irritation](dic://irritation), [annoyance](dic://annoyance), [vexation](dic://vexation), [botheration](dic://botheration), [effect](dic://effect)
+	- **ugh**啊;**sad**悲哀的，令人悲痛的;**shocker**令人震惊的人或事物;**anyway**无论如何，不管怎样;**shame**羞耻，羞愧;**kinda**有几分;**anyways**不管怎样，无论如何;**dang**谴责;**unfortunately**不幸地;**yeah**是;**alas**唉;
+	- Why? She's a bummer, you just said so. /为什么？她就是个扫兴鬼，你自己才说。
+	- Which would now be a particular bummer for me. /那对我来说是个特别不愉快的经历。
+	- What a bummer! You set me up? /太遗憾了！拿我当猴耍吗？
+	- Part of being the boss is being a bummer. /做老板的一部分日常就是会扫兴。
+	- 
 
 bump
 - [bulge](dic://bulge), [hump](dic://hump), [gibbosity](dic://gibbosity), [gibbousness](dic://gibbousness), [jut](dic://jut), [prominence](dic://prominence), [protuberance](dic://protuberance), [protrusion](dic://protrusion), [extrusion](dic://extrusion), [excrescence](dic://excrescence)
@@ -1867,13 +1888,13 @@ bump
 	- [clash](dic://clash) 指有力的或带有金属碰击声的打、敲或相互冲击。
 	- [collide](dic://collide) 多指带毁坏性的猛烈相撞，也可指严重的直接冲突。
 	- [conflict](dic://conflict) 这个词以前可表具体东西的撞击，现在常指冲突或对立。
-	- _bump into_ 无意中遇到、碰到
-	- _with a bump_ 意外地，突然
-	- _bump against_ 撞；碰
-	- _bump up_ 突然增加；提升
-	- _bump off_ 干掉
-	- _[over the hump](dic://over%20the%20hump)_  v. 度过最困难时期；已度过一半时间
-	- _[be over the hump](dic://be%20over%20the%20hump)_  已度过难关; 已脱离危机; 已脱离;
+- _bump into_ 无意中遇到、碰到
+- _with a bump_ 意外地，突然
+- _bump against_ 撞；碰
+- _bump up_ 突然增加；提升
+- _bump off_ 干掉
+- _[over the hump](dic://over%20the%20hump)_  v. 度过最困难时期；已度过一半时间
+- _[be over the hump](dic://be%20over%20the%20hump)_  已度过难关; 已脱离危机; 已脱离;
 - **bounce**弹力;**boost**促进;**bruise**擦伤;**bouncing**跳跃的;**drop**滴;**hit**袭击;**bumpy**崎岖不平的;**nudge**用肘轻推;**blip**物体光点;**spike**尖刺;**hump**圆形隆起物;
 - goosebump
 - bumpy
@@ -1882,10 +1903,16 @@ bump
 	- [rough](dic://rough), [unsmooth](dic://unsmooth)
 	- [smooth](dic://smooth)
 	- bumpily
-- bumptious
+- bumptious (bumptious, pompous, )
 	- **pompous**浮夸的;**brash**仓促的，性急的;**arrogant**自大的，傲慢的;**boisterous**热闹的;**obnoxious**可憎的;**crass**粗鲁的;**hapless**运气不好的，倒霉的;**smug**自满的, 沾沾自喜的;**exuberant**兴高采烈的;**condescending**降低身份的,屈尊的;**cocky**自大的;
+	- these bumptious young boys today. /眼下那些我行我素的男青年。
+	- I was still annoyed at his bumptious style of conversation. /我对他这种大言不惭的谈话，余怒未息。
+	- Third is without any culture detail, **bumptious** child. /第三是毫无文化底蕴，又自以为是的孩子。
 - bumping
 - bumper
+	- - n. （车辆）保险杠；<古>大满杯敬酒；（为跳栏或障碍赛作准备的）新马平地赛；<旧>（板球）反弹球；广告时段；<非正式>烟头 
+	- adj. 丰收的，丰盛的；巨大的，大号的 
+	- v. 满杯祝酒；干杯；装满
 	- **sticker**尖刀;**fender**防卫物;**fenders**防撞垫;**stickers**尖刀，贴纸;**windshield**挡风玻璃;**headlight**的前灯;**rear**后面的;**decal**贴花纸;**windscreen**挡风玻璃;**tailgate**后挡板;**grille**格子;
 	- _adj._ [abundant](dic://abundant)
 	- [glass](dic://glass), [drinking glass](dic://drinking glass), [mechanical device](dic://mechanical device)
@@ -1895,15 +1922,26 @@ bump
 	- _bumper sticker_ 保险杆贴纸；车尾贴
 	- _bumper car_ n. 碰撞用汽车
 	- _bumper year_ 丰收年
+	- bumper-to-bumper traffic. /拥塞的交通
+	- a bumper crop. /长势很好的庄稼。
+	-  jokey bumper stickers. /贴在汽车保险杠上的滑稽小标语
+	- The cars were bumper-to-bumper in the tunnel. /汽车在隧道里拥挤着
+	- Rain or shine, there's always a bumper crop of stories. /无论下雨或天晴 精彩故事永不停。
+	- I used to have that bumper sticker. /我过去有“胖墩儿”汽车贴纸。
+	- 
 
 bun
+- n. 小面包
+- 拟声词，原指头上被敲出的肿块。后词义戏剧般的指代各种圆形小物体。如小面包，圆发髻，屁股，兔子等。
 - [roll](dic://roll)
 - _n._ [bread](dic://bread), [breadstuff](dic://breadstuff), [staff of life](dic://staff of life)
 - **ponytail**马尾辫;**braid**辫子;**burger**汉堡包;**patty**肉饼;**hamburger**汉堡包;**hair**头发;**curly**卷曲的;**sandwich**三明治;**baguette**法国棍子面包;**loaf**块;**pretzel**法国号;
 - _steamed bun_ 馒头
 - _steamed stuffed bun_ 包子
+- John, I've something to tell you.I've a bun in the oven. /约翰, 我有事要告诉你, 我有喜了。
+- As you leam actual Bellydance combinations， your hips，arms， buns and tummy will thoroughly be toned and worked. /它是只属于女人的舞蹈，它令女性绽放前所未有的性感与迷人的光彩。
 
-bungle (budge, bulge, bugle)
+bungle (budge, bulge, bugle, bungle)
 - + \bheg- +
 
 bunk
@@ -1922,11 +1960,21 @@ bunk
 	- (oppose, against, gainsay, counter, defend, controvert, contradict, deny, refuse, refute, reject, object, disapprove, disagree, demur, rebuttal, confute, rebut, decline, denounce, renounce, debunk, decry, spurn,)
 	- [expose](dic://expose), [discredit](dic://discredit), [demystify](dic://demystify)
 	- **refute**反驳，驳斥;**disprove**反驳，证明…是虚假的;**dispel**驱散，驱逐;**discredit**败坏…的名声;**substantiate**用事实支持;**myth**神话;**contradict**矛盾;**unsubstantiated**无事实根据的;**discredited**不足信的,不名誉的;**skeptics**疑论者，怀疑主义者;**bogus**伪造的;
+	- debunk a supposed miracle drug. /戳穿一种所谓的神奇药物
+	- But his initial proof was swiftly debunked and doubts remain if he is the right man. /但他最初提供的证据很快就被否定，中本聪的真实身份依然是个谜。
+	- He said that it debunks deep state conspiracy theories. /他说这揭示了深刻的国家阴谋理论。
+	- Now, the story should be laughably easy to debunk. /照理说 要推翻这则新闻 简直简单到可笑。
+	- The novel debunks the view that the “religionists” restored order in Somalia. /小说破除了“宗教分子”在索马里恢复秩序这一观念。
+	- Papers were published in support of the claim but many more were published debunking the idea. /发表的论文支持这个论点，但是更多的则持反对意见。
 
 bunkum
+- - n. 废话，瞎话，假话；（政客）夸夸其谈的演说
 - **nonsense**谬论;**drivel**淌口水,说傻话;**bullshit**胡说;**bogus**伪造的;**rubbish**垃圾，废物;**preposterous**反常的,荒谬的;**homeopathy**顺势医疗论;**falsehood**谎言;**myth**神话;**ludicrous**荒唐可笑的,滑稽可笑的;**unsubstantiated**无事实根据的;
 - [drivel](dic://drivel), [garbage](dic://garbage)
 - [bunk](dic://bunk), [buncombe](dic://buncombe), [guff](dic://guff), [rot](dic://rot), [hogwash](dic://hogwash)
+- As we all know by now, these theories of doom are **bunkum** /大家现在都清楚这些宿命论是胡说八道的，毫无科学根据。
+- He spun this fancy tale about how this beautiful maiden saved his life, but it was all **bunkum**. /美丽少女挽救了他的性命只不过是他编造出来的美丽童话，全都是骗人的。
+- Given a surfeit of green PR **bunkum**, it is not easy to know whether they mean what they say. /考虑到过量绿色公关废话的存在，要辨别它们是否说到做到其实并不容易。
 
 bunker
 - [sand trap](dic://sand trap), [trap](dic://trap)
@@ -1937,6 +1985,14 @@ bunker
 - _bunker oil_ 船用油；燃油
 - _storage bunker_ 贮料仓
 - **barracks**兵营，营房;**fortress**要塞;**underground**地下的;**trench**沟，沟渠;**fairway**航路;**shack**小室;**hangar**飞机库;**hole**洞，孔;**airfield**飞机场;**lair**巢穴;**basement**地下室;
+- the bunker doors incline outwards. /舱门向外打开。
+- he bunkered his second shot. /他第二杆将球打入了障碍区。
+-  the act was bunkered by all the showbiz flannel. /这一举措因演艺界的虚伪吹捧而陷入困境。
+- Combat pilots, flying low to avoid radar, took out the guerrilla leader's bunker in a single mission. /在一次行动中，战斗机飞行员在低空飞行以躲避雷达，发现并炸毁了游击队领导所在的掩体
+- Combined with the Redeemer's sophisticated targeting systems these flamestorm cannons a reable to purqe even a well-defended bunker complex in seconds. /结合救赎者先进的定位系统，这些火焰风暴喷射器可以在短短几秒钟内将对方坚固的堡垒彻底摧毁。
+- You might go bunkers for these unique houses. /你可能会为了这些独特的房子而前往地堡。
+- Scott Robertson works for VIVOS, the company that owns the bunkers. /Scott Robertson是VIVOS的员工，该公司拥有这个掩体。
+- The greenhouse gas that threatens to warm the planet is simply bunkered away /威胁地球变暖的温室气体被封存起来了。
 
 bur
 - [burr](dic://burr)
@@ -1944,6 +2000,10 @@ bur
 - _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
 - **ber**比特误差率;**ere**在…以前;**tor**岩山;
 - 1. detach a check from the checkbook; detach burs from one's coat /从支票簿上撕下一张支票；取下大衣上粘附的东西
+- How the frost has opened the burs! /秋霜把刺果打开了那么多！
+- Were you so late because you were burring this woman? /你迟到是因为和她神侃吗？
+- As they handled the wool and tossed it into piles, they picked out straws, burs, and other waste matter caught in it. /当他们处理羊毛并把它扔进堆里时，他们挑出了稻草、毛刺和其他陷在里面的废物。
+- A bur grinder means that there are actual circular burs that turn in opposition to each other. /毛刺磨床意味着存在相互相反转动的实际圆形毛刺。
 
 bureau
 - [agency](dic://agency), [federal agency](dic://federal agency), [government agency](dic://government agency), [office](dic://office), [authority](dic://authority)
@@ -1951,7 +2011,7 @@ bureau
 - _n._ [administrative unit](dic://administrative unit), [administrative body](dic://administrative body), [furniture](dic://furniture), [piece of furniture](dic://piece of furniture), [article of furniture](dic://article of furniture)
 - **agency**代理，中介;**department**部, 部门, 系;**correspondent**通讯员, 记者;**chief**酋长;**deputy**代理人，代表;**office**办公室;**commissioner**专员, 长官;**secretary**部长;**headquarters**总部;**staffer**职员;**FBI**联邦调查局;
 
-burette
+burette [美 /bju'rɛt/](cmd://Speak/_us_/burette)
 - _n._ [measuring instrument](dic://measuring instrument), [measuring system](dic://measuring system), [measuring device](dic://measuring device)
 - **reagent**试剂;**syringe**注射器;**vial**小瓶;**flask**烧瓶;**cylinder**汽缸;**cannula**套管，插管;**jug**水壶;**nozzle**喷嘴;**orifice**孔口;**liquid**液体的;**acetone**丙酮;
 - _[gas burette](dic://gas%20burette)_  气体量管; 量气管; 
@@ -1961,6 +2021,10 @@ burette
 - _[certified burette](dic://certified%20burette)_  检定滴定管
 - _[weighing burette](dic://weighing%20burette)_  称量滴定管
 - _[burette stand](dic://burette%20stand)_  n. 滴定管架
+- This long glass thing here is a burette. /这个长玻璃的东西是滴定管。
+- It'll stay blueish in color for as long as the bicarbonate ions are around to keep the pH buffered above the indicators end point of pH 4. This long glass thing here is a burette. /只要碳酸氢根离子在周围以保持 pH 值缓冲在 pH 值 4 的指示剂终点之上，它就会保持蓝色。这里的这个长玻璃东西是滴定管。
+- To determine potassium iodate in edible salt, the specification of home-made capillary **burette** is 0. /用该法测定食盐中的碘酸钾，当毛细滴管规格为0。
+- The capillary **burette** micro titration in counting drops is employed to determine iodine ions in the mixed halide solution /采用毛细滴管数滴微型滴定法测定混合卤化物中的碘离子。
 
 burble
 - [ripple](dic://ripple), [babble](dic://babble), [guggle](dic://guggle), [bubble](dic://bubble), [gurgle](dic://gurgle)
@@ -2800,10 +2864,12 @@ coquet [美 /koˈkɛt/](cmd://Speak/_us_/coquet) (bouquet, cachet, crotchet, co
 - coquetry
 
 cork
--  [phellem](dic://phellem)
+- n. 软木塞, 软木树, 软木
+- 1 - 来自 PIE*sker,砍，切，词源同 score,carnal.即切下来的树皮所做。
+- [phellem](dic://phellem)
 - [bottle cork](dic://bottle cork)
--  [bob](dic://bob), [bobber](dic://bobber), [bobfloat](dic://bobfloat)
--  [cork up](dic://cork up)
+- [bob](dic://bob), [bobber](dic://bobber), [bobfloat](dic://bobfloat)
+- [cork up](dic://cork up)
 - _n._ [bark](dic://bark), [plant material](dic://plant material), [city](dic://city), [metropolis](dic://metropolis), [urban center](dic://urban center), [port](dic://port), [plug](dic://plug)
 - _v._ [plug](dic://plug), [stop up](dic://stop up), [secure](dic://secure), [stuff](dic://stuff)
 - _n._ [uncork](dic://uncork)
@@ -2817,34 +2883,73 @@ cork
 - cork up one's feeling /抑制自己的感情
 - draw a cork from a bottle /拔出瓶塞
 - uncork
+	- vt. 泄漏；透露；发泄；拔去塞子
 	- _v._ [unleash](dic://unleash), [open](dic://open), [open up](dic://open up)
 	- _n._ [cork](dic://cork), [cork up](dic://cork up)
 	- **unleash**解开…的皮带;**champagne**香槟酒;**bottle**瓶子;**wine**酒，葡萄酒;**savor**使有风味;**sip**抿;**bottles**瓶子;**wines**葡萄酒;**revel**狂欢;
+	- Kodak Rochester, New York branch, discovered a way for its 20000 employees to uncork their bottled-up resentments. /纽约柯达罗切斯特分公司发现了一种让其20000名员工释放积蓄已久的怨气的方法。
+	- He uncorked it and drank it straight down in one /他拔去塞子，一饮而尽。
+	- He set the tray on the table, uncorked the bottle and left the room. /他把托盘放在桌上，打开瓶子并离开房间。
+	- It's very hard to bottle up the notion of freedom once it's been uncorked. /一旦自由的概念萌芽 想要扼制绝非易事。
+	- It looked pretty enough, but when she uncorked the bottle, the pungent smell hit her immediately, making her gag. /看着还挺漂亮的， 可是一打开瓶塞，一股刺鼻的气味扑面而来，让她直吐口水。
+	- Quickly, he uncorked the medicine bottle and poured some of the brown stuff into the spoon. /很快，他打开药瓶，将一些棕色的东西倒进勺子里。
+	- If it hadn't yet harmed any key vessels, it could uncork something on its way out and cause a stroke or worse. /如果它还未伤害任何主要的血管的话，那么在移除时，它可能会造成破坏，导致中风或更糟的情况。
+	- 
 - corky
 	- adj. 像软木的；（酒）有软木塞味的；（非正式）活泼的
 	- **woody**木质的;**fibrous**纤维的，纤维性的;**fleshy**肉的;**bark**咆哮;**prickly**多刺的;**reddish**微红的;**whitish**带白色的;**brownish**呈褐色的;
+	- It may be of a fleshy, **corky**, or spongy nature /它可能是肉质的、木栓质或海绵质的结构。
+	- My husband said. I told him the only thing I knew was that he went by the nickname **Corky** /我丈夫问。我告诉他我只知道他有个可奇的称呼。
+	- 
 - corkwood
+	-  [corkwood tree](dic://corkwood tree), [Leitneria floridana](dic://Leitneria floridana)
 	- _n._ [shrub](dic://shrub), [bush](dic://bush)
 	- **Eucalyptus**桉树;**willow**柳木制品;**pine**松树;**beech**山毛榉;**bark**咆哮;**cedar**雪松;**fern**蕨类植物;**birch**桦木;**wood**木材;**oak**橡树;**cork**软木;
+	- **Corkwood** in planks. virgin cork. ramassage. gleanings. **corkwood** refuse and corkwaste. sampling. /软质木板用软木。未使用的软木。胶结软木。散木碎屑和废品。取样。
 - corkscrew
 - corking
 - corker
 - corked
 - corkage
+	- - n. 拔瓶塞；开瓶费
+	- _n._ [service charge](dic://service charge), [service fee](dic://service fee)
+	- **wines**葡萄酒;**wine**酒，葡萄酒;**waiter**服务员，侍者;**fee**酬金;**liquor**酒，含酒精饮料;**restaurant**饭店, 餐馆;
+	- Some restaurants have corkage fees; some restaurants you can't bring in wine or alcohol even by paying an extra amount of money. /有些餐厅有开瓶费；有些餐馆即使多付钱也不能带酒或酒。
+	- The cake is no problem at all, but we do charge a corkage fee of $15 a bottle for any alcohol not purchased from the restaurant. /经理：蛋糕完全没有问题，但我们确实对非从餐厅购买的酒类收取每瓶 15 美元的开瓶费。
+	- A " corkage fee" (corkage) – when you have a bottle of wine or champagne, there's a little thing at the top of the bottle that is like the cap or the top that keeps the wine in the bottle /“开瓶费” （corkage）——当你有一瓶葡萄酒或香槟时，瓶子顶部有一个小东西， 就像瓶盖或顶部一样， 可以将酒留在瓶中。
+	- 
 
-cougar
+cosset [美 /ˈkɑːsɪt/](cmd://Speak/_us_/cosset)
+- n. 供玩赏的小动物, 爱畜  
+- vt. 宠爱, 珍爱, 溺爱
+- 来自 cot-,小屋，村舍，词源同 cottage.原指在小屋子里面养的小羊羔，小宠物。
+- [pamper](dic://pamper), [featherbed](dic://featherbed), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
+- _v._ [treat](dic://treat), [handle](dic://handle), [do by](dic://do by)
+- **pamper**纵容;**soothe**安慰;**amuse**使发笑;
+- all her life she'd been cosseted by her family. /她一生都被家人宠爱着。
+- Please come for supper. Let me cosset you. /来吃晚餐吧 让我宠爱你。
+- Only a few hands went up, suggesting they were not quite as cosseted as he had thought. /寥寥无几的人举起了手，以表明实际上他们并不像他所想的那样娇生惯养。
+- With a big haul, Scotland's politicians could perhaps afford to cosset oil firms. /由于存在很大的距离，苏格兰的政客们可能要担负起骄纵石油公司的职责了。
+
+cougar [美 /'kuɡɚ/](cmd://Speak/_us_/cougar)
+- n. 美洲狮
 -  [puma](dic://puma), [catamount](dic://catamount), [mountain lion](dic://mountain lion), [painter](dic://painter), [panther](dic://panther), [Felis concolor](dic://Felis concolor)
 - _n._ [wildcat](dic://wildcat)
 - **coyote**一种产于北美大草原的小狼;**grizzly**灰色的;**beaver**海狸;**moose**驼鹿;**hunter**猎人;**wolf**狼;**elk**麋鹿;**hottie**热水瓶;**cub**幼兽;**predator**食肉动物;**fox**欺骗;
+- I saw a cougar slinking toward its prey. /我看到一只美洲狮正在潜随猎物。
+- But mountain lions also called pumas and cougars face a problem. /山狮亦称为美洲狮，现在面临着一个问题。
+- A cougar can save partially eaten food by covering it with leaves and sticks. /美洲狮可以通过用树叶和树枝覆盖食物来保存部分吃过的食物。
 
 cow
-- cowfish
+- cowfish [美 /'kaʊ,fɪʃ/](cmd://Speak/_us_/cowfish)
+	- - n. 海牛；角鱼；海豚
 	- _n._ [boxfish](dic://boxfish), [trunkfish](dic://trunkfish)
 	- **sharks**鲨鱼;**squid**鱿鱼;**jellyfish**水母;**eel**鳝鱼;**shark**鲨鱼;**octopus**章鱼;**fish**捕鱼，钓鱼;**catfish**鲶鱼;**turtle**海龟;**seaweed**海藻，海草;**dolphin**海豚;
 - cowgirl, cowman
 - cowgrass
 - cowhage
 - cowhand
+	- - n. （美）牧牛工
 	- [cowboy](dic://cowboy), [cowpuncher](dic://cowpuncher), [puncher](dic://puncher), [cowman](dic://cowman), [cattleman](dic://cattleman), [cowpoke](dic://cowpoke), [cowherd](dic://cowherd)
 	- _n._ [ranch hand](dic://ranch hand)
 	- **cowboy**牧童;**rancher**大农场经营者;**cowboys**牛仔;**ranch**大牧场;**rodeo**竞技者;**cowgirl**女牛仔;**blacksmith**铁匠;**cattle**牛;**foreman**领班;**outlaw**歹徒, 亡命之徒;**outlaws**歹徒;
@@ -2857,14 +2962,20 @@ cow
 	- _n._ [barn](dic://barn)
 	- **barn**谷仓;**pasture**牧场;**farmhouse**农舍;**manor**庄园;**cottage**村舍;**hut**小屋;**meadow**草地;**farm**种田，务农;**hay**干草;**orchard**果园;**house**住宅;
 - cowlick
+	- n. 额头翘起的一绺头发
 	- 1. a tuft of hair that grows in a different direction from the rest of the hair and usually will not lie flat /n. 额前蓬乱的鬈发
 	- _n._ [hair](dic://hair)
 	- **ponytail**马尾辫;**hair**头发;**curly**卷曲的;**mane**鬃毛;**hairstyle**发型;**hairline**极细的线;**haircut**理发;**mustache**胡子，髭;**wavy**多浪的;**beard**胡须;**forehead**前额，额头;
 	- I got a cowlick and I got a weird hair pattern and grow like that. /我长了个头巾， 我的头发图案很奇怪，然后就长成那样了。
+	- The cowlicks were a little trouble, so she wet her bangs and made three spit curls. /女傧相有点麻烦， 她湿了刘海， 做了三个吐卷。
+	- 
 - cowlike
 - cowlight
 
 cowl
+- n. 蒙头斗篷, 通风帽
+- n. 蒙头斗篷；通风帽（烟囱顶上的）；连有头巾的修道士服 
+- vt. 给……穿蒙头斗篷；给……装上风帽状物
 -  [hood](dic://hood), [bonnet](dic://bonnet), [cowling](dic://cowling)
 - _n._ [protective covering](dic://protective covering), [protective cover](dic://protective cover), [protection](dic://protection), [hood](dic://hood)
 - _v._ [cover](dic://cover)
@@ -2882,9 +2993,15 @@ cowl
 - Sophie could see a sudden frown flash across Alberto's face beneath the brown cowl. /苏菲可以看到阿尔贝托棕色头罩下的脸上突然皱起眉头。
 - Gonna need a cowl panel replaced and a new windscreen. /需要换一个前围板和一个新挡风玻璃。
 - 'Cause being a superhero is not about a cape or a cowl. /因为做超级英雄不用任何披肩或斗篷。
+- And the extra weight, in addition to the stiff cowl, made fight scenes stiff and awkward. /额外的重量，加上坚硬的整流罩，让打斗场面变得僵硬和尴尬。
+- 
 - cowled
 - cowling
+	- [hood](dic://hood), [bonnet](dic://bonnet), [cowl](dic://cowl)
+	- _n._ [protective covering](dic://protective covering), [protective cover](dic://protective cover), [protection](dic://protection)
 	- **fuselage**机身;**cockpit**驾驶室;**propeller**螺旋桨;**radiator**散热器;**windscreen**挡风玻璃;**rudder**飞机方向舵;**engine**引擎，发动机;**flaps**马唇肿胀;**fender**防卫物;**shroud**寿衣;**fenders**防撞垫;
+	-  Looks like the storm ripped the cowling off the reserve chute (which we didn't have to use on landing). /风暴好像把备用降落伞（我们落地时没用）那儿的整流罩给扯掉了。
+	- CFM, a joint venture between GE and Safran, two engine-makers, has over 1,000 engineers working on Rise, an open rotor-engine that does away with the cowling that covers the fan blades. /CFM 是通用电气和赛峰集团这两家发动机制造商的合资企业，拥有超过 1,000 名工程师致力于 Rise，这是一种开放式转子发动机， 取消了覆盖风扇叶片的整流罩。
 - cowl-muscle
 
 cower
@@ -2892,13 +3009,21 @@ cower
 - [fawn](dic://fawn), [crawl](dic://crawl), [creep](dic://creep), [cringe](dic://cringe), [grovel](dic://grovel)
 - _v._ [crouch](dic://crouch), [stoop](dic://stoop), [bend](dic://bend), [bow](dic://bow), [flex](dic://flex)
 - **tremble**战栗;**fear**害怕;**flee**消失，消散;**frightened**害怕的;**fearful**可怕的;**hide**隐藏;**cowardly**怯懦的，懦弱的;**scream**尖叫;**kneel**跪下，跪;**cringe**畏缩;**afraid**害怕的;
+- children cowered in terror as the shoot-out erupted. /枪战爆发时，孩子们害怕得缩成一团。
+- Neville was cowering in his front row seat. /第一排的纳威往后缩了缩。
+- Fang wasn't howling anymore, but cowering silently on the spot. /牙牙不再咆哮了，而是静静地蜷缩着不动。
+- " Yeah. I don't have to cower in a herd anymore, " said the sheep. /" 对。我再也不用战战兢兢地躲在羊群里了。" 小绵羊说道。
 
 crab
+-  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 - **lobster**龙虾;**shrimp**虾;**clam**蚌, 蛤;**prawns**大虾，对虾;**clams**蛤蚌;**fish**捕鱼，钓鱼;**shellfish**贝;**seafood**海鲜;**octopus**章鱼;**turtle**海龟;**oyster**牡蛎，蚝;
 - [decapod crustacean](dic://decapod crustacean), [decapod](dic://decapod), [grouch](dic://grouch), [grump](dic://grump), [crank](dic://crank), [churl](dic://churl), [crosspatch](dic://crosspatch)
 - [steer](dic://steer), [maneuver](dic://maneuver), [manoeuver](dic://manoeuver), [manoeuvre](dic://manoeuvre), [direct](dic://direct), [point](dic://point), [head](dic://head)
 - [gripe](dic://gripe), [grouse](dic://grouse), [beef](dic://beef), [squawk](dic://squawk), [bellyache](dic://bellyache), [holler](dic://holler)
 -  [crab louse](dic://crab louse), [pubic louse](dic://pubic louse), [Phthirius pubis](dic://Phthirius pubis)
+- you’re trying to crab my act. /你在试图破坏我的事。
 
 cramp
 - - 来自 PIE*ger,转，弯，围，词源同 crank,crook.比喻义肌肉打弯的，抽筋的。
@@ -3106,7 +3231,7 @@ dear
 	- Now, don't listen to him, Pheebs, all right? I think it's endearing. 不，别听他的，菲比，好吗？ 我觉得那很可爱。
 - deary
 -  dearth
-	- (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
+	-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
 	- 来自dear, 贵重，珍贵。
 	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
 	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
@@ -4071,7 +4196,27 @@ flabbergast
 - Ever since its inception, the metaverse has had many people flummoxed, even flabbergasted
 - And right, she's just flabbergasted by this response /她对这个回应非常吃惊。
 
-flack
+flaccid
+- a. 软弱的, 没气力的, 无活力的
+- - adj. 弛缓的，软弱的；蔫软的；无活力的；不见成效的
+- 来自拉丁语faccus "flabby, flap-eared", 后借道法语进入英语。
+- 来自辅音丛 fl-,扑腾，拍打，拟声词。用来形容肌肉扑腾晃动的，松驰的。
+-  [lax](dic://lax), [limp](dic://limp), [slack](dic://slack)
+-  [soft](dic://soft), [flabby](dic://flabby)
+- _adj._ [weak](dic://weak), [soft](dic://soft), [unfit](dic://unfit)
+- _n._ [strong](dic://strong), [hard](dic://hard), [fit](dic://fit), [healthy](dic://healthy)
+- **limp**柔软的，无力的;**penis**阳物，阴茎;**erect**使竖立;**penile**阴茎的，用阴茎的;**muscular**肌肉发达的;**fleshy**肉的;**girth**周围长度;**feeble**微弱的，无力的;**erection**直立;**manhood**成年;**impotence**阳萎;
+- _flaccid paralysis_ 驰缓性麻痹；弛缓性瘫痪；松弛性麻痹；软瘫
+- the flaccid leadership campaign was causing concern. /这次领导不力的行动正引起人们的关注。
+- she took his flaccid hand in hers. /她双手握住他那只干瘪的手。
+- It is usually fairly easy to recognise the patient who presents with a few days' history of progressive sensory symptoms, flaccid tetraparesis, and areflexia, perhaps with increasing bulbar weakness /当患者于数天内进行性出现感觉症状、弛缓性四肢瘫、腱反射消失、甚至伴进行性球麻痹时，识别这些症状非常简单，但于疾病早期作出格林-巴利综合征的诊断却很困难。
+- At forty-four, Linda seemed, by contrast, a monster of flaccid and distorted senility. /琳妲才四十多岁，可对比起来，她已经是一个皮肤松弛，形容歪扭的老妖怪。
+- In skeletal muscles, this can cause weakness and flaccid paralysis, that starts in the lower extremities and ascends upward. /在骨骼肌细胞中，它可以导致驰缓性麻痹，从下肢开始，然后向上抬升。
+- He founda woman with flaccid breasts, affectionate and cheap, who calmed his stomach for some time. /他找到了一个乳房松弛、深情又廉价的女人，这让他的胃平静了一段时间。
+- He lifted his head and sniffed the flaccid air, which was laden with a heavy odour. /他抬起头，嗅了嗅带着浓重气味的松软空气。
+- flaccidity
+
+flack (slack, slake, )
 - n. 广告；宣传；高射炮；宣传员
 - [antiaircraft](dic://antiaircraft), [antiaircraft gun](dic://antiaircraft gun), [flak](dic://flak), [pom-pom](dic://pom-pom), [ack-ack](dic://ack-ack), [ack-ack gun](dic://ack-ack gun)
 - [fire](dic://fire), [attack](dic://attack), [flak](dic://flak), [blast](dic://blast)
@@ -5710,6 +5855,8 @@ grump
 grunt
 - **groan**呻吟;**growl**咆哮着说;**moan**呻吟;**scream**尖叫;**roar**吼;**howl**怒吼;**yell**大叫，叫喊;**growling**咆哮的;**moans**呻吟;**rumble**使隆隆响;**whine**闹声;
 - gruntling
+- gruntle
+	- (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, gruntle, lenify, conciliate, quell)s
 - disgruntle
 	-  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
 	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
@@ -5972,7 +6119,8 @@ hammock (hummock)
 - I think Naked Guy's using a hammock. It's like a Play-Doh fat factory /丑裸男在睡吊床 好像猪肉工厂喔。
 - He's taking a nap in his hammock. /他正在吊床上睡小觉。
 
-hamper (tamper)
+hamper
+-  (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
 -  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
 - 1 - 来自古法语 hanap,杯子，酒杯，后引申词义装杯子的大篮子。防碍义词源不详，参照习语basket case,困境。
 - op-hamper
@@ -8772,6 +8920,18 @@ lump (bump, dump, clump, pump)
 - There are some lumps in the sauce /酱汁中有一些块块。
 - a tax-free lump sum. /一次性免税额。
 
+lurch
+- v. 突然倾斜；（因震惊或惊恐等）心猛地一跳，胃猛地翻腾；蹒跚；突然改变（行为或态度）；见死不救；击败 
+- n. 突然倾斜；失败，挫折；蹒跚
+- The train gave a violent **lurch** /火车突然向前猛动了一下。
+- The car took a **lurch** forward. /汽车一个趔趄，向前冲去。
+- Not for wanting to go, but why run off and leave us in the lurch? /她可以离开，但别突然就跑了，让大家措手不及。
+- Mouth dry, stomach lurching, Harry sprang after him, trying not to make a sound /哈利嘴里发干，五脏六腑都搅在了一起。
+- But I feel so guilty taking your money and leaving you in the lurch. /但我很过意不去，拿你的钱，还拖你后腿。
+- A swift rigidity fell on all of them as James lurched one step forward into a crouch /当詹姆斯蜷下腰向我踏出第一步的时候，所有人都迅速地僵直起来。
+- His heart gave a great lurch as he realized that some prisoner was attempting to escape! /意识到这是某个囚犯在试图越狱时，爱德蒙的心被猛地抓紧了！
+- I... I won't leave Carlos in the lurch. /我... 我不会让Carlos为难的。
+- She said that she wouldn't be lurching to the right. /她说她不会倾向于右派。
 
 
 ## M
@@ -8863,6 +9023,7 @@ mangle, maim, mutilate, mayhem, mason(freemasonry) (smith, make, massage, mait)
 	- mauley
 		- _[mauley](dic://mauley)_  n. 手；拳头; n. (Mauley)人名；(英)毛利;
 - mawkish
+	- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 	- adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的
 	- 来自中古英语mauk , 蛆，蛆虫，缩写自mathek。字面意思即长蛆的，来自古代观念认为人发狂或异想天开是因为脑子里长虫了。因此，引申词义无病呻吟的，易伤感的。-k , 小词后缀，同-kin , -ish , 形容词后缀。
 	- _adj._ [emotional](dic://emotional)
@@ -9000,6 +9161,7 @@ match
 - meug-
 
 maudlin
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - maudlin（多愁善感的）：圣经中爱掉眼泪的女人抹大拉  
 - 英语单词maudlin来自《圣经》里的一个女性人物：抹大拉的玛利亚。很久以来这个女人一直以一个被耶稣拯救的妓女形象出现在基督教的传说里：她用忏悔的眼泪为耶稣洗脚，用密软的黑发把它们擦干；在耶稣被钉上十字架行刑的日日夜夜里哀哭祈祷、喂他喝水；耶稣死后她进入停尸的墓穴预备亲自用油脂为其净身，却意外发现耶稣死而复活。由于抹大拉常常以流泪的形象出现，所以她的名字成为了多愁善感者的代名词。  
 - maudlin：['mɔːdlɪn] adj.多愁善感的，易伤感的，易流泪的n.伤感
@@ -9049,7 +9211,7 @@ mazarine
 - n. 深蓝色；深蓝色服装; adj. 深蓝色的（等于mazarine blue）;
 
 meager
-- (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
+-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
 - 来自古法语 maigre,薄的，来自拉丁语 macrum,薄的，细的，长的，大的，来自 PIE*makro,细长的，词源同 macro-.
 - [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
 - [scanty](dic://scanty), [spare](dic://spare), [exiguous](dic://exiguous), [hardscrabble](dic://hardscrabble), [marginal](dic://marginal)
@@ -9776,14 +9938,15 @@ own (freight, fraught)
 pale
 
 paltry
-- (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
+-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
 - **meager**贫乏的;**pitiful**可怜的，令人同情的;**whopping**巨大的;**mere**仅仅的;**hefty**重的;**scant**不足的;**staggering**难以置信的;**modest**谦虚的，谦逊的;**minuscule**小写字;**abysmal**深不可测的;**dismal**凄凉的，忧郁的;
 - [worthless](dic://worthless), [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
 - [measly](dic://measly), [miserable](dic://miserable)
 - [negligible](dic://negligible), [trifling](dic://trifling)
 - [valuable](dic://valuable), [ample](dic://ample)
 
-pamper (pander)
+pamper
+- (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset, pander, pamper)
 - 可能来自 pap,流食，软质食物，-er,表反复。即塞满食物，引申词义娇惯，纵容。插入鼻音字母 m,比较 instinct,stick
 - vt. 纵容; 细心照料; <古>使吃饱
 - [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [coddle](dic://coddle), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
@@ -10923,7 +11086,7 @@ racket (raucous, racket, ruckus, commotion, din, ruction, rumpus, tumult, rowdy,
 - He hates the racket of modern life /他讨厌现代生活的繁忙社交活动。
 - He was known for running a brutal extortion racket./ 他因干过一起残忍的敲诈勒索而出名
 - rackety
-	- (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, rackety) 
+	-  (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, rackety, protean, arbitrary) 
 	- - adj. 喧扰的，喧闹的；不牢固的，摇晃的
 	- [rip-roaring](dic://rip-roaring), [uproarious](dic://uproarious)
 	- **dilapidated**破旧的;**raucous**沙哑的;**noisy**嘈杂的;**dusty**落满灰尘的;**boisterous**热闹的;**wobbly**摆动的;**ghastly**可怕的;**seedy**多种子的;**eccentric**古怪的, 怪癖的;**dodgy**狡猾的，逃避的;**ragged**衣衫褴褛的;
@@ -12262,7 +12425,7 @@ schlock, schlockmeister
 - **drivel**淌口水,说傻话;**horror**惊骇;**trashy**碎屑的;**melodrama**情节剧;**cliches**陈腔滥调;**sci-fi**科幻;**cheesy**干酪质的;**crap**废话;**genre**类型;**crass**粗鲁的;**sleazy**质地薄的;
 
 schmaltz 
-- (mawkish bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy, lugubrious, drippiness, )
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - (Yiddish) excessive sentimentality in art or music
 - **melodrama**情节剧;**cliches**陈腔滥调;**cheesy**干酪质的;**corny**谷类的;**cynicism**犬儒主义;**overdone**把…煮得过久;**lard**猪油;**crass**粗鲁的;**silliness**愚蠢;**nostalgia**对往事的怀恋, 怀旧;**cliche**陈词滥调;
 - [shmaltz](dic://shmaltz), [schmalz](dic://schmalz)
@@ -14717,8 +14880,7 @@ stymie
 - **thwart**反对;**impede**阻止;**stifle**使窒息;**hinder**成为阻碍;**frustrate**使不成功, 挫败, 阻止;**undermine**在某物下挖洞或挖通道;**curtail**截断, 缩短;**obstruct**阻塞;**derail**使出轨;**circumvent**设法克服或避免;**deter**制止，阻止;
 
 sulky
-- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
-- (mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - **grumpy**脾气暴躁的;**cranky**暴躁的;**moody**喜怒无常的;**irritable**易怒的, 急躁的;**resentful**感到愤恨的, 表示愤恨的, 憎恨的;**whiny**烦躁的;**angry**生气的;**impatient**不耐烦的, 急躁的;**annoyed**恼怒的;**aloof**冷淡的;**smug**自满的, 沾沾自喜的;
 sullen
 - [dark](dic://dark), [dour](dic://dour), [glowering](dic://glowering), [glum](dic://glum), [moody](dic://moody), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour)
@@ -14878,7 +15040,7 @@ swivel
 
 
 ## T
-tamp  (tamp, temper, tamper, temping, tempt,)
+tamp  (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament)
 - **quell**镇压;**dampen**抑制;**push**推动;**suppress**抑制;**curtail**截断, 缩短;**flatten**使……平坦;**counteract**对抗;**ratchet**棘轮;**stifle**使窒息;**loosen**放松;**neutralize**使中立;
 - [tamp down](dic://tamp down), [pack](dic://pack)
 - [tamper](dic://tamper), [tamping bar](dic://tamping bar)
@@ -14900,7 +15062,7 @@ tamp  (tamp, temper, tamper, temping, tempt,)
 	- n. 塞子；炮栓；枪口盖
 - tamping
 - tampicin
-- tamper  (tamp, temper, tamper, temping, tempt,)
+- tamper   (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament)
 	- **interfere**干预;**sabotage**妨害;**manipulate**熟练控制;**proof**证明;**destroy**毁坏;**circumvent**设法克服或避免;**tarnish**晦暗;
 	- [manipulate](dic://manipulate), [intervene](dic://intervene), [step in](dic://step in), [interfere](dic://interfere), [interpose](dic://interpose)
 	- _tamper with_ 篡改；贿赂；胡乱摆弄
@@ -16545,6 +16707,28 @@ wonky
 - your sense of judgement is a bit wonky at the moment /此刻你的判断力有点问题。
 - You have a wonky nose and a crooked mouth /你有个歪鼻子和一张斜嘴。
 - they sat drinking, perched on the wonky stools /他们坐在摇晃的小凳上喝酒。
+
+wont
+-  - 来自 PIE*wen,努力，寻求，渴望，词源同 win,wean.引申词义赢得，居住，习惯。
+- n. 习惯  
+- a. 惯常的, 易于...的  
+- vi. 习惯  
+- vt. 使习惯于
+- unwonted
+	- - adj. 不习惯的；不寻常的；少有的
+	- _adj._ [uncommon](dic://uncommon)
+	- _n._ [common](dic://common)
+	- **countenance**面容，表情;**peculiar**特殊的;**astonishment**惊讶, 惊奇;**indignation**愤怒, 愤慨, 气愤;**unwelcome**不受欢迎的, 令人失望的, 令人讨厌的;**apprehension**理解;**exertion**努力;**eagerness**渴望;**unspeakable**恶劣得难以形容的;**zeal**热心;**prodigious**巨大的;
+	- _[infrequent peculiar unusual unwonted](dic://infrequent%20peculiar%20unusual%20unwonted)_ 罕见的
+	- _[unwonted usual](dic://unwonted%20usual)_ 不平常的
+	- _[unaccustomed unused unwonted](dic://unaccustomed%20unused%20unwonted)_ 不习惯的
+	- _[blazing unusual unwonted](dic://blazing%20unusual%20unwonted)_ 不寻常的
+	- _[out-of-the-way unwonted](dic://out-of-the-way%20unwonted)_ 少有的
+	- there was an unwonted gaiety in her manner /她言谈举止中出现了少见的快乐。
+	- "Oh," said Minna, breaking in, lying with sudden unwonted fluency ,"I am a nursegirl." /“嗨”，明娜插嘴说，突然一反往常的习惯，一口气扯着谎，“我也是当保姆的”。
+	- There was an unwonted light in his eyes, and a slight trembling of his lips. /他的眼睛闪耀着一种不同寻常的光彩，他的嘴唇在颤动。
+	- Her distraction was interpreted by him at her side as the outward signs of an unwonted experience /她的分心被她身边的他解释为一种不寻常经历的外在迹象。
+	- 
 
 woo (woo, swoop, goo, oozy)
 - vt. 追求, 向...求爱, 恳求  vi. 求爱, 央求

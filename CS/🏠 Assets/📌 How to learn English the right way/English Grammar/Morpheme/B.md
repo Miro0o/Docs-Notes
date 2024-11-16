@@ -875,9 +875,14 @@
 		1. _[effable](dic://effable)_  adj. 可表达的
 	12. fable
 		1. 自 PIE*bha,说，词源同 phone,fame.指说的故事，寓言等。
-		2. fabliau
-		3. fabler
-		4. fabled
+		2.  [fabrication](dic://fabrication), [fiction](dic://fiction)
+		3.  [parable](dic://parable), [allegory](dic://allegory), [apologue](dic://apologue)
+		4. [legend](dic://legend)
+		5. _n._ [falsehood](dic://falsehood), [falsity](dic://falsity), [untruth](dic://untruth), [story](dic://story)
+		6. **tale**故事;**allegory**寓言;**parable**寓言，比喻;**myth**神话;**tales**候补陪审员召集令;**story**故事;**fairytale**童话式的;**proverb**谚语，格言;**mythological**神话的;**mythology**神话;**mythical**神话的;
+		7. fabliau
+		8. fabler
+		9. fabled
 	13. faerie, faery
 		1.  [fairy](dic://fairy), [faerie](dic://faerie), [fay](dic://fay), [sprite](dic://sprite)
 		2.  [fairyland](dic://fairyland), [faerie](dic://faerie)

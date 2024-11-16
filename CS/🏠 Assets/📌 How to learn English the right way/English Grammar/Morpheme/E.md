@@ -261,7 +261,7 @@
 	1. indigency
 	2. indigent
 		1. indi-,在内，在里，来自 in-的扩大形式，-ig,缺乏，需要，来自拉丁语 egere,需要的，来自 PIE*angh,紧的，紧缩的，词源同 anguish,anxious.引申词义贫穷的。
-		2. (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, )
+		2.  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
 		3.  [destitute](dic://destitute), [impoverished](dic://impoverished), [necessitous](dic://necessitous), [needy](dic://needy), [poverty-stricken](dic://poverty-stricken)
 		4. _adj._ [poor](dic://poor)
 		5. _n._ [rich](dic://rich)
@@ -1305,16 +1305,16 @@
 8. **eso-** = within, 表示“内”。源自希腊语 eso "within."
 	1. esoteric
 		1. (intrinsic, exorcise, occult)
-		2.  (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, exoteric, occult, impenetrable, inscrutable, uninformative)
-		4. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
-		5. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
-		6. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
-		7. esoteric interests. /少数人的利益
-		8. esoteric philosophical debates. /深奥的哲学辩论。
-		9. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
-		10. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
-		11. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
-		12. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
+		2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive,  exoteric, occult, impenetrable, inscrutable, uninformative, inexplicable, convoluted, opaque, ) 
+		3. eso-, 进入、内；-ter, 比较级后缀 + -ic. 字面含义“更里面的，神秘的”。
+		4. [abstruse](dic://abstruse), [deep](dic://deep), [recondite](dic://recondite), [arcane](dic://arcane), [cabalistic](dic://cabalistic), [kabbalistic](dic://kabbalistic), [qabalistic](dic://qabalistic)
+		5. **arcane**晦涩难解的;**mystical**神秘的;**obscure**模糊的;**occult**神秘的;**mysticism**神秘主义;**metaphysical**形而上学的,纯粹哲学的,超自然的;**mystic**神秘的;**philosophical**哲学的;**alchemy**点金术;**mundane**世俗的，平凡的;**idiosyncratic**特殊物质的,特殊的,异质的;
+		6. esoteric interests. /少数人的利益
+		7. esoteric philosophical debates. /深奥的哲学辩论。
+		8. a compilation of esoteric philosophical theories. /神秘的哲学理论书。
+		9. discussion interlaced with esoteric mathematics. /夹杂着深奥数学问题的讨论。
+		10. the novel was too abstract and esoteric to sustain much attention /这本小说太玄奥以至于没能引起多少注意。
+		11. flanges painted with esoteric glyphs. /绘有深奥的象形文字的翼缘。
 9. **im-, in-, il-, ir-** = 来自拉丁语in-，表示“在内，进入，使...”。该拉丁语前缀进入古法语和西班牙语时拼写演变为 en-，这些词进入英语后导致在现代英语里少数单词存在两种拼写形式，如 insure, ensure, 确保；inquire, enquire, 查询。该前缀在字母 b, m, p 前拼写变体为 im-；在字母l前拼写同化为 il-；在字母r前拼写同化为 ir-。
 	1. etc.. (too many!)
 10. **init-** = beginning, 表示“开始”。源自拉丁语 initium "entrance, beginning."
@@ -2360,34 +2360,116 @@
 ### + \*ergh- +
 1. **orbit-** = circle, 表示“圆圈”，医学上指眼（眶）。
 	1. orb
-		1. orbed
-		2. orbicular
-			1. semiorbicular
-	2. orbit
-		1. periorbit
-		2. orbiter
-		3. orbital
-			1. supraorbital
-			2. sphenorbital
-			3. postorbital
-			4. adorbital
-			5. etc..
-	3. exorbitant
-		1. exorbitance
-	4. orbitography
-	5. orbitomeatal
-2. **orchest-,orchestr-** = to dance, 表示“跳舞”。源自希腊语 orkheisthai "to dance."
+		1. n. 球, 天体, 球状物  vt. 成圆形, 成球形
+		2. n. 球；天体；圆形物 
+		3. vt. 成球形；弄圆；围着 
+		4. vi. 沿轨道运行
+		5. [eyeball](dic://eyeball)
+		6. [ball](dic://ball), [globe](dic://globe)
+		7.  [orbit](dic://orbit), [revolve](dic://revolve)
+		8. _n._ [capsule](dic://capsule), [sphere](dic://sphere)
+		9. _v._ [circle](dic://circle), [circulate](dic://circulate)
+		10. **fireball**火球;**celestial**天的, 天空的;**dragon**龙;**glows**发光;**meteor**流星;**mage**博学者;**emerald**绿宝石，翡翠;**teleport**心灵运输;**glowing**灼热的;**astral**星的;**moon**月亮;
+		11. Mars was now an orb the size of a dime. /火星现在是一个小天体。
+		12. Who taught those orbs to move? /谁叫那些圆形物体移动？
+		13. It appears as nothing more than a tiny red orb in our night sky. /它看起来不过是我们的夜空上一颗小小的红色星球。
+		14. On a count of three, Saiko, the dead man's daughter, snips the string tethering the helium-filled orb. /数到三后，死者的女儿彩子（音译）剪断了系住氦气球的绳子。
+		15. Pip saw the multitudinous, God-omnipresent, coral insects, that out of the firmament of waters heaved the colossal orbs. /皮普看见了无数上帝一般无所不在的珊瑚虫，从水的天穹中升起的巨大星体。
+		16. orbed
+		17. orbicular
+			1. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [round](dic://round), [circular](dic://circular)
+			2. _n._ [compound](dic://compound), [square](dic://square)
+			3. **whitish**带白色的;**fleshy**肉的;**yellowish**微黄色的;**triangular**三角形的;**spherical**球的;**brownish**呈褐色的;**elongated**细长的;**elongate**拉长;**silvery**似银的，银色的;**greenish**呈绿色的;**concentric**同一中心的,同轴的;
+			4. _[orbicular](dic://orbicular)_  adj. 圆的；球形的；完整的；环状的
+			5. _[orbicular muscle](dic://orbicular%20muscle)_  [解剖] 轮匝肌
+			6. _[orbicular of eye](dic://orbicular%20of%20eye)_  眼轮匝肌
+			7. The household ruin was thus full and **orbicular**. /这家就这样地完全没落了。
+			8. The cosmos has solemn order and **orbicular** harmony. /宇宙具有严整的秩序，圆满的和谐。
+			9. Eurasian mint(Mentha pulegium)having small lilac - blue flowers and ovate or nearly orbicular leaves that yield a useful, aromatic oil. /薄荷一种欧亚薄荷（唇萼薄荷薄荷属），长有丁香紫蓝色花朵和卵形或近似圆形的叶子，其叶子可生产出一种有用和芳香的油
+			10. semiorbicular
+	7. orbit
+		1. n. 轨道, 常轨, 眼眶  
+		2. vt. 绕...轨道而行  
+		3. vi. 进入轨道, 盘旋
+		4. n. （环绕地球、太阳等运行的）轨道；势力范围，影响范围；眼眶，眼窝 
+		5. v. 沿轨道运行，环绕……运行；使（卫星）进入轨道
+		6. 1 - 来自拉丁语 orbis,圈，环，球体，词源同 orb.引申词义轨道。
+		7. [celestial orbit](dic://celestial orbit)
+		8.  [sphere](dic://sphere), [domain](dic://domain), [area](dic://area), [field](dic://field), [arena](dic://arena)
+		9.  [scope](dic://scope), [range](dic://range), [reach](dic://reach), [compass](dic://compass), [ambit](dic://ambit)
+		10. [electron orbit](dic://electron orbit)
+		11. [eye socket](dic://eye socket), [cranial orbit](dic://cranial orbit), [orbital cavity](dic://orbital cavity)
+		12. [orb](dic://orb), [revolve](dic://revolve)
+		13. _n._ [path](dic://path), [route](dic://route), [itinerary](dic://itinerary), [environment](dic://environment), [extent](dic://extent), [cavity](dic://cavity), [bodily cavity](dic://bodily cavity)
+		14. _v._ [circle](dic://circle), [circulate](dic://circulate)
+		15. **orbital**轨道的;**spacecraft**宇宙飞船;**ISS**工业标准规格;**asteroid**小行星;**planets**行星;**lunar**月的, 月球的;**spaceship**宇宙飞船;**planetary**行星的;**moon**月亮;**comet**彗星;**Jupiter**木星;
+		16. orbit perturbation of spacecraft /航天器轨道摄动
+		17. the earth is in orbit around the sun. /地球在围绕太阳运行。
+		18. the orbit of the outermost of these eight planets. /这八颗行星中最外面那颗的轨道。
+		19. Our satellite itself will orbit around the moon for a period of two days. /我们的人造卫星本身将绕月球运行两天的时间。
+		20. It completes an orbit in just 7 hours and 39 minutes. /它只需 7 小时 39 分钟就完成了一次公转。
+		21. 
+		22. periorbit
+		23. orbiter
+		24. orbital
+			1. adj. 轨道的；<英>（公路）环城的；眼眶的 
+			2. n. <英>外环高速公路；（物理）轨道电子密度
+			3. _adj._ [orbit](dic://orbit), [celestial orbit](dic://celestial orbit), [eye socket](dic://eye socket), [cranial orbit](dic://cranial orbit), [orbital cavity](dic://orbital cavity)
+			4. **orbit**轨道;**orbiting**轨道运行;**planetary**行星的;**spacecraft**宇宙飞船;**lunar**月的, 月球的;**asteroid**小行星;**interstellar**星际的;**galactic**银河的;**planets**行星;**comet**彗星;**radial**半径的;
+			6. supraorbital
+			7. sphenorbital
+			8. postorbital
+			9. adorbital
+			10. etc..
+	9. exorbitant
+		1. a. 过度的, 过高的, 过分的
+		2. ex-出 + orbit-轨道 + -ant表形容词 → 出轨的 , 过分的。
+		3.  [extortionate](dic://extortionate), [outrageous](dic://outrageous), [steep](dic://steep), [unconscionable](dic://unconscionable), [usurious](dic://usurious)
+		4. _adj._ [immoderate](dic://immoderate)
+		5. _n._ [moderate](dic://moderate)
+		6. **hefty**重的;**paying**支付的;**outrageous**骇人的;**expensive**昂贵的, 花钱多的;**prohibitive**禁止的;**excessive**过度的, 过分的;**pay**支付，付;**outrageously**凶残地;**absurdly**愚蠢地;**paltry**不足取的;**extravagant**奢侈的, 铺张的;
+		7. exclusive fabrics at exorbitant prices. /漫天要价的高级织品。
+		8. the exorbitant prices are explainable in the light of the facts. /考虑到实际情况，这么高的价钱也是情有可原的。
+		9. That seaside hotel charges exorbitant prices during the summer holidays. /那家海滨旅馆在夏天休假期间漫天要价。
+		10. a drill that ate away at the rock; exorbitant expenses that were eating into profits. /锤子把岩石敲掉；过度的花费会消耗利润
+		11. Foremost among them is the exorbitant cost of sending money home. /最大的障碍是寄钱回家的高额费用。
+		12. Or at the very least I'm going to have to pay an exorbitant bribe to get past. /或者至少我得付一大笔贿赂才能过关。
+		13. Always, the exorbitant demands rode upon military ventures. /过高的要求总是对军事冒险产生影响。
+		14. exorbitance
+			1.  [outrageousness](dic://outrageousness)
+			2. _n._ [excess](dic://excess), [excessiveness](dic://excessiveness), [inordinateness](dic://inordinateness)
+			3. **exorbitant**过高的;**excesses**越轨;**indulgence**放纵;**unbridled**无辔头的;**excessive**过度的, 过分的;**extravagant**奢侈的, 铺张的;**immorality**不道德,无道义;**absurdity**荒谬;**folly**愚蠢;**indifference**不关心,不在乎;**arrogance**傲慢;
+			4. Cooling blade temperature **exorbitance**, has got to isothermal degree descent. /散热片温度过高，必须等温度降下。
+			5. **Exorbitance** , can aggravate blade yellowing paper; too low, you can not reach the required appropriate whiteness /过高，会加剧涂布白板纸返黄的程度；过低，则达不到所需合适的白度。
+	10. orbitography
+	11. orbitomeatal
+4. **orchest-,orchestr-** = to dance, 表示“跳舞”。源自希腊语 orkheisthai "to dance."
 	1. orchestic
 		1. orchestra
 		2. orchestral
 		3. orchestrate
-3. **orchi-,orchio-, -orchium** = testes, 表示“睾丸”。来自希腊语的 orcheome（舞蹈），古雅典运动员跑步是裸体的，这个时候 xx 就像在跳舞。源自希腊语orkhis "testicle."
+5. **orchi-,orchio-, -orchium** = testes, 表示“睾丸”。来自希腊语的 orcheome（舞蹈），古雅典运动员跑步是裸体的，这个时候 xx 就像在跳舞。源自希腊语orkhis "testicle."
 	1. orchid
-		1. orchidist
-		2. orchidaceous
-	2. orchil
-	3. orchis
-	4. orchitis
+		1. n. 兰花, 淡紫色
+		2. orchid（兰花）：根部像男人睾丸的花卉  
+		3. 提起兰花，我们脑子里会涌现一种优雅脱俗的花朵。但在西方很多国家的文字里，有些墨守成规的礼法人士在女士面前却羞于提起兰花。原来，英语中表示“兰花”的单词orchid来自希腊语orchis（睾丸）。因为兰花是孖根植物，根部与男子睾丸一样成双成对且形状相似。在古英语中“兰花”和“睾丸”都是orchid，后来为了避免误解和文雅，就用testicle来表示“睾丸”，而用orchid 专指兰花。至今orchid作为词根在一些医学术语中还是指“睾丸”，如orchiopexy（睾丸固定术）。  
+		4. orchid：['ɔːkɪd] n.兰花，兰科植物，淡紫色adj.淡紫色的  
+		5. orchiopexy：[,ɔ:ki'ɔpəksi] n. 睾丸固定术
+		6. orchid ['ɔːkɪd] n.兰花；淡紫色，adj.淡紫色的。哇，淡紫色，好浪漫哦！慢着，地表之上这货确实漂亮，但地表之下的根很猥琐哦。怎讲？因为orchid这个单词的希腊词源本意是“睾丸”，因为其根上有两个睾丸状的东东。英国人也挺直白，把兰花叫做fool'sballocks，ballocks=ball+指小后缀-ock+复数s。 ​​​​
+		7.  [orchidaceous plant](dic://orchidaceous plant)
+		8. _n._ [flower](dic://flower)
+		9. **flower**花;**fern**蕨类植物;**blooms**水华;**ferns**蕨类;**lilac**淡紫色;**botanical**植物学的;**flowering**开花的;**floral**用花制作的;**lily**百合花，百合;**cactus**仙人掌;**blooming**盛开的;
+		10. Many orchids have resupinate flowers. /许多种兰花都有倒垂的花朵。
+		11. The bacterium is the bulbiform bacili of negative of coloring of change orchid family name. /细菌为革兰氏染色阴性的球状杆菌。
+		12. The flowers with showy colour is put aptly on tea table, moonish season, orchid; /茶几上适宜摆放色彩艳丽的花卉，如月季、兰花等；
+		13. orchidist
+		14. orchidaceous
+	5. orchil
+		1. - n. 红色染料；苔色素；石蕊地衣；[染料] 紫色地衣染料
+		2. [archil](dic://archil), [cudbear](dic://cudbear)
+		3. _n._ [dye](dic://dye), [dyestuff](dic://dyestuff), [lecanora](dic://lecanora)
+	6. orchis
+	7. orchitis
 		1. rheumorchitis
 		2. periorchitis
 		3. panorchitis
@@ -2399,20 +2481,44 @@
 	1. aberration
 		1. ab-离开 + err-错误 + -ation表名词
 		2. n 离开正路, 偏离, 畸变, 光行差, 心理失常, 色差
-		3. aberrance, aberrancy,
-		4. aberrant
+		3. - n. 反常现象，异常行为；偏离；行为异常的人；精神失常；畸变；像差；光行差
+		4. _n._ [abnormality](dic://abnormality), [abnormalcy](dic://abnormalcy), [abnormal condition](dic://abnormal condition), [mental disorder](dic://mental disorder), [mental disturbance](dic://mental disturbance), [disturbance](dic://disturbance), [psychological disorder](dic://psychological disorder)
+		5. **anomaly**不规则;**abnormality**不正常,反常,变态,畸形;**anomalous**不规则的,反常的;**distortion**变形;**deviation**背离,偏离;**correction**改〔纠〕正;**phenomenon**现象;**fluke**侥幸;**blip**物体光点;**imbalance**不平衡;**polarization**极化;
+		6. _spherical aberration_ n. 球面像差
+		7. _chromatic aberration_ n. 色差；像差
+		8. _chromosome aberration_ [医]染色体畸变
+		9. _chromosomal aberration_ 染色体畸变
+		10. _optical aberration_ 像差，光学象差；视差
+		11. _wave aberration_ 波像差；波象差
+		12. _aberration rate_ 畸变率，畸形率
+		13. regretted the aberrations of her early life; /为她早年生活的过失感到懊悔；
+		14. events that were aberrations from the norm. /不合常规的事件
+		15. There is a different spherochromatism after the two systems correct secondary spectrum, spherical aberration and comatic aberration. /当这两种系统消球差、彗差及复消色差后会产生不同的色球差。
+		16. We know that radiation causes or will induce these chromosome aberrations, or rearrangement of the chromosomes. /我们已知辐射会引起或诱发染色体的畸变或重排。
+		17. Is this an aberration or the new normal? /这是一种反常现象还是新常态？
+		18. What looked like an aberration might thus be a normal way of behaving. But why? /因此，一种看似怪异的行为可能是一种正常的行为方式。但为什么这样？
+		19. 
+		20. aberrance, aberrancy,
+		21. aberrant
 			1. ab-离开 + err-错误 + -ant表形容词 → 离开[正确]走向错误 → 越轨的。
-	2. arrant
-		1. 单词errant（偏离）变体，词义贬义化。
-		2.  [complete(a)](dic://complete(a)), [consummate(a)](dic://consummate(a)), [double-dyed(a)](dic://double-dyed(a)), [everlasting(a)](dic://everlasting(a)), [gross(a)](dic://gross(a)), [perfect(a)](dic://perfect(a)), [pure(a)](dic://pure(a)), [sodding(a)](dic://sodding(a)), [stark(a)](dic://stark(a)), [staring(a)](dic://staring(a)), [thoroughgoing(a)](dic://thoroughgoing(a)), [utter(a)](dic://utter(a)), [unadulterated](dic://unadulterated)
-		3. _adj._ [unmitigated](dic://unmitigated)
-		4. _n._ [mitigated](dic://mitigated)
-		5. **utter**以口发出声音;**nonsense**谬论;**idiocy**白痴;**abject**卑贱的;**folly**愚蠢;**foolishness**愚蠢;**drivel**淌口水,说傻话;**falsehood**谎言;**blatant**明目张胆的;**patently**公然地;**pompous**浮夸的;
-		6. **极恶的**
-		7. **彻头彻尾的**
-		8. **完全的**
-		9. **极坏的**
-	3. err
+	9. arrant (eccentric)
+		1. 浮夸的;
+		7. **极恶的**
+		8. **彻头彻尾的**
+		9. **完全的**
+		10. **极坏的**
+		2. 单词errant（偏离）变体，词义贬义化。
+		3.  [complete(a)](dic://complete(a)), [consummate(a)](dic://consummate(a)), [double-dyed(a)](dic://double-dyed(a)), [everlasting(a)](dic://everlasting(a)), [gross(a)](dic://gross(a)), [perfect(a)](dic://perfect(a)), [pure(a)](dic://pure(a)), [sodding(a)](dic://sodding(a)), [stark(a)](dic://stark(a)), [staring(a)](dic://staring(a)), [thoroughgoing(a)](dic://thoroughgoing(a)), [utter(a)](dic://utter(a)), [unadulterated](dic://unadulterated)
+		4. _adj._ [unmitigated](dic://unmitigated)
+		5. _n._ [mitigated](dic://mitigated)
+		6. **utter**以口发出声音;**nonsense**谬论;**idiocy**白痴;**abject**卑贱的;**folly**愚蠢;**foolishness**愚蠢;**drivel**淌口水,说傻话;**falsehood**谎言;**blatant**明目张胆的;**patently**公然地;**pompous**
+		7. an arrant fool; the arrant luxury of the ocean liner. /十足的傻瓜；极其豪华的定期远洋客轮
+		8. I told you that the travelling tradesman does not bear a very high reputation in England; and notwithstanding his apparent simplicity, this fellow may turn out to be an arrant cheat. /我告诉过你， 旅行商人在英国的名声并不高； 尽管他表面上看起来很简单， 但这个人可能会成为一个彻头彻尾的骗子。
+		9. " I have worked, I do work, " I cried impetuously, as though he were my judge and I required vindication, and at the same time very much aware of my arrant idiocy in discussing the subject at all. /" 我工作，我干过工作。" 我冲动起来，大叫，仿佛他是法官，我需要申辩。 同时我也强烈地意识到由我自己来讨论这个问题奇笨无比。
+		10. That's **arrant** nonsense. /那完全是胡说。
+		11. Most of his theories are **arrant** nonsense /他的大多数理论都是胡说八道。
+		12. But my lazy little shadow, like an **arrant** sleepyhead. /
+	10. err
 		1. 1 - 来自 PIE*ers,漫游，偏离，引申词义错误，词源同 error.
 		2. errancy
 			1. err-漫游 + -ancy
@@ -2422,20 +2528,21 @@
 		5. error, inerrable
 			1. inerrancy
 			2. uerroring
-	4. errand, 
+	11. errand, 
 		1.  来自 PIE*ei,走，离开。其现在分词 ion,过去分词 it,词源同 exit,itinerary,该词来自其拉丁语现在主动不完全格 ire.
-	5. errant
-		1. a. 周游的, 离开正道的, 不定的
-		2. _adj._ [fallible](dic://fallible), [uncontrolled](dic://uncontrolled)
-		3. _n._ [infallible](dic://infallible), [controlled](dic://controlled)
-		4. **wayward**任性的;**hapless**运气不好的，倒霉的;**stray**走失的家畜;**misguided**由错误思想指引的,不明智的;**unsuspecting**无疑心的;**careless**粗心的;**offending**不愉快的,厌恶的;**would-be**想要成为的,自称自许的,自充的;**well-meaning**善意的;**erroneous**错误的, 不正确的;**untimely**不合时宜的;
-		5. _knight errant_ n. 唐·吉诃德式的人物；游侠骑士
-		6. an errant afternoon breeze. /午后飘忽不定的微风
-		7. he could never forgive his daughter's errant ways. /他永远无法原谅女儿的出格行为。
-		8. She went to Paris to bring back her errant son. /她到巴黎去把误入歧途的儿子领回来。
-		9. An errant May-fly swerved unsteadily athwart the current in the intoxicated fashion affected by young bloods of May-flies seeing life.  A swirl of water and a ‘cloop!’ /一只随波漂流的蜉蝣，满怀着血气方刚的后生对生活的憧憬，正歪歪斜斜地逆水游来。
-	6. erratic 
-		1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, portean) 
+	12. errant
+		1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, rackety, protean, arbitrary) 
+		2. a. 周游的, 离开正道的, 不定的
+		3. _adj._ [fallible](dic://fallible), [uncontrolled](dic://uncontrolled)
+		4. _n._ [infallible](dic://infallible), [controlled](dic://controlled)
+		5. **wayward**任性的;**hapless**运气不好的，倒霉的;**stray**走失的家畜;**misguided**由错误思想指引的,不明智的;**unsuspecting**无疑心的;**careless**粗心的;**offending**不愉快的,厌恶的;**would-be**想要成为的,自称自许的,自充的;**well-meaning**善意的;**erroneous**错误的, 不正确的;**untimely**不合时宜的;
+		6. _knight errant_ n. 唐·吉诃德式的人物；游侠骑士
+		7. an errant afternoon breeze. /午后飘忽不定的微风
+		8. he could never forgive his daughter's errant ways. /他永远无法原谅女儿的出格行为。
+		9. She went to Paris to bring back her errant son. /她到巴黎去把误入歧途的儿子领回来。
+		10. An errant May-fly swerved unsteadily athwart the current in the intoxicated fashion affected by young bloods of May-flies seeing life.  A swirl of water and a ‘cloop!’ /一只随波漂流的蜉蝣，满怀着血气方刚的后生对生活的憧憬，正歪歪斜斜地逆水游来。
+	14. erratic 
+		1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, rackety, portean) 
 		2.  (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, quaint, queer, odd, curious, peculiar, strange, singular, crazy, erratic,)
 		3. (eccentric, queer, erratic, )
 		4. err-错误 + -atic → [被人认为]错误的 → 古怪的。
@@ -2448,7 +2555,7 @@
 		11. he was let down by an erratic serve. /一个奇怪的发球让他扫兴。
 		12. He is a very erratic football player. /他是个技术非常不稳定的足球队员。
 		13. Bill's erratic moods upset everyone in our office. /比尔古怪的情绪使我们办公室的每个人都心烦。
-	8. erratum
+	15. erratum
 		1. err-漫游 + -atum
 		2. **corrected**折算的,修正的,校正的;**typo**排印错误;**reprint**再版;**publication**出版;**correction**改〔纠〕正;**footnote**脚注;**retraction**收回;**appendix**附
 
@@ -2635,6 +2742,35 @@
 
 
 ## et
+### eth-  表示“乙，二”。
+1. ethane
+	1. n. 乙烷
+	2. eth-已 + -ane...烷
+	3. 来自 ether,乙醚，-ane,化学名词后缀。
+	4. _n._ [methane series](dic://methane series), [alkane series](dic://alkane series), [alkane](dic://alkane), [paraffin series](dic://paraffin series), [paraffin](dic://paraffin), [hydrocarbon](dic://hydrocarbon)
+	5. **methane**甲烷;**benzene**苯;**hydrocarbon**碳氢化合物;**ethylene**乙烯;**hydrogen**氢;**ammonia**氨，阿摩尼亚;**methanol**甲醇;**LNG**液化天然气;**petroleum**石油;**shale**页岩;**propane**丙烷;
+	6. _epoxy ethane_ 环氧乙烷
+	7. They're formed when ultraviolet light interacts with ethane you see. /它们是由于紫外线对乙烷的作用形成的，你看。
+	8. The infrastructure to turn that ethane into plastic, has expanded. /将乙烷转化为塑料的基础设施已经扩大。
+	9. Their liquid is not water but ethane and methane. /它们的液体不是水， 而是乙烷和甲烷。
+	10. It has lakes and seas of liquid methane and ethane, instead of water. /它有液态甲烷和乙烷的湖泊和海洋，而不是水。
+	11. The inner envelope filled with helium in the head section of the blimp and the third built-in airbag at the tail is filled with **ethane** combustible gas. /飞船头部的内置气囊中充满了氦气，而置于尾部的第三节内置气囊则充满了乙烷可燃气体。
+2. ethanol [美 /'ɛθənɔl/](cmd://Speak/_us_/ethanol)
+	1. [ethyl alcohol](dic://ethyl alcohol), [fermentation alcohol](dic://fermentation alcohol), [grain alcohol](dic://grain alcohol)
+	2. _n._ [alcohol](dic://alcohol), [plant product](dic://plant product)
+	3. **methanol**甲醇;**biofuel**生物燃料;**biofuels**生物燃料;**gasoline**汽油;**acetone**丙酮;**sucrose**蔗糖;**fuel**得到燃料;**biomass**生物量;**cellulose**纤维素;**fructose**左旋糖;**corn**玉米;
+	4. For example, ethanol produced from farm-grown corn is grouped as first-generation ethanol. /例如，用农场种植的玉米中生产的乙醇被归类为第一代乙醇。
+	5. If there's oxygen around, these bacteria convert the ethanol in wine into, well, acetic acid. /若周围有氧气，这些细菌会将 葡萄酒中的乙醇转换成… … 醋酸。
+	6. In this process, ethanol is produced in addition to CO2. /在这个过程中，会产生乙醇和二氧化碳。
+4. ethene [美 /'ɛθin/](cmd://Speak/_us_/ethene)
+5. ethylene
+	1.  [ethene](dic://ethene)
+	2. _n._ [alkene](dic://alkene), [olefine](dic://olefine), [olefin](dic://olefin), [gas](dic://gas)
+	3. **polyethylene**聚乙烯;**glycol**乙二醇;**monomer**单体;**benzene**苯;**ethyl**乙烷基;**methyl**甲基;**methanol**甲醇;**nitrogen**氮;**ammonium**铵;**amine**胺;**copolymer**共聚物;
+	4. impact of ethylene on plants /乙烯对植物的影响
+6. diethazine
+
+
 ### -ety, 表状态
 1. anxiety
 2. contrariety

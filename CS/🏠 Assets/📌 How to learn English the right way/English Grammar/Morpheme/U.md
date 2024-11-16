@@ -349,10 +349,11 @@
 		3. successive
 		4. successor
 	3. succinct
-		1. succinctness
-		2. succincity
-	4. succumb
-	5. suffer
+		1. (taut, curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident,)
+		2. succinctness
+		3. succincity
+	5. succumb
+	6. suffer
 		1. suffering
 		2. sufferer
 		3. sufferance
@@ -360,27 +361,27 @@
 		5. long-suffering
 		6. insufferably
 		7. insufferable
-	6. suffice
+	7. suffice
 		1. sufficingly
 		2. sufficient
 		3. sufficiency
 		4. self-sufficing
-	7. suffix
+	8. suffix
 		1. suffixation
 		2. suffixal
-	8. suffocate
+	9. suffocate
 		1. suffocative
 		2. suffocation
 		3. suffocating
-	9. suffuse, suffusion
-	10. supine
+	10. suffuse, suffusion
+	11. supine
 		1. supinely
 		2. supinate
 		3. semisupine
 		4. resupination
-	11. supplant
-	12. supplanter
-	13. supple
+	12. supplant
+	13. supplanter
+	14. supple
 		1. [lissome](dic://lissome), [lissom](dic://lissom), [lithe](dic://lithe), [lithesome](dic://lithesome), [slender](dic://slender), [svelte](dic://svelte), [sylphlike](dic://sylphlike)
 		2. suppleness
 		3. supplely

@@ -772,7 +772,7 @@
 	8. optimistical
 	9. soroptimist
 5. **ure-, euver-** = = work, 表示“工作”，是拉丁词根 oper- 的法语形式。源自拉丁语 operari "to work, operate," 借道法语时产生的变体。
-	1. inure
+	1. inure (manure)
 		1. in-进入，使 + ure, 工作，实践，练习，即经常练习，使习惯。
 		2.  [harden](dic://harden), [indurate](dic://indurate)
 		3. _v._ [habituate](dic://habituate), [accustom](dic://accustom)
@@ -784,23 +784,24 @@
 	3. maneuver, outmaneuver
 	4. manoeuvre
 	5. manure
-		1. n. 肥料, 粪肥  
-		2. vt. 施肥于
-		3. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
-		4. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
-		5. _n._ [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
-		6. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
-		7. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
+		1. (manure, ordure, feces, excrement, dung)
+		2. n. 肥料, 粪肥  
+		3. vt. 施肥于
+		4. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
+		5. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
+		6. _n._ [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
+		7. _v._ [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)
+		8. **dung**动物的粪便;**compost**堆肥;**fertilizer**肥料;**feces**排泄物;**hay**干草;**mulch**覆盖物，护盖物;**pasture**牧场;**composting**堆制肥料;**cow**奶牛，母牛;**poop**船尾;**soil**土地;
 			1. _green manure_ 绿肥；未熟的堆肥
 			2. _pig manure_ 猪粪；猪粪肥
 			3. _chicken manure_ 鸡粪
 			4. _animal manure_ 动物性杂肥，畜肥
 			5. _horse manure_ 马粪，马粪肥
-		8. Sheep's little fertilizer pellets or manure is 30 percent carbon /绵羊的少量化肥颗粒或粪便含有30%的碳。
-		9. There isn't time to dig deeply and put in **manure** or compost /没有时间挖得再深些，并放入粪肥或堆肥。
-		10. Aerobium were added to the compost using chicken manure and wheat straw as raw materials.Effects of transformation promoter on the chicken manure compost fermentation were investigated. /摘要 选用鸡粪和小麦秸秆为原料进行高温好氧堆肥，研究促腐剂在鸡粪堆肥发酵中的应用。
-		11. muck
-		12. manuring, manurial
+		9. Sheep's little fertilizer pellets or manure is 30 percent carbon /绵羊的少量化肥颗粒或粪便含有30%的碳。
+		10. There isn't time to dig deeply and put in **manure** or compost /没有时间挖得再深些，并放入粪肥或堆肥。
+		11. Aerobium were added to the compost using chicken manure and wheat straw as raw materials.Effects of transformation promoter on the chicken manure compost fermentation were investigated. /摘要 选用鸡粪和小麦秸秆为原料进行高温好氧堆肥，研究促腐剂在鸡粪堆肥发酵中的应用。
+		12. muck
+		13. manuring, manurial
 #### + \*op- (2) + = to choose, prefer
 1. **opt-** = choose, 表示“选择”。源自拉丁语 optio "choice," optare "to choose," opinari "to be of an opinion"
 	1. adopt
@@ -848,14 +849,20 @@
 			2. [narrow-minded](dic://narrow-minded), [narrow](dic://narrow)
 			3. self-opiniionated
 	9. optimise
+		1. - 来自 optimum,最优，最佳，-ism,主义，思想。比喻用法。
+		2. n. 乐观主义, 乐观, 乐天
+		3. 
 
 
 ### opac-,opaq- = 表示“暗，阴影”，来自拉丁语 opacus。
 1. opacity
 2. opaque
-	1.  [unintelligible](dic://unintelligible)
-	2. _adj._ [cloudy](dic://cloudy), [muddy](dic://muddy), [mirky](dic://mirky), [murky](dic://murky), [turbid](dic://turbid), [fogged](dic://fogged), [foggy](dic://foggy)
-	3. **transparent**透明的;**translucent**半透明的;**opacity**不透明;**impenetrable**不能穿过的;**murky**黑暗的;**iridescent**彩虹色的;**shimmery**闪烁的;**off-white**白色;**obscured**遮蔽的;**tinted**着色的，带色彩的;**amorphous**无定形的;
+	1. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive,  exoteric, occult, impenetrable, inscrutable, uninformative, inexplicable, convoluted, opaque, ) 
+	2. opaq-阴影 + -ue → 不透明的。
+	3. a. 不透明的, 浑浊的; 难理解的
+	4.  [unintelligible](dic://unintelligible)
+	5. _adj._ [cloudy](dic://cloudy), [muddy](dic://muddy), [mirky](dic://mirky), [murky](dic://murky), [turbid](dic://turbid), [fogged](dic://fogged), [foggy](dic://foggy)
+	6. **transparent**透明的;**translucent**半透明的;**opacity**不透明;**impenetrable**不能穿过的;**murky**黑暗的;**iridescent**彩虹色的;**shimmery**闪烁的;**off-white**白色;**obscured**遮蔽的;**tinted**着色的，带色彩的;**amorphous**无定形的;
 
 
 

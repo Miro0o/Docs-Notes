@@ -578,6 +578,71 @@
 3. curry
 
 
+### + \*reidh- +
+1. **rid-** 这是一组同源词，原始含义表示 "to ride" 骑行。
+	1. ride
+		1. n. 骑马, 乘坐, 乘车, 搭便车  
+		2. vt. 骑, 乘坐, 压迫, 控制  
+		3. vi. 骑马, 乘车, 漂游
+	2. palfrey
+		1. n. (妇女骑的)驯马
+	3. raid
+		1. n. 袭击, 突袭, 搜捕  v. 奇袭, 搜捕
+	4. ready
+		1.  来自古英语 raede,准备好的，准备好上马的，词源同 ride,骑马。
+		2. n. 预备好的状态, 现款  
+		3. a. 准备好的, 备用的, 可以使用的  
+		4. ad. 预先, 迅速  
+		5. vt. 使准备好
+	6. road
+		1. n. 路, 道路, 公路, 途径, 方法
+		2. road（马路）：供骑马行走的路  
+		3. road一词在英语里泛指“路”时，相当于汉语里的“马路”。“马路”可以指供车马行走的道路，也可以指一般的路。而road的祖先恰好也同“马”有关。  
+		4. road在古英语中写作rad，是从ridan（即“ride”，骑马）一词演变来的，rad就是“供骑马行走的路”，也就是“马路”。尽管中国的“马路”上并不一定有马，英国的“road”上也不一定有骑马的人，然而我们都这样习惯的叫下去。  
+		5. road： [rəʊd] n.马路，公路  
+		6. ride：[raɪd] v. 骑；乘；骑马；乘车；漂浮n. 骑；乘坐
+2. array
+	1. [raiment](dic://raiment), [regalia](dic://regalia)
+	2.  [range](dic://range), [lay out](dic://lay out), [set out](dic://set out)
+	3.  [align](dic://align)
+	4. _n._ [arrangement](dic://arrangement), [display](dic://display), [clothing](dic://clothing), [article of clothing](dic://article of clothing), [vesture](dic://vesture), [wear](dic://wear), [wearable](dic://wearable)
+	5. _v._ [arrange](dic://arrange), [set up](dic://set up), [stand](dic://stand)
+	6. **assortment**分类;**variety**种类;**diverse**不同的;**range**范围;**multitude**大量, 许多;**plethora**过剩;**varied**多变的;**myriad**无数的;**combinations**组合;**expansive**可扩大的, 可扩展的;**eclectic**兼收并蓄的;
+	7. a colourful array of fruit /一大批色彩鲜艳的水果。
+	8. an array of royal jewels. /一串价值连城的首饰
+	9. there is a vast array of literature on the topic. /关于这个题目的文献浩如烟海。
+	10. a bewildering array of choices. /多得令人眼花缭乱的选择。
+	11. array troops for battle /使部队列队准备战斗
+	12. She was arrayed with splendid trappings /她穿着华丽的礼服。
+	13. an array of diamond rings in a showcase; /陈列框里的一排钻石项链；
+	14. subarray
+	15. outarray
+	16. microarray
+	17. inarray
+	18. disarray
+		1. vt. 弄乱, 使混乱, 使脱去衣服  
+		2. n. 无秩序, 杂乱, 不整齐的衣着
+		3. dis-不，非，使相反 + array【安排，布置】。引申义使紊乱。
+		4.  [confusion](dic://confusion), [mental confusion](dic://mental confusion), [confusedness](dic://confusedness), [muddiness](dic://muddiness)
+		5. [disorderliness](dic://disorderliness)
+		6. [disorder](dic://disorder)
+		7. _n._ [cognitive state](dic://cognitive state), [state of mind](dic://state of mind), [untidiness](dic://untidiness), [messiness](dic://messiness)
+		8. _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		9. **chaos**混沌，混乱;**turmoil**混乱，骚动;**disorganized**紊乱的, 无组织的;**upheaval**剧变;**chaotic**混乱的，无秩序的;**mess**混乱;**disrepair**失修,破损;**mismanagement**办错,管理不善;**crumbling**皱纹;**confusion**惶惑;**discord**不和;
+		10. the inspection disarrayed the usual schedule. /这次视察打乱了平时的日程安排。
+		11. attendant damsels to help to disarray her. /女招待们帮着把她的衣服脱了。
+		12. a period of disarray within the National Party /国家党內部的一段混乱时期
+		13. his plans have been thrown into disarray . /他的那些计划被弄得乱七八糟。
+		14. Our plans were thrown into disarray by the rail strike /铁路罢工打乱了我们的计划。
+		15. After three khaki-shorted AWB thugs were killed, the rest fled in disarray. /三个着黄卡其布短衫的暴徒被击毙，剩余的作鸟兽散。
+		16. The Italian army is in disarray in the desert. /意大利军队在沙漠中乱成一团。
+		17. There you're met with a civilization in disarray. /在那里你会遇到一个混乱的文明。
+	19. arraytype
+	20. arraypitch
+	21. arrayal
+4. curry
+
+
 ### + \*reie- + = to flow, run
 1. **riv-** = flow, 「Latin」rivus, "stream"
 	1. derive

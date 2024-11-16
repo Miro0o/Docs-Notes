@@ -727,8 +727,11 @@
 		5. contemporaneous
 		6. contemporary
 	3. contretemps
-		1. **fiasco**惨败;**controversy**争论;**debacle**崩溃;**dispute**争论;**contentious**容易引起争论的,好争论的;**quarrel**吵架;**uproar**骚动;**disagreement**分歧, 意见不合;**scandal**丑闻;**mishap**灾祸;**bickering**争吵;
-	4. extempore (impromptu, extempore, )
+		1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, )
+		2. n. 不幸事情, 令人难堪的龌蹉
+		3. **fiasco**惨败;**controversy**争论;**debacle**崩溃;**dispute**争论;**contentious**容易引起争论的,好争论的;**quarrel**吵架;**uproar**骚动;**disagreement**分歧, 意见不合;**scandal**丑闻;**mishap**灾祸;**bickering**争吵;
+		4. I'm sorry to hear you've had a contretemps with your sister.
+	5. extempore (impromptu, extempore, )
 		1. a. 即席的, 当场的  
 		2. ad. 即席, 当场  
 		3. n. 即席之作
@@ -738,34 +741,36 @@
 		7. extemporary, extemporarily
 		8. extemporaneous
 		9. extemporal
-	5. temporise, temporize
-		1. **postpone**使…延期;**expedient**应急有效的;**defer**延期;**persuade**说服，劝说;**earnestly**认真地;**concede**承认;**hasten**催促;**abandon**离弃;**avert**避免，防止;**renounce**宣布放弃;**intervene**干涉;
-		2. temporal
+	6. temporise, temporize
+		1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, )
+		2. **postpone**使…延期;**expedient**应急有效的;**defer**延期;**persuade**说服，劝说;**earnestly**认真地;**concede**承认;**hasten**催促;**abandon**离弃;**avert**避免，防止;**renounce**宣布放弃;**intervene**干涉;
+		3. temporal
 			1. temporalty
 			2. temporalize
 			3. temporality
 			4. spatio-temporal
-		3. temporary
+		4. temporary
 			1. temporariness
 			2. temporarily
-		4. temporizingly
-		5. temporizer
-		6. temporization
-	6. spatiotemporal
-	7. tempest
-		1. temp-时间引起天气变化 + -est → 天气聚变 → 暴风雨。
-		2. 来自拉丁语 tempestas,风暴，暴风雨，暴风雪，来自 tempus,时间，季节，词源同 temporal.词义由一段时间引申为特殊的时间，恶劣天气，最后指暴风雨雪天气，即代表性的天气特征。词义演变比较 meteor,meteorology.
-		3. 1. n. 暴风雨；骚动；动乱
-		4. vt. 使狂怒；扰乱，使激动
-		5. vi. 小题大作；起大风暴
-		6. [storm](dic://storm)
-		7. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
-		8. **storm**暴风雨;**fury**狂怒;**gale**大风，狂风;**teapot**茶壶;**stormy**暴风雨的;**storms**暴风雨;**hurricane**飓风;**wrath**愤怒;**raging**愤怒的，狂暴的;**calamity**不幸事件;**thunder**雷;
-		9. a tempest of laughter /大笑, 狂笑
-		10. The tempest beats against the house. /暴风雨冲击着这座房子。
-		11. There Jo was mistaken, for next day she made a discovery which produced a tempest. /这里乔可是想错了。因为第二天她就发现了一件事，引起了轩然大波。
-		12. Nor did they. The wind became a tempest, the woods roared and creaked all round them. /它们的确不知道。风越刮越猛，树林发出阵阵呼啸，在风中发出嘎吱嘎吱的声音。
-		13. tempestuous
+		5. temporizingly
+		6. temporizer
+		7. temporization
+	8. spatiotemporal
+	9. tempest
+		1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
+		2. temp-时间引起天气变化 + -est → 天气聚变 → 暴风雨。
+		3. 来自拉丁语 tempestas,风暴，暴风雨，暴风雪，来自 tempus,时间，季节，词源同 temporal.词义由一段时间引申为特殊的时间，恶劣天气，最后指暴风雨雪天气，即代表性的天气特征。词义演变比较 meteor,meteorology.
+		4. 1. n. 暴风雨；骚动；动乱
+		5. vt. 使狂怒；扰乱，使激动
+		6. vi. 小题大作；起大风暴
+		7. [storm](dic://storm)
+		8. _n._ [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion), [flutter](dic://flutter), [hurly burly](dic://hurly burly), [to-do](dic://to-do), [hoo-ha](dic://hoo-ha)
+		9. **storm**暴风雨;**fury**狂怒;**gale**大风，狂风;**teapot**茶壶;**stormy**暴风雨的;**storms**暴风雨;**hurricane**飓风;**wrath**愤怒;**raging**愤怒的，狂暴的;**calamity**不幸事件;**thunder**雷;
+		10. a tempest of laughter /大笑, 狂笑
+		11. The tempest beats against the house. /暴风雨冲击着这座房子。
+		12. There Jo was mistaken, for next day she made a discovery which produced a tempest. /这里乔可是想错了。因为第二天她就发现了一件事，引起了轩然大波。
+		13. Nor did they. The wind became a tempest, the woods roared and creaked all round them. /它们的确不知道。风越刮越猛，树林发出阵阵呼啸，在风中发出嘎吱嘎吱的声音。
+		14. tempestuous
 			1. a. 有暴风雨的, 暴乱的
 			2. adj. 有暴风雨的；暴乱的；剧烈的
 			3. **tumultuous**无秩序的;**stormy**暴风雨的;**turbulent**骚动的;**fiery**燃烧般的;**boisterous**热闹的;**feisty**活跃的;**ferocious**残忍的;**perilous**危险的，冒险的;**troubled**动乱的，不安的;**fierce**凶猛的;**treacherous**背信弃义的;
@@ -781,11 +786,12 @@
 		15. tempest-tost
 			1. _[tempest tost](dic://tempest%20tost)_  动荡不定的
 		16. tempest-tossed
-			1. **destitute**赤贫的, 贫苦的;**wretched**可怜的;**troubled**动乱的，不安的
-			2. _adj._ 受暴风雨戏弄的,连遭打击的
-		17. tempest-swept
-		18. tempest-beaten
-	9. tempo
+			1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
+			2. **destitute**赤贫的, 贫苦的;**wretched**可怜的;**troubled**动乱的，不安的
+			3. _adj._ 受暴风雨戏弄的,连遭打击的
+		18. tempest-swept
+		19. tempest-beaten
+	10. tempo
 		1. n. 速度, 节奏, 进行速度, (棋的)一着
 		2. temp-时间 + -o → 按时间[快慢]做 → 速度;拍子。
 		3. **pace**步速;**rhythm**节奏;**cadence**节奏;**melody**旋律;**rhythmic**间歇的;**melodic**有旋律的;**speed**加速，迅速前行;**jazzy**爵士乐的;**solos**独奏;**intensity**强烈, 剧烈;**waltz**跳华尔兹舞;
@@ -811,47 +817,115 @@
 1. attemper
 2. distemper, distemperoid
 	1. **rabies**狂犬病，恐水病;**measles**麻疹;**smallpox**天花;**fever**发烧，发热;**flu**流感;**contagious**传染性的;**vaccination**种痘;**infection**传染;**incurable**不能医治的;**cured**治愈的;**shingles**带状疱疹;
-3. temper  (tamp, temper, tamper, temping, tempt,)
-	3. tempering
-	4. temperable
-	5. retemper
-4. temperament
-	1. (disposition, complexion, countenance, comportment, demeanor, temperament, )
-	2. **personality**人格, 个性;**demeanor**行为;**disposition**气质, 天性, 性格;**temper**脾气;**aptitude**天资;**attitude**态度;**traits**特性，特质，性格;**intellect**智力;**trait**特性，特点;**breed**繁殖;**calmness**平静，安宁;
-	3. [nature](dic://nature), [emotionality](dic://emotionality), [emotionalism](dic://emotionalism), [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
-	4. temperamental,
-	5. temperamentally
+3. temper 
+	1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
+	2. [pique](dic://pique), [irritation](dic://irritation)
+	3.  [mood](dic://mood), [humor](dic://humor), [humour](dic://humour)
+	4.  [biliousness](dic://biliousness), [irritability](dic://irritability), [peevishness](dic://peevishness), [pettishness](dic://pettishness), [snappishness](dic://snappishness), [surliness](dic://surliness)
+	5. [toughness](dic://toughness)
+	6. [anneal](dic://anneal), [normalize](dic://normalize)
+	7. [harden](dic://harden)
+	8.  [season](dic://season), [mollify](dic://mollify)
+	9. [chasten](dic://chasten), [moderate](dic://moderate)
+	10. [annoyance](dic://annoyance), [chafe](dic://chafe), [vexation](dic://vexation), [feeling](dic://feeling), [ill nature](dic://ill nature), [elasticity](dic://elasticity), [snap](dic://snap)
+	11. _v._ [toughen](dic://toughen), [modify](dic://modify), [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [weaken](dic://weaken), [change](dic://change)
+		1. [temper](dic://temper) 指从感情方面体现出来，决定处理问题或应付形势的方式的性格或性情，这种性情可以是暂时的也可以长久的。  
+		2. [character](dic://character) 指对个性或人格所作出的客观评价，常常与道德有关。   
+		3. [nature](dic://nature) 指天生的、不可改变性格。  
+		4. [personality](dic://personality) 主要指一个人稳定的心理特征。  
+		5. [disposition](dic://disposition) 书面用词，指人的主要爱好或思想、精神方面的重要习性、气质。也可指短暂的情绪。  
+		6. [complexion](dic://complexion) 指由思维方式、态度和情绪所决定的本质特征。
+	12. **tantrum**发脾气;**anger**怒，愤怒;**temperament**性格, 性情, 气质;**composure**镇静, 沉着;**impatience**急躁;**outburst**爆发;**irritable**易怒的, 急躁的;**self-control**克己;**fiery**燃烧般的;**fury**狂怒;**demeanor**行为;
+	13. _bad temper_ 坏脾气；暴躁
+	14. _temper mill_ 平整机
+	15. _hot temper_ 急躁的脾气
+	16. _in a temper_ 在盛怒之下；发着脾气
+	17. the temper of the times /时势
+	18. The sea tempers the climates. /海洋调节气候。
+	19. He's in a temper today. /他今天在闹情绪。
+	20. The temper of the steel is right. /这钢的韧度正合适。
+	21. Tempers flared at the meeting. /会上大动肝火
+	22. their idealism is tempered with realism. /他们的理想主义中因现实主义有所冲淡。
+	23. supple the hearts and tempers of the people /使人们心平气和
+	24. a sword of tempered steel. /回火的铁制成的剑
+	25. tempering
+		1. _n._ [hardening](dic://hardening)
+		2. _adj._ [moderating](dic://moderating)
+		3. _n._ [intensifying](dic://intensifying)
+		4. **hardening**淬水;**softening**变软;**annealing**低温退火;**boiling**沸腾的;**melting**融化的;
+	26. temperable
+		1. _adj._ 可回火的
+	27. retemper
+	28. tempered
+		1. [treated](dic://treated), [hardened](dic://hardened), [toughened](dic://toughened)
+		2. _adj._ [annealed](dic://annealed), [baked](dic://baked), [burned](dic://burned), [burnt](dic://burnt), [curable](dic://curable), [sunbaked](dic://sunbaked), [diluted](dic://diluted)
+		3. _n._ [untempered](dic://untempered), [unhardened](dic://unhardened)
+		4. **reinforced**加强的;**softened**退火的，软化;**galvanized**镀锌的;**hardened**变硬的;**mild**温和的;**cynicism**犬儒主义;**tinged**淡色的;**complemented**有补助物的,有余格的;**optimism**乐观;**polished**擦亮的;**subdued**被制服的;
+		5. _tempered glass_ 钢化玻璃；强化玻璃；回火玻璃；淬火玻璃
+		6. _quenched and tempered_ adj. 调质过的
+		7. _tempered steel_ 回火钢
+		8. _quenched and tempered steel_ 调质钢；凳钢
+		9. _tempered martensite_ 回火马氏体
+		10. well-tempered
+		11. untempered
+			1. **tempered**缓和的，温和的;**unbridled**无辔头的;**indifference**不关心,不在乎;
+		12. sweet-tempered, even-tempered, good-tempered
+			1. **demeanor**行为;**empathetic**移情作用的;**temperament**性格, 性情, 气质;**calm**静的，平静的;**down-to-earth**务实的;**combative**好战的;**assertive**断定的;**respectful**表示尊敬的;**calmer**更平静的;**dignified**高贵的;**feisty**活跃的;
+			2. **cheerful**高兴的;**sociable**好交际的;**affectionate**慈爱的,充满深情的,温柔亲切的;**polite**有礼貌的，客气的;**boisterous**热闹的;**feisty**活跃的;**hard-working**勤勉的,努力工作的;**considerate**体贴的, 体谅的;**lovable**可爱的，讨人喜欢的;**hardworking**苦干的,不辞辛劳的;**jolly**愉快的;
+		13. short-tempered
+		14. quick-tempered
+			1. **brash**仓促的，性急的;**impulsive**冲动的,易冲动的;**temper**脾气;**vengeful**复仇的，报复的;**boisterous**热闹的;**irritable**易怒的, 急躁的;**combative**好战的;**feisty**活跃的;**stubborn**顽固的;**arrogant**自大的，傲慢的;**ruthless**无情的，残忍的;
+		15. ill-tempered
+		16. hot-tempered
+		17. bad-tempered
+	29. temperer
+5. temperament
+	1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
+	2.  (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament)
+	3. **personality**人格, 个性;**demeanor**行为;**disposition**气质, 天性, 性格;**temper**脾气;**aptitude**天资;**attitude**态度;**traits**特性，特质，性格;**intellect**智力;**trait**特性，特点;**breed**繁殖;**calmness**平静，安宁;
+	4. [nature](dic://nature), [emotionality](dic://emotionality), [emotionalism](dic://emotionalism), [adjustment](dic://adjustment), [registration](dic://registration), [readjustment](dic://readjustment)
+	5. a resilient temperament). /开朗的性情）。
+	6. a phlegmatic temperament /安之若素的心境
+	7. It requires the feminine temperament to repeat the same thing three times with unabated zest. /只有女性才能以不息的热情把同一件事重复三遍。
+	8. I really think this comes down to one's temperament. /我真的认为这与一个人的气质有关。
+	9. They are screened to ensure that they have the right temperament. /它们会经过层层筛选，要确保挑选的狗狗都是脾性很好的狗狗。
+	10. We're just a little concerned that she might not have the temperament for pageant competitions. /我们只是有点担心，她可能还不具备… 表演比赛的气质。
+	11. temperamental,
+	12. temperamentally
 6. temperance
-	1. [restraint](dic://restraint), [control](dic://control), [natural virtue](dic://natural virtue), [abstinence](dic://abstinence), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
-	2. **suffrage**选举权;**abstinence**节制;**piety**虔诚;**virtues**美德;**morals**道德;**self-control**克己;**Whig**辉格党;**immorality**不道德,无道义;**zeal**热心;
+	1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
+	2. [restraint](dic://restraint), [control](dic://control), [natural virtue](dic://natural virtue), [abstinence](dic://abstinence), [combination](dic://combination), [combining](dic://combining), [compounding](dic://compounding)
+	3. **suffrage**选举权;**abstinence**节制;**piety**虔诚;**virtues**美德;**morals**道德;**self-control**克己;**Whig**辉格党;**immorality**不道德,无道义;**zeal**热心;
+	4. practise temperance in diet /节制饮食
+	5. Teetotalers preach temperance for everyone. /完全戒酒者为每个人祈祷节制饮酒。
+	6. The old man preached temperance to young people. /那位老人劝年轻人戒酒。
+	7. I never conceived till now what toil the temperance lecturers undergo for my sake /直到现在我才意识到，由于我的缘故，那些演说家的节制颇为痛苦。
+	8. Temperance movement was a huge thing in the 19th century and into the 20th century. /戒酒运动在19世纪和20世纪都是一件大事。
+	9. Moreover, the enjoyment of life required the old Greek ideals of self-control, temperance, and serenity. /此外，享受生活需要古希腊的自我控制、节制和宁静的理想。
 7. temperate
-	1. **subtropical**亚热带的;**climates**气候，气氛;**arid**干旱的;**humid**潮湿的;**tropical**热带的;**warmer**取暖器;**climate**气候;**tropics**热带地区;**lowland**低地;**deciduous**每年落叶的;**warm**温暖的;
-	2. [cold-temperate](dic://cold-temperate), [equable](dic://equable), [abstemious](dic://abstemious), [moderate](dic://moderate), [restrained](dic://restrained), [mild](dic://mild)
-	3. temperature
+	1. (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
+	2. a. 温和的, 适度的, 有节制的, 温带的
+	3. temper-调节 + -ate, 表形容词 → 脾气[不坏] → 有节制的。
+	4. 来自 temper,管控，调节，-ate,形容词后缀。即控制住的，引申词义气候温和的，特别用于指温带的。比较 tropic.
+	5. **subtropical**亚热带的;**climates**气候，气氛;**arid**干旱的;**humid**潮湿的;**tropical**热带的;**warmer**取暖器;**climate**气候;**tropics**热带地区;**lowland**低地;**deciduous**每年落叶的;**warm**温暖的;
+	6. [cold-temperate](dic://cold-temperate), [equable](dic://equable), [abstemious](dic://abstemious), [moderate](dic://moderate), [restrained](dic://restrained), [mild](dic://mild)
+	7. be temperate in one's language /说话措辞温和 temperately
+	8. He is temperate in his habits. /他能够克制自己的习惯。
+	9. a temperate climate beneficial to the health; /有利于健康的温和气候；
+	10. the insulation of marine mammals in temperate seas pre-adapts them for polar seas. /把海洋哺乳类动物隔离在温带海域中使其预适应极地海域。
+	11. Different temperate zones produce varying desert flora. /不同温度区域产出各种沙漠植物群。
+	12. Thou art more lovely and more temperate. /你更加可人也更加柔婉。
+	13. temperature
 		1. **temp**临时雇员;**humidity**湿度;**thermometer**温度计;**heat**热度;**thermostat**恒温器;**Celsius**摄氏的;**cooling**冷却的;**salinity**盐度;**ambient**周围的;**heating**加热;**viscosity**黏稠;
-	4. temperateness
-	5. temperately
-	6. subtemperate
-	7. intemperate, intemperance
+	14. temperateness
+	15. temperately
+	16. subtemperate
+	17. intemperate, intemperance
 		1. **uncivil**不文明的;**vulgar**粗俗的;**vile**卑鄙的;**careless**粗心的;**caustic**腐蚀性的;**bigoted**顽固的;**profane**世俗的;**incendiary**放火的;**reckless**鲁莽的，不顾后果的;**hateful**可恨的;**irresponsible**不负责任
-8. tempered
-	1. well-tempered
-	2. untempered
-		1. **tempered**缓和的，温和的;**unbridled**无辔头的;**indifference**不关心,不在乎;
-	3. sweet-tempered, even-tempered, good-tempered
-		1. **demeanor**行为;**empathetic**移情作用的;**temperament**性格, 性情, 气质;**calm**静的，平静的;**down-to-earth**务实的;**combative**好战的;**assertive**断定的;**respectful**表示尊敬的;**calmer**更平静的;**dignified**高贵的;**feisty**活跃的;
-		2. **cheerful**高兴的;**sociable**好交际的;**affectionate**慈爱的,充满深情的,温柔亲切的;**polite**有礼貌的，客气的;**boisterous**热闹的;**feisty**活跃的;**hard-working**勤勉的,努力工作的;**considerate**体贴的, 体谅的;**lovable**可爱的，讨人喜欢的;**hardworking**苦干的,不辞辛劳的;**jolly**愉快的;
-	4. short-tempered
-	5. quick-tempered
-		1. **brash**仓促的，性急的;**impulsive**冲动的,易冲动的;**temper**脾气;**vengeful**复仇的，报复的;**boisterous**热闹的;**irritable**易怒的, 急躁的;**combative**好战的;**feisty**活跃的;**stubborn**顽固的;**arrogant**自大的，傲慢的;**ruthless**无情的，残忍的;
-	6. ill-tempered
-	7. hot-tempered
-	8. bad-tempered
-9. temperer
 
 
 ### tempt- = try, 表示“尝试”。
-1. tempt (tamp, temper, tamper, temping, tempt,)
+1. tempt (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper)
 	1. tempting
 	2. tempter, temptress
 	3. temptation
@@ -2223,19 +2297,19 @@
 
 ### terg-,ters- = 表示“擦、除掉”.源自拉丁语 tergere "to rub, polish, wipe".
 1. terse
-	1.  [crisp](dic://crisp), [curt](dic://curt), [laconic](dic://laconic)
-	2. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
-	3. (curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident)
+	1. (taut, curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident,)
+	2.  [crisp](dic://crisp), [curt](dic://curt), [laconic](dic://laconic)
+	3. **succinct**简洁的;**concise**简明的，简洁的;**cryptic**秘密的,隐秘的;**snappy**厉声说话的;**eloquent**雄辩的，有口才的;**wry**面部肌肉扭曲的;**scathing**严厉的;**vague**不明确的;**sarcastic**讽刺的;**emphatic**加强语气的;**lengthy**漫长的，冗长的;
 	4. a terse one-word answer /一个简明的一词答案
 	5. I thought you were rather terse with her./我觉得你对她直接了些。
 	6. He whittled and listened, gave monosyllabic replies, and, when it was asked, terse advice. /他一边削，一边听，嘴里嗯、嗯地应着，哈尔发问时，他便简短地给几句忠告。
 	7. The first official reports of an accident off Russia's Arctic coast last Thursday were contradictory and terse /这起事故于上周四发生在俄罗斯北极海岸附近，首份事故官方报告既矛盾又简短。
 	8. The testy president declared a terse testimony to encourage the people to stand the test. /暴躁的总统发表了一项简洁的声明来鼓励人们经受考验。
-2. absterge
+3. absterge
 	1. vt. 擦去；去垢
 	3. abstersion
 	4. abstersive
-3. deterge
+4. deterge
 	1. _v._ [wipe off](dic://wipe off), [wipe away](dic://wipe away)
 	2. detersive
 	3. detergent
