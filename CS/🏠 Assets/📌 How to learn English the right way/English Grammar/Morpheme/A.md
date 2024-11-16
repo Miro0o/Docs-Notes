@@ -4255,8 +4255,8 @@
 	7. the asperity of northern winters. /北方的严冬
 	8. the asperities of a harsh and divided society /一个残酷而又四分五裂的社会所特有的艰难困苦。
 3. exasperate (exacerbate)
-	1.  (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
-	2. (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate)
+	1. (restive, skittish, peevish, irascibility, animosity, indignation, cranky, fractious, irritable, nettlesome, peevish, peckish, pettish, petulant, scratchy, testy, tetchy, techy , grumpy, disconcert, ornery, )
+	- (restive, edgy, rattle, nettle, unsettled, trepidation, misgiving, apprehension, nervy, uptight, jittery, grate, fret, rankle, eat into, grind, rag, get to, irritate, rile, nark, vex, chafe, devil, chagrin, peeve, fidgety, restless, itchy, antsy, agitated, cranky, wacky, chatty, rack, crusty, exasperate, disgruntle, dismay, displeasure, disgust)
 	3. ex-使… + asper-粗糙 + -ate, 表动词 → 使变得更粗糙 → 激怒。
 	4. _v._ [anger](dic://anger), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 	5. **frustrate**使不成功, 挫败, 阻止;**irritate**激怒;**annoy**骚扰;**exacerbate**使恶化;**provoke**激怒;**annoyance**烦恼;**amuse**使发笑;**alienate**使疏远，离间;**embarrass**使窘迫;**confuse**使混乱;**excite**刺激…，使…兴奋;

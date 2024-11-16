@@ -794,6 +794,65 @@
 
 
 ## se
+### ser-
+#### ser- (3)
+1. **ser-, seri-, sert-** = 表示“系列，连续”。源自拉丁语 serere "to arrange, attach, join in speech, discuss."
+	1. dissert
+	2. serial
+	3. exert
+		1. vt. 发挥, 运用, 施以影响
+		2. ex-向外 + sert-连接，即断开，推出，词义进一步扩大为行使，竭力。
+		3.  ex-,向外，-sert,连接，词源同 series,insert.即断开，推出，词义进一步扩大为行使，竭力。
+		4. [exercise](dic://exercise)
+		5. [wield](dic://wield), [maintain](dic://maintain)
+		6. _v._ [use](dic://use), [utilize](dic://utilize), [utilise](dic://utilise), [apply](dic://apply), [employ](dic://employ), [have](dic://have), [have got](dic://have got)
+		7. **influence**影响;**induce**引诱;**counteract**对抗;**force**武力;**impose**强加;**restrain**抑制，控制;**expend**花费;**wield**挥舞;**compel**强迫，迫使;**push**推动;**modulate**调节;
+		8. _exert oneself_ 努力；尽力
+		9. _exert an influence on_ 对……产生影响
+		10. he needs to exert himself to try to find an answer. /他需要尽力找到一个答案。
+		11. abstention from exerting pressures on /不对...施加压力
+		12. For college students to do a part-time job will exert a profound influence on their personality and life. /打工对大学生的个性培养和今后生活都具有深远的影响。
+		13. exertion
+		14. exertional
+	4. seriate
+		1. a. 连续的  
+		2. vt. 使连续排列
+	5. seriatim
+	6. series
+	7. sermon
+2. **sert-** = join, insert, 表示“加入，插入”。源自拉丁语 serere "to arrange, attach, join in speech, discuss."
+	1. assert
+	2. desert
+	3. exsert
+		1. vt. 使突出, 使伸出  a. 突出的
+	4. insert
+3. **sort-**  = kind, 表示“种类”。源自拉丁语 sors (词干 sort) "lot, fortune."
+	1. sortillege
+	2. sortition
+	3. assort
+		1. vt. 把...分类, 把...归为一类  vi. 协调, 交往
+		2.  [consort](dic://consort), [associate](dic://associate), [affiliate](dic://affiliate)
+		3.  [classify](dic://classify), [class](dic://class), [sort](dic://sort), [sort out](dic://sort out), [separate](dic://separate)
+		4. _v._ [interact](dic://interact), [categorize](dic://categorize), [categorise](dic://categorise)
+		5. **assemblage**聚集;**likewise**也;**furnish**供应;**moreover**此外;
+		6. _assort with_ v. 相称；与…协调
+		7. bowls in assorted colours /五颜六色的碗。
+		8. These TV sets do not assort with the samples /这些电视机与样品不符。
+		9. well-assorted accessories; an ill-assorted set of ski equipment. /很匹配的附件；一套不合适的滑雪器材
+	4. consort
+	5. ill-sorted
+	6. sort
+	7. sorta
+	8. sortable
+	9. sorter
+	10. sorcery (exorcise)
+		1. [black magic](dic://black magic), [black art](dic://black art), [necromancy](dic://necromancy)
+		2. _n._ [magic](dic://magic), [thaumaturgy](dic://thaumaturgy)
+		3. **witchcraft**巫术;**magic**巫术，魔法，戏法;**alchemy**点金术;**witches**魔女;**sword**刀，剑;**occult**神秘的;**mysticism**神秘主义;**wizards**巫师;**swords**宝剑;**supernatural**超自然的;**magical**魔术的;
+		4. 
+
+
+
 ### serv-   = serve, 表示“服务”。
 1. concierge
 2. deserve
@@ -1763,6 +1822,11 @@
 		2. resignation
 		3. resignedly
 		4. **resigned**顺从的;**resignation**辞职;**retire**退休;**quit**停止;**appoint**任命;**withdraw**撤消;**quits**对等的;**relinquish**交出, 让给;**renounce**宣布放弃;**reinstate**使恢复原职;**oust**剥夺;
+		5. resign to
+			1. " Well, they were wrong, " said Bournisien, resigned to anything. /" 那么，他们不对！" 布尼贤无可奈何地说。
+			2. Most of us were resigned to not having children./ 我们大部分人都觉得不该要孩子。
+			3. He said that people are resigned to the privacy trade-off. /他说，人们已经接受了隐私方面的妥协。
+			4. “Okay, ” Ron sighed as though resigned to the worst, “I'm ready. /“好吧，”罗恩叹了口气，似乎只好迎接最坏的命运了，“我准备好了。
 	10. sign
 		1. unsigned, toesign, signed, signage, signable, signa, sign-off, re-sign, prosign
 		4. signatory
@@ -4657,7 +4721,7 @@
 		1. _[scrutable](dic://scrutable)_  adj. 可以了解的；可解读的
 	3. inscrutable, inscrutably
 		1. (scruple, scrupulous, scrutiny, inscrutable, scrumptious, sumptuous, )
-		2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive, impenetrable, inscrutable, uninformative, inexplicable, convoluted) 
+		2. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive,  exoteric, occult, impenetrable, inscrutable, uninformative, inexplicable, convoluted, opaque, ) 
 		3. in-不，非 + scrut-分割，分开 + -able. 即不可分开的，难以分析的，引申词义难以理解的。
 		4. a. 难以了解的, 不能预测的
 		5. _adj._ [inexplicable](dic://inexplicable), [incomprehensible](dic://incomprehensible)
@@ -6157,11 +6221,11 @@
 		3. outpensioner
 		4. pensionable
 	8. compendious 
-		1. (curt, laconic, crisp, succint, terse, compendious, concise, cursory, taciturn)
-		3. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
-		4. _adj._ [concise](dic://concise)
-		5. _n._ [prolix](dic://prolix)
-		6. compendium
+		1. (taut, curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident,)
+		2. **compendium**摘要,纲要;**treatise**论文;**succinct**简洁的;**concise**简明的，简洁的;**comprehensive**广泛的, 综合的;**splendid**辉煌的;**tome**册;**authoritative**权威性的;**voluminous**卷数多的;**preface**前言;**superlative**最上的;
+		3. _adj._ [concise](dic://concise)
+		4. _n._ [prolix](dic://prolix)
+		5. compendium
 			1. 
 			2. **tome**册;**treatise**论文;**compilation**编辑,编写;**handbook**手册;**comprehensive**广泛的, 综合的;**guidebook**旅行指南;**glossary**术语表;**encyclopaedia**<英>百科全书;**foreword**前言;**collection**收集;**anthology**选集;
 			3. _compendium of materia medica_ 本草纲目
@@ -8209,16 +8273,72 @@
 		20. _v._ [tug](dic://tug), [labor](dic://labor), [labour](dic://labour), [push](dic://push), [drive](dic://drive), [afflict](dic://afflict), [use](dic://use)
 		21. _n._ [relax](dic://relax), [unstrain](dic://unstrain), [unlax](dic://unlax), [loosen up](dic://loosen up), [unwind](dic://unwind), [make relaxed](dic://make relaxed)
 		22. **stress**压力;**fatigue**疲劳，疲乏;**tension**张力，拉力;**pressure**压力;**relieve**解除，减轻;**dislocation**转位;**susceptibility**敏感性;**isolates**孤立者;**virulent**剧毒的;**deformation**损形;**burden**负担;
-		23. strainometer
+		23. Each one strained every nerve to break the bundle. /每个人都使出了九牛二虎之力，花了很长时间还是徒劳无功。
+		24. a bowl of strained peaches. /一碗挑出来的桃子
+		25. strained the pulp from the juice. /滤去果汁中的果肉
+		26. strained
+			1. - adj. 紧张的；勉强的；牵强附会的；滤过的 v. 使紧张（动词 strain 的过去式和过去分词）
+			2. Relations between the United States and Venezuela have been strained for years /多年来，美国和委内瑞拉两国的关系一直十分紧张。
+			3. The US - South Korea alliance has been strained under Trump. /事实上，美韩联盟在特朗普的压力下一直处于紧张状态。
+			4. Though passion may have strained, it must not break our bonds of affection. /“我们不是敌人，而是朋友… … 虽然激情可能不再，但是我们的感情纽带不会割断。”
+			5. The ragged, strained breathing becomes as smooth as a kitten's purr /不规则的、紧张的呼吸变得平滑，像小猫的呼噜声那般安稳。
+			6. a story that strained our credibility. /一个超出我们信任程度的故事
+			7. listen with strained ears /竖起耳朵听
+			8. there was a strained silence. /有一种气氛紧张的沉默。
+			9. a strained expression /勉强的表情
+		27. strainer
+		28. prestrain
+		29. overstrain
+			1. _n._ [strain](dic://strain)
+			2. _v._ [strain](dic://strain), [extend](dic://extend)
+			3. **exertion**努力;**fatigue**疲劳，疲乏;**straining**变形,应变;**fatigued**疲乏的;**tiredness**疲劳;**exhaustion**精疲力竭;**strain**张力;**stress**压力;**muscles**肌肉;**injure**伤害，损害;**relieve**解除，减轻;
+			4. I suggest a break.The material is such that it is difficult.I do not want to overstrain Ruburt with it. /我建议休息一下。资料是这样的，它确实很难。我不想让鲁伯对此过度紧张。
+			5. I must see she does not overstrain herself. /我必须确保她没有过度劳累。
+			6. Knight, overstrained in sentiment as he knew the feeling to be, felt some sickness of heart. /奈特，他知道这种感觉是情绪过度紧张，感到有些心痛。
+			7. She was a young, and not very pretty, black-eyed girl with an unequal and already overstrained voice. /她是一个年轻的， 不怎么漂亮的女孩， 黑眼睛，声音不均衡， 已经用力过度了。
+			8. Relative debilitation of yang is mainly caused by congenital deficiency, or postnatal malnutrition and endogenous impairment due to overstrain, or consumption of yang qi due to prolonged illness. /阴偏衰主要由于先天禀赋不足，或后天饮食失养和劳倦内伤，或久病损伤阳气所致。
+		30. macrostrain
+		31. eyestrain
+		32. strainometer
 	3. stretch
+		1. n. 伸展, 张开, 连绵, 一段路, 一段时间  
+		2. a. 可伸缩的, 弹性的  
+		3. vt. 伸展, 张开, 曲解, 使过度伸展  
+		4. vi. 伸展, 延伸
 	4. stress
+		1. n. 压力, 紧迫, 强调, 重音, 重点, 应力  vt. 加压力于, 着重, 重读
+		2.  来自拉丁语 stringere,拉紧，绑紧，词源同 strain,strict.-ss,过去分词格。引申诸相关词义。
+		3. unstressed
+		4. stressless
+		5. stressful
+		6. stress-mark
+		7. prestress
+		8. overstress
+		9. macrostress
+		10. innerstress
 	5. strict
-		1. stringent
+		1. a. 严厉的, 绝对的, 详尽的, 严格的, 精确的
+		2.  来自拉丁语 strictus,紧的，拉紧的，过去分词格于 stringere,拉紧，绑紧，收缩，词源同strain,stress,stringent.引申词义严格的，严厉的。
+		3. [hard-and-fast](dic://hard-and-fast)
+		4. [rigorous](dic://rigorous)
+		5. [nonindulgent](dic://nonindulgent)
+		6. [rigid](dic://rigid)
+		7.  [stern](dic://stern), [exacting](dic://exacting)
+		8. _adj._ [invariable](dic://invariable), [exact](dic://exact), [austere](dic://austere), [stern](dic://stern), [puritan](dic://puritan), [puritanic](dic://puritanic)
+		9. _n._ [variable](dic://variable), [inexact](dic://inexact), [tolerant](dic://tolerant), [undemanding](dic://undemanding)
+		10. **stringent**严格的;**rigorous**严格的，严厉的;**lax**松弛的;**strictly**严格地;**restrictive**限制的;**rigid**严格的;**lenient**仁慈的;**rules**规则;**exacting**苛求的;**rigorously**严厉地;**adherence**遵守;
+		11. _strict control_ 严格控制
+		12. _strict with_ 对…要求严格
+		13. _strict liability_ 严格责任；严格赔偿责任
+		14. _in the strict sense_ 严格说来
+		15. _be strict in_ 对…要求严格
+		16. 
+		17. stringent
 			1. (exacting, exigent, pressing, demanding, stringent, rigorous, needy)
 			2. **strict**严格的;**rigorous**严格的，严厉的;**exacting**苛求的;**restrictive**限制的;**lax**松弛的;**draconian**非常严厉的;**lenient**仁慈的;**onerous**繁重的;**requirements**必要条件;**regulations**规程;**rigorously**严厉地;
 			3. The first wave happened under a significantly stringent lockdown /第一波疫情是在非常严格的封锁下发生的。
 			4. Stringent job dismissal regulations adversely affect productivity growth and hamper both prosperity and overall well-being. /严格的解雇规定对生产率增长产生不利影响，并阻碍了繁荣和整体福祉。
-	6. striction
+	13. striction
 		1. stricture
 			1. _n._ [pathology](dic://pathology), [criticism](dic://criticism), [unfavorable judgment](dic://unfavorable judgment)
 			2. **blockage**封锁;**restriction**约束, 限制;**stenosis**狭窄;**obstruction**障碍;**resection**切除术;**esophageal**食道的;**bowel**肠;
@@ -8226,7 +8346,7 @@
 			4. _[stricture](dic://stricture)_  n. 狭窄；苛评；非难
 			5. _[urethral stricture](dic://urethral%20stricture)_  尿道狭窄
 		2. strictured, stringenecy
-	7. strait (straight)
+	14. strait (straight)
 		1. [sound](dic://sound)
 		2. [pass](dic://pass), [straits](dic://straits)
 		3. _n._ [channel](dic://channel), [situation](dic://situation)
@@ -8245,7 +8365,7 @@
 			1. _v._ [confine](dic://confine), [detain](dic://detain)
 			2. **straighten**弄直;**straightening**变形矫正,整直,矫直,校正;**bend**使弯曲;**tighten**变紧;**loosen**放松;**fasten**扎牢;**lengthen**使延长;**doth**从事;
 			3. _[straitened](dic://straitened)_  adj. 经济上拮据的，贫困的; v. 使窘迫；限制…的范围（straiten的过去分词）;
-	8. straight
+	15. straight
 		1. 来自中古英语 streight,拉直的，过去分词格于 strechen,拉直，展开，来自古英语 streccan,拉直，展开，词源同 stretch,伸展，延伸。拼写比较 bake,batch.引申词义正的，正直的，以及现代词义传统的，异性恋的等。
 		2. n. 直线, 直
 		3. a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的
@@ -8266,7 +8386,7 @@
 		16. straight-cut
 		17. straight-arm
 		18. nonstraightness
-	9. strand
+	16. strand
 		1. [chain](dic://chain), [string](dic://string)
 		2. [fibril](dic://fibril), [filament](dic://filament)
 		3. [maroon](dic://maroon)
@@ -8275,11 +8395,11 @@
 		6. **braid**辫子;**helix**螺旋;**braided**编辫子的;**weave**编织;**filament**细丝;**DNA**脱氧核糖核酸;**looped**成圈的;**bead**珠子;**beads**玻璃珠;**knotted**多节的，有节的;**knot**结;
 		7. strandee
 		8. stranded
-	10. astrict
+	17. astrict
 		1. _[astrict](dic://astrict)_  v. 束缚，限制
 		2. _[standardize and astrict](dic://standardize%20and%20astrict)_ 规制
 		3. _[keep to astrict budget](dic://keep%20to%20astrict%20budget)_ 遵守严格的预算
-	11. astringe
+	18. astringe
 		1. vt. 扎缚, 使收缩, 使收敛
 		2. _v._ [compress](dic://compress), [constrict](dic://constrict), [squeeze](dic://squeeze), [compact](dic://compact), [contract](dic://contract), [press](dic://press), [constringe](dic://constringe)
 		3. And during autumn and winter, yang qi goes inward and astringes, qi and blood of the body tend to flow internally, causing less sweating and more urination /秋天和冬天，阳气内敛，身体气血趋向于里，出现出汗少、排尿多。
@@ -8289,7 +8409,7 @@
 			1. a-=ad-去，往 + string-拉 + -ent。
 			2. n. 收敛剂  
 			3. a. 收敛性的, 严厉的, 涩的
-	12. constrain
+	19. constrain
 		1. _v._ [restrict](dic://restrict), [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		2. [compel](dic://compel) 指在法律、权力、力量或行动等的驱使下被迫而为。  
 		3. [force](dic://force) 指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。  
@@ -8302,7 +8422,7 @@
 			3. **restrict**限制;**constrain**强迫, 强使;**inhibit**抑制;**impede**阻止;**hinder**成为阻碍;**stifle**使窒息;**widen**放宽;**restricting**限制的，约束的;**obstruct**阻塞;**weaken**减少;**curtail**截断, 缩短;
 		9. constringe
 			1. _constringe_  vt. 使收敛；使收缩；压缩
-	13. restrain (refrain)
+	20. restrain (refrain)
 		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
 		2. [suppress](dic://suppress), [keep](dic://keep), [keep back](dic://keep back), [hold back](dic://hold back)
 		3.  [restrict](dic://restrict), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
@@ -8311,7 +8431,7 @@
 		6.  [intimidate](dic://intimidate)
 		7. _v._ [prevent](dic://prevent), [keep](dic://keep), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain), [check](dic://check)
 		8. **curtail**截断, 缩短;**confine**限制;**subdue**征服;**constrain**强迫, 强使;**suppress**抑制;**inhibit**抑制;**stifle**使窒息;**restraining**抑制的,遏制的,控制的;**restrained**克制的,节制的,受到控制的;**restrict**限制;**compel**强迫，迫使;
-	15. restrict
+	21. restrict
 		1. [curtail](dic://curtail), [curb](dic://curb), [cut back](dic://cut back)
 		2.  [restrain](dic://restrain), [trammel](dic://trammel), [limit](dic://limit), [bound](dic://bound), [confine](dic://confine), [throttle](dic://throttle)
 		3. [qualify](dic://qualify)
@@ -8321,11 +8441,11 @@
 			2. [confine](dic://confine) 侧重施加不可逾越的限制，有时暗示束缚、囚禁。  
 			3. [restrict](dic://restrict) 指把某人或物限制在一定范围之内。
 		6. **curtail**截断, 缩短;**prohibit**阻止，禁止;**limiting**限制的;**constrain**强迫, 强使;**inhibit**抑制;**allow**允许;**impede**阻止;**exclude**排除;**confine**限制;**limit**限度;**hinder**成为阻碍;
-	16. distrain
+	22. distrain
 		1. vt.vi. 扣押
 		2. **aforesaid**上述的;**trespass**侵入;**arrears**到期未付之债;**magistrate**地方法官, 治安官;**forfeiture**丧失;**rent**租金;**debtor**债务人;**distress**忧虑;**lawfully**守法地;**manor**庄园;**lien**留置权;
 		3. [levy](dic://levy), [impose](dic://impose), [impound](dic://impound), [attach](dic://attach), [sequester](dic://sequester), [confiscate](dic://confiscate), [seize](dic://seize)
-	17. district
+	23. district
 		1. **city**城市，都市;**superintendent**监管人;**school**学校;**municipality**自治市;**county**郡，县;**precinct**选区;**town**城镇，市镇;**borough**自治的市镇;**township**镇区;**municipal**市的, 市政的;**council**理事会;
 		2. [district](dic://district) 多指由政府等机构出于行政管理等目的而明确划分的地区。
 		3. [region](dic://region) 普通用词，常指地球上、大气中具有自然分界线的区域，特指按照气候、人体或其他特征鲜明、自成一体的地区。
@@ -8337,8 +8457,8 @@
 		9. [neighbourhood](dic://neighbourhood) 指比section的划定更清楚，范围更小。具体指城市中的住宅区，也可指附近一带。
 		10.  [territory](dic://territory), [territorial dominion](dic://territorial dominion), [dominion](dic://dominion)
 		11.  [zone](dic://zone)
-	18. distress
-	19. prestige, prestigious
+	24. distress
+	25. prestige, prestigious
 		1. 来自法语 prestige,欺骗，骗术，幻术，变戏法，来自拉丁语 praestigium,幻术，变戏法，来自（异化自）praestringere,使眼花缭乱，使眩晕，来自 prae,在前面，stringere,拉，拉绳子，捆绑，词源同 string.该词原用于形容法国皇帝拿破仑像个街头玩变戏法的，含贬义和讽刺意味，后随着越来越多的人崇拜拿破仑，词义由贬义转褒义，而原词义则不再使用。
 		2. [prestigiousness](dic://prestigiousness)
 		3. _n._ [standing](dic://standing)
@@ -8351,7 +8471,7 @@
 		10. _[social prestige](dic://social%20prestige)_  社会荣誉
 		11. _[prestige suggestion](dic://prestige%20suggestion)_  威信暗示
 		12. _[prestige motive](dic://prestige%20motive)_  声望动机
-2. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
+9. **stri-** = stripe, strip, 「Latin」stria, "furrow, channel", striga, "row of grain, furrow drawn legthwise over the field"
 	1. stripe
 		1. 形近字： stripe, 条纹。 strip, 条。 trip, 旅行。
 		2. n. 斑纹, 条纹
@@ -8550,7 +8670,7 @@
 			6. constitutionalism
 			7. unconstitutional
 2. destitute, destitution
-	1. (dearth, scant, paucity, modicum, sparse, tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged)
+	1.  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
 	2. **impoverished**穷困的,无力的,用尽了的;**needy**贫穷的;**homeless**无家可归的;**orphans**孤儿;**underprivileged**被剥夺基本权力的,穷困的,下层社会的;**helpless**无助的;**widows**寡妇;**poor**可怜的;**wretched**可怜的;**unemployed**被解雇的;**beggar**乞丐;
 4. institute
 	1. institutor
@@ -9327,27 +9447,27 @@
 
 ## sy
 ### syco- =fig, 表示“无花果”。
-1. sycophant（马屁精）：替领导用下流手势侮辱对手的人  
+1. sycophant（马屁精）：替领导用下流手势侮辱对手的人  (idiosyncratic)
 	1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
 	2. 英语单词sycophant（谄媚者）来自希腊语sykophantes，由sykon（fig，无花果）+phainein（to show，显示）组成而成，字面意思就是fig-shower（显示无花果的人）。在这里，fig（无花果）隐喻女性外阴，fig-show就是用手比划成女性外阴的形状来侮辱对方。在古希腊，政治家们表面上很正派，背地里却唆使自己手下用这种下流手势来侮辱自己的对手。而那些听从大人物的吩咐，用下流手势侮辱对手的手下则被称为sycophant（fig-shower）。现在，英语sycophant用来比喻那种卑鄙无耻、奴颜婢膝的谄媚者、马屁精。  
 	3. sycophant：['sɪkəfænt] n.谄媚者，奉承者，马屁精adj.谄媚的，奉承的  
 	4. sycophantic：[,sɪkə'fæntɪk] adj. 说奉承话的；阿谀的  
 	5. sycophancy：['sɪkəfænti] n. 谄媚；奉承；追随；拍马屁
-	6. The office is a menagerie of egotists and sycophants /该办公室乃是自私者与谄媚者汇集之处。
-	7. " Tired of friends. The thing is to have sycophants" /“厌倦了朋友。事情是有马屁精” 。
-	8. Because you prefer to be in the company of sycophants /你倒喜欢跟这些马屁精混在一起。
-	9. A **sycophant** flatterer is neither a guru or a preacher. /一个谄媚者既非古茹也不是传教士。
+	2. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
+	3. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
+	4. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;
+	5. You'll get your share of sycophants and assassins too. /你也会分享到一部分谄媚者和刺客的。
+	7. The office is a menagerie of egotists and sycophants /该办公室乃是自私者与谄媚者汇集之处。
+	8. " Tired of friends. The thing is to have sycophants" /“厌倦了朋友。事情是有马屁精” 。
+	9. Because you prefer to be in the company of sycophants /你倒喜欢跟这些马屁精混在一起。
+	10. A **sycophant** flatterer is neither a guru or a preacher. /一个谄媚者既非古茹也不是传教士。
 3. sycophancy
 	1. _n._ [obsequiousness](dic://obsequiousness), [servility](dic://servility), [subservience](dic://subservience)
 	2. **arrogance**傲慢;**hypocrisy**伪善;**idiocy**白痴;**cynicism**犬儒主义;**hubris**傲慢;**cowardice**懦弱;**mediocrity**平庸,第二流;**narcissism**自恋，自我陶醉;**incompetence**无能力;**dishonesty**不诚实的行为;**self-serving**自私的,自私自利的;
 	3. Seeing clearly requires a vision unclouded either by rage or by sycophancy /看得清楚需要不受愤怒或阿谀奉承的影响。
 	4. In his splenetic new book, Mr Milbank dates the " crack-up" of the Republican Party to various " destructionists" and—to appropriate the author's trademark style—their depravity, deplorability, mendacity, moral turpitude, rapacity and sycophancy. /在他那本脾气暴躁的新书中，米尔班克先生将共和党的“崩溃”归咎于各种“破坏主义者”，以及——借用作者标志性的风格——他们的堕落、可悲、虚伪、道德败坏、贪婪和阿谀奉承。
 4. sycophant
-	1. (sycophant, obsequious, submissive, servile, deferential, approbation, adulation, flatter,  meek, tame, docile, humble, modest, ingratiate)
-	2. _n._ [flatterer](dic://flatterer), [adulator](dic://adulator)
-	3. **moron**痴愚者;**hypocrite**伪君子;**wannabe**想达到目标的人;**idiot**白痴;**pompous**浮夸的;**arrogant**自大的，傲慢的;**liar**说谎的人;**coward**懦夫，懦弱的人;**hater**怀恨者;**pundit**博学者;**self-serving**自私的,自私自利的;
-	4. _[sycophant](dic://sycophant)_  n. 谄媚者；奉承者; adj. 奉承的；拍马的;
-5. sycosis
+6. sycosis
 
 
 ### syl- 表示“抓捕”

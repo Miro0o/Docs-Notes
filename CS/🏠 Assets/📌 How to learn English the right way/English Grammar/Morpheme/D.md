@@ -532,65 +532,126 @@
 		17. longwise
 	3. belong
 	2. elongate
-	4. oblong
-	5. belong
-	6. prolong
-	7. sidelong
-	8. length
-	9. lounge
-		1. [sofa](dic://sofa), [couch](dic://couch)
-		2. [waiting room](dic://waiting room), [waiting area](dic://waiting area)
-		3. [loiter](dic://loiter), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [tarry](dic://tarry), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
-		4. _n._ [seat](dic://seat), [room](dic://room)
-		5. _v._ [sit](dic://sit), [sit down](dic://sit down), [be](dic://be)
-		6. **dining**吃饭，进餐;**poolside**在游泳池边的;**downstairs**楼下的;**terrace**梯田;**sofa**沙发;**veranda**阳台;**patio**天井;**cafe**咖啡馆;**upstairs**在楼上，向楼上;**room**房间;**seating**就座;
-		7. _lobby lounge_ 大堂酒廊；大堂酒吧
-		8. _cocktail lounge_ 餐馆；鸡尾酒会
-		9. _departure lounge_ 候机室；启程处
-		10. _lounge chair_ 睡椅，沙发床
-		11. lounge about the door /闲散过日
-		12. a tasteful lounge bar. /一个有品位的雅座酒吧。
-		13. Don't lounge around all day! /不要整天闲荡!
-		14. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
-	10. lunge
-		1. [lurch](dic://lurch)
-		2. [straight thrust](dic://straight thrust), [passado](dic://passado)
-		3. [hurl](dic://hurl), [hurtle](dic://hurtle), [thrust](dic://thrust)
-		4. _n._ [motion](dic://motion), [movement](dic://movement), [move](dic://move), [stab](dic://stab), [thrust](dic://thrust), [knife thrust](dic://knife thrust)
-		5. _v._ [move](dic://move)
-		6. **trot**疾走;**leaping**跳跃的，跳跃而行的;**squat**蹲，蹲下;**jump**跳跃;**squats**蹲起;**footwork**步法;**jab**戳;**leg**腿;**jumping**跳跃的;**squatting**蹲;**sideways**向侧面地;
-		7. he made a lungeing grab at the pistol. /他猛地去抓手枪。
-		8. Lucy made a lunge for Gabriel's wrist. /露西向前猛冲去抓加布里埃尔的手腕。
-	11. purloin
+		1. [stretch](dic://stretch)
+		2.  [linear](dic://linear)
+		3.  [elongated](dic://elongated)
+		4. _v._ [lengthen](dic://lengthen)
+		5. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [long](dic://long)
+		6. _n._ [compound](dic://compound), [short](dic://short)
+		7. **distal**末梢的，末端的;**cylindrical**圆柱形的;**tubular**管状的;**proximal**最接近的，邻近的;**slender**微薄的;**tapered**锥形的;**curved**弯曲的;**annular**环形的，有环纹的;**lengthen**使延长;**radially**放射状地;**transverse**横向的;
+		8. Some days, it might be elongated. /有些日子，我的头发比较长。
+		9. There are two main differences, one is that the vowel is elongated. /主要有两个区别，一个是元音拉长。
+		10. The fiber elongates quickly for about 16 days. /在 16 天左右的时间，纤维被快速拉长。
+		11. So actually, I love this top because of the diamond shape, it accentuates the shoulder area and it's really elongating. /所以事实上，我喜欢这件上衣，因为它的菱形，它突出了肩部，真的很拉长。
+		12. The Local Group is elongated, almost dumbbell shaped, with the Milky Way on one side and Andromeda on the other. /本星系群是细长的，几乎呈哑铃形，一边是银河系，另一边是仙女座。
+	3. oblong
+		1. _n._ [plane figure](dic://plane figure), [two-dimensional figure](dic://two-dimensional figure)
+		2. _adj._ [simple](dic://simple), [unsubdivided](dic://unsubdivided), [long](dic://long)
+		3. _n._ [compound](dic://compound), [short](dic://short)
+		4. **rectangular**矩形的;**triangular**三角形的;**oval**卵形的;**cylindrical**圆柱形的;**octagonal**八边形的;**elongated**细长的;**hexagonal**六角形的;**conical**圆锥形的;**rectangle**长方形, 矩形;**concave**凹的，凹面的;**spherical**球的;
+		5. upend an oblong box. /把一只长条形的盒子倒立起来
+		6. And then, tucked away between the layers of lamellae are tiny oblong spaces called lacunae. /然后，隐藏在片层之间的是微小的长方形空间，称为腔隙。
+		7. Its oblong body ended in a very long caudal fin and its lateral fins in actual fingers /它的长方身体后边是拉得很长的尾巴，它两侧的绪尖端就是指爪。
+	4. belong
+		1. be-使... + long【长】 → 使长久拥有 → 属于。
+		2. vi. 属于, 合适
+		3. belongings
+		4. belonging
+		5. belonger
+	5. prolong
+		1. - v. 拉长，拖长（感觉或活动）；<罕>延长
+		2. [protract](dic://protract), [extend](dic://extend), [draw out](dic://draw out)
+		3. [sustain](dic://sustain), [keep up](dic://keep up)
+		4. _v._ [lengthen](dic://lengthen), [continue](dic://continue), [uphold](dic://uphold), [carry on](dic://carry on), [bear on](dic://bear on), [preserve](dic://preserve)
+			1. [delay](dic://delay) 普通用词，多指因外界原因推迟或耽误，也可指有意推迟。  
+			2. [postpone](dic://postpone) 正式用词，语气较强，多指有安排的延期，常指明延期到一定的时间。   
+			3. [defer](dic://defer) 正式用词，语气强于postpone，多指故意拖延。  
+			4. [suspend](dic://suspend) 指暂时中断以待某种条件的实现。  
+			5. [prolong](dic://prolong) 指把时间延长至超过正常或通常的限度。  
+			6. [put off](dic://put off) 口语用词，与postpone同义，但较通俗。
+		5. **lengthen**使延长;**shorten**缩短;**lessen**使…变小;**diminish**使减少;**enhance**提高;**reduce**减少;**extend**延伸;**degrade**降格;**minimize**使减到最少;**improve**改善，增进;**prevent**预防，防止;
+		6. You're not worried by being here you could be prolonging the war? /你不担心在这里会延长战争吗？
+		7. Russia has a responsibility to prolong it, otherwise global food insecurity will be the consequence /俄罗斯有责任延长期限，否则将导致全球粮食不安全。
+		8. It's advice, of course, if someone has prolonged chest pain, they should see a doctor /当然，这是建议，如果有人长期胸痛，他们应该去看医生。
+		9. They were impoverished by a prolonged spell of unemployment. /他们因长期失业而一贫如洗。
+	6. sidelong
+	7. length
+	8. lounge
+		1. lounge - lounge一词很可能源自Longīnus。据传，Longīnus乃古罗马军团一个百人队队长（centurion）。耶稣被钉在十字架时，他用矛在其胸侧刺戳，以后皈依基督教，中世纪时被尊奉为圣徒。在中世纪神秘剧（mystery play）中Longīnus（也作Longis）常被描绘成一个个子高大、举止粗鲁的懒汉，爱把身子斜靠在长矛上，一副无精打采的样子，故而一直有人据此推断，意为“懒洋洋地倚靠（或躺、坐、站）”或“懒洋洋的姿势（或步子）”的lounge一词可能即源于此。但有些具有权威性的辞书却提出另一种解释，认为lounge是16世纪源自法语longis 'drowsy laggard'（懒散的人），而longis则可能源出Longīnus的大名。到了18世纪lounge开始被用作名词，意指“休息室”，显然此义是从前面的词义引申出来的。
+		2. lounge [laʊn(d)ʒ] n.休息室；闲逛；躺椅，vi.闲逛；懒洋洋地躺卧，vt.虚度光阴。耶稣被钉在十字架上后，为试探死活，罗马士兵Longinus用长矛刺穿了耶稣的侧腹，鲜血染红了长矛，同时滴入Longinus的鲜血治愈了其眼疾。传说Longinus身材高大，但总是懒洋洋地斜靠着自己的长矛，单词lounge或来源于此。 ​​​​
+		3. 可能来自法语 allonger,逗留，停留，来自 al-,向，long,长的，长时间的。引申词义停留，逗留，休息。用于指休息厅，候机厅，酒吧等。
+		4. n. 休息厅; 等候大厅; 起居室  v. 懒洋洋的坐着、躺着
+		5. [sofa](dic://sofa), [couch](dic://couch)
+		6. [waiting room](dic://waiting room), [waiting area](dic://waiting area)
+		7. [loiter](dic://loiter), [footle](dic://footle), [lollygag](dic://lollygag), [loaf](dic://loaf), [lallygag](dic://lallygag), [hang around](dic://hang around), [mess about](dic://mess about), [tarry](dic://tarry), [linger](dic://linger), [lurk](dic://lurk), [mill about](dic://mill about), [mill around](dic://mill around)
+		8. _n._ [seat](dic://seat), [room](dic://room)
+		9. _v._ [sit](dic://sit), [sit down](dic://sit down), [be](dic://be)
+		10. **dining**吃饭，进餐;**poolside**在游泳池边的;**downstairs**楼下的;**terrace**梯田;**sofa**沙发;**veranda**阳台;**patio**天井;**cafe**咖啡馆;**upstairs**在楼上，向楼上;**room**房间;**seating**就座;
+		11. _lobby lounge_ 大堂酒廊；大堂酒吧
+		12. _cocktail lounge_ 餐馆；鸡尾酒会
+		13. _departure lounge_ 候机室；启程处
+		14. _lounge chair_ 睡椅，沙发床
+		15. lounge about the door /闲散过日
+		16. a tasteful lounge bar. /一个有品位的雅座酒吧。
+		17. Don't lounge around all day! /不要整天闲荡!
+		18. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
+		19. the relaxed ambience of the cocktail lounge is popular with guests. /客人们很喜欢休闲酒吧的悠闲氛围。
+		20. she lounged on the steps, pouting. /她撅着嘴，在台阶上闲呆着。
+		21. lounging on the sofa; lounged around in pajamas. /慵懒地躺在沙发上；穿着睡衣到处闲逛
+		22. Don't lounge away your working hours. /s不要消磨工作时间。
+		23. the hotel features a large lounge, a sauna, and a coin-operated solarium. /这家酒店的特点是有一个阔敞的大厅，一个桑拿浴室和一个投币的日光浴室。
+		24. Admit it, you've been lounging, watching YouTube for hours /承认吧，你已经懒洋洋地看了好几个小时的YouTube了。
+		25. I find the lounge such a cozy place to study in /我发现休息室真是个惬意的学习场所。
+		26. I know. Where is the departure lounge? /我知道。出境大厅在哪里呢？
+	9. lunge
+		1. n. 刺, 刺进, 跃进, 套马索  v. 突进, 刺
+		2.  原为击剑术语，来自古法语 allonger,刺，向前伸，来自 al-,向，long,长的，伸长。引申词义猛冲，猛扑。
+		3. [lurch](dic://lurch)
+		4. [straight thrust](dic://straight thrust), [passado](dic://passado)
+		5. [hurl](dic://hurl), [hurtle](dic://hurtle), [thrust](dic://thrust)
+		6. _n._ [motion](dic://motion), [movement](dic://movement), [move](dic://move), [stab](dic://stab), [thrust](dic://thrust), [knife thrust](dic://knife thrust)
+		7. _v._ [move](dic://move)
+		8. **trot**疾走;**leaping**跳跃的，跳跃而行的;**squat**蹲，蹲下;**jump**跳跃;**squats**蹲起;**footwork**步法;**jab**戳;**leg**腿;**jumping**跳跃的;**squatting**蹲;**sideways**向侧面地;
+		9. he made a lungeing grab at the pistol. /他猛地去抓手枪。
+		10. Lucy made a lunge for Gabriel's wrist. /露西向前猛冲去抓加布里埃尔的手腕。
+		11. The lunge, the fleche and the thrust are the main attacking skills. /弓步冲刺，跨步冲刺和跃起冲刺是主要进攻技术。
+		12. John lunged forward and grabbed him by the throat. /约翰抽身上前，一把抓住他的喉咙。
+		13. The man lunged at her, reaching for her throat /那个男人喘着粗气，直扑她的喉咙。
+		14. And exhale, step the left toes back nice low lunge. /呼气，左脚脚趾向后迈出漂亮的低弓步。
+		15. s
+	10. purloin
 		1. pur-向前 + loin-长的，词源同long , lunge , lounge . 原义为延长，拖延，后引申词义偷窃，擅自使用。
 		2.  [pilfer](dic://pilfer), [cabbage](dic://cabbage), [pinch](dic://pinch), [abstract](dic://abstract), [snarf](dic://snarf), [swipe](dic://swipe), [hook](dic://hook), [sneak](dic://sneak), [filch](dic://filch), [nobble](dic://nobble), [lift](dic://lift) 
 		3. _v._ [steal](dic://steal)
 		4. **procure**获得，取得;**steal**剽窃;**seize**抓住;**acquire**获得;**apprehend**理解;**furnish**供应;**likewise**也;**bestow**授予;**devise**设计;**snatch**抢夺;**expend**花费
 		5. he must have managed to purloin a copy of the key /他肯定想办法偷偷复制了这把钥匙。
 		6. purloined the key to his safe-deposit box /拿走了他保险盒的钥匙。
-3. lent
+6. lent
 	1. [Lententide](dic://Lententide)
 	2. _n._ [season](dic://season)
 	3. **borrowed**借来的;**borrow**借;**gave**给予;**borrowing**借,借入;**donated**捐赠的;**brought**带来;**repaid**偿还;**indebted**负债的;**generously**宽大地;**repay**偿还;**owed**感恩，亏欠，负债];
-4. linger
-	1. _v._ [persist](dic://persist), [remain](dic://remain), [stay](dic://stay), [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
-	2. _n._ [rush](dic://rush), [hotfoot](dic://hotfoot), [hasten](dic://hasten), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along)
-	3. **persist**持续，固执;**haunt**常出没于…;**wander**徘徊;**subside**平息;**fade**褪色;**savor**使有风味;**remain**保持;**dissipate**驱散;**disappear**不见, 消失;**ponder**仔细考虑;**sit**坐;
-	4. _linger over_ 在…上拖延；细细思考；仔细欣赏；慢吞吞地做某事
-	5. The custom lingers on /此种风俗历久犹存。
-	6. the lingering sweetness of incense /萦绕不去的熏香气味
-	7. the tradition seems to linger on /这个传统现在似乎还不会消亡。
-	8. Larry didn't linger over his work completely, but he did linger over it to some extent. /劳里虽未完全磨洋工, 但多少有一点。
-5. long
+7. linger
+	1. vi. 逗留, 消磨, 徘徊  vt. 消磨
+	2. 1 - 来自古英语 lengan,延长，加长，词源同 long.引申词义逗留，流连。
+	3. _v._ [persist](dic://persist), [remain](dic://remain), [stay](dic://stay), [be](dic://be), [leave](dic://leave), [go forth](dic://go forth), [go away](dic://go away)
+	4. _n._ [rush](dic://rush), [hotfoot](dic://hotfoot), [hasten](dic://hasten), [hie](dic://hie), [speed](dic://speed), [race](dic://race), [pelt along](dic://pelt along)
+	5. **persist**持续，固执;**haunt**常出没于…;**wander**徘徊;**subside**平息;**fade**褪色;**savor**使有风味;**remain**保持;**dissipate**驱散;**disappear**不见, 消失;**ponder**仔细考虑;**sit**坐;
+	6. _linger over_ 在…上拖延；细细思考；仔细欣赏；慢吞吞地做某事
+	7. The custom lingers on /此种风俗历久犹存。
+	8. the lingering sweetness of incense /萦绕不去的熏香气味
+	9. the tradition seems to linger on /这个传统现在似乎还不会消亡。
+	10. Larry didn't linger over his work completely, but he did linger over it to some extent. /劳里虽未完全磨洋工, 但多少有一点。
+8. long
 
 
 ### + \*dele- + = to split, carve, cut
 1. **dol-** = grieve, 「latin」dolere, "to suffer"
-	1. condole, condolatory
+	1. condole,
 		1. [commiserate](dic://commiserate), [sympathize](dic://sympathize), [sympathise](dic://sympathise)
 		2. **mourn**哀悼;**mourning**哀痛;**bereaved**丧失的;**grieve**使悲伤，使苦恼;**sorrow**悲伤;**saddened**使…悲伤;**condemn**判刑，定罪;**grief**悲痛;
 		3. _condole with_ v. 向...吊慰
-		4. condolence
+		4. condolatory
+		5. condolence
 			1. **sympathy**同情;**tributes**献礼篇;**funeral**葬礼;**remembrance**回想;**heartfelt**衷心的;**apology**道歉;**obituary**讣告;**mourning**哀痛;**mourn**哀悼;**greetings**问候,打招呼;**memorial**纪念物;
 			2. [acknowledgment](dic://acknowledgment), [acknowledgement](dic://acknowledgement)
 	2. indolent, indolence
@@ -610,7 +671,7 @@
 		14. Just sometimes, over the weekends I become indolent. /只是有时候，一到周末，我就变得懒散起来。
 		15. He concluded ruefully that it was "arrogant and rash" to profess virtues that you cannot live up to, and retreated into **indolent** seclusion. /他懊悔地总结道，宣称自己信奉不能修行到的美德是非常“自傲和轻率的”。最终，他选择隐居，不理世事。
 	4. dolesome
-		1. - adj. 寂寞的；悲哀的
+		1. adj. 寂寞的；悲哀的
 	5. dolorous
 		1. (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, doleful, surly, grumpy, languid, saturnine, morose, sour, dour, )
 		2. [dolourous](dic://dolourous), [lachrymose](dic://lachrymose), [tearful](dic://tearful), [weeping](dic://weeping) 
@@ -1497,9 +1558,10 @@
 			2. ductuli
 		7. ductless
 		8. ductal
-			1. Subsequent fluoroscopy contrast studies can reveal structural changes to the pancreatic ductal system. /之后透视对比图像就可以显示出胰腺导管系统的结构变化。
-			2. The first type is called ductal carcinoma in-situ, or DCIS, and that's where tumor cells grow from the wall of the ducts, into the lumen /第一种被称为导管内原位癌（DCIS），指肿瘤细胞从导管壁向管腔内生长。
-		9. bileduct
+			1. 【医】 管的, 导管的
+			2. Subsequent fluoroscopy contrast studies can reveal structural changes to the pancreatic ductal system. /之后透视对比图像就可以显示出胰腺导管系统的结构变化。
+			3. The first type is called ductal carcinoma in-situ, or DCIS, and that's where tumor cells grow from the wall of the ducts, into the lumen /第一种被称为导管内原位癌（DCIS），指肿瘤细胞从导管壁向管腔内生长。
+		10. bileduct
 	3. ductile
 		1. adj. 柔软的；易教导的；易延展的
 		2. [malleable](dic://malleable)
@@ -1551,11 +1613,18 @@
 		10. Similarly, the ulnar nerve supplies the hypothenar muscles which control the little finger, the interossei muscles which abduct and adduct the fingers, meaning to spread or bring them together. /同样，尺神经支配小鱼际肌，控制小指运动，并支配骨间肌控制手指外展内收，即伸展或聚拢手指。
 		11. In this step, the **adduct** from step 1 is fluorinated /在这一步，将步骤1的加合产物进行氟化。
 	7. adduce
-		1. vt. 引证, 举出
+		1. vt. 引证, 举出 _vt._ 引证, 举出(例证、理由等)
 		2. ad-强调 + duc-引导 + -e → 一再引导 → 举例说明。
 		3.  [abduce](dic://abduce), [cite](dic://cite)
 		4. _v._ [testify](dic://testify), [bear witness](dic://bear witness), [prove](dic://prove), [evidence](dic://evidence), [show](dic://show)
 		5. **substantiate**用事实支持;**refute**反驳，驳斥;**evidence**证据，证明;**furnish**供应;**assert**断言;**disprove**反驳，证明…是虚假的;**infer**推断;**cite**引用;**circumstantial**详细的;**affirm**断言;**assertion**主张,维护;
+		6. He adduced nothing to prove his theory /他没能举出例子来证明他的理论。
+		7. When you adduce evidence of this nature, you must be sure of your sources /在你提供实质性的证据时,你必须确知它的来源。
+		8. Mr Oberhaus adduces arguments that they might. /奥伯豪斯先生引证了他们可能会这样做的论点。
+		9. I can not forbear adducing another instance of the power he had acquired over himself /这里，不得不再提一例，看看谢尔曼先生如何控制自己的性情。
+		10. He adduces the so-called protocol wars of the 1970s-90s, when rival computing network standards vied for supremacy. /他引证了20世纪70年代至90年代的所谓协议战，当时相互竞争的计算网络标准争夺霸主地位。
+		11. Religiosity strongly predicts opposition to gay marriage: 84% of weekly churchgoers voted for Prop 8. But arguments based on faith, tradition or squeamishness cannot be adduced in court. /每周做礼拜的人中有84％的投票支持8号提案。但是基于信仰，传统或对某种事物感到恶心不能在法庭作为引证。
+		12. 
 	8. deduct
 		1. vt. 扣除，减去；演绎
 		2. de-向下 + duct-拉，引导，即向下拉掉，减去，扣除。
@@ -1570,59 +1639,196 @@
 		11. deduct the tax from the paycheck /从薪金中扣除税款
 		12. your pension contribution will be deducted at source. /你的养老金部分将被直接扣除。
 		13. Well, you can deduct it from the $40 that you're going to give me now. /好, 那你可以把那从40美圆里减掉, 你现在可以给我了。
-	9. deduce
-	10. educt
-	11. educe
-	12. endue, subdue
-	13. educate, educable
-	14. induct
+		14. deductive
+		15. deduction
+		16. deductible
+			1. _n._ [sum](dic://sum), [sum of money](dic://sum of money), [amount](dic://amount), [amount of money](dic://amount of money), [article](dic://article), [clause](dic://clause)
+			2. _adj._ [allowable](dic://allowable)
+			3. _n._ [nondeductible](dic://nondeductible)
+			4. **out-of-pocket**现款支付的,不列入预算的;**premiums**赠品，保险费;**insurance**保险;**deduction**扣除, 减除;**taxable**应纳税的;**reimbursement**偿还;**expenses**开支;**insurer**承保人;**insured**被保险人;**tax**向…课税;**deduct**扣除，减去;
+			5. If your premise is established, your conclusions are easily deductible. /如果你的前提成立，那么你的结论很容易被删减。
+			6. This policy indicates that their earnings outside China are tax deductible. /这种政策指出他们在中国以外的收入将不再征税。
+			7. You can pay extra for zero deductible for the peace of mind. /为了安心， 您可以额外支付零免赔额。
+			8. 
+			9. tax-deductible
+	12. deduce
+		1.  [infer](dic://infer), [deduct](dic://deduct), [derive](dic://derive)
+		2. [infer](dic://infer)
+		3. _v._ [reason](dic://reason), [reason out](dic://reason out), [conclude](dic://conclude)
+			1. [infer](dic://infer) 指从已提供的论据或从已接受的前提出发而推断出的结论。  
+			2. [deduce](dic://deduce) 指有充分根据的推论，也指逻辑学上的演绎。  
+			3. [conclude](dic://conclude) 指得出符合逻辑的结论。  
+			4. [gather](dic://gather) 指从听到的情况推测、判定。  
+			5. [judge](dic://judge) 多指经过仔细鉴定或评价之后作出决断。
+		4. **infer**推断;**ascertain**弄清, 确定, 查明;**presume**假定;**derive**得到;**interpret**解释;**conclude**推断出;**calculate**计算;**discern**识别;**predict**预报，预言;**determine**决定;**assume**假定;
+		5. The police were able to deduce where the fugitive was hiding. /警方成功地推断出那逃亡者躲藏的地方。
+		6. On the basis of evidence we deduced that he was guilty. /根据这些证据我们推断他是有罪的。
+		7. The abduction mapping method was introduced to deduce the transformation relation between the non-unbendable surface and the flat surface. /利用微分几何中的诱导映射理论求得非可展曲面到平面域内的变换关系。
+		9. _deduce from_ 推断；从…得出结论
+			1. " From East London. What do you deduce from that? " /" 从伦敦东区寄出。你据此能推断出什么来呢？"
+	13. educt
+	14. educe
+		1. v. 使（潜在的事物）显出，引出，进化；（从数据中）演绎出
+		2. [evoke](dic://evoke), [elicit](dic://elicit), [extract](dic://extract), [draw out](dic://draw out)
+		3. [derive](dic://derive)
+		4. _v._ [interpret](dic://interpret), [construe](dic://construe), [see](dic://see), [make](dic://make), [create](dic://create)
+		5. **derive**得到;**elicit**引出, 探出;**reduce**减少;**induce**引诱;**lessen**使…变小;**stimulate**刺激;**augment**增加;**provoke**激怒;**compel**强迫，迫使;**deduce**推论，推断;**arouse**引起;
+		6. educe an argument against a new plan /提出反对新计划的理由。
+		7. couldn't educe significance from the event; /不能从事件引申出意义；
+		8. Finally, **educe** the appraisement by integrating the practice of author. /最后，结合作者的实践给出评价。
+		9. Chinese researchers also notice this point, and **educe** some beneficial conclusion. /中国有些学者也注意到这一点，得出了一些有益的结论。
+	15. endue
+		1. [endow](dic://endow), [indue](dic://indue), [gift](dic://gift), [empower](dic://empower), [invest](dic://invest)
+		2. _v._ [enable](dic://enable)
+		3. **bestow**授予;**procure**获得，取得;**render**提出;**endure**忍耐;**likewise**也;
+		4. endued with gentleness /具有温文而雅的气质
+		5. She is endued with wisdom from above. /她有天赋的智慧。
+		6. our sight would be endued with a far greater sharpness. /我们的洞察力会变得更加敏锐。
+		7. He prayed to God night and day to endue him with the spirit of holiness. /他日夜祈求上帝赋予他虔敬的心。
+		8. She felt as if she never could sleep again; as if her whole senses were acutely vital, and all endued with double keenness, for the purposes of watching. /她觉得自己再也睡不着了。 就好像她的整个感官都非常活跃， 而且都被赋予了双重的敏锐度， 以供观看
+		9. _endue with_ v. 赋予；使穿上
+	16. subdue
+		1. - v. 克制，抑制（情绪）；镇压，制服
+		2.  [repress](dic://repress), [quash](dic://quash), [keep down](dic://keep down), [subjugate](dic://subjugate), [reduce](dic://reduce)
+		3.  [suppress](dic://suppress), [stamp down](dic://stamp down), [inhibit](dic://inhibit), [conquer](dic://conquer), [curb](dic://curb)
+		4.  [mortify](dic://mortify), [cricify](dic://cricify)
+		5. [overcome](dic://overcome), [get over](dic://get over), [surmount](dic://surmount), [master](dic://master)
+		6.  [subordinate](dic://subordinate)
+		7. [tame](dic://tame), [chasten](dic://chasten)
+		8. _v._ [oppress](dic://oppress), [suppress](dic://suppress), [crush](dic://crush), [control](dic://control), [hold in](dic://hold in), [hold](dic://hold), [contain](dic://contain)
+			1. [conquer](dic://conquer) 侧重战胜和控制。书面用词。  
+			2. [overcome](dic://overcome) 多指战胜或克服非物质的东西，如困难和不良习惯等。语气较弱也可指在斗争或竞争中战胜或压倒对方。  
+			3. [overthrow](dic://overthrow) 指彻底击败对手，使其丧失力量和地位。  
+			4. [defeat](dic://defeat) 普通用词，多指在战争、比赛、竞选或辩论中战胜对手，侧重胜利的暂时性。  
+			5. [beat](dic://beat) 口笔语均可用，可与defeat换用。  
+			6. [subdue](dic://subdue) 正式用词，与conquer同义，但强调失败后的臣服状态；也可用作借喻，表克制、压抑感情、欲望等。
+		9. **restrain**抑制，控制;**apprehend**理解;**conquer**战胜，征服;**suppress**抑制;**disarm**解除武装;**quell**镇压;**expel**驱逐;**neutralize**使中立;**intimidate**恐吓, 威胁;**overwhelm**覆盖, 淹没;**seize**抓住;
+		10. she managed to subdue an instinct to applaud. /她终于克制住鼓掌的冲动。
+		11. There is a subdued atmosphere in the school at exam time. /在考试期间，学校里有一种压抑的氛围。
+		12. The country was subdued by the enemy /这个国家被敌人征服了。
+		13. a subdued plaid shirt. /色调柔和的方格衬衫。
+		14. I felt strangely subdued when it was all over. /一切都结束的时候，我却有一种奇怪的压抑感。
+		15. Colours and beauties so far subdued were, at least, the birthright of all /享受这样暗淡的色彩、这样低沉的美景，至少是每一个人与生俱来的权利。
+		16. A rugged people, and through soft degrees Subdue them to the useful and the good. /用温和的步骤 驯化他们，使他们成为有用的良民。
+		17. Julia had to **subdue** an urge to stroke his hair. 朱莉娅不得不克制住自己，不去抚摩他的头发。
+	18. educate
+		1. vt. 教育, 培养, 训练
+		2. educate（教育）：把学生的天资引导出来  
+		3. 在西方的教育观念中，教育的本质是启发、引导、培养新一代。教师的责任就是把学生内在的天资，能力引导出来。英语中表示“教育”的单词educate的原始含义正是如此。这个词来自拉丁语educatus，是动词educere的过去分词形式。而educere由e（ex、出来）和ducere（lead、引导）组成，字面意思就是lead out（引导出来）。从这个词的本质含义可以看出，中国学校的填鸭式灌输并不能称为education。  
+		4. educate：['edjʊkeɪt] vt.教育，培养  
+		5. education：[edjʊ'keɪʃ(ə)n]  n.教育，教育学  
+		6. educator：['ɛdʒə'ketɚ] n. 教育家；教育工作者；教师  
+		7. educative：['ɛdjukətɪv] adj. 教育的，教育上的  
+		8. educe：[ɪ'djʊs] vt. 引出；演绎；使显出
+		9. well-educated
+		10. uneducated
+		11. self-educated
+		12. reeducated
+		13. educator
+		14. educative
+		15. education
+		16. educated
+		17. coeducate
+		18. educable
+	25. induct
 		1. vt. 引导, 使入门, 引入, 使就职
-	15. induce
+		2. inductothermy
+		3. inductotherm
+		4. inductotherapy
+		5. inductor
+		6. inductopyrexia
+		7. inductometer
+		8. inductogram
+		9. inductivity
+		10. inductive
+		11. induction
+		12. inductile
+		13. inductee
+		14. inductance
+			1. self-inductance
+			2. antennainductance
+	26. induce
 		1.  (render, garner, engender, yield, induce, entail, incur, inflict, ensue, confer)
 		2. in-进入 + duc-引导 + -e → 引进去 → 诱导。
 		3. vt. 引诱, 招致, 归纳出, 感应
-	17. introduce
+		4. . 引诱，诱使；引起，导致；给（孕妇）引产，（用药物）催生；归纳出
+		5. [bring on](dic://bring on)
+		6. [stimulate](dic://stimulate), [cause](dic://cause), [have](dic://have), [get](dic://get), [make](dic://make)
+		7. [stimulate](dic://stimulate), [rush](dic://rush), [hasten](dic://hasten)
+		8.  [induct](dic://induct)
+		9. _v._ [generate](dic://generate), [bring forth](dic://bring forth), [effect](dic://effect), [effectuate](dic://effectuate), [set up](dic://set up), [reason](dic://reason), [reason out](dic://reason out)
+			1. [induce](dic://induce) 指用讲道理来使某人做某事。  
+			2. [persuade](dic://persuade) 普通用词，指通过劝说、感情交流等而使对方做劝说者所希望的事。  
+			3. [urge](dic://urge) 语气强，指不断地热情地规劝诱导。  
+			4. [convince](dic://convince) 指凭行动、事实或言语使他人从思想感情上信服。  
+			5. [counsel](dic://counsel) 较正式用词，指对一些较重大事情所提出的劝告。有时也用于非正式场合，但仍强调严肃的一面。  
+			6. [coax](dic://coax) 指用好话善意或耐心劝诱、哄骗某人做某事。
+		10. **elicit**引出, 探出;**provoke**激怒;**compel**强迫，迫使;**suppress**抑制;**stimulate**刺激;**incite**煽动;**inhibit**抑制;**entice**诱使;**modulate**调节;**counteract**对抗;**persuade**说服，劝说;
+		11. The medicine will induce sleep /这种药使人入睡。
+		12. induce sb. to do sth. /劝导某人做某事
+		13. an elixir guaranteed to induce love. /一剂保证能引发爱情的灵丹妙药。
+		14. intended to induce a feeling of nostalgia, it only induces in me a feeling of nausea. /本想引起怀旧之情，岂料只让我感到厌恶。
+		15. none of these measures induced a change of policy. /这些措施中没有一项引起政策变化。
+		16. he was induced to part out and out with all the money. /有人诱使他把所有的钱都花掉了。
+		17. Her illness was induced by overwork. /她的病是操劳过度引起的。
+		18. Advertising induces people to buy. /广告诱导人们花钱买东西。
+		19. But how does the hormone induce overindulgence? /但是这种激素是如何引起过度饮食的呢？
+		20. It was suspected that she had induced it. /她被怀疑主动堕胎。
+		21. It is believed that eccentric movements induce muscle damage or tears within the muscle belly. /通常认为反常运动会引起肌肉创伤以及肌腹内部撕裂。
+		22. Neal, you induced him to commit a felony. /尼尔 你诱导他犯下重罪。
+		23. 
+	27. introduce
 		1. vt. 介绍, 引入, 采用, 输入
 		2. introduction, introductory
-	18. aqueduct
+	28. aqueduct
 		1. n. 水管, 沟渠, 导管
-	19. oviduct
+	29. oviduct
 		1. n. 输卵管
-	20. product
+	30. product
 		1. pro-前 + duct-引导 → 引出的东西 → 产品。
-	21. produce
-	22. subduct
-	23. subduce
-		1. subduction, seduction, seductive, 
-	24. ventiduct
+	31. produce
+	32. subduct
+		1. - v. 将（眼睛等）向下拉；撤去，除去，减去；（古）取回
+	33. subduce
+		1. - vt. 减去；除去，拿掉
+		2. subduction, seduction, seductive, 
+	34. ventiduct
 		1. n. 通风管
-	25. viaduct
+	35. viaduct
 		1. 高架桥
 		2. via-路 + duct-引导路的路 → 高架桥。
-	26. conduit
+	36. conduit
 		1. n. 导管, 水管, 沟渠
 		2. con- + duit-引导。
 		3. **passageway**通道;**receptacle**容器;**pipe**管子;**intermediary**中间人;**outlet**出口，排放孔;**tubing**管子;**orifice**孔口;**wire**金属丝;**flow**流动，涌流;**inlet**插入物;**channeling**凿沟,沟渠,沟槽;
-	27. conduct
+	37. conduct
 		1. con-共同 + duct-引导 → 引导大家一起做 → 指挥。
 		2. n. 行为, 举动, 指导  
 		3. vt. 为人, 指挥, 管理, 实施  
 		4. vi. 领导, 传导, 指挥
-	28. conduce
+	38. conduce
 		1. vi. 有助于, 有益于, 有贡献于, 导致
 		2. con-共同 + duc-引导 + -e。
-		3. conducive
-			1. _adj._ [causative](dic://causative)
-			2. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
-			3. **amenable**有责任的，应服从的;**ideal**理想的;**facilitate**使便利, 减轻…的困难;**suited**合适的;**preclude**妨碍;**productive**多产的, 富饶的;**detrimental**有害的;**favourable**赞许的, 赞同的;**fostering**哺育，养育;**harmonious**和谐的;**favorable**有利的;
-			4. _[conducive](dic://conducive)_  adj. 有益的；有助于…的
-			5. _[conducive to](dic://conducive%20to)_  有益于…，有益于…
-			6. _[be conducive to](dic://be%20conducive%20to)_  有利于
-			7. Exercise is conducive to health. /运动有益于健康。
-			8. This is a more conducive atmosphere for studying /这样的氛围更有利于学习。
-			9. it is clattery and not conducive to intelligent conversation about the state of British fiction; /这儿又吵又闹而且对这种关于英国小说的聪明人的会谈毫无益处；
-	29. reduce
-	30. reductase
+		3.  [contribute](dic://contribute), [lead](dic://lead)
+		4. _v._ [promote](dic://promote), [advance](dic://advance), [boost](dic://boost), [further](dic://further), [encourage](dic://encourage)
+		5. **hinder**成为阻碍;**impede**阻止;**continuance**继续;**attain**达到，实现;**facilitate**使便利, 减轻…的困难;**induce**引诱;**expedient**应急有效的;**obstruct**阻塞;**preclude**妨碍;**hasten**催促;**necessitate**使…成为必要, 需要;
+		6. conducive
+			1. conduce【有助于, 有益于】 + -ive, 表形容词，是单词conduce 派生的形容词。
+			2. a. 有益于...的, 有助于...的, 助长的
+			3. _adj._ [causative](dic://causative)
+			4. _n._ [noncausative](dic://noncausative), [noncausal](dic://noncausal)
+			5. **amenable**有责任的，应服从的;**ideal**理想的;**facilitate**使便利, 减轻…的困难;**suited**合适的;**preclude**妨碍;**productive**多产的, 富饶的;**detrimental**有害的;**favourable**赞许的, 赞同的;**fostering**哺育，养育;**harmonious**和谐的;**favorable**有利的;
+			6. _[conducive](dic://conducive)_  adj. 有益的；有助于…的
+			7. _[conducive to](dic://conducive%20to)_  有益于…，有益于…
+			8. _[be conducive to](dic://be%20conducive%20to)_  有利于
+			9. Exercise is conducive to health. /运动有益于健康。
+			10. This is a more conducive atmosphere for studying /这样的氛围更有利于学习。
+			11. it is clattery and not conducive to intelligent conversation about the state of British fiction; /这儿又吵又闹而且对这种关于英国小说的聪明人的会谈毫无益处；
+	39. reduce
+		1. vt. 减少, 分解, 降低, 使衰退, 把...分解, 把...归纳  vi. 减少, 减肥, 缩小
+		2. re-回 + duc-引导 + -e → 往回引 → 减少。
+		3. 
+	40. reductase
 		1. reduction
 		2. reductive
 			1. _adj._ [subtractive](dic://subtractive)
@@ -1634,13 +1840,37 @@
 			7. Labeling them both as " Harry Potter actors" is a bit reductive; each has shown some impressive acting chops outside of that franchise. /把这两位演员都归于“哈利波特系列演员”有点简单了，他们两位在该系列之外都有着令人印象深刻的表演作品。
 			8. It sounds as though you're saying that calling someone else's argument a fallacy is — I don't want to be reductive, but a little cheap and lazy. /听起来你好像在说，称别人的论点为谬误是——我不想还原，但有点廉价和懒惰。
 		3. reductor
-	31. seduce
-	32. traduce
-	33. transduce
-		1. transduction
-	34. duke
-	35. duchess, duchy
-3. douche
+	41. seduce
+		1. vt. 唆使, 怂恿, 引诱, 诱奸
+		2. se-分开 + duc-拉，引导 + -e → 引偏，使偏离。
+		3.  se-,分开，-duc,拉，引导，词源同 traduce,conduct.即引偏，使偏离，引申诸相关词义。
+		4. seducement
+		5. seducer
+		6. seducible
+	42. traduce
+		1. vt. 诽谤, 中伤, 背叛
+		2. tra- + duc-引导 + -e，横向横引 → 不正 → 诽谤。
+		3. 
+	43. transduce
+		1. n. 换能器, 变换器
+		2. transduction
+	45. duke
+		1. n. 公爵
+		2. duke（公爵）：罗马帝国时期的蛮族军事统帅  
+		3. 在古罗马时代，出身为日耳曼或凯尔特蛮族而作为雇佣军为罗马军队所用的将帅，由于没有正式的罗马军衔而统称为Dux，是“军队首领”的意思。该词来自拉丁语动词ducere（领导、引导），这就是英语单词Duke（公爵）的来源。英语词根duc-（引导）与此同源。  
+		4. 罗马帝国灭亡之后，各部族的军事领袖成为欧洲各小国的国君，其中许多就以Dux为称号，他们统治的小国就被称为“公国”（duchy）或“大公国”（Archduchy）。直到近代，意大利和德国统一之前的很多小国都以此为称号。这些小国的国君一般翻译为“大公”。  
+		5. 欧洲现存的独立公国是卢森堡和安道尔公国。历史上的其它公国经过合并和并吞，逐渐丧失独立性，成为国家的一部分，其统治者也演变成了由国王授予的爵位，即“公爵”（Duke）。在欧洲各国，公爵都是最高爵位之一。  
+		6. 英国的公爵爵位出现很晚。1337年，爱德华三世把康沃尔郡升为公国，将公爵爵号授予年方7岁的“黑太子”爱德华。为突出公爵特殊地位，以后多年里除女王配偶和王子外，其他王亲国戚均不许称王，最高可获公爵爵位。自从1483年建立诺福克公国以后，公爵爵位开始授予王亲以外者，但很少建立公国。而且能获此最高爵位者多是军功显赫的统帅。  
+		7. duc-：引导，领导  
+		8. duct： [dʌkt] n. 输送管，导管vt. 用导管输送；以导管封住  
+		9. duke：[djuːk] n.公爵  
+		10. duchy：['dʌtʃɪ] n.公国，公爵领地  
+		11. duchess：['dʌtʃɪs; -es] n.公爵夫人，女公爵  
+		12. archduke： [,ɑrtʃ'duk] n. 大公，（奥地利）皇太子  
+		13. ducal：['dukl]  adj. 公爵的；公爵领地的；象公爵的  
+		14. duce： ['duːtʃɪ]  n.（意）领袖；首领
+	46. duchess, duchy
+14. douche
 	1. 来自意大利语 doccia,沐浴，洒水，来自 PIE*deuk,引导，管道，词源同 duct.后引申该词义。
 	2. n. 灌洗器
 	3. vi. 冲洗
@@ -1660,35 +1890,36 @@
 	17. It kind of looks like a douche commercial /就像那些傻逼广告。
 	18. To those who'd ridden his bus, Blake was notorious for being a weapons-grade douche. /对于那些乘坐过他的巴士的人来说，布莱克是一个臭名昭著的超级混蛋。
 	19. And he just graduated from a-hole to douche /他变态指数大大飙升啊。
-4. dock
-5. taut (taunt, daunt)
-	1. adj. 拉紧的；紧张的；整洁的
-	2. vt. 使纠缠；使缠结
-	3. 来自中古英语 tought,拉紧的，可能来自 tough 变体。
-	4. [tight](dic://tight)
-	5. _adj._ [tense](dic://tense)
-	6. _n._ [lax](dic://lax), [relaxed](dic://relaxed)
-	7. plodding
-	8. **supple**柔软的;**gripping**引人注意的;**tight**紧的;**suspenseful**悬疑的,令人紧张的;**tightly**紧紧地;**riveting**吸引人的;**stretched**拉伸的;**deft**灵巧的;**impressively**令人难忘地;**elastic**有弹性的;**knotted**多节的，有节的;
-	9. a taut movie script. /简洁的电影剧本
-	10. a taut text of only a hundred and twenty pages. /一本结构紧凑只有120页的课本。
-	11. the men's taut relationship fixes your attention /这些人之间的紧张关系引起了你的注意。
-	12. This misshapen ogrelike brute has taut flesh with a claylike texture. /这只畸形的食人魔状怪物有着粘土般构成的紧崩肉体。
-	13. Well, speed bump coming up. Hold the leash taut. /前方有减速带 把绳子拉紧一点。
-	14. The sheep observed one another, Messi taut and focused, Pogba chewing nervously. /绵羊们互相观察着，梅西紧绷着脸，注意力集中，博格巴则紧张地咀嚼着。
-	15. Mr. Crouch's face was taut with rage. /克劳奇先生气得板紧了脸。
-	16. He was a taut, tattooed engine mechanic, six feet tall, with a passing resemblance to James Dean /他是个肌肉发达、有着文身的引擎机械师，6英尺高，长相酷似詹姆斯·迪恩。
-	17. Yeah, exactly. Excuse me so somebody's face will freeze over, or... or the features will go all taut. /是的，没错。不好意思，有人的脸会僵住，或者… 或者五官会绷紧。
-	18. His body was solid and **taut**. /他身体结实，肌肉发达。
-	19. Her face was **taut** and pale /她神色紧张，脸色苍白。
-	20. tauten
+15. dock
+16. taut (taunt, daunt, tout, flaunt, flout, taut)
+	1. (taut, curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident,)
+	2. adj. 拉紧的；紧张的；整洁的
+	3. vt. 使纠缠；使缠结
+	4. 来自中古英语 tought,拉紧的，可能来自 tough 变体。
+	5. [tight](dic://tight)
+	6. _adj._ [tense](dic://tense)
+	7. _n._ [lax](dic://lax), [relaxed](dic://relaxed)
+	8. plodding
+	9. **supple**柔软的;**gripping**引人注意的;**tight**紧的;**suspenseful**悬疑的,令人紧张的;**tightly**紧紧地;**riveting**吸引人的;**stretched**拉伸的;**deft**灵巧的;**impressively**令人难忘地;**elastic**有弹性的;**knotted**多节的，有节的;
+	10. a taut movie script. /简洁的电影剧本
+	11. a taut text of only a hundred and twenty pages. /一本结构紧凑只有120页的课本。
+	12. the men's taut relationship fixes your attention /这些人之间的紧张关系引起了你的注意。
+	13. This misshapen ogrelike brute has taut flesh with a claylike texture. /这只畸形的食人魔状怪物有着粘土般构成的紧崩肉体。
+	14. Well, speed bump coming up. Hold the leash taut. /前方有减速带 把绳子拉紧一点。
+	15. The sheep observed one another, Messi taut and focused, Pogba chewing nervously. /绵羊们互相观察着，梅西紧绷着脸，注意力集中，博格巴则紧张地咀嚼着。
+	16. Mr. Crouch's face was taut with rage. /克劳奇先生气得板紧了脸。
+	17. He was a taut, tattooed engine mechanic, six feet tall, with a passing resemblance to James Dean /他是个肌肉发达、有着文身的引擎机械师，6英尺高，长相酷似詹姆斯·迪恩。
+	18. Yeah, exactly. Excuse me so somebody's face will freeze over, or... or the features will go all taut. /是的，没错。不好意思，有人的脸会僵住，或者… 或者五官会绷紧。
+	19. His body was solid and **taut**. /他身体结实，肌肉发达。
+	20. Her face was **taut** and pale /她神色紧张，脸色苍白。
+	21. tauten
 		1.  [firm](dic://firm)
 		2. _v._ [tighten](dic://tighten), [fasten](dic://fasten)
 		3. **tighten**变紧;**supple**柔软的;**tightening**上紧;**loosen**放松;**wrinkles**皱纹;**soothe**安慰;**sagging**下垂;**fasten**扎牢;
 		4. I suddenly felt the fishing line **tauten**. /我突然感到鱼竿的绳子拉紧了。
 		5. When I grin, the stitches **tauten**. /当我咧嘴而笑，针脚便会绷紧。
-	21. hand-taut
-7. team (teem)
+	22. hand-taut
+18. team (teem)
 	1. n. 队, 组  
 	2. vt. 把马(牛)套在同一辆车上, 把...编成一组  
 	3. vi. 驾驶卡车, 协作
@@ -1708,7 +1939,7 @@
 		6. She heard the sound of feet outside but paid little heed, thinking it was the teamstersgoing home. /她听见外面有脚步声，但并没在意，以为那是运输队的人回家了。
 		7. Outside the window, a teamster was driving a truck filled with tear bombs. /窗外，一个卡车司机开着一辆满载催泪弹的卡车。
 	13. teammate
-8. tie
+19. tie
 	1. n. 带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负  
 	2. vt. 系, 打结, 扎, 约束, 与...成平局  
 	3. vi. 结合, 打结, 不分胜负
@@ -1724,7 +1955,7 @@
 	13. necktie
 	14. hogtie
 	15. crosstie
-9. tow
+20. tow
 	1. 来自古英语 togian,拖，拉，来自 Proto-Germanic*tugojanan,拖，拉，来自 PIE*deuk,拖，拉，词源同 duct,tie.引申诸相关词义。
 	2. n. 拖, 拖绳, 拖轮  
 	3. vt. 拖, 拉, 牵引
@@ -1737,7 +1968,7 @@
 	9. towboat
 	10. towage
 	11. tow-net
-11. tug
+21. tug
 	1.  来自古英语 teohan,拉，拖，来自 Proto-Germanic*teuhan,拉，拖，来自 PIE*deuk,拉，词源同duct,tow.
 	2. n. 用力拉, 拖曳, 苦干, 挣扎, 绳索  
 	3. v. 用力拉
@@ -1896,7 +2127,7 @@
 		5. absconder
 		6. abscondence
 	3. recondite
-		1. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive,  exoteric, occult, impenetrable, inscrutable, uninformative, inexplicable, convoluted) 
+		1. (cryptic, recondite, esoteric, abstract, abstruse, arcane, elusive,  exoteric, occult, impenetrable, inscrutable, uninformative, inexplicable, convoluted, opaque, ) 
 		2. 1 - re-,向后，离开，con-,表强调，-dit,放置，给予，词源同 edit,donate.即放到后面的，放起来的，引申词义隐藏的，深奥的。
 		3. _adj._ [esoteric](dic://esoteric)
 		4. _n._ [exoteric](dic://exoteric)

@@ -1068,7 +1068,7 @@
 			2. **bovine**牛的;**goat**山羊;**goats**山羊;**sheep**羊，绵羊;**equine**马的;**cow**奶牛，母牛;**calf**小牛;**herd**兽群，畜群;**cattle**牛;**swine**猪;**recombinant**重组器官;
 		11. capriform
 		12. capricious (duplicity)
-			1. (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, arbitrary) 
+			1.  (erratic, errant, wayward, precarious, labile, capricious, volatile, flighty, fickle, versatile, wobble, duplicitous, rackety, portean, arbitrary) 
 			2. _adj._ [unpredictable](dic://unpredictable), [arbitrary](dic://arbitrary)
 			3. _n._ [predictable](dic://predictable), [nonarbitrary](dic://nonarbitrary), [unarbitrary](dic://unarbitrary)
 			4. **fickle**易变的;**arbitrary**随意的, 主观的;**unpredictable**无法预言的, 不可预测的;**cruel**残酷的，残忍的;**erratic**不稳定的;**tyrannical**暴君的,暴君似的;**whim**一时的兴致;**perverse**任性的,固执的;**unreasonable**不讲道理的, 非理智的;**irrational**无理性的;**illogical**不合逻辑的;
@@ -1771,13 +1771,19 @@
 		5. _[power idiosyncracy](dic://power%20idiosyncracy)_ 功角特性
 		6. _[key idiosyncracy](dic://key%20idiosyncracy)_ 核心特质
 		7. Personality is the supreme realization of the innate idiosyncracy of a living being /即便在意识感性自觉有力时，人的潜意识口理仍能准确地舆解。
-		8. idiosyncratic
+		8. idiosyncratic (sycophant, )
 			1. **unorthodox**非正统的, 非传统的, 非正规的;**quirky**诡诈的;**eclectic**兼收并蓄的;**offbeat**离奇的;**eccentric**古怪的, 怪癖的;**peculiar**特殊的;**unconventional**非传统的;**unusual**与众不同的;**bizarre**奇异的;**irreverent**不敬的;**atypical**非典型的;
 			2. _adj._ [individual](dic://individual), [single](dic://single)
 			3. _n._ [common](dic://common)
 			4. _[idiosyncratic](dic://idiosyncratic)_  adj. 特质的；特殊的；异质的
 			5. _[idiosyncratic risk](dic://idiosyncratic%20risk)_  个别风险; 非系统性风险; 
 			6. _[idiosyncratic reaction](dic://idiosyncratic%20reaction)_  特异质反应
+			7. China's idiosyncratic pattern of development is never easy to categorise. /中国与众不同的发展模式从来都不易归类。
+			8. It's all about matching the idiosyncratic, natural patterns of the actor's head /这一切都是为了匹配演员头部独特自然的形状。
+			9. The creation of the potato chip is a rather snarky, surprising and idiosyncratic story. /土豆片的创作是一个相当尖锐、令人惊讶和特殊的故事。
+			10. Another is to exclude the items for which prices have swung the most, typically owing to idiosyncratic factors. /另一种方法是排除通常由特殊原因造成的价格波动最大的项目。
+			11. It is a repository of peculiar characters, settings and situations, flights of idiosyncratic language and jags of startling perception. /它是一座宝库，充满奇特人物、场景和情节，不寻常的奇幻语言，以及令人吃惊的洞察力。
+			12. How reading is ultimately a lonely, idiosyncratic undertaking. /阅读如何最终成为一项孤独、特殊的事业。
 	16. juvenocracy
 	17. kakistocracy
 	18. landocracy
@@ -2739,42 +2745,72 @@
 	1. cavil
 	2. caviler
 	3. calumny
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		4.  [defamation](dic://defamation), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
 		5.  [aspersion](dic://aspersion), [slander](dic://slander), [defamation](dic://defamation), [denigration](dic://denigration)
 		6. _n._ [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [attack](dic://attack)
 		7. **slander**诽谤;**falsehood**谎言;**accusation**指责;**reproach**责备;**indignation**愤怒, 愤慨, 气愤;**ridicule**嘲笑;**scorn**轻蔑;**vile**卑鄙的;**heresy**异教;**defamation**诽谤, 中伤;**smear**涂抹;
-		8. 
-	5. challenge
+		8. aspersion, calumny, defame, denigrate, discredit, libel, malign, slander, slur, stigmatise, traduce, vilify. 
+		9. That, though, turns out to be a calumny against les Anglais /但事实证明，这是对英国人的诽谤。
+		10. No breath of calumny ever attainted the personal purity of the candidate. /没有诽谤玷污这位候选人的个人纯洁。
+		11.  " Monsieur, I should lay myself open to calumny" . /“先生，我应该让自己受到诽谤”。
+		12. He would not retreat before calumny, as if he submitted to it. /他不会在诽谤面前退缩， 就好像他屈服了一样。
+		13. Jealousy and calumny will pursue you in whatever place Providence may place you. /嫉妒和诽谤会在上天安排你的任何地方追赶你。
+		14. In that case I should begin to be confronted with a prospect of calumny and dishonour. /“在这种情况下， 我应该开始面对诽谤和耻辱的前景。
+		15. " What I mean by being proof against calumny is being able to point to the fact as a contradiction" . /“我所说的证明反对诽谤的意思是能够指出事实是矛盾的” 。
+		16. 
+	4. challenge
+		1. n. 挑战, 盘问  
+		2. vt. 向...挑战, 要求, 怀疑  
+		3. vi. 挑战, 对(证据等)表示异议
+		4. challenge - 据有关记载，古罗马人对诬陷者施行一种惩戒性做法，即在他的前额打上K字印记，K表示kalumnia，意思是“诽谤”。以后kalumnia演变为calumnia。英语的calumny源自该拉丁词，所以有“诽谤”、“诬陷之词”等义。其派生词calumniator则指“诽谤者”。在中世纪，一个人倘若遭到诽谤，很可能会向诽谤者提出挑战，要求决斗。意为“挑战”的challenge一词，若究其根源，也可一直追溯到这个表示“诽谤”的拉丁词。这两者被联系在一起是因为它们之间存在一种因果关系的缘故。
+		5. unchallenged
+			1. a. 未引起争论的, 未受到挑战的, 毫无疑问的
+		6. unchallengeable
+		7. dechallenge
+		8. challenging
+		9. challenger
+		10. challengeable
 
 
 ### + \*kele- +
 #### + \*kele- (1) + = warm
 1. **calori-, cale-** = heat, 表示“热”。源自拉丁语 calere "to be warm," calor "heat."
 	1. calorie
-		1. calorific
+		1. [gram calorie](dic://gram calorie), [small calorie](dic://small calorie)
+		2. [kilogram calorie](dic://kilogram calorie), [kilocalorie](dic://kilocalorie), [large calorie](dic://large calorie), [nutritionist's calorie](dic://nutritionist's calorie)
+		3. _n._ [work unit](dic://work unit), [heat unit](dic://heat unit), [energy unit](dic://energy unit)
+		4. **caloric**热量的;**carbohydrate**碳水化合物;**diet**饮食;**carb**汽化器;**dieting**节食;**fat**肥的，胖的;**nutritional**营养的;**nutrient**营养物;**dietary**规定的食物;**sodium**钠;**nutrition**营养;
+		5. _low calorie_ 低卡路里
+		6. _calorie intake_ 卡路里摄入量；热量摄取
+		7. _calorie value_ 热量值，卡值
+		8. a caloric value of 7 calories per gram. /每克七卡热量。
+		9. a low-calorie, low-fat regime. /低卡路里、低脂肪的饮食制度。
+		10. uphill walking is a great calorie burner. /爬坡消耗大量卡路里。
+		11. They were even consuming more calories in their diet. /它们甚至还摄入更多热量。
+		12. calorific
 			2. **caloric**热量的;**calorie**卡路里;**calories**卡路里;**carbohydrate**碳水化合物;**nutritional**营养的;**nutritious**有营养的, 滋养的;**fat**肥的，胖的;**fructose**左旋糖;**consumption**消费;**nutrient**营养物;**savoury**咸味的;
-		2. calorify
-		3. calorimeter
-		4. calorimetry
-		5. caloric
-		6. ..
-		7. calefacient
+		13. calorify
+		14. calorimeter
+		15. calorimetry
+		16. caloric
+		17. ..
+		18. calefacient
 			1. _[calefacient](dic://calefacient)_  adj. 变暖的；增温的; n. 发暖剂；增温物质;
-		8. calefactory
+		19. calefactory
 			1. **heating**加热;**cooling**冷却的;**hearth**炉床;**assemblage**聚集;
 			2. adj. 温暖的；增温的; n. 取暖房；增温物质;
-		9. calefy
+		20. calefy
 			1. vt. 使…变暖; vi. 变暖;
-		10. calenture
+		21. calenture
 			1. 中暑；热带地方的热病
 			2. **Calenture** is a fever formerly supposed to affect sailors in the tropics. /热病是一种发烧型疾病，以前认为会影响热带地区的水手。
-		11. calescence
+		22. calescence
 			1. _n._ 渐增温
 			2. decalescence
-	2. nonchalance
+	5. nonchalance
 		1. n. 不关心, 冷淡, 无动于衷
 		2.  [unconcern](dic://unconcern), [indifference](dic://indifference)
 		3. _n._ [carefreeness](dic://carefreeness)
@@ -2782,11 +2818,20 @@
 		5. _[disguised her interest with nonchalance](dic://disguised%20her%20interest%20with%20nonchalance)_ 她用漠不关心来掩饰自己的兴趣 
 		6. declining the offer with cool nonchalance /冷淡地拒绝这一提议
 		7. nonchalant
-		8. nonchalantly
-	4. caldera
-	5. caldron
-	6. cauldron
-	7. chafe (chastise, chasten)
+			1. (tepid, lukeworm, nonchalant, aloof, mawkish)
+			2. [casual](dic://casual), [insouciant](dic://insouciant)
+			3. _adj._ [unconcerned](dic://unconcerned)
+			4. _n._ [concerned](dic://concerned)
+			5. **laid-back**安详的, 轻松的;**seeming**外观;**demeanor**行为;**dismissive**轻视的, 轻蔑的, 鄙视的;**cocky**自大的;**oblivious**未察觉;**aloof**冷淡的;**casually**偶然地;**carefree**无忧无虑的;**smug**自满的, 沾沾自喜的;**condescending**降低身份的,屈尊的;
+			6. He appeared nonchalant in court even when the judge ordered him to pay ￡1000. /在法庭上，甚至当法官命令他赔偿一千镑时，他仍然表现得若无其事。
+			7.  She defeat all her rival for the job with nonchalant ease./她从容不迫地击败求职的所有竞争者。
+			8. she gave a nonchalant shrug. /她冷淡地耸了耸肩。
+			9. Rampant pollution and a nonchalant city council. /猖獗的污染和冷漠的市议会。
+		9. nonchalantly
+	6. caldera
+	7. caldron
+	8. cauldron
+	9. chafe (chastise, chasten)
 		1. vt. 擦破；擦热；擦痛；激怒 
 		2. vi. 擦伤；磨擦；激怒 
 		3. n. 擦伤；气恼
@@ -2811,21 +2856,32 @@
 		18. They - you know, they chafed against each other at times because they were both alpha male personalities. /二人有时会发生一些摩擦，因为他们都是阿尔法男。
 		19. The poor schoolmaster sat in the same place, holding the small, cold hand in his, and chafing it /可怜的教师还坐在原来的地方，握着那只又小又冷的手，摩擦着。
 		20. chafing
-	8. chaffer
+	10. chaffer
 		1. [haggle](dic://haggle), [higgle](dic://higgle), [huckster](dic://huckster)
 		2. [chew the fat](dic://chew the fat), [shoot the breeze](dic://shoot the breeze), [chat](dic://chat), [confabulate](dic://confabulate), [confab](dic://confab), [chitchat](dic://chitchat), [chatter](dic://chatter), [natter](dic://natter), [gossip](dic://gossip), [jaw](dic://jaw), [claver](dic://claver), [visit](dic://visit)
 		3. [dicker](dic://dicker), [bargain](dic://bargain), [converse](dic://converse), [discourse](dic://discourse)
 		4. The chaffering Red Man bartering blankets and furs for powder and whisky had passed farther on /讨价还价的红人用毯子和皮草换取火药和威士忌已经走得更远了。
 		5. Soames checked his instinctive "Not particular"--he would not chaffer with this alien. /索米斯抑制着那句“无所谓”的口头禅没有说--跟这个外国家伙犯不着噜苏。
 		6. chafferer
-	9. electrocalorimeter
-	10. recalesce
-	11. scald (scathe, scold)
+	11. electrocalorimeter
+	12. recalesce
+		1. - vi. 再辉
+	13. scald (scathe, scold)
 		1. n. 烫伤, 烫洗  
 		2. v. 烫伤, 烫洗
-		3. sunscald
-		4. scalding
-2. coddle (proach) (cobble)
+		3.  [blister](dic://blister), [whip](dic://whip)
+		4. _n._ [burn](dic://burn)
+		5. _v._ [attack](dic://attack), [round](dic://round), [assail](dic://assail), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault), [process](dic://process)
+		6. **burn**燃烧;**boiling**沸腾的;**burns**络腮胡子;**heat**热度;**boil**煮沸，沸腾;**frost**结霜于;**sunburn**晒斑;**bruise**擦伤;**bathe**沐浴;**wilt**使枯萎;
+		7. a scalding tirade of abuse. /一顿痛骂。
+		8. a scalding review of the play. /对这出戏剧的尖刻评价
+		9. she took a sip of scalding tea. /她呷了一口滚烫的茶。
+		10. the tea scalded his tongue. /茶烫了他的舌头。
+		11. Don’t scald your lips in another man’s porridge. /不要在别人的热粥上烫伤你的嘴唇。
+		12. the kettle boiled and spurted scalding water everywhere /水开了，滚烫的水喷得到处都是。
+		13. sunscald
+		14. scalding
+5. coddle (poach, broach) (cobble)
 	1. vt. 娇养；溺爱（等于 mollycoddle）；用文火煮(蛋)
 	2. 来自拉丁语 calidium,热饮，词源同 calorie,卡路里。词义由温暖到溺爱。
 	3.  [pamper](dic://pamper), [featherbed](dic://featherbed), [cosset](dic://cosset), [cocker](dic://cocker), [baby](dic://baby), [mollycoddle](dic://mollycoddle), [spoil](dic://spoil), [indulge](dic://indulge)
@@ -2836,22 +2892,31 @@
 	8. I'm not really sure it's about coddling. /我不觉得这和宠溺有关系。
 	9. But the distortion of incentives leads to higher unemployment and divisions between coddled insiders and a precariat /但是，激励机制的扭曲导致失业率上升，得到悉心照料的内部人员和不稳定型无产者之间的分歧也随之加剧。
 	10. Even as web entrepreneurs are coddled in London, a shortage of skilled engineers pushes up labour costs in Aberdeen. /甚至是在人才济济的伦敦，技术型工程师的短缺还是增加了阿伯丁劳工的花费。
-4. lee
+6. lee
 	1. n. 保护；背风处 
 	2. adj. 保护的；庇荫的；避风的
-5. lukewarm
-	1. lukewarm - 这其实是个复合形容词，由luke加warm组成。luke在中古英语作louke，源于荷兰语leuk，意思就是tepid（微温的）。既然luke本身已足以表示lukewarm的意义，再加上warm就似乎显得多余了。然而，这并不影响lukewarm一词的通用。
-	2.  [tepid](dic://tepid)
-	3. [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [tepid](dic://tepid)
-	4. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
-	5. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
-	6. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
-	7. _lukewarm water_ 温水
-	8. give only a  lukewarm support /仅予以不热心的支持
-	9. Britain is lukewarm about the proposal /英国对这项提议很冷淡。
-	10. Polite but lukewarm reviews are the kiss of death for a commercial film /客气而不热情的评论只会葬送一部商业影片。
-	11. Should make the patient maintains lukewarm thaw quiet, can give when necessary tranquillizer and aconite. /应使病人保持温暖和安静，必要时可给以镇静剂和止痛剂。
-	12.  It will serve" . The water was lukewarm /" 可以。" 水温略有点高。
+	3. _n._ [film maker](dic://film maker), [filmmaker](dic://filmmaker), [film producer](dic://film producer), [movie maker](dic://movie maker), [stripper](dic://stripper), [striptease artist](dic://striptease artist), [striptease](dic://striptease)
+	4. _adj._ [leeward](dic://leeward)
+	5. _n._ [windward](dic://windward)
+	6. **smith**铁匠;**john**厕所;**martin**紫崖燕;**jay**鸟;**mike**扩音器，麦克风;**peter**逐渐消失;**bob**短发;**harry**掠夺;**tom**雄性动物;**dale**山谷;**heather**Heather;
+	7. ducks were taking shelter on the lee of the island. /鸭子在岛的背风面躲避。
+	8. Louis rode out the gale on the lake, in the lee of the island. /路易斯搏击着湖上的狂风，向岛上的避风处奔去。
+	9. Sometimes, a lee is a natural spring flowing under the earth. /有时， 背风处是地下流淌的天然泉水。
+	10. Then, he was under the lee of the legation. /后来他得到公使馆的庇护。
+7. lukewarm
+	1. (tepid, lukewarm, nonchalant, aloof, mawkish)
+	2. lukewarm - 这其实是个复合形容词，由luke加warm组成。luke在中古英语作louke，源于荷兰语leuk，意思就是tepid（微温的）。既然luke本身已足以表示lukewarm的意义，再加上warm就似乎显得多余了。然而，这并不影响lukewarm一词的通用。
+	3.  [tepid](dic://tepid)
+	4. [halfhearted](dic://halfhearted), [half-hearted](dic://half-hearted), [tepid](dic://tepid)
+	5. _adj._ [warm](dic://warm), [unenthusiastic](dic://unenthusiastic)
+	6. _n._ [cool](dic://cool), [enthusiastic](dic://enthusiastic)
+	7. **lackluster**无光泽,暗淡;**cold**寒冷的;**warm**温暖的;**indifferent**漠不关心;**unimpressed**印象平平的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**dismissive**轻视的, 轻蔑的, 鄙视的;**mediocre**平凡的;**fervent**强烈的;**soapy**涂着肥皂的;**mixed**混合的;
+	8. _lukewarm water_ 温水
+	9. give only a  lukewarm support /仅予以不热心的支持
+	10. Britain is lukewarm about the proposal /英国对这项提议很冷淡。
+	11. Polite but lukewarm reviews are the kiss of death for a commercial film /客气而不热情的评论只会葬送一部商业影片。
+	12. Should make the patient maintains lukewarm thaw quiet, can give when necessary tranquillizer and aconite. /应使病人保持温暖和安静，必要时可给以镇静剂和止痛剂。
+	13.  It will serve" . The water was lukewarm /" 可以。" 水温略有点高。
 #### + \*kele- (2) + = to shout
 1. **calend-** = first day
 	1. calendar
@@ -2872,17 +2937,18 @@
 		3. councillor 
 		4. council-chamber
 	5. reconcile
-		1. _v._ [harmonize](dic://harmonize), [harmonise](dic://harmonise), [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [agree](dic://agree), [hold](dic://hold)
-		2. **reconciliation**和解, 调和;**resolve**解决;**confront**遭遇;**rationalize**使合理化;**reunite**使再结合;**unify**统一;**convince**使确信，使信服;**explain**说明，解释;**contradict**矛盾;**reconstruct**重建;**conflicting**相冲突的;
-		3. unreconciled
-		4. reconciliatory
+		1. (allay, lull, calm, damp, dwindle, attenuate /extenuate, palliate, propitiate, reconcile, appease, placate, salve, soothing, remedy, gruntle, mollify, assuage, pacify, placatory, respite, solace, console, mitigate, gentle, lenify, conciliate, quell, slake)
+		2. _v._ [harmonize](dic://harmonize), [harmonise](dic://harmonise), [adjust](dic://adjust), [set](dic://set), [correct](dic://correct), [agree](dic://agree), [hold](dic://hold)
+		3. **reconciliation**和解, 调和;**resolve**解决;**confront**遭遇;**rationalize**使合理化;**reunite**使再结合;**unify**统一;**convince**使确信，使信服;**explain**说明，解释;**contradict**矛盾;**reconstruct**重建;**conflicting**相冲突的;
+		4. unreconciled
+		5. reconciliatory
 			1. _[reconciliatory](dic://reconciliatory)_  adj. 和解的；调和的；一致的
-		5. reconciliation
+		6. reconciliation
 			1. _n._ [cooperation](dic://cooperation), [equalization](dic://equalization), [equalisation](dic://equalisation), [leveling](dic://leveling)
 			2. **reconcile**使和好;**forgiveness**宽恕;**unity**联合;**peace**和平;**reunification**重新统一;**redemption**赎回;**mediation**调停, 调解, 斡旋;**unification**统一,联合,一致;**repentance**悔悟;**betrayal**背叛;**negotiation**协商, 谈判;
-		6. reconcilement
+		7. reconcilement
 			1. _[reconcilement](dic://reconcilement)_  n. 调停；一致
-		7. reconcilable, irreconcilable
+		8. reconcilable, irreconcilable
 			1. _adj._ [harmonizable](dic://harmonizable), [resolvable](dic://resolvable)
 			2. _n._ [irreconcilable](dic://irreconcilable), [unreconcilable](dic://unreconcilable)
 			3. **incompatible**合不来的, 不能和谐相处的;**contradiction**矛盾;**contradictory**矛盾的;**contradict**矛盾;**divergent**分歧的;**distinguishable**可区别的,可辨别的;**fundamentally**基础地;**coexist**共存;**conflicting**相冲突的;**justified**有正当理由的，合理的;**plausible**貌似真实的，貌似有理的;
@@ -2912,10 +2978,28 @@
 		1. dis-不，非，使相反 + claim-声称，要求。即不再声称，拒绝承认。
 		2. disclaimer
 	8. exclaim
-		1. exclamatory
-		2. exclamation
-	9. nonclaim
-	10. proclaim
+		1. v. 呼喊，惊叫，大声说
+		2. [cry](dic://cry), [cry out](dic://cry out), [outcry](dic://outcry), [call out](dic://call out), [shout](dic://shout)
+		3. [proclaim](dic://proclaim), [promulgate](dic://promulgate)
+		4. _v._ [express](dic://express), [verbalize](dic://verbalize), [verbalise](dic://verbalise), [utter](dic://utter), [give tongue to](dic://give tongue to), [declare](dic://declare)
+			1. [cry](dic://cry) 一般指因恐惧、痛苦、惊奇等而喊叫。  
+			2. [shout](dic://shout) 指有意识地高声喊叫，常用于提出警告、发命令或唤起注意等。   
+			3. [exclaim](dic://exclaim) 多指因高兴、愤怒、痛苦、惊讶等突发感情而高声喊叫。  
+			4. [roar](dic://roar) 指发出大而深沉的声音、吼叫或咆哮。  
+			5. [scream](dic://scream) 指因恐具、快乐或痛苦而发出的尖叫声。  
+			6. [shriek](dic://shriek) 指因惊恐、痛苦等或其它感情而发出比scream更为尖锐、刺耳的叫声。  
+			7. [yell](dic://yell) 多指求援、鼓励时的呼叫。也可指因外界因素刺激而发出尖厉声音。  
+			8. [call](dic://call) 指大声说话或喊叫，以引起某人的注意。
+		5. **excitedly**兴奋地;**yell**大叫，叫喊;**shouts**叫喊，突发的大笑;**groan**呻吟;**amazement**惊奇, 惊愕;**astonishment**惊讶, 惊奇;**shout**呼喊;**loudly**大声地，响亮地;**scream**尖叫;**gasp**喘息;**angrily**愤怒地;
+		6. At night earthly daughter cannot be able to bear or endure urgently ungird of extraterrestrial male take off your coat, does exclaim you that how so small? /夜里地球女急不可耐给外星人男宽衣解带，惊叹道你那个怎么这般小？
+		7. " Wow, today's the school picnic! " exclaimed Tom. /“哇，今天是学校野餐的日子！”汤姆惊叫道。
+		8. " Not another one! " exclaimed Professor McGonagall violently. /“又来一个！”麦格教授激烈地叫道。
+		9. " You must not go! " she exclaimed energetically. /“你可不能走！”她执拗地叫嚷着。
+		10. 
+		11. exclamatory
+		12. exclamation
+	10. nonclaim
+	11. proclaim
 		1. [exclaim](dic://exclaim), [promulgate](dic://promulgate)
 		2. [predicate](dic://predicate)
 		3. [laud](dic://laud), [extol](dic://extol), [exalt](dic://exalt), [glorify](dic://glorify)
@@ -2953,16 +3037,17 @@
 			1. n. 开垦, 教化
 		10. reclaimer
 4. **clat-** = to call, call out
-	1. nomenclature
-		1. 来自拉丁语 nomen,名字，词源同 name,clat-,呼叫，叫唤，词源同 call.用于指系统命名法。
-		2. [terminology](dic://terminology), [language](dic://language)
-		3. **terminology**专门用语;**naming**命名;**classification**分类, 分级;**taxonomic**分类学的;**taxonomy**分类学;**designation**名字,称号;**numbering**编号;**standardization**标准化;**categorization**分门别类;**moniker**名字;**names**名字;
-		4. _[binominal nomenclature](dic://binominal%20nomenclature)_ 双名法; 二名法;
-		5. _[customary nomenclature](dic://customary%20nomenclature)_ 习惯命名法
-		6. _[rules of nomenclature](dic://rules%20of%20nomenclature)_  命名法规
-	2. nomenclative
+	1. nomenclature [美 /nə'mɛnklətʃɚ/](cmd://Speak/_us_/nomenclature)
+		1. nomen-名字 + clat-呼叫 + -ure
+		2. 来自拉丁语 nomen,名字，词源同 name,clat-,呼叫，叫唤，词源同 call.用于指系统命名法。
+		3. [terminology](dic://terminology), [language](dic://language)
+		4. **terminology**专门用语;**naming**命名;**classification**分类, 分级;**taxonomic**分类学的;**taxonomy**分类学;**designation**名字,称号;**numbering**编号;**standardization**标准化;**categorization**分门别类;**moniker**名字;**names**名字;
+		5. _[binominal nomenclature](dic://binominal%20nomenclature)_ 双名法; 二名法;
+		6. _[customary nomenclature](dic://customary%20nomenclature)_ 习惯命名法
+		7. _[rules of nomenclature](dic://rules%20of%20nomenclature)_  命名法规
+	3. nomenclative
 		1. _adj._ 命名的,术语的
-	3. nomenclator
+	4. nomenclator
 		1. _n._ (科学术语等的)定名者,词汇手册
 5. **clear-, clar-, clair-** = clear, bright
 	1. clairaudience, clairaudient, 
@@ -3068,7 +3153,8 @@
 		6. **Conation Model**:  意动模型 
 		7. **conation or motivation**:  以及意志 
 		8. **Disturbance conation**:  意图紊乱
-		9. conative
+		9. It is a constant condition line **conation** Tsutomu's obtains that should be had /行为能力的取得必须具有一定的条件。
+		10. conative
 			1. _[Conative loyalty](dic://Conative%20loyalty)_ 意志忠诚; 顾客意向性忠诚感; 
 			2. _[conative image](dic://conative%20image)_ 意动形象
 			3. _[conative component](dic://conative%20component)_ 意向要素; 意动成分; 
@@ -3077,19 +3163,22 @@
 			6. _[conative processes](dic://conative%20processes)_ 意动过程
 			7. _[conative affective](dic://conative%20affective)_ 情感的
 			8. _[conative e function](dic://conative%20e%20function)_ 意欲功能
-		10. conatus
+		11. conatus
 			1. _[conatus](dic://conatus)_  n. 自然倾向；努力；企图
 			2. 
 	2. deacon
 		1. 1 - 来自希腊语 diakonos,仆人，教会执事，来自 dia-,穿过，-con,移动，词源同 cite,cinema.
 		2. _n._ [church officer](dic://church officer), [clergyman](dic://clergyman), [reverend](dic://reverend), [man of the cloth](dic://man of the cloth), [Holy Order](dic://Holy Order), [Order](dic://Order)
 		3. **pastor**牧师;**bishop**主教;**priest**牧师;**vicar**教区牧师，教堂牧师;**clergyman**牧师;**congregation**人群;**preacher**传教士;**church**教堂;**clergy**牧师;**rector**校长;**ordination**任命;
-		4. subdeacon
-		5. deaconess
-		6. archdeacon
+		4. Willetta McGowen is a deacon at St. Mark's Episcopal Church in Brunswick. /威莱塔·麦高恩是不伦瑞克的圣马可圣公会教堂的执事。
+		5. Deacons have a lower status than a church's main religious leader. /执事的地位比教会的主要宗教领袖低一些。
+		6. An earlier group had reported to the Pope about the history of women deacons. /早些时候，一个组织向教皇报告了女执事的历史。
+		7. subdeacon
+		8. deaconess
+		9. archdeacon
 			1. archdeaconry
-		7. diaconal
-		8. diaconate
+		10. diaconal
+		11. diaconate
 
 
 ### + \*kenk- (1) + = to gird, encircle
@@ -3101,33 +3190,43 @@
 		4. n. 束带；围绕物；（柱身两端的）环带 
 		5. v. 环绕；以带围绕；以带束住
 	2. precinct
-		1.  - pre-,在前，-cinct,带子，词源同 cinch,cincture.引申词义围起来的街区，商业区。
+		1. pre-,在前，-cinct,带子，词源同 cinch,cincture.引申词义围起来的街区，商业区。
 		2. 1. _n._ 区域
 		3. 城镇中有某种用途或受限制的地区；行人专用区
 		4. 分区
 		5. 界限，范围；周围地区，附近；郊区，近郊
 		6. _n._ [city district](dic://city district)
 		7. **district**区域;**polling**投票;**township**镇区;**city**城市，都市;**courthouse**法院大楼;**electorate**选民;**suburb**郊区;**plaza**广场;**electoral**选举的;**ward**监视;**county**郡，
-			1. And she still works in uniform as a part-time reserve officer at the Harris County constable's precinct four offic
-	4. succinct
-		1. succinct（简洁的）：把衣服下摆扎进腰带  
-		2. 古代希腊人、罗马人的衣服样式都以袍子为主。里面穿的贴身短袍子叫tunic，长不过膝，中间用腰带束起来，相当于现代人所穿的衬衫。外面再穿上比较宽松的长袍。农民等劳动阶层通常不穿长袍，直接穿tunic做外衣。由于tunic的下摆在劳动时碍事，他们还往往把tunic的下半截往上提，用腰带将tunic的下摆扎在腰间。这种装束显得简洁利落，一点也不拖泥带水。英语单词就来源于这种装束。它来自拉丁语succinctus，是succingere的过去分词形式。而后者由sub（下面）+cingere（系、捆扎）构成，字面意思就是“把衣服下摆扎好”。来源于cingere的单词还有cinch（肚带）。  
+		8. And she still works in uniform as a part-time reserve officer at the Harris County constable's precinct four offic
+	3. succinct
+		1. (taut, curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident,)
+		2. succinct（简洁的）：把衣服下摆扎进腰带  
+		3. 古代希腊人、罗马人的衣服样式都以袍子为主。里面穿的贴身短袍子叫tunic，长不过膝，中间用腰带束起来，相当于现代人所穿的衬衫。外面再穿上比较宽松的长袍。农民等劳动阶层通常不穿长袍，直接穿tunic做外衣。由于tunic的下摆在劳动时碍事，他们还往往把tunic的下半截往上提，用腰带将tunic的下摆扎在腰间。这种装束显得简洁利落，一点也不拖泥带水。英语单词就来源于这种装束。它来自拉丁语succinctus，是succingere的过去分词形式。而后者由sub（下面）+cingere（系、捆扎）构成，字面意思就是“把衣服下摆扎好”。来源于cingere的单词还有cinch（肚带）。  
 			1. succinct：[sək'sɪŋ(k)t] adj.简洁的，简练的，紧身的  
 			2. cinch：n.肚带，紧握，有把握的事情vt.紧握住，系肚带
 		4.  [compendious](dic://compendious), [compact](dic://compact), [summary](dic://summary)
 		5. _adj._ [concise](dic://concise)
 		6. _n._ [prolix](dic://prolix)
 		7. **concise**简明的，简洁的;**eloquent**雄辩的，有口才的;**insightful**有深刻见解的;**descriptive**说明的;**straightforward**正直的, 坦率的;**coherent**连贯的，一致的;**unambiguous**不含糊的;**nuanced**微妙的;**informative**提供消息的;**brief**简短的，简洁的;**detailed**详细的，精细的;
-	5. cinch
+	4. cinch
 		9. [breeze](dic://breeze), [picnic](dic://picnic), [snap](dic://snap), [duck soup](dic://duck soup), [child's play](dic://child's play), [pushover](dic://pushover), [walkover](dic://walkover), [piece of cake](dic://piece of cake)
 		10. girth, gird
 		11. _n._ [undertaking](dic://undertaking), [project](dic://project), [task](dic://task), [labor](dic://labor), [stable gear](dic://stable gear), [saddlery](dic://saddlery), [tack](dic://tack)
 		12. _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [see](dic://see), [check](dic://check), [insure](dic://insure), [see to it](dic://see to it)
 		13. **easy**容易的;**easier**容易些的，更简单的;**buckle**扣住;**drawstring**拉带,细绳;**straps**绳;**strap**用带捆绑;**snap**猛咬;**effortless**不费力的;**buckles**带扣;**fasten**扎牢;**chore**家庭杂务;
-	6. cingulum
+		14. That blue racing car is a cinch to win the next race /那辆蓝色赛车在下一场比赛中肯定赢。
+		15. his advice cinched her decision to accept the offer. /他的劝告确保她决定接受提议。
+		16. My examination was a cinch and I passed easily. /"考试不难,我轻而易举地通过了。"
+		17. " That ought to cinch it for them." /“这下子他们该稳赢了。”
+		18. On certain days I might take this belt and just really cinch in the waist /在某些日子里，我可能会拿着这条腰带，紧紧地束在腰上。
+		19. There's nothing that cinches a government job like finding out your dad was a Russian spy! /没有什么比得上自己老爹是个俄罗斯间谍更能把握住政府工作的机会了！
+		20. Remember this saying inch by inch, anything's a cinch. /记住这句话，一寸一寸，一切皆轻而易举。
+		21. Maybe you wanna take the cinch sack off before you meet peach. /也许见Peach之前 你该把这水桶袋脱下来。
+		22. I have tight dresses on the show, I am cinched in. /我在节目中穿着紧身裙， 我被收紧了。
+	5. cingulum
 		1. _n._ [structure](dic://structure), [anatomical structure](dic://anatomical structure), [complex body part](dic://complex body part), [bodily structure](dic://bodily structure), [body structure](dic://body structure)
 		2. **anterior**前面的;**cortex**皮质;**ventral**腹部的;**cortical**皮质的;**posterior**(在时间;
-	7. surcingle
+	6. surcingle
 		1. sur-上 + cingle-捆
 		2. _[surcingle](dic://surcingle)_  n. （把马鞍或其他装备系在马上的）宽肚带；法衣的腰带; v. 给（马）系腹带;
 
@@ -3147,18 +3246,18 @@
 			1. _adj._ [censor](dic://censor)
 			2. **censorship**审查员的职权;**censor**审查，检查;**authoritarian**权力主义的,专制的;**bureaucratic**官僚的, 官僚主义的, 官僚作风的;**repressive**镇压的;**reactionary**反动的;**governmental**政府的;**judicial**法庭的;**tyrannical**暴君的,暴君似的;**totalitarian**极权主义的;**ideological**观念学的;
 	2. censure (sense, censure, censor, cense, census)
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
-		2. [animadversion](dic://animadversion)
-		3. [excommunication](dic://excommunication), [exclusion](dic://exclusion)
-		4. [reprimand](dic://reprimand), [criminate](dic://criminate)
-		5. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation), [rejection](dic://rejection)
-		6. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
-		7. **condemnation**谴责;**rebuke**指责，非难;**ridicule**嘲笑;**reproach**责备;**disapproval**不赞同, 反对;**condemn**判刑，定罪;**criticism**批评, 批判, 指责;**scorn**轻蔑;**censorship**审查员的职权;**sanction**制裁，处罚;**punishment**处罚, 受罚;
-		8. _[public censure](dic://public%20censure)_  公开谴责
-		9. _[censure vote](dic://censure%20vote)_  不信任票
-		10. _[vote of censure](dic://vote%20of%20censure)_  n. 谴责票
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+		4. [animadversion](dic://animadversion)
+		5. [excommunication](dic://excommunication), [exclusion](dic://exclusion)
+		6. [reprimand](dic://reprimand), [criminate](dic://criminate)
+		7. _n._ [disapprobation](dic://disapprobation), [condemnation](dic://condemnation), [rejection](dic://rejection)
+		8. _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
+		9. **condemnation**谴责;**rebuke**指责，非难;**ridicule**嘲笑;**reproach**责备;**disapproval**不赞同, 反对;**condemn**判刑，定罪;**criticism**批评, 批判, 指责;**scorn**轻蔑;**censorship**审查员的职权;**sanction**制裁，处罚;**punishment**处罚, 受罚;
+		10. _[public censure](dic://public%20censure)_  公开谴责
+		11. _[censure vote](dic://censure%20vote)_  不信任票
+		12. _[vote of censure](dic://vote%20of%20censure)_  n. 谴责票
 	4. census
 		1. n. 户口普查  
 		2. vt. 实施统计调查
@@ -3174,7 +3273,7 @@
 		12. _n._ [count](dic://count), [counting](dic://counting), [numeration](dic://numeration), [enumeration](dic://enumeration), [reckoning](dic://reckoning), [tally](dic://tally)
 		13. _v._ [count](dic://count), [number](dic://number), [enumerate](dic://enumerate), [numerate](dic://numerate)
 		14. **population**人口;**survey**调查;
-	6. recension
+	5. recension
 		1. _[recension](dic://recension)_  n. 校订；修订；校订本
 
 
@@ -3182,17 +3281,26 @@
 1. **centr-** = center, 「Greeks」kentron, "sharp point,",kentein, "to prick", 「Latin」 centrum "center"
 	1. center
 	2. centromere, centroplasm, centroplast, centrosome, centriole, acrocentric
-	3. centroid, centrosphere
-	4. centrum, central, centre
-	5. epicenter, equicenter
+	3. centroid
+		1. _n._ [center of mass](dic://center of mass), [centre of mass](dic://centre of mass)
+		2. **vertex**顶点;**vertices**至高点;**polygon**多边形;**coordinates**相配之衣物;**midpoint**中点;**clustering**聚类;**curvature**弯曲;**radial**半径的;**interpolation**窜改;**approximation**接近;**compute**计算;
+		3. _centroid method_ 重心法
+		4. For example **centroid** analysis and to facilitate them to learn and use /对于形心分析和算例，方便大家学习和使用。
+		5. centrosphere
+	5. centrum, central, centre
+	6. epicenter, equicenter
 	7. centric, acentric, bicentric, eccentric, homocentric, polycentric, centermost
 	8. androcentrism, anthropocentric, egocentric, ethnocentric, endocentric, exocentric, geocentric, heliocentric, xenocentric
 	9. centerpiece
 	10. centrifuge
-		1. ultracentrifuge
-		2. supercentrifuge, 
-		3. cenftrifuging, centrifugation, centrifugal
-	11. centripetal
+		1. _n._ [apparatus](dic://apparatus), [setup](dic://setup)
+		2. _v._ [spin](dic://spin)
+		3. **centrifugal**离心的;**reactor**反应堆;**rotor**转子;**filtration**过滤;**laboratory**实验室;**slurry**泥浆;**reactors**反应者;**spinning**纺纱;**vial**小瓶;**turbine**涡轮;**vacuum**真空;
+		4. Involution dehydration,cutting dehydration.instead of the Filter Press and centrifuge inspissation machines,That is the ideal equipment of pulp washing and dirty mud dewatering. /替代了板框式压滤机和离心浓缩机，是理想的浆料洗涤及污泥脱水设备。
+		5. ultracentrifuge
+		6. supercentrifuge, 
+		7. cenftrifuging, centrifugation, centrifugal
+	12. centripetal
 2. **cest-** = gridle, 「Greeks」kestos, "a gridle"
 	1. cestode
 	2. cestoid
@@ -3235,6 +3343,15 @@
 	6. scabland
 	7. scabrous
 		1. 自拉丁语 scabere,抓，挠，词源同 scab.引申词义痒的，皮肤粗糙的，后词义贬义化为肮脏的，猥亵的，淫秽的。
+		2. - adj. 粗糙的；难解决的；猥亵的
+		3. [lepidote](dic://lepidote), [leprose](dic://leprose), [scaly](dic://scaly), [scurfy](dic://scurfy)
+		4. _adj._ [rough](dic://rough), [unsmooth](dic://unsmooth), [dirty](dic://dirty)
+		5. _n._ [smooth](dic://smooth), [clean](dic://clean), [unobjectionable](dic://unobjectionable)
+		6. **grotesque**奇形怪状的;**irreverent**不敬的;**vulgar**粗俗的;**satirical**含讽刺意味的, 嘲讽的;**caustic**腐蚀性的;**profane**世俗的;**seedy**多种子的;**scathing**严厉的;**pungent**刺激性的;**crass**粗鲁的;**fleshy**肉的;
+		7. a scabrous Carnaby Street hovel. /卡纳比街上一间肮脏简陋的小屋。
+		8. Her buried her face in his **scabrous** shirt /她把脸埋在他那粗糙的衬衣里。
+		9. It differs in the smaller size of all parts and rufous **scabrous** tomentum /它在全株各部分较小和红棕色的粗糙的绒毛层的方面不同。
+		10. scabrous details included being regularly seen with a mistress. /下流细节包括常被看见与一情妇厮混。
 4. **scaph-** =boat, 表示“舟状”。源自希腊语 skaphe "boat"
 	1. bathyscaph
 		1. n. 深海潜水器
@@ -3260,13 +3377,32 @@
 	8. The project was scuppered by lack of money. /由于缺乏资金, 这项计划落空了。
 	9. The project was scuppered in the end by a mix of political queasiness over the fallout /由于政治上对它带来后果的种种不安，该项目最终泡了汤。
 	10. The Pearl was listing near to scuppers after the battle /黑珍珠在那次战斗以后已经是千疮百孔。
-9. shaft
-	1. a shaft of sunlight. /一缕阳光。
-	2. a shaft of inspiration /灵感突现。
-	3. the shaft of a golf club /高尔夫球棒的柄。
-	4. Claudia felt a shaft of pain shoot through her chest. /克劳迪娅感到一阵疼痛直穿胸部。
+8. shaft
+	1. n. 轴, 箭杆, 矛, 矿井; 一束光 (a ~ of light), 一阵疼痛 (~ of pain)  
+	2. vt. 装杆于, 利用
+	3. scepter ['septə] n.节杖（象征君权）；王权，vt. 授予…王权；拥登王位（等于sceptre）。别看帝王们拿着权杖耀武扬威的样子，词源角度讲，它与shaft n.杆状物是同源的，其实都指将一段树枝。古英语里很多单词中的c后来变成了h，比如fish在过去写作fisc。再比较下scatter和shatter，skirt和short...
+	4. 来自古英语 sceaft,杆，柄 ，轴，矛，来自 Proto-Germanic*skaftaz,杆，来自 PIE*skep,削，砍，词源同 ship,shape.引申词义竖井，井筒。
+	5. a shaft of sunlight. /一缕阳光。
+	6. a shaft of inspiration /灵感突现。
+	7. the shaft of a golf club /高尔夫球棒的柄。
+	8. Claudia felt a shaft of pain shoot through her chest. /克劳迪娅感到一阵疼痛直穿胸部。
 10. shape
 11. shave
+	1. n. 修面, 刮胡子, 幸免, 剃刀  
+	2. vt. 修面, 剃, 修剪, 掠过  
+	3. vi. 刮脸, 勉强通过
+	4. 来自古英语 sceafan,刮，剃，来自 Proto-Germanic*skaban,刮，剃，来自 PIE*skep,切，削，剪，词源同 ship,shape.引申词义刮脸，剃须等。
+	5. unshaven
+	6. spokeshave
+	7. smooth-shaven
+	8. shavings
+	9. sahvetail
+	10. shaver
+	11. shaven
+	12. shaveling
+	13. shaved
+	14. drawshave
+	15. clean-shaven
 12. ship
 
 
@@ -3466,31 +3602,36 @@
 		2. _adj._ 腐肉的; 腐臭的;吃腐肉的;腐败的; 秽行的
 		3. _n._ [body](dic://body), [dead body](dic://dead body)
 		4. **vultures**秃鹰;**carcass**尸体;**prey**捕食;**corpses**尸体;**corpse**尸体;**forage**饲料;**insects**昆虫;**dung**动物的粪便;**fowl**鸟;**rotting**深蚀刻;**birds**鸟类;
-	12. charnel
-		1. [charnel house](dic://charnel house)
-		2. [ghastly](dic://ghastly), [sepulchral](dic://sepulchral)
-		3. _n._ [vault](dic://vault), [burial vault](dic://burial vault)
-		4. _adj._ [offensive](dic://offensive)
-		5. _n._ [inoffensive](dic://inoffensive)
-		6. **corpse**尸体;**corpses**尸体;**mausoleum**陵墓;**burial**埋葬;**graveyard**墓地,坟场;**crypt**地窖,教堂地下室;**graves**坟墓;**cremation**火化;**macabre**可怕的;**ghastly**可怕的;**decaying**颓坏;
-		7. 1. adj. 似停尸房的；阴森的；恐怖的 n. 藏骸所；停尸房；埋葬场所
-		8. _[charnel house](dic://charnel%20house)_  藏骸所
-		9. _[charnel abode](dic://charnel%20abode)_ 藏尸所
-		10. _[charnel dead house](dic://charnel%20dead%20house)_ 停尸房
-		11. _[charnel mirthless somber](dic://charnel%20mirthless%20somber)_ 阴森的
-	13. crone
+	12. charnel [美 /'tʃɑrnl/](cmd://Speak/_us_/charnel)
+		6. n. 藏骸所, 埋葬场所  a. 恐怖的, 阴森的
+		7. [charnel house](dic://charnel house)
+		8. [ghastly](dic://ghastly), [sepulchral](dic://sepulchral)
+		9. _n._ [vault](dic://vault), [burial vault](dic://burial vault)
+		10. _adj._ [offensive](dic://offensive)
+		11. _n._ [inoffensive](dic://inoffensive)
+		12. **corpse**尸体;**corpses**尸体;**mausoleum**陵墓;**burial**埋葬;**graveyard**墓地,坟场;**crypt**地窖,教堂地下室;**graves**坟墓;**cremation**火化;**macabre**可怕的;**ghastly**可怕的;**decaying**颓坏;
+		13. 1. adj. 似停尸房的；阴森的；恐怖的 n. 藏骸所；停尸房；埋葬场所
+		14. _[charnel house](dic://charnel%20house)_  藏骸所
+		15. _[charnel abode](dic://charnel%20abode)_ 藏尸所
+		16. _[charnel dead house](dic://charnel%20dead%20house)_ 停尸房
+		17. _[charnel mirthless somber](dic://charnel%20mirthless%20somber)_ 阴森的
+	13. crone [美 /kron/](cmd://Speak/_us_/crone)
 		1. 1 - 词源同 carrion,腐肉。
 		2. an ugly evil-looking old woman
 		3.  [hag](dic://hag), [beldam](dic://beldam), [beldame](dic://beldame), [witch](dic://witch)
 		4. _n._ [old woman](dic://old woman)
 		5. **witch**巫婆，女巫;**lady**女士，夫人;**goddess**女神，受崇拜的女性;**witches**魔女;**woman**女性;**gypsy**吉卜赛人;**granny**奶奶;**elf**小精灵;**maiden**未婚的，处女的;**shaman**萨满教的道士;**demon**魔鬼;
-3. **chez-, chiz-** = dung, 「Greeks」chezein, "to defecate"s
+		6. If, on the other hand, I turn her into a cackling old crone, she's just another pop-up bogeylady. /话说回来，如果我将她写成个喋喋不休的干巴老太婆，那么她只不过是一个老套的动不动跳出来吓人的女怪物而已。
+		7. " Which bloody king is dead, crone" ? Lem demanded. /" 妈的，哪个国王，老太婆？" 柠檬质问。
+		8. They are peopled by nightmare figures, crones and paupers in rags, their mouths gaping cavities. /画上满是噩梦般的人物，比如衣衫褴褛的老妪和乞丐，他们的嘴巴都张得大大的。
+		9. And as you might've noticed, the entrance is right outside this room, through that one-eyed old crone's hump.” /你也许已经注意到，入口正好就在这间房间下面，要通过这个独眼老太婆的驼背。”
+2. **chez-, chiz-** = dung, 「Greeks」chezein, "to defecate"s
 	1. allochezia
 	2. dyschezia
 	3. dyschizia
 	4. hematochezia
 	5. pyochezia
-4. **cori-, cort-** = skin, 「Latin」corium, "skin, hide, leader", cortex, "bark"
+3. **cori-, cort-** = skin, 「Latin」corium, "skin, hide, leader", cortex, "bark"
 	1. corticosteroid, corticosterone, corticotropin
 	2. cortin
 		1. n. 皮质激素
@@ -3509,9 +3650,9 @@
 		2. decorticator
 		3. decortication, hemidecortication
 	8. excoriate, excoriation (esoteric, excoriate, exorcize) 
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign)
-		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy)
-		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab)
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		4. ex-使… + cori-皮 +ate, 表动词 → 使去皮 → 没去皮遭到严厉批评 → 严厉批评。
 		5. **criticize**评论, 批评;**denounce**谴责;**condemn**判刑，定罪;**criticise**批评;**accuse**控告，指控;**embarrass**使窘迫;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**discredit**败坏…的名声;**gleefully**极快乐地,欢欣地;**humiliate**蒙羞;
 		6. [body armor](dic://body armor), [body armour](dic://body armour), [suit of armor](dic://suit of armor), [suit of armour](dic://suit of armour), [coat of mail](dic://coat of mail), [cataphract](dic://cataphract)
@@ -3525,38 +3666,39 @@
 		1. _n._ [lithographer](dic://lithographer), [craftsman](dic://craftsman), [artisan](dic://artisan), [journeyman](dic://journeyman), [artificer](dic://artificer)
 		2. **courier**送快信的;**carpenter**木工, 木匠;**miller**碾磨工;**merchant**商人，批发商;**trader**商人;**porter**门房;**blacksmith**铁匠;**clerk**职员，办事员;
 		3. curriery
-5. **corm-** = trunk, 「Greeks」kormos, "a trimmed tree trunk"
+4. **corm-** = trunk, 「Greeks」kormos, "a trimmed tree trunk"
 	1. corm
 	2. cormus
 	3. epicormic
 	4. polycormic
 	5. acormus
-6. **curt-, scr-, shr-** = short, "短"，原意“切，分开”，原始印欧语形式 \*sker-, "to cut"
+5. **curt-, scr-, shr-** = short, "短"，原意“切，分开”，原始印欧语形式 \*sker-, "to cut"
 	1. curt
-		1. [brusque](dic://brusque), [brusk](dic://brusk), [short(p)](dic://short(p))
-		2. [crisp](dic://crisp), [laconic](dic://laconic), [terse](dic://terse)
-		3. _adj._ [discourteous](dic://discourteous), [concise](dic://concise)
-		4. _n._ [courteous](dic://courteous), [prolix](dic://prolix)
-		5. **dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**rude**粗鲁的;**snarky**恶声恶气的，咬人的;**politely**客气地;**wry**面部肌肉扭曲的;**stern**严厉的，苛刻的;**apologetic**道歉的;**succinct**简洁的;
-		4. curtail
-		5. curtal
-		6. curtly
-		7. curtness
-	2. crab (brook)
+		1. (taut, curt, laconic, crisp, succinct, terse, compendious, concise, cursory, taciturn, austere, reticent, taciturn, aloof, reserved, diffident,)
+		2. [brusque](dic://brusque), [brusk](dic://brusk), [short(p)](dic://short(p))
+		3. [crisp](dic://crisp), [laconic](dic://laconic), [terse](dic://terse)
+		4. _adj._ [discourteous](dic://discourteous), [concise](dic://concise)
+		5. _n._ [courteous](dic://courteous), [prolix](dic://prolix)
+		6. **dismissive**轻视的, 轻蔑的, 鄙视的;**polite**有礼貌的，客气的;**sarcastic**讽刺的;**condescending**降低身份的,屈尊的;**rude**粗鲁的;**snarky**恶声恶气的，咬人的;**politely**客气地;**wry**面部肌肉扭曲的;**stern**严厉的，苛刻的;**apologetic**道歉的;**succinct**简洁的;
+		7. curtail
+		8. curtal
+		9. curtly
+		10. curtness
+	3. crab (brook)
 		1. 来自 PIE*gerbh,刮，刻，词源同 carve /scribe (skribh-).
 		2. n. 螃蟹, 蟹肉; 起重机; 阴虱  
 		3. v. 横行; 捕蟹; 抱怨; 破坏, 干扰; 使做航向偏流修正
-	3. scabbard
+	4. scabbard
 		1. 来自盎格鲁法语*escauberc,剑鞘，来自 Proto-Germanic*sker-berg,剑鞘，来自 PIE*sker,砍，劈，词源同 score,shear,-berg,保护，来自 PIE*berg,保护，词源同 burg,bury.词义由砍，劈引申为刀，剑。
 		2. **sword**刀，剑;**dagger**匕首，短剑;**sheath**鞘;**holster**手枪皮套;**blade**刀片，刀锋;**swords**宝剑;**knife**刀;**spear**矛，枪;**pistol**手枪;**revolver**左轮手枪;**knives**刀子;
-	4. scar
+	5. scar
 		1. score（分数）：古代用来计数的刻痕  
 		2. 在人类进化的早期，人们就已经发明了各种方法来记录数字，有代表性的方法有石子计数法、结绳计数法和刻痕计数法等。刻痕计数法就是在木头、兽骨、石块上留下刻痕，通过刻痕来记录数字。1937年在维斯托尼斯（摩拉维亚）发现一根40万年前的幼狼前肢骨，7英寸长，上面有55道很深的刻痕。这是已发现的用刻痕方法计数的最早资料。  
 		3. 在古代北欧地区，牧羊人利用刻痕计数法来记录自己的羊群数量。英语单词score就源自北欧语skor，本意是“刻痕”。由于当地人采用20进制，一条刻痕代表20，所以score也就含有“20”的意思。  
 		4. 单词scar（疤痕）的来源也与score相关，都出自古北欧语。  
 		5. score：[skɔː] n.分数，二十，刻痕，配乐v.计分，得分，刻划，记下，评价  
 		6. scar：[skɑr] vt. 伤害；给留下伤痕vi. 结疤；痊愈n. 创伤；伤痕
-	5. score
+	6. score
 		1. n. 得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量  
 		2. vt. 刻划, 划线, 获得, 评价, 把...记下  
 		3. vi. 刻痕, 记分, 得分
@@ -3593,15 +3735,15 @@
 		32. scorecard
 		33. scorebook
 		34. autoscore
-	6. scarp
-	7. share
-	8. sharp
-	9. shear
+	7. scarp
+	8. share
+	9. sharp
+	10. shear
 		1. _n._ [deformation](dic://deformation), [edge tool](dic://edge tool)
 		2. _v._ [snip](dic://snip), [clip](dic://clip), [crop](dic://crop), [trim](dic://trim), [lop](dic://lop), [dress](dic://dress), [prune](dic://prune)
 		3. **tensile**拉力的;**deformation**损形;**axial**轴的;**deflection**突然转向,偏斜,偏离;**permeability**弥漫;**stiffness**僵硬;**friction**摩擦，摩擦力;**stress**压力;**turbulence**气体或水的涡流;**rigidity**硬度，刚性;**viscosity**黏稠;
-	10. shirt
-	11. short
+	11. shirt
+	12. short
 		1. shortcoming
 		2. short-lived
 		3. shortish
@@ -3615,14 +3757,14 @@
 		11. short-run
 		12. cold-short
 		13. etc..
-	12. skirt
-7. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
+	13. skirt
+6. **scorp-** = scorpion, 「Greeks」skorpios, "a scorpion"
 	1. scorpion
 	2. Euscorpius
 	3. Scorpio
 	4. Scorpionida
 	5. scorpionism
-8. **shrub-** = bush
+7. **shrub-** = bush
 	1. shrub
 		1. [bush](dic://bush)
 		2. _n._ [woody plant](dic://woody plant), [ligneous plant](dic://ligneous plant)
@@ -3680,7 +3822,7 @@
 		18. scrubbing
 		19. scrubber
 		20. scrub-up
-9. screen
+8. screen
 	1. n. 屏幕, 银幕, 荧光屏; 影视; 屏风, 掩蔽物; 纱窗  
 	2. vt. 掩藏, 遮蔽; 庇护; 筛查, 调查, 筛选; 放映
 	3. n. 屏幕，荧光屏；银幕；电影（总称）；屏风，隔板；掩蔽物，屏障；纱窗，纱门；（医疗）化验，检查；（机动车的）挡风玻璃；（篮球、冰球等运动的）掩护；掩护部队，护航舰队；大筛子，滤网；（纱门或纱窗的）金属丝，塑料线；（印刷）网屏，网版；屏蔽器 
@@ -3750,11 +3892,11 @@
 		14. _screening procedure_ 甄别程序；筛选步骤
 		15. _coarse screening_ 粗筛选
 	42. screenage
-10. scurf
+9. scurf
 	1. - n. 头皮屑
 	2. _n._ [bit](dic://bit), [chip](dic://chip), [flake](dic://flake), [fleck](dic://fleck), [scrap](dic://scrap)
 	3. **mites**螨虫类;**lice**虱子;**rashes**发疹，疹;**rust**锈;**sores**褥疮;**blight**枯萎病;**dermatitis**皮肤炎;**pimples**丘疹，面疱;**fungus**真菌，霉菌;**eczema**湿疹;**mildew**霉
-11. shore
+10. shore
 #### ⭐ + \*ker- (3)+ = to grow
 1. **cor-** = boy, girl, 「Greeks」koros, "boy, sun"; kore "girl"
 	1. hypocorism

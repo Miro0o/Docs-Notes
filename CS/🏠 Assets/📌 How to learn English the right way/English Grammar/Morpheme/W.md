@@ -2093,18 +2093,29 @@
 			5. The cat's-paw theory offered no safer clue, than the frank, old-fashioned, honest theory of villainy /猫爪理论提供了比坦率、老式、诚实的恶行理论更安全的线索。
 		16. villainous
 		17. villainess
-	2. village, villager
-		1. [small town](dic://small town), [settlement](dic://settlement)
-		2. [hamlet](dic://hamlet)
-		3. _n._ [community](dic://community), [settlement](dic://settlement), [residential district](dic://residential district), [residential area](dic://residential area)
-		4. **hamlet**小村庄;**town**城镇，市镇;**outskirts**郊区;**township**镇区;**rural**农村的，乡下的;**hilltop**小山顶;**countryside**乡下, 农村;**municipality**自治市;**parish**教区;**seaside**海滨;**monastery**修道院;
-	3. villa (vanilla)
+	2. village
+		1. villain（恶棍）：在古罗马农场干活的奴隶  
+		2. village - 今指“坏蛋”或“恶棍”的villain一词原先并不含贬义。它源自中世纪拉丁语vīllānus 'farmhand'，通过法语vilain于14世纪进入英语的。从终极词源来看，villain和另一个词villa（别墅）都源于拉丁语vīlla 'country house'。在中世纪封建时代，这两个词是密切相关的，villa原指“农庄住宅”或“庄园”，而villain则指为villa的主人工作的“农奴”或“农民”。后来，贵族由于阶级优越感以及他们对农民的阶级偏见，往往把意指农民、乡下人的词语同“愚昧”、“粗野”、“邪恶”等概念联系起来。这样，villain的词义就逐渐发生贬降。19世纪出现了一个戏谑性短语villain of the piece，指“剧中反面人物”或“首恶”，被德莱塞（Theodore Dreiser）、墨多克（Iris Murdoch）等作家乃至普通人广泛使用。但villa和出自同一拉丁词源的village（乡村）一词至今却仍保留了原拉丁词中的含义。
+		3. 英语单词villain源自拉丁语villanus，本意为在villa（古罗马农场）干活的人，通常是奴隶或隶农。villa是古罗马贵族在乡村的房地产，包括居所和农场。英语单词village（农村）、villager（村民）等都源自拉丁语villa。  
+		4. 由于在villa里面干活的奴隶或隶农地位很低，常常遭到贵族老爷的鄙视和呵斥，因此表示他的拉丁语villanus及其衍生的英语单词villain就不可避免地含有了强烈的贬义，并从表示社会地位的卑贱延伸至表示人品的卑贱，逐渐发展出“坏人、恶棍、反派”等负面含义。可以说，这个单词体现了一种强烈的阶级偏见。  
+		5. villain：['vɪlən] n.坏人，恶棍，反派，罪犯  
+		6. villainous：['vɪlənəs] adj.邪恶的，缺德的，恶毒的，堕落的  
+		7. villa：['vɪlə] 乡村别墅，农场  
+		8. village：['vɪlɪdʒ] n.农村，乡村，郊外  
+		9. villager：['vɪlɪdʒə] n.村民，乡村居民
+		10. [small town](dic://small town), [settlement](dic://settlement)
+		11. [hamlet](dic://hamlet)
+		12. _n._ [community](dic://community), [settlement](dic://settlement), [residential district](dic://residential district), [residential area](dic://residential area)
+		13. **hamlet**小村庄;**town**城镇，市镇;**outskirts**郊区;**township**镇区;**rural**农村的，乡下的;**hilltop**小山顶;**countryside**乡下, 农村;**municipality**自治市;**parish**教区;**seaside**海滨;**monastery**修道院;
+		14. 
+		15. villager
+	10. villa (vanilla)
 		1. _n._ [revolutionist](dic://revolutionist), [revolutionary](dic://revolutionary), [subversive](dic://subversive), [subverter](dic://subverter), [house](dic://house), [country house](dic://country house)
 		2. **bungalow**平房;**chalet**瑞士山中的牧人小屋;**guesthouse**宾馆;**terrace**梯田;**beachfront**海滨地区;**apartment**一套房间, 一户;**house**住宅;**mansion**大厦;**veranda**阳台;**palace**宫殿;**penthouse**楼顶房屋;
 		3. _mountain villa_ 山庄别墅
 		4. her villa stood in a row of similar ones. /她的别墅坐落于一排相似的别墅中。
 		5. Villa totally outclassed us in the first half. /我们在上半场完全不是维拉队的对手。
-	4. vicinity
+	11. vicinity
 		1. [locality](dic://locality), [neighborhood](dic://neighborhood), [neighbourhood](dic://neighbourhood), [neck of the woods](dic://neck of the woods)
 		2. _n._ [section](dic://section)
 		3. **near**近的;**nearby**附近的，邻近的;**proximity**接近, 附近;**area**面积;**environs**市郊，郊区;**locality**位置;**adjacent**邻近的，毗连的;**outskirts**郊区;**location**位置;**surrounding**周围的;**northeast**东北;
@@ -2113,7 +2124,7 @@
 		6. _immediate vicinity_ 紧邻
 		7. vicinage
 		8. vicinal
-3. vaisya
+10. vaisya
 #### + \*weik- (3) + = to be like
 1. **icon-** = image, 表示“形象”。源自希腊语 eikon "likeness, image."
 	1. icon
@@ -3051,27 +3062,35 @@
 			9. he disturbed other people with convulsive fidgets /他神经质般地动来晃去，扰得别人心神不宁。
 			10. One can only gently insinuate something else into its convulsive grasp. /你只能缓和而巧妙地让另一种东西进入痉挛僵持的头脑中。
 		11. convulsion
-			1.  [paroxysm](dic://paroxysm), [fit](dic://fit)
-			2.  [turmoil](dic://turmoil), [upheaval](dic://upheaval)
-			3. _n._ [attack](dic://attack), [seizure](dic://seizure), [ictus](dic://ictus), [raptus](dic://raptus), [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion)
-			4. **spasms**肌痉挛;**seizure**夺取;**tremor**颤动;**calamity**不幸事件;**seizures**癫痫，痉挛;**agitation**激动;**vomiting**呕吐;**trembling**发抖;**hysteria**不正常的兴奋;**paralysis**瘫痪;**upheaval**剧变;
-			5. _febrile convulsion_ [医]高热惊厥；发热性痉挛
-		12. convulsibility
-		13. convulsant
-	5. revulse (repel, resent)
+			1. n. 震动, 震撼, 动乱, 惊厥, 痉挛
+			2.  [paroxysm](dic://paroxysm), [fit](dic://fit)
+			3.  [turmoil](dic://turmoil), [upheaval](dic://upheaval)
+			4. _n._ [attack](dic://attack), [seizure](dic://seizure), [ictus](dic://ictus), [raptus](dic://raptus), [disturbance](dic://disturbance), [disruption](dic://disruption), [commotion](dic://commotion)
+			5. **spasms**肌痉挛;**seizure**夺取;**tremor**颤动;**calamity**不幸事件;**seizures**癫痫，痉挛;**agitation**激动;**vomiting**呕吐;**trembling**发抖;**hysteria**不正常的兴奋;**paralysis**瘫痪;**upheaval**剧变;
+			6. _febrile convulsion_ [医]高热惊厥；发热性痉挛
+		13. convulsibility
+		14. convulsant
+			1. 【医】 引起惊厥的; 惊厥剂
+	4. revulse (repel, resent)
 		1. _[revulse](dic://revulse)_  v. 极其厌恶；激起……的强烈反感
 		2. revulsive, revulsion, revulseur, revulsant
-	7. divulsion
-		1. _[divulsion](dic://divulsion)_  n. 撕裂
-	8. evulsion
+	5. divulsion
+		1. n. 撕开, 扯开
+		2. _[divulsion](dic://divulsion)_  n. 撕裂
+	6. evulsion
 		1. _[evulsion](dic://evulsion)_  n. 拔去；拔出
-	9. vulture
-		1. vulturous
-			1. _adj._ [aggressive](dic://aggressive)
-			2. _n._ [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
-			3. **vultures**秃鹰;**predatory**食肉的;**greedy**贪婪的;**opportunistic**机会主义的;**murderous**蓄意谋杀的;**hapless**运气不好的，倒霉的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**ruthless**无情的，残忍的;**vicious**恶的, 邪恶的;**vengeful**复仇的，报复的;**malevole**
-		2. vulturish
-		3. vulturine
+	7. vulture
+		1. n. 秃鹫; 趁火打劫的人
+		2. vult-撕开 + -ure名词后缀 → 把[猎物]撕开者 → 秃鹫。
+		3. 来自 PIE*wele,拔，撕，词源同 wool,vulnerable.用来指秃鹫。
+		4. vulturous
+			1. a. 像秃鹫的, 掠食的, 贪婪的
+			2. _adj._ [aggressive](dic://aggressive)
+			3. _n._ [unaggressive](dic://unaggressive), [nonaggressive](dic://nonaggressive)
+			4. **vultures**秃鹰;**predatory**食肉的;**greedy**贪婪的;**opportunistic**机会主义的;**murderous**蓄意谋杀的;**hapless**运气不好的，倒霉的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**ruthless**无情的，残忍的;**vicious**恶的, 邪恶的;**vengeful**复仇的，报复的;**malevole**
+			5. 
+		5. vulturish
+		6. vulturine
 
 
 ### + \*weme- +
@@ -3238,33 +3257,34 @@
 			3. The world suffers most from the disinterested tyranny of its well **wisher**. /世界在漠然的苛政中为善者承受极大的痛楚。
 		2. ill-wisher
 	22. well-wishing
-7. wistful
-	1. 不确定词源。可能来自不再使用的词 wistly,关注的，来自 whist,安静，见 whist,惠斯特纸牌游戏，词义受 wishful 影响。
-	2. adj. （因求而不得）失意的，伤感的；思念的，怀旧的
-	3. [pensive](dic://pensive)
-	4. _adj._ [sad](dic://sad)
-	5. _n._ [glad](dic://glad)
-	6. **melancholy**忧郁, 悲哀;**nostalgic**对往事怀恋的, 怀旧的;**dreamy**梦想的;**wry**面部肌肉扭曲的;**somber**昏暗的;**bittersweet**又苦又甜的;**poignant**尖锐的;**introspective**好反省的;**longing**渴望，热望;**sentimental**伤感的, 多愁善感的;**soulful**感情上的;
-	7. _[Wistful Memory](dic://Wistful%20Memory)_ 哀思回忆
-	8. _[Wistful Visions](dic://Wistful%20Visions)_ 渴望幻想
-	9. _[Wistful Thinking](dic://Wistful%20Thinking)_ 渴求思绪
-	10. _[a wistful expression](dic://a%20wistful%20expression)_ 渴望的表情
-	11. _[give a wistful look](dic://give%20a%20wistful%20look)_ 看着眼馋
-	12. wistful thinking
+7. wistful (wishful)
+	1. 
+	2. 不确定词源。可能来自不再使用的词 wistly,关注的，来自 whist,安静，见 whist,惠斯特纸牌游戏，词义受 wishful 影响。
+	3. adj. （因求而不得）失意的，伤感的；思念的，怀旧的
+	4. [pensive](dic://pensive)
+	5. _adj._ [sad](dic://sad)
+	6. _n._ [glad](dic://glad)
+	7. **melancholy**忧郁, 悲哀;**nostalgic**对往事怀恋的, 怀旧的;**dreamy**梦想的;**wry**面部肌肉扭曲的;**somber**昏暗的;**bittersweet**又苦又甜的;**poignant**尖锐的;**introspective**好反省的;**longing**渴望，热望;**sentimental**伤感的, 多愁善感的;**soulful**感情上的;
+	8. _[Wistful Memory](dic://Wistful%20Memory)_ 哀思回忆
+	9. _[Wistful Visions](dic://Wistful%20Visions)_ 渴望幻想
+	10. _[Wistful Thinking](dic://Wistful%20Thinking)_ 渴求思绪
+	11. _[a wistful expression](dic://a%20wistful%20expression)_ 渴望的表情
+	12. _[give a wistful look](dic://give%20a%20wistful%20look)_ 看着眼馋
+	13. wistful thinking
 		1. _[wishful thinking](dic://wishful%20thinking)_  n. 如意算盘；痴心妄想；一厢情愿
 		2. _[wistful thinking story](dic://wistful%20thinking%20story)_ 渴望的想法的故事；梦想之思想故事；渴望思维的故事；神往思维的故事
 		3. I hope I am not **wistful** **thinking** again. /我希望这一切不再是空想。
-	13. Miranda felt a wistful longing for the old days. /米兰达十分渴望那过去的日子。
-	14. her expression was wistful and reminiscent. /她的表情流露出思念和怀旧之情。
-	15. The statue has a gentleness, an ambience, a wistful elegance. /那尊雕像具有一种柔和、一种独特格调、一种忧郁沉思的雅致。
-	16. Twilight is short, and the unseen birds of twilight wistful, catching the heart. /黄昏短暂，暮色中，看不见的鸟儿在伤感似地啼鸣，声声动人。
-	17. He turned to look at me with a wistful expression. /他转过头来，用一种渴望的神情看着我。
-	18. He passed away last year, she said, looking suddenly wistful. /“去年他去世了，”她说道，脸上露出思念之情。
-	19. He suggested aromas of flowers, fruit, earth and caramel and grew slightly wistful. /他提到了花香、水果、泥土和焦糖的味道，有点伤感。
-	20. Orpheus would be wistful, young, artistic looking, Bacchus, energetic and sexy, clearly ready for a good time. /俄耳甫斯聪颖、年轻、充满艺术气质，巴克科斯活力十足、性感、随时准备享乐。
-	21. Willow-herb, tender and **wistful**, like a pink sunset cloud, was not slow to follow. /柔情似水的柳兰，像一片粉红色的晚霞，来的也不慢。
-	22. I can't help feeling slightly **wistful** about the perks I'm giving up. /我对自己将放弃的外快不由感到有点依依不舍。
-	23. Instead of casting a **wistful** glance at all the species we've left in the dust I.Q.-wise, it implicitly asks what the real 11 of our own intelligence might be. /这一问题不是惆怅地回望那些我们人类在智力上已远远超越的物种，而是含蓄地询问我们的智力的真正代价可能是什么。
+	14. Miranda felt a wistful longing for the old days. /米兰达十分渴望那过去的日子。
+	15. her expression was wistful and reminiscent. /她的表情流露出思念和怀旧之情。
+	16. The statue has a gentleness, an ambience, a wistful elegance. /那尊雕像具有一种柔和、一种独特格调、一种忧郁沉思的雅致。
+	17. Twilight is short, and the unseen birds of twilight wistful, catching the heart. /黄昏短暂，暮色中，看不见的鸟儿在伤感似地啼鸣，声声动人。
+	18. He turned to look at me with a wistful expression. /他转过头来，用一种渴望的神情看着我。
+	19. He passed away last year, she said, looking suddenly wistful. /“去年他去世了，”她说道，脸上露出思念之情。
+	20. He suggested aromas of flowers, fruit, earth and caramel and grew slightly wistful. /他提到了花香、水果、泥土和焦糖的味道，有点伤感。
+	21. Orpheus would be wistful, young, artistic looking, Bacchus, energetic and sexy, clearly ready for a good time. /俄耳甫斯聪颖、年轻、充满艺术气质，巴克科斯活力十足、性感、随时准备享乐。
+	22. Willow-herb, tender and **wistful**, like a pink sunset cloud, was not slow to follow. /柔情似水的柳兰，像一片粉红色的晚霞，来的也不慢。
+	23. I can't help feeling slightly **wistful** about the perks I'm giving up. /我对自己将放弃的外快不由感到有点依依不舍。
+	24. Instead of casting a **wistful** glance at all the species we've left in the dust I.Q.-wise, it implicitly asks what the real 11 of our own intelligence might be. /这一问题不是惆怅地回望那些我们人类在智力上已远远超越的物种，而是含蓄地询问我们的智力的真正代价可能是什么。
 
 
 ### + ⭐ \*wer- +

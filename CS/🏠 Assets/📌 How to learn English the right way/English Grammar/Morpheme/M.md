@@ -310,12 +310,13 @@
 	21. manciple
 		1. - n. 伙食委员
 	22. manumotive
-	23. manure (inure) [美 /məˈnʊr/](cmd://Speak/_us_/manure)
-		1. n. 肥料, 粪肥  vt. 施肥于
-		2. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
-		3. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
-		4. inure [ɪ'njʊə] vt. 使…习惯，vi. 适用；起作用；有助于。这个单词看起来很另类，怎么破？in-就是in，ure是法语化了的拉丁词根op，表to work。适应最好的方法那就是将他至于其中“in practice”。另外一个单词manure [mə'njʊə] vt.施肥；耕种，n.肥料，也有这个词根，man-表手，本指worked by hands。
-		5.  缩写自古法语 manouvrer,耕作，操作，词源同 manoeuvre,操作，控制。后引申词义在土地上劳作，给土地施肥，最后用于指肥料本身及粪肥。词源演变比较 pork,farrow,furrow.
+	23. manure (inure, op-) [美 /məˈnʊr/](cmd://Speak/_us_/manure)
+		1. (manure, ordure, feces, excrement, dung)
+		2. n. 肥料, 粪肥  vt. 施肥于
+		3. manure - 究其根源，manure与manoeuvre原本是一个词，它们可以追溯至拉丁短语manuoperāre 'to work with the hand'（用手操作）。古法语吸收了该拉丁短语，把它演变合成为动词manovrer或manouvrer，并从原字面义引申出“种地”一义。14世纪时英语把这个法语动词借了过来，最初也表示“种地”，以后几经演变，词义从“种地”转为“施肥”，最后到16世纪才转指“粪肥”或“肥料”，词类从动词转化为名词，而拼法也从mano(u)vrer逐渐缩约为manure。  
+		4. 原法语动词mano(u)vrer在法语中也发生了变化，词义从“用手操作”扩大为“操作”，到了18世纪中期开始用作军事术语，指“部队的调动”或“演习”，拼法演变成manoeuvrer。英语再一次借用了这个词，这就是manoeuvre，用于相同的意义。（参见manager）
+		5. inure [ɪ'njʊə] vt. 使…习惯，vi. 适用；起作用；有助于。这个单词看起来很另类，怎么破？in-就是in，ure是法语化了的拉丁词根op，表to work。适应最好的方法那就是将他至于其中“in practice”。另外一个单词manure [mə'njʊə] vt.施肥；耕种，n.肥料，也有这个词根，man-表手，本指worked by hands。
+		6.  缩写自古法语 manouvrer,耕作，操作，词源同 manoeuvre,操作，控制。后引申词义在土地上劳作，给土地施肥，最后用于指肥料本身及粪肥。词源演变比较 pork,farrow,furrow.
 		1. [muck](dic://muck)
 		2. [organic](dic://organic), [organic fertilizer](dic://organic fertilizer), [organic fertiliser](dic://organic fertiliser)
 		3. [spread](dic://spread), [scatter](dic://scatter), [spread out](dic://spread out)

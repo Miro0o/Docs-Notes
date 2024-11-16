@@ -2758,7 +2758,6 @@
 	24. A lady wears white yarn tippet, svelte coming from a distance. /远处还有一位身披白纱的贵妇，娉婷而来。
 	25. Take the lot of the happiest, it is a tangled yarn. /就拿最幸福的人来说, 他的生活也是一团缠结在一起的乱麻。
 	26. And as much as I love a good yarn /我很喜欢听故事。
-	27. 
 
 
 ### + \*ghers- + = to stand out, to bristle, rise to a point
@@ -2790,26 +2789,34 @@
 		17. horrorstuck
 		18. horror-stricken
 	3. abhor
-		1.  [loathe](dic://loathe), [abominate](dic://abominate), [execrate](dic://execrate)
-		2. _v._ [hate](dic://hate), [detest](dic://detest)
-		3. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**hate**憎恨;**shun**避开, 回避, 避免;**dislike**不喜欢，厌恶;**condemn**判刑，定罪;**profess**公开表示;**denounce**谴责;**condone**宽恕;**despised**受轻视的;**adore**爱慕;
-		4. I abhor to tell lies. /我憎恶撒谎。
-		5. She abhors cruelty to animals. /她憎恶虐待动物。
-		6. The first explanation for this phenomenon is that " jargon abhors a vacuum" . /对这一现象的第一个解释是“行话厌恶空白”。
-		7. Or I abhor all forms of racism. /或者，我痛恨所有形式的种族主义。
-		8. abhorrer
-		9. abhorrent
-		10. abhorrence, self-abhorrence
-	4. horrendous
+		1. vt. 憎恶, 痛恨, 回避, 拒绝
+		2. 1 - ab-,离开，-hor,害怕，词源同 horror,惊恐。原义为非常害怕，引申词义惊恐。
+		3.  [loathe](dic://loathe), [abominate](dic://abominate), [execrate](dic://execrate)
+		4. _v._ [hate](dic://hate), [detest](dic://detest)
+		5. **loathe**讨厌，厌恶;**despise**轻视，鄙视;**hate**憎恨;**shun**避开, 回避, 避免;**dislike**不喜欢，厌恶;**condemn**判刑，定罪;**profess**公开表示;**denounce**谴责;**condone**宽恕;**despised**受轻视的;**adore**爱慕;
+		6. I abhor to tell lies. /我憎恶撒谎。
+		7. She abhors cruelty to animals. /她憎恶虐待动物。
+		8. The first explanation for this phenomenon is that " jargon abhors a vacuum" . /对这一现象的第一个解释是“行话厌恶空白”。
+		9. Or I abhor all forms of racism. /或者，我痛恨所有形式的种族主义。
+		10. abhorrer
+		11. abhorrent
+			1. _adj._ [offensive](dic://offensive)
+			2. _n._ [inoffensive](dic://inoffensive)
+			3. **distasteful**使人不愉快的;**despicable**可鄙的,卑鄙的;**vile**卑鄙的;**disgusting**令人厌恶的;**appalling**令人震惊的;**barbaric**野蛮的，粗野的;**inhumane**残忍的;**deplorable**可叹的;**immoral**不道德的;**heinous**可憎的;**disgraceful**可耻的,丢脸的,不光彩的;
+			4. Frighting was abhorrent to him. /他讨厌打架。
+			5. I am abhorrent of smoking. /我讨厌吸烟。
+			6. racial discrimination was abhorrent to us all. /我们大家对种族歧视都深恶痛绝。
+		12. abhorrence, self-abhorrence
+	5. horrendous
 		1. _adj._ [alarming](dic://alarming)
 		2. _n._ [unalarming](dic://unalarming)
 		3. **horrible**可怕的;**horrid**可怕的;**terrible**可怕的;**atrocious**恶毒的;**horrific**可怕的;**dreadful**可怕的;**awful**可怕的，庄严的;**appalling**令人震惊的;**ghastly**可怕的;**hideous**可怕的;**abysmal**深不可测的;
 		4. _[horrendous](dic://horrendous)_  adj. 可怕的；惊人的
 		5. What horrendous weather! /多么讨厌的天气！
 		6. she suffered horrendous injuries. /她遭受了极其可怕的伤害。
-	5. horrent
+	6. horrent
 		1. adj. [古语]可怕的；倒竖的；毛骨悚然的（等于horrendous）
-	6. horrible
+	7. horrible
 		1. horribly
 		2. horrid
 			1.  [hideous](dic://hideous), [horrific](dic://horrific), [outrageous](dic://outrageous)s
@@ -2819,12 +2826,12 @@
 			5. a horrid nightmare /可怕的梦魇。
 			6. Don’t be horrid to me! /别对我那么凶！
 		3. horrify, horrified, horrific
-	7. horripilation
+	8. horripilation
 		1. _n._ (受惊、发冷等引起的)鸡皮疙瘩；毛发竖立 
 		2.  [pilomotor reflex](dic://pilomotor reflex), [gooseflesh](dic://gooseflesh), [goose bump](dic://goose bump), [goosebump](dic://goosebump), [goose pimple](dic://goose pimple), [goose skin](dic://goose skin)
 		3. _n._ [reflex](dic://reflex), [instinctive reflex](dic://instinctive reflex), [innate reflex](dic://innate reflex), [inborn reflex](dic://inborn reflex), [unconditioned reflex](dic://unconditioned reflex), [physiological reaction](dic://physiological reaction)
 		4. **fright**惊吓;**trembling**发抖;**shiver**颤抖，战栗;**tingling**发出叮当声;**apprehension**理解;**sensation**感觉;**tremble**战栗;**anguish**苦闷;**shivering**颤抖的;**numbness**麻木;**helplessness**无可奈何状态;
-	8. ordure
+	9. ordure [美 /'ɔrdʒɚ/](cmd://Speak/_us_/ordure) (manure, ordure, feces, excrement, dung)
 		1. n. 排泄物；污物；粪；淫秽的话
 		2. [fecal matter](dic://fecal matter), [faecal matter](dic://faecal matter), [feces](dic://feces), [faeces](dic://faeces), [BM](dic://BM), [stool](dic://stool), [dejection](dic://dejection)
 		3. _n._ [body waste](dic://body waste), [excretion](dic://excretion), [excreta](dic://excreta), [excrement](dic://excrement), [excretory product](dic://excretory product)
@@ -2846,6 +2853,33 @@
 	4. " It's gorse on th' moor that's openin' out, " answered Dickon. /“开着的是荒原上的金雀花，”迪肯回答。
 	5. She groped her way, touching the prickly gorse, to the door, and pushed it open. /她摸索着摸着多刺的金雀花， 走到门口，推开了门。
 5. hair
+	1. n. 头发, 毛发, 些微
+	2. 来自 PIE*ghers,挺直，硬毛，词源同 horror,hirsute.引申词义毛发，头发。
+	3. wirehair
+	4. white-haried
+	5. unhair
+	6. split-hari
+	7. silver-haried
+	8. maidenhair
+	9. longhair
+	10. horsehair
+	11. hairy
+	12. hairweaving
+	13. hairtail
+	14. hairstyle
+	15. hairstreak
+	16. hairspring
+	17. hairspray
+	18. hairsplitting
+	19. hairsplitter
+	20. hairpin
+	21. hairpiece
+	22. hairnet
+	23. hairline
+	24. hairlike
+	25. hairless
+	26. hairgrip
+	27. haired
 6. hirsute
 	1.  [hairy](dic://hairy), [haired](dic://haired)
 	2. _adj._ [canescent](dic://canescent), [hoary](dic://hoary), [coarse-haired](dic://coarse-haired), [coarse-furred](dic://coarse-furred), [comate](dic://comate), [comose](dic://comose), [comal](dic://comal)
@@ -2855,9 +2889,10 @@
 	2. _adj._ [hairy](dic://hairy), [haired](dic://haired), [hirsute](dic://hirsute)
 	3. _n._ [hairless](dic://hairless)
 	4. **rats**胡说;**rat**鼠;**rodent**啮齿目动物;**fleshy**肉的;**apical**顶上的, 顶点的;**densely**密集地;
-9. orgeat
+	5. Stems single or several and cespitose , branched above, densely **hispid**, hairs discoid at base; branches slender, spreading. /茎单一或数个和丛生，上面分枝，密被糙硬毛，毛盘状的在基部；分枝纤细，平展。
+8. orgeat
 	1. Orgeat is a sweet almond-flavored, non-alcoholic syrup produced in France/ 这是一种杏仁味道的无酒精糖浆，它产自法国。
-10. urchin
+9. urchin
 	1. _n._ [child](dic://child), [kid](dic://kid), [youngster](dic://youngster), [minor](dic://minor), [shaver](dic://shaver), [nipper](dic://nipper), [small fry](dic://small fry)
 	2. **octopus**章鱼;**eel**鳝鱼;**squid**鱿鱼;**seaweed**海藻，海草;**jellyfish**水母;**turtle**海龟;**scallops**扇贝;**sea**海洋;**crabs**吊钳;**snail**蜗牛;**crab**螃蟹;
 	3. _sea urchin_ 海胆
@@ -2917,47 +2952,63 @@
 		5. _[chyle peritonitis](dic://chyle%20peritonitis)_ 乳糜性腹膜炎
 		6. _[chyle duct](dic://chyle%20duct)_ 乳糜管
 	3. chyme
-		1. _n._ [food](dic://food), [nutrient](dic://nutrient)
-		2. **intestine**肠;**digestive**消化的;**digestion**消化;**bowel**肠;**bile**胆汁;**esophagus**食道;**secretion**分泌;**rectum**直肠;**mucus**粘液;**intestinal**肠的;**mucosa**粘膜;
-		3. The large intestine absorbs excess water from the chyme, and that helps condense it into dry fecal matter. /大肠可吸收食糜中多余的水份，如此可将食糜浓缩成干燥的粪便。
-		4. The chyme slowly moves through the large intestine through small waves of peristalsis that take place over hours or even days. /在微小幅度的肠蠕动下，食糜缓慢通过大肠；这个过程长达数小时甚至数天。
-	4. chymotrypsin
+		1. - n. [生理] 食糜（食物经胃液消化后变成的浆状物）；半流体的消化物
+		2. _n._ [food](dic://food), [nutrient](dic://nutrient)
+		3. **intestine**肠;**digestive**消化的;**digestion**消化;**bowel**肠;**bile**胆汁;**esophagus**食道;**secretion**分泌;**rectum**直肠;**mucus**粘液;**intestinal**肠的;**mucosa**粘膜;
+		4. The large intestine absorbs excess water from the chyme, and that helps condense it into dry fecal matter. /大肠可吸收食糜中多余的水份，如此可将食糜浓缩成干燥的粪便。
+		5. The chyme slowly moves through the large intestine through small waves of peristalsis that take place over hours or even days. /在微小幅度的肠蠕动下，食糜缓慢通过大肠；这个过程长达数小时甚至数天。
+		6. Bicarbonate helps neutralize the acidic chyme, and raising the pH in the intestinal lumen also helps digestive enzymes work more effectively. /碳酸氢盐能够中和酸性的食糜，还能提高肠腔内的pH值；这也可以提高消化酶的活性。
+		7. 
+	5. chymotrypsin
 		1. _[chymotrypsin](dic://chymotrypsin)_  n. [生化] 糜蛋白酶；[生化] 胰凝乳蛋白酶
-	5. ecchymosis
-	6. perichylous
+	6. ecchymosis
+	7. perichylous
 3. **fus-, fund-, found-** = pour, 表示“流，泻”。源自拉丁语 fundere "to melt, pour out."
-	8. confound
-		1. be confusing or perplexing to; cause to be unable to think clearly
+	1. confound
+		2. con-强调 + found-流，倾泻，即流到一起的，难以区别而困惑的。
+		3. vt. 使混淆, 使狼狈, 挫败
+		4. be confusing or perplexing to; cause to be unable to think clearly
 			2. [confuse](dic://confuse), [throw](dic://throw), [fox](dic://fox), [befuddle](dic://befuddle), [fuddle](dic://fuddle), [bedevil](dic://bedevil), [discombobulate](dic://discombobulate)
-		2. mistake one thing for another
+		5. mistake one thing for another
 			1. [confuse](dic://confuse)
-		3. _v._ [be](dic://be), [mistake](dic://mistake), [misidentify](dic://misidentify)
-		4. **confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**deceive**欺骗;**mislead**误导;**complicate**使复杂化;**defy**藐视;**frighten**使惊吓;**subvert**推翻;**discern**识别;**amuse**使发笑;**hinder**成为阻碍;
-		5. _[confounding](dic://confounding)_  v. 使困惑，弄糊涂；证明……有错（confound 的现在分词）
-		6. _[confounded](dic://confounded)_  adj. 困惑的；糊涂的；讨厌的；惊慌失措的; v. 使混淆（confound的过去分词）; 
-		7. _[confound with](dic://confound%20with)_  分不清
-		8. _[confounding variable](dic://confounding%20variable)_  混杂变量
-		9. confound fiction and fact. /把事实与假设混为一谈
-		10. a confounded fool /十足的笨蛋
-		11. oh confound it, where is the thing?. /喔，该死，那东西在哪儿？。
-		12. the rise in prices confounded expectations /价格的上涨出乎意料。
-		13. And Time that gave doth now his gift confound. /时间于是将自己的馈赠捣个稀烂。
-		14. But there was a change in Gatsby that was simply confounding. /但是盖茨比身上却发生了一种令人惶惑的变化。他简直是光芒四射。
-		15. confounding
-		16. confounder
-		17. confounded
+		6. _v._ [be](dic://be), [mistake](dic://mistake), [misidentify](dic://misidentify)
+		7. **confuse**使混乱;**frustrate**使不成功, 挫败, 阻止;**deceive**欺骗;**mislead**误导;**complicate**使复杂化;**defy**藐视;**frighten**使惊吓;**subvert**推翻;**discern**识别;**amuse**使发笑;**hinder**成为阻碍;
+		8. _[confounding](dic://confounding)_  v. 使困惑，弄糊涂；证明……有错（confound 的现在分词）
+		9. _[confounded](dic://confounded)_  adj. 困惑的；糊涂的；讨厌的；惊慌失措的; v. 使混淆（confound的过去分词）; 
+		10. _[confound with](dic://confound%20with)_  分不清
+		11. _[confounding variable](dic://confounding%20variable)_  混杂变量
+		12. _[confounding factor](dic://confounding%20factor)_  混杂因子；混合因素
+		13. _[confounding effect](dic://confounding%20effect)_  混杂作用
+		14. _[confounding bias](dic://confounding%20bias)_  混杂偏倚
+		15. _[confound right and wrong](dic://confound%20right%20and%20wrong)_  混淆是非，黑白不分
+		16. confound fiction and fact. /把事实与假设混为一谈
+		17. a confounded fool /十足的笨蛋
+		18. oh confound it, where is the thing?. /喔，该死，那东西在哪儿？。
+		19. the rise in prices confounded expectations /价格的上涨出乎意料。
+		20. And Time that gave doth now his gift confound. /时间于是将自己的馈赠捣个稀烂。
+		21. But there was a change in Gatsby that was simply confounding. /但是盖茨比身上却发生了一种令人惶惑的变化。他简直是光芒四射。
+		22. we will confound these tactics by the pressure groups. /我们会通过压力集团挫败这些策略。
+		23. Don't confound the means with the ends. /不要使手段与目的混淆不清。
+		24. the inflation figure confounded economic analysts. /通货膨胀的数字使经济分析家们困惑不解。
+		25. Fancy his having the insolence to confound me with the official detective force! /真好笑，他竟那么蛮横地把我和官厅侦探人员混为一谈！
+		26. Confound the fellow! It's a most breakneck place. /好混帐的东西！从这儿下来是最危险的了。
+		27. confounding
+		28. confounder
+		29. confounded
 			1. [baffled](dic://baffled), [befuddled](dic://befuddled), [bemused](dic://bemused), [bewildered](dic://bewildered), [confounded](dic://confounded), [confused](dic://confused), [lost](dic://lost)
 			2. **awfully**可怕地;**terribly**可怕地;**painfully**痛苦地;**delightfully**大喜;**strangely**奇妙地;**hopelessly**绝望地;**exceedingly**非常;**curiously**好奇地;**perplexed**困惑的;**stupidly**愚蠢地;**absurdly**愚蠢地;
-	9. foundry
-		1. [metalworks](dic://metalworks)
-		2. _n._ [factory](dic://factory), [mill](dic://mill), [manufacturing plant](dic://manufacturing plant), [manufactory](dic://manufactory)
-		3. **furnaces**炉子，熔炉;**castings**铸件;**manufacturing**制造业,工业;**machining**加工;**blacksmith**铁匠;**mill**磨坊;**lathe**用车床加工;**shipyard**船坞;**factory**工厂;**foreman**领班;**quarry**采石场;
-		4. _foundry coke_ 铸用焦炭
-		5. _foundry equipment_ 全套铸造设备
-		6. _steel foundry_ 铸钢厂；铸钢车间
-		7. The air near the foundry was always dirty. /铸造厂附近的空气总是灰蒙蒙的
-		8. Tell the foundry to cast another piston. /告诉铸铁间再铸一只活塞。
-	10. refund
+	2. foundry
+		1. n. 铸造, 铸造厂, 铸造类
+		2. found-流 + -ry, 表名词
+		3. [metalworks](dic://metalworks)
+		4. _n._ [factory](dic://factory), [mill](dic://mill), [manufacturing plant](dic://manufacturing plant), [manufactory](dic://manufactory)
+		5. **furnaces**炉子，熔炉;**castings**铸件;**manufacturing**制造业,工业;**machining**加工;**blacksmith**铁匠;**mill**磨坊;**lathe**用车床加工;**shipyard**船坞;**factory**工厂;**foreman**领班;**quarry**采石场;
+		6. _foundry coke_ 铸用焦炭
+		7. _foundry equipment_ 全套铸造设备
+		8. _steel foundry_ 铸钢厂；铸钢车间
+		9. The air near the foundry was always dirty. /铸造厂附近的空气总是灰蒙蒙的
+		10. Tell the foundry to cast another piston. /告诉铸铁间再铸一只活塞。
+	3. refund
 		1. [repayment](dic://repayment)
 		2. [return](dic://return), [repay](dic://repay), [give back](dic://give back)
 		3. _n._ [payment](dic://payment), [defrayal](dic://defrayal), [defrayment](dic://defrayment)
@@ -2970,28 +3021,39 @@
 			1. The refundment of the payment of the formal agreement should be settled on the condition of no dispute between the two parties /正式协议付款的退还，应该在双方没有任何分歧下解决；
 		10. refunding
 		11. refundable
-	11. fuse
-		1.  [electrical fuse](dic://electrical fuse), [safety fuse](dic://safety fuse)
-		2.  [fuze](dic://fuze), [fusee](dic://fusee), [fuzee](dic://fuzee), [primer](dic://primer), [priming](dic://priming)
-		3.  [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
-		4. _n._ [electrical device](dic://electrical device), [lighter](dic://lighter), [light](dic://light), [igniter](dic://igniter), [ignitor](dic://ignitor)
-		5. _v._ [change integrity](dic://change integrity), [liquefy](dic://liquefy), [flux](dic://flux), [liquify](dic://liquify), [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out)
-		6. _n._ [defuse](dic://defuse)
-		7. [melt](dic://melt) 最常用词，指任何固体的熔化过程，常引申作“消散、淡化或消失”解。  
-		8. [dissolve](dic://dissolve) 多指固体溶于溶剂的过程。  
-		9. [fuse](dic://fuse) 可与melt换用，但侧重指在高温下使两种或两种以上金属的熔合，也可作引申用
-		10. **wiring**线路;**bulb**电灯泡;**ignite**点燃;**wires**电线;**ignition**点火，点燃;**plug**塞子;**breaker**断路器;**capacitor**电容器;**fusion**融合物;**alternator**交流发电机;**resistor**电阻器;
-		11. _fuse box_ 保险丝盒
-		12. _blasting fuse_ 导爆线；导火线
-		13. _have a short fuse_ [美国口语]容易激动，脾气急躁，动辄发怒
-		14. _short fuse_ [美俚]暴躁性子；火爆脾气
-		15. _blow a fuse_ 使保险丝熔断；大怒
-		16. _fuse holder_ 熔丝架，保险丝支架
-		17. _fuse protection_ 熔断保护
-		18. _detonating fuse_ n. 导爆索；引爆信管
-		19. _fuse together_ 熔合
-		20. unsfused, semifused, fusing, fusible, fuser, fusee, fused, fuse-wire, defuse
-		21. fusion
+	4. fuse
+		1. - n. 保险丝，熔丝；导火线，引信 
+		2. v. 熔合，结合；<英>（使保险丝熔断而）停止工作；在（电路或电器）中安装保险丝；装引信（或导火索）于（炸弹，炮弹，地雷）；（使）熔化
+		3. unsfused, semifused, fusing, fusible, fuser, fusee, fused, fuse-wire, defuse
+		4.  [electrical fuse](dic://electrical fuse), [safety fuse](dic://safety fuse)
+		5.  [fuze](dic://fuze), [fusee](dic://fusee), [fuzee](dic://fuzee), [primer](dic://primer), [priming](dic://priming)
+		6.  [blend](dic://blend), [flux](dic://flux), [mix](dic://mix), [conflate](dic://conflate), [commingle](dic://commingle), [immix](dic://immix), [coalesce](dic://coalesce), [meld](dic://meld), [combine](dic://combine), [merge](dic://merge)
+		7. _n._ [electrical device](dic://electrical device), [lighter](dic://lighter), [light](dic://light), [igniter](dic://igniter), [ignitor](dic://ignitor)
+		8. _v._ [change integrity](dic://change integrity), [liquefy](dic://liquefy), [flux](dic://flux), [liquify](dic://liquify), [equip](dic://equip), [fit](dic://fit), [fit out](dic://fit out)
+		9. _n._ [defuse](dic://defuse)
+		10. [melt](dic://melt) 最常用词，指任何固体的熔化过程，常引申作“消散、淡化或消失”解。  
+		11. [dissolve](dic://dissolve) 多指固体溶于溶剂的过程。  
+		12. [fuse](dic://fuse) 可与melt换用，但侧重指在高温下使两种或两种以上金属的熔合，也可作引申用
+		13. **wiring**线路;**bulb**电灯泡;**ignite**点燃;**wires**电线;**ignition**点火，点燃;**plug**塞子;**breaker**断路器;**capacitor**电容器;**fusion**融合物;**alternator**交流发电机;**resistor**电阻器;
+		14. _fuse box_ 保险丝盒
+		15. _blasting fuse_ 导爆线；导火线
+		16. _have a short fuse_ [美国口语]容易激动，脾气急躁，动辄发怒
+		17. _short fuse_ [美俚]暴躁性子；火爆脾气
+		18. _blow a fuse_ 使保险丝熔断；大怒
+		19. _fuse holder_ 熔丝架，保险丝支架
+		20. _fuse protection_ 熔断保护
+		21. _detonating fuse_ n. 导爆索；引爆信管
+		22. _fuse together_ 熔合
+		23. This is the right fuse for the refrigerator.  /这是电冰箱上使用的保险丝。
+		24. Art and history fuse in inextricable magic. /艺术和历史魔术般地溶和在一起,难解难分。
+		25. the two nuclei move together and fuse into one nucleus. /两个核子移动到一块儿，合并成一个核子。
+		26. If I'm late again, my boss's gonna blow a fuse. /如果我再迟到，老板一定会很生气。
+		27. That's a lot considering many fuses when you are grown. /但很多块都在成年后合并了。
+		28. And the output is a third image with these two photos fused together. /而输出的是这两张照片融合而成的第三张照片。
+		29. You would never hit hard enough to actually fuse that ball together with another ball. /实际上你永远无法以足够的力度击打一个球，使其和另一个球聚合在一起。
+		30. And this is that same thing with all of the different outputs fused together. /其实原理都是一样的，只是把不同输出的信息汇集在一起。
+		31. 
+		32. fusion
 			1. n. 融合，结合；核聚变；混合音乐；融合菜肴；熔化；融合物
 			2. [merger](dic://merger), [unification](dic://unification)
 			3. [nuclear fusion](dic://nuclear fusion), [nuclear fusion reaction](dic://nuclear fusion reaction)
@@ -3008,13 +3070,13 @@
 			14. _spinal fusion_ 脊柱融合术；脊柱制动术
 			15. Scientists may be a step closer to sustaining nuclear fusion./ 科学家可能距离实现持续核聚变又近了一步。s
 			16. For lunch, try a Japanese fusion dish. /午餐则不妨试试日式创意料理。
-		23. affusion
+		33. affusion
 			1. the act of baptizing someone by pouring water on their head
 			2. _n._ [baptism](dic://baptism)
 			3. **baptism**洗礼;**immersion**沉浸;**rinsing**清水;**baptized**受洗礼的;
-		24. circumfuse, circumfusion
-		25. confuse, confusion, confused, confusable
-		26. diffuse (diffuse, dissipate, asperse, scatter)
+		34. circumfuse, circumfusion
+		35. confuse, confusion, confused, confusable
+		36. diffuse (diffuse, dissipate, asperse, scatter)
 			1. rediffuse
 			2. interdiffuse
 			3. diffusor
@@ -3035,23 +3097,23 @@
 			11. diffuseness
 			12. diffusely
 			13. diffusate
-		27. effuse
+		37. effuse
 			1. effusor
 			2. effusive
 			3. effusion
 			4. effusiometer
 			5. effuser
-		28. infuse
+		38. infuse
 			1. (infuse, inculcate, indoctrinate, regurgitate, imbue, imbibe, instill, )
 			2. infusum, infusodecoction
 			3. infusion
 			4. infuser
-		30. interfuse
+		39. interfuse
 			1. interfusion
-		31. perfuse
+		40. perfuse
 			1. perfusate
 			2. perfusion, perfusive
-		32. profuse
+		41. profuse
 			1. [exuberant](dic://exuberant), [lush](dic://lush), [luxuriant](dic://luxuriant), [riotous](dic://riotous)
 			2. _adj._ [abundant](dic://abundant)
 			3. _n._ [scarce](dic://scarce)
@@ -3062,24 +3124,24 @@
 				3. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
 			6. profusely
 			7. **plethora**过剩;**innumerable**无数的, 数不清的;**myriad**无数的;**multitude**大量, 许多;**awash**被浪冲打的;**copious**丰富的;**abundant**充裕的;**abundance**大量, 充足;**dizzying**使人眩晕的，使人头昏眼花的;**teeming**多产的，丰富的;**replete**充满的;
-		33. refuse
+		42. refuse
 			1. refuser
 			2. refusal
 			3. refusable
-		34. suffuse
+		43. suffuse
 			1. suffusion
-		35. superfuse, superfusion
-		36. transfuse
+		44. superfuse, superfusion
+		45. transfuse
 			1. transfusion
 			2. transfuser
 			3. transfusable
-		37. infusible
-	12. fusil
+		46. infusible
+	5. fusil
 		1. n. [军]轻型燧发枪
 		2. _n._ [musket](dic://musket)
 		3. **un**家伙，东西;**revolver**左轮手枪;**rifle**步枪;**rifles**来福枪;**lance**长矛;**petit**细小的;
 		4. fusillade
-	13. futile, futility, 
+	6. futile, futility, 
 		1. **fruitless**没有成果的, 无益的;**pointless**无意义的;**vain**徒劳的;**futility**无用;**counterproductive**反生产的,使达不到预期目标的;**hopeless**绝望的;**useless**无用的;**unsuccessful**不成功的;**meaningless**无意义的;**ineffective**无效的;**misguided**由错误思想指引的,不明智的;
 		2. [bootless](dic://bootless), [fruitless](dic://fruitless), [sleeveless](dic://sleeveless), [vain](dic://vain)
 		3. [ineffectual](dic://ineffectual), [otiose](dic://otiose), [unavailing](dic://unavailing)
