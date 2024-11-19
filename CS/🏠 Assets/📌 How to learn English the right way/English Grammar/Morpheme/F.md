@@ -155,28 +155,29 @@
 ## fe
 ### fest-,fist- = ulcer; pipe, 表示“溃烂；管子”。源自拉丁语 fistula "a pipe; ulcer"。
 1. fester (fetter)
-	1. 来自 PIE*bheid,撕开，裂开，词源同 bite,bitter,fissure.该词用来指化脓。
-	2. vi. 溃烂；化脓 
-	3. vt. 使……溃烂；使……痛苦；使……恶化 
-	4. n. 溃烂；脓疮，脓疱
-	5. fest-溃烂 + -er，该词用来指化脓。
-	6. [suppurating sore](dic://suppurating sore)
-	7.  [maturate](dic://maturate), [suppurate](dic://suppurate)
-	8. _n._ [sore](dic://sore)
-	9. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
-	10. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
-	11. [maturate](dic://maturate), [suppurate](dic://suppurate)
-	12. _[festering](dic://festering)_  v. （伤口等）溃烂；（食物、垃圾）腐烂；（负面情绪等）恶化；遭受身心创伤；感染（fester 的现在分词）; adj. 化脓的；充满仇恨的；腐烂的; n. 化脓；脓液;
-	13. _[Festering Wound](dic://Festering%20Wound)_ 溃脓创伤; 化脓的伤口; 
-	14. _[festering boil](dic://festering%20boil)_ 流脓
-	15. bitterness that festered and grew. /不断产生并加深的怨恨
-	16. a festering controversy. /愈演愈烈的争论。
-	17. Trump removed the gauze, but rather than healing the wound, we may now be watching it fester. /特朗普摘下纱布，但我们现在看到的可能不是伤口的愈合，而是伤口的溃烂。
-	18. Differences had been allowed to fester for too long. /双方分歧越陷越深。
-	19. The removal of festering Flesh was a global phenomenon. /需要去除溃烂的肉是全球都存在的情况。
-	20. Just when she needed her strength most, this toe had to fester. /恰好在她需要拿出最大力气的时候，这只脚尖却溃烂起来了。
-	21. And it is those scars that could well reopen, if left to fester in resentment and disappointment /如果任由这些伤痕在怨恨和失望中溃烂，那么，这些伤疤很可能会重新复发。
-	22. 
+	1.  (putrid, suppurate, putrefy, fester, addle)
+	2. 来自 PIE*bheid,撕开，裂开，词源同 bite,bitter,fissure.该词用来指化脓。
+	3. vi. 溃烂；化脓 
+	4. vt. 使……溃烂；使……痛苦；使……恶化 
+	5. n. 溃烂；脓疮，脓疱
+	6. fest-溃烂 + -er，该词用来指化脓。
+	7. [suppurating sore](dic://suppurating sore)
+	8.  [maturate](dic://maturate), [suppurate](dic://suppurate)
+	9. _n._ [sore](dic://sore)
+	10. _v._ [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+	11. **linger**逗留, 徘徊;**rot**腐烂;**resentment**愤恨,不满,怨恨;**persist**持续，固执;**subside**平息;**erupt**爆发;**infect**感染，传染;**unchecked**未遏制的;**ferment**发酵;**dissipate**驱散;**escalate**逐步升高;
+	12. [maturate](dic://maturate), [suppurate](dic://suppurate)
+	13. _[festering](dic://festering)_  v. （伤口等）溃烂；（食物、垃圾）腐烂；（负面情绪等）恶化；遭受身心创伤；感染（fester 的现在分词）; adj. 化脓的；充满仇恨的；腐烂的; n. 化脓；脓液;
+	14. _[Festering Wound](dic://Festering%20Wound)_ 溃脓创伤; 化脓的伤口; 
+	15. _[festering boil](dic://festering%20boil)_ 流脓
+	16. bitterness that festered and grew. /不断产生并加深的怨恨
+	17. a festering controversy. /愈演愈烈的争论。
+	18. Trump removed the gauze, but rather than healing the wound, we may now be watching it fester. /特朗普摘下纱布，但我们现在看到的可能不是伤口的愈合，而是伤口的溃烂。
+	19. Differences had been allowed to fester for too long. /双方分歧越陷越深。
+	20. The removal of festering Flesh was a global phenomenon. /需要去除溃烂的肉是全球都存在的情况。
+	21. Just when she needed her strength most, this toe had to fester. /恰好在她需要拿出最大力气的时候，这只脚尖却溃烂起来了。
+	22. And it is those scars that could well reopen, if left to fester in resentment and disappointment /如果任由这些伤痕在怨恨和失望中溃烂，那么，这些伤疤很可能会重新复发。
+	23. 
 3. fistula
 	1.  来自拉丁语 fistula,导管，溃疡，来自 PIE*bheid,劈开，裂开，词源同 bite,boat.比喻用法。
 	2. n. [医] 瘘管；[昆] 细管（尤指鳞翅目昆虫）

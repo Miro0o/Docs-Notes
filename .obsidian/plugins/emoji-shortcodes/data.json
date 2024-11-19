@@ -4,11 +4,13 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":point_right:",
+    ":point_left:",
+    ":door:",
     ":arrow_upper_right:",
     ":construction:",
     ":house:",
     ":link:",
-    ":point_right:",
     ":oil_drum:",
     ":star:",
     ":vs:",
@@ -44,7 +46,6 @@
     ":warning:",
     ":toolbox:",
     ":computer:",
-    ":point_left:",
     ":car:",
     ":paperclip:",
     ":question:",
@@ -102,7 +103,6 @@
     ":test_tube:",
     ":bubble_tea:",
     ":mirror:",
-    ":golf:",
-    ":angry:"
+    ":golf:"
   ]
 }

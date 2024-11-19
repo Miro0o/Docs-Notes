@@ -112,6 +112,65 @@
 3. etc..
 
 
+### + \*gel- +
+1. **chil-, col-** = cold, 表示“冷”。源自古英语 ciele "chill."
+	1. chilblain
+	2. chill
+		1.  [iciness](dic://iciness), [gelidity](dic://gelidity)
+		2.  [frisson](dic://frisson), [shiver](dic://shiver), [quiver](dic://quiver), [shudder](dic://shudder), [thrill](dic://thrill), [tingle](dic://tingle)
+		3. [shivering](dic://shivering)
+		4.  [pall](dic://pall)
+		5.  [cool](dic://cool), [cool down](dic://cool down)
+		6. [chilly](dic://chilly)
+		7. _n._ [coldness](dic://coldness), [cold](dic://cold), [low temperature](dic://low temperature), [frigidity](dic://frigidity), [frigidness](dic://frigidness), [fear](dic://fear), [fearfulness](dic://fearfulness)
+		8. _v._ [depress](dic://depress), [deject](dic://deject), [cast down](dic://cast down), [get down](dic://get down), [dismay](dic://dismay), [dispirit](dic://dispirit), [demoralize](dic://demoralize)
+		9. _adj._ [cool](dic://cool)
+		10. _n._ [warm](dic://warm)
+		11. **chilly**寒冷的，凉飕飕的;**cool**冷静的;**relax**放松，休息;**cold**寒冷的;**warm**温暖的;**shiver**颤抖，战栗;**frosty**结霜的，严寒的;**calm**静的，平静的;**mellow**成熟的;**relaxing**令人轻松的;**coolness**凉爽;
+		12. _chill out_ 冷静，冷静下来
+		13. _wind chill_ 风寒
+		14. chilling effect
+			1. These measures will have a chilling effect on the Turkish social media platform users. /这些措施将对土耳其社交媒体平台用户产生寒蝉效应。
+			2. Well, the pandemic has had a pretty chilling effect on prevention measures, such as cancer screenings, as you say. /疫情对预防措施产生了相当可怕的影响，如你所说的癌症筛查。
+			3. This has, predictably, had a chilling effect on the business of investing in startups. /可以预见，这对投资初创企业的业务产生了寒蝉效应。
+8. **gel-** = frost, 冰似的, 引申为胶, 凝胶体。源自拉丁语 gelare "to freeze."
+	1. congeal
+		1. [jell](dic://jell), [set](dic://set)
+		2. _v._ [solidify](dic://solidify)
+		3. **dissolve**使溶解;**evaporate**蒸发;**thicken**使变厚;**solidify**团结;**harden**变硬，变坚固;**dissipate**驱散;**thaw**融解;**melt**熔化，溶解;**precipitate**沉淀;**crumble**崩溃;**disperse**使散开;
+		4. _[congealing point](dic://congealing%20point)_  冻点；冷凝点
+		5. the blood had congealed into blobs /血液已凝成团。
+		6. Blood congeals to form a clot. /血凝结成块。
+		7. the ballet failed to congeal as a single oeuvre. /这部芭蕾舞剧未能融合成一个完美的艺术整体。
+		8. Although man has the ability to befoul your clean face, you can still congeal with your pure heart, sparkling marvellously. /尽管人可弄脏你新衣，你照样要用纯洁的心，凝结出晶莹，放出奇异的光彩！
+		9. These opposing spins prevent two hurricanes from congealing into a super hurricane. /这些相反的旋转能够防止两个飓风凝结成为超级飓风。
+		10. Ice floes were increasing over the open water. The sea was starting to congeal everywhere. /冰群在流动的水上愈来愈多了。海面渐渐冻结。
+	2. congelation
+	3. gelatin
+	4. gelation
+	5. gelid
+	6. gelignite
+	7. regelate
+		1. vi. 再胶凝
+	8. gelatine
+9. **glaci-** 表示“冰；光滑”。源自拉丁语 glacies "ice."
+	1. glacial
+	2. glaciate
+	3. glacier
+	4. glaciology
+	5. glacis
+	6. glance
+		1. n. 一瞥; 扫视; 辉金属  
+		2. v. 瞥一眼, 扫视; 浏览
+		3. 来自拉丁文glacies, 冰，词源同cold,插入鼻音字母n. 即冰上滑过的光线，引申义瞥过。
+		4. side-glance
+		5. glancing
+10. cold
+11. cool
+12. jell
+13. 
+
+
 ### + ⭐ \*gene- + = give birth, beget
 1. **gen-,gener-,genit-,-genesis** = birth, produce, 表示“出生，产生”，医学上引申为“生殖或基因”。
 	1. mutagen

@@ -2418,7 +2418,7 @@
 		1. re-再 + sus-下 + cit-唤起 + -able, 表形容词
 		2. resuscitable
 	6. solicit
-		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit)
+		1.  (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
 		2. 来自拉丁语 sollicitare,打扰，麻烦，刺激，煽动，来自 sollus,整个的，全部的，词源同 solid,-cit,召唤，使兴奋，词源同 cite,excite.后引申词义请求，恳求，以及俚语词义招嫖，拉客等。
 		3. solicitor
 		4. solicitous
@@ -2427,8 +2427,22 @@
 6. **souc-** = care, 表示”关心“，和 cit- 呼唤同源。
 	1. insouciance
 	2. insouciant
+		1. a. 漫不经心的, 无忧虑的, 不在意的, 满不在乎的
+		2. in-不，非 + souc-关心 + -ant → 什么都不关心的 → 无忧无虑的。
+		3.  来自法语 insouciant,不关心的，来自 in-,不，非，soucier,关心，关切，词源同 cite,solicit.引申词义无忧无虑的。
+		4. [casual](dic://casual), [nonchalant](dic://nonchalant)
+		5. _adj._ [unconcerned](dic://unconcerned)
+		6. _n._ [concerned](dic://concerned)
+		7. **carefree**无忧无虑的;**exuberant**兴高采烈的;**wry**面部肌肉扭曲的;**sly**狡猾的;**smug**自满的, 沾沾自喜的;**breezy**有微风的;**cheeky**无耻的;**laid-back**安详的, 轻松的;**childlike**天真的;**youthful**年轻的;**playful**爱嬉戏的;
+		8. The Handsome Monkey King had enjoyed this insouciant existence for three or four hundred years when one day, The Handsome Monkey King's innocent high spirits could not, of course, last three or four hundred years. /一日，与群猴喜宴之间，忽然忧恼，堕下泪来。
+		9. Onfield and off he had an aristocrat's **insouciant** elegance. /无论在场内还是场外都彰显出贵族的优雅。
+		10. That kind of **insouciant** attitude is what makes fur fit into modern life.  /使皮草融入到现代生活当中的正是那种满不在乎的态度。
 7. behest
 	1.  be-,表强调，-hest,命令，召唤，词源同 cite,引用，传讯。
+	2. _n._ [command](dic://command), [bid](dic://bid), [bidding](dic://bidding), [dictation](dic://dictation)
+	3. **auspices**支持;**ostensibly**表面上地;**guise**伪装;**behalf**方面, 利益, 赞同;**appease**使平息;**erstwhile**过去的, 从前的;**whim**一时的兴致;**purportedly**据称;**presumably**据推测, 大概, 可能;**overseen**视察;**insistence**坚持;
+	4. They arrested him at the King’s behest. /他们奉国王之命逮捕了他。
+	5. I called the office at the behest of my secretary. /在秘书的催促下，我给办公室打了电话
 8. hight
 	1. v. 被称为... 的
 
@@ -2442,6 +2456,14 @@
 2. **calam-** = misfortune, 表示“不幸”。源自拉丁语 calamitas "injury, damage, loss."
 	1. calamitous
 	2. calamity
+		1. [catastrophe](dic://catastrophe), [disaster](dic://disaster), [tragedy](dic://tragedy), [cataclysm](dic://cataclysm)
+		2. _n._ [misfortune](dic://misfortune), [bad luck](dic://bad luck)
+			1. [disaster](dic://disaster) 普通用词，指大破坏、痛苦或伤亡。  
+			2. [calamity](dic://calamity) 多指个人的不幸，比disaster严重，强调灾难引起的悲痛以及对于损失的感觉。  
+			3. [catastrophe](dic://catastrophe) 语气最强，指可怕的灾难，强调最终的结局。  
+			4. [misfortune](dic://misfortune) 普通用词，多指较为严重的不幸，强调不幸多由外界因素所致。
+		3. **catastrophe**大灾难;**disaster**不幸;**misfortune**不幸, 厄运, 逆境;**devastation**毁灭;**tragedy**悲剧;**catastrophic**灾难性的;**crisis**危机;**crises**危机，紧要关头;**upheaval**剧变;**misery**痛苦，悲惨;**famine**饥荒;
+		4. _natural calamity_ 自然灾害；天灾
 3. **clad-, clado-** = branch, shoot, 表示“芽，枝”。源自希腊语 klados "branch, shoot."
 	1. clade
 	2. cladism
@@ -2452,16 +2474,18 @@
 	1. etc..
 5. **calst-** = break, 表示“破碎”。源自希腊语 klan "to break."
 	1. anaclastic
+		1. a. 屈折的, 反曲的
 	2. cataclastic
 	3. clastic
-		1. petroclastic
-		2. nonclastic
-		3. microclastic
-		4. macroclastic
-		5. holoclastic
-		6. histoclastic
-	4. clastogen
-	5. iconoclast
+		1. a. 碎片的
+		2. petroclastic
+		3. nonclastic
+		4. microclastic
+		5. macroclastic
+		6. holoclastic
+		7. histoclastic
+	5. clastogen
+	6. iconoclast
 		1. iconoclastic
 			1. _adj._ [unorthodox](dic://unorthodox), [destructive](dic://destructive)
 			2. _n._ [orthodox](dic://orthodox), [constructive](dic://constructive)
@@ -2470,7 +2494,7 @@
 			5. _[iconoclastic controversy](dic://iconoclastic%20controversy)_ 圣像破坏之争; 反图像之争辩; 
 			6. _[iconoclastic movement](dic://iconoclastic%20movement)_ 圣像破坏运动
 			7. _[iconoclastic view](dic://iconoclastic%20view)_ 离经叛道的观念
-	6. syncalstic
+	7. syncalstic
 6. **cler-** 表示“教士，职员”。
 	1. clergy（职员）：能看书写字的人  
 		1. 英语单词clergy来自拉丁语，原意是“有学问的人、能看书写字的人”。为什么表示“神职人员”呢？这是因为，在欧洲中世纪，人们文化水平普遍较低，只有神职人员因为需要研究圣经，所以能够看书写字。因此，clergy（能看书写字的人）就成了“神职人员”的代名词。另外，贵族们还常常雇佣教士从事记账、记录等文字工作，所以从同样的拉丁词源又产生了clerk（书记、记账员），后来该词的词义泛化，可以表示“职员”、“办事员”等。  
@@ -2502,7 +2526,36 @@
 11. coloboma
 	1. _[coloboma iridis](dic://coloboma%20iridis)_  虹膜缺损
 12. halt
-13. holt
+	1. n. 停止; 小火车站  v. 使停住, 停住; 有缺陷, 不流畅
+	2. 1 - 来自古法语 halte,停下，词源同 hold.即使停止，停下。  
+	3. 2 - 来自 PIE*kel,砍，切，词源同 half,cleave.即砍成两半的，引申词义跛行，踌躇。
+	4. [arrest](dic://arrest), [check](dic://check), [hitch](dic://hitch), [stay](dic://stay), [stop](dic://stop), [stoppage](dic://stoppage)
+	5. [stop](dic://stop)
+	6.  [freeze](dic://freeze)
+	7.  [hold](dic://hold), [arrest](dic://arrest)
+	8.  [stop](dic://stop), [block](dic://block), [kibosh](dic://kibosh)
+	9. [stem](dic://stem), [stanch](dic://stanch), [staunch](dic://staunch)
+	10.  [crippled](dic://crippled), [halting](dic://halting), [lame](dic://lame), [gimpy](dic://gimpy), [game](dic://game)
+	11. _n._ [inaction](dic://inaction), [inactivity](dic://inactivity), [inactiveness](dic://inactiveness), [ending](dic://ending), [conclusion](dic://conclusion), [finish](dic://finish), [pause](dic://pause)
+	12. _v._ [stop](dic://stop), [prevent](dic://prevent), [forestall](dic://forestall), [foreclose](dic://foreclose), [preclude](dic://preclude), [forbid](dic://forbid), [check](dic://check)
+	13. _adj._ [unfit](dic://unfit)
+	14. _n._ [fit](dic://fit), [healthy](dic://healthy)
+		1. [cease](dic://cease) 指逐渐、徐徐中止某种状态的存在。书面用词。  
+		2. [pause](dic://pause) 指暂时的、瞬间的停顿，隐含有再进行之意。  
+		3. [stop](dic://stop) 指动作、运行、进展等被停下来，含突然、断然的意味。  
+		4. [halt](dic://halt) 侧重突然地、决定性地终止、停止某一活动。   
+		5. [quit](dic://quit) 指最终彻底停止某事，有时暗示遭到失败或面临挫折。
+	15. **standstill**停顿;**screeching**发动机啸声;**stop**堵塞;**resumption**重新开始;**accelerate**加快, 增速;**stalled**被困住的;**curtail**截断, 缩短;**abrupt**突然的;**overturn**推翻;**delay**耽搁;**avert**避免，防止;
+	16. _come to a halt_ 停止前进；停下来
+	17. _halt on_ 出错暂停
+	18. _system halt_ 系统中止；系统停止；系统挂起；死机
+	19. _grind to a halt_ 慢慢停止
+	20. _call a halt_ 命令停止
+	21. stringhalt
+	22. springhalt
+	23. halting
+	24. halter
+27. holt
 	1. _[holt](dic://holt)_  n. 小林；林丘；杂木林; n. (Holt)人名；(英、德、罗、匈、瑞典)霍尔特；(法、西)奥尔特
 #### ⭐ + \*kel- (2) + = to conceal
 1. **calypt-** = cover, 表示“盖”，引申为保护。源自希腊语 kalux "seed-vessel, cup."
@@ -2586,10 +2639,18 @@
 			2. [trademark](dic://trademark), [earmark](dic://earmark), [stylemark](dic://stylemark)
 			3. [authentication](dic://authentication), [assay-mark](dic://assay-mark)
 		5. guildhall
-	8. hull
-		1. unhulled
-		2. huller
-3. **cell-** = cell, 表示“细胞”。源自拉丁语 cella "storeroom, chamber."
+	8. hull (haul, overhaul)
+		1. - n. 船体；（果实的）外壳 vt. [粮食]去壳
+		2. _n._ [husk](dic://husk), [calyx](dic://calyx), [naval officer](dic://naval officer), [diplomat](dic://diplomat), [diplomatist](dic://diplomatist), [city](dic://city), [metropolis](dic://metropolis)
+		3. _v._ [remove](dic://remove), [take](dic://take), [take away](dic://take away), [withdraw](dic://withdraw)
+		4. **keel**给…装龙骨;**vessel**容器，器皿;**starboard**右舷;**boat**小船;**fuselage**机身;**rudder**飞机方向舵;**aft**在船尾;**warship**战船，军舰;**torpedo**鱼雷;**ship**运送，乘船;**battleship**战列舰;
+		5. If Cook can't refloat it, the reef will tear the hull apart. /如果库克无法让船重新浮上海面 暗礁就会把船体船撞裂。
+		6. " And I shall still have the iron hull, " said the captain in a softer tone. /" 那您可把铁船壳给我留下来啊。" 船长用非常温和的语气说。
+		7. Also, do you eat oatmeal? Well, livestock are eating the otherwise useless oat hulls and straw. /还有，你吃燕麦片吗？嗯，牲畜也会吃掉原本无用的燕麦壳和稻草。
+		8. Only a few yards of the Titanic's hull are visible in an explorer's headlights at any one time. /在任何时候，探险家的前灯都只能看到泰坦尼克号船体几码的范围。
+		9. unhulled
+		10. huller
+5. **cell-** = cell, 表示“细胞”。源自拉丁语 cella "storeroom, chamber."
 	1. cell
 		1. cell（细胞）：软木切片中的小室  
 		2. 英语单词cell原本表示“连在一起的小房间”，如修道院中每个修道士或修女住的房间、监狱里的房间、蜂巢中的蜂室。1665年，英国物理学家罗伯特•虎克（Robert Hooke）在用自制显微镜观察软木切片时，发现里面有很多小室，就像蜂窝一样。他将这些小室称为cell（细胞）。因此，罗伯特•虎克被称为发现细胞的第一人。实际上，他所看到的并不是真正的细胞，而是死去的植物细胞的细胞壁。第一个发现活细胞的英国是荷兰人安东•范•列文虎克（Anton van Leeuwenhoek）。  
@@ -2609,7 +2670,7 @@
 		13. cellulitis
 		14. celluloid
 		15. cellulous
-4. **cell-, cellul-** = cellulose, 植物细胞壁构成的物质，中文译作“纤维素”。源自拉丁语 cella "storeroom, chamber."
+6. **cell-, cellul-** = cellulose, 植物细胞壁构成的物质，中文译作“纤维素”。源自拉丁语 cella "storeroom, chamber."
 	1. cellulase
 	2. cellulolytic
 	3. cellulose, cellulosic
@@ -2617,11 +2678,20 @@
 		2. **cellulose**纤维素;**biofuel**生物燃料;**biofuels**生物燃料;**ethanol**乙醇，酒精;**polymeric**聚合的;**biomass**生物量;**fibrous**纤维的，纤维性的;**polymers**聚合物;**starch**淀粉;**polymer**聚合物;**renewable**可继续的,可续订的;
 	4. cellaburate
 	5. cellacetate
-5. **cil-** 表示“睫毛，绒毛”。
+7. **cil-** 表示“睫毛，绒毛”。
 	1. ciliate
-		2. ciliation
-		3. ciliated
-	2. cilium, cilia
+		1. [ciliated protozoan](dic://ciliated protozoan), [ciliophoran](dic://ciliophoran)
+		2.  [ciliary](dic://ciliary), [cilial](dic://cilial)
+		3. _n._ [protozoan](dic://protozoan), [protozoon](dic://protozoon)
+		4. _adj._ [cilium](dic://cilium), [eyelash](dic://eyelash), [lash](dic://lash), [rough](dic://rough)
+		5. _n._ [smooth](dic://smooth)
+		6. **bacterial**细菌的;**eukaryotic**真核状态的;**bacterium**细菌;**organism**有机体;**larvae**幼虫;**microbial**微生物的;**taxon**分类单元;**apical**顶上的, 顶点的;**larval**幼虫状态的;**taxa**分类;**biofilm**生物膜;
+		7. On the inside, the fallopian tubes have smooth muscle with an inner lining that has ciliatedcells that slowly sweep the secondary oocyte or zygote towards the uterus. /输卵管内是有纤毛细胞覆盖的平滑肌，这些纤毛可以缓慢地将次级卵母细胞或者受精卵向子宫运输。
+		8. Micronuclei in the ciliates then divide several times in each cell. /然后纤毛虫中的微核在每个细胞中分裂几次。
+		9. They also found predators on the herbivores, in the form of ciliates and predator bacteria, which feed on other bacteria. /他们还发现食草动物的捕食者，如纤毛虫以及以其他细菌为食的捕食细菌。
+		10. ciliation
+		11. ciliated
+	5. cilium, cilia
 		1. [eyelash](dic://eyelash), [lash](dic://lash)
 		2. **epithelium**上皮;**apical**顶上的, 顶点的;**cytoplasm**细胞质;**epithelial**上皮的;**cytoplasmic**细胞质的;**motility**运动性;**membrane**膜;**mitochondria**线粒体;**intracellular**细胞内的;**eukaryotic**真核状态的;**actin**肌动蛋白;
 		3. stereocilium, pseudocilium, peniciliumm microcilium, kinocilium
@@ -2631,18 +2701,22 @@
 		5. supercilum, intercilium
 			1. superciliary
 			2. intersuperciliary
-	3. supercilious
-		1. **condescending**降低身份的,屈尊的;**pompous**浮夸的;**smug**自满的, 沾沾自喜的;**arrogant**自大的，傲慢的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pretentious**自命不凡的;**sarcastic**讽刺的;**snarky**恶声恶气的，咬人的;**cynical**愤世嫉俗的;**bigoted**顽固的;**aloof**冷淡的;
-		2. **arrogance**傲慢;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**cynicism**犬儒主义;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**contempt**轻视，蔑视;**hypocrisy**伪善;**hubris**傲慢;**indifference**不关心,不在乎;**hostility**敌意;
-		3. superciliousness
-		4. superciliously
-6. **clepto-, klepto-** 表示“偷窃”。
+	6. supercilious
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+		4. - adj. 目空一切的，高傲的；傲慢的，自大的
+		5. **condescending**降低身份的,屈尊的;**pompous**浮夸的;**smug**自满的, 沾沾自喜的;**arrogant**自大的，傲慢的;**dismissive**轻视的, 轻蔑的, 鄙视的;**pretentious**自命不凡的;**sarcastic**讽刺的;**snarky**恶声恶气的，咬人的;**cynical**愤世嫉俗的;**bigoted**顽固的;**aloof**冷淡的;
+		6. **arrogance**傲慢;**disdain**蔑视;**indignation**愤怒, 愤慨, 气愤;**cynicism**犬儒主义;**condescending**降低身份的,屈尊的;**pompous**浮夸的;**contempt**轻视，蔑视;**hypocrisy**伪善;**hubris**傲慢;**indifference**不关心,不在乎;**hostility**敌意;
+		7. superciliousness
+		8. superciliously
+11. **clepto-, klepto-** 表示“偷窃”。
 	1. kleptoscope
 	2. kleptomania
 	3. kleptomaniac
 	4. myrmecoclepty
 	5. cleptolagnia
-7. **cloth-** = cloth, 表示“布”。
+12. **cloth-** = cloth, 表示“布”。
 	1. cloth
 		1. clothe
 		2. clothed
@@ -2653,9 +2727,9 @@
 	4. dishcloth
 	5. enclothe
 	6. etc..
-8. **cole-, coleo-** = sheath, 表示“鞘”。源自希腊语 koleon, koleos "sheath."
+13. **cole-, coleo-** = sheath, 表示“鞘”。源自希腊语 koleon, koleos "sheath."
 	1. etc..
-9. **color-** = color，表示“颜色”。源自拉丁语 color "color, hue."
+14. **color-** = color，表示“颜色”。源自拉丁语 color "color, hue."
 	1. colour, color
 	2. bicolor
 	3. colorable
@@ -2663,32 +2737,32 @@
 	5. colorant
 	6. coloratura
 	7. etc..
-10. **cyath-**
+15. **cyath-**
 	1. etc..
-11. **eucalypt-**
+16. **eucalypt-**
 	1. eucalyptus
-12. ceil
-13. clad
-14. clandestine
+17. ceil
+18. clad
+19. clandestine
 	1. _adj._ [covert](dic://covert)
 	2. _n._ [overt](dic://overt), [open](dic://open)
 	3. **covert**隐蔽的;**illicit**违法的;**secret**秘密;**secretive**遮遮掩掩的,守口如瓶的,秘密的;**undercover**暗中进行的;**espionage**谍报活动;**subversive**破坏性的;**secretly**秘密地;**spy**侦察;**nefarious**极坏的;**underground**地下的;
 	4. They had a clandestine meeting in the park yesterday. /昨天他们在公园开了个黑会。
 	5. Perhaps I should have considered a career in the clandestine arts. /也许我应该考虑从事特工职业。
 	6. Ballard signs on to the clandestine operation, if he gets something in return. /巴拉德签署了秘密行动，如果他得到回报的话。
-15. haugh
+20. haugh
 	1. _[floodplain haugh](dic://floodplain%20haugh)_ 泛滥平原
-16. hell
-17. helm
+21. hell
+22. helm
 	1. **reins**肾脏;**captain**船长;**leadership**领导;**director**人事助理;**stern**严厉的，苛刻的;**chairman**主席，会长;**cockpit**驾驶室;
-18. hole
+23. hole
 	1. [hole](dic://hole) 最普通用词，泛指实体上的洞、孔或坑，不涉及其大小、深浅或穿透与否。
 	2. [cave](dic://cave) 指出洞、窑洞或溶洞，可以是天然的或人造的。
 	3. [cavity](dic://cavity) 比hole正式，指实体内中或表面的空洞或空腔。
 	4. [hollow](dic://hollow) 通常指表面上的坑或凹处，也指物体内部的空洞。
 	5. [pit](dic://pit) 指天然的大洞，尤指地上的洞，也指为采掘矿物而挖的深洞。
 	6. **gaping**多洞穴的;**peg**钉;**cavity**洞，凹处;**rabbit**兔子，野兔;**putt**击球入洞;**orifice**孔口;**fairway**航路;**doughnut**圆环图;**donut**炸面圈;**drill**钻子;**birdie**小鸟;
-19. hollow (callow, mellow)
+24. hollow (callow, mellow)
 	1. [empty](dic://empty) 指空无一人或一物，或空洞无意义的。
 	2. [vacant](dic://vacant) 普通用词，侧重某物或某个位置没有被占用。
 	3. [hollow](dic://hollow) 指物体中间是空的。
@@ -2700,15 +2774,13 @@
 	9. hollowly
 	10. hollow-hearted
 	11. hollow-eyed
-20. holster (upholstery, bolster)
+25. holster (upholstery, bolster, holster, )
 	1. n. 手枪皮套
 	2. **pistol**手枪;**handgun**手枪;**revolver**左轮手枪;**pistols**手枪;**firearm**枪炮;**gun**枪;**rifle**步枪;**Ruger**鲁格;**strap**用带捆绑;**pouch**小袋;**sling**投掷;
 	3. Holster your sidearms! - Yes, do that, please. /放下你的枪 -请照做。
 	4. He pulled a pistol from a holster at his belt. /他从腰带上的枪套里拔出一把手枪。
 	5. The gunman shot one police officer in the holster of their gun. /枪手击中了一名警察的枪套，但奇迹般的是，这名警察没有受伤
 	6. I think Disney has decided to holster its gun for now and not shoot. /我想迪斯尼已经决定暂时收敛锋芒了。
-	7. 
-
 #### + \*kel- (3) +
 1. **celebr-** = honor, 「Latin」celeber "much frequented, hence famous"
 	1. celebrant
@@ -2745,7 +2817,7 @@
 	1. cavil
 	2. caviler
 	3. calumny
-		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		1.  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
 		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
 		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 		4.  [defamation](dic://defamation), [calumniation](dic://calumniation), [obloquy](dic://obloquy), [traducement](dic://traducement), [hatchet job](dic://hatchet job)
@@ -5506,7 +5578,7 @@
 		1. n. 箱, 厨, 笼, 小屋  vt. 把...装箱
 		2. - 来自古法语 huche,柜子，来自拉丁语 hutica,柜子，箱子，来自 PIE*skeu,隐藏，遮盖，词源同 hut,house.现主要用于指养兔子等小动物的笼子或柜子，在家具行业也指抽屉柜。
 	9. huddle 
-		1. (cuddle, coddle, dawdle, daddle, diddle, doodle, fiddle, fuddle, huddle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, reddle, riddle, saddle, toddle, treadle, twiddle, waddle)
+		1. (cuddle, coddle, dawdle, daddle (dawdle), diddle, doodle, fiddle, fuddle, huddle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, toddle, treadle, twiddle, waddle)
 		2. n. 杂乱一团, 混乱, 拥挤  
 		3. vt. 把...挤在一起, 乱堆, 草率了事, 蜷曲  
 		4. vi. 挤作一团, 蜷缩

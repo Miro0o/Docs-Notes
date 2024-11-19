@@ -67,15 +67,16 @@ Erasmus Mundus Catalogue
 🏠 https://erasmus-plus.ec.europa.eu/projects/search/details/101082683
 ##### CYBERUS - Erasmus Mundus Joint Master in Cybersecurity
 https://erasmus-plus.ec.europa.eu/projects/search/details/101049712
-##### Master's programme in Security and Cloud Computing
+##### Master's programme in Security and Cloud Computing (SECCLO)
 https://erasmus-plus.ec.europa.eu/projects/search/details/619612-EPP-1-2020-1-FI-EPPKA1-JMD-MOB
+
+🏠 https://www.secclo.eu
 ##### EMAI - Erasmus Mundus Joint Master In Artificial Intelligence
 https://erasmus-plus.ec.europa.eu/projects/search/details/101082433
-##### SECCLO
-🏠 https://www.secclo.eu
+##### EMJMD in GENIAL  GrEen NetworkIng And cLoud computing
+http://genial.univ-lorraine.fr
 ##### SE4GD
 🏠 https://se4gd.lutsoftware.com
-
 #### 👉 EIT (European Institute of Innovation and Technology)
 🏠 https://eit.europa.eu
 
@@ -116,9 +117,11 @@ EIT Manufacturing（EIT制造）
 （3）[同济大学](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)[电气工程及其自动化专业](https://www.zhihu.com/search?q=%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E5%8F%8A%E5%85%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)；2019年毕业；**GPA 4.62/5.0 雅思 7，** 被E**IT[嵌入式系统](https://www.zhihu.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)硕士** 项目，学制2年，并获得 **奖学金24,000欧元**
 ##### EIT Digital /Masterschool
 https://masterschool.eitdigital.eu
-###### Cyber Security
-###### Cloud and Networking Infrastructure
+###### Cyber Security (CSE)
+https://masterschool.eitdigital.eu/cyber-security/entry-exit
+###### Cloud and Networking Infrastructure 
 ###### Data Science
+https://masterschool.eitdigital.eu/data-science
 ###### Embedded Systems Design
 
 #### 👉 Marie Skłodowska-Curie actions
@@ -156,7 +159,17 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 
 
 ### 🇧‍🇪 Belgium
-#### 👉 KU Leuven
+#### 👉👉 KU Leuven 👈👈
+🚪 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_ad_appl/index.html?sap-syscmd=nocookie&saml2idp=https://idp.kuleuven.be/idpx&instelling=50000050
+https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_ad_appl/index.html?&sap-syscmd=nocookie&sap-client=200&sap-language=EN&instelling=50000050&saml2idp=https%3a%2f%2fidp.kuleuven.be%2fidpx#
+
+https://www.kuleuven.be/english/apply/application-instructions/instructions-degree **(Application instructions for degree seeking students)**
+This guide explains the different steps to apply to KU Leuven. We advise all students **to apply for your programme of interest well before the deadline**.
+
+https://www.kuleuven.be/english/apply/application-instructions/apply-to-kuleuven
+This brief guide will explain all major steps you need to take to prepare your application in case you do not have a Flemish degree that gives direct access to your desired programme. Make sure you check all steps: it will significantly improve your chances to get admitted.
+
+---
 https://www.kuleuven.be/english/application/FAQ
 - 可以之后申请APS
 - 可以同时申请多个项目
@@ -164,14 +177,19 @@ https://www.kuleuven.be/english/application/FAQ
 
 https://www.kuleuven.be/english/apply/requested-documents#master
 Requested documents
-
 ##### Master of Engineering: Computer Science (2 years)
-https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_52364422.htm#activetab=voorwaarden_1
-
 https://www.kuleuven.be/programmes/master-engineering-computer-science
 - The master of computer science programme, courses, and areas of specialisation are **strongly linked to the research groups**, guaranteeing state-of-the-art education in the field of computer science.
 - A significant number of courses are focused on **industry-relevant skills and content**. The high volume of industry-related research projects in the Department of Computer Science allows us to include relevant content in our courses. 
 - Students are also encouraged to carry out an **industrial and research internship abroad** under the supervision of the Internship Coordinator.
+
+https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_52364422.htm#activetab=voorwaarden_1
+**Additional requirements**
+We ask you to submit two extra documents with your application:  
+1.  **Summary of Key Application Data**: We request [this document](https://eng.kuleuven.be/en/study/masters/master-of-engineering-computer-science/applications/mcs-form-2.docx) in order to obtain more information about your previous study program(s) and the courses you followed.  
+2.  **Selftest**: We request [this document](https://eng.kuleuven.be/en/study/masters/master-computer-science/applications/selftest-mcs) since we expect you can give correct answers to these kind of questions when applying for our master.  
+
+In order to be considered for admission, applicants are required to submit their GRE score. Please contact [ETS](https://www.ets.org/gre) requesting an original score card to be forwarded to us using the following Institutional Code: 0749. Students who obtained a bachelor’s or a master’s degree in one of the EEA countries, the UK, or Switzerland are exempted from providing GRE scores.
 ##### Advanced Master of Cybersecurity (1 year)
 https://onderwijsaanbod.kuleuven.be/2024/opleidingen/e/SC_56224748.htm#activetab=voorwaarden_1
 
@@ -285,11 +303,12 @@ The Institution Code: 7806, Department: 5199 ("all other departments").
 
 #### 👉 Ludwig-Maximilians-Universität München
 #### 👉 Universität Heidelberg
-#### 👉 KIT, Karlsruhe Institute of Technology
+#### 👉 KIT, Karlsruhe Institute of Technologsy
 #### 👉 RWTH Aachen University
-##### Computer Science M.Sc.
+##### Computer Science M.Sc. (German + English )
 https://www.rwth-aachen.de/go/id/bcfg?lidx=1#aaaaaaaaaaabcfh
-
+##### Computer Engineering M.Eng (English)
+https://www.rwth-aachen.de/go/id/bhgyzl?lidx=1#aaaaaaaaabhgzcs
 #### 👉 Freie Universitaet Berlin
 #### 👉 Humboldt-Universität zu Berlin
 #### 👉 Ruhr-University Bochum
@@ -359,6 +378,9 @@ https://ethz.ch/en/studies/master/application/master-cybsec.html
 
 
 ### 🇳🇱 Netherlands | Holland
+🚪 https://www.studielink.nl/dashboard/home
+
+---
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
 
 荷兰留学H类和U类大学有什么区别？
@@ -442,6 +464,9 @@ This is a Fully funded scholarship for international students that also covers t
 Netherlands universities **offer exemption from IELTS** if you are from English-speaking countries or if you have completed your previous degree from an English medium institute.
 - I have written an article on how to **[Study in Netherlands Universities Without IELTS (2023)](https://link.zhihu.com/?target=https%3A//opportunitiescorners.com/study-in-netherlands-universities-without-ielts/)**
 #### 👉 University of Amsterdam (UvA)
+🚪 https://www.studielink.nl/dashboard/home
+
+---
 https://www.uva.nl/en
 https://vu.nl/en/education/more-about/apply-masters-programme
 ##### Computer Science (joint degree UvA/VU) (2 years)
@@ -456,20 +481,40 @@ https://www.uva.nl/en/programmes/masters/information-studies-information-systems
 https://www.uva.nl/en/programmes/masters/information-studies-data-science/data-science.html?origin=5BOaRAofTjCccATraJp2XA
 
 #### 👉 University of Twente
+🚪 https://www.studielink.nl/dashboard/home
+
+---
+STEP BY STEP: DETAILED APPLICATION PROCESS FOR NON-DUTCH STUDENTS (MSC)
+https://www.utwente.nl/en/education/student-services/upcoming-students/enrolment/Archive/admission/process/?step=echeck&utm_source=application-message&utm_medium=email&utm_campaign=admission-status-visualisatie
 ##### Master of Computer Science
 https://www.utwente.nl/en/education/master/programmes/computer-science/
 - [Cyber Security](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/cyber-security/) 
 - [Data Science & Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/data-science-technology/)
 - [Software Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/software-technology/)
 - [Internet Science & Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/internet-science-technology/)
-#### 👉 TU/e (Eindhoven University of Technology)
-##### Master Program: Computer Science and Engineering
-https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering?_gl=1*2pgqpn*_up*MQ..*_ga*MTcwNzczNjg4My4xNzI4MTYwOTUw*_ga_JN37M497TT*MTcyODE2MDk0OS4xLjEuMTcyODE2MTAzOC4wLjAuMA..
+#### 👉👉 TU/e (Eindhoven University of Technology) 👈👈
+🚪 https://www.studielink.nl/dashboard/home
 
+roadmap
 https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/computer-science-and-engineering-1/country/china
+- materials
+	- https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/documents-for-admission?_gl=1*b6ao6p*_up*MQ..*_ga*MTYyMzI0OTA5Ny4xNzMxODgyNjc2*_ga_JN37M497TT*MTczMTg4MjY3Ni4xLjAuMTczMTg4MjY3Ni4wLjAuMA..
+	- **A concise description of courses from your previous degree(s)**
+		- N.B. this is not your academic transcript, but a description of the courses in your degree program. Usually this entails your Bachelor's degree, but if you are taking or have completed a further degree course, please also provide a description of these courses, if relevant to your application. The description should be concise, but must have sufficient detail to determine whether the combined subject matter of your courses demonstrates eligibility for the Master program. It typically lists 5 to 10 topics or learning objectives treated in each course or subject. You do not have to include all courses or subjects, only the ones which are relevant to evaluate eligibility.
+	- **A summary of your dissertation (in English)**  
+		- This is a summary of the dissertation or thesis you wrote to complete your academic education. It may also be a description of a final year project. If you have completed a Master’s program it may be your thesis. If you have not (yet) written such a document, please upload a short explanation, explaining either that you have not yet completed your dissertation, thesis or final project, or that your university does not require a dissertation, thesis or final project for graduation. This document should be in the English language.
+- ![](../../../../Assets/Pics/Screenshot%202024-11-17%20at%2014.31.57.png)
+	- <small><a>https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/overview-admission-enrollment-process?_gl=1*7dw7d7*_up*MQ..*_ga*MTYyMzI0OTA5Ny4xNzMxODgyNjc2*_ga_JN37M497TT*MTczMTg4MjY3Ni4xLjAuMTczMTg4MjY3Ni4wLjAuMA..</a></small>
+##### Master Program: Computer Science and Engineering (CSE)
+https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering?_gl=1*2pgqpn*_up*MQ..*_ga*MTcwNzczNjg4My4xNzI4MTYwOTUw*_ga_JN37M497TT*MTcyODE2MDk0OS4xLjEuMTcyODE2MTAzOC4wLjAuMA..
+##### Master Artificial Intelligence and Engineering Systems (AIES)
+https://www.tue.nl/en/education/graduate-school/master-artificial-intelligence-and-engineering-systems?_gl=1*1z11o6w*_up*MQ..*_ga*MTI0NTA0ODU0OS4xNzMxODgxMzgy*_ga_JN37M497TT*MTczMTg4MTM4MS4xLjEuMTczMTg4MTQ5Ny4wLjAuMA..
 ##### Research Group: Security (SEC)
 https://www.tue.nl/en/research/research-groups/computer-science/security
 #### 👉 TU Delft
+🚪 https://www.studielink.nl/dashboard/home
+https://www.tudelft.nl/en/student/
+
 ##### MSc Computer Science
 https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science
 Application Info
@@ -484,6 +529,9 @@ Please note: admission for Non-EU nationals with an international (Non-Dutch) ba
 
 There will be no correspondence on ranking criteria or relative ranking numbers.
 #### 👉 Utrecht University
+🚪 https://www.studielink.nl/dashboard/home
+https://www.uu.nl/en/education/studielink
+
 ##### Master of Computing Science
 https://www.uu.nl/en/masters/computing-science
 
@@ -655,6 +703,12 @@ https://www.heinz.cmu.edu/programs/
 - ###### Business Intelligence & Data Analytics (BIDA)
 - ###### Master of Science in Information Security Policy & Management (MSISPM)
 - ###### Master of Information Systems Management (MISM)
+#### 👉 Cornell University
+##### Cornell Tech
+https://tech.cornell.edu
+##### Computer Science M.S. (Ithaca)
+https://gradschool.cornell.edu/academics/fields-of-study/subject/computer-science/computer-science-ms-ithaca/
+
 #### 👉 University of Wisconsin-Madison
 https://grad.wisc.edu/apply/
 ##### Computer Science, MS
@@ -804,6 +858,15 @@ Engineering professionals are encouraged to consider the [Master of Advanced St
 - [Master of Science (MS) Degree Program](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 - [Master of Data Science (MDS) Online Degree Program](http://omds.ucsd.edu/)
 - [Bachelor/Master (BS/MS) Combined Degree Program](https://cse.ucsd.edu/graduate/bachelorsmasters-program)
+#### 👉 University of Southern California (USC)
+🚪 https://usc.liaisoncas.com/applicant-ux/#/programSearch/new
+- ##### Cyber Security Engineering (MS)
+	- https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28709
+	- The Master of Science in Cyber Security Engineering is intended for: a) graduate students who desire to obtain jobs in which computer security knowledge and skills are required; b) graduate students who wish to continue on a path toward enrollment for a doctoral degree focusing on information security; c) individuals in degree programs or job fields that have responsibility for information security.
+- ##### Computer Science (MS)
+- ##### Computer Engineering (MS)
+- ##### Electrical and Computer Engineering (MS)
+- ##### Applied Data Science (MS)
 #### 👉 Purdue University
 ##### Cybersecurity and Trusted Systems /Masters
 https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology
@@ -940,10 +1003,6 @@ https://www.gtsi.edu.cn/apply （天津大学佐治亚理工深圳学院）
 https://www.europe.gatech.edu/en (佐治亚理工欧洲学院)
 
 https://grad.gatech.edu/admissions/international
-##### Cybersecurity (On Campus)
-https://grad.gatech.edu/degree-programs/cybersecurity-campus
-##### Computer Science (On Campus)
-https://grad.gatech.edu/degree-programs/computer-science-campus
 
 **TOEFL Requirements**
 - Institute Code: 5248
@@ -964,6 +1023,11 @@ https://grad.gatech.edu/degree-programs/computer-science-campus
     - General Test: Applicants scores are expected to be at least 153 Verbal, 155 Quantitative, and 3.0 in the Analytical sections
 - **PhD**
     - General Test: Scores are optional
+##### Cybersecurity (On Campus)
+https://grad.gatech.edu/degree-programs/cybersecurity-campus
+##### Computer Science (On Campus)
+https://grad.gatech.edu/degree-programs/computer-science-campus
+##### Computational Science & Engineering (CSE)
 #### 👉 Columbia University in the City of New York
 ##### Computer Engineering
 Computer Engineering: MS
@@ -1113,16 +1177,45 @@ There is also Collaborative Specializations:
 
 
 ## 🧔‍♀️ Asia
+### 🇭🇰 🇲🇴 🌙 CHINA
+http://hk.szrhztc.com/a/794.html
+#### 👉 The University of Hong Kong
+- ##### 修课式研究生
+	- https://admissions.hku.hk/tpg/
+- ##### 研究式研究生
+	- https://gradsch.hku.hk/prospective_students/application/supporting_documents
+##### School of Computing and Data Science
+https://admissions.hku.hk/tpg/faculty/school-computing-and-data-science
+#### 👉 The Chinese University of Hong Kong (CUHK)
+##### The Faculty of Engineering
+https://www.gs.cuhk.edu.hk/admissions/programme/engineering#
+research program /taught programme
+
+https://www.gs.cuhk.edu.hk/admissions/admissions/how-to-apply
+how to apply?
+https://www.gs.cuhk.edu.hk/admissions/admissions/documents-required
+Documents Required
+
+- ###### Computer Science and Engineering
+- ###### Information Engineering
+	- [MPhil-PhD in Information Engineering](https://www.ie.cuhk.edu.hk/programmes/mphil-phd-in-information-engineering/)
+- ###### Systems Engineering and Engineering Management
+
+#### 👉 The Hong Kong University of Science and Technology
+
+#### 👉 City University of Hong Kong
+
+#### 👉 The Hong Kong Polytechnic University
+
+
 ### 🇰🇷 Korea
+#### 👉 Seoul National University
 #### 👉 Korea University
 ##### CCS Lab
 https://ccs.korea.ac.kr/people/
-
-#### 👉 Seoul National University
-
-#### 👉 KAIST
-
 #### 👉 Yonsei University
+#### 👉 KAIST
+https://admission.kaist.ac.kr/intl-graduate
 
 
 ### 🇯🇵 Japan
@@ -1138,17 +1231,21 @@ https://www.1point3acres.com/bbs/thread-931508-1-1.html
 
 ### 🇸🇬 Singapore
 ↗ [Singapore 🇸🇬](../../../../International%20Politics%20&%20Countries'%20Overview/Countries'%20Overview/Singapore%20🇸🇬.md)
-#### 👉 NUS
+#### 👉 National University of Singapore (NUS)
 ##### School of Computing
 https://nusgs.nus.edu.sg/programmes/?faculty=Computing
 
 - M.Sc + Ph.D (Research)
 - Master of Computing (Infocomm Security Specialisation) (Coursework)
-- 
 ##### ISS
 https://nusgs.nus.edu.sg/programmes/?faculty=NUS-ISS
+#### 👉 Nayang Technological University (NTU)
+https://www.ntu.edu.sg/admissions/graduate-programmes?listingKeyword=computing&disciplines=all&programmelevels=master-(research)%7Cmaster&programmetypes=all&page=1
 
-#### 👉 NTU
+Master of Science in Cyber Security (MSCS)
+
+Master of Science in Data Science (MSDS)
+
 
 
 ### 🇸🇦 Saudi Arabia
