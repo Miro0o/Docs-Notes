@@ -148,7 +148,15 @@
 		8. contravalid
 			1. _adj._ 反有效的,无效的
 	14. value
-		1. etc...
+		1. devalue
+			1. [devaluate](dic://devaluate)
+			2.  [depreciate](dic://depreciate), [undervalue](dic://undervalue), [devaluate](dic://devaluate)
+			3. _v._ [degrade](dic://degrade), [cheapen](dic://cheapen), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [decrease](dic://decrease), [diminish](dic://diminish)
+			4. **diminish**使减少;**undermine**在某物下挖洞或挖通道;**degrade**降格;**inflate**使充气;**erode**腐蚀，侵蚀;**weaken**减少;**distort**扭曲;**negate**否定;**invalidate**使无效;**discredit**败坏…的名声;**threaten**威胁;
+			5. It's unfair to devalue anyone's work unjustly. /不公正地贬低任何人的工作都是不公平的。
+			6. I resent the way people seem to devalue my achievement. /人们似乎在贬低我的成就，对此我感到愤慨。
+			7. The Cambodian currency was effectively devalued by 25 per cent /柬埔寨货币实际上贬值了25%。
+		2. etc...
 2. wield
 	1. vt. 使用, 挥舞, 运用
 	2. 来自 PIE*wal,强健，支配，统治，词源同 value,valiant.
@@ -1206,7 +1214,18 @@
 	13. quadrivium, trivium
 	14. weigh (inveigh)
 		1. 1 - 来自 PIE*wegh,承载，运输，词源同 way,vehicle,wagon.引申词义承载，重量。
-		2. weight
+		4. weigh on
+			1. It weighed heavily on every decision he made. /这对他所做的每一个决定都有很大影响。
+			2. Threatening things weigh heavier on our mind than the non-threatening. /有威胁性的东西在我们脑海中的分量比非威胁性的东西更重。
+			3. The pressure that comes with development weighs on these buildings. /发展带来的压力对这些建筑带来了不利影响。
+			4. Finally, employment trends could **weigh** **on** the economy. /最后，就业趋势也是经济不得不考虑的。
+		5. weigh in on
+			1. - 发表意见，参与讨论，表态：指在某个话题上发表意见、参与讨论或表达观点。
+			2. Here, five experts **weigh** **in** **on** what's really worth sharing. /以下是五位专家认为真正值得分享的事情。
+			3. Now, it's the old nature versus nurture debate and our Dr. Sanjay Gupta weighs in on it. /这又回到了究竟是先天使然还是后天养成这个长久以来的辩论话题。本台的桑杰·古普塔医师要来探讨这个问题。
+			4. Today, senators and experts weighed in on the gravity and growing risks of rapidly developing A.I /今天，各位参议员与专家对快速发展的人工智能的严重性以及日益增长的风险发表了意见。
+			5. At that point, you don't really need people to weigh in on your decision. /在这点上，你真的不需要别人来评论你的决定。
+		6. weight
 			1. winter-weight
 			2. weighty, weightiness, weightless
 			3. unweighted, underweight, overweighted,
@@ -1215,9 +1234,9 @@
 			6. makeweight
 			7. letterweight
 			8. deadweight
-		3. weighshaft
-		4. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
-		5. overweigh, outweigh, counterweigh
+		7. weighshaft
+		8. weighman, weighhouse, weigher, weighbridge, weighbeam, weighage, 
+		9. overweigh, outweigh, counterweigh
 11. vogue
 	1. [trend](dic://trend), [style](dic://style)
 	2. [currency](dic://currency)
@@ -2343,47 +2362,63 @@
 		6. unvouched
 		7. avouch, avouchment
 	3. avow, unavowed
-		1. [affirm](dic://affirm), [verify](dic://verify), [assert](dic://assert), [aver](dic://aver), [swan](dic://swan), [swear](dic://swear)
-		2. [avouch](dic://avouch)
-		3. _v._ [declare](dic://declare), [admit](dic://admit), [acknowledge](dic://acknowledge)
-		4. _n._ [disavow](dic://disavow)
-		5. **profess**公开表示;**affirm**断言;**professed**公开声称的,伪称的,已立誓信教的;**declare**宣布，声明;**confess**承认;**proclaim**声明;**denounce**谴责;**renounce**宣布放弃;**assert**断言;**countenance**面容，表情;**unequivocally**不含糊的;
-		6. He avowed that he would never cooperate with them again. /他声明他决不再与他们合作。
-		7. The party’s avowed aim was to struggle against capitalist exploitation /该党公开宣称的宗旨是与资本主义剥削斗争。
-		8. disavow
+		1. - adj. 公开宣布的；公开承认的；公然的 v. 声明（avow 的过去式和过去分词）
+		2. [affirm](dic://affirm), [verify](dic://verify), [assert](dic://assert), [aver](dic://aver), [swan](dic://swan), [swear](dic://swear)
+		3. [avouch](dic://avouch)
+		4. _v._ [declare](dic://declare), [admit](dic://admit), [acknowledge](dic://acknowledge)
+		5. _n._ [disavow](dic://disavow)
+		6. **profess**公开表示;**affirm**断言;**professed**公开声称的,伪称的,已立誓信教的;**declare**宣布，声明;**confess**承认;**proclaim**声明;**denounce**谴责;**renounce**宣布放弃;**assert**断言;**countenance**面容，表情;**unequivocally**不含糊的;
+		7. He avowed that he would never cooperate with them again. /他声明他决不再与他们合作。
+		8. The party’s avowed aim was to struggle against capitalist exploitation /该党公开宣称的宗旨是与资本主义剥削斗争。
+		9. But the Holy See looks more problematic, despite Pope Francis's avowed intention of overhauling its tangled finances. /但罗马教廷的问题似乎更多，尽管教皇方济各公开表示有意整顿其错综复杂的财政问题。
+		10. A rotation of this kind seems alone a sufficient security against any practices which cannot be avowed. /这种轮换似乎足以防止任何不能公开的做法。
+		11. It is my avowed hope that soon I may find a mistress for it. /我真心的希望能尽快 给我的牧师住宅找到一位女主人。
+		12. disavow
 			1. _v._ [deny](dic://deny)
 			2. _n._ [avow](dic://avow), [avouch](dic://avouch)
 			3. **denounce**谴责;**renounce**宣布放弃;**condemn**判刑，定罪;**endorse**赞同;**deny**否定，否认;**reject**拒绝;**affirm**断言;**discredit**败坏…的名声;**acknowledge**承认;**refute**反驳，驳斥;**retract**缩回;
 			4. I deny ,disaffirm ang disavow that. /否决否认以及否定。
-		9. disavowal
-		10. avowry
-		11. avowed, avowant, avowedly
-		12. avowal, avowable
-	4. avocation, avocational
-		1. _n._ [pastime](dic://pastime), [interest](dic://interest), [pursuit](dic://pursuit)
-		2. **vocation**职业;**hobby**嗜好;**profession**职业;**pursuits**追求;**pastime**娱乐，消遣;**hobbies**嗜好;**endeavor**努力;**passion**激情;**pursue**追求;**career**事业，职业;**pursuit**追求;
-	5. advocate, advocator
-		1. [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent)
-		2. [counsel](dic://counsel), [counselor](dic://counselor), [counsellor](dic://counsellor), [counselor-at-law](dic://counselor-at-law), [pleader](dic://pleader)
-		3. [recommend](dic://recommend), [urge](dic://urge)
-		4. [preach](dic://preach)
-		5. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [lawyer](dic://lawyer)
-		6. _v._ [propose](dic://propose), [suggest](dic://suggest), [advise](dic://advise), [urge](dic://urge), [urge on](dic://urge on), [press](dic://press), [exhort](dic://exhort)
+		13. disavowal
+		14. avowry
+		15. avowed, avowant, avowedly
+		16. avowal, avowable
+	5. avocation
+		1. - n. 副业；业余爱好；嗜好
+		2. _n._ [pastime](dic://pastime), [interest](dic://interest), [pursuit](dic://pursuit)
+		3. **vocation**职业;**hobby**嗜好;**profession**职业;**pursuits**追求;**pastime**娱乐，消遣;**hobbies**嗜好;**endeavor**努力;**passion**激情;**pursue**追求;**career**事业，职业;**pursuit**追求;
+		4. But within the aviator's avocation, gambling, many aviators avouched Dan would fail. /但在飞行员的业余爱好打赌中，许多人断言丹会失败。
+		5. Spend time on avocations and professional pursuits that are not just what you do regularly. /把时间花在业余爱好和专业追求上，而不仅仅是您经常做的事情。
+		6. avocational
+	6. advocate, advocator
+		1. v. 拥护，提倡 
+		2. n. 拥护者，提倡者；辩护律师；（为某一类人）谋利益者；（一项事业或个组织的）工作者
+		3. [advocator](dic://advocator), [proponent](dic://proponent), [exponent](dic://exponent)
+		4. [counsel](dic://counsel), [counselor](dic://counselor), [counsellor](dic://counsellor), [counselor-at-law](dic://counselor-at-law), [pleader](dic://pleader)
+		5. [recommend](dic://recommend), [urge](dic://urge)
+		6. [preach](dic://preach)
+		7. _n._ [person](dic://person), [individual](dic://individual), [someone](dic://someone), [somebody](dic://somebody), [mortal](dic://mortal), [soul](dic://soul), [lawyer](dic://lawyer)
+		8. _v._ [propose](dic://propose), [suggest](dic://suggest), [advise](dic://advise), [urge](dic://urge), [urge on](dic://urge on), [press](dic://press), [exhort](dic://exhort)
 			1. [attorney](dic://attorney) 主要用于美国，指代理当事人处理遗嘱检验等法律事务的律师，有时可与lawyer通用，泛指辩护律师。  
 			2. [lawyer](dic://lawyer) 普通用词，指精通法律规则并有权以法律代理人或顾问身份在法庭上执行法律或为委托人服务的人。  
 			3. [counsel](dic://counsel) 指单独或集体为当事人提供咨询或出庭处理案件的法律顾问或律师。  
 			4. [advocate](dic://advocate) 专指以罗马法律的基本法制的一些国家的(如苏格兰等)和一些特别法庭的律师；也可指出庭辩护的律师。
 			5. **proponent**支持者,拥护者;**advocacy**拥护;**supporter**支持者;**campaigner**从军者,出征者,竞选者;**activist**积极分子;**educator**教师;**outspoken**直言的;**tireless**不疲劳的;**ardent**热情的;**staunch**坚固的;**environmentalist**环境保护论者, 人类生态学者;
-	6. multivocal
+	8. multivocal
 		1. adj. 多义的；意义暧昧的；吵闹的
-	7. convoke
+	9. convoke
 		1. [convene](dic://convene)
 		2. _v._ [summon](dic://summon)
 		3. **convene**召集，集合;**summon**召唤;**summoned**传唤;**convened**集合;**appoint**任命;**preside**主持，担任会议主席;**plenary**全体出席的;**compel**强迫，迫使;
-		4. convocation
+		4. In a little while it became the master of the popular convention convoked in September, 1792. /不久之后，它就成为了 1792 年 9 月召开的民众大会的主人。
+		5. The king **convoke** parliament to cope with the impending danger. /国王召开国会以应付迫近眉睫的危险。
+		6. **Convoke** is a static ability that lets you tap your creatures to help pay for other spells. /召集属于静止式异能，能让你借由横置自己的生物来协助支付其它咒语的费用。
+		7. convocation
 			1. _n._ [gathering](dic://gathering), [assemblage](dic://assemblage), [assembly](dic://assembly)
 			2. **commencement**开始, 开端;**plenary**全体出席的;**ceremony**典礼，仪式;**graduation**毕业;**symposium**讨论会, 专题报告;**seminar**讨论会，研讨班;**university**大学;**dean**院长;**inauguration**就职典礼;**lecture**演讲;**semester**学期;
-	8. provoke
+			3. We declared ourselves for the immediate convocation of the meeting. /我们主张立即召开这个会议。
+			4. As you may recall, in August of 2020, our new student convocation took place virtually. /你们可能还记得，2020 年 8 月，我们的新生开学仪式是以线上形式举行的。
+			5. The principles are to be used for new student orientations, educator training and special campus gatherings called convocations. /这些原则将被用于新生入学培训、教育工作者培训和名为集会的特殊校园会议。
+	10. provoke
 		1. [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [evoke](dic://evoke), [fire](dic://fire), [raise](dic://raise)
 		2. [evoke](dic://evoke), [call forth](dic://call forth), [kick up](dic://kick up)
 		3. [stimulate](dic://stimulate)
@@ -2414,20 +2449,21 @@
 			9. It is at this point that the book becomes provocative./ 正是在这一点上，这本书变得有争议性。
 			10. That question has never been more pressing, or more provocative. /这个问题从未像现在这样不容忽视，也从未像现在这样引人深思。
 		13. provocation, provocateur
-	9. invoke (implore, entreat, )
-		1. 1 - in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引，提及。
-		2. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down), [arouse](dic://arouse), [bring up](dic://bring up), [put forward](dic://put forward), [call forth](dic://call forth)
-		3.  [appeal](dic://appeal)
-		4. _v._ [make](dic://make), [create](dic://create), [mention](dic://mention), [advert](dic://advert), [bring up](dic://bring up), [cite](dic://cite), [name](dic://name)
-		5. **invocation**祈祷,乞求;**evoke**引起，唤起;**conjure**变戏法;**override**推翻;**summon**召唤;**assert**断言;**initiate**开始，创始;**compel**强迫，迫使;**declare**宣布，声明;**elicit**引出, 探出;**attribute**把…归因于;
-		6. invoke the veto in the dispute /在辩论中行使否决权
+	11. invoke (implore, entreat, )
+		1.  (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
+		2. 1 - in-,进入，使，-vok,说，祈求，词源同 voice,evoke.即召唤神灵，祈求神灵，引申词义援引，提及。
+		3. [raise](dic://raise), [conjure](dic://conjure), [conjure up](dic://conjure up), [evoke](dic://evoke), [stir](dic://stir), [call down](dic://call down), [arouse](dic://arouse), [bring up](dic://bring up), [put forward](dic://put forward), [call forth](dic://call forth)
+		4.  [appeal](dic://appeal)
+		5. _v._ [make](dic://make), [create](dic://create), [mention](dic://mention), [advert](dic://advert), [bring up](dic://bring up), [cite](dic://cite), [name](dic://name)
+		6. **invocation**祈祷,乞求;**evoke**引起，唤起;**conjure**变戏法;**override**推翻;**summon**召唤;**assert**断言;**initiate**开始，创始;**compel**强迫，迫使;**declare**宣布，声明;**elicit**引出, 探出;**attribute**把…归因于;
+		7. invoke the veto in the dispute /在辩论中行使否决权
 		8. invoke economic sanctions /实行经济制裁
 		9. invoke emergency powers. /求助紧急备用部队。
 		10. She invoked their help. /她恳求他们帮忙。
-		12. invocatory
+		11. invocatory
 			1. _adj._ 祈求的,祈愿的
-		13. invocation
-	10. revoke
+		12. invocation
+	13. revoke
 		1. re-向后，往回 + vok-=voc-说话 → 引申词义撤消，废除。
 		2. vt. 撤回, 废除  
 		3. vi. 藏牌  
@@ -2452,7 +2488,7 @@
 			7. an irrevocable step. /决定性的一步。
 			8. We usually go for the irrevocable one, it's the most popular /我们通常选择不可撤销的那种，它是用得最多的。
 			9. A recognition of irrevocable change in the very public deadness of the deceased. /承认死者在公共死亡方面发生不可逆转的变化。
-	11. evoke
+	14. evoke
 		1.  [arouse](dic://arouse), [elicit](dic://elicit), [enkindle](dic://enkindle), [kindle](dic://kindle), [fire](dic://fire), [raise](dic://raise), [provoke](dic://provoke)
 		2.  [provoke](dic://provoke), [call forth](dic://call forth), [kick up](dic://kick up)
 		3.  [educe](dic://educe), [elicit](dic://elicit), [extract](dic://extract), [draw out](dic://draw out)
@@ -2466,14 +2502,14 @@
 		11. songs that evoke old memories. /唤起往日回忆的歌曲
 		12. evoke a spirit from the dead /为死者招魂
 		13. evocatory, evocator, evocative,, evocation
-	12. equivocate (prevaricate, equivocate, )
+	15. equivocate (prevaricate, equivocate, )
 		1. _v._ [misinform](dic://misinform), [mislead](dic://mislead)
 		2. **refute**反驳，驳斥;**denounce**谴责;**misunderstand**误会, 误解;**disingenuous**不真诚的;**criticize**评论, 批评;**exaggerate**扩大, 增加;**contradict**矛盾;**rationalize**使合理化;**condemn**判刑，定罪;**confuse**使混乱;**concede**承认;
 		3. _[equivocate](dic://equivocate)_  vi. 说模棱两可的话；支吾， 躲闪；推诿；含糊其词
 		4. didn't equivocate about her real purpose in coming; /关于她来访的真正目的不编造假词；
 		5. Dude, don't equivocate. A theory only becomes a theory after withstanding rigorous testing. You slept through class, didn't you? /兄弟，不要含糊其词。理论只有经过了严厉的考验才能成为一个理论。你刚刚课上睡觉了，是吗？
 		6. We're equivocating over what this kid believes? /我们在他的信仰上含糊其辞吗？
-		7. equivocal (ambivalent, forked, double, evasive, indeterminate, ambiguous, vague, )
+		7. equivocal (ambivalent, forked, double, evasive, indeterminate, ambiguous, vague, prevaricate, equivocal)
 			1. _adj._ [double](dic://double), [forked](dic://forked), [evasive](dic://evasive), [indeterminate](dic://indeterminate), [questionable](dic://questionable), [inconclusive](dic://inconclusive)
 			2. _n._ [unequivocal](dic://unequivocal), [univocal](dic://univocal), [unambiguous](dic://unambiguous), [unquestionable](dic://unquestionable), [conclusive](dic://conclusive)
 			3. **ambiguous**模棱两可的;**inconclusive**非决定性的;**unequivocal**只有一种含意的;**conclusive**令人信服的,确凿的;**ambivalent**对某物、某人或某境况具有或显示矛盾情感的;**contradictory**矛盾的;**suggestive**提示性的;**paradoxical**似是而非的 矛盾的 诡论的;**unambiguous**不含糊的;**doubtful**可疑的;**uncertain**不确定的;
@@ -2503,20 +2539,20 @@
 			1. _[equivoque](dic://equivoque)_  n. 双关语；措辞含糊（等于equivoke）
 		13.  equivoke
 		14. _[equivoke](dic://equivoke)_  n. 双关语（模棱两可的话）
-	13. semivocal
+	16. semivocal
 		1. _[semivocal](dic://semivocal)_ 半元音的; 半圆音的; 半圆音;
-	14. subvocal
-	15. univocal
+	17. subvocal
+	18. univocal
 		1. admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
 			1. an unequivocal (or univocal) statement
 			2. _synonymous：_ [unequivocal](dic://unequivocal), [unambiguous](dic://unambiguous)
 		2. _adj._ [absolute](dic://absolute), [conclusive](dic://conclusive), [straightforward](dic://straightforward), [unquestionable](dic://unquestionable)
 		3. **paradoxical**似是而非的 矛盾的 诡论的;**unambiguous**不含糊的;**dogmatic**教条的;**categorical**绝对的,无条件的,断言的,确信无疑的,明确的;**unequivocal**只有一种含意的;**deterministic**确定的;**contradiction**矛盾;**normative**标准的;**ontology**本体论;**ambiguous**模棱两可的;**metaphysical**形而上学的,纯粹哲学的,超自然的;
 		4. The main norm to follow is the **univocal** characteristic, and all is guided by the theory of the modern linguistics. /术语规范化应遵循的主要标准是术语的单义性，并在规范化过程中以现代语言学理论为指导。
-	16. vocable
-	17. vocabulary
-	18. vocal
-	19. vocation
+	19. vocable
+	20. vocabulary
+	21. vocal
+	22. vocation
 		1. voc-声音 + -ation名词后缀 → [受到]召唤 → 有职业。
 		2.  来自拉丁语 vocare,说，呼唤，词源同 voice,vow.原义为灵魂的召唤，引申词义职业。词义演变参照 calling,召唤，使命感，职业。
 		1. [career](dic://career), [calling](dic://calling)
@@ -3322,7 +3358,7 @@
 		5. divarication
 	8. invariant
 	9. prevaricate (prevaricate, equivocate, )
-		1. (ambivalent, forked, double, evasive, indeterminate, ambiguous, vague )
+		1. (ambivalent, forked, double, evasive, indeterminate, ambiguous, vague, prevaricate, equivocal)
 		2. vi. 支吾其辞, 搪塞
 		3. - vi. 搪塞；支吾其辞，闪烁其辞
 		4. pre-预先 + var-变化 + -ic + -ate, 表动词 → 预先想好了变化之词 → 说谎。
@@ -3517,7 +3553,40 @@
 			5. _aeration zone_ 饱气带；含气层；曝气区；通气带
 			6. _aeration basin_ 曝气池；曝气塘；通气池
 	13. air
-	14. aery
+		1. _n._ [gas](dic://gas), [travel](dic://travel), [traveling](dic://traveling), [travelling](dic://travelling), [region](dic://region), [part](dic://part), [medium](dic://medium)
+		2. _v._ [expose](dic://expose), [publicize](dic://publicize), [publicise](dic://publicise), [bare](dic://bare), [tell](dic://tell), [dry](dic://dry), [dry out](dic://dry out)
+		3. _adj._ [aerial](dic://aerial), [flying](dic://flying), [free-flying](dic://free-flying)
+		4. [atmosphere](dic://atmosphere) 指围绕有的星球，特别是围绕地球的空气，即大气层。也可指环境气氛。  
+		5. [air](dic://air) 指空气，也泛指一般气体。  
+		6. [gas](dic://gas) 指气态物，尤指供燃烧取暖或照明的气体，其中一部分称作瓦斯。
+		7. **breath**呼吸，气息;**breathe**呼吸;**airflow**气流;**airborne**空运的;**conditioning**条件作用;**airways**航空公司;**conditioner**护发素，护发剂;**pollution**污染, 弄脏;**water**水;**oxygen**氧气，氧;**pollutants**污染物质;
+		8. _in the air_ 在空中；悬而未决；在流传中；不设防
+		9. _air conditioning_ 空调；空气调节
+		10. _air pollution_ 大气污染，空气污染
+		11. _by air_ 乘飞机；通过航空途径
+		12. _air ticket_ 机票
+		13. _fresh air_ 新鲜空气
+		14. _air force_ 空军
+		15. _air conditioner_ n. 空调设备；空气调节机
+		16. _air flow_ 气流；空气流量；空气流向
+		17. _air temperature_ 气温，空气温度
+		18. _hot air_ 吹牛；大话
+		19. _air pressure_ 气压；风压
+		20. _air compressor_ 空气压缩机
+		21. _on the air_ 在广播，广播中
+		22. _compressed air_ 压缩空气
+		23. _air transport_ 航空运输
+		24. _air condition_ 空调，空气调节设备
+		25. _on air_ （无线电）广播的；送风期
+		26. _air defense_ n. 防空
+		27. _air traffic_ 空中交通，航空运输；飞航
+		28. out of thin air
+			1. - 突然出现：用于表示某人或某物突然而意外地出现。
+			2. They can literally create water out of thin air. /他们“无中生有”地创造了水。
+			3. And so is this, completely synthesized out of thin air by computers. /这也是，完全是电脑凭空合成的。
+			4. All of that energy is turned into food, quite literally out of thin air. /所有这些能量都转化成了营养完全是“无中生有”。
+			5. 
+	33. aery
 		1. 1. n. 高巢；高处的城堡；高处的房子（等于aerie）adj. 天空中的；飘渺的
 		2. [aerie](dic://aerie), [eyrie](dic://eyrie), [eyry](dic://eyry)
 		3. [aerie](dic://aerie), [eyrie](dic://eyrie), [eyry](dic://eyry)
@@ -3529,7 +3598,7 @@
 		9. Sounds like **aery** bad cold /听起来像很严重的感冒。
 		10. In order to be a good salesman, you need **aery** thick skin. /想作一个好的推销员必须厚脸皮。
 		11. The **aery** but vain felling have no, saving only of that continues to long for to also become memory. /飘渺而虚幻的感觉没有了，仅存的那点依恋也成为记忆。
-	15. aura
+	34. aura
 		1. 1 - 词源同 air.指人身上所流露出来的一种微妙的东西，类似我们所说的气场。
 		2. [aureole](dic://aureole), [halo](dic://halo), [nimbus](dic://nimbus), [glory](dic://glory), [gloriole](dic://gloriole)
 		3. [air](dic://air), [atmosphere](dic://atmosphere)
@@ -3538,7 +3607,7 @@
 		6. the ceremony retains an aura of mystery. /仪式保留着一种神秘气氛。
 		7. The woods have an aura of mystery /林子里有一种神秘的气氛。
 		8. An aura of defeat pervaded the candidate's headquarters /失败的氛围笼罩着候选者总部
-	16. meteor
+	35. meteor
 		1. n. 流星, 大气现象
 		2. 1 - 来自希腊语 ta meteora,天体现象，天空之上，来自 meta-,在上，-eora,空中的，词源同 air.引申词义气象。后特别用于指流星，可能因流星比较有代表性。其原义见：aerial meteors,风；aqueous meteors,雨；luminous meteors,极光；igneousmeteors,流星。
 		3.  [shooting star](dic://shooting star)
@@ -3553,14 +3622,14 @@
 		12. meteorophobia
 		13. meteoroid
 		14. meteoric
-	17. soar
+	36. soar
 		1. n. 高扬, 翱翔  vi. 往上飞舞, 高耸, 翱翔
 		2. s=ex-是前缀“向外” + -ar与单词air（空气，天空）同源；该词本义为“向外升至空中”。
 		3. soaring
 		4. soarer
 		5. soaraway
 		6. outsoar
-2. **aort-** 表示“主动脉”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
+21. **aort-** 表示“主动脉”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
 	1. aorta
 		1. n. 主动脉
 		2. aortas
@@ -3575,8 +3644,8 @@
 		7. aorticorenal
 			1. 主动脉[与]肾的
 			2. aortic【a. 主动脉的】 + ren-肾 + -al
-3. **arter-** = pipe, 表示“管道”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
-4. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
+22. **arter-** = pipe, 表示“管道”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
+23. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
 	1. malaria
 		1. n. 疟疾, 瘴气
 		2. malaria（疟疾）：由脏空气引发的疾病  
@@ -3589,7 +3658,7 @@
 		9. There's still a high incidence of malaria in the area. /这一地区疟疾的患病率仍然很高。
 		10. Malaria is a kind of serious malady /疟疾是一种严重的疾病。
 		11. The vast majority of people really only develop either mild malaria or even asymptomatic infections. /绝大多数人只会感染轻度疟疾，或甚至不会出现任何症状。
-5. aria
+24. aria
 	1. n. 独唱特写镜头, 咏叹调
 	2. aria - 此系音乐术语，指“咏叹调”，18世纪上半叶直接借自意大利语，在意大利语中有“曲调”、“空气”等义，相当于英语的air。据说英语中有四分之三音乐术语借自或源于意大利语，诸如violin（小提琴），opera（歌剧），tempo（拍子），duet（二重唱），sonata（奏鸣曲），concerto（协奏曲）。
 	3. _n._ [song](dic://song), [vocal](dic://vocal)

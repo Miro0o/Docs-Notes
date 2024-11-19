@@ -2402,6 +2402,15 @@
 		25. You're lucky, I didn't torch your car. /我没有烧你的车，已经算你走运了。
 		26. He takes his torch and runs to the basement /他带上他的手电筒，跑到地下室去了
 		27. Trumpkin took the torch and went ahead into the dark tunnel /杜鲁普金接过火把，领头向黑暗的通道走去。
+		28. blowtorch
+			1. _n._ [burner](dic://burner)
+			2. **torch**火把，火炬;**chainsaw**用链锯割,肢解;**torches**点火器;**burns**络腮胡子;**tongs**夹具;**screwdriver**螺丝起子;**burn**燃烧;**knife**刀;**burning**燃烧的;**welder**焊接工;**fire**火;
+			3. Somebody even tried to kill it with a blowtorch once. /有人甚至想要用喷灯来杀死他们。
+			4. So, what I'm doing is taking a blowtorch to just the top and it's just gonna be like grilling that cheese. /所以，我现在要做的是用喷灯烧一下奶酪顶部，就像烤奶酪一样。
+			5. That blowtorch caused the building to collapse. /是喷嘴导致了大楼倒塌。
+			6. A windstorm whipped California and Oregon earlier this month, turning valleys into blowtorches. /本月早些时候， 一场风暴席卷了加利福尼亚和俄勒冈州， 将山谷变成了喷灯。
+			7. " Things looked phenomenal because of the mild weather and the showers we were able to catch, but then August 1st, it's like a blowtorch showed up." /“情况看起来不错，因为天气温和，还有下雨，但到了8月1日就出现了骄阳。”
+			8. They vaporise the mercury using a **blowtorch**, leaving gold behind. /他们用喷灯蒸发水银，留下金子。
 	4. torture
 		1. torture： ['tɔrtʃɚ] vt. 折磨；拷问；歪曲n. 折磨；拷问；歪曲 
 		2. [anguish](dic://anguish), [torment](dic://torment)

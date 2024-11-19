@@ -4178,15 +4178,16 @@
 		2. [consequence](dic://consequence), [moment](dic://moment)
 		3. **export**输出，出口;**importation**进口;**exports**出口商品;**exporter**输出国;**tariffs**关税;**excise**货物税;**shipment**装货;**tariff**关税表;**customs**海关;
 		4. importune
-			1. - v. 再三要求，纠缠； （指妓女或男妓）招揽（客人）
-			2. **earnestly**认真地;**compel**强迫，迫使;**beg**恳求;**oblige**强制;**plead**辩护;**persuade**说服，劝说;**seduce**引诱;**amuse**使发笑;**solicit**恳求, 请求, 乞求;**harass**使烦恼;**dissuade**劝阻，劝止;
-			3. [beg](dic://beg), [implore](dic://implore), [pray](dic://pray)
-			4. Why do you importune me about her! /你为什么要纠缠我她！
-			5. It amazes me, I confess; -- for certainly, there can be nothing so advantageous to them as instruction. But I will no longer importune my young cousin. /因为对她们最有利益的事情，当然莫过于圣哲的教训。可是我也不愿意勉强我那年轻的表妹。”
-			6. 
-			7. importunity
-			8. importunate
-				1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
+			1.  (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
+			2. - v. 再三要求，纠缠； （指妓女或男妓）招揽（客人）
+			3. **earnestly**认真地;**compel**强迫，迫使;**beg**恳求;**oblige**强制;**plead**辩护;**persuade**说服，劝说;**seduce**引诱;**amuse**使发笑;**solicit**恳求, 请求, 乞求;**harass**使烦恼;**dissuade**劝阻，劝止;
+			4. [beg](dic://beg), [implore](dic://implore), [pray](dic://pray)
+			5. Why do you importune me about her! /你为什么要纠缠我她！
+			6. It amazes me, I confess; -- for certainly, there can be nothing so advantageous to them as instruction. But I will no longer importune my young cousin. /因为对她们最有利益的事情，当然莫过于圣哲的教训。可是我也不愿意勉强我那年轻的表妹。”
+			7. 
+			8. importunity
+			9. importunate
+				1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
 				2. - adj. 再三要求的，纠缠不休的；无理的；坚持的；令人烦恼的
 				3. _adj._ [beseeching](dic://beseeching)
 				4. _n._ [imperative](dic://imperative)
@@ -4196,13 +4197,13 @@
 				8. During that long, long journey in the taxed cart, there was time for all the conjectures of importunate fear and struggling hope. /在那辆被征税的马车上那漫长而漫长的旅程中，有时间让所有的猜测都充满了恐惧和挣扎的希望。
 				9. 
 			10. importunately
-		5. reimport
-		6. importer, importer-exporter
-		7. importee
-		8. importation
+		6. reimport
+		7. importer, importer-exporter
+		8. importee
+		9. importation
 			1. reimportation
 			2. nonimportation
-		9. important
+		10. important
 			1. **vitally**紧要地;**crucial**决定性的;**vital**生死攸关的;**essential**基本的;**importance**重要;**valuable**贵重的;**most**最;**key**钥匙;**paramount**最高的, 至上的;**pivotal**关键的;**critical**批评的，爱挑剔的;
 			2. [crucial](dic://crucial), [essential](dic://essential), [alpha](dic://alpha), [beta](dic://beta)
 			3. unimportant
@@ -4211,11 +4212,11 @@
 			5. importantly
 			6. all-important
 				1. **crucial**决定性的;**vital**生死攸关的;**essential**基本的;**requisite**必要的事物;**important**重要的, 重大的;**vitally**紧要地;**key**钥匙;**penultimate**倒数第二的;**pivotal**关键的;**final**最终的;**decisive**决定性的;
-		10. importance
+		11. importance
 			1. unimportance
 			2. self-importance
-		11. importable
-		12. importability
+		12. importable
+		13. importability
 	8. jetport
 	9. purport, purported
 		1. pur-向前 + port-含有，承载，引申词义自称，标榜等。
@@ -9584,13 +9585,21 @@
 	10. The child has skinny, freckled legs with prominent knees /那孩子的腿很瘦，长有斑痕，膝盖突出”。
 	11. Various chloasma, cyasma, black spot, sun spot, low-grade peeling spot, various biogliph, anti-sallow, desalinate the low-grade freckle , and those have symptoms of melanin formation. /各种黄褐斑，蝴蝶斑，妊娠斑，黑斑，晒斑，轻度换肤斑，各种印痕，祛黄气，淡化后天性轻度雀斑，以及黑色素沉积症状者。
 	12. And I'm also gonna be showing you how to do the faux freckles. /我也会向大家展示如何画假雀斑。
-	13. freckly
-	14. freckled
+	13. He could have counted the freckles on her nose. /近得他都可以数出她鼻子上的雀斑。
+	14. freckly
+	15. freckled
+		1.  [lentiginous](dic://lentiginous), [lentiginose](dic://lentiginose)
+		2. _adj._ [patterned](dic://patterned)
+		3. _n._ [plain](dic://plain), [unpatterned](dic://unpatterned)
+		4. **blond**金发的;**chubby**圆胖的，丰满的;**redhead**红色头发的人;**haired**有毛发的;**pale**苍白的;**blonde**金发碧眼的;**tanned**被晒成棕褐色的;**wrinkled**具皱的，有皱纹的;**plump**丰满的;**brown**棕色的，褐色的;**bearded**有芒的;
+		5. The child has skinny, freckled legs with prominent knees. /那孩子的腿很瘦，长有斑痕，膝盖突出”。
+		6. The three girls were inseparable—Kivi and Blomma, blonde and freckled, quiet and assured, and their tagalong, Chavisory, a chatterbox who looked no more than five years old. /三个女孩形影不离——齐维和布鲁玛金头发，长雀斑，娴雅镇定，她们的跟屁虫卡维素芮是个看起来不到五岁的话痨子。
 3. sprag
 	1. _n._ [chock](dic://chock), [wedge](dic://wedge), [prop](dic://prop)
 	2. **gearbox**变速箱;**flywheel**飞轮，惯性轮;**clutch**抓住;**axle**车轴;**bushing**套管;**pulley**滑轮;**shifter**移动装置;**gears**齿轮，传动装置;**axles**四轴;**bearings**轴承;**crankshaft**机轴;
 	3. - n. 制轮木；煤面防护柱 
 	4. vt. （在斜坡）用制轮木防止（车辆）滑动；用制轮木支撑（车辆）
+	5. This paper also introduces **sprag** overrunning clutch to be applied in transmission system of rotor aero-craft /还对斜撑超越离合器在直升机传动系统上的应用作了介绍。
 4. spray
 	1.  来自中古荷兰语 sprayen,喷洒，喷射，来自 Proto-Germanic*sprewjan,散开，展开，来自 PIE*sper,播洒，播种，展开，词源同 spark,spread.
 	2. n. 水沫, 浪花, 水花; 喷剂, 喷雾, 喷雾器; 小树枝, 花枝束  
@@ -9616,25 +9625,29 @@
 	22. autospray
 5. sprinkle
 	1. 1 - 来自 PIE*spreg,播，洒，溅，词源同 spark,spread,sperm.-le,表反复。
-	2.  [scattering](dic://scattering), [sprinkling](dic://sprinkling)
-	3. [sprinkling](dic://sprinkling), [sparge](dic://sparge)
-	4.  [scatter](dic://scatter), [dot](dic://dot), [dust](dic://dust), [disperse](dic://disperse)
-	5. [splash](dic://splash), [splosh](dic://splosh)
-	6.  [spit](dic://spit), [spatter](dic://spatter), [patter](dic://patter), [pitter-patter](dic://pitter-patter)
-	7. [sparge](dic://sparge), [besprinkle](dic://besprinkle)
-	8. _n._ [shower](dic://shower), [rain shower](dic://rain shower), [watering](dic://watering)
-	9. _v._ [discharge](dic://discharge), [scatter](dic://scatter), [dot](dic://dot), [dust](dic://dust), [disperse](dic://disperse), [rain](dic://rain), [rain down](dic://rain down)
-	10. **dollop**团，块;**drizzle**下毛毛雨;**spoonful**一匙;**tablespoon**大汤匙,大调羹;**teaspoon**一茶匙的量;**scatter**分散，散开;**liberally**不受限制地,公平地,大方地;**toss**投掷;**rub**擦;**add**加;**garnish**装饰;
-	11. _[sprinkling](dic://sprinkling)_  n. 少量；点滴；喷雾; v. 洒；点缀（sprinkle的现在分词）; 
-	12. _[sprinkled](dic://sprinkled)_  撒
-	13. _[sprinkling irrigation](dic://sprinkling%20irrigation)_  洒灌; [农工] 喷灌;
-	14. fiction with a sprinkle of fact. /含有少量事实的小说作品。
-	15. to sprinkle food with salt /往食物上撒盐
-	16. I sprinkled the floor with water. /我用水洒地。
-	17. put a sprinkle of nuts on the cake /在糕饼上洒了一点果仁
-	18. sprinkle sesame seeds over the top. /在顶上撒芝麻。
-	19. Do me a favour. This must be sprinkled on the chicken /帮我个忙吧，这些必须撒在鸡肉上。
-6. spry
+	2. vt. 洒, 散置, 撒, 点缀  
+	3. vi. 洒, 撒, 下小雨  
+	4. n. 洒, 撒, 散置, 小雨, 少量
+	5.  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony, sprinkle)
+	6.  [scattering](dic://scattering), [sprinkling](dic://sprinkling)
+	7. [sprinkling](dic://sprinkling), [sparge](dic://sparge)
+	8.  [scatter](dic://scatter), [dot](dic://dot), [dust](dic://dust), [disperse](dic://disperse)
+	9. [splash](dic://splash), [splosh](dic://splosh)
+	10.  [spit](dic://spit), [spatter](dic://spatter), [patter](dic://patter), [pitter-patter](dic://pitter-patter)
+	11. [sparge](dic://sparge), [besprinkle](dic://besprinkle)
+	12. _n._ [shower](dic://shower), [rain shower](dic://rain shower), [watering](dic://watering)
+	13. _v._ [discharge](dic://discharge), [scatter](dic://scatter), [dot](dic://dot), [dust](dic://dust), [disperse](dic://disperse), [rain](dic://rain), [rain down](dic://rain down)
+	14. **dollop**团，块;**drizzle**下毛毛雨;**spoonful**一匙;**tablespoon**大汤匙,大调羹;**teaspoon**一茶匙的量;**scatter**分散，散开;**liberally**不受限制地,公平地,大方地;**toss**投掷;**rub**擦;**add**加;**garnish**装饰;
+	15. _[sprinkling](dic://sprinkling)_  n. 少量；点滴；喷雾; v. 洒；点缀（sprinkle的现在分词）; 
+	16. _[sprinkled](dic://sprinkled)_  撒
+	17. _[sprinkling irrigation](dic://sprinkling%20irrigation)_  洒灌; [农工] 喷灌;
+	18. fiction with a sprinkle of fact. /含有少量事实的小说作品。
+	19. to sprinkle food with salt /往食物上撒盐
+	20. I sprinkled the floor with water. /我用水洒地。
+	21. put a sprinkle of nuts on the cake /在糕饼上洒了一点果仁
+	22. sprinkle sesame seeds over the top. /在顶上撒芝麻。
+	23. Do me a favour. This must be sprinkled on the chicken /帮我个忙吧，这些必须撒在鸡肉上。
+6. spry [美 /spraɪ/](cmd://Speak/_us_/spry)
 	1. 可能缩写自 sprightly.
 	2. moving quickly and lightly
 		1. the old dog was so spry it was halfway up the stairs before we could stop it
@@ -9739,16 +9752,17 @@
 		35. befoul
 12. **pur-, pus-, putr-** = foul matter，表示“脓”。源自拉丁语 puter (词干 putri-) "rotten."
 	1. putrefy (putrid, suppurate, putrefy, fester)
-		1. putr-腐败 + -e- + -fy使...，...化。
-		2. v. (使)化脓, (使)腐烂, (使)堕落
-		3. _v._ [decay](dic://decay)
-		4. **rot**腐烂;**rotting**深蚀刻;**decaying**颓坏;**ferment**发酵;**evaporate**蒸发;**flesh**肉体;**corpse**尸体;**dissolve**使溶解;**perish**毁灭;**darken**使模糊;**deteriorate**恶化;
-		5. Undigested protein begins to rot and putrefy in your tummy. /没有被消化的蛋白质会在你的胃里开始腐烂变质。
-		6. He would keep some bodies for days, assaulting them up until the bodies became putrefied. /他会保留一些尸体数天， 不断攻击它们直到尸体腐烂。
-		7. The very rats, which here and there lay putrefying in its rottenness, were hideous with famine. /到处都是腐烂腐烂的老鼠，也因饥荒而变得丑陋不堪。
-		8. putrescence, putrescent
-		9. putrescible
-		10. putrefaction
+		1.  (putrid, suppurate, putrefy, fester, addle)
+		2. putr-腐败 + -e- + -fy使...，...化。
+		3. v. (使)化脓, (使)腐烂, (使)堕落
+		4. _v._ [decay](dic://decay)
+		5. **rot**腐烂;**rotting**深蚀刻;**decaying**颓坏;**ferment**发酵;**evaporate**蒸发;**flesh**肉体;**corpse**尸体;**dissolve**使溶解;**perish**毁灭;**darken**使模糊;**deteriorate**恶化;
+		6. Undigested protein begins to rot and putrefy in your tummy. /没有被消化的蛋白质会在你的胃里开始腐烂变质。
+		7. He would keep some bodies for days, assaulting them up until the bodies became putrefied. /他会保留一些尸体数天， 不断攻击它们直到尸体腐烂。
+		8. The very rats, which here and there lay putrefying in its rottenness, were hideous with famine. /到处都是腐烂腐烂的老鼠，也因饥荒而变得丑陋不堪。
+		9. putrescence, putrescent
+		10. putrescible
+		11. putrefaction
 			1. [rot](dic://rot)
 			2. [decomposition](dic://decomposition), [rot](dic://rot), [rotting](dic://rotting)
 			3. [corruption](dic://corruption), [degeneracy](dic://degeneracy), [depravation](dic://depravation), [depravity](dic://depravity)
@@ -9757,33 +9771,41 @@
 			6. Created by disease, within putrefaction, into decay. /由疾病造成， 在腐烂中进入腐烂。
 			7. **Putrefaction** refers to the breaking down and gradual liquefaction of tissue by bacteria. /腐烂指的是细菌把组织分解掉，并且逐渐使其液化。
 			8. All through my childhood, Kurast was a paradise. The once perfumed air now reeks of **putrefaction**. /我的童年时代，库拉斯特是一个天堂。充满香味的空气现在变成了腐臭的浓烟。
-		11. putrefactive
+		12. putrefactive
 			1. **bacterial**细菌的;**bacteria**细菌;**microbial**微生物的;**anaerobic**厌氧菌的;**microbes**细菌，微生物;**decomposition**分解;**fecal**排泄物的;**pathogenic**引起疾病的;**fermentation**发酵;**intestinal**肠的;**fungal**真菌的
 			2. _adj._ [septic](dic://septic), [infected](dic://infected)
 			3. _[putrefactive spoilage](dic://putrefactive%20spoilage)_ 霉烂
 			4. _[putrefactive organism](dic://putrefactive%20organism)_ 腐败性生物
 			5. _[putrefactive bacterium](dic://putrefactive%20bacterium)_ 腐烂细菌; 腐败细菌; 
 			6. _[putrefactive diarrhea](dic://putrefactive%20diarrhea)_ 腐败性腹泻
-		12. putrid
+		13. putrid
 			1. (putrid, suppurate, putrefy, fester, )
 			2. 来自拉丁语 putrere,发臭，腐烂，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.
 			3. _adj._ [putrefaction](dic://putrefaction), [rot](dic://rot), [rotten](dic://rotten), [corrupt](dic://corrupt)
 			4. _n._ [fresh](dic://fresh), [incorrupt](dic://incorrupt)
 			5. **stench**恶臭;**vile**卑鄙的;**stinking**发恶臭的;**horrid**可怕的;**disgusting**令人厌恶的;**ghastly**可怕的;**smelly**有臭味的，发臭的;**wretched**可怜的;**filthy**污秽的;**stinky**发恶臭的;**atrocious**恶毒的;
-	2. purulence
+	3. purulence
 		1. pur-脓 + -ul + -ence
-		2. purulency
-		3. purulent
-		4. pus
+		2. n. 脓；化脓；含脓；流脓
+		3. [purulency](dic://purulency)
+		4. [pus](dic://pus), [suppuration](dic://suppuration), [ichor](dic://ichor), [sanies](dic://sanies), [festering](dic://festering)
+		5. _n._ [symptom](dic://symptom), [liquid body substance](dic://liquid body substance), [bodily fluid](dic://bodily fluid), [body fluid](dic://body fluid), [humor](dic://humor), [humour](dic://humour)
+		6. **lesion**损害;**edema**瘤腺体;**necrosis**坏死;**mucous**黏液的;**swelling**膨胀;**redness**红色;**mucus**粘液;**hemorrhage**出血;**swollen**肿胀的，浮肿的;**fecal**排泄物的;**infection**传染;
+		7. The product is not suitable for those allergic to it or of external hemorrhage and **purulence** /凡对本产品过敏、外出血及化脓者不宜用本品。
+		8. Two patients presented acutely less than 4 weeks after surgery with frank **purulence** draining from the incision area. /两名患者在术后4周以内就发生了严重的切口部位溢脓。
+		9. purulency
+		10. purulent
+		11. pus
 			1. 1 - 来自拉丁语 pus,脓，疮口，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pustule.
-		5. pustule
+		12. pustule
 			1. - 来自拉丁语 pustula,脓肿，水泡，来自 PIE*pu,膨胀，肿胀，腐烂，腐化，词源同 putrid,pus.-ule,小词后缀。
-	3. suppurate (putrid, suppurate, putrefy, fester, )
+	4. suppurate (putrid, suppurate, putrefy, fester, )
 		1. vi. 生脓, 化脓, 流脓
-		2.  sup-,在下，-pur,脓，来自拉丁语 pus 所有格形式 puris,脓的。
-		3. _v._ [draw](dic://draw), [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
-		4. **sores**褥疮;**ulcer**溃疡;**inflamed**发炎的;**ulcers**溃疡，疡;**necrosis**坏死;**swollen**肿胀的，浮肿的;**swelling**膨胀;**lesion**损害;**cysts**囊;**rot**腐烂;**hemorrhage**出血;
-	4. empyema
+		2. - v. （伤口、疮等）化脓，溃烂；（使）化脓
+		3.  sup-,在下，-pur,脓，来自拉丁语 pus 所有格形式 puris,脓的。
+		4. _v._ [draw](dic://draw), [discharge](dic://discharge), [expel](dic://expel), [eject](dic://eject), [release](dic://release)
+		5. **sores**褥疮;**ulcer**溃疡;**inflamed**发炎的;**ulcers**溃疡，疡;**necrosis**坏死;**swollen**肿胀的，浮肿的;**swelling**膨胀;**lesion**损害;**cysts**囊;**rot**腐烂;**hemorrhage**出血;
+	5. empyema
 13. **pyo-** = pus, 表示“脓”，医学词根。源自希腊语 puon, puos "pus."
 	1. pyorrhoea
 	2. pyaemia
@@ -9796,6 +9818,8 @@
 	4.  [obscenity](dic://obscenity), [smut](dic://smut), [vulgarism](dic://vulgarism), [dirty word](dic://dirty word)
 	5. _n._ [waste](dic://waste), [waste material](dic://waste material), [waste matter](dic://waste matter), [waste product](dic://waste product), [dirtiness](dic://dirtiness), [uncleanness](dic://uncleanness), [unsanitariness](dic://unsanitariness)
 	6. **filthy**污秽的;**stench**恶臭;**disgusting**令人厌恶的;**vile**卑鄙的;**grime**尘垢;**scum**浮渣;**muck**垃圾;**feces**排泄物;**immorality**不道德,无道义;**ugliness**丑陋，丑陋之物;**stinking**发恶臭的;
+	7. the moral panic about ‘the tide of filth’ polluting our land. /“污秽之潮”污染我们国家所引起的道德恐慌。
+	8. You can actually taste the filth that's hanging in the air. /最严重的是你甚至你闻出空气污浊的味道。
 
 
 ### pub-, pubo- = mature, pubic, 表示“成熟的、耻骨、阴部”。源自拉丁语 pubes (属格 pubis) "genital area, groin"。

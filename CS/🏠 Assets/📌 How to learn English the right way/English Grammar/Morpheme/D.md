@@ -4494,17 +4494,17 @@
 	17. subtract
 4. **treat-** = handle, 表示“处理”，是词根 tract- "to draw" 的法语变体。
 	1. entreat
-		1. (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate)
-		2. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
-		3. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。
-		4. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。
-		5. [require](dic://require) 强调根据事业、需要或纪律、法律等而提出的要求。
-		6. [request](dic://request) 正式用词，指非常正式，有礼貌的请求或恳求，多含担心因种种原因对方不能答应的意味。
-		7. [implore](dic://implore) 书面用词，着重指迫切、焦急或痛苦地恳求或哀求，常含较强的感情色彩。
-		8. [claim](dic://claim) 指有权或宣称有权得到而公开提出的要求。
-		9. [pray](dic://pray) 语气庄重，指热情、诚恳和敬祈的要求，现不很常用。
-		10. [entreat](dic://entreat) 泛指一般“恳求或哀求”，含企图说服对方或用热烈的请求软化反对意见的意味。
-		11. **beg**恳求;**earnestly**认真地;**plead**辩护;**persuade**说服，劝说;**compel**强迫，迫使;**thee**你;**doth**从事;**humbly**卑贱地;**pray**祈祷;**oblige**强制;**obliged**感激的;
+		1.  (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
+			1. [ask](dic://ask) 最普通用词，指向对方提出要求或请求，长、晚辈，上下级之间都可使用
+			2. [beg](dic://beg) 指恳切地或再三地请求或要求，常含低三下四意味，也多用于应酬场合。
+			3. [demand](dic://demand) 一般指理直气壮地提出强烈要求，或坚持不让对方拒绝的要求。
+			4. [require](dic://require) 强调根据事业、需要或纪律、法律等而提出的要求。
+			5. [request](dic://request) 正式用词，指非常正式，有礼貌的请求或恳求，多含担心因种种原因对方不能答应的意味。
+			6. [implore](dic://implore) 书面用词，着重指迫切、焦急或痛苦地恳求或哀求，常含较强的感情色彩。
+			7. [claim](dic://claim) 指有权或宣称有权得到而公开提出的要求。
+			8. [pray](dic://pray) 语气庄重，指热情、诚恳和敬祈的要求，现不很常用。
+			9. [entreat](dic://entreat) 泛指一般“恳求或哀求”，含企图说服对方或用热烈的请求软化反对意见的意味。
+		2. **beg**恳求;**earnestly**认真地;**plead**辩护;**persuade**说服，劝说;**compel**强迫，迫使;**thee**你;**doth**从事;**humbly**卑贱地;**pray**祈祷;**oblige**强制;**obliged**感激的;
 	3. maltreat
 		1. [mistreat](dic://mistreat), [abuse](dic://abuse), [ill-use](dic://ill-use), [step](dic://step), [ill-treat](dic://ill-treat)
 		2. **humiliate**蒙羞;**mistreatment**虐待;**injure**伤害，损害;**harass**使烦恼;**neglect**疏忽，忽视;**abuse**滥用;**punish**严厉对待;**kidnap**绑架;**intimidate**恐吓, 威胁;**betray**背叛;**frighten**使惊

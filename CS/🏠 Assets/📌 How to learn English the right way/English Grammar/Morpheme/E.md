@@ -645,23 +645,38 @@
 ### + \*em- + = to take, distribute
 1. **em-, empt-, ampl-** = take, procure, to obtain, buy; latin (emere)
 	1. ademption
-	2. exemplar, exemplary
-		1. **exceptional**优越的, 杰出的;**exemplify**是…的典型;**embodiment**体现;**illustrative**说明的;**admirable**令人钦佩的;**commendable**值得表扬的;**outstanding**突出的;**excellent**优秀的, 卓越的, 杰出的;**impeccable**无瑕疵的;**excellence**优秀;**unsurpassed**未被凌驾的,非常卓越的;
-		2. exemplariness
-		3. exemplarily
-	3. example,
-		1. exemplum
-		2. unexampled
+	2. example,
+		2. exemplum
+		3. unexampled
 			1. _adj._ [unprecedented](dic://unprecedented)
 			2. _n._ [precedented](dic://precedented)
 			3. **splendid**辉煌的;**remarkable**异常的;**astonishing**惊人的;**incomparable**无比的;**extraordinary**非常奇怪的;**unimaginable**不能想象的;**unparalleled**无比的, 无双的, 空前的;**splendor**光彩;**immense**巨大的，广大的;**unprecedented**前所未有的, 无前例的;**unsurpassed**未被凌驾的,非常卓越的;
-		3. exampler
-		4. counterexample
-		5. exemplify, exemplification
-	4. peremptory
-		1. peremptoriness
-		2. peremptorily
-		3. **affirmative**肯定的;**prejudice**成见, 偏见, 歧视;**dismissal**解雇, 免职, 开除;**defiance**蔑视;**deference**顺从;**presumption**推测;**writ**令状;**juror**审查委员，陪审员;**prejudiced**怀偏见的;
+		4. exampler
+		5. counterexample
+		6. exemplify, exemplification
+		7. exemplar, exemplary
+			1. **exceptional**优越的, 杰出的;**exemplify**是…的典型;**embodiment**体现;**illustrative**说明的;**admirable**令人钦佩的;**commendable**值得表扬的;**outstanding**突出的;**excellent**优秀的, 卓越的, 杰出的;**impeccable**无瑕疵的;**excellence**优秀;**unsurpassed**未被凌驾的,非常卓越的;
+		8. exemplariness
+		9. exemplarily
+	3. peremptory
+		1. (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+		2. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+		3. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+		4. 1. _adj._ 断然的,不容置辩的,强制的
+		5. 傲慢的,专横的,独断的
+		6. _adj._ [domineering](dic://domineering), [imperative](dic://imperative), [decisive](dic://decisive)
+		7. _n._ [submissive](dic://submissive), [beseeching](dic://beseeching), [indecisive](dic://indecisive)
+		8. **affirmative**肯定的;**prejudice**成见, 偏见, 歧视;**dismissal**解雇, 免职, 开除;**defiance**蔑视;**deference**顺从;**presumption**推测;**writ**令状;**juror**审查委员，陪审员;**prejudiced**怀偏见的;
+		9. in a peremptory manner /态度专横地
+		10. a peremptory decree. /中止政令
+		11. The teacher spoke in a peremptory tone. /老师以命令的口吻说话
+		12. a swaggering, peremptory manner. /s狂妄自大、过于自信的举止
+		13. there has been no disobedience of a peremptory order of the court. /对法院的强制命令没有不服从的。
+		14. He was so peremptory that I stared at him in surprise. /他如此专横， 我吃惊地盯着他看。
+		15. We'd like to exercise our peremptory challenge. /我们要求这名陪审员无因回避。
+		16. How came you to know her'? he presently asked, in almost a peremptory tone. /你怎么认识她的？ 他马上问道， 语气几乎是专断的。
+		17. peremptoriness
+		18. peremptorily
 	5.  exempt
 		1. tax-exempt
 		2. exemption
@@ -718,8 +733,12 @@
 		22. promptitude
 			1. _n._ [celerity](dic://celerity), [quickness](dic://quickness), [rapidity](dic://rapidity), [rapidness](dic://rapidness), [speediness](dic://speediness)
 			2. **zeal**热心;**boldness**大胆;**bravery**勇敢;**utmost**极限;**sincerity**真实, 诚挚;**propriety**①礼貌,规矩;**eagerness**渴望;**fortitude**坚韧, 刚毅;**vigilance**警觉;**expedient**应急有效的;**foresight**预见, 先见之明;
-		24. prompting
-		25. promptbook
+			3. Mrs. Penniman felt with remarkable promptitude the charm of this formula. /彭尼曼夫人以惊人的速度感受到了这个公式的魅力。
+			4. The next morning there came a letter from her, which, with her usual promptitude, she had written directly she had reached her friend's house. /第二天早上， 她来了一封信， 她一如既往地迅速写信说， 她已到达朋友家。
+			5. A weak, nerveless fool, devoid of energy and **promptitude** /一个衰弱，软弱无力的笨蛋，缺乏敏捷的活力
+			6. Their own **promptitude** in retreating at the critical moment saved them. /他们自己在危急的时刻迅速退却，这才得以避免被歼灭。
+		23. prompting
+		24. promptbook
 2. **sum-, sumpt-** = take, sub-(low) + empt-(buy) 「Latin」sumere, "to take, obtain, buy"
 	1. subsume
 		1. subsumption
@@ -756,16 +775,29 @@
 		3. hardresume
 3. **sumptu-** = expense, 表示“花费”。复合词根，由 sub-（下）+ empt-（买） 组成。源自拉丁语 sumere "to take, obtain, buy."
 	1. sumptuary
+		1. And their ability to outspend them, and so " sumptuary laws" were introduced. /还有他们的消费能力，因此“奢侈法”出台。
 	2. sumptuosity
 	3. sumptuous, (profusion, proliferate, effusive)
+		1. (scrumptious, sumptuous, stupendous, scruple, scrupulous, scrutiny, inscrutable)
 		1. (chic, voguish, posh, swank, smart, stylish, fad, trendy, swish, classy, groovy, glamorous, luxurious, lavish, snazzy, snappy, sleek, nifty, flashy, neat, dandy, smashing, swell, slap-up, peachy, corking, cracking, bang-up, bully, swagger, funky, catchy, plush, sumptuous, deluxe, )
 		2. (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
 		3. sumptu-花费 + -ous形容词后缀 → 拿钱去大把花 → 奢侈的。
 		4.  来自拉丁语 sumptus,购买的，花销的，吃喝的，过去分词格于 sumere,购买，花销，缩写自*sub-emere,来自 sub,向下，emere,买，词源同 assume,assumption,emption.-ous,形容词后缀。后引申词义奢华的，奢侈的。
 		5. **opulent**富裕的;**exquisite**精致的, 精美的;**delectable**令人愉快的;**luxurious**奢侈的;**lavish**浪费的;**luscious**甘美的;**scrumptious**可口的,美味的;**decadent**颓废的;**mouth-watering**流着口水的;**splendid**辉煌的;**lush**丰富的，豪华的;
-		6. 
-		7. sumptuousness
-		8. sumptuously
+		6. The king gave a sumptuous banquet. /国王举行一次奢侈的宴会。
+		7. blew me to a sumptuous dinner. /请我吃了一顿豪华的晚餐
+		8. the banquet was a sumptuous, luxurious meal. /这宴会是一次豪华、奢侈的聚餐。
+		9. The guests turned up dressed in sumptuous evening gowns. /客人们身着华丽的夜礼服出现了。
+		10. The word of art gravure naivety grace, itis sumptuous dofunny, it can reposit for many years. and also have higher collective worth.. /本艺术影雕作品古朴、典雅、是一项豪华艺术装饰品，保存年代长久，有较高艺术收藏价值。
+		11. The mansion in Saville Row, though not sumptuous, was exceedingly comfortable. /赛微乐街的住宅并不富丽堂皇，但却十分舒适。
+		12. He likes big meals, so I cook sumptuous ones. /他喜欢大餐，所以我做了一顿丰盛的。
+		13. Marble columns and balustrades frame a boisterous cast of 130 life-size figures in sumptuous brocade and pearls. /大理石柱子和栏杆上勾勒有130个真人大小的人物，装饰着华丽的锦缎和珍珠。
+		14. " How're we getting to King's Cross tomorrow, Dad? " asked Fred as they dug into a sumptuous chocolate pudding. /“明天我们怎么样去国王十字车站啊，爸爸? ”弗雷德问道，这时大家正在努力吃那块豪华的巧克力布丁。
+		15. " You are sumptuous, opulent, expensive, " her father rejoined /“你很奢侈， 富裕，昂贵，” 她的父亲回答道。
+		16. " Has she a black frock in her sumptuous wardrobe" ? /“她华丽的衣橱里有一件黑色连衣裙吗”？
+		17. These sumptuous rooms are lined with portraits of past dukes. /这些豪华的房间里摆满了过去公爵的画像。
+		18. sumptuousness
+		19. sumptuously
 
 
 ### -eme = unit, 表示“...单位”

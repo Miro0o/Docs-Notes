@@ -134,6 +134,7 @@ about
 - runabout
 	- n. 敞篷小轿车, 流浪者  a. 流浪的
 - roustabout
+	- Hey, there are the little roustabouts. You look like you patched things up pretty good, huh? - Yeah. /嘿，两个壮小伙来了。看来你们和好如初了？-没错。
 - rouseabout
 - roundabout
 	- a. 迂回的, 委婉的  n. 迂回路线
@@ -161,6 +162,7 @@ about
 - about-ship
 	- vi. 改变航向
 - about-face
+	- - n. （思想、态度、行为等）彻底改变；向后转（同 about-turn）
 	- _n._ [reversion](dic://reversion), [reverse](dic://reverse), [reversal](dic://reversal), [turnabout](dic://turnabout), [turnaround](dic://turnaround), [change](dic://change)
 	- v._ [turn](dic://turn), [rethink](dic://rethink)
 	- **abrupt**突然的;**aback**向后;**reversal**逆转;**unequivocal**只有一种含意的;**startling**令人震惊的,惊人的;**stance**姿态;**announcement**通告,布告,通知;**drastic**激烈的;**sudden**突然的，意外的;**unprecedented**前所未有的, 无前例的;**reluctance**不愿意;
@@ -168,8 +170,11 @@ about
 	- _[right about face](dic://right%20about%20face)_  向后转
 	- _[face about](dic://face%20about)_  转过身；向后转
 	- With these parting words lingering in his ears, Corporal Patch saluted, executed a right about face, and left the tent. /耳边回荡着这句离别的话，帕奇下士行了一礼，右转身，离开了帐篷。
+	- This past December, Facebook did an **about-face** on privacy. /刚过去的十二月，Facebook的隐私政策上演大变脸。
+	- Few observers believe the president will do an **about-face** and start spending more /没有几个观察家认为总统将做出彻底改变并开始增加支出。
 
-addle (putrid, suppurate, putrefy, fester, addle)
+addle
+- (putrid, suppurate, putrefy, fester, addle)
 - vt. 使昏乱, 使腐坏  
 - vi. 变质  
 - a. 昏乱的, 腐坏的
@@ -198,16 +203,23 @@ ado
 - _much ado about nothing_ 无事生非；小题大作
 - _without further ado_ 没有再费周折；立即；干脆痛快
 - _with much ado_ 费尽力气
-
+- So without further ado, let’s get on with tonight’s show. /闲言少叙，我们继续今晚的演出吧。
+- My sister always makes much ado about nothing. /我的妹妹老是无事自扰。
+- The servants likewise used me saucily, and had much ado to keep their hands off me. /有几个仆人对我很无礼，要他们的手不碰我是很难的。
+- But, at today's briefing, White House Press Secretary Sarah Sanders said it's much ado about nothing. /但今天在白宫发布会上，白宫新闻秘书萨拉·桑德斯称无需担心。
+ 
 agave
 - - 来自古希腊神话中的女神名，字面意思为高贵的，植物学家以此命名该植物。
 - n. 龙舌兰
 - **tequila**龙舌兰酒;**cacao**可可豆;**sweetener**甜味剂;**coconut**椰子;**cactus**仙人掌;**sugar**糖;**avocado**鳄梨;**honey**蜂蜜;**nectar**花蜜;**liqueur**利口酒;**jalapeno**墨西哥胡椒;
 - [desert plant](dic://desert plant), [xerophyte](dic://xerophyte), [xerophytic plant](dic://xerophytic plant), [xerophile](dic://xerophile), [xerophilous plant](dic://xerophilous plant)
 - [century plant](dic://century plant), [American aloe](dic://American aloe)
+- Mezcal; Most bottles contain a blue agave root worm /麦斯克酒；很多麦斯克酒中都有一只龙舌兰幼虫。
+- Both the filtrate and the dialyzate of agave pollen can activate the enzyme, thus proving that there was activating substance of the thiol group in agave pollen. /无论是剑麻花粉的滤液还是透析液,都能使剑麻蛋白酶激活,证实剑麻花粉中含有巯基激活物质
+- We've also got agave, honey, and maple as well, as a comparison. /我们也有龙舌兰，蜂蜜和枫树糖浆，作为对比。
 
 albeit
-- - conj. 虽然，尽管
+- conj. 虽然，尽管
 - clear albeit cold weather /虽然天冷但仍很晴朗
 - It is a pretty story, albeit a trifle naif. /这故事虽说有点幼稚简单，却颇为有趣。
 - Albeit fair, the girl was not sought after /那姑娘虽然漂亮，但不是被爱慕的女子。
@@ -271,13 +283,23 @@ all
 	- She likes that it makes hermouth messy and foamy and that she can swish and spit to get it allout /她喜欢这样子的满嘴泡沫，也能漱口将所有的吐光。
 - all-or-nothing
 - all-or-none
+	- _adj._ [complete](dic://complete)
+	- _n._ [incomplete](dic://incomplete), [uncomplete](dic://uncomplete)
+	- **deterministic**确定的;**stochastic**随机的;**probabilistic**盖然论的,或然说的;**categorical**绝对的,无条件的,断言的,确信无疑的,明确的;**intrinsic**固有的, 内在的, 本质的;**neuronal**神经元的;**neuron**神经元，神经单位;**irreversible**不可逆转的;
+	- This stage of learning is not all or none; rather, it is usually gradual. /这一阶段的学习不是全部或没有，而是通常是渐进的。
 - all-night
 - all-mains
+	- - 可有任意电源供电的，有通用电源的
 - all-inclusive
 - all-in
 - all-importance
 - all-ried
 - all-embracing
+	- _adj._ [comprehensive](dic://comprehensive)
+	- _n._ [noncomprehensive](dic://noncomprehensive), [incomprehensive](dic://incomprehensive)
+	- **expansive**可扩大的, 可扩展的;**boundless**无限的;**universal**全体的;**unified**统一的, 统一标准的, 一元化的;**encompass**围绕;**all-inclusive**包括一切的;**countenance**面容，表情;**transcendent**卓越的;**comprehensive**广泛的, 综合的;**wide-ranging**广泛的;**incomparable**无比的;
+	- But from the first it was the light, intoxicating and all embracing, the force that is elemental to the magic of this place. /但从一开始，它就是光，令人陶醉，拥抱一切，这是这个地方最基本的魔力。
+	- And Hey, maybe if we all embrace the fact that language is alive and open to experimentation, the semi-colon, wouldn't be so scary. /嘿，也许如果我们都接受这样一个事实， 即语言是活的， 可以进行实验，分号就不会那么可怕了。
 - all-day
 - all-conquering
 - all-around
@@ -296,7 +318,7 @@ amalgam
 - amalgamative
 - amalgamation
 - amalgamating
-- amalgamate
+- amalgamate (conglomerate)
 	- v. 使汞齐化, 合并
 	- _v._ [change](dic://change), [alter](dic://alter), [modify](dic://modify)
 	- _adj._ [united](dic://united)
@@ -322,9 +344,16 @@ angle
 	- Angela： ['ændʒələ] n. 安吉拉（女子名）  
 	- Angelina：[,ændʒi'li:nə] n. 安吉莉娜（女子名）
 - evangelize
+	- - vt. 传福音；使信基督教 vi. 传福音；传道
 	- _v._ [preach](dic://preach), [prophesy](dic://prophesy), [convert](dic://convert)
 	- **evangelism**福音传道;**preach**说教;**evangelist**福音传道者;**preaching**讲道,讲道法;**missionary**传教士;**gospel**福音书;**educate**教育;**discipleship**做弟子的身份;**proclaim**声明;**evangelical**福音的;**churches**教会，教堂;
+	- The French also established a Jesuit  mission to try to evangelize the locals /法国人还建立了一个耶稣会传教团，试图向当地人传福音。
+	- You know, I think there's a secret about evangelicals, which is that a lot of people find it hard to evangelize. /你知道，我认为福音派有一个秘密，那就是很多人发现很难传福音。
+	- Encouraging champions to **evangelize** the product to others in the organization. /鼓励拥护者向企业中的其他人宣传该产品。
 	- evangelistic
+		- _adj._ [evangelism](dic://evangelism), [enthusiastic](dic://enthusiastic)
+		- _n._ [unenthusiastic](dic://unenthusiastic)
+		- **evangelism**福音传道;**missionary**传教士;**preaching**讲道,讲道法;**evangelical**福音的;**evangelist**福音传道者;**gospel**福音书;**discipleship**做弟子的身份;**outreach**超越，伸出;**ministry**部门;**Pentecostal**圣灵降临节的;**preacher**传教士;
 	- evangelist
 		- gospel（福音）：极好的消息  
 		- “福音”本是一个基督教的术语，指耶稣的言论及其门徒们传播的教义。在希腊语中，福音叫做evangelion（拉丁化形式为euangelium）。其中，ev（eu）是“好”的意思，如eugenics（优生学）、eulogize（赞美）、euphemism （委婉的词语）；angelion是“消息”的意思，天使angel与其同源。英语单词evangel（福音、佳音）就源自希腊单词evangelion。  
@@ -362,7 +391,8 @@ alabaster
 - **marble**大理石;**porcelain**瓷, 瓷器;**gilded**镀金的，装饰的;**ivory**象牙;**limestone**石灰岩;**pewter**锡铅合金,白镴;**jade**碧玉;**ebony**乌木制的，黑檀木制的;**bronze**青铜;**stone**石头;**sandstone**砂岩;
 -  [gypsum](dic://gypsum), [calcite](dic://calcite), [white](dic://white), [whiteness](dic://whiteness)
 
-argot
+argot [美 /ˈɑrɡo/](cmd://Speak/_us_/argot)
+- n. 行话, 俚语, 黑话
 - n. 隐语；暗语；暗号；俚语；黑话
 - 来自法语俚语，词源不详。
 -  [slang](dic://slang), [cant](dic://cant), [jargon](dic://jargon), [lingo](dic://lingo), [patois](dic://patois), [vernacular](dic://vernacular)
@@ -374,7 +404,7 @@ argot
 - The **argot** and proverb created by them enrich Chinese language. /他们创造的隐语、歇后语、谚语等丰富了中国的语言。
 
 ascetic (aesthetic)
-- (ascetic, austere, spartan, stoic, frugal, abstemious, abstinent, )
+- (ascetic, ascetical, austere, spartan, stoic, frugal, abstemious, abstinent, thrifty, scotch, sparing, stinting, parsimony, stingy, )
 - ascetic（苦修）：古希腊运动员赛前的禁欲  
 - 每一届足球世界杯总会有一个话题引发激烈的讨论，那就是大赛之前该不该禁欲。2014年巴西世界杯出现了一个奇怪的现象：所有对球员颁布“禁欲令”的队伍都遭到了淘汰，而那些对球员性生活持有更宽松态度的球队则走得更远。尽管如此，在历史上，人们普遍认为大赛之前应该禁欲，英语单词ascetic（苦修）一词就反映了这一观点。  
 - ascetic源自希腊语asketikos，来自动词askein（训练），最初指的是古希腊人在参加奥运会这样的比赛前的禁欲和锻炼。古希腊人格外重视比赛前的禁欲，因为他们认为精液是男人气概和力量的来源，在比赛时必须拥有充沛的储备。古希腊体育史上的传奇英雄、曾经在一天内获得三项比赛的桂冠的克雷托马库斯（Kleitomachos）就特别重视禁欲，甚至连含有色情话题的聊天都拒绝参与。还有些人甚至会采用系上包皮的方式来控制情欲。  
@@ -389,7 +419,11 @@ ascetic (aesthetic)
 - _adj._ [abstainer](dic://abstainer), [abstemious](dic://abstemious)
 - _n._ [gluttonous](dic://gluttonous)
 - **monastic**僧侣;**monk**僧侣，修道士;**pious**虔诚的;**austere**简朴的;**contemplative**沉思的;**hermit**隐士;**piety**虔诚;**worldly**世间的;**monastery**修道院;**disciple**门徒，信徒;**mystic**神秘的;
-- 
+- an ascetic life of prayer, fasting, and manual labour. /以祈祷、斋戒和劳动为内容的苦修生活。
+- everyone, bar a few ascetics, thinks it desirable. /除了几个苦行者，大家都认为不错。
+- The hermit followed an ascetic life-style. /这个隐士过的是苦行生活。
+- But in an example to ascetics everywhere, that meal need not be dreary just because it is spare. /但对于各地的苦行僧来说，那顿饭不会仅仅因为它是简朴的就令人沮丧。
+- Diogenes disciplined himself through rigorous ascetic training and learned to live life without any luxuries — physical or psychological. /第欧根尼通过严格的苦行训练来约束自己，并学会了在没有任何奢华物品的情况下生活——无论是身体上还是心理上。
 - asceticism
 - ascetical
 
@@ -413,7 +447,7 @@ astute (autistic, astute, altruism, austere)
 - The boss appreciated Mary's astute observations about how to improve the company's image. /老板欣赏玛丽对如何改善公司形象的敏锐观察。
 
 at
--  at (prep.) - 古英语æt，源自原始日耳曼语*at (同源词：古挪威语，哥特语at，古弗里斯兰语et，古高地德语az)，源自PIE词根*ad- "to, near, at"。
+- at (prep.) - 古英语æt，源自原始日耳曼语*at (同源词：古挪威语，哥特语at，古弗里斯兰语et，古高地德语az)，源自PIE词根*ad- "to, near, at"。
 - getatable
 	- a. 可到达的, 可接近的, 可获得的
 	- ungetatable
@@ -990,10 +1024,10 @@ blob
 - 
 
 blot
--  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
-2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
-3. 1. vi. 吸墨水；弄上墨渍或污渍
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+1. 1. vi. 吸墨水；弄上墨渍或污渍
 2. vt. 涂污，弄脏；用吸墨纸弄干（或除去）
 3. n. 污点，污渍；墨水渍
 - [smudge](dic://smudge), [spot](dic://spot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch), [slur](dic://slur)
@@ -2070,6 +2104,38 @@ burrow
 bust
 - eus-
 
+buzz
+- n. 嗡嗡声, 流言 
+- vi. 发出嗡嗡声, 说闲话  
+- vt. 使嗡嗡叫, 散布
+-  [bombilation](dic://bombilation), [bombination](dic://bombination)
+- [bombinate](dic://bombinate), [bombilate](dic://bombilate)
+- [hum](dic://hum), [seethe](dic://seethe)
+- _n._ [sound](dic://sound), [activity](dic://activity)
+- _v._ [sound](dic://sound), [go](dic://go), [fly](dic://fly), [wing](dic://wing), [be](dic://be), [summon](dic://summon)
+- **hype**大肆宣传;**chatter**唠叨;**excitement**兴奋, 激动;**publicity**公众的注意;**flurry**一阵疾风;**frenzy**狂怒;**fanfare**吹牛，炫耀;**controversy**争论;**hum**发低哼声;**deafening**震耳欲聋的;**rave**咆哮;
+- _buzz lightyear_ 巴斯光年（动画人物）
+- _buzz off_ 匆忙离去
+- a buzz of conversation. /嗡嗡的交谈声。
+- there's a strong buzz that he's in Scotland. /盛传他现在在苏格兰。
+- there is a real buzz about the place. /该地确实热闹。
+- the club is buzzing with excitement. /俱乐部内充满嘁嘁喳喳的兴奋之声。
+- a loud buzzer sounded. /蜂鸣器大声地响起来。
+- Everyone is buzzing about. /人人都来去匆匆。
+- what's the buzz
+	- **What's** **the** **buzz**?For half a century, ChungKing Mansions has stood at **the** commercial hub of **the**city. Should it be redeveloped for commercial use or preserved as it is? /今次，讲东讲西的话题：半个世纪以来，一直位处城市的商业枢纽的重庆大厦，应否被重建用作其他商业用途，抑或保留原貌？
+	- 'What's the latest buzz on the blogosphere?' /在博客世界上有什么新闻吗？
+- buzzing
+- buzzer
+	-  [doorbell](dic://doorbell), [bell](dic://bell)
+	- _n._ [push button](dic://push button), [push](dic://push), [button](dic://button), [signaling device](dic://signaling device)
+	- **beep**嘟嘟响;**doorbell**门铃;**bell**铃，钟;**alarm**警报，警告器;**timer**计时员，记时员;**layup**单手上篮;**siren**汽笛, 警报器;**scoreboard**记分板;**keypad**按键;**whistle**口哨;**dunk**浸;
+	- I heard the buzzer go four times. /我听到蜂鸣器响了四次。
+	- the buzzer interrupted his thoughts. /蜂鸣器打断了他的沉思。
+	- Press the buzzer when you want to talk. /你想讲话的时候就按蜂鸣器。
+	- 
+- abuzz
+
 
 
 ## C
@@ -2451,7 +2517,7 @@ cherub
 
 chide
 -  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
 - (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 - [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambaste](dic://lambaste), [lambast](dic://lambast)
 - _v._ [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
@@ -3015,9 +3081,9 @@ cower
 - " Yeah. I don't have to cower in a herd anymore, " said the sheep. /" 对。我再也不用战战兢兢地躲在羊群里了。" 小绵羊说道。
 
 crab
--  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-1. (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
-2. (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+- (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
+- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
+- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 - **lobster**龙虾;**shrimp**虾;**clam**蚌, 蛤;**prawns**大虾，对虾;**clams**蛤蚌;**fish**捕鱼，钓鱼;**shellfish**贝;**seafood**海鲜;**octopus**章鱼;**turtle**海龟;**oyster**牡蛎，蚝;
 - [decapod crustacean](dic://decapod crustacean), [decapod](dic://decapod), [grouch](dic://grouch), [grump](dic://grump), [crank](dic://crank), [churl](dic://churl), [crosspatch](dic://crosspatch)
 - [steer](dic://steer), [maneuver](dic://maneuver), [manoeuver](dic://manoeuver), [manoeuvre](dic://manoeuvre), [direct](dic://direct), [point](dic://point), [head](dic://head)
@@ -3231,7 +3297,7 @@ dear
 	- Now, don't listen to him, Pheebs, all right? I think it's endearing. 不，别听他的，菲比，好吗？ 我觉得那很可爱。
 - deary
 -  dearth
-	-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
+	-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony, sprinkle)
 	- 来自dear, 贵重，珍贵。
 	- **lack**缺乏;**shortage**不足;**plethora**过剩;**glut**供过于求;**scarcity**缺乏;**plenty**丰富，大量;**scant**不足的;**lacking**缺乏的;**absence**缺席;**insufficient**不足的;**abundance**大量, 充足;
 	- [lack](dic://lack), [deficiency](dic://deficiency), [want](dic://want), [scarcity](dic://scarcity), [scarceness](dic://scarceness)
@@ -3528,17 +3594,17 @@ drivel
 
 drool
 - 来自 drivel 的拼写变体。
-	- _n._ [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum), [saliva](dic://saliva), [spit](dic://spit)
-	- _v._ [covet](dic://covet), [salivate](dic://salivate)
-	- **swoon**昏晕;**cringe**畏缩;**puke**吐剂;**giggle**傻笑;**vomit**吐出;**dripping**滴下物;**lick**舔;**gushing**涌出的;**yawn**哈欠;**scrumptious**可口的,美味的;**gasp**喘息;
-	- [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [humbug](dic://humbug), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [tosh](dic://tosh), [twaddle](dic://twaddle)
-	- [dribble](dic://dribble), [drivel](dic://drivel), [slobber](dic://slobber)
-	- [salivate](dic://salivate)
-	- [drivel](dic://drivel), [slabber](dic://slabber), [slaver](dic://slaver), [slobber](dic://slobber), [dribble](dic://dribble)
-	- the baby begins to drool, then to cough. /婴儿开始淌口水，接着咳嗽。
-	- He is always drooling over the singer. /他见到这位歌手总是会兴奋不已。
-	- Oh, look at his little drools. /看他的口水流得。
-	- You're not being fair. I'm not some overheated housemaid drooling over a photograph of Douglas Fairbanks /你这么说不公平，我又不是头脑发热的女仆，痴迷一张道格拉斯·费尔班克斯（影星）的照片。
+- _n._ [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum), [saliva](dic://saliva), [spit](dic://spit)
+- _v._ [covet](dic://covet), [salivate](dic://salivate)
+- **swoon**昏晕;**cringe**畏缩;**puke**吐剂;**giggle**傻笑;**vomit**吐出;**dripping**滴下物;**lick**舔;**gushing**涌出的;**yawn**哈欠;**scrumptious**可口的,美味的;**gasp**喘息;
+- [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [humbug](dic://humbug), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [tosh](dic://tosh), [twaddle](dic://twaddle)
+- [dribble](dic://dribble), [drivel](dic://drivel), [slobber](dic://slobber)
+- [salivate](dic://salivate)
+- [drivel](dic://drivel), [slabber](dic://slabber), [slaver](dic://slaver), [slobber](dic://slobber), [dribble](dic://dribble)
+- the baby begins to drool, then to cough. /婴儿开始淌口水，接着咳嗽。
+- He is always drooling over the singer. /他见到这位歌手总是会兴奋不已。
+- Oh, look at his little drools. /看他的口水流得。
+- You're not being fair. I'm not some overheated housemaid drooling over a photograph of Douglas Fairbanks /你这么说不公平，我又不是头脑发热的女仆，痴迷一张道格拉斯·费尔班克斯（影星）的照片。
 
 droll (troll, scroll, stroll, droll, toll, doll, roll, loll, moll)
 - 1 - 词源同 troll,山精，巨怪。
@@ -3629,7 +3695,8 @@ dwindle
 eave
 - +\*upo- + = under, up from under, over
 
-ebb
+ebb 
+- (wax and wane / bane and boon /weal and woe /ebb and flow /boom and doom)
 - 1 - 来自 PIE*apo-,离开，词源同 apo-,apogee.
 - n. 退潮, 衰退  vi. 潮退, 衰退
 - [ebbing](dic://ebbing), [wane](dic://wane)
@@ -3651,6 +3718,14 @@ eerie
 - **haunting**不易忘怀的，萦绕于心头的;**spooky**幽灵般的;**unnerving**使人胆怯的;**ominous**不祥的;**unsettling**使人不安的;**ghostly**幽灵的;**creepy**令人毛骨悚然的;**eerily**怪诞地;**surreal**超现实主义的;**otherworldly**非现实世界的;**strange**陌生的;
 - _adj._ [supernatural](dic://supernatural), [strange](dic://strange), [unusual](dic://unusual)
 -  [eery](dic://eery)
+- All around us is the eerie quiet. /我们周围是令人毛骨悚然的宁静
+- You know, there's something very eerie about you two. /你知道，你俩有点儿吓人。
+- It came in yesterday under eerie skies filled with smoke. /昨天这里被烟雾笼罩，天空变得很可怕。
+- The result is this eerie, intergalactic howl. /结果出来的就是这种在星系间的怪异嚎叫。
+- That old house is an eerie place even in the day. /那栋老屋即使在白天也有一种神秘可怖的气氛。
+- You do get an eerie feeling, especially working upstairs at that bar. /你在这确实会感觉挺渗人的，特别是在楼上的酒吧。
+- But together they form bleak, eerie scenes of chaos /但它们合在一起却形成了凄凉、怪诞的混乱图像。
+- He had the **eerie** sensation of being watched. /他不安地感到有人在监视他。
 
 element
 - elementary
@@ -3671,7 +3746,7 @@ emerald
 - set an emerald in a pendant. /在垂饰上镶绿宝石
 - an emerald and gold cross was salvaged from the wreck. /一件镶有绿宝石的金制十字形饰物从船只残骸中抢救出来。
 
-ember
+ember (amber)
 -  em-,来自 PIE*ai,燃烧，词源同 ash,edifice.-b,插入字母。-er,来自拉丁语 uro,燃烧，词源同combust.
 - _embers_  n. 余烬；余火；小火苗（ember的复数形式）
 - _dying embers_  余烬; 余烬（书名，Dying Embers）;
@@ -3684,10 +3759,29 @@ enigma
 - enigmatic, enigmatical
 
 erst
--  [once](dic://once), [formerly](dic://formerly), [at one time](dic://at one time), [erstwhile](dic://erstwhile)
+- ad. 以前, 往昔地
+- [once](dic://once), [formerly](dic://formerly), [at one time](dic://at one time), [erstwhile](dic://erstwhile)
 - erstwhile
+- We will **erst** awhile before continuing our hike /我们将休息片刻，然后继续徒步旅行。
+- Not in the wine - shop did madame defarge confer with these ministers, but in the shed of the wood - sawyer, **erst** a mender of roads. /德伐日太太跟两位命运的差役磋商的地点不在酒店，而在过去的补路工现在的锯木工的小屋里。
 
 even
+-  [evening](dic://evening), [eve](dic://eve), [eventide](dic://eventide)
+-  [flush](dic://flush), [level](dic://level), [even out](dic://even out)
+- [even out](dic://even out)
+- [fifty-fifty](dic://fifty-fifty)
+- [regular](dic://regular)
+-  [tied(p)](dic://tied(p)), [level(p)](dic://level(p))
+- _n._ [day](dic://day), [daytime](dic://daytime), [daylight](dic://daylight)
+- _v._ [change surface](dic://change surface), [change](dic://change), [alter](dic://alter), [modify](dic://modify), [regularize](dic://regularize), [regularise](dic://regularise)
+- _adj._ [equal](dic://equal), [flat](dic://flat), [level](dic://level), [plane](dic://plane), [flatbottom](dic://flatbottom), [flatbottomed](dic://flatbottomed),   
+- _n._ [odd](dic://odd), [unequal](dic://unequal), [uneven](dic://uneven), [asymmetrical](dic://asymmetrical), [asymmetric](dic://asymmetric), [unsteady](dic://unsteady)
+	- [even](dic://even) 通常指平面上的各点或一条直线的各点处在同一平面或直线上。  
+	- [flat](dic://flat) 指光滑平整的表面，但不一定是水平的。  
+	- [level](dic://level) 强调没有高低之处，且在同一水平面，可引申指才能相等或与相邻某物平行。  
+	- [smooth](dic://smooth) 侧重指表面十分平滑，无任何粗糙的感觉。引申作圆滑解。
+- **though**可是，虽然;**hardly**几乎不，简直不;**but**但是;**actually**实际上;**perhaps**也许;**possibly**可能地;**only**只，仅仅;**not**不;**although**虽然，尽管;**just**正好，恰好;**probably**大概;
+- 
 - uneven
 	- **patchy**斑驳的;**bumpy**崎岖不平的;**lumpy**粗笨的;**wobbly**摆动的;**irregular**不对称的, 不规则的;**rough**粗糙的;**inconsistent**不一致的;**erratic**不稳定的;**wonky**动摇的,虚弱的,摇晃的,靠不住的,出错的;**disjointed**脱离开的,不连贯的;**jagged**锯齿状的;
 	- unevenness
@@ -3735,6 +3829,8 @@ fall
 	- 失败，不成功：指一个人在尝试做某事时未能达到预期的目标或结果。
 
 falter
+- v. 衰弱，衰退；结巴地说，支支吾吾地说；蹒跚，踉跄；犹豫，踌躇；（目光）游离，（微笑）僵住 
+- n. 踌躇；支吾；颤抖；（Falter）（美、德）法尔特（人名）
 - [hesitation](dic://hesitation), [waver](dic://waver), [faltering](dic://faltering)
 - [waver](dic://waver)
 - [stumble](dic://stumble), [bumble](dic://bumble)
@@ -3746,6 +3842,12 @@ falter
 	- _[faltering demand](dic://faltering%20demand)_  衰退需求; 需求下降; 
 	- _[faltering economy](dic://faltering%20economy)_  摇摇欲坠旳经济
 	- _[falter out](dic://falter%20out)_  支吾地说出，口吃地说出
+- Britain's faltering economy is part of the explanation. /英国摇摇欲坠的经济是促成这一现象的部分原因。
+- Perhaps Iran's faltering economy will doom the regime. /或许，伊朗那摇摇欲坠的经济自己就会将伊朗政府推入深渊。
+- Harry thought he heard the voices downstairs falter. /哈利仿佛听到楼下的声音变得有些结巴。
+- Howard stepped down as CEO in 2000, and over the next eight years Starbucks' performance faltered. /霍华德于2000年卸任，此后8年里，星巴克的业绩就停滞不前。
+- The soldiers faltered for a moment as their captain fell. /当他们连长倒下时，士兵的信心动摇了一会儿。
+- 
 - unfaltering
 - faltering
 
@@ -3790,6 +3892,11 @@ fealty
 - _[fealty with love](dic://fealty%20with%20love)_ 忠则得爱
 - _[allegiance fealty homage](dic://allegiance%20fealty%20homage)_ 效忠
 - _[take an oath of fealty](dic://take%20an%20oath%20of%20fealty)_ 宣誓效忠
+- an oath of fealty and liege homage. /表达臣子忠心和敬意的宣誓。
+- He swore fealty to the king. /他宣誓效忠国王。
+- I swear fealty to you, Isabeau, forever. /我向你宣誓效忠 伊莎波 永远。
+- Because you pledged fealty to me? /因为你宣誓效忠于我了吗？
+- The noble granted fealty to his king through expecting fealty of his vassals. /贵族通过期望他的封臣效忠来授予他的国王效忠。
 
 feeble
 - [lame](dic://lame) 
@@ -3803,6 +3910,12 @@ feeble
 	- [frail](dic://frail) 多指因经常生病而身体纤弱。  
 	- [fragile](dic://fragile) 可与frail换用，但语气强，侧重脆弱，指人容易生病，指物容易破碎。
 - **pitiful**可怜的，令人同情的;**weak**疲软的;**pathetic**可怜的，悲哀的;**frail**虚弱的;**sickly**有病的，苍白的;**wretched**可怜的;**paltry**不足取的;**vain**徒劳的;**meager**贫乏的;**lame**瘸的;**valiant**英勇的，勇敢的;
+- a feeble excuse. /难以服人的借口。
+- a feeble effort. /无用的努力。
+- a feeble semblance of sth. /微弱的相似
+- An already feeble and faltering recovery has stumbled. /疲软脆弱的复苏已经摇摇欲坠。
+- " They are too feeble, " said Symon Stripeback. /" 他们太虚弱了。" 疤背西蒙指出。
+- For Jehan was very old, and was growing more feeble each year. /老人年纪大了，在逐年变老。
 - forcible-feeble
 - feebly
 - feebish
@@ -3843,6 +3956,9 @@ feist
 	- **sassy**无礼的;**spirited**生机勃勃的;**fearless**无畏的;**tenacious**抓紧的;**fierce**凶猛的;**brash**仓促的，性急的;**boisterous**热闹的;**outspoken**直言的;**ferocious**残忍的;**opinionated**固执己见的,武断的;**lovable**可爱的，讨人喜欢的;
 	- he got a bit feisty by trying to hit me backs /他想要还击我，一下变得有些好斗。
 	- Hollywood doesn't have a lot of good feisty roles for girls my age. /好莱坞没多少适合我这个年龄的女孩子扮演的生气勃勃的好角色。
+	- Even his mom seemed startled by his feisty bark. /甚至它的妈妈也好像被它活泼的叫声吓了一跳。
+	- The seal is a crabeater, sharp-toothed and feisty. /海豹以蟹为主食 牙齿锋利且好斗。
+	- For example, characters with red hair are typically passionate, feisty, adventurous and highly opinionated. /比如红发角色通常热情好胜，敢于冒险并且固执己见。
 
 fetter
 -  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
@@ -6121,7 +6237,7 @@ hammock (hummock)
 
 hamper
 -  (tamp, tamper, tempt, temper, temping, attemper, attempt, attempting, temperate, temperance, temperament, hamper, contretemps, contemporize, temporise, tempeset)
--  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown)
+- (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
 - 1 - 来自古法语 hanap,杯子，酒杯，后引申词义装杯子的大篮子。防碍义词源不详，参照习语basket case,困境。
 - op-hamper
 - [halter](dic://halter), [cramp](dic://cramp), [strangle](dic://strangle)
@@ -6450,6 +6566,27 @@ haul
 	- [tow](dic://tow) 特指用绳子或链条等拖或拉本身无动力或无法使用自身动力的东西。   
 	- [jerk](dic://jerk) 指快而突然地拉
 - **unload**卸;**carry**拿，扛;**tow**拖;**cargo**货物，船货;**pile**堆;**truck**卡车;**carrying**运送的;**stockpile**囤聚的物资;**towing**拖车，拖吊;**unloaded**空载的;**dump**倾
+- overhaul
+	- vt. 分解检查, 翻修, 精细检查, 彻底革新  n. 分解检查, 精细检查, 大检修
+	- - over-,在上，haul,拉。原为航海术语，指把船帆索具拉起来进行大的修理，后词义通用化。
+	-  [inspection and repair](dic://inspection and repair), [service](dic://service)
+	-  [renovation](dic://renovation), [redevelopment](dic://redevelopment)
+	-  [pass](dic://pass), [overtake](dic://overtake)
+	- [modernize](dic://modernize), [modernise](dic://modernise)
+	- _n._ [care](dic://care), [maintenance](dic://maintenance), [upkeep](dic://upkeep), [improvement](dic://improvement)
+	- _v._ [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on), [regenerate](dic://regenerate)
+	- **revamp**修补;**redesign**重新设计;**revamped**修补的;**reform**改革，改良;**makeover**打扮;**modernization**现代化;**reworking**再次加工,再造,再加工;**restructuring**重组;**rework**重做;**restructure**重建, 改建, 重组;**reforms**改革;
+	- _overhaul period_ 大修周期
+	- _major overhaul_ 大修；全面检修
+	- _complete overhaul_ 大修；全面检修
+	- a major overhaul of environmental policies. /环保政策的全面修订。
+	- a radical overhaul of the existing regulatory framework. /对现有管理体制的彻底检查。
+	- an overhaul of court procedure to simplify litigation. /为简化诉讼而对法庭程序进行的革新。
+	- moves to overhaul the income tax system /全面检查所得税制度的行动。
+	- It is generally appreciated that the rail network needs a complete overhaul. /众所周知，铁路系统需要大检修。
+	- What in the film world needs a drastic overhaul? /电影世界里有什么需要彻底改革吗？
+	- overhauling
+	- overhauler
 - etc..
 
 haze
@@ -8270,7 +8407,7 @@ lam
 	-  逃犯（等于lamister）
 - lambaste, lambast
 	-  (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)
-	- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, )
+	- (contempt, opprobrium, dismissive, snobbish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle, despise, despite, obloquy, diminish, deplore, supercilious, pompous, condescending, arrogant, pretentious, hubris, peremptory)
 	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
@@ -9211,7 +9348,7 @@ mazarine
 - n. 深蓝色；深蓝色服装; adj. 深蓝色的（等于mazarine blue）;
 
 meager
--  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
+-  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony, sprinkle)
 - 来自古法语 maigre,薄的，来自拉丁语 macrum,薄的，细的，长的，大的，来自 PIE*makro,细长的，词源同 macro-.
 - [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
 - [scanty](dic://scanty), [spare](dic://spare), [exiguous](dic://exiguous), [hardscrabble](dic://hardscrabble), [marginal](dic://marginal)
@@ -9938,7 +10075,7 @@ own (freight, fraught)
 pale
 
 paltry
--  (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony)
+- (dearth, scant, paucity, modicum, sparse, scarce,  tenuity, rarity, meagre, stingy, scrimpy, paltry, modest, dismal, minuscule, destitute, deprivation, deprived, impoverished, underprivileged, impecunious, indigent, penury, penurious, impecunious, morsel, privation, exiguity, meagerness, leanness, poorness, scantiness, deficit, shortfall, want, score, liabilities, parsimony, sprinkle)
 - **meager**贫乏的;**pitiful**可怜的，令人同情的;**whopping**巨大的;**mere**仅仅的;**hefty**重的;**scant**不足的;**staggering**难以置信的;**modest**谦虚的，谦逊的;**minuscule**小写字;**abysmal**深不可测的;**dismal**凄凉的，忧郁的;
 - [worthless](dic://worthless), [meager](dic://meager), [meagre](dic://meagre), [meagerly](dic://meagerly), [stingy](dic://stingy), [scrimpy](dic://scrimpy)
 - [measly](dic://measly), [miserable](dic://miserable)
@@ -10493,6 +10630,7 @@ plunk (pluck)
 
 plush  (flush, gush, lush, slush, plush, blush, shush)
 - (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
+- (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  disburse, bursary)
 - [lavish](dic://lavish), [lucullan](dic://lucullan), [lush](dic://lush), [plushy](dic://plushy)
 - [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material), [textile](dic://textile)
 - **cuddly**令人想拥抱的;**luxurious**奢侈的;**velvety**天鹅绒般柔软的;**soft**温柔的，温和的;**deluxe**豪华的，奢华的;**stuffed**塞满了的;**comfy**舒服的;**padded**有装填垫料的;**pillows**靠垫;**fluffy**蓬松的;**sumptuous**豪华的, 奢侈的;
@@ -11135,6 +11273,22 @@ rag
 - a red rag to a bull惹人生气的事。rag是破布，bull是公牛，传说中西班牙斗牛表演中......错！其实据说牛的视觉系统并不能把红色和其它颜色区分开来，惹它愤怒的是布的抖动，而不是布的颜色，换块绿色的布，它一样会狂躁地冲过来。Just mentioning hisex-wife's name was like a red rag to a bull. ​​​​
 - 来自古诺斯语 rogg,破布，粗糙的纺织物，来自 PIE*reue,撕开，粉碎，词源同 ruin,rough,rug.  
 - 词源不详，可能为拟声词。
+
+raise
+- n. 上升, 高地, 增高  
+- vt. 升起, 举起, 唤起, 提高, 使出现, 使复活, 提出, 筹集, 饲养
+-  来自中古英语 raisen,上升，举起，来自 Proto-Germanic*risana,上升，举起，来自 PIE*rei,上升，举起，词源同 rise,rear.引申词义养育，培植。
+- fall落下和fell砍伐，B组：lie躺和lay放下，C组：rise上升和raise升起，D组：sit和set......什么关系呢？以上四组单词中后边的单词叫causative verb使役动词，理解为to cause to do就欧了。所以fell就是to cause to fall，lay是to cause to lie，set是to causeto sit，raise是to cause to rise。
+- raise eyebrows
+	- Such a policy might raise eyebrows in many places. /这种做法在世界上很多地方可能会招来质疑。
+	- This stretch of the U.S. southern border is raising eyebrows. /在这片位于美国南部边境的地区所上演的事件引起了人们的不满。
+- upraise
+- raising
+- raiser
+- raised
+- hair-raising
+- fundraise
+- fire-raising
 
 ramp (romp)
 - 来自古法语 ramper,爬，上升，登山，来自 Proto-Germanic*hrimp,卷起，弯起，收缩，来自PIE*sker,弯，转，缩起，词源同 ring,curve.比喻用法，原用于形容动物蹲立在后脚跟上蓄势待发奔跑的姿势，引申诸相关词义。
@@ -12359,6 +12513,7 @@ scrumpy
 - It's time to sample the pure apple taste of scrumpy, along with its 6.8 alcohol content. /是时候品尝 scrunpy 的纯苹果味，以及它的 6. 8 酒精含量。
 
 scrumptious
+- (scrumptious, sumptuous, stupendous, scruple, scrupulous, scrutiny, inscrutable)
 -  scrump-,可能来自拟声词，模仿食物清脆的声音，拼写受 sumptuous 影响，-ous,形容词后缀。
 - _adj._ [tasty](dic://tasty)
 - _n._ [tasteless](dic://tasteless)
@@ -12383,7 +12538,7 @@ scruple
 - The villain made no scruple of committing murder. /那恶棍杀人不眨眼。
 - she doesn't scruple to ask her parents for money. /她毫不顾忌向她父母要钱。
 - scrupulous
-	- (scruple, scrupulous, scrutiny, inscrutable, scrumptious, sumptuous, )
+	- (scrumptious, sumptuous, stupendous, scruple, scrupulous, scrutiny, inscrutable)
 	- (oscillation, vacillation, scrupulous,  hesitate, apprehension, misgiving, irresolute, waver)
 	- scruple【顾忌，顾虑】，-ous形容词后缀。引申词义仔细的，细致的等，是单词scruple 派生的形容词。
 	- _adj._ [religious](dic://religious), [careful](dic://careful)
@@ -12395,6 +12550,7 @@ scruple
 	- unscrupulous 
 		- (imprudence, unscrupulous, )
 		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
+		- 
 		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
 		- _n._ [scrupulous](dic://scrupulous)
 		- **dishonest**不诚实的;**unethical**不道德的;**devious**弯曲的;**greedy**贪婪的;**sleazy**质地薄的;**nefarious**极坏的;**ruthless**无情的，残忍的;**opportunistic**机会主义的;**corrupt**腐败的，贪污的;**scheming**惯耍阴谋的，诡计多端的;**fraudulent**欺骗的,不诚实的
@@ -16302,6 +16458,8 @@ way
 - etc...
 
 wealth
+- (affluent, opulent, flush, wealth, cornucopia, copious, ample, prodigious, voluminous, considerable, plethora, innumerable, replete, abundant, immense, prolific, colossal, tremendous, oofy, prosperous, plenteous, glut, plush, profuse, sumptuous)
+- (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  disburse, bursary)
 - 来自 PIE*wel,希望，愿望，词源同 will,volunteer.引申词义按自己意愿，随心所欲，财富。
 - wealthy
 - commonwealth

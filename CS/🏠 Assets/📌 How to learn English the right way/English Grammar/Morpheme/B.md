@@ -6205,39 +6205,58 @@
 ### + bursa +
 1. **burs-** = bag, sack, purse, 表示“囊，口袋”。源自希腊语 bursa "skin, hide."
 	1. bursa
+		1. n. 囊, 黏液囊
 	2. bursar
-		1. 1. _n._ (大学等的)财务主管 奖学金获得者
-		2. _n._ [treasurer](dic://treasurer), [financial officer](dic://financial officer)
-		3. **treasurer**司库,财务主管;**headmaster**校长;**dean**院长;**registrar**主管注册者;**chancellor**大臣, 司法官;**rector**校长;**secretary**部长;**assistant**助手, 副手, 助理;**clerk**职员，办事员;**university**大学;**janitor**守卫;
-		4. bursary
-			1. _n._ [treasury](dic://treasury), [exchequer](dic://exchequer)
-			2. **scholarship**奖学金;**stipend**固定薪金;**postgraduate**研究生;**programme**节目;**grant**授予，允许;**tuition**学费;**enrolment**登记,注册,入伍,入会;**prize**奖品;**grants**补助金;**cheque**支票;**award**授予;
-			3. _[bursaries](dic://bursaries)_  n. 奖学金；助学金；财务处（bursary的复数）
-		5. bursarial
+		1.  bursa,词源同 purse,钱包。
+		2. 1. _n._ (大学等的)财务主管 奖学金获得者
+		3. _n._ [treasurer](dic://treasurer), [financial officer](dic://financial officer)
+		4. **treasurer**司库,财务主管;**headmaster**校长;**dean**院长;**registrar**主管注册者;**chancellor**大臣, 司法官;**rector**校长;**secretary**部长;**assistant**助手, 副手, 助理;**clerk**职员，办事员;**university**大学;**janitor**守卫;
+		5. Did you manage to speak to the bursar about my salary? /关于我的薪金问题，你是否已经向会计疏通过？
+		6. 
+		7. bursary
+			1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  disburse, bursary)
+			2. n. 财务办公室；大学奖学金
+			3. _n._ [treasury](dic://treasury), [exchequer](dic://exchequer)
+			4. **scholarship**奖学金;**stipend**固定薪金;**postgraduate**研究生;**programme**节目;**grant**授予，允许;**tuition**学费;**enrolment**登记,注册,入伍,入会;**prize**奖品;**grants**补助金;**cheque**支票;**award**授予;
+			5. _[bursaries](dic://bursaries)_  n. 奖学金；助学金；财务处（bursary的复数）
+			6. Mr Grayling hopes to counter the “too posh” charge with outreach initiatives and generous bursaries for poorer students /面对这些‘过于冠冕堂皇’的批评，格雷林希望以积极实践创新以及面向贫困生的丰厚奖学金予以反驳。
+			7. I am not saying there is no place for bursaries. /我并不是说没有助学金的地方。
+			8. There should be new scholarships and bursaries in environmental science for people of color. /应该为有色人种设立新的环境科学奖学金和助学金。
+			9. Many prosperous schools already offer bursaries to pupils from poor families, allow state-school students to swim in their pools and teach Latin to anyone who wants to learn it; others run state-funded institutions alongside fee-collecting ones. /很多顶尖名校已经为贫困学生提供奖学金，并且向公立学校学生开放游泳池，为任何想学拉丁语的学生开放此课程；其他学校也开始运营国立学院和私立学校双管齐下。
+		9. bursarial
 	4. bursitis
 	5. disburse, disbursement (defray,)
-		1.  [pay out](dic://pay out)
-		2. disburse a large amount of money for education /支付大笔资金搞教育
-	6. imburse
+		1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  disburse, bursary)
+		2.  [pay out](dic://pay out)
+		3. _v._ [pay](dic://pay)
+		4. **disperse**使散开;**allocate**分配;**withhold**保留，不给;**funds**基金;**collect**收集;**monies**货币;**distribute**分配, 分给;**receive**收到;**procure**获得，取得;**administer**管理, 支配;**defer**延期;
+		5. disburse a large amount of money for education /支付大笔资金搞教育
+		6. In the 2000—2008 school year, $426.5 million was disbursed to 349085 students. /1. 2000至2008学年，共有349085名学生获发津贴，总额达4.265亿元。
+		7. Cohen received or disbursed at least $4.4 million between late 2016 and into this year. /2016年末至今年期间，科恩在至少收到或支出了440万美元的资金。
+		8. Your identity might be stolen to make you responsible for repaying a loan disbursed to somebody else. /你的身份可能会遭到盗窃以让你负责偿还别人的贷款。
+		9. People come together to share a laugh, to share in that feeling, and then to disburse just as quickly. /人们聚在一起欢笑，分享那种感觉，然后再以同样很快的方式传播。
+		10. Only 1.5% of America's $350bn aid package for small firms has been disbursed so far and Britain's effort has been slow, too. /到目前为止，美国对小企业3500亿美元的一揽子援助计划中，只有1。5%发放到位，英国的援助行动进展也很缓慢。
+	7. imburse
 		1. _[imburse](dic://imburse)_  vt. 偿还；把…放入钱袋；资助
-	7. reimburse
-		1. _v._ [refund](dic://refund), [return](dic://return), [repay](dic://repay), [give back](dic://give back), [compensate](dic://compensate), [recompense](dic://recompense), [remunerate](dic://remunerate)
-		2. **refunded**已退款;**pay**支付，付;**recoup**偿还;**refund**退还;**compensate**补偿;**deduct**扣除，减去;**incurred**遭受;**repay**偿还;**expenses**开支;**subsidize**给与补助金或奖助金;**waive**放弃;
-		3. _[reimburse](dic://reimburse)_  vt. 偿还；赔偿
-		4. _[reimbursed](dic://reimbursed)_  偿还; 付还（reimburse的过去式和过去分词）; 
-		5. _[reimburse bank](dic://reimburse%20bank)_  付还银行
-		6. _[reimbursing bank](dic://reimbursing%20bank)_  [金融] 偿付银行
-		7. _[reimbursing agent](dic://reimbursing%20agent)_  偿付代理人，偿付代理行
-		8. _[reimbursed expenses](dic://reimbursed%20expenses)_  代垫费用
-		9. _[reimbursed at cost](dic://reimbursed%20at%20cost)_  按价补偿
-		10. We’ll reimburse you for your travelling expenses. /我们将付还你旅费。
-		11. Any costs that you incur will be reimbursed in full. /你的所有花费都将全额付还。
-		12. Countries will be reimbursed for equipment they send. /各国将获得他们所提供设备的补偿。
-		13. reimbursible
-		14. reimbursement
-			1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  )
-		15. reimbursable
-	8. purse (pout)
+	8. reimburse
+		1. 
+		2. _v._ [refund](dic://refund), [return](dic://return), [repay](dic://repay), [give back](dic://give back), [compensate](dic://compensate), [recompense](dic://recompense), [remunerate](dic://remunerate)
+		3. **refunded**已退款;**pay**支付，付;**recoup**偿还;**refund**退还;**compensate**补偿;**deduct**扣除，减去;**incurred**遭受;**repay**偿还;**expenses**开支;**subsidize**给与补助金或奖助金;**waive**放弃;
+		4. _[reimburse](dic://reimburse)_  vt. 偿还；赔偿
+		5. _[reimbursed](dic://reimbursed)_  偿还; 付还（reimburse的过去式和过去分词）; 
+		6. _[reimburse bank](dic://reimburse%20bank)_  付还银行
+		7. _[reimbursing bank](dic://reimbursing%20bank)_  [金融] 偿付银行
+		8. _[reimbursing agent](dic://reimbursing%20agent)_  偿付代理人，偿付代理行
+		9. _[reimbursed expenses](dic://reimbursed%20expenses)_  代垫费用
+		10. _[reimbursed at cost](dic://reimbursed%20at%20cost)_  按价补偿
+		11. We’ll reimburse you for your travelling expenses. /我们将付还你旅费。
+		12. Any costs that you incur will be reimbursed in full. /你的所有花费都将全额付还。
+		13. Countries will be reimbursed for equipment they send. /各国将获得他们所提供设备的补偿。
+		14. reimbursible
+		15. reimbursement
+			1. (proceedings, weal, wealth, boon, subsidy, bonus, dividend, lucre, yields, revenue, wage, earnings, profits, remuneration, stipend, pension, wage, perquisite, subvention, reimbursement, grants, patronage, appropriation, expenditure, gratis, gratuity, rebate, refund, discount,  disburse, bursary)
+		16. reimbursable
+	9. purse (pout)
 		1. [bag](dic://bag), [handbag](dic://handbag), [pocketbook](dic://pocketbook)
 		2. [wrinkle](dic://wrinkle)
 		3. _n._ [container](dic://container), [sum](dic://sum), [sum of money](dic://sum of money), [amount](dic://amount), [amount of money](dic://amount of money), [bag](dic://bag)
