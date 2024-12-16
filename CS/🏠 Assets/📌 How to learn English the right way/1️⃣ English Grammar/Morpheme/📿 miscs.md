@@ -175,6 +175,7 @@ about
 
 addle
 - (putrid, suppurate, putrefy, fester, addle)
+- (addle, beadle, befuddle, cuddle, coddle, dawdle, daddle (dawdle, dawdler), diddle, dildo, doodle, dwindle, faddle, fiddle, fuddle, huddle, ladle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, swaddle, swindle, spindle, toddle, treadle, twaddle, twiddle, waddle)
 - vt. 使昏乱, 使腐坏  
 - vi. 变质  
 - a. 昏乱的, 腐坏的
@@ -10354,6 +10355,7 @@ pick (peck, pike, pick)
 - 来自中古英语 picken,捡，适，采摘，来自古英语 pician,刺，拔，来自 Proto-Germanic*pikona,刺，啄，敲，捡，来自 PIE*beu-,发出敲击声，拟声词，词源同 peck,pike.
 
 piddle
+- (addle, beadle, befuddle, cuddle, coddle, dawdle, daddle (dawdle, dawdler), diddle, dildo, doodle, dwindle, faddle, fiddle, fuddle, huddle, ladle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, swaddle, swindle, spindle, toddle, treadle, twaddle, twiddle, waddle)
 - v. 撒尿, 鬼混, 拖沓处理; n. 撒尿
 - - 词源不详，可能来自拟声词 pid,嘘嘘的声音，-le,表反复。
 -  [urine](dic://urine), [piss](dic://piss), [pee](dic://pee), [weewee](dic://weewee), [water](dic://water)
@@ -11617,7 +11619,7 @@ rich
 
 riddle
 - krei-
-- waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
+- (addle, beadle, befuddle, cuddle, coddle, dawdle, daddle (dawdle, dawdler), diddle, dildo, doodle, dwindle, faddle, fiddle, fuddle, huddle, ladle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, swaddle, swindle, spindle, toddle, treadle, twaddle, twiddle, waddle)
 
 rife
 - 来自古英语 rife,大量的，普通的，盛行的，来自 Proto-Germanic*rif,可能来自 PIE*rei,撕，扯，砍，词源同 river,rift.通常用于形容坏事的盛行。
@@ -14438,8 +14440,51 @@ spoon
 - egg-spoon
 - dessertspoon
 
+spot
+- n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量  
+- a. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的  
+- vt. 点缀, 玷污, 认出, 准确定...的位, 用灯光照射  
+- vi. 玷污, (从空中)侦察敌方目标
+- 1 - 来自中古英语 splot,来自古英语 splott,斑点，污迹，来自 Proto-Germanic*spluttaz,小块，分开，来自 PIE*spel,分开，劈开，词源同 spill,split.引申诸相关词义。  
+- 2 - 来自 spot,斑点，污迹，后用于指罪犯，引申词义认出，发现罪犯踪迹。后词义中性化。
+- spot check
+	- - 抽查：对一组成员进行快速检查，而不是对整个组进行检查。
+	- I think I just failed a **spot** **check** /我想我刚才的侦察检定没过。
+	- To maintain these standards, we conduct spot checks of all of our franchises from time to time and we audit the books of each franchise once a year to make sure that our standards are being met. /为了保持这些标准，我们不时对所有特许经营权进行抽查， 并且我们每年审核一次每个特许经营权的账簿， 以确保我们的标准得到满足。
+	- The Kenyan government says it will carry out spot checks on private care homes after a BBC investigation uncovered evidence of mistreatment of vulnerable residents at one such facility near Nairobi /肯尼亚政府宣布，将对私人护理院进行抽查，此前 BBC 的一项调查发现了内罗毕附近一家私人养老院虐待弱势居民的证据。
+- unspotted
+- two-spot
+- ten-spot
+- sunspot
+- spotty
+- spotter
+	- n. 着弹点观察员；监视人；测位仪；检路器
+	- [lookout](dic://lookout), [lookout man](dic://lookout man), [sentinel](dic://sentinel), [sentry](dic://sentry), [watch](dic://watch), [scout](dic://scout), [picket](dic://picket)
+	- [finder](dic://finder), [discoverer](dic://discoverer)
+	- _n._ [employee](dic://employee), [watchman](dic://watchman), [watcher](dic://watcher), [security guard](dic://security guard), [perceiver](dic://perceiver), [percipient](dic://percipient), [observer](dic://observer)
+	- **gunner**炮手，枪手;**spotting**测定点位;**binoculars**双筒望远镜;**trainer**训练员;**reconnaissance**侦察;**sighting**照准;**scout**侦察员;
+	- an unarmed spotter plane; unarmed robbery. /不配备武器的弹着观察机；被缴械的强盗
+	- Our spotter is headed back downstairs, Finch. /监视者下楼去了 芬奇。
+	- Get a spotter if needed and even ask someone you find more knowledgeable to give you feedback. /如果需要，找一个可以在旁边观察你的人，甚至让你觉得更有能力的人来 给你反馈。
+- spotted
+- spotlight
+- spotless
+- spotface
+	- - n. 螺钉孔平面
+- spot-check
+- on-the-spot
+- heatspot
+- five-spot
+- eyespot
+
 spume
 - 来自拉丁语 spuma,泡沫，来自 PIE*spoi-mo,泡沫，可能为拟声词，模仿喷涌的声音，词源同foam.拼写比较 spring,frog,splint,flint.
+-  [froth](dic://froth), [suds](dic://suds)
+- _n._ [foam](dic://foam), [froth](dic://froth)
+- _v._ [make](dic://make), [create](dic://create)
+- **foaming**发泡，泡沫形成;**mist**薄雾;**droplets**飞沫;**frothy**多泡的;**waves**波;**sea**海洋;**seawater**海水;**gale**大风，狂风;**glistening**闪耀的,反光的;**droplet**小滴，微滴;**splashing**喷洒,泼洒;
+- The beer will **spume** if you pour it too fast. /如果你把啤酒倒得太快，它会起泡的。
+- Don't sweep **spume** urine to shine on ego for well is what outward? /也不扫泡尿照照自己是什么样子？
 - spumous
 	- covered with or resembling small bubbles as from being agitated by beating or heating
 	- [bubbling](dic://bubbling), [foaming](dic://foaming), [foamy](dic://foamy), [frothing](dic://frothing), [spumy](dic://spumy), [sudsy](dic://sudsy)
@@ -14447,6 +14492,7 @@ spume
 	- _n._ [unagitated](dic://unagitated)
 	- _porous spumous cobalt_ 泡沫
 	- _foamy spumescent spumous yeasty_ 起泡沫的
+	- Defecate color is light, the capacity is much, submit grease form or spumescent, chang Fu has effluvial taste more at surface. /大便色淡，量多，呈油脂状或泡沫状，常浮于水面多有恶臭味。
 - spumoni
 - spumescent
 - spumesence
@@ -16082,7 +16128,7 @@ turret
 - Silhouetted on the dark horizon, high on the cliff over the lake, stood the many turrets and towers of Hogwarts castle.  /在黑暗的地平线上，在湖对面高高的悬崖顶端，耸立着霍格沃茨城堡的角楼和高塔的剪影。
 
 twaddle (hogwash)
-- waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
+- (addle, beadle, befuddle, cuddle, coddle, dawdle, daddle (dawdle, dawdler), diddle, dildo, doodle, dwindle, faddle, fiddle, fuddle, huddle, ladle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, swaddle, swindle, spindle, toddle, treadle, twaddle, twiddle, waddle)
 - [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [drool](dic://drool), [humbug](dic://humbug), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [tosh](dic://tosh)
 - [chatter](dic://chatter), [piffle](dic://piffle), [palaver](dic://palaver), [prate](dic://prate), [tittle-tattle](dic://tittle-tattle), [clack](dic://clack), [maunder](dic://maunder), [prattle](dic://prattle), [blab](dic://blab), [gibber](dic://gibber), [tattle](dic://tattle), [blabber](dic://blabber), [gabble](dic://gabble)
 - _n._ [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum)
@@ -16091,7 +16137,6 @@ twaddle (hogwash)
 - _[ignorant twaddle](dic://ignorant%20twaddle)_ 无知妄说
 - _[twaddle tendency](dic://twaddle%20tendency)_ 讲废话的倾向
 - toddler
-- waddle /swaddle /twiddle /fiddle /swindle /spindle /dwindle /addle /befuddle /diddle /riddle /dawdle (dawdler) /faddle /saddle /beadle /ladle /paddle /twaddle
 
 twit (tweet)
 - _n._ 蠢人；傻子；笨蛋 

@@ -12,13 +12,16 @@
 ↗ [📌 Awesome Open Source CLI Software](../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/📌%20Awesome%20Open%20Source%20CLI%20Software/📌%20Awesome%20Open%20Source%20CLI%20Software.md)
 
 
+### Other Resources
+https://github.com/xuanli199/weekly
+
+
 
 ## Intro
 
 ![awesome logo](../../../../Assets/Pics/awesome.png)
 
 The <span style="color:orange">Awesome list</span> is a list of awesome things curated by the community.
-
 
 
 
@@ -80,6 +83,7 @@ Find And Compare Open Source Projects
 - [Open Source Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#open-source-websites)
 - [Internships](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#internships)
 - [Jobs](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#jobs)
+
 
 ### 👉 Awesome Lists
 🚧 https://github.com/sindresorhus/awesome

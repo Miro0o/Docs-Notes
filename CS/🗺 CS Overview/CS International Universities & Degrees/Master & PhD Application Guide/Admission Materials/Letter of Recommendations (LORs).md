@@ -17,7 +17,7 @@ https://www.iloveimg.com/zh-cn
 https://www.aigei.com/bgremover/
 在线图片去底工具 - 将纯色背景的图片转换为背景透明的图片
 
-https://github.com/CFC87/Fudan-Recommendation-Letter-Template/tree/main
+👍 https://github.com/CFC87/Fudan-Recommendation-Letter-Template/tree/main
 A modified LaTeX Template of Recommendation/Reference Letter for Fudan University
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM (Large Language Model)](../../../Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
+↗ [LLM (Large Language Model)](../../../Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 ↗ [Software Analysis & AI & LLM](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Software%20Analysis%20&%20AI%20&%20LLM.md)
 
 

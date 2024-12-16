@@ -48,6 +48,13 @@ College Salary Report (US)
 https://www.numbeo.com/cost-of-living/
 Cost of Living
 
+https://www.tltzg.com/luohu/8402.html
+
+![shrs_school_ranking](../../../../Assets/Pics/shrs_school_ranking.jpg)
+
+![shrc_school_ranking_50_100](../../../../Assets/Pics/shrc_school_ranking_50_100.jpg)
+
+
 
 ### CS Related Information
 #### General CS Info
