@@ -213,13 +213,13 @@ https://www.pkuanvil.com/topic/459/
 知乎回答备份
 [This is X](../🏠%20Assets/This%20is%20X/This%20is%20X.md)
 
+
 ### Generic IT Knowledge
 #### IT & CS Updates /Trending/ News /Analysis
 ---
 微信公众号：
 - hellogithub
 - codesheep
-- 
 
 ---
 **Gartner** 
@@ -528,7 +528,6 @@ https://www.paulfioravanti.com/blog/thanks-past-me/
 #### (Enterprise) Technical Supports & Blogs & Product Manuals
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
-
 ---
 https://developers.redhat.com
 Redhat Developer
@@ -662,6 +661,15 @@ Evian Zhang's naive blog
 记录我平时 naive 的点子
 中国科学院软件研究所（Institute of Software Chinese Academy of Sciences）博士研究生在读。
 
+---
+https://www.peterjxl.com
+  
+本人热爱计算机，未来想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 + ... 想要自己写一套计算机基础的书，让所有人都能拥有扎实的基础，提高我国的计算机水平，而不是做一个 CURD Boy，API Caller，CV 工程师...
+
+本人利用业余时间不断学习，坚持输出文章两年多，不知不觉博客数量已经 900+ 了 😀
+
+本站大部分文章都是作者原创（转载会注明出处），长期更新，内容包括：计算机基础、Java、职场、效率软件、英语、生活、读书等，持续更新
+
 
 ### Campus Lifes
 ↗ [CS International Universities & Degrees](CS%20International%20Universities%20&%20Degrees/CS%20International%20Universities%20&%20Degrees.md)
@@ -677,7 +685,6 @@ Evian Zhang's naive blog
 ### Career Guidance & Opportunities
 #### CS Professional Career
 ↗ [CS & IT Jobs & Interns Related](CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
-
 #### non-CS Professional Career
 ---
 🔥 https://www.imaginephd.com

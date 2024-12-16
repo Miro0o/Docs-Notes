@@ -55,11 +55,16 @@ Trending LLM Projects
 - [Gemma](https://blog.google/technology/developers/gemma-open-models/) - Gemma is built for responsible AI development from the same research and technology used to create Gemini models.
 - [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 
----
+
+### Other Resources
+🚧 https://github.com/vllm-project/vllm
+https://docs.vllm.ai/en/stable/
+vLLM is a fast and easy-to-use library for LLM inference and serving.
 
 
 
 ## Intro
+
 
 
 ## Ref

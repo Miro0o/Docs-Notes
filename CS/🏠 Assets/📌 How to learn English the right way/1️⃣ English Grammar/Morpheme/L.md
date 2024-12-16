@@ -2180,14 +2180,26 @@
 		11. sloughing
 			1. **shedding**蜕落;**peeling**剥皮，去皮;**skin**皮肤;**rotting**深蚀刻;**piling**打桩;**tearing**痛苦的;**stripping**抽锭,脱模,拆模;**necrosis**坏死;**erosion**侵蚀，腐蚀;**scarring**结疤;**softening**变软;
 	9. slouch(dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern)
-		1. 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.
+		1. 来自辅音丛 sl-,邋遢的，懒的，比较 slattern, slut, sloven, slug.
 		2. n. 没精打采的样子, 耷拉, 笨人 
 		3. vi. 没精打采地走, 耷拉着 vt. 使低垂
-		4.  slouchy
+		4. I knew him for a sluggard in the morning; but, as it drew on towards noon, I lost my patience. /我早上认识他是个懒汉； 但是，快到中午了， 我失去了耐心。
+		5. Sluggards do not plow in season; so at harvest time they look but find nothing. /懒惰人因冬寒不肯耕种，到收割的时候，他必讨饭而无所得。
+		6. A sluggard buries his hand in the dish; he will not even bring it back to his mouth! /懒惰人放手在盘子里，就是向口撤回，他也不肯。
+		7. Go to the ant, you sluggard; consider its ways and be wise! /懒惰人哪，你去察看蚂蚁的动作，就可得智慧。
+		8. A sluggard says, " There's a lion in the road, a fierce lion roaming the streets" ! /懒惰人说：" 道上有猛狮，街上有壮狮。"
+		9. As a door turns on its hinges, so a **sluggard** turns on his bed. /门在枢纽转动，懒惰人在床上也是如此。
+		10. slouchy
 			1. _adj._ [untidy](dic://untidy)
 			2. _n._ [tidy](dic://tidy)
 			3. **cardigan**羊毛衫，开襟羊毛衫;**boxy**四四方方的;**baggy**袋状的，膨胀的;**pullover**套衫;**chic**时髦;**chunky**矮胖的;**sweater**毛线衣，运动衫;**comfy**舒服的;**stretchy**有弹性的;**sweatshirt**运动衫;**oversized**大于一般的，特大号的;
-		5. slouching
+			4. _[dead-alive languid slouching slouchy spiritless](dic://dead-alive%20languid%20slouching%20slouchy%20spiritless)_ 没精打采的
+			5. _[tory burch slouchy straw tote](dic://tory%20burch%20slouchy%20straw%20tote)_ 说高处不胜寒
+			6. Now Alex walked into her first session, wearing jeans and a big slouchy top. /Alex第一次前来会谈时，穿着牛仔裤和宽大上衣。
+			7. That slouchy, sexy, je ne sais quoi thing. But I am the customer that wants it. /那种慵懒 性感 说不上来的风格 但是我是一个想要拥有这一切的消费者。
+			8. I don't know why I was walking so " extra slouchy." Thank you, Ms. Shalom. /我不知道为什么我走得这么“特别懒散”。谢谢你，沙洛姆女士。
+			9. We had a small side room with a **slouchy** couch and a television set. /我们有一间小小的偏房，里面有一张垂头弯腰的沙发和一台电视机。
+		11. slouching
 	10. sludge
 		1. 来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop, slosh, slough, sludge.
 		2. n. 烂泥；泥泞；泥状雪；沉淀物；（海上）小浮冰
@@ -2209,37 +2221,68 @@
 		18. The sludge contains pollutants that the plant can't treat. /这些淤渣中含有工厂无法处理的污染物。
 		19. Its workers cleared the tank of tonnes of sludge, and relaid the neighbourhood's sewage pipes. /工人们清理了水箱里的数吨污泥，并重新铺设了附近的污水管道。
 		20. sludgy
-			1. Kind of passing through this gross stage in between of kind of sludgy stuff filled with fly larvae /可以说是跳过了满是蛆虫的泥泞的恶心阶段。”
-			2. A singularly unattractive sludgy tentacle curled its way around the small dragon and lifted it into the air. /一只非常不吸引人的泥泞的触手卷绕着小龙，把它举到了空中。
-			3. She gives him a dubious look but leaves the last burnt, sludgy vestiges of coffee where they are and rolls off with her cart. /她疑惑地看了他一眼，但还是把最后一点烧焦、沾满泥浆的咖啡留在了原处，然后推着推车滚了下去。
-			4. His voice is not **sludgy** and slow, as it was in "Brokeback Mountain." /他的声音不似《断臂山》里的拖沓、低沉。
-		21. sludging
-		22. sludger
+			1. adj. 泥的；泥泞的
+			2. Kind of passing through this gross stage in between of kind of sludgy stuff filled with fly larvae /可以说是跳过了满是蛆虫的泥泞的恶心阶段。”
+			3. A singularly unattractive sludgy tentacle curled its way around the small dragon and lifted it into the air. /一只非常不吸引人的泥泞的触手卷绕着小龙，把它举到了空中。
+			4. She gives him a dubious look but leaves the last burnt, sludgy vestiges of coffee where they are and rolls off with her cart. /她疑惑地看了他一眼，但还是把最后一点烧焦、沾满泥浆的咖啡留在了原处，然后推着推车滚了下去。
+			5. His voice is not **sludgy** and slow, as it was in "Brokeback Mountain." /他的声音不似《断臂山》里的拖沓、低沉。
+		22. sludging
+		23. sludger
 			1. n. 用以清除淤泥等之机械或装置
-		23. desludging
-		24. antisludge
+		24. desludging
+		25. antisludge
 			1. 去垢
 	11. slug
-		1. sluggish (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern)
-			1. [sulky](dic://sulky)
-			2. [dull](dic://dull), [slow](dic://slow)
-			3. [inert](dic://inert), [soggy](dic://soggy), [torpid](dic://torpid)
-			4. _adj._ [slow](dic://slow), [inactive](dic://inactive)
-			5. _n._ [fast](dic://fast), [active](dic://active)
-			6. **slow**慢的;**lackluster**无光泽,暗淡;**stagnant**停滞的;**slower**较慢的;**erratic**不稳定的;**bloated**傲慢的;**slowdown**减速;**fatigued**疲乏的;**slowing**慢化;**weak**疲软的;**unresponsive**无答复的,反应迟钝的,感受性迟钝的,无同情心的;
-		2. slugger
+		1. n. 鼻涕虫; 少量, 一小杯; 子弹; 金属筹码  v. 用力打, 狠揍; 猛击（球）
+		2. n. 蛞蝓，鼻涕虫；<非正式>子弹，气枪弹；满满一口（尤指烈酒）；<美>（投入机器中的）假硬币，代币；懒汉，懒虫；重击；（整行铸排机印刷时的）一行铅字；（计算机）处理后的标题（用于构建固定链接） 
+		3. v. <非正式>重击（某人）；猛击（球）；痛饮（某物，尤指酒），大喝；决一雌雄（slug it out）
+		4. 1 - 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.引申词义懒鬼，后用于指蛞蝓，一种蜗牛。  
+		5. 2 - 可能来自 Proto-Germanic*slog,猛击，击打，来自 PIE*slak,猛击，击打，词源同 slay,slog,slag.引申词义猎枪子弹，铅弹，金属圆片。
+		6. [bullet](dic://bullet)
+		7.  [sluggard](dic://sluggard)
+		8.  [slog](dic://slog), [swig](dic://swig)
+		9. [idle](dic://idle), [laze](dic://laze), [stagnate](dic://stagnate)
+		10. _n._ [projectile](dic://projectile), [missile](dic://missile), [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout), [bum](dic://bum)
+		11. _v._ [hit](dic://hit)
+		12. **snail**蜗牛;**snails**腹足类;**critter**动物;**slime**黏液;**toad**蟾蜍;**bullet**子弹;**shotgun**霰弹猎枪;**bullets**子弹;**blob**一滴;**spider**蜘蛛;**monster**怪物;
+		13. _slug flow_ 弹状流；活塞流
+		14. _slug it out_ [美国口语] 决一雄雌
+		15. he took a slug of whisky. /他喝了一大口威士忌酒。
+		16. they went outside to slug it out. /他们到外边决一雌雄。
+		17. the reactor uses embedded slugs of uranium /反应堆使用嵌入式的铀棒。
+		18. That's not a shoe, that's a fossilized slug. /那不是鞋子，那是鼻涕虫化石。
+		19. There is an animal called a slug, a very lazy animal. /有一种动物叫鼻涕虫，它一种非常懒惰的动物。
+		20. She had trodden on the giant slug, which burst /她一脚踩中了那条巨大的鼻涕虫，鼻涕虫啪的一声爆炸了。
+		21. 
+		22. sluggish (dilatory, listless, sluggish, sloven, slob, soggy, torpid, inert, sluggard, slouch, slattern)
+			1. adj. 萧条的；迟钝的；懒惰的；行动迟缓的
+			2. n. 市况呆滞；市势疲弱
+			3. [sulky](dic://sulky)
+			4. [dull](dic://dull), [slow](dic://slow)
+			5. [inert](dic://inert), [soggy](dic://soggy), [torpid](dic://torpid)
+			6. _adj._ [slow](dic://slow), [inactive](dic://inactive)
+			7. _n._ [fast](dic://fast), [active](dic://active)
+			8. **slow**慢的;**lackluster**无光泽,暗淡;**stagnant**停滞的;**slower**较慢的;**erratic**不稳定的;**bloated**傲慢的;**slowdown**减速;**fatigued**疲乏的;**slowing**慢化;**weak**疲软的;**unresponsive**无答复的,反应迟钝的,感受性迟钝的,无同情心的;
+			9. a sluggish stream; sluggish growth. /缓缓的小溪；缓慢的生长
+			10. a gentle paddle on sluggish water. /在缓缓流水中轻轻地划桨。
+			11. she suggests ways to jump-start the sluggish educational system. /她提出了几种方法来推动发展迟缓的教育体制。
+			12. The snake was sluggish because of the cold weather. /由于天气寒冷，蛇行动迟缓。
+			13. But the sluggish US economic recovery has also contributed to the exodus /美国经济复苏放缓也是原因之一。
+			14. The recovery remains sluggish, but compares well with those of other economies. /复苏仍旧迟缓，但是比较起其他经济产业的复苏来说已经很不错了。
+			15. You might start coughing, feel sluggish and have chest pain. /你可能会开始咳嗽、感觉迟钝和胸痛。
+		24. slugger
 			1. [batter](dic://batter), [hitter](dic://hitter), [batsman](dic://batsman)
 			2. [slogger](dic://slogger)
 			3. _n._ [ballplayer](dic://ballplayer), [baseball player](dic://baseball player), [boxer](dic://boxer), [pugilist](dic://pugilist)
 			4. **outfielder**外场手;**baseman**守垒员，垒手;**shortstop**游击,速显液;**hitter**击球员;**infielder**内野手;**right-hander**用右手的人,右手打击;**pitcher**投手;**catcher**捕手，捕捉者;**baseball**棒球运动;**Orioles**金莺队;**fielder**外野手;
-		3. sluggishly
-		4. slugging
-		5. sluggard
+		25. sluggishly
+		26. slugging
+		27. sluggard
 			1. _n._ [idler](dic://idler), [loafer](dic://loafer), [do-nothing](dic://do-nothing), [layabout](dic://layabout), [bum](dic://bum)
 			2. **Proverbs**箴言篇;**doth**从事;**proverb**谚语，格言;**ant**蚂蚁;**lazy**懒惰的;
-		6. slugfest
-		7. slugabed
-	12. slur
+		28. slugfest
+		29. slugabed
+	13. slur
 		1. (contempt, opprobrium, dismissive, sniffish, disdain, decline, detest, refuse, scorn, patronage, condecension, diatribe, fulmination, fastidious, abhorrence, abomination, execration, loathing, odium, pejorative, derogatory, slur, stigmatize, disparage, asperse, vilipend, deprecate, depreciate, belittle)
 		2. [aspersion](dic://aspersion)
 		3. [smudge](dic://smudge), [spot](dic://spot), [blot](dic://blot), [daub](dic://daub), [smear](dic://smear), [smirch](dic://smirch)
@@ -2247,7 +2290,7 @@
 		5. _n._ [musical notation](dic://musical notation), [disparagement](dic://disparagement), [depreciation](dic://depreciation), [derogation](dic://derogation), [blemish](dic://blemish), [defect](dic://defect), [mar](dic://mar)
 		6. _v._ [play](dic://play), [spiel](dic://spiel), [denote](dic://denote), [refer](dic://refer), [talk](dic://talk), [speak](dic://speak), [utter](dic://utter)
 		7. **derogatory**不敬的;**disparaging**轻蔑的;**racist**种族主义者;**insult**侮辱;**bigot**偏执的人;**bigoted**顽固的;**accusation**指责;**slander**诽谤;**phrase**成语;**insulting**侮辱的;**insults**侮辱;
-	13. slush
+	14. slush
 		1. [splash](dic://splash), [splosh](dic://splosh), [slosh](dic://slosh)
 		2. [slosh](dic://slosh), [slosh around](dic://slosh around), [slush around](dic://slush around)
 		3. [water](dic://water), [H2O](dic://H2O)
@@ -2255,14 +2298,24 @@
 		5. **snow**雪，积雪;**icy**冰冷的;**mud**泥;**puddles**划桨留下的水旋涡;**muck**垃圾;**pile**堆;**puddle**水坑，泥潭;**ice**冰;**frozen**冻结的;**piles**痔疮;**bottomless**无底的;
 		6. _ice slush_ 冰泥；冰凌
 		7. _slush fund_ （美）行贿基金
-		8. slushy
+		8. the snow was turning into brown slush in the gutters. /沟里的雪开始化成棕色的雪泥。
+		9. there was water slushing around in the galley. /划桨舱内有哗哗响的水流。
+		10. the slush of Hollywood's romantic fifties films. /50年代好莱坞爱情影片中的多愁善感。
+		11. A pair of wide tracks led through the slush and mud. /脏雪和烂泥上有一行很宽的脚印。
+		12. No, none of your slush puppy rubbish. /不，不要你胡说八道的垃圾饮料。
+		13. Slush is snow or ice that has partly melted. /雪泥就是部分融化了的雪或者冰。
+		14. Still plenty of snow but much of it turning to slush. /地面仍然有大量的雪，但大部分都变成了雪泥。
+		15. slushy
 			1.  [bathetic](dic://bathetic), [drippy](dic://drippy), [hokey](dic://hokey), [maudlin](dic://maudlin), [mawkish](dic://mawkish), [mushy](dic://mushy), [schmaltzy](dic://schmaltzy), [schmalzy](dic://schmalzy), [sentimental](dic://sentimental), [soppy](dic://soppy), [soupy](dic://soupy)
 			2. [unfrozen](dic://unfrozen), [emotional](dic://emotional)
 			3. **icy**冰冷的;**slush**烂泥;**snow**雪，积雪;**frosty**结霜的，严寒的;**muddy**泥泞的;**snowy**下雪的，多雪的;**ice**冰;**mushy**糊状的;**slippery**滑的;**puddles**划桨留下的水旋涡;**soggy**浸水的;
-		9. slushing
-		10. slusher
+			4. My daughter is using me to get a slushy. /我女儿让我给她买冰沙。
+			5. You could make a slushy back here. /后座这里冷得可以做雪泥了。
+			6. Now slush is a very interesting word, because sometimes you can, at movie theaters in America, drink a slushy drink. /雪泥是一个非常有趣的词，因为有时你可以在美国的电影院里喝沙冰饮料。
+		16. slushing
+		17. slusher
 			1. n. 烂泥；污水；水泥砂浆；胡说八道 vt. 溅湿；给…灌砂浆；给…上润滑油
-	14. sloven
+	15. sloven
 		1. n. 懒散的人；不修边幅的人
 		2. [slob](dic://slob), [pig](dic://pig), [slovenly person](dic://slovenly person)
 		3. _n._ [vulgarian](dic://vulgarian)
@@ -2282,7 +2335,7 @@
 
 ### + \*leie- +
 1. **lim-** 表示“饥饿”, 源自希腊语 limos（hunger）。Limos 是希腊神话中的饥饿之神。源自希腊语 limos "hunger, famine."
-	1. bulimia (anorexia)
+	1. bulimia (anorexia) [美 /bu'lɪmɪə/](cmd://Speak/_us_/bulimia)
 		1. bu-,牛，此处表强调，词源同 bovine. -lim,饥饿。
 		2. _n._ [eating disorder](dic://eating disorder), [hunger](dic://hunger), [hungriness](dic://hungriness)
 		3. **anorexia**厌食;**dieting**节食;**alcoholism**酒精中毒;**addiction**瘾，吸毒成瘾;**depression**沮丧;**disorder**混乱;**relapse**再度堕落;**binge**狂欢作乐;**obesity**肥大，肥胖;**schizophrenia**精神分裂症;**self-esteem**自尊;

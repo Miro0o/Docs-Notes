@@ -18,7 +18,7 @@
 [Obsidian Hub](https://publish.obsidian.md/hub/00+-+Contribute+to+the+Obsidian+Hub/🗂%EF%B8%8F+00+-+Contribute+to+the+Obsidian+Hub)
 
 
-### Open Sourcs
+### Open Sources
 🇨🇳 [Obsidian-docs](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
 
 [Obsidian-Q群管理员落山鸡的笔记](https://jackiexiao.github.io/obsidian-chinese-help/)
@@ -43,11 +43,13 @@ Obsidian CSS
 
 > 🔗 [Obsidian美化｜CSS Snippets资源整理](https://forum-zh.obsidian.md/t/topic/699)
 
+
 ### CSS基础教程
 首先列举两个CSS相关的基础教程，大家其实可以学会了之后自己试着改，想改哪里点哪里：
 - 知乎 @韦钧培 的教程：[Obsidian自定义样式修改教程](https://zhuanlan.zhihu.com/p/373888121)
 - 本论坛 @WhyI_TripleF 大佬的教学帖：[Obsidian主题样式修改半入门教学](https://forum-zh.obsidian.md/t/topic/180)
 每一个片段的用途一般会写在 `/**/` 包围起来的注释里，不会特别复杂，应该还是比较好懂的。
+
 
 ### GitHub资源
 - [kmaasrud](https://github.com/kmaasrud) 的 [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) 是一个非常全面的资源集合，包括但不限于CSS主题、Ob模板和插件等方面。
@@ -55,11 +57,11 @@ Obsidian CSS
 - [deathau](https://github.com/deathau) 的 [obsidian-snippets](https://github.com/deathau/obsidian-snippets)是修改编辑区内一些花样比较多的样式的，比如背景颜色和checkbox小图标之类的。
 - [eleanorkonik](https://github.com/eleanorkonik) 的 [-palatinate 256](https://github.com/eleanorkonik/-palatinate)，这位是原生主题配色爱好者，改动的部分也基本是文本，比如引用框的样式。现在她写的theme在社区已经上架了，也可以一键安装使用。
 
+
 ### 英文论坛和Discord
 这两边信息都非常多，而且很碎，所以我只搜集了一些我自己感兴趣的：
 -   [Custom CSS for tables 172](https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-your-notes/17084)：美化`Dataview`生成的表格样式。
 -   Discord@SIRvb：打开设置界面时背景模糊
-
 
 
 ### 🔗 Ref
@@ -75,7 +77,9 @@ Obsidian CSS
 ### 👉 Obsidian Git
 >🔗 https://forum.obsidian.md/t/obsidian-git-plugin-for-automatic-vault-backup-with-git/7790
 
+
 ### 👉 Emoji Shortcode
+
 
 ### 👉 Vimrc Support
 > 🔗 [Obsidian's Vim mode](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Vim+users)
@@ -84,6 +88,7 @@ Obsidian CSS
 > - It is recommended to use the [vimrc Support Plugin](https://obsidian.md/plugins?id=obsidian-vimrc-support) to be able use an obsidian-specific `.vimrc` file.
 
 > 🔗 [vimrc Support Plugin](https://obsidian.md/plugins?id=obsidian-vimrc-support)
+
 
 ### 👉 Omnisearch
 

@@ -11,6 +11,10 @@
 
 [JS逆向系列教程，模拟登录，AES、RSA、DES加密等，持续更新，欢迎 star！](https://github.com/DingZaiHub/PythonSpider)
 
+https://paywallbuster.com
+We all hate paywalls. Let us help you break down these walls.
+解锁付费内容
+
 
 
 ## 👉 Unblock Netease Music

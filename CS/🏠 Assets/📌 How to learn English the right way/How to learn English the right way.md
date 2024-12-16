@@ -23,6 +23,8 @@ https://www.english-corpora.org/corpora.asp
 
 https://forvo.com
 
+https://www.visualthesaurus.com
+
 
 
 ## Intro
@@ -59,7 +61,6 @@ This series of posts track my path of english learning.
 >
 >   我的观点是，抓着本质走，慢就是快。
 
-
 [学英语，语法到底有多重要？你的高中老师可能骗了你！]: https://www.jianshu.com/p/a6db77f44dbd
 
 [英语语法：后置现象(postponement) - Filter的文章 - 知乎]:  https://zhuanlan.zhihu.com/p/423575825
@@ -80,3 +81,4 @@ This series of posts track my path of english learning.
 > 昨天终于想到了一个可能性——对单词的熟悉程度。我们对于中文的文字极其熟悉，一页纸扫过去，不经过意识，只要下意识就能迅速地发现一些生僻的字眼，或者自己关心的字眼（比如对我来说，一页纸扫一眼就知道有没有关于认知科学的信息）。但是对于英文单词的熟悉程度却没有到达这个程度，大脑处理的速度跟不上，我无法做到一眼扫过去下意识就能锁定其中几个"关键词"然后进而得到大致的信息。
 
 [如何解决阅读英语文章时产生的，读了后面忘了前面的问题。? - Liston的回答 - 知乎]: https://www.zhihu.com/question/33461461/answer/2717886289
+

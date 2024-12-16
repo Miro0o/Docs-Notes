@@ -59,8 +59,8 @@ https://wow.groq.com/why-groq/
 #### ChatGPT
 🏠 https://chat.openai.com/chat
 
-↗ [OpenAI /chatGPT](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Lists%20&%20Ranking/OpenAI%20ChatGPT.md)
-↗ [Prompt Engineering](../../Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Optimization%20&%20Tuning/Prompt%20Engineering/Prompt%20Engineering.md)
+↗ [OpenAI /chatGPT](../../🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Lists%20&%20Ranking/OpenAI%20ChatGPT.md)
+↗ [Prompt Engineering](../../🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Optimization%20&%20Tuning/Prompt%20Engineering/Prompt%20Engineering.md)
 #### Claude
 https://www.anthropic.com/app-unavailable-in-region?utm_source=country
 #### Gemini

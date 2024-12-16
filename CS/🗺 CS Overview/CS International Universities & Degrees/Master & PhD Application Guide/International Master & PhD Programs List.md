@@ -13,18 +13,36 @@
 ↗ [Natural Science Information](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
 
 
-### Time Table
-OCT. 15
-Dec. 15
-Jan. 15
-Feb. 15
+### CS School Academic Ranking
+↗ [CS International Universities & Degrees](../CS%20International%20Universities%20&%20Degrees.md)
+
+↗ [Academics](../../../Academics/Academics.md) | 文献计量学与学术评价
+bibliometrics
+- https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
+- https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
+- https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
+- https://www.usnews.com/best-colleges/rankings/national-universities | U.S. News, 
+
+https://www.tltzg.com/luohu/8402.html
+
+![shrs_school_ranking](../../../../Assets/Pics/shrs_school_ranking.jpg)
+
+![shrc_school_ranking_50_100](../../../../Assets/Pics/shrc_school_ranking_50_100.jpg)
 
 
-### Other Info
+### Programs, Universities, Countries, Personal Development, and Universe 🤯
 https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/computer-science-information-systems?page=0
 QS World University Rankings by Subject 2023: Computer Science and Information Systems
 
 我的奋斗：从找不到工作的穷留学生到沙特阿卜杜拉国王科技大学（KAUST）第一位华人高级网络工程师 - 弈心的文章 - 知乎 https://zhuanlan.zhihu.com/p/146003181
+
+🤔 中科院敏感专业，学硕转博还是硬刚美国博士？
+https://www.1point3acres.com/bbs/thread-648011-1-1.html
+
+
+### Application Info
+https://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=82&filter=sortid&sortid=164&orderby=dateline
+一亩三分地 - 录取汇报 - 研究生
 
 https://offer.gter.net/summary/Z8pDorvJyr3y6IOSu2SeHAsDTRKhfH5rEWQ2MGQ~
 985低均分欧陆➕港新英混申总结 （2024fall）
@@ -32,9 +50,144 @@ https://offer.gter.net/summary/Z8pDorvJyr3y6IOSu2SeHAsDTRKhfH5rEWQ2MGQ~
 https://offer.gter.net/summary/Z8pDorvJyrj56IOSuzmbHV9eRRKhfH5rEWQ2MGQ~
 24Fall欧陆CS硕士低绩点海投DIY总结
 
+https://www.1point3acres.com/bbs/home.php?mod=space&uid=689679&do=thread&view=me&from=space
+申请总结 (TUd, ETH, EFPL, UCSD, UPenn, USC, NEU)
 
-### Application Windows 2024
-13 OCt. ~ 1 Mar.
+https://offer.gter.net/summary/Z8pDorvJybj56IOSu2vJHV0HQBKhfH5rEWQ2MGQ~
+ 24Fall cs加硕申请
+
+https://www.1point3acres.com/bbs/home.php?mod=space&do=thread&view=me&type=thread&uid=852709&from=space
+24fall 欧美混申
+
+https://www.1point3acres.com/bbs/home.php?mod=space&do=thread&view=me&type=thread&uid=1030896&from=space
+华五某校（nju）SE本科，加权均分82，WES3.3（还没做，自己手算的），雅思7.5（6），GRE 325，无实习科研，两段暑校。美硕回国向。
+
+https://www.1point3acres.com/bbs/home.php?mod=space&do=thread&view=me&type=thread&uid=939705&from=space
+东北大学，3.93/5，一段实习，两三段比较水的科研，TOFEL103，GRE324
+
+https://www.1point3acres.com/bbs/home.php?mod=space&do=thread&view=me&type=thread&uid=733390&from=space
+大工（？）3.9/4，软工，
+
+https://www.1point3acres.com/bbs/home.php?mod=space&do=thread&view=me&type=thread&uid=1012282&from=space
+美本top40，major是math-cs，minor是data science。gpa 3.92，专业课gpa4.0，gre：332+4。目标是AI/ML方向
+
+软背景贼菜。research有一段线上（买的）深度学习的科研，有一篇关于深度学习在stock market应用的共一paper已见刊。在学校跟着一个实验室做的CNN方向的科研，后来没有发表。
+
+自己的project比较杂，有neural style transfer，object detection这种然后做成前段网页这种。
+
+推荐信也不咋滴都是任课prof，估计一篇会偏强推一点，剩下两篇应该就一般推，只能夸一下上的课成绩那种。.
+
+![](../../../../Assets/Pics/Pasted%20image%2020241215030427.png)
+
+
+### Application Windows 2024CS
+```mermaid
+gantt
+
+title 申请时间线
+%% 起止日期语法格式 
+dateFormat YYYY-MM-DD
+%% 最下方时间轴日期格式 
+axisFormat %m-%d 
+%% 最下方时间轴时间间隔 
+tickInterval 2week
+%% 表示今天标记的显示样式 
+todayMarker stroke-width:3px,stroke:#FBBC05,opacity:0.6 
+
+%% 定义任务分类/区 
+section 申请启动
+项目开始: milestone, a1, 2024-11-15, 0d
+
+section 重要时间节点
+M1: milestone, 2024-12-1, 0d
+M2: milestone, 2024-12-15, 0d
+M3: milestone, 2025-01-20, 0d
+
+section 🇺🇸
+Yale@MSCS(2year/1year): active, 2024-11-15, 2025-01-02
+UW-Madison@MSCS: active, 2024-11-15, 2024-12-15
+Duke@MSCS: active, 2024-11-15, 2025-01-30
+Duke@MSECE(priority): active, 2024-11-15, 2025-01-16
+Duke@MSECE(regular): active, 2024-11-15, 2025-03-15
+CMU@ECE: active, 2024-11-15, 2024-12-15
+CMU@INI: active, 2024-11-15, 2025-01-15
+GT@Cybersecurity(ECE): active, 2024-11-15, 2024-12-16
+GT@Cybersecurity(InfoSec): active, 2024-11-15, 2025-02-17
+GT@Cybersecurity(Policy): active, 2024-11-15, 2025-03-01
+GT@CS: active, 2024-11-15, 2025-02-01
+GT@ECE: active, 2024-11-15, 2025-02-01
+GT@CSE: active, 2024-11-15, 2025-02-01
+NWU@MSCS(rolling1): active, 2024-11-15, 2024-12-31
+NWU@MSCS(rolling2): active, 2024-11-15, 2025-02-28
+UT-Austin@MSCS: active, 2024-11-15, 2024-12-15
+UT-Austin@MSDS: active, 2024-11-15, 2024-12-15
+UT-Austin@MSAI: active, 2024-11-15, 2024-12-15
+TAMU@MSCS: active, 2024-11-15, 2025-01-15
+PSU@CSE: active, 2024-11-15, 2024-12-20
+UMaryland-CP@MSCS: active, 2024-11-15, 2024-12-20
+NYU@TandonSchoolofEngineering(early): active, 2024-11-15, 2024-12-01
+NYU@TandonSchoolofEngineering: active, 2024-11-15, 2025-02-15
+NYU@MSCS(Courant): active, 2024-11-15, 2025-03-01
+NYU@MSIS(Courant): active, 2024-11-15, 2025-03-01
+UMass@MSCS: active, 2024-11-15, 2024-12-15
+OSU: active, 2024-11-15, 2025-02-01
+UChicago: active, 2024-11-15, 2024-12-15
+RICE: active, 2024-11-15, 2024-12-15
+WashU@MSCS: active, 2024-11-15, 2025-03-01
+NEU@MSCS: active, 2024-11-15, 2025-04-01
+NEU@MSCybersecurity: active, 2024-11-15, 2025-04-01
+Emory: active, 2024-11-15, 2024-12-15
+UCLA@MSCS: active, 2024-11-15, 2024-12-15
+USC@MSCS: active, 2024-11-15, 2024-12-15
+UCSD@MSCS: active, 2024-11-15, 2024-12-15
+UW@MSLinguistics: active, 2024-12-01, 2025-03-01
+
+section 🇨🇦
+UoW@MASc: active, 2024-11-15, 2025-02-01
+UoT@MScAC: active, 2024-11-15, 2024-12-02
+UBC@MASc: active, 2024-11-15, 2025-01-15
+UBC@MENG: active, 2024-11-15, 2024-11-30
+
+section 🇪‍🇺
+EIT@DS: active, 2024-11-15, 2025-02-10
+
+section 🇨‍🇭
+ETH: active, 2024-11-15, 2024-12-01
+EPFL: active, 2024-11-15, 2024-12-01
+
+section 🇩🇪
+TUM@Informatics: active, 2025-02-01, 2025-03-15
+
+section 🇳🇱 🇧‍🇪 🇩‍🇰
+TU/d@MSCS : active, 2024-11-15, 2025-01-15
+TU/e@MSCS (scholarship): active, 2024-11-15, 2025-02-01
+UU@MSCS (scholarship): active, 2024-11-15, 2025-02-01
+KUL@MEngCS: active, 2024-11-15, 2025-03-01
+DTU@MSCS: active, 2024-11-15, 2025-01-15
+DTU+KAIST@Dual: active, 2024-11-15, 2025-01-15
+
+section 🇸🇪 🇳‍🇴 🇫‍🇮
+KTH@MS-Cybersecurity: active, 2024-11-15, 2025-01-25
+KTH@MS-CS: active, 2024-11-15, 2025-01-25
+KTH@MS-ML: active, 2024-11-15, 2025-01-25
+KTH@MS-SEDE: active, 2024-11-15, 2025-01-25
+Alto@MSCS: active, 2024-11-28, 2024-12-27
+Alto@MS-SSE: active, 2024-11-28, 2024-12-27
+Alto@MSML: active, 2024-11-28, 2024-12-27
+Alto@Game-Design: active, 2024-11-28, 2024-12-27
+
+section 🇬🇧 🇭🇰 🇸🇬
+HKU@mphil-CS: active, 2024-11-15, 2024-12-02
+CUHK@mphil-CS: active, 2024-11-15, 2024-12-02
+
+section 🇰🇷 🇯🇵
+KAIST@MSCS (early track): active, 2024-12-02, 2024-12-23
+KAIST@MSCS (regular track): active, 2025-03-04, 2025-03-25
+KU@MSCS(?): active, 2025-03-04, 2025-03-25
+
+section 申请结束
+项目结束: milestone, 2025-3-15, 0d
+```
 
 
 
@@ -128,7 +281,7 @@ https://masterschool.eitdigital.eu/data-science
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
 
 “玛丽居里”行动（Marie Skłodowska-Curie actions）是[欧盟框架计划](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E6%A1%86%E6%9E%B6%E8%AE%A1%E5%88%92&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)在科研人才培养方面发起的旨在增强欧盟科研人员竞争力的计划。行动命名源于两次诺贝尔奖获得者波兰-法国科学家“居里夫人”。该行动支持的研究学者包括各个研究领域，而且涵盖到所有国籍，包括学术界和企业界，从科研到培训。  
-玛丽居里项目针对不同的目标共有5种类型：  
+玛丽居里项目针对不同的目标共有5种类型：
 
 **01 DN- Doctoral Network**  
 Doctoral Networks 的目标是通过来自欧洲及其他地区不同部门的组织的合作伙伴关系实施博士课程，以培养高技能的博士候选人，激发他们的创造力，提高他们的创新能力，并提高他们的长期就业能力。  
@@ -161,6 +314,7 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 ### 🇧‍🇪 Belgium
 #### 👉👉 KU Leuven 👈👈
 🚪 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_ad_appl/index.html?sap-syscmd=nocookie&saml2idp=https://idp.kuleuven.be/idpx&instelling=50000050
+
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_ad_appl/index.html?&sap-syscmd=nocookie&sap-client=200&sap-language=EN&instelling=50000050&saml2idp=https%3a%2f%2fidp.kuleuven.be%2fidpx#
 
 https://www.kuleuven.be/english/apply/application-instructions/instructions-degree **(Application instructions for degree seeking students)**
@@ -309,18 +463,24 @@ The Institution Code: 7806, Department: 5199 ("all other departments").
 https://www.rwth-aachen.de/go/id/bcfg?lidx=1#aaaaaaaaaaabcfh
 ##### Computer Engineering M.Eng (English)
 https://www.rwth-aachen.de/go/id/bhgyzl?lidx=1#aaaaaaaaabhgzcs
+
 #### 👉 Freie Universitaet Berlin
+
 #### 👉 Humboldt-Universität zu Berlin
+
 #### 👉 Ruhr-University Bochum
+
 #### 👉 University of Stuttgart
 ##### Master of Science, Computer Science
 https://www.uni-stuttgart.de/en/study/study-programs/Computer-Science-M.Sc.-00001/
+
 
 ### 🇫‍🇷 France
 **“卓越大学计划 (IDEX)”院校** (2022)
 - **永久资格：** 巴黎文理研究大学、 巴黎萨克雷大学、斯特拉斯堡大学、波尔多大学、艾克斯－马赛大学、索邦大学。
 - **试行期资格：** 巴黎大学、格勒诺布尔大学、蔚蓝海岸大学、里昂大学、图卢兹大学。
 #### 👉 Paris-Saclay University
+
 #### 👉 IPP (Insitut Polytechnique de Paris)
 https://www.ip-paris.fr/en
 1. Engineer Program
@@ -414,7 +574,7 @@ https://ethz.ch/en/studies/master/application/master-cybsec.html
 **1) VU Amsterdam Scholarship 2024**
 The VU Amsterdam University each year offers scholarships for international master’s students. Various number of scholarships are offered and acceptable at VU University like the Holland scholarship, and OKP Scholarship.
 - **Degree Level:** Master’s Degree Scholarship
-- **Website Link:****[Visit Here](https://link.zhihu.com/?target=https%3A//vu.nl/en/education/more-about/scholarships-for-international-masters-students)**
+- **Website Link:** **[Visit Here](https://link.zhihu.com/?target=https%3A//vu.nl/en/education/more-about/scholarships-for-international-masters-students)**
 
 **2) Leiden University Excellence Scholarship (LexS) 2024**
 The Leiden University is a popular University in the Netherlands. The Leiden University is a Tuition Fee scholarship for master’s degree students.
@@ -423,33 +583,33 @@ There are three available levels of awards:
 - € 10,000 of the tuition fee, € 15,000 of the tuition fee, Total tuition fee minus. the **[statutory tuition fee](https://link.zhihu.com/?target=https%3A//www.universiteitleiden.nl/en/education/admission-and-application/masters/tuition-fee)**
 - **Degree Level:** Master’s Degree Scholarship
 - **Deadline**: 1st October 2023
-- **Website Link:****[Visit Here](https://link.zhihu.com/?target=https%3A//www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs)**
+- **Website Link:** **[Visit Here](https://link.zhihu.com/?target=https%3A//www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs)**
 
 **3) Utrecht University Scholarships for International Students 2024**
 Utrecht University scholarship is an opportunity to pursue a **master’s degree program** in a selected number of fields at Utrecht University. The Utrecht University, the Dutch government, and other organizations offer the following number of scholarships.
 - **Degree Level:** Master’s Degree Scholarship
-- **Website Link:****[Visit Here](https://link.zhihu.com/?target=https%3A//www.uu.nl/en/masters/general-information/application-and-admission/scholarships-and-grants)**
+- **Website Link:** **[Visit Here](https://link.zhihu.com/?target=https%3A//www.uu.nl/en/masters/general-information/application-and-admission/scholarships-and-grants)**
 
 **4) Maastricht University Holland High Potential Scholarships 2024**
 The **Maastricht University Holland High Potential Scholarships 2024** is a **[Fully funded scholarship](https://link.zhihu.com/?target=https%3A//opportunitiescorners.com/)** to study in the Netherlands. Each year they offer **24** full scholarships for international students.
 The scholarship covers living expenses, health and liability insurance, visa application costs, tuition fees, and pre-academic training costs.
 - **Degree Level:** Master’s Degree Scholarship
 - **Deadline**: 1st February 2024
-- **Website Link:****[Visit Here](https://link.zhihu.com/?target=https%3A//www.uu.nl/en/masters/general-information/application-and-admission/scholarships-and-grants)**
+- **Website Link:** **[Visit Here](https://link.zhihu.com/?target=https%3A//www.uu.nl/en/masters/general-information/application-and-admission/scholarships-and-grants)**
 
 **5) TU Delft University Scholarship 2024**
 The aim of the Delft University of Technology (TU Delft) is to attract the world’s brightest students. For that, they have scholarship programs for international students. All TU Delft MSc degree programs are available.
 - **Deadline**: 1st December 2023
-- **Website Link:****[Visit Here](https://link.zhihu.com/?target=https%3A//www.tudelft.nl/en/education/practical-matters/scholarships)**
+- **Website Link:** **[Visit Here](https://link.zhihu.com/?target=https%3A//www.tudelft.nl/en/education/practical-matters/scholarships)**
 
 **6) Radboud University Scholarship 2024**
 The Radboud University scholarship program will open in October 2023. It offers a scholarship for a complete English-taught Radboud University **Master’s degree program.**
 The scholarship covers partial tuition fees, Visa costs, residence permits, and health insurance.
-- **Website Link:****[Visit Here](https://link.zhihu.com/?target=https%3A//www.ru.nl/en/education/scholarships/radboud-scholarship-programme)**
+- **Website Link:** **[Visit Here](https://link.zhihu.com/?target=https%3A//www.ru.nl/en/education/scholarships/radboud-scholarship-programme)**
 
 **7) Eric Bleumink Scholarships 2024**
 This is a Fully funded scholarship for international students that also covers traveling costs. Eric Bleumink Scholarships are awarded for **master’s programs** that typically span a duration of either one or two years.
-- **Website Link:****[Visit Here](https://link.zhihu.com/?target=https%3A//www.rug.nl/education/scholarships/eric-bleumink-fund%3Flang%3Den)**
+- **Website Link:** **[Visit Here](https://link.zhihu.com/?target=https%3A//www.rug.nl/education/scholarships/eric-bleumink-fund%3Flang%3Den)**
 
 **More Scholarships by Netherlands Universities**
 - University of Twente Scholarship
@@ -463,6 +623,7 @@ This is a Fully funded scholarship for international students that also covers t
 **List of Netherlands Universities Without IELTS**
 Netherlands universities **offer exemption from IELTS** if you are from English-speaking countries or if you have completed your previous degree from an English medium institute.
 - I have written an article on how to **[Study in Netherlands Universities Without IELTS (2023)](https://link.zhihu.com/?target=https%3A//opportunitiescorners.com/study-in-netherlands-universities-without-ielts/)**
+
 #### 👉 University of Amsterdam (UvA)
 🚪 https://www.studielink.nl/dashboard/home
 
@@ -479,7 +640,6 @@ https://www.uva.nl/en/programmes/masters/security-and-network-engineering/securi
 https://www.uva.nl/en/programmes/masters/information-studies-information-systems/information-systems.html?origin=5BOaRAofTjCccATraJp2XA
 ##### Information Studies: Data Science (track)
 https://www.uva.nl/en/programmes/masters/information-studies-data-science/data-science.html?origin=5BOaRAofTjCccATraJp2XA
-
 #### 👉 University of Twente
 🚪 https://www.studielink.nl/dashboard/home
 
@@ -494,6 +654,7 @@ https://www.utwente.nl/en/education/master/programmes/computer-science/
 - [Internet Science & Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/internet-science-technology/)
 #### 👉👉 TU/e (Eindhoven University of Technology) 👈👈
 🚪 https://www.studielink.nl/dashboard/home
+🚪 https://osiris.tue.nl/osiris_aanmeld_tueprd/Welkom.do (Application Portal)
 
 roadmap
 https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/computer-science-and-engineering-1/country/china
@@ -501,8 +662,12 @@ https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/pr
 	- https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/documents-for-admission?_gl=1*b6ao6p*_up*MQ..*_ga*MTYyMzI0OTA5Ny4xNzMxODgyNjc2*_ga_JN37M497TT*MTczMTg4MjY3Ni4xLjAuMTczMTg4MjY3Ni4wLjAuMA..
 	- **A concise description of courses from your previous degree(s)**
 		- N.B. this is not your academic transcript, but a description of the courses in your degree program. Usually this entails your Bachelor's degree, but if you are taking or have completed a further degree course, please also provide a description of these courses, if relevant to your application. The description should be concise, but must have sufficient detail to determine whether the combined subject matter of your courses demonstrates eligibility for the Master program. It typically lists 5 to 10 topics or learning objectives treated in each course or subject. You do not have to include all courses or subjects, only the ones which are relevant to evaluate eligibility.
+	- **Résumé / curriculum vitae**
+	- **Motivation letter**
 	- **A summary of your dissertation (in English)**  
 		- This is a summary of the dissertation or thesis you wrote to complete your academic education. It may also be a description of a final year project. If you have completed a Master’s program it may be your thesis. If you have not (yet) written such a document, please upload a short explanation, explaining either that you have not yet completed your dissertation, thesis or final project, or that your university does not require a dissertation, thesis or final project for graduation. This document should be in the English language.
+	- **Proof of financial means (applies to students with non-EEA nationality).**
+		- The proof of financial means is a statement from your bank showing you have access to a minimum amount for living expenses. The IND (Dutch immigration service) settles this amount every year in December for the upcoming academic year. For academic year 2024-2015 it was settled at a (equivalent to) €14,700. Because we expect this amount to rise, we ask you now to upload a proof showing you have access to a minimum amount of (equivalent to) €18,000,-. The bank statement may not be older than 3 months.
 - ![](../../../../Assets/Pics/Screenshot%202024-11-17%20at%2014.31.57.png)
 	- <small><a>https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/overview-admission-enrollment-process?_gl=1*7dw7d7*_up*MQ..*_ga*MTYyMzI0OTA5Ny4xNzMxODgyNjc2*_ga_JN37M497TT*MTczMTg4MjY3Ni4xLjAuMTczMTg4MjY3Ni4wLjAuMA..</a></small>
 ##### Master Program: Computer Science and Engineering (CSE)
@@ -511,27 +676,81 @@ https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engi
 https://www.tue.nl/en/education/graduate-school/master-artificial-intelligence-and-engineering-systems?_gl=1*1z11o6w*_up*MQ..*_ga*MTI0NTA0ODU0OS4xNzMxODgxMzgy*_ga_JN37M497TT*MTczMTg4MTM4MS4xLjEuMTczMTg4MTQ5Ny4wLjAuMA..
 ##### Research Group: Security (SEC)
 https://www.tue.nl/en/research/research-groups/computer-science/security
-#### 👉 TU Delft
-🚪 https://www.studielink.nl/dashboard/home
+#### 👉👉👉 TU Delft 👈👈👈
+🚪 https://www.studielink.nl/dashboard/home (studentlink)
+🚪 https://osiaan.tudelft.nl/osiris_ioi/AanmeldingenSecure.do (application portal)
+https://my.tudelft.nl/home
+Student Personal Webpage
 https://www.tudelft.nl/en/student/
+Student portal
+
+https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma (Application Instructions)
+- https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/application-procedure (Application Procedure)
+
+https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships (Scholarship)
 
 ##### MSc Computer Science
 https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science
 Application Info
-- https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines
-- https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/required-documents
+- https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines (deadlines)
+- https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/required-documents (materials)
+	- **Motivation Letter**: A clear and relevant essay in English (1,000 – 1,500 words) addrsessing the following:
+		- Your motivation for choosing this MSc programme.
+		- Why you are interested in TU Delft and what you expect to find here.
+		- If this MSc programme has specialisation(s), which specialisation interests you the most and why?
+		- Describe your hypothetical thesis project: what kind of project would you prefer? What would you want to explore? Please limit your answer to three possible topics.
+		- Summarize in a maximum of 250 words your BSc thesis work or final assignment/project. Please include information about the workload.
+	- **Reference Letters** (if applicable)
+		- Only required for applicants applying for a scholarship listed on our [website](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships).
+		- Two reference letters in either English or Dutch. These letters must be
+		- from either a previous professor or assistant professor. If you have work experience, one of these letters may be from your employer.
+		- preferably written on the official letterhead /have the official stamp of the university or company.
+		- signed by the referee and include your complete name.
+	- GRE (if applicable)
+		- Applicants applying for the following MSc programmes are required to take the GRE revised General Test, either taken at the Test centre or by Home Edition, and upload their results in TU Delft’s application portal:
+			- [Aerospace Engineering](https://www.tudelft.nl/en/education/programmes/masters/ae/msc-aerospace-engineering)
+			- [Computer & Embedded Systems Engineering](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering)
+			- [Computer Science](https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science)
+			- [Data Science and Artificial Intelligence Technology](https://www.tudelft.nl/en/onderwijs/opleidingen/masters/data-science-and-artificial-intelligence-technology/msc-data-science-and-artificial-intelligence-technology/admission-and-application)
+		- When registering for the test:
+			- Indicate TU Delft’s institutional code, 3823.
+			- For 'school type' select 'graduate schools’.
+			- For 'department' select ‘any other department not listed'.
+		- Your GRE test scores are an important part of your application and you should strive to submit the best possible scores. We do not set minimum GRE scores, but we look for applicants who attain a minimum score of 154 for Verbal Reasoning, 163 for Quantitative Reasoning, and 4.0 for Analytical Writing. We reserve the right to reject applicants who do not have these scores.
+
+**Ranked batch admission**
 Please note: admission for Non-EU nationals with an international (Non-Dutch) bachelor degree will be granted based on ranked batch admission.
-- The application deadline is 15 January (23:59 CEST) after which applications are ranked by the admission committee.
+- The application deadline is **15 January (23:59 CEST)** after which applications are ranked by the admission committee.
 - The ranking criteria are Academic Performance and Study Load in Key Subjects, CGPA, GRE, English level, Motivation and Demonstrated Self-Efficacy.
 - Applicants that do not meet our admission requirements will receive the admission decision (rejection letter) within 12 weeks after applying.
 - Applicants that fulfil the admission requirements will receive the admission letter mid-March.
 - Admission is granted to the best ranked students. Students who are ranked outside of the capacity receive a rejection letter.
 
 There will be no correspondence on ranking criteria or relative ranking numbers.
-#### 👉 Utrecht University
+
+---
+**Required Documents**
+https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/required-documents#c425778
+- **Motivation Letter**
+	- A clear and relevant essay in English (1,000 – 1,500 words) addressing the following:
+		- Your motivation for choosing this MSc programme.
+		- Why you are interested in TU Delft and what you expect to find here.
+		- If this MSc programme has specialisation(s), which specialisation interests you the most and why?
+		- Describe your hypothetical thesis project: what kind of project would you prefer? What would you want to explore? Please limit your answer to three possible topics.
+		- Summarize in a maximum of 250 words your BSc thesis work or final assignment/project. Please include information about the workload.
+- **Reference Letters (if applicable)**
+	- Only required for applicants applying for a scholarship listed on our [website](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships).
+	- Two reference letters in either English or Dutch. These letters must be
+		- from either a previous professor or assistant professor. If you have work experience, one of these letters may be from your employer.
+		- preferably written on the official letterhead /have the official stamp of the university or company.
+		- signed by the referee and include your complete name.
+#### 👉👉 Utrecht University 👈👈
 🚪 https://www.studielink.nl/dashboard/home
 https://www.uu.nl/en/education/studielink
+🚪 https://osiris.uu.nl/osiris_aanmeld_uuprd/Aanmeldingen.do (Application Portal)
 
+https://www.uu.nl/en/masters/general-information/application-and-admission/scholarships-and-grants
+Scholarships and Grants
 ##### Master of Computing Science
 https://www.uu.nl/en/masters/computing-science
 
@@ -543,10 +762,49 @@ Course part (75 EC) The course part contains: 
 - 3 compulsory courses (22,5 EC)
 - 7 elective courses (52,5 EC)
 
-### 🇩🇰 Danmark
-#### 👉 University of Copenhagen
+---
+https://www.uu.nl/en/masters/computing-science/admission-and-application/degree-from-a-non-dutch-university
 
-#### 👉 DTU
+The following documents must be uploaded before the application deadline:
+- A scan of your diploma (if necessary with [official translations](https://www.uu.nl/en/masters/general-information/application-and-admission/certified-digital-documents#paragraph-355187)) or [Proof of anticipated degree](https://www.uu.nl/masters/file/2273) 
+- A scan of your transcript (if necessary with [official translations](https://www.uu.nl/en/masters/general-information/application-and-admission/certified-digital-documents#paragraph-355187))
+- [Motivation statement](https://www.uu.nl/masters/file/16227) 
+- [Curriculum vitae / resume](https://www.uu.nl/masters/file/16221) 
+- [Contact details of two referees](https://www.uu.nl/sites/default/files/referees-letter-of-recommendation-UU.pdf) 
+	- Please ensure your referees fill in the required form prior to the application deadline.
+- A scan of your official English language test report or certificate.
+- Passport copy
+
+
+### 🇩🇰 Danmark
+[浅聊丹麦找工/移居情况]: https://www.reddit.com/r/iwanttorun/comments/1d9knjq/浅聊丹麦找工移居情况/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+
+#### 👉 University of Copenhagen
+#### 👉 Technical University of Denmark (DTU)
+##### Master of Science (MSc) in Computer Science and Engineering
+🚪 https://dans.stads.dk/selfservice-secured/faces/Application.jspx
+
+https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering
+- [Application links for non-EU/EEA applicants](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/non-eu-eea-applicant)
+- [Application links for joint programmes](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/joint-programmes)
+- [Application links for Industry MSc programmes](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/industry-msc-programmes)
+
+[Applying for an MSc at DTU - Required documents](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/required-documents)
+- no letter of motivation unless applying for honor degree
+
+- MSc by DTU
+	- https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure (how to apply)
+- dual degree (DTU + KAIST) 
+	- https://www.dtu.dk/english/education/graduate/joint-international-programmes/all-programmes/computer-science-and-engineering
+	- The KAIST-DTU Double Degree Master's program is only open to students, who have been formally admitted to DTU’s regular [MSc programme in Computer Science and Engineering](https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering). Therefore, it is not possible to apply for admission directly to the dual degree program. The application form is only accessible with DTU credentials.
+- honor program
+	- https://www.dtu.dk/english/education/graduate/honours-programmes
+- industry program
+	- https://www.dtu.dk/english/education/graduate/industry-master-of-science-in-engineering
+- Tuition fee waivers for International non-EU/EEA MSc students
+	- https://www.dtu.dk/english/education/graduate/fees-and-funding/tuition_fee_waivers
+
 
 
 ### 🇳🇴 Norway
@@ -563,21 +821,81 @@ Course part (75 EC) The course part contains: 
 
 ### 🇫🇮 Finland
 #### 👉 Aalto University
+70
+30 - 60
+100
+
+https://www.aalto.fi/en/study-at-aalto#/
 https://www.aalto.fi/en/study-at-aalto/applying-to-masters-programmes
 
+- ##### Software and Service Engineering - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/software-and-service-engineering-computer-communication-and-information-sciences-master-of-science
+- ##### Computer Science - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/computer-science-computer-communication-and-information-sciences-master-of-science-technology
+- ##### Game Design and Development - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/game-design-and-development-computer-communication-and-information-sciences-master-of-science
+- ##### Machine Learning, Data Science and Artificial Intelligence - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-computer-communication-and-information
+- ##### Signal Processing and Data Science - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/signal-processing-and-data-science-computer-communication-and-information-sciences-master-of-science
+- ##### Speech and Language Technology - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/speech-and-language-technology-computer-communication-and-information-sciences-master-of-science
+- ##### Communications Engineering - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/communications-engineering-computer-communication-and-information-sciences-master-of-science
+- ##### Human-Computer Interaction - Computer, Communication and Information Sciences, Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/human-computer-interaction-computer-communication-and-information-sciences-master-of-science
+- ##### Human-Computer Interaction and Design - ICT Innovation (EIT Digital Master School), Master of Science (Technology)
+	- https://www.aalto.fi/en/study-options/human-computer-interaction-and-design-ict-innovation-eit-digital-master-school-master-of-science
 
 ### 🇸‍🇪 Sweden
-#### 👉 KTH Royal Institute of Technology
-MSc Computer Simulations for Science and Engineering
+#### 👉👉👉 KTH Royal Institute of Technology 👈👈👈
+https://www.kth.se/en/studies/master
+
+https://www.kth.se/en/studies/become-a-kth-student/international-applicants-1.1334601
+
+🚪 https://www.universityadmissions.se/intl/login
+
+To increase your chances of getting admitted to KTH, we advise you to select more than one programme when applying. You can apply for up to four programmes and rank them in your order of preference.
+
+---
+**Selection Procedure /Criteria**
+The selection process is based on the following criteria: Study results (grades, relevant subjects and English), motivation for studies (motivation letter, references, courses and relevant work experience) and prior education.
+
+Prior education is evaluated based on the quality and suitability of the subjects that are relevant for the programme applied for. Prior education is evaluated based on the Swedish Higher Education Authority´s standards for Swedish higher education institutions. For international higher education institutions, university rankings are used. The merit rating is carried out on a scale of 1-75.
+
+**Supporting Documents**
+https://www.universityadmissions.se/en/apply-to-masters/provide-application-documents-masters/country-instructions/china-mainland/
+- **The letter of motivation** explains why you have chosen this programme at KTH, what you hope to gain from it and how your interests and skills will help you succeed in your studies. Include an autobiography with the development and relevance of your academic and professional pursuits, extra-curricular activities and related experiences. KTH does not require a standard template, but it must be in English and less than 500 words. If you apply to multiple programmes that require a letter of motivation, you should submit one for each and state which programme each letter applies to at the top of the page.
+- **Two letters of recommendation** describing why you are the right choice for admission. Preferably, have one referee from an academic environment and one from a professional setting. If you apply for multiple programmes at KTH that request letters of recommendation, you may use the same letters for several programmes. You must provide an English translation if the letters are in a different language. The letters must have the referees' full contact details. If your referee wants to submit the letter themselves, they must send it by post to [University Admissions](https://bit.ly/2NQFQuV) and state your name and application number. They can not submit the letter via email.
+- Summary Sheet
+##### Engineering Sciences
+###### MSc Computer Simulations for Science and Engineering
 https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering
-
-https://www.kth.se/en/studies/master/admissions/entry-requirements-for-master-s-studies-1.6915
-
-The letter of motivation explains why you have chosen this programme at KTH, what you hope to gain from it and how your interests and skills will help you succeed in your studies. Include an autobiography with the development and relevance of your academic and professional pursuits, extra-curricular activities and related experiences. KTH does not require a standard template, but it must be in English and less than 500 words. If you apply to multiple programmes that require a letter of motivation, you should submit one for each and state which programme each letter applies to at the top of the page.
-##### Cybersecurity
+##### Electrical Engineering and Computer Science
+###### MSc Cybersecurity
 https://www.kth.se/en/studies/master/cybersecurity/entry-requirements-cybersecurity-1.1076016
-##### Computer Science
-
+###### MSc Computer Science
+https://www.kth.se/en/studies/master/computer-science
+- Cognitive Systems track
+- Data Science track
+- Interaction Design track
+- Scientific Computing track
+- Software Technology track
+- Theoretical Computer Science track
+- Visualization and Interactive Graphics track
+###### MSc Software Engineering of Distributed Systems
+https://www.kth.se/en/studies/master/software-engineering-distributed-systems
+- Data Science Track
+- Software Track
+###### MSc Machine Learning
+https://www.kth.se/en/studies/master/machine-learning
+###### MSc Information and Network Engineering
+https://www.kth.se/en/studies/master/information-and-network-engineering
+Tracks
+- **Information engineering** focuses on machine learning, pattern recognition, information theory and signal processing.
+- **Multimedia processing and analysis** focuses on problem-oriented solutions for multimedia signals such as video, images, and audio using principles of data analysis and coding.
+- **Communications engineering** focuses on wireless communications with the possibility of specialising in communication theory, coding, machine-type communications or antenna design.
+- **Networked systems** focuses on the design, performance analysis, management and, not least, security of wired and wireless networks and networked systems.
 #### 👉 Lund University
 
 #### 👉 Uppsala University
@@ -600,29 +918,47 @@ https://www.kth.se/en/studies/master/cybersecurity/entry-requirements-cybersecur
 https://studentaid.gov
 Federal Student Aid
 
+https://instant.1point3acres.cn/thread/1092579
+25fall 上交CS一实习两科研 申请美新CSMaster 选校求定位
 
-[25fall 上交CS一实习两科研 申请美新CSMaster 选校求定位]: https://instant.1point3acres.cn/thread/1092579
 选校：  
-冲刺  
-Columbia, MSCS  
-CMU, MITS  
-UCLA, MSCS  
-UIUC, MCS  
-主申  
-UCSD, MSCS  
-Gatech, CSE  
-Gatech, MSECE  
-NYU, MSDS (?)  
-Umich, MSDS (?)  
-Rice, MCS  
-保底  
-USC, CS28  
-USC, CS37  
-UCSD, MS in Machine Learning & Data Science Focus  
-NYU Tandon, MCS (?)  
-UCI, MSCS  
-NTU, MSAI  
+冲刺
+Columbia, MSCS
+CMU, MITS
+UCLA, MSCS
+UIUC, MCS
+主申
+UCSD, MSCS
+Gatech, CSE
+Gatech, MSECE
+NYU, MSDS (?)
+Umich, MSDS (?)
+Rice, MCS
+保底
+USC, CS28
+USC, CS37
+UCSD, MS in Machine Learning & Data Science Focus
+NYU Tandon, MCS (?)
+UCI, MSCS
+NTU, MSAI
 NUS, Msc in Data Science & Machine Learning
+#### USA: From Master to Ph.D?
+https://www.1point3acres.com/bbs/thread-570119-2-1.html (2019)
+
+> 首先你必须找老师做科研，这样一方面丰富cv和sop，另一方面有一封推荐信，其实，我个人认为同时找两个老师做也不是不可以，当然需要看时间和经历。其次gpa也很重要，大部分科研好的人，gpa都不差，所以除非你在某一方向极其突出，否则gpa也要搞好
+
+> 感觉评论里都说很容易，但是我目前美硕申请phd的感觉压力很大ಥ_ಥ可能是我太菜了 
+> 找了俩老师做research+master gpa 4.0/4.0+要到了三封这边推荐信 ..
+> 主要问题是论文被拒了，但是我套瓷下来还不错的program老师对master的期待就是要有1-2篇以上论文（顶会一作）但我觉得美硕真的时间紧张
+> 总之我觉得很难，ಥ_ಥ不知道有没有大佬能提点目前的建议
+
+> 求推荐转博良好的学校～
+> 一般私立学校还有导师制（弱committee）都很好转
+
+https://www.1point3acres.com/bbs/thread-705454-1-1.html (2021)
+> 你太不了解Phd录取了 大多数老师都倾向于招跟自己干过的学生 因为不仅省事 不用去翻申请找学生 而且也相对更了解 所以他显然是想要招你的 尤其还用你的项目申了funding 直接让你上手最合适 然而他想招人必须要过了研究生院和你们系的committee这两关 不是说他想捞就捞的 他可以推荐你给committee但是如果你真的不能让commiittee满意 他还真的是一点办法都没有 至于fellowship 能争取干嘛不多争取 剩下来的钱又可以多找一个人 楼主你不要想太多 不过话又说回来了 申Phd不能押宝在一家上 你既然要申 虽然是同校 但是肯定也走了流程的 好歹多申几家啊
+
+https://www.1point3acres.com/bbs/thread-648011-1-1.html (2020)
 #### 👉 Arizona State University (ASU)
 ##### Computer Science (Cybersecurity), MS
 Applicants must fulfill the requirements of both the Graduate College and the Ira A. Fulton Schools of Engineering.
@@ -632,7 +968,6 @@ Applicants are eligible to apply for the program if they have earned a bachelor'
 Applicants must have a minimum cumulative GPA of 3.25 (scale is 4.00 = "A") in the last 60 hours of their first bachelor's degree program, or applicants must have a minimum cumulative GPA of 3.25 (scale is 4.00 = "A") in an applicable master's degree program.
 
 All applicants must submit:
-
 1. graduate admission application and application fee
 2. official transcripts
 3. scores for the GRE
@@ -653,37 +988,42 @@ CSE 340 Principles of Programming Languages or CSE 355 Introduction to Theoretic
 
 The applicant's undergraduate GPA and depth of preparation in computer science and engineering are the primary factors affecting admission.
 #### 👉 University of Pittsburgh (UP)
-50 ~ 60 ¥ / year
 #### 👉 Boston University (BU)
-70 ~ 100 ¥ / year
-
 [apply now for BU](https://mycas.bu.edu/100457380/apply_now)
-
 [FAQ](https://www.bu.edu/cas/admissions/ma-ms/frequently-asked-questions/)
 #### 👉 Carnegie Mellon University  (CMU)
 https://www.cmu.edu/graduate/prospective/index.html
 
-[CMU MSISPM小众项目在读分享 - 2018.11.07]: https://www.chasedream.com/show.aspx?id=24718&cid=24
 
+[CMU MSISPM小众项目在读分享 - 2018.11.07]: https://www.chasedream.com/show.aspx?id=24718&cid=24
 ##### Carnegie Mellon Institute for Strategy & Technology
 - ###### Master of Information Technology Strategy (MITS)
 	- https://www.cmu.edu/cmist/academics/graduate-programs/mits/index.html
 ##### College of Engineering
 🏠 https://engineering.cmu.edu
+🚪 https://gradadmissions.engineering.cmu.edu/apply/
 
 https://engineering.cmu.edu/education/graduate-studies/programs/index.html
-- ###### Electrical and Computer Engineering
-	- 
-- ###### Information Networking Institute
+- ###### Electrical and Computer Engineering (ECE)
+	- https://www.ece.cmu.edu/index.html
+	- MS in ECE
+	- MS in Artificial Intelligence Engineering
+	- MS in Software Engineering
+	- MS in Civil and Computer Engineering
+- ###### Information Networking Institute (INI)
+	- https://www.cmu.edu/ini/academics/index.html
 	- https://www.cmu.edu/ini/admissions/howtoapply.html
 	- MSIN (information networking)
 	- MSIS (information security)
 	- MSAIE-IS (Artificial Intelligence Engineering - Information Security)
-	- MSIMITE and MSIT-IS (Bicoastal Programs: )
+	- MSIMITE and MSIT-IS (Bicoastal Programs)
 ##### School of Computer Science
 🏠 https://www.cs.cmu.edu/academics/overview-programs
 
 - ###### Computer Science (CSD)
+	- [M.S. in Computer Science](https://csd.cmu.edu/academics/masters/overview)
+	- [Master of Computational Data Science](https://mcds.cs.cmu.edu/) (with [LTI](https://lti.cs.cmu.edu/))
+	- [Fifth-Year Master's in Computer Science](https://csd.cmu.edu/academics/masters/fifth-year)
 - ###### Software and Societal System Department (S3D)
 	- [Master of Software Engineering](https://mse.s3d.cmu.edu/)
 	- [Master of Software Engineering Online](https://mse.s3d.cmu.edu/applicants/mse-as-online/index.html)
@@ -692,8 +1032,20 @@ https://engineering.cmu.edu/education/graduate-studies/programs/index.html
 	- [M.S. in Information Technology - Privacy Engineering](https://privacy.cs.cmu.edu/)
 - ###### Language Technologies Institute (LTI)
 	- https://lti.cmu.edu/index.html
+	- [Master of Language Technologies (MLT)](https://lti.cmu.edu/academics/masters-programs/mlt.html)
+	- [The Master's in Intelligent Information Systems (MIIS)](https://lti.cmu.edu/academics/masters-programs/miis.html)
+	- [Master of Computational Data Science (MCDS)](https://lti.cmu.edu/academics/masters-programs/mcds.html)
+	- [The Master of Science in Artificial Intelligence and Innovation (MSAII)](https://lti.cmu.edu/academics/masters-programs/msaii.html)
 - ###### Machine Learning (ML)
 	- http://www.ml.cmu.edu/
+	- [M.S. in Machine Learning](https://www.ml.cmu.edu/academics/primary-ms.html)
+	- [Fifth Year Master's in Machine Learning](https://www.ml.cmu.edu/academics/5th-year-ms.html)
+- ###### Human-Computer Interaction Institute (HCII)
+	- http://www.hcii.cmu.edu/
+	- [Master of Human-Computer Interaction](https://www.hcii.cmu.edu/academics/mhci)
+	- [Master of Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu/) (with [Dietrich College](https://www.cmu.edu/dietrich/))
+	- [M.S. in Product Management](https://www.cmu.edu/tepper/programs/master-product-management/index.html) (with [Tepper School of Business](http://tepper.cmu.edu/))
+	- [Accelerated Master of Human-Computer Interaction](https://hcii.cmu.edu/academics/hci-undergraduate/accelerated-masters)
 ##### Heinz College of Information Systems and Public Policy
 🏠 https://www.heinz.cmu.edu/
 
@@ -708,10 +1060,24 @@ https://www.heinz.cmu.edu/programs/
 https://tech.cornell.edu
 ##### Computer Science M.S. (Ithaca)
 https://gradschool.cornell.edu/academics/fields-of-study/subject/computer-science/computer-science-ms-ithaca/
-
 #### 👉 University of Wisconsin-Madison
 https://grad.wisc.edu/apply/
+
+🚪 https://gradapply.wisc.edu/apply/
+
+Below is your applicant ID and application reference ID. Please include these when communicating with the university.  
+Applicant ID:  982679701  
+Application Reference ID:  704684540
 ##### Computer Science, MS
+https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/
+Visit the [department website](https://www.cs.wisc.edu/) for faculty interests, research activities, courses, and additional program information. Students may also be interested in other programs offered by the Department of Computer Sciences, including:
+- [Computer Sciences Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/) (MS Computer Sciences: Computer Sciences): A research-oriented master’s degree that prepares students for careers in industry research or for PhD level education in Computer Sciences.
+- [Professional Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-professional-program-ms/) (MS Computer Sciences: Professional Program): This degree is designed for students who are primarily interested in a professional career as a computer scientist in a variety of industries. 
+- [Data Engineering MS](https://guide.wisc.edu/graduate/computer-sciences/data-engineering-ms/): A master’s program focused on principles and practices of managing large data sets.
+
+---
+**Computer Sciences Master's Program**
+
 https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/#text
 
 https://www.cs.wisc.edu/research/research-groups/
@@ -721,7 +1087,6 @@ Visit the [department website](https://www.cs.wisc.edu/) for faculty interests
 - [Computer Sciences Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/) (MS Computer Sciences: Computer Sciences): A research-oriented master’s degree that prepares students for careers in industry research or for PhD level education in Computer Sciences.
 - [Professional Master's Program](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-professional-program-ms/) (MS Computer Sciences: Professional Program): This degree is designed for students who are primarily interested in a professional career as a computer scientist in a variety of industries. 
 - [Data Engineering MS](https://guide.wisc.edu/graduate/computer-sciences/data-engineering-ms/): A master’s program focused on principles and practices of managing large data sets.
-
 #### 👉 University of Washington (UW) - Seattle
 🏫 https://www.washington.edu
 
@@ -734,12 +1099,41 @@ https://www.cs.washington.edu/research/
 - Security & Privacy Research Lab https://seclab.cs.washington.edu
 ##### Master of Human-Computer Interaction and Design at University of Washington
 https://mhcid.washington.edu
+##### Master of Science in Computational Linguistics
+https://www.compling.uw.edu
+#### 👉 Washington University in St.Louis (WashU, WUSTL)
+https://gradadmit.wustl.edu/apply/?sr=4503835c-76a0-44d8-b086-00f19e2bb810
+##### McKelvey School of Engineering 
+Computer Science & Engineering (CSE)
+https://cse.washu.edu/academics/graduate/index.html
+- [PhD in Computer Science or Computer Engineering](https://cse.washu.edu/academics/graduate/PhD-in-Computer-Science-or-Computer-Engineering.html)
+- [MS in Computer Science](https://cse.washu.edu/academics/graduate/MS-in-Computer-Science.html)
+- [MS in Computer Engineering](https://cse.washu.edu/academics/graduate/MS-in-Computer-Engineering.html)
+- [MS in Cybersecurity Engineering](https://cse.washu.edu/academics/graduate/MS-in-Cybersecurity-Engineering.html)
+- [MEng in Computer Science & Engineering](https://cse.washu.edu/academics/graduate/MEng-in-Computer-Science-Engineering.html)
+
+Research Areas
+- [Computational Systems Biology](https://cse.washu.edu/faculty-research/research-areas/Computational-Systems-Biology.html)
+- [Computer Engineering](https://cse.washu.edu/faculty-research/research-areas/Computer-Engineering.html)
+- [Cyberphysical systems](https://cse.washu.edu/faculty-research/research-areas/Cyber-Physical-Systems.html) 
+- [Cybersecurity](https://cse.washu.edu/faculty-research/research-areas/Cybersecurity.html)
+- [Graphics, Vision & Imaging](https://cse.washu.edu/faculty-research/research-areas/Graphics-Vision-Imaging.html)
+- [Human-Computer Interaction](https://cse.washu.edu/faculty-research/research-areas/Human-Computer-Interaction.html) 
+- [Machine Learning & Artificial Intelligence](https://cse.washu.edu/faculty-research/research-areas/Machine-Learning-Artificial-Intelligence.html)
+- [Networked Systems](https://cse.washu.edu/faculty-research/research-areas/Networked-Systems.html) [Parallel Computing Technology](https://cse.washu.edu/faculty-research/research-areas/Parallel-Computing-Technology.html) 
+- [Theoretical Computer Science](https://cse.washu.edu/faculty-research/research-areas/Theoretical-Computer-Science.html)
+
 #### 👉 Dartmouth College
 
 #### 👉 California Institute of Technology (Caltech)
 📄 https://www.topuniversities.com/universities/california-institute-technology-caltech
 #### 👉 University of Texas at Austin (UT Austin)
 📄 https://www.topuniversities.com/universities/university-texas-austin
+
+🚪 https://students.gradschool.utexas.edu/portal/app
+
+how to apply
+https://www.cs.utexas.edu/graduate-program/prospective-students/apply
 ##### College of Natural Sciences | Computer Science /Master &PhD
 https://www.cs.utexas.edu/graduate-program
 https://www.cs.utexas.edu/graduate-program/prospective-students
@@ -755,12 +1149,17 @@ A grade-point average (GPA) of at least 3.0 (on a 4.0 scale) or a comparable GPA
 Applicants admitted to the Department of Computer Science graduate program usually have shown their skills in CS by achieving a better than average GPA in their CS courses.
 
 **Official Test Scores (GRE, TOEFL/IELTS)**
--  [GRE General Test](https://www.ets.org/gre/revised_general/about/?WT.ac=grehome_greabout_a_150213) scores (**optional for Fall 2024**)*
+-  [GRE General Test](https://www.ets.org/gre/revised_general/about/?WT.ac=grehome_greabout_a_150213) scores (**optional for Fall 2024**)
     - There is no minimum GRE test score, however applicants admitted to the Computer Science graduate program usually have high quantitative GRE scores and a math background that includes study through some discrete math.
 -  [TOEFL](https://www.ets.org/toefl/) or [IELTS](https://www.ielts.org/) score for international applicants**
     - The minimum scores considered acceptable for admission by the Graduate School are:
         - TOEFL: 79 on the Internet-based test (iBT)
         - IELTS: An overall band of 6.5 on the Academic Examination
+
+https://cdso.utexas.edu/apply
+- ###### Master of Computer Science
+- ###### Master of Data Science
+- ###### Master of Artificial Intelligence
 ##### Cockrell School of Engineering
 https://cockrell.utexas.edu
 https://cockrell.utexas.edu/academics/graduate-education/programs
@@ -768,12 +1167,82 @@ https://cockrell.utexas.edu/academics/graduate-education/programs
 - ###### Electrical and Computer Engineering
 	- Software Engineering and Systems (SES)
 		- https://www.ece.utexas.edu/academics/graduate/tracks/software
+		- **International prospective students**
+			- _Due to the structure of this professional master's degree program, it is not possible for students to register for more than 6 credit hours per semester, which does not meet the federal government minimum 9 credit-hour requirement to be eligible for an F-1 VISA. The university must abide by these regulations. Please note that the application fee is non-refundable._
+			- _International students on eligible non-student VISA are welcome to apply._
 	- Decision, Information, and Communications Engineering (DICE)
 		- https://www.ece.utexas.edu/academics/graduate/tracks/dice
 	- Architecture, Computer Systems, and Embedded Systems (ACSES)
 - ###### Software Engineering
+#### 👉 Texas A&M University (TAMU)
+🚪 https://engineeringcas.liaisoncas.org/apply/#/login
+
+[6th ad tamu mcs]: https://www.1point3acres.com/bbs/thread-1054630-1-1.html
+> uva我其实也不是很了解，但我看中的就是tamu的性价比，相较于之前大家认为的tamu肯定没那么好，但是相较于uva还是要好不少。而且我感觉opencs上的写的有点主观了😂（，哪个学校都是那样，只能说tamu是其中之一，大环境不好啥学校也没办法（除了顶尖的）
+> 同求组织，我也录到了UVA和这个，比较纠结，看opencs说TAMU现在地理位置没啥优点了，大厂也不愿意给面试，UVA那边介绍不太多，但是我听同学说UVA是google和amazon的target school。请问楼主怎么看
+> 我倾向于tamu，首先花费tamu比uva要低不少，再加上这个比uva要灵活一年，而且我不太在意气候环境因素，title上两个学校大差不差，基本都是在找工作中没什么太大加成的，所以感觉tamu是更优选
+
+[9th ad tamu mcs]: https://www.1point3acres.com/bbs/thread-1054604-1-1.html
+> 北京时间上午11点发offer，就...挺抽象的，而且tamu似乎都没有一个正式的portal
+> 应该不会去，尤其考虑到opencs上说这个项目性价比也在变低，虽然感觉b+/a-这一档的项目能看上我就不错了T T
+> 再等等彩票和其它主申呗，因为我倾向回国所以相比找工更在乎title和排名一点qwq目前的ad里非要选一个可能就cmu msmite或者tandon mscs（？）
+
+how to apply
+https://engineering.tamu.edu/cse/admissions-and-aid/graduate-admissions/index.html
+
+graduation requirements
+https://engineering.tamu.edu/cse/academics/degrees/graduate/index.html
+
+
+Computer Engineering | MS | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-engineering-ms) 
+Computer Engineering | MEngr | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-engineering-mengr) 
+Computer Engineering | PHD | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-engineering-phd) 
+Computer Engineering | MEngr | College Station, Distance, Remote 
+ [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-engineering-menenxde) 
+Computer Engineering | MS | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-engineering-msen) 
+Computer Engineering | PHD | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-engineering-phden) 
+Computer Science | MCS | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-science-mcs) 
+Computer Science | MS | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-science-ms) 
+Computer Science | PHD | College Station | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/computer-science-phd)
+Cybersecurity Engineering | Stand-Alone Certificate | College Station, Distance, Remote | [VIEW DETAILS](https://grad.tamu.edu/academics/program-directory/cybersecurity-engineering)
 #### 👉 Yale University
+🚪 https://apply.grad.yale.edu/apply/
 📄 https://www.topuniversities.com/universities/yale-university
+##### Yale Graduate School of Arts and Sciences
+https://gsas.yale.edu/programs-of-study/computer-science
+https://cpsc.yale.edu/academics/graduate-program
+1. Computer Science. The following programs are available to study at Yale University Computer Science.
+	1. [The Master of Science](https://cpsc.yale.edu/academics/graduate-program/master-science) - The Master of Science (MS) program is intended for students planning to pursue a professional career directly after finishing the MS program, rather than continuing on in a PhD program.  The MS program is also suitable for students interested in undertaking a research project but who are not sure yet whether they want to make the multi-year commitment to a PhD program.
+		1. **One-year MS degree:**
+		2. **Two-year MS degree:**
+	2. [The Doctor of Philosophy](https://cpsc.yale.edu/academics/graduate-program/doctor-philosophy) -  The Department offers a Doctoral Program leading to a Doctor of Philosophy (Ph.D.) degree. It typically takes four to six years to get a Ph.D. The Ph.D. program is focused on research. There are course requirements in the first three terms, but starting in the third term the main focus is on research, guided by an advisor and supervisory committee.
+	3. [Yale Computer Science Graduate Handbook](https://cpsc.yale.edu/sites/default/files/files/CS_Graduate_Handbook__24_25.pdf) - Information about the department and more.
+	4. [Yale Computer Science Admissions FAQ](https://cpsc.yale.edu/academics/graduate-program/yale-computer-science-graduate-program-admissions-faq) - Frequently Asked Questions for those who are interested in enrolling in the Yale Computer Science programs.
+
+#### 👉 Ohio State University (OSU)
+https://gpadmissions.osu.edu/grad/steps-to-apply.html
+##### Computer Science and Engineering
+https://gpadmissions.osu.edu/programs/program.aspx?prog=0052#&&tab=apply
+
+
+[2nd ad OSU CS master]: https://www.1point3acres.com/bbs/thread-1058042-1-1.html
+
+#### 👉 Pennsylvania State University (PSU)
+🚪 https://accounts.psu.edu/manage
+
+COMPUTER SCIENCE AND ENGINEERING (CSE)
+https://bulletins.psu.edu/graduate/programs/majors/computer-science-engineering/
+https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx
+
+COMPUTER SCIENCE
+https://bulletins.psu.edu/graduate/programs/majors/computer-science/
+
+SOFTWARE ENGINEERING
+https://bulletins.psu.edu/graduate/programs/majors/software-engineering/
+
+CYBERSECURITY ANALYTICS AND OPERATIONS
+https://bulletins.psu.edu/graduate/programs/majors/cybersecurity-analytics-operations/
+
 #### 👉 University of Pennsylvania (UPenn)
 ##### Engineering
 - ###### Master of Science in Engineering in Computer and Information Science (CIS/MSE)
@@ -786,7 +1255,7 @@ https://cockrell.utexas.edu/academics/graduate-education/programs
 #### 👉 University of California, Los Angeles (UCLA)
 https://grad.ucla.edu/admissions/steps-to-apply/
 https://grad.ucla.edu/admissions/research-requirements/
-##### Graduate Program: Computer Science
+##### UCLA Samueli Computer Science
 https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/
 https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/
 https://www.cs.ucla.edu/graduate-admissions/
@@ -848,6 +1317,8 @@ https://eecs.berkeley.edu/academics/graduate/
 	3. Five Year Master of Science (M.S.) (_Berkeley undergraduates only_)
 - ###### Research-Oriented Degree Programs
 #### 👉 University of California, San Diego (UCSD)
+
+[Offer 选择， ETH，EPFL, UCSD]: https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=980363
 ##### Department of Computer Science & Engineering
 https://cse.ucsd.edu/graduate/admissions
 
@@ -860,13 +1331,35 @@ Engineering professionals are encouraged to consider the [Master of Advanced St
 - [Bachelor/Master (BS/MS) Combined Degree Program](https://cse.ucsd.edu/graduate/bachelorsmasters-program)
 #### 👉 University of Southern California (USC)
 🚪 https://usc.liaisoncas.com/applicant-ux/#/programSearch/new
-- ##### Cyber Security Engineering (MS)
+##### USC Viterbi - Thomas Lord, Department of Computer Science
+https://www.cs.usc.edu
+
+how to apply?
+https://viterbigradadmission.usc.edu/programs/masters/apply/
+https://gradadm.usc.edu/prospective-international-students/how-to-apply-as-an-international-student/#chapter=step-1-review-program-and-application-requirements
+
+🚪 https://usc.liaisoncas.com/applicant-ux/#/dashboard
+
+
+- ###### Cyber Security Engineering (MS)
 	- https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28709
 	- The Master of Science in Cyber Security Engineering is intended for: a) graduate students who desire to obtain jobs in which computer security knowledge and skills are required; b) graduate students who wish to continue on a path toward enrollment for a doctoral degree focusing on information security; c) individuals in degree programs or job fields that have responsibility for information security.
-- ##### Computer Science (MS)
-- ##### Computer Engineering (MS)
-- ##### Electrical and Computer Engineering (MS)
-- ##### Applied Data Science (MS)
+- ###### Computer Science (MS)
+	- [Computer Science (Artificial Intelligence) (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=29219&returnto=8371)
+	- [Computer Science (Data Science) (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28677&returnto=8371)
+	- [Computer Science (Game Development) (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28678&returnto=8371)
+	- [Computer Science (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28676&returnto=8371)
+	- [Computer Science (Scientists and Engineers) (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28685&returnto=8371)
+- ###### Computer Engineering (MS)
+	- [Computer Engineering (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28670&returnto=8371)
+- ###### Electrical and Computer Engineering (MS)
+	- [Electrical and Computer Engineering (Analog, Mixed-Signal and Radio-frequency Integrated Circuits) (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=29303&returnto=8371)
+	- [Electrical and Computer Engineering (Hardware Systems for Machine Learning) (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=29452&returnto=8371)
+	- [Electrical and Computer Engineering (Machine Learning and Data Science) (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=29202&returnto=8371)
+- ###### Applied Data Science (MS)
+	-  [Applied Data Science (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=29114&returnto=8371)
+
+
 #### 👉 Purdue University
 ##### Cybersecurity and Trusted Systems /Masters
 https://polytechnic.purdue.edu/degrees/ms-computer-and-information-technology
@@ -984,6 +1477,39 @@ https://www.khoury.northeastern.edu/programs/computer-science-ms/
 ##### Cybersecurity, MS/Ph.D
 https://warmup.khoury.northeastern.edu/programs/cybersecurity-ms-2/#request-information
 #### 👉 Northwestern University (NWU)
+##### McCORMICK School of Engineering
+The Department of Computer Science offers the following graduate degrees:
+- [Master of Science (MS) in Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/index.html)
+- [Doctor of Philosophy (PhD) in Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/index.html)
+
+We partner with other Northwestern departments and schools to offer the following graduate degrees:
+- [Master of Science (MS) in Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/computer-engineering/index.html) _joint with the Department of Electrical and Computer Engineering_
+- [Doctor of Philosophy (PhD) in Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/phd/computer-engineering.html) _joint with the Department of Electrical and Computer Engineering_
+- [Doctor of Philosophy (PhD) in Computer Science and Learning Sciences](https://www.sesp.northwestern.edu/learning-sciences/phd-computer-science-learning-sciences/index.html)_joint with the School of Education and Social Policy (SESP)_
+- [Doctor of Philosophy (PhD) in Technology and Social Behavior](https://tsb.northwestern.edu/) _joint with Computer Science and Communication_
+
+We offer the following affiliated master’s degrees:
+- [Master of Science in Artificial Intelligence (MSAI)](https://www.mccormick.northwestern.edu/artificial-intelligence/index.html "Visit the Master of Science in Artificial Intelligence program website.")
+- [Master of Science in Information Technology (MSIT)](https://www.mccormick.northwestern.edu/information-technology/index.html "Learn more about the Master of Science in Information Technology.")
+- [Master of Science in Robotics (MSR)](https://www.mccormick.northwestern.edu/robotics/index.html "Learn more about the Master of Science in Robotics.")
+- [The MBAi Program](https://mbai.northwestern.edu/index.html "Learn more about the MBAi Program") _joint with the Kellogg School of Management_
+
+---
+
+how to apply 
+https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#how-apply
+
+**Applications are accepted for Fall quarter only.**
+
+For the MS program, applications
+
+- Submitted by **November 30** will receive a decision by **January 10**
+- Submitted by **December 31** will receive a decision by **February 10**
+- Submitted by **February 28** will receive a decision by **April 30**
+
+No applications after **February 28** will be considered.
+
+
 #### 👉 University of Virginia (UVa)
 ##### Department of Computer Science
 
@@ -993,16 +1519,36 @@ https://engineering.virginia.edu/department/computer-science/academics/cs-gradua
 https://secure.graduateschool.vt.edu/graduate_catalog/program.htm?programID=002d14431ce38e83011ce38e96c30044&nocache=1705737207838
 (with accelerated BS/MS programs)
 #### 👉 Duke University
-##### M.S. in Computer Science
+##### M.S. in Computer Science (MSCS)
 https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/
-#### 👉 University of Maryland
-##### Computer Science
+##### M.S. in Electrical and Computer Engineering (MSECE)
+https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/
+#### 👉 University of Maryland (UMD)
+##### Department of Computer Science
+https://www.cs.umd.edu/grad
+🚪 https://terpengage.umd.edu/community/ERx_Forms__Homepage
+
+Computer Science (CMSC)
 https://gradschool.umd.edu/computermathematicalnatural-sciences/cmsc
+https://academiccatalog.umd.edu/graduate/programs/computer-science-cmsc/
 #### 👉 Georgia Institution of Technology (GIT, GaTech)
 https://www.gtsi.edu.cn/apply （天津大学佐治亚理工深圳学院）
 https://www.europe.gatech.edu/en (佐治亚理工欧洲学院)
 
 https://grad.gatech.edu/admissions/international
+🚪 https://gradapp.gatech.edu/apply/
+
+
+[4th AD MSCS@Gatech]: https://www.1point3acres.com/bbs/thread-1060772-1-1.html
+一个很让人纠结的项目，上个月在这个项目和 ucsd 之间比较了很久，详细地列了各自的优缺点
+最后还是觉得 gatech 一学期四个课太累，ucsd 生活质量高，而且想做的 mlsys 方向 ucsd 确实更强一点，所以也不后悔拒掉 gatech 啦～
+个人留美意愿没那么强烈，完全接受回国工作，所以 gatech 最具优势的 coop 对我也没那么重要啦
+##### Cybersecurity (On Campus)
+https://grad.gatech.edu/degree-programs/cybersecurity-campus
+https://catalog.gatech.edu/programs/cybersecurity-ms/#overviewtext
+##### Computer Science (On Campus)
+https://grad.gatech.edu/degree-programs/computer-science-campus
+https://catalog.gatech.edu/programs/computer-science-ms/
 
 **TOEFL Requirements**
 - Institute Code: 5248
@@ -1023,11 +1569,82 @@ https://grad.gatech.edu/admissions/international
     - General Test: Applicants scores are expected to be at least 153 Verbal, 155 Quantitative, and 3.0 in the Analytical sections
 - **PhD**
     - General Test: Scores are optional
-##### Cybersecurity (On Campus)
-https://grad.gatech.edu/degree-programs/cybersecurity-campus
-##### Computer Science (On Campus)
-https://grad.gatech.edu/degree-programs/computer-science-campus
 ##### Computational Science & Engineering (CSE)
+https://grad.gatech.edu/degree-programs/computational-science-engineering
+##### Electrical and Computer Engineering (ECE)
+https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering
+#### 👉 New York University (NYU)
+Master Courses
+- [Computer Engineering](https://engineering.nyu.edu/academics/programs/computer-engineering-bs) (Engineering)
+- [Computer Science](https://cs.nyu.edu/csweb/index.html) (Arts & Science/Courant)
+- [Computer Science](https://engineering.nyu.edu/academics/departments/computer-science-engineering) (Engineering)
+- [Computer Science Education](https://steinhardt.nyu.edu/programs/computer-science-education) (Steinhardt)
+- [Computer Science & Economics](https://cs.nyu.edu/home/undergrad/overview.html) (Arts & Science)
+- [Cybersecurity](https://engineering.nyu.edu/academics/programs/cybersecurity-ms) (Engineering)
+- [Cybersecurity Risk and Strategy](https://cybersecurity-strategy-masters.nyu.edu/) (Law, Engineering)
+
+Analytics/Computers/Cybersecurity/Data
+1. **Applied Urban Science and Informatics:** [MS](https://engineering.nyu.edu/academics/programs/applied-urban-science-and-informatics-ms)  
+	1. _Center for Urban Science and Progress_
+3. **Computer Science:** [MS](https://cs.nyu.edu/home/master/prospective_mscs.html), [PhD](https://cs.nyu.edu/home/phd/)*  
+	1. _Courant Institute of Mathematical Sciences_
+5. **Computer Science:** [MS](https://engineering.nyu.edu/academics/programs/computer-science-ms), [PhD](https://engineering.nyu.edu/academics/programs/computer-science-phd)  
+	1. _Tandon School of Engineering_
+7. **Computing, Entrepreneurship, and Innovation:** [MS](https://cs.nyu.edu/ms-cei/index.html)  
+	1. _Courant Institute of Mathematical Sciences_
+9. **Cybersecurity:** [MS](https://engineering.nyu.edu/academics/programs/cybersecurity-ms)  
+	1. _Tandon School of Engineering_
+11. **Cybersecurity Risk and Strategy:** [MS](https://cybersecurity-strategy-masters.nyu.edu/)  
+	1. _School of Law and Tandon School of Engineering_
+13. **Data Analytics and Business Computing:** [MS](https://stern.shanghai.nyu.edu/en/program/ms-data-analytics-business-computing)  
+	1. _NYU Shanghai and Stern School of Business_  
+15. **Data Science:** [MS](https://cds.nyu.edu/masters-program/), [PhD](https://cds.nyu.edu/academics/phd/)
+	1. _Center for Data Science_
+17. **Digital Humanities:** [AdvC](https://as.nyu.edu/dhss/program/advanced-certificate.html)  
+	1. _Graduate School of Arts and Science_
+19. **Global Security, Conflict, and Cybercrime:** [MS](https://www.sps.nyu.edu/homepage/academics/masters-degrees/ms-in-global-security--conflict--and-cybercrime.html)  
+	1. _School of Professional Studies_
+20. **Human Capital Analytics and Technology:** [MS](https://www.sps.nyu.edu/homepage/academics/masters-degrees/ms-in-human-capital-analytics-and-technology.html)  
+	1. _School of Professional Studies_
+21. **Quantitative Management:** [MS](https://www.stern.nyu.edu/programs-admissions/masters-programs/online-ms-quantitative-management/)  
+	1. _Stern School of Business_
+22. **Scientific Computing:** [MS](https://www.math.nyu.edu/dynamic/masters/ms-scientific-computing/)  
+	1. _Courant Institute of Mathematical Sciences_
+
+**Difference between Tandon and Courant?**
+https://www.1point3acres.com/bbs/thread-377234-2-1.html (2018)
+> courant 毕业要修满36个学分，tandon 毕业要修满30个学分。两个cs在不同的学院，上课校区不一样，选课不一样，教授应该也是不一样的。貌似courant可以选tandon的但是tandon不能选courant的课，但是两个cs都可以选其他学院，例如ds或者math的课。不过tandon在布鲁克林，如果上其他学院的课就需要到曼岛，略麻烦了。因为两个校区，所以两个学院的学生基本上没有什么交集。career fair倒是每年都在tandon那边开。招人这个bar很玄学，感觉courant对转专业的优秀生非常友好，tandon好像更喜欢科班出身。然后courant招人比tandon少很多。个人感觉，这两个cs很独立了，并没有看到要合并的倾向。
+
+> 再补充下其他人的内容
+> 
+> 课程设置上，courant非常偏理论，基本没什么可以写project然后放简历上的课；tandon据说要好一些？会有web之类比较实用的课
+> courant的教授什么还是要强一些的，但差别也不大就是 courant和tandon应该不会合并，毕竟是两个完全不同的校区，而且两个学院也分别招了不少教授。 虽说tandon这两年形势见好bar不停上涨，可是tandon的bar比courant高？这还是过分了吧。毕竟分开排名的时候，courant在30左右，tandon是70.
+> 
+> 找工各方面不会被差别对待的，反正大家简历上都写的NYU，即使写了学院，大部分recruiter不知道，知道了也不会在乎courant和tandon之间的区别。
+> 虽然现在在courant，但确实没有感受到courant相较于tandon的有什么明显的优势。。可能周围有很强的大佬算一点？学费还贵不少。。。emmmm 只能用bar高来安慰自己了
+
+##### Tandon School of Engineering
+https://engineering.nyu.edu/admissions/graduate
+https://bulletins.nyu.edu/graduate/engineering/programs/
+
+🚪 https://apply.engineering.nyu.edu/apply/
+
+- Cybersecurity
+	- https://engineering.nyu.edu/academics/programs/cybersecurity-ms
+- Computer Science
+	- https://bulletins.nyu.edu/graduate/engineering/programs/computer-science-tandon-ms/#text
+	- https://engineering.nyu.edu/academics/programs/computer-science-ms
+##### Courant School of Computer Science
+https://cs.nyu.edu/home/index.html
+🚪 https://apply.gsas.nyu.edu/apply/
+
+- MSCS: Master in Computer Science
+	- 
+- MSIS: Master's of Science Information Systems
+	- https://cs.nyu.edu/home/master/prospective_msis.html
+- MS-CEI: Computing, Entrepreneurship, and Innovation
+	- https://cs.nyu.edu/ms-cei/index.html
+
 #### 👉 Columbia University in the City of New York
 ##### Computer Engineering
 Computer Engineering: MS
@@ -1084,13 +1701,22 @@ In addition, the department’s faculty members play a significant role in two o
 	- ###### Diversity Statement
 		- This is only required of domestic applicants. A 4000-character limit (not including spaces) is recommended. International applicants do not need to complete this statement, but they are welcome to complete a statement.  
 		- The statement should cover how your background, experiences, and achievements will contribute to the University's and our Department’s goal of promoting excellence through diversity and inclusion. If applicable, you should mention hardships or obstacles you have overcome to complete your undergraduate education. Some University of Minnesota graduate student applicants will be considered for funding opportunities, like the [DOVE Fellowship](https://grad.umn.edu/funding/program-requests-nominations/nominations/diversity-of-views-experience-fellowship-dove), based on their diversity statement.
-
+#### 👉 University of Massechusett (UMass)
+##### Master of Science in Computer Science
+https://www.umass.edu/graduate/academics/master-science-computer-science
 
 ### 🇨🇦 Canada
-为什么去加拿大读研究生不是那么火？ - 加拿大ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662
+为什么去加拿大读研究生不是那么火？ - 加拿大ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662 
 #### 👉 University of Waterloo
 📄 https://www.topuniversities.com/universities/university-waterloo
 🔍 https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs
+
+[Engineering Graduate Programs /Electrical & Computer Engineering](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering)
+- [Electrical and Computer Engineering - Doctor of Philosophy (PhD)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-doctor-philosophy-phd)
+- [Electrical and Computer Engineering (Aeronautics) - Doctor of Philosophy (PhD)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-aeronautics-doctor) 
+- [​Electrical and Computer Engineering (Nanotechnology) - Doctor of Philosophy (PhD)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-nanotechnology-doctor)
+- [Electrical and Computer Engineering (Quantum Information) - Doctor of Philosophy (PhD)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-quantum-information-phd)
+- [Electric Power Engineering - Graduate Diploma (GDip) (Online)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electric-power-engineering-graduate-diploma-gdip-online)
 ##### Computer Science - MMath at Waterloo
 https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/computer-science-mmath-waterloo
 
@@ -1109,8 +1735,15 @@ Application materials
     - Three [references](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply/references) are required; at least two academic
 - Proof of [English language proficiency](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply/admission-and-english-language-proficiency-requirements), if applicable
     - TOEFL 93 (writing 22, speaking 22), IELTS 6.5 (writing 6.0, speaking 6.5)
-##### Computer Science - PHD
-
+##### Electrical and Computer Engineering - Master of Applied Science (MASc)
+ [Electrical and Computer Engineering - Master of Applied Science (MASc)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-master-applied-science)
+- [Electrical and Computer Engineering (Aeronautics) - Master of Applied Science (MASc)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-aeronautics-master) 
+- [Electrical and Computer Engineering (Nanotechnology) - Master of Applied Science (MASc)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-nanotechnology-master) 
+- [Electrical and Computer Engineering (Quantum Information) - Master of Applied Science (MASc)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-quantum-information-masc) 
+##### Electrical and Computer Engineering - Master of Engineering (MEng)
+- [Electrical and Computer Engineering - Master of Engineering (MEng)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-master-engineering-meng)
+- [Electrical and Computer Engineering (Co-op) - Master of Engineering (MEng)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-co-op-master-engineering)
+- [Electrical and Computer Engineering (Electric Power Engineering) - Master of Engineering (MEng) (Online)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/electrical-and-computer-engineering-electric-power)
 #### 👉 McGill University
 
 #### 👉 Ottawa University
@@ -1137,7 +1770,7 @@ Note: International candidates must check the [admission equivalencies](https:/
 ##### UBC Vancouver
 ###### MASTER OF ENGINEERING IN ELECTRICAL AND COMPUTER ENGINEERING (MENG)
 https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering
-###### MASTER OF APPLIED SCIENCE IN ELECTRICAL AND COMPUTER ENGINEERING
+###### MASTER OF APPLIED SCIENCE IN ELECTRICAL AND COMPUTER ENGINEERING (MASc)
 https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-electrical-computer-engineering
 ##### UBC Okanagan
 ###### COMPUTER SCIENCE
@@ -1157,11 +1790,16 @@ International applicants considering applying to graduate programs in Computer S
 Computer Science offers two degrees: 
 - ###### Applied Computing (MScAC)
 	- https://mscac.utoronto.ca/apply/
-	- https://mscac.utoronto.ca/apply/
 	- Can i apply for both ?
 		- Yes. Please note that the two programs have separate application forms, and payment of the application fee is required for both.
 	- Can I defer my offer of admission?
 		- Deferrals are granted at the discretion of the Program Director, in line with the deferral policy applicable to the respective admissions cycle. Deferrals are usually only permitted once and are valid until the following academic year.
+	- Program Fees
+		- For the September 2024 program start date, tuition and fees for the entire 16-month MScAC program are estimated at approximately:
+			- **$26,300 CAD** for domestic students (Canadian citizens and permanent residents)
+			- **$77,800 CAD** for international students
+		- Fall-term tuition fees are posted to the [University of Toronto Student Accounts](https://studentaccount.utoronto.ca/) website in mid-July each year and are subject to change.
+		- For the purpose of financial planning, students should know that it is common to receive a salary during the internship phase of the program (semesters 3 and 4). Currently, the average salary earned by students over this period is $65,000.
 - ###### Computer Science (MSc and PhD)
 	- https://web.cs.toronto.edu/graduate/msc
 There is also Collaborative Specializations:
@@ -1173,6 +1811,99 @@ There is also Collaborative Specializations:
     - Computer Science, MSc, PhD
 - [Robotics](https://sgs.calendar.utoronto.ca/collaborative/Robotics)
     - Computer Science, MSc, PhD
+
+---
+👍 https://www.1point3acres.com/bbs/thread-878724-1-1.html
+
+> 忙里偷闲写了个体验。我也不想它单纯地被解读为吐槽贴。因为这个项目还是有很多优点。比如较为轻松的安排， ML方面的资源。 毕业即可申请进枫叶卡pool。中国同学拿到这个项目的offer也是一件不容易的事，是对你学术和工作能力的肯定。但是希望有其他offer的同学，慎重考虑。尤其是有美国和瑞士offer的同学。调整好对教学的心理预期。 调整好对工资，大厂和实习配对的心理预期。总体上，我觉得项目的faculty也是在苦心经营。然而多大研究生CS教学的局限，加拿大的整体就业环境，和隔壁uw的竞争，带来一些预期上的天花板。个人建议想来的话，可以先自己补点CV和NLP,  做点小project, 用处会比刷题大。
+> 
+> 有美国CS前八，瑞士两个理工MSCS offer和多大MSCS的大佬，就不要考虑了吧。MSCS开学就有supervisor带着一起做research，对个人学术和职业发展的帮助肯定会大于这个项目的实习。
+
+https://www.1point3acres.com/bbs/thread-1054665-1-1.html
+补一下面经:
+
+总共耗时55分钟, Claire提问33分钟, 反问22分钟. 
+
+Claire提问:
+自我介绍
+1. 为什么选择多大
+2. 为什么选择MScAC.
+3. 本科求学经历中最有价值的事. Waral dи,
+4. 本科求学过程中所培养的最有价值的能力是什么
+5. 在实习中你认为最重要的能力是什么
+6. 课业学习和实习之间的主要区别
+7. 为什么选择主动寻找了多段实习
+8. 拷问CV中某个项目做的内容, 具体的创新点是什么
+9. 意向的COOP公司有哪些
+10. 感兴趣的课有哪些, 打算选什么课, 为什么
+
+反问:
+1. 从linkedin上注意到往年毕业生都有TA经历, 请问本项目鼓励学生做TA吗? . check 1point3acres for more.
+答: 每年七月会给录取的学生群发TA招募邮件, 感兴趣的同学可以自行报名申请
+2. 注意到本项目这几年选择继续读博的同学越来越多, 请问过去一年深造的同学占比和去向大致是什么
+答: 大约占比5%-10%, 基本都是留本校. 大部分的同学毕业后选择接return offer.
+3. 注意到部分concentration选课有限制, 请问如果感兴趣的话是否可以旁听课程
+答: 只要和授课的教授打好招呼就行, 但是不计入GPA, 不能参加考试
+4. 不同Concentration的找工有限制吗?. check 1point3acres for more.
+答: 没有. 我们本来是打算加以限制的, 但后来发现不同concentration之间的overlap太大, 这么做基本不可能...
+5. 大概多久可以知道结果?
+答: 两周内, 如果两周还没消息发邮件找我
+
+附当时准备的思维导图一份
+
+
+https://www.1point3acres.com/bbs/thread-1040690-1-1.html
+11.22 Submit
+11.28 推荐信齐
+12.12 面邀. .и
+1.17面试 with Susan (Susan 人很好，问题都很基础，除了问到当时几门数学课考的不高的原因，还有问我为什么选CS concentration而不是ML或者其他（这个我当时都忘记了之前选过的concentration，好在最后还是下的CS的没有被调剂到其他地方去）之外其他基本上都准备到了的，整个过程1h10min，氛围没有那么紧张)
+1.24 Ad
+求加米~
+
+https://www.1point3acres.com/bbs/thread-1035284-1-1.html
+（24fall）
+BG：陆本计算机较强211，科班（非计算机科学与技术专业）；
+成绩：专业rk1， overall GPA3.87（学校官方，未使用其他证明或换算），百分制93.6；
+语言：雅思8（7）；
+GRE：156+170+3.5；
+推荐信：两校内老师，一科研加导（从结果看应该为强推，但是因为科研本身较水，导和项目也不强，所以推荐信可能作用不大）
+软背景：一段科研一段实习，均为三个月，都比较水（但是简历和面试问起要有的说）其中科研为Mitacs，在加拿大蒙特利尔开展；实习为线上.1point3acres
+就个人所知，有至少3位22/23去了此项目的学长学姐，1人同专业，3人同学院
+
+
+时间线：
+10.19 submitted/
+10.25完成申请所有步骤/
+11.28收到面试邀请邮件，选择12.12/
+12.12面试/
+12.18发邮件询问进度/
+12.19回复大概率可以在寒假前更新我的申请结果/
+12.21凌晨（多大寒假前最后一天的下午）收到邮件，进入项目官网查看录取结果. check 1point3acres for more.
+
+面经：
+为Claire的非技术面试。持续约42分钟。
+Claire的语速非常快，并且不是像雅思考官一样会一板一眼、清晰地直接地问问题，所以要把问题的落脚点听仔细（通常是最后几个单词），并且回答问题要灵活一些，充分利用上准备的内容中和问题相关的部分。. ----
+流程上，Claire首先会简单自我介绍，而后会介绍面试的目的。接着就是你的第一个问题：tell about yourself
+比起往年面经，个人感觉会更重视你本人的成长经历和意愿。具体来讲：
+①前两个问题问的是为什么选择此专业和此本科学校，这不是我准备的重点，所以上来非常慌乱，举人名例子甚至举了埃隆马斯克（多大出身的人工智能泰斗Hinton，及其学生OpenAI首席科学家Ilya都是很好的例子，以及矢量研究院的大佬或是其他不太出圈的技术专家都更好）。从结果来看，这可能反而显得我没有“刻意准备”，或是被认为并不是致命问题。
+②看起来很关心我在简历上写的经历。我的科研和实习两段经历都被详细问了，还有追问（此处可以适当引导，比如说我认为选择xx可以让我怎么怎么样，她就会就这个“怎么怎么样”再追问下去）。
+
+其他问题包括：
+①why MScAC?（并没有问why abroad/Canada/Toronto，我当时也是脑子木了，没有说这些，当然切题是最重要的，如果你在这里洋洋洒洒说很多，准备的痕迹就比较重了；这些问题可以穿插在你的其他回答中，例如我在回答关于我的加拿大科研的问题时，提及了上述内容）.1point3acres
+②有没有internship时想去的公司？
+③因为楼主在addtional information提交了简单的课程兴趣，所以Claire问除了我提及的几门课，还有没有其他想上的课. 1point 3 acres
+④没有问我认为肯定会问的：如果有了offer A再来offer B怎么办/某门课为什么分数低/本科学习中印象深刻的事（而是将重心放在你简历中提及的经历，看看你是不是真的在认真做）
+
+到这里Claire的问题就结束了，时间只有30分钟出头。我努力撑时长问了5个问题，平均每个问题回答约2分钟。
+
+还没有拿到面试邀请邮件的伙伴请不要慌，楼主个人认为拿到的早有几个原因，大家可以对照着看看：
+①submit和完成所有申请步骤的时间都较早，在10月份结束之前
+②有GRE（GRE在此项目中是比较重要的补充材料）
+③比较有力的BG，主要是GPA（或许和②可以归结为一点），以及有同本科学校专业的在读学长
+
+多大寒假放到1月8日，在那之前都不会上班；比我晚提交的同学可能还没入池，就更不要着急啦，可以适当练习英语口语……地里的面经总结是很完善的，可结合我的个人体验食用。
+
+最后，感谢大家看到这里，祝大家都能去自己想去的地方~
 
 
 
@@ -1208,14 +1939,27 @@ Documents Required
 #### 👉 The Hong Kong Polytechnic University
 
 
-### 🇰🇷 Korea
-#### 👉 Seoul National University
-#### 👉 Korea University
-##### CCS Lab
-https://ccs.korea.ac.kr/people/
-#### 👉 Yonsei University
+### 🇰🇷 North Korea
 #### 👉 KAIST
 https://admission.kaist.ac.kr/intl-graduate
+https://gradapply.kaist.ac.kr/intergradapply/
+##### School of Computing
+https://cs.kaist.ac.kr
+https://gradapply.kaist.ac.kr/intergradapply/apply/step1.do
+##### Graduate School of Metaverse
+https://meta.kaist.ac.kr
+##### Kim Jaechul Graduate School of AI
+https://gsai.kaist.ac.kr/?ckattempt=1
+#### 👉 Seoul National University
+
+#### 👉 Sungkyunkwan University
+
+#### 👉 Korea University
+https://cs.korea.edu/en_cs/research/lab_intro.do
+- CCS Lab 
+	- https://ccs.korea.ac.kr/about/
+
+#### 👉 Yonsei University
 
 
 ### 🇯🇵 Japan
@@ -1227,6 +1971,7 @@ https://www.cnblogs.com/orangestar/p/16995900.html
 
 https://www.1point3acres.com/bbs/thread-931508-1-1.html
 直达东京大学CS低GPA修考飘过
+
 
 
 ### 🇸🇬 Singapore
@@ -1325,3 +2070,10 @@ KAUST申请经验：面试失败的我，被教授反套磁“重获”全奖硕
 #### 👉 UTS (University of Technology Sydney)
 
 [UTS | Wikipedia]: https://en.wikipedia.org/wiki/University_of_Technology_Sydney
+
+
+
+## Ref
+[欧洲留学︱中国学分如何转化为ECTS学分？]: https://www.eic.org.cn/news/detail/7fc55e8b300042a2b5d7277836577ae4
+
+[中德学分转换：德国留学之欧洲学分互认体系ECTS ]: https://www.51deguo.com/thread-16747-1-1.html

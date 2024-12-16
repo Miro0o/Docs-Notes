@@ -4503,18 +4503,19 @@
 		13. beadhouse
 			1. _[beadhouse](dic://beadhouse)_  n. 养育院；养老院
 	1. beadle (custodian, beadle, )
-		1.  [George Beadle](dic://George Beadle), [George Wells Beadle](dic://George Wells Beadle)
-		2. _n._ [official](dic://official), [functionary](dic://functionary), [biologist](dic://biologist), [life scientist](dic://life scientist)
-		3. **vicar**教区牧师，教堂牧师;**clergyman**牧师;**deacon**执事;**rabbi**拉比;**constable**警察;**headmaster**校长;**warden**看守人;**rector**校长;**miller**碾磨工;**priest**牧师;**magistrate**地方法官, 治安官;
-		4. _[beadle porter](dic://beadle%20porter)_ 门房学校工友
-		5. So Noah ran through the streets as quickly as he could to fetch the beadle. /诺厄尽可能快地跑着，穿过了几条街道，去叫执事。
-		6. The beadle hit him on the back, and so naturally Oliver cried even more. /执事在奥利弗的背上揍了一下，当然这一下使他哭得更厉害了。
-		7. beadledom
-	2. ombudsman, ombudsmanship
+		1. (addle, beadle, befuddle, cuddle, coddle, dawdle, daddle (dawdle, dawdler), diddle, dildo, doodle, dwindle, faddle, fiddle, fuddle, huddle, ladle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, swaddle, swindle, spindle, toddle, treadle, twaddle, twiddle, waddle)
+		2.  [George Beadle](dic://George Beadle), [George Wells Beadle](dic://George Wells Beadle)
+		3. _n._ [official](dic://official), [functionary](dic://functionary), [biologist](dic://biologist), [life scientist](dic://life scientist)
+		4. **vicar**教区牧师，教堂牧师;**clergyman**牧师;**deacon**执事;**rabbi**拉比;**constable**警察;**headmaster**校长;**warden**看守人;**rector**校长;**miller**碾磨工;**priest**牧师;**magistrate**地方法官, 治安官;
+		5. _[beadle porter](dic://beadle%20porter)_ 门房学校工友
+		6. So Noah ran through the streets as quickly as he could to fetch the beadle. /诺厄尽可能快地跑着，穿过了几条街道，去叫执事。
+		7. The beadle hit him on the back, and so naturally Oliver cried even more. /执事在奥利弗的背上揍了一下，当然这一下使他哭得更厉害了。
+		8. beadledom
+	3. ombudsman, ombudsmanship
 		1. _[ombudsman](dic://ombudsman)_  n. 监察专员（专门负责调查人民对政府各部门控告案件的官员）；视察官
 		2. _n._ [investigator](dic://investigator)
 		3. **watchdog**看门狗;**commissioner**专员, 长官;**agency**代理，中介;**judiciary**司法部;**whistleblower**告密者,揭发者;**bureau**局，处;**tribunal**法庭;**auditor**审计员;**oversight**疏忽, 失察;**deputy**代理人，代表;**columnist**专栏作家;
-	3. verboten
+	4. verboten
 		1. 来自德语，词源同 forbidden.
 		2. adj. 禁止的
 		3.  [forbidden](dic://forbidden), [out(p)](dic://out(p)), [prohibited](dic://prohibited), [proscribed](dic://proscribed), [taboo](dic://taboo), [tabu](dic://tabu)

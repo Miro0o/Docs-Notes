@@ -42,6 +42,34 @@ Workshop on the Economics of Information Security (WEIS)
 ### Journals
 
 
+### Others
+👍 https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+- Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
+- Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
+
+https://people.engr.tamu.edu/guofei/links.htm
+- Research Engines
+	- [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/DynWel.jsp) , [ACM Digital Library](http://portal.acm.org/dl.cfm?coll=portal&dl=ACM) , Springer [LNCS](http://www.springerlink.com/content/105633/),  [DBLP](http://www.informatik.uni-trier.de/%7Eley/db/) , [CiteSeer](http://citeseer.ist.psu.edu/)  
+	- [Google Search](http://www.google.com/)
+	- [CiteSeer](http://citeseer.nj.nec.com/cs)
+- Call for Paper Lists
+	- Security: [Cipher Calls For Papers by IEEE TCSP](http://www.ieee-security.org/CFP/Cipher-Call-for-Papers.html) , [Cryptography and security related conferences by Mihir Bellare at UCSD](http://www-cse.ucsd.edu/users/mihir/confs.html) , [IACR Calendar of Events in Cryptology](http://www.iacr.org/events/)
+	- Journal: [ACM TISSEC](http://www.acm.org/pubs/tissec/) , [IEEE TDSC](http://www.computer.org/tdsc/) , [IEEE TIFS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [Springer IJIS](http://link.springer.de/link/service/journals/10207/index.htm) , [JCS](http://www.csl.sri.com/programs/security/jcs/) , [COMPSEC](http://www.journals.elsevier.com/computers-and-security/), [JiCV](http://www.springer.com/computer/journal/11416),  [Wiley SCN](http://www.wiley.com/bw/journal.asp?ref=1939-0114),  [IJSN](http://www.inderscience.com/browse/index.php?journalCODE=ijsn),  [IEEE SP Magazine](http://tweb.acm.org/)
+	- [ACM TWEB](http://tweb.acm.org/),  [IEEE TPDS](http://www.computer.org/tpds), [COMNET](http://www.journals.elsevier.com/computer-networks/), [ToN](http://www.ton.seas.upenn.edu/), [TNSM](http://dl.comsoc.org/tnsm/),  
+	- Networking: [CFP link maintained by Tim Moors](http://maestro.ee.unsw.edu.au/%7Etimm/netconf/) , [Networking,P2P CFP by Matei Ripeanu at uchicago](http://people.cs.uchicago.edu/%7Ematei/PAPERS/cfp.html) , [Ad hoc, sensor network conference and deadline](http://www.cs.virginia.edu/%7Eadw5p/conferences.html)
+- I founded the [Security Reading Group](http://www-static.cc.gatech.edu/%7Eguofei/srg/) at [GTISC](http://www.gtisc.gatech.edu/), Georgia Tech.
+- I'm maintaining a list of [computer security conference ranking and statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
+- Kevin Almeroth's [Networking Conference Statistics](http://www.cs.ucsb.edu/%7Ealmeroth/conf/stats/)
+- Security Research Groups: [GTISC](http://www.gtisc.gatech.edu/index.html) , [GMU](http://www.list.gmu.edu/) , [UC Davis](http://seclab.cs.ucdavis.edu/) , [CMU CyLab](http://www.cylab.cmu.edu/) , Purdue [CERIAS](http://www.cerias.purdue.edu/) , Stanford [SecLab](http://crypto.stanford.edu/seclab/) , [Princeton](http://www.cs.princeton.edu/sip/) , [Cornell IAI](http://www.cis.cornell.edu/iai/index.htm) , [NCSU](http://cdl.csc.ncsu.edu/) , [UCSB](http://www.cs.ucsb.edu/%7Ersg/) , [UCSD](http://www-cse.ucsd.edu/groups/crypto/) , [Columbia](http://www1.cs.columbia.edu/ids/) , [MIT CIS](http://theory.lcs.mit.edu/%7Ecis/) , [](http://seclab.cs.sunysb.edu/seclab1/)[WISC Safety Analyzer](http://www.cs.wisc.edu/wisa/)
+- Security Reading Groups: [GTISC SRG](https://people.engr.tamu.edu/guofei/srg) , [UIUC SRG](http://ciae.cs.uiuc.edu/SRG/) , [Wisc SRG](http://www.cs.wisc.edu/areas/sec/secreadsch.html) , [Dartmouth SRG](https://wiki.cs.dartmouth.edu/srg/doku.php) , CMU SRG , [CERIAS SRG](http://homes.cerias.purdue.edu/%7Ecrisn/reading_group.html), [Purdue DS2](http://projects.cerias.purdue.edu/ds2/lab_sched.html) , [Berkley SRG](http://www.cs.berkeley.edu/%7Edmolnar/secreadgroup.html) , [UVA SRG](http://www.cs.virginia.edu/nora/srg/) , [NYU CRG](http://www.scs.cs.nyu.edu/crypto/) , [UCDavis SRG](http://sthelens.cs.ucdavis.edu/%7Efhsu/security/readinggroup.html)
+- People working in system & network security [by Zhiqian Lin](http://www.cs.purdue.edu/homes/zlin/people.html)  
+    
+- IDS reading list: [By Wenke Lee](http://www.cc.gatech.edu/%7Ewenke/ids-readings.html), [By Guofei Gu](https://people.engr.tamu.edu/guofei/ids-readinglist.htm) 
+- Research skills: [Advice Collection by Tao Xie](http://people.engr.ncsu.edu/txie/advice.htm),  [Advice on Research and Writing](http://www-2.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html) , [Paper Reading Check List](http://bbcr.uwaterloo.ca/%7Ebrecht/courses/856/readings/general/jamin-checklist.html) , [How to Read a Research Paper](http://bbcr.uwaterloo.ca/%7Ebrecht/courses/856/readings/general/how-to-read.txt) ,  Some [writing tips](http://www-net.cs.umass.edu/kurose/writing/) from Dr. Kurose, [Writing reviews](https://people.engr.tamu.edu/guofei/people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) for system conferences, [Networking on the network](http://polaris.gseis.ucla.edu/pagre/network.html) , [You and Your Research by Richard Hamming](https://people.engr.tamu.edu/guofei/hamming-on-research.pdf) 
+- Computing: [Java Reference](http://java.sun.com/j2se/1.4.2/docs/api/index.html) , [C/C++ Reference](http://www.cppreference.com/) , [C++ resource](http://www.cplusplus.com/) , [C++ STL](http://www.sgi.com/tech/stl/index.html) , [LaTeX Reference](http://www.whoishostingthis.com/resources/tex-latex/) , [Latex Tutorial](http://www.maths.tcd.ie/%7Edwilkins/LaTeXPrimer/), [Matlab Function](http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.shtml) , [Cliff Zou's Notes on Linux](http://tennis.ecs.umass.edu/%7Eczou/linux.html) , [Algorithm Repository](http://www.cs.sunysb.edu/%7Ealgorith/index.html) , [ns-2](http://www.isi.edu/nsnam/ns/index.html) , [Engineering Statistic](http://www.itl.nist.gov/div898/handbook/index.htm) , [Some Computing Resources](http://amath.colorado.edu/computing/) , [Queueing Books Online](http://www2.uwindsor.ca/%7Ehlynka/qonline.html) , [MIT Open Courseware](http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/index.htm) , [Cryptology Pointers](http://research.cyber.ee/%7Elipmaa/crypto/) , [CRA job](http://www.cra.org/main/cra.jobs.html), [Security tools](http://www.insecure.org/tools.html) , [GNUPLOT](http://www.duke.edu/%7Ehpgavin/gnuplot.html), [GNUPLOT 2](http://t16web.lanl.gov/Kawano/gnuplot/index-e.html), [GAWK](http://www.gnu.org/software/gawk/manual/gawk.html), [Bash](http://www.tldp.org/LDP/abs/html/), [Mastering VI](http://www.eng.hawaii.edu/Tutor/vi.html), [Python Tutorial](http://docs.python.org/tut/tut.html) 
+- [Some Computer Security FAQ Resources](http://www.antivirusware.com/articles/computer-security.htm); Some other [infsec resources](http://resources.infosecinstitute.com/)
+
+
 
 ## Intro
 > 🔗 https://comydream.github.io/journals-and-conferences/index.html
@@ -111,8 +139,70 @@ IH&MMSec 由原先的 [IH](https://link.springer.com/conference/ih) 和 [ACM 
 - 复旦白泽战队
 
 
+----
+👍 https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+- Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
+- Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
+
+|   |   |   |
+|---|---|---|
+|Tier 1|[S&P](http://www.ieee-security.org/TC/SP-Index.html) (Oakland)|IEEE Symposium on Security and Privacy|
+|[CCS](http://www.sigsac.org/ccs.html)|ACM Conference on Computer and Communications Security|
+|[Security](https://www.usenix.org/conferences/byname/108)|USENIX Security Symposium|
+|[NDSS](https://www.ndss-symposium.org/)|ISOC Network and Distributed System Security Symposium|
+|-- Crypto conferences below --|   |
+|[Crypto](http://www.iacr.org/conferences/)|International Cryptology Conference|
+|[Eurocrypt](http://www.iacr.org/conferences/)|European Cryptology Conference|
+|Tier 2|[ESORICS](http://www.laas.fr/%7Eesorics/)|European Symposium on Research in Computer Security|
+|[RAID](http://www.raid-symposium.org/)|International Symposium on Recent Advances in Intrusion Detection|
+|[ACSAC](http://www.acsac.org/)|[Annual Computer Security Applications Conference](http://www.acsac.org/2004/welcome.html)|
+|[DSN](http://www.dsn.org/)|The International Conference on Dependable Systems and Networks|
+|[IMC](http://www.sigcomm.org/events/imc-conference)|Internet Measurement Conference|
+|[ASIACCS](http://www.sigsac.org/)|ACM Symposium on Information, Computer and Communications Security|
+|[PETS](http://petsymposium.org/)|Privacy Enhancing Technologies Symposium|
+|[EuroS&P](http://www.ieee-security.org/TC/SP-Index.html)|IEEE European Symposium on Security and Privacy|
+|[CSF](http://www.ieee-security.org/CSFWweb/) (CSFW)|IEEE Computer Security Foundations Symposium.  <br>Supersedes CSFW (Computer Security Foundations Workshop)|
+|-- Crypto conferences below --|   |
+|[Asiacrypt](http://www.iacr.org/conferences/)|International Conference on the Theory and Application of Cryptology and Information Security|
+|[TCC](https://www.iacr.org/meetings/tcc/)|Theory of Cryptography Conference|
+|[CHES](https://ches.iacr.org/)|Conference on Cryptographic Hardware and Embedded Systems|
+|Tier 3|[SecureComm](http://www.securecomm.org/)|Internation Conference on Security and Privacy in Communication Networks|
+|[CNS](http://www.ieee-cns.org/)|IEEE Conference on Communications and Network Security|
+|[DIMVA](http://www.dimva.org/)|GI SIG SIDAR Conference on Detection of Intrusions and Malware and Vulnerability Assessment|
+|[ACNS](http://jianying.space/acns/)|International Conference on Applied Cryptography and Network Security|
+|[SAC](http://www.acm.org/conferences/sac/)|ACM Symposium on Applied Computing|
+|ACISP|Australasia Conference on Information Security and Privacy|
+|[ICICS](http://www.icics.cn/)|International Conference on Information and Communications Security|
+|ISC|Information Security Conference|
+|[ICISC](http://www.icisc.org/)|International Conference on Information Security and Cryptology|
+|[SACMAT](http://www.sacmat.org/)|ACM Symposium on Access Control Models and Technologies|
+|[IFIP SEC](http://www.ifipsec.org/)|IFIP International Information Security Conference|
+|[WiSec](http://www.sigsac.org/wisec/)  <br>(WiSe, SASN)|ACM Conference on Wireless Network Security  <br>Supersedes WiSe (ACM Workshop on Wireless Security) and SASN (ACM Workshop on Security of Ad-Hoc and Sensor Networks)|
+|[SOUPS](https://www.usenix.org/conferences/byname/884)|Symposium On Usable Privacy and Security|
+|[IFIP WG 11.9](http://www.ifip119.org/Conferences/)|IFIP WG 11.9 International Conference on Digital Forensics|
+|[DFRWS](http://www.dfrws.org/)|Digital Forensic Research Conference|
+|[CODASPY](http://www.codaspy.org/)|ACM Conference on Data and Application Security and Privacy|
+|CANS|Cryptology and Network Security conference|
+|-- Crypto conferences below --|   |
+|[FSE](https://www.iacr.org/meetings/fse/)|Conference on Fast Software Encryption (FSE)|
+|[PKC](https://www.iacr.org/meetings/pkc/)|International Conference on Practice and Theory in Public Key Cryptography|
+|[FC](http://www.ifca.ai/)|International Conference on Financial Cryptography and Data Security|
+|[CT-RSA](https://www.rsaconference.com/)|RSA Conference, Cryptographers' Track|
+|[HOST](http://www.hostsymposium.org/)|IEEE International Symposium on Hardware Oriented Security and Trust|
+|-- Workshops below --|   |
+|[HotSec](https://www.usenix.org/conferences/byname/158)|USENIX Summit on Hot Topics in Security|
+|[NSPW](http://www.nspw.org/current/)|New Security Paradigms Workshop|
+|[IH&MMSec](https://www.ihmmsec.org/)|Workshop on Information Hiding and Multimedia Security|
+|[IWIA](http://www.iwia.org/)|IEEE International Information Assurance Workshop|
+|Others (Obsolete, or not ranked)|[SecDev](http://secdev.ieee.org/)|IEEE Secure Development Conference|
+|ISPEC|Information Security Practice and Experience Conference|
+|[NordSec](http://www.nordsec.org/)|Nordic Conference on Secure IT Systems|
+|[I](http://event.cwi.nl/icits2011/)[CITS](http://event.cwi.nl/icits2011/)|International Conference on Information Theoretic Security|
+|[MALCON](http://www.malwareconference.org/)|International Conference on Malicious and Unwanted Software
 
 ## Ref
 [安全四大顶会论文查询 | CSDN]: https://blog.csdn.net/qq_38329811/article/details/121859997?fromshare=blogdetail&sharetype=blogdetail&sharerId=121859997&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
 
 [Computer Security Conference Ranking and Statistic (2009-11-11)]: http://www.blogjava.net/xingxiao/articles/302025.html
+
+[🤔 中科院敏感专业，学硕转博还是硬刚美国博士？ | 1p3p]: https://www.1point3acres.com/bbs/thread-648011-1-1.html

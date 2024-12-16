@@ -66,6 +66,10 @@ Understanding Cameras & Optics | Branch Education
 http://t.csdnimg.cn/5EBYh
 🔥 👍 从裸机启动开始运行一个C++程序（系列文章）｜ borehole打洞哥
 
+🤔 https://www.nand2tetris.org
+From Nand to Tetris
+Building a Modern Computer From First Principles
+
 https://www.cnblogs.com/ysocean/tag/深入理解计算机系统/
 深入理解计算系统 - 随笔
 

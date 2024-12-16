@@ -139,12 +139,13 @@
 			3. irrationality
 			4. irrationalism
 	7. riddle
-		1.  [conundrum](dic://conundrum), [enigma](dic://enigma), [brain-teaser](dic://brain-teaser)
-		2. [screen](dic://screen)
-		3.  [permeate](dic://permeate), [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue)
-		4. _n._ [problem](dic://problem), [sieve](dic://sieve), [screen](dic://screen)
-		5. _v._ [pierce](dic://pierce), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify)
-		6. **puzzle**使…困惑;**mystery**神秘，秘密;**conundrum**谜,猜不透的难题,难答的问题;**enigma**谜，不可思议的东西;**puzzles**智力游戏;**solve**解决;**mysteries**古代的秘密宗教仪式;**puzzling**使莫明其妙的;**answer**符合;**paradox**悖论;**solving**解决办法;
+		1. (addle, beadle, befuddle, cuddle, coddle, dawdle, daddle (dawdle, dawdler), diddle, dildo, doodle, dwindle, faddle, fiddle, fuddle, huddle, ladle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, swaddle, swindle, spindle, toddle, treadle, twaddle, twiddle, waddle)
+		2.  [conundrum](dic://conundrum), [enigma](dic://enigma), [brain-teaser](dic://brain-teaser)
+		3. [screen](dic://screen)
+		4.  [permeate](dic://permeate), [pervade](dic://pervade), [penetrate](dic://penetrate), [interpenetrate](dic://interpenetrate), [diffuse](dic://diffuse), [imbue](dic://imbue)
+		5. _n._ [problem](dic://problem), [sieve](dic://sieve), [screen](dic://screen)
+		6. _v._ [pierce](dic://pierce), [perplex](dic://perplex), [vex](dic://vex), [stick](dic://stick), [get](dic://get), [puzzle](dic://puzzle), [mystify](dic://mystify)
+		7. **puzzle**使…困惑;**mystery**神秘，秘密;**conundrum**谜,猜不透的难题,难答的问题;**enigma**谜，不可思议的东西;**puzzles**智力游戏;**solve**解决;**mysteries**古代的秘密宗教仪式;**puzzling**使莫明其妙的;**answer**符合;**paradox**悖论;**solving**解决办法;
 4. dread
 	1. [apprehension](dic://apprehension), [apprehensiveness](dic://apprehensiveness)
 	2. [fear](dic://fear)
@@ -2160,12 +2161,13 @@
 6. red
 7. rowan
 8. ruddle
-	1. [reddle](dic://reddle), [raddle](dic://raddle)
-	2. _n._ [iron ore](dic://iron ore)
-	3. _v._ [weave](dic://weave), [interweave](dic://interweave), [redden](dic://redden)
-9. ruddock
+	1. (addle, beadle, befuddle, cuddle, coddle, dawdle, daddle (dawdle, dawdler), diddle, dildo, doodle, dwindle, faddle, fiddle, fuddle, huddle, ladle, meddle, middle, muddle, noddle, puddle, paddle, peddle, piddle, raddle, reddle, ruddle riddle, saddle, swaddle, swindle, spindle, toddle, treadle, twaddle, twiddle, waddle)
+	2. [reddle](dic://reddle), [raddle](dic://raddle)
+	3. _n._ [iron ore](dic://iron ore)
+	4. _v._ [weave](dic://weave), [interweave](dic://interweave), [redden](dic://redden)
+10. ruddock
 	1. - n. <英，方>红鸫，欧洲知更鸟
-10. ruddy
+11. ruddy
 	1.  [rubicund](dic://rubicund), [florid](dic://florid), [sanguine](dic://sanguine)
 	2. [red](dic://red), [reddish](dic://reddish), [blood-red](dic://blood-red), [carmine](dic://carmine), [cerise](dic://cerise), [cherry](dic://cherry), [cherry-red](dic://cherry-red), [crimson](dic://crimson), [ruby](dic://ruby), [ruby-red](dic://ruby-red), [scarlet](dic://scarlet)
 	3. **pale**苍白的;**reddish**微红的;**crimson**深红;**greenish**呈绿色的;**silvery**似银的，银色的;**complexion**面色;**yellowish**微黄色的;**plump**丰满的;**jolly**愉快的;**blond**金发的;**rosy**蔷薇色的，玫瑰红色的;
@@ -2176,7 +2178,7 @@
 	8. They rob you blind and then throw you a ruddy sailor! /他们会把你眼睛蒙上绑走，扔给个大老粗水手！
 	9. " Who are all these ruddy owls from? " he growled. /“这些讨厌透顶的猫头鹰是谁派来的？”他凶狠地吼道。
 	10. What do you mean there's no ruddy car? -He went to Waterloo, I'm sorry. /你说没辆破车(来接我)是啥意思？-抱歉，他开车去了滑铁卢。
-11. rust
+12. rust
 	1. [rusting](dic://rusting)
 	2.  [rust fungus](dic://rust fungus)
 	3.  [corrode](dic://corrode)
