@@ -75,7 +75,7 @@ https://www.1point3acres.com/bbs/home.php?mod=space&do=thread&view=me&type=threa
 
 自己的project比较杂，有neural style transfer，object detection这种然后做成前段网页这种。
 
-推荐信也不咋滴都是任课prof，估计一篇会偏强推一点，剩下两篇应该就一般推，只能夸一下上的课成绩那种。.
+推荐信也不咋滴都是任课prof，估计一篇会偏强推一点，剩下两篇应该就一般推，只能夸一下上的课成绩那种。
 
 ![](../../../../Assets/Pics/Pasted%20image%2020241215030427.png)
 
@@ -124,7 +124,7 @@ UT-Austin@MSDS: active, 2024-11-15, 2024-12-15
 UT-Austin@MSAI: active, 2024-11-15, 2024-12-15
 TAMU@MSCS: active, 2024-11-15, 2025-01-15
 PSU@CSE: active, 2024-11-15, 2024-12-20
-UMaryland-CP@MSCS: active, 2024-11-15, 2024-12-20
+UMD-CP@MSCS: active, 2024-11-15, 2024-12-20
 NYU@TandonSchoolofEngineering(early): active, 2024-11-15, 2024-12-01
 NYU@TandonSchoolofEngineering: active, 2024-11-15, 2025-02-15
 NYU@MSCS(Courant): active, 2024-11-15, 2025-03-01
@@ -133,7 +133,7 @@ UMass@MSCS: active, 2024-11-15, 2024-12-15
 OSU: active, 2024-11-15, 2025-02-01
 UChicago: active, 2024-11-15, 2024-12-15
 RICE: active, 2024-11-15, 2024-12-15
-WashU@MSCS: active, 2024-11-15, 2025-03-01
+WUSTL@MSCS: active, 2024-11-15, 2025-03-01
 NEU@MSCS: active, 2024-11-15, 2025-04-01
 NEU@MSCybersecurity: active, 2024-11-15, 2025-04-01
 Emory: active, 2024-11-15, 2024-12-15
@@ -147,6 +147,8 @@ UoW@MASc: active, 2024-11-15, 2025-02-01
 UoT@MScAC: active, 2024-11-15, 2024-12-02
 UBC@MASc: active, 2024-11-15, 2025-01-15
 UBC@MENG: active, 2024-11-15, 2024-11-30
+UWestern@MSCS: active, 2024-11-15, 2025-02-15
+SFU@MSCS: active, 2024-11-15, 2025-01-18
 
 section 🇪‍🇺
 EIT@DS: active, 2024-11-15, 2025-02-10
@@ -1131,9 +1133,12 @@ Research Areas
 📄 https://www.topuniversities.com/universities/university-texas-austin
 
 🚪 https://students.gradschool.utexas.edu/portal/app
+🚪 https://utdirect.utexas.edu/apps/adm/mystatus/statuscheck/admission/00/
+🚪 https://students.gradschool.utexas.edu/apply/status
 
 how to apply
 https://www.cs.utexas.edu/graduate-program/prospective-students/apply
+
 ##### College of Natural Sciences | Computer Science /Master &PhD
 https://www.cs.utexas.edu/graduate-program
 https://www.cs.utexas.edu/graduate-program/prospective-students
@@ -1478,6 +1483,8 @@ https://www.khoury.northeastern.edu/programs/computer-science-ms/
 https://warmup.khoury.northeastern.edu/programs/cybersecurity-ms-2/#request-information
 #### 👉 Northwestern University (NWU)
 ##### McCORMICK School of Engineering
+🚪 https://www.applyweb.com/nugrad/index.ftl
+
 The Department of Computer Science offers the following graduate degrees:
 - [Master of Science (MS) in Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/index.html)
 - [Doctor of Philosophy (PhD) in Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/index.html)
@@ -1495,14 +1502,12 @@ We offer the following affiliated master’s degrees:
 - [The MBAi Program](https://mbai.northwestern.edu/index.html "Learn more about the MBAi Program") _joint with the Kellogg School of Management_
 
 ---
-
 how to apply 
+https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#not
 https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/#how-apply
 
 **Applications are accepted for Fall quarter only.**
-
 For the MS program, applications
-
 - Submitted by **November 30** will receive a decision by **January 10**
 - Submitted by **December 31** will receive a decision by **February 10**
 - Submitted by **February 28** will receive a decision by **April 30**
@@ -1777,6 +1782,19 @@ https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-
 Master of Science (MSc), Doctor of Philosophy (PhD)
 
 https://cmps.ok.ubc.ca/graduate/computer-science/
+#### 👉 Simon Fraser University (SFU)
+🚪 https://gograd.sfu.ca/apply/
+##### COMPUTING SCIENCE GRADUATE STUDENTS
+https://www.sfu.ca/fas/computing/current-students/graduates/work-experience.html
+
+6 terms, 2 years, 2,500$ per term
+
+#### 👉 Western University - London
+##### Computer Science
+https://grad.uwo.ca/admissions/programs/program.cfm?p=37
+
+5 terms, < 2 years, 3,000$ per term
+
 #### 👉 University of Toronto (UoT)
 ##### Computer Science
 https://sgs.calendar.utoronto.ca/degree/Computer-Science

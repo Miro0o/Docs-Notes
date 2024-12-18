@@ -10,8 +10,39 @@
 
 ↗ [CS International Universities & Degrees](../CS%20International%20Universities%20&%20Degrees.md)
 
+### Interested in Working with Me? 🤓
+https://www.cs.utexas.edu/~vijay/prospective-students.htm
+
+[The PhD Grind, and Why Research Isn’t Like Sex](https://blog.regehr.org/archives/743)
+
+https://www.haojianj.in/prospective.html
 
 ### Other Info
+https://www.cs.utexas.edu/~vijay/links.htm | Useful Links for Students
+1. Email Etiquette
+	1. [Getting in Contact (for prospective students)](https://www.cs.utah.edu/~tdenning/students.html) by [Tamara Denning](https://www.cs.utah.edu/~tdenning/)
+	2. [How to send and reply to email](http://matt.might.net/articles/how-to-email/) (applies for all professional interactions, esp. with professors) by [Matt Might](http://matt.might.net/)
+	3. [How to get a busy person to respond to your email](https://medium.com/@mattangriffel/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671) by [Mattan Griffel](https://medium.com/@mattangriffel)
+2. For students applying to grad school
+	1. [How to Pick a Graduate Advisor](http://www.cell.com/neuron/fulltext/S0896-6273(13)00907-0) by [Ben Barres](https://profiles.stanford.edu/ben-barres)
+	2. [Advice to Graduate School Recommendation Letter Writers](http://cs.brown.edu/~sk/Memos/Grad-School-Recos/) by [Shriram Krishnamurthi](http://cs.brown.edu/~sk/) (**Have your LOR writers read this!**)
+	3. [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/) by [Matt Might](http://matt.might.net/)
+	4. [HOWTO: Get into grad school for science, engineering, math and computer science](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) by [Matt Might](http://matt.might.net/)
+	5. [How CS Master's Funding Works (and Why You Can't Seem to Get Any)](http://cs.brown.edu/~sk/Memos/Funding-CS-Grad-School/) by [Shriram Krishnamurthi](http://cs.brown.edu/~sk/)
+	6. [A Five-Minute Guide to Ph.D. Program Applications](http://www.pgbovine.net/PhD-application-tips.htm) by [Philip Guo](http://www.pgbovine.net/)
+	7. [How to pick a grad school for a PhD in Computer Science](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246) by me.
+	8. [Twitter Thread on what to write in a SOP/research statement](https://threadreaderapp.com/thread/933388419589459969.html) by me.
+3. For undergrads considering doing research
+	1. [The Benefits of Working on Research As An Undergraduate Student](http://cacm.acm.org/blogs/blog-cacm/173645-the-benefits-of-working-on-research-as-an-undergraduate-student/fulltext) by [Philip Guo](http://www.pgbovine.net/)
+4. For students considering a PhD
+	1. [Why Pursue A Ph.D.? Three Practical Reasons](https://vimeo.com/80236275) by [Philip Guo](http://www.pgbovine.net/)
+	2. [The illustrated guide to a Ph.D](http://matt.might.net/articles/phd-school-in-pictures/) by [Matt Might](http://matt.might.net/)
+	3. [3 qualities of successful Ph.D. students: Perseverance, tenacity and cogency](http://matt.might.net/articles/successful-phd-students/) (notice it doesn't say smart/genius etc.) by [Matt Might](http://matt.might.net/)
+5. For PhD students
+	1. [Pep talk for new Ph.D. students](http://www.pgbovine.net/pep-talk-for-new-PhD-students.htm) by [Philip Guo](http://www.pgbovine.net/)
+	2. [Keys to Grad School](https://www.youtube.com/watch?v=fqPSnjewkuA&feature=youtu.be) by [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/)
+	3. [Advice for new Ph.D. students](http://pgbovine.net/early-stage-PhD-advice.htm) by [Philip Guo](http://www.pgbovine.net/)
+	4. [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/) by [Matt Might](http://matt.might.net/)
 
 
 
@@ -114,13 +145,6 @@ Tips for your application (adapted from Henny Admoni's website):
 - Show me you know what research involves. This means describing prior research projects, including how you came up with a novel idea, what you did to solve it, and how you communicated the outcome. The best candidates are ones who are familiar with all phases of the research process, even if they weren’t the ones leading the project themselves. 
 - In describing your research, tell me what challenges you faced and how you adapted to those challenges. Research is not a linear process, and I am looking for students who show perseverance and creativity in the face of setbacks. Ph.D. is not easy for anyone. You need to have [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108).
 - Give me evidence that you are able to work independently, seek out new avenues for growth, and take responsibility for your learning. Strong candidates show this through activities outside the classroom, for example by doing research internships, joining clubs that allow for hands-on projects, or participating reading groups to discuss current research.
-
-
-
-## Elevator Pitch
-I'm in my final year as an international student graduating in fall 2025 with a Computer Science degree. My interests lies on software security and my current focus are exploring accurate and verified methods to apply LLM into program analysis & fuzz testing.
-
-One of my recent projects proposed a novel way integrating LLM inference into static program analysis and helped detecting weaknesses and vulnerabilities in the software. I eagerly seek opportunities in the U.S. to conduct further researches on such area.
 
 
 
