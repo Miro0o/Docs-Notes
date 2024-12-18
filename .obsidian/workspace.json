@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "International Master & PhD Programs List"
             }
+          },
+          {
+            "id": "5c287989f146f679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statement of Purpose (SoP) & Statement of Intent (SoI)"
+            }
           }
         ]
       }
@@ -191,10 +206,18 @@
   },
   "active": "980119c66e8d407c",
   "lastOpenFiles": [
-    "Assets/Pics/Pasted image 20241215030427.png",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/📌 Vulnerability Government（漏洞管控）/SCAP (Security Content Automation Protocol) & OpenSCAP.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
+    "CS/🗺 CS Overview/Program, Computer, and Automation.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Program Execution (Runtime).md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/Program Execution & Compilation System.md",
+    "CS/🔑 CS Core/🛣️ Program Execution & Compilation System/🧙🏿‍♀️ Program Execution (Runtime)/Procedure (Function) Call & Runtime Memory Layout.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/Operating System & OS Kernel (Theory Part).md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "Assets/Pics/Pasted image 20241215030427.png",
     "CS/Academics/Academics.md",
     "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
     "CS/Academics/Academic Research Group Profiles/U.S.A Based.md",
@@ -212,13 +235,6 @@
     "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
     "CS/Artificial Intelligence/👀 AI WatchList/🕶️ Awesome AI/Awesome NLP & LLM Projects & Services.md",
     "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Lists & Ranking/LLM Lists & Ranking.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Admission Materials/Letter of Recommendations (LORs).md",
-    "CS/🗺 CS Overview/🤯 Awesome List.md",
-    "CS/Artificial Intelligence/👀 AI WatchList/AI WatchList.md",
-    "CS/Artificial Intelligence/👀 AI WatchList/🕶️ Awesome AI/Awesome AI.md",
-    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Single-Source Shortest Path (SSSP)/Bellman-Ford Algorithm.md",
-    "CS/🔑 CS Core/🦄 Algorithm & Data Structure/Data Structures/Graph/Shortest Path Problem/Single-Source Shortest Path (SSSP)/Single-Source Shortest Path (SSSP).md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Cracked Projects.md",
     "Assets/Illustrations/Drawing 2024-11-25 23.01.27.excalidraw.png",
     "Assets/Illustrations/Drawing 2024-11-25 23.01.27.excalidraw.svg",
     "Assets/Illustrations/Drawing 2024-10-30 16.23.05.excalidraw.png",
@@ -226,7 +242,6 @@
     "Assets/Pics/Screenshot 2024-11-17 at 14.31.57.png",
     "Assets/Pics/Pasted image 20241104003619.png",
     "Assets/Pics/Pasted image 20241104003456.png",
-    "Assets/Pics/Pasted image 20241104003300.png",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Monitoring & Observability",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Development & Training",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI Data and Storage/Data Storage",
