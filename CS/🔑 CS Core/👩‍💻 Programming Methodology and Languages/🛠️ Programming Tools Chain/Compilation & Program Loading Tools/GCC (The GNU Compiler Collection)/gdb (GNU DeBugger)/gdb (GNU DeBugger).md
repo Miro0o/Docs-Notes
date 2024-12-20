@@ -34,14 +34,14 @@ GDB, the GNU Project Debugger, belongs to ↗ [GNU (GNU's Not Unix)](../../../..
 
 
 ### GDB Cheat Sheet
-![gdbref](../../../../../../../Assets/Cheat%20Sheets/gdbref.pdf)
+![gdb5-refcard](../../../../../../../Assets/Cheat%20Sheets/gdb5-refcard.pdf)
 
 
 ### GDB Usages
 1. gdb can saperate debug info and executables
 2. remote 
 3. redirect debugging info (e.g. to a web ui)
-4. 
+
 
 
 ## Ref

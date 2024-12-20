@@ -103,12 +103,11 @@ https://github.com/jobbole
 ↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 ↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Study,%20University,%20and%20Education/科技创新人才培养.md)
-↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
 ↗ [我们需要怎样的数学教育？](../🏠%20Assets/Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
 ↗ [How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
 - ↗ [外语学习误区及真实方法](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
 
-🔗 [What is academic integrity?](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
+🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
 🔗 [How to ask question the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
@@ -119,6 +118,17 @@ https://github.com/jobbole
 🔗 [What Does "TLDR" Mean, and How Do You Use It?](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/_)
 
 🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
+
+
+#### Universities' CS Training Scheme
+Computer Science
+- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../🏠%20Assets/Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
+- ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
+- 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
+
+Computer Security /CyberSecurity
+
+Software Engineering
 
 
 ### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
@@ -150,7 +160,7 @@ https://github.com/jobbole
 	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. ↗ [Program Execution & Compilation System](../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 	5. etc.
-4. System Architecture /Cloud
+4. Large Scale Software System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 	2. ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
 	3. ↗ [Awesome Architect](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
@@ -182,24 +192,6 @@ https://github.com/jobbole
 - ↗ [Academic Institutions in Electronic & Information Fields](../Academics/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
 ↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
-
-
-
-## Universities' CS Training Scheme
-Computer Science
-- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../🏠%20Assets/Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
-- ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
-- 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
-
-Computer Security /CyberSecurity
-
-Software Engineering
-
-
-
-## Experiences From the Past
-[我的十年程序员生涯]: https://mp.weixin.qq.com/s/sVtChB0SrwmZIwqr5wJARA
-[我在南大的七年]: https://mp.weixin.qq.com/s/bC0YXdOUUMtOCmplAkJ4yg
 
 
 
@@ -535,6 +527,11 @@ Redhat Developer
 ---
 https://support.huawei.com/enterprise/zh/index.html
 华为 - 产品/行业解决方案 技术支持
+
+
+### Experiences From the Past
+[我的十年程序员生涯]: https://mp.weixin.qq.com/s/sVtChB0SrwmZIwqr5wJARA
+[我在南大的七年]: https://mp.weixin.qq.com/s/bC0YXdOUUMtOCmplAkJ4yg
 
 
 ### PPL & Personal Blogs

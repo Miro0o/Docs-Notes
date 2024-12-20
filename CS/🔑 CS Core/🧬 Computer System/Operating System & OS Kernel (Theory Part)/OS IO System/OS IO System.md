@@ -34,8 +34,6 @@ Reduce complexity in I/O management (通用性：降低I/O设备管理复杂度)
 
 > 💡 **Abstraction in Computer Science**
 > This is a very common & essential concept through out CS !
-
-
 #### 2️⃣ Efficiency
 > I/O devices are heterogeneous in performance (but usually lower than CPU & memory)
 
