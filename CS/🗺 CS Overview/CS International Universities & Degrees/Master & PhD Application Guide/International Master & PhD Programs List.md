@@ -533,7 +533,6 @@ All other candidates are also welcome to apply during this period. 
 ##### Computer Science
 ##### Cyber Security
 https://ethz.ch/en/studies/master/application/master-cybsec.html
-
 ##### Data Science
 
 #### 👉 EPFL École polytechnique fédérale de Lausanne
@@ -1517,7 +1516,6 @@ No applications after **February 28** will be considered.
 
 #### 👉 University of Virginia (UVa)
 ##### Department of Computer Science
-
 https://engineering.virginia.edu/department/computer-science/academics/cs-graduate-programs
 #### 👉 Virginia Tech (VT)
 ##### Computer Science & Applications
