@@ -329,4 +329,18 @@ This is a list of people's default app for various tasks.
 
 
 
+## Awesome Websites
+[Web Application Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Web%20Application%20Galleries/Web%20Application%20Galleries.md)
+
+
+
+### 👉 OpenStreetMap
+https://www.openstreetmap.org/
+
+
+### 👉 Wiki Projects
+↗ [Wiki Projects & Wikimedia Foundation (WMF)](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+
+
+
 ## Ref

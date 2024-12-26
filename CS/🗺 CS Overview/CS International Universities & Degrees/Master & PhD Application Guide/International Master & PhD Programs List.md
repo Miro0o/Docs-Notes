@@ -484,15 +484,20 @@ https://www.uni-stuttgart.de/en/study/study-programs/Computer-Science-M.Sc.-0000
 #### 👉 Paris-Saclay University
 
 #### 👉 IPP (Insitut Polytechnique de Paris)
+🚪 https://candidatures.polytechnique.fr/candidatures-mutualisees/logincandidature/?cursus=
+
 https://www.ip-paris.fr/en
 1. Engineer Program
 2. Masters (2,1)
 3. Masters of Science and Technology
 4. Advanced Masters (1)
 5. PhD Track (2+3)
+	1. https://www.ip-paris.fr/en/education/phd-track
 6. PhD Program (3)
 
 Cooperation with China
+
+
 #### 👉 PSL (Paris Sciences & Lettres University)
 apply portal https://espacecandidature.psl.eu/s/?language=en_US
 ##### Computer Science (2-year Master /5-year MS+PhD)
