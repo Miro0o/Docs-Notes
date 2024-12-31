@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "International Master & PhD Programs List"
+              "title": "CS International Universities & Degrees"
+            }
+          },
+          {
+            "id": "117f648091212d6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5004348754883,
-    "collapsed": true
+    "width": 523.5004348754883
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -139,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of International Master & PhD Programs List"
+              "title": "Outline of CS International Universities & Degrees"
             }
           },
           {
@@ -174,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +201,12 @@
   },
   "active": "980119c66e8d407c",
   "lastOpenFiles": [
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+    "CS/🗺 CS Overview/🥂 Welcome to CS.md",
+    "CS/🗺 CS Overview/Institutes & Organizations in CS & IT.md",
+    "CS/🗺 CS Overview/Program, Computer, and Automation.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "CS/Academics/Academics.md",
     "CS/🗺 CS Overview/🤯 Awesome List.md",
     "CS/Software Engineering/System Level Software Development.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Programming.md",
@@ -198,7 +214,6 @@
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/😅 Wiki Projects & Wikimedia Foundation (WMF)/Research & QA & Knowledge Websites.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/😅 Wiki Projects & Wikimedia Foundation (WMF)/Wiki Projects & Wikimedia Foundation (WMF).md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Games.md",
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/FAQ.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Cracked Projects.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Local Lives.md",
@@ -208,15 +223,10 @@
     "CS/Software Engineering/🏇 Galleries & Awesome SE/Awesome Architect.md",
     "CS/Software Engineering/🏇 Galleries & Awesome SE/🤡 ALL IN ONE/Expensify/Expensify.md",
     "CS/🗺 CS Overview/CS自学指南（转）/实用工具箱.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
     "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/OS IO System.md",
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
     "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Auxiliary Hardware & Peripherals (IO Devices).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/🦺 Operating System Basics/Operating System Design (OS Kernel Design) & Kernel Architecture/Operating System Design (OS Kernel Design) & Kernel Architecture.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Linux (Derived From UNIX Family)/Linux Free Software & OSS (Open Source Software)/Host Management/IO Management.md",
-    "CS/🏠 Assets/Study, University, and Education/斯坦福大学计算机专业培养方案剖析.md",
-    "CS/🏠 Assets/Study, University, and Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS61",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Assets/Cheat Sheets/gdb5-refcard.pdf",
