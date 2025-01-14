@@ -8,31 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "980119c66e8d407c",
+            "id": "050bba3a47590fdb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-31 19.14.55.excalidraw"
+            }
+          },
+          {
+            "id": "2d031c7896d7ff3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS International Universities & Degrees"
-            }
-          },
-          {
-            "id": "117f648091212d6e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "International Master & PhD Programs List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5004348754883
+    "width": 523.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -148,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CS International Universities & Degrees"
+              "title": "Outline of International Master & PhD Programs List"
             }
           },
           {
@@ -183,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +202,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "980119c66e8d407c",
+  "active": "2d031c7896d7ff3a",
   "lastOpenFiles": [
+    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
+    "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.md",
+    "Assets/Illustrations/Fuzzing/Drawing 2024-11-25 23.01.27.excalidraw.md",
+    "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.png",
+    "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.svg",
+    "Assets/Illustrations/Fuzzing",
+    "Assets/Illustrations/computing.excalidraw.md",
+    "CS/🏠 Assets/Study, University, and Education/对计算机科学的思考.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/🗺 CS Overview/🥂 Welcome to CS.md",
     "CS/🗺 CS Overview/Institutes & Organizations in CS & IT.md",
@@ -221,12 +233,6 @@
     "CS/Software Engineering/🏇 Galleries & Awesome SE/Awesome SE.md",
     "CS/Software Engineering/🏇 Galleries & Awesome SE/Awesome Languages.md",
     "CS/Software Engineering/🏇 Galleries & Awesome SE/Awesome Architect.md",
-    "CS/Software Engineering/🏇 Galleries & Awesome SE/🤡 ALL IN ONE/Expensify/Expensify.md",
-    "CS/🗺 CS Overview/CS自学指南（转）/实用工具箱.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/🐚 Shell & Terminals (Console)/Shell & Terminals (Console).md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS IO System/OS IO System.md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
-    "CS/🔑 CS Core/Hardware & EE Related/Auxiliary Hardware & Peripherals (IO Devices)/Auxiliary Hardware & Peripherals (IO Devices).md",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS61",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Assets/Cheat Sheets/gdb5-refcard.pdf",
@@ -234,12 +240,10 @@
     "Assets/Pics/shrc_school_ranking_50_100.jpg",
     "Assets/Pics/shrs_school_ranking.jpg",
     "Assets/Illustrations/Drawing 2024-11-25 23.01.27.excalidraw.png",
-    "Assets/Illustrations/Drawing 2024-11-25 23.01.27.excalidraw.svg",
+    "Assets/Illustrations/Fuzzing/Drawing 2024-11-25 23.01.27.excalidraw.svg",
     "Assets/Illustrations/Drawing 2024-10-30 16.23.05.excalidraw.png",
     "Assets/Illustrations/Drawing 2024-10-30 16.23.05.excalidraw.svg",
     "Assets/Pics/Screenshot 2024-11-17 at 14.31.57.png",
-    "Assets/Pics/Pasted image 20241104003619.png",
-    "Assets/Pics/Pasted image 20241104003456.png",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Monitoring & Observability",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Development & Training",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI Data and Storage/Data Storage",
@@ -247,7 +251,6 @@
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/AI Data and Storage",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure/Foundation Models & Libraries",
     "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Hardware & Computing",
-    "CS/CyberSecurity/☠️ Kill Chain/Pen-testing Tools/All-in-one",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

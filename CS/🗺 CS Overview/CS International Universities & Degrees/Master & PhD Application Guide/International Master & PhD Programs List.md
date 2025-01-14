@@ -648,6 +648,9 @@ https://www.uva.nl/en/programmes/masters/information-studies-information-systems
 https://www.uva.nl/en/programmes/masters/information-studies-data-science/data-science.html?origin=5BOaRAofTjCccATraJp2XA
 #### 👉 University of Twente
 🚪 https://www.studielink.nl/dashboard/home
+🚪 https://osiris.utwente.nl/inkomend/Welkom.do (application portal)
+Username: YSun206  
+Password: 0WZJNZEB76AOVO
 
 ---
 STEP BY STEP: DETAILED APPLICATION PROCESS FOR NON-DUTCH STUDENTS (MSC)
