@@ -995,9 +995,10 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		1. n. 权杖
 	13. cross
 	14. crotch
-		1. 源同 crook,crochet.俚语，即看起来像个小弯钩。拼写比较 bake,batch.
-		2. n. 分叉处, 丫叉, 胯部
-	15. crotchet
+		1. (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
+		2. 源同 crook,crochet.俚语，即看起来像个小弯钩。拼写比较 bake,batch.
+		3. n. 分叉处, 丫叉, 胯部
+	16. crotchet
 		1. (bouquet, banquet, cachet, crotchet, crochet,  coquet)
 		2. (whimsical, quixotic, idealistic, quirky, kinky, offbeat, wacky, funky, eccentric, idiosyncratic, crotchet)
 		3. n. 小钩；奇想；怪想；反复无常
@@ -1011,22 +1012,23 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		11. the natural crotchets of inveterate bachelors. /对老光棍们来说很自然的怪念头。
 		12. And beyond that, you get into crotchets and quavers and things. /除此之外，还有四分之一血统和八分之一血统之类的
 		13. These are small naughty will be want as an omnipotent and big hero, you you their strange think the **crotchet** , all of their funny problems resolve good. /这些小淘气会把你当成一个无所不能的大英雄，你要把他们的奇思怪想，他们的无厘头问题全部解决好。
-	16. crouch
-		1. 自 PIE*sker,转，弯，词源同 crumple,curve.即弯下腰的，蹲下的。
-		2. n. 蹲伏, 蜷缩 
-		3. vi. 蹲下, 蜷着, 缩着  vt. 低头
-		4.  [stoop](dic://stoop), [bend](dic://bend), [bow](dic://bow)
-		5.  [squat](dic://squat), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [hunker](dic://hunker), [hunker down](dic://hunker down)
-		6. _n._ [bending](dic://bending)
-		7. _v._ [bend](dic://bend), [flex](dic://flex), [sit](dic://sit), [sit down](dic://sit down)
-		8. **kneel**跪下，跪;**kneeling**跪着，跪下;**squatting**蹲;**squat**蹲，蹲下;**stare**凝视，盯着看;**crawl**爬行;**ledge**壁架;**stoop**弯腰;**standing**直立的;**posture**姿势;**knelt**跪下;
-		9. she was crouching over some flower bed /她蹲在一个花坛前。
-		10. They crouched together on a shadowy hillside. /他们蹲在多荫的山坡上。
-		11. He crouched down to stroke the dog /他蹲下来抚摸他的狗。
-		12. Even from the distance where Ms. Achol is crouched, the ground shakes. /即使从阿科尔蹲着的远处看，地面也在震动。
-		13. Ms. Black was crouched near the door. /布莱克女士蜷缩在门边。
-		14. we crouched down in the trench. /我们蹲伏在战壕里。
-	17. crutch
+	17. crouch
+		1.  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
+		2. 自 PIE*sker,转，弯，词源同 crumple,curve.即弯下腰的，蹲下的。
+		3. n. 蹲伏, 蜷缩 
+		4. vi. 蹲下, 蜷着, 缩着  vt. 低头
+		5.  [stoop](dic://stoop), [bend](dic://bend), [bow](dic://bow)
+		6.  [squat](dic://squat), [scrunch](dic://scrunch), [scrunch up](dic://scrunch up), [hunker](dic://hunker), [hunker down](dic://hunker down)
+		7. _n._ [bending](dic://bending)
+		8. _v._ [bend](dic://bend), [flex](dic://flex), [sit](dic://sit), [sit down](dic://sit down)
+		9. **kneel**跪下，跪;**kneeling**跪着，跪下;**squatting**蹲;**squat**蹲，蹲下;**stare**凝视，盯着看;**crawl**爬行;**ledge**壁架;**stoop**弯腰;**standing**直立的;**posture**姿势;**knelt**跪下;
+		10. she was crouching over some flower bed /她蹲在一个花坛前。
+		11. They crouched together on a shadowy hillside. /他们蹲在多荫的山坡上。
+		12. He crouched down to stroke the dog /他蹲下来抚摸他的狗。
+		13. Even from the distance where Ms. Achol is crouched, the ground shakes. /即使从阿科尔蹲着的远处看，地面也在震动。
+		14. Ms. Black was crouched near the door. /布莱克女士蜷缩在门边。
+		15. we crouched down in the trench. /我们蹲伏在战壕里。
+	18. crutch
 		1. n. 拐杖, 支撑, 依靠  vt. 支撑
 		2. _n._ [staff](dic://staff), [expedient](dic://expedient)
 		3. **prop**支撑;**cane**手杖;**hindrance**起妨碍作用的事物或人
@@ -1036,19 +1038,20 @@ prison, 表示“监狱”，原指“网格状的”，cancel 由其叉状得�
 		7. Five hundred pounds and half the paperback rights is a pretty solid crutch, she said. /“五百英镑和平装本一半的版权，这可是相当可观的副业。”她说。
 		8. But I think you all for being my crutch in my career. You know what I mean. /我一直认为，你们是我职业生涯的支撑。你们懂我的意思。
 		9. 
-	18. encroach (broach, encroach, poach, )
-		1.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
-		2. vi. 侵犯, 侵蚀, 蚕食
-		3. [infringe](dic://infringe), [impinge](dic://impinge)
-		4. [impinge](dic://impinge), [entrench](dic://entrench), [trench](dic://trench)
-		5. _v._ [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on), [trespass](dic://trespass)
-		6. **interfere**干预;**erode**腐蚀，侵蚀;**invade**侵略;**infringe**侵犯;**threaten**威胁;**curtail**截断, 缩短;**occupy**占据，占领;**impede**阻止;**displace**取代;**endanger**危及;**diminish**使减少;
-		7. encroach on/upon the territory of a neighbouring country /侵略邻国的领土
-		8. His new house encroached on his neighbour's land. /他的新住宅侵占了邻居的土地。
-		9. Pierce is not just encroaching on Kamin's business. /皮尔斯不光侵占了卡盟的生意。
-		10. Midland is home to Dow Chemical, and the flooding is already encroaching on the company's main plant site. /米德兰是陶氏化学公司的总部，洪水已经侵蚀了该公司的主要工厂。
-		11. Essentially what she's painting is this bleak picture of the encroaching disaster. /本质上，她描绘的是一幅不断蔓延的灾难的凄凉画面。
-	19. cricket
+	19. encroach 
+		1. (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
+		2.  en-,进入，使，-croach,钩子，词源同 crook,crochet.
+		3. vi. 侵犯, 侵蚀, 蚕食
+		4. [infringe](dic://infringe), [impinge](dic://impinge)
+		5. [impinge](dic://impinge), [entrench](dic://entrench), [trench](dic://trench)
+		6. _v._ [advance](dic://advance), [progress](dic://progress), [pass on](dic://pass on), [move on](dic://move on), [march on](dic://march on), [go on](dic://go on), [trespass](dic://trespass)
+		7. **interfere**干预;**erode**腐蚀，侵蚀;**invade**侵略;**infringe**侵犯;**threaten**威胁;**curtail**截断, 缩短;**occupy**占据，占领;**impede**阻止;**displace**取代;**endanger**危及;**diminish**使减少;
+		8. encroach on/upon the territory of a neighbouring country /侵略邻国的领土
+		9. His new house encroached on his neighbour's land. /他的新住宅侵占了邻居的土地。
+		10. Pierce is not just encroaching on Kamin's business. /皮尔斯不光侵占了卡盟的生意。
+		11. Midland is home to Dow Chemical, and the flooding is already encroaching on the company's main plant site. /米德兰是陶氏化学公司的总部，洪水已经侵蚀了该公司的主要工厂。
+		12. Essentially what she's painting is this bleak picture of the encroaching disaster. /本质上，她描绘的是一幅不断蔓延的灾难的凄凉画面。
+	21. cricket
 		1. 蟋蟀，拟声词，模仿蟋蟀的叫声。2.板球，词源同 crook,crank.因最早使用弯曲的球棍而得名。
 9. **cruc-, cruc-, crux-** = cross, 表示“十字形，交叉”。
 	1. crux

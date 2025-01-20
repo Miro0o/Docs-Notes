@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "International Master & PhD Programs List"
             }
+          },
+          {
+            "id": "6487380bab9757dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/📿 miscs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📿 miscs"
+            }
+          },
+          {
+            "id": "d4ec37423e60ad0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/K.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md"
+                "file": "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/📿 miscs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of International Master & PhD Programs List"
+              "title": "Outline of 📿 miscs"
             }
           },
           {
@@ -189,13 +220,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d031c7896d7ff3a",
+  "active": "6487380bab9757dc",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/P.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/B.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/K.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/C.md",
     "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/📿 miscs.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/O.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Performance Metrics.md",
     "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/History of Computer Networks.md",
     "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/R.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/🔑 CS Core/Hardware & EE Related/⚡️ Digital (Logic) Electronics Foundations/Digital (Logic) Electronics Foundations.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Logic Programming Languages/Logic Programming Languages.md",
@@ -215,11 +251,6 @@
     "CS/Academics/Academics.md",
     "CS/🗺 CS Overview/🤯 Awesome List.md",
     "CS/Software Engineering/System Level Software Development.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/📟 System Level Programming/System Level Programming.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Generic Tools & Projects.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/😅 Wiki Projects & Wikimedia Foundation (WMF)/Research & QA & Knowledge Websites.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/😅 Wiki Projects & Wikimedia Foundation (WMF)/Wiki Projects & Wikimedia Foundation (WMF).md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Games.md",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS61",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Assets/Cheat Sheets/gdb5-refcard.pdf",

@@ -6113,7 +6113,7 @@
 	5. _sales brochure_ 售楼说明书；推广小册子
 	6. _travel brochure_ 旅游指南
 	7. the details contained in this brochure have been published in good faith . /这本册子中细节的披露出版是出于善意的。
-4. broach (broach, encroach, poach, )
+4. broach  (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
 	1. n. 烧肉叉, 凿子, 钻头  
 	2. vt. 用凿子修琢(石块), 钻孔  
 	3. vi. 露出水面
