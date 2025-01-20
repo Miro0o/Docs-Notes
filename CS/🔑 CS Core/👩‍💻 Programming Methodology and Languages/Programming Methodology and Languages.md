@@ -161,7 +161,6 @@ CREATE TABLE Addr (
 - ↗ [Record-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Record-Based%20Data%20Model%20Languages/Record-Based%20Data%20Model%20Languages.md)
 - ↗ [Object-Based Data Model Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Object-Based%20Data%20Model%20Languages/Object-Based%20Data%20Model%20Languages.md)
 - ↗ [Query Languages (Data Query Languages, DQL)](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/🦆%20Query%20Languages%20(Data%20Query%20Languages,%20DQL)/Query%20Languages%20(Data%20Query%20Languages,%20DQL).md)
-
 #### 2️⃣ Imperative Programming Paradigm
 It is one of the oldest programming paradigm. It features close relation to machine architecture. It is based on Von Neumann architecture. It works by changing the program state through assignment statements. It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
 
@@ -182,13 +181,12 @@ It is one of the oldest programming paradigm. It features close relation to mach
 👉 **Pascal**: developed by Niklaus Wirth
 ##### 2. Object Oriented Programming, OOP
 👉 **Simula**: first OOP language
-
 👉 [Java](Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java.md): developed by James Gosling at Sun Microsystems
 👉 **C++**: developed by Bjarne Stroustrup
 👉 [Objective-C](Compiled%20Languages/👔%20C-Based%20Languages/Objective-C/Objective-C.md): designed by Brad Cox
 👉 [Dot NET Framework Based Programming](Compiled%20Languages/Dot%20NET%20Framework%20Based%20Programming/Dot%20NET%20Framework%20Based%20Programming.md): developed by Microsoft
 👉 [Python](Interpreted%20Languages/Python/Python.md): developed by Guido van Rossum
-👉 [Ruby](Interpreted%20Languages/Ruby/Ruby.md): developed by Yukihiro Matsumoto 
+👉 [Ruby](Interpreted%20Languages/Ruby/Ruby.md): developed by Yukihiro Matsumoto
 👉 **Smalltalk**: developed by Alan Kay, Dan Ingalls, Adele Goldberg
 ##### 3. Parallel Processing Approach
 Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer. 
@@ -196,7 +194,7 @@ Parallel processing is the processing of program instructions by dividing them a
 Examples are NESL (one of the oldest one) and C/C++ also supports because of some library function.
 
 
-### 👉 By Programming Scenario 
+### 👉 By Programming Scenario
 1. scientific computing
 2. application development
 3. OS/kernel/driver development

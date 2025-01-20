@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "050bba3a47590fdb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-31 19.14.55.excalidraw"
-            }
-          },
-          {
             "id": "2d031c7896d7ff3a",
             "type": "leaf",
             "state": {
@@ -34,8 +22,7 @@
               "title": "International Master & PhD Programs List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,16 +191,23 @@
   },
   "active": "2d031c7896d7ff3a",
   "lastOpenFiles": [
+    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/📿 miscs.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/Computer Network Performance Metrics.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/0x00 Computer Network and Communication Introduction & Overview/History of Computer Networks.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/R.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+    "CS/🔑 CS Core/Hardware & EE Related/⚡️ Digital (Logic) Electronics Foundations/Digital (Logic) Electronics Foundations.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Logic Programming Languages/Logic Programming Languages.md",
+    "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
     "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
-    "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.md",
     "Assets/Illustrations/Fuzzing/Drawing 2024-11-25 23.01.27.excalidraw.md",
     "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.png",
     "Assets/Illustrations/Drawing 2024-12-31 19.14.55.excalidraw.svg",
     "Assets/Illustrations/Fuzzing",
     "Assets/Illustrations/computing.excalidraw.md",
     "CS/🏠 Assets/Study, University, and Education/对计算机科学的思考.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/🗺 CS Overview/🥂 Welcome to CS.md",
     "CS/🗺 CS Overview/Institutes & Organizations in CS & IT.md",
     "CS/🗺 CS Overview/Program, Computer, and Automation.md",
@@ -226,13 +220,6 @@
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/😅 Wiki Projects & Wikimedia Foundation (WMF)/Research & QA & Knowledge Websites.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/😅 Wiki Projects & Wikimedia Foundation (WMF)/Wiki Projects & Wikimedia Foundation (WMF).md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🕹️ Games/Games.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/FAQ.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Cracked Projects.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Local Lives.md",
-    "CS/Software Engineering/🏇 Galleries & Awesome SE/Galleries & Awesome SE.md",
-    "CS/Software Engineering/🏇 Galleries & Awesome SE/Awesome SE.md",
-    "CS/Software Engineering/🏇 Galleries & Awesome SE/Awesome Languages.md",
-    "CS/Software Engineering/🏇 Galleries & Awesome SE/Awesome Architect.md",
     "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS61",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Assets/Cheat Sheets/gdb5-refcard.pdf",

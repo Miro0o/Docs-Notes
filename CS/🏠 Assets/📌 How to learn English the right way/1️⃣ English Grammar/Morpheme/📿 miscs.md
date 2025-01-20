@@ -1005,10 +1005,26 @@ bluster (butter  bluster  blotter  clutter  flutter  splutter )
 - I mean, just more bluster from the north, or does it signify something substantive? /这只是朝鲜在虚张声势还是具有实质性意义的举动？
 - Strip away the **bluster**, and this was a fight about electoral advantage. /剥开空泛之谈，这是一场选举利益之争，如今胜负未定。
 - blustery
+	-  [blustering(a)](dic://blustering(a)), [blusterous](dic://blusterous)
+	-  [bullying](dic://bullying)
+	- _adj._ [stormy](dic://stormy), [domineering](dic://domineering)
+	- _n._ [calm](dic://calm), [submissive](dic://submissive)
+	- **windy**多风的，有风的;**chilly**寒冷的，凉飕飕的;**stormy**暴风雨的;**frigid**寒冷的，严寒的;**dreary**沉闷的，枯燥的;**overcast**阴暗的;**snowy**下雪的，多雪的;**sunny**阳光充足的，和煦的;**breezy**有微风的;**rainy**多雨的;**cold**寒冷的;
+	- a gusty, blustery day. /大风呼啸的一天。
+	- the day began cold and blustery, in contrast to almost two weeks of uninterrupted sunshine. /一反差不多两个星期来连续的晴照，天气开始变得寒冷，狂风大作。
+	- There was no sponsorship, no TV (for obvious reasons) and only a handful of spectators braving the blustery Scottish weather. /那个时候该项赛事既没有赞助也没有电视转播（这些都是明摆着的），只有冒着苏格兰大风前来观赛的寥寥观众。
+	- " I'm sorry, " he told Fleur, one blustery April evening as he helped her prepare dinner. " I never meant you to have to deal with all of this." /“对不起，”在四月一个狂风大作的夜晚，他帮芙蓉准备晚餐时说，“我真不想让你们承受这一切。”
+	- A little over a month ago, Mr. Johnson, a brash, blustery politician often compared to President Trump, swept into office with a vow to finally wrest Britain from the European Union by whatever means necessary, even if it meant a disorderly, no-deal departure. /这名性情急躁，常被比作特朗普的政治家一个多月前刚刚走马上任，他在上任时宣称，要不惜一切代价，即使意味着以混乱、无协议的方式退出，也要将英国从欧盟分离出来。
 - blusterous
+	- - adj. 咆哮的；叫嚷的；狂吹的；虚张声势的
 	- _adj._ [stormy](dic://stormy)
 	- _n._ [calm](dic://calm)
 	- **boisterous**热闹的;**brash**仓促的，性急的;**raucous**沙哑的;**pompous**浮夸的;**ferocious**残忍的;**stormy**暴风雨的;**brazen**黄铜制的;**menacing**险恶的;**howling**极大的;**belligerent**好战的;**defiant**挑衅的
+	- In wadi, the flood is just as blusterous beast of prey, eroding two sides, gobbling up farm... this.. /河道里，洪水如同咆哮的猛兽，冲刷着两岸，吞噬着农田……这...
+	- blustering (or blusterous) winds of Patagonia; a cold blustery day; a gusty storm with strong sudden rushes of wind /巴塔哥尼亚的狂风；寒冷、狂风大作的一天；突然狂风大作的暴风雨。
+	- It was a melancholy evening for coming abroad. A blusterous wind had risen during the day, and still continued to increase. /对于出国来说，这是一个忧郁的夜晚。白天刮起了狂风，而且还在继续增强。
+	- Summer and winter the scene was the same, unless the wind were more than usually blusterous, when the stool was shifted a few feet round the corner. /无论夏天还是冬天，这景象总是一样的，只有在风刮得过于猛烈时，才把墩子往屋子拐角的另一边挪动几英尺。
+	- A big, blusterous, genial brute of a Trollope could very fairly hold his own, and exact at all events an acceptable share in the profits of his work. /一个高大、狂暴、和蔼可亲的特罗洛普野蛮人可以非常公平地拥有自己的财产，并且在任何情况下都可以从他的工作利润中获得可接受的份额。
 - blustering
 - blusterer
 
@@ -1022,7 +1038,26 @@ blob
 - a big pink blob of a face was at the window. /窗口出现了一张肉团团的粉红色大脸。
 - the town is much more than a brown blob on the map. /这城市在地图上远远不只是一个棕色的斑点。
 - I have to show the little blobs. /我必须证明小斑点。
-- 
+
+blood
+- [lineage](dic://lineage), [line](dic://line), [line of descent](dic://line of descent), [descent](dic://descent), [bloodline](dic://bloodline), [blood line](dic://blood line), [pedigree](dic://pedigree), [ancestry](dic://ancestry), [origin](dic://origin), [parentage](dic://parentage), [stemma](dic://stemma), [stock](dic://stock)
+- [rake](dic://rake), [rakehell](dic://rakehell), [profligate](dic://profligate), [rip](dic://rip), [roue](dic://roue)
+- _n._ [liquid body substance](dic://liquid%20body%20substance), [bodily fluid](dic://bodily%20fluid), [body fluid](dic://body%20fluid), [humor](dic://humor), [humour](dic://humour), [genealogy](dic://genealogy), [family tree](dic://family%20tree)
+- *v*._ [daub](dic://daub), [smear](dic://smear)
+- **transfusion**输血;**urine**尿;**hemoglobin**血红素;**glucose**葡萄糖;**clotting**凝血;**veins**纹理;**clot**凝块;**saliva**唾液;**platelet**血小板;**cholesterol**胆固醇;**venous**静脉的;
+- _in blood_ [废语](动物)充满活力的，生气勃勃的
+- _blood circulation_ 血液循环，血循环
+- _blood flow_ 血流；血流量
+- _high blood_ 勇气；贵族血统
+- _blood sugar_ [生化]血糖
+- _blood vessel_ 血管
+- _blood fat_ 血脂 
+- bloodline
+	- _n._ [genealogy](dic://genealogy), [family tree](dic://family%20tree), [ancestry](dic://ancestry), [lineage](dic://lineage), [derivation](dic://derivation), [filiation](dic://filiation)
+	- **lineage**血统;**pedigree**家谱;**descendant**后代, 后裔;**ancestry**祖先;**sire**陛下;**clan**宗族;**offspring**子女, 子孙, 后代;**progeny**后裔;**hereditary**遗传的;**ancestral**祖先的,祖宗传下来的;**ancestor**始祖，祖先;
+	- But the long-term survival of this family's bloodline depends on Storm teaching his kids the family business /但要使这个家族的血脉得以长久延续下去，得靠“暴风”教导他的孩子看家本领。
+	- The younger Kim's meteoric rise likely fueled by her close brotherly bond and powerful Kim family bloodline. /年轻的金与正的迅速崛起可能是由于她与哥哥的紧密关系和强大的金家血统所导致的。
+	- Klaus is a vampire borne of a werewolf bloodline /克劳斯是含有狼人血统的吸血鬼。
 
 blot
 - (blemish, calumny, asperse, smear, chastise, castigate, defame, swear, blaspheme, malign, smirch, smudge, spot, blot, daub, slur. stain, slander, calumniate, sully, mar, derogate, belittle, denigrate, disparage, defile, taint, cloud, maculate, tarnish, befoul,)

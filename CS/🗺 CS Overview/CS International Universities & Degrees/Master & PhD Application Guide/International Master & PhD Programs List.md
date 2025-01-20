@@ -659,7 +659,7 @@ https://www.utwente.nl/en/education/student-services/upcoming-students/enrolment
 https://www.utwente.nl/en/education/master/programmes/computer-science/
 - [Cyber Security](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/cyber-security/) 
 - [Data Science & Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/data-science-technology/)
-- [Software Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/software-technology/)
+- [Software Txechnology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/software-technology/)
 - [Internet Science & Technology](https://www.utwente.nl/en/education/master/programmes/computer-science/specialisation/internet-science-technology/)
 #### 👉👉 TU/e (Eindhoven University of Technology) 👈👈
 🚪 https://www.studielink.nl/dashboard/home
@@ -792,10 +792,8 @@ The following documents must be uploaded before the application deadline:
 #### 👉 University of Copenhagen
 #### 👉 Technical University of Denmark (DTU)
 ##### Master of Science (MSc) in Computer Science and Engineering
-🚪 https://dans.stads.dk/selfservice-secured/faces/Application.jspx
-
 https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering
-- [Application links for non-EU/EEA applicants](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/non-eu-eea-applicant)
+- 🚪 [Application links for non-EU/EEA applicants](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/non-eu-eea-applicant)
 - [Application links for joint programmes](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/joint-programmes)
 - [Application links for Industry MSc programmes](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/industry-msc-programmes)
 

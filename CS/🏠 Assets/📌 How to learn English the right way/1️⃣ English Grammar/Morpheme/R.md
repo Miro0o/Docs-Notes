@@ -1779,38 +1779,167 @@
 		2. rotorcraft
 		3. gyrorotor
 	6. rotund
-		1. **chubby**圆胖的，丰满的;**plump**丰满的;**diminutive**小的;**bearded**有芒的;**slender**微薄的;**middle-aged**中年的;**overweight**超重的;**obese**肥胖的，过胖的;**fat**肥的，胖的;**jolly**愉快的;**muscular**肌肉发达的;
-		2. [rounded](dic://rounded), [full](dic://full), [fat](dic://fat)
-		3. [orotund](dic://orotund), [round](dic://round), [pear-shaped](dic://pear-shaped)
-		4. [corpulent](dic://corpulent), [obese](dic://obese), [weighty](dic://weighty)
-		5. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [tumid](dic://tumid), [turgid](dic://turgid)
-		6. rotundity
-			2. **countenance**面容，表情;**bosom**胸;**curvature**弯曲;**physique**体格，体形;**girth**周围长度;**plump**丰满的;**stature**身高，身材;
-		7. rotundifoline
-		8. rotunda
-			1. **atrium**心房;**auditorium**观众席, 听众席;**plaza**广场;**courtyard**庭院, 院子;**Capitol**美国国会大厦;**hall**门厅，走廊;**foyer**门厅，休息室;**dome**圆屋顶;**basilica**长方形会堂;**courthouse**法院大楼;**staircase**楼梯;
-		9. rotundate
-	7. roulette
-		1. **blackjack**以棒打,胁迫;**casino**娱乐场;**poker**纸牌戏;**bingo**宾戈游戏;**gambling**赌博;**casinos**乡间住宅;**gambler**赌徒;**gamblers**赌徒;**wagering**赌注;**betting**打赌;**gamble**赌博;
-		2. [curve](dic://curve), [curved shape](dic://curved shape), [wheel](dic://wheel), [game of chance](dic://game of chance), [gambling game](dic://gambling game)
-	8. rotograph
-	9. rotogravure
-	10. rotachute
-	11. rotalactor
-	12. rotaplane
-	13. rotatrol
-	14. rotavator
-	15. rotaversion
-	16. rotavirus
-	17. rotiform
-	18. rotocycle
-	19. rotometer
-	20. rotosifter
-	21. rototherm
-	22. Rotaliaca
-	23. Rotatruder
+		1. [美 /ro'tʌnd/](cmd://Speak/_us_/rotund)
+		2. a. 圆的, 圆胖的, 洪亮的, (表现)华丽的
+		3. rot-转(圆) + und → 圆的 , 胖的。
+		4. 来自拉丁语 rota,轮子，词源同 round,roll,rotate.-und,形容词后缀。引申词义圆的，圆胖的。
+		5. **chubby**圆胖的，丰满的;**plump**丰满的;**diminutive**小的;**bearded**有芒的;**slender**微薄的;**middle-aged**中年的;**overweight**超重的;**obese**肥胖的，过胖的;**fat**肥的，胖的;**jolly**愉快的;**muscular**肌肉发达的;
+		6. [rounded](dic://rounded), [full](dic://full), [fat](dic://fat)
+		7. [orotund](dic://orotund), [round](dic://round), [pear-shaped](dic://pear-shaped)
+		8. [corpulent](dic://corpulent), [obese](dic://obese), [weighty](dic://weighty)
+		9. [bombastic](dic://bombastic), [declamatory](dic://declamatory), [large](dic://large), [tumid](dic://tumid), [turgid](dic://turgid)
+		10. They're furry, rotund, and famous for their rumored weather forecasting skills. /它们毛茸茸圆乎乎的，因传言能预报天气而闻名。
+		11. If I was Brazilian, no problem, but the Irish in me makes me more probably rotund, let's say round, than anything else. /如果我有巴西血统，那肯定没问题，可是爱尔兰血统让我的身材是圆胖的。
+		12. Shortly afterwards came Liebard, the farmer of Toucques, short, rotund and ruddy, wearing a grey jacket and spurred boots. /不久之后，利巴尔来了， 他是图克 (Toucques) 的农民， 身材矮小、圆胖、面色红润， 身穿灰色夹克和带马刺的靴子。
+		13. And then I read the part and it was to play someone who was like rotund, cigar smoking Jack Black. /然后我读了这部分，它是要扮演一个像抽着雪茄的杰克布莱克一样胖乎乎的人。
+		14. rotundity
+			1. n. 圆形物；圆胖；声音的洪亮；文体的浮夸（等于 rotundness）
+			2. _n._ [roundness](dic://roundness), [tone](dic://tone), [tone of voice](dic://tone%20of%20voice)
+			3. **countenance**面容，表情;**bosom**胸;**curvature**弯曲;**physique**体格，体形;**girth**周围长度;**plump**丰满的;**stature**身高，身材;
+			4. Rotundity and squareness, Can middle keypunch and come picture make to measure. /圆形和方形，可中间打孔及来图定做。
+			5. There was, moreover, a boldness and rotundity of speech among these matrons, as most of them seemed to be, that would startle us at the present day, whether in respect to its purport or its volume of tone. /此外，这些女主妇说话大胆而圆润，正如她们中的大多数人所表现的那样，无论是在主旨上还是在音量上， 这在今天都会让我们吃惊。
+			6. She entered the box-tree seclusion with the lower rotundities of her face hastily modelled into the resemblance of an over-benevolent smile a contortion which neglected to spread its intended geniality upward to the exasperated eyes and anxious forehead. /她走进黄杨树隐居处，脸下部圆润，匆忙塑造出一种过分仁慈的微笑，一种扭曲的表情，忽略了将其本意的和蔼向上延伸到愤怒的眼睛和焦虑的额头。
+		15. rotundifoline
+		16. rotunda
+			1. _n._ [building](dic://building), [edifice](dic://edifice), [room](dic://room)
+			2. **atrium**心房;**auditorium**观众席, 听众席;**plaza**广场;**courtyard**庭院, 院子;**Capitol**美国国会大厦;**hall**门厅，走廊;**foyer**门厅，休息室;**dome**圆屋顶;**basilica**长方形会堂;**courthouse**法院大楼;**staircase**楼梯;
+			3. He scraped with his foot and flapped his arms like a rooster about to crow, and the bandsmen sitting in the green rotunda blew out their cheeks and glared at the music. /他像一只正要鸣叫的公鸡那样一只脚蹭着地，摆动着双臂。坐在绿色圆亭里的乐队成员们鼓起两腮，眼睛盯着乐谱。
+			4. The rotunda, the round part, we wouldn't really see in antiquity. /这个圆形大厅在古建筑中是不常见的。
+			5. She installed artificial rivers, a rotunda, and a series of what appeared to be rustic cottages /她建造了人工河流，一个圆形建筑，以及一系列看起来像是乡村小屋的建筑。
+			6. Up this...set of stairs, which is part of the original...part of the museum, into the grand rotunda. /上了这组楼梯——这是博物馆原来的一部分——进入大圆形大厅。
+			7. Heading toward the Sainsbury Gallery, which means going through the big rotunda. /前往塞恩斯伯里画廊，这意味着要穿过大圆形大厅。
+			8. 
+		17. rotundate
+	8. roulette
+		1. [curve](dic://curve), [curved shape](dic://curved shape), [wheel](dic://wheel), [game of chance](dic://game of chance), [gambling game](dic://gambling game)
+		2. [line roulette](dic://line roulette)
+		3. [toothed wheel](dic://toothed wheel)
+		4. **blackjack**以棒打,胁迫;**casino**娱乐场;**poker**纸牌戏;**bingo**宾戈游戏;**gambling**赌博;**casinos**乡间住宅;**gambler**赌徒;**gamblers**赌徒;**wagering**赌注;**betting**打赌;**gamble**赌博;
+		5. _roulette wheel_ 轮盘赌，轮盘法；轮子
+		6. I decided to try my luck at the roulette wheel. /我决定在轮盘赌上试试运气。
+		7. Wearing strapless is kind of like playing Russian roulette. /穿无肩带有点像玩俄罗斯轮盘赌。
+		8. You're playing roulette with their lives. /你是在拿他们的生命来赌。
+		9. I thought it was because l let you win at roulette /我还以为是我让你在轮盘赢钱。
+		10. Ultimately, taking expired medicine is like spinning a roulette wheel of potential dangers /最终，服用过期药物就像在玩一个有潜在危险的轮盘赌。
+		11. 
+	9. rotograph
+		1. _n._ 轮转印片机,速印照片
+	10. rotogravure
+	11. rotachute
+	12. rotalactor
+	13. rotaplane
+	14. rotatrol
+	15. rotavator
+		1. _n._ 〈英〉(碎土或耕地用的)旋耕机
+	16. rotaversion
+		1. _n._ 反顺转变(作用)
+	17. rotavirus
+	18. rotiform
+	19. rotocycle
+	20. rotometer
+		1. _n._ 旋转流量计
+	21. rotosifter
+	22. rototherm
+	23. Rotaliaca
+	24. Rotatruder
 3. round
-
+	1. [unit of ammunition](dic://unit of ammunition), [one shot](dic://one shot)
+	2. [cycle](dic://cycle), [rhythm](dic://rhythm)
+	3. [beat](dic://beat)
+	4. [round of golf](dic://round of golf)
+	5. [daily round](dic://daily round)
+	6. [turn](dic://turn), [bout](dic://bout)
+	7. [round of drinks](dic://round of drinks)
+	8. [troll](dic://troll)
+	9. [rung](dic://rung), [stave](dic://stave)
+	10. [circle](dic://circle)
+	11. [round out](dic://round out), [round off](dic://round off)
+	12. [surround](dic://surround), [environ](dic://environ), [encircle](dic://encircle), [circle](dic://circle), [ring](dic://ring)
+	13. [labialize](dic://labialize), [labialise](dic://labialise)
+	14. [attack](dic://attack), [assail](dic://assail), [lash out](dic://lash out), [snipe](dic://snipe), [assault](dic://assault)
+	15. [polish](dic://polish), [round off](dic://round off), [polish up](dic://polish up), [brush up](dic://brush up)
+	16. [round off](dic://round off), [round down](dic://round down), [round out](dic://round out)
+	17. [flesh out](dic://flesh out), [fill out](dic://fill out)
+	18. [circular](dic://circular)
+	19. [orotund](dic://orotund), [rotund](dic://rotund), [pear-shaped](dic://pear-shaped)
+	20.  [around](dic://around)
+	21. _n._ [ammunition](dic://ammunition), [ammo](dic://ammo), [time interval](dic://time%20interval), [interval](dic://interval), [path](dic://path), [route](dic://route), [itinerary](dic://itinerary)
+	22. _v._ [travel](dic://travel), [go](dic://go), [move](dic://move), [locomote](dic://locomote), [shape](dic://shape), [form](dic://form), [hold](dic://hold)
+	23. _adj._ [apple-shaped](dic://apple-shaped), [ball-shaped](dic://ball-shaped), [global](dic://global), [globose](dic://globose), [globular](dic://globular), [orbicular](dic://orbicular), [spheric](dic://spheric)
+	24. _n._ [square](dic://square), [thin](dic://thin), [exact](dic://exact)
+		1. [about](dic://about) 既可表静态，也可表动态。  
+		2. [around](dic://around) 主要用于美国，静态或动态均可。  
+		3. [round](dic://round) 主要用于英国，多半指动态。
+	25. **knockout**击倒的;**final**最终的;**robin**知更鸟;**quarterfinal**四分之一决赛的;**semi-final**半决赛;**oval**卵形的;**straight**直的;**circle**圆;**tournament**锦标赛;**semifinal**半决赛;**second**秒;
+	26. _in the round_ adv. 全面地;adj. 圆雕的;
+	27. _all round_ 周围，到处
+	28. _round about_ adv. 周围；向相反方向；大约；迂回地
+		1. - 环岛：交通节点的一种特殊形式，由环形车道和一个中心岛组成，任何一个方向而来的交通流量进入环岛后，需以环岛的中心圈以单一方向旋转行驶，直至转向所需的行驶方向而离开。
+		2. [traffic circle](dic://traffic circle), [circle](dic://circle), [rotary](dic://rotary), [roundabout](dic://roundabout)
+		3. [carousel](dic://carousel), [carrousel](dic://carrousel), [merry-go-round](dic://merry-go-round), [roundabout](dic://roundabout), [whirligig](dic://whirligig)
+		4. [circuitous](dic://circuitous), [roundabout](dic://roundabout)
+		5. [devious](dic://devious), [circuitous](dic://circuitous), [roundabout](dic://roundabout)
+		6. _[round about](dic://round%20about)_  adv. 周围；向相反方向；大约；迂回地
+		7. Round about him, not a leaf stirred. /四周连一点叶子沙沙声也听不见。
+		8. It is painful to read these round about accounts today. /现在要理解这些拐弯抹角的陈述是痛苦的。
+		9. Round about, piles of limestone glistened in all the colours of rainbow. /与洞顶悬挂下来的钟乳石相接。周围是一堆堆石灰石，像彩虹一样闪闪发光。
+		10. The country round about is rich in gold and silver, and more than fifty thousand inhabitants are already settled there. /那里有丰富的金矿和银矿，在当地定居的居民已有五万余人。
+		11. 
+	30. _round in_ 牵索；拉绳
+	31. _round and round_ adv. 处处；旋转不息地
+	32. _go round_ 到处走动；绕道
+	33. _get round_ v. 说服；（消息）传开来；走动；旅行；避免
+	34. _in a round_ 围成一圈
+	35. _round up_ 围捕；赶拢；使……集拢；去以成整数
+		1. - 聚集；收集；将数字或数量向上取整
+		2. 将某人或某物逮捕或拘留
+		3. 将某物或某人聚集在一起或收集起来，尤其是为了某种特定目的
+		4. 将数字或数量向上取整
+		5. They were rounding up the Death Eaters, you know. /你知道，他们当时在围捕食死徒。
+		6. Many were rounded up on polling day /许多支持者在投票日被围捕。
+		7. " Harry, round up the others and go! " /“哈利，集合其他的人，快走！”
+		8. Jonathan, who exactly is being rounded up here? /乔纳森，具体来说，哪些人会被搜捕？
+		9. Would you like to round up to your local food bank today Mam? /" 女士，您愿意为食品慈善机构捐献一些吗？"
+		10. Round up all suspicious characters and search them for stolen document /拘留所有嫌疑人物，并搜查被偷走的文件。
+		11. So, each morning, it takes time to round them up again. /清晨，又要颇费周折地将它们聚集起来。
+		12. It highlights how boats are being told back, migrants rounded up. /报道指出了难民的船只是如何被遣返以及移民是如何被围捕的。
+		13. 
+	37. _round on_ vt. 告密）；突然生气地责骂（反驳
+	38. _round out_ 完成
+	39. _a round of applause_ 掌声雷动
+	40. _round off_ 完成；使完美；把…修圆磨光；圆满结束
+		1. 完成；使完美；把…修圆磨光；圆满结束
+		2.  修整成圆形或圆角：将物体修整成圆形或圆角的形状。
+		3. 使对称或完整：使物体达到对称或完整的状态。
+		4. 四舍五入：将小数四舍五入到最接近的千分位。
+		5. [round](dic://round), [round out](dic://round out)
+		6. [polish](dic://polish), [round](dic://round), [polish up](dic://polish up), [brush up](dic://brush up)
+		7. [round down](dic://round down), [round out](dic://round out), [round](dic://round)
+		8. _v._ [shape](dic://shape), [form](dic://form), [perfect](dic://perfect), [hone](dic://hone), [change](dic://change), [alter](dic://alter), [modify](dic://modify)
+		9. _[round off](dic://round%20off)_  完成；使完美；把…修圆磨光；圆满结束
+		10. _[rounding off](dic://rounding%20off)_  四舍五入；圆滑过渡
+		11. _[round off number](dic://round%20off%20number)_  取整数; 舍入数; 
+		12. _[rounding off error](dic://rounding%20off%20error)_  舍入误差
+		13. I rounded off the corners with sandpaper. /我用砂纸把棱角打磨光滑。
+		14. Take a piece of sandpaper and round off the edges of the frame. /拿张砂纸把框架的边磨圆。
+		15. Germany and France rounded off the top five list. /其次是德国和法国。
+		16. It's a nice little touch, to round off a dessert. /这是种很好的点缀，使甜点更加完美。
+		17. Mercedes duo Lewis Hamilton and George Russell rounded off the podium /梅赛德斯的二人刘易斯·汉密尔顿和乔治·拉塞尔也走上了领奖台。
+		18. They will all be served lunch rounded off with strawberries and cream. /他们都将享用到配有草莓和奶油的午餐。
+		19. But as even numbers were considered unlucky, Numa rounded off days to 355. /但由于偶数被认为是不吉利的，努玛将天数四舍五入到355天。
+		20. Fred and George rounded off the evening with a display of Filibuster fireworks. /弗雷德和乔治的费力拔烟火表演使这个夜晚更加完美。
+		21. Well, anyway, let's round off today with a review of today's vocabulary. /好吧，不管怎样，让我们复习今天的词汇来结束今天的学习。
+		22. 
+	42. _walk one's round_ 巡回，巡视(如夜间医生查病房等)
+	43. _go round and round_ 旋转
+	44. _make a round_ 兜个圈子；闲逛；漫步；(乘车船)游逛
+	45. _out of round_ 不圆
+	46. _a round of visits_ (医生)巡回出诊；一系列的访问(常与动词make连用)
+	47. _round into_ v. 成长为
+		1. Mary had run round into the wood with Dickon to see Jump. /玛丽和迪肯跑到树林里去看跳。
+		2. He got he rounded into shape or thinned into shape. /他让他变圆或变薄。
+		3. When they had come round into open sea on the east of the island, the Dwarf took to fishing. /他们来到岛东边开阔的海面上，小矮人开始钓鱼。
+		4. Put a few rounds into Jason's backbone and shatter his backbone to watch him crumple over like a sad pancake./对 Jason 的脊椎开几枪， 打碎他的脊椎骨，看着他像一块悲伤的煎饼一样倒下。
 
 
 ### + \*reub-, \*reup- +
@@ -1926,8 +2055,12 @@
 		24. 来自古英语 reafian,抢劫，来自 Proto-Germanic*raubjon,抢走，来自 PIE*reup,抢走，抓走，词源同 rob,rip.常见于复合词 bereave,剥夺，丧失亲人。
 		25. [plunder](dic://plunder), [despoil](dic://despoil), [loot](dic://loot), [strip](dic://strip), [rifle](dic://rifle), [ransack](dic://ransack), [pillage](dic://pillage), [foray](dic://foray)
 		26. **slay**杀害;
-		27. reaved
-		28. bereave
+		27. A **reave** seems to have encircled the summit of this peninsulated hill /一条小河似乎环绕着这座半岛小山的山顶。
+		28. For the moment no matter the business that it can **reave** how many KTV truly, sheet sees it swim to be not a net the consequence that players produce and appeal, already had great value /姑且不论它能真正抢走多少KTV的生意，单看它对非网游玩家们产生的影响力和吸引力，就已具备极大价值。
+		29. **Reave** eyes and arms are well positioned to defend. /界行者的眼睛和手臂的位置非常适合防御。
+		30. reave the neighbors of their cattle /偷窃邻居的牲畜
+		31. reaved
+		32. bereave
 			1. vt. 使孤寂, 使丧失, 使失去
 			2. be-强调 + reave【剥夺】，词源同rip, rob。
 			3. _v._ [deprive](dic://deprive), [strip](dic://strip), [divest](dic://divest)
@@ -1977,18 +2110,20 @@
 		2. routing
 			1. etc..
 		3. routine
-			1. [modus operandi](dic://modus operandi)
-			2. [act](dic://act), [number](dic://number), [turn](dic://turn), [bit](dic://bit)
-			3. [subroutine](dic://subroutine), [subprogram](dic://subprogram), [procedure](dic://procedure), [function](dic://function)
-			4.  [everyday](dic://everyday), [mundane](dic://mundane), [quotidian](dic://quotidian), [unremarkable](dic://unremarkable), [workaday](dic://workaday)
-			5. _n._ [procedure](dic://procedure), [process](dic://process), [performance](dic://performance), [public presentation](dic://public presentation), [software](dic://software), [software program](dic://software program), [computer software](dic://computer software)
-			6. _adj._ [regular](dic://regular), [ordinary](dic://ordinary)
-			7. _n._ [irregular](dic://irregular), [extraordinary](dic://extraordinary)
-			8. **regimen**养生法，养生之道;**daily**每日的;**everyday**每天的，日常的;**exercise**练习;**regular**整齐的;**day-to-day**日常的,逐日的;**monotonous**无变化的, 单调乏味的;**usual**通常的，惯例的;**workout**试验;**mundane**世俗的，平凡的;**procedure**程序;
-		4. router
-		5. routeman
-		6. reroute
-		7. misroute
+			1. route【路线】 + -ine形容词后缀。引申词义常规的，日常的。
+			2. [modus operandi](dic://modus operandi)
+			3. [act](dic://act), [number](dic://number), [turn](dic://turn), [bit](dic://bit)
+			4. [subroutine](dic://subroutine), [subprogram](dic://subprogram), [procedure](dic://procedure), [function](dic://function)
+			5.  [everyday](dic://everyday), [mundane](dic://mundane), [quotidian](dic://quotidian), [unremarkable](dic://unremarkable), [workaday](dic://workaday)
+			6. _n._ [procedure](dic://procedure), [process](dic://process), [performance](dic://performance), [public presentation](dic://public presentation), [software](dic://software), [software program](dic://software program), [computer software](dic://computer software)
+			7. _adj._ [regular](dic://regular), [ordinary](dic://ordinary)
+			8. _n._ [irregular](dic://irregular), [extraordinary](dic://extraordinary)
+			9. **regimen**养生法，养生之道;**daily**每日的;**everyday**每天的，日常的;**exercise**练习;**regular**整齐的;**day-to-day**日常的,逐日的;**monotonous**无变化的, 单调乏味的;**usual**通常的，惯例的;**workout**试验;**mundane**世俗的，平凡的;**procedure**程序;
+		5. router
+		6. routeman
+		7. reroute
+			1. vt. 变更旅程
+		8. misroute
 2. loot
 	1. n. 赃物, 洗劫, 抢夺  
 	2. v. 洗劫, 抢夺
@@ -2070,11 +2205,25 @@
 	18. The rout in British gilts was the most dramatic element of a wider sell-off in government bonds. ./英国金边债券暴跌是政府债券大范围抛售最显著的因素。
 	19. One after another the Italian bases in the desert fell as the retreat turned into a **rout**. /当撤退转变为溃败时，意大利在那个沙漠中的基地接连失守。
 	20. Even Biden's Senior aides were surprised by the rout. /就连拜登的高级助手对这次胜出都颇为意外。
+	21. Our team routed the competition. /我们队赢得了这场比赛。
+	22. a rout of strangers ought not to be admitted. /不应该准许一帮骚乱闹事的陌生人进去。
+	23. Rout him out of the bath! /把他从浴室叫出来！
+	24. Our army routed the enemy into running for their lives. /我们的队伍把敌人打得仓皇逃命。
+	25. Simon routed him from the stable. /西蒙把他撵出了马厩。
+	26. Agesilaus, considering that the horse had outridden the foot, but that he himself had the whole body of his own army entire, made haste to engage the Persians, and put them to rout. /蒂施亚弗内斯发觉后，连忙率骑兵兼程追赶，赶上在乡间抢掠的散兵，一例诛杀。
+	27. It was there that they found Adoni-Bezek and fought against him, putting to rout the Canaanites and Perizzites. /又在那里遇见亚多尼比色，与他争战，杀败迦南人和比利洗人。
+	28. My hirelings betray me, my friends are scourged and shamed, and I lie here rotting, Tyrion thought. I thought I won the bloody battle. Is this what triumph tastes like? " Is it true that Stannis was put to rout by Renly's ghost" ? /我的雇工背叛了我，我的朋友蒙受着灾难和耻辱，而我却一动不动地在这儿腐烂，提利昂心想，我以为自己赢得了这场该死的战争，胜利的滋味就是这样的吗？" 听说蓝礼的鬼魂显灵，打败了史坦尼斯，有这么回事？"
 7. rub away
 8. ruble
-	1. n. 卢布(俄国货币)
-	2. 俄罗斯货币单位，来自法语 rouble,卢布，来自俄罗斯语 rubl',最终来自 PIEreub,砍，切，劈，词源同 rift,rip,rob.即切下来的金属。词义演变比较 pound.
-	3. 
+	1. [美 /'rʊbəl/](cmd://Speak/_us_/ruble)
+	2. n. 卢布(俄国货币)
+	3. 俄罗斯货币单位，来自法语 rouble,卢布，来自俄罗斯语 rubl',最终来自 PIEreub,砍，切，劈，词源同 rift,rip,rob.即切下来的金属。词义演变比较 pound.
+	4. [rouble](dic://rouble)
+	5. _n._ [Tajikistani monetary unit](dic://Tajikistani%20monetary%20unit), [Russian monetary unit](dic://Russian%20monetary%20unit)
+	6. **rupee**卢比;**Russian**俄国的;**currency**货币;**euro**欧元;**Russia**俄罗斯;**Belarusian**白俄罗斯;**Putin**普京;**dollar**美元;**Ukraine**乌克兰;**yen**日元;**Ukrainian**乌克兰的;
+	7. Those U.S. sanctions sent the Russian ruble plummeting to a two-year low today. /美国制裁致使卢布跌至两年低点。
+	8. The central bank is able to intervene and support the ruble and banks. /央行能够干预并支持卢布和银行。
+	9. 
 
 
 ### + \*reudh- +
