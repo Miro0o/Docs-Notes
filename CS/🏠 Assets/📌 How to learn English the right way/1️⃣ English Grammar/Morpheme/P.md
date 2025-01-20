@@ -1630,7 +1630,7 @@
 	3. pejoration
 		1. _[pejoration](dic://pejoration)_  n. 恶化；堕落；语义的转贬
 	4. impair
-		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
 		2. **impede**阻止;**hinder**成为阻碍;**inhibit**抑制;**interfere**干预;**endanger**危及;**affect**影响;**diminish**使减少;**disrupt**使分裂;**adversely**逆地,反对地;**obstruct**阻塞;**jeopardize**危及, 损害;
 		3. [mar](dic://mar), [spoil](dic://spoil), [deflower](dic://deflower), [vitiate](dic://vitiate)
 		4. [damage](dic://damage)
@@ -1737,7 +1737,7 @@
 			6. To rely on such a measure is **inexpedient**. /依赖这种措施是不得计的。
 			7.  It would be **inexpedient** to raise taxes further/进一步加税就是不合理。
 	14. impede
-		1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+		1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
 		2. impede - 该词源自拉丁语impedīre，原义为shackle the feet（戴上脚镣），系由前缀im- 'not'加ped-, pēs 'foot'（脚）构成。设想一个人若被戴上脚镣，他的行动必然不便。英语impede初作impedite，所取的正是impedīre的引申义“妨碍”或“阻碍”。名词impediment（障碍）则是从impede派生而来。但假若一个经常戴着脚镣的罪犯或奴隶能将脚镣解开，他突然会觉得身轻如燕，行动起来也会比常人快得多。拉丁语impedīre的反义词，原义为“解除脚镣”的expedīre一词也被英语所吸收，词形作expedite，它所取的也是引申义，即“加速”或“促进”。词源可追溯到拉丁语pēs 'foot'（脚）的英语单词除了impede和expedite，还有pedal（踏板），pedestal（柱子或雕像的基座），pedestrian（行人），centipede（百足虫，蜈蚣），pedigree（家谱）等词。
 		3. vt. 妨碍, 阻碍, 阻止
 		4. im-进入 + ped-脚 + -e → 把脚放进去 → 妨碍。
@@ -5188,7 +5188,7 @@
 			7. he is in double jeopardy , unable to speak either language adequately. /他面临着双重风险，即两种语言都说不好。
 			8. Why put your town's safety in jeopardy? /你怎么能把家乡的安全置之不顾？
 		6. jeopardize： ['dʒɛpɚdaɪz] vt. 危害；使陷危地；使受危困
-			1.  (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, )
+			1. (hamstring, trammel, fetter, shackle, bond, hamper, confine, throttle, enchain, impede, hobble, hinder, preclude, thwart, inhibit, obstruct, stymie, check, stem, proscribe, regulate, curtail, forbid, forbade, restrict, rein, restrain, harness, embarrass, block, blockade, handicap, keep, foreclose, bar, stifle, deter, derail, frustrate, undermine, undercut, constrict, encumber, constrain, halt, arrest, foil, jeopardize, impinge, infringe, encroach, entrench, trench, mar, spoil, deflower, impair, ban; outlaw; suppress; prohibit, clampdown, manacle, balk)
 			2. _v._ [exist](dic://exist), [be](dic://be), [risk](dic://risk), [put on the line](dic://put on the line), [lay on the line](dic://lay on the line)
 			3. **endanger**危及;**undermine**在某物下挖洞或挖通道;**threaten**威胁;**impede**阻止;**hinder**成为阻碍;**interfere**干预;**impair**削弱;**disrupt**使分裂;**ruin**毁坏;**undermining**底切;**detrimental**有害的;
 
@@ -8227,7 +8227,7 @@
 
 ## po
 ### pock- = sack，表示“袋”。
-1. poach (broach, encroach, poach, )
+1. poach (broach, encroach, poach, pouch, coach, crouch, couch, crotch, )
 	1. vt. 水煮(蛋), 偷猎, 侵入, 窃取  
 	2. vi. 偷猎, 陷入泥中
 	3. 1 - 来自古法语 pochier,放入口袋，包起来，来自 poche,包，包裹，来自 Proto-Germanic*puk,袋子，来自 PIE*bu,beu,鼓起，膨胀，词源同 ball,pock,pouch.后用于比喻义像蛋白包裹着蛋黄，引申词义炖，煨，煮。  
@@ -8242,11 +8242,11 @@
 	12. He has been poaching on her land for years, poaching mainly fish and rabbits. /数年来他一直在她的土地上偷猎, 主要捕鱼和偷猎兔子。
 	13. The swamp country is inclined to poach in winter. /这片沼泽地带在冬季一踏就陷下去了。
 	14. Also important are the protection of water supplies, the control of poaching, and improved monitoring of equid populations. /另外，保护水源、阻止盗猎，以及提升监测野生马族群的技术，也都是亟待进行的工作。
-3. pock
+3. pock (freckle) (poke)
 	1. 来自古英语 pocc,脓肿，水泡，来自 Proto-Germanic*puk,袋子，来自 PIE*beu,鼓起，膨胀，词源同 poach,pouch.引申词义痘痕，麻子，小洞，小坑等。
-	2.  n. 痘痕；麻子
+	2. n. 痘痕；麻子
 	3. vt. 使有麻点
-	4.  [scar](dic://scar), [mark](dic://mark), [pit](dic://pit)
+	4. [scar](dic://scar), [mark](dic://mark), [pit](dic://pit)
 	5. _n._ [pustule](dic://pustule)
 	6. _v._ [deface](dic://deface), [disfigure](dic://disfigure), [blemish](dic://blemish)
 	7. **scars**疤痕;**dents**花边边饰;**marked**有记号的;**creases**摺痕;**pimples**丘疹，面疱;
@@ -8255,6 +8255,15 @@
 	10. The district is **pock**-marked with caves. /这个地区布满了坑洞。
 	11. Many officers said their biggest challenge was staying upright on the city's bumpy and sometimes **pock**-marked roads /很多警察称，穿着冰鞋在该市崎岖不平、有时还坑坑洼洼的路面上站稳是他们面临的最大挑战。
 4. pockmark
+	1. _n._ [scar](dic://scar), [cicatrix](dic://cicatrix), [cicatrice](dic://cicatrice)
+	2. _v._ [scar](dic://scar), [mark](dic://mark), [pock](dic://pock), [pit](dic://pit)
+	3. **craters**火山口;**scars**疤痕;**scarred**伤痕累累，有疤痕的;**scar**给留下伤痕;**crater**坑;**jagged**锯齿状的;**unsightly**不悦目的;**sunken**沉没的;**potholes**凹坑;**blackened**涂上辣椒粉和调味品后油炸的;**pore**毛孔;
+	4. the area is pockmarked by gravel pits. /该地区到处是沙砾坑。
+	5. This object seems to be pockmarked by a few dark spots. /这个物体上似乎有几个黑点。
+	6. This historic facade is now pockmarked. The masonry is falling away. /这个历史性的建筑现在已是坑坑洼洼，砖石结构也即将瓦解。
+	7. You can see the pockmarks of heavy weaponry around those windows. /你可以看到重型武器对这些窗户造成的破坏。
+	8. From a helicopter, he viewed neighborhoods in the town of Mayfield pockmarked by piles of debris and homes without roofs. /坐在直升飞机上，他看到了梅菲尔德镇的一些社区，那里到处是成堆的瓦砾和没有屋顶的房屋。
+	9. She talks about pale cement paths that slice green lawns into polygonal fragments and walls of brown brick pockmarked by centuries of history. /她谈到了将绿色草坪切成多边形碎片的浅色水泥小路，以及布满数百年历史痕迹的棕色砖墙。
 5. pocket
 6. pouch
 	1. 来自古法语 poche,钱包，口袋，词源同 pocket,poach.
@@ -8295,28 +8304,29 @@
 	2. 来自 pome,苹果，-ace,名词后缀，表相关性。
 	3. pomaceous
 3. pomade
-	1.  来自 pome,苹果，-ade,汁，酱，词源同 lemonade.因这种发油原材料含有苹果而得名。
-	2. n. 润发油，头油 
-	3. v. 涂以润发油，给……擦头油（或发油）
-	4. **lip pomade**:  润唇膏 
-	5. **hair pomade**:  润发脂；润发油 
-	6. **Eyelash pomade**:  睫毛膏
-	7.  [pomatum](dic://pomatum)
-	8. **shampoo**洗发;**hair**头发;**mousse**奶油冻;**shampoos**洗发剂;**eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**lotion**洗液;**deodorant**除臭剂;**lather**肥皂泡;**ponytail**马尾辫;**hairstyle**发型;
-	9. [hairdressing](dic://hairdressing), [hair tonic](dic://hair tonic), [hair oil](dic://hair oil), [hair grease](dic://hair grease)
-	10. All of it? Even my hair pomade? -Gives me stomachache. /所有这些？连我的润发油也是？-它让我胃痛。
-	11. And I can see him now. A funny little foreigner with a wide, toothy grin and hair reeking of pomade. /我能想到他的样子。矮个外国人，一笑露出后槽牙，头发散发着恶臭的发油味。
-	12. But she hadn't enough money to buy pomade for her ponytail. /但她没足够的钱为自己的马尾辫买润滑油。
-	13. The brow pomade is kind of shiny, which is really important because your eyebrow hairs are shiny and they catch light. /眉油有点闪亮，这非常重要，因为你的眉毛很闪亮，而且会发光。
-4. pomander
+	1. (ointment, unguent, unction, balm, salve, inunction, pomade, anointment)
+	2.  来自 pome,苹果，-ade,汁，酱，词源同 lemonade.因这种发油原材料含有苹果而得名。
+	3. n. 润发油，头油 
+	4. v. 涂以润发油，给……擦头油（或发油）
+	5. **lip pomade**:  润唇膏 
+	6. **hair pomade**:  润发脂；润发油 
+	7. **Eyelash pomade**:  睫毛膏
+	8.  [pomatum](dic://pomatum)
+	9. **shampoo**洗发;**hair**头发;**mousse**奶油冻;**shampoos**洗发剂;**eyeliner**眼线膏，眼线笔;**mascara**染眉毛油;**lotion**洗液;**deodorant**除臭剂;**lather**肥皂泡;**ponytail**马尾辫;**hairstyle**发型;
+	10. [hairdressing](dic://hairdressing), [hair tonic](dic://hair tonic), [hair oil](dic://hair oil), [hair grease](dic://hair grease)
+	11. All of it? Even my hair pomade? -Gives me stomachache. /所有这些？连我的润发油也是？-它让我胃痛。
+	12. And I can see him now. A funny little foreigner with a wide, toothy grin and hair reeking of pomade. /我能想到他的样子。矮个外国人，一笑露出后槽牙，头发散发着恶臭的发油味。
+	13. But she hadn't enough money to buy pomade for her ponytail. /但她没足够的钱为自己的马尾辫买润滑油。
+	14. The brow pomade is kind of shiny, which is really important because your eyebrow hairs are shiny and they catch light. /眉油有点闪亮，这非常重要，因为你的眉毛很闪亮，而且会发光。
+5. pomander
 	1. - n. 香盒；（防虫和防臭用）香丸
-5. pome
+6. pome
 	1. - n. [植] 梨果（由子房和花托发育而成的果实，如苹果、梨等）
 	2. [false fruit](dic://false fruit)
 	3. **fruit**水果;**pear**梨树;**peach**桃子;**rind**外皮;**peaches**桃子;**fruits**水果;
 	4. I made a 'pome' yesterday, when I was helping Hannah wash, and as Father likes my silly little things, I put it in to amuse him. /昨天帮汉娜洗衣服时，得“苹果”一只。既然父亲爱看我笨拙的小玩意儿，便随信附上，逗他一乐。
 	5. 
-6. pomegranate
+7. pomegranate
 	1. n. 石榴
 	2. 1.pomegranate（石榴）：有许多颗粒的水果  
 	3. 英语单词pomegranate（石榴）来自拉丁语pomum granatum，字面意思就是“有许多颗粒的水果”，由pome（水果）+ grenate（颗粒、纹理）构成。石榴得此名称是因为它切开后里面含有大量颗粒状的石榴籽。  
@@ -8332,15 +8342,15 @@
 		4. pomegranate：['pɑmɪɡrænɪt] n. 石榴
 	6. **cranberry**越橘;**apricot**杏树;**mango**芒果;**watermelon**西瓜;**fruit**水果;**berry**浆果;**peach**桃子;**grapefruit**葡萄柚;**lemon**柠檬色的;**almond**杏仁;**pear**梨树;
 	7. 
-7. pomiculture
-8. pomelo
+8. pomiculture
+9. pomelo
 	1.  [pomelo tree](dic://pomelo tree), [pummelo](dic://pummelo), [shaddock](dic://shaddock), [Citrus maxima](dic://Citrus maxima), [Citrus grandis](dic://Citrus grandis), [Citrus decumana](dic://Citrus decumana)
 	2. **papaya**木瓜;**mango**芒果;**grapefruit**葡萄柚;**mandarin**官话;**melon**瓜;**pineapple**菠萝;**citrus**柑橘属果树;**watermelon**西瓜;**cucumber**黄瓜;**lemon**柠檬色的;**peach**桃子;
 	3. [citrus](dic://citrus), [citrus tree](dic://citrus tree), [citrus fruit](dic://citrus fruit), [citrous fruit](dic://citrous fruit)
 	4. But the grapefruit, a hybrid of pomelo and sweet orange, can be traced back to Barbados, around the mid-1600s. /葡萄柚是柚子和甜橙的杂交品种，它的历史可以追溯到17世纪中期的巴巴多斯。
 	5. Shanghai First Foodhall, a landmark food store on the Nanjing Road Pedestrian Mall, has launched two new flavors – mango pomelo sago and coconut latte – for its mooncakes this year. /位于南京路步行街上的标志性食品店上海第一食品商店今年推出了两种新口味的月饼——杨枝甘露和生椰拿铁。
 	6. You see, most of the citrus fruits we enjoy today come from the citron, pomelo, and mandarin, which originated in the south and east Asia up to seven million years ago /你看，我们今天享用的大部分柑橘类水果来自于柚子、柚子和柑橘，它们起源于700万年前的南亚和东亚。
-9. pommel 
+10. pommel  (trammel, pommel, pummel)
 	1. n. （刀剑柄）圆头；马鞍的鞍桥 
 	2. vt. 用拳头连续打
 	3. **sword**刀，剑;**spear**矛，枪;**dressage**花式骑术训练;**dagger**匕首，短剑;**horse**马;**blade**刀片，刀锋;**saddle**鞍，鞍状物;**bronze**青铜;**swords**宝剑;**hammer**敲打;**gymnast**体操运动员;
@@ -8351,7 +8361,7 @@
 	8. So I had a new pommel made. It's called Longclaw. /所以重新打造了剑柄尾端 它叫长爪。
 	9. Who gave you that sword with the gold lion on the pommel? /是谁给了你那把柄头雕着金狮子的剑？
 	10. 
-10. pomology
+11. pomology
 
 
 ### + \*po(i)- + = to drink

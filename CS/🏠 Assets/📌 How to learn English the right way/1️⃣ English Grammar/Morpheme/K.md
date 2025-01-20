@@ -2410,14 +2410,15 @@
 		3.  ex-,向外，-cit,呼喊，移动，词源同 cite,cinema.后用于心理学，指唤醒，兴奋。
 		4. 
 	3. incite
-		1. vt. 刺激, 激励, 引诱
-		2. in-进入，使 + cit-召唤 + -ation，引申词义煽动，刺激。
-	4. recite
+		1. (prod, stick, stimulate, fan, pink, incite, spur, goad, urge, encourage, )
+		2. vt. 刺激, 激励, 引诱
+		3. in-进入，使 + cit-召唤 + -ation，引申词义煽动，刺激。
+	5. recite
 		1. re-向后，往回 + cite召唤，援引。引申词义想起，背诵，朗诵。
-	5. resusciate
+	6. resusciate
 		1. re-再 + sus-下 + cit-唤起 + -able, 表形容词
 		2. resuscitable
-	6. solicit
+	7. solicit
 		1.  (bid, beseech, entreat, press, conjure, adjure, obtest, solicit, supplicate,  implore, pray, importunate, invoke)
 		2. 来自拉丁语 sollicitare,打扰，麻烦，刺激，煽动，来自 sollus,整个的，全部的，词源同 solid,-cit,召唤，使兴奋，词源同 cite,excite.后引申词义请求，恳求，以及俚语词义招嫖，拉客等。
 		3. solicitor

@@ -645,6 +645,27 @@ barge
 - bargee
 - bargeboard
 
+barley (prod, brad, bur, barley)
+- n. 大麦
+- barn（谷仓）：存放大麦的仓房  
+- 英语单词barn来自古英语bereærn，由bere（barley，大麦）和aern（house，房子）组成，字面意思就是“barley house”（存放大麦的仓房）。barley（大麦）是古代英国最普遍的农作物，与小麦的营养成分近似，但纤维素含量略高。大麦麦秆柔软，多用作牲畜铺草，也大量用作粗饲料。后来，随着农作物品种的丰富，barn一词的含义也随之丰富，可以表示存储各种农作物的仓库，还可以表示畜棚、车库等。  
+- barn：[bɑrn] n.谷仓，畜棚，车库vt.把……存储入仓库  
+- barley：['bɑrli]n.大麦
+- bar-,来自 PIE*bhars,刺，硬毛，词源同 bristle,刚毛，硬毛。-ley,词源同 like,像。因麦穗如硬毛而命名。
+- _n._ [grain](dic://grain), [food grain](dic://food%20grain), [cereal](dic://cereal), [cereal grass](dic://cereal%20grass)
+- **wheat**小麦;**oat**燕麦;**rye**黑麦;**millet**粟;**corn**玉米;**maize**黄色的，玉米色的;**malt**麦芽;**buckwheat**荞麦;**rice**稻;**grains**双齿鱼叉，多齿鱼叉;**grain**粮食;
+- _highland barley_ 青稞
+- _barley malt_ 大麦芽
+- _barley wine_ 大麦酒；高酒精啤酒
+- _pearl barley_ 珍珠麦，大麦粉粒
+- They looked out across the fields of waving barley. /他们朝田里望去, 只见大麦随风摇摆。
+- The best-known grains are wheat, barley, oats, rye and maize. /最为人们所熟知的粮食是小麦、大麦、燕麦、黑麦和玉米。
+- The findings suggested that the hordein patterns in beer barley were greatly various. /聚类分析结果与醇溶蛋白多态性分析结果相一致。
+- This triple-distilled Bushmill's Irish whiskey is a blend of malted barleys aged up to nine years in Oloroso sherry oak casks. /这款三次蒸馏的爱尔兰威士忌用些厘酒木桶9年陈酿的大麦芽威士忌勾兑而成。
+- He sharpened the scythes on the grindstone, slaughtered a pig, caught and salted fish, ground barley in a water-driven gristmill and grew and stored potatoes. /他用砂轮磨镰刀，宰猪，抓鱼腌鱼，在水磨坊碾大麦，种土豆收土豆。
+- barleycorn
+- barley-mow
+
 barm (yeast)
 - bhreue-, 
 - barmy
@@ -721,8 +742,8 @@ baste ( alabaster, baster)
 - Chuck it some garlic as well and start basting your steak. /再放些大蒜，开始给牛排涂油。
 - Pop the ribs back in the oven for another ten minutes, basting halfway through /把排骨放回烤箱，再烤10分钟，中途喷点水。
 - lambaste
-	-  (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant)
-	-  [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
+	- (admonish, castigate, chastise, chasten, scathe, rebuke, reproof, reproach, reprove, reprieve, reprehension, reprimand, animadversion, objurgate, denounce, trounce, rag, censure, diatribe, deprecate, fustigate, impugn, oppugn, repugn, inveigh, invective, fulminate, lambaste, chide, scold, berate, jaw, condemnation, ridicule, snub, rant, polemic, vituperate, excoriate, indict, crab, belabor)
+	- [cane](dic://cane), [flog](dic://flog), [lambast](dic://lambast)
 	- [call on the carpet](dic://call on the carpet), [take to task](dic://take to task), [rebuke](dic://rebuke), [rag](dic://rag), [trounce](dic://trounce), [reproof](dic://reproof), [lecture](dic://lecture), [reprimand](dic://reprimand), [jaw](dic://jaw), [dress down](dic://dress down), [call down](dic://call down), [scold](dic://scold), [chide](dic://chide), [berate](dic://berate), [bawl out](dic://bawl out), [remonstrate](dic://remonstrate), [chew out](dic://chew out), [chew up](dic://chew up), [have words](dic://have words), [lambast](dic://lambast)
 	- _v._ [beat](dic://beat), [beat up](dic://beat up), [work over](dic://work over), [knock](dic://knock), [criticize](dic://criticize), [criticise](dic://criticise), [pick apart](dic://pick apart)
 	- **criticize**评论, 批评;**denounce**谴责;**criticise**批评;**accuse**控告，指控;**condemn**判刑，定罪;**bashing**用废矸石充填采空区;**accusing**指责的;**mocking**嘲弄的;**loathe**讨厌，厌恶;**despise**轻视，鄙视;**ridicule**嘲笑;
@@ -1139,6 +1160,7 @@ bog
 - According to Dr Steffen, two things bog down the boarding process. /史蒂芬博士提出有两大因素容易阻碍登机过程。
 
 bogus (bonus)
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - bogus（伪造的）：擅长开空头支票的意大利骗子鲍格才  
 - 英语单词bogus表示“伪造的东西”，在19世纪开始出现在美国新闻报纸上。没有人知道这个词的确切来源。美国马萨诸塞州波士顿的一份新闻报刊认为，该词是从意大利臭名昭著的骗子鲍格才（Borghese）的名字演变而来的。他行骗有术，手段高明，擅长开空头支票，到银行或商店里去兑换现金，然后赶紧离开。Borghese由于开了一大把不值分文的支票、汇票和其他票据而在整个南部和西部出了名。从他的大名Borghese也就逐渐成了“冒牌的”或“伪造的”的同义词，后来拼写形式缩写为bogus。  
 - bogus：['bəʊgəs] adj.伪造的，假的n.伪钞，假币
@@ -2015,6 +2037,7 @@ bungle (budge, bulge, bugle, bungle)
 - + \bheg- +
 
 bunk
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - 1. n. 铺位；座床；床铺 vi. 睡在铺上；逃跑 vt. 为…提供铺位
 - **bed**床;**futon**蒲团;**beds**床;**crib**婴儿床;**mattress**床垫;**cot**简易床;**headboard**床头板;**sleeping**睡着的;**bedroom**卧室;**dorm**宿舍;**cabin**小屋;
 - [scat](dic://scat), [run](dic://run), [scarper](dic://scarper), [turn tail](dic://turn tail), [lam](dic://lam), [run away](dic://run away), [hightail it](dic://hightail it), [head for the hills](dic://head for the hills), [take to the woods](dic://take to the woods), [escape](dic://escape), [fly the coop](dic://fly the coop), [break away](dic://break away)
@@ -2038,6 +2061,7 @@ bunk
 	- Papers were published in support of the claim but many more were published debunking the idea. /发表的论文支持这个论点，但是更多的则持反对意见。
 
 bunkum
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - - n. 废话，瞎话，假话；（政客）夸夸其谈的演说
 - **nonsense**谬论;**drivel**淌口水,说傻话;**bullshit**胡说;**bogus**伪造的;**rubbish**垃圾，废物;**preposterous**反常的,荒谬的;**homeopathy**顺势医疗论;**falsehood**谎言;**myth**神话;**ludicrous**荒唐可笑的,滑稽可笑的;**unsubstantiated**无事实根据的;
 - [drivel](dic://drivel), [garbage](dic://garbage)
@@ -2279,16 +2303,30 @@ call
 - birdcall
 
 camouflage
+- vt. 伪装, 掩饰  
+- n. 伪装, 伪装物, 幌子
+- 词源不详。可能来自短语 capo muffare,盖住头。
 - **camo**迷彩;**disguise**假装;**concealment**隐藏;**conceal**隐藏;**hide**隐藏;**stealth**秘密行动;**coloration**染色;**khaki**卡其色;**hiding**隐匿;**cloak**斗蓬;**stripes**条子布;
 - [semblance](dic://semblance), [gloss](dic://gloss), [color](dic://color), [colour](dic://colour), [fabric](dic://fabric), [cloth](dic://cloth), [material](dic://material)
 
 can
+- vt. 装罐  
+- n. 罐头, 容器  
+- aux. 能, 可以
 - 来自 PIE*gno,知道，词源同 know.  
 - 词源同 cane,芦苇。引申词义容器，罐子。
 - oilcan
-- canny (cunning) (prudent, shrewd, canny, savvy, calculative, nifty, )
-	- - 来自 can,知道，词源同 cunning,uncanny.
+- canny (cunning) 
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
+	- 来自 can,知道，词源同 cunning,uncanny.
 	- a. 精明的, 谨慎的, 节约的  
+	- [cagey](dic://cagey), [cagy](dic://cagy), [clever](dic://clever)
+	- _adj._ [smart](dic://smart)
+	- _n._ [stupid](dic://stupid)
+	- **shrewd**精明的;**astute**机敏的;**cunning**狡猾的;**clever**聪明的;**savvy**悟性;**deft**灵巧的;**sly**狡猾的;**skillful**熟练的;**enterprising**有事业心的;**resourceful**资源丰富的;**keen**敏锐的，敏捷的;
+	- A canny bureaucratic infighter, Moorer made no pretense of academic subtlety. /穆勒是个机警的官场角逐者，但他并不装作高深莫测。
+	- Johnson was plainly a canny individual. /约翰逊显然是个狡猾的人物。
+	- Here, though, Earth Networks has been canny. /在这方面，地球网络倒是很谨慎。
 	- uncanny
 	- canniness
 	- cannily
@@ -2771,8 +2809,8 @@ cloy
 - glei-
 
 clunk
--  [thump](dic://thump), [thumping](dic://thumping), [clump](dic://clump), [thud](dic://thud)
--  [clop](dic://clop), [clump](dic://clump), [plunk](dic://plunk)
+- [thump](dic://thump), [thumping](dic://thumping), [clump](dic://clump), [thud](dic://thud)
+- [clop](dic://clop), [clump](dic://clump), [plunk](dic://plunk)
 - _n._ [sound](dic://sound)
 - v._ [sound](dic://sound), [go](dic://go)
 - **thump**重击;**squeak**告密;**rattle**使发出咯咯声;**wobble**摇晃;**noises**噪音，响声，噪音;**rattling**很好的;**jarring**刺耳的;**groan**呻吟;**rumbling**隆隆声;**screeching**发动机啸声;**hum**发低哼声;
@@ -2808,20 +2846,42 @@ coax
 - Mrs May inherited a divided country which urgently needed to be coaxed back together. /梅接手的是一个分裂的国家，迫切需要重新团结起来。
 - For weeks, her German and European allies have been coaxing her to declare her candidacy. /数周以来，她的德国盟友和欧洲盟友一直在劝说她宣布参选。
 - We need to coax it out. /我们需要把它给哄出来。
-- 
 
-confetti
-- small pieces or streamers of colored paper that are thrown around on festive occasions (as at a wedding)
-- **glitter**闪烁;**balloons**轻气球;**sequins**亮片;**glittery**闪烁的，闪光的;**sparkly**闪耀的;**fireworks**烟火;**tulle**薄纱;**swirls**旋涡;**champagne**香槟酒;**grenades**手榴弹;**bouquets**宴会;
-- _[throw confetti](dic://throw%20confetti)_ 扔五彩纸屑; 抛洒彩纸; 乱扔纸屑; 
-- _[confetti soap](dic://confetti%20soap)_ 香皂片
-- _[Confetti Tiara](dic://Confetti%20Tiara)_ 施华洛世奇发饰
+cob
+- 来自 PIE*geu,块，圆块，词源同 cod,cog,cudgel.含有多种词义，用于指各种圆块状物体。
+- n. 圆块  
+- vt. 捣碎
+- n. 雄天鹅；玉米穗轴；结实的矮脚马；[英]圆块
+- vt. 捣碎
+-  [hazelnut](dic://hazelnut), [filbert](dic://filbert), [cobnut](dic://cobnut)
+-  [black-backed gull](dic://black-backed gull), [great black-backed gull](dic://great black-backed gull), [Larus marinus](dic://Larus marinus)
+- _n._ [edible nut](dic://edible%20nut), [harness horse](dic://harness%20horse), [gull](dic://gull), [seagull](dic://seagull), [sea gull](dic://sea%20gull), [swan](dic://swan)
+- **corn**玉米;**kernels**核心程序，核心;**hay**干草;**barn**谷仓;**stove**火炉;
+- _corn cob_ 玉米穗轴；玉米棒
+- _corn on the cob_ 煮玉米棒子，老玉米
+- See if they corn on the cob.Guys! /看看有没有玉米棒。死阿宅们！
+- Huh. Strawberries and flowers on a cob, huh? /花和草莓都长在玉米穗上啊？
+- " He will give it to his father, the old cob." /“他将把它们交给他的父亲，那只老雄天鹅。”
+- The cob had never gone looking for a trumpet before. /雄天鹅以前从没去找过小号。
+- I like a crusty roll but I don't know if this is like a bap, or like a cob. /我喜欢硬皮面包，但我不知道这是像软面包还是像圆面包。
+- corncob
+- cobnut
+- cobbing
+- cobbed
 
 cobalt
+- [美 /'kobɔlt/](cmd://Speak/_us_/cobalt)
 - **manganese**锰;**turquoise**绿松石;**chromium**铬;**cadmium**镉;**copper**铜;**metallic**金属的，含金属的;**blue**蓝色的;**titanium**钛;**boron**硼;**zinc**镀锌于…;**nickel**镍;
 - [metallic element](dic://metallic element), [metal](dic://metal)
+- _cobalt oxide_ 氧化钴
+- _cobalt blue_ n. 艳蓝色；钴蓝色
+- _cobalt chloride_ 氯化钴；二氯化钴
+- _cobalt acetate_ 醋酸钴
+- _cobalt naphthenate_ 环烷酸钴
+- _cobalt alloy_ 钴合金
 - An impure oxide of cobalt, used to produce a blue color in enamel and in the making of smalt. /浅的绿蓝色颜料，主要由钴和锡的氧化物组成。
 - In recent years, cobalt-substitute prealloy powder for diamond tools were researched intensively /近年，国内外开展了金刚石工具代钻粉末的研究。
+- An impure oxide of cobalt, used to produce a blue color in enamel and in the making of smalt. /浅的绿蓝色颜料，主要由钴和锡的氧化物组成。
 - etc..
 
 cobble
@@ -2836,18 +2896,76 @@ cobble
 - a long, shadowy, cobbled passage. /一条多荫的鹅卵石长通道。
 - He is allowed a week to cobble together a fresh coalition. /他获准有一周的时间来组建一个新的联盟。
 - Others cobble together incomes from a range of outside sources. /其他人则从各种外部来源东拼西凑成一些收入。
-- 
 - cobbly
 - cobblestone
-- cobbler
-	- [shoemaker](dic://shoemaker)
-	- [deep-dish pie](dic://deep-dish pie)
-	- _n._ [maker](dic://maker), [shaper](dic://shaper), [highball](dic://highball), [pie](dic://pie)
-	- **peach**桃子;**carpenter**木工, 木匠;**baker**面包师;**blacksmith**铁匠;**pie**馅饼;**rhubarb**大黄;**shoe**鞋;**blueberry**越橘的一种;**dessert**餐后甜点;**cheesecake**奶酪蛋糕;**pecan**美洲山核桃;
-	- _[blueberry cobbler](dic://blueberry%20cobbler)_ 脆皮蓝草莓馅饼
-	- _[cobbler blueberry](dic://cobbler%20blueberry)_ 蓝莓味甜点
-	- _[cobbler cordwainer](dic://cobbler%20cordwainer)_ 皮匠
+	- _n._ [paving stone](dic://paving%20stone)
+	- **cobbled**铺有鹅卵石的;**pavement**人行道;**sidewalk**人行道;**brick**砖，砖块;**streets**街道;**gravel**砂砾;**walkway**通道，走道;**alleys**大街小巷;**limestone**石灰岩;**stone**石头;**marble**大理石;
+	- Some streets in Washington, DC still have the cobblestones from over a hundred years ago. /华盛顿特区的一些街道仍然保留着一百多年前的鹅卵石。
+	- They have torn up cobblestones to serve as projectiles and set fire to cars and even buildings. /他们将鹅卵石当作投掷物，点燃汽车甚至是建筑物。
+	- The city is full of beautiful cobblestone streets. /这座城市都是漂亮的鹅卵石街道。
+	- For Halloween, we can dress him as a cobblestone. /万圣节时还能他把打扮成一颗鹅卵石。
+	- Drift through narrow cobblestone streets, which have changed little in 750 years. /狭窄的鹅卵石街道750年来几无变化，穿梭其中仍可想象昔日景象。
+
+cobbler
+- n. 补鞋匠；工匠；冷饮料；脆皮水果馅饼
+- [shoemaker](dic://shoemaker)
+- [deep-dish pie](dic://deep-dish pie)
+- _n._ [maker](dic://maker), [shaper](dic://shaper), [highball](dic://highball), [pie](dic://pie)
+- **peach**桃子;**carpenter**木工, 木匠;**baker**面包师;**blacksmith**铁匠;**pie**馅饼;**rhubarb**大黄;**shoe**鞋;**blueberry**越橘的一种;**dessert**餐后甜点;**cheesecake**奶酪蛋糕;**pecan**美洲山核桃;
+- _[blueberry cobbler](dic://blueberry%20cobbler)_ 脆皮蓝草莓馅饼
+- _[cobbler blueberry](dic://cobbler%20blueberry)_ 蓝莓味甜点
+- _[cobbler cordwainer](dic://cobbler%20cordwainer)_ 皮匠
+- Mock not a cobbler for his black thumbs. /莫笑皮匠拇指黑。
+- I thought it was a load of cobblers. /我想那只是一大堆废话。
+- The cobbler’s wife is the worst shod. /1. 鞋匠的老婆没鞋穿。
+- I can't believe you made peach cobbler. - I know it's your favorite. /不敢相信你做了酥皮黄桃馅饼。- 我知道这是你的最爱。
+- We're gonna leave that to bubble away while we make our cobbler /在我们做馅饼的时候，我们要让它慢慢地冒泡。
+- What I'm making is a chicken and leek cobbler. /我要做的是鸡肉大葱馅饼。
+- I could tell you tales of cobbler's wax which would disgust you with human nature.' /我可以告诉你一些有关鞋蜡的故事，你听了会感觉恶心的。'
 - cobbled
+
+cod
+- n. 鳕, 欺骗, 愚弄  
+- v. 欺骗, 愚弄
+- 来自 PIE*geu,块，圆块，词源同 cod.用以指代多种圆块状或圆鼓鼓的东西。
+- [pod](dic://pod), [seedcase](dic://seedcase)
+- [codfish](dic://codfish)
+-  [gull](dic://gull), [dupe](dic://dupe), [slang](dic://slang), [befool](dic://befool), [fool](dic://fool), [put on](dic://put on), [take in](dic://take in), [put one over](dic://put one over), [put one across](dic://put one across)
+-  [tease](dic://tease), [razz](dic://razz), [rag](dic://rag), [tantalize](dic://tantalize), [tantalise](dic://tantalise), [bait](dic://bait), [taunt](dic://taunt), [twit](dic://twit), [rally](dic://rally), [ride](dic://ride)
+- [collect](dic://collect)
+-  [C.O.D.](dic://C.O.D.), [cash on delivery](dic://cash on delivery)
+- _n._ [husk](dic://husk), [saltwater fish](dic://saltwater%20fish), [gadoid](dic://gadoid), [gadoid fish](dic://gadoid%20fish)
+- _v._ [deceive](dic://deceive), [betray](dic://betray), [lead astray](dic://lead%20astray), [mock](dic://mock), [bemock](dic://bemock)
+- _adj._ [due](dic://due), [owed](dic://owed)
+- _n._ [undue](dic://undue), [not due](dic://not%20due)
+- **salmon**鲑鱼;**fish**捕鱼，钓鱼;**lobster**龙虾;**shellfish**贝;**prawns**大虾，对虾;**herring**鲱;**tuna**金枪鱼，鲔鱼;**scallops**扇贝;**crab**螃蟹;**fillets**嵌条;**squid**鱿鱼;
+- _cod liver oil_ 鱼肝油 
+- They salt down cod for winter use. /他们腌鳕鱼留着冬天吃。
+- I suppose it could all be a cod. /我猜这可能完全是个恶作剧。
+- Mike bagged nineteen cod. /迈克捕获了19条鳕鱼。
+- So obviously, we've ordered their cod and chips. /显然，我们点了鳕鱼和薯条。
+- Besides, Frenchmen, Englishmen, Americans, Danes, and Norwegians catch these cod by the thousands. /再说，成千上万的法国人英国人、美洲人、丹麦人、挪威人，他们都在捕捉鳕鱼。
+- What if we keep the Dover sole and change the cod to a crown roast? /我们保留多佛比目鱼，把鳕鱼换成烤肋排如何？
+- Climate change could devastate Atlantic and polar cod. /气候变化可能会摧毁大西洋鳕鱼和极地鳕鱼。
+- They unloaded their catch of **cod** and bass. /他们卸下捕获的鳕鱼和鲈鱼。
+- A Catalan speciality is to serve salt **cod** cold. /加泰罗尼亚的一道特色菜是冷食咸鳕鱼。
+
+cog
+- n. 嵌齿; 凸榫; (大型机构或组织中的)小人物; 中世纪海船  
+- vt. 给...装配齿轮, <爱尔兰>抄袭
+- 1. _vt. & vi._ (用假骰子)欺骗； 行贿
+- (大机构中的)无足轻重的成员
+-  来自 PIE*geu,转，弯，大块，词源同 cob,cudgel.
+-  [sprocket](dic://sprocket)
+- _n._ [subordinate](dic://subordinate), [subsidiary](dic://subsidiary), [underling](dic://underling), [foot soldier](dic://foot%20soldier), [tooth](dic://tooth)
+- _v._ [roll out](dic://roll%20out), [roll](dic://roll), [join](dic://join), [bring together](dic://bring%20together)
+- **gears**齿轮，传动装置;**wheel**车轮;**wheels**旋转;**hub**中心;
+- The cogs gear smoothly. /齿轮啮合得很好。
+- Begin with Europe, the weakest cog in the global engine. /先说欧洲--全球经济引擎中最薄弱的那个齿轮。
+- Boeing has long been a central cog of America's industrial machine. /波音公司长期以来一直是美国工业机器的中心齿轮。
+- They truly think of their lives as one cog in a machine. /他们真的认为他们的生活就像一台机器中的一个齿轮一样。
+- As ecologist Aldo Leopold said, " To keep every cog and wheel is the first precaution of intelligent tinkering." /正如生态学家奥尔多·利奥波德所言：“理想补救要兴起，零件齐全是前提”。
+- You were all caught in the cogs of your own machines. /你们都像被卡在那些机器的齿轮之间，动弹不得。”
 
 comb
 -  [cockscomb](dic://cockscomb), [coxcomb](dic://coxcomb)
@@ -2859,7 +2977,7 @@ comb
 - **hair**头发;**hairs**毛茸;**brush**刷子;**bristles**猪鬃;**wig**假发;**brushes**画笔;**brushing**擦拭的;**honey**蜂蜜;**braid**辫子;**shampoo**洗发;**razor**剃，用剃刀刮;
 - _comb filter_ 梳齿形滤波器
 - _comb out_ 仔细搜寻；裁减；挑选
-- _honey comb_ 蜂巢
+- _honey comb_ 蜂巢 (hive)
 - _wooden comb_ 木梳
 - The old man combed his snowy hair. /老头儿梳他的白发。
 - she combed the burrs out of the dog's coat. /她给狗梳去毛上的刺球。
@@ -2875,10 +2993,11 @@ comb
 - etc..
 
 con (ken-)
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - 1 - 来自短语 confidence man 的缩写，反讽，被信任的人欺骗。
 - v. 欺骗; <古>精读, 默记  n. 诡计, 欺骗; 囚犯; 劣势
--  [convict](dic://convict), [inmate](dic://inmate), [jail bird](dic://jail bird), [jailbird](dic://jailbird), [gaolbird](dic://gaolbird), [yard bird](dic://yard bird), [yardbird](dic://yardbird)
--  [bunco](dic://bunco), [bunco game](dic://bunco game), [bunko](dic://bunko), [bunko game](dic://bunko game), [confidence trick](dic://confidence trick), [confidence game](dic://confidence game), [con game](dic://con game), [gyp](dic://gyp), [hustle](dic://hustle), [sting](dic://sting), [flimflam](dic://flimflam)
+- [convict](dic://convict), [inmate](dic://inmate), [jail bird](dic://jail bird), [jailbird](dic://jailbird), [gaolbird](dic://gaolbird), [yard bird](dic://yard bird), [yardbird](dic://yardbird)
+- [bunco](dic://bunco), [bunco game](dic://bunco game), [bunko](dic://bunko), [bunko game](dic://bunko game), [confidence trick](dic://confidence trick), [confidence game](dic://confidence game), [con game](dic://con game), [gyp](dic://gyp), [hustle](dic://hustle), [sting](dic://sting), [flimflam](dic://flimflam)
 - [victimize](dic://victimize), [swindle](dic://swindle), [rook](dic://rook), [goldbrick](dic://goldbrick), [nobble](dic://nobble), [diddle](dic://diddle), [bunco](dic://bunco), [defraud](dic://defraud), [scam](dic://scam), [mulct](dic://mulct), [gyp](dic://gyp), [gip](dic://gip), [hornswoggle](dic://hornswoggle), [short-change](dic://short-change)
 - [memorize](dic://memorize), [memorise](dic://memorise), [learn](dic://learn)
 - [in opposition](dic://in opposition)
@@ -2895,6 +3014,13 @@ con (ken-)
 - _[con man](dic://con%20man)_  骗子
 - **pro**赞成地;**un**家伙，东西;**scam**骗局，诡计;**su**苏;**ruse**诡计;
 - _[You're being conned](dic://You%27re%20being%20conned)_ 你被忽悠了
+
+confetti
+- small pieces or streamers of colored paper that are thrown around on festive occasions (as at a wedding)
+- **glitter**闪烁;**balloons**轻气球;**sequins**亮片;**glittery**闪烁的，闪光的;**sparkly**闪耀的;**fireworks**烟火;**tulle**薄纱;**swirls**旋涡;**champagne**香槟酒;**grenades**手榴弹;**bouquets**宴会;
+- _[throw confetti](dic://throw%20confetti)_ 扔五彩纸屑; 抛洒彩纸; 乱扔纸屑; 
+- _[confetti soap](dic://confetti%20soap)_ 香皂片
+- _[Confetti Tiara](dic://Confetti%20Tiara)_ 施华洛世奇发饰
 
 conn
 - 1. conduct or direct the steering of a ship or plane
@@ -4766,6 +4892,7 @@ foster
 - foster-mother
 
 fraud
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - [imposter](dic://imposter), [impostor](dic://impostor), [pretender](dic://pretender), [fake](dic://fake), [faker](dic://faker), [sham](dic://sham), [shammer](dic://shammer), [pseudo](dic://pseudo), [pseud](dic://pseud), [role player](dic://role player)
 - [fraudulence](dic://fraudulence), [dupery](dic://dupery), [hoax](dic://hoax), [humbug](dic://humbug), [put-on](dic://put-on)
 - _n._ [crime](dic://crime), [law-breaking](dic://law-breaking), [deceiver](dic://deceiver), [cheat](dic://cheat), [cheater](dic://cheater), [trickster](dic://trickster), [beguiler](dic://beguiler)
@@ -4782,6 +4909,7 @@ fraud
 	- he was found guilty of the fraudulent conversion of clients' monies. /他被判犯了诈骗侵吞客户货款罪。
 	- fraudulence
 - defraud
+	- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 	- [victimize](dic://victimize), [swindle](dic://swindle), [rook](dic://rook), [goldbrick](dic://goldbrick), [nobble](dic://nobble), [diddle](dic://diddle), [bunco](dic://bunco), [scam](dic://scam), [mulct](dic://mulct), [gyp](dic://gyp), [gip](dic://gip), [hornswoggle](dic://hornswoggle), [short-change](dic://short-change), [con](dic://con)
 	- _v._ [cheat](dic://cheat), [rip off](dic://rip off), [chisel](dic://chisel)
 	- **deceive**欺骗;**mislead**误导;**fraudulent**欺骗的,不诚实的;**fraud**欺骗;**unlawfully**非法地;**rob**抢劫;**deception**欺骗;**scam**骗局，诡计;**discredit**败坏…的名声;**intimidate**恐吓, 威胁;**subvert**推翻;
@@ -5529,6 +5657,7 @@ glory
 	- glorification
 
 goad (joust)
+- (prod, stick, stimulate, fan, pink, incite, spur, goad, urge, encourage)
 - - n. 刺激；（赶牲口用的）刺棒；激励 
 - vt. 刺激；激励；用刺棒驱赶；煽动
 - **provoke**激怒;**incite**煽动;**dissuade**劝阻，劝止;**intimidate**恐吓, 威胁;**taunt**嘲弄;**humiliate**蒙羞;**persuade**说服，劝说;**accuse**控告，指控;**embarrass**使窘迫;**stab**刺;**nudge**用肘轻推;
@@ -6060,6 +6189,7 @@ guard
 	- blackguardism
 
 guff
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - n. 胡说, 废话
 - 拟声词，模仿夸夸其谈的声音。
 - unacceptable behavior (especially ludicrously false statements)
@@ -7263,6 +7393,7 @@ hog
 	- **rhino**钱;**giraffe**长颈鹿;**safari**旅行;**elephant**象;**boar**野猪;**moose**驼鹿;**gorilla**大猩猩;**pig**猪肉;**buffalo**水牛;**donkey**驴子;**ape**猿;
 	- Before he knew it, the wheel of his Land Rover was stuck in a warthogburrow /不知怎的，拉菲克驾驶的路虎车的车轮卡在了疣猪洞穴里。
 - hogwash
+	- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 	- [bunk](dic://bunk), [bunkum](dic://bunkum), [buncombe](dic://buncombe), [guff](dic://guff), [rot](dic://rot)
 	- _n._ [drivel](dic://drivel), [garbage](dic://garbage)
 	- **nonsense**谬论;**bullshit**胡说;**drivel**淌口水,说傻话;**crap**废话;**preposterous**反常的,荒谬的;**ludicrous**荒唐可笑的,滑稽可笑的;**bogus**伪造的;**untrue**不真实的;**laughable**荒唐可笑的;**nonsensical**无意义的;**hyperbole**夸张的语句;
@@ -7826,7 +7957,8 @@ hum
 	- **whistling**吹笛;**chirping**啁啾声;**buzzing**嗡嗡响的;**singing**歌声;**tune**曲调, 曲子;**rumbling**隆隆声;**noises**噪音，响声，噪音;**screeching**发动机啸声;**sing**唱歌;**echoing**回音;**cranking**摇动;
 	- **bird**鸟;**butterfly**蝴蝶;**birds**鸟类;**owl**猫头鹰;**sparrow**麻雀;**squirrel**松鼠;**nectar**花蜜;**insect**昆虫;**bee**蜜蜂，蜂;**orchid**兰花;**peacock**孔雀;
 - hummer
-- humdrum 
+- humdrum
+	- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 	- (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian,  prosaic, unglamorous, commonplace, plodding, earthbound)
 	-  [commonplace](dic://commonplace), [prosaic](dic://prosaic), [unglamorous](dic://unglamorous), [unglamourous](dic://unglamourous)
 	- **mundane**世俗的，平凡的;**banal**陈腐的;**monotonous**无变化的, 单调乏味的;**dreary**沉闷的，枯燥的;**drab**单调的;**dull**钝的;**boring**令人厌烦的;**ordinary**普通的;**unremarkable**寻常的,不值得注意的;**uninteresting**无趣的,令人厌倦的;**bland**乏味的
@@ -7836,6 +7968,7 @@ hum
 	- **shocker**令人震惊的人或事物;**hoot**鸣笛声;**rousing**活泼的;**extravaganza**娱乐表演;**veritable**真正的，名副其实的;**thrilling**令人兴奋的;**penultimate**倒数第二的;**romp**嬉闹玩笑;**epic**史诗的，叙事诗的;**showdown**摊牌;**terrific**极好的;
 	- It turned into a real **humdinger** of a game.
 - humbug
+	- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 	-  [baloney](dic://baloney), [boloney](dic://boloney), [bilgewater](dic://bilgewater), [bosh](dic://bosh), [drool](dic://drool), [taradiddle](dic://taradiddle), [tarradiddle](dic://tarradiddle), [tommyrot](dic://tommyrot), [tosh](dic://tosh), [twaddle](dic://twaddle)
 	-  [fraud](dic://fraud), [fraudulence](dic://fraudulence), [dupery](dic://dupery), [hoax](dic://hoax), [put-on](dic://put-on)
 	- [nonsense](dic://nonsense), [bunk](dic://bunk), [nonsensicality](dic://nonsensicality), [meaninglessness](dic://meaninglessness), [hokum](dic://hokum), [misrepresentation](dic://misrepresentation), [deceit](dic://deceit)
@@ -8147,7 +8280,10 @@ jocund
 - A poet could not but be gay in such a jocund company. /一个诗人在这种兴高采烈的同伴中自然而然地会快乐
 
 jockey
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - 来自常见人名 Jock 昵称，用来称呼普通人或不认识的小伙。后用于指骑马送信的信使，引申词义赛马骑师，同时，也用于指马匹交易商，即 horse-dealer,因这一职业存在许多欺骗行为，干这一行的人名声通常都不太好，引申词义欺诈，耍花招等。
+- n. 赛马骑师  
+- v. 耍各种手腕获取; 运用手段谋取
 - [cheat](dic://cheat), [chouse](dic://chouse), [shaft](dic://shaft), [screw](dic://screw), [chicane](dic://chicane)
 - _n._ [horseman](dic://horseman), [equestrian](dic://equestrian), [horseback rider](dic://horseback rider), [operator](dic://operator), [manipulator](dic://manipulator)
 - _v._ [beat](dic://beat), [beat out](dic://beat out), [crush](dic://crush), [shell](dic://shell), [trounce](dic://trounce), [vanquish](dic://vanquish), [manoeuver](dic://manoeuver)
@@ -8169,6 +8305,36 @@ jockey
 - The men jockey for a coveted recliner and settle in /大家争抢着都想要那个诱人的躺椅，之后逐渐安顿下来。
 - Some jockey for kudos while other (often more deserving) candidates are left behind. /有些人角逐到了名誉，而另一些（往往更值得的）候选人则败下阵来。
 - outjokey
+
+jog
+- n. 轻推, 轻撞; 唤起记忆; 慢跑  
+- v. 轻推; (使)蹒跚行进, (使)慢跑 
+- joggle
+	- v. 轻微摇晃；（使）快速颠动；啮合
+	- 1. vt. 轻摇；摇动，摇曳；啮合
+	- n. 啮合；摇动；榫接
+	- [dowel](dic://dowel), [dowel pin](dic://dowel pin)
+	- [jiggle](dic://jiggle)
+	- [jiggle](dic://jiggle), [wiggle](dic://wiggle)
+	- _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing), [shaking](dic://shaking)
+	- _v._ [shake](dic://shake), [agitate](dic://agitate), [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure)
+	- **jog**慢跑;**bend**使弯曲;
+	- _[joggle post](dic://joggle%20post)_ 吊杆柱；啮合柱
+	- _[Cement joggle](dic://Cement%20joggle)_ 水泥榫接
+	- _[joggling speed](dic://joggling%20speed)_ 慢速度
+	- _[joggle platting](dic://joggle%20platting)_ 折接板
+	- _[joggle joint](dic://joggle%20joint)_ 把榫接合；啮合榫接头；榫接接合；压折合
+	- _[joggle frame](dic://joggle%20frame)_ 榫接肋骨
+	- _[joggling dynamics](dic://joggling%20dynamics)_ 耦合动态性
+	- _[joggle shackle](dic://joggle%20shackle)_ 长而微弯形卸扣
+	- " I started joggling because I just love the looks I get." /“大家看到我抛球杂耍跑时脸上的表情是激励我做这项运动的原因。”
+	- " We are both jogglers. I started joggling because I needed something to motivate me to keep running." /“我们俩都是抛球杂耍跑爱好者。我开始抛球杂耍跑是因为我需要一个能激励我坚持跑步的东西。”
+	- You can look over my shoulder, but you mustn't joggle. /你可以越过我的肩膀看， 但你不能慢跑。
+	- Don't joggle me." " Why, what's the matter, Tom? /别逗我。” “为什么，汤姆，怎么了？
+	- The light is still sombrous and the trees still **joggle** as before. It ofen gives me some hallucination /那灯光依然昏暗的小路，那群树依然摇曳的小路，好像从来没有变过。
+	- While working , the teeth of belt and the teeth of pulley **joggle** each other to transmit the motion and the dynamic force. /转动时，通过带齿与带轮的齿槽相吻合来传递动力。
+	- joggling
+- jogging
 
 josh
 - v. 戏弄, 说笑  n. 无恶意的戏谑, 玩笑
@@ -8870,6 +9036,99 @@ loath
 	- **despise**轻视，鄙视;**hate**憎恨;**dislike**不喜欢，厌恶;**adore**爱慕;**admit**承认;**hates**讨厌;**shun**避开, 回避, 避免;**despised**受轻视的;**resent**怨恨;**love**恋爱;**prefer**宁愿;
 	- [abhor](dic://abhor), [abominate](dic://abominate), [execrate](dic://execrate)
 	- [hate](dic://hate), [detest](dic://detest)
+
+lock
+- n. 锁; 锁定; 制动器; 闸; 一缕头发  
+- v. 锁上, 把…锁起来; 固定, 卡住; 陷入, 卷入; 被紧紧抓住; 锁定
+- lock,stock and barrel全部地；一古脑儿。美国有个参议员建议立法规定将当时的滑膛枪分三部分来生产；lock部分（扳机）、stock部分（枪柄）和barrel部分（枪管），这样一则盗贼会失去兴趣，二则战场上可以用丢弃的枪的相应部位替换故障部位。Soldiers need lock,stock and barrel to make up a weapon. ​​​​
+- 来自古英语 loc,河坝，围栏，关闭，来自 PIE*leug,弯，转，可能同 PIE*lek,词源同 leg,lizard.后引申词义锁。  
+- 来自古英语 locc,卷曲，一绺头发，可能与 lock（锁）为同一词源。
+- 
+- [curl](dic://curl), [ringlet](dic://ringlet), [whorl](dic://whorl)
+- [lock chamber](dic://lock chamber)
+- [ignition lock](dic://ignition lock)
+- [engage](dic://engage), [mesh](dic://mesh), [operate](dic://operate)
+- [interlock](dic://interlock), [interlace](dic://interlace)
+- [lock in](dic://lock in), [lock away](dic://lock away), [put away](dic://put away), [shut up](dic://shut up), [shut away](dic://shut away), [lock up](dic://lock up)
+- _n._ [fastener](dic://fastener), [fastening](dic://fastening), [holdfast](dic://holdfast), [fixing](dic://fixing), [hair](dic://hair), [mechanism](dic://mechanism), [enclosure](dic://enclosure)
+- _v._ [fasten](dic://fasten), [fix](dic://fix), [secure](dic://secure), [move](dic://move), [displace](dic://displace), [engage](dic://engage), [hold](dic://hold)
+- _n._ [unlock](dic://unlock)
+- **latch**门闩;**unlock**开启;**latches**门闩线路;**door**门;**keys**关键帧;**unlocking**接通;**lever**杠杆;**doors**大门;**keyed**有键的;**ratchet**棘轮;**shut**关闭;
+- interlock
+	- _n._ [device](dic://device), [catch](dic://catch), [grab](dic://grab), [snatch](dic://snatch), [snap](dic://snap)
+	- _v._ [organize](dic://organize), [organise](dic://organise), [coordinate](dic://coordinate), [hold](dic://hold), [take hold](dic://take%20hold), [embrace](dic://embrace), [hug](dic://hug)
+	- **ignition**点火，点燃;**lock**锁，锁上;
+	- _interlock system_ 联锁系统
+	- _safety interlock_ 保险联锁装置；安全联锁装置
+	- _mechanical interlock_ 机械式联锁
+	- All the units interlock with one another rigidly. /所有的元件严密地连锁在一起。
+	- The two stags interlocked their horns. /两只雄鹿把角叉到一起了
+	- The chairs have soft seat, stylized cabriole legs and interlocking hoops in the back for a more formal look. /这款餐椅有柔软的坐垫，优雅的弯曲凳腿以及靠背上的环形图案，是美式餐椅的经典款式。
+	- Introduces the working principle and characteristic of static advancer and discusses the electricity interlock of static advancer and motor in the application. /介绍了静止式进相机的工作原理、特性并对应用中的静止式进相机与电动机的电气联锁进行了探讨。
+	- Their hands tingled as they interlocked fingers. /他们十指紧扣，尽管有些刺痛。
+	- The teeth in Camarasaurus actually interlock. /圆顶龙的牙齿实际上是相互扣住的。
+	- The interlocking CC Chanel logo was created by Karl himself. /香奈儿著名的双C标志是由老佛爷所创造的。
+	- At that pressure, the atoms form two interlocking crystal lattices. /在这种压力下，原子形成两个连锁晶格。
+	- It's not only short and very high, but the bones of the skull are interlocking. /它不仅又短又高，而且头颅上的骨头相互紧锁。
+	- I bit my lip and clasped my hands together, interlocking my fingers, so I couldn't do anything rash. /我咬住嘴唇，两手十指交叉抱在一起，以免做出鲁莽的事情来。
+- weighlock
+- wedlock
+	- n. 婚姻；已婚状态
+	- [marriage](dic://marriage), [matrimony](dic://matrimony), [union](dic://union), [spousal relationship](dic://spousal relationship)
+	- _n._ [marital status](dic://marital%20status)
+	- **unmarried**未婚的;**marriage**结婚;**marrying**证婚;**married**已婚的，有配偶的;**illegitimate**非法的;**marry**娶;**divorced**离婚的;**childless**无儿女的;**pregnant**怀孕的;**marital**婚姻的;**birth**出生;
+	- _out of wedlock_ 婚外
+	- _born out of wedlock_ 非婚生
+	- At ten years of age she was given in wedlock to this old roué who had already buried five wives. /又瘦又羞怯的小姑娘，拉着一个糊涂老头的胳膊。
+- waterlocks
+- waterlocked
+- unlock
+- synchrolock
+- sublock
+- springlock
+- self-locking
+- putlock
+- picklock
+- padlock
+- matchlock
+- lockwire
+- lockup
+- lockstitch
+- lockstep
+- locksmith
+- locksman
+- lockout
+- locknut
+- lockmaster
+- lockless
+- lockkeeper
+- lockjaw
+- locking
+- locket
+- lockedup
+- locked
+- lockage
+- lockable
+- lock-on
+- lock-in
+- lock-chain
+- landlocked
+- interlock
+- headlock
+- havelock
+- gunlock
+- gridlock
+- goldilocks
+- forelock
+- footlocker
+- firelock
+- elflock
+- double-lock
+- deadlock
+- charlock
+- bitelock
+- berlock
+- airlock
 
 lodge
 - leub(h)-
@@ -9770,6 +10029,7 @@ night
 - tbd..
 
 nobble
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 -  可能来自方言词 knubble,敲，击，用骨节敲打，词源同 knob,knuckle.最初用于赛马指操纵赛马比赛，后用于法律术语阻挠司法公正等。
 - vt. 诈骗；赛马前用毒药等使马不能获胜
 - [victimize](dic://victimize), [swindle](dic://swindle), [rook](dic://rook), [goldbrick](dic://goldbrick), [diddle](dic://diddle), [bunco](dic://bunco), [defraud](dic://defraud), [scam](dic://scam), [mulct](dic://mulct), [gyp](dic://gyp), [gip](dic://gip), [hornswoggle](dic://hornswoggle), [short-change](dic://short-change), [con](dic://con)
@@ -10533,6 +10793,24 @@ pinch
 - monopinch
 - belly-pinched
 
+pink
+- (prod, stick, stimulate, fan, pink, incite, spur, goad, urge, encourage, )
+- n. 粉红色, 石竹花, 化身, 典范, 头面人物, 极度  
+- a. 粉红的, 石竹科的, 比较激进的, 脸色发红的, 精致的, 有点下流的  
+- vt. 刺, 扎, 刺痛, 射伤, 使面红耳赤, 使变粉红色  
+- vi. 变粉红色
+- 词源不确定，可能来自中古法语 piquer,刺，扎，穿透，词源同 pike,pick.或来自拉丁语 pungere,刺，扎，穿透，词源同 puncture.引申词义打孔，使成锯齿状，后用于指香石竹花，因其花瓣凹凸不平，有如锯齿而得名，因这种花多开粉红色花朵，后引申词义粉红色的。后引申俚语义同情共产党的，政治左倾的，同时，也用于指娘娘腔，同性恋。
+-  [garden pink](dic://garden pink)
+-  [pinko](dic://pinko)
+-  [tap](dic://tap), [rap](dic://rap), [knock](dic://knock)
+- [ping](dic://ping), [knock](dic://knock)
+-  [pinkish](dic://pinkish)
+- _n._ [chromatic color](dic://chromatic%20color), [chromatic colour](dic://chromatic%20colour), [spectral color](dic://spectral%20color), [spectral colour](dic://spectral%20colour), [flower](dic://flower), [collectivist](dic://collectivist), [leftist](dic://leftist)
+- _v._ [sound](dic://sound), [go](dic://go), [cut](dic://cut)
+- _adj._ [chromatic](dic://chromatic)
+- _n._ [achromatic](dic://achromatic)
+- **purple**紫色的;**blue**蓝色的;**yellow**黄色的;**red**红色，红颜料;**teal**短颈野鸭，水鸭;**lilac**淡紫色;**magenta**品红,洋红;**turquoise**绿松石;**orange**橘色的;**burgundy**深的紫红色;**beige**米黄色;
+
 pinnacle
 - n. 小尖塔, 尖峰, 高峰, 极点  
 - vt. 造小尖塔, 置于尖顶上
@@ -10683,7 +10961,7 @@ plush  (flush, gush, lush, slush, plush, blush, shush)
 - plushy
 - plushly
 
-poke
+poke (pock)
 - vi. 刺，捅；戳；伸出；刺探；闲荡
 - n. 戳；刺；袋子；懒汉
 - v. （用手指或尖利物品）戳，刺；从……露出（或伸出、探出）；把……戳进，把……插入；戳（洞）；拨（火）；<俚>与（某人）性交；吸引（另一用户）的注意 
@@ -10841,6 +11119,43 @@ posh
 - poshism
 - posh-looking
 
+postiche (wig)
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
+- a. 伪造的, 假的, 假冒的, 多余的  
+- n. 假发
+- [hairpiece](dic://hairpiece), [false hair](dic://false hair)
+- [fake](dic://fake), [sham](dic://sham)
+- _n._ [attire](dic://attire), [garb](dic://garb), [dress](dic://dress), [imitation](dic://imitation), [counterfeit](dic://counterfeit), [forgery](dic://forgery)
+
+prod
+- n. 刺针, 刺棒, 激励话, 提醒物
+- vt. 戳, 刺, 刺激  
+- vi. 戳, 刺
+- v. 刺，戳；刺激，督促
+- n. 戳，捅；刺戳的工具；刺激，提醒；（贬称）新教徒
+- 来自中古英语 brodden,刺，戳，来自 Proto-Germanic*bruzdaz,刺，硬毛，来自 PIE*bhars,刺，硬毛，词源同 bur,barley,brad.
+- (prod, stick, stimulate, fan, pink, incite, spur, goad, urge, encourage, )
+- [goad](dic://goad), [goading](dic://goading), [prodding](dic://prodding), [urging](dic://urging), [spur](dic://spur), [spurring](dic://spurring)
+- [nudge](dic://nudge), [poke at](dic://poke at)
+- [incite](dic://incite), [egg on](dic://egg on)
+- [jab](dic://jab), [stab](dic://stab), [poke](dic://poke), [dig](dic://dig)
+- _n._ [encouragement](dic://encouragement), [device](dic://device)
+- _v._ [push](dic://push), [force](dic://force), [thrust](dic://thrust)
+- **poke**刺，捅;**nudge**用肘轻推;
+- _on the prod_ [美国方言]大发脾气
+- The boy is prodding the animal with a needle /那男孩正用一根针刺那动物。
+- We push and pull and poke and prod things. /我们可以移动或触碰某个物体。
+- He gave the contents of the Pensieve a small prod with the end of his wand. /他用魔杖尖轻轻戳了一下冥想盆里的物质。
+- Some colleges are providing it, prodded by the federal government. /一些大学在联邦政府敦促下，提供信息透明。
+- Hundreds of tiny figures are prodding me with miniature spears. /上百个细小的身影正用小型的矛戳着我。
+- This work of art is prodding at the awkward underbelly of Greek culture /这件作品直击希腊文化的软肋。
+- The industry hopes that governments will be prodded into action by the sudden expiry of so many seamen's contracts. /该行业希望这么多船员的合同突然到期能够提醒政府采取行动。
+- He prodded moodily at the lumps of charred gray fish on his plate. /在他看见他的碟子里那许多烧焦的灰色鱼时他变得更加暴躁易怒。
+- It was only a painful accident that prodded scientists to reconsider this view /只是一件令入痛苦的偶然事件，才使得科学家对这一观点遗行了重新审视。
+- Recently, U.S. officials have prodded America's allies to mend fences. /最近，美国官员敦促美国盟友重修旧好。
+- At this point, Grace became visibly distressed, and she prodded the body, and she vocalized. /此时，格蕾丝明显很忧虑，她捅了捅埃莉诺的身体，并发出悲鸣。
+- prodding
+
 prop
 - n. 支柱, 支撑物; 道具; 螺旋桨  
 - vt. 支撑, 维持; 架, 搁
@@ -10991,7 +11306,7 @@ pulpit (alter)
 - _[bully pulpit](dic://bully%20pulpit)_  天字第一号讲坛（白宫）
 - they chopped up the pulpit for firewood /他们把讲道台劈了当柴火。
 
-pummel (trammel, pommel)
+pummel (trammel, pommel, pummel)
 - vt. 击, 打, 揍
 - 来自 pommel 拼写变体，来自 pommel,圆球，圆鞍，引申词义连续猛击，捶打。
 - [pommel](dic://pommel), [biff](dic://biff)
@@ -12586,8 +12901,7 @@ scruple
 	- unscrupulousness
 	- unscrupulous 
 		- (imprudence, unscrupulous, )
-		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
-		- 
+		- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
 		- a. 无道德原则的, 不审慎的, 肆无忌惮的  
 		- _n._ [scrupulous](dic://scrupulous)
 		- **dishonest**不诚实的;**unethical**不道德的;**devious**弯曲的;**greedy**贪婪的;**sleazy**质地薄的;**nefarious**极坏的;**ruthless**无情的，残忍的;**opportunistic**机会主义的;**corrupt**腐败的，贪污的;**scheming**惯耍阴谋的，诡计多端的;**fraudulent**欺骗的,不诚实的
@@ -12732,7 +13046,7 @@ seam
 - unseam
 	- vt. 拆……的线缝；将……拆开
 - seamy
-	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
 	-  seam,缝补，缝隙，-y,形容词后缀。比喻用法，把难看的一面缝在里面。词义演变比较 seedy.
 	- a. 露出线缝的, 丑恶的
 	- [seedy](dic://seedy), [sleazy](dic://sleazy), [sordid](dic://sordid), [squalid](dic://squalid)
@@ -12859,6 +13173,7 @@ shanty
 	- _[shantytown reconstruction](dic://shantytown%20reconstruction)_ 棚户区改造
 
 sham
+- (bunco, bunco game, bunko, bunko game, confidence trick, confidence game, con game, gyp, hustle, sting, flimflam,  victimize, swindle, rook, goldbrick, nobble, diddle, defraud, fraudulence, scam, mulct, gip, hornswoggle, short-change, sham, fake, postiche, imposter, impostor, faker, shammer, pseudo, pseud, feign, pretend, affect, dissemble, assumed, false, fictitious, fictive, put on, trickster, cheater, deceiver, forgery, counterfeit, imitation, misrepresent, belie, phony, farce, ruse, bogus, deception, placebo, ploy, fiasco, dupery, hoax, humbug, chicanery, chicane, guile, wile, shenanigan, prank, spoof, conspiracy, baloney, boloney, bilgewarter, bosh, drool, taradiddle, tommyrot, tosh, twaddle, nonsense, bunk, hokum, buncombe, guff, rot, drivel, garbage, bullshit,  lead on, delude, cozen, superstition, hogwash,  dupe, slang, befool, cod, fool, put on, take in, put one over, put one across, befool, gull, jockey, cheat, chouse, shaft, screw)
 - sham - sham和shame在词形上仅一个字母之差，它们在词源上有无联系呢？shame意为“羞耻”或“使感到羞愧”，是个很古老的词，在古英语时期就已开始使用，和德语Scham（羞耻）是同源词。sham意为“骗局”、“虚假的”和“假装”等，始见于17世纪，有些辞书认为它可能是shame在英国北方方言中的变体。
 - [fake](dic://fake), [postiche](dic://postiche)
 - [imposter](dic://imposter), [impostor](dic://impostor), [pretender](dic://pretender), [fake](dic://fake), [faker](dic://faker), [fraud](dic://fraud), [shammer](dic://shammer), [pseudo](dic://pseudo), [pseud](dic://pseud), [role player](dic://role player)
@@ -14078,7 +14393,7 @@ south
 	- a. 向南行的, 向南行驶的
 
 sordid
-- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
+- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
 - [seamy](dic://seamy), [seedy](dic://seedy), [sleazy](dic://sleazy), [squalid](dic://squalid)
 - [flyblown](dic://flyblown), [squalid](dic://squalid)
 - _adj._ [disreputable](dic://disreputable), [corrupt](dic://corrupt), [dirty](dic://dirty), [soiled](dic://soiled), [unclean](dic://unclean), [acquisitive](dic://acquisitive)
@@ -15523,7 +15838,7 @@ thaw
 thief
 - thievishness
 - thievish
-	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, )
+	- (seamy, seedy, sleazy, sordid, squalid, unscrupulous, underhand, wicked, cunning, devious, sly, crook, thievish, crafty, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily, devious, nefarious, scheming, sinister, malevolent, insidious, invidious, sadistic, depraved, evil, demonic, diabolic, hellish, infernal, satanic, unholy, fiendish, mephistophelian, prudent, shrewd, canny, savvy, calculative, nifty, deft, sly, keen, cagey, cagy, clever, astute, dodgy)
 	- _adj._ [dishonest](dic://dishonest), [dishonorable](dic://dishonorable)
 	- _n._ [honest](dic://honest, [honorable](dic://honorable)
 	- adj. 有偷窃癖的；贼似的；偷偷摸摸的
