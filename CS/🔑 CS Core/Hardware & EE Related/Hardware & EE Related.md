@@ -19,7 +19,7 @@
 
 ↗ [Physical Security](../../CyberSecurity/Physical%20Security/Physical%20Security.md)
 
-↗ [Semiconductor Industry & Companies](../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+↗ [Semiconductor Industry & Companies](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
 ### Learning Resources

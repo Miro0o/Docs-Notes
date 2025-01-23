@@ -8,9 +8,9 @@
 ### Related Topics
 ↗ [CS International Universities & Degrees](CS%20International%20Universities%20&%20Degrees.md)
 ↗ [Academics](../../../../Academics/Academics.md)
-↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
+↗ [Academic Research Group & Tutors Profiles](../../../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
-↗ [Natural Science Information](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
+↗ [Natural Science Information](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
 
 
 ### CS School Academic Ranking
@@ -136,11 +136,13 @@ RICE: active, 2024-11-15, 2024-12-15
 WUSTL@MSCS: active, 2024-11-15, 2025-03-01
 NEU@MSCS: active, 2024-11-15, 2025-04-01
 NEU@MSCybersecurity: active, 2024-11-15, 2025-04-01
-Emory: active, 2024-11-15, 2024-12-15
+Emory@MSCS: active, 2024-11-15, 2025-03-01
 UCLA@MSCS: active, 2024-11-15, 2024-12-15
 USC@MSCS: active, 2024-11-15, 2024-12-15
 UCSD@MSCS: active, 2024-11-15, 2024-12-15
 UW@MSLinguistics: active, 2024-12-01, 2025-03-01
+Willilam&Marry@CS(with funding): active, 2024-12-01, 2025-02-16
+Willilam&Marry@CS(without funding): active, 2024-12-01, 2025-03-15
 
 section 🇨🇦
 UoW@MASc: active, 2024-11-15, 2025-02-01
@@ -167,6 +169,8 @@ UU@MSCS (scholarship): active, 2024-11-15, 2025-02-01
 KUL@MEngCS: active, 2024-11-15, 2025-03-01
 DTU@MSCS: active, 2024-11-15, 2025-01-15
 DTU+KAIST@Dual: active, 2024-11-15, 2025-01-15
+Ghent@MSCS(start application): active, 2024-11-15, 2025-03-01
+Ghent@MSCS(submit application): active, 2024-11-15, 2025-04-01
 
 section 🇸🇪 🇳‍🇴 🇫‍🇮
 KTH@MS-Cybersecurity: active, 2024-11-15, 2025-01-25
@@ -244,7 +248,6 @@ All EIT Digital Master School programmes follow the same scheme:
 
 To learn more about the I&E minor please click [here](https://masterschool.eitdigital.eu/innovation-entrepreneurship-minor).
 
-
 ---
 
 [在荷兰留学是怎么样的体验？ - 德国Viviane的回答 - 知乎]: https://www.zhihu.com/question/28504528/answer/3234657391
@@ -271,10 +274,12 @@ EIT Manufacturing（EIT制造）
 （2）[华北电力大学](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)（北京)[核工程与核技术专业](https://www.zhihu.com/search?q=%E6%A0%B8%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%A0%B8%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)，**GPA81.4/100**，**雅思7.5**，被欧盟**EIT核能硕士**录取，学制2年，并获得欧盟**奖学金30000欧元**  
 （3）[同济大学](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)[电气工程及其自动化专业](https://www.zhihu.com/search?q=%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E5%8F%8A%E5%85%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2944144664%7D)；2019年毕业；**GPA 4.62/5.0 雅思 7，** 被E**IT[嵌入式系统](https://www.zhihu.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3120977729%7D)硕士** 项目，学制2年，并获得 **奖学金24,000欧元**
 ##### EIT Digital /Masterschool
+🚪 https://academy.eitdigital.eu/SITE/PRIVATE/GO/default.aspx?rid=1
 https://masterschool.eitdigital.eu
 ###### Cyber Security (CSE)
 https://masterschool.eitdigital.eu/cyber-security/entry-exit
-###### Cloud and Networking Infrastructure 
+###### Cloud and Networking Infrastructure
+https://masterschool.eitdigital.eu/cloud-and-networking-infrastructure
 ###### Data Science
 https://masterschool.eitdigital.eu/data-science
 ###### Embedded Systems Design
@@ -309,9 +314,25 @@ MSCA and Citizens行动目标是让研究和研究人员更接近大众。它通
 - 对于工业博士学位，应该将至少 50% 的时间花在学术之外
 - 应遵守流动规则：一般而言，他们在招聘日期前36 个月内，在招聘机构所在国家/地区居住或从事主要活动（工作、学习等）的时间不得超过 12 个月（举例说明：如果在英国攻读了硕士学位，可以申请玛丽居里项目内的荷兰博士项目，但不可以申请伦敦博士项目。）
 
-### 🇬‍🇧 U.K.
-#### IC
 
+### 🇬‍🇧 U.K.
+#### 👉 IC
+
+#### 👉 The University of Edinburgh
+https://www.ed.ac.uk/studying/postgraduate/applying/your-application
+Apply Instructions
+##### School of Informatics
+You can find out more about our postgraduate taught programmes on the degree finder. Follow the individual degree links below to see more information including fees and funding, what you will study and entry requirements.
+
+|                                                                               |                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Advanced Technology for Financial Computing](https://www.ed.ac.uk/pg/992%20) | This programme will provide you with a critical and practical appreciation of how data, computing and artificial intelligence technologies can be used and developed to deliver value in organisations with finance, risk and decision-making related digitalisation from both technology and business perspectives. |
+| [Artificial Intelligence](https://www.ed.ac.uk/pg/107%20)                     | AI research is interdisciplinary by nature and draws on neuroscience, cognitive science, linguistics, computer science, mathematics and statistics, psychology.                                                                                                                                                      |
+| [Cognitive Science](https://www.ed.ac.uk/pg/108%20)                           | Cognitive Science investigates human cognitive functions such as perception and action, memory and learning, language and communication, reasoning and problem-solving.                                                                                                                                              |
+| [Computer Science](https://www.ed.ac.uk/pg/110%20)                            | The scope of Computer Science ranges from the design of programming languages and algorithms to models of computation, such as distributed, parallel and quantum computing, and the study of the limits of computation. We also offer specialist area courses in computer security.                                  |
+| [Cyber Security, Privacy and Trust](https://www.ed.ac.uk/pg/971%20)           | Cyber security and privacy is the study of the computational principles, methods and mechanisms for safe-guarding these sensitive applications. Graduates of the programme will learn how to evaluate, design, and implement secure and trustworthy systems in complex distributed systems.                          |
+| [Data Science](https://www.ed.ac.uk/pg/902%20)                                | Data science is the study of the computational principles, methods, and systems for extracting knowledge from data. Large data sets are now generated by almost every activity in science, society, and commerce.                                                                                                    |
+| [Design Informatics](https://www.ed.ac.uk/pg/803%20)                          | Students are given an understanding of how to build computational systems as well as being taught the relevant principles of design thinking and making.                                                                                                                                                             |
 
 ### 🇧‍🇪 Belgium
 #### 👉👉 KU Leuven 👈👈
@@ -362,6 +383,13 @@ The admission policy is intended to ensure equal opportunity of access to higher
 - **Reference**: all candidates must submit 2 reference letters
 - **English language proficiency**: students should have a good command of English, both spoken and written. Check the [specific language requirements](http://eng.kuleuven.be/en/study/prospective-students/degree-seeking-students/prerequisites-for-degree-seeking-students).
 - Relevant **professional certifications** and **work experience** can be taken into account.
+#### 👉 Ghent University
+##### Master of Science in Computer Science Engineering
+🚪 https://oasis.ugent.be/oasis-web/registratie?0&target=inschrijven&aj=2025&arCode=EMCOSC
+
+https://studiekiezer.ugent.be/2025/master-of-science-in-computer-science-engineering-en
+
+
 ### 🇩🇪 Germany
 https://www.aps.org.cn/zh/
 https://www.tum.de/en/studies/application/application-info-portal/uni-assist
@@ -483,6 +511,8 @@ https://www.uni-stuttgart.de/en/study/study-programs/Computer-Science-M.Sc.-0000
 - **试行期资格：** 巴黎大学、格勒诺布尔大学、蔚蓝海岸大学、里昂大学、图卢兹大学。
 #### 👉 Paris-Saclay University
 
+#### 👉 École Polytechnique (X)
+
 #### 👉 IPP (Insitut Polytechnique de Paris)
 🚪 https://candidatures.polytechnique.fr/candidatures-mutualisees/logincandidature/?cursus=
 
@@ -496,8 +526,6 @@ https://www.ip-paris.fr/en
 6. PhD Program (3)
 
 Cooperation with China
-
-
 #### 👉 PSL (Paris Sciences & Lettres University)
 apply portal https://espacecandidature.psl.eu/s/?language=en_US
 ##### Computer Science (2-year Master /5-year MS+PhD)
@@ -539,10 +567,52 @@ All other candidates are also welcome to apply during this period. 
 ##### Cyber Security
 https://ethz.ch/en/studies/master/application/master-cybsec.html
 ##### Data Science
-
 #### 👉 EPFL École polytechnique fédérale de Lausanne
 
+#### 👉 University of Zurich(UZH)
+🚪 https://studentservices.uzh.ch/uzh/application/index.html?sap-language=EN
 
+https://www.uzh.ch/en/studies/application.html
+
+Regular Studies
+- [Master's Degree](https://www.uzh.ch/en/studies/application/master.html)  
+- [Doctoral Studies](https://www.uzh.ch/en/studies/application/doctoralstudies.html)  
+- [Language Requirements](https://www.uzh.ch/en/studies/application/languagerequirements.html)  
+- [Application Deadlines](https://www.uzh.ch/en/studies/application/deadlines.html)  
+- ⭐ [Online Application and Application Procedure](https://www.uzh.ch/en/studies/application/apply.html)  
+- [International Students – Entry and Residence](https://www.uzh.ch/en/studies/application/entry.html)
+
+Mobility within Switzerland
+- [Mobility within Switzerland – Incoming](https://www.uzh.ch/en/studies/application/chmobilityin.html)  
+- [Application Deadlines](https://www.uzh.ch/en/studies/application/deadlines.html)  
+- [Online Application and Application Procedure](https://www.uzh.ch/en/studies/application/apply.html)  
+- [Mobility within Switzerland – Outgoing](https://www.uzh.ch/en/studies/application/chmobilityout.html)
+
+International Student Mobility
+- There is a separate application procedure for international mobility. Please contact the [Global Student Experience.](https://www.int.uzh.ch/en.html)
+
+Help / FAQ
+- [FAQ on Application and Admission](https://www.uzh.ch/en/studies/application/faq.html)  
+- [Contact/Opening Hours Student Administration Office & Admissions Office](https://www.uzh.ch/en/studies/dates/adresses.html)
+
+General Information
+- [Fees and Contributions](https://www.uzh.ch/en/studies/application/fees.html)  
+- [Legal Basis](https://www.uzh.ch/en/studies/application/legalbasis.html)  
+- [Degree Programs](https://www.uzh.ch/en/studies/programs.html)  
+- [Semester Dates](https://www.uzh.ch/en/studies/dates.html)  
+- [Disability Office, Student Financial Aid Office and others](http://www.students.uzh.ch/en/advice.html)  
+- [Auditors](https://www.uzh.ch/en/events/events/audit.html)  
+- [Entrance Examination UZH](https://www.uzh.ch/en/studies/application/bachelor/entrancexamination.html)
+
+
+----
+Master Programmes 
+- [Informatics](https://www.uzh.ch/en/studies/programs/master/informatics.html)
+- [Information Systems](https://www.uzh.ch/en/studies/programs/master/information_systems.html)
+- [Computational Linguistics and Language Technology](https://www.uzh.ch/en/studies/programs/master/computerlinguistics_language_technology.html)
+- [Computational Science](https://www.uzh.ch/en/studies/programs/master/computational_science.html)
+- [Data Science](https://www.uzh.ch/en/studies/programs/master/data_science.html)
+- [Software Systems](https://www.uzh.ch/en/studies/programs/master/software_systems.html)
 ### 🇳🇱 Netherlands | Holland
 🚪 https://www.studielink.nl/dashboard/home
 
@@ -788,8 +858,11 @@ The following documents must be uploaded before the application deadline:
 ### 🇩🇰 Danmark
 [浅聊丹麦找工/移居情况]: https://www.reddit.com/r/iwanttorun/comments/1d9knjq/浅聊丹麦找工移居情况/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
-
+🚪 https://dans.stads.dk/SelfUserRegistration/faces/WelcomePage.jspx
 #### 👉 University of Copenhagen
+#### MSc in Computer Science
+https://www.ku.dk/studies/masters/computer-science#abount
+
 #### 👉 Technical University of Denmark (DTU)
 ##### Master of Science (MSc) in Computer Science and Engineering
 https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering
@@ -811,8 +884,15 @@ https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-an
 	- https://www.dtu.dk/english/education/graduate/industry-master-of-science-in-engineering
 - Tuition fee waivers for International non-EU/EEA MSc students
 	- https://www.dtu.dk/english/education/graduate/fees-and-funding/tuition_fee_waivers
+#### 👉 Aarhus University
+🚪 https://dans.stads.dk/SelfUserRegistration/faces/WelcomePage.jspx
 
-
+https://masters.au.dk/
+master application 
+##### Computer Science
+https://masters.au.dk/computerscience
+##### Data Science
+https://masters.au.dk/datascience
 
 ### 🇳🇴 Norway
 #### 👉 NTNU (Norway University of Science and Technology)
@@ -906,6 +986,23 @@ Tracks
 #### 👉 Lund University
 
 #### 👉 Uppsala University
+
+
+### 🇮‍🇹 Italy
+#### 👉 Alma Mater Studiorum - Università di Bologna
+##### Computer Science and Engineering
+https://www.unibo.it/en/study/second-cycle-degree/programme/2024/8614
+
+
+#### 👉 Politecnico Di Torino
+
+|                                                                                                                                                         | taught in | partially offered |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- |
+| **Computer Engineering/Ingegneria Informatica (Computer Engineering)**                                                                                  |           |                   |
+| [INGEGNERIA INFORMATICA (COMPUTER ENGINEERING)](https://www.polito.it/didattica/corsi-di-laurea-magistrale/ingegneria-informatica-computer-engineering) |           | 🇮‍🇹 🇬‍🇧       |
+| [COMPUTER ENGINEERING](https://www.polito.it/en/education/master-s-degree-programmes/computer-engineering)                                              | 🇬‍🇧     |                   |
+| **Cybersecurity**                                                                                                                                       | <br>      |                   |
+| [CYBERSECURITY](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity)                                                            | 🇬‍🇧<br> |                   |
 
 
 ### 🇷🇺 Russia
@@ -1476,6 +1573,15 @@ Data Science Certificate
 #### 👉 University of Notre Dame (ND)
 #### 👉 Rice University (RU)
 #### 👉 Emory University (EU)
+##### MSCS
+🚪 https://laneyconnect.emory.edu/apply/
+https://computerscience.emory.edu/graduate-ms/index.html
+- [Handbook](https://computerscience.emory.edu/documents/csms-handbook-2024-v3.pdf)
+- [Admission](https://computerscience.emory.edu/graduate-ms/admissions/index.html)
+	- [Requirements](https://graduateschool.emory.edu/admissions/requirements.html)
+	- [Application Fee Waivers](https://gs.emory.edu/admissions/fee-waivers)
+	- [Application Instructions](https://graduateschool.emory.edu/admissions/application.html)
+
 #### 👉 Northeastern University (NEU)
 
 东北大学的硅谷分校值得去读吗？羽帆Go Campus学员带来就读体验分享 - 羽帆留学的文章 - 知乎
@@ -1713,6 +1819,19 @@ In addition, the department’s faculty members play a significant role in two o
 #### 👉 University of Massechusett (UMass)
 ##### Master of Science in Computer Science
 https://www.umass.edu/graduate/academics/master-science-computer-science
+#### 👉 William & Marry
+##### Computer Science
+https://www.wm.edu/as/computerscience/graduate/
+
+The M.S. programs are appropriate for students who intend either to improve their professional skills or to prepare for doctoral studies in computer science. The requirements for an M.S. degree normally can be completed in two years or less, even without prior graduate-level coursework in computer science. 
+
+We offer three different paths to a M.S. in Computer Science (links go to Catalog requirements):
+- [M.S. Computer Science](https://catalog.wm.edu/preview_program.php?catoid=31&poid=6372)
+- [M.S. Computer Science, Machine Learning Concentration](https://catalog.wm.edu/preview_program.php?catoid=31&poid=6496)
+- [M.S. Computer Science, Cyber Security Concentration](https://catalog.wm.edu/preview_program.php?catoid=31&poid=6495)
+- [M.S. Computer Science, Computational Operations Research Concentration](https://catalog.wm.edu/preview_program.php?catoid=31&poid=6373)
+- [M.S. Computer Science, Computational Science Concentration](https://catalog.wm.edu/preview_program.php?catoid=31&poid=6435)
+
 
 ### 🇨🇦 Canada
 为什么去加拿大读研究生不是那么火？ - 加拿大ophelia的回答 - 知乎 https://www.zhihu.com/question/379401223/answer/1860006662 
@@ -2092,6 +2211,7 @@ KAUST申请经验：面试失败的我，被教授反套磁“重获”全奖硕
 #### 👉 UTS (University of Technology Sydney)
 
 [UTS | Wikipedia]: https://en.wikipedia.org/wiki/University_of_Technology_Sydney
+#### 👉 
 
 
 

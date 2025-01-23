@@ -20,7 +20,7 @@
 ↗ [Systems on Chip (SOC)](../Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
 
 ↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md) 🤔🤔🤔
-↗ [Semiconductor Industry & Companies](../../../Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
+↗ [Semiconductor Industry & Companies](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Semiconductor%20Industry%20&%20Companies.md)
 
 
 ### Other Resources

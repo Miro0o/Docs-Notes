@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [User Scripts & Browser Extends](../../Browsers/User%20Scripts%20&%20Browser%20Extends.md)
+↗ [Browser Extensions & Automation](../../🔍%20Web%20Browsers%20&%20Searching/Browser%20Extensions%20&%20Automation.md)
 
 
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Browsers](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Browsers/Browsers.md)
+↗ [Web Browsers](../../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
 ↗ [Web Browsers Development](../../../../Software%20Engineering/Desktop%20&%20Monolithic%20Application%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
 
 

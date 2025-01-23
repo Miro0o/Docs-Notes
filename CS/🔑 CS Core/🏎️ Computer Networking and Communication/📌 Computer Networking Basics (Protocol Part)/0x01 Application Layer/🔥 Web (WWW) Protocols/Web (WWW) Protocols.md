@@ -27,7 +27,7 @@
 
 
 ### Web Use
-↗ [Wiki Projects & Wikimedia Foundation (WMF)](../../../../🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 
 
@@ -60,7 +60,7 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 
 ### Web Browser /Front End
-↗ [Browsers](../../../../🧰%20Generic%20Tools%20&%20Projects/Browsers/Browsers.md)
+↗ [Web Browsers](../../../../🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
 ↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 
 

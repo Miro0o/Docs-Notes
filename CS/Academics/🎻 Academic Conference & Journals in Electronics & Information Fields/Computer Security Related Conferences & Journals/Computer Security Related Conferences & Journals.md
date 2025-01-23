@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Security Industry & Companies](../../../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
-↗ [信息安全相关学术会议列表](../../Appendix/信息安全相关学术会议列表.md)
+↗ [Security Industry & Companies](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Security%20Industry%20&%20Companies.md)
+↗ [信息安全相关学术会议列表](../../../Appendix/信息安全相关学术会议列表.md)
 
 
 ### Conferences
@@ -43,7 +43,7 @@ Workshop on the Economics of Information Security (WEIS)
 
 
 ### Others
-👍 https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+👍 [Computer Security Conference Ranking and Statistic | Guofei Gu](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
 - Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
 - Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
 
@@ -58,12 +58,11 @@ https://people.engr.tamu.edu/guofei/links.htm
 	- [ACM TWEB](http://tweb.acm.org/),  [IEEE TPDS](http://www.computer.org/tpds), [COMNET](http://www.journals.elsevier.com/computer-networks/), [ToN](http://www.ton.seas.upenn.edu/), [TNSM](http://dl.comsoc.org/tnsm/),  
 	- Networking: [CFP link maintained by Tim Moors](http://maestro.ee.unsw.edu.au/%7Etimm/netconf/) , [Networking,P2P CFP by Matei Ripeanu at uchicago](http://people.cs.uchicago.edu/%7Ematei/PAPERS/cfp.html) , [Ad hoc, sensor network conference and deadline](http://www.cs.virginia.edu/%7Eadw5p/conferences.html)
 - I founded the [Security Reading Group](http://www-static.cc.gatech.edu/%7Eguofei/srg/) at [GTISC](http://www.gtisc.gatech.edu/), Georgia Tech.
-- I'm maintaining a list of [computer security conference ranking and statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
+- ⭐ I'm maintaining a list of [computer security conference ranking and statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
 - Kevin Almeroth's [Networking Conference Statistics](http://www.cs.ucsb.edu/%7Ealmeroth/conf/stats/)
 - Security Research Groups: [GTISC](http://www.gtisc.gatech.edu/index.html) , [GMU](http://www.list.gmu.edu/) , [UC Davis](http://seclab.cs.ucdavis.edu/) , [CMU CyLab](http://www.cylab.cmu.edu/) , Purdue [CERIAS](http://www.cerias.purdue.edu/) , Stanford [SecLab](http://crypto.stanford.edu/seclab/) , [Princeton](http://www.cs.princeton.edu/sip/) , [Cornell IAI](http://www.cis.cornell.edu/iai/index.htm) , [NCSU](http://cdl.csc.ncsu.edu/) , [UCSB](http://www.cs.ucsb.edu/%7Ersg/) , [UCSD](http://www-cse.ucsd.edu/groups/crypto/) , [Columbia](http://www1.cs.columbia.edu/ids/) , [MIT CIS](http://theory.lcs.mit.edu/%7Ecis/) , [](http://seclab.cs.sunysb.edu/seclab1/)[WISC Safety Analyzer](http://www.cs.wisc.edu/wisa/)
 - Security Reading Groups: [GTISC SRG](https://people.engr.tamu.edu/guofei/srg) , [UIUC SRG](http://ciae.cs.uiuc.edu/SRG/) , [Wisc SRG](http://www.cs.wisc.edu/areas/sec/secreadsch.html) , [Dartmouth SRG](https://wiki.cs.dartmouth.edu/srg/doku.php) , CMU SRG , [CERIAS SRG](http://homes.cerias.purdue.edu/%7Ecrisn/reading_group.html), [Purdue DS2](http://projects.cerias.purdue.edu/ds2/lab_sched.html) , [Berkley SRG](http://www.cs.berkeley.edu/%7Edmolnar/secreadgroup.html) , [UVA SRG](http://www.cs.virginia.edu/nora/srg/) , [NYU CRG](http://www.scs.cs.nyu.edu/crypto/) , [UCDavis SRG](http://sthelens.cs.ucdavis.edu/%7Efhsu/security/readinggroup.html)
 - People working in system & network security [by Zhiqian Lin](http://www.cs.purdue.edu/homes/zlin/people.html)  
-    
 - IDS reading list: [By Wenke Lee](http://www.cc.gatech.edu/%7Ewenke/ids-readings.html), [By Guofei Gu](https://people.engr.tamu.edu/guofei/ids-readinglist.htm) 
 - Research skills: [Advice Collection by Tao Xie](http://people.engr.ncsu.edu/txie/advice.htm),  [Advice on Research and Writing](http://www-2.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html) , [Paper Reading Check List](http://bbcr.uwaterloo.ca/%7Ebrecht/courses/856/readings/general/jamin-checklist.html) , [How to Read a Research Paper](http://bbcr.uwaterloo.ca/%7Ebrecht/courses/856/readings/general/how-to-read.txt) ,  Some [writing tips](http://www-net.cs.umass.edu/kurose/writing/) from Dr. Kurose, [Writing reviews](https://people.engr.tamu.edu/guofei/people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) for system conferences, [Networking on the network](http://polaris.gseis.ucla.edu/pagre/network.html) , [You and Your Research by Richard Hamming](https://people.engr.tamu.edu/guofei/hamming-on-research.pdf) 
 - Computing: [Java Reference](http://java.sun.com/j2se/1.4.2/docs/api/index.html) , [C/C++ Reference](http://www.cppreference.com/) , [C++ resource](http://www.cplusplus.com/) , [C++ STL](http://www.sgi.com/tech/stl/index.html) , [LaTeX Reference](http://www.whoishostingthis.com/resources/tex-latex/) , [Latex Tutorial](http://www.maths.tcd.ie/%7Edwilkins/LaTeXPrimer/), [Matlab Function](http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.shtml) , [Cliff Zou's Notes on Linux](http://tennis.ecs.umass.edu/%7Eczou/linux.html) , [Algorithm Repository](http://www.cs.sunysb.edu/%7Ealgorith/index.html) , [ns-2](http://www.isi.edu/nsnam/ns/index.html) , [Engineering Statistic](http://www.itl.nist.gov/div898/handbook/index.htm) , [Some Computing Resources](http://amath.colorado.edu/computing/) , [Queueing Books Online](http://www2.uwindsor.ca/%7Ehlynka/qonline.html) , [MIT Open Courseware](http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/index.htm) , [Cryptology Pointers](http://research.cyber.ee/%7Elipmaa/crypto/) , [CRA job](http://www.cra.org/main/cra.jobs.html), [Security tools](http://www.insecure.org/tools.html) , [GNUPLOT](http://www.duke.edu/%7Ehpgavin/gnuplot.html), [GNUPLOT 2](http://t16web.lanl.gov/Kawano/gnuplot/index-e.html), [GAWK](http://www.gnu.org/software/gawk/manual/gawk.html), [Bash](http://www.tldp.org/LDP/abs/html/), [Mastering VI](http://www.eng.hawaii.edu/Tutor/vi.html), [Python Tutorial](http://docs.python.org/tut/tut.html) 

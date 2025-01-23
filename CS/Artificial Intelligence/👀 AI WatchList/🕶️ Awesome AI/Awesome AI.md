@@ -8,8 +8,8 @@
 ### Related Topics
 ↗ [Artificial Intelligence](../../../../Artificial%20Intelligence/Artificial%20Intelligence.md)
 
-↗ [Prompt Engineering](../../🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Optimization%20&%20Tuning/Prompt%20Engineering/Prompt%20Engineering.md)
-↗ [AI x SE](../../../../Software%20Engineering/🤖%20AI%20x%20SE/AI%20x%20SE.md)
+↗ [Prompt Engineering](../../🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training%20&%20Tuning/Prompt%20Engineering/Prompt%20Engineering.md)
+↗ [AI(LLM) x SE](../../../Software%20Engineering/🤖%20AI(LLM)%20x%20SE/AI(LLM)%20x%20SE.md)
 
 
 ### Products /Tools /Projects

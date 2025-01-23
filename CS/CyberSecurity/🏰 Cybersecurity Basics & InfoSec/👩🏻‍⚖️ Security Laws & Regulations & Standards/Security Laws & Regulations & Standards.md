@@ -6,10 +6,10 @@
 
 ## Res
 ### Related Topics
-↗ [IT Laws & Institutions in China](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20IT%20Laws%20&%20Institutions%20in%20China/IT%20Laws%20&%20Institutions%20in%20China.md)
-↗ [IT Laws & Institutions in European Union](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇪🇺%20IT%20Laws%20&%20Institutions%20in%20European%20Union/IT%20Laws%20&%20Institutions%20in%20European%20Union.md)
-↗ [IT Laws & Institutions in United Kingdom](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇬🇧%20IT%20Laws%20&%20Institutions%20in%20United%20Kingdom/IT%20Laws%20&%20Institutions%20in%20United%20Kingdom.md)
-↗ [IT Laws & Institutions in United States](../../../🔑%20CS%20Core/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇺🇸%20IT%20Laws%20&%20Institutions%20in%20United%20States/IT%20Laws%20&%20Institutions%20in%20United%20States.md)
+↗ [IT Laws & Institutions in China](../../../🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇨🇳%20IT%20Laws%20&%20Institutions%20in%20China/IT%20Laws%20&%20Institutions%20in%20China.md)
+↗ [IT Laws & Institutions in European Union](../../../🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇪🇺%20IT%20Laws%20&%20Institutions%20in%20European%20Union/IT%20Laws%20&%20Institutions%20in%20European%20Union.md)
+↗ [IT Laws & Institutions in United Kingdom](../../../🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇬🇧%20IT%20Laws%20&%20Institutions%20in%20United%20Kingdom/IT%20Laws%20&%20Institutions%20in%20United%20Kingdom.md)
+↗ [IT Laws & Institutions in United States](../../../🗺%20CS%20Overview/Laws%20&%20Regulations%20in%20Electronic%20&%20Information%20Fields/🇺🇸%20IT%20Laws%20&%20Institutions%20in%20United%20States/IT%20Laws%20&%20Institutions%20in%20United%20States.md)
 
 
 ### Other Resources

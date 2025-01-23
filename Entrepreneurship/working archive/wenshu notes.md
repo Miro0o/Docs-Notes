@@ -97,10 +97,47 @@ https://www.xiaohongshu.com/user/profile/58d9cadd82ec397eff42b358?xhsshare=CopyL
 📖Vanderbilt-UPenn
 📝在美国做教育
 📍西雅图
+
+---
+https://www.xiaohongshu.com/user/profile/60a26304000000000101cf58?xsec_token=ABYGOMSazpfrHJlty5M9LvVRkloxWFYcXuz1o2vm7Hi-Y=&xsec_source=pc_note
+UT学长的留学工作室
+
+📢 留学大百科 ｜ 专攻cs相关研 ｜英语学习经验 📍 文书指导 ｜英语指导 ｜CS课程问题解答 🎓 美国理工top10全奖研究生毕业 —> 算法工程师 ✊ 帮助大家高质量留学，以及学好英语
+
+![](../../Assets/Pics/Screenshot%202025-01-21%20at%2013.23.34.png)
+
+---
+https://www.xiaohongshu.com/user/profile/6340c8a4000000001901c65c?xsec_token=ABli6ZVNMWht-bKwzbghvfX6sWseEctmr1C3TaAQ0Yrh4%3D&xsec_source=pc_search
+宾大学姐羊
+藤校教育&艺术双专业，终身学习&连续创业者 英语论文，托雅培训，国际竞赛指路 Find me @宾大小羊本羊
+
+![](../../Assets/Pics/Screenshot%202025-01-21%20at%2013.24.38.png)
+
+
+---
+https://www.xiaohongshu.com/user/profile/64a418bf000000002a03510a?xsec_token=AB5HpZzQQG2qTmiv3qUZZN1lx638jP9PWP61t54p83XYk=&xsec_source=pc_search
+AnnAnn学姐留学
+与🍠同号 每月限量接
+
+![](../../Assets/Pics/Screenshot%202025-01-21%20at%2013.26.49.png)
+
+###### 其他一些人
+https://www.xiaohongshu.com/user/profile/60ea5ca40000000001004b69?xsec_token=ABMh7YotGzk-eoDKFoZUposGya0Y-0bZzDeN0Iwc_knFs=&xsec_source=pc_note
+人间无事人
+01 巨蟹座 SJTU -> UCB MEng IT外企工程师 分享留学经历和找工经验
+
+![](../../Assets/Pics/Screenshot%202025-01-21%20at%2013.22.20.png)
+
+---
+https://www.xiaohongshu.com/user/profile/5cfadf2e00000000050210f6?xsec_token=ABLPlfBTwrxrHbhHPIfy4taJWhCpZOaG00qZzVt4S42H8=&xsec_source=pc_note
+弗兰克读博日常
+📖🇺🇸CS PhD Student 📝记录读博日常｜科研学习｜留美9年经验分享 📷探索生活｜提升自己
+
+![](../../Assets/Pics/Screenshot%202025-01-21%20at%2013.25.49.png)
+
 ###### 营销贴文案/思路
 ![](../../Assets/Pics/Screenshot%202024-08-28%20at%2023.41.06.png)
 11 【25fall留学文书个人原创写作个人陈述动机信 - 小红薯6629F3A4 | 小红书 - 你的生活指南】 😆 CuoFtIUxrR10Ftb 😆 https://www.xiaohongshu.com/discovery/item/66887dc1000000001f005d3e?source=webshare&xsec_token=CBMo_o9HEWwLxkGl52fqtkH5LcpxT9kiCGQy-NOsaNzyY=&xsec_source=pc_share
-
 
 ##### 营销技术
 ###### 总体要领
@@ -130,9 +167,7 @@ https://www.xiaohongshu.com/user/profile/58d9cadd82ec397eff42b358?xhsshare=CopyL
 
 http://xhslink.com/ta9XdQ
 
-
 **真诚型**
-
 真诚分享经验，用真诚和真实打动人
 ![](../../Assets/Pics/Screenshot%202024-07-20%20at%2011.52.00%20PM.png)
 40 七斤芝士发布了一篇小红书笔记，快来看吧！ 😆 Op4iWVUQwjNqsnV 😆 http://xhslink.com/KGyFCO，复制本条信息，打开【小红书】App查看精彩内容！

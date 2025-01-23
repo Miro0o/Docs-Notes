@@ -25,7 +25,7 @@
 
 ### Ali DNS Service
 3、阿里 （[http://alidns.com/](https://link.zhihu.com/?target=http%3A//alidns.com/)）
-	223.5.5.5  
+	223.5.5.5
 	223.6.6.6  
 
 ### Baidu DNS Service
