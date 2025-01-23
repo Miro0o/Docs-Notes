@@ -16,6 +16,8 @@
 ↗ [HDL (Hardware Definition Languages)](../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
 ↗ [Web Templating Engines & Languages](../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
+↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+↗ [Galleries & Awesome SE](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 
 ↗ [Program Debugging & Defensive Programming](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debugging%20&%20Defensive%20Programming.md)
 ↗ [System Level Programming](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
@@ -24,7 +26,7 @@
 ↗ [Network Programming & RPC](../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 - ↗ [DPDK (Data Plane Development Kits)](../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/DPDK%20(Data%20Plane%20Development%20Kits)/DPDK%20(Data%20Plane%20Development%20Kits).md)
 ↗ [ML Programming & Frameworks](../../Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/ML%20Programming%20&%20Frameworks.md)
-↗ [Computer Media Programming](../../Software%20Engineering/Computer%20Media%20Programming/Computer%20Media%20Programming.md)
+↗ [Computer Graphics Programming](../../Software%20Engineering/Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
 ↗ [Concurrent Programming](../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
 ↗ [Embedded Programming](../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/Embedded%20Programming.md)
 

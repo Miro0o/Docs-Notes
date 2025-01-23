@@ -12,7 +12,7 @@
 ![img](../../Assets/Pics/title.png)
 
 CS自学指南
-- ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
+- ↗ [一个仅供参考的CS学习规划](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/一个仅供参考的CS学习规划.md)
 - 🏠 https://csdiy.wiki
 - 🚧 https://github.com/PKUFlyingPig/cs-self-learning
 
@@ -134,7 +134,7 @@ Software Engineering
 ### 1️⃣ CS Quick Intro /Foundations /Core Knowledge
 1. Quick CS Intro
 	1. ↗ [Intro to Computer Science](💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-	2. ↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
+	2. ↗ [一个仅供参考的CS学习规划](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/一个仅供参考的CS学习规划.md)
 2. CS Core /Foundation
 	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
 	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
@@ -189,15 +189,15 @@ Software Engineering
 ### 3️⃣ Dig into CS/IT Academia or Industry
 ↗ [Academics](../Academics/Academics.md)
 - ↗ [Academic Conference & Journals in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
-- ↗ [Academic Institutions in Electronic & Information Fields](../Academics/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+- ↗ [Academic Institutions in Electronic & Information Fields](../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
-↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 
 
 ## 🎉 More Res
-> ↗ [Wiki Projects & Wikimedia Foundation (WMF)](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/😅%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
-> ↗ [实用工具箱](CS自学指南（转）/实用工具箱.md)
+> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+> ↗ [实用工具箱](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 
 
 ### Beyond CS/IT ..
@@ -270,7 +270,7 @@ Hacker News is a social news website focusing on computer science and entreprene
 🔈 https://hnrss.github.io/#activity-parameters
 hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
 #### Enterprise's Updates
-↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 #### CS/IT Communities & Forums
 **LINUX DO**
 🏠 https://linux.do
@@ -518,7 +518,7 @@ https://www.paulfioravanti.com
 code /language / mech/ Learning stenography
 https://www.paulfioravanti.com/blog/thanks-past-me/
 #### (Enterprise) Technical Supports & Blogs & Product Manuals
-↗ [Electronics & Information Technologies Business Fields Research](../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 ---
 https://developers.redhat.com
@@ -536,7 +536,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 ### PPL & Personal Blogs
 > ↗ [Web Blog Themes](../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Academic Research Group Profiles](../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
+> ↗ [Academic Research Group & Tutors Profiles](../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
@@ -666,6 +666,27 @@ https://www.peterjxl.com
 本人利用业余时间不断学习，坚持输出文章两年多，不知不觉博客数量已经 900+ 了 😀
 
 本站大部分文章都是作者原创（转载会注明出处），长期更新，内容包括：计算机基础、Java、职场、效率软件、英语、生活、读书等，持续更新
+
+---
+https://research.swtch.com/
+
+**Russ Cox**
+[The Go Programming Language](http://golang.org/)
+
+[Plan 9 from Bell Labs](http://plan9.bell-labs.com/plan9)  
+[Plan 9 kernel history](http://swtch.com/plan9history) 1990-2003  
+[Plan 9 from User Space](http://swtch.com/plan9port) (Plan 9 on Unix)  
+[9fans mailing list archives](http://9fans.net/archive/)
+
+[Online Encyclopedia of Integer Sequences](http://www.research.att.com/~njas/sequences/)
+
+[6.828: Operating System Engineering](http://pdos.csail.mit.edu/6.828)  
+
+[xoc](http://pdos.csail.mit.edu/xoc/) (an extensible compiler; unsupported)
+
+[Chord](http://pdos.csail.mit.edu/chord/)  
+
+[USA Computing Olympiad](http://www.usaco.org/)
 
 
 ### Campus Lifes

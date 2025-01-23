@@ -50,10 +50,15 @@ https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
 
 👍 👨‍💻 https://en.algorithmica.org/hpc/ | Algorithms for Modern Hardware
 🚧 https://github.com/algorithmica-org/algorithmica
+- This is an upcoming high performance computing book titled “Algorithms for Modern Hardware” by [Sergey Slotin](http://sereja.me/).
+- Its intended audience is everyone from performance engineers and practical algorithm researchers to undergraduate computer science students who have just finished an advanced algorithms course and want to learn more practical ways to speed up a program than by going from $O(n\log{n})$ to $O(n\log⁡{\log⁡{n}})$.
 
-This is an upcoming high performance computing book titled “Algorithms for Modern Hardware” by [Sergey Slotin](http://sereja.me/).
-
-Its intended audience is everyone from performance engineers and practical algorithm researchers to undergraduate computer science students who have just finished an advanced algorithms course and want to learn more practical ways to speed up a program than by going from $O(n\log{n})$ to $O(n\log⁡{\log⁡{n}})$.
+📖 Algorithms 4th Edition
+by Robert Sedgewick, Kevin Wayne | https://algs4.cs.princeton.edu/code/
+- 🚧 https://github.com/kevin-wayne/algs4
+	- This [public repository](https://github.com/kevin-wayne/algs4) contains the Java [source code](http://algs4.cs.princeton.edu/code/) for the algorithms and clients in the textbook [Algorithms, 4th Edition](http://amzn.to/13VNJi7) by Robert Sedgewick and Kevin Wayne. The official version at [https://github.com/kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) is actively maintained and updated by the authors. The programs are organized in the package `edu.princeton.cs.algs4`. If you need only the class files (and not the source code), you can use [algs4.jar](http://algs4.cs.princeton.edu/code/algs4.jar) instead.
+- 🚧 https://github.com/landerrosette/algs4
+	- This repository contains C++ implementations of the algorithms and clients in the textbook [Algorithms, 4th Edition](http://amzn.to/13VNJi7) by Robert Sedgewick and Kevin Wayne.
 
 
 ### Online Judge (OJ)

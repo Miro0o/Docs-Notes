@@ -12,7 +12,7 @@
 - ↗ [Computer Architecture](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 
 ↗ [🌲 Road To CS](../🌲%20Road%20To%20CS.md)
-↗ [一个仅供参考的CS学习规划](../CS自学指南（转）/一个仅供参考的CS学习规划.md)
+↗ [一个仅供参考的CS学习规划](CS自学指南（转）/一个仅供参考的CS学习规划.md)
 
 
 ### Courses
@@ -43,10 +43,15 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 
 
 ## 🐕 Computer Science Introduction & Overview
+### Why is CS?
+![Universe_and_CS.excalidraw | 800](../../../Assets/Illustrations/Computer%20Science%20Philosophy/Universe_and_CS.excalidraw.md)
+
+
+### What is CS?
 > 🔗 https://en.wikipedia.org/wiki/Computer_science#Fields
 > 🔗 https://en.wikipedia.org/wiki/Outline_of_computer_science
 
-**Computer science is the study of [computation](https://en.wikipedia.org/wiki/Computation "Computation"), [information](https://en.wikipedia.org/wiki/Information "Information"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").** Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") (such as algorithms, theory of computation, and information theory) to [applied disciplines](https://en.wikipedia.org/wiki/Applied_science "Applied science") (including the design and implementation of hardware and software). 
+**Computer science is the study of [information](https://en.wikipedia.org/wiki/Information "Information"), [computation](https://en.wikipedia.org/wiki/Computation "Computation"), and [automation](https://en.wikipedia.org/wiki/Automation "Automation").**  Computer science spans [theoretical disciplines](https://en.wikipedia.org/wiki/Theoretical_computer_science "Theoretical computer science") (such as algorithms, theory of computation, and information theory) to [applied disciplines](https://en.wikipedia.org/wiki/Applied_science "Applied science") (including the design and implementation of hardware and software). 
 
 ![](../../../Assets/Pics/Screenshot%202024-03-16%20at%206.15.49%20PM.png)
 <small><a>https://en.wikipedia.org/wiki/Computer_science#External_links</a></small>
@@ -56,19 +61,17 @@ https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667&spm_id
 
 ![computer_architecture.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 <small>Computer System & Computer Science Overview</small>
-
-
-### CS Fields
+#### CS Subjects
 As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software. [CSAB](https://en.wikipedia.org/wiki/CSAB_(professional_organization) "CSAB (professional organization)"), formerly called **Computing Sciences Accreditation Board** — which is made up of representatives of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM), and the [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society "IEEE Computer Society") (IEEE CS) — identifies four areas that it considers crucial to the discipline of computer science: _theory of computation_, _algorithms and data structures_, _programming methodology and languages_, and _computer elements and architecture_. In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation "Symbolic computation") as being important areas of computer science.
-#### 1️⃣ Theoretical Computer Science (TCS)
+##### 1️⃣ Theoretical Computer Science (TCS)
 ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-#### 2️⃣ Computer System
+##### 2️⃣ Computer System
 ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 ↗ [System Architecture Design](../../System%20Architecture%20Design/System%20Architecture%20Design.md)
-#### 3️⃣ Applied Computer Science (ACS)
+##### 3️⃣ Applied Computer Science (ACS)
 ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 ↗ [Artificial Intelligence](../../Artificial%20Intelligence/Artificial%20Intelligence.md)
 ↗ [Data Science](../../Data%20Science/Data%20Science.md)
@@ -76,18 +79,24 @@ As a discipline, computer science spans a range of topics from theoretical studi
 ↗ [Embedded & Internet of Things](../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
 
 
-### Questions Leading my CS Study
+### How to CS (🤔 Questions Leading my CS Study)
 > ↗ [🌲 Road To CS /🚀 A Serious CS Roadmap](../🌲%20Road%20To%20CS.md#🚀%20A%20Serious%20CS%20Roadmap)
 
-1. What is information? (Theory of Information)
+1. What is the universe?
+	1. What is the life?
+	2. What is the intelligence?
+	4. What is science?
+		1. Arts and Humanity 🆚 Natural Science ?
+----
+1. What is data /information? (Theory of Information)
 	1. ↗ [Information Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Information%20Theory/Information%20Theory.md)
 	2. ↗ [Information, Data, Number and Math in Digital Systems](😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems.md)
-2. What is computing? (Computability & Complexity) /What computation can be automated?
+2. What is computing? (Computability & Complexity) /What computation can be automated? /How to design a computing model?
 	1. ↗ [Theory of Computation](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 		1. ↗ [Computability Theory & Turing Machine](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computability%20Theory%20&%20Turing%20Machine/Computability%20Theory%20&%20Turing%20Machine.md)
 		2. ↗ [Computational Complexity Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Computational%20Complexity%20Theory/Computational%20Complexity%20Theory.md)
 		3. ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-3. what is a computer and how is it designed & constructed? (hardware, software, protocols)
+3. What is a computer and how is it designed & constructed? (hardware, software, protocols)
 	1. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 	2. What composes a computer? /How computer is designed in terms of hardware?
 		1. ↗ [Classical Electromagnetism](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related/🍏%20Other%20Related%20Theories/Classical%20Electromagnetism.md)
@@ -114,7 +123,7 @@ As a discipline, computer science spans a range of topics from theoretical studi
 			8. etc.
 	5. What happened when a network request is sent and a response is received? /How does computer network(or Internet) work?
 		1. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-5. what can computer do and how to improve it? (Application, Efficiency, Scalability, Security「CIA」)
+4. What can computer do and how to improve it? (Application, Efficiency, Scalability, Security「CIA」)
 	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 		1. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 		2. ↗ [Operation Research](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Operations%20Research/Operation%20Research.md)
@@ -127,7 +136,7 @@ As a discipline, computer science spans a range of topics from theoretical studi
 	6. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
 	7. ↗ [Web 3.0 & Cryptocurrency](../../Web%203.0%20&%20Cryptocurrency/Web%203.0%20&%20Cryptocurrency.md)
 	8. ↗ [Human-Computer Interaction](../../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
-6. what is information system? what is cyberspace? what is cybersecurity?
+5. What is information system? What is cyberspace? What is cybersecurity?
 	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
 
 

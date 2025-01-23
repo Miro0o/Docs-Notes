@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Supply Chain Security](../../../../Academics/🗒️%20Papers%20Reading%20Notes/LLM%20&%20Software%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
+↗ [LLM & Supply Chain Security](../../../../Academics/🗒️%20Academic%20Projects%20Workspace/LLM%20&%20Software%20Analysis/LLM%20&%20Supply%20Chain%20Security.md)
 
 ↗ [Malicious Code Detection & Software Analysis](../🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis.md)
 ↗ [Malicious Code & Behavior Discovery](../../../☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/Malicious%20Code%20&%20Behavior%20Discovery.md)
@@ -26,7 +26,7 @@
 ↗ [Code Management (CM) (Git Implementations)](../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/🛫%20Continuous%20Integration/Code%20Management%20(CM)%20(Git%20Implementations)/Code%20Management%20(CM)%20(Git%20Implementations).md)
 ↗ [CLI Package & Software Management](../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🐚%20Shell%20&%20Terminals%20(Console)/📦%20CLI%20Package%20&%20Software%20Management/CLI%20Package%20&%20Software%20Management.md)
 
-↗ [Jfrog](../../../../🔑%20CS%20Core/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Jfrog.md)
+↗ [Jfrog](../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/🛌%20Security%20Industry%20&%20Companies/Jfrog.md)
 
 
 ### Other Resources

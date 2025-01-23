@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [How to write a Resume the right way](../../../CS%20&%20IT%20Jobs%20&%20Interns%20Related/How%20to%20write%20a%20Resume%20the%20right%20way.md)
 
-A good way to find other's CV & Resume: (academic) 🔗 https://csrankings.org/ like ppl here: ↗ [Academic Research Group Profiles](../../../../Academics/Academic%20Research%20Group%20Profiles/Academic%20Research%20Group%20Profiles.md)
+A good way to find other's CV & Resume: (academic) 🔗 https://csrankings.org/ like ppl here: ↗ [Academic Research Group & Tutors Profiles](../../../../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
 ↗ [Social Image & Publicity](../../../../../Personal%20Lives/Social%20Image%20&%20Publicity.md)
 

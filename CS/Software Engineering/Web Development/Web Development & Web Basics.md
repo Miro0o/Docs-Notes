@@ -1,4 +1,4 @@
-# Web Development
+# Web Development & Web Basics
 
 [TOC]
 
@@ -10,7 +10,7 @@
 ↗ [HTTP (HyperText Transfer Protocol)](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/HTTP%20(HyperText%20Transfer%20Protocol)/HTTP%20(HyperText%20Transfer%20Protocol).md)
 
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
-↗ [MLOps](../🤖%20AI%20x%20SE/MLOps/MLOps.md)
+↗ [MLOps](../🤖%20AI(LLM)%20x%20SE/MLOps/MLOps.md)
 
 ↗ [Web Application Systems & Architecture Design](Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 ↗ [Web & DBMS](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Web%20&%20DBMS/Web%20&%20DBMS.md)
@@ -21,7 +21,7 @@
 ↗ [Internet and Internet Protocol Suites (TCP&IP Protocol Suites)](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x00%20Computer%20Network%20and%20Communication%20Introduction%20&%20Overview/Computer%20Network%20Protocol%20Suites%20Standardizations%20&%20Administration/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites)/Internet%20and%20Internet%20Protocol%20Suites%20(TCP&IP%20Protocol%20Suites).md)
 ↗ [Web (WWW) Protocols](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x01%20Application%20Layer/🔥%20Web%20(WWW)%20Protocols/Web%20(WWW)%20Protocols.md)
 
-↗ [Browsers](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Browsers/Browsers.md)
+↗ [Web Browsers](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
 ↗ [Web Browsers Development](../Desktop%20&%20Monolithic%20Application%20Development/Web%20Browsers%20Development/Web%20Browsers%20Development.md)
 
 
