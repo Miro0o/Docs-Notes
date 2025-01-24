@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "5cbdab6e02e95f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entrepreneurship/working archive/wenshu notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wenshu notes"
-            }
-          },
-          {
             "id": "4c793e78eda7efcc",
             "type": "leaf",
             "state": {
@@ -51,39 +36,8 @@
               "icon": "lucide-file",
               "title": "LLM Models Guide"
             }
-          },
-          {
-            "id": "3dd92fff45909198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(CS) Academics Roadmap & Tool Chain"
-            }
-          },
-          {
-            "id": "671ef5031e531acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Academics/Academics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Academics"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md"
+                "file": "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of (CS) Academics Roadmap & Tool Chain"
+              "title": "Outline of International Master & PhD Programs List"
             }
           },
           {
@@ -250,14 +204,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3dd92fff45909198",
+  "active": "2d031c7896d7ff3a",
   "lastOpenFiles": [
-    "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/Bib-Management/Bib-Management.md",
-    "CS/Academics/Academics.md",
-    "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
-    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
-    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
     "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🪜 LLM Models Guide/LLM Models Guide.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/International Master & PhD Programs List.md",
+    "Entrepreneurship/working archive/wenshu notes.md",
+    "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
+    "CS/Academics/Academics.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/CS International Universities & Degrees.md",
+    "CS/🗺 CS Overview/CS International Universities & Degrees/Master & PhD Application Guide/Master & PhD Application Guide.md",
+    "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/Bib-Management/Bib-Management.md",
+    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🔍 Web Browsers & Searching/Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)/Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF).md",
     "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/IEEE Symposium on Security and Privacy (S&P).md",
     "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Network and Distributed System Security (NDSS) Symposium.md",
@@ -276,9 +233,6 @@
     "CS/Academics/🗒️ Academic Projects Workspace/LLM & Federated Learning/LLM & Federated Learning.md",
     "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Applications & LLM-Driven Automation",
     "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Training & Tuning/LLM Evaluation & Benchmarking Datasets.md",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Training & Tuning/LLM Training & Tuning.md",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Infrastructure & Deployment/LLM Infrastructure & Deployment.md",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Training & Tuning/Distillation.md",
     "Assets/Illustrations/Computer Science Philosophy",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Video",
     "CS/Software Engineering/Computer Media Programming/Graphics Programing",
