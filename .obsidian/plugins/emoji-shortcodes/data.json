@@ -4,16 +4,18 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":link:",
+    ":arrow_upper_right:",
     ":door:",
     ":point_right:",
+    ":poodle:",
+    ":house:",
     ":oil_drum:",
     ":eyes:",
     ":mag:",
     ":brain:",
     ":thinking:",
-    ":arrow_upper_right:",
     ":star:",
-    ":link:",
     ":robot:",
     ":student:",
     ":vs:",
@@ -23,7 +25,6 @@
     ":book:",
     ":uk:",
     ":it:",
-    ":house:",
     ":pick:",
     ":thumbsup:",
     ":switzerland:",
@@ -102,7 +103,6 @@
     ":newspaper:",
     ":bell:",
     ":hospital:",
-    ":dog:",
-    ":sunglasses:"
+    ":dog:"
   ]
 }

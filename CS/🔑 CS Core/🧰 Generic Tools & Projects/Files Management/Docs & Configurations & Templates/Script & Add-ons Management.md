@@ -11,10 +11,7 @@
 
 
 ## Intro
-
-
-
-## Desktop
+### Desktop
 - Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
 - Firefox: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 - Safari: [Tampermonkey](http://tampermonkey.net/?browser=safari) or [Userscripts](https://apps.apple.com/app/userscripts/id1463298887)
@@ -24,8 +21,7 @@
 - AdGuard: (no additional software required)
 
 
-
-## Mobile (Android)
+### Mobile (Android)
 - Firefox: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 - Maxthon: [Violentmonkey](http://extension.maxthon.com/detail/index.php?view_id=1680)
 - Dolphin: [Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
@@ -34,10 +30,19 @@
 - [XBrowser](https://www.xbext.com/)
 
 
-
-## Mobile (iOS)
+### Mobile (iOS)
 - Safari: [Tampermonkey](http://tampermonkey.net/?browser=safari) or [Userscripts](https://apps.apple.com/app/userscripts/id1463298887)
 - [Gear](https://gear4.app/): (no additional software required)
+
+
+
+## Tempermonkey
+🏠 https://www.tampermonkey.net/
+
+
+
+## App-Specific Script /Package Managers
+↗ [Project Builder & Manager](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/Project%20Builder%20&%20Manager.md)
 
 
 
