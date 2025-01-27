@@ -132,6 +132,9 @@ Learn about each measure, including free sample questions and explanations, essa
 12/10/2023
 Today i finished my first formal GRE test. I got 157 on vernal part while 169 on quant part. I'm happy with this result!
 
+11/15/2024
+Second GRE test. Verbal 159 / Quant 168. 😁 啥批ETS
+
 
 
 ## Ref

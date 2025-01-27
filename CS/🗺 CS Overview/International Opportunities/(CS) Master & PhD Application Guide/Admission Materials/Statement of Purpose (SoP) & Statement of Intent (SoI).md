@@ -22,6 +22,17 @@ How can I write a good Statement of Purpose essay? | UCB
 https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf
 Writing Your Graduate School Application Essay | CMU
 
+动机信 (Motivation Letter) | 南方科技大学 飞跃手册
+https://sustech-application.com/#/grad-application/computer-science-and-engineering/(ML)-20-linyuhang
+https://fine-seed-211.notion.site/Motivation-Letter-69b629f48b2344c7be7379ed84d403d2?pvs=4
+本文将讲解留学申请中的动机信，英文 Motivation Letter 或 Letter of Motivation。
+本文主要分为五节：
+1. 第一节：解释动机信的含义。本节首先会展示三个申请项目对于动机信的要求，随后我将根据我的申请经验来总结动机信的格式和内容。如果你对“动机信”一词毫无了解，那么本节可以帮助你对“动机信”建立一个基础且正确的印象。
+2. 第二节：解释动机信的内容和格式。本节将沿用第一部分的总结，逐段讲述注意事项和撰写思路。
+3. 第三节：本人动机信案例讲解。本节我会使用我的一封动机信成稿作为案例，逐句讲解我的全文构思、撰写思路，以及其中琐碎的的写作技巧；并且我会尽量将这种思路总结为一种较为通用的模板，以便大家参考。
+4. 第四节：多个项目的动机信。申请多个项目时并不需要为每个项目都写一封动机信，而是基于一个通稿，根据项目具体内容修改其中一两段。本节我将使用我的两封动机信，讲解我根据两个项目的差异而对动机信的修改内容和修改思路。
+5. 第五节：该思路的其他应用。虽然本文讲述的是动机信写作思路，但是其适用性远不止“动机信”这一个文书；其他常见文书和奇奇怪怪的文笔材料也可以套用。
+
 
 
 ## Intro

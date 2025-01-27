@@ -61,6 +61,11 @@ https://qsctech.github.io/zju-icicles/
 ---
 [电子科技大学课程资料共享平台 | Course material sharing platform of UESTC](https://github.com/Xovee/uestc-course)
 > 仓库的内容包括电子科技大学的各类课程复习资料。本仓库为非营利、永久免费的开源项目，仓库之目的即推动**知识传播**、**提高资源质量**、**减少获取成本**、**提倡无纸化资料**、**促进教育公平**，让我电学子在备考、复习之时不必再苦寻资料。仓库内容之充实全凭网友贡献，望各位读者在有所获的同时，能积极上传资源、完善资源，使仓库可良性发展。如诸君对仓库有任何改进意见，还请不吝赐教。目前已收录100余门课程，1100多个资源。
+#### SUSTech
+https://sustech.online/
+📚南科手册
+https://sustech-application.com/#/
+南方科技大学飞跃手册
 #### Other Universities
 [华中科技大学光电飞跃手册](https://hust-feiyue.github.io/)
 [华科生存手册 (Under Construction)](https://1037survival.gitbook.io/)
@@ -118,13 +123,12 @@ https://github.com/jobbole
 🔗 [What Does "TLDR" Mean, and How Do You Use It?](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/_)
 
 🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
-
-
 #### Universities' CS Training Scheme
 Computer Science
 - ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../🏠%20Assets/Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
 - ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
 - 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
+- 🔗 [上海交通大学 ｜ 计算机科学与技术(081200)--培养方案基本信息](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/13564.htm)
 
 Computer Security /CyberSecurity
 
@@ -186,12 +190,17 @@ Software Engineering
 10. etc..
 
 
-### 3️⃣ Dig into CS/IT Academia or Industry
+### 3️⃣ Embark your life with CS!
 ↗ [Academics](../Academics/Academics.md)
 - ↗ [Academic Conference & Journals in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
 - ↗ [Academic Institutions in Electronic & Information Fields](../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
 ↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [CS & IT Jobs & Interns Related](CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
+
+↗ [International Opportunities](International%20Opportunities/International%20Opportunities.md)
+- ↗ [(CS) Master & PhD Application Guide](International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/(CS)%20Master%20&%20PhD%20Application%20Guide.md)
+- ↗ [Summer Camp & Exchange Programs](International%20Opportunities/Summer%20Camp%20&%20Exchange%20Programs/Summer%20Camp%20&%20Exchange%20Programs.md)
 
 
 
@@ -690,7 +699,7 @@ https://research.swtch.com/
 
 
 ### Campus Lifes
-↗ [CS International Universities & Degrees](CS%20International%20Universities%20&%20Degrees/CS%20International%20Universities%20&%20Degrees.md)
+↗ [International Opportunities](International%20Opportunities/International%20Opportunities.md)
 ↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 ---
