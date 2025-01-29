@@ -1,4 +1,4 @@
-# LLM Models Guide
+# LLM Models Guide & Leaderboard
 
 [TOC]
 
@@ -19,6 +19,8 @@ https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/
 Open LLM Leaderboard
 
 https://artificialanalysis.ai/leaderboards/models
+Comparison and ranking the performance of over 30 AI models (LLMs) across key metrics including quality, price, performance and speed (output speed - tokens per second & latency - TTFT), context window & others. For more details including relating to our methodology, see our [FAQs.](https://artificialanalysis.ai/faq)
+
 
 
 ## A list of popular Large Language Models
