@@ -1,4 +1,4 @@
-# International Master & PhD Programs List
+# International Master Programmes & Applications
 
 [TOC]
 
@@ -153,12 +153,15 @@ UW-Madison@MSCS: active, 2024-11-15, 2024-12-15
 Duke@MSCS: active, 2024-11-15, 2025-01-30
 Duke@MSECE(priority): active, 2024-11-15, 2025-01-16
 Duke@MSECE(regular): active, 2024-11-15, 2025-03-15
+DKU@MSCS(EarlyAd): active, 2024-11-15, 2024-12-15
+DKU@MSECE(PriorityAd): active, 2024-11-15, 2025-01-15
+DKU@MSECE(SecondRD): active, 2024-11-15, 2025-03-15
 CMU@ECE: active, 2024-11-15, 2024-12-15
-CMU@INI: active, 2024-11-15, 2025-01-15
+CMU@INI: active, 2024-11-15, 2025-01-29
 GT@Cybersecurity(ECE): active, 2024-11-15, 2024-12-16
 GT@Cybersecurity(InfoSec): active, 2024-11-15, 2025-02-17
 GT@Cybersecurity(Policy): active, 2024-11-15, 2025-03-01
-GT@CS: active, 2024-11-15, 2025-02-01
+GT@MSCS: active, 2024-11-15, 2025-02-01
 GT@ECE: active, 2024-11-15, 2025-02-01
 GT@CSE: active, 2024-11-15, 2025-02-01
 NWU@MSCS(rolling1): active, 2024-11-15, 2024-12-31
@@ -1873,11 +1876,10 @@ https://cs.unc.edu/
 https://datascience.unc.edu/
 ##### Information and Library Science
 https://sils.unc.edu/
-
 #### 👉 University of Virginia (UVa)
+🚪 https://applycentral.virginia.edu/apply/
 ##### Department of Computer Science
 https://engineering.virginia.edu/department/computer-science/academics/cs-graduate-programs
-
 
 Ph.D. in Computer Science
 - The Ph.D. degree culminates with the student writing and defending a dissertation based on the result of independent, original research that makes a significant scholarly contribution to the student's field of study. [Learn More](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science)﻿
@@ -1890,6 +1892,15 @@ Master of Computer Science
 
 Computer Engineering Graduate Programs
 - We also offer graduate degrees in computer engineering in collaboration with the Department of Computer Science. [Explore Computer Engineering Graduate Programs](https://engineering.virginia.edu/offices-programs/computer-engineering-program/academics/computer-engineering-graduate-programs)
+##### Computer Engineering Program
+https://engineering.virginia.edu/offices-programs/computer-engineering-program
+
+M.S. in Computer Engineering
+https://engineering.virginia.edu/offices-programs/computer-engineering-program/academics/graduate-programs/ms-computer-engineering
+
+M.E. in Computer Engineering
+https://engineering.virginia.edu/offices-programs/computer-engineering-program/academics/graduate-programs/me-computer-engineering
+
 #### 👉 Virginia Tech (VT)
 ##### College of Engineering
 1. Computer Science and Applications
@@ -1902,10 +1913,34 @@ Computer Engineering Graduate Programs
 2. Computer Engineering, MS
 	1. https://catalog.vt.edu/graduate/degree-programs/computer-engineering/computer-engineering-ms/#admissiontext
 #### 👉 Duke University
+🚪 https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1
 ##### M.S. in Computer Science (MSCS)
 https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/
 ##### M.S. in Electrical and Computer Engineering (MSECE)
 https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/
+##### 🤔 Duke Kunshan
+https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/
+application guide
+
+[求选择项目 昆山杜克ECE 天大深圳佐治亚ECE]: https://www.1point3acres.com/bbs/thread-972383-1-1.html
+昆山杜克ECE
+- 一定能去美国交换
+- 极好的声望，极高的学校排名
+- 就业前景非常好
+- 治安还算ok
+- 学费过于高昂
+
+天大深圳佐治亚ECE
+- 学费便宜
+- 就在深圳离家近走路10分钟.
+- ECE排名全美第四排名高
+	- 据说有排名绩点限制才能去美交换拿opt
+	- 治安不太好
+
+GTSI在读，去年也和你一样纠结这俩学校，后来考虑到学费和留国内找工的想法，选了GTSI。
+ECE这边交换不卡人，GPA大于3.25不是很难的事情，有一门6001大家都是A，剩下四门课修到1A3B就能去了，ECE不少课只要不彻底摆烂都不会给C。. From 1point 3acres bbs
+如果楼主还有一点点打算国内找工作或者实习的想法的话，深圳的城市资源比昆杜好，费用也比昆杜便宜非常多。. Χ
+但是这边课程比昆杜硬不少，如果想要奔着课程设计转码，建议去DKU，GT的课程是真的难顶，太硬了。
 #### 👉 Michigan State University
 
 #### 👉 University of Florida (UFL)
@@ -1958,17 +1993,58 @@ https://academiccatalog.umd.edu/graduate/programs/computer-science-cmsc/
 https://www.gtsi.edu.cn/apply （天津大学佐治亚理工深圳学院）
 https://www.europe.gatech.edu/en (佐治亚理工欧洲学院)
 
+https://grad.gatech.edu/faq/knowledgebase.php?category=2
+FAQ
 https://grad.gatech.edu/admissions/international
+Application Guide
+
 🚪 https://gradapp.gatech.edu/apply/
 
+
+[求选择项目 昆山杜克ECE 天大深圳佐治亚ECE]: https://www.1point3acres.com/bbs/thread-972383-1-1.html
+昆山杜克ECE
+- 一定能去美国交换
+- 极好的声望，极高的学校排名
+- 就业前景非常好
+- 治安还算ok
+- 学费过于高昂
+
+天大深圳佐治亚ECE
+- 学费便宜
+- 就在深圳离家近走路10分钟.
+- ECE排名全美第四排名高
+	- 据说有排名绩点限制才能去美交换拿opt
+	- 治安不太好
+
+GTSI在读，去年也和你一样纠结这俩学校，后来考虑到学费和留国内找工的想法，选了GTSI。
+ECE这边交换不卡人，GPA大于3.25不是很难的事情，有一门6001大家都是A，剩下四门课修到1A3B就能去了，ECE不少课只要不彻底摆烂都不会给C。. From 1point 3acres bbs
+如果楼主还有一点点打算国内找工作或者实习的想法的话，深圳的城市资源比昆杜好，费用也比昆杜便宜非常多。
+但是这边课程比昆杜硬不少，如果想要奔着课程设计转码，建议去DKU，GT的课程是真的难顶，太硬了。
 
 [4th AD MSCS@Gatech]: https://www.1point3acres.com/bbs/thread-1060772-1-1.html
 一个很让人纠结的项目，上个月在这个项目和 ucsd 之间比较了很久，详细地列了各自的优缺点
 最后还是觉得 gatech 一学期四个课太累，ucsd 生活质量高，而且想做的 mlsys 方向 ucsd 确实更强一点，所以也不后悔拒掉 gatech 啦～
 个人留美意愿没那么强烈，完全接受回国工作，所以 gatech 最具优势的 coop 对我也没那么重要啦
+
+[拿到了Gatech MSCS的offer, 但是在欧洲]: https://www.1point3acres.com/bbs/thread-981268-2-1.html
+
+如何评价佐治亚理工深圳校区被关停？ - 布风的回答 - 知乎
+https://www.zhihu.com/question/666438644/answer/3620887427
+
+
+> **Can I enter more than one application?**
+> https://grad.gatech.edu/faq/knowledgebase.php?article=4
+> 
+> Georgia Tech allows you to have up to two open applications per semester.  
+> All applications are specific to the program. Please use the online application system if you'd like to apply to more than one program. Once you have created a user ID and password and completed the first application, you may return to [https://gradapp.gatech.edu/apply/](https://gradapp.gatech.edu/apply/) and log in as a Returning User.   Scroll to the bottom of the Georgia Tech-Graduate Education Application page and click on Start a New Application.  
+> Please note that a nonrefundable application fee is required for each application.
 ##### Cybersecurity (On Campus)
 https://grad.gatech.edu/degree-programs/cybersecurity-campus
 https://catalog.gatech.edu/programs/cybersecurity-ms/#overviewtext
+Areas of Research
+- **Cyber Physical Systems** (College of Engineering, School of Electrical & Computer Engineering)
+- **Information Security** (College of Computing, School of Computer Science)
+- **Policy** (Ivan Allen College of Liberal Arts, School of Public Policy)
 ##### Computer Science (On Campus)
 https://grad.gatech.edu/degree-programs/computer-science-campus
 https://catalog.gatech.edu/programs/computer-science-ms/
@@ -1992,10 +2068,48 @@ https://catalog.gatech.edu/programs/computer-science-ms/
     - General Test: Applicants scores are expected to be at least 153 Verbal, 155 Quantitative, and 3.0 in the Analytical sections
 - **PhD**
     - General Test: Scores are optional
+
+Areas of Research
+- [Computing Research Areas](https://www.cc.gatech.edu/research-areas)
+- [M.S. Computer Science Specializations](https://www.cc.gatech.edu/ms-computer-science-specializations)
+	- Computational Perception and Robotics
+	- Computer Graphics
+	- Computing Systems
+	- High Performance Computing
+	- Human Centered Computing
+	- Human-Computer Interaction
+	- Interactive Intelligence
+	- Machine Learning
+	- Modeling and Simulations
+	- Scientific Computing
+	- Social Computing
+	- Visual Analytics
 ##### Computational Science & Engineering (CSE)
 https://grad.gatech.edu/degree-programs/computational-science-engineering
+
+Areas of Research
+- [High-Performance Computing](https://cse.gatech.edu/high-performance-computing)
+- [Data Science and Visual Analytics](https://cse.gatech.edu/data-science-and-visual-analytics)
+- [Scientific Computing and Simulation](https://cse.gatech.edu/scientific-computing-and-simulation)
+- [Artificial Intelligence and Machine Learning](https://cse.gatech.edu/artificial-intelligence-and-machine-learning)
+- [Computational Bioscience and Biomedicine](https://cse.gatech.edu/computational-bioscience-and-biomedicine)
 ##### Electrical and Computer Engineering (ECE)
 https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering
+
+Areas of Research
+- Autonomous Systems and Robotics
+- Bioengineering
+- Computer Systems and Software
+- Signal Processing
+- Electrical Energy
+- Electromagnetics
+- Electronic Design and Applications
+- Machine Learning
+- Nanotechnology
+- Optics and Photonics
+- Systems and Controls
+- Telecommunications
+- VLSI Systems and Digital Design
 #### 👉 New York University (NYU)
 Master Courses
 - [Computer Engineering](https://engineering.nyu.edu/academics/programs/computer-engineering-bs) (Engineering)

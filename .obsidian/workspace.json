@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master Programmes & Applications.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(CS) Master & PhD Application Guide"
+              "title": "International Master Programmes & Applications"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5004348754883
+    "width": 523.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -138,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md"
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master Programmes & Applications.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of (CS) Master & PhD Application Guide"
+              "title": "Outline of International Master Programmes & Applications"
             }
           },
           {
@@ -173,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,20 +191,23 @@
   },
   "active": "2d031c7896d7ff3a",
   "lastOpenFiles": [
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master & PhD Programs List.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE (Graduate Record Examinations).md",
+    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🪜 LLM Models Guide & Leaderboard/LLM Models Guide & Leaderboard.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Software Analysis/Language Specific Code Analysis/Android Malware Analysis/Android Malware Analysis.md",
+    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
+    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Infrastructure & Deployment/LLM Infrastructure & Deployment.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master Programmes & Applications.md",
     "CS/🗺 CS Overview/International Opportunities/International Opportunities.md",
-    "CS/🗺 CS Overview/International Opportunities/Living Abroad China 🇨🇳.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
     "CS/🗺 CS Overview/International Opportunities/Summer Camp & Exchange Programs/Summer Camp & Exchange Programs.md",
+    "CS/🗺 CS Overview/International Opportunities/Living Abroad China 🇨🇳.md",
+    "CS/🗺 CS Overview/🌲 Road To CS.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE (Graduate Record Examinations).md",
     "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Admission Materials/Letter of Recommendations (LORs).md",
     "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Admission Materials/Personal Statement (PS).md",
     "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
     "Finance & Economics/Finance & Economics.md",
     "CS/🗺 CS Overview/CS of The Year/2025.md",
     "CS/🗺 CS Overview/CS of The Year/2024.md",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🪜 LLM Models Guide/LLM Models Guide.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Files Management/Docs & Configurations & Templates/Script & Add-ons Management.md",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/🔍 Web Browsers & Searching/Browser Extensions & Automation.md",
     "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/IDA Pro/IDA Pro.md",
@@ -214,9 +217,6 @@
     "Entrepreneurship/working archive/wenshu notes.md",
     "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
     "CS/Academics/Academics.md",
-    "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/Bib-Management/Bib-Management.md",
-    "CS/Academics/🎻 Academic Conference & Journals in Electronics & Information Fields/Computer Security Related Conferences & Journals/Computer Security Related Conferences & Journals.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🔍 Web Browsers & Searching/Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)/Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF).md",
     "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Applications & LLM-Driven Automation",
     "Assets/Illustrations/Computer Science Philosophy",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Video",

@@ -17,9 +17,23 @@ https://www.kdocs.cn/l/cuSHmNK2KAXO
 
 https://docs.qq.com/aio/DRGlmTG5LanhPSUdP?p=K0azlTGvet02xOd2FZGDJ2
 DIY 留学攻略指北「共享编辑」
+- https://github.com/Ryleeing/GlobalApplication_Co-createdStudyAbroadTutorials
+- 这是一份DIY的留学申请的教程，欢迎所有人edit，我有初始备份。也欢迎各个专业的人前来分享。
+- 因为我知道这份教程只能现在停止在24fall，未来肯定还会有很多申请变化。希望你在收到我帮之后，也能在你的申请季结束之来参与这份文件的编辑。
+- 增加信息的人可以直接写。我认为欧陆申请是完全可以DIY/半DIY的，因为它不复杂。
+- 我们不需要中介，我们需要的是勇气。欢迎来到新世界
+- it sucks, but you gonna like it.
+- 
 
+https://survivesjtu.github.io/SJTU-Application/
+上海交通大学大学飞跃手册
 https://sustech-application.com/#/
 南方科技大学飞跃手册
+https://hust-feiyue.github.io/
+华中科技大学光电飞跃手册
+http://scu-flying.com/
+四川大学飞跃手册
+etc..
 
 https://www.cs.utexas.edu/~vijay/links.htm | Useful Links for Students
 1. Email Etiquette
@@ -140,7 +154,7 @@ https://www.csc.edu.cn/chuguo/list/73
 
 
 ## How to choose a university & Country?
-↗ [International Master & PhD Programs List](International%20Master%20&%20PhD%20Programs%20List.md)
+↗ [International Master Programmes & Applications](International%20Master%20Programmes%20&%20Applications.md)
 
 
 
