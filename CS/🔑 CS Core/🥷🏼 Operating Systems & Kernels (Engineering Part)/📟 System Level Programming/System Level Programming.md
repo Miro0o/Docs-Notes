@@ -67,7 +67,7 @@
 ↗ [Operating System & OS Kernel (Theory Part)](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 ↗ [Operating Systems & Kernels (Engineering Part)](../Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
 ↗ [Kernel Debugging](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/🦺%20Operating%20System%20Basics/Kernel%20Debugging.md)
-↗ [System Architecture Design](../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [Information Systems & System Architecture Design](../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 ↗ [Computer System](../../🧬%20Computer%20System/Computer%20System.md)
 
 ↗ [Operating System Components & Runtime Libraries](../../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
@@ -87,8 +87,8 @@
 ↗ [Computer Networking and Communication](../../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 - ↗ [Network Programming & RPC](../../../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Programming%20&%20RPC/Network%20Programming%20&%20RPC.md)
 - ↗ [High Performance Network (HPN) & IDC Technologies](../../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies.md)
-↗ [Computing & Computing Systems](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Computing%20&%20Computing%20Systems.md)
-- ↗ [High Performance Computing](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computing.md)
+↗ [Computing Methodologies](../../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+- ↗ [High Performance Computing](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
 
 ↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
 

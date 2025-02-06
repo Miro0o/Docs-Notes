@@ -175,11 +175,13 @@ https://people.engr.tamu.edu/guofei/links.htm
 ### 论文收录引用检索证明
 
 ### \* Bibliometrics Related Indexes 🙈
-#### World University Ranking
+#### World University Ranking ⭐ ⭐ ⭐
 - https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
 - https://www.usnews.com/best-colleges/rankings/national-universities | U.S. News, 
+- https://www.che.de/en/ranking-germany/ | CHE University Ranking
+- 
 #### Journal/Conference Evaluation
 
 #### Research Entity /Fields Research
@@ -195,7 +197,7 @@ https://people.engr.tamu.edu/guofei/links.htm
 
 ## Field Specific Academics Research
 ### 👉 Artificial Intelligence 
-↗ [AI WatchList](../Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
+↗ [AI WatchList](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
 
 
 ### 👉 Computer Security

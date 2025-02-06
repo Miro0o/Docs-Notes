@@ -12,7 +12,7 @@
 ### Notes
 ↗ [Database System Web Services' Architectures](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
 ↗ [Web Application Systems & Architecture Design](../../../../Software%20Engineering/Web%20Development/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
-↗ [System Architecture Design](../../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
 

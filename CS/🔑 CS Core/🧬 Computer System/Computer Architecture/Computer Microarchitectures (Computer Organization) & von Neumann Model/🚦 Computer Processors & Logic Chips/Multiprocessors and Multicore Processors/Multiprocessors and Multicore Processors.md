@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Computer Architecture and Flynn's Taxonomy](../../../📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20and%20Flynn's%20Taxonomy.md)
 ↗ [Non-von Neumann Based Microarchitectures](../../🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
-↗ [Parallel Computing](../../../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../../../../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
 
 ↗ [Multiprocessor Architectures & Parallel Computing](Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 
@@ -36,7 +36,7 @@
 
 
 ## Quantum Computing
-↗ [Quantum Computing](../../../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Quantum%20Computing/Quantum%20Computing.md)
+↗ [Quantum Computing](../../../../../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
 
 
 

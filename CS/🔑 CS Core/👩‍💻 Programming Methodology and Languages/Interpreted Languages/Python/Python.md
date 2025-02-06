@@ -27,7 +27,7 @@ Python Enhancement Proposals (PEPs)
 
 ↗ [Python Web](../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Python%20Web.md)
 ↗ [Python Managers](../../🛠️%20Programming%20Tools%20Chain/Project%20Builder%20&%20Manager/🔬%20Language-Specific%20Managers/Python%20Managers/Python%20Managers.md)
-↗ [Python Based AI](../../../../Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
+↗ [Python Based AI](../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
 
 
 ### 🚊 Learning Resources

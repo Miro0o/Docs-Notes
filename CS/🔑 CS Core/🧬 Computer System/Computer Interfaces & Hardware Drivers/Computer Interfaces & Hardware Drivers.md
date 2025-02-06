@@ -19,7 +19,7 @@
 ↗ [System Level Programming](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
 ↗ [Operating System Components & Runtime Libraries](../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Components%20&%20Runtime%20Libraries.md)
 
-↗ [Human-Computer Interaction](../../../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
+↗ [Human-Computer Interaction](../../../Human-Centered%20Computing/Human-Computer%20Interaction.md)
 
 
 

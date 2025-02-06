@@ -11,8 +11,8 @@
 ## Res
 ### Related Topics
 ↗ [Computer Microarchitectures (Computer Organization) & von Neumann Model](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model.md)
-↗ [Computer Systems & Implementations](📌%20Computer%20Systems%20&%20Implementations/Computer%20Systems%20&%20Implementations.md)
-↗ [Small Form Factor Computer](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Small%20Form%20Factor%20Computer.md)
+↗ [Computer System Implementations](📌%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+↗ [Small Form Factor Computer](../../🧠%20Computing%20Methodologies/Small%20Form%20Factor%20Computer.md)
 
 ↗ [Systems on Chip (SOC)](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/Systems%20on%20Chip%20(SOC).md)
 ↗ [IDC & Data Center Networking](../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
@@ -92,12 +92,12 @@ Conventional computer cases are fully enclosed, with small holes (mostly in the 
 ↗ [IDC & Data Center Networking](../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
 ↗ [Datacenter](../🍕%20Computer%20Storage%20&%20Database%20Systems/🚀%20High%20Performance%20Storage%20(HPS)/Datacenter.md)
 ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Distributed Systems](../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 
 
 ### Super Computers
-↗ [High Performance Computing](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computing.md)
-↗ [High Performance Computer (HPC)](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computer%20(HPC).md)
+↗ [High Performance Computing](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computing.md)
+↗ [High Performance Computer (HPC)](../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computer%20(HPC).md)
 
 
 

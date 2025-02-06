@@ -18,7 +18,7 @@
 
 ↗ [Physical Database Design (Software Engineering) /Transaction Management /Concurrency Control](../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Software%20Engineering)/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
 
-↗ [Parallel Computing](../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
 
 ↗ [Web Development & Web Basics](../../../../Software%20Engineering/Web%20Development/Web%20Development%20&%20Web%20Basics.md)
 
@@ -36,7 +36,7 @@
 - **并行计算**：对一个已知的任务，通过某种划分策略，使得这个任务被划分为多个可以同时处理的子任务，从而达到对该任务处理性能的提高。处理性能可以是任何规定的指标，不过通常是处理效率，即速度/成本。
 - **流水线技术/pipelining**: 一种简单的并行计算中的划分策略。
 
-> ↗ [Parallel Computing /Concurrency & Parallelism](../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md#Concurrency%20&%20Parallelism)
+> ↗ [Parallel Computing /Concurrency & Parallelism](../../../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md#Concurrency%20&%20Parallelism)
 
 
 

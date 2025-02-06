@@ -103,7 +103,7 @@
 
 
 ## 🕸️ Distributed DBMS
-↗ [Architecture Design /Distributed Systems](../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Architecture Design /Distributed Systems](../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 
 
 

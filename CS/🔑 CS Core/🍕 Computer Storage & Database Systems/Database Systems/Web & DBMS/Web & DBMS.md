@@ -12,8 +12,8 @@
 ↗ [Web BackEnd Dev](../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Web%20BackEnd%20Dev.md)
 ↗ [Middleware](../../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Middleware.md)
 
-↗ [Distributed Systems Design](../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Systems%20Design.md)
-↗ [System Architecture Design](../../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [Distributed Systems Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Systems%20Design.md)
+↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
 

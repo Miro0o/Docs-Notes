@@ -25,14 +25,13 @@
 ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 
 ↗ [Computer Architecture](Computer%20Architecture/Computer%20Architecture.md)
-↗ [Computer Systems & Implementations](📌%20Computer%20Systems%20&%20Implementations/Computer%20Systems%20&%20Implementations.md)
-- ↗ [Computing & Computing Systems](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Computing%20&%20Computing%20Systems.md)
+↗ [Computer System Implementations](📌%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
+- ↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
 ↗ [Computer Networking and Communication](../🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
 ↗ [Computer Storage & Database Systems](../🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 
-↗ [System Architecture Design](../../System%20Architecture%20Design/System%20Architecture%20Design.md)
-- ↗ [Distributed Systems](../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
-- ↗ [Information Systems](../../System%20Architecture%20Design/Information%20Systems.md)
+↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+- ↗ [Distributed Systems](../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 
 ↗ [IoT /Embedded System](../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Computer%20Systems.md)
@@ -164,7 +163,7 @@ Curious exactly what happens when you run a program on your computer? Read this 
 #### 3️⃣ Other Architectures
 ↗ [Non-von Neumann Based Microarchitectures](Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🤵%20Non-von%20Neumann%20Based%20Microarchitectures/Non-von%20Neumann%20Based%20Microarchitectures.md)
 #### 4️⃣ Quantum Computer
-↗ [Quantum Computing](📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Quantum%20Computing/Quantum%20Computing.md)
+↗ [Quantum Computing](../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
 
 
 ### Computer System Hardware Development

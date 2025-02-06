@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Computer Graphics Programming](../../../../../Software%20Engineering/Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
-↗ [Computer Vision (CV)](../../../../../Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
+↗ [Computer Vision (CV)](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Computer%20Vision%20(CV)/Computer%20Vision%20(CV).md)
 
 ↗ [Codec & Media Formats & Standards](../../../../🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 

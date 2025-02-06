@@ -24,7 +24,7 @@ The central themes of operating system design are all concerned with the **manag
 
 > ❗❗❗ This section covers concurrency in **multiprogramming (多道程序处理)** and **multiprocessing（多处理系统）**. 
 > 
-> For distributed processing（分布式系统进程管理） move to ↗ [Distributed Process Management](../../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
+> For distributed processing（分布式系统进程管理） move to ↗ [Distributed Process Management](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
 
 
 ### Concurrency Scenarios

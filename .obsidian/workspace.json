@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master Programmes & Applications.md",
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "International Master Programmes & Applications"
+              "title": "International Master&PhD Programmes & Applications"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5004348754883,
+    "width": 583.5027122497559,
     "collapsed": true
   },
   "right": {
@@ -139,10 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master Programmes & Applications.md"
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of International Master Programmes & Applications"
+              "title": "Outline of International Master&PhD Programmes & Applications"
             }
           },
           {
@@ -174,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,38 +204,43 @@
   },
   "active": "2d031c7896d7ff3a",
   "lastOpenFiles": [
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🪜 LLM Models Guide & Leaderboard/LLM Models Guide & Leaderboard.md",
-    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/Malicious Code Detection & Software Analysis/Language Specific Code Analysis/Android Malware Analysis/Android Malware Analysis.md",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM (Large Language Model).md",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Infrastructure & Deployment/LLM Infrastructure & Deployment.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master Programmes & Applications.md",
-    "CS/🗺 CS Overview/International Opportunities/International Opportunities.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
-    "CS/🗺 CS Overview/International Opportunities/Summer Camp & Exchange Programs/Summer Camp & Exchange Programs.md",
-    "CS/🗺 CS Overview/International Opportunities/Living Abroad China 🇨🇳.md",
-    "CS/🗺 CS Overview/🌲 Road To CS.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Language Certificates/GRE (Graduate Record Examinations)/GRE (Graduate Record Examinations).md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Admission Materials/Letter of Recommendations (LORs).md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Admission Materials/Personal Statement (PS).md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/Admission Materials/Statement of Purpose (SoP) & Statement of Intent (SoI).md",
-    "Finance & Economics/Finance & Economics.md",
-    "CS/🗺 CS Overview/CS of The Year/2025.md",
-    "CS/🗺 CS Overview/CS of The Year/2024.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Files Management/Docs & Configurations & Templates/Script & Add-ons Management.md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/🔍 Web Browsers & Searching/Browser Extensions & Automation.md",
-    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/⛰️ Static Binary Analysis & SCA Tools/IDA Pro/IDA Pro.md",
-    "CS/Software Engineering/Desktop & Monolithic Application Development/Web Browsers Development/Web Browser Extension Development.md",
-    "CS/CyberSecurity/☠️ Kill Chain/Troubleshooting.md",
-    "CS/CyberSecurity/☠️ Kill Chain/FAQ.md",
-    "Entrepreneurship/working archive/wenshu notes.md",
-    "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
     "CS/Academics/Academics.md",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Applications & LLM-Driven Automation",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/Intro to Computer Science.md",
+    "CS/🥂 Welcome to CS.md",
+    "README.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+    "Assets/Archive/Curriculums/🧭 0x00/Media Player.md",
+    "Assets/Archive/Curriculums/🧭 0x00/Orentation.md",
+    "CS/🧠 Computing Methodologies/Symbolic and Algebraic Manipulation/Symbolic and Algebraic Manipulation.md",
+    "CS/🧠 Computing Methodologies/Differentiable Computing/Differentiable Computing.md",
+    "CS/🧠 Computing Methodologies/Computer Graphics (CG)/Computer Graphics (CG).md",
+    "CS/🧠 Computing Methodologies/Symbolic and Algebraic Manipulation",
+    "CS/🧠 Computing Methodologies/Untitled.canvas",
+    "CS/🧠 Computing Methodologies/Distributed Computing/Distributed Computing.md",
+    "CS/🧠 Computing Methodologies/Concurrent Computing/Concurrent Computing.md",
+    "CS/🧠 Computing Methodologies/Concurrent Computing",
+    "CS/🧠 Computing Methodologies/Distributed Computing",
+    "CS/🧠 Computing Methodologies/Computer Graphics (CG)",
+    "CS/🧠 Computing Methodologies/Modeling and Simulation/Modeling and Simulation.md",
+    "CS/🧠 Computing Methodologies/Modeling and Simulation",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer System Implementations/Computer System Implementations.md",
+    "CS/🔑 CS Core/🧬 Computer System/📌 Computer System Implementations/Commercial Computer Chips/Commercial Computer Chips.md",
+    "CS/🗺 CS Overview/Institutes & Organizations in IT.md",
+    "CS/Human-Centered Computing/Human-Computer Interaction.md",
+    "CS/Human-Centered Computing/Human-Centered Computing.md",
+    "CS/Information Systems & System Architecture Design/Information Systems & System Architecture Design.md",
+    "CS/Information Systems & System Architecture Design/Information Systems.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/🗝️ AI Basics & Machine Learning/📌 Deep Learning (Neural Network)/Deep Learning (Neural Networks).md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/👀 AI WatchList/🕶️ Awesome AI/Awesome AI.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International PhD Positions & Applications.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
+    "CS/🗺 CS Overview/CS of The Year/Rust std fs 比 Python 慢！真的吗！？.webarchive",
+    "CS/🗺 CS Overview/CS of The Year/Untitled.table",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Applications & LLM-Driven Automation",
     "Assets/Illustrations/Computer Science Philosophy",
     "CS/🔑 CS Core/🧰 Generic Tools & Projects/Video",
-    "CS/Software Engineering/Computer Media Programming/Graphics Programing",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Infrastructure & Deployment/Untitled",
-    "CS/Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/LLM Infrastructure & Deployment",
     "Assets/Pics/Screenshot 2025-01-21 at 13.26.49.png",
     "Assets/Pics/Screenshot 2025-01-21 at 13.25.49.png",
     "Assets/Pics/Screenshot 2025-01-21 at 13.24.38.png",
@@ -230,14 +248,10 @@
     "Assets/Pics/Screenshot 2025-01-21 at 13.22.20.png",
     "Assets/Illustrations/Computer Science Philosophy/Universe_and_CS.excalidraw.png",
     "Assets/Illustrations/Computer Science Philosophy/Universe_and_CS.excalidraw.svg",
-    "Assets/Illustrations/Fuzzing",
-    "CS/🏠 Assets/Courses of Universities/UC Berkeley/CS61",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
-    "Assets/Cheat Sheets/gdb5-refcard.pdf",
     "Assets/Pics/Pasted image 20241215030427.png",
     "Assets/Pics/shrc_school_ranking_50_100.jpg",
     "Assets/Pics/shrs_school_ranking.jpg",
-    "CS/Artificial Intelligence/🏗️ AI (Data) Infrastructure & Stack/Model Monitoring & Observability",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

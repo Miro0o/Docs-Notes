@@ -7,10 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
-↗ [Institutes & Organizations in CS & IT](../../🗺%20CS%20Overview/Institutes%20&%20Organizations%20in%20CS%20&%20IT.md)
+↗ [Institutes & Organizations in IT](../Institutes%20&%20Organizations%20in%20IT.md)
 ↗ [IT Entrepreneurship & Internet](../../../Entrepreneurship/IT%20Entrepreneurship%20&%20Internet.md)
 
-↗ [AI WatchList](../../Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
+↗ [AI WatchList](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
 
 ↗ [Conferences & Events in Academia](../../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conferences%20&%20Events%20in%20Academia.md)
 ↗ [Conference & Events in Industry](../../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conference%20&%20Events%20in%20Industry.md)

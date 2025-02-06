@@ -13,7 +13,7 @@
 - ↗ [Web FrontEnd Dev](../🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 - ↗ [Middleware](../🥪%20Middleware/Middleware.md)
 
-↗ [System Architecture Design](../../../System%20Architecture%20Design/System%20Architecture%20Design.md)
+↗ [Information Systems & System Architecture Design](../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
 

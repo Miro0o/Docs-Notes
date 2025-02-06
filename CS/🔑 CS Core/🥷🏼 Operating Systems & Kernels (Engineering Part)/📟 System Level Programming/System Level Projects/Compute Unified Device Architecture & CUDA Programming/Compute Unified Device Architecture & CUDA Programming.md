@@ -15,7 +15,7 @@
 ↗ [GPU Virtualization](../../../🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/GPU%20Virtualization.md)
 ↗ [Nvida](../../../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Hardware%20Industry%20&%20Manufacturers/Semiconductor%20Industry%20&%20Companies/Chip%20Manufacturers/Nvida.md)
 
-↗ [Parallel Computing](../../../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../../../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
 
 
 ### Learning Resources
