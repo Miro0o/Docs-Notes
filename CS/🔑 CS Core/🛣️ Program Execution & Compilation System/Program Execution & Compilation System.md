@@ -98,7 +98,7 @@ However, there are some important reasons why programmers need to understand how
 - ↗ [Codec & Media Formats & Standards](../🦄%20Algorithm%20&%20Data%20Structure/Data%20Compression%20Technologies/Codec%20&%20Media%20Formats%20&%20Standards/Codec%20&%20Media%20Formats%20&%20Standards.md)
 
 ↗ [Automata Theory and (Formal) Language Theory](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
-↗ [Natural Language Processing (NLP)](../../Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
+↗ [Natural Language Processing (NLP)](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 
 
 ### 1️⃣ Compilation (Compile-time)

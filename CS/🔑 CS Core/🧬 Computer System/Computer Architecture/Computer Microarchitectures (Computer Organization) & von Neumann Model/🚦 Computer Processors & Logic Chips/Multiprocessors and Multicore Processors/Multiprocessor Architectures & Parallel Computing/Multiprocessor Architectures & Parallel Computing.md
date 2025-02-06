@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [Computer Architecture and Flynn's Taxonomy](../../../../📌%20Computer%20Organization%20&%20Architecture%20Basics/Computer%20Architecture%20and%20Flynn's%20Taxonomy.md)
 ↗ [ILP (Instruction Level Parallelism)](../../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
-↗ [Parallel Computing](../../../../../📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/Parallel%20Computing/Parallel%20Computing.md)
+↗ [Parallel Computing](../../../../../../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
 
 
 
@@ -78,7 +78,7 @@ As an example, consider the case where a part of the system that initially consu
 
 ### 💦 Alternative Parallel Processing Approaches
 #### Distributed Computing
-↗ [Distributed Systems](../../../../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Distributed Systems](../../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
 #### Dataflow Computing
 ↗ [Dataflow Computing](📌%20Parallel%20Computing%20Alternative%20Modelings/Dataflow%20Computing.md)
 #### Neural Network

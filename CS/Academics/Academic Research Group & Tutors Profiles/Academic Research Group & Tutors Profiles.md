@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [International Master Programmes & Applications](../../🗺%20CS%20Overview/International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/International%20Master%20Programmes%20&%20Applications.md)
+↗ [International Master&PhD Programmes & Applications](../../🗺%20CS%20Overview/International%20Opportunities/(CS)%20Master%20&%20PhD%20Application%20Guide/International%20Master&PhD%20Programmes%20&%20Applications.md)
 
 
 

@@ -23,7 +23,6 @@ DIY 留学攻略指北「共享编辑」
 - 增加信息的人可以直接写。我认为欧陆申请是完全可以DIY/半DIY的，因为它不复杂。
 - 我们不需要中介，我们需要的是勇气。欢迎来到新世界
 - it sucks, but you gonna like it.
-- 
 
 https://survivesjtu.github.io/SJTU-Application/
 上海交通大学大学飞跃手册
@@ -138,6 +137,16 @@ Computer Science Professors 收录了各校各年度新晋 faculty 名录和研�
 
 Grantome 美国教授科研经费查询 [https://grantome.com/search](https://grantome.com/search)
 NIH 美国教授科研经费查询 [https://report.nih.gov/](https://report.nih.gov/)
+
+EURAXESS Jobs
+Academic Positions
+FindAPhD
+ResearchGate
+Nature Jobs
+Jobs.ac.uk
+THEunijobs
+Linkedin
+ScholarshipPortal
 #### Specific CS Infos
 https://www.universities.com/find/us/best/computer-technology/cyber-security
 Best Cyber Security colleges in U.S.
@@ -154,7 +163,7 @@ https://www.csc.edu.cn/chuguo/list/73
 
 
 ## How to choose a university & Country?
-↗ [International Master Programmes & Applications](International%20Master%20Programmes%20&%20Applications.md)
+↗ [International Master&PhD Programmes & Applications](International%20Master&PhD%20Programmes%20&%20Applications.md)
 
 
 

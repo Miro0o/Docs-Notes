@@ -18,7 +18,7 @@ Popek & Goldberg, 1974
 
 ### Related Topics
 ↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
-↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
+↗ [Virtual Reality](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
 
 ↗ [Game Emulators](../../🧰%20Generic%20Tools%20&%20Projects/🕹️%20Games/Game%20Hosts%20&%20Emulators/Game%20Emulators.md)
 
@@ -54,7 +54,7 @@ Popek & Goldberg, 1974
 
 ### 🎲 Virtualization by Objects
 1. Virtual Reality
-	1. As in ↗ [AI /Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
+	1. As in ↗ [AI /Virtual Reality](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md).
 2. Virtual Machine
 	1. Platform Virtualization
 	2. Application Virtualization(Sandbox)
@@ -91,7 +91,7 @@ At this level virtualizations are often referred as Hypervisors, or VMM (virtual
 
 
 ### 5️⃣ Service Level
-↗ [Virtual Reality](../../../Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
+↗ [Virtual Reality](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Virtual%20Reality/Virtual%20Reality.md)
 
 ↗ [Network Virtualization](../../🏎️%20Computer%20Networking%20and%20Communication/Network%20Virtualization/Network%20Virtualization.md)
 ↗ [Graphics Rendering Frameworks (2D & 3D)](../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/🖼️%20Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/Graphics%20Rendering%20Frameworks%20(2D%20&%203D).md)

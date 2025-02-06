@@ -166,12 +166,12 @@ Software Engineering
 	5. etc.
 4. Large Scale Software System Architecture /Cloud
 	1. ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-	2. ↗ [System Architecture Design](../System%20Architecture%20Design/System%20Architecture%20Design.md)
+	2. ↗ [Information Systems & System Architecture Design](../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 	3. ↗ [Awesome Architect](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 	4. etc.
 5. Data Scientist /AI
 	1. ↗ [Data Science](../Data%20Science/Data%20Science.md)
-	2. ↗ [Artificial Intelligence](../Artificial%20Intelligence/Artificial%20Intelligence.md)
+	2. ↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
 	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
 6. IoT /Hardware /Computer Engineering
@@ -182,7 +182,7 @@ Software Engineering
 	1. ↗ [Web 3.0](../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
 	2. etc.
 8. Human-Computer Interaction
-	1. ↗ [Human-Computer Interaction](../Human-Computer%20Interaction/Human-Computer%20Interaction.md)
+	1. ↗ [Human-Computer Interaction](../Human-Centered%20Computing/Human-Computer%20Interaction.md)
 9. Computer Security
 	1. ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
 	2. ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)

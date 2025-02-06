@@ -17,7 +17,7 @@
 ↗ [IDC & Data Center Networking](IDC%20&%20Data%20Center%20Networking.md)
 
 ↗ [NPU (Network Processing Unit)](../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Computing%20Units%20&%20Chips%20&%20Boards/📌%20ASIC%20(Application-Specific%20Integrated%20Circuit)/Semi-Customized%20ASIC/NPU%20(Network%20Processing%20Unit)/NPU%20(Network%20Processing%20Unit).md)
-↗ [High Performance Computer (HPC)](../../🧬%20Computer%20System/📌%20Computer%20Systems%20&%20Implementations/🎃%20Computing%20&%20Computing%20Systems/🚀%20High%20Performance%20Computing/High%20Performance%20Computer%20(HPC).md)
+↗ [High Performance Computer (HPC)](../../../🧠%20Computing%20Methodologies/⚡️%20High%20Performance%20Computing/High%20Performance%20Computer%20(HPC).md)
 
 
 ### Learning Resources

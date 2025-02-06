@@ -94,7 +94,7 @@ load being distributed among all of them.
 
 
 ### Distributed Operating Systems
-↗ [Distributed Operating System](../../../../System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Managing%20&%20Operating/Distributed%20Operating%20System/Distributed%20Operating%20System.md)
+↗ [Distributed Operating System](../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Managing%20&%20Operating/Distributed%20Operating%20System/Distributed%20Operating%20System.md)
 
 
 ### Personal Computers & OS
