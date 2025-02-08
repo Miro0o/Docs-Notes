@@ -6,12 +6,12 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [OS Memory Management (Main Memory + Secondary Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource)/OS%20Memory%20Management%20(Main%20Memory%20+%20Secondary%20Memory%20Resource).md)
 ↗ [OS Processes & Automata Management (CPU + Main Memory Resource)](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource).md)
 
-↗ [Storage Devices](../../../../Hardware%20&%20EE%20Related/Storage%20Devices/Storage%20Devices.md)
+↗ [Storage Chips & Devices](../../../../Hardware%20&%20EE%20Related%20Theories/Storage%20Chips%20&%20Devices/Storage%20Chips%20&%20Devices.md)
 
 
 ### Learning Resources

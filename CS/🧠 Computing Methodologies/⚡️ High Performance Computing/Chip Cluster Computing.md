@@ -13,7 +13,8 @@
 ↗ [Switched LAN](../../../../🏎️%20Computer%20Networking%20and%20Communication/📌%20Computer%20Networking%20Basics%20(Protocol%20Part)/0x06%20Data%20Link%20Layer/Switched%20LAN/Switched%20LAN.md)
 ↗ [IDC & Data Center Networking](../../../../🏎️%20Computer%20Networking%20and%20Communication/🚀%20High%20Performance%20Network%20(HPN)%20&%20IDC%20Technologies/IDC%20&%20Data%20Center%20Networking.md)
 
-↗ [Distributed Computing](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Computing/Distributed%20Computing.md)
+↗ [Distributed Computing & Systems](../Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
+↗ [Distributed Systems Implementations](../Distributed%20Computing%20&%20Systems/💸%20Distributed%20Systems%20Implementations/Distributed%20Systems%20Implementations.md)
 ↗ [Multiprocessors and Multicore Processors](../../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessors%20and%20Multicore%20Processors.md)
 
 

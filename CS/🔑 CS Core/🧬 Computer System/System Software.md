@@ -32,14 +32,14 @@ Although our model of a computer system places only the operating system in the 
 ##### Compilers
 ↗ [Program Language Translation & Compilation Theory (Compile-time)](../🛣️%20Program%20Execution%20&%20Compilation%20System/🚮%20Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time)/Program%20Language%20Translation%20&%20Compilation%20Theory%20(Compile-time).md)
 ##### Database Systems
-↗ [Database System](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20System.md)
+↗ [Database Systems](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Database%20Systems.md)
 
 
 ### 2️⃣ System Level Services in Distributed System
 #### 🤔 Cloud Computing
 ↗ [Cloud Operating System & Platform (System Level Engineering)](../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering)/Cloud%20Operating%20System%20&%20Platform%20(System%20Level%20Engineering).md)
 #### Middleware in Web Software
-↗ [Middleware](../../../Software%20Engineering/Web%20Development/🥪%20Middleware/Middleware.md)
+↗ [Web Dev Middleware](../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
 
 

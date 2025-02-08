@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 
 
@@ -94,7 +94,7 @@ load being distributed among all of them.
 
 
 ### Distributed Operating Systems
-↗ [Distributed Operating System](../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Managing%20&%20Operating/Distributed%20Operating%20System/Distributed%20Operating%20System.md)
+↗ [Distributed Operating System](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Managing%20&%20Operating/Distributed%20Operating%20System/Distributed%20Operating%20System.md)
 
 
 ### Personal Computers & OS

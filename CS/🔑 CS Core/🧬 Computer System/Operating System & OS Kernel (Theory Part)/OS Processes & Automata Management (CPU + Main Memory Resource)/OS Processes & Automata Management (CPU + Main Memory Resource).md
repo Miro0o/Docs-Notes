@@ -10,7 +10,7 @@
 
 ↗ [Instruction Execution](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/Instruction%20Execution.md)
 
-↗ [Distributed Process Management](../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
+↗ [Distributed Process Management](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/☯️%20Distributed%20Systems%20Design/Distributed%20Process%20Management/Distributed%20Process%20Management.md)
 ↗ [Operating System Kernel (Kernel Mode)](../😴%20Operating%20System%20Components%20&%20Runtime%20Libraries/Operating%20System%20Kernel%20(Kernel%20Mode).md)
 
 ↗ [Program Execution & Compilation System](../../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)

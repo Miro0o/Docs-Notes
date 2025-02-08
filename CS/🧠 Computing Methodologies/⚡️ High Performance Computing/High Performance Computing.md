@@ -17,7 +17,7 @@
 ↗ [Multiprocessor & Multicore Scheduling](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Scheduling%20&%20Resource%20Management/Computer%20Resource%20(CPU%20+%20Memory)%20Scheduling/Process%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling/Multiprocessor%20&%20Multicore%20Scheduling.md)
 ↗ [Multiprocessors and Multicore Processors](../../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessors%20and%20Multicore%20Processors.md)
 
-↗ [Distributed Computing](../../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Computing/Distributed%20Computing.md)
+↗ [Distributed Computing & Systems](../Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 
 
 ### Other Resources

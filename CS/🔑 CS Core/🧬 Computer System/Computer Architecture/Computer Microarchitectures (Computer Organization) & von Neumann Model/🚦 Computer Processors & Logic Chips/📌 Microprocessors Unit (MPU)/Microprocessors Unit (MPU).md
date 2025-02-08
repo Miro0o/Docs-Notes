@@ -66,6 +66,9 @@ table-id-UsDPYe
 
 
 
+## MPU Models & Manufacturers
+
+
 ## Ref
 [List of Intel CPU microarchitectures]: https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures#Miscellaneous
 [List of AMD CPU microarchitectures]: https://en.wikipedia.org/wiki/List_of_AMD_CPU_microarchitectures

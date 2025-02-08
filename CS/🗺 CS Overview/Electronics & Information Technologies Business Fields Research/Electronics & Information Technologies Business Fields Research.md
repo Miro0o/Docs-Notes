@@ -14,7 +14,7 @@
 
 ↗ [Conferences & Events in Academia](../../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conferences%20&%20Events%20in%20Academia.md)
 ↗ [Conference & Events in Industry](../../🗺%20CS%20Overview/📆%20Conference%20&%20Events%20(Industry%20&%20Academia)/Conference%20&%20Events%20in%20Industry.md)
-↗ [Academics](../../Academics/Academics.md)
+↗ [Academics](../../Academics%20🎓/Academics.md)
 
 
 

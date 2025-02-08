@@ -55,7 +55,7 @@ CS Core
 	- ↗ [Computer Architecture](🔑%20CS%20Core/🧬%20Computer%20System/Computer%20Architecture/Computer%20Architecture.md)
 	- ↗ [Operating System & OS Kernel (Theory Part)](🔑%20CS%20Core/🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part).md)
 	- ↗ [Operating Systems & Kernels (Engineering Part)](🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Operating%20Systems%20&%20Kernels%20(Engineering%20Part).md)
-- ↗ [Hardware & EE Related](🔑%20CS%20Core/Hardware%20&%20EE%20Related/Hardware%20&%20EE%20Related.md)
+- ↗ [Hardware & EE Related Theories](🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
 
 ↗ [Math & Theoretical Computer Science (TCS)](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
 - ↗ [Analytical Mathematics](🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Analytical%20Mathematics/Analytical%20Mathematics.md)
@@ -84,7 +84,7 @@ Computer Sub-fields
 
 ### Academia (研)
 ↗ [Intro to Computer Science](🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Intro%20to%20Computer%20Science.md)
-↗ [Academics](Academics/Academics.md)
+↗ [Academics](Academics%20🎓/Academics.md)
 
 https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 ACM CCS 2012

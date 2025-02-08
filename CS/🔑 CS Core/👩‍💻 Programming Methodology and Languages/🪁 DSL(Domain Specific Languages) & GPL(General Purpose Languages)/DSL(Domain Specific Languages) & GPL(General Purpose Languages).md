@@ -8,10 +8,10 @@
 ### Related Topics
 ↗ [Database Languages](../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
-↗ [Web Templating Apps & Frameworks](../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Apps%20&%20Frameworks/Web%20Templating%20Apps%20&%20Frameworks.md)
+↗ [Web Templating Apps & Frameworks](../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Apps%20&%20Frameworks/Web%20Templating%20Apps%20&%20Frameworks.md)
 
-↗ [HTML (HyperText Markup Language)](../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20(HyperText%20Markup%20Language)/HTML%20(HyperText%20Markup%20Language).md)
-↗ [CSS (Cascading Style Sheets)](../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
+↗ [HTML (HyperText Markup Language)](../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/HTML%20(HyperText%20Markup%20Language)/HTML%20(HyperText%20Markup%20Language).md)
+↗ [CSS (Cascading Style Sheets)](../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/CSS%20(Cascading%20Style%20Sheets)/CSS%20(Cascading%20Style%20Sheets).md)
 
 
 

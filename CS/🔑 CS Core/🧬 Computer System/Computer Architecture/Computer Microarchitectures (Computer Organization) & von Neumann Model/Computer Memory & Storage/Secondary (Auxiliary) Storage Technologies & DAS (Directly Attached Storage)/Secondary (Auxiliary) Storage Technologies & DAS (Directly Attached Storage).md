@@ -10,7 +10,7 @@
 
 ↗ [Expansion Bus (Ports & Computer Bus Interfaces)](../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces).md)
 ↗ [Disk Buses & Interfaces](../../Computer%20Bus%20(Datapath)%20&%20Interfaces%20&%20Protocols/Expansion%20Bus%20(Ports%20&%20Computer%20Bus%20Interfaces)/Expansion%20Slot%20(Internal%20Bus)/📌%20Disk%20Buses%20&%20Interfaces/Disk%20Buses%20&%20Interfaces.md)
-↗ [Storage Devices](../../../../../Hardware%20&%20EE%20Related/Storage%20Devices/Storage%20Devices.md)
+↗ [Storage Chips & Devices](../../../../../Hardware%20&%20EE%20Related%20Theories/Storage%20Chips%20&%20Devices/Storage%20Chips%20&%20Devices.md)
 
 ↗ [Data Transmission Modes](../../Computer%20IO%20System/Data%20Transmission%20Modes.md)
 ↗ [File & File System](../../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20IO%20System/IO%20Generality%20(via%20Abstraction)/File%20&%20File%20System/File%20&%20File%20System.md)

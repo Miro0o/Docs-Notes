@@ -78,7 +78,7 @@ As an example, consider the case where a part of the system that initially consu
 
 ### 💦 Alternative Parallel Processing Approaches
 #### Distributed Computing
-↗ [Distributed Systems](../../../../../../../Information%20Systems%20&%20System%20Architecture%20Design/🌌%20Distributed%20Systems/Distributed%20Systems.md)
+↗ [Distributed Computing & Systems](../../../../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 #### Dataflow Computing
 ↗ [Dataflow Computing](📌%20Parallel%20Computing%20Alternative%20Modelings/Dataflow%20Computing.md)
 #### Neural Network

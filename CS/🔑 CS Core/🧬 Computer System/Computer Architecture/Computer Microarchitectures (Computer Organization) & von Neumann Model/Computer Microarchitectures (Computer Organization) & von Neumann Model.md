@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Classical Electromagnetism](../../../Hardware%20&%20EE%20Related/🍏%20Other%20Related%20Theories/Classical%20Electromagnetism.md)
-↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Classical Electromagnetism](../../../Hardware%20&%20EE%20Related%20Theories/🍏%20Other%20EE%20Theories%20Related%20with%20CS/Classical%20Electromagnetism.md)
+↗ [Digital (Logic) Electronics Foundations](../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 ↗ [Theory of Computation](../../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/Theory%20of%20Computation.md)
 ↗ [CPU (Central Processing Unit)](🚦%20Computer%20Processors%20&%20Logic%20Chips/📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Motherboard & Mainboard](Motherboard%20&%20Mainboard.md)
@@ -15,7 +15,7 @@
 ↗ [Firmware and Computer (OS) Booting](../../Firmware%20and%20Computer%20(OS)%20Booting/Firmware%20and%20Computer%20(OS)%20Booting.md)
 ↗ [Computer Bootstrap (Boot)](../../Firmware%20and%20Computer%20(OS)%20Booting/🌽%20Computer%20Bootstrap%20(Boot)/Computer%20Bootstrap%20(Boot).md)
 
-↗ [Devices Schematic Diagram & Teardown](../../../Hardware%20&%20EE%20Related/Computer%20Motherboards/Devices%20Schematic%20Diagram%20&%20Teardown.md)
+↗ [Devices Schematic Diagram & Teardown](../../../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20Motherboards/Devices%20Schematic%20Diagram%20&%20Teardown.md)
 
 
 
