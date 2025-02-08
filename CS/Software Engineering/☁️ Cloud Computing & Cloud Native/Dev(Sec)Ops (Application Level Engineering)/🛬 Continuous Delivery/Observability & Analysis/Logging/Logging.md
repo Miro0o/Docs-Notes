@@ -15,7 +15,7 @@
 ↗ [Opensearch Project](../../../../../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DBMS%20(DataBase%20Management%20System)%20Implementations/🏋️%20Database%20Engines%20&%20Search%20Engines/Opensearch%20Project/Opensearch%20Project.md)
 ↗ [ELK (Elasticsearch, Logstash, Kibana)](ELK%20(Elasticsearch,%20Logstash,%20Kibana)/ELK%20(Elasticsearch,%20Logstash,%20Kibana).md)
 
-↗ [Logging Services](../../../../../Web%20Development/🥪%20Middleware/Logging%20Services/Logging%20Services.md)
+↗ [Logging Services](../../../../../🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Logging%20Services/Logging%20Services.md)
 
 
 

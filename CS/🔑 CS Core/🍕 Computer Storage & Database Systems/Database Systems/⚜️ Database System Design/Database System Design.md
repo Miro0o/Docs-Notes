@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [DS Web Services' Architectures](../Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
+↗ [DS Web Services' Architectures](../DS%20Web%20Services'%20Architectures.md)
 ↗ [Information Systems & System Architecture Design](../../../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
 
 
@@ -31,7 +31,7 @@
 > Informations System;
 > Information System Lifecycle (ISLC), or Softwrae Development Lifecycle (SDLC);
 > 
-> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Dev%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
+> ↗ [SDLC (Software Development Life Circle) & SDLC Models](../../../../Software%20Engineering/Software%20Development%20Pattern/🔄%20SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models/SDLC%20(Software%20Development%20Life%20Circle)%20&%20SDLC%20Models.md)
 
 As a database system is a fundamental component of the larger organization-wide information system, the **database system development lifecycle** is inherently associated with the **lifecycle of the information system**. The stages of the database system development lifecycle are shown in Figure 10.1. Below the name of each stage is the section in this chapter that describes that stage.
 
@@ -59,7 +59,7 @@ Conceptual Desigb | Logical Design | Physical Design
 
 ### DBMS Application Design
 ↗ [DBMS Application Design](Database%20Application%20Design/DBMS%20Application%20Design.md)
-↗ [DS Web Services' Architectures](../Web%20&%20DBMS/DS%20Web%20Services'%20Architectures.md)
+↗ [DS Web Services' Architectures](../DS%20Web%20Services'%20Architectures.md)
 
 
 

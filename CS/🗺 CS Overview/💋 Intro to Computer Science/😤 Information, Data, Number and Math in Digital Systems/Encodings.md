@@ -97,7 +97,7 @@ Shell在逐行分析内容时，遇到“\n”，认为是一行内容结束。�
 
 
 ### JS Obfuscation
-↗ [JS Obfuscation](../../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
+↗ [JS Obfuscation](../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/JS%20Obfuscation.md)
 #### JSfuck
 #### Jother
 #### aaencode

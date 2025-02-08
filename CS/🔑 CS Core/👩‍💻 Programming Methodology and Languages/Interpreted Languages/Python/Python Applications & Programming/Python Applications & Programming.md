@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Python Web](../../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Python%20Web.md)
+↗ [Python Web](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Ecos/Python%20Web.md)
 ↗ [Python Based AI](../../../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🏗️%20AI%20(Data)%20Infrastructure%20&%20Stack/🛫%20Foundation%20Models%20&%20Libraries%20&%20SDKs/ML%20Programming%20&%20Frameworks/⭐️%20Python%20Based%20AI/Python%20Based%20AI.md)
 
 

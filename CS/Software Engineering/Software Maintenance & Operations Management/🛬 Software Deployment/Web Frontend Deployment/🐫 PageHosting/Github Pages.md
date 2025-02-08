@@ -17,8 +17,8 @@ Want to use your own custom domain for a GitHub Pages site? Just create a file n
 Learn how to create custom 404 pages, use submodules, and [learn more about GitHub Pages](https://help.github.com/categories/20/articles).
 
 ### Related Topics
-↗ [Jekyll](../../../../Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Jekyll.md)
-↗ [Github Page & Github Book](../../../../Web%20Development/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
+↗ [Jekyll](../../../../🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Jekyll.md)
+↗ [Github Page & Github Book](../../../../🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20Frontend%20Apps/Documentation%20&%20Static%20Site%20Generator%20(SSG)/Github%20Page%20&%20Github%20Book.md)
 
 
 

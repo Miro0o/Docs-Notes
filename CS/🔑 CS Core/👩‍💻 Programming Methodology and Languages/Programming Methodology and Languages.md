@@ -12,12 +12,16 @@
 ↗ [Program Execution & Compilation System](../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 ↗ [Program, Computer, and Automation](../../🗺%20CS%20Overview/Program,%20Computer,%20and%20Automation.md)
 
+↗ [Computing Methodologies](../../🧠%20Computing%20Methodologies/Computing%20Methodologies.md)
+- ↗ [Concurrent Computing](../../🧠%20Computing%20Methodologies/Concurrent%20Computing/Concurrent%20Computing.md)
+- ↗ [Distributed Computing & Systems](../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
+- ↗ [Parallel Computing](../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
+- ↗ [Quantum Computing](../../🧠%20Computing%20Methodologies/Quantum%20Computing/Quantum%20Computing.md)
+- etc.
+
 ↗ [Database Languages](../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/🗣️%20Database%20Languages/Database%20Languages.md)
 ↗ [HDL (Hardware Definition Languages)](../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/HDL%20(Hardware%20Definition%20Languages)/HDL%20(Hardware%20Definition%20Languages).md)
-↗ [Web Templating Engines & Languages](../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
-
-↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
-↗ [Galleries & Awesome SE](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
+↗ [Web Templating Engines & Languages](../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/⬆️%20Frontend%20Optimization/Web%20Templating/Web%20Templating%20Engines%20&%20Languages/Web%20Templating%20Engines%20&%20Languages.md)
 
 ↗ [Program Debugging & Defensive Programming](../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
 ↗ [System Level Programming](../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Programming.md)
@@ -29,6 +33,9 @@
 ↗ [Computer Graphics Programming](../../Software%20Engineering/Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
 ↗ [Concurrent Programming](../🧬%20Computer%20System/Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrent%20Programming.md)
 ↗ [Embedded Programming](../../Embedded%20&%20Internet%20of%20Things/Embedded%20Programming/Embedded%20Programming.md)
+
+↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+↗ [Galleries & Awesome SE](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
 
 ↗ [Software Security](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 ↗ [Binary Engineering & Software Analysis](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
@@ -129,7 +136,7 @@ https://github.com/jobbole
 #### 1️⃣ Declarative Programming Paradigm
 > 💡 [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) is a declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm, it's possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow.
 > 
-> My notes of Reactive Programing Paradigm can be found in 👉 [Software Engineering/Dev Pattern/RX](../../Software%20Engineering/Dev%20Pattern/RX/RX.md)
+> My notes of Reactive Programing Paradigm can be found in 👉 [Software Engineering/Dev Pattern/RX](../../Software%20Engineering/Software%20Development%20Pattern/RX/RX.md)
 
 It is divided as Logic, Functional, Database. In computer science the _declarative programming_ is **a style of building programs that expresses logic of computation without talking about its control flow**. It often considers programs as theories of some logic. It may simplify writing parallel programs. The focus is on what needs to be done rather how it should be done basically emphasize on what code is actually doing. It just declares the result we want rather how it has be produced. This is the only difference between imperative (how to do) and declarative (what to do) programming paradigms. Getting into deeper we would see logic, functional and database.
 ##### 1. Logic Programming Paradigm

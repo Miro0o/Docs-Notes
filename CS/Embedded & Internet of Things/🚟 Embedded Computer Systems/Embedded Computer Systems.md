@@ -6,7 +6,8 @@
 ## Res
 ### Related Topics
 ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
-↗ [Hardware & EE Related](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related/Hardware%20&%20EE%20Related.md)
+↗ [Hardware & EE Related Theories](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/Hardware%20&%20EE%20Related%20Theories.md)
+↗ [Computer System Implementations](../../🔑%20CS%20Core/Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
 
 
 ### Learning Resources

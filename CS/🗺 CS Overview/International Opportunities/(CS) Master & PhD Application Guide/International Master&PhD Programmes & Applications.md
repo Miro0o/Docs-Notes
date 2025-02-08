@@ -7,8 +7,8 @@
 ## Res
 ### Related Topics
 ↗ [International Opportunities](../International%20Opportunities.md)
-↗ [Academics](../../../../Academics/Academics.md)
-↗ [Academic Research Group & Tutors Profiles](../../../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
+↗ [Academics](../../../Academics%20🎓/Academics.md)
+↗ [Academic Research Group & Tutors Profiles](../../../Academics%20🎓/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
 ↗ [Natural Science Information](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
 
@@ -18,7 +18,7 @@
 ### CS School Academic Ranking
 ↗ [International Opportunities](../International%20Opportunities.md)
 
-↗ [Academics](../../../Academics/Academics.md) | 文献计量学与学术评价
+↗ [Academics](../../../Academics%20🎓/Academics.md) | 文献计量学与学术评价
 bibliometrics
 - https://www.topuniversities.com/world-university-rankings | QS, Quacquarelli Symonds
 - https://www.shanghairanking.com/rankings/arwu/ | ARWU, Shanghai Jiao Tong University

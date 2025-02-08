@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Entertainments & Media Devices](../../../Hardware%20&%20EE%20Related/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Entertainments%20&%20Media%20Devices/Entertainments%20&%20Media%20Devices.md)
+↗ [Entertainments & Media Devices](../../../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Input%20&%20Output%20Devices/Entertainments%20&%20Media%20Devices/Entertainments%20&%20Media%20Devices.md)
 
 
 

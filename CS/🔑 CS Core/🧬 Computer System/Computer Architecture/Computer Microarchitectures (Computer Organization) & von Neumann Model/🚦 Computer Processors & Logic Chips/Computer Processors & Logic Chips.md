@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Microchips, Chips, Computer Chips & IC (in General)](../../📌%20Computer%20Organization%20&%20Architecture%20Basics/Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
-↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
+↗ [Microchips, Chips, Computer Chips & IC (in General)](../../Microchips,%20Chips,%20Computer%20Chips%20&%20IC%20(in%20General).md)
+↗ [Digital (Logic) Electronics Foundations](../../../../Hardware%20&%20EE%20Related%20Theories/⚡️%20Digital%20(Logic)%20Electronics%20Foundations/Digital%20(Logic)%20Electronics%20Foundations.md)
 
 ↗ [CPU (Central Processing Unit)](📌%20Microprocessors%20Unit%20(MPU)/CPU%20(Central%20Processing%20Unit)/CPU%20(Central%20Processing%20Unit).md)
 ↗ [Embedded Hardwares & Chips](../../../../../Embedded%20&%20Internet%20of%20Things/🚟%20Embedded%20Computer%20Systems/Embedded%20Hardwares%20&%20Chips/Embedded%20Hardwares%20&%20Chips.md)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universe, Knowledge, and Intelligence.md",
+                "file": "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Universe, Knowledge, and Intelligence"
+              "title": "Web BackEnd Dev & Middleware"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5027122497559,
-    "collapsed": true
+    "width": 583.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -149,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universe, Knowledge, and Intelligence.md",
+                "file": "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Universe, Knowledge, and Intelligence"
+              "title": "Outline of Web BackEnd Dev & Middleware"
             }
           },
           {
@@ -187,70 +186,73 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "2d031c7896d7ff3a",
   "lastOpenFiles": [
-    "International Politics & Demography/Countries' Overview/🇨🇳 China/China.md",
-    "Personal Lives/This is X/This is X.md",
-    "International Politics & Demography/Countries' Overview/China 🇨🇳.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
-    "Personal Lives/Health.md",
-    "Personal Lives/Comedy.md",
-    "Personal Lives/Bargain.md",
-    "Personal Lives/This is X/🏝️ This is Life/🏝️ This is Life.md",
-    "Science & Technologies/Science & Technologies.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/Intro to Computer Science.md",
-    "Science & Technologies",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
+    "CS/Academics 🎓/Academics.md",
     "Universe, Knowledge, and Intelligence.md",
-    "International Politics & Demography/International Politics & Demography.md",
-    "Economics & Finance/Economics & Finance.md",
-    "Cultures/Cultures.md",
-    "CS/🥂 Welcome to CS.md",
-    "README.md",
-    "International Politics & Demography/Countries' Overview/United States 🇺🇸.md",
+    "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
+    "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Web Dev Middleware.md",
+    "CS/Software Engineering/Computer Graphics Programming/Computer Graphics Programming.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrent Programming.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Hardware & EE Related Theories.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Computer System Implementations.md",
+    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Computer Systems.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Computer Server Hosts/Computer Server Hosts.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Mobile Phones/Mobile Phones.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Personal Computers (PC)/Personal Computers (PC).md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Mobile Phones",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Personal Computers (PC)",
+    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Auxiliary Hardware & Peripherals (IO Devices).md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Adapter Cards (Expansion Cards)/Adapter Cards (Expansion Cards).md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Sound Cards/Sound Cards.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Audio Cards/Audio Cards.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Computer IO System.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Interfaces & Hardware Drivers/Computer Interfaces & Hardware Drivers.md",
+    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Bus (Ports & Computer Bus Interfaces).md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Sound Cards",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Audio Cards",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Output Devices/Display & Monitors/Display & Monitors.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Dongle/Dongle.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Output Devices",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input Devices",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Network Chips & Devices/Network Chips & Devices.md",
+    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/Network Devices Overview.md",
+    "CS/🔑 CS Core/Hardware & EE Related Theories/Network Chips & Devices",
+    "CS/🔑 CS Core/Hardware & EE Related/🛠️ Computer System Implementations/Computer Chips/Processor Chips",
+    "CS/Software Engineering/🕸️ Web Development & The Internet/Web Application Systems & Architecture Design/Web Application Systems",
+    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.png",
+    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.svg",
     "Assets/Pics/Pasted image 20250207212151.png",
     "Assets/Pics/Pasted image 20250207212105.png",
-    "CS/Academics/🎓 (CS) Academics Roadmap & Tool Chain/(CS) Academics Roadmap & Tool Chain.md",
-    "CS/Academics/Academics.md",
-    "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
-    "Assets/Illustrations/Computer Science Philosophy/Universe_and_CS.excalidraw.md",
     "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.png",
     "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.svg",
-    "Assets/Illustrations/Computer Science Philosophy/computing.excalidraw.md",
-    "CS/🗺 CS Overview/Program, Computer, and Automation.md",
-    "CS/🗺 CS Overview/Program Debugging & Defensive Programming.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/Importance Themes & Ideaology in CS.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/Great Ideas in Theoretical CS.md",
-    "CS/🧠 Computing Methodologies/Symbolic and Algebraic Manipulation",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
-    "CS/🧠 Computing Methodologies/Concurrent Computing",
-    "CS/🧠 Computing Methodologies/Distributed Computing",
-    "CS/🧠 Computing Methodologies/Computer Graphics (CG)",
-    "CS/🧠 Computing Methodologies/Modeling and Simulation",
-    "CS/🗺 CS Overview/CS of The Year/Rust std fs 比 Python 慢！真的吗！？.webarchive",
-    "CS/🗺 CS Overview/CS of The Year/Untitled.table",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/🔥 Natural Language Processing (NLP)/🦑 LLM (Large Language Model)/🚮 LLM Applications & LLM-Driven Automation",
-    "Assets/Illustrations/Computer Science Philosophy",
     "Assets/Pics/Screenshot 2025-01-21 at 13.26.49.png",
     "Assets/Pics/Screenshot 2025-01-21 at 13.25.49.png",
     "Assets/Pics/Screenshot 2025-01-21 at 13.24.38.png",
     "Assets/Pics/Screenshot 2025-01-21 at 13.23.34.png",
-    "Assets/Pics/Screenshot 2025-01-21 at 13.22.20.png",
-    "Assets/Illustrations/Computer Science Philosophy/Universe_and_CS.excalidraw.png",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

@@ -16,7 +16,7 @@
 
 ### Related Topics
 ↗ [Golang Runtime Environments](../../🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/Golang%20Runtime%20Environments/Golang%20Runtime%20Environments.md)
-↗ [Go Web](../../../../Software%20Engineering/Web%20Development/🗄️%20Web%20BackEnd%20Dev/Go%20Web.md)
+↗ [Go Web](../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Ecos/Go%20Web.md)
 
 
 ### Learning Resources
