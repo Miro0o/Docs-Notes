@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Program Debugging & Defensive Programming](../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debugging%20&%20Defensive%20Programming.md)
+↗ [Program Debugging & Defensive Programming](../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
 ↗ [Code Linters & Formatters](🛠️%20Programming%20Tools%20Chain/Code%20Linters%20&%20Formatters/Code%20Linters%20&%20Formatters.md)
 ↗ [Code Linters](🛠️%20Programming%20Tools%20Chain/Code%20Linters%20&%20Formatters/Code%20Linters.md)
 

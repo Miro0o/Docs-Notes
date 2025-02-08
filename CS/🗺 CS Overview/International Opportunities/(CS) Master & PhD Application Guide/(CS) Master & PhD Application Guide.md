@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [🌲 Road To CS](../../🌲%20Road%20To%20CS.md)
+↗ [🌲 Road To CS](../../💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 
 
 ### 🥰 Application Guides /Tips /Experiences

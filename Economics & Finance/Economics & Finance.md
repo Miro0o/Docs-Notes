@@ -1,4 +1,4 @@
-# Finance & Economics
+# Economics & Finance
 
 [TOC]
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [International Politics & Countries' Overview](../../../International%20Politics%20&%20Countries'%20Overview/International%20Politics%20&%20Countries'%20Overview.md)
+↗ [International Politics & Demography](../../../International%20Politics%20&%20Demography/International%20Politics%20&%20Demography.md)
 
 
 ### Forums

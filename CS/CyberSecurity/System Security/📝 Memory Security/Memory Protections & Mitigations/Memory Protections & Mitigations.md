@@ -31,7 +31,7 @@ Some modern languages are designed to be intrinsically memory-safe, no matter wh
 
 
 ### 2. Memory-Safety Codes /Defensive Programming (Programmer)
-> ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/Program%20Debugging%20&%20Defensive%20Programming.md)
+> ↗ [Program Debugging & Defensive Programming](../../../../🗺%20CS%20Overview/Program%20Debugging%20&%20Defensive%20Programming.md)
 
 One way to ensure memory safety is to carefully reason about memory accesses in your code, by defining pre-conditions and post-conditions for every function you write and using invariants to prove that these conditions are satisfied. Although it is a good skill to have, this process is painstakingly tedious and rarely used in practice, so it is no longer in scope for this class. 
 
