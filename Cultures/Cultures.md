@@ -1,4 +1,4 @@
-# Cultures, Literatures & Philosophy
+# Cultures
 
 [TOC]
 

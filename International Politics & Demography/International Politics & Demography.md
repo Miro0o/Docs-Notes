@@ -1,14 +1,10 @@
-# China
+# International Politics & Demography
 
 [TOC]
 
 
 
 ## Res
-🏠 
-🚧 
-
-
 ### Related Topics
 
 

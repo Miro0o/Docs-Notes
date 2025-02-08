@@ -9,7 +9,7 @@
 > 飞跃手册是各大高校自主编写的留学指导书以及本校案例库，本校 data point 对选校指导意义很大。
 #### PKU
 ---
-![img](../../Assets/Pics/title.png)
+![img](../../../Assets/Pics/title.png)
 
 CS自学指南
 - ↗ [一个仅供参考的CS学习规划](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/一个仅供参考的CS学习规划.md)
@@ -105,12 +105,12 @@ https://github.com/jobbole
 
 
 ### 0️⃣ Before you hit the road ...
-↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+↗ [（大陆高校）大学生活质量指北](../../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
-↗ [科技创新人才培养 -- 钱学森](../🏠%20Assets/Study,%20University,%20and%20Education/科技创新人才培养.md)
-↗ [我们需要怎样的数学教育？](../🏠%20Assets/Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
-↗ [How to learn English the right way](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
-- ↗ [外语学习误区及真实方法](../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
+↗ [科技创新人才培养 -- 钱学森](../../🏠%20Assets/Study,%20University,%20and%20Education/科技创新人才培养.md)
+↗ [我们需要怎样的数学教育？](../../🏠%20Assets/Study,%20University,%20and%20Education/我们需要怎样的数学教育？.md)
+↗ [How to learn English the right way](../../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+- ↗ [外语学习误区及真实方法](../../🏠%20Assets/📌%20How%20to%20learn%20English%20the%20right%20way/Appendixes/外语学习误区及真实方法.md)
 
 🔗 [What is academic integrity? - MIT](http://integrity.mit.edu/handbook/academic-integrity-mit/what-academic-integrity)
 
@@ -125,8 +125,8 @@ https://github.com/jobbole
 🔗 [What are office hours? - Cornell University](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)
 #### Universities' CS Training Scheme
 Computer Science
-- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../🏠%20Assets/Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
-- ↗ [斯坦福大学计算机专业培养方案剖析](../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
+- ↗ [加州大学伯克利分校(UCB)计算机专业课程体系解析](../../🏠%20Assets/Study,%20University,%20and%20Education/加州大学伯克利分校(UCB)计算机专业课程体系解析.md)
+- ↗ [斯坦福大学计算机专业培养方案剖析](../../🏠%20Assets/Study,%20University,%20and%20Education/斯坦福大学计算机专业培养方案剖析.md)
 - 🔗 [佐治亚理工学院计算机专业课程体系解析](https://mp.weixin.qq.com/s/5x5t2YswRVxPH9Zrzzef2A)
 - 🔗 [上海交通大学 ｜ 计算机科学与技术(081200)--培养方案基本信息](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/13564.htm)
 
@@ -141,59 +141,59 @@ Software Engineering
 	2. ↗ [一个仅供参考的CS学习规划](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/一个仅供参考的CS学习规划.md)
 2. CS Core /Foundation
 	1. This is hard but foundational. Nevertheless, you can learn these knowledges in parallel with other interesting course find below in specific CS fields.
-	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	5. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
-	4. ↗ [Computer Networking and Communication](../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
-	5. ↗ [Computer Storage & Database Systems](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
+	2. ↗ [Programming Methodology and Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	5. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	4. ↗ [Computer Networking and Communication](../../🔑%20CS%20Core/🏎️%20Computer%20Networking%20and%20Communication/Computer%20Networking%20and%20Communication.md)
+	5. ↗ [Computer Storage & Database Systems](../../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Computer%20Storage%20&%20Database%20Systems.md)
 
 
 ### 2️⃣ CS Specific Fields / CS Applications
-![computer_architecture_and_computer_science.excalidraw | 800](../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
+![computer_architecture_and_computer_science.excalidraw | 800](../../../Assets/Illustrations/Computer%20System/computer_architecture_and_computer_science.excalidraw.md)
 
 1. Theoretical Computer Science & Algorithms
-	1. ↗ [Math & Theoretical Computer Science (TCS)](../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
-	2. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	1. ↗ [Math & Theoretical Computer Science (TCS)](../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/Math%20&%20Theoretical%20Computer%20Science%20(TCS).md)
+	2. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	3. etc.
 2. Computer System
-	1. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	1. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 	2. etc.
 3. Software Engineering
-	1. ↗ [Software Engineering](../Software%20Engineering/Software%20Engineering.md)
-	2. ↗ [Programming Methodology and Languages](../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
-	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
-	4. ↗ [Program Execution & Compilation System](../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
+	1. ↗ [Software Engineering](../../Software%20Engineering/Software%20Engineering.md)
+	2. ↗ [Programming Methodology and Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
+	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	4. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 	5. etc.
 4. Large Scale Software System Architecture /Cloud
-	1. ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
-	2. ↗ [Information Systems & System Architecture Design](../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
-	3. ↗ [Awesome Architect](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
+	1. ↗ [Cloud Computing & Cloud Native](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
+	2. ↗ [Information Systems & System Architecture Design](../../Information%20Systems%20&%20System%20Architecture%20Design/Information%20Systems%20&%20System%20Architecture%20Design.md)
+	3. ↗ [Awesome Architect](../../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/Awesome%20Architect.md)
 	4. etc.
 5. Data Scientist /AI
-	1. ↗ [Data Science](../Data%20Science/Data%20Science.md)
-	2. ↗ [Artificial Intelligence](../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
-	3. ↗ [Algorithm & Data Structure](../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
+	1. ↗ [Data Science](../../Data%20Science/Data%20Science.md)
+	2. ↗ [Artificial Intelligence](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+	3. ↗ [Algorithm & Data Structure](../../🔑%20CS%20Core/🦄%20Algorithm%20&%20Data%20Structure/Algorithm%20&%20Data%20Structure.md)
 	4. etc.
 6. IoT /Hardware /Computer Engineering
-	1. ↗ [Embedded & Internet of Things](../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
-	2. ↗ [Computer System](../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
+	1. ↗ [Embedded & Internet of Things](../../Embedded%20&%20Internet%20of%20Things/Embedded%20&%20Internet%20of%20Things.md)
+	2. ↗ [Computer System](../../🔑%20CS%20Core/🧬%20Computer%20System/Computer%20System.md)
 	3. etc.
 7. Web3 /Metaverse /Cryptocurrency
-	1. ↗ [Web 3.0](../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
+	1. ↗ [Web 3.0](../../Web%203.0%20&%20Cryptocurrency/Web%203.0/Web%203.0.md)
 	2. etc.
 8. Human-Computer Interaction
-	1. ↗ [Human-Computer Interaction](../Human-Centered%20Computing/Human-Computer%20Interaction.md)
+	1. ↗ [Human-Computer Interaction](../../Human-Centered%20Computing/Human-Computer%20Interaction.md)
 9. Computer Security
-	1. ↗ [CyberSecurity](../CyberSecurity/CyberSecurity.md)
-	2. ↗ [Cryptology & Secure Communication](../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
+	1. ↗ [CyberSecurity](../../CyberSecurity/CyberSecurity.md)
+	2. ↗ [Cryptology & Secure Communication](../../CyberSecurity/🚬%20Cryptology%20&%20Secure%20Communication/Cryptology%20&%20Secure%20Communication.md)
 	3. etc.
 10. etc..
 
 
 ### 3️⃣ Embark your life with CS!
-↗ [Academics](../Academics/Academics.md)
-- ↗ [Academic Conference & Journals in Electronics & Information Fields](../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
-- ↗ [Academic Institutions in Electronic & Information Fields](../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
+↗ [Academics](../../Academics/Academics.md)
+- ↗ [Academic Conference & Journals in Electronics & Information Fields](../../Academics/🎻%20Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields/Academic%20Conference%20&%20Journals%20in%20Electronics%20&%20Information%20Fields.md)
+- ↗ [Academic Institutions in Electronic & Information Fields](../../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Institutions%20in%20Electronic%20&%20Information%20Fields.md)
 
 ↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 ↗ [CS & IT Jobs & Interns Related](CS%20&%20IT%20Jobs%20&%20Interns%20Related/CS%20&%20IT%20Jobs%20&%20Interns%20Related.md)
@@ -205,14 +205,15 @@ Software Engineering
 
 
 ## 🎉 More Res
-> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 
 
 ### Beyond CS/IT ..
 https://www.pkuanvil.com/topic/459/
 知乎回答备份
-[This is X](../🏠%20Assets/This%20is%20X/This%20is%20X.md)
+
+
 
 
 ### Generic IT Knowledge
@@ -368,12 +369,12 @@ For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technolo
 ---
 **3blue1brown**
 https://www.youtube.com/@3blue1brown
-↗ [🧠 This is Science](../🏠%20Assets/This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 李永乐
 https://www.youtube.com/@TchLiyongle
-↗ [🧠 This is Science](../🏠%20Assets/This%20is%20X/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 **Branch Education**
@@ -544,8 +545,8 @@ https://support.huawei.com/enterprise/zh/index.html
 
 
 ### PPL & Personal Blogs
-> ↗ [Web Blog Themes](../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
-> ↗ [Academic Research Group & Tutors Profiles](../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
+> ↗ [Web Blog Themes](../../Software%20Engineering/Web%20Development/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
+> ↗ [Academic Research Group & Tutors Profiles](../../Academics/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
 ---
 👍 👨‍🚀 [编程随想的博客](https://program-think.blogspot.com)
@@ -700,7 +701,7 @@ https://research.swtch.com/
 
 ### Campus Lifes
 ↗ [International Opportunities](International%20Opportunities/International%20Opportunities.md)
-↗ [（大陆高校）大学生活质量指北](../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
+↗ [（大陆高校）大学生活质量指北](../../🏠%20Assets/Study,%20University,%20and%20Education/（大陆高校）大学生活质量指北/（大陆高校）大学生活质量指北.md)
 
 ---
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
@@ -765,5 +766,5 @@ https://www.zhihu.com/question/264237428/answer/320325900
 
 [Latency Numbers Every Programmer Should Know]: https://colin-scott.github.io/personal_website/research/interactive_latency.html
 
-![](../../Assets/Pics/Screenshot%202024-07-20%20at%205.15.57%20PM.png)
+![](../../../Assets/Pics/Screenshot%202024-07-20%20at%205.15.57%20PM.png)
 
