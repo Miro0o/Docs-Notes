@@ -169,3 +169,6 @@ https://youtu.be/IaDFSZ9UnVg?si=zuI1bH8q7ZcV8Fvi
 
 
 
+## Ref
+挂靠、移民、假结婚，为了留在美国，他们都付出了什么？ - Doctor No的文章 - 知乎
+https://zhuanlan.zhihu.com/p/22044945

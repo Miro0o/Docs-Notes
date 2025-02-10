@@ -209,13 +209,6 @@ Software Engineering
 > ↗ [实用工具箱](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 
 
-### Beyond CS/IT ..
-https://www.pkuanvil.com/topic/459/
-知乎回答备份
-
-
-
-
 ### Generic IT Knowledge
 #### IT & CS Updates /Trending/ News /Analysis
 ---
@@ -753,6 +746,36 @@ The Cognitive Bias Codex
 https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
+
+### Life Philosophy & Beyond CS/IT...
+https://www.pkuanvil.com/topic/459/
+知乎回答备份
+
+---
+[为什么高校的科研项目大多烂尾了？](https://www.zhihu.com/question/665648172/answer/86682654632)
+
+作者：扇贝又回来了  
+链接：https://www.zhihu.com/question/665648172/answer/86682654632  
+来源：知乎  
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
+
+为了给冬奥会献礼，张家口斥资4000万，打算拍一部30分钟的水幕电影。
+- 项目转包给了严某，严某借助[武汉楚坤文化科技股份有限公司](https://zhida.zhihu.com/search?content_id=710451395&content_type=Answer&match_order=1&q=%E6%AD%A6%E6%B1%89%E6%A5%9A%E5%9D%A4%E6%96%87%E5%8C%96%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&zhida_source=entity)的资质，和政府签了合同。资金流水从他们公司走，严某从资金中分出1280万用于影片拍摄。
+- 严某以400万的价格将影片拍摄转包给老乡方某。
+- 方某又以220万的价格转包给了博能时代公司。
+- 博能时代的老总刘某以165万转包给学弟[汪某](https://zhida.zhihu.com/search?content_id=710451395&content_type=Answer&match_order=1&q=%E6%B1%AA%E6%9F%90&zhida_source=entity)。
+- 汪某又将这个项目以135万的价格转包给了他的学弟李某。
+- 李某手下有个小团队，主要做宣传片、展览展示等项目。接到这个订单后，买了几台新电脑，招了几个新员工，签完合同准备开工。
+- 最终该项目被转给[陈熙](https://zhida.zhihu.com/search?content_id=710451395&content_type=Answer&match_order=1&q=%E9%99%88%E7%86%99&zhida_source=entity)，陈熙自称电影学院导演进修班出身，要价10万。
+- 陈熙在网帖中表示，他的工作主要包括两部分。首先是商务对接和应酬，其次是带领团队在1个半月的时间里完成全部内容，包括现场实拍、演员棚拍、三维动画。在近两个月的制作之后，导演陈熙一分钱都没拿到。
+- 后因陈熙表示抗议，汪某临时给其转账4万元，又拖了一段时间，转账1.5万元。
+- 陈熙气昏了头，把这事抖搂到网上了，一时引起热议。
+- 6月24日，陈熙表示，网帖发布后影响较大，原帖已被他删除。当天下午甲方已将余下4.5万元项目款结清。
+
+一个4000万的项目，真正落实到项目上的，只有区区十万，十万块能搞个锤子啊，糊弄糊弄得了。
+
+水幕电影项目，只是一个缩影，实际的玩法可能比这个更花，而且，这样的项目很多。
 
 
 

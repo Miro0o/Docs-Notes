@@ -1020,6 +1020,8 @@ The following documents must be uploaded before the application deadline:
 https://www.ku.dk/studies/masters/computer-science#abount
 #### 👉 Technical University of Denmark (DTU)
 ##### Master of Science (MSc) in Computer Science and Engineering
+🚪 https://dans.stads.dk/SelfUserRegistration/faces/WelcomePage.jspx
+
 https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering
 - 🚪 [Application links for non-EU/EEA applicants](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/non-eu-eea-applicant)
 - [Application links for joint programmes](https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/application_form/joint-programmes)
