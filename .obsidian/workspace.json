@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Web BackEnd Dev & Middleware"
             }
+          },
+          {
+            "id": "4c8ef9ddc17a82f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "(CS) Master & PhD Application Guide"
+            }
+          },
+          {
+            "id": "02d8cb326bd7d12b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🌲 Road To CS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5027122497559
+    "width": 583.5027122497559,
+    "collapsed": true
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -148,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web BackEnd Dev & Middleware"
+              "title": "Outline of (CS) Master & PhD Application Guide"
             }
           },
           {
@@ -186,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +253,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d031c7896d7ff3a",
+  "active": "4c8ef9ddc17a82f1",
   "lastOpenFiles": [
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "CS/🗺 CS Overview/International Opportunities/Living Abroad China 🇨🇳.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
+    "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
     "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
     "CS/Academics 🎓/Academics.md",
     "Universe, Knowledge, and Intelligence.md",
-    "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
     "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Web Dev Middleware.md",
     "CS/Software Engineering/Computer Graphics Programming/Computer Graphics Programming.md",
     "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
@@ -232,13 +285,9 @@
     "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer Bus (Datapath) & Interfaces & Protocols/Expansion Bus (Ports & Computer Bus Interfaces)/Expansion Bus (Ports & Computer Bus Interfaces).md",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Sound Cards",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Audio Cards",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Output Devices/Display & Monitors/Display & Monitors.md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Dongle/Dongle.md",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Output Devices",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input Devices",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Network Chips & Devices/Network Chips & Devices.md",
-    "CS/🔑 CS Core/🏎️ Computer Networking and Communication/📌 Computer Networking Basics (Protocol Part)/Network Devices Overview.md",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Network Chips & Devices",
     "CS/🔑 CS Core/Hardware & EE Related/🛠️ Computer System Implementations/Computer Chips/Processor Chips",
     "CS/Software Engineering/🕸️ Web Development & The Internet/Web Application Systems & Architecture Design/Web Application Systems",
