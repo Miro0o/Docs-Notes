@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [🌲 Road To CS /⚰️ Work-Life Balance (WLB)](../CS/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#⚰️%20Work-Life%20Balance%20(WLB))
+↗ [🌲 Road To CS /⚰️ Work-Life Balance (WLB)](../../CS/🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md#⚰️%20Work-Life%20Balance%20(WLB))
 
 
 

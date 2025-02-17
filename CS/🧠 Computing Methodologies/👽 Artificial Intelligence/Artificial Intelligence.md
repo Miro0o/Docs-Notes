@@ -21,6 +21,9 @@
 https://www.jiqizhixin.com
 机器之心
 
+https://www.zhihu.com/org/xin-zhi-yuan-88-3
+智能 + 中国主平台 微信公众号：新智元
+
 https://huggingface.co
 huggingface
 
