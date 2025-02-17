@@ -3590,8 +3590,33 @@ dove
 - etc...
 
 drab
-- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
-- 
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, doleful, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
+- [olive drab](dic://olive drab)
+- [dreary](dic://dreary)
+- [sober](dic://sober), [somber](dic://somber), [sombre](dic://sombre)
+- [olive-drab](dic://olive-drab)
+- [blue](dic://blue), [dark](dic://dark), [depressing](dic://depressing), [dingy](dic://dingy), [disconsolate](dic://disconsolate), [dismal](dic://dismal), [dispiriting](dic://dispiriting), [gloomy](dic://gloomy), [grim](dic://grim), [sorry](dic://sorry), [drear](dic://drear), [dreary](dic://dreary)
+- _n._ [olive](dic://olive)
+- _adj._ [dull](dic://dull), [colorless](dic://colorless), [colourless](dic://colourless), [chromatic](dic://chromatic), [cheerless](dic://cheerless), [uncheerful](dic://uncheerful)
+- _n._ [lively](dic://lively), [colorful](dic://colorful), [colourful](dic://colourful), [achromatic](dic://achromatic), [cheerful](dic://cheerful)
+- **dreary**沉闷的，枯燥的;**dull**钝的;**bland**乏味的;**monotonous**无变化的, 单调乏味的;**gloomy**黑暗的;**boring**令人厌烦的;**bleak**荒凉的，无遮蔽的;**dismal**凄凉的，忧郁的;**uninteresting**无趣的,令人厌倦的;**beige**米黄色;**grey**灰色的;
+- _dribs and drabs_ 点点滴滴；片断
+	- He paid back the money in dribs and drabs. /他一点一点地还钱。
+	- People started arriving in dribs and drabs from nine o’clock onwards. /从九点钟起，人们开始三三两两地到了。
+- Life was now drab compared with the more exciting life style overseas. /比起海外那种更富有刺激的生活方式来,现在的生活显得了无生气。
+- In practice this often meant drab high-rises built with cheap aluminium frames. /在实践中，这通常是指用廉价铝框架建造的死气沉沉的高层建筑。
+- After painting two walls, I looked up and realized the color was terribly drab. /刷完两面墙后，我抬头看，发现这个颜色非常单调。
+
+draconian
+- draconian（严厉的）：推行严刑苛法的雅典统治者德拉古  
+- 公元前621年，希腊城邦雅典的统治者德拉古（Draco）迫于平民的压力，将以往的习惯法加以编纂，颁布了古希腊的第一部成文法。该法以严酷而闻名。对于刑事犯罪，一律处以死刑。就连盗窃水果这样的轻罪也是死刑。德拉古解释说轻罪本来就该处死，至于重罪，因为找不到比处死更重的刑罚，所以也是处死。德拉古法如此严酷，以至历史学家说它不是用墨水写的，而是用血写的。德拉古法后来被梭伦修改，但由此产生了单词draconian，形容严厉苛刻。  
+- 来自古希腊首位立法者 Draco,他将以前口口相传的法规以法典的形式加以明确并执行。但同时，由于这部法律过于严酷，即便微小的罪行也会被处以死刑，因此衍生词义严酷的。其字面意思为眼睛锐利的，词源同 dragon.比较同时期中国的“商鞅变法”。
+- draconian：[drə'konɪən] adj.严厉的，苛刻的。
+- _adj._ [Draco](dic://Draco)
+- **restrictive**限制的;**repressive**镇压的;**stringent**严格的;**punitive**惩罚性的;**onerous**繁重的;**tyrannical**暴君的,暴君似的;**lenient**仁慈的;**oppressive**压迫的;**drastic**激烈的;**imposition**强加,被迫接受;**cruel**残酷的，残忍的;
+- 例　Draconian measures have been implemented to control population growth. (LLA) 已经实行严厉的措施以控制人口增长。  
+- There has been an overall growth in population, despite some draconian efforts to contain it. (CCE) 尽管有严厉的抑制措施，但总的来说人口一直在增长。  
+- Draconian fines keep illegal parking in the city centre to a minimum. (CID) 严厉的罚款使市中心的非法停车降到了最低数。
 
 drain
 -  词源同 dry,排空，干。
@@ -6331,7 +6356,14 @@ hack
 		- To use the hackneyed phrase, here he found himself. /用一句陈腐的话说，他在这里可谓“得其所哉”。
 
 hag
+- 词源不详，原义为女巫，可能来自古英语 haga,树篱，篱笆，围栏，词源同 haw,hedge.因传说中女巫骑着树篱飞来飞去而得名，后引申词义丑老太婆。
+-  [beldam](dic://beldam), [beldame](dic://beldame), [witch](dic://witch), [crone](dic://crone)
+-  [hagfish](dic://hagfish), [slime eels](dic://slime eels)
+- _n._ [old woman](dic://old%20woman), [jawless vertebrate](dic://jawless%20vertebrate), [jawless fish](dic://jawless%20fish), [agnathan](dic://agnathan)
 - **witch**巫婆，女巫;**whore**卖淫，娼妓;**lady**女士，夫人;**bastard**私生的;**bitch**母狗，母狼;**demon**魔鬼;**vile**卑鄙的;**witches**魔女;**elf**小精灵;**cursed**被诅咒的;**troll**穴居巨怪，侏儒;
+- " Of death, perhaps, " muttered back Passepartout, " but of love—that ugly old hag? Never" ! /" 说她是死亡之神，我还同意，可是说她是爱情之神我决不同意！" 路路通说。" 她简直是个丑八怪！"
+- " Shut up, you horrible old hag, shut UP! " he roared, seizing the curtain Mrs Weasley had abandoned. /“闭嘴，你这个可怕的老巫婆，闭嘴！”他吼道，一把抓住韦斯莱夫人刚才丢下的帷幔。
+- Looking over them was a wrinkled, scraggy hag. /一个满脸皱纹、皮包骨的老太婆在旁边看着她们。
 - haggish
 	- _[haggish](dic://haggish)_  adj. 女巫似的；老妖似的
 
@@ -6755,6 +6787,15 @@ haul
 	- overhauler
 - etc..
 
+haw
+- n. 山楂, 吆喝牲畜左转, 呃, 瞬膜;   
+- [方言、古语]围场, 庭院; 树篱  
+- vt. 使向左转  
+- vi. 向左转
+- 拟声词。  
+- 来自古英语 haga,灌木，树篱，围场，词源同 hag, hedge.山楂义缩写自 haegberie,即 haw berry.
+- hawthorn
+
 haze
 - [daze](dic://daze), [fog](dic://fog)
 - _n._ [aerosol](dic://aerosol), [confusion](dic://confusion), [mental confusion](dic://mental confusion), [confusedness](dic://confusedness), [muddiness](dic://muddiness), [disarray](dic://disarray)
@@ -6988,6 +7029,11 @@ heed
 
 hedge
 - (avert, displace, blench, evitable, fence with, obviate, parry, runaround, shy away, slide over, hedge, elude, fudge, dodge, duck, skirt, shirk, shun, elude, eschew,  shrink, balk at)
+- n. 树篱, 障碍, 套头交易  
+- vt. 用树篱围, 套期保值, 妨碍, 两面下注以防...的损失  
+- vi. 筑树篱, 躲闪, 两面下注以防损失  
+- a. 树篱的, 偷偷摸摸的
+- 来自古英语 hecg,篱笆，篱笆墙，来自 PIE*kagh,编织，抓住，围住，词源同 hag,haw.后用于指树篱，引申词义缓冲，防备，拐弯抹角等。
 -  [hedgerow](dic://hedgerow)
 - [hedging](dic://hedging)
 -  [fudge](dic://fudge), [evade](dic://evade), [put off](dic://put off), [circumvent](dic://circumvent), [parry](dic://parry), [elude](dic://elude), [skirt](dic://skirt), [dodge](dic://dodge), [duck](dic://duck), [sidestep](dic://sidestep)
@@ -8035,6 +8081,26 @@ inane
 	- [lassitude](dic://lassitude), [lethargy](dic://lethargy), [slackness](dic://slackness)
 	- **exhaustion**精疲力竭;**starvation**挨饿, 饥饿;**paralysis**瘫痪;**dehydration**脱水;**insufficiency**不充足,不足;**malnutrition**营养失调，营养不良;**atrophy**萎缩，萎缩症;**illness**疾病;**malaise**不舒服;**indifference**不关心,不在乎;**death**死;
 	- I was now nearly sick from inanition, having taken so little the day before /我现在几乎因营养不良而生病，因为前一天吃的太少了。
+
+inchoate
+- (mellow, ripe, jejune, immature, inchoate, callow)
+- a. 刚开始的, 不成熟的, 未发达的
+- 来自拉丁语 incohare,挂上，开始，来自 in-,进入，使，cohum,皮带，牛轭，词源同 haw,hedge.其原义为给牛挂上轭带，使牛开始耕田，后引申词义开端。
+- [incipient](dic://incipient)
+- _adj._ [early](dic://early)
+- _n._ [late](dic://late),   
+- **amorphous**无定形的;**vague**不明确的;**incoherent**不连贯的;**nascent**初期的;**primordial**原始的;**muddled**混乱的;**disjointed**脱离开的,不连贯的;**incomprehensible**费解的;**irrational**无理性的;**apprehension**理解;**disorganized**紊乱的, 无组织的;
+- _[inchoate instrument](dic://inchoate%20instrument)_  空白支票
+- Once people are found out cancered, except few inchoate can be cured by operation, most of others are uncurable. /人们一旦发现患上癌症，除个别早期可以手术治疗外，其它大部分是无法治愈的。
+- Inchoate symptom basically is the haemorrhage that plaque and bead cell are lacked badly and causes and infection, the symptom of severe anemia appears latish. /早期症状主要为血小板和粒细胞严重缺乏而引起的出血和感染，严重贫血的症状出现稍迟。
+- As we write, we turn what might have been an inchoate sob into something intelligible, plausible, compassion-inducing and moving /当我们写作的时候，我们把可能是早期的哭泣变成了可以理解的、合理的、引起同情的和感人的东西。
+- inchoative
+	- _n._ [aspect](dic://aspect)
+	- _adj._ [immature](dic://immature)
+	- _n._ [mature](dic://mature)
+	- **verb**动词;**participle**分词;**verbs**动词;**nouns**名词;**grammatical**语法的;**adjective**形容词;**noun**名词;**tense**拉紧的;**predicate**断言;**pronoun**代词;**possessive**所有格;
+	- Economic globalization is inchoative at capitalist country, be in early capitalism develops initial stage to begin /经济全球化发端于资本主义国家,早在资本主义发展初期就开始了。
+- inchoation
 
 ink
 - kau-
@@ -9778,6 +9844,7 @@ monsoon
 - _monsoon rain_ 季风雨
 
 moody
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - **brooding**沉思的;**melancholy**忧郁, 悲哀;**gloomy**黑暗的;**introspective**好反省的;**dreamy**梦想的;**somber**昏暗的;**mellow**成熟的;**edgy**尖利的;**irritable**易怒的, 急躁的;**jazzy**爵士乐的;**moods**情绪;
 - [tennis player](dic://tennis player), [evangelist](dic://evangelist), [revivalist](dic://revivalist), [gospeler](dic://gospeler), [gospeller](dic://gospeller)
 - [dark](dic://dark), [dour](dic://dour), [glowering](dic://glowering), [glum](dic://glum), [morose](dic://morose), [saturnine](dic://saturnine), [sour](dic://sour), [sullen](dic://sullen)
@@ -15451,7 +15518,7 @@ sully
 - _[sully secured creditors](dic://sully%20secured%20creditors)_ 担保充分的债权人
 - This has been an election that has been sullied from the very start /这是一场从一开始就被玷污的选举。
 surly
-- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, )
+- (moody, dreary, drab, dingy, grim, gloomy, lugubrious, tenebrous, melancholy, dismal, somber, bleak, glum, sulky, sullen, huffish, dolorous, weeping, sorrowful, dolefule, surly, grumpy, languid, saturnine, morose, sour, dour, wistful, mawkish, bathetic, drippy, hokey, maudlin, mushy, schmaltzy, schmalzy, sentimental, soppy, soupy, slushy)
 - nclined to anger or bad feelings with overtones of menace
 	- a surly waiter
 - **grumpy**脾气暴躁的;**unfriendly**不友好的;**cranky**暴躁的;**arrogant**自大的，傲慢的;**rude**粗鲁的;**cocky**自大的;**condescending**降低身份的,屈尊的;**belligerent**好战的;**jaded**厌倦的;**obnoxious**可憎的;**chatty**饶舌的;
@@ -16655,26 +16722,7 @@ waft
 - wafts of sulphurous fumes 一阵阵含硫的烟。
 
 wag
-- **tail**尾部;**tails**钱币背面;**finger**手指;**paw**抓，扒;**lick**舔;**clap**鼓掌，拍手;**hound**追猎;**tongues**舌头，语言;**chin**下巴;**rub**擦;
-- [humorist](dic://humorist), [humourist](dic://humourist), [agitation](dic://agitation)
-- [jiggle](dic://jiggle), [joggle](dic://joggle), [wiggle](dic://wiggle)
-- _[so the world wags](dic://so%20the%20world%20wags)_  世事沧桑就是如此；这就是世事变迁
-- _[wag](dic://wag)_  v. （动物尾巴）来回摇摆；来回摇动（竖立的手指）；议论；（非正式）逃学; n. 老开玩笑的人；摇动，摆动；（非正式）逃学者; 
-- _[wagging](dic://wagging)_  v. （动物尾巴）来回摇摆；来回摇动（竖立的手指）；议论；（非正式）逃学（wag 的现在分词）
-- waggish
-	- witty or joking
-		- _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
-		- _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
-	- **wry**面部肌肉扭曲的;**sly**狡猾的;**witty**诙谐的;**mischievous**淘气的, 顽皮的;**irreverent**不敬的;**cheeky**无耻的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**playful**爱嬉戏的;**sarcastic**讽刺的;**shrewd**精明的;
-	- Muskrat Castle,as the house had been facetiously named by some waggishofficer(James Fenimore Cooper. /马斯克拉特城堡，是一些机智幽默的军官给这所房子所起的滑稽的名字（詹姆斯·费尼莫尔·库珀）。
-	- " No; that isn't it, " he said, chiding her with a waggish forefinger /“不； 不是这样，” 他说，用摇摆的食指责备她。
-- waggery
-	- 1. waggish behavior
-		- _synonymous：_ [waggishness](dic://waggishness)
-	- a quaint and amusing jest
-		- _synonymous：_ [drollery](dic://drollery)
-	- _n._ [fun](dic://fun), [play](dic://play), [sport](dic://sport), [jest](dic://jest), [joke](dic://joke), [jocularity](dic://jocularity)
-	- I don't think it waggery and I feel tough about the day. 这个计划比较笼统，但坚持最重要了，时间和细则偶还没想清楚。
+- -wegh
 
 waggle
 - [wag](dic://wag), [shake](dic://shake)
@@ -16700,12 +16748,8 @@ wage
 - wage freeze
 - wage earner
 
-waggon
-- [beach wagon](dic://beach wagon), [station wagon](dic://station wagon), [wagon](dic://wagon), [beach waggon](dic://beach waggon), [station waggon](dic://station waggon)
-- [wheeled vehicle](dic://wheeled vehicle), [car](dic://car), [auto](dic://auto), [automobile](dic://automobile), [machine](dic://machine), [motorcar](dic://motorcar)
-- **wagon**货车，四轮马车;**carriage**四轮马车;**lorry**卡车;**chariot**二轮战车;**caravan**旅行队;**horse**马;**trolley**手推车;**sleigh**乘雪橇;**locomotive**火车头, 机车;**ox**牛;**donkey**驴子;
-- waggonage
-	- _n._ 〈主英〉货车运输费
+waggon (wagon)
+- -wegh
 
 walk
 - 来自 PIE*wel,转，摇摆，词源同 Volvo,voluble.引申词义步行，蛇行。-k,加强语音。

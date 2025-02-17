@@ -3469,8 +3469,14 @@
 	8. disarm, disarming
 		1. disarmament
 	9. rearm
-		1. v. 重整军备, 重新武装
-		2. rearmament
+		1. _v._ [arm](dic://arm), [build up](dic://build%20up), [fortify](dic://fortify), [gird](dic://gird)
+		2. **disarm**解除武装;**deploy**使展开;**regroup**重新组合;**reload**重新装;**invade**侵略;**replenish**补充;
+		3. After the war, the defeated country was not allowed to rearm. /战后，战败国不被允许重整军备。
+		4. We went on a mission to rearm frontline troops in Iraq. /我们执行过武装伊拉克前线部队的任务。
+		5. He considers he needs two years safe behind the Maginot Line in order to rearm the country. /他认为他需要安全守候在马奇诺防线后两年，好让法国重新恢复武装。
+		6. The calls for Britain to rearm which began in the early 1930s were initially in response to the threat from Japan rather than Germany. /1930 年代初期开始呼吁英国重新武装的呼声最初是为了应对日本而非德国的威胁。
+		7. v. 重整军备, 重新武装
+		8. rearmament
 	11. unarm, unarmed
 8. **arm-, art-** = skill, joint, trick, 表示“技巧，关节，诡计”。
 	1. arm

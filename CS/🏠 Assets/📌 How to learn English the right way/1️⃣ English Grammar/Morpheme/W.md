@@ -1251,49 +1251,74 @@
 13. wag
 	1. vt. 摇摆, 摇动, 饶舌 vi. 摆动, 喋喋不休  
 	2. n. 摇摆, 爱说笑打趣的人
-	3. wagtail
-	4. waggle
-	5. waggish
-	6. waggery
-	7. tightwad
-	8. tail-wagging
-14. wagon
-15. wain
-	1. n. 四轮运货马车, 北斗七星
-16. wave
-	1. n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变  
-	2. vi. 波动, 飘动, 挥手示意, 起伏  vt. 使波动, 使飘扬, 挥舞, 使成波浪形
-	3. wavy
-	4. waveson
-	5. waveshape
-	6. waver
-		1. (oscillation, vacillation, scrupulous,  hesitate, apprehension, misgiving, irresolute, waver)
-		2.  [hesitation](dic://hesitation), [falter](dic://falter), [faltering](dic://faltering)
-		3.  [flutter](dic://flutter), [flicker](dic://flicker)
-		4.  [hesitate](dic://hesitate), [waffle](dic://waffle)
-		5.  [falter](dic://falter)
-		6.  [fluctuate](dic://fluctuate), [vacillate](dic://vacillate)
-		7.  [flicker](dic://flicker), [flitter](dic://flitter), [flutter](dic://flutter), [quiver](dic://quiver)
-		8.  [weave](dic://weave)
-		9.  [quaver](dic://quaver)
-		10. _n._ [communicator](dic://communicator), [pause](dic://pause), [motion](dic://motion), [movement](dic://movement), [move](dic://move), [motility](dic://motility)
-		11. _v._ [hesitate](dic://hesitate), [waffle](dic://waffle), [move](dic://move), [swing](dic://swing), [move back and forth](dic://move back and forth), [sway](dic://sway), [voice](dic://voice)
+	3. **tail**尾部;**tails**钱币背面;**finger**手指;**paw**抓，扒;**lick**舔;**clap**鼓掌，拍手;**hound**追猎;**tongues**舌头，语言;**chin**下巴;**rub**擦;
+	4. [humorist](dic://humorist), [humourist](dic://humourist), [agitation](dic://agitation)
+	5. [jiggle](dic://jiggle), [joggle](dic://joggle), [wiggle](dic://wiggle)
+	6. _[so the world wags](dic://so%20the%20world%20wags)_  世事沧桑就是如此；这就是世事变迁
+	7. _[wag](dic://wag)_  v. （动物尾巴）来回摇摆；来回摇动（竖立的手指）；议论；（非正式）逃学; n. 老开玩笑的人；摇动，摆动；（非正式）逃学者; 
+	8. _[wagging](dic://wagging)_  v. （动物尾巴）来回摇摆；来回摇动（竖立的手指）；议论；（非正式）逃学（wag 的现在分词）
+	9. 
+	10. waggish
+		1. witty or joking
+			1. _adj._ [humorous](dic://humorous), [humourous](dic://humourous)
+			2. _n._ [humorless](dic://humorless), [humourless](dic://humourless), [unhumorous](dic://unhumorous)
+		2. **wry**面部肌肉扭曲的;**sly**狡猾的;**witty**诙谐的;**mischievous**淘气的, 顽皮的;**irreverent**不敬的;**cheeky**无耻的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**humorous**诙谐的，幽默的;**playful**爱嬉戏的;**sarcastic**讽刺的;**shrewd**精明的;
+		3. Muskrat Castle,as the house had been facetiously named by some waggish. officer(James Fenimore Cooper. /马斯克拉特城堡，是一些机智幽默的军官给这所房子所起的滑稽的名字（詹姆斯·费尼莫尔·库珀）。
+		4. " No; that isn't it, " he said, chiding her with a waggish forefinger /“不； 不是这样，” 他说，用摇摆的食指责备她。
+	11. waggery
+		1. 1. waggish behavior
+			1. _synonymous：_ [waggishness](dic://waggishness)
+		2. a quaint and amusing jest
+			2. _synonymous：_ [drollery](dic://drollery)
+		3. _n._ [fun](dic://fun), [play](dic://play), [sport](dic://sport), [jest](dic://jest), [joke](dic://joke), [jocularity](dic://jocularity)
+		4. I don't think it waggery and I feel tough about the day. 这个计划比较笼统，但坚持最重要了，时间和细则偶还没想清楚。
+	12. wagtail
+	13. waggle
+	14. tightwad
+	15. tail-wagging
+14. wagon (waggon)
+15. waggon (wagon)
+	1. [beach wagon](dic://beach wagon), [station wagon](dic://station wagon), [wagon](dic://wagon), [beach waggon](dic://beach waggon), [station waggon](dic://station waggon)
+	2. [wheeled vehicle](dic://wheeled vehicle), [car](dic://car), [auto](dic://auto), [automobile](dic://automobile), [machine](dic://machine), [motorcar](dic://motorcar)
+	3. **wagon**货车，四轮马车;**carriage**四轮马车;**lorry**卡车;**chariot**二轮战车;**caravan**旅行队;**horse**马;**trolley**手推车;**sleigh**乘雪橇;**locomotive**火车头, 机车;**ox**牛;**donkey**驴子;
+	4. waggonage
+		1. _n._ 〈主英〉货车运输费
+16. wain
+	2. n. 四轮运货马车, 北斗七星
+17. wave
+	3. n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变  
+	4. vi. 波动, 飘动, 挥手示意, 起伏  vt. 使波动, 使飘扬, 挥舞, 使成波浪形
+	5. wavy
+	6. waveson
+	7. waveshape
+	8. waver
+		5. (oscillation, vacillation, scrupulous,  hesitate, apprehension, misgiving, irresolute, waver)
+		6.  [hesitation](dic://hesitation), [falter](dic://falter), [faltering](dic://faltering)
+		7.  [flutter](dic://flutter), [flicker](dic://flicker)
+		8.  [hesitate](dic://hesitate), [waffle](dic://waffle)
+		9.  [falter](dic://falter)
+		10.  [fluctuate](dic://fluctuate), [vacillate](dic://vacillate)
+		11.  [flicker](dic://flicker), [flitter](dic://flitter), [flutter](dic://flutter), [quiver](dic://quiver)
+		12.  [weave](dic://weave)
+		13.  [quaver](dic://quaver)
+		14. _n._ [communicator](dic://communicator), [pause](dic://pause), [motion](dic://motion), [movement](dic://movement), [move](dic://move), [motility](dic://motility)
+		15. _v._ [hesitate](dic://hesitate), [waffle](dic://waffle), [move](dic://move), [swing](dic://swing), [move back and forth](dic://move back and forth), [sway](dic://sway), [voice](dic://voice)
 			1. [hesitate](dic://hesitate) 普通用词，一般指在决定干什么，选择什么或说什么等行动之前犹豫不决。  
 			2. [waver](dic://waver) 指因优柔寡断而迟迟不见行动，或虽作出决定，伸行动上却犹豫不决，因此含畏缩不前之意
-		12. **unwavering**不动摇的,坚定的;**steadfast**坚定的;**tremble**战栗;**betray**背叛;**persevere**坚忍, 坚持;**hesitant**踌躇的;**budge**移动;**fade**褪色;**commitment**承诺;**seeming**外观;**stand**位于;
-		13. She wavers a little when she walks /她走路时有些摇晃。
-		14. He tried to stiffen his wavering soldiers /他企图使动摇的士兵坚强起来。
-		15. she never wavered from her intention. /她对自己意图一直很明确。
-	8. wavelet
-	9. wavelength
-	10. microwave
-	11. etc..
-17. way
+		16. **unwavering**不动摇的,坚定的;**steadfast**坚定的;**tremble**战栗;**betray**背叛;**persevere**坚忍, 坚持;**hesitant**踌躇的;**budge**移动;**fade**褪色;**commitment**承诺;**seeming**外观;**stand**位于;
+		17. She wavers a little when she walks /她走路时有些摇晃。
+		18. He tried to stiffen his wavering soldiers /他企图使动摇的士兵坚强起来。
+		19. she never wavered from her intention. /她对自己意图一直很明确。
+	9. wavelet
+	10. wavelength
+	11. microwave
+	12. etc..
+18. way
 
 
 ### + \*wei- +
 #### + \*wei- (3) + = 
-1. **vic-, vit-** = fault, 表示“缺陷、过错、污点”。源自拉丁语 vitium "fault, vice."
+19. **vic-, vit-** = fault, 表示“缺陷、过错、污点”。源自拉丁语 vitium "fault, vice."
 	1. vitiable
 	2. vitiate
 		1. - vt. 损害，弄坏；使无效；污染
@@ -1332,14 +1357,14 @@
 		7. vituperator
 		8. vituperative
 		9. vituperation
-2. **vitilig-, vitiligin-** = 表示“白斑”。源自拉丁语 vitiligo "tetter, blemish."
+20. **vitilig-, vitiligin-** = 表示“白斑”。源自拉丁语 vitiligo "tetter, blemish."
 	1. vitiligo
 		1. _n._ [skin disease](dic://skin disease), [disease of the skin](dic://disease of the skin), [skin disorder](dic://skin disorder), [skin problem](dic://skin problem), [skin condition](dic://skin condition)
 		2. **psoriasis**牛皮癣,银屑癣;**eczema**湿疹;**pigmentation**色素淀积;**acne**痤疮，粉刺;**melanoma**黑素瘤;**dermatitis**皮肤炎;**lupus**狼疮;**autoimmune**自身免疫的;**skin**皮肤;**dermatologist**皮肤病学家;**epilepsy**癫痫，癫痫症;
 
 
 ### + \*weie- +
-1. **vin-, vis-** = force, 表示“力量”。源自拉丁语 vis "force."
+21. **vin-, vis-** = force, 表示“力量”。源自拉丁语 vis "force."
 	1. vindicate 
 		1. (absolve, acquittal, vindicate, exculpate, disculpate, exonerate)
 		2. (convict, incriminate, inculpate)
@@ -1414,7 +1439,7 @@
 		5. _n._ [good health](dic://good health), [healthiness](dic://healthiness), [liveliness](dic://liveliness), [life](dic://life), [spirit](dic://spirit), [sprightliness](dic://sprightliness)
 		6. **vigor**活力，精力;**git**饭桶;**syntax**语法;**python**大蟒;**Unix**一种多用户的计算机操作系统;**gusto**热情,乐趣,津津有味;**lib**解放的;
 			1. in his youth he was full of vim and vigour
-2. **viol-** = violence, strength 表示“暴力，力量”。源自拉丁语 vis "force."
+22. **viol-** = violence, strength 表示“暴力，力量”。源自拉丁语 vis "force."
 	1. violent, violence
 		1. nonviolence
 		2. nonviolent
@@ -1425,7 +1450,7 @@
 		4. inviolate
 		5. violable
 		6. inviolacy
-3. **vit-** = 表示“追求、恳请”。源自拉丁语 invitare "to invite."
+23. **vit-** = 表示“追求、恳请”。源自拉丁语 invitare "to invite."
 	1. invite
 		1. uninvited
 		2. self-invited
@@ -1442,13 +1467,13 @@
 		8. invitatory
 		9. invitation
 			1. invitational
-4. gain
+24. gain
 
 
 ### ⭐ + \*weid- + = to know, to see
-1. **-ode** = like, 表示“像”，一般用于希腊语借词。
+25. **-ode** = like, 表示“像”，一般用于希腊语借词。
 	1. etc..
-2. **-oid** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."
+26. **-oid** = form, 表示“…之物”，在几何学上表示“…形”；作形容词后缀，表示“如…的”。‘o’为希腊语中的连词符，id=eidos, 希腊语，表示“样貌、影像”。源自希腊语 eidos "form, shape."
 	1. acidoid
 	2. actinoid
 	3. adenoid
@@ -1483,7 +1508,7 @@
 	32. trapezoid
 		1. 
 	33. etc...
-3. **-ways** = 副词后缀，表示“方向”，是后缀 -wise 的变体。
+27. **-ways** = 副词后缀，表示“方向”，是后缀 -wise 的变体。
 	1. broadways
 	2. cornerways
 	3. crossways
@@ -1495,12 +1520,12 @@
 	9. sideways
 	10. slantways
 	11. someways
-4. **-wise** = 表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。
+28. **-wise** = 表副词，“方向，状态，样子，在...方面等”，和后缀 -oid 有亲缘关系。
 	1. anywise
 	2. archwise
 	3. bridlewise
 	4. etc... (todo)
-5. **eid-, idol-** = = image, 表示“形象，偶像”，和表示看的词根vid-同源，原指能看出来的形状。希腊语中 eidos（影像）不定式为 idein（to see）
+29. **eid-, idol-** = = image, 表示“形象，偶像”，和表示看的词根vid-同源，原指能看出来的形状。希腊语中 eidos（影像）不定式为 idein（to see）
 	1. idol, idolize, idolizations
 	2. idolater, idolatress
 	3. idolatry
@@ -1513,7 +1538,7 @@
 	8. kaleidoscope
 		1. kaleidoscopical
 		2. kaleidoscopic
-6. **idea-, ideo-** = idea ,表示“思想，观点”。源自希腊语 idea "appearance, form, idea."
+30. **idea-, ideo-** = idea ,表示“思想，观点”。源自希腊语 idea "appearance, form, idea."
 	1. ideograph （pictographic, hieroglyphic, ideographic）
 		1. _n._ [character](dic://character), [grapheme](dic://grapheme), [graphic symbol](dic://graphic symbol)
 		2. **kanji**日本汉字;**calligraphy**书法;**phonetic**语音的，语音学的;**symbol**符号;**symbols**符号;**ASCII**美国信息交换标准码;**idiom**成语，习语;**numeral**数字;**Chinese**中文，汉语;**Confucius**孔子;
@@ -1583,7 +1608,7 @@
 		9. idyllic
 	8. ideoplasty
 		1. ideotype
-7. **vis-, vid-** = see, 表示“看”。拉丁语 (过去分词 visus) videre "to see" 进入古法语演变成 veue, 对应 view。
+31. **vis-, vid-** = see, 表示“看”。拉丁语 (过去分词 visus) videre "to see" 进入古法语演变成 veue, 对应 view。
 	1. view
 		1. view
 		2. viewport
@@ -1943,18 +1968,18 @@
 		25. bird-witted
 		26. beef-witted
 		27. afterwit
-8. guise
+32. guise
 	1. 印欧语w音，日耳曼人用w表示；罗曼语族（包括后来诺曼征服的人）念起来比较费劲，而且他们的语言里没有w字母，用gu表示这个w音（后期更是简化为g）音。如guard和warden，waranty和guaranty，warrior和guerrilla，guise和wise等。两种形式在不同时期通过不同途径进入英语并保留到现在。
 	2. **pretense**借口;**pretext**托辞;**ostensibly**表面上地;**ruse**诡计;**auspices**支持;**disguise**假装;**behest**命令;**cloak**斗蓬;**semblance**外表;**moniker**名字;**under**低于，少于;
 	3. [semblance](dic://semblance), [gloss](dic://gloss), [color](dic://color), [colour](dic://colour)
 	4. [pretense](dic://pretense), [pretence](dic://pretence), [pretext](dic://pretext)
-9. history
-10. story
-11. wit
+33. history
+34. story
+35. wit
 
 
 ### + \*weidh+
-1. **vid-, vis-** = separate, 表示“分开”。源自拉丁语 videre "to separate."
+36. **vid-, vis-** = separate, 表示“分开”。源自拉丁语 videre "to separate."
 	1. vidual
 		1. adj. 寡妇的，守寡的
 		2. viduity
@@ -1980,12 +2005,12 @@
 		9. divisive
 		10. divisor
 	5. evitable, inevitable
-2. widow
+37. widow
 
 
 ### + \*weik- +
 #### + \*weik- (1) +
-1. **eco-, ecu-, oce-** = house, 表示“家”，引申为环境。源自希腊语 oikos "house."
+38. **eco-, ecu-, oce-** = house, 表示“家”，引申为环境。源自希腊语 oikos "house."
 	1. diocesan, diocese
 		1. dia-穿过 + oce-家
 		2. - 来自希腊语 dioikesis,管理，来自 dia-,穿过，整个的，oikos,家，屋子，词源同 villa,economy.即一家之主，用于指主教辖区。
@@ -2084,7 +2109,7 @@
 		7. Minister, that is a narrow and parochial view. /大臣，这是狭隘局限的看法。
 		8. Success has been anything but parochial. Six of the nine biggest firms sell more abroad than at home. /成功绝不是闭门造车。最大的九家企业中有六家，其产品在国外市场比国内市场更畅销。
 		9. e're still locked in a 17th-century paradigm of parochial national sovereignty. /我们仍然停留在 17 世纪狭隘的国家主权范式中。
-2. **vill-** = 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."
+39. **vill-** = 表示“村庄、农场”，常引申为“邻居、附近”。源自拉丁语 villa "country house, farm," vicus "quarter or district of a town, neighborhood."
 	1. villain
 		2. villa【村庄，农场】 + -ain表人，原指奴隶等地位地下的人，有强烈的贬义
 		3. villain（恶棍）：在古罗马农场干活的奴隶  
@@ -2143,9 +2168,9 @@
 		6. _immediate vicinity_ 紧邻
 		7. vicinage
 		8. vicinal
-10. vaisya
+40. vaisya
 #### + \*weik- (3) + = to be like
-1. **icon-** = image, 表示“形象”。源自希腊语 eikon "likeness, image."
+41. **icon-** = image, 表示“形象”。源自希腊语 eikon "likeness, image."
 	1. icon
 	2. iconoclasm
 	3. iconoclast, iconoclastic
@@ -2154,7 +2179,7 @@
 		1. **symbolism** 象征主义, 象征手法;**imagery**比喻;**emblems**象征动作;**motifs**图案;**mythology**神话;**symbols**符号;**depiction**描写;**emblem**象征;**motif**主题;**allegory**寓言;**mythological**神话的;
 		2. 
 #### + \*weik- (5) + = to fight, conquer
-1. **vict-, vinc-** = conquer, overcome, 表示“征服，克服”。源自拉丁语 vincere "to conquer."
+42. **vict-, vinc-** = conquer, overcome, 表示“征服，克服”。源自拉丁语 vincere "to conquer."
 	1. vincinsible
 	2. vincible
 	3. invincible
@@ -2258,7 +2283,7 @@
 
 
 ### + \*weis- +
-1. **vir-, vis-** = poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。
+43. **vir-, vis-** = poison, virus, 表示“毒，病毒”。源自拉丁语 virus "poison, sap of plants, slimy liquid, a potent juice"。
 	1. viscid
 	2. viscose
 		1. n. 纤维胶；人造丝；黏胶织物；黏胶
@@ -2309,10 +2334,10 @@
 		1. n. 病毒体，病毒颗粒
 	6. virome
 	7. viruria
-2. bison
+44. bison
 	1. _n._ [bovid](dic://bovid)
 	2. **elk**麋鹿;**buffalo**水牛;**moose**驼鹿;**deer**鹿，梅花鹿;**herds**畜群;**wolves**贪婪者;**wolf**狼;**cattle**牛;**prairie**大草原;**antlers**鹿角;**boar**野猪;
-3. ooze (booze, snooze, schmooze, dooze, wayzgooze)
+45. ooze (booze, snooze, schmooze, dooze, wayzgooze)
 	1. _vi._ (浓液等)慢慢地冒出, 渗出 _vt._ 使(液体)缓缓流出
 	2. (浓液)渗出，慢慢流出 _n._ 泥浆, (河底的)淤泥
 	2. [sludge](dic://sludge), [slime](dic://slime), [goo](dic://goo), [gook](dic://gook), [guck](dic://guck), [gunk](dic://gunk), [muck](dic://muck)
@@ -2330,20 +2355,20 @@
 	14. Then, as he stepped forward, his foot sank into the ooze. /接着当他正向前行进时，突然一脚陷进烂泥中。
 	15. Snail slime is a lubricating mucus the animals ooze as they slide along. /蜗牛粘液是蜗牛爬行时分泌的一种润滑粘液。
 	16. I love the confidence that oozes from this man /我喜欢这个男人身上流露出来的自信。
-5. weasel
+46. weasel
 	1. _n._ [musteline mammal](dic://musteline mammal), [mustelid](dic://mustelid), [musteline](dic://musteline)
 	2. **bastard**私生的;**fox**欺骗;**turd**可鄙的人;**critter**动物;**squirrel**松鼠;**rat**鼠;**dishonest**不诚实的;**bugger**家伙;**sneaky**鬼鬼祟祟的;**hound**追猎;**asshole**屁眼儿,肛门;
 	3. _catch a weasel asleep_ 乘精明细心的人麻痹不备欺骗他
 	4. The weasel is a very pretty little creature. /黄鼬是一种很可爱的小动物。
 	5. she suspects me of trying to weasel my way into his affections /她怀疑我企图骗取他的感情。
-6. wisent
+47. wisent
 	1.  [aurochs](dic://aurochs), [Bison bonasus](dic://Bison bonasus)
 	2. _n._ [bison](dic://bison)
 	3. **bison**北美野牛;**elk**麋鹿;**moose**驼鹿;**boar**野猪;**herds**畜群;**wolf**狼;**deer**鹿，梅花鹿;**herd**兽群，畜群;**wolves**贪婪者;**domesticated**喜欢家庭生活的;**antlers**鹿角;
 
 
 ### + \*wekw- + = to speak
-1. **ep-** = speaking, 「Greeks」epos, "song, word"
+48. **ep-** = speaking, 「Greeks」epos, "song, word"
 	1. cacoepy
 		1. _[cacoepy](dic://cacoepy)_  n. 发音不准；发育不良
 	2. orthoepy
@@ -2352,7 +2377,7 @@
 	4. epic
 	5. epopee
 		1. _[epopee](dic://epopee)_  叙事诗; 史诗;
-2. **voc-, vok-, vow-, voic-** = call, voice, 「Latin」vox, "voice"
+49. **voc-, vok-, vow-, voic-** = call, voice, 「Latin」vox, "voice"
 	1. vouch
 		1. 来自法语，来自词根voc-声音，指在法庭上宣誓，进而引申为担保、证明。
 		2. vi. 担保, 保证, 证明, 确定地说  
@@ -2630,7 +2655,7 @@
 
 ### ⭐ + \*wel- +
 #### + \*wel-(2) + = to wish, will
-1. **gal-, gall-** = merry, 表示“欢乐”。源自古法语 galer "to rejoice."
+50. **gal-, gall-** = merry, 表示“欢乐”。源自古法语 galer "to rejoice."
 	1. gala
 		1. (exuberant, elate, ecstasy, arouse, elicit, provoke, enraptured, rapturous, rhapsodic, euphoric, exhilarate, gay, jocund, jolly, jovial, merry, funny, amusing, comic, risible, joyous, jubilant, rejoicing, triumphal, rapt, jesting, jocular, mirthful, enjoyable, enthralled, overjoy, exultant, exulting, ebullient, )
 		2. (ecstatic, elate, excite, stir, uplift, intoxicate, lift up, exalt, extol, tout, praise, alacrity, astute, adroit, frolic, lark, rollick, skylark, sport, cavort, gambol, frisk, romp, run around, lark about, disport, mirth, felicitous, gala, regale, )
@@ -2695,7 +2720,7 @@
 		18. This is the concept **regale** of life and fortune. /这是人生和财富的理念盛宴。
 		19. This is the **regale** of the thought /这是一次思想的盛宴。
 		20. regalement
-5. **vol-, volunt-** = wish, will, 表示“意志，意愿”。源自拉丁语 velle (词干 vol-) "to wish, will."
+51. **vol-, volunt-** = wish, will, 表示“意志，意愿”。源自拉丁语 velle (词干 vol-) "to wish, will."
 	1. benevolence, benevolent
 		1. bene-好 + vol-意志 + -ence, 表名词 → 好意。
 		2. n. 善意, 慈悲, 善行
@@ -2783,20 +2808,20 @@
 		12. _[for weal and woe](dic://for%20weal%20and%20woe)_ 无论在顺境或逆境
 		13. _[weal and woe detail](dic://weal%20and%20woe%20detail)_ 福祸
 		14. _[the weal and woe](dic://the%20weal%20and%20woe)_ 指生活上的困苦
-6. wealth
-7. will
+52. wealth
+53. will
 #### ⭐ + \*wel- (3) + = to turn, to revolve
-1. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
+54. **elytr-, elytro-** = 表示“鞘”，医学上引申为“阴道”。源自希腊语 elytron "sheath."
 	1. elytron
 	2. etc..
-2. **helic-** = spiral, 表示“螺旋”。源自希腊语 helix "spiral object."
-3. **helminth-** = 表示“蠕虫，肠虫”，多用于医学词汇。源自希腊语 helmis, helmins (词干 helminth-) "parasitic worm."
+55. **helic-** = spiral, 表示“螺旋”。源自希腊语 helix "spiral object."
+56. **helminth-** = 表示“蠕虫，肠虫”，多用于医学词汇。源自希腊语 helmis, helmins (词干 helminth-) "parasitic worm."
 	1. helminth
 	2. helminthiasis
 	3. etc..
-4. **ile-, ileo-, ili-, ilio-** = ile-, ileo-, 表示“回肠”，ili-, ilio- 表示髂骨。源自拉丁语 ileum (复数ilia) 表示“腹部，肋”
+57. **ile-, ileo-, ili-, ilio-** = ile-, ileo-, 表示“回肠”，ili-, ilio- 表示髂骨。源自拉丁语 ileum (复数ilia) 表示“腹部，肋”
 	1. etc..
-5. **volt-, volv-, volut-** =  roll, turn, 表示“卷，转”。源自拉丁语 volvere "to roll."
+58. **volt-, volv-, volut-** =  roll, turn, 表示“卷，转”。源自拉丁语 volvere "to roll."
 	1. **solv-, solu-, solut-** = loosen，松开 (leu-)
 	2. volute (-volve, solve)
 		1. [spiral](dic://spiral)
@@ -2980,7 +3005,7 @@
 		16. vaulter
 		17. vaulted
 		18. pole-vault
-7. **vulv-, vulvo-** = 表示“外阴”，用于解剖学词汇。源自拉丁语 vulva, volva "covering, womb."
+59. **vulv-, vulvo-** = 表示“外阴”，用于解剖学词汇。源自拉丁语 vulva, volva "covering, womb."
 	1. vulva
 		1. _n._ [female genitalia](dic://female genitalia), [female genitals](dic://female genitals), [female genital organ](dic://female genital organ), [fanny](dic://fanny)
 		2. **vagina**阴道;**anus**肛门;**genitals**生殖器;**vaginal**阴道的;**cervix**子宫颈;**genital**生殖的;**rectum**直肠;**buttocks**臀部;**penis**阳物，阴茎;**uterus**子宫;**pubic**阴部的;
@@ -2989,19 +3014,19 @@
 	4. vulvovaginal
 		1. _[vulvovaginal candidiasis](dic://vulvovaginal%20candidiasis)_  女阴阴道念珠菌病; 外阴阴道念珠菌病;
 	5. vulvovaginitis
-8. vale
+60. vale
 	1. a long depression in the surface of the land that usually contains a river
 		1.  [valley](dic://valley)
 	2. _n._ [natural depression](dic://natural depression), [depression](dic://depression)
 	3. **valley**山谷;**meadows**草地;**valleys**凹处;**brook**小河;**hills**丘陵;**dale**山谷;**meadow**草地;
-9. valley
+61. valley
 	1. [vale](dic://vale)
 	2. _n._ [natural depression](dic://natural depression), [depression](dic://depression)
 	3. **canyon**峡谷;**hills**丘陵;**hillside**山坡，山腹;**foothills**山麓丘陵;**mountains**山，山地，山脉，高山;**river**河，江;**mountain**山脉;**ravine**峡谷;**ridge**山脉;**gorge**峡，峡谷;**hill**小山;
-10. wallet
+62. wallet
 	1. [billfold](dic://billfold), [notecase](dic://notecase), [pocketbook](dic://pocketbook)
 	2. **purse**钱包，小钱袋;**pocket**口袋;**handbag**手提包;**briefcase**公文包;**backpack**远足用的背包;**debit**记入借方，登入借方;**bag**袋;**pouch**小袋;**suitcase**手提箱;**tote**携带;**cash**现款，现金;
-11. wallow (wobble) (mallow, hallow, sallow, shallow, hollow, harrow, wallow, callow)
+63. wallow (wobble) (mallow, hallow, sallow, shallow, hollow, harrow, wallow, callow)
 	1. 1. vi. 打滚；颠簸；沉迷 n. 打滚；堕落；泥坑
 	2. [welter](dic://welter)
 	3. [billow](dic://billow)
@@ -3013,8 +3038,8 @@
 	8. My wallow is legitimate. I was dumped. / 我萎靡是合理的。我被甩了。
 	10. Don't lay there wallowing in your past, man /别躺在那里沉湎于过去，伙计。
 	11. They may wallow in the mud, but domestic pigs clean up in the intelligence department. /他们可能会沉浸在泥泞中，但家猪在情报部门却很干净。
-1. waltz
-2. welt
+64. waltz
+65. welt
 	1. n. 贴边，[服装]沿条；鞭痕；殴打 
 	2. vt. 加沿条于……；使……留下鞭痕；对……进行殴打
 	3. n. 红肿  
@@ -3030,16 +3055,16 @@
 	13. Chances are, you've had the opportunity to study firsthand the swollen, itchy welt left by a mosquito bite. /很有可能，你会有机会研究有关肿胀的第一手资料——被蚊虫叮咬后留下的痒痕。
 	14. It was scarred, flattened, thickened, checkered, and welted. /它伤痕累累， 扁平化，变厚，方格和贴边。
 	15. 
-4. welter (helter-skelter, swelter)
+66. welter (helter-skelter, swelter)
 	1. (patchwork, welter, hodgepodge,  clutter, jumble, muddle, fuddle, mare's nest, smother)
 	2.  [clutter](dic://clutter), [jumble](dic://jumble), [muddle](dic://muddle), [fuddle](dic://fuddle), [mare's nest](dic://mare's nest), [smother](dic://smother)
 	3.  [wallow](dic://wallow)
 	4. _n._ [disorderliness](dic://disorderliness), [disorder](dic://disorder)
 	5. _v._ [roll over](dic://roll over), [move](dic://move)
 	6. **heavyweight**特别重的人或物;**middleweight**中量级选手;**welterweight**次中量级拳击手;**tangle**混乱状态;**bouts**发作;**amidst**在…当中;**awash**被浪冲打的;**dizzying**使人眩晕的，使人头昏眼花的;**weighty**重的;**flurry**一阵疾风;**amid**在其中，在其间;
-6. whelk
+67. whelk
 #### + \*wel- (4) +
-1. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
+68. **vel-, vil-** = velvet, shaggy, 表示“羊毛，羊绒”。原始含义“撕、拔”，又拔羊毛引申为“羊毛”。源自拉丁语 villus "shaggy hair, wool."
 	1. villus
 		1. 来自拉丁语 villus,毛发，绒毛，羊毛，词源同 wool.用做解剖学术语
 		2. _n._ [process](dic://process), [outgrowth](dic://outgrowth), [appendage](dic://appendage)
@@ -3073,7 +3098,7 @@
 		1. _[velure](dic://velure)_  n. 天鹅绒类；天鹅绒刷子；天鹅绒垫子
 		2. velutinous
 	6. velour, velours
-2. **vuls-, vult-** = pluck, tear, 表示“收缩，撕开”。源自拉丁语 vellere "to tear, pull."
+69. **vuls-, vult-** = pluck, tear, 表示“收缩，撕开”。源自拉丁语 vellere "to tear, pull."
 	1. avulse
 		1. _avulsed_  adj. （伤口的组织等）被撕开的; v. 撕脱；抽出（avulse的过去式）;
 		2. avulsion, avulsing
@@ -3130,7 +3155,7 @@
 
 
 ### + \*weme- +
-1. **emet-** = to vomit, 表示“呕吐”。源自希腊语 emein "to vomit."
+70. **emet-** = to vomit, 表示“呕吐”。源自希腊语 emein "to vomit."
 	1. emetic (laxatives, emetic, constipate, )
 		1. 来自 PIE*weme,吐，呕吐，拟声词，词源同 vomit.
 		2. n. 催吐剂  
@@ -3145,19 +3170,19 @@
 		11. Caution: large doses of this remedy are **emetic** /注意：大量服用这种药物会引致呕吐。
 	2. emesis
 		1. n. 呕吐
-2. vomit
+71. vomit
 
 
 ### + \*wen- + 
 #### + \*wen- (1) +  = to desire, strive for
-1. **venen-** = poison，表示“毒”，早期表示“春药”。源自拉丁语 venenum "love potion, poison."
+72. **venen-** = poison，表示“毒”，早期表示“春药”。源自拉丁语 venenum "love potion, poison."
 	1. venene n. 蛇毒素
 	2. venenate, venenous
 	3. venom
 		1. venomous, antivenomous, 
 		2. envenom
 			1. **proc**程序，步骤;**mana**神力，超自然力量;**poison**使中毒，放毒于;**haste**匆忙;**poisons**毒药，毒物;**venom**毒液;**melee**混战，格斗;**mage**博学者;**dagger**匕首，短剑;**rupture**破裂;**buff**浅黄色;
-2. **vener- =** = love, sexual desire; loveliness, charm，表示魅力、性等。源自拉丁语 venari "to hunt."
+73. **vener- =** = love, sexual desire; loveliness, charm，表示魅力、性等。源自拉丁语 venari "to hunt."
 	1. venerate
 		1. (adoration, saint, shrine, martyrs, pious, deity)
 		11. (famed, illustrious, esteemed, beloved, storied, fabled, stalwart, legendary)
@@ -3226,8 +3251,8 @@
 		2. _n._ [game](dic://game)
 		3. **meat**肉，肉类;**beef**牛肉;**turkey**火鸡;**deer**鹿，梅花鹿;**lamb**羔羊，小羊;**elk**麋鹿;**veal**小牛肉;**meats**肉类;**pork**猪肉;**sausages**香肠， 腊肠;**bison**北美野牛;
 		4. His appetite for venison seems to be inappeasable. /他对鹿肉的嗜好似乎是永远无法满足。
-3. Venus
-4. wean
+74. Venus
+75. wean
 	1. _v._ [deprive](dic://deprive), [estrange](dic://estrange), [alienate](dic://alienate), [alien](dic://alien), [disaffect](dic://disaffect)
 	2. **breastfeed**喂奶;**dependence**依赖,依靠;**feeding**饲养;**feed**喂养;
 	3.  [ablactate](dic://ablactate)
@@ -3239,7 +3264,7 @@
 	9. He aims, ambitiously, to wean the kingdom off oil.
 	10. Once weaned from the ephemeral craving for TV, most people will find they enjoy the time they spend reading.
 	11. Nicotine replacement therapy through gum, skin patches, lozenges, and sprays may help wean smokers off cigarettes
-5. win
+76. win
 	1. vt. 赢得, 打胜, 成功  
 	2. vi. 获胜, 达到, 影响  
 	3. n. 胜利, 赢, 收益
@@ -3252,7 +3277,7 @@
 		5. He secreted his winnings in a drawer. /他把赢来的钱藏在抽届里。
 		6. Wolf Larsen was counting his winnings. /海狼拉尔森在数着赢来的钱。
 		7. How much was your share of the **winnings**? /在赢的钱里你那份有多少？
-6. wish
+77. wish
 	1. 来自 Proto-Germanic*wunsk,来自 PIE*wen,努力，追求，渴望，希冀，词源同 Venus,win.
 	2. n. 希望, 愿望, 祝愿, 命令, 请求  
 	3. vt. 愿, 想要, 希望, 祝愿  
@@ -3293,7 +3318,7 @@
 			3. The world suffers most from the disinterested tyranny of its well **wisher**. /世界在漠然的苛政中为善者承受极大的痛楚。
 		2. ill-wisher
 	22. well-wishing
-7. wistful (wishful)
+78. wistful (wishful)
 	1. 
 	2. 不确定词源。可能来自不再使用的词 wistly,关注的，来自 whist,安静，见 whist,惠斯特纸牌游戏，词义受 wishful 影响。
 	3. adj. （因求而不得）失意的，伤感的；思念的，怀旧的
@@ -3325,7 +3350,7 @@
 
 ### + ⭐ \*wer- +
 #### + \*wer- (1) + = High raised spot or other bodily infirmity
-1. **var-, vari-** = vary, change, 表示“变化”。源自拉丁语 varius "spotty, speckled, changeable."
+79. **var-, vari-** = vary, change, 表示“变化”。源自拉丁语 varius "spotty, speckled, changeable."
 	1. variably
 		1. variability
 	2. variate
@@ -3439,7 +3464,7 @@
 	20. varifocal
 	21. variodenser
 	22. varitron
-2. **varic-, varico-** 表示“静脉曲张”。和 vary（变化）同源。源自拉丁语 varius "spotty, speckled, changeable."
+80. **varic-, varico-** 表示“静脉曲张”。和 vary（变化）同源。源自拉丁语 varius "spotty, speckled, changeable."
 	1. varicocele
 		1. **hernia**脱肠;**infertility**不肥沃,不毛;**cyst**胞,包囊,膀胱;**hysterectomy**子宫切除;**cysts**囊;**stenosis**狭窄;**testosterone**睾丸激素;**prostate**前列腺;**surgery**外科;**sperm**精液;**ejaculation**突然的叫出声;
 	2. varicose
@@ -3456,7 +3481,7 @@
 	5. varix, varices
 		1. lymphangiovarix
 		2. lymphadenovarix
-3. **varicell-** = varicella, 表示“水痘”，和词根 vari- 变化同源。源自拉丁语 varius "spotty, speckled, changeable."
+81. **varicell-** = varicella, 表示“水痘”，和词根 vari- 变化同源。源自拉丁语 varius "spotty, speckled, changeable."
 	1. varicella
 		1. **measles**麻疹;**immunization**免疫;**vaccination**种痘;**vaccine**疫苗;**influenza**流行性感冒;**meningitis**脑膜炎;**HPV**人乳头状瘤病毒;**vaccines**疫苗;**herpes**疱疹;**dengue**登革热;**smallpox**天花;
 		2. _[varicella vaccine](dic://varicella%20vaccine)_  水痘疫苗
@@ -3464,7 +3489,7 @@
 	3. varicelliform
 	4. varicellization
 	5. varicelloid
-4. **variol-** = variola, 表示“天花”，和词根 vari- 变化同源。源自拉丁语 varius "spotty, speckled, changeable."
+82. **variol-** = variola, 表示“天花”，和词根 vari- 变化同源。源自拉丁语 varius "spotty, speckled, changeable."
 	1. variola
 		1. [smallpox](dic://smallpox), [variola major](dic://variola major)
 		2. **smallpox**天花;**virus**病毒;**measles**麻疹;**influenza**流行性感冒;**polio**脊髓灰质炎;**anthrax**炭疽，炭疽热;**cholera**霍乱;**pandemic**在全国流行的;**viruses**病毒;**vaccine**疫苗;**tuberculosis**肺结核;
@@ -3479,17 +3504,17 @@
 	5. variolation
 		1. **smallpox**天花;**vaccination**种痘;**practised**熟练的;**cholera**霍乱;**vaccine**疫苗;**infection**传染;**measles**麻疹;
 		2. [inoculating](dic://inoculating), [vaccinating](dic://vaccinating)
-5. **verr-, verruc-**
-6. verruca
-7. warble
+83. **verr-, verruc-**
+84. verruca
+85. warble
 	1. n. 用颤音唱的歌, 鸟啭, 颤声; 牛皮下的肿块  
 	2. v. 鸟鸣, 用柔和的颤声唱
 	3.  可能来自拟声词，或来自 PIE*wer,弯，转，词源同 vibrate,wring.用于指颤音，莺啼鸟啭。
-8. wart
+86. wart
 	1. n. 疣, 瘤
 	2.  来自拉丁语 verruca,疣，赘肉，来自 PIE*wers,身体的肿块或相关疾病，可能来自 PIE*wer的引申词义，弯，转，隆起，拱起，词源同 wring,warp.
 #### + \*wer- (2) = raise, lift, hold suspended
-1. **aer-, aero, aeri-** = air, 表示“空气，充气”等。源自希腊语 aer "air."
+87. **aer-, aero, aeri-** = air, 表示“空气，充气”等。源自希腊语 aer "air."
 	1. aerial
 		1. a. 空中的, 航空的, 空气的, 空想的  
 		2. n. 天线
@@ -3629,7 +3654,7 @@
 		4. soarer
 		5. soaraway
 		6. outsoar
-21. **aort-** 表示“主动脉”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
+88. **aort-** 表示“主动脉”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
 	1. aorta
 		1. n. 主动脉
 		2. aortas
@@ -3644,8 +3669,8 @@
 		7. aorticorenal
 			1. 主动脉[与]肾的
 			2. aortic【a. 主动脉的】 + ren-肾 + -al
-22. **arter-** = pipe, 表示“管道”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
-23. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
+89. **arter-** = pipe, 表示“管道”。源自希腊语 aeirein "to raise," arteria "wind pipe, artery."
+90. **malar-** 表示“疟疾”，来自mal-坏 + air-空气。
 	1. malaria
 		1. n. 疟疾, 瘴气
 		2. malaria（疟疾）：由脏空气引发的疾病  
@@ -3658,7 +3683,7 @@
 		9. There's still a high incidence of malaria in the area. /这一地区疟疾的患病率仍然很高。
 		10. Malaria is a kind of serious malady /疟疾是一种严重的疾病。
 		11. The vast majority of people really only develop either mild malaria or even asymptomatic infections. /绝大多数人只会感染轻度疟疾，或甚至不会出现任何症状。
-24. aria
+91. aria
 	1. n. 独唱特写镜头, 咏叹调
 	2. aria - 此系音乐术语，指“咏叹调”，18世纪上半叶直接借自意大利语，在意大利语中有“曲调”、“空气”等义，相当于英语的air。据说英语中有四分之三音乐术语借自或源于意大利语，诸如violin（小提琴），opera（歌剧），tempo（拍子），duet（二重唱），sonata（奏鸣曲），concerto（协奏曲）。
 	3. _n._ [song](dic://song), [vocal](dic://vocal)
@@ -3667,7 +3692,7 @@
 	6. So a recitative will be--and indeed all the arias will be accompanied by basso continuo /宣叙调 实际上还有所有的咏叹调都是由持续低音伴奏。
 	7. This difficult aria gives a good example of the sweet and expressive voice that made Beverly Sills famous. /这首有难度的咏叹调是展现希尔斯甜美而富有表现力的声音的一个很好的例子，正是这幅嗓音让她成名。
 #### ⭐ + \*wer- (3) = to turn, bend
-1. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
+92. **-ward, -wards** = 表形容词或副词，“向…”，词尾-s为副词所有格。源自古英语 -weard "toward."
 	1. citywards, 
 		1. fieldwards 
 		2. landwards
@@ -3740,9 +3765,9 @@
 		12. This wayward Italian boyfriend of yours. /你那放荡不羁的意大利男友。
 		13. And, by the way, it's not like your family doesn't have a wayward streak, okay? /再说了，你们家也有一个惹事生非的家伙好吗？
 		14. My only option is to restrain my wayward hair in a ponytail and hope that I look semi presentable. /我只能把我糟糕的头发扎成马尾，并且希望我看起来更象样。
-1. **rhabdo-** = stick, 表示“棍子”，来自希腊语。源自希腊语 rhabdos "rod."
+93. **rhabdo-** = stick, 表示“棍子”，来自希腊语。源自希腊语 rhabdos "rod."
 	1. etc...
-2. **ver-, vers-, vert-, vir-** = turn, 表示“转”。源自拉丁语 vertere, versare "to turn."
+94. **ver-, vers-, vert-, vir-** = turn, 表示“转”。源自拉丁语 vertere, versare "to turn."
 	1. verse, versed
 		1. [poetry](dic://poetry), [poesy](dic://poesy)
 		2. [rhyme](dic://rhyme)
@@ -4331,7 +4356,7 @@
 			3. universality
 			4. universalist
 			5. universalism
-4. **verber-** = to beat, 「Latin」 verberate, "to strike, to beat"
+95. **verber-** = to beat, 「Latin」 verberate, "to strike, to beat"
 	1. reverberant
 		1. _adj._ [bright](dic://bright), [brilliant](dic://brilliant), [clinking](dic://clinking), [reechoing](dic://reechoing), [hollow](dic://hollow), [jingling](dic://jingling)
 		2. _n._ [unreverberant](dic://unreverberant), [nonresonant](dic://nonresonant)
@@ -4361,7 +4386,7 @@
 		18. reverberator
 		19. reverberative
 		20. reverberation
-5. **verg-** = to turn,to bend, 表示“倾向；倾斜”。源自拉丁语 vergere "to turn, bend toward."
+96. **verg-** = to turn,to bend, 表示“倾向；倾斜”。源自拉丁语 vergere "to turn, bend toward."
 	1. verge
 		1.  [brink](dic://brink), [threshold](dic://threshold)
 		2. [scepter](dic://scepter), [sceptre](dic://sceptre), [wand](dic://wand)
@@ -4386,7 +4411,7 @@
 			1. [diverge](dic://diverge) 指从一主道分成Y形。  
 			2. [deviate](dic://deviate) 强调离开思想、行动或规则的惯例。
 		3. **converge**集中于一点;**differ**使…相异;**deviate**偏离;**divergent**分歧的;**intersect**)相交;**divergence**分叉，叉开;**converging**收敛的;**evolve**发展，进化;**vary**变化;**radically**根本地;**markedly**明显地;
-6. **verm-** = worm, 表示“蠕虫”。源自拉丁语 vermis "worm."
+97. **verm-** = worm, 表示“蠕虫”。源自拉丁语 vermis "worm."
 	1. vermian
 	2. vermicelli
 	3. vermiform
@@ -4400,7 +4425,7 @@
 	11. vermiculite
 	12. vermilion
 	13. vermillion
-7. **vertebr-** = joint, vertebra, 表示“椎骨, 脊椎或连接处”，源自拉丁语 vertebra，和词根 vert-（转）同源，-bra 为拉丁语工具格。
+98. **vertebr-** = joint, vertebra, 表示“椎骨, 脊椎或连接处”，源自拉丁语 vertebra，和词根 vert-（转）同源，-bra 为拉丁语工具格。
 	1. vertebrate
 		1. vertebr-脊柱 + -ate
 		2. **mammalian**哺乳动物;**mammals**哺乳类;**mammal**哺乳动物;**amphibians**两栖动物;**avian**鸟类的;**reptiles**爬行类;**eukaryotic**真核状态的;**reptile**爬虫类的;**species**物种;**aquatic**水生的;**primate**大主教;
@@ -4409,7 +4434,7 @@
 		1. intervertebral
 	5. vertebrae
 	6. vertebra
-8. **worth-** = value, 表示“价值”。源自古英语 weorth "worth, valuable."
+99. **worth-** = value, 表示“价值”。源自古英语 weorth "worth, valuable."
 	1. worth
 		1. worthy
 			1. worthiness
@@ -4458,7 +4483,7 @@
 		9. belly-worship
 	5. unseaworthness
 	6. 
-9. **wr-** = wring, 表示“拧”，来自原始日耳曼语。
+100. **wr-** = wring, 表示“拧”，来自原始日耳曼语。
 	1. wrack, nerve-wracking
 	2. wrangle
 		1. wrangler
@@ -4667,7 +4692,7 @@
 		11. wry-mouthed
 		12. wry-bill
 		13. awry
-10. ribald
+101. ribald
 	1. 1 - 来自古法语 ribalt,无赖，浪荡子，可能来自 riber,淫荡的，鬼混的，来自 PIE*wer,弯，转，词源同 wring,wrap.幽默用法，在床上鬼混的姿势,引申词义粗俗的，下流的。拼写受贬义后缀-ald 影响俗化。
 	2.  [bawdy](dic://bawdy), [off-color](dic://off-color)
 	3. _n._ [vulgarian](dic://vulgarian)
@@ -4677,7 +4702,7 @@
 	7. _[ribald seemly](dic://ribald%20seemly)_ 下流的
 	8. _[ribald jokes](dic://ribald%20jokes)_ 下流的笑话
 	9. _[rugged manners and ribald wit](dic://rugged%20manners%20and%20ribald%20wit)_ 粗野的态度和猥亵的想法
-12. warp, (falsify, distort, garble)
+102. warp, (falsify, distort, garble)
 	1. [deflection](dic://deflection)
 	2. [buckle](dic://buckle)
 	3. [warping](dic://warping)
@@ -4701,11 +4726,11 @@
 		4. Movie after movie has cleverly brought the occult into the **warp** **and** **woof** of American thought, all under the disguise of entertainment
 		5. This principle have be weave into the **warp** **and** **woof** of his life
 		6. And, in the months after the surrender, the deep soft nap began to show signs of wear and finally the heavy warp and woof showed through in spots where heels had worn it and spurs dug carelessly.
-13. weird
-14. worm
-15. worry
+103. weird
+104. worm
+105. worry
 #### + \*wer- (4) +
-1. **oram-** = see, view, 表示“观看，景”。源自希腊语 hordan "to see."
+106. **oram-** = see, view, 表示“观看，景”。源自希腊语 hordan "to see."
 	1. cosmorama
 	2. cyclorama
 	3. cycloramic
@@ -4725,7 +4750,7 @@
 		7. Aside from offering a panoramic view of the city, the luxurious hotel is an architectural wonder. /这家豪华酒店不仅能将城市美景尽收眼底，它还是一个建筑奇迹。
 	8. cinepanoramic
 	9. colorama
-2. **rever-** = awe, 表示“敬畏”。源自拉丁语 vereri "to respect, feel awe for."
+107. **rever-** = awe, 表示“敬畏”。源自拉丁语 vereri "to respect, feel awe for."
 	1. revere
 	2. reverence
 		1.  [fear](dic://fear), [awe](dic://awe), [veneration](dic://veneration)
@@ -4741,7 +4766,7 @@
 		11. He also promised to show " unconditional reverence and obedience" to the next pope. /他还承诺向下届教皇展现“无条件的尊敬和服从。”
 	3. reverend
 	4. reverent
-3. **ware-** = watch, 表示“注视”。
+108. **ware-** = watch, 表示“注视”。
 	1. aware
 	2. beware
 	3. wary (vigilant, wary, circumspect, thoughtful, wary)
@@ -4750,12 +4775,12 @@
 		3. _adj._ [on guard](dic://on guard), [on your guard](dic://on your guard), [shy](dic://shy), [distrustful](dic://distrustful)
 		4. _n._ [unwary](dic://unwary), [trustful](dic://trustful), [trusting](dic://trusting)
 		5. **cautious**谨慎的;**hesitant**踌躇的;**skeptical**怀疑的;**apprehensive**忧虑的;**worried**担心的;**fearful**可怕的;**sceptical**怀疑的;**reluctant**不情愿的, 勉强的;**afraid**害怕的;**uneasy**不舒服的;**aware**知道的;
-4. award
-5. guard
-6. lord
-7. ward
+109. award
+110. guard
+111. lord
+112. ward
 #### + \*wer- (5) + = to cover
-1. **aper-** = to open, apo- + ver-
+113. **aper-** = to open, apo- + ver-
 	1. aperient
 		1. n. 有轻泻作用的药剂  a. 有轻泻作用的
 	2. aperitif
@@ -4780,7 +4805,7 @@
 		7. Specifically, a type called synthetic aperture radar, which works day and night, and through clouds. /具体来说，就是一种合成孔径雷达，它可以夜以继日地工作，还可以穿越云层工作。
 		8. 
 	6. April
-2. **cover-** = cover
+114. **cover-** = cover
 	1. **cover**
 		1. etc..
 	2. covert (covet) (overt)
@@ -4797,7 +4822,7 @@
 		1. handkerchief, pocket-handkerchief
 		2. kerchieft
 		3. kerchiefed
-3. **gar-, garn-** = furnish, supply 「Old French」guarnir, "to equip"
+115. **gar-, garn-** = furnish, supply 「Old French」guarnir, "to equip"
 	1. garniture
 		1. n. 附属品, 添加物, 服装
 		2. _[appendant appendix garniture](dic://appendant%20appendix%20garniture)_ 附属品
@@ -4883,7 +4908,7 @@
 			8. She finally buy the cake with the most beautiful **garnishment**. /她最后买下了装饰最漂亮的那个蛋糕。
 		18. garnisher
 		19. garnishee
-4. **guarant-, war-** = to protect, 「Old French」garant, "warrrant, authorization", to guard, to protect, to guarantee
+116. **guarant-, war-** = to protect, 「Old French」garant, "warrrant, authorization", to guard, to protect, to guarantee
 	1. warrant
 		2. etc.
 	2. ward
@@ -4973,7 +4998,7 @@
 		11. He begun its inspection without delay, scouring it from cellar to garret /他马上开始把整个住宅巡视一番，从地窖到阁楼处处都跑遍了。
 		12. But inside, it was altogether charming, and the happy bride saw no fault from garret to cellar. /然而屋里却是一片温馨迷人的气息，那快乐的新娘觉得从阁楼到地下室简直是无可挑剔。
 		14. garreteer
-5. **overt-**
+117. **overt-**
 	1. overt (covert)
 		1.  [open](dic://open)
 		2. _adj._ [bald](dic://bald), [barefaced](dic://barefaced), [naked](dic://naked), [raw](dic://raw), [undisguised](dic://undisguised), [visible](dic://visible)
@@ -4998,12 +5023,12 @@
 		8. _[Festive Overture](dic://Festive%20Overture)_ 节日序曲; 庆典序曲; 
 		9. _[tragic overture](dic://tragic%20overture)_ 悲剧序曲
 		10. overtures
-6. barbican
+118. barbican
 	1. n. 外堡；枪眼；碉堡或其他类似的防御工事
 	2. [barbacan](dic://barbacan)
 	3. _n._ [tower](dic://tower)
 	4. **citadel**城堡;**fortress**要塞;**fortifications**防御工事;**fortification**加强;**castle**城堡;**moat**护城河;**abbey**大修道院，大寺院;**courtyard**庭院, 院子;**fort**堡垒;**defences**防御工事;**walled**有城墙的;
-7. warn
+119. warn
 	1. [discourage](dic://discourage), [admonish](dic://admonish), [monish](dic://monish)
 	2. _v._ [inform](dic://inform), [rede](dic://rede), [advise](dic://advise), [counsel](dic://counsel), [order](dic://order), [tell](dic://tell), [enjoin](dic://enjoin)
 		1. [advise](dic://advise) 普通用词，泛指劝告，不涉及对方是否听从劝告。
@@ -5016,7 +5041,7 @@
 	5. _warn against_ 警告（...）不要；提醒（...）提防
 	6. _warn about_ 就...提出警告
 	7. warn sb off away
-8. weir
+120. weir
 	1. _n._ 堰,鱼梁(指拦截游鱼的枝条篱)
 	2. _n._ [dam](dic://dam), [dike](dic://dike), [dyke](dic://dyke), [fence](dic://fence), [fencing](dic://fencing)
 	3. **dam**筑坝;**river**河，江;**reservoir**水库;**creek**小溪;**embankment**路堤;**waterway**水路;**pond**池塘;**canal**运河;**brook**小河;**inlet**插入物;**estuary**河口;
@@ -5026,7 +5051,7 @@
 
 ### + \*were +
 #### + \*were- (3) + = to speak
-1. **ioron-,rhet-** = speak, 表示“说”。源自希腊语 eirein "to say," rhetor "public speaker."
+121. **ioron-,rhet-** = speak, 表示“说”。源自希腊语 eirein "to say," rhetor "public speaker."
 	1. ironic
 		1. **irony**讽刺;**ironically**嘲讽地, 挖苦地;**amusing**有趣的，好玩的;**tongue-in-cheek**不认真的,不当真的,半开玩笑的;**funny**有趣的;**hypocritical**伪善的;**absurd**荒谬的;**oddly**古怪地;**sarcastic**讽刺的;**comical**滑稽的，好笑的;**laughable**荒唐可笑的;
 	2. ironist
@@ -5041,7 +5066,7 @@
 		6. the rhetoric and mythos of science create the comforting image of linear progression toward truth /科学富有说服力的表述与假设会催生这样一种令人欣慰的看法，认为通往真理的进程是直线式的。
 		7. rhetorician
 		8. rhetorical, rhetorically
-2. **verb-** = word, 表示“词语”。源自拉丁语 verbum "word."
+122. **verb-** = word, 表示“词语”。源自拉丁语 verbum "word."
 	1. verb
 	2. verbal
 		1. verbally
@@ -5143,9 +5168,9 @@
 	13. nonverbal
 		2. a. 非言辞语的, 不用语言的
 	14. reverberant, reverberate (上面有)
-3. rheme
+123. rheme
 	1. n. 表位, 述位（提供新信息的句子成分）
-4. word
+124. word
 	1. n. 话, 消息, 词, 诺言, 命令  vt. 用言辞表达
 	2. wordy
 		1. adj. 冗长的；口头的；唠叨的；文字的
@@ -5181,7 +5206,7 @@
 
 
 ### + \*werg- + = to work
-1. **erg-** = energy, work, 表示“能量，活动，工作”。源自希腊语 ergon “work”
+125. **erg-** = energy, work, 表示“能量，活动，工作”。源自希腊语 ergon “work”
 	1. ergograph, ergometer, ergometric
 		1. _[ergograph](dic://ergograph)_  n. 测功计；[医] 肌力描记器；疲劳记录计
 		2. ergonomic, ergonomics
@@ -5299,7 +5324,7 @@
 		9. The Anglican " Great Service" superbly embellishes the liturgy of a church he deemed heretical. /英国国教的“伟大服务”极好地美化了他认为是异端的教堂的礼拜仪式。
 	14. telergy
 	15. peptidergic, serotoninergic
-3. **organ-** = instrument (organon 「ancient Greeks」 "tool")
+126. **organ-** = instrument (organon 「ancient Greeks」 "tool")
 	1. organ
 		1. organism
 			1. organ【运行，器官，组织机构】 + -ism主义，思想，机制。即有组织运行的机制，后引申词义生物，有机体。
@@ -5322,7 +5347,7 @@
 		4. organisation, disorganisation
 	8. organotropic
 	9. organotherapy
-10. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
+127. **urg-, urgy-** = working (ergon 「ancient Greeks」"work")
 	1. metallurgy
 		1. metal【金属】 + urg-作工，工作， 即冶金学。
 		2. **ceramics**制陶术，制陶业;**alloys**合金;**metals**五金;**welding**焊接的;**machining**加工;**engineering**工程, 工程师行业;**sciences**科学;**alchemy**点金术;**foundry**铸造，铸造类;**geology**地质情况;**archaeology**考古学;
@@ -5351,14 +5376,14 @@
 	8. dramarurge, 
 	9. demiurge, demiurgic
 		1. **divine**神圣的;**deity**神;**omnipotent**全能的;**god**神;**archetype**原型;**gods**上帝们;**divinity**神;**primordial**原始的;**malevolent**有恶意的;**cosmos**宇宙;**creator**创造者;
-11. irk
-12. orgy
+128. irk
+129. orgy
 	1. _n._ [indulgence](dic://indulgence), [indulging](dic://indulging), [pampering](dic://pampering), [humoring](dic://humoring), [rite](dic://rite), [religious rite](dic://religious rite), [revel](dic://revel)
 	2. **threesome**三倍的,三人一组,三人的竞赛,一人对两人的比赛;**gangbang**一群男子与一女子的淫乱活动;**extravaganza**娱乐表演;**fisting**拳指性交;**masturbation**手淫;**anal**肛门的;**frenzy**狂怒;**sex**性别;**voyeur**偷看下流场面的人;**porn**<口>色情文学，色情描写，色情刊物;**bestiality**兽性;
 	3. 
-13. work
+130. work
 	1. wrought
-14. wright
+131. wright
 	1. 来自古英语 wryhta,工人，词源同 work,wrought.
 	2. n. 制作者, 工人
 	3. wheelwright
@@ -5372,19 +5397,19 @@
 
 ### + \*wers- +
 #### + \*wers- (1) + = to confuse, mix up
-1. **guer-** = 表示“打斗”，源自西班牙语 guerra "war."
+132. **guer-** = 表示“打斗”，源自西班牙语 guerra "war."
 	1. guerilla (gorrilla)
 		1. [guerrilla](dic://guerrilla), [irregular](dic://irregular), [insurgent](dic://insurgent)
 		2. _n._ [warrior](dic://warrior)
 		3. **guerrilla**游击队员;**insurgent**起义的,叛乱的,造反的;**rebel**造反;**militant**好战的;**renegade**变节者;**insurgency**叛乱,叛乱状态;**commando**突击队，突击队员;**paramilitary**准军事性的;**anarchist**无政府主义者;**clandestine**秘密的,保密的,暗中的;**warfare**战争;
 	2. guerrilla, guerrillaism
-2. war
-3. worse
-4. worst
+133. war
+134. worse
+135. worst
 
 
 ### + \*were-o- +
-1. **ver-** = true, 表示“真实”。源自拉丁语 versus "true"
+136. **ver-** = true, 表示“真实”。源自拉丁语 versus "true"
 	1. veracious, veracity (velocious, vociferous, voracious, atrocious, ferocious)
 		1. _adj._ (指人)诚实的
 		2. _adv._ 诚实地
@@ -5515,7 +5540,7 @@
 		2. _n._ [actuality](dic://actuality), [truth](dic://truth)
 		3. **variety**种类;**veracity**诚实;**multiplicity**多样性;**multitude**大量, 许多;**truth**事实;**validity**有效性;**truths**真相;
 		4. Such are the verities of which I have to convince you /这就是我必须让你信服的事实。
-2. warlock
+137. warlock
 	1. 1. a male witch or demon
 	2. _[warlocks](dic://warlocks)_  n. 术士；施术者（warlock的复数）
 	3. How many times have I warned you about the responsibilities of being a warlock? /我提醒过你多少次作为一名魔法师该肩负的责任？
@@ -5523,7 +5548,7 @@
 
 ### + \*wes +
 #### + \*wes- (1) + = 
-1. **-opsony** = = buy, 表示“买”，复合词根。源自希腊语 oneisthai "to buy."
+138. **-opsony** = = buy, 表示“买”，复合词根。源自希腊语 oneisthai "to buy."
 	1. duopsony
 		1. _[duopsony](dic://duopsony)_  n. 两家买主垄断
 	2. monopsony
@@ -5533,7 +5558,7 @@
 		4. _[monopsony power](dic://monopsony%20power)_  买方垄断势力
 	3. oligopsony
 		1. _[oligopsony](dic://oligopsony)_  n. 寡头买主垄断，商品采购垄断
-2. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
+139. **opson-** = opsonin, 表示“调理素”，复合词根。来自希腊语 opsonein "to bug provisions."
 	1. opsonin
 		1. _n._ [antibody](dic://antibody)
 		2. **antigens**抗原;**antigen**抗原;**intracellular**细胞内的;**antibody**抗体;**mucosal**粘膜的;**proteins**蛋白质;**cytotoxic**细胞毒素的;**ligand**配合基;**pathogen**病原体;**cytokines**细胞活素类;**protease**蛋白酶;
@@ -5543,7 +5568,7 @@
 		6. _[thermolabile opsonin](dic://thermolabile%20opsonin)_ 不耐热调理素; 翻译; 正常调理素英语; 
 		7. _[heat-stable opsonin](dic://heat-stable%20opsonin)_ 热稳定调理素
 	2. opsonic
-3. **vend-** = 表示“卖”。源自拉丁语 venum "sale."
+140. **vend-** = 表示“卖”。源自拉丁语 venum "sale."
 	1. vend
 		1. vend [vend] vi.出售，vt.出售；公开发表。这个单词任性了些，四个字母却两个部分，拉丁词根ven-表销售，与希腊词根-opsony同源，结尾的-d表to give，比如单词donate [də(ʊ)'neɪt] n.&amp;v.捐赠；捐献。出售，这本就两层含义：把货物摆出来（给出来）销售。有时仔细琢磨下汉语意思也能明白单词的拆分。 ​​​​
 		2.  [peddle](dic://peddle), [monger](dic://monger), [huckster](dic://huckster), [hawk](dic://hawk), [pitch](dic://pitch)
@@ -5570,7 +5595,7 @@
 		3. **self-serving**自私的,自私自利的;**corrupt**腐败的，贪污的;**despicable**可鄙的,卑鄙的;**unscrupulous**肆无忌惮的, 不择手段的, 无道德原则的;**greedy**贪婪的;**cynical**愤世嫉俗的;**depraved**堕落的;**crass**粗鲁的;**sleazy**质地薄的;**dishonest**不诚实的;**vile**卑鄙的;
 		4. venally
 		5. venality
-4. **vil-** = base, 表示“卑劣”, 原指低价买卖，和表示“卖”的词根 vend- 同源。源自拉丁语 venum "sale."
+141. **vil-** = base, 表示“卑劣”, 原指低价买卖，和表示“卖”的词根 vend- 同源。源自拉丁语 venum "sale."
 	1. revile
 		1. re-再 + vil-卑劣 + -e → 一再[使别人感到]卑劣 → 辱骂[别人]。
 		2. 1 - re-,表强调，vile,邪恶的，卑鄙的。即把别人看做邪恶的，引申词义辱骂，斥责。
@@ -5595,12 +5620,12 @@
 		4. vilipend ['vɪlə,pend] vt. 诋毁；轻视。词根vil表cheap，本意是出售，-pend部分表示称量、估价，与pound英镑、ponderous沉闷的；笨重的（很量）和expensive昂贵的（需要花费很多两银子）等单词有关。因此vilipend的字面意思就是“to hold in light value ”，比较vilify v.诽谤；轻视，-fy表使动。
 		5. [deprecate](dic://deprecate), [depreciate](dic://depreciate)
 		6. _v._ [disparage](dic://disparage), [belittle](dic://belittle), [pick at](dic://pick at)
-5. bazaar
+142. bazaar
 	1.  [bazar](dic://bazar)
 	2. _n._ [shop](dic://shop), [store](dic://store), [marketplace](dic://marketplace), [mart](dic://mart), [sale](dic://sale), [cut-rate sale](dic://cut-rate sale), [sales event](dic://sales event)
 	3. **wares**商品;**mall**购物商场;**flea**跳蚤;**stalls**正厅前排座位;**marketplace**市场;**shop**商店;**shops**商店;**bustling**忙乱的;**barter**进行易货贸易;**plaza**广场;**consignment**托付货物;
 #### + \*wes- (4) + = to clothe
-1. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
+143. **vest-** = clothes 表示“衣服”。源自拉丁语 vestis "garment."
 	1. vest
 		1. (endow, confer, bestow, vest, grant, deign, impart, sanction, fiat, decree, invest, enthrone, ordain,)
 		2. n. 背心, 汗背心  
@@ -5729,9 +5754,9 @@
 		2. _v._ [construct](dic://construct), [build](dic://build), [make](dic://make), [face](dic://face)
 		3. **revert**恢复;
 		4. revetment
-2. himation
+144. himation
 	1. n. （古希腊人穿的）宽松长衫
-3. wear
+145. wear
 	1. wear your heart on your sleeve情绪化；公开地展示感情。习语中的heart指的是倾慕之人。中世纪马上比武（长枪）中，有些骑士会将代表自己所支持的贵妇（heart）的颜色的布条或布块穿戴（wear）在袖子上或用丝带绑在胳膊上（sleeve），以此公开表明自己的立场。Do not wear your heart on your sleeve.
 	2. 来自 PIE*wes,穿衣，词源同 vest,invest,字母 r,s 音变。引申词义磨损，损耗。
 	3. n. 穿着, 戴, 使用, 耗损, 服装, 耐久性  
@@ -5810,7 +5835,7 @@
 
 
 ### + \*wesr- +
-1. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
+146. **ver-** = spring, 表示“春天”。源自拉丁语 ver "spring."
 	1. primavera
 		1. _n._ 白桃花心木(中美洲出产的一种树木或其木材)
 		2. He can have a nice spaghetti primavera. No cream. I'm not going to give hime something else. /他可以吃到美味的春意面。没有奶油。我不会给他别的东西。
@@ -5838,7 +5863,7 @@
 
 
 ### + \*wet- +
-1. **veter-** = old, 表示“老”。源自拉丁语 vetus "old."
+147. **veter-** = old, 表示“老”。源自拉丁语 vetus "old."
 	1. inveteracy
 		1. n. 根深蒂固, 积习
 		2. in-进入，使 + veter-老的，长时间的 + -acy
@@ -5877,7 +5902,7 @@
 		3. 缩写自 veteran​​​​
 		4. vetting
 		5. unvetted
-2. **vitell-** = = vitellus, 表示“卵黄”。源自拉丁语 vitulus "calf, yearling."
+148. **vitell-** = = vitellus, 表示“卵黄”。源自拉丁语 vitulus "calf, yearling."
 	1. veal
 		1. n. 小牛肉  vt. 宰小牛
 		2. 来自拉丁语 vitulus,小牛，字母 t 脱落，来自 PIE*wet,年，词源同 vellum,wether.原指尚未成年的小牛，后指小牛肉。
@@ -5891,8 +5916,8 @@
 			1. n. 卵黄磷蛋白
 		3. vitelline
 			1. a. 卵黄的
-3. etesian
-4. wether (weather /whether /ether /wither /wetter /tether)
+149. etesian
+150. wether (weather /whether /ether /wither /wetter /tether)
 	1. male sheep especially a castrated one
 	2. " Wethers must live their time as well as other sheep, poor soul." /“阉了的羊也得跟其它羊群一样地过日子呀，可怜的人。
 
@@ -5900,13 +5925,13 @@
 
 ## wi
 ### + \*wino- +
-1. **oen-** = wine, 表示“葡萄酒”。源自希腊语 oinos "wine."
+151. **oen-** = wine, 表示“葡萄酒”。源自希腊语 oinos "wine."
 	1. enology
 		1. n. 葡萄酒酿造学
 	2. oenology
 		1. n. 酿酒学, 葡萄酒工艺学
 		2. oen-葡萄酒 + -ology学，学科
-2. **vin-** = wine, 表示“葡萄，葡萄酒”。源自拉丁语 vinum "wine."
+152. **vin-** = wine, 表示“葡萄，葡萄酒”。源自拉丁语 vinum "wine."
 	1. viniculture
 	2. viniferous
 	3. vino
@@ -5989,7 +6014,7 @@
 		9. _vinyl ether_ [化]乙烯醚
 		10. _vinyl group_ 乙烯基群
 		11. _vinyl polymer_ [化]乙烯基聚合物
-4. wine
+153. wine
 	1. winy
 	2. winevault
 	3. wineskin
@@ -6005,7 +6030,7 @@
 
 
 ### with- 表示“向后，相反”。
-1. withdraw
+154. withdraw
 	1. with-向后 + draw → 向后拉 → 撤回。
 	2. drawing room客厅；休息室。不要顾名思义了，这里不是让你画画的地方，而是withdrawing room的缩短式。withdraw [wɪð'drɔː] v 撤退；收回；拉开；离开，这个也不要去想当然，这里的with-是其古意，表away,against。餐后，讲究礼节的贵族妇女要从餐厅“撤退”到客厅里，客厅因此叫withdrawing room。 ​​​​
 	3. withdrawal
@@ -6018,7 +6043,7 @@
 		7. The worst thing is the withdrawal / 最糟糕的是药物戒断。
 		8. And people have experienced caffeine withdrawal for up to three days. /人们经历了长达三天的咖啡因脱瘾。
 		9. Thank you. I want to make a withdrawal of 150 dollars. /谢谢你。我想取150美元。
-2. withhold
+155. withhold
 	1. with-,相反，hold,握，引申词义向后握，拒绝，不给。
 	2. [keep back](dic://keep back)
 	3. [deduct](dic://deduct), [recoup](dic://recoup)
@@ -6036,7 +6061,7 @@
 	9. It was unscrupulous of their lawyer to withhold evidence /他们的律师隐瞒证据是不道德的。
 	10. Fear made him withhold the truth. /恐惧使他不敢说实话。
 	11. 
-3. withstand
+156. withstand
 	1. with-,相反，stand,站，站立。引申词义相反站着，承受，抵抗。
 	- v. 顶住，抵住；经受住，承受住（攻击、批评等）；反抗
 	1. _v._ [resist](dic://resist), [hold out](dic://hold out), [stand firm](dic://stand firm), [fight](dic://fight), [oppose](dic://oppose), [fight back](dic://fight back), [fight down](dic://fight down)
@@ -6064,7 +6089,7 @@
 		7. I love the boy notwithstanding this naugtiness. /尽管这男孩顽皮, 但我仍然喜欢他。
 		8. The teams played on, notwithstanding the rain. /尽管下雨，各队仍然比赛
 		9. Thomas Carlyle, notwithstanding his tedious rhetoric, is a master of the sublime in prose style. /尽管托马斯·卡莱尔的语言花俏冗长, 但是他仍不失为一位令人崇敬的散文文体大师。
-1. wherewithal
+157. wherewithal
 	1. n. 必要的资金（或手段） 
 	2. adv. 用以 
 	3. conj. 用以
@@ -6080,7 +6105,7 @@
 
 
 ### + \*wi-ro + = man
-1. **vir-** = man, 表示“男人”。源自拉丁语 vir "man."
+158. **vir-** = man, 表示“男人”。源自拉丁语 vir "man."
 	1. virago
 		1. _[viragos](dic://viragos)_  泼妇; 悍妇; 高大魁梧而有勇气的女子（virago的名词复数）;
 	2. evirate (eviscerate, emasculate, sterilize, castrate)
@@ -6162,17 +6187,17 @@
 		14. virtuosity
 	9. duumvir
 	10. quadrumvir
-2. **wer-** = man, 表示“男人”。源自古英语 wer "man."
+159. **wer-** = man, 表示“男人”。源自古英语 wer "man."
 	1. werewolf
 		1. n. 狼人, 豺狼般的人
-3. curia
+160. curia
 	1. n. 罗马教廷机构; 中世纪法庭, 地区元老院, 元老院, 法庭
 	2. Roman Catholic Church) the central administration governing the Roman Catholic Church
 	3. _n._ [administration](dic://administration), [governance](dic://governance), [governing body](dic://governing body), [establishment](dic://establishment), [brass](dic://brass), [organization](dic://organization), [organisation](dic://organisation)
 	4. **papal**罗马教皇的;**pope**教皇，罗马教皇;**ecclesiastical**基督教会的;**diocese**主教管区, 教区;**episcopal**主教的;**diocesan**主教管区的;**archbishop**大主教;**clergy**牧师;**Vatican**罗马教廷;**bishop**主教;**basilica**长方形会堂;
-5. curial
+161. curial
 	1. a. 元老院的
-6. world
+162. world
 	1. 缩写自古英语 worold,一段时间，人类，人类的存在，来自 wor-,人，男人，词源同virile,werewolf,old,老人，时代。字面意思即男人的时代，人的存在，后引申词义人的一生，今生，人世，人类的活动与事务，世界。
 	2. n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量
 	3. worldwide
@@ -6219,7 +6244,7 @@
 
 ## wl
 ### + \*wleik- + 
-1. **liqu-** = wet, 表示“湿”，引申为液体。源自拉丁语 liquare "to dissolve," liquere "to be liquid."
+163. **liqu-** = wet, 表示“湿”，引申为液体。源自拉丁语 liquare "to dissolve," liquere "to be liquid."
 	1. liquate
 		1. _[liquated](dic://liquated)_  adj. 液化的；熔融的；熔解的; v. 熔解；熔融（liquate的过去分词）;
 		2. liquefy
@@ -6256,7 +6281,7 @@
 	8. liquefactent
 	9. liquidensitometer
 	10. soliqueous
-3. **lixiv-** 表示“浸滤”。源自拉丁语 lixa "lye."
+164. **lixiv-** 表示“浸滤”。源自拉丁语 lixa "lye."
 	1. lixiviation
 	2. lixiviate
 		1. _[lixiviate](dic://lixiviate)_  v. （用滤液）沥滤
@@ -6266,9 +6291,9 @@
 
 ## wr
 ### ⭐ + \*wrad- + = branch, root
-1. **rad-, radi-** 表示“桡骨”。源自拉丁语 radius "beam."
+165. **rad-, radi-** 表示“桡骨”。源自拉丁语 radius "beam."
 	1. etc..
-2. **rad-, radic-** = root, 表示“根”， 和 root 同源。源自拉丁语 radix "root."
+166. **rad-, radic-** = root, 表示“根”， 和 root 同源。源自拉丁语 radix "root."
 	1. radicate
 		1. _[establish establishment radicate](dic://establish%20establishment%20radicate)_ 确立
 		2. radication (square root, extraction)
@@ -6376,7 +6401,7 @@
 			2. **beets**甜菜;**beet**甜菜;**spinach**菠菜;**cabbage**卷心菜，甘蓝菜，脑袋;**rhubarb**大黄;**kale**羽衣甘蓝;**fennel**茴香;**cauliflower**花椰菜;**lentils**扁豆;**asparagus**芦笋;**carrot**胡萝卜;
 			3. _[beetroot, beet](dic://beetroot%2c%20beet)_  甜菜
 		36. arrowroot
-3. **radi-, radio-** = ray, 表示“光线、射线”。源自拉丁语 radius "beam."
+167. **radi-, radio-** = ray, 表示“光线、射线”。源自拉丁语 radius "beam."
 	1. xeroradiography
 	2. irradiance
 		1. irradiancy
@@ -6437,7 +6462,7 @@
 		2. **radioactivity**放射;**arsenic**砒霜;**radioactive**放射性的;**mercury**水银;**uranium**铀;**fluoride**氟化物;**plutonium**钚;**radiation**辐射;**isotopes**核素;**iodine**碘;**radon**氡;
 		3. the radiotoxic effects of radium on bone./ 镭对骨骼的放射性毒性作用
 		4. Being radioactive, radium also causes cancer. /镭具有放射性，也会致癌。
-1. **ram-** = branch, 表示“枝”。源自拉丁语 ramus "branch."
+168. **ram-** = branch, 表示“枝”。源自拉丁语 ramus "branch."
 	1. ram
 		1. strike or drive against with a heavy impact
 			1. ram the gate with a sledgehammer
@@ -6524,7 +6549,7 @@
 		11. Willy rambled on about Norman archways /威利漫无边际地大谈诺曼式拱道。
 		12. I like ramble about the street after work,and buy something passingly. /我喜欢下班后乱逛，顺便买点东西。
 		13. You can also watch for rambling /你也可能看起来注意散漫。
-3. **rhiz-** = root, 表示“根”。源自希腊语 rhiza "root."
+169. **rhiz-** = root, 表示“根”。源自希腊语 rhiza "root."
 	1. rhizogenic
 		1. _[rhizogenic layer](dic://rhizogenic%20layer)_ 生根层
 		2. _[Plant rhizogenic element](dic://Plant%20rhizogenic%20element)_ 植物生根素
@@ -6533,7 +6558,7 @@
 		2. _n._ [fibril](dic://fibril), [filament](dic://filament), [strand](dic://strand)
 		3. **apical**顶上的, 顶点的;**biofilm**生物膜;**cytoplasm**细胞质;**elongation**延伸;**morphology**形态学;**basal**基础的;**spores**孢子;**whitish**带白色的;**dorsal**背的，背侧的;**stem**茎;**germination**萌芽,发生;
 	4. etc..
-4. wort [美 /wɔt/](cmd://Speak/_us_/wort)
+170. wort [美 /wɔt/](cmd://Speak/_us_/wort)
 	1. n. 草, 植物, 麦芽汁
 	2. 来自 PIE*wrad,根，枝，词源同 root,radish.
 	3. _n._ [herb](dic://herb), [herbaceous plant](dic://herbaceous plant), [malt](dic://malt)
@@ -6545,7 +6570,7 @@
 
 
 ### + \*wreg- +
-1. **-rrhage, -rrhagia** = burst, 表示“破裂”。源自希腊语 rhegnunai "to burst forth."
+171. **-rrhage, -rrhagia** = burst, 表示“破裂”。源自希腊语 rhegnunai "to burst forth."
 	1. hemorrhage
 		1. hemo-血 + rrhage-流
 		2. _n._ [injury](dic://injury), [hurt](dic://hurt), [harm](dic://harm), [trauma](dic://trauma)
@@ -6582,7 +6607,7 @@
 
 
 ### + \*wret- +
-1. **re-** 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。源自拉丁语 re-, red- "backward, again."
+172. **re-** 表示“向后，往回，相反，相对，再”，或仅作强调用，在元音前 red-, reh-。源自拉丁语 re-, red- "backward, again."
 	1. reassumption
 		1. _[reassumption](dic://reassumption)_  n. 再假定；再接受；取回
 	2. reassure
@@ -6598,6 +6623,6 @@
 		10. The captain's confidence during the storm reassured the passengers. /在风暴中船长的信念使旅客们恢复了信心。
 		11. Cecily, you have greatly reassured me. /塞西莉，你这就让我十分放心了。
 		12. I heard myself speaking in reassuring platitudes. /我听到自己说出这些陈腔滥调。
-2. **retro-** 表示“向后，倒退，之前”。源自拉丁语 retro "backward, back, behind."
+173. **retro-** 表示“向后，倒退，之前”。源自拉丁语 retro "backward, back, behind."
 	1. retro-rocket
 	2. retroat

@@ -1,20 +1,19 @@
 ## je
 ### jejun- = fasting, empty, 表示“空的、不成熟的”，源自拉丁语 ieiunus（empty, dry, barren）。古代解剖学家解剖肠道，发现最初一段小肠总是空的，就命名为 jejunum【空肠】。
 1. jejune
-	1. (callow, jejune, )
+	1. (mellow, ripe, jejune, immature, inchoate, callow)
 	2. (humdrum, insipid, vapid, jejune, dreary, tedious, ponderous, dry, monotonous, baldness, deadening, fastidium, tommyrot, mundane, pedestrian, plodding, prosaic)
-	3. 
-	4. jejun-空的、不成熟的 + -e.
-	5. dine [daɪn] v.进餐，实际来自disjejune，而这里的jejune [dʒɪ'dʒuːn] adj.枯燥无味的；幼稚的；缺乏营养的，来自jejunum [dʒɪ'dʒuːnəm] n.[解剖] 空肠。古代西方的医学家们发现解剖尸体时，有一段肠子总是空空如也，就命名为jejunum。好悲催，古代早晚两顿饭的目的都是不再饿肚子
-	6. **banal**陈腐的;**inane**愚蠢的;**pretentious**自命不凡的;**drivel**淌口水,说傻话;**crass**粗鲁的;**nonsensical**无意义的;**childish**幼稚的，孩子气的;**vulgar**粗俗的;**pompous**浮夸的;**feeble**微弱的，无力的;**tiresome**烦人的，无聊的;
-	7. [unwholesome](dic://unwholesome), [immature](dic://immature), [uninteresting](dic://uninteresting)
-	8. [adolescent](dic://adolescent), [juvenile](dic://juvenile), [puerile](dic://puerile)
-	9. [insubstantial](dic://insubstantial)
-	10. _[jejune diet](dic://jejune%20diet)_ 缺乏营养的食物
-	11. _[halfhearted jejune uninteresting](dic://halfhearted%20jejune%20uninteresting)_ 无兴趣的
-	12. their entirely predictable and usually jejune opinions. /他们那些完全能够预料到且通常是见识浅薄的看法。
-3. jejunum
-4. dine
+	3. jejun-空的、不成熟的 + -e.
+	4. dine [daɪn] v.进餐，实际来自disjejune，而这里的jejune [dʒɪ'dʒuːn] adj.枯燥无味的；幼稚的；缺乏营养的，来自jejunum [dʒɪ'dʒuːnəm] n.[解剖] 空肠。古代西方的医学家们发现解剖尸体时，有一段肠子总是空空如也，就命名为jejunum。好悲催，古代早晚两顿饭的目的都是不再饿肚子
+	5. **banal**陈腐的;**inane**愚蠢的;**pretentious**自命不凡的;**drivel**淌口水,说傻话;**crass**粗鲁的;**nonsensical**无意义的;**childish**幼稚的，孩子气的;**vulgar**粗俗的;**pompous**浮夸的;**feeble**微弱的，无力的;**tiresome**烦人的，无聊的;
+	6. [unwholesome](dic://unwholesome), [immature](dic://immature), [uninteresting](dic://uninteresting)
+	7. [adolescent](dic://adolescent), [juvenile](dic://juvenile), [puerile](dic://puerile)
+	8. [insubstantial](dic://insubstantial)
+	9. _[jejune diet](dic://jejune%20diet)_ 缺乏营养的食物
+	10. _[halfhearted jejune uninteresting](dic://halfhearted%20jejune%20uninteresting)_ 无兴趣的
+	11. their entirely predictable and usually jejune opinions. /他们那些完全能够预料到且通常是见识浅薄的看法。
+2. jejunum
+3. dine
 	1. _v._ [eat](dic://eat), [feed](dic://feed), [give](dic://give)
 		1. [eat](dic://eat) 普通用词，使用广泛。既可用于人，也可用于动物。  
 		2. [dine](dic://dine) 正式用词，既可指一日三餐中的任何一餐，也可以指特殊的用餐。  
@@ -28,13 +27,13 @@
 	4. _dine out_ 外出进餐
 	5. _dine together_ 会餐
 	6. _wine and dine_ 吃喝；以好酒好菜款待
-5. jejunoileostomy
+4. jejunoileostomy
 
 
 
 ## ju
 ### jubil- = shout of joy, 表示“欢呼”。
-1. jubilate
+5. jubilate
 	1. vi. 欢喜；扬声欢呼 n. 欢呼
 	2. [exuberate](dic://exuberate), [exult](dic://exult), [rejoice](dic://rejoice), [triumph](dic://triumph)
 	3. _v._ [celebrate](dic://celebrate), [fete](dic://fete), [cheer](dic://cheer), [cheer up](dic://cheer up), [chirk up](dic://chirk up)
@@ -57,7 +56,7 @@
 		11. _[dolorous jubilant](dic://dolorous%20jubilant)_ 悲哀的
 		12. This jubilant nationality is extremely trepid toward melancholy. /这个喜洋洋的民族对忧郁似乎格外恐惧。
 		13. Oh, be swift my soul and to him be jubilant my feet. /哦，让我的灵魂聪慧吧，让我的双脚欢腾吧。
-2. jubilee
+6. jubilee
 	1. a special anniversary (or the celebration of it)
 	2. _n._ [anniversary](dic://anniversary), [day of remembrance](dic://day of remembrance)
 	3. **centenary**一百周年;**centennial**一百周年;**anniversary**周年纪念;**celebration**庆祝;**commemoration**纪念;**coronation**加冕礼;**commemorative**纪念的;**inauguration**就职典礼;**commemorate**纪念;
