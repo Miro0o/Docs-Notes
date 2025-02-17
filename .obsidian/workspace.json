@@ -30,8 +30,93 @@
               "icon": "lucide-file",
               "title": "Artificial Intelligence"
             }
+          },
+          {
+            "id": "5283acccecb90d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🔑 CS Core/🧰 Generic Tools & Projects/Cracked Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cracked Projects"
+            }
+          },
+          {
+            "id": "d5e5e9890a6b2dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universe, Knowledge, and Intelligence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Universe, Knowledge, and Intelligence"
+            }
+          },
+          {
+            "id": "414fd266df6a589e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Human_society.excalidraw"
+            }
+          },
+          {
+            "id": "d3fe0e80abc186a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Video Games Development.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Video Games Development"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Artificial Intelligence"
+              "title": "Outline of Human_society.excalidraw"
             }
           },
           {
@@ -187,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,44 +290,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c8ef9ddc17a82f1",
+  "active": "414fd266df6a589e",
   "lastOpenFiles": [
+    "Universe, Knowledge, and Intelligence.md",
+    "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "Macro-Knowledge/Science & Technologies/🧠 This is Science/🧠 This is Science.md",
+    "Macro-Knowledge/Science & Technologies/Science Paper & Articles Reading List.md",
+    "Macro-Knowledge/Science & Technologies/Science & Technologies.md",
+    "Macro-Knowledge/Science & Technologies/🧠 This is Science/Global overview.md",
+    "Micro-Knowledge",
+    "Macro-Knowledge",
+    "CS/News Focus (IT-exclusive).md",
+    "News Focus (Non-IT).md",
+    "CS/News Feeds (Sci & Tech).md",
+    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Cracked Projects.md",
+    "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Video Games Development.md",
+    "CS/🧠 Computing Methodologies/Computer Graphics (CG)/Computer Graphics (CG).md",
+    "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Graphic Games Engine/Graphic Games Engine.md",
+    "Macro-Knowledge/International Politics & Demography/Countries' Overview/United States 🇺🇸.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
     "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
     "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
     "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/📿 miscs.md",
     "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/A.md",
     "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/J.md",
     "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/W.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
     "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
     "CS/🗺 CS Overview/International Opportunities/Living Abroad China 🇨🇳.md",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
     "CS/Academics 🎓/Academics.md",
-    "Universe, Knowledge, and Intelligence.md",
     "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Web Dev Middleware.md",
-    "CS/Software Engineering/Computer Graphics Programming/Computer Graphics Programming.md",
-    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
-    "CS/🔑 CS Core/🧬 Computer System/Operating System & OS Kernel (Theory Part)/OS Processes & Automata Management (CPU + Main Memory Resource)/Concurrent Programming.md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Hardware & EE Related Theories.md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Computer System Implementations.md",
-    "CS/Embedded & Internet of Things/🚟 Embedded Computer Systems/Embedded Computer Systems.md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Computer Server Hosts/Computer Server Hosts.md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Mobile Phones/Mobile Phones.md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Personal Computers (PC)/Personal Computers (PC).md",
     "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Mobile Phones",
     "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Personal Computers (PC)",
-    "CS/🔑 CS Core/🧬 Computer System/Computer System.md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Auxiliary Hardware & Peripherals (IO Devices).md",
-    "CS/🔑 CS Core/🧬 Computer System/Computer Architecture/Computer Microarchitectures (Computer Organization) & von Neumann Model/Computer IO System/Adapter Cards (Expansion Cards)/Adapter Cards (Expansion Cards).md",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Sound Cards/Sound Cards.md",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Sound Cards",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Audio Cards",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Output Devices",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input Devices",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Network Chips & Devices",
-    "CS/🔑 CS Core/Hardware & EE Related/🛠️ Computer System Implementations/Computer Chips/Processor Chips",
-    "CS/Software Engineering/🕸️ Web Development & The Internet/Web Application Systems & Architecture Design/Web Application Systems",
     "Assets/Illustrations/Web Development/web_application_arch.excalidraw.png",
     "Assets/Illustrations/Web Development/web_application_arch.excalidraw.svg",
     "Assets/Pics/Pasted image 20250207212151.png",

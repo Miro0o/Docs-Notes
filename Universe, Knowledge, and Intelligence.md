@@ -63,6 +63,8 @@ Economic theories divide economic sectors further into [economic industries](ht
 
 
 ## 🤖 Artificial Intelligence
+> ↗ [Artificial Intelligence](CS/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
+> ↗ [LLM (Large Language Model)](CS/🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/🦑%20LLM%20(Large%20Language%20Model)/LLM%20(Large%20Language%20Model).md)
 
 
 

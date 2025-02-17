@@ -362,12 +362,12 @@ For 20+ years, IT pros and teams have trusted CBT Nuggets for in-demand technolo
 ---
 **3blue1brown**
 https://www.youtube.com/@3blue1brown
-↗ [🧠 This is Science](../../../Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Macro-Knowledge/Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 李永乐
 https://www.youtube.com/@TchLiyongle
-↗ [🧠 This is Science](../../../Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
+↗ [🧠 This is Science](../../../Macro-Knowledge/Science%20&%20Technologies/🧠%20This%20is%20Science/🧠%20This%20is%20Science.md)
 
 ---
 **Branch Education**
