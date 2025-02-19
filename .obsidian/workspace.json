@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Video Games Development.md",
+                "file": "Macro-Knowledge/International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,11 +112,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Video Games Development"
+              "title": "China"
+            }
+          },
+          {
+            "id": "e78bd741fb99ef8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/News Focus (IT-exclusive).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "News Focus (IT-exclusive)"
+            }
+          },
+          {
+            "id": "9d6bd123b55238b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "News Focus (Non-IT).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "News Focus (Non-IT)"
+            }
+          },
+          {
+            "id": "96541b721feaee23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "International Master&PhD Programmes & Applications"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -234,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
+                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Human_society.excalidraw"
+              "title": "Outline of International Master&PhD Programmes & Applications"
             }
           },
           {
@@ -272,8 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,44 +361,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "414fd266df6a589e",
+  "active": "96541b721feaee23",
   "lastOpenFiles": [
-    "Universe, Knowledge, and Intelligence.md",
-    "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
-    "Macro-Knowledge/Science & Technologies/🧠 This is Science/🧠 This is Science.md",
-    "Macro-Knowledge/Science & Technologies/Science Paper & Articles Reading List.md",
-    "Macro-Knowledge/Science & Technologies/Science & Technologies.md",
-    "Macro-Knowledge/Science & Technologies/🧠 This is Science/Global overview.md",
-    "Micro-Knowledge",
-    "Macro-Knowledge",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
     "CS/News Focus (IT-exclusive).md",
     "News Focus (Non-IT).md",
-    "CS/News Feeds (Sci & Tech).md",
-    "CS/🔑 CS Core/🧰 Generic Tools & Projects/Cracked Projects.md",
-    "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Video Games Development.md",
-    "CS/🧠 Computing Methodologies/Computer Graphics (CG)/Computer Graphics (CG).md",
-    "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Graphic Games Engine/Graphic Games Engine.md",
-    "Macro-Knowledge/International Politics & Demography/Countries' Overview/United States 🇺🇸.md",
+    "Macro-Knowledge/International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
+    "CS/CyberSecurity/CyberSecurity.md",
+    "Assets/Pics/Pasted image 20250218010108.png",
     "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
-    "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web BackEnd Dev & Middleware.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/📿 miscs.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/A.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/J.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/1️⃣ English Grammar/Morpheme/W.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
-    "CS/🗺 CS Overview/International Opportunities/Living Abroad China 🇨🇳.md",
-    "CS/Academics 🎓/Academics.md",
-    "CS/Software Engineering/🕸️ Web Development & The Internet/🗄️ Web BackEnd Dev & Middleware/Web Dev Middleware/Web Dev Middleware.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "Macro-Knowledge/Nature & Env/Nature & Env.md",
+    "Macro-Knowledge/Cultures/Cultures.md",
+    "CS/🏠 Assets/📌 How to learn English the right way/How to learn English the right way.md",
+    "Macro-Knowledge/Cultures/Literature/Literatures.md",
+    "Macro-Knowledge/Cultures/Literature/Novels.md",
+    "Macro-Knowledge/Cultures/Literature/Poems.md",
+    "Macro-Knowledge/International Politics & Demography/Countries' Overview/United States 🇺🇸",
+    "Macro-Knowledge/International Politics & Demography/International Politics & Demography.md",
+    "Macro-Knowledge/International Politics & Demography/Intelligent Agencies.md",
+    "Macro-Knowledge/Economics & Finance/Economics & Finance.md",
+    "Macro-Knowledge/Cultures/overview.md",
+    "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Video Games Development.md",
+    "Macro-Knowledge/Cultures/Society/Politics/Finance & resource.md",
+    "Macro-Knowledge/Cultures/Society/Politics/International/Events.md",
+    "Macro-Knowledge/Cultures/Society/Politics/Domestic/US.md",
+    "Macro-Knowledge/Cultures/Society/Env/News.md",
+    "Macro-Knowledge/International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
+    "Universe, Knowledge, and Intelligence.md",
+    "Macro-Knowledge/Cultures/Society/Cultures/WiKi.md",
+    "Macro-Knowledge/Cultures/Literature/poems/fav.md",
+    "Macro-Knowledge/Nature & Env",
+    "Micro-Knowledge",
+    "Macro-Knowledge",
     "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Mobile Phones",
     "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Personal Computers (PC)",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Sound Cards",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Audio Cards",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices",
     "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Output Devices",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input Devices",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Network Chips & Devices",
     "Assets/Illustrations/Web Development/web_application_arch.excalidraw.png",
     "Assets/Illustrations/Web Development/web_application_arch.excalidraw.svg",
     "Assets/Pics/Pasted image 20250207212151.png",
@@ -338,7 +410,6 @@
     "Assets/Pics/Screenshot 2025-01-21 at 13.26.49.png",
     "Assets/Pics/Screenshot 2025-01-21 at 13.25.49.png",
     "Assets/Pics/Screenshot 2025-01-21 at 13.24.38.png",
-    "Assets/Pics/Screenshot 2025-01-21 at 13.23.34.png",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

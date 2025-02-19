@@ -88,5 +88,6 @@ https://www.douban.com/doulist/95821/?dt_dapp=1&dt_platform=com.douban.activity.
 
 [市净率与市盈率，帮您理解股市！！！]: https://xueqiu.com/1301462220/174297719
 [股市基础知识：什么是A股、B股、H股、N股、S股？]: https://edu.howbuy.com/news/gpjc1.html
-[A股 - 入市辅导]: : https://toujiao.sina.cn/article/detail/7
+[A股 - 入市辅导]: https://toujiao.sina.cn/article/detail/7
 
+[全球经贸动态]: http://www.tradeinvest.cn/information/list
