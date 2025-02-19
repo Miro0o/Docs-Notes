@@ -211,67 +211,7 @@ Software Engineering
 
 ### Generic IT Knowledge
 #### IT & CS Updates /Trending/ News /Analysis
----
-微信公众号：
-- hellogithub
-- codesheep
-
----
-**Gartner** 
-[Gartner - Clound Native](https://www.gartner.com/en/search?keywords=cloud%20native)
-
-[Gartner Hype Cycle 2022 for Emerging Technologies]: https://medium.com/@mishra.kamal/gartner-hype-cycle-2022-for-emerging-technologies-59adca55295d
-
-
----
-👍 [The Top 100+ Developer Tools 2022 | Stackshare](https://stackshare.io/posts/top-developer-tools-2022)
-- [New Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#new)
-- [Analytics Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#analytics_tool)
-- [Application Hosting Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-hosting)
-- [Web Server of the Year](https://stackshare.io/posts/top-developer-tools-2022#web-servers)
-- [Application Utility of the Year](https://stackshare.io/posts/top-developer-tools-2022#application-utilities)
-- [Assets & Media Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#assets-and-media)
-- [Back Office Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#back-office)
-- [Build, Test, & Deploy Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#build-test-deploy)
-- [Collaboration Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#collaboration)
-- [Communications Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#communications)
-- [Data Store of the Year](https://stackshare.io/posts/top-developer-tools-2022#data-stores)
-- [Design Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#design)
-- [Language of the Year](https://stackshare.io/posts/top-developer-tools-2022#languages)
-- [Front-end Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#front-end-frameworks)
-- [Backend/Full Stack Framework of the Year](https://stackshare.io/posts/top-developer-tools-2022#backend-full-stack-frameworks)
-- [Mobile Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#mobile)
-- [Monitoring Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#monitoring)
-- [Payments Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#payments)
-- [Support, Sales, and Marketing Tool of the Year](https://stackshare.io/posts/top-developer-tools-2022#support-sales-and-marketing)
-- [Top Community Members of the Year](https://stackshare.io/posts/top-developer-tools-2022#developers)
-
----
-**黄大年茶思屋**
-https://www.chaspark.com/#/home
-
----
-https://www.pcmag.com
-
----
-OSC 开源社区
-https://www.oschina.net
-
----
-阮一峰的网络日志
-https://www.ruanyifeng.com
-
----
-**Github Trending**
-
----
-**Hacker News**
-https://news.ycombinator.com
-Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
-
----
-🔈 https://hnrss.github.io/#activity-parameters
-hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.ycombinator.com/).
+↗ [News Focus (IT-exclusive)](../../News%20Focus%20(IT-exclusive).md)
 #### Enterprise's Updates
 ↗ [Electronics & Information Technologies Business Fields Research](Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 #### CS/IT Communities & Forums

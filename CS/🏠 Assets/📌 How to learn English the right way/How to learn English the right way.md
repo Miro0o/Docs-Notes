@@ -17,13 +17,30 @@ An advanced guide to learn English which might benefit you a lot.
 
 
 ### Useful English Resources
-https://www.dictionary.com/
+https://www.onelook.com/
+**There's no word too weird for OneLook.**  
+OneLook scans 18,955,870 entries in 1061 dictionaries.  
+Use it to find [definitions](https://www.onelook.com/?w=aperture), [related words](https://www.onelook.com/?w=aperture&related=1), [quotes](https://www.onelook.com/?w=aperture&mentions=1), [lyrics](https://www.onelook.com/?w=aperture&verses=1), [colors](https://www.onelook.com/?w=clay&colors=1), and more.
 
-https://www.english-corpora.org/corpora.asp
+https://www.dictionary.com/
+dictionary and thesaurus
+
+👍 https://www.english-corpora.org/corpora.asp
+The underlying [corpus architecture](https://www.english-corpora.org/help/architecture.pdf) and web interface were created by [Mark Davies](https://www.mark-davies.org/), (retired) Professor of Linguistics. In most cases, he also designed, collected, edited, and annotated the corpora as well. In the case of the BNC, Strathy, EEBO, and Hansard corpora, I received the texts from others, and "just" created the architecture and interface. So although I use the terms "we" and "us" on this and other pages, most activities related to the development of most of these corpora were actually carried out by just one person.
+
+👍 https://www.urbandictionary.com/
+Search for definition of english slangs
+
+👍 https://visuwords.com/
+Visual Dictionary
+Visual Thesaurus
+Interactive Lexicon
 
 https://forvo.com
+The pronunciation dictionary
 
 https://www.visualthesaurus.com
+The Visual Thesaurus is an interactive dictionary and thesaurus which creates word maps that blossom with meanings and branch to related words. Its innovative display encourages exploration and learning. You'll understand language in a powerful new way.
 
 
 

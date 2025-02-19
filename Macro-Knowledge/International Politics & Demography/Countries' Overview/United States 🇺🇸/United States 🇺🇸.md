@@ -55,9 +55,9 @@ Welcome to the Consular Electronic Application Center! On this website, you can 
 
 [👍 Structure of the United States Federal Government]: https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government
 
-![](../../../Assets/Pics/Pasted%20image%2020250207212105.png)
+![](../../../../Assets/Pics/Pasted%20image%2020250207212105.png)
 
-![](../../../Assets/Pics/Pasted%20image%2020250207212151.png)
+![](../../../../Assets/Pics/Pasted%20image%2020250207212151.png)
 
 [👍 Government Information 101: Part 1, U.S. Gov Basics | Journalism Library Blog, Columbia University Library]: https://blogs.library.columbia.edu/journalism/2014/02/govinfo101/
 New to the U.S., or just need to brush-up on **some government basics?** Here's a quick run-down of U.S. government at various levels and how to find government information. (I'll be writing two follow-up posts that tell where to find primary source information for each branch of government, and show an example of a gov info search.) First, here is a **[U.S. government chart](http://www.netage.com/economics/gov/images-org/gov_chart-landscape.pdf)** and **three basic guides** to the **federal government**:
@@ -156,4 +156,6 @@ Information for **many federal government agencies** is centrally located in 
 	- NARA's **[National Center for Declassified Documents](http://www.archives.gov/declassification/)**
 	- **[A Guide to FOIA](http://georgiasouthern.libguides.com/content.php?pid=431873&sid=3533114)** (check the "[Popular FOIA Requests](http://georgiasouthern.libguides.com/content.php?pid=431873&sid=3567214)" tab!)
 
+
+[Roe v. Wade]: https://en.wikipedia.org/wiki/Roe_v._Wade
 
