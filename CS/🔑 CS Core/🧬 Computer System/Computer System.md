@@ -31,6 +31,9 @@
 - ↗ [Auxiliary Hardware & Peripherals (IO Devices)](../Hardware%20&%20EE%20Related%20Theories/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices)/Auxiliary%20Hardware%20&%20Peripherals%20(IO%20Devices).md)
 - ↗ [Computer System Implementations](../Hardware%20&%20EE%20Related%20Theories/🛠️%20Computer%20System%20Implementations/Computer%20System%20Implementations.md)
 
+↗ [Computer Virtualization](../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
+
+
 ### Learning Resources
 🔥 🎬 https://www.bilibili.com/video/av21376839/
 Computer Crash Course

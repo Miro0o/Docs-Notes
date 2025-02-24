@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [OS Level Programming with C & CPP](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
-- ↗ [Concurrency](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
+↗ [OS Level Programming with C & CPP](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
+- ↗ [Concurrency](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
 ↗ [Go Concurrent Programming](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20Languages/Golang/📌%20Go%20Advanced/Go%20Concurrent%20Programming.md)
 ↗ [Java Concurrent Programming](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Compiled%20+%20Interpreted%20Languages/⚰️%20JVM-Based%20Languages/☕️%20Java/Java%20Advanced/Java%20Concurrent%20Programming.md)
 ↗ [Python Concurrent Programming](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/Interpreted%20Languages/Python/📌%20Python%20Basics/Python%20Concurrent%20Programming.md)
@@ -18,7 +18,7 @@
 ↗ [Parallel Computing](../../../../🧠%20Computing%20Methodologies/Parallel%20Computing/Parallel%20Computing.md)
 ↗ [Distributed Computing & Systems](../../../../🧠%20Computing%20Methodologies/Distributed%20Computing%20&%20Systems/Distributed%20Computing%20&%20Systems.md)
 
-↗ [Web Development & The Internet](../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+↗ [Web Development & The Internet](../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
 
 ### Learning Resources

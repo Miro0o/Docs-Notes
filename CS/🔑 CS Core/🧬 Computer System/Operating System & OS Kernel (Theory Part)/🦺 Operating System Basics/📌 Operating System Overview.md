@@ -66,7 +66,7 @@ The operating system achieves both goals via the fundamental abstractions shown 
 #### 4️⃣ Virtual Machine
 The idea of a virtual machine was introduced by IBM in the 1960s, but it has become more prominent recently as a way to manage computers that must be able to run programs designed for multiple operating systems (such as Microsoft Windows, Mac OS X, and Linux) or different versions of the same operating system.
 
-↗ [Virtualization Theory](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Computer Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 
 
 

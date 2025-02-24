@@ -35,24 +35,10 @@
             "id": "5283acccecb90d3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🔑 CS Core/🧰 Generic Tools & Projects/Cracked Projects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cracked Projects"
+              "title": "New tab"
             }
           },
           {
@@ -92,78 +78,6 @@
             }
           },
           {
-            "id": "d3fe0e80abc186a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macro-Knowledge/International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "China"
-            }
-          },
-          {
-            "id": "e78bd741fb99ef8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/News Focus (IT-exclusive).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "News Focus (IT-exclusive)"
-            }
-          },
-          {
-            "id": "9d6bd123b55238b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "News Focus (Non-IT).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "News Focus (Non-IT)"
-            }
-          },
-          {
             "id": "96541b721feaee23",
             "type": "leaf",
             "state": {
@@ -185,6 +99,78 @@
               },
               "icon": "lucide-file",
               "title": "International Master&PhD Programmes & Applications"
+            }
+          },
+          {
+            "id": "d42cfc7b099ab04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Software Engineering/👇 System Software Engineering/System Software Engineering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "System Software Engineering"
+            }
+          },
+          {
+            "id": "c674caf8fed9b109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "China"
+            }
+          },
+          {
+            "id": "a9d84034b071c45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universe, Knowledge, and Intelligence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Universe, Knowledge, and Intelligence"
             }
           }
         ],
@@ -220,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crass",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,6 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universe, Knowledge, and Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +258,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Universe, Knowledge, and Intelligence"
             }
           },
           {
@@ -280,11 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Universe, Knowledge, and Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Universe, Knowledge, and Intelligence"
             }
           },
           {
@@ -294,7 +282,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -306,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+                "file": "Universe, Knowledge, and Intelligence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of International Master&PhD Programmes & Applications"
+              "title": "Outline of Universe, Knowledge, and Intelligence"
             }
           },
           {
@@ -361,55 +351,55 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96541b721feaee23",
+  "active": "a9d84034b071c45c",
   "lastOpenFiles": [
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/(CS) Master & PhD Application Guide.md",
-    "CS/News Focus (IT-exclusive).md",
-    "News Focus (Non-IT).md",
-    "Macro-Knowledge/International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
-    "CS/CyberSecurity/CyberSecurity.md",
-    "Assets/Pics/Pasted image 20250218010108.png",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
     "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
-    "Macro-Knowledge/Nature & Env/Nature & Env.md",
-    "Macro-Knowledge/Cultures/Cultures.md",
-    "CS/🏠 Assets/📌 How to learn English the right way/How to learn English the right way.md",
-    "Macro-Knowledge/Cultures/Literature/Literatures.md",
-    "Macro-Knowledge/Cultures/Literature/Novels.md",
-    "Macro-Knowledge/Cultures/Literature/Poems.md",
-    "Macro-Knowledge/International Politics & Demography/Countries' Overview/United States 🇺🇸",
-    "Macro-Knowledge/International Politics & Demography/International Politics & Demography.md",
-    "Macro-Knowledge/International Politics & Demography/Intelligent Agencies.md",
-    "Macro-Knowledge/Economics & Finance/Economics & Finance.md",
-    "Macro-Knowledge/Cultures/overview.md",
-    "CS/Software Engineering/Computer Graphics Programming/Video Games Development/Video Games Development.md",
-    "Macro-Knowledge/Cultures/Society/Politics/Finance & resource.md",
-    "Macro-Knowledge/Cultures/Society/Politics/International/Events.md",
-    "Macro-Knowledge/Cultures/Society/Politics/Domestic/US.md",
-    "Macro-Knowledge/Cultures/Society/Env/News.md",
-    "Macro-Knowledge/International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
+    "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
+    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
+    "CS/Software Engineering/👇 System Software Engineering/System Software Engineering.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
+    "Assets/Pics/Screenshot 2025-02-22 at 21.51.53.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 21.51.36.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 21.51.21.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 21.50.39.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 21.50.51.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 22.48.19.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 22.12.53.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 21.51.04.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 21.24.26.png",
+    "Assets/Pics/Screenshot 2025-02-22 at 20.49.31.png",
     "Universe, Knowledge, and Intelligence.md",
-    "Macro-Knowledge/Cultures/Society/Cultures/WiKi.md",
-    "Macro-Knowledge/Cultures/Literature/poems/fav.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/中国文化研究",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/中国政治/中国政府构成",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/中国政治",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United Arab Emirates 🇦🇪.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Cuba 🇨🇺.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Ghana 🇬🇭.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/Untitled.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Mexico 🇲🇽.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Nigeria 🇳🇬.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Egypt 🇪🇬.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Australia 🇦🇺.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Netherland 🇳🇱.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/India 🇮🇳.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/South Korea 🇰🇷.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/North Korea 🇰🇵.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Russia 🇷🇺.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Germany 🇩🇪.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United Kingdoms 🇬🇧.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Japan 🇯🇵.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
+    "CS/Software Engineering/☝️ Application Software Engineering/Application Software Engineering.md",
+    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Operating Systems & Kernels (Engineering Part).md",
+    "CS/Software Engineering/Untitled",
+    "CS/Software Engineering/☝️ Application Software Engineering",
+    "CS/🔑 CS Core/🧰 Generic Software Tools & Projects/🕹️ Games/Anti-Cheat Software",
+    "CS/🔑 CS Core/🧰 Generic Software Tools & Projects/🕹️ Games/Games Library/Console Games & Video Games/Console Games",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸",
     "Macro-Knowledge/Nature & Env",
     "Micro-Knowledge",
-    "Macro-Knowledge",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Mobile Phones",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/🛠️ Computer System Implementations/Personal Computers (PC)",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Sound Cards",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices/Audio Cards",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Input & Output Devices",
-    "CS/🔑 CS Core/Hardware & EE Related Theories/Auxiliary Hardware & Peripherals (IO Devices)/Output Devices",
-    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.png",
-    "Assets/Illustrations/Web Development/web_application_arch.excalidraw.svg",
-    "Assets/Pics/Pasted image 20250207212151.png",
-    "Assets/Pics/Pasted image 20250207212105.png",
-    "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.png",
-    "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.svg",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
-    "Assets/Pics/Screenshot 2025-01-21 at 13.26.49.png",
-    "Assets/Pics/Screenshot 2025-01-21 at 13.25.49.png",
-    "Assets/Pics/Screenshot 2025-01-21 at 13.24.38.png",
     "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

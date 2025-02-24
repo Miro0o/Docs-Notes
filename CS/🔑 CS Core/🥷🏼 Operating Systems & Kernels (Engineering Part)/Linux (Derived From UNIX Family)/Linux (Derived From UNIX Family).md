@@ -10,6 +10,8 @@
 ↗ [Linux Free Software & FLOSS & FOSS](Linux%20Free%20Software%20&%20OSS%20(Open%20Source%20Software)/Linux%20Free%20Software%20&%20FLOSS%20&%20FOSS.md)
 ↗ [🍸 Linux Kernel](🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 
+↗ [Open Source (Free Software) Spirits & Software License](../../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License.md)
+
 
 ### Linux Backbones
 🫂 [The Linux Foundation](https://www.linuxfoundation.org)

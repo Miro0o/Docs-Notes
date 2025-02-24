@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Process Management Basics](../🪆%20Process%20Management/Process%20Management%20Basics.md)
-↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
+↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
 ↗ [Binary Engineering & Software Analysis](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
 ↗ [Software Analysis Tools](../../../../../CyberSecurity/☠️%20Kill%20Chain/🔞%20Software%20Analysis%20Tools/Software%20Analysis%20Tools.md)
 
@@ -81,7 +81,7 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 
 
 ## 🎯 System Runtime Specifics
-> ↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
+> ↗ [End Host Management & Hardware Profiling](../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/🧱%20Hardware%20Related%20Tools/End%20Host%20Management%20&%20Hardware%20Profiling.md)
 ### General Monitoring
 #### 👉 `top` | `htop` | `gtop` | `btop`
 ↗ [Process Management Basics /Process Activity Management](../🪆%20Process%20Management/Process%20Management%20Basics.md#Process%20Activity%20Management)

@@ -14,9 +14,9 @@
 - ↗ [OpenHarmony](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/国产操作系统%20💦/Huawei%20Operating%20Systems/OpenHarmony/OpenHarmony.md)
 - ↗ [macOS Kernel (xnu) & Darwin](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/📌%20macOS%20Kernel%20(xnu)%20&%20Darwin/macOS%20Kernel%20(xnu)%20&%20Darwin.md)
 
-↗ [Mini OS Kernels](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/🧑🏽‍🏫%20Mini%20OS%20Kernels/Mini%20OS%20Kernels.md)
+↗ [Mini OS Kernels](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/🧑🏽‍🏫%20Mini%20OS%20Kernels/Mini%20OS%20Kernels.md)
 
-↗ [eBPF](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Projects/eBPF/eBPF.md)
+↗ [eBPF (extended BPF)](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Level%20Projects/eBPF%20(extended%20BPF)/eBPF%20(extended%20BPF).md)
 
 
 

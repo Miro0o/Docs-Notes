@@ -18,7 +18,7 @@ cssclasses:
 
 ## ⛲️ Resources
 ### Related Topis
-↗ [Rosetta](../../🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Rosetta.md)
+↗ [Rosetta](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/Rosetta.md)
 
 
 ### macOS Dev

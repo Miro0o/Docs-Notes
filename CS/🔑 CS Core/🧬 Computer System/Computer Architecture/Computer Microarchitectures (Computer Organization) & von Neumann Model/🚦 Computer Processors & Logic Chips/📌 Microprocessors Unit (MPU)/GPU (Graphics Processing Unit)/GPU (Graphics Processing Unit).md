@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [GPU Virtualization](../../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/GPU%20Virtualization.md)
+↗ [GPU Virtualization](../../../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/GPU%20Virtualization.md)
 
-↗ [Computer Graphics Programming](../../../../../../../Software%20Engineering/Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
+↗ [Computer Graphics Programming](../../../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🎨%20Computer%20Graphics%20Programming/Computer%20Graphics%20Programming.md)
 ↗ [Graphics Rendering Frameworks (2D & 3D)](../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/🖼️%20Graphics%20Rendering%20Frameworks%20(2D%20&%203D)/Graphics%20Rendering%20Frameworks%20(2D%20&%203D).md)
 ↗ [Media Processing & GUI SDK](../../../../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/🧩%20Media%20Processing%20&%20GUI%20SDK/Media%20Processing%20&%20GUI%20SDK.md)
 

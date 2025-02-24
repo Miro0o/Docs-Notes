@@ -16,7 +16,7 @@ See [JDK 20 Documentation](https://www.oracle.com/pls/topic/lookup?ctx=javase20
 
 ↗ [JVM Instrument Set & Java Bytecode](../../../../../🧬%20Computer%20System/Computer%20Architecture/Instruction%20Set%20Architecture%20(ISA)%20&%20Processor%20Architecture/RISC%20(Reduced%20Instruction%20Set%20Computer)/JVM%20Instrument%20Set%20&%20Java%20Bytecode/JVM%20Instrument%20Set%20&%20Java%20Bytecode.md)
 
-↗ [Virtualization Theory](../../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Computer Virtualization](../../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 
 
 

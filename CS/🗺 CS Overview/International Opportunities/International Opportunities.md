@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [International Politics & Demography](../../../Macro-Knowledge/International%20Politics%20&%20Demography/International%20Politics%20&%20Demography.md)
+↗ [International Politics & Demography](../../../Macro-Knowledge/🌏%20International%20Politics%20&%20Demography/International%20Politics%20&%20Demography.md)
 
 
 ### Forums

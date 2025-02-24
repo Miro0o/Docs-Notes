@@ -8,8 +8,8 @@
 🚧 https://github.com/hashicorp/packer
 
 ### Related Topics
-↗ [VMM Management & Orchestration](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/VMM%20Management%20&%20Orchestration/VMM%20Management%20&%20Orchestration.md)
-↗ [Vagrant](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/VMM%20Management%20&%20Orchestration/Vagrant/Vagrant.md)
+↗ [VMM Management & Orchestration](../../🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/VMM%20Management%20&%20Orchestration/VMM%20Management%20&%20Orchestration.md)
+↗ [Vagrant](../../🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/VMM%20Management%20&%20Orchestration/Vagrant/Vagrant.md)
 
 
 

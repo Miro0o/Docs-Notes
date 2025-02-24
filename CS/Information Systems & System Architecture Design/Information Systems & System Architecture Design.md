@@ -28,8 +28,8 @@
 - ↗ [DS Web Services' Architectures](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/DS%20Web%20Services'%20Architectures.md)
 - ↗ [Database System Design](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/Database%20System%20Design.md)
 
-↗ [Web Development & The Internet](../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
-↗ [Web Application Systems & Architecture Design](../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
+↗ [Web Development & The Internet](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+↗ [Web Application Systems & Architecture Design](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
 
 ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [System & Cloud Architecture Design Galleries](../Software%20Engineering/🏇%20Galleries%20&%20Awesome%20SE/System%20&%20Cloud%20Architecture%20Design%20Galleries/System%20&%20Cloud%20Architecture%20Design%20Galleries.md)

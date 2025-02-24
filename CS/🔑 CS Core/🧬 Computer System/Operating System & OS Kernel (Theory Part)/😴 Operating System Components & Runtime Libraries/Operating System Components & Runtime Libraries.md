@@ -7,19 +7,19 @@
 ## Res
 ### Related Topics
 ↗ [Program Execution & Compilation System](../../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
-↗ [Library Level Virtualization](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
+↗ [Library Level Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Library%20Level%20Virtualization/Library%20Level%20Virtualization.md)
 
 ↗ [System Call Interfaces (SCI)](../../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/System%20Call%20Interfaces%20(SCI).md)
 - ↗ [POSIX (Portable Operating System Interface)](../../../../../🧬%20Computer%20System/Computer%20Interfaces%20&%20Hardware%20Drivers/System%20Call%20Interfaces%20(SCI)/POSIX%20(Portable%20Operating%20System%20Interface).md)
 
 ↗ [C-like Runtimes](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/🚠%20Application%20Runtimes%20&%20SDKs/C-like%20Runtimes/C-like%20Runtimes.md)
-↗ [OS Level Programming with C & CPP](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
+↗ [OS Level Programming with C & CPP](../../../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/OS%20Level%20Programming%20with%20C%20&%20CPP.md)
 
 ↗ [Operating System Kernel (Kernel Mode)](Operating%20System%20Kernel%20(Kernel%20Mode).md)
 ↗ [System Core Function Libraries & C Standard Library (User Mode)](System%20Core%20Function%20Libraries%20&%20C%20Standard%20Library%20(User%20Mode).md)
 - ↗ [GNU C Library (glibc)](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🏆%20Linux%20System%20Libraries%20&%20Runtime%20Environments/👎%20GNU%20C%20Library%20(glibc)/GNU%20C%20Library%20(glibc).md)
 
-↗ [OS Level Virtualization](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
+↗ [OS Level Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
 
 ↗ [🍸 Linux Kernel](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🍸%20Linux%20Kernel.md)
 

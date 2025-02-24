@@ -6,15 +6,15 @@
 
 ## Res
 ### Related Topics
-↗ [OS Level Virtualization](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
-↗ [Container Technology](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/OS%20Level%20Virtualization/🐋%20Container%20Technology/Container%20Technology.md)
+↗ [OS Level Virtualization](../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/OS%20Level%20Virtualization.md)
+↗ [Container Technology](../../🦄%20Computer%20Virtualization/OS%20Level%20Virtualization/🐋%20Container%20Technology/Container%20Technology.md)
 
 
 
 ## Intro
 ### 🦷 Virtualization Technology Review
 Visit virtualization technologies theory at
-↗ [Virtualization Theory](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Computer Virtualization](../../🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 
 Containers (OS Virtualization)
 ↗ [Container Implementations](🐋%20Container%20Implementations/Container%20Implementations.md)
