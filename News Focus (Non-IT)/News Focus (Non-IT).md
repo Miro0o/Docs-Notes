@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [News Focus (IT-exclusive)](CS/News%20Focus%20(IT-exclusive).md)
+↗ [News Focus (IT-exclusive)](../CS/🗺%20CS%20Overview/News%20Focus%20(IT-exclusive)/News%20Focus%20(IT-exclusive).md)
 
 
 

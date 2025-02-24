@@ -35,16 +35,6 @@
             "id": "5283acccecb90d3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d5e5e9890a6b2dcc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Universe, Knowledge, and Intelligence.md",
@@ -63,66 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Universe, Knowledge, and Intelligence"
-            }
-          },
-          {
-            "id": "414fd266df6a589e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Human_society.excalidraw"
-            }
-          },
-          {
-            "id": "96541b721feaee23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "International Master&PhD Programmes & Applications"
-            }
-          },
-          {
-            "id": "d42cfc7b099ab04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Software Engineering/👇 System Software Engineering/System Software Engineering.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "System Software Engineering"
             }
           },
           {
@@ -131,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
+                "file": "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -146,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "China"
-            }
-          },
-          {
-            "id": "a9d84034b071c45c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universe, Knowledge, and Intelligence.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Universe, Knowledge, and Intelligence"
+              "title": "United States 🇺🇸"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -351,13 +257,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9d84034b071c45c",
+  "active": "5283acccecb90d3d",
   "lastOpenFiles": [
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
+    "Universe, Knowledge, and Intelligence.md",
+    "News Focus (Non-IT)/News Focus (Non-IT).md",
+    "CS/🗺 CS Overview/News Focus (IT-exclusive)",
+    "News Focus (Non-IT)",
+    "CS/🗺 CS Overview/International Opportunities/International Opportunities.md",
+    "Micro-Knowledge/Lives & Socialization/Living Abroad China 🇨🇳.md",
+    "Micro-Knowledge/Lives & Socialization/Lives & Socialization.md",
+    "Micro-Knowledge/Make Money/How to make money the quick way.md",
+    "CS/🗺 CS Overview/🗂️ Archive/Projects.md",
+    "CS/🗺 CS Overview/🗂️ Archive/Markdown Style Tester.md",
+    "CS/🗺 CS Overview/🗂️ Archive/LearnHub.md",
+    "CS/🗺 CS Overview/🗂️ Archive/CS Main Fileds.md",
+    "CS/🗺 CS Overview/🗂️ Archive/CS entries quick-look.md",
+    "CS/🗺 CS Overview/🗂️ Archive/books & labs.md",
+    "Assets/🗃 Archive/code graph.md",
+    "Assets/File Backup/缓冲区溢出攻击 - Florian - 博客园.webarchive",
+    "Assets/File Backup/新建 文本文档(1).txt",
+    "Assets/File Backup/一文搞清控制台、终端、shell概念 | silaoA的博客.webarchive",
+    "Assets/File Backup/The Definitive Guide to Linux System Calls | Packagecloud Blog.webarchive",
+    "Assets/File Backup/Normalization.drawio",
+    "Assets/File Backup/Linux syscall过程分析（万字长文）-腾讯云开发者社区-腾讯云.webarchive",
+    "Assets/File Backup/link layer switch.drawio",
+    "Assets/File Backup",
+    "Micro-Knowledge/Cultures & Habits/Articles & Comments List.md",
+    "CS/🏠 Assets/Obsidian Test Features/📆 Schedule Kanban.md",
+    "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
+    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
+    "Assets/Illustrations/Computer Science Philosophy/Universe_and_CS.excalidraw.md",
     "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
     "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
     "CS/Software Engineering/👇 System Software Engineering/System Software Engineering.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
+    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.53.png",
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.36.png",
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.21.png",
@@ -368,39 +302,11 @@
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.04.png",
     "Assets/Pics/Screenshot 2025-02-22 at 21.24.26.png",
     "Assets/Pics/Screenshot 2025-02-22 at 20.49.31.png",
-    "Universe, Knowledge, and Intelligence.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/中国文化研究",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/中国政治/中国政府构成",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/中国政治",
     "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United Arab Emirates 🇦🇪.md",
     "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Cuba 🇨🇺.md",
     "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Ghana 🇬🇭.md",
     "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/Untitled.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Mexico 🇲🇽.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Nigeria 🇳🇬.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Egypt 🇪🇬.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Australia 🇦🇺.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Netherland 🇳🇱.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/India 🇮🇳.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/South Korea 🇰🇷.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/North Korea 🇰🇵.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Russia 🇷🇺.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Germany 🇩🇪.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United Kingdoms 🇬🇧.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Japan 🇯🇵.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
-    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
-    "CS/Software Engineering/☝️ Application Software Engineering/Application Software Engineering.md",
-    "CS/🔑 CS Core/🥷🏼 Operating Systems & Kernels (Engineering Part)/Operating Systems & Kernels (Engineering Part).md",
-    "CS/Software Engineering/Untitled",
-    "CS/Software Engineering/☝️ Application Software Engineering",
-    "CS/🔑 CS Core/🧰 Generic Software Tools & Projects/🕹️ Games/Anti-Cheat Software",
-    "CS/🔑 CS Core/🧰 Generic Software Tools & Projects/🕹️ Games/Games Library/Console Games & Video Games/Console Games",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸",
-    "Macro-Knowledge/Nature & Env",
-    "Micro-Knowledge",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
-    "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Untitled.canvas",

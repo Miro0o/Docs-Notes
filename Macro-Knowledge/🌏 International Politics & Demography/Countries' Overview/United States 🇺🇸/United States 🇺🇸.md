@@ -46,6 +46,7 @@ Study in the States offers free government resources that explain the rules and 
 ![](../../../../Assets/Pics/Pasted%20image%2020250207212151.png)
 <small><a>https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government</a> (Structure of the United States Federal Government)</small>
 
+
 ### Human Resources & Management
 
 ### Population
