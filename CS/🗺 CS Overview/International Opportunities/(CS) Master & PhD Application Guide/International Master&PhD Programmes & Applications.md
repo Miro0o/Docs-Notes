@@ -10,7 +10,7 @@
 ↗ [Academics](../../../Academics%20🎓/Academics.md)
 ↗ [Academic Research Group & Tutors Profiles](../../../Academics%20🎓/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
-↗ [Natural Science Information](../../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
+↗ [Natural Science Information](../../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Natural%20Science%20Information.md)
 
 ↗ [给各位天命人的劝退信](../../../🏠%20Assets/Study,%20University,%20and%20Education/给各位天命人的劝退信.md)
 
@@ -25,7 +25,7 @@ bibliometrics
 - https://www.timeshighereducation.com/world-university-rankings | THE, Times Higher Education
 - https://www.usnews.com/best-colleges/rankings/national-universities | U.S. News, 
 
-https://www.tltzg.com/luohu/8402.html
+https://www.tltzg.com/luohu/8402.html (2023.10)
 
 ![shrs_school_ranking](../../../../Assets/Pics/shrs_school_ranking.jpg)
 
@@ -2639,7 +2639,7 @@ https://www.1point3acres.com/bbs/thread-931508-1-1.html
 
 
 ### 🇸🇬 Singapore
-↗ [Singapore 🇸🇬](../../../../Macro-Knowledge/International%20Politics%20&%20Demography/Countries'%20Overview/Singapore%20🇸🇬.md)
+↗ [Singapore 🇸🇬](../../../../Macro-Knowledge/🌏%20International%20Politics%20&%20Demography/Countries'%20Overview/Singapore%20🇸🇬.md)
 #### 👉 National University of Singapore (NUS)
 ##### School of Computing
 https://nusgs.nus.edu.sg/programmes/?faculty=Computing

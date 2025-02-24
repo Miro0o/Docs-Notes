@@ -10,8 +10,8 @@
 ↗ [Data Management Issues](../🔑%20CS%20Core/🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/Data%20Management%20Issues.md)
 ↗ [Data Security](../CyberSecurity/Data%20Security/Data%20Security.md)
 
-↗ [Web Development & The Internet](../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
-- ↗ [Web BackEnd Dev & Middleware](../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
+↗ [Web Development & The Internet](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+- ↗ [Web BackEnd Dev & Middleware](../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
 ↗ [Cloud Computing & Cloud Native](../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
 ↗ [Cloud, Edge & Fog Computing](../Information%20Systems%20&%20System%20Architecture%20Design/Cloud,%20Edge%20&%20Fog%20Computing/Cloud,%20Edge%20&%20Fog%20Computing.md)
 

@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Web Development & The Internet](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+↗ [Web Development & The Internet](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
 
 ### Web Security
@@ -17,17 +17,17 @@
 
 
 ### Web Development
-↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
-↗ [Web BackEnd Dev & Middleware](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
-↗ [Web Dev Middleware](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
-- ↗ [Web API Dev & Data Access Layer](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API%20Dev%20&%20Data%20Access%20Layer.md)
-- ↗ [Web API](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API/Web%20API.md)
+↗ [Web FrontEnd Dev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [Web BackEnd Dev & Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
+↗ [Web Dev Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+- ↗ [Web API Dev & Data Access Layer](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API%20Dev%20&%20Data%20Access%20Layer.md)
+- ↗ [Web API](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/👬%20Web%20API%20Dev%20&%20Data%20Access%20Layer/Web%20API/Web%20API.md)
 
 ↗ [Network Application Communication Architectures](../Network%20Application%20Communication%20Architectures.md)
 
 
 ### Web Use
-↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 
 
 
@@ -60,13 +60,13 @@ has `www.someSchool.edu` for a hostname and `/someDepartment/picture.gif` for a 
 
 
 ### Web Browser /Front End
-↗ [Web Browsers](../../../../🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
-↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
+↗ [Web Browsers](../../../../🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Browsers.md)
+↗ [Software Engineering /FrontendDev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/Web%20FrontEnd%20Dev.md)
 
 
 ### Web Server /Back End
-↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
-↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+↗ [Software Engineering  /BackEndDev](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20BackEnd%20Dev%20&%20Middleware.md)
+↗ [Software Engineering /Middleware](../../../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 
 
 

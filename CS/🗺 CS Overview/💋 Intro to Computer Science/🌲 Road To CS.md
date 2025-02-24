@@ -205,7 +205,7 @@ Software Engineering
 
 
 ## 🎉 More Res
-> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
+> ↗ [Web Content Search Services & Wiki Projects & Wikimedia Foundation (WMF)](../../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/🔍%20Web%20Browsers%20&%20Searching/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF)/Web%20Content%20Search%20Services%20&%20Wiki%20Projects%20&%20Wikimedia%20Foundation%20(WMF).md)
 > ↗ [实用工具箱](💋%20Intro%20to%20Computer%20Science/CS自学指南（转）/实用工具箱.md)
 
 
@@ -478,7 +478,7 @@ https://support.huawei.com/enterprise/zh/index.html
 
 
 ### PPL & Personal Blogs
-> ↗ [Web Blog Themes](../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
+> ↗ [Web Blog Themes](../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🖥️%20Web%20FrontEnd%20Dev/📌%20Web%20Frontend%20Basics/Frontend%20JS%20Techniques/HTML%20&%20CSS%20Themes/Web%20Blog%20Themes.md)
 > ↗ [Academic Research Group & Tutors Profiles](../../Academics%20🎓/Academic%20Research%20Group%20&%20Tutors%20Profiles/Academic%20Research%20Group%20&%20Tutors%20Profiles.md)
 
 ---
@@ -630,6 +630,21 @@ https://research.swtch.com/
 [Chord](http://pdos.csail.mit.edu/chord/)  
 
 [USA Computing Olympiad](http://www.usaco.org/)
+
+
+---
+https://www.xiaohongshu.com/user/profile/640d17a7000000001001ea46?xsec_token=ABHNLb4uCraso0OfDGHKMCCVQmA4TXsTsTZdOhlOijjKo=&xsec_source=pc_note
+xhs@冰泮北徂
+SEU AI - Uni Tübingen ML 
+https://keyu-wang-2002.github.io 
+咨询需付费
+欢迎商务合作 
+日常小号@予淮
+
+---
+https://www.xiaohongshu.com/user/profile/64a2ab8b000000001f005fff?xsec_token=ABche7uMVOb-kke9mlm32PDW-3bSoMpQFJDDfqs8ia3vk=&xsec_source=pc_note
+姜小白的成长笔记
+📈量化交易践行者 🌍全球资产交易员 🤝全网同昵称!
 
 
 ### Campus Lifes

@@ -65,7 +65,7 @@ As we have mentioned, the operating system is an important interface to the unde
 ##### Server Farm
 ##### Server Consolidation Product
 #### Virtual Machines
-↗ [Virtualization Theory](../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Virtualization%20Theory.md)
+↗ [Computer Virtualization](../../../../Software%20Engineering/🦄%20Computer%20Virtualization/Computer%20Virtualization.md)
 #### Subsystems & Partitions
 Although subsystems and partitions are different from each other in how they define their constituent resources, you can think of both as being mini-models of the layered system architecture of a computer system.
 - In the case of a partitioned environment, the levels would look like adjacent layered birthday cakes, extending from the hardware level to the application level. 

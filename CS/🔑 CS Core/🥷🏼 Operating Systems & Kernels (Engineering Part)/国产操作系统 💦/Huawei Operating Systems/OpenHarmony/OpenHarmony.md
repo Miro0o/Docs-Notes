@@ -23,7 +23,7 @@ Codelabs：[教程指导](https://gitee.com/openharmony/codelabs)
 ### Related Topics
 ↗ [Huawei HarmonyOS Runtimes & ArkCompiler](../📌%20Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler/Huawei%20HarmonyOS%20Runtimes%20&%20ArkCompiler.md)
 
-↗ [OpenAtom Foundation (开放原子开源基金会)](../../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/OpenAtom%20Foundation%20(开放原子开源基金会).md)
+↗ [OpenAtom Foundation (开放原子开源基金会)](../../../../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/OpenAtom%20Foundation%20(开放原子开源基金会).md)
 ↗ [Linux (Derived From UNIX Family)](../../../Linux%20(Derived%20From%20UNIX%20Family)/Linux%20(Derived%20From%20UNIX%20Family).md)
 ↗ [Android & AOSP](../../../Android%20&%20AOSP/Android%20&%20AOSP.md)
 

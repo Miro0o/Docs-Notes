@@ -8,12 +8,12 @@
 ### Related Topics
 ↗ [Linux (Derived From UNIX Family)](../Linux%20(Derived%20From%20UNIX%20Family).md)
 
-↗ [🪪 Software License & Open Source (Free Software)](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License.md)
+↗ [🪪 Software License & Open Source (Free Software)](../../../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License.md)
 ↗ [GNU Softwares](../🐑%20GNU%20(GNU's%20Not%20Unix)/GNU%20Softwares.md)
 ↗ [IoT & Embedded Communication Applications & Projects](../../../../../../Embedded%20&%20Internet%20of%20Things/IoT%20Networkings%20&%20Communications/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects/IoT%20&%20Embedded%20Communication%20Applications%20&%20Projects.md)
 
 ↗ [The Linux Foundation](../The%20Linux%20Foundation.md)
-↗ [ASF (Apache Software Foundation)](../../🪪%20Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)
+↗ [ASF (Apache Software Foundation)](../../../../Software%20Engineering/Open%20Source%20(Free%20Software)%20Spirits%20&%20Software%20License/Free%20Software%20Organizations/ASF%20(Apache%20Software%20Foundation).md)
 ↗ [OpenSSF (Open Source Security Foundation)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/OpenSSF%20(Open%20Source%20Security%20Foundation).md)
 
 ↗ [Cloud Computing & Cloud Native](../../../../../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/Cloud%20Computing%20&%20Cloud%20Native.md)
@@ -113,7 +113,7 @@ Also, don't forget ↗ [🤯 Awesome List](../../../../../../🗺%20CS%20Overvie
 
 Linux and macOS belongs to UNIX family, hence they share a lot part of the eco, i.e. lots of soteware listed here is also available at unix & macOS. For Unix & macOS exclusive tools, check out their own lists of software at ↗ [macOS CLI Software](../../Apple%20Operating%20Systems/macOS%20(Derived%20From%20UNIX%20Family)/🪓%20macOS%20CLI%20Software/macOS%20CLI%20Software.md) !
 
-There are some fantastic tools (high chance with a GUI) noted at ↗ [Generic Tools & Projects](../../../🧰%20Generic%20Tools%20&%20Projects/Generic%20Tools%20&%20Projects.md) as well!
+There are some fantastic tools (high chance with a GUI) noted at ↗ [Generic Software Tools & Projects](../../../🧰%20Generic%20Software%20Tools%20&%20Projects/Generic%20Software%20Tools%20&%20Projects.md) as well!
 
 Programming-related software can be found at ↗ [Languages Programming /Tools Chain](../../../👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Programming%20Tools%20Chain.md)
 

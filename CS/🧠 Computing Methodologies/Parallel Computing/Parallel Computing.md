@@ -53,14 +53,14 @@ Throughout the history of digital computers, two demands have been constant forc
 
 ↗ [Operating Systems /Concurrency Control](../../../Operating%20System%20&%20OS%20Kernel%20(Theory%20Part)/OS%20Processes%20&%20Automata%20Management%20(CPU%20+%20Main%20Memory%20Resource)/Concurrency%20Control/Concurrency%20Control.md)
 ↗ [Database Systems /Concurrency Control](../../../../🍕%20Computer%20Storage%20&%20Database%20Systems/Database%20Systems/⚜️%20Database%20System%20Design/📌%20DBMS%20Design/Physical%20Database%20Design%20(Software%20Engineering)/Transaction%20Management/Concurrency%20Control/Concurrency%20Control.md)
-↗ [OS Level Programming /Concurrency](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
+↗ [OS Level Programming /Concurrency](../../Software%20Engineering/👇%20System%20Software%20Engineering/OS%20Level%20Programming%20in%20Different%20Languages/OS%20Level%20Programming%20with%20C%20&%20CPP/Process%20Management/Concurrency.md)
 #### 👉 Hardware Level Parallel Computing
 ↗ [Multiprocessors and Multicore Processors](../../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessors%20and%20Multicore%20Processors.md)
 - ↗ [Multiprocessor Architectures & Parallel Computing](../../../Computer%20Architecture/Computer%20Microarchitectures%20(Computer%20Organization)%20&%20von%20Neumann%20Model/🚦%20Computer%20Processors%20&%20Logic%20Chips/Multiprocessors%20and%20Multicore%20Processors/Multiprocessor%20Architectures%20&%20Parallel%20Computing/Multiprocessor%20Architectures%20&%20Parallel%20Computing.md)
 #### 👉 Instruction Level Parallelism
 ↗ [ILP (Instruction Level Parallelism)](../../../../🛣️%20Program%20Execution%20&%20Compilation%20System/🧙🏿‍♀️%20Program%20Execution%20(Runtime)/Instruction%20Execution/ILP%20(Instruction%20Level%20Parallelism)/ILP%20(Instruction%20Level%20Parallelism).md)
 #### 👉 Software Level Parallel Computing
-↗ [Compute Unified Device Architecture & CUDA Programming](../../../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/📟%20System%20Level%20Programming/System%20Level%20Projects/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
+↗ [Compute Unified Device Architecture & CUDA Programming](../../Software%20Engineering/👇%20System%20Software%20Engineering/System%20Level%20Projects/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming/Compute%20Unified%20Device%20Architecture%20&%20CUDA%20Programming.md)
 openMP
 MPI (Message Passing Interface)
 mpi4pi

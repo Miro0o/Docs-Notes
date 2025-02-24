@@ -46,7 +46,7 @@ Other parameters like memory size & cpu sizes is adjustable at discretion.
 
 **#2 QEMU from VMM (libvirt here)**
 
-↗ [FAQ/ 👉 QEMU + `Libvirt` on macOS](../../../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/FAQ.md#👉%20QEMU%20+%20`Libvirt`%20on%20macOS)
+↗ [FAQ/ 👉 QEMU + `Libvirt` on macOS](../../../../../Software%20Engineering/🦄%20Computer%20Virtualization/FAQ.md#👉%20QEMU%20+%20`Libvirt`%20on%20macOS)
 
 
 #### 2️⃣ via Cloud (remote)

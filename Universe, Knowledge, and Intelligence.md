@@ -26,7 +26,7 @@ https://www.dk.com/uk/book/9781465494351-1000-inventions-and-discoveries/
 
 
 
-## 👼🏻 Human Intelligence
+## 👼🏻 Human Intelligence & Human Society
 ### Overview: Self-awareness & Two Essential Human Abilities
 
 

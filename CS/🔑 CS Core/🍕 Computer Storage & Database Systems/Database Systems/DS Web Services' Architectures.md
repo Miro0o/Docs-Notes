@@ -6,8 +6,8 @@
 
 ## Res
 ### Related Topics
-↗ [Web Application Systems & Architecture Design](../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
-↗ [Web Development & The Internet](../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
+↗ [Web Application Systems & Architecture Design](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20Systems%20&%20Architecture%20Design.md)
+↗ [Web Development & The Internet](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Development%20&%20The%20Internet.md)
 
 
 
@@ -63,7 +63,7 @@
 ![](../../../../../Assets/Pics/Screenshot%202023-03-06%20at%208.09.30%20PM.png)
 
 
-> 🔗 More of Modle-View-Control architecture is at [MVC](../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/MVC.md)
+> 🔗 More of Modle-View-Control architecture is at [MVC](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/Web%20Application%20Systems%20&%20Architecture%20Design/Web%20Application%20System%20Architecture%20Design%20Pattern/MVC.md)
 
 | Advantages of Mainframe Architecture                                          | Disadvantages of Mainframe Architecture                             |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -92,7 +92,7 @@
 
 
 #### Middleware
-↗ [Software Engineering /Middleware](../../../../Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
+↗ [Software Engineering /Middleware](../../../Software%20Engineering/☝️%20Application%20Software%20Engineering/🕸️%20Web%20Development%20&%20The%20Internet/🗄️%20Web%20BackEnd%20Dev%20&%20Middleware/Web%20Dev%20Middleware/Web%20Dev%20Middleware.md)
 ↗ [TP Monitor](../../../../Software%20Engineering/Software%20Maintenance%20&%20Operations%20Management/Monitoring%20&%20Analyzing/TP%20Monitor.md)
 
 

@@ -71,7 +71,6 @@ As a discipline, computer science spans a range of topics from theoretical studi
 
 > CS Subjects from Different Aspects
 > ↗ [🥂 Welcome to CS](../../🥂%20Welcome%20to%20CS.md)
-
 #### ACM CCS
 > https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
 > The **ACM Computing Classification System** (**CCS**) is a subject classification system for [computing](https://en.wikipedia.org/wiki/Computing "Computing") devised by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery") (ACM). The system is comparable to the [Mathematics Subject Classification](https://en.wikipedia.org/wiki/Mathematics_Subject_Classification "Mathematics Subject Classification") (MSC) in scope, aims, and structure, being used by the various ACM journals to organize subjects by area.
@@ -373,8 +372,8 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 
 1. What is the Universe?
 	1. ↗ [Universe, Knowledge, and Intelligence](../../../Universe,%20Knowledge,%20and%20Intelligence.md)
-	2. What is the life?
-	3. What is the intelligence? What is Human Beings?
+	2. What is the life?（什么是生命？）
+	3. What is the intelligence? What is Human Beings? （什么是智能？人类就是智能生命）
 		1. (What is the Artificial Intelligence?)
 		2. What is human society /civilization?
 			1. (The development of society /civilization ?)
@@ -408,7 +407,7 @@ The **2012 ACM Computing Classification System (CCS 2012)** has been developed a
 		2. Why and how do we program? /How are programming languages designed
 			2. ↗ [Programming Methodology and Languages](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/Programming%20Methodology%20and%20Languages.md)
 			3. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
-		3. What happened when a program is running? /How is software/programd compiled and run?
+		3. What happened when a program is running? /How is software programmed, compiled, and run?
 			1. ↗ [Program Execution & Compilation System](../../🔑%20CS%20Core/🛣️%20Program%20Execution%20&%20Compilation%20System/Program%20Execution%20&%20Compilation%20System.md)
 			2. 怎么构造一个最小的 Hello, World？ --- jyy
 			3. Where is the first instruction of a C program?

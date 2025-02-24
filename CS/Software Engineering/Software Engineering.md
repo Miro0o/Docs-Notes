@@ -14,7 +14,7 @@
 
 🔥 ↗ [Appendix](Appendix.md)
 ↗ [Galleries & Awesome SE](🏇%20Galleries%20&%20Awesome%20SE/Galleries%20&%20Awesome%20SE.md)
-↗ [Cracked Projects](../🔑%20CS%20Core/🧰%20Generic%20Tools%20&%20Projects/Cracked%20Projects.md)
+↗ [Cracked Software](../🔑%20CS%20Core/🧰%20Generic%20Software%20Tools%20&%20Projects/Cracked%20Software.md)
 
 ↗ [Software Security](../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 

@@ -21,7 +21,7 @@
 ↗ [Vulnerabilities](../../CyberSecurity/⛈️%20Risk%20Management/🦟%20Vulnerabilities/Vulnerabilities.md)
 - ↗ [Vulnerability Disclosure（漏洞挖掘）](../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Vulnerability%20Disclosure（漏洞挖掘）.md)
 
-↗ [QEMU](../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/🚀%20Virtualization%20Theory/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/QEMU/QEMU.md)
+↗ [QEMU](../Software%20Engineering/🦄%20Computer%20Virtualization/Hardware%20Level%20Virtualization%20&%20Hypervisors/Hypervisors%20Implementation/Hosted%20Hypervisor/Independant/QEMU/QEMU.md)
 ↗ [JTAG（Joint Test Action Group）Debugger](../../🔑%20CS%20Core/👩‍💻%20Programming%20Methodology%20and%20Languages/🛠️%20Programming%20Tools%20Chain/Debuggers%20&%20Disassemblers%20&%20Decompilers/JTAG（Joint%20Test%20Action%20Group）Debugger.md)
 ↗ [Docker](../../Software%20Engineering/☁️%20Cloud%20Computing%20&%20Cloud%20Native/🏂%20OS%20Level%20Virtualization%20&%20Containers%20Technology/🐋%20Container%20Implementations/Docker/Docker.md)
 
