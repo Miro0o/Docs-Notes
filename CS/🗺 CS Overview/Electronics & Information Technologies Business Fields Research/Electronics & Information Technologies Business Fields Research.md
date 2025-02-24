@@ -8,7 +8,7 @@
 ### Related Topics
 ↗ [国产替代与信创产业](../../CyberSecurity/国产替代与信创产业.md)
 ↗ [Institutes & Organizations in IT](../Institutes%20&%20Organizations%20in%20IT.md)
-↗ [IT Entrepreneurship & Internet](../../../Macro-Knowledge/Economics%20&%20Finance/Entrepreneurship/IT%20Entrepreneurship%20&%20Internet.md)
+↗ [IT Entrepreneurship & Internet](../../../Micro-Knowledge/Make%20Money/Entrepreneurship/IT%20Entrepreneurship%20&%20Internet.md)
 
 ↗ [AI WatchList](../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/👀%20AI%20WatchList/AI%20WatchList.md)
 

@@ -19,17 +19,17 @@ In [computing](https://en.wikipedia.org/wiki/Computing "Computing"), an **expa
 
 Expansion cards allow the capabilities and interfaces of a computer system to be extended or supplemented in a way appropriate to the tasks it will perform. For example, a high-speed multi-channel data acquisition system would be of no use in a personal computer used for bookkeeping, but might be a key part of a system used for industrial process control. Expansion cards can often be installed or removed in the field, allowing a degree of user customization for particular purposes. Some expansion cards take the form of "daughterboards" that plug into connectors on a supporting system board.
 
-![](../../../../../../../Assets/Archive/Curriculums/Assets/Screen%20Shot%202021-10-13%20at%2015.52.16.png)
+![](../../../../../../../Assets/🗃%20Archive/Curriculums/Assets/Screen%20Shot%202021-10-13%20at%2015.52.16.png)
 
 +  Extension Card
 	+  the circuit board is called extension card
-+ ![](../../../../../../../Assets/Archive/Curriculums/Assets/Screen%20Shot%202021-10-13%20at%2015.53.49.png)
++ ![](../../../../../../../Assets/🗃%20Archive/Curriculums/Assets/Screen%20Shot%202021-10-13%20at%2015.53.49.png)
 	+ internal 
 		+ Soud card / PCI
 		+ Modem card / PCMCIA
 		+ Network card / BNC+RJ45/ PCI
 		+ Digiral TV card / PCI
-		![](../../../../../../../Assets/Archive/Curriculums/Assets/Screen%20Shot%202021-10-13%20at%2016.00.08.png)
+		![](../../../../../../../Assets/🗃%20Archive/Curriculums/Assets/Screen%20Shot%202021-10-13%20at%2016.00.08.png)
 		+ Digiral TV card / PCIE1x
 	+ external
 		+ [video interface](https://zhuanlan.zhihu.com/p/133994348)

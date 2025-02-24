@@ -19,18 +19,18 @@
 
 ### Courses
 UC Berkeley CS61
-- ↗ [CS61A Structure and Interpretation of Computer Programs](../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
-- ↗ [CS61B Data Structures](../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS61/CS61B%20Data%20Structures.md)
-- ↗ [CS61C Great Ideas in Computer Architecture](../../🏠%20Assets/Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
+- ↗ [CS61A Structure and Interpretation of Computer Programs](../Courses%20of%20Universities/UC%20Berkeley/CS61/CS61A%20Structure%20and%20Interpretation%20of%20Computer%20Programs.md)
+- ↗ [CS61B Data Structures](../Courses%20of%20Universities/UC%20Berkeley/CS61/CS61B%20Data%20Structures.md)
+- ↗ [CS61C Great Ideas in Computer Architecture](../Courses%20of%20Universities/UC%20Berkeley/CS61/CS61C%20Great%20Ideas%20in%20Computer%20Architecture.md)
 
 CMU Intro to Computer Science
-- ↗ [CMU/ICS](../../🏠%20Assets/Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
+- ↗ [CMU/ICS](../Courses%20of%20Universities/CMU/15-213,%2014-513,%2015-513%20(ICS)/15-213,%2014-513,%2015-513%20(ICS).md)
 - 📖 [CSAPP](http://csapp.cs.cmu.edu/3e/home.html)
 	- [CSAPP Blog Page](http://csappbook.blogspot.com)
 	- [gitbook chinese version (partial)](https://hansimov.gitbook.io/csapp/)
 
-↗ [NJU/计算机系统基础](../../🏠%20Assets/Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/计算机系统基础/计算机系统基础.md)
-↗ [Harvard/CS50x](../../🏠%20Assets/Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
+↗ [NJU/计算机系统基础](../Courses%20of%20Universities/🇨🇳%20Mainland%20China/NJU/计算机系统基础/计算机系统基础.md)
+↗ [Harvard/CS50x](../Courses%20of%20Universities/Harvard/CS50x/CS50x.md)
 
 🎬 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/?p=16&share_source=copy_web&vd_source=7740584ebdab35221363fc24d1582d9d )
 

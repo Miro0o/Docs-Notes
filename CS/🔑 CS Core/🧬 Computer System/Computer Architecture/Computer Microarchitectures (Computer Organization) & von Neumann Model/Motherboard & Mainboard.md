@@ -35,7 +35,7 @@ Motherboard
 			+ [SATA](https://zh.wikipedia.org/zh-cn/SATA), aka Serial ATA, Serial Advanced Technology Attachment. disk interface. 
 			+ > [并发，并行，串行，同步，异步](https://blog.csdn.net/qq_26442553/article/details/78729793): 并发是对事件的描述，并行串行是一种传输方式，同步异步是对通讯方式对描述
 			+ PIN 
-		+ ![[../../../../../Assets/Archive/Curriculums/Assets/Screen Shot 2021-09-29 at 14.47.15.png]]
+		+ ![[../../../../../Assets/🗃 Archive/Curriculums/Assets/Screen Shot 2021-09-29 at 14.47.15.png]]
 			+ Northbridge
 				+ now often integrated into CPU
 				+ CPU, RAM, video card

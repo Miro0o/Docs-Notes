@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [News Focus (Non-IT)](../News%20Focus%20(Non-IT).md)
+↗ [News Focus (Non-IT)](../../../News%20Focus%20(Non-IT)/News%20Focus%20(Non-IT).md)
 
 ↗ [🌲 Road To CS](🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/🌲%20Road%20To%20CS.md)
 ↗ [Artificial Intelligence](🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Artificial%20Intelligence.md)
@@ -132,7 +132,7 @@ hnrss.org provides custom, realtime RSS feeds for [Hacker News](https://news.yc
 	- 各项业务中，ICT基础设施保持稳健态势，消费者业务重回增长，智能汽车解决方案业务快速发展，已经成为业绩增长的核心动力之一。
 	- 消费者业务中，市场份额一度跌落谷底的华为手机也已强势回归。Counterpoint数据显示，华为在2024年四季度的中国智能手机市场份额中强势登顶，占比达18.1%。BCI追踪的市场数据显示，2024年1-12月，华为手机销量份额达18.3%，位列中国市场第一。这也是华为经历低潮后，中国市场全年份额首次重回第一。
 	- 从被挤至“Others”，到2023年凭借一部华为Mate 60重回高端阵营，再到2024年坐稳龙头，华为手机业务经历了一场浩荡的蝶变。而在手机之外，华为终端也已在智能汽车、智能穿戴等领域多点开花，在改写市场格局的同时，也重塑了消费者的生活体验。
-	- ![](../Assets/Pics/Pasted%20image%2020250218010108.png)
+	- ![](../../../Assets/Pics/Pasted%20image%2020250218010108.png)
 - **DeepSeek网络攻击的幕后黑手浮出水面**
 	- https://mp.weixin.qq.com/s/1hLbYU5NH2BeMbdblOXebA
 	- 针对DeepSeek 的攻击可以划分为两个阶段。在1月27日之前，网络攻击主要以NTP、SSDP、CLDAP等反射放大攻击，影响范围尚可控制。自1月27日开始，大量的HTTP代理攻击开始出现，以及专业的僵尸网络团伙集中火力，对DeepSeek的AI服务和数据发起了密集攻击。
