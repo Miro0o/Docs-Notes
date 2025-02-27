@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Obfuscation](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Anti-Reverse%20Engineering%20&%20Software%20Protection/Obfuscation/Obfuscation.md)
+↗ [Obfuscation](../../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Anti-Reverse%20Engineering%20&%20Software%20Protection/Obfuscation/Obfuscation.md)
 ↗ [Encodings](../../../../../🗺%20CS%20Overview/💋%20Intro%20to%20Computer%20Science/😤%20Information,%20Data,%20Number%20and%20Math%20in%20Digital%20Systems/Encodings.md)
 
 

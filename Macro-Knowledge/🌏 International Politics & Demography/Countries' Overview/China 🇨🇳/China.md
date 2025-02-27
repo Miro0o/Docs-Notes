@@ -29,10 +29,55 @@ https://www.gov.cn/guoqing/index.htm
 
 
 ## Intro
-https://www.gov.cn/guoqing/index.htm
+> 🔗 https://www.gov.cn/guoqing/index.htm
+
 中国位于亚洲东部，太平洋西岸。陆地总面积约960万平方千米，海域总面积约473万平方千米。中国陆地边界长度约2.2万千米，大陆海岸线长度约1.8万千米。海域分布着大小岛屿7600个，面积最大的是台湾岛，面积35759平方千米。目前中国有34个省级行政区，包括23个省、5个自治区、4个直辖市、2个特别行政区。北京是中国的首都。
 
-https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD
+政治
+- [中国共产党第二十届中央领导机构](https://www.gov.cn/guoqing/2022-10/23/content_5720988.htm)
+- [全国人民代表大会常务委员会](https://www.gov.cn/guoqing/2023-03/12/content_5746231.htm)
+    - [中华人民共和国主席](https://www.gov.cn/guoqing/2023-03/10/content_5745803.htm)
+    - [国务院](https://www.gov.cn/gwyzzjg/)
+    - [中央军事委员会](https://www.gov.cn/guoqing/2018-03/17/content_5274966.htm)
+    - [国家监察委员会](https://www.gov.cn/guoqing/2023-03/11/content_5746070.htm)
+    - [最高人民法院](https://www.gov.cn/guoqing/2023-03/11/content_5747845.htm)
+    - [最高人民检察院](https://www.gov.cn/guoqing/2023-03/11/content_5747848.htm)
+- [中国人民政治协商会议全国委员会](https://www.gov.cn/guoqing/2023-03/11/content_5746028.htm)
+    - [民主党派](https://www.gov.cn/guoqing/2023-03/10/content_5745769.htm)
+
+经济
+- [国民经济和社会发展](https://www.gov.cn/lianbo/bumen/202402/content_6934935.htm)
+- [居民收入和消费支出](https://www.gov.cn/lianbo/bumen/202401/content_6926492.htm)
+- [中国的全面小康](https://www.gov.cn/zhengce/2021-09/28/content_5639778.htm)
+- [新时代的中国绿色发展](https://www.gov.cn/zhengce/2023-01/19/content_5737923.htm)
+- [新时代的中国能源发展](https://www.gov.cn/zhengce/2020-12/21/content_5571916.htm)
+- [中国的粮食安全](https://www.gov.cn/zhengce/2019-10/14/content_5439410.htm)
+- [永久基本农田信息查询](https://yncx.mnr.gov.cn/yn/#/home)
+
+社会
+- [中国共产党尊重和保障人权的伟大实践](https://www.gov.cn/zhengce/2021-06/24/content_5620505.htm)
+- [新时代的中国青年](https://www.gov.cn/zhengce/2022-04/21/content_5686435.htm)
+- [新中国70年妇女事业的发展与进步](https://www.gov.cn/zhengce/2019-09/19/content_5431327.htm)
+- [第七次全国人口普查公报](https://www.gov.cn/guoqing/2021-05/13/content_5606149.htm)
+- [生育政策](https://www.gov.cn/zhengce/2021-07/20/content_5626190.htm)
+- [中华各民族](https://www.neac.gov.cn/seac/ztzl/zgmzjs/index.shtml)
+
+历史
+- [中国共产党一百年大事记 （1921年7月－2021年6月）](https://www.gov.cn/xinwen/2021-06/28/content_5621160.htm)
+- [中华人民共和国大事记 （1949年10月－2019年9月）](https://www.gov.cn/xinwen/2019-09/27/content_5434223.htm)
+
+人文
+- [文化和旅游发展统计公报](https://www.gov.cn/lianbo/bumen/202409/content_6972211.htm)
+- [中国文物保护状况](https://www.gov.cn/guoqing/2012-04/11/content_2584143.htm)
+- [中国世界文化遗产名录](http://www.ncha.gov.cn/col/col2266/index.html)
+- [中国保障宗教信仰自由的政策和实践](https://www.gov.cn/zhengce/2018-04/03/content_5279419.htm)
+- [中国健康事业的发展与人权进步](https://www.gov.cn/zhengce/2017-09/29/content_5228551.htm)
+
+地理
+- [中国地势图](https://www.gov.cn/guoqing/2005-09/13/content_2582621.htm)
+
+> 🔗 https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD
+
 中华人民共和国是一个位于东亚的社会主义国家[1]，首都为北京市[15]，国土面积约为960万平方千米。全国共划分为23个省[注 7]、5个自治区、4个直辖市和2个特别行政区共34个省级行政区，国土面积位居世界第三[注 8][16]。
 
 抗日战争结束后，毛泽东领导下的中国共产党和人民解放军在第二次国共内战中逐步取得优势，并于1949年10月1日在北京宣告成立中华人民共和国中央人民政府。1950年代后，中华人民共和国实际控制中国大陆地区，与控制台湾地区的中华民国形成两岸分治的格局。
@@ -563,7 +608,41 @@ https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2
 
 
 
-## Economics
+## Economics & Finance
+### 我国金融/银行体系
+> 🔗 https://m.haitou.cc/mjfx-1393
+
+我国的银行体系如下：
+- 中国人民银行（央行）--执行国家货币政策，发行并控制货币，为其他商业银行提供贷款，作为最后贷款人来稳定金融市场
+- 银监会---对整个银行业实行监管
+- 三大政策性银行-国家开发银行，农业开发银行，进出口银行。行使国家政策性贷款的职能
+- 四大国有商业银行
+	- 工商银行：中国最大的商业银行
+	- 中国银行：成立最早，海外机构最多，外汇业务最发达建设银行：自从“建行破墙“以来，现在什么业务都搞了
+	- 农业银行：机构分布广泛，效益四家银行里面倒数第一
+- 股份制商业银行
+	- 最大的：交通银行
+	- 上市的（按资产规模从大到小）：招商银行，上海浦东发展银行，民生银行，深圳发展银行，华夏银行（前几天刚上市，资产规模不祥）
+	- 其他：光大银行，中信实业银行，广东发展银行..不一一列举
+- 投资银行----中金国际：主要扮演证券发行 （security issuing）时候的承销财团（underwriting syndicate）中的牵头经理（leadmanager）角色
+
+这就是我国几个主要银行的名称和他们的组织体系，这里还要提到一个组织--中国银联，它属于行业协会的性质，制定一些大家要共同遵守的行业标准，但对各家银行没有强制约束力。
+
+现在，我就要来说说银行里到底有哪些部门，主要是干什么的，以便大家应聘的时候有的放矢。银行里面的部门分为：管理部门，业务部门，支持部门
+- 管理部门：行长办公室、行政部、人力资源部、会计部、法律部….这些部门没什么特别的，除行长办公室外，其他部门每个企业都应该有。
+- 业务部门：（大家比较关心的可能就是这个了）
+	- 公司金融部: 吸收公司存款，并审查发放贷款给其他公司。单笔业务量、资金量大，收益大，风险高（一笔贷款坏了，涉及一大笔资金）。
+	- 个人金融部: 吸收个人存款，并审查发放贷款给个人。单笔业务量、资金量小，收益稳定，风险小（把风险被分到个人了）
+	- 金融机构部: 和其他非银行金融机构打交道，如基金、证券、保险、信托机构。这个部门其实发展机会很多，因为和各种金融机构接触，交际面广，学到的知识多，而且有利于对整个金融行业的把握和理解，同时也增加了今后跳槽的选择面和机会。
+	- 资金财务部: 进行银行资金的运作，或者替客户运作。如外汇，股票，债券... 
+	- 随着银行业务进一步细化，从上面的几个部门里面分出了：
+		- 离岸金融部（负责离岸资金 offshore fund 的运作）、
+		- 基金托管部（负责基金的发行和代销）、
+		- 公司/个人理财部（这个不用我说了吧，现在很热的^^），这些都是新成立的部门，如果能进去的话，发展机会也很多。
+- 支持部门：
+	- 信息科技部: 银行业和其他非金融业有个很大的不同，他对信息科技的依赖最大。因为从物流角度看，银行除了运送钞票和黄金，没有其他的物流了。只有信息流/资金流，而这些都可以是虚拟化和电子化的。从业务角度看，由于金融产品的高度可复制性和无专利性，信息技术的运用已经越来越成为金融产品的核心竞争力和金融创新的动力。
+
+
 ### Primary Economical Sector
 
 ### Secondary Economical Sector
@@ -609,3 +688,6 @@ https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2
 [积极打造全岛封关运作的海关监管特殊区域 海南自贸港开放蹄疾步稳]: http://haikou.customs.gov.cn/haikou_customs/605732/605733/5583495/index.html
 
 [海南自由贸易港将在2025年底前适时启动全岛封关运作——海南全岛封关意味着啥？（锐财经）]: http://paper.people.com.cn/rmrbhwb/html/2023-04/03/content_25973398.htm
+
+[中华人民共和国2023年国民经济和社会发展统计公报 | 国家统计局]: https://www.gov.cn/lianbo/bumen/202402/content_6934935.htm
+

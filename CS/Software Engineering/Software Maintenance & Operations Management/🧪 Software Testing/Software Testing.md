@@ -7,8 +7,10 @@
 ## Res
 ### Related Topics
 ↗ [Software Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
-↗ [Software Vulnerability & Weakness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-↗ [Malicious Code Detection & Software Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis.md)
+- ↗ [Software Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
+- ↗ [Software Vulnerability & Weakness](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
+- ↗ [Malicious Code Detection & Vulnerability Discovery](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery.md)
+
 ↗ [Dev(Sec)Ops (Application Level Engineering)](../../☁️%20Cloud%20Computing%20&%20Cloud%20Native/Dev(Sec)Ops%20(Application%20Level%20Engineering)/Dev(Sec)Ops%20(Application%20Level%20Engineering).md)
 
 ↗ [Linux Test Project (LTP)](../../../🔑%20CS%20Core/🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/🔩%20Linux%20Kernel/🤤%20Linux%20Test%20Project%20(LTP)/Linux%20Test%20Project%20(LTP).md)
@@ -50,6 +52,11 @@ Software faults occur through the following process: A programmer makes an [erro
 A fundamental problem with software testing is that testing under *all* combinations of inputs and preconditions (initial state) is not feasible, even with a simple product. This means that the number of [faults](https://en.wikipedia.org/wiki/Software_bug) in a software product can be very large and defects that occur infrequently are difficult to find in testing and debugging. More significantly, [non-functional](https://en.wikipedia.org/wiki/Non-functional_requirements) dimensions of quality (how it is supposed to *be* versus what it is supposed to *do*) — [usability](https://en.wikipedia.org/wiki/Usability), [scalability](https://en.wikipedia.org/wiki/Scalability), [performance](https://en.wikipedia.org/wiki/Computer_performance), [compatibility](https://en.wikipedia.org/wiki/Backward_compatibility), and [reliability](https://en.wikipedia.org/wiki/Reliability_(engineering)) — can be highly subjective; something that constitutes sufficient value to one person may be intolerable to another.
 
 Software developers can't test everything, but they can use combinatorial test design to identify the minimum number of tests needed to get the coverage they want. Combinatorial test design enables users to get greater test coverage with fewer tests. Whether they are looking for speed or test depth, they can use combinatorial test design methods to build structured variation into their test cases.
+
+
+### 🤓 Functional Testing and Security Testing
+↗ [Software Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
+↗ [Software Analysis Basics Methodologies](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/Software%20Analysis%20Basics%20Methodologies.md)
 
 
 

@@ -12,8 +12,8 @@
 
 ↗ [Software Security](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
 - ↗ [Software Vulnerability & Weakness](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Software%20Vulnerability%20&%20Weakness.md)
-- ↗ [Binary Engineering & Software Analysis](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
-- ↗ [Malicious Code Detection & Software Analysis](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis/Malicious%20Code%20Detection%20&%20Software%20Analysis.md)
+- ↗ [Software Analysis & Binary Engineering](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
+- ↗ [Malicious Code Detection & Vulnerability Discovery](../../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery/Malicious%20Code%20Detection%20&%20Vulnerability%20Discovery.md)
 
 ↗ [Web Security](../../Application%20Security/💉%20Web%20Security/Web%20Security.md)
 - ↗ [Web Application Security Risks (Threats, Attacks, Vulnerabilities) & OWASP](../../Application%20Security/💉%20Web%20Security/🛟%20Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP/Web%20Application%20Security%20Risks%20(Threats,%20Attacks,%20Vulnerabilities)%20&%20OWASP.md)

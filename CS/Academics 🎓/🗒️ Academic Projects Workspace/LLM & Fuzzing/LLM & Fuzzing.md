@@ -5,7 +5,7 @@
 
 
 ## Res
-↗ [Fuzzing (Fuzz Testing)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🐒%20Software%20Vulnerability%20&%20Weakness/Vulnerability%20Disclosure（漏洞挖掘）/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md)
+↗ [Fuzzing (Fuzz Testing)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md)
 
 
 

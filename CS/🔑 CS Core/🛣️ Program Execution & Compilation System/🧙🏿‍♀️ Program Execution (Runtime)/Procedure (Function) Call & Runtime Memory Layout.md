@@ -28,7 +28,7 @@
 - ↗ [Memory Threats & Attacks](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Threats%20&%20Attacks/Memory%20Threats%20&%20Attacks.md)
 - ↗ [Memory Protections & Mitigations](../../../../CyberSecurity/System%20Security/📝%20Memory%20Security/Memory%20Protections%20&%20Mitigations/Memory%20Protections%20&%20Mitigations.md)
 ↗ [Software Security](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Security.md)
-- ↗ [DCA (Dynamic Code Analysis)](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/📌%20DCA%20(Dynamic%20Code%20Analysis)/DCA%20(Dynamic%20Code%20Analysis).md)
+- ↗ [DCA (Dynamic Code Analysis)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/📌%20Software%20Analysis%20Basics%20Methodologies/📌%20DCA%20(Dynamic%20Code%20Analysis)/DCA%20(Dynamic%20Code%20Analysis).md)
 
 ↗ [FAQ /👉 Linux Library Functions Call 🆚 System Call 🆚 Procedure/Function Call](../../🥷🏼%20Operating%20Systems%20&%20Kernels%20(Engineering%20Part)/Linux%20(Derived%20From%20UNIX%20Family)/FAQ.md#👉%20Linux%20Library%20Functions%20Call%20🆚%20System%20Call%20🆚%20Procedure/Function%20Call)
 
@@ -111,7 +111,7 @@ You might notice that we saved the old values of `eip` and `ebp` during the func
 ### How to Trace Function Calls? Or even System Calls ?
 #function_call #procedure_call 
 
-↗ [Binary Engineering & Software Analysis](../../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+↗ [Software Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 
 
 
