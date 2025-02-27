@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "5283acccecb90d3d",
+            "id": "b0da7180c1ec0ca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universe, Knowledge, and Intelligence.md",
+                "file": "CS/Academics 🎓/Academics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Universe, Knowledge, and Intelligence"
+              "title": "Academics"
             }
           },
           {
-            "id": "c674caf8fed9b109",
+            "id": "7d4c32469510ba1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
+                "file": "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "United States 🇺🇸"
+              "title": "Programming Methodology and Languages"
+            }
+          },
+          {
+            "id": "98d959bca867bfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Software Analysis Basics Methodologies"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5027122497559,
-    "collapsed": true
+    "width": 583.5027122497559
   },
   "right": {
     "id": "54726125f7c010ef",
@@ -154,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universe, Knowledge, and Intelligence.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Universe, Knowledge, and Intelligence"
+              "title": "Backlinks for Software Analysis Basics Methodologies"
             }
           },
           {
@@ -173,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universe, Knowledge, and Intelligence.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Universe, Knowledge, and Intelligence"
+              "title": "Outgoing links from Software Analysis Basics Methodologies"
             }
           },
           {
@@ -202,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universe, Knowledge, and Intelligence.md",
+                "file": "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Universe, Knowledge, and Intelligence"
+              "title": "Outline of Software Analysis Basics Methodologies"
             }
           },
           {
@@ -240,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,41 +281,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5283acccecb90d3d",
+  "active": "b5ad63de66a49eac",
   "lastOpenFiles": [
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/United States 🇺🇸.md",
+    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/Software Testing.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis & Binary Engineering.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/Software Analysis Basics Methodologies.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Disclosure（漏洞挖掘）/Vulnerability Disclosure（漏洞挖掘）.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Software Analysis Automation",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🐒 Software Vulnerability & Weakness/Vulnerability Discovery（漏洞检测）/Vulnerability Discovery（漏洞检测）.md",
+    "CS/Software Engineering/Software Maintenance & Operations Management/Configuration Automation/Configuration Automation.md",
+    "CS/Software Engineering/Software Maintenance & Operations Management/🧪 Software Testing/FAQ.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Constraint Solving.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Malicious Code Detection & Vulnerability Discovery/Malicious Code Detection & Vulnerability Discovery.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/Anti-Virus & AV Evasion Techniques (OPSEC Safe)/Anti-Virus & AV Evasion Techniques (OPSEC Safe).md",
+    "CS/CyberSecurity/⛈️ Risk Management/🐺 Risk Countermeasures & Security Control/🛌 Comprehensive Defense Systems & Security Products/Host & Endpoint Security Products/AntiVirus (AV)/AntiVirus (AV).md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Formal Methods & FV.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Symbolic Execution/Symbolic Execution.md",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Software Analysis & Binary Engineering/📌 Software Analysis Basics Methodologies/🙇‍♂️ Formal Methods & FV/Symbolic Execution",
+    "CS/CyberSecurity/🏰 Cybersecurity Basics & InfoSec/🍦 Software Security/🪆 Binary Engineering & Software Analysis/🙇‍♂️ Formal Methods & FV/Formal Verification (FV).md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Logics & Verification & Provers.md",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Z3 Theorem Prover.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Verification & Analysis Programming Languages/Verification & Analysis Programming Languages.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Languages for Specific Scientific Areas/Functional Programming languages",
+    "CS/CyberSecurity/☠️ Kill Chain/🔞 Software Analysis Tools/🧘‍♂️ Logics & Verification & Provers/Satisfiability (SAT) Solver/Satisfiability (SAT) Solver.md",
+    "CS/🔑 CS Core/👩‍💻 Programming Methodology and Languages/Programming Methodology and Languages.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Formal Semantics and Programming Language.md",
+    "CS/🧮 Math & Theoretical Computer Science (TCS)/🤼‍♀️ Mathematical Logics/😶‍🌫️ Theory of Computation/🍏 Automata Theory and (Formal) Language Theory/Automata Theory and (Formal) Language Theory.md",
+    "CS/Academics 🎓/Academics.md",
+    "CS/🧠 Computing Methodologies/👽 Artificial Intelligence/Artificial Intelligence.md",
     "Universe, Knowledge, and Intelligence.md",
-    "News Focus (Non-IT)/News Focus (Non-IT).md",
-    "CS/🗺 CS Overview/News Focus (IT-exclusive)",
-    "News Focus (Non-IT)",
-    "CS/🗺 CS Overview/International Opportunities/International Opportunities.md",
-    "Micro-Knowledge/Lives & Socialization/Living Abroad China 🇨🇳.md",
-    "Micro-Knowledge/Lives & Socialization/Lives & Socialization.md",
-    "Micro-Knowledge/Make Money/How to make money the quick way.md",
-    "CS/🗺 CS Overview/🗂️ Archive/Projects.md",
-    "CS/🗺 CS Overview/🗂️ Archive/Markdown Style Tester.md",
-    "CS/🗺 CS Overview/🗂️ Archive/LearnHub.md",
-    "CS/🗺 CS Overview/🗂️ Archive/CS Main Fileds.md",
-    "CS/🗺 CS Overview/🗂️ Archive/CS entries quick-look.md",
-    "CS/🗺 CS Overview/🗂️ Archive/books & labs.md",
-    "Assets/🗃 Archive/code graph.md",
-    "Assets/File Backup/缓冲区溢出攻击 - Florian - 博客园.webarchive",
-    "Assets/File Backup/新建 文本文档(1).txt",
-    "Assets/File Backup/一文搞清控制台、终端、shell概念 | silaoA的博客.webarchive",
-    "Assets/File Backup/The Definitive Guide to Linux System Calls | Packagecloud Blog.webarchive",
-    "Assets/File Backup/Normalization.drawio",
-    "Assets/File Backup/Linux syscall过程分析（万字长文）-腾讯云开发者社区-腾讯云.webarchive",
-    "Assets/File Backup/link layer switch.drawio",
-    "Assets/File Backup",
-    "Micro-Knowledge/Cultures & Habits/Articles & Comments List.md",
-    "CS/🏠 Assets/Obsidian Test Features/📆 Schedule Kanban.md",
-    "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/China 🇨🇳/China.md",
-    "Assets/Illustrations/Computer Science Philosophy/Universe_and_CS.excalidraw.md",
-    "Assets/Illustrations/Computer Science Philosophy/Human_society.excalidraw.md",
-    "CS/🗺 CS Overview/International Opportunities/(CS) Master & PhD Application Guide/International Master&PhD Programmes & Applications.md",
-    "CS/Software Engineering/👇 System Software Engineering/System Software Engineering.md",
-    "CS/🗺 CS Overview/💋 Intro to Computer Science/🌲 Road To CS.md",
+    "Macro-Knowledge/Law",
+    "Assets/Pics/Screenshot 2025-02-27 at 15.43.37.png",
+    "Macro-Knowledge/Economics & Finance/Finance & Financial Management/Assets Management",
+    "Assets/Standards/P020250116506795831658.pdf",
+    "Assets/P020250116506795831658.pdf",
+    "Assets/Standards",
+    "Macro-Knowledge/Economics & Finance/Finance & Financial Management",
+    "CS/🏠 Assets/Obsidian Test Features/Test Canvans.canvas",
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.53.png",
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.36.png",
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.21.png",
@@ -301,11 +329,6 @@
     "Assets/Pics/Screenshot 2025-02-22 at 22.12.53.png",
     "Assets/Pics/Screenshot 2025-02-22 at 21.51.04.png",
     "Assets/Pics/Screenshot 2025-02-22 at 21.24.26.png",
-    "Assets/Pics/Screenshot 2025-02-22 at 20.49.31.png",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United Arab Emirates 🇦🇪.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Cuba 🇨🇺.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/Ghana 🇬🇭.md",
-    "Macro-Knowledge/🌏 International Politics & Demography/Countries' Overview/United States 🇺🇸/Untitled.md",
     "CS/🧠 Computing Methodologies/Untitled.canvas",
     "Untitled.canvas",
     "CS/🔑 CS_Core/🧬 Computer System/Operating System (Theory)/IO System/IO Generality (via Abstraction)/File & File System/🎯 File Systems/Disk and Non-rotating File Systems/Untitled.canvas",

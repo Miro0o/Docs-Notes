@@ -37,7 +37,7 @@ Nature Index
 [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)
 [CCF Conference Deadlines](https://ccfddl.github.io/)
 [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,CV)
-##### Others
+##### Ranking /lists
 [Computer Science Conference Rankings](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html)
 
 [CSRankings: Computer Science Rankings](https://csrankings.org/#/index?all&world)
@@ -97,10 +97,20 @@ Welcome to the System Security Circus.
 This page contains statistics about the papers published over the last
 20+ years in the top System Security (Academic) venues.
 
-
-### Others
 https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_States
 Academic ranks in the United States | wikipedia
+
+👍 [Computer Security Conference Ranking and Statistic | Guofei Gu](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
+- Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
+- Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
+
+
+### Others
+https://pressbooks.pub/academicskills/
+学术能力养成指南 Academic Skills Guide for Dummies
+
+https://github.com/WengLean/hands-on-research-tutorial
+
 
 https://www.zhihu.com/column/c_196483113
 计算机论文精选 | 知乎
@@ -109,10 +119,6 @@ https://hoochanlon.github.io/hamulete/
 https://github.com/hoochanlon/hamulete/tree/master
 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 (This repo has been cloned to local!🥰 -- notes from miro)
-
-👍 [Computer Security Conference Ranking and Statistic | Guofei Gu](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
-- Other interesting/relevant resources: [System security circus](http://s3.eurecom.fr/%7Ebalzarot/notes/top4/) ([top authors](http://s3.eurecom.fr/%7Ebalzarot/notes/top4_2018/authors_all_conf.html)), [Influential security papers](https://www.sec.cs.tu-bs.de/%7Ekonrieck/topnotch/)
-- Some useful [resources](https://success.cse.tamu.edu/resources/), [links](https://people.engr.tamu.edu/guofei/links.htm)
 
 https://people.engr.tamu.edu/guofei/links.htm
 - Research Engines

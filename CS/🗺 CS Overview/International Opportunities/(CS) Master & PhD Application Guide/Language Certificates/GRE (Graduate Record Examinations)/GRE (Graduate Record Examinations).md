@@ -9,6 +9,10 @@
 🏠 https://ereg.ets.org/ GRE ETS
 
 
+### Related Topics
+↗ [How to learn English the right way](../../../../../../Micro-Knowledge/Learning/📌%20How%20to%20learn%20English%20the%20right%20way/How%20to%20learn%20English%20the%20right%20way.md)
+
+
 ### Other Resources 
 https://bbgre.com
 https://gre.kmf.com/

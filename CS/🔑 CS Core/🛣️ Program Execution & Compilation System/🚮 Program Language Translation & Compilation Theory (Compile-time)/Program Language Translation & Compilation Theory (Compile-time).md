@@ -17,7 +17,7 @@
 
 
 ### Related Topics
-↗ [Binary Engineering & Software Analysis](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+↗ [Software Analysis & Binary Engineering](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 ↗ [Automata Theory and (Formal) Language Theory](../../../🧮%20Math%20&%20Theoretical%20Computer%20Science%20(TCS)/🤼‍♀️%20Mathematical%20Logics/😶‍🌫️%20Theory%20of%20Computation/🍏%20Automata%20Theory%20and%20(Formal)%20Language%20Theory/Automata%20Theory%20and%20(Formal)%20Language%20Theory.md)
 ↗ [Natural Language Processing (NLP)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/🔥%20Natural%20Language%20Processing%20(NLP)/Natural%20Language%20Processing%20(NLP).md)
 

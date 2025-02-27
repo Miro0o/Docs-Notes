@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [Network Penetration (Pen-testing)](../Application%20Security/💉%20Web%20Security/Network%20Penetration%20(Pen-testing)/Network%20Penetration%20(Pen-testing).md)
-↗ [Binary Engineering & Software Analysis](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Binary%20Engineering%20&%20Software%20Analysis/Binary%20Engineering%20&%20Software%20Analysis.md)
+↗ [Software Analysis & Binary Engineering](../🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Software%20Analysis%20&%20Binary%20Engineering.md)
 ↗ [Forensics & Traceability Analysis](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Forensics%20&%20Traceability%20Analysis/Forensics%20&%20Traceability%20Analysis.md)
 ↗ [OSINT (Open Source Intelligence)](../⛈️%20Risk%20Management/🐗%20Cybersecurity%20Threats%20&%20Attacks/🛰️%20Cyber%20Threat%20Intelligence%20(CTI)%20&%20Reconnaissance/📌%20OSINT%20(Open%20Source%20Intelligence)/OSINT%20(Open%20Source%20Intelligence).md)
 ↗ [Security Audit & Security Audit Trail](../⛈️%20Risk%20Management/🐺%20Risk%20Countermeasures%20&%20Security%20Control/Security%20Audit%20&%20Security%20Audit%20Trail/Security%20Audit%20&%20Security%20Audit%20Trail.md)

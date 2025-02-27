@@ -40,6 +40,13 @@ Study in the States offers free government resources that explain the rules and 
 
 ## Politics & Demography
 ### Political Systems & Governments
+#### U.S. Parties
+https://en.wikipedia.org/wiki/Political_parties_in_the_United_States
+
+##### Republican Party
+The Republican Party, also known as the Grand Old Party, is one of the two major contemporary political parties in the United States. It emerged as the main political rival of the then-dominant Democratic Party in the 1850s, and the two parties have dominated American politics since then
+##### Democratic Party
+#### U.S. Government
 ![](../../../../Assets/Pics/Pasted%20image%2020250207212105.png)
 <small><a>https://simplelegalguides.com/blogs/simple-legal-guides-blog/organization-chart-for-the-united-states-federal-government</a> (Structure of the United States Federal Government)</small>
 
@@ -58,11 +65,21 @@ Study in the States offers free government resources that explain the rules and 
 
 
 ## Economics
-### Primary Economical Sector
+### Economical Structure
+#### Federal Reserve System (The Fed)
+> 🔗 https://en.wikipedia.org/wiki/Federal_Reserve
 
-### Secondary Economical Sector
+The **Federal Reserve System** (often shortened to the **Federal Reserve**, or simply the **Fed**) is the central banking system of the United States. It was created on December 23, 1913, with the enactment of the Federal Reserve Act, after a series of financial panics (particularly the panic of 1907) led to the desire for central control of the monetary system in order to alleviate financial crises. Over the years, events such as the Great Depression in the 1930s and the Great Recession during the 2000s have led to the expansion of the roles and responsibilities of the Federal Reserve System.
 
-### Tertiary Economical Sector
+Congress established three key objectives for monetary policy in the Federal Reserve Act: maximizing employment, stabilizing prices, and moderating long-term interest rates. The first two objectives are sometimes referred to as the Federal Reserve's dual mandate. Its duties have expanded over the years, and currently also include supervising and regulating banks, maintaining the stability of the financial system, and providing financial services to depository institutions, the U.S. government, and foreign official institutions. The Fed also conducts research into the economy and provides numerous publications, such as the  [Beige Book](https://en.wikipedia.org/wiki/Beige_Book "Beige Book") and the [FRED database](https://en.wikipedia.org/wiki/FRED_database "FRED database")
+
+
+### Economical Sectors
+#### Primary Sector
+
+#### Secondary Sector
+
+#### Tertiary Sector
 
 
 
@@ -120,7 +137,7 @@ The United States has several **levels** of government: **federal**, **state
 - **Judicial**(interprets the law)
     - Composed of the [Supreme Court](http://www.supremecourt.gov/) and the [federal court system](http://www.uscourts.gov/FederalCourts.aspx)
 
-Each [**state** has its own government](http://www.whitehouse.gov/our-government/state-and-local-government) which echoes the federal government in its three-branch organization. The Legislative branch is composed of the state senate and house (or assembly), the Executive branch is composed of the Governor and typically many departments (structure varies by state), and the Judicial branch is composed of the state court system, headed by the state supreme court. There are different **local government** offices at the county and the municipal (city/town) level. Typically, cities follow a similar pattern to federal and state government, with a Mayor acting as the chief executive officer of a city. Usually, a county is larger than and encompasses many cities and towns. However, [New York City](http://www1.nyc.gov/) is made up of five boroughs, which are each actually counties (listed at right).
+Each [**state** has its own government](http://www.whitehouse.gov/our-government/state-and-local-government) which echoes the federal government in its three-branch organization. The Legislative branch is composed of the state senate and house (or assembly), the Executive branch is composed of the Governor and typically many departments (structure varies by state), and the Judicial branch is composed of the state court system, headed by the state supreme court. There are different **local government** offices at the county and the municipal (city/town) level. Typically, cities follow a similar pattern to federal and state government, with a Mayor acting as the chief executive officer of a city. Usually, a county is larger than and encompasses many cities and towns. However, [New York City](http://www1.nyc.gov/) is made up of five boroughs, which are each actually counties.
 
 
 **What Topics are Covered by Government Documents?**
@@ -201,3 +218,5 @@ Information for **many federal government agencies** is centrally located in 
 
 
 [Roe v. Wade]: https://en.wikipedia.org/wiki/Roe_v._Wade
+
+[美国—以色列关系 | wikipedia]: https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E2%80%94%E4%BB%A5%E8%89%B2%E5%88%97%E9%97%9C%E4%BF%82#
