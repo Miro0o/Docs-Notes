@@ -89,6 +89,10 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 ### Translation
 
 
+### Graduation Paper
+![Fuzz4All.excalidraw | 800](../../../../Assets/Illustrations/Fuzzing/Fuzz4All.excalidraw.md)
+
+
 
 ## Ref
 [四川大学本科毕业论文（设计）格式和参考文献著录要求]: https://cs.scu.edu.cn/info/1050/9337.htm
