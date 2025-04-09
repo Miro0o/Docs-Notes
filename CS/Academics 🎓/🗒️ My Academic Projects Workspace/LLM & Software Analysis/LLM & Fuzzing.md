@@ -90,7 +90,7 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 
 
 ### Graduation Paper
-![Fuzz4All.excalidraw | 800](../../../../Assets/Illustrations/Fuzzing/Fuzz4All.excalidraw.md)
+![Fuzz4All.excalidraw | 800](../../../../Assets/Illustrations/Fuzzing/Fuzz4All/Fuzz4All.excalidraw.md)
 
 
 
@@ -99,3 +99,6 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 [毕业论文（设计）]: https://jwc.scu.edu.cn/jxgl/bylw_sj_.htm
 
 [网络空间安全学院2025届本科毕业论文工作流程安排]: https://ccs.scu.edu.cn/info/1026/3825.htm
+
+[关于开展2025届本科毕业论文（设计）学术不端行为检测工作的通知]: https://jwc.scu.edu.cn/info/1069/9801.htm
+[木可YK|如何在四川大学图书馆进行论文检测（查重）？]: https://www.bilibili.com/opus/748442302568988709
