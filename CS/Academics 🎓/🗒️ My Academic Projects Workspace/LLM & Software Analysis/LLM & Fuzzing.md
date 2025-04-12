@@ -10,14 +10,12 @@
 
 
 
-## Reading List
-
+## Fuzzing Technology Trending List
 AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing
 https://arxiv.org/abs/2409.10737
 https://ui.adsabs.harvard.edu/abs/2023arXiv230712469Z/abstract
 
 Zhang, Cen, Yaowen Zheng, Mingqiang Bai, Yeting Li, Wei Ma, Xiaofei Xie, Yuekang Li, Limin Sun, and Yang Liu. "How effective are they? Exploring large language model based fuzz driver generation." In _Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis_, pp. 1223-1235. 2024.
-
 
 技术进展 | Prompt-Fuzz：基于LLM的库模糊测试驱动自动化生成
 https://mp.weixin.qq.com/s/V3OC6BbZuMC0eev53C_LWA
