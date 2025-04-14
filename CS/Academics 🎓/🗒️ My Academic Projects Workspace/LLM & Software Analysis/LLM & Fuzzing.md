@@ -100,3 +100,9 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 
 [关于开展2025届本科毕业论文（设计）学术不端行为检测工作的通知]: https://jwc.scu.edu.cn/info/1069/9801.htm
 [木可YK|如何在四川大学图书馆进行论文检测（查重）？]: https://www.bilibili.com/opus/748442302568988709
+
+[65 麻薯脆团团发布了一篇小红书笔记，快来看吧！ 😆 FN7AtPtFG6yIG3I 😆]: http://xhslink.com/a/ZhR1ztRqSgQ9
+[【研究工具】倔强——只用Word完成文献引用 | 简书]: https://www.jianshu.com/p/5dc86dfa70f2
+[论文中引用网页内容在文中怎么标注？ - 易轻轻q的回答 - 知乎]: https://www.zhihu.com/question/457765989/answer/1869692237
+[本科毕业论文引用、编写英文参考文献格式的方法| CSDN]: https://blog.csdn.net/qq_45128278/article/details/117341629?fromshare=blogdetail&sharetype=blogdetail&sharerId=117341629&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
+[信息与文献 参考文献著录规则 ｜ 中华热门共和国国家标准]: https://journal.ustc.edu.cn/uploadfile/yjsjy/20161108/GB%20T%207714-2015%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99.pdf
