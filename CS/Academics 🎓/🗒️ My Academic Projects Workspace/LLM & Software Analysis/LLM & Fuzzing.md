@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [Fuzzing (Fuzz Testing)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Fuzzing%20(Fuzz%20Testing)/Fuzzing%20(Fuzz%20Testing).md)
+↗ [Fuzzing (Concrete Execution)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
 
 
 
