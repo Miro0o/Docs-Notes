@@ -95,6 +95,17 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 ## Ref
 [四川大学本科毕业论文（设计）格式和参考文献著录要求]: https://cs.scu.edu.cn/info/1050/9337.htm
 [毕业论文（设计）]: https://jwc.scu.edu.cn/jxgl/bylw_sj_.htm
+[信息与文献 参考文献著录规则 GB/T 7714-2015 （修改中）]: https://std.samr.gov.cn/gb/search/gbDetailed?id=14CA9D282EB75AC8E06397BE0A0AEA2E
+[🤔 信息与文献 资源描述 GB/T 3792-2021]: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=51D5E5D05A9BA5EEC32605CD4C8B6938
+[信息与文献 资源描述]: https://std.samr.gov.cn/gb/search/gbDetailed?id=BD89DE8E07173D08E05397BE0A0A4FAD
+国家标准《信息与文献 资源描述》 由TC4（全国信息与文献标准化技术委员会）归口 ，主管部门为国家标准委。
+
+主要起草单位 中国科学院文献情报中心 、国家图书馆 、北京大学图书馆 、清华大学图书馆 、华东师范大学图书馆 、广东省立中山图书馆 、上海图书馆 、中国科学技术信息研究所 、首都图书馆 、中央音乐学院图书馆 、中国社会科学院图书馆 。
+
+主要起草人 宋文 、王洋 、喻爽爽 、杨慧 、胡小菁 、鲍国强 、毛凌文 、毛雅君 、纪陆恩 、朱学军 、魏来 、张娟 、王宁宁 、沈正华 、袁玉红 、黄丽婷 。
+
+
+[如何书写规范的参考文献？ | 复旦大学图书馆服务]: https://library.fudan.edu.cn/xkfw/639/list.htm
 
 [网络空间安全学院2025届本科毕业论文工作流程安排]: https://ccs.scu.edu.cn/info/1026/3825.htm
 
