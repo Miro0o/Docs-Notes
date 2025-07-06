@@ -92,7 +92,8 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 
 
 
-## Ref
+### Links
+
 [四川大学本科毕业论文（设计）格式和参考文献著录要求]: https://cs.scu.edu.cn/info/1050/9337.htm
 [毕业论文（设计）]: https://jwc.scu.edu.cn/jxgl/bylw_sj_.htm
 [信息与文献 参考文献著录规则 GB/T 7714-2015 （修改中）]: https://std.samr.gov.cn/gb/search/gbDetailed?id=14CA9D282EB75AC8E06397BE0A0AEA2E
@@ -117,3 +118,8 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 [论文中引用网页内容在文中怎么标注？ - 易轻轻q的回答 - 知乎]: https://www.zhihu.com/question/457765989/answer/1869692237
 [本科毕业论文引用、编写英文参考文献格式的方法| CSDN]: https://blog.csdn.net/qq_45128278/article/details/117341629?fromshare=blogdetail&sharetype=blogdetail&sharerId=117341629&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
 [信息与文献 参考文献著录规则 ｜ 中华热门共和国国家标准]: https://journal.ustc.edu.cn/uploadfile/yjsjy/20161108/GB%20T%207714-2015%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99.pdf
+
+
+
+## Ref
+[亲测AIFuzzing与XiaYue逻辑漏洞检测插件的区别：AI赋能的安全检测工具优势解析]: https://mp.weixin.qq.com/s/X26yNJ0owZ8EoC4DwWuP1g
