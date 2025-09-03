@@ -9,8 +9,7 @@
 ↗ [Fuzzing (Concrete Execution)](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/🪆%20Software%20Analysis%20&%20Binary%20Engineering/Vulnerability%20Disclosure%20&%20Discovery%20(Malicious%20Code%20Detection)/Fuzzing%20(Concrete%20Execution)/Fuzzing%20(Concrete%20Execution).md)
 
 
-
-## Fuzzing Technology Trending List
+### Paper Reading List
 AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing
 https://arxiv.org/abs/2409.10737
 https://ui.adsabs.harvard.edu/abs/2023arXiv230712469Z/abstract
@@ -118,6 +117,32 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 [论文中引用网页内容在文中怎么标注？ - 易轻轻q的回答 - 知乎]: https://www.zhihu.com/question/457765989/answer/1869692237
 [本科毕业论文引用、编写英文参考文献格式的方法| CSDN]: https://blog.csdn.net/qq_45128278/article/details/117341629?fromshare=blogdetail&sharetype=blogdetail&sharerId=117341629&sharerefer=PC&sharesource=weixin_43336330&sharefrom=from_link
 [信息与文献 参考文献著录规则 ｜ 中华热门共和国国家标准]: https://journal.ustc.edu.cn/uploadfile/yjsjy/20161108/GB%20T%207714-2015%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99.pdf
+
+
+
+## Intro
+### LLM Based Fuzzers & Techniques
+![](../../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2021.11.11.png)
+<small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
+<a>https://arxiv.org/abs/2402.00350</a></small>
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2016.19.05.png)
+<small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
+<a>https://arxiv.org/abs/2402.00350</a></small>
+
+![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.33.38.png)
+![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
+<small>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). <a>http://www.jos.org.cn/1000-9825/7323.htm</a></small>
+
+
+### LLM-Based Fuzzing Procedure
+![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.42.35.png)
+<small>LLM驱动缺陷检测的一般流程 <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a></small>
+#### LLM-Driven Test Cases Generation
+
+#### LLM-Driven Bug/Vulnerability Discovery
+
+#### LLM-Driven Post-Fuzzing Processing
 
 
 
