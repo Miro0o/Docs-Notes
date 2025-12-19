@@ -2591,12 +2591,10 @@ https://www.gs.cuhk.edu.hk/admissions/admissions/how-to-apply
 how to apply?
 https://www.gs.cuhk.edu.hk/admissions/admissions/documents-required
 Documents Required
-
 - ###### Computer Science and Engineering
 - ###### Information Engineering
 	- [MPhil-PhD in Information Engineering](https://www.ie.cuhk.edu.hk/programmes/mphil-phd-in-information-engineering/)
 - ###### Systems Engineering and Engineering Management
-
 #### 👉 The Hong Kong University of Science and Technology
 
 #### 👉 City University of Hong Kong
