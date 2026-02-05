@@ -6,7 +6,7 @@
 
 ## Res
 ### Related Topics
-↗ [LLM & Security](../../../CyberSecurity/🫧%20AI%20x%20Security/LLM%20&%20Security/LLM%20&%20Security.md)
+↗ [LLM & Security](../../../CyberSecurity/🫧%20AI4Security/LLM%20&%20Security/LLM%20&%20Security.md)
 
 
 ### Paper Reading List
