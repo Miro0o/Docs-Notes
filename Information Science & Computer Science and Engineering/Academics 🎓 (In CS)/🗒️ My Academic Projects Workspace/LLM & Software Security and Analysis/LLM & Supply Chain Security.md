@@ -7,7 +7,7 @@
 ## Res
 ### Related Topics
 ↗ [LLM & Security](../../../CyberSecurity/🫧%20AI4Security/LLM%20&%20Security/LLM%20&%20Security.md)
-↗ [Software Supply Chains Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20InfoSec/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)
+↗ [Software Supply Chains Security](../../../CyberSecurity/🏰%20Cybersecurity%20Basics%20&%20Information%20Security%20(InfoSec)/🍦%20Software%20Security/Software%20Supply%20Chains%20Security/Software%20Supply%20Chains%20Security.md)
 
 
 
