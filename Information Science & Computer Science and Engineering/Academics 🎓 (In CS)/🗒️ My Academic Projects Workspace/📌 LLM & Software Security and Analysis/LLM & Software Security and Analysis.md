@@ -42,6 +42,17 @@
 ↗ [AI4Security](../../../CyberSecurity/🫧%20AI4Security/AI4Security.md)
 - ↗ [LLM For Security](../../../CyberSecurity/🫧%20AI4Security/LLM%20For%20Security/LLM%20For%20Security.md)
 
+↗ [Research Topics in Cybersecurity](../../Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20Cybersecurity.md)
+↗ [Research Topics in LLM](../../Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
+
+↗ [Academic Venues in Computer Science](../../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+- System
+	- ↗ [Sec (Security) Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Sec%20(Security)%20Related%20Conferences%20&%20Journals.md)
+	- ↗ [SE (Software Engineering) Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/System/SE%20(Software%20Engineering)%20Related%20Conferences%20&%20Journals.md)
+	- ↗ [PL (Program Languages)  Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/System/PL%20(Program%20Languages)%20%20Related%20Conferences%20&%20Journals.md)
+- Application
+	- ↗ [Artificial Intelligence Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
+
 
 ### Paper Reading List
 Sheng, Z., Chen, Z., Gu, S., Huang, H., Gu, G., & Huang, J. (2025). _LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights_ (No. arXiv:2502.07049). arXiv. [https://doi.org/10.48550/arXiv.2502.07049](https://doi.org/10.48550/arXiv.2502.07049)
@@ -51,6 +62,33 @@ Zhu, X., Zhou, W., Han, Q.-L., Ma, W., Wen, S., & Xiang, Y. (2025). When Softwar
 
 
 ## Intro
+### Research Questions
+llm arch
+- attn
+
+llm util
+- llm + agents
+	- raph loop
+	- orcastration
+- llm + prompt /context /harness
+	- reasoning
+		- reasoning + act
+	- skills
+
+llm for se
+1. llm for math
+2. llm for pl
+3. llm for program analysis
+	1. llm code reasoning
+4. llm for ctf
+5. llm for vul
+	1. explore
+	2. exploit
+6. llm for end-to-end security delivery
+
+llm for sec (end-to-end)
+1. benchmark
+2. research directions
 
 
 
