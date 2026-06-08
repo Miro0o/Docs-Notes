@@ -1,137 +1,183 @@
 ---
 ai-generated: true
+last-reviewed: 2026-06-07
 ---
 
-# LLMs For Software Security, Program Analysis, Fuzzing, And Cyber Reasoning
+# LLM-Software-Security-Research-Dossier-2026
 
-Date: 2026-06-06
+Date: 2026-06-07
 
-Scope: curated 2024-2026 literature on LLMs in software engineering, program analysis, fuzzing, vulnerability detection, repair, reverse engineering, CTF/pentesting, cyber reasoning systems, and security risks introduced by LLM-based coding and security tools.
+Scope: 2024-2026 research and field signals on LLMs for software engineering, program analysis, fuzzing, vulnerability detection, repair, reverse engineering, CTF/pentesting, cyber reasoning systems, and security risks introduced by LLM-based coding and security tools.
 
-This dossier is written at research/evaluation level. Dual-use papers are included because they shape defensive evaluation, triage, vulnerability validation, and secure orchestration; operational exploit details are intentionally not reproduced.
+This is a research and evaluation dossier. Dual-use work is included because it shapes defensive evaluation, triage, validation, patching, and secure orchestration. Operational exploit instructions are intentionally out of scope.
+
+## Executive Snapshot
+
+The field has moved past "can an LLM find a bug?" The best 2025-2026 systems treat the LLM as a semantic component inside a checked evidence loop: static analysis supplies structure, fuzzers and tests supply concrete oracles, symbolic/concolic tools constrain paths, and the LLM fills hard-to-manualize gaps such as source/sink inference, harness drafting, protocol/spec interpretation, code summarization, and patch intent.
+
+Current thesis: the strongest research direction is not "LLM replaces program analysis", but "LLM proposes semantic hypotheses inside a verified cyber-reasoning loop that produces reproducible evidence, validated patches, and auditable decisions."
+
+Practical boundary as of 2026-06-07: frontier agents are useful in bounded cyber tasks, CTFs, vulnerability discovery, triage, patching, and some exploit-construction settings. Public evidence still does not support treating them as reliable open-world operators against arbitrary hardened targets with active defenders.
 
 ## Dossier Map
 
 - [Academic Status](Academic-Status/Academic-Status.md): peer-reviewed and preprint literature, method patterns, benchmarks, reading plan, and research gaps.
 - [Human Factor](Human-Factor.md): human-AI collaboration, developer/SOC/reverse-engineering studies, country and sector map, and human-centered research questions.
 - [Non-Academic Status](Non-Academic-Status.md): capability boundary, model reports, contests, threat-intelligence signals, policy guidance, and China-focused activity.
-- [BibTeX Bibliography](LLM-Software-Security-Research-Dossier-2026.bib): citation support file moved with this dossier.
-- [Source Literature Sweep](LLM-Software-Security-Literature-Sweep-2026-06-06.md): source sweep merged into this decomposed dossier.
+- [BibTeX Bibliography](LLM-Software-Security-Research-Dossier-2026.bib): citation support file for manuscript work.
+- [Source Literature Sweep](../Assets/archive.md): archived source sweep folded into this decomposed dossier.
 
-## Academic Writing Workflow
+## Status Quo Panel
 
-Use the [Academic Writing Workflow scaffold](<../../_Academic Writing Workflow/README.md>) as a template, but keep the active manuscript workflow inside the local LLM/software-security project directory:
+### Field Dashboard
 
-`Information Science & Computer Science and Engineering/Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis`
+| Layer | Current state | Watch next |
+| --- | --- | --- |
+| Academic methods | Hybrid systems dominate: LLM + CPG/taint/static analysis, LLM + fuzzing, LLM + concolic execution, LLM + sanitizer/test validation. | Whether 2026 systems such as PANGOLIN, SpecAuditor, PILOT, PORTGPT, and agentic concolic execution release reproducible artifacts and survive independent replication. |
+| Evaluation | Stronger benchmarks are moving toward real repositories, dynamic oracles, validated vulnerabilities, CTF ranges, and exploitability ladders. | Benchmark leakage, LLM-as-judge overuse, shallow snippet classification, and whether "agent" claims record executable evidence. |
+| Industry capability | AIxCC, OSS-CRS, Google Big Sleep/CodeMender, HackerOne telemetry, and model-provider system cards show cyber agents entering real defensive workflows. | The split between useful autonomous assistance and invalid-report flood, plus how vendors gate high-cyber capability access. |
+| Threat activity | Provider and threat-intelligence reports show AI used beyond phishing: reconnaissance, malware/tooling support, vulnerability research, lateral movement support, and agentic orchestration. | Whether reported AI-enabled activity becomes independently reproducible and how MITRE/ATT&CK-style taxonomies adapt to agentic behavior. |
+| People and organizations | The center of gravity spans security/SE/PL academia, AI labs, bug-bounty platforms, government evaluators, standards bodies, and CRS teams. | Cross-institution human factors: maintainer handoff, SOC trust calibration, approval fatigue, disclosure, and accountability. |
+| Geography | The U.S. has the densest direct evidence base; China has strong benchmark, contest, model, and security-vendor activity; UK/EU/Australia contribute evaluation and human-factor signals. | Bilingual and region-specific studies of secure coding, SOC workflows, reverse engineering, bug bounty, and governance. |
 
-The project-local workflow should have this structure:
+### System View
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[
+  box/.style={draw, rounded corners=2pt, align=center, minimum width=3.2cm, minimum height=0.85cm},
+  core/.style={box, fill=blue!8},
+  check/.style={box, fill=green!8},
+  risk/.style={box, fill=red!8},
+  actor/.style={box, fill=yellow!12},
+  arr/.style={->, thick}
+]
+\node[core] (llm) at (0,0) {LLM semantic\\engine};
+\node[check] (analysis) at (-4.2,0) {Static, taint, CPG,\\symbolic, concolic};
+\node[check] (dynamic) at (4.2,0) {Fuzzers, tests,\\sanitizers, replay};
+\node[check] (evidence) at (0,-1.7) {Evidence ledger:\\paths, crashes, PoCs, patches};
+\node[actor] (humans) at (0,-3.4) {Humans and institutions:\\developers, SOC, maintainers, bounty, governance};
+\node[risk] (attack) at (0,1.7) {Agent/tool/RAG/supply-chain\\attack surface};
+
+\draw[arr] (analysis) -- (llm);
+\draw[arr] (llm) -- (dynamic);
+\draw[arr] (dynamic) -- (evidence);
+\draw[arr] (analysis) -- (evidence);
+\draw[arr] (evidence) -- (humans);
+\draw[arr] (humans) -- (llm);
+\draw[arr] (attack) -- (llm);
+\draw[arr] (attack) -- (humans);
+\end{tikzpicture}
+\end{document}
+```
+
+### High-Value Research Directions
+
+| Direction | Research question | Evidence anchors |
+| --- | --- | --- |
+| Verified LLM + program analysis | Can LLMs generate specs, summaries, path constraints, source/sink rules, or audit predicates while analyzers prove what was checked? | IRIS, LLMxCPG, LATTE, SpecAuditor, ProtocolGuard, ConcoLLMic, Cottontail. |
+| Vulnerability causality benchmarks | Can benchmarks distinguish vulnerable, patched, unreachable, refactored, and behavior-preserving variants? | SV-TrustEval-C, Flashboom, Trust Me, detector-evasion papers, SecureVibeBench. |
+| Exploitability and triage | Can systems move from candidate bug to reachability, preconditions, mitigation, priority, and safe evidence without unsafe autonomy? | CyberGym, ExploitBench, AIxCC, IRIS-style whole-repo reasoning. |
+| Fuzzing and harness generation | Can LLMs infer valid structure, hidden interfaces, option combinations, and target-specific harnesses while execution remains the oracle? | Fuzz4All, ProphetFuzz, PromeFuzz, HyLLfuzz, PANGOLIN, FirmAgent, BSFuzzer, PILOT. |
+| Patch validation and backporting | Can generated patches be validated for root-cause repair, behavioral preservation, branch drift, and regression coverage? | APPATCH, SAN2PATCH, PORTGPT, PATCHAGENT, CodeMender, OSS-CRS. |
+| Secure cyber-agent orchestration | What permission model, sandbox, evidence ledger, budget control, and audit trail should agents use when running security tools? | AIxCC, OSS-CRS, NIST CAISI, Five Eyes guidance, AgentDoS, MCP/tool-security work. |
+| Human-AI security workflows | How should tools calibrate trust for developers, SOC analysts, reverse engineers, maintainers, and bounty triagers? | Stanford/NYU/UCF secure-coding studies, CSIRO/eSentire SOC work, NDSS human-LLM reverse engineering, UCLA agent-human interaction security. |
+| LLM app and coding-assistant attack surfaces | How should RAG, package suggestions, MCP/tool calls, prompts, telemetry, and generated dependencies be authenticated and constrained? | CodeBreaker, package hallucination studies, LLMSmith, IsolateGPT, WebCloak, SAGA, PHILTER. |
+| U.S.-China and multilingual comparison | How do language, regulation, local models, platforms, contests, and disclosure norms change LLM-assisted security practice? | CS-Eval, LiveSecBench, Tianwang Cup large-model track, Alibaba AI Security Challenge, U.S. user/SOC studies. |
+
+### Important People, Groups, And Institutions To Track
+
+| Cluster                          | People / groups                                                                                                                                                    | Why they matter                                                                                                                           |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Cyber reasoning systems          | Team Atlanta / Taesoo Kim; Trail of Bits; Theori; Shellphish; 42-beyond-bug; all_you_need_is_a_fuzzing_brain; Lacrosse.                                            | AIxCC made CRS architectures the clearest public end-to-end signal for autonomous bug finding, patching, reporting, and evidence handoff. |
+| Program analysis + LLM           | Mayur Naik, Ziyang Li, Saikat Dutta; QCRI/NJIT/MBZUAI LLMxCPG authors; SpecAuditor and concolic-execution teams.                                                   | They define the "LLM proposes, analyzer verifies" line that looks strongest academically.                                                 |
+| Fuzzing + dynamic analysis       | Fuzz4All/FuzzGPT lines; Tsinghua/INSC and Information Engineering University PANGOLIN team; NDSS FirmAgent, BSFuzzer, ProtocolGuard, IoTBec, LogicFuzz teams.      | Fuzzing gives the field executable oracles, not just model labels.                                                                        |
+| Repair and patch validation      | APPATCH, SAN2PATCH, PORTGPT, PATCHAGENT, DISPATCH, PatchScope teams; Google DeepMind CodeMender.                                                                   | Patch generation is easy to fake and hard to validate; this cluster attacks the real bottleneck.                                          |
+| Reverse engineering and binaries | Adam Doupe, Yan Shoshitaishvili, Ruoyu Wang, Tiffany Bao; Brendan Dolan-Gavitt; EURECOM and University of Padua collaborators.                                     | Reverse engineering is a strong test of explanation, hallucination, analyst trust, and binary-grounded reasoning.                         |
+| Human factors                    | Stanford secure-coding line; NYU `Lost at C`; UCF SEAL; CSIRO Data61 and eSentire SOC studies; UCLA security/HCI; IT University of Copenhagen red-teaming work.    | The field needs evidence about people using these systems, not only benchmark scores.                                                     |
+| AI labs and security units       | OpenAI Preparedness/Codex/Security; Anthropic Frontier Red Team and Project Glasswing; Google DeepMind, Project Zero, and GTIG; Microsoft Security Copilot/GitHub. | These groups reveal capability, access policy, threat telemetry, and productization before papers stabilize.                              |
+| Evaluators and governance        | UK AISI, METR, NIST CAISI, DARPA/ARPA-H, OpenSSF, OWASP, Cloud Security Alliance, MITRE.                                                                           | They shape evaluation methodology, agent-security standards, disclosure norms, and enterprise adoption.                                   |
+| China ecosystem                  | Tsinghua INSC, Fudan SSS/Whitzard-AI, SJTU LLMSE, UCAS/CAS security groups, Alibaba Security, CAICT, Tencent, Qi An Xin, 360, XCTF.                                | China has strong model, benchmark, contest, and vendor signals; public human-subject evidence is still a gap worth tracking.              |
+
+## Search Taxonomy
+
+- LLM architecture and attention: long context, code attention, MoE/security behavior, and code reasoning failure modes.
+- LLM utilization: agents, loop design, orchestration, prompts, context, harness engineering, tool use, and reasoning/action traces.
+- LLM for SE: code generation, issue repair, repository-level coding agents, secure code generation, and dependency selection.
+- LLM for PL/program analysis: static analysis, taint analysis, symbolic/concolic execution, formal verification, fuzzing, decompilation, CPGs.
+- LLM for CTF/pentesting: CTF benchmarks, autonomous pentesting systems, cyber ranges, exploit-agent ladders.
+- LLM for vulnerabilities: detection, localization, reachability, exploitability, PoC generation, patching, backporting, validation.
+- Security of LLM-integrated tools: prompt injection, tool injection, package hallucination, RAG/data poisoning, agent permissions, telemetry manipulation.
+
+## Reading Priority
+
+1. Reality checks and benchmarks: SWE-bench, SWE-agent, CyberSecEval, Cybench, NYU CTF Bench, SV-TrustEval-C, SecureVibeBench, CyberGym, ExploitBench.
+2. Hybrid analysis methods: IRIS, LLMxCPG, LATTE, Artemis, SpecAuditor, ProtocolGuard, ConcoLLMic, Cottontail.
+3. Fuzzing and execution feedback: Fuzz4All, ProphetFuzz, PromeFuzz, HyLLfuzz, deepSURF, FirmAgent, PANGOLIN, BSFuzzer, PILOT.
+4. Repair and delivery: ZeroShotRepair, APPATCH, SAN2PATCH, PORTGPT, PATCHAGENT, Mystique, AIxCC/OSS-CRS systems.
+5. Agent and tool security: CodeBreaker, package hallucination studies, LLMSmith, IsolateGPT, AgentDoS, ACE/SAGA, MCP and RAG security papers.
+6. Human workflows: secure-coding user studies, SOC studies, reverse-engineering studies, AI red-team labor, agent approval and oversight studies.
+
+## Automation Proposal For Keeping The Directory Current
+
+This is a proposed next-round implementation, not executed in this cleanup.
+
+Build a small local tracker under `Assets/status_tracker/` with four layers:
+
+| Layer | Files | Role |
+| --- | --- | --- |
+| Source registry | `sources.yml`, `queries.yml`, `actors.yml` | Whitelisted venue pages, arXiv queries, DBLP/OpenAlex/Crossref endpoints, RSS feeds, model-provider blogs, government evaluators, Chinese-language query sets, people/group pages. |
+| Collectors | `collect_arxiv.py`, `collect_venues.py`, `collect_industry.py`, `collect_people.py` | Fetch metadata and page diffs. Prefer primary sources; label secondary sources as watch-only. |
+| Normalization | `normalize.py`, `score_signals.py`, `dedupe.py` | Convert records to JSONL, deduplicate by DOI/arXiv/title, assign confidence labels, classify area, detect new people/groups, and rank importance. |
+| Rendering | `render_panel.py`, `render_bib.py`, `render_digest.py` | Update the status panel, add candidate BibTeX entries, generate weekly/monthly digests, and optionally render a TikZ/SVG overview. |
+
+Suggested outputs:
+
+- `Assets/status_tracker/data/papers.jsonl`
+- `Assets/status_tracker/data/signals.jsonl`
+- `Assets/status_tracker/data/actors.jsonl`
+- `Assets/status_tracker/snapshots/status-YYYY-MM-DD.md`
+- `Assets/status_tracker/generated/status-panel.md`
+- `Assets/status_tracker/generated/watchlist-digest.md`
+
+Update cadence:
+
+- Daily light run: arXiv, RSS feeds, official blogs, AIxCC/OpenSSF/NIST/AISI/METR/HackerOne/Bugcrowd/provider updates.
+- Weekly synthesis: venue pages, DBLP/OpenAlex/Crossref, new benchmark repos, GitHub releases, selected Chinese-language sources.
+- Monthly deep sweep: manual review of important people/groups, country map, source-confidence labels, and bibliography cleanup.
+
+Safety and quality rules:
+
+- Never silently overwrite prose. Generate a candidate diff between markers such as `<!-- status-panel:start -->` and `<!-- status-panel:end -->`.
+- Prefer official venue, paper, lab, government, provider, and platform sources. Use news/aggregators only as discovery leads.
+- Store `source_url`, `checked_at`, `published_at`, `source_type`, `confidence`, `area`, `region`, and `why_it_matters` for every record.
+- Keep dual-use summaries at research/evaluation level. Do not reproduce exploit steps, payloads, or operational instructions.
+- Use an LLM only after structured collection and deduplication. Its job should be clustering, concise summarization, and proposed edits, not fact creation.
+- Commit generated snapshots separately from hand-written synthesis so trends are auditable over time.
+
+## Writing Workflow
+
+Use the [Academic Writing Workflow scaffold](<../../_Academic Writing Workflow/README.md>) as the template, but keep active manuscript work inside the local LLM/software-security project directory.
+
+Recommended local layout:
 
 - `Writing/`: manuscript drafts.
-- `References/library.bib`: project bibliography source of truth.
+- `References/library.bib`: bibliography source of truth, initialized from [LLM-Software-Security-Research-Dossier-2026.bib](LLM-Software-Security-Research-Dossier-2026.bib).
 - `References/Paper Notes/`: one literature note per source.
-- `References/PDFs/`: paper PDFs linked from literature notes.
-- `Exports/`: generated PDF/DOCX exports.
-- `CSL/`: citation styles such as `ieee.csl` and `apa.csl`.
-- `Templates/`: copied manuscript and literature-note templates.
+- `References/PDFs/`: PDFs linked from literature notes.
+- `CSL/`, `Templates/`, `Exports/`: citation styles, writing templates, and generated outputs.
 
-Initial setup from the project directory:
+Manuscript frontmatter should point from `Writing/` to `../References/library.bib` and the chosen CSL file. Use Pandoc citation syntax such as `[@Lekssays2025LLMxCPG; @Li2024IRIS]`.
 
-```sh
-cd "Information Science & Computer Science and Engineering/Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis"
+## Current Source Anchors
 
-mkdir -p "Writing" "References/Paper Notes" "References/PDFs" "Exports" "CSL" "Templates"
+Detailed source logs live in the linked academic, human-factor, and non-academic files. Current high-signal anchors checked for this top-level panel include:
 
-cp "../_Academic Writing Workflow/Templates/manuscript.md" "Templates/manuscript.md"
-cp "../_Academic Writing Workflow/Templates/literature-note.md" "Templates/literature-note.md"
-cp "../_Academic Writing Workflow/CSL/ieee.csl" "CSL/ieee.csl"
-cp "../_Academic Writing Workflow/CSL/apa.csl" "CSL/apa.csl"
-
-cp "LLM-Software-Security-Research-Dossier-2026/LLM-Software-Security-Research-Dossier-2026.bib" "References/library.bib"
-cp "Templates/manuscript.md" "Writing/llm-software-security-manuscript.md"
-```
-
-Project manuscript frontmatter should stay relative to `Writing/`:
-
-```yaml
----
-title: LLMs for Software Security and Analysis
-author:
-bibliography: ../References/library.bib
-csl: ../CSL/ieee.csl
-link-citations: true
----
-```
-
-Use Pandoc citation syntax in the manuscript:
-
-```md
-LLMs are more reliable inside verified analysis loops than as standalone vulnerability oracles [@Lekssays2025LLMxCPG; @Li2024IRIS].
-```
-
-Export from `Writing/`:
-
-```sh
-cd "Information Science & Computer Science and Engineering/Academics 🎓 (In CS)/🗒️ My Academic Projects Workspace/📌 LLM & Software Security and Analysis/Writing"
-pandoc llm-software-security-manuscript.md --citeproc -o ../Exports/llm-software-security-manuscript.pdf
-```
-
-Terminal export follows the local manuscript frontmatter. If exporting or completing citations from Obsidian plugin commands, repoint the plugin settings from `_Academic Writing Workflow/...` to this project-local `References/library.bib`, `CSL/ieee.csl`, `References/Paper Notes`, and `Exports`.
-
-## Executive Summary
-
-The field has moved past the simple question "can an LLM find a bug?" The strongest 2025-2026 work treats an LLM as a semantic component inside a larger evidence-producing system: static analysis supplies structure, fuzzers and test suites supply concrete oracles, taint/symbolic/concolic engines constrain reasoning, and the LLM fills gaps that used to require expert-written specifications or hand-built harnesses.
-
-The dominant trend is hybridization. LLMxCPG, IRIS, LATTE, FirmAgent, PANGOLIN, BSFuzzer, ProtocolGuard, ConcoLLMic, Cottontail, PILOT, APPATCH, SAN2PATCH, PORTGPT, ATLANTIS, and FuzzingBrain all point in the same direction: LLMs are useful for semantic hypothesis generation, context summarization, source/sink inference, harness/input synthesis, path explanation, and patch drafting. They are much less reliable as standalone vulnerability oracles.
-
-The main open problems are evaluation trustworthiness, whole-repository context management, exploitability and reachability triage, patch validation, secure agent orchestration, and robustness against adversarial code transformations, prompt/tool injection, package hallucination, and data/RAG poisoning. Mature evidence increasingly comes from top security and SE venues, while the most speculative frontier is AIxCC-style end-to-end cyber reasoning systems and agentic offensive-security benchmarks. Non-academic signals now matter too: government evaluations, model-provider system cards, bug-bounty telemetry, CTF results, and Chinese-language safety benchmarks often reveal frontier capability shifts months before papers appear.
-
-As of 2026-06-06, the practical capability boundary is: frontier AI has crossed the threshold for useful autonomous cyber reasoning in bounded environments, including CTFs, vulnerability discovery, triage, patching, and some exploit construction, but it is not yet a reliable open-world operator against arbitrary hardened targets with active defenders.
-
-## Updated One-Sentence Thesis
-
-The most promising research direction is not "LLM replaces program analysis", but "LLM supplies hard-to-manualize semantic hypotheses inside a verified cyber reasoning loop that produces reproducible evidence, validated patches, and auditable decisions."
-
-## Search Taxonomy From The Local Note
-
-- LLM architecture and attention: especially attention behavior that affects vulnerability auditing, long context, code attention, and MoE/security behavior.
-- LLM utilization: agents, loop design, orchestration, prompt/context/harness engineering, reasoning and acting, skills/tool use.
-- LLM for SE: code generation, issue repair, repository-level coding agents, secure code generation.
-- LLM for PL/program analysis: static analysis, taint analysis, symbolic execution, fuzzing, decompilation, code property graphs.
-- LLM for CTF/pentesting: CTF benchmarks, autonomous pentesting systems, cyber skill benchmarks.
-- LLM for vulnerabilities: detection, localization, triage, exploration, exploitability reasoning, PoC generation, patching.
-- End-to-end security delivery: agentic cyber reasoning systems, AIxCC-style pipelines, SOC/vulnerability management, secure deployment of LLM-integrated apps.
+- Academic venues: [USENIX Security 2026 Cycle 1 accepted papers](https://www.usenix.org/conference/usenixsecurity26/cycle1-accepted-papers), [IEEE S&P 2026 accepted papers](https://www.ieee-security.org/TC/SP2026/accepted-papers.html), [USENIX Security 2025 LLMxCPG](https://www.usenix.org/conference/usenixsecurity25/presentation/lekssays), [IRIS arXiv](https://arxiv.org/abs/2405.17238).
+- CRS and open-source infrastructure: [DARPA AIxCC final results](https://www.darpa.mil/news/2025/aixcc-results), [OpenSSF OSS-CRS](https://openssf.org/projects/oss-crs/), [OSS-CRS arXiv](https://arxiv.org/abs/2603.08566).
+- Capability and governance: [UK AISI GPT-5.5 cyber evaluation](https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities), [UK AISI cyber time horizons](https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing), [METR Frontier Risk Report](https://metr.org/blog/2026-05-19-frontier-risk-report/), [NIST CAISI AI-agent RFI](https://www.nist.gov/news-events/news/2026/01/caisi-issues-request-information-about-securing-ai-agent-systems).
+- Industry and threat intelligence: [OpenAI GPT-5.3-Codex System Card](https://openai.com/index/gpt-5-3-codex-system-card/), [OpenAI Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age/), [OpenAI Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework/), [Anthropic AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack), [Google Cybersecurity Forecast 2026](https://cloud.google.com/blog/topics/threat-intelligence/cybersecurity-forecast-2026/), [Google DeepMind CodeMender](https://deepmind.google/en/blog/introducing-codemender-an-ai-agent-for-code-security/), [Google Project Zero Big Sleep](https://projectzero.google/2024/10/from-naptime-to-big-sleep.html), [HackerOne AI vulnerability report](https://www.hackerone.com/press-release/hackerone-report-finds-210-spike-ai-vulnerability-reports-amid-rise-ai-autonomy).
 
 ## Merge Note
 
-The 2026-06-06 literature sweep has been folded into this dossier. The academic file keeps the sweep's current-development synthesis, research gaps, benchmark table, method-pattern taxonomy, saturated-topic list, candidate-topic table, and updated reading priority. The original dossier's broader human-factors and non-academic signal sections are preserved in separate files.
-
-## Source Log
-
-Venue pages and official sources checked:
-
-- USENIX Security 2024 presentation/session pages for PentestGPT, vulnerability management, code analysis, and CodeBreaker.
-- USENIX Security 2025 paper pages for LLMxCPG, APPATCH, SAN2PATCH, package hallucinations, and HyLLfuzz.
-- USENIX Security 2026 Cycle 1 accepted papers for PANGOLIN, AgentDoS, NOIR, and PHILTER.
-- IEEE S&P 2024 accepted papers for zero-shot vulnerability repair and LLMIF.
-- IEEE S&P 2025 accepted papers and linked PDFs/arXiv for Flashboom, SV-TrustEval-C, and cybersecurity-expert evaluation.
-- IEEE S&P 2026 accepted papers for PORTGPT, Agentic Concolic Execution, PILOT, SpecAuditor, DNS LLM-guided analysis, agent permissions, WebCloak, and SOC study.
-- NDSS 2024/2025/2026 paper and program pages for protocol fuzzing, DeGPT, IsolateGPT, Raconteur, From Large to Mammoth, FirmAgent, BSFuzzer, ProtocolGuard, IoTBec, LogicFuzz, Trust Me, FidelityGPT, human-LLM software reverse engineering, LLM-resistant reverse-engineering protections, and LLM-based decompilation work.
-- ACM CCS 2024/2025 program/DBLP/arXiv pages for PromSec, ProphetFuzz, LiftFuzz, Prompt Fuzzing, LLMSmith, ReSym, PLeak, CodeGuarder, CTFKnow/CTFAgent, PromeFuzz, and JsDeObsBench.
-- ICSE/ISSTA/ICLR/NeurIPS official or DOI pages for Fuzz4All, FuzzGPT, fuzz-driver evaluation, CoSec, SWE-bench, and SWE-agent.
-- arXiv pages for CyberSecEval 2/3, Cybench, NYU CTF Bench, IRIS, SafeGenBench, SeCodePLT, SecureVibeBench, CKG-LLM, web PoC study, FuzzingBrain, ATLANTIS, OSS-CRS, AIxCC SoK, GONDAR, detector evasion, secure-code-generation robustness, ExploitBench, and CyberGym.
-- Human-factors and socio-technical sources: Stanford and NYU secure-coding user studies; UCF SEAL and Paderborn developer-training/secure-prompting studies; CSIRO Data61 and eSentire live-SOC studies; USC ISI / USF / KU / Resideo practitioner-centered SOC work; EURECOM / ASU / Padua human-LLM software reverse-engineering work; UCLA agent-human interaction security; HAT-Lab agent-mediated deception; CHI 2026 dark-pattern GUI-agent oversight; PLOS ONE / IBM / CSCW AI red-teaming studies; IRT SystemX / Airbus Protect / RTE SOC human-AI collaboration; and official/group pages for UK AISI, LASR, PEASEC, MLSEC, CISPA, moosec, KASTEL, RESIST, Cybercampus Sverige, NTU, Data61, HASP Lab, and related national AI/cyber labs.
-- Non-academic model/report/activity sources: UK AISI GPT-5.5 and cyber time-horizon reports; METR frontier-risk/time-horizon report; Anthropic Project Glasswing, Claude Mythos Preview red-team writeup, cyber competition writeup, and GTG-1002 threat-intelligence report; OpenAI GPT-5.5 Trusted Access for Cyber, GPT-5.5-Cyber, Daybreak, Codex Security, and malicious-use disruption reports; Google Project Zero Big Sleep, Google DeepMind CodeMender, Google AI VRP/SAIF 2.0, and GTIG AI Threat Tracker reports; ExploitBench and Bugcrowd commentary; HackerOne 2025 AI vulnerability report; DARPA AIxCC final results; OpenSSF OSS-CRS transition and CRS development materials; Palisade CTF elicitation and AI-agent experiment posts; Hack The Box MCP and AI red-teaming CTF materials; MITRE ATT&CK C0062; NIST CAISI AI-agent RFI; Five Eyes careful-adoption guidance for agentic AI.
-- Chinese-language benchmark and contest sources: CS-Eval/CyberSec-Eval GitHub and platform pages; LiveSecBench; Tsinghua report on 2025 天网杯大模型赛道; Alibaba Cloud 2025 "AI安全" 全球挑战赛 and public contest result reports; 中国互联网协会 AI领航杯 "AI+安全" track; 金灵光杯 generative-AI security track; XCTF CVE-range platform; aggregator traces for CySecEval-53K pending primary-source verification.
-
-Search query families used:
-
-- `LLM vulnerability detection`, `LLM software security`, `LLM code auditor evasion`, `LLM vulnerability repair`, `LLM patch validation`, `LLM program analysis`, `LLM static analysis`, `LLM taint analysis`, `LLM concolic execution`, `LLM fuzzing`, `LLM fuzz harness generation`, `LLM protocol fuzzing`, `LLM IoT firmware fuzzing`, `LLM CTF benchmark`, `LLM pentesting`, `cyber reasoning system`, `AIxCC`, `LLM supply chain security`, `package hallucination`, `RAG code generation security`, and per-venue accepted-paper searches.
-- Additional non-paper query families: `GPT-5.5 cyber evaluation`, `Claude Mythos Preview cybersecurity`, `Project Glasswing`, `AISI cyber time horizon`, `METR frontier risk cyber`, `OpenAI Daybreak`, `Codex Security`, `Google CodeMender`, `Big Sleep vulnerability`, `GTIG AI Threat Tracker`, `ExploitBench`, `HackerOne autonomous Hackbots`, `XBOW HackerOne leaderboard`, `AIxCC results`, `OSS-CRS OpenSSF`, `Hack The Box MCP CTF`, `AI-orchestrated cyber espionage`, `Gemini threat actor misuse`, `agentic AI guidance`, `大模型 网络安全 能力评测`, `网络安全大模型 榜单`, `大模型赛道 天网杯`, `AI安全 全球挑战赛`, `金灵光杯 人工智能安全`, `安全大模型 评测报告`, `大模型 攻防赛`, `AI生成漏洞 靶场`.
-- Human-factors query families: `human factors LLM cybersecurity`, `human-AI collaboration cybersecurity`, `LLMs in the SOC`, `LLM SOC analyst study`, `LLM-assisted secure coding user study`, `secure prompting developer study`, `human-LLM reverse engineering`, `LLM agent security human approval`, `agent-mediated deception LLM`, `dark patterns GUI agents human oversight`, `LLM red teaming socio-technical`, `AI red teaming human factor`, `usable security LLM software security`, `human-centered cybersecurity LLM`, plus country-specific variants for the U.S., Canada, UK, Australia, France, Germany, Italy, Denmark, Sweden, Spain, China, Singapore, Japan, South Korea, India, Israel, UAE/Gulf, and New Zealand.
-
-Local notes cross-checked:
-
-- `Information Science & Computer Science and Engineering/Academics .../LLM & Software Security and Analysis.md`
-- `Information Science & Computer Science and Engineering/Academics .../LLM & Fuzzing.md`
-- `Information Science & Computer Science and Engineering/Academics .../LLM & Supply Chain Security.md`
-- `Information Science & Computer Science and Engineering/Academics .../LLM-Software-Security-Literature-Sweep-2026-06-06.md`
+The 2026-06-06 literature sweep has been folded into this decomposed dossier. The main file is now the concise control panel; the academic, human-factor, non-academic, bibliography, and archive files are the evidence shelves.

@@ -56,6 +56,7 @@ AI has crossed the threshold for useful autonomous cyber reasoning in bounded en
 
 This section tracks reports, contests, and operational evidence that should be read alongside the academic literature. These sources are usually less controlled than peer-reviewed papers, but they are useful because the capability frontier is moving through restricted model previews, bug-bounty platforms, government evaluations, and competition infrastructure before it stabilizes into papers.
 
+
 ### U.S. / International Model-Capability Reports
 
 | Signal                                                       | Region / actor                                     | What it measures                                                                                                        | Models / activity                                                                                                                        | Research value                                                                                                                                                                                                             | Source                                                                                                                                                                                                                                                         |

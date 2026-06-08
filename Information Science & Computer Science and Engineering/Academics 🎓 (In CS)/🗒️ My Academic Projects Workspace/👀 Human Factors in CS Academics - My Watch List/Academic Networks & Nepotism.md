@@ -6,9 +6,9 @@
 
 ## Res
 ### Related Topics
-↗ [Institutes & Organizations in IT](../../🗺%20CS%20Overview/Institutes%20&%20Organizations%20in%20IT.md)
+↗ [Institutes & Organizations in IT](../../../🗺%20CS%20Overview/Institutes%20&%20Organizations%20in%20IT.md)
 
-↗ [Electronics & Information Technologies Business Fields Research](../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
+↗ [Electronics & Information Technologies Business Fields Research](../../../🗺%20CS%20Overview/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research/Electronics%20&%20Information%20Technologies%20Business%20Fields%20Research.md)
 
 
 ### Other Resources

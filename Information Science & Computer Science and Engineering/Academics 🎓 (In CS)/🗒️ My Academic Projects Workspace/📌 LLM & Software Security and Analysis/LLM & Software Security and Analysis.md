@@ -45,13 +45,13 @@
 ↗ [Research Topics in Cybersecurity](../../Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20Cybersecurity.md)
 ↗ [Research Topics in LLM](../../Academic%20Research%20Directions%20in%20CS/Research%20Topics%20in%20LLM.md)
 
-↗ [Academic Venues in Computer Science](../../🎻%20Academic%20Venues%20in%20Computer%20Science/Academic%20Venues%20in%20Computer%20Science.md)
+↗ [CS Academic Venues & Human Factors by Areas](../../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas.md)
 - System
-	- ↗ [Sec (Security) Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/System/Sec%20(Security)%20Related%20Conferences%20&%20Journals.md)
-	- ↗ [SE (Software Engineering) Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/System/SE%20(Software%20Engineering)%20Related%20Conferences%20&%20Journals.md)
-	- ↗ [PL (Program Languages)  Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/System/PL%20(Program%20Languages)%20%20Related%20Conferences%20&%20Journals.md)
+	- ↗ [Sec (Security) Related Venues and People](../../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
+	- ↗ [SE (Software Engineering) Related Venues and People](../../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/SE%20(Software%20Engineering)%20Related%20Venues%20and%20People.md)
+	- ↗ [PL (Program Languages) Related Venues and People](../../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/System/PL%20(Program%20Languages)%20Related%20Venues%20and%20People.md)
 - Application
-	- ↗ [Artificial Intelligence Related Conferences & Journals](../../🎻%20Academic%20Venues%20in%20Computer%20Science/Application/Artificial%20Intelligence%20Related%20Conferences%20&%20Journals.md)
+	- ↗ [Artificial Intelligence Related Venues and People](../../🧞‍♂️%20CS%20Academic%20Venues%20&%20Human%20Factors%20by%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
 
 
 ### Paper Reading List
@@ -66,9 +66,18 @@ Zhu, X., Zhou, W., Han, Q.-L., Ma, W., Wen, S., & Xiang, Y. (2025). When Softwar
 llm arch
 - attn
 
+llm training
+- pre-train
+- post-train
+	- sft
+	- rl
+
+llm infra & deploy
+
 llm util
 - llm + agents
 	- raph loop
+	- tool calling
 	- orcastration
 - llm + prompt /context /harness
 	- reasoning
