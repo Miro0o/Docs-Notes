@@ -19,26 +19,29 @@ Current thesis: the strongest research direction is not "LLM replaces program an
 
 Practical boundary as of 2026-06-07: frontier agents are useful in bounded cyber tasks, CTFs, vulnerability discovery, triage, patching, and some exploit-construction settings. Public evidence still does not support treating them as reliable open-world operators against arbitrary hardened targets with active defenders.
 
-## Dossier Map
 
+
+## Dossier Map
 - [Academic Status](Academic-Status/Academic-Status.md): peer-reviewed and preprint literature, method patterns, benchmarks, reading plan, and research gaps.
 - [Human Factor](Human-Factor.md): human-AI collaboration, developer/SOC/reverse-engineering studies, country and sector map, and human-centered research questions.
 - [Non-Academic Status](Non-Academic-Status.md): capability boundary, model reports, contests, threat-intelligence signals, policy guidance, and China-focused activity.
 - [BibTeX Bibliography](LLM-Software-Security-Research-Dossier-2026.bib): citation support file for manuscript work.
 - [Source Literature Sweep](../Assets/archive.md): archived source sweep folded into this decomposed dossier.
 
+
+
 ## Status Quo Panel
 
 ### Field Dashboard
 
-| Layer | Current state | Watch next |
-| --- | --- | --- |
-| Academic methods | Hybrid systems dominate: LLM + CPG/taint/static analysis, LLM + fuzzing, LLM + concolic execution, LLM + sanitizer/test validation. | Whether 2026 systems such as PANGOLIN, SpecAuditor, PILOT, PORTGPT, and agentic concolic execution release reproducible artifacts and survive independent replication. |
-| Evaluation | Stronger benchmarks are moving toward real repositories, dynamic oracles, validated vulnerabilities, CTF ranges, and exploitability ladders. | Benchmark leakage, LLM-as-judge overuse, shallow snippet classification, and whether "agent" claims record executable evidence. |
-| Industry capability | AIxCC, OSS-CRS, Google Big Sleep/CodeMender, HackerOne telemetry, and model-provider system cards show cyber agents entering real defensive workflows. | The split between useful autonomous assistance and invalid-report flood, plus how vendors gate high-cyber capability access. |
-| Threat activity | Provider and threat-intelligence reports show AI used beyond phishing: reconnaissance, malware/tooling support, vulnerability research, lateral movement support, and agentic orchestration. | Whether reported AI-enabled activity becomes independently reproducible and how MITRE/ATT&CK-style taxonomies adapt to agentic behavior. |
-| People and organizations | The center of gravity spans security/SE/PL academia, AI labs, bug-bounty platforms, government evaluators, standards bodies, and CRS teams. | Cross-institution human factors: maintainer handoff, SOC trust calibration, approval fatigue, disclosure, and accountability. |
-| Geography | The U.S. has the densest direct evidence base; China has strong benchmark, contest, model, and security-vendor activity; UK/EU/Australia contribute evaluation and human-factor signals. | Bilingual and region-specific studies of secure coding, SOC workflows, reverse engineering, bug bounty, and governance. |
+| Layer                    | Current state                                                                                                                                                                                | Watch next                                                                                                                                                             |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Academic methods         | Hybrid systems dominate: LLM + CPG/taint/static analysis, LLM + fuzzing, LLM + concolic execution, LLM + sanitizer/test validation.                                                          | Whether 2026 systems such as PANGOLIN, SpecAuditor, PILOT, PORTGPT, and agentic concolic execution release reproducible artifacts and survive independent replication. |
+| Evaluation               | Stronger benchmarks are moving toward real repositories, dynamic oracles, validated vulnerabilities, CTF ranges, and exploitability ladders.                                                 | Benchmark leakage, LLM-as-judge overuse, shallow snippet classification, and whether "agent" claims record executable evidence.                                        |
+| Industry capability      | AIxCC, OSS-CRS, Google Big Sleep/CodeMender, HackerOne telemetry, and model-provider system cards show cyber agents entering real defensive workflows.                                       | The split between useful autonomous assistance and invalid-report flood, plus how vendors gate high-cyber capability access.                                           |
+| Threat activity          | Provider and threat-intelligence reports show AI used beyond phishing: reconnaissance, malware/tooling support, vulnerability research, lateral movement support, and agentic orchestration. | Whether reported AI-enabled activity becomes independently reproducible and how MITRE/ATT&CK-style taxonomies adapt to agentic behavior.                               |
+| People and organizations | The center of gravity spans security/SE/PL academia, AI labs, bug-bounty platforms, government evaluators, standards bodies, and CRS teams.                                                  | Cross-institution human factors: maintainer handoff, SOC trust calibration, approval fatigue, disclosure, and accountability.                                          |
+| Geography                | The U.S. has the densest direct evidence base; China has strong benchmark, contest, model, and security-vendor activity; UK/EU/Australia contribute evaluation and human-factor signals.     | Bilingual and region-specific studies of secure coding, SOC workflows, reverse engineering, bug bounty, and governance.                                                |
 
 ### System View
 

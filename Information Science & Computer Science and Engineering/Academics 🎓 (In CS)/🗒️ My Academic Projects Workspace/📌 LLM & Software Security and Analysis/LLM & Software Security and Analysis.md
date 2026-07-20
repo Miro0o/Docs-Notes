@@ -48,7 +48,7 @@
 	- ↗ [SE (Software Engineering) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/SE%20(Software%20Engineering)%20Related%20Venues%20and%20People.md)
 	- ↗ [PL (Program Languages) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/PL%20(Program%20Languages)%20Related%20Venues%20and%20People.md)
 - Application
-	- ↗ [Artificial Intelligence Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
+	- ↗ [Artificial Intelligence Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
 
 
 ### Paper Reading List
