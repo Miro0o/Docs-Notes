@@ -1,0 +1,12 @@
+{
+  "status": "pass",
+  "errors": 0,
+  "formal_records": 50747,
+  "screened_formal_records": 1038,
+  "frontier_2026_query_candidates": 5558,
+  "frontier_2026_screened_includes": 2556,
+  "frontier_records": 2574,
+  "mapping_rows": 4238,
+  "manifest_rows": 66,
+  "local_links_checked": 476
+}
