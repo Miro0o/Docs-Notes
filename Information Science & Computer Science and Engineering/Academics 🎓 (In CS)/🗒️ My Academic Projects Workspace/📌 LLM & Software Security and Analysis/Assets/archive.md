@@ -1,4 +1,12 @@
+---
+archived: true
+last-reviewed: 2026-07-30
+---
+
 # LLM + Software Security and Analysis Literature Sweep
+
+> [!warning] Archived source sweep
+> This June 2026 snapshot is retained for provenance and is not the current classification. Use the maintained [software-security dossier](../LLM-Software-Security-Research-Dossier-2026/LLM-Software-Security-Research-Dossier-2026.md) and [general software dossier](../LLM-Software-Research-Dossier-2026/LLM-Software-Research-Dossier-2026.md). Generic software-engineering papers were moved to the latter; fuzzing is classified beneath security program analysis in the former.
 
 Date: 2026-06-06
 

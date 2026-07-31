@@ -1,153 +1,152 @@
 ---
 ai-generated: true
+last-reviewed: 2026-07-30
 ---
 
-# Academic Status: LLMs For Software Security, Program Analysis, Fuzzing, And Cyber Reasoning
+# Academic Status: LLMs And Software Security
 
-Date: 2026-06-06
+Date: 2026-07-30
 
-Home: [LLM-Software-Security-Research-Dossier-2026.md](../LLM-Software-Security-Research-Dossier-2026.md)
+Home: [LLM Software Security Research Dossier](../LLM-Software-Security-Research-Dossier-2026.md)
 
-This is the compact research-status hub for the dossier. Detailed paper lists live in the area files below; this file keeps the scope, current field analysis, research directions, evaluation anchors, reading order, and source log.
+This hub covers work in which an LLM is used to produce or evaluate an explicit software-security outcome, plus work that studies the security of LLM-integrated software. General LLM-for-code and program-understanding research is maintained in the sibling [LLM-Software-Research-Dossier-2026](../../LLM-Software-Research-Dossier-2026/LLM-Software-Research-Dossier-2026.md); non-security PL/SE/systems work for engineering LLM applications and agents is maintained in [Software for LLM Agent Systems Research Dossier](../../Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md).
 
-## Scope And Labels
+## Scope And Primary-Home Rule
 
-Included work is from 2024-present, checked on 2026-06-06. It must directly touch at least one of: LLMs for code/software engineering, program analysis, fuzzing, vulnerability detection/localization/triage/repair, reverse engineering, CTF/pentesting/cyber agents, cyber reasoning systems, or security of LLM-based coding/security tools.
+Included work must satisfy at least one of these tests:
 
-Venue/source scope:
+- the primary outcome is a vulnerability, exploitability/reachability judgment, security patch, security rule, security policy, malware finding, or verified defensive action;
+- a fuzzing, program-analysis, reverse-engineering, firmware, kernel, or OS method is evaluated with a security oracle such as a confirmed vulnerability, CVE/CWE, exploitability result, malware judgment, protection result, or enforced hardening property;
+- the paper studies a security or privacy property of code generation, an LLM application, RAG, an agent, MCP/tooling, or its execution runtime.
 
-- Security: IEEE S&P, USENIX Security, ACM CCS, NDSS.
-- SE: ICSE, ESEC/FSE and FSE/PACMSE, ASE, ISSTA.
-- PL: POPL, PLDI, OOPSLA, ICFP, primarily through PACMPL and relevant DBLP venue pages.
-- AI: NeurIPS, ICML, ICLR, AAAI.
-- Frontier preprints: targeted arXiv sweep across `cs.CR`, `cs.SE`, `cs.PL`, `cs.AI`, `cs.LG`, and `cs.CL`.
+Excluded from this dossier: generic code generation, general repository agents, ordinary bug repair, correctness-only testing, generic decompilation or reverse engineering, compiler optimization, systems-for-LLM performance, and software productivity studies without a security outcome. Publication at a security venue is not by itself an inclusion criterion.
+
+Generic binary reconstruction, decompilation quality, and reverse-engineering comprehension are canonical in the sibling [Program Understanding, Binary Analysis, Decompilation, And Reverse Engineering](../../LLM-Software-Research-Dossier-2026/Academic-Status/Program-Understanding-Binary-Analysis-Decompilation-And-Reverse-Engineering.md) page.
+
+Canonicalization rules:
+
+1. Every paper has exactly one canonical table row across the `Academic-Status/` tree.
+2. The primary home follows the paper’s central contribution and oracle, not every topic it mentions.
+3. Cross-cutting and secondary views use links or citation keys, never a second paper row.
+4. Fuzzing and dynamic analysis are child methods of program analysis. Device/OS pages provide a domain view without duplicating their rows.
+5. Benchmark papers and surveys are canonically filed under `Cross-Cutting`; method pages refer to them by key.
+6. Classification follows the claimed outcome and evaluation oracle, never method vocabulary or venue alone.
 
 Labels:
 
-- `Core`: central to LLM + software/security research and backed by strong venue/source confidence.
-- `Frontier`: promising recent preprint or newly accepted paper that needs follow-up verification.
-- `Adjacent`: useful context, but not a central software-security method paper.
-- `Survey`: broad mapping, SoK, roadmap, or systematic review.
-- `Negative/Evaluation`: limits, failure modes, benchmarks, or meta-evaluation.
+- `Core`: central contribution with stable venue/source metadata.
+- `Frontier`: recent preprint or early result requiring follow-up.
+- `Negative/Evaluation`: limit, failure mode, reproduction, or comparative evaluation.
+- `Survey`: survey, SoK, or research agenda.
+- `Accepted/program record`: verified on an official 2026 program; final issue/page metadata may still change.
 
-Metadata note: accepted 2026 papers use official accepted-paper/program pages where available. arXiv-only and newly accepted papers may have incomplete DOI/page metadata; their labels reflect role and confidence in the area files.
+## Nested Area Map
 
-## Current Status
-
-The main shift is from prompt-only LLM use to hybrid, evidence-producing systems. Strong 2025-2026 work combines LLMs with CPGs, taint flows, sanitizer logs, fuzzing traces, execution feedback, API specifications, protocol documents, tests, and patch validators. LLMxCPG, IRIS, LATTE, FirmAgent, PANGOLIN, BSFuzzer, HyLLfuzz, ProtocolGuard, and AIxCC-style systems all point to the same pattern: LLMs are useful as semantic components inside analysis systems, not as standalone oracles.
-
-LLMs are most useful as "semantic glue." They infer likely sources/sinks, interpret API or protocol documentation, summarize decompiled artifacts, generate fuzzing harnesses or structured inputs, explain shell commands, propose path constraints, and draft patches. Traditional tools then check reachability, flows, crashes, regressions, or patch behavior.
-
-The hardest open problem is whole-system grounding. Real tasks require multi-file context, build/test execution, issue interpretation, dependency reasoning, long-horizon state, and noisy ground truth. Vulnerability analysis is harder than ordinary code repair because the system must distinguish vulnerable, patched, unreachable, and functionally broken variants.
-
-Benchmarks are improving, but evaluation is still fragile. The field is moving from toy snippets toward real repositories, validated vulnerabilities, dynamic oracles, CTF environments, semantic perturbations, and role-specific tasks. Remaining risks include contamination, patch-equivalence ambiguity, exploitability validation, weak generated tests, and LLM-as-judge leakage.
-
-LLM-based security tools are now security targets. Code auditors, coding assistants, RAG systems, MCP/tool interfaces, code agents, package suggestions, and execution environments create attack surfaces: biased audits, backdoored code completion, package hallucinations, prompt leakage, RCE/file risks, poisoned retrieval, over-privileged tools, and agent resource exhaustion.
-
-Patch generation is promising but not enough. APPATCH, SAN2PATCH, PORTGPT, PATCHAGENT, and AIxCC systems show progress, but the key research problem is validating that a patch fixes root cause, preserves behavior, avoids new vulnerabilities, and can be backported under branch drift.
-
-Cyber agents are orchestration problems. PentestGPT, CTF benchmarks, SOC/CTI work, and CRS systems show that progress depends less on raw model choice and more on tool boundaries, isolation, logging, resource governance, memory, environment grounding, and reliable stopping criteria.
-
-Plain summary: the early hope was that a strong model could read code and directly answer whether it was vulnerable. The evidence says that is unreliable. What works better is a verified loop: LLMs propose semantics, tests, harnesses, patches, or explanations; analyzers, fuzzers, execution, and humans check the result.
-
-## Research Directions
-
-| Direction | Core Question | Why It Matters |
+| Branch | Page | Primary question |
 | --- | --- | --- |
-| Verified LLM + program analysis loops | Can an LLM propose specs, summaries, sources/sinks, path constraints, audit rules, or harnesses while analyzers record what was actually checked? | Best aligned with IRIS, LLMxCPG, LATTE, SpecAuditor, ProtocolGuard, ConcoLLMic, Cottontail, and GONDAR. |
-| Vulnerability causality benchmarks | Can benchmarks distinguish vulnerable, patched, unreachable, refactored, and behavior-preserving variants? | Responds to SV-TrustEval-C, Flashboom, Trust Me, detector-evasion work, and benchmark contamination concerns. |
-| Exploitability and triage | Can a system move from candidate bug to reachability, preconditions, mitigation, and priority without unsafe autonomy? | Fills the defensive gap between "bug found" and "weaponized exploit." |
-| Patch validation and backporting | Can sanitizer replay, generated tests, differential execution, static checks, and patch-minimality constraints catch plausible-but-wrong fixes? | Directly follows APPATCH, SAN2PATCH, PORTGPT, PATCHAGENT, and AIxCC. |
-| Fuzzing and harness synthesis | Can LLMs generate semantically valid inputs, drivers, option combinations, and state transitions while fuzzers keep the oracle concrete? | Strong after Fuzz4All, ProphetFuzz, PromeFuzz, deepSURF, PILOT, HyLLfuzz, FirmAgent, PANGOLIN, BSFuzzer, and LogicFuzz. |
-| Domain-specific semantic bridges | Which domains have formal structure but expensive expert annotations? | High-value targets include IoT firmware, BLE/PLC/DNS protocols, Java APIs, unsafe Rust/C++, binaries, smart contracts, shell commands, and package ecosystems. |
-| Reverse-engineering assistance | What interaction patterns improve analyst speed, accuracy, and confidence on binaries, scripts, malware, and stripped/obfuscated code? | Exact-match metrics miss analyst usefulness; DeGPT, ReSym, LATTE, Raconteur, JsDeObsBench, FidelityGPT, and human-LLM SRE work point here. |
-| Secure cyber-agent orchestration | What permission model, sandbox, evidence ledger, audit trail, and cost budget should agents use when running fuzzers, shells, package managers, browsers, and patching tools? | Turns AIxCC-style CRS work into a systems-security problem. |
-| RAG and supply-chain security | Can assistants prove retrieved examples, package names, and generated dependencies are authentic, non-poisoned, and policy-compliant? | Connects CodeBreaker, package hallucination, CodeGuarder, ImportSnare, LLMSmith, PLeak, and RAG poisoning work. |
+| Security Analysis | [Program Analysis](Security-Analysis/Program-Analysis.md) | How can static/taint/graph, symbolic/concolic, fuzzing/dynamic, and security-targeted binary/RE systems use LLM semantics while retaining checkable security evidence? |
+| Vulnerability Lifecycle | [Detection, Triage, And Reasoning](Vulnerability-Lifecycle/Detection-Triage-And-Reasoning.md) | Can systems move from a candidate label to localization, reachability, reproduction, and defensible triage? |
+| Vulnerability Lifecycle | [Security Repair And Patch Validation](Vulnerability-Lifecycle/Security-Repair-And-Patch-Validation.md) | Does a patch remove root cause, preserve behavior, and survive branch drift and regression checks? |
+| Cyber Operations | [Offensive, CTF, And Pentesting](Cyber-Operations/Offensive-CTF-And-Pentesting.md) | What can safely controlled cyber agents do under reproducible environments and action logs? |
+| Cyber Operations | [Defensive SOC, Incident Response, And CTI](Cyber-Operations/Defensive-SOC-And-CTI.md) | How can analysts use models for incident reasoning, threat intelligence, and executable detection rules without losing provenance? |
+| Security Of LLM Software | [Coding, Dependency, And Supply Chain](Security-Of-LLM-Software/Coding-Dependency-And-Supply-Chain.md) | How secure and private are generated code, retrieved context, and suggested dependencies? |
+| Security Of LLM Software | [Apps, RAG, Agents, MCP, And Tool Runtimes](Security-Of-LLM-Software/App-RAG-Agent-And-Tool-Runtimes.md) | How do prompt/data flows, memory, permissions, tools, and resource lifecycles fail? |
+| Systems And OS Security | [Systems And OS Security](Systems-And-OS-Security/Systems-And-OS-Security.md) | How do LLM-assisted methods affect kernels, drivers, firmware, OS hardening, isolation, TEEs, and runtimes? |
+| Cross-Cutting | [Security Benchmarks And Evaluation](Cross-Cutting/Security-Benchmarks-And-Evaluation.md) | Which tasks have real artifacts, environments, security oracles, and contamination controls? |
+| Cross-Cutting | [Surveys And Systematization](Cross-Cutting/Surveys-And-Systematization.md) | Which taxonomies and methodological critiques organize the evidence? |
 
-## Method Patterns And Weak Baselines
+## Current Field Status
 
-| Pattern | Good Use | Representative Signals |
+The dominant positive result is a verified hybrid loop. LLMs are useful for recovering semantics that conventional tools struggle to obtain cheaply: sources/sinks, checker specifications, protocol fields, harnesses and mutators, decompiler context, incident narratives, patch intent, and tool policies. An analyzer, solver, fuzzer, runtime, test suite, policy engine, or human then checks the proposal.
+
+Standalone model judgment remains a weak baseline. Controlled studies of vulnerability detection and code auditing repeatedly expose sensitivity to transformations, misleading context, and model scale. Stronger work now reports paths, taint flows, crashes, protocol violations, executable rules, proofs of vulnerability, reproducible environments, or validated patches.
+
+The security target has widened from source code to the whole LLM software stack. Package suggestions, retrieved manuals, persistent memory, MCP descriptions, tool permissions, log context, serving caches, runtimes, and telemetry all become attacker-controlled inputs or policy boundaries.
+
+OS and systems security is now explicit. KNighter and KernelGPT connect LLM synthesis to Linux analysis/fuzzing; StepStone targets GPU drivers; PANGOLIN, FirmAgent, IoTBec, BSFuzzer, and LogicFuzz target firmware/devices; Kintsugi, IsolateGPT, TEE annotation, and Agent libOS study runtime containment. The OS branch deliberately excludes generic kernel acceleration and systems-for-LLM performance.
+
+The 2026 official-program additions sharpen four frontiers:
+
+- security-specialized fuzzing and program analysis: KNighter, Neo, R1-Fuzz, StepStone, protocol-format inference, Bulbasaur, and BugAuditor;
+- validated secure generation and repair: GoodVibe, IoT RAG guarding, SecCodePRM, secure-execution repair, OSS-Fuzz agentic repair, INTENTFIX, and PatchWeaver;
+- operational security: Incalmo, LogInject/context contamination, RulePilot, SIGMERGE, and AIOpsDoom;
+- agent/tool security: FragFuse, MATE, the MCP toolchain study, ThinkTrap, and the agentic-AI SoK.
+
+## Research Priorities
+
+| Priority | Research question | Evidence standard |
 | --- | --- | --- |
-| LLM as specification miner | Extract or contextualize sources, sinks, API rules, protocol rules, vulnerability patterns, or audit predicates. | IRIS, LLMxCPG, LATTE, GONDAR, ProtocolGuard, SpecAuditor. |
-| LLM as harness/input generator | Draft fuzz drivers, structured inputs, valid option combinations, and target-specific generators. | Fuzz4All, ProphetFuzz, PromeFuzz, deepSURF, PILOT, HyLLfuzz. |
-| LLM as taint/source/sink assistant | Fill semantic gaps while static, dynamic, or symbolic tools verify flows. | IRIS, LATTE, GONDAR, STaint, Artemis. |
-| LLM as repair/backporting agent | Propose candidate fixes while tests, sanitizers, diff checks, and build feedback validate. | APPATCH, SAN2PATCH, PORTGPT, PATCHAGENT, Mystique. |
-| LLM as reverse-engineering assistant | Rename, summarize, deobfuscate, explain, and help analysts inspect artifacts. | DeGPT, ReSym, LATTE, Raconteur, FidelityGPT, JsDeObsBench. |
-| LLM as CRS component | Orchestrate fuzzing, analysis, symbolic/concolic execution, patching, validation, and reporting. | ATLANTIS, FuzzingBrain, OSS-CRS, AIxCC SoK. |
+| Verified semantic hypotheses | Which LLM-produced sources, sinks, specs, rules, types, and constraints were actually checked? | Analyzer logs, proof obligations, path evidence, or executable specifications |
+| Vulnerability causality | Can the system distinguish vulnerable, patched, unreachable, refactored, and merely broken variants? | Controlled variants plus dynamic or semantic oracle |
+| Patch correctness | Did the patch remove root cause without regression or policy violation? | Reproduction, differential execution, regression/security tests, and review |
+| Fuzzing effectiveness | Does LLM guidance reach new security-relevant states rather than only generate plausible inputs? | Coverage, unique reproducible failures, CVE/maintainer confirmation, cost |
+| Agent/tool boundaries | Are permissions, provenance, memory, rollback, and resource budgets enforceable across tools? | Policy enforcement and adversarial end-to-end evaluation |
+| Operational usefulness | Do SOC/CTI/IR systems improve human decisions without hiding source evidence? | Field/controlled human evidence, false positives, calibration, workload |
+| OS/runtime containment | Can generated actions and vulnerable LLM components be isolated with small trusted boundaries? | Capability tests, kernel/runtime policy, TEE evidence, failure containment |
 
-Saturated or weak baselines:
+## Search Taxonomy
 
-- zero-shot "is this vulnerable?" classification on isolated functions;
-- prompt-only secure code generation without execution tests;
-- LLM-as-a-judge evaluation without an independent oracle;
-- small synthetic benchmarks where labels are obvious from CWE keywords;
-- autonomous pentesting claims without environment control, logging, and reproducibility.
-
-## Evaluation Anchors
-
-| Benchmark | Main Use |
-| --- | --- |
-| [SWE-bench](https://www.swebench.com/) / [SWE-Bench+](https://arxiv.org/abs/2410.06992) | Repository-level issue resolution and test-suite-quality warnings. |
-| [SWT-Bench](https://dblp.org/rec/conf/nips/MundlerMHV24) | Real-world bug-fix validation with code agents. |
-| [CyberSecEval 2](https://arxiv.org/abs/2404.13161) / [CyberSecEval 3](https://arxiv.org/abs/2408.01605) | Broad cyber-risk and capability evaluation. |
-| [NYU CTF Bench](https://dblp.org/rec/conf/nips/ShaoJUDxM0YGKKK24) / [Cybench](https://arxiv.org/abs/2408.08926) / [CTFKnow](https://arxiv.org/abs/2506.17644) | CTF/cybersecurity task solving and knowledge-vs-grounded-action separation. |
-| [SV-TrustEval-C](https://dblp.org/rec/conf/sp/LiBHMKJJ25) | Structure and semantic reasoning for source-code vulnerability analysis. |
-| [SeCodePLT](https://arxiv.org/abs/2410.11096) / [SafeGenBench](https://arxiv.org/abs/2506.05692) | Secure-code-generation and generated-code vulnerability evaluation. |
-| [SecureVibeBench](https://arxiv.org/abs/2509.22097) | Multi-file secure coding tasks with functional and security oracles. |
-| [CyberGym](https://arxiv.org/abs/2506.02548) | Real vulnerabilities across large codebases. |
-| [ExploitBench](https://arxiv.org/abs/2605.14153) | Capability-ladder evaluation for exploit agents. |
-
-Strong benchmarks force a model or agent to reproduce, reach, patch, or justify a vulnerability under a deterministic oracle. Weak benchmarks ask only for labels on obvious snippets.
-
-## AIxCC And End-To-End Delivery
-
-AIxCC is the strongest public signal for end-to-end LLM-assisted software security. DARPA reported Team Atlanta as the 2025 final winner, but the larger lesson is architectural: leading systems were cyber reasoning systems, not pure chat agents.
-
-The repeatable CRS pattern is:
-
-- fuzzing provides reachability and crash evidence;
-- static analysis and slicing identify candidate regions and prune search;
-- symbolic, concolic, or path-guided components reason about hard-to-reach states;
-- LLMs interpret code, docs, traces, sinks, failures, and patch intent;
-- validation loops reproduce bugs and check candidate fixes;
-- reporting produces maintainer-facing evidence, not just vulnerability labels.
-
-Key follow-up readings: `Kim2025ATLANTIS`, `Sheng2025FuzzingBrain`, `Team2026OSSCRS`, `SoK2026AIxCC`, and `Fleischer2026GONDAR`.
-
-## Area Map
-
-| Area | Why Read It | Key Reads | File |
-| --- | --- | --- | --- |
-| SE and code agents | Repo navigation, editing, tests, state management, and code-agent risk are prerequisites for security agents. | SWE-bench, SWE-agent, PORTGPT, SecureVibeBench, CyberGym. | [LLM-For-SE-And-Code-Agents.md](LLM-For-SE-And-Code-Agents.md) |
-| Program analysis | The strongest pattern is LLM-as-specification-miner plus analyzer-as-verifier. | IRIS, LLMxCPG, LATTE, GONDAR, SpecAuditor, ConcoLLMic, Cottontail. | [LLM-For-Program-Analysis.md](LLM-For-Program-Analysis.md) |
-| Fuzzing and dynamic analysis | LLMs help cross semantic barriers in inputs, harnesses, protocols, and device behavior; execution remains the oracle. | Fuzz4All, ProphetFuzz, HyLLfuzz, FirmAgent, PANGOLIN, BSFuzzer, ProtocolGuard. | [LLM-For-Fuzzing-And-Dynamic-Analysis.md](LLM-For-Fuzzing-And-Dynamic-Analysis.md) |
-| Vulnerability detection and reasoning | Read negative results before claims-heavy detector papers; structured hybrids are more credible. | LLMs Cannot Reliably..., From Large to Mammoth, SV-TrustEval-C, IRIS, LLMxCPG. | [LLM-For-Vulnerability-Detection-And-Reasoning.md](LLM-For-Vulnerability-Detection-And-Reasoning.md) |
-| Repair and patch validation | Repair must be evaluated through root-cause, regression, and backporting risk. | Zero-shot repair, APPATCH, SAN2PATCH, PORTGPT, PATCHAGENT. | [LLM-For-Repair-And-Patch-Validation.md](LLM-For-Repair-And-Patch-Validation.md) |
-| CTF, pentesting, and cyber agents | Agent success depends on safe action, observation, recovery, and evidence production. | PentestGPT, Cybench, CTFKnow, CyberSecEval, ExploitBench, AIxCC systems. | [LLM-For-CTF-Pentesting-And-Cyber-Agents.md](LLM-For-CTF-Pentesting-And-Cyber-Agents.md) |
-| Reverse engineering and binary analysis | Analyst usefulness, deobfuscation, decompilation, and agent failure modes need better metrics. | DeGPT, ReSym, LATTE, Raconteur, FidelityGPT, JsDeObsBench, human-LLM SRE. | [LLM-For-Reverse-Engineering-And-Binary-Analysis.md](LLM-For-Reverse-Engineering-And-Binary-Analysis.md) |
-| LLM app, agent, and tool attack surfaces | LLM-for-security systems inherit conventional software risks plus new tool/RAG/agent failures. | CodeBreaker, Flashboom, Trust Me, package hallucinations, LLMSmith, IsolateGPT, AgentDoS. | [LLM-App-Agent-And-Security-Tool-Attack-Surfaces.md](LLM-App-Agent-And-Security-Tool-Attack-Surfaces.md) |
-| Benchmarks and evaluation | Tracks realistic code, security, CTF, agent, and reverse-engineering benchmarks. | SWE-bench, Cybench, SV-TrustEval-C, SeCodePLT, SafeGenBench, SecureVibeBench, ExploitBench. | [Benchmarks-Datasets-And-Evaluation.md](Benchmarks-Datasets-And-Evaluation.md) |
-| Surveys and systematization | Good for orientation and source mining, not final evidence for technical claims. | LLM software-security surveys, LLM supply-chain agenda, AIxCC SoK, PHILTER. | [Surveys-And-Systematization.md](Surveys-And-Systematization.md) |
+- Security analysis
+  - static, taint, CPG, dataflow, specification mining, API misuse;
+  - symbolic/concolic execution, formal security verification;
+  - fuzzing, harness/mutator generation, protocol/input synthesis, execution feedback;
+  - security-targeted binary analysis, malicious-code deobfuscation, malware analysis, and reverse engineering whose evaluation has an explicit security oracle.
+- Vulnerability lifecycle
+  - detection reliability, localization, reachability, severity, triage;
+  - vulnerability reproduction, proof of vulnerability, CRS;
+  - security repair, backporting, patch identification, validation.
+- Cyber operations
+  - CTF, controlled pentesting, red-team agents;
+  - SOC, CTI, incident response, threat hunting, detection-rule generation.
+- Security of LLM software
+  - secure code generation, code-model poisoning, package/dependency supply chain;
+  - prompt/tool injection, RAG poisoning, memory poisoning, app RCE;
+  - MCP/tool descriptions, permissions, provenance, availability, serving cache;
+  - sandboxing, isolation, TEEs, agent runtimes.
+- Systems and OS security
+  - kernel/driver/firmware/device fuzzing and static analysis;
+  - OS configuration, hardening, patching;
+  - runtime containment and capability control.
+- Cross-cutting
+  - benchmarks, datasets, dynamic oracles, contamination, human factors, surveys, SoKs.
 
 ## Reading Order
 
-1. Foundations and reality checks: `SWE-bench`, `SWE-agent`, `LLMs Cannot Reliably...`, `From Large to Mammoth`, `SV-TrustEval-C`, `CyberSecEval`, `Cybench`.
-2. Hybrid analysis methods: `IRIS`, `LLMxCPG`, `LATTE`, `GONDAR`, `SpecAuditor`, `ConcoLLMic`, `Cottontail`.
-3. Fuzzing and harness generation: `Fuzz4All`, `ProphetFuzz`, `PromeFuzz`, `HyLLfuzz`, `deepSURF`, `PILOT`, `FirmAgent`, `PANGOLIN`, `BSFuzzer`, `ProtocolGuard`.
-4. Repair and CRS delivery: `ZeroShotRepair`, `APPATCH`, `SAN2PATCH`, `PORTGPT`, `PATCHAGENT`, `ATLANTIS`, `FuzzingBrain`, `OSS-CRS`, `AIxCC SoK`.
-5. Attack surfaces and reverse engineering: `CodeBreaker`, `Flashboom`, `Trust Me`, package hallucination studies, `LLMSmith`, `IsolateGPT`, `AgentDoS`, `DeGPT`, `JsDeObsBench`, `Raconteur`.
-6. Frontier arXiv: prioritize papers with new datasets, evidence-producing pipelines, MCP/agent-security models, or reproducible vulnerability validation.
+1. Reality checks: `Steenhoek2024LLMsCannot`, `Fang2024CodeAnalysis`, `Lin2025FromLargeToMammoth`, `Xu2025SVTrustEvalC`, `Liu2025Flashboom`, and `Evertz2026Pitfalls`.
+2. Verified program analysis: `Li2024IRIS`, `Lekssays2025LLMxCPG`, `Yang2025KNighter`, `Zhou2025LATTE`, `Lin2026SpecAuditor`, `Li2026Neo`, and `Song2026ProtocolGuard`.
+3. Fuzzing and OS evidence: `Wang2024ProphetFuzz`, `Yang2025HyLLFuzz`, `Yang2025KernelGPT`, `Li2026DeepSURF`, `Zou2026StepStone`, `Wang2026Bulbasaur`, `Jia2026PANGOLIN`, and `Ji2026FirmAgent`.
+4. Vulnerability delivery: `Nong2025APPATCH`, `Kim2025SAN2PATCH`, `Li2026PORTGPT`, `Zhang2026OSSFuzzRepair`, `INTENTFIX2026`, and `Li2026PatchWeaver`.
+5. Operations and CRS: `Deng2024PentestGPT`, `Singer2026Incalmo`, `Mustafa2026LLMSOC`, `Karanjai2026LogInject`, `Wang2026RulePilot`, `Cai2026SIGMERGE`, `Team2026OSSCRS`, and `SoK2026AIxCC`.
+6. Security of LLM software: `Yan2024CodeBreaker`, `Spracklen2025PackageHallucinations`, `Li2025CodeGuarder`, `Zhang2025IsolateGPT`, `Liu2025AgentTaint`, `Rao2026FragFuse`, `Zhao2026MCPToolchain`, and `Kim2026AgenticAISoK`.
+7. Frontier preprints only after checking artifact availability, independent evidence, and whether a later venue version supersedes the record.
 
-## Source Log
+## Venue Coverage Ledger
 
-DBLP was the main source for the focused venue set. The primary DBLP host was intermittently unavailable during the sweep, so the Trier mirror was used where needed.
+The venue families come from the repository’s AI, PL, Security, SE, and OS venue guides. This ledger is a search record, not a claim that every paper from every venue is included.
 
-- Security: [USENIX Security 2024](https://dblp.org/db/conf/uss/uss2024.html), [USENIX Security 2025](https://dblp.org/db/conf/uss/uss2025.html), [IEEE S&P 2024](https://dblp.org/db/conf/sp/sp2024.html), [IEEE S&P 2025](https://dblp.org/db/conf/sp/sp2025.html), [ACM CCS 2024](https://dblp.org/db/conf/ccs/ccs2024.html), [ACM CCS 2025](https://dblp.org/db/conf/ccs/ccs2025.html), [NDSS 2024](https://dblp.org/db/conf/ndss/ndss2024.html), [NDSS 2025](https://dblp.org/db/conf/ndss/ndss2025.html), [NDSS 2026](https://dblp.org/db/conf/ndss/ndss2026.html).
-- SE: [ICSE 2024](https://dblp.org/db/conf/icse/icse2024.html), [ICSE 2025](https://dblp.org/db/conf/icse/icse2025.html), ESEC/FSE and FSE/PACMSE through PACMSE records, [PACMSE Volume 1](https://dblp.org/db/journals/pacmse/pacmse1.html), [PACMSE Volume 2](https://dblp.org/db/journals/pacmse/pacmse2.html), [PACMSE Volume 3](https://dblp.org/db/journals/pacmse/pacmse3.html), [ASE 2024](https://dblp.org/db/conf/kbse/ase2024.html), [ASE 2025](https://dblp.org/db/conf/kbse/ase2025.html), [ISSTA 2024](https://dblp.org/db/conf/issta/issta2024.html), [ISSTA 2025 Companion](https://dblp.org/db/conf/issta/issta2025c.html).
-- PL: [PACMPL Volume 8](https://dblp.org/db/journals/pacmpl/pacmpl8.html), [PACMPL Volume 9](https://dblp.org/db/journals/pacmpl/pacmpl9.html), [PACMPL Volume 10](https://dblp.org/db/journals/pacmpl/pacmpl10.html), covering POPL/PLDI/ICFP/OOPSLA-era PACMPL publication, plus [PLDI 2024](https://dblp.org/db/conf/pldi/pldi2024.html) where needed for cross-checking.
-- AI: [ICLR 2024](https://dblp.org/db/conf/iclr/iclr2024.html), [ICLR 2025](https://dblp.org/db/conf/iclr/iclr2025.html), [ICML 2024](https://dblp.org/db/conf/icml/icml2024.html), [ICML 2025](https://dblp.org/db/conf/icml/icml2025.html), [NeurIPS 2024](https://dblp.org/db/conf/nips/neurips2024.html), [AAAI 2024](https://dblp.org/db/conf/aaai/aaai2024.html), [AAAI 2025](https://dblp.org/db/conf/aaai/aaai2025.html), [AAAI 2026](https://dblp.org/db/conf/aaai/aaai2026.html).
-- arXiv: official arXiv API, submitted-date filters from 2026-01-01 through 2026-06-06, keyword families for LLM/software security, vulnerability, fuzzing, program analysis, static analysis, cyber agents, code agents, MCP, and secure code generation.
+| Field | Venue families used | 2024–2026 result | Boundary |
+| --- | --- | --- | --- |
+| Security | IEEE S&P, USENIX Security, ACM CCS, NDSS | Highest direct yield; official 2026 programs checked through 2026-07-30 | Include direct LLM + software/cyber-security work |
+| Software Engineering | ICSE, FSE/PACMSE, ASE, ISSTA | Security-specific analysis, fuzzing, repair, review, and rules retained; 2026 ICSE/FSE programs checked | Generic APR, testing, code agents, and productivity move to sibling dossier |
+| Programming Languages | POPL, PLDI, OOPSLA, ICFP/PACMPL | Relevant taint, symbolic, formal, and repair records retained where security is explicit | Generic verification and language-modeling work excluded |
+| Artificial Intelligence | NeurIPS, ICML, ICLR, AAAI | IRIS, security benchmarks, cyber agents, and SecCodePRM retained | Generic code-generation/model papers excluded |
+| Operating Systems | OSDI, SOSP, EuroSys, USENIX ATC, FAST; ASPLOS as adjacent architecture venue | SOSP 2025 KNighter found; no direct canonical match in the current OSDI, EuroSys, USENIX ATC, or FAST sweep; ASPLOS 2025 KernelGPT retained as an adjacent-venue match | Exclude generic systems-for-LLM optimization |
+
+Venue guide anchors:
+
+- [Artificial Intelligence venues and people](<../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/Application/Artificial Intelligence Related Venues and People/Artificial Intelligence Related Venues and People.md>)
+- [PL venues and people](<../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/PL (Program Languages) Related Venues and People.md>)
+- [Security venues and people](<../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/Sec (Security) Related Venues and People.md>)
+- [SE venues and people](<../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/SE (Software Engineering) Related Venues and People.md>)
+- [OS venues and people](<../../../../🧞‍♂️ Research Frontiers, Venues, and Humans by CS Areas/System/OS (Operating System) Related Venues and People.md>)
+
+## Source And Metadata Policy
+
+- Prefer official venue programs, DOI landing pages, proceedings, DBLP, and author manuscripts, in that order.
+- Use official accepted/program pages for 2026 records whose proceedings metadata is not final and label them `Accepted/program record`.
+- Keep arXiv IDs stable and replace them with a venue record only when identity is verified.
+- The companion [BibTeX](../LLM-Software-Security-Research-Dossier-2026.bib) is curated and non-exhaustive; it covers high-priority canonical entries rather than every frontier row.
 
 ## Thesis
 
-The most promising direction is not "LLM replaces program analysis", but "LLM supplies hard-to-manualize semantic hypotheses inside a verified cyber reasoning loop that produces reproducible evidence, validated patches, and auditable decisions."
+The durable research direction is not “LLM replaces security analysis.” It is “LLM supplies difficult semantic hypotheses inside a bounded, auditable system whose analyzers, executions, policies, and people decide what is true.”

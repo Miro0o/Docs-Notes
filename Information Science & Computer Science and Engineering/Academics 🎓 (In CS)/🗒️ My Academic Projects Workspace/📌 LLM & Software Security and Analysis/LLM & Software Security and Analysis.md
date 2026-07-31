@@ -1,6 +1,29 @@
+---
+last-reviewed: 2026-07-30
+---
+
 # LLM & Software Security and Analysis
 
 [TOC]
+
+## Research Dossiers
+
+| Dossier | Canonical scope | Exclusion rule |
+| --- | --- | --- |
+| [LLM–Software Security Research Dossier 2026](LLM-Software-Security-Research-Dossier-2026/LLM-Software-Security-Research-Dossier-2026.md) | LLMs used for vulnerability discovery, security program analysis, fuzzing, exploitability/triage, security repair, cyber operations, and security of LLM-enabled software | General software quality, correctness, maintenance, and performance work belongs in the software dossier unless the evaluated objective is security |
+| [LLM–Software Research Dossier 2026](LLM-Software-Research-Dossier-2026/LLM-Software-Research-Dossier-2026.md) | Code-specific model/data/adaptation/representation research, plus LLMs used to build, understand, review, test, debug, verify, maintain, migrate, and optimize software and systems | Security-goal papers belong in the security dossier; generic non-code model research and request-level serving are outside the three dossiers |
+| [Software for LLM Agent Systems Research Dossier 2026](Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md) | Programming languages, software-engineering methods, and systems abstractions used to build, type, test, debug, observe, evolve, and operate LLM applications and agents | LLMs applied to ordinary software belong in the software dossier; security-first attacks and defenses belong in the security dossier; generic model training and request-level serving remain out of scope |
+
+Classification rule: classify first by the direction of the research contribution, then by its evaluated outcome. Each paper has one canonical home; method and domain pages cross-link instead of copying the full record.
+
+| Direction | Canonical home | Deciding test |
+| --- | --- | --- |
+| `code model/data/representation → software capability` | LLM–Software | Is the primary artifact code-specific training data, an adaptation recipe, a code model, or a learned code representation? |
+| `LLM → ordinary software/code` | LLM–Software | Is the model helping produce, understand, test, verify, maintain, optimize, or operate non-security software? |
+| `software/PL/systems → LLM applications and agents` | Software for LLM Agent Systems | Is the contribution a language, runtime, contract, harness, testing method, observability mechanism, or lifecycle method for LLM-enabled software? |
+| either direction with a security outcome | LLM–Software Security | Is the primary claim evaluated through vulnerabilities, exploitability, malware, attack/defense, security policy, privacy, or validated security repair? |
+
+Fuzzing, reverse engineering, agents, and systems are methods or domains, not automatic security labels. Their canonical home follows the primary claim and oracle.
 
 
 
@@ -33,8 +56,8 @@
 - ↗ [LLM Utilization & Prompt, Context, and Harness Engineering](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering.md)
 	- ↗ [Context Engineering & ICL (In-Context Learning)](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/LLM%20Training,%20Utilization,%20and%20Evaluation/LLM%20Utilization%20&%20Prompt,%20Context,%20and%20Harness%20Engineering/Context%20Engineering%20&%20ICL%20(In-Context%20Learning).md)
 - ↗ [LLM Applications & LLM-Driven Automation](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/LLM%20Applications%20&%20LLM-Driven%20Automation.md)
-	- ↗ [Agentic LLMs & AI Workflow](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
-		- ↗ [LLM Agentic Reasoning](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
+	- ↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
+		- ↗ [LLM Agentic Reasoning](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/📑%20LLM%20Agentic%20Reasoning/LLM%20Agentic%20Reasoning.md)
 
 ↗ [AI4SE](../../../Software%20Engineering/🤖%20AI4SE/AI4SE.md)
 - ↗ [AI4Code](../../../Software%20Engineering/🤖%20AI4SE/🤔%20AI4Code/AI4Code.md)
@@ -47,6 +70,7 @@
 	- ↗ [Sec (Security) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/Sec%20(Security)%20Related%20Venues%20and%20People.md)
 	- ↗ [SE (Software Engineering) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/SE%20(Software%20Engineering)%20Related%20Venues%20and%20People.md)
 	- ↗ [PL (Program Languages) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/PL%20(Program%20Languages)%20Related%20Venues%20and%20People.md)
+	- ↗ [OS (Operating System) Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/System/OS%20(Operating%20System)%20Related%20Venues%20and%20People.md)
 - Application
 	- ↗ [Artificial Intelligence Related Venues and People](../../🧞‍♂️%20Research%20Frontiers,%20Venues,%20and%20Humans%20by%20CS%20Areas/Application/Artificial%20Intelligence%20Related%20Venues%20and%20People/Artificial%20Intelligence%20Related%20Venues%20and%20People.md)
 
@@ -63,41 +87,17 @@ Zhu, X., Zhou, W., Han, Q.-L., Ma, W., Wen, S., & Xiang, Y. (2025). When Softwar
 
 ## Intro
 ### Research Questions
-llm arch
-- attn
 
-llm training
-- pre-train
-- post-train
-	- sft
-	- rl
-
-llm infra & deploy
-
-llm util
-- llm + agents
-	- raph loop
-	- tool calling
-	- orcastration
-- llm + prompt /context /harness
-	- reasoning
-		- reasoning + act
-	- skills
-
-llm for se
-1. llm for math
-2. llm for pl
-3. llm for program analysis
-	1. llm code reasoning
-4. llm for ctf
-5. llm for vul
-	1. explore
-	2. exploit
-6. llm for end-to-end security delivery
-
-llm for sec (end-to-end)
-1. benchmark
-2. research directions
+- Code-model foundation: which code-specific data, adaptation methods, objectives, and representations create transferable capability without contamination?
+- Software construction: when do generation, completion, translation, repository agents, and build automation produce executable, maintainable changes?
+- Correctness and analysis: how should LLM proposals be combined with types, static analysis, symbolic execution, proof assistants, tests, and runtime evidence?
+- Testing and repair: which feedback loops improve bug reproduction, oracle quality, debugging, general repair, and regression control?
+- Performance and systems: can LLMs reliably localize and implement performance, compiler, OS, cloud, and infrastructure improvements?
+- Languages and agent software: which programming models, types, contracts, compilers, runtimes, harnesses, and observability mechanisms make LLM applications dependable and maintainable?
+- Security analysis: where do LLMs add value inside static/dynamic analysis, fuzzing, binary analysis, vulnerability triage, and patch validation?
+- Cyber operations: what evidence and permission boundaries are needed for CTF, pentesting, SOC, incident-response, and end-to-end cyber agents?
+- Security of LLM-enabled software: how should coding assistants, dependencies, RAG, MCP/tool calls, agent runtimes, and generated artifacts be isolated and audited?
+- Evaluation: which benchmarks resist contamination, use executable or formal oracles, expose cost and variance, and support independent replication?
 
 
 

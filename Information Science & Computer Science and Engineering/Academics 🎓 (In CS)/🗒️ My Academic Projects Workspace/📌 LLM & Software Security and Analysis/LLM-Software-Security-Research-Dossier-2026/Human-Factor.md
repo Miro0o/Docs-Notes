@@ -1,16 +1,17 @@
 ---
 ai-generated: true
+last-reviewed: 2026-07-30
 ---
 
 # Human Factor: LLMs For Software Security And Analysis
 
-Date: 2026-06-06
+Date: 2026-07-30
 
 Home: [LLM-Software-Security-Research-Dossier-2026.md](LLM-Software-Security-Research-Dossier-2026.md)
 
 This file covers the socio-technical layer of LLMs for software security and analysis: developer behavior, SOC analyst collaboration, reverse-engineering assistance, red-team labor, bug-bounty and maintainer workflows, oversight, approval burden, trust calibration, and the research ecosystem around human-facing security systems.
 
-## Main Focus: United States And China As Of 2026-06-06
+## Main Focus: United States And China As Of 2026-07-30
 
 The United States and China should be treated as the primary country pair for this dossier.
 

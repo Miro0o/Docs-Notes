@@ -1,6 +1,13 @@
+---
+last-reviewed: 2026-07-30
+---
+
 # LLM & Fuzzing
 
 [TOC]
+
+> [!note] Canonical literature index
+> The maintained 2024–2026 paper map is in the [LLM–Software Security Research Dossier](LLM-Software-Security-Research-Dossier-2026/Academic-Status/Academic-Status.md). In that taxonomy, security fuzzing and dynamic analysis are subtopics of security program analysis. This note remains the long-form working notebook.
 
 
 
@@ -260,7 +267,7 @@ We propose two solutions to solve the two aforementioned challenges respectively
 
 
 ### Fuzzing Under Multi-Agent LLM
-↗ [Agentic LLMs & AI Workflow](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20AI%20Workflow/Agentic%20LLMs%20&%20AI%20Workflow.md)
+↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
 ![](../../../../../../../Assets/Pics/Pasted%20image%2020240512204130.png)
 
 

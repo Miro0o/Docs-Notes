@@ -1,16 +1,17 @@
 ---
 ai-generated: true
+last-reviewed: 2026-07-30
 ---
 
 # Non-Academic Status: LLMs For Software Security And Cyber Reasoning
 
-Date: 2026-06-06
+Date: 2026-07-30
 
 Home: [LLM-Software-Security-Research-Dossier-2026.md](LLM-Software-Security-Research-Dossier-2026.md)
 
 This file tracks non-academic and operational signals: model-capability reports, government evaluations, contests, bug-bounty telemetry, threat-intelligence reporting, secure-agent deployment guidance, China-focused benchmarks, and field activity.
 
-## Current Capability Boundary As Of 2026-06-06
+## Current Capability Boundary As Of 2026-07-30
 
 The current boundary is not "AI can hack" versus "AI cannot hack." The useful distinction is bounded, instrumented cyber reasoning versus open-world offensive reliability. Public evidence now supports the first claim strongly and the second claim only partially.
 

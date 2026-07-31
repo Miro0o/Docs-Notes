@@ -1,6 +1,13 @@
+---
+last-reviewed: 2026-07-30
+---
+
 # LLM & Supply Chain Security
 
 [TOC]
+
+> [!note] Canonical literature index
+> The maintained 2024–2026 paper map is in the [LLM–Software Security Research Dossier](LLM-Software-Security-Research-Dossier-2026/Academic-Status/Academic-Status.md), under security of LLM-enabled software and coding/dependency supply chains. This file remains a broader working notebook and dataset list.
 
 
 
@@ -103,4 +110,3 @@ All samples are divided into three categories:
 
 https://github.com/404notf0und/AI-for-Security-Learning?tab=readme-ov-file
 安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记），持续阅读，保持对业界技术的跟进和迭代
-
